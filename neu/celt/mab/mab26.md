@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab25)  [Next](mab27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab25)  [Next](mab27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -24,7 +24,7 @@ Textual Heritage
 
 THIS IS THE FOURTH PORTION OF THE MABINOGI
 
-Math the son of Mathonwy [413a](mab27.htm#xref_413a) was lord over
+Math the son of Mathonwy [413a](mab27.htm#xref_413a.md) was lord over
 Gwynedd, and Pryderi the son of Pwyll was lord over the one-and-twenty
 Cantrevs of the South; and these were the seven Cantrevs of Dyved, and
 the seven Cantrevs of Morganwc, the four Cantrevs of Ceredigiawn, and
@@ -33,10 +33,10 @@ the three of Ystrad Tywi.
 At that time, Math the son of Mathonwy could not exist unless his feet
 were in the lap of a maiden, except only when he was prevented by the
 tumult of war. Now the maiden who was with him was Goewin, the daughter
-of Pebin [413b](mab27.htm#xref_413b) of Dôl Pebin, in Arvon, and she was
+of Pebin [413b](mab27.htm#xref_413b.md) of Dôl Pebin, in Arvon, and she was
 the fairest maiden of her time who was known there.
 
-And Math dwelt always at Caer Dathyl [413c](mab27.htm#xref_413c), in
+And Math dwelt always at Caer Dathyl [413c](mab27.htm#xref_413c.md), in
 Arvon, and was not able to go the circuit of the land, but Gilvaethwy
 the son of Don, and Eneyd the son of Don, his nephews, the sons of his
 sisters, with his household, went the circuit of the land in his stead.
@@ -49,7 +49,7 @@ should do because of her, and therefrom behold his hue, and his aspect,
 and his spirits changed for love of her, so that it was not easy to know
 him.
 
-One day his brother Gwydion [414a](mab27.htm#xref_414a) gazed
+One day his brother Gwydion [414a](mab27.htm#xref_414a.md) gazed
 steadfastly upon him. "Youth," said he, "what aileth thee?" "Why,"
 replied he, "what seest thou in me?" "I see," said he, "that thou hast
 lost thy aspect and thy hue; what, therefore, aileth thee?" "My lord
@@ -321,7 +321,7 @@ And after they were equipped, they came unto him. "Oh men," said he,
 "you have obtained peace, and you shall likewise have friendship. Give
 your counsel unto me, what maiden I shall seek." "Lord," said Gwydion
 the son of Don, "it is easy to give thee counsel; seek
-Arianrod [421a](mab27.htm#xref_421a), the daughter of Don, thy niece,
+Arianrod [421a](mab27.htm#xref_421a.md), the daughter of Don, thy niece,
 thy sister's daughter."
 
 And they brought her unto him, and the maiden came in. "Ha, damsel,"
@@ -342,7 +342,7 @@ the name I will give him."
 So they had the boy baptized, and as they baptized him he plunged into
 the sea. And immediately when he was in the sea, he took its nature, and
 swam as well as the best fish that was therein. And for that reason was
-he called Dylan, the son of the Wave [421b](mab27.htm#xref_421b).
+he called Dylan, the son of the Wave [421b](mab27.htm#xref_421b.md).
 Beneath him no wave ever broke. And the blow whereby he came to his
 death, was struck
 
@@ -367,7 +367,7 @@ else. Then was the boy reared at the Court until he was four years old,
 when he was as big as though he had been eight.
 
 And one day Gwydion walked forth, and the boy followed him, and he went
-to the Castle of Arianrod [422a](mab27.htm#xref_422a), having the boy
+to the Castle of Arianrod [422a](mab27.htm#xref_422a.md), having the boy
 with him; and when he came into the Court, Arianrod arose to meet him,
 and greeted him and bade him welcome. "Heaven prosper thee," said he.
 "Who is the boy that followeth thee?" she asked. "This youth, he is thy
@@ -428,7 +428,7 @@ Thereupon behold a wren stood upon the deck of the boat, and the boy
 shot at it, and hit it in the leg between the sinew and the bone. Then
 she smiled. "Verily," said she, "with a steady hand did the lion aim at
 it." "Heaven reward thee not, but now has he got a name. And a good
-enough name it is. Llew Llaw Gyffes [424a](mab27.htm#xref_424a) be he
+enough name it is. Llew Llaw Gyffes [424a](mab27.htm#xref_424a.md) be he
 called henceforth."
 
 Then the work disappeared in seaweed and sedges, and he went on with it
@@ -440,7 +440,7 @@ boy, that he shall never have arms and armour until I invest him with
 them." "By Heaven," said he, "let thy malice be what it may, he shall
 have arms."
 
-Then they went towards Dinas Dinllev [424b](mab27.htm#xref_424b), and
+Then they went towards Dinas Dinllev [424b](mab27.htm#xref_424b.md), and
 there he brought up Llew Llaw Gyffes, until he could manage any horse,
 and he was perfect in features, and strength, and stature. And then
 Gwydion saw that he languished through the want of horses and arms. And
@@ -513,7 +513,7 @@ ever beheld." So they took the blossoms of the oak, and the blossoms of
 the broom, and the blossoms of the meadow-sweet, and produced from them
 a maiden, the fairest and most graceful that man ever saw. And they
 baptized her, and gave her the name of
-Blodeuwedd [426a](mab27.htm#xref_426a).
+Blodeuwedd [426a](mab27.htm#xref_426a.md).
 
 After she had become his bride, and they had feasted, said Gwydion, "It
 is not easy for a man to maintain himself without possessions." "Of a
@@ -521,7 +521,7 @@ truth," said Math, "I will give the young man the best Cantrev to hold."
 "Lord," said he, "what Cantrev is that?" "The Cantrev of Dinodig," he
 answered. Now it is called at this day Eivionydd and Ardudwy. And the
 place in the Cantrev where he dwelt, was a palace of his in a spot
-called Mur y Castell [426b](mab27.htm#xref_426b), on the confines of
+called Mur y Castell [426b](mab27.htm#xref_426b.md), on the confines of
 Ardudwy. There dwelt he and reigned, and both he and his sway were
 beloved by all.
 
@@ -739,7 +739,7 @@ shalt be always called Blodeuwedd." Now Blodeuwedd is an owl in the
 language of this present time, and for this reason is the owl hateful
 unto all birds. And even now the owl is called Blodeuwedd.
 
-Then Gronw Pebyr [432a](mab27.htm#xref_432a) withdrew unto Penllyn, and
+Then Gronw Pebyr [432a](mab27.htm#xref_432a.md) withdrew unto Penllyn, and
 he dispatched thence an embassy. And the messengers he sent asked Llew
 Llaw Gyffes if he would take land, or domain, or gold, or silver, for
 the injury he had received. "I will not, by my confession to Heaven,"
@@ -783,4 +783,4 @@ after this over Gwynedd. And thus ends this portion of the Mabinogi.
 
 ------------------------------------------------------------------------
 
-[Next: Notes to Math the Son of Mathonwy](mab27)
+[Next: Notes to Math the Son of Mathonwy](mab27.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal060)  [Next](njal062) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal060)  [Next](njal062.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ periphrasis for "bountiful chief."
 
 ------------------------------------------------------------------------
 
-[Next: 62. The Slaying Of Hjort And Fourteen Men](njal062)
+[Next: 62. The Slaying Of Hjort And Fourteen Men](njal062.md)

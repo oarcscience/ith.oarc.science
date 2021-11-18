@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois14) 
-[Next](wois16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois14.md) 
+[Next](wois16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -34,7 +34,7 @@ shoulders.
 
 But Scripture tells of God speaking to Adam and to Noah; to the common
 earth man and to him who was the type of the whole human race. <span
-id="fr_10"></span>[\*](#fn_9) This is like unto a king who speaks to his
+id="fr_10"></span>[\*](#fn_9.md) This is like unto a king who speaks to his
 own husbandmen, his gardeners, and the keeper of his cattle. For God
 gave to Adam the task of keeping and tilling the Garden of Eden, and
 Noah he commanded to take care of the cattle, and preserve them alive at
@@ -75,7 +75,7 @@ Comp. *Vayikra Rabbah*, Chap. I.; *Bereshith R.*, LII.; and *Nasso*.
 
 ### Footnotes
 
-<span id="fn_9"></span>[30:\*](wois15.htm#fr_10) There are, in Hebrew,
+<span id="fn_9"></span>[30:\*](wois15.htm#fr_10.md) There are, in Hebrew,
 several words for "man." *Adam*, from the same root as *adamah*, the red
 earth, the ground, is used for all mankind in general (Latin, *homo*),
 and also as opposed to *eesh*, the higher type of man; while *geber*,
@@ -86,6 +86,6 @@ from a root suggesting strength, is nearly an equivalent for the Latin
 
 ------------------------------------------------------------------------
 
-[Next: The Pavilion of the King's Daughter](wois16)
+[Next: The Pavilion of the King's Daughter](wois16.md)
 
 </div>

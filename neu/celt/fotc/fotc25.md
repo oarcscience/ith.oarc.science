@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fotc24)  [Next](fotc26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fotc24)  [Next](fotc26.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Feuds of the Clans*, by Alexander MacGregor, \[1907\], at
 Intangible Textual Heritage
 
@@ -242,4 +242,4 @@ sons were left as pledges for their obedience in time coming.
 
 ------------------------------------------------------------------------
 
-[Next: The Troubles Between Sutherland and Caithness in 1587–90](fotc26)
+[Next: The Troubles Between Sutherland and Caithness in 1587–90](fotc26.md)

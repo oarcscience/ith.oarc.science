@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma46)  [Next](oma48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma46)  [Next](oma48.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_pl14a"></span>
 
 [![Plate 14, Figure 1](tn/pl14a.jpg)  
-Click to enlarge](img/pl14a.jpg)  
+Click to enlarge](img/pl14a.jpg.md)  
 Plate 14, Figure 1  
 
 FIGURE 1. Prayer sticks used by Kopishtaiya, also Antelope clan staff.
@@ -19,7 +19,7 @@ it is laid so that the head faces the pueblo. The Kopishtaiya use it in
 entering the pueblo. *b*, Shield (haiitsi) of Kopishtaiya, a hoop
 (brown) with cotton string (black) fastened like a star. *c*, Staff
 (yapi) (pink) the Antelope clan use in the drama of the katsina war,
-willow (see [p. 72](oma22.htm#page_72)). *d*, Used as a cane (gray) by
+willow (see [p. 72](oma22.htm#page_72)). *d*, Used as a cane (gray.md) by
 Tsiukiri, Kopishtaiya chief. Turkey feathers at tip of crook (white),
 eagle and parrot feathers. *e*, This hiatsimuh prayer stick (brown,
 feathers red) laid by the Kopishtaiya against corners of houses and
@@ -30,7 +30,7 @@ time. The paint iakatcha (manly paint) they get from Hopi. Faces above
 <span id="img_pl14b"></span>
 
 [![Plate 14, Figure 2](tn/pl14b.jpg)  
-Click to enlarge](img/pl14b.jpg)  
+Click to enlarge](img/pl14b.jpg.md)  
 Plate 14, Figure 2  
 
 FIGURE 2. Miniature ritual implements. *a*, Kick sticks (black and
@@ -44,4 +44,4 @@ for Iatiku.
 
 ------------------------------------------------------------------------
 
-[Next: Plate 15](oma48)
+[Next: Plate 15](oma48.md)

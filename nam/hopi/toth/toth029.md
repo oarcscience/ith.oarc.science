@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth028)  [Next](toth030) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth028)  [Next](toth030.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 26. THE PÖ'OKONGS AND THE BÁLÖLÖOKONG. <span id="fr_71"></span>[1](#fn_69)
+## 26. THE PÖ'OKONGS AND THE BÁLÖLÖOKONG. <span id="fr_71"></span>[1](#fn_69.md)
 
 Alíksai! In Mishóngnovi where now are the ruins, the people lived, and
 there lived a family consisting of a father, mother, a youth, and a
@@ -46,7 +46,7 @@ the village.
 When he arrived at their house the two youths were romping about. "Be
 quiet," their grandmother, Spider Woman, said, "be quiet, somebody has
 come here." So they were quiet. "Sit down, sit down," she said to the
-man, and then set some hurúshiki <span id="fr_72"></span>[1](#fn_70)
+man, and then set some hurúshiki <span id="fr_72"></span>[1](#fn_70.md)
 before him, of which he ate. It was just a small ball, but as he ate
 from it it kept increasing again. When he was done she said to him, "Now
 why do you come? What is the matter?" "Yes," he said, "yes, yesterday
@@ -148,7 +148,7 @@ not too late." Hereupon they put other clothes on the
 <span id="page_105">p. 105</span>
 
 maiden and laid a pûhu of red feathers for her on the path. <span
-id="fr_73"></span>[1](toth030.htm#fn_71) The tray with all the
+id="fr_73"></span>[1](toth030.htm#fn_71.md) The tray with all the
 nakwákwosis they threw into the spring for the maiden, because with this
 price they had purchased the mána back from the water serpent. And they
 threw the prayer-offerings into the spring that nothing further should
@@ -170,13 +170,13 @@ save the mána.
 
 ### Footnotes
 
-<span id="fn_69"></span>[102:1](toth029.htm#fr_71) Told by Sik'áhpiki
+<span id="fn_69"></span>[102:1](toth029.htm#fr_71.md) Told by Sik'áhpiki
 (Shupaúlavi).
 
-<span id="fn_70"></span>[103:1](toth029.htm#fr_72) Prepared of corn-meal
+<span id="fn_70"></span>[103:1](toth029.htm#fr_72.md) Prepared of corn-meal
 and water and sometimes formed into balls.
 
 ------------------------------------------------------------------------
 
 [Next: 27. How the Yellow Corn-Ear Maiden Became A Bull Snake and
-Revenged Herself](toth030)
+Revenged Herself](toth030.md)

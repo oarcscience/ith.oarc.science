@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj30) 
-[Next](npj32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj30.md) 
+[Next](npj32.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ BOTH.
 
 "On a thousand leagues of lovely hill clouds suddenly close;  
 But by one tower the bright moon shines in a clear sky." <span
-id="fr_171"></span>[1](#fn_169)  
+id="fr_171"></span>[1](#fn_169.md)  
 A pleasant season, truly: on the pine-wood shore  
 The countenance of Spring;  
 Early mist close-clasped to the swell of the sea;  
@@ -89,7 +89,7 @@ HAKURYŌ.
 
 How? Is the owner of this cloak an angel of the sky? Why, then, I will
 put it in safe keeping. It shall be a treasure in the land, a marvel to
-men unborn. <span id="fr_172"></span>[1](#fn_170) I will not give back
+men unborn. <span id="fr_172"></span>[1](#fn_170.md) I will not give back
 your cloak.
 
 ANGEL.
@@ -139,7 +139,7 @@ CHORUS.
 Then on her coronet,  
 Jewelled as with the dew of tears,  
 The bright flowers drooped and faded. <span
-id="fr_173"></span>[1](#fn_171)  
+id="fr_173"></span>[1](#fn_171.md)  
 O piteous to see before the eyes,  
 Fivefold the signs of sickness  
 Corrupt an angel's form.
@@ -156,7 +156,7 @@ At your will wandering
 For ever idle in the empty sky  
 That was my home!  
 Now fades and fades upon my ear  
-The voice of Kalavink, <span id="fr_174"></span>[1](#fn_172)  
+The voice of Kalavink, <span id="fr_174"></span>[1](#fn_172.md)  
 Daily accustomed song.  
 And you, oh you I envy,  
 Wild-geese clamorous  
@@ -241,7 +241,7 @@ an ancient Shintō chant*.)
 "Why name we  
 Wide-stretched and everlasting.  
 The sky of heaven?  
-Two gods <span id="fr_175"></span>[1](#fn_173) there came of old <span
+Two gods <span id="fr_175"></span>[1](#fn_173.md) there came of old <span
 id="page_183">p. 183</span>  
 And built, upon ten sides shut in,  
 A measured world for men;  
@@ -274,8 +274,8 @@ A moon-lady of heaven.
 CHORUS.
 
 "Mine is the fruit of the moon-tree, <span
-id="fr_176"></span>[1](#fn_174) yet came I to the East incarnate, <span
-id="fr_177"></span>[2](#fn_175)  
+id="fr_176"></span>[1](#fn_174.md) yet came I to the East incarnate, <span
+id="fr_177"></span>[2](#fn_175.md)  
 Dwelt with the people of Earth, and gave them  
 A gift of music, song-dance of Suruga.
 
@@ -291,7 +291,7 @@ Of a maid divine!
 This tint of springtime in the woods, <span id="page_184">p.
 184</span>  
 This colour on the headland,  
-Snow on the mountain, <span id="fr_178"></span>[1](#fn_176)  
+Snow on the mountain, <span id="fr_178"></span>[1](#fn_176.md)  
 Moonlight on the clear shore,--  
 Which fairest? Nay, each peerless  
 At the dawn of a Spring day.  
@@ -300,7 +300,7 @@ Along the quiet shore. Say you, what cause
 Has Heaven to be estranged  
 From us Earth-men; are we not children of the Gods,  
 Within, without the jewelled temple wall, <span
-id="fr_179"></span>[2](#fn_177)  
+id="fr_179"></span>[2](#fn_177.md)  
 Born where no cloud dares dim the waiting moon,  
 Land of Sunrise?"
 
@@ -309,14 +309,14 @@ ANGEL.
 May our Lord's life  
 Last long as a great rock rubbed  
 Only by the rare trailing  
-Of an angel's feather-skirt. <span id="fr_180"></span>[3](#fn_178)  
+Of an angel's feather-skirt. <span id="fr_180"></span>[3](#fn_178.md)  
 Oh, marvellous music!  
 The Eastern song joined  
 To many instruments;  
 Harp, zither, pan-pipes, flute,  
 Belly their notes beyond the lonely clouds.  
 The sunset stained with crimson light  
-From Mount Sumeru's side; <span id="fr_181"></span>[4](#fn_179)  
+From Mount Sumeru's side; <span id="fr_181"></span>[4](#fn_179.md)  
 For green, the islands floating on the sea;  
 For whiteness whirled  
 A snow of blossom blasted  
@@ -328,7 +328,7 @@ Of sleeves waving.
 NAMU KIMYO GWATTEN-SHI.  
 To thee, O Monarch of the Moon,  
 Be glory and praise,  
-Thou son of Seishi Omnipotent! <span id="fr_182"></span>[5](#fn_180)
+Thou son of Seishi Omnipotent! <span id="fr_182"></span>[5](#fn_180.md)
 
  
 
@@ -371,7 +371,7 @@ Shines on us in the sky of midnight,
 The fifteenth night,  
 With the beam of perfect fulfilment,  
 The splendor of Truth.  
-The vows <span id="fr_183"></span>[1](#fn_181) are fulfilled, and the
+The vows <span id="fr_183"></span>[1](#fn_181.md) are fulfilled, and the
 land we live in  
 Rich with the Seven Treasures  
 By this dance rained down on us,  
@@ -389,48 +389,48 @@ Now lost to sight.
 
 ### Footnotes
 
-<span id="fn_169"></span>[178:1](npj31.htm#fr_171) A Chinese couplet
+<span id="fn_169"></span>[178:1](npj31.htm#fr_171.md) A Chinese couplet
 quoted from the *Shih Jēn Yü Hsieh* ("Jade-dust of the Poets"), a Sung
 Dynasty work on poetry which was popular in Japan.
 
-<span id="fn_170"></span>[179:1](npj31.htm#fr_172) *Masse* here means, I
+<span id="fn_170"></span>[179:1](npj31.htm#fr_172.md) *Masse* here means, I
 think, "future generations," not "this degraded age."
 
-<span id="fn_171"></span>[180 :1](npj31.htm#fr_173) When an angel is
+<span id="fn_171"></span>[180 :1](npj31.htm#fr_173.md) When an angel is
 about to die, the flowers of his crown wither, his feather robe is
 stained with dust, sweat pours from under the arm-pits. the eyelids
 tremble, he is tired of his place in heaven.
 
-<span id="fn_172"></span>[181:1](npj31.htm#fr_174) The sacred bird of
+<span id="fn_172"></span>[181:1](npj31.htm#fr_174.md) The sacred bird of
 heaven.
 
-<span id="fn_173"></span>[182:1](npj31.htm#fr_175) Izanagi and Izanami.
+<span id="fn_173"></span>[182:1](npj31.htm#fr_175.md) Izanagi and Izanami.
 
-<span id="fn_174"></span>[183:1](npj31.htm#fr_176) 1 The "Katsura" tree,
+<span id="fn_174"></span>[183:1](npj31.htm#fr_176.md) 1 The "Katsura" tree,
 a kind of laurel supposed to grow in the moon.
 
-<span id="fn_175"></span>[183:2](npj31.htm#fr_177) Lit "dividing my
+<span id="fn_175"></span>[183:2](npj31.htm#fr_177.md) Lit "dividing my
 body," an expression used of Buddhist divinities that detach a portion
 of their godhead and incarnate it in some visible form.
 
-<span id="fn_176"></span>[184:1](npj31.htm#fr_178) Fuji.
+<span id="fn_176"></span>[184:1](npj31.htm#fr_178.md) Fuji.
 
-<span id="fn_177"></span>[184:2](npj31.htm#fr_179) The inner and outer
+<span id="fn_177"></span>[184:2](npj31.htm#fr_179.md) The inner and outer
 temples at Ise.
 
-<span id="fn_178"></span>[184:3](npj31.htm#fr_180) Quoting an ancient
+<span id="fn_178"></span>[184:3](npj31.htm#fr_180.md) Quoting an ancient
 prayer for the Mikado.
 
-<span id="fn_179"></span>[184:4](npj31.htm#fr_181) Sumeru is the great
+<span id="fn_179"></span>[184:4](npj31.htm#fr_181.md) Sumeru is the great
 mountain at the centre of the universe. Its west side is of rubies, its
 south side of green stones, its east side of white stones, etc.
 
-<span id="fn_180"></span>[184:5](npj31.htm#fr_182) Called in Sanskrit
+<span id="fn_180"></span>[184:5](npj31.htm#fr_182.md) Called in Sanskrit
 Mahāsthāma-prāpta, third person of the Trinity sitting on Amida's right
 hand. The Moon-God is an emanation of this deity.
 
-<span id="fn_181"></span>[185:1](npj31.htm#fr_183) Of Buddha.
+<span id="fn_181"></span>[185:1](npj31.htm#fr_183.md) Of Buddha.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](npj32)
+[Next: Chapter VI](npj32.md)

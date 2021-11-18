@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch85) 
-[Next](pch87) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch85.md) 
+[Next](pch87.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -269,4 +269,4 @@ ascertainable."
 
 ------------------------------------------------------------------------
 
-[Next: Appendix C. Replies to Criticisms](pch87)
+[Next: Appendix C. Replies to Criticisms](pch87.md)

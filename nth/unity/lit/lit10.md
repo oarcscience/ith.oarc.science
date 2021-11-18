@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](lit09)  [Next](lit11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](lit09)  [Next](lit11.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Lessons in Truth*, by H. Emilie Cady, \[1894\], at Intangible Textual
 Heritage
 
@@ -327,4 +327,4 @@ power that worketh in us" (Eph. 3:20).
 
 ------------------------------------------------------------------------
 
-[Next: Lesson 10](lit11)
+[Next: Lesson 10](lit11.md)

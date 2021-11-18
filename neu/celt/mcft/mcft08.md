@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mcft07)  [Next](mcft09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mcft07)  [Next](mcft09.md) 
 
 ------------------------------------------------------------------------
 
@@ -484,4 +484,4 @@ the air and it returned to Blue Niall.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the McAndrew Family](mcft09)
+[Next: The Story of the McAndrew Family](mcft09.md)

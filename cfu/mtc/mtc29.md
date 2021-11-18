@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc28)  [Next](mtc30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc28)  [Next](mtc30.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -41,6 +41,6 @@ Ere my eyes are closed, I have travelled to Tung-ch‘uan.
 
 ------------------------------------------------------------------------
 
-[Next: Starting Early From the Ch‘u-Ch‘ēng Inn](mtc30)
+[Next: Starting Early From the Ch‘u-Ch‘ēng Inn](mtc30.md)
 
 </div>

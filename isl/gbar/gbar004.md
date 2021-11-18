@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar003) [Next](gbar005)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar003) [Next](gbar005.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ child be?'
 
 ------------------------------------------------------------------------
 
-[Next](gbar005)
+[Next](gbar005.md)
 
  
 

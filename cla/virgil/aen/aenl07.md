@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](aen07) 
-[Previous](aenl06)  [Next](aenl08) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](aen07.md) 
+[Previous](aenl06)  [Next](aenl08.md) 
 
 ------------------------------------------------------------------------
 
@@ -866,4 +866,4 @@ et pastoralem praefixa cuspide myrtum.
 
 ------------------------------------------------------------------------
 
-[Next: Book VIII](aenl08)
+[Next: Book VIII](aenl08.md)

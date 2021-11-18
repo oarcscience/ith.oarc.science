@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo17)  [Next](lboo19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo17)  [Next](lboo19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ quid precer iratus, nisi vos cariosa senectus<br />
 ------------------------------------------------------------------------
 
 [Next: Elegy XIII: He Entreats The Dawn To Hasten Not Her
-Coming.](lboo19)
+Coming.](lboo19.md)

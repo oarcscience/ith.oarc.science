@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Next](motc01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Next](motc01.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,31 +34,31 @@ Heritage
 <span id="img_00100"></span>
 
 [![Page 1](tn/00100.jpg)  
-Click to enlarge](img/00100.jpg)  
+Click to enlarge](img/00100.jpg.md)  
 Page 1  
 
 <span id="img_00200"></span>
 
 [![Page 2](tn/00200.jpg)  
-Click to enlarge](img/00200.jpg)  
+Click to enlarge](img/00200.jpg.md)  
 Page 2  
 
 <span id="img_front"></span>
 
 [![Frontispiece](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece  
 
 <span id="img_title"></span>
 
 [![Title](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title  
 
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 Scanned at Intangible Textual Heritage, July 2006. This text is in the
@@ -69,4 +69,4 @@ notice of attribution is left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Translator's Foreword](motc01)
+[Next: Translator's Foreword](motc01.md)

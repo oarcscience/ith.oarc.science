@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sss03)  [Next](sss05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sss03)  [Next](sss05.md) 
 
 ------------------------------------------------------------------------
 
@@ -854,4 +854,4 @@ Ummaiya, the Ulysses of the Persian romance of Amir Hamzah!
 
 ------------------------------------------------------------------------
 
-[Next: III. The Malay Magician](sss05)
+[Next: III. The Malay Magician](sss05.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar16)  [Next](gar18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar16)  [Next](gar18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -69,7 +69,7 @@ and Mystery, they made the Institution, in this respect, conform to the
 divine order of Nature. In the Pythagorean Freemasonry, silence and
 secrecy were religious duties, and held to be the most fruitful sources
 of intellectual and moral improvement. A distinguished modern
-writer <span id="fr_5"></span>[\*](#fn_5) repeats the same idea in
+writer <span id="fr_5"></span>[\*](#fn_5.md) repeats the same idea in
 quaint but forcible language:—"Thoughts will not work, except in
 silence; neither will virtue work, except in secrecy: Like other plants,
 virtue will not grow, unless its roots be hidden, buried from the light
@@ -136,9 +136,9 @@ this world to the next.
 
 ### Footnotes
 
-<span id="fn_5"></span>[62:\*](gar17.htm#fr_5) THOMAS CARLYLE—*Sartor
+<span id="fn_5"></span>[62:\*](gar17.htm#fr_5.md) THOMAS CARLYLE—*Sartor
 Resartus*.
 
 ------------------------------------------------------------------------
 
-[Next: Rite of Illumination. Investiture of the Candidate](gar18)
+[Next: Rite of Illumination. Investiture of the Candidate](gar18.md)

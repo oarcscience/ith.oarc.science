@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo56)  [Next](sdo58) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo56)  [Next](sdo58.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ in four's, mankind should do everything possible in four's.
 
 ------------------------------------------------------------------------
 
-[Next: The Circle](sdo58)
+[Next: The Circle](sdo58.md)

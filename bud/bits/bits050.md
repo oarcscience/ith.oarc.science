@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits049) [Next](bits051)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits049) [Next](bits051.md)
 
 ------------------------------------------------------------------------
 
@@ -112,7 +112,7 @@ not die so long as that wickedness is unexhausted.'"
 
 ------------------------------------------------------------------------
 
-[Next: § 51. Death's Messengers](bits051)
+[Next: § 51. Death's Messengers](bits051.md)
 
  
 

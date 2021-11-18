@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly35)  [Next](lly37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly35)  [Next](lly37.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 <span id="img_09500"></span> [![THE HIGH SIERRA&lt;BR&gt; &lt;I&gt;Photo
 H. C. Tibbitts&lt;/I&gt;](tn/09500.jpg)  
-Click to enlarge](img/09500.jpg)  
+Click to enlarge](img/09500.jpg.md)  
 THE HIGH SIERRA  
 *Photo H. C. Tibbitts*  
 
@@ -30,7 +30,7 @@ streams were swarming with fish. The meadows were thick in clover.
 <span id="img_09600"></span> [![ACORN CACHE AND YO-SEM-I-TE
 SQUAW&lt;BR&gt; &lt;I&gt;Photo A. C.
 Pillsbury&lt;/I&gt;](tn/09600.jpg)  
-Click to enlarge](img/09600.jpg)  
+Click to enlarge](img/09600.jpg.md)  
 ACORN CACHE AND YO-SEM-I-TE SQUAW  
 *Photo A. C. Pillsbury*  
 
@@ -47,4 +47,4 @@ themselves Ah-wah-nee-chees, signifying "dwellers in Ah-wah-nee."
 
 ------------------------------------------------------------------------
 
-[Next: Acorns](lly37)
+[Next: Acorns](lly37.md)

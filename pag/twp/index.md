@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,15 +22,15 @@ period.
 
 ------------------------------------------------------------------------
 
-[Title Page](twp00)  
-[Table of Contents.](twp01)  
-[Introduction.](twp02)  
-[I. The Theory of Witch-Persecution.](twp03)  
-[II. The Beginnings of the Witch-Persecutions.](twp04)  
-[III. The Witch-Persecution at Trier.](twp05)  
-[IV. The Witch-Persecution at Bonn.](twp06)  
-[V. The Witch-Persecution in Scotland.](twp07)  
-[VI. The Witch-Persecution at Bamberg.](twp08)  
-[VII. The Witch-Persecution at Würzburg.](twp09)  
-[VIII. The Methods of the Witch-Persecutions.](twp10)  
-[IX. Select Bibliography.](twp11)  
+[Title Page](twp00.md)  
+[Table of Contents.](twp01.md)  
+[Introduction.](twp02.md)  
+[I. The Theory of Witch-Persecution.](twp03.md)  
+[II. The Beginnings of the Witch-Persecutions.](twp04.md)  
+[III. The Witch-Persecution at Trier.](twp05.md)  
+[IV. The Witch-Persecution at Bonn.](twp06.md)  
+[V. The Witch-Persecution in Scotland.](twp07.md)  
+[VI. The Witch-Persecution at Bamberg.](twp08.md)  
+[VII. The Witch-Persecution at Würzburg.](twp09.md)  
+[VIII. The Methods of the Witch-Persecutions.](twp10.md)  
+[IX. Select Bibliography.](twp11.md)  

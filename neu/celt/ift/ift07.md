@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ift06)  [Next](ift08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ift06)  [Next](ift08.md) 
 
 ------------------------------------------------------------------------
 
@@ -779,4 +779,4 @@ of the Drab Coat.
 
 ------------------------------------------------------------------------
 
-[Next: The Enchanted Cave of Cesh Corran](ift08)
+[Next: The Enchanted Cave of Cesh Corran](ift08.md)

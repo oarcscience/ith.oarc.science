@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft34)  [Next](eft36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft34)  [Next](eft36.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ gave cat milk, and cat gave mouse her own tail again.
 
 ------------------------------------------------------------------------
 
-[Next: The Fish and the Ring](eft36)
+[Next: The Fish and the Ring](eft36.md)

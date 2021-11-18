@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft20)  [Next](tft22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft20)  [Next](tft22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -79,7 +79,7 @@ reflection
 <span id="img_08300"></span> <span align="CENTER"> [![THE KING OF THE
 BEASTS AT THIS TIME WAS A LION AND EVERY MORNING ALL THE ANIMALS HAD TO
 COME AND KOTOW TO HIM.](tn/08300.jpg)  
-Click to enlarge](img/08300.jpg)  
+Click to enlarge](img/08300.jpg.md)  
 THE KING OF THE BEASTS AT THIS TIME WAS A LION AND EVERY MORNING ALL THE
 ANIMALS HAD TO COME AND KOTOW TO HIM.  
 </span>
@@ -95,4 +95,4 @@ fight and drowned himself.
 
 ------------------------------------------------------------------------
 
-[Next: Nineteen: How the King Lost His Great Jewel](tft22)
+[Next: Nineteen: How the King Lost His Great Jewel](tft22.md)

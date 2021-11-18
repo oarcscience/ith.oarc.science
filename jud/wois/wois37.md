@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois36) 
-[Next](wois38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois36.md) 
+[Next](wois38.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -57,6 +57,6 @@ in port, all should rejoice with her, for she has returned in peace."
 
 ------------------------------------------------------------------------
 
-[Next: The Child who Questioned though Carried by his Father](wois38)
+[Next: The Child who Questioned though Carried by his Father](wois38.md)
 
 </div>

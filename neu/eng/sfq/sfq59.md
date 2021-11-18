@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq58)  [Next](sfq60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq58)  [Next](sfq60.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ find her husband, the good Knight Scudamour.
 
 ------------------------------------------------------------------------
 
-[Next: The Sword of Justice and the Iron Man](sfq60)
+[Next: The Sword of Justice and the Iron Man](sfq60.md)

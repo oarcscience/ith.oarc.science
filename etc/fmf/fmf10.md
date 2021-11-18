@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf09)  [Next](fmf11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf09)  [Next](fmf11.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ to tell you that you were Dead Wrong.
 
 ------------------------------------------------------------------------
 
-[Next: The Fable of The Old Merchant, the Sleuth and The Tapioca](fmf11)
+[Next: The Fable of The Old Merchant, the Sleuth and The Tapioca](fmf11.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli18)  [Next](mfli20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli18)  [Next](mfli20.md) 
 
 ------------------------------------------------------------------------
 
@@ -584,4 +584,4 @@ he fell from hunger and weakness, and the waves went over him.
 
 ------------------------------------------------------------------------
 
-[Next: Oisin in Tir Na N-Og](mfli20)
+[Next: Oisin in Tir Na N-Og](mfli20.md)

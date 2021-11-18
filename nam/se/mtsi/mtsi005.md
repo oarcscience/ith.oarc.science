@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi004)  [Next](mtsi006) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi004)  [Next](mtsi006.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ orphan child.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Thunder Helper](mtsi006)
+[Next: 4. Thunder Helper](mtsi006.md)

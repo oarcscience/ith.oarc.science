@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](twp04)  [Next](twp06) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](twp04)  [Next](twp06.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ been an eye-witness, the canon Linden, in later years described it thus:
 ### 1. THE SCOPE OF THE PERSECUTION.
 
 Linden, *Gesta Trevirorum* (from his manuscript in the City Library of
-Trier.) <span id="fr_11"></span>[1](#fn_11) Latin.
+Trier.) <span id="fr_11"></span>[1](#fn_11.md) Latin.
 
 Inasmuch as it was popularly believed that the continued sterility of
 many years was caused by witches through the malice of the Devil, the
@@ -27,7 +27,7 @@ diocese, scurried special accusers, inquisitors, notaries, jurors,
 judges, constables, dragging to trial and torture human beings of both
 sexes and burning them in great numbers. Scarcely any of those who were
 accused escaped punishment or were there spared even the leading men in
-the city of Trier. For the Judge, <span id="fr_12"></span>[2](#fn_12)
+the city of Trier. For the Judge, <span id="fr_12"></span>[2](#fn_12.md)
 with two Burgomasters, several Councilors and Associate Judges, canons
 of sundry collegiate churches, parish-priests, rural deans, were swept
 away in this ruin. So far, at length, did the madness of the furious
@@ -83,7 +83,7 @@ whom 1 have received the following transcript, certified by a notary:
 
 I, Cornelius Losæus Callidius, born at the town of Gouda in Holland, but
 now (on account of a certain treatise On Trite and False
-Witchcraft, <span id="fr_13"></span>[1](#fn_13) rashly and presumptously
+Witchcraft, <span id="fr_13"></span>[1](#fn_13.md) rashly and presumptously
 written without the knowledge and permission of the superiors of this
 place, shown by me to others, and then sent to be printed at Cologne)
 arrested and imprisoned in the Imperial
@@ -126,7 +126,7 @@ silver coined from human blood.
 
 3\. By these and by other things of the same sort, partly in private
 conversations among the people, partly in sundry letters addressed to
-both the magistracies, <span id="fr_14"></span>[1](#fn_14) I have
+both the magistracies, <span id="fr_14"></span>[1](#fn_14.md) I have
 accused of tyranny to their subjects the superiors and the judges.
 
 <span id="page_16">p. 16</span>
@@ -146,7 +146,7 @@ that all these things are dreams.
 6\. Also, that magic (*magia*) ought not to he called witchcraft
 (*maleficium*), nor magicians (*magi*) witches (*malefici*), and that
 the passage of Holy Scripture, "Thou shalt not suffer a witch to live"
-(*Maleficos non patieris vivere*), <span id="fr_15"></span>[1](#fn_15)
+(*Maleficos non patieris vivere*), <span id="fr_15"></span>[1](#fn_15.md)
 is to be understood of those who by a natural use of natural poisons
 inflict death.
 
@@ -170,7 +170,7 @@ dreams.
 can do through their aid.
 
 14\. That the opinion that a superior demon can cast out an inferior is
-erroneous and derogatory to Christ. <span id="fr_16"></span>[2](#fn_16)
+erroneous and derogatory to Christ. <span id="fr_16"></span>[2](#fn_16.md)
 
 15\. That the Popes in their bulls do not say that magicians and witches
 perpetrate such things (as are mentioned above).
@@ -213,7 +213,7 @@ CORNELIUS LOOSÆUS CALLIDIUS.
 
 Done in the Imperial Monastery of St. Maximin, outside the walls of
 Trier, in the abbot's chamber, in presence of the Reverend, Venerable,
-and Eminent Sirs, Peter Binsfeld, <span id="fr_17"></span>[1](#fn_17)
+and Eminent Sirs, Peter Binsfeld, <span id="fr_17"></span>[1](#fn_17.md)
 Bishop of Azotus, vicar-general in matters spiritual of the Most
 Reverend Archbishop of Trier, our most element lord, and Reinerus, abbot
 of the said monastery, Bartholomæus van Bodeghem, of Delft, J. U. L.,
@@ -221,8 +221,8 @@ Official of the Ecclesiastical Court of Trier, Georgius von
 Helffenstein, Doctor of Theology, Dean of the Collegiate Church of St.
 Simeon in the city of Trier, and Joannes Colmann, J. U. D., Canon of the
 said church and Seal-Bearer of the Court of Trier, <span
-id="fr_18"></span>[2](#fn_18) etc., in the year of Our Lord 1592 *more
-Trev*., <span id="fr_19"></span>[3](#fn_19) on
+id="fr_18"></span>[2](#fn_18.md) etc., in the year of Our Lord 1592 *more
+Trev*., <span id="fr_19"></span>[3](#fn_19.md) on
 
 <span id="page_18">p. 18</span>
 
@@ -251,50 +251,50 @@ through a premature death; but (much the pity!) left behind not a few
 partisans, men so imperfectly versed in medicine and sound theology as
 to share this stupid error. Would that they might he wise, and seriously
 realize at last how rash and noxious it is to prefer the ravings of a
-single heretic, Weyer, <span id="fr_20"></span>[1](twp06.htm#fn_20) to
+single heretic, Weyer, <span id="fr_20"></span>[1](twp06.htm#fn_20.md) to
 the judgment of the Church!
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_11"></span>[13:1](twp05.htm#fr_11) Printed in Hontheim's
+<span id="fn_11"></span>[13:1](twp05.htm#fr_11.md) Printed in Hontheim's
 *Historia Trevirensis diplomatica* (iii, p. 170, note) and in Wyttenbach
 and Müller's ed. of the *Gesta Trevirorum*; but with more care in Burr,
 *The Fate of Dietrich Flade*.
 
-<span id="fn_12"></span>[13:2](twp05.htm#fr_12) Dr. Dietrich Flade,
+<span id="fn_12"></span>[13:2](twp05.htm#fr_12.md) Dr. Dietrich Flade,
 judge of the secular court at Trier and deputy governor of the city, was
 perhaps the most eminent victim of the witch-persecution in Germany. It
 is probable that he owed his fate in part or wholly to his attempt to
 check the persecution. Tortured into confession, he was burned in 1589.
 
-<span id="fn_13"></span>[14:1](twp05.htm#fr_13) This book, confiscated
+<span id="fn_13"></span>[14:1](twp05.htm#fr_13.md) This book, confiscated
 by the ecclesiastical authorities, has been partly recovered in our own
 day.
 
-<span id="fn_14"></span>[15:1](twp05.htm#fr_14) i. e. both lay and
+<span id="fn_14"></span>[15:1](twp05.htm#fr_14.md) i. e. both lay and
 spiritual.
 
-<span id="fn_15"></span>[16:1](twp05.htm#fr_15) Exodus, xxii, 18.
+<span id="fn_15"></span>[16:1](twp05.htm#fr_15.md) Exodus, xxii, 18.
 
-<span id="fn_16"></span>[16:2](twp05.htm#fr_16) A marginal note here
+<span id="fn_16"></span>[16:2](twp05.htm#fr_16.md) A marginal note here
 cites Luke, xi.
 
-<span id="fn_17"></span>[17:1](twp05.htm#fr_17) Binsfeld, suffragan
+<span id="fn_17"></span>[17:1](twp05.htm#fr_17.md) Binsfeld, suffragan
 bishop and real head of ecclesiastical affairs in the diocese, was
 doubtless the prime mover in the punishment of Loos. He had himself
 written a book, *De confessionibus maleficorum et sagarum* (Trier,
 1589), to prove that the confessions of witches were worthy of all
 faith.
 
-<span id="fn_18"></span>[17:2](twp05.htm#fr_18) i. e., the
+<span id="fn_18"></span>[17:2](twp05.htm#fr_18.md) i. e., the
 ecclesiastical court, of which Bodeghem was the head (the Official).
 
-<span id="fn_19"></span>[17:3](twp05.htm#fr_19) 1593, according to our
+<span id="fn_19"></span>[17:3](twp05.htm#fr_19.md) 1593, according to our
 calendar; according to the *mos Trevirense* the year began on March
 25th.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Witch-Persecution at Bonn.](twp06)
+[Next: IV. The Witch-Persecution at Bonn.](twp06.md)

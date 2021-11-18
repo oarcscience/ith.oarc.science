@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth04)  [Next](doth06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth04)  [Next](doth06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -23,14 +23,14 @@ mankind, so that they may enter into the domain of spirituality, ethical
 conduct and the laws divine, that guide us in our works and daily life
 to health of body and of mind and soul. The first is the lofty portal of
 pure Reason, with all obstructing errors cleared away; the second is the
-book of the Torah, <span id="fr_2"></span>[\*](#fn_2) revealed to Moses,
+book of the Torah, <span id="fr_2"></span>[\*](#fn_2.md) revealed to Moses,
 the prophet; the third is built up of traditions.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_2"></span>[17:\*](doth06.htm#fr_3) *Torah*, literally
+<span id="fn_2"></span>[17:\*](doth06.htm#fr_3.md) *Torah*, literally
 guide, instruction, but generally translated "Law," is a word used in
 Hebrew literature with several distinct meanings:—(1) The Pentateuch, as
 distinguished from the rest of the Bible; (2) Scripture, any part of the
@@ -46,6 +46,6 @@ the Pentateuch.
 
 ------------------------------------------------------------------------
 
-[Next: The Ethics of the Body and the Ethics of the Soul](doth06)
+[Next: The Ethics of the Body and the Ethics of the Soul](doth06.md)
 
 </div>

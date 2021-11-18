@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl154)  [Next](cohl156) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl154)  [Next](cohl156.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ society holds in its songs the most potent charms known. It is said that
 the dying, especially those afflicted with wasting diseases, and old
 people, have been completely restored by its ceremonies. This is because
 the Dew Eagle, to which the society is dedicated, is the reviver of
-wilting things. <span id="fr_111"></span>[1](#fn_111) The membership is
+wilting things. <span id="fr_111"></span>[1](#fn_111.md) The membership is
 divided into two classes by phratryship. A person may become a member by
 dreaming such a thing necessary, or by receiving the rites of the
 society in case of illness. Special costumes are worn in the ceremonies.
@@ -55,11 +55,11 @@ though crows' heads once were eaten also.
 
 ### Footnotes
 
-<span id="fn_111"></span>[124:1](cohl155.htm#fr_111) the Dew Eagle
+<span id="fn_111"></span>[124:1](cohl155.htm#fr_111.md) the Dew Eagle
 refreshed the scalp of the Good Hunter by plucking a feather from its
 breast and sprinkling the scalp with dew from the lake in the hollow of
 its back.
 
 ------------------------------------------------------------------------
 
-[Next: The Bear Society](cohl156)
+[Next: The Bear Society](cohl156.md)

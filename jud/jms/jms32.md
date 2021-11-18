@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms31)  [Next](jms33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms31)  [Next](jms33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -95,7 +95,7 @@ IV, 7; ms. *Eẓ Ḥayim*, 516 (289 of original);—Marmorstein, *JJV*, I
 
 <span id="an_11_8">8</span>. Ibid., 466, p. 96; Rashi, *Men.* 35b;
 *Sha‘are Ẓion*, 120b; Brüek, 63; Löw, *Die Finger*, p. xiv. See also [p.
-175](jms13.htm#page_175) above.
+175](jms13.htm#page_175.md) above.
 
 <span id="an_11_9">9</span>. *S. Ḥas.* 211, 371, 1463 (cf. Güd. I, 205,
 n. 2); *Shimmush Tehillim*, Ps. 10; Blau, 91; *Ber.* 20a; *Raziel*, 43a;
@@ -252,7 +252,7 @@ cit., 8 f.; Zoller, *Filologische Schriften*, III (1929), 126.
 <span id="an_11_37">37</span>. *Shelah*, loc. cit.; *Shibbole HaLeket*,
 377; Glassberg, 59 f., 230; Bamberger, *JJV*, I (1923), 327.
 
-<span id="an_11_38">38</span>. See pp. [41](jms05.htm#page_41) f. above.
+<span id="an_11_38">38</span>. See pp. [41](jms05.htm#page_41.md) f. above.
 
 <span id="an_11_39">39</span>. *Rokeaḥ*, 353; *Tashbeẓ*, 465; *Responsa*
 of Moses Minz, 109, p. 100a; *Responsa* of Israel Bruna, 93, P. 40b;
@@ -382,4 +382,4 @@ burial." Cf. Bender, 117; *Ta‘ame HaMinhagim*, III, 93b; Von Negelein,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](jms33)
+[Next: Chapter XII](jms33.md)

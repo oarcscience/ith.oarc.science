@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist057) 
-[Next](hist059) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist057.md) 
+[Next](hist059.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ found his arm and hand as sound as if he had never felt any such pain.
 
 [Next: III. How the same King Oswald, asking a bishop of the Scottish
 nation, had Aidan sent him, and granted him an episcopal see in the Isle
-of Lindisfarne. \[635A.D.\]](hist059)
+of Lindisfarne. \[635A.D.\]](hist059.md)

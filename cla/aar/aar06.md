@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aar05)  [Next](aar07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aar05)  [Next](aar07.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ real *drama*, real
 
 impersonation, began with the leaders of the band, with the Queen of the
 May, and with the "Death" or the "Winter." Great is our delight when we
-find that for Greek drama Aristotle <span id="fr_18"></span>[1](#fn_18)
+find that for Greek drama Aristotle <span id="fr_18"></span>[1](#fn_18.md)
 divined a like beginning. He says:
 
 "Tragedy--as also Comedy--was at first mere improvisation--the one
@@ -93,7 +93,7 @@ You may *bring back* the life of the Spring in the form of a tree or a
 maiden, or you may summon her to rise from the sleeping Earth. In Greek
 mythology we are most familiar with the Rising-up form. Persephone, the
 daughter of Demeter, is carried below the Earth, and rises up again year
-by year. On Greek vase-paintings <span id="fr_19"></span>[1](#fn_19) the
+by year. On Greek vase-paintings <span id="fr_19"></span>[1](#fn_19.md) the
 scene occurs again and again. A mound of earth is represented, sometimes
 surmounted by a tree; out of the mound a woman's figure rises; and all
 about the mound are figures of dancing dæmons waiting to welcome her.
@@ -104,7 +104,7 @@ All this is not mere late poetry and art. It is the primitive art and
 poetry that come straight out of ritual, out of actual "things done,"
 *dromena*. In the village of Megara, near Athens, the very place where
 to-day on Easter Tuesday the hills are covered with throngs of dancing
-men, and specially women, Pausanias <span id="fr_20"></span>[1](#fn_20)
+men, and specially women, Pausanias <span id="fr_20"></span>[1](#fn_20.md)
 saw near the City Hearth a rock called "*Anaklethra*, 'Place of
 Calling-up,' because, if any one will believe it, when she was wandering
 in search of her daughter, Demeter called her up there"; and he adds:
@@ -116,7 +116,7 @@ some pantomimic dance, the uprising of the Earth Spirit was enacted.
 Another festival of Uprising is perhaps more primitive and instructive,
 because it is near akin to the "Carrying out of Winter," and also
 because it shows clearly the close connection of these rites with the
-food-supply. Plutarch <span id="fr_21"></span>[2](#fn_21) tells us of a
+food-supply. Plutarch <span id="fr_21"></span>[2](#fn_21.md) tells us of a
 festival held every nine years at Delphi. It was called from the name of
 the puppet used *Charila*, a word
 
@@ -141,7 +141,7 @@ The image is beaten, insulted, let down into some cleft or cave. It is
 clearly a "Carrying out the Death," though we do not know the exact date
 at which it was celebrated. It had its sequel in another festival at
 Delphi called *Herois*, or the "Heroine." Plutarch <span
-id="fr_22"></span>[1](#fn_22) says it
+id="fr_22"></span>[1](#fn_22.md) says it
 
 <span id="page_81">p. 81</span>
 
@@ -161,7 +161,7 @@ Greeks, as with the savage and the modern peasant, but one real object:
 to get rid of the season that is bad for food, to bring in and revive
 the new supply. This comes out very clearly in a ceremony that went on
 down to Plutarch's time, and he tells us <span
-id="fr_23"></span>[1](#fn_23) it was "ancestral." It was called "the
+id="fr_23"></span>[1](#fn_23.md) it was "ancestral." It was called "the
 Driving out of Ox-hunger." By Ox-hunger was meant any great ravenous
 hunger, and the very intensity and monstrosity of the word takes us back
 to days when
@@ -249,7 +249,7 @@ then, by a piece of luck that almost makes one's heart stand still, he
 gives us the very words of the little ritual hymn the women sang, our
 earliest "Bull-driving" Spring Song:
 
-"In Spring-time, <span id="fr_24"></span>[1](#fn_24) O Dionysos,  
+"In Spring-time, <span id="fr_24"></span>[1](#fn_24.md) O Dionysos,  
     To thy holy temple come;  
 To Elis with thy Graces,  
     Rushing with thy bull-foot, come,  
@@ -274,7 +274,7 @@ year by year of some holy Bull?
 
 First, we must notice that it was not only at Elis that a holy Bull
 appears at the Spring Festival. Plutarch asks another instructive
-*Question*: <span id="fr_25"></span>[1](#fn_25) "Who among the Delphians
+*Question*: <span id="fr_25"></span>[1](#fn_25.md) "Who among the Delphians
 is the Sanctifier?" And we find to our amazement that the sanctifier is
 a Bull. A Bull
 
@@ -289,7 +289,7 @@ blossoming of many plants."
 We do not hear that the "Sanctifier" at Delphi was "driven," but in all
 probability he was led from house to house, that every one might partake
 in the sanctity that simply exuded from him. At Magnesia, <span
-id="fr_26"></span>[1](#fn_26) a city of Asia Minor, we have more
+id="fr_26"></span>[1](#fn_26.md) a city of Asia Minor, we have more
 particulars. There, at the annual fair year by year the stewards of the
 city bought a Bull, "the finest that could be got," and at the new moon
 of the month at the beginning of seedtime they dedicated it, for the
@@ -551,7 +551,7 @@ Tree die only that they may live again.
 
  
 
-We have seen ([p. 71](aar05.htm#page_71)) that, out of the puppet or the
+We have seen ([p. 71](aar05.htm#page_71).md) that, out of the puppet or the
 May Queen, actually *per*ceived year after year there arose a
 remembrance, a mental image, an imagined Tree Spirit, or "Summer," or
 Death, a thing never actually seen but *con*ceived. Just so with the
@@ -613,7 +613,7 @@ title *Dithyrambos*. Thus
 
 <span id="page_102">p. 102</span>
 
-an inscribed hymn found at Delphi <span id="fr_27"></span>[1](#fn_27)
+an inscribed hymn found at Delphi <span id="fr_27"></span>[1](#fn_27.md)
 opens thus:
 
 "Come, O Dithyrambos, Bacchos, come.  
@@ -644,7 +644,7 @@ a song and dance of the *birth* of Dionysos, shall we not, as in the
 Christian religion, have a child-god, a holy babe, a Saviour in the
 manger; at first in original form as a calf, then as a human child? Now
 it is quite true that in Greek religion there is a babe Dionysos called
-*Liknites*, "Him of the Cradle." <span id="fr_28"></span>[1](#fn_28) The
+*Liknites*, "Him of the Cradle." <span id="fr_28"></span>[1](#fn_28.md) The
 rite of waking up, or bringing to light, the child Liknites was
 performed each year at Delphi by the holy women.
 
@@ -729,7 +729,7 @@ new-born man has entered on a new life.
 <span id="page_107">p. 107</span>
 
 Simplest perhaps of all, and most instructive, is the rite practised by
-the Kikuyu of British East Africa, <span id="fr_29"></span>[1](#fn_29)
+the Kikuyu of British East Africa, <span id="fr_29"></span>[1](#fn_29.md)
 who require that every boy, just before circumcision, must be born
 again. "The mother stands up with the boy crouching at her feet; she
 pretends to go through all the labour pains, and the boy on being reborn
@@ -738,7 +738,7 @@ cries like a babe and is washed."
 More often the new birth is simulated, or imagined, as a death and a
 resurrection, either of the boys themselves or of some one else in their
 presence. Thus at initiation among some tribes of South-east
-Australia, <span id="fr_30"></span>[2](#fn_30) when the boys are
+Australia, <span id="fr_30"></span>[2](#fn_30.md) when the boys are
 assembled an old man dressed in stringy bark fibre lies down in a grave.
 He is covered up lightly with sticks and earth, and the grave is
 smoothed over. The buried man holds in his hand a small bush which seems
@@ -760,7 +760,7 @@ cleanse themselves.
 Here the death is vicarious. Another goes through the simulated death
 that the initiated boy may have new life. But often the mimicry is
 practised on the boys themselves. Thus in West Ceram <span
-id="fr_31"></span>[1](#fn_31) boys at puberty are admitted to the Kakian
+id="fr_31"></span>[1](#fn_31.md) boys at puberty are admitted to the Kakian
 association. The boys are taken blindfold, followed by their relations,
 to an oblong wooden shed under the darkest trees in the depths of the
 forest. When all are assembled the high priest calls aloud on the
@@ -816,7 +816,7 @@ grow out of them, the novice is born again as the sacred animal.
 <span id="page_111">p. 111</span>
 
 \[paragraph continues\] Thus among the Carrier Indians <span
-id="fr_32"></span>[1](#fn_32) when a man wants to become a *Lulem*, or
+id="fr_32"></span>[1](#fn_32.md) when a man wants to become a *Lulem*, or
 Bear, however cold the season, he tears off his clothes, puts on a
 bearskin and dashes into the woods, where he will stay for three or four
 days. Every night his fellow-villagers will go out in search parties to
@@ -898,7 +898,7 @@ And a wine-cup strong and deep,
 That she may drink and sleep."
 
 \[paragraph continues\] The Eiresione had another name that told its own
-tale. It was called *Korythalia*, <span id="fr_33"></span>[1](#fn_33)
+tale. It was called *Korythalia*, <span id="fr_33"></span>[1](#fn_33.md)
 "Branch of blooming youth." The young men, says a Greek orator, are "the
 Spring of the people."
 
@@ -950,7 +950,7 @@ barrenness. And next comes a mandate, strange to our modern ears:
 fields of fruit and for hives to bring increase."
 
 And yet not strange if we remember the Macedonian farmer ([p.
-32](aar04.htm#page_32)), who throws his spade into the air that the
+32](aar04.htm#page_32).md), who throws his spade into the air that the
 wheat may be tall, or the Russian peasant girls who leap high
 
 <span id="page_117">p. 117</span>
@@ -996,47 +996,47 @@ us.
 
 ### Footnotes
 
-<span id="fn_18"></span>[76:1](aar06.htm#fr_18) *Poetics*, IV, 12.
+<span id="fn_18"></span>[76:1](aar06.htm#fr_18.md) *Poetics*, IV, 12.
 
-<span id="fn_19"></span>[78:1](aar06.htm#fr_19) See my *Themis*, p. 419.
+<span id="fn_19"></span>[78:1](aar06.htm#fr_19.md) See my *Themis*, p. 419.
 (1912.)
 
-<span id="fn_20"></span>[79:1](aar06.htm#fr_20) I, 43. 2.
+<span id="fn_20"></span>[79:1](aar06.htm#fr_20.md) I, 43. 2.
 
-<span id="fn_21"></span>[79:2](aar06.htm#fr_21) *Quaest. Græc.* XII.
+<span id="fn_21"></span>[79:2](aar06.htm#fr_21.md) *Quaest. Græc.* XII.
 
-<span id="fn_22"></span>[80:1](aar06.htm#fr_22) *Op. cit.*
+<span id="fn_22"></span>[80:1](aar06.htm#fr_22.md) *Op. cit.*
 
-<span id="fn_23"></span>[81:1](aar06.htm#fr_23) *Quæst. Symp.*, 693f.
+<span id="fn_23"></span>[81:1](aar06.htm#fr_23.md) *Quæst. Symp.*, 693f.
 
-<span id="fn_24"></span>[85:1](aar06.htm#fr_24) The words "in
+<span id="fn_24"></span>[85:1](aar06.htm#fr_24.md) The words "in
 Spring-time" depend on an emendation to me convincing. See my *Themis*,
 p. 205, note 1.
 
-<span id="fn_25"></span>[86:1](aar06.htm#fr_25) IX.
+<span id="fn_25"></span>[86:1](aar06.htm#fr_25.md) IX.
 
-<span id="fn_26"></span>[87:1](aar06.htm#fr_26) See my *Themis*, p. 151.
+<span id="fn_26"></span>[87:1](aar06.htm#fr_26.md) See my *Themis*, p. 151.
 
-<span id="fn_27"></span>[102:1](aar06.htm#fr_27) See my *Prolegomena*,
+<span id="fn_27"></span>[102:1](aar06.htm#fr_27.md) See my *Prolegomena*,
 p. 439.
 
-<span id="fn_28"></span>[103:1](aar06.htm#fr_28) *Prolegomena*, p. 402.
+<span id="fn_28"></span>[103:1](aar06.htm#fr_28.md) *Prolegomena*, p. 402.
 
-<span id="fn_29"></span>[107:1](aar06.htm#fr_29) Frazer, *Totemism and
+<span id="fn_29"></span>[107:1](aar06.htm#fr_29.md) Frazer, *Totemism and
 Exogamy*, Vol. I, p. 228.
 
-<span id="fn_30"></span>[107:2](aar06.htm#fr_30) *The Golden
+<span id="fn_30"></span>[107:2](aar06.htm#fr_30.md) *The Golden
 Bough*,<sup>2</sup> III, 424.
 
-<span id="fn_31"></span>[108:1](aar06.htm#fr_31) *The Golden
+<span id="fn_31"></span>[108:1](aar06.htm#fr_31.md) *The Golden
 Bough*,<sup>2</sup> III, 442.
 
-<span id="fn_32"></span>[111:1](aar06.htm#fr_32) *The Golden
+<span id="fn_32"></span>[111:1](aar06.htm#fr_32.md) *The Golden
 Bough*,<sup>2</sup> III, p. 438.
 
-<span id="fn_33"></span>[114:1](aar06.htm#fr_33) See my *Themis*, p.
+<span id="fn_33"></span>[114:1](aar06.htm#fr_33.md) See my *Themis*, p.
 503.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Transition From Ritual To Art](aar07)
+[Next: Chapter V. Transition From Ritual To Art](aar07.md)

@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc31)  [Next](crc33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc31)  [Next](crc33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ Intangible Textual Heritage
 
 While the things that we have related were done, Suallaith heard from
 Rath Sualtaim in Mag Murthemne the vexing of his son Cuchulainn against
-twelve sons of Gaile Dana <span id="fr_100"></span>[1](#fn_97) and his
+twelve sons of Gaile Dana <span id="fr_100"></span>[1](#fn_97.md) and his
 sister's son. It is then that Sualtaim said:
 
 'Is it heaven that bursts, or the sea over its boundaries, or earth that
@@ -100,7 +100,7 @@ is so called because there were horns of silver on him.
 
 ### Footnotes
 
-<span id="fn_97"></span>[113:1](crc32.htm#fr_100) LL, 'Twenty-seven sons
+<span id="fn_97"></span>[113:1](crc32.htm#fr_100.md) LL, 'Twenty-seven sons
 of Calatin.' In the story as related earlier in YBL it is 'Gaile Dana
 with his twenty-seven sons.'
 
@@ -108,6 +108,6 @@ with his twenty-seven sons.'
 
 ------------------------------------------------------------------------
 
-[Next: The Muster of the Ulstermen](crc33)
+[Next: The Muster of the Ulstermen](crc33.md)
 
 </div>

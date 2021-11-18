@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi02)  [Next](osi04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi02)  [Next](osi04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -32,7 +32,7 @@ with the sacred books and pundits of India upon that point, they
 originated in the country comprised between the Ganges and the Indus on
 the one side and the Godavery and the Kristnah on the other. With regard
 to the former hypothesis we have said elsewhere, <span
-id="fr_0"></span>[1](#fn_0) "Such a theory seems singular, to say the
+id="fr_0"></span>[1](#fn_0.md) "Such a theory seems singular, to say the
 least, when it is known that this country, which is held out to us as
 the cradle of the ancient Hindu race, does not possess a ruin, a
 tradition, a trace, which can furnish an ethnological foundation for
@@ -109,7 +109,7 @@ treasures accumulated by the toil of the laboring classes, the priests
 appeared before the eyes of the assembled multitude, clad in gorgeous
 vestments. Kneeling before idols of wood, granite, or bronze, of their
 own contrivance, they set an example of the most absurd
-[superstition](errata.htm#0). Their principal motive in the performance
+[superstition](errata.htm#0.md). Their principal motive in the performance
 of their religious duties was the maintenance of their temporal
 supremacy, and when the sacrifices were over, the Vaysia and Soudra
 returned to their tasks, the chiefs to their pleasures, and the priests
@@ -232,7 +232,7 @@ the presence of the initiate.
 
 Residing in an immense palace, surrounded by twenty-one walls, the
 Brahmatma showed himself to the multitude only once a year, encompassed
-with such pomp and pageantry that his [appearance](errata.htm#1)
+with such pomp and pageantry that his [appearance](errata.htm#1.md)
 impressed the imagination of all who saw him, as though they had been in
 the presence of a God.
 
@@ -248,7 +248,7 @@ members of the Supreme Council were eligible.
 "Whoever among those who have been initiated into the third degree shall
 reveal to a profane person a single one of the truths, a single one of
 the secrets entrusted to his keeping, shall be put to death." <span
-id="fr_1"></span>[1](#fn_1) The recipient of the revelation met a
+id="fr_1"></span>[1](#fn_1.md) The recipient of the revelation met a
 similar fate.
 
 Finally, to crown the whole system, there existed a higher word than the
@@ -294,11 +294,11 @@ Hindu Brahmins still cling to their old religious prescriptions.
 
 ### Footnotes
 
-<span id="fn_0"></span>[20:1](osi03.htm#fr_0) The Genesis of Humanity.
+<span id="fn_0"></span>[20:1](osi03.htm#fr_0.md) The Genesis of Humanity.
 
-<span id="fn_1"></span>[25:1](osi03.htm#fr_1) The Sons of God.
+<span id="fn_1"></span>[25:1](osi03.htm#fr_1.md) The Sons of God.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III. The Brahmin—From His Birth To His Novitiate—The
-Ceremony of the Djita Carma](osi04)
+Ceremony of the Djita Carma](osi04.md)

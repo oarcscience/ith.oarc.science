@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo48)  [Next](lboo50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo48)  [Next](lboo50.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ neve suae possent intactam scire ministrae,<br />
 ------------------------------------------------------------------------
 
 [Next: Elegy VIII: To His Mistress, Complaining That She His Given
-Preference To A Wealthier Rival.](lboo50)
+Preference To A Wealthier Rival.](lboo50.md)

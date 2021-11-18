@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww22)  [Next](lww24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww22)  [Next](lww24.md) 
 
 ------------------------------------------------------------------------
 
@@ -248,4 +248,4 @@ others had overlooked them also.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV--A Startling Proposition](lww24)
+[Next: Chapter XXIV--A Startling Proposition](lww24.md)

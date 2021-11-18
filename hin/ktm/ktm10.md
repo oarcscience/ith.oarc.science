@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](ktm09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](ktm09.md) 
 
 ------------------------------------------------------------------------
 

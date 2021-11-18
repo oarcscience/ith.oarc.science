@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai23)  [Next](iai25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai23)  [Next](iai25.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ The giant here his castled city old
 Had strengthened, wrung his tributes, silver, gold;  
 His palace ceiling with pure silver shines,  
 And on his throne of gold from Magan's <span
-id="fr_205"></span>[1](#fn_203) mines  
+id="fr_205"></span>[1](#fn_203.md) mines  
 In all his pride the conqueror exults,  
 With wealth has filled his massive iron vaults.  
 Oft from his marble towers the plains surveys,  
@@ -94,7 +94,7 @@ Before the marching host of Izdubar.
 The forest echoes with the shouts of war,  
 As they sweep on with ringing battle cries,  
 Now loudly echoed from the woods and skies:  
-"*Kar-ro*! *kar-ra*! <span id="fr_206"></span>[2](#fn_204) we follow
+"*Kar-ro*! *kar-ra*! <span id="fr_206"></span>[2](#fn_204.md) we follow
 Izdubar!"  
 And through the forests fly the bolts of war.
 
@@ -130,13 +130,13 @@ To save himself each man in terror flies.
 
 ### Footnotes
 
-<span id="fn_203"></span>[73:1](iai24.htm#fr_205) "Mag-an" or "Mizir,"
+<span id="fn_203"></span>[73:1](iai24.htm#fr_205.md) "Mag-an" or "Mizir,"
 Egypt, or the famous mines of Africa.
 
-<span id="fn_204"></span>[74:2](iai24.htm#fr_206) "Karra! kar-ra!" (cry
+<span id="fn_204"></span>[74:2](iai24.htm#fr_206.md) "Karra! kar-ra!" (cry
 out) "Hurrah! hurrah!"
 
 ------------------------------------------------------------------------
 
 [Next: Column VI. Hand-to-hand Conflict of the Rival Giants--Death of
-Khumbaba](iai25)
+Khumbaba](iai25.md)

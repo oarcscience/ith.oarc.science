@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft49)  [Next](pft51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft49)  [Next](pft51.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -98,8 +98,8 @@ said, and when all was ready they plunged into the water never to come
 up again.
 
 And to this day monkeys do not like to eat meat, because they remember
-the ancient story.  <span id="fr_148"></span>[149](pft68.htm#fn_148)
+the ancient story.  <span id="fr_148"></span>[149](pft68.htm#fn_148.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Poor Fisherman and His Wife](pft51)
+[Next: The Poor Fisherman and His Wife](pft51.md)

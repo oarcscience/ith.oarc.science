@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pey09)  [Next](pey11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pey09)  [Next](pey11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ complete account of a conversion, illustrating both these features.
 
 ------------------------------------------------------------------------
 
-[Next: What the Converts Introduced](pey11)
+[Next: What the Converts Introduced](pey11.md)

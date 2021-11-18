@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg49)  [Next](btg51) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg49)  [Next](btg51.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ enlightenment."
 
 ------------------------------------------------------------------------
 
-[Next: Guard The Six Quarters](btg51)
+[Next: Guard The Six Quarters](btg51.md)

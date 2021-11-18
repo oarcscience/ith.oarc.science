@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos07)  [Next](pos09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos07)  [Next](pos09.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,10 +10,10 @@
 
 S<span class="small">HE</span> also, heaping up good like the foregoing,
 was born, in the time of Vipassi Buddha, as a fairy on the banks of the
-River Candabhāgā.[<sup>146</sup>](pos08.htm#34-1) Devoted to fairy
+River Candabhāgā.[<sup>146</sup>](pos08.htm#34-1.md) Devoted to fairy
 pastimes, she saw one day the Master walking on the bank, that he might
 sow the good seed among creatures. And with great glee she worshipped,
-offering flowers.[<sup>147</sup>](pos08.htm#34-2) For this she gained
+offering flowers.[<sup>147</sup>](pos08.htm#34-2.md) For this she gained
 rebirth among gods and men, till, in this Buddha-dispensation, she took
 birth in a clansman's family at Kosambī. She too became the friend of
 Sāmāvatī, and she too, out of grief at the death of the latter, entered
@@ -48,8 +48,8 @@ Was withered up within that ancient Thirst. (41)</span></p></td>
 
 <span id="34-1"></span>
 
-> <sup>146</sup> *Cf*. [Ps. iii.](pos06.htm#III) and
-> [xxiii.](pos07.htm#XXIII)
+> <sup>146</sup> *Cf*. [Ps. iii.](pos06.htm#III.md) and
+> [xxiii.](pos07.htm#XXIII.md)
 
 <span id="34-2"></span>
 
@@ -80,7 +80,7 @@ feasts she was reborn among the Three-and-Thirty gods, and in other
 happy realms, and finally, in this Buddha-era, in the house of the
 Treasurer of Sāvatthī. Come to years of discretion, she heard Paṭācārā
 preach, and entered the Order; but she was unable to attain the climax
-of insight till Paṭācārā,[<sup>149</sup>](pos08.htm#35-2) seeing the
+of insight till Paṭācārā,[<sup>149</sup>](pos08.htm#35-2.md) seeing the
 state of her mind, gave her admonition. Thereby established, she won
 Arahantship, with thorough grasp of the Norm in form and in meaning. And
 reflecting thereon, she exulted thus:
@@ -115,13 +115,13 @@ Now, this was the affirmation of her A<span class="small">ÑÑĀ</span>.
 
 <span id="35-2"></span>
 
-> <sup>149</sup> See below, [xlvii.](pos10.htm#XLVII),
-> [li](pos11.htm#LI).
+> <sup>149</sup> See below, [xlvii.](pos10.htm#XLVII.md),
+> [li](pos11.htm#LI.md).
 
 <span id="36-1"></span>
 
 > <sup>150</sup> Lit., the Khandhas, the nature of sense-perception and
-> the elements of my being. *Cf.* [Ps. xxxviii.](pos10.htm#XXXVIII) for
+> the elements of my being. *Cf.* [Ps. xxxviii.](pos10.htm#XXXVIII.md) for
 > a more literal translation.
 
 ------------------------------------------------------------------------
@@ -166,14 +166,14 @@ Becoming cometh ne'er again for me. (47)</span></p></td>
 
 <span id="37-1"></span>
 
-> <sup>151</sup> See [Ps. xx.](pos07.htm#XX)
+> <sup>151</sup> See [Ps. xx.](pos07.htm#XX.md)
 
 <span id="37-2"></span>
 
 > <sup>152</sup> 'Void,, *i.e.*, I am empty of greed, ill-will, and
 > dulness, the three springs of all evil. 'Signless,' *i.e.*, I am free
 > from all attachment to anything 'marked' as impermanent, evil, or
-> having a soul. See [Ps. xix.](pos07.htm#XIX), ver. 20, *n.* 1.
+> having a soul. See [Ps. xix.](pos07.htm#XIX.md), ver. 20, *n.* 1.
 
 ------------------------------------------------------------------------
 
@@ -182,7 +182,7 @@ Becoming cometh ne'er again for me. (47)</span></p></td>
 She, too, having made her resolve under former Buddhas, and in this and
 that rebirth heaping up good of age-enduring efficacy, was born, when
 the world was empty of a Buddha, as a fairy by the River
-Candabhāgā.[<sup>153</sup>](pos08.htm#37-3) Sporting one day with the
+Candabhāgā.[<sup>153</sup>](pos08.htm#37-3.md) Sporting one day with the
 fairies, and straying awhile, she saw a silent Buddha seated at the foot
 of a tree, and adored him in faith with flower-offerings. For this she
 was reborn among gods and men, and, finally, in this Buddha-era, at
@@ -220,8 +220,8 @@ I' faith I trained and ordered all my heart. (50)</p></td>
 
 <span id="37-3"></span>
 
-> <sup>153</sup> See Pss. [iii.](pos06.htm#III),
-> [xxiii.](pos07.htm#XXIII)
+> <sup>153</sup> See Pss. [iii.](pos06.htm#III.md),
+> [xxiii.](pos07.htm#XXIII.md)
 
 <span id="38-1"></span>
 
@@ -248,8 +248,8 @@ the Three-and-Thirty gods, enjoying there a heavenly time and many a
 happy life thereafter, was, in this Buddha-era, reborn at Sāvatthī in
 the family of a very eminent burgess. And she was beautiful to see, and
 was brought into the house of the King of Kosala
-himself.[<sup>156</sup>](pos08.htm#39-1) After a few years a daughter
-was born to her, whom she named Jīvā.[<sup>157</sup>](pos08.htm#39-2)
+himself.[<sup>156</sup>](pos08.htm#39-1.md) After a few years a daughter
+was born to her, whom she named Jīvā.[<sup>157</sup>](pos08.htm#39-2.md)
 The King saw the child, and was so pleased that he had Ubbirī anointed
 as Queen. But anon the little girl died, and the mother went daily
 mourning to the charnel-field. And one day she went and worshipped the
@@ -257,7 +257,7 @@ Master, and sat down; but soon she left, and stood lamenting by the
 River Achiravatī. Then the Master, seeing her from afar, revealed
 himself, and asked her: 'Why dost thou weep?' 'I weep because of my
 daughter, Exalted One.' 'Burnt in this cemetery are some 84,000
-[<sup>158</sup>](pos08.htm#39-3) of thy daughters. For which of them
+[<sup>158</sup>](pos08.htm#39-3.md) of thy daughters. For which of them
 dost thou weep?' And pointing out the place where this one and that one
 had been laid, he said half the psalm:
 
@@ -281,7 +281,7 @@ Now which of all those Jīvās dost thou mourn? (51)</span></p></td>
 And she pondered with intelligence on the Norm thus taught by the
 Master, and so stirred up insight that, by the charm of his teaching and
 her own attainment of the requisite conditions, she reached the topmost
-fruit, even Arahantship.[<sup>159</sup>](pos08.htm#40-1) And showing
+fruit, even Arahantship.[<sup>159</sup>](pos08.htm#40-1.md) And showing
 forth the high distinction she had won, she spoke the second half of the
 psalm:
 
@@ -328,7 +328,7 @@ The only wise–the Order and the Norm. <a href="pos08.htm#40-3"><sup>161</sup><
 <span id="40-2"></span>
 
 > <sup>160</sup> A free rendering of the one word *parinibbutā*. *Cf.*
-> ver. [132.](pos11.htm#132)
+> ver. [132.](pos11.htm#132.md)
 
 <span id="40-3"></span>
 
@@ -340,13 +340,13 @@ The only wise–the Order and the Norm. <a href="pos08.htm#40-3"><sup>161</sup><
 ### <span id="XXXIV">XXXIV Sukkā.</span>
 
 She, too, having fared in the past as the foregoing Sisters, was born in
-a clansman's house. [<sup>162</sup>](pos08.htm#40-4) Come to years of
+a clansman's house. [<sup>162</sup>](pos08.htm#40-4.md) Come to years of
 discretion, she went with lay-women disciples to the Vihāra,
-[<sup>163</sup>](pos08.htm#40-5) and heard the Master preach. Becoming a
+[<sup>163</sup>](pos08.htm#40-5.md) and heard the Master preach. Becoming a
 believer, she left the world and became learned, proficient in the
 doctrine, and a ready speaker. Leading for centuries a religious life,
-[<sup>164</sup>](pos08.htm#41-1) she yet died a worldling at heart, and
-was reborn in the heaven of bliss.[<sup>165</sup>](pos08.htm#41-2)
+[<sup>164</sup>](pos08.htm#41-1.md) she yet died a worldling at heart, and
+was reborn in the heaven of bliss.[<sup>165</sup>](pos08.htm#41-2.md)
 Again, when Vipassi was Buddha, and again when Vessabhu was Buddha, she
 kept the precepts, and was learned and proficient in doctrine. Again,
 when Kakusandha was Buddha, and yet again when Konāgamana was Buddha,
@@ -355,7 +355,7 @@ length, she was, in this Buddha-era, reborn at Rājagaha, in the family
 of an eminent burgess, and called Sukkā (bright, lustrous, 'Lucy'). Come
 to years of discretion, she found faith in the Master at her own home,
 and became a lay-disciple. But later, when she heard Dhammadinnā
-preach,[<sup>166</sup>](pos08.htm#41-3) she was thrilled with emotion,
+preach,[<sup>166</sup>](pos08.htm#41-3.md) she was thrilled with emotion,
 and renounced the world under her. And performing the exercises for
 insight, she not long after attained Arahantship, together with thorough
 grasp of the Norm in form and in meaning.
@@ -366,7 +366,7 @@ dined, they entered the Bhikkhunīs' settlement, and Sukkā, with a great
 company seated around her, taught the doctrine in such wise that she
 seemed to be giving them sweet mead to drink and sprinkling them with
 ambrosia. And they all listened to her rapt, motionless, intent.
-Thereupon the spirit[<sup>167</sup>](pos08.htm#41-4) of the tree that
+Thereupon the spirit[<sup>167</sup>](pos08.htm#41-4.md) of the tree that
 stood at the end of the Sisters' terrace was inspired by her teaching,
 and went out to Rājagaha, walking about the ways and the squares
 proclaiming her excellence, and saying:
@@ -433,11 +433,11 @@ For thou hast conquered Mara and his host. (56)</p></td>
 
 <span id="41-2"></span>
 
-> <sup>165</sup> See [p. 1.](pos04.htm#COMMENT)
+> <sup>165</sup> See [p. 1.](pos04.htm#COMMENT.md)
 
 <span id="41-3"></span>
 
-> <sup>166</sup> See [Ps. xii.](pos06.htm#XII)
+> <sup>166</sup> See [Ps. xii.](pos06.htm#XII.md)
 
 <span id="41-4"></span>
 
@@ -446,7 +446,7 @@ For thou hast conquered Mara and his host. (56)</p></td>
 > were more usually conceived of a male or female, or as sexless, is not
 > clear. *Cf.* the plates in Cunningham's *Bharhut*, and, on
 > tree-spirits generally, chaps. ii. and iii. in Mrs. Philpot's *The
-> Sacred Tree.* See also [Appendix.](pos22.htm#APPENDIX)
+> Sacred Tree.* See also [Appendix.](pos22.htm#APPENDIX.md)
 
 <span id="42-1"></span>
 
@@ -461,32 +461,32 @@ THE SITE OF 'NEW' RĀJAGAHA, BUILT BY BIMBISĀRA.
 ### <span id="XXXV">XXXV Selā.</span>
 
 She, too, having fared in the past as the foregoing Sisters, was born in
-a clansman's house at Haŋsavatī, [<sup>169</sup>](pos08.htm#42-2) and
+a clansman's house at Haŋsavatī, [<sup>169</sup>](pos08.htm#42-2.md) and
 was given in marriage by her parents to a clansman's son of equal birth.
 With him she lived happily till his death. Then, being herself advanced
 in years, and growing anxious as she sought to find Good,
-[<sup>170</sup>](pos08.htm#42-3) she went about from park to park,
-[<sup>171</sup>](pos08.htm#42-4) from vihāra to vihāra, with the
+[<sup>170</sup>](pos08.htm#42-3.md) she went about from park to park,
+[<sup>171</sup>](pos08.htm#42-4.md) from vihāra to vihāra, with the
 intention of teaching religion (*dhamma*) to votaries of religion. Then
 one day she came up to the Bo-tree of the Master
-[<sup>172</sup>](pos08.htm#43-1) and sat down, thinking: 'If a Buddha,
+[<sup>172</sup>](pos08.htm#43-1.md) and sat down, thinking: 'If a Buddha,
 an Exalted One, be unequalled and peerless among men, may this one show
 me the miracle of Buddhahood.' Scarce had the thought arisen when the
 Tree blazed forth, the branches appeared as if made of gold, the horizon
 shone all around. And she, inspired at that sight, fell down and
 worshipped, and for seven days sat there. On the seventh day she
 performed a grand feast of offering and worship to the
-Buddha.[<sup>173</sup>](pos08.htm#43-2) By this meritorious karma she
+Buddha.[<sup>173</sup>](pos08.htm#43-2.md) By this meritorious karma she
 was reborn in this Buddha-era, in the kingdom of Āḷavī, as the King's
-daughter, and named Selā. [<sup>174</sup>](pos08.htm#43-3) But she was
-also known as 'The Āḷavikan.' [<sup>175</sup>](pos08.htm#43-4) Come to
+daughter, and named Selā. [<sup>174</sup>](pos08.htm#43-3.md) But she was
+also known as 'The Āḷavikan.' [<sup>175</sup>](pos08.htm#43-4.md) Come to
 years of discretion, the Master converted her father, ordained him, and
 went with him to the city of Āḷavī. Selā, being yet unmarried, went with
 the King and heard the Master preach. She became a believer and a
 lay-disciple. Afterwards, growing anxious, she took Orders, worked her
 way to insight, and because of the promise in her and the maturity of
 her knowledge, she, crushing the formations of thought, word and
-deed,[<sup>176</sup>](pos08.htm#43-5) soon won Arahantship.
+deed,[<sup>176</sup>](pos08.htm#43-5.md) soon won Arahantship.
 
 Thereafter, as an Elder, she lived at Sāvatthī. And one day she went
 forth from Sāvatthī to take siesta in the Dark Grove, and sat down
@@ -511,7 +511,7 @@ Repentance else too late awaiteth thee. (57)</span></p></td>
 Then the Sister–thinking: 'Verily, 'tis that foolish Māra who would deny
 me the Nibbana that is revealed to me, and bids me choose the sensuous
 life. He knows not that I am an Arahant. Now will I tell him and
-confound him'– recited the following: [<sup>177</sup>](pos08.htm#44-1)
+confound him'– recited the following: [<sup>177</sup>](pos08.htm#44-1.md)
 
 <table data-align="center">
 <colgroup>
@@ -565,7 +565,7 @@ Here, O Destroyer, shalt thou not prevail. (59)</span></p></td>
 <span id="43-4"></span>
 
 > <sup>175</sup> In the Bhikkhunī-Saŋyutta (translated in the
-> [Appendix](pos22.htm#APPENDIX)) she is so called. Āḷavī is stated to
+> [Appendix](pos22.htm#APPENDIX).md) she is so called. Āḷavī is stated to
 > have been thirty yojanas (*c.* 260 miles) from Sāvatthī and twelve
 > from Benares (Spence Hardy, Manual of Budhism, 262; Legge's Fa Hien,
 > chap. xxxiv.; Yuan Chwang (Watters), ii. 61). The conversion of King
@@ -579,20 +579,20 @@ Here, O Destroyer, shalt thou not prevail. (59)</span></p></td>
 <span id="44-1"></span>
 
 > <sup>177</sup> *Cf.* the reply of Āḷavīkā in
-> [Appendix](pos22.htm#APPENDIX), commencing with a direct contradiction
+> [Appendix](pos22.htm#APPENDIX.md), commencing with a direct contradiction
 > omitted in this psalm.
 
 ------------------------------------------------------------------------
 
-### <span id="XXXVI">XXXVI Somā.</span> [<sup>178</sup>](pos08.htm#44-2)
+### <span id="XXXVI">XXXVI Somā.</span> [<sup>178</sup>](pos08.htm#44-2.md)
 
 She, too, having fared in the past as the foregoing Sisters, was, in the
-time of Sikhi Buddha, [<sup>179</sup>](pos08.htm#44-3) reborn in the
+time of Sikhi Buddha, [<sup>179</sup>](pos08.htm#44-3.md) reborn in the
 family of an eminent noble, and, when grown up, was made the chief
 consort of the King Aruṇavā. The story of her past is similar to that of
-Sister Abhayā. [<sup>180</sup>](pos08.htm#45-1) The story of her present
+Sister Abhayā. [<sup>180</sup>](pos08.htm#45-1.md) The story of her present
 is that, in this Buddha-era, she was reborn as the daughter of the
-chaplain of King Bimbisāra [<sup>181</sup>](pos08.htm#45-2) at Rājagaha,
+chaplain of King Bimbisāra [<sup>181</sup>](pos08.htm#45-2.md) at Rājagaha,
 and named Somā. Come to years of discretion, she came to believe in the
 Master in her own home, and became a lay-disciple. And later on, growing
 anxious, she entered the Order of Bhikkhunīs, and, working her way to
@@ -621,7 +621,7 @@ To reach. With her two-finger consciousness<br />
 For women, from the age of seven or eight, boiling rice at all times,
 know not the moment when the rice is cooked, but must take some grains
 in a spoon and press it with two fingers; hence the expression
-'two-finger' sense. [<sup>182</sup>](pos08.htm#45-3) Then the Elder
+'two-finger' sense. [<sup>182</sup>](pos08.htm#45-3.md) Then the Elder
 rebuked Māra:
 
 <table data-align="center">
@@ -648,8 +648,8 @@ Here, O Destroyer! shalt thou not prevail. (62)</span></p></td>
 
 <span id="44-2"></span>
 
-> <sup>178</sup> *Cf.* [her verses](pos22.htm#A-2) in
-> [Appendix](pos22.htm#APPENDIX).
+> <sup>178</sup> *Cf.* [her verses](pos22.htm#A-2.md) in
+> [Appendix](pos22.htm#APPENDIX.md).
 
 <span id="44-3"></span>
 
@@ -658,11 +658,11 @@ Here, O Destroyer! shalt thou not prevail. (62)</span></p></td>
 
 <span id="45-1"></span>
 
-> <sup>180</sup> [Ps. xxvii.](pos07.htm#XXVII)
+> <sup>180</sup> [Ps. xxvii.](pos07.htm#XXVII.md)
 
 <span id="45-2"></span>
 
-> <sup>181</sup> *Cf.* [Ps. lii.](pos11.htm#LII)
+> <sup>181</sup> *Cf.* [Ps. lii.](pos11.htm#LII.md)
 
 <span id="45-3"></span>
 
@@ -673,7 +673,7 @@ Here, O Destroyer! shalt thou not prevail. (62)</span></p></td>
 
 > <sup>183</sup> It is regrettable that, in this work, Somā's dignified
 > retort lacks the noteworthy extension given to it in the Saŋyutta
-> version (see [Appendix](pos22.htm#APPENDIX)):
+> version (see [Appendix](pos22.htm#APPENDIX).md):
 >
 > > 'To one for whom the question doth arise:  
 > > Am I a woman in these matters or  
@@ -682,4 +682,4 @@ Here, O Destroyer! shalt thou not prevail. (62)</span></p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto IV. Psalms of Four Verses](pos09)
+[Next: Canto IV. Psalms of Four Verses](pos09.md)

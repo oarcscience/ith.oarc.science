@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab22)  [Next](mab24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab22)  [Next](mab24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -23,7 +23,7 @@ Textual Heritage
 ### NOTES TO BRANWEN THE DAUGHTER OF LLYR.
 
 <span id="xref_369a">369a</span> BENDIGEID VRAN.--*Page*
-[369](mab22.htm#page_369).
+[369](mab22.htm#page_369.md).
 
 BRAN the son of Llyr Llediaith, and sovereign of Britain, derives,
 according to the Welsh authorities, his title of Bendigeid, or the
@@ -33,7 +33,7 @@ Caradawc (Caractacus), whose captivity he is said to have shared; and
 proceed to state that having embraced the Christian faith, during his
 seven years' detention in Rome, he returned to his native country, and
 caused the Gospel to be preached there. <span
-id="fr_196"></span>[1](#fn_195) The following Triad recites these
+id="fr_196"></span>[1](#fn_195.md) The following Triad recites these
 events.
 
 "The three blissful Rulers of the Island of Britain, Bran the Blessed,
@@ -74,7 +74,7 @@ lines,--
 
 I was with Bran in Ireland,  
 I saw when Morddwyd Tyllon was slain. <span
-id="fr_197"></span>[1](#fn_196)
+id="fr_197"></span>[1](#fn_196.md)
 
 And there is a Triad upon the story of his head being buried under the
 White Tower of London, with the face towards France, intended as a charm
@@ -111,7 +111,7 @@ other bards of the middle ages.
  
 
 <span id="xref_369b">369b</span> HARLECH.--*Page*
-[369](mab22.htm#page_369).
+[369](mab22.htm#page_369.md).
 
 MOST of the localities which occur in the Tale of Branwen are too well
 known to need any description; one or two, however, require a slight
@@ -136,19 +136,19 @@ Llywelyn, in 1282.
  
 
 <span id="xref_369c">369c</span> EUROSSWYDD.--*Page*
-[369](mab22.htm#page_369).
+[369](mab22.htm#page_369.md).
 
 EUROSSWYDD is beyond doubt the Roman general Ostorius, the captor of
 Llyr Llediaith, and his family, including Bran and Caradawc
 (Caractacus).
 
 He is mentioned as such in Triad L, already quoted.--See [p.
-192](mab14.htm#page_192).
+192](mab14.htm#page_192.md).
 
  
 
 <span id="xref_369d">369d</span> BELI THE SON. OF MANOGAN.--*Page*
-[369](mab22.htm#page_369).
+[369](mab22.htm#page_369.md).
 
 BELI, surnamed the Great, was king over Britain forty years, and was
 succeeded in the sovereignty by his sons, Lludd and Caswallawn, better
@@ -161,13 +161,13 @@ thus addressed,--
 Victorious Beli,  
 Son of Manogan the king.  
 Do thou preserve the glory  
-Of the Honey Island <span id="fr_198"></span>[1](#fn_197) of Beli."  
+Of the Honey Island <span id="fr_198"></span>[1](#fn_197.md) of Beli."  
                        Myv. Arch. I. p. 73.
 
  
 
 <span id="xref_370a">370a</span> BRANWEN.--*Page*
-[370](mab22.htm#page_370).
+[370](mab22.htm#page_370.md).
 
 THE beautiful Branwen (or Bronwen, the "white-bosomed," as she is more
 frequently called), is one of the most popular heroines of Welsh
@@ -229,7 +229,7 @@ local respects, exactly as described to me by the clergyman above
 mentioned, and as characterised by the cited passage from the romance.
 The *tumulus*, raised over the venerable deposit, was of considerable
 circuit, elegantly rounded, but low, about a dozen paces from the river
-Alaw. <span id="fr_199"></span>[1](#fn_198) The Urn was preserved
+Alaw. <span id="fr_199"></span>[1](#fn_198.md) The Urn was preserved
 entire, with an exception of a small bit out of its lip, was ill-baked,
 very rude and simple, having no other ornament than little pricked dots,
 in height from about a foot to fourteen inches, and nearly of the
@@ -254,7 +254,7 @@ Meliadus of Leonnoys, Tristan, &c.
  
 
 <span id="xref_370b">370b</span> THE ISLAND OF THE MIGHTY.--*Page*
-[370](mab22.htm#page_370).
+[370](mab22.htm#page_370.md).
 
 YNYS Y KEDYRN, the Island of the Mighty, is one of the many names
 bestowed upon Britain by the Welsh. A Triad, in which several more of
@@ -269,7 +269,7 @@ Great.--Myv. Arch. II. p. 1.
  
 
 <span id="xref_372a">372a</span> AN ATONEMENT FOR THE INSULT.--*Page*
-[372](mab22.htm#page_372).
+[372](mab22.htm#page_372.md).
 
 THE compensation here offered to Matholwch, is strictly in accordance,
 except as regards the size of the silver rod, with what was required by
@@ -289,7 +289,7 @@ as a husbandman's nail."
  
 
 <span id="xref_374a">374a</span> THE CAULDRON.--*Page*
-[374](mab22.htm#page_374).
+[374](mab22.htm#page_374.md).
 
 THE powers exercised by this family through the influence of the
 cauldron, bear a strong resemblance to those possessed by the Tuatha
@@ -310,7 +310,7 @@ and the Tuatha de Danann were compelled to quit that country.
 
 An ancient Irish poem contains a series of Triads respecting this race
 which remind us of some passages in the Mabinogi of Kilhwch and
-Olwen.--See [p. 228](mab16.htm#page_228).
+Olwen.--See [p. 228](mab16.htm#page_228.md).
 
 "Blackness, obscurity, and darkness were their three cup-bearers;
 strength, robustness, and vigour, their three horses; indignation,
@@ -319,14 +319,14 @@ pursuit and swiftness, their three bounds, &c."--See Bunting.
  
 
 <span id="xref_377a">377a</span> CARADAWC THE SON OF BRAN.--*Page*
-[377](mab22.htm#page_377).
+[377](mab22.htm#page_377.md).
 
 THIS Prince, so well known under his Latinized name of Caractacus, is
 chiefly remarkable for his captivity in Rome, which, according to Welsh
 authorities, was shared by his father Bran, his grandfather Llyr
 Llediaith, and all his near kinsfolk. There are several Triads relating
 to this principal event of his life. <span
-id="fr_200"></span>[1](#fn_199) From one of these it seems that he was
+id="fr_200"></span>[1](#fn_199.md) From one of these it seems that he was
 chosen by his countrymen as their general, or War-king, to repel the
 incursions of the Romans, and another corroborates this by styling him
 "One of the three Rulers of choice," having been elected by the voice of
@@ -336,7 +336,7 @@ told that "the men of Britain, from the prince to the slave, became his
 followers in their country's need against the progress of the foe and of
 destruction. And wheresoever he went in war, all the men of the Island
 went in his train, and none desired to remain at home." <span
-id="fr_201"></span>[2](#fn_200)
+id="fr_201"></span>[2](#fn_200.md)
 
 Caradawc is also extolled as one of those brave princes, who, by reason
 of their valour, could never be overcome save by treachery;
@@ -353,7 +353,7 @@ of the Cæsarians.
  
 
 <span id="xref_381a">381a</span> WHITE MOUNT IN LONDON.--*Page*
-[381](mab22.htm#page_381).
+[381](mab22.htm#page_381.md).
 
 UNDER the name of the Gwynvryn, or White Mount of the text, allusion is
 most probably intended to the Tower of London, in which the Welsh, who
@@ -371,8 +371,8 @@ early Norman period.
 
  
 
- [382a](mab22.htm#xref_382a) CASWALLAWN.--*Page*
-[382](mab22.htm#page_382).
+ [382a](mab22.htm#xref_382a.md) CASWALLAWN.--*Page*
+[382](mab22.htm#page_382.md).
 
 CASWALLAWN the son of Beli, known more generally by the name of
 Cassivelaunus, bestowed on him by the Romans, is a celebrated character
@@ -396,14 +396,14 @@ ranked among the three faithful lovers of Britain.
 
 The army of Caswallawn did not return with their leader, whence it is
 called one of the three Emigrant hosts of Britain. <span
-id="fr_202"></span>[1](#fn_201)
+id="fr_202"></span>[1](#fn_201.md)
 
 Meinlas was the name of Caswallawn's horse.--Trioedd y Meirch ii.
 
  
 
 <span id="xref_384a">384a</span> FIVE DIVISIONS OF IRELAND.--*Page*
-[384](mab22.htm#page_384).
+[384](mab22.htm#page_384.md).
 
 BEFORE the invasion of the Anglo-Normans, in Henry II.'s time, Ireland
 was divided into a pentarchy composed of the kingdoms of Munster,
@@ -417,28 +417,28 @@ Leinster, Connaught, Ulster, and Meath.
 
 ### Footnotes
 
-<span id="fn_195"></span>[385:1](mab23.htm#fr_196) For an account of
+<span id="fn_195"></span>[385:1](mab23.htm#fr_196.md) For an account of
 Bendigeid Vran, see Professor Rees's Welsh Saints p. 77.
 
-<span id="fn_196"></span>[386:1](mab23.htm#fr_197) Myv. Arch. I. p. 66.
+<span id="fn_196"></span>[386:1](mab23.htm#fr_197.md) Myv. Arch. I. p. 66.
 
-<span id="fn_197"></span>[388:1](mab23.htm#fr_198) An ancient name for
+<span id="fn_197"></span>[388:1](mab23.htm#fr_198.md) An ancient name for
 Britain.
 
-<span id="fn_198"></span>[389:1](mab23.htm#fr_199) "This spot is still
+<span id="fn_198"></span>[389:1](mab23.htm#fr_199.md) "This spot is still
 called *Ynys Bronwen*, or the Islet of Bronwen, which is a remarkable
 confirmation of the genuineness of this discovery."
 
-<span id="fn_199"></span>[391:1](mab23.htm#fr_200) Tr. 17, 23, 24, 34,
+<span id="fn_199"></span>[391:1](mab23.htm#fr_200.md) Tr. 17, 23, 24, 34,
 41, 55.
 
-<span id="fn_200"></span>[391:2](mab23.htm#fr_201) In this Triad (41) he
+<span id="fn_200"></span>[391:2](mab23.htm#fr_201) In this Triad (41.md) he
 is called one of the exalted servants, and is distinguished as the son
 of a Bard.
 
-<span id="fn_201"></span>[393:1](mab23.htm#fr_202) The above particulars
+<span id="fn_201"></span>[393:1](mab23.htm#fr_202.md) The above particulars
 with regard to Caswallawn are related in the Triads 14,102,124, and xl.
 
 ------------------------------------------------------------------------
 
-[Next: Manawyddan the Son of Llyr](mab24)
+[Next: Manawyddan the Son of Llyr](mab24.md)

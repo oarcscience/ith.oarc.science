@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg12)  [Next](ttg14) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg12)  [Next](ttg14.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ to catch him.
 ------------------------------------------------------------------------
 
 [Next: Thirteenth Goblin: The Girl who showed Great Devotion to the
-Thief. Did he weep or laugh?](ttg14)
+Thief. Did he weep or laugh?](ttg14.md)

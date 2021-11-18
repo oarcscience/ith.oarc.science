@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt69)  [Next](egt71) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt69)  [Next](egt71.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ utter their secret, they hide it away even from themselves.
 
 ------------------------------------------------------------------------
 
-[Next: ON FAILURE TO PRAY ARIGHT](egt71)
+[Next: ON FAILURE TO PRAY ARIGHT](egt71.md)

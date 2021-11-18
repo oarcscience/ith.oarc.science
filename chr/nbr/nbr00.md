@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Next](nbr01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Next](nbr01.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Part One](nbr01)
+[Next: Part One](nbr01.md)

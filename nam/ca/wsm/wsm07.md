@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm06)  [Next](wsm08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm06)  [Next](wsm08.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ his arm and in his leg, and, when he came up to Crow, kicked and killed
 him. When he kicked Crow, the nuts were scattered all over the
 mountains. Then Crane looked and saw that the mountains were all black
 with smoke from places where the people were roasting pine nuts. <span
-id="fr_3"></span>[4](#fn_3)
+id="fr_3"></span>[4](#fn_3.md)
 
 Crane took his two children to a place where there was smoke, hoping to
 get some pine nuts to eat. It was Crow's mother's camp. When she saw
@@ -85,24 +85,24 @@ river and stay there." When Crane flew away, Crow's mother tried to
 strike him, but only knocked off his tail. That is why cranes have short
 tails.
 
-Kaŋgwüsi gweak: <span id="fr_4"></span>[5](#fn_4) (Woodrat's tail,
+Kaŋgwüsi gweak: <span id="fr_4"></span>[5](#fn_4.md) (Woodrat's tail,
 pulled off).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_2"></span>[258:3](wsm06.htm#fr_2) They evidently made one
+<span id="fn_2"></span>[258:3](wsm06.htm#fr_2.md) They evidently made one
 long, composite beak.
 
-<span id="fn_3"></span>[259:4](wsm07.htm#fr_3) B. G. believes that
+<span id="fn_3"></span>[259:4](wsm07.htm#fr_3.md) B. G. believes that
 because of Crow's part in procuring pine nuts, crows should not be
 killed today.
 
-<span id="fn_4"></span>[260:5](wsm07.htm#fr_4) The conventional myth
+<span id="fn_4"></span>[260:5](wsm07.htm#fr_4.md) The conventional myth
 ending, meaning, in effect, "It is finished."
 
 ------------------------------------------------------------------------
 
 [Next: The Theft of Pine Nuts (Winnemucca, Nevada. Northern
-Paiute)](wsm08)
+Paiute)](wsm08.md)

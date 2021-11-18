@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo02)  [Next](sdo04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo02)  [Next](sdo04.md) 
 
 ------------------------------------------------------------------------
 
@@ -157,4 +157,4 @@ can make suitable provision, he may proceed.
 
 ------------------------------------------------------------------------
 
-[Next: Choosing the Mentor](sdo04)
+[Next: Choosing the Mentor](sdo04.md)

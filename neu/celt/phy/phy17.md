@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy16)  [Next](phy18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy16)  [Next](phy18.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 <span id="img_08500"></span>
 
 [![](tn/08500.jpg)  
-Click to enlarge](img/08500.jpg)
+Click to enlarge](img/08500.jpg.md)
 
 # THE BUGGANE'S VOW:
 
@@ -30,7 +30,7 @@ Click to enlarge](img/08500.jpg)
 
 |                     |
 |---------------------|
-| ![V](img/08701.jpg) |
+| ![V](img/08701.jpg.md) |
 
 ERY many years ago, during the period when that redoubtable warrior
 William the Norman was following up his successful battle of Hastings,
@@ -144,7 +144,7 @@ work.
 <span id="img_09000"></span>
 
 [![THE EFFECTS OF POTTEEN.](tn/09000.jpg)  
-Click to enlarge](img/09000.jpg)  
+Click to enlarge](img/09000.jpg.md)  
 THE EFFECTS OF POTTEEN.  
 
 Calling several of his crew he bid them carefully carry the prostrate
@@ -188,4 +188,4 @@ vessel under weigh, and his only thought was to hurry on his departure.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](phy18)
+[Next: Chapter II](phy18.md)

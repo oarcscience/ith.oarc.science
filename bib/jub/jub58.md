@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub57) 
-[Next](jub59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub57.md) 
+[Next](jub59.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ both my sons on one day." 6. And Jacob said to Rebecca his mother:
 because his eyes are dull, and if I leave him it will be evil in his
 eyes, because I leave him and go away from you, and my father will be
 angry, and will curse me. I will not go; <span
-id="fr_674"></span>[1](#fn_672) when he sendeth me, then only will I
+id="fr_674"></span>[1](#fn_672.md) when he sendeth me, then only will I
 go." 7. And Rebecca said to Jacob: "I will go in and speak to him, and
 he will send thee away." 8. And Rebecca went in and said to Isaac: "I
 loathe my life because of the two daughters of Heth, whom Esau hath
@@ -31,7 +31,7 @@ the land such as these, for what purpose
 <span id="page_145">p. 145</span>
 
 do I further live; for the daughters of Canaan are evil." <span
-id="fr_675"></span>[1](#fn_673) 9. And Isaac called Jacob and blessed
+id="fr_675"></span>[1](#fn_673.md) 9. And Isaac called Jacob and blessed
 him, and admonished him and said unto him: 10. "Do not take thee a wife
 of any of the daughters of Canaan; arise and go to Mesopotamia, to the
 house of Bethuel, thy mother's father, and take thee a wife from thence
@@ -45,12 +45,12 @@ Laban the son of Bethuel the Syrian, the brother of Rebecca, Jacob's
 mother. 13. And it came to pass after Jacob had arisen to go to
 Mesopotamia that the spirit of Rebecca was grieved after her son, and
 she wept. 14. And Isaac said to Rebecca: "My sister, <span
-id="fr_676"></span>[2](#fn_674) weep not on account of Jacob, my son;
+id="fr_676"></span>[2](#fn_674.md) weep not on account of Jacob, my son;
 for he goeth in peace, and in peace will he return. 15. The Most High
 God will preserve him from all evil, and will be with him; for He will
 not forsake him all his days; 16. For I know that his ways will be
 prospered in all things wherever he goeth, until he return in peace to
-us, and we see him in peace. 17. Fear not on his [account](errata.htm#1)
+us, and we see him in peace. 17. Fear not on his [account](errata.htm#1.md)
 my sister, for he is on the upright path and he is a perfect man: and he
 is faithful and will not perish. Weep not." 18. And Isaac comforted
 Rebecca on account of her son Jacob, and blessed him. 19. And Jacob went
@@ -67,7 +67,7 @@ that is, Bethel, on the new moon of the first month of this
 week, and he came to the place at even and turned from the way to the
 west of the road that night: and he slept there; for the sun had set.
 20. And he took one of the stones of that place and laid it (at his
-head) under the tree, <span id="fr_677"></span>[1](#fn_675) and he was
+head) under the tree, <span id="fr_677"></span>[1](#fn_675.md) and he was
 journeying alone, and he slept. 21. And he dreamt that night, and behold
 a ladder set up on the earth, and the top of it reached to heaven, and
 behold, the angels of the Lord ascended and descended on it: and behold,
@@ -98,21 +98,21 @@ that thou givest me, I shall give the tenth to thee, my God."
 
 ### Footnotes
 
-<span id="fn_672"></span>[144:1](jub58.htm#fr_674) The author desires to
+<span id="fn_672"></span>[144:1](jub58.htm#fr_674.md) The author desires to
 relieve Jacob of the reproach of leaving his father in his old age.
 
-<span id="fn_673"></span>[145:1](jub58.htm#fr_675) Cf. Gen. xxvii. 46.
+<span id="fn_673"></span>[145:1](jub58.htm#fr_675.md) Cf. Gen. xxvii. 46.
 
-<span id="fn_674"></span>[145:2](jub58.htm#fr_676) The use of "sister"
+<span id="fn_674"></span>[145:2](jub58.htm#fr_676.md) The use of "sister"
 as a term of endearment (to a wife) may be illustrated from Tobit V. 20,
 vii. 16; Canticles iv. 9, etc., but appears to be unknown to Rabbinic
 literature. Its use here may be designed to justify Isaac's having
 called Rebecca his sister at Abimelech's court.
 
-<span id="fn_675"></span>[146:1](jub58.htm#fr_677) ? which marked a
+<span id="fn_675"></span>[146:1](jub58.htm#fr_677.md) ? which marked a
 shrine.
 
 ------------------------------------------------------------------------
 
 [Next: Jacob's Marriage to Leah and Rachel; his Children and Riches
-(xxviii. i-30)](jub59)
+(xxviii. i-30)](jub59.md)

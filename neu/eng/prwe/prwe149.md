@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe148)  [Next](prwe150) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe148)  [Next](prwe150.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ been recently struck off ?'
 
 ------------------------------------------------------------------------
 
-[Next: St Gundred's Well at Roach Rock](prwe150)
+[Next: St Gundred's Well at Roach Rock](prwe150.md)

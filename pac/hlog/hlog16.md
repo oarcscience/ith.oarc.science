@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog15)  [Next](hlog17) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog15)  [Next](hlog17.md) 
 
 ------------------------------------------------------------------------
 
@@ -247,4 +247,4 @@ nature-loving native residents of the valley.
 
 ------------------------------------------------------------------------
 
-[Next: XII. How Milu Became The King of Ghosts](hlog17)
+[Next: XII. How Milu Became The King of Ghosts](hlog17.md)

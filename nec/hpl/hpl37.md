@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl36)  [Next](hpl38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl36)  [Next](hpl38.md) 
 
 ------------------------------------------------------------------------
 
@@ -273,4 +273,4 @@ attention.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4](hpl38)
+[Next: Chapter 4](hpl38.md)

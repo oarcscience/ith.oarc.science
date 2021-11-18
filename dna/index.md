@@ -9,7 +9,7 @@ alttext1: "DNA: &copy; Copyright J.B. Hare 2001, All Rights Reserved."
 titleh1: "The Genetic Code"
 ---
 <span class="c_e"> <span class="c_t">[First 1000 lines of Chromosome One
-of the Human Genome](hgp011k).</span> </span> *61,010 bytes*.  
+of the Human Genome](hgp011k.md).</span> </span> *61,010 bytes*.  
 This is the first 60,000 'letters' of chromosome one of the draft public
 domain human genome, formatted in arbitrary 60 column lines. This
 represents a portion of the structure of the double helix DNA molecule.
@@ -30,4 +30,4 @@ been two snakes entwined in a spiral pattern around a staff.
 Foreshadowing? Ancient knowledge? This coincidence has yet to be
 explained.
 
-See also: [Attribution](hgpattr).
+See also: [Attribution](hgpattr.md).

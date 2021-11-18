@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov09)  [Next](vov11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov09)  [Next](vov11.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,8 +8,8 @@
 
 800
 
-Whatever creed we [examine](errata.htm#142) all are the creed of woman;
-besides, [assuredly](errata.htm#143) my creed is the creed of woman! For
+Whatever creed we [examine](errata.htm#142.md) all are the creed of woman;
+besides, [assuredly](errata.htm#143.md) my creed is the creed of woman! For
 love is the aim of every enquiry. He who comprehendeth my creed he is
 the excellent.
 
@@ -27,8 +27,8 @@ his mother. Such blackguards are not produced even by boars.
 803
 
 By building chatrams (inns) at every step and by possession and wealth
-they increase their splendour; [where ever](errata.htm#144) they wander
-their shadow [follows](errata.htm#145) them; i.e., God will reward them.
+they increase their splendour; [where ever](errata.htm#144.md) they wander
+their shadow [follows](errata.htm#145.md) them; i.e., God will reward them.
 
 804
 
@@ -118,15 +118,15 @@ about the sandal tree.
 817
 
 If thou perform bathing but give no charity thou gainest but the
-[advantage](errata.htm#146) of the plunge, void of instruction. Is not a
+[advantage](errata.htm#146.md) of the plunge, void of instruction. Is not a
 fowl well versed in plunging in water?
 
 <span id="page_199">p. 199</span>
 
-[818](errata.htm#147)
+[818](errata.htm#147.md)
 
 O! ye! hypocrites, who ignorant of the revolution of time, continually
-[perform](errata.htm#148) the daily rites and (meditation) *japa*, what
+[perform](errata.htm#148) the daily rites and (meditation.md) *japa*, what
 may be the path by which perfection is attainable through these rites
 and postures.
 
@@ -185,7 +185,7 @@ and robs men is no yogi but a (Ogu) vile wretch.
 827
 
 He who holds himself (a Paramahamsa) a perfect
-[ascetic](errata.htm#149), by rarely wearing a dress and longs for the
+[ascetic](errata.htm#149.md), by rarely wearing a dress and longs for the
 wealth of others 's no ascetic but (Parahimsa) death itself.
 
 828
@@ -194,9 +194,9 @@ Postures and the like, bathings in the worship, pilgrimage to Kasi or a
 system of good works unless thou stay thy mind however many such paths
 thou walk, know that they shall avail you nothing.
 
-[829](errata.htm#150)
+[829](errata.htm#150.md)
 
-They will [journey](errata.htm#151) on pilgrimages to Kasi and the
+They will [journey](errata.htm#151.md) on pilgrimages to Kasi and the
 bridge of Rameswaram. They can hereby behold piles of stones but not
 heaven, not even one of them.
 
@@ -205,21 +205,21 @@ heaven, not even one of them.
 If thou give food to Bramins, they say it will be profitable to thee; if
 you were to give it to dogs where would be the harm (inferiority)? They
 say that one soul resides (both here and there) in
-[each](errata.htm#152).
+[each](errata.htm#152.md).
 
 <span id="page_202">p. 202</span>
 
 831
 
 The fool left his relations, bound himself with an iron langoti and
-[quitting](errata.htm#153) food and drink, and exceeded. If we give up
+[quitting](errata.htm#153.md) food and drink, and exceeded. If we give up
 the fluids of the body, can we attain perfection. How shall we have
 strength to worship?
 
 832
 
 Plunging, plunging and plunging in holy streams, squatting and
-[squatting](errata.htm#154) in meditation, talking and talking, charms
+[squatting](errata.htm#154.md) in meditation, talking and talking, charms
 becoming leaner and leaner, roaming, roaming, roaming and roaming from
 sanctuary to sanctuary--ye turn giddy and are ruined.
 
@@ -240,7 +240,7 @@ saddle.
 <span id="page_203">p. 203</span>
 
 That world hater (or recluse) who is attached only to using the words of
-stubbornness, no-where shall he [attain](errata.htm#155) the power of
+stubbornness, no-where shall he [attain](errata.htm#155.md) the power of
 quelling death (yama). The recluse of the iron age is vile as the
 drinker of palm wine.
 
@@ -266,7 +266,7 @@ startling appearance. They have neither the title nor the nature
 
 If you see among harmless cattle, one handsome ox with horns, it is
 indeed superior. But is wisdom attained by the mere shaven baldness of
-the sanyasi? (who only resemble helpless [widows](errata.htm#156) in
+the sanyasi? (who only resemble helpless [widows](errata.htm#156.md) in
 this fancy)
 
 840
@@ -287,13 +287,13 @@ shall fail of heaven; however stiff a screen be, is it yet a door?
 While all the precepts declare Siva to be the divinity, they seek and
 worship other deities; surely Bramins are in the path of destruction.
 
-[843](errata.htm#157)
+[843](errata.htm#157.md)
 
 Hanging down their heads, void of the least patience opening and
 shutting his eyes and dumb--this is no wisdom but merely the residue of
 thy sins.
 
-[844](errata.htm#158)
+[844](errata.htm#158.md)
 
 <span id="page_205">p. 205</span>
 
@@ -310,7 +310,7 @@ one head which was separated and cleave to his hand.)
 846
 
 Those who believed in Siva have all become the share of the earth. Why
-then these disputes and [discrimination](errata.htm#159) of Gods. All
+then these disputes and [discrimination](errata.htm#159.md) of Gods. All
 the faithful to Vishnu have fallen to the shares of white ashes.
 
 847
@@ -394,7 +394,7 @@ the whole body do they attain felicity.
 
 858
 
-Pauper Bramins meet together and recite [babbling](errata.htm#160)
+Pauper Bramins meet together and recite [babbling](errata.htm#160.md)
 charms and talk saying they will perform the initiation of a boy into
 their caste. Like the crow that has drunk the washing of rice and goes
 on crowing.
@@ -408,7 +408,7 @@ born) Brahmin?
 
 If ignorant of service how can they become slaves? Ignorant of the
 Vaishnava belief how can ye be Vaishnavite? While living, why do ye
-suffer burning like corpses? (i.e., smear [yourselves](errata.htm#161)
+suffer burning like corpses? (i.e., smear [yourselves](errata.htm#161.md)
 with ashes)
 
 861
@@ -440,7 +440,7 @@ caste and then character.
 
 In the night of ignorance doth the goddess of delusion wear her
 petticoat and conceal herself; in the daytime of wisdom, when about her
-work she looses her [petticoat](errata.htm#162); this is no prostitute
+work she looses her [petticoat](errata.htm#162.md); this is no prostitute
 but an edged sword in the hand.
 
 866
@@ -490,7 +490,7 @@ shame,
 
 However great the spell be, not even Brahma can utter it undefiled with
 spittle. But with what mouth is it they talk of spittle and defilement
-[thereby](errata.htm#163).
+[thereby](errata.htm#163.md).
 
 873
 
@@ -669,4 +669,4 @@ their heads and expose this to their ridicule,
 
 ------------------------------------------------------------------------
 
-[Next: 900-999](vov11)
+[Next: 900-999](vov11.md)

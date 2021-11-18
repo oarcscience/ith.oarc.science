@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc126)  [Next](ffcc240) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc126)  [Next](ffcc240.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -85,7 +85,7 @@ of the *Alcheringa* beings exactly as Celts think of fairies: as real
 invisible entities who must be propitiated if men wish to secure their
 goodwill; and as beneficent and protecting beings when not offended, who
 may attach themselves to individuals as guardian spirits. <span
-id="fr_128"></span>[1](#fn_112)
+id="fr_128"></span>[1](#fn_112.md)
 
 Among the Melanesian peoples there is an equally firm faith in spiritual
 beings, which they call *Vui* and *Wui*, and
@@ -93,14 +93,14 @@ beings, which they call *Vui* and *Wui*, and
 <span id="page_228">p. 228</span>
 
 these beings have very many of the chief attributes of the *Alcheringa*
-beings. <span id="fr_129"></span>[1](#fn_113)
+beings. <span id="fr_129"></span>[1](#fn_113.md)
 
 In Africa, the *Amatongo*, or *Abapansi* of Amazulu belief, have
 essentially the same motives for action toward men and women, and
 exhibit the same powers, as the Scotch and Irish peasants assign to the
 'good people'. They *take* the living through death; and people so
 *taken* appear afterwards as apparitions, having become
-*Amatongo*. <span id="fr_130"></span>[2](#fn_114)
+*Amatongo*. <span id="fr_130"></span>[2](#fn_114.md)
 
 In the New World, we find in the North American Red Men a race as much
 given as the Celts are to a belief in various spirits like fairies. They
@@ -112,7 +112,7 @@ carefully studied these American beliefs, says that the *Un à
 games-suk*, or little spirits inhabiting rocks and streams, play a much
 more influential part in the social and religious life of the North
 American Red Men than elves or fairies ever did among the Aryans. <span
-id="fr_131"></span>[3](#fn_115)
+id="fr_131"></span>[3](#fn_115.md)
 
 In Asia there is the well-known and elaborate animistic creed of the
 Chinese and of the Japanese, to be in part illustrated in subsequent
@@ -121,10 +121,10 @@ essential difference between various orders of beings endowed with
 immortality, such as ghosts and spirits on the one hand, and gods,
 demigods, and warriors on the other; for whether in bodies in this world
 or out of bodies in the invisible world, they equally live and
-act--quite as fairies do. <span id="fr_132"></span>[4](#fn_116)
+act--quite as fairies do. <span id="fr_132"></span>[4](#fn_116.md)
 Throughout the Malay Peninsula, belief in many orders of good and bad
 spirits, in demon-possession, in exorcism, and in the power of black
-magicians is very common. <span id="fr_133"></span>[5](#fn_117) But in
+magicians is very common. <span id="fr_133"></span>[5](#fn_117.md) But in
 the *Phi* races of Siam
 
 <span id="page_229">p. 229</span>
@@ -151,15 +151,15 @@ haunt barns, stables, and dwellings; and in many curious details these
 the worship of this order of *Phi* widespread in Siam, but to every
 other order of *Phi* altars are erected and propitiatory offerings made
 by all classes of the Siamese people. <span
-id="fr_134"></span>[1](#fn_118)
+id="fr_134"></span>[1](#fn_118.md)
 
 Before passing westwards to Europe, in completion of our rapid folk-lore
 tour of the world, we may observe that the Persians, even those who are
 well educated, have a firm belief in *jinns* and *afreets*, different
 orders of good and bad spirits with all the chief characteristics of
-fairies. <span id="fr_135"></span>[2](#fn_119) And modern Arabs and
+fairies. <span id="fr_135"></span>[2](#fn_119.md) And modern Arabs and
 Egyptians and Egyptian Turks hold similar animistic beliefs. <span
-id="fr_136"></span>[3](#fn_120)
+id="fr_136"></span>[3](#fn_120.md)
 
 <span id="page_230">p. 230</span>
 
@@ -180,7 +180,7 @@ Celtic fairies, these Greek nereids have their queens; they dance all
 night, disappearing at cock-crow; they can cast spells on animals or
 maladies on men and women; they can shift their shape; they *take*
 children in death and make changelings; and they fall in love with young
-men. <span id="fr_137"></span>[1](#fn_121)
+men. <span id="fr_137"></span>[1](#fn_121.md)
 
 Among the Roumain peoples the widespread belief in the *lele* shows in
 other ways equally marked parallels with the Fairy-Faith of the Celts.
@@ -200,7 +200,7 @@ have been enticed to enter their round dance afterwards waste away and
 die, apparently becoming one of 'those without'. These Albanian spirits,
 like the 'good people' and the Breton dead, have their own particular
 paths and retreats, and whoever violates these is struck and falls
-ill. <span id="fr_138"></span>[1](#fn_122) These parallels from Roumain
+ill. <span id="fr_138"></span>[1](#fn_122.md) These parallels from Roumain
 lands are probably due to the close Aryan relationship between the
 Roumains, the Greeks, and the Celts. The *Iele* seem nothing more than
 the nymphs and nereids of classical antiquity transformed under
@@ -211,7 +211,7 @@ fallen angels and evil spirits.
 There is an even closer relationship between the Italian and Celtic
 fairies. For example, among the Etruscan-Roman people there are now
 flourishing animistic beliefs almost identical in all details with the
-Fairy-Faith of the Celts. <span id="fr_139"></span>[2](#fn_123) In a
+Fairy-Faith of the Celts. <span id="fr_139"></span>[2](#fn_123.md) In a
 very valuable study on the Neo-Latin Fay, Mr. H. C. Coote writes:--'Who
 were the Fays--the *fate* of later Italy, the *fées* of mediaeval
 France? For it is perfectly clear that the *fatua*, *fata*, and *fée*
@@ -219,7 +219,7 @@ are all one and the same word.' And he proceeds to show that the race of
 immortal damsels whom the old natives of Italy called *Fatuae* gave
 origin to all the family of *fées* as these appear in Latin countries,
 and that the Italians recognized in the Greek nymphs their own
-*Fatuae*. <span id="fr_140"></span>[3](#fn_124)
+*Fatuae*. <span id="fr_140"></span>[3](#fn_124.md)
 
 It is quite evident that we have here discovered in Italy, as we
 discovered in Greece and Roumain lands, fairies very Celtic in
@@ -312,7 +312,7 @@ fairies should be considered.
 champions of the Pygmy Theory have attempted to explain this smallness
 of fairies by means of the hypothesis that the belief in such fairies is
 due *wholly* to a folk-memory of small-statured pre-Celtic races; <span
-id="fr_141"></span>[1](#fn_125) and
+id="fr_141"></span>[1](#fn_125.md) and
 
 <span id="page_235">p. 235</span>
 
@@ -331,7 +331,7 @@ essentially animistic fabric of the primitive Fairy-Faith. But though
 the theory may so account for such ethnological elements, it disregards
 the animism that has made such interweaving possible; and, on the whole,
 we are inclined to accept Mr. Jenner's view of the theory (see [p.
-169](ffcc125.htm#page_169)). Since the Pygmy Theory thus fails entirely
+169](ffcc125.htm#page_169).md). Since the Pygmy Theory thus fails entirely
 to provide a basis for what is by far the most important part of the
 Fairy-Faith, a more adequate theory is required.
 
@@ -346,7 +346,7 @@ with them, so as to result in their being anthropomorphosed. Thus, in
 Lappish-like man, who may be a Pict; and as Campbell, who records the
 ancient tale, has observed, there are many similar traditional Highland
 tales about little men or even about true dwarfs who are good
-bowmen; <span id="fr_142"></span>[1](#fn_126)
+bowmen; <span id="fr_142"></span>[1](#fn_126.md)
 
 <span id="page_236">p. 236</span>
 
@@ -357,12 +357,12 @@ in their origin, while the latter are more mythological and extremely
 archaic. This blending of the natural or ethnological and the
 supernatural--in quite the same manner as in the modern Fairy-Faith--is
 clearly seen in another of Campbell's collected tales, *The Lad with the
-Skin Coverings*, <span id="fr_143"></span>[1](#fn_127) which in essence
+Skin Coverings*, <span id="fr_143"></span>[1](#fn_127.md) which in essence
 is an other-world tale: 'a little thickset man in a russet coat,' who is
 a magician, but who otherwise seems to be a genuine Lapp dressed in
 furs, is introduced into a story where real fairy-like beings play the
 chief parts. Again, in Irish literature, we read of a *loch luchra* or
-'lake of the pygmies'. <span id="fr_144"></span>[2](#fn_128) Light is
+'lake of the pygmies'. <span id="fr_144"></span>[2](#fn_128.md) Light is
 thrown upon this reference by what is recorded about the leprechauns and
 Fergus:--While asleep on the seashore one day, Fergus was about to be
 carried off by the *luchorpáin*; 'whereat he awoke and caught three of
@@ -376,7 +376,7 @@ under Lough Rudraide \[which\] is in thine own country." Thereafter the
 *luchuirp* (little bodies) put herbs into his ears, and he used to go
 with them under seas. Others say the dwarf gave his cloak to him, and
 that Fergus used to put it on his head and thus go under seas. <span
-id="fr_145"></span>[3](#fn_129) In an etymological comment on this
+id="fr_145"></span>[3](#fn_129.md) In an etymological comment on this
 passage, Sir John Rhy^s says:--'The words *luchuirp* and *luchorpáin*
 \[Anglo-Irish leprechaun\] appear to mean literally "small bodies", and
 the word here rendered
@@ -385,12 +385,12 @@ the word here rendered
 
 dwarf is in the Irish *abac,* the etymological equivalent of the Welsh
 *avanc,* the name by which certain water inhabitants of a mythic nature
-went in Welsh ...' <span id="fr_146"></span>[1](#fn_130)
+went in Welsh ...' <span id="fr_146"></span>[1](#fn_130.md)
 
 Besides what we find in the recorded Fairy-Faith, there are very many
 parallel traditions, both Celtic and non-Celtic, about various classes
 of spirits, like leprechauns or other small elvish beings, which Dr.
-Tylor has called nature-spirits; <span id="fr_147"></span>[2](#fn_131)
+Tylor has called nature-spirits; <span id="fr_147"></span>[2](#fn_131.md)
 and apparently all of these can best be accounted for by means of the
 animistic hypothesis. For example, in North America (as in Celtic lands)
 there is no proof of there ever having been an actual dwarf race, but
@@ -402,12 +402,12 @@ inches tall, armed with sharp arrows, and ever on the alert to kill
 mortals who should dare to invade their domain. So afraid were all the
 tribes of Red Men who lived near the mountain of these little spirits
 that no one of them could be induced to visit it. <span
-id="fr_148"></span>[3](#fn_132) And we may compare this American
+id="fr_148"></span>[3](#fn_132.md) And we may compare this American
 spirit-haunted hill with similar natural hills in Scotland said to be
 fairy knolls: one near the turning of a road from Reay Wick to Safester,
-Isle of Unst; <span id="fr_149"></span>[4](#fn_133) one the well-known
+Isle of Unst; <span id="fr_149"></span>[4](#fn_133.md) one the well-known
 fairy-haunted Tomnahurich, near Inverness; <span
-id="fr_150"></span>[4](#fn_133) and a third, the hill at Aberfoyle on
+id="fr_150"></span>[4](#fn_133.md) and a third, the hill at Aberfoyle on
 which the 'people of peace' took the Rev. Robert Kirk when he profaned
 it by walking on it; or we may equate the American bill with the
 fairy-haunted Slieve Gullion and Ben Bulbin in Ireland.
@@ -417,11 +417,11 @@ similar nature-spirits, by knocking on a certain
 
 <span id="page_238">p. 238</span>
 
-large stone. <span id="fr_151"></span>[1](#fn_134) Likewise the Polong,
+large stone. <span id="fr_151"></span>[1](#fn_134.md) Likewise the Polong,
 a Malay familiar spirit, is 'an exceedingly diminutive female figure or
-mannikin'. <span id="fr_152"></span>[2](#fn_135) East Indian
+mannikin'. <span id="fr_152"></span>[2](#fn_135.md) East Indian
 nature-spirits, too, are pygmies in stature. <span
-id="fr_153"></span>[3](#fn_136) In Polynesia, entirely independent of
+id="fr_153"></span>[3](#fn_136.md) In Polynesia, entirely independent of
 the common legends about wild races of pygmy stature, are myths about
 the spirits called *wui* or *vui*, who correspond to European dwarfs and
 trolls. These little spirits seem to occupy the same position toward the
@@ -429,11 +429,11 @@ Melanesian gods or culture heroes, Qat of the Banks Islands and Tagaro
 of the New Hebrides, as daemons toward Greek gods, or as good angels
 toward the Christian Trinity, or as fairy tribes toward the Brythonic
 Arthur and toward the Gaelic hero Cuchulainn. <span
-id="fr_154"></span>[4](#fn_137) Similarly in Hindu mythology pygmies
+id="fr_154"></span>[4](#fn_137.md) Similarly in Hindu mythology pygmies
 hold an important place, being sculptured on most temples in company
 with the gods; e. g. Siva is accompanied by a bodyguard of dwarfs, and
 one of them, the three-legged Bhringi, is a good dancer <span
-id="fr_155"></span>[5](#fn_138)--like all *corrigans*, pixies, and most
+id="fr_155"></span>[5](#fn_138.md)--like all *corrigans*, pixies, and most
 fairies.
 
 Beyond the borders of Celtic lands--in Southern Asia with its islands,
@@ -444,7 +444,7 @@ have, and it would hardly be reasonable to argue that either of the two
 fairy-faiths is due to a folk-memory of small-statured peoples. Ancient
 and thoroughly reliable manuscript records testify to the existence of
 pygmies in China during the twenty-third century B. C.; <span
-id="fr_156"></span>[6](#fn_139) yet no one has ever tried to explain the
+id="fr_156"></span>[6](#fn_139.md) yet no one has ever tried to explain the
 well-known animistic beliefs of modern China-men in ghosts, demons, and
 in little nature-spirits like fairies, by saying that these are a
 folk-memory of this ancient pygmy race. In Yezo and the Kurile Islands
@@ -455,7 +455,7 @@ of Japan still survive a few of the hairy Ainu, a Caucasian
 like, under-sized race; and their immediate predecessors; whom they
 exterminated, were a Negrito race, who, according to some traditions,
 were two to three feet in stature, and, according to other traditions,
-only one inch in stature. <span id="fr_157"></span>[1](#fn_140) Both
+only one inch in stature. <span id="fr_157"></span>[1](#fn_140.md) Both
 pygmy races, the surviving and the exterminated race, seem independently
 to have evolved a belief in ghosts and spirits, so that here again, it
 need not be argued that the present pre-Buddhist animism of the Japanese
@@ -475,7 +475,7 @@ or homunculus, of a few inches in height'. Sometimes the soul is
 described as only about three inches in stature. Dr. Frazer shows,
 likewise, that by practically all contemporary primitive peoples the
 soul is commonly regarded as a dwarf. <span
-id="fr_158"></span>[2](#fn_141)
+id="fr_158"></span>[2](#fn_141.md)
 
 The same opinions regarding the human soul prevailed among ancient
 peoples highly civilized, i.e. the Egyptians and Greeks, and may have
@@ -483,7 +483,7 @@ thence directly influenced Celtic tradition. Thus, in bas-relief on the
 Egyptian temple of *Dêr el Bahri*, Queen Hatshepsû Ra\_maka is making
 offerings of perfume to the gods, while just behind her stands her *Ka*
 (soul) as a pygmy so little that the crown of its head is just on a
-level with her waist. <span id="fr_159"></span>[3](#fn_142) The *Ka* is
+level with her waist. <span id="fr_159"></span>[3](#fn_142.md) The *Ka* is
 usually represented as about half the size of an ordinary man. In the
 *Book of* 
 
@@ -495,14 +495,14 @@ bird-like body.
 
 On Greek vases the human soul is depicted as a pygmy issuing from the
 body through the mouth; and this conception existed among Romans and
-Teutons. <span id="fr_160"></span>[1](#fn_143) Like their predecessors
+Teutons. <span id="fr_160"></span>[1](#fn_143.md) Like their predecessors
 the Egyptians, the Greeks also often represented the soul as a small
 winged human figure, and Romans, in turn, imagined the soul as a pygmy
 with butterfly wings. These ideas reappear in mediaeval reliefs and
 pictures wherein the soul is shown as a child or little naked man going
-out of the dying person's mouth; <span id="fr_161"></span>[2](#fn_144)
+out of the dying person's mouth; <span id="fr_161"></span>[2](#fn_144.md)
 and, according to Cædmon, who was educated by Celtic teachers, angels
-are small and beautiful <span id="fr_162"></span>[3](#fn_145)--quite
+are small and beautiful <span id="fr_162"></span>[3](#fn_145.md)--quite
 like good fairies.
 
 Alchemical and Mystical Theory
@@ -541,7 +541,7 @@ or ghosts of the dead.
 For us, the third class, which includes spirits of pygmy-like form, is
 the most important in this present discussion. All its members are of
 four kinds, according as they inhabit one of the four chief elements of
-nature. <span id="fr_163"></span>[1](#fn_146) Those inhabiting the earth
+nature. <span id="fr_163"></span>[1](#fn_146.md) Those inhabiting the earth
 are called Gnomes. They are definitely of pygmy stature, and friendly to
 man, and in fairy-lore ordinarily correspond to mine-haunting fairies or
 goblins, to pixies, *corrigans*, leprechauns, and to such elves as live
@@ -575,14 +575,14 @@ You cannot lift your hand without influencing and being influenced by
 hordes. The visible world is merely their skin. In dreams we go amongst
 them, and play with them, and combat with them. They are, perhaps, human
 souls in the crucible--these creatures of whim.' <span
-id="fr_164"></span>[1](#fn_147) And bringing this into relation with
+id="fr_164"></span>[1](#fn_147.md) And bringing this into relation with
 ordinary fairies, he says:--'Do not think the fairies are always little.
 Everything is capricious about them, even their size. They seem to take
-what size or shape pleases them.' <span id="fr_165"></span>[1](#fn_147)
+what size or shape pleases them.' <span id="fr_165"></span>[1](#fn_147.md)
 In *The Celtic Twilight* Mr. Yeats makes the statement that the 'fairies
 in Ireland are sometimes as big as we are, sometimes bigger, and
 sometimes, as I have been told, about three feet high.' <span
-id="fr_166"></span>[2](#fn_148)
+id="fr_166"></span>[2](#fn_148.md)
 
 Mrs. X, a cultured Irishwoman now living in County Dublin, who as a
 percipient fulfils all the exacting requirements which psychologists and
@@ -617,7 +617,7 @@ there exist in nature invisible spiritual beings of pygmy stature and of
 various forms and characters, comparable in all respects to the little
 people of Celtic folk-lore. How all this is parallel to the Celtic
 Fairy-Faith is perfectly evident, and no comment of ours is
-necessary. <span id="fr_167"></span>[1](#fn_149)
+necessary. <span id="fr_167"></span>[1](#fn_149.md)
 
 This point of view, presented by mediaeval and modern occult sciences
 and confirmed by Celtic and non-Celtic percipients, when considered in
@@ -693,10 +693,10 @@ of circumstances--dwelt in secret in chambered mounds or souterrains, or
 in dense forests, and then stole young people for recruits, sometimes
 permitting them, years afterwards, when too old to be of further use, to
 return home under an inviolable vow of secrecy. <span
-id="fr_168"></span>[1](#fn_150) And Mr. David MacRitchie in supporting
+id="fr_168"></span>[1](#fn_150.md) And Mr. David MacRitchie in supporting
 his own Pygmy Theory has made interesting modern elaborations of these
 two slightly different theories concerning changelings. <span
-id="fr_169"></span>[2](#fn_151)
+id="fr_169"></span>[2](#fn_151.md)
 
 As already pointed out, there are definite ethnological elements blended
 in the other parts of the complex Fairy-Faith; and so in this part of
@@ -718,7 +718,7 @@ possible that the sickly and ailing would be rejected when the time came
 for each family to supply its quota of victims, and this might easily
 translate itself in the folk-memory into the statement that the fairies
 had carried off the healthy' (alone acceptable as sacrifice) 'and left
-in exchange the sickly.' <span id="fr_170"></span>[1](#fn_152) Though
+in exchange the sickly.' <span id="fr_170"></span>[1](#fn_152.md) Though
 our evidence will not permit us to accept the theory (why it will not
 will be clear as we proceed) that some such sacrificial customs among
 the ancient Celts entirely account for the changeling story, yet we
@@ -729,9 +729,9 @@ probably offers more complete explanation.
 
 Thus, the Mexicans believed that the souls of all sacrificed children
 went to live with the god Tlaloc in his heaven-world. <span
-id="fr_171"></span>[2](#fn_153) Among the Greeks, a sacrificed victim
+id="fr_171"></span>[2](#fn_153.md) Among the Greeks, a sacrificed victim
 appears to have been sent as a messenger, bearing a message repeated to
-him before death to some god. <span id="fr_172"></span>[3](#fn_154) On
+him before death to some god. <span id="fr_172"></span>[3](#fn_154.md) On
 the funeral pile of Patroclus were laid Trojan captives, together with
 horses and hounds, a practice corresponding to that of American Red Men;
 the idea being that the sacrificed Trojans and the horses and hounds as
@@ -749,15 +749,15 @@ gods, spirits, and the dead.
 
 Both Sir John Rhy^s and D'Arbois de Jubainville have shown that the
 Irish were wont to sacrifice the first-born of children and of
-flocks. <span id="fr_173"></span>[1](#fn_155) O'Curry points out a clear
+flocks. <span id="fr_173"></span>[1](#fn_155.md) O'Curry points out a clear
 case of human sacrifice at an ancient Irish funeral <span
-id="fr_174"></span>[2](#fn_156):--'Fiachra then brought fifty hostages
+id="fr_174"></span>[2](#fn_156.md):--'Fiachra then brought fifty hostages
 with him from Munster'; and, when he died, 'the hostages which he
 brought from the south were buried alive around the *Fert* (burial
 mound) of Fiachra.' More commonly the ancient Celts seem to have made
 sacrifices to appease place-spirits before the erection of a new
 building, by sending to them through death the soul of a youth (see [p.
-436](ffcc309.htm#page_436)).
+436](ffcc309.htm#page_436).md).
 
 It is in such animistic beliefs as these, which underlie sacrifice, that
 we find a partial solution of the problem of changeling belief. But the
@@ -781,30 +781,30 @@ fairies do--'to add them to their company;
 
 and if a man has left children when he died, one of whom sickens
 afterwards, it is said that the dead father takes it.' <span
-id="fr_175"></span>[1](#fn_157) In Banks Island, Polynesia, the ghost of
+id="fr_175"></span>[1](#fn_157.md) In Banks Island, Polynesia, the ghost of
 a woman who has died in childbirth is greatly dreaded: as long as her
 child is on earth she cannot proceed to Panoi, the otherworld; and the
 relatives take her child to another house, 'because they know that the
 mother will come back to take its soul.' <span
-id="fr_176"></span>[2](#fn_158) When a Motlav child sneezes, the mother
+id="fr_176"></span>[2](#fn_158.md) When a Motlav child sneezes, the mother
 will cry, 'Let him come back into the world! let him remain.' Under
 similar circumstances in Mota, the cry is, 'Live; roll back to us!' 'The
 notion is that a ghost is drawing a child's soul away.' If the child
 falls ill the attempt has succeeded, and a wizard throws himself into a
 trance and goes to the ghost-world to bring the child's soul back. <span
-id="fr_177"></span>[3](#fn_159) In the islands of Kei and Kisar a belief
+id="fr_177"></span>[3](#fn_159.md) In the islands of Kei and Kisar a belief
 prevails that the spirits of the dead can take to themselves the souls
 of the living who go near the graves. <span
-id="fr_178"></span>[4](#fn_160) Sometimes a Polynesian mother insists on
+id="fr_178"></span>[4](#fn_160.md) Sometimes a Polynesian mother insists on
 being buried with her dead child; or a surviving wife with her dead
 husband, so that there will be no separation. <span
-id="fr_179"></span>[5](#fn_161) These last practices help to illustrate
+id="fr_179"></span>[5](#fn_161.md) These last practices help to illustrate
 the Celtic theory behind the belief that fairies can abduct adults.
 
 Throughout Melanesia sickness is generally attributed to the soul's
 absence from the body, and this state of disembodiment is believed to be
 due to some ghost's or spirit's interference, <span
-id="fr_180"></span>[6](#fn_162) just as among Celts sickness is often
+id="fr_180"></span>[6](#fn_162.md) just as among Celts sickness is often
 thought to be due to fairies having taken the soul to Fairyland. An old
 Irish piper who came up to Lady Gregory's home at Coole Park told us
 that a certain relative of his, a woman, had lain in a semi-conscious
@@ -813,7 +813,7 @@ consciousness she declared she had been with the 'good people'.
 
 Folk-beliefs like all the above, which more adequately explain the
 changeling idea than the Human-Sacrifice Theory, are world-wide, being
-at once Celtic and non-Celtic. <span id="fr_181"></span>[7](#fn_163)
+at once Celtic and non-Celtic. <span id="fr_181"></span>[7](#fn_163.md)
 
 <span id="page_249">p. 249</span>
 
@@ -825,7 +825,7 @@ soul and so cause in the vacated body illness if the abduction is
 temporary, and death if it is permanent: namely, a belief that demons,
 who sometimes may be souls of the dead, can possess a human body while
 the soul is out of it during sleep, or else can expel the soul and
-occupy its place. <span id="fr_182"></span>[1](#fn_164) When complete
+occupy its place. <span id="fr_182"></span>[1](#fn_164.md) When complete
 possession of this character takes place there is--as in 'mediumship'--a
 change of personality, and the manner, thoughts, actions, language, and
 the whole nature of the possessed person are radically changed.
@@ -871,7 +871,7 @@ true soul, which has been waiting for an opportunity, now approaches the
 dormant body, and, if the mark has been washed off in time, takes
 possession of it; but if not, it, like the demon, failing to recognize
 the body, departs, and the child dies in its sleep.' <span
-id="fr_183"></span>[1](#fn_165)
+id="fr_183"></span>[1](#fn_165.md)
 
 In relation to this Demon-Possession Theory, the writer has had the
 opportunity of observing carefully some living changelings among the
@@ -1003,13 +1003,13 @@ such a magical act to be in relation to the magician 'generically, a
 projection of imperative will, and specifically one that moves on a
 supernormal plane', and the victim's position towards this invisible
 projected force to be 'a position compatible with *rapport*'. <span
-id="fr_184"></span>[1](#fn_166) He also thinks it probable that the
+id="fr_184"></span>[1](#fn_166.md) He also thinks it probable that the
 essence of the magician's supernormal power lies in what Melanesians
-call *mana*. <span id="fr_185"></span>[1](#fn_166) In our opinion *mana*
+call *mana*. <span id="fr_185"></span>[1](#fn_166.md) In our opinion *mana*
 may be equated with what William James, writing of his attitude toward
 psychical phenomena, called a universally diffused 'soul-stuff' leaking
 through, so to speak, and expressing itself in the human
-individual. <span id="fr_186"></span>[2](#fn_167) On this view, Mr.
+individual. <span id="fr_186"></span>[2](#fn_167.md) On this view, Mr.
 Marett's theory would amount to saying that magicians are able to
 produce magical effects because they are able to control this
 'soul-stuff'; and our evidence would regard all spirits and fairies as
@@ -1025,7 +1025,7 @@ Other modern anthropologists have set up far less satisfactory
 definitions of magic. According to Dr. Frazer, for example, magic
 assumes, as natural science does, that 'one event follows another
 necessarily and invariably without the intervention of any spiritual or
-personal agency'. <span id="fr_187"></span>[3](#fn_168) Such a theory is
+personal agency'. <span id="fr_187"></span>[3](#fn_168.md) Such a theory is
 not supported by the facts of anthropology; and does not even apply to
 those specialized and often superficial kinds of magic classed under it
 by Dr. Frazer as 'sympathetic and imitative magic', i.e. that through
@@ -1045,13 +1045,13 @@ by a fairy or disembodied spirit acting upon an embodied one, a man or
 woman; and not, as Dr. Frazer holds, through 'mistaken applications of
 one or other of two great fundamental laws of thought, namely, the
 association of ideas by similarity and the association of ideas by
-contiguity in space or time'. <span id="fr_188"></span>[1](#fn_169)
+contiguity in space or time'. <span id="fr_188"></span>[1](#fn_169.md)
 
 The mechanical causation theory of magic, as thus set forth in *The
 Golden Bough*, does not imply *mana* or willpower, as Mr. Marett's more
 adequate theory does in part: Dr. Frazer wishes us to regard animistic
 religious practices as distinct from magic. <span
-id="fr_189"></span>[2](#fn_170) Nevertheless, in direct opposition to
+id="fr_189"></span>[2](#fn_170.md) Nevertheless, in direct opposition to
 Dr. Frazer's view, the weight of the evidence from the past and from the
 present, which we are about to offer, is decidedly favourable to our
 regarding magic and religion as complementary to one another and, for
@@ -1062,7 +1062,7 @@ research, tends to establish an almost exclusively animistic hypothesis
 to account for fairy magical phenomena and like phenomena among human
 beings; and with these phenomena we are solely concerned.
 
-Among the Ancients <span id="fr_190"></span>[3](#fn_171)
+Among the Ancients <span id="fr_190"></span>[3](#fn_171.md)
 
 Among the more cultured Greeks and Romans--and the same can be said of
 most great nations of antiquity--it was
@@ -1095,7 +1095,7 @@ training of Egyptian, Indian, Assyrian, Greek, Roman, and Druid priests
 was in the magical or occult sciences. Pliny, in his *Natural History*,
 says:--'And to-day Britain practises the art \[of magic\] with religious
 awe and with so many ceremonies that it might seem to have made the art
-known to the Persians.' <span id="fr_191"></span>[1](#fn_172) Herein,
+known to the Persians.' <span id="fr_191"></span>[1](#fn_172.md) Herein,
 then, is direct evidence that the Celtic Fairy-Faith, considered in its
 true psychic nature, has been immediately shaped by the ancient Celtic
 religion; and, as our witness
@@ -1109,7 +1109,7 @@ special study of the historical records concerning Druidism,
 writes:--'The Druids of Ireland appear to us above all as magicians and
 prophets. They foretell the future, they interpret the secret will of
 the *fées* (fairies), they cast lots.' <span
-id="fr_192"></span>[1](#fn_173) Thus, in spite of the popular and
+id="fr_192"></span>[1](#fn_173.md) Thus, in spite of the popular and
 Christian reshaping which the belief in fairies has had to endure, its
 origin is easily enough discerned even in its modern form, covered over
 though this is with accretions foreign to its primal character.
@@ -1135,7 +1135,7 @@ another will or by any outside or psychic influence, then for the first
 time he was permitted to exercise his own iron will in controlling
 daemons, ghosts, and all the elemental hosts of the air--either as a
 white magician or as a black magician. <span
-id="fr_193"></span>[2](#fn_174)
+id="fr_193"></span>[2](#fn_174.md)
 
 <span id="page_258">p. 258</span>
 
@@ -1174,7 +1174,7 @@ priests, their sacrifices and mysteries and charms, and all prophecy and
 incantation find their way. For God mingles not with man; but through
 the daemonic element (or Love) all the intercourse and converse of God
 with man, whether awake or asleep, is carried on. The wisdom which
-understands this is spiritual.' <span id="fr_194"></span>[1](#fn_175)
+understands this is spiritual.' <span id="fr_194"></span>[1](#fn_175.md)
 
 Among the Ancient Celts
 
@@ -1187,18 +1187,18 @@ fairy woman says of Druidism and magic:--'Druidism is not loved, little
 has it progressed to honour on the Great Strand. When his law shall come
 it will scatter the charms of Druids *from journeying on the lips of
 black, lying demons*'--so characterized by the Christian
-transcribers. <span id="fr_195"></span>[2](#fn_176) In *How Fionn Found
+transcribers. <span id="fr_195"></span>[2](#fn_176.md) In *How Fionn Found
 his Missing Men*, an ancient tale preserved by oral tradition until
 recorded by Campbell, it is said that 'Fionn then went out with Bran
 (his fairy dog). There were millions of people (apparitions) out before
 him, called up by some sleight of hand'. <span
-id="fr_196"></span>[3](#fn_177) In the *Leabhar na h-Uidre*, or 'Book of
+id="fr_196"></span>[3](#fn_177.md) In the *Leabhar na h-Uidre*, or 'Book of
 the Dun Cow' (p. 43 a), compiled from older manuscripts about A. D.
 1100, there is a clear example of Irish fetishism based on belief in the
 power of demons:--'. . . for their swords used to turn against them (the
 Ulstermen) when they made a false trophy. Reasonable \[was\] this; for
 demons used to speak to them from their arms, so that hence their arms
-were safeguards.' <span id="fr_197"></span>[4](#fn_178)
+were safeguards.' <span id="fr_197"></span>[4](#fn_178.md)
 
 Shape-shifting quite after the fairy fashion is very
 
@@ -1211,13 +1211,13 @@ envious of them (Faifne the poet and his sister Aige): so they loosed
 elves at them who transformed Aige into a fawn' (the form assumed by the
 fairy mother of Oisin, see p. 299 n.),' and sent her on a circuit all
 round Ireland, and the fians of Meilge son of Cobthach, king of Ireland,
-killed her.' <span id="fr_198"></span>[1](#fn_179) A fact which ought to
+killed her.' <span id="fr_198"></span>[1](#fn_179.md) A fact which ought to
 be noted in this connexion is that kings or great heroes, rather than
 ordinary men and women, are very commonly described as being able to
 shift their own shape, or that of other people; e. g. 'Mongan took on
 himself the shape of Tibraide, and gave Mac an Daimh the shape of the
 cleric, with a large tonsure on his head.' <span
-id="fr_199"></span>[2](#fn_180) And when this fact is coupled with
+id="fr_199"></span>[2](#fn_180.md) And when this fact is coupled with
 another, namely the ancient belief that such kings and great heroes were
 incarnations and reincarnations of the Tuatha De Danann, who form the
 supreme fairy hierarchy, we realize that, having such an origin, they
@@ -1286,7 +1286,7 @@ for days. Mrs. ------, who gives this testimony, is a friend of the
 victim, and she asserts that these evil thought-waves slowly but surely
 began his effacement, and that had the black magicians down in New York
 not been discovered in time, Mr. ------ could not have withstood the
-forces. <span id="fr_200"></span>[1](#fn_181) Perhaps so enlightened a
+forces. <span id="fr_200"></span>[1](#fn_181.md) Perhaps so enlightened a
 country as the United States may in time see history repeat itself, and
 add a new chapter to witchcraft; for the true witches were not the kind
 who are popularly supposed to ride on broomsticks and to keep a house
@@ -1318,7 +1318,7 @@ the term 'spirit', 'devil', or 'fairy'.
 In conformity with this psychical or animistic view of witchcraft, in
 the Capital Code of Connecticut (A. D. 1642) a witch is defined as one
 who 'hath or consorteth with a familiar spirit'. <span
-id="fr_201"></span>[1](#fn_182) European codes, as illustrated by the
+id="fr_201"></span>[1](#fn_182.md) European codes, as illustrated by the
 sixth chapter of Lord Coke's *Third Institute*, have parallels to this
 definition:--'A witch is a person which hath conference with the devil;
 to consult with him to do some act.'' And upon these theories, not upon
@@ -1332,7 +1332,7 @@ Europe and America came to be based--as it probably always had been in
 pagan times--on the theory that living persons could control or be
 controlled by disembodied spirits for evil ends. Hence all black
 magicians, and what are now known as 'spirit mediums', were made liable
-by law to the death penalty. <span id="fr_202"></span>[2](#fn_183)
+by law to the death penalty. <span id="fr_202"></span>[2](#fn_183.md)
 
 In mediaeval Europe the great difficulty always was, as is shown in the
 trials of Jeanne d'Arc, to decide whether the invisible agent in magical
@@ -1352,7 +1352,7 @@ king and her country, was burned at the stake, under the joint direction
 of English civil and ecclesiastical authorities, and, if not
 technically, at least practically, with the full approval of the
 corresponding French authorities, at Rouen, France, May 30, A. D.
-1431. <span id="fr_203"></span>[1](#fn_184) In April, A. D. 1909, almost
+1431. <span id="fr_203"></span>[1](#fn_184.md) In April, A. D. 1909, almost
 five centuries afterwards, it has been decided with tardy justice that
 Jeanne's Voices were those of angels and not of demons, and she has been
 made a saint.
@@ -1365,7 +1365,7 @@ fountain of the fairies, near Domremy, around which dance malignant
 spirits?' And another question exactly as recorded was
 this:--'*Interroguée s'elle croiet point au devant de aujourduy, que les
 fées feussent maulvais esperis: respond qu'elle n'en sçavoit
-rien.*' <span id="fr_204"></span>[2](#fn_185)
+rien.*' <span id="fr_204"></span>[2](#fn_185.md)
 
 Conclusion
 
@@ -1404,7 +1404,7 @@ can cast spells upon or possess living human beings as Celts believe and
 assert. And this hypothesis coincides in most essentials with the one we
 used as a basis for this discussion, that, in accordance with the
 Melanesian doctrine of control of ghosts and spirits with their inherent
-*mana*, magical acts are possible. <span id="fr_205"></span>[1](#fn_186)
+*mana*, magical acts are possible. <span id="fr_205"></span>[1](#fn_186.md)
 This in turn applied to the Celts amounts to a hypothetical confirmation
 of the ancient druidical doctrine that through control of fairies or
 demons (daemons) Druids or magicians could control the weather and
@@ -1433,7 +1433,7 @@ the demon to depart from the body of persons possessed.' The same
 authority thus logically defends its practice by the Church:--'Far from
 condemning the opinion of the Jews, who attributed to the demon certain
 maladies, that divine Master confirmed it.' <span
-id="fr_206"></span>[1](#fn_187) And whenever exorcism of this character
+id="fr_206"></span>[1](#fn_187.md) And whenever exorcism of this character
 has been or is now generally practised, the professional exorcist
 appears as a personage just as necessary to society as the modern
 doctor, since nearly all diseases were and to some extent are still,
@@ -1466,7 +1466,7 @@ whole, and he cured the mad one. So God's name and Patrick's were
 magnified thereby." On another occasion, when demons came to Ireland in
 the form of black birds, quite after the manner of the Irish belief that
 fairies assume the form of crows (see pp.
-[302](ffcc240.htm#page_302)-5), the Celtic ire of Patrick was so aroused
+[302](ffcc240.htm#page_302)-5.md), the Celtic ire of Patrick was so aroused
 in trying to exorcize them out of the country that he threw his bell at
 them with such violence that it was cracked, and then he wept:--'Now at
 the end of those forty days and forty nights' \[of Patrick's long fast
@@ -1481,12 +1481,12 @@ front of him were wet. No demon came to the land of Erin after that till
 the end of seven years and seven months and seven days and seven nights.
 Then the angel went to console Patrick and cleansed the chasuble, and
 brought white birds round the Rick, and they used to sing sweet melodies
-for him.' <span id="fr_207"></span>[1](#fn_188) In Adamnan's *Life of S.
+for him.' <span id="fr_207"></span>[1](#fn_188.md) In Adamnan's *Life of S.
 Columba* it is said that 'according to custom', which in all probability
 was established in pagan times by the Druids and then maintained by
 their Christian descendants, it was usual to exorcize even a milk vessel
 before milking, and the milk in it afterwards. <span
-id="fr_208"></span>[2](#fn_189) Thus Adamnan tells us that one day a
+id="fr_208"></span>[2](#fn_189.md) Thus Adamnan tells us that one day a
 youth, Columban by name, when he had finished milking, went to the door
 of St. Columba's cell carrying the pail full of new milk that,
 *according to* 
@@ -1515,7 +1515,7 @@ straightway the milky colour was turned into its own proper quality,
 that is, into blood.' And it is added that 'The bull also, which for the
 space of one hour was at death's door, wasting and worn by a horrible
 emaciation, in being sprinkled with water blessed by the Saint, was
-cured with wonderful rapidity.' <span id="fr_209"></span>[1](#fn_190)
+cured with wonderful rapidity.' <span id="fr_209"></span>[1](#fn_190.md)
 
 And to-day, as in the times of Patrick and Columba, exorcism is
 practised in Ireland and in the Western Hebrides of Scotland by the
@@ -1530,24 +1530,24 @@ Psychical Research Society had taken up summer quarters to
 <span id="page_269">p. 269</span>
 
 by the late Archbishop of Edinburgh, assisted by a priest from the Outer
-Isles. <span id="fr_210"></span>[1](#fn_191)
+Isles. <span id="fr_210"></span>[1](#fn_191.md)
 
 Among the nine orders of the Irish ecclesiastical organization of
 Patrick's time, one was composed of exorcists. <span
-id="fr_211"></span>[2](#fn_192) The official ceremony for the ordination
+id="fr_211"></span>[2](#fn_192.md) The official ceremony for the ordination
 of an exorcist in the Latin Church was established by the Fourth Council
 of Carthage, and is indicated in nearly all the ancient rituals. It
 consists in the bishop giving to the candidate the book of exorcisms and
 saying as he does so:--'Receive and understand this book, and have the
 power of laying hands upon demoniacs, whether they be baptized, or
-whether they be catechumens.' <span id="fr_212"></span>[3](#fn_193) By a
+whether they be catechumens.' <span id="fr_212"></span>[3](#fn_193.md) By a
 decree of the Church Council of Orange, making men possessed of a demon
 ineligible to enter the priesthood, it would seem that the number of
 demoniacs must have been very great. <span
-id="fr_213"></span>[3](#fn_193) As to the efficacy of exorcisms, the
+id="fr_213"></span>[3](#fn_193.md) As to the efficacy of exorcisms, the
 church Fathers during the first four centuries, when the Platonic
 philosophy was most influential in Christianity, are agreed. <span
-id="fr_214"></span>[3](#fn_193)
+id="fr_214"></span>[3](#fn_193.md)
 
 In estimating the shaping influences, designated by us as fundamental,
 which undoubtedly were exerted upon the Fairy-Faith through the practice
@@ -1569,29 +1569,29 @@ right hand, touches the child's
 ears and nostrils, and commands the demon to depart out of the child.
 After this part of the ceremony is finished, the priest makes on the
 child's forehead a sign of the cross with holy oil. Finally, in due
-order, comes the actual baptism. <span id="fr_215"></span>[1](#fn_194)
+order, comes the actual baptism. <span id="fr_215"></span>[1](#fn_194.md)
 And even after baptismal rites have expelled all possessing demons,
 precautions are necessary against a repossession: St. Augustine has said
 that exorcisms of precaution ought to be performed over every Christian
 daily; and it appears that faithful Roman Catholics who each day employ
 holy water in making the sign of the cross, and all Protestants who pray
 'lead us not into temptation, but deliver us from evil', are employing
-such exorcisms: <span id="fr_216"></span>[2](#fn_195) St. Gregory of
+such exorcisms: <span id="fr_216"></span>[2](#fn_195.md) St. Gregory of
 Nazianzus writes, 'Arm yourself with the sign of the cross which the
 demons fear, and before which they take their flight ' <span
-id="fr_217"></span>[3](#fn_196); and by the same sign, said St.
+id="fr_217"></span>[3](#fn_196.md); and by the same sign, said St.
 Athanasius, 'All the illusions of the demon are dissipated and all his
-snares destroyed.' <span id="fr_218"></span>[4](#fn_197) An eminent
+snares destroyed.' <span id="fr_218"></span>[4](#fn_197.md) An eminent
 Catholic theologian asserts that saints who, since the time of Jesus
 Christ, have been endowed with the power of working miracles, have
 always made use of the sign of the cross in driving out demons, in
 curing maladies, and in raising the dead. In the *Instruction sur le
-Rituel*, <span id="fr_219"></span>[5](#fn_198) it is said that water
+Rituel*, <span id="fr_219"></span>[5](#fn_198.md) it is said that water
 which has been blessed is particularly designed to be used against
 demons; in the *Apostolic Constitutions*, formulated near the end of the
 fourth century, holy water is designated as a means of purification from
 sin and of putting the demon to flight. <span
-id="fr_220"></span>[6](#fn_199) And nowadays when the priest passes
+id="fr_220"></span>[6](#fn_199.md) And nowadays when the priest passes
 through his congregation casting over them holy water, it is as an
 exorcism of precaution; or when as in France each mourner
 
@@ -1603,7 +1603,7 @@ from demons who are held to have as great power over the dead as over
 the living. Other forms of exorcism, too, are employed. For example, in
 the *Lebar Brecc*, it is said of the Holy Scripture that By it the
 snares of devils and vices are expelled from every faithful one in the
-Church'. <span id="fr_221"></span>[1](#fn_200) And from all this direct
+Church'. <span id="fr_221"></span>[1](#fn_200.md) And from all this direct
 testimony it seems to be clear that many of the chief practices of
 Christians are exorcisms, so that, like the religion of Zoroaster, the
 religion founded by Jesus has come to rest, at least in part, upon the
@@ -1618,7 +1618,7 @@ people of possessions, declaring that one third of all maladies are so
 caused, and fixed his head-quarters at Elwangen, and later at Ratisbon.
 His fame spread over many countries of Europe, and he is said to have
 made ten thousand cures solely by exorcism. <span
-id="fr_222"></span>[2](#fn_201) And not only are human ills overcome by
+id="fr_222"></span>[2](#fn_201.md) And not only are human ills overcome by
 exorcism, but also the maladies of beasts: at Carnac, on September 13,
 there continues to be celebrated an annual fete in honour of St. Comely,
 the patron saint of the country and the saint who (as his name seems to
@@ -1637,7 +1637,7 @@ holy
 water as it stands before the priest at the church door; and then there
 follows in Latin a direct invocation to God to bless the animal, 'to
 extinguish in it all diabolical powers,' to defend its life, and to
-restore it to health. <span id="fr_223"></span>[1](#fn_202)
+restore it to health. <span id="fr_223"></span>[1](#fn_202.md)
 
 In 1868, according to Dr. Evans, an old cow-house in North Wales was
 torn down, and in its walls was found a tin box containing an exorcist's
@@ -1685,10 +1685,10 @@ all that I possess from
 
 the power of all evil men; women; spirits; or wizards past. present, or
 to come inward and outward Amen ✠✠.' <span
-id="fr_224"></span>[1](#fn_203)
+id="fr_224"></span>[1](#fn_203.md)
 
 From India Mr. W. Crooke reports similar exorcisms and charms to cure
-and to protect cattle. <span id="fr_225"></span>[2](#fn_204) Thus there
+and to protect cattle. <span id="fr_225"></span>[2](#fn_204.md) Thus there
 is employed in Northern India the *Ajaypâl jantra*, i. e. 'the charm of
 the Invincible Protector,' one of 'Vishnu's titles, in his character as
 the earth-god Bhûmiya--in Scotland it would be the charm of the
@@ -1743,7 +1743,7 @@ and early Celts as well, in a highly developed form; and it exists now
 among the native peoples of Australia, Polynesia, Central Africa,
 America, in Indian systems of Yoga, among modern Greeks, and, in fact,
 almost everywhere where there are vestiges of a primitive culture. <span
-id="fr_226"></span>[1](#fn_205) And almost always such a taboo is bound
+id="fr_226"></span>[1](#fn_205.md) And almost always such a taboo is bound
 up with animistic and magical elements, which seem to form its
 background, just as it is in our own evidence.
 
@@ -1764,25 +1764,25 @@ regards euphemisms, the process of development possibly is that first
 you employ any substitute name, and that secondly you go on to employ
 such a substitute name as will at the same time be conciliatory. In the
 latter case, a certain anthropomorphosing of the power behind the taboo
-would seem to be involved. <span id="fr_227"></span>[1](#fn_206)
+would seem to be involved. <span id="fr_227"></span>[1](#fn_206.md)
 
 Next in prominence comes the food taboo; and to this, also, there are
 non-Celtic parallels all the world over, now and in ancient times. We
 may take notice of three very striking modern parallels:--A woman
 visited her dead brother in Panoi, the Polynesian Otherworld, and 'he
 cautioned her to eat nothing there, and she returned.' <span
-id="fr_228"></span>[2](#fn_207) A Red Man, Ahaktah, after an apparent
+id="fr_228"></span>[2](#fn_207.md) A Red Man, Ahaktah, after an apparent
 death of two days' duration, revived, and declared that he had been to a
 beautiful land of tall trees and singing-birds, where he met the spirits
 of his forefathers and uncle. While there, he felt hunger, and seeing in
 a bark dish some wild rice, wished to eat of it, but his uncle would
 allow him none. In telling about this psychical adventure, Ahaktah
 said:--'Had I eaten of the food of spirits, I never should have returned
-to earth.' <span id="fr_229"></span>[3](#fn_208) Also a New Zealand
+to earth.' <span id="fr_229"></span>[3](#fn_208.md) Also a New Zealand
 woman visited the Otherworld in a trance, and her dead father whom she
 met there ordered her to eat no food in that land, so that she could
 return to this world to take care of her child. <span
-id="fr_230"></span>[4](#fn_209)
+id="fr_230"></span>[4](#fn_209.md)
 
 All such parallels, like their equivalents in Celtic belief, seem to
 rest on this psychological and physiological conception in the
@@ -1796,11 +1796,11 @@ the land of the dead will make the eater partake of the bodily
 nature of the beings it nourishes. Hence when a man or woman has once
 entered into such relation or communion with the Otherworld of the dead,
 or of fairies, by eating their food, his or her physical body <span
-id="fr_231"></span>[1](#fn_210) by a subtle transformation adjusts
+id="fr_231"></span>[1](#fn_210.md) by a subtle transformation adjusts
 itself to the new kind of nourishment, and becomes spiritual like a
 spirit's or fairy's body, so that the eater cannot re-enter the world of
 the living. A study of food taboos confirms this conclusion. <span
-id="fr_232"></span>[2](#fn_211)
+id="fr_232"></span>[2](#fn_211.md)
 
 A third prominent taboo, the iron taboo, has been explained by exponents
 of the Pygmy Theory as pointing to a prehistoric race in Celtic lands
@@ -1812,7 +1812,7 @@ however, it is only a partial explanation of iron taboo in general,
 because, in many cases, iron in ancient religious rites certainly had
 magical properties attributed to it, which to us are quite unexplainable
 from this ethnological point of view; <span
-id="fr_233"></span>[3](#fn_212) and in Melanesia and in Africa, where
+id="fr_233"></span>[3](#fn_212.md) and in Melanesia and in Africa, where
 iron is venerated now, the same explanation through ethnology seems
 far-fetched. But at present there seem to be no available data to
 explain adequately this iron taboo, though we have strong reasons for
@@ -1834,10 +1834,10 @@ will come to his cattle or even to himself. In the same way, in
 Melanesia, violations of sacred spots bring like penalties: 'A man
 planted in the bush near Olevuga some coco-nut and almond trees, and not
 long after died,' the place being a spirit preserve; <span
-id="fr_234"></span>[1](#fn_213) and a man in the Lepers' Island lost his
+id="fr_234"></span>[1](#fn_213.md) and a man in the Lepers' Island lost his
 senses, because, as the natives believed, he had unwittingly trodden on
 ground sacred to Tagaro, and 'the ghost of the man who lately sacrificed
-there was angry with him'. <span id="fr_235"></span>[1](#fn_213) In this
+there was angry with him'. <span id="fr_235"></span>[1](#fn_213.md) In this
 case the wizards were called in and cured the man by exorcisms,' as
 Irishmen, or their cows, are cured by the exorcisms of 'fairy-doctors'
 when 'fairy-struck' for some similar violation. The animistic background
@@ -1847,7 +1847,7 @@ Among Ancient Celts
 
 In the evidence soon to be examined from the recorded Fairy-Faith, we
 shall find taboos of various kinds often more prominent than in the
-living Fairy-Faith. <span id="fr_236"></span>[2](#fn_214) So essential
+living Fairy-Faith. <span id="fr_236"></span>[2](#fn_214.md) So essential
 are they to the character of much of the literary and mythological
 matter with which we shall have to deal in the following chapters, that
 at this point some suggestions ought to be made concerning their correct
@@ -1866,7 +1866,7 @@ isolate the king from all
 
 sources of danger, especially from all magic and witchcraft, and they
 act in many cases 'so to say, as electrical insulators' to preserve him
-or heroes who are equally divine. <span id="fr_237"></span>[1](#fn_215)
+or heroes who are equally divine. <span id="fr_237"></span>[1](#fn_215.md)
 
 The early Celts recognized an intimate relationship between man and
 nature: unperceived by man, unseen forces--not dissimilar to what
@@ -1889,7 +1889,7 @@ subjects or followers as well: in some cases the king seems to suffer
 vicariously for his people. Almost every great Gaelic hero--a god or
 Great Fairy Being incarnate--is overshadowed with an impending fate,
 which only the strictest observance of taboo can avoid. <span
-id="fr_238"></span>[2](#fn_216)
+id="fr_238"></span>[2](#fn_216.md)
 
 Irish taboo, and inferentially all Celtic taboo, dates back to an
 unknown pagan antiquity. It is imposed at or before birth, or again
@@ -1910,7 +1910,7 @@ and not as ordinary social regulations.
 Food-sacrifice plays a very important role in the modern Fairy-Faith,
 being still practised, as our evidence shows, in each one of the Celtic
 countries. Without any doubt it is a survival from pagan times, when, as
-we shall observe later (in chapter iv. [291](ffcc240.htm#page_291), and
+we shall observe later (in chapter iv. [291](ffcc240.htm#page_291.md), and
 elsewhere), propitiatory offerings were regularly made to the Tuatha De
 Danann as gods of the earth, and, apparently, to other orders of
 spiritual beings. The anthropological significance of such
@@ -1925,7 +1925,7 @@ religions, were based on the belief, as stated by Porphyry in his
 genii or daemons, enjoy as nourishment the odour of burnt offerings. And
 like the Fairy-Folk, the daemons of the air live not on the gross
 substance of food, but on its finer invisible essences, conveyed to them
-most easily on the altar-fire. <span id="fr_239"></span>[1](#fn_217)
+most easily on the altar-fire. <span id="fr_239"></span>[1](#fn_217.md)
 Socrates, Plato, Xenophon, and other leading Greeks, as well as the
 Romans of a like metaphysical school; unite in declaring the fundamental
 importance to the welfare of the State of regular sacrifices to the gods
@@ -1947,7 +1947,7 @@ Next to these Gods, a wise man will do service to the daemons or
 spirits, and then to the heroes, and after them will follow the sacred
 places of private and ancestral Gods, having their ritual according to
 law. Next comes the honour of living parents.' <span
-id="fr_240"></span>[1](#fn_218)
+id="fr_240"></span>[1](#fn_218.md)
 
 It is evident from this direct testimony that the same sort of
 philosophy underlies food-sacrifice among the Celts and other peoples as
@@ -1983,7 +1983,7 @@ however, very many minor anthropological problems not yet touched upon;
 but several of the most important of these, e. g. various cults of gods,
 spirits, fairies, and the dead, and folk-festivals thereto related (see
 Section III); the circular fairy-dance (see pp.
-[405](ffcc308.htm#page_405)-6); or the fairy world as the Otherworld
+[405](ffcc308.htm#page_405)-6.md); or the fairy world as the Otherworld
 (see chap. vi), or as Purgatory (see chap. x), will receive
 consideration in following chapters, and so will certain very definite
 psychological problems connected with dreams, and trance-like states,
@@ -2052,34 +2052,34 @@ Fairy-Faith of the Celts.
 
 ### Footnotes
 
-<span id="fn_112"></span>[227:1](ffcc130.htm#fr_128) B. Spencer and F.
+<span id="fn_112"></span>[227:1](ffcc130.htm#fr_128.md) B. Spencer and F.
 T. Gillen, *Nat. Tribes of Cent. Aust*. (London, 1899), chapters xi, xv.
 
-<span id="fn_113"></span>[228:1](ffcc130.htm#fr_129) R. H. Codrington,
+<span id="fn_113"></span>[228:1](ffcc130.htm#fr_129.md) R. H. Codrington,
 *Journ. Anthrop. Inst*. x. 261*; The Melanesians* (Oxford, 1891), pp.
 123, 151, &c.; also cf. F. W. Christian, *The Caroline Islands* (London,
 1899), pp. 281 *ff.*, &c.
 
-<span id="fn_114"></span>[228:2](ffcc130.htm#fr_130) H. Callaway, *The
+<span id="fn_114"></span>[228:2](ffcc130.htm#fr_130.md) H. Callaway, *The
 Religious System of the Amazulu* (London, 1868), pp. 226-7.
 
-<span id="fn_115"></span>[228:3](ffcc130.htm#fr_131) C. G. Leland,
+<span id="fn_115"></span>[228:3](ffcc130.htm#fr_131.md) C. G. Leland,
 *Memoirs* (London, 1893), i. 34.
 
-<span id="fn_116"></span>[228:4](ffcc130.htm#fr_132) R. C. Temple,
+<span id="fn_116"></span>[228:4](ffcc130.htm#fr_132.md) R. C. Temple,
 *Legends of the Panjab*, in *Folk-Lore*, x. 395.
 
-<span id="fn_117"></span>[228:5](ffcc130.htm#fr_133) W. W. Skeat, *Malay
+<span id="fn_117"></span>[228:5](ffcc130.htm#fr_133.md) W. W. Skeat, *Malay
 Magic* (London, 1900), *passim*.
 
-<span id="fn_118"></span>[229:1](ffcc130.htm#fr_134) Hardouin,
+<span id="fn_118"></span>[229:1](ffcc130.htm#fr_134.md) Hardouin,
 *Traditions et superstitions siamoises*, in *Rev. Trad. Pop.*, v.
 257-67.
 
-<span id="fn_119"></span>[229:2](ffcc130.htm#fr_135) Ella G. Sykes,
+<span id="fn_119"></span>[229:2](ffcc130.htm#fr_135.md) Ella G. Sykes,
 *Persian Folklore*, in *Folk-Lore*, xii. 263.
 
-<span id="fn_120"></span>[229:3](ffcc130.htm#fr_136) I am directly
+<span id="fn_120"></span>[229:3](ffcc130.htm#fr_136.md) I am directly
 indebted for this information to a friend who is a member of Lincoln
 College, Oxford, Mr. Mohammed Said Loutfy, of Barkein, Lower Egypt. Mr.
 Loutfy has come into frequent and very intimate contact with these
@@ -2091,21 +2091,21 @@ usually described by percipients as of pygmy stature, but as being able
 to assume various sizes and shapes. The *djinns*, on the contrary, are
 described as tall spiritual beings possessing great power.
 
-<span id="fn_121"></span>[230:1](ffcc130.htm#fr_137) J. C. Lawson,
+<span id="fn_121"></span>[230:1](ffcc130.htm#fr_137.md) J. C. Lawson,
 *Modern Greek Folk-Lore* (Cambridge, 1910), pp. 131-7, 139-46, 163.
 
-<span id="fn_122"></span>[231:1](ffcc130.htm#fr_138) L. Sainéan, *Les
+<span id="fn_122"></span>[231:1](ffcc130.htm#fr_138.md) L. Sainéan, *Les
 Fées méchantes d'apris les croyances du peuple roumain*, in *Mélusine*,
 x. 217-26, 243-54.
 
-<span id="fn_123"></span>[231:2](ffcc130.htm#fr_139) Cf. C. G. Leland,
+<span id="fn_123"></span>[231:2](ffcc130.htm#fr_139.md) Cf. C. G. Leland,
 *Etruscan Roman Remains in Pop. Trad.* (London, 1892), pp. 162, 165,
 223*,* &c.
 
-<span id="fn_124"></span>[231:3](ffcc130.htm#fr_140) H. C. Coote, *The
+<span id="fn_124"></span>[231:3](ffcc130.htm#fr_140.md) H. C. Coote, *The
 Neo-Latin Fay*, in *Folk-Lore Record*, ii. 1-18.
 
-<span id="fn_125"></span>[234:1](ffcc130.htm#fr_141) We cannot here
+<span id="fn_125"></span>[234:1](ffcc130.htm#fr_141.md) We cannot here
 attempt to present, even in outline, all the complex ethnological
 arguments for and against the existence in prehistoric times of European
 pygmy races. Attention ought, however, to be called to the remarkable
@@ -2158,141 +2158,141 @@ common to most primitive peoples of normal stature. Contemporary pygmy
 races, far removed from Celtic lands, are also using them, and no doubt
 their prehistoric ancestors used them likewise.
 
-<span id="fn_126"></span>[235:1](ffcc130.htm#fr_142) J. G. Campbell,
+<span id="fn_126"></span>[235:1](ffcc130.htm#fr_142.md) J. G. Campbell,
 *The Fians* (London, 1891), p. 239. An Irish dwarf <span
 id="page_236">p. 236</span> is minutely described in *Silva Gadelica*
 (ii. 116), O'Grady's translation. Again, in Malory's *Morte D'Arthur*
 (B. XII. cc. i-ii) a dwarf is mentioned.
 
-<span id="fn_127"></span>[236:1](ffcc130.htm#fr_143) Campbell, *The*
+<span id="fn_127"></span>[236:1](ffcc130.htm#fr_143.md) Campbell, *The*
 *Fians,* p. 265.
 
-<span id="fn_128"></span>[236:2](ffcc130.htm#fr_144) S. H. O'Grady,
+<span id="fn_128"></span>[236:2](ffcc130.htm#fr_144.md) S. H. O'Grady,
 *Silva Gadelica* (London, 1892), ii, 199.
 
-<span id="fn_129"></span>[236:3](ffcc130.htm#fr_145) Commentary on the
+<span id="fn_129"></span>[236:3](ffcc130.htm#fr_145.md) Commentary on the
 *Senchas* *Már*, i. 70-1 Stokes's translation in *Rev. Celt*., i. 256-7.
 
-<span id="fn_130"></span>[237:1](ffcc130.htm#fr_146) Sir John Rhy^s,
+<span id="fn_130"></span>[237:1](ffcc130.htm#fr_146.md) Sir John Rhy^s,
 *Hibbert Lectures* (London, 1888), p. 592*.* Dwarfs supernatural in
 character also appear in the *Mabinogion*, and one of them is an
 attendant on King Arthur. In Béroul's *Tristan*, Frocin, a dwarf, is
 skilled in astrology and magic, and in the version by Thomas we find a
 similar reference.
 
-<span id="fn_131"></span>[237:2](ffcc130.htm#fr_147) Tylor, *Prim.
+<span id="fn_131"></span>[237:2](ffcc130.htm#fr_147.md) Tylor, *Prim.
 Cult.*, i. 385.
 
-<span id="fn_132"></span>[237:3](ffcc130.htm#fr_148) Cf. Windle, op.
+<span id="fn_132"></span>[237:3](ffcc130.htm#fr_148.md) Cf. Windle, op.
 Cit., Intro., p. 57.
 
-<span id="fn_133"></span>[237:4](ffcc130.htm#fr_150) Hunt, *Anthrop.
+<span id="fn_133"></span>[237:4](ffcc130.htm#fr_150.md) Hunt, *Anthrop.
 Mems.*, ii. 294; cf. Windle, op. cit., Intro., p. 57.
 
-<span id="fn_134"></span>[238:1](ffcc130.htm#fr_151) Smith, *Myths of
+<span id="fn_134"></span>[238:1](ffcc130.htm#fr_151.md) Smith, *Myths of
 the Iroquois*, in *Amer. Bur. Eth.*, ii. 65.
 
-<span id="fn_135"></span>[238:2](ffcc130.htm#fr_152) Skeat, *Malay
+<span id="fn_135"></span>[238:2](ffcc130.htm#fr_152.md) Skeat, *Malay
 Magic*, p. 329.
 
-<span id="fn_136"></span>[238:3](ffcc130.htm#fr_153) Monier-Williams,
+<span id="fn_136"></span>[238:3](ffcc130.htm#fr_153.md) Monier-Williams,
 *Bra\_hminism and Hindu\_ism* (London, 1887), p. 236.
 
-<span id="fn_137"></span>[238:4](ffcc130.htm#fr_154) Codrington, *The
+<span id="fn_137"></span>[238:4](ffcc130.htm#fr_154.md) Codrington, *The
 Melanesians*, p. 152.
 
-<span id="fn_138"></span>[238:5](ffcc130.htm#fr_155) *Dwarfs in the
+<span id="fn_138"></span>[238:5](ffcc130.htm#fr_155.md) *Dwarfs in the
 East*, in *Folk-Lore*, iv. 401-2.
 
-<span id="fn_139"></span>[238:6](ffcc130.htm#fr_156) Lacouperie,
+<span id="fn_139"></span>[238:6](ffcc130.htm#fr_156.md) Lacouperie,
 *Babylonian and Oriental Record*, v; cf. Windle, op. cit., Intro., pp.
 21-2.
 
-<span id="fn_140"></span>[239:1](ffcc130.htm#fr_157) A. H. S. Landor,
+<span id="fn_140"></span>[239:1](ffcc130.htm#fr_157.md) A. H. S. Landor,
 *Alone with the Hairy Ainu* (London, 1893), p. 251*;* also Windle, op.
 cit., Intro., pp. 22-4.
 
-<span id="fn_141"></span>[239:2](ffcc130.htm#fr_158) J. *G.* Frazer,
+<span id="fn_141"></span>[239:2](ffcc130.htm#fr_158.md) J. *G.* Frazer,
 *Golden Bough* (London, I900), i. 248 ff.
 
-<span id="fn_142"></span>[239:3](ffcc130.htm#fr_159) Cf. A. Wiedemann,
+<span id="fn_142"></span>[239:3](ffcc130.htm#fr_159.md) Cf. A. Wiedemann,
 *Ancient Egyptian Doctrine Immortality* (London, 1895), p. 12.
 
-<span id="fn_143"></span>[240:1](ffcc130.htm#fr_160) Cf. A. E. Crawley,
+<span id="fn_143"></span>[240:1](ffcc130.htm#fr_160.md) Cf. A. E. Crawley,
 *Idea of the Soul* (London, 1909), p. 186.
 
-<span id="fn_144"></span>[240:2](ffcc130.htm#fr_161) Examples are in
+<span id="fn_144"></span>[240:2](ffcc130.htm#fr_161.md) Examples are in
 Orcagna's fresco of 'The Triumph of Death', in the Campo Santo of Pisa
 (cf. A. Wiedemann, *Anc. Egy. Doct. Immort.*, p. 34 ff.); and over the
 porch of the Cathedral Church of St. Trophimus, at Aries.
 
-<span id="fn_145"></span>[240:3](ffcc130.htm#fr_162) Cf. Crawley, op.
+<span id="fn_145"></span>[240:3](ffcc130.htm#fr_162.md) Cf. Crawley, op.
 cit., p. 187.
 
-<span id="fn_146"></span>[241:1](ffcc130.htm#fr_163) General references:
+<span id="fn_146"></span>[241:1](ffcc130.htm#fr_163.md) General references:
 Eliphas Levi, *Dogme et Rituel de la Haute Magie* (Paris); Paracelsus;
 A. E. Waite, *The Occult Sciences* (London, 1891).
 
-<span id="fn_147"></span>[242:1](ffcc130.htm#fr_165) W. B. Yeats, *Irish
+<span id="fn_147"></span>[242:1](ffcc130.htm#fr_165.md) W. B. Yeats, *Irish
 Fairy and Folk-Tales* (London), p. 2.
 
-<span id="fn_148"></span>[242:2](ffcc130.htm#fr_166) W. B. Yeats, *The
+<span id="fn_148"></span>[242:2](ffcc130.htm#fr_166.md) W. B. Yeats, *The
 Celtic Twilight* (London, 1902), p. 92 n.
 
-<span id="fn_149"></span>[243:1](ffcc130.htm#fr_167) In this connexion
+<span id="fn_149"></span>[243:1](ffcc130.htm#fr_167.md) In this connexion
 should be read Mr. Jenner's Introduction, pp. 167 ff.
 
-<span id="fn_150"></span>[245:1](ffcc130.htm#fr_168) Cf. Cririe,
+<span id="fn_150"></span>[245:1](ffcc130.htm#fr_168.md) Cf. Cririe,
 *Scottish Scenery* (London, 1803), pp. 347-8; P. Graham, *Sketches
 Descriptive of Picturesque Scenery on the Southern Confines of
 Perthshire* (Edinburgh, 1812), pp. 248-50, 253; Mahé, *Essai sur les
 Antiquités du Départ du Morbihan* (Vannes, 1825); Maury, *Les Fées du
 Moyen-Age* (Paris, 1843).
 
-<span id="fn_151"></span>[245:2](ffcc130.htm#fr_169) David MacRitchie,
+<span id="fn_151"></span>[245:2](ffcc130.htm#fr_169.md) David MacRitchie,
 *Druids and Mound Dwellers*, in *Celtic Review* (January 1910); and his
 *Testimony of Tradition*.
 
-<span id="fn_152"></span>[246:1](ffcc130.htm#fr_170) K. Meyer and A.
+<span id="fn_152"></span>[246:1](ffcc130.htm#fr_170.md) K. Meyer and A.
 Nutt, *Voyage of Bran* (London, 1895-7), ii. 231-2.
 
-<span id="fn_153"></span>[246:2](ffcc130.htm#fr_171) Cf. Tylor, *Prim.
+<span id="fn_153"></span>[246:2](ffcc130.htm#fr_171.md) Cf. Tylor, *Prim.
 Cult*.,<sup>4</sup> ii. 61.
 
-<span id="fn_154"></span>[246:3](ffcc130.htm#fr_172) Lawson, *Modern
+<span id="fn_154"></span>[246:3](ffcc130.htm#fr_172.md) Lawson, *Modern
 Greek Folklore*, pp. 356, 359.
 
-<span id="fn_155"></span>[247:1](ffcc130.htm#fr_173) Rhy^s, *Hib. Lea.*,
+<span id="fn_155"></span>[247:1](ffcc130.htm#fr_173.md) Rhy^s, *Hib. Lea.*,
 p. *201*; Jubainville, *Cyc. Myth. Irl*, pp. 106-8.
 
-<span id="fn_156"></span>[247:2](ffcc130.htm#fr_174) E. O. Curry,
+<span id="fn_156"></span>[247:2](ffcc130.htm#fr_174.md) E. O. Curry,
 *Manners and Customs* (Dublin, 1873*),* I. cccxx; from *Book of
 Ballymote*, fol. 145, b. b.
 
-<span id="fn_157"></span>[248:1](ffcc130.htm#fr_175) Codrington, *The
+<span id="fn_157"></span>[248:1](ffcc130.htm#fr_175.md) Codrington, *The
 Melanesians,* p. 286.
 
-<span id="fn_158"></span>[248:2](ffcc130.htm#fr_176) Ib., p. 275
+<span id="fn_158"></span>[248:2](ffcc130.htm#fr_176.md) Ib., p. 275
 
-<span id="fn_159"></span>[248:3](ffcc130.htm#fr_177) Ib., pp. 226,
+<span id="fn_159"></span>[248:3](ffcc130.htm#fr_177.md) Ib., pp. 226,
 208-9.
 
-<span id="fn_160"></span>[248:4](ffcc130.htm#fr_178) Crawley, *Idea of
+<span id="fn_160"></span>[248:4](ffcc130.htm#fr_178.md) Crawley, *Idea of
 the Soul,* p. 114.
 
-<span id="fn_161"></span>[248:5](ffcc130.htm#fr_179) Codrington, *The
+<span id="fn_161"></span>[248:5](ffcc130.htm#fr_179.md) Codrington, *The
 Melanesians,* p. 289.
 
-<span id="fn_162"></span>[248:6](ffcc130.htm#fr_180) Ib., p. 194.
+<span id="fn_162"></span>[248:6](ffcc130.htm#fr_180.md) Ib., p. 194.
 
-<span id="fn_163"></span>[248:7](ffcc130.htm#fr_181) Cf. Crawley, *Idea
+<span id="fn_163"></span>[248:7](ffcc130.htm#fr_181.md) Cf. Crawley, *Idea
 of the Soul,* chap. iv.
 
-<span id="fn_164"></span>[249:1](ffcc130.htm#fr_182) For a thorough and
+<span id="fn_164"></span>[249:1](ffcc130.htm#fr_182.md) For a thorough and
 scientific discussion of this matter, see J. L. Nevius, *Demon
 Possession* (London, 1897).
 
-<span id="fn_165"></span>[250:1](ffcc130.htm#fr_183) N. G.
+<span id="fn_165"></span>[250:1](ffcc130.htm#fr_183.md) N. G.
 Mitchell-Innes, *Birth, Marriage, and Death Rites of the Chinese*, in
 *Folk-Lore Journ.*, v. 225. Very curiously, the pagan Chinese mother
 uses the sign of the cross against the demon as Celtic mothers use it
@@ -2301,35 +2301,35 @@ fairy changeling or to drive out possessing demons is ever performed
 without this world-wide and pre-Christian sign of the cross (see pp.
 270-1).
 
-<span id="fn_166"></span>[254:1](ffcc130.htm#fr_185) R. R. Marett, *The
+<span id="fn_166"></span>[254:1](ffcc130.htm#fr_185.md) R. R. Marett, *The
 Threshold of Religion* (London, 1909), p. 58, &c.; p. 67.
 
-<span id="fn_167"></span>[254:2](ffcc130.htm#fr_186) W. James,
+<span id="fn_167"></span>[254:2](ffcc130.htm#fr_186.md) W. James,
 *Confidences of a 'Psychical Researcher*', in *American Magazine*
 (October 1909).
 
-<span id="fn_168"></span>[254:3](ffcc130.htm#fr_187) Frazer, *The Golden
+<span id="fn_168"></span>[254:3](ffcc130.htm#fr_187.md) Frazer, *The Golden
 Bough* <sup>3</sup> (London, 1911), i. 220.
 
-<span id="fn_169"></span>[255:1](ffcc130.htm#fr_188) Frazer, *The Golden
+<span id="fn_169"></span>[255:1](ffcc130.htm#fr_188.md) Frazer, *The Golden
 Bough*, <sup>3</sup> i. 221-2.
 
-<span id="fn_170"></span>[255:2](ffcc130.htm#fr_189) Ib., chap. iv.
+<span id="fn_170"></span>[255:2](ffcc130.htm#fr_189.md) Ib., chap. iv.
 
-<span id="fn_171"></span>[255:3](ffcc130.htm#fr_190) See Apuleius, *De
+<span id="fn_171"></span>[255:3](ffcc130.htm#fr_190.md) See Apuleius, *De
 Deo Socratis*; Cicero, *De Natura Deorum* (lib. i); Iamblichus, *De
 Mysteriis Aegypt., Chaldaeor., Assyrior.*; Plato, *Timaeus*, <span
 id="page_256">p. 256</span> *Symposium*, *Politicus*, *Republic*, ii.
 iii. x; Plutarch, *De Defectu Oraculorum*, *The Daemon of Socrates*,
 *Isis and Osiris*; Proclus, *Commentarius in Platonis Alcibiadem*.
 
-<span id="fn_172"></span>[256:1](ffcc130.htm#fr_191) Pliny, *Natural
+<span id="fn_172"></span>[256:1](ffcc130.htm#fr_191.md) Pliny, *Natural
 History,* xxx. 14
 
-<span id="fn_173"></span>[257:1](ffcc130.htm#fr_192) Cf. G. Dottin, *La
+<span id="fn_173"></span>[257:1](ffcc130.htm#fr_192.md) Cf. G. Dottin, *La
 Religion des Celtes* (Paris, 1904), p. 44.
 
-<span id="fn_174"></span>[257:2](ffcc130.htm#fr_193) The neo-platonists
+<span id="fn_174"></span>[257:2](ffcc130.htm#fr_193.md) The neo-platonists
 generally, including Porphyry, Julian, Iamblichus, <span
 id="page_258">p. 258</span> and Maximus, being persuaded of man's power
 to call up and control spirits, called white magic *theurgy*, or the
@@ -2346,123 +2346,123 @@ and magic; religion (including white magic) is a social good, magic
 (black magic) is a social evil. Such a distinction as Dr. Frazer makes
 is untenable within the field of true magic.
 
-<span id="fn_175"></span>[259:1](ffcc130.htm#fr_194) Cf. B. Jowett,
+<span id="fn_175"></span>[259:1](ffcc130.htm#fr_194.md) Cf. B. Jowett,
 *Dialogues of Plato* (Oxford, 1892), i. 573.
 
-<span id="fn_176"></span>[259:2](ffcc130.htm#fr_195) Cf. Meyer and Nutt,
+<span id="fn_176"></span>[259:2](ffcc130.htm#fr_195.md) Cf. Meyer and Nutt,
 *Voyage of Bran* (London, 1895-7), i. 146.
 
-<span id="fn_177"></span>[259:3](ffcc130.htm#fr_196) Campbell, *The
+<span id="fn_177"></span>[259:3](ffcc130.htm#fr_196.md) Campbell, *The
 Fians*, p. 195.
 
-<span id="fn_178"></span>[259:4](ffcc130.htm#fr_197) Cf. Stokes's trans.
+<span id="fn_178"></span>[259:4](ffcc130.htm#fr_197.md) Cf. Stokes's trans.
 in *Rev. Celt.*, i. 261.
 
-<span id="fn_179"></span>[260:1](ffcc130.htm#fr_198) Cf. Stokes's trans.
+<span id="fn_179"></span>[260:1](ffcc130.htm#fr_198.md) Cf. Stokes's trans.
 in *Rev. Celt.*, xv. 307.
 
-<span id="fn_180"></span>[260:2](ffcc130.htm#fr_199) From the
+<span id="fn_180"></span>[260:2](ffcc130.htm#fr_199.md) From the
 *Conception of Mongan*, cf. Meyer, *Voyage of Bran*, i. 77.
 
-<span id="fn_181"></span>[262:1](ffcc130.htm#fr_200) Quoted and
+<span id="fn_181"></span>[262:1](ffcc130.htm#fr_200.md) Quoted and
 summarized from *Projectors of 'Malicious Animal Magnetism'*, in
 *Literary Digest*, xxxix. No. 17, pp. 676--7 (New York and London,
 October 23, 1909).
 
-<span id="fn_182"></span>[263:1](ffcc130.htm#fr_201) Cf. Nevius, *Demon
+<span id="fn_182"></span>[263:1](ffcc130.htm#fr_201.md) Cf. Nevius, *Demon
 Possession*, pp. 300-1.
 
-<span id="fn_183"></span>[263:2](ffcc130.htm#fr_202) For a fuller
+<span id="fn_183"></span>[263:2](ffcc130.htm#fr_202.md) For a fuller
 discussion of the history of witchcraft see *The Superstitions of
 Witchcraft*, by Howard Williams, London, 1865.
 
-<span id="fn_184"></span>[264:1](ffcc130.htm#fr_203) Cf. J. Quicherat,
+<span id="fn_184"></span>[264:1](ffcc130.htm#fr_203.md) Cf. J. Quicherat,
 *Procès* (Paris, 1845), *passim*.
 
-<span id="fn_185"></span>[264:2](ffcc130.htm#fr_204) Ib., i. 178.
+<span id="fn_185"></span>[264:2](ffcc130.htm#fr_204.md) Ib., i. 178.
 
-<span id="fn_186"></span>[265:1](ffcc130.htm#fr_205) Codrington, *The
+<span id="fn_186"></span>[265:1](ffcc130.htm#fr_205.md) Codrington, *The
 Melanesians*, pp. 127, 200, 202-3 ff.
 
-<span id="fn_187"></span>[266:1](ffcc130.htm#fr_206) Bergier, *Dict. de
+<span id="fn_187"></span>[266:1](ffcc130.htm#fr_206.md) Bergier, *Dict. de
 Théol.* (Paris, 1848), ii. 541-2, &c.
 
-<span id="fn_188"></span>[267:1](ffcc130.htm#fr_207) W. Stokes,
+<span id="fn_188"></span>[267:1](ffcc130.htm#fr_207.md) W. Stokes,
 *Tripartite Life* (London, 1887), pp. 13, 115.
 
-<span id="fn_189"></span>[267:2](ffcc130.htm#fr_208) I am personally
+<span id="fn_189"></span>[267:2](ffcc130.htm#fr_208.md) I am personally
 indebted to Dr. W. J. Watson, of Edinburgh, for having directed my
 attention to this curious passage, and for having pointed out its
 probable significance in relation to druidical practices.
 
-<span id="fn_190"></span>[268:1](ffcc130.htm#fr_209) Adamnan, *Life of
+<span id="fn_190"></span>[268:1](ffcc130.htm#fr_209.md) Adamnan, *Life of
 S. Columba*, B. II, cc. xvi, xvii.
 
-<span id="fn_191"></span>[269:1](ffcc130.htm#fr_210) For this fact I am
+<span id="fn_191"></span>[269:1](ffcc130.htm#fr_210.md) For this fact I am
 personally indebted to Mrs. W. J. Watson, of Edinburgh.
 
-<span id="fn_192"></span>[269:2](ffcc130.htm#fr_211) Stokes, *Tripartite
+<span id="fn_192"></span>[269:2](ffcc130.htm#fr_211.md) Stokes, *Tripartite
 Life*, pp. clxxx, 303, 305; from *Book of Armagh*, fo. 9, A 2, and fo.
 9, B 2.
 
-<span id="fn_193"></span>[269:3](ffcc130.htm#fr_214) Bergier, *Dict. de
+<span id="fn_193"></span>[269:3](ffcc130.htm#fr_214.md) Bergier, *Dict. de
 Théol.*, ii. 545, 431, 233.
 
-<span id="fn_194"></span>[270:1](ffcc130.htm#fr_215) See *Instruction
+<span id="fn_194"></span>[270:1](ffcc130.htm#fr_215.md) See *Instruction
 sur le Rituel*, par l'Eveque de Toulon, iii. 1-16. 'In the Greek rite
 (of baptism), the priest breathes thrice on the catechumen's mouth,
 forehead, and breast, praying that every unclean spirit may be
 expelled.'--W. Bright, *Canons of First Four General Councils* (Oxford,
 1892), p. 122.
 
-<span id="fn_195"></span>[270:2](ffcc130.htm#fr_216) Cf. Godescard,
+<span id="fn_195"></span>[270:2](ffcc130.htm#fr_216.md) Cf. Godescard,
 *Vies des Saints* (Paris, 1835), xiii. 254-66.
 
-<span id="fn_196"></span>[270:3](ffcc130.htm#fr_217) *De Incarnatione
+<span id="fn_196"></span>[270:3](ffcc130.htm#fr_217.md) *De Incarnatione
 Verbi* (ed. Ben.), i. 88; cf. Godescard, op. cit., xiii. 254-66.
 
-<span id="fn_197"></span>[270:4](ffcc130.htm#fr_218) Godescard, *Vies
+<span id="fn_197"></span>[270:4](ffcc130.htm#fr_218.md) Godescard, *Vies
 des Saints*, xiii. 263-4.
 
-<span id="fn_198"></span>[270:5](ffcc130.htm#fr_219) Par Joly de Choin,
+<span id="fn_198"></span>[270:5](ffcc130.htm#fr_219.md) Par Joly de Choin,
 Évêque de Toulon, i. 639.
 
-<span id="fn_199"></span>[270:6](ffcc130.htm#fr_220) Bergier, *Dict. de
+<span id="fn_199"></span>[270:6](ffcc130.htm#fr_220.md) Bergier, *Dict. de
 Théol.*, ii. 335.
 
-<span id="fn_200"></span>[271:1](ffcc130.htm#fr_221) Stokes, *Tripartite
+<span id="fn_200"></span>[271:1](ffcc130.htm#fr_221.md) Stokes, *Tripartite
 Life*, Intro., p. 262.
 
-<span id="fn_201"></span>[271:2](ffcc130.htm#fr_222) J. E. Mirville,
+<span id="fn_201"></span>[271:2](ffcc130.htm#fr_222.md) J. E. Mirville,
 *Des Esprits* (Paris, 1853), i. 475.
 
-<span id="fn_202"></span>[272:1](ffcc130.htm#fr_223) *Instructions sur
+<span id="fn_202"></span>[272:1](ffcc130.htm#fr_223.md) *Instructions sur
 le Rituel*, par Joly de Choin, iii. 276-7.
 
-<span id="fn_203"></span>[273:1](ffcc130.htm#fr_224) G. Evans, *Exorcism
+<span id="fn_203"></span>[273:1](ffcc130.htm#fr_224.md) G. Evans, *Exorcism
 in Wales*, in *Folk-Lore*, iii. 274-7.
 
-<span id="fn_204"></span>[273:2](ffcc130.htm#fr_225) W. Crook; in
+<span id="fn_204"></span>[273:2](ffcc130.htm#fr_225.md) W. Crook; in
 *Folk-Lore*, xiii. 189-90.
 
-<span id="fn_205"></span>[274:1](ffcc130.htm#fr_226) For ancient usages
+<span id="fn_205"></span>[274:1](ffcc130.htm#fr_226.md) For ancient usages
 see F. Lenormant, *Chaldean Magic* (London, 1877), pp. 103--4;
 Iamblichus and other Neo-Platonists; and for modern usages see Marett.
 *Threshold of Religion*, chap. iii.
 
-<span id="fn_206"></span>[275:1](ffcc130.htm#fr_227) Cf. Marett, *Is
+<span id="fn_206"></span>[275:1](ffcc130.htm#fr_227.md) Cf. Marett, *Is
 Taboo a Negative Magic*? in *The Threshold of Religion*, pp. 85-114.
 
-<span id="fn_207"></span>[275:2](ffcc130.htm#fr_228) Codrington, *The
+<span id="fn_207"></span>[275:2](ffcc130.htm#fr_228.md) Codrington, *The
 Melanesians*, p. 277.
 
-<span id="fn_208"></span>[275:3](ffcc130.htm#fr_229) Eastman, *Dacotah*,
+<span id="fn_208"></span>[275:3](ffcc130.htm#fr_229.md) Eastman, *Dacotah*,
 p. 177; cf. Tylor, *Prim. Cult.*,<sup>4</sup> ii. 52 n.
 
-<span id="fn_209"></span>[275:4](ffcc130.htm#fr_230) Shortland, *Trad.
+<span id="fn_209"></span>[275:4](ffcc130.htm#fr_230.md) Shortland, *Trad.
 of New Zeal.*, p. 150; cf. Tylor, op. cit., ii. 51-2.
 
-<span id="fn_210"></span>[276:1](ffcc130.htm#fr_231) Precisely like
+<span id="fn_210"></span>[276:1](ffcc130.htm#fr_231.md) Precisely like
 Celtic peasants, primitive peoples often fail to take into account the
 fact that the physical body is in reality left behind upon entering the
 trance state of consciousness known to them as the world of the departed
@@ -2471,27 +2471,27 @@ body, which to their minds, in such a state, is undistinguishable from
 the physical body. Therefore they ordinarily believe that the body and
 soul both are taken.
 
-<span id="fn_211"></span>[276:2](ffcc130.htm#fr_232) Frazer, *Golden
+<span id="fn_211"></span>[276:2](ffcc130.htm#fr_232.md) Frazer, *Golden
 Bough*,<sup>2</sup> *passim*.
 
-<span id="fn_212"></span>[276:3](ffcc130.htm#fr_233) Cf. Ib., i. 344
+<span id="fn_212"></span>[276:3](ffcc130.htm#fr_233.md) Cf. Ib., i. 344
 ff., 348; iii. 390.
 
-<span id="fn_213"></span>[277:1](ffcc130.htm#fr_235) Codrington, *The
+<span id="fn_213"></span>[277:1](ffcc130.htm#fr_235.md) Codrington, *The
 Melanesians*, pp. 177, 218-9.
 
-<span id="fn_214"></span>[277:2](ffcc130.htm#fr_236) Cf. Eleanor Hull,
+<span id="fn_214"></span>[277:2](ffcc130.htm#fr_236.md) Cf. Eleanor Hull,
 *Old Irish Tabus or Geasa*, in *Folk-Lore*, xii. 41 ff.
 
-<span id="fn_215"></span>[278:1](ffcc130.htm#fr_237) Cf. Fraser, *Golden
+<span id="fn_215"></span>[278:1](ffcc130.htm#fr_237.md) Cf. Fraser, *Golden
 Bough*,<sup>2</sup> i. 233 ff., 343.
 
-<span id="fn_216"></span>[278:2](ffcc130.htm#fr_238) Cf. E. J. Gwynn,
+<span id="fn_216"></span>[278:2](ffcc130.htm#fr_238.md) Cf. E. J. Gwynn,
 *On the Idea of Fate in Irish Literature*, in *Journ. Ivernian Society*
 (Cork), April 1910.
 
-<span id="fn_217"></span>[279:1](ffcc130.htm#fr_239) Cf. our evidence,
-pp. [38](ffcc121.htm#page_38), [44](ffcc121.htm#page_44); also Kirk's
+<span id="fn_217"></span>[279:1](ffcc130.htm#fr_239.md) Cf. our evidence,
+pp. [38](ffcc121.htm#page_38), [44](ffcc121.htm#page_44.md); also Kirk's
 *Secret Commonwealth* (c. i), where it is said of the 'good peoples or
 fairies that their bodies are so 'plyable thorough the Subtilty of the
 Spirits that agitate them, that they can make them appear or disappear
@@ -2499,9 +2499,9 @@ att Pleasure. Some have Bodies or Vehicles so spungious, thin, and
 delecat, that they are fed by only sucking into some fine spirituous
 Liquors, that pierce lyke pure Air and Oyl'.
 
-<span id="fn_218"></span>[280:1](ffcc130.htm#fr_240) *Laws*, iv; cf.
+<span id="fn_218"></span>[280:1](ffcc130.htm#fr_240.md) *Laws*, iv; cf.
 Jowett, *Dialogues of Plato*, v. 282-90.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. People of the Goddess Dana](ffcc240)
+[Next: Chapter IV. People of the Goddess Dana](ffcc240.md)

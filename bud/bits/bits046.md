@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits045) [Next](bits047)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits045) [Next](bits047.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ reason for being born into another existence."
 
 ------------------------------------------------------------------------
 
-[Next: § 47. Rebirth Is Not Transmigration](bits047)
+[Next: § 47. Rebirth Is Not Transmigration](bits047.md)
 
  
 

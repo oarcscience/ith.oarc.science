@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft29)  [Next](geft31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft29)  [Next](geft31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -147,7 +147,7 @@ all that the man had ordered. When they had eaten, the merchant said:
 
 you let me have the hare.' The countryman refused at first, but finally
 agreed to sell the hare for a large sum. <span
-id="fr_52"></span>[1](#fn_51)
+id="fr_52"></span>[1](#fn_51.md)
 
 On his way home with the hare, the merchant met some friends whom he
 asked to sup with him, but seeing that he would not arrive until it was
@@ -235,19 +235,19 @@ am a beggar and a widower. If you remember the place where I threw you
 into the sea, drown me there, but let me have a stick, so that I may
 repair my fortune.' To get rid of the troublesome merchant, the
 countryman agreed to fulfil his request, and so drowned him with a very
-long switch in his hand. <span id="fr_53"></span>[1](#fn_52)
+long switch in his hand. <span id="fr_53"></span>[1](#fn_52.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_51"></span>[157:1](geft30.htm#fr_52) Cf. Jacobs: *More
+<span id="fn_51"></span>[157:1](geft30.htm#fr_52.md) Cf. Jacobs: *More
 English Fairy Tales*, p. 209, and note on p. 242.
 
-<span id="fn_52"></span>[159:1](geft30.htm#fr_53) Cf. the last incident
+<span id="fn_52"></span>[159:1](geft30.htm#fr_53.md) Cf. the last incident
 with the end of 'Little Fairly,' in Samuel Lover's *Legends and Stories
 of Ireland*.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The King and the Sage](geft31)
+[Next: IV. The King and the Sage](geft31.md)

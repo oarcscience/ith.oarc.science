@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ssm05)  [Next](ssm07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ssm05)  [Next](ssm07.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ they will be found.
 <span id="img_05700"></span>
 
 [![&lt;I&gt;The Sun&lt;/I&gt;](tn/05700.jpg)  
-Click to enlarge](img/05700.jpg)  
+Click to enlarge](img/05700.jpg.md)  
 *The Sun*  
 
 SYMBOLS OF THE DEITY.--*The Sun* was the *Monotheistic Symbol* of the
@@ -92,7 +92,7 @@ principle and the
 <span id="img_05900"></span>
 
 [![&lt;I&gt;No. 150&lt;/I&gt;](tn/05900.jpg)  
-Click to enlarge](img/05900.jpg)  
+Click to enlarge](img/05900.jpg.md)  
 *No. 150*  
 
 smaller to the Moon as the female. The lines on Tablet No. 150 read:
@@ -118,7 +118,7 @@ had cow's horns in their headdress. Hathor had a
 <span id="img_06000"></span>
 
 [![&lt;I&gt;Isis&lt;/I&gt;](tn/06000.jpg)  
-Click to enlarge](img/06000.jpg)  
+Click to enlarge](img/06000.jpg.md)  
 *Isis*  
 
 moon also like Isis. It appears to me that Sati, Hathor and Isis all
@@ -167,13 +167,13 @@ symbol were called after it--the Nagas.
 <span id="img_06200"></span>
 
 [![&lt;I&gt;Angkor Thom&lt;/I&gt;](tn/06200.jpg)  
-Click to enlarge](img/06200.jpg)  
+Click to enlarge](img/06200.jpg.md)  
 *Angkor Thom*  
 
 <span id="img_06201"></span>
 
 [![&lt;I&gt;Anarajapoora--Ceylon&lt;/I&gt;](tn/06201.jpg)  
-Click to enlarge](img/06201.jpg)  
+Click to enlarge](img/06201.jpg.md)  
 *Anarajapoora--Ceylon*  
 
  
@@ -216,7 +216,7 @@ they who engender,
 <span id="img_06400"></span>
 
 [![Narayana](tn/06400.jpg)  
-Click to enlarge](img/06400.jpg)  
+Click to enlarge](img/06400.jpg.md)  
 Narayana  
 
  
@@ -261,7 +261,7 @@ physical life is controlled by these Forces.
 [![&lt;I&gt;An ancient Hindu picture&lt;/I&gt;&lt;BR&gt; The god Vishnu
 supported by the Serpent Ananta, having seven heads, the symbol of the
 Seven Commands of Creation.](tn/06600.jpg)  
-Click to enlarge](img/06600.jpg)  
+Click to enlarge](img/06600.jpg.md)  
 *An ancient Hindu picture*  
 The god Vishnu supported by the Serpent Ananta, having seven heads, the
 symbol of the Seven Commands of Creation.  
@@ -331,7 +331,7 @@ of goose.
  
 
 <span id="img_06800"></span> ![The Hittite Bird Symbol&lt;BR&gt;
-Courtesy of American Weekly](img/06800.jpg)  
+Courtesy of American Weekly](img/06800.jpg.md)  
 The Hittite Bird Symbol  
 Courtesy of American Weekly
 
@@ -367,7 +367,7 @@ the Uighur form of the monotheistic symbol of the Deity.
 
 Projecting from the bird's breast is the hieratic letter H in the
 alphabet of Mu <span id="img_07000"></span> ![](img/07000.jpg) which was
-among all ancient people [was](errata.htm#1) the alphabetical symbol for
+among all ancient people [was](errata.htm#1.md) the alphabetical symbol for
 the Four Great Forces. The body of the bird is in the shape of a
 pod--symbol for the home of the primary forces. The various lines in
 connection with the pod are old esoteric Uighur temple writings.
@@ -435,7 +435,7 @@ the Sacred Inspired Writings of Mu. As time went on this cross evolved.
 It developed into
 
 <span id="img_07200"></span> ![&lt;I&gt;No.
-672&lt;/I&gt;](img/07200.jpg)  
+672&lt;/I&gt;](img/07200.jpg.md)  
 *No. 672*
 
 four distinct lines, becoming more intricate al I the time.
@@ -470,7 +470,7 @@ sides of a pyramid.
 <span id="img_07300"></span>
 
 [![](tn/07300.jpg)  
-Click to enlarge](img/07300.jpg)
+Click to enlarge](img/07300.jpg.md)
 
 The points of these triangles are covered with the monotheistic symbol
 of the Deity.
@@ -522,7 +522,7 @@ the Forces given within the loop.
 <span id="page_75">p. 75</span>
 
 <span id="img_07500"></span> ![&lt;I&gt;The evolution of the Looped
-Crosses&lt;/I&gt;](img/07500.jpg)  
+Crosses&lt;/I&gt;](img/07500.jpg.md)  
 *The evolution of the Looped Crosses*
 
 Fig. 1. The Original Cross.
@@ -559,7 +559,7 @@ Force has returned to the giver of the command.
 
 [![&lt;I&gt;A group of representative Looped Crosses taken from Niven's
 Mexican Tablets&lt;/I&gt;](tn/07600.jpg)  
-Click to enlarge](img/07600.jpg)  
+Click to enlarge](img/07600.jpg.md)  
 *A group of representative Looped Crosses taken from Niven's Mexican
 Tablets*  
 
@@ -617,7 +617,7 @@ original Cross.
 
 The Evolution of the Swastika:
 
-Fig. 1. Is the [original](errata.htm#2) plain Cross.
+Fig. 1. Is the [original](errata.htm#2.md) plain Cross.
 
 Fig. 2. Here we have a circle added, surrounding the Cross. The Circle
 is the symbol of the Deity. The Cross is shown within the Deity;
@@ -704,7 +704,7 @@ conditions.
 
 <span id="img_08100"></span> ![&lt;I&gt;Truncated Figures&lt;BR&gt; From
 Niven's collection of Mexican prehistoric
-tablets&lt;/I&gt;](img/08100.jpg)  
+tablets&lt;/I&gt;](img/08100.jpg.md)  
 *Truncated Figures  
 From Niven's collection of Mexican prehistoric tablets*
 
@@ -807,14 +807,14 @@ emblem of good luck also, and his
 <span id="img_08500"></span>
 
 [![&lt;I&gt;Ganesha from India&lt;/I&gt;](tn/08500.jpg)  
-Click to enlarge](img/08500.jpg)  
+Click to enlarge](img/08500.jpg.md)  
 *Ganesha from India*  
 
 <span id="img_08501"></span>
 
 [![&lt;I&gt;Ganesha from Java&lt;/I&gt;&lt;BR&gt; &lt;I&gt;Courtesy New
 York American&lt;/I&gt;](tn/08501.jpg)  
-Click to enlarge](img/08501.jpg)  
+Click to enlarge](img/08501.jpg.md)  
 *Ganesha from Java*  
 *Courtesy New York American*  
 
@@ -829,4 +829,4 @@ Forces from which we receive all our blessings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Creation](ssm07)
+[Next: Chapter IV. The Creation](ssm07.md)

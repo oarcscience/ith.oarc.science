@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Esoteric](../../index) 
-[Eliphas Levi](../index)  [Index](index)  [Previous](phs06) 
-[Next](phs08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Esoteric](../../index.md) 
+[Eliphas Levi](../index)  [Index](index)  [Previous](phs06.md) 
+[Next](phs08.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ praying for his executioners.
 Thus speaking, he was pleading the cause of all Humanity. All men
 deceive themselves because "they know not," and no man knows *what* he
 does when he does evil. How could a rational being with a perfect
-discernment do evil? <span id="fr_34"></span>[1](#fn_34) Does any one
+discernment do evil? <span id="fr_34"></span>[1](#fn_34.md) Does any one
 voluntarily take poisons for perfumes, gall for honey, hemlock for
 parsley, or arsenic for salt?
 
@@ -109,7 +109,7 @@ If the Monks of the Middle Ages had known Physiology and Medicine, they
 would have known that solitude drives men mad, that night-watches
 inflame the blood, that fasts deprive the brain of blood, and compulsory
 celibacy provokes unnatural frenzies. <span
-id="fr_35"></span>[1](#fn_35)
+id="fr_35"></span>[1](#fn_35.md)
 
 If Bossuet and Newton had known the Kabala, they would not have
 explained the Apocalypse without understanding it.
@@ -139,7 +139,7 @@ To practise magic is to be a quack; to *know* magic is to be a sage.
 
 *To believe without knowing is to be a fool; to know without believing
 is to be a mad titan; true knowledge brings with it faith*. <span
-id="fr_36"></span>[1](#fn_36)
+id="fr_36"></span>[1](#fn_36.md)
 
 The man who knows has no longer cause to doubt; when the Spirit no
 longer doubts, the will ceases to hesitate and the man attains to what
@@ -159,7 +159,7 @@ Universal Science.
 <span id="page_46">p. 46</span>
 
 We are in the world to serve Humanity, which is serving God, <span
-id="fr_37"></span>[1](#fn_37) by consecrating to it our free activity.
+id="fr_37"></span>[1](#fn_37.md) by consecrating to it our free activity.
 
 Thus shall we march on in the Eternal Progress.
 
@@ -193,7 +193,7 @@ Revolutions, because she is the cause of all injustice.
 When a man *knows*, he is master of all who do not know; Study is the
 ladder of merit and of power. First amongst necessary studies *is the
 study of oneself*; then comes the study of the exact sciences, <span
-id="fr_38"></span>[1](#fn_38) then of Nature, then of History. It is
+id="fr_38"></span>[1](#fn_38.md) then of Nature, then of History. It is
 from these preparatory studies that are to be gathered the elements of
 Philosophy which must be perfected by the Science of Religions.
 
@@ -211,7 +211,7 @@ superiority.
 It is for this reason that the Christian legend of the Epiphany
 confounds the Magi (or Mages) with the kings and brings them to the
 manger of the Saviour of men, guided by the mysterious star of
-Solomon. <span id="fr_39"></span>[1](#fn_39)
+Solomon. <span id="fr_39"></span>[1](#fn_39.md)
 
 Jesus in his cradle is saluted Prince of the Magi, and they offer him
 incense of Saba, gold of Ophir and myrrh of Memphis. Because be comes to
@@ -224,7 +224,7 @@ the Christian initiation, then to elude the violence of Herod they
 returned homewards by another road. What is that road? It is that of
 occultism. The powers of this world ignore it, but it is known to the
 initiated Johannites, Adoniramites, Illuminati and Rosicrucians. <span
-id="fr_40"></span>[2](#fn_40)
+id="fr_40"></span>[2](#fn_40.md)
 
 <span id="page_49">p. 49</span>
 
@@ -298,8 +298,8 @@ Kings was on this account called the Holy Kingdom, the Kingdom Of
 Heaven, the Kingdom of God. All cannot reach it; it is accessible only
 to the élite of intelligences, and it is on this account that, according
 to the Gospels, few are chosen. This science conceals itself because it
-is persecuted, <span id="fr_41"></span>[1](#fn_41) Zoroaster was
-burnt, <span id="fr_42"></span>[2](#fn_42) Osiris cut in pieces, Orpheus
+is persecuted, <span id="fr_41"></span>[1](#fn_41.md) Zoroaster was
+burnt, <span id="fr_42"></span>[2](#fn_42.md) Osiris cut in pieces, Orpheus
 torn in fragments by the Bacchantes, Phythagoras assassinated, Socrates,
 Plato's Master, poisoned, the great prophets put to death in diverse
 ways, Jesus crucified, his apostles doomed to martyrdom; but the
@@ -343,7 +343,7 @@ is that of the Word, that is to say of the Reason which speaks.
 <span id="page_53">p. 53</span>
 
 Jesus, like all great Hierophants, had a public and a secret
-doctrine. <span id="fr_43"></span>[1](#fn_43) His public doctrine
+doctrine. <span id="fr_43"></span>[1](#fn_43.md) His public doctrine
 differed only in its morality from Judaism. He preached to all universal
 philanthropy, and upheld the Law of Moses while combating the
 brutalising influence of a hypocritical and overweening priesthood. But
@@ -359,7 +359,7 @@ after his death. This doctrine was
 not new. A great Jew, an initiate, Ezekiel, had sketched it out before
 St. John. God in Humanity and in Nature, the Universal Church of the
 just, the progressive enfranchisement of mankind, the assumption of the
-Woman, <span id="fr_44"></span>[1](#fn_44) to be loved as Virgin, adored
+Woman, <span id="fr_44"></span>[1](#fn_44.md) to be loved as Virgin, adored
 as Mother, the destruction of the despotism of Priests
 
 <span id="page_56">p. 56</span>
@@ -380,25 +380,25 @@ human civilisation, Land promised to all but accessible only to the
 elect, not of privilege but by labour, not by the caprice of an idol but
 by the justice of God.
 
-Such is the ideal of knowledge. <span id="fr_45"></span>[1](#fn_45)
+Such is the ideal of knowledge. <span id="fr_45"></span>[1](#fn_45.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_34"></span>[41:1](phs07.htm#fr_34) They may be rare, but
+<span id="fn_34"></span>[41:1](phs07.htm#fr_34.md) They may be rare, but
 occultism knows and the world feels the malice of such unhappy
 beings.--*Trans*.
 
-<span id="fn_35"></span>[44:1](phs07.htm#fr_35) Nothing of the kind,
+<span id="fn_35"></span>[44:1](phs07.htm#fr_35.md) Nothing of the kind,
 when the Spirit is naturally stronger than and has mastered Flesh at the
 start. Besides, there is the will! But with the Spirit half slumbering
 and the Will but half awake, it is folly to try it at all.--E. O.
 
-<span id="fn_36"></span>[45:1](phs07.htm#fr_36) A great Paradox, but
+<span id="fn_36"></span>[45:1](phs07.htm#fr_36.md) A great Paradox, but
 also a great truth, when rightly understood.--E. O.
 
-<span id="fn_37"></span>[46:1](phs07.htm#fr_37) What a ridiculous
+<span id="fn_37"></span>[46:1](phs07.htm#fr_37.md) What a ridiculous
 supernumerary, such a God before the jury of Sense and Logic.
 Nevertheless some of the most sensible men loathe the idea of parting
 with this fiction.--E. O.
@@ -415,28 +415,28 @@ some of the most sensible Fijians would loathe to part with this
 fiction, nay--would think a man overhasty who denounced her as a
 myth.--*Trans*.
 
-<span id="fn_38"></span>[47:1](phs07.htm#fr_38) *i.e.*, *Occult*
+<span id="fn_38"></span>[47:1](phs07.htm#fr_38.md) *i.e.*, *Occult*
 Sciences.--E. O.
 
-<span id="fn_39"></span>[48:1](phs07.htm#fr_39) In one of the secret
+<span id="fn_39"></span>[48:1](phs07.htm#fr_39.md) In one of the secret
 books of Merop--a book antedating Christianity, three Magi are shown as
 seeking the lost wisdom of Zoroaster in order to save mankind from
 *maya*,--ignorance. A star appears, a six-pointed star, and leads them
 to the cave where Zarathushtra's Book of Wisdom is buried.--E. O.
 
-<span id="fn_40"></span>[48:2](phs07.htm#fr_40) And other more important
+<span id="fn_40"></span>[48:2](phs07.htm#fr_40.md) And other more important
 sects, associations and fraternities, whose names, even, have never been
 divulged to the world.--*Trans*.
 
-<span id="fn_41"></span>[51:1](phs07.htm#fr_41) By human ignorance and
+<span id="fn_41"></span>[51:1](phs07.htm#fr_41.md) By human ignorance and
 folly.--E. O.
 
-<span id="fn_42"></span>[51:2](phs07.htm#fr_42) I don't know that E. L.
+<span id="fn_42"></span>[51:2](phs07.htm#fr_42.md) I don't know that E. L.
 has any valid authority for this statement. It is usually stated that he
 died at a good old age, about 313 B.C., though some authorities speak of
 his being murdered a year later in the persecution of Arjasp.--*Trans*.
 
-<span id="fn_43"></span>[53:1](phs07.htm#fr_43) But he preached it a
+<span id="fn_43"></span>[53:1](phs07.htm#fr_43.md) But he preached it a
 century before his birth.--E. O.
 
 I may explain that some of the most eminent occultists hold the Gospel
@@ -485,7 +485,7 @@ schisms and matters generally affecting the orthodox Jewish religion?
 It will now be understood what E. O. means when he says Jesus preached a
 hundred years before his birth.--*Trans*.
 
-<span id="fn_44"></span>[55:1](phs07.htm#fr_44) While the vulgar, the
+<span id="fn_44"></span>[55:1](phs07.htm#fr_44.md) While the vulgar, the
 masses, were convinced of the influence of the Two Lights (*Mar-oth*,
 lights, Sun and Moon, from *Mairo* to shine; *Maria*--the Lord) of
 Heaven upon the living beings on earth, the initiates knew what these
@@ -535,11 +535,11 @@ dogma of Mimānsa, relating with us to the eternal verities of the occult
 truth. With the non-initiated Hindus, the eternity of *Sabda* shows the
 eternity of the Vedas.--E. O.
 
-<span id="fn_45"></span>[57:1](phs07.htm#fr_45) The "Eternal Wisdom"
+<span id="fn_45"></span>[57:1](phs07.htm#fr_45.md) The "Eternal Wisdom"
 *lia ckakama lia kadama* of the Hebrew Kabala unites with the Soul of
 the Messias: "*Sair anpin* in truth is the Soul of the Messias joined
 with the eternal Logos."--Kabala III, 241 Jezira--E. O.
 
 ------------------------------------------------------------------------
 
-[Next: Paradox V.--Reason Is God](phs08)
+[Next: Paradox V.--Reason Is God](phs08.md)

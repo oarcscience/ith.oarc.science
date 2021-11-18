@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft46)  [Next](pft48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft46)  [Next](pft48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### MYTHOLOGY OF MINDANAO  <span id="fr_140"></span>[141](pft68.htm#fn_140)
+### MYTHOLOGY OF MINDANAO  <span id="fr_140"></span>[141](pft68.htm#fn_140.md)
 
 *Moro*
 
@@ -32,7 +32,7 @@ rattan grew; and here it brought utter destruction on every living
 thing. The second monster, Tarabusaw, an ugly creature in the form of a
 man, lived on Mt. Matutun, and far and wide from that place he devoured
 the people, laying waste the land. The third, an enormous bird called
-Pah,  <span id="fr_141"></span>[142](pft68.htm#fn_141) was so large that
+Pah,  <span id="fr_141"></span>[142](pft68.htm#fn_141.md) was so large that
 when on the wing it covered the sun and brought darkness to the earth.
 Its egg was as large as a house. Mt. Bita was its haunt, and there the
 only people who escaped its voracity were those who hid in caves in the
@@ -47,9 +47,9 @@ nations were grieved to hear of the sad fate of Mindanao.
 Now far across the sea in the land of the golden sunset was a city so
 great that to look at its many people would injure the eyes of man. When
 tidings of these great disasters reached this distant city, the heart of
-the king Indarapatra  <span id="fr_142"></span>[143](pft68.htm#fn_142)
+the king Indarapatra  <span id="fr_142"></span>[143](pft68.htm#fn_142.md)
 was filled with compassion, and he called his brother, Sulayman,  <span
-id="fr_143"></span>[144](pft68.htm#fn_143) begging him to save the land
+id="fr_143"></span>[144](pft68.htm#fn_143.md) begging him to save the land
 of Mindanao from the monsters.
 
 Sulayman listened to the story, and as he heard he was moved with pity.
@@ -59,7 +59,7 @@ the land shall be avenged."
 
 King Indarapatra, proud of his brother's courage, gave him a ring and a
 sword as he wished him success and safety. Then he placed a young
-sapling by his window  <span id="fr_144"></span>[145](pft68.htm#fn_144)
+sapling by his window  <span id="fr_144"></span>[145](pft68.htm#fn_144.md)
 and said to Sulayman:
 
 "By this tree I shall know your fate from the time you depart from here,
@@ -162,4 +162,4 @@ the land and gave the lowlands to the people.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Bantugan](pft48)
+[Next: The Story of Bantugan](pft48.md)

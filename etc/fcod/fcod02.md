@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod01)  [Next](fcod03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod01)  [Next](fcod03.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ Mr. Edward Good.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](fcod03)
+[Next: Contents](fcod03.md)

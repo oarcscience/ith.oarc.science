@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](mcm08)  [Next](mcm10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](mcm08)  [Next](mcm10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Musings of a Chinese Mystic*, by Lionel Giles, \[1906\], at Intangible
 Textual Heritage
 
@@ -33,8 +33,8 @@ became what we can see it now. To Tao, the zenith is not high, nor the
 nadir low; no point in time is long ago, nor by lapse of ages has it
 grown old.
 
-Hsi Wei <span id="fr_16"></span>[1](#fn_16) obtained Tao, and so set the
-universe in order. Fu Hsi <span id="fr_17"></span>[2](#fn_17) obtained
+Hsi Wei <span id="fr_16"></span>[1](#fn_16.md) obtained Tao, and so set the
+universe in order. Fu Hsi <span id="fr_17"></span>[2](#fn_17.md) obtained
 it, and was able to establish eternal principles. The Great Bear
 obtained it, and has never erred from its course. The sun and moon
 obtained it, and have never ceased to revolve.
@@ -85,7 +85,7 @@ The six cardinal points, reaching into infinity, are ever included in
 Tao. An autumn spikelet, in all its minuteness, must carry Tao within
 itself. There is nothing on earth which does not rise and fall, but it
 never perishes altogether. The *Yin* and the *Yang*, <span
-id="fr_18"></span>[1](#fn_18) and the four seasons, keep to their proper
+id="fr_18"></span>[1](#fn_18.md) and the four seasons, keep to their proper
 order. Apparently destroyed, yet really existing; the material gone, the
 immaterial left,—such is the law of creation, which passeth all
 understanding. This is called the root, whence a glimpse may be obtained
@@ -187,21 +187,21 @@ man. But where to seek whence am I?
 Not knowing the hereafter, how can we deny the operation of Destiny? Not
 knowing what preceded birth, how can we assert the operation of Destiny?
 When things turn out as they ought, who shall say that the agency is not
-[supernatural](errata.htm#0)? When things turn out otherwise, who shall
+[supernatural](errata.htm#0.md)? When things turn out otherwise, who shall
 say that it is?
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_16"></span>[60:1](mcm09.htm#fr_16) A mythical personage.
+<span id="fn_16"></span>[60:1](mcm09.htm#fr_16.md) A mythical personage.
 
-<span id="fn_17"></span>[60:2](mcm09.htm#fr_17) The first in the
+<span id="fn_17"></span>[60:2](mcm09.htm#fr_17.md) The first in the
 received list of Chinese monarchs.
 
-<span id="fn_18"></span>[62:1](mcm09.htm#fr_18) The positive and
+<span id="fn_18"></span>[62:1](mcm09.htm#fr_18.md) The positive and
 negative principles of Chinese cosmogony.
 
 ------------------------------------------------------------------------
 
-[Next: Non-Interference With Nature](mcm10)
+[Next: Non-Interference With Nature](mcm10.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft69)  [Next](efft71) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft69)  [Next](efft71.md) 
 
 ------------------------------------------------------------------------
 
-# STUPID'S MISTAKEN CRIES  <span id="fr_83"></span>[1](#fn_83)
+# STUPID'S MISTAKEN CRIES  <span id="fr_83"></span>[1](#fn_83.md)
 
 THERE was once a little boy, and his mother sent him to buy a sheep's
 head and pluck; afraid he should forget it, the lad kept saying all the
@@ -112,9 +112,9 @@ black cap, and condemned him to die.
 
 ### Footnotes
 
-<span id="fn_83"></span>[1](efft70.htm#fr_83) *Folk-Lore Record*, vol.
+<span id="fn_83"></span>[1](efft70.htm#fr_83.md) *Folk-Lore Record*, vol.
 iii. p 153.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Sillies](efft71)
+[Next: The Three Sillies](efft71.md)

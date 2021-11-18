@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow11)  [Next](dow13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow11)  [Next](dow13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -45,13 +45,13 @@ world and everything in it.
 
 After they had done this, *Pe-tā'-le* wanted to turn into the Moon but
 *O-lā'-choo* the Coyote-man and *Yu'-ka-loo* the Meadowlark-man would
-not allow him to do so. <span id="fr_8"></span>[9](#fn_8)
+not allow him to do so. <span id="fr_8"></span>[9](#fn_8.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_8"></span>[59:9](dow12.htm#fr_8) This reference to the moon
+<span id="fn_8"></span>[59:9](dow12.htm#fr_8.md) This reference to the moon
 is the only one I have discovered among the Mewuk creation myths. But
 the next people on the north--the Nissenan--count the Moon-man among the
 early divinities. The Southern Nissenan give the following account of
@@ -75,4 +75,4 @@ lizard and kills him whenever he can.
 ------------------------------------------------------------------------
 
 [Next: How the People Got Five Fingers; How they Obtained Fire; and How
-They Broke up into Tribes](dow13)
+They Broke up into Tribes](dow13.md)

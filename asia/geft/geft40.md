@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft39)  [Next](geft41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft39)  [Next](geft41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -17,7 +17,7 @@ Textual Heritage
 
 ### XIII
 
-### The King's Counsellor <span id="fr_55"></span>[1](#fn_54)
+### The King's Counsellor <span id="fr_55"></span>[1](#fn_54.md)
 
 THE counsellor of an Arabian king once bethought himself that, though he
 had lived so many years, and knew so much, he had never yet found out
@@ -56,10 +56,10 @@ wives.'
 
 ### Footnotes
 
-<span id="fn_54"></span>[173:1](geft40.htm#fr_55) Francesco
+<span id="fn_54"></span>[173:1](geft40.htm#fr_55.md) Francesco
 Strapparola's story of Salardo and the Falcon is practically the same as
 this.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. A Witty Answer](geft41)
+[Next: XIV. A Witty Answer](geft41.md)

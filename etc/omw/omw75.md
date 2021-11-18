@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw74)  [Next](omw76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw74)  [Next](omw76.md) 
 
 ------------------------------------------------------------------------
 
@@ -190,4 +190,4 @@ Fire Goddess.
 
 ------------------------------------------------------------------------
 
-[Next: Pe-le, Hawaii's Goddess Of Volcanic Fire, Part II](omw76)
+[Next: Pe-le, Hawaii's Goddess Of Volcanic Fire, Part II](omw76.md)

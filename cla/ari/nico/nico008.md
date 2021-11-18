@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico007) 
-[Next](nico009) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico007.md) 
+[Next](nico009.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ happiness with good fortune, though others identify it with virtue.
 ------------------------------------------------------------------------
 
 [Next: Chapter 9. Is happiness acquired by learning or habituation, or
-sent by God or by chance?--](nico009)
+sent by God or by chance?--](nico009.md)

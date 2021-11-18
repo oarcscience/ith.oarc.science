@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](ltw88)  [Next](ltw90) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](ltw88)  [Next](ltw90.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../img/t_yy.jpg)](index)  
+[![](../img/t_yy.jpg)](index.md)  
 *Laotzu's Tao and Wu Wei*, by Dwight Goddard and Henri Borel, \[1919\],
 at Intangible Textual Heritage
 
@@ -184,7 +184,7 @@ great ocean.
 
 Why this striving after happiness, after human happiness, that lasts but
 a moment and then vanishes again? Chuang-Tse said truly: 'The highest
-[happiness](errata.htm#0) is no happiness.' Is it not small and
+[happiness](errata.htm#0.md) is no happiness.' Is it not small and
 pitiable, this momentary uprising, and downfalling, and uprising again?
 This wavering, weakly intention and progress of men? Do not seek
 happiness in a woman. She is the joyful revelation of Tao directed
@@ -451,4 +451,4 @@ well-ordered house.
 
 ------------------------------------------------------------------------
 
-[Next: Notes](ltw90)
+[Next: Notes](ltw90.md)

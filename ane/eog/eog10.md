@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](eog09)  [Next](eog11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](eog09)  [Next](eog11.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 #### OF THE MOURNING OF GILGAMISH, AND WHAT CAME OF IT.
 
- <span id="fr_105"></span>[6](#fn_97)(*The first Column is badly
+ <span id="fr_105"></span>[6](#fn_97.md)(*The first Column is badly
 mutilated, and all we can glean from it is that "as soon as something of
 morning has dawned," Gilgamish addressing Enkidu, compares him to a
 gazelle, and promises to glorify him. Then follows apparently a recital
@@ -38,9 +38,9 @@ Me, me hath \[sorrow\] assailed, and \[cast\] me \[down in affliction\].
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Comrade (and) henchman, who chased the wild ass <span
-id="fr_106"></span>[1](#fn_98), the pard of the desert,  
+id="fr_106"></span>[1](#fn_98.md), the pard of the desert,  
 Comrade (and) henchman, who chased the wild ass <span
-id="fr_107"></span>[1](#fn_98), the pard of the desert,  
+id="fr_107"></span>[1](#fn_98.md), the pard of the desert,  
 <span class="margnote">10.</span>Enkidu—we who all \[haps\] overcame,
 ascending \[the mountains\].  
 Captured the Heavenly Bull, and \[destroy’d (him)\]: we o’erthrew
@@ -91,7 +91,7 @@ I, too, will make (all) \[the people of Erech\] lament in thy
 damsels(and)heroes\[constrain to thy service\],  
 While I myself for thy sake \[will cause my body to carry\]  
 \[Stains\], (and) will put on the skin of a \[lion <span
-id="fr_108"></span>[1](#fn_99), and range o’er the desert\]."
+id="fr_108"></span>[1](#fn_99.md), and range o’er the desert\]."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -106,19 +106,19 @@ the end*):
 *Column V*.
 
 <span class="margnote">43.</span>" . . . Judge of the Anunnaki <span
-id="fr_109"></span>[2](#fn_100) . . ."
+id="fr_109"></span>[2](#fn_100.md) . . ."
 
 (Then), when Gilgamish heard this, he form’d of the slaying a
-concept <span id="fr_110"></span>[3](#fn_101).
+concept <span id="fr_110"></span>[3](#fn_101.md).
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <span class="margnote">45.</span>(Then), with the dawn of the morning
 did Gilgamish fashion a . . .  
 Brought out also a mighty platter of wood from the highlands <span
-id="fr_111"></span>[4](#fn_102).  
+id="fr_111"></span>[4](#fn_102.md).  
 Fill’d he with honey a bowl of (bright) ruby <span
-id="fr_112"></span>[5](#fn_103), a bowl (too) of azure,  
+id="fr_112"></span>[5](#fn_103), a bowl (too.md) of azure,  
 Fill’d he with cream; (and) adorn’d he the . . ., and Shamash instructed
 ..
 
@@ -128,26 +128,26 @@ Fill’d he with cream; (and) adorn’d he the . . ., and Shamash instructed
 
 ### Footnotes
 
-<span id="fn_97"></span>[39:6](eog10.htm#fr_105) Assyrian Version.
+<span id="fn_97"></span>[39:6](eog10.htm#fr_105.md) Assyrian Version.
 
-<span id="fn_98"></span>[40:1](eog10.htm#fr_107) Text "of the
+<span id="fn_98"></span>[40:1](eog10.htm#fr_107.md) Text "of the
 mountains."
 
-<span id="fn_99"></span>[41:1](eog10.htm#fr_108) Or "dog."
+<span id="fn_99"></span>[41:1](eog10.htm#fr_108.md) Or "dog."
 
-<span id="fn_100"></span>[41:2](eog10.htm#fr_109) Spirits of the earth
+<span id="fn_100"></span>[41:2](eog10.htm#fr_109.md) Spirits of the earth
 over whom Enlil was lord.
 
-<span id="fn_101"></span>[41:3](eog10.htm#fr_110) Or "of a river," but
+<span id="fn_101"></span>[41:3](eog10.htm#fr_110.md) Or "of a river," but
 improbable. It may be that he is imagining a design for a sculpture of
 the slaying of the Bull. The remainder of the text perhaps describes the
 funerary rites.
 
-<span id="fn_102"></span>[41:4](eog10.htm#fr_111) *Elammaqu*.
+<span id="fn_102"></span>[41:4](eog10.htm#fr_111.md) *Elammaqu*.
 
-<span id="fn_103"></span>[41:5](eog10.htm#fr_112) *Sandu*-stone.
+<span id="fn_103"></span>[41:5](eog10.htm#fr_112.md) *Sandu*-stone.
 
 ------------------------------------------------------------------------
 
 [Next: The Ninth Tablet: Gilgamish In Terror of Death Seeks Eternal
-Life](eog11)
+Life](eog11.md)

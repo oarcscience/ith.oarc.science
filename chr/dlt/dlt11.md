@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dlt10)  [Next](dlt12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dlt10)  [Next](dlt12.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ reserves so many traditional beliefs (see above, chap. vii. §i).
 #### §ii. *The Second Advent of the Messiah*.
 
 In Jewish theology it is taught that above the earth there are seven
-heavens; <span id="fr_74"></span>[1](#fn_74) the highest of these, the
+heavens; <span id="fr_74"></span>[1](#fn_74.md) the highest of these, the
 seventh, is called *Araboth*; this is the dwelling-place (or *Mechiza*)
 of God. But not only does the Almighty dwell here, the angels who serve
 Him are there, and also the souls of the righteous (*Chagigah* 15*b*;
@@ -95,15 +95,15 @@ three divisions in this "seventh
 
 heaven"; God Himself dwells in the innermost division, which is hidden
 from view by a *pargôd* ("curtain") of clouds; the righteous are in the
-next division, <span id="fr_75"></span>[1](#fn_75) and the angels in the
+next division, <span id="fr_75"></span>[1](#fn_75.md) and the angels in the
 outermost. Behind the *pargôd* of clouds, where God dwells, is the
 heavenly throne together with the "glory" of God. The "glory" of God is
 said to dwell upon the divine throne, and is often used for the
 Personality of God Himself, especially in the *Targums*. <span
-id="fr_76"></span>[2](#fn_76) A further point of great interest is the
+id="fr_76"></span>[2](#fn_76.md) A further point of great interest is the
 fact that in the divine Mechiza, or "dwelling-place," no being may ever
 enter, with the one exception of *Metatron*, <span
-id="fr_77"></span>[3](#fn_77) who is permitted to enter and act as
+id="fr_77"></span>[3](#fn_77.md) who is permitted to enter and act as
 mediator between the Israelites and God by writing down their merits in
 the Divine Presence. This teaching, which is found in Rabbinical
 writings belonging to times subsequent to the beginning of Christianity,
@@ -124,12 +124,12 @@ above. It has been suggested that by this "sign" is meant that Christ
 would appear with or on the Cross (Bousset on Rev. i. 7), and that "if
 St Matthew had this in mind, the 'sign of the Son of Man' would mean the
 crucified Saviour appearing in the air." <span
-id="fr_78"></span>[1](#fn_78) This idea seems incongruous in view of the
+id="fr_78"></span>[1](#fn_78.md) This idea seems incongruous in view of the
 words "on the clouds of heaven with power and great glory"; for the
 Cross would be too suggestive of humiliation. But besides this, it must
 be remembered that the "glory of God," or the *Shekhinah*, was always
 regarded as the sign of the Divine Presence. <span
-id="fr_79"></span>[2](#fn_79) The words in Rev. i. 7 (*Behold, he cometh
+id="fr_79"></span>[2](#fn_79.md) The words in Rev. i. 7 (*Behold, he cometh
 with the clouds*;
 
 <span id="page_175">p. 175</span>
@@ -144,7 +144,7 @@ when He shall appear again; His persecutors are to be witnesses of this;
 and when it says, further, "all the tribes of the earth shall mourn over
 Him," this is parallel to the words in Matt. xxiv. 30: *Then shall all
 the tribes of the earth mourn*, their reason for mourning being that
-Christ has come to judge them, <span id="fr_80"></span>[1](#fn_80) in
+Christ has come to judge them, <span id="fr_80"></span>[1](#fn_80.md) in
 contradistinction to the gathering together of the elect, described in
 the next verse (*cf.* Luke xxi. 28, where Christ reassures His own
 followers). The thought of the righteous elect dwelling in the divine
@@ -310,7 +310,7 @@ our father; for I say unto you that God is able of these* 
 
 *stones to raise up children unto Abraham*. . . . That the Jewish nation
 was intended to be the medium whereby salvation was to be brought to all
-men <span id="fr_81"></span>[1](#fn_81) seems definitely implied in such
+men <span id="fr_81"></span>[1](#fn_81.md) seems definitely implied in such
 words as: *Salvation is of the Jews* (John iv. 22), and: *Go ye
 therefore, and make disciples of all nations, baptizing them* . . .
 (Matt. xxviii. 19); but this high privilege only emphasised the fact
@@ -360,7 +360,7 @@ more vivid expression. (See, further, *Sibylline Oracles* iii. 286-290,
 the Holy City, and especially of the Temple-worship, long continued to
 be an object of pious hopes and prayers; according to *Lev. rabbah* ix.
 the Messiah will Himself re-erect the Temple. <span
-id="fr_82"></span>[1](#fn_82) In view of such hopes and expectations,
+id="fr_82"></span>[1](#fn_82.md) In view of such hopes and expectations,
 which with the building of Herod's Temple seemed to some extent
 realised, one can understand what must have been the feelings of those
 who, on drawing our Lord's attention to the buildings of the Temple,
@@ -383,7 +383,7 @@ restricted to Israelites, or to men in general (see chaps. iii. §iv.;
 vi. §iii.; vii. §v.). According to the later teaching of the Jews the
 trumpet-blast which was to be the signal for the ingathering of the
 dispersed Israelites (*cf.* Isaiah xxvii. 13) would also rouse the
-sleeping dead (*cf.* *iv. [Esdras](errata.htm#4)* iv. 23 ff.;
+sleeping dead (*cf.* *iv. [Esdras](errata.htm#4.md)* iv. 23 ff.;
 *Berachoth* 15*b*); in 1 Cor. xv. 52 we read: *For the trumpet shall
 sound, and the dead shall be raised incorruptible* . . . (see also 1
 Thess. iv. 16). We are not concerned here with the doctrine of the
@@ -429,7 +429,7 @@ regarding this
 in order to teach a higher truth. It is possible that the thought of the
 Messianic Banquet lay behind the parable of the Marriage Feast (Matt.
 xxii. 1-14), see especially verse 13, where it is said that he who had
-not on a wedding-garment <span id="fr_83"></span>[1](#fn_83) was to be
+not on a wedding-garment <span id="fr_83"></span>[1](#fn_83.md) was to be
 cast into the outer darkness, where there is *the weeping and gnashing
 of teeth*. (*Cf.* *Ascension of Isaiah* iv. 16.) More direct reference,
 however, may be discerned in Matt. viii. 11: *And I say unto you, that
@@ -456,40 +456,40 @@ Messianic Banquet.
 
 ### Footnotes
 
-<span id="fn_74"></span>[172:1](dlt11.htm#fr_74) *Cf.* 2 Cor. xii. 2
+<span id="fn_74"></span>[172:1](dlt11.htm#fr_74.md) *Cf.* 2 Cor. xii. 2
 
-<span id="fn_75"></span>[173:1](dlt11.htm#fr_75) Probably, as Weber
+<span id="fn_75"></span>[173:1](dlt11.htm#fr_75.md) Probably, as Weber
 suggests, this division is equivalent to Paradise, referred to by St
 Paul in 2 Cor. xii. 4.
 
-<span id="fn_76"></span>[173:2](dlt11.htm#fr_76) See further on this,
+<span id="fn_76"></span>[173:2](dlt11.htm#fr_76.md) See further on this,
 Oesterley and Box, *op. cit.* pp. 191-194.
 
-<span id="fn_77"></span>[173:3](dlt11.htm#fr_77) Concerning this
+<span id="fn_77"></span>[173:3](dlt11.htm#fr_77.md) Concerning this
 human-divine being see Oesterley and Box, *op. cit.* pp. 170-178.
 
-<span id="fn_78"></span>[174:1](dlt11.htm#fr_78) Allen, *St. Matthew*,
+<span id="fn_78"></span>[174:1](dlt11.htm#fr_78.md) Allen, *St. Matthew*,
 p. 259.
 
-<span id="fn_79"></span>[174:2](dlt11.htm#fr_79) For references see
+<span id="fn_79"></span>[174:2](dlt11.htm#fr_79.md) For references see
 Oesterley and Box, *op. cit.* pp. 191 ff.
 
-<span id="fn_80"></span>[175:1](dlt11.htm#fr_80) *Cf.* *Eth. Enoch*
+<span id="fn_80"></span>[175:1](dlt11.htm#fr_80.md) *Cf.* *Eth. Enoch*
 lxii. 5. "Pain will seize them when they see that Son of Man sit on the
 throne of His glory" (see also xlv. 3; lxix. 27.)
 
-<span id="fn_81"></span>[183:1](dlt11.htm#fr_81) For this thought *cf.*
+<span id="fn_81"></span>[183:1](dlt11.htm#fr_81.md) For this thought *cf.*
 *Sibylline Oracles* iii. 194 ff., and see further above, chap. vi. §ii.
 
-<span id="fn_82"></span>[185:1](dlt11.htm#fr_82) Prayer for the
+<span id="fn_82"></span>[185:1](dlt11.htm#fr_82.md) Prayer for the
 restoration of the Temple-worship is offered in the Synagogue regularly
 at the present day (see Oesterley and Box, *op. cit.* p. 223).
 
-<span id="fn_83"></span>[188:1](dlt11.htm#fr_83) With this thought of
+<span id="fn_83"></span>[188:1](dlt11.htm#fr_83.md) With this thought of
 the "Wedding-garment" it is interesting to compare the mention of the
 ‘'Garments of Life" in *Eth. Enoch* lxii. 16. (See also cviii. 12.)
 
 ------------------------------------------------------------------------
 
 [Next: Chapter X. The Gospel Teaching of the Second Advent:--Contrast
-with its Antecedents.](dlt12)
+with its Antecedents.](dlt12.md)

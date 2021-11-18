@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm34)  [Next](wsm36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm34)  [Next](wsm36.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ Wolf came back to life again.
 
 ------------------------------------------------------------------------
 
-[Next: The Ice Barrier (Winnemucca, Nevada. Northern Paiute)](wsm36)
+[Next: The Ice Barrier (Winnemucca, Nevada. Northern Paiute)](wsm36.md)

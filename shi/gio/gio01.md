@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gio00)  [Next](gio02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gio00)  [Next](gio02.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ L. V. L.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Gio](gio02)
+[Next: The Story of Gio](gio02.md)

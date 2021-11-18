@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ CAPTIVE; AND AFTER WHAT MANNER THEY SENT IT BACK TO THE HEBREWS.**
 1\. WHEN the Philistines had taken the ark of the Hebrews captive, as I
 said a little before, they carried it to the city of Ashdod, and put it
 by their own god, who was called Dagon, <span
-id="EndNote Ant 6.1a"></span>[(1)](#EndNote%20Ant%206.1b) as one of
+id="EndNote Ant 6.1a"></span>[(1)](#EndNote%20Ant%206.1b.md) as one of
 their spoils; but when they went into his temple the next morning to
 worship their god, they found him paying the same worship to the ark,
 for he lay along, as having fallen down from the basis whereon he had
@@ -79,10 +79,10 @@ preservation, and having kept them alive when their lives were likely to
 be taken away by such distempers as they were not able to bear up
 against. They also would have them make five golden mice like to those
 that devoured and destroyed their country <span
-id="EndNote Ant 6.2a"></span>[(2)](#EndNote%20Ant%206.2b) to put them in
+id="EndNote Ant 6.2a"></span>[(2)](#EndNote%20Ant%206.2b.md) to put them in
 a bag, and lay them upon the ark; to make them a new cart also for it,
 and to yoke milch kine to it <span
-id="EndNote Ant 6.3a"></span>[(3)](#EndNote%20Ant%206.3b) but to shut up
+id="EndNote Ant 6.3a"></span>[(3)](#EndNote%20Ant%206.3b.md) but to shut up
 their calves, and keep them from them, lest, by following after them,
 they should prove a hinderance to their dams, and that the dams might
 return the faster out of a desire of those calves; then to drive these
@@ -116,7 +116,7 @@ the Philistines saw this, they returned back.
 
 4\. But now it was that the wrath of God overtook them, and struck
 seventy persons <span
-id="EndNote Ant 6.4a"></span>[(4)](#EndNote%20Ant%206.4b) of the village
+id="EndNote Ant 6.4a"></span>[(4)](#EndNote%20Ant%206.4b.md) of the village
 of Bethshemesh dead, who, not being priests, and so not worthy to touch
 the ark, had approached to it. Those of that village wept for these that
 had thus suffered, and made such a lamentation as was naturally to be
@@ -195,7 +195,7 @@ over their enemies. Now while the altar had the sacrifice of God upon
 it, and had not yet consumed it wholly by its sacred fire, the enemy's
 army marched out of their camp, and was put in order of battle, and this
 in hope that they should be conquerors, since the Jews <span
-id="EndNote Ant 6.5a"></span>[(5)](#EndNote%20Ant%206.5b) were caught in
+id="EndNote Ant 6.5a"></span>[(5)](#EndNote%20Ant%206.5b.md) were caught in
 distressed circumstances, as neither having their weapons with them, nor
 being assembled there in order to fight. But things so fell out, that
 they would hardly have been credited though they had been foretold by
@@ -358,7 +358,7 @@ give him as a reward for his prophecy, for their subsistence money was
 spent. The servant answered, that he had still the fourth part of a
 shekel, and he would present him with that; for they were mistaken out
 of ignorance, as not knowing that the prophet received no such reward
-<span id="EndNote Ant 6.6a"></span>[(6)](#EndNote%20Ant%206.6b) So they
+<span id="EndNote Ant 6.6a"></span>[(6)](#EndNote%20Ant%206.6b.md) So they
 went to him; and when they were before the gates, they lit upon certain
 maidens that were going to fetch water, and they asked them which was
 the prophet's house. They showed them which it was; and bid them make
@@ -385,7 +385,7 @@ greater matters than what I stand in need of." However, the prophet led
 him in to the feast, and made him sit down, him and his servant that
 followed him, above the other guests that were invited, which were
 seventy in number <span
-id="EndNote Ant 6.7a"></span>[(7)](#EndNote%20Ant%206.7b) and he gave
+id="EndNote Ant 6.7a"></span>[(7)](#EndNote%20Ant%206.7b.md) and he gave
 orders to the servants to set the royal portion before Saul. And when
 the time of going to bed was come, the rest rose up, and every one of
 them went home; but Saul staid with the prophet, he and his servant, and
@@ -410,7 +410,7 @@ of. And thence thou shalt come to a place called *Rachel's Monument,*
 where thou shalt meet with those that will tell thee thy asses are
 found; after this, when thou comest to Gabatha, thou shalt overtake a
 company of prophets, and thou shalt be seized with the Divine Spirit,
-<span id="EndNote Ant 6.8a"></span>[(8)](#EndNote%20Ant%206.8b) and
+<span id="EndNote Ant 6.8a"></span>[(8)](#EndNote%20Ant%206.8b.md) and
 prophesy along with them, till every one that sees thee shall be
 astonished, and wonder, and say, Whence is it that the son of Kish has
 arrived at this degree of happiness? And when these signs have happened
@@ -501,7 +501,7 @@ them for the present, which he did by force and violence, but by
 weakening them by subtlety and cunning, that they might not be able
 afterward to get clear of the slavery they were under to him; for he put
 out the right eyes <span
-id="EndNote Ant 6.9a"></span>[(9)](#EndNote%20Ant%206.9b) of those that
+id="EndNote Ant 6.9a"></span>[(9)](#EndNote%20Ant%206.9b.md) of those that
 either delivered themselves to him upon terms, or were taken by him in
 war; and this he did, that when their left eyes were covered by their
 shields, they might be wholly useless in war. Now when the king of the
@@ -632,7 +632,7 @@ make it plain to you that God is angry and displeased at your choice of
 kingly government, I will so dispose him that he shall declare this very
 plainly to you by strange signals; for what none of you ever saw here
 before, I mean a winter storm in the midst of harvest, <span
-id="EndNote Ant 6.10a"></span>[(10)](#EndNote%20Ant%206.10b) I will
+id="EndNote Ant 6.10a"></span>[(10)](#EndNote%20Ant%206.10b.md) I will
 entreat of God, and will make it visible to you." Now, as soon as he had
 said this, God gave such great signals by thunder and lightning, and the
 descent of hail, as attested the truth of all that the prophet had said,
@@ -690,7 +690,7 @@ about the war and the public affairs; so he commanded him to stay there
 for him, and to prepare sacrifices, for he would come to him within
 seven days, that they might offer sacrifices on the seventh day, and
 might then join battle with their enemies. So he waited <span
-id="EndNote Ant 6.11a"></span>[(11)](#EndNote%20Ant%206.11b) as the
+id="EndNote Ant 6.11a"></span>[(11)](#EndNote%20Ant%206.11b.md) as the
 prophet sent to him to do; yet did not he, however, observe the command
 that was given him, but when he saw that the prophet tarried longer than
 he expected, and that he was deserted by the soldiers, he took the
@@ -708,7 +708,7 @@ because his soldiers were departing from him, out of their fear of the
 enemy's camp at Michmash, the report being gone abroad that they were
 coming down upon him of Gilgal. To which Samuel replied, "Nay,
 certainly, if thou hadst been a righteous man, <span
-id="EndNote Ant 6.12a"></span>[(12)](#EndNote%20Ant%206.12b) and hadst
+id="EndNote Ant 6.12a"></span>[(12)](#EndNote%20Ant%206.12b.md) and hadst
 not disobeyed me, nor slighted the commands which God suggested to me
 concerning the present state of affairs, and hadst not acted more
 hastily than the present circumstances required, thou wouldst have been
@@ -780,7 +780,7 @@ whether out of joy for a victory gained so strangely, (for it frequently
 happens that persons so fortunate are not then able to use their reason
 consistently,) as he was desirous to avenge himself, and to exact a due
 punishment of the Philistines, he denounced a curse <span
-id="EndNote Ant 6.13a"></span>[(13)](#EndNote%20Ant%206.13b) upon the
+id="EndNote Ant 6.13a"></span>[(13)](#EndNote%20Ant%206.13b.md) upon the
 Hebrews: That if any one put a stop to his slaughter of the enemy, and
 fell on eating, and left off the slaughter or the pursuit before the
 night came on, and obliged them so to do, he should be accursed. Now
@@ -807,7 +807,7 @@ that they should kill their sacrifices upon it, and not feed upon the
 flesh with the blood, for that was not acceptable to God. And when all
 the people did as the king commanded them, Saul erected an altar there,
 and offered burnt-offerings upon it to God <span
-id="EndNote Ant 6.14a"></span>[(14)](#EndNote%20Ant%206.14b) This was
+id="EndNote Ant 6.14a"></span>[(14)](#EndNote%20Ant%206.14b.md) This was
 the first altar that Saul built.
 
 5\. So when Saul was desirous of leading his men to the enemy's camp
@@ -883,7 +883,7 @@ mischief they did to our forefathers; to spare nothing, neither asses
 nor other beasts, nor to reserve any of them for your own advantage and
 possession, but to devote them universally to God, and, in obedience to
 the commands of Moses, to blot out the name of Amalek entirely." <span
-id="EndNote Ant 6.15a"></span>[(15)](#EndNote%20Ant%206.15b)
+id="EndNote Ant 6.15a"></span>[(15)](#EndNote%20Ant%206.15b.md)
 
 2\. So Saul promised to do what he was commanded; and supposing that his
 obedience to God would be shown, not only in making war against the
@@ -1084,7 +1084,7 @@ charm those passions by singing, and playing upon the harp, they advised
 them to inquire for such a one, and to observe when these demons came
 upon him and disturbed him, and to take care that such a person might
 stand over him, and play upon the harp, and recite hymns to him. <span
-id="EndNote Ant 6.16a"></span>[(16)](#EndNote%20Ant%206.16b) Accordingly
+id="EndNote Ant 6.16a"></span>[(16)](#EndNote%20Ant%206.16b.md) Accordingly
 Saul did not delay, but commanded them to seek out such a man. And when
 a certain stander-by said that he had seen in the city of Bethlehem a
 son of Jesse, who was yet no more than a child in age, but comely and
@@ -1271,7 +1271,7 @@ destruction and of hazard to him; so he told those that informed him of
 his daughter's affection, that he would willingly give David the virgin
 in marriage, and said, "I engage myself to marry my daughter to him if
 he will bring me six hundred heads of my enemies <span
-id="EndNote Ant 6.17a"></span>[(17)](#EndNote%20Ant%206.17b) supposing
+id="EndNote Ant 6.17a"></span>[(17)](#EndNote%20Ant%206.17b.md) supposing
 that when a reward so ample was proposed to him, and when he should aim
 to get him great glory, by undertaking a thing so dangerous and
 incredible, he would immediately set about it, and so perish by the
@@ -1399,7 +1399,7 @@ sake; for know this, that if my father find thee, thou art a dead man."
 So she let him down by a cord out of the window, and saved him: and
 after she had done so, she fitted up a bed for him as if he were sick,
 and put under the bed-clothes a goat's liver <span
-id="EndNote Ant 6.18a"></span>[(18)](#EndNote%20Ant%206.18b) and when
+id="EndNote Ant 6.18a"></span>[(18)](#EndNote%20Ant%206.18b.md) and when
 her father, as soon as it was day, sent to seize David, she said to
 those that were there, That he had not been well that night, and showed
 them the bed covered, and made them believe, by the leaping of the
@@ -1435,9 +1435,9 @@ the first, he again sent others; which third sort prophesying also, at
 last he was angry, and went thither in great haste himself; and when he
 was just by the place, Samuel, before he saw him, made him prophesy
 also. And when Saul came to him, he was disordered in mind <span
-id="EndNote Ant 6.19a"></span>[(19)](#EndNote%20Ant%206.19b) and under
+id="EndNote Ant 6.19a"></span>[(19)](#EndNote%20Ant%206.19b.md) and under
 the vehement agitation of a spirit; and, putting off his garments, <span
-id="EndNote Ant 6.20a"></span>[(20)](#EndNote%20Ant%206.20b) he fell
+id="EndNote Ant 6.20a"></span>[(20)](#EndNote%20Ant%206.20b.md) he fell
 down, and lay on the ground all that day and night, in the presence of
 Samuel and David.
 
@@ -1673,7 +1673,7 @@ priest, but were more afraid of disobeying God than the king, he ordered
 Doeg the Syrian to kill them. Accordingly, he took to his assistance
 such wicked men as were like himself, and slew Ahimelech and all his
 family, who were in all three hundred and eighty-five. Saul also sent to
-Nob, <span id="EndNote Ant 6.21a"></span>[(21)](#EndNote%20Ant%206.21b)
+Nob, <span id="EndNote Ant 6.21a"></span>[(21)](#EndNote%20Ant%206.21b.md)
 the city of the priests, and slew all that were there, without sparing
 either women or children, or any other age, and burnt it; only there was
 one son of Ahimelech, whose name was Abiathar, who escaped. However,
@@ -1681,7 +1681,7 @@ these things came to pass as God had foretold to Eli the high priest,
 when he said that his posterity should be destroyed, on account of the
 transgression of his two sons.
 
-7\. <span id="EndNote Ant 6.22a"></span>[(22)](#EndNote%20Ant%206.22b)
+7\. <span id="EndNote Ant 6.22a"></span>[(22)](#EndNote%20Ant%206.22b.md)
 Now this king Saul, by perpetrating so barbarous a crime, and murdering
 the whole family of the high-priestly dignity, by having no pity of the
 infants, nor reverence for the aged, and by overthrowing the city which
@@ -1855,7 +1855,7 @@ have done the same to thy head." So he showed him the piece of his
 garment, and thereby made him agree to what he said to be true; and
 added, "I, for certain, have abstained from taking a just revenge upon
 thee, yet art thou not ashamed to prosecute me with unjust hatred. <span
-id="EntNote Ant 6.23a"></span>[(23)](#EndNote%20Ant%206.23a) May God do
+id="EntNote Ant 6.23a"></span>[(23)](#EndNote%20Ant%206.23a.md) May God do
 justice, and determine about each of our dispositions." - But Saul was
 amazed at the strange delivery he had received; and being greatly
 affected with the moderation and the disposition of the young man, he
@@ -1915,7 +1915,7 @@ insolent, and make a figure, and leave their masters." When they told
 David this, he was wroth, and commanded four hundred armed men to follow
 him, and left two hundred to take care of the stuff, (for he had already
 six hundred, <span
-id="EndNote Ant 6.24a"></span>[(24)](#EndNote%20Ant%206.24b)) and went
+id="EndNote Ant 6.24a"></span>[(24)](#EndNote%20Ant%206.24b).md) and went
 against Nabal: he also swore that he would that night utterly destroy
 the whole house and possessions of Nabal; for that he was grieved, not
 only that he had proved ungrateful to them, without making any return
@@ -1942,7 +1942,7 @@ that she did not see the messengers whom he sent. "Forgive me,
 therefore," said she, "and thank God, who hath hindered thee from
 shedding human blood; for so long as thou keepest thyself innocent, he
 will avenge thee of wicked men, <span
-id="EndNote Ant 6.25a"></span>[(25)](#EndNote%20Ant%206.25b) for what
+id="EndNote Ant 6.25a"></span>[(25)](#EndNote%20Ant%206.25b.md) for what
 miseries await Nabal, they will fall upon the heads of thine enemies. Be
 thou gracious to me, and think me so far worthy as to accept of these
 presents from me; and, out of regard to me, remit that wrath and that
@@ -1951,7 +1951,7 @@ humanity become thee, especially as thou art to be our king."
 Accordingly, David accepted her presents, and said, "Nay, but, O woman,
 it was no other than God's mercy which brought thee to us today, for,
 otherwise, thou hadst never seen another day, I having sworn <span
-id="EndNote Ant 6.26a"></span>[(26)](#EndNote%20Ant%206.26b) to destroy
+id="EndNote Ant 6.26a"></span>[(26)](#EndNote%20Ant%206.26b.md) to destroy
 Nabal's house this very night, and to leave alive not one of you who
 belonged to a man that was wicked and ungrateful to me and my
 companions; but now hast thou prevented me, and seasonably mollified my
@@ -2140,7 +2140,7 @@ circumstances; that he was forsaken of God, and could obtain no
 prediction of what was coming, neither by prophets nor by dreams; and
 that "these were the reasons why I have recourse to time, who always
 took great care of me." But <span
-id="EndNote Ant 6.27a"></span>[(27)](#EndNote%20Ant%206.27b) Samuel,
+id="EndNote Ant 6.27a"></span>[(27)](#EndNote%20Ant%206.27b.md) Samuel,
 seeing that the end of Saul's life was come, said, "It is in vain for
 thee to desire to learn of me any thing future, when God hath forsaken
 thee: however, hear what I say, that David is to be king, and to finish
@@ -2171,7 +2171,7 @@ calf; this she killed, and made ready its flesh, and set it before his
 servants and himself. So Saul came to the camp while it was yet night.
 
 4\. Now it is but just to recommend the generosity of this woman, <span
-id="EndNote Ant 6.28a"></span>[(28)](#EndNote%20Ant%206.28b) because
+id="EndNote Ant 6.28a"></span>[(28)](#EndNote%20Ant%206.28b.md) because
 when the king had forbidden her to use that art whence her circumstances
 were bettered and improved, and when she had never seen the king before,
 she still did not remember to his disadvantage that he had condemned her
@@ -2391,7 +2391,7 @@ best place of their country, which was named Areurn; and they observed a
 public mourning for them seven days, with their wives and children,
 beating their breasts, and lamenting the king and his sons, without
 either tasting meat or drink <span
-id="EndNote Ant 6.29a"></span>[(29)](#EndNote%20Ant%206.29b) \[till the
+id="EndNote Ant 6.29a"></span>[(29)](#EndNote%20Ant%206.29b.md) \[till the
 evening.\]
 
 9\. To this his end did Saul come, according to the prophecy of Samuel,
@@ -2403,11 +2403,11 @@ death two \[and twenty\], ended his life in this manner.
 
 ENDNOTE
 
-<span id="EndNote Ant 6.1b"></span>[(1)](#EndNote%20Ant%206.1a) Dagon, a
+<span id="EndNote Ant 6.1b"></span>[(1)](#EndNote%20Ant%206.1a.md) Dagon, a
 famous maritime god or idol, is generally supposed to have been like a
 man above the navel, and like a fish beneath it.
 
-<span id="EndNote Ant 6.2b"></span>[(2)](#EndNote%20Ant%206.2a) Spanheim
+<span id="EndNote Ant 6.2b"></span>[(2)](#EndNote%20Ant%206.2a.md) Spanheim
 informs us here, that upon the coins of Tenedos, and those of other
 cities, a field-mouse is engraven, together with Apollo Smintheus, or
 Apollo, the driver away of field-mice, on account of his being supposed
@@ -2416,7 +2416,7 @@ how great a judgment such mice have sometimes been, and how the
 deliverance from them was then esteemed the effect of a divine power;
 which observations are highly suitable to this history.
 
-<span id="EndNote Ant 6.3b"></span>[(3)](#EndNote%20Ant%206.3a) This
+<span id="EndNote Ant 6.3b"></span>[(3)](#EndNote%20Ant%206.3a.md) This
 device of the Philistines, of having a yoke of kine to draw this cart,
 into which they put the ark of the Hebrews, is greatly illustrated by
 Sanchoniatho's account, under his ninth generation, that Agrouerus, or
@@ -2425,7 +2425,7 @@ carried about by one or more yoke of oxen, or kine, in Phoenicia, in the
 neighborhood of these Philistines. See Cumberland's Sanchoniatho, p. 27
 and 247; and Essay on the Old Testament, Append. p. 172.
 
-<span id="EndNote Ant 6.4b"></span>[(4)](#EndNote%20Ant%206.4a) These
+<span id="EndNote Ant 6.4b"></span>[(4)](#EndNote%20Ant%206.4a.md) These
 seventy men, being not so much as Levites, touched the ark in a rash or
 profane manner, and were slain by the hand of God for such their
 rashness and profaneness, according to the Divine threatenings, Numbers
@@ -2433,18 +2433,18 @@ rashness and profaneness, according to the Divine threatenings, Numbers
 fifty thousand in this one town, or small city, I know not. See Dr.
 Wall's Critical Notes on 1 Samuel 6:19.
 
-<span id="EndNote Ant 6.5b"></span>[(5)](#EndNote%20Ant%206.5a) This is
+<span id="EndNote Ant 6.5b"></span>[(5)](#EndNote%20Ant%206.5a.md) This is
 the first place, so far as I remember, in these Antiquities, where
 Josephus begins to call his nation Jews, he having hitherto usually, if
 not constantly, called them either Hebrews or Israelites. The second
 place soon follows; see also ch. 3. sect. 5.
 
-<span id="EndNote Ant 6.6b"></span>[(6)](#EndNote%20Ant%206.6a) Of this
+<span id="EndNote Ant 6.6b"></span>[(6)](#EndNote%20Ant%206.6a.md) Of this
 great mistake of Saul and his servant, as if true prophet of God would
 accept of a gift or present, for foretelling what was desired of him,
 see the note on B. IV. ch. 6. sect. 3.
 
-<span id="EndNote Ant 6.7b"></span>[(7)](#EndNote%20Ant%206.7a) It seems
+<span id="EndNote Ant 6.7b"></span>[(7)](#EndNote%20Ant%206.7a.md) It seems
 to me not improbable that these seventy guests of Samuel, as here, with
 himself at the head of them, were a Jewish sanhedrim, and that hereby
 Samuel intimated to Saul that these seventy-one were to be his constant
@@ -2453,25 +2453,25 @@ advice and direction of these seventy-one members of that Jewish
 sanhedrim upon all occasions, which yet we never read that he consulted
 afterward.
 
-<span id="EndNote Ant 6.8b"></span>[(8)](#EndNote%20Ant%206.8a) An
+<span id="EndNote Ant 6.8b"></span>[(8)](#EndNote%20Ant%206.8a.md) An
 instance of this Divine fury we have after this in Saul, ch. 5. sect. 2,
 3; 1 Samuel 11:6. See the like, Judges 3:10; 6:34; 11:29; 13:25; and
 14:6.
 
-<span id="EndNote Ant 6.9b"></span>[(9)](#EndNote%20Ant%206.9a) Take
+<span id="EndNote Ant 6.9b"></span>[(9)](#EndNote%20Ant%206.9a.md) Take
 here Theodoret's note, cited by Dr. Hudson: — "He that exposes his
 shield to the enemy with his left hand, thereby hides his left eye, and
 looks at the enemy with his right eye: he therefore that plucks out that
 eye, makes men useless in war."
 
-<span id="EndNote Ant 6.10b"></span>[(10)](#EndNote%20Ant%206.10a) Mr.
+<span id="EndNote Ant 6.10b"></span>[(10)](#EndNote%20Ant%206.10a.md) Mr.
 Reland observes here, and proves elsewhere in his note on Antiq. B. III.
 ch. 1. sect. 6, that although thunder and lightning with us usually
 happen in summer, yet in Palestine and Syria they are chiefly confined
 to winter. Josephus takes notice of the same thing again, War, B. IV.
 ch. 4. sect. 5.
 
-<span id="EndNote Ant 6.11b"></span>[(11)](#EndNote%20Ant%206.11a) Saul
+<span id="EndNote Ant 6.11b"></span>[(11)](#EndNote%20Ant%206.11a.md) Saul
 seems to have staid till near the time of the evening sacrifice, on the
 seventh day, which Samuel the prophet of God had appointed him, but not
 till the end of that day, as he ought to have done; and Samuel appears,
@@ -2504,7 +2504,7 @@ third, 2 Samuel 6:8, 9; Antiq. B. VI. ch. 7. sect. 2; though they all at
 last acquiesced in the Divine conduct, as knowing that God is wiser than
 men.
 
-<span id="EndNote Ant 6.12b"></span>[(12)](#EndNote%20Ant%206.12a) By
+<span id="EndNote Ant 6.12b"></span>[(12)](#EndNote%20Ant%206.12a.md) By
 this answer of Samuel, and that from a Divine commission, which is
 fuller in l Samuel 13:14, and by that parallel note in the Apostolical
 Constitutions just now quoted, concerning the great wickedness of Saul
@@ -2523,7 +2523,7 @@ book of the Apostolical Constitutions, which peculiarly concern the
 laity, and are intimated in Clement's undoubted epistle, sect. 40. To
 which latter opinion I incline.
 
-<span id="EndNote Ant 6.13b"></span>[(13)](#EndNote%20Ant%206.13a) This
+<span id="EndNote Ant 6.13b"></span>[(13)](#EndNote%20Ant%206.13a.md) This
 rash vow or curse of Saul, which Josephus says was confirmed by the
 people, and yet not executed, I suppose principally because Jonathan did
 not know of it, is very remarkable; it being of the essence of the
@@ -2534,7 +2534,7 @@ Saul's vow or curse was understood and set right, and God propitiated by
 public prayer, is here very remarkable, as indeed it is every where else
 in the Old Testament.
 
-<span id="EndNote Ant 6.14b"></span>[(14)](#EndNote%20Ant%206.14a) Here
+<span id="EndNote Ant 6.14b"></span>[(14)](#EndNote%20Ant%206.14a.md) Here
 we have still more indications of Saul's affectation of despotic power,
 and of his entrenching upon the priesthood, and making and endeavoring
 to execute a rash vow or curse, without consulting Samuel or the
@@ -2543,7 +2543,7 @@ new altar by Saul, and his offering of burnt-offerings himself upon it,
 and not as any proper instance of devotion or religion, with other
 commentators.
 
-<span id="EndNote Ant 6.15b"></span>[(15)](#EndNote%20Ant%206.15a) The
+<span id="EndNote Ant 6.15b"></span>[(15)](#EndNote%20Ant%206.15a.md) The
 reason of this severity is distinctly given, 1 Samuel 15:18, "Go and
 utterly destroy the sinners the Amalekites:" nor indeed do we ever meet
 with these Amalekites but as very cruel and bloody people, and
@@ -2553,13 +2553,13 @@ Israel. See Exodus 17:8-16; Numbers 14:45; Deuteronomy 25:17-19; Judges
 of all cruelties, that of Haman the Agagite, or one of the posterity of
 Agag, the old king of the Amalekites, Esther 3:1-15.
 
-<span id="EndNote Ant 6.16b"></span>[(16)](#EndNote%20Ant%206.16a)
+<span id="EndNote Ant 6.16b"></span>[(16)](#EndNote%20Ant%206.16a.md)
 Spanheim takes notice here that the Greeks had such singers of hymns;
 and that usually children or youths were picked out for that service; as
 also, that those called singers to the harp, did the same that David did
 here, i.e. join their own vocal and instrumental music together.
 
-<span id="EndNote Ant 6.17b"></span>[(17)](#EndNote%20Ant%206.17a)
+<span id="EndNote Ant 6.17b"></span>[(17)](#EndNote%20Ant%206.17a.md)
 Josephus says thrice in this chapter, and twice afterwards, ch. 11.
 sect. 2, and B. VII. ch. 1. sect. 4, i.e. five times in all, that Saul
 required not a bare hundred of the foreskins of the Philistines, but six
@@ -2569,7 +2569,7 @@ copies, but heads, with Josephus's copy, seems somewhat probable, from 1
 Samuel 29:4, where all copies say that it was with the heads of such
 Philistines that David might reconcile himself to his master, Saul.
 
-<span id="EndNote Ant 6.18b"></span>[(18)](#EndNote%20Ant%206.18a) Since
+<span id="EndNote Ant 6.18b"></span>[(18)](#EndNote%20Ant%206.18a.md) Since
 the modern Jews have lost the signification of the Hebrew word here
 used, cebr; and since the LXX., as well as Josephus, reader it the liver
 of the goat, and since this rendering, and Josephus's account, are here
@@ -2577,7 +2577,7 @@ so much more clear and probable than those of others, it is almost
 unaccountable that our commentators should so much as hesitate about its
 true interpretation.
 
-<span id="EndNote Ant 6.19b"></span>[(19)](#EndNote%20Ant%206.19a) These
+<span id="EndNote Ant 6.19b"></span>[(19)](#EndNote%20Ant%206.19a.md) These
 violent and wild agitations of Saul seem to me to have been no other
 than demoniacal; and that the same demon which used to seize him, since
 he was forsaken of God, and which the divine hymns and psalms which were
@@ -2595,13 +2595,13 @@ Saul's real inspiration by the Divine Spirit, 1 Samuel 10:9-12; Antiq.
 B. VI. ch. 4. sect. 2, which was before he was become wicked, well agree
 with the descriptions before us.
 
-<span id="EndNote Ant 6.20b"></span>[(20)](#EndNote%20Ant%206.20a) What
+<span id="EndNote Ant 6.20b"></span>[(20)](#EndNote%20Ant%206.20a.md) What
 is meant by Saul's lying down naked all that day, and all that night, 1
 Samuel 19:4, and whether any more than laying aside his royal apparel,
 or upper garments, as Josephus seems to understand it, is by no means
 certain. See the note on Antiq. B. VIII. ch. 14. sect. 2.
 
-<span id="EndNote Ant 6.21b"></span>[(21)](#EndNote%20Ant%206.21a) This
+<span id="EndNote Ant 6.21b"></span>[(21)](#EndNote%20Ant%206.21a.md) This
 city Nob was not a city allotted to the priests, nor had the prophets,
 that we know of, any particular cities allotted them. It seems the
 tabernacle was now at Nob, and probably a school of the prophets was
@@ -2615,7 +2615,7 @@ the only seat of the family of Ithamar, which here perished, according
 to God's former terrible threatenings to Eli, 1 Samuel 2:27-36; 3:11-18.
 See ch. 14. sect. D, hereafter.
 
-<span id="EndNote Ant 6.22b"></span>[(22)](#EndNote%20Ant%206.22a) This
+<span id="EndNote Ant 6.22b"></span>[(22)](#EndNote%20Ant%206.22a.md) This
 section contains an admirable reflection of Josephus concerning the
 general wickedness of men in great authority, and the danger they are in
 of rejecting that regard to justice and humanity, to Divine Providence
@@ -2629,13 +2629,13 @@ prayer: "One thing have I required of thee, deny it me not before I die:
 Give me not riches, lest I be full, and deny thee, and say, Who is the
 Lord ?" Proverbs 30:7-9.
 
-<span id="EndNote Ant 6.23b"></span>[(23)](#EntNote%20Ant%206.23a) The
+<span id="EndNote Ant 6.23b"></span>[(23)](#EntNote%20Ant%206.23a.md) The
 phrase in David's speech to Saul, as set down in Josephus, that he had
 abstained from just revenge, puts me in mind of the like words in the
 Apostolical Constitutions, B. VII. ch. 2., "That revenge is not evil,
 but that patience is more honorable."
 
-<span id="EndNote Ant 6.24b"></span>[(24)](#EndNote%20Ant%206.24a) The
+<span id="EndNote Ant 6.24b"></span>[(24)](#EndNote%20Ant%206.24a.md) The
 number of men that came first to David, are distinctly in Josephus, and
 in our common copies, but four hundred. When he was at Keilah still but
 four hundred, both in Josephus and in the LXXX.; but six hundred in our
@@ -2644,7 +2644,7 @@ mentioned are here estimated by Josephus to have been so many, only by
 an augmentation of two hundred afterward, which I suppose is the true
 solution of this seeming disagreement.
 
-<span id="EndNote Ant 6.25b"></span>[(25)](#EndNote%20Ant%206.25a) In
+<span id="EndNote Ant 6.25b"></span>[(25)](#EndNote%20Ant%206.25a.md) In
 this and the two next sections, we may perceive how Josephus, nay, how
 Abigail herself, would understand, the "not avenging ourselves, but
 heaping coals of fire on the head of the injurious," Proverbs 25:22;
@@ -2656,7 +2656,7 @@ all at length for the good of the persons punished, I incline to think
 that to be the meaning of this phrase of "heaping coals of fire on their
 heads."
 
-<span id="EndNote Ant 6.26b"></span>[(26)](#EndNote%20Ant%206.26a) We
+<span id="EndNote Ant 6.26b"></span>[(26)](#EndNote%20Ant%206.26a.md) We
 may note here, that how sacred soever an oath was esteemed among the
 people of God in old times, they did not think it obligatory where the
 action was plainly unlawful. For so we see it was in this case of David,
@@ -2664,7 +2664,7 @@ who, although he had sworn to destroy Nabal and his family, yet does he
 here, and 1 Samuel 25:32-41, bless God for preventing his keeping his
 oath, and shedding of blood, which he had swore to do.
 
-<span id="EndNote Ant 6.27b"></span>[(27)](#EndNote%20Ant%206.27a) This
+<span id="EndNote Ant 6.27b"></span>[(27)](#EndNote%20Ant%206.27a.md) This
 history of Saul's consultation, not with a witch, as we render the
 Hebrew word here, but with a necromancer, as the whole history shows, is
 easily understood, especially if we consult the Recognitions of Clement,
@@ -2678,7 +2678,7 @@ modern hypotheses against the natural sense of such ancient and
 authentic histories, I take them to be of very small value or
 consideration.
 
-<span id="EndNote Ant 6.28b"></span>[(28)](#EndNote%20Ant%206.28a) These
+<span id="EndNote Ant 6.28b"></span>[(28)](#EndNote%20Ant%206.28a.md) These
 great commendations of this necromantic woman of Endor, and of Saul's
 martial courage, when yet he knew he should die in the battle, are
 somewhat unusual digressions in Josephus. They seem to me extracted from
@@ -2686,7 +2686,7 @@ some speeches or declamations of his composed formerly, in the way of
 oratory, that lay by him, and which he thought fit to insert upon this
 occasion. See before on Antiq. B. I. ch. 6 sect. 8.
 
-<span id="EndNote Ant 6.29b"></span>[(29)](#EndNote%20Ant%206.29a) This
+<span id="EndNote Ant 6.29b"></span>[(29)](#EndNote%20Ant%206.29a.md) This
 way of speaking in Josephus, of fasting "seven days without meat or
 drink," is almost like that of St. Paul, Acts 27:33, "This day is the
 fourteenth day that ye have tarried, and continued fasting, having taken
@@ -2705,4 +2705,4 @@ they kept all those days entirely as lasts till the evening, but not
 longer. See Judges 20:26; 21:2; 1 Samuel 14:24; 2 Samuel 1:12; Antiq. B.
 VII. ch. 7. sect. 4.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

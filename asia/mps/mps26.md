@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps25) 
-[Next](mps27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps25.md) 
+[Next](mps27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ thy discourse!"
 <span class="margnote"><span id="797">797</span></span>Again the vizier
 submitted his speech of yesterday. When he (Rosten) heard it, he made no
 lengthy answer: "If I think thee not mad may I be the Jew Levi! <span
-id="fr_18"></span>[1](#fn_18) Let me hear no more of this, else I wholly
+id="fr_18"></span>[1](#fn_18.md) Let me hear no more of this, else I wholly
 give thee up!"
 
 <span class="margnote"><span id="798">798</span></span>When the vizier
@@ -127,10 +127,10 @@ pray; let us help them that God may give him paths of peace!"
 
 ### Footnotes
 
-<span id="fn_18"></span>[127:1](mps26.htm#fr_18) ? reference to Gen.
+<span id="fn_18"></span>[127:1](mps26.htm#fr_18.md) ? reference to Gen.
 xlix. 5-7. (i.e. "cursed for mine anger").
 
 ------------------------------------------------------------------------
 
 [Next: XXIV. Avt’handil's Second Departure and Meeting with
-Tariel](mps27)
+Tariel](mps27.md)

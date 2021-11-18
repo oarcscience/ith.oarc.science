@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp20)  [Next](esp22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp20)  [Next](esp22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -106,13 +106,13 @@ E.S.P. ability does not reveal the high percentage of psychic family
 connections given in these 8 subjects. The four of the poor E.S.P.
 subjects who have been asked have not been able to claim any parapsychic
 relatives; of course, this number is not regarded as large enough for a
-basis of judgment. <span id="fr_97"></span>[1](#fn_97)
+basis of judgment. <span id="fr_97"></span>[1](#fn_97.md)
 
 The very biological question of the comparative range of the E.S.P.
 capacity among the species does not enter into the work here reported,
 directly. This interesting question has, however, already its own
 literature. Our own work with the filly, reported in 1929 <span
-id="fr_98"></span>[2](#fn_98) has convinced us of the E.S.P. capacity in
+id="fr_98"></span>[2](#fn_98.md) has convinced us of the E.S.P. capacity in
 at least one horse and the work of Bechterew on telepathy in dogs seems
 quite satisfactory as reported. Further than this, I feel disinclined to
 venture. There are claims for telepathy in the more social animal
@@ -138,7 +138,7 @@ after months of experience at the work. Negative results are never
 final. It is impossible, with our present knowledge, to know if the
 conditions are adequate for judgment. But some small notion of the
 number of good E.S.P. subjects existing <span
-id="fr_99"></span>[1](#fn_99) may be gained from the facts on our own
+id="fr_99"></span>[1](#fn_99.md) may be gained from the facts on our own
 departmental students. Of the 14 graduate students in psychology present
 in the last two years, 6 have shown E.S.P. ability that is statistically
 significant. One other has been reported to have done work appreciably
@@ -174,7 +174,7 @@ preventing its functioning in the freer circumstances of daily life.
 Among the better subjects there is what may well be a kind of "species
 level". They mostly score on an average of between 8 and 11 per 25, both
 P.T. and P.C., if conditions are good. See column 3 of Table
-[XLII](esp21.htm#an_tab42). All 8 subjects do this, except when a
+[XLII](esp21.htm#an_tab42.md). All 8 subjects do this, except when a
 disturbing factor enters, as illness, drugs or a decline of E.S.P.
 capacity (as with Linzmayer and Stuart). If we take the total normal
 scores of the 8 major subjects (before they began to decline in the
@@ -272,7 +272,7 @@ per 25</p></td>
 
 </div>
 
-The averages shown in [Table XLII](esp21.htm#an_tab42) run remarkably
+The averages shown in [Table XLII](esp21.htm#an_tab42.md) run remarkably
 close together, in view of the wide range of differences to be expected
 in such a group or any other delicate or complex mental endowment. Any
 complicated task we could propose might be expected to show greater
@@ -328,9 +328,9 @@ is very discouraging to Linzmayer, and he has become more and more
 chagrined by his inability to return to his original level. This makes
 it still harder for him to "concentrate" and so the "vicious circle" of
 decline goes on. His "decline curve" is given in [Graph No.
-6](#img_gr06), representing the four periods of work he has gone
+6](#img_gr06.md), representing the four periods of work he has gone
 through, omitting the purposively planned low-scoring period mentioned.
-For the fuller data see [Table XII](esp12.htm#an_tab12) in Chapter 5.
+For the fuller data see [Table XII](esp12.htm#an_tab12.md) in Chapter 5.
 The averages per 25 trials dropped as follows: 9.9, 6.9, 6.8, 5.8.
 
 Stuart declined slowly over a long period of about a year, rose again
@@ -347,14 +347,14 @@ the next still lower. The decline, as shown by dividing the 7,500 into
 <span id="img_gr06"></span> <span align="CENTER"> [![Graph No. 6.
 Decline of E.S.P. ability in Linzmayer. The curve represents
 scoring-rate for 4 major periods of work.](tn/gr06.jpg)  
-Click to enlarge](img/gr06.jpg)  
+Click to enlarge](img/gr06.jpg.md)  
 Graph No. 6. Decline of E.S.P. ability in Linzmayer. The curve
 represents scoring-rate for 4 major periods of work.  
 </span>
 
 <span class="contnote">\[paragraph continues\]</span> 5 groups of 1,500
 runs each, is as follows, in averages per 25 trials: 7.1, 6.1, 5.7, 5.9,
-5.4. See [Graph No. 7](#img_gr07), A. On the return to scoring, while
+5.4. See [Graph No. 7](#img_gr07.md), A. On the return to scoring, while
 the graph shows the B curve starting higher than the A, Stuart really
 did not rise in the second period to the level of the original 500. 7.3
 was the highest he made for as many as 400 trials. For about the same
@@ -380,7 +380,7 @@ Decline of E.S.P. ability in Stuart. A, first period, 1931-32. B, second
 period, Summer, 1932. Average scoring-rate is shown for each period, in
 each case subdivided into five parts, by number of
 trials.](tn/gr07.jpg)  
-Click to enlarge](img/gr07.jpg)  
+Click to enlarge](img/gr07.jpg.md)  
 Graph No. 7. Decline of E.S.P. ability in Stuart. A, first period,
 1931-32. B, second period, Summer, 1932. Average scoring-rate is shown
 for each period, in each case subdivided into five parts, by number of
@@ -448,7 +448,7 @@ species.
 
 ### Footnotes
 
-<span id="fn_97"></span>[155:1](esp21.htm#fr_97) Another instance of
+<span id="fn_97"></span>[155:1](esp21.htm#fr_97.md) Another instance of
 relation between E.S.P. ability and general parapsychology has been
 found recently. Mr. Finan, another of our graduate assistants, stated to
 Mr. Stuart that he came from a "psychic" family. Stuart forthwith tested
@@ -456,14 +456,14 @@ him at B.T. and he scored 8. Finan asked to go to another room alone
 and, thus remote from the cards, he next got 12, a very unusual start.
 His later work has been poorer, but he still shows some E.S.P. ability.
 
-<span id="fn_98"></span>[155:2](esp21.htm#fr_98) See page
-[22](esp08.htm#page_22), Chapter 2.
+<span id="fn_98"></span>[155:2](esp21.htm#fr_98.md) See page
+[22](esp08.htm#page_22.md), Chapter 2.
 
-<span id="fn_99"></span>[156:1](esp21.htm#fr_99) I now have more
+<span id="fn_99"></span>[156:1](esp21.htm#fr_99.md) I now have more
 subjects than I can myself work with; the experimentation needs
 institutionalizing; *i.e.*, needs special endowment and special
 assistants. No one individual can manage it adequately.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 15. Summary and Concluding Remarks](esp22)
+[Next: Chapter 15. Summary and Concluding Remarks](esp22.md)

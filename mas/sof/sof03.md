@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof02)  [Next](sof04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof02)  [Next](sof04.md) 
 
 ------------------------------------------------------------------------
 
 <span id="01"></span>
 
-<span id="img_head01.png"></span> ![Header Chapter I.](img/head01.png)
+<span id="img_head01.png"></span> ![Header Chapter I.](img/head01.png.md)
 
 ## I.
 
@@ -355,4 +355,4 @@ preliminary to any true understanding of the symbolism of Freemasonry.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Noachidæ](sof04)
+[Next: II. The Noachidæ](sof04.md)

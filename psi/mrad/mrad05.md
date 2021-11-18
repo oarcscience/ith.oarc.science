@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad04)  [Next](mrad06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad04)  [Next](mrad06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -194,4 +194,4 @@ fail entirely to realize the telepathic aspects of the matter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](mrad06)
+[Next: Chapter V](mrad06.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](sou09)  [Next](sou11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](sou09)  [Next](sou11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -483,4 +483,4 @@ become the end, and the genuine problem of ends has been forgotten.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eight](sou11)
+[Next: Chapter Eight](sou11.md)

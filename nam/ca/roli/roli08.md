@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli07)  [Next](roli09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli07)  [Next](roli09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 ### THE CHUNGICHNISH CEREMONY OF UNISH MATAKISH.
 
 The sand-painting was used also in the ceremony of Unish Matakish, <span
-id="fr_37"></span>[34](#fn_34) the burying of the feathers of a
+id="fr_37"></span>[34](#fn_34.md) the burying of the feathers of a
 Chungichnish initiate.
 
 When a man died who had drunk toloache in his youth, if he still had in
@@ -35,7 +35,7 @@ rattlesnake is
 
 painted near the gap. Tukmul, the winnowing basket, is represented in
 the painting, too. It is Chungichnish. <span
-id="fr_38"></span>[35](#fn_35)
+id="fr_38"></span>[35](#fn_35.md)
 
 After everything is ready, the Paha calls out three times; and they come
 marching and singing a solemn recitative. The chief who made the
@@ -59,13 +59,13 @@ by Chungichnish himself.
 
 ### Footnotes
 
-<span id="fn_34"></span>[92:34](roli08.htm#fr_37) Yunish, burying of an
+<span id="fn_34"></span>[92:34](roli08.htm#fr_37.md) Yunish, burying of an
 initiate's ceremonial feathers; matakish, grinding stone.—S.
 
-<span id="fn_35"></span>[93:35](roli08.htm#fr_38) This description
+<span id="fn_35"></span>[93:35](roli08.htm#fr_38.md) This description
 evidently refers to the form of boys’ sand-painting given by Salvador
 Cuevas.
 
 ------------------------------------------------------------------------
 
-[Next: Wukunish, the Girls’ Ceremony](roli09)
+[Next: Wukunish, the Girls’ Ceremony](roli09.md)

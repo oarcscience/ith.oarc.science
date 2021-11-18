@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico044) 
-[Next](nico046) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico044.md) 
+[Next](nico046.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ mutilation, abuse, insult.
 ------------------------------------------------------------------------
 
 [Next: Chapter 3. Distributive justice, in accordance with geometrical
-proportion](nico046)
+proportion](nico046.md)

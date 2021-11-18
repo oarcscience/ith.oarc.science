@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl18)  [Next](hhl20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl18)  [Next](hhl20.md) 
 
 ------------------------------------------------------------------------
 
@@ -164,4 +164,4 @@ the famous eight. They live on the pages of history.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. The Red Mouth Gun](hhl20)
+[Next: XVI. The Red Mouth Gun](hhl20.md)

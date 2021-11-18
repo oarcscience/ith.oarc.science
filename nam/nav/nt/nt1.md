@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index) [Index](index) [Previous](nt0) [Next](nt2)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index) [Index](index) [Previous](nt0) [Next](nt2.md)
 
 ------------------------------------------------------------------------
 
@@ -544,7 +544,7 @@ grew large.
 
  He put the Pleiades in place, and then *atsεts’oz*, *hastin sαkk’ai*,
 *atsεtso yikaisdat*, *gaxat’e*, *naxokǫs biką*, *naxokos bi’adε*, and
-here put *bεkon*,<span id="page_137_fr_1"></span>[1](#page_137_note_1)
+here put *bεkon*,<span id="page_137_fr_1"></span>[1](#page_137_note_1.md)
 He placed Coyote’s star also. Then Coyote said, “These will <span
 id="page_138">p. 138</span> be my stars,” as he pulled out hairs from
 his head and blew them up.
@@ -974,7 +974,7 @@ were made.
 
 ------------------------------------------------------------------------
 
-[Next](nt2)
+[Next](nt2.md)
 
 ------------------------------------------------------------------------
 
@@ -982,7 +982,7 @@ were made.
 
 <span id="footnotes_page_137">p. 137</span>
 
-<span id="page_137_note_1"></span>[1](#page_137_fr_1) According to the
+<span id="page_137_note_1"></span>[1](#page_137_fr_1.md) According to the
 Franciscan Fathers, the following stars or constellations are meant:
 *atsεts’oz*, belt and sword of Orion; *xastin sakk’ai*, a square in
 Corvis; *atsεtso*, the fore part of Scorpion: *yik’aisdai* (perhaps

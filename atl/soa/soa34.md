@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa33)  [Next](soa35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa33)  [Next](soa35.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ forbidding its consumption.
 
 ------------------------------------------------------------------------
 
-[Next: Weapons](soa35)
+[Next: Weapons](soa35.md)

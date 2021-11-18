@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp07)  [Next](prp09) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp07)  [Next](prp09.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ I am weaponless.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Why laugh such laughter, O most silly maid?](prp09)
+[Next: 9. Why laugh such laughter, O most silly maid?](prp09.md)

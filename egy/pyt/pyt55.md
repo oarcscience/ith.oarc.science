@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt54)  [Next](pyt56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt54)  [Next](pyt56.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ sand (mugs) of beer, thy thousand of oxen, thy thousand of geese,
 ------------------------------------------------------------------------
 
 [Next: 53. Resurrection, Transfiguration, and Life of the King in
-Heaven, Utterance 676](pyt56)
+Heaven, Utterance 676](pyt56.md)

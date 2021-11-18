@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico078) 
-[Next](nico080) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico078.md) 
+[Next](nico080.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ man avoids these pleasures; for even he has pleasures of his own.
 ------------------------------------------------------------------------
 
 [Next: Chapter 13. Discussion of the view that pleasure is not the chief
-good](nico080)
+good](nico080.md)

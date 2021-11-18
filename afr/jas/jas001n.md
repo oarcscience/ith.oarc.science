@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas_11)  [Next](jas002n)   
- \[[1. Tying Tiger.](jas001)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas_11)  [Next](jas002n.md)   
+ \[[1. Tying Tiger.](jas001.md)\]
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ Barker, Smith, Milne-Home.
 
 ------------------------------------------------------------------------
 
-[Next: Note 2. Tiger as Substitute.](jas002n)
+[Next: Note 2. Tiger as Substitute.](jas002n.md)

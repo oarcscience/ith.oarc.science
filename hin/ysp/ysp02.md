@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](ysp01)  [Next](ysp03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](ysp01)  [Next](ysp03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P42UQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P42UQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Yoga Sutras of Patanjali*, by Charles Johnston, \[1912\], at
 Intangible Textual Heritage
 
@@ -544,4 +544,4 @@ unveiled vision, pure serene.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction to Book II](ysp03)
+[Next: Introduction to Book II](ysp03.md)

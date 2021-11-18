@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index) [Christianity](../index)
-[Pilgrim's Progress](../bunyan/index)  
-[Index](index) [Previous](chap09)
+[Intangible Textual Heritage](../../index) [Christianity](../index.md)
+[Pilgrim's Progress](../bunyan/index.md)  
+[Index](index) [Previous](chap09.md)
 
 ------------------------------------------------------------------------
 

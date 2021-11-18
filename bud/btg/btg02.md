@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg01)  [Next](btg03) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg01)  [Next](btg03.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ glad tidings!
 
 ------------------------------------------------------------------------
 
-[Next: Samsara And Nirvana](btg03)
+[Next: Samsara And Nirvana](btg03.md)

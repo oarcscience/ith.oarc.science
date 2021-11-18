@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft44)  [Next](ftft46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft44)  [Next](ftft46.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_351">p. 351</span>
 
-<span id="img_35100"></span> ![Astrology](img/35100.jpg)
+<span id="img_35100"></span> ![Astrology](img/35100.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a shepherd who had a wife and two sons. Every day the
 shepherd gathered together all the sheep of the neighbourhood and led
@@ -105,7 +105,7 @@ id="img_35300"></span>
 
 |                                                   |
 |---------------------------------------------------|
-| ![Mahomet turned upon him angrily](img/35300.jpg) |
+| ![Mahomet turned upon him angrily](img/35300.jpg.md) |
 
 It happened about this time that the Padishah had declared war upon his
 neighbour; but, as he had little money, gold was being collected on all
@@ -122,7 +122,7 @@ Padishah, which was accordingly done.<span id="img_35400"></span>
 
 |                                         |
 |-----------------------------------------|
-| ![He picked up the book](img/35400.jpg) |
+| ![He picked up the book](img/35400.jpg.md) |
 
 After much discussion it was further resolved that, as the new Padishah
 could neither read nor write, a hodja must be appointed to teach him. A
@@ -199,7 +199,7 @@ house.<span id="img_35600"></span>
 
 |                                                                   |
 |-------------------------------------------------------------------|
-| ![She handed a hundred gold pieces to her husband](img/35600.jpg) |
+| ![She handed a hundred gold pieces to her husband](img/35600.jpg.md) |
 
 Next day the woman handed a hundred gold pieces to her husband, saying:
 "Take this money and open a shop, but be sure to sell all the goods at
@@ -249,4 +249,4 @@ applied himself diligently to the study of reading and writing.
 
 ------------------------------------------------------------------------
 
-[Next: Kunterbunt](ftft46)
+[Next: Kunterbunt](ftft46.md)

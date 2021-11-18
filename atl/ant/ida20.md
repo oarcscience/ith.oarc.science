@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida19)  [Next](ida21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida19)  [Next](ida21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -313,7 +313,7 @@ his eyes were smiling; he looked at me.
 "Toward Idelès, to retake the route where you met the Captain and me," I
 said.
 
-[Ceghéir-ben-Cheikh](errata.htm#10) shook his head.
+[Ceghéir-ben-Cheikh](errata.htm#10.md) shook his head.
 
 "I thought as much," he murmured.
 
@@ -492,7 +492,7 @@ you go; and in one year, five, perhaps
 ten years, you will pass again through the corridor through which you
 have just come."
 
-"Be still, [Cegheir-ben-Cheikh](errata.htm#11)," said the trembling
+"Be still, [Cegheir-ben-Cheikh](errata.htm#11.md)," said the trembling
 voice of Tanit-Zerga.
 
 "Be still yourself, miserable little fly," said Cegheir-ben-Cheikh.
@@ -546,4 +546,4 @@ I heard his voice replying in the distance:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. The Tanezruft](ida21)
+[Next: Chapter XIX. The Tanezruft](ida21.md)

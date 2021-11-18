@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah45)  [Next](oah47) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah45)  [Next](oah47.md) 
 
 ------------------------------------------------------------------------
 
@@ -184,4 +184,4 @@ mortals.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](oah47)
+[Next: Chapter IV](oah47.md)

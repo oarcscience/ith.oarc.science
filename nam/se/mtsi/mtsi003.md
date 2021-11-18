@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi002)  [Next](mtsi004) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi002)  [Next](mtsi004.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ squirrels.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Bead-Spitter And Thrown-Away](mtsi004)
+[Next: 2. Bead-Spitter And Thrown-Away](mtsi004.md)

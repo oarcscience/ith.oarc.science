@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww05)  [Next](lww07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww05)  [Next](lww07.md) 
 
 ------------------------------------------------------------------------
 
@@ -231,4 +231,4 @@ we can renew the subject."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII--Oolanga](lww07)
+[Next: Chapter VII--Oolanga](lww07.md)

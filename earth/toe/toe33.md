@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe32)  [Next](toe34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe32)  [Next](toe34.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,7 +204,7 @@ Alps.
 This author has taken much pains to form, to himself a proper idea of
 the object which we have now in view; and he gives a description of the
 Mont-Blanc as seen from the top of the Cramont. It is that description
-which I am now to transcribe <span id="fr_67"></span>[17](#fn_67).
+which I am now to transcribe <span id="fr_67"></span>[17](#fn_67.md).
 
 § 910. «Le premier objet de mon étude fut le Mont Blanc. Il se présente
 ici de la maniere la plus brillante et la plus commode pour
@@ -610,7 +610,7 @@ feuilletée, cependant la quantité de quartz et de feldspath qui entrent
 dans sa composition, son extrême dureté, le peu de disposition qu'elle a
 à se fondre dans le sens de ses feuillets, la placent, sinon pour le
 nomenclateur, du moins pour le naturaliste, dans la classe des vrais
-granits <span id="fr_68"></span>[18](#fn_68); et le parfait parallélisme
+granits <span id="fr_68"></span>[18](#fn_68.md); et le parfait parallélisme
 de ces feuillets avec les faces des grandes tables, ou des grandes
 divisions du rocher, démontre que ces tables sont des couches, et non
 des parties séparées par des fissures accidentelles.»
@@ -736,7 +736,7 @@ the sea) that is not to be actually perceived, although it is only
 the effect of time which has no end.
 
 The summit of the granite pyramids of Mont-Blanc, the summit of the
-Breven, that of the Saleve <span id="fr_69"></span>[19](#fn_69), and of
+Breven, that of the Saleve <span id="fr_69"></span>[19](#fn_69.md), and of
 every little hillock upon the surface of the earth, attest this truth,
 that there is no other natural means by which this end may be attained.
 It is true, indeed, that geologists every where imagine to themselves
@@ -769,10 +769,10 @@ which the ablution of so much wasted mountain might require.
 
 ### Footnotes
 
-<span id="fn_67"></span>[v2:17](toe33.htm#fr_67) Voyage dans les Alpes,
+<span id="fn_67"></span>[v2:17](toe33.htm#fr_67.md) Voyage dans les Alpes,
 tom. 2.
 
-<span id="fn_68"></span>[v2:18](toe33.htm#fr_68) «La dénomination de
+<span id="fn_68"></span>[v2:18](toe33.htm#fr_68.md) «La dénomination de
 *granit veiné* que j'ai, à ce que je crois, employée le premier, a paru
 très-heureuse à quelques naturalistes, et a, au contraire,
 souverainement déplu à quelques autres. Un de ces derniers prétend que
@@ -794,9 +794,9 @@ qu'en un mot elle est au granit proprement dit, ce qu'une pierre
 calcaire feuilletée est à une pierre calcaire dans laquelle on ne
 distingue point de feuillets.»
 
-<span id="fn_69"></span>[v2:19](toe33.htm#fr_69) See Part II. chap. 30.
+<span id="fn_69"></span>[v2:19](toe33.htm#fr_69.md) See Part II. chap. 30.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter X. The Theory illustrated with a view of the Valleys of
-the Alps](toe34)
+the Alps](toe34.md)

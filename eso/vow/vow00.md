@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index)  [Next](vow01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index)  [Next](vow01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ HERMES MERCURIUS TRISMEGISTUS
 
 <span id="img_front"></span> <span align="CENTER"> [![Frontispiece:
 Ephesian Artemis](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
   
 </span>
 
@@ -68,10 +68,10 @@ because it was published prior to 1923.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Contents](vow01)
+[Next: Contents](vow01.md)

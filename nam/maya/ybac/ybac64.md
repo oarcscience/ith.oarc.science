@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac63)  [Next](ybac65) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac63)  [Next](ybac65.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -117,7 +117,7 @@ Yucatan.
 
 We are told that the peninsula of Yucatan at the coming of Cortés and
 Montejo was divided into nineteen independent Chiefdoms. <span
-id="fr_50"></span>[\*](#fn_50) It is with the purpose of giving what
+id="fr_50"></span>[\*](#fn_50.md) It is with the purpose of giving what
 picture we can of it as a native Maya realm when the List was issued and
 Landa arrived, and then when the Reports were made, and Landa died,
 leaving it a Spanish colony, that the data herein are summarized. The
@@ -142,7 +142,7 @@ commentary on the Map, as it was and is; about as we might read racial
 movements, animosities, wars, and history, around Dantzig and the Polish
 corridor, Memel, and what is left of Armenia. We shall thus seek to give
 a 'population picture,' of each native chiefdom <span
-id="fr_51"></span>[\*](#fn_50) in turn, as it was when Villalpando,
+id="fr_51"></span>[\*](#fn_50.md) in turn, as it was when Villalpando,
 Landa and then the Auditor Tomás López came, and then left it, pacified
 in the west, unpacified in the east, but 'reduced' in all senses of that
 word, in the east, north, west and south.
@@ -358,7 +358,7 @@ previous pages. The land was arable, not stony. giving two crops a year,
 with plantations of copal. Offshore are the famed fresh-water springs
 rising from the sea. The public buildings at Chauac-há were of stone,
 the private house, of strong wood, thatched. The Spanish reports agree
-in [allotting](errata.htm#7) high intelligence to these people of the
+in [allotting](errata.htm#7.md) high intelligence to these people of the
 coast regions, both Chauac-há and the Tazees, and as using "very correct
 language."
 
@@ -830,7 +830,7 @@ one grantee and another 360 to a second. After this our list reads Maní
 Xul far down in the sierra 630, and Cantemoy near Pew 310: a total of
 only 7290 for the whole district. Oxkutzcab does not appear in the list,
 but Pacheco tells us it had 1200 residents. <span
-id="fr_52"></span>[\*](#fn_51)
+id="fr_52"></span>[\*](#fn_51.md)
 
 Of specific information, Muñoz Zapata estimates the population (meaning
 certainly the family heads) when the taxes were levied, at 50,000, "now
@@ -880,7 +880,7 @@ one-time tax of 80 mantles to 10.
 
 In ’49 Samahil was taxed for 400; Ucú 250; Timucuy 160; Yabucú 130
 before the people were moved to Hunucmá; Tetis 210, and Caucel, the
-capital, 150. [Besides](errata.htm#8) these we have Acalaxán 250; Muca
+capital, 150. [Besides](errata.htm#8.md) these we have Acalaxán 250; Muca
 250, Aquimihil 150; Taubain 150; Atimzizibique 200, and Alinacama
 180—all lost names. Finally the first name on the ’49 List, Ayucalco,
 allotted to Montejo himself, and which from its size and tax of 860 we
@@ -940,7 +940,7 @@ territory.
 
 For the remaining chiefdoms on our list of seventeen districts, namely
 Tixchel, Chetumal and the country of the Guaymiles, and
-[finally](errata.htm#9) the independent kingdom of the Itzás, Tah-Itzá
+[finally](errata.htm#9.md) the independent kingdom of the Itzás, Tah-Itzá
 around Lake Petén, we have no data in either of our present sources. All
 this region has been left quite severely alone by the governmental
 authorities, and its Itzá-Mayas greatly feared by the border
@@ -952,7 +952,7 @@ recognized by definite convention at one time.
 
 ### Footnotes
 
-<span id="fn_50"></span>[140:\*](ybac64.htm#fr_51) We are using the word
+<span id="fn_50"></span>[140:\*](ybac64.htm#fr_51.md) We are using the word
 'Chiefdom' as most nearly descriptive here. They were essentially, after
 the fall of Mayapán, like the independent city states of Italy, or the
 seigneuries of France, or again like Athens and Sparta. They were
@@ -965,7 +965,7 @@ established polity, code of laws, and customs; also with far-reaching
 trade relationships. As a term for the *territorial* divisions so
 covered and ruled, the term Chiefdom thus seems best fitting.
 
-<span id="fn_51"></span>[154:\*](ybac64.htm#fr_52) The following
+<span id="fn_51"></span>[154:\*](ybac64.htm#fr_52.md) The following
 paragraphs from the elder Montejo's instructions, given to his son, in
 Chiapas, in 1540, probably throw light on this:
 
@@ -985,4 +985,4 @@ thereto, and the town of Champotón with all attached thereto."
 
 ------------------------------------------------------------------------
 
-[Next: The Ordinances of Tomás López](ybac65)
+[Next: The Ordinances of Tomás López](ybac65.md)

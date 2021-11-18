@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt40)  [Next](egt42) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt40)  [Next](egt42.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ wilt forthwith see thyself drowning in the sea of thy shame.
 ------------------------------------------------------------------------
 
 [Next: CONCERNING HIS BENEFICENCE,--AND VERILY HE IS THE PROVIDER OF
-PROVISIONS.](egt42)
+PROVISIONS.](egt42.md)

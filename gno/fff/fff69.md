@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff68)  [Next](fff70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff68)  [Next](fff70.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -548,7 +548,7 @@ manifestation no man can comprehend.
 hidden worlds, Thou only Light and Life; Thou the only invisible,
 ineffable, unstainable, invincible; Thou alone prior to all existence!
 Hear our prayer, with which we pray Him who is hid in all places; Hear
-us and send us spirits [incorporeal](errata.htm#44), that they may dwell
+us and send us spirits [incorporeal](errata.htm#44.md), that they may dwell
 with us and teach us of those things that Thou hast promised us; that
 they abide in us and we may be bodies for them. For Thy will is this,
 that this may be; may it be! Give law to our work and establish it,
@@ -622,4 +622,4 @@ beauty, until the MS. breaks off suddenly in the middle of a sentence.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Contents of the Bruce and Askew Codices](fff70)
+[Next: Notes on the Contents of the Bruce and Askew Codices](fff70.md)

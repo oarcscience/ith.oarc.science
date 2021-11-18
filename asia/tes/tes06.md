@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes05)  [Next](tes07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes05)  [Next](tes07.md) 
 
 ------------------------------------------------------------------------
 
-### 3. (TALE ABOUT THE SEA-SPIRIT.) <span id="fr_5"></span>[1](#fn_5)
+### 3. (TALE ABOUT THE SEA-SPIRIT.) <span id="fr_5"></span>[1](#fn_5.md)
 
 There was a small river that flowed into the sea. Some Tungus lived at
 the mouth of the river, and caught fish. One time they came to the sea
@@ -93,7 +93,7 @@ the Kolyma country, winter of 1895.
 
 ### Footnotes
 
-<span id="fn_5"></span>[12:1](tes06.htm#fr_5) This story represents a
+<span id="fn_5"></span>[12:1](tes06.htm#fr_5.md) This story represents a
 Tundra Yukaghir version of the well-known tale of the dragon and the
 young princess.--W. B.--Bolte und Polívka, *l. c.*, vol. 1, 547; E.
 Cosquin, *Contes populaires de Lorraine*, vol. 1, 66, and vol. 2,
@@ -101,4 +101,4 @@ Cosquin, *Contes populaires de Lorraine*, vol. 1, 66, and vol. 2,
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Sly Young Man](tes07)
+[Next: 4. The Sly Young Man](tes07.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat24)  [Next](flat26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat24)  [Next](flat26.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ fairly out of the grief; and it was the drink that killed him, they say.
 
 ------------------------------------------------------------------------
 
-[Next: The Enchanted Lake](flat26)
+[Next: The Enchanted Lake](flat26.md)

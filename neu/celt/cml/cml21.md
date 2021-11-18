@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml20)  [Next](cml22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml20)  [Next](cml22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ gods begin. The first of the Four Branches of the Mabinogi tell us how
 written to explain how the same person could be at once a mere mortal
 prince, however legendary, and a ruler in the mystic Other World, and so
 to reconcile two conflicting traditions. <span
-id="fr_329"></span>[1](#fn_329) But to an earlier age than that in which
+id="fr_329"></span>[1](#fn_329.md) But to an earlier age than that in which
 the legend was put into a literary shape, such forced reconciliation
 would not have been needed; for the two legends would not have been
 considered to conflict. When Pwyll, head of Annwn, was a mythic person
@@ -42,12 +42,12 @@ frontier was crossed, and Dyfed entered and traversed, and found to be
 not so unlike other countries. Its inhabitants, if not of Celtic race,
 were yet of flesh and blood. So that, though the province still
 continued to bear to a late date the names of the "Land of Illusion" and
-the "Realm of Glamour", <span id="fr_330"></span>[1](#fn_330) it was no
+the "Realm of Glamour", <span id="fr_330"></span>[1](#fn_330.md) it was no
 longer deemed to be Hades itself. That fitful and shadowy country had
 folded its tents, and departed over or under seas.
 
 The story of "Pwyll, Prince of Dyfed", <span
-id="fr_331"></span>[2](#fn_331) tells us how there was war in Annwn
+id="fr_331"></span>[2](#fn_331.md) tells us how there was war in Annwn
 between its two kings--or between two, perhaps, of its many chieftains.
 Arawn ("Silver-Tongue") and Havgan ("Summer-White") each coveted the
 dominions of the other. In the continual contests between them, Arawn
@@ -133,7 +133,7 @@ longer called Prince of Dyfed, but *Pen Annwn*, "the Head of Hades".
 The second mythological incident in the Mabinogi of Pwyll, Prince of
 Dyfed, tells how the Head of Hades won his wife, Rhiannon, thought by
 Professor Rhys to have been a goddess either of the dawn or of the
-moon. <span id="fr_332"></span>[1](#fn_332) There was a mound outside
+moon. <span id="fr_332"></span>[1](#fn_332.md) There was a mound outside
 Pwyll's palace at Narberth which had a magical quality. To anyone who
 sat upon it there happened one of two things: either he received wounds
 and blows, or else he saw a wonder. One day, it occurred to Pwyll that
@@ -230,7 +230,7 @@ healed.
 
 This country of Gwawl's was, no doubt, the sky; for he was evidently a
 sun-god. His name bewrays him; for the meaning of "Gwawl" is
-"light". <span id="fr_333"></span>[1](#fn_333) It
+"light". <span id="fr_333"></span>[1](#fn_333.md) It
 
 <span id="page_286">p. 286</span>
 
@@ -302,7 +302,7 @@ Rhiannon.
 As soon as everyone in the palace saw the boy, they admitted that he
 must be Pwyll's son. So they adopted him with delight; and Pendaran
 Dyfed, the head druid of the kingdom, gave him a new name. He called him
-"Pryderi <span id="fr_334"></span>[1](#fn_334)", meaning "trouble", from
+"Pryderi <span id="fr_334"></span>[1](#fn_334.md)", meaning "trouble", from
 the first word that his mother had uttered when he was restored to her.
 For she had said: "*Trouble* is, indeed, at an end for me, if this be
 true".
@@ -311,28 +311,28 @@ true".
 
 ### Footnotes
 
-<span id="fn_329"></span>[278:1](cml21.htm#fr_329) Rhys. *Studies in the
+<span id="fn_329"></span>[278:1](cml21.htm#fr_329.md) Rhys. *Studies in the
 Arthurian Legend*, p. 282.
 
-<span id="fn_330"></span>[279:1](cml21.htm#fr_330) It is constantly
+<span id="fn_330"></span>[279:1](cml21.htm#fr_330.md) It is constantly
 so-called by the fourteenth-century Welsh poet, Dafydd ab Gwilym, so
 much admired by George Borrow.
 
-<span id="fn_331"></span>[279:2](cml21.htm#fr_331) This chapter is
+<span id="fn_331"></span>[279:2](cml21.htm#fr_331.md) This chapter is
 retold from Lady Guest's translation of the Mabinogi of *Pwyll, Prince
 of Dyfed*.
 
-<span id="fn_332"></span>[282:1](cml21.htm#fr_332) Rhys: *Hibbert
+<span id="fn_332"></span>[282:1](cml21.htm#fr_332.md) Rhys: *Hibbert
 Lectures*, p. 678.
 
-<span id="fn_333"></span>[285:1](cml21.htm#fr_333) Rhys: *Hibbert
+<span id="fn_333"></span>[285:1](cml21.htm#fr_333.md) Rhys: *Hibbert
 Lectures*, p. 123 and note. Clûd was probably the goddess of the River
 Clyde. See Rhys: *Arthurian Legend*, p. 294.
 
-<span id="fn_334"></span>[288:1](cml21.htm#fr_334) Pronounced
+<span id="fn_334"></span>[288:1](cml21.htm#fr_334.md) Pronounced
 *Pridairy*.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XVIII. The Wooing of Branwen and the Beheading of
-Brân](cml22)
+Brân](cml22.md)

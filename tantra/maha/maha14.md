@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha13) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha13.md) 
 
 ------------------------------------------------------------------------
 

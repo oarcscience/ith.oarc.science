@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar57)  [Next](gar59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar57)  [Next](gar59.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ nothing but an *accidental* circumstance belonging to their first
 establishment. It was in the Common Hall of the Loudon Guild of the
 Freemasons (the trade) that their first meetings were held, under
 Christopher Wren for president, in the time of the Commonwealth. <span
-id="fr_234"></span>[\*](#fn_232) Their real object was political--the
+id="fr_234"></span>[\*](#fn_232.md) Their real object was political--the
 restoration of Monarchy--hence the exclusion of the public, and the oath
 of secrecy enjoined upon the members. The pretence of promoting the
 study of architecture, and the choice of the place where to hold their
@@ -69,11 +69,11 @@ Bourbon and Este lines; and thus in our own times *Carbonaro* and
 
 ### Footnotes
 
-<span id="fn_232"></span>[391:\*](gar58.htm#fr_234) In April, 1616, when
+<span id="fn_232"></span>[391:\*](gar58.htm#fr_234.md) In April, 1616, when
 Ashmole was admitted member. Others named as present on that occasion
 were Lilly the astrologer, Dr. Pearson, the two Whartons, Hewitt, and
 Oughtred the mathematician.
 
 ------------------------------------------------------------------------
 
-[Next: The Rosicrucians](gar59)
+[Next: The Rosicrucians](gar59.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](str00)  [Next](str02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](str00)  [Next](str02.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stonehenge, A Temple Restor'd to the British Druids*, by William
 Stukeley, \[1740\], at Intangible Textual Heritage
 
@@ -86,4 +86,4 @@ William Stukeley.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](str02)
+[Next: Preface](str02.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv24)  [Next](ogv26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv24)  [Next](ogv26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ air belonging to the human understanding, in order to put it in a
 condition to receive an edifice less barbarous, remarked, that one would
 never attain to establishing there the foundation of true science, if
 one did not first labour to set aside prejudices. <span
-id="fr_414"></span>[c](#fn_413) He displayed all his forces against
+id="fr_414"></span>[c](#fn_413.md) He displayed all his forces against
 these formidable enemies of human perfectibility, and if he did not
 overthrow them all, at least he indicated them in such a manner as to
 make it easier to recognize and destroy them. The prejudices which
@@ -46,11 +46,11 @@ and the idols of theories. The first are inherent in human nature; the
 second are those of each individual; the third result from the equivocal
 definitions attached to words; the fourth and the most numerous are
 those that man receives from his teachers and from the doctrines which
-are current. <span id="fr_415"></span>[a](#fn_414) The last are the most
+are current. <span id="fr_415"></span>[a](#fn_414.md) The last are the most
 tenacious and the most difficult to conquer. It seems even impossible
 wholly to resist them. The man who aspires to the perilous glory of
 improving the human mind, finds himself placed between two formidable
-dangers, which, like those of [Scylla](errata.htm#4) and Charybdis,
+dangers, which, like those of [Scylla](errata.htm#4.md) and Charybdis,
 threaten alternately to break his frail bark: upon one is irresistible
 routine, upon the other proud innovation. There is danger alike from
 both sides. He can save himself only by favour of the golden mean, so
@@ -62,12 +62,12 @@ it in the most important part of his doctrine, in that concerning human
 perfectibility. Imbued unknowingly with the prejudices of his nation, he
 has seen nothing beyond the doctrine of the ancients and has not
 believed that anything might be added thereunto! <span
-id="fr_416"></span>[b](#fn_415) Instead of pushing the mind of the
+id="fr_416"></span>[b](#fn_415.md) Instead of pushing the mind of the
 Chinese forward toward the goal where nature unceasingly tends, which is
 the perfection of all things, he has, on the contrary, thrown it
 backward and, inspiring it with a fanatical respect for works of the
 past, has prevented it from meditating upon anything great for the
-future. <span id="fr_417"></span>[c](#fn_416) Filial piety itself,
+future. <span id="fr_417"></span>[c](#fn_416.md) Filial piety itself,
 pushed, to excess changed to a blind imitation, has also augmented the
 evil. So that the greatest people of the world, the richest in
 principles of all kinds, not daring to draw from these same principles
@@ -89,24 +89,24 @@ extended his prejudice to everything that came from the ancients.
 Rejecting in a moment the labour of thirty centuries and the fruit of
 the meditation of the greatest geniuses, he has wished to admit nothing
 beyond what experience could confirm in his eyes. <span
-id="fr_418"></span>[a](#fn_417) Logic to him has seemed useless for the
-invention of the sciences. <span id="fr_419"></span>[b](#fn_418) He has
+id="fr_418"></span>[a](#fn_417.md) Logic to him has seemed useless for the
+invention of the sciences. <span id="fr_419"></span>[b](#fn_418.md) He has
 abandoned the syllogism, as an instrument too gross to penetrate the
-depths of nature. <span id="fr_420"></span>[c](#fn_419) He has thought
+depths of nature. <span id="fr_420"></span>[c](#fn_419.md) He has thought
 that it could be of no avail either in expression of words or in the
-ideas which flow from it. <span id="fr_421"></span>[d](#fn_420) He has
+ideas which flow from it. <span id="fr_421"></span>[d](#fn_420.md) He has
 believed the abstract principles deprived of all foundation; and with
 the same hand with which he fights these false ideas he has fought the
 results of these principles, in which he has unfortunately found much
-less resistance. <span id="fr_422"></span>[e](#fn_421) Filled with
+less resistance. <span id="fr_422"></span>[e](#fn_421.md) Filled with
 contempt for the philosophy of the Greeks, he has denied that it had
 produced anything either useful or good <span
-id="fr_423"></span>[f](#fn_422); so that after having banished the
+id="fr_423"></span>[f](#fn_422.md); so that after having banished the
 natural philosophy of Aristotle, which he called a jumble of dialectic
-terms, <span id="fr_424"></span>[g](#fn_423) he has seen in the
+terms, <span id="fr_424"></span>[g](#fn_423.md) he has seen in the
 metaphysics of Plato only a dangerous and depraved philosophy, and in
 the theosophy of Pythagoras only a gross and shocking
-superstition. <span id="fr_425"></span>[h](#fn_424) Here indeed is
+superstition. <span id="fr_425"></span>[h](#fn_424.md) Here indeed is
 
 <span id="page_180">p. 180</span>
 
@@ -165,7 +165,7 @@ that has preceded.
 
 The man who recognizes his dignity, says Hierocles, is incapable of
 being prejudiced or seduced by anything. <span
-id="fr_426"></span>[a](#fn_425) Temperance and force are the two
+id="fr_426"></span>[a](#fn_425.md) Temperance and force are the two
 incorruptible guardians of the soul: they prevent it from yielding to
 the allurements of things pleasing and being frightened by the horrors
 of things dreadful. Death suffered in a good cause is illustrious and
@@ -175,41 +175,41 @@ glorious.
 
 ### Footnotes
 
-<span id="fn_413"></span>[177:c](ogv25.htm#fr_414) Bacon, *Novum
+<span id="fn_413"></span>[177:c](ogv25.htm#fr_414.md) Bacon, *Novum
 Organum*.
 
-<span id="fn_414"></span>[178:a](ogv25.htm#fr_415) *Novum Organ.*,
+<span id="fn_414"></span>[178:a](ogv25.htm#fr_415.md) *Novum Organ.*,
 *Aphor*., 38 et seq.
 
-<span id="fn_415"></span>[178:b](ogv25.htm#fr_416) *Voyez* *La Vie de
+<span id="fn_415"></span>[178:b](ogv25.htm#fr_416.md) *Voyez* *La Vie de
 Kong-Tzée* et le *Ta-Hio*, cité dans les *Mém. concern. les Chinois*, t.
 i., p. 432.
 
-<span id="fn_416"></span>[178:c](ogv25.htm#fr_417) *Mém. concern. les
+<span id="fn_416"></span>[178:c](ogv25.htm#fr_417.md) *Mém. concern. les
 Chin.*, t. iv., p. 286.
 
-<span id="fn_417"></span>[179:a](ogv25.htm#fr_418) *Novum Organum in
+<span id="fn_417"></span>[179:a](ogv25.htm#fr_418.md) *Novum Organum in
 Præf. et Aph.*, 1.
 
-<span id="fn_418"></span>[179:b](ogv25.htm#fr_419) *Ibid*., Aph., 11.
+<span id="fn_418"></span>[179:b](ogv25.htm#fr_419.md) *Ibid*., Aph., 11.
 
-<span id="fn_419"></span>[179:c](ogv25.htm#fr_420) *Ibid*., Aph., 13.
+<span id="fn_419"></span>[179:c](ogv25.htm#fr_420.md) *Ibid*., Aph., 13.
 
-<span id="fn_420"></span>[179:d](ogv25.htm#fr_421) *Ibid*., Aph., 14 et
+<span id="fn_420"></span>[179:d](ogv25.htm#fr_421.md) *Ibid*., Aph., 14 et
 15.
 
-<span id="fn_421"></span>[179:e](ogv25.htm#fr_422) *Ibid*., Aph., 38 et
+<span id="fn_421"></span>[179:e](ogv25.htm#fr_422.md) *Ibid*., Aph., 38 et
 seq.
 
-<span id="fn_422"></span>[179:f](ogv25.htm#fr_423) *Novum Organum in
+<span id="fn_422"></span>[179:f](ogv25.htm#fr_423.md) *Novum Organum in
 Præf. et Aph.*, 73.
 
-<span id="fn_423"></span>[179:g](ogv25.htm#fr_424) *Ibid*., Aph., 63.
+<span id="fn_423"></span>[179:g](ogv25.htm#fr_424.md) *Ibid*., Aph., 63.
 
-<span id="fn_424"></span>[179:h](ogv25.htm#fr_425) *Ibid*., Aph., 65.
+<span id="fn_424"></span>[179:h](ogv25.htm#fr_425.md) *Ibid*., Aph., 65.
 
-<span id="fn_425"></span>[181:a](ogv25.htm#fr_426) *Aurea Carm.*, v. 25.
+<span id="fn_425"></span>[181:a](ogv25.htm#fr_426.md) *Aurea Carm.*, v. 25.
 
 ------------------------------------------------------------------------
 
-[Next: 15. Consult, Deliberate, and Freely Choose](ogv26)
+[Next: 15. Consult, Deliberate, and Freely Choose](ogv26.md)

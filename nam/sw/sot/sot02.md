@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](sot01)  [Next](sot03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](sot01)  [Next](sot03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Songs of the Tewa*, by Herbert Joseph Spinden, \[1933\], at Intangible
 Textual Heritage
 
@@ -51,6 +51,6 @@ THE PAST CHALLENGE THE VALIDITY OF OUR SOCIAL PURPOSES.
 
 ------------------------------------------------------------------------
 
-[Next: An Essay on American Indian Poetry](sot03)
+[Next: An Essay on American Indian Poetry](sot03.md)
 
 </div>

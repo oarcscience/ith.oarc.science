@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](nop11)  [Next](nop13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](nop11)  [Next](nop13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Numbers, Their Occult Power and Mystic Virtues*, by W. Wynn Westcott,
 \[1911\], at Intangible Textual Heritage
 
@@ -293,6 +293,6 @@ tibi scire satis; to which this Author adds,—sed Quod scis, nescis.
 
 ------------------------------------------------------------------------
 
-[Next: The Hexad. 6.](nop13)
+[Next: The Hexad. 6.](nop13.md)
 
 </div>

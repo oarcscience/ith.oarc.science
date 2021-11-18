@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah21)  [Next](oah23) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah21)  [Next](oah23.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ disappeared in heaven above.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](oah23)
+[Next: Chapter VII](oah23.md)

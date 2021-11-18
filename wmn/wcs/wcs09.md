@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wcs08)  [Next](wcs10) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wcs08)  [Next](wcs10.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,7 +146,7 @@ the statement that Milton would not allow his daughters to learn to
 write and it is quite certain that he did not permit them a knowledge of
 any language except the English, saying "one tongue is enough for a
 woman." Between Milton. and his family it is known there was tyranny
-upon one side, hatred upon the other.<span id="fr_1"></span>[1](#fn_1)
+upon one side, hatred upon the other.<span id="fr_1"></span>[1](#fn_1.md)
 
     The number of eminent Protestants both lay and clerical who have
 sanctioned polygamy has not been
@@ -189,7 +189,7 @@ American Board of Commissioners for Foreign Missions in the United
 States. Through a committee, of which the eminent Chancellor Walworth,
 of New York, was chairman, this body reported against instructing
 missionaries to exclude polygamists from the church. This report was.
-adopted without a dissenting voice.<span id="fr_2"></span>[2](#fn_2)
+adopted without a dissenting voice.<span id="fr_2"></span>[2](#fn_2.md)
 This discussion brought out some interesting facts having especial
 bearing upon the views of those churches which numbered polygamists
 among their communicants. It was shown that the secretaries of the board
@@ -198,7 +198,7 @@ entirely a frivolous question that even after it was especially brought
 to their notice they forbore to make inquiries, and even when
 polygamists had actually been admitted into the Mission churches, no
 taint of disapproval had been made by the Prudential Committee.<span
-id="fr_3"></span>[3](#fn_3) The whole subject was left to the decision
+id="fr_3"></span>[3](#fn_3.md) The whole subject was left to the decision
 of the missionaries themselves, one of whom published his views in the
 "Boston Recorder." After prevising that the Bible was their rule of
 faith, he asks:
@@ -268,7 +268,7 @@ United States and India within the present century; and we can readily
 understand why a gentleman from the New England states traveling in Utah
 said: "Mormonism seems a very devout sect of the Christian church,
 differing but little from the great body of Christian people.<span
-id="fr_4"></span>[4](#fn_4)" Nor is this judgment at all strange as we
+id="fr_4"></span>[4](#fn_4.md)" Nor is this judgment at all strange as we
 find polygamy endorsed by the majority of Christian sects. Nor can we be
 surprised that the Mormons of Utah and the adjoining states should look
 upon the opposition of the United States to their practice of polygamy,
@@ -318,7 +318,7 @@ declaration of their similarity to each other cannot be denied by the
 candid historian. Building upon the: same common foundation,
 acknowledging the same common origin, the doctrines of the two systems
 necessarily bear close resemblance to each other.<span
-id="fr_5"></span>[5](#fn_5) Under the Christian theory regarding woman,
+id="fr_5"></span>[5](#fn_5.md) Under the Christian theory regarding woman,
 her origin and her duties, it should not be regarded as at all strange
 that polygamy should find defenders in the christian world. Nor is it to
 be looked upon as at all as surprising that the Mormons, the most recent
@@ -342,7 +342,7 @@ Mormon church is more complex, in many respects it parallels that of the
 Presbyterians of Scotland during the early day of the Reformation,
 authority for woman's degradation in each case being derived from the
 Bible, the language in each instance being unfit for publication.<span
-id="fr_6"></span>[6](#fn_6)
+id="fr_6"></span>[6](#fn_6.md)
 
     An epistle of the First Presidency to the Church of Jesus Christ of
 Latter Day Saints, in General Conference, said:
@@ -432,7 +432,7 @@ certain of the Mormon brethren who attempted to rob them of their
 patrimony. The elders realizing the injury these women might do for the
 church, sent a couple of teachers to interview Dora, invoking her
 father's name to influence her dropping the suit<span
-id="fr_7"></span>[7](#fn_7) and return to the church. Dora had been
+id="fr_7"></span>[7](#fn_7.md) and return to the church. Dora had been
 aroused by a sense of the iniquity of the church, through hearing its
 elders declare upon oath that they knew nothing of polygamous marriage
 ceremonies being performed, while the same day of this denial no less
@@ -554,7 +554,7 @@ of religion, until after three weeks of such matrimonial life she
 escaped and among the "Gentiles" found rest and help. She speaks of
 polygamous wives as half-clad, poorly fed, toiling like serfs without
 hope under the chains of a religious despotism.<span
-id="fr_8"></span>[8](#fn_8) Mormon polygamy possesses the peculiar
+id="fr_8"></span>[8](#fn_8.md) Mormon polygamy possesses the peculiar
 feature of tracing the system of plural marriage to the gods; a father
 and mother god and goddess; a grandfather a grandmother god and goddess,
 and thus in constantly ascending scale; from these they claim the origin
@@ -564,7 +564,7 @@ he will become a god holding power and procreating children to all
 eternity. But should any Mormon, however pure his life, die unmarried,
 he has forever lost his opportunity of becoming a god, but remains
 simply an angel, a servant of the polygamous gods.<span
-id="fr_9"></span>[9](#fn_9) The belief is inculcated in woman, that to
+id="fr_9"></span>[9](#fn_9.md) The belief is inculcated in woman, that to
 her marriage is even more necessary than to man. Without marriage there
 is no resurrection for her, and thus believing polygamy a requisite for
 eternal salvation, thousands silently endure the woes of this condition.
@@ -633,7 +633,7 @@ of the belief, anything to do with our judgment of its believers."
 
     In furtherance of its plan for temporal power, the astuteness of the
 Mormon theocracy is shown in this doctrine of pre-existent spirits<span
-id="fr_10"></span>[10](#fn_10) continually waiting birth upon the earth.
+id="fr_10"></span>[10](#fn_10.md) continually waiting birth upon the earth.
 This together with its other theory of the superior power and godhood in
 a future life, of the father of numerous children, imposes the condition
 of continual motherhood upon Mormon wives.
@@ -699,7 +699,7 @@ foundation; all teach that sin entered the world through woman; all
 alike darken the understanding through such false teaching. The women of
 the Mormon church received their training under orthodox Christianity,
 which laid the foundation of their self contempt.<span
-id="fr_11"></span>[11](#fn_11) With the
+id="fr_11"></span>[11](#fn_11.md) With the
 
 <span id="page_421">p. 421</span>
 
@@ -920,7 +920,7 @@ territories. Under the plea of religious freedom the greatest dangers
 arise. While the Mormons affirm, in reference to polygamy that their
 church laws concern Mormons alone, no less do other theocracies
 inculcate doctrines contrary to civil law; the catholic church, its
-spirit to-day<span id="fr_12"></span>[12](#fn_12) the same as during
+spirit to-day<span id="fr_12"></span>[12](#fn_12.md) the same as during
 past ages,
 
 <span id="page_428">p. 428</span>
@@ -944,7 +944,7 @@ and the work of the "National Reform Association."
     The people of the United States with careless security in the power
 of the principles of freedom upon which the government is based, fail to
 note the theocratic encroachment everywhere threatened.<span
-id="fr_14"></span>[14](#fn_14) The
+id="fr_14"></span>[14](#fn_14.md) The
 
 <span id="page_429">p. 429</span>
 
@@ -1009,7 +1009,7 @@ she will open a new civilization to the world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Woman And Work.](wcs10)
+[Next: Chapter VIII. Woman And Work.](wcs10.md)
 
 ------------------------------------------------------------------------
 
@@ -1017,7 +1017,7 @@ she will open a new civilization to the world.
 
 <span id="fn_page_402">p. 402</span>  
 
-<span id="fn_1"></span>[1.](#fr_1)  Milton's oriental views of the
+<span id="fn_1"></span>[1.](#fr_1.md)  Milton's oriental views of the
 function of women led him not only to neglect but to prevent the
 education of his daughters. They were sent to no school at all, but were
 handed over to a school mistress in the house. He would not allow them
@@ -1042,21 +1042,21 @@ surprising.--*The Athenaeum*.
 
 <span id="fn_page_404">p. 404</span>  
 
-<span id="fn_2"></span>[2.](#fr_2)  *The Church as It Is*.--Parker
+<span id="fn_2"></span>[2.](#fr_2.md)  *The Church as It Is*.--Parker
 Pillsbury, pp. 32-3-4-5-6.
 
-<span id="fn_3"></span>[3.](#fr_3)  Report of the Proceedings of the
+<span id="fn_3"></span>[3.](#fr_3.md)  Report of the Proceedings of the
 Missionary Conference.--Mr. Perkins' speech.
 
 <span id="fn_page_406">p. 406</span>  
 
-<span id="fn_4"></span>[4.](#fr_4)  The same hymns are sung, the same
+<span id="fn_4"></span>[4.](#fr_4.md)  The same hymns are sung, the same
 doctrine preached, the same necessity for salvation emphasized, and
 justification by faith is made the corner stone of redemption.
 
 <span id="fn_page_408">p. 408</span>  
 
-<span id="fn_5"></span>[5.](#fr_5)  Historians have declared that
+<span id="fn_5"></span>[5.](#fr_5.md)  Historians have declared that
 "Nowhere did the spirit of Puritanism in its evil as well as its good,
 more thoroughly express itself than in Massachusetts and Rhode Island."
 Boston, for its atrocities was known as "The Bloody Town." "The
@@ -1066,12 +1066,12 @@ of intellectual truth in the New England States.
 
 <span id="fn_page_409">p. 409</span>  
 
-<span id="fn_6"></span>[6.](#fr_6)  The true character of Presbyterian
+<span id="fn_6"></span>[6.](#fr_6.md)  The true character of Presbyterian
 Pastors in Scotland in Time of Charles II.
 
 <span id="fn_page_412">p. 412</span>  
 
-<span id="fn_7"></span>[7.](#fr_7)  When her father's name was
+<span id="fn_7"></span>[7.](#fr_7.md)  When her father's name was
 mentioned, Dora said, "Don't speak to me of my father, Mr. Morris, you
 and the whole church know that my father, prophet though you call him,
 broke many a woman's heart. If it is required of me to break as many
@@ -1090,7 +1090,7 @@ Ocean*.
 
 <span id="fn_page_416">p. 416</span>  
 
-<span id="fn_8"></span>[8.](#fr_8)  A correspondent writing for an
+<span id="fn_8"></span>[8.](#fr_8.md)  A correspondent writing for an
 eastern paper from Salt Lake City, a few years since, said: "Of all the
 ill-conditioned, God-forsaken, hopeless looking people I ever saw, the
 women here beat them all. Yesterday was supply day for the Mormons
@@ -1104,15 +1104,15 @@ nursling babies, which he exhibited with all the pride I should take in
 a lot of fine horses. 1 never realized the infernal nature of the
 institution nor its effect upon society as I do now."
 
-<span id="fn_9"></span>[9.](#fr_9)  *Key to Theology*, by Parley Pratt.
+<span id="fn_9"></span>[9.](#fr_9.md)  *Key to Theology*, by Parley Pratt.
 
 <span id="fn_page_418">p. 418</span>  
 
-<span id="fn_10"></span>[10.](#fr_10)  *Ibid*.
+<span id="fn_10"></span>[10.](#fr_10.md)  *Ibid*.
 
 <span id="fn_page_420">p. 420</span>  
 
-<span id="fn_11"></span>[11.](#fr_11)  The following conversation took
+<span id="fn_11"></span>[11.](#fr_11.md)  The following conversation took
 place between a mistress and an Irish servant <span id="fn_page_421">p.
 421</span> girl: "Bridget, why are not women ever priests?" "Oh! they
 couldn't be; they're too wicked." "You don't believe such nonsense, do
@@ -1123,7 +1123,7 @@ first sinner; I learned it all in the catechism."
 
 <span id="fn_page_427">p. 427</span>  
 
-<span id="fn_12"></span>[12.](#fr_12)  In a recent Catholic Allocution,
+<span id="fn_12"></span>[12.](#fr_12.md)  In a recent Catholic Allocution,
 emanating from the dignitaries of that church on the Pacific Coast, it
 was said: "The church, like Christ, is the same yesterday, to-day and
 forever; it is the same here as in other parts of the world;--its sacred
@@ -1132,14 +1132,14 @@ there as in any other place."
 
 <span id="fn_page_428">p. 428</span>  
 
-<span id="fn_13"></span>[13.](#fr_13)  We do not, indeed, prize as
+<span id="fn_13"></span>[13.](#fr_13.md)  We do not, indeed, prize as
 highly as some of our countrymen appear to do the ability to read, write
 and cipher. Some men are born to be leaders, and the rest are born to be
 led. The best ordered and administered state is that in which the few
 are well educated and lead, and the many are trained to
 obedience.--"*Catholic Review*."
 
-<span id="fn_14"></span>[14.](#fr_14)  The Mormon faith belts Idaho,
+<span id="fn_14"></span>[14.](#fr_14.md)  The Mormon faith belts Idaho,
 Montana, Arizona, New Mexico, Nevada; Utah and Wyoming, a portion of the
 country that is wealthier than any other portion in its natural
 products. It is not simply in Utah that this power of Mormonism is

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc19)  [Next](esc21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc19)  [Next](esc21.md) 
 
 ------------------------------------------------------------------------
 
@@ -670,4 +670,4 @@ forever and ever.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture XIX. Signs of the Present Times](esc21)
+[Next: Lecture XIX. Signs of the Present Times](esc21.md)

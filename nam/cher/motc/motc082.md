@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc081) 
-[Next](motc083) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc081.md) 
+[Next](motc083.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ that they gathered up their guns and pouches and left the place.
 
 ------------------------------------------------------------------------
 
-[Next: 83. Tsuwe'nähï: A Legend Of Pilot Knob](motc083)
+[Next: 83. Tsuwe'nähï: A Legend Of Pilot Knob](motc083.md)

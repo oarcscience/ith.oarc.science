@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar214) [Next](gbar216)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar214) [Next](gbar216.md)
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ the company of angels blessing God for evermore.
 
 ------------------------------------------------------------------------
 
-[Next](gbar216)
+[Next](gbar216.md)

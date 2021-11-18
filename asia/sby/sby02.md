@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby01)  [Next](sby03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby01)  [Next](sby03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -45,8 +45,8 @@ descent of
 
 <span id="page_12">p. 12</span>
 
-the Lord upon the Black Mountain ([p. 32](sby06.htm#page_32)). *Al
-Jilwah* <span id="fr_0"></span>[1](#fn_0) is ascribed to Šeiḫ ‘Adî
+the Lord upon the Black Mountain ([p. 32](sby06.htm#page_32).md). *Al
+Jilwah* <span id="fr_0"></span>[1](#fn_0.md) is ascribed to Šeiḫ ‘Adî
 himself, and would accordingly date from the twelfth century A. D. It is
 divided into a brief introduction and five short chapters. In each, ‘Adî
 is represented as the speaker. In the Preface the Šeiḫ says that he
@@ -58,7 +58,7 @@ who disobey him; in the third he declares that he possesses the
 treasures of the earth; in the fourth he warns his followers of the
 doctrines of those that are without; and in the fifth he bids them keep
 his commandments and obey his servants, who will communicate to them his
-teachings. The *Black Book*, <span id="fr_1"></span>[2](#fn_1) which
+teachings. The *Black Book*, <span id="fr_1"></span>[2](#fn_1.md) which
 perhaps dates from the thirteenth century, is larger than the Book of
 Revelation, but is not divided into chapters. It begins with the
 narrative of creation: God finishes his work in seven days--Sunday to
@@ -99,7 +99,7 @@ hand is a translation from Syriac.
 
 The Yezidis, frequently called "Devil-Worshippers," are a small and
 obscure religious sect, numbering about 20,000. <span
-id="fr_2"></span>[3](#fn_2) They are scattered over a belt of territory
+id="fr_2"></span>[3](#fn_2.md) They are scattered over a belt of territory
 three hundred miles wide, extending in length from the neighborhood of
 Aleppo in northern Syria to the Caucasus in southern Russia. The mass of
 
@@ -128,7 +128,7 @@ from Ibn Ḫallikân's *Wafaiyât ‘al-Ayân* (bibliographical work). Of the
 second-hand sources of information may be mentioned *Les Yezidis*, by J.
 Menant (Paris, 1892), and the article by Victor Dingelstedt, "The
 Yezidis," in the *Scottish Geographical Magazine*, Vol. XIV, pp. 259
-ff. <span id="fr_3"></span>[4](#fn_3)
+ff. <span id="fr_3"></span>[4](#fn_3.md)
 
 <span id="page_15">p. 15</span>
 
@@ -214,25 +214,25 @@ wished to acquaint themselves with the Yezidi religion.
 The origin of the Yezidi sect has been the subject of much discussion,
 but no satisfactory solution of the problem has as yet been reached.
 There are those who assert that the Yezidis are the remains of the
-ancient Manichaeans; <span id="fr_4"></span>[5](#fn_4) others entertain
+ancient Manichaeans; <span id="fr_4"></span>[5](#fn_4.md) others entertain
 the view that the Yezidis were originally Christians, whom progressive
 ignorance has brought into their present
 
 <span id="page_18">p. 18</span>
 
-condition <span id="fr_5"></span>[6](#fn_5)--some even going so far as
+condition <span id="fr_5"></span>[6](#fn_5.md)--some even going so far as
 to connect the name "Yezidi" with "Jesus"! <span
-id="fr_6"></span>[7](#fn_6) Some think that the Yezidi sect takes its
+id="fr_6"></span>[7](#fn_6.md) Some think that the Yezidi sect takes its
 name from the Persian word *yazd*, 'god, or good spirit,' over against
-Ahriman, the evil principle; <span id="fr_7"></span>[8](#fn_7) while
+Ahriman, the evil principle; <span id="fr_7"></span>[8](#fn_7.md) while
 others associate it with *Yazd* or *Yezid*, a town in central Persia,
 the inhabitants of which are chiefly Parsees. <span
-id="fr_8"></span>[9](#fn_8) Some finally maintain that the sect was
-founded by Šeiḫ ‘Adî. <span id="fr_9"></span>[10](#fn_9)
+id="fr_8"></span>[9](#fn_8.md) Some finally maintain that the sect was
+founded by Šeiḫ ‘Adî. <span id="fr_9"></span>[10](#fn_9.md)
 
 The Yezidis themselves had a curious legend connecting the name with the
-Caliph Yezîd bn Mu‘âwiya <span id="fr_10"></span>[11](#fn_10) (see [p.
-37](sby11.htm#page_37)).
+Caliph Yezîd bn Mu‘âwiya <span id="fr_10"></span>[11](#fn_10.md) (see [p.
+37](sby11.htm#page_37).md).
 
 In a dissertation presented for the degree of Doctor of Philosophy in
 Harvard University I called attention to a statement of aš-Šahrastânî
@@ -246,34 +246,34 @@ and of the original affinities of the sect. The passage is as follows
 The Yezidis are the followers of Yezîd bn Unaisa, who kept friendship
 with the first Muhakkama, before the Azariḳa; he separated himself from
 those who followed after them with the exception of the Abadiyah <span
-id="fr_11"></span>[12](#fn_11) for with these he kept friendly. He
+id="fr_11"></span>[12](#fn_11.md) for with these he kept friendly. He
 believed that God would send an apostle from among the Persians, and
 would reveal to him a book that is already written in heaven, and would
 reveal the whole (book) to him at one time, <span
-id="fr_12"></span>[13](#fn_12) and as a result he would leave the
+id="fr_12"></span>[13](#fn_12.md) and as a result he would leave the
 religion of Mohammed, the Chosen One--
 
 <span id="page_19">p. 19</span>
 
 may God bless and save him!--and follow the religion of the Sabians
-mentioned in the Koran. <span id="fr_13"></span>[14](#fn_13) (These are
+mentioned in the Koran. <span id="fr_13"></span>[14](#fn_13.md) (These are
 not the Sabians who are found in Ḥarân and Wasit. <span
-id="fr_14"></span>[15](#fn_14)) But Yezîd associated himself with the
+id="fr_14"></span>[15](#fn_14).md) But Yezîd associated himself with the
 people of the Book who recognized the Chosen One as a prophet, even
 though they did not accept his (Mohammed's) religion. And he said that
 the followers of the ordinances are among those who agree with him; but
 that others are hiding the truth and give companions to God, and that
 every sin, small or great, is idolatry. <span
-id="fr_15"></span>[16](#fn_15)
+id="fr_15"></span>[16](#fn_15.md)
 
 The statement of Aš-Šahrastânî is so clear that it can bear no other
 interpretation than that the Yezidis were the followers of Yezîd bn
 Unaisa. He calls them his *’aṣḥâb*, that is, his followers, a term by
 which he designates the relation between a sect and its founder. <span
-id="fr_16"></span>[17](#fn_16) The statement comes from the pen of one
+id="fr_16"></span>[17](#fn_16.md) The statement comes from the pen of one
 who is considered of the highest authority among the Arab scholars on
 questions relating to philosophical and religious sects. <span
-id="fr_17"></span>[18](#fn_17) This precise definition of the position
+id="fr_17"></span>[18](#fn_17.md) This precise definition of the position
 of Yezîd bn Unaisa in the sectarian conflicts of the first century of
 Islam seems to show that he had exact information about him.
 
@@ -287,7 +287,7 @@ distinguish the author of this unorthodox prediction from
 <span id="page_20">p. 20</span>
 
 the well-known traditionist of the name--e. g., Tabari, I, 135. <span
-id="fr_18"></span>[19](#fn_18)
+id="fr_18"></span>[19](#fn_18.md)
 
 The prophecy was perhaps preserved among the leaders of the Abaḍiya,
 with which sect Yezîd bn Unaisa is associated Aš-Šahrastânî's statement,
@@ -296,46 +296,46 @@ doubtless derived from an older written source.
 
 Who is intended by the coming Persian prophet--if, indeed, any
 particular individual is meant--it is not possible to determine.
-Kremer <span id="fr_19"></span>[20](#fn_19) cannot be right in
+Kremer <span id="fr_19"></span>[20](#fn_19.md) cannot be right in
 identifying him with Šeiḫ ‘Adî, for the supposed prediction was in
 circulating a century or more before his time. He is said to have been,
 not a Persian, but a Syrian from Baalbek or elsewhere in the West; and
-both in Arabic authors <span id="fr_20"></span>[21](#fn_20) and in his
-own writings <span id="fr_21"></span>[22](#fn_21) he appears as a
+both in Arabic authors <span id="fr_20"></span>[21](#fn_20.md) and in his
+own writings <span id="fr_21"></span>[22](#fn_21.md) he appears as a
 Moslem, a Sufi saint in good standing. The Yezidis to this day await the
-appearance of the Persian prophet. <span id="fr_22"></span>[23](#fn_22)
+appearance of the Persian prophet. <span id="fr_22"></span>[23](#fn_22.md)
 
 On the basis of these scanty bits of fact, it appears that: The Yezidis
-were originally a Ḫarijite <span id="fr_23"></span>[24](#fn_23) subsect,
+were originally a Ḫarijite <span id="fr_23"></span>[24](#fn_23.md) subsect,
 akin to the Abadiya, bearing the name of their founder, Yezîd bn Unaisa.
 Certain distinctive Ḫarijite peculiarities seem indeed to have outlived
 among them the common faith of Islam; such as the tolerant judgment of
 Jews and Christians; the condemnation of every sin as implicit idolatry.
 In their new seats in Kurdistan, whither they migrated about the end of
-the fourteenth century <span id="fr_24"></span>[25](#fn_24) they were
+the fourteenth century <span id="fr_24"></span>[25](#fn_24.md) they were
 drawn into the movement of which Šeiḫ ‘Adî was in his life time the
 
 <span id="page_21">p. 21</span>
 
 leader and after his death the saint, and ended by making of him the
 incarnation of God in the present age. <span
-id="fr_25"></span>[26](#fn_25) With this they joined elements drawn from
-Christianity, <span id="fr_26"></span>[27](#fn_26) with here and there a
+id="fr_25"></span>[26](#fn_25.md) With this they joined elements drawn from
+Christianity, <span id="fr_26"></span>[27](#fn_26.md) with here and there a
 trace of Judaism, and with large survivals of the persistent old Semitic
 heathenism, many of which they share with their neighbors of all creeds.
 
-Difficult problems, <span id="fr_27"></span>[28](#fn_27) however, remain
+Difficult problems, <span id="fr_27"></span>[28](#fn_27.md) however, remain
 unsolved, especially the origin and nature of the worship of Melek
-Ṭâ'ûs. <span id="fr_28"></span>[29](#fn_28) The certain thing is that
+Ṭâ'ûs. <span id="fr_28"></span>[29](#fn_28.md) The certain thing is that
 the actual religion of the Yezidis is a syncretism, to which Moslem,
 Christian (heretical, rather than orthodox), pagan, and perhaps also
-Persian religions have contributed. <span id="fr_29"></span>[30](#fn_29)
+Persian religions have contributed. <span id="fr_29"></span>[30](#fn_29.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[12:1](sby02.htm#fr_0) <span id="page_22">p.
+<span id="fn_0"></span>[12:1](sby02.htm#fr_0.md) <span id="page_22">p.
 22</span> Al-Jilwah is said to have been written in 158 A. H., by Šeiḫ
 Faḫr-ad-Dîn, the secretary of Šeiḫ ‘Adî, at the dictation of the latter.
 The original copy, wrapped in linen and silk wrappings, is kept in the
@@ -343,76 +343,76 @@ house of Mulla Ḥaidar, of Baadrie. Twice a year the book is taken to
 Šeiḫ ‘Adî's shrine. (Letter from Šammas Jeremia Šamir to Mr. A. N.
 Andrus, of Mardin, dated October 28, 1892.)
 
-<span id="fn_1"></span>[12:2](sby02.htm#fr_1) The Black Book is said to
+<span id="fn_1"></span>[12:2](sby02.htm#fr_1.md) The Black Book is said to
 have been written by a certain Ḥasan al-Baṣrî, in 743 A. H. The original
 copy is kept in the house of Kehyah (chief) ‘Ali, of Kasr ‘Az-ad-Dîn,
 one hour west of Semale, a village east of Tigris. The book rests upon a
 throne, having over it a thin covering of red broadcloth, of linen, and
 other wrappings. Then is disclosed the binding, which is of wood.
 
-<span id="fn_2"></span>[13:3](sby02.htm#fr_2) The exact number of the
+<span id="fn_2"></span>[13:3](sby02.htm#fr_2.md) The exact number of the
 Yezidis is unknown. See also Société de Géographie de l’Est, *Bulletin*,
 1903, p. 284; Al Mašriḳ, II, 834.
 
-<span id="fn_3"></span>[14:4](sby02.htm#fr_3) For a fuller account of
+<span id="fn_3"></span>[14:4](sby02.htm#fr_3.md) For a fuller account of
 the literature on the Yezidis, consult J. Menant, *Les Yézidis*, and
 Paul Perdrizet, Société de Géographie de l’Est, *Bulletin*, 1903 pp. 281
 ff.
 
-<span id="fn_4"></span>[17:5](sby02.htm#fr_4) Société de Géographie de
+<span id="fn_4"></span>[17:5](sby02.htm#fr_4.md) Société de Géographie de
 l’Est, *Bulletin*, 1903, p. 297.
 
-<span id="fn_5"></span>[18:6](sby02.htm#fr_5) Fraser, *Mesopotamia and
+<span id="fn_5"></span>[18:6](sby02.htm#fr_5.md) Fraser, *Mesopotamia and
 Persia*, pp. 285, 287; Rich, *Residence in Kurdistan*, II, 69; *Al
 Mašriḳ*, II, .396; Badger, *The Nestorians and their Rituals*, I: 111;
 Assemani, *Bibliotheca Orientalis*, III, 439.
 
-<span id="fn_6"></span>[18:7](sby02.htm#fr_6) <span id="page_23">p.
+<span id="fn_6"></span>[18:7](sby02.htm#fr_6.md) <span id="page_23">p.
 23</span> Michel Febvre, *Theatre de la Turquie*, p. 364; Société de
 Géographie de l’Est, *Bulletin*, 1903, pp. 299, 301; cf. also J. Menant,
 *Les Yézidis*, pp. 52, 86, 132.
 
-<span id="fn_7"></span>[18:8](sby02.htm#fr_7) Oppenheim, *Vom Mittelmeer
+<span id="fn_7"></span>[18:8](sby02.htm#fr_7.md) Oppenheim, *Vom Mittelmeer
 sum persischen Golf*, 1900, II, 148; Victor Dingelstedt, *Scottish
 Geographical Magazine*, XIV, 295; Southgate, *A Tour through Armenia*,
 II, 317; A. V. Williams Jackson, "Yezidis," in the *New International
 Encyclopedia*, XVII, 939; Perdrizet, loc. cit., p. 299.
 
-<span id="fn_8"></span>[18:9](sby02.htm#fr_8) A. V. Williams Jackson,
+<span id="fn_8"></span>[18:9](sby02.htm#fr_8.md) A. V. Williams Jackson,
 *Persia Past and Present*, p. 10, *New International Encyclopedia*,
 "Yezidis;" Perdrizet, loc. cit.
 
-<span id="fn_9"></span>[18:10](sby02.htm#fr_9) Dingelstedt, loc. cit.;
+<span id="fn_9"></span>[18:10](sby02.htm#fr_9.md) Dingelstedt, loc. cit.;
 *Revue de l’Orient Chrétien*, I, "Kurdistan."
 
-<span id="fn_10"></span>[18:11](sby02.htm#fr_10) Société de Géographie
+<span id="fn_10"></span>[18:11](sby02.htm#fr_10.md) Société de Géographie
 de l’Est, loc. cit.; *Encyclopedia of Missions*, "Yezidis"; A. V.
 Williams Jackson, loc. cit.
 
-<span id="fn_11"></span>[18:12](sby02.htm#fr_11) On these sects consult
+<span id="fn_11"></span>[18:12](sby02.htm#fr_11.md) On these sects consult
 Aš-Šahrastânî, I, 86, 89, 100.
 
-<span id="fn_12"></span>[18:13](sby02.htm#fr_12) Not like Mohammed, to
+<span id="fn_12"></span>[18:13](sby02.htm#fr_12.md) Not like Mohammed, to
 whom, according to Moslem belief, the Koran was revealed at intervals.
 
-<span id="fn_13"></span>[19:14](sby02.htm#fr_13) On the Ṣabians of the
+<span id="fn_13"></span>[19:14](sby02.htm#fr_13.md) On the Ṣabians of the
 Koran, see Baiḍâwi and Zamaḫšari on *Suras* 2, 59; 5, 73; 22, 17.
 
-<span id="fn_14"></span>[19:15](sby02.htm#fr_14) On the Ṣabians of
+<span id="fn_14"></span>[19:15](sby02.htm#fr_14.md) On the Ṣabians of
 Ḥarrân, see Fihrist, p. 190; on the Ṣabians in general consult
 Aš-Šahrastânî, II, 203; on the location of Ḥarrân and Wasit, see Yaḳût,
 II, 331, and IV, 881.
 
-<span id="fn_15"></span>[19:16](sby02.htm#fr_15) To get more particular
+<span id="fn_15"></span>[19:16](sby02.htm#fr_15.md) To get more particular
 information in regard to Yezîd bn Unaisa, I wrote to Mosul, Bagdad, and
 Cairo, the three centers of Mohammedan learning, and strange to say,
 none could throw any light on the subject.
 
-<span id="fn_16"></span>[19:17](sby02.htm#fr_16) Al-Hara<u>t</u>iyah he
+<span id="fn_16"></span>[19:17](sby02.htm#fr_16.md) Al-Hara<u>t</u>iyah he
 describes as Aṣhâb Al-Ḥareṭ (I, 101), al-Ḥafaziyah, Aṣḥâb Ḥafez
 (*ibid*.), etc.
 
-<span id="fn_17"></span>[19:18](sby02.htm#fr_17) <span id="page_24">p.
+<span id="fn_17"></span>[19:18](sby02.htm#fr_17.md) <span id="page_24">p.
 24</span> Ibn Ḫallikân says: " Aš-Šahrastânî, a dogmatic theologian of
 the Ašarite sect, was distinguished as an Imâm and a doctor of the law.
 He displayed the highest abilities as a jurisconsult. The *Kitâb
@@ -420,39 +420,39 @@ al-Milal wan-Nihal* (this is the book in which Al-Šahrastânî traces the
 Yezidi sect to Yezîd bn Unaisa) is one of his works on scholastic
 theology. He remained without an equal in that branch of science."
 
-<span id="fn_18"></span>[20:19](sby02.htm#fr_18) It is to be noticed
+<span id="fn_18"></span>[20:19](sby02.htm#fr_18.md) It is to be noticed
 also that the name "Unaisa" is very common among the Arabs; cf. Ibn
 Sa‘ad (ed. Sachau), III, 154, 260, 264, 265, 281, 283, 287, 289; Musnad,
 VI, 434; Mishkat, 22, 724.
 
-<span id="fn_19"></span>[20:20](sby02.htm#fr_19) *Geschichte der
+<span id="fn_19"></span>[20:20](sby02.htm#fr_19.md) *Geschichte der
 herrichenden Ideen des Islams*, p. 195.
 
-<span id="fn_20"></span>[20:21](sby02.htm#fr_20) Ibn Ḫallikân (Egyptian
+<span id="fn_20"></span>[20:21](sby02.htm#fr_20.md) Ibn Ḫallikân (Egyptian
 edit., A. H. 1310), I, 316; Mohammed al-‘Omari, at-Mauṣili, "Šeiḫ ‘Adî,"
 quoted by M. N. Siouffi, *Journal asiatique*, 1885; Yakut, IV, 374.
 
-<span id="fn_21"></span>[20:22](sby02.htm#fr_21) ‘Itiḳad Ahl as-Sunna,
+<span id="fn_21"></span>[20:22](sby02.htm#fr_21.md) ‘Itiḳad Ahl as-Sunna,
 "Belief of the Sunnites," the Waṣaya, "Counsels to the Califs"; cf. C.
 Huart, *History of Arabic Literature*, p. 273.
 
-<span id="fn_22"></span>[20:23](sby02.htm#fr_22) See [p.
-61](sby12.htm#page_61) of this book.
+<span id="fn_22"></span>[20:23](sby02.htm#fr_22.md) See [p.
+61](sby12.htm#page_61.md) of this book.
 
-<span id="fn_23"></span>[20:24](sby02.htm#fr_23) Aš-Šahrastânî regards
+<span id="fn_23"></span>[20:24](sby02.htm#fr_23.md) Aš-Šahrastânî regards
 them a Ḫarijite sub-sect.
 
-<span id="fn_24"></span>[20:25](sby02.htm#fr_24) Layard, *Nineveh and
+<span id="fn_24"></span>[20:25](sby02.htm#fr_24.md) Layard, *Nineveh and
 its Remains*, II, 254.
 
-<span id="fn_25"></span>[21:26](sby02.htm#fr_25) Mohammed al-‘Omari
+<span id="fn_25"></span>[21:26](sby02.htm#fr_25.md) Mohammed al-‘Omari
 al-Mausili and Yâsîn al-Ḥâtib al-‘Omari al-Mauṣili, "Šeiḫ ‘Adî," quoted
 by M. N. Siouffi, *Journal asiatique*, Série viii, V (1885), 80.
 
-<span id="fn_26"></span>[21:27](sby02.htm#fr_26) George Wards, Bishop of
+<span id="fn_26"></span>[21:27](sby02.htm#fr_26.md) George Wards, Bishop of
 Arbila, *Poems*, edited by Heinrich Hilgenfeld, Leipzig, 1904.
 
-<span id="fn_27"></span>[21:28](sby02.htm#fr_27) Such as their
+<span id="fn_27"></span>[21:28](sby02.htm#fr_27.md) Such as their
 ceremonies at Šeiḫ ‘Adî (Badger, The Nestorians, I, 117), which have
 obtained for them the name Cheraġ Sonderan, "The Extinguishers of
 Light." Bar Hebraeus (*Chronicon; Eccles.*, ed. Abeloos-Lamy, I, 219)
@@ -461,7 +461,7 @@ he calls "Borborians," a branch of the Manichaeans, and calls them "The
 Extinguishers of Light." This name is applied to other eastern sects
 also; see *Abhandlungen für die Kunde des Morgenlandes*, V, 124.
 
-<span id="fn_28"></span>[21:29](sby02.htm#fr_28) Professor Jackson, of
+<span id="fn_28"></span>[21:29](sby02.htm#fr_28.md) Professor Jackson, of
 Columbia University, Seems to trace it to the "old devil-worship in
 Mazanderan" (*JAOS*, XXV, 178). But it is not certain that the Yezidis
 believe in Melek Ṭâ’ûs as an evil spirit. In the history of religion the
@@ -485,7 +485,7 @@ to explain such phenomena; the Kurdish-speaking people never pronounce
 Tammuz, "Tauz;" and, finally, in the Yezidi conception of Melek Ṭâ’ûs
 there are no traces of the notion held respecting Tammuz.
 
-<span id="fn_29"></span>[21:30](sby02.htm#fr_29) <span id="page_26">p.
+<span id="fn_29"></span>[21:30](sby02.htm#fr_29.md) <span id="page_26">p.
 26</span> Such a state of affairs finds a historical parallel in other
 religions. Take, for example, Christianity. In it we find that the
 distinctive characteristics of the founder have been wrapped up in many
@@ -493,4 +493,4 @@ foreign elements brought in by those who came from other religions.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Introduction](sby03)
+[Next: Notes on the Introduction](sby03.md)

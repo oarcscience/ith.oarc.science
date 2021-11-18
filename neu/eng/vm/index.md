@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,6 +29,6 @@ K Talboys, who transcribed this text.
 
 ------------------------------------------------------------------------
 
-[Title Page](vmtitle)  
-[The Life of Merlin](vmeng)  
-[Vita Merlini: Latin](vmlat)  
+[Title Page](vmtitle.md)  
+[The Life of Merlin](vmeng.md)  
+[Vita Merlini: Latin](vmlat.md)  

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat29)  [Next](yat31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat29)  [Next](yat31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -69,4 +69,4 @@ Woodpecker did not take it away any more.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Rabbit Woman and her Child](yat31)
+[Next: VIII. Rabbit Woman and her Child](yat31.md)

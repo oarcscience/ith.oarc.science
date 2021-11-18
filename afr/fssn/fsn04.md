@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fsn03)  [Next](fsn05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fsn03)  [Next](fsn05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R0HU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R0HU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Stories From Southern Nigeria*, by Elphinstone Dayrell, \[1910\],
 at Intangible Textual Heritage
 
@@ -131,6 +131,6 @@ setting bad Ju Ju's for you.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Woman with Two Skins](fsn05)
+[Next: III. The Woman with Two Skins](fsn05.md)
 
 </div>

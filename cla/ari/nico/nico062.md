@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico061) 
-[Next](nico063) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico061.md) 
+[Next](nico063.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ perception than that of the qualities peculiar to each sense.
 ------------------------------------------------------------------------
 
 [Next: Chapter 9. Goodness in deliberation, how related to practical
-wisdom](nico063)
+wisdom](nico063.md)

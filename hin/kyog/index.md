@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 </div>
 
@@ -24,8 +24,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](kyog00)    [Page
-Index](pageidx)    [Text \[Zipped\]](kyog.txt.gz)
+[Contents](#contents)    [Start Reading](kyog00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](kyog.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -40,12 +40,12 @@ form of yoga.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](kyog00)  
-[Chapter I. Karma In Its Effect On Character](kyog01)  
-[Chapter II. Each Is Great In His Own Place](kyog02)  
-[Chapter III. The Secret of Work](kyog03)  
-[Chapter IV. What is Duty?](kyog04)  
-[Chapter V. We Help Ourselves, Not the World](kyog05)  
-[Chapter VI. Non-Attachment Is Complete Self-Abnegation](kyog06)  
-[Chapter VII. Freedom](kyog07)  
-[Chapter VIII. The Ideal of Karma-Yoga](kyog08)  
+<span id="contents"></span> [Title Page](kyog00.md)  
+[Chapter I. Karma In Its Effect On Character](kyog01.md)  
+[Chapter II. Each Is Great In His Own Place](kyog02.md)  
+[Chapter III. The Secret of Work](kyog03.md)  
+[Chapter IV. What is Duty?](kyog04.md)  
+[Chapter V. We Help Ourselves, Not the World](kyog05.md)  
+[Chapter VI. Non-Attachment Is Complete Self-Abnegation](kyog06.md)  
+[Chapter VII. Freedom](kyog07.md)  
+[Chapter VIII. The Ideal of Karma-Yoga](kyog08.md)  

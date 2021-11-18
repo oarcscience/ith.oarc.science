@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist098) 
-[Next](hist100) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist098.md) 
+[Next](hist100.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ their liberty, set them free from slavery to man.
 ------------------------------------------------------------------------
 
 [Next: XIV. How a pestilence ceased through the intercession of King
-Oswald. \[681-686 A.D.\]](hist100)
+Oswald. \[681-686 A.D.\]](hist100.md)

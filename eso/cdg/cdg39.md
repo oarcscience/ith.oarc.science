@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg38)  [Next](cdg40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg38)  [Next](cdg40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ shall be Lords thereof." EXTRACTS FROM SOUTHEY'S TRANSLATION OF
 ------------------------------------------------------------------------
 
 [Next: DD. The Inmates of the Cave, or the Story of the Seven
-Sleepers](cdg40)
+Sleepers](cdg40.md)

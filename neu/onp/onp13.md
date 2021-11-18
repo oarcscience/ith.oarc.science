@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp12) [Next](onp14)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp12) [Next](onp14.md)
 
 ------------------------------------------------------------------------
 
@@ -64,12 +64,12 @@ to abandon his arms, he has abundant cause to fear the god’s wrath—his
 abortive defection from the heathen cause. And the good reception
 accorded him because he had “protected” the heathen fanes which, in
 fact, he had been powerless to destroy, may not have been altogether
-convincing to his contemporaries.<span id="fr_1"></span>[1](#note_1)
+convincing to his contemporaries.<span id="fr_1"></span>[1](#note_1.md)
 Also the heathen trappings, the copious reminiscences from such arch
 heathen poems as *Voluspó* and *Hóvamól,* the interest in the king shown
 by the valkyries, the delegation to receive him composed of the gods
 Bragi and Hermóth—the same who was to fetch Baldr back from Hel<span
-id="fr_2"></span>[2](#note_2)—all seem deliberately chosen to link the
+id="fr_2"></span>[2](#note_2.md)—all seem deliberately chosen to link the
 king with the old religion and to rehabilitate him in the eyes of his
 people.
 
@@ -280,7 +280,7 @@ since Hákon to the heathen gods fared<br />
 
 ------------------------------------------------------------------------
 
-[Next](onp14)
+[Next](onp14.md)
 
 ------------------------------------------------------------------------
 
@@ -288,31 +288,31 @@ since Hákon to the heathen gods fared<br />
 
 <span id="footnotes_page_67">p. 67</span>
 
-<span id="note_1"></span>[1](#fr_1) Though we may in this stanza also
+<span id="note_1"></span>[1](#fr_1.md) Though we may in this stanza also
 see a reflection on his successors who ravaged the sanctuaries and hid
 the gold.
 
-<span id="note_2"></span>[2](#fr_2) Cf. *Baldr’s Dreams*.
+<span id="note_2"></span>[2](#fr_2.md) Cf. *Baldr’s Dreams*.
 
 <span id="footnotes_page_68">p. 68</span>
 
-<span id="note_3"></span>[3](#fr_3) “The God of the Gauts.” *i.e.,*
+<span id="note_3"></span>[3](#fr_3.md) “The God of the Gauts.” *i.e.,*
 Óthin.
 
-<span id="note_4"></span>[4](#fr_4) Valkyries.
+<span id="note_4"></span>[4](#fr_4.md) Valkyries.
 
-<span id="note_5"></span>[5](#fr_5) Yngvi generally stands for Freyr in
+<span id="note_5"></span>[5](#fr_5.md) Yngvi generally stands for Freyr in
 his capacity of progenitor of the Swedish kings. Here, however, he
 stands for Óthin, the progenitor of the royal race of Norway.
 
-<span id="note_6"></span>[6](#fr_6) Hákon. Biorn was one of the many
+<span id="note_6"></span>[6](#fr_6.md) Hákon. Biorn was one of the many
 sons of Harold Fairhair.
 
-<span id="note_7"></span>[7](#fr_7) Cf. *Haraldskvæthi*, note 37.
+<span id="note_7"></span>[7](#fr_7.md) Cf. *Haraldskvæthi*, note 37.
 Horthaland is here substituted for the Rogaland of the text. It is
 directly south of the latter.
 
-<span id="note_8"></span>[8](#fr_8) The change to the golden helmet (in
+<span id="note_8"></span>[8](#fr_8.md) The change to the golden helmet (in
 the next stanza) has been referred to an episode of the battle as told
 by Snorri: “Hákon was more easily recognized than other men, and his
 helmet glittered when the sun shone on it. He always was in the thick of
@@ -322,21 +322,21 @@ hiding now, or has he fled—else where is his golden helmet?’ The king
 shouted: ‘Come forward hither if you would find the King of Norway,’ and
 in the ensuing hand-to-hand fight cleft his skull with his sword.”
 
-<span id="note_9"></span>[9](#fr_9) This was not uncommon with fierce
+<span id="note_9"></span>[9](#fr_9.md) This was not uncommon with fierce
 warriors, in the heat of battle.
 
-<span id="note_10"></span>[10](#fr_10) Viz., against the sons of Eric.
+<span id="note_10"></span>[10](#fr_10.md) Viz., against the sons of Eric.
 
 <span id="footnotes_page_69">p. 69</span>
 
-<span id="note_11"></span>[11](#fr_11) At his departure from England,
+<span id="note_11"></span>[11](#fr_11.md) At his departure from England,
 his foster father, King Æthelstan, gave him the sword Quernbiter with
 which Hákon is said to have cut a millstone in two.
 
-<span id="note_12"></span>[12](#fr_12) Swords frequently had rings on
+<span id="note_12"></span>[12](#fr_12.md) Swords frequently had rings on
 the hilt, for carrying.
 
-<span id="note_13"></span>[13](#fr_13) The following stanzas are
+<span id="note_13"></span>[13](#fr_13.md) The following stanzas are
 examples of Skaldic style overloaded with kennings; though not as
 complicated and disjointed as was believed until recently. The Týr
 (god)-of-shields (or rings) is a kenning for “warrior.” In ordinary
@@ -344,51 +344,51 @@ language the first part of the stanza says that the shields and the
 heads of Northmen were trodden (hewed) by the hardened steel of the king
 (Kock).
 
-<span id="note_14"></span>[14](#fr_14) Viz., of Storth.
+<span id="note_14"></span>[14](#fr_14.md) Viz., of Storth.
 
-<span id="note_15"></span>[15](#fr_15) The serried shields thrown about
+<span id="note_15"></span>[15](#fr_15.md) The serried shields thrown about
 the king.
 
-<span id="note_16"></span>[16](#fr_16) Kenning for “sword.”
+<span id="note_16"></span>[16](#fr_16.md) Kenning for “sword.”
 
-<span id="note_17"></span>[17](#fr_17) Kenning for “battle-axe.”
+<span id="note_17"></span>[17](#fr_17.md) Kenning for “battle-axe.”
 
-<span id="note_18"></span>[18](#fr_18) Kenning for “blood.”
+<span id="note_18"></span>[18](#fr_18.md) Kenning for “blood.”
 
-<span id="note_19"></span>[19](#fr_19) *I.e.,* the mutual attacks. The
+<span id="note_19"></span>[19](#fr_19.md) *I.e.,* the mutual attacks. The
 difficulties, both of interpretation and translation, are considerable.
 
-<span id="note_20"></span>[20](#fr_20) Kenning for “battle.”
+<span id="note_20"></span>[20](#fr_20.md) Kenning for “battle.”
 
-<span id="note_21"></span>[21](#fr_21) Viz., dying.
+<span id="note_21"></span>[21](#fr_21.md) Viz., dying.
 
 <span id="footnotes_page_70">p. 70</span>
 
-<span id="note_22"></span>[22](#fr_22) Cf. *Eiriksmól*, 7,
-[note](onp12.htm#note_6), for the conception implied.
+<span id="note_22"></span>[22](#fr_22.md) Cf. *Eiriksmól*, 7,
+[note](onp12.htm#note_6.md), for the conception implied.
 
-<span id="note_23"></span>[23](#fr_23) *I.e.,* Spear-Skogul.
+<span id="note_23"></span>[23](#fr_23.md) *I.e.,* Spear-Skogul.
 
-<span id="note_24"></span>[24](#fr_24) “God of gods,” *i.e.,* Óthin.
+<span id="note_24"></span>[24](#fr_24.md) “God of gods,” *i.e.,* Óthin.
 
 <span id="footnotes_page_71">p. 71</span>
 
-<span id="note_25"></span>[25](#fr_25) “Hero.”
+<span id="note_25"></span>[25](#fr_25.md) “Hero.”
 
-<span id="note_26"></span>[26](#fr_26) Cf. *Hovamól,* 1. I follow Kock’s
+<span id="note_26"></span>[26](#fr_26.md) Cf. *Hovamól,* 1. I follow Kock’s
 suggestion.
 
-<span id="note_27"></span>[27](#fr_27) There is reference here,
+<span id="note_27"></span>[27](#fr_27.md) There is reference here,
 probably, to his favor with the gods, manifest in good harvests and
 general prosperity.
 
-<span id="note_28"></span>[28](#fr_28) Cf. *Voluspó* 36, 54: not till
+<span id="note_28"></span>[28](#fr_28.md) Cf. *Voluspó* 36, 54: not till
 the end of the world will a better ruler come.
 
-<span id="note_29"></span>[29](#fr_29) Patently, a reminiscence of the
+<span id="note_29"></span>[29](#fr_29.md) Patently, a reminiscence of the
 famous stanzas 77, 78 of *Hóvamól*.
 
-<span id="note_30"></span>[30](#fr_30) This is, very likely, an allusion
+<span id="note_30"></span>[30](#fr_30.md) This is, very likely, an allusion
 to the lawless times that followed the reign of Hákon.
 
  

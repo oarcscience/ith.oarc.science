@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot14) 
-[Next](bot16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot14.md) 
+[Next](bot16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ Deuteronomy vi. 4th and 9th verses. It was very popular as a Talisman in
 the Middle Ages for protection from enemies, also to bring peace,
 harmony, and long life, and was usually made in the form of a pentacle
 with the five syllables engraved in each corner (see Illustration No.
-142, [Plate X](#img_pl10)) with the Hebrew letter Yod, or Shin, in the
+142, [Plate X](#img_pl10).md) with the Hebrew letter Yod, or Shin, in the
 centre.
 
 It was also worn by the Jews in the form of a <span
@@ -62,13 +62,13 @@ round the left arm. Worn when attending worship in their synagogues, it
 was considered to have great potency as a Talisman.
 
 The illustration of the Tetragrammaton is taken from Barrett's *Magus*,
-as are also Nos. 140 and 141, [Plate X](#img_pl10), which are described
+as are also Nos. 140 and 141, [Plate X](#img_pl10.md), which are described
 as containing "the beginnings and ends of the first five verses of
 Genesis, and representation of the creation of the world; and by this
 ligature they say that a man shall be free from all mischiefs if that he
 firmly believes in God, the Creator of all things."
 
-No. 135, [Plate X](#img_pl10), is a Talisman of Venus which is in the
+No. 135, [Plate X](#img_pl10.md), is a Talisman of Venus which is in the
 British Museum, and is also described in the *Magus* as worn for success
 and good fortune in love, joyfulness, and to make travellers fortunate.
 The written inscription is an addition probably made personally, and
@@ -112,7 +112,7 @@ was engraved on many of the ancient tombs. Placed
 
 <span id="img_pl10"></span> <span align="CENTER"> [![PLATE 10. MEDIÆVAL
 TALISMANS.](tn/pl10.jpg)  
-Click to enlarge](img/pl10.jpg)  
+Click to enlarge](img/pl10.jpg.md)  
 PLATE 10. MEDIÆVAL TALISMANS.  
 </span>
 
@@ -452,6 +452,6 @@ well-known charm for good luck, generally, for—
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Aries—The Ram](bot16)
+[Next: Chapter I. Aries—The Ram](bot16.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi172)  [Next](mtsi174) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi172)  [Next](mtsi174.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ believe has seen for himself."
 
 ------------------------------------------------------------------------
 
-[Next: 38. The Owl and the Hawk](mtsi174)
+[Next: 38. The Owl and the Hawk](mtsi174.md)

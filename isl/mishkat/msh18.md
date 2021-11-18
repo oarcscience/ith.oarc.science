@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh17) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh17.md) 
 
 ------------------------------------------------------------------------
 

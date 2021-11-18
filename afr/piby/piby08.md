@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby07)  [Next](piby09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby07)  [Next](piby09.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ blessings he has bestowed upon earth free to all mankind.
 
 III
 
-Be ye [concretized](errata.htm#1) and ever united, for by the power of
+Be ye [concretized](errata.htm#1.md) and ever united, for by the power of
 unity ye shall demand respect of the nations.
 
 IV
@@ -129,4 +129,4 @@ Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4. The Law Preached](piby09)
+[Next: Chapter 4. The Law Preached](piby09.md)

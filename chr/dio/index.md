@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](dio00)
+[Contents](#contents)    [Start Reading](dio00.md)
 
 ------------------------------------------------------------------------
 
@@ -44,126 +44,126 @@ Christianity.
 
 ### Volume 1
 
-[Title Page - Volume 1.](dio00)  
+[Title Page - Volume 1.](dio00.md)  
 <span id="section_001"></span>
 
 ### Prefatory Material
 
-[Principal Works on Dionysius the Areopagite](dio01)  
-[Books to Be Read](dio02)  
+[Principal Works on Dionysius the Areopagite](dio01.md)  
+[Books to Be Read](dio02.md)  
 <span id="section_002"></span>
 
 ### On Divine Names
 
-[Preface](dio03)  
-[Caput I.](dio04)  
-[Caput II.](dio05)  
-[Caput III.](dio06)  
-[Caput IV.](dio07)  
-[Caput V.](dio08)  
-[Caput VI.](dio09)  
-[Caput VII.](dio10)  
-[Caput VIII.](dio11)  
-[Caput IX.](dio12)  
-[Caput X.](dio13)  
-[Caput XI.](dio14)  
-[Caput XII.](dio15)  
-[Caput XIII.](dio16)  
-[Note](dio17)  
+[Preface](dio03.md)  
+[Caput I.](dio04.md)  
+[Caput II.](dio05.md)  
+[Caput III.](dio06.md)  
+[Caput IV.](dio07.md)  
+[Caput V.](dio08.md)  
+[Caput VI.](dio09.md)  
+[Caput VII.](dio10.md)  
+[Caput VIII.](dio11.md)  
+[Caput IX.](dio12.md)  
+[Caput X.](dio13.md)  
+[Caput XI.](dio14.md)  
+[Caput XII.](dio15.md)  
+[Caput XIII.](dio16.md)  
+[Note](dio17.md)  
 <span id="section_003"></span>
 
 ### Mystic Theology
 
-[Preface](dio18)  
-[Caput I.](dio19)  
-[Caput II.](dio20)  
-[Caput III.](dio21)  
-[Caput IV.](dio22)  
-[Caput V.](dio23)  
+[Preface](dio18.md)  
+[Caput I.](dio19.md)  
+[Caput II.](dio20.md)  
+[Caput III.](dio21.md)  
+[Caput IV.](dio22.md)  
+[Caput V.](dio23.md)  
 <span id="section_004"></span>
 
 ### Letters
 
-[Preface](dio24)  
-[Letter I. To Gaius Therapeutes.](dio25)  
-[Letter II. To the same Gaius Therapeutes.](dio26)  
-[Letter III. To the same Gaius.](dio27)  
-[Letter IV. To the same Gaius Therapeutes.](dio28)  
-[Letter V. To Dorotheus, Leitourgos.](dio29)  
-[Letter VI. To Sopatros--Priest.](dio30)  
-[Letter VII. To Polycarp--Hierarch.](dio31)  
+[Preface](dio24.md)  
+[Letter I. To Gaius Therapeutes.](dio25.md)  
+[Letter II. To the same Gaius Therapeutes.](dio26.md)  
+[Letter III. To the same Gaius.](dio27.md)  
+[Letter IV. To the same Gaius Therapeutes.](dio28.md)  
+[Letter V. To Dorotheus, Leitourgos.](dio29.md)  
+[Letter VI. To Sopatros--Priest.](dio30.md)  
+[Letter VII. To Polycarp--Hierarch.](dio31.md)  
 [Letter VIII. To Demophilus, Therapeutes. About minding ones own
-business, and kindness.](dio32)  
+business, and kindness.](dio32.md)  
 [Letter IX. To Titus, Hierarch, asking by letter what is the house of
-wisdom, what the bowl, and what are its meats and drinks?](dio33)  
+wisdom, what the bowl, and what are its meats and drinks?](dio33.md)  
 [Letter X. To John, Theologos, Apostle and Evangelist, imprisoned in the
-Isle of Patmos.](dio34)  
-[Letter XI. Dionysius to Apollophanes, Philosopher.](dio35)  
+Isle of Patmos.](dio34.md)  
+[Letter XI. Dionysius to Apollophanes, Philosopher.](dio35.md)  
 <span id="section_005"></span>
 
 ### Liturgy
 
-[Preface](dio36)  
-[Liturgy of St. Dionysius, Bishop of the Athenians](dio37)  
+[Preface](dio36.md)  
+[Liturgy of St. Dionysius, Bishop of the Athenians](dio37.md)  
 
  
 
-[Objections to Genuineness](dio38)  
+[Objections to Genuineness](dio38.md)  
 <span id="section_006"></span>
 
 ### Volume 2.
 
-[Title Page - Volume 2.](dio39)  
+[Title Page - Volume 2.](dio39.md)  
 <span id="section_007"></span>
 
 ### Prefatory Material
 
-[Contents](dio40)  
-[Dedication](dio41)  
-[Books to Be Read](dio42)  
-[Dionysius the Areopagite and the Alexandrine School](dio43)  
+[Contents](dio40.md)  
+[Dedication](dio41.md)  
+[Books to Be Read](dio42.md)  
+[Dionysius the Areopagite and the Alexandrine School](dio43.md)  
 <span id="section_008"></span>
 
 ### On the Heavenly Hierarchy
 
-[Caput I.](dio44)  
-[Caput II.](dio45)  
-[Caput III.](dio46)  
-[Caput IV.](dio47)  
-[Caput V.](dio48)  
-[Caput VI.](dio49)  
-[Caput VII.](dio50)  
-[Caput VIII.](dio51)  
-[Caput IX.](dio52)  
-[Caput X.](dio53)  
-[Caput XI.](dio54)  
-[Caput XII.](dio55)  
-[Caput XIII.](dio56)  
-[Caput XIV.](dio57)  
-[Caput XV.](dio58)  
+[Caput I.](dio44.md)  
+[Caput II.](dio45.md)  
+[Caput III.](dio46.md)  
+[Caput IV.](dio47.md)  
+[Caput V.](dio48.md)  
+[Caput VI.](dio49.md)  
+[Caput VII.](dio50.md)  
+[Caput VIII.](dio51.md)  
+[Caput IX.](dio52.md)  
+[Caput X.](dio53.md)  
+[Caput XI.](dio54.md)  
+[Caput XII.](dio55.md)  
+[Caput XIII.](dio56.md)  
+[Caput XIV.](dio57.md)  
+[Caput XV.](dio58.md)  
 <span id="section_009"></span>
 
 ### Ecclesiastical Hierarchy
 
-[Caput I.](dio59)  
-[Caput II.](dio60)  
-[Caput III.](dio61)  
-[Caput IV.](dio62)  
-[Caput V.](dio63)  
-[Caput VI.](dio64)  
-[Caput VII.](dio65)  
+[Caput I.](dio59.md)  
+[Caput II.](dio60.md)  
+[Caput III.](dio61.md)  
+[Caput IV.](dio62.md)  
+[Caput V.](dio63.md)  
+[Caput VI.](dio64.md)  
+[Caput VII.](dio65.md)  
 <span id="section_010"></span>
 
 ### Appendix
 
-[List of Bishops](dio66)  
-[Apostolic Traditions Generally in Abeyance.](dio67)  
-[Index](dio68)  
+[List of Bishops](dio66.md)  
+[Apostolic Traditions Generally in Abeyance.](dio67.md)  
+[Index](dio68.md)  
 <span id="section_011"></span>
 
 ### Indexes
 
-[Index of Scripture References](dio69)  
-[Greek Words and Phrases](dio70)  
-[Latin Words and Phrases](dio71)  
-[Index of Pages of the Print Edition](dio72)  
+[Index of Scripture References](dio69.md)  
+[Greek Words and Phrases](dio70.md)  
+[Latin Words and Phrases](dio71.md)  
+[Index of Pages of the Print Edition](dio72.md)  

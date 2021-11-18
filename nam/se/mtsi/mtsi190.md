@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi189)  [Next](mtsi191) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi189)  [Next](mtsi191.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ Big Man-eater's bag and started home.
 
 ------------------------------------------------------------------------
 
-[Next: 55. Rabbit And Big Man-eater (Second Version)](mtsi191)
+[Next: 55. Rabbit And Big Man-eater (Second Version)](mtsi191.md)

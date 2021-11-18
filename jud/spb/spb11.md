@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb10)  [Next](spb12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb10)  [Next](spb12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THIRTEEN PRINCIPLES OF THE FAITH. <span id="fr_9"></span>[\*](#fn_7)
+### THIRTEEN PRINCIPLES OF THE FAITH. <span id="fr_9"></span>[\*](#fn_7.md)
 
 1\. I believe with perfect faith that the Creator, blessed be his name,
 is the Author and Guide of everything that has been created, and that he
@@ -77,7 +77,7 @@ Lord, for thy salvation I hope!
 
 ### Footnotes
 
-<span id="fn_7"></span>[107:\*](spb11.htm#fr_9) These Articles of the
+<span id="fn_7"></span>[107:\*](spb11.htm#fr_9.md) These Articles of the
 Jewish Creed were formulated by Moses Maimonides in the 12th century
 C.E.
 
@@ -85,6 +85,6 @@ C.E.
 
 ------------------------------------------------------------------------
 
-[Next: Afternoon Service for Weekdays](spb12)
+[Next: Afternoon Service for Weekdays](spb12.md)
 
 </div>

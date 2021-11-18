@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth44)  [Next](doth46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth44)  [Next](doth46.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -18,11 +18,11 @@
 
 <span class="smallcaps">The</span> question may be asked, "Is it
 possible to make atonement by repentance <span
-id="fr_23"></span>[\*](#fn_20) for every kind of sin?" I would reply
+id="fr_23"></span>[\*](#fn_20.md) for every kind of sin?" I would reply
 that iniquities are of two kinds: (1) Sins that affect the relations
 between man and God alone, such as denial of God, evil thoughts, and
 those hidden sins that are included in the prohibitions of the duties of
-the heart and mind; <span id="fr_24"></span>[†](#fn_21) and (2) Sins
+the heart and mind; <span id="fr_24"></span>[†](#fn_21) and (2.md) Sins
 between a man and his fellow men, such as those in which the sinner has
 done violence to them either in their persons, or their property, or
 their name and reputation. . . . The sins against God only are not so
@@ -82,17 +82,17 @@ deeds:—in works, and not at all in words.
 
 ### Footnotes
 
-<span id="fn_20"></span>[55:\*](doth45.htm#fr_23) Literally, to return
+<span id="fn_20"></span>[55:\*](doth45.htm#fr_23.md) Literally, to return
 from.
 
-<span id="fn_21"></span>[55:†](doth45.htm#fr_24) See [p.
-18](doth06.htm#page_18), last paragraph, and top of [p.
-19](doth07.htm#page_19).
+<span id="fn_21"></span>[55:†](doth45.htm#fr_24.md) See [p.
+18](doth06.htm#page_18.md), last paragraph, and top of [p.
+19](doth07.htm#page_19.md).
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Habits of those that love God](doth46)
+[Next: Habits of those that love God](doth46.md)
 
 </div>

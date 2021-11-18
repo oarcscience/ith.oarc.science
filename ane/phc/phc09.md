@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](phc08)  [Next](phc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](phc08)  [Next](phc10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philistines*, by R.A.S. Macalister, \[1913\], at Intangible Textual
 Heritage
 
@@ -46,7 +46,7 @@ a considerable similarity between the *lucumones* of Etruria and the
 Philistine ṣeranīm.
 
 Nowhere do we read of a king of the Philistines. <span
-id="fr_111"></span>[1](#fn_111) To infer, as has actually been done,
+id="fr_111"></span>[1](#fn_111.md) To infer, as has actually been done,
 from 1 Kings iv. 21 ('Solomon ruled over all the kingdoms from the River
 unto the land of the Philistines') that their territory was organized as
 a kingdom, displays a sad lack of a sense of humour. When Hebrew writers
@@ -92,10 +92,10 @@ territory into districts, each of them under the hegemony of one of
 these cities, the limits are rather indefinite; and to judge from the
 scanty materials at our disposal, seem to have varied from time to time.
 The recurrence of the phrase '\[such a city\] and the border
-thereof' <span id="fr_112"></span>[1](#fn_112) seems to indicate a
+thereof' <span id="fr_112"></span>[1](#fn_112.md) seems to indicate a
 definite division of the country into provinces governed each by one of
 the cities; and this is confirmed by David's speech to Achish, <span
-id="fr_113"></span>[2](#fn_113) 'Give me a place in one of the cities in
+id="fr_113"></span>[2](#fn_113.md) 'Give me a place in one of the cities in
 the country (‏באחת ערי השדה‎), for why should thy servant dwell in the
 royal city (‏בעיר הממלכה‎) with thee?' A similar polity is traceable in
 Etruria.
@@ -154,18 +154,18 @@ Dagon at Gaza. No further information is vouchsafed us.
 
 ### Footnotes
 
-<span id="fn_111"></span>[88:1](phc09.htm#fr_111) 1 Except Abimelech,
+<span id="fn_111"></span>[88:1](phc09.htm#fr_111.md) 1 Except Abimelech,
 Gen. xxvi. 1. *Exceptio probat regulam*.
 
-<span id="fn_112"></span>[89:1](phc09.htm#fr_112) See Judg. i. 18, 1
+<span id="fn_112"></span>[89:1](phc09.htm#fr_112.md) See Judg. i. 18, 1
 Sam. v. 6, 2 Kings xviii. 8.
 
-<span id="fn_113"></span>[89:2](phc09.htm#fr_113) 1 Sam. xxvii. 5.
+<span id="fn_113"></span>[89:2](phc09.htm#fr_113.md) 1 Sam. xxvii. 5.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: III. Their Religion](phc10)
+[Next: III. Their Religion](phc10.md)
 
 </div>

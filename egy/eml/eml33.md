@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml32)  [Next](eml34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml32)  [Next](eml34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -95,7 +95,7 @@ Ah. Fragments of old hymns make reference to him as a lunar deity, and
 as a "traverser" of space like Khonsu-Thoth. Indeed, even in his
 hawk-headed form, he retains his early association with the moon, for he
 wears the solar disk with the lunar crescent. <span
-id="fr_126"></span>[1](#fn_126)
+id="fr_126"></span>[1](#fn_126.md)
 
 Amon, like the sons of all the Great Mother deities, represented in his
 animal forms the "male principle" and the "fighting principle". He
@@ -106,7 +106,7 @@ wife Sekhet, with the head of a lioness, is indistinguishable from Mut)
 Tefnut, and Bast.
 
 As a Great Father deity, Amon, "husband of his mother" became "king of
-the gods", <span id="fr_127"></span>[2](#fn_127) and lost his original
+the gods", <span id="fr_127"></span>[2](#fn_127.md) and lost his original
 lunar character. His fusion with the sun god of Heliopolis, which was
 accomplished for political purposes, made the change complete, for he
 became Amon-Ra, the great representative deity of Egypt, who combines
@@ -123,7 +123,7 @@ sections red and blue, and red and green, as if to signify all
 association with the river flowing between its batiks and the growth of
 verdure. Sometimes he is shown with Min's ram's horns curving downwards
 round his ears, and sometimes with those of Khnûmû spreading
-outward. <span id="fr_128"></span>[1](#fn_128) He wore a collar and
+outward. <span id="fr_128"></span>[1](#fn_128.md) He wore a collar and
 armlets and bracelets.
 
 As a god of war he rose into great prominence during the Eighteenth
@@ -188,7 +188,7 @@ attributes.
 
 <span class="contnote">\[paragraph continues\]</span> Osiris "hides his
 essence in the great shrine of Amon". <span
-id="fr_129"></span>[1](#fn_129) The Amon ram was an animal incarnation
+id="fr_129"></span>[1](#fn_129.md) The Amon ram was an animal incarnation
 of the corn spirit. It is significant to find, in this connection, that
 the priests of Amon for a long period sought sepulture at sacred Abydos,
 which had become closely associated with Osirian worship. But there was
@@ -293,7 +293,7 @@ Thothmes II died, but Thothmes III was not able to retain his high
 position. Once again Hatshepsut, who had evidently won over a section of
 the priesthood, seized the reins of government, and Thothmes III was
 once again "relegated to the background". <span
-id="fr_130"></span>[1](#fn_130) At the festivals he appeared as a
+id="fr_130"></span>[1](#fn_130.md) At the festivals he appeared as a
 priest.
 
 Hatshepsut must have been a woman of great ability and force of
@@ -493,28 +493,28 @@ Tombs".
 
 ### Footnotes
 
-<span id="fn_126"></span>[282:1](eml33.htm#fr_126) In an Amon-Ra hymn
+<span id="fn_126"></span>[282:1](eml33.htm#fr_126.md) In an Amon-Ra hymn
 the deity is called "maker of men, former of the flocks, lord of corn"
 (*Religion of the Ancient Egyptians*, Wiedemann, p. 116).
 
-<span id="fn_127"></span>[282:2](eml33.htm#fr_127) "The gods gather as
+<span id="fn_127"></span>[282:2](eml33.htm#fr_127.md) "The gods gather as
 dogs round his feet."--*Hymn to Amon-re*.
 
-<span id="fn_128"></span>[283:1](eml33.htm#fr_128) "Amon of the two
+<span id="fn_128"></span>[283:1](eml33.htm#fr_128.md) "Amon of the two
 horns."
 
-<span id="fn_129"></span>[285:1](eml33.htm#fr_129) That is, the soul of
+<span id="fn_129"></span>[285:1](eml33.htm#fr_129.md) That is, the soul of
 Osiris is in Amon, as the soul of the giant is in the egg, the ram, &c.,
 "doubly hidden". Amon-Ra is addressed in a temple chant: "Hidden is thy
 abode, lord of the gods".
 
-<span id="fn_130"></span>[288:1](eml33.htm#fr_130) *A History of Egypt*,
+<span id="fn_130"></span>[288:1](eml33.htm#fr_130.md) *A History of Egypt*,
 James Henry Breasted, London, 1906.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII: Tale of the Doomed Prince](eml34)
+[Next: Chapter XXIII: Tale of the Doomed Prince](eml34.md)
 
 </div>

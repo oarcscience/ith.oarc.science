@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu17)  [Next](cbu19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu17)  [Next](cbu19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -77,7 +77,7 @@ The Northern Buddhists, however, about the beginning of the Christian
 era, pushed the bounds of their system much further. Men appeared at
 that time in Northern India devoted to metaphysical discussion, who
 aimed to develop to the utmost the principles of Buddhism. <span
-id="fr_106"></span>[1](#fn_106) In adding to the number of Buddhas and
+id="fr_106"></span>[1](#fn_106.md) In adding to the number of Buddhas and
 Bodhisattwas, they felt it necessary to frame new worlds to serve as
 suitable abodes for them. With their peculiar philosophy it was easy to
 do this. Not believing in the existence of the
@@ -139,7 +139,7 @@ Magadha. He saw approaching a multitude of Bodhisattwas from distant
 worlds. They asked to be instructed in regard to the "lands where the
 Buddhas resided." (*Fo* "*ch‘ah*," spelled in full in the old
 pronunciation, *ch‘a-ta-la;* in Sanscrit, *kshêtra*, "land." <span
-id="fr_107"></span>[1](#fn_107)) Buddha accordingly entered on a
+id="fr_107"></span>[1](#fn_107).md) Buddha accordingly entered on a
 description of the kingdoms of the Buddhas. To the east, after passing
 worlds equal in number to the dust of ten of these kingdoms, there is
 one termed the golden-coloured world. The Buddha of "wisdom unmoved"
@@ -389,11 +389,11 @@ says in those passages where China is introduced by the translators.
 
 ### Footnotes
 
-<span id="fn_106"></span>[229:1](cbu18.htm#fr_106) *Vide* Burnouf's
+<span id="fn_106"></span>[229:1](cbu18.htm#fr_106.md) *Vide* Burnouf's
 account of the third Buddhist council held in Cashmere, in his
 *Introduction à l’Histoire du Buddhisme Indien*.
 
-<span id="fn_107"></span>[231:1](cbu18.htm#fr_107) The dictionary
+<span id="fn_107"></span>[231:1](cbu18.htm#fr_107.md) The dictionary
 *Yi-ts‘ie-king-yin-i* adds, that this word, used for "land or "kingdom,"
 is the root of the word *Kshatrya*, the second of the four castes, to
 which belong the royal families of India, the *Kshatryas* being Lords of
@@ -401,4 +401,4 @@ the soil.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Buddhist Images and Image Worship](cbu19)
+[Next: Chapter XIV. Buddhist Images and Image Worship](cbu19.md)

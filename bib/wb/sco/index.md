@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mar)   
+[Contents](#contents)    [Start Reading](mar.md)   
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ publication date and copyright status of this text are unknown.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Mark](mar)  
+<span id="contents"></span> [Mark](mar.md)  

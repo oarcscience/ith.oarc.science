@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo53)  [Next](lboo55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo53)  [Next](lboo55.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ et mea debuerat falso laudata videri<br />
 
 ------------------------------------------------------------------------
 
-[Next: Elegy XIII: The Festival Of Juno At Falisci.](lboo55)
+[Next: Elegy XIII: The Festival Of Juno At Falisci.](lboo55.md)

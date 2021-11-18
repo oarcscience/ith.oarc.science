@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw14)  [Next](cjw16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw14)  [Next](cjw16.md) 
 
 ------------------------------------------------------------------------
 
@@ -332,4 +332,4 @@ further insight that the future holds in promise.
 
 ------------------------------------------------------------------------
 
-[Next: The Awakening to the Self](cjw16)
+[Next: The Awakening to the Self](cjw16.md)

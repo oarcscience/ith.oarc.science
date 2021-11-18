@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao35)   
-[Previous](tao34)  [Next](tao36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao35.md)   
+[Previous](tao34)  [Next](tao36.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ scarcely be heard; but its satisfactions are inexhaustible.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 36](tao36)
+[Next: Chapter 36](tao36.md)

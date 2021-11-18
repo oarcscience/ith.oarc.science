@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](wott03)  [Next](wott05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](wott03)  [Next](wott05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of the Talmud*, by Ben Zion Bokser, \[1951\], at Intangible
 Textual Heritage
 
@@ -33,7 +33,7 @@ was primarily a narrator or teacher, an expounder of a body of
 tradition; and his work was essentially oral. Thus the verb *saper*
 which describes the sopher's work designates, in modern as in Biblical
 Hebrew, the oral activity of narration and instruction.<span
-id="an_r_02_1"></span>[1](wott11.htm#an_n_02_1)
+id="an_r_02_1"></span>[1](wott11.htm#an_n_02_1.md)
 
 The pioneer of the sopheric movement was Ezra who came from Babylonia in
 459 B.C.E. with the ideal of directing the reorganized Jewish settlement
@@ -70,7 +70,7 @@ the Biblical text bringing it into greater conformity with their
 developed religious and literary sensibilities. Thus they substituted
 for the original "but the Lord stood yet before Abraham" the presently
 accepted reading "but Abraham stood yet before the Lord".<span
-id="an_r_02_2"></span>[2](wott11.htm#an_n_02_2) They enriched the
+id="an_r_02_2"></span>[2](wott11.htm#an_n_02_2.md) They enriched the
 liturgy with many new compositions and fixed a ritual for the daily and
 Sabbath synagogue services.
 
@@ -96,7 +96,7 @@ early Greek period; and of him only one maxim cited in Abot has been
 preserved. He advocated serving God without the thought of reward. "Be
 not like the slaves who serve their masters for the gratuity which they
 expect. Serve without expecting a gratuity and let reverence for God
-ever be upon you."<span id="an_r_02_3"></span>[3](wott11.htm#an_n_02_3)
+ever be upon you."<span id="an_r_02_3"></span>[3](wott11.htm#an_n_02_3.md)
 
 The sopheric movement flourished throughout the years that Persia was
 the imperialist master of Palestine (563–332 B.C.E.). For apart from the
@@ -188,7 +188,7 @@ historically, the Pharisees were the popular spokesmen of the people,
 and therefore could not have kept themselves aloof from them. *Perushim*
 may also be related to a secondary meaning of *parosh*, interpret, as it
 is used in Leviticus 24:12.<span
-id="an_r_02_4"></span>[4](wott11.htm#an_n_02_4) *Perushim* may thus be
+id="an_r_02_4"></span>[4](wott11.htm#an_n_02_4.md) *Perushim* may thus be
 rendered as expounders or interpreters. Like the *sopherim*, they
 derived
 
@@ -260,7 +260,7 @@ acquire for yourself a companion; and judge every person
 sympathetically." Nittai the Arbellite had as his maxim: "Keep away from
 a bad neighbor; do not associate with the wicked, and do not despair of
 retribution when it is slow in coming."<span
-id="an_r_02_5"></span>[5](wott11.htm#an_n_02_5)
+id="an_r_02_5"></span>[5](wott11.htm#an_n_02_5.md)
 
 <span id="page_36">p. 36</span>
 
@@ -286,7 +286,7 @@ the written Torah or the oral traditions promulgated by past
 authorities, the Sadducees advocated a strict construction of tradition.
 In their own way, they too had supplemented the written Torah, as is
 indicated by their reported possession of a special code of criminal
-law.<span id="an_r_02_6"></span>[6](wott11.htm#an_n_02_6) Pharisaic
+law.<span id="an_r_02_6"></span>[6](wott11.htm#an_n_02_6.md) Pharisaic
 supplementation was, however, much more radical—a more fundamental
 departure from the past. The Pharisees, of course, rationalized their
 departure by integrating them, through midrashic links, with Scriptural
@@ -307,7 +307,7 @@ be observed. And concerning these things it is that great disputes and
 differences have arisen among them; the Sadducees are able to persuade
 none but the rich, and have no following among the populace, but the
 Pharisees have the multitude on their side."<span
-id="an_r_02_7"></span>[7](wott11.htm#an_n_02_7)
+id="an_r_02_7"></span>[7](wott11.htm#an_n_02_7.md)
 
 Their strict adherence to the written Torah also explains the origin of
 the name Sadducees. The widely held theory that the name Sadducee goes
@@ -370,7 +370,7 @@ concurred in the request. The other
 
 judges were, however, intimidated and remained silent, their cowardice
 provoking a sharp rebuke from the chief justice.<span
-id="an_r_02_8"></span>[8](wott11.htm#an_n_02_8)
+id="an_r_02_8"></span>[8](wott11.htm#an_n_02_8.md)
 
 The Pharisees were the party in opposition throughout the greater part
 of King Jannai's reign. Those most conspicuous among them were hunted
@@ -458,7 +458,7 @@ illustrated in the story of the pagan who sought to embrace Judaism but
 insisted on learning its contents while standing on one foot. Shammai
 dismissed him angrily, but Hillel made him a convert to Judaism. His
 summary was the formula, "That which is hateful unto you, do not impose
-on others."<span id="an_r_02_9"></span>[9](wott11.htm#an_n_02_9) This is
+on others."<span id="an_r_02_9"></span>[9](wott11.htm#an_n_02_9.md) This is
 not, as has generally been explained, a negative formulation of the
 Golden Rule in Leviticus 19:18. It is a technique for implementing the
 Golden Rule, by suggesting a more concrete application of it to the
@@ -471,7 +471,7 @@ myself, who will be for me? But if I am for myself only, what am I? And
 if not now when?" Among his most important legal reforms was the
 institution of the *prosbul*, circumventing the prescribed cancellation
 of debts at the end of every seven year cycle.<span
-id="an_r_02_10"></span>[10](wott11.htm#an_n_02_10) Another of his
+id="an_r_02_10"></span>[10](wott11.htm#an_n_02_10.md) Another of his
 important achievements was his formulation of seven rules for the
 midrashic interpretation of Scripture, subsequently expanded to thirteen
 by a later
@@ -518,7 +518,7 @@ which she had occupied by force. As the Mishnah put it: "Men may vow to
 murderers, robbers or tax gatherers that what they have is
 Heave-offering even though it is not Heave-offering; or that they belong
 to the King's household even though they do not belong to the King's
-household. …"<span id="an_r_02_11"></span>[11](wott11.htm#an_n_02_11)
+household. …"<span id="an_r_02_11"></span>[11](wott11.htm#an_n_02_11.md)
 
 Rome opened vast markets for enterprising merchants and her fiscal
 policies encouraged shipping and industry with the result that
@@ -544,7 +544,7 @@ chemists respectively, were able to win substantial wage increases by
 striking. Their highly specialized work could not be duplicated by
 strike-breakers who had been imported from Alexandria; and the Temple
 authorities were forced to accede to their demands.<span
-id="an_r_02_12"></span>[12](wott11.htm#an_n_02_12) The laborer who did
+id="an_r_02_12"></span>[12](wott11.htm#an_n_02_12.md) The laborer who did
 
 <span id="page_44">p. 44</span>
 
@@ -562,7 +562,7 @@ deposited … had a mind to expend these treasures upon them; … so they
 persuaded him (King Agrippa) to rebuild the eastern cloisters; … he
 (Agrippa) denied the petitioners their request in the matter; but he did
 not obstruct them when they desired the city might be paved with white
-stone. …"<span id="an_r_02_13"></span>[13](wott11.htm#an_n_02_13)
+stone. …"<span id="an_r_02_13"></span>[13](wott11.htm#an_n_02_13.md)
 
 Above all, there was resentment at what the Romans had done to one of
 the most sacred offices in Jewish religious life, the High Priesthood.
@@ -591,7 +591,7 @@ perform the Temple ritual and it became customary for a committee of the
 Sanhedrin to coach the High Priest in the performance of the Day of
 Atonement service for a full week before each holiday. The Mishnah
 records that this committee would always depart from its mission in
-tears.<span id="an_r_02_14"></span>[14](wott11.htm#an_n_02_14)
+tears.<span id="an_r_02_14"></span>[14](wott11.htm#an_n_02_14.md)
 
 The worldliness of these High Priests is well described in a number of
 Talmudic satires. One popular tale reports that the Temple Court used to
@@ -603,7 +603,7 @@ popular legend relates that "he ate three hundred calves and drank three
 hundred barrels of wine and ate forty *seah* of young birds as a dessert
 for his meal!" For him the Temple Court cried out: "Enter Johanan ben
 Norhai to gorge himself with the foods of the altar."<span
-id="an_r_02_15"></span>[15](wott11.htm#an_n_02_15)
+id="an_r_02_15"></span>[15](wott11.htm#an_n_02_15.md)
 
 One teacher, Abba Jose ben Hanin, lamented thus about the various high
 priestly families of his day: "Woe is me for the House of Boethus; woe
@@ -614,7 +614,7 @@ because of the House of Ishmael ben Phabi; woe is me because of their
 fists. For they are the High Priests, their sons the tax collectors,
 their sons-in-law the Temple officers, and their servants beat the
 people with their staves."<span
-id="an_r_02_16"></span>[16](wott11.htm#an_n_02_16)
+id="an_r_02_16"></span>[16](wott11.htm#an_n_02_16.md)
 
 The high priests oppressed not only the people at large but also the
 humbler members of their own caste, robbing them often of their due
@@ -626,14 +626,14 @@ share in the priestly perquisites. As
 the high priests of his time, "they had the hardness to send their
 servants into the threshing floors to take away these tithes that were
 due to the priests, with the result that the poorer sort of priests died
-for want."<span id="an_r_02_17"></span>[17](wott11.htm#an_n_02_17)
+for want."<span id="an_r_02_17"></span>[17](wott11.htm#an_n_02_17.md)
 
 Stirred by a host of unbearable evils, a revolutionary sentiment was
 developing in the country. The pioneer of the revolutionary movement was
 the Galilean peasant leader Judas, who "prevailed with his countrymen to
 revolt and said they were cowards if they would endure to pay taxes to
 Rome and after God submit to mortal men as their lords."<span
-id="an_r_02_18"></span>[18](wott11.htm#an_n_02_18) The spearhead of the
+id="an_r_02_18"></span>[18](wott11.htm#an_n_02_18.md) The spearhead of the
 rebellion was the hard pressed peasantry but they were aided by the
 masses of the people generally, who suffered with them degradation and
 exploitation.
@@ -668,7 +668,7 @@ these men "sent ambassadors to Florus and … to Agrippa (the neighboring
 Jewish vassal prince) and they desired of them both that they would come
 with an army to the city and cut off the sedition before it should be
 too hard to the subdued."<span
-id="an_r_02_19"></span>[19](wott11.htm#an_n_02_19)
+id="an_r_02_19"></span>[19](wott11.htm#an_n_02_19.md)
 
 When in spite of their efforts, the revolutionary cause continued to
 make headway, they pretended conversion to the revolution but sabotaged
@@ -688,7 +688,7 @@ slipped to them the telling hint that he agreed with them but that they
 should be cautious. "I was well aware myself of the might of the Romans;
 but on account of those bandits I kept my knowledge to myself. I advised
 them to do the same, to bide their time and not to be intolerant of my
-command."<span id="an_r_02_20"></span>[20](wott11.htm#an_n_02_20)
+command."<span id="an_r_02_20"></span>[20](wott11.htm#an_n_02_20.md)
 Josephus actually instigated the escape of a spy sent by the Tiberians
 to Agrippa, inviting him to come and save their city from the
 revolution. And at the first opportunity he abandoned all pretense and
@@ -707,7 +707,7 @@ challenged Rome. When the revolt broke, the Roman empire was shaking
 with inner unrest. The "affairs of the Romans were … in great disorder …
 the affairs in the East were exceedingly tumultuous … The Gauls also …
 were in motion … and the Celts were not quiet …"<span
-id="an_r_02_21"></span>[21](wott11.htm#an_n_02_21) And the rebels had
+id="an_r_02_21"></span>[21](wott11.htm#an_n_02_21.md) And the rebels had
 reason to expect support from the far-flung Jewish communities outside
 of Palestine. The revolution failed largely because of an old truism in
 revolutionary history, that no colonial people can hope successfully to
@@ -789,7 +789,7 @@ indispensable for his conception of Jewish religious life. In the
 synagogue and the ritual of personal observance, he found adequate
 resources for the cultivation of the religious life. For, quoting Hosea
 (6:6), he explained, the Lord "desired loving-kindness and not
-sacrifices."<span id="an_r_02_22"></span>[22](wott11.htm#an_n_02_22)
+sacrifices."<span id="an_r_02_22"></span>[22](wott11.htm#an_n_02_22.md)
 
 When the challenge of rebellion was ultimately presented, Johanan and
 his followers counselled submission. They realized that rebellion
@@ -849,11 +849,11 @@ title, *rabbi*, master. The *rabban* was recognized by the Roman
 government as the official head of the Jewish community; and in
 cooperation with the rabbis he directed the study, adaptation and
 application of the Torah to the new needs of life.<span
-id="an_r_02_23"></span>[23](wott11.htm#an_n_02_23) All the literature of
+id="an_r_02_23"></span>[23](wott11.htm#an_n_02_23.md) All the literature of
 the supplementary Torah, in the form in which it has come down to our
 own day, including the copious literature of the Talmud, is the work of
 the rabbis, who became the undisputed leaders in post-war Judaism.
 
 ------------------------------------------------------------------------
 
-[Next: The Talmud in its Historical Setting](wott05)
+[Next: The Talmud in its Historical Setting](wott05.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ath03)  [Next](ath05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ath03)  [Next](ath05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766171663/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766171663/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -551,4 +551,4 @@ Lord or the Lamb.)
 
 ------------------------------------------------------------------------
 
-[Next: 201-250](ath05)
+[Next: 201-250](ath05.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo21)  [Next](aoo23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo21)  [Next](aoo23.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ reach his own home and country.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII](aoo23)
+[Next: Chapter XXIII](aoo23.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe23)  [Next](boe25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe23)  [Next](boe25.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,12 +26,12 @@ purely.
 drums&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Picture-Writing of the
 America, Indians&lt;/i&gt;; Garrick Mallery, 1894, p.
 515.)](tn/fig080.jpg)  
-Click to enlarge](img/fig080.jpg)  
+Click to enlarge](img/fig080.jpg.md)  
 FIGURE 80. *Painted Tartar and Mongol drums*.  
 (From *Picture-Writing of the America, Indians*; Garrick Mallery, 1894,
 p. 515.)  
 
-The upper left-hand design in [Fig. 80](#img_fig080), for instance,
+The upper left-hand design in [Fig. 80](#img_fig080.md), for instance,
 suggests at first glance not only a two-storied division of heaven and
 Earth, but a World Mountain and a World Tree. According to Mallery, the
 two circles with inner dots above the cross-bar represent the Moon and
@@ -60,7 +60,7 @@ The fourth design (*d*) was explained by the shaman no further than to
 say that the five wave-lines on either side of the face above the
 cross-bar are "serpents."
 
-The upper left-hand design in [Fig. 81](#img_fig081) has above its
+The upper left-hand design in [Fig. 81](#img_fig081.md) has above its
 dividing line two trees. "On each of them sits the bird karagush with
 the bill turned to the left." "On the left of the tree," Mallery goes on
 to say, "are two circles, one dark (the moon), the other light (the
@@ -84,7 +84,7 @@ tree. On the right
 drums&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Picture-Writing of the
 American Indians&lt;/i&gt;; Garrick Mallery, 1894, p.
 516.)](tn/fig081.jpg)  
-Click to enlarge](img/fig081.jpg)  
+Click to enlarge](img/fig081.jpg.md)  
 FIGURE 81. *Painted Tartar and Mongol drums*.  
 (From *Picture-Writing of the American Indians*; Garrick Mallery, 1894,
 p. 516.)  
@@ -114,7 +114,7 @@ there was an undefined figure not given in this drawing which the
 interpreting shaman called "the bura. Some said that it meant a cloud;
 others that it meant heavenly horses."
 
-The left-hand design in [Fig. 82](#img_fig082) is divided by four
+The left-hand design in [Fig. 82](#img_fig082.md) is divided by four
 vertical and four horizontal lines. "The latter," says Mallery,
 "represent the rainbow; the vertical lines borsui. Circles with dots in
 the center are represented in three sections, and in the fourth one
@@ -141,7 +141,7 @@ one of Hell (*jedăn tiigara*);
 drum&lt;/i&gt;s.&lt;br&gt; (From &lt;i&gt;Picture-Writing of the
 American Indians&lt;/i&gt;; Garrick Mallery, 1894, p.
 517.)](tn/fig082.jpg)  
-Click to enlarge](img/fig082.jpg)  
+Click to enlarge](img/fig082.jpg.md)  
 FIGURE 82. *Painted Tartar and Mongol drum*s.  
 (From *Picture-Writing of the American Indians*; Garrick Mallery, 1894,
 p. 517.)  
@@ -159,4 +159,4 @@ souls."
 
 ------------------------------------------------------------------------
 
-[Next: Maps of the Earth](boe25)
+[Next: Maps of the Earth](boe25.md)

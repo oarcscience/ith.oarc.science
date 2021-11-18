@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa83)  [Next](psa85) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa83)  [Next](psa85.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ circumstances and the history of her marriage.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXXIV](psa85)
+[Next: Chapter LXXXIV](psa85.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes33)  [Next](tes35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes33)  [Next](tes35.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ together only by the dry sinew.
 
 \[paragraph continues\] He cut the skeleton, disjointed all the bones,
 and laid them down in four separate places. <span
-id="fr_53"></span>[1](#fn_53)
+id="fr_53"></span>[1](#fn_53.md)
 
 After that the young man began to droop and pine and suffer. When
 walking, he would even stumble over the grass. When near to death, he
@@ -60,7 +60,7 @@ village of Pokhotsk in the lower Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_53"></span>[73:1](tes34.htm#fr_53) Grave-boxes made of wood
+<span id="fn_53"></span>[73:1](tes34.htm#fr_53.md) Grave-boxes made of wood
 were used by the Yukaghir. They are met with in the country of the
 Kolyma, chiefly in deep woods, on the banks of some lonesome little
 river, as described in the tale. This tale expresses the superstitious
@@ -69,4 +69,4 @@ country, the remainder of the Yukaghir included.
 
 ------------------------------------------------------------------------
 
-[Next: 14. Small-Pox, A Yukaghir Tale. (First Version.)](tes35)
+[Next: 14. Small-Pox, A Yukaghir Tale. (First Version.)](tes35.md)

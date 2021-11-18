@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ftmg04)  [Next](ftmg06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ftmg04)  [Next](ftmg06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fairy Tales of Modern Greece*, by Theodore P. Gianakoulis and Georgia
 H. MacPherson, \[1930\], at Intangible Textual Heritage
 
@@ -153,7 +153,7 @@ than for any of the other youths. He remembered her song:
 
 <span id="img_03100"></span> <span align="CENTER"> [![In the lake one
 saw mermaids with fairy faces.](tn/03100.jpg)  
-Click to enlarge](img/03100.jpg)  
+Click to enlarge](img/03100.jpg.md)  
 In the lake one saw mermaids with fairy faces.  
 </span>
 
@@ -236,4 +236,4 @@ found it.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Fairy Wife](ftmg06)
+[Next: III. The Fairy Wife](ftmg06.md)

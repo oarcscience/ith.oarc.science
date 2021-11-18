@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,8 +23,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](bui00)    [Page
-Index](pageidx)    [Text \[Zipped\]](bui.txt.gz)
+[Contents](#contents)    [Start Reading](bui00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](bui.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ Index](pageidx)    [Text \[Zipped\]](bui.txt.gz)
 
 This is a general survey of Masonic origins, history and philosophy. It
 was at one time given to every new Mason in Iowa, probably a better
-choice than [Morals and Dogma](../md/index), which is almost three times
+choice than [Morals and Dogma](../md/index.md), which is almost three times
 as long and much more difficult reading. This is a scholarly but
 approachable treatment of Masonry and will be enlightening both to
 practicing Freemasons and a general audience.
@@ -63,35 +63,35 @@ this story.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](bui00)  
-[The Anteroom](bui01)  
-[Table of Contents](bui02)  
+<span id="contents"></span> [Title Page](bui00.md)  
+[The Anteroom](bui01.md)  
+[Table of Contents](bui02.md)  
 <span id="section_000"></span>
 
 ### Part I—Prophecy
 
-[Chapter I. The Foundations](bui03)  
-[Chapter II. The Working Tools](bui04)  
-[Chapter III. The Drama of Faith](bui05)  
-[Chapter IV. The Secret Doctrine](bui06)  
-[Chapter V. The Collegia](bui07)  
+[Chapter I. The Foundations](bui03.md)  
+[Chapter II. The Working Tools](bui04.md)  
+[Chapter III. The Drama of Faith](bui05.md)  
+[Chapter IV. The Secret Doctrine](bui06.md)  
+[Chapter V. The Collegia](bui07.md)  
 <span id="section_001"></span>
 
 ### Part II—History
 
-[Chapter I. Free-masons](bui08)  
-[Chapter II. Fellowcrafts](bui09)  
-[Chapter III. Accepted Masons](bui10)  
-[Chapter IV. Grand Lodge of England](bui11)  
-[Chapter V. Universal Masonry](bui12)  
+[Chapter I. Free-masons](bui08.md)  
+[Chapter II. Fellowcrafts](bui09.md)  
+[Chapter III. Accepted Masons](bui10.md)  
+[Chapter IV. Grand Lodge of England](bui11.md)  
+[Chapter V. Universal Masonry](bui12.md)  
 <span id="section_002"></span>
 
 ### Part III—Interpretation
 
-[Chapter I. What is Masonry](bui13)  
-[Chapter II. The Masonic Philosophy](bui14)  
-[Chapter III. The Spirit of Masonry](bui15)  
+[Chapter I. What is Masonry](bui13.md)  
+[Chapter II. The Masonic Philosophy](bui14.md)  
+[Chapter III. The Spirit of Masonry](bui15.md)  
 
  
 
-[Bibliography](bui16)  
+[Bibliography](bui16.md)  

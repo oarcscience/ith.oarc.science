@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vob11)  [Next](vob13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vob11)  [Next](vob13.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ Láimhghel, p. 61, 10 above.
 
 ------------------------------------------------------------------------
 
-[Next: X. From Ms. Laud 613, p. 21](vob13)
+[Next: X. From Ms. Laud 613, p. 21](vob13.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb45)  [Next](olb47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb45)  [Next](olb47.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -25,7 +25,7 @@ clad in rich garments, and with money in their purses. In the same way
 as he sent Hetto to Kattaburgt, he sent Bruno that is, brown—the other
 brother-in-law, to Mannagarda oord. Mannagarda oord was written
 Mannagarda ford in the earlier part of this book <span
-id="fr_77"></span>[\*](#fn_77), but that is wrong. All the riches that
+id="fr_77"></span>[\*](#fn_77.md), but that is wrong. All the riches that
 they took with them were given away, according to circumstances, to
 princes, princesses, and chosen young girls. When his young men went to
 the tavern to dance with the young people there, they ordered baskets of
@@ -79,7 +79,7 @@ pleased, the girls were pleased, and their relations and friends.
 <span id="page_208">p. 208</span> <span id="page_209">p. 209</span>
 
 When Friso had been nearly forty years at Staveren he died <span
-id="fr_78"></span>[\*](#fn_78). Owing to him many of the states had been
+id="fr_78"></span>[\*](#fn_78.md). Owing to him many of the states had been
 joined together again, but that we were the better for it I am not
 prepared to certify. Of all the counts that preceded him there was none
 so renowned as Friso; for, as I said before, the young maidens spoke in
@@ -91,10 +91,10 @@ meddling, they made so much fuss that he died without becoming king.
 
 ### Footnotes
 
-<span id="fn_77"></span>[205:\*](olb46.htm#fr_77) See page 11.
+<span id="fn_77"></span>[205:\*](olb46.htm#fr_77.md) See page 11.
 
-<span id="fn_78"></span>[209:\*](olb46.htm#fr_78) 263 before Christ.
+<span id="fn_78"></span>[209:\*](olb46.htm#fr_78.md) 263 before Christ.
 
 ------------------------------------------------------------------------
 
-[Next: Now I will write about his son Adel](olb47)
+[Next: Now I will write about his son Adel](olb47.md)

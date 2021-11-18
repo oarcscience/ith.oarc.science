@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic013)  [Next](lfic015) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic013)  [Next](lfic015.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ remarks, Mrs. K., of the Duffrey, being our informant: -
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Child](lfic015)
+[Next: The Fairy Child](lfic015.md)

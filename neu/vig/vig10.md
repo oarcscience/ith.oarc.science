@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig09)  [Next](vig11) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig09)  [Next](vig11.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ the appetite for killing some one came upon him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](vig11)
+[Next: Chapter VIII](vig11.md)

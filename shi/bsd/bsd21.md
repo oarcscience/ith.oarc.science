@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd20)  [Next](bsd22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd20)  [Next](bsd22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -31,7 +31,7 @@ character is as tenacious as the "irreducible elements of species, of
 the fins of the fish, of the beak of the bird, of the tooth of the
 carnivorous animal." In his recent book, full of shallow asseverations
 and brilliant generalisations, M. LeBon <span
-id="fr_30"></span>[1](#fn_30) says: "The discoveries due to the
+id="fr_30"></span>[1](#fn_30.md) says: "The discoveries due to the
 intelligence are the common patrimony of humanity; qualities or defects
 of character
 
@@ -104,7 +104,7 @@ transition and will prove the formative force of the new era.
 The great statesmen who steered the ship of our state through the
 hurricane of the Restoration and the whirlpool of national rejuvenation,
 were men who knew no other moral teaching than the Precepts of
-Knighthood. Some writers <span id="fr_31"></span>[1](#fn_31) have lately
+Knighthood. Some writers <span id="fr_31"></span>[1](#fn_31.md) have lately
 tried to prove that the Christian missionaries contributed an
 appreciable quota to the making of New Japan. I would fain render honour
 to whom honour is due; but this honour can as yet hardly be accorded to
@@ -134,7 +134,7 @@ devised," he touched the mainspring which has made New Japan what
 <span id="page_174">p. 174</span>
 
 she is, and which will make her what she is destined to be. <span
-id="fr_32"></span>[1](#fn_32)
+id="fr_32"></span>[1](#fn_32.md)
 
 The transformation of Japan is a fact patent to the whole world. Into a
 work of such magnitude various motives naturally entered; but if one
@@ -160,7 +160,7 @@ imported European artillery. That is not exactly influence," continues
 Mr. Townsend, "unless, indeed, England is influenced by purchasing tea
 in China. Where is the European apostle," asks our author, "or
 philosopher or statesman or agitator, who has re-made Japan?" <span
-id="fr_33"></span>[1](#fn_33)
+id="fr_33"></span>[1](#fn_33.md)
 
 Mr. Townsend has well perceived that the spring of action which brought
 about the changes in Japan lay entirely within our own selves; and if he
@@ -182,7 +182,7 @@ working of Bushido. The universal politeness of the people, which is the
 legacy of knightly ways, is too well known to be repeated anew. The
 physical endurance, fortitude, and bravery that "the little Jap"
 possesses, were sufficiently proved in the Chino-Japanese war. <span
-id="fr_34"></span>[1](#fn_34) "Is there any nation more loyal and
+id="fr_34"></span>[1](#fn_34.md) "Is there any nation more loyal and
 patriotic?" is a question asked by many; and for the proud answer,
 "There is not," we must thank the Precepts of Knighthood.
 
@@ -286,7 +286,7 @@ part of themselves with the worst of their neighbours, the ideal of
 Christianity with the corruption of Greece or of the East. They have not
 aimed at impartiality, but have been contented to accumulate all that
 could be said in praise of their own, and in dispraise of other forms of
-religion." <span id="fr_35"></span>[1](#fn_35)
+religion." <span id="fr_35"></span>[1](#fn_35.md)
 
 But, whatever may be the error committed by individuals, there is little
 doubt that the fundamental principle of the religion they profess is a
@@ -299,25 +299,25 @@ are at work to threaten it.
 
 ### Footnotes
 
-<span id="fn_30"></span>[168:1](bsd21.htm#fr_30) *The Psychology of
+<span id="fn_30"></span>[168:1](bsd21.htm#fr_30.md) *The Psychology of
 Peoples*, p. 33.
 
-<span id="fn_31"></span>[172:1](bsd21.htm#fr_31) Speer: *Missions and
+<span id="fn_31"></span>[172:1](bsd21.htm#fr_31.md) Speer: *Missions and
 Politics in Asia*, Lecture IV., pp. 189-192; Dennis: *Christian Missions
 and Social Progress*, vol. i., p. 32, vol. ii., 70, etc.
 
-<span id="fn_32"></span>[174:1](bsd21.htm#fr_32) *The Far East*, p. 375.
+<span id="fn_32"></span>[174:1](bsd21.htm#fr_32.md) *The Far East*, p. 375.
 
-<span id="fn_33"></span>[175:1](bsd21.htm#fr_33) Meredith Townsend,
+<span id="fn_33"></span>[175:1](bsd21.htm#fr_33.md) Meredith Townsend,
 *Asia and Europe*, p. 28.
 
-<span id="fn_34"></span>[176:1](bsd21.htm#fr_34) Among other works on
+<span id="fn_34"></span>[176:1](bsd21.htm#fr_34.md) Among other works on
 the subject, read Eastlake and Yamada on *Heroic Japan*, and Diosy on
 *The New Far East*.
 
-<span id="fn_35"></span>[181:1](bsd21.htm#fr_35) Jowett, *Sermons on
+<span id="fn_35"></span>[181:1](bsd21.htm#fr_35.md) Jowett, *Sermons on
 Faith and Doctrine*, ii.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII: The Future Of Bushido](bsd22)
+[Next: Chapter XVII: The Future Of Bushido](bsd22.md)

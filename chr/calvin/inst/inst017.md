@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst016)  [Next](inst018) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst016)  [Next](inst018.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ consecrate their lives to his service. Certainly, if there is any
 quarter where it may be supposed that God is unknown, the most likely
 for such an instance to exist is among the dullest tribes farthest
 removed from civilisation. But, as a heathen tells us,5  <span
-id="fr_49"></span>[50](#fn_49) there is no nation so barbarous, no race
+id="fr_49"></span>[50](#fn_49.md) there is no nation so barbarous, no race
 so brutish, as not to be imbued with the conviction that there is a God.
 Even those who, in other respects, seem to differ least from the lower
 animals, constantly retain some sense of religion; so thoroughly has
@@ -79,7 +79,7 @@ were some, and in the present day not a few are foun who deny the being
 of a God, yet, whether they will or not, they occasionally feel the
 truth which they are desirous not to know. We do not read of any man who
 broke out into more unbridled and audacious contempt of the Deity than
-C. Caligula,5  <span id="fr_50"></span>[51](#fn_50) and yet none showed
+C. Caligula,5  <span id="fr_50"></span>[51](#fn_50.md) and yet none showed
 greater dread when any indication of divine wrath was manifested. Thus,
 however unwilling, he shook with terror before the God whom he
 professedly studied to condemn. You may every day see the same thing
@@ -104,7 +104,7 @@ heart. And that this belief is naturally engendered in all, and
 thoroughly fixed as it were in our very bones, is strikingly attested by
 the contumacy of the wicked, who, though they struggle furiously, are
 unable to extricate themselves from the fear of God. Though Diagoras,5
- <span id="fr_51"></span>[52](#fn_51) and others of like stamps make
+ <span id="fr_51"></span>[52](#fn_51.md) and others of like stamps make
 themselves merry with whatever has been believed in all ages concerning
 religion, and Dionysus scoffs at the Judgment of heaven, it is but a
 Sardonian grin; for the worm of conscience, keener than burning steel,
@@ -141,7 +141,7 @@ aspire to immortality.
 
 ### Footnotes
 
-<span id="fn_49"></span>[50](inst017.htm#fr_49) <span
+<span id="fn_49"></span>[50](inst017.htm#fr_49.md) <span
 id="iv.i.iv-p6.1"></span>
 
 <span id="iv.i.iv-p7"></span>4 54 “Intelligi necesse est deos, quoniam
@@ -152,12 +152,12 @@ inter omnes omnium gentium summa constat; omnibus enim innatum est, et
 in animo quasi insculptum esse deos.”—Lib. 2. c. 4. See also Lact. Inst.
 Div. lib. 3 c. 10.
 
-<span id="fn_50"></span>[51](inst017.htm#fr_50) <span
+<span id="fn_50"></span>[51](inst017.htm#fr_50.md) <span
 id="iv.i.iv-p8.1"></span>
 
 <span id="iv.i.iv-p9"></span>6 56 Suet. Calig. c. 51.
 
-<span id="fn_51"></span>[52](inst017.htm#fr_51) <span
+<span id="fn_51"></span>[52](inst017.htm#fr_51.md) <span
 id="iv.i.iv-p10.1"></span>
 
 <span id="iv.i.iv-p11"></span>7 57 Cic. De Nat. Deor. lib. 1 c. 23.
@@ -166,4 +166,4 @@ Valer. Max. lib. 1. c. 1.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 4. - THE KNOWLEDGE OF GOD STIFLED OR CORRUPTED,
-IGNORANTLY OR MALICIOUSLY.](inst018)
+IGNORANTLY OR MALICIOUSLY.](inst018.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre97)  [Next](gre99) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre97)  [Next](gre99.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ winters agone.
 ------------------------------------------------------------------------
 
 [Next: Chapter XCIV: Thorstein Dromund and Spes leave Norway
-again](gre99)
+again](gre99.md)

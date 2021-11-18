@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby18)  [Next](sby20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby18)  [Next](sby20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,10 +30,10 @@ runs that the shrine of Šeiḫ ’Adî was formerly a Nestorian monastery
 which was noted for the devotion of its monks, but that these were
 tempted by the devil and left their convent. The Church of the Monastery
 was dedicated to St. Thaddeus or Addai, <span
-id="fr_82"></span>[12](#fn_81) one of the seventy-two disciples who,
+id="fr_82"></span>[12](#fn_81.md) one of the seventy-two disciples who,
 after the ascension of our Lord, was sent to King Abgar of Edessa. It is
 said that the temple of ’Adî has a conventicle resembling that at
-Jerusalem. <span id="fr_83"></span>[13](#fn_82) The story of how the
+Jerusalem. <span id="fr_83"></span>[13](#fn_82.md) The story of how the
 cloister was deserted is as follows:
 
 On a great feast day, while the hermits bearing the cross went in
@@ -64,7 +64,7 @@ they have removed the writing from its former place and have hidden it
 at the entrance to ’Adî's temple, a spot the whereabouts of which only a
 few of them know. The reason why this record is hidden, it is explained,
 is the fear that the Nestorians may see it and reclaim the church. <span
-id="fr_84"></span>[14](#fn_83)
+id="fr_84"></span>[14](#fn_83.md)
 
 Such is the eastern Christian's tradition relative to the origin of the
 Yezidis. It is of course, merely a legend; but its character is such as
@@ -80,12 +80,12 @@ wherein he treats of the religion of Mesopotamia, according to the
 natives of the country, says that the Yezidis were at one time
 Christians, who, however, in the course of time, had forgotten the
 fundamental principles of their faith. <span
-id="fr_85"></span>[15](#fn_84) This statement
+id="fr_85"></span>[15](#fn_84.md) This statement
 
 <span id="page_99">p. 99</span>
 
 is incorporated in the writings of all western orientals that have
-travelled in the East. <span id="fr_86"></span>[16](#fn_85)
+travelled in the East. <span id="fr_86"></span>[16](#fn_85.md)
 
 Another thing worthy pf notice is that the Christians should have such a
 sacred regard for his tradition as to hand it down to posterity at the
@@ -107,10 +107,10 @@ fact is that the family name of the Yezidis around Mosul is Daseni, plur
 Dawasen. The Christians and the Mohammedans know them by this name, and
 they themselves also use it, and say it is the ancient name of their
 race, existing from time immemorial. <span
-id="fr_87"></span>[17](#fn_86) Now Daseni, or Dasaniyat, was the name of
+id="fr_87"></span>[17](#fn_86.md) Now Daseni, or Dasaniyat, was the name of
 a Nestorian Diocese, the disappearance of which is simultaneous with the
 appearance of the Yezidis in these places. <span
-id="fr_88"></span>[18](#fn_87)
+id="fr_88"></span>[18](#fn_87.md)
 
 <span id="page_100">p. 100</span>
 
@@ -128,7 +128,7 @@ destruction by dampness. After the door is locked, the key is kept by
 the Šeiḫ, besides whom and his son no one else is allowed to touch the
 books. What is more interesting, the people of Sinjar say they have
 inherited the library from their forefathers, who were Christians. <span
-id="fr_89"></span>[19](#fn_88) It is pointed out, furthermore, that the
+id="fr_89"></span>[19](#fn_88.md) It is pointed out, furthermore, that the
 names of the principal towns of the Yezidis are Syriac. Ba‘šika comes
 from "the house of the falsely accused, or oppressed"; Ba‘adrie from
 "the place of help or refuge"; Baḥzanie from "the house of visions or
@@ -158,7 +158,7 @@ observed where the Yezidi influence is not very strong, a fact which
 seems to indicate that the Apostate Nasara, who lived remote from
 strongly Yezidising influences, were able to retain some of their
 originally much favored practices, and vice versa. <span
-id="fr_90"></span>[20](#fn_89)
+id="fr_90"></span>[20](#fn_89.md)
 
 Finally, the Dawaseni entertain great reverence for Christianity and the
 Christian saints. They respect the churches and tombs of the Christians,
@@ -166,18 +166,18 @@ and kiss the doors and walls when they enter them; but they never visit
 a Mohammedan mosque. In the Black Book a statement is made that on her
 way to the house of her bridegroom, a bride should visit the temple of
 every idol she passes by, even if it be a Christian Church. <span
-id="fr_91"></span>[21](#fn_90) They have also professed reverence for
+id="fr_91"></span>[21](#fn_90.md) They have also professed reverence for
 
 <span id="page_102">p. 102</span>
 
 <span class="contnote">\[paragraph continues\]</span> ‘Isa (Jesus). They
 affect more attachment to An Naṣara than to Mohammedans. Such a
 religious affinity cannot be fully accounted for on any other ground
-than that of their sincere respect for [Christianity](errata.htm#9), a
+than that of their sincere respect for [Christianity](errata.htm#9.md), a
 feeling which clearly indicates that these people must at one time have
 had a very close connection with Christianity. This intimate relation
 cannot be explained by their ignorance, or by kindred experiences, as
-some scholars seem to think. <span id="fr_92"></span>[22](#fn_91) It is
+some scholars seem to think. <span id="fr_92"></span>[22](#fn_91.md) It is
 true the Christians have been co-sufferers with them; both have lived
 for generations under the same yoke of bondage and oppression and under
 similar circumstances. But this alone could not create sympathy between
@@ -215,41 +215,41 @@ clew in the tracing of the sect in question to its founder.
 
 ### Footnotes
 
-<span id="fn_81"></span>[97:12](sby19.htm#fr_82) Fraser: Ibid, p. 147.
+<span id="fn_81"></span>[97:12](sby19.htm#fr_82.md) Fraser: Ibid, p. 147.
 
-<span id="fn_82"></span>[97:13](sby19.htm#fr_83) Rich: *Residence in
+<span id="fn_82"></span>[97:13](sby19.htm#fr_83.md) Rich: *Residence in
 Kurdistan*, vol. II, p. 69.
 
-<span id="fn_83"></span>[98:14](sby19.htm#fr_84) *Al-Mašrik*, vol. II,
+<span id="fn_83"></span>[98:14](sby19.htm#fr_84.md) *Al-Mašrik*, vol. II,
 p. 396.
 
-<span id="fn_84"></span>[98:15](sby19.htm#fr_85) Ibid, vol. III, p. 493.
+<span id="fn_84"></span>[98:15](sby19.htm#fr_85.md) Ibid, vol. III, p. 493.
 
-<span id="fn_85"></span>[99:16](sby19.htm#fr_86) Fraser: Ibid; Rich,
+<span id="fn_85"></span>[99:16](sby19.htm#fr_86.md) Fraser: Ibid; Rich,
 ibid.
 
-<span id="fn_86"></span>[99:17](sby19.htm#fr_87) Badger: *Nestorians and
+<span id="fn_86"></span>[99:17](sby19.htm#fr_87.md) Badger: *Nestorians and
 Their Rituals*, vol. I, p. 111; Fraser, ibid, p. 285.
 
-<span id="fn_87"></span>[99:18](sby19.htm#fr_88) *Al-Maš*rik, ibid, p.
+<span id="fn_87"></span>[99:18](sby19.htm#fr_88.md) *Al-Maš*rik, ibid, p.
 36.
 
 ‘Abdišû was at one time bishop of Sinjar; cf. Fardaisa de ‘Eden, ed. by
 B. Cardaḥi, Beirut, 1889, p. 5.
 
-<span id="fn_88"></span>[100:19](sby19.htm#fr_89) Ibid, pp. 56, 110,
+<span id="fn_88"></span>[100:19](sby19.htm#fr_89.md) Ibid, pp. 56, 110,
 832.
 
-<span id="fn_89"></span>[101:20](sby19.htm#fr_90) <span id="page_139">p.
+<span id="fn_89"></span>[101:20](sby19.htm#fr_90.md) <span id="page_139">p.
 139</span> Ibid. This rite is practiced by the Yezidis of Ḫalitiyeh, a
 dependency of Darbeker, where the Yezidis are few in number.
 
-<span id="fn_90"></span>[101:21](sby19.htm#fr_91) Southgate: *A Tour
+<span id="fn_90"></span>[101:21](sby19.htm#fr_91.md) Southgate: *A Tour
 Through Armenia*, etc., Vol. II, p. 179.
 
-<span id="fn_91"></span>[102:22](sby19.htm#fr_92) See [p.
-42](sby11.htm#page_42) of this book. Badger, ibid, p. 128.
+<span id="fn_91"></span>[102:22](sby19.htm#fr_92.md) See [p.
+42](sby11.htm#page_42.md) of this book. Badger, ibid, p. 128.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Speculative Theories of Western Orientalists](sby20)
+[Next: III. The Speculative Theories of Western Orientalists](sby20.md)

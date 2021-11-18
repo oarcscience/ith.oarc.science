@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr00)  [Next](ppr02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr00)  [Next](ppr02.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ M. E. R.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ppr02)
+[Next: Contents](ppr02.md)

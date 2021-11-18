@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo26)  [Next](sdo28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo26)  [Next](sdo28.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ present. A strange young man should be treated in like manner, so that
 
 ------------------------------------------------------------------------
 
-[Next: Installation of the Dancers](sdo28)
+[Next: Installation of the Dancers](sdo28.md)

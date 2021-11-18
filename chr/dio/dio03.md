@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio02)  [Next](dio04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio02)  [Next](dio04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ Aristotle are not authorities here. When Plato treated his Hebrew
 instructor with such reverence, and was so versed in the Pentateuch, we
 need not be sensitive as to the admission of Plato’s authority. But, as
 a matter of fact, on the question of Exemplars <span
-id="fr_1"></span>[2](#fn_1) and some other points, the opinions of Plato
+id="fr_1"></span>[2](#fn_1.md) and some other points, the opinions of Plato
 are expressly refuted. The phrase of Luther, "Platonising, rather than
 Christianising," proves only a very <span id="page_x">p. x</span> <span
 id="ii.ii.i-Page_x"></span>meagre acquaintance with Dionysius. The Greek
@@ -51,9 +51,9 @@ Dionysius is the Master, not Pupil! The works are very distinct and
 precise upon the Divinity of Christ, and the Hypostatic Union. Like St.
 Paul, Dionysius affirms that He, Who made all things, is God; and
 further that Jesus is God, by some startling phraseology. He speaks of
-James, "the Lord’s brother <span id="fr_2"></span>[3](#fn_2) ," as
+James, "the Lord’s brother <span id="fr_2"></span>[3](#fn_2.md) ," as
 "brother of God" David, from whom was born Christ after the flesh, is
-called "father of God <span id="fr_3"></span>[4](#fn_3) ." When speaking
+called "father of God <span id="fr_3"></span>[4](#fn_3.md) ." When speaking
 of the entombment of the Blessed Virgin, he speaks of her body as the
 "Life-springing" and "God-receptive body;" thus testifying that Jesus,
 born of a pure Virgin, is Life and God. He describes the miracles of
@@ -75,7 +75,7 @@ behind both sensible perception, and intellectual efforts, and all
 objects of sense and intelligence; and all things being and not being,
 and be raised aloft as far as attainable, <span
 id="ii.ii.i-p1.6"></span>ἀγνώστως--unknowingly <span
-id="fr_4"></span>[5](#fn_4) ,--to the union with Him above every essence
+id="fr_4"></span>[5](#fn_4.md) ,--to the union with Him above every essence
 and knowledge. For by the resistless and absolute ecstacy from thyself,
 in all purity, thou wilt be carried high to the superessential ray of
 the Divine darkness, when thou hast cast away all, and become liberated
@@ -103,7 +103,7 @@ the truth, Dionysius anticipated many errors--ancient and modern.
 
 <span id="ii.ii.i-p3"></span>Jerome informs us (Scr. <span
 id="ii.ii.i-p3.1"></span>Ecc. 46<span id="ii.ii.i-p3.1"></span>) that
-Pantaenus <span id="fr_5"></span>[6](#fn_5) , one of the most celebrated
+Pantaenus <span id="fr_5"></span>[6](#fn_5.md) , one of the most celebrated
 Christian philosophers of Alexandria, was sent, A.D. 193, by Demetrius,
 Bishop of that city, to India, at the request of a <span
 id="page_xiii">p. xiii</span> <span
@@ -114,13 +114,13 @@ Pantaenus found a copy of the Hebrew Gospel of St. Matthew in India.
 Now, by the extract, contained in the Scholia of Maximus, from the
 Scholia of Dionysius of Alexandria (250) upon the Divine Names, and also
 by the extract from a letter of the same Dionysius, recently discovered
-in the British Museum <span id="fr_6"></span>[7](#fn_6) (Nos. 12151-2),
+in the British Museum <span id="fr_6"></span>[7](#fn_6) (Nos. 12151-2.md),
 we know that the writings of Dionysius the Areopagite were known and
 treasured in Alexandria a few years after the death of Pantaenus. Can we
 reasonably doubt that Pantaenus took the writings of Dionysius, and the
 more abstract works of Hierotheus, to India? Have we not here an
 explanation of the remarkable similarity between the Hindu philosophy,
-as expressed by Sankara <span id="fr_7"></span>[8](#fn_7) in the eighth,
+as expressed by Sankara <span id="fr_7"></span>[8](#fn_7.md) in the eighth,
 and Râmânuja in the thirteenth century, and the "Divine Names?" Sankara
 treats of the Supreme as "absolutely One;" Râmânuja as "non-dual, with
 qualification." Both these truths are combined and expressed in
@@ -129,7 +129,7 @@ Dionysius.
 <span id="ii.ii.i-p4"></span>I cannot but believe that many of the
 beautiful expressions about Vishnu, the Redeemer, in the Râmâyana of
 Tulsidâs are Christian Truths under a Hindu dress <span
-id="fr_8"></span>[9](#fn_8) . Many learned Hindus affirm that it is
+id="fr_8"></span>[9](#fn_8.md) . Many learned Hindus affirm that it is
 <span id="page_xiv">p. xiv</span> <span
 id="ii.ii.i-Page_xiv"></span>needless for them to become Christian,
 because they have a more exalted conception of the Supreme God than
@@ -191,15 +191,15 @@ his <span id="page_xvi">p. xvi</span> <span
 id="ii.ii.i-Page_xvi"></span>Epistle to the Colossians, Chap. I. v. 23
 (<span id="ii.ii.i-p11.1"></span>τοῦ κηρυχθέντος ἐν πάσῃ κτίσει), and
 with such success amongst the most learned and noble, that, but for the
-cruel massacre of Flavius <span id="fr_9"></span>[10](#fn_9) Clemens and
+cruel massacre of Flavius <span id="fr_9"></span>[10](#fn_9.md) Clemens and
 his family for the Christian Faith, there would have been a Christian
 Emperor in the first century. As Jesus said, "Ye shall be witnesses of
 Me unto the *uttermost parts* of the earth" (<span
-id="ii.ii.i-p11.3"></span>[Acts 1:8](../../bib/kjv/act001.htm#008)<span
+id="ii.ii.i-p11.3"></span>[Acts 1:8](../../bib/kjv/act001.htm#008.md)<span
 id="ii.ii.i-p11.3"></span>), so the Apostles planted the Church of
 Christ in Gaul, Spain and Britain, with its threefold ministry; and by
 the end of the second century there was an organised Church throughout
-each of those territories <span id="fr_10"></span>[11](#fn_10) .
+each of those territories <span id="fr_10"></span>[11](#fn_10.md) .
 
 <span id="ii.ii.i-p12"></span>Dr. Schneider informs me "that in Germany
 they now admit that the external proofs are in favour of genuineness of
@@ -217,43 +217,43 @@ Theologus, have understood theology!!
 
 ### Footnotes
 
-<span id="fn_1"></span>[vii:2](dio03.htm#fr_1) <span
+<span id="fn_1"></span>[vii:2](dio03.htm#fr_1.md) <span
 id="ii.ii.i-p1.1"></span> C. V. § 2.
 
-<span id="fn_2"></span>[x:3](dio03.htm#fr_2) <span
+<span id="fn_2"></span>[x:3](dio03.htm#fr_2.md) <span
 id="ii.ii.i-p1.2"></span><span id="ii.ii.i-p1.3"></span>Ἀδελφόθεος.
 
-<span id="fn_3"></span>[x:4](dio03.htm#fr_3) <span
+<span id="fn_3"></span>[x:4](dio03.htm#fr_3.md) <span
 id="ii.ii.i-p1.4"></span><span id="ii.ii.i-p1.5"></span>Θεοπάτορ.
 
-<span id="fn_4"></span>[xi:5](dio03.htm#fr_4) <span
+<span id="fn_4"></span>[xi:5](dio03.htm#fr_4.md) <span
 id="ii.ii.i-p1.7"></span>As beyond knowledge.
 
-<span id="fn_5"></span>[xii:6](dio03.htm#fr_5) <span
+<span id="fn_5"></span>[xii:6](dio03.htm#fr_5.md) <span
 id="ii.ii.i-p3.2"></span>Conversion of India, p. 12. Pressensé, The
 Earlier Years of Christianity, Vol. II. p. 271. The History of Mathurâ
 (Muttra), by F. S. Growse, on the glorification of the Divine Name.
 
-<span id="fn_6"></span>[xiii:7](dio03.htm#fr_6) <span
+<span id="fn_6"></span>[xiii:7](dio03.htm#fr_6.md) <span
 id="ii.ii.i-p3.3"></span>Vidieu, p. 73.
 
-<span id="fn_7"></span>[xiii:8](dio03.htm#fr_7) <span
+<span id="fn_7"></span>[xiii:8](dio03.htm#fr_7.md) <span
 id="ii.ii.i-p3.4"></span>Sankara’s doctrine, Sir Monier Williams,
 "Brahmanism," p. 55. Râmânuja’s explained, "Brahmanism," p. 119, &c. J.
 Murray.
 
-<span id="fn_8"></span>[xiii:9](dio03.htm#fr_8) <span
+<span id="fn_8"></span>[xiii:9](dio03.htm#fr_8.md) <span
 id="ii.ii.i-p4.1"></span>At Council of Nicea in 325, Johannes, the
 Metropolitan of Persia, signed also as "of the great India." Merv was an
 Episcopal See, A.D. 334. Con. of India, pp. 15--31.
 
-<span id="fn_9"></span>[xvi:10](dio03.htm#fr_9) <span
+<span id="fn_9"></span>[xvi:10](dio03.htm#fr_9.md) <span
 id="ii.ii.i-p11.2"></span>Burton, Ecc. Hist., Vol. I. p. 367.
 
-<span id="fn_10"></span>[xvi:11](dio03.htm#fr_10) <span
+<span id="fn_10"></span>[xvi:11](dio03.htm#fr_10.md) <span
 id="ii.ii.i-p11.4"></span>Mansi I. 698, Jaffi. Regesta Rom. Pon. 2nd
 Ed., p. 10, by Ewald.
 
 ------------------------------------------------------------------------
 
-[Next: Caput I.](dio04)
+[Next: Caput I.](dio04.md)

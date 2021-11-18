@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda19)  [Next](nda21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda19)  [Next](nda21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -71,7 +71,7 @@ WITH GUDRID, THE WIDOW OF THORSTEIN ERIKSON.
 
 (*Translation from the Manuscript*.)
 
-THORD hight <span id="fr_27"></span>[1](#fn_27) a man who lived at Hofda
+THORD hight <span id="fr_27"></span>[1](#fn_27.md) a man who lived at Hofda
 in Hofda strand; he married Fridgerda, daughter of Thorer Hyma and
 Fridgerda daughter of Kjarval, king of the Irish. Thord was the son of
 Bjarni Byrdusmjor, son of Thorvald Ryg, son of Asleik, son of Bjarni
@@ -111,7 +111,7 @@ intercourse, that ye will feel the want of attention; but, on the other
 hand, I fear that when ye come elsewhere it will be said that ye have
 never passed a worse Yule than that which now approaches, when Erik the
 Red entertained ye at Brattahlid, in Greenland." "It shall not be so,
-Yeoman!" <span id="fr_28"></span>[1](#fn_28) said Karlsefne; "we have in
+Yeoman!" <span id="fr_28"></span>[1](#fn_28.md) said Karlsefne; "we have in
 our ship, both malt and corn; take as much as thou desirest thereof, and
 make ready a feast as grand as thou wilt!" This Erik (Leif) accepted,
 and now preparation was made for the feast of Yule, and this'
@@ -124,7 +124,7 @@ like pomp in a poor land. And after Yule Karlsefni disclosed to Erik
 must have the power in this matter. Erik answered favourably, and said
 that she must follow her fate, and that he had heard nothing but good of
 him; and it ended so that Thorfinn married Thurid <span
-id="fr_29"></span>[1](#fn_29) (Gudrid), and then was the feast extended;
+id="fr_29"></span>[1](#fn_29) (Gudrid.md), and then was the feast extended;
 and their marriage was celebrated; and this happened at Brattahlid, in
 the winter.
 
@@ -145,19 +145,19 @@ married Freydis, a natural daughter of Erik the Red; he went
 <span id="page_219">p. 219</span>
 
 also with them, and Thorvald the son of Erik, <span
-id="fr_30"></span>[1](#fn_30) and Thorhall who was called the hunter; he
+id="fr_30"></span>[1](#fn_30.md) and Thorhall who was called the hunter; he
 had long been with Erik, and served him as huntsman in summer and
 steward in winter; he was a large man, and strong, black and like a
 giant, silent and foul-mouthed in his speech, and always egged on Erik
 to the worst; he was a bad Christian; he was well acquainted with
 uninhabited parts, he was in the ship with Thorvard and Thorvald. They
 had the ship which Thorbjorn had brought out \[from Iceland\]. They had
-in all 160 men, <span id="fr_31"></span>[2](#fn_31) when they sailed to
+in all 160 men, <span id="fr_31"></span>[2](#fn_31.md) when they sailed to
 the western settlement, and from thence to Bjanney. Then sailed they two
 days to the south; then saw they land, and put off boats, and explored
 the land, and found there great flat stones, many of which were 12 ells
 broad; foxes were there. They gave the land a name, and called it
-Helluland. <span id="fr_32"></span>[3](#fn_32) Then sailed they two
+Helluland. <span id="fr_32"></span>[3](#fn_32.md) Then sailed they two
 days, and turned from the south to the southeast, and found a land
 covered with wood, and many wild beasts upon it; an island lay there out
 from the land to the south-east; there killed they a bear, and called
@@ -181,7 +181,7 @@ made that a hat was on the top, and it was open at the sides, and no
 arms to it; fastened together between the legs, with buttons and clasps,
 but in other places it was open. They staid away the appointed time, but
 when they came back, the one had in the hand a bunch of grapes, and the
-other a new sown ear of wheat; <span id="fr_33"></span>[1](#fn_33) these
+other a new sown ear of wheat; <span id="fr_33"></span>[1](#fn_33.md) these
 went on board the ship, and after that sailed they farther. They sailed
 into a frith; there lay an island before it, round which there were
 strong currents, therefore called they it Stream island. There were so
@@ -203,7 +203,7 @@ and gaped both with nose and mouth, and murmured something; they asked
 him why he had gone there; he said it was no business of theirs; they
 bade him come home with them, and he did so. Soon after, came there a
 whale, and they went thither, and cut it up, and no one knew, what sort
-of whale it was; and when the cooked [dressed](errata.htm#11) it then
+of whale it was; and when the cooked [dressed](errata.htm#11.md) it then
 ate they, and all became ill in consequence. Then said Thorhall: "The
 red bearded was more helpful than your Christ; this have I got now for
 my verses that I sung of Thor, my protector; seldom has he deserted me."
@@ -491,38 +491,38 @@ with us! Amen!
 
 ### Footnotes
 
-<span id="fn_27"></span>[216:1](nda20.htm#fr_27) The word "hight" means
+<span id="fn_27"></span>[216:1](nda20.htm#fr_27.md) The word "hight" means
 name so that the sentence may be read: "A man named Thord, who lived at
 Hofda," etc.
 
-<span id="fn_28"></span>[217:1](nda20.htm#fr_28) Bondi, a householder.
+<span id="fn_28"></span>[217:1](nda20.htm#fr_28.md) Bondi, a householder.
 
-<span id="fn_29"></span>[218:1](nda20.htm#fr_29) The daughter of
+<span id="fn_29"></span>[218:1](nda20.htm#fr_29.md) The daughter of
 Thorbjorn is sometimes called Thurid and sometimes Gudrid, in this
 narrative; and the Editor thinks it probable that she was called by the
 former name during childhood, but that, afterwards, for religious
 reasons, the pagan name (derived from the God Thor) was laid aside, and
 that of Gudrid adopted in its place.
 
-<span id="fn_30"></span>[219:1](nda20.htm#fr_30) Here is again evidently
+<span id="fn_30"></span>[219:1](nda20.htm#fr_30.md) Here is again evidently
 some confusion of names, as Thorvald Erikson's death has been previously
 related in the Saga of Erik the Red, and Karlsefni was now married to
 his widow Gudrid; it seems probable that some other Thorvald accompanied
 Karlsefne on this voyage.
 
-<span id="fn_31"></span>[219:2](nda20.htm#fr_31) Literally "40 men and a
+<span id="fn_31"></span>[219:2](nda20.htm#fr_31.md) Literally "40 men and a
 hundred" \[40 manna oh hundrad\] but the great or long hundred must be
 understood, consisting of 12 decades, or 120. Antiq. Amer. p. 137, note
 *b*. Thus Tegner, describing the drinking hall of Frithiof: Not five
 hundred men (though ten twelves you count to the hundred), could fill
 that wide hall, when they gathered to banquet at Yule.
 
-<span id="fn_32"></span>[219:3](nda20.htm#fr_32) The whole of the
+<span id="fn_32"></span>[219:3](nda20.htm#fr_32.md) The whole of the
 northern coast of America, west of Greenland, was called by the ancient
 Icelandic geographers *Helluland it Mikla*, or Great Helluland; and the
 island of Newfoundland simply Helluland, or *Litla Helluland*.
 
-<span id="fn_33"></span>[220:1](nda20.htm#fr_33) Hveitiax nysaid. This
+<span id="fn_33"></span>[220:1](nda20.htm#fr_33.md) Hveitiax nysaid. This
 was, no doubt, the maize or Indian corn,--the "fruges non seminatas" of
 Adam of Bremen,--which, as well as beans, pumpkins, and squashes, were
 found growing in the State of Massachusetts, when first visited by the
@@ -530,4 +530,4 @@ whites.
 
 ------------------------------------------------------------------------
 
-[Next: Voyage of Freydis, Helgi and Finnbogi](nda21)
+[Next: Voyage of Freydis, Helgi and Finnbogi](nda21.md)

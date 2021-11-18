@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft31)  [Next](eft33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft31)  [Next](eft33.md) 
 
 ------------------------------------------------------------------------
 
 # Whittington and his Cat
 
 <span id="img_048"></span> [![](tn/048.jpg)  
-Click to enlarge](img/048.jpg)
+Click to enlarge](img/048.jpg.md)
 
 IN the reign of the famous King Edward III there was a little boy called
 Dick Whittington whose father and mother died when he was very young. As
@@ -245,7 +245,7 @@ a bill of lading; when he looked at this the merchant lifted up his eyes
 and thanked Heaven for sending him such a prosperous voyage.
 
 <span id="img_049"></span> [![](tn/049.jpg)  
-Click to enlarge](img/049.jpg)
+Click to enlarge](img/049.jpg.md)
 
 They then told the story of the cat, and showed the rich present that
 the king and queen had sent for her to poor Dick. As soon as the
@@ -326,4 +326,4 @@ prison at Newgate, which he built for criminals.
 
 ------------------------------------------------------------------------
 
-[Next: The Strange Visitor](eft33)
+[Next: The Strange Visitor](eft33.md)

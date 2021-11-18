@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont21)  [Next](ont23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont21)  [Next](ont23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -75,7 +75,7 @@ hoofs. The time had now come for the dances to be held over the
 
 <span id="img_26300"></span> <span align="CENTER"> [![MEDICINE PIPE
 PRIESTS WITH DRUMS.](tn/26300.jpg)  
-Click to enlarge](img/26300.jpg)  
+Click to enlarge](img/26300.jpg.md)  
 MEDICINE PIPE PRIESTS WITH DRUMS.  
 </span>
 
@@ -356,4 +356,4 @@ allowing for the influence of his mental environment.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. Dance of the Kisapa Society](ont23)
+[Next: Chapter XX. Dance of the Kisapa Society](ont23.md)

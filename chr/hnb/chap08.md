@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap07)  [Next](chap09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap07)  [Next](chap09.md) 
 
 ------------------------------------------------------------------------
 
@@ -816,4 +816,4 @@ ship of state went on the rocks.
 ------------------------------------------------------------------------
 
 [Next: IX. Downfall of Israel and Judah--The Patriotic Stories of Daniel
-and Esther](chap09)
+and Esther](chap09.md)

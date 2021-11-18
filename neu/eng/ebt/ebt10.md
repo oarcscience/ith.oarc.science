@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt09)  [Next](ebt11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt09)  [Next](ebt11.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ seating.
 <span id="img_pl05"></span>
 
 [![PLATE V. SIGHTING CUTTINGS](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 PLATE V. SIGHTING CUTTINGS  
 
 <table>
@@ -63,7 +63,7 @@ PLATE V. SIGHTING CUTTINGS
 <span id="img_pl06"></span>
 
 [![PLATE VI. CAUSEWAYS.](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
 PLATE VI. CAUSEWAYS.  
 
 <table>
@@ -82,4 +82,4 @@ PLATE VI. CAUSEWAYS.
 
 ------------------------------------------------------------------------
 
-[Next: Earth Cuttings](ebt11)
+[Next: Earth Cuttings](ebt11.md)

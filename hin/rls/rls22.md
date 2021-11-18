@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls21)  [Next](rls23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls21)  [Next](rls23.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ which may help in bringing the Vedânta nearer to ourselves, or ourselves
 nearer to the Vedânta, so that it may be looked upon not simply as a
 strange and curious system, but as a system of thought with which we can
 sympathise, nay, which, with certain modifications, we can appropriate
-for our own purposes <span id="fr_11"></span>[2](#fn_11). One of the
+for our own purposes <span id="fr_11"></span>[2](#fn_11.md). One of the
 most ancient commands of Greek philosophy was the famous Γνῶθι σεαυτόν,
 know thyself. Here the Hindu philosopher would step in at once and say
 that
@@ -152,7 +152,7 @@ chiefly a perceptive and arranging faculty by a name that implies
 reasoning from the lowest to the highest form. With us *Verstand* is
 what distinguishes men from animals, while in the Vedânta, Manas is not
 denied to animals, not even, as it would seem, to plants <span
-id="fr_12"></span>[1](#fn_12).
+id="fr_12"></span>[1](#fn_12.md).
 
 It seems better therefore to retain as much as possible
 
@@ -299,11 +299,11 @@ Self is real the world is not.
 
 ### Footnotes
 
-<span id="fn_11"></span>[80:2](rls22.htm#fr_11) Cf. Deussen, l.c. p. 60
+<span id="fn_11"></span>[80:2](rls22.htm#fr_11.md) Cf. Deussen, l.c. p. 60
 seq.
 
-<span id="fn_12"></span>[85:1](rls22.htm#fr_12) Deussen, 1.c. p. 258.
+<span id="fn_12"></span>[85:1](rls22.htm#fr_12.md) Deussen, 1.c. p. 258.
 
 ------------------------------------------------------------------------
 
-[Next: Final Conclusion, Tat tvamasi](rls23)
+[Next: Final Conclusion, Tat tvamasi](rls23.md)

@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf26)  [Next](taf28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf26)  [Next](taf28.md) 
 
 ------------------------------------------------------------------------
 
 ##### *3. Ways of Practising the Right Path.*
 
 By this we mean that all Bodhisattvas, by their aspiration
-(*cittotpâda*) <span id="fr_168"></span>[1](#fn_168) and discipline
+(*cittotpâda*) <span id="fr_168"></span>[1](#fn_168.md) and discipline
 (*caryâcarana*), will be able to attain to the reason that made all
 Tathâgatas perceive the path (*mârga*).
 
@@ -23,10 +23,10 @@ Now the people who belong to the group of inconstancy
 <span id="page_114">p. 114</span>
 
 \[paragraph continues\] (*aniyatarâçi*), <span
-id="fr_169"></span>[1](#fn_169) by virtue of their root of merit
+id="fr_169"></span>[1](#fn_169.md) by virtue of their root of merit
 (*kuçalamûla*), which has a perfuming power, firmly believe in the
 retribution of karma, practise the ten virtues (*daçakuçalâni*), <span
-id="fr_170"></span>[2](#fn_170) loathe the sufferings of birth and
+id="fr_170"></span>[2](#fn_170.md) loathe the sufferings of birth and
 death, seek after the most excellent enlightenment (*Samyaksambodhi*),
 and seeing Buddhas and Bodhisattvas they wait on them, make offerings to
 them, discipline themselves in many \[meritorious\] deeds; and after the
@@ -58,8 +58,8 @@ Pratyekabuddhas \[i.e., their attainment would not be higher than that
 of Çrâvakas or Pratyekabuddhas\].
 
 Some of them may even aspire to seek after the Mahâbodhi, <span
-id="fr_171"></span>[1](#fn_171) but owing to the instability of their
-character, they will ever [oscillate](errata.htm#14) between progress
+id="fr_171"></span>[1](#fn_171.md) but owing to the instability of their
+character, they will ever [oscillate](errata.htm#14.md) between progress
 and retrogression.
 
 Some of them, happening to see Buddhas and Bodhisattvas, may make
@@ -163,7 +163,7 @@ the
 <span id="page_119">p. 119</span>
 
 \[paragraph continues\] Anupadhiçesa Nirvâna, <span
-id="fr_172"></span>[1](#fn_172) because the true nature of all objects
+id="fr_172"></span>[1](#fn_172.md) because the true nature of all objects
 is free from relativity, is one and the same, making no distinction
 between this and that, and is absolutely calm and tranquil. Thus to be
 in accord with the three attributes \[i.e., non-relativity, sameness,
@@ -174,7 +174,7 @@ universal means of great vows.
 aspires to the highest truth, he is able to have a partial insight into
 the Dharmakâya of the Buddha; and according to the power of the vow
 (*pranâdhânavaça*), he performs eight things, to wit, his descent from
-the palace in the Tushita heaven <span id="fr_173"></span>[2](#fn_173)
+the palace in the Tushita heaven <span id="fr_173"></span>[2](#fn_173.md)
 
 <span id="page_120">p. 120</span>
 
@@ -185,17 +185,17 @@ Parinirvâna.
 
 He is not, however, as yet to be called absolute Dharmakâya, for he has
 not yet completely destroyed the impure <span
-id="fr_174"></span>[1](#fn_174) karma that has been accumulated during
+id="fr_174"></span>[1](#fn_174.md) karma that has been accumulated during
 his numberless existences in the past; perchance by the influence of the
 evil karma he may suffer a little amount of misery. But he suffers it
 only for a short time, and this not because of his being fettered by the
 evil karma, but because of his own vow-power (*pranidhânavaça*) \[which
 he made for the universal emancipation of mankind\].
 
-It is sometimes said in the Sûtra <span id="fr_175"></span>[2](#fn_175)
+It is sometimes said in the Sûtra <span id="fr_175"></span>[2](#fn_175.md)
 that even those Bodhisattvas who aspired \[to the highest truth\]
 through the perfection of their faith might relapse and fall down to the
-evil creation (*apâyagati*). <span id="fr_176"></span>[3](#fn_176) But
+evil creation (*apâyagati*). <span id="fr_176"></span>[3](#fn_176.md) But
 this was
 
 <span id="page_121">p. 121</span>
@@ -209,18 +209,18 @@ Further the Bodhisattva has since his first aspiration disciplined
 himself in those deeds which are beneficial both to himself and others,
 and thereby his heart has become free from timidity, inasmuch as he
 would not shudder even at the thought of falling down to the stage of
-Çrâvakahood or [Pratyekabuddhahood](errata.htm#17), any more than to the
+Çrâvakahood or [Pratyekabuddhahood](errata.htm#17.md), any more than to the
 evil creation (*apâyagati*).
 
 If he learn that he is able to attain to Buddhahood only after an
 assiduous observance of various rules of austerity and mortification
 during immeasurable asamkheya-kalpas, <span
-id="fr_177"></span>[1](#fn_177) he will never be frightened nor will he
+id="fr_177"></span>[1](#fn_177.md) he will never be frightened nor will he
 falter. How then could he ever raise such thoughts as cherished by
 Çrâvakas or Pratyekabuddhas? How then could be fall down to the evil
 creation (*apâyagati*)? He has a firm faith in the truth that all things
 (*sarvadharma*) from. the beginning are in their nature Nirvâna
-itself. <span id="fr_178"></span>[2](#fn_178)
+itself. <span id="fr_178"></span>[2](#fn_178.md)
 
 <span id="page_122">p. 122</span>
 
@@ -280,7 +280,7 @@ quarters and to make offerings to all Buddhas and to beseech them to
 revolve the Wheel of the Dharma (*darmacakrapravartana*). His sole
 desire being to benefit all beings, he does not care for any melodious
 sounds or words \[which he can enjoy in his heavenly abode\]. <span
-id="fr_179"></span>[1](#fn_179) In order to encourage weak-hearted
+id="fr_179"></span>[1](#fn_179.md) In order to encourage weak-hearted
 people, he shows great energy and
 
 <span id="page_124">p. 124</span>
@@ -291,7 +291,7 @@ instigate indolent people, he sometimes attains to Buddhahood only after
 long discipline and mortification through the period of immeasurable
 asamkheyakalpas. The reason why he achieves in this wise infinite
 methods (*upâya*) \[of salvation\] is that he wishes thereby to benefit
-all beings. <span id="fr_180"></span>[1](#fn_180)
+all beings. <span id="fr_180"></span>[1](#fn_180.md)
 
 But in fact the intrinsic nature, the faculties, the aspiration, and the
 intellectual attainment of all Bodhisattvas are equal \[in value\] and
@@ -301,7 +301,7 @@ after the elapsing of three asamkheyakalpas. Yet as there are
 differences in various states of existence regarding their objects of
 seeing, hearing, etc., as well as regarding their faculties, their
 desires, and their character; so there are correspondingly many
-different forms of religious discipline \[[destined](errata.htm#18) to\]
+different forms of religious discipline \[[destined](errata.htm#18.md) to\]
 them.
 
 Three different operations of the mind are revealed in this aspiration
@@ -321,7 +321,7 @@ of evolution (*akanishtha*) also obtained the most venerable and
 excellent body in the whole universe. By means of that knowledge which
 intuitively identifies itself \[with enlightenment *a priori*\], he has
 all at once uprooted ignorance; and thus obtaining omniscience
-(*sarvâkârajñâna*), <span id="fr_181"></span>[1](#fn_181) he
+(*sarvâkârajñâna*), <span id="fr_181"></span>[1](#fn_181.md) he
 spontaneously achieves incomprehensible \[or divine\] deeds
 (*acintyakarma*), reveals himself in immeasurable worlds in the ten
 quarters, and works out the universal emancipation of mankind.
@@ -348,10 +348,10 @@ things. And by virtue of their great wisdom they illuminate all
 distinctions between the defiled and the pure-through their immeasurable
 and inexhaustible sources of expediency (*upâyakauçalya*), which is good
 and excellent, they benefit and gladden all beings according to the
-[latter's](errata.htm#19) various necessities and capabilities.
+[latter's](errata.htm#19.md) various necessities and capabilities.
 Therefore the mind that is saturated with subjectivity is annihilated,
 while all things are understood and omniscience (*sarvâkârajñâna*) is
-attained. <span id="fr_182"></span>[1](#fn_182)
+attained. <span id="fr_182"></span>[1](#fn_182.md)
 
 <span id="page_127">p. 127</span>
 
@@ -364,7 +364,7 @@ their instructions in the Doctrine?
 The reply is: Tathâgatas are really in possession of those expediencies,
 and they are only waiting to reveal themselves to all beings as soon as
 the latter can purify their own minds. <span
-id="fr_183"></span>[1](#fn_183)
+id="fr_183"></span>[1](#fn_183.md)
 
 When a mirror is covered with dust, it cannot reflect images. It can do
 so only when it is free from stain. It is even the same with all beings.
@@ -376,13 +376,13 @@ itself.
 
 ### Footnotes
 
-<span id="fn_168"></span>[113:1](taf27.htm#fr_168) Aspiration which does
+<span id="fn_168"></span>[113:1](taf27.htm#fr_168.md) Aspiration which does
 not exactly correspond to the Chinese *fah hsin* and Sanskrit
 *cittotpâda*, has been retained for lack of a fitter term. It has a
 technical sense in Buddhism. Literally, *fah* or *utpâda* means
 producing, raising, or awakening, while *hsin* or *citta* as noticed
 elsewhere is mind, thought, or consciousness.
-[*Cittotpâda*](errata.htm#13), however, is more than the raising of
+[*Cittotpâda*](errata.htm#13.md), however, is more than the raising of
 one's thought to a higher religious life; it means the recognition of
 the truth that one is in possession within oneself of the highest
 perfect knowledge (*samyaksambodhi*); it is the birth within oneself of
@@ -391,13 +391,13 @@ form of *fah hsin* is *fah bodhi hsin* or *fah anuttarasamyaksambodhi
 hsin*. See the Mahâyâna Sûtras such as the *Saddharma Pundarîka*,
 *Vajracchedikâ*, *Sukhâvati Vyuha*, *Lankâvatara*, *Avatamsaka*, etc.
 
-<span id="fn_169"></span>[114:1](taf27.htm#fr_169) There are three
+<span id="fn_169"></span>[114:1](taf27.htm#fr_169.md) There are three
 groups of people: (1) Those who are constantly abiding in absolute truth
 (*samyaktvaniyata-râçi*); (2) Those who are constantly abiding in
 falsehood (*mithyâtvaniyatarâçi*); (3) Those who are inconstant
 (*aniyata-râçi*).
 
-<span id="fn_170"></span>[114:2](taf27.htm#fr_170) The ten virtues
+<span id="fn_170"></span>[114:2](taf27.htm#fr_170.md) The ten virtues
 (*daçakuçalâni*) consist in not committing the ten evils (daçâkuçalâni)
 which are as follows: (1) Killing a living being (*prânâtipâda*); (2)
 Stealing (*adattâdâna*); (3) Committing adultery (*kâmamithyâçâra*); (4)
@@ -409,26 +409,26 @@ the lay members of Buddhism. For the Çramaneras there is a different set
 of precepts specially intended for them, called the *Daçaçikshapada*,
 with which the ten virtues must not be confused as they are by some.
 
-<span id="fn_171"></span>[115:1](taf27.htm#fr_171) The older translation
+<span id="fn_171"></span>[115:1](taf27.htm#fr_171.md) The older translation
 reads "Mahâyâna."
 
-<span id="fn_172"></span>[119:1](taf27.htm#fr_172) Mahâyânists in
+<span id="fn_172"></span>[119:1](taf27.htm#fr_172.md) Mahâyânists in
 general distinguish four aspects of Nirvâna; (1) Nirvâna that is pure
 and spotless in its self-nature, i.e., absolute suchness, possessed
 equally by all beings; (2) Nirvâna that has remnant (*upadhiçesa*),
 i.e., a state of relative suchness, which, though freed from the
 affectional hindrance (*kleçâvarana*), is still under the fetter of
 materiality, which causes suffering and misery; (3) Nirvâna that has no
-remnant ([*anupadhiçesha*](errata.htm#15)) and full of love and wisdom,
+remnant ([*anupadhiçesha*](errata.htm#15).md) and full of love and wisdom,
 believes neither in birth-and-death nor in Nirvâna, but eternally
 abiding in the suchness of things benefits all sentient beings. Çrâvakas
 and Pratyekabuddhas can recognise the first three aspects of Nirvâna,
 but the last one is known only to Buddhas and Bodhisattvas. For further
 details see the tenth volume of the
-[*Vijñânamâtrasiddhi*](errata.htm#16) *Çâstra*, translated into Chinese
+[*Vijñânamâtrasiddhi*](errata.htm#16.md) *Çâstra*, translated into Chinese
 by Hüan-tsang.
 
-<span id="fn_173"></span>[119:2](taf27.htm#fr_173) One of the six
+<span id="fn_173"></span>[119:2](taf27.htm#fr_173.md) One of the six
 heavenly abodes of the *Kâmaloka* (world of desire). The heavenly abodes
 are: (1) Region of the four kings of the cardinal points
 (*mahârâjakâyika*); (2) that of the thirty <span id="page_120">p.
@@ -436,11 +436,11 @@ are: (1) Region of the four kings of the cardinal points
 *Tushita*; (5) the *Nirmânatis*: (6) the *Paranirmita-vaçavatins*. See
 also the note to Triloka, p. 77.
 
-<span id="fn_174"></span>[120:1](taf27.htm#fr_174) The term *impure*
+<span id="fn_174"></span>[120:1](taf27.htm#fr_174.md) The term *impure*
 does not mean immoral, but relative, conditional, dualistic or material,
 in contradistinction to pure, absolute, unconditional, spiritual, etc.
 
-<span id="fn_175"></span>[120:2](taf27.htm#fr_175) For instance, it is
+<span id="fn_175"></span>[120:2](taf27.htm#fr_175.md) For instance, it is
 stated in the second fasciculus of the
 *Bodhisattva-kusumamâlâ-pûrvakarma Sûtra* (*? P‘u-sa ying-lo, pên-yeh
 Ching*, in Chinese, translated by Fo-nien towards the end of the third
@@ -449,31 +449,31 @@ stage (there are ten stages) of Bodhisattvahood may happen to relapse in
 his religious course, if not be able to receive instruction in the
 Dharma from some fully enlightened teachers.
 
-<span id="fn_176"></span>[120:3](taf27.htm#fr_176) Three of the six
+<span id="fn_176"></span>[120:3](taf27.htm#fr_176.md) Three of the six
 *gatis* are the *apâyagati* (evil path): Hell <span id="page_121">p.
 121</span> (*nâraka*); ghost (*preta*); and animal life (*tiryagyoni*).
 Sometimes demon (*asura*) is added to make the fourth.
 
-<span id="fn_177"></span>[121:1](taf27.htm#fr_177) For an explanation
-see [p. 87](taf22.htm#page_87), footnote.
+<span id="fn_177"></span>[121:1](taf27.htm#fr_177.md) For an explanation
+see [p. 87](taf22.htm#page_87.md), footnote.
 
-<span id="fn_178"></span>[121:2](taf27.htm#fr_178) The same monistic
+<span id="fn_178"></span>[121:2](taf27.htm#fr_178.md) The same monistic
 idea is expressed also in the following famous phrases: "Âçrâvas
 (desires or prejudices) are nothing but Bodhi (enlightenment), and
 birth-and-death (or this world of transformation) is nothing but
 Nirvâna." Individuation is the product of subjectivity; the universe in
 reality is one great whole.
 
-<span id="fn_179"></span>[123:1](taf27.htm#fr_179) In the older
+<span id="fn_179"></span>[123:1](taf27.htm#fr_179.md) In the older
 translation we read: "Having in view only the emancipation and
 beneficence of all beings, he \[Bodhisattva\] does not rely on words and
 characters."
 
-<span id="fn_180"></span>[124:1](taf27.htm#fr_180) The older translation
+<span id="fn_180"></span>[124:1](taf27.htm#fr_180.md) The older translation
 reads: "It is out of \[human\] comprehension that he \[Bodhisattva\] can
 achieve such innumerable methods \[of salvation\]."
 
-<span id="fn_181"></span>[125:1](taf27.htm#fr_181) A distinction is
+<span id="fn_181"></span>[125:1](taf27.htm#fr_181.md) A distinction is
 sometimes made between *Sarvâkârajñâna*, *Sarvajnâna* and *Mârgajnâna*:
 *Sarvâkârajñâna* is the knowledge by which we are enabled to know all
 forms and manifestations in their fundamental oneness; *Sarvajnâna* is
@@ -481,8 +481,8 @@ simply the knowledge of all things, or omniscience; *Mârgajnâna* is the
 knowledge by which we can recognise the path leading to final
 emancipation. But they are practically the same.
 
-<span id="fn_182"></span>[126:1](taf27.htm#fr_182) The older translation
-reads: "In reply we say: All phenomenal [objects](errata.htm#20)
+<span id="fn_182"></span>[126:1](taf27.htm#fr_182.md) The older translation
+reads: "In reply we say: All phenomenal [objects](errata.htm#20.md)
 (*vishaya*) are from the beginning for in their metaphysical origin\] of
 the one mind which is free from imagination and subjectivity. As all
 beings illusively perceive the existence of the phenomenal world
@@ -497,9 +497,9 @@ possesses a great wisdom-activity and innumerable <span id="page_127">p.
 127</span> means \[of salvation\], whereby, according to the
 intellectual capacity of all beings, they can reveal to them various
 significances of the Doctrine. Therefore it is called the
-[*Sarvâkârajñâna*](errata.htm#21)."
+[*Sarvâkârajñâna*](errata.htm#21.md)."
 
-<span id="fn_183"></span>[127:1](taf27.htm#fr_183) In the older
+<span id="fn_183"></span>[127:1](taf27.htm#fr_183.md) In the older
 translation we read: The Dharmakâya of all Buddha-Tathâgatas is
 universal (*samatâ*) and pervades every thing; it is free from
 compulsion and therefore spontaneous, manifesting itself through the
@@ -507,4 +507,4 @@ minds of all beings."
 
 ------------------------------------------------------------------------
 
-[Next: IV. Practice of Faith](taf28)
+[Next: IV. Practice of Faith](taf28.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj05)  [Next](atfj07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj05)  [Next](atfj07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_05"></span> <span align="CENTER"> [![5. The Ghost of
 Yoichi Appears to the Three as They Talk](tn/05.jpg)  
-Click to enlarge](img/05.jpg)  
+Click to enlarge](img/05.jpg.md)  
 5. The Ghost of Yoichi Appears to the Three as They Talk  
 </span>
 
 ### IV
 
-### GHOST STORY OF THE FLUTE'S TOMB <span id="fr_13"></span>[1](#fn_13)
+### GHOST STORY OF THE FLUTE'S TOMB <span id="fr_13"></span>[1](#fn_13.md)
 
 LONG ago, at a small and out-of-the-way village called Kumedamura, about
 eight miles to the south-east of Sakai city, in Idsumo Province, there
@@ -48,7 +48,7 @@ story of whose tomb it is.
 <span id="page_28">p. 28</span>
 
 Between seventy and eighty years ago there lived near the pond in the
-village of Kumedamura a blind amma <span id="fr_14"></span>[1](#fn_14)
+village of Kumedamura a blind amma <span id="fr_14"></span>[1](#fn_14.md)
 called Yoichi. Yoichi was extremely popular in the neighbourhood, being
 very honest and kind, besides being quite a professor in the art of
 massage—a treatment necessary to almost every Japanese. It would be
@@ -137,13 +137,13 @@ excited now; for he knew that his guilty wife and her lover were inside,
 and he would have liked to kill them both. Great strength came to him,
 and he raised himself bit by hit until he reached the top of the roof.
 He intended to enter the house by letting himself down through the
-'tem-mado.' <span id="fr_15"></span>[1](#fn_15) Unfortunately, the straw
+'tem-mado.' <span id="fr_15"></span>[1](#fn_15.md) Unfortunately, the straw
 rope he used in doing this was rotten, and gave way, precipitating him
 below, where he
 
 <span id="page_31">p. 31</span>
 
-fell on the kinuta. <span id="fr_16"></span>[1](#fn_16) He fractured his
+fell on the kinuta. <span id="fr_16"></span>[1](#fn_16.md) He fractured his
 skull, and died instantly.
 
 Asayo and the actor, hearing the noise, went to see what had happened,
@@ -227,12 +227,12 @@ them to have been actual. Suddenly turning with the intention to get up,
 he caught sight of the shine of a metal flute close to his pillow. It
 was the flute of a blind amma. It was marked with Yoichi's name.
 
-Ichibei resolved to start for [Kumedamura](errata.htm#0) and ascertain
+Ichibei resolved to start for [Kumedamura](errata.htm#0.md) and ascertain
 locally all about Yoichi.
 
 In those times, when there was no railway and a rickshaw only here and
 there, travel was slow. Ichibei took ten days to reach
-[Kumedamura](errata.htm#1). He immediately went to the house of his
+[Kumedamura](errata.htm#1.md). He immediately went to the house of his
 friend Yoichi, and was there told
 
 <span id="page_34">p. 34</span>
@@ -277,28 +277,28 @@ Ichibei had all the ashes swept up and placed in a tomb. He had buried
 in another grave the flute of the blind amma, and erected on the ground
 where the house had been a monument sacred to the memory of Yoichi.
 
-It is known as FUEZUKA NO KWAIDAN. <span id="fr_17"></span>[1](#fn_17)
+It is known as FUEZUKA NO KWAIDAN. <span id="fr_17"></span>[1](#fn_17.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_13"></span>[27:1](atfj06.htm#fr_13) Told to me by Fukuga.
+<span id="fn_13"></span>[27:1](atfj06.htm#fr_13.md) Told to me by Fukuga.
 
-<span id="fn_14"></span>[28:1](atfj06.htm#fr_14) Shampooer.
+<span id="fn_14"></span>[28:1](atfj06.htm#fr_14.md) Shampooer.
 
-<span id="fn_15"></span>[30:1](atfj06.htm#fr_15) Hole in the roof of a
+<span id="fn_15"></span>[30:1](atfj06.htm#fr_15.md) Hole in the roof of a
 Japanese house, in place of a chimney.
 
-<span id="fn_16"></span>[31:1](atfj06.htm#fr_16) A hard block of wood
+<span id="fn_16"></span>[31:1](atfj06.htm#fr_16.md) A hard block of wood
 used in stretching cotton cloth.
 
-<span id="fn_17"></span>[35:1](atfj06.htm#fr_17) The flute ghost tomb.
+<span id="fn_17"></span>[35:1](atfj06.htm#fr_17.md) The flute ghost tomb.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: V. A Haunted Temple in Inaba Province](atfj07)
+[Next: V. A Haunted Temple in Inaba Province](atfj07.md)
 
 </div>

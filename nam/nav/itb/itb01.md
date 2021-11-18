@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](itb00) [Next](itb02)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](itb00) [Next](itb02.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Male Branch of the Shootingway* is used herein.
 
 ------------------------------------------------------------------------
 
-[Next](itb02)
+[Next](itb02.md)
 
  
 

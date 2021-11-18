@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft05)  [Next](meft07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft05)  [Next](meft07.md) 
 
 ------------------------------------------------------------------------
 
 # Black Bull of Norroway
 
 <span id="img_006"></span> [![](tn/006.jpg)  
-Click to enlarge](img/006.jpg)
+Click to enlarge](img/006.jpg.md)
 
 IN Norroway, long time ago, there lived a certain lady, and she had
 three daughters: The oldest of them said to her mother: 'Mother, bake me
@@ -152,8 +152,8 @@ washerwife and her daughter to be burnt. And they were married, and he
 and she are living happy to this day, for aught I know.
 
 <span id="img_007"></span> [![](tn/007.jpg)  
-Click to enlarge](img/007.jpg)
+Click to enlarge](img/007.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Yallery Brown](meft07)
+[Next: Yallery Brown](meft07.md)

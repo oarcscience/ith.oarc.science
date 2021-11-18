@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod18)  [Next](ebod20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod18)  [Next](ebod20.md) 
 
 ------------------------------------------------------------------------
 
@@ -525,4 +525,4 @@ in Sekhet-hetep, and may I receive cakes in thy presence."
 
 ------------------------------------------------------------------------
 
-[Next: Plate XIII.](ebod20)
+[Next: Plate XIII.](ebod20.md)

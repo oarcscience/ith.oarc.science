@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma03)  [Next](fmma05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma03)  [Next](fmma05.md) 
 
 ------------------------------------------------------------------------
 
@@ -341,4 +341,4 @@ returned to Burgundy.
 
 ------------------------------------------------------------------------
 
-[Next: Alaric The Visigoth. King From 394-410 A.D](fmma05)
+[Next: Alaric The Visigoth. King From 394-410 A.D](fmma05.md)

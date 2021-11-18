@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](tpt14)  [Next](tpt16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](tpt14)  [Next](tpt16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -271,4 +271,4 @@ Treatise by Baruch Spinoza
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](tpt16)
+[Next: Table of Contents](tpt16.md)

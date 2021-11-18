@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw55)  [Next](omw57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw55)  [Next](omw57.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_18700"></span>
 
 [![Loki's Punishment](tn/18700.jpg)  
-Click to enlarge](img/18700.jpg)  
+Click to enlarge](img/18700.jpg.md)  
 Loki's Punishment  
 
 # ICELANDIC
@@ -164,4 +164,4 @@ opposed the Giants.
 
 ------------------------------------------------------------------------
 
-[Next: The Building of the Wall](omw57)
+[Next: The Building of the Wall](omw57.md)

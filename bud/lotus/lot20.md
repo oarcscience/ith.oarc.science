@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot19)  [Next](lot21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot19)  [Next](lot21.md) 
 
 ------------------------------------------------------------------------
 
@@ -177,4 +177,4 @@ doubtless reach enlightenment.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 21](lot21)
+[Next: Chapter 21](lot21.md)

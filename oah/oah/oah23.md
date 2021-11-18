@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah22)  [Next](oah24) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah22)  [Next](oah24.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ unseen by mortals.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](oah24)
+[Next: Chapter VIII](oah24.md)

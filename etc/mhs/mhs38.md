@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs37)  [Next](mhs39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs37)  [Next](mhs39.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ Such men do chaungelinges call, so chaunged by fairies' theft.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Salt As A Magical Substance](mhs39)
+[Next: VIII. Salt As A Magical Substance](mhs39.md)

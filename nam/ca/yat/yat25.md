@@ -1,21 +1,21 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat24)  [Next](yat26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat24)  [Next](yat26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### II. THE CONTEST OF FOX AND COYOTE. <span id="fr_153"></span>[334](#fn_149)
+### II. THE CONTEST OF FOX AND COYOTE. <span id="fr_153"></span>[334](#fn_149.md)
 
 Silver Fox (Bo‘k‘u'ina) had a sweat-house at Dī'yūrik‘dilla (or
 Dī'yūrimadu), in Cedar Creek valley. Coyote lived there too. Silver Fox
@@ -78,7 +78,7 @@ received Do answer. Coyote asked, "Son-in-law, how did you catch those
 yellow-jackets!" Silver Fox said, "I smoked them out with leaves. After
 smoking them out I dug them up with my penis. When the yellow-jackets
 came, I did not run. There is lots of meat <span
-id="fr_154"></span>[335](#fn_150) down in the nest. When the sun rises I
+id="fr_154"></span>[335](#fn_150.md) down in the nest. When the sun rises I
 hold my hand over my eyes and see the yellow-jackets going into their
 holes." Coyote went out and did so. He saw the yellow-jackets' nest,
 smoked them, then dug out the nest with his penis. The yellow-jackets
@@ -131,7 +131,7 @@ Silver Fox said, "Son-in-law, you don't believe me," and he hit him
 again, and killed him. Silver Fox said, "You don't believe me, so I
 shall have the food in the trees. People were merely to stretch out a
 hand when they saw deer, and it would fall dead. It is not to be so
-now." <span id="fr_155"></span>[326](#fn_151)
+now." <span id="fr_155"></span>[326](#fn_151.md)
 
 Silver Fox went home. He hunted all around for the places where Coyote
 had urinated. He went all over the country except Klamath Lake. He
@@ -147,12 +147,12 @@ the grasshoppers, plums, and cherries. They looked good, so he stopped
 to eat them. Silver Fox said, "When Coyote sees the food, he will stop
 and will not be angry." Coyote ate the plums and cherries, and said, "I
 want to eat. I'll not go and kill people." Coyote called for <span
-id="fr_156"></span>[337](yat26.htm#fn_152) a sack, filled it with the
+id="fr_156"></span>[337](yat26.htm#fn_152.md) a sack, filled it with the
 food, and came back. He said, "Son-in-law, I have good food." Silver Fox
-had called for  <span id="fr_157"></span>[337](yat26.htm#fn_152) pitch.
+had called for  <span id="fr_157"></span>[337](yat26.htm#fn_152.md) pitch.
 When Coyote asked him why he had put on pitch, he told Coyote that he
 was sorry he had lost him. <span
-id="fr_158"></span>[338](yat26.htm#fn_153) Silver Fox would not eat,
+id="fr_158"></span>[338](yat26.htm#fn_153.md) Silver Fox would not eat,
 though Coyote wanted him to. Silver Fox said nothing. Coyote said, "What
 are we going to do? It looks like spring." Silver Fox did not answer.
 
@@ -160,19 +160,19 @@ are we going to do? It looks like spring." Silver Fox did not answer.
 
 ### Footnotes
 
-<span id="fn_149"></span>[210:334](yat25.htm#fr_153) Compare the Hat
+<span id="fn_149"></span>[210:334](yat25.htm#fr_153.md) Compare the Hat
 Creek myth in Dixon, "Achomawi and Atsugewi Tales," Journ. Amer.
 Folk-lore, XXI, 171-174. Some of the incidents are also found in Takelma
 mythology.
 
-<span id="fn_150"></span>[212:335](yat25.htm#fr_154) The reference is to
+<span id="fn_150"></span>[212:335](yat25.htm#fr_154.md) The reference is to
 the larvae, formerly a favorite article of food when procurable.
 
-<span id="fn_151"></span>[213:326](yat25.htm#fr_155) These statements
+<span id="fn_151"></span>[213:326](yat25.htm#fr_155.md) These statements
 seem rather irrelevant here. The meaning evidently is that Silver Fox
 had intended to make the procuring of food easy for the people, but that
 Coyote had spoiled things by setting bad precedents.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Lost Brother](yat26)
+[Next: III. The Lost Brother](yat26.md)

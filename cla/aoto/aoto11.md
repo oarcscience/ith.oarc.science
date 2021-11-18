@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto10) 
-[Next](aoto12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto10.md) 
+[Next](aoto12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ Phæacians, on which Ulysses had been cast.
 Now the Phæacians used to live in Hypereia near the law-less <span
 class="margnote"><span id="an_6:4">4</span></span> Cyclopes, who were
 stronger than they were and plundered them; so their king Nausithous
-removed them to Scheria, <span id="fr_17"></span>[\*](#fn_17) where they
+removed them to Scheria, <span id="fr_17"></span>[\*](#fn_17.md) where they
 were secure. Nausithous was now dead, and his son Alcinous was reigning.
 
 Alcinous had an only daughter, Nausicaa, who was in her <span
@@ -46,7 +46,7 @@ let her have a waggon and mules.
 
 Nausicaa, on waking, told her father and mother about her <span
 class="margnote"><span id="an_6:50">50</span></span> dream, "Papa,
-dear," <span id="fr_18"></span>[†](#fn_18) said she, "could you manage
+dear," <span id="fr_18"></span>[†](#fn_18.md) said she, "could you manage
 to let me have a good big waggon? I want to take all our dirty clothes
 to the river and wash them. You are the chief man here, so it is only
 proper that you should have a clean shirt when you <span
@@ -174,11 +174,11 @@ to him, for she did not want to offend her uncle Neptune.
 
 ### Footnotes
 
-<span id="fn_17"></span>[31:\*](aoto11.htm#fr_17) Scheria means
+<span id="fn_17"></span>[31:\*](aoto11.htm#fr_17.md) Scheria means
 "Jutland"—a piece of land jutting out into the sea.
 
-<span id="fn_18"></span>[31:†](aoto11.htm#fr_18) Gr. πάππα φίλ line 57.
+<span id="fn_18"></span>[31:†](aoto11.htm#fr_18.md) Gr. πάππα φίλ line 57.
 
 ------------------------------------------------------------------------
 
-[Next: Book VII. The Splendours of the House of King Alcinous](aoto12)
+[Next: Book VII. The Splendours of the House of King Alcinous](aoto12.md)

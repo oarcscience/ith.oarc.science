@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi170)  [Next](mtsi172) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi170)  [Next](mtsi172.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ obtained two wives.
 
 ------------------------------------------------------------------------
 
-[Next: 36. The Alligator Benefactor (Second Version)](mtsi172)
+[Next: 36. The Alligator Benefactor (Second Version)](mtsi172.md)

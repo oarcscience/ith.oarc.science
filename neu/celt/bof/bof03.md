@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bof02)  [Next](bof04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bof02)  [Next](bof04.md) 
 
 ------------------------------------------------------------------------
 
@@ -541,4 +541,4 @@ The Body of Man
 
 ------------------------------------------------------------------------
 
-[Next: The Ancient Divinities](bof04)
+[Next: The Ancient Divinities](bof04.md)

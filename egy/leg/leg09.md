@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg08)  [Next](leg10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg08)  [Next](leg10.md) 
 
 ------------------------------------------------------------------------
 
 ### VI.
 
-### A LEGEND OF KHENSU NEFER-HETEP <span id="fr_30"></span>[1](#fn_30) AND THE PRINCESS OF BEKHTEN.
+### A LEGEND OF KHENSU NEFER-HETEP <span id="fr_30"></span>[1](#fn_30.md) AND THE PRINCESS OF BEKHTEN.
 
 THE text of this legend is cut in hieroglyphics upon a sandstone stele,
 with a rounded top, which was found
@@ -16,16 +16,16 @@ with a rounded top, which was found
 in the temple of Khensu at Thebes, and is now preserved in the
 Bibliothèque Nationale at Paris; it was discovered by Champollion, and
 removed to Paris by Prisse d'Avennes in 1846. The text was first
-published by Prisse d'Avennes, <span id="fr_31"></span>[1](#fn_31) and
-it was first translated by Birch <span id="fr_32"></span>[2](#fn_32) in
+published by Prisse d'Avennes, <span id="fr_31"></span>[1](#fn_31.md) and
+it was first translated by Birch <span id="fr_32"></span>[2](#fn_32.md) in
 1853. The text was republished and translated into French by E. de Rougé
-in 1858, <span id="fr_33"></span>[3](#fn_33) and several other
+in 1858, <span id="fr_33"></span>[3](#fn_33.md) and several other
 renderings have been given in German and in English since that
-date. <span id="fr_34"></span>[4](#fn_34) When the text was first
+date. <span id="fr_34"></span>[4](#fn_34.md) When the text was first
 published, and for some years afterwards, it was generally thought that
 the legend referred to events which were said to have taken place under
 a king who was identified as Rameses XIII., but this misconception was
-corrected by Erman, who showed <span id="fr_35"></span>[5](#fn_35) that
+corrected by Erman, who showed <span id="fr_35"></span>[5](#fn_35.md) that
 the king was in reality Rameses II. By a careful examination of the
 construction of the text he proved that the narrative on the stele was
 drawn up several hundreds of years after the events described in it took
@@ -38,7 +38,7 @@ Khensu, who
 
 wished to magnify their god and his power to cast out devils and to
 exorcise evil spirits; it was probably composed between B.C. 650 and
-B.C. 250. <span id="fr_36"></span>[1](#fn_36)
+B.C. 250. <span id="fr_36"></span>[1](#fn_36.md)
 
 The legend, after enumerating the great names of Rameses II., goes on to
 state that the king was in the "country of the two rivers," by which we
@@ -82,7 +82,7 @@ This envoy arrived in Egypt in the summer of the twenty-sixth year of
 the reign of Rameses II., and found the king celebrating a festival in
 Thebes. When he heard the petition of the envoy, he went to the Temple
 of Khensu Nefer-hetep "a second time," <span
-id="fr_37"></span>[1](#fn_37) and
+id="fr_37"></span>[1](#fn_37.md) and
 
 <span id="page_lvi">p. lvi</span>
 
@@ -119,7 +119,7 @@ utterances were to be regarded as those of Bobowissi. Delegates were
 ordered to be sent to Winnebah in Ashanti, where they would be shown the
 "deputy" god by the priests, and afterwards he would be taken to
 Mankassim, where he would reside, and do for the people all that
-Bobowissi had done hitherto. <span id="fr_38"></span>[1](#fn_38)
+Bobowissi had done hitherto. <span id="fr_38"></span>[1](#fn_38.md)
 
 When Rameses II. had made his petition to Khensu Nefer-hetep, the statue
 of the god bowed its head twice, in token of assent. Here it is clear
@@ -134,24 +134,24 @@ the lesser god four times, or in a fourfold measure, but we are not told
 how this was effected. We know from many passages in the texts that
 every god was believed to possess this magical power, which is called
 the "*sa* of life," or the "*sa* of the god,". <span
-id="fr_39"></span>[2](#fn_39) This *sa* could be transferred by
+id="fr_39"></span>[2](#fn_39.md) This *sa* could be transferred by
 
 <span id="page_lviii">p. lviii</span>
 
 a god or goddess to a human being, either by an embrace or through some
 offering which was eaten. Thus Temu transferred the magical power of his
 life to Shu and Tefnut by embracing them, <span
-id="fr_40"></span>[1](#fn_40) and in the Ritual of the Divine Cult <span
-id="fr_41"></span>[2](#fn_41) the priest says, The two vessels of milk
-of Temu are the *sa* <span id="fr_42"></span>[1](#fn_40) of my limbs."
+id="fr_40"></span>[1](#fn_40.md) and in the Ritual of the Divine Cult <span
+id="fr_41"></span>[2](#fn_41.md) the priest says, The two vessels of milk
+of Temu are the *sa* <span id="fr_42"></span>[1](#fn_40.md) of my limbs."
 The man who possessed this *sa* could transfer it to his friend by
 embracing him and then "making passes" with his hands along his back.
 The *sa* could be received by a man from a god and then transmitted by
 him to a statue by taking it in his arms, and this ceremony was actually
 performed by the king in the Ritual of the Divine Cult. <span
-id="fr_43"></span>[3](#fn_42) The primary source of this *sa* was Ra,
+id="fr_43"></span>[3](#fn_42.md) The primary source of this *sa* was Ra,
 who bestowed it without measure on the blessed dead, <span
-id="fr_44"></span>[4](#fn_43) and caused them to live for ever thereby.
+id="fr_44"></span>[4](#fn_43.md) and caused them to live for ever thereby.
 These, facts make it tolerably certain that the magical power of Khensu
 Nefer-hetep was transferred to Khensu Pa-ari-sekher in one of two ways:
 either the statue of the latter was brought near to that of the former
@@ -204,50 +204,50 @@ it about eight years.
 
 ### Footnotes
 
-<span id="fn_30"></span>[lii:1](leg09.htm#fr_30) In the headlines of
+<span id="fn_30"></span>[lii:1](leg09.htm#fr_30.md) In the headlines of
 this section, p. 106 ff., for Ptah Nefer-hetep read Khensu Nefer-hetep.
 
-<span id="fn_31"></span>[liii:1](leg09.htm#fr_31) *Choix de Monuments
+<span id="fn_31"></span>[liii:1](leg09.htm#fr_31.md) *Choix de Monuments
 Égyptiens*, Paris, 1847, plate xxiv.
 
-<span id="fn_32"></span>[liii:2](leg09.htm#fr_32) *Transactions of the
+<span id="fn_32"></span>[liii:2](leg09.htm#fr_32.md) *Transactions of the
 Royal Society of Literature*, New Series, vol. iv., p. 217 ff.
 
-<span id="fn_33"></span>[liii:3](leg09.htm#fr_33) *Journal Asiatique*
+<span id="fn_33"></span>[liii:3](leg09.htm#fr_33.md) *Journal Asiatique*
 (*Étude sur une Stèle Égyptienne*), August, 1856, August, 1857, and
 August-Sept., 1858, Paris, 8vo, with plate.
 
-<span id="fn_34"></span>[liii:4](leg09.htm#fr_34) Brugsch, *Geschichte
+<span id="fn_34"></span>[liii:4](leg09.htm#fr_34.md) Brugsch, *Geschichte
 Aegyptens*, 1877, p. 627 ff.; Birch, *Records of the Past*, Old Series,
 vol. iv., p. 53 ff.; Budge, *Egyptian Reading Book*, text and
 transliteration, p. 40 ff.; translation, p. xxviii. ff.
 
-<span id="fn_35"></span>[liii:5](leg09.htm#fr_35) *Aeg. Zeit.*, 1883,
+<span id="fn_35"></span>[liii:5](leg09.htm#fr_35.md) *Aeg. Zeit.*, 1883,
 pp. 54-60.
 
-<span id="fn_36"></span>[liv:1](leg09.htm#fr_36) Maspero, *Les Contes
+<span id="fn_36"></span>[liv:1](leg09.htm#fr_36.md) Maspero, *Les Contes
 Populaires*, 3rd edit., p. 166.
 
-<span id="fn_37"></span>[lv:1](leg09.htm#fr_37) Thus the king must have
+<span id="fn_37"></span>[lv:1](leg09.htm#fr_37.md) Thus the king must have
 invoked the help of Khensu on the occasion of the visit of the first
 envoy.
 
-<span id="fn_38"></span>[lvii:1](leg09.htm#fr_38) Ellis, *Tshi-speaking
+<span id="fn_38"></span>[lvii:1](leg09.htm#fr_38.md) Ellis, *Tshi-speaking
 Peoples*, p. 55.
 
-<span id="fn_39"></span>[lvii:2](leg09.htm#fr_39) Text of Unas, line
+<span id="fn_39"></span>[lvii:2](leg09.htm#fr_39.md) Text of Unas, line
 562.
 
-<span id="fn_40"></span>[lviii:1](leg09.htm#fr_42) *Pyramid Texts*, Pepi
+<span id="fn_40"></span>[lviii:1](leg09.htm#fr_42.md) *Pyramid Texts*, Pepi
 I., l. 466.
 
-<span id="fn_41"></span>[lviii:2](leg09.htm#fr_41) Ed. Moret, p. 21.
+<span id="fn_41"></span>[lviii:2](leg09.htm#fr_41.md) Ed. Moret, p. 21.
 
-<span id="fn_42"></span>[lviii:3](leg09.htm#fr_43) *Ibid.*, p. 99.
+<span id="fn_42"></span>[lviii:3](leg09.htm#fr_43.md) *Ibid.*, p. 99.
 
-<span id="fn_43"></span>[lviii:4](leg09.htm#fr_44) Pepi I., line 666.
+<span id="fn_43"></span>[lviii:4](leg09.htm#fr_44.md) Pepi I., line 666.
 
 ------------------------------------------------------------------------
 
 [Next: Summary: VII. A Legend Of Khnemu And Of A Seven Years'
-Famine](leg10)
+Famine](leg10.md)

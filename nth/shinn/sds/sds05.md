@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Shinn](../index)  [Index](index) 
-[Previous](sds04)  [Next](sds06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Shinn](../index)  [Index](index.md) 
+[Previous](sds04)  [Next](sds06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -220,4 +220,4 @@ fortune*.
 
 ------------------------------------------------------------------------
 
-[Next: The Fork In the Road](sds06)
+[Next: The Fork In the Road](sds06.md)

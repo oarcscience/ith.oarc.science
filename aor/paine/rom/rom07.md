@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Thomas Paine](../index)  [Index](index) 
-[Previous](rom06)  [Next](rom08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Thomas Paine](../index)  [Index](index.md) 
+[Previous](rom06)  [Next](rom08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -844,4 +844,4 @@ principles, and dread the precedent that threatens their overthrow.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](rom08)
+[Next: Conclusion](rom08.md)

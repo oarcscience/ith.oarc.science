@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm29)  [Next](bnm31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm29)  [Next](bnm31.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ sky to live among the gods.
 
 ------------------------------------------------------------------------
 
-[Next: The Face Of The Manito.](bnm31)
+[Next: The Face Of The Manito.](bnm31.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](morg01)  [Next](morg03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](morg01)  [Next](morg03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Illustrations of Masonry*, by William Morgan, \[1827\], at Intangible
 Textual Heritage
 
@@ -172,7 +172,7 @@ valuable, it should command respect. We meet this argument with facts
 that cannot be controverted. We put it on a basis that will fling into
 the back ground every quibble and artifice on the subject; and, in the
 language of a polemic writer, we challenge opposition to our
-[position](errata.htm#0).
+[position](errata.htm#0.md).
 
 The religion inculcated by the Son of Man does all this;
 
@@ -203,7 +203,7 @@ of patronizing mechanics—the arts and sciences—lend their aid to carry
 on the imposing delusion. They take up the specious title of throwing a
 little illumination on this benighted country, from their secret
 depositories. Arrogating to itself what should deck other's
-brows—assuming to be the [patron](errata.htm#1), the life and soul of
+brows—assuming to be the [patron](errata.htm#1.md), the life and soul of
 all that is great and valuable—it deceives many of its votaries, and
 from its *gaudy* premises the most untenable and onerous conclusions are
 drawn.
@@ -296,4 +296,4 @@ and then a proper judgment will be formed of our intention.
 
 ------------------------------------------------------------------------
 
-[Next: Opening the Lodge](morg03)
+[Next: Opening the Lodge](morg03.md)

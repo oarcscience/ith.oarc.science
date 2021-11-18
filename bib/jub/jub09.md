@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub08) 
-[Next](jub10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub08.md) 
+[Next](jub10.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ Ethiopic Text*, by R. H. Charles, D.D. (London, 1902).
 
 ------------------------------------------------------------------------
 
-[Next: Erratum](jub10)
+[Next: Erratum](jub10.md)

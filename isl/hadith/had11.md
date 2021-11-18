@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had10)  [Next](had12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had10)  [Next](had12.md) 
 
 ------------------------------------------------------------------------
 
@@ -268,4 +268,4 @@ harm if anything intervenes between the imām and the congregation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Institution of Prayer](had12)
+[Next: Chapter IX: Institution of Prayer](had12.md)

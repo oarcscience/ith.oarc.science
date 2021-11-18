@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa84)  [Next](psa86) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa84)  [Next](psa86.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,4 +128,4 @@ in every house.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXXV](psa86)
+[Next: Chapter LXXXV](psa86.md)

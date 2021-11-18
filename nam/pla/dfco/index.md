@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,5 +12,5 @@ American](../../index)  [Plains](../index) 
 
 ------------------------------------------------------------------------
 
-[Death and Funeral Customs Among the Omahas](dfco00)  
-[Obituary Notice](dfco01)  
+[Death and Funeral Customs Among the Omahas](dfco00.md)  
+[Obituary Notice](dfco01.md)  

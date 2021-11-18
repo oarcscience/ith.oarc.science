@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc032) 
-[Next](motc034) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc032.md) 
+[Next](motc034.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ country in a great army.
 
 ------------------------------------------------------------------------
 
-[Next: 34. The Wolf's Revenge--the Wolf And The Dog](motc034)
+[Next: 34. The Wolf's Revenge--the Wolf And The Dog](motc034.md)

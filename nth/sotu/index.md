@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sotu00)    [Page
-Index](pageidx)    [Text \[Zipped\]](sotutxt.zip)
+[Contents](#contents)    [Start Reading](sotu00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](sotutxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -49,13 +49,13 @@ time and man is the secret of the universe." That's it, that's the
 entire secret.
 
 He means the *Christian* Triunity, er, Trinity, by the way,—he downplays
-other religions' trinities (p. [89](sotu05.htm#page_89)), and the loss
+other religions' trinities (p. [89](sotu05.htm#page_89).md), and the loss
 is his (he could have padded the book to five hundred pages, easily). He
 is incorrect when he states that the concept of a Trinity in Hinduism
 was introduced by Christianity. As usual, the Hindu trinity is not a
 one-to-one match with the Christian. However, the association between
 A-U-M, Brahma, Vishnu and Shiva, and all kinds of triple phenomena can
-easily be found in the [Upanishads](../../hin/upan/index), which predate
+easily be found in the [Upanishads](../../hin/upan/index.md), which predate
 the Christian era by over five centuries. So this idea of an
 all-pervading triple principle in the Universe is not exactly new, nor
 is it specifically Christian in origin. Mr. Wood is playing a very old
@@ -73,37 +73,37 @@ will leave to your judgment. —<span class="small">J.B. Hare, June 13,
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sotu00)  
-[Introduction](sotu01)  
-[Contents](sotu02)  
+<span id="contents"></span> [Title Page](sotu00.md)  
+[Introduction](sotu01.md)  
+[Contents](sotu02.md)  
 <span id="section_000"></span>
 
 ### Part I. The Pattern of the Universe
 
-[I. The Outer Universe](sotu03)  
-[II. The Inner Universe](sotu04)  
-[III. The Demand of the Universe](sotu05)  
+[I. The Outer Universe](sotu03.md)  
+[II. The Inner Universe](sotu04.md)  
+[III. The Demand of the Universe](sotu05.md)  
 <span id="section_001"></span>
 
 ### Part II. The Problems of the Universe
 
-[Introduction. The Secret of All Things](sotu06)  
+[Introduction. The Secret of All Things](sotu06.md)  
 [I. The Secret of the Universe and the Problem of the Unity of All
-Things](sotu07)  
+Things](sotu07.md)  
 [II. The Secret of the Universe, and the Problem of Space and
-Matter](sotu08)  
+Matter](sotu08.md)  
 [III. The Secret of the Universe and the Problem of Space, Motion and
-Time](sotu09)  
-[IV. The Secret of the Universe and the Problem of Relativity](sotu10)  
+Time](sotu09.md)  
+[IV. The Secret of the Universe and the Problem of Relativity](sotu10.md)  
 [V. The Secret of the Universe and the Problem of Being, or
-Existence](sotu11)  
+Existence](sotu11.md)  
 [VI. The Secret of the Universe and the Problem of Change and
-Progress](sotu12)  
+Progress](sotu12.md)  
 [VII. The Secret of the Universe and the Problem of Ethics, or the
-Good](sotu13)  
+Good](sotu13.md)  
 [VIII. The Secret of the Universe and the Problem of Reality, or the
-True](sotu14)  
+True](sotu14.md)  
 [IX. The Secret of the Universe and the Problem of Aesthetics, or the
-Beautiful](sotu15)  
+Beautiful](sotu15.md)  
 [Conclusion: The Secret of the Universe and the Riddles of the
-Universe](sotu16)  
+Universe](sotu16.md)  

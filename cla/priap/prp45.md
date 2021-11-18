@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp44)  [Next](prp46) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp44)  [Next](prp46.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ thy head, to take the semblance of a girl?\]
 
 ------------------------------------------------------------------------
 
-[Next: 46. Ho girl! no whiter-skinned than Moorish man](prp46)
+[Next: 46. Ho girl! no whiter-skinned than Moorish man](prp46.md)

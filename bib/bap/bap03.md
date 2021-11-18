@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap02) 
-[Next](bap04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap02.md) 
+[Next](bap04.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 2\. (*a*) The HISTORY OF THE BOOK, as known to us, can be shortly told.
 It was printed by Adam Petri in 1527, at Basle, in a small folio volume,
 along with the genuine Philo's *Quaestiones et Solutiones in
-Genesim* <span id="fr_0"></span>[1](#fn_0) and a fragment of the *De
+Genesim* <span id="fr_0"></span>[1](#fn_0.md) and a fragment of the *De
 Vita contemplativa* (called *De Essaeis*). These were followed by the
 *Onomasticon* (*de Nominibus Hebraicis*) ascribed in Philo, in Jerome's
 version, and a Latin rendering of the *De Mundo* by Guillaume Budé. The
@@ -88,7 +88,7 @@ several later mediaeval chroniclers.
 
 In the catalogues of monastic libraries *Philo* is of rare occurrence.
 The Fulda catalogue of the sixteenth century <span
-id="fr_1"></span>[1](#fn_1) has "Repertorii noni ordo primus, liber
+id="fr_1"></span>[1](#fn_1.md) has "Repertorii noni ordo primus, liber
 Philonis antiquitatum 36." The number 36 is the older library number,
 perhaps as old as the thirteenth century, which was written on the cover
 of the volume. This was one of the two manuscripts used by Sichardus: we
@@ -101,7 +101,7 @@ Abbeville, has in its catalogue "liber Philonis Judaei
 <span id="page_11">p. 11</span>
 
 unum volumen." Both these references may be found in Becker's
-*Catalogi*. <span id="fr_2"></span>[1](#fn_2)
+*Catalogi*. <span id="fr_2"></span>[1](#fn_2.md)
 
 One possible hint, and one only, of the existence of *Philo* in the
 Eastern Church is known to me. The *Taktikon* of Nicon, cap. 13, in the
@@ -120,7 +120,7 @@ chapter.
 
 I know of nothing in earlier centuries which looks like an allusion to
 *Philo*, unless it be a passage in Origen on John (Tom. VI. 14.) in
-which he says <span id="fr_3"></span>[2](#fn_3): "I know not what is the
+which he says <span id="fr_3"></span>[2](#fn_3.md): "I know not what is the
 motive of the Jewish tradition that Phinees the son of Eleazar, who
 admittedly lived through the days of many of the Judges, is the same as
 Elias, and that immortality was promised to him in Numbers
@@ -136,21 +136,21 @@ See the note *in loc*.
 
 ### Footnotes
 
-<span id="fn_0"></span>[8:1](bap03.htm#fr_0) A volume issued by
+<span id="fn_0"></span>[8:1](bap03.htm#fr_0.md) A volume issued by
 Ascensius at Paris in I 520, edited by Aug. Justiniani, contained only
 the *Quaestiones et Sol. in Genesim*.
 
-<span id="fn_1"></span>[10:1](bap03.htm#fr_1) C. Scherer, *Der Fuldaer
+<span id="fn_1"></span>[10:1](bap03.htm#fr_1.md) C. Scherer, *Der Fuldaer
 Handschriften-Katalog aus dem 16 Jahrh*. (*Centralblatt f.
 Bibliothekswesen* XXVI. p. 105; 1902).
 
-<span id="fn_2"></span>[11:1](bap03.htm#fr_2) The Abbey of St. Bertin
+<span id="fn_2"></span>[11:1](bap03.htm#fr_2.md) The Abbey of St. Bertin
 and that of Corbie in Picardy in their twelfth-century catalogues
 (Becker, nos. 77, 247, 79, 263) both have an entry of *Questiones in
 Genesim*; seemingly not those of St. Jerome, which occur elsewhere in
 the catalogues.
 
-<span id="fn_3"></span>[11:2](bap03.htm#fr_3) καὶ περὶ μετωνυμίασ γάρ,
+<span id="fn_3"></span>[11:2](bap03.htm#fr_3.md) καὶ περὶ μετωνυμίασ γάρ,
 ὡσ ἐν ἀποκρύφοισ, οὐκ οἶδα πόθεν κινούμενοι οἱ ἑβραῖοι παραδιδόασι
 Φινεέσ, τὸν Ἐλεαζάρου υἱόν, ὁμολογουμένωσ παρατείναντα τὴν ζωὴν ἔωσ
 πολλῶν κριτῶν, ὡσ ἐν τοῖσ κριταῖσ ἀνέγνωμεν, αἰτὸν εἶναι Ἠλίαν, καὶ τὸ
@@ -159,4 +159,4 @@ the catalogues.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Authorities for the Text](bap04)
+[Next: 3. Authorities for the Text](bap04.md)

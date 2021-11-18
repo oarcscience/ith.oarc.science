@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil79)  [Next](egil81) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil79)  [Next](egil81.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ folk to see him; and there he stayed for that winter.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXX. Of the marriages of Egil's daughters.](egil81)
+[Next: CHAPTER LXXX. Of the marriages of Egil's daughters.](egil81.md)

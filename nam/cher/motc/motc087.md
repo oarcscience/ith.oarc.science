@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc086) 
-[Next](motc088) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc086.md) 
+[Next](motc088.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ again and told the whole story.
 
 ------------------------------------------------------------------------
 
-[Next: 88. First Contact With Whites](motc088)
+[Next: 88. First Contact With Whites](motc088.md)

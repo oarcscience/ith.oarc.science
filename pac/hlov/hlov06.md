@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov05)  [Next](hlov07) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov05)  [Next](hlov07.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ always dig up everlastingly overflowing fountains of raging lava.
 
 ------------------------------------------------------------------------
 
-[Next: II. How Pele Came to Hawaii](hlov07)
+[Next: II. How Pele Came to Hawaii](hlov07.md)

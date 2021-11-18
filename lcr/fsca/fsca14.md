@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca13)  [Next](fsca15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca13)  [Next](fsca15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -201,7 +201,7 @@ has given place to the dragon and the pagan hero to St. George.
 ancestor having slain a desperate monster. It is always the colonial
 dragon that has
 
-<span id="img_06500"></span> ![Japanese Dragon.](img/06500.jpg)
+<span id="img_06500"></span> ![Japanese Dragon.](img/06500.jpg.md)
 
 been borrowed by poets and romancers. <span class="smallcaps">The
 Dragon</span> killed by Guy of Warwick is but another variation of the
@@ -249,7 +249,7 @@ is still the custom when an emperor dies to say that the dragon has
 ascended to heaven. An eclipse the simple
 
 <span id="img_06700"></span> ![JAPANESE IMPERIAL DEVICE. The Dragon, the
-Ho-Ho, or Phœnix, and the Chrysanthemum.](img/06700.jpg)
+Ho-Ho, or Phœnix, and the Chrysanthemum.](img/06700.jpg.md)
 
 <span class="contnote">\[paragraph continues\]</span> Celestials believe
 to be caused by a great dragon that seeks to devour the sun or moon. A
@@ -313,4 +313,4 @@ dried and hardened masses of blood.
 
 ------------------------------------------------------------------------
 
-[Next: The Dragon in Christian Art](fsca15)
+[Next: The Dragon in Christian Art](fsca15.md)

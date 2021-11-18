@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat05.htm#XXVII) 
-[Previous](satl026)  [Next](satl028) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat05.htm#XXVII.md) 
+[Previous](satl026)  [Next](satl028.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ poposcit ad manus, digitosque paululum adspersos in capite pueri tersit.
 
 ------------------------------------------------------------------------
 
-[Next: XXVIII](satl028)
+[Next: XXVIII](satl028.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cft15)  [Next](cft17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cft15)  [Next](cft17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Celtic Fairy Tales*, by Joseph Jacobs, \[1892\], at Intangible Textual
 Heritage
 
@@ -344,7 +344,7 @@ the place where is the oldest
 
 <span id="page_109">p. 109</span>
 
-<span id="img_10900"></span> ![The Eagle of Ebbw Abwy](img/10900.jpg)  
+<span id="img_10900"></span> ![The Eagle of Ebbw Abwy](img/10900.jpg.md)  
 The Eagle of Ebbw Abwy
 
 animal in this world, and the one who has travelled most, the eagle of
@@ -448,4 +448,4 @@ Yspathaden Penkawr.
 
 ------------------------------------------------------------------------
 
-[Next: Jack and his Comrades](cft17)
+[Next: Jack and his Comrades](cft17.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](foreword) [Next](chap02)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](foreword) [Next](chap02.md)
 
 ------------------------------------------------------------------------
 
@@ -462,4 +462,4 @@ man does when he is young.
 
 ------------------------------------------------------------------------
 
-[Next: II On a Mission to Washington](chap02)
+[Next: II On a Mission to Washington](chap02.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi278)  [Next](mtsi280) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi278)  [Next](mtsi280.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ a constellation (probably the Pleiades).
 
 ------------------------------------------------------------------------
 
-[Next: 15. The Hunter and His Dogs](mtsi280)
+[Next: 15. The Hunter and His Dogs](mtsi280.md)

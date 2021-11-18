@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico035) 
-[Next](nico037) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico035.md) 
+[Next](nico037.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ unseemly.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3. Pride, vanity, humility](nico037)
+[Next: Chapter 3. Pride, vanity, humility](nico037.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ric02)  [Next](ric04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ric02)  [Next](ric04.md) 
 
 ------------------------------------------------------------------------
 
@@ -306,4 +306,4 @@ importance in other aspects of religion.
 
 ------------------------------------------------------------------------
 
-[Next: Public Ceremonies](ric04)
+[Next: Public Ceremonies](ric04.md)

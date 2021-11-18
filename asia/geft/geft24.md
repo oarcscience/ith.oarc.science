@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft23)  [Next](geft25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft23)  [Next](geft25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -89,7 +89,7 @@ maiden had thrown it.
 This exploit having been performed, the prince had another to do:
 mistaking Sanartia for the suitor, they took him to a wilderness where
 there was a castle, and in it dwelt Ocho-Kochi. <span
-id="fr_46"></span>[1](#fn_45) They opened the door of the castle, and
+id="fr_46"></span>[1](#fn_45.md) They opened the door of the castle, and
 let
 
 <span id="page_135">p. 135</span>
@@ -135,7 +135,7 @@ Sanartia did not die of the wound, but went away to another land, and
 became friendly with a one-handed man, and they lived together in the
 house of the latter. Afterwards they built a house in common, and moved
 into it. Sanartia took a maiden, and kept her with him as nurse. <span
-id="fr_47"></span>[1](#fn_46) The two friends went out to hunt, and
+id="fr_47"></span>[1](#fn_46.md) The two friends went out to hunt, and
 stayed in the forest all night. At home there was nobody but the maiden.
 
 Meantime there came a *demi*, who sucked the maiden's breast and then
@@ -207,12 +207,12 @@ He took leave of them all and went home.
 
 ### Footnotes
 
-<span id="fn_45"></span>[134:1](geft24.htm#fr_46) Ocho-Kochi, literally,
+<span id="fn_45"></span>[134:1](geft24.htm#fr_46.md) Ocho-Kochi, literally,
 'the goat-man,' occupies an important place in Mingrelian mythology. He
 is a satyr, a wild man of the woods, represented as an old man with a
 long beard, his body covered with hair.
 
-<span id="fn_46"></span>[136:1](geft24.htm#fr_47) The word translated
+<span id="fn_46"></span>[136:1](geft24.htm#fr_47.md) The word translated
 'nurse' is *dzidze*, which means not only a nurse but any woman, married
 or single, who has been adopted into relationship by the ceremony of a
 man taking her breast between his teeth. This creates a degree of
@@ -221,4 +221,4 @@ exists in Mingrelia.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Shepherd Judge](geft25)
+[Next: VII. The Shepherd Judge](geft25.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](ere06)  [Next](ere08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](ere06)  [Next](ere08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -49,4 +49,4 @@ for the prices, for he misleads the sellers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX.](ere08)
+[Next: Chapter IX.](ere08.md)

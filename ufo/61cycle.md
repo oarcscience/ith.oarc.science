@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Next](89crash) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Next](89crash.md) 
 
 ### A Revival of the 61-Month Wave Theory
 
@@ -196,4 +196,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: UFO Landing and Government Intercept](89crash)
+[Next: UFO Landing and Government Intercept](89crash.md)

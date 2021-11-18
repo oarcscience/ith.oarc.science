@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](pre03)  [Next](pre05) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](pre03)  [Next](pre05.md) 
 
 ------------------------------------------------------------------------
 
@@ -2350,4 +2350,4 @@ Ulysses, and called him Loki, for the Turks were his greatest foes.\]
 
 ------------------------------------------------------------------------
 
-[Next: Skáldskaparmal](pre05)
+[Next: Skáldskaparmal](pre05.md)

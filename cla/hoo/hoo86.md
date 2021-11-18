@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo85)  [Next](hoo87) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo85)  [Next](hoo87.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ And fruitful rains on earth all-parent send.
 
 ------------------------------------------------------------------------
 
-[Next: LXXXII: To Ocean](hoo87)
+[Next: LXXXII: To Ocean](hoo87.md)

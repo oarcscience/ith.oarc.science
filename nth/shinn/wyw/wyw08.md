@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Shinn](../index)  [Index](index) 
-[Previous](wyw07)  [Next](wyw09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Shinn](../index)  [Index](index.md) 
+[Previous](wyw07)  [Next](wyw09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -152,4 +152,4 @@ It is dangerous to stop in the middle of a *hunch*.
 
 ------------------------------------------------------------------------
 
-[Next: Faith](wyw09)
+[Next: Faith](wyw09.md)

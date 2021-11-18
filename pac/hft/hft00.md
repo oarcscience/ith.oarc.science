@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Next](hft01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Next](hft01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hawaiian Folk Tales*, by Thomas G. Thrum, \[1907\], at Intangible
 Textual Heritage
 
@@ -37,4 +37,4 @@ States because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](hft01)
+[Next: Preface](hft01.md)

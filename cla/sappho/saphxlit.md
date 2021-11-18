@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Classical Paganism](../index) 
-[Index](index) 
+[Sacred-Texts](../../index)  [Classical Paganism](../index.md) 
+[Index](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ get up to speed with.
 Accent marks follow the vowel they are placed on, including (for
 consistency) the breath marks ! and ?. \[Note that the rough breath mark
 does not acutally appear in this corpus because it is not found in
-Aeolian Greek, except in one case ([\#112](sappho3.htm#112)) where the
+Aeolian Greek, except in one case ([\#112](sappho3.htm#112).md) where the
 poem was rewritten in Attic.\] This is done even if the vowel is
 capitalized (in which case the Greek has the breathing mark written
 before the vowel, e.g. Helen, written here E?le'na, is actually spelled

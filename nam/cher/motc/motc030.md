@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc029) 
-[Next](motc031) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc029.md) 
+[Next](motc031.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ never since dared to come up to the surface.
 
 ------------------------------------------------------------------------
 
-[Next: 31. The Terrapin's Escape From The Wolves](motc031)
+[Next: 31. The Terrapin's Escape From The Wolves](motc031.md)

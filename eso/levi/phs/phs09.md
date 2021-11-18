@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Esoteric](../../index) 
-[Eliphas Levi](../index)  [Index](index)  [Previous](phs08) 
-[Next](phs10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Esoteric](../../index.md) 
+[Eliphas Levi](../index)  [Index](index)  [Previous](phs08.md) 
+[Next](phs10.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ renown; the one desired to free the world which the other proposed to
 enslave; the first desired a rivulet of blood, the other made rivers of
 it flow, and then bequeathed to us two invasions, the reign of his
 nephew, and overwhelming catastrophies; the one is execrated, the other
-adored; for one the gallows, <span id="fr_62"></span>[1](#fn_62) for the
+adored; for one the gallows, <span id="fr_62"></span>[1](#fn_62.md) for the
 other the triumphal arch and column, and both are exaggerations--the one
 of infamy, the other of glory.
 
@@ -107,7 +107,7 @@ of his trumpets; by the imagination bread becomes God, and the wine of
 the chalice is changed into immortal blood, and we do not profess to
 say, as may be well imagined, that this is not so; but this is, as we
 imagine it, according to the word and on the faith of Jesus
-Christ. <span id="fr_63"></span>[1](#fn_63)
+Christ. <span id="fr_63"></span>[1](#fn_63.md)
 
 Imagination heals the sick and makes the fortune of celebrated
 physicians; it creates homœopathy from which so many believers derive
@@ -155,7 +155,7 @@ mother,
 <span id="page_80">p. 80</span>
 
 forbade her under pain of the most terrible penalties to touch the fruit
-which would make her yield to love. <span id="fr_64"></span>[1](#fn_64)
+which would make her yield to love. <span id="fr_64"></span>[1](#fn_64.md)
 
 It was only in fact when they knew that they were doomed to die that the
 man and woman bethought themselves of providing successors. Death
@@ -196,7 +196,7 @@ The wonders of lucid somnambulism have no other cause, and are explained
 by a series of mirages and reflections. *The interior light bears the
 same relation to the external light that negative electricity bears to
 positive electricity*, and it is on this account that phantoms appear
-specially at night, <span id="fr_65"></span>[1](#fn_65) and that
+specially at night, <span id="fr_65"></span>[1](#fn_65.md) and that
 sorcerers require
 
 <span id="page_82">p. 82</span>
@@ -207,7 +207,7 @@ before all kinds of persons; they require a small sympathetic circle,
 predisposed to the contagious influence of that interior phosphorescence
 which makes the one set see and feel what would be neither visible nor
 sensible to the others. Then one is slowly and progressively pervaded by
-the life of the dream <span id="fr_66"></span>[1](#fn_66); the furniture
+the life of the dream <span id="fr_66"></span>[1](#fn_66.md); the furniture
 moves, pens write without being touched, men rise from the earth and
 remain suspended in the air. Then realities run mad, and mad ideas seem
 real; the seers and seeresses are insensible to pain. The
@@ -217,7 +217,7 @@ magnetizer chooses to imagine. The dead appear, hands without bodies
 come and touch you: but let a healthy man, or one out of sympathy with
 the circle enter, the oracles are silent, the hands disappear, the
 furniture ceases to dance, everything returns to its natural
-order, <span id="fr_67"></span>[2](#fn_67) and the members of the circle
+order, <span id="fr_67"></span>[2](#fn_67.md) and the members of the circle
 are
 
 <span id="page_83">p. 83</span>
@@ -246,11 +246,11 @@ excite the curiosity and stimulate the investigation of
 <span id="page_84">p. 84</span>
 
 men of science, but can demonstrate in no way the intervention of
-supernatural beings. <span id="fr_68"></span>[1](#fn_68)
+supernatural beings. <span id="fr_68"></span>[1](#fn_68.md)
 
 *As a fact, God only is supernatural in the sense that He is the Master
 of Nature. All that is not God falls necessarily into the order of
-Nature*. <span id="fr_69"></span>[2](#fn_69)
+Nature*. <span id="fr_69"></span>[2](#fn_69.md)
 
 We must simultaneously ignore all the Laws of Nature and all the rules
 of exegesis, if we are to accept literally and in a natural
@@ -270,7 +270,7 @@ for in that case the two things would, at the same time, be and not be.
 To change literally and totally water into wine, it would be necessary
 to annihilate water and create wine--two absurdities. For nothing can be
 annihilated, and wine cannot be created without grapes. <span
-id="fr_70"></span>[1](#fn_70) To evaporate the water and substitute for
+id="fr_70"></span>[1](#fn_70.md) To evaporate the water and substitute for
 it wine would be a mere conjuror's trick and not a change of substances.
 Bread may become flesh and wine become blood, but only by the processes
 of assimilation and not by transubstantiation. These dogmatical
@@ -278,7 +278,7 @@ expressions must, therefore, remain restricted to the domain of Dogma
 and Symbols. Taken scientifically and in their natural sense they are
 absurdities. Dogma is the formula of imaginary realities. Note well that
 we say realities and not fictions. The affirmations of Dogma are
-realities for Faith, <span id="fr_71"></span>[2](#fn_71) but they are
+realities for Faith, <span id="fr_71"></span>[2](#fn_71.md) but they are
 imaginary, because we can only conceive them through the imagination
 since they elude the analysis alike of Science and Reason.
 
@@ -292,7 +292,7 @@ the miracle is incontestable.
 <span id="page_86">p. 86</span>
 
 All educated people know that the miracles of the Bible are Oriental
-exaggerations. <span id="fr_72"></span>[1](#fn_72) Moses took advantage
+exaggerations. <span id="fr_72"></span>[1](#fn_72.md) Moses took advantage
 of the rise and fall of the sea; Joshua found a ford in the Jordan; be
 used to breach the walls of Jericho one of those explosive compounds of
 which the Priests possessed the secret; and the national Poets tell us
@@ -302,7 +302,7 @@ its course to mark a great day of Victory.
 
 Do we not read in the Psalms of David that the mountains have leapt like
 rams and the hills like lambs? Must we take this literally <span
-id="fr_73"></span>[2](#fn_73)? The same Poet adds that stones have been
+id="fr_73"></span>[2](#fn_73.md)? The same Poet adds that stones have been
 changed into pools and rocks into fountains. Have we here a
 transubstantiation? The theologians contend that we must take literally
 the words of Jesus Christ when he says of the bread, "This is My Body,"
@@ -312,7 +312,7 @@ words in a literal sense when he says "I am the true vine
 <span id="page_87">p. 87</span>
 
 ye are the branches." Now was Jesus Christ truly and literally a
-vine? <span id="fr_74"></span>[1](#fn_74)
+vine? <span id="fr_74"></span>[1](#fn_74.md)
 
 Must we believe that the knowledge of good and evil were really and
 truly a tree, and that the bitter fruits of this double-stemmed tree
@@ -332,45 +332,45 @@ Orpheus loved his companion; they go to seek it everywhere, even into
 Hell, and turn round at the wrong time to see if Eurydice is following
 them. True glory is what none can take from us; it consists in merit,
 and not in the applause of the multitude; <span
-id="fr_75"></span>[2](#fn_75) it fears not the caprices of
+id="fr_75"></span>[2](#fn_75.md) it fears not the caprices of
 
 <span id="page_88">p. 88</span>
 
 \[paragraph continues\] Destiny, because it owes nothing to chance; it
 loves neither tumult nor noise; it is in the silence of Earth that we
-enjoy the peace of Heaven. <span id="fr_76"></span>[1](#fn_76)
+enjoy the peace of Heaven. <span id="fr_76"></span>[1](#fn_76.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_62"></span>[76:1](phs09.htm#fr_62) In the original "*les
+<span id="fn_62"></span>[76:1](phs09.htm#fr_62.md) In the original "*les
 gémonies*," that is the Roman place of execution--The Tyburn of
 Rome.--*Trans*.
 
-<span id="fn_63"></span>[78:1](phs09.htm#fr_63) One of our author's
+<span id="fn_63"></span>[78:1](phs09.htm#fr_63.md) One of our author's
 characteristic "grimaces," which he must have thought witty, as they
 could impose on no one, but which exasperate the ordinary readers as in
 equally bad faith and bad taste.--*Trans*.
 
-<span id="fn_64"></span>[80:1](phs09.htm#fr_64) This is not the occult
+<span id="fn_64"></span>[80:1](phs09.htm#fr_64.md) This is not the occult
 meaning of the Legend referred to, and this E. L. of course knew. He
 seems constantly to fear that he may have somewhere spoken too plainly
 and to feel it a duty to set his readers off on a wrong scent.--*Trans*.
 
-<span id="fn_65"></span>[81:1](phs09.htm#fr_65) Only partially on this
+<span id="fn_65"></span>[81:1](phs09.htm#fr_65.md) Only partially on this
 account. There are many other reasons. The terrestrial magnetic
 conditions differ widely during the day and the night. The physical
 energy is at its lowest ebb during the night, and the more vigorous the
 physical powers the less scope <span id="page_82">p. 82</span> for the
 psychical perceptions, and there are many other factors--*Trans*.
 
-<span id="fn_66"></span>[82:1](phs09.htm#fr_66) E. L.
-[apparently](errata.htm#0) knew very little of this branch of the
+<span id="fn_66"></span>[82:1](phs09.htm#fr_66.md) E. L.
+[apparently](errata.htm#0.md) knew very little of this branch of the
 subject. He apparently fancied that all phenomena were
 subjective--*Trans*.
 
-<span id="fn_67"></span>[82:2](phs09.htm#fr_67) All this of course is a
+<span id="fn_67"></span>[82:2](phs09.htm#fr_67.md) All this of course is a
 hasty generalisation, founded on insufficient data. All this may happen,
 or it may not; it will depend on the relative magnetic (I use the word
 for lack of a better) powers <span id="page_83">p. 83</span> of the
@@ -380,7 +380,7 @@ and thoroughly hostile to the supposed dupers and dupes, have found
 their presence, and even wills, wholly inadequate to check the progress
 of the phenomena.--*Trans*.
 
-<span id="fn_68"></span>[84:1](phs09.htm#fr_68) All this, though
+<span id="fn_68"></span>[84:1](phs09.htm#fr_68.md) All this, though
 literally true, is grossly dishonest. As a Kabalist Éliphas Lévi knew
 all about elementals and elementaries. Of course these are *not*
 supernatural, as they belong to nature, so that what he says is true in
@@ -392,38 +392,38 @@ is true to the letter but false to the spirit, as leading the reader to
 infer that he denied the occurrence of what *people call*
 miracles.--*Trans*.
 
-<span id="fn_69"></span>[84:2](phs09.htm#fr_69) Fallacy and assumption,
+<span id="fn_69"></span>[84:2](phs09.htm#fr_69.md) Fallacy and assumption,
 and he knew it.--E. O.
 
-<span id="fn_70"></span>[85:1](phs09.htm#fr_70) London wine merchants
+<span id="fn_70"></span>[85:1](phs09.htm#fr_70.md) London wine merchants
 could tell him a different story.--*Trans*.
 
-<span id="fn_71"></span>[85:2](phs09.htm#fr_71) That is *Blind*
+<span id="fn_71"></span>[85:2](phs09.htm#fr_71.md) That is *Blind*
 Faith.--E. O.
 
-<span id="fn_72"></span>[86:1](phs09.htm#fr_72) They know nothing of the
+<span id="fn_72"></span>[86:1](phs09.htm#fr_72.md) They know nothing of the
 kind; some may be so; some are probably very fairly accurate traditions
 of occult phenomena, but E. L. knew apparently very little of the
 physics of occultism.--*Trans*.
 
-<span id="fn_73"></span>[86:2](phs09.htm#fr_73) All this is pure
+<span id="fn_73"></span>[86:2](phs09.htm#fr_73.md) All this is pure
 sophistry. Of course the two things are utterly distinct; in the one
 case there is clearly the use of metaphor, in the others, previously
 referred to, there is equally clearly an assertion of fact; the latter
 may be a fiction, but it can neither be rejected nor discredited on the
 score that elsewhere tropes and metaphors are employed.--*Trans*.
 
-<span id="fn_74"></span>[87:1](phs09.htm#fr_74) This of course is a fair
+<span id="fn_74"></span>[87:1](phs09.htm#fr_74.md) This of course is a fair
 argument against the Roman Catholic Dogma of
 Transubstantiation.--*Trans*.
 
-<span id="fn_75"></span>[87:2](phs09.htm#fr_75)
+<span id="fn_75"></span>[87:2](phs09.htm#fr_75.md)
 
 ". . . worth is the Ocean,  
 Fame is but the bruit that roars along the shallows."  
 --*Trans*.
 
-<span id="fn_76"></span>[88:1](phs09.htm#fr_76) The conviction of the
+<span id="fn_76"></span>[88:1](phs09.htm#fr_76.md) The conviction of the
 especial fitness of each to know best his own peculiar nature and
 powers. Power has its illusion. Let every one accomplish his
 mission.--E. O.
@@ -431,4 +431,4 @@ mission.--E. O.
 ------------------------------------------------------------------------
 
 [Next: Paradox VII.--The Will Accomplishes Everything, Which It Does Not
-Desire](phs10)
+Desire](phs10.md)

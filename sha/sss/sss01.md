@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sss00)  [Next](sss02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sss00)  [Next](sss02.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ SINGAPORE,1924.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](sss02)
+[Next: Table of Contents](sss02.md)

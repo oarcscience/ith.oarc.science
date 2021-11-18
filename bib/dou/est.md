@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](neh)  [Next](job) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](neh)  [Next](job.md) 
 
 ------------------------------------------------------------------------
 
@@ -771,4 +771,4 @@ seed.
 
 ------------------------------------------------------------------------
 
-[Next: Job](job)
+[Next: Job](job.md)

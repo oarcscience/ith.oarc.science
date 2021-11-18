@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps43) 
-[Next](mps45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps43.md) 
+[Next](mps45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -302,4 +302,4 @@ they go to Kadjet’hi you shall see a battle of piercing lances.
 
 ------------------------------------------------------------------------
 
-[Next: XLII. Tariel and Avt’handil Go to P’hridon](mps45)
+[Next: XLII. Tariel and Avt’handil Go to P’hridon](mps45.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc12)  [Next](osc14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc12)  [Next](osc14.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ photograph of the people receiving their cakes.
 
 ------------------------------------------------------------------------
 
-[Next: (11) Easter Eggs](osc14)
+[Next: (11) Easter Eggs](osc14.md)

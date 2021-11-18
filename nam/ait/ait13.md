@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait12)  [Next](ait14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait12)  [Next](ait14.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![T](img/10300.jpg) |
+| ![T](img/10300.jpg.md) |
 
 HE Prince of the Hares was playing with his children in front of his
 burrow, one day, when, growing tired, he threw back his ears, drew in
@@ -235,7 +235,7 @@ he.
 
 [![“He went to the top of the cliff and saw the sun just
 rising.”](tn/11100.jpg)  
-Click to enlarge](img/11100.jpg)  
+Click to enlarge](img/11100.jpg.md)  
 “He went to the top of the cliff and saw the sun just rising.”  
 
 "We shall see, we shall see," said the Hare.
@@ -283,4 +283,4 @@ darkness.
 
 ------------------------------------------------------------------------
 
-[Next: The Great Head](ait14)
+[Next: The Great Head](ait14.md)

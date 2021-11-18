@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr07)  [Next](arr09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr07)  [Next](arr09.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ facts of I life.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV: Alchemy in The Sixteenth and Seventeenth
-Centuries](arr09)
+Centuries](arr09.md)

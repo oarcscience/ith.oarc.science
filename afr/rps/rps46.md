@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps45)  [Next](rps47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps45)  [Next](rps47.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ BRIDEL YOUR CHILDREN BEFORE YOU ARE MARRIED.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 45. The Founder's Support Funds](rps47)
+[Next: Chapter 45. The Founder's Support Funds](rps47.md)

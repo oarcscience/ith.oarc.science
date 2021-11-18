@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass26)  [Next](nass28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass26)  [Next](nass28.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ disappear.
 
 ------------------------------------------------------------------------
 
-[Next: Txä'msEm](nass28)
+[Next: Txä'msEm](nass28.md)

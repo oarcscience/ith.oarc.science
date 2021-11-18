@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt38)  [Next](pyt40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt38)  [Next](pyt40.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ sweet-smelling ones.
 ------------------------------------------------------------------------
 
 [Next: 37. The Resurrection of Osiris with whom the Gods are Satisfied,
-Utterance 577](pyt40)
+Utterance 577](pyt40.md)

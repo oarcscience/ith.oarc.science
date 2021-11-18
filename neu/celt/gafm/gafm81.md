@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](gafm80)  [Next](gafm82) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](gafm80)  [Next](gafm82.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BH3EVC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BH3EVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gods and Fighting Men*, by Lady Gregory, \[1904\], at Intangible
 Textual Heritage
 
@@ -203,4 +203,4 @@ Hill of Heroes.
 
 ------------------------------------------------------------------------
 
-[Next: Part II Book IX: Death of Goll](gafm82)
+[Next: Part II Book IX: Death of Goll](gafm82.md)

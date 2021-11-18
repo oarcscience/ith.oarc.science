@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec09)  [Next](aec11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec09)  [Next](aec11.md) 
 
 ------------------------------------------------------------------------
 
@@ -263,4 +263,4 @@ THEN you will be most happy to have its support and comfort.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Where Is God?](aec11)
+[Next: VIII. Where Is God?](aec11.md)

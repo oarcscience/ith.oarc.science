@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma05)  [Next](oma07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma05)  [Next](oma07.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,21 +13,21 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 
 # ORIGIN MYTH
 
-In the beginning <span id="fr_0"></span>[1](#fn_0) two female human
+In the beginning <span id="fr_0"></span>[1](#fn_0.md) two female human
 beings were born. These two children were born underground at a place
 called Shipapu. As they grew up, they began to be aware of each other.
 There was no light and they could only feel each other. Being in the
 dark they grew slowly.
 
 After they had grown considerably, a Spirit whom they afterward called
-Tsichtinako <span id="fr_1"></span>[2](#fn_1) spoke to them, and they
+Tsichtinako <span id="fr_1"></span>[2](#fn_1.md) spoke to them, and they
 found that it would give them nourishment. After they had grown large
 enough to think for themselves, they spoke to the Spirit when it had
 come to them one day and asked it to make itself known to them and to
 say whether it was male or female, but it replied only that it was not
 allowed to meet with them. They then asked why they were living in the
 dark without knowing each other by name, but the Spirit answered that
-they were nuk’timi <span id="fr_2"></span>[3](#fn_2) (under the earth);
+they were nuk’timi <span id="fr_2"></span>[3](#fn_2) (under the earth.md);
 but they were to be patient in waiting until everything was ready for
 them to go up into the light. So they waited a long time, and as they
 grew they learned their language from Tsichtinako.
@@ -36,7 +36,7 @@ When all was ready, they found a present from Tsichtinako, two baskets
 of seeds and little images of all the different animals (there were to
 be) in the world. The Spirit said they were sent by their father. They
 asked who was meant by their father, and Tsichtinako replied that his
-name was Ūch’tsiti <span id="fr_3"></span>[4](#fn_3) and that he wished
+name was Ūch’tsiti <span id="fr_3"></span>[4](#fn_3.md) and that he wished
 them to take their baskets out into the light, when the time came.
 Tsichtinako instructed them, "You will find the seeds of four kinds of
 pine trees, lā’khok, gēi’etsu (dyai’its), wanūka, and lă’nye, in your
@@ -82,7 +82,7 @@ it had gone out. Locust said no, and every time he was asked he replied
 no, until the fourth time when he admitted that he had gone out. They
 asked Locust what it was like outside. Locust replied that it was just
 tsī’ītī (laid out flat). They said, "From now on you will be known as
-Tsi·k’ă. <span id="fr_4"></span>[5](#fn_4) You will also come up with
+Tsi·k’ă. <span id="fr_4"></span>[5](#fn_4.md) You will also come up with
 us, but you will be punished for disobedience by being allowed out only
 a short time. Your home will be in the ground and you will have to
 return when the weather is bad. You will soon die but you will be reborn
@@ -122,7 +122,7 @@ Tsichtinako then told her to name her sister, but it took a long time.
 Finally Tsichtinako noticed that the other had more in her basket, so
 Tsichtinako told Iatiku to name her thus, and Iatiku called her Nautsiti
 which meant "more of everything in the basket." <span
-id="fr_5"></span>[6](#fn_5)
+id="fr_5"></span>[6](#fn_5.md)
 
 They now prayed to the Sun as they had been taught by Tsichtinako, and
 sang the creation song. Their eyes hurt for they were not accustomed to
@@ -144,7 +144,7 @@ it you were nourished as you developed. Now that you have emerged from
 within the earth, you will have to provide nourishment for yourselves. I
 will instruct you in this." They then asked where their father lived and
 Tsichtinako replied, "You will never see your father, he lives four
-skies above, <span id="fr_6"></span>[7](#fn_6) and has made you to live
+skies above, <span id="fr_6"></span>[7](#fn_6.md) and has made you to live
 in this world. He has made you in the image of himself." So they asked
 why Tsichtinako did not become visible to them, but Tsichtinako replied,
 "I don't know how to live like a human being. I have been asked by
@@ -170,7 +170,7 @@ Tsichtinako next said to them, "Now that you have your names, you will
 pray with your names and your clan names so that the Sun will know you
 and recognize you." Tsichtinako asked Nautsiti which clan she wished to
 belong to. Nautsiti answered, "I wish to see the sun, that is the clan I
-will be." <span id="fr_7"></span>[8](#fn_7) The spirit told Nautsiti to
+will be." <span id="fr_7"></span>[8](#fn_7.md) The spirit told Nautsiti to
 ask Iatiku what clan she wanted. Iatiku thought for a long time but
 finally she noticed that she had the seed from which sacred meal was
 made in her basket and no other kind of seeds. She thought, "With this
@@ -323,9 +323,9 @@ flesh so well that they asked Tsichtinako if they might have something
 larger that would yield more flesh. Tsichtinako answered that they would
 find other things in their baskets. They went back to them, and
 Tsichtinako said they would find Tsū’na <span
-id="fr_8"></span>[9](#fn_8) (rat) and another animal Katsa <span
-id="fr_9"></span>[10](#fn_9) (mole) and also Nīt<sup>e</sup>. <span
-id="fr_10"></span>[11](#fn_10) (prairie dog). "Go, make these images
+id="fr_8"></span>[9](#fn_8) (rat.md) and another animal Katsa <span
+id="fr_9"></span>[10](#fn_9) (mole.md) and also Nīt<sup>e</sup>. <span
+id="fr_10"></span>[11](#fn_10) (prairie dog.md). "Go, make these images
 alive," said Tsichtinako, pointing them out according to their names.
 They were to do this in the same way as with Bashya. Tsichtinako also
 told them that these animals were to be used as food and that they must
@@ -355,10 +355,10 @@ animals to feed them."
 After a long time, Tsichtinako spoke to them, "What we are going to do
 now concerns the earth. We are going to make the mountains." She told
 them to remember the words she was going to say. They were to say,
-"Kaweshtima kōt<sup>i</sup> <span id="fr_11"></span>[12](#fn_11) (North
+"Kaweshtima kōt<sup>i</sup> <span id="fr_11"></span>[12](#fn_11.md) (North
 Mountain), appear in the north, and we will always know you to be in
 that direction." Tsichtinako also pointed out an article in the basket
-that she named ya’ōni <span id="fr_12"></span>[13](#fn_12) (stone) and
+that she named ya’ōni <span id="fr_12"></span>[13](#fn_12) (stone.md) and
 instructed them to throw the stone to the North direction as they spoke
 the words. When they did so,, a big mountain appeared in the North.
 After they had done this, Tsichtinako instructed them to do the same
@@ -379,7 +379,7 @@ them you will get logs. Later you will build houses and will use these."
 They asked if that was all that was going to grow on the mountains, and
 Tsichtinako said, "No, there are many other seeds left in your baskets.
 You have seeds of trees which are going to yield food. You will find
-dyai’its <span id="fr_13"></span>[14](#fn_13) (piñon
+dyai’its <span id="fr_13"></span>[14](#fn_13.md) (piñon
 
 <span id="page_9">p. 9</span>
 
@@ -446,9 +446,9 @@ life in the same manner as before.
 The sisters again asked what was in their baskets, and they were told,
 "You will find birds which will fly in the air. These birds win also use
 small game for their food. You will find in the basket the eagles and
-the hawks (shpi·ya, <span id="fr_14"></span>[15](#fn_14) ga·wa, <span
-id="fr_15"></span>[16](#fn_15) i·tsa)." <span
-id="fr_16"></span>[17](#fn_16) Tsichtinako pointed these out to them and
+the hawks (shpi·ya, <span id="fr_14"></span>[15](#fn_14.md) ga·wa, <span
+id="fr_15"></span>[16](#fn_15) i·tsa.md)." <span
+id="fr_16"></span>[17](#fn_16.md) Tsichtinako pointed these out to them and
 they brought them to life. The birds flew up into the high mountains and
 over the plains. The sisters told the birds to use small game for food,
 and again Iatiku asked what was in the basket. Tsichtinako pointed out
@@ -478,13 +478,13 @@ increased.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](oma06.htm#fr_0) All Keresan pueblo origin
+<span id="fn_0"></span>[1:1](oma06.htm#fr_0.md) All Keresan pueblo origin
 myths that have been collected so far begin in the same general way and
 follow essentially the same pattern: In the beginning the people were in
 the interior of the earth; there were two women, sisters; the people
 emerge from an opening in the north, migrate southward, etc.
 
-<span id="fn_1"></span>[1:2](oma06.htm#fr_1) Boas, (1928, pt. 1, pp.
+<span id="fn_1"></span>[1:2](oma06.htm#fr_1.md) Boas, (1928, pt. 1, pp.
 221, 222, 228; pt. 2, pp. 10, 11) reports a spirit at Laguna known as
 Ts’ιts‘tc‘i·'na·'k’o, "Thought-Woman." Gunn (1917, 1, 89) speaks of
 Sitchtchenako, who is "creator of all." At Sia we find Sûs'sĭstinnako,
@@ -492,67 +492,67 @@ who is also a creator. and is said to be a spider (Stevenson, 1394, pp.
 2c\~-27). A spirit named Tsi'tyosti·nako is reported from Santa Ana
 (White, ms.).
 
-<span id="fn_2"></span>[1:3](oma06.htm#fr_2) Diacritical marks will be
+<span id="fn_2"></span>[1:3](oma06.htm#fr_2.md) Diacritical marks will be
 noted only in the first use of a term or in terms quoted from published
 sources.
 
-<span id="fn_3"></span>[1:4](oma06.htm#fr_3) From kut’tsiti, crammed
+<span id="fn_3"></span>[1:4](oma06.htm#fr_3.md) From kut’tsiti, crammed
 full (in the basket); the implication being "nothing lacking".
 
-<span id="fn_4"></span>[2:5](oma06.htm#fr_4) At Santa Ana the cicada is
+<span id="fn_4"></span>[2:5](oma06.htm#fr_4.md) At Santa Ana the cicada is
 called tsi·k’ă. In the Santa Ana origin myth the badger and the cicada
 assist in preparing for the emergence as they do here (White, ms.).
 
-<span id="fn_5"></span>[3:6](oma06.htm#fr_5) This is the only instance
+<span id="fn_5"></span>[3:6](oma06.htm#fr_5.md) This is the only instance
 of translations of these names thus far reported. In many Keresan origin
 myths Ï'tc‘ts‘it<sup>y</sup>‘i and Nau'ts‘it<sup>y</sup>‘i are sisters.
 At Laguna, according to Boas (1928, pt. 1, p. 221)
 Ï'tc‘ts‘it<sup>y</sup>‘i has been transformed into a man, "the father of
 the Whites." He attributes this change to Catholic influence.
 
-<span id="fn_6"></span>[4:7](oma06.htm#fr_6) This may be another
+<span id="fn_6"></span>[4:7](oma06.htm#fr_6.md) This may be another
 instance of adaptation of a Catholic idea to Indian form. Iatik, the
 great mother, deity of the Keres, lives in the interior of the earth,
 "four worlds down."
 
-<span id="fn_7"></span>[4:8](oma06.htm#fr_7) The narrator belonged to
+<span id="fn_7"></span>[4:8](oma06.htm#fr_7.md) The narrator belonged to
 the Sun clan.
 
-<span id="fn_8"></span>[7:9](oma06.htm#fr_8) Mouse (*Mus musculus*) and
+<span id="fn_8"></span>[7:9](oma06.htm#fr_8) Mouse (*Mus musculus*.md) and
 rat (Rattus norwegicus) are called si'ya’na at Santa Ana (White, ins);
 the latter is so called at Santo Domingo (White, 1935, p. 203).
 
-<span id="fn_9"></span>[7:10](oma06.htm#fr_9) See k’a·'TSα, kangaroo rat
+<span id="fn_9"></span>[7:10](oma06.htm#fr_9.md) See k’a·'TSα, kangaroo rat
 (*Dipodomys spectabilis*), in Boas (1928, pt. 2, p. 92, ll. 2, 5, 7)--L.
 A. W.
 
-<span id="fn_10"></span>[7:11](oma06.htm#fr_10) Nī·ty‘, prairie dog
+<span id="fn_10"></span>[7:11](oma06.htm#fr_10.md) Nī·ty‘, prairie dog
 (*Cynomys ludodvicanus*), Santa Ana (White, ins.); Santo Domingo (White,
 1934 p. 203); Laguna (Boas, 1928, pt. 2, p. 247, l. 5).
 
-<span id="fn_11"></span>[8:12](oma06.htm#fr_11) For mountains at the
+<span id="fn_11"></span>[8:12](oma06.htm#fr_11.md) For mountains at the
 cardinal points: k’awe·'cT<sup>y</sup>ιmα, tspι'Dα, Tau'T<sup>y</sup>umα
 and k‘tc‘α'nα (Boas, 1928, pt. 1, p. 283).
 
-<span id="fn_12"></span>[8:13](oma06.htm#fr_12) ya·'won<sup>y</sup>i,
+<span id="fn_12"></span>[8:13](oma06.htm#fr_12.md) ya·'won<sup>y</sup>i,
 Laguna (Boss, 1928, pt. 2, p. 2, l. 1).
 
-<span id="fn_13"></span>[8:14](oma06.htm#fr_13)
+<span id="fn_13"></span>[8:14](oma06.htm#fr_13.md)
 T<sup>y</sup>aits<sup>e</sup> *Pinus edulis*, Laguna (Boas, 1928, pt. 2,
 p. 244, l. 7); gyai'ts<sup>i</sup>, Santa Ana (White, ms.).
 
-<span id="fn_14"></span>[10:15](oma06.htm#fr_14) Identified as western
+<span id="fn_14"></span>[10:15](oma06.htm#fr_14.md) Identified as western
 redtail hawk (*Buteo borealis calurus*, Cassin) at Acoma (White, 1942),
 as Swainson and Ferruginous roughleg at Santo Domingo (White, 1935, p.
 204), and as sharpshinned hawk (*Accipiter velox*, Wilson) at Santa Ana
 (White, ms.).
 
-<span id="fn_15"></span>[10:16](oma06.htm#fr_15) Identified at Acoma as
+<span id="fn_15"></span>[10:16](oma06.htm#fr_15.md) Identified at Acoma as
 western goshawk (*Astur atricapillus striatualtus*).
 
-<span id="fn_16"></span>[10:17](oma06.htm#fr_16) Identified at Acoma as
+<span id="fn_16"></span>[10:17](oma06.htm#fr_16.md) Identified at Acoma as
 sharpshinned hawk (White, 1942).
 
 ------------------------------------------------------------------------
 
-[Next: Origin of the Evil Spirit](oma07)
+[Next: Origin of the Evil Spirit](oma07.md)

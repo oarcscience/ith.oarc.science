@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -199,11 +199,11 @@ small hazard, to gain all that we desire! For if we go up to this tower
 of Antonia, we gain the city; for if there should be any more occasion
 for fighting against those within the city, which I do not suppose there
 will, since we shall then be upon the top of the hill <span
-id="EndNote War 6.1a"></span>[(1)](#EndNote%20War%206.1b) and be upon
+id="EndNote War 6.1a"></span>[(1)](#EndNote%20War%206.1b.md) and be upon
 our enemies before they can have taken breath, these advantages promise
 us no less than a certain and sudden victory. As for myself, I shall at
 present wave any commendation of those who die in war, <span
-id="EndNote War 6.2a"></span>[(2)](#EndNote%20War%206.2b) and omit to
+id="EndNote War 6.2a"></span>[(2)](#EndNote%20War%206.2b.md) and omit to
 speak of the immortality of those men who are slain in the midst of
 their martial bravery; yet cannot I forbear to imprecate upon those who
 are of a contrary disposition, that they may die in time of peace, by
@@ -243,7 +243,7 @@ others, by those rewards I would bestow upon him. If such a one escape
 with his life, he shall have the command of others that are now but his
 equals; although it be true also that the greatest rewards will accrue
 to such as die in the attempt." <span
-id="EndNote War 6.3a"></span>[(3)](#EndNote%20War%206.3b)
+id="EndNote War 6.3a"></span>[(3)](#EndNote%20War%206.3b.md)
 
 6\. Upon this speech of Titus, the rest of the multitude were aftrighted
 at so great a danger. But there was one, whose name was Sabinus, a
@@ -361,7 +361,7 @@ the eyes of Caesar, or more terrible to others, than this. However, he
 was himself pursued by fate, which it all not possible that he, who was
 but a mortal man, should escape; for as he had shoes all full of thick
 and sharp nails <span
-id="EndNote War 6.4a"></span>[(4)](#EndNote%20War%206.4b) as had every
+id="EndNote War 6.4a"></span>[(4)](#EndNote%20War%206.4b.md) as had every
 one of the other soldiers, so when he ran on the pavement of the temple,
 he slipped, and fell down upon his back with a very great noise, which
 was made by his armor. This made those that were running away to turn
@@ -403,7 +403,7 @@ up the foundations of the tower of Antonia, and make him a ready passage
 for his army to come up; while he himself had Josephus brought to him,
 (for he had been informed that on that very day, which was the
 seventeenth day <span
-id="EndNote War 6.5a"></span>[(5)](#EndNote%20War%206.5b) of Panemus,
+id="EndNote War 6.5a"></span>[(5)](#EndNote%20War%206.5b.md) of Panemus,
 \[Tamuz,\] the sacrifice called "the Daily Sacrifice" had failed, and
 had not been offered to God, for want of men to offer it, and that the
 people were grievously troubled at it,) and commanded him to say the
@@ -417,7 +417,7 @@ Jews whom he should pitch upon. Upon this Josephus stood in such a place
 where he might be heard, not by John only, but by many more, and then
 declared to them what Caesar had given him in charge, and this in the
 Hebrew language. <span
-id="EndNote War 6.6a"></span>[(6)](#EndNote%20War%206.6b) So he
+id="EndNote War 6.6a"></span>[(6)](#EndNote%20War%206.6b.md) So he
 earnestly prayed them to spare their own city, and to prevent that fire
 which was just ready to seize upon the temple, and to offer their usual
 sacrifices to God therein. At these words of his a great sadness and
@@ -442,7 +442,7 @@ thou, who art a Jew, and wast educated in our laws, art become a greater
 enemy to them than the others. But still, John, it is never dishonorable
 to repent, and amend what hath been done amiss, even at the last
 extremity. Thou hast an instance before thee in Jechoniah, <span
-id="EndNote War 6.7a"></span>[(7)](#EndNote%20War%206.7b) the king of
+id="EndNote War 6.7a"></span>[(7)](#EndNote%20War%206.7b.md) the king of
 the Jews, if thou hast a mind to save the city, who, when the king of
 Babylon made war against him, did of his own accord go out of this city
 before it was taken, and did undergo a voluntary captivity with his
@@ -470,7 +470,7 @@ countrymen. And are not both the city and the entire temple now full of
 the dead bodies of your countrymen? It is God, therefore, it is God
 himself who is bringing on this fire, to purge that city and temple by
 means of the Romans, <span
-id="EndNote War 6.8a"></span>[(8)](#EndNote%20War%206.8b) and is going
+id="EndNote War 6.8a"></span>[(8)](#EndNote%20War%206.8b.md) and is going
 to pluck up this city, which is full of your pollutions."
 
 2\. As Josephus spoke these words, with groans and tears in his eyes,
@@ -487,7 +487,7 @@ quietly get away, fled to the Romans, of whom were the high priests
 Joseph and Jesus, and of the sons of high priests three, whose father
 was Ishmael, who was beheaded in Cyrene, and four sons of Matthias, as
 also one son of the other Matthias, who ran away after his father's
-death, <span id="EndNote War 6.9a"></span>[(9)](#EndNote%20War%206.9b)
+death, <span id="EndNote War 6.9a"></span>[(9)](#EndNote%20War%206.9b.md)
 and whose father was slain by Simon the son of Gioras, with three of his
 sons, as I have already related; many also of the other nobility went
 over to the Romans, together with the high priests. Now Caesar not only
@@ -538,7 +538,7 @@ before your sanctuary? Have not you been allowed to put up the pillars
 thereto belonging, at due distances, and on it to engrave in Greek, and
 in your own letters, this prohibition, that no foreigner should go
 beyond that wall. <span
-id="EndNote War 6.10a"></span>[(10)](#EndNote%20War%206.10b) Have not we
+id="EndNote War 6.10a"></span>[(10)](#EndNote%20War%206.10b.md) Have not we
 given you leave to kill such as go beyond it, though he were a Roman?
 And what do you do now, you pernicious villains? Why do you trample upon
 dead bodies in this temple? and why do you pollute this holy house with
@@ -551,7 +551,7 @@ sanctuary; and if you will but change the place whereon you will fight,
 no Roman shall either come near your sanctuary, or offer any affront to
 it; nay, I will endeavor to preserve you your holy house, whether you
 will or not." <span
-id="EndNote War 6.11a"></span>[(11)](#EndNote%20War%206.11b)
+id="EndNote War 6.11a"></span>[(11)](#EndNote%20War%206.11b.md)
 
 5\. As Josephus explained these things from the mouth of Caesar, both
 the robbers and the tyrant thought that these exhortations proceeded
@@ -639,10 +639,10 @@ zealots, Simon the son of Jairus.
 time, overthrown \[some\] foundations of the tower of Antonia, and had
 made a ready and broad way to the temple. Then did the legions come near
 the first court, <span
-id="EndNote War 6.12a"></span>[(12)](#EndNote%20War%206.12b) and began
+id="EndNote War 6.12a"></span>[(12)](#EndNote%20War%206.12b.md) and began
 to raise their banks. The one bank was over against the north-west
 corner of the inner temple <span
-id="EndNote War 6.13a"></span>[(13)](#EndNote%20War%206.13b) another was
+id="EndNote War 6.13a"></span>[(13)](#EndNote%20War%206.13b.md) another was
 at that northern edifice which was between the two gates; and of the
 other two, one was at the western cloister of the outer court of the
 temple; the other against its northern cloister. However, these works
@@ -763,7 +763,7 @@ FAMINE THAT WAS IN THE CITY.**
 endeavor to beat off the soldiers that were upon the banks, and on the
 twenty-seventh day of the forenamed month \[Panemus or Tamuz\] contrived
 such a stratagem as this: They filled that part of the western cloister
-<span id="EndNote War 6.14a"></span>[(14)](#EndNote%20War%206.14b) which
+<span id="EndNote War 6.14a"></span>[(14)](#EndNote%20War%206.14b.md) which
 was between the beams, and the roof under them, with dry materials, as
 also with bitumen and pitch, and then retired from that place, as though
 they were tired with the pains they had taken; at which procedure of
@@ -850,7 +850,7 @@ very small weight of them for four Attic \[drachmae\]. But why do I
 describe the shameless impudence that the famine brought on men in their
 eating inanimate things, while I am going to relate a matter of fact,
 the like to which no history relates, <span
-id="EndNote War 6.15a"></span>[(15)](#EndNote%20War%206.15b) either
+id="EndNote War 6.15a"></span>[(15)](#EndNote%20War%206.15b.md) either
 among the Greeks or Barbarians? It is horrible to speak of it, and
 incredible when heard. I had indeed willingly omitted this calamity of
 ours, that I might not seem to deliver what is so portentous to
@@ -1102,7 +1102,7 @@ where slain, and every where beaten; and as for a great part of the
 people, they were weak and without arms, and had their throats cut
 wherever they were caught. Now round about the altar lay dead bodies
 heaped one upon another, as at the steps <span
-id="EndNote War 6.16a"></span>[(16)](#EndNote%20War%206.16b) going up to
+id="EndNote War 6.16a"></span>[(16)](#EndNote%20War%206.16b.md) going up to
 it ran a great quantity of their blood, whither also the dead bodies
 that were slain above \[on the altar\] fell down.
 
@@ -1178,7 +1178,7 @@ that were upon the hill. And besides, many of those that were worn away
 by the famine, and their mouths almost closed, when they saw the fire of
 the holy house, they exerted their utmost strength, and brake out into
 groans and outcries again: Pera <span
-id="EndNote War 6.17a"></span>[(17)](#EndNote%20War%206.17b) did also
+id="EndNote War 6.17a"></span>[(17)](#EndNote%20War%206.17b.md) did also
 return the echo, as well as the mountains round about \[the city,\] and
 augmented the force of the entire noise. Yet was the misery itself more
 terrible than this disorder; for one would have thought that the hill
@@ -1193,7 +1193,7 @@ had much ado to get into the outward court, and from thence into the
 city, while the remainder of the populace fled into the cloister of that
 outer court. As for the priests, some of them plucked up from the holy
 house the spikes <span
-id="EndNote War 6.18a"></span>[(18)](#EndNote%20War%206.18b) that were
+id="EndNote War 6.18a"></span>[(18)](#EndNote%20War%206.18b.md) that were
 upon it, with their bases, which were made of lead, and shot them at the
 Romans instead of darts. But then as they gained nothing by so doing,
 and as the fire burst out upon them, they retired to the wall that was
@@ -1223,7 +1223,7 @@ which means it came to pass that some of these were destroyed by
 throwing themselves down headlong, and some were burnt in the cloisters
 themselves. Nor did any one of them escape with his life. A false
 prophet <span
-id="EndNote War 6.19a"></span>[(19)](#EndNote%20War%206.19b) was the
+id="EndNote War 6.19a"></span>[(19)](#EndNote%20War%206.19b.md) was the
 occasion of these people's destruction, who had made a public
 proclamation in the city that very day, that God commanded them to get
 upon the temple, and that there they should receive miraculous signs of
@@ -1243,12 +1243,12 @@ the signs that were so evident, and did so plainly foretell their future
 desolation, but, like men infatuated, without either eyes to see or
 minds to consider, did not regard the denunciations that God made to
 them. Thus there was a star <span
-id="EndNote War 6.20a"></span>[(20)](#EndNote%20War%206.20b) resembling
+id="EndNote War 6.20a"></span>[(20)](#EndNote%20War%206.20b.md) resembling
 a sword, which stood over the city, and a comet, that continued a whole
 year. Thus also before the Jews' rebellion, and before those commotions
 which preceded the war, when the people were come in great crowds to the
 feast of unleavened bread, on the eighth day of the month Xanthicus,
-<span id="EndNote War 6.21a"></span>[(21)](#EndNote%20War%206.21b)
+<span id="EndNote War 6.21a"></span>[(21)](#EndNote%20War%206.21b.md)
 \[Nisan,\] and at the ninth hour of the night, so great a light shone
 round the altar and the holy house, that it appeared to be bright day
 time; which lasted for half an hour. This light seemed to be a good sign
@@ -1257,7 +1257,7 @@ portend those events that followed immediately upon it. At the same
 festival also, a heifer, as she was led by the high priest to be
 sacrificed, brought forth a lamb in the midst of the temple. Moreover,
 the eastern gate of the inner <span
-id="EndNote War 6.22a"></span>[(22)](#EndNote%20War%206.22b) \[court of
+id="EndNote War 6.22a"></span>[(22)](#EndNote%20War%206.22b.md) \[court of
 the\] temple, which was of brass, and vastly heavy, and had been with
 difficulty shut by twenty men, and rested upon a basis armed with iron,
 and had bolts fastened very deep into the firm floor, which was there
@@ -1288,7 +1288,7 @@ plebeian and a husbandman, who, four years before the war began, and at
 a time when the city was in very great peace and prosperity, came to
 that feast whereon it is our custom for every one to make tabernacles to
 God in the temple, <span
-id="EndNote War 6.23a"></span>[(23)](#EndNote%20War%206.23b) began on a
+id="EndNote War 6.23a"></span>[(23)](#EndNote%20War%206.23b.md) began on a
 sudden to cry aloud, "A voice from the east, a voice from the west, a
 voice from the four winds, a voice against Jerusalem and the holy house,
 a voice against the bridegrooms and the brides, and a voice against this
@@ -1355,16 +1355,16 @@ REPLY MOVED TITUS'S INDIGNATION AGAINST THEM.**
 1\. AND now the Romans, upon the flight of the seditious into the city,
 and upon the burning of the holy house itself, and of all the buildings
 round about it, brought their ensigns to the temple <span
-id="EndNote War 6.24a"></span>[(24)](#EndNote%20War%206.24b) and set
+id="EndNote War 6.24a"></span>[(24)](#EndNote%20War%206.24b.md) and set
 them over against its eastern gate; and there did they offer sacrifices
 to them, and there did they make Titus imperator <span
-id="EndNote War 6.25a"></span>[(25)](#EndNote%20War%206.25b) with the
+id="EndNote War 6.25a"></span>[(25)](#EndNote%20War%206.25b.md) with the
 greatest acclamations of joy. And now all the soldiers had such vast
 quantities of the spoils which they had gotten by plunder, that in Syria
 a pound weight of gold was sold for half its former value. But as for
 those priests that kept themselves still upon the wall of the holy
 house, <span
-id="EndNote War 6.26a"></span>[(26)](#EndNote%20War%206.26b) there was a
+id="EndNote War 6.26a"></span>[(26)](#EndNote%20War%206.26b.md) there was a
 boy that, out of the thirst he was in, desired some of the Roman guards
 to give him their right hands as a security for his life, and confessed
 he was very thirsty. These guards commiserated his age, and the distress
@@ -1428,7 +1428,7 @@ place, have preserved the laws of your forefathers to you, and have
 withal permitted you to live, either by yourselves, or among others, as
 it should please you: and, what is our chief favor of all we have given
 you leave to gather up that tribute which is paid to God <span
-id="EndNote War 6.27a"></span>[(27)](#EndNote%20War%206.27b) with such
+id="EndNote War 6.27a"></span>[(27)](#EndNote%20War%206.27b.md) with such
 other gifts that are dedicated to him; nor have we called those that
 carried these donations to account, nor prohibited them; till at length
 you became richer than we ourselves, even when you were our enemies; and
@@ -1642,7 +1642,7 @@ because Titus himself grew negligent as to his former orders for killing
 them, and because the very soldiers grew weary of killing them, and
 because they hoped to get some money by sparing them; for they left only
 the populace, and sold the rest of the multitude, <span
-id="EndNote War 6.28a"></span>[(28)](#EndNote%20War%206.28b) with their
+id="EndNote War 6.28a"></span>[(28)](#EndNote%20War%206.28b.md) with their
 wives and children, and every one of them at a very low price, and that
 because such as were sold were very many, and the buyers were few: and
 although Titus had made proclamation beforehand, that no deserter should
@@ -1658,7 +1658,7 @@ Thebuthus, whose name was Jesus, upon his having security given him, by
 the oath of Caesar, that he should be preserved, upon condition that he
 should deliver to him certain of the precious things that had been
 reposited in the temple <span
-id="EndNote War 6.29a"></span>[(29)](#EndNote%20War%206.29b) came out of
+id="EndNote War 6.29a"></span>[(29)](#EndNote%20War%206.29b.md) came out of
 it, and delivered him from the wall of the holy house two candlesticks,
 like to those that lay in the holy house, with tables, and cisterns, and
 vials, all made of solid gold, and very heavy. He also delivered to him
@@ -1669,7 +1669,7 @@ showed Titus the coats and girdles of the priests, with a great quantity
 of purple and scarlet, which were there reposited for the uses of the
 veil, as also a great deal of cinnamon and cassia, with a large quantity
 of other sweet spices, <span
-id="EndNote War 6.30a"></span>[(30)](#EndNote%20War%206.30b) which used
+id="EndNote War 6.30a"></span>[(30)](#EndNote%20War%206.30b.md) which used
 to be mixed together, and offered as incense to God every day. A great
 many other treasures were also delivered to him, with sacred ornaments
 of the temple not a few; which things thus delivered to Titus obtained
@@ -1792,7 +1792,7 @@ impeached one by another; but of the young men he chose out the tallest
 and most beautiful, and reserved them for the triumph; and as for the
 rest of the multitude that were above seventeen years old, he put them
 into bonds, and sent them to the Egyptian mines <span
-id="EndNote War 6.31a"></span>[(31)](#EndNote%20War%206.31b) Titus also
+id="EndNote War 6.31a"></span>[(31)](#EndNote%20War%206.31b.md) Titus also
 sent a great number into the provinces, as a present to them, that they
 might be destroyed upon their theatres, by the sword and by the wild
 beasts; but those that were under seventeen years of age were sold for
@@ -1803,7 +1803,7 @@ would not take in any when it was given them. The multitude also was so
 very great, that they were in want even of corn for their sustenance.
 
 3\. Now the number <span
-id="EndNote War 6.32a"></span>[(32)](#EndNote%20War%206.32b) of those
+id="EndNote War 6.32a"></span>[(32)](#EndNote%20War%206.32b.md) of those
 that were carried captive during this whole war was collected to be
 ninety-seven thousand; as was the number of those that perished during
 the whole siege eleven hundred thousand, the greater part of whom were
@@ -1821,7 +1821,7 @@ the number of their whole multitude. So these high priests, upon the
 coming of that feast which is called the Passover, when they slay their
 sacrifices, from the ninth hour till the eleventh, but so that a company
 not less than ten <span
-id="EndNote War 6.33a"></span>[(33)](#EndNote%20War%206.33b) belong to
+id="EndNote War 6.33a"></span>[(33)](#EndNote%20War%206.33b.md) belong to
 every sacrifice, (for it is not lawful for them to feast singly by
 themselves,) and many of us are twenty in a company, found the number of
 sacrifices was two hundred and fifty-six thousand five hundred; which,
@@ -1870,7 +1870,7 @@ HISTORY.**
 1\. AND thus was Jerusalem taken, in the second year of the reign of
 Vespasian, on the eighth day of the month Gorpeius \[Elul\]. It had been
 taken five <span
-id="EndNote War 6.34a"></span>[(34)](#EndNote%20War%206.34b) times
+id="EndNote War 6.34a"></span>[(34)](#EndNote%20War%206.34b.md) times
 before, though this was the second time of its desolation; for Shishak,
 the king of Egypt, and after him Antiochus, and after him Pompey, and
 after them Sosius and Herod, took the city, but still preserved it; but
@@ -1895,13 +1895,13 @@ And thus ended the siege of Jerusalem.
 
 ENDNOTE
 
-<span id="EndNote War 6.1b"></span>[(1)](#EndNote%20War%206.1a) Reland
+<span id="EndNote War 6.1b"></span>[(1)](#EndNote%20War%206.1a.md) Reland
 notes here, very pertinently, that the tower of Antonia stood higher
 than the floor of the temple or court adjoining to it; and that
 accordingly they descended thence into the temple, as Josephus elsewhere
 speaks also. See Book VI. ch. 2. sect. 5.
 
-<span id="EndNote War 6.2b"></span>[(2)](#EndNote%20War%206.2a) In this
+<span id="EndNote War 6.2b"></span>[(2)](#EndNote%20War%206.2a.md) In this
 speech of Titus we may clearly see the notions which the Romans then had
 of death, and of the happy state of those who died bravely in war, and
 the contrary estate of those who died ignobly in their beds by sickness.
@@ -1912,15 +1912,15 @@ Maximus, lib. 11. ch. 6, who says, "that the Cimbri and Celtiberi
 exulted for joy in the army, as being to go out of the world gloriously
 and happily."
 
-<span id="EndNote War 6.3b"></span>[(3)](#EndNote%20War%206.3a) See the
+<span id="EndNote War 6.3b"></span>[(3)](#EndNote%20War%206.3a.md) See the
 note on p. 809.
 
-<span id="EndNote War 6.4b"></span>[(4)](#EndNote%20War%206.4a) No
+<span id="EndNote War 6.4b"></span>[(4)](#EndNote%20War%206.4a.md) No
 wonder that this Julian, who had so many nails in his shoes, slipped
 upon the pavement of the temple, which was smooth, and laid with marble
 of different colors.
 
-<span id="EndNote War 6.5b"></span>[(5)](#EndNote%20War%206.5a) This was
+<span id="EndNote War 6.5b"></span>[(5)](#EndNote%20War%206.5a.md) This was
 a remarkable day indeed, the seventeenth of Paneruns. \[Tamuz,\] A.D.
 70, when, according to Daniel's prediction, six hundred and six years
 before, the Romans "in half a week caused the sacrifice and oblation to
@@ -1932,15 +1932,15 @@ year nearly confirms this duration of the war, that four years before
 the war begun was somewhat above seven years five months before the
 destruction of Jerusalem, ch. 5. sect. 3.
 
-<span id="EndNote War 6.6b"></span>[(6)](#EndNote%20War%206.6a) The same
+<span id="EndNote War 6.6b"></span>[(6)](#EndNote%20War%206.6a.md) The same
 that in the New Testament is always so called, and was then the common
 language of the Jews in Judea, which was the Syriac dialect.
 
-<span id="EndNote War 6.7b"></span>[(7)](#EndNote%20War%206.7a) Our
+<span id="EndNote War 6.7b"></span>[(7)](#EndNote%20War%206.7a.md) Our
 present copies of the Old Testament want this encomium upon king
 Jechoniah or Jehoiachim, which it seems was in Josephus's copy.
 
-<span id="EndNote War 6.8b"></span>[(8)](#EndNote%20War%206.8a) Of this
+<span id="EndNote War 6.8b"></span>[(8)](#EndNote%20War%206.8a.md) Of this
 oracle, see the note on B. IV. ch. 6. sect. 3. Josephus, both here and
 in many places elsewhere, speaks so, that it is most evident he was
 fully satisfied that God was on the Romans' side, and made use of them
@@ -1949,7 +1949,7 @@ certain the true state of this matter, as the prophet Daniel first, and
 our Savior himself afterwards, had clearly foretold. See Lit. Accompl.
 of Proph. p. 64, etc.
 
-<span id="EndNote War 6.9b"></span>[(9)](#EndNote%20War%206.9a) Josephus
+<span id="EndNote War 6.9b"></span>[(9)](#EndNote%20War%206.9a.md) Josephus
 had before told us, B. V. ch. 13. sect. 1, that this fourth son of
 Matthias ran away to the Romans "before" his father's and brethren's
 slaughter, and not "after" it, as here. The former account is, in all
@@ -1958,26 +1958,26 @@ others were caught and put to death, he had been caught and put to death
 with them. This last account, therefore, looks like an instance of a
 small inadvertence of Josephus in the place before us.
 
-<span id="EndNote War 6.10b"></span>[(10)](#EndNote%20War%206.10a) Of
+<span id="EndNote War 6.10b"></span>[(10)](#EndNote%20War%206.10a.md) Of
 this partition-wall separating Jews and Gentiles, with its pillars and
 inscription, see the description of the temples, ch. 15.
 
-<span id="EndNote War 6.11b"></span>[(11)](#EndNote%20War%206.11a) That
+<span id="EndNote War 6.11b"></span>[(11)](#EndNote%20War%206.11a.md) That
 these seditious Jews were the direct occasions of their own destruction,
 and of the conflagration of their city and temple, and that Titus
 earnestly and constantly labored to save both, is here and every where
 most evident in Josephus.
 
-<span id="EndNote War 6.12b"></span>[(12)](#EndNote%20War%206.12a) Court
+<span id="EndNote War 6.12b"></span>[(12)](#EndNote%20War%206.12a.md) Court
 of the Gentiles.
 
-<span id="EndNote War 6.13b"></span>[(13)](#EndNote%20War%206.13a) Court
+<span id="EndNote War 6.13b"></span>[(13)](#EndNote%20War%206.13a.md) Court
 of Israel.
 
-<span id="EndNote War 6.14b"></span>[(14)](#EndNote%20War%206.14a) Of
+<span id="EndNote War 6.14b"></span>[(14)](#EndNote%20War%206.14a.md) Of
 the court of the Gentiles.
 
-<span id="EndNote War 6.15b"></span>[(15)](#EndNote%20War%206.15a) What
+<span id="EndNote War 6.15b"></span>[(15)](#EndNote%20War%206.15a.md) What
 Josephus observes here, that no parallel examples had been recorded
 before this time of such sieges, wherein mothers were forced by
 extremity of famine to eat their own children, as had been threatened to
@@ -1997,7 +1997,7 @@ extremity, as to force mothers to this unnatural barbarity, which, in
 all its circumstances, has not, I still suppose, been hitherto
 paralleled among the rest of mankind.
 
-<span id="EndNote War 6.16b"></span>[(16)](#EndNote%20War%206.16a) These
+<span id="EndNote War 6.16b"></span>[(16)](#EndNote%20War%206.16a.md) These
 steps to the altar of burnt-offering seem here either an improper and
 inaccurate expression of Josephus, since it was unlawful to make ladder
 steps; (see description of the temples, ch. 13., and note on Antiq. B.
@@ -2006,7 +2006,7 @@ invented before the days of Herod the Great, and had been here built by
 him; though the later Jews always deny it, and say that even Herod's
 altar was ascended to by an acclivity only.
 
-<span id="EndNote War 6.17b"></span>[(17)](#EndNote%20War%206.17a) This
+<span id="EndNote War 6.17b"></span>[(17)](#EndNote%20War%206.17a.md) This
 Perea, if the word be not mistaken in the copies, cannot well be that
 Perea which was beyond Jordan, whose mountains were at a considerable
 distance from Jordan, and much too remote from Jerusalem to join in this
@@ -2015,23 +2015,23 @@ mountains beyond the brook Cedron, as was the Mount of Olives, or some
 others about such a distance from Jerusalem; which observation is so
 obvious, that it is a wonder our commentators here take no notice of it.
 
-<span id="EndNote War 6.18b"></span>[(18)](#EndNote%20War%206.18a)
+<span id="EndNote War 6.18b"></span>[(18)](#EndNote%20War%206.18a.md)
 Reland I think here judges well, when he interprets these spikes (of
 those that stood on the top of the holy house) with sharp points; they
 were fixed into lead, to prevent the birds from sitting there, and
 defiling the holy house; for such spikes there were now upon it, as
 Josephus himself hath already assured us, B. V. ch. 5. sect. 6.
 
-<span id="EndNote War 6.19b"></span>[(19)](#EndNote%20War%206.19a)
+<span id="EndNote War 6.19b"></span>[(19)](#EndNote%20War%206.19a.md)
 Reland here takes notice, that these Jews, who had despised the true
 Prophet, were deservedly abused and deluded by these false ones.
 
-<span id="EndNote War 6.20b"></span>[(20)](#EndNote%20War%206.20a)
+<span id="EndNote War 6.20b"></span>[(20)](#EndNote%20War%206.20a.md)
 Whether Josephus means that this star was different from that comet
 which lasted a whole year, I cannot certainly determine. His words most
 favor their being different one from another.
 
-<span id="EndNote War 6.21b"></span>[(21)](#EndNote%20War%206.21a) Since
+<span id="EndNote War 6.21b"></span>[(21)](#EndNote%20War%206.21a.md) Since
 Josephus still uses the Syro-Macedonian month Xanthicus for the Jewish
 month Nisan, this eighth, or, as Nicephorus reads it, this ninth of
 Xanthicus or Nisan was almost a week before the passover, on the
@@ -2041,10 +2041,10 @@ fourteenth; about which time we learn from St. John that many used to go
 might well be, that in the sight of these this extraordinary light might
 appear.
 
-<span id="EndNote War 6.22b"></span>[(22)](#EndNote%20War%206.22a) This
+<span id="EndNote War 6.22b"></span>[(22)](#EndNote%20War%206.22a.md) This
 here seems to be the court of the priests.
 
-<span id="EndNote War 6.23b"></span>[(23)](#EndNote%20War%206.23a) Both
+<span id="EndNote War 6.23b"></span>[(23)](#EndNote%20War%206.23a.md) Both
 Reland and Havercamp in this place alter the natural punctuation and
 sense of Josephus, and this contrary to the opinion of Valesilus and Dr.
 Hudson, lest Josephus should say that the Jews built booths or tents
@@ -2056,30 +2056,30 @@ Josephus may well be permitted to say the same. And indeed the modern
 Rabbins are of very small authority in all such matters of remote
 antiquity.
 
-<span id="EndNote War 6.24b"></span>[(24)](#EndNote%20War%206.24a) Take
+<span id="EndNote War 6.24b"></span>[(24)](#EndNote%20War%206.24a.md) Take
 Havercamp's note here: "This (says he) is a remarkable place; and
 Tertullian truly says in his Apologetic, ch. 16. p. 162, that the entire
 religion of the Roman camp almost consisted in worshipping the ensigns,
 in swearing by the ensigns, and in preferring the ensigns before all the
 \[other\] gods." See what Havercamp says upon that place of Tertullian.
 
-<span id="EndNote War 6.25b"></span>[(25)](#EndNote%20War%206.25a) This
+<span id="EndNote War 6.25b"></span>[(25)](#EndNote%20War%206.25a.md) This
 declaring Titus imperator by the soldiers, upon such signal success, and
 the slaughter of such a vast number of enemies, was according to the
 usual practice of the Romans in like cases, as Reland assures us on this
 place.
 
-<span id="EndNote War 6.26b"></span>[(26)](#EndNote%20War%206.26a) The
+<span id="EndNote War 6.26b"></span>[(26)](#EndNote%20War%206.26a.md) The
 Jews of later times agree with Josephus, that there were hiding-places
 or secret chambers about the holy house, as Reland here informs us,
 where he thinks he has found these very walls described by them.
 
-<span id="EndNote War 6.27b"></span>[(27)](#EndNote%20War%206.27a)
+<span id="EndNote War 6.27b"></span>[(27)](#EndNote%20War%206.27a.md)
 Spanheim notes here, that the Romans used to permit the Jews to collect
 their sacred tribute, and send it to Jerusalem; of which we have had
 abundant evidence in Josephus already on other occasions.
 
-<span id="EndNote War 6.28b"></span>[(28)](#EndNote%20War%206.28a) This
+<span id="EndNote War 6.28b"></span>[(28)](#EndNote%20War%206.28a.md) This
 innumerable multitude of Jews that were "sold" by the Romans was an
 eminent completion of God's ancient threatening by Moses, that if they
 apostatized from the obedience to his laws, they should be "sold unto
@@ -2092,26 +2092,26 @@ be sold should be more than were the purchasers for them, and so they
 should be sold for little or nothing; which is what Josephus here
 affirms to have been the case at this time.
 
-<span id="EndNote War 6.29b"></span>[(29)](#EndNote%20War%206.29a) What
+<span id="EndNote War 6.29b"></span>[(29)](#EndNote%20War%206.29a.md) What
 became of these spoils of the temple that escaped the fire, see Josephus
 himself hereafter, B. VII. ch. 5. sect. 5, and Reland de Spoliis Templi,
 p. 129-138.
 
-<span id="EndNote War 6.30b"></span>[(30)](#EndNote%20War%206.30a) These
+<span id="EndNote War 6.30b"></span>[(30)](#EndNote%20War%206.30a.md) These
 various sorts of spices, even more than those four which Moses
 prescribed, Exodus 31:34, we see were used in their public worship under
 Herod's temple, particularly cinnamon and cassia; which Reland takes
 particular notice of, as agreeing with the latter testimony of the
 Talmudists.
 
-<span id="EndNote War 6.31b"></span>[(31)](#EndNote%20War%206.31a) See
+<span id="EndNote War 6.31b"></span>[(31)](#EndNote%20War%206.31a.md) See
 the several predictions that the Jews, if they became obstinate in their
 idolatry and wickedness, should be sent again or sold into Egypt for
 their punishment, Deuteronomy 28:68; Jeremiah 44:7; Hosea 8:13; 9:3;
 9:4, 5; 2 Samuel 15:10-13; with Authentic Records, Part I. p. 49, 121;
 and Reland Painest And, tom. II. p. 715.
 
-<span id="EndNote War 6.32b"></span>[(32)](#EndNote%20War%206.32a) The
+<span id="EndNote War 6.32b"></span>[(32)](#EndNote%20War%206.32a.md) The
 whole multitude of the Jews that were destroyed during the entire seven
 years before this time, in all the countries of and bordering on Judea,
 is summed up by Archbishop Usher, from Lipsius, out of Josephus, at the
@@ -2124,7 +2124,7 @@ vast numbers, and therein cooped up, as in a prison, by the Roman army,
 as Josephus himself well observes in this and the next section, and as
 is exactly related elsewhere, B. V. ch. 3. sect. 1 and ch. 13. sect. 7.
 
-<span id="EndNote War 6.33b"></span>[(33)](#EndNote%20War%206.33a) This
+<span id="EndNote War 6.33b"></span>[(33)](#EndNote%20War%206.33a.md) This
 number of a company for one paschal lamb, between ten and twenty, agrees
 exactly with the number thirteen, at our Savior's last passover. As to
 the whole number of the Jews that used to come up to the passover, and
@@ -2141,7 +2141,7 @@ that in any other nation such vast numbers should be gotten together,
 and perish in the siege of any one city whatsoever, as now happened in
 Jerusalem.
 
-<span id="EndNote War 6.34b"></span>[(34)](#EndNote%20War%206.34a) This
+<span id="EndNote War 6.34b"></span>[(34)](#EndNote%20War%206.34a.md) This
 is the proper place for such as have closely attended to these latter
 books of the War to peruse, and that with equal attention, those
 distinct and plain predictions of Jesus of Nazareth, in the Gospels
@@ -2160,4 +2160,4 @@ had taken Jerusalem of old, Josephus, upon further recollection, reckons
 a sixth, Antiq. B. XII. ch. 1. sect. 1, who should have been here
 inserted in the second place; I mean Ptolemy, the son of Lagus.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

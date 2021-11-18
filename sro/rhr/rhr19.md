@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr18)  [Next](rhr20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr18)  [Next](rhr20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -77,7 +77,7 @@ the pretended sciences which they professed. He pointed the attention
 
 of governments to the confusions which these impostures were producing,
 and predicted from them a renewal of the scenes which had attended the
-fanaticism of the Anabaptists." <span id="fr_87"></span>[1](#fn_87)
+fanaticism of the Anabaptists." <span id="fr_87"></span>[1](#fn_87.md)
 
 Andreas Libavius was born at Halle in Saxony about the year 1560. He was
 appointed professor of history and poetry at Jena in 1588, practised as
@@ -435,7 +435,7 @@ consider you. T have troubled my mind about you this long time, but can
 attain to no conclusion, because all that you set down in your writings
 has been so long familiar. Could you tell me anything of the unicorn, or
 anything more trustworthy than has emanated from Andreas Baccius, <span
-id="fr_88"></span>[1](#fn_88) your productions would be much more
+id="fr_88"></span>[1](#fn_88.md) your productions would be much more
 valuable. A number of hooks have been written by you, or have appeared
 in your name, but they teem with such violent contradictions that I
 should imagine you were yourselves in doubt as to who or what you are,
@@ -716,7 +716,7 @@ be, the third brother of the R.C., as he testified to the doctor
 Moltherus, who could not be so certainly persuaded to give credence to
 his statements, but has presented us with this history, leaving our
 judgment free to decide if it could establish a certain proof of the
-existence of this Company." <span id="fr_89"></span>[1](#fn_89)
+existence of this Company." <span id="fr_89"></span>[1](#fn_89.md)
 
 According to Sprengel, a true Rosicrucian had only to gaze fixedly on a
 person, and however dangerous his disease, he was instantaneously
@@ -728,10 +728,10 @@ day just where the claim originally left it, wholly unsupported by fact.
 
 ### Footnotes
 
-<span id="fn_87"></span>[248:1](rhr19.htm#fr_87) De Quincey,
+<span id="fn_87"></span>[248:1](rhr19.htm#fr_87.md) De Quincey,
 "Rosicrucians and Freemasons," c. ii.
 
-<span id="fn_88"></span>[259:1](rhr19.htm#fr_88) A voluminous writer on
+<span id="fn_88"></span>[259:1](rhr19.htm#fr_88.md) A voluminous writer on
 medicine, philosophy, natural history. and antiquities. The reference is
 to a treatise entitled "De Monocerote seu Unicornu ejusque viribus et
 usu tractatus per A. B.," afterwards published in Italian, Fiorenza,
@@ -739,9 +739,9 @@ usu tractatus per A. B.," afterwards published in Italian, Fiorenza,
 physician to Sixtus V., and professor of botany at Rome from 1557 to
 1600.
 
-<span id="fn_89"></span>[267:1](rhr19.htm#fr_89) "L’Alchimie et les
+<span id="fn_89"></span>[267:1](rhr19.htm#fr_89.md) "L’Alchimie et les
 Alchimistes," p. 301.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Rosicrucian Apologists: Michael Maier](rhr20)
+[Next: Chapter X. Rosicrucian Apologists: Michael Maier](rhr20.md)

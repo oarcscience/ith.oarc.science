@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc25)  [Next](busc27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc25)  [Next](busc27.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -75,6 +75,6 @@ not liberated from his evil deeds." "You are a clever man, Nāgasena."
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](busc27)
+[Next: Advertisements](busc27.md)
 
 </div>

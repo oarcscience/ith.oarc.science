@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar11)  [Next](gar13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar11)  [Next](gar13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ upon the doctrine of successive *Emanations* from One First Principle,
 the means of escaping from the bondage of Matter, and the struggles of
 the souls towards ultimate absorption into its original source, I shall
 subjoin a very brief sketch of the principal features of the Buddhistic
-theosophy. <span id="fr_14"></span>[\*](#fn_14) Here also we find a
+theosophy. <span id="fr_14"></span>[\*](#fn_14.md) Here also we find a
 First Buddha in his proper state of eternal repose (the *Indolentia* of
 Epicurus) corresponding to the Zoroastrian "Boundless Time," and the
 Valentinian "Bythos." While in this state termed "Nevriti," wishing to
@@ -36,7 +36,7 @@ of *True Knowledge* (compare the *Gnosis* we
 
 <span id="page_50">p. 50</span>
 
-are considering). <span id="fr_15"></span>[\*](#fn_15) "Illusion" is the
+are considering). <span id="fr_15"></span>[\*](#fn_15.md) "Illusion" is the
 belief in the reality of the eternal world; the degradation of the soul
 towards Matter is the effect of a succession of acts; and therefore its
 release is effected by relinquishing the belief in the reality of
@@ -75,7 +75,7 @@ From the
 mainland they converted Ceylon, Japan, and the recesses of Tartary; and
 penetrated into regions where their former presence and tolerated
 existence are now little dreamed of. <span
-id="fr_16"></span>[\*](#fn_16) That Buddhism had been actually planted
+id="fr_16"></span>[\*](#fn_16.md) That Buddhism had been actually planted
 in the dominions of the Seleucidæ and the Ptolemies (Palestine belonging
 to the former) before the end of the fourth century, at least, before
 our era is shown by a clause in the Edicts of Asoka. This prince was
@@ -90,7 +90,7 @@ the usual zeal of a new convert.
 The Edicts referred to are graven on a rock tablet at Girnur in Guzerat.
 To quote the words of the Indian Archæologist Prinsep, to whom the
 discovery is due, (article xvii. 'Indian Antiquities'). "I am now about
-to produce evidence that Asoka's <span id="fr_17"></span>[†](#fn_17)
+to produce evidence that Asoka's <span id="fr_17"></span>[†](#fn_17.md)
 acquaintance with geography was not limited to Asia, and that his
 expansive benevolence towards living creatures extended, at least in
 intention, to another quarter of the globe, that his religious ambition
@@ -98,7 +98,7 @@ sought to *apostolize Egypt*, and that we must look hereafter for traces
 of the introduction of Buddhism into the fertile valley of the Nile, so
 productive of metaphysical discussions from the earliest ages. The line
 which I allude to is the fifth from the bottom. 'And the Greek King
-(Yoniraja) <span id="fr_18"></span>[‡](#fn_18) besides, by whom the
+(Yoniraja) <span id="fr_18"></span>[‡](#fn_18.md) besides, by whom the
 Chapta (Egyptian) Kings, Ptolemaios,
 
 <span id="page_52">p. 52</span>
@@ -167,7 +167,7 @@ Apollonius of Tyana, and his deep conference with the Indian
 philosophers, as recorded by his companion Damis, go to prove the same
 thing; and although the meagre journal of the sage's travelling
 companion may have been largely supplemented and embellished by the
-fancy of his editor, Philostratus, <span id="fr_19"></span>[\*](#fn_19)
+fancy of his editor, Philostratus, <span id="fr_19"></span>[\*](#fn_19.md)
 the main features of the narrative are doubtless authentic. The great
 thaumaturgist's proceedings, as there detailed, show how the apparent
 difficulty of such a pilgrimage vanishes upon a better knowledge of the
@@ -219,7 +219,7 @@ and all animal food; on the contrary, the Brahmins hold that to leave
 children behind them is a most sacred duty, and one upon which their
 admission into heaven depends. Whether the Buddhists be the true
 representatives of the primal religion <span
-id="fr_20"></span>[\*](#fn_20) of their country, or only the *Reformers*
+id="fr_20"></span>[\*](#fn_20.md) of their country, or only the *Reformers*
 of the more ancient Brahminical Church, it is the natural weapon of all
 dissenters from an established creed, to ridicule and even to pronounce
 damnable, the favourite tenets of their adversaries. Witness Martin
@@ -305,10 +305,10 @@ Hippolytus.
 
  
 
-<span id="img_fig03"></span> ![FIG. 3.](img/fig03.jpg)  
+<span id="img_fig03"></span> ![FIG. 3.](img/fig03.jpg.md)  
 FIG. 3.
 
-[(\*)](gar71.htm#an_fig03)
+[(\*)](gar71.htm#an_fig03.md)
 
  
 
@@ -316,7 +316,7 @@ FIG. 3.
 
 ### Footnotes
 
-<span id="fn_14"></span>[49:\*](gar12.htm#fr_14) Buddhism was founded in
+<span id="fn_14"></span>[49:\*](gar12.htm#fr_14.md) Buddhism was founded in
 the fifth century before our era, by Sakya Muni, son of the Raja of
 Kapila. At the age of twenty-nine he began to study religion, and by
 force of prayer became the embodiment of the Supreme Deity when
@@ -325,7 +325,7 @@ whence in the space of forty-five years his doctrines were diffused over
 the fairest districts of the Ganges from the Delta to Agra and Cawnpore.
 His death is placed by some writers in B.C. 477.
 
-<span id="fn_15"></span>[50:\*](gar12.htm#fr_15) The Buddhist
+<span id="fn_15"></span>[50:\*](gar12.htm#fr_15.md) The Buddhist
 "Confession of Faith," regularly set up in the temples, engraven on a
 stone tablet, runs thus: "Of all things proceeding from Cause their
 causes hath the Tathâgatha explained. The Great Sarmana hath likewise
@@ -335,7 +335,7 @@ aspiration-
 
 'Felix qui potuit rerum cognoscere causas'"
 
-<span id="fn_16"></span>[51:\*](gar12.htm#fr_16) Two Chinese pilgrims,
+<span id="fn_16"></span>[51:\*](gar12.htm#fr_16.md) Two Chinese pilgrims,
 Fa Hian and Hiouen Thsang, visited Benares at the beginning of the
 fifth, and at the middle of the seventh centuries of our era. These keen
 and sagacious observers have left records of their travels in India of
@@ -346,20 +346,20 @@ tested by extraneous evidence, have been found to be to a large extent
 singularly correct. See 'Mémoires de Hiouen Thsang,' translated from the
 Chinese by Stanislas Julien.
 
-<span id="fn_17"></span>[51:†](gar12.htm#fr_17) Asoka's zeal was so
+<span id="fn_17"></span>[51:†](gar12.htm#fr_17.md) Asoka's zeal was so
 ardent that he sent his son and daughter, Mahendra and Saugamitra, as
 missionaries to Ceylon; who in a short time effected the conversion of
 the island to their new religion.
 
-<span id="fn_18"></span>[51:‡](gar12.htm#fr_18) The Persian envoy in
+<span id="fn_18"></span>[51:‡](gar12.htm#fr_18.md) The Persian envoy in
 Aristophanes’ Acharnians used the same word, Ἱαόναυ, for the Greek
 nation.
 
-<span id="fn_19"></span>[53:\*](gar12.htm#fr_19) Who composed his very
+<span id="fn_19"></span>[53:\*](gar12.htm#fr_19.md) Who composed his very
 interesting 'Life of Apollonius' at the request of the Empress Julia,
 about a century after the death of the philosopher.
 
-<span id="fn_20"></span>[55:\*](gar12.htm#fr_20) Which of course their
+<span id="fn_20"></span>[55:\*](gar12.htm#fr_20.md) Which of course their
 theologians claim to be, and treat the Brahmins as corrupters of the
 true faith. For example Hionen Thsang: "They reckon (in the kingdom of
 Benares) a hundred temples of gods, inhabited by about ten thousand
@@ -369,4 +369,4 @@ monasteries, numbering only three thousand members, in the same place.
 
 ------------------------------------------------------------------------
 
-[Next: Simonianism](gar13)
+[Next: Simonianism](gar13.md)

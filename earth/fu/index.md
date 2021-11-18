@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417919205/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417919205/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -36,9 +36,9 @@ records, and also reviews some of the evidence for such contacts.
 
 This has remained a popular hypothesis to the current day. For instance,
 [1421 :The Year China Discovered
-America](https://www.amazon.com/exec/obidos/ASIN/006054094X/internetsacredte),
+America](https://www.amazon.com/exec/obidos/ASIN/006054094X/internetsacredte.md),
 by Gavin Menzies, and [Voyages of the Pyramid
-Builders](https://www.amazon.com/exec/obidos/ASIN/1585423203/internetsacredte),
+Builders](https://www.amazon.com/exec/obidos/ASIN/1585423203/internetsacredte.md),
 by Jeremy P. Tarcher, are two recent books which propose pre-Columbian
 voyages from China to the New World. However, Leland's Fusang explored
 this concept over a century ago, and is required reading if you have any
@@ -46,27 +46,27 @@ interest in this topic.
 
 ------------------------------------------------------------------------
 
-[Title Page](fu00)  
-[Preface](fu01)  
-[Memoir of Professor Carl Friedrich Neumann](fu02)  
-[Contents](fu03)  
-[Chapter I. Knowledge of Foreign Countries Among the Chinese.](fu04)  
+[Title Page](fu00.md)  
+[Preface](fu01.md)  
+[Memoir of Professor Carl Friedrich Neumann](fu02.md)  
+[Contents](fu03.md)  
+[Chapter I. Knowledge of Foreign Countries Among the Chinese.](fu04.md)  
 [Chapter II. Identity of the Tartars and North American Indians; or, the
-Road to America, and the People in it](fu05)  
-[Chapter III. Tahan or Aliaska, and its Discovery](fu06)  
-[Chapter IV. Remarks on the Report of Hoei-Shin](fu07)  
+Road to America, and the People in it](fu05.md)  
+[Chapter III. Tahan or Aliaska, and its Discovery](fu06.md)  
+[Chapter IV. Remarks on the Report of Hoei-Shin](fu07.md)  
 [Chapter V. Chinese and Japanese in Kamtschatka and the Hawaiian
-Group](fu08)  
-[Chapter VI. Fusang and Peru](fu09)  
-[Chapter VII. Navigation of the North Pacific](fu10)  
-[Chapter VIII. Remarks on Colonel Kennon's Letter](fu11)  
+Group](fu08.md)  
+[Chapter VI. Fusang and Peru](fu09.md)  
+[Chapter VII. Navigation of the North Pacific](fu10.md)  
+[Chapter VIII. Remarks on Colonel Kennon's Letter](fu11.md)  
 [Chapter IX. Travels of Other Buddhist Priests (From the Fourth to the
-Eighth Century)](fu12)  
-[Chapter X. Affinities of American and Asiatic Languages](fu13)  
-[Chapter XI. The Mound-Builders and Mexicans](fu14)  
-[Chapter XII. Images of Buddha](fu15)  
-[Chapter XIII. Deguignes, Klaproth, And D’Eichthal](fu16)  
+Eighth Century)](fu12.md)  
+[Chapter X. Affinities of American and Asiatic Languages](fu13.md)  
+[Chapter XI. The Mound-Builders and Mexicans](fu14.md)  
+[Chapter XII. Images of Buddha](fu15.md)  
+[Chapter XIII. Deguignes, Klaproth, And D’Eichthal](fu16.md)  
 [Chapter XIV. T. Simson and Dr E. Bretschneider; or Europeans Residing
-in China on Fusang](fu17)  
-[Appendix](fu18)  
-[Index](fu19)  
+in China on Fusang](fu17.md)  
+[Appendix](fu18.md)  
+[Index](fu19.md)  

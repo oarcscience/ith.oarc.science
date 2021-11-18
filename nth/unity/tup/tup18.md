@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](tup17)  [Next](tup19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](tup17)  [Next](tup19.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Teach Us to Pray*, by Charles Fillmore, \[1941\], at Intangible Textual
 Heritage
 
@@ -106,4 +106,4 @@ And light shall shine upon thy ways"
 
 ------------------------------------------------------------------------
 
-[Next: Not Magic but Law](tup19)
+[Next: Not Magic but Law](tup19.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe034)  [Next](prwe036) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe034)  [Next](prwe036.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ the Tamar and the Tavy, the reader is referred to Mrs Bray's
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Fair in Germoe](prwe036)
+[Next: The Fairy Fair in Germoe](prwe036.md)

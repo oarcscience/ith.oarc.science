@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr01)  [Next](ibr03) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr01)  [Next](ibr03.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ the Senecas, more correctly styled Sonontowanas or Mountaineers. B
 Such were the names and abodes of the allied nations, members of the
 far-famed Kanonsionni, or League of United Households, who were destined
 to become for a time the most notable and powerful community among the
-native tribes of North America. <span id="fr_0"></span>[1](#fn_0)
+native tribes of North America. <span id="fr_0"></span>[1](#fn_0.md)
 
 The region which has been described was not, however, the original seat
 of those nations. They belonged to that linguistic family which is known
@@ -64,7 +64,7 @@ examined, seems to show that the Huron clans were the older members of
 the group; and the clear and positive traditions of all the surviving
 tribes, Hurons, Iroquois and Tuscaroras, point. to the lower St.
 Lawrence as the earliest known abode of their stock. <span
-id="fr_1"></span>[2](#fn_1) Here the first
+id="fr_1"></span>[2](#fn_1.md) Here the first
 
 <span id="page_11">p. 11</span>
 
@@ -108,7 +108,7 @@ foreign source. This source is conjectured to have been the speech of
 the Alligewi. As the Cherokee tongue is evidently a mixed language, it
 is reasonable to suppose that the Cherokees are a mixed people, and
 probably, like the English, an amalgamation of conquering and conquered
-races. <span id="fr_2"></span>[1](#fn_2)
+races. <span id="fr_2"></span>[1](#fn_2.md)
 
 The time which has elapsed since the overthrow of the Alligewi is
 variously estimated. The most probable conjecture places it at a period
@@ -120,7 +120,7 @@ is only with the first-named family. The native tradition of their
 migrations has been briefly related by a Tuscarora Indian, David Cusick,
 who had acquired a sufficient education to become a Baptist preacher.
 and has left us, in his "Sketches of Ancient History of the Six
-Nations," <span id="fr_3"></span>[2](#fn_3) a record of singular value.
+Nations," <span id="fr_3"></span>[2](#fn_3.md) a record of singular value.
 His confused and imperfect style, the English of a half-educated
 foreigner, his simple faith in the wildest legends, and his absurd
 chronology, have caused the real worth of his book, as a chronicle of
@@ -174,7 +174,7 @@ stream, now Mississippi." This statement, unintelligible as at the first
 glance it seems, is strictly accurate. The word Ohio undoubtedly
 signified, in the ancient Iroquois speech, as it still means in the
 modern Tuscarora, not "beautiful river," but "great river." <span
-id="fr_4"></span>[1](#fn_4) It was so called as being the main stream
+id="fr_4"></span>[1](#fn_4.md) It was so called as being the main stream
 which receives the affluents of the Ohio valley. In the view of the
 Iroquois, this "main stream" commences with what we call the Allegheny
 river, continues in what we term the Ohio, and then flows on in what we
@@ -229,7 +229,7 @@ Doyentate Clarke, who emigrated with the main body of his people to the
 Indian Territory, and afterwards returned for a time to the remnant of
 his tribe dwelling near Amherstburg, in Canada, published in 1870 a
 small volume entitled "Origin and Traditional History of the
-Wyandots." <span id="fr_5"></span>[1](#fn_5) The
+Wyandots." <span id="fr_5"></span>[1](#fn_5.md) The
 
 <span id="page_16">p. 16</span>
 
@@ -271,7 +271,7 @@ their Huron friends. In the year 1650 the Iroquois set upon them,
 destroyed their towns, and dispersed the inhabitants, carrying off great
 numbers of them, as was their custom, to be incorporated with their own
 population. Of their language we only know that it differed but slightly
-from the Huron. <span id="fr_6"></span>[1](#fn_6) Whether they were an
+from the Huron. <span id="fr_6"></span>[1](#fn_6.md) Whether they were an
 offshoot from the Hurons or from the Iroquois is uncertain. It is not
 unlikely that their separation from the parent stock took place earlier
 than that of the Iroquois, and that they were thus enabled for a time to
@@ -282,30 +282,30 @@ of their race.
 
 ### Footnotes
 
-<span id="fn_0"></span>[10:1](ibr02.htm#fr_0) See Appendix, note A, for
+<span id="fn_0"></span>[10:1](ibr02.htm#fr_0.md) See Appendix, note A, for
 the origin and meaning of the names commonly given to the Iroquois
 nations.
 
-<span id="fn_1"></span>[10:2](ibr02.htm#fr_1) See Cusick, *History of
+<span id="fn_1"></span>[10:2](ibr02.htm#fr_1.md) See Cusick, *History of
 the Six Nations*, p. 16; Colden, *Hist. of the Five Nations*, p. 23;
 Morgan, *League of the Iroquois*, p. 5; J. V. H. Clark, *Onondaga*, vol.
 I, p. 34; Peter D. Clarke, Hist. of the Wyandots, p. 1.
 
-<span id="fn_2"></span>[12:1](ibr02.htm#fr_2) This question has been
+<span id="fn_2"></span>[12:1](ibr02.htm#fr_2.md) This question has been
 discussed by the writer in a paper on Indian Migrations as evidenced by
 Language," read before the American Association for the Advancement of
 Science, at their Montreal Meeting, in August, 1882, and published in
 the American Antiquarian for January and April, 1883.
 
-<span id="fn_3"></span>[12:2](ibr02.htm#fr_3) Published at Lewiston, N.
+<span id="fn_3"></span>[12:2](ibr02.htm#fr_3.md) Published at Lewiston, N.
 Y., in 1825, and reprinted at Lockport, in 1848.
 
-<span id="fn_4"></span>[14:1](ibr02.htm#fr_4) See Appendix, note B.
+<span id="fn_4"></span>[14:1](ibr02.htm#fr_4.md) See Appendix, note B.
 
-<span id="fn_5"></span>[15:1](ibr02.htm#fr_5) Printed by Hunter, Rose &
+<span id="fn_5"></span>[15:1](ibr02.htm#fr_5.md) Printed by Hunter, Rose &
 Co., of Toronto.
 
-<span id="fn_6"></span>[17:1](ibr02.htm#fr_6) "Our Hurons call the
+<span id="fn_6"></span>[17:1](ibr02.htm#fr_6.md) "Our Hurons call the
 Neutral Nation Attiwandaronk, meaning thereby 'People of a speech a
 little different.'"--*Relation* of 1641, p. 72. Bruyas, in his "Iroquois
 Root-words," gives us *gawenda* (or *gawenna*), speech, and
@@ -313,4 +313,4 @@ Root-words," gives us *gawenda* (or *gawenna*), speech, and
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: The League and its Founders](ibr03)
+[Next: Chapter II: The League and its Founders](ibr03.md)

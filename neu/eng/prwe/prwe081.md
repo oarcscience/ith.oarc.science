@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe080)  [Next](prwe082) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe080)  [Next](prwe082.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ preserves some impression of this melancholy, wandering wicked one.
 
 ------------------------------------------------------------------------
 
-[Next: King Arthur's Stone](prwe082)
+[Next: King Arthur's Stone](prwe082.md)

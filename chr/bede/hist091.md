@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist090) 
-[Next](hist092) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist090.md) 
+[Next](hist092.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ from which time to the present, that province has had two bishops.
 ------------------------------------------------------------------------
 
 [Next: VI. How Wynfrid being deposed, Sexwulf received his bishopric,
-and Earconwald was made](hist092)
+and Earconwald was made](hist092.md)

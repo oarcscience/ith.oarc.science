@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng07)  [Next](nblng09) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng07)  [Next](nblng09.md) 
 
 ------------------------------------------------------------------------
 
@@ -273,4 +273,4 @@ sake of completeness. They are spoken by Siegfried.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure VII: How Gunther Won Brunhild.](nblng09)
+[Next: Adventure VII: How Gunther Won Brunhild.](nblng09.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](aof00)  [Next](aof02) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](aof00)  [Next](aof02.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ world.'"
 
 ------------------------------------------------------------------------
 
-[Next: Opening Hymn](aof02)
+[Next: Opening Hymn](aof02.md)

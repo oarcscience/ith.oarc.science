@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp28) 
-[Next](alp30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp28.md) 
+[Next](alp30.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ His shield of gold, all shining bright,
 
 ------------------------------------------------------------------------
 
-[Next: The Founding of Van](alp30)
+[Next: The Founding of Van](alp30.md)

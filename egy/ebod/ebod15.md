@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod14)  [Next](ebod16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod14)  [Next](ebod16.md) 
 
 ------------------------------------------------------------------------
 
@@ -192,4 +192,4 @@ in Sekhet-hetepu, as unto the followers of Horus."
 
 ------------------------------------------------------------------------
 
-[Next: Plate IV.](ebod16)
+[Next: Plate IV.](ebod16.md)

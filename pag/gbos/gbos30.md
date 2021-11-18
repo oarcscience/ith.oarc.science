@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos29)  [Next](gbos31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos29)  [Next](gbos31.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ Dances and games.
 
 ------------------------------------------------------------------------
 
-[Next: The Sabbat Rituals: Winter Solstice](gbos31)
+[Next: The Sabbat Rituals: Winter Solstice](gbos31.md)

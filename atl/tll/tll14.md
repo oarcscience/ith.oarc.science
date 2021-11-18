@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll13)  [Next](tll15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll13)  [Next](tll15.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ stocks.
 <span id="page_30">p. 30</span>
 
 Now, we gather from the Secret Doctrine <span
-id="fr_17"></span>[1](#fn_17) that the descendants of these semi-human
+id="fr_17"></span>[1](#fn_17.md) that the descendants of these semi-human
 monsters described above as originating in the sin of the "mindless,"
 having through long centuries dwindled in size and become more densely
 physical, culminated in a race of Apes at the time of the Miocene
@@ -40,9 +40,9 @@ of the two great lakes.
 
 ### Footnotes
 
-<span id="fn_17"></span>[30:1](tll14.htm#fr_17) Vol. ii., pp. 683 and
+<span id="fn_17"></span>[30:1](tll14.htm#fr_17.md) Vol. ii., pp. 683 and
 689.
 
 ------------------------------------------------------------------------
 
-[Next: Origin of Language](tll15)
+[Next: Origin of Language](tll15.md)

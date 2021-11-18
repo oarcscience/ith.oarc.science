@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar41)  [Next](gar43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar41)  [Next](gar43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ the Western Empire, if we except a few rude figures of the goddess Roma,
 Victories, and Eagles made for legionary rings. As may easily be
 supposed the art displayed in these designs is at its lowest ebb, being
 itself a degenerate successor to the debased Egyptian school of
-Alexandria. <span id="fr_156"></span>[\*](#fn_155) The
+Alexandria. <span id="fr_156"></span>[\*](#fn_155.md) The
 
 <span id="page_275">p. 275</span>
 
@@ -85,7 +85,7 @@ his hand, and standing on the coiled serpent, an intaglio in the
 <span id="page_276">p. 276</span>
 
 best Roman manner, that no era of Gnosticism had been capable of
-producing. <span id="fr_157"></span>[\*](#fn_156)
+producing. <span id="fr_157"></span>[\*](#fn_156.md)
 
 Antique pastes with subjects do not exist, and for a very sufficient
 reason. The *material* of a talisman being quite as essential to its
@@ -99,7 +99,7 @@ stones employed by the Gnostic engravers is the singular Garnet tablet
 of the Hertz Cabinet, of which a description will be given in its proper
 place, when we come to treat of inscriptions.
 
-The *Lettering* of the legends <span id="fr_158"></span>[†](#fn_157)
+The *Lettering* of the legends <span id="fr_158"></span>[†](#fn_157.md)
 upon these talismans has a peculiarity of execution that of itself
 serves to identify almost every stone belonging to the Gnostic series.
 The letters are all formed by *straight* lines, the **Θ**, **Ο**, and
@@ -194,15 +194,15 @@ gems belonging to the Library of St. Geneviève, besides others, and very
 <span id="page_279">p. 279</span>
 
 interesting specimens, from a previous work by Capello. <span
-id="fr_159"></span>[\*](#fn_158) Though roughly engraved, they seem to
+id="fr_159"></span>[\*](#fn_158.md) Though roughly engraved, they seem to
 have been copied with laudable attention to accuracy.
 
  
 
-<span id="img_fig12"></span> ![FIG. 12.](img/fig12.jpg)  
+<span id="img_fig12"></span> ![FIG. 12.](img/fig12.jpg.md)  
 FIG. 12.
 
-[(\*)](gar71.htm#an_fig12)
+[(\*)](gar71.htm#an_fig12.md)
 
  
 
@@ -210,7 +210,7 @@ FIG. 12.
 
 ### Footnotes
 
-<span id="fn_155"></span>[274:\*](gar42.htm#fr_156) Their barbarism,
+<span id="fn_155"></span>[274:\*](gar42.htm#fr_156.md) Their barbarism,
 however, is often in advance of that of their real period. A convincing
 example is the one found in the great treasure-trove of Tarsus, where
 the latest coins went no later than Gordian III. It was a black
@@ -222,18 +222,18 @@ its retaining the original setting--a cable-mounted frame, with loop, of
 massy gold--proof of the value placed upon its potency. (Franks
 Collection.)
 
-<span id="fn_156"></span>[276:\*](gar42.htm#fr_157) I had long suspected
+<span id="fn_156"></span>[276:\*](gar42.htm#fr_157.md) I had long suspected
 that the Cinquecento period produced much Gnostic work in the ruder
 style, and at length have obtained proof demonstrative of the truth of
 this suspicion. Amongst a large lot of coarsely-cut Gnostic jaspers of
 very recent work, my attention was caught by one (an inscription of
 several lines) *cut* upon a tablet of that streaky
-[agate](errata.htm#17) paste so popular at that period, but quite
+[agate](errata.htm#17.md) paste so popular at that period, but quite
 unknown to the ancients. The piece had been highly polished and then
 engraved with the wheel; the design probably copied from a genuine
 stone.
 
-<span id="fn_157"></span>[276:†](gar42.htm#fr_158) Stiechel explains the
+<span id="fn_157"></span>[276:†](gar42.htm#fr_158.md) Stiechel explains the
 inscription upon the shield borne by an Abraxas figure, written thus,
 <span id="img_27600"></span> ![](img/27600.jpg) as no more than the
 customary form in that position, the Name Iao with the Sign of the Cross
@@ -242,7 +242,7 @@ support of this acute explanation a gem published by Matter, bearing
 **ΧΦΕΝΕCΧΗΡΦΙΧ**, expressing the sound of the Hebrew *Peni zets ripia* =
 "His face--this--healed."
 
-<span id="fn_158"></span>[279:\*](gar42.htm#fr_159) Who professes to
+<span id="fn_158"></span>[279:\*](gar42.htm#fr_159.md) Who professes to
 copy originals in the ancient Cassel Cabinet; although many of his types
 are so unparalleled in modern collections that Matter suspects them mere
 creations of his own fancy. But examples of some of the strangest
@@ -252,4 +252,4 @@ the ancient Gnostics.
 
 ------------------------------------------------------------------------
 
-[Next: Legends and Formulæ](gar43)
+[Next: Legends and Formulæ](gar43.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi166)  [Next](mtsi168) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi166)  [Next](mtsi168.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ over. Then they started on.
 
 ------------------------------------------------------------------------
 
-[Next: 32. The Bear People](mtsi168)
+[Next: 32. The Bear People](mtsi168.md)

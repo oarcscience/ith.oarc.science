@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof09)  [Next](otof11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof09)  [Next](otof11.md) 
 
 ------------------------------------------------------------------------
 
@@ -1044,7 +1044,7 @@ symbolic meaning of the numeral seven, but because of the fact that the
 tongue is situated in the middle or center of the head and face. Since
 Maldek was number seven among the planets it was situated in the center
 of the solar family, with six other worlds on each side. (See [Plate
-XII](#img_pl12)).
+XII](#img_pl12).md).
 
 <span id="page_187">p. 187</span>
 
@@ -1053,7 +1053,7 @@ XII](#img_pl12)).
 <span id="img_pl12"></span>
 
 [![PLATE XII](tn/pl12.jpg)  
-Click to enlarge](img/pl12.jpg)  
+Click to enlarge](img/pl12.jpg.md)  
 PLATE XII  
 
  
@@ -1169,4 +1169,4 @@ Through the Solar Tongue: the Tracks On The Desert; and through Maldek,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1. The Migrants](otof11)
+[Next: Chapter 1. The Migrants](otof11.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](yom07)  [Next](yom09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](yom07)  [Next](yom09.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ can we learn of Abraham? He was an older
 
 <span id="page_41">p. 41</span>
 
-man, who taught the public, <span id="fr_17"></span>[1](#fn_17) and his
+man, who taught the public, <span id="fr_17"></span>[1](#fn_17.md) and his
 actions are not to be applied to common men.
 
 "*Matthew b. Samuel says*," etc. Who used to say, "Yea"? if you wish, I
@@ -723,7 +723,7 @@ eyes and look," etc.
 R. Elazar says again: Even for one just man is a whole world created. As
 it is written \[Gen. i. 4\]: "And God saw the light, that it was good."
 And good is only a just man, since it is written \[Is. iii. 10\]: "Say
-to the just, that he is good." <span id="fr_18"></span>[1](#fn_18) R.
+to the just, that he is good." <span id="fr_18"></span>[1](#fn_18.md) R.
 Elazar says again: Whoever forgets something of his study, causes exile
 to his children, as is written \[Hosea iv. 6\]: "As thou hast forgotten
 the law of thy God, so will I myself also forget thy children." R. Abahu
@@ -779,13 +779,13 @@ to come.
 
 ### Footnotes
 
-<span id="fn_17"></span>[41:1](yom08.htm#fr_17) Here follows a passage
+<span id="fn_17"></span>[41:1](yom08.htm#fr_17.md) Here follows a passage
 to prove that whenever "old man" is used in the Bible, one who teaches
 in a college is meant; but as it is mentioned elsewhere we omit it.
 
-<span id="fn_18"></span>[56:1](yom08.htm#fr_18) The Talmud translates it
+<span id="fn_18"></span>[56:1](yom08.htm#fr_18.md) The Talmud translates it
 thus, literally.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Two Goats](yom09)
+[Next: Chapter IV: The Two Goats](yom09.md)

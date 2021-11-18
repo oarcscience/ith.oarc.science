@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi246)  [Next](mtsi248) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi246)  [Next](mtsi248.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ flew off with him.
 
 ------------------------------------------------------------------------
 
-[Next: 48. The Wolf and the Terrapin](mtsi248)
+[Next: 48. The Wolf and the Terrapin](mtsi248.md)

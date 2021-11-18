@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch28) 
-[Next](branch30) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch28.md) 
+[Next](branch30.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -54,5 +54,5 @@ time you have done."
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XXX](branch30)  
+XXX](branch30.md)  
 </span>

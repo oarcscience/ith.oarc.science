@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat01)  [Next](sat03) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat01)  [Next](sat03.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ## CHAPTER ONE
 
-\[I <span id="I"></span>[(Latin)](../satyrlat/satl001) \] Such a long
+\[I <span id="I"></span>[(Latin)](../satyrlat/satl001.md) \] Such a long
 time has passed since first I promised you the story of my adventures I
 am resolved to keep my word today, seeing we are happily met together to
 season those matters with lively conversation and tales of a merry and
@@ -19,7 +19,7 @@ follies of superstition, exposing the various forms of priestly
 charlatanry, the holy men's mania for prophecy, and the effrontery they
 display in expounding mysteries they very often utterly fail to
 comprehend themselves. \[I <span
-id="I"></span>[(Latin)](../satyrlat/satl001) \] Is it not much the same
+id="I"></span>[(Latin)](../satyrlat/satl001.md) \] Is it not much the same
 type of madness that afflicts our declaimers, who shout: "These wounds I
 got, defending our common liberties; this eye I lost in your behalf.
 Give me a helping hand to lead me to my children, for my poor maimed
@@ -39,7 +39,7 @@ to be sacrificed to stay the plague,--honey-sweet, well-rounded
 sentences, words and facts alike as it were, besprinkled with poppy and
 sesame.
 
-\[II <span id="II"></span>[(Latin)](../satyrlat/satl002) \] Under such a
+\[II <span id="II"></span>[(Latin)](../satyrlat/satl002.md) \] Under such a
 training it is no more possible to acquire good taste than it is not to
 stink, if you live in a kitchen. Give me leave to tell you that you
 rhetoricians are chiefly to blame for the ruin of Oratory, for with your
@@ -65,7 +65,7 @@ unhealthy diet, have lacked stamina to attain old age. Painting moreover
 shared the same fate, after Egypt presumptuously invented a compendious
 method for that noble Art.
 
-\[III <span id="III"></span>[(Latin)](../satyrlat/satl003) \] Such and
+\[III <span id="III"></span>[(Latin)](../satyrlat/satl003.md) \] Such and
 suchlike reflections I was indulging in one day before a numerous
 audience, when Agamemnon came up, curious to see who it was they were
 listening to so attentively. Well! he declined to allow me to declaim
@@ -84,7 +84,7 @@ Rhetoric, unless like a fisherman he arm his hook with the bait he knows
 the fish will take, may stand long enough on his rock without a chance
 of success.
 
-\[IV <span id="IV"></span>[(Latin)](../satyrlat/satl004) \] "Whose fault
+\[IV <span id="IV"></span>[(Latin)](../satyrlat/satl004.md) \] "Whose fault
 is it then? It is the parents deserve censure, who will not give their
 children the advantages of a strict training. In the first place their
 hopes, like everything else, are centered in ambition, and so being
@@ -106,7 +106,7 @@ in his younger days.
 the Lucilian vein, I will myself throw my notions on this matter into
 verse:
 
-\[V <span id="V"></span>[(Latin)](../satyrlat/satl005) \] "He that would
+\[V <span id="V"></span>[(Latin)](../satyrlat/satl005.md) \] "He that would
 be an orator, must strive  
 To follow out the discipline of old,  
 And heed the laws of stern frugality;  
@@ -132,7 +132,7 @@ Heroic tales of War and Tully's patriot ire,
 Such be thy studies; then, whate'er the theme,  
 Pour forth thine eloquence in copious stream."
 
-\[VI <span id="VI"></span>[(Latin)](../satyrlat/satl006) \] Listening
+\[VI <span id="VI"></span>[(Latin)](../satyrlat/satl006.md) \] Listening
 attentively to the speaker, I never noticed that Ascyltos had given me
 the slip; and I was still walking up and down in the gardens full of the
 burning words I had heard, when a great mob of students rushed into the
@@ -147,7 +147,7 @@ took, I presently found myself back again at my starting point. At last,
 exhausted with running and dripping with sweat, I came across a little
 old woman, who was selling herbs.
 
-\[VII <span id="VII"></span>[(Latin)](../satyrlat/satl007) \] "Prithee,
+\[VII <span id="VII"></span>[(Latin)](../satyrlat/satl007.md) \] "Prithee,
 good mother," say I, "can you tell me where I live?" Charmed with the
 quiet absurdity of my question, "Why certainly!" she replied; and
 getting up, went on before me. I thought she must be a witch; but
@@ -165,7 +165,7 @@ out and half dead like myself? You would have thought the very same old
 hag had been his conductress. I made him a mocking bow, and asked him
 what he was doing in such a disreputable place?
 
-\[VIII <span id="VIII"></span>[(Latin)](../satyrlat/satl008) \] Wiping
+\[VIII <span id="VIII"></span>[(Latin)](../satyrlat/satl008.md) \] Wiping
 the sweat from his face with both hands, he replied, "If you only knew
 what happened to me!"
 
@@ -197,7 +197,7 @@ Ascyltos bolts out of the house, and away, leaving me to escape their
 beastly advances as best I might; but discovering I was too strong for
 them and in no mood for trifling, they left me alone.
 
-\[IX <span id="IX"></span>[(Latin)](../satyrlat/satl009) \] After
+\[IX <span id="IX"></span>[(Latin)](../satyrlat/satl009.md) \] After
 running about almost over the city, I caught sight of Giton, as it were
 a fog, standing at the corner of an alley close to the door of our inn,
 and hurried to join him. I asked my favorite whether he had got anything
@@ -222,7 +222,7 @@ you for a minion in an orchard, just as this lad does now in an inn?"
 "Did you or did you not," I interrupted, "sneak off from the master's
 lecture?"
 
-\[X <span id="X"></span>[(Latin)](../satyrlat/satl010) \] "What was I to
+\[X <span id="X"></span>[(Latin)](../satyrlat/satl010.md) \] "What was I to
 do, fool, when I was dying of hunger? Stop and listen to a string of
 phrases no better than the tinkling of broken glass or the nonsensical
 interpretations in dream books? By great Hercules, you are dead baser
@@ -255,7 +255,7 @@ doings and guard against their consequences; but he slipped adroitly out
 of my sight, and I wasted a long time in a fruitless search for the
 rascal.
 
-\[XI <span id="XI"></span>[(Latin)](../satyrlat/satl011) \] After
+\[XI <span id="XI"></span>[(Latin)](../satyrlat/satl011.md) \] After
 looking through the whole city, I came back to my little room, and now
 at length claiming my full tale of kisses, I clip my darling lad in the
 tightest of embraces; my utmost hopes of bliss are fulfilled to the envy
@@ -280,4 +280,4 @@ better luck in the country. Let's go visit our friends."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two](sat03)
+[Next: Chapter Two](sat03.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo08)  [Next](hoo10) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo08)  [Next](hoo10.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ Be ever innocent, serene, and tame. 10
 
 ------------------------------------------------------------------------
 
-[Next: V. To Protogonus, Or the First-Born](hoo10)
+[Next: V. To Protogonus, Or the First-Born](hoo10.md)

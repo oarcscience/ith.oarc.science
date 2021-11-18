@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray043)  [Next](pray045) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray043)  [Next](pray045.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ already been given, I now briefly repeat that God reigns when men, in
 denial of themselves and contempt of the world and this earthly life,
 devote themselves to righteousness and aspire to heaven (see Calvin,
 Harm. <span id="iii.xlii-p1.1"></span>[Matth.
-6](../../../bib/kjv/mat006.htm#000)<span id="iii.xlii-p1.1"></span>).
+6](../../../bib/kjv/mat006.htm#000)<span id="iii.xlii-p1.1"></span>.md).
 Thus this kingdom consists of two parts; the first is, when God by the
 agency of his Spirit corrects all the depraved lusts of the flesh, which
 in bands war against Him; and the second, when he brings all our
@@ -54,7 +54,7 @@ impurities of vice are purged away, and integrity flourishes in full
 vigour. The completion, however, is deferred to the final advent of
 Christ, when, as Paul declares, "God will be all in all" (<span
 id="iii.xlii-p1.2"></span>[1 Corinthians
-15:28](../../../bib/kjv/co1015.htm#028)<span
+15:28](../../../bib/kjv/co1015.htm#028.md)<span
 id="iii.xlii-p1.2"></span>). This prayer, therefore, ought to withdraw
 us from the corruptions of the world which separate us from God, and
 prevent his kingdom from flourishing within us; secondly, it ought to
@@ -73,9 +73,9 @@ enemies, dissipates their wiles and frauds, prevents their malice and
 curbs their petulance, until at length he consume Antichrist "with the
 spirit of his mouth," and destroy all impiety "with the brightness of
 his coming" (<span id="iii.xlii-p1.3"></span>[2 Thessalonians
-2:8](../../../bib/kjv/th2002.htm#008)<span id="iii.xlii-p1.3"></span>,
+2:8](../../../bib/kjv/th2002.htm#008.md)<span id="iii.xlii-p1.3"></span>,
 Calv. Comm.).
 
 ------------------------------------------------------------------------
 
-[Next: 43.](pray045)
+[Next: 43.](pray045.md)

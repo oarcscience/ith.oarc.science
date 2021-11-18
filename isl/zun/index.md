@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q1Q2/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q1Q2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q1Q2/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](zun00)    [Page
-Index](pageidx)    [Text \[Zipped\]](zun.txt.gz)
+[Contents](#contents)    [Start Reading](zun00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](zun.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -45,10 +45,10 @@ excerpts from which are included in this Wisdom of the East volume.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](zun00)  
-[Table of Contents](zun01)  
-[Dedication](zun02)  
-[Introduction](zun03)  
-[Diwan-i-Makhfi—the Ghazals](zun04)  
-[Notes](zun05)  
-[Advertisements](zun06)  
+<span id="contents"></span> [Title Page](zun00.md)  
+[Table of Contents](zun01.md)  
+[Dedication](zun02.md)  
+[Introduction](zun03.md)  
+[Diwan-i-Makhfi—the Ghazals](zun04.md)  
+[Notes](zun05.md)  
+[Advertisements](zun06.md)  

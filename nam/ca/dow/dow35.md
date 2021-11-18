@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow34)  [Next](dow36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow34)  [Next](dow36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -87,4 +87,4 @@ some acorns and fed her. Then he sent her home with his brothers.
 
 ------------------------------------------------------------------------
 
-[Next: *Wek'-wek's* Visit to the Underworld People](dow36)
+[Next: *Wek'-wek's* Visit to the Underworld People](dow36.md)

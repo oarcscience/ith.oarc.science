@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc05)  [Next](lcc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc05)  [Next](lcc07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -262,4 +262,4 @@ END OF THE PROLOGUE
 
 ------------------------------------------------------------------------
 
-[Next: Act the First: The Gems Are Left Behind](lcc07)
+[Next: Act the First: The Gems Are Left Behind](lcc07.md)

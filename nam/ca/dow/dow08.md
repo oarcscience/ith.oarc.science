@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow07)  [Next](dow09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow07)  [Next](dow09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -109,7 +109,7 @@ said
 Country. ''&lt;i&gt;Ah-ha'-le&lt;/i&gt; went on a little farther and for
 the first time in his life saw trees, and found the country dry and good
 to look at.''](tn/03700.jpg)  
-Click to enlarge](img/03700.jpg)  
+Click to enlarge](img/03700.jpg.md)  
 The Foothills Country. ''*Ah-ha'-le* went on a little farther and for
 the first time in his life saw trees, and found the country dry and good
 to look at.''  
@@ -185,7 +185,7 @@ and make light over the Valley People, and then go
 shrinking from the Light. ''&lt;i&gt;Ah-ha-le&lt;/i&gt; stole the Sun
 and brought it down through the fog and darkness to the Valley People,
 but they were afraid and turned from it.''](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)  
+Click to enlarge](img/04100.jpg.md)  
 The Valley People shrinking from the Light. ''*Ah-ha-le* stole the Sun
 and brought it down through the fog and darkness to the Valley People,
 but they were afraid and turned from it.''  
@@ -209,4 +209,4 @@ PEOPLE turned into animals.
 
 ------------------------------------------------------------------------
 
-[Next: How *Ah-ha'-le* Stole The Morning](dow09)
+[Next: How *Ah-ha'-le* Stole The Morning](dow09.md)

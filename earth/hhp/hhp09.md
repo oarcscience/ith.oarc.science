@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](hhp08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](hhp08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Hidden Places*, by W. Marsham Adams, \[1895\], at
 Intangible Textual Heritage
 
@@ -253,7 +253,7 @@ prince
 
 <span id="img_23700"></span> <span align="CENTER"> [![The Gate of the
 Burning Crown.](tn/23700.jpg)  
-Click to enlarge](img/23700.jpg)  
+Click to enlarge](img/23700.jpg.md)  
 The Gate of the Burning Crown.  
 </span>
 

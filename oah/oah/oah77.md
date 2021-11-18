@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah76)  [Next](oah78) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah76)  [Next](oah78.md) 
 
 ------------------------------------------------------------------------
 
@@ -196,7 +196,7 @@ one round hath said: In thee, my God, I trust.
 
 61\. And the Lord made an image to stand at the extreme of the altar,
 whither only holy men and women might pass, and the Lord called the
-emblem Fete, signifying, <span id="fr_18"></span>[3](#fn_18) BEYOND ME
+emblem Fete, signifying, <span id="fr_18"></span>[3](#fn_18.md) BEYOND ME
 THERE IS NO APPEAL.
 
 62\. And the form of fete was a circle and an all light centre, with
@@ -231,10 +231,10 @@ END OF THE LORDS' FIRST BOOK.
 
 ### Footnotes
 
-<span id="fn_18"></span>[82b:3](oah77.htm#fr_18) Fete or Fate, the five
+<span id="fn_18"></span>[82b:3](oah77.htm#fr_18.md) Fete or Fate, the five
 forces over man. See Symbol 67, Se'moin, Saphah. Also, see ceremonies of
 Emeth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](oah78)
+[Next: Chapter I](oah78.md)

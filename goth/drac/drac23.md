@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](drac22)  [Next](drac24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](drac22)  [Next](drac24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B549MW/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B549MW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dracula*, by Bram Stoker, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -569,4 +569,4 @@ I was just in time to catch her as she fell forward in a faint.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 24](drac24)
+[Next: Chapter 24](drac24.md)

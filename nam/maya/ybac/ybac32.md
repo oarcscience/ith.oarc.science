@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac31)  [Next](ybac33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac31)  [Next](ybac33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ made an incision between the ribs on the left side, below the nipple;
 then he plunged in his hand and like a ravenous tiger tore out the
 living heart, which he laid on a plate and gave to the priest; he then
 quickly went and anointed the faces of the idols with that fresh
-blood. <span id="fr_28"></span>[\*](#fn_28)
+blood. <span id="fr_28"></span>[\*](#fn_28.md)
 
 At times they performed this sacrifice on the stone situated on<span
 id="img_04901"></span>
@@ -148,7 +148,7 @@ them reappear.
 
 ### Footnotes
 
-<span id="fn_28"></span>[49:\*](ybac32.htm#fr_28) The above
+<span id="fn_28"></span>[49:\*](ybac32.htm#fr_28.md) The above
 illustration, after a drawing by Ann Axtell Morris from a wall-painting
 at Chichén Itzá, is almost exactly reproduced on a repoussé gold piece
 recovered from the great cenote, in which the incision in the chest is
@@ -173,4 +173,4 @@ T. A. Willard, from his *City of the Sacred Well*.
 ------------------------------------------------------------------------
 
 [Next: XXIX. Arms of the Yucatecans. Military Chieftains. Militia and
-Soldiers. Customs of War](ybac33)
+Soldiers. Customs of War](ybac33.md)

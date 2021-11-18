@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov29)  [Next](hlov31) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov29)  [Next](hlov31.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ fire-goddess to take rank with the other gods worshipped.
 
 ------------------------------------------------------------------------
 
-[Next: V. Foundation of the Observatory](hlov31)
+[Next: V. Foundation of the Observatory](hlov31.md)

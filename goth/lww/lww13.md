@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww12)  [Next](lww14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww12)  [Next](lww14.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ then give her to the police, who would kill her.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV--Battle Renewed](lww14)
+[Next: Chapter XIV--Battle Renewed](lww14.md)

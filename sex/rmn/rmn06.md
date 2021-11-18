@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn05)  [Next](rmn07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn05)  [Next](rmn07.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ The Priapus-Hermes of this bas-relief rises, as we said, over a mass of
 rocks. Doubtless he is the guardian of a garden, placed on the limit of
 the estate, with the inscription, which the dimensions of this fragment
 do not admit of our distinguishing. On an antique marble referred to by
-Grutler, <span id="fr_9"></span>[1](#fn_9) from Boissard, may be seen a
+Grutler, <span id="fr_9"></span>[1](#fn_9.md) from Boissard, may be seen a
 Priapus between two baskets of fruit and flowers; a club lies by his
 side; and we read on it also this inscription: To Priapus Ithyphallus,
 club bearer, keeper of gardens and chastiser of thieves.
@@ -129,8 +129,8 @@ and ignorance.
 
 ### Footnotes
 
-<span id="fn_9"></span>[11:1](rmn06.htm#fr_9) GRUTLER, Pl. xcv.
+<span id="fn_9"></span>[11:1](rmn06.htm#fr_9.md) GRUTLER, Pl. xcv.
 
 ------------------------------------------------------------------------
 
-[Next: Plate VI: Invocation to Priapus](rmn07)
+[Next: Plate VI: Invocation to Priapus](rmn07.md)

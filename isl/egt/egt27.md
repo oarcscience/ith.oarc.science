@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt26)  [Next](egt28) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt26)  [Next](egt28.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ proclaims in truth, '*I am God*.'
 
 ------------------------------------------------------------------------
 
-[Next: THE PARABLE OF THOSE WHO HEED NOT.](egt28)
+[Next: THE PARABLE OF THOSE WHO HEED NOT.](egt28.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio64)  [Next](dio66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio64)  [Next](dio66.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ proclaimed by it), come to the goal of death, with firm and unfailing
 hope, in godly rejoicing, knowing that at the end of holy contests their
 condition will be altogether in a perfect and endless life and safety,
 through their future entire resurrection <span
-id="fr_265"></span>[266](#fn_265) . For the holy souls, which may
+id="fr_265"></span>[266](#fn_265.md) . For the holy souls, which may
 possibly fall <span id="page_146">p. 146</span> <span
 id="iv.iii.vii-Page_146"></span>during this present life to a change for
 the worse, in the regeneration, will have the most Godlike transition to
@@ -52,21 +52,21 @@ goal of the Divine contests.
 <span id="iv.iii.vii-p4"></span>Section II.
 
 <span id="iv.iii.vii-p5"></span>Now, amongst the profane, some <span
-id="fr_266"></span>[267](#fn_266) illogically think to go to a
-non-existence; others <span id="fr_267"></span>[268](#fn_267) that the
+id="fr_266"></span>[267](#fn_266.md) illogically think to go to a
+non-existence; others <span id="fr_267"></span>[268](#fn_267.md) that the
 bodily blending with their proper souls will be severed once for all, as
 unsuitable to them in a Divine life and blessed lots, not considering
 nor being sufficiently instructed in Divine science, that our most
 Godlike life in Christ has already begun <span
-id="fr_268"></span>[269](#fn_268) . But others <span
-id="fr_269"></span>[270](#fn_269) assign to souls union with other
-bodies, committing <span id="fr_270"></span>[271](#fn_270) , as I think,
+id="fr_268"></span>[269](#fn_268.md) . But others <span
+id="fr_269"></span>[270](#fn_269.md) assign to souls union with other
+bodies, committing <span id="fr_270"></span>[271](#fn_270.md) , as I think,
 this injustice to them, that, after (bodies) have laboured together with
 the godly <span id="page_147">p. 147</span> <span
 id="iv.iii.vii-Page_147"></span>souls, and have reached the goal of
 their most Divine course, they relentlessly deprive them of their
 righteous retributions. And others <span
-id="fr_271"></span>[272](#fn_271) (I do not know how they have strayed
+id="fr_271"></span>[272](#fn_271.md) (I do not know how they have strayed
 to conceptions of such earthly tendency) say, that the most holy and
 blessed repose promised to the devout is similar to our life in this
 world, and unlawfully reject, for those who are equal to the Angels,
@@ -84,13 +84,13 @@ of their own accord, have, to their own destruction, rejected this from
 their mind, and have rashly followed their destructive lusts, to them
 when they have come to the end of their life here, the Divine regulation
 of the Oracles will no longer appear as before, a subject of scorn <span
-id="fr_272"></span>[273](#fn_272) , but, when they have looked with
+id="fr_272"></span>[273](#fn_272.md) , but, when they have looked with
 different eyes upon the pleasures of their passions destroyed, and when
 they have pronounced <span id="page_148">p. 148</span> <span
 id="iv.iii.vii-Page_148"></span>blessed the holy life from which they
 thoughtlessly fell away, they are, piteously and against their will,
 separated from this present life, conducted to no holy hope, by reason
-of their shameful life <span id="fr_273"></span>[274](#fn_273) .
+of their shameful life <span id="fr_273"></span>[274](#fn_273.md) .
 
 <span id="iv.iii.vii-p6"></span>Section III.
 
@@ -121,7 +121,7 @@ finishes the prayer of thanksgiving to God; and next, the Leitourgoi,
 after reading the unfailing promises concerning our holy resurrection,
 contained in the Divine Oracles, reverently chant the odes of the same
 teaching and power, from the Oracles of the Psalter <span
-id="fr_274"></span>[275](#fn_274) . Then the first Leitourgos dismisses
+id="fr_274"></span>[275](#fn_274.md) . Then the first Leitourgos dismisses
 the catechumens, and calls aloud the names of the holy people, who have
 already fallen asleep; amongst whom he deems the man, who has just
 terminated his life, worthy of mention in the same rank, and urges all
@@ -143,13 +143,13 @@ that these things are done by us, they will, I suppose, split with
 laughter, and commiserate us on our, folly. But <span id="page_150">p.
 150</span> <span id="iv.iii.vii-Page_150"></span>there is no need to
 wonder at this. For, as the Oracles say, "If they will not believe,
-neither shall they understand <span id="fr_275"></span>[276](#fn_275) ."
+neither shall they understand <span id="fr_275"></span>[276](#fn_275.md) ."
 And as for us, who have contemplated the spiritual meaning of the things
 done, whilst Jesus leads us to the light, let us say, that, not without
 reason, does the Hierarch conduct to, and place the man fallen asleep,
 in the place of the same rank; for it shews reverently, that, in the
 regeneration, all will be in those chosen inheritances, for which they
-have chosen their own life here <span id="fr_276"></span>[277](#fn_276)
+have chosen their own life here <span id="fr_276"></span>[277](#fn_276.md)
 . For example, if any one led a Godlike and most holy life here, so far
 as the imitation of God is attainable by man, he will be, in the age to
 come, in divine and blessed inheritances; but if he led a life inferior
@@ -304,7 +304,7 @@ holy law, will be entirely realized for those who have been perfected in
 a Divine life. For the Hierarch, the expounder of the supremely Divine
 Justice, would never seek things, which were not most pleasing to the
 Almighty God, and divinely promised to be given by Him <span
-id="fr_277"></span>[278](#fn_277) . Wherefore, he does not offer these
+id="fr_277"></span>[278](#fn_277.md) . Wherefore, he does not offer these
 prayers over the unholy fallen asleep, not only because in this he would
 deviate from his office of expounder, and would presumptuously arrogate,
 on his own authority, a function of the Hierarchy, without being moved
@@ -338,7 +338,7 @@ id="page_158">p. 158</span> <span id="iv.iii.vii-Page_158"></span>powers
 as the Godhead, the Supreme Initiator, may move them; and the others
 must so cling to the Hierarchs as moved by God, in what they may do
 hierarchically, "For he who despiseth you," He says, "despiseth Me <span
-id="fr_278"></span>[279](#fn_278) ."
+id="fr_278"></span>[279](#fn_278.md) ."
 
 <span id="iv.iii.vii-p27"></span>Section VIII.
 
@@ -407,7 +407,7 @@ known to the Ranks above us. Many things also escape even the most
 exalted Beings, and are known distinctly by the All-Wise and Wise-making
 Godhead alone. Further, also, concerning this, we affirm the same things
 which our Godlike initiators conveyed to us, after initiations from the
-early <span id="fr_279"></span>[280](#fn_279) tradition. For they say,
+early <span id="fr_279"></span>[280](#fn_279.md) tradition. For they say,
 what is also a fact, that <span id="page_161">p. 161</span> <span
 id="iv.iii.vii-Page_161"></span>infants, being brought up according to a
 Divine institution, will attain a religious disposition, exempt from
@@ -446,7 +446,7 @@ using the foregoing stepping-stones to a higher ray. Impart then, my
 friend, thyself also, to me, more perfect enlightenment, and shew to
 mine eyes the more comely and uniform beauties that thou mayst have been
 able to see, for I am confident that, by what has been said, I shall
-strike the sparks <span id="fr_280"></span>[281](#fn_280) of the Divine
+strike the sparks <span id="fr_280"></span>[281](#fn_280.md) of the Divine
 Fire stored up in thee.
 
 <span id="iv.iii.vii-p36"></span>Thanks be to God.
@@ -460,69 +460,69 @@ Fire stored up in thee.
 
 ### Footnotes
 
-<span id="fn_265"></span>[145:266](dio65.htm#fr_265) <span
+<span id="fn_265"></span>[145:266](dio65.htm#fr_265.md) <span
 id="iv.iii.vii-p3.1"></span>Soul first--body afterwards.
 
-<span id="fn_266"></span>[146:267](dio65.htm#fr_266) <span
+<span id="fn_266"></span>[146:267](dio65.htm#fr_266.md) <span
 id="iv.iii.vii-p5.1"></span>Plato, Phaed. i. 54.
 
-<span id="fn_267"></span>[146:268](dio65.htm#fr_267) <span
+<span id="fn_267"></span>[146:268](dio65.htm#fr_267.md) <span
 id="iv.iii.vii-p5.2"></span>Ibid. i. 62-3.
 
-<span id="fn_268"></span>[146:269](dio65.htm#fr_268) <span
+<span id="fn_268"></span>[146:269](dio65.htm#fr_268.md) <span
 id="iv.iii.vii-p5.3"></span><span id="iv.iii.vii-p5.4"></span>[Col.
-3:3](../../bib/kjv/col003.htm#003),
-[4](../../bib/kjv/col003.htm#004)<span id="iv.iii.vii-p5.4"></span>.
+3:3](../../bib/kjv/col003.htm#003.md),
+[4](../../bib/kjv/col003.htm#004.md)<span id="iv.iii.vii-p5.4"></span>.
 
-<span id="fn_269"></span>[146:270](dio65.htm#fr_269) <span
+<span id="fn_269"></span>[146:270](dio65.htm#fr_269.md) <span
 id="iv.iii.vii-p5.5"></span>Phaed. i. 64.
 
-<span id="fn_270"></span>[146:271](dio65.htm#fr_270) <span
+<span id="fn_270"></span>[146:271](dio65.htm#fr_270.md) <span
 id="iv.iii.vii-p5.6"></span>Ap. C. v. s. 5-7.
 
-<span id="fn_271"></span>[147:272](dio65.htm#fr_271) <span
+<span id="fn_271"></span>[147:272](dio65.htm#fr_271.md) <span
 id="iv.iii.vii-p5.7"></span><span id="iv.iii.vii-p5.8"></span>[Matt.
-xxii. 28](../../bib/kjv/mat022.htm#028)<span
+xxii. 28](../../bib/kjv/mat022.htm#028.md)<span
 id="iv.iii.vii-p5.8"></span>.
 
-<span id="fn_272"></span>[147:273](dio65.htm#fr_272) <span
+<span id="fn_272"></span>[147:273](dio65.htm#fr_272.md) <span
 id="iv.iii.vii-p5.9"></span>Republic, lib. i. p. 9. Cousin, Paris, 1833.
 
-<span id="fn_273"></span>[148:274](dio65.htm#fr_273) <span
+<span id="fn_273"></span>[148:274](dio65.htm#fr_273.md) <span
 id="iv.iii.vii-p5.10"></span><span id="iv.iii.vii-p5.11"></span>[Ps.
-cxii. 10](../../bib/kjv/psa012.htm#010)<span
+cxii. 10](../../bib/kjv/psa012.htm#010.md)<span
 id="iv.iii.vii-p5.11"></span>.
 
-<span id="fn_274"></span>[149:275](dio65.htm#fr_274) <span
+<span id="fn_274"></span>[149:275](dio65.htm#fr_274.md) <span
 id="iv.iii.vii-p9.1"></span>See Burial Office.
 
-<span id="fn_275"></span>[150:276](dio65.htm#fr_275) <span
+<span id="fn_275"></span>[150:276](dio65.htm#fr_275.md) <span
 id="iv.iii.vii-p12.1"></span><span id="iv.iii.vii-p12.2"></span>[Wisdom
-iii. 9](../../bib/apo/wis003.htm#009)<span
+iii. 9](../../bib/apo/wis003.htm#009.md)<span
 id="iv.iii.vii-p12.2"></span>.
 
-<span id="fn_276"></span>[150:277](dio65.htm#fr_276) <span
+<span id="fn_276"></span>[150:277](dio65.htm#fr_276.md) <span
 id="iv.iii.vii-p12.3"></span><span
 id="iv.iii.vii-p12.4"></span>ἀπεκλήρωσαν. See Papias, fragment 5.
 
-<span id="fn_277"></span>[156:278](dio65.htm#fr_277) <span
+<span id="fn_277"></span>[156:278](dio65.htm#fr_277.md) <span
 id="iv.iii.vii-p26.1"></span>Ap. C. viii. 43.
 
-<span id="fn_278"></span>[158:279](dio65.htm#fr_278) <span
+<span id="fn_278"></span>[158:279](dio65.htm#fr_278.md) <span
 id="iv.iii.vii-p26.2"></span><span id="iv.iii.vii-p26.3"></span>[Luke x.
-16](../../bib/kjv/luk010.htm#016)<span id="iv.iii.vii-p26.3"></span>.
+16](../../bib/kjv/luk010.htm#016.md)<span id="iv.iii.vii-p26.3"></span>.
 
-<span id="fn_279"></span>[160:280](dio65.htm#fr_279) <span
+<span id="fn_279"></span>[160:280](dio65.htm#fr_279.md) <span
 id="iv.iii.vii-p34.1"></span><span id="iv.iii.vii-p34.2"></span>ἄρχαίας.
 See <span id="iv.iii.vii-p34.3"></span>[Acts
-15:7](../../bib/kjv/act015.htm#007), [21](../../bib/kjv/act015.htm#021),
-[16](../../bib/kjv/act015.htm#016)<span id="iv.iii.vii-p34.3"></span>;
+15:7](../../bib/kjv/act015.htm#007), [21](../../bib/kjv/act015.htm#021.md),
+[16](../../bib/kjv/act015.htm#016.md)<span id="iv.iii.vii-p34.3"></span>;
 and Archbishop Trench. Yet even Dupin ignorantly alleged that word as
 proof Post-Apostolic. Nov. Bib. p. 100; C. ii. 41.
 
-<span id="fn_280"></span>[162:281](dio65.htm#fr_280) <span
+<span id="fn_280"></span>[162:281](dio65.htm#fr_280.md) <span
 id="iv.iii.vii-p35.1"></span>Bacon, Advancement in Learning, p. 2.
 
 ------------------------------------------------------------------------
 
-[Next: List of Bishops](dio66)
+[Next: List of Bishops](dio66.md)

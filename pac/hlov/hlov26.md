@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov25)  [Next](hlov27) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov25)  [Next](hlov27.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ volcanology.)
 
 ------------------------------------------------------------------------
 
-[Next: I. The Crack in the Floor of the Pacific](hlov27)
+[Next: I. The Crack in the Floor of the Pacific](hlov27.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktwa03)  [Next](pktwaac) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktwa03)  [Next](pktwaac.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Two
 
 <span id="img_wa02"></span> <span align="CENTER"> [![](tn/wa02.jpg)  
-Click to enlarge](img/wa02.jpg)</span>
+Click to enlarge](img/wa02.jpg.md)</span>
 
 A tall man looks from a battlemented roof over sea and shore; he holds a
 globe in his right hand, while a staff in his left rests on the
@@ -36,4 +36,4 @@ sadness of Alexander amidst the grandeur of this world's wealth.
 
 ------------------------------------------------------------------------
 
-[Next: Ace of Wands](pktwaac)
+[Next: Ace of Wands](pktwaac.md)

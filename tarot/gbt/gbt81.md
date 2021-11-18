@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](gbt80)  [Next](gbt82) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](gbt80)  [Next](gbt82.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ with time and fashion*.
 
 ------------------------------------------------------------------------
 
-[Next: Ten of Swords](gbt82)
+[Next: Ten of Swords](gbt82.md)

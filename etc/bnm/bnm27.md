@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm26)  [Next](bnm28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm26)  [Next](bnm28.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ Argus.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The Bees And The Flies.](bnm28)
+[Next: The Story Of The Bees And The Flies.](bnm28.md)

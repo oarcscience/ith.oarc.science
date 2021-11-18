@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac27)  [Next](ybac29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac27)  [Next](ybac29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ used in merchandising the cacao. They have other very long counts,
 extended to infinity, counting twenty times 8000, or 160,000; then they
 multiply this 160,000 again by twenty, and so on until they reach an
 uncountable figure. They do all their counting on the ground or a flat
-surface. <span id="fr_21"></span>[\*](#fn_21)
+surface. <span id="fr_21"></span>[\*](#fn_21.md)
 
 They make much of knowing the origin of their lineages, especially if
 they come from one of the houses of Mayapán; this they learn from their
@@ -75,7 +75,7 @@ and leading men chose a man fitted for this position.
 
 ### Footnotes
 
-<span id="fn_21"></span>[40:\*](ybac28.htm#fr_21) Maya numeration went
+<span id="fn_21"></span>[40:\*](ybac28.htm#fr_21.md) Maya numeration went
 on to the 6th power of 20, with terms for each period, as we have for
 our decimal progression, ten, hundred, thousand, million. But whereas we
 had to adopt the Latin *mil*, or 1000, to get a term for the fourth
@@ -87,4 +87,4 @@ to the sixth: **kal**, **bak**, **pic**, **kinchil**, **calab**,
 ------------------------------------------------------------------------
 
 [Next: XXV. Divorces Frequent Among the Yucatecans. Nuptial
-Customs](ybac29)
+Customs](ybac29.md)

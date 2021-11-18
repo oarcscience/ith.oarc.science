@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod22)  [Next](eod24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod22)  [Next](eod24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -127,7 +127,7 @@ Osiris and Hathor is shown by his most primitive attributes, for in "the
 earliest sun-temples at Abusir, he appears as the source of life and
 increase". "Men said of him: 'Thou hast driven away the storm, and hast
 expelled the rain, and hast broken up the clouds'." <span
-id="fr_174"></span>[1](#fn_174) Horus was in fact the son of Osiris and
+id="fr_174"></span>[1](#fn_174.md) Horus was in fact the son of Osiris and
 Hathor, from whom he derived his attributes. The invention of the
 sun-god was not, as most scholars pretend, an attempt to give direct
 expression to the fact that the sun is the source of fertility. That is
@@ -180,14 +180,14 @@ life-blood the Giver of Life was compelled to slaughter mankind. She
 thus became the destroyer of mankind in her lioness *avatar* as Sekhet.
 
 The earliest known pictorial representation of the dragon ([Fig.
-1](eod21.htm#img_07900)) consists of the forepart of the sun-god's
+1](eod21.htm#img_07900).md) consists of the forepart of the sun-god's
 falcon or eagle united with the hindpart of the mother-goddess's
 lioness. The student of modern heraldry would not regard this as a
 dragon at all, but merely a gryphon or griffin. A recent writer on
 heraldry has complained that, "in spite of frequent corrections, this
 creature is persistently confused in the popular mind with the *dragon*,
 which is even more purely imaginary." <span
-id="fr_175"></span>[1](#fn_175) But the investigator of the early
+id="fr_175"></span>[1](#fn_175.md) But the investigator of the early
 history of these wonder-beasts is compelled, even at the risk of
 incurring the herald's censure, to regard the gryphon as one of the
 earliest known tentative efforts at dragon-making. But though the fish,
@@ -197,7 +197,7 @@ the falcon or eagle, and the composite eagle-lion
 
 monster are early known pictorial representations of the dragon, good or
 bad, the serpent is probably more ancient still ([Fig.
-2](eod21.htm#img_07901)).
+2](eod21.htm#img_07901).md).
 
 The earliest form assumed by the power of evil was the serpent: but it
 is important to remember that, as each of the primary deities can be a
@@ -246,7 +246,7 @@ the stūpa (p. 16). This aspect of the Nâga as a tree-demon is rare in
 India, but common in China and Japan. It seems to be identical with the
 Mediterranean conception of the pillar of wood or stone, which is both a
 representative of the Great Mother and the chief support of a
-temple. <span id="fr_176"></span>[1](#fn_176)
+temple. <span id="fr_176"></span>[1](#fn_176.md)
 
 In the magnificent city that king Yaçaḥketu saw, when he dived into the
 sea, "wishing trees that granted every desire" were among the objects
@@ -277,15 +277,15 @@ invoked to raise the blue-black clouds" (de Visser, pp. 30 and 31).
 
 ### Footnotes
 
-<span id="fn_174"></span>[106:1](eod23.htm#fr_174) Breasted, *op. cit.*,
+<span id="fn_174"></span>[106:1](eod23.htm#fr_174.md) Breasted, *op. cit.*,
 p. 11.
 
-<span id="fn_175"></span>[107:1](eod23.htm#fr_175) G. W. Eve,
+<span id="fn_175"></span>[107:1](eod23.htm#fr_175.md) G. W. Eve,
 "Decorative Heraldry," 1897, p. 35.
 
-<span id="fn_176"></span>[109:1](eod23.htm#fr_176) Arthur J. Evans,
+<span id="fn_176"></span>[109:1](eod23.htm#fr_176.md) Arthur J. Evans,
 "Mycenæan Tree and Pillar Cult," pp. 88 *et seq*.
 
 ------------------------------------------------------------------------
 
-[Next: The Dragon Myth](eod24)
+[Next: The Dragon Myth](eod24.md)

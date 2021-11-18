@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku08)  [Next](tku10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku08)  [Next](tku10.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,12 +80,12 @@ they hath perverted Thy law?' The higher law, which is itself made void,
 if it be not carried out according to his commands. Wherefore is this?
 (*Or, as others read: Wherefore is this name Tetragrammaton here
 employed?*) This hath been said concerning the Ancient of Days. <span
-id="fr_12"></span>[1](#fn_11)
+id="fr_12"></span>[1](#fn_11.md)
 
 12\. "For it is written, Deut. xxxiii. 29: 'Blessed art thou, O Israel:
 who is like unto thee?' Also it is written, Exod. xv. 11: 'Who is like
 unto thee among the gods, O Tetragrammaton?'" <span
-id="fr_13"></span>[2](#fn_12)
+id="fr_13"></span>[2](#fn_12.md)
 
 13\. He called Rabbi Eleazer, his son, and commanded him to sit down
 before him, and Rabbi Abba on the other side, and said: "We are the type
@@ -136,7 +136,7 @@ thy flesh to sin.'
 22\. "For neither doth the world remain firm, except through secresy.
 And if in worldly affairs there be so great need of secresy, how much
 more in the things of the most secret of secrets, and in the meditation
-of the Ancient of Days, <span id="fr_14"></span>[1](#fn_13) which
+of the Ancient of Days, <span id="fr_14"></span>[1](#fn_13.md) which
 matters are not even revealed unto the highest of the angels."
 
 23\. Rabbi Schimeon said, moreover: "I will not say it unto the heavens,
@@ -154,11 +154,11 @@ were shaken.
 
 ### Footnotes
 
-<span id="fn_11"></span>[111:1](tku09.htm#fr_12) *I.e.*, one of the
+<span id="fn_11"></span>[111:1](tku09.htm#fr_12.md) *I.e.*, one of the
 names of Macroprosopus, the first emanation, the crown. Kether. (See
 Introduction.)
 
-<span id="fn_12"></span>[111:2](tku09.htm#fr_13) In the above verse it
+<span id="fn_12"></span>[111:2](tku09.htm#fr_13.md) In the above verse it
 is well to note that by Notariqon, the second division of the literal
 Qabalah. the initial letters of the first quotation give the word AIMK,
 *Aimakh*, "Thy terror," the addition of the numeration of which by
@@ -171,10 +171,10 @@ thus the hidden unity, we obtain 72 again. Furthermore. It is well to
 note that each quotation consists of four words. thus answering to the
 letters of the Tetragrammaton.--TRANS.
 
-<span id="fn_13"></span>[112:1](tku09.htm#fr_14) Macroprosopus, the
+<span id="fn_13"></span>[112:1](tku09.htm#fr_14.md) Macroprosopus, the
 first Sephira.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II: Of the Condition of the World and the World of
-Vacancy](tku10)
+Vacancy](tku10.md)

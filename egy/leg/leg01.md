@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg00)  [Next](leg02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg00)  [Next](leg02.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ BRITISH MUSEUM,
 
 ------------------------------------------------------------------------
 
-[Next: Contents](leg02)
+[Next: Contents](leg02.md)

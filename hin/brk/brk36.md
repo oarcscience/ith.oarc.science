@@ -1,21 +1,21 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk35)  [Next](brk37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk35)  [Next](brk37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
 ------------------------------------------------------------------------
 
-#### VIII. <span class="smallcaps">Gārgī and Yājnavalkya</span> <span id="fr_32"></span>[1](#fn_32)
+#### VIII. <span class="smallcaps">Gārgī and Yājnavalkya</span> <span id="fr_32"></span>[1](#fn_32.md)
 
 "Yājnavalkya," said she, "as a warrior from the land of Kāśi or Videha
 might string his unstrung bow and come forward holding in his hand two
@@ -85,9 +85,9 @@ woofed."
 
 ### Footnotes
 
-<span id="fn_32"></span>[72:1](brk36.htm#fr_32) Bṛihad-āraṇyaka
+<span id="fn_32"></span>[72:1](brk36.htm#fr_32.md) Bṛihad-āraṇyaka
 Upanishad, III. viii. 2-11.
 
 ------------------------------------------------------------------------
 
-[Next: IX: The Everlasting Nay](brk37)
+[Next: IX: The Everlasting Nay](brk37.md)

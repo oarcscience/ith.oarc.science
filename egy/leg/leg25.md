@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg24)  [Next](leg26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg24)  [Next](leg26.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,8 +13,8 @@
 1\. Get thee back, Apep, thou enemy of Ra, thou winding serpent in the
 form of an intestine, without arms \[and\] without legs. Thy body cannot
 stand upright so that thou mayest have therein being, long is thy <span
-id="fr_199"></span>[1](#fn_198) tail in front of thy <span
-id="fr_200"></span>[1](#fn_198) den, thou enemy; retreat before **2**
+id="fr_199"></span>[1](#fn_198.md) tail in front of thy <span
+id="fr_200"></span>[1](#fn_198.md) den, thou enemy; retreat before **2**
 Ra. Thy head shall be cut off, and the slaughter of thee shall be
 carried out. Thou shalt not lift up thy face, for his (i.e., Ra's) flame
 is in thy accursed soul. The odour which is in his chamber of slaughter
@@ -49,8 +49,8 @@ thou, O Enemy, get thee back, O poison.
 
 ### Footnotes
 
-<span id="fn_198"></span>[143:1](leg25.htm#fr_200) Literally, "his."
+<span id="fn_198"></span>[143:1](leg25.htm#fr_200.md) Literally, "his."
 
 ------------------------------------------------------------------------
 
-[Next: The Chapter of Casting a Spell on the Cat](leg26)
+[Next: The Chapter of Casting a Spell on the Cat](leg26.md)

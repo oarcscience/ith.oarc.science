@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi250)  [Next](mtsi252) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi250)  [Next](mtsi252.md) 
 
 ------------------------------------------------------------------------
 
-### 51. LOCUST AND ANT <span id="fr_64"></span>[1](mtsi252.htm#fn_64)
+### 51. LOCUST AND ANT <span id="fr_64"></span>[1](mtsi252.htm#fn_64.md)
 
 ### (EUROPEAN) .
 
@@ -24,4 +24,4 @@ Then the Locust wanted some food and came and looked at it. The Ant said
 
 ------------------------------------------------------------------------
 
-[Next: 52. The Dog and the Heron](mtsi252)
+[Next: 52. The Dog and the Heron](mtsi252.md)

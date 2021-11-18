@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fsn33)  [Next](fsn35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fsn33)  [Next](fsn35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R0HU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R0HU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Stories From Southern Nigeria*, by Elphinstone Dayrell, \[1910\],
 at Intangible Textual Heritage
 
@@ -83,6 +83,6 @@ different note, one being a deep sound, and the other slightly higher.\]
 
 ------------------------------------------------------------------------
 
-[Next: XXXIII. The Orphan Boy and the Magic Stone](fsn35)
+[Next: XXXIII. The Orphan Boy and the Magic Stone](fsn35.md)
 
 </div>

@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-05tx) [Next](dob-06tx)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-05tx) [Next](dob-06tx.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ that the young noble Mahâli, who raises the first point, was known to
 harbour the heresy that there is a soul, and that it has form. (The
 words the commentator uses are very short, and the context must, I
 think, be supplied from the passage translated above, § 10 on [p.
-46](dob-01tx.htm#p.%2046).) It was to clear his mind of this notion that
+46](dob-01tx.htm#p.%2046)..md) It was to clear his mind of this notion that
 the Buddha specially raised the second point.
 
    However this may be, the Sutta must have been already a double one,
@@ -64,8 +64,8 @@ and they are as follows{1}:--
    There are others mentioned occasionally by themselves; but these form
 the usual group. Of them, those numbered 1-4 and 7-10 are speculations
 already condemned in the Brahma-*g*âla (above, [pp. 27
-foll.](dob-01tx.htm#p.%2027), [pp. 35 foll.](dob-01tx.htm#p.%2035), and
-[p. 40](dob-01tx.htm#p.%2040) respectively). The remaining two, those
+foll.](dob-01tx.htm#p.%2027), [pp. 35 foll.](dob-01tx.htm#p.%2035.md), and
+[p. 40](dob-01tx.htm#p.%2040) respectively.md). The remaining two, those
 numbered 5 and 6, form the subject of the *G*âliya, incorporated in our
 present Sutta.
 
@@ -202,8 +202,8 @@ attâ, the use of which might have been misunderstood, saya*m* is almost
 always, if not indeed always, substituted.
 
 4\. See the quotations in my 'American Lectures' (London, 1896), pp.
-39-42, and the notes above, pp. [81](dob-02tx.htm#p.%2081),
-[87](dob-02tx.htm#p.%2087).}
+39-42, and the notes above, pp. [81](dob-02tx.htm#p.%2081.md),
+[87](dob-02tx.htm#p.%2087.md).}
 
 <span id="p. 190">{p. 190}</span>
 
@@ -225,7 +225,7 @@ discussion.
 ------------------------------------------------------------------------
 
    The expression sambodhi-parâyano used in this Sutta, [§
-13](dob-06tx.htm#text%20p.%20156), has been hitherto misunderstood.
+13](dob-06tx.htm#text%20p.%20156.md), has been hitherto misunderstood.
 
    The Buddhist ideal is a subjective state to be reached, in this
 world, by going along an eightfold path, so called because of the eight
@@ -532,4 +532,4 @@ social distinctions on names is at present very slight.}
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: VI. Mahâli Sutta](dob-06tx)
+[Return to top](#top)   [Next: VI. Mahâli Sutta](dob-06tx.md)

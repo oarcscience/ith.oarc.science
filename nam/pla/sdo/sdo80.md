@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo79)  [Next](sdo81) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo79)  [Next](sdo81.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,4 +155,4 @@ perform the buffalo ceremony.
 
 ------------------------------------------------------------------------
 
-[Next: The Beginning of Foot Racing](sdo81)
+[Next: The Beginning of Foot Racing](sdo81.md)

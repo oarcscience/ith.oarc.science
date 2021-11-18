@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh12)  [Next](ehh14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh12)  [Next](ehh14.md) 
 
 ------------------------------------------------------------------------
 
@@ -142,4 +142,4 @@ believer a share of the offerings made to Seker.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. Fourth Division of the Tuat. II. The Kingdom of
-Khenti-Amenti-Osiris According to the Book Of Gates](ehh14)
+Khenti-Amenti-Osiris According to the Book Of Gates](ehh14.md)

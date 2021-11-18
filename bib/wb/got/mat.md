@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](neh)  [Next](mar) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](neh)  [Next](mar.md) 
 
 ------------------------------------------------------------------------
 
@@ -975,4 +975,4 @@ hlaiw, faursigljandans þana . . . .
 
 ------------------------------------------------------------------------
 
-[Next: Mark](mar)
+[Next: Mark](mar.md)

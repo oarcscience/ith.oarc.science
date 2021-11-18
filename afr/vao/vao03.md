@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [African](../index) 
-[Index](index)  [Previous](vao02)  [Next](vao04) 
+[Intangible Textual Heritage](../../index)  [African](../index.md) 
+[Index](index)  [Previous](vao02)  [Next](vao04.md) 
 
 ------------------------------------------------------------------------
 
@@ -1080,4 +1080,4 @@ God and through whom the veneration is actually. given to God himself.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Serpent Cult at Whydah](vao04)
+[Next: Chapter II: Serpent Cult at Whydah](vao04.md)

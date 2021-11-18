@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal048)  [Next](njal050) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal048)  [Next](njal050.md) 
 
 ------------------------------------------------------------------------
 
@@ -200,4 +200,4 @@ And then they were both wroth.
 
 ------------------------------------------------------------------------
 
-[Next: 50. Of Skamkell's Lying](njal050)
+[Next: 50. Of Skamkell's Lying](njal050.md)

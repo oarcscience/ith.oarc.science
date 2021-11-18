@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Wicca and
-Paganism](../index)  [Index](index)  [Previous](kjd02)  [Next](kjd04) 
+[Intangible Textual Heritage](../../index.md)  [Wicca and
+Paganism](../index)  [Index](index)  [Previous](kjd02)  [Next](kjd04.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ JAMES R.
 
 ------------------------------------------------------------------------
 
-[Next: Dæmonologie: The First Booke.](kjd04)
+[Next: Dæmonologie: The First Booke.](kjd04.md)

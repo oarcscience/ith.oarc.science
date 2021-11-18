@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](agjc104)  [Next](agjc106) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](agjc104)  [Next](agjc106.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHONOS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHONOS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Aquarian Gospel of Jesus Christ*, by Levi H. Dowling, \[1920\], at
 Intangible Textual Heritage
 
@@ -79,6 +79,6 @@ many towns of Galilee, and then they came again unto Capernaum.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 103](agjc106)
+[Next: Chapter 103](agjc106.md)
 
 </div>

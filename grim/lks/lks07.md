@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks06)  [Next](lks08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks06)  [Next](lks08.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,8 +59,8 @@ particularly in the Sigils. Such as they are, these names in
 
 the Hebrew of Dr. Rudd are here shown. (See Figures 81 to 152
 *inclusive*. <span id="img_fig81-152"></span>
-[![](tn/generic.jpg)](img/fig81-152.jpg))
+[![](tn/generic.jpg)](img/fig81-152.jpg).md)
 
 ------------------------------------------------------------------------
 
-[Next: The Magical Circle](lks08)
+[Next: The Magical Circle](lks08.md)

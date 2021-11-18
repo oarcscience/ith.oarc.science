@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi228)  [Next](mtsi230) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi228)  [Next](mtsi230.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ man, that he lay there dead, and that the Bear had disappeared.
 
 ------------------------------------------------------------------------
 
-[Next: 30. The Man and the Deer Women](mtsi230)
+[Next: 30. The Man and the Deer Women](mtsi230.md)

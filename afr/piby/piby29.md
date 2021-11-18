@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby28)  [Next](piby30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby28)  [Next](piby30.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ A. The house of Athlyi.
 
 ------------------------------------------------------------------------
 
-[Next: The Shepherd's Command by Athlyi](piby30)
+[Next: The Shepherd's Command by Athlyi](piby30.md)

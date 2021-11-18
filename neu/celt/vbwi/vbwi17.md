@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi16)  [Next](vbwi18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi16)  [Next](vbwi18.md) 
 
 ------------------------------------------------------------------------
 
@@ -726,4 +726,4 @@ he was not dead, being of the Sheogues.
 
 ------------------------------------------------------------------------
 
-[Next: Friars and Priest Cures](vbwi18)
+[Next: Friars and Priest Cures](vbwi18.md)

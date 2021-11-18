@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Esoteric](../../eso/index)  [Index](index)  [Previous](pdm04) 
-[Next](pdm06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Esoteric](../../eso/index)  [Index](index)  [Previous](pdm04.md) 
+[Next](pdm06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -225,7 +225,7 @@ to the gait and the laugh of young men. Laughter, he said, is an
 infallible index to character, no amount of dissimulation can render
 agreeable the laugh of an evil-disposed man. He had also made such a
 profound study of the human face that he could read therein the very
-depths of the soul. <span id="fr_9"></span>[1](#fn_9)
+depths of the soul. <span id="fr_9"></span>[1](#fn_9.md)
 
 Such minute observation enabled the master to
 
@@ -496,7 +496,7 @@ body appears among men, but his soul is dead; let us weep for it!" This
 tomb erected to a living man, persecuted him like his own phantom, like
 an evil omen.
 
-#### SECOND DEGREE—PURIFICATION <span id="fr_10"></span>[1](#fn_10)
+#### SECOND DEGREE—PURIFICATION <span id="fr_10"></span>[1](#fn_10.md)
 
 *Numbers—Theogony*
 
@@ -650,7 +650,7 @@ relation, a common principle; and this principle is given them by the
 One who gives to them along with their very essence, measure and
 intelligibility. It is the common measure between subject and object,
 the reason of things by which the soul participates in the final reason
-of the One." <span id="fr_11"></span>[1](#fn_11) But how can one
+of the One." <span id="fr_11"></span>[1](#fn_11.md) But how can one
 approach It, the inconceivable Being? Has any one ever seen the Master
 of time, the Soul of the suns, the Spring of intelligences? No; and it
 is only by mingling with it that one penetrates its
@@ -752,7 +752,7 @@ intermediate element, coming from the *cosmic fluid*. The soul,
 therefore, resembles an ethereal body which the spirit weaves and builds
 for itself. Without this ethereal body, the material body could not be
 purified, it would be only an inert and lifeless mass. <span
-id="fr_12"></span>[1](#fn_12) The soul possesses a form like that of the
+id="fr_12"></span>[1](#fn_12.md) The soul possesses a form like that of the
 body it vivifies, and which it survives after dissolution or death.
 Then, as
 
@@ -797,7 +797,7 @@ theogony and the foundation of the sciences. Already veiled in the
 exoteric writings of Plato, though altogether misunderstood by
 subsequent philosophers, this conception, in modern times, has been
 comprehended by only a few rare initiates of the occult sciences. <span
-id="fr_13"></span>[1](#fn_13) Henceforth may be seen what a broad and
+id="fr_13"></span>[1](#fn_13.md) Henceforth may be seen what a broad and
 solid basis the law of the universal ternary offered to the
 classification of sciences, and to the building up of cosmogony and
 psychology.
@@ -877,7 +877,7 @@ primordial Fire—*the sacred Decad*.
 
 <span id="page_99">p. 99</span>
 
-### THIRD DEGREE—PERFECTION <span id="fr_14"></span>[1](#fn_14)
+### THIRD DEGREE—PERFECTION <span id="fr_14"></span>[1](#fn_14.md)
 
 *Cosmogony and psychology.—The evolution of the soul*.
 
@@ -985,7 +985,7 @@ heaven. The planets served to mark the scale thereof. Still, these
 notions which would have overthrown popular mythology, and would have
 been set down by the people as sacrilegious, were never entrusted to
 popular writing. They were taught only under the seal of profound
-secrecy. <span id="fr_15"></span>[1](#fn_15)
+secrecy. <span id="fr_15"></span>[1](#fn_15.md)
 
 The visible universe, said Pythagoras, the
 
@@ -1673,7 +1673,7 @@ spiritual growth, an accomplishment.
 Lives follow without resembling one another, but a pitiless logic links
 them together. Though each of them has its own law and special destiny,
 the succession is controlled by a general law, which might be called
-*the repercussion of lives*. <span id="fr_16"></span>[1](#fn_16) In
+*the repercussion of lives*. <span id="fr_16"></span>[1](#fn_16.md) In
 accordance with this law, the actions of one life
 
 <span id="page_133">p. 133</span>
@@ -1685,7 +1685,7 @@ largely determined by the good or bad use he has made of his liberty in
 the preceding life. There is no word or action which has not its echo in
 eternity, says a proverb. According to esoteric doctrine, this proverb
 is literally applied from one life to another. Pythagoras considered
-that the apparent injustice of destiny, the [deformity](errata.htm#1)
+that the apparent injustice of destiny, the [deformity](errata.htm#1.md)
 and wretchedness of one's lot, misfortunes of every kind, find their
 explanation in the fact that each existence is the reward or the
 punishment of the former one. A criminal life engenders one of
@@ -1732,7 +1732,7 @@ world like the very breath of God animating it.
 
 What then is the final end of man and humanity, according to esoteric
 doctrine? After so many lives, deaths, re-births, periods of calm and
-poignant [awakenings](errata.htm#2), is there any limit to the labours
+poignant [awakenings](errata.htm#2.md), is there any limit to the labours
 of Psyche? Yes, say the initiates, when the soul has definitely
 conquered matter, when, developing all its spiritual faculties, it has
 found in itself the principle and end of all things, then, incarnation
@@ -1802,7 +1802,7 @@ from mortal sight.
 With Pythagoras we have now reached the summit of initiation in ancient
 times. From these heights the earth appears drowned in shadow, like a
 dying star. Sidereal perspectives open out—and the vision from on high,
-the epiphany of the universe, <span id="fr_17"></span>[1](#fn_17) is
+the epiphany of the universe, <span id="fr_17"></span>[1](#fn_17.md) is
 unfolded before one's wondering gaze in its entirety. The object of his
 instruction, however, was not the absorption of man in contemplation or
 ecstasy. The master had brought his disciples into the unmeasurable
@@ -1843,7 +1843,7 @@ magnetism, penetrated by the potency of his astral soul, electrified by
 his will, acquires an apparently miraculous power. At times he cures the
 sick by the laying on of hands or simply by his presence. His look alone
 often penetrates the thoughts of men. Sometimes, in the waking state, he
-sees events taking place afar off. <span id="fr_18"></span>[1](#fn_18)
+sees events taking place afar off. <span id="fr_18"></span>[1](#fn_18.md)
 He acts at a distance
 
 <span id="page_141">p. 141</span>
@@ -1942,7 +1942,7 @@ he become; for each fall into evil diminishes the intelligence of
 the true and the capacity for good. Destiny accordingly reigns over the
 past, Liberty over the future, and Providence over both, *i.e.* over the
 ever-existing present, which may be called Eternity. <span
-id="fr_19"></span>[1](#fn_19) From the combined action of Destiny,
+id="fr_19"></span>[1](#fn_19.md) From the combined action of Destiny,
 Liberty and Providence spring the innumerable destinies, the hells and
 the paradises of souls. Evil, being discord with divine law, is not the
 work of God but that of man, and has only a relative, an apparent and
@@ -2088,7 +2088,7 @@ names in history. They are primordial men, *adepts*, *great initiates*,
 sublime geniuses who transform and metamorphose humanity. So rare are
 they that they may be counted in history; Providence scatters them here
 and there at long intervals of time, like stars in the heavens. <span
-id="fr_20"></span>[1](#fn_20)
+id="fr_20"></span>[1](#fn_20.md)
 
 Evidently this last category is outside of all rule or classification,
 still, such a constitution of human society as takes no account of the
@@ -2183,7 +2183,7 @@ family, the guardian of the sacred fire of life, the Vesta of the
 hearth. Feminine initiation may accordingly be regarded as the veritable
 reason of the beauty of the race, its robust descendants and the length
 of duration of the family in Greek and Roman antiquity. <span
-id="fr_21"></span>[1](#fn_21)
+id="fr_21"></span>[1](#fn_21.md)
 
 In establishing a section for women in his Institute, Pythagoras merely
 deepened and refined what already existed. The women he initiated
@@ -2309,12 +2309,12 @@ a building to whose construction each initiate had to bring his stone.
 
 ### Footnotes
 
-<span id="fn_9"></span>[71:1](pdm05.htm#fr_9) Origen states that
+<span id="fn_9"></span>[71:1](pdm05.htm#fr_9.md) Origen states that
 Pythagoras was the inventor of physiognomy.
 
-<span id="fn_10"></span>[83:1](pdm05.htm#fr_10) *Katharsis* in Greek.
+<span id="fn_10"></span>[83:1](pdm05.htm#fr_10.md) *Katharsis* in Greek.
 
-<span id="fn_11"></span>[89:1](pdm05.htm#fr_11) In transcendent
+<span id="fn_11"></span>[89:1](pdm05.htm#fr_11.md) In transcendent
 mathematics it is demonstrated algebraically that zero multiplied by
 infinity is equal to One. Zero, in the order of absolute things,
 signifies the indeterminate Being. The Infinite, the Eternal in the
@@ -2328,18 +2328,18 @@ theogony, the reason which brings it to pass that the great Monad
 contains all the small ones, and that all the numbers spring from the
 great Unity in movement.
 
-<span id="fn_12"></span>[93:1](pdm05.htm#fr_12) Doctrine identical with
+<span id="fn_12"></span>[93:1](pdm05.htm#fr_12.md) Doctrine identical with
 that of the initiate St. Paul, who speaks of the *spiritual body*.
 
-<span id="fn_13"></span>[95:1](pdm05.htm#fr_13) In the first rank of
+<span id="fn_13"></span>[95:1](pdm05.htm#fr_13.md) In the first rank of
 these must be placed Fabre d’Olivert (*Vers dorés de Pythagore*). This
 living conception of the forces of the universe, traversing it from top
 to bottom, has nothing to do with the thesis, the antithesis and the
 synthesis of Hegel, which are simply *jeux d’esprit*.
 
-<span id="fn_14"></span>[99:1](pdm05.htm#fr_14) In Greek: *Teleiôtes*.
+<span id="fn_14"></span>[99:1](pdm05.htm#fr_14.md) In Greek: *Teleiôtes*.
 
-<span id="fn_15"></span>[103:1](pdm05.htm#fr_15) Certain strange
+<span id="fn_15"></span>[103:1](pdm05.htm#fr_15.md) Certain strange
 definitions, in metaphorical form, which have been handed down to us and
 come from the secret teaching of the master, give us some idea, in their
 occult signification, of the magnificent conception Pythagoras had of
@@ -2355,16 +2355,16 @@ matter. Pythagoras accordingly called the planets the dogs of Proserpine
 because they keep and retain the incarnated souls, just as the
 mythological Cerberus guards the souls in the infernal regions.
 
-<span id="fn_16"></span>[132:1](pdm05.htm#fr_16) The law called *Karma*
+<span id="fn_16"></span>[132:1](pdm05.htm#fr_16.md) The law called *Karma*
 by Brahmans and Buddhists.
 
-<span id="fn_17"></span>[138:1](pdm05.htm#fr_17) The *epiphany*, or
+<span id="fn_17"></span>[138:1](pdm05.htm#fr_17.md) The *epiphany*, or
 vision from above; the *autopsy*, or direct vision; the *theophany*, or
 manifestation of God, are so many correlative ideas and divers
 expressions to indicate the state of perfection in which the initiate,
 having united his soul to God, contemplates truth in its entirety.
 
-<span id="fn_18"></span>[140:1](pdm05.htm#fr_18) I will here mention two
+<span id="fn_18"></span>[140:1](pdm05.htm#fr_18.md) I will here mention two
 well-known facts of this kind, which are quite authentic. The first
 belongs to antiquity, its hero being the famous philosopher-magician,
 Apollonius of Tyana.
@@ -2439,20 +2439,20 @@ considering the short lapse of time (nine years) since 1859."—Letter to
 Mademoiselle Charlotte de Knoblich, quoted by Matter, in his *Life of
 Swedenborg*.
 
-<span id="fn_19"></span>[146:1](pdm05.htm#fr_19) This idea springs
+<span id="fn_19"></span>[146:1](pdm05.htm#fr_19.md) This idea springs
 logically from the human and divine ternary, from the trinity of the
 microcosm and the macrocosm we have spoken of in the previous chapters.
 The metaphysical correlation of Destiny, Liberty and Providence has been
 admirably drawn by Fabre d'Olivert, in his Commentary on the Golden
 Verses of Pythagoras.
 
-<span id="fn_20"></span>[152:1](pdm05.htm#fr_20) This classing of men
+<span id="fn_20"></span>[152:1](pdm05.htm#fr_20.md) This classing of men
 corresponds to the four stages of Pythagorean initiation, and forms the
 basis of all initiations, even that of the primitive freemasons, who
 were not without a smattering of esoteric teaching.—See Fabre d’Olivert,
 *les Vers dorés de Pythagore*.
 
-<span id="fn_21"></span>[156:1](pdm05.htm#fr_21) Montesquieu and
+<span id="fn_21"></span>[156:1](pdm05.htm#fr_21.md) Montesquieu and
 Michelet are almost the only writers who have made mention of the virtue
 of Greek wives. Neither of them states its cause, which I point out in
 these few lines.
@@ -2460,4 +2460,4 @@ these few lines.
 ------------------------------------------------------------------------
 
 [Next: Chapter V. Marriage of Pythagoras—Revolution at Croton—The
-Master's End—The School and its Destiny](pdm06)
+Master's End—The School and its Destiny](pdm06.md)

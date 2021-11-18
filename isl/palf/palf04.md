@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](palf03)  [Next](palf05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](palf03)  [Next](palf05.md) 
 
 ------------------------------------------------------------------------
 
@@ -285,4 +285,4 @@ BIBLIOGRAPHY</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](palf05)
+[Next: Introduction](palf05.md)

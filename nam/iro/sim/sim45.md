@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim44)  [Next](sim46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim44)  [Next](sim46.md) 
 
 ------------------------------------------------------------------------
 
@@ -285,7 +285,7 @@ lost your head." Upon this he caught hold of the old man-eater and cut
 off his head. The elder boy picked the head up, stuck it against a tree
 and said, "Hereafter trees shall have heads on them (knots), and the
 heads will be used to make ladles and bowls." <span
-id="fr_6"></span>[1](#fn_6)
+id="fr_6"></span>[1](#fn_6.md)
 
 The boys burned the old man's house and then went on. Three looks away
 they came to the edge of a forest and saw a house close by. The younger
@@ -379,9 +379,9 @@ work is done. We have killed all the man-eaters, now we are going home."
 
 ### Footnotes
 
-<span id="fn_6"></span>[253:1](sim45.htm#fr_6) To this day trees with
+<span id="fn_6"></span>[253:1](sim45.htm#fr_6.md) To this day trees with
 knots are said to have "Uncle's head" on them.
 
 ------------------------------------------------------------------------
 
-[Next: Dagwanoenyent (Whirlwind)](sim46)
+[Next: Dagwanoenyent (Whirlwind)](sim46.md)

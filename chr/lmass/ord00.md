@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Next](ord) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Next](ord.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 The Ordinary of the Mass (Latin/English), at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -32,13 +32,13 @@ P. J. KENEDY AND SONS
 PUBLISHERS TO THE HOLY APOSTOLIC SEE
 
 <span id="img_front"></span> <span align="CENTER"> [![](tn/front.jpg)  
-Click to enlarge](img/front.jpg)</span>
+Click to enlarge](img/front.jpg.md)</span>
 
 <span id="img_title"></span> <span align="CENTER"> [![](tn/title.jpg)  
-Click to enlarge](img/title.jpg)</span>
+Click to enlarge](img/title.jpg.md)</span>
 
 <span id="img_verso"></span> <span align="CENTER"> [![](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)</span>
+Click to enlarge](img/verso.jpg.md)</span>
 
 *Imprimatur.*
 
@@ -53,4 +53,4 @@ United States because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: The Ordinary of the Mass](ord)
+[Next: The Ordinary of the Mass](ord.md)

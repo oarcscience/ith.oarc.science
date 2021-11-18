@@ -1,7 +1,7 @@
 <span class="small"></span>
 
-[Intangible Textual Heritage](../index)  [Hinduism](index) 
-[Atharva-Veda Index](av/index)
+[Intangible Textual Heritage](../index)  [Hinduism](index.md) 
+[Atharva-Veda Index](av/index.md)
 
 ------------------------------------------------------------------------
 

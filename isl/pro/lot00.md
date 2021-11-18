@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isa00)  [Next](lot01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isa00)  [Next](lot01.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ commit ye not abomination in your meetings(Al-\`Ankabut:29).
 
 ------------------------------------------------------------------------
 
-[Next: Some Funny Stories](lot01)
+[Next: Some Funny Stories](lot01.md)
 
 </div>
 

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar157) [Next](gbar159)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar157) [Next](gbar159.md)
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ him reprobate: so greatly is God contrary to this world.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar159)
+[Next](gbar159.md)

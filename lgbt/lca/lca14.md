@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca13) 
-[Next](lca15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca13.md) 
+[Next](lca15.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ allows any kind of mechanical bond.
 
 ------------------------------------------------------------------------
 
-[Next: On Preventive Checks to Population](lca15)
+[Next: On Preventive Checks to Population](lca15.md)

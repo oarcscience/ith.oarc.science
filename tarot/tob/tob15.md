@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob14) 
-[Next](tob16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob14.md) 
+[Next](tob16.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,12 +11,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob14) 
 
 <span id="img_wiar02"></span>
 
-![THE HIGH PRIESTESS.](img/wiar02.jpg)  
+![THE HIGH PRIESTESS.](img/wiar02.jpg.md)  
 THE HIGH PRIESTESS.
 
    <span id="img_msar02"></span>
 
-![THE HIGH PRIESTESS.](img/msar02.jpg)  
+![THE HIGH PRIESTESS.](img/msar02.jpg.md)  
 THE HIGH PRIESTESS.
 
 2\. ב
@@ -91,7 +91,7 @@ In Man it is the reflex of Adam of the absolute man: Eve, the woman,
 life (min).
 
 In the Universe it is the reflex of *natura naturans*: it is *natura
-naturata*. <span id="fr_58"></span>[1](#fn_58)
+naturata*. <span id="fr_58"></span>[1](#fn_58.md)
 
 2\. ב
 
@@ -147,9 +147,9 @@ he he</p>
 
 ### Footnotes
 
-<span id="fn_58"></span>[114:1](tob15.htm#fr_58) That which follows from
+<span id="fn_58"></span>[114:1](tob15.htm#fr_58.md) That which follows from
 the divine nature.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Empress](tob16)
+[Next: 3. The Empress](tob16.md)

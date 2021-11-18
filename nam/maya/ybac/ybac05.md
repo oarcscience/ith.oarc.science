@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac04)  [Next](ybac06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac04)  [Next](ybac06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ people for their food.
 A small range crosses Yucatan from one corner to the other starting near
 Champotón and running to the town of Salamanca in the opposite angle.
 This range divides Yucatan into two parts, of which that to the south
-toward Lacandón and Taiza <span id="fr_0"></span>[\*](#fn_0) is
+toward Lacandón and Taiza <span id="fr_0"></span>[\*](#fn_0.md) is
 uninhabited for lack of water, except when it rains. The northern part
 is inhabited.
 
@@ -71,7 +71,7 @@ with an evening breeze from the sea. People live long in the country,
 and men of a hundred and forty years have been known.
 
 The winter begins with St. Francis day, <span
-id="fr_1"></span>[\*](ybac06.htm#fn_1) and lasts until the end of March;
+id="fr_1"></span>[\*](ybac06.htm#fn_1.md) and lasts until the end of March;
 during this time the north winds prevail and cause severe colds and
 catarrh from the insufficient clothing the people wear. The end of
 January and February bring a short hot spell, when it does not rain
@@ -84,10 +84,10 @@ St. Francis, which is harvested early.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:\*](ybac05.htm#fr_0) Tah-Itzá, the country of
+<span id="fn_0"></span>[1:\*](ybac05.htm#fr_0.md) Tah-Itzá, the country of
 the Itzás, around Lake Petén.
 
 ------------------------------------------------------------------------
 
 [Next: II. Etymology of the Name of this Province. Its
-Situation](ybac06)
+Situation](ybac06.md)

@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ord)
+[Contents](#contents)    [Start Reading](ord.md)
 
 ------------------------------------------------------------------------
 
@@ -48,5 +48,5 @@ other extraordinary events.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ord00)  
-[The Ordinary of the Mass](ord)  
+<span id="contents"></span> [Title Page](ord00.md)  
+[The Ordinary of the Mass](ord.md)  

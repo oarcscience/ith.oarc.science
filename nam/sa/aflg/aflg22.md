@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg21)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg21.md)
 
 ------------------------------------------------------------------------
 
@@ -248,5 +248,5 @@ Y<span class="small">AWARRI</span>. Species of opossum (*Didelphys*).
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg21)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg21.md)

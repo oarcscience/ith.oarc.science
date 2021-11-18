@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois29) 
-[Next](wois31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois29.md) 
+[Next](wois31.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -59,6 +59,6 @@ love, and charity.
 
 ------------------------------------------------------------------------
 
-[Next: The Two Pilots](wois31)
+[Next: The Two Pilots](wois31.md)
 
 </div>

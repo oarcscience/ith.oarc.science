@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi273)  [Next](mtsi275) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi273)  [Next](mtsi275.md) 
 
 ------------------------------------------------------------------------
 
 ### 9. THE PANTHER CHILD (6, 7)
 
 A woman was washing at a creek with her baby lying close by her. While
-she was dipping up water a Tiger, <span id="fr_75"></span>[1](#fn_74)
+she was dipping up water a Tiger, <span id="fr_75"></span>[1](#fn_74.md)
 which had been watching her, ran up and carried off her child. She did
 not know at first what had happened to it. The Tiger took the child,
 which was a boy, to its den, and with its mate raised him. When he had
@@ -249,9 +249,9 @@ brought the water back and let the snake go.
 
 ### Footnotes
 
-<span id="fn_74"></span>[234:1](mtsi274.htm#fr_75) Popular name for the
+<span id="fn_74"></span>[234:1](mtsi274.htm#fr_75.md) Popular name for the
 panther.
 
 ------------------------------------------------------------------------
 
-[Next: 10. Thunder](mtsi275)
+[Next: 10. Thunder](mtsi275.md)

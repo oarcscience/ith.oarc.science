@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas118n)  [Next](jas120n)   
- \[[119. Jack and the Grateful Dead.](jas119)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas118n)  [Next](jas120n.md)   
+ \[[119. Jack and the Grateful Dead.](jas119.md)\]
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ by Powell & Magnussen (London, 1866), 527-540.
 
 ------------------------------------------------------------------------
 
-[Next: Note 120. The Boy and his Master.](jas120n)
+[Next: Note 120. The Boy and his Master.](jas120n.md)

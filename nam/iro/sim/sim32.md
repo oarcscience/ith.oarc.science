@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim31)  [Next](sim33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim31)  [Next](sim33.md) 
 
 ------------------------------------------------------------------------
 
@@ -283,4 +283,4 @@ From birds came all the Indian songs and dances.
 
 ------------------------------------------------------------------------
 
-[Next: The Coming of Spring or The Wadyonyondyes Girls](sim33)
+[Next: The Coming of Spring or The Wadyonyondyes Girls](sim33.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm29)  [Next](wsm31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm29)  [Next](wsm31.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ they should die only once?"
 ------------------------------------------------------------------------
 
 [Next: Coyote Kills Wolf's Wives (Big Smoky Valley, Nevada.
-Shoshoni)](wsm31)
+Shoshoni)](wsm31.md)

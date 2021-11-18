@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah15)  [Next](toah17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah15)  [Next](toah17.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,11 +59,11 @@ did not need his help. The trouble was already settled, but he had moved
 away from Oraibi. He also said he expected to live in peace, if there
 was going to be any.
 
-Then the captain [50](toah24.htm#xref_50) sent word back again, asking
+Then the captain [50](toah24.htm#xref_50.md) sent word back again, asking
 him if he would mind telling him what had caused him to move. And again
 Youkioma sent word back to the captain saying he would not tell him
 unless Chief Tewaquoptiwa would tell him first what this was all
-about. [51](toah24.htm#xref_51) Then the captain sent for the Oraibi
+about. [51](toah24.htm#xref_51.md) Then the captain sent for the Oraibi
 chief. Being friendly to the white man he went right down with his
 interpreter, and when he got there the captain asked him why he had sent
 those people away. He said that he had been having so much trouble with
@@ -198,7 +198,7 @@ had the idea that he would surrender to the captain so as to relieve the
 trouble of the people.
 
 Now in the next few days there was another division among the
-people. [52](toah24.htm#xref_52)
+people. [52](toah24.htm#xref_52.md)
 
 After a few days Chief Youkioma was called again and all the men
 followed him to Kiakochomovi. The captain asked him again if he had
@@ -261,7 +261,7 @@ one hundred) were left at Keams Canyon.
 From Fort Wingate these prisoners were sent to Florence penitentiary.
 The other eleven men, who were all married, were sent to Carlysle
 School. Three of the boys, Archie, Andrew, and Louis, had left their
-wives at Shung-opovi when they went to Oraibi. [53](toah24.htm#xref_53)
+wives at Shung-opovi when they went to Oraibi. [53](toah24.htm#xref_53.md)
 
 When the soldiers went away, Chief Tewaquoptiwa thought that the captain
 had forgotten him, but when the captain arrived at Fort Wingate he wrote
@@ -305,7 +305,7 @@ best they could do was to find a little shelter along the edge of the
 cliff and a few of them were under the ledge. Of course in both places,
 Bakabi and Hotevilla, the people were busy trying to put up houses of
 some kind. In Hotevilla the women had to do all the work, for there were
-just a few old grandfathers left to help them. [54](toah24.htm#xref_54)
+just a few old grandfathers left to help them. [54](toah24.htm#xref_54.md)
 
 Mr. Lemon, the agent, after hearing about this trouble again at Oraibi,
 came right out and sent Tewaquoptiwa to Riverside. They just keep him
@@ -354,7 +354,7 @@ Everything went well for about a year at Hotevilla and Shung-opovi. Then
 the children came home from school in the summer. At Hotevilla houses
 had been built by this time. When the school opened in the fall, the
 people, would not let the children return. The policemen went out but
-returned without the [children](errata.htm#3). Again the army was called
+returned without the [children](errata.htm#3.md). Again the army was called
 in. One company arrived and went to Hotevilla, caught the children, and
 then went on to Shung-opovi. At Shung-opovi the hostile group ref used
 to send their children and hid them. After that the children of the
@@ -401,4 +401,4 @@ THE END
 
 ------------------------------------------------------------------------
 
-[Next: How the Crow Clan Became Also the Kachina Clan](toah17)
+[Next: How the Crow Clan Became Also the Kachina Clan](toah17.md)

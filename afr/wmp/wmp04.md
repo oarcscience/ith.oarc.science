@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](wmp03)  [Next](wmp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](wmp03)  [Next](wmp05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Woman's Mysteries of a Primitive People*, by D. Amaury Talbot,
 \[1915\], at Intangible Textual Heritage
 
@@ -48,14 +48,14 @@ wise above their fellows, or mercifully
 <span id="page_16">p. 16</span>
 
 imparted to some favoured mortal by one or other of the deities." <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 The word fetish is "derived through the Portuguese *feitico* from the
 Latin *facticius*--*facere*, i.e. to do. This shows the original
 conception at the root of the word." . . . . (It) "was probably first
 applied to images, idols or amulets made by hand, and later includes all
 objects possessing magical potency, i.e. bewitched or 'faked.'" <span
-id="fr_4"></span>[2](#fn_4)
+id="fr_4"></span>[2](#fn_4.md)
 
 Holy pools and rocks, many of which are regarded as the earthly
 manifestation of Eka Abassi, and are often connected with the rites of
@@ -77,7 +77,7 @@ the crops to nourish her children
 <span id="page_17">p. 17</span>
 
 in life, and provides their last long resting-place when work is
-done." <span id="fr_5"></span>[1](#fn_5)
+done." <span id="fr_5"></span>[1](#fn_5.md)
 
 A term in common use for expressing the approach of death is to speak of
 the time "when my mother shall take me," because all men are laid to
@@ -138,14 +138,14 @@ says:
 <span id="page_19">p. 19</span>
 
 no child shall be born to you, that thus atonement may be made for your
-undutiful behaviour.'" <span id="fr_6"></span>[1](#fn_6)
+undutiful behaviour.'" <span id="fr_6"></span>[1](#fn_6.md)
 
 This idea is surely near of kin to the warning voiced in the "Maxims of
 Ani":
 
 "Give thy mother no cause to be offended at thee, lest she lift up her
 hands to the god, who will surely hear her complaint and will punish
-thee." <span id="fr_7"></span>[2](#fn_7)
+thee." <span id="fr_7"></span>[2](#fn_7.md)
 
 A little earlier in the same interesting document a man is bidden "to be
 most careful how he treats the mother who suckled him for three years
@@ -174,7 +174,7 @@ place where the rest of the offerings lie. These are cooked and eaten by
 husband, wife and priest; after which the suppliant returns home, strong
 in the hope that Isu Ma will take away her reproach. . . . When a child
 is granted in answer to such a prayer, custom ordains that he or she
-shall be named 'Ma,'" <span id="fr_8"></span>[1](#fn_8) in gratitude to
+shall be named 'Ma,'" <span id="fr_8"></span>[1](#fn_8.md) in gratitude to
 the Great Mother. This fact alone would appear sufficient refutation of
 the charge that love and gratitude play no part in West African
 religions.
@@ -208,7 +208,7 @@ which is strictly observed here for mothers, is much like that reported
 from Guiana as imposed upon fathers, whose "partaking of the agouti
 would make the child meagre, or eating a labba would make the infant's
 mouth protrude like the labba's or make it spotted like the labba, which
-spots would ultimately become ulcers." <span id="fr_9"></span>[1](#fn_9)
+spots would ultimately become ulcers." <span id="fr_9"></span>[1](#fn_9.md)
 So far as could be learnt, however, an Ibibio father is not under the
 necessity of abstaining from any kind of food.
 
@@ -254,7 +254,7 @@ observance of a similar custom."
 knots on her garments are untied, because it is believed that this will
 facilitate her delivery, and with the same intention all the locks in
 the house, whether on doors or boxes, are unlocked." <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 "The Lapps think that a lying-in woman should
 
@@ -265,7 +265,7 @@ making the delivery difficult and painful. In ancient India it was a
 rule to untie all knots in a house at the moment of childbirth. Roman
 religion required that women who took part in the rites of Juno Lucina,
 the Goddess of Childbirth, should have no knot tied on their
-persons." <span id="fr_11"></span>[1](#fn_11)
+persons." <span id="fr_11"></span>[1](#fn_11.md)
 
 The temptation to quote from Sir James Frazer, which besets one at every
 turn, must, however, be resisted as far as possible, since, did one but
@@ -414,7 +414,7 @@ rabbinical belief "that a man might have children by allying himself
 with a demon, and although they would naturally not be visible to human
 beings, yet when that man was dying they would hover round his bed, and,
 after his death, would hail him as their father." <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 No "twin mother" may pass through, or even near, a sacred water. This
 prohibition would seem also to apply to their offspring, but, as so few
@@ -486,35 +486,35 @@ place of refuge for "twin mothers." This afterwards grew into the Eket
 
 ### Footnotes
 
-<span id="fn_3"></span>[16:1](wmp04.htm#fr_3) "In the Shadow of the
+<span id="fn_3"></span>[16:1](wmp04.htm#fr_3.md) "In the Shadow of the
 Bush," p. 49. P. Amaury Talbot.
 
-<span id="fn_4"></span>[16:2](wmp04.htm#fr_4) "Magic and Fetishism," pp.
+<span id="fn_4"></span>[16:2](wmp04.htm#fr_4.md) "Magic and Fetishism," pp.
 66-7. Dr. Haddon, F.R.S.
 
-<span id="fn_5"></span>[17:1](wmp04.htm#fr_5) Edinburgh Review," July,
+<span id="fn_5"></span>[17:1](wmp04.htm#fr_5.md) Edinburgh Review," July,
 1914. P. Amaury Talbot.
 
-<span id="fn_6"></span>[19:1](wmp04.htm#fr_6) "By Haunted Waters." P.
+<span id="fn_6"></span>[19:1](wmp04.htm#fr_6.md) "By Haunted Waters." P.
 Amaury Talbot--to be published shortly.
 
-<span id="fn_7"></span>[19:2](wmp04.htm#fr_7) "Osiris and the Egyptian
+<span id="fn_7"></span>[19:2](wmp04.htm#fr_7.md) "Osiris and the Egyptian
 Resurrection," p. 216. Dr. E. Wallis Budge.
 
-<span id="fn_8"></span>[20:1](wmp04.htm#fr_8) By Haunted Waters." P.
+<span id="fn_8"></span>[20:1](wmp04.htm#fr_8.md) By Haunted Waters." P.
 Amaury Talbot.
 
-<span id="fn_9"></span>[21:1](wmp04.htm#fr_9) "Magic and Fetishism," p.
+<span id="fn_9"></span>[21:1](wmp04.htm#fr_9.md) "Magic and Fetishism," p.
 13. A. C. Haddon, F.R.S.
 
-<span id="fn_10"></span>[22:1](wmp04.htm#fr_10) "*Volksthümlicher Brauch
+<span id="fn_10"></span>[22:1](wmp04.htm#fr_10.md) "*Volksthümlicher Brauch
 und Glaube bei Geburt und Taufe im Siebenburger Sachsenlande*," p. 15.
 J. Hillner.
 
-<span id="fn_11"></span>[23:1](wmp04.htm#fr_11) Taboo and the Perils of
+<span id="fn_11"></span>[23:1](wmp04.htm#fr_11.md) Taboo and the Perils of
 the. Soul," p. 294. J. G. Frazer.
 
-<span id="fn_12"></span>[28:1](wmp04.htm#fr_12) "The Devils and Evil
+<span id="fn_12"></span>[28:1](wmp04.htm#fr_12.md) "The Devils and Evil
 Spirits of Babylonia." R. C. Thompson. Vol. i., p. xxvi. *See also*
 "Burial Customs."
 
@@ -522,6 +522,6 @@ Spirits of Babylonia." R. C. Thompson. Vol. i., p. xxvi. *See also*
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3: Birth Customs (continued)](wmp05)
+[Next: Chapter 3: Birth Customs (continued)](wmp05.md)
 
 </div>

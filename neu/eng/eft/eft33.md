@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft32)  [Next](eft34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft32)  [Next](eft34.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ And still she sat, and still she reeled, and still she wished for
 company.
 
 <span id="img_050"></span> [![](tn/050.jpg)  
-Click to enlarge](img/050.jpg)
+Click to enlarge](img/050.jpg.md)
 
 In came a pair of small small legs, and sat down on the broad broad
 soles;  
@@ -121,4 +121,4 @@ feet.)
 
 ------------------------------------------------------------------------
 
-[Next: The Laidly Worm of Spindleston Heugh](eft34)
+[Next: The Laidly Worm of Spindleston Heugh](eft34.md)

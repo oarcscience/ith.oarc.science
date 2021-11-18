@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe15)  [Next](toe17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe15)  [Next](toe17.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ construction.
 M. de Luc, after having long believed that the strata of the Alps had
 been formed like those of the low countries, at the bottom of the sea,
 gives an account of the occasion by which he was first confirmed in the
-opposite opinion. <span id="fr_32"></span>[26](#fn_32) Like a true
+opposite opinion. <span id="fr_32"></span>[26](#fn_32.md) Like a true
 philosopher, he gives us the reason of this change.
 
 "Ce fut une espèce de *montagne* très commune, et que j'avois souvent
@@ -456,7 +456,7 @@ l'employent que comme un *fondant* pour d'autres *minéraux de fer*.
 au *filon* principale. Ils font de même *calcaires* et marins faits par
 *couches*; mais ces *couches* ont une si grande inclinaison, que je ne
 puis les comprendre: il faut qu'il y ait eu d'étranges bouleversemens
-dans ces endroits-là <span id="fr_33"></span>[27](#fn_33).
+dans ces endroits-là <span id="fr_33"></span>[27](#fn_33.md).
 
 "Ces *fentes* se sont faites, et ont été remplies, dans la *mer*;
 puisque les matières qui les remplissent sont de la classe de ses dépôts
@@ -465,7 +465,7 @@ ce qui embarrasse alors c'est que les autres *filons* ne soyent pas dans
 le même cas. N'est ce point là encore un indice, que ces *fentes* out
 été d'abord et principalement remplies de matières, poussées du fond par
 la même force qui secouoit les montagnes <span
-id="fr_34"></span>[28](#fn_34).
+id="fr_34"></span>[28](#fn_34.md).
 
 "Ce *filon* n'est pas le seul dans le *Hartz* qui donne des signes
 *marins*. Il y en a un autre, qui même se rapproche davantage de la
@@ -548,7 +548,7 @@ ni ne paroît s'être mu depuis bien des siècles, dans ces lieux qui
 montrent tant de désordre: un tapis de verdure couvre tout, en
 conservant les contours baroques du sol. Le bétail ne sauroit pâturer
 dans de telles prairies; mais l'industrieux montagnard fait y
-faucher <span id="fr_35"></span>[29](#fn_35).
+faucher <span id="fr_35"></span>[29](#fn_35.md).
 
 "*Oberbruck*, ou nous avions été la précédente fois, se trouva sur notre
 route, et nous y passames aussi la nuit, dans l'espérance de pouvoir
@@ -569,7 +569,7 @@ beaucoup la plus grande quantité), j'ai toujours plus de penchant d'en
 attribuer une partie à l'opération des *feux souterreins*, à mesure que
 je vois diminuer la probabilité de les assigner entièrement à *l'eau*.
 Mais quoi-qu'il en soit, ces gangues ne font pas de même date que les
-montagnes <span id="fr_36"></span>[30](#fn_36).
+montagnes <span id="fr_36"></span>[30](#fn_36.md).
 
 "Le lendemain de notre arrivée a *Clausthal*, qui étoit le 13e, nous
 allâmes visiter d'autres mines de *fer* en montagnes secondaires,
@@ -756,7 +756,7 @@ Our author, who has examined the subject, inclines to think, that this
 last has been the case. If, therefore, strata had been deposited upon
 broken and bare rocks of schistus, it is probable that these had been
 sunk in the sea after having been exposed to the atmosphere, and served
-the purpose of land upon the globe. <span id="fr_37"></span>[31](#fn_37)
+the purpose of land upon the globe. <span id="fr_37"></span>[31](#fn_37.md)
 
 An example of the same kind also occurs in the *Discours sur l'Histoire
 Naturelle de la Suisse*; and this author of the *Tableaux de la Suisse*
@@ -827,10 +827,10 @@ in the next chapter.
 
 ### Footnotes
 
-<span id="fn_32"></span>[v1:26](toe16.htm#fr_32) Lettres Physique et
+<span id="fn_32"></span>[v1:26](toe16.htm#fr_32.md) Lettres Physique et
 Morales sur l'Histoire de la Terre, tom. 2. pag. 206.
 
-<span id="fn_33"></span>[v1:27](toe16.htm#fr_33) Here, no doubt, are
+<span id="fn_33"></span>[v1:27](toe16.htm#fr_33.md) Here, no doubt, are
 appearances which it is impossible to explain by the theory of
 infiltration; it is the filling of mineral veins, and their branches or
 ramifications, with marble containing marks of marine objects. But, if
@@ -844,7 +844,7 @@ of the fusion of those mineral substances. I know that shells have been
 found within the body of veins in Germany; but, a stratification of
 those materials in a vein was never heard of before, so far as I know.
 
-<span id="fn_34"></span>[v1:28](toe16.htm#fr_34) But what is this power
+<span id="fn_34"></span>[v1:28](toe16.htm#fr_34.md) But what is this power
 by which matter is to be forced from the bottom of the sea to the top of
 the mountains? For, unless we can form some idea of that power which, as
 a cause, we ascribe to the perceived effect, we either say nothing to
@@ -857,7 +857,7 @@ power, indeed, the present theory assumes; and, so far as this shall be
 implied in the supposition of our author, it will thus have received a
 certain conformation.
 
-<span id="fn_35"></span>[v1:29](toe16.htm#fr_35) M. de Saussure
+<span id="fn_35"></span>[v1:29](toe16.htm#fr_35.md) M. de Saussure
 endeavours to explain those appearances of transported blocks of granite
 by another cause; this is a certain *debacle* of the waters of the
 earth, which I do not understand. M. de Luc again attempts to explain it
@@ -893,7 +893,7 @@ of volcanic eruptions; for, around all our granite mountains, and I
 believe all others, there are found many blocks of granite, travelled at
 a great distance, and in all directions.
 
-<span id="fn_36"></span>[v1:30](toe16.htm#fr_36) I most willingly admit
+<span id="fn_36"></span>[v1:30](toe16.htm#fr_36.md) I most willingly admit
 the justness of our author's view, if he thus perceives the operation of
 fire in the solids of our earth; but it is not for the reasons he has
 given us for discovering it here more than in other places; for there is
@@ -916,7 +916,7 @@ mountains by matter deposited immediately from the sea, there is
 certainly no other appearance in this mineral country of the Hartz, that
 may not be found in any other, only perhaps upon a smaller scale.
 
-<span id="fn_37"></span>[v1:31](toe16.htm#fr_37) This is also supported
+<span id="fn_37"></span>[v1:31](toe16.htm#fr_37.md) This is also supported
 by another very interesting observation contained in this letter. M. de
 Luc observes, that in this country the schistus is generally covered by
 strata of lime-stone, and that these lime-stone strata are again covered
@@ -928,4 +928,4 @@ some other place, from whence those fragments bad been detached.
 ------------------------------------------------------------------------
 
 [Next: Section I. A distinct View of the Primary and Secondary
-Strata](toe17)
+Strata](toe17.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr28)  [Next](rhr30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr28)  [Next](rhr30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -53,7 +53,7 @@ connected with religious feelings, and moved too much under a religious
 impulse, to recommend itself to the French."
 
 The first appearance of Rosicrucianism in France <span
-id="fr_110"></span>[1](#fn_110) was in the year 1623, when the following
+id="fr_110"></span>[1](#fn_110.md) was in the year 1623, when the following
 mysterious placard was affixed to the walls of Paris:--"We, the deputies
 of our chief college of the Brethren of the Rosy Cross, now sojourning,
 visible and invisible, in this town, do teach, in the name of the Most
@@ -90,7 +90,7 @@ joined to the determined will of the reader, will be sufficient to make
 us known to him, and reveal him to us."
 
 To this proclamation, in his "Histoire de la Magie," Eliphas Lévi adds:
-"Public opinion concerned itself about this [mysterious](errata.htm#4)
+"Public opinion concerned itself about this [mysterious](errata.htm#4.md)
 manifestation, and if any demanded openly who were the Rose-Cross
 brethren, an unknown personage frequently took the inquirer apart, and
 said to him gravely:--
@@ -153,7 +153,7 @@ with gossip by placarding the public
 <span id="page_391">p. 391</span>
 
 places with this notice, containing six lines of manuscript." <span
-id="fr_111"></span>[1](#fn_111)
+id="fr_111"></span>[1](#fn_111.md)
 
 On the other hand, the anonymous author of an "Examination of the
 unknown and novel Caballa of the Brethren of the Rose-Cross" accepts the
@@ -496,13 +496,13 @@ interests of the next ephemeral novelty.
 
 ### Footnotes
 
-<span id="fn_110"></span>[388:1](rhr29.htm#fr_110) See [Additional
-Notes, No. VI](rhr33.htm#an_n06).
+<span id="fn_110"></span>[388:1](rhr29.htm#fr_110.md) See [Additional
+Notes, No. VI](rhr33.htm#an_n06.md).
 
-<span id="fn_111"></span>[391:1](rhr29.htm#fr_111) "Instruction h la
+<span id="fn_111"></span>[391:1](rhr29.htm#fr_111.md) "Instruction h la
 France," c. iii., p. 26.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XV. Connection Between the Rosicrucians and
-Freemasons](rhr30)
+Freemasons](rhr30.md)

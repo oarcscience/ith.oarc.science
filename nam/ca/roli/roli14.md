@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli13)  [Next](roli15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli13)  [Next](roli15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -44,4 +44,4 @@ found.
 
 ------------------------------------------------------------------------
 
-[Next: Luiseño Creation: Third Version](roli15)
+[Next: Luiseño Creation: Third Version](roli15.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw77)  [Next](omw79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw77)  [Next](omw79.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ desire to know thee.
 
 ------------------------------------------------------------------------
 
-[Next: The Llama-Herder and the Virgin of the Sun](omw79)
+[Next: The Llama-Herder and the Virgin of the Sun](omw79.md)

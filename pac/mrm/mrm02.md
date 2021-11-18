@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](mrm01)  [Next](mrm03) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](mrm01)  [Next](mrm03.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ p\. 96 for "conquerers" read "conquerors."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Aryans and Polynesians](mrm03)
+[Next: Chapter I. Aryans and Polynesians](mrm03.md)

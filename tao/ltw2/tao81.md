@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao81)   
-[Previous](tao80)  [Next](ltw286) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao81.md)   
+[Previous](tao80)  [Next](ltw286.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ following TAO and serving others is never the cause of strife.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](ltw286)
+[Next: Preface](ltw286.md)

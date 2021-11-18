@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat12.htm#LXXX) 
-[Previous](satl079)  [Next](satl081) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat12.htm#LXXX.md) 
+[Previous](satl079)  [Next](satl081.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ vera redit facies, adsimulata perit.
 
 ------------------------------------------------------------------------
 
-[Next: LXXXI](satl081)
+[Next: LXXXI](satl081.md)

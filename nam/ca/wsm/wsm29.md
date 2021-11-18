@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm28)  [Next](wsm30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm28)  [Next](wsm30.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ chief went ahead and made fires (when they hunted).
 
 There were two brothers in the sky (tugumbi, "sky"; duwitc, "boys").
 They traveled along shooting arrows in competition with someone. <span
-id="fr_32"></span>[33](#fn_32) Doing this, the brothers lost all their
+id="fr_32"></span>[33](#fn_32.md) Doing this, the brothers lost all their
 arrows.
 
 The brothers went to the camp of the sheep hunters; they went to the
@@ -41,7 +41,7 @@ near the spring. After their bath, they went to the shade where some
 people lived. This was Snake's home. Snake said to them, "Tell me who
 you are." The brothers did not want to tell him. They said, "We heard
 that our grandfather lived here," though they really had no
-grandfather. <span id="fr_33"></span>[34](#fn_33) Snake said, "What are
+grandfather. <span id="fr_33"></span>[34](#fn_33.md) Snake said, "What are
 you two doing in this place?" The brothers said, "We have killed a sheep
 near here." Snake said, "All right, but you two must go back at once."
 Snake had two wives. He said, "If you don't go back right away, my wives
@@ -158,12 +158,12 @@ he came back to life. Coyote arose and said, "I have been sleeping."
 
 ### Footnotes
 
-<span id="fn_32"></span>[287:33](wsm29.htm#fr_32) They threw a bunch of
+<span id="fn_32"></span>[287:33](wsm29.htm#fr_32.md) They threw a bunch of
 willows ahead, over a bush where they could not see it, and shot to try
 to strike nearest to it.
 
-<span id="fn_33"></span>[288:34](wsm29.htm#fr_33) But compare below.
+<span id="fn_33"></span>[288:34](wsm29.htm#fr_33.md) But compare below.
 
 ------------------------------------------------------------------------
 
-[Next: Origin of Death (Big Smoky Valley, Nevada. Shoshoni)](wsm30)
+[Next: Origin of Death (Big Smoky Valley, Nevada. Shoshoni)](wsm30.md)

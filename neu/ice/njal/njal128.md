@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal127)  [Next](njal129) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal127)  [Next](njal129.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,4 +204,4 @@ rested him there, and that has since been called Kari's Hollow.
 
 ------------------------------------------------------------------------
 
-[Next: 129. Skarphedinn's Death](njal129)
+[Next: 129. Skarphedinn's Death](njal129.md)

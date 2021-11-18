@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal062)  [Next](njal064) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal062)  [Next](njal064.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ treachery, and rode home after that.
 
 ------------------------------------------------------------------------
 
-[Next: 64. Of Valgard And Mord](njal064)
+[Next: 64. Of Valgard And Mord](njal064.md)

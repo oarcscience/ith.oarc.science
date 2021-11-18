@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff05)  [Next](fff07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff05)  [Next](fff07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ THE familiar story of the origins of Christianity which we have all
 drunk in as it were with our <span class="margnote">The Greatest Story
 in the World.</span> mothers’ milk, may be said to be almost a part of
 the consciousness of the Western world. It is interwoven with our
-[earliest](errata.htm#2) recollections; it has been stamped upon our
+[earliest](errata.htm#2.md) recollections; it has been stamped upon our
 infant consciousness with a solemnity which has repressed all
 questioning; it has become the "thing we have grown used to." It has
 upon its side that stupendous power of inertia, the force of custom,
@@ -238,4 +238,4 @@ of Greece.
 
 ------------------------------------------------------------------------
 
-[Next: Greece](fff07)
+[Next: Greece](fff07.md)

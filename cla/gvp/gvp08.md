@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gvp07)  [Next](gvp09) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gvp07)  [Next](gvp09.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ nerves of wisdom.
 yourself, than to lie on a golden bed with perturbation.
 
 15\. You will not be in want of anything, which it is in the power of
-fortune to give and take away. <span id="fr_5"></span>[1](#fn_5)
+fortune to give and take away. <span id="fr_5"></span>[1](#fn_5.md)
 
 16\. Despise all those things which when liberated from the body you
 will not want; invoke the Gods to become your helpers.
@@ -212,9 +212,9 @@ buried in this body as in a sepulchre.
 
 ### Footnotes
 
-<span id="fn_5"></span>[47:1](gvp08.htm#fr_5) Hence the dogma of the
+<span id="fn_5"></span>[47:1](gvp08.htm#fr_5.md) Hence the dogma of the
 Stoics derived its origin, that the wise man is independent of fortune.
 
 ------------------------------------------------------------------------
 
-[Next: Select Sentences of Sextus the Pythagorean](gvp09)
+[Next: Select Sentences of Sextus the Pythagorean](gvp09.md)

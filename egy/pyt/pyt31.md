@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt30)  [Next](pyt32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt30)  [Next](pyt32.md) 
 
 ------------------------------------------------------------------------
 
@@ -214,4 +214,4 @@ to the house of Horus which is in *ḳbḥ.w*,
 
 ------------------------------------------------------------------------
 
-[Next: 29. Texts of Miscellaneous Contents, Utterances 540-552](pyt32)
+[Next: 29. Texts of Miscellaneous Contents, Utterances 540-552](pyt32.md)

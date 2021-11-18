@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc00)  [Next](bosc02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc00)  [Next](bosc02.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ A. R.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](bosc02)
+[Next: Introduction](bosc02.md)

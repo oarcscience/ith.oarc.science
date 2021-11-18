@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby14)  [Next](piby16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby14)  [Next](piby16.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ hand and help him to be as I am."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11. Returned to Newark](piby16)
+[Next: Chapter 11. Returned to Newark](piby16.md)

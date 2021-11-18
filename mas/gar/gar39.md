@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar38)  [Next](gar40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar38)  [Next](gar40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 #### OPERATIVE MASONRY.
 
 We work in Speculative Masonry, but our ancient brethren wrought in both
-Operative and Speculative. <span id="fr_22"></span>[\*](#fn_22) They
+Operative and Speculative. <span id="fr_22"></span>[\*](#fn_22.md) They
 worked at the building of King SOLOMON'S temple, and many other sacred
 and Masonic edifices.
 
@@ -96,7 +96,7 @@ That Speculative Masonry is the offspring of the ancient corporations of
 Builders and Masons, there cannot be a doubt. It possesses all the
 venerable forms of those old societies, their rituals, and their
 language of signs and symbols. The instruments of the builder's art—the
-Gavel, Twenty-four-inch [Gauge](errata.htm#2), Trowel, Level, Plumb,
+Gavel, Twenty-four-inch [Gauge](errata.htm#2.md), Trowel, Level, Plumb,
 Square, Compasses, Spade, Setting-Maul, etc.—it retains, and applies
 them to moral uses. They have become the most significant and
 instructive of emblems. All Freemasons are familiar with their
@@ -220,7 +220,7 @@ bountiful hands.
 
 ### Footnotes
 
-<span id="fn_22"></span>[122:\*](gar39.htm#fr_22) Freemasonry is to be
+<span id="fn_22"></span>[122:\*](gar39.htm#fr_22.md) Freemasonry is to be
 considered as divided into two parts—the *Operative* and *Speculative;*
 and these are again subdivided—that is, Craft Masonry—into three
 distinct branches: the Manual, the Instrumental, and the Scientific. The
@@ -232,4 +232,4 @@ of the first degree, called *Entered Apprentices*.
 
 ------------------------------------------------------------------------
 
-[Next: Pillars of the Porch](gar40)
+[Next: Pillars of the Porch](gar40.md)

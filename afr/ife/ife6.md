@@ -1,10 +1,10 @@
-[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife5) [Next](ife7)
+[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife5) [Next](ife7.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_35">p. 35</span>
 
-## IV. THE SACRIFICE OF MÓRIMI.<span id="page_35_fr_1"></span>[1](#page_35_note_1)
+## IV. THE SACRIFICE OF MÓRIMI.<span id="page_35_fr_1"></span>[1](#page_35_note_1.md)
 
 <table>
 <colgroup>
@@ -164,7 +164,7 @@ Crept up the pass between the hills.</td>
 
 ------------------------------------------------------------------------
 
-[Next](ife7)
+[Next](ife7.md)
 
 ------------------------------------------------------------------------
 
@@ -172,25 +172,25 @@ Crept up the pass between the hills.</td>
 
 <span id="footnotes_page_35">p. 35</span>
 
-<span id="page_35_note_1"></span>[1](#page_35_fr_1) [See Note
-VI](ife9.htm#VI) on Mórimi's sacrifice.
+<span id="page_35_note_1"></span>[1](#page_35_fr_1.md) [See Note
+VI](ife9.htm#VI.md) on Mórimi's sacrifice.
 
 <span id="footnotes_page_36">p. 36</span>
 
-<span id="page_36_note_1"></span>[1](#page_36_fr_1) [See Note
-XI](ife9.htm#XI) on Peregún ’Gbo.
+<span id="page_36_note_1"></span>[1](#page_36_fr_1.md) [See Note
+XI](ife9.htm#XI.md) on Peregún ’Gbo.
 
-<span id="page_36_note_2"></span>[2](#page_36_fr_2) [See Note
-XII](ife9.htm#XII) on the divination of Ífa.
+<span id="page_36_note_2"></span>[2](#page_36_fr_2.md) [See Note
+XII](ife9.htm#XII.md) on the divination of Ífa.
 
 <span id="footnotes_page_38">p. 38</span>
 
-<span id="page_38_note_1"></span>[1](#page_38_fr_1) Ógun kills unmarried
+<span id="page_38_note_1"></span>[1](#page_38_fr_1.md) Ógun kills unmarried
 girls of marriageable age.
 
 <span id="footnotes_page_39">p. 39</span>
 
-<span id="page_39_note_1"></span>[1](#page_39_fr_1) According to the
+<span id="page_39_note_1"></span>[1](#page_39_fr_1.md) According to the
 legend, Mórimi consulted Ífa three times before acting on his advice.
 
  

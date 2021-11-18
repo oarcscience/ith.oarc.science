@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](lots129)  [Next](lots131) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](lots129)  [Next](lots131.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001CL82NS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001CL82NS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Lives of the Saints*, by Alban Butler, Benziger Bros. ed. \[1894\], at
 Intangible Textual Heritage
 
@@ -38,6 +38,6 @@ the year 177.
 
 ------------------------------------------------------------------------
 
-[Next: 22. St. Leonides, Martyr](lots131)
+[Next: 22. St. Leonides, Martyr](lots131.md)
 
 </div>

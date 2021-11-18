@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](sig01)  [Next](sig03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](sig01)  [Next](sig03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0827600607/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0827600607/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ momentum as it proceeds on its course down the ages. The great poet
 therefore does not live for his own time. His mission is for all times.
 
 The time and place of the poet are, however, of great moment to the poet
-himself. More than the [philosopher](errata.htm#0) and the physicist, is
+himself. More than the [philosopher](errata.htm#0.md) and the physicist, is
 he affected by his surroundings. The soul of the poet is a most delicate
 instrument, extremely susceptible to everything that comes in contact
 with it. Like the harp that hung over David’s couch, the faintest breath
@@ -803,4 +803,4 @@ ISRAEL DAVIDSON
 
 ------------------------------------------------------------------------
 
-[Next: On Translating Gabirol](sig03)
+[Next: On Translating Gabirol](sig03.md)

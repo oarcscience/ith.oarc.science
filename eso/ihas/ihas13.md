@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ihas12)  [Next](ihas14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ihas12)  [Next](ihas14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Initiation, Human and Solar*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -145,7 +145,7 @@ consciousness the subjective reality, or the things of the spirit—this
 in contradistinction to the objective unreality, or the things of
 matter. The devas seek to feel, whilst man seeks to know. For the
 former, then, those expansions of consciousness which we call
-[Initiation](errata.htm#1), exist not, except in the cases of those
+[Initiation](errata.htm#1.md), exist not, except in the cases of those
 advanced beings who, having passed through the human stage, both feel
 and know, and who, under the evolutionary law, expand their knowledge in
 ever-increasing degree.
@@ -214,4 +214,4 @@ achieves. This is a great mystery and incomprehensible to us.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Participants in the Mysteries](ihas14)
+[Next: Chapter XI. The Participants in the Mysteries](ihas14.md)

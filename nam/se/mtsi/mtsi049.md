@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi048)  [Next](mtsi050) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi048)  [Next](mtsi050.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ time all rabbits have had short tails.
 
 ------------------------------------------------------------------------
 
-[Next: 48. Raccoon Gets a Deer For Panther](mtsi050)
+[Next: 48. Raccoon Gets a Deer For Panther](mtsi050.md)

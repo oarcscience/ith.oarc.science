@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs30)  [Next](mhs32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs30)  [Next](mhs32.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ Jests, like salt, should be used sparingly.
 
 ------------------------------------------------------------------------
 
-[Next: I. Origin And History](mhs32)
+[Next: I. Origin And History](mhs32.md)

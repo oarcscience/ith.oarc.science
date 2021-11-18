@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah43)  [Next](oah45) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah43)  [Next](oah45.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ arrive.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](oah45)
+[Next: Chapter II](oah45.md)

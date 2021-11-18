@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot04) 
-[Next](sot06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot04.md) 
+[Next](sot06.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ ideas."
 
 ------------------------------------------------------------------------
 
-[Next: Card III. The Empress](sot06)
+[Next: Card III. The Empress](sot06.md)

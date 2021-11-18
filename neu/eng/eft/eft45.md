@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft44)  [Next](eft46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft44)  [Next](eft46.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,4 +175,4 @@ two cases (Nos. 16 and 21) I have been more full.
 
 ------------------------------------------------------------------------
 
-[Next: Notes](eft46)
+[Next: Notes](eft46.md)

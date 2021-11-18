@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl062)  [Next](cohl064) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl062)  [Next](cohl064.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,12 +10,12 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 "'Now when my relatives heard all this they said, 'This man must be a
 clairvoyant (hênne'yo<sup>n</sup>?). <span
-id="fr_53"></span>[2](#fn_53)"
+id="fr_53"></span>[2](#fn_53.md)"
 
 <span id="page_50">p. 50</span>
 
 "The news spread and Gaiänt'wakâ came as a messenger. <span
-id="fr_54"></span>[1](#fn_54) Now he came to Ganiodai'io\` and said,
+id="fr_54"></span>[1](#fn_54.md) Now he came to Ganiodai'io\` and said,
 'Why, having the assurance of powers, do you not commence now. Come
 prophesy!' Now he had tobacco for an offering. Then he said, 'My
 daughter is very sick.'
@@ -37,7 +37,7 @@ reason. Verily I am true to my words. Now I can do nothing but try but I
 have not yet the permission of the messengers.'
 
 "Now he went into a deep sleep and when he awoke he told his vision. Now
-he said that O?gi'we <span id="fr_55"></span>[2](#fn_55) should be sung
+he said that O?gi'we <span id="fr_55"></span>[2](#fn_55.md) should be sung
 for the sick woman.
 
 "Now it is said that at that time the first song was in order but every
@@ -53,7 +53,7 @@ This was so when Gai'wiio\` was new. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_53"></span>[49:2](cohl063.htm#fr_53) Diviners of mysteries
+<span id="fn_53"></span>[49:2](cohl063.htm#fr_53.md) Diviners of mysteries
 have always been prominent characters among the Indians. Their office
 was to tell their clients the proper medicine society <span
 id="page_50">p. 50</span> that would be most efficacious in curing the
@@ -61,16 +61,16 @@ sick, to discover the whereabouts of lost children or articles, to
 discover what witch was working her spells, and to tell fortunes, as
 well as to interpret dreams.
 
-<span id="fn_54"></span>[50:1](cohl063.htm#fr_54) Cornplanter again
+<span id="fn_54"></span>[50:1](cohl063.htm#fr_54.md) Cornplanter again
 endeavored to get his brother into disfavor with the four messengers by
 forcing him to exercise his powers prematurely. For this reason the
 followers of Handsome Lake to this day regard Cornplanter as a malicious
 character who ever tried to upset the Gai'wiio\`.
 
-<span id="fn_55"></span>[50:2](cohl063.htm#fr_55) The death chant, a
+<span id="fn_55"></span>[50:2](cohl063.htm#fr_55.md) The death chant, a
 ceremony belonging to the O?gi?weono? or Society of Chanters. See the
 legend *Origin of the Death Dance*.
 
 ------------------------------------------------------------------------
 
-[Next: Section 53](cohl064)
+[Next: Section 53](cohl064.md)

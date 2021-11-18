@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto03) 
-[Next](aoto05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto03.md) 
+[Next](aoto05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -146,7 +146,7 @@ As for the "Odyssey" having been written by a woman, they will tell me
 that I have not even established a *primâ facie* case for my opinion. Of
 course I have not. It was Bentley who did this, when he said that the
 "Iliad" was written for men, and the "Odyssey" for women. <span
-id="fr_0"></span>[\*](#fn_0) The history of literature furnishes us with
+id="fr_0"></span>[\*](#fn_0.md) The history of literature furnishes us with
 no case in which a man has written a great masterpiece for women rather
 than men. If an anonymous book strikes so able a critic as having been
 written for women, a *primâ facie* case is established for thinking that
@@ -204,7 +204,7 @@ authorship was prominently insisted on by many people more than two
 thousand years ago, not a single Homeric student from those days to the
 end of the last century could be brought to acknowledge what we now deem
 self-evident. Professor Jebb, writing of Bentley, <span
-id="fr_1"></span>[\*](#fn_1) says
+id="fr_1"></span>[\*](#fn_1.md) says
 
 <div style="font-size: 90%">
 
@@ -221,7 +221,7 @@ by Mr. Gladstone, if
 
 <span class="contnote">\[paragraph continues\]</span> Homer is old, the
 systematic and comprehensive study of him is still young. <span
-id="fr_2"></span>[\*](#fn_2)
+id="fr_2"></span>[\*](#fn_2.md)
 
 I shall not argue the question whether the "Iliad" and "Odyssey" are by
 the same person, inasmuch as if I convince the reader that the "Odyssey"
@@ -272,7 +272,7 @@ affectation as the "Odyssey" will speed best being unaffectedly told.
 When I came to the Phæacian episode I felt sure that here at any rate
 the writer was drawing from life, and that Nausicaa, Queen Arēte, and
 Alcinous were real people more or less travestied, and on turning to
-Colonel Mure's work <span id="fr_3"></span>[\*](#fn_3) I saw that he was
+Colonel Mure's work <span id="fr_3"></span>[\*](#fn_3.md) I saw that he was
 of the same opinion. Nevertheless I found myself continually aghast at
 the manner in which men were made to speak and act—especially, for
 example, during the games in honour of Ulysses described in Book viii.
@@ -405,7 +405,7 @@ fascinating the reader. Indeed, if I had to sacrifice one or the other,
 I can hardly doubt that I should let the "Iliad" go rather than the
 "Odyssey"—just as if I had to sacrifice either Mont Blanc or Monte Rosa,
 I should sacrifice Mont Blanc, though I know it to be in many respects
-the grander mountain of the two. <span id="fr_4"></span>[\*](#fn_4)
+the grander mountain of the two. <span id="fr_4"></span>[\*](#fn_4.md)
 
 <span id="page_11">p. 11</span>
 
@@ -498,7 +498,7 @@ when the use of the pen had
 <span id="page_13">p. 13</span>
 
 become familiar? If a woman could work pictures with her needle as Helen
-did, <span id="fr_5"></span>[\*](#fn_5) and as the wife of William the
+did, <span id="fr_5"></span>[\*](#fn_5.md) and as the wife of William the
 Conqueror did in a very similar civilisation, she could write stories
 with her pen if she had a mind to do so.
 
@@ -522,24 +522,24 @@ in the height of the fashion.
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:\*](aoto04.htm#fr_0) See *Introduction to the
+<span id="fn_0"></span>[4:\*](aoto04.htm#fr_0.md) See *Introduction to the
 Iliad and the Odyssey*, by R. C. Jebb, 1888, p. 106.
 
-<span id="fn_1"></span>[5:\*](aoto04.htm#fr_1) *Bentley*, English Men of
+<span id="fn_1"></span>[5:\*](aoto04.htm#fr_1.md) *Bentley*, English Men of
 Letters, Macmillan, 1892, p. 148.
 
-<span id="fn_2"></span>[6:\*](aoto04.htm#fr_2) *Homer*, Macmillan, 1878,
+<span id="fn_2"></span>[6:\*](aoto04.htm#fr_2.md) *Homer*, Macmillan, 1878,
 p. 2.
 
-<span id="fn_3"></span>[7:\*](aoto04.htm#fr_3) *Language and Literature
+<span id="fn_3"></span>[7:\*](aoto04.htm#fr_3.md) *Language and Literature
 of Ancient Greece*, Longman, 1850, Vol. I., p. 404.
 
-<span id="fn_4"></span>[10:\*](aoto04.htm#fr_4) Shakespeare, of course,
+<span id="fn_4"></span>[10:\*](aoto04.htm#fr_4.md) Shakespeare, of course,
 is the whole chain of the Alps, comprising both Mont Blanc and Monte
 Rosa.
 
-<span id="fn_5"></span>[13:\*](aoto04.htm#fr_5) "Iliad," iii. 126.
+<span id="fn_5"></span>[13:\*](aoto04.htm#fr_5.md) "Iliad," iii. 126.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](aoto05)
+[Next: Introduction](aoto05.md)

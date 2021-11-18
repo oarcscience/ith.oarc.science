@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip61)  [Next](fip63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip61)  [Next](fip63.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ well Clebach.
 
 ------------------------------------------------------------------------
 
-[Next: King O'Toole And His Goose, by S. Lover](fip63)
+[Next: King O'Toole And His Goose, by S. Lover](fip63.md)

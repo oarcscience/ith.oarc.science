@@ -14,7 +14,7 @@ attempt to design an ideal society. Following the death of Socrates he
 travelled widely in search of learning. After twelve years he returned
 to Athens and founded his Academy, one of the earliest organized schools
 in western civilization. Among Plato's pupils was
-[Aristotle](../ari/index). Some of Plato's other influences were
+[Aristotle](../ari/index.md). Some of Plato's other influences were
 Pythagoras, Anaxagoras, and Parmenides.
 
 Plato wrote extensively and most of his writings survived. His works are
@@ -26,11 +26,11 @@ the world of perception. The most famous exposition of this is his
 metaphor of the Cave, where people living in a cave are only able to see
 flickering shadows projected on the wall of the external reality. This
 influenced many later thinkers, particularly the Neoplatonists and the
-[Gnostics](../../gno/index), and is similar to views held by some
-schools of [Hindu](../../hin/index) dualistic metaphysics.
+[Gnostics](../../gno/index.md), and is similar to views held by some
+schools of [Hindu](../../hin/index.md) dualistic metaphysics.
 
 Plato died in 347 B.C.E. In the middle ages he was eclipsed by
-[Aristotle](../ari/index). His works were saved for posterity by Islamic
+[Aristotle](../ari/index.md). His works were saved for posterity by Islamic
 scholars and reintroduced into the west in the Renaissance. Since then
 he has been a strong influence on philosophy, as well as natural and
 social science.
@@ -47,29 +47,29 @@ to be expressing his own views. These are the only remaining record of
 Socrates' teachings; hence these are known as the Socratic dialogues.
 
 <span class="c_e"> <span class="c_t">[Apology (the Death of
-Socrates)](apology)</span>  
+Socrates)](apology.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
-</span> <span class="c_e"> <span class="c_t">[Crito](crito)</span>  
+</span> <span class="c_e"> <span class="c_t">[Crito](crito.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span class="c_t">[Charmides, or
-Temperance](charm)</span>  
+Temperance](charm.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span class="c_t">[Laches or
-Courage](laches)</span>  
+Courage](laches.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span class="c_t">[Lysis, or
-Friendship](lysis)</span>  
+Friendship](lysis.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span
-class="c_t">[Euthyphro](euthyphr)</span>  
+class="c_t">[Euthyphro](euthyphr.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
-</span> <span class="c_e"> <span class="c_t">[Ion](ion)</span>  
+</span> <span class="c_e"> <span class="c_t">[Ion](ion.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span>
@@ -80,45 +80,45 @@ In these dialogues, Plato begins expressing his own views, in the guise
 of Socrates. The Symposium and Republic are the most important works in
 this period.
 
-<span class="c_e"> <span class="c_t">[Gorgias](gorgias)</span>  
+<span class="c_e"> <span class="c_t">[Gorgias](gorgias.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span
-class="c_t">[Protagoras](protagor)</span>  
+class="c_t">[Protagoras](protagor.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
-</span> <span class="c_e"> <span class="c_t">[Meno](meno)</span>  
-translated by <span class="c_a">Benjamin Jowett</span> \[<span
-class="c_d">1871</span>\]  
-</span> <span class="c_e"> <span
-class="c_t">[Euthydemus](euthyde)</span>  
+</span> <span class="c_e"> <span class="c_t">[Meno](meno.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span
-class="c_t">[Cratylus](cratylus)</span>  
-translated by <span class="c_a">Benjamin Jowett</span> \[<span
-class="c_d">1871</span>\]  
-</span> <span class="c_e"> <span class="c_t">[Phaedo](phaedo)</span>  
+class="c_t">[Euthydemus](euthyde.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span
-class="c_t">[Phaedrus](phaedrus)</span>  
+class="c_t">[Cratylus](cratylus.md)</span>  
+translated by <span class="c_a">Benjamin Jowett</span> \[<span
+class="c_d">1871</span>\]  
+</span> <span class="c_e"> <span class="c_t">[Phaedo](phaedo.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span
-class="c_t">[Symposium](symposiu)</span>  
+class="c_t">[Phaedrus](phaedrus.md)</span>  
+translated by <span class="c_a">Benjamin Jowett</span> \[<span
+class="c_d">1871</span>\]  
+</span> <span class="c_e"> <span
+class="c_t">[Symposium](symposiu.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span class="c_t">[The
-Republic](rep/index)</span>  
+Republic](rep/index.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span
-class="c_t">[Theaetetus](theaetet)</span>  
+class="c_t">[Theaetetus](theaetet.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span
-class="c_t">[Parmenides](parmeni)</span>  
+class="c_t">[Parmenides](parmeni.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span>
@@ -128,28 +128,28 @@ class="c_d">1871</span>\]
 The later dialogues are deeper developments of the philosophy expressed
 in the earlier ones; these are the most difficult of Plato's works.
 
-<span class="c_e"> <span class="c_t">[Sophist](sophist)</span>  
+<span class="c_e"> <span class="c_t">[Sophist](sophist.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span
-class="c_t">[Statesman](statesma)</span>  
+class="c_t">[Statesman](statesma.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span
-class="c_t">[Philebus](philebus)</span>  
+class="c_t">[Philebus](philebus.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
-</span> <span class="c_e"> <span class="c_t">[Timaeus](timaeus)</span>  
+</span> <span class="c_e"> <span class="c_t">[Timaeus](timaeus.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
-</span> <span class="c_e"> <span class="c_t">[Critias](critias)</span>  
+</span> <span class="c_e"> <span class="c_t">[Critias](critias.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
-</span> <span class="c_e"> <span class="c_t">[Laws](laws/index)</span>  
+</span> <span class="c_e"> <span class="c_t">[Laws](laws/index.md)</span>  
 translated by <span class="c_a">Benjamin Jowett</span> \[<span
 class="c_d">1871</span>\]  
 </span> <span class="c_e"> <span class="c_t">[The Seventh
-Letter](seventh)</span>  
+Letter](seventh.md)</span>  
 translated by <span class="c_a">J. Harward</span> \[<span
 class="c_d">1928</span>\]  
 </span> <span class="c_da"></span>

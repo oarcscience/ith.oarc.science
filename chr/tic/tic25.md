@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic24)  [Next](tic26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic24)  [Next](tic26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ creatures, seeing how sovereign are His majesty and power.
 2\. For example, a person who is in no way expecting such a favour nor
 has ever imagined herself worthy of receiving it, is conscious that
 Jesus Christ stands by her side although she sees Him neither with the
-eyes of the body nor of the soul. <span id="fr_344"></span>[1](#fn_344)
+eyes of the body nor of the soul. <span id="fr_344"></span>[1](#fn_344.md)
 This is called an intellectual vision; I cannot tell why. I knew a
 person to whom God granted both this grace and others I shall describe
 later on. At first it distressed her, for she could not understand it;
@@ -57,14 +57,14 @@ it was some kind of vision, whether it came from God or no. Its powerful
 effects were a strong argument that it was from Him; still she was
 alarmed, never having heard of an intellectual vision, nor was she aware
 that such a thing could be. She however felt certain of our Lord's
-presence, <span id="fr_345"></span>[2](#fn_345) and He spoke to her
+presence, <span id="fr_345"></span>[2](#fn_345.md) and He spoke to her
 several times in the way that I described. Before she had received this
 favour, she had heard words spoken but had never known who uttered them.
 
 3\. She was frightened by this vision which, unlike an imaginary one,
 does not pass away quickly but lasts for several days and even sometimes
 for more than a year. She went, in a state of great anxiety, to her
-confessor <span id="fr_346"></span>[3](#fn_346) who asked her how, if
+confessor <span id="fr_346"></span>[3](#fn_346.md) who asked her how, if
 she saw
 
 <span id="page_230">p. 230</span>
@@ -76,7 +76,7 @@ was the fact that it was He Who spoke to her and it was no trick of her
 imagination. Although people constantly cautioned her against this
 vision, as a rule she found it impossible to disbelieve in it,
 especially when she heard the words: 'It is I, be not afraid' <span
-id="fr_347"></span>[4](#fn_347)
+id="fr_347"></span>[4](#fn_347.md)
 
 4\. The effect of this speech was so powerful that for the time being
 she could not doubt its truth. She felt much encouraged and rejoiced at
@@ -104,11 +104,11 @@ clearly.
 5\. However, I know that she often felt great alarm and was at times
 overcome with confusion, being unable to account for so high a favour
 having been granted her. She and I were so very intimate <span
-id="fr_348"></span>[5](#fn_348) that I knew all that passed in her soul,
+id="fr_348"></span>[5](#fn_348.md) that I knew all that passed in her soul,
 hence my account is thoroughly true and reliable. This favour brings
 with it an overwhelming sense of self-abasement and humility; the
 reverse would be the case, did it come from Satan. <span
-id="fr_349"></span>[6](#fn_349) It is evidently divine; no human effort
+id="fr_349"></span>[6](#fn_349.md) It is evidently divine; no human effort
 could produce such feelings nor could any one suppose that such profit
 came from herself, but must needs recognize it as a gift from the hand
 of God.
@@ -136,7 +136,7 @@ riches or delight.
 loneliness makes every possible effort to induce Him to return. This
 avails but little, for this grace comes at His will and not by our
 endeavours. At times we may enjoy the company of some saint, <span
-id="fr_350"></span>[7](#fn_350) which also brings us great profit. You
+id="fr_350"></span>[7](#fn_350.md) which also brings us great profit. You
 will ask me, if we see no one, how can we know whether it is Christ, or
 His most glorious Mother, or a saint? Such a person cannot answer this
 question or know how she distinguishes them, but the fact remains
@@ -167,7 +167,7 @@ cause such interior peace. It is not his custom, nor, if he would, could
 such an evil creature bring about so much good; the soul would soon be
 clouded by self-esteem and the idea that it was better than others. The
 mind's continual keeping in the presence of God <span
-id="fr_351"></span>[8](#fn_351) and the concentration of its thoughts on
+id="fr_351"></span>[8](#fn_351.md) and the concentration of its thoughts on
 Him would so enrage the fiend that, although he might try the experiment
 once, he would not often repeat it. God is too faithful to permit him so
 much power over one whose sole endeavour is to please His Majesty and to
@@ -189,9 +189,9 @@ the results I described. It would be well at first to tell your case,
 under the seal of confession, to a thoroughly qualified theologian (for
 that is the source whence we must obtain light) or to some highly
 spiritual person. If your confessor is not very spiritual, a good
-theologian would be preferable; <span id="fr_352"></span>[9](#fn_352)
+theologian would be preferable; <span id="fr_352"></span>[9](#fn_352.md)
 best of all, one who unites both qualities. <span
-id="fr_353"></span>[10](#fn_353) Do not be disturbed if he calls it mere
+id="fr_353"></span>[10](#fn_353.md) Do not be disturbed if he calls it mere
 fancy; if it is, it can neither harm nor benefit your soul much.
 Recommend yourself to the divine Majesty and beg Him not to allow you to
 be misled.
@@ -201,7 +201,7 @@ although no learned man would say so if he sees in you the effects
 described. Even should your adviser say this, I know that the same Lord
 Who is beside you will comfort and reassure you and will go to your
 counsellor and give him light that he may impart it to you. <span
-id="fr_354"></span>[11](#fn_354) If the director, though given to
+id="fr_354"></span>[11](#fn_354.md) If the director, though given to
 prayer, has not been led by God in this way, he will at once take fright
 and condemn it. Therefore I advise you to choose
 
@@ -219,7 +219,7 @@ especially if he is inexperienced and timid or if he bids her consult
 him again.
 
 12\. Thus that which should have been kept strictly private becomes
-public; <span id="fr_355"></span>[12](#fn_355) such a person is
+public; <span id="fr_355"></span>[12](#fn_355.md) such a person is
 persecuted and tormented and finds that what she believed to be her own
 secret has become public property. Hence she suffers many troubles which
 may even devolve upon the Order in such times as these. Consequently I
@@ -244,30 +244,30 @@ praised. Amen.
 
 ### Footnotes
 
-<span id="fn_344"></span>[229:1](tic25.htm#fr_344) *Life*, ch. xxvii. 3,
+<span id="fn_344"></span>[229:1](tic25.htm#fr_344.md) *Life*, ch. xxvii. 3,
 5. *Rel*. vii. 26.
 
-<span id="fn_345"></span>[229:2](tic25.htm#fr_345) *Life*, ch. xxvii. 7.
+<span id="fn_345"></span>[229:2](tic25.htm#fr_345.md) *Life*, ch. xxvii. 7.
 
-<span id="fn_346"></span>[229:3](tic25.htm#fr_346) *Ibid*. *l.c.* 4.
+<span id="fn_346"></span>[229:3](tic25.htm#fr_346.md) *Ibid*. *l.c.* 4.
 Father Juan de Pradanos was then the Saint's confessor.
 
-<span id="fn_347"></span>[230:4](tic25.htm#fr_347) *Life*, ch. xxv. 22;
+<span id="fn_347"></span>[230:4](tic25.htm#fr_347.md) *Life*, ch. xxv. 22;
 XXX. 17. *Supra*, M. vi. ch. iii. 5. *Rel*. vii. 22. St. John of the
 Cross, *Ascent of Mount Carmel*, bk. ii. ch. xxxi. 1.
 
-<span id="fn_348"></span>[231:5](tic25.htm#fr_348) In fact, one and the
+<span id="fn_348"></span>[231:5](tic25.htm#fr_348.md) In fact, one and the
 same person.
 
-<span id="fn_349"></span>[231:6](tic25.htm#fr_349) *Life*, ch. xix. a;
+<span id="fn_349"></span>[231:6](tic25.htm#fr_349.md) *Life*, ch. xix. a;
 xx. 38. *Way of Perf.* ch. xxxvi. 10.
 
-<span id="fn_350"></span>[232:7](tic25.htm#fr_350) *Life*, ch. xxix 6.
+<span id="fn_350"></span>[232:7](tic25.htm#fr_350.md) *Life*, ch. xxix 6.
 
-<span id="fn_351"></span>[233:8](tic25.htm#fr_351) Gen. xvii, 1: 'Ambula
+<span id="fn_351"></span>[233:8](tic25.htm#fr_351.md) Gen. xvii, 1: 'Ambula
 coram me et esto perfectus.'
 
-<span id="fn_352"></span>[234:9](tic25.htm#fr_352) 'Magni doctores
+<span id="fn_352"></span>[234:9](tic25.htm#fr_352.md) 'Magni doctores
 scholastici, si non sint spirituales, vel omni rerum spiritualium
 experientia careant, non solent esse magistri spirituales idonei--nam
 theologia scholastica est perfectio intellectus; mystica, perfectio
@@ -276,14 +276,14 @@ malus theologus mysticus. In rebus tamen difficilibus, dubiis,
 spiritualibus, præstat mediocriter spiritualem theologum consulere quam
 spiritualem idiotam.' (Schram, Theol. Myst. § 483.)
 
-<span id="fn_353"></span>[234:10](tic25.htm#fr_353) *Life*, ch. v. 6.
+<span id="fn_353"></span>[234:10](tic25.htm#fr_353.md) *Life*, ch. v. 6.
 
-<span id="fn_354"></span>[234:11](tic25.htm#fr_354) *Ibid*. ch. xxv. 18
+<span id="fn_354"></span>[234:11](tic25.htm#fr_354.md) *Ibid*. ch. xxv. 18
 *sqq*. *Way of Perf.* ch. iv. 11; v. 3.
 
-<span id="fn_355"></span>[235:12](tic25.htm#fr_355) *Life*, ch. xxiii.
+<span id="fn_355"></span>[235:12](tic25.htm#fr_355.md) *Life*, ch. xxiii.
 14-15. *Rel*. vii. 17.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Imaginary Visions](tic26)
+[Next: Chapter IX. Imaginary Visions](tic26.md)

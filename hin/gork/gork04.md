@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork03)  [Next](gork05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork03)  [Next](gork05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 ### SRÎ RÂMAKRISHNA AT THE TEMPLE OF DAKSHINESWARA
 
 <span class="margnote">Where Râmakrishna lived.</span><span
-class="smallcaps">Bhagavân</span> <span id="fr_4"></span>[\*](#fn_4)
+class="smallcaps">Bhagavân</span> <span id="fr_4"></span>[\*](#fn_4.md)
 <span class="smallcaps">Srî Râmakrishna</span> lived for many years in
 Râni Râshmoni's celebrated Temple garden on the eastern bank of the
 Ganges in the village of Dakshineswara about four miles north of
@@ -59,7 +59,7 @@ the nectar of the living words of Divine wisdom
 that fell from His hallowed lips. With a smiling face Srî Râmakrishna
 was speaking to them of the power of the Lord's Holy Name and true
 Bhakti as the means of attaining God-vision. Addressing Bijoy, <span
-id="fr_5"></span>[\*](#fn_5) He asked: What do you say is the means of
+id="fr_5"></span>[\*](#fn_5.md) He asked: What do you say is the means of
 attaining to God?
 
 <span class="margnote">Power of the Lord's Holy Name.</span>Bijoy:
@@ -73,7 +73,7 @@ tarantula, mere repetition of a *mantram* will not do; a special remedy
 is necessary.
 
 Bijoy: If that be the case, Bhagavan, then how did Ajâmila, <span
-id="fr_6"></span>[†](#fn_6) who was the greatest of
+id="fr_6"></span>[†](#fn_6.md) who was the greatest of
 
 <span id="page_24">p. 24</span>
 
@@ -107,11 +107,11 @@ true devotion and love, one can reach God by any of the sectarian
 religions. The Vaishnavas, the worshippers of Krishna, will attain God
 in the same way as the Sâktas, the worshippers of the Divine Mother or
 the followers of Vedânta. Those who belong to the Brâhmo-Samâj, <span
-id="fr_7"></span>[\*](#fn_7) the Mahometans and Christians, will also
+id="fr_7"></span>[\*](#fn_7.md) the Mahometans and Christians, will also
 realize God through their respective religions. If you follow any of
 these paths with intense devotion, you will reach Him. If there be any
 mistake in the path chosen, He will correct the mistake in the long run.
-The man who wishes to see Jagannâth <span id="fr_8"></span>[†](#fn_8)
+The man who wishes to see Jagannâth <span id="fr_8"></span>[†](#fn_8.md)
 may go towards the South instead of
 
 <span id="page_26">p. 26</span>
@@ -129,8 +129,8 @@ one, but is worshipped under different names according to the time,
 place and nationality of His worshippers. All the different Scriptures
 of the world speak of the same God. He who is described in the Vedas as
 Absolute Existence-Intelligence-Bliss or Brahman, is also described in
-the Tantras <span id="fr_9"></span>[\*](#fn_9) as Shiva, in the
-Purânas <span id="fr_10"></span>[†](#fn_10) as Krishna, in the Koran as
+the Tantras <span id="fr_9"></span>[\*](#fn_9.md) as Shiva, in the
+Purânas <span id="fr_10"></span>[†](#fn_10.md) as Krishna, in the Koran as
 Allah, and in the Bible as Christ. Yet
 
 <span id="page_27">p. 27</span>
@@ -161,7 +161,7 @@ among themselves, saying: "God is personal, with form. He cannot be
 impersonal and formless,"—like the Vaishnavas who find fault with those
 who worship the Impersonal Brahman. When realization comes, then all
 these questions are settled. He who has seen God can tell exactly what
-He is like. As Kavira <span id="fr_11"></span>[\*](#fn_11) said: "God
+He is like. As Kavira <span id="fr_11"></span>[\*](#fn_11.md) said: "God
 with form is my Mother, God without form is my Father. Whom shall I
 blame, whom shall I praise? The balance is even." He is with form, yet
 He is formless. He is personal, yet He is impersonal, and who can say
@@ -240,7 +240,7 @@ are places where the ice never melts, it becomes crystallized.
 
 <span id="page_32">p. 32</span>
 
-Kedâr: <span id="fr_12"></span>[\*](#fn_12) Bhagavan, it is also said in
+Kedâr: <span id="fr_12"></span>[\*](#fn_12.md) Bhagavan, it is also said in
 the Scriptures: "O Lord, Thou art beyond speech and mind, but I have
 described Thy Personal form only, do Thou forgive me for this offense."
 
@@ -267,7 +267,7 @@ rejoicing and holding herself in readiness for the sacred ceremony of
 the Ârati (evening service).
 
 One by one the disciples began to take their leave. Mahendra <span
-id="fr_13"></span>[\*](#fn_13) and his friend, who had been visiting the
+id="fr_13"></span>[\*](#fn_13.md) and his friend, who had been visiting the
 different temples, now wended their way back through the grand
 quadrangle to Srî Râmakrishna's chamber. Coming up to the door of the
 room, they noticed that it was closed. Near the door stood a
@@ -290,13 +290,13 @@ Brindâ: Why, you may go in, my. children. Go in and take your seats
 before Him.
 
 Thereupon they entered the room. No other people were there. Bhagavân
-Srî [Râmakrishna](errata.htm#2) was alone, seated as in the afternoon on
+Srî [Râmakrishna](errata.htm#2.md) was alone, seated as in the afternoon on
 the platform beside His bed. Incense was burning and the doors were
 closed. Mahendra saluted the Bhagavân with folded hands. A mat was
 pointed out on the floor. At His word Mahendra and his friend took their
 seats upon it. The Bhagavân asked him: What is your name? Where do you
 live? What are you? What has brought you to Barâhanagore? <span
-id="fr_14"></span>[\*](#fn_14)
+id="fr_14"></span>[\*](#fn_14.md)
 
 Mahendra answered each of these questions, but he noticed that in the
 course of the conversation Srî Râmakrishna's mind was fixed upon some
@@ -330,41 +330,41 @@ good-bye, saying, "Come again."
 
 ### Footnotes
 
-<span id="fn_4"></span>[21:\*](gork04.htm#fr_4) "Bhagavân" is a Sanskrit
+<span id="fn_4"></span>[21:\*](gork04.htm#fr_4.md) "Bhagavân" is a Sanskrit
 word meaning "The Blessed Lord." When the word is used without the
 accent on "a" of the last syllable it signifies the vocative case used
 in addressing a Saviour.
 
-<span id="fn_5"></span>[23:\*](gork04.htm#fr_5) Bijoy was the first name
+<span id="fn_5"></span>[23:\*](gork04.htm#fr_5.md) Bijoy was the first name
 of Bijoy Krishna Goswami, the celebrated preacher, lecturer, writer and
 spiritual teacher (Âchârya) of the Brâhmo Samâj in Calcutta.
 
-<span id="fn_6"></span>[23:†](gork04.htm#fr_6) Ajâmila was the name of a
+<span id="fn_6"></span>[23:†](gork04.htm#fr_6.md) Ajâmila was the name of a
 sinner who received salvation by repeating the name of the Lord (which
 was also the name <span id="page_24">p. 24</span> of his son) at the
 last moment of his life. The story of his life is given in the Purânas
 and is well known to the Hindus.
 
-<span id="fn_7"></span>[25:\*](gork04.htm#fr_7) Brâhmo Samâj is the name
+<span id="fn_7"></span>[25:\*](gork04.htm#fr_7.md) Brâhmo Samâj is the name
 of the Hindu Unitarian church founded by Râjâ Râmmohun Roy in 1830 A D.
 It has now various branches in India. The original organization is now
 known as the Âdi Samâj Keshab Chunder Sen was the founder of the sect
 called "New Dispensation," while Shivanâth Sâstri was the founder of the
 Sâdhâran Brâhmo Samâj.
 
-<span id="fn_8"></span>[25:†](gork04.htm#fr_8) Jagannâth literally means
+<span id="fn_8"></span>[25:†](gork04.htm#fr_8.md) Jagannâth literally means
 the "Lord of the Universe." There is a great Temple at Puri in India
 where the Car festival <span id="page_26">p. 26</span> takes place every
 year. Hence the common expression "The Car of Juggernath."
 
-<span id="fn_9"></span>[26:\*](gork04.htm#fr_9) Tantras are sacred
+<span id="fn_9"></span>[26:\*](gork04.htm#fr_9.md) Tantras are sacred
 writings of the Shaiva and Sâkta sects among the Hindus.
 
-<span id="fn_10"></span>[26:†](gork04.htm#fr_10) Purânas are the sacred
+<span id="fn_10"></span>[26:†](gork04.htm#fr_10.md) Purânas are the sacred
 Scriptures of the Hindus next in authority to the Vedas. There are 18
 Great Purânas and many smaller Purânas.
 
-<span id="fn_11"></span>[28:\*](gork04.htm#fr_11) Kavira was a Hindu
+<span id="fn_11"></span>[28:\*](gork04.htm#fr_11.md) Kavira was a Hindu
 saint who lived between 1488 and 1512 A.D. Rising from the low caste of
 a weaver he became the founder of a Vaishnava sect called after his name
 "Kavira Panth." His teachings were so broad and universal that they were
@@ -372,11 +372,11 @@ accepted by the Mahometans as well as the Hindus of all castes. Even now
 there are thousands among the lower classes of the Hindus who regard him
 as their spiritual master.
 
-<span id="fn_12"></span>[32:\*](gork04.htm#fr_12) Kedâr was a great
+<span id="fn_12"></span>[32:\*](gork04.htm#fr_12.md) Kedâr was a great
 dualistic Bhakta, or a lover of God. He belonged to the Vaishnava sect
 of Chaitanya. He regarded Râmakrishna as the Incarnation of Divine Love.
 
-<span id="fn_13"></span>[33:\*](gork04.htm#fr_13) Mahendra is the first
+<span id="fn_13"></span>[33:\*](gork04.htm#fr_13.md) Mahendra is the first
 name of Babu Mahendra Nath Gupta. He was a professor of English
 literature in Calcutta University. He is a devoted householder disciple
 of Râmakrishna. He is the author of "Râmakrishna Kathâmrita" (or The
@@ -384,10 +384,10 @@ Nectar of the Sayings of Râmakrishna) in Bengali. It was he who kept a
 diary of the events which are now translated and embodied in the present
 volume.
 
-<span id="fn_14"></span>[34:\*](gork04.htm#fr_14) Barâhanagore is a
+<span id="fn_14"></span>[34:\*](gork04.htm#fr_14.md) Barâhanagore is a
 suburb of Calcutta.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. Srî Râmakrishna With his Disciples at the
-Temple](gork05)
+Temple](gork05.md)

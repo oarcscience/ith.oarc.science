@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](mog12)  [Next](mog14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](mog12)  [Next](mog14.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Mysteries of Genesis*, by Charles Fillmore, \[1936\], at Intangible
 Textual Heritage
 
@@ -1082,4 +1082,4 @@ with health, life, substance, and abundance.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 12](mog14)
+[Next: Chapter 12](mog14.md)

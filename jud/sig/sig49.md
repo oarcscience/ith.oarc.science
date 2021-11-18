@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](sig48)  [Next](sig50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](sig48)  [Next](sig50.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0827600607/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0827600607/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ Soul and strength in adoring Thee faint and sink,
 
 ------------------------------------------------------------------------
 
-[Next: 47. Passover Psalm](sig50)
+[Next: 47. Passover Psalm](sig50.md)

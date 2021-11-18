@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp61)  [Next](prp63) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp61)  [Next](prp63.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ by the name of Boötes; Erigone the Virgin; and Maera, Canicula, Sirius,
 
 ------------------------------------------------------------------------
 
-[Next: 63. 'Tis not enough, my friends, I set my seat](prp63)
+[Next: 63. 'Tis not enough, my friends, I set my seat](prp63.md)

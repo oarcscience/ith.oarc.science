@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](lcc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](lcctxt.zip)
+[Contents](#contents)    [Start Reading](lcc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](lcctxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -37,13 +37,13 @@ Index](pageidx)    [Text \[Zipped\]](lcctxt.zip)
 The Mricchakatika, or Little Clay Cart, is one of the oldest Indian
 plays known, probably written about the 2nd century BCE. This is the
 only work by the author King Shudraka, who preceded the more famous
-[Kalidasa](../sha/index) by about five centuries. Little else is known
+[Kalidasa](../sha/index.md) by about five centuries. Little else is known
 about the author.
 
 The play is a what is today known as a 'screwball comedy.' The central
 character, Vasantasena, is a courtesan, involved in a love triangle.
 Courtesans were a class of female entertainers, who were skilled in the
-[arts of love](../../sex/kama/index). They had long-term relationships
+[arts of love](../../sex/kama/index.md). They had long-term relationships
 with their clients, and some become wealthy or even formal wives, (as
 does Vasantasena), so they had both social mobility and independence.
 The characters span society from high to low, including royals,
@@ -60,23 +60,23 @@ comments instead of marginally as normal.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](lcc00)  
-[Contents](lcc01)  
-[Note by the Editor](lcc02)  
-[Preface](lcc03)  
-[Introduction](lcc04)  
-[Dramatis Personae](lcc05)  
-[Prologue](lcc06)  
-[Act the First: The Gems Are Left Behind](lcc07)  
-[Act the Second: The Shampooer Who Gambled](lcc08)  
-[Act the Third: The Hole in the Wall](lcc09)  
-[Act the Fourth: Madanikā and Sharvilaka](lcc10)  
-[Act the Fifth: The Storm](lcc11)  
-[Act the Sixth: The Swapping of the Bullock-Carts](lcc12)  
-[Act the Seventh: Aryaka's Escape](lcc13)  
-[Act the Eighth: The Strangling of Vasantasenā](lcc14)  
-[Act the Ninth: The Trial](lcc15)  
-[Act the Tenth: The End](lcc16)  
-[Epilogue](lcc17)  
+<span id="contents"></span> [Title Page](lcc00.md)  
+[Contents](lcc01.md)  
+[Note by the Editor](lcc02.md)  
+[Preface](lcc03.md)  
+[Introduction](lcc04.md)  
+[Dramatis Personae](lcc05.md)  
+[Prologue](lcc06.md)  
+[Act the First: The Gems Are Left Behind](lcc07.md)  
+[Act the Second: The Shampooer Who Gambled](lcc08.md)  
+[Act the Third: The Hole in the Wall](lcc09.md)  
+[Act the Fourth: Madanikā and Sharvilaka](lcc10.md)  
+[Act the Fifth: The Storm](lcc11.md)  
+[Act the Sixth: The Swapping of the Bullock-Carts](lcc12.md)  
+[Act the Seventh: Aryaka's Escape](lcc13.md)  
+[Act the Eighth: The Strangling of Vasantasenā](lcc14.md)  
+[Act the Ninth: The Trial](lcc15.md)  
+[Act the Tenth: The End](lcc16.md)  
+[Epilogue](lcc17.md)  
 [A List of Passages in Which the Translation Departs From Parab's
-Text](lcc18)  
+Text](lcc18.md)  

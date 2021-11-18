@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi096)  [Next](mtsi098) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi096)  [Next](mtsi098.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ This is how it is told.
 
 ------------------------------------------------------------------------
 
-[Next: 5. The Man-eating Bird](mtsi098)
+[Next: 5. The Man-eating Bird](mtsi098.md)

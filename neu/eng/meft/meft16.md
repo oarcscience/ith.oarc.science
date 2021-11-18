@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft15)  [Next](meft17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft15)  [Next](meft17.md) 
 
 ------------------------------------------------------------------------
 
 # Johnny Gloke
 
 <span id="img_017"></span> [![](tn/017.jpg)  
-Click to enlarge](img/017.jpg)
+Click to enlarge](img/017.jpg.md)
 
 JOHNNY GLOKE was a tailor by trade, but like a man of spirit he grew
 tired of his tailoring, and wished to follow some other path that would
@@ -85,4 +85,4 @@ king.
 
 ------------------------------------------------------------------------
 
-[Next: Coat o' Clay](meft17)
+[Next: Coat o' Clay](meft17.md)

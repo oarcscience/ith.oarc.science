@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal090)  [Next](njal092) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal090)  [Next](njal092.md) 
 
 ------------------------------------------------------------------------
 
@@ -264,4 +264,4 @@ nine ells over a dike.
 
 ------------------------------------------------------------------------
 
-[Next: 92. Kettle Takes Hauskuld As His Foster-son](njal092)
+[Next: 92. Kettle Takes Hauskuld As His Foster-son](njal092.md)

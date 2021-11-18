@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd24)  [Next](odd26) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd24)  [Next](odd26.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 LONG, long while ago there lived a Rajah and Ranee, who had one only
 daughter, and she was the most beautiful Princess in the world. Her face
 was as fair and delicate as the clear moonlight, and they called her
-Sodewa Bai  <span id="fr_77"></span>[1](#fn_77) At her birth her father
+Sodewa Bai  <span id="fr_77"></span>[1](#fn_77.md) At her birth her father
 and mother had sent for all the wise men in the kingdom to tell her
 fortune, and they predicted that she would grow up richer and more
 fortunate than any other lady--and so it was; for, from her earliest
@@ -38,7 +38,7 @@ rajahs and nobles sought her hand, she constantly refused them all.
 
 Now Sodewa Bai's father, on one of her birthdays, gave her a lovely pair
 of slippers, made of gold and jewels. Each slipper was worth a hundred
-thousand gold mohurs  <span id="fr_78"></span>[2](#fn_78) There were
+thousand gold mohurs  <span id="fr_78"></span>[2](#fn_78.md) There were
 none like them in all the earth. Sodewa Bai prized these slippers very
 much, and always wore them when she went out walking, to protect her
 tender feet from the stones; but one day, as she was wandering with her
@@ -287,10 +287,10 @@ happiness.
 
 ### Footnotes
 
-<span id="fn_77"></span>[1](odd25.htm#fr_77) The Lady Good Fortune.
+<span id="fn_77"></span>[1](odd25.htm#fr_77.md) The Lady Good Fortune.
 
-<span id="fn_78"></span>[2](odd25.htm#fr_78) £150,000.
+<span id="fn_78"></span>[2](odd25.htm#fr_78.md) £150,000.
 
 ------------------------------------------------------------------------
 
-[Next: XXII. Chandra's Revenge](odd26)
+[Next: XXII. Chandra's Revenge](odd26.md)

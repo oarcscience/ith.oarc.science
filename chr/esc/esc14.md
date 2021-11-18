@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc13)  [Next](esc15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc13)  [Next](esc15.md) 
 
 ------------------------------------------------------------------------
 
@@ -481,4 +481,4 @@ book of life.  Farewell, happiness farewell, hope!  *Amen.*
 ------------------------------------------------------------------------
 
 [Next: Lecture XIII. The Two Witnesses, as Having Been Slain in the
-French Revolution](esc15)
+French Revolution](esc15.md)

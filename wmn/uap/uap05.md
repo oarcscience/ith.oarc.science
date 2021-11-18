@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](uap04) 
-[Next](uap06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](uap04.md) 
+[Next](uap06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -378,4 +378,4 @@ others, each generation acknowledges its obligation to the next."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5. The Vaporizer](uap06)
+[Next: Chapter 5. The Vaporizer](uap06.md)

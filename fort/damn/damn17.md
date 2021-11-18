@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](damn16)  [Next](damn18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](damn16)  [Next](damn18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of the Damned*, by Charles Fort, \[1919\], at Intangible
 Textual Heritage
 
@@ -1071,4 +1071,4 @@ splinter of it ever floated to the surface.
 
 ------------------------------------------------------------------------
 
-[Next: 18](damn18)
+[Next: 18](damn18.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus30)  [Next](csus32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus30)  [Next](csus32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -278,4 +278,4 @@ it seemed to me a good account to give of the training of youth.
 ------------------------------------------------------------------------
 
 [Next: III.—Character of the People; Influences of Communistic
-Life.](csus32)
+Life.](csus32.md)

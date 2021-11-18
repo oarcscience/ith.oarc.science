@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/mfm)  [Previous](../man/man) 
-[Next](../mnd/mnd) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/mfm)  [Previous](../man/man.md) 
+[Next](../mnd/mnd.md) 
 
 ------------------------------------------------------------------------
 
@@ -4348,4 +4348,4 @@ Index](../index)  [First Folio](../ff/mfm)  [Previous](../man/man) 
 
 ------------------------------------------------------------------------
 
-[Next: Midsummers' Night Dream](../mnd/mnd) 
+[Next: Midsummers' Night Dream](../mnd/mnd.md) 

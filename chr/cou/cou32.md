@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](cou31)  [Next](cou33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](cou31)  [Next](cou33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cloud of Unknowing*, ed. by Evelyn Underhill, \[1922\], at
 Intangible Textual Heritage
 
@@ -42,4 +42,4 @@ sinners or none. <span id="an_xxxiii-p5.1"></span><span id="page_167">p.
 
 [Next: Chapter 28: That a man should not presume to work in this work
 before the time that he be lawfully cleansed in conscience of all his
-special deeds of sin](cou33)
+special deeds of sin](cou33.md)

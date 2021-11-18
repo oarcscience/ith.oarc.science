@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste43)  [Next](ste45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste43)  [Next](ste45.md) 
 
 ------------------------------------------------------------------------
 
@@ -367,4 +367,4 @@ under the Sun*: any otherwise than as they relate to a better Life.
 
 ------------------------------------------------------------------------
 
-[Next: Title Page](ste45)
+[Next: Title Page](ste45.md)

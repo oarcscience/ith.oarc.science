@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat07.htm#XL)  [Previous](satl039) 
-[Next](satl041) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat07.htm#XL)  [Previous](satl039.md) 
+[Next](satl041.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ thebaicasque et caryatas ad numerum divisere cenantibus.
 
 ------------------------------------------------------------------------
 
-[Next: XLI](satl041)
+[Next: XLI](satl041.md)

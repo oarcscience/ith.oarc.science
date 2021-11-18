@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab00)  [Next](saab02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab00)  [Next](saab02.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -190,4 +190,4 @@ Little wants Man here below, nor little long."</span>
 
 ------------------------------------------------------------------------
 
-[Next: Life of Jámi](saab02)
+[Next: Life of Jámi](saab02.md)

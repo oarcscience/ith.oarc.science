@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp26) 
-[Next](alp28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp26.md) 
+[Next](alp28.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ Day dawned,--unbolted was our door:--
 
 ------------------------------------------------------------------------
 
-[Next: Birthday Song](alp28)
+[Next: Birthday Song](alp28.md)

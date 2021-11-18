@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo09)  [Next](beo11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo09)  [Next](beo11.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ if thou bidest the battle with bold-won life."
 
 ------------------------------------------------------------------------
 
-[Next: Part X](beo11)
+[Next: Part X](beo11.md)

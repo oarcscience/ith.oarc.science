@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](bkt00) [Next](bkt02)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](bkt00) [Next](bkt02.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ systems of religion.
 
 ------------------------------------------------------------------------
 
-[Next](bkt02)
+[Next](bkt02.md)
 
  
 

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar06)  [Next](gar08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar06)  [Next](gar08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -52,7 +52,7 @@ encouraged.—PRESTON.
 
 ### Footnotes
 
-<span id="fn_3"></span>[16:\*](gar06.htm#fr_3) On this principle,
+<span id="fn_3"></span>[16:\*](gar06.htm#fr_3.md) On this principle,
 unfortunate captives in war, and sojourners, accident. ally east on a
 distant shore, are particular objects of attention, and seldom fail to
 experience indulgence from Masons; and it is very remarkable that there
@@ -61,4 +61,4 @@ where that indulgence has been liberally extended.
 
 ------------------------------------------------------------------------
 
-[Next: The Lodge and its Government](gar08)
+[Next: The Lodge and its Government](gar08.md)

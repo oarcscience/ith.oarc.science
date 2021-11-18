@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw09) 
-[Next](wbw11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw09.md) 
+[Next](wbw11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -327,6 +327,6 @@ and fear as he went.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: Walter Happeneth On The Mistress](wbw11)
+[Next: Chapter XI: Walter Happeneth On The Mistress](wbw11.md)
 
 </div>

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [The Pacific](../index) [Index](index)
+[Sacred-Texts](../../index) [The Pacific](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ This book is presented as the translation of a (Maori) transcript of the
 teachings of Maori elders as given in the Whare-Wānanga, or school of
 sacred knowledge. There have been aspersions cast on the authenticity of
 this book ever since it was published. See
-[here](https://homepages.ihug.co.nz/~dominic/io-writn.html) for an
+[here](https://homepages.ihug.co.nz/~dominic/io-writn.html.md) for an
 exposition of some of the background of this book and the discussion
 surrounding it.
 
@@ -27,4 +27,4 @@ reader will still see a good bit of questionable typography.
 
 ------------------------------------------------------------------------
 
-[Index](index)
+[Index](index.md)

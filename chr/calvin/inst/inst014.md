@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst013)  [Next](inst015) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst013)  [Next](inst015.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ every kind.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 1. - THE KNOWLEDGE OF GOD AND OF OURSELVES MUTUALLY
-CONNECTED. NATURE OF THE CONNECTION.](inst015)
+CONNECTED. NATURE OF THE CONNECTION.](inst015.md)

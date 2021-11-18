@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut45)  [Next](hut47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut45)  [Next](hut47.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XLIII.
 
-### Formula of a Deer Medicine. <span id="fr_91"></span>[1](#fn_91)
+### Formula of a Deer Medicine. <span id="fr_91"></span>[1](#fn_91.md)
 
 <span id="page_323">p. 323</span>
 
@@ -23,7 +23,7 @@ fog spreading over the country. The one who lived down river on the
 other side thought, "I wish something could be done with them. Who will
 make medicine so they will not see deer any longer? That one will be the
 smartest." The one who lived below on the east side did what they do in
-the Indian world. <span id="fr_92"></span>[1](#fn_92) Then he went up
+the Indian world. <span id="fr_92"></span>[1](#fn_92.md) Then he went up
 across the river and put his face in at the doors of the Kīxûnai's
 houses. He did it because his body was bad. The next morning when they
 started out to hunt they had to coax the dogs out. Some of the dogs lay
@@ -43,7 +43,7 @@ not make this medicine."
 
 ### Footnotes
 
-<span id="fn_91"></span>[321:1](hut46.htm#fr_91) Told at Hupa, November
+<span id="fn_91"></span>[321:1](hut46.htm#fr_91.md) Told at Hupa, November
 1901, by Senaxon. This formula was told with xv as connected with the
 White Deer-skin Dance. It seems clear from its form that it is a hunting
 medicine. The venerable priest was questioned about its connection at
@@ -52,11 +52,11 @@ formula of the White Deer-skin Dance, then that dance, held as it is at
 the end of the period of cohabitation, purifies the people for the
 hunting season.
 
-<span id="fn_92"></span>[323:1](hut46.htm#fr_92) The Hupa formerly did
+<span id="fn_92"></span>[323:1](hut46.htm#fr_92.md) The Hupa formerly did
 not cohabitate at all during the season for hunting. It is believed that
 the man himself who has cohabitated will not have luck in hunting, and
 that his bad luck will be communicated to those with whom he mingles.
 
 ------------------------------------------------------------------------
 
-[Next: XLIV. Formula of Medicine for Making Baskets](hut47)
+[Next: XLIV. Formula of Medicine for Making Baskets](hut47.md)

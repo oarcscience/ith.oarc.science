@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp11)  [Next](twp13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp11)  [Next](twp13.md) 
 
 ------------------------------------------------------------------------
 
@@ -206,7 +206,7 @@ It will be noted that these two foundations of the science of psychology
 are moral, and India declares that without them no man can really attain
 control. She does not deny that a man may in certain conditions have
 sporadic sights and flashes of power, but he will not have control and
-sooner or later such [knowledge](errata.htm#1) as he has acquired
+sooner or later such [knowledge](errata.htm#1.md) as he has acquired
 without control will turn and rend him and possibly
 
 <span id="page_178">p. 178</span>
@@ -404,4 +404,4 @@ developing his consciousness along one of the four ways of Yoga.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](twp13)
+[Next: Chapter XI](twp13.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc57)  [Next](osc59) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc57)  [Next](osc59.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ who live after listening to many howlings.
 
 ------------------------------------------------------------------------
 
-[Next: (18) Ear-Tingling](osc59)
+[Next: (18) Ear-Tingling](osc59.md)

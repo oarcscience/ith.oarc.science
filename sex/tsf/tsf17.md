@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf16)  [Next](tsf18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf16)  [Next](tsf18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -191,7 +191,7 @@ many centuries, it is not strange that the
 <span id="img_29400"></span>
 
 [![A Negro god](tn/29400.jpg)  
-Click to enlarge](img/29400.jpg)  
+Click to enlarge](img/29400.jpg.md)  
 A Negro god  
 
 longing for Africa has been a force in the life of the Negro, a force
@@ -732,7 +732,7 @@ represented by a tall woman, wearing the skirt of her sex
 <span id="img_31100"></span>
 
 [![The Virgin shares her altar with Legba](tn/31100.jpg)  
-Click to enlarge](img/31100.jpg)  
+Click to enlarge](img/31100.jpg.md)  
 The Virgin shares her altar with Legba  
 
 and the coat and silk hat of a man. He symbolizes the union of both
@@ -790,7 +790,7 @@ crude, possibly, in the early centuries of Christianity
 <span id="img_31300"></span>
 
 [![The Christian God worshipped in Voodoo fashion](tn/31300.jpg)  
-Click to enlarge](img/31300.jpg)  
+Click to enlarge](img/31300.jpg.md)  
 The Christian God worshipped in Voodoo fashion  
 
 than Voodoo is today. It took many centuries to smelt down the various
@@ -814,7 +814,7 @@ novel and out of keeping with the
 <span id="img_31400"></span>
 
 [![Images of the Voodoo gods](tn/31400.jpg)  
-Click to enlarge](img/31400.jpg)  
+Click to enlarge](img/31400.jpg.md)  
 Images of the Voodoo gods  
 
 social customs of the day. Nor did white Voodoo have an older brother to
@@ -837,9 +837,9 @@ from the bush, against the cold, hard wall of self-denial.
 <span id="img_31500"></span>
 
 [![The Spirit of God moving over the face of the waters](tn/31500.jpg)  
-Click to enlarge](img/31500.jpg)  
+Click to enlarge](img/31500.jpg.md)  
 The Spirit of God moving over the face of the waters  
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Rebels in the Faith](tsf18)
+[Next: Chapter I. Rebels in the Faith](tsf18.md)

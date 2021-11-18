@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lob47)  [Next](lob49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lob47)  [Next](lob49.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00292BROK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00292BROK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Buddha*, by A. Ferdinand Herold, tr. by Paul C Blum
 \[1922\], at Intangible Textual Heritage
 
@@ -99,4 +99,4 @@ known for their piety, even among the most pious.
 
 ------------------------------------------------------------------------
 
-[Next: 7. Dissension Among the Monks](lob49)
+[Next: 7. Dissension Among the Monks](lob49.md)

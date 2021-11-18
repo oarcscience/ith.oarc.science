@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss42) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss42.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,7 +86,7 @@ aged son is sad! I hear the breeze of Cona, that was wont to lift thy
 heavy locks. It comes to the hall, but thou art not there. Its voice is
 mournful among the arms of thy fathers! Go, with thy rustling wing, O
 breeze! sigh on Malvina's tomb. It rises yonder beneath the rock, at the
-blue stream of Lutha. The maids  <span id="fr_114"></span>[1](#fn_114)
+blue stream of Lutha. The maids  <span id="fr_114"></span>[1](#fn_114.md)
 are departed to their place. Thou alone, O breeze, mournest there!"
 
 But who comes from the dusky west, supported on a cloud? A smile is on
@@ -337,5 +337,5 @@ broad head to the storm, and rejoices in the course of the wind?"
 
 ### Footnotes
 
-<span id="fn_114"></span>[485:1](oss43.htm#fr_114) The maids: that is,
+<span id="fn_114"></span>[485:1](oss43.htm#fr_114.md) The maids: that is,
 the young virgins who sung the funeral elegy over her tomb.

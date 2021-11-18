@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](turba2)  [Next](paracel2) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](turba2)  [Next](paracel2.md) 
 
 ------------------------------------------------------------------------
 
@@ -912,6 +912,6 @@ water by the freezing and glacial stars. – *Lib. Meteorum*, c. 7.
 ------------------------------------------------------------------------
 
 [Next: The Book Concerning The Tincture Of The Philosophers by
-Paracelsus](paracel2)
+Paracelsus](paracel2.md)
 
   

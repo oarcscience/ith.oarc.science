@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow23)  [Next](dow25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow23)  [Next](dow25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -36,7 +36,7 @@ PERSONAGES
 
 <span id="img_12300"></span> <span align="CENTER"> [![Ancient
 Mortar-holes in the Granite Rock](tn/12300.jpg)  
-Click to enlarge](img/12300.jpg)  
+Click to enlarge](img/12300.jpg.md)  
 Ancient Mortar-holes in the Granite Rock  
 </span>
 
@@ -59,4 +59,4 @@ rocks. Then *Nek'-na-kā'-tah* the rock maiden came and helped make the
 
 ------------------------------------------------------------------------
 
-[Next: The Jealousy of *Wek'-wek* and the Death of *Lo'-wut*](dow25)
+[Next: The Jealousy of *Wek'-wek* and the Death of *Lo'-wut*](dow25.md)

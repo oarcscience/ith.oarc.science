@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft04)  [Next](meft06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft04)  [Next](meft06.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,4 +128,4 @@ might not get off quite so easily as he had done this time.
 
 ------------------------------------------------------------------------
 
-[Next: Black Bull of Norroway](meft06)
+[Next: Black Bull of Norroway](meft06.md)

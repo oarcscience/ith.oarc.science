@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](graalint) 
-[Next](branch02) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](graalint.md) 
+[Next](branch02.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -893,5 +893,5 @@ well-doing than have I as at this time, nor of honour nor of largesse."
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-II](branch02)  
+II](branch02.md)  
 </span>

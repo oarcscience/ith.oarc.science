@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap10) [Next](chap12)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap10) [Next](chap12.md)
 
 ------------------------------------------------------------------------
 
@@ -338,4 +338,4 @@ Utah, both girls as well as boys.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: The Passing Prophet](chap12)
+[Next: Chapter XII: The Passing Prophet](chap12.md)

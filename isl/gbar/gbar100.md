@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar099) [Next](gbar101)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar099) [Next](gbar101.md)
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ Then answered he who writeth: 'It is most true.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar101)
+[Next](gbar101.md)

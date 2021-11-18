@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi297)  [Next](mtsi299) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi297)  [Next](mtsi299.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ fell down, got up, and ran off at once, whooping.
 
 ------------------------------------------------------------------------
 
-[Next: 34. Rabbit and Wildcat](mtsi299)
+[Next: 34. Rabbit and Wildcat](mtsi299.md)

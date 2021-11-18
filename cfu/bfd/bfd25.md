@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](bfd24)  [Next](bfd26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](bfd24)  [Next](bfd26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402152167/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402152167/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Filial Duty*, by Ivan Chen, \[1908\], at Intangible Textual
 Heritage
 
@@ -58,4 +58,4 @@ many respects like that of Shun, whose parents were equally perverse.
 
 ------------------------------------------------------------------------
 
-[Next: No. V: He carried Rice for his Parents](bfd26)
+[Next: No. V: He carried Rice for his Parents](bfd26.md)

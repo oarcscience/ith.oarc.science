@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas15)  [Next](sas17)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas15)  [Next](sas17.md)  
 
 ------------------------------------------------------------------------
 
@@ -309,4 +309,4 @@ auteur" (by Sadhana).\]
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Seventeen: Shakti and Maya](sas17)
+Next: [Chapter Seventeen: Shakti and Maya](sas17.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar14)  [Next](gar16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar14)  [Next](gar16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -36,4 +36,4 @@ display the beauties of holiness, to the honor of thy holy name.—Amen.
 
 ------------------------------------------------------------------------
 
-[Next: The Symbolic Pilgrimage](gar16)
+[Next: The Symbolic Pilgrimage](gar16.md)

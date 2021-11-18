@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms13)  [Next](jms15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms13)  [Next](jms15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -68,7 +68,7 @@ animals, and the fabulous phoenix, whose body shrinks to the size of an
 egg on its thousandth birthday, and is then reborn for another
 millennial lease on life. (Incidentally, the phoenix was often cited by
 Church Fathers and rabbis as conclusive proof of the resurrection of the
-dead.)[1](jms33.htm#an_12_1)
+dead.)[1](jms33.htm#an_12_1.md)
 
 A legendary creature which stirred up quite a fuss in medieval
 literature, both Jewish and non-Jewish, was the man-plant, the
@@ -94,7 +94,7 @@ shape of a man in every particular, face, body, hands and feet. No one
 can approach closer than the radius of the string, for it uproots and
 destroys everything within its reach. One may capture it only by
 shooting at the string until it breaks, whereupon the animal dies." This
-account was followed by the later commentators.[2](jms33.htm#an_12_2)
+account was followed by the later commentators.[2](jms33.htm#an_12_2.md)
 
 With regard to the more normal members of the animal kingdom we may
 glean a host of illuminating bits of information. The belief in
@@ -140,7 +140,7 @@ and at least turn to nature! She is an argument for the faith, and for
 our conviction procreates and produces every day animals without either
 male or female." Jews needed no coaxing to accept the fable, but the
 argument failed to move their "hard hearts" to confess the truth of the
-Immaculate Conception.[3](jms33.htm#an_12_3)
+Immaculate Conception.[3](jms33.htm#an_12_3.md)
 
 Animals that copulate during the daytime never bear their young at
 night. Ritually unclean animals which see at night, such as dogs, cats
@@ -162,7 +162,7 @@ shell-fish, when cut into pieces and thrown back into the river, reunite
 the severed parts of their body and nonchalantly swim away. Cows whose
 udders are unprotected while they are at pasture are likely to be milked
 by a species of leach (the French word *sangsue* is
-used).[4](jms33.htm#an_12_4)
+used).[4](jms33.htm#an_12_4.md)
 
 In an age when poisoning was an obsession, the following precaution was
 in high repute: "When a man finds himself among suspected poisoners and
@@ -171,7 +171,7 @@ a knife with a handle of snake bone, and stick it into the table. If
 there is any poison present the handle will quiver, for the snake is
 full of venom, and like attracts like." Popes Clement V and John XXII
 owned such knives, the handles being made of serpents’
-horns.[6](jms33.htm#an_12_6)
+horns.[6](jms33.htm#an_12_6.md)
 
 #### FOLK BIOLOGY—PROCREATION
 
@@ -209,7 +209,7 @@ himself being overwhelmed by an impure desire could conquer it by
 weight of his body upon them without leaning against a wall; this will
 banish all sensual thoughts." But "there is nothing that destroys
 passion so effectively as cold water; sit in it until you have subdued
-your desire," a sovereign and familiar remedy.[6](jms33.htm#an_12_6)
+your desire," a sovereign and familiar remedy.[6](jms33.htm#an_12_6.md)
 
 The ancient taboo against a menstruous woman persisted undiminished
 throughout the Middle Ages. Great pains were taken to avoid the
@@ -232,7 +232,7 @@ that is in her glance creates an evil influence in the air which adheres
 to the mirror; verily she is like the viper that kills with its
 glances." To have sexual relations with such a woman was not alone to
 commit a mortal sin, but to jeopardize one's very health and
-sanity.[7](jms33.htm#an_12_7)
+sanity.[7](jms33.htm#an_12_7.md)
 
 Not all times were equally favorable for coition. It was believed that
 children conceived during the first three days of the week would be born
@@ -253,7 +253,7 @@ least likely to distract a man's thoughts to another woman, which would
 have a very deleterious effect upon his child; still a third, that in
 the first part of the night a man's system is overheated by the food he
 has consumed, while toward morning it is too chilled. A reason to suit
-every taste![8](jms33.htm#an_12_8)
+every taste![8](jms33.htm#an_12_8.md)
 
 The prohibition against cohabitation during the day or in an illuminated
 place goes back to the Talmudic apprehension that the demons who are
@@ -269,7 +269,7 @@ to produce white eruptions, the moon, scurfiness which finally develops
 into leprosy, the stars, stammering. Undoubtedly such ideas were
 originally advanced to enhance the virtue of sexual modesty, but the
 threats they embodied were just as surely accepted as literally
-true.[9](jms33.htm#an_12_9)
+true.[9](jms33.htm#an_12_9.md)
 
 Of a similar nature were the fearful consequences believed to follow
 abnormal and perverted methods of coitus, and impure thoughts at the
@@ -292,7 +292,7 @@ and emotions of the parents," and "the greatest part of infant mortality
 is due to neglect of this principle." Indeed the delightful suggestion
 was offered in all seriousness that "most bastards are bright because
 the union of their parents is consummated in love and
-joy"![10](jms33.htm#an_12_10)
+joy"![10](jms33.htm#an_12_10.md)
 
 There existed a strong conviction that things seen before and during
 conception make so powerful an impression on the mind that their
@@ -326,7 +326,7 @@ superstition, of course, is the trick that Jacob played on his
 father-in-law, Laban, when he set peeled rods in the watering-troughs so
 that "the flocks conceived at the sight of the rods, and the flocks
 brought forth streaked, speckled and spotted" (Gen.
-30:37-39).[11](jms33.htm#an_12_11)
+30:37-39).[11](jms33.htm#an_12_11.md)
 
 <span id="page_188">p. 188</span>
 
@@ -348,7 +348,7 @@ requires that a strong frankincense be burned before the parturient
 woman (but it must be in a "new clay bowl"); another, that she inhale
 the smoke of burning felt. The effect of this last, however, is thus
 naïvely described: "The woman will sneeze and expel her
-infant"![12](jms33.htm#an_12_12)
+infant"![12](jms33.htm#an_12_12.md)
 
 There were several interesting theories concerning the factors that
 determine the sex of the child. According to one, which owned Talmudic
@@ -365,7 +365,7 @@ in the center; if the spermatozoa enter those at the right, the child
 will be a boy, the left sacs produce girls, and the middle one, children
 who are sexless or hermaphroditic. Therefore the mother can control the
 sex of her child by lying either on her right or left
-side.[13](jms33.htm#an_12_13)
+side.[13](jms33.htm#an_12_13.md)
 
 There were manifold infallible ways of discovering the sex of the child
 prior to birth. The male lies face-down in the womb, the female face-up
@@ -400,7 +400,7 @@ whether or not they require his services, it would be impossible to
 initiate their son into the covenant at the prescribed time; therefore
 science is pressed into the service of religion, and the summons can go
 out, if the prognostication so indicates, long before the boy has opened
-his eyes to the light of day.[14](jms33.htm#an_12_14)
+his eyes to the light of day.[14](jms33.htm#an_12_14.md)
 
 This account may close with two interesting legends. The first, voicing
 the prevalent belief in the possibility of impregnation without physical
@@ -424,7 +424,7 @@ ancient literature revealed that such a delayed
 birth was not unheard of, though admittedly unusual. The arresting
 feature of this story is that the scholar's name was *Shlumiel*, which
 has become the colloquial epithet for all those bunglers whose
-enterprises invariably go awry.[15](jms33.htm#an_12_15)
+enterprises invariably go awry.[15](jms33.htm#an_12_15.md)
 
 #### FORGETTING AND REMEMBERING
 
@@ -459,7 +459,7 @@ a splinter of wood in the mouth. The modern version among East-European
 Jews, derived from German custom, is to keep a bit of thread in the
 mouth while mending garments that are on the body. A related idea was
 that drinking from narrow-necked flasks is bad for one's visual and
-aural faculties.[16](jms33.htm#an_12_16)
+aural faculties.[16](jms33.htm#an_12_16.md)
 
 The belief that there is an intimate connection between the
 
@@ -482,7 +482,7 @@ begin with 3 causes the death of one's children, with 5, poverty, with
 2, a bad reputation." This superstition, however, was not universally
 respected; Meir of Rothenburg, for one, had the temerity to disregard
 it, as did the sixteenth-century mystic, Isaac
-Luria.[17](jms33.htm#an_12_17)
+Luria.[17](jms33.htm#an_12_17.md)
 
 Accompanying these superstitions were a good number of a reverse order,
 to preserve and strengthen the memory. Prominent among them was the
@@ -518,8 +518,8 @@ them with olive oil into a paste, and eat a little every morning before
 breakfast. One may judge from the progressive complexity of these three
 recipes the extent to which ingenuity multiplied ingredients and
 mystification in others. But all, whatever their composition, were
-equally touted as the original "Baladur."[18](jms33.htm#an_12_18)
+equally touted as the original "Baladur."[18](jms33.htm#an_12_18.md)
 
 ------------------------------------------------------------------------
 
-[Next: 13. Medicine](jms15)
+[Next: 13. Medicine](jms15.md)

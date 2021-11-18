@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb26)  [Next](crfb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb26)  [Next](crfb28.md) 
 
 </div>
 
@@ -213,6 +213,6 @@ hope that it did not fly so fast as the last had done.
 
 ------------------------------------------------------------------------
 
-[Next: Motiratika](crfb28)
+[Next: Motiratika](crfb28.md)
 
 </div>

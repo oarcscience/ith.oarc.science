@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Egypt](../../egy/index)  [Index](index)  [Previous](stle06) 
-[Next](stle08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Egypt](../../egy/index)  [Index](index)  [Previous](stle06.md) 
+[Next](stle08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stolen Legacy*, by George G. M. James, \[1954\], at Intangible Textual
 Heritage
 
@@ -331,7 +331,7 @@ much as was needed, in the sum of one thousand talents, and 50,000 lbs.
 of alum. According to information at hand, the temple had organized its
 members into an amphictyonic league for protection against political and
 other forms of violence; but they were too poor to raise
-[sufficient](errata.htm#0) funds from the membership, and they decided
+[sufficient](errata.htm#0.md) funds from the membership, and they decided
 upon a public contribution from the citizens of Greece.
 
 Accordingly they wandered throughout the land soliciting aid, but failed
@@ -361,7 +361,7 @@ From the conquest of Egypt by Alexander the Great, the Greeks, who were
 always attracted by the mysterious worship of the Nile-land, began to
 imitate the Egyptian religion in its entirety; and during the Roman
 occupation, the Egyptian religion spread not only to Italy: but
-throughout the Roman Empire, including [Brittany](errata.htm#1).
+throughout the Roman Empire, including [Brittany](errata.htm#1.md).
 
 This assimilation of the Egyptian religion was confined to the Gods of
 the Osirian cycle and the Graeco-Egyptian Serapis, and aimed at a close
@@ -530,4 +530,4 @@ Mysteries by C. H. Vail p. 59; 61; 74–75; 109).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Egyptians Educated the Greeks](stle08)
+[Next: Chapter IV: The Egyptians Educated the Greeks](stle08.md)

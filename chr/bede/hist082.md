@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist081) 
-[Next](hist083) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist081.md) 
+[Next](hist083.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ has now been said on this subject.
 ------------------------------------------------------------------------
 
 [Next: XXVII. How Egbert, a holy man of the English nation, led a
-monastic life in Ireland. \[664 A.D.\]](hist083)
+monastic life in Ireland. \[664 A.D.\]](hist083.md)

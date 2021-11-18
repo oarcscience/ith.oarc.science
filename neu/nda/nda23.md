@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda22)  [Next](nda24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda22)  [Next](nda24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -106,8 +106,8 @@ containing various cryptographs, and rude combinations of figures
 illustrative of the settlements of the Northmen, among which devices may
 be yet traced the name of THORFINN, and the figures CXXXI. being the
 number of Karlsefni's associates (151), <span
-id="fr_36"></span>[1](#fn_36) which after the departure of Thorhall,
-accompanied him to Hope. <span id="fr_37"></span>[2](#fn_37)
+id="fr_36"></span>[1](#fn_36.md) which after the departure of Thorhall,
+accompanied him to Hope. <span id="fr_37"></span>[2](#fn_37.md)
 
 <span id="page_243">p. 243</span>
 
@@ -121,14 +121,14 @@ by contiguous representations of the Scandinavian remains. The same
 plate contains also the delineation of a curious fragment of metallic
 *tessera*, found near Dublin, upon which is inscribed a monogram similar
 to that seen upon the Assonet Rock, as well as the Runic letter
-[Þ](errata.htm#13) (th), shewing the Scandinavian origin of the
+[Þ](errata.htm#13) (th.md), shewing the Scandinavian origin of the
 fragment, which may be ascribed to the 9th or 10th century.
 
 The Rhode Island Historical Society have also forwarded to Professor
 Rafn descriptions and delineations of several other remains which bear a
 striking analogy to that at Dighton; among these the Portsmouth and
 Tiverton Rocks form interesting subjects for examination and
-comparison. <span id="fr_38"></span>[1](#fn_38)
+comparison. <span id="fr_38"></span>[1](#fn_38.md)
 
 <span id="page_244">p. 244</span>
 
@@ -161,8 +161,8 @@ ODSSON : LAUKARDAK : IN : FYRIRGAKNDAG HLOTHU ·VARDATE ·OKRYDU :MCXXXV.
 or
 
 Erling Sighvatsson and Biarni Thordarsson, and Eindrid Oddsson, on the
-seventh day, <span id="fr_39"></span>[1](#fn_39) before the day of
-Victory, <span id="fr_40"></span>[2](#fn_40) erected these stones, and
+seventh day, <span id="fr_39"></span>[1](#fn_39.md) before the day of
+Victory, <span id="fr_40"></span>[2](#fn_40.md) erected these stones, and
 explored. MCXXXV.
 
 Some doubts have been expressed by Runic scholars as to the
@@ -217,7 +217,7 @@ would be necessary in
 <span id="img_24700"></span> <span align="CENTER"> [![General Chart
 Exhibiting Discoveries of the Northmen in the Arctic Regions And
 America](tn/24700.jpg)  
-Click to enlarge](img/24700.jpg)  
+Click to enlarge](img/24700.jpg.md)  
 General Chart Exhibiting Discoveries of the Northmen in the Arctic
 Regions And America  
 </span>
@@ -356,7 +356,7 @@ influence of association with more civilized countries, seems scarcely
 credible. Their long continued intercourse of more than 200 years, with
 Ireland alone, a country which in the 8th century enjoyed a European
 reputation for intellectual eminence, <span
-id="fr_41"></span>[1](#fn_41) cannot but have had a beneficial influence
+id="fr_41"></span>[1](#fn_41.md) cannot but have had a beneficial influence
 upon their character and habits, and we should receive with caution all
 statements
 
@@ -428,30 +428,30 @@ Holsteinborg.
 
 ### Footnotes
 
-<span id="fn_36"></span>[242:1](nda23.htm#fr_36) Twelve decades being
+<span id="fn_36"></span>[242:1](nda23.htm#fr_36.md) Twelve decades being
 reckoned to the hundred, hence, called by the Icelanders and
 Scandinavians *stort hundrad* (great hundred). Antiq. Amer. p. 385,
 ante, p. 88, note \*.
 
-<span id="fn_37"></span>[242:2](nda23.htm#fr_37) See ante, [p.
-93](nda08.htm#page_93). Professor Rafn has gone into an elaborate
+<span id="fn_37"></span>[242:2](nda23.htm#fr_37.md) See ante, [p.
+93](nda08.htm#page_93.md). Professor Rafn has gone into an elaborate
 dissertation upon this inscription, proving by unanswerable arguments
 its Scandinavian origin. (Antiq. Amer. p. 378, seq.) In this he is fully
 borne out by the eminent Runologist Finn Magnusen, who shews that the
 whole of the apparently unmeaning hieroglyphics are illustrative of the
 Icelandic settlement in Hope:--The well known Runic letter
-[Þ](errata.htm#12) (Th) on the left hand, at once stamps its
+[Þ](errata.htm#12) (Th.md) on the left hand, at once stamps its
 Scandinavian or Icelandic origin; the combined letters which follow the
 numerals may be decyphered N. M. the initials of norronir menn
 (Northmen); the devices above this, represent the shields ([p.
-95](nda08.htm#page_95)), under which lies a helmet reversed, indicative
+95](nda08.htm#page_95).md), under which lies a helmet reversed, indicative
 of peace. The figure below the name may be intended for a bullock, or
 some domestic animal, illustrative of their daily pursuits,--the outline
 of a ship is blended with these;--the figures of Gudrid and her child
 Snorri appear on the right; Karlsefni, protected by a shield from the
 attacks of the Skrellings, upon the left, while the bows, and missiles
 of their assailants, more particularly the large ball <span
-id="page_243">p. 243</span> mentioned on page [98](nda08.htm#page_98),
+id="page_243">p. 243</span> mentioned on page [98](nda08.htm#page_98.md),
 are clearly discernible. Altogether the analogy which this inscription
 presents to those upon well known Runic monuments--the facility with
 which the various devices may be made to apply to the incidents and
@@ -459,7 +459,7 @@ circumstances connected with the Icelandic settlement, and the distinct
 Roman or Latin letters which form the numerals--leave no reasonable
 doubt as to its being the work of the Northmen.
 
-<span id="fn_38"></span>[243:1](nda23.htm#fr_38) Since the publication
+<span id="fn_38"></span>[243:1](nda23.htm#fr_38.md) Since the publication
 of the Antiquitates Americanæ, a still further addition to American
 monuments has been discovered in the neighborhood of Bahia, as appears
 from a communication made to the Royal Society of Northern Antiquaries
@@ -474,12 +474,12 @@ Scandinavian origin of these remains. Among the ruins is stated to be a
 huge column, bearing a remarkable figure, which stretches out the right
 hand, and points with the fore-finger towards the north pole.
 
-<span id="fn_39"></span>[245:1](nda23.htm#fr_39) Saturday, Dies Saturni.
+<span id="fn_39"></span>[245:1](nda23.htm#fr_39.md) Saturday, Dies Saturni.
 
-<span id="fn_40"></span>[245:2](nda23.htm#fr_40) A festival kept by the
+<span id="fn_40"></span>[245:2](nda23.htm#fr_40.md) A festival kept by the
 Northmen previous to the 12th century; it fell on the 25th of April.
 
-<span id="fn_41"></span>[251:1](nda23.htm#fr_41) "In the 8th century,
+<span id="fn_41"></span>[251:1](nda23.htm#fr_41.md) "In the 8th century,
 indeed, the high reputation of the Irish for scholarship had become
 established throughout Europe." Moore, Vol. I, p. 289. "As Druidism fell
 into disrepute, Christian seminaries multiplied . . . Soon after the
@@ -495,4 +495,4 @@ Cashel, etc., were not less remarkable . . . ."
 
 ------------------------------------------------------------------------
 
-[Next: Minor Narratives](nda24)
+[Next: Minor Narratives](nda24.md)

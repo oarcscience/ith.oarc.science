@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb04)  [Next](orfb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb04)  [Next](orfb06.md) 
 
 </div>
 
@@ -127,6 +127,6 @@ mercifully released him, purged and purified through his punishment.
 
 ------------------------------------------------------------------------
 
-[Next: How Isuro the Rabbit Tricked Gudu](orfb06)
+[Next: How Isuro the Rabbit Tricked Gudu](orfb06.md)
 
 </div>

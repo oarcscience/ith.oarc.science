@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml20)  [Next](yml22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml20)  [Next](yml22.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ came up to him. and greeted him.
 
 He told Habiel Mo'el that his chief would like to see him at the
 guardia. So the two went over there. Inside, on the front bench was
-seated the head *kobanao*. On the next bench, [Habiel](errata.htm#3)
+seated the head *kobanao*. On the next bench, [Habiel](errata.htm#3.md)
 Mo'el was told to seat himself. The other *kobanaom* were seated on the
 other benches. To one side a young girl was sitting. About her waist was
 a bandage of leaves.
@@ -106,4 +106,4 @@ you."
 
 ------------------------------------------------------------------------
 
-[Next: Omteme](yml22)
+[Next: Omteme](yml22.md)

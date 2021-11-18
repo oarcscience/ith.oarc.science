@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah68)  [Next](oah70) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah68)  [Next](oah70.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ endure forever on earth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](oah70)
+[Next: Chapter XIII](oah70.md)

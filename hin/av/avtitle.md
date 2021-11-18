@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](av01001) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](av01001.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P417U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P417U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ was published prior to 1923.
 ------------------------------------------------------------------------
 
 [Next: Hymn 1: A prayer to Vāchaspati for divine illumination and
-help.](av01001)
+help.](av01001.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe144)  [Next](prwe146) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe144)  [Next](prwe146.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ Demons and Spectres
 
 ------------------------------------------------------------------------
 
-[Next: Gulval Well](prwe146)
+[Next: Gulval Well](prwe146.md)

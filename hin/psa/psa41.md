@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa40)  [Next](psa42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa40)  [Next](psa42.md) 
 
 ------------------------------------------------------------------------
 
@@ -160,4 +160,4 @@ perplexed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLI](psa42)
+[Next: Chapter XLI](psa42.md)

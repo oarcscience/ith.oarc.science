@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos21)  [Next](kos23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos21)  [Next](kos23.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ of our Key.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. Concerning the Holy Pentacles Or Medals](kos23)
+[Next: Chapter XVIII. Concerning the Holy Pentacles Or Medals](kos23.md)

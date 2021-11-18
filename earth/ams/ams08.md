@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ams07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ams07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP30M/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP30M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Miracle in Stone: The Great Pyramid*, by Joesph A. Seiss, \[1877\],
 at Intangible Textual Heritage
 

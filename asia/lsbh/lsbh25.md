@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh24)  [Next](lsbh26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh24)  [Next](lsbh26.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -225,7 +225,7 @@ DCCXXIV\. Furthermore, little compassion, avariciousness, mercilessness,
 lasciviousness, insolent speech and weakness in action are the signs of
 an adulterer and of one who is the offspring of fornication.
 
-DCCXXV\. Aristotle the Great said <span id="fr_123"></span>[1](#fn_123),
+DCCXXV\. Aristotle the Great said <span id="fr_123"></span>[1](#fn_123.md),
 "Since the soul
 
 <span id="page_183">p. 183</span>
@@ -279,7 +279,7 @@ one which lieth beyond the pale of the path of chastity, and which
 should be neither said nor done by him that dwelleth chastely in
 flourishing and well-ordered monasteries, and mayest begin to heap
 imprecations upon me; but do not do this. For as in the tabernacle of
-wisdom <span id="fr_124"></span>[1](#fn_124) every kind of thing is
+wisdom <span id="fr_124"></span>[1](#fn_124.md) every kind of thing is
 necessary, nothing whatsoever that in a natural way sharpeneth the
 intelligence, and enlighteneth the understanding, and comforteth and
 rejoiceth the mind which is sorrowful and suffering, should ever be
@@ -300,18 +300,18 @@ and completed it.
 
 ### Footnotes
 
-<span id="fn_123"></span>[182:1](lsbh25.htm#fr_123) For the original
+<span id="fn_123"></span>[182:1](lsbh25.htm#fr_123.md) For the original
 Greek text see Didot's edition of Aristotle, fol. iv. p. 1. The
 following passage, having reference to the same subject, I extract from
 Bar-Hebraeus' great translation of <span id="page_183">p. 183</span>
 Aristotle's work entitled, "Butter of Wisdom," \#\#\#).
 
-<span id="fn_124"></span>[186:1](lsbh25.htm#fr_124) read \#\#\#.
+<span id="fn_124"></span>[186:1](lsbh25.htm#fr_124.md) read \#\#\#.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Additional Verses](lsbh26)
+[Next: Additional Verses](lsbh26.md)
 
 </div>

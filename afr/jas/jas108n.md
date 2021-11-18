@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas107n)  [Next](jas109n)   
- \[[108. Big Begum and Little Begum.](jas108)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas107n)  [Next](jas109n.md)   
+ \[[108. Big Begum and Little Begum.](jas108.md)\]
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ Compare the "Pedro Ordimales" cycle in Recinos, JAFL 31:474-477.
 
 ------------------------------------------------------------------------
 
-[Next: Note 109. The Fool and the Wise Brother.](jas109n)
+[Next: Note 109. The Fool and the Wise Brother.](jas109n.md)

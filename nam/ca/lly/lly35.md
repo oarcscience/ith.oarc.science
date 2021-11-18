@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly34)  [Next](lly36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly34)  [Next](lly36.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,14 +9,14 @@ American](../../index)  [California](../index)  [Index](index) 
 
 <span id="img_09000"></span> [![BRIDAL VEIL (OR POHONO)
 FALL](tn/09000.jpg)  
-Click to enlarge](img/09000.jpg)  
+Click to enlarge](img/09000.jpg.md)  
 BRIDAL VEIL (OR POHONO) FALL  
 
 <span id="page_91">p. 91</span>
 
 <span id="img_09100"></span> [![VERNAL FALLS (PI-WY-ACK)&lt;BR&gt;
 &lt;I&gt;Photo H. C. Tibbitts&lt;/I&gt;](tn/09100.jpg)  
-Click to enlarge](img/09100.jpg)  
+Click to enlarge](img/09100.jpg.md)  
 VERNAL FALLS (PI-WY-ACK)  
 *Photo H. C. Tibbitts*  
 
@@ -112,4 +112,4 @@ as the Yo-sem-i-tes.
 
 ------------------------------------------------------------------------
 
-[Next: The Coming of the Indian to Yosemite](lly36)
+[Next: The Coming of the Indian to Yosemite](lly36.md)

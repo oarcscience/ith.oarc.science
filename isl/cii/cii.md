@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Islam](../index) [Index](index)
+Heritage](../../index) [Islam](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -23,15 +23,15 @@ Heritage](../../index) [Islam](../index) [Index](index)
 
 |                                                               |                                              |     |
 |---------------------------------------------------------------|----------------------------------------------|----:|
-|                                                               | [INTRODUCTION](#INTRODUCTION)                |   7 |
+|                                                               | [INTRODUCTION](#INTRODUCTION.md)                |   7 |
 | <span class="small"><span class="small">CHAPTER</span></span> |                                              |     |
-| I.                                                            | [PASSAGES FROM THE <u>K</u>ORÂN](#CHAPTER_I) |  17 |
-| II.                                                           | [TRADITIONAL STORIES](#CHAPTER_II)           |  29 |
-| III.                                                          | [MORAL AND RELIGIOUS SAYINGS](#CHAPTER_III)  |  42 |
-| IV.                                                           | [ASCETIC SAYINGS](#CHAPTER_IV)               |  63 |
-| V.                                                            | [SAYINGS OF GOD TO JESUS](#CHAPTER_V)        |  78 |
-| VI.                                                           | [MISCELLANEOUS PASSAGES](#CHAPTER_VI)        |  81 |
-| VII.                                                          | [STORIES CONNECTED WITH JESUS](#CHAPTER_VII) |  95 |
+| I.                                                            | [PASSAGES FROM THE <u>K</u>ORÂN](#CHAPTER_I.md) |  17 |
+| II.                                                           | [TRADITIONAL STORIES](#CHAPTER_II.md)           |  29 |
+| III.                                                          | [MORAL AND RELIGIOUS SAYINGS](#CHAPTER_III.md)  |  42 |
+| IV.                                                           | [ASCETIC SAYINGS](#CHAPTER_IV.md)               |  63 |
+| V.                                                            | [SAYINGS OF GOD TO JESUS](#CHAPTER_V.md)        |  78 |
+| VI.                                                           | [MISCELLANEOUS PASSAGES](#CHAPTER_VI.md)        |  81 |
+| VII.                                                          | [STORIES CONNECTED WITH JESUS](#CHAPTER_VII.md) |  95 |
 
 <span id="page_7">p. 7</span>
 
@@ -132,12 +132,12 @@ too much stress on the title "Spirit of God" by which He is frequently
 addressed, for this is merely an echo of words used in the <u>K</u>orân.
 He is represented as feeling Himself less worthy to pray for rain than a
 man who had plucked out his eye because it had looked at a woman ([A.
-10](#A10), p. 95); He is described as being gloomy in contrast to John
+10](#A10), p. 95.md); He is described as being gloomy in contrast to John
 the Baptist, who was cheerful, and whom God commends as being the more
-attractive ([A. 121](#A121), p. 108); He is rebuked by God for failing
-to understand the piety of a simple man ([A. 208](#A208), p. 125); He
+attractive ([A. 121](#A121), p. 108.md); He is rebuked by God for failing
+to understand the piety of a simple man ([A. 208](#A208), p. 125.md); He
 takes warning when He finds that Satan has discovered some evil in Him
-([A. 174](#A174) *bis*, p. 76). All this is quite in keeping with the
+([A. 174](#A174) *bis*, p. 76.md). All this is quite in keeping with the
 Muslim conception of His person; but it naturally raises a question as
 to whether there can be any element of genuineness in such passages.
 
@@ -145,7 +145,7 @@ to whether there can be any element of genuineness in such passages.
 difficult one. In some instances it is obvious that the writer had
 access to the New Testament, or more probably had a second-hand
 knowledge of it, and so made a fairly accurate quotation, e.g. [A.
-55](#A55), p. 46, <span id="page_12">p. 12</span> [A. 65](#A65), p. 47.
+55](#A55), p. 46, <span id="page_12">p. 12</span> [A. 65](#A65.md), p. 47.
 In dealing with other sayings one hesitates to pronounce an opinion as
 to their genuineness or otherwise. It is important to notice that Asin
 is convinced that some of the sayings are genuine, although he does not
@@ -168,10 +168,10 @@ there must always be a doubt.
    In many instances, however, one need have little doubt about
 rejecting the genuineness of passages. The wonderful stories of the
 raising <span id="page_13">p. 13</span> of the dead, a speaking skull,
-etc., are obvious fictions. Such a story as [A. 148](#A148), p. 114,
+etc., are obvious fictions. Such a story as [A. 148](#A148.md), p. 114,
 which speaks of a mountain bewailing the fact that idols had been hewn
 from it, is clearly of Muslim origin, as it is based on some words from
-the <u>K</u>orân. But [A. 215](#A215), p. 93, is strange, for while it
+the <u>K</u>orân. But [A. 215](#A215.md), p. 93, is strange, for while it
 quotes words which are attributed to Jesus in the <u>K</u>orân, it adds
 to them something which would seem to have a Christian origin.
 
@@ -206,7 +206,7 @@ its fruit and a spring burst forth, which is reminiscent of the
 <u>K</u>orânic story where, before the birth of Jesus, a streamlet
 appears and Mary is told that if she shakes the trunk of a palm-tree it
 will drop fresh dates. The Gospels of Thomas and of Pseudo-Matthew have
-also a story similar to that found in [A. 206](#A206), p. 92. These are
+also a story similar to that found in [A. 206](#A206.md), p. 92. These are
 only a few parallels which have come to my notice, but they suggest that
 many of the sayings and stories may have come through Christian
 channels, and have been accepted in good faith by Muslims, although such
@@ -558,7 +558,7 @@ Wherever the sun set he arranged his feet in prayer till the morning
 came. He was curing the blind from birth and the leper and raising the
 dead by God's permission and was telling his people what they were
 eating in their houses and what they were storing up for the morrow
-\[cf. [<u>K</u>orân III, 43](#III:37)\], and he was walking on the
+\[cf. [<u>K</u>orân III, 43](#III:37.md)\], and he was walking on the
 surface of the water in the sea. His head was dishevelled and his face
 was small; he was an ascetic in the world, longing for the next world
 and eager for the worship of God. He was a pilgrim in the earth till the
@@ -797,7 +797,7 @@ did not die." Others say, "No, God made him die for three hours." Others
 say, "For seven hours, then He brought him back to life." And those who
 say this are expounding His saying (Exalted is He!), "Verily I will
 cause you to die and will raise you to Myself." \[[<u>K</u>orân III,
-48.](#III:37)\]
+48.](#III:37.md)\]
 
    And when the Jews seized the person who had been made to resemble
 him, they bound him and began to lead him with a rope and say to him,
@@ -948,7 +948,7 @@ him anoint his head and his beard and wipe his lips, that men may not
 see that he is fasting. And when he gives with his right hand let him
 hide it from his left hand, and when he prays let him lower the screen
 of his door, for God will apportion praise as He apportions provision."
-\[Cf. [*A.*, 87](#A87), p. 48.\]
+\[Cf. [*A.*, 87](#A87.md), p. 48.\]
 
    <span id="A56=M55"></span>*A.*, 56; *M.*, 55.--The Messiah (Peace be
 upon him!) said, "Blessed is he whom God teaches His Book, and who does
@@ -1001,7 +1001,7 @@ companies of the prophets, fear infidelity."
 authority of our prophet \[i.e. Mohammad\] and on the authority of Jesus
 (Peace be upon them!), "Four things are attained only with
 trouble--silence, which is the beginning of worship; humility; much
-glorifying of God; and small possessions." \[Cf. [*A.*, 135](#A135), p.
+glorifying of God; and small possessions." \[Cf. [*A.*, 135](#A135.md), p.
 55.\]
 
    <span id="A83"></span>*A.*, 83.--Jesus (Peace be upon him!) said, "He
@@ -1019,7 +1019,7 @@ neglect of everything else."
 your right hand has done; then he who sees the hidden things will reward
 you openly. And when you fast, wash your face and anoint your head, that
 no one <span id="page_49">p. 49</span> other than your Lord may know of
-it." \[Cf. [*A.*, 55](#A55), p. 46.\]
+it." \[Cf. [*A.*, 55](#A55.md), p. 46.\]
 
    <span id="A89=M68"></span>*A.*, 89; *M.*, 68.--It is related that
 Jesus (Peace be upon him!) said to the Children of Israel, "Where does
@@ -1181,7 +1181,7 @@ for nothing with your Lord."
 Jesus, son of Mary (Peace be upon him!), "Four things are found only in
 a believer: silence which is the beginning of devotion, humility,
 glorifying of God (Exalted is He!), and a small amount of evil." \[Cf.
-[*A.*, 76; *M.*, 64](#A76=M64), p. 48.\]
+[*A.*, 76; *M.*, 64](#A76=M64.md), p. 48.\]
 
    <span id="A136"></span>*A.*, 136.--It is related concerning Jesus,
 son of Mary (Peace be upon him!), that he said, "Every word which is not
@@ -1220,7 +1220,7 @@ is something wonderful about one being saved in the way he is saved."
 
    <span id="A153"></span>*A.*, 153.--Jesus said, "If Thou punishest
 them they are Thy servants, and if Thou forgivest them Thou art the
-mighty and the wise One." \[[<u>K</u>orân V, 118](#V:109).\]
+mighty and the wise One." \[[<u>K</u>orân V, 118](#V:109.md).\]
 
    <span id="A154"></span>*A.*, 154.--In the Gospel \[there is
 written\], "I am the prince of life and the ways of truth; whoever
@@ -1308,7 +1308,7 @@ counsel disappears."
 
    <span id="A190"></span>*A.*, 190.--There has been handed down from
 Jesus (God's blessings be upon him!), "He who has not been born twice
-shall not enter the kingdom of heaven." \[Cf. [*A.*, 207](#A207), p.
+shall not enter the kingdom of heaven." \[Cf. [*A.*, 207](#A207.md), p.
 61.\]
 
    <span id="A191"></span>*A.*, 191.--It is related concerning Jesus
@@ -1353,7 +1353,7 @@ when it is put over your eyes."
 twice will not see the kingdom of the heavens and the earth. By God,
 verily we are of those who have been born twice. The first birth is the
 birth of nature, and the second birth is the birth of the spirit in the
-heaven of knowledge." \[Cf. [*A.*, 190](#A190), p. 59.\]
+heaven of knowledge." \[Cf. [*A.*, 190](#A190.md), p. 59.\]
 
    <span id="A209"></span>*A.*, 209.--Sufyân al Thaurî used to say: "A
 man said to Jesus, son of Mary (Blessing and peace be upon him!), "Give
@@ -1558,7 +1558,7 @@ guard against you! "
 
    <span id="A46"></span>*A.*, 46.--Jesus (Peace be upon him!) said,
 "The world is a bridge, so pass over it and do not inhabit it." \[Cf.
-[*A.*, 75](#A75), p. 71.\]
+[*A.*, 75](#A75.md), p. 71.\]
 
    <span id="A47=M49"></span>*A.*, 47; *M.*, 49.--Jesus (Peace be upon
 him!) said, "Verily I say unto you, as a sick man looks at food and
@@ -1583,7 +1583,7 @@ kills him."
 Jesus (Peace be upon him!), "How is it that you can walk on water and we
 cannot?" Then he said to them, "What do you think of the dînâr and the
 dirhem?" \[*pieces of money*\]. They replied, "They are good." He said,
-"But they and mud are alike to me." \[Cf. [*A.*, 126](#A126), p. 74.\]
+"But they and mud are alike to me." \[Cf. [*A.*, 126](#A126.md), p. 74.\]
 
    <span id="A50=M52"></span>*A.*, 50; *M.*, 52.--Jesus (Blessing and
 peace be upon him!) said, "In wealth there are calamities: that one
@@ -1638,13 +1638,13 @@ inhabit it." And some people said to him, "O prophet of God, if you
 would only order us to build a house in which we might worship God!" He
 replied, "Go and build a house on water." They said, "How will a
 building stand on water?" He replied, "And how will worship stand along
-with love of this world?" \[Cf. [*A.*, 46](#A46), p. 68.\]
+with love of this world?" \[Cf. [*A.*, 46](#A46.md), p. 68.\]
 
    <span id="A77"></span>*A.*, 77.--\`Obaid, son of \`Omair, said, The
 Messiah, son of Mary (Peace be upon him!) used to wear hair clothing,
 and eat wild fruits \[*lit*. trees\], and he had no son to die, and no
 house to be demolished, and he stored up nothing for the morrow. He
-slept wherever the evening overtook him. \[Cf. [*A.*, 118](#A118), p.
+slept wherever the evening overtook him. \[Cf. [*A.*, 118](#A118.md), p.
 73.\]
 
    <span id="A79"></span>*A.*, 79.--Jesus (Peace be upon him!) sat down
@@ -1706,7 +1706,7 @@ are his ploughmen."
    <span id="A118"></span>*A.*, 118 .--The Messiah (Blessing and peace
 be upon him!) said to the disciples, "I am he who <span id="page_74">p.
 74</span> has inverted the world on its face; so I have no wife to die
-and no house to be demolished." \[Cf. [*A.*, 77](#A77), p. 71.\]
+and no house to be demolished." \[Cf. [*A.*, 77](#A77.md), p. 71.\]
 
    <span id="A123"></span>*A.*, 123.--Jesus (Peace be upon him!) used to
 say to the world, "Away from me, O swine!"
@@ -1715,7 +1715,7 @@ say to the world, "Away from me, O swine!"
 say, "The sweetness of this world is the bitterness of the next, and
 fine clothes are vanity of heart, meaning conceit and pride of heart;
 and fullness of the belly is abundance of passion, meaning its
-sustenance and its accumulation." \[Cf. [*A.*, 60; *M.*, 57](#A60=M57),
+sustenance and its accumulation." \[Cf. [*A.*, 60; *M.*, 57](#A60=M57.md),
 p. 70.\]
 
    <span id="A126"></span>*A.*, 126.--The disciples said, "O Spirit of
@@ -1727,7 +1727,7 @@ it spoils religion, but in my opinion it is merely like stone and mud."
 And in another story \[it is said\] that he lifted up a stone and asked,
 "Which of the two is dearer to you, this or a dînâr and a dirhem?" They
 replied, "A dînâr." He said, "They are both alike to me." \[Cf. [*A.*,
-49; *M.*, 51](#A49=M51), p. 69.\]
+49; *M.*, 51](#A49=M51.md), p. 69.\]
 
    <span id="A139"></span>*A.*, 139.--If you desire the fast of the son
 of the virgin maid, meaning Jesus, son of Mary (Peace be upon them!),
@@ -1799,7 +1799,7 @@ the ground with his hand and took up some of it and spread it out, and
 behold, he had gold in one of his hands and clay in the other. Then he
 said to his companions, "Which of them is sweeter to your hearts?" They
 said, "The gold." He said, "They are both alike to me." \[Cf. [*A.*, 49;
-*M.*, 51](#A49=M51), p. 69; and [*A.*, 126](#A126), p. 74.\]
+*M.*, 51](#A49=M51), p. 69; and [*A.*, 126](#A126.md), p. 74.\]
 
    <span id="A221"></span>*A.*, 221.--Jesus, son of Mary (Peace be upon
 him!), said, "By God, the world has not settled in the heart of a
@@ -2170,7 +2170,7 @@ without eating and drinking."
 
    <span id="A215"></span>*A.*, 215.--Jesus (Peace be upon him!) said,
 "If I had said it, Thou wouldest have known it \[[<u>K</u>orân V,
-116](#V:109)\], because Thou art He who speaks in my form, and Thou art
+116](#V:109.md)\], because Thou art He who speaks in my form, and Thou art
 the tongue with which I speak, making it sure that Thou alone art in my
 desire and in my person."
 
@@ -2217,7 +2217,7 @@ me I put my finger in my eye, plucked it out, and threw it after the
 woman." Then Jesus (Peace be upon him!) said to him, "Do you pray to
 God, that I may say Amen to your prayer!" So he prayed and the sky was
 covered with clouds, and the rain poured down and they were provided
-with water. \[Cf. [*A.*, 201](#A201), p. 121.\]
+with water. \[Cf. [*A.*, 201](#A201.md), p. 121.\]
 
    <span id="A39"></span>*A.*, 39.--\`Omar, son of Sa\`îd, said: Jesus
 (Peace be upon him!) passed a village, and lo! all its people were dead
@@ -2309,7 +2309,7 @@ self-conceit; and as regards the other, I have nullified his evil deeds
 because he despised himself." So \[Jesus\] informed them about that,
 <span id="page_100">p. 100</span> and joined the robber to himself in
 his wandering and made him one of his disciples. \[Cf. [*A.*,
-137](#A137), p. 109.\]
+137](#A137.md), p. 109.\]
 
    <span id="A84"></span>*A.*, 84.--It is related that Jesus (Peace be
 upon him!) passed three people whose bodies were wasted and who were
@@ -2554,7 +2554,7 @@ servant, Verily you were not pleased with My decree and you despised My
 servant, so I have made you accursed among the people of hell; I have
 changed your abodes in Paradise for his in hell, and have given your
 abodes in Paradise to My servant and his abodes in hell to you." \[Cf.
-[*A.*, 67; *M.*, 59](#A67=M59), p. 99 ?\].
+[*A.*, 67; *M.*, 59](#A67=M59.md), p. 99 ?\].
 
    <span id="A138"></span>*A.*, 138.--\`Abdallah, son of <u>H</u>abân,
 al Bokhârî told us on the authority of Abû al Faraj al Azdî that Jesus,
@@ -2588,7 +2588,7 @@ offered up a prayer for him, and an angel was standing and saying
 'Amen!' Then God (Exalted is He!) sent an angel to me and he curbed me
 with an iron curb." Then Jesus (Peace be upon him!) said, "O fuller,
 recommence your work, for God has forgiven you by the blessing of your
-almsgiving to Him." \[Cf. [*A.*, 210](#A210), p. 126.\]
+almsgiving to Him." \[Cf. [*A.*, 210](#A210.md), p. 126.\]
 
    <span id="A143_bis"></span>*A.*, 143 *bis*.--The prophet--i.e.
 Mohammad--(God bless him and grant him peace!) said that God commanded
@@ -2693,7 +2693,7 @@ upon him!) saluted him, but he did not return the salutation; so he
 said, "I am Jesus." Then God (Exalted is He!) revealed to Jesus, "How
 can he in whose heart is half an atom of My love listen to the words of
 men? By My might and glory, if I were to cleave him with a saw, he would
-not be aware of that!" \[Cf. [*A.*, 189](#A189), p. 120.\]
+not be aware of that!" \[Cf. [*A.*, 189](#A189.md), p. 120.\]
 
    <span id="A171"></span>*A.*, 171.--It is related in the stories that
 John \[the Baptist\] and Jesus (Peace be upon them!) were walking in the
@@ -2786,7 +2786,7 @@ someone shouted to him, "O Jesus, he has asked us for something like an
 atom of Our pure love, and We knew that he was not able for that, so We
 gave him a seventieth part of an atom, and he is bewildered in it thus;
 so what would it have been like if We had given him more than that?"
-\[Cf. [*A.*, 170](#A170), p. 116.\]
+\[Cf. [*A.*, 170](#A170.md), p. 116.\]
 
    <span id="A201"></span>*A.*, 201.--It is related that Jesus, son of
 Mary, (Peace be upon him!) went out with the people to pray for rain;
@@ -2807,7 +2807,7 @@ Jesus (Peace be upon him!) raised his hands and said, "O God, verily
 Thou hast created us and hast stood security for our provisions; so send
 the sky raining copiously upon us." Jesus (Peace be upon him!) had not
 finished his prayer before the rain descended and covered the
-worshippers and the country. \[Cf. [*A.*, 10](#A10), p. 95.\]
+worshippers and the country. \[Cf. [*A.*, 10](#A10.md), p. 95.\]
 
    <span id="A202"></span>*A.*, 202.--It is related that John \[the
 Baptist\] and Jesus (Blessing and peace be upon them!) went together on
@@ -2895,7 +2895,7 @@ have you done to-day?" He replied, "I have done nothing." He said,
 "Consider what you have done." He said, "I have done nothing, except
 that I had a piece of bread in my hand, and a poor man passed me and
 begged from me and I gave him some of it." Then he said, "By it
-\[death\] was averted from you." \[Cf. [*A.*, 138](#A138), p. 111.\]
+\[death\] was averted from you." \[Cf. [*A.*, 138](#A138.md), p. 111.\]
 
    The following saying about Jesus is attributed to Mohammad.
 
@@ -2948,4 +2948,4 @@ upright. And praise be to God, the Lord of the worlds!"
 
 ------------------------------------------------------------------------
 
-[Intangible Textual Heritage](../../index) [Islam](../index)
+[Intangible Textual Heritage](../../index) [Islam](../index.md)

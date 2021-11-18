@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat09)  [Next](flat11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat09)  [Next](flat11.md) 
 
 ------------------------------------------------------------------------
 
@@ -493,4 +493,4 @@ as any of his age in the county Cork."
 
 ------------------------------------------------------------------------
 
-[Next: Fairies Or No Fairies](flat11)
+[Next: Fairies Or No Fairies](flat11.md)

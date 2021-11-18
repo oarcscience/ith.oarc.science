@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp86)  [Next](prp88) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp86)  [Next](prp88.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ may have a more deterrent effect.\]
 ------------------------------------------------------------------------
 
 [Next: 88. This place, O youths, I protect, nor less this turf-builded
-cottage](prp88)
+cottage](prp88.md)

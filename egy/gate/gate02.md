@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate01)  [Next](gate03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate01)  [Next](gate03.md) 
 
 ------------------------------------------------------------------------
 
@@ -188,4 +188,4 @@ magical powers" read "her magical powers to those"; p. 113, p. 119, l.
 
 ------------------------------------------------------------------------
 
-[Next: The First Hour](gate03)
+[Next: The First Hour](gate03.md)

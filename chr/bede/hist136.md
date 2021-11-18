@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist135) 
-[Next](hist137) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist135.md) 
+[Next](hist137.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -291,4 +291,4 @@ the shepherd."
 ------------------------------------------------------------------------
 
 [Next: XX. How Albinus succeeded to the godly Abbot Hadrian, and Acca to
-Bishop Wilfrid. \[709 A.D.\]](hist137)
+Bishop Wilfrid. \[709 A.D.\]](hist137.md)

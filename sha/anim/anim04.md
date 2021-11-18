@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim03)  [Next](anim05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim03)  [Next](anim05.md) 
 
 ------------------------------------------------------------------------
 
@@ -316,4 +316,4 @@ existence.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Soul's Nature](anim05)
+[Next: Chapter III. The Soul's Nature](anim05.md)

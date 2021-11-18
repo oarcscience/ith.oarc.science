@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai34)  [Next](iai36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai34)  [Next](iai36.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Thine offspring with starvation I will strike!"
 
 At last obedient doth Allat speak:  
 "Go, Namtar! and the iron palace strike!  
-O'er Asherim <span id="fr_236"></span>[1](#fn_234) adorned let the dawn
+O'er Asherim <span id="fr_236"></span>[1](#fn_234.md) adorned let the dawn
 break!  
 And seat the spirits on their thrones of gold!  
 Let Ishtar Life's bright waters then behold,  
@@ -36,7 +36,7 @@ And Namtar then goes through the palace walls,
 And flings the light through all the darkened halls,  
 And places all the spirits on their thrones,  
 Leads Ishtar to the waters near the cones <span
-id="fr_237"></span>[1](#fn_234).  
+id="fr_237"></span>[1](#fn_234.md).  
 She drinks the sparkling water now with joy,  
 Which all her form doth cleanse and purify.  
 And he at the first gate her robe returns,  
@@ -108,7 +108,7 @@ And nestling closed his eyes in bliss again.
 
 ### Footnotes
 
-<span id="fn_234"></span>[98:1](iai35.htm#fr_237) "Asherim," literally
+<span id="fn_234"></span>[98:1](iai35.htm#fr_237.md) "Asherim," literally
 "stone stakes" or "cones," the symbols of the goddess Asherah or Ishtar
 (Sayce), but Calmet says that the god Ashima is a deity of very
 uncertain origin, and that the name "Ashima" may very well compared with
@@ -123,4 +123,4 @@ came from Hamath in Syria.
 ------------------------------------------------------------------------
 
 [Next: Column V. Tammuz is Restored to Life by the Waters of Life--His
-Song of Love](iai36)
+Song of Love](iai36.md)

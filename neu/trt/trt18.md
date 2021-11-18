@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt17)  [Next](trt19) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt17)  [Next](trt19.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ departed and followed Sir Ector, who had ridden on before.
 
 ------------------------------------------------------------------------
 
-[Next: VIII: The Adventure of Sir Bors](trt19)
+[Next: VIII: The Adventure of Sir Bors](trt19.md)

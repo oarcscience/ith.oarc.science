@@ -13,10 +13,10 @@ Luther</span>.
 ------------------------------------------------------------------------
 
 <span class="c_e"> <span class="c_t">[Martin Luther's 95
-Theses](../the9510.txt) \[<span class="c_d">1517</span>\] </span>  
-<span class="c_e"> <span class="c_t">[Small Catechism](smallcat)</span>
+Theses](../the9510.txt.md) \[<span class="c_d">1517</span>\] </span>  
+<span class="c_e"> <span class="c_t">[Small Catechism](smallcat.md)</span>
 </span>  
-<span class="c_e"> <span class="c_t">[Large Catechism](largecat)</span>
+<span class="c_e"> <span class="c_t">[Large Catechism](largecat.md)</span>
 </span>  
 </span>
 
@@ -25,22 +25,22 @@ Theses](../the9510.txt) \[<span class="c_d">1517</span>\] </span>
 ### <span id="sermons">Sermons of Martin Luther</span>
 
 <span class="c_e"> <span class="c_t">[Enemies of the Cross of
-Christ](enemies)</span> </span>  
+Christ](enemies.md)</span> </span>  
 <span class="c_e"> <span class="c_t">[Christ Our Great High
-Priest](highpre)</span> </span>  
+Priest](highpre.md)</span> </span>  
 <span class="c_e"> <span class="c_t">[The Twofold Use of the Law &
-Gospel: "Letter" & "Spirit"](lawgosp)</span> </span>  
+Gospel: "Letter" & "Spirit"](lawgosp.md)</span> </span>  
 <span class="c_e"> <span class="c_t">[Of The Office of
-Preaching](preoff)</span> </span>  
+Preaching](preoff.md)</span> </span>  
 <span class="c_e"> <span class="c_t">[The Parable of the
-Sower](sower)</span> </span>  
+Sower](sower.md)</span> </span>  
 <span class="c_e"> <span class="c_t">[Christ's Holy
-Sufferings](chrsuff)</span> </span>  
+Sufferings](chrsuff.md)</span> </span>  
 <span class="c_e"> <span class="c_t">[On Faith & Coming to
-Christ](tochrist)</span> </span>  
+Christ](tochrist.md)</span> </span>  
 <span class="c_e"> <span class="c_t">[The Wheat & The
-Tares](wheat)</span> </span>  
+Tares](wheat.md)</span> </span>  
 <span class="c_e"> <span class="c_t">[Address to the
-Nobility](atn)</span> (<span class="c_a">R.S. Grignon</span>, tr.)
+Nobility](atn)</span> (<span class="c_a">R.S. Grignon</span>, tr..md)
 </span>  
 <span class="c_da"></span>

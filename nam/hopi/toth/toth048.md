@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth047)  [Next](toth049) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth047)  [Next](toth049.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 45. HOW THE CHILDREN OF PIVÁNHONK'API OBTAINED PERMISSION TO CATCH BIRDS. <span id="fr_106"></span>[1](#fn_104)
+## 45. HOW THE CHILDREN OF PIVÁNHONK'API OBTAINED PERMISSION TO CATCH BIRDS. <span id="fr_106"></span>[1](#fn_104.md)
 
 Halíksai! At Hû'kovi they were living, and at Pivánhonk'api they were
 also living. At both places there were a great many children, and they
@@ -39,9 +39,9 @@ catching birds there still.
 
 ### Footnotes
 
-<span id="fn_104"></span>[154:1](toth048.htm#fr_106) Told by Kwáyeshva
+<span id="fn_104"></span>[154:1](toth048.htm#fr_106.md) Told by Kwáyeshva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 46. The Jug Boy](toth049)
+[Next: 46. The Jug Boy](toth049.md)

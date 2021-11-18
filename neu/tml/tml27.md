@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml26)  [Next](tml28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml26)  [Next](tml28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ Scotland--The Lovesick Queen--Amleth's Victory--Over-king claims his
 Kingdom--His Death--An Unfaithful Queen.
 
 KING RORIK, son of Hother. made joint governors of Jutland two brothers
-whose names were Horwendil <span id="fr_50"></span>[1](#fn_50) and Feng.
+whose names were Horwendil <span id="fr_50"></span>[1](#fn_50.md) and Feng.
 Their father, Gerwendil, was governor before them. Horwendil was chief
 ruler, but he sought for glory as a sea rover. King Koll, of Norway, was
 also ambitious for ocean renown, and he longed to battle with the ships
@@ -49,7 +49,7 @@ stately burial, and
 
 <span id="img_23200"></span> <span align="CENTER"> [![KING
 RORIK&lt;br&gt; From the painting by H. W. Koekkoek](tn/23200.jpg)  
-Click to enlarge](img/23200.jpg)  
+Click to enlarge](img/23200.jpg.md)  
 KING RORIK  
 From the painting by H. W. Koekkoek  
 </span>
@@ -65,7 +65,7 @@ Many triumphs did Horwendil afterwards achieve, and to his king he gave
 gifts of the spoils of battle. So became he a hero in the kingdom.
 Rorik, who exalted Horwendil with honours, and made him King of Jutland,
 gave his daughter, the princess Gerutha <span
-id="fr_51"></span>[1](#fn_51), to that renowned sea rover to be his
+id="fr_51"></span>[1](#fn_51.md), to that renowned sea rover to be his
 wife. To them was a son born whose name was Amleth.
 
 Now, Feng was stricken with jealousy because of his brother's fortune
@@ -76,7 +76,7 @@ Feng declare that he had slain his brother because that he had shown
 cruelty unto Gerutha, whom he had rescued when in danger. In this he was
 believed.
 
-But Amleth <span id="fr_52"></span>[2](#fn_52) was not deluded. He
+But Amleth <span id="fr_52"></span>[2](#fn_52.md) was not deluded. He
 perceived the evil purpose of Feng's heart, and, fearing his own safety,
 he, feigned madness with great cunning so that he might live to slay the
 usurper. He went about with mire on his face. Often would he sit
@@ -86,7 +86,7 @@ father's death.
 
 There were those who suspected that his madness was a pretence, and he
 was cunningly put to test, but his foster-brother <span
-id="fr_53"></span>[3](#fn_53) went about with him and gave him timely
+id="fr_53"></span>[3](#fn_53.md) went about with him and gave him timely
 warning.
 
 A horse was brought to Amleth, and he mounted it with his back to its
@@ -104,13 +104,13 @@ size to cut such a huge ham.
 
 To the sand dunes they then pointed, and said: "Behold the meal", and
 Amleth, speaking of the sand, declared that it was well-ground meal from
-the Mill of Storms. <span id="fr_54"></span>[1](#fn_54)
+the Mill of Storms. <span id="fr_54"></span>[1](#fn_54.md)
 
 A maiden was sent forth to waylay Amleth, but with her he had a secret
 understanding. Thus were those who sought to expose the prince as one
 who shammed thwarted in their purposes.
 
-A courtier <span id="fr_55"></span>[2](#fn_55), one of Feng's friends,
+A courtier <span id="fr_55"></span>[2](#fn_55.md), one of Feng's friends,
 who had more self-assurance than good tact, contrived a plot with
 purpose to make certain of knowing whether Amleth were weak-minded or a
 cunning pretender. He counselled Feng to leave Amleth alone with the
@@ -359,7 +359,7 @@ possessions with
 <span id="page_242">p. 242</span>
 
 it, and pleaded with him to set aside his marriage and have her for
-wife. <span id="fr_56"></span>[1](#fn_56)
+wife. <span id="fr_56"></span>[1](#fn_56.md)
 
 Then the queen rose and embraced Amleth, kissing him, and he with joy
 embraced and kissed her in turn. A great feast was held, and they were
@@ -406,7 +406,7 @@ abomination. But when Amleth fell, the queen kept not her promise; she
 made offer of herself to Wiglek and became his bride.
 
 Amleth was buried on a plain in Jutland which still bears his
-name. <span id="fr_57"></span>[1](#fn_57)
+name. <span id="fr_57"></span>[1](#fn_57.md)
 
  
 
@@ -511,18 +511,18 @@ And live the purer with the other half.
 
 ### Footnotes
 
-<span id="fn_50"></span>[232:1](tml27.htm#fr_50) Rydberg identifies
+<span id="fn_50"></span>[232:1](tml27.htm#fr_50.md) Rydberg identifies
 Horwendil with Orvandil, Svipdag's father, and holds that there are
 memories of the Svipdag myth in the Hamlet story as related by Saxo,
 Halfdan being the original of Feng, and Groa of Gerutha (Gertrude).
 
-<span id="fn_51"></span>[233:1](tml27.htm#fr_51) Gertrude.
+<span id="fn_51"></span>[233:1](tml27.htm#fr_51.md) Gertrude.
 
-<span id="fn_52"></span>[233:2](tml27.htm#fr_52) Amleth means "insane".
+<span id="fn_52"></span>[233:2](tml27.htm#fr_52.md) Amleth means "insane".
 
-<span id="fn_53"></span>[233:3](tml27.htm#fr_53) Shakespeare's Horatio.
+<span id="fn_53"></span>[233:3](tml27.htm#fr_53.md) Shakespeare's Horatio.
 
-<span id="fn_54"></span>[234:1](tml27.htm#fr_54) The World-mill. In an
+<span id="fn_54"></span>[234:1](tml27.htm#fr_54.md) The World-mill. In an
 old saga, reference is made to the Island-mill beyond the world's edge,
 which is worked by nine maidens. It is called "Amlode's mealbin". Thus,
 in the tenth century, we have an Icelandic reference to a mythical
@@ -537,15 +537,15 @@ traditions we do not expect exact references, but rather suggestive
 associations. The chief actor in a popular tale absorbs all else as he
 develops independently through the ages.
 
-<span id="fn_55"></span>[234:2](tml27.htm#fr_55) Shakespeare's Polonius.
+<span id="fn_55"></span>[234:2](tml27.htm#fr_55.md) Shakespeare's Polonius.
 
-<span id="fn_56"></span>[242:1](tml27.htm#fr_56) Evidently a memory of
+<span id="fn_56"></span>[242:1](tml27.htm#fr_56.md) Evidently a memory of
 Pictish marriage customs. The Irish Cuchullin has a similar experience
 in Scotland.
 
-<span id="fn_57"></span>[243:1](tml27.htm#fr_57) Muller says there are
+<span id="fn_57"></span>[243:1](tml27.htm#fr_57.md) Muller says there are
 two localities named "Amelhede"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII. Hamlet's Storm-mill](tml28)
+[Next: Chapter XXIII. Hamlet's Storm-mill](tml28.md)

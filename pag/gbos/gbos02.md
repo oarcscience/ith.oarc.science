@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos01)  [Next](gbos03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos01)  [Next](gbos03.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ initiation, whether of one degree or of all three.
 
 ------------------------------------------------------------------------
 
-[Next: Initiation: First Degree](gbos03)
+[Next: Initiation: First Degree](gbos03.md)

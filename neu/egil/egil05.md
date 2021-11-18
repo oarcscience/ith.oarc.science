@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil04)  [Next](egil06) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil04)  [Next](egil06.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ was found.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER V. The king's message to Kveldulf.](egil06)
+[Next: CHAPTER V. The king's message to Kveldulf.](egil06.md)

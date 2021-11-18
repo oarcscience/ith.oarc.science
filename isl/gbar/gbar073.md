@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar072) [Next](gbar074)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar072) [Next](gbar074.md)
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ that he sin not against God his creator.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar074)
+[Next](gbar074.md)

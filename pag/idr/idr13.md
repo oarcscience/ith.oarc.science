@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr12) 
-[Next](idr14) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr12.md) 
+[Next](idr14.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ for *The Light of Britanni*a has no Bardo-Druidic creed.
 
 ------------------------------------------------------------------------
 
-[Next: Druidical Belief](idr14)
+[Next: Druidical Belief](idr14.md)

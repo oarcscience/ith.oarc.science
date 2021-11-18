@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj19)  [Next](chj21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj19)  [Next](chj21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -130,7 +130,7 @@ for a statesman to adopt.
 Shōtoku's home administration is chiefly connected with an attempt made
 in 603 to arrange the official ranks of persons in Government service
 according to the model of the Chinese Court, <span
-id="fr_228"></span>[1](#fn_226) and the Constitution of the Seventeen
+id="fr_228"></span>[1](#fn_226.md) and the Constitution of the Seventeen
 Articles issued in the following year. The newly graded official ranks
 were named after the Confucianist virtues, as though to remind the
 holders of the paramount importance of virtue above all things else; in
@@ -154,7 +154,7 @@ in view of the still constant opposition to foreign doctrines. Neither
 can we forget that, just about this time, an Emperor of China was coming
 to the conclusion that, whenever a ruler showed himself too partial
 towards the doctrines of Buddhism, he always brought ruin on his
-dynasty. <span id="fr_229"></span>[1](#fn_227) In Shōtoku's eyes,
+dynasty. <span id="fr_229"></span>[1](#fn_227.md) In Shōtoku's eyes,
 Buddhism wore a very different aspect.
 
 In Article III., Shōtoku dwells on the dignity of the Emperor, who
@@ -167,7 +167,7 @@ the murder of the Emperor Sujun by Shōtoku's ally, Soga no Umako. Had
 Shōtoku felt himself in any way to be blamed for his continued
 friendship for the man who had committed that deed, he would scarcely
 have ventured to speak as he did of the respect due to the
-Emperor. <span id="fr_230"></span>[2](#fn_228) It would seem as though
+Emperor. <span id="fr_230"></span>[2](#fn_228.md) It would seem as though
 
 <span id="page_183">p. 183</span>
 
@@ -247,13 +247,13 @@ exercises patience and self-control, and waits till winter comes there
 will be no friction (Art. xvi.). "Never act," he concludes, "on your own
 private initiative or authority; and never take any step of importance
 without consultation. In a doubtful case, consult the more" (Art.
-xvii.). <span id="fr_231"></span>[1](#fn_229)
+xvii.). <span id="fr_231"></span>[1](#fn_229.md)
 
 Such were the principal defects which Shōtoku found in the
 administration of the country after he had had his hand at the helm of
 State for several years. For these evils he had two great remedies. The
 one was the reform of the judiciary and magistracy according to
-Chinese <span id="fr_232"></span>[2](#fn_230)
+Chinese <span id="fr_232"></span>[2](#fn_230.md)
 
 <span id="page_186">p. 186</span>
 
@@ -273,7 +273,7 @@ religion of Japan was like a tripod standing on three legs, Buddhism,
 Confucianism, and the Shinto, cannot be sustained, because, as Dazai
 truly observes, Shinto did not exist, *i.e.* was not elevated into a
 system, until long after the Crown Prince's time. <span
-id="fr_233"></span>[1](#fn_231) But it is also true that there is no
+id="fr_233"></span>[1](#fn_231.md) But it is also true that there is no
 sign of his having forced his beliefs on the consciences of his people
 against their wills. He confined himself to preaching the faith which he
 had adopted with all his heart and soul; for other forms of faith and
@@ -307,7 +307,7 @@ gentlemen of his aunt's court. In the year 606, two years after the
 promulgation of his Constitution, he lectured in his palace at Naniwa on
 three books, the "Saddharmapundarika Sūtra," the
 "Vimāla-Kīrtti-nirdesa-sūtra," and the
-"S’rimāladenī-simhananda-sūtra." <span id="fr_234"></span>[1](#fn_232)
+"S’rimāladenī-simhananda-sūtra." <span id="fr_234"></span>[1](#fn_232.md)
 In the same year he decreed the observance of S’akyamuni's birthday. We
 may sum up the three Sūtras by saying that the first furnished Shōtoku
 with a manual of theology; the second, with texts on the duties of the
@@ -325,7 +325,7 @@ separate heading as one of the Sūtras of the Mahāyāna not included under
 any of the previous five classes. It is post-Christian in its structure,
 and betrays acquaintance with the New Testament scriptures, an
 acquaintance which it may have derived through Manichæism. <span
-id="fr_235"></span>[1](#fn_233) It represents S’akyamuni, but not as he
+id="fr_235"></span>[1](#fn_233.md) It represents S’akyamuni, but not as he
 was in the guise of his historical life, preaching a simple life to
 simple persons, and bringing to the searcher after Truth in India the
 gospel of a relief from the fetters of caste and the possibility of
@@ -345,7 +345,7 @@ with or without his great son and representative Kwannon
 shall infer that Shōtoku identified the glorified S’akyamuni of the
 Hokekyo, the counterpart, to use no stronger expression, of our Christ,
 with the Great Buddha, Amitābha, as do the Shinshuists to-day. <span
-id="fr_236"></span>[2](#fn_234)
+id="fr_236"></span>[2](#fn_234.md)
 
 The other two Sūtras are not so well known, neither
 
@@ -356,7 +356,7 @@ scholars. All I know of the "Shomangyō," the Sūtra treating of the
 duties of women, is that it is classed by Nanjo among the Avatamsaka
 Scriptures which formed the Canon used by the Yogāchārya sect, the
 Japanese Hossō. It is therefore a writing of a comparatively late
-date.' <span id="fr_237"></span>[1](#fn_235) Of the "Yuimakyo," which
+date.' <span id="fr_237"></span>[1](#fn_235.md) Of the "Yuimakyo," which
 deals with the duties of the Buddhist layman, there is fortunately an
 English translation, published in 1897 in the columns of a now defunct
 periodical, the *Hansei Zasshi*. It is too lengthy to be reproduced
@@ -394,7 +394,7 @@ great Being, the counterpart of our Western Christ, who humbled himself
 that he might save man, who was exalted when he had accomplished that
 salvation, and from whom so much of comfort and strength has flowed out
 to suffering humanity in Japan and the Far East. <span
-id="fr_238"></span>[1](#fn_236) A further study of Comparative
+id="fr_238"></span>[1](#fn_236.md) A further study of Comparative
 Chronology, one of the most important branches of the study of religion,
 will show us that Shōtoku was the contemporary of that religious
 movement which took place in the capital of the Chinese Tangs, when the
@@ -406,19 +406,19 @@ came to them from the participation in a common misfortune.
 
 ### Footnotes
 
-<span id="fn_226"></span>[181:1](chj20.htm#fr_228) The grades are as
+<span id="fn_226"></span>[181:1](chj20.htm#fr_228.md) The grades are as
 follows: *Daitoku*, *Shōtoku*, *Daijin*, *Shōjin*, *Tairei*, *Shōrei*,
 *Daishin*, *Shōshin*, *Daigi*, *Shōgi*, *Daichi*, *Shōchi. Toku*, *Jin*,
 *Rei*, *Shin*, *Gi*, *Chi* (virtue, benevolence, propriety, sincerity,
 justice, wisdom) are the basal Confucianist virtues.
 
-<span id="fn_227"></span>[182:1](chj20.htm#fr_229) Taitsung of the Tang
+<span id="fn_227"></span>[182:1](chj20.htm#fr_229.md) Taitsung of the Tang
 Dynasty, A.D. 627.
 
-<span id="fn_228"></span>[182:2](chj20.htm#fr_230) Aston's "Nihongi,"
+<span id="fn_228"></span>[182:2](chj20.htm#fr_230.md) Aston's "Nihongi,"
 vol. i. p. 129, etc.
 
-<span id="fn_229"></span>[185:1](chj20.htm#fr_231) This passage may
+<span id="fn_229"></span>[185:1](chj20.htm#fr_231.md) This passage may
 possibly have inspired one of the recent poems of her Majesty the
 Empress—
 
@@ -440,41 +440,41 @@ And e’en the smallest deed, do heedfully."
 
 </div>
 
-<span id="fn_230"></span>[185:2](chj20.htm#fr_232) P. Balet ("Mélanges
+<span id="fn_230"></span>[185:2](chj20.htm#fr_232.md) P. Balet ("Mélanges
 Japonais," vol. iii. p. 287) points out that when Shōtoku, in 607, sent
 students to China (Sui Dynasty, 590–619) to study actual conditions, he
 chose only the descendants of Chinese families naturalized in Japan. All
 bear the designation *Ayabito*, which denotes a Chinaman naturalized in
 Japan.
 
-<span id="fn_231"></span>[186:1](chj20.htm#fr_233) See Mr.
+<span id="fn_231"></span>[186:1](chj20.htm#fr_233.md) See Mr.
 Consul-General J. C. Hall, "A Japanese Philosopher on Shinto," in
 *Transactions of the Third International Congress for the Study of the
 History of Religions* (Oxford, 1908).
 
-<span id="fn_232"></span>[187:1](chj20.htm#fr_234) In Japanese,
+<span id="fn_232"></span>[187:1](chj20.htm#fr_234.md) In Japanese,
 "Hokekyō," "Yuima-kyō," "Shomangyō." In Nanjo's Catalogue, Nos. 134,
 144, and 23 (48).
 
-<span id="fn_233"></span>[188:1](chj20.htm#fr_235) See my "Wheat among
+<span id="fn_233"></span>[188:1](chj20.htm#fr_235.md) See my "Wheat among
 the Tares."
 
-<span id="fn_234"></span>[188:2](chj20.htm#fr_236) The oldest Image in
+<span id="fn_234"></span>[188:2](chj20.htm#fr_236.md) The oldest Image in
 Japan, the one sent by the King of Kudara in 552, is said to be at the
 Zenkōji, in Nagano. It represents Amida, Kwannon, and Seishi. See my
 "Wheat among the Tares," *passim*, and Dr. Tada Kanae's "Shoshinge Kâwa"
 (in Japanese).
 
-<span id="fn_235"></span>[189:1](chj20.htm#fr_237) It would be almost
+<span id="fn_235"></span>[189:1](chj20.htm#fr_237.md) It would be almost
 impossible for any single-handed historian of the Mahāyāna to translate
 all the Chinese texts he is obliged to mention. It requires time, money,
 and many sets of brains and hands to lay bare all that is contained in
 the vast Mahāyāna Canon.
 
-<span id="fn_236"></span>[190:1](chj20.htm#fr_238) And yet Shōtoku
+<span id="fn_236"></span>[190:1](chj20.htm#fr_238.md) And yet Shōtoku
 preceded Zendō and the great development of Amidaism which originated
 with him. See next chapter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Buddhism during the Nara Period](chj21)
+[Next: Chapter XIX. Buddhism during the Nara Period](chj21.md)

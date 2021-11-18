@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc27)  [Next](sfoc29) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc27)  [Next](sfoc29.md) 
 
 ------------------------------------------------------------------------
 
@@ -256,4 +256,4 @@ bones of that animal are brittle and easily broken.
 
 ------------------------------------------------------------------------
 
-[Next: And This Also is for Treating the Crippler](sfoc29)
+[Next: And This Also is for Treating the Crippler](sfoc29.md)

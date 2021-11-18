@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch11) 
-[Next](pch13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch11.md) 
+[Next](pch13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -24,7 +24,7 @@ flawed throughout by fatal contradiction. In discussing totemism, he
 certifies, first, the primitive belief of men in their descent from a
 totem animal as established or verified for them "in their inner
 experience—*i.e.*, in the filial reverence and affection which they felt
-towards him, <span id="fr_107"></span>[1](#fn_107) thus salving as truly
+towards him, <span id="fr_107"></span>[1](#fn_107.md) thus salving as truly
 religious the grossest possible "projection of man's own personality" on
 Nature, while the spontaneous animism which early man shared with
 animals is denied the status of "direct consciousness." Then, taking the
@@ -37,7 +37,7 @@ experience, or rather it was but few who attended to the feeling; but
 the *best* must have paid heed to it and have found satisfaction in
 dwelling on it, *else the conception of the deity would never have
 followed on the line on which as a matter of fact it was
-developed*. <span id="fr_108"></span>[2](#fn_108)</span>
+developed*. <span id="fr_108"></span>[2](#fn_108.md)</span>
 
 </div>
 
@@ -52,7 +52,7 @@ varieties of belief are not favoured by the conditions, by their
 environment, will perish—the rest will survive (the surviving belief
 will not necessarily be that of the keenest-sighted man, but *that which
 accords with what the average sight can see of the facts*). <span
-id="fr_109"></span>[3](#fn_109)</span>
+id="fr_109"></span>[3](#fn_109.md)</span>
 
 </div>
 
@@ -65,7 +65,7 @@ of their God"; and he thereupon notes that "this belief has been shared
 by the community they addressed, otherwise the common man would not have
 gained the courage to break an ancient taboo. Certainly no mere appeal
 to reason would counterbalance that inveterate terror." <span
-id="fr_110"></span>[4](#fn_110) On this view any dictum of any
+id="fr_110"></span>[4](#fn_110.md) On this view any dictum of any
 accredited priest would be decisive, irrespective of the average sight";
 and this despite of Dr. Jevons’s refusal to recognise priestcraft as a
 factor in the creation of taboo in particular or religion in general.
@@ -103,16 +103,16 @@ argument must simply be removed from the scientific field.
 
 ### Footnotes
 
-<span id="fn_107"></span>[27:1](pch12.htm#fr_107) P. 108. Compare this
+<span id="fn_107"></span>[27:1](pch12.htm#fr_107.md) P. 108. Compare this
 with the decision that a political mode of thought has no part in
 religion.
 
-<span id="fn_108"></span>[27:2](pch12.htm#fr_108) Pp. 108-109.
+<span id="fn_108"></span>[27:2](pch12.htm#fr_108.md) Pp. 108-109.
 
-<span id="fn_109"></span>[27:3](pch12.htm#fr_109) P. 398.
+<span id="fn_109"></span>[27:3](pch12.htm#fr_109.md) P. 398.
 
-<span id="fn_110"></span>[27:4](pch12.htm#fr_110) Pp. 94-95.
+<span id="fn_110"></span>[27:4](pch12.htm#fr_110.md) Pp. 94-95.
 
 ------------------------------------------------------------------------
 
-[Next: § 9. The Continuity of Religious Phenomena](pch13)
+[Next: § 9. The Continuity of Religious Phenomena](pch13.md)

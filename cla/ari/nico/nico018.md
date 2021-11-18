@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico017) 
-[Next](nico019) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico017.md) 
+[Next](nico019.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ Thus we have stated what virtue is in respect of its genus.
 ------------------------------------------------------------------------
 
 [Next: Chapter 6. Its differentia: it is a disposition to choose the
-mean](nico019)
+mean](nico019.md)

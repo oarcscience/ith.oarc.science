@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](note) [Next](foreword)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](note) [Next](foreword.md)
 
 ------------------------------------------------------------------------
 
@@ -255,4 +255,4 @@ H. J. O'H.
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](foreword)
+[Next: Foreword](foreword.md)

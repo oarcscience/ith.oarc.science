@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca64)  [Next](fsca66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca64)  [Next](fsca66.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -47,7 +47,7 @@ who were regarded<span id="img_24000"></span>
 
 |                                     |
 |-------------------------------------|
-| ![Merman or Triton.](img/24000.jpg) |
+| ![Merman or Triton.](img/24000.jpg.md) |
 
 as a wanton, mischievous tribe, like the satyrs on land. Glaucus,
 another of the inferior deities, is represented as a triton, rough and
@@ -57,7 +57,7 @@ Proteus, as shepherd of the seas,<span id="img_24001"></span>
 
 |                                                   |
 |---------------------------------------------------|
-| ![Triton, with two tails. German.](img/24001.jpg) |
+| ![Triton, with two tails. German.](img/24001.jpg.md) |
 
 is usually distinguished with a crook. Triton, as herald of Neptune, is
 represented always holding, or blowing, his wreathed horn or conch
@@ -73,7 +73,7 @@ sinister supporter a *Triton blowing a conch shell and holding a flag in
 his right hand*.
 
 <span id="img_24100"></span> ![Mermaid and Triton
-supporters.](img/24100.jpg)
+supporters.](img/24100.jpg.md)
 
 Lord Lyttelton bears for supporters *two Mermen proper, in their
 exterior hands a trident or*.
@@ -94,8 +94,8 @@ viewed as male and female of the same creature (in heraldic parlance
 baron and femme). They thus appear in companionship as supporters to the
 arms of Viscount Hood, and similarly in other achievements.
 
-<span id="img_24200"></span> ![Siren](img/24200.jpg)
+<span id="img_24200"></span> ![Siren](img/24200.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Mermaid or Siren](fsca66)
+[Next: The Mermaid or Siren](fsca66.md)

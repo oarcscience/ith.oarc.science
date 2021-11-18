@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut50)  [Next](hut52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut50)  [Next](hut52.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XLVIII.
 
-### Formula of Medicine for Green Vomit. <span id="fr_99"></span>[1](#fn_99)
+### Formula of Medicine for Green Vomit. <span id="fr_99"></span>[1](#fn_99.md)
 
 <span id="page_343">p. 343</span>
 
@@ -48,7 +48,7 @@ like woodpecker crests sticking out there. "This way it will be when
 Indians become," he thought. "However, there will not be many who will
 say of me, 'That is the one who did this way.'" And then he made the
 medicine in the cup. He picked up a blue-stone <span
-id="fr_100"></span>[1](#fn_100) besides. He poured water on the medicine
+id="fr_100"></span>[1](#fn_100.md) besides. He poured water on the medicine
 and carried it with the blue-stone to the house.
 
 When he got there the one in whom the child was moving vomited green
@@ -84,12 +84,12 @@ world will tip up on edge."
 
 ### Footnotes
 
-<span id="fn_99"></span>[340:1](hut51.htm#fr_99) Told at Hupa, December
+<span id="fn_99"></span>[340:1](hut51.htm#fr_99.md) Told at Hupa, December
 1901, by Emma Dusky.
 
-<span id="fn_100"></span>[344:1](hut51.htm#fr_100) A hard, dark colored
+<span id="fn_100"></span>[344:1](hut51.htm#fr_100.md) A hard, dark colored
 stone used to heat in the fire for cooking purposes.
 
 ------------------------------------------------------------------------
 
-[Next: XLIX. Formula of Medicine for Spoiled Stomach](hut52)
+[Next: XLIX. Formula of Medicine for Spoiled Stomach](hut52.md)

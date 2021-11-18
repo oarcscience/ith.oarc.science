@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Next](ybac01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Next](ybac01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ copies.
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](ybac01)
+[Next: Dedication](ybac01.md)

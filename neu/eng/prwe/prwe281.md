@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe280)  [Next](prwe282) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe280)  [Next](prwe282.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ misfortune.
 
 ------------------------------------------------------------------------
 
-[Next: The Magpie](prwe282)
+[Next: The Magpie](prwe282.md)

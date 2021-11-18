@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar005) [Next](gbar007)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar005) [Next](gbar007.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ deceitfully.
 
 ------------------------------------------------------------------------
 
-[Next](gbar007)
+[Next](gbar007.md)
 
  
 

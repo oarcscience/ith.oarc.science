@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj37) 
-[Next](npj39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj37.md) 
+[Next](npj39.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 
 <span id="img_21600"></span>
 
-![IZUTSU](img/21600.jpg)  
+![IZUTSU](img/21600.jpg.md)  
 IZUTSU
 
  
@@ -43,7 +43,7 @@ MAI-GURUMA
 SUMMARIES
 
 OF the plays which are founded on the Ise Monogatari <span
-id="fr_196"></span>[1](#fn_194) the best known are *Izutsu* and
+id="fr_196"></span>[1](#fn_194.md) the best known are *Izutsu* and
 *Kakitsubata*, both by Seami. *Izutsu* is founded on the episode which
 runs as follows:
 
@@ -65,7 +65,7 @@ And she to him:
 "The two strands of my hair  
 That once with yours I measured,  
 Have passed my shoulder;  
-Who but you should put them up?" <span id="fr_197"></span>[2](#fn_195)
+Who but you should put them up?" <span id="fr_197"></span>[2](#fn_195.md)
 
 So they wrote, and at last their desire was fulfilled. Now after a year
 or more had passed the girl's parents died, and they were left without
@@ -124,13 +124,13 @@ can attain to Buddhahood."
 
 ### Footnotes
 
-<span id="fn_194"></span>[219:1](npj38.htm#fr_196) The love-adventures
+<span id="fn_194"></span>[219:1](npj38.htm#fr_196.md) The love-adventures
 of Narihira (825-880 A.D.) in 125 episodes, supposed to have been
 written by Narihira himself.
 
-<span id="fn_195"></span>[219:2](npj38.htm#fr_197) The husband puts up
+<span id="fn_195"></span>[219:2](npj38.htm#fr_197.md) The husband puts up
 the bride's hair.
 
 ------------------------------------------------------------------------
 
-[Next: Hanakatami (The Flower Basket](npj39)
+[Next: Hanakatami (The Flower Basket](npj39.md)

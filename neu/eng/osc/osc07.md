@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc06)  [Next](osc08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc06)  [Next](osc08.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ it are carefully chosen from London parishes.
 
 ------------------------------------------------------------------------
 
-[Next: (5) Shrove Tuesday](osc08)
+[Next: (5) Shrove Tuesday](osc08.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa30)  [Next](soa32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa30)  [Next](soa32.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ the expenditure of untold wealth, could produce such a result.
 
 ------------------------------------------------------------------------
 
-[Next: Air-Ships](soa32)
+[Next: Air-Ships](soa32.md)

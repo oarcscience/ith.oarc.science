@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt42)  [Next](egt44) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt42)  [Next](egt44.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ daily food is not a man,--truly he is less than a woman.
 
 ------------------------------------------------------------------------
 
-[Next: A STORY.](egt44)
+[Next: A STORY.](egt44.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes18)  [Next](tes20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes18)  [Next](tes20.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ He came to the pasture, and walked all around it, but he also could not
 find any tracks outside of it. He grew quite tired. There was on the
 border of the pasture a boulder. He climbed it and sat down to rest. His
 head was resting on his hands, and so he sat thinking. All at once he
-heard a voice, "BIya!" <span id="fr_21"></span>[1](#fn_21) He sprang to
+heard a voice, "BIya!" <span id="fr_21"></span>[1](#fn_21.md) He sprang to
 his feet and looked up. High on the rock there stood an old man, large
 and white, as high as the sky. "O man you see me?"--"I see you."--"You
 hear my voice?"--"I hear your voice."--"What are you doing?"--"I am
@@ -57,9 +57,9 @@ country, summer of 1895.
 
 ### Footnotes
 
-<span id="fn_21"></span>[35:1](tes19.htm#fr_21) One of the usual
+<span id="fn_21"></span>[35:1](tes19.htm#fr_21.md) One of the usual
 invocations. "You man!" (BIy, "man").
 
 ------------------------------------------------------------------------
 
-[Next: 9. A Shaman and a Boy](tes20)
+[Next: 9. A Shaman and a Boy](tes20.md)

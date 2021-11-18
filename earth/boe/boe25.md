@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe24)  [Next](boe26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe24)  [Next](boe26.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ each ruled over by one of the Apostles, whose locality was more or less
 fixed by tradition, and who was at once the sower of the seed, the
 tiller of the field, and the reaper of the harvest.
 
-The Osma Beatus map ([Plate XXXIV](#img_pl34)), although one of the
+The Osma Beatus map ([Plate XXXIV](#img_pl34).md), although one of the
 latest (1203), is regarded as one which is in many of its important
 features most like its prototype. It gives, for instance, alone of all
 the copies, the pictures of the Twelve Apostles in the regions over
@@ -44,7 +44,7 @@ of
 
 <span id="img_fig083"></span> ![FIGURE 83. &lt;i&gt;Monsters of the
 Antipodes&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Margarita
-philosophica&lt;/i&gt;, 1517.)](img/fig083.jpg)  
+philosophica&lt;/i&gt;, 1517.)](img/fig083.jpg.md)  
 FIGURE 83. *Monsters of the Antipodes*.  
 (From *Margarita philosophica*, 1517.)
 
@@ -63,7 +63,7 @@ Rome; to Andrew, Greece or Achia; to
 <span id="img_pl34"></span>
 
 [![](tn/pl34.jpg)  
-Click to enlarge](img/pl34.jpg)
+Click to enlarge](img/pl34.jpg.md)
 
 \[paragraph continues\] Thomas, India; to James, Spain; to John, Asia;
 to Matthew, Macedonia; to Philip, Gaul; to Bartholomew, Lycaonia; to
@@ -75,7 +75,7 @@ whose centre spring four rivers.
 <span id="img_fig084"></span> ![FIGURE 84. &lt;i&gt;A&lt;/i&gt; T-O
 &lt;i&gt;map of the XIIth century&lt;/i&gt;. &lt;i&gt;In&lt;/i&gt;
 ''&lt;i&gt;Imago Mundi&lt;/i&gt;.''&lt;br&gt; (From Santarem's
-&lt;i&gt;Atlas&lt;/i&gt;, 1849, Plate XIII.)](img/fig084.jpg)  
+&lt;i&gt;Atlas&lt;/i&gt;, 1849, Plate XIII.)](img/fig084.jpg.md)  
 FIGURE 84. *A* T-O *map of the XIIth century*. *In* ''*Imago Mundi*.''  
 (From Santarem's *Atlas*, 1849, Plate XIII.)
 
@@ -102,7 +102,7 @@ among the Twelve
 
 [![FIGURE 85. The Turin Beatus World-map, c. 1150.&lt;br&gt; (From
 Santarem's Atlas, 1848, Plate IX.)](tn/fig085.jpg)  
-Click to enlarge](img/fig085.jpg)  
+Click to enlarge](img/fig085.jpg.md)  
 FIGURE 85. The Turin Beatus World-map, c. 1150.  
 (From Santarem's Atlas, 1848, Plate IX.)  
 
@@ -122,7 +122,7 @@ aerial ocean.
 IN THE LIBRARY AT STOCKHOLM, among the manuscripts of Marco Polo,
 fantastic traveller and man of the world of the fourteenth century, lies
 his own *mappa-mundi*. It is a combination of the first-century
-world-map of Pomponius Mela ([Fig. 75](boe20.htm#img_fig075)), where the
+world-map of Pomponius Mela ([Fig. 75](boe20.htm#img_fig075).md), where the
 continent of Antichthones was first shown, and the T-O maps of the
 Middle Ages, but with the odds in favour of Pomponius Mela's division,
 for Marco Polo gives rather more than half the land of the Earth to
@@ -151,7 +151,7 @@ continents, of groups of islands newly found, and the wildest rumours
 <span id="img_fig086"></span> ![FIGURE 86. &lt;i&gt;The World-map of
 Marco Polo. From one of his manuscripts in the Library at
 Stockholm&lt;/i&gt;.&lt;br&gt; (From Santarem's
-&lt;i&gt;Atlas&lt;/i&gt;, 1849, Plate I, No. 3.)](img/fig086.jpg)  
+&lt;i&gt;Atlas&lt;/i&gt;, 1849, Plate I, No. 3.)](img/fig086.jpg.md)  
 FIGURE 86. *The World-map of Marco Polo. From one of his manuscripts in
 the Library at Stockholm*.  
 (From Santarem's *Atlas*, 1849, Plate I, No. 3.)
@@ -175,7 +175,7 @@ published in Latin and
 Strassburg, 1509, showing a trace of the Americas&lt;/i&gt;.&lt;br&gt;
 (From &lt;i&gt;Globus Mundi&lt;/i&gt;, reprinted at Milan
 (n.d.)](tn/fig087.jpg)  
-Click to enlarge](img/fig087.jpg)  
+Click to enlarge](img/fig087.jpg.md)  
 FIGURE 87. *Title-page of Globus Mundi, originally printed at
 Strassburg, 1509, showing a trace of the Americas*.  
 (From *Globus Mundi*, reprinted at Milan (n.d.)  
@@ -198,7 +198,7 @@ about this map is the enormous size given to the African continent,
 under the lingering influence of the long-time belief in the impassable
 equatorial zone.
 
-"This device proves the Earth to be a Globe" ([Fig. 88](#img_fig088)) is
+"This device proves the Earth to be a Globe" ([Fig. 88](#img_fig088).md) is
 a self-explanatory seventeenth-century attempt at popularising a
 scientific theory; no better but no worse than modern devices for
 popular education. The proof offered here is the outline of the shadow
@@ -219,7 +219,7 @@ line was not suggested.
 [![FIGURE 88. ''&lt;i&gt;This device proves the Earth to be a
 Globe&lt;/i&gt;.''&lt;br&gt; (From &lt;i&gt;Cosmographia&lt;/i&gt;;
 Petrus Apianus, 1640.)](tn/fig088.jpg)  
-Click to enlarge](img/fig088.jpg)  
+Click to enlarge](img/fig088.jpg.md)  
 FIGURE 88. ''*This device proves the Earth to be a Globe*.''  
 (From *Cosmographia*; Petrus Apianus, 1640.)  
 
@@ -227,4 +227,4 @@ FIGURE 88. ''*This device proves the Earth to be a Globe*.''
 
 ------------------------------------------------------------------------
 
-[Next: The Earth of Columbus](boe26)
+[Next: The Earth of Columbus](boe26.md)

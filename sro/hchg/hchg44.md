@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg43)  [Next](hchg45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg43)  [Next](hchg45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -227,4 +227,4 @@ seekers for the Graal.
 
 ------------------------------------------------------------------------
 
-[Next: § B.--The Huth Merlin](hchg45)
+[Next: § B.--The Huth Merlin](hchg45.md)

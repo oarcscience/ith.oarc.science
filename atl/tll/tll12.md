@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll11)  [Next](tll13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll11)  [Next](tll13.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ these attained the human kingdom.
 
 ------------------------------------------------------------------------
 
-[Next: Sin of the Mindless](tll13)
+[Next: Sin of the Mindless](tll13.md)

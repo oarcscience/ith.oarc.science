@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl35)  [Next](flhl37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl35)  [Next](flhl37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Hanauer \[1907\], at Intangible Textual Heritage
 
 #### ABOUT PLANTS
 
-THE Kharrûb, <span id="fr_161"></span>[1](#fn_160) among other trees and
+THE Kharrûb, <span id="fr_161"></span>[1](#fn_160.md) among other trees and
 shrubs, such as the fig, the sycamore and the caper-bush, is a perch for
 demons of various kinds, and so classed among unholy plants; while the
 olive-tree, among others, is sacred, not only because of its great value
@@ -40,14 +40,14 @@ approve of our motives, is no less sincere, though inward. Should you
 cleave my trunk open, for instance, you would find that at its core it .
 has become black with grief."
 
-The Abhar <span id="fr_162"></span>[1](#fn_161) is another sacred tree,
+The Abhar <span id="fr_162"></span>[1](#fn_161.md) is another sacred tree,
 because its nut is used in the manufacture of rosaries, <span
-id="fr_163"></span>[2](#fn_162) and because, when he fled from Pharaoh,
+id="fr_163"></span>[2](#fn_162.md) and because, when he fled from Pharaoh,
 Moses, tired in the shadeless desert, planted his staff of storax in the
 soil and lay down in its scanty shade, which was instantly increased,
 Allah causing the staff to sprout and put forth branches bearing leaves
 and blossoms. In like manner the Miriamìyeh or sage <span
-id="fr_164"></span>[3](#fn_163) is much esteemed; not only for its
+id="fr_164"></span>[3](#fn_163.md) is much esteemed; not only for its
 medicinal properties which cause its dried leaves to be burned in
 fumigation in cases of cholera, small-pox, measles and other contagious
 and epidemic diseases, while an infusion of its leaves is a specific for
@@ -57,7 +57,7 @@ breaking off a bunch of its leaves, wiped her brow with them; and when
 she rose refreshed, blessed the plant and bestowed upon it the virtues
 it now possesses.
 
-The Nubk or Lotus <span id="fr_165"></span>[4](#fn_164) is also a sacred
+The Nubk or Lotus <span id="fr_165"></span>[4](#fn_164.md) is also a sacred
 plant. It
 
 <span id="page_288">p. 288</span>
@@ -74,7 +74,7 @@ sometimes sees these trees lighted up, and can hear snatches of sacred
 instrumental music proceeding therefrom, while lights appear to be
 darting from tree to tree. It is a sign that the saints are keeping
 festival, and exchanging visits. A sacred tree much affected by such
-spirits is the Tamarisk. <span id="fr_166"></span>[1](#fn_165) If, when
+spirits is the Tamarisk. <span id="fr_166"></span>[1](#fn_165.md) If, when
 passing these trees on windy nights, you listen attentively, you may
 sometimes distinctly hear the holy name "Allah" soughing through the
 branches.
@@ -120,23 +120,23 @@ with him.
 
 ### Footnotes
 
-<span id="fn_160"></span>[286:1](flhl36.htm#fr_161) *Ceratonia siliqua*.
+<span id="fn_160"></span>[286:1](flhl36.htm#fr_161.md) *Ceratonia siliqua*.
 
-<span id="fn_161"></span>[287:1](flhl36.htm#fr_162) *Storax
+<span id="fn_161"></span>[287:1](flhl36.htm#fr_162.md) *Storax
 officinalis*.
 
-<span id="fn_162"></span>[287:2](flhl36.htm#fr_163) Called in Arabic
+<span id="fn_162"></span>[287:2](flhl36.htm#fr_163.md) Called in Arabic
 Massâbih (praising instruments), and used by Moslems and Christians at
 their devotions.
 
-<span id="fn_163"></span>[287:3](flhl36.htm#fr_164) *Salvia ceratophyx
+<span id="fn_163"></span>[287:3](flhl36.htm#fr_164.md) *Salvia ceratophyx
 vel controversa*.
 
-<span id="fn_164"></span>[287:4](flhl36.htm#fr_165) *Zizyphus spina
+<span id="fn_164"></span>[287:4](flhl36.htm#fr_165.md) *Zizyphus spina
 Christi*.
 
-<span id="fn_165"></span>[288:1](flhl36.htm#fr_166) *Tamaria Syriaca*.
+<span id="fn_165"></span>[288:1](flhl36.htm#fr_166.md) *Tamaria Syriaca*.
 
 ------------------------------------------------------------------------
 
-[Next: XII. About Coffee](flhl37)
+[Next: XII. About Coffee](flhl37.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl09)  [Next](mhl11) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl09)  [Next](mhl11.md) 
 
 ------------------------------------------------------------------------
 
@@ -289,7 +289,7 @@ the wizard with the people who consulted him" "Why should I not laugh
 when I saw a stupid person who professed to remove the veil of the
 hidden future, whilst he knew not that under the stone on which he was
 sitting there was hidden a kingly treasure?" <span
-id="fr_7"></span>[1](#fn_4)
+id="fr_7"></span>[1](#fn_4.md)
 
 King Solomon now intimated by a gesture that he wished to be left alone
 with the king of the demons, and all his counselors, ministers, and high
@@ -400,7 +400,7 @@ that when we left the throne-room there were two individuals, and when
 we returned one had disappeared, without our being able to comprehend
 bow that happened? My advice is, that we request Topos, one of King
 Solomon's many wives, that when the present King pays her a visit, she
-may notice his feet <span id="fr_8"></span>[2](#fn_5) and then on her
+may notice his feet <span id="fr_8"></span>[2](#fn_5.md) and then on her
 report on this you can form your judgment in this matter." The Sanhedrin
 fell in with this suggestion, and when they appealed to Topos, she
 reported that the King, her husband, never entered her chamber without a
@@ -429,7 +429,7 @@ his army surrounding his bed.
 
 ### Footnotes
 
-<span id="fn_4"></span>[140:1](mhl10.htm#fr_7) Demons resemble man in
+<span id="fn_4"></span>[140:1](mhl10.htm#fr_7.md) Demons resemble man in
 these respects, they eat and drink, are fruitful and multiply, and die.
 But they also somewhat resemble angels in so far as they have wings,
 flying to and fro all the world over like angels, and knowing a little
@@ -437,9 +437,9 @@ of the secrets of the higher spheres--not quite as much as angels, but
 generally the fate of men is known to them--*Talmud*. Hence Ashmedai
 knew the fate of those he met on his way to Jerusalem.
 
-<span id="fn_5"></span>[143:2](mhl10.htm#fr_8) The Rabbis say that the
+<span id="fn_5"></span>[143:2](mhl10.htm#fr_8.md) The Rabbis say that the
 feet of demons resemble those of a cock.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](mhl11)
+[Next: Introduction](mhl11.md)

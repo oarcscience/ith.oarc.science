@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](yvhf12)  [Next](yvhf14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](yvhf12)  [Next](yvhf14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Vashisht or Heaven Found*, by Rishi Singh Gherwal, \[1930\], at
 Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ powers, levitation, etc.. Desire for worldly things or possessions are
 mere Maya (illusion).
 
 "These Jnanis (truth seekers) who have risen above Maya (illusion) will
-never sink into it again. Jnanis who desire [psychic](errata.htm#21)
+never sink into it again. Jnanis who desire [psychic](errata.htm#21.md)
 power may develop it by Mantras, Postures, Mudras, etc., but psychic
 powers in their development will never bring beneficent liberation. That
 is the goal of the true Jnani (truth
@@ -60,7 +60,7 @@ arrests old age and death. Old age and death will never come near him.
 As the body becomes spiritualized, it will never retrograde.
 
 "Those Yogis only can be said to have found the
-[Reality](errata.htm#22), who always follow the path of Atma Jnani
+[Reality](errata.htm#22.md), who always follow the path of Atma Jnani
 (wisdom of the Self). They, who have
 
 <span id="page_167">p. 167</span>
@@ -95,7 +95,7 @@ affected by pleasure or pain. As the mountain is not affected by the
 storm, also one is able to retain his poise in the presence of riches or
 poverty, joy or sorrow. Of such a person it may be said; he has control
 over his mind; he has overcome ignorance, which is the lower mind
-itself. Through control it brings out high [spiritual](errata.htm#23)
+itself. Through control it brings out high [spiritual](errata.htm#23.md)
 intelligence. Such a mind does not subject itself to rebirth. By the
 desires of the four gunas (qualities), one will come to the state which
 belongs to the Jivanmukta (embodied emancipation) or (liberation) in
@@ -167,7 +167,7 @@ not pain.
 
 "The seed of the mind seed is the ego, which with its partner, desire,
 enjoys the external objects. The desires make people slaves
-[of](errata.htm#24) the sensual objects. The power of true
+[of](errata.htm#24.md) the sensual objects. The power of true
 discrimination is developed through firm determination. If this power is
 lost, the ego or false self binds itself to the mercy of desires, which
 make it see, that which is real as unreal and regards that which is
@@ -203,7 +203,7 @@ engaged in actions. When mind has dissolved all things into itself, then
 it becomes as cool and refreshing as ambrosia. Those Jivanmuktas
 (liberated in this life) who have freed themselves from desires, will
 live to wear out their past karma. Those Jivanmuktas are in
-[possession](errata.htm#25) of pure desires, without any pain or
+[possession](errata.htm#25.md) of pure desires, without any pain or
 rebirth. It is these emancipated ones, whose minds have found the
 Reality of Being, and have reached the highest wisdom. It is these
 
@@ -242,7 +242,7 @@ say that the external does not bring great pain upon us, O Ram?
 "Through the absence, of the external and the nonrelation of objects,
 arises divine bliss. You may stop your mind from oscillating, give up
 all love for worldly enjoyment, forget the objective world, and still
-not be in a dull state. Thou art above the [Paramatma](errata.htm#26)
+not be in a dull state. Thou art above the [Paramatma](errata.htm#26.md)
 (universal soul). In the wisdom state, the external is not seen. This is
 true, without doubt."
 
@@ -345,4 +345,4 @@ in the right path."
 
 ------------------------------------------------------------------------
 
-[Next: How to Live](yvhf14)
+[Next: How to Live](yvhf14.md)

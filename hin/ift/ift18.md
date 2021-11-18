@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift17) 
-[Next](ift19) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift17.md) 
+[Next](ift19.md) 
 
 ------------------------------------------------------------------------
 
 # A Lesson for Kings
 
 <span id="img_49"></span> [![](tn/49.jpg)  
-Click to enlarge](img/49.jpg)
+Click to enlarge](img/49.jpg.md)
 
 <span id="img_50"></span> ![](img/50.jpg)NCE upon a time, when
 Brahma-datta was reigning in Benares, the future Buddha returned to life
@@ -121,4 +121,4 @@ their chariot, and made way for the king of Benares!
 
 ------------------------------------------------------------------------
 
-[Next: Pride Goeth Before a Fall](ift19)
+[Next: Pride Goeth Before a Fall](ift19.md)

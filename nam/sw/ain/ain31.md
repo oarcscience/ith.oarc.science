@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain30)  [Next](ain32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain30)  [Next](ain32.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,7 +88,7 @@ protection. The Pimas adopted them. Now began war between Yumas and
 Mohaves on one side, and Pimas, Papagoes and Maricopas on the other.
 There were only two battles after the Maricopas came in, but in the
 second battle all the Yuma warriors engaged were killed, and the Mohaves
-had to flee over the mountain, and only a part [of](errata.htm#22) these
+had to flee over the mountain, and only a part [of](errata.htm#22.md) these
 escaped. This battle was fought at what is now called Maricopa Mountain.
 
 So terrible was the defeat, that to this day the Yumas hold an annual
@@ -107,4 +107,4 @@ tuberculosis.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Sohahnee Mahkai and Kawkoinpuh](ain32)
+[Next: The Story of Sohahnee Mahkai and Kawkoinpuh](ain32.md)

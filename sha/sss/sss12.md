@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sss11)  [Next](sss13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sss11)  [Next](sss13.md) 
 
 ------------------------------------------------------------------------
 
@@ -264,4 +264,4 @@ third-hand.
 
 ------------------------------------------------------------------------
 
-[Next: XI. Magician and Mystic](sss13)
+[Next: XI. Magician and Mystic](sss13.md)

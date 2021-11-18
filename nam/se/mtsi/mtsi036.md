@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi035)  [Next](mtsi037) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi035)  [Next](mtsi037.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ I will sing it for you."
 | Choon-tah-tul                                 | The worms only        |
 | Witter-took                                   | wiggled               |
 | Witter-took                                   | wiggled               |
-| Witter-took <span id="fr_9"></span>[1](#fn_9) | wiggled.              |
+| Witter-took <span id="fr_9"></span>[1](#fn_9.md) | wiggled.              |
 
  
 
@@ -109,11 +109,11 @@ eyes.
 
 ### Footnotes
 
-<span id="fn_9"></span>[39:1](mtsi036.htm#fr_9) Yaha, wolf; ifoni, bone;
+<span id="fn_9"></span>[39:1](mtsi036.htm#fr_9.md) Yaha, wolf; ifoni, bone;
 tålki, only (another informant used tis, instead of tålki). tcåsåsakita,
 to rattle; kake, raven; mi~~l~~mi~~l~~, flutter; suli, buzzard; tcana,
 common fly; såm, to buzz; tcunta, worm; witåtåk, wiggled.
 
 ------------------------------------------------------------------------
 
-[Next: 35. How the Terrapin's Back Came to be in Checks](mtsi037)
+[Next: 35. How the Terrapin's Back Came to be in Checks](mtsi037.md)

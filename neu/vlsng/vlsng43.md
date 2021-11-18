@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng42)  [Next](vlsng44) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng42)  [Next](vlsng44.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ over her and slew her.--Tr.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLII: Gudrun sends her Sons to avenge Swanhild.](vlsng44)
+[Next: Chapter XLII: Gudrun sends her Sons to avenge Swanhild.](vlsng44.md)

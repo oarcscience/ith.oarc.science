@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar70)  [Next](gar72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar70)  [Next](gar72.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -50,4 +50,4 @@ The post of honor in a Masonic procession is always in the rear.
 
 ------------------------------------------------------------------------
 
-[Next: Ritual for a Lodge of Sorrow](gar72)
+[Next: Ritual for a Lodge of Sorrow](gar72.md)

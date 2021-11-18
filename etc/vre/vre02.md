@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre01)  [Next](vre03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre01)  [Next](vre03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ being postponed entirely, and the description of man's religious
 constitution now fills the twenty lectures. In Lecture XX I have
 suggested rather than stated my own philosophic conclusions, and the
 reader who desires immediately to know them should turn to pages
-[501](vre16.htm#page_501)-[509](vre16.htm#page_509), and to the
+[501](vre16.htm#page_501)-[509](vre16.htm#page_509.md), and to the
 "Postscript" of the book. I hope to be able at some later day to express
 them in more explicit form.
 
@@ -68,4 +68,4 @@ Valley, I owe more obligations than I can well express.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture I. Religion And Neurology](vre03)
+[Next: Lecture I. Religion And Neurology](vre03.md)

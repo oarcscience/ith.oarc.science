@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms04)  [Next](jms06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms04)  [Next](jms06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -77,7 +77,7 @@ need and the best methods of protection against them.
 Hardly a murmur of doubt do we hear of the existence and reality of the
 evil spirits. The Talmudic literature, both the *Aggadic* folklore and
 the *Halacha*, accepted their presence as
-axiomatic.[1](jms24.htm#an_3_1) We may readily understand then, how it
+axiomatic.[1](jms24.htm#an_3_1.md) We may readily understand then, how it
 is that in the Middle Ages a people fed on this literature no longer
 questioned. The *Kabbalah*, indeed, accorded the demons an integral rôle
 in a cosmic design in which the right and the left are the opposing
@@ -92,9 +92,9 @@ takes them as much for granted as did the Talmudic. Certain works,
 especially from the school of Judah the Pious, reveal their activities
 on almost every page. Rashi repeated the Midrashic comment that "every
 living thing" represented in the ark included even the
-demons.[2](jms24.htm#an_3_2)
+demons.[2](jms24.htm#an_3_2.md)
 
-If we are to believe Moses of Tachau,[3](jms24.htm#an_3_3) Ibn Ezra paid
+If we are to believe Moses of Tachau,[3](jms24.htm#an_3_3.md) Ibn Ezra paid
 dearly for
 
 <span id="page_27">p. 27</span>
@@ -121,7 +121,7 @@ references to spirits are to be taken literally." He lightly brushed
 aside the Maimonidean strictures against such superstitions with the
 familiar objection that their author had been "seduced" by the
 philosopher's predilection for the testimony of reason and experience,
-to the damage of his piety and faith in revelation.[4](jms24.htm#an_3_4)
+to the damage of his piety and faith in revelation.[4](jms24.htm#an_3_4.md)
 Menasseh b. Israel was expressing not his own opinion but the judgment
 of Jewish folk-belief.
 
@@ -132,9 +132,9 @@ features of this demonology, we devote a few lines to the nomenclature
 employed in our literature. The terms most frequently met with are those
 made familiar in the ancient literature of the Jews: *mazzik*, from a
 root which means "to damage, destroy"; *shed*, an obscure word which
-occurs in the Bible in the plural,[5](jms24.htm#an_3_5) and which in the
+occurs in the Bible in the plural,[5](jms24.htm#an_3_5.md) and which in the
 Talmudic literature acquired the exclusive sense of "demon"; and *ruaḥ*,
-"spirit," often *ruaḥ ra‘ah*, "evil spirit."[6](jms24.htm#an_3_6) These
+"spirit," often *ruaḥ ra‘ah*, "evil spirit."[6](jms24.htm#an_3_6.md) These
 words were not at all differentiated in our period, though a rather
 academic attempt was at times made to distinguish among them on the
 basis of Talmudic statements. In general, however, these three terms
@@ -147,7 +147,7 @@ which produced a list of ten categories of demons to balance a similar
 angelic list, introduced seven additional terms, which found little
 place in the general literature. One of them, however, *lilin*, regarded
 as the plural of Lilit, "night-demons," used in the Talmud, occurs
-fairly often, sometimes as *liliot*.[7](jms24.htm#an_3_7)
+fairly often, sometimes as *liliot*.[7](jms24.htm#an_3_7.md)
 
 I may also mention here the *malache ḥabbala*, "angels (or demons) of
 destruction," who made their initial appearance in the Talmud, and who
@@ -156,7 +156,7 @@ were not absent from the medieval scene. Their names end with the letter
 services, the eighteen benedictions, the prayer *Yoẓer Or*, and the
 grace after meals do not contain this letter, was cited as proof that
 prayer serves as a protection against these destroying
-angels.[8](jms24.htm#an_3_8)
+angels.[8](jms24.htm#an_3_8.md)
 
 The Lurianic *Kabbalah* brought into common currency an old but little
 used term, *kelippah*, originally "scale, husk, skin"; occurring in the
@@ -192,7 +192,7 @@ The number of demons in the world was prodigious. One Christian census
 estimated them as somewhat more than one for each person on earth. Our
 sources spurn such conservative figures; their number is uncountable,
 the simple unit employed in referring to them is no smaller than the
-myriad.[9](jms24.htm#an_3_9)
+myriad.[9](jms24.htm#an_3_9.md)
 
 The question of the origin of this demonic horde naturally agitated the
 medieval mind. It was of especial interest to the Jews, for in a world
@@ -207,10 +207,10 @@ left for last. He had not progressed beyond the fashioning of their
 souls, however, when the hastening Sabbath overtook Him, and He was
 obliged to cease His labors to sanctify the first day of rest. So it is
 that the demons have no bodies, but are constituted wholly of
-spirit.[10](jms24.htm#an_3_10)
+spirit.[10](jms24.htm#an_3_10.md)
 
 But this explanation did not suffice to still all doubts, and a medieval
-rabbi,[11](jms24.htm#an_3_11) during the course of a disputation with a
+rabbi,[11](jms24.htm#an_3_11.md) during the course of a disputation with a
 renegade Jew, appended an interesting codicil to this theme. There
 remained yet another category, unaccounted for by the rabbinic theory
 and known to Jews under their non-Jewish names (R. Jeḥiel, our
@@ -244,17 +244,17 @@ however, do become *bona fide* demons, and it is these that constantly
 replenish the demonic ranks. So vicious were they believed to be that
 special warnings were posted against them; wounds which they inflict can
 be cured by no human means, but their healing rests in the hands of God
-alone.[12](jms24.htm#an_3_12)
+alone.[12](jms24.htm#an_3_12.md)
 
 I may add that the idea, so frequently encountered in Christian
 writings, that the demons are the gods of the heathen, is to be found in
-medieval Jewish works as well.[13](jms24.htm#an_3_13) But it played no
+medieval Jewish works as well.[13](jms24.htm#an_3_13.md) But it played no
 part in the popular belief.
 
 It should be noted, finally, that in all this the demons, evil as they
 were, remained the creatures of God, subject to His will and respectful
 of His divinity, and actually subservient to the
-angels.[14](jms24.htm#an_3_14) We have here no dualism; even the
+angels.[14](jms24.htm#an_3_14.md) We have here no dualism; even the
 Kabbalistic mysticism which divided the universe between two opposing
 forces of good and evil, did not oust God from His position of
 overlordship. The German mystics, immersed in a deep piety peculiar to
@@ -266,7 +266,7 @@ the autonomy of the demon world.
 
 In what guise were these demons visualized? Altogether invisible to men,
 though the more acute sensitivity of animals responded to their
-presence,[15](jms24.htm#an_3_15) it is not to be wondered at that the
+presence,[15](jms24.htm#an_3_15.md) it is not to be wondered at that the
 prevalent conception was as vague and undefined as these creatures
 themselves.
 
@@ -302,7 +302,7 @@ substances\] they return to their primordial state; this is the manner
 of their death." But our author's ingenuity gave out in the matter of
 propagation; here he was forced to accord them physical shapes: "When
 they copulate they are possessed of bodies, but they will not unite in
-the presence of a third demon, or of man."[17](jms24.htm#an_3_17)
+the presence of a third demon, or of man."[17](jms24.htm#an_3_17.md)
 
 There is little more to be said about the appearance of these evil
 spirits. One source attributed to their non-existent heads—hair! "Male
@@ -318,7 +318,7 @@ or wolves or hares. We have already beheld the spirits embodied in the
 skins of dogs; Boaz apprehended a demon taking woman's shape. A medieval
 legend relates that a demon which had laid plans to enter the body of a
 certain pious rabbi transformed itself into a hair, which the rabbi was
-expected to swallow with his food.[18](jms24.htm#an_3_18) Their stock of
+expected to swallow with his food.[18](jms24.htm#an_3_18.md) Their stock of
 disguises was infinite. Many of the demons we encounter
 
 <span id="page_32">p. 32</span>
@@ -337,7 +337,7 @@ windows of a house tightly. Their paths of ingress and egress are
 prescribed, along with their functions, and to impede their freedom of
 movement is to invite their displeasure. Far wiser is it to pierce a
 small hole in door or window and thus enable them to move about
-freely.[19](jms24.htm#an_3_19)
+freely.[19](jms24.htm#an_3_19.md)
 
 Demons frequented uninhabited places, deserts and forests and fields, as
 well as unclean places. Privies especially were believed to be haunted
@@ -348,7 +348,7 @@ attached to privies had worn off, and the incantations, if recited, had
 degenerated into mere formal vestiges of a traditional usage. The
 explanation was that the privies of Talmudic times were located outside
 of the villages, in the fields, whereas medieval privies were closer to
-home, within the settled area.[20](jms24.htm#an_3_20)
+home, within the settled area.[20](jms24.htm#an_3_20.md)
 
 The connection between demons and uncleanness was made to serve
 important hygienic ends. Evil spirits, sometimes called "spirits of
@@ -370,7 +370,7 @@ devastating effect upon the innocent passer-by; it might even be
 <span id="page_33">p. 33</span>
 
 responsible for the loss of one's memory, and ultimately complete loss
-of mind.[21](jms24.htm#an_3_21)
+of mind.[21](jms24.htm#an_3_21.md)
 
 Humans who established their homes on a spot already preempted by
 spirits were in a parlous way. The demons are jealous of their property
@@ -388,7 +388,7 @@ unlucky for their inhabitants, one after another dying off for no
 apparent cause. The only remedy in such a case is to move far away,
 where the demons who have been provoked by the intrusion cannot get at
 them. Pious deeds, fasting, prayer, usually so effective, are of no
-help.[22](jms24.htm#an_3_22)
+help.[22](jms24.htm#an_3_22.md)
 
 The best plan, of course, is to observe proper caution before
 establishing oneself in a new home. One should not erect a house on
@@ -402,7 +402,7 @@ become fixed, are bound not to be enamored of the innovations. Finally,
 it is wise not to move into a new house at all, but to sell it if one
 can. If this proves unfeasible, it must be left uninhabited for a time,
 or some skeptical friend must be prevailed upon to occupy it. People
-were actually paid to live in new houses![23](jms24.htm#an_3_23)
+were actually paid to live in new houses![23](jms24.htm#an_3_23.md)
 
 The general rule was that bad luck clings to a place or a person or a
 family—because once the spirits have chosen them for their special prey
@@ -423,7 +423,7 @@ were frightened and ran away, completely forgetting their mother. She
 arose out of the grave, newborn, and in short order proved the efficacy
 of the remedy. The symbolic interment and rebirth freed her from the
 misfortune that was her lot in what had now become her previous
-existence.[24](jms24.htm#an_3_24)
+existence.[24](jms24.htm#an_3_24.md)
 
 Demons consort in the shade of trees, and in shadows cast by the moon.
 In fact, children who are moon-struck display symptoms that point
@@ -436,18 +436,18 @@ warned by a sage, "Beware that you do not bring about your own death!
 Don't even shake that tree! For if you anger them they will certainly do
 you harm. In this tree the liliot foregather." Nut trees in particular
 were to be shunned as the meeting-places of the
-spirits.[25](jms24.htm#an_3_25)
+spirits.[25](jms24.htm#an_3_25.md)
 
 A special connection exists also between the storm-winds, tempests,
 whirlwinds, and the evil spirits. The home of all is in the north, which
-indeed is the source of all evil.[26](jms24.htm#an_3_26) One writer even
+indeed is the source of all evil.[26](jms24.htm#an_3_26.md) One writer even
 domiciled the demons in Norway, which to him was the farthest edge of
-the north.[27](jms24.htm#an_3_27) This almost universal belief in the
+the north.[27](jms24.htm#an_3_27.md) This almost universal belief in the
 close relation between demons and storms was expressed in the idea that
 thunder and lightning are the bolts which the demons, aligned in two
 hostile camps, discharge against one another during a storm. Certain men
 are peculiarly susceptible to harm from these bolts, and can be healed
-only by magic.[28](jms24.htm#an_3_28)
+only by magic.[28](jms24.htm#an_3_28.md)
 
 #### "JEWISH" DEMONS
 
@@ -482,7 +482,7 @@ personage of theological import, as in medieval Christianity); but that
 conception did not impress itself so deeply on the folk-mind as to find
 its way into the literature as well. Satan in medieval Jewish thought
 was little more than an allegory, whose moral was the prevalence of
-sin.[29](jms24.htm#an_3_29)
+sin.[29](jms24.htm#an_3_29.md)
 
 The tendency to push into the background those demons that are named in
 the Talmud, to deny them an important rôle in the contemporary demon
@@ -508,7 +508,7 @@ against which the *Gemara* warns us as being fraught with great danger
 \[from the demons\], but we have never seen nor heard of anyone who
 suffered harm from disregarding the Talmudic warnings." It was not that
 the belief in demons was weakening; rather, a host of modern spirits had
-displaced the ancient ones.[30](jms24.htm#an_3_30)
+displaced the ancient ones.[30](jms24.htm#an_3_30.md)
 
 Keteb Meriri, which according to the Talmud is most harmful at noon, and
 especially during the hot summer months, undoubtedly a personification
@@ -519,7 +519,7 @@ fortunate ones surviving only after a severe illness. Even more
 evanescent is the rôle of Ashmedai, the "king of demons," and of Igrat,
 the Talmudic "queen of demons," and her mother Maḥlat. These and others
 appear only as names standing out momentarily from the midst of a horde
-of unidentified spirits.[31](jms24.htm#an_3_31)
+of unidentified spirits.[31](jms24.htm#an_3_31.md)
 
 Alone among the spirits known through Jewish tradition, Lilit retained
 her position during the Middle Ages, if indeed she did not strengthen it
@@ -540,7 +540,7 @@ sleep. As a result of the legend of Adam's relations with Lilit,
 although this function was by no means exclusively theirs, the *lilits*
 were most frequently singled out as the demons who embrace sleeping men
 and cause them to have the nocturnal emissions which are the seed of a
-hybrid progeny.[32](jms24.htm#an_3_32)
+hybrid progeny.[32](jms24.htm#an_3_32.md)
 
 It was in her first rôle, however, that Lilit terrorized medieval
 
@@ -579,7 +579,7 @@ in referring to this legend wrote, "I am loath to quote it at length,
 for I don't believe it at all." But his co-religionists did not share
 his skepticism, as he himself admitted when he proceeded to describe a
 popular measure of protection against Lilit: "This is a common practice
-among us German Jews," he confessed.[33](jms24.htm#an_3_33)
+among us German Jews," he confessed.[33](jms24.htm#an_3_33.md)
 
 #### "FOREIGN" DEMONS
 
@@ -603,7 +603,7 @@ superstition generally, and especially in the belief in demons in this
 period, was a reflex of the spirit of the times.
 
 Most often mentioned were the *estrie*, the *broxa*, the *mare*, and the
-*werwolf*.[34](jms24.htm#an_3_34) The transliteration into Hebrew of
+*werwolf*.[34](jms24.htm#an_3_34.md) The transliteration into Hebrew of
 these names is often confusing, and the description of these creatures
 even more confused, but it is not difficult to recognize in them their
 non-Jewish prototypes. So intimately had they entered into Jewish
@@ -612,7 +612,7 @@ those original demons whose souls were created on the eve of the
 Sabbath, when the press of time left them in a bodyless condition.
 According to one source, *estrie*, *mare*, and *werwolf* are to be
 included in this category; others, however, would exclude the mare,
-which possesses both body and soul.[35](jms24.htm#an_3_35)
+which possesses both body and soul.[35](jms24.htm#an_3_35.md)
 
 It is difficult to determine whether the *estrie* was regarded as a true
 demon, or as a witch; it was described, sometimes in the same source, as
@@ -620,7 +620,7 @@ both. Included among the incorporeal spirits, it was none the less also
 a woman, a flesh-and-blood member of the community. In either guise her
 character was that of the vampire, whose particular prey was little
 children, though she did not disdain at times to include grown-ups in
-her diet.[36](jms24.htm#an_3_36) The sense of these passages appears to
+her diet.[36](jms24.htm#an_3_36.md) The sense of these passages appears to
 be that she is an evil spirit who adopts woman's form and spends her
 life among men, the more readily to satisfy her gory appetites. The
 equation of the *estrie* with the *broxa* leads one to believe that she
@@ -654,7 +654,7 @@ congregation must not respond with an "Amen!" When a *broxa* or an
 *estrie* is being buried, one should notice whether or not her mouth is
 open; if it is, this is a sure sign that she will continue her vampirish
 activities for another year. Her mouth must be stopped up with earth,
-and she will be rendered harmless.[37](jms24.htm#an_3_37)
+and she will be rendered harmless.[37](jms24.htm#an_3_37.md)
 
 According to one source the mares are creatures which consort in forests
 in groups of nine, for if there were ten of them Satan would seize the
@@ -664,15 +664,15 @@ sleeps and deprives him of the power of speech by grasping his tongue
 and lips and choking off his breath, so that he cries out fitfully. It
 is the *mare* which is responsible for nightmares (here we have the word
 incorporated in our own speech and folklore); in French the phenomenon
-is known as the *cauche-mare*.[38](jms24.htm#an_3_38)
+is known as the *cauche-mare*.[38](jms24.htm#an_3_38.md)
 
 The werwolf is a sorcerer, or a demon which inhabits the earth in man's
 form, but which at will assumes the shape of a wolf and attacks and
 consumes men. Like his feminine counterpart, the *estrie*, he requires
 human blood in his diet—another version of the
-vampire.[39](jms24.htm#an_3_39)
+vampire.[39](jms24.htm#an_3_39.md)
 
-We read of other familiar spirits as well.[40](jms24.htm#an_3_40) The
+We read of other familiar spirits as well.[40](jms24.htm#an_3_40.md) The
 *kobold* makes its appearance in a thirteenth-century manuscript, a
 demonic homunculus which mimics and echoes man's voice in order to
 bewilder him, and which is used by ventriloquists. Another work of the
@@ -680,19 +680,19 @@ same century
 
 <span id="page_40">p. 40</span>
 
-tells of a "tiny demon called a *wichtchen*."[41](jms24.htm#an_3_41) The
+tells of a "tiny demon called a *wichtchen*."[41](jms24.htm#an_3_41.md) The
 spirits which dwell in waste places and attack men who are up alone at
 night were naturalized in Northern France and renamed
-*faes*.[42](jms24.htm#an_3_42) "Many of these are to be found among us,"
+*faes*.[42](jms24.htm#an_3_42.md) "Many of these are to be found among us,"
 lamented one pious rabbi, referring specifically to the *faes* and their
-associates the *lutins* (or the *nuitons*[43](jms24.htm#an_3_43)), the
+associates the *lutins* (or the *nuitons*[43](jms24.htm#an_3_43).md), the
 hobgoblins which play such a prominent rôle in French folklore; nor was
 their German counterpart, the *alp* (elf)
-missing.[44](jms24.htm#an_3_44) The watersprite, the
-*nixe*,[45](jms24.htm#an_3_45) and her sisters, the
-sirens,[46](jms24.htm#an_3_46) also put in an appearance. Genii were the
+missing.[44](jms24.htm#an_3_44.md) The watersprite, the
+*nixe*,[45](jms24.htm#an_3_45.md) and her sisters, the
+sirens,[46](jms24.htm#an_3_46.md) also put in an appearance. Genii were the
 familiars of witches and sorcerers, and the dragon became a demon with
-unusual attributes.[47](jms24.htm#an_3_47) A blow struck by a man can
+unusual attributes.[47](jms24.htm#an_3_47.md) A blow struck by a man can
 have no effect upon the dragon; only a child from his own loins can
 wound him. When he is within a man's house he is harmless, but no sooner
 does he depart than the house goes up in flames. Thunder and lightning
@@ -728,7 +728,7 @@ justified in
 
 concluding that the Perchta cult had found a place in Jewish ritual and
 belief. At most, all we can read into the Berches is an odd assimilation
-and survival of a long meaningless word.[48](jms24.htm#an_3_48)
+and survival of a long meaningless word.[48](jms24.htm#an_3_48.md)
 
 A chance remark in a thirteenth-century code leads us to perhaps the
 most interesting item in this catalogue. Jewish practice required that
@@ -746,7 +746,7 @@ word represented by ‏פלטרו״ד‎\] is what we call ‏היל״א לוק�
 riddle is solved! These last words are the German Holle-locke, of which
 ‏יילק״ש‎ (spelled also in the first ‏היילק״ש‎) is no doubt a variant;
 ‏פלטרי״ד‎ must be the French *feltre*, *feutre*, our
-"felt."[49](jms24.htm#an_3_49) The belief that in the night demons
+"felt."[49](jms24.htm#an_3_49.md) The belief that in the night demons
 entangle the manes of beasts and the hair of humans is very widespread;
 we may recall Shakespeare's lines:
 
@@ -766,7 +766,7 @@ developed into the demon-witch who gobbles up children. She was held
 responsible for entangling hair at night; "er ist mit der Holle
 gefahren" was said of one whose hair was disheveled and knotted.
 Corresponding with *Holle-locke* is the term
-*Hollenzopf*.[50](jms24.htm#an_3_50)
+*Hollenzopf*.[50](jms24.htm#an_3_50.md)
 
 The lady made her way into Jewish life in her other rôle as well. It is
 reported that as early as the fourteenth century the ceremony called
@@ -818,7 +818,7 @@ Hollekreisch could
 <span id="page_43">p. 43</span>
 
 have found no difficulty in winning a wide popularity among
-Jews.[51](jms24.htm#an_3_51)
+Jews.[51](jms24.htm#an_3_51.md)
 
 We are not yet ready to dismiss our unsavory friend Holle-Hulda. We must
 follow her devious course in Jewish folklore one step farther, though
@@ -838,8 +838,8 @@ purchase with the proceeds a mirror, which you must bury in the same
 spot in the evening 'in Frau Venus namen,' and say 'allhie begrab ich
 diesen spiegel in der Libe, die Frau Venus zu dem Dannhäuser hat.' Sleep
 on that spot three nights, then remove the mirror, and whoever looks
-into it will love you!"[52](jms24.htm#an_3_52)
+into it will love you!"[52](jms24.htm#an_3_52.md)
 
 ------------------------------------------------------------------------
 
-[Next: 4. Man and the Demons](jms06)
+[Next: 4. Man and the Demons](jms06.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](argo05)  [Next](argo07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](argo05)  [Next](argo07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674990013/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674990013/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -209,4 +209,4 @@ ARGONAUTICA BOOK 1 \[609\]
 
 ------------------------------------------------------------------------
 
-[Next: line 700](argo07)
+[Next: line 700](argo07.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf19) [Next](bulf21) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf19) [Next](bulf21.md) 
 
 # CHAPTER XXI.
 
@@ -226,4 +226,4 @@ the Centaurs and Lapithae quarrelled.
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XXII. The Rural Deities- Erisichthon- Rhoecus- The Water
-Deities- The Camenae- The Winds.](bulf21)
+Deities- The Camenae- The Winds.](bulf21.md)

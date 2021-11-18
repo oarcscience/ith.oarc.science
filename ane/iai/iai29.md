@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai28)  [Next](iai30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai28)  [Next](iai30.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,10 +61,10 @@ But see! he comes! such strength was never known.\[paragraph continues\]
 With all my might I held him, but he fled!  
 We both it can destroy! Strike at its head!  
 Like Rimmon now he flies upon the air,  
-As sceptred Nebo, <span id="fr_223"></span>[1](#fn_221) he his horns
+As sceptred Nebo, <span id="fr_223"></span>[1](#fn_221.md) he his horns
 doth bear,  
 That flash with fire along the roaring skies,  
- <span id="fr_224"></span>[2](#fn_222) Around the Sar and seer he
+ <span id="fr_224"></span>[2](#fn_222.md) Around the Sar and seer he
 furious flies.  
 Heabani grasps the plunging horns, nor breaks  
 His grasp; in vain the monster plunging shakes  
@@ -79,22 +79,22 @@ And sent his shout defiant to the sky:
 "'Tis thus, ye foes divine! the Sar proclaims  
 His war against your power, and highest names!  
 Hurl! hurl! your darts of fire, ye vile *kal-bi*! <span
-id="fr_225"></span>[3](#fn_223)  
+id="fr_225"></span>[3](#fn_223.md)  
 My challenge hear! ye cravens of the sky!
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_221"></span>[86:1](iai29.htm#fr_223) "Nebo," the holder of
+<span id="fn_221"></span>[86:1](iai29.htm#fr_223.md) "Nebo," the holder of
 the sceptre of power; also the god of prophecy.
 
-<span id="fn_222"></span>[86:2](iai29.htm#fr_224) "Around" ("tarka"), or
+<span id="fn_222"></span>[86:2](iai29.htm#fr_224) "Around" ("tarka".md), or
 it may mean "between."
 
-<span id="fn_223"></span>[86:3](iai29.htm#fr_225) "Kal-bi," dogs.
+<span id="fn_223"></span>[86:3](iai29.htm#fr_225.md) "Kal-bi," dogs.
 
 ------------------------------------------------------------------------
 
 [Next: Column V. The Curse of Ishtar, and Rejoicing of Erech over the
-Victory](iai30)
+Victory](iai30.md)

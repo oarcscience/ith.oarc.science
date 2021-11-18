@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei24)  [Next](jei26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei24)  [Next](jei26.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@ professor, Dr. A. C. Lane of Tufts College, and says
 that the earth is not a simple envelope of crust containing a fluid
 interior as this French scientist evidently thinks, but that it is, in
 constitution, very much like a butter-nut. (And yet some people call our
-theory [ridiculous](errata.htm#108)!) But professor Lane's earth at
+theory [ridiculous](errata.htm#108)!.md) But professor Lane's earth at
 least has the advantage that a break in the shell does not cause a
 complete world conflagration, as the reader will see from the following
 words:
@@ -143,7 +143,7 @@ a stub of pencil--leaving a great depression at the north polar basin
 and sticking up from the surrounding surface of the globe at the
 southern extremity! One reason he gives for this strange theory is that
 the center of gravity is not fixed but that the earth
-"[wobbles](errata.htm#109)" in its rotation in a manner that would
+"[wobbles](errata.htm#109.md)" in its rotation in a manner that would
 suggest that the center of gravity is no longer in the center of the
 sphere but that it is moving up and
 
@@ -159,7 +159,7 @@ what Serviss actually says about the matter:
 
 "The central core of the earth is the densest part of the globe. It has
 been thought that it may be composed almost entirely of heavy
-[metallic](errata.htm#110) substances, mostly iron. Slight vibratory
+[metallic](errata.htm#110.md) substances, mostly iron. Slight vibratory
 motions of this dense core would produce a corresponding shift of the
 center of gravity . . . . . . . .
 
@@ -242,7 +242,7 @@ on the moon's surface.
 
 "This vegetation appears to spread along what looks exactly like two
 twin artificial canals, similar in character and appearance to those on
-Mars called man-made by the late Professor [Percival](errata.htm#111)
+Mars called man-made by the late Professor [Percival](errata.htm#111.md)
 Lowell.
 
 "These moon canals, Professor Pickering points out, are not less
@@ -283,7 +283,7 @@ showing through a rift in the incandescent envelope. But it does not
 seem to have occurred to him that there could be any other explanation
 and that a white hot cloud envelope would very soon heat the sun almost
 to its own temperature, and quickly kill off any life that there might
-be on its surface. [Herschel's](errata.htm#112) answer to this objection
+be on its surface. [Herschel's](errata.htm#112.md) answer to this objection
 was a flimsy one. He said that there were two layers of cloud, "the
 outer," says Proctor in discussing the matter, "self-luminous and
 constituting the true solar photosphere, the inner reflecting the light
@@ -295,7 +295,7 @@ the real surface of the sun from the intense light and heat which it
 would otherwise receive."
 
 Proctor goes on to say (in his book, "Other Worlds than Ours") that
-later discoveries shake [Herschel's](errata.htm#113) theory very much,
+later discoveries shake [Herschel's](errata.htm#113.md) theory very much,
 that while later scientists admit his theory about cloud envelopes, they
 do not admit that the sun is cool, but explain the dark spots by saying
 that it is the very height of the temperature, so much above anything we
@@ -351,7 +351,7 @@ not bother him with any
 further instances of it. When, therefore, we put forth the preliminary
 presentation of our theory in a much smaller book than the present one,
 with only the outstanding pieces of evidence set forth, we awaited with
-what calmness we might, the public [response](errata.htm#114) to our
+what calmness we might, the public [response](errata.htm#114.md) to our
 challenge. We knew that we had accused the whole body of astronomers,
 geologists, explorers and naturalists of being on the wrong track; we
 knew that we had thrown down a challenge to science, and we knew that
@@ -577,7 +577,7 @@ must thank you none the less for a most interesting exposition.
 ### WEIGHT OF OPINION
 
 Surely a letter like that will cause some of our uncritical
-[opponents](errata.htm#115) to think again. Let us merely point out that
+[opponents](errata.htm#115.md) to think again. Let us merely point out that
 the only test of a theory such as ours is "Does it explain the facts?"
 and Dr. Conan Doyle answers that it does explain very many facts meaning
 facts which have hitherto not been explained. Now we have never heard
@@ -670,7 +670,7 @@ that our theory is clearly and logically presented, that the
 illustrations aid in making clear just what the constitution of the
 earth is. And he would like to point out, he goes on to tell us, that
 there is a splendid chance to prove our theory through an
-[Antarctic](errata.htm#116) expedition which is shortly to set out from
+[Antarctic](errata.htm#116.md) expedition which is shortly to set out from
 Austria under the leadership of Herr Dr. Felix Konig. He informs us that
 Dr. Konig lives in Vienna and urges us to get into immediate touch with
 him.
@@ -818,7 +818,7 @@ in its formulation or in its method of proof. But that point we have
 discussed elsewhere in this book and so we need not repeat ourselves
 here. But we hope that our readers will keep the distinction clear
 between our scientifically proven theory and Symmes' purely speculative
-and [imaginary](errata.htm#117) account.
+and [imaginary](errata.htm#117.md) account.
 
 An open-minded scholar who has received our theory without prejudice is
 Professor J. W. Searson, of the Kansas State Agricultural College.
@@ -1252,4 +1252,4 @@ substantially of the same general form as is the earth."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII. Our Controversy with Dominian](jei26)
+[Next: Chapter XXIII. Our Controversy with Dominian](jei26.md)

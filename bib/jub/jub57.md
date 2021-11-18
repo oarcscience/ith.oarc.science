@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub56) 
-[Next](jub58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub56.md) 
+[Next](jub58.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ that I may feel thee, my son, if thou art my son Esau or not." 17. And
 Jacob went near to Isaac, his father, and he felt him and said: 18. "The
 voice is Jacob's voice, but the hands are the hands of Esau," and he
 discerned him not, because it was a dispensation from heaven <span
-id="fr_666"></span>[1](#fn_664) to remove his power of perception and
+id="fr_666"></span>[1](#fn_664.md) to remove his power of perception and
 Isaac discerned not, for his hands were hairy as (his brother) Esau's,
 so that he blessed him. 19. And he said: "Art thou my son Esau?" and he
 said: "I am thy son and he said, "Bring
@@ -69,17 +69,17 @@ and he brought him wine and he drank. 21. And Isaac, his father, said
 unto him: "Come near and kiss me, my son." And he came near and kissed
 him. 22. And he smelled the smell of his raiment, and he blessed him and
 said: "Behold, the smell of my son is as the smell of a (full) <span
-id="fr_667"></span>[1](#fn_665) field which the Lord hath blessed.
+id="fr_667"></span>[1](#fn_665.md) field which the Lord hath blessed.
 
 23\. And may the Lord give thee of the dew of heaven  
-And of the dew <span id="fr_668"></span>[2](#fn_666) of the earth, and
-plenty of corn and oil: <span id="fr_669"></span>[3](#fn_667)  
+And of the dew <span id="fr_668"></span>[2](#fn_666.md) of the earth, and
+plenty of corn and oil: <span id="fr_669"></span>[3](#fn_667.md)  
 Let nations serve thee,  
 And peoples bow down to thee.  
 24. Be lord over thy brethren,  
 And let thy mother's sons bow down to thee;  
 And may all the blessings wherewith the Lord hath blessed me and blessed
-Abraham, my father, <span id="fr_670"></span>[4](#fn_668)  
+Abraham, my father, <span id="fr_670"></span>[4](#fn_668.md)  
 Be imparted to thee and to thy seed for ever  
 Cursed be he that curseth thee,  
 And blessed be he that blesseth thee."
@@ -87,7 +87,7 @@ And blessed be he that blesseth thee."
 \[paragraph continues\] 25. And it came to pass as soon as Isaac had
 made an end of blessing his son Jacob, and Jacob had gone forth from
 Isaac his father †he hid himself and† <span
-id="fr_671"></span>[5](#fn_669) Esau, his brother, came in from his
+id="fr_671"></span>[5](#fn_669.md) Esau, his brother, came in from his
 hunting. 26. And he also made savoury meat, and brought (it) to his
 father, and said unto his father: "Let my father arise, and eat of my
 venison that thy soul may bless me." 27. And Isaac, his father, said
@@ -127,10 +127,10 @@ And far from the dew of heaven from above.
 34. And by thy sword wilt thou live,  
 And thou wilt serve thy brother.  
 And it shall come to pass when thou becomest great, <span
-id="fr_672"></span>[1](#fn_670)  
+id="fr_672"></span>[1](#fn_670.md)  
 And dost shake his yoke from off thy neck,  
 Thou wilt sin a complete sin unto death, <span
-id="fr_673"></span>[2](#fn_671)  
+id="fr_673"></span>[2](#fn_671.md)  
 <span id="page_144">p. 144</span> And thy seed will be rooted out from
 under heaven."
 
@@ -142,26 +142,26 @@ mourning for my father now come, so that I may slay my brother Jacob."
 
 ### Footnotes
 
-<span id="fn_664"></span>[141:1](jub57.htm#fr_666) Cf. 1 Kings xii. 15.
+<span id="fn_664"></span>[141:1](jub57.htm#fr_666.md) Cf. 1 Kings xii. 15.
 
-<span id="fn_665"></span>[142:1](jub57.htm#fr_667) So Latin here, and
+<span id="fn_665"></span>[142:1](jub57.htm#fr_667.md) So Latin here, and
 Sam. LXX and Vulg. in Gen. xxvii. 27: MT omits.
 
-<span id="fn_666"></span>[142:2](jub57.htm#fr_668) Text of Gen. xxvii.
+<span id="fn_666"></span>[142:2](jub57.htm#fr_668.md) Text of Gen. xxvii.
 28 has "fatness."
 
-<span id="fn_667"></span>[142:3](jub57.htm#fr_669) Text of Genesis has
+<span id="fn_667"></span>[142:3](jub57.htm#fr_669.md) Text of Genesis has
 "wine."
 
-<span id="fn_668"></span>[142:4](jub57.htm#fr_670) Cf. Gen; xxviii. 4.
+<span id="fn_668"></span>[142:4](jub57.htm#fr_670.md) Cf. Gen; xxviii. 4.
 
-<span id="fn_669"></span>[142:5](jub57.htm#fr_671) Charles suspects this
+<span id="fn_669"></span>[142:5](jub57.htm#fr_671.md) Charles suspects this
 to be an addition to the text: read "that."
 
-<span id="fn_670"></span>[143:1](jub57.htm#fr_672) So Sam. of Gen.
+<span id="fn_670"></span>[143:1](jub57.htm#fr_672.md) So Sam. of Gen.
 xxvii. 40: MT "when Thou shalt break loose."
 
-<span id="fn_671"></span>[143:2](jub57.htm#fr_673) This line is a
+<span id="fn_671"></span>[143:2](jub57.htm#fr_673.md) This line is a
 complete departure from the original text, which has: "thou shalt shake
 his yoke from off thy neck." The interpretation here given in the text
 has no support elsewhere.
@@ -169,4 +169,4 @@ has no support elsewhere.
 ------------------------------------------------------------------------
 
 [Next: Rebecca induces Isaac to send Jacob to Mesopotamia. Jacob's Dream
-and View at Bethel (xxvii. 1-27)](jub58)
+and View at Bethel (xxvii. 1-27)](jub58.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index)  [Index](index) 
-[Previous](dom04)  [Next](dom06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index)  [Index](index.md) 
+[Previous](dom04)  [Next](dom06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140436316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140436316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1684,4 +1684,4 @@ sufficed to raise man to his present high position in the organic scale.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Comparison of the Mental Powers of Man and the Lower
-Animals](dom06)
+Animals](dom06.md)

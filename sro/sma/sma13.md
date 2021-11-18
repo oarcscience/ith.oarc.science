@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma12)  [Next](sma14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma12)  [Next](sma14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ doubt the judgment of the oriental historians, who consider his faith in
 Islam as being sincere and pure. It was probably his virtue that caused
 his death, for his life, it was suspected, was terminated by poison
 administered by his own kindred. His son Ala-ed-deen <span
-id="fr_63"></span>[\*](#fn_63) (*Eminence of Religion*), who succeeded
+id="fr_63"></span>[\*](#fn_63) (*Eminence of Religion*.md), who succeeded
 him, was but nine years old; but as, according to the maxims of the
 Ismaïlites, the visible representative of the imam was, to a certain
 extent, exempted from the ordinary imperfections of humanity, and his
@@ -98,7 +98,7 @@ knew he was gone. The governor made every apology for what he had been
 obliged to do. The philosopher was sent on to Alamoot to be the
 companion of Ala-ed-deen, and it was while he was there that he wrote
 his great work called the Morals of Nasir (*Akhlaak-Nasiree*). <span
-id="fr_64"></span>[\*](#fn_64)
+id="fr_64"></span>[\*](#fn_64.md)
 
 It was during the administration of Ala-ed-deen that the following
 event, so strongly illustrative of the modes of procedure of the
@@ -251,11 +251,11 @@ resistance would be vain.
 
 ### Footnotes
 
-<span id="fn_63"></span>[148:\*](sma13.htm#fr_63) This is the name
+<span id="fn_63"></span>[148:\*](sma13.htm#fr_63.md) This is the name
 which, in the form of Aladdin, is so familiar to us from the story of
 the Wonderful Lamp.
 
-<span id="fn_64"></span>[150:\*](sma13.htm#fr_64) Malcolm's History of
+<span id="fn_64"></span>[150:\*](sma13.htm#fr_64.md) Malcolm's History of
 Persia, vol. i. In the clever work called "Traits and Stories of the
 Irish Peasantry," which is the best picture ever given of the language,
 manners, and modes of thinking of that class, there is an amusing
@@ -266,4 +266,4 @@ may be placed in comparison with this anecdote of Ala-ed-deen.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](sma14)
+[Next: Chapter XI](sma14.md)

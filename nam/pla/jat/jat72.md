@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat71)  [Next](jat73) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat71)  [Next](jat73.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ When we got back to the tipi with the meat, they ceased asking for it.
 
 ------------------------------------------------------------------------
 
-[Next: 71. The Sinew-Backed Bow](jat73)
+[Next: 71. The Sinew-Backed Bow](jat73.md)

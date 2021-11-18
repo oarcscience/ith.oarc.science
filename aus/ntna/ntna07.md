@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna06)  [Next](ntna08) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna06)  [Next](ntna08.md) 
 
 ------------------------------------------------------------------------
 
@@ -573,4 +573,4 @@ Muraian of the Kakadu will not survive for long.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Burial and Mourning Ceremonies](ntna08)
+[Next: Chapter VI: Burial and Mourning Ceremonies](ntna08.md)

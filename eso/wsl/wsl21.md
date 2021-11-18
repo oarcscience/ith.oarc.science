@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](wsl20)  [Next](wsl22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](wsl20)  [Next](wsl22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NJRA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NJRA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Wanderer in the Sprit Lands*, by Franchezzo (A. Farnese), \[1896\],
 at Intangible Textual Heritage
 
@@ -142,4 +142,4 @@ misused earthly lives had been scattered there.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX.--The Imperial City](wsl22)
+[Next: Chapter XX.--The Imperial City](wsl22.md)

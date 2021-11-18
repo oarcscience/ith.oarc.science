@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](eog07)  [Next](eog09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](eog07)  [Next](eog09.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,8 +19,8 @@ Intangible Textual Heritage
 
 (*Gilgamish is removing the stains of combat*).
 
- <span id="fr_78"></span>[1](#fn_72)(Now) is <span
-id="fr_79"></span>[2](#fn_73) he washing his stains, (and) is cleansing
+ <span id="fr_78"></span>[1](#fn_72)(Now.md) is <span
+id="fr_79"></span>[2](#fn_73) he washing his stains, (and.md) is cleansing
 his garments in tatters,  
 Braiding (?) (the locks of) his hair (to descend loose) over his
 shoulders,  
@@ -37,7 +37,7 @@ Grant me largesse: (for) my husband shalt be and I'll be thy consort.
 <span class="margnote">10.</span>O, but I'll furnish a chariot for thee,
 (all) azure and golden,  
 Golden its wheel, and its yoke precious stones <span
-id="fr_80"></span>[3](#fn_74), each day to be harness'd  
+id="fr_80"></span>[3](#fn_74.md), each day to be harness'd  
 Unto great mules: (O), enter our house with the fragrance of cedar.  
 <span class="margnote">15.</span>(So) when thou enterest into our house
 shall threshold and dais  
@@ -46,10 +46,10 @@ rulers,
 Bringing thee yield of the mountains and plains as a tribute: thy
 she-goats  
 Bring forth in plenty, thy ewes shall bear twins, thy asses <span
-id="fr_81"></span>[4](#fn_75) attaining  
+id="fr_81"></span>[4](#fn_75.md) attaining  
 <span class="margnote">20.</span>(Each) to the size of a mule, (and) thy
-steeds <span id="fr_82"></span>[4](#fn_75) in thy chariot winning  
-Fame for their gallop: \[thy mules <span id="fr_83"></span>[4](#fn_75)\]
+steeds <span id="fr_82"></span>[4](#fn_75.md) in thy chariot winning  
+Fame for their gallop: \[thy mules <span id="fr_83"></span>[4](#fn_75.md)\]
 in the yoke shall ne’er have a rival."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -85,7 +85,7 @@ him,
 Thou art but limestone which \[letteth\] stone ramparts \[fall crumbling
 in ruin\].  
 <span class="margnote">40.</span>Thou’rt but chalcedony \[failing to
-guard (?)\] <span id="fr_84"></span>[1](#fn_76) in an enemy's country,  
+guard (?)\] <span id="fr_84"></span>[1](#fn_76.md) in an enemy's country,  
 Thou’rt but a sandal which causeth its owner \[to trip (by the
 wayside)\].  
 Who was ever \[thy\] husband \[thou faithfully lovedst\] for all time?  
@@ -97,8 +97,8 @@ Come, and I will unfold thee \[the endless tale\] of thy husbands.
 <span class="margnote">45.</span>(Sooth), thou shalt vouch (?) for the
 truth (?) of (this) list—Thy maidenhood's consort,  
 Tammuz, each year dost make him the cause of Wailing <span
-id="fr_85"></span>[2](#fn_77), (then cometh  
-Next) the bird Roller <span id="fr_86"></span>[3](#fn_78) gay-feather’d
+id="fr_85"></span>[2](#fn_77.md), (then cometh  
+Next) the bird Roller <span id="fr_86"></span>[3](#fn_78.md) gay-feather’d
 thou lovedst, and (yet) thou didst smite him  
 <span class="margnote">50.</span>Breaking his wing: in the grove doth he
 stand, crying *kappi* 'my wing!'  
@@ -122,10 +122,10 @@ Lovedst thou, too, Ishullanu, the gardener he of thy sire,
 <span class="margnote">65.</span>Bringing delights (?) to thee
 ceaseless, while daily he garnish’d thy platter;  
 ’Twas for thee only to cast thine eyes on him, and with him be
-smitten <span id="fr_87"></span>[4](#fn_79).  
+smitten <span id="fr_87"></span>[4](#fn_79.md).  
 'O Ishullanu of mine, come, let me taste of thy vigour,  
 Put forth thy hand, too, . . . . . . . . . .  <span
-id="fr_88"></span>[5](#fn_80)'
+id="fr_88"></span>[5](#fn_80.md)'
 
 <span id="page_34">p. 34</span>
 
@@ -136,13 +136,13 @@ Said to thee 'What dost thou ask me? Save only my mother hath baked
 Nought have I eaten—(and) what I should eat would be bread of
 transgression,  
 (Aye) and iniquity! (Further), the reeds are a cloak against
-winter. <span id="fr_89"></span>[1](#fn_81)'  
+winter. <span id="fr_89"></span>[1](#fn_81.md)'  
 <span class="margnote">75.</span>Thou this \[his answer\] didst hear,
 didst smite him and make him a spider(?) <span
-id="fr_90"></span>[2](#fn_82),  
+id="fr_90"></span>[2](#fn_82.md),  
 Making him lodge midway up a \[dwelling(?)\] <span
-id="fr_91"></span>[3](#fn_83)—not to move upwards  
-Lest there be drainage <span id="fr_92"></span>[4](#fn_84); nor down,
+id="fr_91"></span>[3](#fn_83.md)—not to move upwards  
+Lest there be drainage <span id="fr_92"></span>[4](#fn_84.md); nor down,
 lest a crushing \[o’erwhelm him\].  
      So, too, me in my turn thou wouldst love and (then) \[reckon\] me
 like them."
@@ -150,7 +150,7 @@ like them."
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <span class="margnote">80.</span>\[Heard\] this (then) Ishtar: she <span
-id="fr_93"></span>[5](#fn_85) burst into rage and \[went up\] to
+id="fr_93"></span>[5](#fn_85.md) burst into rage and \[went up\] to
 Heaven,  
 Hied her (thus) Ishtar to Anu, \[her father\], to Antu, her mother,  
 <span class="margnote">85.</span>Came she \[to tell (them)\]: "O father,
@@ -163,7 +163,7 @@ Anu made answer, (thus) speaking, and said unto Ishtar the Lady:
 "Nay, thou didst ask him \[to grant thee largesse of the fruit of his
 body\],  
 <span class="margnote">90.</span>(Hence) he <span
-id="fr_94"></span>[6](#fn_86) the tale of thy sins, thy sins and
+id="fr_94"></span>[6](#fn_86.md) the tale of thy sins, thy sins and
 iniquities telleth."
 
 (*The Creation of the Divine Bull which is to destroy the heroes*).
@@ -176,7 +176,7 @@ Ishtar made answer (thus) speaking, and said unto \[Anu, her father\]:
 But if thou’lt \[not\] make \[this Bull\], then . . . .  
 I'll smite . . . ., I'll put . . . ., I'll . . . .  
 <span class="margnote">100.</span>More than the . . . will be the . . .
-. . . .  <span id="fr_95"></span>[7](#fn_87)
+. . . .  <span id="fr_95"></span>[7](#fn_87.md)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -293,57 +293,57 @@ Enkidu (now) his dream to reveal: (thus) spake he unto his comrade.
 
 ### Footnotes
 
-<span id="fn_72"></span>[32:1](eog08.htm#fr_78) Assyrian Version.
+<span id="fn_72"></span>[32:1](eog08.htm#fr_78.md) Assyrian Version.
 
-<span id="fn_73"></span>[32:2](eog08.htm#fr_79) The tense here is
+<span id="fn_73"></span>[32:2](eog08.htm#fr_79.md) The tense here is
 properly past, but the historic present will serve.
 
-<span id="fn_74"></span>[32:3](eog08.htm#fr_80) *Elmeshu*, an uncertain
+<span id="fn_74"></span>[32:3](eog08.htm#fr_80.md) *Elmeshu*, an uncertain
 kind of gem.
 
-<span id="fn_75"></span>[32:4](eog08.htm#fr_83) Singular in the text. A
+<span id="fn_75"></span>[32:4](eog08.htm#fr_83.md) Singular in the text. A
 fragment of a Semitic tablet from Boghaz Keui (*Keils. Boghazk*, IV. 12,
 p. 12) includes among her gifts "great horses" and "crystal for thy
 feet."
 
-<span id="fn_76"></span>[33:1](eog08.htm#fr_84) a seal-cylinder or
+<span id="fn_76"></span>[33:1](eog08.htm#fr_84.md) a seal-cylinder or
 amulet of chalcedony.
 
-<span id="fn_77"></span>[33:2](eog08.htm#fr_85) The Annual festival of
+<span id="fn_77"></span>[33:2](eog08.htm#fr_85.md) The Annual festival of
 the Wailing for Tammuz. Tammuz, the husband of Ishtar, representing
 vegetation, dies each year in the Autumn, and his faithful spouse goes
 down to the Underworld to bring him back with the return of Spring.
 
-<span id="fn_78"></span>[33:3](eog08.htm#fr_86) The Roller, a brightly
+<span id="fn_78"></span>[33:3](eog08.htm#fr_86.md) The Roller, a brightly
 coloured bird which lives in the palm groves of Southern Babylonia,
 uttering a hoarse cry which may be identified with *kappi*. During the
 breeding season it has a curious irregular flight which probably gave
 rise to the legend of the broken wing.
 
-<span id="fn_79"></span>[33:4](eog08.htm#fr_87) The force of the tense
+<span id="fn_79"></span>[33:4](eog08.htm#fr_87.md) The force of the tense
 of the last verb appears to demand this form of translation.
 
-<span id="fn_80"></span>[33:5](eog08.htm#fr_88) This, the invitation of
+<span id="fn_80"></span>[33:5](eog08.htm#fr_88.md) This, the invitation of
 Ishtar, (two words) is omitted.
 
-<span id="fn_81"></span>[34:1](eog08.htm#fr_89) The reply of Ishullanu
+<span id="fn_81"></span>[34:1](eog08.htm#fr_89.md) The reply of Ishullanu
 is difficult. when the goddess falls in love with him, he refuses,
 saying in contempt that his mother's baking is enough for him, and, as
 for the cold, the reeds provide him with ample covering.
 
-<span id="fn_82"></span>[34:2](eog08.htm#fr_90) *Dallalu*, an unknown
+<span id="fn_82"></span>[34:2](eog08.htm#fr_90.md) *Dallalu*, an unknown
 word, perhaps *lit*. "the spinner," from a cognate Syriac root *dall*.
 
-<span id="fn_83"></span>[34:3](eog08.htm#fr_91) Only half the word left
+<span id="fn_83"></span>[34:3](eog08.htm#fr_91.md) Only half the word left
 which might be restored "dwelling."
 
-<span id="fn_84"></span>[34:4](eog08.htm#fr_92) From the roof.
+<span id="fn_84"></span>[34:4](eog08.htm#fr_92.md) From the roof.
 
-<span id="fn_85"></span>[34:5](eog08.htm#fr_93) Text "Ishtar."
+<span id="fn_85"></span>[34:5](eog08.htm#fr_93.md) Text "Ishtar."
 
-<span id="fn_86"></span>[34:6](eog08.htm#fr_94) Text "Gilgamish."
+<span id="fn_86"></span>[34:6](eog08.htm#fr_94.md) Text "Gilgamish."
 
-<span id="fn_87"></span>[34:7](eog08.htm#fr_95) It is usual to restore
+<span id="fn_87"></span>[34:7](eog08.htm#fr_95.md) It is usual to restore
 this passage from the Legend of the descent of Ishtar to Hades where
 she, outside the door, threatens to break it down and release the
 ghosts, who shall then be more numerous than the living. The incident of
@@ -354,4 +354,4 @@ of the tablet quoted in the note to the Sixth Tablet, *l*. 20.
 
 ------------------------------------------------------------------------
 
-[Next: The Seventh Tablet: The Death of Enkidu](eog09)
+[Next: The Seventh Tablet: The Death of Enkidu](eog09.md)

@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft64)  [Next](efft66) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft64)  [Next](efft66.md) 
 
 ------------------------------------------------------------------------
 
-# SPECTRE-DOGS  <span id="fr_74"></span>[1](#fn_74)
+# SPECTRE-DOGS  <span id="fr_74"></span>[1](#fn_74.md)
 
 <span id="img_13"></span> [![](tn/13.jpg)  
-Click to enlarge](img/13.jpg)  
+Click to enlarge](img/13.jpg.md)  
 "HE FELL ON HIS KNEES."
 
 NEITHER Brand in his *Popular Antiquitie*s, nor Sir Walter Scott in his
@@ -146,7 +146,7 @@ sinks into the earth with a frightful shriek, or, if the pursuer averts
 his eyes from it for a moment, it disappears he knows not how. If struck
 at with a stick or weapon, it keeps its ground, but, to thehorror of the
 striker, his weapon passes as harmlessly through it as if it were a mere
-shadow.  <span id="fr_75"></span>[2](#fn_75)
+shadow.  <span id="fr_75"></span>[2](#fn_75.md)
 
 Lyme-Regis, in Dorsetshire, has a famous story about one of these canine
 apparitions. About a mile from the town stands a farmhouse, which once
@@ -250,12 +250,12 @@ the vicar took a nutshell with a hole in it, and led the hound to the
 pool below the waterfall. "Take this shell," said he, "and when thou
 shalt have dipped out the pool with it, thou mayest rest--not before!"
 And at midday and at midnight the hound may still be seen at its work.
- <span id="fr_76"></span>[3](#fn_76) It is difficult to understand why
+ <span id="fr_76"></span>[3](#fn_76.md) It is difficult to understand why
 the industrious weaver was consigned to such a hopeless doom. Many
 spectral dogs, believed to be the souls of wicked persons, are said to
 haunt the sides of rivers and pools, and sometimes their yelping is so
 dreadful, that all who hear them lose their senses.  <span
-id="fr_77"></span>[4](#fn_77)
+id="fr_77"></span>[4](#fn_77.md)
 
 Besides such apparitions of solitary dogs, whole packs of spectral
 hounds are said to be occasionally heard and seen in full cry in various
@@ -327,24 +327,24 @@ dismally than ever; and the huntsman shouted, "Bo Shrove I!" which
 "means," says the narrator, "in the old language, The boy prays!" The
 black huntsman then drew off his dandy-dogs, and the poor herdsman
 hastened home as fast as his trembling frame permitted. <span
-id="fr_78"></span>[5](#fn_78)
+id="fr_78"></span>[5](#fn_78.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_74"></span>[1](efft65.htm#fr_74) Chambers's *Book of Days*,
+<span id="fn_74"></span>[1](efft65.htm#fr_74.md) Chambers's *Book of Days*,
 vol. ii. p. 433.
 
-<span id="fn_75"></span>[2](efft65.htm#fr_75) *Notes and Queries*.
+<span id="fn_75"></span>[2](efft65.htm#fr_75.md) *Notes and Queries*.
 
-<span id="fn_76"></span>[3](efft65.htm#fr_76) Notes and Queries, vol.
+<span id="fn_76"></span>[3](efft65.htm#fr_76.md) Notes and Queries, vol.
 ii. p. 515.
 
-<span id="fn_77"></span>[4](efft65.htm#fr_77) *ibid*., vol. i. p. 295.
+<span id="fn_77"></span>[4](efft65.htm#fr_77.md) *ibid*., vol. i. p. 295.
 
-<span id="fn_78"></span>[5](efft65.htm#fr_78) *Notes, and Queries*.
+<span id="fn_78"></span>[5](efft65.htm#fr_78.md) *Notes, and Queries*.
 
 ------------------------------------------------------------------------
 
-[Next: Billy B----'s Adventure](efft66)
+[Next: Billy B----'s Adventure](efft66.md)

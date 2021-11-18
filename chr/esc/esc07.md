@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc06)  [Next](esc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc06)  [Next](esc08.md) 
 
 ------------------------------------------------------------------------
 
@@ -334,4 +334,4 @@ believe, repent, and turn to God.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture VI. Daniel's Vision of the Latter Days](esc08)
+[Next: Lecture VI. Daniel's Vision of the Latter Days](esc08.md)

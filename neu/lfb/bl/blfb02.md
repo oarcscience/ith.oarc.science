@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb01)  [Next](blfb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb01)  [Next](blfb03.md) 
 
 </div>
 
@@ -497,6 +497,6 @@ Paris: Maisonneuve, 1889.
 
 ------------------------------------------------------------------------
 
-[Next: Prince Hyacinth and the Dear Little Princess](blfb03)
+[Next: Prince Hyacinth and the Dear Little Princess](blfb03.md)
 
 </div>

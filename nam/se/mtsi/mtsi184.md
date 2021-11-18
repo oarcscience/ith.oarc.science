@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi183)  [Next](mtsi185) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi183)  [Next](mtsi185.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ got up and ran away.
 
 ------------------------------------------------------------------------
 
-[Next: 49. The Captive Alabama](mtsi185)
+[Next: 49. The Captive Alabama](mtsi185.md)

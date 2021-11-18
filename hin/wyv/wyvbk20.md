@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvbk19)  [Next](wyvbk21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvbk19)  [Next](wyvbk21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -279,7 +279,7 @@ was shed,
 Gave Indra balm, yea, mead as balm, glory and fame and  
 many a shape.  
 65 Praising with foaming liquor at due times, Indra,
-[Vanaspatî](errata.htm#13),  
+[Vanaspatî](errata.htm#13.md),  
 Sarasvatî as cow gave forth sweet beverage with the Asvins  
 Twain.  
 66 Asvins, to Indra ye with cows, with Mâsara and foaming  
@@ -358,4 +358,4 @@ meath.
 
 ------------------------------------------------------------------------
 
-[Next: Book XXI](wyvbk21)
+[Next: Book XXI](wyvbk21.md)

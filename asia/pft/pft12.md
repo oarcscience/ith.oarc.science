@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft11)  [Next](pft13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft11)  [Next](pft13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ face, and you can still see the dark spots on the face of the Moon.
 
 ------------------------------------------------------------------------
 
-[Next: How the Tinguian Learned to Plant](pft13)
+[Next: How the Tinguian Learned to Plant](pft13.md)

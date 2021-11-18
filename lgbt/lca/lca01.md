@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca00) 
-[Next](lca02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca00.md) 
+[Next](lca02.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ when--some day--he shall have come to his full estate*.\]
 
 ------------------------------------------------------------------------
 
-[Next: Contents](lca02)
+[Next: Contents](lca02.md)

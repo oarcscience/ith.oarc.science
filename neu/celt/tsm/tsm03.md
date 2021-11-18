@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm02)  [Next](tsm04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm02)  [Next](tsm04.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ island on which the sun always shone and flowers were
 <span id="page_10">p. 10</span>
 
 always blooming. During the reign of Beira <span
-id="fr_0"></span>[1](#fn_0), Queen of Winter, the spirit of Spring, they
+id="fr_0"></span>[1](#fn_0.md), Queen of Winter, the spirit of Spring, they
 thought, was always trying to visit Scotland, and they imagined that
 Beira raised the storms of January and February to prolong her reign by
 keeping the grass from growing. Beira was regarded as a hard and cruel
@@ -90,7 +90,7 @@ instance, was "the deaf or soundless one", because the Forth is a
 comparatively silent river; the goddess of the Clyde, on the other hand,
 was "the purifying one", because the old people knew it: as a river
 which scoured the country it passed through, and carried much mud and
-clay seaward when in flood. <span id="fr_1"></span>[1](#fn_1)
+clay seaward when in flood. <span id="fr_1"></span>[1](#fn_1.md)
 
 Many old stories have been lost, of course, and those which remain are
 mere fragments of an ancient mythology. In different parts of Scotland
@@ -232,7 +232,7 @@ is:--
 The serpent will come from the hole  
 On the brown day of Bride,  
 Though there should be three feet of snow  
-On the flat surface of the ground.  <span id="fr_2"></span>[1](#fn_2)
+On the flat surface of the ground.  <span id="fr_2"></span>[1](#fn_2.md)
 
 A white serpent was supposed to give skill to physicians. A part of the
 body was cooked, and he who first tasted the juice of the serpent
@@ -325,14 +325,14 @@ medicines are manufactured.
 
 ### Footnotes
 
-<span id="fn_0"></span>[10:1](tsm03.htm#fr_0) Pronounced Bee'ra.
+<span id="fn_0"></span>[10:1](tsm03.htm#fr_0.md) Pronounced Bee'ra.
 
-<span id="fn_1"></span>[12:1](tsm03.htm#fr_1) Professor W. J. Watson's
+<span id="fn_1"></span>[12:1](tsm03.htm#fr_1.md) Professor W. J. Watson's
 Rhind lectures, 1916.
 
-<span id="fn_2"></span>[18:1](tsm03.htm#fr_2) Dr. A. Carmichael's
+<span id="fn_2"></span>[18:1](tsm03.htm#fr_2.md) Dr. A. Carmichael's
 *Carmina Gadelica*, Vol. I, p. 169.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](tsm04)
+[Next: Chapter I](tsm04.md)

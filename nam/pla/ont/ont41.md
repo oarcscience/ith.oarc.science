@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont40)  [Next](ont42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont40)  [Next](ont42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -39,7 +39,7 @@ Brings-down-the-Sun.</span>
 "THERE are two bright stars that sometimes rise together, just before
 the sun comes up, Morning Star and Young 'Morning Star or Star Boy
 (referring to the conjunction of the planets Venus and Jupiter before
-daybreak). <span id="fr_53"></span>[1](#fn_44) I will tell you the story
+daybreak). <span id="fr_53"></span>[1](#fn_44.md) I will tell you the story
 of these two Morning Stars, as it was related to me by my father, having
 been handed down to him through many generations."
 
@@ -61,7 +61,7 @@ awoke.
 
 <span id="img_49200"></span> <span align="CENTER"> [![SUMMER CAMP OF THE
 BLACKFEET NEAR THE MOUNTAINS.](tn/49200.jpg)  
-Click to enlarge](img/49200.jpg)  
+Click to enlarge](img/49200.jpg.md)  
 SUMMER CAMP OF THE BLACKFEET NEAR THE MOUNTAINS.  
 </span>
 
@@ -271,7 +271,7 @@ his people concerning
 the Sun-dance, the Sun God took him back to the sky with the girl he
 loved. When Poïa returned to the home of the Sun, the Sun God made him
 bright and beautiful, just like his father, Morning Star. <span
-id="fr_54"></span>[1](#fn_45) In those days Morning Star and his son
+id="fr_54"></span>[1](#fn_45.md) In those days Morning Star and his son
 could be seen together in the east. Because Poïa appears first in the
 sky, the Blackfeet often mistake him for his father, and he is therefore
 sometimes called Poks-o-piks-o-aks, Mistake Morning Star.
@@ -294,7 +294,7 @@ Many medicine men have dreamed of the Sun, and of the Moon, but I have
 never yet heard of one so powerful as to dream of Morning Star, because
 he shows himself in the sky for such a short time.
 
-"The 'Star that stands still' <span id="fr_55"></span>[1](#fn_45) (North
+"The 'Star that stands still' <span id="fr_55"></span>[1](#fn_45.md) (North
 Star) is different from other stars, because it never moves. All
 
 <span id="page_500">p. 500</span>
@@ -442,7 +442,7 @@ daughter, Pretty Blanket, and her three children. I know that your heart
 is good, because you alone, of all your people, were not afraid to go to
 them, when they were murdered in your country by Wakes-up-last, when he
 was crazed by the white man's fire water." <span
-id="fr_56"></span>[1](#fn_46) But Menake refused to take Soks-kinne,
+id="fr_56"></span>[1](#fn_46.md) But Menake refused to take Soks-kinne,
 explaining that she knew how highly he valued the horse, and she wanted
 no reward. Brings-down-the-Sun laid his hand affectionately on
 Soks-kinne's head, saying, "I prize this horse more than anything else
@@ -453,7 +453,7 @@ relatives may come to visit in our
 
 <span id="img_50400"></span> <span align="CENTER"> [![SUNRISE FROM
 LOOKOUT BUTTE](tn/50400.jpg)  
-Click to enlarge](img/50400.jpg)  
+Click to enlarge](img/50400.jpg.md)  
 SUNRISE FROM LOOKOUT BUTTE  
 </span>
 
@@ -501,15 +501,15 @@ Soks-kinne, and followed by his faithful old dog, Kops-ksis-e.
 
 ### Footnotes
 
-<span id="fn_44"></span>[491:1](ont41.htm#fr_53) See
-[Appendix](ont44.htm#an_491).
+<span id="fn_44"></span>[491:1](ont41.htm#fr_53.md) See
+[Appendix](ont44.htm#an_491.md).
 
-<span id="fn_45"></span>[499:1](ont41.htm#fr_55) See
-[Appendix](ont44.htm#an_499).
+<span id="fn_45"></span>[499:1](ont41.htm#fr_55.md) See
+[Appendix](ont44.htm#an_499.md).
 
-<span id="fn_46"></span>[504:1](ont41.htm#fr_56) See
-[Appendix](ont44.htm#an_504).
+<span id="fn_46"></span>[504:1](ont41.htm#fr_56.md) See
+[Appendix](ont44.htm#an_504.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIX. The Present and Future of the Blackfeet](ont42)
+[Next: Chapter XXXIX. The Present and Future of the Blackfeet](ont42.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo70)  [Next](hoo72) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo70)  [Next](hoo72.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ And to my life afford a prosp'rous end.
 
 ------------------------------------------------------------------------
 
-[Next: LXVII: To Health](hoo72)
+[Next: LXVII: To Health](hoo72.md)

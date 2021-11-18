@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm06)  [Next](rrm08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm06)  [Next](rrm08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ watch, in jarring the matchless mechanism.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Insufficiency of Worldly Objects](rrm08)
+[Next: Chapter IV: Insufficiency of Worldly Objects](rrm08.md)

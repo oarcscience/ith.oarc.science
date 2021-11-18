@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft64)  [Next](pft66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft64)  [Next](pft66.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ spider for the fly.
 
 ------------------------------------------------------------------------
 
-[Next: The Battle of the Crabs](pft66)
+[Next: The Battle of the Crabs](pft66.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ljp00)  [Next](ljp02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ljp00)  [Next](ljp02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -138,14 +138,14 @@ faith before charity is not living faith, but only knowledge; and that a
 man ought to do good as of himself, and that otherwise nothing of good
 is inrooted and implanted: but to this they shut their ears. When they
 were told that one of the most talented of them <span
-id="fr_0"></span>[9-1](#fn_0) had thought out reasons and ways, even to
+id="fr_0"></span>[9-1](#fn_0.md) had thought out reasons and ways, even to
 a hundred, to confirm that faith produces charity, and that he had
 wandered through each way, as is done in the spiritual world by thinking
 that it is so; but still, when he came to the end of the way, he saw
 from enlightenment given him that he had been wandering, which he also
 as often confessed. Also when their solemn exhortation at the Holy
 Supper was read before them, wherein these things are said, <span
-id="fr_1"></span>[9-2](#fn_1) . . . they thought, but were unwilling to
+id="fr_1"></span>[9-2](#fn_1.md) . . . they thought, but were unwilling to
 say, that this is said for the laity, and that the doctrine is for the
 clergy: wherefore it was announced to them, that life according to the
 faith of the laity saves; but life according to the doctrine of the
@@ -184,7 +184,7 @@ world are similar to the cities in the natural world, but only as to the
 streets and public squares; but they are not similar as to the
 buildings. Neither do the good and the evil dwell promiscuously there;
 but in the middle of the city, where also are the public
-buildings, <span id="fr_2"></span>[12-1](#fn_2) dwell the best, who are
+buildings, <span id="fr_2"></span>[12-1](#fn_2.md) dwell the best, who are
 the governors and magistrates. To the east there are those who are in
 the clear good of love, to the west those who are in the obscure good of
 love, to the south those who are in the clear light of truth, to the
@@ -353,7 +353,7 @@ Thus they wander, and for a long time seek for places of getting away,
 and this even to fatigue: wherefore they are compelled to return into
 the city; and they enter their house, and so are amended. The reason is,
 that the desire of ruling in marriage takes away conjugial <span
-id="fr_3"></span>[22-1](#fn_3) love; which increases with a consort as
+id="fr_3"></span>[22-1](#fn_3.md) love; which increases with a consort as
 the love of ruling decreases. In place of this then comes love, and with
 love enjoyment of life; and then neither the man nor the wife, but the
 Lord, rules: hence is happiness in marriages.
@@ -829,20 +829,20 @@ those who preach good works.
 
 ### Footnotes
 
-<span id="fn_0"></span>[9-1](ljp01.htm#fr_0) The author of The Whole
+<span id="fn_0"></span>[9-1](ljp01.htm#fr_0.md) The author of The Whole
 Duty of Man. See SE 5058; CLJ 46.
 
-<span id="fn_1"></span>[9-2](ljp01.htm#fr_1) The Exhortation is not
+<span id="fn_1"></span>[9-2](ljp01.htm#fr_1.md) The Exhortation is not
 quoted here. See T 722:3.
 
-<span id="fn_2"></span>[12-1](ljp01.htm#fr_2) Tafel has, "aedificium;"
+<span id="fn_2"></span>[12-1](ljp01.htm#fr_2.md) Tafel has, "aedificium;"
 in the MS. the words, "ubi etiam aedificium est," are written above the
 line. Possibly it should read, "ubi etiam editius est," "where, also, it
 is more elevated."
 
-<span id="fn_3"></span>[22-1](ljp01.htm#fr_3) Tafel has conjugalem; but
+<span id="fn_3"></span>[22-1](ljp01.htm#fr_3.md) Tafel has conjugalem; but
 the MS. has conjugialem.
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](ljp02)
+[Next: 51-100](ljp02.md)

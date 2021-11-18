@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh06)  [Next](seh08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh06)  [Next](seh08.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ the inflood of the Divine upon the heart of man.
 
 ------------------------------------------------------------------------
 
-[Next: The Hindu Widow and the Zenana](seh08)
+[Next: The Hindu Widow and the Zenana](seh08.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg30)  [Next](hchg32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg30)  [Next](hchg32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -350,4 +350,4 @@ she continued her office as Bearer of the Holy Graal.
 
 ------------------------------------------------------------------------
 
-[Next: § D.--The Conclusion of Manessier](hchg32)
+[Next: § D.--The Conclusion of Manessier](hchg32.md)

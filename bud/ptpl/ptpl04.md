@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ptpl03)  [Next](ptpl05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ptpl03)  [Next](ptpl05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Principal Teachings of The True Sect of Pure Land*, by Yejitsu Okusa,
 \[1915\], at Intangible Textual Heritage
 
@@ -37,13 +37,13 @@ of the ten principal branches of the True Sect of Pure Land:
 
 <span id="img_02700"></span> <span align="CENTER"> [![A Schematic View
 of the Ten Branches of the True Sect of Pure Land](tn/02700.jpg)  
-Click to enlarge](img/02700.jpg)  
+Click to enlarge](img/02700.jpg.md)  
 A Schematic View of the Ten Branches of the True Sect of Pure Land  
 </span>
 
 <span id="page_28">p. 28</span>
 
-Among these ten [branches](errata.htm#4), those most flourishing at
+Among these ten [branches](errata.htm#4.md), those most flourishing at
 present are the Ōtani and the Hongwanji. They trace back their origin of
 existence to the two brothers, Kyōnyo and Junnyo, and formerly composed
 one Hongwanji Branch. The reason why it came to have the largest number
@@ -71,22 +71,22 @@ of the Hongwanji and Nyoshin Shōnin for the second patriarch.
 
 Kakunyo, grandson to Kakushin-ni, succeeded Nyoshin, and it was he who
 compiled "A Life of Shinran, the Hongwanji Shōnin, with
-Illustrations," <span id="fr_17"></span>[17](#fn_17) in two volumes,
+Illustrations," <span id="fr_17"></span>[17](#fn_17.md) in two volumes,
 which is also known as the "Godenshō" simply, meaning the "Honorable
 Biography." The author was then twenty-six years old. His other works
-are: "The Shūyi-kotoku-den," <span id="fr_18"></span>[18](#fn_18)
+are: "The Shūyi-kotoku-den," <span id="fr_18"></span>[18](#fn_18.md)
 
 <span id="page_30">p. 30</span>
 
 <span class="contnote">\[paragraph continues\]</span> "The
-Kuden-shō," <span id="fr_19"></span>[19](#fn_19) "The Gai-ja-shō," <span
-id="fr_20"></span>[20](#fn_20) "The Shū-dzi-shō," <span
-id="fr_21"></span>[21](#fn_21) "The Hon-gwan-shō," <span
-id="fr_22"></span>[22](#fn_22) "The Gwan-gwan-shō," <span
-id="fr_23"></span>[23](#fn_23) "The Sai-yō-shō," <span
-id="fr_24"></span>[24](#fn_24) "The Shus-se-gwan-i," <span
-id="fr_25"></span>[25](#fn_25) "The Ho-on-kō-shiki," <span
-id="fr_26"></span>[26](#fn_26) etc.
+Kuden-shō," <span id="fr_19"></span>[19](#fn_19.md) "The Gai-ja-shō," <span
+id="fr_20"></span>[20](#fn_20.md) "The Shū-dzi-shō," <span
+id="fr_21"></span>[21](#fn_21.md) "The Hon-gwan-shō," <span
+id="fr_22"></span>[22](#fn_22.md) "The Gwan-gwan-shō," <span
+id="fr_23"></span>[23](#fn_23.md) "The Sai-yō-shō," <span
+id="fr_24"></span>[24](#fn_24.md) "The Shus-se-gwan-i," <span
+id="fr_25"></span>[25](#fn_25.md) "The Ho-on-kō-shiki," <span
+id="fr_26"></span>[26](#fn_26.md) etc.
 
 In those days, Japan was divided between two rival dynasties, Northern
 and Southern, and their struggles for the ascendency reduced the
@@ -102,27 +102,27 @@ hundred and twenty years thence, the shrine suffered no misfortune.
 
 The eldest son of Kakunyo was called Zonkaku, and being a great scholar
 wrote many works, of which the most important is "The Roku-yō-shō" <span
-id="fr_27"></span>[27](#fn_27) in ten volumes, which is a commentary on
+id="fr_27"></span>[27](#fn_27.md) in ten volumes, which is a commentary on
 Shinran Shōnin's "Kyō-gyō-shin-shō." Among other writings of his, we may
 mention the following: "The Sen-jyaku-shū-chū-ge-shō" <span
-id="fr_28"></span>[28](#fn_28) in 5 vols.; "The Haja-kenshō-shō" <span
-id="fr_29"></span>[29](#fn_29) in three vols.; "The
+id="fr_28"></span>[28](#fn_28.md) in 5 vols.; "The Haja-kenshō-shō" <span
+id="fr_29"></span>[29](#fn_29.md) in three vols.; "The
 
 <span id="page_32">p. 32</span>
 
 <span class="contnote">\[paragraph continues\]</span>
-Jōdo-shin-yō-shō" <span id="fr_30"></span>[30](#fn_30) in two vols.;
-"The Sho-jin-hon-gwai-shū" <span id="fr_31"></span>[31](#fn_31) in two
-vols.; "The Kecchi-shō," <span id="fr_32"></span>[32](#fn_32) 2 vols.;
-"The Hokke-mondō," <span id="fr_33"></span>[33](#fn_33) 2 vols.; "The
-Busen-shō," <span id="fr_34"></span>[34](#fn_34) 2 vols.; "The
-Hō-on-ki," <span id="fr_35"></span>[35](#fn_35) 2 vols.; "The Kemmyō-shō
-" <span id="fr_36"></span>[36](#fn_36); "The Jimyō-shō" <span
-id="fr_37"></span>[37](#fn_37); "The Zonkaku-hō-gō <span
-id="fr_38"></span>[38](#fn_38); "The Nyonin-wōjō-kikigaki" <span
-id="fr_39"></span>[39](#fn_39); "The Jōdo-kemmon-shū" <span
-id="fr_40"></span>[40](#fn_40); "The Tandoku-mon" <span
-id="fr_41"></span>[41](#fn_41);
+Jōdo-shin-yō-shō" <span id="fr_30"></span>[30](#fn_30.md) in two vols.;
+"The Sho-jin-hon-gwai-shū" <span id="fr_31"></span>[31](#fn_31.md) in two
+vols.; "The Kecchi-shō," <span id="fr_32"></span>[32](#fn_32.md) 2 vols.;
+"The Hokke-mondō," <span id="fr_33"></span>[33](#fn_33.md) 2 vols.; "The
+Busen-shō," <span id="fr_34"></span>[34](#fn_34.md) 2 vols.; "The
+Hō-on-ki," <span id="fr_35"></span>[35](#fn_35.md) 2 vols.; "The Kemmyō-shō
+" <span id="fr_36"></span>[36](#fn_36.md); "The Jimyō-shō" <span
+id="fr_37"></span>[37](#fn_37.md); "The Zonkaku-hō-gō <span
+id="fr_38"></span>[38](#fn_38.md); "The Nyonin-wōjō-kikigaki" <span
+id="fr_39"></span>[39](#fn_39.md); "The Jōdo-kemmon-shū" <span
+id="fr_40"></span>[40](#fn_40.md); "The Tandoku-mon" <span
+id="fr_41"></span>[41](#fn_41.md);
 
 <span id="page_33">p. 33</span>
 
@@ -130,7 +130,7 @@ etc. This learned author, however, did not succeed Kakunyo as Jyūshoku
 (or "residing priest") of the Hongwanji. Zennyo, Shakunyo, Gyōnyo, and
 Zonnyo are the names appearing in the patriarchal line after Kakunyo;
 and it was not until after these "residing priests" that the eighth
-[patriarch](errata.htm#5), Rennyo Shōnin, who was the eldest son of
+[patriarch](errata.htm#5.md), Rennyo Shōnin, who was the eldest son of
 Zennyo, came on the stage to give a new impetus to the development of
 the True Sect in Japan. Before the appearance of this remarkable
 personage, the Hongwanji was far from being an influential Buddhist
@@ -148,7 +148,7 @@ early life to be a remarkable genius.
 1420, his mother mysteriously disappeared, leaving an advice for her now
 six years old boy, saying, "My dear child, make it your life's duty to
 revive the True Sect of Pure Land." Nobody knows where she retired, but
-her instruction left such a deep [impression](errata.htm#6) upon the
+her instruction left such a deep [impression](errata.htm#6.md) upon the
 boyish mind of Hotei-maro that he well remembered it later; and when he
 was fifteen years old he firmly made up his mind to carry out actually
 what his mother commanded him before.
@@ -171,7 +171,7 @@ and giving a new life to the decadent faith of his followers.
 In 1457, his father Zonnyo died, and as Rennyo Shōnin he now succeeded
 him at the age of forty-three and became the Jūshoku ("residing priest")
 of the Hongwanji. In June, 1460, he wrote a book entitled the
-"Shō-shin-getaii" <span id="fr_42"></span>[42](#fn_42) at the request of
+"Shō-shin-getaii" <span id="fr_42"></span>[42](#fn_42.md) at the request of
 his disciple, Dōsai. It was about this time that lie began writing the
 "Letters" (called in Japanese *Ofumi*) explaining the doctrine and faith
 of the True Sect in most plain language in order to make even the
@@ -276,7 +276,7 @@ sacrifice their lives whenever necessary.
 
 In 1580, Kennyo Shōnin, in accordance with the Imperial command,
 contracted terms of peace with Oda Nobunaga and removed to Sagi-no-mori
-in the Province of Kii. In 1582, however, the [unfaithful](errata.htm#7)
+in the Province of Kii. In 1582, however, the [unfaithful](errata.htm#7.md)
 General planned an unexpected assault upon Sagi-no-mori with a large
 army. To capture Kennyo as prisoner of war, his soldiers were about
 ready to force the gate of the Hongwanji on June 3, when the news of the
@@ -299,98 +299,98 @@ son of Kennyo.
 
 ### Footnotes
 
-<span id="fn_17"></span>[29:17](ptpl04.htm#fr_17) "The Life of Shinran,
+<span id="fn_17"></span>[29:17](ptpl04.htm#fr_17.md) "The Life of Shinran,
 the Holy Sage of the Hongwanji with Illustrations."
 
-<span id="fn_18"></span>[29:18](ptpl04.htm#fr_18) A supplementary work
+<span id="fn_18"></span>[29:18](ptpl04.htm#fr_18.md) A supplementary work
 to the "Life of the Old Sage." The Old Sage is the master of Shinran
 Shōnin. 9 fasciculi.
 
-<span id="fn_19"></span>[30:19](ptpl04.htm#fr_19) "Sayings and doings of
+<span id="fn_19"></span>[30:19](ptpl04.htm#fr_19.md) "Sayings and doings of
 Shinran, which were orally transmitted" by Nyoshin to Kakunyo. 3
 fasciculi.
 
-<span id="fn_20"></span>[30:20](ptpl04.htm#fr_20) "Refutation of
+<span id="fn_20"></span>[30:20](ptpl04.htm#fr_20.md) "Refutation of
 (twenty-one) false views (against the teaching of Shinran)." 2
 fasciculi.
 
-<span id="fn_21"></span>[30:21](ptpl04.htm#fr_21) A work treating of
+<span id="fn_21"></span>[30:21](ptpl04.htm#fr_21.md) A work treating of
 Nembutsu (the reciting of Amida's name), of which the first four
 chapters record some sayings and doings of Shinran, while the last one
 chapter is devoted to the statement of the author's own views on the
 holding fast (*shūdzi*) to the doctrine of Nembutsu.
 
-<span id="fn_22"></span>[30:22](ptpl04.htm#fr_22) A collection of such
+<span id="fn_22"></span>[30:22](ptpl04.htm#fr_22.md) A collection of such
 passages as relating to the original prayers (*hongwan*) of Amida.
 
-<span id="fn_23"></span>[30:23](ptpl04.htm#fr_23) A book explaining the
+<span id="fn_23"></span>[30:23](ptpl04.htm#fr_23.md) A book explaining the
 five essential ones out of the fortyeight prayers of Amida.
 
-<span id="fn_24"></span>[30:24](ptpl04.htm#fr_24) A work explaining the
+<span id="fn_24"></span>[30:24](ptpl04.htm#fr_24.md) A work explaining the
 significance of the eighteenth prayer of Amida.
 
-<span id="fn_25"></span>[30:25](ptpl04.htm#fr_25) A work on the
+<span id="fn_25"></span>[30:25](ptpl04.htm#fr_25.md) A work on the
 fundamental meaning of the appearance of Shākyamuni on earth.
 
-<span id="fn_26"></span>[30:26](ptpl04.htm#fr_26) "A manual for the
+<span id="fn_26"></span>[30:26](ptpl04.htm#fr_26.md) "A manual for the
 memorial service of the Founder."
 
-<span id="fn_27"></span>[31:27](ptpl04.htm#fr_27) A commentary work on
+<span id="fn_27"></span>[31:27](ptpl04.htm#fr_27.md) A commentary work on
 the *Kyō-gyō-shin-shō*. 10 fasciculi.
 
-<span id="fn_28"></span>[31:28](ptpl04.htm#fr_28) "A commentary work on
+<span id="fn_28"></span>[31:28](ptpl04.htm#fr_28.md) "A commentary work on
 Hōnen's *Sen-jyaku-shū*." 5 fasciculi.
 
-<span id="fn_29"></span>[31:29](ptpl04.htm#fr_29) A work refuting
+<span id="fn_29"></span>[31:29](ptpl04.htm#fr_29.md) A work refuting
 seventeen erroneous views as regards the teaching of the True Sect, and
 revealing its truth. 3 fasciculi.
 
-<span id="fn_30"></span>[32:30](ptpl04.htm#fr_30) "A treatise on the
+<span id="fn_30"></span>[32:30](ptpl04.htm#fr_30.md) "A treatise on the
 essential truths of the doctrine of Pure Land." A revised work of the
 *Jōdo-monrui-shū*, given by the author to his disciple, Ryōgen. 2
 fasciculi.
 
-<span id="fn_31"></span>[32:31](ptpl04.htm#fr_31) "A treatise on the
+<span id="fn_31"></span>[32:31](ptpl04.htm#fr_31.md) "A treatise on the
 fundamental intention of all the gods." A revised work by Zonkaku of a
 book bearing the same title. 2 fasciculi.
 
-<span id="fn_32"></span>[32:32](ptpl04.htm#fr_32) A book recording the
+<span id="fn_32"></span>[32:32](ptpl04.htm#fr_32.md) A book recording the
 successful debate with the followers of the Nichiren Sect in the first
 year of Rekiō. 2 fasciculi.
 
-<span id="fn_33"></span>[32:33](ptpl04.htm#fr_33) "Questions and answers
+<span id="fn_33"></span>[32:33](ptpl04.htm#fr_33.md) "Questions and answers
 in the controversy with the Nichiren Sect." 2 fasciculi.
 
-<span id="fn_34"></span>[32:34](ptpl04.htm#fr_34) A work in which the
+<span id="fn_34"></span>[32:34](ptpl04.htm#fr_34.md) A work in which the
 teaching of Pure Land is compared to travelling on water by boat and
 that of the "Path for the wise" to walking on foot, showing how easier
 it is to travel by the first method. 2 fasciculi.
 
-<span id="fn_35"></span>[32:35](ptpl04.htm#fr_35) A book explaining how
+<span id="fn_35"></span>[32:35](ptpl04.htm#fr_35.md) A book explaining how
 deeply grateful we should feel towards our parents and teachers. 2
 fasciculi.
 
-<span id="fn_36"></span>[32:36](ptpl04.htm#fr_36) A book revealing the
+<span id="fn_36"></span>[32:36](ptpl04.htm#fr_36.md) A book revealing the
 merit contained in the name of Amide.
 
-<span id="fn_37"></span>[32:37](ptpl04.htm#fr_37) A work urging to hold
+<span id="fn_37"></span>[32:37](ptpl04.htm#fr_37.md) A work urging to hold
 the name of Amida.
 
-<span id="fn_38"></span>[32:38](ptpl04.htm#fr_38) "A religious discourse
+<span id="fn_38"></span>[32:38](ptpl04.htm#fr_38.md) "A religious discourse
 by Zonkaku," written especially for Kaiyen.
 
-<span id="fn_39"></span>[32:39](ptpl04.htm#fr_39) A book treating of
+<span id="fn_39"></span>[32:39](ptpl04.htm#fr_39.md) A book treating of
 women's salvation.
 
-<span id="fn_40"></span>[32:40](ptpl04.htm#fr_40) A book describing the
+<span id="fn_40"></span>[32:40](ptpl04.htm#fr_40.md) A book describing the
 loathsomeness of the defiled world and the joys of Pure Land.
 
-<span id="fn_41"></span>[32:41](ptpl04.htm#fr_41) A tract praising the
+<span id="fn_41"></span>[32:41](ptpl04.htm#fr_41.md) A tract praising the
 virtues of Shinran Shōnin.
 
-<span id="fn_42"></span>[35:42](ptpl04.htm#fr_42) A short commentary
+<span id="fn_42"></span>[35:42](ptpl04.htm#fr_42.md) A short commentary
 work on Shinran's *Shō-shin-ge*.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Eastern Hongwanji](ptpl05)
+[Next: III. The Eastern Hongwanji](ptpl05.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil14)  [Next](egil16) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil14)  [Next](egil16.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ when some other fellow-countrymen might rise and make me his thrall.'
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XV. King Harold and Harek.](egil16)
+[Next: CHAPTER XV. King Harold and Harek.](egil16.md)

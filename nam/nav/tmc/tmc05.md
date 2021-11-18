@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](tmc04)  [Next](tmc06) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](tmc04)  [Next](tmc06.md) 
 
 ------------------------------------------------------------------------
 
@@ -187,4 +187,4 @@ its extremity. (Paragraph 54.)
 
 ------------------------------------------------------------------------
 
-[Next: Original Texts and Translations of Songs.](tmc06)
+[Next: Original Texts and Translations of Songs.](tmc06.md)

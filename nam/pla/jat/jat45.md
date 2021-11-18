@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat44)  [Next](jat46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat44)  [Next](jat46.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ anything. He had just been telling lies.
 
 ------------------------------------------------------------------------
 
-[Next: 44. Coyote and the Mexicans](jat46)
+[Next: 44. Coyote and the Mexicans](jat46.md)

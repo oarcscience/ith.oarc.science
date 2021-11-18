@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic28)  [Next](tic30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic28)  [Next](tic30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ faculties not identical*.
 journey that nothing remains to be added. That would be a great mistake:
 God's immensity has no limits, neither have His works; therefore, who
 can recount His mercies and His greatness? <span
-id="fr_391"></span>[1](#fn_391) It is impossible, so do not be amazed at
+id="fr_391"></span>[1](#fn_391.md) It is impossible, so do not be amazed at
 what I write about them which is but a cipher of what remains untold
 concerning God. He has shown great mercy in communicating these
 mysteries
@@ -90,10 +90,10 @@ be termed a second heaven.
 darkness. As we are accustomed to believe there is no light but that
 which is exterior, we imagine that the soul is wrapt in obscurity. This
 is indeed the case with a soul out of the state of grace, <span
-id="fr_392"></span>[2](#fn_392) not, however, through any defer in the
+id="fr_392"></span>[2](#fn_392.md) not, however, through any defer in the
 Sun of Justice which remains within it and gives it being, but the soul
 itself is incapable of receiving the light, as I think I said in
-speaking of the first Mansion. <span id="fr_393"></span>[3](#fn_393) A
+speaking of the first Mansion. <span id="fr_393"></span>[3](#fn_393.md) A
 certain person was given to understand that such unfortunate souls are,
 as it were, imprisoned in a gloomy dungeon, chained hand and foot and
 unable to perform any meritorious action: they are also both blind and
@@ -135,19 +135,19 @@ whether it is in the one way or the other.
 
 8\. In the former favours our Lord unites the spirit to Himself and
 makes it both blind and dumb like St. Paul after his conversion, <span
-id="fr_394"></span>[4](#fn_394) thus preventing its knowing whence or
+id="fr_394"></span>[4](#fn_394.md) thus preventing its knowing whence or
 how it enjoys this grace, for the supreme delight of the spirit is to
 realize its nearness to God. During the actual moment of divine union
 the soul feels nothing, all its powers being entirely lost. But now He
 acts differently: our pitiful God removes the scales from its eyes <span
-id="fr_395"></span>[5](#fn_395) letting it see and understand somewhat
+id="fr_395"></span>[5](#fn_395.md) letting it see and understand somewhat
 of the grace received in a strange and wonderful manner in this mansion
 by means of intellectual vision.
 
 9\. By some mysterious manifestation of the truth, the three Persons of
 the most Blessed Trinity reveal themselves, preceded by an illumination
 which shines on the spirit like a most dazzling cloud of light. <span
-id="fr_396"></span>[6](#fn_396) The three Persons are distinct from one
+id="fr_396"></span>[6](#fn_396.md) The three Persons are distinct from one
 
 <span id="page_266">p. 266</span>
 
@@ -160,7 +160,7 @@ soul, this being no imaginary vision. All the Three Persons here
 communicate Themselves to the soul, speak to it and make it understand
 the words of our Lord in the Gospel that He and the Father and the Holy
 Ghost will come and make their abode with the soul which loves Him and
-keeps His commandments. <span id="fr_397"></span>[7](#fn_397)
+keeps His commandments. <span id="fr_397"></span>[7](#fn_397.md)
 
 10\. O my God, how different from merely hearing and believing these
 words is it to realize their truth in this way! Day by day a growing
@@ -192,10 +192,10 @@ a light, yet whenever she reflects on it she feels the companionship of
 the Blessed Trinity. This is as if, when we were with other people in a
 very well lighted room, some one were to darken it by closing the
 shutters; we should feel certain that the others were still there,
-though we were unable to see them. <span id="fr_398"></span>[8](#fn_398)
+though we were unable to see them. <span id="fr_398"></span>[8](#fn_398.md)
 
 13\. You may ask: 'Could she not bring back the light and see them
-again?' <span id="fr_399"></span>[9](#fn_399) This is not in her
+again?' <span id="fr_399"></span>[9](#fn_399.md) This is not in her
 
 <span id="page_268">p. 268</span>
 
@@ -211,7 +211,7 @@ whatever were her trials or labours, the centre of her soul seemed never
 moved from its resting-place. Thus in a manner her soul appeared
 divided: a short time after God had done her this favour, while
 undergoing great sufferings, she complained of her soul as Martha did of
-Mary, <span id="fr_400"></span>[10](#fn_400) reproaching it with
+Mary, <span id="fr_400"></span>[10](#fn_400.md) reproaching it with
 enjoying solitary peace while leaving her so full of troubles and
 occupations that she could not keep it company.
 
@@ -219,7 +219,7 @@ occupations that she could not keep it company.
 known to be undivided, it is fact and no fancy and often happens.
 Interior effects show for certain that there is a positive difference
 between the soul and the spirit, although they are one with each
-other. <span id="fr_401"></span>[11](#fn_401) There is an extremely
+other. <span id="fr_401"></span>[11](#fn_401.md) There is an extremely
 
 <span id="page_269">p. 269</span>
 
@@ -236,25 +236,25 @@ by God's mercy we enter heaven we shall understand these secrets.
 
 ### Footnotes
 
-<span id="fn_391"></span>[261:1](tic29.htm#fr_391) Ps. cxliv. 3:
+<span id="fn_391"></span>[261:1](tic29.htm#fr_391.md) Ps. cxliv. 3:
 'Magnitudinis ejus non est finis.'
 
-<span id="fn_392"></span>[263:2](tic29.htm#fr_392) See the Saint's
+<span id="fn_392"></span>[263:2](tic29.htm#fr_392.md) See the Saint's
 description of a soul in the state of sin, *Rel*, iii. 13. (towards the
 end).
 
-<span id="fn_393"></span>[263:3](tic29.htm#fr_393) *Supra*, M. i, ch.
+<span id="fn_393"></span>[263:3](tic29.htm#fr_393.md) *Supra*, M. i, ch.
 ii. 1.
 
-<span id="fn_394"></span>[265:4](tic29.htm#fr_394) Acts ix. 8: 'Surrexit
+<span id="fn_394"></span>[265:4](tic29.htm#fr_394.md) Acts ix. 8: 'Surrexit
 autem Saulus de terra, apertisque oculis nihil videbat.' There is,
 however, nothing to imply that he was dumb as well as blind.
 
-<span id="fn_395"></span>[265:5](tic29.htm#fr_395) Acts ix. 18: 'Et
+<span id="fn_395"></span>[265:5](tic29.htm#fr_395.md) Acts ix. 18: 'Et
 confestim ceciderunt ab oculis ejus tamquam squamæ, et visum recepit.'
 *Way of Perf.*. ch. xxviii. 11.
 
-<span id="fn_396"></span>[265:6](tic29.htm#fr_396) *Rel*. iii. 6; v.
+<span id="fn_396"></span>[265:6](tic29.htm#fr_396.md) *Rel*. iii. 6; v.
 6-8; viii. 20, 21; ix. 12, 17, 19. Deposition by Fr. Giles Gonzalez,
 S.J., Provincial of Old Castile, afterwards Assistant--General in Rome:
 'While the holy Mother lived at the convent of the Incarnation of Avila
@@ -272,15 +272,15 @@ description of the holy Mother, who, while they were being done, effaced
 with her own hand those portions which the painter failed to design
 conformably to the vision she had had.' (Fuente, *l.c.* p. 297.)
 
-<span id="fn_397"></span>[266:7](tic29.htm#fr_397) St. John xiv. 23: 'Si
+<span id="fn_397"></span>[266:7](tic29.htm#fr_397.md) St. John xiv. 23: 'Si
 quis diligit me, sermonem meum servabit, et Pater meus diliget eum, et
 ad eum veniemus, et mansionem apud eum faciemus.'
 
-<span id="fn_398"></span>[267:8](tic29.htm#fr_398) One of the Saint's
+<span id="fn_398"></span>[267:8](tic29.htm#fr_398.md) One of the Saint's
 favourite comparisons. See *Life*, ch. xxvii. 7. *Castle*, M. vi. ch.
 viii. 3. *Rel*. vii. 26.
 
-<span id="fn_399"></span>[267:9](tic29.htm#fr_399) 'Though the soul be
+<span id="fn_399"></span>[267:9](tic29.htm#fr_399.md) 'Though the soul be
 always in the high estate of marriage since God has placed it there,
 nevertheless, actual union in all its powers is not continuous, though
 the substantial union is. In this substantial union the powers of the
@@ -293,11 +293,11 @@ John of the Cross, *Spiritual Canticle*, stanza xxvi. 9. On the words:
 'In the inner cellar of my Beloved have I drunk, and when I went
 forth').
 
-<span id="fn_400"></span>[268:10](tic29.htm#fr_400) St. Luke x. 40.
+<span id="fn_400"></span>[268:10](tic29.htm#fr_400.md) St. Luke x. 40.
 *Excl*. v. 2, 3. *Way of Perf.* ch. xv. 4; xxxi. 4. *Rel*. viii. 6.
 *Concept*. ch. vii. 4.
 
-<span id="fn_401"></span>[268:11](tic29.htm#fr_401) *Life*, ch. xviii.
+<span id="fn_401"></span>[268:11](tic29.htm#fr_401.md) *Life*, ch. xviii.
 4. The distinction between soul and spirit, to be found in the Epistle
 to the Hebrews, iv. 12, according to Cornelius a Lapide (*ad loc*.)
 consists in this, that the term *soul* comprises the faculties, senses,
@@ -311,4 +311,4 @@ quite understand this subtle distinction.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Spiritual Marriage](tic30)
+[Next: Chapter II. Spiritual Marriage](tic30.md)

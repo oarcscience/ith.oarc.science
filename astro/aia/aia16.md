@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia15)  [Next](aia17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia15)  [Next](aia17.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,14 +30,14 @@ black earthly brown; one of rough skin, thick and very hairy on the
 body, small eyes; many times his complexion is between black and yellow,
 or as if he had an affection of the black or yellow jaundice; he is
 lean, crooked, or beetle-browed; a thin weak beard; great lips, like
-negroes; he looks to the ground, <span id="fr_38"></span>[1](#fn_38) is
+negroes; he looks to the ground, <span id="fr_38"></span>[1](#fn_38.md) is
 slow in motion, either is bow-legged or hits one leg or knee against
 another; most part a disagreeable breath, seldom free from a cough; he
 is crafty for his own interest, seducing people to his opinion; full of
 revenge and malice, little caring for religion; is a foul, nasty,
 slovenly knave, or a harlot, a great eater and glutton, a brawling
 fellow; has broad, great shoulders; is covetous, and yet seldom rich,
-&c. <span id="fr_39"></span>[2](#fn_39)
+&c. <span id="fr_39"></span>[2](#fn_39.md)
 
 *Jupiter*.--We must describe ♃ and a jovialist to be one of a comely
 stature, full-faced, full-eyed, a sanguine complexion, or mixture of
@@ -92,7 +92,7 @@ part according to
 the sign as before repeated); in some it is coal black, in others a
 light brown; a soft smooth hair; and the body extremely well shaped,
 even rather inclining to shortness than tallness. <span
-id="fr_40"></span>[1](#fn_40)
+id="fr_40"></span>[1](#fn_40.md)
 
 *Mercury*.--We describe Mercury to be a man neither black nor white, but
 between both, of a sad brown or dark yellow colour; long visaged, high
@@ -108,24 +108,24 @@ red, but paleness overcomes: if she be in fiery signs, the man or woman
 speaks hastily; in watery signs, he or she has some freckles in his or
 her face, or is blub-cheeked, not a handsome body, but a muddling
 creature; and unless very well dignified, she ever signifies an ordinary
-vulgar person. <span id="fr_41"></span>[2](#fn_41)
+vulgar person. <span id="fr_41"></span>[2](#fn_41.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_38"></span>[54:1](aia16.htm#fr_38) This downward look,
+<span id="fn_38"></span>[54:1](aia16.htm#fr_38.md) This downward look,
 keeping the eyes on the earth, is one of the most remarkable
 circumstances in the character of the persons described by Saturn, or
 who have him in the ascendant at birth.
 
-<span id="fn_39"></span>[54:2](aia16.htm#fr_39) These evil qualities
+<span id="fn_39"></span>[54:2](aia16.htm#fr_39.md) These evil qualities
 when Saturn is weak and afflicted.
 
-<span id="fn_40"></span>[56:1](aia16.htm#fr_40) We have always observed
+<span id="fn_40"></span>[56:1](aia16.htm#fr_40.md) We have always observed
 that Venus causes *dimples* and a smiling face.
 
-<span id="fn_41"></span>[56:2](aia16.htm#fr_41) We have given these
+<span id="fn_41"></span>[56:2](aia16.htm#fr_41.md) We have given these
 descriptions in addition to the former, as it is most material for the
 student to be able to describe the person inquired of well; as, by that
 means, the character being known, his conduct may be more accurately
@@ -133,4 +133,4 @@ foreseen.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. The Colours of the Planets and Signs](aia17)
+[Next: Chapter XIV. The Colours of the Planets and Signs](aia17.md)

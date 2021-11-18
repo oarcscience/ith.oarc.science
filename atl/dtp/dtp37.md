@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp36)  [Next](dtp38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp36)  [Next](dtp38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -64,7 +64,7 @@ eating, or of persons engrossed in the selfishness of common life. You
 may imagine that these students could seclude themselves from
 disturbance; men who wish to study do so seclude themselves, even in
 cities. Not so the occultist. For, from the social order and communal
-life of the world emanates an aura, or [atmosphere](errata.htm#16) of
+life of the world emanates an aura, or [atmosphere](errata.htm#16.md) of
 its own disturbed muddiness, an aura fatal to the absolute peace
 required by the theosopher. I am impelled to remark at this point that
 what goes under the name of "theosophy" in the world to-day is an
@@ -80,7 +80,7 @@ answer verbatim:
 throughout the western hemisphere; there is one Sach near here. No one
 not privileged could hope to learn where it is, or who are its members.
 Yet as I have led you, Mr. Pierson, to ask the question you have; as I
-have done this with consent of the [brethren](errata.htm#17), to every
+have done this with consent of the [brethren](errata.htm#17.md), to every
 one of whom you, who, however, know none of them, are yourself well
 known, to what do you ascribe my action?"
 
@@ -144,7 +144,7 @@ insisted on my tying my horse and coming in to have a social glass with
 him. But the idea of acceptance jarred, and I felt that it disturbed the
 calm reflections which had filled my thoughts on parting with the Tchin.
 Quong never drank liquor, smoked, or was aught but
-[abstemious](errata.htm#18) in his habits. But I entered, resolved not
+[abstemious](errata.htm#18.md) in his habits. But I entered, resolved not
 to take any form of spirituous liquor. The scene presented was familiar:
 men stupid, foolish, or excited from their potations, and public women
 mingling with the crowd in the place. Previoussly to the week just
@@ -353,7 +353,7 @@ the aeons of dead time, a realm that has existed from the time of the
 creation, the spiritual, far-away land of the soul, where the vagaries
 of dreamland are supplanted by verities stranger yet. I was about to
 enter on the path of Kabala, wherein travel those whose researches into
-the occult [penetralia](errata.htm#19) come from an antiquity of hoary
+the occult [penetralia](errata.htm#19.md) come from an antiquity of hoary
 seers of ages past. Would I prove worthy? Then the Tchin broke in upon
 my reverie with the bidding,
 
@@ -567,7 +567,7 @@ gives me rest; ill, it restores health."
 
 He broke the circle with his foot, and coming away, swung back the
 door-stone again and stepped within the tunnel disclosed behind
-it. <span id="fr_19"></span>[1](#fn_19) I followed, the door was
+it. <span id="fr_19"></span>[1](#fn_19.md) I followed, the door was
 replaced, and I
 
 <span id="page_273">p. 273</span>
@@ -677,10 +677,10 @@ must have been hours.
 
 ### Footnotes
 
-<span id="fn_19"></span>[272:1](dtp37.htm#fr_19) NOTE.--This was in one
+<span id="fn_19"></span>[272:1](dtp37.htm#fr_19.md) NOTE.--This was in one
 of the walls of one of the vast canyons which seam the sides of Mount
 Shasta, in Northern California.--Author.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Take Therefore No Thought For the Morrow](dtp38)
+[Next: Chapter III: Take Therefore No Thought For the Morrow](dtp38.md)

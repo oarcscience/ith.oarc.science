@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt10)  [Next](trt12) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt10)  [Next](trt12.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ almost like a dream, though it is a beautiful dream.
 ------------------------------------------------------------------------
 
 [Next: I: How The King Went on Pilgrimage, and his Squire was Slain in a
-Dream](trt12)
+Dream](trt12.md)

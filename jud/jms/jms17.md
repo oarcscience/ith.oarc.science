@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms16)  [Next](jms18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms16)  [Next](jms18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -45,7 +45,7 @@ instruction in two parts!'" which was the genesis of his *Semag*. Two
 centuries later, a certain Gershon b. Hiskiya, who was in prison in
 France, was led by a dream to write a book on medicine. Two centuries
 later again a dream prompted the composition of Menasseh b. Israel's
-*Nishmat Ḥayim*.[1](jms36.htm#an_15_1)
+*Nishmat Ḥayim*.[1](jms36.htm#an_15_1.md)
 
 Even legal and ritual problems of some moment were decided at the
 instance of "the master of dreams." The very day on which the Tosafist,
@@ -78,7 +78,7 @@ Maimonides’ *Guide* for quite a few puzzled students, and Isaac b. Moses
 of Vienna, who was very much concerned about the correct spelling of the
 name "Akiba" had that too straightened out for him by the obliging
 "master of dreams." Heaven was more co-operative in those days than it
-is today.[2](jms36.htm#an_15_2)
+is today.[2](jms36.htm#an_15_2.md)
 
 The dream thus constituted a very real factor in medieval life—even the
 line that separated physical reality from the more tenuous spirit world
@@ -92,7 +92,7 @@ uttered during waking hours, for the latter could be voided before a
 court of three men, while the former required a full congregation of
 ten, the idea being that since the deity had somehow been involved in
 the dream action, only a *minyan*, over which the *Shechinah* presided,
-had the power to release the dreamer.[3](jms36.htm#an_15_3)
+had the power to release the dreamer.[3](jms36.htm#an_15_3.md)
 
 But the greatest force that the dream exerted was as a prognostication
 
@@ -153,7 +153,7 @@ dreams bear a close relation to one's physical state. Menasseh b. Israel
 wrote, "When one is overheated at night he may dream that he is warming
 himself before a fire, or enjoying a hot bath; if he is cold, he dreams
 of ice and sleet and snow." Such dreams are unworthy of attention, they
-"speak folly" and are "vain and idle conceits."[5](jms36.htm#an_15_5)
+"speak folly" and are "vain and idle conceits."[5](jms36.htm#an_15_5.md)
 
 Another common source of dreams are man's thoughts during the day. "When
 a man concentrates on certain ideas for a long time, the power of
@@ -175,7 +175,7 @@ because they are not graced with intelligence and their apperceptive
 powers are undeveloped. Therefore what the imagination makes of sense
 perceptions during waking hours is clearly visioned while asleep, for it
 conceives of things that are true and that come to
-pass."[6](jms36.htm#an_15_6) The psychology of dreams as expounded by
+pass."[6](jms36.htm#an_15_6.md) The psychology of dreams as expounded by
 Ẓiyuni has a modern ring; it was not his own, however, for he confessed
 that he had cribbed it from non-Jewish "theologians." Apparently the
 unexpressed theory behind this dissertation is one we have met before,
@@ -211,7 +211,7 @@ These are a few of the more notable visitations. Visions of the lot that
 deceased ancestors are enjoying, whether in Paradise or *Gehinnom*,
 disclosures of hidden treasure, exhortations to repay debts contracted
 by the visitant, such is the burden of most dreams about the
-dead.[7](jms36.htm#an_15_7)
+dead.[7](jms36.htm#an_15_7.md)
 
 Those dreams, then, that derive from natural causes, physical or mental,
 are not the stuff out of which the shape of time to come can be
@@ -238,7 +238,7 @@ himself had had such dreams foretelling the death of acquaintances,
 which came true. The imagery and symbolism of these dreams is usually
 beyond the comprehension of the ordinary man. The second degree is the
 "prophetic," in which direct communion with God is experienced only by
-rare, blessed spirits.[8](jms36.htm#an_15_8)
+rare, blessed spirits.[8](jms36.htm#an_15_8.md)
 
 Most of the medieval writers who discussed the subject, however,
 inclined toward the view that God-sent visions are transmitted through
@@ -250,7 +250,7 @@ does nothing more than direct the drama of man's waking thoughts on the
 stage of his dream, and "since not all thoughts are true, not all dreams
 are true." But when the angel introduces his own plot onto the stage,
 the vision assuredly has some peculiar and significant
-meaning.[9](jms36.htm#an_15_9)
+meaning.[9](jms36.htm#an_15_9.md)
 
 There is still a further possibility—the dream may be the work of a
 demon. As *Sefer Ḥasidim* says, "When a man suddenly beholds in his
@@ -260,7 +260,7 @@ spirit. . . . The demon does not actually penetrate his thoughts but
 whispers into the depths of his aural cavity," The demons seem to be
 responsible mainly for dreams of passion, though there are cases in
 which it is impossible to determine whether an evil spirit or an angel
-is to be held accountable.[10](jms36.htm#an_15_10)
+is to be held accountable.[10](jms36.htm#an_15_10.md)
 
 #### "DREAMS FOLLOW THEIR INTERPRETATION"
 
@@ -291,7 +291,7 @@ who could contain their curiosity, however, were few. The *Gemara* tells
 a tale of one man who got several different interpretations of his
 dream—and all came true. But *Maḥzor Vitry* specified that the first
 interpretation is binding on the dream, and this became the generally
-accepted rule.[11](jms36.htm#an_15_11)
+accepted rule.[11](jms36.htm#an_15_11.md)
 
 The author of a widely read dream book, Solomon Almoli, refused to
 accept the Talmudic view, for, he argued, it would destroy the whole
@@ -338,7 +338,7 @@ the dream," it will come true, it was admitted, with the reservation,
 however, that if a Jew's dream points to some evil act the interpreter
 should not disclose it, for "one who tells a Jew that his dream
 signifies that he will sin is to be regarded as causing him to
-sin."[12](jms36.htm#an_15_12)
+sin."[12](jms36.htm#an_15_12.md)
 
 The general public was acquainted with the professional methods through
 a host of dream books, many of them attributed to Joseph or Daniel.
@@ -368,7 +368,7 @@ compilation. We have no such extended work from Northern Europe, but
 there can be no doubt that German Jews were acquainted with most of the
 subject matter which Almoli presented. His book became very popular and
 in 1694 was translated into Yiddish, in which form it still has a wide
-circulation among the Jewish masses.[13](jms36.htm#an_15_13)
+circulation among the Jewish masses.[13](jms36.htm#an_15_13.md)
 
 Since this work contains the only systematic organization of the
 material, it may not be amiss to summarize it here. It is divided into
@@ -397,7 +397,7 @@ dishes, clothing. Part III, consisting of three "gates," discusses the
 "releasing" one from the effects of a dream. Almoli covered the field
 thoroughly; his erudition explains his scorn of those who would rely on
 the stars, or on a hastily digested smattering of data to qualify as
-experts.[14](jms36.htm#an_15_14)
+experts.[14](jms36.htm#an_15_14.md)
 
 <span id="page_239">p. 239</span>
 
@@ -419,10 +419,10 @@ analogies, or by antitheses. Very often the association is obscure,
 though it no doubt derives from one of these methods or from an ancient,
 well-authenticated tradition. It is interesting to notice how frequently
 the interpretations of dreams in Christian sources correspond with the
-Jewish.[15](jms36.htm#an_15_15)
+Jewish.[15](jms36.htm#an_15_15.md)
 
 The following excerpts from thirteenth-century Jewish
-works[16](jms36.htm#an_15_16) provide some idea of the manner of
+works[16](jms36.htm#an_15_16.md) provide some idea of the manner of
 interpretation. From *Eẓ Ḥayim:* "All liquids are of good omen, except
 wine, if the dreamer is an uncultured person; all fruits are auspicious,
 except the date, and all vegetables, except turnip-heads, but the root
@@ -451,7 +451,7 @@ weep; an angel in the moon means war; a snake-bite indicates prosperity;
 and so on.
 
 It will be more instructive, however, to examine the principles by which
-the interpreter made his decisions.[17](jms36.htm#an_15_17) It was first
+the interpreter made his decisions.[17](jms36.htm#an_15_17.md) It was first
 necessary to evaluate the credibility of the dream, which required a
 study of the stars, of the dreamer's character, of the foods he had
 consumed before retiring, both in their planetary relationships and
@@ -519,7 +519,7 @@ the Lord of Hosts, and He Himself will provide all your needs." As we
 have seen, Jacob Halevi solved many ritual and legal problems in this
 way, and the fourteenth-century R. Jacob b. Moses Mölln (Maharil), or
 his father, resorted to the same device to resolve at least one ritual
-question.[18](jms36.htm#an_15_18)
+question.[18](jms36.htm#an_15_18.md)
 
 In consonance with the prevailing conception of the origin of dreams,
 two agencies were mainly invoked to serve divinatory purposes: the dead,
@@ -534,7 +534,7 @@ a picture of the next
 
 world. Such practices were common among Christians as well as among
 Jews, as this verse from Hans Vintler's *Blumen der Tugend* (1411)
-discloses:[19](jms36.htm#an_15_19)
+discloses:[19](jms36.htm#an_15_19.md)
 
 <div style="margin-left: 32px">
 
@@ -552,7 +552,7 @@ young student who adopted this procedure to learn whether certain
 ascetic practices he wished to adopt would be considered sinful or
 meritorious in heaven; that night the deceased came to him and carried
 him off to Paradise where he beheld the rewards that would be showered
-on him for his piety.[20](jms36.htm#an_15_20)
+on him for his piety.[20](jms36.htm#an_15_20.md)
 
 The dead, however, were not always willing to obey the summons of the
 living, and in such a case force could be applied. This required the
@@ -567,7 +567,7 @@ mother and forced her to reveal her secret. The son got the money, but a
 few nights later his mother came to him in a dream and apprised him of
 the price he would have to pay: "In proportion to the suffering you
 brought upon me by your vile act will reverses and torments be heaped
-upon you."[21](jms36.htm#an_15_21)
+upon you."[21](jms36.htm#an_15_21.md)
 
 On the other hand, angels and spirits could be invoked to appear in
 dreams by the usual methods. Jacob Halevi who, it is reported, induced
@@ -590,7 +590,7 @@ clearer response. Certain Biblical selections were also useful toward
 this end. Ps. 23 and 42, each recited seven times with its "names," were
 guaranteed to produce dream replies. If one writes Deut. 29:28 and its
 "names" on his hand and sleeps with that hand under his head the angel
-of dreams will favor him.[22](jms36.htm#an_15_22)
+of dreams will favor him.[22](jms36.htm#an_15_22.md)
 
 Direct invocation of angels was also resorted to, with the usual
 preliminary rites of ritual cleansing and fasting. One simple invocation
@@ -621,7 +621,7 @@ names of the angels who are in charge of the new month; on the third day
 let the house fill with smoke, lie down on the floor, recite the angel
 names and then sleep. "And the angels will appear and tell and reveal
 everything you may ask, in a clear vision, not in parables. You need
-have no fear."[23](jms36.htm#an_15_23)
+have no fear."[23](jms36.htm#an_15_23.md)
 
 <span id="page_244">p. 244</span>
 
@@ -646,7 +646,7 @@ unpropitious dream I may have this night, I shall not tomorrow observe
 the customary fast," which declaration, we are assured, "is a preventive
 of evil dreams, but, God forbid! should one nevertheless behold such a
 dream, he must on no account fast, or the angels of dreams will be very
-much provoked."[24](jms36.htm#an_15_24)
+much provoked."[24](jms36.htm#an_15_24.md)
 
 Once the dream has been experienced, however, other means must be
 adopted to forestall its consequences. As in the case of an illness, a
@@ -684,7 +684,7 @@ great *shofar* shall be blown" (Is. 27:13); of a bullock, "His firstling
 bullock, majesty is his" (Deut. 33:17); of a lion, "The lion hath
 roared, who will not fear?" (Amos 3:8); of shaving, "Joseph shaved
 himself and changed his raiment and came in unto Pharaoh" (Gen. 41:14);
-and so on.[25](jms36.htm#an_15_25)
+and so on.[25](jms36.htm#an_15_25.md)
 
 The most widely used methods of counteracting the effect of a bad dream,
 the "dream fast" and the rite of "turning a dream to good," were
@@ -724,14 +724,14 @@ when fasts were forbidden an exception was made in favor of the *Ta‘anit
 not permitted, this "dream fast" was the only one allowed. And not only
 the dreamer felt bound to observe this fast, but if his dream seemed to
 carry an ominous message for a second party, that person too observed
-it.[28](jms36.htm#an_15_28)
+it.[28](jms36.htm#an_15_28.md)
 
 The requirement that the fast must follow the dream on the same day was
 explained on the ground that the adverse decree might be intended for
 immediate execution; or, as one writer put it, each day has its own
 angels who are charged with carrying out the heavenly decisions. A delay
 of even one day may make the fast ineffective. Any other voluntary fast
-but the *Ta‘anit Ḥalom* may be postponed.[27](jms36.htm#an_15_27)
+but the *Ta‘anit Ḥalom* may be postponed.[27](jms36.htm#an_15_27.md)
 
 The only difficulty was with regard to the observance of this fast on
 the Sabbath and on holidays. Some medieval rabbis felt that R. Joseph
@@ -766,7 +766,7 @@ person, equally warranted a fast on any occasion. But Isaiah Horowitz,
 the sixteenth-century Polish mystic, who himself "usually advised people
 not to fast on the Sabbath," admitted, "I have known many people to make
 light of these restrictions, and fast on the Sabbath whenever their
-spirits were depressed by a dream."[28](jms36.htm#an_15_28)
+spirits were depressed by a dream."[28](jms36.htm#an_15_28.md)
 
 To appreciate the full moment of this dream fast we must further
 consider that it entailed a *second day's fast* immediately after, to
@@ -783,7 +783,7 @@ every succeeding year! (If, however, occasion for fasting arose on the
 second day, then only that day's fast was repeated annually.) Nor did
 they hesitate to keep this fast on the eve of *Yom Kippur*, the most
 trying day in the Jewish calendar. It required great faith, indeed, to
-produce such stanch devotion![29](jms36.htm#an_15_29)
+produce such stanch devotion![29](jms36.htm#an_15_29.md)
 
 When the fast was completed, the final remedy was resorted to, the
 *Hatavat Ḥalom*, the rite of transforming an ominous dream into a
@@ -809,11 +809,11 @@ eat thy bread in peace." To avoid the slightest unlucky intimation,
 moreover, the order of these last words was altered, for their initials
 spell the word *avel*, "mourner." If the purport of the dream had been
 forgotten, the Talmud provided a prayer which was warranted to ensure
-that no harm would befall the dreamer.[30](jms36.htm#an_15_30) Thus
+that no harm would befall the dreamer.[30](jms36.htm#an_15_30.md) Thus
 fortified he could throw off the oppressive weight of his dream and "eat
 his bread in peace"—until another night visited another evil vision upon
 him.
 
 ------------------------------------------------------------------------
 
-[Next: 16. Astrology](jms18)
+[Next: 16. Astrology](jms18.md)

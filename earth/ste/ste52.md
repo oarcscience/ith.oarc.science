@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste51)  [Next](ste53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste51)  [Next](ste53.md) 
 
 ------------------------------------------------------------------------
 
@@ -280,7 +280,7 @@ back friend to it; and represented every thing to its disadvantage, so
 far as was tolerably consistent with the fairness of an Historian. He
 gives a slight character of *Papias*, without any authority for it;<span
 class="margnote">*Eccles*. *Hist*. 3. 22.</span>  <span
-id="fr_19"></span>[1](#fn_19) and brings in one *Gaius* that makes
+id="fr_19"></span>[1](#fn_19.md) and brings in one *Gaius* that makes
 *Cerinthus* to be the author of the *Apocalypse* and of the
 *Millennium*: and calls the Visions there *monstrous stories*. He
 himself is willing to shuffle off that Book from *John* the *Evangelist*
@@ -362,8 +362,8 @@ some of the Reformation.
 
 ### Footnotes
 
-<span id="fn_19"></span>[351:1](ste52.htm#fr_19) τερατολογὶας.
+<span id="fn_19"></span>[351:1](ste52.htm#fr_19.md) τερατολογὶας.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](ste53)
+[Next: Chapter VII](ste53.md)

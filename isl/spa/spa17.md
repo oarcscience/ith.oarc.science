@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa16)  [Next](spa18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa16)  [Next](spa18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -27,7 +27,7 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
 
 To this degree is the heart affected by the love of Laylā,  
 That Majnūn, for aye, uttereth the praises of Laylā. <span
-id="fr_343"></span>[\*](#fn_343)
+id="fr_343"></span>[\*](#fn_343.md)
 
 He repeated no other lesson whatever, in this world,  
 Save that, on the black mole, and the ringlets of Laylā.
@@ -101,7 +101,7 @@ Still thy mouth becometh not mute of its unpleasant buzz.
 
 The whole world, through thee, hath into mere carrion turned;  
 Yet sorrowfully, and in spite, wringest thou still thine hands. <span
-id="fr_344"></span>[\*](#fn_344)
+id="fr_344"></span>[\*](#fn_344.md)
 
 O thoughtless man! follow not the nature of the fly!  
 These seeing eyes of thine from their ophthalmia cure!
@@ -233,7 +233,7 @@ When existence, like the breeze, bloweth for ever away!
 
 Tho’ thou may’st erect mansions, in all symmetry and grace,  
 Filled with regret, alas! thou must leave them all behind! <span
-id="fr_345"></span>[\*](#fn_345)
+id="fr_345"></span>[\*](#fn_345.md)
 
 Sorrow! sorrow! and for ever sorrow, O my heart!  
 That loving friends from each other are severed so soon!
@@ -244,7 +244,7 @@ That in autumn's heats, alas! wither and fade away!
 <span id="page_300">p. 300</span>
 
 This separation is as hell, and absence its heated stones, <span
-id="fr_346"></span>[\*](#fn_346)  
+id="fr_346"></span>[\*](#fn_346.md)  
 That fall, alas! the poor devoted lover's head upon.
 
 It behoveth us here the world to renounce, for ’tis inconstant:  
@@ -349,7 +349,7 @@ Compared with the excessive torments of separation, to it was bliss, the
 meeting of to-day.
 
 That was an hour of joy and felicity, when the Ḥumā <span
-id="fr_347"></span>[\*](#fn_347) of union o’ershadow’d its head:  
+id="fr_347"></span>[\*](#fn_347.md) of union o’ershadow’d its head:  
 Why then should not the heart its yearnings show, when with sorrow it
 was constantly filled?
 
@@ -445,14 +445,14 @@ say?
 
 ### Footnotes
 
-<span id="fn_343"></span>[294:\*](spa17.htm#fr_343) See note at page
-[29](spa05.htm#page_29), and Introduction, page [xx](spa03.htm#page_xx).
+<span id="fn_343"></span>[294:\*](spa17.htm#fr_343.md) See note at page
+[29](spa05.htm#page_29), and Introduction, page [xx](spa03.htm#page_xx.md).
 
-<span id="fn_344"></span>[296:\*](spa17.htm#fr_344) This refers to flies
+<span id="fn_344"></span>[296:\*](spa17.htm#fr_344.md) This refers to flies
 rubbing their heads with both fore legs, which the author calls wringing
 their hands sorrowfully and in spite.
 
-<span id="fn_345"></span>[299:\*](spa17.htm#fr_345) See Horace, Ode
+<span id="fn_345"></span>[299:\*](spa17.htm#fr_345.md) See Horace, Ode
 13th, Book II.:—
 
 <div style="margin-left: 32px">
@@ -464,13 +464,13 @@ their hands sorrowfully and in spite.
 
 </div>
 
-<span id="fn_346"></span>[300:\*](spa17.htm#fr_346) Hell is said to be
+<span id="fn_346"></span>[300:\*](spa17.htm#fr_346.md) Hell is said to be
 paved with stones, which thus make the infernal fire the more excessive
 by the transmission of heat.
 
-<span id="fn_347"></span>[302:\*](spa17.htm#fr_347) See note at page
-[37](spa05.htm#page_37).
+<span id="fn_347"></span>[302:\*](spa17.htm#fr_347.md) See note at page
+[37](spa05.htm#page_37.md).
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](spa18)
+[Next: Introduction](spa18.md)

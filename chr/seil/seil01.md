@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil00)  [Next](seil02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil00)  [Next](seil02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -107,4 +107,4 @@ Given at St. Mark's in Rome under the seal of the Fisherman, 31 July,
 
 ------------------------------------------------------------------------
 
-[Next: Preface](seil02)
+[Next: Preface](seil02.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft20)  [Next](pft22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft20)  [Next](pft22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ and she had to go home without the boy.
 
 ------------------------------------------------------------------------
 
-[Next: The Turtle and the Lizard](pft22)
+[Next: The Turtle and the Lizard](pft22.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu15)  [Next](gpu17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu15)  [Next](gpu17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -73,14 +73,14 @@ To the north there is consumption and Jaundice likewise; to the
 north-west, Headache; to the south-east, Syncope.
 
 To the south-west, is Dysentery; to the north-west cold and heat--with
-these and other diseases it is [surrounded](errata.htm#17).
+these and other diseases it is [surrounded](errata.htm#17.md).
 
 <span id="page_132">p. 132</span>
 
 16-23. Chitragupta records the good and evil of men. Twenty yojanas
 before the abode of Chitragupta,
 
-In the [middle](errata.htm#18) of the city, is the very resplendent
+In the [middle](errata.htm#18.md) of the city, is the very resplendent
 mansion of the king of justice. It is shining with jewels, and splendid
 like lightning, flame and the sun.
 
@@ -98,7 +98,7 @@ rich with the sounds of bells and drums; and embellished with golden
 fringes,
 
 Filled with various wonders; with hundreds of golden doors;
-[beautiful](errata.htm#19) with trees, plants and creepers without
+[beautiful](errata.htm#19.md) with trees, plants and creepers without
 thorns.
 
 With these and other embellishments decorated always--it was created by
@@ -108,7 +108,7 @@ the architect of the Universe by the power of his own Yoga.
 
 24-28. In that there is a divine assembly place which is a thousand
 yojanas in extent, splendid like the sun, full of light, and in every
-way satisfying; <span id="fr_144"></span>[1](#fn_142)
+way satisfying; <span id="fr_144"></span>[1](#fn_142.md)
 
 With no extreme heat and no extreme cold; most ravishing to the mind
 with no sorrows and no old age there, and no trouble of hunger and
@@ -123,7 +123,7 @@ there are pleasant; and trees always bear the fruit desired.
 
 That assembly, O Tārkṣya, has no bondage, is enchanting, is a fulfiller
 of desires, and was created by the Architect of the Universe by doing
-tapas <span id="fr_145"></span>[2](#fn_143) for a long time.
+tapas <span id="fr_145"></span>[2](#fn_143.md) for a long time.
 
 29-30. Those who have done great tapas, are of good vows,
 truth-speaking, tranquil, renouncing, accomplished, and purified by good
@@ -146,14 +146,14 @@ celestial damsels bearing in their hands fans of hair.
 34-40. Multitudes of celestial choristers and numerous groups of
 celestial damsels, round about, serve him with songs, music and dances.
 
-He is waited up by Mṛityu <span id="fr_146"></span>[1](#fn_144) with a
-noose in his hand, by kāla <span id="fr_147"></span>[1](#fn_144) still
+He is waited up by Mṛityu <span id="fr_146"></span>[1](#fn_144.md) with a
+noose in his hand, by kāla <span id="fr_147"></span>[1](#fn_144.md) still
 more powerful, and by Chitragupta, the recorder of fate,
 
 Surrounded by various servants equal to him in prowess, bearing awful
 nooses and rods, ready to do his bidding,
 
-Who are the Agniṣvāttha, Pitṛis, <span id="fr_148"></span>[2](#fn_145)
+Who are the Agniṣvāttha, Pitṛis, <span id="fr_148"></span>[2](#fn_145.md)
 the Somapās and the Uṣmapās, the powerful Barhiṣads formed and formless,
 O Bird,
 
@@ -169,8 +169,8 @@ impossible to enumerate, either by their names or their deeds.
 <span id="page_135">p. 135</span>
 
 41-45. Those who expound with accurate commentaries, the
-Dharmaśāstras, <span id="fr_149"></span>[1](#fn_146) serve the King of
-Justice by order of Parameṣṭhin. <span id="fr_150"></span>[2](#fn_147)
+Dharmaśāstras, <span id="fr_149"></span>[1](#fn_146.md) serve the King of
+Justice by order of Parameṣṭhin. <span id="fr_150"></span>[2](#fn_147.md)
 
 The kings of the Solar Race, also of the Lunar Race,--these knowers of
 righteousness wait upon the King of Justice in the assembly.
@@ -190,7 +190,7 @@ jealousy.
 
 All those assembled are knowers of the scriptures; all are devoted to
 righteousness; and in that assembly they continually wait upon
-Vaivasvata <span id="fr_151"></span>[3](#fn_148)
+Vaivasvata <span id="fr_151"></span>[3](#fn_148.md)
 
 48-49. Such, O Tārkṣya, is the assembly of the great-souled King of
 Justice. The sinners, who go by the southern path, do not behold it.
@@ -217,7 +217,7 @@ serpents,
 And worshippers of the deities, and the devotees of Śiva, those who give
 rest-houses in the summer, and who give fuel in winter,
 
-Those who shelter ascetics <span id="fr_152"></span>[1](#fn_149) in
+Those who shelter ascetics <span id="fr_152"></span>[1](#fn_149.md) in
 their houses during the rains, and make them gifts; those who speak
 consolation to the mentally distressed, and certainly those who give a
 hermitage,
@@ -244,8 +244,8 @@ and there is there a delightful tank full of the essence of nectar.
 
 On this way go those who are learned in the Vedas, also those who honour
 guests, those who are worshippers of Dūrgā <span
-id="fr_153"></span>[1](#fn_150) and Bhanu, <span
-id="fr_154"></span>[2](#fn_151) and those who bathe at the sacred waters
+id="fr_153"></span>[1](#fn_150.md) and Bhanu, <span
+id="fr_154"></span>[2](#fn_151.md) and those who bathe at the sacred waters
 at the changes of the moon,
 
 Those who die in the pursuit of righteousness, and those who die of vow
@@ -266,8 +266,8 @@ of Righteousness.
 and splendid with ponds, always filled with the essence of nectar,
 
 Is filled with maddened elephants sprung of the family of Airāvata <span
-id="fr_155"></span>[1](#fn_152) and with jewels of horses sprung from
-Uchchaiḥśravā. <span id="fr_156"></span>[2](#fn_153)
+id="fr_155"></span>[1](#fn_152.md) and with jewels of horses sprung from
+Uchchaiḥśravā. <span id="fr_156"></span>[2](#fn_153.md)
 
 By this way go the self-reliant, those who contemplate the good
 scriptures, those entirely devoted to Viṣṇu, those who repeat the
@@ -332,7 +332,7 @@ the leaders of the sages,
 Go along the highest path, accompanied by multitudes of chariots; then
 those in that assembly of righteousness rise up with great respect
 
-Having spent there <span id="fr_157"></span>[1](#fn_154) some ages, and
+Having spent there <span id="fr_157"></span>[1](#fn_154.md) some ages, and
 enjoyed superhuman pleasures, they obtain, as a result of their merits,
 holy human birth,
 
@@ -347,37 +347,37 @@ King of Justice.
 
 ### Footnotes
 
-<span id="fn_142"></span>[133:1](gpu16.htm#fr_144) Taking any form
+<span id="fn_142"></span>[133:1](gpu16.htm#fr_144.md) Taking any form
 desired.
 
-<span id="fn_143"></span>[133:2](gpu16.htm#fr_145) Meditation with an
+<span id="fn_143"></span>[133:2](gpu16.htm#fr_145.md) Meditation with an
 effort to produce physical effects.
 
-<span id="fn_144"></span>[134:1](gpu16.htm#fr_147) Forms of Death.
+<span id="fn_144"></span>[134:1](gpu16.htm#fr_147.md) Forms of Death.
 
-<span id="fn_145"></span>[134:2](gpu16.htm#fr_148) A class of
+<span id="fn_145"></span>[134:2](gpu16.htm#fr_148.md) A class of
 progenitors.
 
-<span id="fn_146"></span>[135:1](gpu16.htm#fr_149) Scriptures teaching
+<span id="fn_146"></span>[135:1](gpu16.htm#fr_149.md) Scriptures teaching
 the duties of life.
 
-<span id="fn_147"></span>[135:2](gpu16.htm#fr_150) Brāhmaṇ.
+<span id="fn_147"></span>[135:2](gpu16.htm#fr_150.md) Brāhmaṇ.
 
-<span id="fn_148"></span>[135:3](gpu16.htm#fr_151) Yama, the son of
+<span id="fn_148"></span>[135:3](gpu16.htm#fr_151.md) Yama, the son of
 Visvasvat.
 
-<span id="fn_149"></span>[136:1](gpu16.htm#fr_152) Those who have
+<span id="fn_149"></span>[136:1](gpu16.htm#fr_152.md) Those who have
 renounced the world.
 
-<span id="fn_150"></span>[137:1](gpu16.htm#fr_153) The consort of Śiva.
+<span id="fn_150"></span>[137:1](gpu16.htm#fr_153.md) The consort of Śiva.
 
-<span id="fn_151"></span>[137:2](gpu16.htm#fr_154) The Sun.
+<span id="fn_151"></span>[137:2](gpu16.htm#fr_154.md) The Sun.
 
-<span id="fn_152"></span>[138:1](gpu16.htm#fr_155) The divine elephant.
+<span id="fn_152"></span>[138:1](gpu16.htm#fr_155.md) The divine elephant.
 
-<span id="fn_153"></span>[138:2](gpu16.htm#fr_156) The divine horse.
+<span id="fn_153"></span>[138:2](gpu16.htm#fr_156.md) The divine horse.
 
-<span id="fn_154"></span>[140:1](gpu16.htm#fr_157) That is in Heaven
+<span id="fn_154"></span>[140:1](gpu16.htm#fr_157.md) That is in Heaven
 world.
 
 <div class="filenav">
@@ -385,6 +385,6 @@ world.
 ------------------------------------------------------------------------
 
 [Next: Chapter XV. An Account of the Coming to Birth of People who have
-done Good](gpu17)
+done Good](gpu17.md)
 
 </div>

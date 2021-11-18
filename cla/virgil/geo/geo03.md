@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](geol03)  [Previous](geo02) 
-[Next](geo04) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](geol03)  [Previous](geo02.md) 
+[Next](geo04.md) 
 
 ------------------------------------------------------------------------
 
@@ -530,4 +530,4 @@ fire devoured his infected frame.
 
 ------------------------------------------------------------------------
 
-[Next: Fourth Book](geo04)
+[Next: Fourth Book](geo04.md)

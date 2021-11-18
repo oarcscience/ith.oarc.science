@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal14)  [Next](goal16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal14)  [Next](goal16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -216,7 +216,7 @@ in the Christian Trinity, viz.: *Shema Yisrael* 
 
 <span class="contnote">\[paragraph continues\]</span> *Adonai Elohim
 Adonai* <span class="smallcaps">echad</span>, <span
-id="fr_4"></span>[\*](#fn_4) we find that even here it is certainly a
+id="fr_4"></span>[\*](#fn_4.md) we find that even here it is certainly a
 compound unity that is expressed by the word *echad*, one, for this word
 is derived from the root *yachad*, to unite, and occurs with a compound
 meaning, hundreds of times in the *Tanach*, or Hebrew Bible; as in
@@ -228,7 +228,7 @@ denotes a compound unity, as also in Genesis ii. 24, *basar echad*, 'one
 flesh.' On the other hand, *yacheed*, which represents an absolute
 unity, as in Genesis xxii. 2, 12, 16, '*Only* son,' Judges xi, 34,
 '*Only* daughter,' is never used to express the unity of God. And not
-only was *Elohim* <span id="fr_5"></span>[†](#fn_5) used with a plural
+only was *Elohim* <span id="fr_5"></span>[†](#fn_5.md) used with a plural
 signification, but *Yahveh*, also, as in Genesis xi. 7, 'And *Yahveh*
 said Let *Us* go down, and let *Us* confound.' And not only so, but the
 Messiah is distinctly affirmed to be the son of <span
@@ -236,7 +236,7 @@ class="smallcaps">Yahveh</span> in Psalms ii. 2, 7, for in verse seven
 He says to 'His Messiah,' *Beni attah*, 'My Son, Thou art.' In Proverbs
 xxx. 4, His Son is again mentioned. And the earlier books abound with
 narratives of the visits of Melech-Yahveh, <span
-id="fr_6"></span>[‡](#fn_6) who is recognized as being Himself, Yahveh,
+id="fr_6"></span>[‡](#fn_6.md) who is recognized as being Himself, Yahveh,
 or as the Jews say, 'Adonai Elohim.'
 
 <span id="page_130">p. 130</span>
@@ -257,13 +257,13 @@ is far nearer to that taught by Moses, and in the whole Hebrew *Tanach*,
 than the Jewish conception of the present day.
 
 "Delitsch, in his 'Babel and Bibel,' says that the Old North Semitic
-tribes [who](errata.htm#12) settled in Babylon, about B. C. 2500,
+tribes [who](errata.htm#12.md) settled in Babylon, about B. C. 2500,
 worshipped 'Yahwe, the existing, enduring one, the one devoid of all
 change,' and that this Yahwe was the spiritual possession of those same
 nomad tribes out of which, after a thousand years, the Israelites were
 to emerge. This Being, they called 'El,' which means 'the goal,' to
 which the eyes of man looking heavenward are turned,—'on whom hangs the
-gaze of every man.' <span id="fr_7"></span>[\*](#fn_7) From this he
+gaze of every man.' <span id="fr_7"></span>[\*](#fn_7.md) From this he
 thought that the
 
 <span id="page_131">p. 131</span>
@@ -272,14 +272,14 @@ thought that the
 was evolved. But this may be regarded as one evidence among many, of the
 existence of a primeval worship of El Elyon, the Supreme God, which has
 been identified with the *Ilu Siru* of the of Hammurabi. <span
-id="fr_8"></span>[\*](#fn_8)
+id="fr_8"></span>[\*](#fn_8.md)
 
-"The Biblical conception of God is [sometimes](errata.htm#13)
+"The Biblical conception of God is [sometimes](errata.htm#13.md)
 stigmatized as anthropomorphic, but this objection is the outcome of
 ignorance, for although every appearance of celestial beings is
 described as being in the form of man, yet it is clear, also, that they
 believed in an Omnipresent, all-pervading, all-sustaining Spirit, <span
-id="fr_9"></span>[†](#fn_9) corresponding to the teaching of Paul on
+id="fr_9"></span>[†](#fn_9.md) corresponding to the teaching of Paul on
 Mars Hill, that 'He giveth to all, life and breath and all things,' for
 'in Him we live and move and have our being;' and to that of John, that
 'God is Spirit,' and that 'no man hath seen God at any time.' So that
@@ -372,21 +372,21 @@ heareth God's words."
 
 ### Footnotes
 
-<span id="fn_4"></span>[129:\*](goal15.htm#fr_4) "Hear, O Israel,
+<span id="fn_4"></span>[129:\*](goal15.htm#fr_4.md) "Hear, O Israel,
 Yahveh, thine Elohim, is *Yahveh* <span class="smallcaps">one</span>."
 
-<span id="fn_5"></span>[129:†](goal15.htm#fr_5) Genesis i. 26.
+<span id="fn_5"></span>[129:†](goal15.htm#fr_5.md) Genesis i. 26.
 
-<span id="fn_6"></span>[129:‡](goal15.htm#fr_6) Genesis xviii. 8, 14;
+<span id="fn_6"></span>[129:‡](goal15.htm#fr_6.md) Genesis xviii. 8, 14;
 Exodus iii. 2 et seq.
 
-<span id="fn_7"></span>[130:\*](goal15.htm#fr_7) Job xxxvi. 25.
+<span id="fn_7"></span>[130:\*](goal15.htm#fr_7.md) Job xxxvi. 25.
 
-<span id="fn_8"></span>[131:\*](goal15.htm#fr_8) "Biblia," June 1902.
+<span id="fn_8"></span>[131:\*](goal15.htm#fr_8.md) "Biblia," June 1902.
 Vide "Code Hammurabi" and article "El El-yon"
 
-<span id="fn_9"></span>[131:†](goal15.htm#fr_9) Psalm 139. 7-9.
+<span id="fn_9"></span>[131:†](goal15.htm#fr_9.md) Psalm 139. 7-9.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Eternal Order of Melchisedek](goal16)
+[Next: Chapter XII. The Eternal Order of Melchisedek](goal16.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw11)  [Next](gsw13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw11)  [Next](gsw13.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_119">p. 119</span>
 
-<span id="img_11900"></span> ![FROM AN ENAMELLED BOX](img/11900.jpg)
+<span id="img_11900"></span> ![FROM AN ENAMELLED BOX](img/11900.jpg.md)
 
 ### CHAPTER VIII
 
@@ -170,7 +170,7 @@ follows:
 
 They asked the Wind "Where is thy home?" It replied, "My poor home is in
 Tahrud; but I occasionally visit Abarik and Sarvistan." <span
-id="fr_46"></span>[1](#fn_46)
+id="fr_46"></span>[1](#fn_46.md)
 
 Well do I recollect that it was necessary to order the luggage to be
 piled against the door that night, and, although this precaution
@@ -188,7 +188,7 @@ deep snow.
 <span id="img_12500"></span> <span align="CENTER"> [![IN THE JABAL
 BARIZ&lt;br&gt; &lt;i&gt;Major J. W. Watson,
 phot&lt;/i&gt;.](tn/12500.jpg)  
-Click to enlarge](img/12500.jpg)  
+Click to enlarge](img/12500.jpg.md)  
 IN THE JABAL BARIZ  
 *Major J. W. Watson, phot*.  
 </span>
@@ -235,7 +235,7 @@ the chief river of the Kerman province, which, from its violence, is
 also known as the Div Rud or "Demon River."
 
 Close by stretched the ruins of the "City of Dakianus," <span
-id="fr_47"></span>[1](#fn_47) covering many *farsakhs*. Now several
+id="fr_47"></span>[1](#fn_47.md) covering many *farsakhs*. Now several
 ruined cities are termed by this name after a Sovereign, to escape whose
 persecutions seven Christian youths took refuge in a cave with a
 faithful dog, and there slept for three hundred and nine years, as
@@ -353,7 +353,7 @@ When we had recrossed the Jabal Bariz, we
 
 <span id="img_13300"></span> <span align="CENTER"> [![GIPSY MUSICIANS
 &lt;i&gt;H. R. Sykes, phot&lt;/i&gt;.](tn/13300.jpg)  
-Click to enlarge](img/13300.jpg)  
+Click to enlarge](img/13300.jpg.md)  
   
 </span>
 
@@ -422,18 +422,18 @@ listening to the details of what I had done, condescended to praise my
 diligence and capacity, and remarked to the above official that such a
 one was a good servant.
 
-<span id="img_13700"></span> ![FROM AN OLD BRASS TRAY](img/13700.jpg)
+<span id="img_13700"></span> ![FROM AN OLD BRASS TRAY](img/13700.jpg.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_46"></span>[124:1](gsw12.htm#fr_46) These places are close
+<span id="fn_46"></span>[124:1](gsw12.htm#fr_46.md) These places are close
 to one another.
 
-<span id="fn_47"></span>[128:1](gsw12.htm#fr_47) Dakianus is the Roman
+<span id="fn_47"></span>[128:1](gsw12.htm#fr_47.md) Dakianus is the Roman
 Emperor Decius.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Persian New Year](gsw13)
+[Next: Chapter IX. The Persian New Year](gsw13.md)

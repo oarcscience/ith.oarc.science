@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](argr10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](argr10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Astrology and Religion Among the Greeks and Romans*, by Franz Cumont,
 \[1912\], at Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ systems which were predominant at Rome, one
 flatly denied a future life. It is well known that Epicurus taught that
 the soul is composed of atoms and is dissolved with the body, and there
 is no doctrine of the Master on which his disciples insist with more
-complacent assurance. Lucretius <span id="fr_104"></span>[1](#fn_104)
+complacent assurance. Lucretius <span id="fr_104"></span>[1](#fn_104.md)
 praises him for having driven from men's minds "this dread of Acheron
 which troubles the life of man to its inmost depths." The other great
 philosophical school, Stoicism, showed considerable hesitation
@@ -92,7 +92,7 @@ given forcible
 expression; I mean Leconte de Lisle, who, adopting a definition of
 Alfred de Vigny, declared that life is "a sombre incident between two
 endless periods of sleep." His musical and despondent apostrophe is well
-known <span id="fr_105"></span>[1](#fn_105):
+known <span id="fr_105"></span>[1](#fn_105.md):
 
 <div style="margin-left: 32px">
 
@@ -100,14 +100,14 @@ known <span id="fr_105"></span>[1](#fn_105):
 Accueille tes enfants dans ton sein étoilé,  
 Affranchis nous du temps, du nombre, et de l’espace,  
 Et rends nous le repose que la vie a troublé." <span
-id="fr_106"></span>[2](#fn_106)
+id="fr_106"></span>[2](#fn_106.md)
 
 </div>
 
 This pessimism, which regarded annihilation as a blessing, might be
 accepted by certain spirits and sometimes preached with a kind of
 passion, as by Pliny in a famous confession of faith. <span
-id="fr_107"></span>[3](#fn_107) But the majority, without venturing to
+id="fr_107"></span>[3](#fn_107.md) But the majority, without venturing to
 admit the certainty of a future life, clung to it as a comfortable
 hypothesis entertained by certain thinkers.
 
@@ -182,7 +182,7 @@ fluid that extended above the clouds, and coalesced with this subtle
 air, which was the source of all life. The official epitaph on the
 Athenians who fell at Potidæa in 432 B.C., expresses the conviction that
 the ether has received into its bosom the souls of these heroes as the
-earth has received their bodies. <span id="fr_108"></span>[1](#fn_108)
+earth has received their bodies. <span id="fr_108"></span>[1](#fn_108.md)
 
 There we have an opinion wide-spread in the fifth century from one end
 of the Hellenic world to the other. In opposition, then, to the views of
@@ -190,19 +190,19 @@ the Homeric age and of popular belief; these doctrines taught that the
 abode of souls was neither the tomb nor the nether realm of Pluto, but
 the upper zone of the universe. Some, with greater exactitude, made them
 the companions of the stars, whose divinity philosophers devoted
-themselves to proving. <span id="fr_109"></span>[2](#fn_109) The two
+themselves to proving. <span id="fr_109"></span>[2](#fn_109.md) The two
 ideas are closely related, for the affinity of gods and men is an
 eminently Greek idea. Some sects of mystics--Orphic or
 Pythagorean--taught that the spirits of the dead departed to dwell in
 the moon, or to shine among the constellations. Thus Aristophanes <span
-id="fr_110"></span>[3](#fn_110) transforms the Pythagorean poet, Ion of
+id="fr_110"></span>[3](#fn_110.md) transforms the Pythagorean poet, Ion of
 Chios, the friend of Sophocles, into the morning star. In Plato's view
 souls which have made a good use of their lives return to inhabit the
 heavenly bodies, which served as their dwelling-place before birth, and
 there partake of the bliss of a divine existence.
 
 Moreover, the Greeks, as we have seen, <span
-id="fr_111"></span>[4](#fn_111) had long before told how certain heroes
+id="fr_111"></span>[4](#fn_111.md) had long before told how certain heroes
 of fable had been transported to heaven in reward for their exploits.
 Hercules, Perseus and Andromeda, the Dioscuri Castor and Pollux, and
 many others had thus been
@@ -233,7 +233,7 @@ was readily reconciled with astrology. It is a remarkable fact that this
 doctrine was defended, in the second century before our era, notably by
 Hipparchus, who was not only one of the great astronomers but a
 convinced adept of astrological theories, and, as we have seen, <span
-id="fr_112"></span>[1](#fn_112) Pliny applauds him warmly for having
+id="fr_112"></span>[1](#fn_112.md) Pliny applauds him warmly for having
 proved better than any one else that man is related to the stars and
 that our souls are "a part of the heaven."
 
@@ -260,12 +260,12 @@ this remarkable *Dream*.
 A number of inscriptions attest the extent to which this belief had
 spread by the first century before our era. There is an unlimited choice
 of examples to quote. Thus an epitaph on a girl thirteen years old
-discovered in the island of Thasos <span id="fr_113"></span>[1](#fn_113)
+discovered in the island of Thasos <span id="fr_113"></span>[1](#fn_113.md)
 says: "In this tomb lies the body of a young maiden, *anthophoros*
 (flower-bearer) of Ceres, carried off by the merciless Fates. But her
 soul by the good-will of the Immortals dwells among the stars and takes
 its place in the sacred choir of the blest." Here is a Latin
-epitaph, <span id="fr_114"></span>[2](#fn_114) one among many of the
+epitaph, <span id="fr_114"></span>[2](#fn_114.md) one among many of the
 same kind: "My divine soul shall not descend to the shades; heaven and
 the stars have borne me away; earth holds my body, and this stone an
 empty name." Epigraphy proves that these ideas of a future life became
@@ -304,7 +304,7 @@ those monarchs who, while still on earth, were raised by the reverence
 of their subjects above their fellow-men and put almost, or altogether,
 on a level with the heavenly powers. Traces of this primitive conception
 survived even at Rome. According to a tradition which is echoed by
-Manilius, <span id="fr_115"></span>[1](#fn_115) Nature first revealed
+Manilius, <span id="fr_115"></span>[1](#fn_115.md) Nature first revealed
 her mysteries to the minds of kings, whose lofty thoughts reach the
 summit of the heavens. Another doctrine was also taught, that the divine
 souls of sovereigns come from a higher place than those of other men,
@@ -316,7 +316,7 @@ privilege, of posthumous nobility, which was conferred on great
 ministers of state, or which they usurped, long before the common crowd
 of the dead attained it. Such is the idea to which Cicero gives
 expression in the *Dream of Scipio* <span
-id="fr_116"></span>[2](#fn_116): "To all those who have saved,
+id="fr_116"></span>[2](#fn_116.md): "To all those who have saved,
 succoured, or exalted their fatherland, there is assigned a fixed place
 in heaven, where they will enjoy everlasting bliss, for it is from
 heaven that they who guide and preserve states have descended, thither
@@ -326,7 +326,7 @@ apotheosis to statesmen, philosophers claim it for sages, men of letters
 for great poets, and artists for creative geniuses. Here the old Greek
 worship of heroes, combined with belief in "catasterism," comes in to
 enlarge the narrow conception of monarchy. Hermes Trismegistus <span
-id="fr_117"></span>[3](#fn_117) taught that there were different kinds
+id="fr_117"></span>[3](#fn_117.md) taught that there were different kinds
 of royal souls, for there is a royalty of spirit, a royalty of art, a
 royalty of science, even a royalty of bodily strength. All exceptional
 men resemble the gods, and the people were loath to believe that they
@@ -342,7 +342,7 @@ utterly dead, I am entirely unconvinced."
 
 Among those heroes whose merits had opened to them the gates of
 heaven,--"virtus recludens immeritis mori caelum," as Horace puts
-it, <span id="fr_118"></span>[1](#fn_118)--the military monarchies of
+it, <span id="fr_118"></span>[1](#fn_118.md)--the military monarchies of
 the East placed in the forefront the warriors who had died sword in hand
 in defence of their country, or rather of their king. This doctrine,
 which was deep-rooted particularly in Syria, has been preserved, as is
@@ -367,7 +367,7 @@ insisted strongly on the fulfilment of religious duties, the more
 philosophical theologians looked, above all, to the psychological
 conditions necessary for translation to heaven. We have indicated in
 dealing with the subject of ecstasy,  <span
-id="fr_119"></span>[2](#fn_119)--and we shall return to it shortly,--how
+id="fr_119"></span>[2](#fn_119.md)--and we shall return to it shortly,--how
 souls made gross by carnal passions were unable to ascend to the abode
 of the gods of light. For those who have not kept themselves pure
 throughout their lives, a posthumous purification is indispensable.
@@ -416,7 +416,7 @@ Finally, there is a very wide-spread belief of Syrian origin
 <span id="page_102">p. 102</span>
 
 that souls fly to heaven on the back of an eagle. <span
-id="fr_120"></span>[1](#fn_120) According to the story, Etana in
+id="fr_120"></span>[1](#fn_120.md) According to the story, Etana in
 Babylon, like Ganymede in Greece, had been carried off in this way. The
 pious shared this happy lot. This is why the eagle is used as the
 ordinary decorative motif on sepulchral *stelae* at Hierapolis, the holy
@@ -440,7 +440,7 @@ which only vulgar minds still interpreted literally.
 The same idea is involved when magicians by secret processes professed
 to assure the credulous of the possibility of raising themselves
 upwards. If we are to believe Arnobius, <span
-id="fr_121"></span>[2](#fn_121) they asserted that they could cause
+id="fr_121"></span>[2](#fn_121.md) they asserted that they could cause
 wings to grow from the backs of their dupes, so as to enable them to fly
 up to the stars. One of the wonders which miracle-mongers most
 frequently boasted of working was that of soaring up into the air. The
@@ -449,7 +449,7 @@ magic professed to bestow on its adepts, is merely one particular
 application of this art to eschatology or rather to deification
 (ἀπαθανατισμός). Of this the papyrus erroneously called a "Mithraic
 liturgy" is the most typical example. <span
-id="fr_122"></span>[3](#fn_122)
+id="fr_122"></span>[3](#fn_122.md)
 
 These mechanical means of raising oneself, body and soul,
 
@@ -473,14 +473,14 @@ from the ether, borne on the wings of light. They added that this beam,
 passing through the air and through water down to its depths, gave life
 to all things here below. This idea persisted under the Empire in the
 theology of the mysteries. Souls descended upon the earth,
-[and](errata.htm#0) reascended after death toward the sky, thanks to the
+[and](errata.htm#0.md) reascended after death toward the sky, thanks to the
 rays of the sun, which served as the means of transport. On Mithraic
 bas-reliefs, one of the seven rays which surround the head of *Sol
 Invictus*, is seen disproportionately prolonged towards the dying Bull
 in order to awake the new life that is to spring from the death of the
 cosmogonic animal. But this ancient belief was brought into connection
 with a general theory held by the Chaldeans. <span
-id="fr_123"></span>[1](#fn_123) We saw that in the eyes of astrologers
+id="fr_123"></span>[1](#fn_123.md) We saw that in the eyes of astrologers
 the human soul was an igneous essence, of the same nature as the
 celestial fires. The radiant sun continually caused particles of his
 resplendent orb to descend into the bodies which he called to life.
@@ -504,7 +504,7 @@ mentioned above, which we are now going to consider more closely, the
 cause of this ascension is the physical nature of the soul.
 
 This doctrine is set forth with great precision by Cicero in the
-*Tusculan Disputations*, <span id="fr_124"></span>[1](#fn_124) doubtless
+*Tusculan Disputations*, <span id="fr_124"></span>[1](#fn_124.md) doubtless
 after Posidonius. The soul is a fiery breath (*anima inflammata*)--that
 is to say, its substance is the lightest in this universe composed of
 four elements. It necessarily, therefore, has a tendency to rise, for it
@@ -523,7 +523,7 @@ that feed the everlasting fires of the stars.
 This theory made it easier than the previous theory had done to
 establish a firm connexion between ethical beliefs concerning future
 destiny and physical theories about the constitution of the universe and
-the nature of man. We have seen <span id="fr_125"></span>[2](#fn_125)
+the nature of man. We have seen <span id="fr_125"></span>[2](#fn_125.md)
 that virtue was conceived as liberation from the dominion of the flesh;
 the soul is never purely spiritual or immaterial, but when it abandons
 itself to the passions, it becomes gross, its substance grows more
@@ -556,7 +556,7 @@ years of cruel expiation, do they find at length everlasting peace in
 the serenity of the ether.
 
 Virgil alludes to this doctrine in the famous line of the sixth book of
-the *Æneid*, <span id="fr_126"></span>[1](#fn_126) where, speaking of
+the *Æneid*, <span id="fr_126"></span>[1](#fn_126.md) where, speaking of
 souls, he says:
 
 <div style="margin-left: 32px">
@@ -575,7 +575,7 @@ on the architrave are two Tritons and two dolphins, which evidently
 represent the idea of the aqueous element. Finally, at the top of the
 stone, in the pediment, we see two lions which, as on the Mithraic
 monuments, are symbols of fire, the igneous principle. <span
-id="fr_127"></span>[2](#fn_127)
+id="fr_127"></span>[2](#fn_127.md)
 
 <span id="page_106">p. 106</span>
 
@@ -595,7 +595,7 @@ magical processes.
 But more often the priests professed to give the soul a god to lead it
 on its perilous journey through the whirlwinds of air, water, and fire
 to the starry heavens. "Among the dead," says a funeral
-inscription, <span id="fr_128"></span>[1](#fn_128) "there are two
+inscription, <span id="fr_128"></span>[1](#fn_128.md) "there are two
 companies: one moves upon the earth, the other in the ether among the
 choirs of stars; I belong to the latter, for I have obtained a god as my
 guide." This divine escort of souls frequently retains the name of
@@ -603,9 +603,9 @@ Hermes in conformity with ancient Greek mythology. An epigram belonging
 to the first century of our era apostrophises the deceased in these
 words: "Hermes of the wingèd feet, taking thee by the hand, has
 conducted thee to Olympus and made thee to shine among the stars." <span
-id="fr_129"></span>[2](#fn_129) But more often the rôle of escort now
+id="fr_129"></span>[2](#fn_129.md) But more often the rôle of escort now
 devolves upon the Sun himself: We have seen <span
-id="fr_130"></span>[3](#fn_130) that at the end of paganism the royal
+id="fr_130"></span>[3](#fn_130.md) that at the end of paganism the royal
 star is figured as carrying mortals in his flying chariot. Those who had
 not by their piety merited the protection of the god whose duty it was
 to escort and introduce them, and who nevertheless ventured up to
@@ -628,7 +628,7 @@ hesitated, they contented themselves with the general assertion that the
 soul is "among the stars." At the beginning of their poems, Lucan
 addressing Nero and Statius addressing Domitian both asked what part of
 heaven these Emperors will inhabit after their apotheosis <span
-id="fr_131"></span>[1](#fn_131): Will they mount on the flaming chariot
+id="fr_131"></span>[1](#fn_131.md): Will they mount on the flaming chariot
 of the Sun? will they take their place as new stars among the
 constellations? Or even will Jupiter himself in the height of the
 heavens yield to them his sceptre? In the same way theologians doubted
@@ -643,7 +643,7 @@ fixed stars and particularly in the Milky Way, sometimes beyond this
 extreme sphere of the heavens, outside the limits of the world. Among
 the various doctrines there are two of which we have more precise
 information from ancient authors. One is set forth by Plutarch after
-Demetrius of Tarsus <span id="fr_132"></span>[2](#fn_132): it is a
+Demetrius of Tarsus <span id="fr_132"></span>[2](#fn_132.md): it is a
 combination of the ideas of Posidonius with the religious beliefs of the
 mysteries. According to this doctrine, man is composed of body (σῶμα),
 nutritive soul (ψυχή), and reason (νοῦς). The body is made of earth; the
@@ -658,7 +658,7 @@ purification, reascends to its original source, the fount of all light.
 
 This doctrine was adopted by those who regarded the Sun as the principal
 god. But when, as we have explained, <span
-id="fr_133"></span>[1](#fn_133) paganism renounced the view that the Sun
+id="fr_133"></span>[1](#fn_133.md) paganism renounced the view that the Sun
 is the lord of the world, the Prime Cause, and set the Supreme Being
 beyond the limits of the sensible world, enthroning him above the
 planetary spheres in the highest of the heavens, the abode of the blest
@@ -706,7 +706,7 @@ demons and reprobates, with the bright abodes of the gods and the elect.
 examine: *What conception was formed of the bliss reserved for the elect
 who were raised to the stars*?
 
-We have seen ([p. 95](#page_95)) that the mysteries of Bacchus and
+We have seen ([p. 95](#page_95).md) that the mysteries of Bacchus and
 Thracian Orphism represented immortality as a sort of holy intoxication:
 the faithful, sharing the banquet of the gods, rejoiced with them for
 ever at a feast liberally supplied with wine. These beliefs were
@@ -773,7 +773,7 @@ a boundless universe.
 
 ### Footnotes
 
-<span id="fn_104"></span>[93:1](argr11.htm#fr_104) Lucret., III, 37:
+<span id="fn_104"></span>[93:1](argr11.htm#fr_104.md) Lucret., III, 37:
 
 <div style="margin-left: 32px">
 
@@ -782,10 +782,10 @@ Funditus humanam qui vitam turbat ab imo*.
 
 </div>
 
-<span id="fn_105"></span>[94:1](argr11.htm#fr_105) *Poèmes antiques*,
+<span id="fn_105"></span>[94:1](argr11.htm#fr_105.md) *Poèmes antiques*,
 "Dies Irae."
 
-<span id="fn_106"></span>[94:2](argr11.htm#fr_106)
+<span id="fn_106"></span>[94:2](argr11.htm#fr_106.md)
 
 <div style="margin-left: 32px">
 
@@ -798,85 +798,85 @@ And give us back the rest that life hath marred.
 
 </div>
 
-<span id="fn_107"></span>[94:3](argr11.htm#fr_107) Pliny, *Nat. Hist*.,
+<span id="fn_107"></span>[94:3](argr11.htm#fr_107.md) Pliny, *Nat. Hist*.,
 vii, 55, § 188.
 
-<span id="fn_108"></span>[96:1](argr11.htm#fr_108) Corp. Incr. Att., i,
+<span id="fn_108"></span>[96:1](argr11.htm#fr_108.md) Corp. Incr. Att., i,
 442: Αἰθὴρ μὲν ψυχὰς ὑπεδέξατο, σώματα δὲ χθών.
 
-<span id="fn_109"></span>[96:2](argr11.htm#fr_109) See above, Lecture
-II, [p. 23](argr07.htm#page_23) sqq.
+<span id="fn_109"></span>[96:2](argr11.htm#fr_109.md) See above, Lecture
+II, [p. 23](argr07.htm#page_23.md) sqq.
 
-<span id="fn_110"></span>[96:3](argr11.htm#fr_110) Aristoph., *Pax*,
+<span id="fn_110"></span>[96:3](argr11.htm#fr_110.md) Aristoph., *Pax*,
 831.
 
-<span id="fn_111"></span>[96:4](argr11.htm#fr_111) See above, Lecture
-IV, [p. 65](argr09.htm#page_65).
+<span id="fn_111"></span>[96:4](argr11.htm#fr_111.md) See above, Lecture
+IV, [p. 65](argr09.htm#page_65.md).
 
-<span id="fn_112"></span>[97:1](argr11.htm#fr_112) See above, Lecture
-II, [p. 40](argr07.htm#page_40).
+<span id="fn_112"></span>[97:1](argr11.htm#fr_112.md) See above, Lecture
+II, [p. 40](argr07.htm#page_40.md).
 
-<span id="fn_113"></span>[98:1](argr11.htm#fr_113) Kaibel, *Epigr. Gr.*,
+<span id="fn_113"></span>[98:1](argr11.htm#fr_113.md) Kaibel, *Epigr. Gr.*,
 324.
 
-<span id="fn_114"></span>[98:2](argr11.htm#fr_114) Buecheler, *Carmina
+<span id="fn_114"></span>[98:2](argr11.htm#fr_114.md) Buecheler, *Carmina
 Epigr.*, 611.
 
-<span id="fn_115"></span>[99:1](argr11.htm#fr_115) Manil., i, 41.
+<span id="fn_115"></span>[99:1](argr11.htm#fr_115.md) Manil., i, 41.
 
-<span id="fn_116"></span>[99:2](argr11.htm#fr_116) Cic., *Somn. Scip*.,
+<span id="fn_116"></span>[99:2](argr11.htm#fr_116.md) Cic., *Somn. Scip*.,
 c. 3.
 
-<span id="fn_117"></span>[99:3](argr11.htm#fr_117) Herm. Trism. ap.
+<span id="fn_117"></span>[99:3](argr11.htm#fr_117.md) Herm. Trism. ap.
 Stobaeum, *Ecl.*, p. 466, Wachsmuth.
 
-<span id="fn_118"></span>[100:1](argr11.htm#fr_118) Horace, *Odes*, iii,
+<span id="fn_118"></span>[100:1](argr11.htm#fr_118.md) Horace, *Odes*, iii,
 2, 21.
 
-<span id="fn_119"></span>[100:2](argr11.htm#fr_119) See above, Lecture
-V, [p. 83](argr10.htm#page_83).
+<span id="fn_119"></span>[100:2](argr11.htm#fr_119.md) See above, Lecture
+V, [p. 83](argr10.htm#page_83.md).
 
-<span id="fn_120"></span>[102:1](argr11.htm#fr_120) For further details
+<span id="fn_120"></span>[102:1](argr11.htm#fr_120.md) For further details
 see my paper "L’aigle funéraire des Syriens et l’apothéose des
 empereurs" (*Revue de l’histoire des religions*), 1910.
 
-<span id="fn_121"></span>[102:2](argr11.htm#fr_121) Arnob., *Adv. Nat.*,
+<span id="fn_121"></span>[102:2](argr11.htm#fr_121.md) Arnob., *Adv. Nat.*,
 ii, 33, 62 (p. 65, 5; 97, 27, Reifferscheid).
 
-<span id="fn_122"></span>[102:3](argr11.htm#fr_122) Dieterich, *Eine
+<span id="fn_122"></span>[102:3](argr11.htm#fr_122.md) Dieterich, *Eine
 Mithrasliturgie*, 1910, compare my *Oriental Religions* (1911), p. 260.
 
-<span id="fn_123"></span>[103:1](argr11.htm#fr_123) See above, Lecture
-IV, [p. 73](argr09.htm#page_73) ss.
+<span id="fn_123"></span>[103:1](argr11.htm#fr_123.md) See above, Lecture
+IV, [p. 73](argr09.htm#page_73.md) ss.
 
-<span id="fn_124"></span>[104:1](argr11.htm#fr_124) *Tusc. Disp.*, i,
+<span id="fn_124"></span>[104:1](argr11.htm#fr_124.md) *Tusc. Disp.*, i,
 43, § 18.
 
-<span id="fn_125"></span>[104:2](argr11.htm#fr_125) See above, [p.
-100](#page_100), and Lecture V, [p. 83](argr10.htm#page_83).
+<span id="fn_125"></span>[104:2](argr11.htm#fr_125.md) See above, [p.
+100](#page_100), and Lecture V, [p. 83](argr10.htm#page_83.md).
 
-<span id="fn_126"></span>[105:1](argr11.htm#fr_126) Virgil, *Æn.*, vi,
+<span id="fn_126"></span>[105:1](argr11.htm#fr_126.md) Virgil, *Æn.*, vi,
 740.
 
-<span id="fn_127"></span>[105:2](argr11.htm#fr_127) *Jahresb. Inst.
+<span id="fn_127"></span>[105:2](argr11.htm#fr_127.md) *Jahresb. Inst.
 Wien*, xii (1910), p. 213.
 
-<span id="fn_128"></span>[106:1](argr11.htm#fr_128) Kaibel, *Epigramm.
+<span id="fn_128"></span>[106:1](argr11.htm#fr_128.md) Kaibel, *Epigramm.
 Græca*, 650.
 
-<span id="fn_129"></span>[106:2](argr11.htm#fr_129) Haussoullier, *Revue
+<span id="fn_129"></span>[106:2](argr11.htm#fr_129.md) Haussoullier, *Revue
 de philologie*, 1909, p. 6.
 
-<span id="fn_130"></span>[106:3](argr11.htm#fr_130) See above, [p.
-101](#page_101).
+<span id="fn_130"></span>[106:3](argr11.htm#fr_130.md) See above, [p.
+101](#page_101.md).
 
-<span id="fn_131"></span>[107:1](argr11.htm#fr_131) Lucan, i, 45 ss.
+<span id="fn_131"></span>[107:1](argr11.htm#fr_131.md) Lucan, i, 45 ss.
 Stat., *Thebaid*., i, 22.
 
-<span id="fn_132"></span>[107:2](argr11.htm#fr_132) Plut., *De Facie in
+<span id="fn_132"></span>[107:2](argr11.htm#fr_132.md) Plut., *De Facie in
 Orbe Lunae*, c. 26; cf. my *Théologie solaire*, pp. 464, 475.
 
-<span id="fn_133"></span>[108:1](argr11.htm#fr_133) See above, Lecture
+<span id="fn_133"></span>[108:1](argr11.htm#fr_133.md) See above, Lecture
 IV, p. 75.
 
  

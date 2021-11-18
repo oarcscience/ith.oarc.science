@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt25)  [Next](ebt27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt25)  [Next](ebt27.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ priestly class, not admitted until completing
 <span id="img_pl13"></span>
 
 [![XIII. TREES.](tn/pl13.jpg)  
-Click to enlarge](img/pl13.jpg)  
+Click to enlarge](img/pl13.jpg.md)  
 XIII. TREES.  
 
 <table>
@@ -37,7 +37,7 @@ XIII. TREES.
 <span id="img_pl14"></span>
 
 [![PLATE XIV. CAMPS.](tn/pl14.jpg)  
-Click to enlarge](img/pl14.jpg)  
+Click to enlarge](img/pl14.jpg.md)  
 PLATE XIV. CAMPS.  
 
 <table>
@@ -100,4 +100,4 @@ mound.
 
 ------------------------------------------------------------------------
 
-[Next: Hints to Ley Hunters](ebt27)
+[Next: Hints to Ley Hunters](ebt27.md)

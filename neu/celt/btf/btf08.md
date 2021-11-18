@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf07)  [Next](btf09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf07)  [Next](btf09.md) 
 
 ------------------------------------------------------------------------
 
@@ -356,4 +356,4 @@ Paudyeen O'Kelly and the Weasel
 
 ------------------------------------------------------------------------
 
-[Next: Leeam O'Rooney's Burial](btf09)
+[Next: Leeam O'Rooney's Burial](btf09.md)

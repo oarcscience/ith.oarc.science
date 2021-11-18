@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi230)  [Next](mtsi232) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi230)  [Next](mtsi232.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ wheeled about and went back.
 
 ------------------------------------------------------------------------
 
-[Next: 32. The Old Dog Saves His Master](mtsi232)
+[Next: 32. The Old Dog Saves His Master](mtsi232.md)

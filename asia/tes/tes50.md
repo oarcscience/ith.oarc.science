@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes49)  [Next](tes51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes49)  [Next](tes51.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ peck at the berries safely hidden under the snow. At last summer came.
 The ice in the rivers broke up and then came all kinds of birds, large
 and small. The birds alighted on the lakes, rivers and sea. On the shore
 of a lake, in thick grass, lived a toad, which was a transformed girl,
-the daughter of a prince, etc. <span id="fr_81"></span>[1](#fn_81)
+the daughter of a prince, etc. <span id="fr_81"></span>[1](#fn_81.md)
 
 Told by Nicholas Kusakoff, a Russian creole, in the village of Pokhotsk,
 the Kolyma country, summer of 1896.
@@ -63,7 +63,7 @@ the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_81"></span>[105:1](tes50.htm#fr_81) This pretty tale is
+<span id="fn_81"></span>[105:1](tes50.htm#fr_81.md) This pretty tale is
 used as a kind of introduction to the well-known story of a young prince
 who married the transformed Toad-Girl: I omit the story itself, however,
 which treats throughout of princes and princesses, and has nothing
@@ -71,4 +71,4 @@ whatever to do with the life of northeastern Asia.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 30. A Christmas Story](tes51)
+[Next: 30. A Christmas Story](tes51.md)

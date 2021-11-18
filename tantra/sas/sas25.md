@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas24)  [Next](sas26)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas24)  [Next](sas26.md)  
 
 ------------------------------------------------------------------------
 
@@ -179,4 +179,4 @@ worshipper.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Twenty-six: Shakta Sadhana (The Ordinary Ritual)](sas26)
+Next: [Chapter Twenty-six: Shakta Sadhana (The Ordinary Ritual)](sas26.md)

@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc26)  [Next](crc28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc26)  [Next](crc28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ teats, and he asked her for a drink. She gave him milk from a teat.
 
 'He will be whole who has brought it(?),' said Cuchulainn; 'the
 blessings of gods and non-gods on you,' said he. (Gods with them were
-the Mighty Folk; <span id="fr_77"></span>[1](#fn_75) non-gods the people
+the Mighty Folk; <span id="fr_77"></span>[1](#fn_75.md) non-gods the people
 of husbandry.)
 
 Then her head was healed so that it was whole.
@@ -52,19 +52,19 @@ story in the Foray.
 
 It is there that Fergus claimed of his securities that faith should not
 be broken with Cuchulainn; and it is there that Cuchulainn … <span
-id="fr_78"></span>[1](#fn_76) *i.e.* Delga Murthemne at that time.
+id="fr_78"></span>[1](#fn_76.md) *i.e.* Delga Murthemne at that time.
 
 Then Cuchulainn killed Fota in his field; Bomailce on his ford; Salach
 in his village (?); Muine in his hill; Luair in Leth-bera; Fer-Toithle
 in Toithle; these are the names of these lands for ever, every place in
 which each man of them fell. Cuchulainn killed also Traig and Dornu and
 Dernu, Col and Mebul and Eraise on this side of Ath Tire Moir, at Methe
-and Cethe: these were three <span id="fr_79"></span>[2](#fn_77) druids
+and Cethe: these were three <span id="fr_79"></span>[2](#fn_77.md) druids
 and their three wives.
 
 Then Medb sent a hundred men of her special retinue to kill Cuchulainn.
 He killed them all on Ath Ceit-Chule. Then Medb said: 'It is
-*cuillend* <span id="fr_80"></span>[3](#fn_78) to us, the slaying of our
+*cuillend* <span id="fr_80"></span>[3](#fn_78.md) to us, the slaying of our
 people.' Hence is Glass Chrau and Cuillend Cind Duin and Ath Ceit-Chule.
 
 Then the four provinces of Ireland took camp and fortified post in the
@@ -130,7 +130,7 @@ where Cuchulainn was, he spoke to him, and had pity on him for it.
 heavy, it were high time that I should be healed.'
 
 'Sleep a little, O Cuchulainn,' said the warrior; your heavy swoon <span
-id="fr_81"></span>[1](#fn_79) (?) of sleep at the mound of Lerga till
+id="fr_81"></span>[1](#fn_79) (?.md) of sleep at the mound of Lerga till
 the end of three days and three nights, and I will fight against the
 hosts for that space.'
 
@@ -138,7 +138,7 @@ Then he sings the *ferdord* to him, and he sleeps from it. Lug looked at
 each wound that it was clean. Then Lug said:
 
 'Arise, O great son of the Ulstermen, whole of thy wounds.… Go into thy
-chariot secure. Arise, arise!' <span id="fr_82"></span>[2](#fn_80)
+chariot secure. Arise, arise!' <span id="fr_82"></span>[2](#fn_80.md)
 
 For three days and three nights Cuchulainn was asleep. It were right
 indeed though his sleep equalled his weariness. From the Monday after
@@ -183,26 +183,26 @@ chief assemblies of Ireland.
 
 ### Footnotes
 
-<span id="fn_75"></span>[81:1](crc27.htm#fr_77) *i.e.* the dwellers in
+<span id="fn_75"></span>[81:1](crc27.htm#fr_77.md) *i.e.* the dwellers in
 the Sid. The words in brackets are a gloss incorporated in the text.
 
-<span id="fn_76"></span>[82:1](crc27.htm#fr_78) Corrupt; one and a half
+<span id="fn_76"></span>[82:1](crc27.htm#fr_78.md) Corrupt; one and a half
 lines.
 
-<span id="fn_77"></span>[82:2](crc27.htm#fr_79) MS. 'two.'
+<span id="fn_77"></span>[82:2](crc27.htm#fr_79.md) MS. 'two.'
 
-<span id="fn_78"></span>[82:3](crc27.htm#fr_80) Interlinear gloss: 'We
+<span id="fn_78"></span>[82:3](crc27.htm#fr_80.md) Interlinear gloss: 'We
 deem it a crime.'
 
-<span id="fn_79"></span>[84:1](crc27.htm#fr_81) Conjectural—MS.
+<span id="fn_79"></span>[84:1](crc27.htm#fr_81.md) Conjectural—MS.
 *tromthortim*.
 
-<span id="fn_80"></span>[84:2](crc27.htm#fr_82) Rhetoric.
+<span id="fn_80"></span>[84:2](crc27.htm#fr_82.md) Rhetoric.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Death of the Boys (second version)](crc28)
+[Next: The Death of the Boys (second version)](crc28.md)
 
 </div>

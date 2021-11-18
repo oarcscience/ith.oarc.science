@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd06)  [Next](htd08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd06)  [Next](htd08.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ one that has loitered on the hills in the season of the rains, the noise
 of the murmur of her voice hangs like that of water in my ear, and mixes
 with the silence of the wood. O! there is magic in the music of her
 voice, for it is low, and sweeter than honey <span
-id="fr_23"></span>[k](#fn_23), and carries in it whispers that snare and
+id="fr_23"></span>[k](#fn_23.md), and carries in it whispers that snare and
 
 <span id="page_29">p. 29</span>
 
@@ -73,10 +73,10 @@ she should not reappear.
 
 ### Footnotes
 
-<span id="fn_23"></span>[28:k](htd07.htm#fr_23) Kalidas, who was a judge
-in these matters, resembled [Shakspeare](errata.htm#0) in his love for
+<span id="fn_23"></span>[28:k](htd07.htm#fr_23.md) Kalidas, who was a judge
+in these matters, resembled [Shakspeare](errata.htm#0.md) in his love for
 the low and gentle voice (*walguwák*)
 
 ------------------------------------------------------------------------
 
-[Next: Champak](htd08)
+[Next: Champak](htd08.md)

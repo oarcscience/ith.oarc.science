@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis13)  [Next](kis15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis13)  [Next](kis15.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ where he went.
 
 ------------------------------------------------------------------------
 
-[Next: Part XV](kis15)
+[Next: Part XV](kis15.md)

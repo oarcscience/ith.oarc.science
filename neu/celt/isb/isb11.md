@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb10)  [Next](isb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb10)  [Next](isb12.md) 
 
 ------------------------------------------------------------------------
 
@@ -244,4 +244,4 @@ buttermilk. Well, well! salmon is good, and whiskey is good too.
 
 ------------------------------------------------------------------------
 
-[Next: Killarney--The Races--Muckross](isb12)
+[Next: Killarney--The Races--Muckross](isb12.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](afr200-2)  [Next](alienaut) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](afr200-2)  [Next](alienaut.md) 
 
 ### Ancient Indian Aircraft Technology
 
@@ -274,4 +274,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: Alien Autopsy FAQ](alienaut)
+[Next: Alien Autopsy FAQ](alienaut.md)

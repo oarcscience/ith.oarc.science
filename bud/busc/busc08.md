@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc07)  [Next](busc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc07)  [Next](busc09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -104,6 +104,6 @@ Of natural things all the effects and causes.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Beginning of Buddha's Preaching](busc09)
+[Next: VI. The Beginning of Buddha's Preaching](busc09.md)
 
 </div>

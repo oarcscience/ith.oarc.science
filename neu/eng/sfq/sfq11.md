@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq10)  [Next](sfq12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq10)  [Next](sfq12.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_02600"></span>
 
 [![](tn/02600.jpg)  
-Click to enlarge](img/02600.jpg)
+Click to enlarge](img/02600.jpg.md)
 
 ### The House of Pride
 
@@ -227,4 +227,4 @@ forth lavishly of his abundance to all; and then the chamberlain,
 
 ------------------------------------------------------------------------
 
-[Next: The Battle for the Shield](sfq12)
+[Next: The Battle for the Shield](sfq12.md)

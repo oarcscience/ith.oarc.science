@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml15)  [Next](iml17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml15)  [Next](iml17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ looked down with delight, and Vidura, sitting on the left side, informed
 the sightless king of all that took place.
 
 The princes shot arrows at targets, first on foot and then mounted on
-rapid steeds, <span id="fr_230"></span>[1](#fn_229) displaying great
+rapid steeds, <span id="fr_230"></span>[1](#fn_229.md) displaying great
 skill; they also rode on elephants and in chariots, and their arrows
 ever flew with unerring aim.
 
@@ -141,7 +141,7 @@ fire by the *Agneya* weapon, water by the *Varuna* weapon, wind by the
 *Vayavya* weapon, clouds by the *Paryanya* weapon, land by the *Bhanma*
 weapon, and he caused mountains to appear by the *Parvatya* weapon. Then
 by the *Antardhyana* weapon he caused all these to vanish. <span
-id="fr_231"></span>[1](#fn_230)
+id="fr_231"></span>[1](#fn_230.md)
 
 Arjuna then set up for his target an iron image of
 
@@ -256,7 +256,7 @@ her eyes, and, uttering a low cry, she swooned where she sat. Vidura
 sprinkled water on her face, and she was revived. Then she wept bitterly
 because that she could not reveal the secret of Karna's birth.
 
-Kripa, <span id="fr_232"></span>[1](#fn_231) the foster-brother of
+Kripa, <span id="fr_232"></span>[1](#fn_231.md) the foster-brother of
 Bhishma, performed the duties of herald, and as Arjuna strode forth to
 combat he proclaimed: "Behold! this is mighty Arjuna, of Bharata's great
 line, son of Pandu and of Pritha, a prince of valour and worth who will
@@ -353,17 +353,17 @@ greatest hero in the world of men.
 
 ### Footnotes
 
-<span id="fn_229"></span>[187:1](iml16.htm#fr_230) Like the Parthians,
+<span id="fn_229"></span>[187:1](iml16.htm#fr_230.md) Like the Parthians,
 the ancient Hindus were expert archers on horseback.
 
-<span id="fn_230"></span>[188:1](iml16.htm#fr_231) This is a notable
+<span id="fn_230"></span>[188:1](iml16.htm#fr_231.md) This is a notable
 example of the characteristic exaggerations of late Brahmanical
 compilers. Other exaggerations are of milder form.
 
-<span id="fn_231"></span>[192:1](iml16.htm#fr_232) Kripa, like Drona,
+<span id="fn_231"></span>[192:1](iml16.htm#fr_232.md) Kripa, like Drona,
 was of miraculous birth. He and his sister were found in a forest, and
 were adopted by King Shantanu.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. First Exile of the Pandavas](iml17)
+[Next: Chapter XII. First Exile of the Pandavas](iml17.md)

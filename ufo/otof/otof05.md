@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof04)  [Next](otof06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof04)  [Next](otof06.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ Thus, in the last half of the nineteenth century, Universal Truth made a
 valiant attempt to penetrate the mind of Man before the Great Age of
 Materialism set in with the advent of the colossal Machine Age. Men like
 Brown Landone, and Flournoy, who wrote *From India To The Planet Mars*,
-[contributed](errata.htm#1) greatly to this expanding program under the
+[contributed](errata.htm#1.md) greatly to this expanding program under the
 influence of space intelligences. Even John Jacob Astor got in the plan
 and wrote about the coining electrically governed world and
 interplanetary travel in 1897.
@@ -95,7 +95,7 @@ searchlight flooded the whole city with light from this aerial monster
 which with the velocity of an eagle darted up and away. Power source
 must have been attached to the light for it dimmed as the ship went up
 and away. On observer states that there seemed to be a basket or car
-beneath a great dark object thought to be a gas [bag](errata.htm#2)
+beneath a great dark object thought to be a gas [bag](errata.htm#2.md)
 overhead . . . car was shaped like a canoe and had four wings, two on
 each side, fore and aft . . . light was greenish or blue against the
 light of a locomotive in the rail yard that was yellowish. Colored
@@ -238,7 +238,7 @@ and other years, there were
 <span id="page_19">p. 19</span>
 
 amazing observances in Texas. The same old story, isn't it? Thousands of
-[people](errata.htm#3) in America observed this gigantic space ship . .
+[people](errata.htm#3.md) in America observed this gigantic space ship . .
 . authorities called it Venus or Alpha Orionis, or a balloon. A balloon
 that couldn't go against the wind, yet the "airship" did just that.
 Notice where the report says: "Scientific minds have explained the whole
@@ -343,7 +343,7 @@ others different than himself. Man made boundaries, man made creeds and
 ideals, man made religious groups, man made doctrine and dogma, man
 made, man made. There is nothing wrong with religion, it's what man has
 done to and with it that's so pitiful. Science is the twin-sister
-[of](errata.htm#4) religion . . . truth cannot contradict truth, and
+[of](errata.htm#4.md) religion . . . truth cannot contradict truth, and
 there is no religion higher than Truth. The worship of the Creator and
 the study of His laws, causes and effects; of nature and the great
 powers waiting for discovery within her bosom . . . all these should be
@@ -432,7 +432,7 @@ in the ever upward, spiraling climb toward divinity and the Father.
 
 The Elder Brother, Jesus, said: "Know ye not that ye are Gods?" Man will
 wake up to this fact, and will leave the pupa of ignorance,
-[superstition](errata.htm#5), dogma, orthodoxy, etc., to emerge as a
+[superstition](errata.htm#5.md), dogma, orthodoxy, etc., to emerge as a
 "Son of God", claiming his rightful place in the divine scheme of
 things. Man is a co-creator with the Father, but he fails to recognize
 this great truth.
@@ -492,4 +492,4 @@ daughter of time, not of authority."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. The Grand Man](otof06)
+[Next: Chapter 2. The Grand Man](otof06.md)

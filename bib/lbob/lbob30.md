@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob29)  [Next](lbob31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob29)  [Next](lbob31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -27,7 +27,7 @@ the mysterious town of Akhmîm. It was called Panopolis in ancient times
 when it was the capital of the district. The remnants of monasteries and
 the ruins of temples mark the intellectual life of a former day.
 
-In 1888, the French [Archæological](errata.htm#15) Mission excavating in
+In 1888, the French [Archæological](errata.htm#15.md) Mission excavating in
 the grave of a monk, came upon a parchment codex. Six years later a
 translation of this was published in the Memoirs of the French
 Archæological Mission at Cairo. Scholars realized for the first time
@@ -241,6 +241,6 @@ there was with us Levi the son of Alphæus, whom the Lord . . .
 
 ------------------------------------------------------------------------
 
-[Next: Table I.](lbob31)
+[Next: Table I.](lbob31.md)
 
 </div>

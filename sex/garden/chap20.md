@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap19) 
-[Next](appendix) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap19.md) 
+[Next](appendix.md) 
 
 ------------------------------------------------------------------------
 
@@ -487,4 +487,4 @@ should not be resorted to in summer.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](appendix)
+[Next: Appendix](appendix.md)

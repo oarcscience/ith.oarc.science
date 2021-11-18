@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Next](sib01) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Next](sib01.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ Paganism](../index)  [Index](index)  [Next](sib01) 
 
 ------------------------------------------------------------------------
 
-[Next: Preface](sib01)
+[Next: Preface](sib01.md)

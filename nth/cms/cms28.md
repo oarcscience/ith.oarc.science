@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cms27)  [Next](cms29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cms27)  [Next](cms29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ believe, and none until they believe.
 
 ------------------------------------------------------------------------
 
-[Next: Transcending Previous Conditions](cms29)
+[Next: Transcending Previous Conditions](cms29.md)

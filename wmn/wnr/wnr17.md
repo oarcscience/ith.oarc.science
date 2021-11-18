@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr16)  [Next](wnr18) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr16)  [Next](wnr18.md) 
 
 ------------------------------------------------------------------------
 
@@ -264,4 +264,4 @@ consciously toward her goal.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. Why Not Birth Control Clinics in America?](wnr18)
+[Next: XVI. Why Not Birth Control Clinics in America?](wnr18.md)

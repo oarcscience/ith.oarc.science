@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vrb08)  [Next](vrb10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vrb08)  [Next](vrb10.md) 
 
 ------------------------------------------------------------------------
 
@@ -890,4 +890,4 @@ Let us go forth to walk in darkness and in light.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eight: Rites of Passage](vrb10)
+[Next: Chapter Eight: Rites of Passage](vrb10.md)

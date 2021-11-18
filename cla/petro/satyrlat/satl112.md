@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat14.htm#CXII) 
-[Previous](satl111)  [Next](satl113) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat14.htm#CXII.md) 
+[Previous](satl111)  [Next](satl113.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ miratus est qua ratione mortuus isset in crucem."
 
 ------------------------------------------------------------------------
 
-[Next: CXIII](satl113)
+[Next: CXIII](satl113.md)

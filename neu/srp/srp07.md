@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srp06)  [Next](srp08) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srp06)  [Next](srp08.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ but on whose present existence he does not place implicit reliance.
 Of these apparently mythic personages, who play important parts in the
 *Skazki*, or popular tales, the most prominent is the Yagá Bába, or, to
 use the more popular form of her name, Bába Yaga <span
-id="fr_123"></span>[3](#fn_123). She is a supernatural being, who is
+id="fr_123"></span>[3](#fn_123.md). She is a supernatural being, who is
 generally represented under the form of a hideous old woman, very tall
 in stature, very bony of limb, with an excessively long nose, and with
 dishevelled hair. Her nose is sometimes described as being of iron, as
@@ -86,7 +86,7 @@ The White-Russians, for instance, affirm that "Death gives the dead to
 the Baba Yaga, with whom she often goes prowling about. And that the
 Baba Yaga and her subordinate witches feed on the souls of people, and
 by that means become as light as spirits <span
-id="fr_124"></span>[4](#fn_124)."
+id="fr_124"></span>[4](#fn_124.md)."
 
 In some places, when the wind bows down the ears of corn the peasants
 say that the Baba Yaga is running after children, with the intention of
@@ -138,9 +138,9 @@ casket, and in the casket is a hare, and in the hare is a duck, and in
 the duck is an egg, and in the egg is my death." And when, after many
 adventures, the egg has been found and broken, Koshchei dies; he being
 "the Giant who had no heart in his body" of the Norse Tale <span
-id="fr_125"></span>[5](#fn_125), the Deccan Punchkin <span
-id="fr_126"></span>[6](#fn_126), the Witch of the German story <span
-id="fr_127"></span>[7](#fn_127). Like the Baba Yaga, Koshchei is, in the
+id="fr_125"></span>[5](#fn_125.md), the Deccan Punchkin <span
+id="fr_126"></span>[6](#fn_126.md), the Witch of the German story <span
+id="fr_127"></span>[7](#fn_127.md). Like the Baba Yaga, Koshchei is, in the
 opinion of the mythologists, one of the many forms in which is
 personified the Evil Spirit who wars against sunlight and fair weather,
 and who
@@ -254,7 +254,7 @@ right up to the sky, and into the room
 <span id="page_170">p. 170</span>
 
 of the Sun's Sister. But the Witch-Snake remained there on earth, <span
-id="fr_128"></span>[8](#fn_128)".
+id="fr_128"></span>[8](#fn_128.md)".
 
 How little is known precisely about such witches is plainly shown by the
 variety of explanations which this story has called forth. Investigators
@@ -296,7 +296,7 @@ soul." "It isn't yours," says the Moon; but Death perseveres in her
 claim. At last the Moon takes the man by the head, while Death seizes
 him by the feet, on which he shoots up into the air, and becomes "a star
 which may be seen in the sky near the Moon <span
-id="fr_129"></span>[9](#fn_129)."
+id="fr_129"></span>[9](#fn_129.md)."
 
 Somewhat of the same kind also is the Bulgarian story in which the Sun
 falls in love with the fair maiden Grozdanka. So on St. George's day he
@@ -304,7 +304,7 @@ lets down from heaven a golden swing, which remains suspended close by
 her house. Small and great swing away in it, till at last Grozdanka
 steps into it. But no sooner has she done so than the golden swing flies
 up to heaven, and bears the maiden \[as the eagle bore Ganymede\] to her
-radiant lover <span id="fr_130"></span>[1](#fn_130).
+radiant lover <span id="fr_130"></span>[1](#fn_130.md).
 
 In. the story of "Truth's Triumph," in Miss Frere's Old Deccan Days"
 \[p. 50\], much evil is wrought
@@ -332,7 +332,7 @@ the room which the Prince is forbidden to enter, there a fettered
 serpent meets the eye. The mythical being who chases her brother up to
 the home of the Sun's Sister is spoken of as a human witch until the end
 of the story, but then she is called the "Witch-Snake <span
-id="fr_131"></span>[2](#fn_131)."
+id="fr_131"></span>[2](#fn_131.md)."
 
 <span id="page_173">p. 173</span>
 
@@ -352,7 +352,7 @@ said to have stolen the luminaries of the Right. A hero cuts off its
 head, and out from the slain monster issue "the Bright Moon and the
 Morning Stars;" and in another the Bear and the "Ocean Monster" carry
 off the Beautiful Princesses Luna and Zvyezda \[Star\] <span
-id="fr_132"></span>[3](#fn_132). But it is generally a mortal maiden
+id="fr_132"></span>[3](#fn_132.md). But it is generally a mortal maiden
 with whom he elopes, and whom he retains much against her will. From
 such unions spring heroes of magic powers, such as Tugarin Zmyeevich,
 and Volkh Yseslav'evich, of whom more will be said hereafter, and also
@@ -382,7 +382,7 @@ spell by a kiss, and the serpent turns into a handsome prince, who
 marries his rescuer; that is, says Afanasief, the hot breath of the
 Goddess of Spring recalls Perun to life, and brings about a union
 fraught with happy consequences to the earth <span
-id="fr_133"></span>[4](#fn_133).
+id="fr_133"></span>[4](#fn_133.md).
 
 <span id="page_175">p. 175</span>
 
@@ -451,7 +451,7 @@ tries his strength against the Snake. When he and the Snake grasp each
 other's hands, his hand "only turns blue," but the snake's is broken
 off. A mortal combat ensues, in which he kills the Snake, and afterwards
 he obtains the water of life, and resuscitates his dead brothers <span
-id="fr_134"></span>[5](#fn_134).
+id="fr_134"></span>[5](#fn_134.md).
 
 In a Croatian variant of this story the Snake is replaced by the Devil,
 *Vrag*,--a word compared by Grimm with the Old High-German *warg*, a
@@ -506,7 +506,7 @@ He touched his young wife with his left foot--
 From his sleep arose Sadko.  
 He found himself under \[the walls of\] Novgorod,  
 And his left foot was in the river Volkhof <span
-id="fr_135"></span>[6](#fn_135).
+id="fr_135"></span>[6](#fn_135.md).
 
 In one of the prose stories a king, whom the chase has rendered athirst,
 lies down flat on the ground and drinks of the cool waters of a lake.
@@ -542,7 +542,7 @@ receives him angrily, and sets him various difficult tasks, one of which
 is "to build a church of pure wax;" but he performs them all, thanks to
 the aid of Vassilissa and the ants, the bees, and others of her "trusty
 servants," and eventually he becomes her husband <span
-id="fr_136"></span>[7](#fn_136).
+id="fr_136"></span>[7](#fn_136.md).
 
 The Water-King's daughters, who in this story take the shape of pigeons,
 often appear under the forms of ducks, geese, or swans. The pigeon was
@@ -588,7 +588,7 @@ flies away and does not return. Her husband's mother calls to her to
 come back, asking who is to feed her child and rock its cradle. To which
 she replies that if it cries for food she will "suckle it with copious
 dew;" if it wishes to be lulled to sleep, she will "rock its cradle with
-a gentle breeze <span id="fr_137"></span>[8](#fn_137)."
+a gentle breeze <span id="fr_137"></span>[8](#fn_137.md)."
 
 Somewhat akin to the story of how the Tsar Morskoi demanded from the
 king his son, is that which tells how another king had to give up both
@@ -607,7 +607,7 @@ however, a bull-calf succeeds in carrying them off safely. Acting on its
 directions the royal children consume it with fire, and from its ashes
 spring a horse, a dog, and an apple-tree, all of which play important
 parts in the second half of the story <span
-id="fr_138"></span>[9](#fn_138).
+id="fr_138"></span>[9](#fn_138.md).
 
 The bear \[*Medvyed*\] is a well-known symbol of the thunder, said to be
 chosen partly on account of its fondness for honey \[*Med*, which, in
@@ -622,7 +622,7 @@ Poucet, is generally known as the Malchik-s-Palchik, the boy
 \[*palets*, dim. *pal'chik*\], or as *Mizinchik* \[dim. of *Mizinets*,
 the little finger\], just as the Old-Prussian name for a dwarf was
 *Parstuck*, from the Lithuanian *pirsztas*, a finger <span
-id="fr_139"></span>[1](#fn_139). Sometimes, however, as in the story
+id="fr_139"></span>[1](#fn_139.md). Sometimes, however, as in the story
 alluded to, he is called Mujichok-s-Kulachok, the little Mujik as big as
 a fist \[our Pygmy, Kulak = πυγμή\], or Mujichok-s-Nogotok,
 Boroda-s-Lokotok, the little Mujik as big as a finger-nail, with a beard
@@ -647,7 +647,7 @@ propounded on the subject by the Russian mythologists. This is not the
 place for a discussion of the sources from which are derived the stories
 and metrical romances current in Russia, nor for an investigation of
 their age; but it may be stated here that while some critics look on
-them as [decidedly](errata.htm#1) ancient, and regard them as the medium
+them as [decidedly](errata.htm#1.md) ancient, and regard them as the medium
 through which the west of Europe has obtained much of its popular
 fiction, there are others who hold that those divisions of Russian
 folk-lore are comparatively modern. What is certain is that they have
@@ -684,67 +684,67 @@ the Russian people.
 
 ### Footnotes
 
-<span id="fn_123"></span>[161:3](srp07.htm#fr_123) *Baba* stands for
+<span id="fn_123"></span>[161:3](srp07.htm#fr_123.md) *Baba* stands for
 "woman;" the meaning of the word *Yaga* (the accent falls on the second
 syllable) is uncertain.
 
-<span id="fn_124"></span>[163:4](srp07.htm#fr_124) Afanasief, *Skazki*,
+<span id="fn_124"></span>[163:4](srp07.htm#fr_124.md) Afanasief, *Skazki*,
 I. 120. It has already been observed that the Slavonians always
 represented Death as a female being, the word representing death in each
 of the Slavonic languages--in Russian *Smert'*--being of the feminine
 gender.
 
-<span id="fn_125"></span>[165:5](srp07.htm#fr_125) Dasent's "Tales from
+<span id="fn_125"></span>[165:5](srp07.htm#fr_125.md) Dasent's "Tales from
 the Norse," p. 76.
 
-<span id="fn_126"></span>[165:6](srp07.htm#fr_126) Miss Frere's "Old
+<span id="fn_126"></span>[165:6](srp07.htm#fr_126.md) Miss Frere's "Old
 Deccan Days," p. 13.
 
-<span id="fn_127"></span>[165:7](srp07.htm#fr_127) Haltrich's *Deutsche
+<span id="fn_127"></span>[165:7](srp07.htm#fr_127.md) Haltrich's *Deutsche
 Volksmärchen aus dem Sachsenlande in Siebenbürgen*, p. 188.
 
-<span id="fn_128"></span>[170:8](srp07.htm#fr_128) Afanasief, *Skazki*,
+<span id="fn_128"></span>[170:8](srp07.htm#fr_128.md) Afanasief, *Skazki*,
 VI. 57, p. 283.
 
-<span id="fn_129"></span>[171:9](srp07.htm#fr_129) Afanasief, P. V. S.
+<span id="fn_129"></span>[171:9](srp07.htm#fr_129.md) Afanasief, P. V. S.
 III. 274.
 
-<span id="fn_130"></span>[171:1](srp07.htm#fr_130) Afanasief, *Skazki*,
+<span id="fn_130"></span>[171:1](srp07.htm#fr_130.md) Afanasief, *Skazki*,
 VIII. 380.
 
-<span id="fn_131"></span>[172:2](srp07.htm#fr_131) "In process of time"
+<span id="fn_131"></span>[172:2](srp07.htm#fr_131.md) "In process of time"
 (says Mr. Talboys Wheeler, speaking of the "Scythic Nágas," in his
 History of India, I. 147)" these <span id="page_173">p. 173</span> Nágas
 became identified with serpents, and the result has been a strange
 confusion in the ancient myths between serpents and human beings."
 
-<span id="fn_132"></span>[173:3](srp07.htm#fr_132) Afanasief, P. V. S.
+<span id="fn_132"></span>[173:3](srp07.htm#fr_132.md) Afanasief, P. V. S.
 II. 535.
 
-<span id="fn_133"></span>[174:4](srp07.htm#fr_133) See Grimm *Deutsche
+<span id="fn_133"></span>[174:4](srp07.htm#fr_133.md) See Grimm *Deutsche
 Sagen*, I. 13.
 
-<span id="fn_134"></span>[177:5](srp07.htm#fr_134) Afanasief, Skazki,
+<span id="fn_134"></span>[177:5](srp07.htm#fr_134.md) Afanasief, Skazki,
 III. 2, pp. 6-15.
 
-<span id="fn_135"></span>[179:6](srp07.htm#fr_135) Kirsha Danilof, 343.
+<span id="fn_135"></span>[179:6](srp07.htm#fr_135.md) Kirsha Danilof, 343.
 
-<span id="fn_136"></span>[180:7](srp07.htm#fr_136) Afanasief, *Skazki*,
+<span id="fn_136"></span>[180:7](srp07.htm#fr_136.md) Afanasief, *Skazki*,
 VI. 48, pp. 205-21.3. The story is a Slavonic counterpart of the tales
 *De beiden Künigeskinner, Kinderund Hausmärchen*, 13) and "The
 Mastermaid," (Dasent's Norse Tales, p. 81), but the Tsar Morskoi has
 more individuality than the German king or the Norse giant.
 
-<span id="fn_137"></span>[182:8](srp07.htm#fr_137) For a detailed
+<span id="fn_137"></span>[182:8](srp07.htm#fr_137.md) For a detailed
 account of "Swan-Maidens," see Baring-Gould's "Curious Myths," etc.,
 Second Series, p. 296.
 
-<span id="fn_138"></span>[183:9](srp07.htm#fr_138) As in that of "Katie
+<span id="fn_138"></span>[183:9](srp07.htm#fr_138.md) As in that of "Katie
 Wooden-cloak," in Dasent's Norse Tales, p. 420.
 
-<span id="fn_139"></span>[183:1](srp07.htm#fr_139) *Deutsche
+<span id="fn_139"></span>[183:1](srp07.htm#fr_139.md) *Deutsche
 Mythologie*, 419.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Mythic And Ritual Songs](srp08)
+[Next: Chapter III: Mythic And Ritual Songs](srp08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi001)  [Next](mtsi003) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi001)  [Next](mtsi003.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,16 +61,16 @@ This list was communicated to me before I had collected all of the
 Natchez stories here given and it is, therefore, defective. It is of
 value only as indicating that such a distinction was made. It is
 surprising that such tales as "The Bungling Host" and "The Wolves and
-the Fawn" should be included. <span id="fr_0"></span>[1](#fn_0)
+the Fawn" should be included. <span id="fr_0"></span>[1](#fn_0.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](mtsi002.htm#fr_0) Some of the stories
+<span id="fn_0"></span>[2:1](mtsi002.htm#fr_0.md) Some of the stories
 included in this bulletin were printed in The Journal of American
 Folk-Lore, vol. xxvi, no. ci, 1913.
 
 ------------------------------------------------------------------------
 
-[Next: 1. How Day And Night Were Divided](mtsi003)
+[Next: 1. How Day And Night Were Divided](mtsi003.md)

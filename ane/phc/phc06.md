@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](phc05)  [Next](phc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](phc05)  [Next](phc07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philistines*, by R.A.S. Macalister, \[1913\], at Intangible Textual
 Heritage
 
@@ -73,7 +73,7 @@ themselves to the Syrian league, so that in 734 B.C. Tiglath-Pileser
 came up with the special purpose of sacking Gaza. Ḫanunu, the king of
 Gaza, fled to Sebako, king of Egypt; but he afterwards returned and,
 having made submission, was received with favour. <span
-id="fr_88"></span>[1](#fn_88)
+id="fr_88"></span>[1](#fn_88.md)
 
 Some four years earlier Mitinti, king of Ashkelon, had revolted,
 trusting to the support of Rezon. But the death of Rezon so terrified
@@ -92,7 +92,7 @@ brother Aḫimiti. An attempt was made by the Philistines—Sargon's scribe
 calls them Hittites—to substitute one Yamani, who had no claim to the
 throne. But this bold usurper fled to the land of Meluḫḫa in N. Arabia
 when Sargon was on his way to the city. <span
-id="fr_89"></span>[1](#fn_89) These operations of Sargon against Ashdod
+id="fr_89"></span>[1](#fn_89.md) These operations of Sargon against Ashdod
 are referred to in a note of time in Isaiah xx. 1.
 
 The next king, Sennacherib (705–681), had trouble with the remnant of
@@ -121,7 +121,7 @@ xviii. 14).
 <span class="contnote">\[paragraph continues\]</span> Sennacherib then
 cut off some of the territory of Judah and divided it among his vassals,
 Mitinti, king of Ashdod, Padi the restored king of Ekron, and Zilbel,
-king of Gaza. <span id="fr_90"></span>[1](#fn_90)
+king of Gaza. <span id="fr_90"></span>[1](#fn_90.md)
 
 Sennacherib was assassinated in 681, and his son Esarhaddon (681–668)
 reigned in his stead. In the lists of kings in subjection to this
@@ -131,7 +131,7 @@ heard before. Padi has disappeared from Ekron, and to him has succeeded
 a king with the old Philistine name of Ikausu (= Achish). On the other
 hand a king with the Semitic name of Aḫimilki (Ahimelech) is king of
 Ashdod. All these kings survived into the reign of Assurbanipal, who
-began to reign in 668. <span id="fr_91"></span>[2](#fn_91)
+began to reign in 668. <span id="fr_91"></span>[2](#fn_91.md)
 
 According to Jeremiah xlvii. 1 (not the Greek Version) 'Pharaoh smote
 Gaza' in the time of that prophet. This most likely was Necho, on his
@@ -144,7 +144,7 @@ It is a possible, but not a convincing,
 <span id="page_66">p. 66</span>
 
 hypothesis, that Kadytis may represent some form of the name of
-Gaza. <span id="fr_92"></span>[1](#fn_92)
+Gaza. <span id="fr_92"></span>[1](#fn_92.md)
 
 Here the Assyrian records leave us. We have, however, one more Biblical
 reference, in the last paragraph of the book of Nehemiah, which is of
@@ -154,7 +154,7 @@ to establish an exclusive theocratic state in accordance with the
 priestly legislation; when the leader was dismayed to discover certain
 Jews who had married women of Ashdod, of Ammon, and of Moab, the very
 communities that had put so many obstacles in the way of the work of
-restoration. <span id="fr_93"></span>[2](#fn_93) Not only so, but there
+restoration. <span id="fr_93"></span>[2](#fn_93.md) Not only so, but there
 were already children; and as is usual in such cases of mixed marriage,
 these children spoke the language of their mothers only. Nehemiah
 indulged in a passionate display of temper, treating the culprits with
@@ -221,7 +221,7 @@ people is none other than the mighty nation of the Philistines.
 
 ### Footnotes
 
-<span id="fn_88"></span>[63:1](phc06.htm#fr_88) . . . The town of . . .
+<span id="fn_88"></span>[63:1](phc06.htm#fr_88.md) . . . The town of . . .
 over the land Beth-Omri . . . I cast its whole extent under the rule of
 Assyria: I put my officials as lieutenants over it. Ḫanunu of Gaza fled
 before my arms, and escaped to Egypt. Gaza I plundered, its possessions
@@ -232,7 +232,7 @@ set him again to his place.'—*Keilinschriftliche Bibliothek*, ii, pp.
 32, 33; Schrader, *Keilinschriften*<sup>3</sup>, p. 56. See also Rost,
 *Keilinschr. Tiglath-Pilesers*, p. 78.
 
-<span id="fn_89"></span>[64:1](phc06.htm#fr_89) 'Azuri, king of Ashdod,
+<span id="fn_89"></span>[64:1](phc06.htm#fr_89.md) 'Azuri, king of Ashdod,
 devised in his heart to bring no more tribute, and sent an invitation to
 the kings of his neighbourhood to hostility against Asshur. On account
 of the misdeeds he wrought, I removed him from the lordship of the
@@ -251,7 +251,7 @@ anew . . . and put my lieutenants over them and counted them to the
 people of Assyria.'—*Keil. Bibl.* ii, pp. 66, 67. *KAT*<sup>3</sup>. p.
 71.
 
-<span id="fn_90"></span>[65:1](phc06.htm#fr_90) Menahem of the town of
+<span id="fn_90"></span>[65:1](phc06.htm#fr_90.md) Menahem of the town of
 Samaria, Ethba’al of Sidon, Mitinti of Ashdod \[and a number of others\]
 all the kings of the West brought rich presents . . . and kissed my
 feet. And Zidḳa, the king of Ashkelon, who had not submitted to my yoke,
@@ -284,14 +284,14 @@ Ashdod, Padi, king of Ekron, and Zilbel, king of Gaza, and I cut his
 land short. To the former tribute I added the tribute due to my lordship
 and laid it upon them.'—*KḄ.* ii, pp. 90–95.
 
-<span id="fn_91"></span>[65:2](phc06.htm#fr_91) KḄ. ii, pp. 148, 149,
+<span id="fn_91"></span>[65:2](phc06.htm#fr_91.md) KḄ. ii, pp. 148, 149,
 and 238–241.
 
-<span id="fn_92"></span>[66:1](phc06.htm#fr_92) See Meyer's *History of
+<span id="fn_92"></span>[66:1](phc06.htm#fr_92.md) See Meyer's *History of
 the City of Gaza*, p. 38. Noordtzij, *De Filistijnen*, p. 171,
 identifies it with Kadesh, which is reasonable.
 
-<span id="fn_93"></span>[66:2](phc06.htm#fr_93) Neb. iv. 7. See also Ps.
+<span id="fn_93"></span>[66:2](phc06.htm#fr_93.md) Neb. iv. 7. See also Ps.
 lxxxiii, which, according to the most likely view, was composed during
 the anxieties attending the restoration of Jerusalem.
 
@@ -299,6 +299,6 @@ the anxieties attending the restoration of Jerusalem.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: The Land of the Philistines](phc07)
+[Next: Chapter III: The Land of the Philistines](phc07.md)
 
 </div>

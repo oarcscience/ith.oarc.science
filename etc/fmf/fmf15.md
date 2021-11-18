@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf14)  [Next](fmf16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf14)  [Next](fmf16.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ MORAL: The Gymnasium Girl does not always have the strongest Pull.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Cousin from Down East Who Had His Pick of the
-Village Lilacs](fmf16)
+Village Lilacs](fmf16.md)

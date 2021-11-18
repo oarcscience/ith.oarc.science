@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn23)  [Next](rmn25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn23)  [Next](rmn25.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ decency than that of Priapus himself.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXIV: Votive Phallus](rmn25)
+[Next: Plate XXIV: Votive Phallus](rmn25.md)

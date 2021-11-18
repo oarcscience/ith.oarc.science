@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh18)  [Next](lsbh20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh18)  [Next](lsbh20.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -101,7 +101,7 @@ noticed that he worked his legs as he did so; and he said, "Glory be to
 Thee, O God, the legs of this man are his rudders!"
 
 CCCCLXXX\. Another man was gathering up dung \[for fuel\] and he said,
-"How beautiful is that which David <span id="fr_100"></span>[1](#fn_100)
+"How beautiful is that which David <span id="fr_100"></span>[1](#fn_100.md)
 saith, "Man in his honour hath no understanding, but resembleth the
 beast and is like thereunto." And when a certain rich man heard him he
 said unto him, "What now, is this honour of thine whereby thou hast
@@ -128,7 +128,7 @@ said to him, "Take some of this which is before me, and do not believe
 my words, for every bit that I have is more bitter than the vinegar in
 my shop."
 
-CCCCLXXXIII. A certain cook <span id="fr_101"></span>[1](#fn_101) cried
+CCCCLXXXIII. A certain cook <span id="fr_101"></span>[1](#fn_101.md) cried
 out about the roasted meat which he had before him, saying,
 "Peradventure ye would wish me to prolong my praises of the meat which
 is before you? Whosoever eateth of my meat once will not \[need\] to buy
@@ -212,9 +212,9 @@ he owed him.
 
 ### Footnotes
 
-<span id="fn_100"></span>[124:1](lsbh19.htm#fr_100) Psalm xlix. 20.
+<span id="fn_100"></span>[124:1](lsbh19.htm#fr_100.md) Psalm xlix. 20.
 
-<span id="fn_101"></span>[125:1](lsbh19.htm#fr_101) \#\#\# = \#\#\# =
+<span id="fn_101"></span>[125:1](lsbh19.htm#fr_101.md) \#\#\# = \#\#\# =
 Arab. \#\#\#.
 
 <div class="filenav">
@@ -222,6 +222,6 @@ Arab. \#\#\#.
 ------------------------------------------------------------------------
 
 [Next: The Fifteenth Chapter: Laughable Stories of Actors and
-Comedians](lsbh20)
+Comedians](lsbh20.md)
 
 </div>

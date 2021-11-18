@@ -1,21 +1,21 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk31)  [Next](brk33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk31)  [Next](brk33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
 ------------------------------------------------------------------------
 
-#### IV. <span class="smallcaps">The Infinite I</span> <span id="fr_18"></span>[2](#fn_18)
+#### IV. <span class="smallcaps">The Infinite I</span> <span id="fr_18"></span>[2](#fn_18.md)
 
 "Verily this All is Brahma. It has therein its birth, end, breath; as
 such one should worship it in stillness.
@@ -43,14 +43,14 @@ spake Śāṇḍilya.
 
 ### Footnotes
 
-<span id="fn_17"></span>[63:1](brk31.htm#fr_17) They pass every day into
+<span id="fn_17"></span>[63:1](brk31.htm#fr_17.md) They pass every day into
 dreamless sleep, the perfect union with Brahma in the heart; but they
 are not conscious of this union, and the condition of their existence
 causes it to be only temporary. See above, § 15.
 
-<span id="fn_18"></span>[63:2](brk32.htm#fr_18) Chhāndogya Upanishad,
+<span id="fn_18"></span>[63:2](brk32.htm#fr_18.md) Chhāndogya Upanishad,
 iii. 14.
 
 ------------------------------------------------------------------------
 
-[Next: V: Know Thy Self](brk33)
+[Next: V: Know Thy Self](brk33.md)

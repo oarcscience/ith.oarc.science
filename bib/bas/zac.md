@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](hag)  [Next](mal) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](hag)  [Next](mal.md) 
 
 ------------------------------------------------------------------------
 
@@ -876,4 +876,4 @@ will be no more traders in the house of the Lord of armies.
 
 ------------------------------------------------------------------------
 
-[Next: Malachi](mal)
+[Next: Malachi](mal.md)

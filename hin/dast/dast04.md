@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](dast03)  [Next](dast05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](dast03)  [Next](dast05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dakshinamurti Stotra*, translated by Alladi Mahadeva Sastri, \[1920\],
 at Intangible Textual Heritage
 
@@ -92,7 +92,7 @@ together into a single composite whole; *i.e.*, they seem to have no
 faculty of perception. They receive impressions through the sense organs
 from without; and these impressions affect in their turn the prana or
 vital principle wherein they abide. In response to the
-[impressions](errata.htm#2) received through the sense-organs, prana
+[impressions](errata.htm#2.md) received through the sense-organs, prana
 gushes out through one or more organs of activity in the body; and, as a
 result, the sense-organs are brought in contact with more objects. In
 the animal, the sensory and motor forms of vital energy thus act and
@@ -106,7 +106,7 @@ is distinguished from lower
 
 <span id="page_xxiii">p. xxiii</span>
 
-animals by the possession of this [faculty](errata.htm#3) of perception
+animals by the possession of this [faculty](errata.htm#3.md) of perception
 and thought. It is in him that we find Atman,—the one Existence and
 Consciousness present in all kingdoms of nature alike,—manifesting
 Himself in every act of consciousness as "I," as the Individual Ego,
@@ -224,7 +224,7 @@ man must have an unbounded faith in the Veda. To have an unbounded faith
 in the Veda is to have an unbounded faith in the Guru who gives voice to
 the teaching which takes the form of the Veda. 'Veda' literally means
 'wisdom'; and the sacred word we now call Veda derives its sanctity and
-authority from the fact that it [embodies](errata.htm#4) wisdom taught
+authority from the fact that it [embodies](errata.htm#4.md) wisdom taught
 by the
 
 <span id="page_xxviii">p. xxviii</span>
@@ -333,7 +333,7 @@ doubt with a few moments of pleasure. In the state of helplessness, man
 yearns for more help. Then the Teacher, or His voice in the shape of the
 Veda, comes to man's help. He is now distinctly taught that the soul is
 quite distinct from the body and the sense-organs, and that it is
-possible for man to release [himself](errata.htm#5) from the thraldom to
+possible for man to release [himself](errata.htm#5.md) from the thraldom to
 which he is now subjected. As a first step on the path to this goal, the
 disciple is enjoined to discharge all the duties allotted to his station
 in life,—to observe the whole daily routine of life which he feels
@@ -354,7 +354,7 @@ system of the worlds to which he
 belongs, and gradually leading the disciple to have a tolerable view of
 the whole universe of which that system forms a part. The disciple is
 then taken through a course of contemplation which
-[develops](errata.htm#6) his power of concentration and makes him
+[develops](errata.htm#6.md) his power of concentration and makes him
 realise in some detail the nature of the universe in which he plays his
 part. All this course is necessary to purify the heart and to strengthen
 the intellect, so that the disciple may be morally and intellectually
@@ -391,7 +391,7 @@ the truth of the proposition does not amount to that realisation which
 consists in the individual Ego feeling and acting as if he is one with
 the Universal Ego, with Isvara himself. To this end man must intently
 dwell in thought on the Divine Being, the universal Ego, while regarding
-himself and Isvara and the [spiritual](errata.htm#7) Teacher as the one
+himself and Isvara and the [spiritual](errata.htm#7.md) Teacher as the one
 Atman; loving the atman, the Divine Self, above all, as his own very
 Self, casting away the limited self as something non-existent, keeping
 away from the mind all alien thoughts, being completely immersed in Him
@@ -963,10 +963,10 @@ ignorance that has blinded the vision of the soul to truth and thereby
 led to all the numerous evils which are collectively named
 *samsara-bandha*, the bondage of mundane existence. Interpreting the
 Upanishads, upon which the Vedanta Doctrine is mainly based, according
-to the rules of construction formulated in the [course](errata.htm#8) of
+to the rules of construction formulated in the [course](errata.htm#8.md) of
 enquiry into the contents of the Karma kanda or the ritualistic portion
 of the Veda, the Brahmavadin comes to the conclusion that the Upanishads
-inculcate the existence of Brahman, an [all-pervading](errata.htm#9)
+inculcate the existence of Brahman, an [all-pervading](errata.htm#9.md)
 Principle, the one Existence whence the whole universe has come into
 being. Brahman as Isvara is not only the Divine Intelligence who
 controls and guides the evolution of the whole universe; Fie is also
@@ -1389,7 +1389,7 @@ longer, must be an illusion. Though conscious of this truth, the
 philosopher does not expressly state it in order simply that the
 student's mind may not get perplexed. If at the very outset the system
 should start with a declaration of the unreality of the universe, the
-mind would be [perplexed](errata.htm#10) with the question, how can it
+mind would be [perplexed](errata.htm#10.md) with the question, how can it
 be? It is only with a view to prevent this perplexity that the universe
 is spoken of as real. Again, according to the Sankhyas and the Tarkikas,
 neither the existence of manifold Atmans nor a distinction between Jiva
@@ -1400,7 +1400,7 @@ distribution of pleasure and pain, which in fact is due to variety in
 the upadhis with which the one Atman is associated. Like the Vedantins,
 the Sankhyas and others maintain that in liberation Atman alone shines.
 He is, therefore, in reality one without a second. <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 36\. This short review of the methods and the fundamental tenets of the
 various systems of Aryan philosophy and religion is a necessary prelude
@@ -1422,10 +1422,10 @@ intellect.
 
 ### Footnotes
 
-<span id="fn_0"></span>[lxxiv:\*](dast04.htm#fr_0) *Vide*
+<span id="fn_0"></span>[lxxiv:\*](dast04.htm#fr_0.md) *Vide*
 Madhavacharya's commentary on Suta-Samhita, Yajna-vaibhava-khanda, 8th
 adhyaya, verse 24.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Atman as the Ego](dast05)
+[Next: Chapter I. Atman as the Ego](dast05.md)

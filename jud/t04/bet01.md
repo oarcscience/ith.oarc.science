@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](bet00)  [Next](bet02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](bet00)  [Next](bet02.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -43,4 +43,4 @@ NEW TALMUD PUBLISHING SOCIETY
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](bet02)
+[Next: Dedication](bet02.md)

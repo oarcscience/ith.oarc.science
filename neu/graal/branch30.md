@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch29) 
-[Next](branch31) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch29.md) 
+[Next](branch31.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -591,5 +591,5 @@ shall he not fail so God protect Lancelot and bring him forth of prison.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XXXI](branch31)  
+XXXI](branch31.md)  
 </span>

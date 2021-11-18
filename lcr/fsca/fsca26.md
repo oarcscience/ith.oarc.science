@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca25)  [Next](fsca27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca25)  [Next](fsca27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ accounts of the death-dealing<span id="img_10700"></span>
 
 |                                                                 |
 |-----------------------------------------------------------------|
-| ![Basilisk or Amphysian Cockatrice, tail nowed.](img/10700.jpg) |
+| ![Basilisk or Amphysian Cockatrice, tail nowed.](img/10700.jpg.md) |
 
 power of this strange creature. Pliny says, "all other serpents do flee
 from and are afraid of it," and tells of the deadly effect of his breath
@@ -106,4 +106,4 @@ evil*. St. Basil the Great uses it as the type of a depraved woman.
 
 ------------------------------------------------------------------------
 
-[Next: The Mythical Serpent](fsca27)
+[Next: The Mythical Serpent](fsca27.md)

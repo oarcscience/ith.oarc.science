@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl15)  [Next](orl17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl15)  [Next](orl17.md) 
 
 ------------------------------------------------------------------------
 
@@ -1016,4 +1016,4 @@ Who willingly will listen to this rhyme.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 17](orl17)
+[Next: Canto 17](orl17.md)

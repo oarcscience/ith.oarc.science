@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip15)  [Next](fip17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip15)  [Next](fip17.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ gentle and regular breathing.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Nurse, by Edward Walsh](fip17)
+[Next: The Fairy Nurse, by Edward Walsh](fip17.md)

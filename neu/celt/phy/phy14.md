@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy13)  [Next](phy15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy13)  [Next](phy15.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 |                     |
 |---------------------|
-| ![T](img/06901.jpg) |
+| ![T](img/06901.jpg.md) |
 
 HE other jarls of Man, hearing of the fate of their friend and neighbour
 Kitter, and fearing a general rising of the Manx peasantry against them,
@@ -81,7 +81,7 @@ together with a great noise.
 <span id="img_07100"></span>
 
 [![THE WITCHES' CONCLAVE](tn/07100.jpg)  
-Click to enlarge](img/07100.jpg)  
+Click to enlarge](img/07100.jpg.md)  
 THE WITCHES' CONCLAVE  
 
 Knowing the wondrous properties of this sword, no wonder all the people,
@@ -125,7 +125,7 @@ the king consented to allow the charm to be used.
 
 TOADSKINS, flayed from the reptiles alive;
 
-Twigs OF THE ROWAN TREE, <span id="fr_2"></span>[1](#fn_2) twisted round
+Twigs OF THE ROWAN TREE, <span id="fr_2"></span>[1](#fn_2.md) twisted round
 and bound together with GREY HAIRS plucked from the CHINS of MAIDEN
 WOMEN, and
 
@@ -161,7 +161,7 @@ Victoria's representative presides at the proclamation of the Manx laws
 that have been passed during the past session of the House of Keys--the
 insular parliament--and on her behalf he gives the royal assent to the
 same once every year--the first Monday in July, which is kept as a
-general holiday. <span id="fr_3"></span>[1](#fn_3) All the preparations
+general holiday. <span id="fr_3"></span>[1](#fn_3.md) All the preparations
 being completed for the execution, the charm was produced, and with much
 ceremony and
 
@@ -211,7 +211,7 @@ through the bone. Straight through it went; and, much to the horror of
 <span id="img_07500"></span>
 
 [![THE EXECUTION OF EAOCH THE COOK](tn/07500.jpg)  
-Click to enlarge](img/07500.jpg)  
+Click to enlarge](img/07500.jpg.md)  
 THE EXECUTION OF EAOCH THE COOK  
 
  
@@ -252,9 +252,9 @@ shrine of that saint in gratitude for his wonderful preservation.
 
 ### Footnotes
 
-<span id="fn_2"></span>[72:1](phy14.htm#fr_2) The Rowan is the ash tree.
+<span id="fn_2"></span>[72:1](phy14.htm#fr_2.md) The Rowan is the ash tree.
 
-<span id="fn_3"></span>[73:1](phy14.htm#fr_3) The Tynwald Hill is a
+<span id="fn_3"></span>[73:1](phy14.htm#fr_3.md) The Tynwald Hill is a
 mound of earth composed of ground brought from every parish in the
 island, and is situated on the roadside at St. John's, as near as
 possible in the centre of the island. It has been used for these
@@ -264,4 +264,4 @@ the Lieutenant-Governor in person.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](phy15)
+[Next: Chapter III](phy15.md)

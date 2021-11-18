@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mttm00) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mttm00.md) 
 
 ------------------------------------------------------------------------
 

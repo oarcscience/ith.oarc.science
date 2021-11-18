@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc74)  [Next](pjc76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc74)  [Next](pjc76.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -57,4 +57,4 @@ affirm the innocence of Jesus. They did not remain long together.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXII. The Night of Resurrection](pjc76)
+[Next: Chapter LXII. The Night of Resurrection](pjc76.md)

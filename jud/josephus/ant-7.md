@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ him a deadly wound, so that he died immediately; but those that were
 with him pursuing Abner, when they came to the place where Asahel lay,
 they stood round about the dead body, and left off the pursuit of the
 enemy. However, both Joab <span
-id="EntNote Ant 7.1a"></span>[(1)](#EntNote%20Ant%207.1b) himself, and
+id="EntNote Ant 7.1a"></span>[(1)](#EntNote%20Ant%207.1b.md) himself, and
 his brother Abishai, ran past the dead corpse, and making their anger at
 the death of Asahel an occasion of greater zeal against Abner, they went
 on with incredible haste and alacrity, and pursued Abner to a certain
@@ -338,7 +338,7 @@ him in mind of the good-will they had borne to him in Saul's lifetime,
 and the respect they then had not ceased to pay him when he was captain
 of a thousand, as also that he was chosen of God by Samuel the prophet,
 he and his sons; <span
-id="EntNote Ant 7.2a"></span>[(2)](#EntNote%20Ant%207.2b) and declaring
+id="EntNote Ant 7.2a"></span>[(2)](#EntNote%20Ant%207.2b.md) and declaring
 besides, how God had given him power to save the land of the Hebrews,
 and to overcome the Philistines. Whereupon he received kindly this their
 alacrity on his account; and exhorted them to continue in it, for that
@@ -359,7 +359,7 @@ eight hundred, and these mighty men of valor, and eminent for their
 strength. Out of the half tribe of Manasseh came eighteen thousand, of
 the most potent men. Out of the tribe of Issachar came two hundred, who
 foreknew what was to come hereafter, <span
-id="EntNote Ant 7.3a"></span>[(3)](#EntNote%20Ant%207.3b) but of armed
+id="EntNote Ant 7.3a"></span>[(3)](#EntNote%20Ant%207.3b.md) but of armed
 men twenty thousand. Of the tribe of Zebulon fifty thousand chosen men.
 This was the only tribe that came universally in to David, and all these
 had the same weapons with the tribe of Gad. Out of the tribe of Naphtali
@@ -393,7 +393,7 @@ diligence and alacrity therein, as intending by the taking of this place
 to demonstrate his power, and to intimidate all others that might be of
 the like \[evil\] disposition towards him. So he took the lower city by
 force, but the citadel held out still; <span
-id="EntNote Ant 7.4a"></span>[(4)](#EntNote%20Ant%207.4b) whence it was
+id="EntNote Ant 7.4a"></span>[(4)](#EntNote%20Ant%207.4b.md) whence it was
 that the king, knowing that the proposal of dignities and rewards would
 encourage the soldiers to greater actions, promised that he who should
 first go over the ditches that were beneath the citadel, and should
@@ -420,7 +420,7 @@ it one body; and when he had encompassed all with walls, he appointed
 Joab to take care of them. It was David, therefore, who first cast the
 Jebusites out of Jerusalem, and called it by his own name, *The City of
 David:* for under our forefather Abraham it was called (Salem, or)
-Solyma; <span id="EntNote Ant 7.5a"></span>[(5)](#EntNote%20Ant%207.5b)
+Solyma; <span id="EntNote Ant 7.5a"></span>[(5)](#EntNote%20Ant%207.5b.md)
 but after that time, some say that Homer mentions it by that name of
 Solyma, \[for he named the temple Solyma, according to the Hebrew
 language, which denotes *security.\]* Now the whole time from the
@@ -454,7 +454,7 @@ seized upon that valley which is called *The Valley of the Giants,* and
 is a place not far from the city, they pitched their camp therein; but
 the king of the Jews, who never permitted himself to do any thing
 without prophecy, <span
-id="EntNote Ant 7.6a"></span>[(6)](#EntNote%20Ant%207.6b) and the
+id="EntNote Ant 7.6a"></span>[(6)](#EntNote%20Ant%207.6b.md) and the
 command of God and without depending on him as a security for the time
 to come, bade the high priest to foretell to him what was the will of
 God, and what would be the event of this battle. And when he foretold
@@ -508,7 +508,7 @@ of cymbals, and so brought the ark to Jerusalem. But as they were come
 to the threshing-floor of Chidon, a place so called, Uzzah was slain by
 the anger of God; for as the oxen shook the ark, he stretched out his
 hand, and would needs take hold of it. Now, because he was not a priest
-<span id="EntNote Ant 7.7a"></span>[(7)](#EntNote%20Ant%207.7b) and yet
+<span id="EntNote Ant 7.7a"></span>[(7)](#EntNote%20Ant%207.7b.md) and yet
 touched the ark, God struck him dead. Hereupon both the king and the
 people were displeased at the death of Uzzah; and the place where he
 died is still called the *Breach of Uzzah* unto this day. So David was
@@ -559,13 +559,13 @@ height, and had the most curious works of architecture in them, he
 should overlook the ark while it was laid in a tabernacle, and was
 desirous to build a temple to God, as Moses had predicted such a temple
 should be built. <span
-id="EntNote Ant 7.8a"></span>[(8)](#EntNote%20Ant%207.8b) And when he
+id="EntNote Ant 7.8a"></span>[(8)](#EntNote%20Ant%207.8b.md) And when he
 had discoursed with Nathan the prophet about these things, and had been
 encouraged by him to do whatsoever he had a mind to do, as having God
 with him, and his helper in all things, he was thereupon the more ready
 to set about that building. But God appeared to Nathan that very night,
 and commanded him to say to David, <span
-id="EntNote Ant 7.9a"></span>[(9)](#EntNote%20Ant%207.9b) that he took
+id="EntNote Ant 7.9a"></span>[(9)](#EntNote%20Ant%207.9b.md) that he took
 his purpose and his desires kindly, since nobody had before now taken it
 into their head to build him a temple, although upon his having such a
 notion he would not permit him to build him that temple, because he had
@@ -610,12 +610,12 @@ the war to the Moabites; and when he had overcome two parts of their
 army in battle, he took the remaining part captive, and imposed tribute
 upon them, to be paid annually. He then made war against Iadadezer, the
 son of Rehob, king of Sophene; <span
-id="EntNote Ant 7.10a"></span>[(10)](#EntNote%20Ant%207.10b) and when he
+id="EntNote Ant 7.10a"></span>[(10)](#EntNote%20Ant%207.10b.md) and when he
 had joined battle with him at 'the river Euphrates, he destroyed twenty
 thousand of his footmen, and about seven thousand of his horsemen. He
 also took a thousand of his chariots, and destroyed the greatest part of
 them, and ordered that no more than one hundred should be kept. <span
-id="EntNote Ant 7.11a"></span>[(11)](#EntNote%20Ant%207.11b)
+id="EntNote Ant 7.11a"></span>[(11)](#EntNote%20Ant%207.11b.md)
 
 2\. Now when Hadad, king of Damascus and of Syria, heard that David
 fought against Hadadezer, who was his friend, he came to his assistance
@@ -676,7 +676,7 @@ conquered, and dedicated them to God. Nor did God give victory and
 success to him only when he went to the battle himself, and led his own
 army, but he gave victory to Abishai, the brother of Joab, general of
 his forces, over the Idumeans, <span
-id="EntNote Ant 7.12a"></span>[(12)](#EntNote%20Ant%207.12b) and by him
+id="EntNote Ant 7.12a"></span>[(12)](#EntNote%20Ant%207.12b.md) and by him
 to David, when he sent him with an army into Idumea: for Abishai
 destroyed eighteen thousand of them in the battle; whereupon the king
 \[of Israel\] placed garrisons through all Idumea, and received the
@@ -995,12 +995,12 @@ him his army, and came to the destruction of Rabbah; and when he had
 taken it by force, he gave it to his soldiers to plunder it; but he
 himself took the king of the Ammonites' crown, whose weight was a talent
 of gold; <span
-id="EntNote Ant 7.13a"></span>[(13)](#EntNote%20Ant%207.13b) and it had
+id="EntNote Ant 7.13a"></span>[(13)](#EntNote%20Ant%207.13b.md) and it had
 in its middle a precious stone called a sardonyx; which crown David ever
 after wore on his own head. He also found many other vessels in the
 city, and those both splendid and of great price; but as for the men, he
 tormented them, <span
-id="EntNote Ant 7.14a"></span>[(14)](#EntNote%20Ant%207.14b) and then
+id="EntNote Ant 7.14a"></span>[(14)](#EntNote%20Ant%207.14b.md) and then
 destroyed them; and when he had taken the other cities of the Ammonites
 by force, he treated them after the same manner.
 
@@ -1161,7 +1161,7 @@ of his body, and was more eminent \[in a fine appearance\] than those
 that dieted the most luxuriously; and indeed such was the thickness of
 the hair of his head, that it was with difficulty that he was polled
 every eighth day; and his hair weighed two hundred shekels <span
-id="EntNote Ant 7.15a"></span>[(15)](#EntNote%20Ant%207.15b) which are
+id="EntNote Ant 7.15a"></span>[(15)](#EntNote%20Ant%207.15b.md) which are
 five pounds. However, he dwelt in Jerusalem two years, and became the
 father of three sons, and one daughter; which daughter was of very great
 beauty, and which Rehoboam, the son of Solomon, took to wife afterward,
@@ -1203,7 +1203,7 @@ committed to him, he would distribute justice to them in a most
 equitable manner. When he had made himself so popular among the
 multitude, he thought he had already the good-will of the people secured
 to him; but when four years <span
-id="EntNote Ant 7.16a"></span>[(16)](#EntNote%20Ant%207.16b) had passed
+id="EntNote Ant 7.16a"></span>[(16)](#EntNote%20Ant%207.16b.md) had passed
 since his father's reconciliation to him, he came to him, and besought
 him to give him leave to go to Hebron, and pay a sacrifice to God,
 because he vowed it to him when he fled out of the country. So when
@@ -1356,7 +1356,7 @@ shall shut himself up in some city, and bear a siege, we will overthrow
 that city with machines of war, and by undermining it." When Hushai had
 said this, he obtained his point against Ahithophel, for his opinion was
 preferred by Absalom before the other's: however, it was no other than
-God <span id="EntNote Ant 7.17a"></span>[(17)](#EntNote%20Ant%207.17b)
+God <span id="EntNote Ant 7.17a"></span>[(17)](#EntNote%20Ant%207.17b.md)
 who made the counsel of Hushai appear best to the mind of Absalom.
 
 7\. So Hushai made haste to the high priests, Zadok and Abiathar, and
@@ -1515,7 +1515,7 @@ relate what concerned the victory, but not concerning the death of
 Absalom, he gave him leave to go to David. Now he took a nearer road
 than the former did, for nobody knew it but himself, and he came before
 Cushi. Now as David was sitting between the gates, <span
-id="EntNote Ant 7.18a"></span>[(18)](#EntNote%20Ant%207.18b) and waiting
+id="EntNote Ant 7.18a"></span>[(18)](#EntNote%20Ant%207.18b.md) and waiting
 to see when somebody would come to him from the battle, and tell him how
 it went, one of the watchmen saw Ahimaaz running, and before be could
 discern who he was, be told David that he saw somebody coming to him,
@@ -1540,7 +1540,7 @@ like misfortune befall thine enemies as hath befallen Absalom." That
 word did not permit either himself or his soldiers to rejoice for the
 victory, though it was a very great one; but David went up to the
 highest part of the city, <span
-id="EntNote Ant 7.19a"></span>[(19)](#EntNote%20Ant%207.19b) and wept
+id="EntNote Ant 7.19a"></span>[(19)](#EntNote%20Ant%207.19b.md) and wept
 for his son, and beat his breast, tearing \[the hair of\] his head,
 tormenting himself all manner of ways, and crying out, "O my son! I wish
 that I had died myself, and ended my days with thee!*"* for he was of a
@@ -1663,7 +1663,7 @@ to him, that as he had \[before\] granted all his estate to Ziba,
 because he did not come along with him, so he \[now\] promised to
 forgive him, and ordered that the one half of his estate should be
 restored to him. <span
-id="EntNote Ant 7.20a"></span>[(20)](#EntNote%20Ant%207.20b) Whereupon
+id="EntNote Ant 7.20a"></span>[(20)](#EntNote%20Ant%207.20b.md) Whereupon
 Mephibosheth said, "Nay, let Ziba take all; it suffices me that thou
 hast recovered thy kingdom."
 
@@ -1703,7 +1703,7 @@ but wonder at you when you call the king your kinsman alone, whereas he
 that hath received from God the power over all of us in common ought to
 be esteemed a kinsman to us all; for which reason the whole people have
 eleven parts in him, and you but one part <span
-id="EntNote Ant 7.21a"></span>[(21)](#EntNote%20Ant%207.21b) we are also
+id="EntNote Ant 7.21a"></span>[(21)](#EntNote%20Ant%207.21b.md) we are also
 elder than you; wherefore you have not done justly in coming to the king
 in this private and concealed manner."
 
@@ -1863,7 +1863,7 @@ the Israelites.
 
 3\. And now David being freed from wars and dangers, and enjoying for
 the future a profound peace, <span
-id="EntNote Ant 7.22a"></span>[(22)](#EntNote%20Ant%207.22b) composed
+id="EntNote Ant 7.22a"></span>[(22)](#EntNote%20Ant%207.22b.md) composed
 songs and hymns to God of several sorts of metre; some of those which he
 made were *trimeters,* and some were *pentameters.* He also made
 instruments of music, and taught the Levites to sing hymns to God, both
@@ -1941,7 +1941,7 @@ THE DIVINE COMPASSION RESTRAINED THAT PUNISHMENT.**
 
 1\. NOW king David was desirous to know how many ten thousands there
 were of the people, but forgot the commands of Moses, <span
-id="EntNote Ant 7.23a"></span>[(23)](#EntNote%20Ant%207.23b) who told
+id="EntNote Ant 7.23a"></span>[(23)](#EntNote%20Ant%207.23b.md) who told
 them beforehand, that if the multitude were numbered, they should pay
 half a shekel to God for every head. Accordingly the king commanded
 Joab, the captain of his host, to go and number the whole multitude; but
@@ -2029,7 +2029,7 @@ him for fifty shekels. And when he had built an altar, he performed
 Divine service, and brought a burnt-offering, and offered
 peace-offerings also. With these God was pacified, and became gracious
 to them again. Now it happened that Abraham <span
-id="EntNote Ant 7.24a"></span>[(24)](#EntNote%20Ant%207.24b)came and
+id="EntNote Ant 7.24a"></span>[(24)](#EntNote%20Ant%207.24b.md)came and
 offered his son Isaac for a burnt-offering at that very place; and when
 the youth was ready to have his throat cut, a ram appeared on a sudden,
 standing by the altar, which Abraham sacrificed in the stead of his son,
@@ -2082,7 +2082,7 @@ thou aftrighted by the vastness of the work, nor set about it
 timorously, for I will make all things ready before I die: and take
 notice, that there are already ten thousand talents of gold, and a
 hundred thousand talents of silver <span
-id="EntNote Ant 7.26a"></span>[(25)](#EntNote%20Ant%207.25b) collected
+id="EntNote Ant 7.26a"></span>[(25)](#EntNote%20Ant%207.25b.md) collected
 together. I have also laid together brass and iron without number, and
 an immense quantity of timber and of stones. Moreover, thou hast many
 ten thousand stone-cutters and carpenters; and if thou shalt want any
@@ -2340,7 +2340,7 @@ things; but if thou behave thyself so as it behooves thee, and as I
 exhort thee, thou wilt preserve our kingdom to our family, and no other
 house will bear rule over the Hebrews but we ourselves for all ages. Be
 thou also mindful of the transgressions of Joab, <span
-id="EntNote Ant 7.26a"></span>[(26)](#EntNote%20Ant%207.26b) the captain
+id="EntNote Ant 7.26a"></span>[(26)](#EntNote%20Ant%207.26b.md) the captain
 of the host, who hath slain two generals out of envy, and those
 righteous and good men, Abner the son of Ner, and Amasa the son of
 Jether; whose death do thou avenge as shall seem good to thee, since
@@ -2395,18 +2395,18 @@ have said concerning these matters.
 
 ENDNOTE
 
-<span id="EntNote Ant 7.1b"></span>[(1)](#EntNote%20Ant%207.1a) It ought
+<span id="EntNote Ant 7.1b"></span>[(1)](#EntNote%20Ant%207.1a.md) It ought
 to be here noted, that Joab, Abishai, and Asahel were all three David's
 nephews, the sons of his sister Zeraiah, as 1 Chronicles 2:16; and that
 Amasa was also his nephew by his other sister Abigail, ver. 17.
 
-<span id="EntNote Ant 7.2b"></span>[(2)](#EntNote%20Ant%207.2a) This may
+<span id="EntNote Ant 7.2b"></span>[(2)](#EntNote%20Ant%207.2a.md) This may
 be a true observation of Josephus's, that Samuel by command from God
 entailed the crown on David and his posteerity; for no further did that
 entail ever reach, Solomon himself having never had any promise made him
 that his posterity should always have the right to it.
 
-<span id="EntNote Ant 7.3b"></span>[(3)](#EntNote%20Ant%207.3a) These
+<span id="EntNote Ant 7.3b"></span>[(3)](#EntNote%20Ant%207.3a.md) These
 words of Josephus concerning the tribe of Issachar, who foreknew what
 was to come hereafter," are best paraphrased by the parallel text. 1
 Chronicles 12:32, "Who had understanding of the times to know what
@@ -2415,7 +2415,7 @@ to make calendars for the Israelites, that they might keep their
 festivals, and plough and sow, and gather in their harvests and vintage,
 in due season.
 
-<span id="EntNote Ant 7.4b"></span>[(4)](#EntNote%20Ant%207.4a) What our
+<span id="EntNote Ant 7.4b"></span>[(4)](#EntNote%20Ant%207.4a.md) What our
 other copies say of Mount Sion, as alone properly called the city of
 David, 2 Samuel 5:6-9, and of this its siege and conquest now by David,
 Josephus applies to the whole city Jerusalem, though including the
@@ -2440,7 +2440,7 @@ suppose, and not for a proper name; he still either styles it The
 Citadel, or The Upper City; nor do I see any reason for Mr. Ottius's
 evil suspicions about this procedure of Josephus.
 
-<span id="EntNote Ant 7.5b"></span>[(5)](#EntNote%20Ant%207.5a) Some
+<span id="EntNote Ant 7.5b"></span>[(5)](#EntNote%20Ant%207.5a.md) Some
 copies of Josephus have here Solyma, or Salem; and others Hierosolyma,
 or Jerusalem. The latter best agree to what Josephus says elsewhere, (Of
 the War, B. VI. ch. 10.,) that this city was called Solyma, or Salem,
@@ -2457,7 +2457,7 @@ that name, which will then denote that God would provide peace by that
 that which is put into brackets can hardly be supposed the genuine words
 of Josephus, as Dr. Hudson well judges.
 
-<span id="EntNote Ant 7.6b"></span>[(6)](#EntNote%20Ant%207.6a) It
+<span id="EntNote Ant 7.6b"></span>[(6)](#EntNote%20Ant%207.6a.md) It
 deserves here to be remarked, that Saul very rarely, and David very
 frequently, consulted God by Urim; and that David aimed always to
 depend, not on his own prudence or abilities but on the Divine
@@ -2469,7 +2469,7 @@ father Saul did not use to pay such a regard to the ark, to the Urim
 there inquired by, or to God's worship before it, and because she
 thought it beneath the dignity of a king to be so religious.
 
-<span id="EntNote Ant 7.7b"></span>[(7)](#EntNote%20Ant%207.7a) Josephus
+<span id="EntNote Ant 7.7b"></span>[(7)](#EntNote%20Ant%207.7a.md) Josephus
 seems to be partly in the right, when he observes here that Uzzah was no
 priest, (though perhaps he might be a Levite,) and was therefore struck
 dead for touching the ark, contrary to the law, and for which profane
@@ -2480,7 +2480,7 @@ priests or Levites, as it was presently here in Josephus so carried from
 Obededom's house to David's, might be also an occasion of the anger of
 God on that breach of his law. See Numbers 4:15; 1 Chronicles 15:13.
 
-<span id="EntNote Ant 7.8b"></span>[(8)](#EntNote%20Ant%207.8a) Josephus
+<span id="EntNote Ant 7.8b"></span>[(8)](#EntNote%20Ant%207.8a.md) Josephus
 here informs us, that, according to his understanding of the sense of
 his copy of the Pentateuch, Moses had himself foretold the building of
 the temple, which yet is no where, that I know of, in our present
@@ -2493,21 +2493,21 @@ such a temple presently, ch. 14. sect. 2, contrary to our other copies,
 or at least to our translation of the Hebrew, 2 Samuel 7:6, 7; 1
 Chronicles 17:5, 6.
 
-<span id="EntNote Ant 7.9b"></span>[(9)](#EntNote%20Ant%207.9a) Josephus
+<span id="EntNote Ant 7.9b"></span>[(9)](#EntNote%20Ant%207.9a.md) Josephus
 seems, in this place, with our modern interpreters to confound the two
 distinct predictions which God made to David and to Nathan, concerning
 the building him a temple by one of David's posterity; the one belongeth
 to Solomon, the other to the Messiah; the distinction between which is
 of the greatest consequence to the Christian religion.
 
-<span id="EntNote Ant 7.10b"></span>[(10)](#EntNote%20Ant%207.10a)
+<span id="EntNote Ant 7.10b"></span>[(10)](#EntNote%20Ant%207.10a.md)
 Whether Syria Zobah, 2 Samuel 3:8; 1 Chronicles 18:3-8, be Sophene, as
 Josephus here supposes; which yet Ptolemy places beyond Euphrates, as
 Dr. Hudson observes here, whereas Zobah was on this side; or whether
 Josephus was not here guilty of a mistake in his geography; I cannot
 certainly determine.
 
-<span id="EntNote Ant 7.12b"></span>[(11)](#EntNote%20Ant%207.11a)
+<span id="EntNote Ant 7.12b"></span>[(11)](#EntNote%20Ant%207.11a.md)
 David's reserving only one hundred chariots for himself out of one
 thousand he had taken from Hadadezer, was most probably in compliance
 with the law of Moses, which forbade a king of Israel "to multiply
@@ -2534,7 +2534,7 @@ note, that from this Hadad, in the days of David, to the beginning of
 Hazael, were near two hundred years, according to the exactest
 chronology of Josephus.
 
-<span id="EntNote Ant 7.12b"></span>[(12)](#EntNote%20Ant%207.12a) By
+<span id="EntNote Ant 7.12b"></span>[(12)](#EntNote%20Ant%207.12a.md) By
 this great victory over the Idameans or Edomites, the posterity of Esau,
 and by the consequent tribute paid by that nation to the Jews, were the
 prophecies delivered to Rebecca before Jacob and Esau were born, and by
@@ -2544,12 +2544,12 @@ the Israelites) should be Esau's (or the Edomites') lord, remarkably
 fulfilled. See Antiq. B. VIII. ch 7. sect. 6; Genesis 25;9,3; and the
 notes on Antiq. B. I. ch. 18. sect. 5, 6.
 
-<span id="EntNote Ant 7.13b"></span>[(13)](#EntNote%20Ant%207.13a) That
+<span id="EntNote Ant 7.13b"></span>[(13)](#EntNote%20Ant%207.13a.md) That
 a talent of gold was about seven pounds weight, see the description of
 the temple ch. 13. Nor could Josephus well estimate it higher, since he
 here says that David wore it on his head perpetually.
 
-<span id="EntNote Ant 7.14b"></span>[(14)](#EntNote%20Ant%207.14a)
+<span id="EntNote Ant 7.14b"></span>[(14)](#EntNote%20Ant%207.14a.md)
 Whether Josephus saw the words of our copies, 2 Samuel 12:31, and 1
 Chronicles 20:3, that David put the inhabitants, or at least the
 garrison of Rabbah, and of the other Ammonite cities, which he besieged
@@ -2568,7 +2568,7 @@ meet with such methods of cruelty in putting men to death in all the
 Bible, or in any other ancient history whatsoever; nor do the words in
 Samuel seem naturally to refer to any such thing.
 
-<span id="EntNote Ant 7.15b"></span>[(15)](#EntNote%20Ant%207.15a) Of
+<span id="EntNote Ant 7.15b"></span>[(15)](#EntNote%20Ant%207.15a.md) Of
 this weight of Absalom's hair, how in twenty or thirty years it might
 well amount to two hundred shekels, or to somewhat above six pounds
 avoirdupois, see the Literal Accomplishment of Prophecies, p. 77, 78.
@@ -2579,7 +2579,7 @@ Josephus's opinion: he sets the text down honestly as he found it in his
 copies, only he thought that "at the end of days," when Absalom polled
 or weighed his hair, was once a week.
 
-<span id="EntNote Ant 7.16b"></span>[(16)](#EntNote%20Ant%207.16a) This
+<span id="EntNote Ant 7.16b"></span>[(16)](#EntNote%20Ant%207.16a.md) This
 is one of the best corrections that Josephus's copy affords us of a text
 that in our ordinary copies is grossly corrupted. They say that this
 rebellion of Absalom was forty years after what went before, (of his
@@ -2589,7 +2589,7 @@ whose number is directly confirmed by that copy of the Septuagint
 version whence the Armenian translation was made, which gives us the
 small number of four years.
 
-<span id="EntNote Ant 7.17b"></span>[(17)](#EntNote%20Ant%207.17a) This
+<span id="EntNote Ant 7.17b"></span>[(17)](#EntNote%20Ant%207.17a.md) This
 reflection of Josephus's, that God brought to nought the dangerous
 counsel of Ahithophel, and directly infatuated wicked Absalom to reject
 it, (which infatuation is what the Scripture styles the judicial
@@ -2609,7 +2609,7 @@ and many other the like points of difficulty relating either to Divine
 or human operations.--See the notes on Antiq. B. V ch. 1. sect. 2; and
 Antiq. B. IX. ch. 4. sect. 3.
 
-<span id="EntNote Ant 7.18b"></span>[(18)](#EntNote%20Ant%207.18a) Those
+<span id="EntNote Ant 7.18b"></span>[(18)](#EntNote%20Ant%207.18a.md) Those
 that take a view of my description of the gates of the temple, will not
 be surprised at this account of David's throne, both here and 2 Samuel
 18:21, that it was between two gates or portals. Gates being in cities,
@@ -2619,7 +2619,7 @@ heard, and public consultations taken, as is well known from several
 places of Scripture, 2 Chronicles 31:2; Psalm 9:14; 137:5; Proverbs
 1:21; 8:3, 31; 31:23, and often elsewhere.
 
-<span id="EntNote Ant 7.19b"></span>[(19)](#EntNote%20Ant%207.19a) Since
+<span id="EntNote Ant 7.19b"></span>[(19)](#EntNote%20Ant%207.19a.md) Since
 David was now in Mahanairn, and in the open place of that city gate,
 which seems still to have been built the highest of any part of the
 wall, and since our other copies say he went up to the chamber over the
@@ -2629,7 +2629,7 @@ part of the city, should say the highest part of the gate. Accordingly
 we find David presently, in Josephus, as well as in our other copies, 2
 Samuel 19:8, sitting as before, in the gate of the city.
 
-<span id="EntNote Ant 7.20b"></span>[(20)](#EntNote%20Ant%207.20a) By
+<span id="EntNote Ant 7.20b"></span>[(20)](#EntNote%20Ant%207.20a.md) By
 David's disposal of half Mephibosheth's estate to Ziba, one would
 imagine that he was a good deal dissatisfied, and doubtful whether
 Mephibosheth's story were entirely true or not; nor does David now
@@ -2641,7 +2641,7 @@ Mephibosheh an ass of his own, on which he might ride to David, it is
 half to suppose that so great a man as he was should not be able to
 procure some other beast for the same purpose.
 
-<span id="EntNote Ant 7.21b"></span>[(21)](#EntNote%20Ant%207.21a) I
+<span id="EntNote Ant 7.21b"></span>[(21)](#EntNote%20Ant%207.21a.md) I
 clearly prefer Josephus's reading here, when it supposes eleven tribes,
 including Benjamin, to be on the one side, and the tribe of Judah alone
 on the other, since Benjamin, in general, had been still father of the
@@ -2650,7 +2650,7 @@ and so cannot be supposed to be joined with Judah at this time, to make
 it double, especially when the following rebellion was headed by a
 Benjamite. See sect. 6, and 2 Samuel 20:2, 4.
 
-<span id="EntNote Ant 7.22b"></span>[(22)](#EntNote%20Ant%207.22a) This
+<span id="EntNote Ant 7.22b"></span>[(22)](#EntNote%20Ant%207.22a.md) This
 section is a very remarkable one, and shows that, in the opinion of
 Josephus, David composed the Book of Psalms, not at several times
 before, as their present inscriptions frequently imply, but generally at
@@ -2661,7 +2661,7 @@ of them to any other author than to David himself. See Essay on the Old
 Testament, pages 174, 175. Of these metres of the Psalms, see the note
 on Antiq. B. II. ch. 16. sect. 4.
 
-<span id="EntNote Ant 7.23b"></span>[(23)](#EntNote%20Ant%207.23a) The
+<span id="EntNote Ant 7.23b"></span>[(23)](#EntNote%20Ant%207.23a.md) The
 words of God by Moses, Exodus 30:12, sufficiently satisfy the reason
 here given by Josephus for the great plague mentioned in this chapter: —
 "When thou takest the sum of the children of Israel after their number,
@@ -2691,7 +2691,7 @@ God. "Whether it be right in the sight of God to hearken unto men more
 than to God, judge ye," Acts 4:19. "We ought to obey God rather than
 men," ver. 29.
 
-<span id="EntNote Ant 7.24b"></span>[(24)](#EntNote%20Ant%207.24a) What
+<span id="EntNote Ant 7.24b"></span>[(24)](#EntNote%20Ant%207.24a.md) What
 Josephus adds here is very remarkable, that this Mount Moriah was not
 only the very place where Abraham offered up Isaac long ago, but that
 God had foretold to David by a prophet, that here his son should build
@@ -2699,11 +2699,11 @@ him a temple, which is not directly in any of our other copies, though
 very agreeable to what is in them, particularly in 1 Chronicles 21:25,
 28; 22:1, to which places I refer the reader.
 
-<span id="EntNote Ant 7.25b"></span>[(25)](#EntNote%20Ant%207.25a) Of
+<span id="EntNote Ant 7.25b"></span>[(25)](#EntNote%20Ant%207.25a.md) Of
 the quantity of gold and silver expended in the building of Solomon's
 temple, and whence it arose, see the description of ch. 13.
 
-<span id="EntNote Ant 7.26b"></span>[(26)](#EntNote%20Ant%207.26a) David
+<span id="EntNote Ant 7.26b"></span>[(26)](#EntNote%20Ant%207.26a.md) David
 is here greatly blamed by some for recommending Joab and Shimei to be
 punished by Solomon, if he could find a proper occasion, after he had
 borne with the first a long while, and seemed to have pardoned the other
@@ -2726,4 +2726,4 @@ Samuel 19:22; and he swore to him no further, ver. 23, as the words are
 in Josephus, than that he would not then put him to death, which he
 performed; nor was Solomon under any obligation to spare such a traitor.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

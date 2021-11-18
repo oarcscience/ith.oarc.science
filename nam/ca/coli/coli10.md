@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](coli09)  [Next](coli11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](coli09)  [Next](coli11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Culture of the Luiseño Indians*, by Philip Stedman Sparkman,
 \[1908\], at Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ along the groove until it is thoroughly heated, when it is straightened
 and allowed to cool, after which it will retain its shape.
 
 Arrows are also made from the arrow-weed, *Pluchea borealis*. <span
-id="fr_4"></span>[3](#fn_3)
+id="fr_4"></span>[3](#fn_3.md)
 
 The stone points or arrowheads always have a concave base. Farther north
 tanged arrowheads were sometimes used, but the Luiseños did not employ
@@ -74,7 +74,7 @@ oftenest made of the fiber of dogbane, *Apocynum cannabinum*, but are
 also made from that of milkweed or the stinging nettle. Most of the
 strings are two-ply, but some are three-ply and four-ply. They are also
 made of sinew thread, and then are always three-ply. <span
-id="fr_5"></span>[3a](#fn_4)
+id="fr_5"></span>[3a](#fn_4.md)
 
 The quiver is made of the skin of a fox, wildcat, or other animal, and
 is slung over the shoulder by a cord attached to it. A small quantity of
@@ -90,15 +90,15 @@ free to draw the bowstring.
 
 ### Footnotes
 
-<span id="fn_3"></span>[206:3](coli10.htm#fr_4) This sentence was left
+<span id="fn_3"></span>[206:3](coli10.htm#fr_4.md) This sentence was left
 uncompleted by the author. Perhaps he intended to add that this type of
 arrow lacked foreshaft and stone point.
 
-<span id="fn_4"></span>[206:3a](coli10.htm#fr_5) Two Cahuilla bows in
+<span id="fn_4"></span>[206:3a](coli10.htm#fr_5.md) Two Cahuilla bows in
 the Museum of the Department of Anthropology show three-ply sinew
 string. The sinew strings on two of three Mohave bows are also
 three-ply.
 
 ------------------------------------------------------------------------
 
-[Next: Stone Implements](coli11)
+[Next: Stone Implements](coli11.md)

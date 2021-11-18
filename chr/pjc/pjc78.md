@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc77)  [Next](pjc79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc77)  [Next](pjc79.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -275,4 +275,4 @@ think the latter saw him.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXV. The Relation which was given by the Sentinels who
-were placed around the Sepulchre](pjc79)
+were placed around the Sepulchre](pjc79.md)

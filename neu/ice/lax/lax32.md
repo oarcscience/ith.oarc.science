@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Icelandic](../index)  [Index](index) 
-[Previous](lax31)  [Next](lax33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Icelandic](../index)  [Index](index.md) 
+[Previous](lax31)  [Next](lax33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ flourished from the time that Thord came to have hand in it with them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIII: Of Gest Oddleifson and Gudrun's Dreams](lax33)
+[Next: Chapter XXXIII: Of Gest Oddleifson and Gudrun's Dreams](lax33.md)

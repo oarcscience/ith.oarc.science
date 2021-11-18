@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah42)  [Next](oah44) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah42)  [Next](oah44.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ END OF THE FIRST BOOK OF THE FIRST LORDS.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](oah44)
+[Next: Chapter I](oah44.md)

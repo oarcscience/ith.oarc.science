@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pey06)  [Next](pey08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pey06)  [Next](pey08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ willing to tell all to the full extent of my knowledge.
 ------------------------------------------------------------------------
 
 [Next: Jesse Clay's Account of the Arapaho Manner of Giving the Peyote,
-Ceremony Which He Introduced Among the Winnebago in 1912](pey08)
+Ceremony Which He Introduced Among the Winnebago in 1912](pey08.md)

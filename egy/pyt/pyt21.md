@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt20)  [Next](pyt22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt20)  [Next](pyt22.md) 
 
 ------------------------------------------------------------------------
 
@@ -693,4 +693,4 @@ Egypt,
 
 ------------------------------------------------------------------------
 
-[Next: 19. In Praise of Nut, Utterances 427-435](pyt22)
+[Next: 19. In Praise of Nut, Utterances 427-435](pyt22.md)

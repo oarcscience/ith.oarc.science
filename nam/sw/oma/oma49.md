@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma48)  [Next](oma50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma48)  [Next](oma50.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_pl16a"></span>
 
 [![Plate 16, Figure 1](tn/pl16a.jpg)  
-Click to enlarge](img/pl16a.jpg)  
+Click to enlarge](img/pl16a.jpg.md)  
 Plate 16, Figure 1  
 
 FIGURE 1. Weapons (waiishi) given by Sun to the Twins. *a*, Dart used
@@ -28,7 +28,7 @@ which is laid out flat, wet, then twisted up.
 <span id="img_pl16b"></span>
 
 [![Plate 16, Figure 2](tn/pl16b.jpg)  
-Click to enlarge](img/pl16b.jpg)  
+Click to enlarge](img/pl16b.jpg.md)  
 Plate 16, Figure 2  
 
 FIGURE 2. Shield and pouch of the Twins. *a*, Shield of buffalo hide;
@@ -40,4 +40,4 @@ water waves (blue); eagle feathers. *b*, Pouch (light tan).
 
 ------------------------------------------------------------------------
 
-[Next: Plate 17](oma50)
+[Next: Plate 17](oma50.md)

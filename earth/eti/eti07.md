@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti06)  [Next](eti08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti06)  [Next](eti08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -90,4 +90,4 @@ circumstances seemed to compel me to learn and to make public.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. “Never Less Alone Than When Alone.”](eti08)
+[Next: Chapter I. “Never Less Alone Than When Alone.”](eti08.md)

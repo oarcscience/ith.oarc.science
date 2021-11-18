@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft19)  [Next](zft21) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft19)  [Next](zft21.md) 
 
 ------------------------------------------------------------------------
 
@@ -195,4 +195,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: The Prairie-Dogs And Their Priest, The Burrowing-Owl](zft21)
+[Next: The Prairie-Dogs And Their Priest, The Burrowing-Owl](zft21.md)

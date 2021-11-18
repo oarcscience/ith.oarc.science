@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth217)  [Next](toth219) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth217)  [Next](toth219.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -70,4 +70,4 @@ day survivors are taken to their homes.
 
 ------------------------------------------------------------------------
 
-[Next: 108.--A Hopi Raid On A Navaho Dance.](toth219)
+[Next: 108.--A Hopi Raid On A Navaho Dance.](toth219.md)

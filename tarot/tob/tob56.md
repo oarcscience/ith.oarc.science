@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob55) 
-[Next](tob57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob55.md) 
+[Next](tob57.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ to this method: we will now enumerate them one by one.
 FIRST DEAL: Shuffle all the cards of the Tarot, without making any
 distinction between the major and minor arcana. Then let them be cut,
 and divide your pack into three heaps, each containing 26 cards. <span
-id="fr_88"></span>[1](#fn_88)
+id="fr_88"></span>[1](#fn_88.md)
 
 |     |     |     |
 |-----|-----|-----|
@@ -172,7 +172,7 @@ usual on the right.
 When your line is read, you pass the 17th card to your right and the 1st
 to your left, then move the 16th and the 2nd, etc., and so on until the
 cards have all changed places except the one in the centre. This card
-falls on one side. <span id="fr_89"></span>[1](#fn_89)
+falls on one side. <span id="fr_89"></span>[1](#fn_89.md)
 
 THIRD DEAL: Take up all your cards, let them be shuffled and cut for
 you, then arrange them as shown in the following figure, according to
@@ -233,7 +233,7 @@ be one of the first to explain it upon simple principles.
 
 ### Footnotes
 
-<span id="fn_88"></span>[328:1](tob56.htm#fr_88) Etteila quite realized
+<span id="fn_88"></span>[328:1](tob56.htm#fr_88.md) Etteila quite realized
 that the number 26 corresponded with the divine name יהוה the total
 being
 
@@ -241,10 +241,10 @@ being
 
 yod he vau he
 
-<span id="fn_89"></span>[330:1](tob56.htm#fr_89) Perhaps we have
+<span id="fn_89"></span>[330:1](tob56.htm#fr_89.md) Perhaps we have
 misunderstood Etteila, who is very obscure in his books, and whom we are
 trying to explain; but this last operation seems perfectly useless.
 
 ------------------------------------------------------------------------
 
-[Next: Seventh Lesson. Conclusion](tob57)
+[Next: Seventh Lesson. Conclusion](tob57.md)

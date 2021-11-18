@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe033)  [Next](prwe035) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe033)  [Next](prwe035.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ moment, never to be seen again."
 
 ------------------------------------------------------------------------
 
-[Next: The Pixies of Dartmoor](prwe035)
+[Next: The Pixies of Dartmoor](prwe035.md)

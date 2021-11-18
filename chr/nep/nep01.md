@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep00)  [Next](nep02) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep00)  [Next](nep02.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ In age, we are by second nature prone
 
 ------------------------------------------------------------------------
 
-[Next: Alphabet](nep02)
+[Next: Alphabet](nep02.md)

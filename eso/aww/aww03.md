@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](aww02)  [Next](aww04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](aww02)  [Next](aww04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Art of Worldly Wisdom*, by Balthasar Gracian, tr. by Joseph Jacobs,
 \[1892\], at Intangible Textual Heritage
 
@@ -151,7 +151,7 @@ difficult to disprove the thesis that the Spanish nation has produced
 the best maxims of practical wisdom, the best proverb, the best epitaph,
 and the best motto in the world, If I had to sustain it, I would point
 with reference to the first head to the [*Oráculo*
-*Manual*](errata.htm#1).
+*Manual*](errata.htm#1.md).
 
 Sir M. E. GRANT DUFF on "Balthasar Gracian" in *Fortnightly Review*,
 March 1877.
@@ -169,4 +169,4 @@ J. MORLEY on "Aphorisms," *Studies*, 1891, p. 86.
 
 ------------------------------------------------------------------------
 
-[Next: I. Of Balthasar Gracian and his Works](aww04)
+[Next: I. Of Balthasar Gracian and his Works](aww04.md)

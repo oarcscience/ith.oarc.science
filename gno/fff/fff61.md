@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff60)  [Next](fff62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff60)  [Next](fff62.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -110,8 +110,8 @@ as though He should not see, and stood looking at His back. And I beheld
 Him that He was not in any wise clad with garments, but was seen of us
 naked thereof, and not in any wise as a man; and His feet whiter than
 any snow, so that the ground there was lighted up by His feet; and His
-head reaching unto heaven, so that I was afraid [and](errata.htm#40)
-cried out; and He turned and appeared as a [man](errata.htm#41) of small
+head reaching unto heaven, so that I was afraid [and](errata.htm#40.md)
+cried out; and He turned and appeared as a [man](errata.htm#41.md) of small
 stature, and took hold of my beard and pulled it and said unto me,
 'John, be not unbelieving, and not a busybody.' And I said unto Him,
 'But what have I done, Lord V And I tell you, brethren, I suffered great
@@ -645,4 +645,4 @@ and disobey; and how long?'"
 
 ------------------------------------------------------------------------
 
-[Next: From The Acts of Andrew](fff62)
+[Next: From The Acts of Andrew](fff62.md)

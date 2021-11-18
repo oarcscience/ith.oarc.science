@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai44)  [Next](iai46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai44)  [Next](iai46.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,7 +120,7 @@ Equipped complete, provisioned, launch it now.
 An altar next they raise and thus invoke  
 The gods, their evil-workings to revoke:
 
- <span id="fr_269"></span>[1](#fn_266) O Lord of Charms, Illustrious!
+ <span id="fr_269"></span>[1](#fn_266.md) O Lord of Charms, Illustrious!
 who gives  
 Life to the Dead, the Merciful who lives,  
 And grants to hostile gods of Heaven return,  
@@ -150,20 +150,20 @@ For hapless victims lashes with a roar
 The mighty seas upon that awful shore.  
 The Fiends of Darkness gathered lie in wait,  
 With Mammitu, the goddess of fierce hate,  
-And Gibil <span id="fr_270"></span>[2](#fn_267) with his spells, and
-Nibiru <span id="fr_271"></span>[3](#fn_268)  
+And Gibil <span id="fr_270"></span>[2](#fn_267.md) with his spells, and
+Nibiru <span id="fr_271"></span>[3](#fn_268.md)  
 The twin-god of black Fate, and grim Nusku <span
-id="fr_272"></span>[4](#fn_269)  
+id="fr_272"></span>[4](#fn_269.md)  
 The keeper of red thunders, and Urbat <span
-id="fr_273"></span>[5](#fn_270)  
+id="fr_273"></span>[5](#fn_270.md)  
 The dog of Death, and fiend of Queen Belat; <span
-id="fr_274"></span>[6](#fn_271)  
+id="fr_274"></span>[6](#fn_271.md)  
 And Nuk-khu, and the black-browed Ed-hutu <span
-id="fr_275"></span>[7](#fn_272)  
+id="fr_275"></span>[7](#fn_272.md)  
 The gods of darkness here with Tsi-lat-tu. <span
-id="fr_276"></span>[8](#fn_273)
+id="fr_276"></span>[8](#fn_273.md)
 
-And see! Dark Rimmon <span id="fr_277"></span>[9](#fn_274) o'er a crag
+And see! Dark Rimmon <span id="fr_277"></span>[9](#fn_274.md) o'er a crag
 alone!  
 And Gibil with his blasting malisoun,  
 Above with his dark face maleficent,  
@@ -178,10 +178,10 @@ With blasting lightnings maltalent and sweep
 The furious waves that lash around that shore,  
 As the fierce whirl of some dread maëlstrom's power!  
 Above the cavern's arch! see! Ninip <span
-id="fr_278"></span>[10](#fn_275) stands!  
+id="fr_278"></span>[10](#fn_275.md) stands!  
 He points within the cave with beckoning hands!  
 Ur-Hea cries: "My lord! the tablets <span
-id="fr_279"></span>[1](#fn_276) say,  
+id="fr_279"></span>[1](#fn_276.md) say,  
 That we should not attempt that furious way!  
 Those waters of black death will smite us down!  
 Within that cavern's depths we will but drown."  
@@ -258,7 +258,7 @@ And joyfully the King springs to the land.
 
 ### Footnotes
 
-<span id="fn_266"></span>[142:1](iai45.htm#fr_269) This remarkable
+<span id="fn_266"></span>[142:1](iai45.htm#fr_269.md) This remarkable
 prayer is to be found among a collection of prayers which are numbered
 and addressed to separate deities.. It seems that the prayers were
 originally Accadian, and were afterward adopted by the Assyrians, and
@@ -269,38 +269,38 @@ and addressed to separate gods. The one we have selected is addressed to
 Hea, the Creator of Mankind, Sayce edition Smith's "C. A. G.," pp. 75 to
 80. The one we have selected is found at the top of page 77, idem.
 
-<span id="fn_267"></span>[143:2](iai45.htm#fr_270) "Gibil," the god of
+<span id="fn_267"></span>[143:2](iai45.htm#fr_270.md) "Gibil," the god of
 fire, of spells and witchcraft.
 
-<span id="fn_268"></span>[143:3](iai45.htm#fr_271) "Nibiru," the god of
+<span id="fn_268"></span>[143:3](iai45.htm#fr_271.md) "Nibiru," the god of
 fate, and ruler of the stars.
 
-<span id="fn_269"></span>[143:4](iai45.htm#fr_272) "Nusku," the
+<span id="fn_269"></span>[143:4](iai45.htm#fr_272.md) "Nusku," the
 gatekeeper of thunders.
 
-<span id="fn_270"></span>[143:5](iai45.htm#fr_273) "Urbat," the dog of
+<span id="fn_270"></span>[143:5](iai45.htm#fr_273.md) "Urbat," the dog of
 Death.
 
-<span id="fn_271"></span>[143:6](iai45.htm#fr_274) "Belat" or "Allat,"
+<span id="fn_271"></span>[143:6](iai45.htm#fr_274.md) "Belat" or "Allat,"
 the Queen of Hades.
 
-<span id="fn_272"></span>[143:7](iai45.htm#fr_275) "Ed-hutu," god of
+<span id="fn_272"></span>[143:7](iai45.htm#fr_275.md) "Ed-hutu," god of
 darkness.
 
-<span id="fn_273"></span>[143:8](iai45.htm#fr_276) "Tsi-lat-tu," shades
+<span id="fn_273"></span>[143:8](iai45.htm#fr_276.md) "Tsi-lat-tu," shades
 of night.
 
-<span id="fn_274"></span>[143:9](iai45.htm#fr_277) "Rimmon," god of
+<span id="fn_274"></span>[143:9](iai45.htm#fr_277.md) "Rimmon," god of
 storms.
 
-<span id="fn_275"></span>[144:10](iai45.htm#fr_278) "Ninip," god of
+<span id="fn_275"></span>[144:10](iai45.htm#fr_278.md) "Ninip," god of
 bravery and war.
 
-<span id="fn_276"></span>[144:1](iai45.htm#fr_279) "Tablets." This may
+<span id="fn_276"></span>[144:1](iai45.htm#fr_279.md) "Tablets." This may
 mean charts or scrolls similar to the charts used by modern navigators.
 Babylon communicated with all nations in commerce.
 
 ------------------------------------------------------------------------
 
 [Next: Column III. Izdubar Greeted by Mua, Daughter of
-Khasisadra](iai46)
+Khasisadra](iai46.md)

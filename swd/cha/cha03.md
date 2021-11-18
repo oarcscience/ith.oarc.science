@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](cha02)  [Next](cha04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](cha02)  [Next](cha04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785145X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785145X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,9 +30,9 @@ Lord; thus he is a receptacle of charity. The life of a man who is to be
 regenerated is the affection of truth from good, or charity; and that
 life does not exist except from Life, thus from the Lord who is Life in
 Himself, as He Himself teaches: that He is "the Way, the Truth, and the
-Life"; <span id="fr_14"></span>[102-1](#fn_14) and elsewhere, that "As
+Life"; <span id="fr_14"></span>[102-1](#fn_14.md) and elsewhere, that "As
 the Father hath Life in Himself, so hath He given unto the Son to have
-Life in Himself"; <span id="fr_15"></span>[102-2](#fn_15) and elsewhere.
+Life in Himself"; <span id="fr_15"></span>[102-2](#fn_15.md) and elsewhere.
 But, because Life is God, the Divine cannot be appropriated to man, who
 is finite and created, but it can inflow into, and be adjoined to, a
 receptacle; just as the eye is not light in itself, but can receive
@@ -133,7 +133,7 @@ truth of faith is at the present day, that is, that it ought to be
 believed to be true, although it is not seen to be so with the
 understanding. In this way, indeed, falsity may be called truth, and,
 from its confirmation, may be called <span
-id="fr_16"></span>[113-1](#fn_16) truth; as is done.
+id="fr_16"></span>[113-1](#fn_16.md) truth; as is done.
 
 <span class="margnote"><span id="114.">114.</span></span>
 
@@ -172,7 +172,7 @@ charity, although his deeds and speech and thoughts are of unlimited
 variety. All the things he brings forth are as it were images of him
 under differing forms, in all which, however, there is a common form, as
 the plane out of which they are (ex quo). <span
-id="fr_17"></span>[117-1](#fn_17)
+id="fr_17"></span>[117-1](#fn_17.md)
 
 <span class="margnote"><span id="118.">118.</span></span>
 
@@ -181,7 +181,7 @@ known, then, when he is saying or doing anything, another recognizes
 from what purpose and from what love, as it were from what fountain, it
 springs. The Lord says that an evil tree bringeth forth evil fruit, and
 a good tree good fruit, and that an evil tree cannot bring forth good
-fruit. <span id="fr_18"></span>[118-1](#fn_18)
+fruit. <span id="fr_18"></span>[118-1](#fn_18.md)
 
 <span class="margnote"><span id="119.">119.</span></span>
 
@@ -263,7 +263,7 @@ commonwealth, or community, regarded as to the goods of use, make a form
 which corresponds to the heavenly form. (4) They also make a form which
 corresponds to the human form. (5) In this form, each one is a good of
 use in accordance with the scope of his office or employment. <span
-id="fr_19"></span>[126-1](#fn_19)
+id="fr_19"></span>[126-1](#fn_19.md)
 
 <span class="margnote"><span id="127.">127.</span></span>
 
@@ -435,7 +435,7 @@ actions inflow into all parts of the body, organs, viscera, and members.
 In the mind, it is the will and the understanding that are the general
 things. The general things there look to the individual things as their
 parts from which it subsists; and the general looks to the parts from
-which it exists. <span id="fr_20"></span>[144-1](#fn_20)
+which it exists. <span id="fr_20"></span>[144-1](#fn_20.md)
 
 <span class="margnote"><span id="145.">145.</span></span>
 
@@ -464,7 +464,7 @@ respect of its uses.
 The heavenly form is, in the least things and in the greatest things, a
 man; consequently the entire heaven is a Man, every society is a man,
 each individual angel is a man. This is because the Lord, from whom is
-heaven, is Man. <span id="fr_21"></span>[148-1](#fn_21)
+heaven, is Man. <span id="fr_21"></span>[148-1](#fn_21.md)
 
 <span class="margnote"><span id="149.">149.</span></span>
 
@@ -486,40 +486,40 @@ it is not the genuine good from which truth is.
 
 ### Footnotes
 
-<span id="fn_14"></span>[102-1](cha03.htm#fr_14) John xiv. 6.
+<span id="fn_14"></span>[102-1](cha03.htm#fr_14.md) John xiv. 6.
 
-<span id="fn_15"></span>[102-2](cha03.htm#fr_15) John v. 26.
+<span id="fn_15"></span>[102-2](cha03.htm#fr_15.md) John v. 26.
 
-<span id="fn_16"></span>[113-1](cha03.htm#fr_16) The MS. here reads
+<span id="fn_16"></span>[113-1](cha03.htm#fr_16.md) The MS. here reads
 "called" (vocari), but the context suggests that "believed" (credi) may
 have been intended.
 
-<span id="fn_17"></span>[117-1](cha03.htm#fr_17) The following note is
+<span id="fn_17"></span>[117-1](cha03.htm#fr_17.md) The following note is
 on the left-hand margin of the original MS. opposite nos. 117-122:
 "There is a compassion of charity, a clemency of charity, a friendship
 of charity, a good-will of charity, a modesty of charity: in a word, all
 virtues are of charity, but they come another name, and so under another
 category.
 
-<span id="fn_18"></span>[118-1](cha03.htm#fr_18) Matt. vii. 17, 18; Luke
+<span id="fn_18"></span>[118-1](cha03.htm#fr_18.md) Matt. vii. 17, 18; Luke
 vi. 43.
 
-<span id="fn_19"></span>[126-1](cha03.htm#fr_19) Sections 4 and 5
+<span id="fn_19"></span>[126-1](cha03.htm#fr_19.md) Sections 4 and 5
 represent in each case the Author's second version, as shown by crossed
 out passages in the MS. A sixth section, which has been scored out, is
 substantially the same as the heading of chapter VII, number 158.
 
-<span id="fn_20"></span>[144-1](cha03.htm#fr_20) There is a crossing out
+<span id="fn_20"></span>[144-1](cha03.htm#fr_20.md) There is a crossing out
 in this sentence, from which a confusion has arisen. Possibly Swedenborg
 meant to write, "The general things there look to the individual things
 as their parts from which they exist, and the parts look to the general
 from which they subsist," which would agree with what is said elsewhere.
 
-<span id="fn_21"></span>[148-1](cha03.htm#fr_21) In the MS. here,
+<span id="fn_21"></span>[148-1](cha03.htm#fr_21.md) In the MS. here,
 following a crossed out draft of subsection 5, there is the statement,
 "Man is a form of heaven . . ." An examination of the MS. shows that
 most probably it should have been deleted.
 
 ------------------------------------------------------------------------
 
-[Next: 151-200](cha04)
+[Next: 151-200](cha04.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil07)  [Next](egil09) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil07)  [Next](egil09.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ then to come north for the wedding.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER VIII. Of Bard and Thorolf.](egil09)
+[Next: CHAPTER VIII. Of Bard and Thorolf.](egil09.md)

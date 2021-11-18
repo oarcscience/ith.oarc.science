@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hft11)  [Next](hft13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hft11)  [Next](hft13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hawaiian Folk Tales*, by Thomas G. Thrum, \[1907\], at Intangible
 Textual Heritage
 
@@ -941,7 +941,7 @@ then,
 <span id="page_104">p. 104</span>
 
 return, and live quietly at home and do not stir up any war in Koolau."
-Thus warned, [Kualii](errata.htm#1) set out to return to the "deep blue
+Thus warned, [Kualii](errata.htm#1.md) set out to return to the "deep blue
 palis of Koolau."
 
 While the lame marshal was trudging homeward, bearing the head of the
@@ -1014,4 +1014,4 @@ until death took him.
 
 ------------------------------------------------------------------------
 
-[Next: X. Stories of the Menehunes](hft13)
+[Next: X. Stories of the Menehunes](hft13.md)

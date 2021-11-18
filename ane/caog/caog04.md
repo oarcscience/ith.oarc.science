@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog03)  [Next](caog05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog03)  [Next](caog05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -272,7 +272,7 @@ tablets. In this tablet there are sixteen fragments.
 <span id="img_01000"></span> <span align="CENTER"> [![REVERSE OF
 INSCRIBED TERRA COTTA TABLET CONTAINING THE ACCOUNT OF THE DELUGE,
 SHOWING THE VARIOUS FRAGMENTS OF WHICH IT IS COMPOSED.](tn/01000.jpg)  
-Click to enlarge](img/01000.jpg)  
+Click to enlarge](img/01000.jpg.md)  
 REVERSE OF INSCRIBED TERRA COTTA TABLET CONTAINING THE ACCOUNT OF THE
 DELUGE, SHOWING THE VARIOUS FRAGMENTS OF WHICH IT IS COMPOSED.  
 </span>
@@ -507,6 +507,6 @@ in our present collection.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Babylonian and Assyrian Literature](caog05)
+[Next: Chapter II. Babylonian and Assyrian Literature](caog05.md)
 
 </div>

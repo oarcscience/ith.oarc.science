@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](lots186)  [Next](lots188) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](lots186)  [Next](lots188.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001CL82NS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001CL82NS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Lives of the Saints*, by Alban Butler, Benziger Bros. ed. \[1894\], at
 Intangible Textual Heritage
 
@@ -65,6 +65,6 @@ St. Margaret for our example and encouragement.
 
 ------------------------------------------------------------------------
 
-[Next: 11. St. Barnabas, Apostle](lots188)
+[Next: 11. St. Barnabas, Apostle](lots188.md)
 
 </div>

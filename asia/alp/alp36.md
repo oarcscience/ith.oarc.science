@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp35) 
-[Next](alp37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp35.md) 
+[Next](alp37.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Of grace that I on air may learn to live!
 
 ------------------------------------------------------------------------
 
-[Next: The Chragan Palace](alp37)
+[Next: The Chragan Palace](alp37.md)

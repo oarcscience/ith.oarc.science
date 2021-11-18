@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas081n)  [Next](jas083n)   
- \[[82. The Three Dogs.](jas082)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas081n)  [Next](jas083n.md)   
+ \[[82. The Three Dogs.](jas082.md)\]
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ the tree-cutting episode occurs independently of the rescuing dogs.
 
 ------------------------------------------------------------------------
 
-[Next: Note 83. Andrew and his Sisters.](jas083n)
+[Next: Note 83. Andrew and his Sisters.](jas083n.md)

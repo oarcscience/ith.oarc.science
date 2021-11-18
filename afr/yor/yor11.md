@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](yor10)  [Next](yor12) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](yor10)  [Next](yor12.md) 
 
 ------------------------------------------------------------------------
 
@@ -991,4 +991,4 @@ A. The canoe (which carries the goods but stops at the landing-place).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: Folk-Lore Tales.](yor12)
+[Next: Chapter XIV: Folk-Lore Tales.](yor12.md)

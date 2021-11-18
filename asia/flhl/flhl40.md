@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl39)  [Next](flhl41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl39)  [Next](flhl41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Hanauer \[1907\], at Intangible Textual Heritage
 
 I
 
-P. [141](flhl26.htm#page_141). *Folks gentle and simple*.--Considering
+P. [141](flhl26.htm#page_141.md). *Folks gentle and simple*.--Considering
 the strange vicissitudes of Eastern history, it is not surprising that
 many people, now abjectly poor, should claim to be descendants of famous
 men. Orientals generally have great regard for pure blood and ancient
@@ -52,7 +52,7 @@ kings of Armenia. There are some of these high-born people who have been
 more fortunate than others. Thus, the family of the celebrated Khalid
 ibn Walid, surnamed for his victories in the early days of Islam "The
 Sword of Allah," is still powerful at Jerusalem, <span
-id="fr_169"></span>[1](#fn_168) and there are, in the Lebanon,
+id="fr_169"></span>[1](#fn_168.md) and there are, in the Lebanon,
 descendants of the
 
 <span id="page_312">p. 312</span>
@@ -70,14 +70,14 @@ appreciated, in theory, at any rate.
 
 II
 
-P. [148](flhl27.htm#page_148). "*Affixed to the gates of the
+P. [148](flhl27.htm#page_148.md). "*Affixed to the gates of the
 Ka‘aba*."--It was customary among the ancient Arabs to reward poets of
 acknowledged eminence by allowing copies of their verses to be affixed
 to the gate of the temple at Mecca. Seven such poems were thus
 distinguished, and are known in literature as the "Mo‘allakat"
 (Suspended Poems).
 
-P. [148](flhl27.htm#page_148). *Mûkleh*.--An illustration of this form
+P. [148](flhl27.htm#page_148.md). *Mûkleh*.--An illustration of this form
 of head-dress will be found on page 49 of Lane's "Modern Egyptians,"
 vol. i. It is not uncommon in Palestine, where there may, at the present
 day, be seen no fewer than sixty different forms of Oriental male
@@ -85,7 +85,7 @@ head-gear, by which Christians, Jews, Moslems, Bedû, different classes
 of derwìshes and peasants from various districts, etc., may be
 distinguished from each other.
 
-P. [150](flhl27.htm#page_150). *Long hair of a priest of the Orthodox
+P. [150](flhl27.htm#page_150.md). *Long hair of a priest of the Orthodox
 Church*.--The ecclesiastics of the Orthodox Greek Community are
 remarkable for wearing their hair very long. Many Moslem derwìshes do
 the same, but amongst the Mohammedan peasantry it is customary to shave
@@ -106,14 +106,14 @@ long. (See Lane's "Modern Egyptians," vol. i. p. 40.)
 
 III
 
-P. [155](flhl28.htm#page_155). *Au afrìt*.--The ‘afrìt is an especially
+P. [155](flhl28.htm#page_155.md). *Au afrìt*.--The ‘afrìt is an especially
 malicious and mischief-loving demon whose abode is on house-tops, and in
 corners behind doors, as well as in cracks in walls or under thresholds.
 It is considered very dangerous, for women especially, to sit on the
 thresholds of doors after sunset, as then the ‘afarit issue forth from
 their lurking-places and might do them serious injury.
 
-P. [157](flhl28.htm#page_157). *Karakoz and ‘Iweyz*.--Karakoz and
+P. [157](flhl28.htm#page_157.md). *Karakoz and ‘Iweyz*.--Karakoz and
 ’Iweyz, something like the English "Punch and Judy," are the names of
 the actors in Oriental puppet-shows, for a description of which see
 Lane's "Modern Egyptians," vol. ii. p. 116.
@@ -124,7 +124,7 @@ occasion, in Egypt, Asfûr was a leading character.--ED.)
 
 IV
 
-P. [168](flhl29.htm#page_168). "*The Kadi Abdullah el Mustakìm lived at
+P. [168](flhl29.htm#page_168.md). "*The Kadi Abdullah el Mustakìm lived at
 Baghdad*.--El-Mansûr, A.D. 941, having established his court at El
 Hashemìeh, was compelled by an insurrection to erect a new capital, and
 in the 145th year of the Hejira, laid the foundation of Baghdad, which,
@@ -133,7 +133,7 @@ luxury. (See Crichton's " History of Arabia," vol. xxxiii. p. 16.)
 
 V
 
-P. [181](flhl30.htm#page_181). *Azrael and his son*.--As a version of
+P. [181](flhl30.htm#page_181.md). *Azrael and his son*.--As a version of
 the foregoing story, which entirely, and also in scraps, the writer has
 several times heard told by natives of Palestine, is said to be found in
 Grimm's collection of fairy tales, it is difficult to determine whether
@@ -147,7 +147,7 @@ occasions.
 
 <span id="page_314">p. 314</span>
 
-P. [182](flhl30.htm#page_182). *Francesco's card-playing*.--Though at
+P. [182](flhl30.htm#page_182.md). *Francesco's card-playing*.--Though at
 first sight it may seem an anachronism to mention cards as having been
 played in the days of the Herods, seeing that the first actual mention
 of them as having been used in Europe dates back to the year A.D. 1388,
@@ -159,13 +159,13 @@ an Arabian channel. (See Brockhaus, "Conversations-Lexikon" on
 
 VI
 
-P. [192](flhl31.htm#page_192). *The plant feyjan*.--This Arabic name is
+P. [192](flhl31.htm#page_192.md). *The plant feyjan*.--This Arabic name is
 evidently only another form of the Greek πήγανον. According to Bishop
 Jeremy Taylor it was used by pretended exorcists in his day. He says:
 "They are to try the devil by holy water, incense, sulphur, and rue,
 which from thence, as we suppose, came to be called 'herb of grace.'"
 
-P. [201](flhl31.htm#page_201). *Baklâweh*.--A kind of mince-pie pastry
+P. [201](flhl31.htm#page_201.md). *Baklâweh*.--A kind of mince-pie pastry
 covered with syrup of sugar, and of which the natives are particularly
 fond. A story is told of an Arab who, when threatened with immediate
 death if he took any more of it, coolly commended his family to the
@@ -173,7 +173,7 @@ protection of the would-be murderer, who stood over him with a drawn
 sword,--and took another mouthful. (See Note 48. "Tales told in
 Palestine.")
 
-P. [208](flhl31.htm#page_208). "*The Sultan could not make up his mind
+P. [208](flhl31.htm#page_208.md). "*The Sultan could not make up his mind
 to kill her as was his duty since she had no brothers*."--According to
 Oriental social ideas, the result, doubtless, of the fact that polygamy
 is allowed, it is the brother, and not the father, who is a girl's
@@ -181,7 +181,7 @@ natural protector, her avenger if wronged, and her executioner in case
 she disgrace herself. This should be borne in mind when reading such
 scripture narratives as Genesis xxxiv. or 2 Samuel xiii.
 
-P. [213](flhl31.htm#page_213). *Wedding procession of the Jân*.--Ten
+P. [213](flhl31.htm#page_213.md). *Wedding procession of the Jân*.--Ten
 years ago, I was told in Jerusalem the story of a servant of the Latin
 Patriarch who played upon the reed-pipes very beautifully. This man was
 sent one night on an urgent errand to the head of a religious house at
@@ -210,7 +210,7 @@ fond.--ED.
 
 VII
 
-P. [217](flhl32.htm#page_217) ff. *Uhdeydûn*.--This, at first sight,
+P. [217](flhl32.htm#page_217.md) ff. *Uhdeydûn*.--This, at first sight,
 appears a foolish story, but I seem to detect in it a legendary
 reminiscence of the destruction of a savage and cannibal race or their
 subjugation by men more civilised. The name Uhdeydûn, which is a
@@ -220,25 +220,25 @@ bronze.
 
 VIII
 
-P. [234](flhl33.htm#page_234). *The magic mirror of ink and the
+P. [234](flhl33.htm#page_234.md). *The magic mirror of ink and the
 sand-table*.--For a description of the wonders performed by Oriental
 wizards with the Mirror of Ink, see Lane's "Modern Egyptians," vol. i.
 p. 367 ff., or Thomson's "The Land and the Book," in which Lane is
 quoted at p. 157 (edition of 1873). For the sand-table see Lane as
 above, page 362.
 
-P. [234](flhl33.htm#page_234). *Mahajaneh* (more properly
+P. [234](flhl33.htm#page_234.md). *Mahajaneh* (more properly
 "Mahjaneh").--A stick with a peculiar crotch at one end, always cut from
 an almond-tree, and carried by derwìshes. Its handle is the same in
 shape as that of some symbolic staves often represented by the ancient
 Egyptians in the hands of their deities.
 
-P. [237](flhl33.htm#page_237). *The "maûsam" or season of
+P. [237](flhl33.htm#page_237.md). *The "maûsam" or season of
 pilgrimage*.--This varies according to the dignity of the makâm. Many of
 the greater shrines of famous saints, such as Neby Mûsa and Neby Rubin,
 have their own maûsam which lasts a whole week.
 
-P. [238](flhl33.htm#page_238). *The machicolated window above the
+P. [238](flhl33.htm#page_238.md). *The machicolated window above the
 gate*.--In the earlier part of the last century such "machicolations" or
 protected windows over doorways were very common in Jerusalem, not only
 over the entrances to monasteries and public buildings, but even in
@@ -246,7 +246,7 @@ private dwellings. They are rarely met with nowadays.
 
 <span id="page_316">p. 316</span>
 
-P. [240](flhl33.htm#page_240) and following. *Ignorance of Christian
+P. [240](flhl33.htm#page_240.md) and following. *Ignorance of Christian
 priests*.----The Christians of the various sects in Palestine now
 generally appreciate the value of education, and vie with each other in
 providing schools, especially for the training of ecclesiastics. In and
@@ -259,7 +259,7 @@ ignorance, and no adequate provision was made for the instruction of the
 parochial ministers. Even in Jerusalem, it was the custom for the Sunday
 preacher to have to go during the previous week to a learned
 Archimandrite in order to be instructed in a sermon for the
-occasion. <span id="fr_170"></span>[1](#fn_169) It was also then the
+occasion. <span id="fr_170"></span>[1](#fn_169.md) It was also then the
 custom to provide a successor for a village priest who was becoming old
 or feeble, by selecting a likely lad from the hamlet, and sending him as
 a servant to the convent at Jerusalem. Here he had to attend the various
@@ -269,7 +269,7 @@ read them, if nothing else, from the prayer-books.
 
 IX
 
-P. [254](flhl34.htm#page_254). *The Hoopoe* (Upupa Epops).--For
+P. [254](flhl34.htm#page_254). *The Hoopoe* (Upupa Epops.md).--For
 particulars concerning the Hoopoe, see Tristram's "Natural History of
 the Bible," page 208 ff., and Hastings’ "Bible Dictionary," articles
 "Lapwing"; also the Koran xxvii. 20, where, however, Sale wrongly
@@ -287,7 +287,7 @@ I did not mention in my original paper. Other stories, for instance that
 about the old woman, and those on plant-lore, are, as far as I know, new
 to the English-speaking public.
 
-P. [263](flhl35.htm#page_263). The dog who earned his right to decent
+P. [263](flhl35.htm#page_263.md). The dog who earned his right to decent
 burial.--Since I first contributed this story to the Quarterly
 Statement, as above
 
@@ -296,7 +296,7 @@ Statement, as above
 noted, I have, to my surprise, come across a version of it in an old
 eighteenth century Spanish edition of "Gil Blas."
 
-P. [264](flhl35.htm#page_264). *Bìr el Kelb*.--It seems probable that
+P. [264](flhl35.htm#page_264.md). *Bìr el Kelb*.--It seems probable that
 the true origin of the legend about the "Bìr el Kelb" is the fact that
 the Tombs of the King, only a few yards distant, are generally called by
 the Jews "the Tomb of Kalba Shebua." This person is said by tradition to
@@ -307,7 +307,7 @@ upon the historical fact connected with Helena of Adiahene and her
 almsgiving). The grotto where Kalba Shebua distributed his bounty is
 pointed out in the vicinity of the traditional tomb of Simon the Just.
 
-P. [270](flhl35.htm#page_270). " When a male hyæna is seven years old it
+P. [270](flhl35.htm#page_270.md). " When a male hyæna is seven years old it
 becomes either a female of the same species or else a bat."--See Dr J.
 Levy's "Neu-Hebräisches and Chäldaisches Wörterbuch," twelfth part. "A
 male hyæna after seven years becomes a bat, a bat after seven years
@@ -315,9 +315,9 @@ becomes a vampire, that animal after seven years becomes a nettle, a
 nettle after seven years becomes a thorn, a thorn after seven years
 becomes a demon." "Bava Kama," fol. 16. Coli. Quoted by Hershon,
 "Talmudical commentary on Genesis," page 136. <span
-id="fr_171"></span>[1](#fn_170)
+id="fr_171"></span>[1](#fn_170.md)
 
-P. [272](flhl35.htm#page_272). *Story of the man who won the heart of
+P. [272](flhl35.htm#page_272.md). *Story of the man who won the heart of
 the hyena*.--I relate the story as it was told me by a lady who had
 heard it from a fellaheh. It seems to be Seneca's well-known tale of the
 runaway slave and his grateful king of beasts (first mentioned, so it is
@@ -328,20 +328,20 @@ being found only in the Lebanon and the anti-Libanus), whose name
 "Ed-Daba’," is somewhat like the name "Es-Seba’," by which the lion is
 most frequently known, has taken his place in the story.
 
-P. [275](flhl35.htm#page_275). and following pp. *The fox, the eagle,
+P. [275](flhl35.htm#page_275.md). and following pp. *The fox, the eagle,
 and the leopard*.--A version of this fox story is related by F.
 Baldensperger in *Quarterly Statement* for July 1905, pp. 199, 201.
 
 <span id="page_318">p. 318</span>
 
-P. [283](flhl35.htm#page_283).--*The spinal cord of a man becomes a
+P. [283](flhl35.htm#page_283.md).--*The spinal cord of a man becomes a
 serpent*....See Hershon's commentary as above.
 
-P. [283](flhl35.htm#page_283). *A serpent at the age of a thousand,
+P. [283](flhl35.htm#page_283.md). *A serpent at the age of a thousand,
 becomes a whale*.--P. Baldensperger in *Quarterly Statement*, 1905, p.
 204.
 
-P. [283](flhl35.htm#page_283). Time required by different creatures to
+P. [283](flhl35.htm#page_283.md). Time required by different creatures to
 reproduce their species.--Twenty-one days are required for the full
 formation of a hen in the egg and a similar period is required in the
 vegetable kingdom for that of almonds; fifty days for that of a dog and
@@ -361,7 +361,7 @@ field. Bechoroth, fol. 8, col. I. Quoted by Hershon, page 134.
 
 XI
 
-P. [289](flhl36.htm#page_289). *The tortoise-herb*.--*Cf*. "Einiges aus
+P. [289](flhl36.htm#page_289.md). *The tortoise-herb*.--*Cf*. "Einiges aus
 dem Pflanzenreich," by L. Baldensperger. In "Evangelische Blätter aus
 Bethlehem." Juli 1906. Pp. 21 et seq.
 
@@ -369,17 +369,17 @@ Bethlehem." Juli 1906. Pp. 21 et seq.
 
 ### Footnotes
 
-<span id="fn_168"></span>[311:1](flhl40.htm#fr_169) The late Yussif
+<span id="fn_168"></span>[311:1](flhl40.htm#fr_169.md) The late Yussif
 Pasha El Khaldi, one of the representatives of <span id="page_312">p.
 312</span> Turkey at the Berlin Conference, and sometime Mayor of
 Jerusalem, belonged to this old family; so also one or two of the
 Imperial Ottoman Commissioners appointed to supervise the excavations of
 the Palestine Exploration Fund.
 
-<span id="fn_169"></span>[316:1](flhl40.htm#fr_170) See William's " Holy
+<span id="fn_169"></span>[316:1](flhl40.htm#fr_170.md) See William's " Holy
 City," vol. ii. p. 548.
 
-<span id="fn_170"></span>[317:1](flhl40.htm#fr_171) The hyæna from its
+<span id="fn_170"></span>[317:1](flhl40.htm#fr_171.md) The hyæna from its
 habit of digging up and devouring dead bodies is often called ghûleh by
 the fellahìn, and confused with the genuine ghoul. Indeed, there seems a
 general tendency among the ignorant to impute a demoniacal character to
@@ -391,4 +391,4 @@ their captivity.--ED.
 
 ------------------------------------------------------------------------
 
-[Next: Translation of a Jewish Amulet](flhl41)
+[Next: Translation of a Jewish Amulet](flhl41.md)

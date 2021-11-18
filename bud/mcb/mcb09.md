@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mcb08)  [Next](mcb10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mcb08)  [Next](mcb10.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 # VII.
 
-### Kono-mama ("I Am That I Am" <span id="fr_120"></span>[1](#fn_120))
+### Kono-mama ("I Am That I Am" <span id="fr_120"></span>[1](#fn_120).md)
 
 ### I
 
@@ -52,16 +52,16 @@ is an angel in an angel, and a stone in a stone, and a straw in a
 straw." Eckhart has his way of expressing the same idea: "A flea to the
 extent that it is in God, ranks above the highest angel in his own
 right. Thus, in God, all things are equal and are God himself." <span
-id="fr_121"></span>[2](#fn_121)
+id="fr_121"></span>[2](#fn_121.md)
 
 ### II
 
-A Zen poet-master <span id="fr_122"></span>[3](#fn_122) sings:
+A Zen poet-master <span id="fr_122"></span>[3](#fn_122.md) sings:
 
 In the foreground precious stones and agates,  
 In the rear agates and precious stones;  
 To the East Kwannon and Seishi,  
-To the West Monju and Fugen <span id="fr_123"></span>[4](#fn_123)  
+To the West Monju and Fugen <span id="fr_123"></span>[4](#fn_123.md)  
 In the middle there is a streamer:  
 As a breeze passes by  
 It flutters, "*hu-lu*," "*hu-lu*."
@@ -101,7 +101,7 @@ sweet, and gross darkness, clear light. Everything takes its flavor from
 God and becomes divine; everything that happens betrays God when a man's
 mind works that way; things all have this one taste; and therefore God
 is the same to this man alike in life's bitterest moments and sweetest
-pleasures. <span id="fr_124"></span>[5](#fn_124)
+pleasures. <span id="fr_124"></span>[5](#fn_124.md)
 
 <span id="page_146">p. 146</span>
 
@@ -121,7 +121,7 @@ joy is not diminished, nor their equality, because the angel's work is
 to do the will of God and the will of God is the angel's work. If God
 told an angel to go to a tree and pick off the caterpillars, the angel
 would be glad to do it and it would be bliss to him because it *is*
-God's will. <span id="fr_125"></span>[6](#fn_125)?
+God's will. <span id="fr_125"></span>[6](#fn_125.md)?
 
 The Shin pattern of expression is subjective and personal in contrast to
 the Zen way which is objective and impersonal, showing that Shin is more
@@ -131,7 +131,7 @@ emphasize the *prajñā* aspect. The Shin faith is based on Amida's
 *myōgō* (*nāmadheya* in Sanskrit), meaning "the Name." The *myōgō* may
 sound abstract but it is the integrated form of subject and object, of
 devotee and Amida, of *Namu* (worshiper) and Buddha (the worshiped), of
-*ki* and *hō*. <span id="fr_126"></span>[7](#fn_126) When the *myōgō* is
+*ki* and *hō*. <span id="fr_126"></span>[7](#fn_126.md) When the *myōgō* is
 pronounced, the mystic identification takes place:
 
 <span id="page_147">p. 147</span>
@@ -173,7 +173,7 @@ under Rev. Shōnen Tamekuni:
 
 <span id="page_148">p. 148</span>
 
-"*Kono-mamma*": <span id="fr_127"></span>[8](#fn_127) I am so pleased
+"*Kono-mamma*": <span id="fr_127"></span>[8](#fn_127.md) I am so pleased
 with this, I bow my head.  
 Good or bad--’tis "*kono-mamma*"!  
 Right or wrong--’tis "*kono-mamma*"!  
@@ -204,7 +204,7 @@ particulars, everything here will be left to the struggle for existence
 and the survival of the fittest. It is the most dangerous doctrine to be
 put forward, especially to our present world. But it may be worth
 asking, Is this doctrine of "*kono-mama*" really so dangerous? <span
-id="fr_128"></span>[9](#fn_128) Is our present world
+id="fr_128"></span>[9](#fn_128.md) Is our present world
 
 <span id="page_149">p. 149</span>
 
@@ -227,7 +227,7 @@ corporeal thing or anything fragile were included in that unity, it,
 too, would be like the essence of that unity. If I should find myself in
 this essence, even for a moment, I should regard my earthly selfhood as
 of no more importance than a manure worm. <span
-id="fr_129"></span>[10](#fn_129)
+id="fr_129"></span>[10](#fn_129.md)
 
 <span id="page_150">p. 150</span>
 
@@ -331,7 +331,7 @@ Every one of them has been taken away by the "Namu-amida-butsu."
 #### 13
 
 My mind altogether taken captive by *bonnō* <span
-id="fr_130"></span>[11](#fn_130)  
+id="fr_130"></span>[11](#fn_130.md)  
 Has now been taken away together with *bonnō*.  
 The mind is enwrapped in the "Namu-amida-butsu"--  
 Thanks are due to the "Namu-amida-butsu"!
@@ -361,7 +361,7 @@ now no object for his *upāya* (or means) to exercise. The passions must
 remain with us all, without them there will be no joy, no happiness, no
 gratitude, no sociality, no human intercourse. Saichi is quite right
 when he asks Amida to leave *tsumi* with him; <span
-id="fr_131"></span>[12](#fn_131) he fully realizes that without *tsumi*
+id="fr_131"></span>[12](#fn_131.md) he fully realizes that without *tsumi*
 he cannot experience Amida. Our existence is so conditioned on this
 earth that we must have one when we wish to have the other, and this
 wishing is no other than the passions which constitute *tsumi*. We are
@@ -373,7 +373,7 @@ nothingness, which is suchness, *kono-mama*.
 We can say that Saichi's free utterances, occupying more than sixty
 schoolchildren's notebooks, are rhapsodies on his living the grand
 contradiction itself which greets us as *ki* and *hō* <span
-id="fr_132"></span>[13](#fn_132) at every phase of our existence. Saichi
+id="fr_132"></span>[13](#fn_132.md) at every phase of our existence. Saichi
 lives this contradiction
 
 <span id="page_154">p. 154</span>
@@ -526,13 +526,13 @@ hundredweight were loaded on my neck and then someone else took it at
 once on his neck, I had just as lief it were an hundred as one. It would
 not then be heavy to me and would not hurt me. To make a long story
 short, what one suffers through God and for God alone is made sweet and
-easy. <span id="fr_133"></span>[14](#fn_133)
+easy. <span id="fr_133"></span>[14](#fn_133.md)
 
 It \[the will\] is perfect and right when it has no special reference,
 when it has cut loose from self, and when it is transformed and adapted
 to the will of God. Indeed, the more like this the will is, the more
 perfect and true it is. With a will like this, anything is possible,
-whether love or anything else. <span id="fr_134"></span>[15](#fn_134)
+whether love or anything else. <span id="fr_134"></span>[15](#fn_134.md)
 
 Supposing, however that all such \[experiences\] were really of love,
 even then it would not be best. We ought to get over amusing ourselves
@@ -542,22 +542,22 @@ physically. As I have often said, if a person were in such a rapturous
 state as St. Paul once entered, and he knew of a sick man who wanted a
 cup of soup, it would be far better to withdraw from the rapture for
 love's sake and serve him who is in need. <span
-id="fr_135"></span>[16](#fn_135)
+id="fr_135"></span>[16](#fn_135.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_120"></span>[143:1](mcb09.htm#fr_120) "And God said unto
+<span id="fn_120"></span>[143:1](mcb09.htm#fr_120.md) "And God said unto
 Moses, I am that I am: and he said, Thus shalt thou say unto the
 children of Israel, I am hath sent one unto you." Exodus, 3,14.
 
-<span id="fn_121"></span>[144:2](mcb09.htm#fr_121) Blakney, p. 205.
+<span id="fn_121"></span>[144:2](mcb09.htm#fr_121.md) Blakney, p. 205.
 
-<span id="fn_122"></span>[144:3](mcb09.htm#fr_122) Goso Hoyen, died
+<span id="fn_122"></span>[144:3](mcb09.htm#fr_122.md) Goso Hoyen, died
 1104.
 
-<span id="fn_123"></span>[144:4](mcb09.htm#fr_123) These are the chief
+<span id="fn_123"></span>[144:4](mcb09.htm#fr_123.md) These are the chief
 Mahāyāna Bodhisattvas:
 
 1\. Avalokiteśvara  
@@ -565,16 +565,16 @@ Mahāyāna Bodhisattvas:
 3. Mañjuśrī  
 4. Samantabhadra
 
-<span id="fn_124"></span>[145:5](mcb09.htm#fr_124) Blakney, p. 17.
+<span id="fn_124"></span>[145:5](mcb09.htm#fr_124.md) Blakney, p. 17.
 
-<span id="fn_125"></span>[146:6](mcb09.htm#fr_125) *Ibid*., p. 205.
+<span id="fn_125"></span>[146:6](mcb09.htm#fr_125.md) *Ibid*., p. 205.
 
-<span id="fn_126"></span>[146:7](mcb09.htm#fr_126) See *infra*.
+<span id="fn_126"></span>[146:7](mcb09.htm#fr_126.md) See *infra*.
 
-<span id="fn_127"></span>[148:8](mcb09.htm#fr_127) This is her
+<span id="fn_127"></span>[148:8](mcb09.htm#fr_127.md) This is her
 colloquialism for *kono-mama*, "as-it-is-ness."
 
-<span id="fn_128"></span>[148:9](mcb09.htm#fr_128) Saichi has this to
+<span id="fn_128"></span>[148:9](mcb09.htm#fr_128.md) Saichi has this to
 say in regard to "*kono-mama*": <span id="page_149">p. 149</span>
 
 Though we all say by word of mouth "*kono-mama*"  
@@ -592,13 +592,13 @@ which grow out of the one-sided self-power. The "*kono-mama*" doctrine
 is likely to turn into a "heresy" when it is only intellectually
 understood and not experienced in our innermost consciousness.
 
-<span id="fn_129"></span>[149:10](mcb09.htm#fr_129) Blakney, p. 205.
+<span id="fn_129"></span>[149:10](mcb09.htm#fr_129.md) Blakney, p. 205.
 
-<span id="fn_130"></span>[152:11](mcb09.htm#fr_130) Evil passions.
+<span id="fn_130"></span>[152:11](mcb09.htm#fr_130.md) Evil passions.
 
-<span id="fn_131"></span>[153:12](mcb09.htm#fr_131) See *infra*.
+<span id="fn_131"></span>[153:12](mcb09.htm#fr_131.md) See *infra*.
 
-<span id="fn_132"></span>[153:13](mcb09.htm#fr_132) *Ki*, originally
+<span id="fn_132"></span>[153:13](mcb09.htm#fr_132.md) *Ki*, originally
 meaning "hinge," means in Shin especially the devotee who approaches
 Amida in the attitude of dependence. He stands as far as his self-power
 is concerned against Amida. *Hō* is "*Dharma*," "Reality," "Amida," and
@@ -615,12 +615,12 @@ This is Saichi's Oya-sama.
 How happy with the favor!  
 Namu-amida-butsu, Namu-amida-butsu.
 
-<span id="fn_133"></span>[158:14](mcb09.htm#fr_133) Blakney, p. 210.
+<span id="fn_133"></span>[158:14](mcb09.htm#fr_133.md) Blakney, p. 210.
 
-<span id="fn_134"></span>[158:15](mcb09.htm#fr_134) *Ibid*., p. 13.
+<span id="fn_134"></span>[158:15](mcb09.htm#fr_134.md) *Ibid*., p. 13.
 
-<span id="fn_135"></span>[158:16](mcb09.htm#fr_135) *Ibid*., p. 14.
+<span id="fn_135"></span>[158:16](mcb09.htm#fr_135.md) *Ibid*., p. 14.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Notes on ''Namu-amida-butsu''](mcb10)
+[Next: VIII. Notes on ''Namu-amida-butsu''](mcb10.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc074) 
-[Next](motc076) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc074.md) 
+[Next](motc076.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ each other.
 
 ------------------------------------------------------------------------
 
-[Next: 76. The Bear Man](motc076)
+[Next: 76. The Bear Man](motc076.md)

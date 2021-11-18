@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd06)  [Next](smd08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd06)  [Next](smd08.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ were able to milk their cows three times a day.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. June--The Month of Juno](smd08)
+[Next: Chapter VI. June--The Month of Juno](smd08.md)

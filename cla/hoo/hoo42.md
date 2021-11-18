@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo41)  [Next](hoo43) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo41)  [Next](hoo43.md) 
 
 ------------------------------------------------------------------------
 
 ###### XXXVII.
 
-### TO THE CURETES <span id="fr_99"></span>[+](#fn_99).
+### TO THE CURETES <span id="fr_99"></span>[+](#fn_99.md).
 
 ###### The FUMIGATION from FRANKINCENSE.
 
@@ -56,7 +56,7 @@ Nurses of seasons, fruit-producing kings.
 
 ### Footnotes
 
-<span id="fn_99"></span>[167:+](hoo42.htm#fr_99) XXXVII. + The Curetes
+<span id="fn_99"></span>[167:+](hoo42.htm#fr_99.md) XXXVII. + The Curetes
 are plainly celebrated in this Hymn as the winds; the reason of which is
 as follows. Saturn, who according <span id="page_168">p. 168</span> to
 the Orphic theology as related by Proclus, is allotted a supercelestial
@@ -71,4 +71,4 @@ Fury of the winds.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVIII: To Corybas](hoo43)
+[Next: XXXVIII: To Corybas](hoo43.md)

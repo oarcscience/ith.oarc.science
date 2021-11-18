@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh22)  [Next](ehh24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh22)  [Next](ehh24.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ to order their destruction.
 ------------------------------------------------------------------------
 
 [Next: Eleventh Division of the Tuat. I. Kingdom of Temu-Khepera-Ra
-According to the Book Am-Tuat](ehh24)
+According to the Book Am-Tuat](ehh24.md)

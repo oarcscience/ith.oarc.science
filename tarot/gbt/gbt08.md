@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](gbt07)  [Next](gbt09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](gbt07)  [Next](gbt09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ cards of the Lesser Arcana, as far as we know.
 
 ------------------------------------------------------------------------
 
-[Next: II. The High Priestess. Taurus](gbt09)
+[Next: II. The High Priestess. Taurus](gbt09.md)

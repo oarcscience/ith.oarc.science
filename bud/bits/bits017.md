@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits016) [Next](bits018)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits016) [Next](bits018.md)
 
 ------------------------------------------------------------------------
 
@@ -32,13 +32,13 @@ back was one person, and my present grown-up self is another person."
 mother, or a father, or a teacher, or an educated man, or a righteous
 man, or a wise man. Pray, your majesty, is the mother of the
 *kalala*<span id="page_148_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_148_note_1) one person, the mother
+class="small">1</span></sup>](#page_148_note_1.md) one person, the mother
 of the *abbuda*<span id="page_148_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_148_note_1) another person, the
+class="small">1</span></sup>](#page_148_note_1.md) another person, the
 mother of the *pesi*<span id="page_148_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_148_note_1) another person, the
+class="small">1</span></sup>](#page_148_note_1.md) another person, the
 mother of the *ghana*<span id="page_148_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_148_note_1) another person, the
+class="small">1</span></sup>](#page_148_note_1.md) another person, the
 mother of the little child another person, and the mother of the
 grown-up man another person? Is it one person who is a student, and
 another person who has finished his education? Is it one person who
@@ -136,7 +136,7 @@ lived, nor will it live."
 
 ------------------------------------------------------------------------
 
-[Next: § 18. The Mind Less Permanent Than the Body](bits018)
+[Next: § 18. The Mind Less Permanent Than the Body](bits018.md)
 
 ------------------------------------------------------------------------
 
@@ -144,7 +144,7 @@ lived, nor will it live."
 
 <span id="footnotes_page_148">p. 148</span>
 
-<span id="page_148_note_1"></span>[1](#page_148_fr_1) Various stages of
+<span id="page_148_note_1"></span>[1](#page_148_fr_1.md) Various stages of
 the embryo.
 
  

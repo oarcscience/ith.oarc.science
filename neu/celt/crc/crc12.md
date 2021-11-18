@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc11)  [Next](crc13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc11)  [Next](crc13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Intangible Textual Heritage
 ### The Death of Etarcomol
 
 Then Fergus went on this errand; Etarcomol, son of Edan <span
-id="fr_55"></span>[1](#fn_54) and Lethrinne, foster-son of Ailill and
+id="fr_55"></span>[1](#fn_54.md) and Lethrinne, foster-son of Ailill and
 Medb, followed.
 
 'I do not want you to go,' said Fergus, 'and it is not for hatred of
@@ -37,7 +37,7 @@ other, Cuchulainn: there will be no good from your meeting.'
 with disrespect.'
 
 They go thence in two chariots to Delga. Cuchulainn was then playing
-chess <span id="fr_56"></span>[2](#fn_55) with Loeg; the back of his
+chess <span id="fr_56"></span>[2](#fn_55.md) with Loeg; the back of his
 head was towards them, and Loeg's face.
 
 'I see two chariots coming towards us,' said Loeg; 'a great dark man in
@@ -100,11 +100,11 @@ Then he goes away. He turned back from Mahe and Cethe and said to his
 charioteer:
 
 'I have boasted,' said he, 'before Fergus combat with Cuchulainn
-to-morrow. It is not possible for us <span id="fr_57"></span>[1](#fn_56)
+to-morrow. It is not possible for us <span id="fr_57"></span>[1](#fn_56.md)
 to wait for it; turn the horses back again from the hill.'
 
 Loeg sees this and says to Cuchulainn: 'There is the chariot back again,
-and it has put its left board <span id="fr_58"></span>[2](#fn_57)
+and it has put its left board <span id="fr_58"></span>[2](#fn_57.md)
 towards us.'
 
 'It is not a "debt of refusal,"' said Cuchulainn. 'I do not wish,' said
@@ -143,10 +143,10 @@ Fergus saw the chariot go past him, and the. one man therein. He turned
 to quarrel with Cuchulainn.
 
 'Ill done of you, O wild boy!' said he, 'to insult me. You would think
-my club <span id="fr_59"></span>[1](#fn_58) short,' said he.
+my club <span id="fr_59"></span>[1](#fn_58.md) short,' said he.
 
 'Be not angry with me, O friend Fergus,' said Cuchulainn…. <span
-id="fr_60"></span>[2](#fn_59) 'Reproach me not, O friend Fergus.'
+id="fr_60"></span>[2](#fn_59.md) 'Reproach me not, O friend Fergus.'
 
 He stoops down, so that Fergus's chariot went past him thrice.
 
@@ -183,24 +183,24 @@ taken to him; and provision continued to be brought to him by day.
 
 ### Footnotes
 
-<span id="fn_54"></span>[51:1](crc12.htm#fr_55) Name uncertain. YBL has
+<span id="fn_54"></span>[51:1](crc12.htm#fr_55.md) Name uncertain. YBL has
 Eda, LL Feda.
 
-<span id="fn_55"></span>[51:2](crc12.htm#fr_56) *Buanfach*, like
+<span id="fn_55"></span>[51:2](crc12.htm#fr_56.md) *Buanfach*, like
 *fidchell*, is apparently a game something like chess or draughts.
 
-<span id="fn_56"></span>[53:1](crc12.htm#fr_57) YBL reading.
+<span id="fn_56"></span>[53:1](crc12.htm#fr_57.md) YBL reading.
 
-<span id="fn_57"></span>[53:2](crc12.htm#fr_58) An insult.
+<span id="fn_57"></span>[53:2](crc12.htm#fr_58.md) An insult.
 
-<span id="fn_58"></span>[54:1](crc12.htm#fr_59) Or 'track'?
+<span id="fn_58"></span>[54:1](crc12.htm#fr_59.md) Or 'track'?
 
-<span id="fn_59"></span>[54:2](crc12.htm#fr_60) Rhetoric, five lines.
+<span id="fn_59"></span>[54:2](crc12.htm#fr_60.md) Rhetoric, five lines.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Nadcrantail](crc13)
+[Next: The Death of Nadcrantail](crc13.md)
 
 </div>

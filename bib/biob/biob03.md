@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](biob02)  [Next](biob04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](biob02)  [Next](biob04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE954/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE954/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Biography of the Bible*, by Ernest Sutherland Bates, \[1937\], at
 Intangible Textual Heritage
 
@@ -374,7 +374,7 @@ their creative middle period the most
 <span id="img_02400"></span> <span align="CENTER"> [![Codex
 Vaticanus—The oldest complete manuscript of the New Testament (fourth
 century)](tn/02400.jpg)  
-Click to enlarge](img/02400.jpg)  
+Click to enlarge](img/02400.jpg.md)  
 Codex Vaticanus—The oldest complete manuscript of the New Testament
 (fourth century)  
 </span>
@@ -383,7 +383,7 @@ Codex Vaticanus—The oldest complete manuscript of the New Testament
 
 <span id="img_02500"></span> <span align="CENTER"> [![Codex Sinaiticus
 (fourth-century manuscript)](tn/02500.jpg)  
-Click to enlarge](img/02500.jpg)  
+Click to enlarge](img/02500.jpg.md)  
 Codex Sinaiticus (fourth-century manuscript)  
 </span>
 
@@ -783,7 +783,7 @@ of separate
 <span id="img_04000"></span> <span align="CENTER"> [![Codex Alexandrinus
 (fifth-century manuscript), sent by Cyril Lucar, Patriarch of
 Alexandria, to King Charles I of England](tn/04000.jpg)  
-Click to enlarge](img/04000.jpg)  
+Click to enlarge](img/04000.jpg.md)  
 Codex Alexandrinus (fifth-century manuscript), sent by Cyril Lucar,
 Patriarch of Alexandria, to King Charles I of England  
 </span>
@@ -792,7 +792,7 @@ Patriarch of Alexandria, to King Charles I of England
 
 <span id="img_04100"></span> <span align="CENTER"> [![Fourteenth-century
 manuscript of the Wyclif Bible](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)  
+Click to enlarge](img/04100.jpg.md)  
 Fourteenth-century manuscript of the Wyclif Bible  
 </span>
 
@@ -1229,4 +1229,4 @@ suffering and heroic struggle.
 
 ------------------------------------------------------------------------
 
-[Next: Three. The Conflict over Creed and Canon](biob04)
+[Next: Three. The Conflict over Creed and Canon](biob04.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh12)  [Next](boh14) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh12)  [Next](boh14.md) 
 
 ------------------------------------------------------------------------
 
@@ -222,4 +222,4 @@ drapings, funeral songs, and prayers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: The Teutonic Religion. Witches.](boh14)
+[Next: Chapter XII: The Teutonic Religion. Witches.](boh14.md)

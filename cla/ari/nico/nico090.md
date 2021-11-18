@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico089) 
-[Next](nico091) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico089.md) 
+[Next](nico091.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ particular kinds of community.
 ------------------------------------------------------------------------
 
 [Next: Chapter 10. Classification of constitutions: analogies with
-family relations](nico091)
+family relations](nico091.md)

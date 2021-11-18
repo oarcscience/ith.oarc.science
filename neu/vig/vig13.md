@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig12)  [Next](vig14) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig12)  [Next](vig14.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ and Halldora was betrothed to him with a great portion; so the wedding
 went of prosperously, and Glum’s position became one of more dignity
 that it was before.  
         Thorvald was the son of Reim, who lived at Bard, in "the
-Fleets:"  <span id="fr_11"></span>[1](#fn_11) he had to wife Thurida,
+Fleets:"  <span id="fr_11"></span>[1](#fn_11.md) he had to wife Thurida,
 the daughter of Thord of Höfdi. Their children were Klaufi and
 Thorgerda, whom Thorarin of Espihole had married. Thorvald the crooked
 of Grund wedded Thorkatla of Thiorsádal. Hlenni the Old, the son of
@@ -53,7 +53,7 @@ offended at his rejection.
 
 ### Footnotes
 
-<span id="fn_11"></span>[1](vig13.htm#fr_11) As a general rule I have
+<span id="fn_11"></span>[1](vig13.htm#fr_11.md) As a general rule I have
 not attempted to translate the proper names, but in this case and in
 that of "the Tarns" I have given the corresponding English appelations.
 The shallow pieces of water in the Essex marshes are still called
@@ -61,4 +61,4 @@ The shallow pieces of water in the Essex marshes are still called
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](vig14)
+[Next: Chapter XI](vig14.md)

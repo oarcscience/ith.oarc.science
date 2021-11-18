@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](sot08)  [Next](sot10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](sot08)  [Next](sot10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Songs of the Tewa*, by Herbert Joseph Spinden, \[1933\], at Intangible
 Textual Heritage
 
@@ -31,6 +31,6 @@ Laughing was I, nevertheless, you left me!
 
 ------------------------------------------------------------------------
 
-[Next: VI. Lost Love](sot10)
+[Next: VI. Lost Love](sot10.md)
 
 </div>

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr32)  [Next](corr34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr32)  [Next](corr34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -65,7 +65,7 @@ supremely perfect.
 To return to your letter, I owe you many and sincere thanks for having
 confided to me your philosophical opinions; but for the doctrines, which
 you attribute to me, and seek to infer from my letter, I return you no
-thanks [at](errata.htm#4) all. What ground, I should like to know, has
+thanks [at](errata.htm#4.md) all. What ground, I should like to know, has
 my
 
 <span id="page_338">p. 338</span>
@@ -345,4 +345,4 @@ for me but to subscribe myself, &c.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXXV. From Blyenbergh](corr34)
+[Next: Letter XXXV. From Blyenbergh](corr34.md)

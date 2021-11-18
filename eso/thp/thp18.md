@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](thp17) 
-[Next](thp19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](thp17.md) 
+[Next](thp19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -332,4 +332,4 @@ and are maintaining the Truth for which Jesus died.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Externalisation](thp19)
+[Next: XVII. Externalisation](thp19.md)

@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth015)  [Next](toth017) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth015)  [Next](toth017.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 13. THE REVENGE OF THE KATCINAS. <span id="fr_49"></span>[1](#fn_49)
+## 13. THE REVENGE OF THE KATCINAS. <span id="fr_49"></span>[1](#fn_49.md)
 
 Halíksai! This place, Kaö'tûkvi, is somewhere east of the Pueblo
 Indians, and a long time ago many people lived there. West of them was a
@@ -118,10 +118,10 @@ inhabited.
 
 ### Footnotes
 
-<span id="fn_49"></span>[63:1](toth016.htm#fr_49) Told by Pûhû'nömtiwa
+<span id="fn_49"></span>[63:1](toth016.htm#fr_49.md) Told by Pûhû'nömtiwa
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
 [Next: 14. How the Circle (Póngo) Katcina And His Wife Became
-Stars](toth017)
+Stars](toth017.md)

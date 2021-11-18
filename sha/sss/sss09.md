@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sss08)  [Next](sss10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sss08)  [Next](sss10.md) 
 
 ------------------------------------------------------------------------
 
@@ -252,4 +252,4 @@ shaman's own but usually on to a receptacle containing food.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Shaman's Sacrifice](sss10)
+[Next: VIII. The Shaman's Sacrifice](sss10.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi137)  [Next](mtsi139) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi137)  [Next](mtsi139.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ are a man but you want to run away. I will not run. I will not run,
 although my grandfather used to say that the English, Ålåta, and French
 are all hard fighters. When they come, I will take a knife, lie down
 under the bed, and keep striking at them until they kill me." <span
-id="fr_31"></span>[1](#fn_31)
+id="fr_31"></span>[1](#fn_31.md)
 
 Nevertheless the man and his friends started off. They came to a river,
 made canoes, and proceeded along it a great distance until they finally
@@ -156,10 +156,10 @@ make trouble." So they hung up a white cloth and remained by it.
 
 ### Footnotes
 
-<span id="fn_31"></span>[119:1](mtsi138.htm#fr_31) From "I will not run"
+<span id="fn_31"></span>[119:1](mtsi138.htm#fr_31.md) From "I will not run"
 to the end is given in the Koasati language, because the Koasati were
 somewhat looked down upon.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Flood](mtsi139)
+[Next: 3. The Flood](mtsi139.md)

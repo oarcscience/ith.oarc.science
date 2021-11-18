@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw04)  [Next](gsw06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw04)  [Next](gsw06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_1">p. 1</span>
 
-<span id="img_00100"></span> ![FROM LUSTRED POTTERY](img/00100.jpg)
+<span id="img_00100"></span> ![FROM LUSTRED POTTERY](img/00100.jpg.md)
 
 ### CHAPTER I
 
@@ -22,7 +22,7 @@ From the Desert of Nothingness to the Bazaar of Being:
 A naked mortal has arrived in search of a shroud.
 
 <span class="smallcaps">In</span> the year of the separation 1276, <span
-id="fr_5"></span>[1](#fn_5) a poet and a historian, if not the first
+id="fr_5"></span>[1](#fn_5.md) a poet and a historian, if not the first
 poet of modern Iran, in the form of the narrator of the following
 events, or, in other words, I, Nurullah Khan, emerged from the plain of
 Nothingness into the atmosphere of Being. But before introducing myself
@@ -41,11 +41,11 @@ the reader who
 
 reads this narrative to the end; but my present object is simply to show
 that my father was somebody, and that I am not of those who have not
-seen their fathers’ tablecloth spread. <span id="fr_6"></span>[1](#fn_6)
+seen their fathers’ tablecloth spread. <span id="fr_6"></span>[1](#fn_6.md)
 
 My paternal grandfather was *Haji* Abul Hasan Khan <span
-id="fr_7"></span>[2](#fn_7) who first discovered London <span
-id="fr_8"></span>[3](#fn_8) to us Persians. He it was, who was
+id="fr_7"></span>[2](#fn_7.md) who first discovered London <span
+id="fr_8"></span>[3](#fn_8.md) to us Persians. He it was, who was
 instructed by Fath Ali Shah, may Allah forgive Him! to appear at the
 Court of the English monarch, where he lost no opportunity of increasing
 the fame of Persia. In short, thanks to my glorious ancestor, the
@@ -58,7 +58,7 @@ Of the havoc that the rose and its scent made.
 <span class="contnote">\[paragraph continues\]</span> Indeed, such
 honours were paid to my ancestor of auspicious fortune, that I have been
 informed that he was offered the Order of the Jarretière, <span
-id="fr_9"></span>[4](#fn_9) but declined it—at least he never appears to
+id="fr_9"></span>[4](#fn_9.md) but declined it—at least he never appears to
 have brought the insignia of the Order back with him to Iran.
 
 Upon the death of my honoured ancestor,
@@ -96,7 +96,7 @@ They attract one another like straw and amber.
 Fath Ali Khan, Nuri, was, my father always declared, of so noble a
 character, of such prepossessing appearance and of such manly bearing,
 that the Shah-in-Shah occasionally condescended to term him
-*Darya-i-Nur* <span id="fr_10"></span>[1](#fn_10) or "Sea of Light." By
+*Darya-i-Nur* <span id="fr_10"></span>[1](#fn_10.md) or "Sea of Light." By
 such acts did the Kajar Shahs bind their subjects to them with chains of
 kindness, which are stronger than steel. As the poet says:
 
@@ -105,7 +105,7 @@ My friend has put a cord round my neck, and takes me wherever he wills.
 Upon the death of Fath Ali Khan, may Allah forgive him! his son, Mohamed
 Ismail Khan, continued to show kindness to the two orphans, and when he
 was appointed the Vizier of Kiumarz *Mirza*, <span
-id="fr_11"></span>[2](#fn_11) the Governor-General of Kerman and
+id="fr_11"></span>[2](#fn_11.md) the Governor-General of Kerman and
 Baluchistan, my father and uncle accompanied him to that distant
 province.
 
@@ -121,7 +121,7 @@ whose father, after the capture of Kerman by *Aga* Mohamed
 
 <span id="img_00500"></span> <span align="CENTER"> [![MOHAMED ISMAIL
 KHAN, THE VAKIL-UL-MULK](tn/00500.jpg)  
-Click to enlarge](img/00500.jpg)  
+Click to enlarge](img/00500.jpg.md)  
 MOHAMED ISMAIL KHAN, THE VAKIL-UL-MULK  
 </span>
 
@@ -146,7 +146,7 @@ It is not the fault of the sun.
 
 <span class="contnote">\[paragraph continues\]</span> In the first
 place, she shows an extraordinary craving to eat charcoal or Armenian
-earth. <span id="fr_12"></span>[1](#fn_12) Of course, no exertion is
+earth. <span id="fr_12"></span>[1](#fn_12.md) Of course, no exertion is
 allowed, nor may a graveyard be crossed; indeed, it is against the
 custom for her to enter the kitchen at night, for it is then haunted by
 Jinns. If, however, a woman in this condition falls into cold water, the
@@ -169,7 +169,7 @@ After this auspicious ceremony has been concluded, the child's clothes
 are commenced and, when the confinement is at hand, clods of earth are
 procured, the opening chapter of the Koran is breathed on to them, and
 they are then thrown into a well to ensure an easy delivery. A plant,
-termed "Miriam's hand," <span id="fr_13"></span>[1](#fn_13) is also
+termed "Miriam's hand," <span id="fr_13"></span>[1](#fn_13.md) is also
 thrown into a basin, together with an iron ring, and the patient drinks
 this efficacious draught. Frequently, too, a woman is asked to forego a
 portion of her dowry.
@@ -202,7 +202,7 @@ in my own mind, I think that perhaps its beauty affected my disposition,
 and helped me to write verses which are considered by the experts of
 this fine art to be as sweet as sugar and as pleasant as a nightingale.
 The shrine, you must know, was built in honour of *Sayyid* <span
-id="fr_14"></span>[1](#fn_14) Nur-u-Din, Shah Namat Ullah, may Allah
+id="fr_14"></span>[1](#fn_14.md) Nur-u-Din, Shah Namat Ullah, may Allah
 enlighten his grave, and it is necessary that I should represent to you
 who he was. *Sayyid* Nur-u-Din was a descendant of the holy *Imam*
 Bakir, and was born at Aleppo. In his extreme youth he began a series of
@@ -213,7 +213,7 @@ not only visited the Shrine
 
 <span id="img_00900"></span> <span align="CENTER"> [![THE MAHUN
 SHRINE.&lt;br&gt; &lt;i&gt;H. R. Sykes, phot&lt;/i&gt;.](tn/00900.jpg)  
-Click to enlarge](img/00900.jpg)  
+Click to enlarge](img/00900.jpg.md)  
 THE MAHUN SHRINE.  
 *H. R. Sykes, phot*.  
 </span>
@@ -225,7 +225,7 @@ Martyrs, Husein, at Kerbela, but on foot he performed a pilgrimage to
 the House of Allah at Mecca.
 
 Some years later he travelled to Samarcand, at that time the capital of
-Amir Timur, <span id="fr_15"></span>[1](#fn_15) who treated the Saint
+Amir Timur, <span id="fr_15"></span>[1](#fn_15.md) who treated the Saint
 with great distinction, welcoming him in these words:
 
 May the sockets of my eyes be thy nest! Be gracious and dismount,
@@ -313,7 +313,7 @@ And we His lovers!" Thou art but the glass, <span id="page_14">p.
 And He the Face confronting it which casts  
 Its image in the mirror. He alone  
 Is manifest, and thou in truth art hid. <span
-id="fr_16"></span>[1](#fn_16)
+id="fr_16"></span>[1](#fn_16.md)
 
 As to the Saint's prophetic greatness, I will merely mention that, some
 years ago, it was one of his prophecies which caused a revolt of the
@@ -343,7 +343,7 @@ land in the west,
 
 <span id="img_01500"></span> <span align="CENTER"> [![HAZRAT ALI SLAYS
 MARHAB. From the collection of Major Sykes](tn/01500.jpg)  
-Click to enlarge](img/01500.jpg)  
+Click to enlarge](img/01500.jpg.md)  
 HAZRAT ALI SLAYS MARHAB. From the collection of Major Sykes  
 </span>
 
@@ -382,55 +382,55 @@ Allah knows, I understood not why the spot was so dear to me; but, in
 later days, when I travelled, I always felt that there was some
 perfection in Mahun which cannot be equalled elsewhere in Iran.
 
-<span id="img_01600"></span> ![A DESIGN FROM OLD POTTERY](img/01600.jpg)
+<span id="img_01600"></span> ![A DESIGN FROM OLD POTTERY](img/01600.jpg.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_5"></span>[1:1](gsw05.htm#fr_5) The Mohamedan era commences
+<span id="fn_5"></span>[1:1](gsw05.htm#fr_5.md) The Mohamedan era commences
 from the day on which the Prophet fled from hostile Mecca to friendly
 Medina. <span class="smallcaps">a.h.</span> 1276 = 1859 <span
 class="smallcaps">a.d.</span>
 
-<span id="fn_6"></span>[2:1](gsw05.htm#fr_6) *i.e.* of low extraction.
+<span id="fn_6"></span>[2:1](gsw05.htm#fr_6.md) *i.e.* of low extraction.
 
-<span id="fn_7"></span>[2:2](gsw05.htm#fr_7) This individual was the
+<span id="fn_7"></span>[2:2](gsw05.htm#fr_7.md) This individual was the
 original of Morier's ever famous "*Haji* Baba." *Haji* is the title of
 honour given to those who have performed the pilgrimage to Mecca.
 
-<span id="fn_8"></span>[2:3](gsw05.htm#fr_8) Persians invariably speak
+<span id="fn_8"></span>[2:3](gsw05.htm#fr_8.md) Persians invariably speak
 of England by the name of its capital.
 
-<span id="fn_9"></span>[2:4](gsw05.htm#fr_9) Under this name the Order
+<span id="fn_9"></span>[2:4](gsw05.htm#fr_9.md) Under this name the Order
 of the Garter is well known in Persia, and is held to be the highest in
 the world.
 
-<span id="fn_10"></span>[4:1](gsw05.htm#fr_10) The *Darya-i-Nur* is the
+<span id="fn_10"></span>[4:1](gsw05.htm#fr_10.md) The *Darya-i-Nur* is the
 name of one of the most celebrated diamonds in the Persian regalia.
 Persian monarchs are addicted to mild puns, in which connection
 Nasir-u-Din Shah wrote that Ballater was well named, being *balatar* or
 higher than Aberdeen.
 
-<span id="fn_11"></span>[4:2](gsw05.htm#fr_11) *Mirza* after a name
+<span id="fn_11"></span>[4:2](gsw05.htm#fr_11.md) *Mirza* after a name
 signifies a prince; before a name it means a man who can read and write.
 
-<span id="fn_12"></span>[6:1](gsw05.htm#fr_12) This habit of earth
+<span id="fn_12"></span>[6:1](gsw05.htm#fr_12.md) This habit of earth
 eating is widely spread in Asia.
 
-<span id="fn_13"></span>[7:1](gsw05.htm#fr_13) This plant is commonly
+<span id="fn_13"></span>[7:1](gsw05.htm#fr_13.md) This plant is commonly
 known as "The rose of Jericho."
 
-<span id="fn_14"></span>[8:1](gsw05.htm#fr_14) A *Sayyid* is a
+<span id="fn_14"></span>[8:1](gsw05.htm#fr_14.md) A *Sayyid* is a
 descendant of the Prophet by his daughter Fatima, who was married to
 Ali.
 
-<span id="fn_15"></span>[11:1](gsw05.htm#fr_15) *Sc*. Tamerlane.
+<span id="fn_15"></span>[11:1](gsw05.htm#fr_15.md) *Sc*. Tamerlane.
 
-<span id="fn_16"></span>[14:1](gsw05.htm#fr_16) I would take this
+<span id="fn_16"></span>[14:1](gsw05.htm#fr_16.md) I would take this
 opportunity to acknowledge my deep indebtedness to the works of
 Professor E. G. Browne.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. A Campaign In Baluchistan](gsw06)
+[Next: Chapter II. A Campaign In Baluchistan](gsw06.md)

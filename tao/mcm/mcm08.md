@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](mcm07)  [Next](mcm09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](mcm07)  [Next](mcm09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Musings of a Chinese Mystic*, by Lionel Giles, \[1906\], at Intangible
 Textual Heritage
 
@@ -63,7 +63,7 @@ chopper nineteen years, and although I have cut up many thousand
 bullocks, its edge is as if fresh from the whetstone. For at the joints
 there are always interstices, and the edge of a chopper being without
 thickness, it remains only to insert that which is without thickness
-into such an interstice. <span id="fr_11"></span>[1](#fn_11) By these
+into such an interstice. <span id="fr_11"></span>[1](#fn_11.md) By these
 means the interstice will be enlarged, and the blade will find plenty of
 room. It is thus that I have kept my chopper for nineteen years as
 though fresh from the whetstone.
@@ -89,13 +89,13 @@ knew all about birth and death, gain and loss, misfortune and happiness,
 long life and short life—predicting events to a day with supernatural
 accuracy. The people of Chêng used to flee at his approach; but Lieh Tzŭ
 went to see him, and became so infatuated that on his return he said to
-Hu Tzŭ, <span id="fr_12"></span>[1](#fn_12) "I used to look upon your
+Hu Tzŭ, <span id="fr_12"></span>[1](#fn_12.md) "I used to look upon your
 Tao as perfect. Now I know something more perfect still."
 
 "So far," replied Hu Tzŭ, "I have only taught you the ornamentals, not
 the essentials, of Tao; and yet you think you know all about it. Without
 cocks in your poultry-yard, what sort of eggs do the hens lay? <span
-id="fr_13"></span>[2](#fn_13) If you go about trying to
+id="fr_13"></span>[2](#fn_13.md) If you go about trying to
 
 <span id="page_54">p. 54</span>
 
@@ -133,7 +133,7 @@ This being repeated to Hu Tzŭ as before, the latter said: "I showed
 myself to him just now in a state of harmonious equilibrium. Where the
 whale disports itself,—is the abyss. Where water is at rest,—is the
 abyss. Where water is in motion,—is the abyss. The abyss has nine names.
-These are three of them." <span id="fr_14"></span>[1](#fn_14)
+These are three of them." <span id="fr_14"></span>[1](#fn_14.md)
 
 Next day the two went once more to see Hu Tzŭ; but Chi Han was unable to
 stand still, and in his confusion turned and fled.
@@ -230,7 +230,7 @@ Tzŭ to come on. But the latter had fallen prostrate on the ground, with
 the sweat pouring down to his heels.
 
 "The perfect man," said Wu Jen, "soars up to the blue sky, or dives down
-to the yellow springs, <span id="fr_15"></span>[1](#fn_15) or flies to
+to the yellow springs, <span id="fr_15"></span>[1](#fn_15.md) or flies to
 some extreme point of the compass, without change of countenance. But
 you are terrified, and your eyes are dazed. Your internal economy is
 defective."
@@ -262,21 +262,21 @@ influence of the key-note was gone.
 
 ### Footnotes
 
-<span id="fn_11"></span>[52:1](mcm08.htm#fr_11) An allusion to the
+<span id="fn_11"></span>[52:1](mcm08.htm#fr_11.md) An allusion to the
 saying of Lao Tzŭ: "That which has no substance enters where there is no
 crevice."
 
-<span id="fn_12"></span>[53:1](mcm08.htm#fr_12) His tutor.
+<span id="fn_12"></span>[53:1](mcm08.htm#fr_12.md) His tutor.
 
-<span id="fn_13"></span>[53:2](mcm08.htm#fr_13) The hens here stand for
+<span id="fn_13"></span>[53:2](mcm08.htm#fr_13.md) The hens here stand for
 the letter of the doctrine; the cocks, for its spirit; and the eggs, for
 a real knowledge of it.
 
-<span id="fn_14"></span>[55:1](mcm08.htm#fr_14) *I.e.*, three phases of
+<span id="fn_14"></span>[55:1](mcm08.htm#fr_14.md) *I.e.*, three phases of
 Tao.
 
-<span id="fn_15"></span>[58:1](mcm08.htm#fr_15) The infernal regions.
+<span id="fn_15"></span>[58:1](mcm08.htm#fr_15.md) The infernal regions.
 
 ------------------------------------------------------------------------
 
-[Next: The Hidden Spring](mcm09)
+[Next: The Hidden Spring](mcm09.md)

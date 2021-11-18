@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb01)  [Next](boeb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb01)  [Next](boeb03.md) 
 
 ------------------------------------------------------------------------
 
@@ -451,4 +451,4 @@ HAMILTON WRIGHT MABIE
 
 ------------------------------------------------------------------------
 
-[Next: Chevy Chace](boeb03)
+[Next: Chevy Chace](boeb03.md)

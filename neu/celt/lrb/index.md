@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,20 +28,20 @@ enjoyable read in spite of the sometimes grim subject matter.
 
 ------------------------------------------------------------------------
 
-[Title Page](lrb00)  
-[Preface](lrb01)  
-[Contents](lrb02)  
-[Illustrations](lrb03)  
-[Chapter I: The Land, the People and their Story](lrb04)  
-[Chapter II: Menhirs and Dolmens](lrb05)  
-[Chapter III: The Fairies of Brittany](lrb06)  
-[Chapter VI: Sprites and Demons of Brittany](lrb07)  
-[Chapter V: World-Tales in Brittany](lrb08)  
-[Chapter VI: Breton Folk-Tales](lrb09)  
-[Chapter VII: Popular Legends of Brittany](lrb10)  
-[Chapter VIII: Hero-Tales of Brittany](lrb11)  
-[Chapter IX: The Black Art and its Ministers](lrb12)  
-[Chapter X: Arthurian Romance in Brittany](lrb13)  
-[Chapter XI: The Breton Lays of Marie De France](lrb14)  
-[Chapter XII: The Saints of Brittany](lrb15)  
-[Chapter XIII: Costumes and Customs of Brittany](lrb16)  
+[Title Page](lrb00.md)  
+[Preface](lrb01.md)  
+[Contents](lrb02.md)  
+[Illustrations](lrb03.md)  
+[Chapter I: The Land, the People and their Story](lrb04.md)  
+[Chapter II: Menhirs and Dolmens](lrb05.md)  
+[Chapter III: The Fairies of Brittany](lrb06.md)  
+[Chapter VI: Sprites and Demons of Brittany](lrb07.md)  
+[Chapter V: World-Tales in Brittany](lrb08.md)  
+[Chapter VI: Breton Folk-Tales](lrb09.md)  
+[Chapter VII: Popular Legends of Brittany](lrb10.md)  
+[Chapter VIII: Hero-Tales of Brittany](lrb11.md)  
+[Chapter IX: The Black Art and its Ministers](lrb12.md)  
+[Chapter X: Arthurian Romance in Brittany](lrb13.md)  
+[Chapter XI: The Breton Lays of Marie De France](lrb14.md)  
+[Chapter XII: The Saints of Brittany](lrb15.md)  
+[Chapter XIII: Costumes and Customs of Brittany](lrb16.md)  

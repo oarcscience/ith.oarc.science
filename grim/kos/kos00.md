@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Next](kos01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Next](kos01.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,11 +27,11 @@
  
 
 <span id="img_kos01"></span> [![](tn/kos01.jpg)  
-Click to enlarge](img/kos01.jpg)  
+Click to enlarge](img/kos01.jpg.md)  
 Plate I.
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Preface](kos01)
+[Next: Preface](kos01.md)

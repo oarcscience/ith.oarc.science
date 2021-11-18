@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc019) 
-[Next](motc021) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc019.md) 
+[Next](motc021.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ watchers ahead to prevent it.
 
 ------------------------------------------------------------------------
 
-[Next: 21. The Rabbit And The Tar Wolf](motc021)
+[Next: 21. The Rabbit And The Tar Wolf](motc021.md)

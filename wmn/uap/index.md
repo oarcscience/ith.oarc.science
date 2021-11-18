@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Utopia](../../utopia/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Utopia](../../utopia/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](uap00)
+[Contents](#contents)    [Start Reading](uap00.md)
 
 ------------------------------------------------------------------------
 
@@ -35,12 +35,12 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte)
 
 Unveiling a Parallel was a collaboration between two 19th century US
 women writers who lived in Cedar Rapids, Iowa. Like Charlotte Gilman's
-[Herland](../hrl/index), it has a fairly standard framing story. This
+[Herland](../hrl/index.md), it has a fairly standard framing story. This
 title, however, has a bit more balance between exposition and narrative
 than most. It also has some strong women characters, unlike the
 male-penned utopias where women are, more than often, just set-dressing.
 
-The unnamed narrator, a man, arrives at [Mars](../../ufo/mars/index)
+The unnamed narrator, a man, arrives at [Mars](../../ufo/mars/index.md)
 after a flight by 'aeroplane.' (Note that this was written a decade
 before the Wright Brothers.) Mars is much like Earth, and inhabited by
 Earth-like flora and fauna. Where it differs is in the social roles of
@@ -60,16 +60,16 @@ Hopefully more of these can be digitized.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](uap00)  
-[Contents](uap01)  
-[Chapter 1. A Remarkable Acquaintance](uap02)  
-[Chapter 2. A Woman](uap03)  
-[Chapter 3. The Auroras’ Annual](uap04)  
-[Chapter 4. Elodia](uap05)  
-[Chapter 5. The Vaporizer](uap06)  
-[Chapter 6. Cupid's Gardens](uap07)  
-[Chapter 7. New Friends](uap08)  
-[Chapter 8. A Talk With Elodia](uap09)  
-[Chapter 9. Journeying Upward](uap10)  
-[Chapter 10. The Master](uap11)  
-[Chapter 11. A Comparison](uap12)  
+<span id="contents"></span> [Title Page](uap00.md)  
+[Contents](uap01.md)  
+[Chapter 1. A Remarkable Acquaintance](uap02.md)  
+[Chapter 2. A Woman](uap03.md)  
+[Chapter 3. The Auroras’ Annual](uap04.md)  
+[Chapter 4. Elodia](uap05.md)  
+[Chapter 5. The Vaporizer](uap06.md)  
+[Chapter 6. Cupid's Gardens](uap07.md)  
+[Chapter 7. New Friends](uap08.md)  
+[Chapter 8. A Talk With Elodia](uap09.md)  
+[Chapter 9. Journeying Upward](uap10.md)  
+[Chapter 10. The Master](uap11.md)  
+[Chapter 11. A Comparison](uap12.md)  

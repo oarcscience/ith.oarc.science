@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ssm02)  [Next](ssm04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ssm02)  [Next](ssm04.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ J. C.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Introduction](ssm04)
+[Next: Chapter I. Introduction](ssm04.md)

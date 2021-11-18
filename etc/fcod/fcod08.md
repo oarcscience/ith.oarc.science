@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod07)  [Next](fcod09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod07)  [Next](fcod09.md) 
 
 ------------------------------------------------------------------------
 
@@ -485,4 +485,4 @@ polished oak in a road like this."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Funeral Feasts and Processions](fcod09)
+[Next: Chapter VI: Funeral Feasts and Processions](fcod09.md)

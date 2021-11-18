@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat09.htm#LIV)  [Previous](satl053) 
-[Next](satl055) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat09.htm#LIV)  [Previous](satl053.md) 
+[Next](satl055.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ vulneratum.
 
 ------------------------------------------------------------------------
 
-[Next: LV](satl055)
+[Next: LV](satl055.md)

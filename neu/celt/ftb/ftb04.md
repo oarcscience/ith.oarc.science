@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb03)  [Next](ftb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb03)  [Next](ftb05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -24,19 +24,19 @@ Textual Heritage
 
 <span id="img_01000"></span> <span align="CENTER"> [![Beware, beware,
 lost creature](tn/01000.jpg)  
-Click to enlarge](img/01000.jpg)  
+Click to enlarge](img/01000.jpg.md)  
 Beware, beware, lost creature  
 </span>
 
 <span id="page_11">p. 11</span>
 
-<span id="img_01100"></span> ![The Castle of Comorre](img/01100.jpg)
+<span id="img_01100"></span> ![The Castle of Comorre](img/01100.jpg.md)
 
 <span id="img_01101"></span>
 
 |                     |
 |---------------------|
-| ![L](img/01101.jpg) |
+| ![L](img/01101.jpg.md) |
 
 ONG ago in the town of Vannes there lived a king who had an only
 daughter. Her name was Tréphine. She was the loveliest princess in all
@@ -352,4 +352,4 @@ great company returned to Vannes, rejoicing.
 
 ------------------------------------------------------------------------
 
-[Next: The Basin of Gold and The Diamond Lance](ftb05)
+[Next: The Basin of Gold and The Diamond Lance](ftb05.md)

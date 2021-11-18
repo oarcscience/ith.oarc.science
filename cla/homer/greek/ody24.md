@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [English](../ody/ody23) 
-[Previous](ody23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [English](../ody/ody23.md) 
+[Previous](ody23.md) 
 
 ------------------------------------------------------------------------
 

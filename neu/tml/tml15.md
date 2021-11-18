@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml14)  [Next](tml16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml14)  [Next](tml16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -291,4 +291,4 @@ now be told.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Thor's Great Fishing](tml16)
+[Next: Chapter XI. Thor's Great Fishing](tml16.md)

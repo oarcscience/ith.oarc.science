@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft14)  [Next](ftft16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft14)  [Next](ftft16.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_95">p. 95</span>
 
-<span id="img_09500"></span> ![Mahomet, the Bald-head](img/09500.jpg)
+<span id="img_09500"></span> ![Mahomet, the Bald-head](img/09500.jpg.md)
 
 <span id="img_winit"></span>
 
 |                     |
 |---------------------|
-| ![W](img/winit.jpg) |
+| ![W](img/winit.jpg.md) |
 
 HEN the camel was a messenger, when frogs could fly, and when I used to
 roam up hill and down dale, there lived two brothers together. Besides
@@ -59,7 +59,7 @@ his brother with the sight of so much wealth.
 
 |                                                            |
 |------------------------------------------------------------|
-| ![He put the old lady in the boiling water](img/09600.jpg) |
+| ![He put the old lady in the boiling water](img/09600.jpg.md) |
 
 The younger brother was again seized with a desire to divide--the elder,
 we may be sure, having no objection this time. He borrowed a measure
@@ -72,7 +72,7 @@ related his discovery to another, that
 <span id="img_09601"></span>
 
 [![](tn/09601.jpg)  
-Click to enlarge](img/09601.jpg)
+Click to enlarge](img/09601.jpg.md)
 
 <span id="page_97">p. 97</span>
 
@@ -131,7 +131,7 @@ doing nothing.
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE master's wife was afraid that soon it might be her turn to follow the
 fowls and sheep, so in order to escape from the madman she persuaded her
@@ -160,7 +160,7 @@ fell into the well and was lost. Now Mahomet began to cry: "I want
 
 |                                                       |
 |-------------------------------------------------------|
-| ![''I want my leblebi,'' said Mahomet](img/09900.jpg) |
+| ![''I want my leblebi,'' said Mahomet](img/09900.jpg.md) |
 
 my leblebi! I want my leblebi!" and this loud bellowing brought to the
 surface an Arab with two such immense lips that one swept the sky and
@@ -198,7 +198,7 @@ village before. <span id="img_10000"></span>
 
 |                                                  |
 |--------------------------------------------------|
-| ![''Stop cudgels!'' he exclaimed](img/10000.jpg) |
+| ![''Stop cudgels!'' he exclaimed](img/10000.jpg.md) |
 
 Somehow the villagers got wind of the precious mill, and one fine day it
 was missing. "I want my leblebi! I want my leblebi!" was again the cry
@@ -240,4 +240,4 @@ was no more prudent man in the village than Mahomet the Bald-head.
 
 ------------------------------------------------------------------------
 
-[Next: The Storm Fiend](ftft16)
+[Next: The Storm Fiend](ftft16.md)

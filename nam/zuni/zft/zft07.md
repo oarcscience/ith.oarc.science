@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft06)  [Next](zft08) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft06)  [Next](zft08.md) 
 
 ------------------------------------------------------------------------
 
@@ -319,4 +319,4 @@ shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: The Maiden Of The Yellow Rocks](zft08)
+[Next: The Maiden Of The Yellow Rocks](zft08.md)

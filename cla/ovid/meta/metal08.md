@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)   
-[English](meta08)   
-[Previous](metal07)  [Next](metal09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index.md)   
+[English](meta08.md)   
+[Previous](metal07)  [Next](metal09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -890,4 +890,4 @@ frontis, ut ipse vides.' gemitus sunt verba secuti.
 
 ------------------------------------------------------------------------
 
-[Next: Liber Nonus](metal09)
+[Next: Liber Nonus](metal09.md)

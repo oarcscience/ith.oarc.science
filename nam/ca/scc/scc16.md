@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc15)  [Next](scc17) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc15)  [Next](scc17.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,4 +172,4 @@ returned home.
 
 ------------------------------------------------------------------------
 
-[Next: 15.--Truhohi Yokuts. The Beginning Of The World.](scc17)
+[Next: 15.--Truhohi Yokuts. The Beginning Of The World.](scc17.md)

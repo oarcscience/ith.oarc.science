@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr25)  [Next](arr27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr25)  [Next](arr27.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ which we make sericum, which is the ferment Ixir."
 
 ------------------------------------------------------------------------
 
-[Next: The Book of the Revelation of Hermes](arr27)
+[Next: The Book of the Revelation of Hermes](arr27.md)

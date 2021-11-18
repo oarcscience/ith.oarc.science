@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim09)  [Next](anim11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim09)  [Next](anim11.md) 
 
 ------------------------------------------------------------------------
 
@@ -294,4 +294,4 @@ pp. 89-90.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Death Not Always Regarded As Inevitable](anim11)
+[Next: Chapter IX. Death Not Always Regarded As Inevitable](anim11.md)

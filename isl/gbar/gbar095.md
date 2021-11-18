@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar094) [Next](gbar096)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar094) [Next](gbar096.md)
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ holy city and for the people of God, every one crying: 'So be it.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar096)
+[Next](gbar096.md)

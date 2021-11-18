@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale28)  [Next](tale30) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale28)  [Next](tale30.md) 
 
 ------------------------------------------------------------------------
 
@@ -874,4 +874,4 @@ societies, the Plunderer of palaces, and the Gamerer of graves.
 
   And among tales they tell is one touching  
 
-(*Next*) [ALADDIN; OR, THE WONDERFUL LAMP](tale30)  
+(*Next*) [ALADDIN; OR, THE WONDERFUL LAMP](tale30.md)  

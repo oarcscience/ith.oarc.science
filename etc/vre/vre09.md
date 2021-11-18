@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre08)  [Next](vre10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre08)  [Next](vre10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ Before entering upon a minuter study of the process, let me enliven our
 understanding of the definition by a concrete example. I choose the
 quaint case of an unlettered man, Stephen H. Bradley, whose experience
 is related in a scarce American pamphlet. <span
-id="fr_96"></span>[1](#fn_96)
+id="fr_96"></span>[1](#fn_96.md)
 
 I select this case because it shows how in these inner alterations one
 may find one unsuspected depth below another, as if the possibilities of
@@ -336,7 +336,7 @@ acquired, plays an accelerating part in the changes; and the slow
 mutation of our instincts and propensities, under the "unimaginable
 touch of time" has an enormous influence. Moreover, all these influences
 may work subconsciously or half unconsciously. <span
-id="fr_97"></span>[1](#fn_97) And when you get a Subject in whom the
+id="fr_97"></span>[1](#fn_97.md) And when you get a Subject in whom the
 subconscious life—of which I must speak more fully soon—is largely
 developed, and in whom
 
@@ -348,7 +348,7 @@ onlookers, there may appear an element of marvel. Emotional occasions,
 especially violent ones, are extremely potent in precipitating mental
 rearrangements. The sudden and explosive ways in which love, jealousy,
 guilt, fear, remorse, or anger can seize upon one are known to
-everybody. <span id="fr_98"></span>[1](#fn_98) Hope, happiness,
+everybody. <span id="fr_98"></span>[1](#fn_98.md) Hope, happiness,
 security, resolve, emotions characteristic of conversion, can be equally
 explosive. And emotions that come in this explosive way seldom leave
 things as they found them.
@@ -389,13 +389,13 @@ got statistics, but they are very much more intense. Bodily
 accompaniments, loss of sleep and appetite, for example, are much more
 frequent in them. "The essential distinction appears to be that
 conversion intensifies but shortens the period by bringing the person to
-a definite crisis." <span id="fr_99"></span>[1](#fn_99)
+a definite crisis." <span id="fr_99"></span>[1](#fn_99.md)
 
 The conversions which Dr. Starbuck here has in mind are of course mainly
 those of very commonplace persons, kept true to a pre-appointed type by
 instruction, appeal, and example. The particular form which they affect
 is the result of suggestion and imitation. <span
-id="fr_100"></span>[2](#fn_100) If they went through their
+id="fr_100"></span>[2](#fn_100.md) If they went through their
 
 <span id="page_197">p. 197</span>
 
@@ -414,7 +414,7 @@ first-hand and original forms of experience. These are more likely to be
 found in sporadic adult cases.
 
 Professor Leuba, in a valuable article on the psychology of
-conversion, <span id="fr_101"></span>[1](#fn_101) subordinates the
+conversion, <span id="fr_101"></span>[1](#fn_101.md) subordinates the
 theological aspect of the religious life almost entirely to its moral
 aspect. The religious sense he defines as "the feeling of unwholeness,
 of moral imperfection, of sin, to use the technical word, accompanied by
@@ -491,7 +491,7 @@ indeed, old things had passed away and all things had become new.
 have never seen money enough to make me take one. I promised God that
 night that if he would take away the appetite for strong drink, I would
 work for him all my life. He has done his part, and I have been trying
-to do mine." <span id="fr_102"></span>[1](#fn_102)
+to do mine." <span id="fr_102"></span>[1](#fn_102.md)
 
 <span id="page_200">p. 200</span>
 
@@ -502,16 +502,16 @@ cases of drunkards' conversions which are purely ethical, containing, as
 recorded, no theological beliefs whatever. John B. Gough's case, for
 instance, is practically, says Dr. Leuba, the conversion of an
 atheist—neither God nor Jesus being mentioned. <span
-id="fr_103"></span>[1](#fn_103) But in spite of the importance of this
+id="fr_103"></span>[1](#fn_103.md) But in spite of the importance of this
 type of regeneration, with little or no intellectual readjustment, this
 writer surely makes it too exclusive. It corresponds to the subjectively
 centered form of morbid melancholy, of which Bunyan and Alline were
 examples. But we saw in our seventh lecture that there are objective
 forms of melancholy also, in which the lack of rational meaning of the
 universe, and of life anyhow, is the burden that weighs upon one—you
-remember Tolstoy's case. <span id="fr_104"></span>[2](#fn_104) So there
+remember Tolstoy's case. <span id="fr_104"></span>[2](#fn_104.md) So there
 are distinct elements in conversion, and their relations to individual
-lives deserve to be discriminated. <span id="fr_105"></span>[3](#fn_105)
+lives deserve to be discriminated. <span id="fr_105"></span>[3](#fn_105.md)
 
 Some persons, for instance, never are, and possibly never under any
 circumstances could be, converted. Religious ideas
@@ -568,7 +568,7 @@ after the effort ceased, and made the result come as if it came
 spontaneously. A certain music teacher, says Dr. Starbuck, says to her
 pupils after the thing to be done has been clearly pointed out, and
 unsuccessfully attempted: "Stop trying and it will do itself!" <span
-id="fr_106"></span>[1](#fn_106)
+id="fr_106"></span>[1](#fn_106.md)
 
 There is thus a conscious and voluntary way and an involuntary and
 unconscious way in which mental results may get accomplished; and we
@@ -599,7 +599,7 @@ both of whose wedded lives had been beautiful from the beginning, relate
 that not until a year or more after marriage did they awake to the full
 blessedness of married life. So it is with the religious experience of
 these persons we are studying." <span
-id="fr_107"></span>[1](#fn_107)</span>
+id="fr_107"></span>[1](#fn_107.md)</span>
 
 We shall erelong hear still more remarkable illustrations of
 subconsciously maturing processes eventuating in results of which we
@@ -613,7 +613,7 @@ being for many of them almost certainly a misnomer, is better replaced
 by the vaguer term "subconscious" or "subliminal."
 
 Of the volitional type of conversion it would be easy to give
-examples, <span id="fr_108"></span>[2](#fn_108) but they are as a rule
+examples, <span id="fr_108"></span>[2](#fn_108.md) but they are as a rule
 less interesting than
 
 <span id="page_204">p. 204</span>
@@ -645,8 +645,8 @@ be saved, too, if I would stop trying to do it all myself, and follow
 Jesus: somehow I lost my load."—Another: "I finally ceased to resist,
 and gave myself up, though it was a hard struggle. Gradually the feeling
 came over me that I had done my part, and God was willing to do
-his." <span id="fr_109"></span>[1](#fn_109)—"Lord Thy will be done; damn
-or save!" cries John Nelson, <span id="fr_110"></span>[2](#fn_110)
+his." <span id="fr_109"></span>[1](#fn_109.md)—"Lord Thy will be done; damn
+or save!" cries John Nelson, <span id="fr_110"></span>[2](#fn_110.md)
 exhausted with the anxious struggle to escape damnation; and at that
 moment his soul was filled with peace.</span>
 
@@ -661,7 +661,7 @@ wrongness is a far more distinct piece of our consciousness than is the
 imagination of any positive ideal we can aim at. In a majority of cases,
 indeed, the "sin" almost exclusively engrosses the attention, so that
 conversion is "*a process of struggling away from sin rather than of
-striving towards righteousness*." <span id="fr_111"></span>[3](#fn_111)
+striving towards righteousness*." <span id="fr_111"></span>[3](#fn_111.md)
 A man's conscious wit and will, so far as they strain towards the ideal,
 are
 
@@ -690,13 +690,13 @@ which has been welling up in his own being, and let it finish in its own
 way the work it has begun. . . . The act of yielding, in this point of
 view, is giving one's self over to the new life, making it the centre of
 a new personality, and living, from within, the truth of it which had
-before been viewed objectively." <span id="fr_112"></span>[1](#fn_112)
+before been viewed objectively." <span id="fr_112"></span>[1](#fn_112.md)
 
 "Man's extremity is God's opportunity" is the theological way of putting
 this fact of the need of self-surrender; whilst the physiological way of
 stating it would be, "Let one do all in one's power, and one's nervous
 system will do the rest." Both statements acknowledge the same
-fact. <span id="fr_113"></span>[2](#fn_113)
+fact. <span id="fr_113"></span>[2](#fn_113.md)
 
 <span id="page_207">p. 207</span>
 
@@ -842,7 +842,7 @@ excellent way before. If I could have been saved by my own duties or any
 other way that I had formerly contrived, my whole soul would now have
 refused it. I wondered that all the world did not see and comply with
 this way of salvation, entirely by the righteousness of Christ." <span
-id="fr_114"></span>[1](#fn_114)</span>
+id="fr_114"></span>[1](#fn_114.md)</span>
 
 I have italicized the passage which records the exhaustion of the
 anxious emotion hitherto habitual. In a large proportion,
@@ -851,7 +851,7 @@ anxious emotion hitherto habitual. In a large proportion,
 
 perhaps the majority, of reports, the writers speak as if the exhaustion
 of the lower and the entrance of the higher emotion were
-simultaneous, <span id="fr_115"></span>[1](#fn_115) yet often again they
+simultaneous, <span id="fr_115"></span>[1](#fn_115.md) yet often again they
 speak as if the higher actively drove the lower out. This is undoubtedly
 true in a great many instances, as we shall presently see. But often
 there seems little doubt that both conditions—subconscious ripening of
@@ -866,7 +866,7 @@ times, I seemed to sink away into a state of insensibility. When I came
 to myself again I was on my knees, praying not for myself but for
 others. I felt submission to the will of God, willing that he should do
 with me as should seem good in his sight. My concern seemed all lost in
-concern for others." <span id="fr_116"></span>[2](#fn_116)
+concern for others." <span id="fr_116"></span>[2](#fn_116.md)
 
 Our great American revivalist Finney writes: "I said to myself: 'What is
 this? I must have grieved the Holy Ghost entirely away. I have lost all
@@ -881,7 +881,7 @@ which I
 <span class="small">had been laboring. I tried in vain to make myself
 anxious. I was so quiet and peaceful that I tried to feel concerned
 about that, lest it should be the result of my having grieved the Spirit
-away." <span id="fr_117"></span>[1](#fn_117)</span>
+away." <span id="fr_117"></span>[1](#fn_117.md)</span>
 
 But beyond all question there are persons in whom, quite independently
 of any exhaustion in the Subject's capacity for feeling, or even in the
@@ -897,12 +897,12 @@ and my comments on the rest of the subject for the following lecture.
 
 ### Footnotes
 
-<span id="fn_96"></span>[186:1](vre09.htm#fr_96) A sketch of the life of
+<span id="fn_96"></span>[186:1](vre09.htm#fr_96.md) A sketch of the life of
 Stephen H. Bradley, from the age of five to twenty four years, including
 his remarkable experience of the power of the Holy Spirit on the second
 evening of November, 1829. Madison, Connecticut, 1830.
 
-<span id="fn_97"></span>[194:1](vre09.htm#fr_97) Jouffroy is an example:
+<span id="fn_97"></span>[194:1](vre09.htm#fr_97.md) Jouffroy is an example:
 "Down this slope it was that my intelligence had glided, and little by
 little it had got far from its first faith. But this melancholy
 revolution had not taken place in the broad daylight of my
@@ -915,11 +915,11 @@ intention, I should have shuddered to suspect it, and thought it calumny
 had I been accused of such a falling away." Then follows Jouffroy's
 account of his counter-conversion, quoted above on p. 173.
 
-<span id="fn_98"></span>[195:1](vre09.htm#fr_98) One hardly needs
-examples; but for love, see [p. 176](vre08.htm#page_176), note, for
-fear, [p. 161](vre07.htm#page_161); for remorse, see Othello after the
+<span id="fn_98"></span>[195:1](vre09.htm#fr_98.md) One hardly needs
+examples; but for love, see [p. 176](vre08.htm#page_176.md), note, for
+fear, [p. 161](vre07.htm#page_161.md); for remorse, see Othello after the
 murder; for anger see Lear after Cordelia's first speech to him; for
-resolve, see [p. 175](vre08.htm#page_175) (J. Foster case). Here is a
+resolve, see [p. 175](vre08.htm#page_175) (J. Foster case.md). Here is a
 pathological case in which *guilt* was the feeling that suddenly
 exploded: "One night I was seized on entering bed with a rigor, such as
 Swedenborg describes as coming over him with a sense of holiness, but
@@ -929,11 +929,11 @@ the curse of God. I have never done one act of duty in my life—sins
 against God and man beginning as far as my memory goes back—a wildcat in
 human shape."
 
-<span id="fn_99"></span>[196:1](vre09.htm#fr_99) <span
+<span id="fn_99"></span>[196:1](vre09.htm#fr_99.md) <span
 class="smallcaps">E. D. Starbuck</span>: The Psychology of Religion, pp.
 224, 262.
 
-<span id="fn_100"></span>[196:2](vre09.htm#fr_100) No one understands
+<span id="fn_100"></span>[196:2](vre09.htm#fr_100.md) No one understands
 this better than Jonathan Edwards understood it already. Conversion
 narratives of the more commonplace sort must always be taken with the
 allowances which he suggests: <span id="page_197">p. 197</span> "A rule
@@ -953,42 +953,42 @@ for ministers, who have to deal with those who insist upon distinctness
 and clearness of method, to do so too." Treatise on Religious
 Affections.
 
-<span id="fn_101"></span>[197:1](vre09.htm#fr_101) Studies in the
+<span id="fn_101"></span>[197:1](vre09.htm#fr_101.md) Studies in the
 Psychology of Religious Phenomena, American Journal of Psychology, vii.
 309 (1896).
 
-<span id="fn_102"></span>[199:1](vre09.htm#fr_102) I have abridged Mr.
+<span id="fn_102"></span>[199:1](vre09.htm#fr_102.md) I have abridged Mr.
 Hadley's account. For other conversions of drunkards, see his pamphlet,
 Rescue Mission Work, published at the <span id="page_200">p. 200</span>
 Old Jerry M’Auley Water Street Mission, New York City. A striking
 collection of cases also appears in the appendix to Professor Leuba's
 article.
 
-<span id="fn_103"></span>[200:1](vre09.htm#fr_103) A restaurant waiter
+<span id="fn_103"></span>[200:1](vre09.htm#fr_103.md) A restaurant waiter
 served provisionally as Gough's 'Saviour.' General Booth, the founder of
 the Salvation Army, considers that the first vital step in saving
 outcasts consists in making them feel that some decent human being cares
 enough for them to take an interest in the question whether they are to
 rise or sink.
 
-<span id="fn_104"></span>[200:2](vre09.htm#fr_104) The crisis of
+<span id="fn_104"></span>[200:2](vre09.htm#fr_104.md) The crisis of
 apathetic melancholy—no use in life—into which J. S. Mill records that
 he fell, from which he emerged by the reading of Marmontel's Memoirs
 (Heaven save the mark!) and Wordsworth's poetry, is another intellectual
 and general metaphysical case. See Mill's Autobiography, New York, 1873,
 pp. 141, 148.
 
-<span id="fn_105"></span>[200:3](vre09.htm#fr_105) Starbuck, in addition
+<span id="fn_105"></span>[200:3](vre09.htm#fr_105.md) Starbuck, in addition
 to "escape from sin," discriminates "spiritual illumination" as a
 distinct type of conversion experience. Psychology of Religion, p. 85.
 
-<span id="fn_106"></span>[202:1](vre09.htm#fr_106) Psychology of
+<span id="fn_106"></span>[202:1](vre09.htm#fr_106.md) Psychology of
 Religion, p. 117.
 
-<span id="fn_107"></span>[203:1](vre09.htm#fr_107) Psychology of
+<span id="fn_107"></span>[203:1](vre09.htm#fr_107.md) Psychology of
 Religion, p. 385. Compare, also, pp. 137-144 and 262.
 
-<span id="fn_108"></span>[203:2](vre09.htm#fr_108) For instance, C. G.
+<span id="fn_108"></span>[203:2](vre09.htm#fr_108.md) For instance, C. G.
 Finney italicizes the volitional element: "Just at this point the whole
 question of Gospel salvation opened to my mind in a manner most
 marvelous to me at the time. I think I then saw, as clearly as I ever
@@ -1023,25 +1023,25 @@ endeavoring to make my peace with my offended God!' The sin appeared
 awful, infinite. It broke me down before the Lord." Memoirs, pp. 14-16,
 abridged.
 
-<span id="fn_109"></span>[205:1](vre09.htm#fr_109) <span
+<span id="fn_109"></span>[205:1](vre09.htm#fr_109.md) <span
 class="smallcaps">Starbuck</span>: Op. cit., pp. 91, 114.
 
-<span id="fn_110"></span>[205:2](vre09.htm#fr_110) Extracts from the
+<span id="fn_110"></span>[205:2](vre09.htm#fr_110.md) Extracts from the
 Journal of Mr. John Nelson, London, no date, p. 24.
 
-<span id="fn_111"></span>[205:3](vre09.htm#fr_111) <span
+<span id="fn_111"></span>[205:3](vre09.htm#fr_111.md) <span
 class="smallcaps">Starbuck</span>, p. 64.
 
-<span id="fn_112"></span>[206:1](vre09.htm#fr_112) <span
+<span id="fn_112"></span>[206:1](vre09.htm#fr_112.md) <span
 class="smallcaps">Starbuck</span>, p. 115.
 
-<span id="fn_113"></span>[206:2](vre09.htm#fr_113) <span
+<span id="fn_113"></span>[206:2](vre09.htm#fr_113.md) <span
 class="smallcaps">Starbuck</span>, p. 113.
 
-<span id="fn_114"></span>[210:1](vre09.htm#fr_114) Edward's and Dwight's
+<span id="fn_114"></span>[210:1](vre09.htm#fr_114.md) Edward's and Dwight's
 Life of Brainerd, New Haven, 1822, pp. 45-47, abridged.
 
-<span id="fn_115"></span>[211:1](vre09.htm#fr_115) Describing the whole
+<span id="fn_115"></span>[211:1](vre09.htm#fr_115.md) Describing the whole
 phenomenon as a change of equilibrium, we might say that the movement of
 new psychic energies towards the personal centre and the recession of
 old ones towards the margin (or the rising of some objects above, and
@@ -1053,13 +1053,13 @@ experiences, are "really the same thing. Self-surrender sees the change
 in terms of the old self, determination sees it in terms of the new."
 Op. cit., p. 160.
 
-<span id="fn_116"></span>[211:2](vre09.htm#fr_116) A. A. Bonar:
+<span id="fn_116"></span>[211:2](vre09.htm#fr_116.md) A. A. Bonar:
 Nettleton and his Labors, Edinburgh, 1854, p. 261.
 
-<span id="fn_117"></span>[212:1](vre09.htm#fr_117) <span
+<span id="fn_117"></span>[212:1](vre09.htm#fr_117.md) <span
 class="smallcaps">Charles G. Finney</span>: Memoirs written by Himself,
 1876, pp. 17, 18.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture X. Conversion—Concluded](vre10)
+[Next: Lecture X. Conversion—Concluded](vre10.md)

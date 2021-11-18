@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes29)  [Next](nes31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes29)  [Next](nes31.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,10 +21,10 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HREE knocks were heard at regular intervals of one or two minutes'
-duration. <span id="fr_153"></span>[1](#fn_153) They might be heard in
+duration. <span id="fr_153"></span>[1](#fn_153.md) They might be heard in
 any part of the dwelling-house, on the entrance door, on a table, on the
 top of a "bun-bed." Their sound was quite different from any other. It
 was dull and heavy, and had something eerie about it. A similar omen was
@@ -38,7 +38,7 @@ sounds that prognosticated death, and lasted for any length of time.
 
 The noise of the worm that eats the woodwork of houses, "the chackie
 mill," was looked on as presaging a coming death. <span
-id="fr_154"></span>[2](#fn_154)
+id="fr_154"></span>[2](#fn_154.md)
 
 Before the death of one of the household there was at times heard during
 the night the noise as if something heavy were laid down outside the
@@ -58,7 +58,7 @@ A death was often made known by the light called a "dead-can’le." It was
 seen moving about the house in which the death was to take place, and
 along the road by which the corpse was to be carried to the grave. Its
 motion was slow and even. The light was pale-bluish, wholly unlike any
-made by human art. <span id="fr_155"></span>[1](#fn_155)
+made by human art. <span id="fr_155"></span>[1](#fn_155.md)
 
 A crop more than usually good foreshadowed the death of the goodman, and
 went by the name of a "fey-crap."
@@ -69,7 +69,7 @@ flame consumes the candle, at times the little column formed by the
 gutter is left standing unconsumed on the edge of the candle. It is
 called a "coffin-spehl," and is looked upon with suspicion as portending
 a death in the family at no very distant period. <span
-id="fr_156"></span>[2](#fn_156)
+id="fr_156"></span>[2](#fn_156.md)
 
 The apparition of the person that was doomed to die within a short time
 was seen wrapped in a winding-sheet, and the higher the winding-sheet
@@ -78,7 +78,7 @@ seen during day, and it might show itself to any one, but only to one,
 who generally fell into a faint a short time afterwards. If the person
 who saw the apparition was alone at the time, the fainting-fit did not
 come on till after meeting with others. <span
-id="fr_157"></span>[3](#fn_157)
+id="fr_157"></span>[3](#fn_157.md)
 
 Three drops of cold blood falling from the nose was the sure indication
 of the death of one very nearly related to the one from whose nose the
@@ -86,11 +86,11 @@ blood fell.
 
 It was regarded as an omen of death, either of himself or herself, or of
 one nearly related, if one showed more than ordinary joy. <span
-id="fr_158"></span>[4](#fn_158)
+id="fr_158"></span>[4](#fn_158.md)
 
 If the sick person did not sneeze, the disease would end in death.
 Sneezing was accounted the turning-point towards recovery. <span
-id="fr_159"></span>[5](#fn_159)
+id="fr_159"></span>[5](#fn_159.md)
 
 When one fell sick means were at times used to find out whether the
 sickness would end in death. Two holes called
@@ -140,7 +140,7 @@ the hill of Auchanasie. The foul deed had been accomplished,
 <span id="page_206">p. 206</span>
 
 and the cottage set on fire. By next day all knew of what the mysterious
-sound had been the forerunner. <span id="fr_160"></span>[1](#fn_160)
+sound had been the forerunner. <span id="fr_160"></span>[1](#fn_160.md)
 
 ### DEATH.
 
@@ -158,13 +158,13 @@ fowls' feathers in the pillows or bed, at all times a cause of a hard
 struggle in death. This notion about wild fowls' feathers did not exist
 among some of the fishing population that used the feathers of all kinds
 of birds, except those of the pigeon. <span
-id="fr_161"></span>[2](#fn_161)
+id="fr_161"></span>[2](#fn_161.md)
 
 In the very moment of death all the doors and windows that were capable
 of being opened were thrown wide open, to give the departing spirit full
 and free egress, lest the evil spirits might intercept it in its
 heavenward flight. The Esquimo have the same custom. <span
-id="fr_162"></span>[3](#fn_162)
+id="fr_162"></span>[3](#fn_162.md)
 
 Immediately on death, a piece of iron, such as a knitting-wire or a
 nail, was stuck into whatever meal, butter, cheese, flesh, or whisky
@@ -173,7 +173,7 @@ of these articles has followed closely on the neglect of this, and the
 whisky has been known to become white as milk.
 
 All the milk in the house was poured out on the ground. <span
-id="fr_163"></span>[4](#fn_163) In some fishing villages all the onions
+id="fr_163"></span>[4](#fn_163.md) In some fishing villages all the onions
 and butter were cast forth.
 
 The chairs, &c. in the house were sprinkled with water. The clothes of
@@ -183,11 +183,11 @@ that they always had a peculiar smell.
 <span id="page_207">p. 207</span>
 
 If there was a clock, it was stopped. <span
-id="fr_164"></span>[1](#fn_164) If there was a looking-glass, it was
-covered with a white cloth, <span id="fr_165"></span>[2](#fn_165) as
+id="fr_164"></span>[1](#fn_164.md) If there was a looking-glass, it was
+covered with a white cloth, <span id="fr_165"></span>[2](#fn_165.md) as
 were also the pictures.
 
-All the hens and the cats <span id="fr_166"></span>[3](#fn_166) were
+All the hens and the cats <span id="fr_166"></span>[3](#fn_166.md) were
 shut up during the whole time the body was unburied, from the belief
 that, if a cat or a hen leaped over it, the person, who was the first to
 meet the cat or hen that did so, became blind, not perhaps at the time,
@@ -212,7 +212,7 @@ closed, an old penny or halfpenny piece was laid over the eyes.
 
 On the breast was placed a saucer or a plate containing a little salt,
 to keep the evil spirits away, because they could not come near Christ's
-savour of the earth. <span id="fr_167"></span>[4](#fn_167)
+savour of the earth. <span id="fr_167"></span>[4](#fn_167.md)
 
 To prevent swelling in the bowels, any small dish with a little mould
 was at times placed on them. If this had been neglected, and swelling
@@ -247,7 +247,7 @@ The bodies of those who were drowned, but not recovered, were supposed
 to come to the surface of the water on the ninth day. It was the weight
 of the gall that kept the body at the bottom. On the ninth day the
 gall-bag broke, and the body, being relieved of the weight,
-floated. <span id="fr_168"></span>[1](#fn_168)
+floated. <span id="fr_168"></span>[1](#fn_168.md)
 
 A mode of discovering a body drowned in a stream or river, was to put a
 loaf into the water at the spot where the unfortunate fell. The loaf
@@ -284,7 +284,7 @@ dead--"to see the corpse."
 
 The body was sedulously watched day and night, more particularly,
 however, during night. The watching during the night was called "the
-lyke" or "the waukan." <span id="fr_169"></span>[1](#fn_169)
+lyke" or "the waukan." <span id="fr_169"></span>[1](#fn_169.md)
 
 A few of the neighbours met every evening, and performed the kind office
 of watchers. One of them at least had to be awake, lest the evil spirits
@@ -314,52 +314,52 @@ with ale were served about midnight.
 
 ### Footnotes
 
-<span id="fn_153"></span>[203:1](nes30.htm#fr_153) Cf. Henderson, p. 48.
+<span id="fn_153"></span>[203:1](nes30.htm#fr_153.md) Cf. Henderson, p. 48.
 
-<span id="fn_154"></span>[203:2](nes30.htm#fr_154) *Ibid*. p. 45.
+<span id="fn_154"></span>[203:2](nes30.htm#fr_154.md) *Ibid*. p. 45.
 
-<span id="fn_155"></span>[204:1](nes30.htm#fr_155) Cf. *F. L Record*,
+<span id="fn_155"></span>[204:1](nes30.htm#fr_155.md) Cf. *F. L Record*,
 vol. i. p. 53 (178); *Notes and Queries*, 5th series, vol. ix. p. 65.
 
-<span id="fn_156"></span>[204:2](nes30.htm#fr_156) Cf. Henderson, p. 48.
+<span id="fn_156"></span>[204:2](nes30.htm#fr_156.md) Cf. Henderson, p. 48.
 
-<span id="fn_157"></span>[204:3](nes30.htm#fr_157) *Ibid*. pp. 46-48.
+<span id="fn_157"></span>[204:3](nes30.htm#fr_157.md) *Ibid*. pp. 46-48.
 
-<span id="fn_158"></span>[204:4](nes30.htm#fr_158) *Choice Notes*, p.
+<span id="fn_158"></span>[204:4](nes30.htm#fr_158.md) *Choice Notes*, p.
 123.
 
-<span id="fn_159"></span>[204:5](nes30.htm#fr_159) *Notes and Queries*,
+<span id="fn_159"></span>[204:5](nes30.htm#fr_159.md) *Notes and Queries*,
 5th series, vol. viii. pp. 221, 222.
 
-<span id="fn_160"></span>[206:1](nes30.htm#fr_160) Cf. Henderson, pp.
+<span id="fn_160"></span>[206:1](nes30.htm#fr_160.md) Cf. Henderson, pp.
 129-136.
 
-<span id="fn_161"></span>[206:2](nes30.htm#fr_161) Cf. Henderson, p. 60;
+<span id="fn_161"></span>[206:2](nes30.htm#fr_161.md) Cf. Henderson, p. 60;
 *F. L. Record*, vol. i. p. 59 (193), vol. iii. pt. i. p. 127.
 
-<span id="fn_162"></span>[206:3](nes30.htm#fr_162) Cf. Henderson, pp.
+<span id="fn_162"></span>[206:3](nes30.htm#fr_162.md) Cf. Henderson, pp.
 53-56; *F. L. Record*, vol. i. p. 60 (194), p. 102; *Choice Notes*, pp.
 117, 118.
 
-<span id="fn_163"></span>[206:4](nes30.htm#fr_163) Cf. *F. L. Record*,
+<span id="fn_163"></span>[206:4](nes30.htm#fr_163.md) Cf. *F. L. Record*,
 vol. i. p. 101.
 
-<span id="fn_164"></span>[207:1](nes30.htm#fr_164) Cf. Henderson, p. 56;
+<span id="fn_164"></span>[207:1](nes30.htm#fr_164.md) Cf. Henderson, p. 56;
 *Choice Notes*, p. 121.
 
-<span id="fn_165"></span>[207:2](nes30.htm#fr_165) Cf. Henderson, p. 56
+<span id="fn_165"></span>[207:2](nes30.htm#fr_165.md) Cf. Henderson, p. 56
 *Choice Notes*, p. 121.
 
-<span id="fn_166"></span>[207:3](nes30.htm#fr_166) Cf. Henderson, p. 59.
+<span id="fn_166"></span>[207:3](nes30.htm#fr_166.md) Cf. Henderson, p. 59.
 
-<span id="fn_167"></span>[207:4](nes30.htm#fr_167) Cf. Henderson, p. 56;
+<span id="fn_167"></span>[207:4](nes30.htm#fr_167.md) Cf. Henderson, p. 56;
 *Choice Notes*, pp. 119-121, 174 (4).
 
-<span id="fn_168"></span>[208:1](nes30.htm#fr_168) Cf. Henderson, p. 59.
+<span id="fn_168"></span>[208:1](nes30.htm#fr_168.md) Cf. Henderson, p. 59.
 
-<span id="fn_169"></span>[209:1](nes30.htm#fr_169) Cf. Henderson, pp.
+<span id="fn_169"></span>[209:1](nes30.htm#fr_169.md) Cf. Henderson, pp.
 54-56.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII. Burial](nes31)
+[Next: Chapter XXVIII. Burial](nes31.md)

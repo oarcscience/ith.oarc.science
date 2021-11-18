@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](por17)  [Next](por19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](por17)  [Next](por19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path on the Rainbow*, edited by George W. Cronyn, \[1918\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 *The Stone, with the curative powers of its heat, becomes a symbol of
 permanency and strength.*
 
-Ho! Aged One, eçka, <span id="fr_2"></span>[\*](#fn_2)  
+Ho! Aged One, eçka, <span id="fr_2"></span>[\*](#fn_2.md)  
 At a time when there were gathered together seven persons,  
 You sat in the seventh place, it is said,  
 And of the Seven you alone possessed knowledge of all things,  
@@ -196,8 +196,8 @@ sake.
 
 ### Footnotes
 
-<span id="fn_2"></span>[46:\*](por18.htm#fr_2) Eçka—I implore.
+<span id="fn_2"></span>[46:\*](por18.htm#fr_2.md) Eçka—I implore.
 
 ------------------------------------------------------------------------
 
-[Next: Songs of the Ghost Dance Religion](por19)
+[Next: Songs of the Ghost Dance Religion](por19.md)

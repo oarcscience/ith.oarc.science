@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey03)  [Next](grey05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey03)  [Next](grey05.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Then little Maui spoke out quite boldly, and said: 'Very well, I'd
 better be off then, for I suppose, as you say it, I must be the child of
 some other person; but indeed I did think I was your child when I said
 so, because I knew I was born at the side of the sea, <span
-id="fr_0"></span>[1](#fn_0) and was thrown by you into the foam of the
+id="fr_0"></span>[1](#fn_0.md) and was thrown by you into the foam of the
 surf, after you had wrapped me up in a tuft of your hair, which you cut
 off for the purpose; then the seaweed formed and fashioned me, as caught
 in its long tangles the ever-heaving surges of the sea rolled me, folded
@@ -311,7 +311,7 @@ dips first one wing and then the other, but the cave now widened, and he
 dashed straight on.
 
 At last he saw a party of people coming alone under a grove of trees,
-they were manapau trees, <span id="fr_1"></span>[1](#fn_1) and flying
+they were manapau trees, <span id="fr_1"></span>[1](#fn_1.md) and flying
 on, he perched upon the top of one of these trees, under which the
 people had seated themselves; and when he saw his mother lying down on
 the grass by the side of her husband, he guessed at once who they were,
@@ -860,7 +860,7 @@ upon him, and almost killed Irawaru.
 When he was on the point of death, Maui trampled on his body, and
 lengthened his back-bone, and by his enchantments drew it out into the
 form of a tall, and he transformed Irawaru into a dog, and fed him with
-dung. <span id="fr_2"></span>[1](#fn_2)
+dung. <span id="fr_2"></span>[1](#fn_2.md)
 
 <span id="page_37">p. 37</span>
 
@@ -992,7 +992,7 @@ children, and sons were born
 to him; some of his descendants yet live in Hawaiki, some in Aotearoa
 (or in these islands); the greater part of his descendants remained in.
 Hawaiki, but a few of them came here to Aotearoa. According to the
-traditions of the Maori <span id="fr_3"></span>[1](#fn_3), this was the
+traditions of the Maori <span id="fr_3"></span>[1](#fn_3.md), this was the
 cause of the introduction of death into the world (Hine-nui-te-po being
 the goddess of death: if Maui had passed safely through her, then no
 more human beings would have died, but death itself would have been
@@ -1013,7 +1013,7 @@ other similar occasions.
 
 ### Footnotes
 
-<span id="fn_0"></span>[12:1](grey04.htm#fr_0) If a child was born
+<span id="fn_0"></span>[12:1](grey04.htm#fr_0.md) If a child was born
 before its time, and thus perished without having known the joys and
 pleasures of life, it was carefully buried with peculiar incantations
 and ceremonies; because if cast into the water, or carelessly thrown
@@ -1022,11 +1022,11 @@ antipathy to the human race, who it spitefully persecuted, from having
 been itself deprived of happiness which they enjoyed. All their
 malicious deities had an origin of this kind.
 
-<span id="fn_1"></span>[20:1](grey04.htm#fr_1) The manapau was a species
+<span id="fn_1"></span>[20:1](grey04.htm#fr_1.md) The manapau was a species
 of tree peculiar to the country from whence the people came, where the
 priests say it was known by that name.
 
-<span id="fn_2"></span>[36:1](grey04.htm#fr_2) This quarrel of Maui with
+<span id="fn_2"></span>[36:1](grey04.htm#fr_2.md) This quarrel of Maui with
 his brother-in-law, Irawaru, is sometimes narrated in this way:
 
 Maui and his brother-in-law had been paying a visit to the people of a
@@ -1047,9 +1047,9 @@ same for Irawaru, who suspecting no harm laid his head on Maui's lap,
 who threw him into an enchanted sleep, and then by his enchantments
 changed him into a dog.
 
-<span id="fn_3"></span>[41:1](grey04.htm#fr_3) Inhabitants of New
+<span id="fn_3"></span>[41:1](grey04.htm#fr_3.md) Inhabitants of New
 Zealand
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Tawhaki](grey05)
+[Next: The Legend of Tawhaki](grey05.md)

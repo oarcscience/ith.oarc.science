@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag18)  [Next](rag20) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag18)  [Next](rag20.md) 
 
 ------------------------------------------------------------------------
 
@@ -427,4 +427,4 @@ sea-shore."'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Other Legends Of The Conflagration](rag20)
+[Next: Chapter VI. Other Legends Of The Conflagration](rag20.md)

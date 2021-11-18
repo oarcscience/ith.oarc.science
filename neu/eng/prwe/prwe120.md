@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe119)  [Next](prwe121) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe119)  [Next](prwe121.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ not yet entirely lost their hold on the people.
 
 ------------------------------------------------------------------------
 
-[Next: The Crowza Stones](prwe121)
+[Next: The Crowza Stones](prwe121.md)

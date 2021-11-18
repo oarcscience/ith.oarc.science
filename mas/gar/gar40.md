@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar39)  [Next](gar41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar39)  [Next](gar41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -36,7 +36,7 @@ wreathen work, and pomegranates upon the chapiter round
 <span id="page_128">p. 128</span>
 
 about all of brass: and like unto these had the second pillar with
-wreathen work.—II. Kiwis xxv. 17. <span id="fr_23"></span>[\*](#fn_23)
+wreathen work.—II. Kiwis xxv. 17. <span id="fr_23"></span>[\*](#fn_23.md)
 
 #### THE TWO BRAZEN PILLARS
 
@@ -68,7 +68,7 @@ They were surmounted by chapiters; the chapiters were composed of seven
 wreaths of twisted brass, set perpendicularly on an abacus of seven
 sides, crowning the shaft of each pillar. These wreaths were three
 cubits high (II. KINGS xxv. 17); upon four of these wreaths, in a
-*trapezoidal* [form](errata.htm#3) was suspended a latticed Net-work of
+*trapezoidal* [form](errata.htm#3.md) was suspended a latticed Net-work of
 brass and copper, colored yellow and red; around the curved bottom of
 which was a brass fringe, ornamented with two
 
@@ -94,7 +94,7 @@ considered, by W. S. ROCKWELL, P. G. M. of Georgia*.
 
 ### Footnotes
 
-<span id="fn_23"></span>[128:\*](gar40.htm#fr_23) The discrepancy as to
+<span id="fn_23"></span>[128:\*](gar40.htm#fr_23.md) The discrepancy as to
 the height of the pillars, as given in the book of Kings and in
 Chronicles, is to be reconciled by supposing that in the book of Kings
 the pillars are spoken of separately, and that in Chronicles their
@@ -120,4 +120,4 @@ parts of Scripture.—MACKEY'S *Manual of the Lodge*.
 
 ------------------------------------------------------------------------
 
-[Next: Symbols of Peace, Unity and Plenty. Of the Globes.](gar41)
+[Next: Symbols of Peace, Unity and Plenty. Of the Globes.](gar41.md)

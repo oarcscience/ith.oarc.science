@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](boi04)  [Next](boi06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](boi04)  [Next](boi06.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 BEGINNING in front of the temples, during the Heb-festivals of Isis and
 Nephthys, and performed before the shrine of Osiris,
-Khent-Amentit, <span id="fr_16"></span>[1](#fn_15) the great God, lord
+Khent-Amentit, <span id="fr_16"></span>[1](#fn_15.md) the great God, lord
 of Abydos, in the 4th month of Inundation, on the 22nd day and continued
 to the 26th day. Purify all that which appertains to the temple; bring
 forth the utensils of the priestesses, who have performed the ablutions,
@@ -26,25 +26,25 @@ Behold the lord Osiris! (Repeat four times the formula.)
 
 <span id="page_29">p. 29</span>
 
-Is not his Kher-Heb priest <span id="fr_17"></span>[1](#fn_16) held in
+Is not his Kher-Heb priest <span id="fr_17"></span>[1](#fn_16.md) held in
 awe in this temple--great in heaven and great on earth? (Repeat four
 times the formula.)  
 Are not the two impersonators of the goddesses, and Hunnu, <span
-id="fr_18"></span>[2](#fn_17) the beautiful, approaching to thy shrine
+id="fr_18"></span>[2](#fn_17.md) the beautiful, approaching to thy shrine
 at this moment? (Repeat twice.)  
 Do we not behold the excellent sistrum-bearer approaching to thy temple
 and drawing nigh, though thou hast departed from us?  
-Lo, Hunnu, <span id="fr_19"></span>[2](#fn_17) the beautiful, passeth
+Lo, Hunnu, <span id="fr_19"></span>[2](#fn_17.md) the beautiful, passeth
 over the land hourly and yearly, at his proper-season;  
 He, the purified image of his father Tenen, <span
-id="fr_20"></span>[3](#fn_18) the essence of deep mysteries:  
+id="fr_20"></span>[3](#fn_18.md) the essence of deep mysteries:  
 He proceedeth from Tum, the most excellent lord:  
 Perfect is he, like his father, the eldest god born of the body of his
 mother!  
 Come thou to us with thy attributes  
 Let those among us who travel not thy path be embraced by thee:  
 Beautiful of face and greatly beloved is the image of Tenen, <span
-id="fr_21"></span>[3](#fn_18) male lord of love, adored when he
+id="fr_21"></span>[3](#fn_18.md) male lord of love, adored when he
 exhibiteth himself.  
 His limbs fail from his being bound;--  
 Come thou in peace, oh thou lord of those among us who behold the two
@@ -63,18 +63,18 @@ with thy attributes!
 Lo, thou art as the Bull of the two goddesses--come thou, child growing
 in peace, our lord!  
 Behold us! Thy essence existeth with us like as the essence of
-Tebba <span id="fr_22"></span>[1](#fn_19) existeth in the place of his
+Tebba <span id="fr_22"></span>[1](#fn_19.md) existeth in the place of his
 destruction.  
 Come thou in peace, oh great child of his father Mentu!  
 Within thy temple fear thou not:  
 Thy son Horus avengeth thee, and he woundeth and carrieth away him who
 lurked in his den,  
 He whose name a daily flame destroyeth from among the gods--Tebha <span
-id="fr_23"></span>[1](#fn_19) perisheth as waste matter.  
+id="fr_23"></span>[1](#fn_19.md) perisheth as waste matter.  
 As for thee, thou hast thy temple  
 Therein fear thou not Set, nor every calamity done by him or brought
 about by him.  
-Nut <span id="fr_24"></span>[2](#fn_20) proceedeth forth, and embraceth
+Nut <span id="fr_24"></span>[2](#fn_20.md) proceedeth forth, and embraceth
 thee with joyfulness;
 
 <span id="page_31">p. 31</span>
@@ -104,12 +104,12 @@ Send thy protection over us like a male protector (Repeat.)
 Lo! the two goddesses! Behold Osiris, bull of Amentit, who is alone
 established!  
 Very great is he among the gods; the virile infant, the great heir of
-Sab, <span id="fr_25"></span>[1](#fn_21) born the image of the God of
+Sab, <span id="fr_25"></span>[1](#fn_21.md) born the image of the God of
 Gods!  
 Come thou to the two widowed goddesses  
 There goeth about thee the whole, circle of the gods, and they meet with
 thee!  
-Behold, Set <span id="fr_26"></span>[2](#fn_22) cometh--grievous is his
+Behold, Set <span id="fr_26"></span>[2](#fn_22.md) cometh--grievous is his
 name when uttered near thy shrine, in presence of thy father, oh Ra;--  
 He is cast forth to contend with opponents  
 Come surely to thy priests, striving and grieving before thy temple;  
@@ -121,7 +121,7 @@ his enemies
 He smiteth the land in his designs.  
 Go forth, great one with the gods;  
 And with thee the circle of the gods in front, with the
-instrument-for-opening-the-mouth, <span id="fr_27"></span>[3](#fn_23)
+instrument-for-opening-the-mouth, <span id="fr_27"></span>[3](#fn_23.md)
 that it may equal thy perfection before the gods.  
 Walk through the land entirely, great one which art a body, with the
 royal Uraeus upon his forehead.
@@ -176,7 +176,7 @@ Give thou life from the beginning unto believers!
 <span id="page_35">p. 35</span>
 
 Hail! Guard thou the inundation in the land of Tesdu, <span
-id="fr_28"></span>[1](#fn_24) like as thou hast never done before!  
+id="fr_28"></span>[1](#fn_24.md) like as thou hast never done before!  
 Thy sister cometh to thee; she openeth for thee her arms, oh great god,
 living, great, beloved!  
 She dandleth thy son in front of thee, at the head of the south and the
@@ -219,7 +219,7 @@ I am seeking after love: behold me existing in the city, great are its
 walls,  
 I grieve for thy love toward me-come thou only, now that thou hast
 departed!  
-Behold thy son, who causeth Tebha <span id="fr_29"></span>[1](#fn_25) to
+Behold thy son, who causeth Tebha <span id="fr_29"></span>[1](#fn_25.md) to
 retreat from destruction!
 
 <span id="page_37">p. 37</span>
@@ -239,11 +239,11 @@ Behold us, oh lord! let thy love not lack before our faces, thou male
 one, sweet lord, ruler of Egypt, lord eternal!  
 Fly thou with life, prince everlasting; destroy the ones who know not
 the goddess, thou ruler of Upper and Lower Egypt, the lord!  
-Command over Deseret: <span id="fr_30"></span>[1](#fn_26)--there thou
+Command over Deseret: <span id="fr_30"></span>[1](#fn_26.md)--there thou
 remainest not,  
 For full of me is the heart which existeth in him, the elder, the
 lord!  
-Command over the Nome of Iqertet! <span id="fr_31"></span>[2](#fn_27)  
+Command over the Nome of Iqertet! <span id="fr_31"></span>[2](#fn_27.md)  
 Come to me with thy attributes Come in peace!  
 Come in peace, oh ruler of Upper and Lower Egypt, thou prince!
 
@@ -286,7 +286,7 @@ Drive away the evil moment, oh our lord!
 Come thou to us in peace twice renewed! Praise the child!  
 The elder cometh in peace, rejoicing, and there cometh the looked-for
 ruler of Egypt, the prince eternal, as "Still Heart." <span
-id="fr_32"></span>[1](#fn_28)  
+id="fr_32"></span>[1](#fn_28.md)  
 As "Still Heart" is thy heart, oh our lord; come thou to thy
 temple--fear thou not the great evils.  
 Dost thou not behold and hear the words uttered at thy Heb-festival?  
@@ -311,7 +311,7 @@ since,--he the lord of bounty, prince making fertile,
 Great lord, plant giving life, granting twice over the peace of the
 gods!  
 There are funeral offerings for the souls of the deceased, and for
-Seshta, <span id="fr_33"></span>[1](#fn_29) the lord of the funeral
+Seshta, <span id="fr_33"></span>[1](#fn_29.md) the lord of the funeral
 couch, the lord of the sacred eye, in the holy horizon of the temple.  
 He shineth at his season, and is brilliant in his hour,--  
 Thou art Khu, who art accompanied by radiances.  
@@ -327,7 +327,7 @@ For thou art at the left hand of Tum the everlasting, eternal. Thou
 risest, and hateful wickedness is restrained even before it is
 conceived) before its calamity cometh upon thee.  
 He turneth back the attack of foes that come fiercely against him.  
-The god Imsehti, <span id="fr_34"></span>[1](#fn_30) he is thy heir;  
+The god Imsehti, <span id="fr_34"></span>[1](#fn_30.md) he is thy heir;  
 Cause thou every one of the gods to praise him.  
 Exalt the circle of the gods by thy victory occupy thyself with Ra every
 day.  
@@ -344,7 +344,7 @@ He bringeth thee to the mountains, he heweth the place of burial;
 <span id="page_42">p. 42</span>
 
 There belongeth to thee all Ta-Deseret. <span
-id="fr_35"></span>[1](#fn_31)  
+id="fr_35"></span>[1](#fn_31.md)  
 For thee are the two, Isis and Nephthys--do thou strengthen us, for they
 ponder on thy image.  
 Thy limbs are as mutilated unto thee; they seek to bind together thy
@@ -423,12 +423,12 @@ great Egg.
 He cometh and is visible, the babe; the child advanceth, he cometh and
 is visible.  
 The extent of the earth weepeth for thee; the regions lament for thee,
-Seshta; <span id="fr_36"></span>[1](#fn_32)  
+Seshta; <span id="fr_36"></span>[1](#fn_32.md)  
 Heaven and earth weep for thee, for great art thou among the gods  
 There are not a few who adore thy soul--come to thy temple, nor fear
 thou.  
 Thy son Horus embraceth the circuit of heaven; Bebi <span
-id="fr_37"></span>[2](#fn_33) prevaileth; fear thou not.  
+id="fr_37"></span>[2](#fn_33.md) prevaileth; fear thou not.  
 Thy son Horus taketh vengeance before thee; he overthroweth for thee the
 evil ones and plotters.
 
@@ -447,7 +447,7 @@ happened unto thee formerly.
 Come thou to life in front of thy wife! Hail!  
 Guard thou the inundation in the fields of Aphroditopolis this
 day--grant grain twice over--let there be no likeness of evil.  
-The Cow <span id="fr_38"></span>[1](#fn_34) weepeth for thee with her
+The Cow <span id="fr_38"></span>[1](#fn_34.md) weepeth for thee with her
 voice; thou art beloved in her heart; her heart fluttereth, enchanted
 for thee;  
 She embraceth thy limbs with her two arms, and cometh running steadily
@@ -467,9 +467,9 @@ There is unguent for the hair at thy coming to the regions of the
 gods--  
 Unguent for thine anointed hair. Lo, he goeth forth himself--he cometh  
 Come in peace twice over, King of Egypt, prince!  
-Come in peace, lord of Sais; her <span id="fr_39"></span>[1](#fn_35) two
+Come in peace, lord of Sais; her <span id="fr_39"></span>[1](#fn_35.md) two
 arms are stretched toward thee, oh Shenthit, <span
-id="fr_40"></span>[2](#fn_36) and her heart goeth forth to thee!  
+id="fr_40"></span>[2](#fn_36.md) and her heart goeth forth to thee!  
 Thou art as God--come forth with godly amulets, for lo! they are not
 over his child to protect him.  
 Thy hair is like turquoise over his body, at thy coming into the
@@ -507,14 +507,14 @@ For thy flesh causeth the heart to rest, oh Osiris, beautiful.
 <span id="page_49">p. 49</span>
 
 Lo, there goeth forth with thee, and in front of thee, this god
-Hu, <span id="fr_41"></span>[1](#fn_37) and Tatenen, thy father, who
+Hu, <span id="fr_41"></span>[1](#fn_37.md) and Tatenen, thy father, who
 supporteth heaven; and thou art the fourth god who progresseth
 therein.  
 Thy soul flyeth to the east, because thou art as the image of Ra.  
 Those existing in the realms of the dead are accepted with rejoicing:  
 Sab, who existeth therein, openeth unto thee.  
 They come to thee with an offering, and travel to thee with an offering
-from Deddu. <span id="fr_42"></span>[2](#fn_38)  
+from Deddu. <span id="fr_42"></span>[2](#fn_38.md)  
 Osiris is exalted before thee--he is exalted twice over in peace.  
 There cometh unto thee Isis, lady of the horizon, who hath begotten
 herself alone in the image of the gods.  
@@ -523,7 +523,7 @@ thee!
 She hath taken vengeance before Horus, the woman who was made a male by
 her father Osiris.  
 Go forth and behold the "Opener-of-Ways," <span
-id="fr_43"></span>[3](#fn_39) the revered, the Uraeus-wearer!  
+id="fr_43"></span>[3](#fn_39.md) the revered, the Uraeus-wearer!  
 Come forth as Ra; come forth as the pupil of the eye that beholdeth Tum,
 when Ra shineth as chief twice over!
 
@@ -534,19 +534,19 @@ Behold! He cometh!
 COLOPHON
 
 This litany compiled by the priest of the temple of Het, <span
-id="fr_44"></span>[1](#fn_40) the Recorder of Amen of the rank of
-Sa, <span id="fr_45"></span>[2](#fn_41) the priest Nes-Amsu, son of the
+id="fr_44"></span>[1](#fn_40.md) the Recorder of Amen of the rank of
+Sa, <span id="fr_45"></span>[2](#fn_41.md) the priest Nes-Amsu, son of the
 priest Pedi-Amen, for the King of the two lands, he being the
 sistrum-bearer of Amen-Ra, and son of Ta-Mut, she who belongeth to
 Tunra.
 
 Writings of the 12th year, 4th month of summer, in the day of the
 Pharaoh (life, stability and health) Alexander, <span
-id="fr_46"></span>[3](#fn_42) son of Alexander, prince of the god and
+id="fr_46"></span>[3](#fn_42.md) son of Alexander, prince of the god and
 father;--he being also priest of Amen-Ra, king of the Gods, priest of
 Horus the Ra, the great child, supreme, firstborn of Amen; priest of the
 Amen-of-the-two-Horus, priest of Khensu in the midst of Bennit, <span
-id="fr_47"></span>[4](#fn_43) priest of
+id="fr_47"></span>[4](#fn_43.md) priest of
 Osiris-of-the-great-persea-trees, priest of
 Osiris-in-the-midst-of-Ishrel, priest of
 Amen-haset-in-the-midst-of-Ipui, Uab-priest of the Ra in the chief
@@ -555,12 +555,12 @@ recorder of the treasury of the God Amen, over the Sa-priests of second
 rank; deputy of Amen, of the Sa-priests of second and fourth rank;
 priest of Nofer-Hotep, the great God; priest of Nofer-Hotep the child,
 priest of Osiris, Horus, Isis and Nephthys, priest of the temple of
-Het, <span id="fr_48"></span>[1](#fn_40) priest
+Het, <span id="fr_48"></span>[1](#fn_40.md) priest
 
 <span id="page_51">p. 51</span>
 
 of Amsu; priest of Hathor, lady of Het-Sekhem; <span
-id="fr_49"></span>[1](#fn_44) priest of Mehyt, priest of Tum, lord of
+id="fr_49"></span>[1](#fn_44.md) priest of Mehyt, priest of Tum, lord of
 Het-Sekhem, deputy of Nofer-Hotep of the four grades of Sa-priests,
 priest of the chief of Nofer-Hotep, priest of the Gods.
 
@@ -568,73 +568,73 @@ priest of the chief of Nofer-Hotep, priest of the Gods.
 
 ### Footnotes
 
-<span id="fn_15"></span>[28:1](boi05.htm#fr_16) Title of Osiris--"Within
+<span id="fn_15"></span>[28:1](boi05.htm#fr_16.md) Title of Osiris--"Within
 the underworld."
 
-<span id="fn_16"></span>[29:1](boi05.htm#fr_17) Officiates at
+<span id="fn_16"></span>[29:1](boi05.htm#fr_17.md) Officiates at
 Heb-festival.
 
-<span id="fn_17"></span>[29:2](boi05.htm#fr_19) Sun god.
+<span id="fn_17"></span>[29:2](boi05.htm#fr_19.md) Sun god.
 
-<span id="fn_18"></span>[29:3](boi05.htm#fr_21) Osiris.
+<span id="fn_18"></span>[29:3](boi05.htm#fr_21.md) Osiris.
 
-<span id="fn_19"></span>[30:1](boi05.htm#fr_23) Name of Set.
+<span id="fn_19"></span>[30:1](boi05.htm#fr_23.md) Name of Set.
 
-<span id="fn_20"></span>[30:2](boi05.htm#fr_24) Goddess of night, mother
+<span id="fn_20"></span>[30:2](boi05.htm#fr_24.md) Goddess of night, mother
 of Osiris.
 
-<span id="fn_21"></span>[32:1](boi05.htm#fr_25) God of earth, father of
+<span id="fn_21"></span>[32:1](boi05.htm#fr_25.md) God of earth, father of
 Osiris.
 
-<span id="fn_22"></span>[32:2](boi05.htm#fr_26) Sutekh.
+<span id="fn_22"></span>[32:2](boi05.htm#fr_26.md) Sutekh.
 
-<span id="fn_23"></span>[32:3](boi05.htm#fr_27) Religious ceremony.
+<span id="fn_23"></span>[32:3](boi05.htm#fr_27.md) Religious ceremony.
 
-<span id="fn_24"></span>[35:1](boi05.htm#fr_28) Aphroditopolis
+<span id="fn_24"></span>[35:1](boi05.htm#fr_28.md) Aphroditopolis
 
-<span id="fn_25"></span>[36:1](boi05.htm#fr_29) Set.
+<span id="fn_25"></span>[36:1](boi05.htm#fr_29.md) Set.
 
-<span id="fn_26"></span>[37:1](boi05.htm#fr_30) Land of the dead.
+<span id="fn_26"></span>[37:1](boi05.htm#fr_30.md) Land of the dead.
 
-<span id="fn_27"></span>[37:2](boi05.htm#fr_31) Underworld.
+<span id="fn_27"></span>[37:2](boi05.htm#fr_31.md) Underworld.
 
-<span id="fn_28"></span>[39:1](boi05.htm#fr_32) Osiris.
+<span id="fn_28"></span>[39:1](boi05.htm#fr_32.md) Osiris.
 
-<span id="fn_29"></span>[40:1](boi05.htm#fr_33) One of the gods of the
+<span id="fn_29"></span>[40:1](boi05.htm#fr_33.md) One of the gods of the
 underworld.
 
-<span id="fn_30"></span>[41:1](boi05.htm#fr_34) God of light.
+<span id="fn_30"></span>[41:1](boi05.htm#fr_34.md) God of light.
 
-<span id="fn_31"></span>[42:1](boi05.htm#fr_35) Land of the Dead.
+<span id="fn_31"></span>[42:1](boi05.htm#fr_35.md) Land of the Dead.
 
-<span id="fn_32"></span>[45:1](boi05.htm#fr_36) Here used for Osiris.
+<span id="fn_32"></span>[45:1](boi05.htm#fr_36.md) Here used for Osiris.
 
-<span id="fn_33"></span>[45:2](boi05.htm#fr_37) Son of Osiris.
+<span id="fn_33"></span>[45:2](boi05.htm#fr_37.md) Son of Osiris.
 
-<span id="fn_34"></span>[46:1](boi05.htm#fr_38) Hathor.
+<span id="fn_34"></span>[46:1](boi05.htm#fr_38.md) Hathor.
 
-<span id="fn_35"></span>[47:1](boi05.htm#fr_39) *I.e.* the City's.
+<span id="fn_35"></span>[47:1](boi05.htm#fr_39.md) *I.e.* the City's.
 
-<span id="fn_36"></span>[47:2](boi05.htm#fr_40) Osiris.
+<span id="fn_36"></span>[47:2](boi05.htm#fr_40.md) Osiris.
 
-<span id="fn_37"></span>[49:1](boi05.htm#fr_41) A god of earth.
+<span id="fn_37"></span>[49:1](boi05.htm#fr_41.md) A god of earth.
 
-<span id="fn_38"></span>[49:2](boi05.htm#fr_42) The Celestial City.
+<span id="fn_38"></span>[49:2](boi05.htm#fr_42.md) The Celestial City.
 
-<span id="fn_39"></span>[49:3](boi05.htm#fr_43) Osiris.
+<span id="fn_39"></span>[49:3](boi05.htm#fr_43.md) Osiris.
 
-<span id="fn_40"></span>[50:1](boi05.htm#fr_48) Diospolis Parva.
+<span id="fn_40"></span>[50:1](boi05.htm#fr_48.md) Diospolis Parva.
 
-<span id="fn_41"></span>[50:2](boi05.htm#fr_45) Priest's grade.
+<span id="fn_41"></span>[50:2](boi05.htm#fr_45.md) Priest's grade.
 
-<span id="fn_42"></span>[50:3](boi05.htm#fr_46) Alexander II, son of
+<span id="fn_42"></span>[50:3](boi05.htm#fr_46.md) Alexander II, son of
 Philip Aridaeus.
 
-<span id="fn_43"></span>[50:4](boi05.htm#fr_47) Part of Thebes.
+<span id="fn_43"></span>[50:4](boi05.htm#fr_47.md) Part of Thebes.
 
-<span id="fn_44"></span>[51:1](boi05.htm#fr_49) Capital of VII Nome,
+<span id="fn_44"></span>[51:1](boi05.htm#fr_49.md) Capital of VII Nome,
 Upper Egypt.
 
 ------------------------------------------------------------------------
 
-[Next: Hymn to Osiris-Sokar](boi06)
+[Next: Hymn to Osiris-Sokar](boi06.md)

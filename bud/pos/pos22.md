@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos21)  [Next](pos23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos21)  [Next](pos23.md) 
 
 ------------------------------------------------------------------------
 
 ## <span id="APPENDIX">APPENDIX VERSES ATTRIBUTED TO SISTERS IN THE BHIKKHUNĪ-SAŊYUTTA OF THE SAŊYUTTA-NIKĀYA</span>
 
-### <span id="A-1">1. Āḷavikā.</span> [<sup>454</sup>](pos22.htm#180-1)
+### <span id="A-1">1. Āḷavikā.</span> [<sup>454</sup>](pos22.htm#180-1.md)
 
 T<span class="small">HUS</span> have I heard. The Exalted One was once
 staying at Sāvatthī, in the Jeta Grove, the park of Anāthapiṇḍika. Now
@@ -62,9 +62,9 @@ Good of that ilk to me is nothing worth.'</p></td>
 Then Māra, thinking, 'Bhikkhunī Āḷavikā knows me!' vanished thence, sad
 and dejected.
 
-### <span id="A-2">2. Somā.</span> [<sup>456</sup>](pos22.htm#181-2)
+### <span id="A-2">2. Somā.</span> [<sup>456</sup>](pos22.htm#181-2.md)
 
-. . . . . [<sup>457</sup>](pos22.htm#181-3) Now Somā . . . . . entered
+. . . . . [<sup>457</sup>](pos22.htm#181-3.md) Now Somā . . . . . entered
 the Dark Wood for siesta, and, plunging into its depths, sat down at the
 root of a certain tree for siesta.
 
@@ -112,7 +112,7 @@ To such an one is Māra fit to talk!'</p></td>
 Then Māra, thinking, 'Bhikkhunī Somā knows me,' vanished thence, sad and
 dejected.
 
-### <span id="A-3">3. Gotamī.</span> [<sup>459</sup>](pos22.htm#182-1)
+### <span id="A-3">3. Gotamī.</span> [<sup>459</sup>](pos22.htm#182-1.md)
 
 . . . . . Now the Lean Gotamid . . . . . entered the Dark Wood for
 siesta, and, plunging into its depths, sat down at the root of a certain
@@ -159,13 +159,13 @@ I here abide purged of the poison-drugs.' <a href="pos22.htm#183-1"><sup>461</su
 Then Māra, thinking, 'Bhikkhunī Gotamī knows me!' vanished thence, sad
 and dejected.
 
-### <span id="A-4">4. Vijayā.</span> [<sup>462</sup>](pos22.htm#183-2)
+### <span id="A-4">4. Vijayā.</span> [<sup>462</sup>](pos22.htm#183-2.md)
 
 . . . . . Now Bhikkhunī Vijayā . . . . . sat down at the root of a
 certain tree for siesta.
 
 Then Māra . . . . . addressed her in a verse:
-[<sup>463</sup>](pos22.htm#183-3)
+[<sup>463</sup>](pos22.htm#183-3.md)
 
 <table data-align="center">
 <colgroup>
@@ -258,7 +258,7 @@ In sooth, good sir, no fear have I of thee!'</p></td>
 Then Māra, thinking, 'Bhikkhunī Uppalavaṇṇā knows me!' vanished thence,
 sad and dejected.
 
-### <span id="A-6">6. Cālā.</span> [<sup>467</sup>](pos22.htm#186-1)
+### <span id="A-6">6. Cālā.</span> [<sup>467</sup>](pos22.htm#186-1.md)
 
 . . . . . Now, Bhikkhunī Cālā . . . . . sat down at the root of a
 certain tree for siesta.
@@ -266,7 +266,7 @@ certain tree for siesta.
 Then Māra the Evil One went up to her, and spoke thus to her: 'Wherein,
 O Sister, dost thou find no pleasure?'
 
-'In birth, [<sup>468</sup>](pos22.htm#186-2) good sir, I find no
+'In birth, [<sup>468</sup>](pos22.htm#186-2.md) good sir, I find no
 pleasure.'
 
 'Why findest thou no pleasure in birth? Once born, one enjoys the
@@ -297,7 +297,7 @@ Are goers, all of them, again to birth. <a href="pos22.htm#186-4"><sup>470</sup>
 Then Māra, thinking, 'Bhikkhunī Cālā knows me!' vanished thence, sad and
 dejected.
 
-### <span id="A-7">7. Upacālā.</span> [<sup>471</sup>](pos22.htm#187-1)
+### <span id="A-7">7. Upacālā.</span> [<sup>471</sup>](pos22.htm#187-1.md)
 
 . . . . . Now, Bhikkhunī Upacālā . . . . . sat down at the root of a
 certain tree for siesta.
@@ -345,7 +345,7 @@ There doth my heart abide in blest retreat.' <a href="pos22.htm#188-2"><sup>474<
 Then Māra, thinking, 'Bhikkhunī Upacālā knows me!' vanished thence, sad
 and dejected.
 
-### <span id="A-8">8. Sīsupacālā.</span> [<sup>475</sup>](pos22.htm#188-3)
+### <span id="A-8">8. Sīsupacālā.</span> [<sup>475</sup>](pos22.htm#188-3.md)
 
 . . . . . Now, Bhikkhunī Sīsupacālā . . . . . sat down at the root of a
 certain tree for siesta.
@@ -388,7 +388,7 @@ His doctrine, His the word that I approve.'</p></td>
 
 Then Māra, thinking, 'Bhikkhunī Sīsupacālā knows me! . . . . .
 
-### <span id="A-9">9. Selā.</span> [<sup>476</sup>](pos22.htm#189-1)
+### <span id="A-9">9. Selā.</span> [<sup>476</sup>](pos22.htm#189-1.md)
 
 . . . . . Now, Bhikkhunī Selā . . . . . sat down at the root of a
 certain tree for siesta.
@@ -496,7 +496,7 @@ Here endeth the Bhikkhunī Series.
 
 The Yakkha-Saŋyutta, or Fairy Series in the same Nikāya, gives the
 summons uttered by the indignant tree-fairy to the people of Rājagaha in
-Sukkā's little poem ([Ps. xxxiv](pos08.htm#XXXIV).). The lines are
+Sukkā's little poem ([Ps. xxxiv](pos08.htm#XXXIV)..md). The lines are
 exactly the same, except that 'wayfarer' is *panthagū* instead of
 *addhagū*.
 
@@ -522,7 +522,7 @@ Sukkā's, who from all bonds is wholly free!' <a href="pos22.htm#191-1"><sup>478
 
 <span id="180-1"></span>
 
-> <sup>454</sup> *Cf.* Selā's Psalm, [xxxv](pos08.htm#XXXV). She was the
+> <sup>454</sup> *Cf.* Selā's Psalm, [xxxv](pos08.htm#XXXV.md). She was the
 > daughter of the King of Āḷavī.
 
 <span id="181-1"></span>
@@ -531,7 +531,7 @@ Sukkā's, who from all bonds is wholly free!' <a href="pos22.htm#191-1"><sup>478
 
 <span id="181-2"></span>
 
-> <sup>456</sup> See [Ps. xxxvi.](pos08.htm#XXXVI), comparing the vastly
+> <sup>456</sup> See [Ps. xxxvi.](pos08.htm#XXXVI.md), comparing the vastly
 > more interesting reply given here.
 
 <span id="181-3"></span>
@@ -545,7 +545,7 @@ Sukkā's, who from all bonds is wholly free!' <a href="pos22.htm#191-1"><sup>478
 
 <span id="182-1"></span>
 
-> <sup>459</sup> *Cf.* [Ps. lxiii.](pos15.htm#LXIII) In the case of
+> <sup>459</sup> *Cf.* [Ps. lxiii.](pos15.htm#LXIII.md) In the case of
 > elisions, read as for Somā.
 
 <span id="182-2"></span>
@@ -555,7 +555,7 @@ Sukkā's, who from all bonds is wholly free!' <a href="pos22.htm#191-1"><sup>478
 > mother bereaved of a son, but either to endless past bereavements, or
 > to the fact that, as Arahant, she had cut herself off from age-long
 > possibilities of being often again in similar circumstances. *Cf.*,
-> *e.g.*, [Ps. xxxiii.](pos08.htm#XXXIII)
+> *e.g.*, [Ps. xxxiii.](pos08.htm#XXXIII.md)
 
 <span id="183-1"></span>
 
@@ -563,12 +563,12 @@ Sukkā's, who from all bonds is wholly free!' <a href="pos22.htm#191-1"><sup>478
 
 <span id="183-2"></span>
 
-> <sup>462</sup> Vijayā, to whom [Ps lvii](pos11.htm#LVII). is ascribed,
+> <sup>462</sup> Vijayā, to whom [Ps lvii](pos11.htm#LVII.md). is ascribed,
 > is apparently a different person.
 
 <span id="183-3"></span>
 
-> <sup>463</sup> *Cf.* [Khemā's Psalm (lii.)](pos11.htm#LII)
+> <sup>463</sup> *Cf.* [Khemā's Psalm (lii.)](pos11.htm#LII.md)
 
 <span id="183-4"></span>
 
@@ -582,14 +582,14 @@ Sukkā's, who from all bonds is wholly free!' <a href="pos22.htm#191-1"><sup>478
 > Professor Windisch calls the 'loose construction' of this *gāthā*, by
 > the insertion of 'from all, from. . . .' For what may have been the
 > original, and is the more logical, ending, see [Cālā's
-> verses](pos22.htm#A-6) below. As the *gāthā* in Pali stands here, it
+> verses](pos22.htm#A-6.md) below. As the *gāthā* in Pali stands here, it
 > seems to mean: '"I *see* life steadily, and see it whole." Trouble me
 > not with your foolish little solicitations to sensual joys.'
 
 <span id="184-2"></span>
 
 > <sup>466</sup> Where the text differs from that of [Psalm
-> lxiv.](pos16.htm#LXIV) may be seen by the following:
+> lxiv.](pos16.htm#LXIV.md) may be seen by the following:
 >
 > *Therigāthā*.
 >
@@ -609,9 +609,9 @@ Sukkā's, who from all bonds is wholly free!' <a href="pos22.htm#191-1"><sup>478
 
 <span id="186-1"></span>
 
-> <sup>467</sup> Pronounced *Chālā*. *Cf.* [Ps. lix.](pos12.htm#LIX),
-> [lx.](pos12.htm#LX) The latter
-> Psalm–[Upacālā's](pos12.htm#LX)–incorporates most of what is here
+> <sup>467</sup> Pronounced *Chālā*. *Cf.* [Ps. lix.](pos12.htm#LIX.md),
+> [lx.](pos12.htm#LX.md) The latter
+> Psalm–[Upacālā's](pos12.htm#LX.md)–incorporates most of what is here
 > attributed to her sister.
 
 <span id="186-2"></span>
@@ -623,18 +623,18 @@ Sukkā's, who from all bonds is wholly free!' <a href="pos22.htm#191-1"><sup>478
 
 > <sup>469</sup> Literally, meaning the punishments of criminals, but
 > standing for the ills of life in general. *Cf.* [Ps.
-> lxx.](pos18.htm#LXX), [verse 345](pos18.htm#345);
-> [lxxiii.](pos21.htm#LXXIII), [verse 505](pos21.htm#505).
+> lxx.](pos18.htm#LXX), [verse 345](pos18.htm#345.md);
+> [lxxiii.](pos21.htm#LXXIII), [verse 505](pos21.htm#505.md).
 
 <span id="186-4"></span>
 
 > <sup>470</sup> *Cf.* [last note to Vijayā's verses
-> above](pos22.htm#184-1).
+> above](pos22.htm#184-1.md).
 
 <span id="187-1"></span>
 
 > <sup>471</sup> In the Psalms, her Psalm is put into the mouth of her
-> sister, [Sīsupacālā](pos13.htm#LXI).
+> sister, [Sīsupacālā](pos13.htm#LXI.md).
 
 <span id="187-2"></span>
 
@@ -663,11 +663,11 @@ Sukkā's, who from all bonds is wholly free!' <a href="pos22.htm#191-1"><sup>478
 <span id="188-3"></span>
 
 > <sup>475</sup> In the Psalms she is made to utter her sister [Cālā's
-> Psalm](pos12.htm#LIX).
+> Psalm](pos12.htm#LIX.md).
 
 <span id="189-1"></span>
 
-> <sup>476</sup> The *Psalm* ascribed to [Selā](pos08.htm#XXXV) (xxxv.,
+> <sup>476</sup> The *Psalm* ascribed to [Selā](pos08.htm#XXXV.md) (xxxv.,
 > p. 144) is, in this Appendix, put into the mouth of Āḷavikā, which, in
 > the Commentary, is Selā's patronymic.
 
@@ -678,8 +678,8 @@ Sukkā's, who from all bonds is wholly free!' <a href="pos22.htm#191-1"><sup>478
 
 <span id="191-1"></span>
 
-> <sup>478</sup> *Cf.* [Ps. xlvi.](pos10.htm#XLVI) [111](pos10.htm#111).
+> <sup>478</sup> *Cf.* [Ps. xlvi.](pos10.htm#XLVI) [111](pos10.htm#111.md).
 
 ------------------------------------------------------------------------
 
-[Next: Notes](pos23)
+[Next: Notes](pos23.md)

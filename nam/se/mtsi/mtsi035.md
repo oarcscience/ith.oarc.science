@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi034)  [Next](mtsi036) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi034)  [Next](mtsi036.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ the ground, and ever afterwards they have continued to live there.
 
 ------------------------------------------------------------------------
 
-[Next: 34. The Fawn, the Wolves, and the Terrapin](mtsi036)
+[Next: 34. The Fawn, the Wolves, and the Terrapin](mtsi036.md)

@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../../journals/index) [Christianity](../index)
+Heritage](../../index) [Journals](../../journals/index) [Christianity](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ otherwise available, most of these articles approach Christianity rather
 obliquely.
 
 For journal title abbreviations, see the
-[Journals](../../journals/index) page, where all the articles (including
+[Journals](../../journals/index.md) page, where all the articles (including
 non-Christian) are organized according to their sources.
 
 <span class="small">Last updated August 6, 2002.</span>
@@ -25,19 +25,19 @@ non-Christian) are organized according to their sources.
 
 #### *Early:*
 
-[The Gospel Source Q](../../journals/oc/gsq), Adolf von Harnack's
+[The Gospel Source Q](../../journals/oc/gsq.md), Adolf von Harnack's
 version (OC vol. XXIV, 10, pp. 618-631) \[1910\]  
 
 #### *Eastern:*
 
-[Inscription of the Nestorian Monument](../../journals/oc/inm), trans.
+[Inscription of the Nestorian Monument](../../journals/oc/inm.md), trans.
 A. Wylie (OC vol. XXIII, 1, pp. 35-44) \[1909\]  
-[A Cosmological Tract by Pseudo-Dionysius](../../journals/jras/1917-07),
+[A Cosmological Tract by Pseudo-Dionysius](../../journals/jras/1917-07.md),
 trans. Giuseppe Furlani (JRAS 1917, pp. 245-272) \[1917\]  
 
 #### *Medieval:*
 
-[The Parables of Barlaam and Joasaph](../../journals/jras/ns23-10) (a
+[The Parables of Barlaam and Joasaph](../../journals/jras/ns23-10.md) (a
 Christian version of the life of the Buddha), trans. Robert Chalmers
 (JRAS NS XXIII, pp. 423-449) \[1891\]  
 
@@ -45,14 +45,14 @@ Christian version of the life of the Buddha), trans. Robert Chalmers
 
 ### Biographies and Topical Articles:
 
-[The Bride of Christ](../../journals/oc/pc-bc), Paul Carus (OC vol. XXI,
+[The Bride of Christ](../../journals/oc/pc-bc.md), Paul Carus (OC vol. XXI,
 8, pp. 449-464) \[1907\]  
-[St. Catharine of Alexandria](../../journals/oc/pc-sca1), Paul Carus (OC
+[St. Catharine of Alexandria](../../journals/oc/pc-sca1.md), Paul Carus (OC
 vol. XXI, 11, pp. 664-677) \[1907\]  
-[Angelus Silesius](../../journals/oc/pc-as), Paul Carus (OC vol. XXII,
+[Angelus Silesius](../../journals/oc/pc-as.md), Paul Carus (OC vol. XXII,
 5, pp. 291-297) \[1908\]  
 
 ------------------------------------------------------------------------
 
 [Intangible Textual
-Heritage](../../index) [Journals](../../journals/index) [Christianity](../index)
+Heritage](../../index) [Journals](../../journals/index) [Christianity](../index.md)

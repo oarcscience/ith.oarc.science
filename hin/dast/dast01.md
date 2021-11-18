@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](dast00)  [Next](dast02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](dast00)  [Next](dast02.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dakshinamurti Stotra*, translated by Alladi Mahadeva Sastri, \[1920\],
 at Intangible Textual Heritage
 
@@ -83,7 +83,7 @@ Sanskrit Series).
 \(4\) An exposition of Sankaracharya's commentary on the
 Taittiriya-Upanishad (Poona, A’nandasrama Series).
 
-\(5\) An exposition of Sankaracharya's [commentry](errata.htm#0) on the
+\(5\) An exposition of Sankaracharya's [commentry](errata.htm#0.md) on the
 Brihadaranyaka-Upanishad (Poona, A’nandasrama Series).
 
 Suresvaracharya's exposition of the Vedanta Doctrine is often very
@@ -122,4 +122,4 @@ the pinnacle of Aryan thought.
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the Second Edition](dast02)
+[Next: Preface to the Second Edition](dast02.md)

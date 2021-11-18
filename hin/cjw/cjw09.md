@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw08)  [Next](cjw10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw08)  [Next](cjw10.md) 
 
 ------------------------------------------------------------------------
 
@@ -411,4 +411,4 @@ that give no joy? \[378\]
 
 ------------------------------------------------------------------------
 
-[Next: Free Even in Life](cjw10)
+[Next: Free Even in Life](cjw10.md)

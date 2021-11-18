@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto11) 
-[Next](aoto13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto11.md) 
+[Next](aoto13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -87,7 +87,7 @@ manner of useful arts, and they are very intelligent.
 <span id="page_36">p. 36</span>
 
 Outside the gate of the outer court there is a large garden <span
-id="fr_19"></span>[\*](#fn_19) of about four acres, with a wall all
+id="fr_19"></span>[\*](#fn_19.md) of about four acres, with a wall all
 round it. It is full of beautiful trees—pears, pomegranates, and the
 most delicious apples. There are luscious figs also, and olives in full
 growth. The fruits never rot nor fail all the year round, neither winter
@@ -165,10 +165,10 @@ retired for the night.
 
 ### Footnotes
 
-<span id="fn_19"></span>[36:\*](aoto12.htm#fr_19) Penelope and Calypso
+<span id="fn_19"></span>[36:\*](aoto12.htm#fr_19.md) Penelope and Calypso
 also had gardens: so had Laertes (xxiv. 247). I remember no allusion to
 them in the "Iliad."
 
 ------------------------------------------------------------------------
 
-[Next: Book VIII. The Phæacian Games](aoto13)
+[Next: Book VIII. The Phæacian Games](aoto13.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico096) 
-[Next](nico098) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico096.md) 
+[Next](nico098.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ can.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3. Occasions of breaking off friendship](nico098)
+[Next: Chapter 3. Occasions of breaking off friendship](nico098.md)

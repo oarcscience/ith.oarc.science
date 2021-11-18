@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](dan)  [Next](joe) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](dan)  [Next](joe.md) 
 
 ------------------------------------------------------------------------
 
@@ -738,4 +738,4 @@ rettferdige ferdes på dem, men overtrederne snubler der.
 
 ------------------------------------------------------------------------
 
-[Next: Joel](joe)
+[Next: Joel](joe.md)

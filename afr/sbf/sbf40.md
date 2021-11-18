@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf39)  [Next](sbf41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf39)  [Next](sbf41.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -68,6 +68,6 @@ away. He goes to swallow it down. He departs.
 
 ------------------------------------------------------------------------
 
-[Next: The Leopard And The Jackal.](sbf41)
+[Next: The Leopard And The Jackal.](sbf41.md)
 
 </div>

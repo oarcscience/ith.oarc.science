@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma35)  [Next](oma37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma35)  [Next](oma37.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_pl03a"></span>
 
 [![Plate 3, Figure 1](tn/pl03a.jpg)  
-Click to enlarge](img/pl03a.jpg)  
+Click to enlarge](img/pl03a.jpg.md)  
 Plate 3, Figure 1  
 
 FIGURE 1. Antelope clan altar. Oak crooks (brown) with eagle feathers
@@ -26,7 +26,7 @@ black edge, inside white with brown lines); stone points (gray).
 <span id="img_pl03b"></span>
 
 [![Plate 3, Figure 2](tn/pl03b.jpg)  
-Click to enlarge](img/pl03b.jpg)  
+Click to enlarge](img/pl03b.jpg.md)  
 Plate 3, Figure 2  
 
 FIGURE 2. Shakak, ruler of North Mountain. Crest of eagle feathers
@@ -36,4 +36,4 @@ white) of owl feathers. Mouth outlined in green.
 
 ------------------------------------------------------------------------
 
-[Next: Plate 4](oma37)
+[Next: Plate 4](oma37.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic032)  [Next](lfic034) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic032)  [Next](lfic034.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ quoted authority.
 
 ------------------------------------------------------------------------
 
-[Next: The Long Spoon](lfic034)
+[Next: The Long Spoon](lfic034.md)

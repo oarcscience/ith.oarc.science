@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass08)  [Next](nass10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass08)  [Next](nass10.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,7 +103,7 @@ The paint was red; the sling-stones were blue.
 
 The chief's people found these and picked them up. Some persons took the
 sling-stones, and others took the red paint and put it on their
-faces. <span id="fr_4"></span>[1](#fn_4) While they were doing so, the
+faces. <span id="fr_4"></span>[1](#fn_4.md) While they were doing so, the
 man and his son continued to
 
 <span id="page_93">p. 93</span>
@@ -125,9 +125,9 @@ he and his wife were glad.
 
 ### Footnotes
 
-<span id="fn_4"></span>[92:1](nass09.htm#fr_4) This accounts for the
+<span id="fn_4"></span>[92:1](nass09.htm#fr_4.md) This accounts for the
 colors of the stars.
 
 ------------------------------------------------------------------------
 
-[Next: Rotten-feathers](nass10)
+[Next: Rotten-feathers](nass10.md)

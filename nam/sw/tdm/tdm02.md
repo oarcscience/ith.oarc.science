@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm01)  [Next](tdm03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm01)  [Next](tdm03.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ sand-storm that whipped pebbles the size of a bean straight to your
 face, a ruddy, bronzed, middle-aged man, dusty but unweary with his
 sixty-mile tramp from Zuñi, walked into my solitary camp at Los
 Alamitos. Within the afternoon I knew that here was the most
-[extraordinary](errata.htm#0) mind I had met. There and then began the
+[extraordinary](errata.htm#0.md) mind I had met. There and then began the
 uncommon friendship which lasted till his death, a quarter of a century
 later; and a love and admiration which will be of my dearest memories so
 long as I shall live. I was at first suspicious of the "pigeon-hole
@@ -142,4 +142,4 @@ CHARLES F. LUMMIS
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](tdm03)
+[Next: Chapter I](tdm03.md)

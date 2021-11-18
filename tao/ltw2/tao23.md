@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao23)   
-[Previous](tao22)  [Next](tao24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao23.md)   
+[Previous](tao22)  [Next](tao24.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ If one lacks faith in himself, it is because he lacks faith in TAO.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 24](tao24)
+[Next: Chapter 24](tao24.md)

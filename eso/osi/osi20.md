@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi19)  [Next](osi21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi19)  [Next](osi21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -27,4 +27,4 @@ molecule, from the plant up to Brahma himself. (Atharva-Veda.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. A Few Slocas From Manu](osi21)
+[Next: Chapter IX. A Few Slocas From Manu](osi21.md)

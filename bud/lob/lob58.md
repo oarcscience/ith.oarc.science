@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lob57)  [Next](lob59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lob57)  [Next](lob59.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00292BROK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00292BROK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Buddha*, by A. Ferdinand Herold, tr. by Paul C Blum
 \[1922\], at Intangible Textual Heritage
 
@@ -98,4 +98,4 @@ he had decided to enter nirvana.
 
 ------------------------------------------------------------------------
 
-[Next: 17. The Meal at Cunda's](lob59)
+[Next: 17. The Meal at Cunda's](lob59.md)

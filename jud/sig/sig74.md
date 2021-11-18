@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](sig73)  [Next](sig75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](sig73)  [Next](sig75.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0827600607/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0827600607/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ And these are the constellations high and exalted in their degrees,
 
 ------------------------------------------------------------------------
 
-[Next: XXIII. The Ninth Sphere](sig75)
+[Next: XXIII. The Ninth Sphere](sig75.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf10)  [Next](btf12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf10)  [Next](btf12.md) 
 
 ------------------------------------------------------------------------
 
@@ -571,4 +571,4 @@ The Well of D'Yerree-in-Dowan
 
 ------------------------------------------------------------------------
 
-[Next: The Court of Crinnawn](btf12)
+[Next: The Court of Crinnawn](btf12.md)

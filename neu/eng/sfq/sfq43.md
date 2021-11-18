@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq42)  [Next](sfq44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq42)  [Next](sfq44.md) 
 
 ------------------------------------------------------------------------
 
@@ -145,4 +145,4 @@ much lighter hearts than they had set out.
 
 ------------------------------------------------------------------------
 
-[Next: How Britomart set forth on her Quest](sfq44)
+[Next: How Britomart set forth on her Quest](sfq44.md)

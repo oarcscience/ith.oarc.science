@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Africa](../index)
+[Sacred-Texts](../../index) [Africa](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -23,12 +23,12 @@ classic in the field.
 
 ------------------------------------------------------------------------
 
-[AUTHOR'S NOTE](ife1)  
-[PERSONS](ife2)  
-[I. THE BEGINNING.](ife3)  
-[II. THE DESCENT](ife4)  
-[III. THE WAR OF THE GODS.](ife5)  
-[IV. THE SACRIFICE OF MÓRIMI.](ife6)  
-[V. THE ÚBO WARS.](ife7)  
-[VI. THE PASSING OF ÓGUN.](ife8)  
-[NOTES](ife9)  
+[AUTHOR'S NOTE](ife1.md)  
+[PERSONS](ife2.md)  
+[I. THE BEGINNING.](ife3.md)  
+[II. THE DESCENT](ife4.md)  
+[III. THE WAR OF THE GODS.](ife5.md)  
+[IV. THE SACRIFICE OF MÓRIMI.](ife6.md)  
+[V. THE ÚBO WARS.](ife7.md)  
+[VI. THE PASSING OF ÓGUN.](ife8.md)  
+[NOTES](ife9.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv38)  [Next](rsv40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv38)  [Next](rsv40.md) 
 
 ------------------------------------------------------------------------
 
@@ -225,4 +225,4 @@ veterans.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix B. Guidelines for Understanding](rsv40)
+[Next: Appendix B. Guidelines for Understanding](rsv40.md)

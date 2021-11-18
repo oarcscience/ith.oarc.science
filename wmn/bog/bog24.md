@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog23)  [Next](bog25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog23)  [Next](bog25.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ show others the way to the path of the Goddess. Blessed be."
 
 ------------------------------------------------------------------------
 
-[Next: Fourth Principle: Gaia](bog25)
+[Next: Fourth Principle: Gaia](bog25.md)

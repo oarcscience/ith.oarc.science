@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc04)  [Next](mlc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc04)  [Next](mlc06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -67,12 +67,12 @@ hair the herbs and trees, his teeth, bones, and marrow the metals,
 rocks, and precious stones, his sweat the rain, and the insects creeping
 over his body human beings, who thus had a lowlier origin even than the
 tears of Khepera in Egyptian cosmology.  <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 This account of P’an Ku and his achievements is of Taoist origin. The
 Buddhists have given a somewhat different account of him, which is a
 late adaptation from the Taoist myth, and must not be mistaken for
-Buddhist cosmogony proper.  <span id="fr_3"></span>[2](#fn_3)
+Buddhist cosmogony proper.  <span id="fr_3"></span>[2](#fn_3.md)
 
 ## The Sun and the Moon
 
@@ -92,7 +92,7 @@ Sea, and stretched forth his left hand and called the sun, and then
 stretched forth his right hand and called the moon, at the same time
 repeating a charm devoutly seven times; and they forthwith ascended on
 high, and separated time into day and night.  <span
-id="fr_4"></span>[3](#fn_4)
+id="fr_4"></span>[3](#fn_4.md)
 
 Other legends recount that P’an Ku had the head of a dragon and the body
 of a serpent; and that by breathing he caused the wind, by opening his
@@ -123,7 +123,7 @@ Chinese artificer of the universe and Ymer, the giant, who discharges
 the same functions in Scandinavian mythology. Though P’an Ku did not
 have the same kind of birth nor meet with the violent death of the
 latter, the results as regards the origin of the universe seem to have
-been pretty much the same.  <span id="fr_5"></span>[4](#fn_5)
+been pretty much the same.  <span id="fr_5"></span>[4](#fn_5.md)
 
 ## P’an Ku a Late Creation
 
@@ -194,7 +194,7 @@ and brought it down. The pillars of Heaven were broken and the corners
 of the earth gave way. Hereupon Nü Kua melted stones of the five colours
 to repair the heavens, and cut off the feet of the tortoise to set
 upright the four extremities of the earth.  <span
-id="fr_6"></span>[5](#fn_6) Gathering the ashes of reeds she stopped the
+id="fr_6"></span>[5](#fn_6.md) Gathering the ashes of reeds she stopped the
 flooding waters, and thus rescued the land of Chi, Chi Chou \[the early
 seat of the Chinese sovereignty\].”
 
@@ -218,7 +218,7 @@ and the earth, mankind, and all living things.
 
 <span id="img_p082"></span> <span align="CENTER"> [![Nŭ Kua
 Shih](tn/p082.jpg)  
-Click to enlarge](img/p082.jpg)  
+Click to enlarge](img/p082.jpg.md)  
 Nŭ Kua Shih  
 </span>
 
@@ -277,7 +277,7 @@ time furnished the Chinese with a cosmogony.
 The Five Elements or Forces (*wu hsing*)—which, according to the
 Chinese, are metal, air, fire, water, and wood—are first mentioned in
 Chinese literature in a chapter of the classic *Book of History*.  <span
-id="fr_7"></span>[6](#fn_7) They play a very important part in Chinese
+id="fr_7"></span>[6](#fn_7.md) They play a very important part in Chinese
 thought: ‘elements’ meaning generally not so much the actual substances
 as the forces essential to human, life. They have to be noticed in
 passing, because they were involved in the development of the
@@ -296,7 +296,7 @@ though there may have been a tendency toward monism in early times, it
 was only in the Sung dynasty that the philosophers definitely placed
 behind the *yang* and the *yin* a First Cause—the Grand Origin, Grand
 Extreme, Grand Terminus, or Ultimate Ground of Existence.  <span
-id="fr_8"></span>[7](#fn_8) They gave to it the name *t’ai chi*, and
+id="fr_8"></span>[7](#fn_8.md) They gave to it the name *t’ai chi*, and
 represented it by a concrete sign, the symbol of a circle. The complete
 scheme shows the evolution of the Sixty-four Diagrams (*kua*) from the
 *t’ai chi* through the *yang* and the *yin*, the Four, Eight, Sixteen,
@@ -465,7 +465,7 @@ about itself.
 
 <span id="img_p090"></span> <span align="CENTER">
 [![Mencius](tn/p090.jpg)  
-Click to enlarge](img/p090.jpg)  
+Click to enlarge](img/p090.jpg.md)  
 Mencius  
 </span>
 
@@ -478,7 +478,7 @@ absolute and transcendental Nameless than that of Lao Tzŭ. He dwells on
 the relativity of knowledge; as when asleep he did not know that he was
 a man dreaming that he was a butterfly, so when awake he did not know
 that he was not a butterfly dreaming that he was a man.  <span
-id="fr_9"></span>[8](#fn_9) But “all is embraced in the obliterating
+id="fr_9"></span>[8](#fn_9.md) But “all is embraced in the obliterating
 unity of the *tao*, and the wise man, passing into the realm of the
 Infinite, finds rest therein.” And this *tao*, of which we hear so much
 in Chinese philosophy, was before the Great Ultimate or Grand Terminus
@@ -523,18 +523,18 @@ gained a peaceful victory over the mythologists. <span id="page_93">p.
 
 ### Footnotes
 
-<span id="fn_2"></span>[93:1](mlc05.htm#fr_2) *Cf*. Aristotle’s belief
+<span id="fn_2"></span>[93:1](mlc05.htm#fr_2.md) *Cf*. Aristotle’s belief
 that bugs arose spontaneously from sweat.
 
-<span id="fn_3"></span>[93:2](mlc05.htm#fr_3) For the Buddhist account
+<span id="fn_3"></span>[93:2](mlc05.htm#fr_3.md) For the Buddhist account
 see *China Review*, xi, 80–82.
 
-<span id="fn_4"></span>[93:3](mlc05.htm#fr_4) Compare the Japanese
+<span id="fn_4"></span>[93:3](mlc05.htm#fr_4.md) Compare the Japanese
 legend, which relates that the Sun-goddess was induced to come out of a
 cave by being tempted to gaze at herself in a mirror. See *Myths and
 Legends of Japan*, F. Hadland Davis, pp. 27–28.
 
-<span id="fn_5"></span>[93:4](mlc05.htm#fr_5) See *Myths of the
+<span id="fn_5"></span>[93:4](mlc05.htm#fr_5.md) See *Myths of the
 Norsemen*, by H. A. Guerber. These resemblances and the further
 one—namely, the dualism in the prechaotic epoch (a very interesting
 point in Scandinavian mythology)—illustrate the danger of inferring
@@ -550,13 +550,13 @@ worship of a Virgin Mother, trinities, monasticism, celibacy, fasting,
 preaching, prayers, primeval Chaos, Paradise, etc. For details see
 *Chinese Repository,* vii, 520–521.
 
-<span id="fn_6"></span>[93:5](mlc05.htm#fr_6) *Cf.* the dwarfs in the
+<span id="fn_6"></span>[93:5](mlc05.htm#fr_6.md) *Cf.* the dwarfs in the
 Scandinavian myth.
 
-<span id="fn_7"></span>[93:6](mlc05.htm#fr_7) See Legge, *Shu ching*,
+<span id="fn_7"></span>[93:6](mlc05.htm#fr_7.md) See Legge, *Shu ching*,
 ii, 320, note.
 
-<span id="fn_8"></span>[93:7](mlc05.htm#fr_8) In order to avoid
+<span id="fn_8"></span>[93:7](mlc05.htm#fr_8.md) In order to avoid
 misunderstanding, it is as well to note that the mention of the *t’ai
 chi* in the *Canon of Changes (I ching*) no more constituted monism the
 philosophy of China than did the steam-driven machinery mentioned by
@@ -567,7 +567,7 @@ become established before the sixteenth century. It was, in fact, from
 the *I ching* that the Chinese derived their *dualistic* (not their
 monistic) conception of the world.
 
-<span id="fn_9"></span>[93:8](mlc05.htm#fr_9) “Formerly, I, Chuang Chou,
+<span id="fn_9"></span>[93:8](mlc05.htm#fr_9.md) “Formerly, I, Chuang Chou,
 dreamt that I was a butterfly, flying about and feeling that it was
 enjoying itself. I did not know that it was Chou. Suddenly I awoke and
 was myself again, the veritable Chou. I did not know whether it had
@@ -578,6 +578,6 @@ now a butterfly dreaming that it was Chou.” *Chuang Tzŭ*, Book II.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Birth of the Soul](mlc06)
+[Next: Chapter IV. The Birth of the Soul](mlc06.md)
 
 </div>

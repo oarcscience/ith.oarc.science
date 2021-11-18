@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb21)  [Next](gyfb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb21)  [Next](gyfb23.md) 
 
 </div>
 
@@ -927,6 +927,6 @@ permission of her sister, she began:
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Fair Circassians](gyfb23)
+[Next: The Story of the Fair Circassians](gyfb23.md)
 
 </div>

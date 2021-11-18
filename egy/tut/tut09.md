@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](tut08)  [Next](tut10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](tut08)  [Next](tut10.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_116">p. 116</span>
 
-# A.--A HYMN TO ATEN BY THE KING. <span id="fr_63"></span>[1](#fn_63)
+# A.--A HYMN TO ATEN BY THE KING. <span id="fr_63"></span>[1](#fn_63.md)
 
 A HYMN OF PRAISE TO THE LIVING HORUS OF THE TWO HORIZONS, WHO REJOICETH
 IN THE HORIZON IN HIS NAME OF "SHU, WHO IS IN THE ATEN" (*i.e.*, DISK),
@@ -86,7 +86,7 @@ their wings with joy, and circle round in praise of the Living Aten. . .
 
 ### Footnotes
 
-<span id="fn_63"></span>[116:1](tut09.htm#fr_63) See N. de G. Davies,
+<span id="fn_63"></span>[116:1](tut09.htm#fr_63.md) See N. de G. Davies,
 *The Rock Tombs of El Amarna*, Vol. IV, pl. xxxii, xxxiii. The text is
 from the Tomb of Api at Tall al-'Amarnah, with an addition from the tomb
 of Tutu.
@@ -94,4 +94,4 @@ of Tutu.
 ------------------------------------------------------------------------
 
 [Next: B.--Hymn to Aten by Ai, Overseer of the Horse of
-Aakhunaten](tut10)
+Aakhunaten](tut10.md)

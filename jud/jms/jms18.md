@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms17)  [Next](jms19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms17)  [Next](jms19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ or, again, a commentary on the inferior
 
 quality of his skill. But, however short he may have been on theory, the
 German Jew was by no means unacquainted with the practical utilities of
-the science.[1](jms37.htm#an_16_1) Though the literature is not as
+the science.[1](jms37.htm#an_16_1.md) Though the literature is not as
 informative as one might wish, we may derive from it those general rules
 which were the bases of the astrological science.
 
@@ -83,7 +83,7 @@ discussion of the subject; once granted, there was no check upon the
 utilization of astrology for divinatory ends. Several writers expressly
 excluded this science from the forbidden category of "magic," and
 practically all German-Jewish writers tacitly or openly admitted its aid
-in guiding man's footsteps.[2](jms37.htm#an_16_2)
+in guiding man's footsteps.[2](jms37.htm#an_16_2.md)
 
 The close association that was posited between the angels and the
 heavenly bodies also served to foster this divinatory science. The seven
@@ -92,7 +92,7 @@ the universal order through their association with the planets and the
 constellations. There is some variation, in the different versions, in
 the angels assigned to the planets, and even the names of these angels
 are subject to sudden change on a single page. The five lists I have
-collated[3](jms37.htm#an_16_3) (containing some variant readings and
+collated[3](jms37.htm#an_16_3.md) (containing some variant readings and
 some
 
 <span id="page_251">p. 251</span>
@@ -134,7 +134,7 @@ angel may be divorced from his stellar charge without notice, and
 another substituted. The following is a fair sample of these alliances:
 Aries-Michael, Taurus-Gabriel, Gemini-Raphael, Cancer-Uriel, Leo-Guriel,
 Virgo-Nuriel, Libra-Yeshamiel, Sagittarius-Ayil, Capricornus-Ubaviel,
-etc.[4](jms37.htm#an_16_4) It must be remembered, also, that these names
+etc.[4](jms37.htm#an_16_4.md) It must be remembered, also, that these names
 change according to the season of the year, so that there are four
 shifts supervising the heavenly bodies.
 
@@ -159,7 +159,7 @@ year," comments his biographer, "the 'King of Vienna' \[Ladislaus VI
 Posthumous\], whose father had initiated anti-Jewish persecutions, was
 poisoned in Prague \[by George of Podiebrad\], and the Hungarian king
 \[Ladislaus Corvinus\] was murdered in his
-capital."[5](jms37.htm#an_16_5)
+capital."[5](jms37.htm#an_16_5.md)
 
 The idea that the planets and the fixed stars rule over the affairs of
 the material world was an ancient dogma which had received the sanction
@@ -216,7 +216,7 @@ Venus's day.) The length of one's life could be similarly forecast. If
 birth occurs in the "house" of Saturn (the heaven was divided into
 twelve "houses," each presided over by a planet) the child will enjoy 57
 years on earth; if in Jupiter's "house," 79; in Mars's, 66; Venus's 22;
-the sun's, 77; etc.[6](jms37.htm#an_16_6)
+the sun's, 77; etc.[6](jms37.htm#an_16_6.md)
 
 There was also great interest in astrological weather prediction, and
 many treatises were written on the subject. We have no extended Jewish
@@ -252,7 +252,7 @@ adopted this practice, eliminating, of course, the reference to
 Christmas; one month of the year was assigned to each day from the first
 to the twelfth of Tebet (corresponding to the "Twelve Nights") and the
 daily weather during this period was accepted as indicative of the
-weather during the correlated months.[7](jms37.htm#an_16_7)
+weather during the correlated months.[7](jms37.htm#an_16_7.md)
 
 Lists of unlucky days, sometimes called "Egyptian Days," are of rather
 common occurrence in medieval Latin works. Undoubtedly a relic of the
@@ -285,7 +285,7 @@ astrological portents before beginning an undertaking, but when he knows
 that the stars are unfavorable he should not act counter to them and
 rely on a miracle." Eleazar of Worms published a list of 59 days through
 the year when it was "good to set out on a
-journey."[8](jms37.htm#an_16_8) The astrological factor was also of
+journey."[8](jms37.htm#an_16_8.md) The astrological factor was also of
 great importance in magical pursuits. As we have seen, special days were
 designated as particularly favorable for writing amulets and *mezuzot*.
 Besides, the association of the angels with the planets and stars made
@@ -307,7 +307,7 @@ eighth or ninth century. As we noticed above, this period was also
 considered inopportune for blood-letting. The mourning motif was
 emphasized by further prohibitions against cutting the hair, paring
 finger-nails, wearing new clothes and working after
-sunset.[9](jms37.htm#an_16_9)
+sunset.[9](jms37.htm#an_16_9.md)
 
 The moon is universally believed to exert a most powerful influence upon
 terrestrial phenomena, and during the Middle Ages Christians and Jews
@@ -336,7 +336,7 @@ Cutting the hair or finger-nails on new moon day was frowned upon
 which is most auspicious for it. Such beliefs were very prevalent among
 German Christians, and though the rabbis often forbade these practices,
 their disapproval had little effect on their
-flock.[10](jms37.htm#an_16_10)
+flock.[10](jms37.htm#an_16_10.md)
 
 The pagan veneration of the new moon, which had by no means disappeared
 in Biblical times, has no direct connection with the ceremony of
@@ -362,7 +362,7 @@ and clergy, even including masters," who "bend the knee or bow the head
 at new moon or fast on that day, even though it be Sunday or Christmas
 when the church forbids fasting." A halting recognition that the fast
 was observed because of "the shrinking of the moon" is evidence of the
-persistence of primitive apprehensions.[11](jms37.htm#an_16_11)
+persistence of primitive apprehensions.[11](jms37.htm#an_16_11.md)
 
 <span id="page_257">p. 257</span>
 
@@ -399,7 +399,7 @@ expression of man's dislike to begin a new season with so
 inconsequential an action as drinking water. This latter explanation was
 occasionally repeated during the Middle Ages, but without enthusiasm;
 the former was more often advanced as the true
-reason.[12](jms37.htm#an_16_12)
+reason.[12](jms37.htm#an_16_12.md)
 
 A slight variant of this superstition is incorporated in the idea that
 it is blood, rather than poison, that pollutes the wells. An old legend,
@@ -423,7 +423,7 @@ between this blood version of the *Tekufah* superstition and the
 medieval German belief that on Midsummer Day (St. John's Day) drops from
 the bleeding corpse of John the Baptist, which at that time hovers over
 the earth, are to be discerned on the leaves of the *Johanniskraut*
-(*Hypericum perforatum*).[13](jms37.htm#an_16_13)
+(*Hypericum perforatum*).[13](jms37.htm#an_16_13.md)
 
 Despite the reproof administered by Judah the Pious, and often repeated,
 that "the sincerely devout need fear no evil," there was a widespread
@@ -440,7 +440,7 @@ Jewish communities of Europe. These entailed the suspension of a piece
 of iron in the water, or the admixture of some salt, or the sealing of
 the vessel, all well-known anti-demonic devices. Thus ensured against
 contamination, the water could be imbibed without fear or
-danger.[14](jms37.htm#an_16_14)
+danger.[14](jms37.htm#an_16_14.md)
 
 The notion that death would befall anyone who killed a goose during an
 undetermined brief period in the months of Tebet and Shebat (from about
@@ -451,7 +451,7 @@ immediately a bit of the dead fowl. The origin of this notion is
 obscure. There may be something to the opinion of a late commentator
 that it is based upon the belief that "the demons are at the height of
 their power in these months" (the period of the winter solstice) and for
-some reason resent the slaughter of a goose.[15](jms37.htm#an_16_15)
+some reason resent the slaughter of a goose.[15](jms37.htm#an_16_15.md)
 
 As a final note to this chapter it should be pointed out that medieval
 
@@ -468,8 +468,8 @@ astrological influences—we have seen how the waning and waxing of the
 moon can affect a man's mind (a non-Jewish surgeon advised against
 operating on a fractured skull at the full of the moon, because then the
 brain expands and fills the cranium)—and medical treatments took these
-factors into account.[16](jms37.htm#an_16_16)
+factors into account.[16](jms37.htm#an_16_16.md)
 
 ------------------------------------------------------------------------
 
-[Next: Appendix I. The Formation of Magical Names](jms19)
+[Next: Appendix I. The Formation of Magical Names](jms19.md)

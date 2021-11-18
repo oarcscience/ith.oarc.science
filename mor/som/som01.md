@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](som00)  [Next](som02) 
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](som00)  [Next](som02.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ March, 1914.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](som02)
+[Next: Chapter I](som02.md)

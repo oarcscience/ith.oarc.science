@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb09)  [Next](vifb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb09)  [Next](vifb11.md) 
 
 </div>
 
@@ -198,6 +198,6 @@ that feast as long as I live.
 
 ------------------------------------------------------------------------
 
-[Next: The Grateful Prince](vifb11)
+[Next: The Grateful Prince](vifb11.md)
 
 </div>

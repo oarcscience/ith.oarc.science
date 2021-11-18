@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe174)  [Next](prwe176) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe174)  [Next](prwe176.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ toad.
 
 ------------------------------------------------------------------------
 
-[Next: The Lord of Pengerswick an Enchanter](prwe176)
+[Next: The Lord of Pengerswick an Enchanter](prwe176.md)

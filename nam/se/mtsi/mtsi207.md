@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi206)  [Next](mtsi208) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi206)  [Next](mtsi208.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southeast](../index)  [Index](index) 
 Some Indians were gambling and continued to gamble for some time. One
 Indian kept the water and after he had wagered all of his things and
 lost them he wagered the water. Then the water was won from him and shut
-up, <span id="fr_52"></span>[1](#fn_52) so that there was none to be
+up, <span id="fr_52"></span>[1](#fn_52.md) so that there was none to be
 had. All creatures needed water badly and went about hunting for it, but
 they could not find it. At the end of four days a Tososohka (a small
 woodpecker) while traveling about heard it. He went and told the people
@@ -24,9 +24,9 @@ very happy.
 
 ### Footnotes
 
-<span id="fn_52"></span>[168:1](mtsi207.htm#fr_52) In a cane probably.
+<span id="fn_52"></span>[168:1](mtsi207.htm#fr_52.md) In a cane probably.
 See Alabama story No. 8, p. 123.
 
 ------------------------------------------------------------------------
 
-[Next: 8. The Submarine People](mtsi208)
+[Next: 8. The Submarine People](mtsi208.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm25)  [Next](bnm27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm25)  [Next](bnm27.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ home before he became an oriole.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Peacock's Tail Has A Hundred Eyes.](bnm27)
+[Next: Why The Peacock's Tail Has A Hundred Eyes.](bnm27.md)

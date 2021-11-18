@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tsoa25)  [Next](tsoa27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tsoa25)  [Next](tsoa27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Ages*, by Robert Collier, \[1926\], at Intangible
 Textual Heritage
 
@@ -40,7 +40,7 @@ Textual Heritage
  Lifted afresh he hewed his enemy down,  
  And saved a great cause that heroic day."  
                      —<span class="smallcaps">Edward Rowland
-Sill</span>. <span id="fr_7"></span>[\*](#fn_7)
+Sill</span>. <span id="fr_7"></span>[\*](#fn_7.md)
 
 </div>
 
@@ -232,7 +232,7 @@ it because it offers the least resistance.
 </div>
 
 Now, how about you? Are you taking active control of your own thought?
-Are you imaging upon your [subconscious](errata.htm#10) mind only such
+Are you imaging upon your [subconscious](errata.htm#10.md) mind only such
 things as you want to see realized? Are you thinking healthy thoughts,
 happy thoughts, successful thoughts?
 
@@ -370,7 +370,7 @@ them in real life.
 
 It matters not whether you are young or old, rich or poor. The time to
 begin is NOW. It is never too late. Remember those lines of
-Appleton's: <span id="fr_8"></span>[\*](#fn_8)
+Appleton's: <span id="fr_8"></span>[\*](#fn_8.md)
 
 <div style="margin-left: 10%; margin-right: 10%">
 
@@ -409,12 +409,12 @@ Where I had stumbled, with sure feet he stood; <span id="page_417">p.
 
 ### Footnotes
 
-<span id="fn_7"></span>[399:\*](tsoa26.htm#fr_7) From "Poems," Houghton,
+<span id="fn_7"></span>[399:\*](tsoa26.htm#fr_7.md) From "Poems," Houghton,
 Mifflin Co.
 
-<span id="fn_8"></span>[416:\*](tsoa26.htm#fr_8) From "The Quiet
+<span id="fn_8"></span>[416:\*](tsoa26.htm#fr_8.md) From "The Quiet
 Courage." D. Appleton & Co., New York.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. Unappropriated Millions](tsoa27)
+[Next: XVI. Unappropriated Millions](tsoa27.md)

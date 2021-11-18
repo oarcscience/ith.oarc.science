@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](frank03)  [Next](frank05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](frank03)  [Next](frank05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP3FC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP3FC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Frankenstein, or The Modern Prometheus*, by Mary Wollstonecraft Shelly,
 \[1818\], at Intangible Textual Heritage
 
@@ -52,4 +52,4 @@ R.W.
 
 ------------------------------------------------------------------------
 
-[Next: Letter 4](frank05)
+[Next: Letter 4](frank05.md)

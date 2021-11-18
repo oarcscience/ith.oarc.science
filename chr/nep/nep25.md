@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep24)  [Next](nep26) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep24)  [Next](nep26.md) 
 
 ------------------------------------------------------------------------
 
@@ -296,4 +296,4 @@ For cleaving unto sinful ways.
 
 ------------------------------------------------------------------------
 
-[Next: Lessons for Children](nep26)
+[Next: Lessons for Children](nep26.md)

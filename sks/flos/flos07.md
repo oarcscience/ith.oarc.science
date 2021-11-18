@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos06)  [Next](flos08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos06)  [Next](flos08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ of the sun, yet his allusions to the folk-lore connected with it are
 somewhat scanty.
 
 According to the old philosophy, the sun was accounted a planet, <span
-id="fr_88"></span>[1](#fn_88) and thought to be whirled round the earth
+id="fr_88"></span>[1](#fn_88.md) and thought to be whirled round the earth
 by the motion of a solid sphere, in which it was fixed. In "Antony and
 Cleopatra" (iv. 15), Cleopatra exclaims—
 
@@ -61,7 +61,7 @@ consequence, the earth be involved in endless night.
    In "1 Henry IV.," (i. 2), Falstaff, according to vulgar astronomy,
 calls the sun a "wandering knight,"—and by this expression evidently
 alludes to some knight of romance. Mr Douce <span
-id="fr_89"></span>[1](#fn_89) considered the allusion was to "The Voyage
+id="fr_89"></span>[1](#fn_89.md) considered the allusion was to "The Voyage
 of the Wandering Knight," by Jean de Cathenay, of which the translation,
 by W. Goodyeare, appeared about the year 1600. The words may be a
 portion of some forgotten ballad.
@@ -87,7 +87,7 @@ set."</span>
 </div>
 
    "That Shakespeare thought it was the air," says Singer, <span
-id="fr_90"></span>[2](#fn_90) "and not the earth, that drizzled dew, is
+id="fr_90"></span>[2](#fn_90.md) "and not the earth, that drizzled dew, is
 evident from many passages in his works. Thus, in King John" (ii. 1) he
 says:—"Before the dew of evening fall." Steevens, alluding to the
 following passage in "A Midsummer Night's Dream" (iii. 1), "and when she
@@ -125,7 +125,7 @@ compare the expression in "Coriolanus" (v. 4):—
 old custom of going forth into the fields before the sun had risen on
 Easter Day, to see him mounting over the hills with tremulous motion, as
 if it were an animate thing, bounding in sympathy with the redeemed of
-mankind." <span id="fr_91"></span>[1](#fn_91)
+mankind." <span id="fr_91"></span>[1](#fn_91.md)
 
    A cloudy rising of the sun has generally been regarded as ominous—a
 superstition equally prevalent on the Continent as in this country. In
@@ -142,9 +142,9 @@ superstition equally prevalent on the Continent as in this country. In
 </div>
 
    "The learned Moresin in his 'Papatus,'" says Brand, <span
-id="fr_92"></span>[2](#fn_92) "reckons among omens, the cloudy rising of
+id="fr_92"></span>[2](#fn_92.md) "reckons among omens, the cloudy rising of
 the sun." Virgil, too, in his 1st Georgic (441–9) considers it a sign of
-stormy weather <span id="fr_93"></span>[3](#fn_93):—
+stormy weather <span id="fr_93"></span>[3](#fn_93.md):—
 
 <div style="margin-left: 32px">
 
@@ -187,7 +187,7 @@ thus describes it:—
 
 </div>
 
-   Mr Swainson <span id="fr_94"></span>[1](#fn_94) shows that this
+   Mr Swainson <span id="fr_94"></span>[1](#fn_94.md) shows that this
 notion is common on the Continent. Thus, at Milan the proverb runs, "If
 the morn be red, rain is at hand."
 
@@ -220,7 +220,7 @@ omen of coming calamity; and was oftentimes the source of extraordinary
 alarm as well as the occasion of various superstitious ceremonies. In
 1597, during an eclipse of the sun, it is stated that at Edinburgh, men
 and women thought the day of judgment was come. <span
-id="fr_95"></span>[2](#fn_95) Many women swooned, much crying was heard
+id="fr_95"></span>[2](#fn_95.md) Many women swooned, much crying was heard
 in the streets, and in fear some ran to the kirk to pray. Mr Napier says
 he remembers "an eclipse about 1818, when about three parts of the sun
 was covered. The alarm in the village was very great, indoor work was
@@ -247,14 +247,14 @@ Should yawn at alteration."</span>
 
 </div>
 
-   Francis Bernier <span id="fr_96"></span>[1](#fn_96) says that, in
+   Francis Bernier <span id="fr_96"></span>[1](#fn_96.md) says that, in
 France in 1654, at an eclipse of the sun, "some bought drugs against the
 eclipse, others kept themselves close in the dark in their caves and
 their well closed chambers, others cast themselves in great multitudes
 into the churches; those apprehending some malign and dangerous
 influence, and these believing that they were come to the last day, and
 that the eclipse would shake the foundations of nature." <span
-id="fr_97"></span>[2](#fn_97)
+id="fr_97"></span>[2](#fn_97.md)
 
    In "3rd Henry VI." (ii. 1), Shakespeare refers to a curious
 circumstance in which, on a certain occasion, the sun is reported to
@@ -270,7 +270,7 @@ which Richard replies:—
  As if they vow’d some league inviolable:  
  Now are they but one lamp, one light, one sun,  
  In this the heaven figures some event." <span
-id="fr_98"></span>[3](#fn_98)</span>
+id="fr_98"></span>[3](#fn_98.md)</span>
 
 </div>
 
@@ -304,7 +304,7 @@ the king says to him, "How is it that the clouds still hang on you?" he
 replies, "not so, my lord; I am too much i’ the sun," *i.e.*, out of
 God's blessing.
 
-   This expression, says Mr Dyce, <span id="fr_99"></span>[1](#fn_99) is
+   This expression, says Mr Dyce, <span id="fr_99"></span>[1](#fn_99.md) is
 found in various authors from Heywood down to Swift—the former has:—
 
 <div style="margin-left: 32px">
@@ -321,7 +321,7 @@ And the latter—
 <span class="small">"*Lord Sparkish*. They say, marriages are made in
 heaven; but I doubt, when she was married, she had no friend there.  
  *Neverout*. Well, she's got out of God's blessing into the warm
-sun." <span id="fr_100"></span>[2](#fn_100)</span>
+sun." <span id="fr_100"></span>[2](#fn_100.md)</span>
 
 </div>
 
@@ -356,7 +356,7 @@ remarks—
 moon," Shakespeare has referred to many of the superstitions associated
 with it, several of which still linger on in country nooks. A widespread
 legend of great antiquity informs us that the moon is inhabited by a
-man <span id="fr_101"></span>[1](#fn_101) with a bundle of sticks on his
+man <span id="fr_101"></span>[1](#fn_101.md) with a bundle of sticks on his
 back, who has been exiled thither for many centuries, and who is so far
 off that he is beyond the reach of death. This tradition, which has
 given rise to many superstitions, is still preserved under various forms
@@ -382,10 +382,10 @@ We may also compare the expression in "A Midsummer Night's Dream" (v.
 and Thisbe," Moonshine is represented "with lanthorn, dog, and bush of
 thorn." And further on in the same scene, describing himself, Moonshine
 says—"All that I have to say, is, to tell you that the lanthorn is the
-moon; I, the man in the moon; <span id="fr_102"></span>[2](#fn_102) this
+moon; I, the man in the moon; <span id="fr_102"></span>[2](#fn_102.md) this
 thorn-bush, my thorn-bush; and this dog, my dog."
 
-   Ordinarily, <span id="fr_103"></span>[3](#fn_103) however, his
+   Ordinarily, <span id="fr_103"></span>[3](#fn_103.md) however, his
 offence is stated to have been
 
 <span id="page_66">p. 66</span>
@@ -398,16 +398,16 @@ stand for ever in the moon, with his bundle on his back. Instead of a
 dog, one German version places him with a woman, whose crime was
 churning butter on Sunday. The Jews have a legend that Jacob is the
 moon, and they believe that his face is visible. Mr Baring Gould <span
-id="fr_104"></span>[1](#fn_104) says that the "idea of locating animals
+id="fr_104"></span>[1](#fn_104.md) says that the "idea of locating animals
 in the two great luminaries of heaven is very ancient, and is a relic of
 a primeval superstition of the Aryan race." The natives of Ceylon,
 instead of a man, have placed a hare in the moon; and the Chinese
 represent the moon by "a rabbit pounding rice in a mortar." <span
-id="fr_105"></span>[2](#fn_105)
+id="fr_105"></span>[2](#fn_105.md)
 
    From the very earliest times the moon has not only been an object of
 popular superstition, but been honoured by various acts of adoration. In
-Europe, <span id="fr_106"></span>[3](#fn_106) in the fifteenth century,
+Europe, <span id="fr_106"></span>[3](#fn_106.md) in the fifteenth century,
 "it was a matter of complaint that some still worshipped the new moon
 with bended knee, or hood or hat removed. And to this day we may still
 see a hat raised to her, half in conservatism and half in jest. It is
@@ -435,7 +435,7 @@ shine,
 </div>
 
 Indeed it was formerly a common practice for people to address
-invocations to the moon, <span id="fr_107"></span>[4](#fn_107) and even
+invocations to the moon, <span id="fr_107"></span>[4](#fn_107.md) and even
 at the present day we find remnants of this practice both in this
 country and
 
@@ -443,7 +443,7 @@ country and
 
 abroad. Thus in many places it is customary for young women to appeal to
 the moon to tell them of their future prospects in matrimony, <span
-id="fr_108"></span>[1](#fn_108) the following or similar lines being
+id="fr_108"></span>[1](#fn_108.md) the following or similar lines being
 repeated on the occasion—
 
 <div style="margin-left: 32px">
@@ -476,7 +476,7 @@ And again, in "Merchant of Venice" (v. 1), where Gratiano exclaims—
 </div>
 
    We may note here that the inconstancy <span
-id="fr_109"></span>[2](#fn_109) of the moon is the subject of various
+id="fr_109"></span>[2](#fn_109.md) of the moon is the subject of various
 myths, of which Mr Tylor has given the following examples:—Thus an
 Australian legend says that Mityan, the moon, was a native cat, who fell
 in love with some one else's wife, and was driven away to wander ever
@@ -485,10 +485,10 @@ husband of the sun, faithlessly loved the morning star, wherefore he was
 cloven through in punishment, as we see him in the sky. The Khasias of
 the Himalaya say that the moon falls monthly in love with his
 mother-in-law, who throws ashes in his face, whence his spots. <span
-id="fr_110"></span>[3](#fn_110)
+id="fr_110"></span>[3](#fn_110.md)
 
    As in the case of the sun, an eclipse of the moon was formerly
-considered ominous. The Romans <span id="fr_111"></span>[4](#fn_111)
+considered ominous. The Romans <span id="fr_111"></span>[4](#fn_111.md)
 supposed it was owing to the influence of magical charms, to counteract
 which they had recourse to the sound of brazen instruments of all
 
@@ -511,7 +511,7 @@ Thus the Chinese believed that during eclipses of the sun and moon these
 celestial bodies were attacked by a great serpent, to drive away which
 they struck their gongs or brazen drums. The Peruvians entertaining a
 similar notion, raised a frightful din when the moon was eclipsed, <span
-id="fr_112"></span>[1](#fn_112) while some savages would shoot up arrows
+id="fr_112"></span>[1](#fn_112.md) while some savages would shoot up arrows
 to defend their luminaries against the enemies they fancied were
 attacking them. It was also a popular belief that the moon was affected
 by the influence of witchcraft, a notion referred to by Prospero in "The
@@ -526,11 +526,11 @@ Tempest" (v. 1), who says—
 
    In a former scene (ii. 1), Gonzalo remarks:—"You are gentlemen of
 brave metal; you would lift the moon out of her sphere." Douce <span
-id="fr_113"></span>[2](#fn_113) quotes a marginal reference from
+id="fr_113"></span>[2](#fn_113.md) quotes a marginal reference from
 Adlington's translation of "Apuleius" (1596), a book well known to
 Shakespeare:—"Witches in old time were supposed to be of such power,
 that they could put downe the moone by their enchantment." <span
-id="fr_114"></span>[3](#fn_114) One of the earliest references to this
+id="fr_114"></span>[3](#fn_114.md) One of the earliest references to this
 superstition among classical authorities is, that in the "Clouds" of
 Aristophanes, where Strepsiades proposes the hiring of a Thessalian
 witch, to bring down the moon and shut her up in a box, that he might
@@ -552,7 +552,7 @@ fifth Epode (l. 45) tells us:—
 <div style="margin-left: 32px">
 
 <span class="small">"Quæ sidera excantata voce Thessala,  
- Lunamque cœlo deripit." <span id="fr_115"></span>[1](#fn_115)</span>
+ Lunamque cœlo deripit." <span id="fr_115"></span>[1](#fn_115.md)</span>
 
 </div>
 
@@ -681,7 +681,7 @@ read of the "moonshine's watery beams."
 in Newton's "Direction for the Health of Magistrates and Studentes,"
 (1574), we are told that "the moone is ladye of moisture." Bartholomœus
 in "De Proprietate Rerum" describes the moon as "mother of all humours,
-minister and ladye of the sea." <span id="fr_116"></span>[1](#fn_116) In
+minister and ladye of the sea." <span id="fr_116"></span>[1](#fn_116.md) In
 Lydgate's prologue to his "Story of Thebes" there are two lines not
 unlike those in "Midsummer Night's Dream" already quoted—
 
@@ -694,7 +694,7 @@ unlike those in "Midsummer Night's Dream" already quoted—
 
 Of course, the moon is thus spoken of as governing the tides, and from
 its supposed influence on the weather. <span
-id="fr_117"></span>[2](#fn_117) In 1 Henry IV. (i. 2) Falstaff alludes
+id="fr_117"></span>[2](#fn_117) In 1 Henry IV. (i. 2.md) Falstaff alludes
 to the sea being governed "by our noble and chaste mistress the moon";
 and in "Richard III." (ii. 2) Queen Elizabeth says—
 
@@ -798,7 +798,7 @@ Shakespeare" (1878, p. 165) says "it is doubtless the same as plantain."
 
    It appears that, in days gone by, "neither sowing, planting, nor
 grafting was ever undertaken without a scrupulous attention to the
-increase or waning of the moon." <span id="fr_118"></span>[1](#fn_118)
+increase or waning of the moon." <span id="fr_118"></span>[1](#fn_118.md)
 Scot, in his "Discoverie of Witchcraft," notes how "the poore husbandman
 perceiveth that the increase of the moone maketh plants fruitful, so as
 in the full moone they are in best strength; decaieing in the wane, and
@@ -833,7 +833,7 @@ hang them on the horns o’ the moon." It is made use of in Decker's
 
 When the horns of the moon appear to point upwards, the moon is said to
 be like a boat, and various weather prognostications are drawn from this
-phenomena. <span id="fr_119"></span>[2](#fn_119) According to sailors,
+phenomena. <span id="fr_119"></span>[2](#fn_119.md) According to sailors,
 it is an omen of fine weather, whereas others affirm it is a sign of
 rain—resembling a basin full of water about to fall.
 
@@ -860,7 +860,7 @@ witchcraft, it was supposed that a class of devils called Incubi and
 Succubi roamed the earth with the express purpose of tempting people to
 abandon their purity of life. Hence, all badly deformed children were
 suspected of having had such an undesirable parentage. <span
-id="fr_120"></span>[1](#fn_120)
+id="fr_120"></span>[1](#fn_120.md)
 
    A curious expression, "a sop o’ the moonshine," occurs in "King Lear"
 (ii. 2), which probably alludes to some dish so called. Kent says to the
@@ -868,11 +868,11 @@ steward—"Draw, you rogue; for, though it be night, yet the moon shines;
 I'll make a sop o’ the moonshine of you."
 
    There was a way of dressing eggs, called "eggs in moonshine," of
-which Douce <span id="fr_121"></span>[2](#fn_121) gives the following
+which Douce <span id="fr_121"></span>[2](#fn_121.md) gives the following
 description:—"Eggs were broken and boiled in salad oil till the yolks
 became hard. They were eaten with slices of onion fried in oil, butter,
 verjuice, nutmeg, and salt." "A sop in the moonshine" must have been a
-sippet in this dish. <span id="fr_122"></span>[3](#fn_122)
+sippet in this dish. <span id="fr_122"></span>[3](#fn_122.md)
 
    *Planets*.—The irregular motion of the planets was supposed to
 portend some disaster to mankind. Ulysses in "Troilus and Cressida" (i.
@@ -1040,7 +1040,7 @@ spheres."
 in modern popular philosophy, asserts that mundane events are more or
 less influenced by the stars. That astronomers should have divided the
 sun's course into imaginary signs of the Zodiac, was enough, says Mr
-Tylor, <span id="fr_123"></span>[1](#fn_123) to originate astrological
+Tylor, <span id="fr_123"></span>[1](#fn_123.md) to originate astrological
 rules "that these celestial signs have an actual effect on real earthly
 rams, bulls, crabs, lions, virgins." Hence we are told that a child born
 under the sign of the Lion will be courageous; but one born under the
@@ -1084,14 +1084,14 @@ charming qualities of his daughter, says:—
  Nature this dowry gave, to glad her presence,  
  The senate-house of planets all did sit,  
  To knit in her their best perfections." <span
-id="fr_124"></span>[2](#fn_124)</span>
+id="fr_124"></span>[2](#fn_124.md)</span>
 
 </div>
 
 <span id="page_78">p. 78</span>
 
    Throughout the East, says Mr Tylor, <span
-id="fr_125"></span>[1](#fn_125) astrology even now remains a science in
+id="fr_125"></span>[1](#fn_125.md) astrology even now remains a science in
 full esteem. The condition of mediæval Europe may still be perfectly
 realised by the traveller in Persia, where the Shah waits for days
 outside the walls of his capital till the constellations allow him to
@@ -1106,7 +1106,7 @@ found that something or other had happened at that time which gave a
 more than ordinary run to this deceit, as these words seem to
 indicate—"I am thinking, brother, of a prediction I read this other day,
 what should follow these eclipses." Zouch, <span
-id="fr_126"></span>[2](#fn_126) speaking of Queen Mary's reign, tells us
+id="fr_126"></span>[2](#fn_126.md) speaking of Queen Mary's reign, tells us
 that "Judicial astrology was much in use long after this time. Its
 predictions were received with reverential awe; and even men of the most
 enlightened understandings were inclined to believe that the
@@ -1153,7 +1153,7 @@ stars, a custom to which Bedford refers in "1 Henry VI." (i. 1)—
 divinity of his parents is expressed by placing a star over their heads;
 and in like manner the medals of Faustina the Elder exhibit her on an
 eagle, her head surrounded with stars. <span
-id="fr_127"></span>[1](#fn_127)
+id="fr_127"></span>[1](#fn_127.md)
 
    In "2 Henry IV." (iv. 3) a ludicrous term for the stars is, "cinders
 of the elements;" and in "Merchant of Venice" (v. 1) they are designated
@@ -1174,7 +1174,7 @@ Then meet and join."</span>
    It is called by the French and Spaniards inhabiting the coasts of the
 Mediterranean—St Helme's or St Telme's fire; by the Italians—the fire of
 St Peter and St Nicholas. It is also known as the fire of St Helen, St
-Herm, and St Clare. Douce <span id="fr_128"></span>[2](#fn_128) tells us
+Herm, and St Clare. Douce <span id="fr_128"></span>[2](#fn_128.md) tells us
 that whenever it appeared as a single flame it was supposed by the
 ancients to be Helena, the sister of Castor and Pollux, and in this
 state to bring ill luck, from the calamities which this lady is known to
@@ -1196,7 +1196,7 @@ it is a
 sign of good luck; if "either lights begin at the topmast, bowsprit," or
 foreship, and descend towards the sea, it is a sign of a tempest. In
 taking, therefore, the latter position, Ariel had fulfilled the commands
-of Prospero and raised a storm. <span id="fr_129"></span>[1](#fn_129) Mr
+of Prospero and raised a storm. <span id="fr_129"></span>[1](#fn_129.md) Mr
 Swainson, in his "Weather Lore" (1873, p. 193), quotes the following,
 which is to the same purport—
 
@@ -1221,13 +1221,13 @@ our ship about three houres, flying from maste to maste, and from top to
 top; and sometimes it would be in two or three places at once." This
 meteor was by some supposed to be a spirit; and by others "an exhalation
 of moyst vapours, that are ingendered by foul and tempestuous
-weather." <span id="fr_130"></span>[2](#fn_130) Mr Thoms in his
+weather." <span id="fr_130"></span>[2](#fn_130.md) Mr Thoms in his
 "Notelets on Shakespeare" (1865, 59), says that, no doubt, Shakespeare
-had in mind the will-o’-the wisp. <span id="fr_131"></span>[3](#fn_131)
+had in mind the will-o’-the wisp. <span id="fr_131"></span>[3](#fn_131.md)
 
    *Fire-Drake*,—which is jocularly used in "Henry VIII." (v. 4), for a
 man with a red face, was one of the popular terms for the will-o’ the
-wisp, <span id="fr_132"></span>[4](#fn_132) and Burton in his "Anatomy
+wisp, <span id="fr_132"></span>[4](#fn_132.md) and Burton in his "Anatomy
 of Melancholy" says:—"fiery spirits or devils are such as commonly work
 by fire-drakes, or ignes fatui, which lead men often in flumina et
 praecipitia." In Bullokar's "English Expositor" (1616), we
@@ -1241,7 +1241,7 @@ great unequal exhalation inflamed betweene two clouds, the one hot, the
 other cold, which is the reason that it also smoketh, the middle part
 whereof, according to the proportion of the hot cloud being greater than
 the rest, maketh it seem like a bellie, and both ends like unto a head
-and tail." <span id="fr_133"></span>[1](#fn_133) White, however, in his
+and tail." <span id="fr_133"></span>[1](#fn_133.md) White, however, in his
 "Peripateticall Institutions" (p. 156), calls the fiery-dragon or
 fire-drake, "a weaker kind of lightning. Its livid colours, and its
 falling without noise and slowly, demonstrate a great mixture of watery
@@ -1249,7 +1249,7 @@ exhalation in it. . . . . . ’Tis sufficient for its shape, that it has
 some resemblance of a dragon not the expresse figure."
 
    Among other allusions to the will-o’ the wisp by Shakespeare, Mr
-Hunter <span id="fr_134"></span>[2](#fn_134) notices one in "King Lear"
+Hunter <span id="fr_134"></span>[2](#fn_134.md) notices one in "King Lear"
 (iii. 3), where Glo’ster's torch being seen in the distance, the fool
 says, "Look, here comes a walking fire." Whereupon Edgar replies, "This
 is the foul fiend, Flibbertigibbet; he begins at curfew, and walks till
@@ -1291,7 +1291,7 @@ little better than played the Jack with us"—that is, to quote Dr
 Johnson's explanation of this passage "he has played
 Jack-with-a-lanthorn, has led us about like an *ignis fatuus*, by which
 travellers are decoyed into the mire." <span
-id="fr_135"></span>[1](#fn_135) Once more, when Puck, in "Midsummer
+id="fr_135"></span>[1](#fn_135.md) Once more, when Puck, in "Midsummer
 Night's Dream" (iii. 1) speaks of the various forms he assumes in order
 to "mislead night wanderers, laughing at their harm," he says—
 
@@ -1303,10 +1303,10 @@ to "mislead night wanderers, laughing at their harm," he says—
 </div>
 
 Shakespeare, no doubt, here alludes to the will-o’-the-wisp, an opinion
-shared by Mr Joseph Ritson, <span id="fr_136"></span>[2](#fn_136) who
+shared by Mr Joseph Ritson, <span id="fr_136"></span>[2](#fn_136.md) who
 says—"This Puck, or Robin Goodfellow, seems likewise to be the illusory
 candle-holder, so fatal to travellers, and who is more usually called
-'Jack-a-lantern,' <span id="fr_137"></span>[3](#fn_137) or
+'Jack-a-lantern,' <span id="fr_137"></span>[3](#fn_137.md) or
 'Will-with-a-wisp,' and 'Kit-with-the-can-stick.'"
 
 <span id="page_83">p. 83</span>
@@ -1325,7 +1325,7 @@ Which oft, they say, some evil spirit attends,
 Hovering and blazing with delusive light,  
 Misleads th’ amaz’d night-wanderer from his way  
 To bogs and mires, and oft through pond and pool." <span
-id="fr_138"></span>[1](#fn_138)</span>
+id="fr_138"></span>[1](#fn_138.md)</span>
 
 </div>
 
@@ -1337,13 +1337,13 @@ hover between heaven and earth. In many places they are called
 land-measurers, and are seen like figures of fire, running to and fro
 with a red-hot measuring rod. These are said to be persons who have
 falsely sworn away land, or fraudulently measured it, or removed
-land-marks. <span id="fr_139"></span>[2](#fn_139) In the neighbourhood
+land-marks. <span id="fr_139"></span>[2](#fn_139.md) In the neighbourhood
 of Magdeburg, they are known as "Lüchtemännekens; and to cause them to
 appear, it is sufficient to call out "Ninove, Ninove." In the South
 Altmark they are termed "Dickepôten;" and if a person only prays as soon
 as he sees one, he draws it to him; if he curses, it retires. In some
 parts, too, a popular name is "Huckepôten," and "Tuckbolde." The Jack o’
-Lanterns of Denmark <span id="fr_140"></span>[3](#fn_140) are the
+Lanterns of Denmark <span id="fr_140"></span>[3](#fn_140.md) are the
 spirits of unrighteous men, who by a false glimmer, seek to mislead the
 traveller , and to decoy him into bogs and moors. The best safeguard
 against them, when they appear, is to turn one's cap inside out. A
@@ -1357,7 +1357,7 @@ believed to be
 
 cruel spirits, whom it is dangerous to encounter. Among the
 superstitions which prevail in connection with them, two, says Mr
-Thoms, <span id="fr_141"></span>[1](#fn_141) are deserving of
+Thoms, <span id="fr_141"></span>[1](#fn_141.md) are deserving of
 notice:—"One is, that the ignis fatuus is the spirit of some unhappy
 woman, who is destined to run *en furolle*, to expiate her intrigues
 with a minister of the church, and it is designated from that
@@ -1462,7 +1462,7 @@ Comets forewarn."</span>
    *Dew*.—Amongst the many virtues ascribed to dew was its supposed
 power over the complexion, a source of superstition which still finds
 many believers, especially on May morning. <span
-id="fr_142"></span>[1](#fn_142)\* All dew, however, does not appear to
+id="fr_142"></span>[1](#fn_142.md)\* All dew, however, does not appear to
 have possessed this quality—some being of a deadly or malignant quality.
 Thus Ariel, in the "Tempest" (i. 2), speaks of the "deep brook" in the
 harbour—
@@ -1536,7 +1536,7 @@ the poet with a touching simile, which he has put into the mouth of
 According to Pliny, "honey-dew" is the saliva of the stars, or a liquid
 produced by the purgation of the air. It is, however, a secretion
 deposited by a small insect, which is distinguished by the generic name
-of Aphis. <span id="fr_143"></span>[1](#fn_143)
+of Aphis. <span id="fr_143"></span>[1](#fn_143.md)
 
    *Rainbow*.—Secondary rainbows, the watery appearance in the sky
 accompanying the rainbow, are in many places termed "water-galls"—a term
@@ -1554,7 +1554,7 @@ we find in the "Rape of Lucreece" \[1586–9\]:—
    Horace Walpole several times makes use of the word—"False good news
 are always produced by true good, like the water-gall by the rainbow";
 and again, "Thank heaven it is complete, and did not remain imperfect
-like a water-gall." <span id="fr_144"></span>[2](#fn_144)
+like a water-gall." <span id="fr_144"></span>[2](#fn_144.md)
 
 <span id="page_87">p. 87</span>
 
@@ -1605,7 +1605,7 @@ in "Antony and Cleopatra" (ii. 5)—
 <div style="margin-left: 32px">
 
 <span class="small">"Some innocents ’scape not the thunderbolt." <span
-id="fr_145"></span>[1](#fn_145)</span>
+id="fr_145"></span>[1](#fn_145.md)</span>
 
 </div>
 
@@ -1668,7 +1668,7 @@ Doth rend the region."</span>
 </div>
 
    *Earthquakes*, around which so many curious myths and superstitions
-have clustered, <span id="fr_146"></span>[1](#fn_146) are scarcely
+have clustered, <span id="fr_146"></span>[1](#fn_146.md) are scarcely
 noticed by Shakespeare. They are mentioned among the ominous signs of
 that terrible night on which Duncan is so treacherously slain
 ("Macbeth," ii. 3)—
@@ -1715,7 +1715,7 @@ epoch of his passing from the severe to the milder season, opening,
 however, with storms.
 
    *Wind*—An immense deal of curious weather lore <span
-id="fr_147"></span>[1](#fn_147) has been associated with the wind from
+id="fr_147"></span>[1](#fn_147.md) has been associated with the wind from
 the earliest period; and in our own and foreign countries innumerable
 proverbs are found describing the future state of the weather from the
 position of the wind, for, according to an old saying, "every wind has
@@ -1766,7 +1766,7 @@ And blister you all o’er."</span>
 <span id="page_90">p. 90</span>
 
 <span class="contnote">\[paragraph continues\]</span> A book, <span
-id="fr_148"></span>[1](#fn_148) too, with which, as already noticed,
+id="fr_148"></span>[1](#fn_148.md) too, with which, as already noticed,
 Shakespeare appears to have been familiar, tells us, "This southern wind
 is hot and moist. Southern winds corrupt and destroy; they heat, and
 make men fall into the sickness." Hence, in "Troilus and Cressida" (v.
@@ -1813,9 +1813,9 @@ Again, in "Venus and Adonis" (425), there is an additional reference—
 </div>
 
 In the Cornish dialect a *flaw* signifies primitively a cut. <span
-id="fr_149"></span>[2](#fn_149) But it is also there used in a secondary
+id="fr_149"></span>[2](#fn_149.md) But it is also there used in a secondary
 sense for those sudden or cutting gusts of wind. <span
-id="fr_150"></span>[3](#fn_150)
+id="fr_150"></span>[3](#fn_150.md)
 
    *Squalls*.—There is a common notion that "the sudden
 
@@ -1866,37 +1866,37 @@ peasantry.
 
 ### Footnotes
 
-<span id="fn_88"></span>[59:1](flos07.htm#fr_88) Singer's "Shakespeare,"
+<span id="fn_88"></span>[59:1](flos07.htm#fr_88.md) Singer's "Shakespeare,"
 x. p. 292.
 
-<span id="fn_89"></span>[60:1](flos07.htm#fr_89) "Illustrations of
+<span id="fn_89"></span>[60:1](flos07.htm#fr_89.md) "Illustrations of
 Shakespeare," 1839, pp. 255, 256.
 
-<span id="fn_90"></span>[60:2](flos07.htm#fr_90) Singer's Shakespeare,
+<span id="fn_90"></span>[60:2](flos07.htm#fr_90.md) Singer's Shakespeare,
 viii., p. 208.
 
-<span id="fn_91"></span>[61:1](flos07.htm#fr_91) See Knight's "Life of
+<span id="fn_91"></span>[61:1](flos07.htm#fr_91.md) See Knight's "Life of
 Shakespeare," 1843, p. 63.
 
-<span id="fn_92"></span>[61:2](flos07.htm#fr_92) "Pop. Antiq.," 1849,
+<span id="fn_92"></span>[61:2](flos07.htm#fr_92.md) "Pop. Antiq.," 1849,
 iii., p. 241.
 
-<span id="fn_93"></span>[61:3](flos07.htm#fr_93) See Swainson's
+<span id="fn_93"></span>[61:3](flos07.htm#fr_93.md) See Swainson's
 "Weather-Lore," 1873, p. 176, for popular adages on the Continent.
 
-<span id="fn_94"></span>[62:1](flos07.htm#fr_94) "Weather-Lore," pp.
+<span id="fn_94"></span>[62:1](flos07.htm#fr_94.md) "Weather-Lore," pp.
 175, 176.
 
-<span id="fn_95"></span>[62:2](flos07.htm#fr_95) Napier's "Folk Lore of
+<span id="fn_95"></span>[62:2](flos07.htm#fr_95.md) Napier's "Folk Lore of
 West of Scotland," 2899, p. 241.
 
-<span id="fn_96"></span>[63:1](flos07.htm#fr_96) Quoted in Southey's
+<span id="fn_96"></span>[63:1](flos07.htm#fr_96.md) Quoted in Southey's
 "Common Place Book," 1849. 2 series, p. 462.
 
-<span id="fn_97"></span>[63:2](flos07.htm#fr_97) See Tylor's "Primitive
+<span id="fn_97"></span>[63:2](flos07.htm#fr_97.md) See Tylor's "Primitive
 Culture," 1871, i. pp. 261, 296–7, 321.
 
-<span id="fn_98"></span>[63:3](flos07.htm#fr_98) In 3rd Henry VI. (ii.
+<span id="fn_98"></span>[63:3](flos07.htm#fr_98.md) In 3rd Henry VI. (ii.
 1), Edward says:
 
 <div style="margin-left: 32px">
@@ -1906,116 +1906,116 @@ Upon my target three fair-shining suns."</span>
 
 </div>
 
-<span id="fn_99"></span>[64:1](flos07.htm#fr_99) "Glossary to
+<span id="fn_99"></span>[64:1](flos07.htm#fr_99.md) "Glossary to
 Shakespeare," 283.
 
-<span id="fn_100"></span>[64:2](flos07.htm#fr_100) Ray gives the Latin
+<span id="fn_100"></span>[64:2](flos07.htm#fr_100.md) Ray gives the Latin
 equivalent, "Ab equis ad asinos."
 
-<span id="fn_101"></span>[65:1](flos07.htm#fr_101) Baring Gould's
+<span id="fn_101"></span>[65:1](flos07.htm#fr_101.md) Baring Gould's
 "Curious Myths of the Middle Ages," 1877, p. 190.
 
-<span id="fn_102"></span>[65:2](flos07.htm#fr_102) Cf. "Love's Labour's
+<span id="fn_102"></span>[65:2](flos07.htm#fr_102.md) Cf. "Love's Labour's
 Lost" (v. 2), "Yet still she is the moon, and I the man."
 
-<span id="fn_103"></span>[65:3](flos07.htm#fr_103) Fiske, "Myths and
+<span id="fn_103"></span>[65:3](flos07.htm#fr_103.md) Fiske, "Myths and
 Mythmakers," 1873, p. 27.
 
-<span id="fn_104"></span>[66:1](flos07.htm#fr_104) "Curious Myths of the
+<span id="fn_104"></span>[66:1](flos07.htm#fr_104.md) "Curious Myths of the
 Middle Ages," 1877, p. 197.
 
-<span id="fn_105"></span>[66:2](flos07.htm#fr_105) Douce's
+<span id="fn_105"></span>[66:2](flos07.htm#fr_105.md) Douce's
 "Illustrations of Shakespeare," 1839, p. 10.
 
-<span id="fn_106"></span>[66:3](flos07.htm#fr_106) For further
+<span id="fn_106"></span>[66:3](flos07.htm#fr_106.md) For further
 information on this subject, see Tylor's "Primitive Culture," 1873, i.,
 pp. 288, 354–356; ii., pp. 70, 202, 203.
 
-<span id="fn_107"></span>[66:4](flos07.htm#fr_107) See Brand's "Pop.
+<span id="fn_107"></span>[66:4](flos07.htm#fr_107.md) See Brand's "Pop.
 Antiq.," iii. pp. 142, 143.
 
-<span id="fn_108"></span>[67:1](flos07.htm#fr_108) See "English
+<span id="fn_108"></span>[67:1](flos07.htm#fr_108.md) See "English
 Folk-lore," pp. 43, 44.
 
-<span id="fn_109"></span>[67:2](flos07.htm#fr_109) "Primitive Culture,"
+<span id="fn_109"></span>[67:2](flos07.htm#fr_109.md) "Primitive Culture,"
 1873, i., pp. 354, 355.
 
-<span id="fn_110"></span>[67:3](flos07.htm#fr_110) The words "moonish"
+<span id="fn_110"></span>[67:3](flos07.htm#fr_110.md) The words "moonish"
 ("As You Like It," iii. 2) and "moonlike" ("Love's Labour's Lost," iv.
 3) are used in the sense of inconstant.
 
-<span id="fn_111"></span>[67:4](flos07.htm#fr_111) See Douce's
+<span id="fn_111"></span>[67:4](flos07.htm#fr_111.md) See Douce's
 "Illustrations of Shakespeare," 1839, p. 18.
 
-<span id="fn_112"></span>[68:1](flos07.htm#fr_112) Tylor's "Primitive
+<span id="fn_112"></span>[68:1](flos07.htm#fr_112.md) Tylor's "Primitive
 Culture," i., p. 329.
 
-<span id="fn_113"></span>[68:2](flos07.htm#fr_113) "Illustrations of
+<span id="fn_113"></span>[68:2](flos07.htm#fr_113.md) "Illustrations of
 Shakespeare," 1839, p. 16.
 
-<span id="fn_114"></span>[68:3](flos07.htm#fr_114) See Scot's
+<span id="fn_114"></span>[68:3](flos07.htm#fr_114.md) See Scot's
 "Discoverie of Witchcraft," 1584, pp. 174, 226, 227, 250.
 
-<span id="fn_115"></span>[69:1](flos07.htm#fr_115) For further examples,
+<span id="fn_115"></span>[69:1](flos07.htm#fr_115.md) For further examples,
 see Douce's "Illustrations of Shakespeare," p. 27.
 
-<span id="fn_116"></span>[71:1](flos07.htm#fr_116) See Douce's
+<span id="fn_116"></span>[71:1](flos07.htm#fr_116.md) See Douce's
 "Illustrations of Shakespeare," 1839, p. 116.
 
-<span id="fn_117"></span>[71:2](flos07.htm#fr_117) See Swainson's
+<span id="fn_117"></span>[71:2](flos07.htm#fr_117.md) See Swainson's
 "Weather Lore," 1893, pp. 182–192.
 
-<span id="fn_118"></span>[73:1](flos07.htm#fr_118) See Tylor's
+<span id="fn_118"></span>[73:1](flos07.htm#fr_118.md) See Tylor's
 "Primitive Culture," 1873, i. 130; "English Folk-lore," 1878, pp. 41,
 42.
 
-<span id="fn_119"></span>[73:2](flos07.htm#fr_119) See Swainson's
+<span id="fn_119"></span>[73:2](flos07.htm#fr_119.md) See Swainson's
 "Weather-lore," pp. 182, 183.
 
-<span id="fn_120"></span>[74:1](flos07.htm#fr_120) See William's
+<span id="fn_120"></span>[74:1](flos07.htm#fr_120.md) See William's
 "Superstitions of Witchcraft," pp. 123–125; Scot's "Discovery of
 Witchcraft," bk. iv. p. 145.
 
-<span id="fn_121"></span>[74:2](flos07.htm#fr_121) "Illustrations of
+<span id="fn_121"></span>[74:2](flos07.htm#fr_121.md) "Illustrations of
 Shakespeare," 1839, p. 405.
 
-<span id="fn_122"></span>[74:3](flos07.htm#fr_122) Nares’ "Glossary,"
+<span id="fn_122"></span>[74:3](flos07.htm#fr_122.md) Nares’ "Glossary,"
 1872, ii. p. 580.
 
-<span id="fn_123"></span>[77:1](flos07.htm#fr_123) "Primitive Culture,"
+<span id="fn_123"></span>[77:1](flos07.htm#fr_123.md) "Primitive Culture,"
 i. p. 131.
 
-<span id="fn_124"></span>[77:2](flos07.htm#fr_124) Cf., "Richard III."
+<span id="fn_124"></span>[77:2](flos07.htm#fr_124.md) Cf., "Richard III."
 (iv. 4); "1 Henry IV." (i. 1, iii. i); "Antony and Cleopatra" (iii. 13);
 "The Tempest" (i. 2); "Hamlet" (i. 4); "Cymbeline" (v. 4); "Winter's
 Tale" (iii. 2);"Richard II." (iv. 1).
 
-<span id="fn_125"></span>[78:1](flos07.htm#fr_125) "Primitive Culture,"
+<span id="fn_125"></span>[78:1](flos07.htm#fr_125.md) "Primitive Culture,"
 i., p. 131; see Brand's "Popular Antiquities," 1849, iii., PP. 341–348.
 
-<span id="fn_126"></span>[78:2](flos07.htm#fr_126) "Walton's Lives,"
+<span id="fn_126"></span>[78:2](flos07.htm#fr_126.md) "Walton's Lives,"
 1796, p. 113, note.
 
-<span id="fn_127"></span>[79:1](flos07.htm#fr_127) Douce's
+<span id="fn_127"></span>[79:1](flos07.htm#fr_127.md) Douce's
 "Illustrations of Shakspeare," 1839, p. 397.
 
-<span id="fn_128"></span>[79:2](flos07.htm#fr_128) Ibid., p. 3.
+<span id="fn_128"></span>[79:2](flos07.htm#fr_128.md) Ibid., p. 3.
 
-<span id="fn_129"></span>[80:1](flos07.htm#fr_129) See Brand's "Pop.
+<span id="fn_129"></span>[80:1](flos07.htm#fr_129.md) See Brand's "Pop.
 Antiq.," 1849, iii., p. 400.
 
-<span id="fn_130"></span>[80:2](flos07.htm#fr_130) Purchas, "His
+<span id="fn_130"></span>[80:2](flos07.htm#fr_130.md) Purchas, "His
 Pilgrimes" (1625, pt. i. lib. iii., 333), quoted by Mr Aldis Wright in
 his notes to the "Tempest," 1895, p. 86.
 
-<span id="fn_131"></span>[80:3](flos07.htm#fr_131) See Puck as Will-o’
+<span id="fn_131"></span>[80:3](flos07.htm#fr_131.md) See Puck as Will-o’
 the Wisp; chapter on "Fairy-Lore."
 
-<span id="fn_132"></span>[80:4](flos07.htm#fr_132) See "Notes and
+<span id="fn_132"></span>[80:4](flos07.htm#fr_132.md) See "Notes and
 Queries," 5th S. X., p. 499; Brand's "Pop. Antiq.," 1849, iii. p. 410;
 Nares’ Glossary, i. p. 309.
 
-<span id="fn_133"></span>[81:1](flos07.htm#fr_133) A "fire-drake"
+<span id="fn_133"></span>[81:1](flos07.htm#fr_133.md) A "fire-drake"
 appears to have been also an artificial firework, perhaps what is now
 called a serpent. Thus in Middleton's "Your Five Gallants" (1609)
 
@@ -2026,16 +2026,16 @@ Mounted a little, gave a crack and fell."</span>
 
 </div>
 
-<span id="fn_134"></span>[81:2](flos07.htm#fr_134) "New Illustrations of
+<span id="fn_134"></span>[81:2](flos07.htm#fr_134.md) "New Illustrations of
 the Life, Studies, and Writings of Shakespeare," Vol. ii. p. 272.
 
-<span id="fn_135"></span>[82:1](flos07.htm#fr_135) See Thoms's "Notelets
+<span id="fn_135"></span>[82:1](flos07.htm#fr_135.md) See Thoms's "Notelets
 on Shakespeare," p. 59.
 
-<span id="fn_136"></span>[82:2](flos07.htm#fr_136) "Fairy Mythology,"
+<span id="fn_136"></span>[82:2](flos07.htm#fr_136.md) "Fairy Mythology,"
 edited by Hazlitt, 1895, p. 40.
 
-<span id="fn_137"></span>[82:3](flos07.htm#fr_137) Among the many other
+<span id="fn_137"></span>[82:3](flos07.htm#fr_137.md) Among the many other
 names given to this appearance may be mentioned the following:
 "Will-a-wisp," "Joan-in-the-wad," "Jacket-a-wad," "Peg-a-lantern,"
 "Elf-fire," &c. A correspondent of "Notes and Queries" (5th S., x. 499)
@@ -2045,48 +2045,48 @@ according as the supposed spirit of the lamp seemed to the particular
 rustic mind to be a male or female apparition." In Worcestershire it is
 called "Hob-and-his-lanthorn," and "Hobany's," or "Hobnedy's-lanthorn."
 
-<span id="fn_138"></span>[83:1](flos07.htm#fr_138) Mr Ritson says that
+<span id="fn_138"></span>[83:1](flos07.htm#fr_138.md) Mr Ritson says that
 Milton "is frequently content to pilfer a happy expression from
 Shakespeare—on this occasion, 'night-wanderer.'" He elsewhere calls it
 "the friar's lantern."
 
-<span id="fn_139"></span>[83:2](flos07.htm#fr_139) Thorpe, "Northern
+<span id="fn_139"></span>[83:2](flos07.htm#fr_139.md) Thorpe, "Northern
 Mythology," 1852, iii. pp. 85, 258, 220.
 
-<span id="fn_140"></span>[83:3](flos07.htm#fr_140) "Notelets on
+<span id="fn_140"></span>[83:3](flos07.htm#fr_140.md) "Notelets on
 Shakespeare," pp. 64, 65.
 
-<span id="fn_141"></span>[84:1](flos07.htm#fr_141) "Notelets on
+<span id="fn_141"></span>[84:1](flos07.htm#fr_141.md) "Notelets on
 Shakespeare," pp. 64, 65.
 
-<span id="fn_142"></span>[85:1](flos07.htm#fr_142) See Proctor's "Myths
+<span id="fn_142"></span>[85:1](flos07.htm#fr_142.md) See Proctor's "Myths
 of Astronomy;" Chambers’ "Domestic Annals of Scotland," 1858, vol. ii.
 pp. 410–412. Douce's "Illustrations of Shakespeare," pp. 364, 365.
 
-<span id="fn_143"></span>[86:1](flos07.htm#fr_143) See Patterson's
+<span id="fn_143"></span>[86:1](flos07.htm#fr_143.md) See Patterson's
 "Insects mentioned by Shakespeare," 1841, p. 145.
 
-<span id="fn_144"></span>[86:2](flos07.htm#fr_144) "Letters," i., p.
+<span id="fn_144"></span>[86:2](flos07.htm#fr_144.md) "Letters," i., p.
 310; vi., pp. 1, 187—Ed. Cunningham.
 
-<span id="fn_145"></span>[87:1](flos07.htm#fr_145) Douce's
+<span id="fn_145"></span>[87:1](flos07.htm#fr_145.md) Douce's
 "Illustrations of Shakespeare," 1839, p. 369.
 
-<span id="fn_146"></span>[88:1](flos07.htm#fr_146) See Tylor's
+<span id="fn_146"></span>[88:1](flos07.htm#fr_146.md) See Tylor's
 "Primitive Culture," i. pp. 364–367.
 
-<span id="fn_147"></span>[89:1](flos07.htm#fr_147) See Swainson's
+<span id="fn_147"></span>[89:1](flos07.htm#fr_147.md) See Swainson's
 "Weather Lore."
 
-<span id="fn_148"></span>[90:1](flos07.htm#fr_148) Batman upon
+<span id="fn_148"></span>[90:1](flos07.htm#fr_148.md) Batman upon
 Bartholomæus—"De Proprietatibus Rerum," Lib. xi. c. 3.
 
-<span id="fn_149"></span>[90:2](flos07.htm#fr_149) Polwhele's "Cornish
+<span id="fn_149"></span>[90:2](flos07.htm#fr_149.md) Polwhele's "Cornish
 Vocabulary."
 
-<span id="fn_150"></span>[90:3](flos07.htm#fr_150) Cf. "Macbeth," iii.
+<span id="fn_150"></span>[90:3](flos07.htm#fr_150.md) Cf. "Macbeth," iii.
 4, "O, these flaws and starts."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Birds](flos08)
+[Next: Chapter VI. Birds](flos08.md)

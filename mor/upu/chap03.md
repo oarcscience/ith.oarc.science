@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap02) [Next](chap04)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap02) [Next](chap04.md)
 
 ------------------------------------------------------------------------
 
@@ -648,4 +648,4 @@ done speedily.
 
 ------------------------------------------------------------------------
 
-[Next: IV The Manifesto](chap04)
+[Next: IV The Manifesto](chap04.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl06)  [Next](hhl08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl06)  [Next](hhl08.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 # III
 
-# THE WATER OF LIFE <span id="fr_0"></span>[1](#fn_0)
+# THE WATER OF LIFE <span id="fr_0"></span>[1](#fn_0.md)
 
 "THE SELF-RELIANT DRAGON" is frequently mentioned in the oldest Hawaiian
 legends. This dragon was probably a very old crocodile worshipped as the
@@ -317,9 +317,9 @@ dead.
 
 ### Footnotes
 
-<span id="fn_0"></span>[24:1](hhl07.htm#fr_0) This is one of the most
+<span id="fn_0"></span>[24:1](hhl07.htm#fr_0.md) This is one of the most
 ancient legends in Hawaiian annals.
 
 ------------------------------------------------------------------------
 
-[Next: IV. A Viking of the Pacific](hhl08)
+[Next: IV. A Viking of the Pacific](hhl08.md)

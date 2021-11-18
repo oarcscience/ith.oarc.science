@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic102)  [Next](lfic104) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic102)  [Next](lfic104.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ the historic limits.
 
 ------------------------------------------------------------------------
 
-[Next: Arran of the Saints and its Patrons](lfic104)
+[Next: Arran of the Saints and its Patrons](lfic104.md)

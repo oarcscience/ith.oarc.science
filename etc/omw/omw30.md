@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw29)  [Next](omw31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw29)  [Next](omw31.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_06100"></span>
 
 [![Eros](tn/06100.jpg)  
-Click to enlarge](img/06100.jpg)  
+Click to enlarge](img/06100.jpg.md)  
 Eros  
 
 # GREEK
@@ -149,4 +149,4 @@ becoming the ruler of Gods and men.
 
 ------------------------------------------------------------------------
 
-[Next: Prometheus](omw31)
+[Next: Prometheus](omw31.md)

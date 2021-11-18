@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy06)  [Next](omy08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy06)  [Next](omy08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -35,7 +35,7 @@ with perfection.
 The Perfect Man has had various other names <span class="margnote">Other
 titles applied to him.</span> assigned to him, all equally applicable,
 viz. Elder, Leader, Guide, Inspired Teacher, Wise, Virtuous, Perfect,
-Perfecter,  <span id="fr_5"></span>[1](#fn_5)Beacon and Mirror of the
+Perfecter,  <span id="fr_5"></span>[1](#fn_5.md)Beacon and Mirror of the
 world,
 
 <span id="page_12">p. 12</span>
@@ -119,7 +119,7 @@ courses is to be preferred.
 
 ### Footnotes
 
-<span id="fn_5"></span>[11:1](omy07.htm#fr_5) In Persian *Jám i Jehán
+<span id="fn_5"></span>[11:1](omy07.htm#fr_5.md) In Persian *Jám i Jehán
 numá*, the fabled cup of Jemshîd, in <span id="page_12">p. 12</span>
 which were reflected all passing events; and *’Aïna e Jehân-numá*, the
 mirror of Alexander the Great, said to have possessed the same singular
@@ -127,4 +127,4 @@ properties.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Concerning Fellowship and Renunciation](omy08)
+[Next: Chapter IV. Concerning Fellowship and Renunciation](omy08.md)

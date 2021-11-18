@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](oprt01)  [Next](oprt03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](oprt01)  [Next](oprt03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Old Peter's Russian Tales*, by Arthur Ransome, \[1916\], at Intangible
 Textual Heritage
 
@@ -24,27 +24,27 @@ Textual Heritage
 
 |                                                                                                                    |     |     |                            |
 |--------------------------------------------------------------------------------------------------------------------|-----|-----|----------------------------|
-| <span class="smallcaps">The Hut in the Forest</span>                                                               |     |     | [11](oprt03.htm#page_11)   |
-| <span class="smallcaps">The Tale of the Silver Saucer and the Transparent Apple</span>                             |     |     | [18](oprt04.htm#page_18)   |
-| <span class="smallcaps">Sadko</span>                                                                               |     |     | [40](oprt05.htm#page_40)   |
-| <span class="smallcaps">Frost</span>                                                                               |     |     | [54](oprt06.htm#page_54)   |
-| <span class="smallcaps">The Fool of the World and the Flying Ship</span>                                           |     |     | [70](oprt07.htm#page_70)   |
-| <span class="smallcaps">Baba Yaga</span>                                                                           |     |     | [88](oprt08.htm#page_88)   |
-| <span class="smallcaps">The Cat who became Head-Forester</span>                                                    |     |     | [106](oprt09.htm#page_106) |
-| <span class="smallcaps">Spring in the Forest</span>                                                                |     |     | [120](oprt10.htm#page_120) |
-| <span class="smallcaps">The Little Daughter of the Snow</span>                                                     |     |     | [122](oprt11.htm#page_122) |
-| <span class="smallcaps">Prince Ivan, the Witch Baby, and the Little Sister of the Sun</span>                       |     |     | [136](oprt12.htm#page_136) |
-| <span class="smallcaps">The Stolen Turnips, the Magic Tablecloth, the Sneezing Goat, and the Wooden Whistle</span> |     |     | [155](oprt13.htm#page_155) |
-| <span class="smallcaps">Little Master Misery</span>                                                                |     |     | [184](oprt14.htm#page_184) |
-| <span class="smallcaps">A Chapter of Fish</span>                                                                   |     |     | [206](oprt15.htm#page_206) |
-| <span class="smallcaps">The Golden Fish</span>                                                                     |     |     | [212](oprt16.htm#page_212) |
-| <span class="smallcaps">Who Lived in the Skull?</span>                                                             |     |     | [228](oprt17.htm#page_228) |
-| <span class="smallcaps">Alenoushka and her Brother</span>                                                          |     |     | [231](oprt18.htm#page_231) |
-| <span class="smallcaps">The Fire-Bird, the Horse of Power, and the Princess Vasilissa</span>                       |     |     | [242](oprt19.htm#page_242) |
-| <span class="smallcaps">The Hunter and his Wife</span>                                                             |     |     | [260](oprt20.htm#page_260) |
-| <span class="smallcaps">The Three Men of Power--Evening, Midnight, and Sunrise</span>                              |     |     | [269](oprt21.htm#page_269) |
-| <span class="smallcaps">Salt</span>                                                                                |     |     | [294](oprt21.htm#page_294) |
-| <span class="smallcaps">The Christening in the Village</span>                                                      |     |     | [316](oprt21.htm#page_316) |
+| <span class="smallcaps">The Hut in the Forest</span>                                                               |     |     | [11](oprt03.htm#page_11.md)   |
+| <span class="smallcaps">The Tale of the Silver Saucer and the Transparent Apple</span>                             |     |     | [18](oprt04.htm#page_18.md)   |
+| <span class="smallcaps">Sadko</span>                                                                               |     |     | [40](oprt05.htm#page_40.md)   |
+| <span class="smallcaps">Frost</span>                                                                               |     |     | [54](oprt06.htm#page_54.md)   |
+| <span class="smallcaps">The Fool of the World and the Flying Ship</span>                                           |     |     | [70](oprt07.htm#page_70.md)   |
+| <span class="smallcaps">Baba Yaga</span>                                                                           |     |     | [88](oprt08.htm#page_88.md)   |
+| <span class="smallcaps">The Cat who became Head-Forester</span>                                                    |     |     | [106](oprt09.htm#page_106.md) |
+| <span class="smallcaps">Spring in the Forest</span>                                                                |     |     | [120](oprt10.htm#page_120.md) |
+| <span class="smallcaps">The Little Daughter of the Snow</span>                                                     |     |     | [122](oprt11.htm#page_122.md) |
+| <span class="smallcaps">Prince Ivan, the Witch Baby, and the Little Sister of the Sun</span>                       |     |     | [136](oprt12.htm#page_136.md) |
+| <span class="smallcaps">The Stolen Turnips, the Magic Tablecloth, the Sneezing Goat, and the Wooden Whistle</span> |     |     | [155](oprt13.htm#page_155.md) |
+| <span class="smallcaps">Little Master Misery</span>                                                                |     |     | [184](oprt14.htm#page_184.md) |
+| <span class="smallcaps">A Chapter of Fish</span>                                                                   |     |     | [206](oprt15.htm#page_206.md) |
+| <span class="smallcaps">The Golden Fish</span>                                                                     |     |     | [212](oprt16.htm#page_212.md) |
+| <span class="smallcaps">Who Lived in the Skull?</span>                                                             |     |     | [228](oprt17.htm#page_228.md) |
+| <span class="smallcaps">Alenoushka and her Brother</span>                                                          |     |     | [231](oprt18.htm#page_231.md) |
+| <span class="smallcaps">The Fire-Bird, the Horse of Power, and the Princess Vasilissa</span>                       |     |     | [242](oprt19.htm#page_242.md) |
+| <span class="smallcaps">The Hunter and his Wife</span>                                                             |     |     | [260](oprt20.htm#page_260.md) |
+| <span class="smallcaps">The Three Men of Power--Evening, Midnight, and Sunrise</span>                              |     |     | [269](oprt21.htm#page_269.md) |
+| <span class="smallcaps">Salt</span>                                                                                |     |     | [294](oprt21.htm#page_294.md) |
+| <span class="smallcaps">The Christening in the Village</span>                                                      |     |     | [316](oprt21.htm#page_316.md) |
 
 ## LIST OF COLOUR PLATES
 
@@ -88,4 +88,4 @@ Fish, fish, listen to me"</td>
 
 ------------------------------------------------------------------------
 
-[Next: The Hut in the Forest](oprt03)
+[Next: The Hut in the Forest](oprt03.md)

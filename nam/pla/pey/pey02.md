@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pey01)  [Next](pey03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pey01)  [Next](pey03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -231,4 +231,4 @@ this.
 
 ------------------------------------------------------------------------
 
-[Next: O.L.'s Description of the Peyote Cult](pey03)
+[Next: O.L.'s Description of the Peyote Cult](pey03.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp07)  [Next](esp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp07)  [Next](esp09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -60,9 +60,9 @@ parapsychic
 
 incidents and systematic study was made of the data obtained. Such
 material forms the basis of the two volumes, "Phantasms of the
-Living", <span id="fr_7"></span>[1](#fn_7) of Myers' "Human
-Personality", <span id="fr_8"></span>[2](#fn_8) and, more recently, of
-Osty's "Supernormal Faculties in Man" <span id="fr_9"></span>[3](#fn_9)
+Living", <span id="fr_7"></span>[1](#fn_7.md) of Myers' "Human
+Personality", <span id="fr_8"></span>[2](#fn_8.md) and, more recently, of
+Osty's "Supernormal Faculties in Man" <span id="fr_9"></span>[3](#fn_9.md)
 and of Dr. Prince's "Human Experiences", B.S.P.R. Bulletins XIV and XX.
 In these and other works literally thousands of individual experiences
 have been examined, classified and reported. The total effect is quite
@@ -78,7 +78,7 @@ degree significantly beyond chance expectation; friendship accompanied
 32% of the spontaneous "telepathic" impressions in the study reported in
 "Phantasms of the Living" and family relationship 53%; the occurrence of
 such experiences was found to be no more rare among the highly
-educated <span id="fr_10"></span>[4](#fn_10), nor even among the
+educated <span id="fr_10"></span>[4](#fn_10.md), nor even among the
 scientific, classes than among the general population—in fact, the
 estimate of frequency given by Dr. Prince, based on a questionnaire
 study of a *Who's Who* population of 10,000, is the highest we have
@@ -120,7 +120,7 @@ material, often with a more or less experimental procedure involved. The
 study of the divining-rod and its use in the location of desired
 underground substances—water, coal, oil, ores, etc.—has been pushed by
 Sir Wm. Barrett almost to the point of clear-cut experiment <span
-id="fr_11"></span>[1](#fn_11), and he is convinced that the dowser can,
+id="fr_11"></span>[1](#fn_11.md), and he is convinced that the dowser can,
 for instance, parapsychically perceive water, and locate its depth,
 direction and strength of flow, and often its duration. But most of the
 data on dowsing have been obtained by following the practitioner and
@@ -133,12 +133,12 @@ mediums", who appear to be able to give knowledge, parapsychically
 obtained, concerning absent and unknown persons (who may be living or
 not) when a token or "object of contact" belonging to the person
 concerned is placed in their hands: Dr. Pagenstecher's report <span
-id="fr_12"></span>[2](#fn_12) of the work of Senora de Z., Prof. Oskar
+id="fr_12"></span>[2](#fn_12.md) of the work of Senora de Z., Prof. Oskar
 Fischer's study of Raphael Schermann <span
-id="fr_13"></span>[3](#fn_13), Tischner's cases in "Telepathy and
-Clairvoyance" <span id="fr_14"></span>[4](#fn_14) under the heading of
+id="fr_13"></span>[3](#fn_13.md), Tischner's cases in "Telepathy and
+Clairvoyance" <span id="fr_14"></span>[4](#fn_14.md) under the heading of
 (his suggested improvement of the name) "psychoscopy", and Dr. W. F.
-Prince's study of Mrs. King. <span id="fr_15"></span>[5](#fn_15) In the
+Prince's study of Mrs. King. <span id="fr_15"></span>[5](#fn_15.md) In the
 last named of these studies the calculation of the probability on the
 chance hypothesis of obtaining the results actually given yields a very
 impressive figure. And while I am here classifying this work among the
@@ -213,7 +213,7 @@ Sidgwick, Frederic Myers, Edmund Gurney and Frank Podmore. The Guthrie
 experiments, mainly carried out on drawings, led to other scholars being
 drawn into the research, among them Oliver Lodge, then a young professor
 of Physics at Liverpool, whose discussion of the results seems to me a
-masterpiece of scientific judgment. <span id="fr_16"></span>[1](#fn_16)
+masterpiece of scientific judgment. <span id="fr_16"></span>[1](#fn_16.md)
 Another lengthy and fruitful series is what we may call the "Smith
 Series", so called because Mr. G. A. Smith was concerned in all of them
 as the hypnotist. He put the subjects into trance for the experiments
@@ -235,7 +235,7 @@ either one of E.S.P. or of some normal mode of perception, involving
 conscious or unconscious evasion of the conditions intended to eliminate
 the senses. The only seriously proposed alternate hypothesis was that of
 "involuntary whispering" suggested by Hansen <span
-id="fr_17"></span>[2](#fn_17) and Lehmann, psychologists, of Denmark. In
+id="fr_17"></span>[2](#fn_17.md) and Lehmann, psychologists, of Denmark. In
 1895 they offered this explanation of the results published in the
 *Proceedings* of the S.P.R., claiming to have demonstrated in the
 laboratory the adequacy of their view. But after Professors Henry
@@ -243,11 +243,11 @@ laboratory the adequacy of their view. But after Professors Henry
 <span id="page_19">p. 19</span>
 
 <span class="contnote">\[paragraph continues\]</span> Sidgwick <span
-id="fr_18"></span>[1](#fn_18) and William James <span
-id="fr_19"></span>[2](#fn_19) pointed out the inapplicability of the
+id="fr_18"></span>[1](#fn_18.md) and William James <span
+id="fr_19"></span>[2](#fn_19.md) pointed out the inapplicability of the
 hypothesis to the results in question and exposed its own intrinsic
 errors in logic, Professor Lehmann withdrew his theory. <span
-id="fr_20"></span>[3](#fn_20) Later, <span id="fr_21"></span>[4](#fn_21)
+id="fr_20"></span>[3](#fn_20) Later, <span id="fr_21"></span>[4](#fn_21.md)
 while insisting upon the applicability of the involuntary whispering
 theory to certain of the results, he went so far in the other direction
 as to assert that, in the experiments in which agent and percipient were
@@ -257,7 +257,7 @@ fact under those conditions.
 
 Not all attempts made by investigators to demonstrate " telepathy" in
 this early period, the 80's and 90's, however, were so strikingly
-successful. Prof. Charles Richet <span id="fr_22"></span>[5](#fn_22) of
+successful. Prof. Charles Richet <span id="fr_22"></span>[5](#fn_22.md) of
 Paris in 1884 made 2,927 tests on ordinary individuals guessing card
 suits, and got very low results, still, however, above chance by a
 margin of 57. This is between 3 and 4 times the probable error, and
@@ -266,7 +266,7 @@ made, however, an interesting observation—that those who were worked for
 long series of over 100 did not do so well. And if the shorter series
 (those of under 100) are taken alone, 1,833 trials give 510 successes,
 which is 52 above chance or over 4 times the probable error. Max
-Dessoir's experiments <span id="fr_23"></span>[6](#fn_23) with drawings
+Dessoir's experiments <span id="fr_23"></span>[6](#fn_23.md) with drawings
 for material are not nearly so striking as those of the Smith or the
 Guthrie series; in fact, to the ordinary judge, they seem very poor.
 Yet, when an adequate method of evaluation was developed by Dr. W. F.
@@ -284,7 +284,7 @@ the odds against chance attained in only 497 of the tests made with the
 Creery sisters and limited to the condition that none but the
 investigators knew the object selected. These 497 trials give odds of
 septillions to one against the chance theory. <span
-id="fr_24"></span>[7](#fn_24)
+id="fr_24"></span>[7](#fn_24.md)
 
 <span id="page_20">p. 20</span>
 
@@ -298,18 +298,18 @@ by Esdaile, a Scotch surgeon in Calcutta. The names of Gibert, Janet,
 Hericourt, Dufay, and Dusart are most prominently mentioned in the later
 work. Frederic Myers made a study with Janet, with apparently excellent
 results—80% successes in 20 trials. Myers concludes that it is due to
-telepathy; <span id="fr_25"></span>[1](#fn_25) Janet acknowledges the
+telepathy; <span id="fr_25"></span>[1](#fn_25.md) Janet acknowledges the
 facts but refuses to accept Myers's interpretation. He implies that he
 has a different view of the experiments but does not even hint to us
-what it is. <span id="fr_26"></span>[2](#fn_26) There we have to leave
+what it is. <span id="fr_26"></span>[2](#fn_26.md) There we have to leave
 this most fascinating block of data, until some one else undertakes a
 repetition.
 
 In France the Schmoll and Mabire series, <span
-id="fr_27"></span>[3](#fn_27) in Germany Schrenck-Notzing's, <span
-id="fr_28"></span>[4](#fn_28) in America the Rawson <span
-id="fr_29"></span>[5](#fn_29) experiments, and in England the Wingfield
-series <span id="fr_30"></span>[6](#fn_30) of 3,024 trials on
+id="fr_27"></span>[3](#fn_27.md) in Germany Schrenck-Notzing's, <span
+id="fr_28"></span>[4](#fn_28.md) in America the Rawson <span
+id="fr_29"></span>[5](#fn_29.md) experiments, and in England the Wingfield
+series <span id="fr_30"></span>[6](#fn_30.md) of 3,024 trials on
 number-guessing (with successes 10 times the chance expectation) and
 about half a dozen others of less importance went on to strengthen the
 argument for a function beyond chance, fraud and mal-observation—for a
@@ -321,11 +321,11 @@ mentioned see B.S.P.R. Bulletin XVI, by Dr. Prince.)
 
 Curiously enough, however, the fact seems to require proof over and
 over—many, many times. For we find in the 20th century that Bruck, <span
-id="fr_31"></span>[7](#fn_31) a physician in Germany, Warcollier <span
-id="fr_32"></span>[8](#fn_32) in France, Coover, <span
-id="fr_33"></span>[9](#fn_33) and Estabrooks, <span
-id="fr_34"></span>[10](#fn_34) psychologists, and the famous novelist,
-Upton Sinclair, <span id="fr_35"></span>[11](#fn_35) in America (to
+id="fr_31"></span>[7](#fn_31.md) a physician in Germany, Warcollier <span
+id="fr_32"></span>[8](#fn_32.md) in France, Coover, <span
+id="fr_33"></span>[9](#fn_33.md) and Estabrooks, <span
+id="fr_34"></span>[10](#fn_34.md) psychologists, and the famous novelist,
+Upton Sinclair, <span id="fr_35"></span>[11](#fn_35.md) in America (to
 mention only a few), have all produced fresh series of experiments
 primarily to answer the first question—Does it occur?—as if it were
 still an unsettled question. This will, I predict, be one of the more
@@ -346,7 +346,7 @@ Yet there has been some progress; if not in conviction, at least in
 interest. At least three University laboratories have opened up to the
 problems and our own becomes a fourth. Coover and Estabrooks worked in
 psychological laboratories, at Stanford and Harvard respectively. The
-third laboratory study by Brugmanns <span id="fr_36"></span>[1](#fn_36)
+third laboratory study by Brugmanns <span id="fr_36"></span>[1](#fn_36.md)
 at Groningen (with Professor Heymanns) is a double step forward, for it
 aimed to go beyond the first problem of proof and to try to find facts
 of natural relationships in the direction mainly of physiological
@@ -406,7 +406,7 @@ a valuable "lead". While, then, Prof. Coover did not prove anything at
 all, perhaps, he unwittingly opened up some very interesting
 suggestions, which might profitably have been followed up. (Especially
 so in view of the generous endowment provided and the ideal laboratory
-and library facilities.) <span id="fr_37"></span>[1](#fn_37)
+and library facilities.) <span id="fr_37"></span>[1](#fn_37.md)
 
 Dr. Estabrooks took the same type of subject, the average college
 student, and, using playing-cards also, found some evidence of
@@ -428,13 +428,13 @@ of the animal parapsychic studies are those by the late Prof.
 <span id="page_23">p. 23</span>
 
 <span class="contnote">\[paragraph continues\]</span> Bechterew, <span
-id="fr_38"></span>[1](#fn_38) eminent Russian psychologist and
+id="fr_38"></span>[1](#fn_38.md) eminent Russian psychologist and
 physiologist, on Durow's circus dogs, and of Dr. Louisa E. Rhine and
 myself, with the horse Lady as subject. <span
-id="fr_39"></span>[2](#fn_39) In both cases a positive conclusion of
+id="fr_39"></span>[2](#fn_39.md) In both cases a positive conclusion of
 "telepathy" was announced, after the investigation. There have been
 other cases brought before psychologists, <span
-id="fr_40"></span>[3](#fn_40) however, and for these I will refer the
+id="fr_40"></span>[3](#fn_40.md) however, and for these I will refer the
 reader to the review in the report on Lady.
 
 These animal cases have an especial interest for two reasons. One is the
@@ -464,38 +464,38 @@ called "telepathic"), is the condition of distance between agent and
 percipient. There was failure under this condition in the Smith series
 (except for very short distance) and success in the Sinclair tests. We
 have yet to review the Usher and Burt <span
-id="fr_41"></span>[4](#fn_41) tests made at a distance of from 120 to
+id="fr_41"></span>[4](#fn_41.md) tests made at a distance of from 120 to
 960 miles, yielding in 60 trials with playing cards 4 successes complete
 and 14 right in value. This is at a very good rate of scoring but the
 number of trials is small for a conclusion. They did much better in the
 same room, getting 9 hits in 36 trials. The Miles and Ramsden <span
-id="fr_42"></span>[5](#fn_42) long-distance tests were made by having
+id="fr_42"></span>[5](#fn_42.md) long-distance tests were made by having
 the percipient, Miss Ramsden, record daily
 
 <span id="page_24">p. 24</span>
 
 and send to Miss Miles her impressions of what the latter was doing at a
-[certain](errata.htm#1) hour (7 P.M.). Miss Miles then got objective
+[certain](errata.htm#1) hour (7 P.M..md). Miss Miles then got objective
 records, pictures, etc., for all of her setting that she could. Out of
 30 trials, 13 were regarded as successful, barring what would
 conceivably be accidental. This series was not very experimental, it is
 obvious, but most critics have been impressed by it, in spite of its
 difficulty of mathematical evaluation. Another similar series is
 reported by Mr. Wales and Miss Samuels, <span
-id="fr_43"></span>[1](#fn_43) and is likewise difficult to judge,
+id="fr_43"></span>[1](#fn_43.md) and is likewise difficult to judge,
 although impressive in its totality.
 
 The trans-Atlantic series conducted by a Paris group directed by M.
 Warcollier and a New York group under Prof. Gardner Murphy of Columbia I
 have not been able to find in print, but critics who have seen the
 results seem to regard it as difficult to evaluate and
-inconclusive, <span id="fr_44"></span>[2](#fn_44) as are likewise
+inconclusive, <span id="fr_44"></span>[2](#fn_44.md) as are likewise
 regarded the results of the two radio-broadcast experiments in
 "telepathy", the first conducted by Dr. Murphy, broadcasting from
 Chicago, and the second by Dr. Woolley, <span
-id="fr_45"></span>[3](#fn_45) from London. The sequel-series of
+id="fr_45"></span>[3](#fn_45.md) from London. The sequel-series of
 experiments following the Woolley-broadcast that was carried out by Mr.
-S. G. Soal <span id="fr_46"></span>[4](#fn_46) was negative. So we may
+S. G. Soal <span id="fr_46"></span>[4](#fn_46.md) was negative. So we may
 say, it appears, that of the reported experiments in "telepathy" with
 distance, the short Sinclair-Irwin series of seven drawings made at 30
 miles from the agent, is perhaps the best. (See. B.S.P.R. Bulletin XVI,
@@ -504,10 +504,10 @@ pp. 9-15.)
 This brief sketch is far from complete, even in the mere mention of
 titles, so extensive has the literature become. Especially in reference
 to continental European work is it incomplete. The work of the Russians,
-Dr. Kotik <span id="fr_47"></span>[5](#fn_47) and Dr. Chowrin, <span
-id="fr_48"></span>[6](#fn_48) that of the French Dr. Geley on
+Dr. Kotik <span id="fr_47"></span>[5](#fn_47.md) and Dr. Chowrin, <span
+id="fr_48"></span>[6](#fn_48.md) that of the French Dr. Geley on
 Ossowiecki, of the German, Dr. von Wasielewski <span
-id="fr_49"></span>[7](#fn_49) on Miss von B. (with whom Dr. Tischner
+id="fr_49"></span>[7](#fn_49.md) on Miss von B. (with whom Dr. Tischner
 also worked) are examples of omissions. But there is great similarity in
 all this work, and we have given, I think, a fair notion of the field
 and its advance—or lack of it.
@@ -556,7 +556,7 @@ on the seemingly simpler phenomenon of clairvoyance. This is, perhaps,
 an effect of the large influence that spontaneous occurrences have had
 upon the course of parapsychological thinking. These more often seemed
 telepathic rather than clairvoyant in nature. Still it is a
-[remarkable](errata.htm#2) fact that clairvoyance has been so neglected
+[remarkable](errata.htm#2.md) fact that clairvoyance has been so neglected
 that it has never been thought necessary to eliminate it by condition
 from telepathy experiments. Consequently all the phenomena of these have
 been possibly also clairvoyant in nature. Prof. Coover even used
@@ -589,7 +589,7 @@ by definite planning of the conditions?
 Of pure clairvoyance we have had a few series of tests, rather similar
 to the "telepathy" data in quality and in range. Prof. Richet deserves
 credit for the first systematic experimentation in clairvoyance. <span
-id="fr_50"></span>[1](#fn_50) His tests made in Paris in 1888 with
+id="fr_50"></span>[1](#fn_50.md) His tests made in Paris in 1888 with
 Leonie B. in hypnotic trance, using playing-cards sealed in opaque
 envelopes, were very successful. Leonie got 12 cards correct
 (probability of 1/52) in 15 trials and in a later series 5 in 25 (after
@@ -598,7 +598,7 @@ carried out). The odds against getting 12 hits in 15 trials on playing
 cards on chance alone is given by Richet as 1 quintillion to 1.
 
 There were also the experiments of Dr. Backman <span
-id="fr_51"></span>[2](#fn_51) of Sweden in the 90's, in which he put his
+id="fr_51"></span>[2](#fn_51.md) of Sweden in the 90's, in which he put his
 subjects into hypnotic trance and commanded them to "visit" specified
 points at some distance and report what they "saw". They were able to
 perceive parapsychically to a degree that, if the report is acceptable,
@@ -611,7 +611,7 @@ infer-ability, guidance by unconsciously given indications, laxity in
 observation and coincidence. One does not see in the text, however, any
 ground for these alternative explanations.
 
-In 1895 Mrs. Verrall <span id="fr_52"></span>[3](#fn_52) tested pure
+In 1895 Mrs. Verrall <span id="fr_52"></span>[3](#fn_52.md) tested pure
 clairvoyance on playing-cards, in conjunction with tests of
 hyperaesthesia and its possible functioning in parapsychic tests. She
 found that, under her conditions (which deliberately permitted it),
@@ -704,7 +704,7 @@ clairvoyance is possible, it must safely be excluded before telepathy
 can be inferred as the operative principle. I feel particularly indebted
 to Miss Jephson's work in that it helped to stimulate my own interest in
 clairvoyance. A second report in 1931, in conjunction with Messrs. Soal
-and Besterman, <span id="fr_53"></span>[1](#fn_53) does not confirm the
+and Besterman, <span id="fr_53"></span>[1](#fn_53.md) does not confirm the
 earlier work and its "fatigue-curve" hypothesis. (This last point is
 discussed later in this report.)
 
@@ -752,8 +752,8 @@ attempt to explain clairvoyant phenomena by telepathy—telepathy expanded
 to unlimited dimensions. Barrett and Myers have theories for telepathy,
 but not for clairvoyance. Both Myers and Mrs. Sidgwick have suggested
 that there are probably connections between the two. <span
-id="fr_54"></span>[1](#fn_54) Tischner and Wasielewski are of the same
-mind. <span id="fr_55"></span>[2](#fn_55)
+id="fr_54"></span>[1](#fn_54.md) Tischner and Wasielewski are of the same
+mind. <span id="fr_55"></span>[2](#fn_55.md)
 
 A final phase of this review concerns the various hypotheses proposed to
 explain E.S.P. These fall into two groups in general—physical hypotheses
@@ -778,14 +778,14 @@ waters—substances in general; but they likewise find a large gap between
 these forces and the thought-images of a telepathic agent's mind.
 
 The physicist, Sir William Crookes, perhaps the first general theorist
-of the field, proposed in 1897 <span id="fr_56"></span>[1](#fn_56) the
+of the field, proposed in 1897 <span id="fr_56"></span>[1](#fn_56.md) the
 theory that telepathy might be due to high frequency vibrations of the
 ether generated by molecular action of the brain of the agent and
 received by the percipient's. He was conscious of the difficulty his
 theory encountered in the inverse-square law of decline of intensity
 with distance, but felt that our ignorance might be cloaking some
 principle which covers this point of difficulty. Another eminent
-physicist, Professor Ostwald, <span id="fr_57"></span>[2](#fn_57) has
+physicist, Professor Ostwald, <span id="fr_57"></span>[2](#fn_57.md) has
 proposed a physical theory for telepathy, offering an energetic theory
 which assumes the transformation of known physiological energies into
 unknown forms that can be projected through time and space, received by
@@ -794,7 +794,7 @@ of "energetics" had no evidence from his science to show that energies
 can be projected toward a goal, unless through a material channel. The
 energies radiate on a spherical front, so far as we know them. Sir
 William Barrett, another physicist, in argument against a physical
-theory of telepathy, <span id="fr_58"></span>[3](#fn_58) reminds us that
+theory of telepathy, <span id="fr_58"></span>[3](#fn_58.md) reminds us that
 the radiation theories would require, to reach 1000 feet, 1 million
 times the intensity of the transmitted telepathic stimulus that is
 required for one foot, and concludes that "it is highly improbable that
@@ -814,7 +814,7 @@ possible
 <span id="page_30">p. 30</span>
 
 approaches. These are hypotheses suggested by Hyslop, Forel and
-Tischner. Hyslop's <span id="fr_59"></span>[1](#fn_59) hypothesis (which
+Tischner. Hyslop's <span id="fr_59"></span>[1](#fn_59.md) hypothesis (which
 he suggested without advocacy) is the " spirit hypothesis" applied to
 telepathy and clairvoyance. The incorporeal personality is supposed in
 this hypothesis to be a " carrier" of the mental state or stimulus that
@@ -824,7 +824,7 @@ stage of still greater complexity, since we wonder quite naturally how
 the "spirit carrier" obtains his "load", if not by clairvoyance and
 telepathy! Which is as bad as ever.
 
-Tischner <span id="fr_60"></span>[2](#fn_60) invokes a theory of
+Tischner <span id="fr_60"></span>[2](#fn_60.md) invokes a theory of
 super-individual or collective mind, which serves as a common reservoir.
 He quotes E. von Hartmann as explaining telepathy through "telephonic
 connection with the Absolute" and aligns himself with this view. The
@@ -843,7 +843,7 @@ clairvoyance at all. They only complicate it. For all "absolutes" and
 "spirits" would have to perceive extra-sensorially themselves. These two
 theories, then, leave us as we were.
 
-Ford's theory <span id="fr_61"></span>[3](#fn_61) is a hard-boiled
+Ford's theory <span id="fr_61"></span>[3](#fn_61.md) is a hard-boiled
 physical one, an electron-theory. The electrons come either from the
 brain of the agent or from the object, and when they come off in certain
 complexes they convey to the brain of the percipient the stimulation
@@ -871,7 +871,7 @@ physicists.
 On the reception end of the E.S.P. phenomenon there has only been the
 vague inference of some hidden sense (cryptesthesia), a "sixth sense",
 as Prof. Richet, the leading exponent of this view, has called it. <span
-id="fr_62"></span>[1](#fn_62) The usage is not clear as to whether any
+id="fr_62"></span>[1](#fn_62.md) The usage is not clear as to whether any
 reception whatever would be regarded as sensory, or whether the
 selective interception of a special energy pattern by a specialized and
 localized organ would be meant. No clarity has yet been achieved on this
@@ -890,33 +890,33 @@ processes and lead to its natural explanation.
 
 ### Footnotes
 
-<span id="fn_7"></span>[15:1](esp08.htm#fr_7) By Gurney, Myers, and
+<span id="fn_7"></span>[15:1](esp08.htm#fr_7.md) By Gurney, Myers, and
 Podmore; Soc. Psy. Res. (London), 1886.
 
-<span id="fn_8"></span>[15:2](esp08.htm#fr_8) Longmans and Co., London,
+<span id="fn_8"></span>[15:2](esp08.htm#fr_8.md) Longmans and Co., London,
 1903.
 
-<span id="fn_9"></span>[15:3](esp08.htm#fr_9) Trans. by Stanley DeBrath;
+<span id="fn_9"></span>[15:3](esp08.htm#fr_9.md) Trans. by Stanley DeBrath;
 E. P. Dutton, New York, 1923.
 
-<span id="fn_10"></span>[15:4](esp08.htm#fr_10) See *Human Experiences*,
+<span id="fn_10"></span>[15:4](esp08.htm#fr_10.md) See *Human Experiences*,
 B.S.P.R. Bulletin XIV.
 
-<span id="fn_11"></span>[16:1](esp08.htm#fr_11) See the interesting
+<span id="fn_11"></span>[16:1](esp08.htm#fr_11.md) See the interesting
 contribution in *The Divining-Rod*, Barrett and Besterman, London. Also
 Chap. IV, Richet's *Thirty Years of Psychical Research*, Macmillan,
 1923. (Trans. by Stanley DeBrath.)
 
-<span id="fn_12"></span>[16:2](esp08.htm#fr_12) A.S.P.R. *Proc*. Vol.
+<span id="fn_12"></span>[16:2](esp08.htm#fr_12.md) A.S.P.R. *Proc*. Vol.
 XVI, New York.
 
-<span id="fn_13"></span>[16:3](esp08.htm#fr_13) *Experimente mit Rafael
+<span id="fn_13"></span>[16:3](esp08.htm#fr_13.md) *Experimente mit Rafael
 Schermann*, Urban, Berlin, 1924.
 
-<span id="fn_14"></span>[16:4](esp08.htm#fr_14) Harcourt, Brace and Co.,
+<span id="fn_14"></span>[16:4](esp08.htm#fr_14.md) Harcourt, Brace and Co.,
 New York, 1925.
 
-<span id="fn_15"></span>[16:5](esp08.htm#fr_15) A.S.P.R. *Proc*. Vol.
+<span id="fn_15"></span>[16:5](esp08.htm#fr_15.md) A.S.P.R. *Proc*. Vol.
 XVIII, New York, 1924, pp. 178-244. Another great case that belongs
 perhaps half-way in this department of the subject but is somewhat more
 experimental than these is that of Prof. Gilbert Murray, as reported by
@@ -927,76 +927,76 @@ his work seems to be more telepathic than clairvoyant also, though the
 writing and speaking by the agents are required, and we cannot,
 therefore, be sure of telepathy.
 
-<span id="fn_16"></span>[18:1](esp08.htm#fr_16) *Proc. S.P.R.* Vol. II,
+<span id="fn_16"></span>[18:1](esp08.htm#fr_16.md) *Proc. S.P.R.* Vol. II,
 pp. 189-200, 1884.
 
-<span id="fn_17"></span>[18:2](esp08.htm#fr_17) Hansen, F.C.C. and
+<span id="fn_17"></span>[18:2](esp08.htm#fr_17.md) Hansen, F.C.C. and
 Lehmann, A., *Uber Unwillkürliches Flüstern*, Phil. stud. 17: pp.
 471-530, 1895.
 
-<span id="fn_18"></span>[19:1](esp08.htm#fr_18) *Proc. S.P.R.* 12: pp.
+<span id="fn_18"></span>[19:1](esp08.htm#fr_18.md) *Proc. S.P.R.* 12: pp.
 298-315, 1896-1897.
 
-<span id="fn_19"></span>[19:2](esp08.htm#fr_19) *Psych. Rev.* 3, pp.
+<span id="fn_19"></span>[19:2](esp08.htm#fr_19.md) *Psych. Rev.* 3, pp.
 198-200, 1896; 4: pp. 654-655, 1897; *Science*, 8: p. 956, 1898.
 
-<span id="fn_20"></span>[19:3](esp08.htm#fr_20) James: Messrs. Lehmann
+<span id="fn_20"></span>[19:3](esp08.htm#fr_20.md) James: Messrs. Lehmann
 and Hansen on Telepathy, Science, 9: pp. 654-655, 1899. Prof. Lehmann's
 words are: "not yet established (bewiesen)".
 
-<span id="fn_21"></span>[19:4](esp08.htm#fr_21) Lehmann, A., *Aberglaube
+<span id="fn_21"></span>[19:4](esp08.htm#fr_21.md) Lehmann, A., *Aberglaube
 und Zauberei*, 2d Ed., Stuttgart, Enke, 1908. This statement is based on
 Prof. Coover's Abstract, *Experiments in P.R.*, Stanford, 1917, pp.
 33-35.
 
-<span id="fn_22"></span>[19:5](esp08.htm#fr_22) See Abstract, Gurney.
+<span id="fn_22"></span>[19:5](esp08.htm#fr_22.md) See Abstract, Gurney.
 E., *Proc. S.P.R.*, 2: pp. 239-64, 1884.
 
-<span id="fn_23"></span>[19:6](esp08.htm#fr_23) *Phantasms of the
+<span id="fn_23"></span>[19:6](esp08.htm#fr_23.md) *Phantasms of the
 Living*, Vol. II, pp. 642-53, 1885.
 
-<span id="fn_24"></span>[19:7](esp08.htm#fr_24) *Phantasms of the
+<span id="fn_24"></span>[19:7](esp08.htm#fr_24.md) *Phantasms of the
 Living*, Vol. I, p. 25.
 
-<span id="fn_25"></span>[20:1](esp08.htm#fr_25) For a review of this
+<span id="fn_25"></span>[20:1](esp08.htm#fr_25.md) For a review of this
 work consult Myers, *Human Personality*, 2 vols., Vol. 1: p. 568
 
-<span id="fn_26"></span>[20:2](esp08.htm#fr_26) P. 125, Vol. 1, *A
+<span id="fn_26"></span>[20:2](esp08.htm#fr_26.md) P. 125, Vol. 1, *A
 History of Psychology as Autobiography*, Ed. by Murchison, 1930, Clark
 University Press.
 
-<span id="fn_27"></span>[20:3](esp08.htm#fr_27) *Proc*. S.P.R. 4: pp.
+<span id="fn_27"></span>[20:3](esp08.htm#fr_27.md) *Proc*. S.P.R. 4: pp.
 324-337; 5: pp. 169-215.
 
-<span id="fn_28"></span>[20:4](esp08.htm#fr_28) *Proc*. S.P.R., 7: pp.
+<span id="fn_28"></span>[20:4](esp08.htm#fr_28.md) *Proc*. S.P.R., 7: pp.
 3-22. See also Dr. W. F. Prince's review and criticism, B.S.P.R.,
 Bulletin XVI, pp. 126-128.
 
-<span id="fn_29"></span>[20:5](esp08.htm#fr_29) *Proc*. S.P.R., XI: pp.
+<span id="fn_29"></span>[20:5](esp08.htm#fr_29.md) *Proc*. S.P.R., XI: pp.
 2-17.
 
-<span id="fn_30"></span>[20:6](esp08.htm#fr_30) *Phantasms of the
+<span id="fn_30"></span>[20:6](esp08.htm#fr_30.md) *Phantasms of the
 Living*, I, p. 34, and II, p. 653.
 
-<span id="fn_31"></span>[20:7](esp08.htm#fr_31) *Scientific American*,
+<span id="fn_31"></span>[20:7](esp08.htm#fr_31.md) *Scientific American*,
 May, 1924.
 
-<span id="fn_32"></span>[20:8](esp08.htm#fr_32) *La Télépathie*, Paris,
+<span id="fn_32"></span>[20:8](esp08.htm#fr_32.md) *La Télépathie*, Paris,
 1921.
 
-<span id="fn_33"></span>[20:9](esp08.htm#fr_33) *Experiments in P.R.*,
+<span id="fn_33"></span>[20:9](esp08.htm#fr_33.md) *Experiments in P.R.*,
 Stanford, 1917, p. 640.
 
-<span id="fn_34"></span>[20:10](esp08.htm#fr_34) B.S.P.R., Bulletin V,
+<span id="fn_34"></span>[20:10](esp08.htm#fr_34.md) B.S.P.R., Bulletin V,
 p. 28.
 
-<span id="fn_35"></span>[20:11](esp08.htm#fr_35) *Mental Radio*
+<span id="fn_35"></span>[20:11](esp08.htm#fr_35.md) *Mental Radio*
 (Sinclair), Los Angeles, 1930, p. 239.
 
-<span id="fn_36"></span>[21:1](esp08.htm#fr_36) *Compt. Rend. Off. du
+<span id="fn_36"></span>[21:1](esp08.htm#fr_36.md) *Compt. Rend. Off. du
 Premier Cong. Internat’l des Recherches Psychiques*, 1932, pp. 396-408.
 
-<span id="fn_37"></span>[22:1](esp08.htm#fr_37) In the interest of
+<span id="fn_37"></span>[22:1](esp08.htm#fr_37.md) In the interest of
 completeness perhaps I should mention Dr. Troland's short study of
 telepathy made at Harvard in 1916-1917, including only 605 trials with a
 probability of ½. It has no significance whatever and was too small a
@@ -1010,14 +1010,14 @@ provided conditions unfavorable for abstraction, as I can see now was
 the case. The "internal" field is even more important than the outer in
 psychological experimentation.
 
-<span id="fn_38"></span>[23:1](esp08.htm#fr_38) Bechterew, *W.
+<span id="fn_38"></span>[23:1](esp08.htm#fr_38.md) Bechterew, *W.
 Zeitschrift f. Psycho-Therapie*, 8: pp. 280-304, 1924.
 
-<span id="fn_39"></span>[23:2](esp08.htm#fr_39) Rhine, J. B. and Louisa
+<span id="fn_39"></span>[23:2](esp08.htm#fr_39.md) Rhine, J. B. and Louisa
 E., *Jour. Abn. and Soc. Psy.*, 23: pp. 449-466, 1929; and 24: pp.
 289-292, 1929.
 
-<span id="fn_40"></span>[23:3](esp08.htm#fr_40) The Eberfeld horses were
+<span id="fn_40"></span>[23:3](esp08.htm#fr_40.md) The Eberfeld horses were
 doubtless best known among these. Krall was convinced that his horses
 were capable of telepathy but the demonstration of it has remained too
 debatable for definite conviction. Krall's own report in 1927 (*Ztschft
@@ -1025,74 +1025,74 @@ f. Parapsychol.* 21: pp. 150-153) entitled "Denkbüertragung Zwischen
 Mensch and Tier", lacks too much in completeness and detail to permit a
 safe judgment.
 
-<span id="fn_41"></span>[23:4](esp08.htm#fr_41) *Annal. Sci. Psych.*,
+<span id="fn_41"></span>[23:4](esp08.htm#fr_41.md) *Annal. Sci. Psych.*,
 XX: pp. 14-21, and pp. 40-53, 1910.
 
-<span id="fn_42"></span>[23:5](esp08.htm#fr_42) *Proc*. S.P.R., XX I:
+<span id="fn_42"></span>[23:5](esp08.htm#fr_42.md) *Proc*. S.P.R., XX I:
 pp. 60-93, 1907; XXVII: pp. 279-317, 1914.
 
-<span id="fn_43"></span>[24:1](esp08.htm#fr_43) *Proc*. S.P.R., XXXI:
+<span id="fn_43"></span>[24:1](esp08.htm#fr_43.md) *Proc*. S.P.R., XXXI:
 pp. 124-217, 1920.
 
-<span id="fn_44"></span>[24:2](esp08.htm#fr_44) S. G. Soal, *Proc*.
+<span id="fn_44"></span>[24:2](esp08.htm#fr_44.md) S. G. Soal, *Proc*.
 S.P.R., XL, 1932, p. 168. Dr. W. F. Prince was very noncommittal in his
 review, p. 21, B.S.P.R., Bulletin VI, which I take as also an indication
 of the inconclusiveness of the experiment.
 
-<span id="fn_45"></span>[24:3](esp08.htm#fr_45) *Proc*. S.P.R., 38: pp.
+<span id="fn_45"></span>[24:3](esp08.htm#fr_45.md) *Proc*. S.P.R., 38: pp.
 1-9, 1928.
 
-<span id="fn_46"></span>[24:4](esp08.htm#fr_46) *Proc*. S.P.R., XL, pp.
+<span id="fn_46"></span>[24:4](esp08.htm#fr_46.md) *Proc*. S.P.R., XL, pp.
 165-362, 1932.
 
-<span id="fn_47"></span>[24:5](esp08.htm#fr_47) *Die Emanation der
+<span id="fn_47"></span>[24:5](esp08.htm#fr_47.md) *Die Emanation der
 psycho-physischen Energie*. (Munich) 1908.
 
-<span id="fn_48"></span>[24:6](esp08.htm#fr_48) *Expmtl. Untersuchungen
+<span id="fn_48"></span>[24:6](esp08.htm#fr_48.md) *Expmtl. Untersuchungen
 auf dem Gebiete des räumlichen Hellsehens* (Munich) 1909.
 
-<span id="fn_49"></span>[24:7](esp08.htm#fr_49) *Telepathie and
+<span id="fn_49"></span>[24:7](esp08.htm#fr_49.md) *Telepathie and
 Hellsehen*. (Halle) 1921.
 
-<span id="fn_50"></span>[26:1](esp08.htm#fr_50) *Proc*. S.P.R., VI: pp.
+<span id="fn_50"></span>[26:1](esp08.htm#fr_50.md) *Proc*. S.P.R., VI: pp.
 66-83, 1889.
 
-<span id="fn_51"></span>[26:2](esp08.htm#fr_51) *Proc*. S.P.R., VII: pp.
+<span id="fn_51"></span>[26:2](esp08.htm#fr_51.md) *Proc*. S.P.R., VII: pp.
 199-220; pp. 370-373.
 
-<span id="fn_52"></span>[26:3](esp08.htm#fr_52) *Proc*. S.P.R., XXXVIII:
+<span id="fn_52"></span>[26:3](esp08.htm#fr_52.md) *Proc*. S.P.R., XXXVIII:
 pp. 223-271, 1928.
 
-<span id="fn_53"></span>[27:1](esp08.htm#fr_53) *Proc*. S.P.R., XXXIX:
+<span id="fn_53"></span>[27:1](esp08.htm#fr_53.md) *Proc*. S.P.R., XXXIX:
 pp. 375-414, 1931.
 
-<span id="fn_54"></span>[28:1](esp08.htm#fr_54) *Proc*. S.P.R., XXXI: p.
+<span id="fn_54"></span>[28:1](esp08.htm#fr_54.md) *Proc*. S.P.R., XXXI: p.
 377, 1921.
 
-<span id="fn_55"></span>[28:2](esp08.htm#fr_55) Tischner, *loc. cit.*,
+<span id="fn_55"></span>[28:2](esp08.htm#fr_55.md) Tischner, *loc. cit.*,
 p. 206.
 
-<span id="fn_56"></span>[29:1](esp08.htm#fr_56) *Proc*. S.P.R., XII: p.
+<span id="fn_56"></span>[29:1](esp08.htm#fr_56.md) *Proc*. S.P.R., XII: p.
 352, 1897.
 
-<span id="fn_57"></span>[29:2](esp08.htm#fr_57) This mention is based on
+<span id="fn_57"></span>[29:2](esp08.htm#fr_57.md) This mention is based on
 Tischner's review, *op. cit.*, p. 206.
 
-<span id="fn_58"></span>[29:3](esp08.htm#fr_58) *Proc*. S.P.R., XXX: pp.
+<span id="fn_58"></span>[29:3](esp08.htm#fr_58.md) *Proc*. S.P.R., XXX: pp.
 251-260, 1920.
 
-<span id="fn_59"></span>[30:1](esp08.htm#fr_59) *Life after Death*, E.
+<span id="fn_59"></span>[30:1](esp08.htm#fr_59.md) *Life after Death*, E.
 P. Dutton, New York, 1918; pp. 137-142
 
-<span id="fn_60"></span>[30:2](esp08.htm#fr_60) Op. cit., p. 211.
+<span id="fn_60"></span>[30:2](esp08.htm#fr_60.md) Op. cit., p. 211.
 
-<span id="fn_61"></span>[30:3](esp08.htm#fr_61) *Jour. fur Psychol. and
+<span id="fn_61"></span>[30:3](esp08.htm#fr_61.md) *Jour. fur Psychol. and
 Neurol.*, 1918.
 
-<span id="fn_62"></span>[31:1](esp08.htm#fr_62) *Notre Sixieme Sens*,
+<span id="fn_62"></span>[31:1](esp08.htm#fr_62.md) *Notre Sixieme Sens*,
 Editions Montaigne. Paris, 1928.
 
 ------------------------------------------------------------------------
 
 [Next: Appendix to Chapter 2. Mathematics of Probability Used in
-Evaluation](esp09)
+Evaluation](esp09.md)

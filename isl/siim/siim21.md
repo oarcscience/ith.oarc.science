@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](siim20)  [Next](siim22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](siim20)  [Next](siim22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Studies in Islamic Mysticism*, by Reynold A. Nicholson, \[1921\], at
 Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ removing her from her habits, and she became calm.
 \(202\) No terror remained before her but I confronted it, so long as I
 beheld that my soul therein was not yet purged,
 
-(203 <span id="fr_702"></span>[203](#fn_700)) And every stage that I
+(203 <span id="fr_702"></span>[203](#fn_700).md) And every stage that I
 traversed in my progress was an *‘ubúdiyya* which I fulfilled through
 *‘ubúda*.
 
@@ -37,14 +37,14 @@ its actions and desires or as being in passionless calm, undergoes a
 change of meaning, so that "she," who stood for an individual, now
 denotes the Universal Self.
 
-(204 <span id="fr_703"></span>[204](#fn_701)) Until then I had been
+(204 <span id="fr_703"></span>[204](#fn_701).md) Until then I had been
 enamoured of her, but when I renounced my desire, she desired me for
 herself and loved me,
 
 \(205\) And I became a beloved, nay, one loving himself: this is not
 like what I said before, that my soul is my beloved.
 
-(206 <span id="fr_704"></span>[206](#fn_702)) Through her I went forth
+(206 <span id="fr_704"></span>[206](#fn_702).md) Through her I went forth
 from myself to her and came not back to myself: one like me does not
 hold the doctrine of return.
 
@@ -61,11 +61,11 @@ In a passage of high eloquence and beauty the poet endeavours to analyse
 his experience of the unitive state and reveal the mystery, so far as it
 can be expressed in a symbolic form.
 
-(209 <span id="fr_705"></span>[209](#fn_703)) Lo, I will unfold the
+(209 <span id="fr_705"></span>[209](#fn_703).md) Lo, I will unfold the
 beginning of my oneness and will bring it to its end in a lowly descent
 from my exaltation.
 
-(210 <span id="fr_706"></span>[210](#fn_704)) In unveiling herself she
+(210 <span id="fr_706"></span>[210](#fn_704).md) In unveiling herself she
 unveiled Being to mine eye, and I saw her with my sight in every seen
 thing.
 
@@ -73,23 +73,23 @@ thing.
 that is hidden, and through the displaying of my secret place I found
 there that I was she;
 
-(212 <span id="fr_707"></span>[212](#fn_705)) And my existence vanished
+(212 <span id="fr_707"></span>[212](#fn_705).md) And my existence vanished
 in my contemplation and I became separated from the existence of my
 contemplation—effacing it, not maintaining it.
 
-(213 <span id="fr_708"></span>[213](#fn_706)) And in the sobriety
+(213 <span id="fr_708"></span>[213](#fn_706).md) And in the sobriety
 following my intoxication I retained the object which, during the
 effacement of my self-existence, I contemplated in her by whom it was
 revealed,
 
-(214 <span id="fr_709"></span>[214](#fn_707)) So that in the sobriety
+(214 <span id="fr_709"></span>[214](#fn_707).md) So that in the sobriety
 after self-effacement I was none other than she, and when she unveiled
 herself my essence became endued with my essence.
 
 \(215\) When it (my essence) is not called "two," my attributes are
 hers, and since we are one, her outward aspect is mine.
 
-(216 <span id="fr_710"></span>[216](#fn_708)) If she be called, ’tis I
+(216 <span id="fr_710"></span>[216](#fn_708).md) If she be called, ’tis I
 who answer, and if I am summoned,
 
 <span id="page_219">p. 219</span>
@@ -100,7 +100,7 @@ service!").
 \(217\) And if she speak, ’tis I who converse. Likewise, if I tell a
 story, ’tis she that tells it.
 
-(218 <span id="fr_711"></span>[218](#fn_709)) The pronoun of the second
+(218 <span id="fr_711"></span>[218](#fn_709).md) The pronoun of the second
 person has gone out of use between us, and by its removal I am raised
 above the sect who separate (the One from the Many).
 
@@ -110,14 +110,14 @@ the possibility of regarding two as one and decline to affirm it,
 \(220\) I will cause indications of it, which are hidden from thee, to
 demonstrate it like expressions that are clear to thee;
 
-(221 <span id="fr_712"></span>[221](#fn_710)) And, since this is not the
+(221 <span id="fr_712"></span>[221](#fn_710).md) And, since this is not the
 time for ambiguity, I will explain it by means of two strange
 illustrations, one derived from hearing and one from sight,
 
 \(222\) And I will establish what I say by evidence, showing forth a
 parable as one who speaks the truth—for Truth is my stay
 
-(223 <span id="fr_713"></span>[223](#fn_711)) The parable of a woman
+(223 <span id="fr_713"></span>[223](#fn_711).md) The parable of a woman
 smitten with catalepsy, by whose mouth, whilst she is possessed by a
 spirit, another—not she—gives news to thee;
 
@@ -130,10 +130,10 @@ sayings which thou heardest is another than she, though in the
 
 <span id="page_220">p. 220</span>
 
-(226 <span id="fr_714"></span>[226](#fn_712)) Hadst thou been one, thou
+(226 <span id="fr_714"></span>[226](#fn_712).md) Hadst thou been one, thou
 wouldst have come to feel intuitively the truth of what I said;
 
-(227 <span id="fr_715"></span>[227](#fn_713)) But, didst thou but know
+(227 <span id="fr_715"></span>[227](#fn_713).md) But, didst thou but know
 it, thou wert devoted to secret polytheism with a soul that strayed from
 the guidance of the Truth;
 
@@ -141,14 +141,14 @@ the guidance of the Truth;
 accomplished falls by his polytheism into the fire of separation from
 his beloved.
 
-(229 <span id="fr_716"></span>[229](#fn_714)) Naught save otherness
+(229 <span id="fr_716"></span>[229](#fn_714).md) Naught save otherness
 marred this high estate of thine, and if thou wilt efface thyself thy
 claim to have achieved it will be established indeed.
 
 \(230\) Thus was I myself for a time, ere the covering was lifted.
 Having no clairvoyance, I still clave to dualism,
 
-(231 <span id="fr_717"></span>[231](#fn_715)) Now losing (myself) and
+(231 <span id="fr_717"></span>[231](#fn_715)) Now losing (myself.md) and
 being united (with God) through contemplation, now finding (God) and
 being sundered (from myself) through ecstasy.
 
@@ -161,7 +161,7 @@ myself), was separating me (from God), while my deprivation
 individuality), through the enravishment of my self-existence by my
 absence (from myself), was uniting me (with God).
 
-(233 <span id="fr_718"></span>[233](#fn_716)) I used to think that
+(233 <span id="fr_718"></span>[233](#fn_716).md) I used to think that
 sobriety was my nadir, and that intoxication was my way of ascent to her
 (the Beloved), and that my self-effacement was the farthest goal I could
 reach;
@@ -180,11 +180,11 @@ of calm.
 
 <span id="page_222">p. 222</span>
 
-(237 <span id="fr_719"></span>[237](#fn_717)) After my
+(237 <span id="fr_719"></span>[237](#fn_717).md) After my
 self-mortification I saw that he who brought me to behold and led me to
 my (real) self was I; nay, that I was my own example,
 
-(238 <span id="fr_720"></span>[238](#fn_718)) And that my standing (at
+(238 <span id="fr_720"></span>[238](#fn_718).md) And that my standing (at
 \`Arafat) was a standing before myself; nay, that my turning (towards
 the Ka‘ba) was towards myself. Even so my prayer was to myself and my
 Ka‘ba from myself.
@@ -192,11 +192,11 @@ Ka‘ba from myself.
 \(239\) Be not, then, beguiled by thy comeliness, self-conceited, given
 over to the confusion of folly;
 
-(240 <span id="fr_721"></span>[240](#fn_719)) And forsake the error of
+(240 <span id="fr_721"></span>[240](#fn_719).md) And forsake the error of
 separation, for union will result in thy finding the right way, the way
 of those who vied with each other in seeking oneness (*ittiḥád*);
 
-(241 <span id="fr_722"></span>[241](#fn_720)) And declare the
+(241 <span id="fr_722"></span>[241](#fn_720).md) And declare the
 absoluteness of beauty and be not moved to deem it finite by thy longing
 for a tinselled gaud;
 
@@ -214,7 +214,7 @@ beauty of form.
 supposed that these (phenomena) were other than She, whilst it was She
 that displayed Herself therein.
 
-(246 <span id="fr_723"></span>[246](#fn_721)) She showed Herself by
+(246 <span id="fr_723"></span>[246](#fn_721).md) She showed Herself by
 veiling Herself (in them), and She was hidden by the objects in which
 She was manifested, assuming tints of diverse hue in every appearance.
 
@@ -227,7 +227,7 @@ Eve before the relation of motherhood,
 and that the relation of sonship might be brought into existence through
 husband and wife.
 
-(249 <span id="fr_724"></span>[249](#fn_722)) This was the beginning of
+(249 <span id="fr_724"></span>[249](#fn_722).md) This was the beginning of
 the love of the manifestations for one another, when as yet there was no
 enemy to estrange them with (mutual) hate.
 
@@ -249,7 +249,7 @@ even so in virtue of oneness (*ittiḥád*)
 \(255\) Did I show myself to Her in every lover enthralled by youth or
 woman of rare beauty;
 
-(256 <span id="fr_725"></span>[256](#fn_723)) For, although they
+(256 <span id="fr_725"></span>[256](#fn_723).md) For, although they
 preceded me (in time), they were not other than I in their passion,
 inasmuch as I was prior to them in the nights of eternity;
 
@@ -261,11 +261,11 @@ them for the sake of clothing myself in every guise,
 \(258\) Now as Qays, anon as Kuthayyir, and sometimes I appeared as
 Jamíl who loved Buthayna.
 
-(259 <span id="fr_726"></span>[259](#fn_724)) In them I displayed myself
+(259 <span id="fr_726"></span>[259](#fn_724).md) In them I displayed myself
 outwardly and veiled myself inwardly. Marvel, then, at a revelation by
 means of a mask!
 
-(260 <span id="fr_727"></span>[260](#fn_725)) The loved women and their
+(260 <span id="fr_727"></span>[260](#fn_725).md) The loved women and their
 lovers—’tis no infirm judgment—were manifestations in which we (my
 Beloved and I) displayed our (attributes of) love and beauty.
 
@@ -300,24 +300,24 @@ heresy in
 respect of a doctrine abominable to all Moslems—the doctrine of
 incarnation (*ḥulúl*).
 
-(277 <span id="fr_728"></span>[277](#fn_726)) If I recant my words, "I
+(277 <span id="fr_728"></span>[277](#fn_726).md) If I recant my words, "I
 am She," or if I say—and far be it from one like me to say it!—that She
 became incarnate (*ḥallat*) in me, (then I shall deserve to die the
 death).
 
-(278 <span id="fr_729"></span>[278](#fn_727)) I am not referring thee to
+(278 <span id="fr_729"></span>[278](#fn_727).md) I am not referring thee to
 anything unseen; no, nor to. anything absurd which deprives me of my
 power (to demonstrate its truth).
 
-(279 <span id="fr_730"></span>[279](#fn_728)) Since I am stablished on
+(279 <span id="fr_730"></span>[279](#fn_728).md) Since I am stablished on
 the Name of the Real (God) how should the false tales of error frighten
 me?
 
-(280 <span id="fr_731"></span>[280](#fn_729)) Mark now! Gabriel, the
+(280 <span id="fr_731"></span>[280](#fn_729).md) Mark now! Gabriel, the
 trusted (messenger), came in the shape of Diḥya to our Prophet in the
 beginning of his prophetic inspiration.
 
-(281 <span id="fr_732"></span>[281](#fn_730)) Tell me, was Gabriel Diḥya
+(281 <span id="fr_732"></span>[281](#fn_730).md) Tell me, was Gabriel Diḥya
 when he appeared in a. human form to the true Guide,
 
 \(282\) Whose knowledge surpassed that of those beside him inasmuch as
@@ -329,7 +329,7 @@ a man who was treated with respect as being the Prophet's companion;
 \(284\) And in the truer of the two visions I find a hint that removes
 my creed far from the doctrine of incarnation.
 
-(285 <span id="fr_733"></span>[285](#fn_731)) In the Koran there is
+(285 <span id="fr_733"></span>[285](#fn_731).md) In the Koran there is
 mention of "covering" (labs), and it cannot be denied, for I have not
 gone beyond the double authority of the Book and the Apostolic
 Traditions.
@@ -345,11 +345,11 @@ excel those who worship God in hope or fear.
 \(286\) I give thee knowledge. If thou desirest its unveiling, come into
 my way and begin to follow my law,
 
-(287 <span id="fr_734"></span>[287](#fn_732)) For the fountain of Ṣaddá
+(287 <span id="fr_734"></span>[287](#fn_732).md) For the fountain of Ṣaddá
 springs from a water whose abundant well is with me: therefore tell me
 not of a mirage in a wilderness!
 
-(288 <span id="fr_735"></span>[288](#fn_733)) And take (thy knowledge)
+(288 <span id="fr_735"></span>[288](#fn_733)) And take (thy knowledge.md)
 from a sea into which I plunged, while those of old stopped on its
 shore, observing reverence towards me.
 
@@ -357,7 +357,7 @@ shore, observing reverence towards me.
 6, 153), alludes symbolically to the palm of a hand that was holden when
 it essayed (to draw water).
 
-(290 <span id="fr_736"></span>[290](#fn_734)) And except me none hath
+(290 <span id="fr_736"></span>[290](#fn_734).md) And except me none hath
 gained aught thereof, save only a youth who in constraint or ease never
 ceased to tread in my footprints.
 
@@ -371,11 +371,11 @@ path;
 \(292\) For the valley of Her friendship, O comrade of sober heart, is
 in the province of my command and falls under my governance,
 
-(293 <span id="fr_737"></span>[293](#fn_735)) And the realm of the high
+(293 <span id="fr_737"></span>[293](#fn_735).md) And the realm of the high
 degrees of Love is mine, the realities (thereof) are my army, and all
 lovers are my people.
 
-(294 <span id="fr_738"></span>[294](#fn_736)) Love hath passed away! Lo,
+(294 <span id="fr_738"></span>[294](#fn_736).md) Love hath passed away! Lo,
 I am severed from it as one who deems it a veil. Desire is below mine
 high estate,
 
@@ -383,7 +383,7 @@ high estate,
 as Hate, and the goal that I reached in my ascension to Oneness is
 become my point of departure.
 
-(296 <span id="fr_739"></span>[296](#fn_737)) But do thou be happy with
+(296 <span id="fr_739"></span>[296](#fn_737).md) But do thou be happy with
 love, for (thereby) thou hast been made a chief over the best of God's
 creatures who serve Him (by devotion and piety) in every nation.
 
@@ -394,7 +394,7 @@ exalted by works and by a soul that purged itself (of worldly lusts);
 if his burden were lightened, would be of little weight—one charged with
 traditional authorities and intellectual wisdom;
 
-(299 <span id="fr_740"></span>[299](#fn_738)) And take to thyself
+(299 <span id="fr_740"></span>[299](#fn_738).md) And take to thyself
 through kinship (of love) the heritage of the most sublime gnostic, who
 made it his care to prefer (above all else) that his aspiration should
 produce an effect (upon mankind);
@@ -403,7 +403,7 @@ produce an effect (upon mankind);
 
 ### Footnotes
 
-<span id="fn_700"></span>[217:203](siim21.htm#fr_702) (203) Both
+<span id="fn_700"></span>[217:203](siim21.htm#fr_702) (203.md) Both
 *‘ubúdiyya* and *‘ubúda* (which literally signify the relation of a
 slave to his master) are phases of mystical devotion. In *‘ubúdiyya* the
 mystic is concerned with the means of drawing nigh to God, *e.g.* with
@@ -411,7 +411,7 @@ asceticism, quietism, and the like; in *‘ubúda*, which is the fulfilment
 and consummation of *‘ubúdiyya*, he rises above egoism and loses himself
 in the will of his Lord.
 
-<span id="fn_701"></span>[217:204](siim21.htm#fr_703) (204-5) In ceasing
+<span id="fn_701"></span>[217:204](siim21.htm#fr_703) (204-5.md) In ceasing
 to will for himself the mystic becomes an object of the Divine will,
 *i.e.* a beloved, and that which loves him is no other than his real
 self. The words "my soul (self) is my beloved" refer to verse 98 ("Thou
@@ -419,11 +419,11 @@ art sworn to love, but to love of self"), in which the mystic is
 described as loving himself, because he still clings to his
 individuality.
 
-<span id="fn_702"></span>[217:206](siim21.htm#fr_704) (206-8) Separation
+<span id="fn_702"></span>[217:206](siim21.htm#fr_704) (206-8.md) Separation
 from the self, *i.e.* union with God, is brought about by Divine grace,
 not by any act of the self.
 
-<span id="fn_703"></span>[218:209](siim21.htm#fr_705) (209) Perfect
+<span id="fn_703"></span>[218:209](siim21.htm#fr_705) (209.md) Perfect
 oneness ultimately involves "a descent from union (*jam‘*) to separation
 (*tafriqa*) and from the Essence to the Attributes, that the saint may
 repair the disorder of the phenomenal world and instruct those who seek
@@ -432,32 +432,32 @@ he must unite in himself both union and separation, both Essence and
 Attributes" (K.). Cf. my *Mystics of Islam*, p. 163, and note on verse
 218 *infra*.
 
-<span id="fn_704"></span>[218:210](siim21.htm#fr_706) (210) The
+<span id="fn_704"></span>[218:210](siim21.htm#fr_706) (210.md) The
 beginning of oneness with God is God's revelation of Himself to the
 mystic, which causes *faná*, so that he sees the unveiled face of God
 (*i.e.* Real Being) in the mirror of phenomena.
 
-<span id="fn_705"></span>[218:212](siim21.htm#fr_707) (212) "I became
+<span id="fn_705"></span>[218:212](siim21.htm#fr_707) (212.md) "I became
 separated from the existence of my contemplation," *i.e.* "I passed away
 from (became unconscious of) my contemplation."
 
-<span id="fn_706"></span>[218:213](siim21.htm#fr_708) (213) The object
+<span id="fn_706"></span>[218:213](siim21.htm#fr_708) (213.md) The object
 retained and unceasingly contemplated in the sobriety (mystical
 clairvoyance) following intoxication (ecstasy) is the inward and real
 self—the hidden "I" which in the preceding moment of ecstasy was
 contemplated in God. Cf. note on *vv*. 233-5.
 
-<span id="fn_707"></span>[218:214](siim21.htm#fr_709) (214) Intoxication
+<span id="fn_707"></span>[218:214](siim21.htm#fr_709) (214.md) Intoxication
 or self-effacement is only the beginning of oneness (*ittiḥád*). Perfect
 oneness is attained in sobriety, when the self, having been restored to
 consciousness, knows itself as the Divine Essence which reveals itself
 to itself. This is the state of "abiding after passing-away" (*al-baqá
 ba‘d al faná*).
 
-<span id="fn_708"></span>[218:216](siim21.htm#fr_710) (216) Cf. [p.
-127](siim13.htm#page_127) *supra*.
+<span id="fn_708"></span>[218:216](siim21.htm#fr_710) (216.md) Cf. [p.
+127](siim13.htm#page_127.md) *supra*.
 
-<span id="fn_709"></span>[219:218](siim21.htm#fr_711) (218) Literally,
+<span id="fn_709"></span>[219:218](siim21.htm#fr_711) (218.md) Literally,
 "the *ta* (of the 2nd person singular in the past tense of the Arabic
 verb) has been removed (or 'has become *tu*, the sign of the 1st person
 singular') between us," *i.e.* "each of us is the 'I' of the other."
@@ -466,13 +466,13 @@ separation (*farq* or *tafriqa* as opposed to union, *jam‘*), so that,
 for example, they view their acts of worship as proceeding from
 themselves, not as being done by God in them.
 
-<span id="fn_710"></span>[219:221](siim21.htm#fr_712) (221) The
+<span id="fn_710"></span>[219:221](siim21.htm#fr_712) (221.md) The
 illustration drawn from hearing (oral tradition) is the Prophet's vision
 of Gabriel in the form of Diḥya (verse 280 foll.), while the parallel
 analogy from ocular experience is the case of "a woman smitten with
 catalepsy" (verse 223 foll.).
 
-<span id="fn_711"></span>[219:223](siim21.htm#fr_713) (223-5) It may be
+<span id="fn_711"></span>[219:223](siim21.htm#fr_713) (223-5.md) It may be
 worth while to summarise the commentator's explanation of the argument.
 *Ittiḥád*, he says, means that Absolute Being overwhelms the being of
 the individual creature so as entirely to deprive him of the exercise of
@@ -493,7 +493,7 @@ notwithstanding that both of them are helpless contingent beings, surely
 none will deny that it may exist between the omnipotent Creator and the
 creature whom He has created in His own image.
 
-<span id="fn_712"></span>[220:226](siim21.htm#fr_714) (226) Although the
+<span id="fn_712"></span>[220:226](siim21.htm#fr_714) (226.md) Although the
 possibility of *ittiḥád* can be proved from analogy, knowledge of its
 real nature depends on the unity (*waḥda*) or simplification (*ifrád*)
 of the self which is effected by stripping it of attributes and
@@ -503,15 +503,15 @@ used here in its ordinary sense, namely, "a permanent state of mystical
 feeling." See the Glossary to my edition of the *Kitáb al-Luma‘*, p.
 151.
 
-<span id="fn_713"></span>[220:227](siim21.htm#fr_715) (227) "Secret
+<span id="fn_713"></span>[220:227](siim21.htm#fr_715) (227.md) "Secret
 polytheism" (*shirk*), *i.e.* latent self-regard which hinders the
 mystic from becoming entirely one with God.
 
-<span id="fn_714"></span>[220:229](siim21.htm#fr_716) (229) "Otherness"
+<span id="fn_714"></span>[220:229](siim21.htm#fr_716) (229.md) "Otherness"
 is equivalent to "polytheism," *i.e.* thinking of one's self as
 something other than God.
 
-<span id="fn_715"></span>[220:231](siim21.htm#fr_717) (231-2) These
+<span id="fn_715"></span>[220:231](siim21.htm#fr_717) (231-2.md) These
 verses can hardly be translated. The language of Islamic mysticism
 abounds in pairs of correlative terms, *e.g.* "losing" and "finding,"
 "presence" and "absence," "intoxication" and "sobriety," which are not
@@ -520,7 +520,7 @@ said, "the inner life of the Ṣúfí is in large measure a swinging to and
 fro between opposite poles" (R. Hartmann, *Al-Ḳuschairîs Darstellung des
 Ṣûfîtums*, p. 8). Cf. note on *vv*. 481-2.
 
-<span id="fn_716"></span>[221:233](siim21.htm#fr_718) (233-5) For the
+<span id="fn_716"></span>[221:233](siim21.htm#fr_718) (233-5.md) For the
 expressions used in *v*. 233 cf. Kor. 53, 9 and note on *v*. 729. Here
 Ibnu ’l-Fáriḍ, writing as an adept, declares that the state of ecstatic
 rapture, which Súfís call "intoxication" and "self-effacement," is
@@ -558,25 +558,25 @@ id="page_222">p. 222</span> of view. The interpretation of the
 concluding words in *v*. 215 is doubtful. Taking *jam‘* in a
 non-mystical sense, we might translate: "My plurality is like my unity."
 
-<span id="fn_717"></span>[222:237](siim21.htm#fr_719) (237)
+<span id="fn_717"></span>[222:237](siim21.htm#fr_719) (237.md)
 Self-mortification prepares the mystic for contemplation of God but does
 not precede it as the cause precedes the effect. In contemplation there
 is no duality, but only God, who reveals Himself to Himself. The poet
 describes this state of "union" (*jam‘*) symbolically in *vv*. 239-64.
 
-<span id="fn_718"></span>[222:238](siim21.htm#fr_720) (238) The
+<span id="fn_718"></span>[222:238](siim21.htm#fr_720) (238.md) The
 "standing" on Mt ‘Arafát near Mecca is one of the ceremonies observed by
 the pilgrims.
 
-<span id="fn_719"></span>[222:240](siim21.htm#fr_721) (240) "Separation"
+<span id="fn_719"></span>[222:240](siim21.htm#fr_721) (240.md) "Separation"
 and "union" (*farq* and *jam‘*) are used in the technical sense which
 has been noted (cf. verses 218 and 233-5).
 
-<span id="fn_720"></span>[222:241](siim21.htm#fr_722) (241) The
+<span id="fn_720"></span>[222:241](siim21.htm#fr_722) (241.md) The
 "tinselled gaud" is beauty regarded as an attribute of phenomena, *i.e.*
 beauty of form.
 
-<span id="fn_721"></span>[222:246](siim21.htm#fr_723) (246) The
+<span id="fn_721"></span>[222:246](siim21.htm#fr_723) (246.md) The
 commentator illustrates this doctrine—that phenomena reveal or conceal
 Absolute Being according to the measure of spiritual <span
 id="page_223">p. 223</span> insight with which they are regarded—by the
@@ -593,22 +593,22 @@ the truth, namely, that those beams are the light of the sun endued with
 form and colour by the medium through which it is seen and preserving
 its unity unimpaired amidst all variety of appearance.
 
-<span id="fn_722"></span>[223:249](siim21.htm#fr_724) (249) The "enemy"
+<span id="fn_722"></span>[223:249](siim21.htm#fr_724) (249.md) The "enemy"
 is Satan, who caused Adam and Eve to eat the forbidden fruit, whereupon
 God said to them, "Get ye down (from Paradise), the one of you a foe to
 the other" (Kor. 2, 34).
 
-<span id="fn_723"></span>[223:256](siim21.htm#fr_725) (256) The
+<span id="fn_723"></span>[223:256](siim21.htm#fr_725) (256.md) The
 commentator quotes the saying of the Prophet, "We are the last and the
 first," *i.e.* the last in material time, the first in spiritual time.
 Absolute Being, though logically prior to phenomena, is essentially
 identical with them.
 
-<span id="fn_724"></span>[224:259](siim21.htm#fr_726) (259) Absolute
+<span id="fn_724"></span>[224:259](siim21.htm#fr_726) (259.md) Absolute
 Being manifests its attributes through the phenomenal forms which
 conceal its essence.
 
-<span id="fn_725"></span>[224:260](siim21.htm#fr_727) (260-4) Love and
+<span id="fn_725"></span>[224:260](siim21.htm#fr_727) (260-4.md) Love and
 beauty are aspects of the self-manifestation of the "invisible soul"
 underlying all phenomena, and since that soul is the One Real Being
 there can be no essential difference between the lover and the object of
@@ -616,27 +616,27 @@ his love. The mystic who has attained to "the intoxication of union"
 (*sukru ’l-jam‘*) has no thought of "beside-ness," *i.e.* for him
 nothing exists beside his unconditioned self, which is God.
 
-<span id="fn_726"></span>[225:277](siim21.htm#fr_728) (277) "I am She,"
+<span id="fn_726"></span>[225:277](siim21.htm#fr_728) (277.md) "I am She,"
 *i.e.* the doctrine of *ittiḥád*.
 
-<span id="fn_727"></span>[225:278](siim21.htm#fr_729) (278) Addressing
+<span id="fn_727"></span>[225:278](siim21.htm#fr_729) (278.md) Addressing
 the reader, Ibnu ’l-Fáriḍ says, "The God to whom I direct you is neither
 outside of the world and yourself nor within you in the sense of '
 incarnate,' which is an absurdity."
 
-<span id="fn_728"></span>[225:279](siim21.htm#fr_730) (279) "False tales
+<span id="fn_728"></span>[225:279](siim21.htm#fr_730) (279.md) "False tales
 of error," *i.e.* baseless accusations of heresy.
 
-<span id="fn_729"></span>[225:280](siim21.htm#fr_731) (280) Gabriel,
+<span id="fn_729"></span>[225:280](siim21.htm#fr_731) (280.md) Gabriel,
 through whom the Koran was revealed to Mohammed, is said to have assumed
 the shape of Diḥya al-Kalbí, described as a very handsome man, on more
 than one occasion.
 
-<span id="fn_730"></span>[225:281](siim21.htm#fr_732) (281-4) As Gabriel
+<span id="fn_730"></span>[225:281](siim21.htm#fr_732) (281-4.md) As Gabriel
 was not incarnate in Diḥya, so God is not incarnate in the mystic
 "united" with Him.
 
-<span id="fn_731"></span>[225:285](siim21.htm#fr_733) (284-5) *Labs*
+<span id="fn_731"></span>[225:285](siim21.htm#fr_733) (284-5.md) *Labs*
 (the act of covering) is attributed to God in the Koran (cf. 6, 9; 50,
 14) and is implied in a group of traditions which record that Mohammed
 said, "I saw my Lord in such and such a form." For the meaning of the
@@ -653,13 +653,13 @@ manifest Himself to Himself, and nothing exists beside Him; whereas
 *ḥulúl* (the "infusion" of the Divine element into the human) denotes a
 relation of immanence comparable to that of spirit and body.
 
-<span id="fn_732"></span>[226:287](siim21.htm#fr_734) (287) Ṣaddá was
+<span id="fn_732"></span>[226:287](siim21.htm#fr_734) (287.md) Ṣaddá was
 proverbial for the sweetness and wholesomeness of its water: cf. the
 saying, "Water, but not like Ṣaddá." The poet means that his knowledge
 flows from contemplation of the Divine Essence, so that he need not
 follow the mirage of intellectual speculation.
 
-<span id="fn_733"></span>[226:288](siim21.htm#fr_735) (288-9) The "sea"
+<span id="fn_733"></span>[226:288](siim21.htm#fr_735) (288-9.md) The "sea"
 is an emblem of the Beatific Vision which was denied to Moses (Kor. 7,
 139) but was granted to Mohammed (Kor. 53, 9). Ibnu ’l-Fáriḍ interprets
 the text, "*Meddle not with the substance of the orphan*," as an
@@ -670,26 +670,26 @@ Vision is not vouchsafed to thee, but to an orphan who shall come after
 thee." The orphan (*yatím*) is Mohammed (Kor. 93, 6). Cf. *Kashf
 al-Maḥjúb*, pp. 186 and 381.
 
-<span id="fn_734"></span>[226:290](siim21.htm#fr_736) (290) The
+<span id="fn_734"></span>[226:290](siim21.htm#fr_736) (290.md) The
 commentator identifies the "youth " with ‘Alí b. Abi Ṭálib, the
 Prophet's cousin and son-in-law. According to the belief of the Ṣúfís,
 ‘Alí received from the Prophet an esoteric doctrine which was
 communicated to him alone.
 
-<span id="fn_735"></span>[227:293](siim21.htm#fr_737) (293) "The
+<span id="fn_735"></span>[227:293](siim21.htm#fr_737) (293.md) "The
 realities" (*al-ma‘ání*) are probably the real content of all
 expressions that belong to the language of love.
 
-<span id="fn_736"></span>[227:294](siim21.htm#fr_738) (294-5) To retain
+<span id="fn_736"></span>[227:294](siim21.htm#fr_738) (294-5.md) To retain
 consciousness of an attribute is to be limited by it; to pass from it is
 to escape from limitation and break through to the Absolute, where all
 contraries are reconciled. In verse 294 some read *fata ’l-ḥubbi*, "O
 thrall of love," instead of *fani ’l-ḥubbu*.
 
-<span id="fn_737"></span>[227:296](siim21.htm#fr_739) (296-8) The lover
+<span id="fn_737"></span>[227:296](siim21.htm#fr_739) (296-8.md) The lover
 of God is nearer to Him than the ascetic, theologian, or philosopher.
 
-<span id="fn_738"></span>[227:299](siim21.htm#fr_740) (299) The most
+<span id="fn_738"></span>[227:299](siim21.htm#fr_740) (299.md) The most
 sublime gnostic," *i.e.* Mohammed, from whom the Ṣúfís claim to have
 inherited not only their knowledge of religion (‘ilm) but also their
 mystical knowledge (*ma‘rifa*). In the highest degree of gnosis union
@@ -700,4 +700,4 @@ instruction of his fellow-creatures.
 
 ------------------------------------------------------------------------
 
-[Next: vv. 300-399](siim22)
+[Next: vv. 300-399](siim22.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](yfhu16)  [Next](yfhu18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](yfhu16)  [Next](yfhu18.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -433,4 +433,4 @@ that all of this power be constructively applied*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. The Creative Forces In Man](yfhu18)
+[Next: Chapter XVI. The Creative Forces In Man](yfhu18.md)

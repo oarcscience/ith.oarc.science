@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap62) 
-[Next](bap64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap62.md) 
+[Next](bap64.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ hath come forth by lot let us cast the lot by men, and let us see whom
 
 the Lord hath chosen out of her. 5. And they cast the lot by men, and it
 took no man save Elchana, for upon him the lot leapt out, <span
-id="fr_142"></span>[1](#fn_142) and the people took him And said: Come
+id="fr_142"></span>[1](#fn_142.md) and the people took him And said: Come
 and be ruler over us. And Elchana said unto the people: I cannot be a
 prince over this people, neither can I judge who can be a prince over
 you. But if my sins have found me out, that the lot should leap upon me,
@@ -53,11 +53,11 @@ people.
 6\. And when the people saw that it was not the will of Elchana to take
 the leadership over them, they prayed again unto the Lord saying: O Lord
 God of Israel, wherefore hast thou forsaken thy people in the victory of
-the enemy <span id="fr_143"></span>[2](#fn_143) and neglected thine
+the enemy <span id="fr_143"></span>[2](#fn_143.md) and neglected thine
 heritage in the time of trouble? Behold even he that was taken by the
 lot hath not accomplished thy commandment; but only this *hath come
-about*, <span id="fr_144"></span>[3](#fn_144) that the lot leapt
-out <span id="fr_145"></span>[1](#fn_142) upon him, and we believed that
+about*, <span id="fr_144"></span>[3](#fn_144.md) that the lot leapt
+out <span id="fr_145"></span>[1](#fn_142.md) upon him, and we believed that
 we had a prince. And lo, he also contendeth against the lot. Whom shall
 we yet require, or unto whom shall we flee, and where is the place of
 our rest? For if the ordinances are true which thou madest with our
@@ -87,23 +87,23 @@ offered peace offerings and feasted in their orders.
 
 ### Footnotes
 
-<span id="fn_142"></span>[213:1](bap63.htm#fr_145) XLIX. 5, etc. *the
+<span id="fn_142"></span>[213:1](bap63.htm#fr_145.md) XLIX. 5, etc. *the
 lot leapt out*: *superuolauit*. The word, which occurs several times in
 these verses, indicates, I suppose, that the lot which fell upon Elkanah
 came out of the receptacle for lots in some unusual way. At least it
 does not occur in the other passages which mention the casting of lots.
 
-<span id="fn_143"></span>[213:2](bap63.htm#fr_143) 6. *in the victory of
+<span id="fn_143"></span>[213:2](bap63.htm#fr_143.md) 6. *in the victory of
 the enemy*: (*quare*) *in uictoria inimicorum* (*dereliquisli*). It is
 natural to think that *in uictoria* is the Hebraism for "utterly," εἰσ
 νῖκοσ, and that *inimicorum* should be omitted as a gloss: but the
 phrase is balanced in the next clause by *et in tempore angustiae
 neglexisti*.
 
-<span id="fn_144"></span>[213:3](bap63.htm#fr_144) *but only this hath
+<span id="fn_144"></span>[213:3](bap63.htm#fr_144.md) *but only this hath
 come about*, etc.: *sed solum hoc est, quod superuolauit super illum
 sors*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter L](bap64)
+[Next: Chapter L](bap64.md)

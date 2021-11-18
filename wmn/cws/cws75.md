@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws74.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,7 +161,7 @@ principle itself of understanding that he was recognised by the
 Hermetists in the saying--
 
 "Est in Mercurio quicquid quærunt sapientes"; <span
-id="fr_237"></span>[1](#fn_236)
+id="fr_237"></span>[1](#fn_236.md)
 
 and by the authors of that wondrous compendium of Hebrew
 transcendentalism, the Kabala, when they declared that "all the
@@ -499,7 +499,7 @@ Apoc. xvi, 12:--That "the water of the great river Euphrates is dried
 up, and the way prepared for the kings of the East."
 
 For the Euphrates is the will of man, <span
-id="fr_238"></span>[1](#fn_237) and until this is "dried up" and
+id="fr_238"></span>[1](#fn_237.md) and until this is "dried up" and
 sublimed in him, and is no longer the human but the divine will, he
 cannot receive the divine knowledges of which the bearers are ever
 "kings of the East," or messengers from the source of all spiritual
@@ -774,7 +774,7 @@ force element, which is the masculine, and the centripetal or love
 element, which is the feminine element of existence. For a full
 treatment of this subject, see *The Perfect Way*, Lectures VI and VII.
 
-Arche. <span id="fr_239"></span>[1](#fn_238)--A Greek term, signifying
+Arche. <span id="fr_239"></span>[1](#fn_238.md)--A Greek term, signifying
 beginning, first cause, origin, and said to have been first used by
 Anaximander (580 B.C.) in the sense of principle (*principium*) to
 denote the eternal and infinite basis or substance (*sub-stans*) of
@@ -801,7 +801,7 @@ relates it still more closely to Tibet, Thebes, and other places
 similarly so named apparently as being homes of the Mysteries, and as
 representing, therefore, the Soul as the dwelling-place of the Spirit,
 and source of all Divine knowledges. <span
-id="fr_240"></span>[1](#fn_239) Thus, in its highest application, the
+id="fr_240"></span>[1](#fn_239.md) Thus, in its highest application, the
 ark of Noah denotes the original Divine substance containing in its
 bosom the "eight persons," God (the Nous) and His seven spirits, of whom
 all the universe is overspread.
@@ -1235,15 +1235,15 @@ Sons of God.--See under *Regeneration*.
 
 ### Footnotes
 
-<span id="fn_236"></span>[190:1](cws75.htm#fr_237) All is in Hermes that
+<span id="fn_236"></span>[190:1](cws75.htm#fr_237.md) All is in Hermes that
 the wise seek.
 
-<span id="fn_237"></span>[196:1](cws75.htm#fr_238) See page
-[16](cws10.htm#page_16).
+<span id="fn_237"></span>[196:1](cws75.htm#fr_238.md) See page
+[16](cws10.htm#page_16.md).
 
-<span id="fn_238"></span>[201:1](cws75.htm#fr_239) In Arche, Aphrodite,
+<span id="fn_238"></span>[201:1](cws75.htm#fr_239.md) In Arche, Aphrodite,
 Persephone, Psyche, Herpe, and all Greek terms ending in *e*, the final
 letter is sounded. The *ch* is usually pronounced as *k*.
 
-<span id="fn_239"></span>[202:1](cws75.htm#fr_240) See Page 57, note
- [1](cws25.htm#fn_96).
+<span id="fn_239"></span>[202:1](cws75.htm#fr_240.md) See Page 57, note
+ [1](cws25.htm#fn_96.md).

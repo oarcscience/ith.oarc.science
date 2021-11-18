@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff20)  [Next](fff22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff20)  [Next](fff22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -189,7 +189,7 @@ free her from her bonds; to make sure salvation to men by My Gnosis.'
 
 <span class="contnote">\[paragraph continues\]</span> "were mismanaging
 the world, since each of them desired the sovereignty, He had come to
-set matters right; and He had descended, [transforming](errata.htm#24)
+set matters right; and He had descended, [transforming](errata.htm#24.md)
 Himself and being made like to the Powers and Principalities and Angels;
 so that He appeared to men as a man, although He was not a man; and was
 thought to have suffered in Judæa, although He did not really suffer.
@@ -335,4 +335,4 @@ as foreign to the question.
 
 ------------------------------------------------------------------------
 
-[Next: Menander](fff22)
+[Next: Menander](fff22.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac10)  [Next](sac12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac10)  [Next](sac12.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ responsible for the local superintendence.
 
 [![FIG. 16.—The arrangements for raising the stone, looking
 north-east.](tn/fig16.jpg)  
-Click to enlarge](img/fig16.jpg)  
+Click to enlarge](img/fig16.jpg.md)  
 FIG. 16.—The arrangements for raising the stone, looking north-east.  
 
 <span id="page_71">p. 71</span>
@@ -50,7 +50,7 @@ FIG. 16.—The arrangements for raising the stone, looking north-east.
 <span id="img_fig17"></span>
 
 [![FIG. 17.—The cradle and supports, looking west.](tn/fig17.jpg)  
-Click to enlarge](img/fig17.jpg)  
+Click to enlarge](img/fig17.jpg.md)  
 FIG. 17.—The cradle and supports, looking west.  
 
 Mr. Blow thus describes the arrangements (*Journal* Institute of British
@@ -94,7 +94,7 @@ and
 <span id="img_fig18"></span>
 
 [![FIG. 18—The frame used to locate the finds](tn/fig18.jpg)  
-Click to enlarge](img/fig18.jpg)  
+Click to enlarge](img/fig18.jpg.md)  
 FIG. 18—The frame used to locate the finds  
 
 <span id="page_74">p. 74</span>
@@ -198,7 +198,7 @@ important, had bronze been in general or even moderately extensive
 <span id="img_fig19"></span>
 
 [![FIG. 19.—Some of the Flint Implements](tn/fig19.jpg)  
-Click to enlarge](img/fig19.jpg)  
+Click to enlarge](img/fig19.jpg.md)  
 FIG. 19.—Some of the Flint Implements  
 
 <span id="page_78">p. 78</span>
@@ -215,7 +215,7 @@ have been so much more effective for such work than the picks of deer's
 horn.
 
 "Again, the chippings of the stones of Stonehenge in two of the Bronze
-age barrows <span id="fr_14"></span>[1](#fn_14) in its neighbourhood
+age barrows <span id="fr_14"></span>[1](#fn_14.md) in its neighbourhood
 show that it is of earlier date than they."
 
 And finally:—
@@ -243,7 +243,7 @@ I have previously in this book referred to the fact that the trilithons
 of the naos and the stones of the outer circle are all built up of
 so-called "sarsen" stones. To describe their geological character, I
 cannot do better than quote, from Mr. Cunnington's "Geology of
-Stonehenge," <span id="fr_15"></span>[1](#fn_15) their origin according
+Stonehenge," <span id="fr_15"></span>[1](#fn_15.md) their origin according
 to Prestwich.
 
 “Among the *Lower Tertiaries* (the Eocene of Sir Charles Lyell) are
@@ -288,7 +288,7 @@ Gowland:—
 
 “The large monoliths of the outer circle, and the trilithons of the
 horse-shoe are all sarsens. \[See general plan, [Fig.
-15](sac09.htm#img_fig15).\] These sarsens in their composition are
+15](sac09.htm#img_fig15.md).\] These sarsens in their composition are
 sandstones, consisting of quartz-sand, either fine or coarse,
 occasionally mixed with pebbles and angular bits of flint, all more or
 less firmly cemented together with silica. They are the relics of the
@@ -342,7 +342,7 @@ in lumps (p. 20); very few small chips of
 <span id="img_fig20"></span>
 
 [![FIG. 20.—Showing the careful tooling of the Sarsens.](tn/fig20.jpg)  
-Click to enlarge](img/fig20.jpg)  
+Click to enlarge](img/fig20.jpg.md)  
 FIG. 20.—Showing the careful tooling of the Sarsens.  
 
 sarsen were found (p. 42). Hence Prof. Gowland is of opinion that the
@@ -361,7 +361,7 @@ I take
 
 [![FIG. 21.—Face of rock against which a stone was made to
 rest.](tn/fig21.jpg)  
-Click to enlarge](img/fig21.jpg)  
+Click to enlarge](img/fig21.jpg.md)  
 FIG. 21.—Face of rock against which a stone was made to rest.  
 
 it for granted that the same method was employed throughout: the method
@@ -412,7 +412,7 @@ levers. A packing of logs would then be placed under
 
 [![FIG. 22.—The leaning stone upright before the struts were
 removed.](tn/fig22.jpg)  
-Click to enlarge](img/fig22.jpg)  
+Click to enlarge](img/fig22.jpg.md)  
 FIG. 22.—The leaning stone upright before the struts were removed.  
 
 the end so raised, the other extremity of the stone would be similarly
@@ -424,7 +424,7 @@ be continued
 <span id="img_fig23"></span>
 
 [![FIG. 23.—Stonehenge, 1905.](tn/fig23.jpg)  
-Click to enlarge](img/fig23.jpg)  
+Click to enlarge](img/fig23.jpg.md)  
 FIG. 23.—Stonehenge, 1905.  
 
 <span id="page_87">p. 87</span>
@@ -444,13 +444,13 @@ stones soon receive the same treatment.
 
 ### Footnotes
 
-<span id="fn_14"></span>[78:1](sac11.htm#fr_14) Sir Richard Colt Hoare,
+<span id="fn_14"></span>[78:1](sac11.htm#fr_14.md) Sir Richard Colt Hoare,
 *Ancient history of South Wiltshire*, p. 127. (London, 1812); W.
 Stukeley, *Stonehenge*, p. 46. (London, 1740).
 
-<span id="fn_15"></span>[79:1](sac11.htm#fr_15) Wilts. *Archaeological
+<span id="fn_15"></span>[79:1](sac11.htm#fr_15.md) Wilts. *Archaeological
 and Natural History Magazine*, xxi. pp. 141-149.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Was There an Earlier Circle?](sac12)
+[Next: Chapter IX. Was There an Earlier Circle?](sac12.md)

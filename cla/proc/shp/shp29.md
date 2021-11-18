@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Procopius](../index)  [Index](index)  [Previous](shp28)  [Next](shp30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Procopius](../index)  [Index](index)  [Previous](shp28)  [Next](shp30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -214,4 +214,4 @@ his inhumanity.
 ------------------------------------------------------------------------
 
 [Next: XXVII. How the Defender of the Faith Protected the Interests of
-the Christians](shp30)
+the Christians](shp30.md)

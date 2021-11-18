@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo11)  [Next](lboo13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo11)  [Next](lboo13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ vos quoque, crudeles rigido cum limine postes<br />
 ------------------------------------------------------------------------
 
 [Next: Elegy VII: He Curses Himself For Having Maltreated His
-Mistress.](lboo13)
+Mistress.](lboo13.md)

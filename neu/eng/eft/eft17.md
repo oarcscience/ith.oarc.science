@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft16)  [Next](eft18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft16)  [Next](eft18.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ beneath the ruins.
 
 ------------------------------------------------------------------------
 
-[Next: Jack and His Golden Snuff-Box](eft18)
+[Next: Jack and His Golden Snuff-Box](eft18.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb17)  [Next](lifb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb17)  [Next](lifb19.md) 
 
 </div>
 
@@ -91,6 +91,6 @@ Australian Folk Tale.
 
 ------------------------------------------------------------------------
 
-[Next: The Wonderful Tune](lifb19)
+[Next: The Wonderful Tune](lifb19.md)
 
 </div>

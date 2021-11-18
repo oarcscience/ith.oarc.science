@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh02)  [Next](lsbh04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh02)  [Next](lsbh04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Budge, \[1897\], at Intangible Textual Heritage
 
 ### Introduction
 
-John <span id="fr_0"></span>[1](#fn_0) Abu’l-Faraj or Abu’l-Faraj
+John <span id="fr_0"></span>[1](#fn_0.md) Abu’l-Faraj or Abu’l-Faraj
 Gregory, the author of the "Book of Laughable Stories" printed in the
 present volume, was the son of Aaron, a Jewish physician,<span
 class="margnote">Early life and education of Bar-Hebraeus.</span> who
@@ -48,7 +48,7 @@ by the Patriarch Ignatius III., Abbot of Gewîkhâth near Mopsuestia<span
 class="margnote">Becomes Maphrian of the Jacobite Church.</span>. The
 principal events which took place in connection with his ecclesiastical
 rule are described by Bar-Hebraeus himself in his *Ecclesiastical
-Chronicle* <span id="fr_1"></span>[1](#fn_1), to which work the reader
+Chronicle* <span id="fr_1"></span>[1](#fn_1.md), to which work the reader
 is referred for information about the busy and most useful life which
 this eminent man lived; the following account of his death we owe to his
 brother Bar-Ṣaumâ. In the year 1286, when Bar-Hebraeus had arrived at
@@ -59,13 +59,13 @@ were in conjunction in the sign of the Zodiac Aquarius; twenty years
 later when the same planets were in conjunction in the sign of the
 Balance I was consecrated bishop; twenty years later when the same
 planets were in conjunction in the sign of the Twins I was held to be
-worthy of the office of Maphrian <span id="fr_2"></span>[2](#fn_2): and
+worthy of the office of Maphrian <span id="fr_2"></span>[2](#fn_2.md): and
 twenty years later, when the same two planets shall again be in
 conjunction in the sign of Aquarius, I believe that I shall depart from
 this world." And he said, "O net of the worlds, in the year 1537
 (*i.e.*, A.D. 1226) thy mesh did catch me; but I believe that in the
 year 1597 (*i.e.*, A.D. 1286) I shall no longer be in thee <span
-id="fr_3"></span>[3](#fn_3)." Throughout that unlucky
+id="fr_3"></span>[3](#fn_3.md)." Throughout that unlucky
 
 <span id="page_xv">p. xv</span>
 
@@ -92,7 +92,7 @@ and arrived there in safety. Here he was treated with the
 greatest honour by men of every class, and the Arab nobles entreated him
 to translate his Chronicle<span class="margnote">He translates his
 Syriac Chronicle into Arabic.</span>, originally written in Syriac, into
-Arabic <span id="fr_4"></span>[1](#fn_4) so that they also might read
+Arabic <span id="fr_4"></span>[1](#fn_4.md) so that they also might read
 and enjoy it. To this he agreed, and he at once began to make the Arabic
 translation, using the most beautiful and classical language for the
 purpose; after working for a "month of days" he had finished the whole
@@ -142,7 +142,7 @@ to laugh with a smiling face, went out like a lamp, or I should rather
 say like a brilliant and splendid torch, and he departed<span
 class="margnote">He dies.</span> to his Lord on the night of the
 thirty-third day of Tammûz (July) in the year 1597," *i.e.*, A.D.
-1286 <span id="fr_5"></span>[1](#fn_5)<span class="margnote">Universal
+1286 <span id="fr_5"></span>[1](#fn_5.md)<span class="margnote">Universal
 manifestations of grief at his death.</span>
 
 When the Catholicus Mâr Yahbh Allâhâ, who was at that time in the city
@@ -166,7 +166,7 @@ Marâghah. Subsequently his body was removed to <span
 class="margnote">His body is removed to the Monastery of Mâr
 Mattai.</span> the Monastery of Mâr Mattai, which was built in the early
 centuries of the Christian era in the mountain called Alpep by ancient
-Syrian writers <span id="fr_6"></span>[1](#fn_6), and Jebel Maḳlûb by
+Syrian writers <span id="fr_6"></span>[1](#fn_6.md), and Jebel Maḳlûb by
 the Arabs, situated at a distance of a few hours to the north-east of
 Môṣul (Nineveh). Here in a niche in the north-west corner of the same
 chamber in which Mâr Mattai is buried, is the tomb of Bar-Hebraeus; the
@@ -174,7 +174,7 @@ Monastery is in the possession of the Jacobites, but it is sadly out of
 repair and most things of value have been plundered by Kurds, and only a
 few monks now live there. During the winter when the snow has fallen the
 Monastery is difficult of access, and even when there is no snow the
-path is steep and difficult <span id="fr_7"></span>[2](#fn_7).
+path is steep and difficult <span id="fr_7"></span>[2](#fn_7.md).
 
 <span id="page_xix">p. xix</span>
 
@@ -182,7 +182,7 @@ From the facts stated above it is evident that all the Christians in
 Mesopotamia and in the countries about deplored the loss of Bar-Hebraeus
 with sincere grief, and there is little doubt that he was the greatest
 writer whom the Syrian Church ever produced <span
-id="fr_8"></span>[1](#fn_8). <span class="margnote">Great learning of
+id="fr_8"></span>[1](#fn_8.md). <span class="margnote">Great learning of
 Bar-Hebraeus.</span>His knowledge of Greek and Arabic opened
 store-houses of learning which were closed to most of his
 fellow-countrymen, and his energy and general literary ability were
@@ -192,7 +192,7 @@ ready wit of his many-sided mind and his lucid style enabled him to
 adapt the knowledge of extraneous and difficult subjects to his own
 needs, and to express them simply but clearly for the advantage of his
 readers. This is no place to give a catalogue of his works <span
-id="fr_9"></span>[2](#fn_9), and it<span class="margnote">His untiring
+id="fr_9"></span>[2](#fn_9.md), and it<span class="margnote">His untiring
 energy.</span> must be sufficient to state that during the forty years
 which he passed in the service of his Church—eighteen years as bishop of
 various dioceses, and twenty-two years as Maphrian—he seems to have been
@@ -216,18 +216,18 @@ his grammatical works.
 The "Book of Laughable Stories"<span class="margnote">The Book of
 Laughable Stories.</span> which is edited and translated in the
 following pages, is a work which Bar-Hebraeus wrote in the late years of
-his life <span id="fr_10"></span>[1](#fn_10); it is called in Syriac
+his life <span id="fr_10"></span>[1](#fn_10.md); it is called in Syriac
 both "Book of Laughable Stories", \#\#\# <span
-id="fr_11"></span>[2](#fn_11), and "Book of Refreshing "Stories",
+id="fr_11"></span>[2](#fn_11.md), and "Book of Refreshing "Stories",
 \#\#\#. An Arabic version of this work was made by its author which was
 entitled *Daf‘ al Hamm*, \#\#\# or "The Driving away of Care" <span
-id="fr_12"></span>[3](#fn_12); manuscripts of both works are scarce. The
-first <span id="fr_13"></span>[4](#fn_13) to make any portion of the
+id="fr_12"></span>[3](#fn_12.md); manuscripts of both works are scarce. The
+first <span id="fr_13"></span>[4](#fn_13.md) to make any portion of the
 work known to scholars was Adler, who in his *Brevis linguae syr.
 institutio*, Altona, 1784, published eight of the stories, which were
-republished by Bernstein <span id="fr_14"></span>[5](#fn_14) and others.
+republished by Bernstein <span id="fr_14"></span>[5](#fn_14.md) and others.
 In 1886 Morales published the text of sixty of the stories, with a
-German translation <span id="fr_15"></span>[6](#fn_15) and vocabulary,
+German translation <span id="fr_15"></span>[6](#fn_15.md) and vocabulary,
 from the Vatican MS. No. CLXXIII. wherein the whole collection fills
 foll. 80-158; this MS. seems to date from the XIVth century of our era,
 but the last part of it was written by a later hand.
@@ -245,7 +245,7 @@ fine Nestorian hand, and vowels and diacritical points have been added
 abundantly; two handwritings are distinguishable in the MS. The
 "Laughable Stories" begin on fol. 351 *b*, col. 1, and end on fol. 413
 *b*, col. 2; they were copied by the famous Hômô <span
-id="fr_16"></span>[1](#fn_16), the son of Daniel the elder, of Al-ḳôsh,
+id="fr_16"></span>[1](#fn_16.md), the son of Daniel the elder, of Al-ḳôsh,
 A. Gr. 2024 = A.D. 1712-13. My own copy is quite modern, but it was made
 by a good scribe from an ancient manuscript; if only he had followed his
 instructions and copied all the stories instead of making a selection
@@ -274,7 +274,7 @@ wisdom therein, and the fool folly, and the pious piety, and the gay
 amusement, and the superstitious reasons for their superstitions.<span
 class="margnote">The miscellaneous character of the stories.</span> A
 certain number of the stories are coarse <span
-id="fr_17"></span>[1](#fn_17) and refer to matters which are not
+id="fr_17"></span>[1](#fn_17.md) and refer to matters which are not
 generally discussed in a book intended for popular reading, but the
 compiler excuses himself for the insertion of such by saying that as "in
 the tabernacle of wisdom every kind of thing is necessary, nothing
@@ -308,7 +308,7 @@ took from some work like that of Aḥmad ibn Muḥammad ibn Miskavaih (died
 A.H. 421 = A.D. 1030), who collected a number of precepts of the ancient
 sages of Persia, India, Arabia, and Greece<span class="margnote">The
 sources of the "Laughable Stories".</span>, which were translated into
-Persian by Taḳî Shushtarî <span id="fr_18"></span>[1](#fn_18), and it
+Persian by Taḳî Shushtarî <span id="fr_18"></span>[1](#fn_18.md), and it
 seems that he supplemented these from notes made during the course of
 his own studies. It is clear that in some cases he amplified his text,
 and that in others he modified and gave a different turn to the original
@@ -321,10 +321,10 @@ they may have been told in different ways. Thus in No. CCCLXXX
 scarabaeus is made to say to its mother, "Whithersoever I go men spit
 upon me," and its mother replies "It is because thy beauty and smell are
 pleasant." With this may be compared the Arabic proverb, "The beetle is
-a beauty in the eyes of its mother." <span id="fr_19"></span>[1](#fn_19)
+a beauty in the eyes of its mother." <span id="fr_19"></span>[1](#fn_19.md)
 Again in No. CCCLXXV we have the story of the ape of the mosque and the
 dog, but the turn given to the story therein is quite different from
-that of the Arabic version <span id="fr_20"></span>[2](#fn_20). We may
+that of the Arabic version <span id="fr_20"></span>[2](#fn_20.md). We may
 also notice in passing that stories told of one man by one author are
 told of some one quite different by Bar-Hebraeus. Thus in No. IV it is
 said that Socrates once saw a woman who had hanged herself, and that he
@@ -374,7 +374,7 @@ to the cell for the
 <span id="page_xxvi">p. xxvi</span>
 
 holy man a sheep-skin, which subsequently became the property of the
-blessed woman Melania <span id="fr_21"></span>[1](#fn_21). A comparison
+blessed woman Melania <span id="fr_21"></span>[1](#fn_21.md). A comparison
 of the other stories of the Christian recluses with the Syriac texts
 which I have given in the notes to them will shew that when Bar-Hebraeus
 found the facts briefly related in terse language he excerpted them
@@ -435,91 +435,91 @@ AMEN.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xiii:1](lsbh03.htm#fr_0) The chief facts of the
+<span id="fn_0"></span>[xiii:1](lsbh03.htm#fr_0.md) The chief facts of the
 life of Bar-Hebraeus are given by Assemânî, *Bibliotheca Orientalis*,
 ii. p. 244 f.; Bar-Hebraeus, *Chron. Eccles.*, ii. col. 431 ff.; and
 Wright, *Syriac Literature*, p. 265 ff.
 
-<span id="fn_1"></span>[xiv:1](lsbh03.htm#fr_1) Ed. Abbeloos and Lamy,
+<span id="fn_1"></span>[xiv:1](lsbh03.htm#fr_1.md) Ed. Abbeloos and Lamy,
 pt. ii. col. 431 ff.
 
-<span id="fn_2"></span>[xiv:2](lsbh03.htm#fr_2) In Syr., \#\#\#, *i.e.*,
+<span id="fn_2"></span>[xiv:2](lsbh03.htm#fr_2.md) In Syr., \#\#\#, *i.e.*,
 "He who maketh \[the Church\] to flourish."
 
-<span id="fn_3"></span>[xiv:3](lsbh03.htm#fr_3) The text of this curious
+<span id="fn_3"></span>[xiv:3](lsbh03.htm#fr_3.md) The text of this curious
 passage runs:—\#\#\# <span id="page_xv">p. xv</span> \#\#\#. See
 Assemânî, *B.O.*, ii. 263; *Chron. Eccles.*, ii. col. 467.
 
-<span id="fn_4"></span>[xvi:1](lsbh03.htm#fr_4) The first edition of
+<span id="fn_4"></span>[xvi:1](lsbh03.htm#fr_4.md) The first edition of
 this work was published at Oxford in 1663 tinder the title of "*Historic
 Compendiosa Dynastiarum*," ed. E. Pococke.
 
-<span id="fn_5"></span>[xvii:1](lsbh03.htm#fr_5) For the text see B. O.,
+<span id="fn_5"></span>[xvii:1](lsbh03.htm#fr_5.md) For the text see B. O.,
 ii. p. 264 f; and Chron. Eccles., ii col. 471 if.
 
-<span id="fn_6"></span>[xviii:1](lsbh03.htm#fr_6) See Hoffmann,
+<span id="fn_6"></span>[xviii:1](lsbh03.htm#fr_6.md) See Hoffmann,
 *Auszüge*, p. 19.
 
-<span id="fn_7"></span>[xviii:2](lsbh03.htm#fr_7) For a view of this
+<span id="fn_7"></span>[xviii:2](lsbh03.htm#fr_7.md) For a view of this
 Monastery see Badger, *The Nestorians*, vol. i. p. 97.
 
-<span id="fn_8"></span>[xix:1](lsbh03.htm#fr_8) See B. O., ii. p. 269
+<span id="fn_8"></span>[xix:1](lsbh03.htm#fr_8.md) See B. O., ii. p. 269
 ff.; Wright, *Syriac Literature*, p. 265 ff., 269 ff.
 
-<span id="fn_9"></span>[xix:2](lsbh03.htm#fr_9) Jedenfalls ist
+<span id="fn_9"></span>[xix:2](lsbh03.htm#fr_9.md) Jedenfalls ist
 Barhebraeus einer der hervorragendsten Männer seiner Kirche and seiner
 ganzen Nation. Noeldeke, *Orientalische Skizzen*, p. 273.
 
-<span id="fn_10"></span>[xx:1](lsbh03.htm#fr_10) Wright, *Syr. Lit.*, p.
+<span id="fn_10"></span>[xx:1](lsbh03.htm#fr_10.md) Wright, *Syr. Lit.*, p.
 280.
 
-<span id="fn_11"></span>[xx:2](lsbh03.htm#fr_11) Or \#\#\#; *Chron.
+<span id="fn_11"></span>[xx:2](lsbh03.htm#fr_11.md) Or \#\#\#; *Chron.
 Eccles.*, ii. col. 479; *B.O.*, ii. p. 271. No. 21, and p. 306.
 
-<span id="fn_12"></span>[xx:3](lsbh03.htm#fr_12) See Wright, *op. cit.*,
+<span id="fn_12"></span>[xx:3](lsbh03.htm#fr_12.md) See Wright, *op. cit.*,
 p. 281.
 
-<span id="fn_13"></span>[xx:4](lsbh03.htm#fr_13) Nestle in *Z.D.M.G.*,
+<span id="fn_13"></span>[xx:4](lsbh03.htm#fr_13.md) Nestle in *Z.D.M.G.*,
 Bd. xl. p. 410, note 1.
 
-<span id="fn_14"></span>[xx:5](lsbh03.htm#fr_14) See *Chrestomathia
+<span id="fn_14"></span>[xx:5](lsbh03.htm#fr_14.md) See *Chrestomathia
 Syriaca*, Leipzig, 1832, p. vi.
 
-<span id="fn_15"></span>[xx:6](lsbh03.htm#fr_15) See *Z.D.M.G.*, Bd. xl.
+<span id="fn_15"></span>[xx:6](lsbh03.htm#fr_15.md) See *Z.D.M.G.*, Bd. xl.
 pp. 410-456.
 
-<span id="fn_16"></span>[xxi:1](lsbh03.htm#fr_16) See Hoffmann,
+<span id="fn_16"></span>[xxi:1](lsbh03.htm#fr_16.md) See Hoffmann,
 *Opuscula Nestoriana*, pp. I and XXIII. When I was at Al-ḳôsh in
 November, 1890, I talked with two men who claimed descent from this
 famous Hômô.
 
-<span id="fn_17"></span>[xxii:1](lsbh03.htm#fr_17) *I.e.*, Nos. XXVI,
+<span id="fn_17"></span>[xxii:1](lsbh03.htm#fr_17.md) *I.e.*, Nos. XXVI,
 XXXVII, LX, CCCXXVII, CCCXXVIII, CCCCVII, CCCCVIII, CCCCIX, CCCCXI,
 CCCCXXXVII, DI, DV, DXX, DXXXVII, DXLV, DLXIII, DLXX, DLXXIV, DLXXXI,
 DCXXXV, DCXXXVII, &c.
 
-<span id="fn_18"></span>[xxiii:1](lsbh03.htm#fr_18) See Brit. Mus. MS.
+<span id="fn_18"></span>[xxiii:1](lsbh03.htm#fr_18.md) See Brit. Mus. MS.
 Orient. No. 457, of the Jâvidân Khirad which, *inter alia*, contains the
 Precepts of Buzurjmehr (fol. 20 *a*), the Maxims of the Sages of India
 (fol. 59 *a*), the Proverbs of the Arabs (fol. 111 *b*), and the
 Proverbs of the Greek Sages (fol. 119 *a*). See Rieu, *Catalogue of the
 Persian MSS. in the British Museum*, p. 441 *a*.
 
-<span id="fn_19"></span>[xxiv:1](lsbh03.htm#fr_19) \#\#\# Burckhardt,
+<span id="fn_19"></span>[xxiv:1](lsbh03.htm#fr_19.md) \#\#\# Burckhardt,
 *Arabic Proverbs*, No. 60. p. 16.
 
-<span id="fn_20"></span>[xxiv:2](lsbh03.htm#fr_20) They met a monkey
+<span id="fn_20"></span>[xxiv:2](lsbh03.htm#fr_20.md) They met a monkey
 defiling a mosque. "Dost thou not fear," said they, "that the Lord will
 transform thee?" He replied, "Yes, if He should make me a gazelle."
 \#\#\#, See Burckhardt, Arabic Proverbs, No. 132. p. 35.
 
-<span id="fn_21"></span>[xxvi:1](lsbh03.htm#fr_21) For the text see
+<span id="fn_21"></span>[xxvi:1](lsbh03.htm#fr_21.md) For the text see
 *infra*, pp. 49, 50.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](lsbh04)
+[Next: Introduction](lsbh04.md)
 
 </div>

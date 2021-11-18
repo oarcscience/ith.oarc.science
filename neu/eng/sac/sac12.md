@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac11)  [Next](sac13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac11)  [Next](sac13.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,11 +46,11 @@ top of the vallum. The centre of the
 [![FIG. 24.—Map of the Stones made by the Ordnance Survey. A, N.W.
 stone; B, S.E. stone; C, Friars Heel; D, Slaughter
 stone.](tn/fig24.jpg)  
-Click to enlarge](img/fig24.jpg)  
+Click to enlarge](img/fig24.jpg.md)  
 FIG. 24.—Map of the Stones made by the Ordnance Survey. A, N.W. stone;
 B, S.E. stone; C, Friars Heel; D, Slaughter stone.  
 
- <span id="fr_16"></span>[1](#fn_16)
+ <span id="fr_16"></span>[1](#fn_16.md)
 
 line joining the stones is therefore about 4 feet to the S.E. of the
 axis of the present circles, which, it may be
@@ -58,7 +58,7 @@ axis of the present circles, which, it may be
 <span id="page_90">p. 90</span>
 
 stated, passes 3 feet to the N.W. of the N.W. edge of the Friar's Heel
-(see [Fig. 24](#img_fig24)).
+(see [Fig. 24](#img_fig24).md).
 
 There are besides these two large untrimmed sarsen stones, one standing
 some distance outside the vallum, one recumbent lying on the vallum;
@@ -172,7 +172,7 @@ suggesting that the four untrimmed sarsen stones provided alignments
 both for the May and June years at about that date.
 
 Nor is this all; the so-called tumuli within the vallum ([Fig.
-10](sac08.htm#img_fig10)) may have been observation mounds, for the
+10](sac08.htm#img_fig10).md) may have been observation mounds, for the
 lines passing from the northern tumulus over the N.W. stone and from the
 southern tumulus over the S.E. one are parallel to the avenue, and
 therefore represent the solstitial orientation.
@@ -197,7 +197,7 @@ common axis of the present circle and avenue. It is seen that the
 Friar's Heel, the top of which is shown in the distance, would hide the
 sunrise place if the axis were a little further to the
 S.E.](tn/fig25.jpg)  
-Click to enlarge](img/fig25.jpg)  
+Click to enlarge](img/fig25.jpg.md)  
 Fig. 25.—The rod on the recumbent stone is placed in and along the
 common axis of the present circle and avenue. It is seen that the
 Friar's Heel, the top of which is shown in the distance, would hide the
@@ -234,10 +234,10 @@ worship in connection with the May year.
 
 ### Footnotes
 
-<span id="fn_16"></span>[89:1](sac12.htm#fr_16) Plans and photographs of
+<span id="fn_16"></span>[89:1](sac12.htm#fr_16.md) Plans and photographs of
 Stonehenge, &c., by Colonel Sir Henry James, R.E., F.R.S.,
 Director-General of the Ordnance Survey, 1867.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The May and June Worships in Brittany](sac13)
+[Next: Chapter X. The May and June Worships in Brittany](sac13.md)

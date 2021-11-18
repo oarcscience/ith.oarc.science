@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)   
-[Finnish](../kvfin/39)   
-[Previous](kvrune38)  [Next](kvrune40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index.md)   
+[Finnish](../kvfin/39.md)   
+[Previous](kvrune38)  [Next](kvrune40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Kalevala*, by John Martin Crawford, \[1888\], at Intangible Textual
 Heritage
 
@@ -447,4 +447,4 @@ May not harm my ship of magic."
 
 ------------------------------------------------------------------------
 
-[Next: Rune XL. Birth of the Harp.](kvrune40)
+[Next: Rune XL. Birth of the Harp.](kvrune40.md)

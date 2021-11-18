@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Esoteric](../../index) 
-[Eliphas Levi](../index)  [Index](index)  [Next](phs01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Esoteric](../../index.md) 
+[Eliphas Levi](../index)  [Index](index)  [Next](phs01.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Contents](phs01)
+[Next: Contents](phs01.md)

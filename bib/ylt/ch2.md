@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](ch1)  [Next](ezr) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](ch1)  [Next](ezr.md) 
 
 ------------------------------------------------------------------------
 
@@ -3578,4 +3578,4 @@ He hath laid a charge on me to build to Him a house in Jerusalem, that
 
 ------------------------------------------------------------------------
 
-[Next: Ezra](ezr)
+[Next: Ezra](ezr.md)

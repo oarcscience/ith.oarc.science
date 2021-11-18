@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc08)  [Next](mlc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc08)  [Next](mlc10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -62,7 +62,7 @@ other: “a horned dragon,” for example, “in a thousand years changes to a
 flying dragon.”
 
 <span id="img_p208"></span> <span align="CENTER"> [![](tn/p208.jpg)  
-Click to enlarge](img/p208.jpg)</span>  
+Click to enlarge](img/p208.jpg.md)</span>  
 Dragon-gods
 
 The dragon is also represented as the father of the great emperors of
@@ -295,7 +295,7 @@ id="page_217">p. 217</span> Tao-ling took his sword and stuck it in the
 ground, whereupon a well full of salt water appeared on the spot.
 
 <span id="img_p216"></span> <span align="CENTER"> [![](tn/p216.jpg)  
-Click to enlarge](img/p216.jpg)</span>  
+Click to enlarge](img/p216.jpg.md)</span>  
 Spirit of the Well
 
 ## The Spirits of the Well
@@ -437,7 +437,7 @@ was methodically organized.
 
 ## The Magic Vermicelli
 
-Sun Hou-tzŭ, the Monkey Sun,  <span id="fr_24"></span>[1](#fn_24) the
+Sun Hou-tzŭ, the Monkey Sun,  <span id="fr_24"></span>[1](#fn_24.md) the
 rapid courier, who in a single skip could traverse 108,000 *li* (36,000
 miles), started in pursuit and caught her up, but the astute goddess was
 clever enough to slip through his fingers. Sun Hou-tzŭ, furious at this
@@ -681,7 +681,7 @@ what instructions it contained; taking out the first paper which came to
 hand, he read the following:
 
 “When you reach Pei-p’ing Fu you must build a city there and name it
-No-cha Ch’êng, the City of No-cha.  <span id="fr_25"></span>[2](#fn_25)
+No-cha Ch’êng, the City of No-cha.  <span id="fr_25"></span>[2](#fn_25.md)
 But, as the work will be costly, you must issue a proclamation inviting
 the wealthy to subscribe the necessary <span id="page_230">p.
 230</span> funds for building it. At the back of this paper is a plan of
@@ -851,7 +851,7 @@ Peking has never had the misfortune to be without water.
 
 The pagoda is called the Pagoda on the Hill of the Imperial Spring (Yü
 Ch’üan Shan T’a; more commonly Chên-shui T’a, ‘Water-repressing
-Pagoda’).  <span id="fr_26"></span>[3](#fn_26) The spring is still
+Pagoda’).  <span id="fr_26"></span>[3](#fn_26.md) The spring is still
 there, and day and night, unceasingly, its clear waters bubble up and
 flow eastward to Peking, which would now be a barren wilderness but for
 Yen Wang’s pursuit of the water. <span id="page_236">p. 236</span>
@@ -860,11 +860,11 @@ Yen Wang’s pursuit of the water. <span id="page_236">p. 236</span>
 
 ### Footnotes
 
-<span id="fn_24"></span>[236:1](mlc09.htm#fr_24) See Chapter XIV.
+<span id="fn_24"></span>[236:1](mlc09.htm#fr_24.md) See Chapter XIV.
 
-<span id="fn_25"></span>[236:2](mlc09.htm#fr_25) See Chapter XII.
+<span id="fn_25"></span>[236:2](mlc09.htm#fr_25.md) See Chapter XII.
 
-<span id="fn_26"></span>[236:3](mlc09.htm#fr_26) This pagoda is distant
+<span id="fn_26"></span>[236:3](mlc09.htm#fr_26.md) This pagoda is distant
 about twenty *li* (seven miles) from Peking. It is on the top of the
 hill, while the spring is at the foot, half a *li* distant. The imperial
 family used the water from this spring, whence it was carried to Peking
@@ -874,6 +874,6 @@ in carts.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Myths of Fire](mlc10)
+[Next: Chapter VIII. Myths of Fire](mlc10.md)
 
 </div>

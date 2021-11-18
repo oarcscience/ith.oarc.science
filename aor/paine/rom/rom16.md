@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Thomas Paine](../index)  [Index](index) 
-[Previous](rom15)  [Next](rom17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Thomas Paine](../index)  [Index](index.md) 
+[Previous](rom15)  [Next](rom17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -2224,4 +2224,4 @@ happiness to all nations, I close the Second Part.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](rom17)
+[Next: Appendix](rom17.md)

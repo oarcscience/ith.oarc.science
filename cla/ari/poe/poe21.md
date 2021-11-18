@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe20)  [Next](poe22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe20)  [Next](poe22.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ the unity of the thing signified.\]
 
 ------------------------------------------------------------------------
 
-[Next: XXI. Poetic Diction.](poe22)
+[Next: XXI. Poetic Diction.](poe22.md)

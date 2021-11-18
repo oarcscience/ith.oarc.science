@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Next](aec01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Next](aec01.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,15 +37,15 @@ intact in all copies.
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 ------------------------------------------------------------------------
 
-[Next: Author's Dedication and Front Matter](aec01)
+[Next: Author's Dedication and Front Matter](aec01.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste42)  [Next](ste44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste42)  [Next](ste44.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ latter being more proper to the subject of our Saviour's discourse, ’tis
 more likely this expression refers to it. Give me leave therefore to set
 down that description of the Glory of the Father upon his Throne, from
 the Prophet *Daniel*, ch. 7, 9. *And I beheld till the Thrones were
- <span id="fr_15"></span>[1](#fn_15)set, and the Ancient of days did
+ <span id="fr_15"></span>[1](#fn_15.md)set, and the Ancient of days did
 sit, whose garment was white as snow, and the hair of his head like the
 pure wool: His throne was like the fiery flame, and his wheels as
 burning fire. A fiery stream issued and came forth from before him,
@@ -435,9 +435,9 @@ and true are thy ways, Thou King of Saints*. Hallelujah.
 
 ### Footnotes
 
-<span id="fn_15"></span>[300:1](ste43.htm#fr_15) ’Tis ill render’d in
+<span id="fn_15"></span>[300:1](ste43.htm#fr_15.md) ’Tis ill render’d in
 the English, *cast down*.
 
 ------------------------------------------------------------------------
 
-[Next: The Conclusion](ste44)
+[Next: The Conclusion](ste44.md)

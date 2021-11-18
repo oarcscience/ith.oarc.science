@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh24)  [Next](ehh26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh24)  [Next](ehh26.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ friends of AFU-RA.
  
 
 <span id="img_18400"></span> [![](tn/generic.jpg)  
-Click to view](img/18400.jpg)  
+Click to view](img/18400.jpg.md)  
 The Apes working the net.
 
  
@@ -139,4 +139,4 @@ by reciting words of power for him.
 ------------------------------------------------------------------------
 
 [Next: Tenth Division of the Tuat. II. Kingdom of Temu-Khepera-Ra
-According to the Book of Gates](ehh26)
+According to the Book of Gates](ehh26.md)

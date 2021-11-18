@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb00)  [Next](olb02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb00)  [Next](olb02.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -81,4 +81,4 @@ they do not offend our ideas of possibility or even probability."
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](olb02)
+[Next: Introduction](olb02.md)

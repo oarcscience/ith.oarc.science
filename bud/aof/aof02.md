@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](aof01)  [Next](aof03) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](aof01)  [Next](aof03.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ Perpetuating God!
 
 ------------------------------------------------------------------------
 
-[Next: 1. Reasons for Writing the Book](aof03)
+[Next: 1. Reasons for Writing the Book](aof03.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/091205719X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/091205719X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ the (odd numbered) facing page, has been collated with the English
 translation; this is why there are only even numbered page numbers in
 the body of the etext. Viewing the Hebrew text requires that your
 browser be set up correctly to view Unicode: for more information,
-please refer to [the Unicode instruction page](../../unicode). In
+please refer to [the Unicode instruction page](../../unicode.md). In
 particular, please follow the instructions on that page before firing
 off an email to me that the file is defective: it isn't, if you can't
 see the Hebrew text, *the problem is your browser*.
@@ -46,13 +46,13 @@ original, particularly the Hebrew in body text.
 
 ------------------------------------------------------------------------
 
-[Title Page](sy00)  
-[Preface](sy01)  
-[Chapter I](sy02)  
-[Chapter II](sy03)  
-[Chapter III](sy04)  
-[Chapter IV](sy05)  
-[Chapter V](sy06)  
-[Chapter VI.](sy07)  
-[Notes](sy08)  
-[Glossary of Rabbinical Words](sy09)  
+[Title Page](sy00.md)  
+[Preface](sy01.md)  
+[Chapter I](sy02.md)  
+[Chapter II](sy03.md)  
+[Chapter III](sy04.md)  
+[Chapter IV](sy05.md)  
+[Chapter V](sy06.md)  
+[Chapter VI.](sy07.md)  
+[Notes](sy08.md)  
+[Glossary of Rabbinical Words](sy09.md)  

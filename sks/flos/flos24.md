@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos23)  [Next](flos25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos23)  [Next](flos25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ legible or illegible characters
 <span id="page_475">p. 475</span>
 
 in fact, of anything to which any superstitious property has been
-considered to belong." <span id="fr_944"></span>[1](#fn_941) This form
+considered to belong." <span id="fr_944"></span>[1](#fn_941.md) This form
 of superstition is noticed in I Henry VI. (v. 3) in the scene laid at
 Angiers where La Pucelle exclaims—
 
@@ -70,7 +70,7 @@ Angiers where La Pucelle exclaims—
 </div>
 
 —periapts being charms which were worn as preservatives against diseases
-or mischief. Thus Cotgrave <span id="fr_945"></span>[2](#fn_942)
+or mischief. Thus Cotgrave <span id="fr_945"></span>[2](#fn_942.md)
 explains the word as "a medicine hanged about any part of the bodie."
 
    *Ceremonies*.—These, says Malone, were "omens or signs deduced from
@@ -95,7 +95,7 @@ And in the next scene Calpurnia adds—
 </div>
 
    *Charms*.—These, as Mr Pettigrew <span
-id="fr_946"></span>[3](#fn_943) has pointed out, differ little from
+id="fr_946"></span>[3](#fn_943.md) has pointed out, differ little from
 amulets, the difference consisting in the manner in which they are used
 rather than in their nature. Thus, whereas the amulet was to be
 suspended on the person when employed, the charm was not necessarily
@@ -194,7 +194,7 @@ Or else our spell is marr’d."</span>
 might be taken away by metrical charms. Reginald Scot, in his "Discovery
 of Witchcraft" (1584), says—"The Irishmen addict themselves, &c.; yea,
 they will not sticke to affirme that they can *rime* a man to
-death." <span id="fr_947"></span>[1](#fn_944)\* In "1 Henry VI." (i. 1),
+death." <span id="fr_947"></span>[1](#fn_944)\* In "1 Henry VI." (i. 1.md),
 the Duke of Exeter, referring to the lamented death of Henry V., says—
 
 <div style="margin-left: 32px">
@@ -247,14 +247,14 @@ It is chiefly as precursors of misfortune that the poet has availed
 himself of their supposed influence as omens of future fate. Thus, there
 are few passages in his dramas more terrific than the dreams of Richard
 the Third and Clarence; the latter especially, as Mr Drake says, <span
-id="fr_948"></span>[2](#fn_945) "is replete with the
+id="fr_948"></span>[2](#fn_945.md) "is replete with the
 
 <span id="page_478">p. 478</span>
 
 most fearful imagery, and makes the blood run chill with horror."
 
    Dreaming of certain things has generally been supposed to be ominous
-either of good or ill-luck; <span id="fr_949"></span>[1](#fn_946) and at
+either of good or ill-luck; <span id="fr_949"></span>[1](#fn_946.md) and at
 the present day the credulous pay oftentimes no small attention to their
 dreams, should these happen to have referred to what they consider
 unlucky things. In the same way Shylock, in the "Merchant of Venice"
@@ -272,21 +272,21 @@ For I did dream of money-bags to-night."</span>
 In "Julius Cæsar" dreaming of banquet is supposed to presage misfortune.
 
    It was also supposed that malicious spirits took advantage of sleep
-to torment their victims; <span id="fr_950"></span>[2](#fn_947) hence
+to torment their victims; <span id="fr_950"></span>[2](#fn_947.md) hence
 Macbeth (ii. 1), exclaims—
 
 <div style="margin-left: 32px">
 
 <span class="small">                          "Merciful powers,  
 Restrain in me the cursed thoughts that nature  
-Gives way to in repose!" <span id="fr_951"></span>[3](#fn_948)</span>
+Gives way to in repose!" <span id="fr_951"></span>[3](#fn_948.md)</span>
 
 </div>
 
    *Duels*.—The death of the vanquished person was always considered a
 certain evidence of his guilt. Thus in "2 Henry VI." (ii. 3), King Henry
 speaking of the death of Horner in the duel with Peter, says— <span
-id="fr_952"></span>[4](#fn_949)
+id="fr_952"></span>[4](#fn_949.md)
 
 <div style="margin-left: 32px">
 
@@ -318,7 +318,7 @@ and the sword, as those of inferior rank fought with an ebon staff or
 batoon, to the farther end of which was fixed a bag crammed hard with
 sand. Thus Shakespeare, in "2 Henry VI." (ii. 3), represents Horner
 entering "bearing his staff with a sand-bag fastened to it." <span
-id="fr_953"></span>[1](#fn_950)\* Butler, in his "Hudibras," alludes to
+id="fr_953"></span>[1](#fn_950.md)\* Butler, in his "Hudibras," alludes to
 this custom—
 
 <div style="margin-left: 32px">
@@ -358,13 +358,13 @@ Which shows me many more."</span>
 
 </div>
 
-   Spenser <span id="fr_954"></span>[2](#fn_951) has given a
+   Spenser <span id="fr_954"></span>[2](#fn_951.md) has given a
 circumstantial account of the glass which Merlin made for King Ryence. A
 mirror of the same kind was presented to Cambuslan, in the "Squire's
 Tale" of Chaucer; and we are also told how "a certain philosopher did
 the like to Pompey, the which showed him in a glass the order of his
-enemies’ march." <span id="fr_955"></span>[3](#fn_952) Brand, in his
-"Popular Antiquities," <span id="fr_956"></span>[4](#fn_953) gives
+enemies’ march." <span id="fr_955"></span>[3](#fn_952.md) Brand, in his
+"Popular Antiquities," <span id="fr_956"></span>[4](#fn_953.md) gives
 several interesting accounts of this method of fortune-telling; and
 quotes the following from Vallancey's "Collectanea de Rebus
 Hibernicis:"—"In the Highlands of Scotland, a large chrystal, of a
@@ -394,7 +394,7 @@ In "Antony and Cleopatra" (iv. 12), the Roman complains that Cleopatra—
    *Giants*.—The belief in giants and other monsters was much credited
 in olden times, and, "amongst the legends of nearly every race or tribe,
 few are more universal than those relating to giants or men of colossal
-size and superhuman power." <span id="fr_957"></span>[1](#fn_954) That
+size and superhuman power." <span id="fr_957"></span>[1](#fn_954.md) That
 such stories were current in Shakespeare's day, is attested by the fact
 that the poet makes Othello (i. 3), in his eloquent defence before the
 Senate of Venice, when explaining his method of courtship, allude to—
@@ -436,7 +436,7 @@ quote the following. In "2 Henry VI." (ii. 3), Horner
 <span id="page_481">p. 481</span>
 
 says—"Peter, have at thee with a downright blow, \[as Bevis of
-Southampton fell upon Ascapart\]." <span id="fr_958"></span>[1](#fn_955)
+Southampton fell upon Ascapart\]." <span id="fr_958"></span>[1](#fn_955.md)
 
    Ascapart, according to the legend, was "ful thyrty fote longe," and
 was conquered by Sir Bevis of Southampton.
@@ -457,7 +457,7 @@ Good morrow to the sun."</span>
 <div style="margin-left: 32px">
 
 <span class="small">"I had rather be a giantess, and lie under Mount
-Pelion." <span id="fr_959"></span>[2](#fn_956)</span>
+Pelion." <span id="fr_959"></span>[2](#fn_956.md)</span>
 
 </div>
 
@@ -512,7 +512,7 @@ unfavourable are enumerated, allusion to which occurs in Webster's
 
    At the present day this superstition still retains its hold on the
 popular mind, and in the transactions of life exerts an important
-influence. <span id="fr_960"></span>[1](#fn_957)\*
+influence. <span id="fr_960"></span>[1](#fn_957.md)\*
 
    *Magic*.—The system of magic which holds such a prominent place in
 the "Tempest" was formerly an article in the popular creed, and as such
@@ -635,7 +635,7 @@ This prophecy Merlin shall make; for I live before his time."</span>
 
    This witty satire was probably against the prophecies attributed to
 Merlin, which were then prevalent among the people. <span
-id="fr_961"></span>[1](#fn_958)
+id="fr_961"></span>[1](#fn_958.md)
 
    Formerly, too, prophecies of apparent impossibilities were common in
 Scotland; such as the removal of one place to another. So in "Macbeth"
@@ -661,7 +661,7 @@ death-watch; the chattering of pies; wild neighing of horses; blood
 dropping from the nose; winding sheets; strange and fearful noises,
 &c.," many of which Shakespeare has used, introducing them as the
 precursors of murder, sudden death, disasters, and superhuman
-events. <span id="fr_962"></span>[2](#fn_959) Thus in "King Richard II."
+events. <span id="fr_962"></span>[2](#fn_959.md) Thus in "King Richard II."
 (ii. 4), the following prodigies are selected as the forerunners of the
 death or fall of kings
 
@@ -754,7 +754,7 @@ continues\]</span>  And yet dark night strangles the travelling lamp:
 authority of monarchs is but a remnant of the long supposed "divine
 right" of kings to govern, which resulted from a conviction that they
 could trace their pedigrees back to the deities themselves. <span
-id="fr_963"></span>[1](#fn_960) Thus Shakespeare even puts into the
+id="fr_963"></span>[1](#fn_960.md) Thus Shakespeare even puts into the
 mouth of the murderer and usurper Claudius, King of Denmark, the
 following sentence:—
 
@@ -776,7 +776,7 @@ his power and authority.
    *Sympathetic Indications*.—According to a very old tradition, the
 wounds of a murdered person were supposed to bleed afresh at the
 approach or touch of the murderer. This effect, though impossible,
-remarks Nares, <span id="fr_964"></span>[2](#fn_961) except it were by
+remarks Nares, <span id="fr_964"></span>[2](#fn_961.md) except it were by
 miracle, was firmly believed, and almost universally, for a very long
 period. Poets, therefore, were fully justified in their use of it. Thus
 Shakespeare in "King Richard III." (i. 2) makes Lady Anne, speaking of
@@ -805,7 +805,7 @@ the Second's death his son Richard came to view the body—"Quo
 superveniente, confestim erupit sanguis ex naribus regis mortui; ac si
 indignaretur spiritus in adventu ejus, qui ejusdem mortis causa esse
 credebatur, ut videretur sanguis clamare ad Deum." <span
-id="fr_965"></span>[1](#fn_962) In the "Athenian Oracle" (i. 106), this
+id="fr_965"></span>[1](#fn_962) In the "Athenian Oracle" (i. 106.md), this
 supposed phenomenon is thus accounted for—"The blood is congealed in the
 body for two or three days, and then becomes liquid again, in its
 tendency to corruption. The air being heated by many persons coming
@@ -822,7 +822,7 @@ murderer." It is spoken of also in a note to Chap. V. of the "Fair Maid
 of Perth," that this bleeding of a corpse was urged as an evidence of
 guilt in the High Court of Justiciary at Edinburgh as late as the year
 1668. An interesting survival of this curious notion exists in Durham,
-where, says Mr Henderson, <span id="fr_966"></span>[2](#fn_963)
+where, says Mr Henderson, <span id="fr_966"></span>[2](#fn_963.md)
 "touching of the corpse by those who come to look at it is still
 expected by the poor on the part of those who come to their house while
 a dead body is lying in it, in token that they wished no ill to the
@@ -862,81 +862,81 @@ laboured into pathos by dwelling on this phenomenon."
 
 ### Footnotes
 
-<span id="fn_941"></span>[475:1](flos24.htm#fr_944) Pettigrew's "Medical
+<span id="fn_941"></span>[475:1](flos24.htm#fr_944.md) Pettigrew's "Medical
 Superstitions," p. 48.
 
-<span id="fn_942"></span>[475:2](flos24.htm#fr_945) "French and English
+<span id="fn_942"></span>[475:2](flos24.htm#fr_945.md) "French and English
 Dictionary;" see Dyce's "Glossary to Shakespeare," p. 316; Nares
 describes it as "a bandage, tied on for magical purposes, from
 περιάπτω;" see Brand's "Pop. Antiq.," 1849, iii. pp. 324–326; Douce's
 "Illustrations of Shakspeare," 1839, pp. 305–307.
 
-<span id="fn_943"></span>[475:3](flos24.htm#fr_946) "Medical
+<span id="fn_943"></span>[475:3](flos24.htm#fr_946.md) "Medical
 Superstitions," p. 55.
 
-<span id="fn_944"></span>[477:1](flos24.htm#fr_947) See under *rat* a
+<span id="fn_944"></span>[477:1](flos24.htm#fr_947.md) See under *rat* a
 similar superstition noticed.
 
-<span id="fn_945"></span>[477:2](flos24.htm#fr_948) "Shakspeare and his
+<span id="fn_945"></span>[477:2](flos24.htm#fr_948.md) "Shakspeare and his
 Times," p. 355.
 
-<span id="fn_946"></span>[478:1](flos24.htm#fr_949) See Brand's "Pop.
+<span id="fn_946"></span>[478:1](flos24.htm#fr_949.md) See Brand's "Pop.
 Antiq.," 1849, iii. pp. 127–141.
 
-<span id="fn_947"></span>[478:2](flos24.htm#fr_950) See p. 266.
+<span id="fn_947"></span>[478:2](flos24.htm#fr_950.md) See p. 266.
 
-<span id="fn_948"></span>[478:3](flos24.htm#fr_951) See Malone's
+<span id="fn_948"></span>[478:3](flos24.htm#fr_951.md) See Malone's
 "Variorum Shakespeare," 1821, ii. p. 90.
 
-<span id="fn_949"></span>[478:4](flos24.htm#fr_952) See Singer's
+<span id="fn_949"></span>[478:4](flos24.htm#fr_952.md) See Singer's
 "Shakespeare," vi. p. 167.
 
-<span id="fn_950"></span>[479:1](flos24.htm#fr_953) See Nares’
+<span id="fn_950"></span>[479:1](flos24.htm#fr_953.md) See Nares’
 "Glossary," ii., p. 765.
 
-<span id="fn_951"></span>[479:2](flos24.htm#fr_954) "Faerie Queene," bk.
+<span id="fn_951"></span>[479:2](flos24.htm#fr_954.md) "Faerie Queene," bk.
 iii., c. 2; See Singer's "Shakespeare," ix. p. 82
 
-<span id="fn_952"></span>[479:3](flos24.htm#fr_955) Boisteau's "Theatrum
+<span id="fn_952"></span>[479:3](flos24.htm#fr_955.md) Boisteau's "Theatrum
 Mundi," translated by John Alday (1574).
 
-<span id="fn_953"></span>[479:4](flos24.htm#fr_956) 1849, iii., pp. 60,
+<span id="fn_953"></span>[479:4](flos24.htm#fr_956.md) 1849, iii., pp. 60,
 61.
 
-<span id="fn_954"></span>[480:1](flos24.htm#fr_957) See Hardwick's
+<span id="fn_954"></span>[480:1](flos24.htm#fr_957.md) See Hardwick's
 "Traditions, Superstitions, and Folk-Lore," 1872, pp. 197, 224.
 
-<span id="fn_955"></span>[481:1](flos24.htm#fr_958) The addition in
+<span id="fn_955"></span>[481:1](flos24.htm#fr_958.md) The addition in
 brackets is rejected by the Editors of the Globe Edition.
 
-<span id="fn_956"></span>[481:2](flos24.htm#fr_959) Cf. "Measure for
+<span id="fn_956"></span>[481:2](flos24.htm#fr_959.md) Cf. "Measure for
 Measure," ii. 2, iii. 1; "Much Ado About Nothing," v. 1; "Love's
 Labour's Lost," iii. 1.
 
-<span id="fn_957"></span>[482:1](flos24.htm#fr_960) See Brand's "Popular
+<span id="fn_957"></span>[482:1](flos24.htm#fr_960.md) See Brand's "Popular
 Antiquities," 1879, i. pp. 44–51; Jones's "Credulities Past and
 Present," pp. 493–507; Hampson's "Œvi Medii Kalendarium," i. p. 210; see
 an Article on "Day Fatality" in John Aubrey's "Miscellanies."
 
-<span id="fn_958"></span>[484:1](flos24.htm#fr_961) See Kelly's "Notices
+<span id="fn_958"></span>[484:1](flos24.htm#fr_961.md) See Kelly's "Notices
 illustrative of the Drama and other Amusements at Leicester," 1865, pp.
 116, 118.
 
-<span id="fn_959"></span>[484:2](flos24.htm#fr_962) Drake's "Shakspeare
+<span id="fn_959"></span>[484:2](flos24.htm#fr_962.md) Drake's "Shakspeare
 and his Times," p. 352.
 
-<span id="fn_960"></span>[486:1](flos24.htm#fr_963) "Traditions,
+<span id="fn_960"></span>[486:1](flos24.htm#fr_963.md) "Traditions,
 Superstitions, and Folk-Lore," p. 81.
 
-<span id="fn_961"></span>[486:2](flos24.htm#fr_964) "Glossary," ii. p.
+<span id="fn_961"></span>[486:2](flos24.htm#fr_964.md) "Glossary," ii. p.
 974.
 
-<span id="fn_962"></span>[487:1](flos24.htm#fr_965) See Brand's "Pop.
+<span id="fn_962"></span>[487:1](flos24.htm#fr_965.md) See Brand's "Pop.
 Antiq.," 1849, iii. pp. 229–231.
 
-<span id="fn_963"></span>[487:2](flos24.htm#fr_966) "Folk-Lore of
+<span id="fn_963"></span>[487:2](flos24.htm#fr_966.md) "Folk-Lore of
 Northern Counties," 2849, p. 57.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII. Miscellaneous Customs, etc.](flos25)
+[Next: Chapter XXIII. Miscellaneous Customs, etc.](flos25.md)

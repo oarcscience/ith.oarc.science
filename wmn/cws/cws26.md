@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws25)  [Next](cws27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws25)  [Next](cws27.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XXII
 
-#### CONCERNING THE "WORK OF POWER" <span id="fr_100"></span>[2](#fn_100)
+#### CONCERNING THE "WORK OF POWER" <span id="fr_100"></span>[2](#fn_100.md)
 
 YOU have asked me if the Work of Power is a difficult one, and if it is
 open to all.
@@ -43,7 +43,7 @@ burn, then you have the remedy in your own hands, and the remedy is a
 hard and a sharp one, and a terrible ordeal. Nevertheless, be not
 afraid. Deny the five senses, and above all the taste and the touch. The
 power is within you if you will to attain it. The Two Seats are vacant
-at the Celestial Table, <span id="fr_101"></span>[1](#fn_101) if you
+at the Celestial Table, <span id="fr_101"></span>[1](#fn_101.md) if you
 will put on Christ. Eat no dead thing. Drink no fermented drink. Make
 living elements of all the elements of your body. Mortify the members of
 earth. Take your food full of life, and let not the touch of death pass
@@ -119,16 +119,16 @@ ensues.
 
 ### Footnotes
 
-<span id="fn_100"></span>[60:2](cws26.htm#fr_100) London, December 1880.
+<span id="fn_100"></span>[60:2](cws26.htm#fr_100.md) London, December 1880.
 Received in sleep. This chapter "refers to souls so far advanced as to
 have well-nigh done with materiality and to no longer need the lessons
 of earth-life" (Letter, dated August 8 1890, from E. M. to Mrs T.). See
 *Life of Anna Kingsford*, vol. i, pp. 408-410.    S. H. H.
 
-<span id="fn_101"></span>[61:1](cws26.htm#fr_101) See No. XVIII,
+<span id="fn_101"></span>[61:1](cws26.htm#fr_101.md) See No. XVIII,
 "Concerning the Greek Mysteries." Also, *Dreams and Dream-Stories*, No.
 IX, "The Banquet of the Gods."
 
 ------------------------------------------------------------------------
 
-[Next: No. XXIII: Concerning Regeneration](cws27)
+[Next: No. XXIII: Concerning Regeneration](cws27.md)

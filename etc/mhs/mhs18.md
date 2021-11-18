@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs17)  [Next](mhs19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs17)  [Next](mhs19.md) 
 
 ------------------------------------------------------------------------
 
@@ -308,4 +308,4 @@ nefarious arts upon the horses of honest people.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. The Horse-shoe As A Phallic Symbol](mhs19)
+[Next: XVI. The Horse-shoe As A Phallic Symbol](mhs19.md)

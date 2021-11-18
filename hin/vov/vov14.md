@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov13.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ like a monkey.
 1203
 
 Sand, coals, stones, grass, skin, dirt, sticks, where is the sinner who
-does not [bless](errata.htm#207) his teeth with some of these things.
+does not [bless](errata.htm#207.md) his teeth with some of these things.
 
 1204
 

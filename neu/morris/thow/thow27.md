@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](thow26)  [Next](thow28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](thow26)  [Next](thow28.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Wolfings*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -469,6 +469,6 @@ with the bitterness of her woe and the anguish of the hour of sundering.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII—They Wend to the Morning Battle](thow28)
+[Next: Chapter XXVII—They Wend to the Morning Battle](thow28.md)
 
 </div>

@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao77)   
-[Previous](tao76)  [Next](tao78) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao77.md)   
+[Previous](tao76)  [Next](tao78.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ nor does he make a display of them. Is this not so?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 78](tao78)
+[Next: Chapter 78](tao78.md)

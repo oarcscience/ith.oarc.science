@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal102)  [Next](njal104) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal102)  [Next](njal104.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ of Whiteness.
 
 ------------------------------------------------------------------------
 
-[Next: 104. The Slaying Of Lyting's Brothers](njal104)
+[Next: 104. The Slaying Of Lyting's Brothers](njal104.md)

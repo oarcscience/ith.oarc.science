@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss14)  [Next](oss16) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss14)  [Next](oss16.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ with Colna-dona, the daughter of Car-ul. Colna-dona became no less
 enamored of Toscar. An incident at a hunting party brings their loves to
 a happy issue.
 
-COL-AMON  <span id="fr_51"></span>[1](#fn_51) of troubled streams, dark
+COL-AMON  <span id="fr_51"></span>[1](#fn_51.md) of troubled streams, dark
 wanderer of distant vales, I behold thy course, between trees near
 Car-ul's echoing halls! There dwelt bright Colna-dona, the daughter of
 the king. Her eyes were rolling stars; her arms were white as the foam
@@ -28,7 +28,7 @@ Her soul was a stream of light. Who, among the maids was like the love
 of heroes?
 
 Beneath the voice of the king we moved to Crona  <span
-id="fr_52"></span>[2](#fn_52) of the streams, Toscar of grassy Lutha,
+id="fr_52"></span>[2](#fn_52.md) of the streams, Toscar of grassy Lutha,
 and Ossian young in fields. Three bards attended with songs. Three bossy
 shields were borne before us; for we were to rear the stone in memory of
 the past. By Crona's mossy course Fingal had scattered his foes; he had
@@ -91,7 +91,7 @@ Night came down. In her long locks moved the daughter of Car-ul. Mixed
 with the harp arose the voice of white-armed Colna-dona. Toscar darkened
 in his place before the love of heroes. She came on his troubled soul,
 like a beam to the dark-heaving ocean, when it bursts from a cloud, and
-brightens the foamy side of a wave.  <span id="fr_53"></span>[1](#fn_53)
+brightens the foamy side of a wave.  <span id="fr_53"></span>[1](#fn_53.md)
 
 \* \* \* \* \* \* \*
 
@@ -118,16 +118,16 @@ rolled on Toscar, and her love arose!
 
 ### Footnotes
 
-<span id="fn_51"></span>[239:1](oss15.htm#fr_51) Colna-dona signifies
+<span id="fn_51"></span>[239:1](oss15.htm#fr_51.md) Colna-dona signifies
 "the love of heroes." Col-amon, "narrow river." Car-ul, "dark-eyed."
 
-<span id="fn_52"></span>[239:2](oss15.htm#fr_52) Crona, "murmuring," was
+<span id="fn_52"></span>[239:2](oss15.htm#fr_52.md) Crona, "murmuring," was
 the name of a small stream which discharged itself in the river Carron.
 
-<span id="fn_53"></span>[241:1](oss15.htm#fr_53) Here an episode is
+<span id="fn_53"></span>[241:1](oss15.htm#fr_53.md) Here an episode is
 entirely lost; or, at least, is handed down so imperfectly, that it does
 not deserve a place in the poem.
 
 ------------------------------------------------------------------------
 
-[Next: Oithona](oss16)
+[Next: Oithona](oss16.md)

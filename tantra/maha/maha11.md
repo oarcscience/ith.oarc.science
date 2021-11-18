@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha10)  [Next](maha12) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha10)  [Next](maha12.md) 
 
 ------------------------------------------------------------------------
 
@@ -643,6 +643,6 @@ Rites."
 ------------------------------------------------------------------------
 
 [Next: Chapter 12 - An Account of the Eternal and Immutable
-Dharmma](maha12)
+Dharmma](maha12.md)
 
   

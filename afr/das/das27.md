@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das26)  [Next](das28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das26)  [Next](das28.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -117,6 +117,6 @@ wukin roots--curing by magic
 
 ------------------------------------------------------------------------
 
-[Next: Informants](das28)
+[Next: Informants](das28.md)
 
 </div>

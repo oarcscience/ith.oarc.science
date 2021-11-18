@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs21) [Next](hbs23)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs21) [Next](hbs23.md)
 
 ------------------------------------------------------------------------
 
@@ -98,7 +98,7 @@ Who cometh to Prince Marko a bargain with him to drive!”
 
 ------------------------------------------------------------------------
 
-[Next](hbs23)
+[Next](hbs23.md)
 
  
 

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj29) 
-[Next](npj31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj29.md) 
+[Next](npj31.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 
 <span id="img_17600"></span>
 
-![THE ANGEL IN &lt;I&gt;HAGOROMO&lt;/I&gt;.](img/17600.jpg)  
+![THE ANGEL IN &lt;I&gt;HAGOROMO&lt;/I&gt;.](img/17600.jpg.md)  
 THE ANGEL IN *HAGOROMO*.
 
 <span id="page_177">p. 177</span>
@@ -38,4 +38,4 @@ but I have thought it best to give the play in full.
 
 ------------------------------------------------------------------------
 
-[Next: Hagoromo](npj31)
+[Next: Hagoromo](npj31.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst03)  [Next](mst05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst03)  [Next](mst05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -711,7 +711,7 @@ others, men of great-hearted courage,
 died like those they tended, heroic martyrs to the ignorance of the
 times. Literally nothing was known about these plagues, and the same
 treatment was given for all of them. Some of the medical men were
-[beginning](errata.htm#1) to get a glimmering of ideas that were the
+[beginning](errata.htm#1.md) to get a glimmering of ideas that were the
 ancestors of modern technique, but they lacked the knowledge to develop
 them effectively.
 
@@ -866,4 +866,4 @@ Revolution, the prized signature of Nostradamus, with the date October
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three: Personages and Politics](mst05)
+[Next: Chapter Three: Personages and Politics](mst05.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml04)  [Next](hml06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml04)  [Next](hml06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -158,13 +158,13 @@ foe--a foe who repeated night by night his awful deeds,
 
 [![''The demon of evil, with his fierce ravening, greedily grasped
 them''](tn/00400.jpg)  
-Click to enlarge](img/00400.jpg)  
+Click to enlarge](img/00400.jpg.md)  
 ''The demon of evil, with his fierce ravening, greedily grasped them''  
 
 <span id="img_00500"></span>
 
 [![Beowulf replies haughtily to Hunferth](tn/00500.jpg)  
-Click to enlarge](img/00500.jpg)  
+Click to enlarge](img/00500.jpg.md)  
 Beowulf replies haughtily to Hunferth  
 
  
@@ -627,13 +627,13 @@ never felt before, and to know that he
 <span id="img_01600"></span>
 
 [![Beowulf tears off the arm and shoulder of Grendel](tn/01600.jpg)  
-Click to enlarge](img/01600.jpg)  
+Click to enlarge](img/01600.jpg.md)  
 Beowulf tears off the arm and shoulder of Grendel  
 
 <span id="img_01700"></span>
 
 [![Beowulf finds the head of Aschere](tn/01700.jpg)  
-Click to enlarge](img/01700.jpg)  
+Click to enlarge](img/01700.jpg.md)  
 Beowulf finds the head of Aschere  
 
  
@@ -1037,13 +1037,13 @@ ghastly
 <span id="img_02600"></span>
 
 [![Beowulf shears off the head of Grendel](tn/02600.jpg)  
-Click to enlarge](img/02600.jpg)  
+Click to enlarge](img/02600.jpg.md)  
 Beowulf shears off the head of Grendel  
 
 <span id="img_02700"></span>
 
 [![''Both warriors stood behind the iron shield''](tn/02700.jpg)  
-Click to enlarge](img/02700.jpg)  
+Click to enlarge](img/02700.jpg.md)  
 ''Both warriors stood behind the iron shield''  
 
  
@@ -1542,14 +1542,14 @@ thereon our king's corpse, and let us bear our dear lord to Hronesness,
 <span id="img_04000"></span>
 
 [![The Death of Beowulf](tn/04000.jpg)  
-Click to enlarge](img/04000.jpg)  
+Click to enlarge](img/04000.jpg.md)  
 The Death of Beowulf  
 
 <span id="img_04100"></span>
 
 [![''The Emperor remained in his own apartments and
 slept''](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)  
+Click to enlarge](img/04100.jpg.md)  
 ''The Emperor remained in his own apartments and slept''  
 
  
@@ -1598,4 +1598,4 @@ funeral pile and consumed to ashes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Dream of Maxen Wledig](hml06)
+[Next: Chapter II. The Dream of Maxen Wledig](hml06.md)

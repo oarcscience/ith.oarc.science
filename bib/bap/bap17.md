@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap16) 
-[Next](bap18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap16.md) 
+[Next](bap18.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 
 ### CHAPTER I.
 
-I. <span id="fr_17"></span>[1](#fn_17)The beginning of the world. Adam
+I. <span id="fr_17"></span>[1](#fn_17.md)The beginning of the world. Adam
 begat three sons and one daughter, Cain, Noaba, Abel and Seth. 2. And
 Adam *lived after he begat*
 
@@ -147,7 +147,7 @@ iniquity of their evil deeds.
 
 ### Footnotes
 
-<span id="fn_17"></span>[75:1](bap17.htm#fr_17) I. 1. Initium mundi
+<span id="fn_17"></span>[75:1](bap17.htm#fr_17.md) I. 1. Initium mundi
 appears to be the best reading. It is perhaps in the nature of a title:
 the proper LXX name for Genesis is γένεσισ κόσμου.
 
@@ -171,4 +171,4 @@ Hebrew.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](bap18)
+[Next: Chapter II](bap18.md)

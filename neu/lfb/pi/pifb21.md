@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb20)  [Next](pifb22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb20)  [Next](pifb22.md) 
 
 </div>
 
@@ -316,6 +316,6 @@ to the end of his days.
 
 ------------------------------------------------------------------------
 
-[Next: The King Who Would Have a Beautiful Wife](pifb22)
+[Next: The King Who Would Have a Beautiful Wife](pifb22.md)
 
 </div>

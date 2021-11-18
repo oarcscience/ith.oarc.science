@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 </tbody>
 </table>
 
-[Jump to Index](#index)  [Start Reading](wcs00)
+[Jump to Index](#index)  [Start Reading](wcs00.md)
 
 ------------------------------------------------------------------------
 
@@ -35,28 +35,28 @@ we have progressed, and dismaying how little has changed.
 
 Gage was one of the first writers to emphasize the ancient Matriarchy
 and the witch trials as key episodes of women's history. Her statement
-that [nine million](wcs07.htm#page_247) people were killed during the
+that [nine million](wcs07.htm#page_247.md) people were killed during the
 witch trials has been widely quoted; more recent estimates range from 50
 to 100 thousand, which does not lessen the horror.
 
 This book had numerous typographical errors. The etext has an extensive
-[errata list](errata) of corrections, which appear in bold in the body
+[errata list](errata.md) of corrections, which appear in bold in the body
 of the text.
 
 ------------------------------------------------------------------------
 
-<span id="index"></span> [Title Page](wcs00)  
-[Preface.](wcs01)  
-[Contents.](wcs02)  
-[Chapter I. The Matriarchate.](wcs03)  
-[Chapter II. Celibacy.](wcs04)  
-[Chapter III. Canon Law.](wcs05)  
-[Chapter IV. Marquette.](wcs06)  
-[Chapter V. Witchcraft.](wcs07)  
-[Chapter VI. Wives.](wcs08)  
-[Chapter VII. Polygamy.](wcs09)  
-[Chapter VIII. Woman And Work.](wcs10)  
-[Chapter IX. The Church Of To-day.](wcs11)  
-[Chapter X. Past, Present, Future.](wcs12)  
+<span id="index"></span> [Title Page](wcs00.md)  
+[Preface.](wcs01.md)  
+[Contents.](wcs02.md)  
+[Chapter I. The Matriarchate.](wcs03.md)  
+[Chapter II. Celibacy.](wcs04.md)  
+[Chapter III. Canon Law.](wcs05.md)  
+[Chapter IV. Marquette.](wcs06.md)  
+[Chapter V. Witchcraft.](wcs07.md)  
+[Chapter VI. Wives.](wcs08.md)  
+[Chapter VII. Polygamy.](wcs09.md)  
+[Chapter VIII. Woman And Work.](wcs10.md)  
+[Chapter IX. The Church Of To-day.](wcs11.md)  
+[Chapter X. Past, Present, Future.](wcs12.md)  
 
-[Errata](errata)
+[Errata](errata.md)

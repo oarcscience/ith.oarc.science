@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl09)  [Next](flhl11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl09)  [Next](flhl11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Hanauer \[1907\], at Intangible Textual Heritage
 #### THE DEATHS OF MOSES AND AARON
 
 ON reaching the confines of Palestine the Beni-Israel encamped in the
-country near the Wady Mûsa. <span id="fr_20"></span>[1](#fn_20) One
+country near the Wady Mûsa. <span id="fr_20"></span>[1](#fn_20.md) One
 evening, soon after they had reached it, Harûn pointed out to Mûsa a
 place on a distant hillside which looked very green and beautiful in the
 light of the evening sun, and expressed his wish to visit it. Mûsa
@@ -88,7 +88,7 @@ to whom the charge
 
 <span id="page_42">p. 42</span>
 
-of Sho’aib's <span id="fr_21"></span>[1](#fn_21) and Mûsa's own flock
+of Sho’aib's <span id="fr_21"></span>[1](#fn_21.md) and Mûsa's own flock
 had been entrusted when the latter was sent on his mission to deliver
 Israel out of Egypt, and he entered into conversation. The man was
 surprised to see the Lawgiver, and inquired what reason he had for
@@ -144,10 +144,10 @@ purpose.
 
 ### Footnotes
 
-<span id="fn_20"></span>[39:1](flhl10.htm#fr_20) Petra.
+<span id="fn_20"></span>[39:1](flhl10.htm#fr_20.md) Petra.
 
-<span id="fn_21"></span>[42:1](flhl10.htm#fr_21) Jethro's.
+<span id="fn_21"></span>[42:1](flhl10.htm#fr_21.md) Jethro's.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. David and Solomon](flhl11)
+[Next: VIII. David and Solomon](flhl11.md)

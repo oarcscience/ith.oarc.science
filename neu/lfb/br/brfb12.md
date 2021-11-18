@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb11)  [Next](brfb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb11)  [Next](brfb13.md) 
 
 </div>
 
@@ -218,6 +218,6 @@ head.
 
 ------------------------------------------------------------------------
 
-[Next: How the Little Brother Set Free His Big Brothers](brfb13)
+[Next: How the Little Brother Set Free His Big Brothers](brfb13.md)
 
 </div>

@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao74)   
-[Previous](tao73)  [Next](tao75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao74.md)   
+[Previous](tao73)  [Next](tao75.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ to cut himself.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 75](tao75)
+[Next: Chapter 75](tao75.md)

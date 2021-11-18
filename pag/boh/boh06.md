@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh05)  [Next](boh07) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh05)  [Next](boh07.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ omens from nuts and apples which are made trial of at Hallowe'en.
 ------------------------------------------------------------------------
 
 [Next: Chapter V: The Coming of Christianity. All Saints'. All
-Souls'](boh07)
+Souls'](boh07.md)

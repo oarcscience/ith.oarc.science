@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mmi05)  [Next](mmi07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mmi05)  [Next](mmi07.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ sharp-pointed sticks with which he might defend himself against any who
 disturbed him. So the next time when the North Star came and began to
 torment him, the rattlesnake used the sticks (his fangs) and bit off one
 of his fingers as you may still see in the sky. <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
 The Earth-Mother further contrived that, in order to make the bite of
 the rattlesnake effective, it should be followed by three intensely
@@ -32,7 +32,7 @@ succession, you may know that some man has been bitten by a rattlesnake.
 
 ### Footnotes
 
-<span id="fn_8"></span>[54:1](mmi06.htm#fr_8) Starting from the North
+<span id="fn_8"></span>[54:1](mmi06.htm#fr_8.md) Starting from the North
 Star as a centre, there is a vortex of small stars, which in the clear
 air of the southwest are very plainly seen. They may easily appear as
 the five fingers of a hand; a line of three or four stars for the thumb,
@@ -42,4 +42,4 @@ the one bitten off by the rattlesnake.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Story of Ouiot](mmi07)
+[Next: 3. The Story of Ouiot](mmi07.md)

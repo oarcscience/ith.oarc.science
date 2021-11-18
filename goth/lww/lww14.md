@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww13)  [Next](lww15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww13)  [Next](lww15.md) 
 
 ------------------------------------------------------------------------
 
@@ -265,4 +265,4 @@ rose to his feet, and in a hushed voice said:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV--On the Track](lww15)
+[Next: Chapter XV--On the Track](lww15.md)

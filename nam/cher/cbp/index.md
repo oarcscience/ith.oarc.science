@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,10 +21,10 @@ American](../../index)  [Cherokee](../index) 
 
 ------------------------------------------------------------------------
 
-[The Cherokee Ball Play](cbp) by James Mooney. *70,234 bytes, 332,710
+[The Cherokee Ball Play](cbp.md) by James Mooney. *70,234 bytes, 332,710
 bytes illustrations*
 
-[Remarks on Ojibwa Ball Play by W.J. Hoffman](cbp.htm#ojibwa)
+[Remarks on Ojibwa Ball Play by W.J. Hoffman](cbp.htm#ojibwa.md)
 
 Among their other many cultural gifts to the world, Native Americans
 contributed the game which later became known as Lacrosse. The Cherokee

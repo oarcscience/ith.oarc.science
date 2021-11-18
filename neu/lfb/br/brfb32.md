@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb31)  [Next](brfb33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb31)  [Next](brfb33.md) 
 
 </div>
 
@@ -354,6 +354,6 @@ was only Wali Dad Gunjay, the grass cutter.
 
 ------------------------------------------------------------------------
 
-[Next: Tale of a Tortoise and of a Mischievous Monkey](brfb33)
+[Next: Tale of a Tortoise and of a Mischievous Monkey](brfb33.md)
 
 </div>

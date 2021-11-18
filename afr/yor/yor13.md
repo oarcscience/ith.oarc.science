@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](yor12) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](yor12.md) 
 
 ------------------------------------------------------------------------
 

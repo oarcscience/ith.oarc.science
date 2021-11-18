@@ -1,21 +1,21 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat04)  [Next](yat06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat04)  [Next](yat06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### III. THE VISIT OF THE GEESE PEOPLE TO MOUNT SHASTA.  <span id="fr_21"></span>[67](#fn_21)
+### III. THE VISIT OF THE GEESE PEOPLE TO MOUNT SHASTA.  <span id="fr_21"></span>[67](#fn_21.md)
 
 <span id="page_45">p. 45</span>
 
@@ -65,9 +65,9 @@ said Coyote, and he lifted up his eyes. He reported the news to the
 Geese people. "Flint Rock Chief has sent for you to come," said Coyote.
 "This one says that you should peel bark off the trees, to make string.
 That is what this humming-bird says." <span
-id="fr_22"></span>[68](#fn_22) "Indeed!" said the people of the south.
+id="fr_22"></span>[68](#fn_22.md) "Indeed!" said the people of the south.
 "He sends for you. This one says that you should take bark off of
-bā'ni <span id="fr_23"></span>[69](#fn_23)bushes so as to make string,"
+bā'ni <span id="fr_23"></span>[69](#fn_23.md)bushes so as to make string,"
 said Coyote, reporting to them what he had heard. "He wants you to start
 out today," said Coyote. "That's all that humming-bird has to say."
 
@@ -103,7 +103,7 @@ Coyote going off home! He did not tell that to us. Coyote was lying."
 Many were the people that started off. Now they were all dressed up.
 "Put nets on your heads. Put on your white head-bands. Put beads about
 your necks," (said Goose Chief). Now they came from the south, and
-camped over night at Cī'p!a.[51](yat04.htm#fn_18) "Let us rest here over
+camped over night at Cī'p!a.[51](yat04.htm#fn_18.md) "Let us rest here over
 night. Early in the morning let us practice dancing here. Let us go
 north dancing. Who is it that will lead the dance?" "I shall be the one
 to lead the dance," said Coyote. "No. It is the chief that shall lead in
@@ -175,13 +175,13 @@ us," said they inside. "Four days and four nights have passed and there
 is no daylight yet. What shall we do? We are all going to be killed.
 Hehe'?! Would that I could get outside again! Have not any of you
 perchance a flint flaker? Have not any of you perchance a flaking maul?"
-"Yes," said Ma'ldama. <span id="fr_24"></span>[70](#fn_25) "I have a
+"Yes," said Ma'ldama. <span id="fr_24"></span>[70](#fn_25.md) "I have a
 pitching tool." "I also have a pitching tool," said
-Bop?didjū's\*i. <span id="fr_25"></span>[71](#fn_26) "Yes," said the
+Bop?didjū's\*i. <span id="fr_25"></span>[71](#fn_26.md) "Yes," said the
 chief, "it is you that always say that you have supernatural power." The
-pitching tool was like this here, <span id="fr_26"></span>[72](#fn_27)
+pitching tool was like this here, <span id="fr_26"></span>[72](#fn_27.md)
 the flaking maul was like this here. <span
-id="fr_27"></span>[72](#fn_27) Those two men, little Bop?didjū's\*i and
+id="fr_27"></span>[72](#fn_27.md) Those two men, little Bop?didjū's\*i and
 Ma'ldama, had pitching tools. They arose in the sweat-house in the night
 that surrounded them all. The sweat-house was made entirely of flint
 rock, thick was the flint rock. They put out their hands inside and felt
@@ -189,7 +189,7 @@ around all over. They were all like blind men. "Now! pound away!" This
 is how they did, pounding away at the flint rock to test for a thin
 spot. Now he pushed his pitching tool against the flint rock and pounded
 on it with his maul. This is how Ma'ldama did. <span
-id="fr_28"></span>[66](#fn_24)
+id="fr_28"></span>[66](#fn_24.md)
 
 <span id="page_50">p. 50</span>
 
@@ -206,13 +206,13 @@ through the wall. Now they had made a hole right through. The light of
 day streamed in, it became daylight as soon as the hole had been burst
 through. The sweat-house was lit up. Now the people returned. They all
 came out again, returned out of the sweat-house. <span
-id="fr_29"></span>[73](#fn_28)
+id="fr_29"></span>[73](#fn_28.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_21"></span>[35:67](yat05.htm#fr_21) This myth reads very
+<span id="fn_21"></span>[35:67](yat05.htm#fr_21.md) This myth reads very
 much like an explanation or mythic rendition of the yearly migration of
 the geese and other aquatic birds to the north. The Geese people danced
 at Cī'p!a (see note 51) just as the geese of today frequent the same
@@ -221,30 +221,30 @@ its entirety is directly based on the observation of natural events. In
 its first portion it is strikingly similar to the beginning of Betty
 Brown's story of "Coyote, Heron, and Lizard" (no. XII).
 
-<span id="fn_22"></span>[46:68](yat05.htm#fr_22) Coyote's explanation of
+<span id="fn_22"></span>[46:68](yat05.htm#fr_22.md) Coyote's explanation of
 Humming-bird's message is of course an absurd invention on his part. The
 Geese people, according to him, are to go north in order to help the
 northern chief make string.
 
-<span id="fn_23"></span>[46:69](yat05.htm#fr_23) A brown-colored bush
+<span id="fn_23"></span>[46:69](yat05.htm#fr_23.md) A brown-colored bush
 from the hark of which the Indians make string. Very possibly to be
 identified with Apocynum cannabinum, "Indian hemp."
 
-<span id="fn_24"></span>[49:66](yat05.htm#fr_28) Accompanied by tapping
+<span id="fn_24"></span>[49:66](yat05.htm#fr_28.md) Accompanied by tapping
 ruler on knife against window.
 
-<span id="fn_25"></span>[49:70](yat05.htm#fr_24) A bird of dark-brown
+<span id="fn_25"></span>[49:70](yat05.htm#fr_24.md) A bird of dark-brown
 color, of about the size of a meadow-lark.
 
-<span id="fn_26"></span>[49:71](yat05.htm#fr_25) An unidentified bug.
+<span id="fn_26"></span>[49:71](yat05.htm#fr_25.md) An unidentified bug.
 The name means "one who chips off flint."
 
-<span id="fn_27"></span>[49:72](yat05.htm#fr_27) See note 64.
+<span id="fn_27"></span>[49:72](yat05.htm#fr_27.md) See note 64.
 
-<span id="fn_28"></span>[50:73](yat05.htm#fr_29) The ending seems abrupt
+<span id="fn_28"></span>[50:73](yat05.htm#fr_29.md) The ending seems abrupt
 even for an Indian story. Sam said that he never heard how the Geese
 people returned home but thought that the myth ended there he stopped.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Bluejay's Journey to the Land of the Moon](yat06)
+[Next: IV. Bluejay's Journey to the Land of the Moon](yat06.md)

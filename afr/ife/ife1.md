@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Next](ife2)
+[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Next](ife2.md)
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ are offered after a subsequent reading of the "Golden Bough."
 
 ------------------------------------------------------------------------
 
-[Next](ife2)
+[Next](ife2.md)

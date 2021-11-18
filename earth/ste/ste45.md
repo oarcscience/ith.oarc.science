@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste44)  [Next](ste46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste44)  [Next](ste46.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,9 +47,9 @@
 <span id="img_title4"></span>
 
 [![Title Page, Book 4](tn/title4.jpg)  
-Click to enlarge](img/title4.jpg)  
+Click to enlarge](img/title4.jpg.md)  
 Title Page, Book 4  
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the Reader](ste46)
+[Next: Preface to the Reader](ste46.md)

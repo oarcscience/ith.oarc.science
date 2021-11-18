@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](gft01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](gft01.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ Title Page<br />
 
 ------------------------------------------------------------------------
 
-[Next: Contents](gft01)
+[Next: Contents](gft01.md)

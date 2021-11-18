@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt03)  [Next](ebt05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt03)  [Next](ebt05.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Sagas](../../index)  [England](../index)  [Index](index) 
 <span id="img_pl01"></span>
 
 [![PLATE I. PRIMARY PEAK](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 PLATE I. PRIMARY PEAK  
 
 Titterstone Clee Hill and Park Hall, Bitterley.
@@ -18,7 +18,7 @@ Titterstone Clee Hill and Park Hall, Bitterley.
 <span id="img_pl02"></span>
 
 [![PLATE II. MOUNDS](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 PLATE II. MOUNDS  
 
 <table>
@@ -37,4 +37,4 @@ PLATE II. MOUNDS
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](ebt05)
+[Next: Introduction](ebt05.md)

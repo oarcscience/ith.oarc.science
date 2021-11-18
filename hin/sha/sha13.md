@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha12)  [Next](sha14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha12)  [Next](sha14.md) 
 
 ------------------------------------------------------------------------
 
@@ -257,4 +257,4 @@ Indumati, of the Yaksha's bride, and of Shakuntala.
 
 ------------------------------------------------------------------------
 
-[Next: II.--Urvashi](sha14)
+[Next: II.--Urvashi](sha14.md)

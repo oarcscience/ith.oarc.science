@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal026)  [Next](njal028) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal026)  [Next](njal028.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ those days.
 
 ------------------------------------------------------------------------
 
-[Next: 28. Hallvard Comes Out To Iceland](njal028)
+[Next: 28. Hallvard Comes Out To Iceland](njal028.md)

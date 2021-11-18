@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap48) 
-[Next](bap50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap48.md) 
+[Next](bap50.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ sealed up, and accomplished, and the measure and the time and the years
 have restored that which was committed to them. For even if ye seek to
 do evil in hell after your death, ye will not be able, because the
 desire of sin shall cease, and the evil creation <span
-id="fr_126"></span>[2](#fn_126) shall lose its power, and hell,
+id="fr_126"></span>[2](#fn_126.md) shall lose its power, and hell,
 
 <span id="page_180">p. 180</span>
 
@@ -56,10 +56,10 @@ seven years.
 
 ### Footnotes
 
-<span id="fn_126"></span>[179:2](bap49.htm#fr_126) XXXIII. 3. *the evil
+<span id="fn_126"></span>[179:2](bap49.htm#fr_126.md) XXXIII. 3. *the evil
 creation*: *Plasmatio iniqua*. The equivalent of the *yetzer hara’*, the
 evil tendency, of Rabbinic theology.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIV](bap50)
+[Next: Chapter XXXIV](bap50.md)

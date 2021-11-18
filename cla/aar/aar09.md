@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aar08)  [Next](aar10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aar08)  [Next](aar10.md) 
 
 ------------------------------------------------------------------------
 
@@ -181,7 +181,7 @@ produce and enjoy Beauty is not the function of art. Beauty--or rather,
 the sensation of Beauty--is what the Greeks would call an *epigignomenon
 ti telos*, words hard to translate, something between a by-product and a
 supervening perfection, a thing like--as Aristotle <span
-id="fr_53"></span>[1](#fn_53) for once beautifully says of
+id="fr_53"></span>[1](#fn_53.md) for once beautifully says of
 pleasure--"the bloom of youth to a healthy young body."
 
 That this is so we see most clearly in the simple fact that, when the
@@ -220,7 +220,7 @@ pleasure, but something better called joy. Pleasure, it has been well
 said, is no more than an instrument contrived by Nature to obtain from
 the individual the preservation and the propagation of life. True joy is
 not the lure of life, but the consciousness of the triumph of creation.
-Wherever joy is, creation has been. <span id="fr_54"></span>[1](#fn_54)
+Wherever joy is, creation has been. <span id="fr_54"></span>[1](#fn_54.md)
 It may be the joy of a mother in the physical creation of a child; it
 may be the joy of the merchant adventurer in pushing out new enterprise,
 or of the engineer in building a bridge, or of the artist in a
@@ -328,7 +328,7 @@ collective emotion, out of which we have seen the choral dance arise, is
 in its essence moral; that is, it unites. "Art," says Tolstoy, "has this
 characteristic, that it unites people." In this conviction, as we shall
 later see, he anticipates the modern movement of the Unanimists ([p.
-249](#page_249)).
+249](#page_249).md).
 
 But there is another, and perhaps simpler, way in which art is moral. As
 already suggested, it purifies by cutting off the motor-reactions of
@@ -489,7 +489,7 @@ leaves us cold and, by the artist, is best neglected.
  
 
 There remains the relation of Art to Religion. <span
-id="fr_55"></span>[1](#fn_55) By now, it may be hoped, this relation is
+id="fr_55"></span>[1](#fn_55.md) By now, it may be hoped, this relation is
 transparently clear. The whole object of the present book has been to
 show how primitive art grew out of ritual, how art is in fact but a
 later and more sublimated, more detached form of ritual. We saw further
@@ -675,7 +675,7 @@ of Music.
 
  
 
-As a modern critic <span id="fr_56"></span>[1](#fn_56) has well observed
+As a modern critic <span id="fr_56"></span>[1](#fn_56.md) has well observed
 "In tone and rhythm music has a notation for every kind and degree of
 action and passion, presenting abstract moulds of its excitement,
 fluctuation, suspense, crisis, appeasement; and all this *anonymously*,
@@ -704,7 +704,7 @@ nerves and pulses to immediate rhythmical attack, enjoy the ghosts of
 struggle, rapture, and exaltation with a volume and intricacy, an
 anguish, a triumph, an irresponsibility, unheard of. An amplified
 pattern of action and emotion is given: each man may fit to it what
-images he will." <span id="fr_57"></span>[1](#fn_57)
+images he will." <span id="fr_57"></span>[1](#fn_57.md)
 
  
 
@@ -795,7 +795,7 @@ at another time been frightened, and if he was able to conjure up fear
 in himself and communicate it to others--that also would be art. The
 essential is, according to Tolstoy, that he should feel himself and so
 represent his feeling that he communicates it to others. <span
-id="fr_58"></span>[1](#fn_58) Art-schools, art-professionalism,
+id="fr_58"></span>[1](#fn_58.md) Art-schools, art-professionalism,
 art-criticism are all useless or worse than useless, because they cannot
 teach a man to feel. Only life can do that.
 
@@ -1108,21 +1108,21 @@ And so our tale ends where it began, with the Choral Dance.
 
 ### Footnotes
 
-<span id="fn_53"></span>[211:1](aar09.htm#fr_53) *Ethics*, X, 4.
+<span id="fn_53"></span>[211:1](aar09.htm#fr_53.md) *Ethics*, X, 4.
 
-<span id="fn_54"></span>[213:1](aar09.htm#fr_54) H. Bergson, *Life and
+<span id="fn_54"></span>[213:1](aar09.htm#fr_54.md) H. Bergson, *Life and
 Consciousness*, Huxley Lecture, May 29, 1911.
 
-<span id="fn_55"></span>[225:1](aar09.htm#fr_55) Religion is here used
+<span id="fn_55"></span>[225:1](aar09.htm#fr_55.md) Religion is here used
 as meaning the worship of some form of god, as the practical counterpart
 of theology.
 
-<span id="fn_56"></span>[233:1](aar09.htm#fr_56) Mr. D. S. MacColl.
+<span id="fn_56"></span>[233:1](aar09.htm#fr_56.md) Mr. D. S. MacColl.
 
-<span id="fn_57"></span>[234:1](aar09.htm#fr_57) D. S. MacColl,
+<span id="fn_57"></span>[234:1](aar09.htm#fr_57.md) D. S. MacColl,
 *Nineteenth Century Art*, p. 21. (1902.)
 
-<span id="fn_58"></span>[238:1](aar09.htm#fr_58) It is interesting to
+<span id="fn_58"></span>[238:1](aar09.htm#fr_58.md) It is interesting to
 find, since the above was written, that the Confession of Faith
 published in the catalogue of the Second Post-Impressionist Exhibition
 (1912, p. 21) reproduces, consciously or unconsciously, Tolstoy's view:
@@ -1131,4 +1131,4 @@ instead, "What does it make us feel?"
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](aar10)
+[Next: Bibliography](aar10.md)

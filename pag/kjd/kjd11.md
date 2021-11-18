@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Wicca and
-Paganism](../index)  [Index](index)  [Previous](kjd10) 
+[Intangible Textual Heritage](../../index.md)  [Wicca and
+Paganism](../index)  [Index](index)  [Previous](kjd10.md) 
 
 ------------------------------------------------------------------------
 

@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao39)   
-[Previous](tao38)  [Next](tao40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao39.md)   
+[Previous](tao38)  [Next](tao40.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ ideals and usefulness.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 40](tao40)
+[Next: Chapter 40](tao40.md)

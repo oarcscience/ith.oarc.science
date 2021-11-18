@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [African](../index) 
+[Intangible Textual Heritage](../../index)  [African](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 #### \[1932, Copyright lapsed by non-renewal\]
 
-This companion book to [Psychic Phenomena of Jamaica](../ppj/index) goes
+This companion book to [Psychic Phenomena of Jamaica](../ppj/index.md) goes
 into much greater depth as to the New World-African connection, and adds
 more material about Afro-Carribean religion in Haiti. The primary
 strength of this work is the careful documentation of the history and
@@ -29,13 +29,13 @@ its development.--jbh.
 
 ------------------------------------------------------------------------
 
-[Title Page](vao00)  
-[Introduction](vao01)  
-[Table of Contents](vao02)  
-[Chapter I: African Ophiolatry](vao03)  
-[Chapter II: Serpent Cult at Whydah](vao04)  
-[Chapter III: Voodoo in Haiti](vao05)  
-[Chapter IV: Origin of Obeah](vao06)  
-[Chapter V: Development of Obeah in Jamaica](vao07)  
-[Chapter VI: Conclusion](vao08)  
-[Bibliography](vao09)  
+[Title Page](vao00.md)  
+[Introduction](vao01.md)  
+[Table of Contents](vao02.md)  
+[Chapter I: African Ophiolatry](vao03.md)  
+[Chapter II: Serpent Cult at Whydah](vao04.md)  
+[Chapter III: Voodoo in Haiti](vao05.md)  
+[Chapter IV: Origin of Obeah](vao06.md)  
+[Chapter V: Development of Obeah in Jamaica](vao07.md)  
+[Chapter VI: Conclusion](vao08.md)  
+[Bibliography](vao09.md)  

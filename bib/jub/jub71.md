@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub70) 
-[Next](jub72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub70.md) 
+[Next](jub72.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,14 +14,14 @@
 XXXVI\. And in the sixth year of this week Isaac called his two sons,
 Esau and Jacob, and they came to him, and he said unto them: "My sons, I
 am going the way of my fathers, to the eternal house <span
-id="fr_807"></span>[2](#fn_799) where my fathers are. 2. Wherefore bury
+id="fr_807"></span>[2](#fn_799.md) where my fathers are. 2. Wherefore bury
 me near Abraham my father, in the double cave in the field of Ephron the
 Hittite, where Abraham purchased a sepulchre to bury in; in the
 sepulchre which I digged for myself, there bury me. 3. And this I
 command you, my sons, that ye practise righteousness and uprightness on
 the earth, so that the Lord may bring upon you all that the Lord said
 that he would do to Abraham and to his seed. 4. And love one another, my
-sons, your brothers <span id="fr_808"></span>[3](#fn_800) as a man who
+sons, your brothers <span id="fr_808"></span>[3](#fn_800.md) as a man who
 loveth his own soul, and let each seek in what he may benefit his
 brother, and act together on the earth; and let them love each other as
 their own souls. 5. And concerning the question of idols, I command and
@@ -31,7 +31,7 @@ down to them. 6. Remember ye, my sons, the Lord God of Abraham your
 father, and how I too worshipped Him and served Him in righteousness and
 in joy, that He might multiply you and increase your seed as the stars
 of heaven in multitude, and establish you on the earth as the plant of
-righteousness <span id="fr_809"></span>[4](#fn_801) which will not be
+righteousness <span id="fr_809"></span>[4](#fn_801.md) which will not be
 rooted out unto all the generations for ever. 7. And now I shall make
 you swear a great oath--for there is no oath which is greater than it by
 the name glorious and honoured
@@ -52,7 +52,7 @@ indignation and anger, with flaming devouring fire as He burnt Sodom, so
 likewise will He burn his land and his city and all that is his, and he
 will be blotted out of the book of the discipline of the children of
 men, and not be recorded in the book of life, <span
-id="fr_810"></span>[1](#fn_802) but in that which is appointed to
+id="fr_810"></span>[1](#fn_802.md) but in that which is appointed to
 destruction, and he will depart into eternal execration; so that their
 condemnation may be always renewed in hate and in execration and in
 wrath and in torment and in indignation and in plagues and in disease
@@ -71,7 +71,7 @@ birthright, lest thou shouldest work wickedness on account
 
 <span id="page_178">p. 178</span>
 
-of it. 16. May the Most High God <span id="fr_811"></span>[1](#fn_803)
+of it. 16. May the Most High God <span id="fr_811"></span>[1](#fn_803.md)
 bless the man that worketh righteousness, him and his seed for ever."
 17. And he ended commanding them and blessing them, and they ate and
 drank together before him, and he rejoiced because there was one mind
@@ -79,13 +79,13 @@ between them, and they went forth from him and rested that day and
 slept. 18. And Isaac slept on his bed that day rejoicing; and he slept
 the eternal sleep, and died one hundred and eighty years old. He
 completed twenty-five weeks and five years; and his two sons Esau and
-Jacob buried him. <span id="fr_812"></span>[2](#fn_804) 19. And Esau
+Jacob buried him. <span id="fr_812"></span>[2](#fn_804.md) 19. And Esau
 went to the land of Edom, to the mountains of Seir, and dwelt there. 20.
 And Jacob dwelt in the mountains of Hebron, in the tower of the land of
 the sojournings of his father Abraham, and he worshipped the Lord with
 all his heart and according to the visible commands according as He had
 divided the days of his generations. <span
-id="fr_813"></span>[3](#fn_805) 21. And Leah his wife died
+id="fr_813"></span>[3](#fn_805.md) 21. And Leah his wife died
 
 |           |
 |-----------|
@@ -107,29 +107,29 @@ exceedingly; for he loved her with all his heart and with all his soul.
 
 ### Footnotes
 
-<span id="fn_799"></span>[176:2](jub71.htm#fr_807) Cf. Eccles. xii. 5
+<span id="fn_799"></span>[176:2](jub71.htm#fr_807.md) Cf. Eccles. xii. 5
 ("man goeth to his long home," lit. "to his eternal house").
 
-<span id="fn_800"></span>[176:3](jub71.htm#fr_808) "Your brothers"
+<span id="fn_800"></span>[176:3](jub71.htm#fr_808.md) "Your brothers"
 probably a gloss.
 
-<span id="fn_801"></span>[176:4](jub71.htm#fr_809) Cf. i. 16, xvi. 26,
+<span id="fn_801"></span>[176:4](jub71.htm#fr_809.md) Cf. i. 16, xvi. 26,
 xxi. 24.
 
-<span id="fn_802"></span>[177:1](jub71.htm#fr_810) Cf. XXX. 22.
+<span id="fn_802"></span>[177:1](jub71.htm#fr_810.md) Cf. XXX. 22.
 
-<span id="fn_803"></span>[178:1](jub71.htm#fr_811) This divine title
+<span id="fn_803"></span>[178:1](jub71.htm#fr_811.md) This divine title
 occurs frequently in our Book, and in Ecclus. (48 times), and Daniel (13
 times). In the Pentateuch, outside Gen. xiv. (where it occurs four
 times), it is only found twice. Its use was revived in *Ap. Bar.* (23
 times), and in 4 Ezra.
 
-<span id="fn_804"></span>[178:2](jub71.htm#fr_812) Cf. Gen. xxxv. 29.
+<span id="fn_804"></span>[178:2](jub71.htm#fr_812.md) Cf. Gen. xxxv. 29.
 
-<span id="fn_805"></span>[178:3](jub71.htm#fr_813) These commands had
+<span id="fn_805"></span>[178:3](jub71.htm#fr_813.md) These commands had
 been made visible to Jacob on the seven tables which the angel had shown
 him in a vision; Cf. xxxii. 21.
 
 ------------------------------------------------------------------------
 
-[Next: Esau and his Sons wage War with Jacob (xxxvii. 1-25)](jub72)
+[Next: Esau and his Sons wage War with Jacob (xxxvii. 1-25)](jub72.md)

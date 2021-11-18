@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot01) 
-[Next](laot03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot01.md) 
+[Next](laot03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -230,7 +230,7 @@ which, after the destruction of the Jewish Temple, by an inexorable
 logic imposed itself on the Christian Church.
 
 It is well to conclude this all too brief notice of Apollonius with a
-passage cited by Eusebius <span id="fr_0"></span>[1](#fn_0) from his
+passage cited by Eusebius <span id="fr_0"></span>[1](#fn_0.md) from his
 lost work concerning sacrifice. There is no good reason for doubting its
 authenticity, and it is an apt summary of his religious belief:—
 
@@ -259,9 +259,9 @@ B. G. Teubner, at Leipzic in 1870.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:xvi:1](laot02.htm#fr_0) Eusebius, *On the
+<span id="fn_0"></span>[1:xvi:1](laot02.htm#fr_0.md) Eusebius, *On the
 Preparation for the Gospel*, Bk. iv. Ch. 13.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 1-10](laot03)
+[Next: Chapters 1-10](laot03.md)

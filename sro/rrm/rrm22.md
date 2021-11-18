@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm21)  [Next](rrm23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm21)  [Next](rrm23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ from the centre of the sun than from the parts near its circumference.
 <span id="img_16200"></span>
 
 [![Fig. 32 and 32A](tn/16200.jpg)  
-Click to enlarge](img/16200.jpg)  
+Click to enlarge](img/16200.jpg.md)  
 Fig. 32 and 32A  
 
 Each prismatic atom, when a ray of light strikes upon it, opens out on a
@@ -52,7 +52,7 @@ cent.).
 <span id="img_16300"></span>
 
 [![Fig. 33: PRISMATIC SPECTRUM](tn/16300.jpg)  
-Click to enlarge](img/16300.jpg)  
+Click to enlarge](img/16300.jpg.md)  
 Fig. 33: PRISMATIC SPECTRUM  
 
 The cause of the splendour and variety of colours lies deep in the
@@ -161,4 +161,4 @@ had the term *Filioque* first inserted into it about the time when the
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX: Cabalistic Interpretations by the Gnostics](rrm23)
+[Next: Chapter XIX: Cabalistic Interpretations by the Gnostics](rrm23.md)

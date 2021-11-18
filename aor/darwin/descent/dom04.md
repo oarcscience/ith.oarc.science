@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index)  [Index](index) 
-[Previous](dom03)  [Next](dom05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index)  [Index](index.md) 
+[Previous](dom03)  [Next](dom05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140436316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140436316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -844,4 +844,4 @@ have believed that each was the work of a separate act of creation.
 ------------------------------------------------------------------------
 
 [Next: Chapter II. On The Manner of Development of Man From Some Lower
-Form](dom05)
+Form](dom05.md)

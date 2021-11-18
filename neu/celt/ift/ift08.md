@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ift07)  [Next](ift09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ift07)  [Next](ift09.md) 
 
 ------------------------------------------------------------------------
 
@@ -471,4 +471,4 @@ it.
 
 ------------------------------------------------------------------------
 
-[Next: Mongan's Frenzy](ift09)
+[Next: Mongan's Frenzy](ift09.md)

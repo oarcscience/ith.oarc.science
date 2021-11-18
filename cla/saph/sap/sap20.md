@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Sappho](../index)  [Index](index)  [Previous](sap19)  [Next](sap21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Sappho](../index)  [Index](index)  [Previous](sap19)  [Next](sap21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419146114/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419146114/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sappho and Phaon*, by Mary Robinson, \[1796\], at Intangible Textual
 Heritage
 
@@ -35,4 +35,4 @@ Nor blame my weakness, till like me ye love!
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. To Phaon.](sap21)
+[Next: XVIII. To Phaon.](sap21.md)

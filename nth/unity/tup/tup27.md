@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](tup26)  [Next](tup28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](tup26)  [Next](tup28.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Teach Us to Pray*, by Charles Fillmore, \[1941\], at Intangible Textual
 Heritage
 
@@ -95,4 +95,4 @@ omnipresent Spirit, "over all, and through all, and in all."
 
 ------------------------------------------------------------------------
 
-[Next: Thought Substance](tup28)
+[Next: Thought Substance](tup28.md)

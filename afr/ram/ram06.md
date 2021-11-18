@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram05)  [Next](ram07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram05)  [Next](ram07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -27,7 +27,7 @@ the god himself. The divine King of Congo was put to death by his
 successor. In the Fiji Islands old people are hurried alive. When a king
 of Kabonga is near his end the magicians quietly strangle him. Certain
 tribes of East Africa put their kings to death as soon as wrinkles or
-grey hairs appear. <span id="fr_64"></span>[\*](#fn_64) A modification
+grey hairs appear. <span id="fr_64"></span>[\*](#fn_64.md) A modification
 of the custom of king- killing was introduced when the expedient of
 temporary kings was reached. These could be put to death at stated
 intervals. We have met with examples of this in Sofala and Calicut.
@@ -42,7 +42,7 @@ concubines. But at the end of the
 <span id="page_62">p. 62</span>
 
 five days he was stripped of his royal robes, scourged and
-crucified." <span id="fr_65"></span>[\*](#fn_65) This same custom,
+crucified." <span id="fr_65"></span>[\*](#fn_65.md) This same custom,
 softened down, is observed in Cambodia, where the king abdicates
 annually for a few days. The substitute performs all functions of State,
 and receives the revenues for the time he reigns. At the close of his
@@ -51,7 +51,7 @@ his last act, orders the elephants to trample the "mountain of rice."
 This is a large scaffold hung round with rice-sheaves. When they are
 trampled down the people gather up the rice, each man taking home a
 portion to mix with his seed-corn and so secure a good harvest. <span
-id="fr_66"></span>[†](#fn_66)
+id="fr_66"></span>[†](#fn_66.md)
 
 Once the idea of substitution was reached, sacrifice as an institution
 would develop rapidly, and the curious thing is, that a trace of the
@@ -192,7 +192,7 @@ and his deliverances accepted as the very oracles of God.
 It may at first sight be difficult to connect this doctrine of
 propitiatory sacrifice with that of substitution, as we have seen that
 in the case of the killing of the temporary king. And if this
-[propitiatory](errata.htm#0) system of sacrifice were our only guide, it
+[propitiatory](errata.htm#0.md) system of sacrifice were our only guide, it
 would be impossible to do so. But there is another system, complete in
 all its parts and distinct from the idea of propitiation, observed by
 the same people alongside of this doctrine. It is that of thank-offering
@@ -211,28 +211,28 @@ offered to the gods
 
 <span id="page_68">p. 68</span>
 
-as "the child of the assegai." <span id="fr_67"></span>[\*](#fn_67) In
+as "the child of the assegai." <span id="fr_67"></span>[\*](#fn_67.md) In
 making thank-offerings for good offices a man adds to the portion of the
 sacrifice that is burned something from his own person, and men have
 been known to cut off a finger or toe for this purpose, to enhance the
 value of the offering. The Israelitish practice of shaving, as a sign of
 having made a vow or formed a resolve, is not unknown. <span
-id="fr_68"></span>[†](#fn_68) Adopting peculiar garments as a
+id="fr_68"></span>[†](#fn_68.md) Adopting peculiar garments as a
 head-dress, in token of anything remarkable having happened to a man, is
 common.
 
 When a tribe is at war, or preferably before entering upon hostilities,
 if an enemy can be caught he is put to death. The warriors eat his heart
-raw. <span id="fr_69"></span>[‡](#fn_69) Various parts of his body,
+raw. <span id="fr_69"></span>[‡](#fn_69.md) Various parts of his body,
 supposed to be the seat of particular virtues, are used in the
 preparation of the compound known as war medicine, while shreds of fat
 from his kidneys are burned in the fire. Much the same is done in the
 case of a slain enemy who has distinguished himself for bravery and
-feats of strength. <span id="fr_70"></span>[§](#fn_70) This, though the
+feats of strength. <span id="fr_70"></span>[§](#fn_70.md) This, though the
 people do not say so, is undoubtedly an offering made to the gods. The
 explanation given is, "Our people always did so," and that war medicine,
 without the fat burning in the fire while it is being prepared, would
-not act. <span id="fr_71"></span>[\*\*](#fn_71) For the true
+not act. <span id="fr_71"></span>[\*\*](#fn_71.md) For the true
 significance of such acts we must seek an explanation, not from the
 people, who can give none, but from analogy,. and their resemblance to
 other acts performed by the same people, or by others having customs in
@@ -242,8 +242,8 @@ common with them. The fat burned in the fire.
 
 when oxen are sacrificed in time of war, drought, or the great annual
 festival of firstfruits, is avowedly a gift to the gods, <span
-id="fr_72"></span>[\*](#fn_72) the odour of which they inhale; <span
-id="fr_73"></span>[†](#fn_73) and when we find the burning of human fat
+id="fr_72"></span>[\*](#fn_72.md) the odour of which they inhale; <span
+id="fr_73"></span>[†](#fn_73.md) and when we find the burning of human fat
 in almost identical circumstances—*i.e.*, war—and the preparation of a
 magic decoction into which calcined human flesh largely enters, and on
 which depends its efficacy, the conclusion is forced upon us that here
@@ -251,11 +251,11 @@ we have the last lingering traces of human sacrifice. Nor is this the
 only use made of portions of the human body in connection with the
 religious ritual of the people. The dried fingers of a man's hand is an
 essential portion of a magician's outfit when he goes to curse his
-chief's enemies. <span id="fr_74"></span>[‡](#fn_74) Wizards deal
-largely in human flesh. <span id="fr_75"></span>[§](#fn_75)
+chief's enemies. <span id="fr_74"></span>[‡](#fn_74.md) Wizards deal
+largely in human flesh. <span id="fr_75"></span>[§](#fn_75.md)
 
 The multiplication of sacrifices is acceptable to all the gods <span
-id="fr_76"></span>[\*\*](#fn_76) of heathendom, and one case is on
+id="fr_76"></span>[\*\*](#fn_76.md) of heathendom, and one case is on
 record in which tribes killed every hoof of cattle and destroyed every
 peck of corn to secure the favour of their ancestors. True, the priest
 who ordered this to be done promised that there should be a general
@@ -289,7 +289,7 @@ wives, servants and slaves must be killed to accompany him and attend to
 his wants. It may also be noted that the ruling chief may order, even in
 the case of accusations of having caused his father's death, the
 substitution of an ox for the condemned person. <span
-id="fr_77"></span>[\*](#fn_77) The ox is sacrificed, not killed, as a
+id="fr_77"></span>[\*](#fn_77.md) The ox is sacrificed, not killed, as a
 criminal substitute for the wizard, who is set at liberty. This seems to
 point to the victims of witchcraft, whom we generally regard as
 criminals under native law, being in reality a sacrifice to the
@@ -304,7 +304,7 @@ When we leave South Africa and pass into the Lake region all doubt about
 substitutionary human sacrifice is set at rest. If a Wayao murderer is
 caught he may make compensation by giving a few slaves to be put to
 death, so that they may accompany the murdered man, taking his place to
-attend upon him. <span id="fr_78"></span>[\*](#fn_78) Should the
+attend upon him. <span id="fr_78"></span>[\*](#fn_78.md) Should the
 murderer escape, one of his relatives is caught and treated as if he
 were the murderer. The object here is not so much the punishment of
 crime as an offering to the deceased, whose spirit would naturally be
@@ -313,7 +313,7 @@ sending, either the murderer to be his slave, or such of his relatives
 or slaves as may make amends for his absence. Of departed spirits some
 have considerable influence among the gods. Matanga of the Wayao has
 many powerful servants, and arranges most of the details of the spirit
-world in that region. <span id="fr_79"></span>[†](#fn_79) He is
+world in that region. <span id="fr_79"></span>[†](#fn_79.md) He is
 capricious and easily offended, but can be coaxed by judicious flattery.
 Men having ghostly relations with him, or with lesser divinities through
 him, can compound for personal service by substitution. So, instead of
@@ -341,13 +341,13 @@ both his own head and his country's freedom.
 Among the Wagogo the simplest form of human sacrifice is when the
 magician comes to the palace with two bunches of grass dipped in the
 blood of a victim slain quietly and without ostentation. <span
-id="fr_80"></span>[\*](#fn_80) These he lays on the lintel or threshold,
+id="fr_80"></span>[\*](#fn_80.md) These he lays on the lintel or threshold,
 where they are touched by the king, and so offered to the gods. Of these
 gods the principal is Makusa, who, as we have seen, claims a right
 higher than the king over the Lake, as the embodiment of the powers of
 nature. He it is that is personified by the Lubare, who is the real
 object of worship. Makusa as a sort of Neptune is but a chief
-Lubare. <span id="fr_81"></span>[†](#fn_81) He enters
+Lubare. <span id="fr_81"></span>[†](#fn_81.md) He enters
 
 <span id="page_73">p. 73</span>
 
@@ -355,20 +355,20 @@ a person; that person is god, and to him sacrifices are offered. Closely
 bound up with the worship of the Lubare is the care of the place where
 the king's predecessors are kept, or rather of these predecessors
 themselves, for the Lubare holds converse with the dead as with the
-living. <span id="fr_82"></span>[\*](#fn_82)
+living. <span id="fr_82"></span>[\*](#fn_82.md)
 
 Associated with, or subordinate to the Lubare are Nende, Kajangeyewe,
 and Kubuka, who are a kind of national guardian spirits. These appear in
 persons who are god-possessed, and such persons are always accompanied
 by magicians, priests, and executioners; <span
-id="fr_83"></span>[†](#fn_83) that is to say, those who slay victims for
+id="fr_83"></span>[†](#fn_83.md) that is to say, those who slay victims for
 the sacrifices. The god-possessed person has but to demand a victim,
 when a wayfarer is caught, bound, beheaded, and offered in sacrifice.
 Every person holding the sacred office of priest or magician claims to
 have the spirit of the king dwelling in him, or at least visiting him at
-intervals. <span id="fr_84"></span>[‡](#fn_84) The head wife of every
+intervals. <span id="fr_84"></span>[‡](#fn_84.md) The head wife of every
 great man's harem is called "Kuda Lubare " <span
-id="fr_85"></span>[§](#fn_85)—*i.e.*, slave of the spirit, meaning one
+id="fr_85"></span>[§](#fn_85.md)—*i.e.*, slave of the spirit, meaning one
 in whom the god dwells. The same terms are applied to the child of a
 woman long barren, and who offered sacrifice and prayed to the Lubare
 for offspring. This is a true dedication of issue at the shrine when the
@@ -376,7 +376,7 @@ offering is made. Of this we have an illustration, in widely different
 circumstances, when Hannah said: "O Lord of hosts, if thou wilt indeed
 look on the affliction of thine handmaid, and give unto thine handmaid a
 man child, then I will give him unto the Lord all the days of his
-life, <span id="fr_86"></span>[\*\*](#fn_86)
+life, <span id="fr_86"></span>[\*\*](#fn_86.md)
 
 <span id="page_74">p. 74</span>
 
@@ -397,7 +397,7 @@ are to the Lubare as the earth god, rather than to the kings, for the
 Lubare is the genius of the country, the object of universal worship. So
 general is the worship of Lubare that no one leaves his hut in the
 morning without first throwing out an offering, as a wisp of grass,
-saying, "Here, Lubare, take that. <span id="fr_87"></span>[\*](#fn_87)
+saying, "Here, Lubare, take that. <span id="fr_87"></span>[\*](#fn_87.md)
 
 To them Katonga, or Creator, and Lubare mean the same, for every
 phenomenon is subject to Lubare. Crops, famine, food, rain, thunder,
@@ -453,7 +453,7 @@ than an offering to a god. The object seems to be, not so much an
 offering to the god as the killing of the god himself by substitutionary
 sacrifice. The King of Ashantee, when holding the great annual Fetish
 festival, calls it the festival of his fathers, <span
-id="fr_88"></span>[\*](#fn_88) and is himself for the time regarded as
+id="fr_88"></span>[\*](#fn_88.md) and is himself for the time regarded as
 the personification of the gods. His actions are not so much that of
 their delegate, which he claims at all times to be, but their actions,
 their words, and their very movements. If the king rises, the gods
@@ -491,11 +491,11 @@ gold fork,
 <span id="page_78">p. 78</span>
 
 while the nobles stand before him uncovered. <span
-id="fr_89"></span>[\*](#fn_89) At this and the palm-wine festival the
+id="fr_89"></span>[\*](#fn_89.md) At this and the palm-wine festival the
 honours of adoration are all done to the king, and the progress of the
 festival is consecrated by any stray person about the palace doors being
 seized and slain as an act of reverence to his majesty. <span
-id="fr_90"></span>[†](#fn_90) The treatment of such victims after
+id="fr_90"></span>[†](#fn_90.md) The treatment of such victims after
 execution is thus described by Kühne, who frequently witnessed such
 scenes.
 
@@ -537,7 +537,7 @@ Bantama is the resting-place or mausoleum of the departed kings, and
 when Kühne was in Ashantee there were fourteen of the king's
 predecessors within its walls. It is a long building, divided into small
 cells, each of which contains the skeleton of a king; <span
-id="fr_91"></span>[\*](#fn_91) the coffins containing these, as well as
+id="fr_91"></span>[\*](#fn_91.md) the coffins containing these, as well as
 the skeletons themselves, being connected together with gold wires. Each
 cell contains such articles as the tenant loved best during his life. At
 the festival of Bantama the skeletons are placed on chairs in the
@@ -559,7 +559,7 @@ inspection, after which the same ritual as we saw among the Wagogo is
 observed, the victims being counted by hundreds. Should the king dance
 with his wives, a messenger must be sent to his fathers to explain why
 he is at that particular time engaged in the light pastime. <span
-id="fr_92"></span>[\*](#fn_92)
+id="fr_92"></span>[\*](#fn_92.md)
 
 But it is not necessary to go so far afield as Ashantee to find
 illustration of messages being sent to the spirit world. My father, who
@@ -588,7 +588,7 @@ is singular—that the Fetish priest is supposed to be able to visit the
 regions of the dead in *propria persona*, as the substitute or
 representative of the living, and there act for them as if they were
 themselves present in the land of shades.  <span
-id="fr_93"></span>[\*](#fn_93) For example, a man falls ill and believes
+id="fr_93"></span>[\*](#fn_93.md) For example, a man falls ill and believes
 that he is being warned by some ancestral spirit that his presence is
 required beyond the bourne. He consults the priest, who on receipt of a
 suitable fee agrees to descend and make reconciliation on his behalf, so
@@ -645,72 +645,72 @@ be discovered.
 
 ### Footnotes
 
-<span id="fn_64"></span>[61:\*](ram06.htm#fr_64) Isaacs, *Travels and
+<span id="fn_64"></span>[61:\*](ram06.htm#fr_64.md) Isaacs, *Travels and
 Adventures in East Africa*.
 
-<span id="fn_65"></span>[62:\*](ram06.htm#fr_65) J. G. Frazer, quoting
+<span id="fn_65"></span>[62:\*](ram06.htm#fr_65.md) J. G. Frazer, quoting
 Athenæus.
 
-<span id="fn_66"></span>[62:†](ram06.htm#fr_66) Aymonier.
+<span id="fn_66"></span>[62:†](ram06.htm#fr_66.md) Aymonier.
 
-<span id="fn_67"></span>[68:\*](ram06.htm#fr_67) J. Sutton, MS. notes.
+<span id="fn_67"></span>[68:\*](ram06.htm#fr_67.md) J. Sutton, MS. notes.
 
-<span id="fn_68"></span>[68:†](ram06.htm#fr_68) *Ibid*.
+<span id="fn_68"></span>[68:†](ram06.htm#fr_68.md) *Ibid*.
 
-<span id="fn_69"></span>[68:‡](ram06.htm#fr_69) G. M. Theal, *Boers and
+<span id="fn_69"></span>[68:‡](ram06.htm#fr_69.md) G. M. Theal, *Boers and
 Bantu*.
 
-<span id="fn_70"></span>[68:§](ram06.htm#fr_70) *Ibid*.
+<span id="fn_70"></span>[68:§](ram06.htm#fr_70.md) *Ibid*.
 
-<span id="fn_71"></span>[68:\*\*](ram06.htm#fr_71) J. Sutton, MS. notes.
+<span id="fn_71"></span>[68:\*\*](ram06.htm#fr_71.md) J. Sutton, MS. notes.
 
-<span id="fn_72"></span>[69:\*](ram06.htm#fr_72) Chalmers, J: Sutton,
+<span id="fn_72"></span>[69:\*](ram06.htm#fr_72.md) Chalmers, J: Sutton,
 Hon. C. Brownlee.
 
-<span id="fn_73"></span>[69:†](ram06.htm#fr_73) Chalmers.
+<span id="fn_73"></span>[69:†](ram06.htm#fr_73.md) Chalmers.
 
-<span id="fn_74"></span>[69:‡](ram06.htm#fr_74) Hon. C. Brownlee,
+<span id="fn_74"></span>[69:‡](ram06.htm#fr_74.md) Hon. C. Brownlee,
 *Christian Express*.
 
-<span id="fn_75"></span>[69:§](ram06.htm#fr_75) Dr. Elmslie, MS. notes.
+<span id="fn_75"></span>[69:§](ram06.htm#fr_75.md) Dr. Elmslie, MS. notes.
 
-<span id="fn_76"></span>[69:\*\*](ram06.htm#fr_76) J. Sutton, MS. notes.
+<span id="fn_76"></span>[69:\*\*](ram06.htm#fr_76.md) J. Sutton, MS. notes.
 
-<span id="fn_77"></span>[70:\*](ram06.htm#fr_77) Hon. C. Brownlee, MS.
+<span id="fn_77"></span>[70:\*](ram06.htm#fr_77.md) Hon. C. Brownlee, MS.
 notes.
 
-<span id="fn_78"></span>[71:\*](ram06.htm#fr_78) Rev. Duff MacDonald.
+<span id="fn_78"></span>[71:\*](ram06.htm#fr_78.md) Rev. Duff MacDonald.
 
-<span id="fn_79"></span>[71:†](ram06.htm#fr_79) *Ibid*.
+<span id="fn_79"></span>[71:†](ram06.htm#fr_79.md) *Ibid*.
 
-<span id="fn_80"></span>[72:\*](ram06.htm#fr_80) Mackay, of Uganda.
+<span id="fn_80"></span>[72:\*](ram06.htm#fr_80.md) Mackay, of Uganda.
 
-<span id="fn_81"></span>[72:†](ram06.htm#fr_81) Felkin.
+<span id="fn_81"></span>[72:†](ram06.htm#fr_81.md) Felkin.
 
-<span id="fn_82"></span>[73:\*](ram06.htm#fr_82) Felkin.
+<span id="fn_82"></span>[73:\*](ram06.htm#fr_82.md) Felkin.
 
-<span id="fn_83"></span>[73:†](ram06.htm#fr_83) Mackay, of Uganda.
+<span id="fn_83"></span>[73:†](ram06.htm#fr_83.md) Mackay, of Uganda.
 
-<span id="fn_84"></span>[73:‡](ram06.htm#fr_84) *Ibid*.
+<span id="fn_84"></span>[73:‡](ram06.htm#fr_84.md) *Ibid*.
 
-<span id="fn_85"></span>[73:§](ram06.htm#fr_85) *Ibid*.
+<span id="fn_85"></span>[73:§](ram06.htm#fr_85.md) *Ibid*.
 
-<span id="fn_86"></span>[73:\*\*](ram06.htm#fr_86) 1 Samuel.
+<span id="fn_86"></span>[73:\*\*](ram06.htm#fr_86.md) 1 Samuel.
 
-<span id="fn_87"></span>[74:\*](ram06.htm#fr_87) Mackay, Uganda.
+<span id="fn_87"></span>[74:\*](ram06.htm#fr_87.md) Mackay, Uganda.
 
-<span id="fn_88"></span>[76:\*](ram06.htm#fr_88) Ramseyer and Kühne.
+<span id="fn_88"></span>[76:\*](ram06.htm#fr_88.md) Ramseyer and Kühne.
 
-<span id="fn_89"></span>[78:\*](ram06.htm#fr_89) Ramseyer and Kühne.
+<span id="fn_89"></span>[78:\*](ram06.htm#fr_89.md) Ramseyer and Kühne.
 
-<span id="fn_90"></span>[78:†](ram06.htm#fr_90) *Ibid*.
+<span id="fn_90"></span>[78:†](ram06.htm#fr_90.md) *Ibid*.
 
-<span id="fn_91"></span>[79:\*](ram06.htm#fr_91) Kühne.
+<span id="fn_91"></span>[79:\*](ram06.htm#fr_91.md) Kühne.
 
-<span id="fn_92"></span>[80:\*](ram06.htm#fr_92) Kühne.
+<span id="fn_92"></span>[80:\*](ram06.htm#fr_92.md) Kühne.
 
-<span id="fn_93"></span>[81:\*](ram06.htm#fr_93) Winterbotham, Rowley.
+<span id="fn_93"></span>[81:\*](ram06.htm#fr_93.md) Winterbotham, Rowley.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Taboos](ram07)
+[Next: Chapter V. Taboos](ram07.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr17) 
-[Next](idr19) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr17.md) 
+[Next](idr19.md) 
 
 ------------------------------------------------------------------------
 
@@ -514,4 +514,4 @@ themselves, according to our fancy.
 
 ------------------------------------------------------------------------
 
-[Next: Irish Gods](idr19)
+[Next: Irish Gods](idr19.md)

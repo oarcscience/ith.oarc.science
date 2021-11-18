@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo39)  [Next](sdo41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo39)  [Next](sdo41.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ buffalo skull, were present in the lodge.
 
 ------------------------------------------------------------------------
 
-[Next: Pronouncing Them Hunka](sdo41)
+[Next: Pronouncing Them Hunka](sdo41.md)

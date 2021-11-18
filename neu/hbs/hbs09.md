@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs08) [Next](hbs10)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs08) [Next](hbs10.md)
 
 ------------------------------------------------------------------------
 
@@ -76,7 +76,7 @@ For there her curse is written most plain in Strahin’s sight:
  “Where art thou, son? Foul fall the wine in Krúshevats the white!  
 Evil is the wine and full of shame for thee and thy wife’s kin.  
 Behold what woes against thee are written down herein!  
-From Yedren<span id="page_35_fr_1"></span>[1](#page_35_note_1) with an
+From Yedren<span id="page_35_fr_1"></span>[1](#page_35_note_1.md) with an
 army is come the Turkish tsar  
 To Kósovo, and his viziers are with him in the war;  
 And he hath taken Kósovo with his accurst viziers.  
@@ -211,7 +211,7 @@ He rode down through white Krúshevats, but aye he looked behind
 To see if his brave brethren would alter in their mind,  
 And pity his affliction. No friend came to the ban.  
 And thereupon he minded him of the hound Káraman,<span
-id="page_42_fr_1"></span>[1](#page_42_note_1)  
+id="page_42_fr_1"></span>[1](#page_42_note_1.md)  
 Whom he loves better than the steed, and holds of richer worth,  
 And loudly from the strong white throat the hound-call thunders forth.  
 The hound lay in the stable, but harkened and gave heed,  
@@ -589,7 +589,7 @@ And scanty are the heroes as gallant as the ban.
 
 ------------------------------------------------------------------------
 
-[Next](hbs10)
+[Next](hbs10.md)
 
 ------------------------------------------------------------------------
 
@@ -597,11 +597,11 @@ And scanty are the heroes as gallant as the ban.
 
 <span id="footnotes_page_35">p. 35</span>
 
-<span id="page_35_note_1"></span>[1](#page_35_fr_1) Adrianople.
+<span id="page_35_note_1"></span>[1](#page_35_fr_1.md) Adrianople.
 
 <span id="footnotes_page_42">p. 42</span>
 
-<span id="page_42_note_1"></span>[1](#page_42_fr_1) In Servian this word
+<span id="page_42_note_1"></span>[1](#page_42_fr_1.md) In Servian this word
 is accented on the second syllable.
 
  

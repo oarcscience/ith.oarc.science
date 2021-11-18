@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Next](omw01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Next](omw01.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ FORMIDABLE
 
 ------------------------------------------------------------------------
 
-[Next: The Significance of Mythology](omw01)
+[Next: The Significance of Mythology](omw01.md)

@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@
 ------------------------------------------------------------------------
 
 With all of the oceans of ink spilled over subjects such as
-[Atlantis](../../atl/index), Bigfoot and [UFOs](../../ufo/index), not to
+[Atlantis](../../atl/index), Bigfoot and [UFOs](../../ufo/index.md), not to
 mention the pop culture awareness created by the *Xena, Warrior
 Princess* TV series, I find it surprising that there are so few books
 devoted to the Amazons. The legend of the Amazons is amazingly
@@ -39,15 +39,15 @@ J. B. Hare
 
 ------------------------------------------------------------------------
 
-[Title Page](ama00)  
-[Contents](ama01)  
-[Chapter I: Introductory](ama02)  
-[Chapter II. The Amazons of Antiquity](ama03)  
-[Chapter III: The Amazons of Antiquity--(continued)](ama04)  
-[Chapter IV: Amazons in Far Asia](ama05)  
-[Chapter V: Modern Amazons of the Caucasus](ama06)  
-[Chapter VI: Amazons of Europe](ama07)  
-[Chapter VII: Amazons of Africa](ama08)  
-[Chapter VIII: Amazons of America](ama09)  
-[Chapter IX: The Amazon Stones](ama10)  
-[Chapter X: Conclusion](ama11)  
+[Title Page](ama00.md)  
+[Contents](ama01.md)  
+[Chapter I: Introductory](ama02.md)  
+[Chapter II. The Amazons of Antiquity](ama03.md)  
+[Chapter III: The Amazons of Antiquity--(continued)](ama04.md)  
+[Chapter IV: Amazons in Far Asia](ama05.md)  
+[Chapter V: Modern Amazons of the Caucasus](ama06.md)  
+[Chapter VI: Amazons of Europe](ama07.md)  
+[Chapter VII: Amazons of Africa](ama08.md)  
+[Chapter VIII: Amazons of America](ama09.md)  
+[Chapter IX: The Amazon Stones](ama10.md)  
+[Chapter X: Conclusion](ama11.md)  

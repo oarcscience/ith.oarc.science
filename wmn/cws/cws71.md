@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws70)  [Next](cws72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws70)  [Next](cws72.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XV
 
-#### LAMBDA, OR THE LAST OF THE GODS\[U\]; BEING THE SECRET OF SATAN <span id="fr_223"></span>[1](#fn_223)
+#### LAMBDA, OR THE LAST OF THE GODS\[U\]; BEING THE SECRET OF SATAN <span id="fr_223"></span>[1](#fn_223.md)
 
 AND on the seventh day there went forth from the presence of God a
 mighty angel, full of wrath and consuming, and God gave unto him the
@@ -150,7 +150,7 @@ divine.
 of dragons, of Titans, and of elemental gods;
 
 46\. Forsaking the intelligible world, <span
-id="fr_224"></span>[1](#fn_224) seeking manifestation, renouncing their
+id="fr_224"></span>[1](#fn_224.md) seeking manifestation, renouncing their
 first estate;
 
 47\. Which were cast out into chaos, neither was their place found any
@@ -237,17 +237,17 @@ Amen.\[A\]
 
 ### Footnotes
 
-<span id="fn_223"></span>[169:1](cws71.htm#fr_223) A portion of this
+<span id="fn_223"></span>[169:1](cws71.htm#fr_223.md) A portion of this
 illumination, viz. 28 verses of the first part (but not the 28 first
 verses as they stand), were received at Paris, on November 12, 1878. The
 "redelivery and completion" of this Illumination was received, "without
 quitting the waking state," at Paris, on October 21, 1886 (*Life of Anna
 Kingsford*, vol. i, pp. 289, 290: vol. ii, pp. 282, 283).    S. H. H.
 
-<span id="fn_224"></span>[171:1](cws71.htm#fr_224) Of which the sensible
+<span id="fn_224"></span>[171:1](cws71.htm#fr_224.md) Of which the sensible
 world is the antithesis.    E. M.
 
 ------------------------------------------------------------------------
 
 [Next: No. XVI: The Seven Spirits Of God And Their
-Correspondences](cws72)
+Correspondences](cws72.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah97)  [Next](oah99) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah97)  [Next](oah99.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ Amen! Amen!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](oah99)
+[Next: Chapter XII](oah99.md)

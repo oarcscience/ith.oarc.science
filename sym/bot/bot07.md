@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot06) 
-[Next](bot08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot06.md) 
+[Next](bot08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ Hoof—Siva's Charm—The Money Sword—Red in Talismans—The Lock—Bells—Th
 Tortoise—The Tiger—Pigs—The Black Cat.</span>
 
 <span class="smallcaps">Illustration</span> No. 24, [Plate
-II](bot06.htm#img_pl02) is a Talisman for Wisdom and Perseverance, and
+II](bot06.htm#img_pl02.md) is a Talisman for Wisdom and Perseverance, and
 is of great power amongst the Hindus; the circle is indicative of
 infinity, the border of triangles signifies that all nature is subject
 to the laws of the Trinity, Brahma, Vishnu, and Siva; the serpent is the
@@ -47,7 +47,7 @@ which Initiates must acquire.
 
 <span class="smallcaps">Impressions of Buddha's Footprints</span>,
 another very popular Talisman (see Illustration No. 25, [Plate
-II](bot06.htm#img_pl02)), are to be met with not only in the form of
+II](bot06.htm#img_pl02).md), are to be met with not only in the form of
 personal ornaments, but in gigantic proportions of which an example may
 be seen at the British Museum, beautifully carved and ornamented with
 
@@ -69,7 +69,7 @@ the area over which they are found embraces the whole world.
 
 In Thibet, the Lamaist Sceptre, or Dorje, the thunderbolt of Indra, is
 greatly valued as a Talisman (see Illustration No. 26, [Plate
-II](bot06.htm#img_pl02)) . This symbol is prized as a Talisman against
+II](bot06.htm#img_pl02).md) . This symbol is prized as a Talisman against
 Demons, and to bring fruitfulness. Indra, as the deity of the
 atmosphere, governs the weather and dispenses the rain, sending forth
 lightnings and thunder against Ahi the demon of drought, whom he
@@ -80,7 +80,7 @@ fertilising showers.
 
 <span class="smallcaps">Knots</span> are used in India and Thibet as
 Talismans for Longevity and to avert the Evil Eye (see Illustration No.
-27, [Plate II](bot06.htm#img_pl02)), the Knot being considered potent to
+27, [Plate II](bot06.htm#img_pl02).md), the Knot being considered potent to
 bind that which is good and precious, and to prove an obstacle or
 hindrance to that which is evil; for instance, at the time of marriage
 knots are lucky, and the ceremonies connected with a Chinese marriage
@@ -98,7 +98,7 @@ class="smallcaps">B.C.</span> It is based on the belief that the
 Universe was ruled by Divinities arranged in three groups, one ruling
 the heavens, the second the earth, (having dominion over mountains,)
 streams, and vegetation, and the third ruling the affairs of mankind.
-Illustration No. 21, [Plate I](bot05.htm#img_pl01) is a Talisman that
+Illustration No. 21, [Plate I](bot05.htm#img_pl01.md) is a Talisman that
 had its origin at this period, and was given to the Emperor Fu-hsi, the
 founder of the Chinese
 
@@ -113,7 +113,7 @@ for long life and to ward off evil influences. The Talisman is made of
 all sizes and shapes, from large ones on boards, one or two feet square,
 down to tiny medals for personal wear, no larger than a sixpence. It is
 also frequently used in circular form, as shown in the central part of
-the Bat Talisman (No. 20, [Plate I](bot05.htm#img_pl01)), and is known
+the Bat Talisman (No. 20, [Plate I](bot05.htm#img_pl01).md), and is known
 as Tho, the symbol of longevity. The Pa-kwa Trigrams are based upon the
 ancient theory of the Yang Yin, or two first causes, indicated by the
 circular figure divided by a spiral line in the centre of the Talisman
@@ -139,7 +139,7 @@ believed in at the present time; and the Talisman of the five bats, the
 Weefuh, is for the five great happinesses that all men desire, Luck,
 Wealth, Longevity, Health, and Peace. The five bats are frequently used
 alone, but sometimes, as in Illustration No. 20, [Plate
-I](bot05.htm#img_pl01), the Trigrams, or some other symbol, is used in
+I](bot05.htm#img_pl01.md), the Trigrams, or some other symbol, is used in
 conjunction.
 
 Two Bats signify good wishes; a Goose is depicted as a Talisman for
@@ -175,7 +175,7 @@ appearance on earth being considered a portent of great events. The
 <span class="smallcaps">torii</span>, a kind of gate elaborately carved
 and decorated at the entrances of Shinto temples, is erected for the
 Phœnix to perch upon should it visit the earth (see Illustration No. 40,
-[Plate III](#img_pl03)). This fabled bird has also played a conspicuous
+[Plate III](#img_pl03).md). This fabled bird has also played a conspicuous
 part in British and foreign heraldry.
 
 <span class="smallcaps">The Dragon</span> is symbolical of everything
@@ -188,7 +188,7 @@ the Emperor's throne being called the Dragon One.
 There are three forms of Dragon—the "*Lung*," or sky dragon, the "*Li*,"
 which lives in the sea, and the "*Kiao*," which inhabits the marshes.
 The dragon is worn for Longevity and Domestic Felicity (see Illustration
-No. 38, [Plate III](#img_pl03)).
+No. 38, [Plate III](#img_pl03).md).
 
 The type of the Dragon was thought to have been the boa-constrictor,
 until the researches of geology brought to light in the iguanodon such a
@@ -208,7 +208,7 @@ gold or silver triangle bearing two swords
 
 <span id="img_pl03"></span> <span align="CENTER"> [![PLATE 3. CHINESE
 AND JAPANESE TALISMANS](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 PLATE 3. CHINESE AND JAPANESE TALISMANS  
 </span>
 
@@ -216,7 +216,7 @@ PLATE 3. CHINESE AND JAPANESE TALISMANS
 
 suspended from the outer angles, and a trident from the centre of the
 base; on the triangles lucky characters frequently appear (see
-Illustration No. 39, [Plate III](#img_pl03)). This is undoubtedly an
+Illustration No. 39, [Plate III](#img_pl03).md). This is undoubtedly an
 imported Hindu Talisman of Siva, who is regarded as the Regenerator and
 Controller of reproductive power; and in addition to the acquirement of
 these qualities, this Talisman is worn for protection against Ghosts and
@@ -229,7 +229,7 @@ of evil spirits, and it attracts cash to its fortunate possessor when
 suspended from right to left above the head of his bed. This Cash Sword
 is composed of two iron rods along which a quantity of coins, having
 holes in the centre, are tied with red silk, making a potent charm which
-is very popular (see Illustration No. 44, [Plate III](#img_pl03)).
+is very popular (see Illustration No. 44, [Plate III](#img_pl03).md).
 
 For talismanic purposes, Red is indispensable in China. It is interwoven
 with the pig-tail, and must form a part of children's clothing. Written
@@ -241,7 +241,7 @@ vermilion. One of the commonest
 <span id="page_42">p. 42</span>
 
 amulets worn by an only son is a small silver lock (see Illustration No.
-45, [Plate III](#img_pl03)). The father collects coins from about a
+45, [Plate III](#img_pl03).md). The father collects coins from about a
 hundred different heads of families and has them exchanged for silver,
 which is converted into a native padlock used to fasten a silver chain
 round the boy's neck; this it is believed will preserve him from evil
@@ -261,7 +261,7 @@ It represents the feminine principle in Nature and, as such, it
 penetrated to the West, so that in Greek and Roman art Aphrodite and
 Venus are frequently found associated with the Tortoise, whose virtues
 or gifts were said by Pliny to number sixty-six (see Illustration No.
-36, [Plate III](#img_pl03)).
+36, [Plate III](#img_pl03).md).
 
 <span class="smallcaps">The Tiger</span> is the god of the gambler in
 China, and a tiger's tooth is regarded as a Talisman for
@@ -282,6 +282,6 @@ believe it to be a harbinger of poverty, misfortune, and sickness.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](bot08)
+[Next: Chapter V](bot08.md)
 
 </div>

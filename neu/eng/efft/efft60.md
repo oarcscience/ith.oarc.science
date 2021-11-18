@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft59)  [Next](efft61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft59)  [Next](efft61.md) 
 
 ------------------------------------------------------------------------
 
-# THE ROARING BULL O' BAGBURY  <span id="fr_69"></span>[1](#fn_69)
+# THE ROARING BULL O' BAGBURY  <span id="fr_69"></span>[1](#fn_69.md)
 
 THERE was a very bad man lived at Bagbury Farm, and when he died it was
 said that he had never done but two good things in his life, and the one
@@ -46,9 +46,9 @@ hearing me and coming out."
 
 ### Footnotes
 
-<span id="fn_69"></span>[1](efft60.htm#fr_69) Miss C. S. Burne,
+<span id="fn_69"></span>[1](efft60.htm#fr_69.md) Miss C. S. Burne,
 *Shropshire Folk-Lore*, p 108.
 
 ------------------------------------------------------------------------
 
-[Next: The White Lady of Blenkinsopp](efft61)
+[Next: The White Lady of Blenkinsopp](efft61.md)

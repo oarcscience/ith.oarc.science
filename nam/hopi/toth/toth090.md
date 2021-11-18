@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth089)  [Next](toth091) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth089)  [Next](toth091.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 87. THE LITTLE GRAY MICE AND THE LITTLE BROWN MICE. <span id="fr_166"></span>[2](#fn_164)
+## 87. THE LITTLE GRAY MICE AND THE LITTLE BROWN MICE. <span id="fr_166"></span>[2](#fn_164.md)
 
 A long time ago the Little Gray Mice (Pövö'yamu) lived at Tumble Down
 Bluff (Tûkwíshahpukpu), south-east of the village, and the Little Brown
@@ -71,12 +71,12 @@ houses, and that is the reason why they now may be found everywhere.
 
 ### Footnotes
 
-<span id="fn_163"></span>[223:1](toth089.htm#fr_165) The words in both
+<span id="fn_163"></span>[223:1](toth089.htm#fr_165.md) The words in both
 of the songs are obsolete and no longer understood.
 
-<span id="fn_164"></span>[223:2](toth090.htm#fr_166) Told by Qöyáwaima
+<span id="fn_164"></span>[223:2](toth090.htm#fr_166.md) Told by Qöyáwaima
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 88. The Badger and the Small Gray Mice](toth091)
+[Next: 88. The Badger and the Small Gray Mice](toth091.md)

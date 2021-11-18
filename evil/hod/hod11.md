@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod10)  [Next](hod12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod10)  [Next](hod12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ salvation and immortality, and in addition there were enthusiasts who
 tried to apply the new principles in practical life. The former called
 themselves μαϑηταί, learners or disciples, the latter holy ones (ἅγιοι),
 or healers (θεραπευταί, therapeutae). <span
-id="fr_57"></span>[1](#fn_57)
+id="fr_57"></span>[1](#fn_57.md)
 
 With regard to the problem of evil, the most peculiar sect were the
 Gnostics of Syria whom the Church fathers called serpent-worshippers or
@@ -80,7 +80,7 @@ of spiritual generation.
 <span id="img_13900"></span> <span align="CENTER"> [![THE CHRISTIAN
 TRINITY, GOD FATHER, SON, AND HOLY GHOST. (Old German School. Reproduced
 from Muther.)](tn/generic.jpg)  
-Click to view](img/13900.jpg)  
+Click to view](img/13900.jpg.md)  
 THE CHRISTIAN TRINITY, GOD FATHER, SON, AND HOLY GHOST. (Old German
 School. Reproduced from Muther.)  
 </span>
@@ -91,7 +91,7 @@ mentioned in the Acts as having been baptised by St. Peter and condemned
 for his opinion that the Holy Ghost could be bought with money.
 
 We know of sects in Judæa the Nazarenes, the Sabians <span
-id="fr_58"></span>[1](#fn_58) or Baptisers, the Essenes, and the
+id="fr_58"></span>[1](#fn_58.md) or Baptisers, the Essenes, and the
 Ebionites, which were born of the same seeking spirit of the age. But we
 must bear in mind that the members of these societies
 
@@ -99,7 +99,7 @@ must bear in mind that the members of these societies
 
 belonged exclusively to the poorer class of society and formed a third
 party which was quite distinct from the orthodox Pharisees and the
-liberal Sadducees. <span id="fr_59"></span>[1](#fn_59) They are to us of
+liberal Sadducees. <span id="fr_59"></span>[1](#fn_59.md) They are to us of
 importance, however, because from their midst proceeded the man who was
 destined to become the standard bearer of a new faith and the
 representative incarnation of the new religion--Jesus of Nazareth.
@@ -121,7 +121,7 @@ Apocryphal Books of the Old Testament
 <span id="img_14100"></span> <span align="CENTER"> [![ASMODI, AN EVIL
 SPIRIT, CAST OUT BY PRAYER.&lt;br&gt; (After Schnorr von
 Carolsfeld.)](tn/generic.jpg)  
-Click to view](img/14100.jpg)  
+Click to view](img/14100.jpg.md)  
 ASMODI, AN EVIL SPIRIT, CAST OUT BY PRAYER.  
 (After Schnorr von Carolsfeld.)  
 </span>
@@ -148,7 +148,7 @@ Esdras anticipates the general eschatology as well as many smaller
 details of the Christian doctrines in a more definite shape than any
 other author of the period. He even proclaims (2 Esdras, vii. 28) the
 name of the Saviour whom the Lord calls "my son Jesus." <span
-id="fr_60"></span>[1](#fn_60)
+id="fr_60"></span>[1](#fn_60.md)
 
 Esdras mentions two abysmal beings, Enoch and Leviathan, but they do not
 take any part in the production of evil. He might as well have omitted
@@ -214,7 +214,7 @@ eternity to eternity."</span>
 HELL.&lt;br&gt; (After H. F., an Unknown Old-German master.)&lt;br&gt;
 Preserving the gnostic Trinity-ideal of God father, God mother, and God
 son.](tn/generic.jpg)  
-Click to view](img/14400.jpg)  
+Click to view](img/14400.jpg.md)  
 HEAVEN AND HELL.  
 (After H. F., an Unknown Old-German master.)  
 Preserving the gnostic Trinity-ideal of God father, God mother, and God
@@ -248,7 +248,7 @@ version of the Book of Enoch, which has been translated into German by
 Dr. A. Dillmann, for it is of great interest to the historian. It
 breathes the spirit of a Judaistic Gnosticism, and it is probable that
 the original Book of Enoch was written in the year 110 B. C. by a Jew of
-the Pharisee party. <span id="fr_61"></span>[1](#fn_61)
+the Pharisee party. <span id="fr_61"></span>[1](#fn_61.md)
 
 *The Book of Wisdom and the Gnostic Trinity Idea*.
 
@@ -261,7 +261,7 @@ envy introduced death into the world. We read:
 <span id="img_14600"></span> <span align="CENTER"> [![THE HOLY TRINITY
 IN THE VATICAN.&lt;br&gt; (After Pietro Berrettini. Reproduced from
 &lt;i&gt;Il Vaticano&lt;/i&gt;, plate xx.)](tn/generic.jpg)  
-Click to view](img/14600.jpg)  
+Click to view](img/14600.jpg.md)  
 THE HOLY TRINITY IN THE VATICAN.  
 (After Pietro Berrettini. Reproduced from *Il Vaticano*, plate xx.)  
 </span>
@@ -279,7 +279,7 @@ word wisdom, or *sophia*, seems to
 <span id="img_14700"></span> <span align="CENTER"> [![THE BUDDHIST
 TRINITY, THE BUDDHA, THE DHARMA, THE SANGHA.&lt;br&gt; (Japanese wood
 carving; Musée Guimet.)](tn/generic.jpg)  
-Click to view](img/14700.jpg)  
+Click to view](img/14700.jpg.md)  
 THE BUDDHIST TRINITY, THE BUDDHA, THE DHARMA, THE SANGHA.  
 (Japanese wood carving; Musée Guimet.)  
 </span>
@@ -301,21 +301,21 @@ Trinity; and the name Pneuma or spirit was alone retained for the third
 person. The Gnostic Trinity-conception, however, left its trace in the
 Christian apocrypha, for in "the Gospel according to the Hebrews" Christ
 spoke of the Holy Ghost as his mother. <span
-id="fr_62"></span>[1](#fn_62)
+id="fr_62"></span>[1](#fn_62.md)
 
 <span id="img_14800"></span> <span align="CENTER"> [![THE TRINITY AND
 MARY.&lt;br&gt; (By Ambrogio Fossano, called Borgognone. Formerly in the
 S. Simpliciano at Milan, now at the Brera. After
 Lübke.)](tn/generic.jpg)  
-Click to view](img/14800.jpg)  
+Click to view](img/14800.jpg.md)  
 THE TRINITY AND MARY.  
 (By Ambrogio Fossano, called Borgognone. Formerly in the S. Simpliciano
 at Milan, now at the Brera. After Lübke.)  
 </span>
 
 The Trinity idea is of a very ancient origin. We encounter it in the
-religion of Babylon (see [p. 40](hod06.htm#page_40)), in Brahmanism (see
-[p. 75](hod09.htm#page_75)), and in Buddhism. The Buddhists take refuge
+religion of Babylon (see [p. 40](hod06.htm#page_40).md), in Brahmanism (see
+[p. 75](hod09.htm#page_75).md), and in Buddhism. The Buddhists take refuge
 in the Buddha, the Dharma, and the Sangha, called the three jewels,
 representing (1) Buddha the teacher, (2) the Buddhist religion or the
 good law, and (3) the Buddhist brotherhood or Church. The Trinity
@@ -332,7 +332,7 @@ and Child, viewed as one.
 TRINITY.&lt;br&gt; From the &lt;i&gt;Iconographie Chrétienne&lt;/i&gt;.
 (Reproduced from Bastian's &lt;i&gt;Ethnol. Bilderbuch&lt;/i&gt;, plate
 xvii.)](tn/generic.jpg)  
-Click to view](img/14900.jpg)  
+Click to view](img/14900.jpg.md)  
 THE CHRISTIAN TRINITY.  
 From the *Iconographie Chrétienne*. (Reproduced from Bastian's *Ethnol.
 Bilderbuch*, plate xvii.)  
@@ -367,7 +367,7 @@ SALERNO.&lt;br&gt; Byzantine style of Lower Italy, probably of the XIII.
 century. Sketched by the artist of the &lt;i&gt;Gartenlaube&lt;/i&gt; in
 an inn at Salerno from the original painting which has been sold in the
 mean time to an Englishman.](tn/generic.jpg)  
-Click to view](img/15000.jpg)  
+Click to view](img/15000.jpg.md)  
 THE TRINITY OF SALERNO.  
 Byzantine style of Lower Italy, probably of the XIII. century. Sketched
 by the artist of the *Gartenlaube* in an inn at Salerno from the
@@ -392,7 +392,7 @@ being
 
 <span id="img_15100"></span> <span align="CENTER"> [![JACOB
 BÖHME.](tn/generic.jpg)  
-Click to view](img/15100.jpg)  
+Click to view](img/15100.jpg.md)  
 JACOB BÖHME.  
 </span>
 
@@ -428,7 +428,7 @@ thought.
 BÖHME'S BOOK ON THE THREEFOLD LIFE OF MAN,&lt;br&gt; Illustrating the
 three principles which pervade life, consisting of the principles of
 Good and Evil as unfolded in Time.](tn/generic.jpg)  
-Click to view](img/15200.jpg)  
+Click to view](img/15200.jpg.md)  
 VIGNETTE OF JACOB BÖHME'S BOOK ON THE THREEFOLD LIFE OF MAN,  
 Illustrating the three principles which pervade life, consisting of the
 principles of Good and Evil as unfolded in Time.  
@@ -468,13 +468,13 @@ principle of divine manifestation-it is the wrath side of God."
 <span id="img_15300"></span> <span align="CENTER"> [![THE THREE
 PRINCIPLES&lt;br&gt; Frontispiece of Jacob Böhme's book on the subject
 and illustrating his religious philosophy.](tn/generic.jpg)  
-Click to view](img/15300.jpg)  
+Click to view](img/15300.jpg.md)  
 THE THREE PRINCIPLES  
 Frontispiece of Jacob Böhme's book on the subject and illustrating his
 religious philosophy.  
 </span>
 
- <span id="fr_63"></span>[1](#fn_63)
+ <span id="fr_63"></span>[1](#fn_63.md)
 
 The problem of the idea of evil is very prominent in Jacob Böhme's
 philosophy, and has found a monistic solution. Without identifying good
@@ -485,7 +485,7 @@ suffering in God himself, and in the act of revealing himself his will
 manifests both the bright and the dark aspect of life.
 
 Jacob Böhme anticipates Schopenhauer. He says, in his book on "The
-Threefold Life of Man," p. 56: <span id="fr_64"></span>[1](#fn_63)
+Threefold Life of Man," p. 56: <span id="fr_64"></span>[1](#fn_63.md)
 
 <span id="page_154">p. 154</span>
 
@@ -509,7 +509,7 @@ With all his gnostic tendencies Jacob Böhme is not a dualist but a
 monist. The duality of life viewed under the aspect of a higher unity
 constitutes a trinity whose three principles are represented in the
 frontispiece of Jacob Böhme's book on the subject <span
-id="fr_65"></span>[1](#fn_64) as two overlapping spheres which by
+id="fr_65"></span>[1](#fn_64.md) as two overlapping spheres which by
 meeting produce a third domain. There is an eternal goodness, and there
 is an eternal badness, and there is an eternal mixture of both. The
 eternal goodness contains the divine spirit and all the angels. But the
@@ -595,17 +595,17 @@ factor in the history of the world.
 
 ### Footnotes
 
-<span id="fn_57"></span>[138:1](hod11.htm#fr_57) Philo explains the name
+<span id="fn_57"></span>[138:1](hod11.htm#fr_57.md) Philo explains the name
 "therapeutae" also as "worshippers." The genuineness of Philo's book *De
 vita contemplativa* and with it the very existence of the therapeutae
 has been doubted by p. E. Lucius, whose views, however, are thoroughly
 refuted by Fred. C. Conybeare, *Philo About the Contemplative Life*
 (Clarendon Press, Oxford, 1895)
 
-<span id="fn_58"></span>[139:1](hod11.htm#fr_58) St. John the Baptist
+<span id="fn_58"></span>[139:1](hod11.htm#fr_58.md) St. John the Baptist
 was a Sabian. The name is derived from ‏צָבָע‎ (*tsabha*). to baptise.
 
-<span id="fn_59"></span>[140:1](hod11.htm#fr_59) The word Essenes, or
+<span id="fn_59"></span>[140:1](hod11.htm#fr_59.md) The word Essenes, or
 Essees (in Greek Ἐσσηνοί and Ἐσσαῖοι, in Latin Esseni), is derived by
 Ewald from ‏חַצָּו‎ preserver, guardian, a rabbinical term, because they
 called themselves "watchers, guardians, servants of God." Others derive
@@ -641,23 +641,23 @@ the former in the sense of "Separatist." The Niphel of the verb means
 "to separate oneself from others; to abstain. to vow, to devote oneself
 to."
 
-<span id="fn_60"></span>[142:1](hod11.htm#fr_60) The passage is of
+<span id="fn_60"></span>[142:1](hod11.htm#fr_60.md) The passage is of
 course subject to the suspicion of being a later interpolation.
 
-<span id="fn_61"></span>[145:1](hod11.htm#fr_61) See Dillmann, Das Buch
+<span id="fn_61"></span>[145:1](hod11.htm#fr_61.md) See Dillmann, Das Buch
 Henoch, p. xliv.
 
-<span id="fn_62"></span>[148:1](hod11.htm#fr_62) *Hieron. adv. Pelag.*
+<span id="fn_62"></span>[148:1](hod11.htm#fr_62.md) *Hieron. adv. Pelag.*
 III., 2.
 
-<span id="fn_63"></span>[153:1](hod11.htm#fr_64) *Hohe und teife Gründe
+<span id="fn_63"></span>[153:1](hod11.htm#fr_64.md) *Hohe und teife Gründe
 von dem Dreyfachen Leben des Menschen nach dem Geheimnüss der drey
 Principien göttlicher Offenbahrung. Geschrieben nach göttlicher
 Erleuchtung*, Amsterdam, 1682.
 
-<span id="fn_64"></span>[154:1](hod11.htm#fr_65) *Beschreibung der drey
+<span id="fn_64"></span>[154:1](hod11.htm#fr_65.md) *Beschreibung der drey
 Principien göttlichen Wesens*. Amsterdam, 1682.
 
 ------------------------------------------------------------------------
 
-[Next: Early Christianity](hod12)
+[Next: Early Christianity](hod12.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](sig24)  [Next](sig26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](sig24)  [Next](sig26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0827600607/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0827600607/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ For the Lord loveth judgment.
 
 ------------------------------------------------------------------------
 
-[Next: 23. Prayer For the Hazzan](sig26)
+[Next: 23. Prayer For the Hazzan](sig26.md)

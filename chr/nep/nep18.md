@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep17)  [Next](nep19) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep17)  [Next](nep19.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ I will obey my superiors.
 
 ------------------------------------------------------------------------
 
-[Next: Instructive Questions and Answers](nep19)
+[Next: Instructive Questions and Answers](nep19.md)

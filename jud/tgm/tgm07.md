@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm06)  [Next](tgm08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm06)  [Next](tgm08.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ out of the caves, they soon tore their
 <span id="img_02500"></span>
 
 [![](tn/02500.jpg)  
-Click to enlarge](img/02500.jpg)
+Click to enlarge](img/02500.jpg.md)
 
  
 
@@ -193,4 +193,4 @@ Who gave their lives, their faith to save*.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Walking Between Raindrops](tgm08)
+[Next: 5. Walking Between Raindrops](tgm08.md)

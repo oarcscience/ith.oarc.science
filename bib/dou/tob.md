@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](rev)  [Next](jdt) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](rev)  [Next](jdt.md) 
 
 ------------------------------------------------------------------------
 
@@ -1079,4 +1079,4 @@ the land.
 
 ------------------------------------------------------------------------
 
-[Next: Judith](jdt)
+[Next: Judith](jdt.md)

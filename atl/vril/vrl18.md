@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl17)  [Next](vrl19) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl17)  [Next](vrl19.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ republic.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XX](vrl19)
+[Next: CHAPTER XX](vrl19.md)

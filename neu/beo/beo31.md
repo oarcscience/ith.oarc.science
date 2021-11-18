@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo30)  [Next](beo32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo30)  [Next](beo32.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ in the doom of their lord, to a dreadful end.
 
 ------------------------------------------------------------------------
 
-[Next: Part XXXIII](beo32)
+[Next: Part XXXIII](beo32.md)

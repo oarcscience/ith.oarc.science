@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil21)  [Next](seil23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil21)  [Next](seil23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ supreme and true Captain shows and grace to imitate Him.
 
 **First Point**. The first Point is to imagine as if the chief of all
 the enemy seated himself in that great field of Babylon, as in a
-great <span id="fr_10"></span>[11](seil83.htm#fn_10) chair of fire and
+great <span id="fr_10"></span>[11](seil83.htm#fn_10.md) chair of fire and
 smoke, in shape horrible and terrifying.
 
 **Second Point**. The second, to consider how he issues a summons to
@@ -51,7 +51,7 @@ places, states, nor any persons in particular.
 **Third Point**. The third, to consider the discourse which he makes
 them, and how he tells them to cast out nets and chains; that they have
 first to tempt with a longing for riches -- as he is accustomed to do in
-most cases <span id="fr_11"></span>[12](seil83.htm#fn_11) -- that men
+most cases <span id="fr_11"></span>[12](seil83.htm#fn_11.md) -- that men
 may more easily come to vain honor of the world, and then to vast pride.
 So that the first step shall be that of riches; the second, that of
 honor; the third, that of pride; and from these three steps he draws on
@@ -102,4 +102,4 @@ Pairs which follows, at the hour before supper.
 
 ------------------------------------------------------------------------
 
-[Next: Three Pairs of Men](seil23)
+[Next: Three Pairs of Men](seil23.md)

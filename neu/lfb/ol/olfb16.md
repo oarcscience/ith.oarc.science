@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb15)  [Next](olfb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb15)  [Next](olfb17.md) 
 
 </div>
 
@@ -321,6 +321,6 @@ FOOTNOTE:
 
 ------------------------------------------------------------------------
 
-[Next: The Golden-Headed Fish](olfb17)
+[Next: The Golden-Headed Fish](olfb17.md)
 
 </div>

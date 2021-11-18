@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb22)  [Next](blfb24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb22)  [Next](blfb24.md) 
 
 </div>
 
@@ -390,6 +390,6 @@ the world, and, in the meantime, made his court to perfection.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: The Forty Thieves](blfb24)
+[Next: The Forty Thieves](blfb24.md)
 
 </div>

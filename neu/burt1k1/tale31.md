@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale30)  [Next](tale32) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale30)  [Next](tale32.md) 
 
 ------------------------------------------------------------------------
 
@@ -948,4 +948,4 @@ Ali Baba and his household lived all their lives in wealth and joyance
 in that city where erst he had been a pauper, and by the blessing of
 that secret treasure he rose to high degree and dignities.
 
-(*Next*) [CONCLUSION](tale32)  
+(*Next*) [CONCLUSION](tale32.md)  

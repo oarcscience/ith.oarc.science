@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi20)  [Next](rpdi22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi20)  [Next](rpdi22.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ American](../../index)  [California](../index)  [Index](index) 
 ### COLORS AND DIRECTION.
 
 Among the Diegueño exists a peculiar association of direction with
-color. <span id="fr_142"></span>[126a](#fn_140) The two ideas appear
+color. <span id="fr_142"></span>[126a](#fn_140.md) The two ideas appear
 together frequently both in their myths and in their religious formulas
 and rituals.
 
@@ -41,13 +41,13 @@ statement of the old men, that when the dancers witch a white eagle to
 death in the Eagle-dance, as described above, "they send him east. When
 they kill a black eagle they send him west."
 
-In the myth of Chaup, <span id="fr_143"></span>[127](#fn_141) there is
+In the myth of Chaup, <span id="fr_143"></span>[127](#fn_141.md) there is
 shown a corresponding feeling for color connected with north and south.
 "The elder sister, who was a witch-doctor and knew everything, stood up
 and held her hand to the north and brought down a red stone. ... Then
 she held up her hands to the south and got a blue stone of the same
 sort." Further on in this same story, <span
-id="fr_144"></span>[128](#fn_142) the corresponding colors for east and
+id="fr_144"></span>[128](#fn_142.md) the corresponding colors for east and
 west are indicated. "The boys stood and held their hands to the east and
 got some white clay and with it they painted their cheeks. Then they
 held their hands to the west and got some black clay."
@@ -90,14 +90,14 @@ up, down</span></p></td>
 
 Certain passages in Diegueño mythology seem to indicate that this system
 is not always understood. In the Chaup story, for instance, the
-following passage occurs: <span id="fr_145"></span>[129](#fn_143) "Then
+following passage occurs: <span id="fr_145"></span>[129](#fn_143.md) "Then
 she held up her hand to the sky and got a black sticky substance . . .
 and then she reached out her hand toward the west and got some shining
 stuff like quicksilver." This of course contradicts the statement
 already made, that west is associated with black and east with "gleaming
 white." The author of the quoted passage, however, elsewhere confuses
 her Diegueño directions east and west. In her paper in the present
-series <span id="fr_146"></span>[130](#fn_144) east is given as awik,
+series <span id="fr_146"></span>[130](#fn_144.md) east is given as awik,
 and west as nyak, the terms being reversed. The confusion of the color
 association in the above passage may therefore have risen only in the
 English translation, and not from any confusion in the mind of the
@@ -126,21 +126,21 @@ established.
 
 ### Footnotes
 
-<span id="fn_140"></span>[332:126a](rpdi21.htm#fr_142) See the author's
+<span id="fn_140"></span>[332:126a](rpdi21.htm#fr_142.md) See the author's
 "Diegueño Identification of Color with the Cardinal Points," Journ. Am.
 Folk-Lore, XXI, 40, 1908.
 
-<span id="fn_141"></span>[333:127](rpdi21.htm#fr_143) Journ. Am.
+<span id="fn_141"></span>[333:127](rpdi21.htm#fr_143.md) Journ. Am.
 Folk-Lore, XVII, 218, 1904.
 
-<span id="fn_142"></span>[333:128](rpdi21.htm#fr_144) *Ibid*., 226.
+<span id="fn_142"></span>[333:128](rpdi21.htm#fr_144.md) *Ibid*., 226.
 
-<span id="fn_143"></span>[334:129](rpdi21.htm#fr_145) Journ. Am.
+<span id="fn_143"></span>[334:129](rpdi21.htm#fr_145.md) Journ. Am.
 Folk-Lore, XIX, 151, 1906.
 
-<span id="fn_144"></span>[334:130](rpdi21.htm#fr_146) Op. cit., p. 125,
+<span id="fn_144"></span>[334:130](rpdi21.htm#fr_146.md) Op. cit., p. 125,
 record 1090.
 
 ------------------------------------------------------------------------
 
-[Next: Ceremonial Numbers](rpdi22)
+[Next: Ceremonial Numbers](rpdi22.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](maui12)  [Next](maui14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](maui12)  [Next](maui14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHBQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHBQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Legends of Maui, A Demi-God of Polynesia*, by W. D. Westervelt,
 \[1910\], at Intangible Textual Heritage
 
@@ -215,4 +215,4 @@ inside had no trouble.
 
 ------------------------------------------------------------------------
 
-[Next: XI. Maui Seeking Immortality](maui14)
+[Next: XI. Maui Seeking Immortality](maui14.md)

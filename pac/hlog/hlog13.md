@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog12)  [Next](hlog14) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog12)  [Next](hlog14.md) 
 
 ------------------------------------------------------------------------
 
@@ -182,4 +182,4 @@ him in mythology the awful appetite of an insatiable man-eating shark.
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Strange Banana Skin](hlog14)
+[Next: IX. The Strange Banana Skin](hlog14.md)

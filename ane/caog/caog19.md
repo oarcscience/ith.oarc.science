@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog18)  [Next](caog20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog18)  [Next](caog20.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -980,7 +980,7 @@ the greatest
 
 <span id="img_28300"></span> <span align="CENTER"> [![HASISADRA OR NOAH
 AND IZDUBAR; FROM AN EARLY BABYLONIAN CYLINDER.](tn/28300.jpg)  
-Click to enlarge](img/28300.jpg)  
+Click to enlarge](img/28300.jpg.md)  
 HASISADRA OR NOAH AND IZDUBAR; FROM AN EARLY BABYLONIAN CYLINDER.  
 </span>
 
@@ -1202,7 +1202,7 @@ that the literature of the old Syrian peoples, if it should ever be
 recovered, may help us to the discovery of the connection between these
 various accounts.
 
-The seal which I have figured, [p. 106](caog09.htm#page_106), belonged
+The seal which I have figured, [p. 106](caog09.htm#page_106.md), belonged
 to
 
 <span id="page_291">p. 291</span>
@@ -1319,6 +1319,6 @@ powerless as a nation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Conclusion](caog20)
+[Next: Chapter XVII. Conclusion](caog20.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had26)  [Next](had28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had26)  [Next](had28.md) 
 
 ------------------------------------------------------------------------
 
@@ -261,4 +261,4 @@ light and punished.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV: Debts and Mortgage](had28)
+[Next: Chapter XXV: Debts and Mortgage](had28.md)

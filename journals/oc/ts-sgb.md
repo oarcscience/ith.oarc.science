@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) 
+[Intangible Textual Heritage](../../index) [Journals](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ was among the crowd the old mother of a Brahmacharin, who
 |                                    |                                                                                        |
 |------------------------------------|----------------------------------------------------------------------------------------|
 | ![](ts-sgb1.jpg)                   | ![](ts-sgb2.jpg)                                                                       |
-| <span class="small">DAIKOK.</span> | <span class="small">EBIS.</span><span id="page_399_fr_*"></span>[\*](#page_399_note_*) |
+| <span class="small">DAIKOK.</span> | <span class="small">EBIS.</span><span id="page_399_fr_*"></span>[\*](#page_399_note_*.md) |
 
 said to them, "This is nothing unusual. Do not trouble yourselves." he
 burned incense and fire on the altar of Mahâkâla and made him some
@@ -402,7 +402,7 @@ imaginings—so dear to the Japanese of all classes.
 
 ------------------------------------------------------------------------
 
-[Journals](../index)
+[Journals](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -410,9 +410,9 @@ imaginings—so dear to the Japanese of all classes.
 
 <span id="footnotes_page_399">p. 399</span>
 
-<span id="page_399_note_*"></span>[\*](#page_399_fr_*) The illustrations
+<span id="page_399_note_*"></span>[\*](#page_399_fr_*.md) The illustrations
 in the text are from photographs of actors who impersonate these
-national gods in a mythological drama. The [frontispiece](ts-sgbfp) of
+national gods in a mythological drama. The [frontispiece](ts-sgbfp.md) of
 this number of The Open Court is a Japanese artist's idea of the same
 characters painted according to the traditional interpretations.
 

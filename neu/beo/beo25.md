@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo24)  [Next](beo26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo24)  [Next](beo26.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ no better hero ever lived than Beowulf."
 
 ------------------------------------------------------------------------
 
-[Next: Part XXV](beo26)
+[Next: Part XXV](beo26.md)

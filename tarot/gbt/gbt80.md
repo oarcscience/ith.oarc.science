@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](gbt79)  [Next](gbt81) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](gbt79)  [Next](gbt81.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ Incident or accident*.
 
 ------------------------------------------------------------------------
 
-[Next: Nine of Swords](gbt81)
+[Next: Nine of Swords](gbt81.md)

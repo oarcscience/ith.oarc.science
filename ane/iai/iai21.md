@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai20)  [Next](iai22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai20)  [Next](iai22.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ Hath Accad not her chariots and spears?"
 
 Then one among the wisest seers arose  
 "To save our precious tune which hourly flows,  
-He should our seer, Rab-sak-i <span id="fr_191"></span>[1](#fn_189)
+He should our seer, Rab-sak-i <span id="fr_191"></span>[1](#fn_189.md)
 first invite  
 To lay his plans before the Sar, and light  
 May break across our vision. I confess  
@@ -72,15 +72,15 @@ Within a mountain castle, whence he grieves
 All nations by his tyranny, and reigns  
 With haughty power from Kharsak to these plains.  
 I'll lead the way, my Sar, to his wild home;  
-'Tis twenty *kas-pu* <span id="fr_192"></span>[2](#fn_190) hence, if you
+'Tis twenty *kas-pu* <span id="fr_192"></span>[2](#fn_190.md) hence, if you
 will come.  
 A wall surrounds his castle in a wood,  
 With brazen gates strong fastened. I have stood  
 Beneath the lofty pines which dwindle these  
 To shrubs that grow in parks as ornate trees.  
 The mighty walls will reach six *gars* <span
-id="fr_193"></span>[3](#fn_191) in height,  
-And two in breadth, like Nipur's <span id="fr_194"></span>[4](#fn_192)
+id="fr_193"></span>[3](#fn_191.md) in height,  
+And two in breadth, like Nipur's <span id="fr_194"></span>[4](#fn_192.md)
 to the sight.
 
 <span id="page_63">p. 63</span>
@@ -92,7 +92,7 @@ To lose no time, to-morrow we should go.
 To Erech, pines and cedars we can bring  
 With all the wealth of Elam's giant king,  
 And Erech fill with glorious parks and halls,  
-Remove these *man-u-bani*, <span id="fr_195"></span>[5](#fn_193) ruined
+Remove these *man-u-bani*, <span id="fr_195"></span>[5](#fn_193.md) ruined
 walls.  
 Take to your hearts, ye seers, poor Erech's wrongs!  
 Her fall, the bards of Elam sing in songs.  
@@ -138,7 +138,7 @@ And all his people joyful sing,
        With glory crown him here!
 
 All hail! All hail! our giant King,  
-The *amaranti* <span id="fr_196"></span>[6](#fn_194) for him bring,  
+The *amaranti* <span id="fr_196"></span>[6](#fn_194.md) for him bring,  
        To crown him, crown him here,  
 As King of Accad and Sutu,  
 And all the land of Subar-tu!  
@@ -167,28 +167,28 @@ The chiefs, without the temple, join their Sar.
 
 ### Footnotes
 
-<span id="fn_189"></span>[62:1](iai21.htm#fr_191) "Rab-sak-i," chief of
+<span id="fn_189"></span>[62:1](iai21.htm#fr_191.md) "Rab-sak-i," chief of
 the high ones, chief of the seers and counsellors; prime, minister.
 
-<span id="fn_190"></span>[62:2](iai21.htm#fr_192) "Twenty kaspu," 140
+<span id="fn_190"></span>[62:2](iai21.htm#fr_192.md) "Twenty kaspu," 140
 miles; each kaspu was seven miles, or two hours' journey.
 
-<span id="fn_191"></span>[62:3](iai21.htm#fr_193) "Six gars," 120 feet;
+<span id="fn_191"></span>[62:3](iai21.htm#fr_193.md) "Six gars," 120 feet;
 each gar was a twenty-foot measure. Khumbaba's walls were thus 120 feet
 high and forty feet thick--much like the wall, of Babylon.
 
-<span id="fn_192"></span>[62:4](iai21.htm#fr_194) "Nipur" was one of the
+<span id="fn_192"></span>[62:4](iai21.htm#fr_194.md) "Nipur" was one of the
 cities of Izdubar's kingdom, from whence he came to the rescue of Erech.
 
-<span id="fn_193"></span>[63:5](iai21.htm#fr_195) "Man-u-ban-i," a tree
+<span id="fn_193"></span>[63:5](iai21.htm#fr_195.md) "Man-u-ban-i," a tree
 or shrub of unpleasant odor mentioned by Heabani. See Sayce's revised
 edition Smith's "Chald. Acc. of Genesis," p. 254. The fragment
 translated by Mr. Sayce should be placed in another position in the
 epic.
 
-<span id="fn_194"></span>[64:6](iai21.htm#fr_196) "Amaranti," amaranth.
+<span id="fn_194"></span>[64:6](iai21.htm#fr_196.md) "Amaranti," amaranth.
 "immortal amaranth."--"Par. Lost"
 
 ------------------------------------------------------------------------
 
-[Next: Column III. The King Worships at The Shrine of Ishtar](iai22)
+[Next: Column III. The King Worships at The Shrine of Ishtar](iai22.md)

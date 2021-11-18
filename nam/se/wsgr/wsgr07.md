@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr06)  [Next](wsgr08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr06)  [Next](wsgr08.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ long."
 <span id="img_03000"></span>
 
 [![](tn/03000.jpg)  
-Click to enlarge](img/03000.jpg)
+Click to enlarge](img/03000.jpg.md)
 
 <span id="page_31">p. 31</span>
 
@@ -83,4 +83,4 @@ And that is why the mistletoe keeps growing in the trees.
 
 ------------------------------------------------------------------------
 
-[Next: Why the Woodpecker Pecks](wsgr08)
+[Next: Why the Woodpecker Pecks](wsgr08.md)

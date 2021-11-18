@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Next](sym01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Next](sym01.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symzonia; Voyage of Discovery*, by Adam Seaborn (pseud. John Cleves
 Symmes?), \[1820\], at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ because it was published prior to 1923.
 
 <span id="img_title"></span> <span align="CENTER"> [![Original Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Original Title Page  
 </span>
 
@@ -69,4 +69,4 @@ E IT REMEMBERED, that on the second day of November, in the forty-fifth year of 
 ------------------------------------------------------------------------
 
 [Next: Sectional View of the Earth Showing the Openings at the
-Poles](sym01)
+Poles](sym01.md)

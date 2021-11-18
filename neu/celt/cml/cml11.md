@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml10)  [Next](cml12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml10)  [Next](cml12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
 
 ### CHAPTER VII
 
-### THE RISE OF THE SUN-GOD <span id="fr_108"></span>[1](#fn_108)
+### THE RISE OF THE SUN-GOD <span id="fr_108"></span>[1](#fn_108.md)
 
 It was as a result of the loss of his hand in this battle with the Fir
 Bolgs that Nuada got his name of *Argetlám*, that is, the "Silver
@@ -30,7 +30,7 @@ Fomors, the giants of the sea, and make an alliance with them. So they
 sent a message to Bress, the son of the Fomorian king, Elathan, asking
 him to come and rule over them. Bress accepted this offer; and they made
 a marriage between him and Brigit, the daughter of the Dagda. At the
-same time, Cian <span id="fr_109"></span>[2](#fn_109), the son of
+same time, Cian <span id="fr_109"></span>[2](#fn_109.md), the son of
 Diancecht, the physician of the Tuatha Dé Danann, married
 
 <span id="page_79">p. 79</span>
@@ -243,7 +243,7 @@ come to Tara."
 
 So the door-keeper went inside, and told the king that a man had come
 who called himself Lugh the *Ioldanach* <span
-id="fr_110"></span>[1](#fn_110), or the "Master of all Arts", and that
+id="fr_110"></span>[1](#fn_110.md), or the "Master of all Arts", and that
 he claimed to know everything.
 
 The king sent out his best chess-player to play against the stranger.
@@ -325,8 +325,8 @@ shall not be able to stand against our warriors."
 "the twelve mountains of Ireland at the Fomors. These mountains will be
 Slieve League, Denna Ulad, the Mourne Mountains, Bri Ruri, Slieve Bloom,
 Slieve Snechta, Slemish, Blai-Sliab, Nephin, Sliab Maccu Belgodon,
-Segais <span id="fr_111"></span>[1](#fn_111), and Cruachan Aigle <span
-id="fr_112"></span>[2](#fn_112)".
+Segais <span id="fr_111"></span>[1](#fn_111.md), and Cruachan Aigle <span
+id="fr_112"></span>[2](#fn_112.md)".
 
 Then Lugh asked the cup-bearers what they would do.
 
@@ -341,7 +341,7 @@ conceal themselves from the Fomors so that they shall not get a drop,
 while they will give drink to the people of the goddess Danu as long as
 the war lasts, even if it last seven years." And they told Lugh that the
 twelve chief lakes were Lough Derg, Lough Luimnigh <span
-id="fr_113"></span>[1](#fn_113), Lough Corrib, Lough Ree, Lough Mask,
+id="fr_113"></span>[1](#fn_113.md), Lough Corrib, Lough Ree, Lough Mask,
 Strangford Lough, Lough Læig, Lough Neagh, Lough Foyle, Lough Gara,
 Lough Reagh, and Márloch, and that the twelve chief rivers were the
 Bush, the Boyne, the Bann, the Nem, the Lee, the Shannon, the Moy, the
@@ -361,25 +361,25 @@ Lugh.
 
 ### Footnotes
 
-<span id="fn_108"></span>[78:1](cml11.htm#fr_108) The principal sources
+<span id="fn_108"></span>[78:1](cml11.htm#fr_108.md) The principal sources
 of information for this chapter are the Harleian MS. 5280 entitled *The
 Second Battle of Moytura*, of which translations have been made by Dr.
 Whitley Stokes in the *Revue Celtique* and M. de Jubainville in his
 *L’Épopée Celtique en Irlande*, and Eugene O’Curry s translation in Vol.
 IV. of *Atlantis* of the *Fate of the Children of Tuirenn*.
 
-<span id="fn_109"></span>[78:2](cml11.htm#fr_109) Pronounced *Kian*.
+<span id="fn_109"></span>[78:2](cml11.htm#fr_109.md) Pronounced *Kian*.
 
-<span id="fn_110"></span>[85:1](cml11.htm#fr_110) Pronounced *Ildāna*.
+<span id="fn_110"></span>[85:1](cml11.htm#fr_110.md) Pronounced *Ildāna*.
 
-<span id="fn_111"></span>[87:1](cml11.htm#fr_111) The Curlieu Hills,
+<span id="fn_111"></span>[87:1](cml11.htm#fr_111.md) The Curlieu Hills,
 between Roscommon and Sligo.
 
-<span id="fn_112"></span>[87:2](cml11.htm#fr_112) Croagh Patrick.
+<span id="fn_112"></span>[87:2](cml11.htm#fr_112.md) Croagh Patrick.
 
-<span id="fn_113"></span>[88:1](cml11.htm#fr_113) The estuary of the
+<span id="fn_113"></span>[88:1](cml11.htm#fr_113.md) The estuary of the
 Shannon.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Gaelic Argonauts](cml12)
+[Next: Chapter VIII. The Gaelic Argonauts](cml12.md)

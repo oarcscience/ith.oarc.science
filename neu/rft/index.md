@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI4I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI4I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI4I/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rft00)    [Page
-Index](pageidx)    [Text \[Zipped\]](rft.txt.gz)
+[Contents](#contents)    [Start Reading](rft00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](rft.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -40,31 +40,31 @@ Romania, written during the 19th century.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](rft00)  
-[Preface](rft01)  
-[Contents](rft02)  
+<span id="contents"></span> [Title Page](rft00.md)  
+[Preface](rft01.md)  
+[Contents](rft02.md)  
 <span id="section_000"></span>
 
 ### Fairy Tales
 
-[The Slippers of the Twelve Princesses](rft03)  
-[The Ungrateful Wood-Cutter](rft04)  
-[The Hermit's Foundling with the Golden Hair](rft05)  
-[The Daughter of the Rose](rft06)  
-[The Twelve-Headed Griffin](rft07)  
-[Vasilica The Brave](rft08)  
-[Handsome is as Handsome Does](rft09)  
-[The Fisherman and the Boyard's Daughter](rft10)  
+[The Slippers of the Twelve Princesses](rft03.md)  
+[The Ungrateful Wood-Cutter](rft04.md)  
+[The Hermit's Foundling with the Golden Hair](rft05.md)  
+[The Daughter of the Rose](rft06.md)  
+[The Twelve-Headed Griffin](rft07.md)  
+[Vasilica The Brave](rft08.md)  
+[Handsome is as Handsome Does](rft09.md)  
+[The Fisherman and the Boyard's Daughter](rft10.md)  
 <span id="section_001"></span>
 
 ### Legends
 
-[Manioli, A Legend of the 13th Century](rft11)  
-[The Fortress of Poinarii](rft12)  
-[The Gentle Shepherd](rft13)  
+[Manioli, A Legend of the 13th Century](rft11.md)  
+[The Fortress of Poinarii](rft12.md)  
+[The Gentle Shepherd](rft13.md)  
 <span id="section_002"></span>
 
 ### Historic Tales
 
-[Death of Constantin II. Brancovan](rft14)  
-[The Mother of Stephen the Great](rft15)  
+[Death of Constantin II. Brancovan](rft14.md)  
+[The Mother of Stephen the Great](rft15.md)  

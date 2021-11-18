@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](ham00)  [Next](ham02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](ham00)  [Next](ham02.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ Charles F. Horne, Ph.D.
 ------------------------------------------------------------------------
 
 [Next: Babylonian Law--The Code of Hammurabi (Encyclopedia Britanica,
-11th Ed.)](ham02)
+11th Ed.)](ham02.md)

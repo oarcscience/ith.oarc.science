@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah21)  [Next](toah23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah21)  [Next](toah23.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_115">p. 115</span>
 
-### THE LADDER DANCE AT PIVAHONKIAPI <span id="fr_3"></span>[1](#fn_3)
+### THE LADDER DANCE AT PIVAHONKIAPI <span id="fr_3"></span>[1](#fn_3.md)
 
 Northwest of Oraibi, seven or eight miles, on that broad terrace which
 so conspicuously encircles many of the Hopi mesas, about 200 feet below
@@ -29,7 +29,7 @@ the two little war gods, sons of the Sun, Po-okonghoya and his brother,
 Palo-onghoya, with their grandmother, the Spider Woman. What more can
 you ask as the basis for a story!
 
-About 100 yards east of [Pivahonkiapi](errata.htm#9) can be observed
+About 100 yards east of [Pivahonkiapi](errata.htm#9.md) can be observed
 eight circular holes, about eight inches in diameter, cut in the rock at
 the cliff edge. About one of these holes the rock has cracked. The Hopi
 believe that these holes belong to the "ladder dance."--Ed.
@@ -267,9 +267,9 @@ Mission Indians of California.
 
 ### Footnotes
 
-<span id="fn_3"></span>[115:1](toah22.htm#fr_3) Reprinted from M. N. A.,
+<span id="fn_3"></span>[115:1](toah22.htm#fr_3.md) Reprinted from M. N. A.,
 Museum Notes, Vol. 5, No. 2, Aug. 1932, p. 8.
 
 ------------------------------------------------------------------------
 
-[Next: Dr. Fewkes and Masauwu](toah23)
+[Next: Dr. Fewkes and Masauwu](toah23.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei25)  [Next](jei27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei25)  [Next](jei27.md) 
 
 ------------------------------------------------------------------------
 
@@ -289,4 +289,4 @@ would have been dashed into fragments.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV. Our Country and Our Theory](jei27)
+[Next: Chapter XXIV. Our Country and Our Theory](jei27.md)

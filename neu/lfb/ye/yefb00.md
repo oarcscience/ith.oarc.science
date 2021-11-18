@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Next](yefb01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Next](yefb01.md) 
 
 </div>
 
@@ -56,6 +56,6 @@ The Garden of the Singing Rose.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](yefb01)
+[Next: Preface](yefb01.md)
 
 </div>

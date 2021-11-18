@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil23)  [Next](seil25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil23)  [Next](seil25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -35,4 +35,4 @@ Additions of this day; and so in the days that follow.
 
 ------------------------------------------------------------------------
 
-[Next: Sixth -- Tenth Day](seil25)
+[Next: Sixth -- Tenth Day](seil25.md)

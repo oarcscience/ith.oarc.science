@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws22)  [Next](cws24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws22)  [Next](cws24.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 #### CONCERNING THE ORIGIN OF EVIL, AND THE TREE AS THE TYPE OF CREATION
 
-##### PART I <span id="fr_91"></span>[2](#fn_91)
+##### PART I <span id="fr_91"></span>[2](#fn_91.md)
 
 SPEAK of the Tree and of its meaning. Of this the Hindûs understand more
 than you, for they represent their gods with many arms. This is because
@@ -57,7 +57,7 @@ look. It is not matter; it is the substance of matter, the divinity
 underlying it. God is not light, but that of which light itself is the
 manifestation. God willed it to be. Light is the result of God's will.
 God said, "Let light be"; and it was. Matter is the intensification of
-Idea. <span id="fr_92"></span>[1](#fn_92) All things are made of God's
+Idea. <span id="fr_92"></span>[1](#fn_92.md) All things are made of God's
 
 <span id="page_54">p. 54</span>
 
@@ -89,7 +89,7 @@ Spirit is Divinity itself. God is dual. I see, on looking closer, that
 through this duality God produces creation. Evil is caused by creation,
 or the projection of spirit into matter; that is, it is spirit which, by
 being projected far enough from the Divine centre, <span
-id="fr_93"></span>[1](#fn_93) becomes matter. Perception is one; the
+id="fr_93"></span>[1](#fn_93.md) becomes matter. Perception is one; the
 senses are specialised modes of perception. God is perception itself.
 God is universal percipience. God is both that which sees and that which
 is seen. If we all could see all, hear all, touch all, and so forth,
@@ -98,7 +98,7 @@ Such limitation was necessary, if God was to produce aught other than
 God. Aught other than God must be less than God. Without evil,
 therefore, God would have remained alone. All things are God, according
 to the measure of the spirit in them. And now I see that the nearest of
-all to God is a woman. <span id="fr_94"></span>[2](#fn_94)
+all to God is a woman. <span id="fr_94"></span>[2](#fn_94.md)
 
 <span id="page_55">p. 55</span>
 
@@ -106,21 +106,21 @@ all to God is a woman. <span id="fr_94"></span>[2](#fn_94)
 
 ### Footnotes
 
-<span id="fn_91"></span>[52:2](cws23.htm#fr_91) Paris, July 21, 1877.
+<span id="fn_91"></span>[52:2](cws23.htm#fr_91.md) Paris, July 21, 1877.
 This part was written down by the seeress herself while in trance. Part
 2 was spoken in the same condition immediately afterwards.    E. M.
 
 Referred to in *Life of Anna Kingsford*, vol. i, pp. 181-182.
 
-<span id="fn_92"></span>[53:1](cws23.htm#fr_92) Compare No. XXXI.
+<span id="fn_92"></span>[53:1](cws23.htm#fr_92.md) Compare No. XXXI.
 
-<span id="fn_93"></span>[54:1](cws23.htm#fr_93) The centre, that is, of
+<span id="fn_93"></span>[54:1](cws23.htm#fr_93.md) The centre, that is, of
 the Divine operation, not of the Divine Being.    E. M.
 
-<span id="fn_94"></span>[54:2](cws23.htm#fr_94) As type of the feminine
+<span id="fn_94"></span>[54:2](cws23.htm#fr_94.md) As type of the feminine
 or love aspect of the Divine Nature.    E. M.
 
 ------------------------------------------------------------------------
 
 [Next: No. XX: Concerning The Great Pyramid, And The Initiations
-Therein](cws24)
+Therein](cws24.md)

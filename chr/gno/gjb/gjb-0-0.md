@@ -1,4 +1,4 @@
-[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Next](gjb-0-1)
+[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Next](gjb-0-1.md)
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Contents](gjb-0-1)
+[Next: Contents](gjb-0-1.md)

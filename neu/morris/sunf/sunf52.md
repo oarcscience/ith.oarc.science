@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf51)  [Next](sunf53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf51)  [Next](sunf53.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -103,6 +103,6 @@ abide there a month or so. And thus he rode his ways.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LI. Osberne is Beguiled by Felons](sunf53)
+[Next: Chapter LI. Osberne is Beguiled by Felons](sunf53.md)
 
 </div>

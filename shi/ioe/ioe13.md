@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe12) 
-[Next](ioe14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe12.md) 
+[Next](ioe14.md) 
 
 ------------------------------------------------------------------------
 
@@ -416,4 +416,4 @@ intelligence that broods within the heart of him who listens.
 
 ------------------------------------------------------------------------
 
-[Next: Toyotomi and Early Tokugawa Period: 1600-1700 A.D.](ioe14)
+[Next: Toyotomi and Early Tokugawa Period: 1600-1700 A.D.](ioe14.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx04)  [Next](omtx06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx04)  [Next](omtx06.md) 
 
 ------------------------------------------------------------------------
 
@@ -514,4 +514,4 @@ most sacred and solemn ties.
 
 ------------------------------------------------------------------------
 
-[Next: Master Mason](omtx06)
+[Next: Master Mason](omtx06.md)

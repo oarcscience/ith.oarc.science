@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg38)  [Next](btg40) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg38)  [Next](btg40.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ the future, more thoughtful and more respectful."
 
 ------------------------------------------------------------------------
 
-[Next: The Jealousy Of Devadatta](btg40)
+[Next: The Jealousy Of Devadatta](btg40.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt37)  [Next](blt39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt37)  [Next](blt39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -297,7 +297,7 @@ breaking through the circle. The buffalo would "mill" around until
 exhausted, and at length, when worn out, would be shot down by the
 Indians. This corresponds almost exactly with one of the methods
 employed in killing buffalo by the Pawnees in early days before they had
-horses. <span id="fr_32"></span>[1](#fn_32) In those days the Pi-kŭn´-i
+horses. <span id="fr_32"></span>[1](#fn_32.md) In those days the Pi-kŭn´-i
 were very numerous, and sometimes when a lot of buffalo were found in a
 favorable position, and there was no wind, the people would surround
 them, and set up their lodges about them, thus practically building a
@@ -559,9 +559,9 @@ hunters.
 
 ### Footnotes
 
-<span id="fn_32"></span>[234:1](blt38.htm#fr_32) Pawnee Hero Stories and
+<span id="fn_32"></span>[234:1](blt38.htm#fr_32.md) Pawnee Hero Stories and
 Folk-Tales, p. 250.
 
 ------------------------------------------------------------------------
 
-[Next: The Blackfoot In War](blt39)
+[Next: The Blackfoot In War](blt39.md)

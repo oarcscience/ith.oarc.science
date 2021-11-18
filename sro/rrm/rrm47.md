@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm46)  [Next](rrm48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm46)  [Next](rrm48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ whole of the Chapters referring to the 'origin' of the Order of the
 ------------------------------------------------------------------------
 
 [Next: Chapter XVIII: Cabalistic Illustrations. The San-Grëale, Greal,
-or Holy Grëale](rrm48)
+or Holy Grëale](rrm48.md)

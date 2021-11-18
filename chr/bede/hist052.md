@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist051) 
-[Next](hist053) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist051.md) 
+[Next](hist053.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ English, Thuuf, was in like manner borne before him.
 ------------------------------------------------------------------------
 
 [Next: XVII. How Edwin received letters of exhortation from Pope
-Honorius, who also sent the pall to Paulinus. \[634 A.D.\]](hist053)
+Honorius, who also sent the pall to Paulinus. \[634 A.D.\]](hist053.md)

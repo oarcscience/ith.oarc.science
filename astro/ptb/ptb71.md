@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb70)  [Next](ptb72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb70)  [Next](ptb72.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,11 +53,11 @@ above-specified, utility, profit, presents and honours will likewise be
 derived from the journey.
 
 Saturn and Mars, if controlling the luminaries, and, especially, if
-placed distant from each other, <span id="fr_269"></span>[1](#fn_269)
+placed distant from each other, <span id="fr_269"></span>[1](#fn_269.md)
 will produce great dangers, and at the same time render the journey
 fruitless and unavailing. Should they be in watery signs, the dangers
 will arise by shipwreck, or among deserts and wilderness <span
-id="fr_270"></span>[2](#fn_270); if in fixed signs, by precipices, and
+id="fr_270"></span>[2](#fn_270.md); if in fixed signs, by precipices, and
 adverse blasts of wind; in tropical and equinoctial signs, by want of
 food and other necessaries, and by some unwholesome state of the
 atmosphere; in signs of human form, by robbery, treachery, and various
@@ -75,23 +75,23 @@ in the forms already detailed), of the peculiar properties of the
 places, in which the lords of employment, of wealth, of the body, or of
 rank, may be posited. And the periods, at which travelling will take
 place, are to be considered by the occasional ingress of the five
-planets. <span id="fr_271"></span>[1](#fn_271)
+planets. <span id="fr_271"></span>[1](#fn_271.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_269"></span>[133:1](ptb71.htm#fr_269) The probable meaning
+<span id="fn_269"></span>[133:1](ptb71.htm#fr_269.md) The probable meaning
 is, "if not acting in concert": but the Latin of Perugio says, "*si sint
 oppositi secundum longitudinem*."
 
-<span id="fn_270"></span>[133:2](ptb71.htm#fr_270) There seems a
+<span id="fn_270"></span>[133:2](ptb71.htm#fr_270.md) There seems a
 misprint here in the original: δυσωδιων, "foul vapours," instead of
 δυσοδων, "wildernesses."
 
-<span id="fn_271"></span>[134:1](ptb71.htm#fr_271) On the places
+<span id="fn_271"></span>[134:1](ptb71.htm#fr_271.md) On the places
 indicative of travelling.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Kind of Death](ptb72)
+[Next: Chapter IX. The Kind of Death](ptb72.md)

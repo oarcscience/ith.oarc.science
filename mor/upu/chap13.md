@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap12) [Next](chap14)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap12) [Next](chap14.md)
 
 ------------------------------------------------------------------------
 
@@ -378,4 +378,4 @@ later, after considerable protest in Utah.
 
 ------------------------------------------------------------------------
 
-[Next: XIV Treason Triumphant](chap14)
+[Next: XIV Treason Triumphant](chap14.md)

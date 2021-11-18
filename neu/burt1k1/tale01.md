@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale00)  [Next](tale02) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale00)  [Next](tale02.md) 
 
 ------------------------------------------------------------------------
 
@@ -307,4 +307,4 @@ therefore was pleased with the prospect of hearing her story. So
 Scheherazade rejoiced, and thus, on the first night of the Thousand
 Nights and a Night, she began her recitations.
 
-(*Next*) [THE FISHERMAN AND THE JINNI](tale02)  
+(*Next*) [THE FISHERMAN AND THE JINNI](tale02.md)  

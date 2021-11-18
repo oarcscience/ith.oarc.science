@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi18)  [Next](hpi20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi18)  [Next](hpi20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -345,7 +345,7 @@ personality it is true, but yet far less anthropomorphic than he
 appeared to simple Faith or in .. the Antimutazilite dogma. The surest
 way of coming to know him must be to refuse to attribute to him any of
 the properties of his creatures. But that does not mean that he
-[possesses](errata.htm#11) no attributes: the very reverse is the case.
+[possesses](errata.htm#11.md) no attributes: the very reverse is the case.
 The plurality of his qualities does not prejudice the Unity
 
 <span id="page_165">p. 165</span>
@@ -385,7 +385,7 @@ learning to swim. They want to elevate
 
 their faith into knowledge, but in the process they may easily fall into
 doubt and unbelief. For them, in Gazali's opinion, a
-[useful](errata.htm#12) remedy may be found in the study of Doctrine and
+[useful](errata.htm#12.md) remedy may be found in the study of Doctrine and
 Polemics directed against Philosophy.
 
 Those, however, have reached the highest degree of human perfection,
@@ -476,4 +476,4 @@ others had discovered before them.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Epitomists](hpi20)
+[Next: 2. The Epitomists](hpi20.md)

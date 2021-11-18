@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lob40)  [Next](lob42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lob40)  [Next](lob42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00292BROK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00292BROK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Buddha*, by A. Ferdinand Herold, tr. by Paul C Blum
 \[1922\], at Intangible Textual Heritage
 
@@ -170,4 +170,4 @@ saint, he would have to conquer his pride.
 
 ------------------------------------------------------------------------
 
-[Next: 20. The Death of Suddhodana](lob42)
+[Next: 20. The Death of Suddhodana](lob42.md)

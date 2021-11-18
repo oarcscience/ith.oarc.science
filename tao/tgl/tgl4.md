@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgl3) [Next](tgl5)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgl3) [Next](tgl5.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ W. R. I<span class="small">NGE</span>, D.D. 
 DISSERTATION ON  
 NATURAL LAW
 
-{[notes](tgln1.htm#4)\|[elucidations and analyses](tgln2.htm#4)}
+{[notes](tgln1.htm#4)\|[elucidations and analyses](tgln2.htm#4.md)}
 
    
 
@@ -45,7 +45,7 @@ of it proceed on constant lines.
 Chinese Editor.
 
    The rule of the T‛ai Ch‛ing<span
-id="fr_1"></span>[1](tgln1.htm#4_note_1) was in accord with Heaven, and
+id="fr_1"></span>[1](tgln1.htm#4_note_1.md) was in accord with Heaven, and
 beneficial to creation. Nature (hsing) was constant, the spirit simple
 and centred, (i.e. not scattered over a multitude of things). The mind
 had no appetites, (desire): it was quiescent: it was active, not
@@ -62,7 +62,7 @@ cunning.
 
 Actions were simple and without ostentation. So there was no recourse to
 horoscopy and divination of the eight signs<span
-id="fr_2"></span>[2](tgln1.htm#4_note_2) and the tortoise. There was no
+id="fr_2"></span>[2](tgln1.htm#4_note_2.md) and the tortoise. There was no
 thought of where to begin and how to end. (There was no such thing as
 scheming policy). Action took place when it was demanded. Principles
 were embodied: the spirit of Yin and Yang were envisaged. All was in
@@ -150,7 +150,7 @@ flowing,
 | **Nature became savage.** |
 
 in consequence. The spectre of the Lares<span
-id="fr_3"></span>[{3}](tgln1.htm#4_note_3) appeared in some rural parts.
+id="fr_3"></span>[{3}](tgln1.htm#4_note_3.md) appeared in some rural parts.
 The flying locusts filled the land. The drought was great, the very soil
 cracking and yawning. The Phoenix did not come. Eagles, bears, wild
 bulls and horned creatures became ferocious. The cottages of the people
@@ -194,7 +194,7 @@ harmony, the crops in the fields fail to ripen.
    For forty-six days before the winter solstice, the firmament retains
 its own aura, which does not descend: the Earth embosoms hers, which
 does not ascend; that is to say the operations of the Yin and Yang are
-in abeyance.<span id="fr_4"></span>[4](tgln1.htm#4_note_4) At this
+in abeyance.<span id="fr_4"></span>[4](tgln1.htm#4_note_4.md) At this
 period, the forces of Yin and Yang are in suspense, as though
 undetermined what to do. Their abundant and wide inspiration and
 expiration embrace and bathe all the aura of the universe. They plan and
@@ -254,9 +254,9 @@ petty virtues came to be honoured.
 
    The nature of the Yin and Yang elements is never <span
 id="page_85">p. 85</span> uninfluenced by sexual feelings.<span
-id="fr_5"></span>[5](tgln1.htm#4_note_5) Men and women congregating
+id="fr_5"></span>[5](tgln1.htm#4_note_5.md) Men and women congregating
 together in their houses and mustering in cities, without segregation,
-gave rise to ceremonies.<span id="fr_6"></span>[6](tgln1.htm#4_note_6)
+gave rise to ceremonies.<span id="fr_6"></span>[6](tgln1.htm#4_note_6.md)
 Passions of life, being exuberant and compulsive, there arose,
 involuntarily, want of harmony and lack of cordiality, from which issues
 sprang the value of music to soothe and cordialize man.
@@ -282,7 +282,7 @@ things and is free from passion, and when this
 | **Virtuous Nature is the essential.** |
 
 spirit of *wu wei* is prevalent, the people will be good.<span
-id="fr_7"></span>[7](tgln1.htm#4_note_7) People's nature being virtuous,
+id="fr_7"></span>[7](tgln1.htm#4_note_7.md) People's nature being virtuous,
 Nature and the Auras are favourable and afford protection. Thus, then,
 wealth will be enough, and men will be contented; neither cupidity,
 avarice, strife nor war will arise. It is clear that, under such
@@ -310,12 +310,12 @@ insufficiency of the ethical: a knowledge of the ethical led men to
 apprehend that benevolence and duty were insufficient for practical
 life; a knowledge of benevolence and duty led men to see that rites and
 music were not sufficiently comprehensive.<span
-id="fr_8"></span>[8](tgln1.htm#4_note_8)
+id="fr_8"></span>[8](tgln1.htm#4_note_8.md)
 
    Men, to-day, have turned their backs on the root, and gone in search
 of the branch. They have abandoned fundamental principles and paid
 attention to mere details, so that it is impossible to arrive at real
-truth.<span id="fr_9"></span>[9](tgln1.htm#4_note_9)
+truth.<span id="fr_9"></span>[9](tgln1.htm#4_note_9.md)
 
    The greatness of Heaven and Earth can be shown and be known by
 measurement: the motions of the heavenly bodies can be calculated by
@@ -357,7 +357,7 @@ becomes the power of virtue. Therefore, the maker of the Chou Ting
 of an urn, in token of his opinion that cunning works of skill should
 not be the creation of human skill, but great art comes from *Wu-Wei*,
 not from craft, *Yu-Wei*.<span
-id="fr_10"></span>[10](tgln1.htm#4_note_10)
+id="fr_10"></span>[10](tgln1.htm#4_note_10.md)
 
    With regard to government by the Perfect Man, it is thus: his mind
 and spirit function together: his body
@@ -374,10 +374,10 @@ at peace: he is unruffled by desire, and so the people, as a
 consequence, are simple in their habits: he is not interested in omens
 or myths, and so the people meet with no untimely fates: there is no
 strife, and so plenty exists.<span
-id="fr_11"></span>[11](tgln1.htm#4_note_11) Equally the whole world and
+id="fr_11"></span>[11](tgln1.htm#4_note_11.md) Equally the whole world and
 generations to come share these advantages. But it was not known to whom
 to ascribe these operations,<span
-id="fr_12"></span>[12](tgln1.htm#4_note_12) or how they could be
+id="fr_12"></span>[12](tgln1.htm#4_note_12.md) or how they could be
 described. Therefore, he has no honours, during his life-time nor
 ascriptions of praise after death. He accumulates no wealth, and no
 monument of adulation is raised to him. It is all the work and merit of
@@ -405,7 +405,7 @@ masses living in amity, even the most worthy would find no channel for
 the dispensation of good works and the establishment of merit.
 
    In olden times, when Yung Ch‛eng<span
-id="fr_13"></span>[13](tgln1.htm#4_note_13) was king, old and young
+id="fr_13"></span>[13](tgln1.htm#4_note_13.md) was king, old and young
 observed the precedence of the road like geese:
 
 |                              |
@@ -429,7 +429,7 @@ the marshes of the Ch‛ing Chiu; he shot the ten suns above and destroyed
 the dragon-like beast below; he cut down the python in T‛ung Ting lake
 and captured the wild boars in the Mulberry forest. The people were
 delighted and placed <span id="page_89">p. 89</span> Yao on the pedestal
-of the Son of Heaven.<span id="fr_14"></span>[14](tgln1.htm#4_note_14)
+of the Son of Heaven.<span id="fr_14"></span>[14](tgln1.htm#4_note_14.md)
 
    It was then, for the first time, that the empire had any cartography.
 The country was divided into nine divisions, with specifications of
@@ -443,10 +443,10 @@ Rivers and the Five Lakes, to tunnel the I Ch‛üeh mountain and lead
 forth the waters of the Ch‛an and Chien. Channels and drains were made
 to lead all the waters to the Eastern Sea: the great flood flowed away
 and the continent dried up. The people found repose and ascribed Yao and
-Shun to be sages.<span id="fr_15"></span>[15](tgln1.htm#4_note_15)
+Shun to be sages.<span id="fr_15"></span>[15](tgln1.htm#4_note_15.md)
 
    At a later age, the emperors Chieh and Chou<span
-id="fr_16"></span>[16](tgln1.htm#4_note_16) built marble houses and
+id="fr_16"></span>[16](tgln1.htm#4_note_16.md) built marble houses and
 jasper terraces, porches of ivory and beds of jade. Chou had a forest of
 meats and game hanging for his tables, and a lake of wine. He exhausted
 all the natural resources of the country and wasted the energies of the
@@ -466,7 +466,7 @@ cherishing the <span id="page_90">p. 90</span> *Tao*, possessing
 inexhaustible knowledge, yet keeping silence, putting a muzzle on their
 own mouths and a gag on their lips, have died without the age knowing
 how to esteem their silence.<span
-id="fr_17"></span>[17](tgln1.htm#4_note_17) Hence the *Tao* that can be
+id="fr_17"></span>[17](tgln1.htm#4_note_17.md) Hence the *Tao* that can be
 explained and spoken is not the eternal *Tao*. The name that can be
 defined is not the eternal name. Such as can be inscribed on bamboo,
 carved and cut in metal and stone and transmitted, are only secondary
@@ -479,7 +479,7 @@ opinions and adopted old fashions. Stiffly seated opposite each other,
 they discussed these ready-made theories and beat the drum and shouted
 for joy and danced in their pleasure or joined in animated and lively
 argument. Thus, savants hear much, but are filled with many doubts,<span
-id="fr_17"></span>[17](tgln1.htm#4_note_17) a condition aptly described
+id="fr_17"></span>[17](tgln1.htm#4_note_17.md) a condition aptly described
 by the words of the Ode 11. 6 Bkv. Pt. 2.
 
 <table data-align="center" data-cellpadding="10">
@@ -500,11 +500,11 @@ BUT THEY ONLY KNOW THAT ONE.<br />
    The Sage-Emperor embodies the principle of *wu-wei*. The King
 imitates the Yin and Yang. The Autocrat copies the Four Seasons. The
 Prince uses the Six Laws.<span
-id="fr_18"></span>[18](tgln1.htm#4_note_18)
+id="fr_18"></span>[18](tgln1.htm#4_note_18.md)
 
    The Supreme (God) holds sway over Heaven and Earth and keeps in
 subjection the mountains and rivers.<span
-id="fr_19"></span>[19](tgln1.htm#4_note_19)
+id="fr_19"></span>[19](tgln1.htm#4_note_19.md)
 
 |                                      |
 |--------------------------------------|
@@ -534,12 +534,12 @@ timely order: there is no mistake in the process. Spring (joy), Autumn
 (anger) (asperity), Summer (strength), Winter (weakness), never depart
 from their appointed courses.
 
-   The Six Laws<span id="fr_20"></span>[20](tgln1.htm#4_note_20) may be
+   The Six Laws<span id="fr_20"></span>[20](tgln1.htm#4_note_20.md) may be
 thus expressed. They concern the granting of life or sentence of death,
 rewards and punishments, bestowment or alienation of lands. Anything not
 administered according to these harmonies would be without principle.
 Therefore, such a man is careful of the weights and measures,<span
-id="fr_21"></span>[21](tgln1.htm#4_note_21) of the standards and
+id="fr_21"></span>[21](tgln1.htm#4_note_21.md) of the standards and
 measuring lines, (or is equitable, just and true), sees to it that (even
 small things) are correct, so that his country may be governed properly.
 
@@ -616,11 +616,11 @@ thunder, lightening, wind and rain. The elements of Earth are fire,
 water, metal, wood, soil. The nature of man consists of feeling,
 thought, meditation, intelligence, joy and anger. And so, when the four
 senses are closed up and the "five extravagances"<span
-id="fr_22"></span>[{22}](tgln1.htm#4_note_22) are suspended, the being
+id="fr_22"></span>[{22}](tgln1.htm#4_note_22.md) are suspended, the being
 or individual will be immersed in the *tao*. Hence the spiritual
 faculties will be hidden in the invisible world, and the spirit will
 return to the Perfect Body (or the Perfect Realm).<span
-id="fr_23"></span>[{23}](tgln1.htm#4_note_23) In such a state the eye
+id="fr_23"></span>[{23}](tgln1.htm#4_note_23.md) In such a state the eye
 will be clear, but not occupied with seeing; the ear will be quick, but
 not given to hearing; the mind will be exquisitely intelligent, directly
 intuitive, but not occupied with thinking. There will be an abandon and
@@ -635,10 +635,10 @@ Senses gives the body rest from troubles, and the individual parts have
 no sickness. There is no death, no life, no void, no excess: in such a
 condition of spirit, like the diamond, it will not wear away: such are
 the characteristics of the Perfect Man.<span
-id="fr_24"></span>[24](tgln1.htm#4_note_24) All anarchy springs from
+id="fr_24"></span>[24](tgln1.htm#4_note_24.md) All anarchy springs from
 excess: the causes of excess may be traced <span id="page_94">p.
 94</span> to the extravagant use made of the five elements. Let us take
-these in order.<span id="fr_25"></span>[25](tgln1.htm#4_note_25)
+these in order.<span id="fr_25"></span>[25](tgln1.htm#4_note_25.md)
 
    *Extravagant and Luxurious Use of Wood.*—A lavish use of timber in
 building, with rafter and post interlacing
@@ -670,14 +670,14 @@ thither,—now straight, now oblique, here turning sharply round, there
 moving in a curving channel, in imitation of the waters of Yü, Ou, and
 Wu. The lotus and the chestnut plants are grown in abundant luxuriance
 in these waters, to feed the tortoises and fishes. Great herons, the
-turquoise kingfishers<span id="fr_26"></span>[26](tgln1.htm#4_note_26)
+turquoise kingfishers<span id="fr_26"></span>[26](tgln1.htm#4_note_26.md)
 fly about; paddy rice and millet abound. The dragon boats, with the
 fabulous bird painted on the prow, sail along, to the sound of gala
 music.
 
    *Extravagant and Luxurious Use of Soil.*—High walls are built round
 the cities for defence: trees are planted <span id="page_95">p.
-95</span> for bulwarks:<span id="fr_27"></span>[27](tgln1.htm#4_note_27)
+95</span> for bulwarks:<span id="fr_27"></span>[27](tgln1.htm#4_note_27.md)
 parapets of earth and timber of surpassing height are admired and sought
 after: extensive walled and unwalled gardens for housing the rarest
 animals; portals and houses of giddy heights are erected, touching the
@@ -721,7 +721,7 @@ wealth of the land, below, was exhausted by the extravagance.
 
    One, alone, of these five extravagant wastes would be enough to bring
 the empire to ruin! Consider the simplicity of the ancient court of the
-Ming Tang<span id="fr_28"></span>[28](tgln1.htm#4_note_28) in ancient
+Ming Tang<span id="fr_28"></span>[28](tgln1.htm#4_note_28.md) in ancient
 times. They were simply built to ensure that no damp should arise from
 the ground, nor rain and fog enter from above, and that they might be
 shielded from the winds that blow from the four quarters. This was
@@ -730,11 +730,11 @@ carved (or even sawn or planed too fine). The metal vessels were not
 engraved; clothes were not cut out with any elaboration (i.e. the
 corners were not cut off, but shaped much in the way of a kimono). Hats
 were not shaped with elaborate corners,<span
-id="fr_29"></span>[29](tgln1.htm#4_note_29) but in a simple style. The
+id="fr_29"></span>[29](tgln1.htm#4_note_29.md) but in a simple style. The
 Ming Tang was built just large enough for people to move about
 comfortably in attendance on their duty: it was kept so quiet and clean
 as to be fit for the worship of God and for the ceremonies of 'All
-Souls.'<span id="fr_30"></span>[30](tgln1.htm#4_note_30) The people were
+Souls.'<span id="fr_30"></span>[30](tgln1.htm#4_note_30.md) The people were
 thus taught to practise economy in expenditure.
 
    But music, painting and the five flavours, the rare delicacies and
@@ -750,7 +750,7 @@ way.
 
    The production of wealth by Nature consists really of no more than
 the five elements. The sage king, by the economical use of these,<span
-id="fr_31"></span>[31](tgln1.htm#4_note_31) governed without excesses.
+id="fr_31"></span>[31](tgln1.htm#4_note_31.md) governed without excesses.
 
    All people whose natures and minds are blended in harmony, without
 anger or joy, and whose desires are <span id="page_97">p. 97</span>
@@ -758,7 +758,7 @@ simple, are animated with the feeling of pleasure. Pleasure seeks to
 express itself in movement: movement gives rise to motion, the tripping
 of the feet: this again leads to song and dance. When song and dance are
 spontaneous, wild animals come in and join in the dance.<span
-id="fr_31a"></span>[31a](tgln1.htm#4_note_31a)
+id="fr_31a"></span>[31a](tgln1.htm#4_note_31a.md)
 
    When people's minds and natures are in sorrow, by reason of death,
 there arises grief; and with grief comes mourning. Weeping excites the
@@ -773,7 +773,7 @@ has been released.
    Thus, bells, drums, flutes, whistles, shields and feather flags are
 the symbolic embellishments of joy. Garments of frayed edges, caps of
 hemp, rough hemp clothes and mourning staff<span
-id="fr_32"></span>[32](tgln1.htm#4_note_32) are the symbolic ornaments
+id="fr_32"></span>[32](tgln1.htm#4_note_32.md) are the symbolic ornaments
 of a mourning spirit. The pangs of sorrow have their regulations,
 whereby grief is restrained within bounds. Arms, wands, metal drums,
 battle-axes and halberds symbolise anger. There is the fact; and the
@@ -784,7 +784,7 @@ same mind, prince and minister were in concord. The necessaries of life
 were enough and to spare. Families and individuals had enough. Fathers
 were sympathetic; sons were filial, elder brothers kind and the younger
 ones cooperative. There was no grumbling at life nor regrets at
-death.<span id="fr_33"></span>[33](tgln1.htm#4_note_33) The empire was
+death.<span id="fr_33"></span>[33](tgln1.htm#4_note_33.md) The empire was
 permeated with the spirit of concord and everyone was satisfied. As the
 joy and goodwill that filled the heart of everybody needed some means of
 expressing itself, the Sages created music for the people, in order that
@@ -803,7 +803,7 @@ weirs make it impossible to use the nets. It is useless to plough the
 fields. The strength of the people is spent in attending to the demands
 of the official minions, and their wealth is used up in paying the poll
 taxes. There is no food at home; there is no corn for those who go
-forth:<span id="fr_34"></span>[34](tgln1.htm#4_note_34) the aged are not
+forth:<span id="fr_34"></span>[34](tgln1.htm#4_note_34.md) the aged are not
 fed nor the dead buried. Wives are sold and children are disposed of, in
 order to meet the demands of the authorities. Even these desperate
 measures fail to meet every claim. Rustic people and simple women,
@@ -875,7 +875,7 @@ make slaves of their children. They destroy the ancestral temples and
 move away the precious inheritance; they fill the land with rivers of
 blood and create desolation by their ferocity. All this is done to
 satisfy the desires of lustful lords. Soldiers were never meant to be
-used in this way.<span id="fr_35"></span>[35](tgln1.htm#4_note_35)
+used in this way.<span id="fr_35"></span>[35](tgln1.htm#4_note_35.md)
 
    The 'raison d'être' of the soldiers is to suppress oppression, not to
 be oppressors, Similarly, music was created <span id="page_100">p.
@@ -901,7 +901,7 @@ foundation is neglected, the Tao will fail.
 
 ------------------------------------------------------------------------
 
-[Next](tgl5)
+[Next](tgl5.md)
 
  
 

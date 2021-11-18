@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck05)  [Next](peck07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck05)  [Next](peck07.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ nothing.
 
 ------------------------------------------------------------------------
 
-[Next: The Flood](peck07)
+[Next: The Flood](peck07.md)

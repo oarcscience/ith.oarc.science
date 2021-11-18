@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml01)  [Next](cml03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml01)  [Next](cml03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -200,4 +200,4 @@ SURVIVALS OF THE CELTIC PAGANISM</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Plates in Colour](cml03)
+[Next: Plates in Colour](cml03.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits097) [Next](bits099)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits097) [Next](bits099.md)
 
 ------------------------------------------------------------------------
 
@@ -120,7 +120,7 @@ the 'blades of grass' is misery; the 'bark-dress' is misery; the 'black
 antelope' is misery; the 'hook-meat' is misery; the 'penny-bit' is
 misery; 'carving by caustics' is misery; the 'pivot' is misery; the
 'straw-bolster'<span id="page_439_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_439_note_1) is misery; to be
+class="small">1</span></sup>](#page_439_note_1.md) is misery; to be
 sprinkled with boiling oil is
 
 |                                   |                                                   |
@@ -153,7 +153,7 @@ thus it is."
 
 ------------------------------------------------------------------------
 
-[Next: § 99. The Admission of Women to the Order](bits099)
+[Next: § 99. The Admission of Women to the Order](bits099.md)
 
 ------------------------------------------------------------------------
 
@@ -161,7 +161,7 @@ thus it is."
 
 <span id="footnotes_page_439">p. 439</span>
 
-<span id="page_439_note_1"></span>[1](#page_439_fr_1) Extract from the
+<span id="page_439_note_1"></span>[1](#page_439_fr_1.md) Extract from the
 Native Commentary to the Anguttara-Nikâya, ii.1,1:
 
 Kettle of gruel:--In the pot-of-gruel torture they cut open the skull,

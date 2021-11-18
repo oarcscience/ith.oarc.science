@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft37)  [Next](eft39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft37)  [Next](eft39.md) 
 
 ------------------------------------------------------------------------
 
 # Kate Crackernuts
 
 <span id="img_056"></span> [![](tn/056.jpg)  
-Click to enlarge](img/056.jpg)
+Click to enlarge](img/056.jpg.md)
 
 ONCE upon a time there was a king and a queen, as in many lands have
 been. The king had a daughter, Anne, and the queen had one named Kate,
@@ -118,4 +118,4 @@ a dry cappy.
 
 ------------------------------------------------------------------------
 
-[Next: The Cauld Lad of Hilton](eft39)
+[Next: The Cauld Lad of Hilton](eft39.md)

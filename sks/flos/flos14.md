@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos13)  [Next](flos15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos13)  [Next](flos15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -192,7 +192,7 @@ Persius" it is thus spoken of:—"Look here! a grandmother or a
 superstitious aunt has taken baby from his cradle, and is charming his
 forehead against mischief by the joint action of her middle-finger and
 her purifying spittle; for she knows right well how to check the evil
-eye." <span id="fr_707"></span>[1](#fn_705) It is again alluded to in
+eye." <span id="fr_707"></span>[1](#fn_705.md) It is again alluded to in
 the "Merchant of Venice" (iii. 2), where Portia, expressing to Bassanio
 her feelings of regard, declares:—
 
@@ -220,7 +220,7 @@ country places.
 7), in answer to Enobarbus:—"Thou hast forspoke my being in these wars,"
 the word *forespeak* having anciently had the meaning of charm or
 bewitch, like *forbid* in "Macbeth" (i. 3); "he shall live a man
-forbid." <span id="fr_708"></span>[2](#fn_706)
+forbid." <span id="fr_708"></span>[2](#fn_706.md)
 
 <span id="page_316">p. 316</span>
 
@@ -280,7 +280,7 @@ a douzen good Latin spoones,
 <span id="page_317">p. 317</span>
 
 and thou shalt translate them.'" "Shakespeare," says Mr Thoms, <span
-id="fr_709"></span>[1](#fn_707) "willing to show his wit, if not his
+id="fr_709"></span>[1](#fn_707.md) "willing to show his wit, if not his
 wealth, gave a dozen spoons, not of silver, but of latten, a name
 formerly used to signify a mixed metal resembling brass, as being the
 most appropriate gift to the child of a father so learned." In
@@ -414,7 +414,7 @@ That blinking Cupid gossips,"</span>
 the meaning evidently being a number of pretty fond adopted appellations
 or christian names to which blind Cupid stands godfather. The expression
 is often used for baptism by old writers; and Singer <span
-id="fr_710"></span>[1](#fn_708) quotes from "King John" (iv. 1):—
+id="fr_710"></span>[1](#fn_708) quotes from "King John" (iv. 1.md):—
 
 <div style="margin-left: 32px">
 
@@ -471,7 +471,7 @@ however, the use of oil was omitted, and the chrisom was worn by the
 child till the mother's churching, when it was returned to the church.
 If the child died before the churching, it was buried in the chrisom,
 and hence it may be that the child itself was called a chrisom or
-chrisomer. <span id="fr_711"></span>[1](#fn_709) Thus, it will be seen
+chrisomer. <span id="fr_711"></span>[1](#fn_709.md) Thus, it will be seen
 that Dame Quickly simply compares the manner of Falstaff's death to that
 of a young infant. In Registers and Bills of Mortality we find infants
 alluded to under the term "Chrisoms." Burn, in his "History of Parish
@@ -499,24 +499,24 @@ three, or four, and six shillings a piece."
 
 ### Footnotes
 
-<span id="fn_705"></span>[315:1](flos14.htm#fr_707) See Douce's
+<span id="fn_705"></span>[315:1](flos14.htm#fr_707.md) See Douce's
 "Illustrations of Shakspeare," p. 383; Brand's "Popular Antiquities,"
 1849, iii. pp. 44–46, 326.
 
-<span id="fn_706"></span>[315:2](flos14.htm#fr_708) See Napier's
+<span id="fn_706"></span>[315:2](flos14.htm#fr_708.md) See Napier's
 "Folk-lore of West of Scotland," 1879. pp. 34–40. Keightley's "Fairy
 Mythology;" Brand's "Popular Antiquities," 1849, iii. pp. 73, 74.
 
-<span id="fn_707"></span>[317:1](flos14.htm#fr_709) "Anecdotes and
+<span id="fn_707"></span>[317:1](flos14.htm#fr_709.md) "Anecdotes and
 Traditions," 1839, p. 3.
 
-<span id="fn_708"></span>[319:1](flos14.htm#fr_710) "Shakespeare," 1875,
+<span id="fn_708"></span>[319:1](flos14.htm#fr_710.md) "Shakespeare," 1875,
 iv. p. 314.
 
-<span id="fn_709"></span>[320:1](flos14.htm#fr_711) Douce's.
+<span id="fn_709"></span>[320:1](flos14.htm#fr_711.md) Douce's.
 "Illustrations of Shakspeare," 1859, pp. 299, 300; Nares's "Glossary,"
 i. p. 160; see Brand's "Pop. Antiq.," 1849, ii. pp. 84, 85.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Marriage](flos15)
+[Next: Chapter XIII. Marriage](flos15.md)

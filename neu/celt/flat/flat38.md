@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat37)  [Next](flat39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat37)  [Next](flat39.md) 
 
 ------------------------------------------------------------------------
 
@@ -461,4 +461,4 @@ was lying dead in the stone quarry.
 
 ------------------------------------------------------------------------
 
-[Next: The Lucky Guest](flat39)
+[Next: The Lucky Guest](flat39.md)

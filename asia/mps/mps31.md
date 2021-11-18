@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps30) 
-[Next](mps32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps30.md) 
+[Next](mps32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -243,4 +243,4 @@ teeth.
 
 ------------------------------------------------------------------------
 
-[Next: XXIX. The Story of Avt’handil's Arrival in Gulansharo](mps32)
+[Next: XXIX. The Story of Avt’handil's Arrival in Gulansharo](mps32.md)

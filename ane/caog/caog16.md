@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog15)  [Next](caog17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog15)  [Next](caog17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -462,6 +462,6 @@ freedom and the reign of Izdubar.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. The Adventures of Ishtar](caog17)
+[Next: Chapter XIV. The Adventures of Ishtar](caog17.md)
 
 </div>

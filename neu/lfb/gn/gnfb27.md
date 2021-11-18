@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb26)  [Next](gnfb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb26)  [Next](gnfb28.md) 
 
 </div>
 
@@ -820,6 +820,6 @@ Nonchalante et Papillon
 
 ------------------------------------------------------------------------
 
-[Next: Little One-Eye, Little Two-Eyes, and Little Three-Eyes](gnfb28)
+[Next: Little One-Eye, Little Two-Eyes, and Little Three-Eyes](gnfb28.md)
 
 </div>

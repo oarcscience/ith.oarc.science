@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg78)  [Next](btg80) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg78)  [Next](btg80.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ pacify the monster."
 
 ------------------------------------------------------------------------
 
-[Next: The Despot Cured](btg80)
+[Next: The Despot Cured](btg80.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Roma](../index)  [Index](index) 
-[Previous](egl00)  [Next](egl02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Roma](../index)  [Index](index.md) 
+[Previous](egl00)  [Next](egl02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -124,7 +124,7 @@ principally indebted for words, though he often used “slang,” invariably
 discriminated correctly between it and Rommany; and I have often admired
 the extraordinary pride in their language which has induced the Gipsies
 for so many generations to teach their children this difference.
- [0a](egl13.htm#xref_0a) Almost every word which my assistant declared
+ [0a](egl13.htm#xref_0a.md) Almost every word which my assistant declared
 to be Gipsy I have found either in Hindustani or in the works of Pott,
 Liebich, or Paspati. On this subject I would remark by the way, that
 many words which appear to have been taken by the Gipsies from modern
@@ -209,4 +209,4 @@ extent than has been hitherto supposed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Introductory](egl02)
+[Next: Chapter I. Introductory](egl02.md)

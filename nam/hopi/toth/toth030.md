@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth029)  [Next](toth031) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth029)  [Next](toth031.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 27. HOW THE YELLOW CORN-EAR MAIDEN BECAME A BULL SNAKE AND REVENGED HERSELF. <span id="fr_74"></span>[2](#fn_72)
+## 27. HOW THE YELLOW CORN-EAR MAIDEN BECAME A BULL SNAKE AND REVENGED HERSELF. <span id="fr_74"></span>[2](#fn_72.md)
 
 A long time ago two maidens lived in Oraíbi. They were close friends and
 often used to grind corn together, one time at the house of one, at
@@ -103,7 +103,7 @@ one! That is no coyote. Thanks that you have not killed it. Where did
 you find it?" They told her that they had captured it in their but where
 they had been hunting, and related all the circumstances. She at once
 sent one into the village after some Tomóala, <span
-id="fr_75"></span>[1](#fn_73) the other one she sent to the woods after
+id="fr_75"></span>[1](#fn_73.md) the other one she sent to the woods after
 some juniper branches.
 
 While they were gone she boiled some water, and when the man with the
@@ -213,19 +213,19 @@ living in it is set free and then goes to the Skeleton House (Máski).
 
 ### Footnotes
 
-<span id="fn_71"></span>[105:1](toth029.htm#fr_73) A pû'hu (road or
+<span id="fn_71"></span>[105:1](toth029.htm#fr_73.md) A pû'hu (road or
 path) consists of one or more small feathers--usually eagle feathers-to
 the stub end of which are fastened a single and a twisted string. These
 feathers are placed near springs, in front of shrines, altars, on paths
 and near graves, as paths for clouds, spirits, deities, etc., Whom the
 Hopi wish to follow the paths.
 
-<span id="fn_72"></span>[105:2](toth030.htm#fr_74) Told by Qöyáwaima
+<span id="fn_72"></span>[105:2](toth030.htm#fr_74.md) Told by Qöyáwaima
 (Oraíbi).
 
-<span id="fn_73"></span>[107:1](toth030.htm#fr_75) Martyinia proboscidæ,
+<span id="fn_73"></span>[107:1](toth030.htm#fr_75.md) Martyinia proboscidæ,
 Miller.
 
 ------------------------------------------------------------------------
 
-[Next: 28. A Journey to the Skeleton House](toth031)
+[Next: 28. A Journey to the Skeleton House](toth031.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot12)  [Next](lot14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot12)  [Next](lot14.md) 
 
 ------------------------------------------------------------------------
 
@@ -492,4 +492,4 @@ enlightenment that I have perfectly explained.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 14](lot14)
+[Next: Chapter 14](lot14.md)

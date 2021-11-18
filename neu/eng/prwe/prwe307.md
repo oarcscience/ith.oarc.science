@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe306)  [Next](prwe308) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe306)  [Next](prwe308.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ to Temple moors," is to proclaim a woman an outcast from society.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Tamara](prwe308)
+[Next: The Legend of Tamara](prwe308.md)

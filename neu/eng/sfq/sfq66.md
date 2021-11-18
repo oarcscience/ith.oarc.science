@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq65)  [Next](sfq67) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq65)  [Next](sfq67.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ set him at liberty, and released him from his horror at
 <span id="img_31200"></span>
 
 [![](tn/31200.jpg)  
-Click to enlarge](img/31200.jpg)
+Click to enlarge](img/31200.jpg.md)
 
 such a shameful death, unfitting a knight, which he dreaded more than
 loss of life; and uncovering his
@@ -217,4 +217,4 @@ against the next day's fight.
 
 ------------------------------------------------------------------------
 
-[Next: How Sir Artegall threw away his Sword](sfq67)
+[Next: How Sir Artegall threw away his Sword](sfq67.md)

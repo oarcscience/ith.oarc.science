@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](sir)  [Next](aza) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](sir)  [Next](aza.md) 
 
 ------------------------------------------------------------------------
 
@@ -800,4 +800,4 @@ hath no idols: for he shall be far from reproach.
 
 ------------------------------------------------------------------------
 
-[Next: Prayer of Azariah](aza)
+[Next: Prayer of Azariah](aza.md)

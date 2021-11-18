@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps03)  [Next](rps05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps03)  [Next](rps05.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ of Samaria.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3. The Healing Plough of Creation](rps05)
+[Next: Chapter 3. The Healing Plough of Creation](rps05.md)

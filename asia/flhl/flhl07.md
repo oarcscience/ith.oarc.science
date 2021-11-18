@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl06)  [Next](flhl08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl06)  [Next](flhl08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -68,7 +68,7 @@ received the promised beating.
 Besides his devoted wife, Ayûb had a relative who, from all accounts,
 was one of the most remarkable men that ever lived. He is generally
 called "El Hakìm Lokman," though I have also heard the name "El Hakìm
-Risto" applied to him. <span id="fr_13"></span>[1](#fn_13)
+Risto" applied to him. <span id="fr_13"></span>[1](#fn_13.md)
 
 This personage was the son of Baura, who was the son or grandson either
 of Ayûb's sister or of his aunt. He lived for several hundreds of years,
@@ -77,7 +77,7 @@ ugly, of a black complexion, with thick lips and splay feet; but, to
 make up for these deformities, Allah gave him wisdom and eloquence.
 Offered the choice between the gifts of prophecy and wisdom, he chose
 the latter. The prophet David wished him to be King of Israel, but he
-declined so onerous a position, <span id="fr_14"></span>[2](#fn_14)
+declined so onerous a position, <span id="fr_14"></span>[2](#fn_14.md)
 content to remain a simple Hakìm.
 
 Having been taken and sold into slavery by the Bedû who raided the
@@ -119,7 +119,7 @@ son, of whom he was very
 <span id="page_21">p. 21</span>
 
 jealous, but who, nevertheless, attained ultimately even greater skill
-than Lokman himself. <span id="fr_15"></span>[1](#fn_15) This nephew,
+than Lokman himself. <span id="fr_15"></span>[1](#fn_15.md) This nephew,
 though uninvited, determined to witness the operation, so he climbed on
 to the house-top, where he knew of a small window through which he could
 look into the sick-room, and see all that was going on.
@@ -163,16 +163,16 @@ long life.
 
 ### Footnotes
 
-<span id="fn_13"></span>[19:1](flhl07.htm#fr_13) The latter name, which
+<span id="fn_13"></span>[19:1](flhl07.htm#fr_13.md) The latter name, which
 is only, and that seldom, heard amongst Christians, suggests that of
 Aristotle, but he is more easily identified with the Greek Aesop; all
 the fables attributed to the latter being current in Palestine and
 ascribed to Lokman.
 
-<span id="fn_14"></span>[19:2](flhl07.htm#fr_14) I received this
+<span id="fn_14"></span>[19:2](flhl07.htm#fr_14.md) I received this
 information from a learned Moslem.
 
-<span id="fn_15"></span>[21:1](flhl07.htm#fr_15) That enmity should
+<span id="fn_15"></span>[21:1](flhl07.htm#fr_15.md) That enmity should
 exist between such relatives is natural, for his sister's son is
 commonly a man's worst rival: a circumstance which has given rise to the
 common saying: "If thou hast no sister's son, but art so foolish as to
@@ -182,4 +182,4 @@ come to life and do thee an injury."
 
 ------------------------------------------------------------------------
 
-[Next: V. Abraham, ''the Friend of God''](flhl08)
+[Next: V. Abraham, ''the Friend of God''](flhl08.md)

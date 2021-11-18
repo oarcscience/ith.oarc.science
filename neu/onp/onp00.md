@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Next](onp01)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Next](onp01.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Sagas](../index) [Iceland](../ice/index) [Index](index) [Next](onp01)
 
 ###### \[1936, not renewed\]
 
-[![](tn/tp.jpg)](img/tp.jpg)  
+[![](tn/tp.jpg)](img/tp.jpg.md)  
 Title Page (Click to enlarge)
 
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ L. M. H. 
 
 ------------------------------------------------------------------------
 
-[Next](onp01)
+[Next](onp01.md)
 
  
 

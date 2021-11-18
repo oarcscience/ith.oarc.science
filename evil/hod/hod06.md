@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod05)  [Next](hod07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod05)  [Next](hod07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ strange to say, the Accadians were not a white, but a dark race. They
 are spoken of as "blackheads" or "blackfaces"; yet we need not for that
 reason assume that they were actually as black as the Ethiopians, for
 the bilingual tablets found in the mounds of Babylonia speak also of
-them as *Adamatu* <span id="fr_10"></span>[1](#fn_10) or red-skins,
+them as *Adamatu* <span id="fr_10"></span>[1](#fn_10.md) or red-skins,
 which makes it probable that they were reddish-dark or brown. How much
 the Semites owe to the Accadians, whose dominion ceased about 1500 B.
 C., and whose language began to die out under the reign of the Assyrian
@@ -65,14 +65,14 @@ that the cultivated portion of the desert lands west of the
 
 <span id="page_31">p. 31</span>
 
-Euphrates was called *Edinna*, <span id="fr_11"></span>[1](#fn_11) a
+Euphrates was called *Edinna*, <span id="fr_11"></span>[1](#fn_11.md) a
 name that sounds very much like Eden.
 
 About the time of Alexander the Great, a Babylonian priest by the name
 of Berosus wrote an interesting book on the history and religion of
 Babylon. It is now lost, but as various Greek authors, Alexander
 Polyhistor, Apollodorus, Abydenus, Damascius, <span
-id="fr_12"></span>[2](#fn_12) and Eusebius have largely quoted from his
+id="fr_12"></span>[2](#fn_12.md) and Eusebius have largely quoted from his
 reports, we know quite a good deal about the information he gave to the
 world concerning his country.
 
@@ -106,7 +106,7 @@ BABYLONIAN NOAH) IN THE ARK.&lt;br&gt; Saved through the assistance of
 the gods from the deluge. \[After an ancient Babylonian cylinder.
 Reproduced from Smith-Sayce. &lt;i&gt;Ch. A. of G.&lt;/i&gt;, p.
 300\]](tn/generic.jpg)  
-Click to view](img/03200.jpg)  
+Click to view](img/03200.jpg.md)  
 XISUTHRUS (THE BABYLONIAN NOAH) IN THE ARK.  
 Saved through the assistance of the gods from the deluge. \[After an
 ancient Babylonian cylinder. Reproduced from Smith-Sayce. *Ch. A. of
@@ -115,12 +115,12 @@ G.*, p. 300\]
 
 In the legend of the destruction of the cities there occur several names
 which indicate an Accadian source. The legend of the deluge <span
-id="fr_13"></span>[1](#fn_13) agrees in all important details with the
+id="fr_13"></span>[1](#fn_13.md) agrees in all important details with the
 analogous story in Genesis. It is the eleventh part of a larger epic
-celebrating Izdubar, <span id="fr_14"></span>[2](#fn_14) a sun-hero and
+celebrating Izdubar, <span id="fr_14"></span>[2](#fn_14.md) a sun-hero and
 an Assyrian Hercules, who goes through the twelve signs of the Zodiac,
 the eleventh being Aquarius, corresponding to the eleventh mouth of the
-Accadians, called "the rainy." <span id="fr_15"></span>[3](#fn_15)
+Accadians, called "the rainy." <span id="fr_15"></span>[3](#fn_15.md)
 
 Who has not yet seen, even in our most modern cathedrals, pictures and
 statues of the four Evangelists adorned with the four representative
@@ -137,7 +137,7 @@ they are of a more venerable
 <span id="img_03300"></span> <span align="CENTER"> [![WALL DECORATION OF
 THE ROYAL PALACE AT NINEVEH IN THEIR PRESENT STATE. (After Place,
 reproduced from Lenormant.)](tn/generic.jpg)  
-Click to view](img/03300.jpg)  
+Click to view](img/03300.jpg.md)  
 WALL DECORATION OF THE ROYAL PALACE AT NINEVEH IN THEIR PRESENT STATE.
 (After Place, reproduced from Lenormant.)  
 </span>
@@ -209,7 +209,7 @@ Assyrian *Tiamtu* (= *Tiamat*).
 <span id="img_03500"></span> <span align="CENTER"> [![SACRED TREE AND
 SERPENT.&lt;br&gt; From an ancient Babylonian cylinder. After
 Smith-Sayce (&lt;i&gt;L. c.&lt;/i&gt;, p. 88.)](tn/generic.jpg)  
-Click to view](img/03500.jpg)  
+Click to view](img/03500.jpg.md)  
 SACRED TREE AND SERPENT.  
 From an ancient Babylonian cylinder. After Smith-Sayce (*L. c.*, p.
 88.)  
@@ -233,7 +233,7 @@ back to that remote period when the fruits of
 LIFE.&lt;br&gt; Decorations on the embroidery of a royal mantle.
 (British Museum. Layard, &lt;i&gt;Monuments&lt;/i&gt;, 1st series, pl.
 6. Lenormant, &lt;i&gt;l. l.&lt;/i&gt; V., p. 108).](tn/generic.jpg)  
-Click to view](img/03600.jpg)  
+Click to view](img/03600.jpg.md)  
 THE TREE OF LIFE.  
 Decorations on the embroidery of a royal mantle. (British Museum.
 Layard, *Monuments*, 1st series, pl. 6. Lenormant, *l. l.* V., p.
@@ -241,7 +241,7 @@ Layard, *Monuments*, 1st series, pl. 6. Lenormant, *l. l.* V., p.
 </span>
 
 trees constituted an important part of the food by which human life was
-sustained. <span id="fr_16"></span>[1](#fn_16)
+sustained. <span id="fr_16"></span>[1](#fn_16.md)
 
 <span id="page_37">p. 37</span>
 
@@ -259,7 +259,7 @@ still and Bel
 DELIVERING THE MOON-GOD FROM THE EVIL SPIRITS.&lt;br&gt; (From a
 Babylonian cylinder. From Smith's &lt;i&gt;Chaldean Account of
 Genesis&lt;/i&gt;.)](tn/generic.jpg)  
-Click to view](img/03700.jpg)  
+Click to view](img/03700.jpg.md)  
 MERODACH DELIVERING THE MOON-GOD FROM THE EVIL SPIRITS.  
 (From a Babylonian cylinder. From Smith's *Chaldean Account of
 Genesis*.)  
@@ -414,7 +414,7 @@ Professor Budge says:
 <span id="img_04100"></span> <span align="CENTER"> [![FIGHT BETWEEN
 BEL-MERODACH AND TIAMAT.&lt;br&gt; From an ancient Assyrian bas-relief,
 now in the British Museum](tn/generic.jpg)  
-Click to view](img/04100.jpg)  
+Click to view](img/04100.jpg.md)  
 FIGHT BETWEEN BEL-MERODACH AND TIAMAT.  
 From an ancient Assyrian bas-relief, now in the British Museum  
 </span>
@@ -496,7 +496,7 @@ conjectured by some that they thought it to be in the west."</span>
 <span id="img_04300"></span> <span align="CENTER"> [![EVIL
 DEMONS.&lt;br&gt; (From a Chaldean &lt;i&gt;stele&lt;/i&gt; in the
 British Museum. After Lenormant.)](tn/generic.jpg)  
-Click to view](img/04300.jpg)  
+Click to view](img/04300.jpg.md)  
 EVIL DEMONS.  
 (From a Chaldean *stele* in the British Museum. After Lenormant.)  
 </span>
@@ -520,7 +520,7 @@ ancienne de l'Orient*, V., page 494.
 <span id="img_04400"></span> <span align="CENTER"> [![DEMON OF THE
 SOUTHWEST WIND.&lt;br&gt; (Statue in the Louvre. After
 Lenormant.)](tn/generic.jpg)  
-Click to view](img/04400.jpg)  
+Click to view](img/04400.jpg.md)  
 DEMON OF THE SOUTHWEST WIND.  
 (Statue in the Louvre. After Lenormant.)  
 </span>
@@ -562,7 +562,7 @@ south-west</span>
 [![NIRGALLI.&lt;br&gt; Lion-headed and eagle-claw-footed demons.
 (British Museum. After Lenormant, &lt;i&gt;l. c.&lt;/i&gt; V. p.
 204.)](tn/generic.jpg)  
-Click to view](img/04500.jpg)  
+Click to view](img/04500.jpg.md)  
 NIRGALLI.  
 Lion-headed and eagle-claw-footed demons. (British Museum. After
 Lenormant, *l. c.* V. p. 204.)  
@@ -721,39 +721,39 @@ later redactors.
 
 ### Footnotes
 
-<span id="fn_10"></span>[29:1](hod06.htm#fr_10) A popular etymology
+<span id="fn_10"></span>[29:1](hod06.htm#fr_10.md) A popular etymology
 connected this word *Adamatu* with *Adamu* or *Admu*, "man," which
 later, as Rawlinson pointed out, reappears in the Bible as the name of
 the first man. See *The Chaldean Account of Genesis*, by George Smith.
 p. 83.
 
-<span id="fn_11"></span>[31:1](hod06.htm#fr_11) Sir Henry Rawlinson
+<span id="fn_11"></span>[31:1](hod06.htm#fr_11.md) Sir Henry Rawlinson
 believes that Gân Eden or the Garden of Eden is Gan-Duniyas (also called
 Gan-Duni), meaning "enclosure," which is a name of Babylonia in Assyrian
 inscriptions.
 
-<span id="fn_12"></span>[31:2](hod06.htm#fr_12) See Cory's *Ancient
+<span id="fn_12"></span>[31:2](hod06.htm#fr_12.md) See Cory's *Ancient
 Fragments*, pp. 51-56.
 
-<span id="fn_13"></span>[32:1](hod06.htm#fr_13) See George Smith, *The
+<span id="fn_13"></span>[32:1](hod06.htm#fr_13.md) See George Smith, *The
 Chaldean Account of Genesis*, edited by Prof. A. H.
 
 Sayce, p. 304, and also Dr. Paul Haupt's habilitation lecture *Der
 keilinschriftliche Sintfluthbericht*, Leipzig, 1881.
 
-<span id="fn_14"></span>[32:2](hod06.htm#fr_14) This is the commonly
+<span id="fn_14"></span>[32:2](hod06.htm#fr_14.md) This is the commonly
 adopted form of the name; although the proper transcription is
 Gilgamesh. He is also called "Gistubar." The literal meaning of the word
 is "mass of fire." See Lenormant's *Histoire Ancienne de l'Orient*, V.,
 p. 199.
 
-<span id="fn_15"></span>[32:3](hod06.htm#fr_15) Some of the pictures of
+<span id="fn_15"></span>[32:3](hod06.htm#fr_15.md) Some of the pictures of
 the Zodiac are strikingly like those which modern charts employ; for
 instance the centaur and the scorpion, which can be seen on an Assyrian
 bas-relief in the British Museum reproduced in Lenormant's *Histoire
 Ancienne de l'Orient*, V., p. 180.
 
-<span id="fn_16"></span>[36:1](hod06.htm#fr_16) It is noteworthy that
+<span id="fn_16"></span>[36:1](hod06.htm#fr_16.md) It is noteworthy that
 *fagus*, the beechtree, and φηγός, the oak, which are both
 etymologically identical with the English word *beech* and the German
 *Buche*, mean "eating" or "the tree with eatable fruit." The word
@@ -764,4 +764,4 @@ name of the beechtree fruit.
 
 ------------------------------------------------------------------------
 
-[Next: Persian Dualism](hod07)
+[Next: Persian Dualism](hod07.md)

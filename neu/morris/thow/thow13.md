@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](thow12)  [Next](thow14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](thow12)  [Next](thow14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Wolfings*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -243,6 +243,6 @@ of all that was toward.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII—The Hall-Sun Saith Another Word](thow14)
+[Next: Chapter XIII—The Hall-Sun Saith Another Word](thow14.md)
 
 </div>

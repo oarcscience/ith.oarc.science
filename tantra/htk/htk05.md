@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk04)  [Next](htk06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk04)  [Next](htk06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -31,16 +31,16 @@ at Intangible Textual Heritage
 
 ### VERSE 1
 
-O MOTHER <span id="fr_8"></span>[1](#fn_8) and Spouse of the Destroyer
-of the three cities, <span id="fr_9"></span>[2](#fn_9) they who thrice
-recite <span id="fr_10"></span>[3](#fn_10) Thy *Bīja* <span
-id="fr_11"></span>[4](#fn_11) formed by omitting from *Karpūra*, the
+O MOTHER <span id="fr_8"></span>[1](#fn_8.md) and Spouse of the Destroyer
+of the three cities, <span id="fr_9"></span>[2](#fn_9.md) they who thrice
+recite <span id="fr_10"></span>[3](#fn_10.md) Thy *Bīja* <span
+id="fr_11"></span>[4](#fn_11.md) formed by omitting from *Karpūra*, the
 middle and last consonants and the vowels, but adding Vāmākṣī and
-Bindu, <span id="fr_12"></span>[5](#fn_12) the speech of such, whether
+Bindu, <span id="fr_12"></span>[5](#fn_12.md) the speech of such, whether
 in poetry and prose, like that of men who have attained all
-powers, <span id="fr_13"></span>[6](#fn_13) issues of a surety with all
+powers, <span id="fr_13"></span>[6](#fn_13.md) issues of a surety with all
 ease from the hollow of their mouth, O Thou who art beauteous with
-beauty of a dark rain cloud. <span id="fr_14"></span>[7](#fn_14)
+beauty of a dark rain cloud. <span id="fr_14"></span>[7](#fn_14.md)
 
 COMMENTARY
 
@@ -48,7 +48,7 @@ COMMENTARY
 
 *With respectful obeisance to the beauteous feet of Svāmī Ramānanda I
 write this Svarūpa-vyākyā named the Grantor of Pure Bliss
-(Vimalānandadāyini)*. <span id="fr_15"></span>[8](#fn_15)
+(Vimalānandadāyini)*. <span id="fr_15"></span>[8](#fn_15.md)
 
 *'Oh Mother' (Mātah)*
 
@@ -138,7 +138,7 @@ on as being like the sky itself free from clouds.'
 
 ### Footnotes
 
-<span id="fn_8"></span>[43:1](htk05.htm#fr_8) <span id="page_45">p.
+<span id="fn_8"></span>[43:1](htk05.htm#fr_8.md) <span id="page_45">p.
 45</span> The Divine Mother of the World in Her aspect as
 *Dakṣiṇa-kālikā* that is the beneficent Grantor of *Nirvāṇa*.
 
@@ -150,11 +150,11 @@ sink in the ocean of existence.' *Candī* says: 'Oh Thou whose Body is
 pure Plana who hast three divine eyes, who weareth the crescent moon, to
 Thee I bow for the attainment of all good.' (V)
 
-<span id="fn_9"></span>[43:2](htk05.htm#fr_9) *Śakti* of Maheśa who
+<span id="fn_9"></span>[43:2](htk05.htm#fr_9.md) *Śakti* of Maheśa who
 destroyed the *Asura* named *Tripura* (*Tri* = three; *Pura* = city)
 along with his three cities in Heaven, Earth and the Nether regions (V).
 
-<span id="fn_10"></span>[43:3](htk05.htm#fr_10) Recite (*Japanti*);
+<span id="fn_10"></span>[43:3](htk05.htm#fr_10) Recite (*Japanti*.md);
 utter repeatedly with mind fixed on the meaning of the *Mantra* (V).
 Lit, 'make *Japa*.' The word 'recite' is employed as the nearest English
 equivalent, but is not accurate, in so far as in <span id="page_46">p.
@@ -162,20 +162,20 @@ equivalent, but is not accurate, in so far as in <span id="page_46">p.
 the next lower degree (Upāṁśu) there is movement of the lips only, but
 no utterance.
 
-<span id="fn_11"></span>[43:4](htk05.htm#fr_11) The 'seed' *mantra*.
+<span id="fn_11"></span>[43:4](htk05.htm#fr_11.md) The 'seed' *mantra*.
 *Bīja* is seed, the cause of the *Mantra* body (V). According to the
 Nityā-Tantra, *Mantras* are of four kinds—*Pinda*, *Kartarī*, *Bīja* and
 *Mālā* according to the number of syllables, See as to *Bīja*, A.
 Avalon's 'Garland of Letterś.
 
-<span id="fn_12"></span>[43:5](htk05.htm#fr_12) That is, *Karpūraṁ*,
+<span id="fn_12"></span>[43:5](htk05.htm#fr_12.md) That is, *Karpūraṁ*,
 less the vowels *a*, *ū*, *a*, and the consonants *pa* and *ra m* = *Kṛ*
 + *Vāmākshī* ('the left eye' or long vowel *ī*), with the Nādabindu
 superimposed = *Krīṁ* which accomplishes all desire (Tantrasāra), is
 *Mantrarāja* (Śyāmārahasya-Tantra) (K.B.). Tantrarāja says, 'letter *Ka*
 is Thy form.'
 
-<span id="fn_13"></span>[43:6](htk05.htm#fr_13) *Siddhi*, or success.
+<span id="fn_13"></span>[43:6](htk05.htm#fr_13.md) *Siddhi*, or success.
 *Siddhi* is that which is sought for (*Sādhya*) and is the result of
 *sādhana*, the training of the higher psychical and spiritual faculties.
 It includes the eight great powers, *Aṇimā*, *Laghimā*, etc., the power
@@ -183,7 +183,7 @@ of motion and suspension in space, and others mentioned in the Skanda
 Purāṇa and other works. The Devī is Herself *Mahāsiddhi*
 (*Lalitāsahasranāma*, v. 55).
 
-<span id="fn_14"></span>[43:7](htk05.htm#fr_14)
+<span id="fn_14"></span>[43:7](htk05.htm#fr_14.md)
 *Dhvāntadhārādhararucirucire*. Just as dark clouds, by shedding
 nectar-like rain, cool the earth parched by the sun's rays, so too dost
 Thou, by shedding the nectar of Thy Grace, give immortality to Sādhakas
@@ -192,13 +192,13 @@ tormented by the three forms of pain (*Ādhyātmika*, *Ādhibhautika*,
 delivers from all difficulties. She is dark with the refulgence of a
 million suns and is cooling like a million moons.' (V).
 
-<span id="fn_15"></span>[43:8](htk05.htm#fr_15) Vimalānanda is also the
+<span id="fn_15"></span>[43:8](htk05.htm#fr_15.md) Vimalānanda is also the
 name of the Commentator.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Verse 2](htk06)
+[Next: Verse 2](htk06.md)
 
 </div>

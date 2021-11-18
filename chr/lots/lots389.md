@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](lots388)  [Next](lots390) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](lots388)  [Next](lots390.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001CL82NS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001CL82NS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Lives of the Saints*, by Alban Butler, Benziger Bros. ed. \[1894\], at
 Intangible Textual Heritage
 
@@ -51,6 +51,6 @@ occupations of the blessed, that hopes to reign with them hereafter.
 
 ------------------------------------------------------------------------
 
-[Next: 21. St. Thomas, Apostle](lots390)
+[Next: 21. St. Thomas, Apostle](lots390.md)
 
 </div>

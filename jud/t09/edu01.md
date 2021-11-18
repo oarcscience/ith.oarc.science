@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](edu00)  [Next](edu02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](edu00)  [Next](edu02.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -28,7 +28,7 @@ agree) that for every woman who has a regular periodic menstruation the
 perceiving suffices. She who uses sheets to examine herself before and
 after intercourse, reduces thereby both the time of the previous
 examination and the above-said day of allowance. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 MISHNA *II*.: Shamai says: One must separate Chalah (first dough) from
 one Kab; Hillel says from no less than two, while the sages set the
@@ -37,7 +37,7 @@ a Kab when the measures were increased. R. Jose says: Not exactly
 five-fourths, but a trifle above.
 
 MISHNA *III*.: Hillel says: One Hin-ful of drawn water renders a legal
-bath, <span id="fr_1"></span>[2](#fn_1) when poured therein, unfit. (A
+bath, <span id="fr_1"></span>[2](#fn_1.md) when poured therein, unfit. (A
 Hin-ful is not the exact quantity, but is stated here as it is one's
 duty to use the teacher's language.) Shamai says: Nine Kab, while the
 sages, disagreeing with either view, uphold the two weavers that came
@@ -87,14 +87,14 @@ MISHNA *IX*.: If one desires a sela in exchange for copper coin of the
 second tithe, he must, according to Beth Shamai, exchange the whole coin
 for a sela, while the Beth Hillel maintain that he may take but one
 shekkel in silver and the other have in copper coin. <span
-id="fr_2"></span>[1](#fn_2) (R. Mair says): One must not redeem fruit
+id="fr_2"></span>[1](#fn_2) (R. Mair says.md): One must not redeem fruit
 and silver by other silver, while the sages allow it.
 
 <span id="page_7">p. 7</span>
 
 MISHNA *X*.: When one exchanges a sela of second tithe in Jerusalem, he
 must, according to Beth Shamai exchange the entire sela for copper coin;
-Beth Hillel hold as above; the experts <span id="fr_3"></span>[1](#fn_3)
+Beth Hillel hold as above; the experts <span id="fr_3"></span>[1](#fn_3.md)
 of the sages say: For three dinar in silver and one dinar coin. R.
 Aqiba's opinion is: Three dinar in silver and of the fourth one a
 quarter in coin. R. Tarfon says: Four aspers in silver. Shamai himself
@@ -130,7 +130,7 @@ to another one you should get what is here devised to you; thereupon the
 B. Hillel conceded to them.
 
 MISHNA *XIII*.: He who is half slave and half free <span
-id="fr_4"></span>[2](#fn_4) works,
+id="fr_4"></span>[2](#fn_4.md) works,
 
 <span id="page_8">p. 8</span>
 
@@ -158,22 +158,22 @@ clean, it would be so in general; hereupon the B. Hillel agreed.
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](edu01.htm#fr_0) This Mishna is the first in
+<span id="fn_0"></span>[3:1](edu01.htm#fr_0.md) This Mishna is the first in
 the I. Chapter of Tract Nidah, and will be translated in the proper
 place with the Gemara.
 
-<span id="fn_1"></span>[3:2](edu01.htm#fr_1) In case same does not yet
+<span id="fn_1"></span>[3:2](edu01.htm#fr_1.md) In case same does not yet
 contain the legally prescribed 40 saah.
 
-<span id="fn_2"></span>[6:1](edu01.htm#fr_2) All this receives its
+<span id="fn_2"></span>[6:1](edu01.htm#fr_2.md) All this receives its
 explanation in Tract Second-Tithe, section Seeds.
 
-<span id="fn_3"></span>[7:1](edu01.htm#fr_3) *I.e.*: Ben Azai, Ben Zoma,
+<span id="fn_3"></span>[7:1](edu01.htm#fr_3.md) *I.e.*: Ben Azai, Ben Zoma,
 'Hanan the Egyptian, and 'Hanania.
 
-<span id="fn_4"></span>[7:2](edu01.htm#fr_4) *I.e.*, he was a slave of
+<span id="fn_4"></span>[7:2](edu01.htm#fr_4.md) *I.e.*, he was a slave of
 two masters, one of whom freed him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](edu02)
+[Next: Chapter II](edu02.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi21)  [Next](hpi23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi21)  [Next](hpi23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -184,4 +184,4 @@ they find repose in union with the superhuman Spirit of Knowledge.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Ibn Tofail](hpi23)
+[Next: 3. Ibn Tofail](hpi23.md)

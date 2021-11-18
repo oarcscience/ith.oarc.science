@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb01)  [Next](ttb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb01)  [Next](ttb03.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -52,10 +52,10 @@ express deep gratitude, as well as to other members of the Museum staff.
 Charlie James and those like him are endeavoring to preserve the arts of
 their people. In all too much of Indian craftsmanship the influence of
 the white man has corrupted the primitive conception of art:
-[gaudy](errata.htm#2) painting cannot cover poor workmanship. The
+[gaudy](errata.htm#2.md) painting cannot cover poor workmanship. The
 Department of Indian Affairs could do much to re-educate the Indian
 along these lines by freely exhibiting collections of
-[authentically](errata.htm#3) old craftsmanship to the rising
+[authentically](errata.htm#3.md) old craftsmanship to the rising
 generation. The work of Charlie James, besides being on view in Stanley
 Park, Vancouver, and Lincoln Park, Chicago, has won an honored place in
 the collections of many noted collectors, including the Emperors of
@@ -89,4 +89,4 @@ To the Indians who have adorned me with Knowledge Beyond Dreams
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](ttb03)
+[Next: Table of Contents](ttb03.md)

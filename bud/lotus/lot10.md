@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot09)  [Next](lot11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot09)  [Next](lot11.md) 
 
 ------------------------------------------------------------------------
 
@@ -328,4 +328,4 @@ Buddhas as numerous as the sands of the Ganges.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11](lot11)
+[Next: Chapter 11](lot11.md)

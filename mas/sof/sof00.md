@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Next](sof01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Next](sof01.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,6 +43,6 @@ A. G. Mackey.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](sof01)
+[Next: Preface](sof01.md)
 
 </div>

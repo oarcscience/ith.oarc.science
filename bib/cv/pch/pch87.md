@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch86) 
-[Next](pch88) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch86.md) 
+[Next](pch88.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -332,7 +332,7 @@ believed in the ascension, and call the legend "evidence."
 #### § 2. The Rev. Alfred Ernest Crawley.
 
 The work entitled *The Tree of Life*, by the Rev. A. E. Crawley, <span
-id="fr_2005"></span>[1](#fn_2005) author of *The Mystic Rose*, is an
+id="fr_2005"></span>[1](#fn_2005.md) author of *The Mystic Rose*, is an
 interesting development of modern Christian apologetics. As an
 anthropologist, Mr. Crawley is sufficiently familiar with the facts of
 comparative hierology to know that all the main features of the
@@ -353,7 +353,7 @@ it is the true bulwark of society against "Radicals and Socialists"; and
 (3) that the Church of England is the best Church because she keeps "to
 a *via media* which does more than represent the essence of Christian
 doctrine, for it also *preserves the best elements of primitive
-religion*." <span id="fr_2006"></span>[2](#fn_2006) Of this avowed
+religion*." <span id="fr_2006"></span>[2](#fn_2006.md) Of this avowed
 compound of savagery and "progress," the essential value is declared to
 consist neither in truth or reasonableness nor in any inculcation of
 altruism, but in the "feeling of life" which it conveys, its
@@ -646,7 +646,7 @@ of keeping their tempers when their faith is challenged, and the havoc
 which passion can work in an argument, not to say in the reasoning
 faculty itself. His animus disorders his enterprise from the start. In
 the opening chapter of his work on *Mythic Christs and the True*, <span
-id="fr_2007"></span>[1](#fn_2007) dealing with the question of
+id="fr_2007"></span>[1](#fn_2007.md) dealing with the question of
 Mithraism, he refers to me as "a modern writer on the subject, who tells
 us that his book 'challenges criticism above all by its thesis.'"
 Pausing at that word, he goes on to charge me with first asserting that
@@ -769,7 +769,7 @@ is declared to be born of a woman; and he does not for a moment pretend
 that the Persians declared Mithra to be the son of a mortal *father*.
 Confusing another text, he makes it assert that Mithra was "incestuously
 born of a mortal mother," when the assertion really was (see above, [p.
-322](pch71.htm#page_322), *note*) that the God was born of the incest of
+322](pch71.htm#page_322), *note*.md) that the God was born of the incest of
 Ahura Mazda with *his* mother. Any candid scholar would admit that on
 the face of such references Mithra was reputed supernaturally born of
 God and a mortal mother. When Dr. Tisdall argues further that the
@@ -1702,7 +1702,7 @@ opening illustration, that my thesis of the pre-Christian Jesus-cult
 
 and ritual of human sacrifice is "justified" by me in a passage of three
 sentences (*Pagan Christs*, 1st ed. pp. 153-4; present ed. [p.
-162](pch36.htm#page_162)), which he quotes. Then he writes:—"Well may
+162](pch36.htm#page_162).md), which he quotes. Then he writes:—"Well may
 the author look on his work and find it very good; for he *concludes*,
 'As a hypothesis the present solution must for the present stand.""
 
@@ -1788,7 +1788,7 @@ was apparently from time immemorial consecrated to Mithra by Mithraists;
 and as the Sun-God was pre-eminently 'the Lord,' Sunday was 'the Lord's
 day 'long before the Christian era." He contends that "Mr. Robertson's
 statements require him to show (1) that Mithra was called
-*Kurios*, <span id="fr_2008"></span>[1](#fn_2008) and (2) that his
+*Kurios*, <span id="fr_2008"></span>[1](#fn_2008) and (2.md) that his
 worshippers gave the name *Kuriakê* to the first day of the week before
 the Christian era." The first statement, he observes, I do not attempt
 to prove; and there is, he contends, no record of the application of the
@@ -2123,7 +2123,7 @@ it given by Professor A. Réville. In the preface to the second edition
 of that work I have shown that Professor Réville cannot have given even
 a cursory attention to the bulk of it, else he would be open to a charge
 of simple false witness. And now Professor Clemen, not having seen the
-book himself, <span id="fr_2009"></span>[1](#fn_2009) disposes of it by
+book himself, <span id="fr_2009"></span>[1](#fn_2009.md) disposes of it by
 a citation from another Professor who had not read it. He has thus by a
 wise economy of research taken no account of a score of the asserted
 parallelisms which it is the professed object of his book to deal with.
@@ -2207,20 +2207,20 @@ defence of other positions is mere asseveration.
 
 ### Footnotes
 
-<span id="fn_2005"></span>[402:1](pch87.htm#fr_2005) *The Tree of Life*,
+<span id="fn_2005"></span>[402:1](pch87.htm#fr_2005.md) *The Tree of Life*,
 by Ernest Crawley. Hutchinson and Co., 1905. Mr. Crawley does not put
 "Rev." on his title-page.
 
-<span id="fn_2006"></span>[402:2](pch87.htm#fr_2006) Pp. 263, 278.
+<span id="fn_2006"></span>[402:2](pch87.htm#fr_2006.md) Pp. 263, 278.
 
-<span id="fn_2007"></span>[408:1](pch87.htm#fr_2007) Published by the
+<span id="fn_2007"></span>[408:1](pch87.htm#fr_2007.md) Published by the
 North London Christian Evidence Society, 11 and 12 High Street,
 Hampstead, N.W. 1909.
 
-<span id="fn_2008"></span>[429:1](pch87.htm#fr_2008) The normal
+<span id="fn_2008"></span>[429:1](pch87.htm#fr_2008.md) The normal
 transliteration is *Kyrios*, but I here follow that of my critic.
 
-<span id="fn_2009"></span>[435:1](pch87.htm#fr_2009) This course is
+<span id="fn_2009"></span>[435:1](pch87.htm#fr_2009.md) This course is
 strangely common among even distinguished German theologians. I am
 surprised to note it in Dr. A. Schweitzer as well as in the late
 Professor Pfleiderer. See App. to *Christianity and Mythology*, 2nd ed.
@@ -2228,4 +2228,4 @@ pp. 449, 456.
 
 ------------------------------------------------------------------------
 
-[Next: Index](pch88)
+[Next: Index](pch88.md)

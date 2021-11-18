@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai04)  [Next](kwai06) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai04)  [Next](kwai06.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ Ubazakura, the Cherry-tree of the Milk-Nurse.
 
 ------------------------------------------------------------------------
 
-[Next: Diplomacy](kwai06)
+[Next: Diplomacy](kwai06.md)

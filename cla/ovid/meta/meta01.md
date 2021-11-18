@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)   
-[Latin](metal01)   
-[Previous](metatp)  [Next](meta02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index.md)   
+[Latin](metal01.md)   
+[Previous](metatp)  [Next](meta02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1144,4 +1144,4 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Book the Second](meta02)
+[Next: Book the Second](meta02.md)

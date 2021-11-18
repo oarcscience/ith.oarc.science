@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cob07)  [Next](cob09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cob07)  [Next](cob09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Buddha*, by Edmond Holmes, \[1919\], at Intangible Textual
 Heritage
 
@@ -49,7 +49,7 @@ This is the fate which has befallen Buddha. Because he said nothing
 about God he is held--by the "orthodox" as well as by the
 "unbeliever"--to have "denied the divine." Because he said little about
 the "Self," and because that little was mainly negative, <span
-id="fr_34"></span>[1](#fn_33) he is held to have denied the Ego. And he
+id="fr_34"></span>[1](#fn_33.md) he is held to have denied the Ego. And he
 is credited with all the consequences of these tremendous denials. He
 who on principle kept silence about what is, ultimate is supposed to
 have elaborated a complete system of negatively ultimate thought.
@@ -188,7 +188,7 @@ kindred theories he says the same thing--"this theory is a jungle, a
 wilderness, a puppet show, a writhing and a fetter, and is coupled with
 misery, ruin, despair and agony and does not tend to aversion, absence
 of passion, cessation, quiescence, knowledge, supreme wisdom and
-Nirvâna." <span id="fr_35"></span>[1](#fn_34)
+Nirvâna." <span id="fr_35"></span>[1](#fn_34.md)
 
 But we shall the better understand his antipathy to the metaphysicians
 if we consider the second of his reasons for remaining silent,--his fear
@@ -611,7 +611,7 @@ which all their thinking centred--the Divine in man--was not to them an
 object. of scientific curiosity, a being whose nature could be
 exhaustively analyzed or whose attributes could be set forth in a series
 of formulæ. They habitually spoke of him <span
-id="fr_36"></span>[1](#fn_35) as "That." They shrank from
+id="fr_36"></span>[1](#fn_35.md) as "That." They shrank from
 
 <span id="page_155">p. 155</span>
 
@@ -691,15 +691,15 @@ alone, accounts for and justifies his silence.
 
 ### Footnotes
 
-<span id="fn_33"></span>[136:1](cob08.htm#fr_34) See pp.
-[77](cob06.htm#page_77), [78](cob06.htm#page_78).
+<span id="fn_33"></span>[136:1](cob08.htm#fr_34.md) See pp.
+[77](cob06.htm#page_77), [78](cob06.htm#page_78.md).
 
-<span id="fn_34"></span>[140:1](cob08.htm#fr_35) "Buddhism in
+<span id="fn_34"></span>[140:1](cob08.htm#fr_35.md) "Buddhism in
 Translation" (by H. S. Warren).
 
-<span id="fn_35"></span>[154:1](cob08.htm#fr_36) I use the words *he*
+<span id="fn_35"></span>[154:1](cob08.htm#fr_36.md) I use the words *he*
 and *him* and *his* for lack of a more suitable pronoun.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Secret of Buddha](cob09)
+[Next: Chapter VII. The Secret of Buddha](cob09.md)

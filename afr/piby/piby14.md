@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby13)  [Next](piby15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby13)  [Next](piby15.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ the twelfth day of the ninth month, the word of the Lord, God of
 Ethiopia came to Athlyi saying:
 
 "I am God, the Creator, Father of Ham, Canaan, Nimrod and
-Ethiopia." <span id="fr_2"></span>[3](#fn_2)
+Ethiopia." <span id="fr_2"></span>[3](#fn_2.md)
 
 "Why calleth thou my Holy Temple, Church?" sayeth the Lord unto Athlyi.
 
@@ -28,7 +28,7 @@ and adulterous characters in my name?"
 And the Lord continued to say, "Athlyi! Oh Athlyi! I say unto you again.
 Why calleth my holy temple, 'Church'? Will thou also teach that I have
 <span id="page_59">p. 59</span> commanded to destroy the offsprings of
-Ham in Canaan?" <span id="fr_3"></span>[4](#fn_3)
+Ham in Canaan?" <span id="fr_3"></span>[4](#fn_3.md)
 
 Athlyi answered saying, "Father, behold the house of Athlyi."
 
@@ -75,16 +75,16 @@ and the word of his mouth brought freedom to the enslaved.
 
 ### Footnotes
 
-<span id="fn_2"></span>[58:3](piby14.htm#fr_2) Cf. Gen. 10:6-7: "By
+<span id="fn_2"></span>[58:3](piby14.htm#fr_2.md) Cf. Gen. 10:6-7: "By
 these were the borders of the nations divided in their lands; every one
 after his tongue, after their families, in their nations. And the sons
 of Ham: Cush, and Mizraim, and Put, and Canaan."
 
-<span id="fn_3"></span>[59:4](piby14.htm#fr_3) Gen. 10:24-27: "And Noah
+<span id="fn_3"></span>[59:4](piby14.htm#fr_3.md) Gen. 10:24-27: "And Noah
 awoke from his wine, and knew what his younger son \[Ham\] had done unto
 him. And he said, Cursed be Canaan; a servant of servants shall he be
 unto his brethren."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10. Rejoicing in the Light](piby15)
+[Next: Chapter 10. Rejoicing in the Light](piby15.md)

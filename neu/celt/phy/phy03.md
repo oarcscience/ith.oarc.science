@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy02)  [Next](phy04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy02)  [Next](phy04.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ Fair Mona, are all dear to me</em>.</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](phy04)
+[Next: Chapter I](phy04.md)

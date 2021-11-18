@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index) [Index](index) [Previous](nt2) [Next](nt4)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index) [Index](index) [Previous](nt2) [Next](nt4.md)
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ Then they started off having left pounded soapweed where he had climbed.
 
 ------------------------------------------------------------------------
 
-[Next](nt4)
+[Next](nt4.md)
 
  
 

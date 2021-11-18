@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku46)  [Next](tku48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku46)  [Next](tku48.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ comprehendeth all names.
 
 922\. But this form wherein He Himself only appeareth is in the
 similitude of this form; and is not that form, but is analogous unto
-this form <span id="fr_162"></span>[1](#fn_161)--namely, when there are
+this form <span id="fr_162"></span>[1](#fn_161.md)--namely, when there are
 associated therewith the crowns and the diadems and the perfection of
 all things.
 
@@ -47,17 +47,17 @@ and the other?
 yet from our point of view (i.e., from our plane) His paths are divided,
 and from our point of view (*on our plane*) is judgment found, and from
 the side which is turned towards us are (*His attributes*) by turns
-duplicated. <span id="fr_163"></span>[2](#fn_162)
+duplicated. <span id="fr_163"></span>[2](#fn_162.md)
 
 927\. And these Arcana are not revealed save unto the reapers of the
-Sacred Land. <span id="fr_164"></span>[3](#fn_163)
+Sacred Land. <span id="fr_164"></span>[3](#fn_163.md)
 
 928\. For it is written, Ps. xxv. 14: "The secret of Tetragrammaton is
 with them that fear Him."
 
 929\. Also it is written, Gen. ii. 7: "VIlTzR IHVH ALHIM ATh HADM,
 *Va-Yeyetzer Tetragrammaton Eloim Ath Ha-Adam*. <span
-id="fr_165"></span>[4](#fn_164) And Tetragrammaton Elohim formed the
+id="fr_165"></span>[4](#fn_164.md) And Tetragrammaton Elohim formed the
 
 <span id="page_227">p. 227</span>
 
@@ -103,7 +103,7 @@ supernal Arcana, even the end of all Arcana.
 
 939\. This is that which is herein written: "VIPCh BAPIV NShMThChIIM,
 *Ve-Yepech Be-Ephaiu Neschamath Chiim*, and breathed into his nostrils
-the Neschamath <span id="fr_166"></span>[1](#fn_165) of (*their*) lives.
+the Neschamath <span id="fr_166"></span>[1](#fn_165) of (*their*.md) lives.
 
 940\. Their souls, from which all things living, superiors and
 inferiors, alike depend, and wherein they have their existence.
@@ -112,9 +112,9 @@ inferiors, alike depend, and wherein they have their existence.
 the Adam was formed into a living Nephesch," so that it (*the physical
 Nephesch form*) might be attached to himself (otherwise, so that it
 might be developed in him), and that he might form himself into similar
-conformations; <span id="fr_167"></span>[2](#fn_166) and that he might
+conformations; <span id="fr_167"></span>[2](#fn_166.md) and that he might
 project himself in that Neschamah from path into path, <span
-id="fr_168"></span>[3](#fn_167) even unto the end and completion of all
+id="fr_168"></span>[3](#fn_167.md) even unto the end and completion of all
 the paths.
 
 942\. So that in all this Neschamah might be found, and that it might be
@@ -123,7 +123,7 @@ extended into all, and that it itself might be still one.
 943\. Whence he who taketh this away from the universe doth the same
 thing as if he should take away this Neschamah for the purpose of
 setting in its place another Neschamah beside it. <span
-id="fr_169"></span>[4](#fn_168)
+id="fr_169"></span>[4](#fn_168.md)
 
 944\. And therefore shall such a man and his remembrance be cut off from
 generations unto generations.
@@ -132,42 +132,42 @@ generations unto generations.
 
 ### Footnotes
 
-<span id="fn_160"></span>[225:1](tku46.htm#fr_161) Microprosopus, the
+<span id="fn_160"></span>[225:1](tku46.htm#fr_161.md) Microprosopus, the
 *Vau*, V, of IHVH. The sea is Binah, the Supernal Mother, the third
 Sephira, and the first H of IHVH.
 
-<span id="fn_161"></span>[226:1](tku47.htm#fr_162) I take the sense of
+<span id="fn_161"></span>[226:1](tku47.htm#fr_162.md) I take the sense of
 this second clause to be that He is not really in the outward and
 visible form of a material man; but that he can be best expressed hereby
 in a symbolic spiritual form. Cf. Ezek. i. 26; "And upon the LIKENESS of
 the throne was the LIKENESS as the APPEARANCE of a man above it."
 
-<span id="fn_162"></span>[226:2](tku47.htm#fr_163) In connection with
+<span id="fn_162"></span>[226:2](tku47.htm#fr_163.md) In connection with
 this section read ch. i. §§ 5, 6, 7, and 5, of the "Book of Concealed
 Mystery."
 
-<span id="fn_163"></span>[226:3](tku47.htm#fr_164) *I.e.*, to the
+<span id="fn_163"></span>[226:3](tku47.htm#fr_164.md) *I.e.*, to the
 students of the Qabalah.
 
-<span id="fn_164"></span>[226:4](tku47.htm#fr_165) See also "Book Of
+<span id="fn_164"></span>[226:4](tku47.htm#fr_165.md) See also "Book Of
 Concealed Mystery," ch. ii. § 23.
 
-<span id="fn_165"></span>[228:1](tku47.htm#fr_166) Neschamath is either
+<span id="fn_165"></span>[228:1](tku47.htm#fr_166.md) Neschamath is either
 the plural of Neschamah, *defectively written*, or else shows that
 Neschamah is *in regimine* to Chiim, and evidently means the united
 higher souls of *both Adam and Eve conjoined in one body*. (For
 explanation of Neschamah, &c., see Introduction.)
 
-<span id="fn_166"></span>[228:2](tku47.htm#fr_167) That is into
+<span id="fn_166"></span>[228:2](tku47.htm#fr_167.md) That is into
 conformations similar to those of the Supernal Man.
 
-<span id="fn_167"></span>[228:3](tku47.htm#fr_168) That is, into forms,
+<span id="fn_167"></span>[228:3](tku47.htm#fr_168.md) That is, into forms,
 conditions, and qualities analogous to the Sephiroth. (See Introduction
 regarding the soul, and Plate showing the analogy between the soul, the
 letters of Tetragrammaton, and the four worlds, where the Sephiroth are
 shown reflected in Nephesch.)
 
-<span id="fn_168"></span>[228:4](tku47.htm#fr_169) Apparently the sense
+<span id="fn_168"></span>[228:4](tku47.htm#fr_169.md) Apparently the sense
 of this passage is intended to combat Atheism. and to show that it is
 logically absurd to deny the existence of a Spirit of God which works in
 the universe; inasmuch that if this be denied, at all events something
@@ -176,4 +176,4 @@ analogous in its general properties will have to be substituted for it.
 ------------------------------------------------------------------------
 
 [Next: Chapter XL: Concerning the Feminine Portion of
-Microprosopus](tku48)
+Microprosopus](tku48.md)

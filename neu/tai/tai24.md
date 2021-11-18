@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai23)  [Next](tai25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai23)  [Next](tai25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ Russians the descendants of Dažbog, the fertilizing sun,--possibly
 
 also some Saturn who founded a Golden Age (cf. the Chronicles for
 1114)--whilst Boyán, the great poet of the past epoch, is the inspired
-grandson of Véles <span id="fr_13"></span>[†](#fn_13) the god of cattle,
+grandson of Véles <span id="fr_13"></span>[†](#fn_13.md) the god of cattle,
 a phrase, which in the complete absence of other contemporary evidence,
 it is impossible to explain.
 
@@ -79,7 +79,7 @@ part in the elaboration of the unimportant foray, the subject of the
 poem. The crows, the magpies and daws, the nightingales and the wild
 beasts are all credited with superstitious relevance to human
 happenings; in these lines there is no trace of convention or effort
-after style. [After](errata.htm#2) all such ideas are rife even in
+after style. [After](errata.htm#2.md) all such ideas are rife even in
 latter-day England.
 
 The sun is, if not worshipped by the writer of this poem, regarded as a
@@ -88,7 +88,7 @@ moon is narrated with the greatest detail; and the highest compliment
 that can be paid to virtuous and vigorous princes is to compare them
 with the sun, to treat them, literally, as the sources of enlightenment.
 So, too, in this poem Ígoŕ and his brave brother are called two suns
-who <span id="fr_14"></span>[‡](#fn_14) have been extinguished, his
+who <span id="fr_14"></span>[‡](#fn_14.md) have been extinguished, his
 infant children, two moons that have waned. One of the real survivals of
 heathendon in this poem is to be traced in the passionate attention paid
 to Nature and her manifestations.
@@ -150,14 +150,14 @@ in Nestor, where he tells of Vladímir I's Pagan revival.
 
 ### Footnotes
 
-<span id="fn_13"></span>[xlv:†](tai24.htm#fr_13) Dubenski states on
+<span id="fn_13"></span>[xlv:†](tai24.htm#fr_13.md) Dubenski states on
 Subinski's authority that in South Russia before 1837 men collected
 cows' hairs, tearing them up from the animals by the root and wove them
 into beards. This is rather like the worship of St. Herbot in Brittany,
 originally a god of cattle.
 
-<span id="fn_14"></span>[xlv:‡](tai24.htm#fr_14) l. 391. . .
+<span id="fn_14"></span>[xlv:‡](tai24.htm#fr_14.md) l. 391. . .
 
 ------------------------------------------------------------------------
 
-[Next: Boyán](tai25)
+[Next: Boyán](tai25.md)

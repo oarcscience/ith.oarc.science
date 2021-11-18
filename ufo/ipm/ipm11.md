@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](../mars/index)  [Index](index)  [Previous](ipm10)  [Next](ipm12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](../mars/index)  [Index](index)  [Previous](ipm10)  [Next](ipm12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From India to the Planet Mars*, by Théodore Flournoy; tr. Daniel B.
 Vermilye, \[1900\], at Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Vermilye, \[1900\], at Intangible Textual Heritage
 #### THE ROYAL CYCLE
 
 IF I were obliged to give this cycle a place proportioned to that which
-it occupies in the [somnambulic](errata.htm#7) life of Mlle. Smith, a
+it occupies in the [somnambulic](errata.htm#7.md) life of Mlle. Smith, a
 hundred pages would not suffice. But permit me to pass rapidly over
 facts concerning which I should only be obliged to repeat the greater
 part of the observations called forth by the preceding romances, which
@@ -48,7 +48,7 @@ of Hélène with Marie Antoinette, as well as to that of her secondary
 personality of Leopold with Cagliostro.
 
 We have, in fact, seen that this engraving (pp.
-[94](ipm06.htm#page_94)-[95](ipm06.htm#page_95)), so well calculated to
+[94](ipm06.htm#page_94)-[95](ipm06.htm#page_95).md), so well calculated to
 impress the imagination, was shown to Mlle. Smith by Mme. B. at the end
 of a seance—that is, at a moment when one is never sure that Hélène's
 return to her normal state is complete, and in which her hypnoid
@@ -91,7 +91,7 @@ indications. Speech was added the year following, at a date which I
 cannot fix, but the first occasion on which I was a witness to it was on
 the 13th of October, 1895. Handwriting only made its appearance, as far
 as I am aware, two years later (November 1, 1897, see [Fig.
-39](#img_fig39)), when the royal incarnation attained its apogee and
+39](#img_fig39).md), when the royal incarnation attained its apogee and
 Hélène was in the habit of retaining in memory the somnambulistic rôle
 of Marie Antoinette for several hours. Since then the rôle has
 maintained itself at a very remarkable level of perfection, but it
@@ -103,7 +103,7 @@ distinguished in this brilliant personality, or at least
 
 <span id="img_fig39"></span> <span align="CENTER"> [![Figure
 39.](tn/fig39.jpg)  
-Click to enlarge](img/fig39.jpg)  
+Click to enlarge](img/fig39.jpg.md)  
   
 </span>
 
@@ -134,17 +134,17 @@ and are manifested in her bearing, to the filing by of the courtiers who
 people her dream. The play of her hands with her real handkerchief and
 its fictitious accessories, the fan, the binocle with long handle, the
 scent-bottle which she carries in a pocket in her girdle; her
-[curtseying](errata.htm#8), the movement, full of grace and ease, by
+[curtseying](errata.htm#8.md), the movement, full of grace and ease, by
 which she never forgets at each turning around, to throw back her
 imaginary train; everything of this kind, which cannot be described, is
 perfect in its ease and naturalness. Special personification of the
 unhappy Austrian wife of Louis XVI. is of a less evident, and moreover
 doubtful, accuracy. To judge of it from the only objective point of
-comparison at our disposal, the handwriting (see Figs. [39](#img_fig39)
-to [41](#img_fig41)), the Marie Antoinette of Hélène's somnambulisms
+comparison at our disposal, the handwriting (see Figs. [39](#img_fig39.md)
+to [41](#img_fig41).md), the Marie Antoinette of Hélène's somnambulisms
 little resembles her supposed prototype, for there is less of difference
 between the autographs of Cagliostro and of Leopold (see [p.
-109](ipm06.htm#page_109)) than there is between that of the real queen
+109](ipm06.htm#page_109).md) than there is between that of the real queen
 and that of her pretended reincarnation in Mlle. Smith, the latter
 having a rounded, inclined calligraphy, much more regular than in her
 normal state, instead of the angular and illegible writing which was
@@ -155,7 +155,7 @@ differences in formation
 
 <span id="img_fig40"></span> <span align="CENTER"> [![Fig.
 40](tn/fig40.jpg)  
-Click to enlarge](img/fig40.jpg)  
+Click to enlarge](img/fig40.jpg.md)  
   
 </span>
 
@@ -169,7 +169,7 @@ Click to enlarge](img/fig40.jpg)
 
 <span id="img_fig41"></span> <span align="CENTER"> [![Fig.
 41](tn/fig41.jpg)  
-Click to enlarge](img/fig41.jpg)  
+Click to enlarge](img/fig41.jpg.md)  
   
 </span>
 
@@ -186,7 +186,7 @@ Click to enlarge](img/fig41.jpg)
 of many letters. Some orthographic analogies (Hélène writes *instans*,
 *enfans*, *étois*, etc.) have nothing specific about them, and simply
 recall the general habits of the last century (see [p.
-112](ipm06.htm#page_112)).
+112](ipm06.htm#page_112).md).
 
 Not having discovered any indication as to Marie Antoinette's manner of
 speaking, I do not know whether the hypnoid imagination of Hélène has
@@ -199,12 +199,12 @@ affected, very pretty, but slightly irritating by its length. We already
 know that there is not an absolute wall of separation between Hélène's
 various trances. Just as is the case with the Martian and the Hindoo,
 the handwriting or the spelling of the queen sometimes slips into the
-correspondence of Mlle. Smith (see [Fig. 39](#img_fig39)), and she also
+correspondence of Mlle. Smith (see [Fig. 39](#img_fig39).md), and she also
 sometimes assumes the accent of Marie Antoinette, if not in the ordinary
 waking state (I do not know whether that is ever the case), at least
 outside her Royal cycle, especially in the phases of transition in which
 she begins or ends by incarnating Leopold, the Martians, etc. (see, for
-example, [p. 56](ipm05.htm#page_56)).
+example, [p. 56](ipm05.htm#page_56).md).
 
 From the point of view of its content, the Royal cycle forms a
 collection of scenes and varied tableaux, like the Martian dream,
@@ -373,7 +373,7 @@ is evident that she perfectly understood it, but her own reflection, or
 the smile of the sitters, awakens in her the feeling of incompatibility;
 she returns to the word just used, and pretends a sudden ignorance and
 astonishment in regard to it. Spiritism explains these blunders by
-accusing the [Machiavellian](errata.htm#9) companions of the queen of
+accusing the [Machiavellian](errata.htm#9.md) companions of the queen of
 grossly abusing the suggestibility attached to the trance state by
 jumbling her ideas and throwing her into confusion. Psychology is not
 surprised that the subliminal imitation, however remarkable it may be,
@@ -435,7 +435,7 @@ was blond or gray I could not clearly see. She played and sang at the
 same time. The sounds of the piano, the voice even, reached me, but I
 could not catch the words of the song. A young girl and a boy stood on
 either side of the piano. Not far from them was seated a young lady
-holding an infant on her lap. <span id="fr_26"></span>[\*](#fn_26) This
+holding an infant on her lap. <span id="fr_26"></span>[\*](#fn_26.md) This
 charming vision lasted a very short time, not longer than ten minutes."
 
 <span id="page_357">p. 357</span>
@@ -458,7 +458,7 @@ bas mes doux trésors \| approchez-vous approchez-vous \| enfans chéris
 approchez-vous \| êtres chéris enfans bénis—approchez-vous de votre mère
 \| son doux baiser petits amis \| calme et guérit toutes misères \|
 approchez-vous approchez-vous \| enfans chéris approchez-vous." <span
-id="fr_27"></span>[\*](#fn_27)</span>
+id="fr_27"></span>[\*](#fn_27.md)</span>
 
 Some months later the two preceding scenes were reproduced, with
 variations of detail, on the same evening, during which Marie Antoinette
@@ -548,7 +548,7 @@ circumstances, but has no memory of the state from which she has just
 emerged, and she complains of a sharp pain in her finger (where I had
 pinched it while in her preceding phase). I took advantage one day of
 these alternations to offer her a pencil, and dictated to her the
-sentence of [Fig. 42](#img_fig42). In her normal moments she holds the
+sentence of [Fig. 42](#img_fig42.md). In her normal moments she holds the
 pencil in her accustomed manner, between the index and middle fingers,
 and writes in her usual hand; during the returns of the royal
 somnambulism she holds it between the thumb and index-finger and assumes
@@ -572,7 +572,7 @@ very profound: the personality of Marie Antoinette
 
 <span id="img_fig42"></span> <span align="CENTER"> [![Fig.
 42](tn/fig42.jpg)  
-Click to enlarge](img/fig42.jpg)  
+Click to enlarge](img/fig42.jpg.md)  
   
 </span>
 
@@ -620,7 +620,7 @@ express the sensation lived through, felt, of the bitter
 
 irony of things, of futile revolt, of fatality dominating the human
 being. They seem to say that all happy and brilliant life is only an
-illusion soon [dissipated](errata.htm#10). The daily annihilation of the
+illusion soon [dissipated](errata.htm#10.md). The daily annihilation of the
 dream and the desire by implacable and brutal reality cannot find in the
 hypnoid imagination a more adequate representation, a more perfect
 symbol of an emotional tonality, than her royal majesty whose existence
@@ -631,18 +631,18 @@ the scaffold.
 
 ### Footnotes
 
-<span id="fn_26"></span>[356:\*](ipm11.htm#fr_26) It will be readily
+<span id="fn_26"></span>[356:\*](ipm11.htm#fr_26.md) It will be readily
 understood that this vision represents Marie Antoinette with her three
 children and Madame Elizabeth.
 
-<span id="fn_27"></span>[357:\*](ipm11.htm#fr_27) I have respected the
+<span id="fn_27"></span>[357:\*](ipm11.htm#fr_27.md) I have respected the
 orthography as well as the complete absense of punctuation of this bit
 of automatic writing, confining myself to marking by vertical bars its
 evident separation into verses of eight feet. It is written in the
 inclined and regular hand called that of Marie Antoinette (like that of
-Fig. [40](#img_fig40)), but with a pencil too pale to permit its
+Fig. [40](#img_fig40).md), but with a pencil too pale to permit its
 reproduction.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Supernormal Appearances](ipm12)
+[Next: Chapter X. Supernormal Appearances](ipm12.md)

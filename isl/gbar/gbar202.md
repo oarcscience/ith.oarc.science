@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar201) [Next](gbar203)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar201) [Next](gbar203.md)
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ her wings, and thou wouldst not.' Wherefore God saith thus unto thee—
 
 ------------------------------------------------------------------------
 
-[Next](gbar203)
+[Next](gbar203.md)

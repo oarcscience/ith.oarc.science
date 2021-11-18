@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgl010) [Next](tgl2)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgl010) [Next](tgl2.md)
 
 ------------------------------------------------------------------------
 
@@ -61,9 +61,9 @@ TRANSLATIONS
 <span id="dis"></span>DISSERTATION ON  
 THE COSMIC SPIRIT
 
-{[notes](tgln1.htm#1)\|[elucidations and analyses](tgln2.htm#1)}
+{[notes](tgln1.htm#1)\|[elucidations and analyses](tgln2.htm#1.md)}
 
-   The Cosmic Spirit (Tao)<span id="fr_1"></span>[1](tgln1.htm#1_note_1)
+   The Cosmic Spirit (Tao)<span id="fr_1"></span>[1](tgln1.htm#1_note_1.md)
 embraces Heaven and supports Earth. It stretched the four quarters of
 the
 
@@ -104,7 +104,7 @@ the phoenix wheels in the empyrean through its might.
 <span id="page_3">p. 3</span>
 
    In the beginning, the two forces *Yin* and *Yang*,<span
-id="fr_2"></span>[2](tgln1.htm#1_note_2) having obtained the essence of
+id="fr_2"></span>[2](tgln1.htm#1_note_2.md) having obtained the essence of
 the Tao, became the central
 
 |                             |
@@ -152,7 +152,7 @@ the eggs of birds addle.
 
    It is due to the Tao that fathers have no occasion to mourn over the
 untimely death of their children,<span
-id="fr_3"></span>[3](tgln1.htm#1_note_3) nor the
+id="fr_3"></span>[3](tgln1.htm#1_note_3.md) nor the
 
 |                                          |
 |------------------------------------------|
@@ -162,7 +162,7 @@ elder brother weep over the untimely death of a younger member. Children
 are not made orphans nor wives widows. That the ill-starred rainbow does
 not appear, nor unlucky comets career in the sky, is due to the
 harmonious control of the Tao.<span
-id="fr_4"></span>[4](tgln1.htm#1_note_4)
+id="fr_4"></span>[4](tgln1.htm#1_note_4.md)
 
    The supreme Tao begets all creation, but keeps itself as though it
 did not exist, i.e. makes no boast of it. It
@@ -194,7 +194,7 @@ with Yin and Yang, Oh!
 
    In olden times Feng I and Ta Ping were great charioteers <span
 id="page_5">p. 5</span> by virtue of the Tao.<span
-id="fr_5"></span>[5](tgln1.htm#1_note_5) They rode on the chariot
+id="fr_5"></span>[5](tgln1.htm#1_note_5.md) They rode on the chariot
 
 |                                |
 |--------------------------------|
@@ -216,7 +216,7 @@ without anxieties: his outlook is without fears because he feels Heaven
 is a covering, the Earth is a chariot, the four seasons his steeds,
 *Yin* and *Yang* his drivers. He rides on the pinnacle of the clouds,
 through space, a compeer of the Creator.<span
-id="fr_6"></span>[6](tgln1.htm#1_note_6) He gives reins to his will; he
+id="fr_6"></span>[6](tgln1.htm#1_note_6.md) He gives reins to his will; he
 opens out his mind to travel the great empyrean. He walks when he so
 desires, or rushes on when he so wills. He commands the Rain Spirit
 (star) to irrigate his way, and employs the Wind God to sweep away the
@@ -224,7 +224,7 @@ dust. The lightening he takes for whip, the revolving breath of thunder
 as wind for his chariot wheels. Above, he travels in the boundless waste
 of space; below, he comes forth at the gates of the great void. He looks
 all round in space and gazes abroad on everything, yet keeping all under
-the central organ<span id="fr_7"></span>[7](tgln1.htm#1_note_7): master
+the central organ<span id="fr_7"></span>[7](tgln1.htm#1_note_7.md): master
 of the four quarters he brings everything within the range of the master
 spirit within. And so it was that, with Heaven canopying all, there was
 nothing outside the pale of his influence: with Earth as chariot, there
@@ -234,7 +234,7 @@ nothing lacking; the processes of creation are complete. So there is no
 instability <span id="page_6">p. 6</span> in this immense effort: there
 is no toil in the profound operations. There has been no fatigue of body
 nor diminution of intelligence.<span
-id="fr_8"></span>[8](tgln1.htm#1_note_8) How was it that they gained a
+id="fr_8"></span>[8](tgln1.htm#1_note_8.md) How was it that they gained a
 knowledge of the conditions of Heaven and Earth? It was because they had
 the authority of the Tao that they traversed the illimitable world.
 
@@ -245,7 +245,7 @@ legal interference, inasmuch as they operate in
 |---------------------------------------------------------------------------|
 | **Four Fundamental Principles. Purity, Quiescence, Peacefulness, Unity.** |
 
-a natural way,<span id="fr_9"></span>[9](tgln1.htm#1_note_9) i.e. Wu
+a natural way,<span id="fr_9"></span>[9](tgln1.htm#1_note_9.md) i.e. Wu
 Wei. The fluxes of creation need not be examined into: get the vital Tao
 and the fluxes will be understood. Take an illustration from a mirror or
 from water. When these receive the form of an object, they mirror it
@@ -253,7 +253,7 @@ faithfully without any accretions; so the lineaments are exactly
 reflected. The echo is only partly true to the sound: the shadow is not
 different from the substance. The sound mysteriously reaches its own
 sound-like form. Man is quiescent<span
-id="fr_10"></span>[10](tgln1.htm#1_note_10) by nature; but desire moves
+id="fr_10"></span>[10](tgln1.htm#1_note_10.md) by nature; but desire moves
 in response to outward influences which are the outward expression of
 things. The spirit responds to the impact of matter, giving rise to
 mental perception. The response of inward perception to the impact of
@@ -261,13 +261,13 @@ outward things begets love and hate. When love and hate have taken form,
 perception is seduced from the right way by outward suggestion: it is
 unable to go back on itself; and reason or right is destroyed. Therefore
 those who are permeated or possessed of the Tao do not barter away the
-Divine for the human.<span id="fr_11"></span>[11](tgln1.htm#1_note_11)
+Divine for the human.<span id="fr_11"></span>[11](tgln1.htm#1_note_11.md)
 Subject as they are to outward changes, they do not lose the inward
 purity of nature; i.e. the impact of the world does not create
 concupiscence. This nature is purely spiritual and ready to respond to
 every demand of nature. The Seasons run their course; the ever-changing
 times circulate, yet without confusing the basal unity.<span
-id="fr_12"></span>[12](tgln1.htm#1_note_12) The small and great, the
+id="fr_12"></span>[12](tgln1.htm#1_note_12.md) The small and great, the
 long and short, are each in their appointed realms. Creation, in all its
 mighty leaps and restless movements, proceeds without any dislocation:
 <span id="page_7">p. 7</span> everything is in its proper place.
@@ -284,16 +284,16 @@ and bait, who plies his skill with the
 |------------------------------------------------------------|
 | **Great Principles are superior to temporary expedients.** |
 
-expertness of Tan Ho<span id="fr_13"></span>[13](tgln1.htm#1_note_13)
-and Yuan Huan<span id="fr_14"></span>[14](tgln1.htm#1_note_14) for a
+expertness of Tan Ho<span id="fr_13"></span>[13](tgln1.htm#1_note_13.md)
+and Yuan Huan<span id="fr_14"></span>[14](tgln1.htm#1_note_14.md) for a
 whole day, nevertheless cannot hope to compete with the catch of the net
 in magnitude. An archer who can draw the Wu Nao<span
-id="fr_15"></span>[15](tgln1.htm#1_note_15) of a Seng Meng Tzu<span
-id="fr_16"></span>[16](tgln1.htm#1_note_16) in shooting the bird on the
+id="fr_15"></span>[15](tgln1.htm#1_note_15.md) of a Seng Meng Tzu<span
+id="fr_16"></span>[16](tgln1.htm#1_note_16.md) in shooting the bird on the
 wing nevertheless, cannot compete with the use of a net in the greatness
 of the bag. And the reason is the smaller size of the instrument. Thus
 in ruling men, the great law is better than a multitude of minor
-regulations.<span id="fr_17"></span>[17](tgln1.htm#1_note_17) A dart is
+regulations.<span id="fr_17"></span>[17](tgln1.htm#1_note_17.md) A dart is
 inferior to a *cho*, a battering ram, and a *cho* is inferior to
 something still greater, that is to a great principle of action. The
 comparison between the exercise of a great principle and the use of
@@ -315,7 +315,7 @@ wealth accumulated, burnt the implements of war and administered the
 empire on the principles of virtue, not of force. As a result, the
 distant people brought their tributes and the barbarian tribes their
 offerings. The concord sealed at the conclave of the Lords, at T‛u
-Shan,<span id="fr_18"></span>[18](tgln1.htm#1_note_18) resulted in
+Shan,<span id="fr_18"></span>[18](tgln1.htm#1_note_18.md) resulted in
 valuable tributes from myriad kingdoms. <span id="page_8">p. 8</span>
 From this we see that when a scheming mind is cherished, the sincerity
 of purpose is not perfect nor the spiritual energies complete;
@@ -326,7 +326,7 @@ implies war chariots, and a coat of mail leads others to sharpen their
 swords. If boiling water is added to boiling water, it will but make it
 more violent. Likewise to beat a vicious dog or whip a kicking horse, in
 order to correct it, would not succeed even though Yin I or Tsao Fu<span
-id="fr_19"></span>[19](tgln1.htm#1_note_19) were to do it. When the
+id="fr_19"></span>[19](tgln1.htm#1_note_19.md) were to do it. When the
 vicious disposition has been quelled within, the tail of a hungry tiger
 can be played with: how much more so such creatures as the dog or the
 horse!
@@ -343,15 +343,15 @@ hand, labours away without success. Violent measures and rigorous
 punishments are not instruments for either a tyrant or a king. Blows and
 flagellations constantly rained on subjects, are not the way to make
 dogs and horses travel far. The excellent vision of Li Chu<span
-id="fr_20"></span>[20](tgln1.htm#1_note_20) could see the point of a
+id="fr_20"></span>[20](tgln1.htm#1_note_20.md) could see the point of a
 needle from the distance of more than a hundred paces; yet he could not
 discern the fish in a pool. The intelligence of Shih Kuang<span
-id="fr_21"></span>[21](tgln1.htm#1_note_21) could distinguish the winds
+id="fr_21"></span>[21](tgln1.htm#1_note_21.md) could distinguish the winds
 from the eight quarters and harmonize the five notes of the eight
 scales; but his fine sense of hearing could not discern anything more
 than ten *li* off. Hence one man's strength, however much, is not enough
 to regulate even a small domain.<span
-id="fr_22"></span>[22](tgln1.htm#1_note_22) But the man who conforms to
+id="fr_22"></span>[22](tgln1.htm#1_note_22.md) But the man who conforms to
 the art of the Tao, in accordance with the natural way of Heaven and
 Earth, would find it easy to manage the whole world. Thus it was that Yü
 was able to engineer the canals by following the nature of water and
@@ -389,7 +389,7 @@ its own produce, and in order to obtain what is necessary for itself:
 convenient goods and commodities meet the requirements of each place.
 From these evidences we see that creation is strong in its
 *naturalness*. What need then for government by the sage?<span
-id="fr_23"></span>[23](tgln1.htm#1_note_23) There is no <span
+id="fr_23"></span>[23](tgln1.htm#1_note_23.md) There is no <span
 id="page_10">p. 10</span> need for him to *act*. Naturalness is enough.
 
    South of the Chiu I, dry-land industry is scarce and the water-way
@@ -404,7 +404,7 @@ men never to let go the bow from their hands nor to unsaddle their
 horses. Such is their habit. Hence Yü disrobed when he entered the
 Nudity (Lo) kingdom, and wore his robes again when he emerged from its
 border; this he did because he did not wish to interfere with
-custom.<span id="fr_24"></span>[24](tgln1.htm#1_note_24)
+custom.<span id="fr_24"></span>[24](tgln1.htm#1_note_24.md)
 
    Now if people, in transplanting trees, should digregard the fit time
 for doing so, all would wither and decay. On these grounds an orange
@@ -414,9 +414,9 @@ Ho, badger (?) crosses the Wen river, it dies. Its nature does not
 permit this transmigration. Its habitat cannot be changed. Everything
 linked to the Tao rests in undisturbed repose. They who are in line with
 the nature of things ultimately rest in *wu wei*.<span
-id="fr_25"></span>[25](tgln1.htm#1_note_25) Such nourish their life on
+id="fr_25"></span>[25](tgln1.htm#1_note_25.md) Such nourish their life on
 quietism: they rest their spirit in passiveness. By so doing they enter
-the gate of Heaven.<span id="fr_26"></span>[26](tgln1.htm#1_note_26)
+the gate of Heaven.<span id="fr_26"></span>[26](tgln1.htm#1_note_26.md)
 
    What is meant by "Heaven" is purity, clarity, directness, grounded on
 reality, luminosity. Such is nature, as endowed by Heaven, when, as yet,
@@ -441,7 +441,7 @@ planning, affairs find their correct issues: without a multitude of
 words, faith is achieved, credence is found: without anxiety, life is
 attained; and without effort, success is won. He whose spirit is
 identified with the cosmic soul<span
-id="fr_27"></span>[27](tgln1.htm#1_note_27) is partner of the Creator in
+id="fr_27"></span>[27](tgln1.htm#1_note_27.md) is partner of the Creator in
 governing men.
 
    A good swimmer may sink; a good horseman may have a fall. That in
@@ -455,11 +455,11 @@ occasion of injury. Hence it is not impossible for the smart man of
 affairs not to hit the mark. The polemical person may meet with
 embarrassment, and the man who strives for gain may not get all he is
 after. The might of the ancient (engineer) Kung Kung<span
-id="fr_28"></span>[28](tgln1.htm#1_note_28) struck at the Pu Chou
+id="fr_28"></span>[28](tgln1.htm#1_note_28.md) struck at the Pu Chou
 mountain and crumpled down the South Eastern corner of the Earth; yet in
 contending with Kao Hsin for the throne, he was overwhelmed in defeat,
 involving ruin to his clan and failure of succession to his family (for
-ancestral worship). I,<span id="fr_29"></span>[29](tgln1.htm#1_note_29)
+ancestral worship). I,<span id="fr_29"></span>[29](tgln1.htm#1_note_29.md)
 the king of Kuangtung, fled to the hills and dwelt in caves to escape
 being king; but the people smoked him out of his cave and he failed to
 consummate his own desire for retirement.
@@ -467,11 +467,11 @@ consummate his own desire for retirement.
    From these examples it is evident that success depends on opportunity
 (times) rather than on strength, (for preeminence), government (or
 action) should rest on the <span id="page_12">p. 12</span> Tao rather
-than on the Sage.<span id="fr_30"></span>[30](tgln1.htm#1_note_30) The
+than on the Sage.<span id="fr_30"></span>[30](tgln1.htm#1_note_30.md) The
 ground is placed low and not high, hence it ever abides in peace, free
 from the dangers of a giddy height. Water flows down, the currents do
 not compete for precedence. So it flows swift, uninterrupted,
-undelayed.<span id="fr_31"></span>[31](tgln1.htm#1_note_31)
+undelayed.<span id="fr_31"></span>[31](tgln1.htm#1_note_31.md)
 
    In ancient time, Shun, for a whole year, tilled the land at Li Shan,
 and as a result of his example, the tillers of
@@ -513,7 +513,7 @@ authority is excercised; yet there is nothing which is uncontrolled.
 <span id="page_13">p. 13</span>
 
    The meaning of *Wu wei*,<span
-id="fr_32"></span>[{32}](tgln1.htm#1_note_32) is that there is no going
+id="fr_32"></span>[{32}](tgln1.htm#1_note_32.md) is that there is no going
 in advance of things. The meaning of "*wu pu wei*" "there
 
 |             |
@@ -521,7 +521,7 @@ in advance of things. The meaning of "*wu pu wei*" "there
 | **Wu Wei.** |
 
 is nothing undone" is that, in following the cosmic spirit<span
-id="fr_33"></span>[33](tgln1.htm#1_note_33) everything is done. The
+id="fr_33"></span>[33](tgln1.htm#1_note_33.md) everything is done. The
 meaning of "*wu chih chô*," ("not governing") is that there is no
 interference with naturalness. And the phrase "there is nothing that is
 not governed", means that the end is attained in correspondence with the
@@ -529,7 +529,7 @@ mutual fitness of things.
 
    There is a raison d'être in the springing to birth of all creation;
 and each thing knows how to guard its root.<span
-id="fr_33a"></span>[33a](tgln1.htm#1_note_33a) There is a raison d'être
+id="fr_33a"></span>[33a](tgln1.htm#1_note_33a.md) There is a raison d'être
 in the appearance of hundreds of affairs: attention is only given to the
 intrusion of what enters. Hence the exhaustless is probed, the limitless
 is reached, and matter is illumined without confusion. There is mutual
@@ -550,7 +550,7 @@ inability to do. Placidly free from anxiety, one acts without missing
 the opportune time; one moves and revolves in the line of creation, One
 does not move ahead but responds to the fitting influence. Hence the
 exalted and those placed in high station will inevitably adopt the
-symbol of unworthiness,<span id="fr_35"></span>[35](tgln1.htm#1_note_35)
+symbol of unworthiness,<span id="fr_35"></span>[35](tgln1.htm#1_note_35.md)
 even as a high tower must depend on its lowly base for foundation.
 Depending on the small, one comprehends the large; from a circumscribed
 central seat (small space) one regulates the outside domains: or the
@@ -558,9 +558,9 @@ senses are controlled from within. Exercising a yielding spirit one is
 firm: through tenderness one can be strong, and by these evolutionary
 movements, in accordance with <span id="page_14">p. 14</span> the number
 of things, one attains the doctrine of unity or the one.<span
-id="fr_36"></span>[36](tgln1.htm#1_note_36) One is able, through this
+id="fr_36"></span>[36](tgln1.htm#1_note_36.md) One is able, through this
 Unity, to adjust the interests of all.<span
-id="fr_37"></span>[37](tgln1.htm#1_note_37)
+id="fr_37"></span>[37](tgln1.htm#1_note_37.md)
 
    Let us now discuss what is meant by the statement; "His acts are
 strong or forceful." During times of change, one is equal to any sudden
@@ -587,17 +587,17 @@ will be extinguished. The strength of the tree bends to the wind and is
 sawn for timber. The strong skin (of a drum) will crack. Teeth are
 stronger than the tongue; but they decay sooner. Hence yieldingness and
 non-resistance or tenderness are the mainstay<span
-id="fr_38"></span>[38](tgln1.htm#1_note_38) of life; but the firm and
+id="fr_38"></span>[38](tgln1.htm#1_note_38.md) of life; but the firm and
 hard are the lackeys of death.
 
-   Pioneers<span id="fr_39"></span>[39](tgln1.htm#1_note_39) come to the
+   Pioneers<span id="fr_39"></span>[39](tgln1.htm#1_note_39.md) come to the
 end of their tether and die out early. Those who follow, clutching to
 their skirts, reach the goal. How can it be known that it is so? All who
 attain the good age of seventy, nevertheless have gained from the past
 as regarding their actions and feel dissatisfied with most of their
 work, as they look back on their mistakes. It is so even until they are
 dead. Hence men like Ch‛ü Pei Yü<span
-id="fr_40"></span>[40](tgln1.htm#1_note_40) felt that 49 years out of
+id="fr_40"></span>[40](tgln1.htm#1_note_40.md) felt that 49 years out of
 the fifty had been ineffectual, the reason being that the pioneer has
 <span id="page_15">p. 15</span> the disadvantage of inexperience;
 whereas his successor finds it so much easier to achieve the purpose.
@@ -623,27 +623,27 @@ motion. But what these do is to pay attention to the harmonizing of
 every plan and act in concert with occasion and take account of times
 and seasons. By the power of the Tao one meets the need of every change,
 using the beginning to govern the end, and the end to govern the
-beginning.<span id="fr_41"></span>[41](tgln1.htm#1_note_41) His
+beginning.<span id="fr_41"></span>[41](tgln1.htm#1_note_41.md) His
 principle is that he does not lose that whereby men are governed i.e.
 *tao*, for this reason that acting through the *tao* others cannot
 control him. A critical business<span
-id="fr_42"></span>[42](tgln1.htm#1_note_42) does not permit of
+id="fr_42"></span>[42](tgln1.htm#1_note_42.md) does not permit of
 miscalculation: too early an act may miss fire; too late an act may fail
 to hit the occasion. Time is ever on the flux and waits for no man, and
-so the Sage<span id="fr_43"></span>[43](tgln1.htm#1_note_43) does not
+so the Sage<span id="fr_43"></span>[43](tgln1.htm#1_note_43.md) does not
 value a foot of jade, but rather an inch of time. Time is that which it
 is difficult to get and easy to lose. Yü<span
-id="fr_44"></span>[44](tgln1.htm#1_note_44) took time by the forelock
+id="fr_44"></span>[44](tgln1.htm#1_note_44.md) took time by the forelock
 and never went back for a lost shoe, nor would he delay business by
 getting a hat from the peg. Not that he strove for first place with
 another, <span id="page_16">p. 16</span> but that he strove to catch
-every opportunity.<span id="fr_45"></span>[45](tgln1.htm#1_note_45)
-Hence the Sage<span id="fr_46"></span>[46](tgln1.htm#1_note_46) guarded
+every opportunity.<span id="fr_45"></span>[45](tgln1.htm#1_note_45.md)
+Hence the Sage<span id="fr_46"></span>[46](tgln1.htm#1_note_46.md) guarded
 a freedom from passions, and preserved yielding complaisance.
 
    Acquiescent, men meet every crisis, always following and not leading.
 By yieldingness and tenderness they gain repose;<span
-id="fr_47"></span>[47](tgln1.htm#1_note_47) by equanimity and peace they
+id="fr_47"></span>[47](tgln1.htm#1_note_47.md) by equanimity and peace they
 find stability. Great in achievement, they wear down every difficulty,
 and no one can compete with them.
 
@@ -654,7 +654,7 @@ greatness cannot be measured, nor its depths
 |-----------------------------------------------------|
 | **Greatness of yieldingness illustrated by water.** |
 
-sounded. Its distance<span id="fr_48"></span>[48](tgln1.htm#1_note_48)
+sounded. Its distance<span id="fr_48"></span>[48](tgln1.htm#1_note_48.md)
 is endless; its vast expanse is without horizon. Its rise and fall, its
 ebb and flow are immeasurable. Up in the skies it becomes the rain and
 dew; down below it forms the fattening moisture, so that the whole
@@ -675,7 +675,7 @@ Moving full and free in the immaterial regions, wheeling and revolving
 on high, as clouds, it returns again, falling into the rivers and
 valleys and courses in bounding floods over the wide plains! All
 creation, without partiality, receives its beneficent bounty.<span
-id="fr_49"></span>[49](tgln1.htm#1_note_49) Whether enough and to spare,
+id="fr_49"></span>[49](tgln1.htm#1_note_49.md) Whether enough and to spare,
 or given sparsely, it comes from and returns to Heaven and Earth, <span
 id="page_17">p. 17</span> and is bestowed on creation without favouring
 one or the other. It is copious on every hand. Its heaving movements are
@@ -691,7 +691,7 @@ know therefore," he said, "that Wu wei is most advantageous." Now the
 immaterial, the formless, is the great ancestor of wu, matter: the
 soundless, i.e. that which makes no sound, is the great founder of
 sound. Their son is light; their grandson is water.<span
-id="fr_50"></span>[50](tgln1.htm#1_note_50) All these are begotten of
+id="fr_50"></span>[50](tgln1.htm#1_note_50.md) All these are begotten of
 the formless or immaterial.
 
    Light, indeed, can be seen but not grasped; water can be handled but
@@ -700,16 +700,16 @@ or is more honourable than water. In coming into life it enters into
 death i.e. into the shades of the carnal world: from non-existence, it
 treads the way of existence, i.e. in having form, it departs from its
 original: from existence it passes into non-existence, thus becoming a
-ruin.<span id="fr_51"></span>[51](tgln1.htm#1_note_51) Hence this hidden
+ruin.<span id="fr_51"></span>[51](tgln1.htm#1_note_51.md) Hence this hidden
 purity, spiritual repose, is the supreme power (te chih chih yeh).<span
-id="fr_52"></span>[52](tgln1.htm#1_note_52) And yieldingness and
+id="fr_52"></span>[52](tgln1.htm#1_note_52.md) And yieldingness and
 tenderness are essentials of the Tao: The immaterial<span
-id="fr_53"></span>[53](tgln1.htm#1_note_53) in happy repose gives rise
+id="fr_53"></span>[53](tgln1.htm#1_note_53.md) in happy repose gives rise
 to all things for the use of man. Reverently responding to influences,
 it instantly reverts to its own root and then becomes merged in the
-formless.<span id="fr_54"></span>[54](tgln1.htm#1_note_54) What is
+formless.<span id="fr_54"></span>[54](tgln1.htm#1_note_54.md) What is
 expressed by "formless" is Unity. What is termed the Unity<span
-id="fr_55"></span>[55](tgln1.htm#1_note_55)
+id="fr_55"></span>[55](tgln1.htm#1_note_55.md)
 
 |                   |
 |-------------------|
@@ -717,49 +717,49 @@ id="fr_55"></span>[55](tgln1.htm#1_note_55)
 
 means something without compeer in the universe. Uniquely it stands
 alone. Being-like it is placed alone.<span
-id="fr_56"></span>[56](tgln1.htm#1_note_56) Above, it fills the
-heavens,<span id="fr_57"></span>[57](tgln1.htm#1_note_57) below it
+id="fr_56"></span>[56](tgln1.htm#1_note_56.md) Above, it fills the
+heavens,<span id="fr_57"></span>[57](tgln1.htm#1_note_57.md) below it
 interpenetrates or connects together <span id="page_18">p. 18</span> the
 nine Points, the vastnesses, of the world.<span
-id="fr_57"></span>[57](tgln1.htm#1_note_57) No circle can compass, no
-square can fit it.<span id="fr_58"></span>[58](tgln1.htm#1_note_58) It
+id="fr_57"></span>[57](tgln1.htm#1_note_57.md) No circle can compass, no
+square can fit it.<span id="fr_58"></span>[58](tgln1.htm#1_note_58.md) It
 is the Great Absolute and forms the Unity.<span
-id="fr_56"></span>[56](tgln1.htm#1_note_56) This unity is the life of
+id="fr_56"></span>[56](tgln1.htm#1_note_56.md) This unity is the life of
 myriad generations, everlasting without beginning, and most mysterious.
 It embraces (enfolds) the Universe and opens the portal of the Tao<span
-id="fr_59"></span>[59](tgln1.htm#1_note_59) (and is the Tao in
+id="fr_59"></span>[59](tgln1.htm#1_note_59.md) (and is the Tao in
 operation). Profound and abstruse, invisible, unalloyed, it alone abides
 in pure virtue. It ever gives, but is never exhausted: it labours
 without effort. So, in looking for it, you behold not its form:
 listening for it, you hear not its sound: feeling for it, you get at no
 body. The formless (tao) begets the living form. The soundless
 (wu-sheng) begets the five tones.<span
-id="fr_60"></span>[60](tgln1.htm#1_note_60) The non-flavour harmonizes,
+id="fr_60"></span>[60](tgln1.htm#1_note_60.md) The non-flavour harmonizes,
 or gives substance to, the five flavours: the non-colour creates the
 five colours. Therefore all that is seen comes from that which is not
 seen (wu). The material springs from the immaterial. The Universe is its
 sphere. The nominal and the real exist together. The tones are limited
 to five: but the variations and combinations of the five tones are more
 than can be distinguished by the ear. The composition of flavours<span
-id="fr_61"></span>[61](tgln1.htm#1_note_61) is only five; but the
+id="fr_61"></span>[61](tgln1.htm#1_note_61.md) is only five; but the
 combinations that can be made of them are more than can be tasted. The
 colours are not more than five; but their transformations are more than
 eye can apprehend. Hence in the matter of tones, when Kung, the key, is
 set, the five tones are harmonized. In the matter of taste, with sweet
 as base, the five tastes are completed. As regards colour, with white as
 the ground, the five colours are blended. As to the Tao, when the
-Unity<span id="fr_62"></span>[62](tgln1.htm#1_note_62) is established,
+Unity<span id="fr_62"></span>[62](tgln1.htm#1_note_62.md) is established,
 creation comes to birth. Therefore the doctrine of the Unity covers the
-deep<span id="fr_62"></span>[62](tgln1.htm#1_note_62) the pervasion of
+deep<span id="fr_62"></span>[62](tgln1.htm#1_note_62.md) the pervasion of
 the Unity forms the mechanism of the world. How pure in its entirety,
 similar to the unadorned jade!<span
-id="fr_63"></span>[63](tgln1.htm#1_note_63) When scattered, how turbid!
+id="fr_63"></span>[63](tgln1.htm#1_note_63.md) When scattered, how turbid!
 It is opaque, but gradually becomes clear, ethereal, yet gradually it
 becomes substantial. How stable! still as a deep pool. How buoyant! It
 is like a floating cloud! It is as though it were not, and yet is: as
 though lost, yet abiding. Creation massed together <span id="page_19">p.
 19</span> passes through the one portal:<span
-id="fr_64"></span>[64](tgln1.htm#1_note_64) the root of all things
+id="fr_64"></span>[64](tgln1.htm#1_note_64.md) the root of all things
 emerges through one gate (the tao). Its movements have no form: its
 transformations are God-like; its actions leave no vestiges, constantly
 behind and yet moving in advance. Therefore the *tao-man* in governing
@@ -774,13 +774,13 @@ other hand, who depends on the seeing of the eye, the hearing of the
 ear, going by what he hears and sees, is full of care, yet without clear
 vision. He who governs by knowledge and anxious thought, is full of
 labour, yet without definite results. Therefore the Sage-King uniformly
-follows law,<span id="fr_65"></span>[65](tgln1.htm#1_note_65) he does
+follows law,<span id="fr_65"></span>[65](tgln1.htm#1_note_65.md) he does
 not change the ought nor alter the constant of things. He follows the
 square; he is guided by the plumb line; he conforms to the varying order
 of things.
 
    Now the movements of pleasure and anger are a corruption of the
-Tao;<span id="fr_66"></span>[66](tgln1.htm#1_note_66) trouble and grief
+Tao;<span id="fr_66"></span>[66](tgln1.htm#1_note_66.md) trouble and grief
 are abortions
 
 |                                                   |
@@ -801,9 +801,9 @@ gives perfection of *hsü*, purity. When there <span id="page_20">p.
 perfection of equanimity. When the mind is not distracted by things,
 there is the perfection of simplicity (or intrinsic truth). Ability to
 possess these five attributes ensures true fellowship and communion with
-God.<span id="fr_67"></span>[67](tgln1.htm#1_note_67) Fellowship with
+God.<span id="fr_67"></span>[67](tgln1.htm#1_note_67.md) Fellowship with
 God gives possession of the inner self.<span
-id="fr_68"></span>[68](tgln1.htm#1_note_68) Hence he who controls the
+id="fr_68"></span>[68](tgln1.htm#1_note_68.md) Hence he who controls the
 extraneous, i.e. carnal desires, by this inner self will fail in
 nothing. The mind having found itself, there will be full control of the
 senses. Possessing the self the five inward parts will be maintained in
@@ -822,13 +822,13 @@ one will not be unhappy in a lowly position: nor will he eschew great
 duties. His soul is not impetuous, his spirit is not unstable
 (perturbed). Profound and undefiled, serene and reposeful, he is the
 autocrat of the universe.<span
-id="fr_69"></span>[69](tgln1.htm#1_note_69)
+id="fr_69"></span>[69](tgln1.htm#1_note_69.md)
 
    The Great Way (Tao) is broad and level, not far from the person. The
 seeker finds it in himself: going out for it, again and again, he
-returns within for it.<span id="fr_70"></span>[70](tgln1.htm#1_note_70)
+returns within for it.<span id="fr_70"></span>[70](tgln1.htm#1_note_70.md)
 Pressure on it will move it; touching it or feeling after it will bring
-a response.<span id="fr_71"></span>[71](tgln1.htm#1_note_71) Its
+a response.<span id="fr_71"></span>[71](tgln1.htm#1_note_71.md) Its
 mutations are without substantial form and its visitations are generous
 and free; everything is done with deliberation and serenity; to every
 matter a suitable solution is found, as fittingly as an echo answering
@@ -840,15 +840,15 @@ abides in this frame will lack not in virtue; he disposes successfully
 of the myriad affairs of every complexity that <span id="page_21">p.
 21</span> crowd before him. In attending to the affairs of empire, he is
 expeditious, like (a boat) sailing with the wind.<span
-id="fr_72"></span>[72](tgln1.htm#1_note_72) This is the meaning of
-Supreme ability,<span id="fr_73"></span>[73](tgln1.htm#1_note_73) and
+id="fr_72"></span>[72](tgln1.htm#1_note_72.md) This is the meaning of
+Supreme ability,<span id="fr_73"></span>[73](tgln1.htm#1_note_73.md) and
 with this supreme ability comes joy.
 
    There were men of old who lived in hermit caves without losing their
 high spirit. In later times there have been those exercising great
 power, but they had daily anxieties and were not free from sorrow.<span
-id="fr_74"></span>[74](tgln1.htm#1_note_74) We may gather from this that
-the princely state<span id="fr_75"></span>[75](tgln1.htm#1_note_75) does
+id="fr_74"></span>[74](tgln1.htm#1_note_74.md) We may gather from this that
+the princely state<span id="fr_75"></span>[75](tgln1.htm#1_note_75.md) does
 not lie in actual ruling so much as in getting the Tao: Joy does not lie
 in riches and honours, but consists in the possession of virtue and
 harmony. Knowing the greatness of the higher self, paying little value
@@ -856,12 +856,12 @@ to possession of empire, is indeed to be near the Tao.
 
    What is termed as joy? How can it be necessary to be placed in
 palaces and towers, to serenade on lakes and in gardens,<span
-id="fr_76"></span>[76](tgln1.htm#1_note_76) to hear the Chiu Shao and
-Liu Ying<span id="fr_77"></span>[77](tgln1.htm#1_note_77) orchestras, to
+id="fr_76"></span>[76](tgln1.htm#1_note_76.md) to hear the Chiu Shao and
+Liu Ying<span id="fr_77"></span>[77](tgln1.htm#1_note_77.md) orchestras, to
 dine on seasoned meats, to gallop in broad avenues or shoot the
 turquoise kingfisher, in order to find it? Can these be said to compose
 joy? The joy I speak of is the finding of the true self.<span
-id="fr_78"></span>[78](tgln1.htm#1_note_78) The possessor of this true
+id="fr_78"></span>[78](tgln1.htm#1_note_78.md) The possessor of this true
 life will not regard ostentatious expenditure as joy, nor will the
 simple life be looked on with regret. He will accept a lot lowly or
 bright,—just as the flower shuts and opens in response to the season.
@@ -894,8 +894,8 @@ cave he finds enough to satisfy his nature. But the man who has not
 found his true self, though he possess the empire for home, and the
 myriad people for ministers and concubines, will not, on that account,
 find the satisfaction of life.<span
-id="fr_79"></span>[79](tgln1.htm#1_note_79) He who reaches the state of
-spiritual joy<span id="fr_80"></span>[80](tgln1.htm#1_note_80) will find
+id="fr_79"></span>[79](tgln1.htm#1_note_79.md) He who reaches the state of
+spiritual joy<span id="fr_80"></span>[80](tgln1.htm#1_note_80.md) will find
 everything minister joy to his person. And he who enjoys this joy has
 tasted the supremest joy.
 
@@ -934,7 +934,7 @@ substance of joy and thus continued to injure
 
 one's life daily? The cause is found in this that one has lost that, the
 doing of which would give the possession of virtue to the mind.<span
-id="fr_81"></span>[81](tgln1.htm#1_note_81) Hence the mind within, not
+id="fr_81"></span>[81](tgln1.htm#1_note_81.md) Hence the mind within, not
 being at the centre (tao), one decorates oneself with those things which
 come from without. These are artificial and do not enter into the marrow
 and bone of life: they do not abide in the will nor remain in one's
@@ -955,7 +955,7 @@ the enjoyment. The sound issues from his mouth and passes away without
 his hearing it.
 
    Now the heart is the govenor of life.<span
-id="fr_82"></span>[82](tgln1.htm#1_note_82) It, therefore, controls all
+id="fr_82"></span>[82](tgln1.htm#1_note_82.md) It, therefore, controls all
 the members and the circulation of the fluids of sensation, referring
 everying, forthwith, to the moral <span id="page_24">p. 24</span>
 
@@ -975,19 +975,19 @@ grasps power would lose it. In elucidation, the case of Hsü Yu might be
 given, who thought little of the pomp of empire and would not change
 places with Yao. His mind was not set on place and power. How may we
 account for such a view of life? Because of empire and for empire.<span
-id="fr_83"></span>[83](tgln1.htm#1_note_83) The essentials of empire are
+id="fr_83"></span>[83](tgln1.htm#1_note_83.md) The essentials of empire are
 not in pomp but in the individual, not in men but in myself: not in Yao
 the monarch, but in Hsü Yu the individual representative: not in others,
-but in each individual.<span id="fr_84"></span>[84](tgln1.htm#1_note_84)
+but in each individual.<span id="fr_84"></span>[84](tgln1.htm#1_note_84.md)
 To centre all in one is an artificial way. The natural way lies in each
 following the law of nature. When the individual has got the Tao he
 possesses everything. Thus clear on the principles of the mind, it will
 be found that carnal desires, love and hate, are extraneous things, and
 do not pertain to the mind.<span
-id="fr_85"></span>[85](tgln1.htm#1_note_85) Hence there is no ground for
+id="fr_85"></span>[85](tgln1.htm#1_note_85.md) Hence there is no ground for
 pleasure, for joy, for pain. The whole creation is in identity with
 Heaven. There is no right or wrong.<span
-id="fr_85a"></span>[85a](tgln1.htm#1_note_85a) Everything is as it
+id="fr_85a"></span>[85a](tgln1.htm#1_note_85a.md) Everything is as it
 should be. All flux is under the light of Heaven: life is as death.
 
    Further the empire is possessed by the individual and the individual
@@ -1003,7 +1003,7 @@ exist together without a break. How can it be that there is any
 alienation and that the empire cannot use me? The meaning of "finding
 self" is that life is perfected—or the culture of the person is perfect.
 When this is done, there is identity with the Tao.<span
-id="fr_86"></span>[86](tgln1.htm#1_note_86)
+id="fr_86"></span>[86](tgln1.htm#1_note_86.md)
 
    Now if a person were able to enjoy himself by promenading on
 riverbanks and by the sea shore (i.e. the
@@ -1040,7 +1040,7 @@ situation, would not feel sad, downcast, envious or misanthropic, nor
 would he, for the world, lose the grounds of his own inward joy by such
 hardship. And the reason? Because within he is in touch with the
 spiritual realm: he does not lose his will to virtue because of a high
-or lowly station,<span id="fr_87"></span>[87](tgln1.htm#1_note_87) of
+or lowly station,<span id="fr_87"></span>[87](tgln1.htm#1_note_87.md) of
 wealth or poverty, of ease or labour of body. Just like the crow's "ya
 ya," and the
 
@@ -1060,7 +1060,7 @@ completed, then the affections, such as love and hatred, are begotten (a
 point of danger). Thus scholars have fixed principle of morality in
 intercourse: and women have an unchanging rule of action as to marrying
 again. These can never be changed.<span
-id="fr_88"></span>[88](tgln1.htm#1_note_88) The eternity of Heaven and
+id="fr_88"></span>[88](tgln1.htm#1_note_88.md) The eternity of Heaven and
 earth, the height of Chiu mountain is not changed by one ascending a
 high hill or descending into a depth; nor is a low location counted
 near. Therefore, the man who has the Tao is not perturbed by poverty nor
@@ -1069,7 +1069,7 @@ feeling of danger; though holding a full cup, it will not be upset. He
 is not polished at one time and rough at another time: he does not
 change colour with time, he is not burnished when new and tarnished when
 old. He can undergo trial<span
-id="fr_89"></span>[89](tgln1.htm#1_note_89) without wear <span
+id="fr_89"></span>[89](tgln1.htm#1_note_89.md) without wear <span
 id="page_27">p. 27</span>
 
 |                                   |
@@ -1087,7 +1087,7 @@ high position as peace nor a low position as danger. Body, soul, spirit
 and will are each in the Heaven-appointed place.
 
    Now the body is life's tenement, the breath (passion nature)<span
-id="fr_90"></span>[90](tgln1.htm#1_note_90) is life's fulness: the soul
+id="fr_90"></span>[90](tgln1.htm#1_note_90.md) is life's fulness: the soul
 is life's regulator. The three suffer by the aberration of anyone from
 its function. The Sage-King gives to each man his proper office where
 each will do his own work without interference of one with the other.
@@ -1111,7 +1111,7 @@ distinguish white and black, to appreciate the ugly and beautiful: what
 is that knowledge by which he differentiates similarities and
 dissimilarities <span id="page_28">p. 28</span> and which enlighten him
 in right and wrong? It is a fulness of spirit (ch‛i),<span
-id="fr_90"></span>[90](tgln1.htm#1_note_90) the passion-nature that
+id="fr_90"></span>[90](tgln1.htm#1_note_90.md) the passion-nature that
 supplies the person with capacity; and the soul gives it direction. How
 may it be known that such is so? Men who have their wills bent on some
 object and their minds concentrated solely on that, become oblivious to
@@ -1123,7 +1123,7 @@ which it holds, i.e., the body. And so when it is centred on the
 particular; it is dead to the general: centred in the inner, it is dead
 to the outer: centred on the high, it is dead to the low: centred on the
 right, it is dead to the left.<span
-id="fr_91"></span>[91](tgln1.htm#1_note_91) When the soul is
+id="fr_91"></span>[91](tgln1.htm#1_note_91.md) When the soul is
 all-pervading, then it is omnipresent. Therefore, the tao-man prizes the
 pure spirit uncontaminated by desire, and his thoughts dwell in the
 spiritual.
@@ -1170,7 +1170,7 @@ is nothing he does not answer.
 
 ------------------------------------------------------------------------
 
-[Next](tgl2)
+[Next](tgl2.md)
 
  
 

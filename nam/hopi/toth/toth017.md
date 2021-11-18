@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth016)  [Next](toth018) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth016)  [Next](toth018.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 14. HOW THE CIRCLE (PÓNGO) KATCINA AND HIS WIFE BECAME STARS. <span id="fr_50"></span>[1](#fn_50)
+## 14. HOW THE CIRCLE (PÓNGO) KATCINA AND HIS WIFE BECAME STARS. <span id="fr_50"></span>[1](#fn_50.md)
 
 Halíksai! In Oraíbi the people were living. In the north-western part of
 the village was at that time a kiva called Hâmís-kiva. Somewhat south of
@@ -65,7 +65,7 @@ marry the youth. The mother filled a tray with meal for her, with which
 the mana proceeded to the place named by the Katcina. Here she was met
 by the Katcina after he had made his round through the village. From
 here they proceeded to the place called Kocántûika, a bluff named after
-a certain plant, kocána. <span id="fr_51"></span>[1](#fn_51)
+a certain plant, kocána. <span id="fr_51"></span>[1](#fn_51.md)
 
 When they arrived here they saw a kiva and a light in it. A voice called
 out from the kiva inviting them to come in. They entered
@@ -264,12 +264,12 @@ remaining behind, are these two personages.
 
 ### Footnotes
 
-<span id="fn_50"></span>[65:1](toth017.htm#fr_50) Told by Lománömtiwa
+<span id="fn_50"></span>[65:1](toth017.htm#fr_50.md) Told by Lománömtiwa
 (Oraíbi).
 
-<span id="fn_51"></span>[66:1](toth017.htm#fr_51) Phellopterus
+<span id="fn_51"></span>[66:1](toth017.htm#fr_51.md) Phellopterus
 multinerva.
 
 ------------------------------------------------------------------------
 
-[Next: 15. The Kokóshori Katcina and the Shongópavi Maiden](toth018)
+[Next: 15. The Kokóshori Katcina and the Shongópavi Maiden](toth018.md)

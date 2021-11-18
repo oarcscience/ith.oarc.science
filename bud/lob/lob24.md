@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lob23)  [Next](lob25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lob23)  [Next](lob25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00292BROK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00292BROK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Buddha*, by A. Ferdinand Herold, tr. by Paul C Blum
 \[1922\], at Intangible Textual Heritage
 
@@ -116,4 +116,4 @@ all creatures."
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Buddha Leaves for Benares](lob25)
+[Next: 3. The Buddha Leaves for Benares](lob25.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Zoroastrianism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index)  [Next](toz01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Zoroastrianism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index)  [Next](toz01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Teachings of Zoroaster*, by S.A. Kapadia, \[1905\], at Intangible
 Textual Heritage
 
@@ -62,6 +62,6 @@ BY THE AUTHOR</span>
 
 ------------------------------------------------------------------------
 
-[Next: Contents](toz01)
+[Next: Contents](toz01.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm16)  [Next](pnm18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm16)  [Next](pnm18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -36,12 +36,12 @@ agility of the Air without running over its bounds; the heat of Fire
 without burning, only shining and giving life to all things by its heat.
 Amongst the Stars, also, some are fiery, as Mars and Sol; airy, as
 Jupiter and Venus; watery, as Saturn and Mercury; and earthy, such as
-inhabit the eighth *Orb* <span id="fr_11"></span>[\*](#fn_11) and the
+inhabit the eighth *Orb* <span id="fr_11"></span>[\*](#fn_11.md) and the
 Moon (which, notwithstanding, by many is accounted watery), seeing, as
 if it were Earth, it attracts to itself the celestial waters, with
 which, being imbibed, it doth, by reason of its nearness to us, pour out
 and communicate to us. There are, also, amongst the Signs, <span
-id="fr_12"></span>[†](#fn_12) some fiery, some earthy, some airy, some
+id="fr_12"></span>[†](#fn_12.md) some fiery, some earthy, some airy, some
 watery; the Elements rule them also in the Heavens, distributing to them
 these four threefold considerations of every Element, viz., the
 beginning, middle and end: So Aires possesseth the beginning of fire,
@@ -69,7 +69,7 @@ stability of their essence, which is an earthly virtue, in which is the
 steadfast seat of God; also their mercy and piety is a watery cleansing
 virtue. Hence by the Psalmist they are called Waters, where he, speaking
 of the Heavens, saith, Who rulest the Waters that are higher than the
-Heavens. <span id="fr_13"></span>[\*](#fn_13) Also in them their subtile
+Heavens. <span id="fr_13"></span>[\*](#fn_13.md) Also in them their subtile
 breath is Air, and their love is shining Fire. Hence they are called in
 Scripture the Wings of the Wind; and in another place the Psalmist
 speaks of them, Who makest Angels thy Spirits and thy Ministers a
@@ -96,14 +96,14 @@ in Heavens are virtues, and in inferior bodies gross forms.
 
 ### Footnotes
 
-<span id="fn_11"></span>[59:\*](pnm17.htm#fr_11) A supposedly
+<span id="fn_11"></span>[59:\*](pnm17.htm#fr_11.md) A supposedly
 transparent envelope or azure sphere inclosing the earth and other like
 spheres, within which were carried the planetary bodies.
 
-<span id="fn_12"></span>[59:†](pnm17.htm#fr_12) The twelve "houses" or
+<span id="fn_12"></span>[59:†](pnm17.htm#fr_12.md) The twelve "houses" or
 divisional parts of the Zodiac.
 
-<span id="fn_13"></span>[60:\*](pnm17.htm#fr_13) See Psalm cxlviii., 4:
+<span id="fn_13"></span>[60:\*](pnm17.htm#fr_13.md) See Psalm cxlviii., 4:
 "Waters that be above the Heavens." Gen., i., 6-9, is also noteworthy.
 The Watery Triplicity of the Zodiac may properly be termed as "Waters
 above the Heavens," or Celestial Waters.
@@ -111,4 +111,4 @@ above the Heavens," or Celestial Waters.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. Of the Virtues of Things Natural, Depending
-Immediately upon Elements](pnm18)
+Immediately upon Elements](pnm18.md)

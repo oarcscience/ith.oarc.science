@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](syma33)  [Next](syma35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](syma33)  [Next](syma35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symbolical Masonry*, by H.L. Haywood, \[1923\], at Intangible Textual
 Heritage
 
@@ -299,7 +299,7 @@ Albert Pike expounded with such stately language, especially
 
 in the closing pages of his "Morals and Dogma." In this world of men,
 light and darkness, fatalism and freedom, dogmatism and
-[agnosticism](errata.htm#0), sensuality and asceticism, etc., are ever
+[agnosticism](errata.htm#0.md), sensuality and asceticism, etc., are ever
 in conflict. The true life of man consists in the right adjustment of
 one opposing force to another, so that one does not lapse into either
 extreme, but walks on a level in which the two hold each other in
@@ -309,4 +309,4 @@ hush of the holy place." (See *The Builder*, vol. II, p. 268.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXI. The Ashlars](syma35)
+[Next: Chapter XXXI. The Ashlars](syma35.md)

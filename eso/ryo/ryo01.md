@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo00) 
-[Next](ryo02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo00.md) 
+[Next](ryo02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Raja Yoga*, by Yogi Ramacharaka (William Walker Atkinson), \[1906\], at
 Intangible Textual Heritage
 
@@ -46,4 +46,4 @@ message contained within them, without any prefatory talk.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ryo02)
+[Next: Contents](ryo02.md)

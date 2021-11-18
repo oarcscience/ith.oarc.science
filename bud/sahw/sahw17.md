@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw16)  [Next](sahw18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw16)  [Next](sahw18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -127,7 +127,7 @@ of him who has been "saved by His Grace."
 
 *Hō on* is expressed in many ways. It is not simply a matter of reciting
 the *Nembutsu*. We must consider that all "wholesome practices" <span
-id="fr_99"></span>[\*](#fn_99) form part of the life of the "thankful,"
+id="fr_99"></span>[\*](#fn_99.md) form part of the life of the "thankful,"
 and that the doing of them is a part of the burden of duty laid upon us
 by the Nyorai himself (§ 78). Again, the practice of *hō-on* serves for
 the advancement of religion in others. We shall all remember the passage
@@ -146,12 +146,12 @@ on soil ready prepared, hearts in which the seed of Faith (*in*) has
 been planted, watered, and fertilized. Such hearts are good soil, and
 the words of the believer's thanksgiving, falling like the latter rain,
 act as the final *en*, and bring the Faith to maturity. <span
-id="fr_100"></span>[\*](#fn_100) Or it may fall upon hearts less
+id="fr_100"></span>[\*](#fn_100.md) Or it may fall upon hearts less
 advanced in Faith. Neither so will its effect be lost; for the Faith of
 the Shinshu believer is that no single one of the oft-repeated
 invocations can possibly fail to do some good in the world. "Thus,
 directly and indirectly, the Nembutsu is a true Giving of Thanks, for it
-helps. on the Law of Buddha." <span id="fr_101"></span>[†](#fn_101)
+helps. on the Law of Buddha." <span id="fr_101"></span>[†](#fn_101.md)
 
 But, we may say, it is all very well to construct a *hō-on* out of the
 Nembutsu and other holy rites. How is it, however, possible to treat
@@ -179,7 +179,7 @@ from the charge of captious fault-finding.
 If a man consecrates his whole daily life as a thank-offering for
 Amida's mercies, in what light are we to consider the lies and sharp
 practices which form an inseparable portion of that daily life <span
-id="fr_102"></span>[\*](#fn_102)?
+id="fr_102"></span>[\*](#fn_102.md)?
 
 We are told in reply that lies and sharp practices are not, in
 themselves, "thank-offerings." But when a man is very zealous for the
@@ -211,20 +211,20 @@ removed. There are always some, however, who will not come to the Light,
 
 ### Footnotes
 
-<span id="fn_99"></span>[118:\*](sahw17.htm#fr_99) *kikyō dōsa*.
+<span id="fn_99"></span>[118:\*](sahw17.htm#fr_99.md) *kikyō dōsa*.
 
-<span id="fn_100"></span>[119:\*](sahw17.htm#fr_100) *Shinja no tonaeru
+<span id="fn_100"></span>[119:\*](sahw17.htm#fr_100.md) *Shinja no tonaeru
 Nembutsu wa, to no mishin no mono go kikimashite, nochi innen jukusuru
 toki wa, kore no yorite shin* (\#) *wo emasu. Mi-juku no mono mo mata
 shinjin no en wo musubimasu kara shizen to Nyorai no rishōke-yaku wo
 tasukuru kō* (\#) *ga aru koto ni narimasu*.
 
-<span id="fn_101"></span>[119:†](sahw17.htm#fr_101) *Chokusetsu kansetsu
+<span id="fn_101"></span>[119:†](sahw17.htm#fr_101.md) *Chokusetsu kansetsu
 tomo ni Buddha no mi-nori no kasei wo itashimasu yue hō-on ni narimasu*.
 With the verb *kasei suru*, (\#) it is interesting to compare the
 Pauline expression, "we are fellow-workers with God."
 
-<span id="fn_102"></span>[120:\*](sahw17.htm#fr_102) I quote the whole
+<span id="fn_102"></span>[120:\*](sahw17.htm#fr_102.md) I quote the whole
 of § 81. *Seken no koto wo uso ya kakehiki ga nakereba nurimasenu. Sore
 de mo hō-on ni narimasuka? Uso ya kakehiki ga hō-on ni naru de wa
 arimasenu. Uso ya kakehiki wo majiete seken no koto wo itashi, dose no
@@ -233,4 +233,4 @@ tsutomemasu kara, sore ga mina hō-on to naru no de arimasu*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Sōzoku.](sahw18)
+[Next: Chapter XVI. Sōzoku.](sahw18.md)

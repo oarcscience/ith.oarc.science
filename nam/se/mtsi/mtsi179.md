@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi178)  [Next](mtsi180) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi178)  [Next](mtsi180.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ ran away.
 
 ------------------------------------------------------------------------
 
-[Next: 44. The Man Who Rescued His Wife By Strategy](mtsi180)
+[Next: 44. The Man Who Rescued His Wife By Strategy](mtsi180.md)

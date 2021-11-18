@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog23)  [Next](kog25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog23)  [Next](kog25.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 <span id="img_18400"></span>
 
 [![](tn/18400.jpg)  
-Click to enlarge](img/18400.jpg)
+Click to enlarge](img/18400.jpg.md)
 
  
 
@@ -37,4 +37,4 @@ door was burned. Joe had quite enough of seeing the witches.
 
 ------------------------------------------------------------------------
 
-[Next: 22. The Witch and the Horseshoes](kog25)
+[Next: 22. The Witch and the Horseshoes](kog25.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas0923n)  [Next](jas095n)   
- \[[94. The King's Three Daughters.](jas094)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas0923n)  [Next](jas095n.md)   
+ \[[94. The King's Three Daughters.](jas094.md)\]
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ number 113 and compare Spanish-American forms, JAFL 25:191-208; JAFL
 
 ------------------------------------------------------------------------
 
-[Next: Note 95. The Dumb Child.](jas095n)
+[Next: Note 95. The Dumb Child.](jas095n.md)

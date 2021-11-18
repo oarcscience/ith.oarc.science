@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb12)  [Next](crfb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb12)  [Next](crfb14.md) 
 
 </div>
 
@@ -262,6 +262,6 @@ fairy bride, with whom he lived happily till the end of his life.
 
 ------------------------------------------------------------------------
 
-[Next: The Gifts of the Magician](crfb14)
+[Next: The Gifts of the Magician](crfb14.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](isw05)  [Next](isw07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](isw05)  [Next](isw07.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ The boughs have withered because I have told them my dreams.
 
 ------------------------------------------------------------------------
 
-[Next: Adam's Curse](isw07)
+[Next: Adam's Curse](isw07.md)

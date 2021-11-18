@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf07)  [Next](sunf09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf07)  [Next](sunf09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -152,6 +152,6 @@ Wethermel with nought to tell of.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Of a Newcomer, and His Gift to Osberne](sunf09)
+[Next: Chapter VII. Of a Newcomer, and His Gift to Osberne](sunf09.md)
 
 </div>

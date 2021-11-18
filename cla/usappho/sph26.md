@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph25)  [Next](sph27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph25)  [Next](sph27.md) 
 
 ------------------------------------------------------------------------
 
 # <span id="BM25">25</span>
 
 Σκιδναμένασ ἐν στήθεσιν ὄργασ  
-μαψυλάκαν γλῶσσαν πεφυλάχθαι. [\[transcription\]](xlatall.htm#44)
+μαψυλάκαν γλῶσσαν πεφυλάχθαι. [\[transcription\]](xlatall.htm#44.md)
 
 When anger spreads through the breast keep thy tongue from barking
 foolishly (or idly).
@@ -23,4 +23,4 @@ Restraining Anger."
 
 ------------------------------------------------------------------------
 
-[Next: 26: Hadst thou wished for things good or noble...](sph27)
+[Next: 26: Hadst thou wished for things good or noble...](sph27.md)

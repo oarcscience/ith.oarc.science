@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe284)  [Next](prwe286) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe284)  [Next](prwe286.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ They that wash Saturday are sluts indeed."
 
 ------------------------------------------------------------------------
 
-[Next: Itching Ears](prwe286)
+[Next: Itching Ears](prwe286.md)

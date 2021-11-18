@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](tot10)  [Next](tot12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](tot10)  [Next](tot12.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Talks on Truth*, by Charles Fillmore, \[1912\], at Intangible Textual
 Heritage
 
@@ -213,4 +213,4 @@ of the only begotten from the Father), full of grace and truth."
 
 ------------------------------------------------------------------------
 
-[Next: Lesson 11](tot12)
+[Next: Lesson 11](tot12.md)

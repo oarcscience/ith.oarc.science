@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe043)  [Next](prwe045) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe043)  [Next](prwe045.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ with "Fairy Salve."
 
 ------------------------------------------------------------------------
 
-[Next: The Old Woman who turned her Shift](prwe045)
+[Next: The Old Woman who turned her Shift](prwe045.md)

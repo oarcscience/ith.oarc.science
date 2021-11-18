@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt19)  [Next](pyt21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt19)  [Next](pyt21.md) 
 
 ------------------------------------------------------------------------
 
@@ -360,4 +360,4 @@ thou refresh N.,
 ------------------------------------------------------------------------
 
 [Next: 18. Utterances Concerning Well-Being, Especially Food and
-Clothes, 401-426](pyt21)
+Clothes, 401-426](pyt21.md)

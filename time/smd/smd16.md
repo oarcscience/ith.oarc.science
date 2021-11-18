@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd15)  [Next](smd17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd15)  [Next](smd17.md) 
 
 ------------------------------------------------------------------------
 
@@ -180,4 +180,4 @@ itself, it sank slowly into the sea, and all light faded from the sky.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Monday--The Day of the Moon](smd17)
+[Next: Chapter XV. Monday--The Day of the Moon](smd17.md)

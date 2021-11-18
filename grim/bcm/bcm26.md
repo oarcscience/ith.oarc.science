@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm25)  [Next](bcm27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm25)  [Next](bcm27.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ ribaldry.
 
 TALISMAN III.  
 <span id="img_11900"></span> [![](tn/generic.jpg)  
-Click to view](img/11900.jpg)  
+Click to view](img/11900.jpg.md)  
 *The characters should be graven on the inner side of the Ring*.
 
 III\. Discovers all treasures and ensures their possession. The figure
@@ -65,4 +65,4 @@ will be perched upon the shoulder of each spirit.
 
 ------------------------------------------------------------------------
 
-[Next: Talismans of the Sage of the Pyramids: IV, V](bcm27)
+[Next: Talismans of the Sage of the Pyramids: IV, V](bcm27.md)

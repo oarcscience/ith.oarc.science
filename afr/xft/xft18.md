@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](xft17)  [Next](xft19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](xft17)  [Next](xft19.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kaffir (Xhosa) Folk-Lore*, by George McCall Theal, \[1886\], at
 Intangible Textual Heritage
 
@@ -147,6 +147,6 @@ of the chief.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of Long Snake](xft19)
+[Next: The Story Of Long Snake](xft19.md)
 
 </div>

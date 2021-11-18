@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos07)  [Next](flos09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos07)  [Next](flos09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -72,12 +72,12 @@ therefore, bearing, as seen out of the water, a resemblance to the
 goose's neck, were ignorantly, and without investigation, confounded
 with geese themselves. In France, the barnacle-goose may be eaten on
 fast days, by virtue of this old belief in its fishy origin. <span
-id="fr_151"></span>[1](#fn_151) Like other fictions this one had its
-variations, <span id="fr_152"></span>[2](#fn_152) for sometimes the
+id="fr_151"></span>[1](#fn_151.md) Like other fictions this one had its
+variations, <span id="fr_152"></span>[2](#fn_152.md) for sometimes the
 barnacles were supposed to grow on trees, and thence to drop into the
 sea, and become geese, as in Drayton's account of Furness, (*Polyolb*.
 1622, Song 27, p. 1190). As early as the 12th century this idea <span
-id="fr_153"></span>[3](#fn_153) was promulgated by Giraldus Cambrensis
+id="fr_153"></span>[3](#fn_153.md) was promulgated by Giraldus Cambrensis
 in his "Topographia Hiberniæ." Gerarde, who in the year 1597 published
 his "Herball, or Generall Historie of Plantes," narrates the
 following:—"There are found in the north parts of Scotland, and the
@@ -118,10 +118,10 @@ Mr Halliwell-Phillipps from a manuscript of the 14th century, who is of
 opinion that the barnacle mentioned by Caliban was the tree-goose. It is
 not to be supposed, however, that there were none who doubted this
 marvellous story, or who took steps to refute it. Belon, so long ago as
-1551, says Mr Harting, <span id="fr_154"></span>[1](#fn_154) and others
+1551, says Mr Harting, <span id="fr_154"></span>[1](#fn_154.md) and others
 after him, treated it with ridicule, and a refutation may be found in
 Willughby's "Ornithology," which was edited by Ray in 1678. <span
-id="fr_155"></span>[2](#fn_155) This
+id="fr_155"></span>[2](#fn_155.md) This
 
 <span id="page_95">p. 95</span>
 
@@ -154,7 +154,7 @@ neighbourhood of Leeds:—
    In the 2d part of King Henry IV. (iii. 2) when Justice Shallow
 inquires of Justice Silence, "And how doth my cousin?" he is answered—
 
-   "Alas, a black ousel, <span id="fr_156"></span>[1](#fn_156) cousin
+   "Alas, a black ousel, <span id="fr_156"></span>[1](#fn_156.md) cousin
 Shallow," a phrase which, no doubt, corresponded to our modern one, a
 "black sheep." In Spenser's "Epithalamium" (1. 82), the word occurs—
 
@@ -180,7 +180,7 @@ buzzing noise—
    The beetle was formerly called a buzzard; and in Staffordshire, a
 cock-chafer is termed a hum-buz. In Northamptonshire, we find a proverb,
 "I'm between a hawk and a buzzard," which means, "I don't know what to
-do, or how to act." <span id="fr_157"></span>[2](#fn_157)
+do, or how to act." <span id="fr_157"></span>[2](#fn_157.md)
 
    *Chaffinch*.—Some think that this bird is alluded to in the song in
 the "Midsummer Night's Dream" (iii. 1), where the expression "Finch" is
@@ -189,13 +189,13 @@ used; the chaffinch having always
 <span id="page_96">p. 96</span>
 
 been a favourite cage bird with the lower-classes. <span
-id="fr_158"></span>[1](#fn_158) In "Troilus and Cressida" (v. 1),
+id="fr_158"></span>[1](#fn_158) In "Troilus and Cressida" (v. 1.md),
 Thersites calls Patroclus a "finch-egg," which was evidently meant as a
 term of reproach. Others again consider the phrase is equivalent to
 coxcomb.
 
    *Chough*.—In using this word, Shakespeare probably in most cases
-meant the jackdaw; <span id="fr_159"></span>[2](#fn_159) for in "A
+meant the jackdaw; <span id="fr_159"></span>[2](#fn_159.md) for in "A
 Midsummer Night's Dream" (iii. 2), he says—
 
 <div style="margin-left: 32px">
@@ -209,12 +209,12 @@ the term russet-pated being applicable to the jackdaw, but not to the
 real chough. In "1 Henry IV." (v. 1), Prince Henry calls Falstaff
 *chewet*—"Peace, chewet, peace"—in allusion no doubt to the chough or
 jackdaw, for common birds have always had a variety of names. <span
-id="fr_160"></span>[3](#fn_160) Such an appellation would be a proper
+id="fr_160"></span>[3](#fn_160.md) Such an appellation would be a proper
 reproach to Falstaff, for his meddling and impertinent talk. Steevens,
 and Malone, however, finding that *chewets* were little round pies made
 of minced meat, thought that the Prince compared Falstaff for his
 unseasonable chattering, to a minced pie. Cotgrave <span
-id="fr_161"></span>[4](#fn_161) describes the French "chouette;" as an
+id="fr_161"></span>[4](#fn_161.md) describes the French "chouette;" as an
 owlet; also, a "chough," which many consider to be the simple and
 satisfactory explanation of *chewet*. Belon in his "History of Birds"
 (Paris, 1855), speaks of the *chouette* as the smallest kind of chough
@@ -222,7 +222,7 @@ or crow. Again, in "1 Henry IV." (ii. 2), in the amusing scene where
 Falstaff, with the Prince and Poins, meet to rob the travellers at
 Gadshill, Falstaff calls the victims "fat chuffs," probably, says Mr
 Harting, who connects the word with chough, from their strutting about
-with much noise. Nares, <span id="fr_162"></span>[5](#fn_162) too, in
+with much noise. Nares, <span id="fr_162"></span>[5](#fn_162.md) too, in
 his explanation
 
 <span id="page_97">p. 97</span>
@@ -230,11 +230,11 @@ his explanation
 of *chuff*, says, that some suppose it to be from chough which is
 similarly pronounced, and means a kind of sea-bird generally esteemed a
 stupid one. Various other meanings are given. Thus, Mr Gifford <span
-id="fr_163"></span>[1](#fn_163) affirms that chuff is always used in a
+id="fr_163"></span>[1](#fn_163.md) affirms that chuff is always used in a
 bad sense, and means "a coarse unmannered clown, at once sordid and
 wealthy;" and Mr Halliwell-Phillipps explains it as spoken in contempt
-for a fat person. <span id="fr_164"></span>[2](#fn_164) In
-Northamptonshire, <span id="fr_165"></span>[3](#fn_165) we find the word
+for a fat person. <span id="fr_164"></span>[2](#fn_164.md) In
+Northamptonshire, <span id="fr_165"></span>[3](#fn_165.md) we find the word
 chuff used to denote a person in good condition, as in Clare's "Village
 Minstrel"—
 
@@ -271,7 +271,7 @@ A chough of as deep chat."</span>
 </div>
 
    Shakespeare always refers to the jackdaw as the "daw." <span
-id="fr_166"></span>[4](#fn_166) The chough or jackdaw was one of the
+id="fr_166"></span>[4](#fn_166.md) The chough or jackdaw was one of the
 birds considered ominous by our forefathers, an allusion to which occurs
 in "Macbeth" (iii. 4.)—
 
@@ -285,7 +285,7 @@ in "Macbeth" (iii. 4.)—
 
    At the present day this bird is not without its folklore, and there
 is a Norwich rhyme to the following effect <span
-id="fr_167"></span>[5](#fn_167)—
+id="fr_167"></span>[5](#fn_167.md)—
 
 <div style="margin-left: 32px">
 
@@ -298,12 +298,12 @@ together,
 <span id="page_98">p. 98</span>
 
 <span class="contnote">\[paragraph continues\]</span> In the north, too,
-of England <span id="fr_168"></span>[1](#fn_168) the flight of jackdaws
+of England <span id="fr_168"></span>[1](#fn_168.md) the flight of jackdaws
 down the chimney is held to presage death.
 
    *Cock*.—The beautiful notion which represents the cock as crowing all
 night long on Christmas Eve, and by its vigilance dispelling every kind
-of malignant spirit <span id="fr_169"></span>[2](#fn_169) and evil
+of malignant spirit <span id="fr_169"></span>[2](#fn_169.md) and evil
 influence, is graphically mentioned in "Hamlet" (i. 1), where Marcellus,
 speaking of the ghost, says—
 
@@ -328,7 +328,7 @@ by the Christian poet Prudentius, who flourished in the beginning of the
 fourth century. There is also a hymn, said to have been composed by St
 Ambrose, and formerly used in the Salisbury Service, which so much
 resembles the following speech of Horatio (i. 1), that one might almost
-suppose Shakespeare had seen it <span id="fr_170"></span>[3](#fn_170)—
+suppose Shakespeare had seen it <span id="fr_170"></span>[3](#fn_170.md)—
 
 <div style="margin-left: 32px">
 
@@ -342,7 +342,7 @@ suppose Shakespeare had seen it <span id="fr_170"></span>[3](#fn_170)—
 </div>
 
    This disappearance of spirits at cock-crow is further alluded to (i.
-2) <span id="fr_171"></span>[4](#fn_171)—
+2) <span id="fr_171"></span>[4](#fn_171.md)—
 
 <div style="margin-left: 32px">
 
@@ -369,7 +369,7 @@ Evanishes at crowing of the cock."</span>
 
    This superstition has not entirely died out in England, and a
 correspondent of "Notes and Queries" <span
-id="fr_172"></span>[1](#fn_172) relates an amusing legend current in
+id="fr_172"></span>[1](#fn_172.md) relates an amusing legend current in
 Devonshire:—"Mr N. was a squire who had been so unfortunate as to sell
 his soul to the Devil, with the condition that after his funeral the
 fiend should take possession of his skin. He had also persuaded a
@@ -388,7 +388,7 @@ round to the man, exclaimed, 'If it had not been for the bird you have
 got there under your arm, I would have your skin too!' But, thanks to
 the cock, the man got home safe again." Various origins have been
 assigned to this superstition, which Hampson <span
-id="fr_173"></span>[2](#fn_173) regards as a misunderstood tradition of
+id="fr_173"></span>[2](#fn_173.md) regards as a misunderstood tradition of
 some Sabæan fable. The cock, he adds, which seems by its early voice to
 call forth the sun, was esteemed a sacred solar bird, hence it was also
 sacred to Mercury, one of the personifications of the sun.
@@ -418,7 +418,7 @@ The potent poison quite o’er-crows my spirit"</span>
 
 —meaning the poison triumphs over him, as a cock over his beaten
 antagonist. Formerly, cock-fighting entered into the occupations of the
-old and young. <span id="fr_174"></span>[1](#fn_174) Schools had their
+old and young. <span id="fr_174"></span>[1](#fn_174.md) Schools had their
 cockfights. Travellers agreed with coachmen that they were to wait a
 night if there was a cock-fight in any town through which they passed.
 When country gentlemen had sat long at table, and the conversation had
@@ -433,11 +433,11 @@ of the popular terms for a cock beaten in a fight was "a craven," to
 which we find a reference in the "Taming of the Shrew" (ii. 1)—"No cock
 of mine; you crow too like a craven." We may also compare the expression
 in Henry V. (iv. 7)—"He is a craven and a villain else." In the old
-appeal or wager of battle, <span id="fr_175"></span>[2](#fn_175) in our
+appeal or wager of battle, <span id="fr_175"></span>[2](#fn_175.md) in our
 common law, we are told, on the authority of Lord Coke, that the party
 who confessed himself wrong, or refused to fight, was to pronounce the
 word *cravent*, and judgment was at once given against him. Singer <span
-id="fr_176"></span>[3](#fn_176) says the term may be satisfactorily
+id="fr_176"></span>[3](#fn_176.md) says the term may be satisfactorily
 traced from *crant*, *créant*, the old French word for an act of
 submission. It is so written in the old metrical romance of "Ywaine and
 Gawaine" (Ritson i. 133)—
@@ -464,7 +464,7 @@ It then became *cravant*, *cravent*, and at length *craven*.
 corruption or purposed disguise of the name of God, an instance of which
 occurs in Hamlet (iv. 5)—"By cock, they are to blame." This irreverent
 alteration of the sacred name is found at least a dozen times <span
-id="fr_177"></span>[1](#fn_177) in Heywood's "Edward the Fourth," where
+id="fr_177"></span>[1](#fn_177.md) in Heywood's "Edward the Fourth," where
 one passage is—
 
 <div style="margin-left: 32px">
@@ -482,17 +482,17 @@ i)—"Cock's passion, silence!" A not uncommon oath, too, in Shakespeare's
 time was "Cock and pie"—*cock* referring to God, and *pie* being
 supposed to mean the service-book of the Romish Church; a meaning which,
 says Mr Dyce, seems much more probable than Douce's <span
-id="fr_178"></span>[2](#fn_178) supposition that this oath was connected
+id="fr_178"></span>[2](#fn_178.md) supposition that this oath was connected
 with the making of solemn vows by knights in the days of chivalry,
 during entertainments, at which a roasted peacock was served up. It is
 used by Justice Shallow (2 Henry IV., v. 1)—"By cock and pye, sir, you
 shall not away to-night." We may also compare the expression in the old
 play of "Soliman and Perseda" (1599)—"By cock and pye and mousefoot." Mr
-Harting <span id="fr_179"></span>[3](#fn_179) says the "Cock and Pye"
+Harting <span id="fr_179"></span>[3](#fn_179.md) says the "Cock and Pye"
 (*i.e.*, magpie) was an ordinary ale-house sign, and may have thus
 become a subject for the vulgar to swear by.
 
-   The phrase, "Cock-a-hoop," <span id="fr_180"></span>[4](#fn_180)
+   The phrase, "Cock-a-hoop," <span id="fr_180"></span>[4](#fn_180.md)
 which occurs in "Romeo and Juliet" (i. 5)—
 
 <div style="margin-left: 32px">
@@ -514,7 +514,7 @@ such a pot; hence, in "2 Henry VI." (iv. 2), one of Jack Cade's popular
 reformations was to increase their number, "The three-hooped pot shall
 have ten hoops; and I will make it felony to drink small beer." Some,
 however, consider the term Cock-a-hoop <span
-id="fr_181"></span>[1](#fn_181) refers to the boastful crowing of the
+id="fr_181"></span>[1](#fn_181.md) refers to the boastful crowing of the
 cock.
 
    In "King Lear" (iii. 2) Shakespeare speaks of the "cataracts and
@@ -528,17 +528,17 @@ hurricanoes" as having—
 
 Vanes on the tops of steeples were in days gone by made in the form of a
 cock—hence weathercocks—and put up, in papal times, to remind the clergy
-of watchfulness. <span id="fr_182"></span>[2](#fn_182) Apart, too, from
+of watchfulness. <span id="fr_182"></span>[2](#fn_182.md) Apart, too, from
 symbolism, the large tail of the cock was well adapted to turn with the
-wind. <span id="fr_183"></span>[3](#fn_183)
+wind. <span id="fr_183"></span>[3](#fn_183.md)
 
    *Cormorant*.—The proverbial voracity of this bird <span
-id="fr_184"></span>[4](#fn_184) gave rise to a man of large appetite
+id="fr_184"></span>[4](#fn_184.md) gave rise to a man of large appetite
 being likened to it, a sense in which Shakespeare employs the word, as
 in "Coriolanus" (i. 1)—"The cormorant belly;" in "Love's Labour's Lost"
 (i. 1)—"Cormorant devouring time;" and in "Troilus and Cressida" (ii.
 2)—"This cormorant war." "Although," says Mr Harting, <span
-id="fr_185"></span>[5](#fn_185) "Shakespeare mentions the cormorant in
+id="fr_185"></span>[5](#fn_185.md) "Shakespeare mentions the cormorant in
 several of his plays, he has nowhere alluded to the sport of using these
 birds, when trained, for fishing; a fact which is singular, since he
 often speaks of the then popular pastime of hawking, and he did not die
@@ -583,7 +583,7 @@ cornix."</span>
 </div>
 
 Even children now-a-days regard with no friendly feelings this bird of
-ill-omen; <span id="fr_186"></span>[1](#fn_186) and in the north of
+ill-omen; <span id="fr_186"></span>[1](#fn_186.md) and in the north of
 England there is a rhyme to the following effect:—
 
 <div style="margin-left: 32px">
@@ -595,7 +595,7 @@ England there is a rhyme to the following effect:—
 
    Among other allusions, mentioned by Shakspeare, to the crow, may be
 noticed the crow-keeper—a person employed to drive away crows from the
-fields. At present, <span id="fr_187"></span>[2](#fn_187) in all the
+fields. At present, <span id="fr_187"></span>[2](#fn_187.md) in all the
 midland counties, a boy set to drive away the birds is said to keep
 birds; hence, a stuffed figure, now called a scare-crow, was also called
 a crow-keeper, as in "King Lear" (iv. 6):—
@@ -637,7 +637,7 @@ was publicly exhibited in the market-place:—
 
 <span class="small">"Here, said they, is the terror of the French,  
  The scarecrow that affrights our children so." <span
-id="fr_188"></span>[1](#fn_188)</span>
+id="fr_188"></span>[1](#fn_188.md)</span>
 
 </div>
 
@@ -654,7 +654,7 @@ id="fr_188"></span>[1](#fn_188)</span>
 
    The phrase "to pluck a crow" is to complain good-naturedly but
 reproachfully, and to threaten retaliation. <span
-id="fr_189"></span>[2](#fn_189) It occurs in "Comedy of Errors," (iii.
+id="fr_189"></span>[2](#fn_189.md) It occurs in "Comedy of Errors," (iii.
 1):—"We'll pluck a crow together." Sometimes the word pull is
 substituted for pluck, as in Butler's "Hudibras," part ii. canto 2:—
 
@@ -672,7 +672,7 @@ speaking of the white dove, says:—
 <div style="margin-left: 32px">
 
 <span class="small">"With the dove of Paphos might the crow  
- Vie feathers white." <span id="fr_190"></span>[3](#fn_190)</span>
+ Vie feathers white." <span id="fr_190"></span>[3](#fn_190.md)</span>
 
 </div>
 
@@ -684,7 +684,7 @@ in "Love's Labour's Lost" (v. 2):—
 <div style="margin-left: 32px">
 
 <span class="small">"Cuckoo, cuckoo: <span
-id="fr_191"></span>[4](#fn_191) O word of fear,  
+id="fr_191"></span>[4](#fn_191.md) O word of fear,  
  Unpleasing to a married ear."</span>
 
 </div>
@@ -706,7 +706,7 @@ anyone, by the repetition of its cries, how long he has to live. The
 country lasses in Sweden count the cuckoo's call to ascertain how many
 years they have to remain unmarried, but they generally shut their ears
 and run away on hearing it a few times. <span
-id="fr_192"></span>[1](#fn_192) Among the Germans the notes of the
+id="fr_192"></span>[1](#fn_192.md) Among the Germans the notes of the
 cuckoo, when heard in spring for the first time, are considered a good
 omen. Cæsarius (A.D. 1222), tells us of a convertite who was about to
 become a monk, but changed his mind on hearing the cuckoo's call, and
@@ -714,7 +714,7 @@ counting twenty-two repetitions of it. "Come," said he, "I have
 certainly twenty-two years still to live, and why should I mortify
 myself during all that time. I will go back to the world, enjoy its
 delights for twenty years, and devote the remaining two to
-penitence." <span id="fr_193"></span>[2](#fn_193) In England, the
+penitence." <span id="fr_193"></span>[2](#fn_193.md) In England, the
 peasantry salute the cuckoo with the following invocation:—
 
 <div style="margin-left: 32px">
@@ -766,7 +766,7 @@ Cleopatra" (ii. 6):—
 
 </div>
 
-It has been remarked, <span id="fr_194"></span>[1](#fn_194) however, in
+It has been remarked, <span id="fr_194"></span>[1](#fn_194.md) however, in
 reference to the common idea that the young cuckoo illtreats its foster
 mother, that if we watch the movements of the two birds, when the
 younger is being fed, we cannot much wonder at this piece of folk-lore.
@@ -774,7 +774,7 @@ When the cuckoo opens its great mouth, the diminutive nurse places her
 own head so far within its precincts, that it has the exact appearance
 of a voluntary surrender to decapitation.
 
-   The notion <span id="fr_195"></span>[2](#fn_195) "which couples the
+   The notion <span id="fr_195"></span>[2](#fn_195.md) "which couples the
 name of the cuckoo with the character of the man whose wife is
 unfaithful to him, appears to have been derived from the Romans, and is
 first found in the middle ages in France, and in the countries of which
@@ -827,12 +827,12 @@ in those charming sonnets descriptive of the beauties of the country at
 this season.
 
    The word cuckoo has, from the earliest times, been used as a term of
-reproach; <span id="fr_196"></span>[1](#fn_196) and Plautus <span
-id="fr_197"></span>[2](#fn_197) has introduced it on more than one
+reproach; <span id="fr_196"></span>[1](#fn_196.md) and Plautus <span
+id="fr_197"></span>[2](#fn_197.md) has introduced it on more than one
 occasion. In this sense we find it quoted by Shakespeare in "1 Henry
 IV." (ii. 4):—"O’ horseback, ye cuckoo." The term *cuckold*, too, which
 so frequently occurs throughout Shakespeare's Plays, is generally
-derived from cuculus; <span id="fr_198"></span>[3](#fn_198) from the
+derived from cuculus; <span id="fr_198"></span>[3](#fn_198.md) from the
 practice already alluded to of depositing its eggs in other birds’
 nests.
 
@@ -848,7 +848,7 @@ Shakespeare's day for a fast woman.
 
    *Dove*.—Among the many beautiful allusions to this bird we may
 mention one in "Hamlet" (v. 1), where Shakespeare speaks of the dove
-only laying two eggs. <span id="fr_199"></span>[4](#fn_199)
+only laying two eggs. <span id="fr_199"></span>[4](#fn_199.md)
 
 <div style="margin-left: 32px">
 
@@ -927,7 +927,7 @@ as in "Venus and Adonis:"—
 
 and in "A Midsummer Night's Dream" (i. 1), where Hermia speaks of "the
 simplicity of Venus’ doves." This will also explain, says Mr
-Harting, <span id="fr_200"></span>[1](#fn_200) the reference to "the
+Harting, <span id="fr_200"></span>[1](#fn_200.md) the reference to "the
 dove of Paphos" in "Pericles" (iv., *Introduction*). The towns of Old
 and New Paphos are situated on the south-west extremity of the coast of
 Cyprus. Old Paphos is the one generally referred to by the poets, being
@@ -939,7 +939,7 @@ therefore be considered as synonymous with the "dove of Venus."
 out of his ear; when hungry, the dove lighted on his shoulder, and
 thrust its bill in to find its breakfast;—Mahomet persuading the rude
 and simple Arabians that it was the Holy Ghost that gave him
-advice. <span id="fr_201"></span>[2](#fn_201) Hence, in "1 Henry VI."
+advice. <span id="fr_201"></span>[2](#fn_201.md) Hence, in "1 Henry VI."
 (i. 2), the question is asked—
 
 <div style="margin-left: 32px">
@@ -950,7 +950,7 @@ advice. <span id="fr_201"></span>[2](#fn_201) Hence, in "1 Henry VI."
 
    *Duck*.—A barbarous pastime in Shakespeare's time was hunting a tame
 duck in the water with spaniels. For the performance of this amusement
-it was necessary <span id="fr_202"></span>[3](#fn_202) to have recourse
+it was necessary <span id="fr_202"></span>[3](#fn_202.md) to have recourse
 to a pond of water sufficiently extensive to give the duck plenty of
 room for making its escape from the dogs when closely pursued: which it
 did by diving as often as any of them came near it, hence the following
@@ -959,7 +959,7 @@ allusion in "Henry V." (ii. 3)—
 <div style="margin-left: 32px">
 
 <span class="small">"And hold-fast is the only dog, my duck." <span
-id="fr_203"></span>[4](#fn_203)</span>
+id="fr_203"></span>[4](#fn_203.md)</span>
 
 </div>
 
@@ -992,7 +992,7 @@ refers:—
 <span class="small">"What peremptory eagle-sighted eye  
  Dares look upon the heaven of her brow,  
  That is not blinded by her majesty?" <span
-id="fr_204"></span>[1](#fn_204)</span>
+id="fr_204"></span>[1](#fn_204.md)</span>
 
 </div>
 
@@ -1006,13 +1006,13 @@ id="fr_204"></span>[1](#fn_204)</span>
 </div>
 
    The French naturalist, Lacepede, <span
-id="fr_205"></span>[2](#fn_205) has calculated that the clearness of
+id="fr_205"></span>[2](#fn_205.md) has calculated that the clearness of
 vision in birds is nine times more extensive than that of the
 farthest-sighted man. The eagle, too, has always been proverbial for its
 great power of flight, and on this account has had assigned to it the
 sovereignty of the feathered race. Aristotle and Pliny both record the
 legend of the wren disputing for the crown, a tradition which is still
-found in Ireland: <span id="fr_206"></span>[3](#fn_206)—The birds all
+found in Ireland: <span id="fr_206"></span>[3](#fn_206.md)—The birds all
 met together one day and settled among themselves that whichever of them
 could fly highest was to be the king of them all. Well, just as they
 were starting, the little rogue of a wren perched itself on the eagle's
@@ -1032,7 +1032,7 @@ of the eagle's flight is spoken of in "Timon of Athens," (i. 1):—
 <div style="margin-left: 32px">
 
 <span class="small">  "An eagle flight, bold, and forth on,  
-Leaving no track behind." <span id="fr_207"></span>[1](#fn_207)</span>
+Leaving no track behind." <span id="fr_207"></span>[1](#fn_207.md)</span>
 
 </div>
 
@@ -1071,7 +1071,7 @@ supposed to foretell victory. Thus, in "Julius Cæsar," (v. 1), we read:—
 </div>
 
    It was selected for the Roman legionary standard, <span
-id="fr_208"></span>[2](#fn_208) through being the king and most powerful
+id="fr_208"></span>[2](#fn_208.md) through being the king and most powerful
 of all birds. As a bird of good omen it is mentioned also in
 "Cymbeline," (i. 1):—
 
@@ -1094,7 +1094,7 @@ very gods shew’d me a vision": thus:—
 
 </div>
 
-   The conscious superiority <span id="fr_209"></span>[3](#fn_209) of
+   The conscious superiority <span id="fr_209"></span>[3](#fn_209.md) of
 the eagle is depicted by Tamora in "Titus Andronicus," (iv. 4):—
 
 <div style="margin-left: 32px">
@@ -1109,7 +1109,7 @@ the eagle is depicted by Tamora in "Titus Andronicus," (iv. 4):—
 <span id="page_112">p. 112</span>
 
    *Goose*.—This bird was the subject <span
-id="fr_210"></span>[1](#fn_210) of many quaint proverbial phrases often
+id="fr_210"></span>[1](#fn_210.md) of many quaint proverbial phrases often
 used in the old popular writers. Thus, a tailor's goose was a jocular
 name for his pressing iron, probably from its being often roasting
 before the fire, an allusion to which occurs in "Macbeth," (ii. 3):—
@@ -1156,7 +1156,7 @@ In "Troilus and Cressida" (v. 10), there is a further allusion—
 
 </div>
 
-Ben Jonson <span id="fr_211"></span>[2](#fn_211) calls it—
+Ben Jonson <span id="fr_211"></span>[2](#fn_211.md) calls it—
 
 <div style="margin-left: 32px">
 
@@ -1168,7 +1168,7 @@ When Venus there maintain’d the mystery."</span>
 
    "Plucking geese" was formerly a barbarous sport of boys ("Merry Wives
 of Windsor," v. 1), which consisted in stripping a living goose of its
-feathers. <span id="fr_212"></span>[3](#fn_212)
+feathers. <span id="fr_212"></span>[3](#fn_212.md)
 
 <span id="page_113">p. 113</span>
 
@@ -1184,7 +1184,7 @@ From slaves that apes would beat."</span>
 </div>
 
    *Goldfinch*.—The Warwickshire name <span
-id="fr_213"></span>[1](#fn_213) for this bird is "Proud Tailor," to
+id="fr_213"></span>[1](#fn_213.md) for this bird is "Proud Tailor," to
 which, some commentators think, the words in "1 Henry IV." (iii. 1)
 refer
 
@@ -1199,8 +1199,8 @@ teacher."</span>
 It has, therefore, been suggested that the passage should be read
 thus—"’Tis the next way to turn tailor, or red-breast teacher," *i.e.*,
 "to turn teacher of goldfinches or redbreasts." <span
-id="fr_214"></span>[2](#fn_214) Singer, <span
-id="fr_215"></span>[3](#fn_215) however, explains the words
+id="fr_214"></span>[2](#fn_214.md) Singer, <span
+id="fr_215"></span>[3](#fn_215.md) however, explains the words
 thus—"Tailors, like weavers, have ever been remarkable for their vocal
 skill. Percy is jocular in his mode of persuading his wife to sing; and
 this is a humorous turn which he gives to his argument, 'Come, sing.' 'I
@@ -1235,7 +1235,7 @@ Nothing" (ii. 3)—"I should think this a gull,
 <span id="page_114">p. 114</span>
 
 but that the white-bearded fellow speaks it." <span
-id="fr_216"></span>[1](#fn_216) "Gull-catchers," or "gull-gropers," to
+id="fr_216"></span>[1](#fn_216.md) "Gull-catchers," or "gull-gropers," to
 which reference is made in "Twelfth Night"(ii. 5), where Fabian, on the
 entry of Maria, exclaims—
 
@@ -1245,11 +1245,11 @@ entry of Maria, exclaims—
 
 </div>
 
-were the names by which sharpers <span id="fr_217"></span>[2](#fn_217)
-were known in Shakespeare's time. <span id="fr_218"></span>[3](#fn_218)
+were the names by which sharpers <span id="fr_217"></span>[2](#fn_217.md)
+were known in Shakespeare's time. <span id="fr_218"></span>[3](#fn_218.md)
 The "gull-catcher" was generally an old usurer, who lent money to a
 gallant at an ordinary, who had been unfortunate in play. <span
-id="fr_219"></span>[4](#fn_219) Decker devotes a chapter to this
+id="fr_219"></span>[4](#fn_219.md) Decker devotes a chapter to this
 character in his "Lanthorne and Candle-light," 1612. According to him,
 "the gull-groper is commonly an old monymonger, who having travailed
 through all the follyes of the world in his youth, knowes them well, and
@@ -1266,15 +1266,15 @@ Young scamels from the rock."</span>
 </div>
 
 some think that the sea-mew, or sea-gull, is intended, <span
-id="fr_220"></span>[5](#fn_220) sea-mall, or sea-mell, being still a
+id="fr_220"></span>[5](#fn_220.md) sea-mall, or sea-mell, being still a
 provincial name for this bird. Mr Stevenson, in his "Birds of Norfolk"
 (ii. p. 260), tells us that "the female bar-tailed godwit is called a
 'scammell' by the gunners of Blakeney. But as this bird is not a
-rock-breeder, <span id="fr_221"></span>[6](#fn_221) it cannot be the one
+rock-breeder, <span id="fr_221"></span>[6](#fn_221.md) it cannot be the one
 intended in the present passage, if we regard it as an accurate
 description from a naturalist's point of view." Holt says that "scam" is
 a limpet, and scamell probably a diminutive. Mr Dyce <span
-id="fr_222"></span>[7](#fn_222) reads "Scamels," *i.e.*, the kestrel,
+id="fr_222"></span>[7](#fn_222.md) reads "Scamels," *i.e.*, the kestrel,
 stannel, or windhover, which breeds in rocky situations, and high cliffs
 on our coasts. He also further observes
 
@@ -1285,7 +1285,7 @@ staniel or staunyel occurs in "Twelfth Night" (ii. 5), where all the old
 editions exhibit the gross misprint, "stallion."
 
    *Hawk*.—The diversion of catching game with hawks was very popular in
-Shakespeare's time, <span id="fr_223"></span>[1](#fn_223) and hence, as
+Shakespeare's time, <span id="fr_223"></span>[1](#fn_223.md) and hence, as
 might be expected, we find many scattered allusions to it throughout his
 plays. The training of a hawk for the field was an essential part of the
 education of a young Saxon nobleman; and the present of a well-trained
@@ -1321,7 +1321,7 @@ of falconry is comprised:—
 
 <span class="small">"My falcon now is sharp and passing empty;  
  And till she stoop she must not be full-gorged, <span
-id="fr_224"></span>[2](#fn_224)</span>
+id="fr_224"></span>[2](#fn_224.md)</span>
 
 </div>
 
@@ -1337,7 +1337,7 @@ continues\]</span> For then she never looks upon her lure.
  That bate and beat and will not be obedient.  
  She eat no meat to-day, nor none shall eat;  
  Last night she slept not, nor to-night she shall not." <span
-id="fr_225"></span>[1](#fn_225)</span>
+id="fr_225"></span>[1](#fn_225.md)</span>
 
 </div>
 
@@ -1371,20 +1371,20 @@ hawk, exclaims—
 <div style="margin-left: 32px">
 
 <span class="small">      "If I do prove her haggard,—  
-I’ld whistle her off." <span id="fr_226"></span>[2](#fn_226)</span>
+I’ld whistle her off." <span id="fr_226"></span>[2](#fn_226.md)</span>
 
 </div>
 
    The word "check" alluded to above was a term in falconry applied to a
 hawk when she forsook her proper game and followed some other of
 inferior kind that crossed her in her flight <span
-id="fr_227"></span>[3](#fn_227)—being mentioned again in Hamlet (iv. 7),
+id="fr_227"></span>[3](#fn_227)—being mentioned again in Hamlet (iv. 7.md),
 where the king says—
 
 <div style="margin-left: 32px">
 
 <span class="small">            "If he be now return’d,  
-As checking at his voyage." <span id="fr_228"></span>[4](#fn_228)</span>
+As checking at his voyage." <span id="fr_228"></span>[4](#fn_228.md)</span>
 
 </div>
 
@@ -1396,7 +1396,7 @@ air, and thence swoop upon their prey. In "Macbeth" (ii. 4), we read of
 "a falcon, towering in her pride of place;" in "2 Henry VI." (ii. 1),
 Suffolk says, "My lord protector's hawks do tower so well;" and in "King
 John" (v. 2), the Bastard says, "And, like an eagle o’er his aery <span
-id="fr_229"></span>[1](#fn_229) towers."
+id="fr_229"></span>[1](#fn_229.md) towers."
 
    The word "quarry" which occurs several times in Shakespeare's plays,
 in some instances, means the "game or prey sought." The etymology has,
@@ -1409,7 +1409,7 @@ natural extension of the term. Randle Holme, in his "Academy of Armory"
 at, whether dead or alive." It was also equivalent to a heap of
 slaughtered game, as in the following passages. In "Coriolanus" (i. 1),
 Caius Marcius says—"I’ld make a quarry with thousands of these quarter’d
-slaves." In "Macbeth" (iv. 3) <span id="fr_230"></span>[2](#fn_230) we
+slaves." In "Macbeth" (iv. 3) <span id="fr_230"></span>[2](#fn_230.md) we
 read "The quarry of these murder’d deer," and in "Hamlet" (v. 2), "This
 quarry cries on havoc."
 
@@ -1424,8 +1424,8 @@ stoop, they stoop with the like wing." In "Macbeth,"
 
 too (iv. 3), Macduff, referring to the cruel murder of his children,
 exclaims, "What! at one fell swoop?" <span
-id="fr_231"></span>[1](#fn_231) Webster, in the "White Devil," <span
-id="fr_232"></span>[2](#fn_232) says—
+id="fr_231"></span>[1](#fn_231.md) Webster, in the "White Devil," <span
+id="fr_232"></span>[2](#fn_232.md) says—
 
 <div style="margin-left: 32px">
 
@@ -1445,26 +1445,26 @@ Thus in "Lucreece" he says—
 
 </div>
 
-And in "As You Like It" (iii. 3) <span id="fr_233"></span>[3](#fn_233),
+And in "As You Like It" (iii. 3) <span id="fr_233"></span>[3](#fn_233.md),
 Touchstone says, "As the ox hath his bow, sir, the horse his curb, and
 the falcon her bells, so man hath his desires." The object of these
 bells was to lead the falconer to the hawk when in a wood or out of
 sight. In Heywood's play entitled, "A Woman Killed with Kindness," 1617,
 is a hawking scene, containing a striking allusion to the hawk's bells.
-The dress of the hawk <span id="fr_234"></span>[4](#fn_234) consisted of
+The dress of the hawk <span id="fr_234"></span>[4](#fn_234.md) consisted of
 a close-fitting hood of leather or velvet, enriched with needle-work,
 and surmounted with a tuft of coloured feathers, for use as well as
 ornament, inasmuch as they assisted the hand in removing the hood when
 the birds for the hawk's attack came in sight. Thus in "Henry V." (iii.
 7), the Constable of France, referring to the valour of the Dauphin,
 says, "’Tis a hooded valour, and when it appears it will bate." <span
-id="fr_235"></span>[5](#fn_235) And again, in "Romeo and Juliet" (iii.
+id="fr_235"></span>[5](#fn_235.md) And again, in "Romeo and Juliet" (iii.
 2), Juliet says—
 
 <div style="margin-left: 32px">
 
 <span class="small">"Hood my unmann’d blood, bating <span
-id="fr_236"></span>[6](#fn_236) in my cheeks."</span>
+id="fr_236"></span>[6](#fn_236.md) in my cheeks."</span>
 
 </div>
 
@@ -1474,7 +1474,7 @@ fastened to each leg of a hawk, to which was attached
 <span id="page_119">p. 119</span>
 
 a swivel from which depended the leash or strap which the falconer <span
-id="fr_237"></span>[1](#fn_237) twisted round his hand. Othello (iii.
+id="fr_237"></span>[1](#fn_237.md) twisted round his hand. Othello (iii.
 3), says
 
 <div style="margin-left: 32px">
@@ -1485,7 +1485,7 @@ heart-strings."</span>
 </div>
 
    We find several allusions to the training of hawks. <span
-id="fr_238"></span>[2](#fn_238) They were usually trained by being kept
+id="fr_238"></span>[2](#fn_238.md) They were usually trained by being kept
 from sleep, it having been customary for the falconers to sit up by
 turns and "watch" the hawk, and keep it from sleeping, sometimes for
 three successive nights. Desdemona in "Othello" (iii. 3), says—
@@ -1521,7 +1521,7 @@ now"</span>
 the allusion is, says Staunton, to this method employed to tame or
 "reclaim" hawks.
 
-   Again, in "Othello" (iii. 3), <span id="fr_239"></span>[3](#fn_239)
+   Again, in "Othello" (iii. 3), <span id="fr_239"></span>[3](#fn_239.md)
 Iago exclaims—
 
 <div style="margin-left: 32px">
@@ -1542,7 +1542,7 @@ IV." iii. 1), in his soliloquy on sleep, says—
 <span class="small">"Wilt thou upon the high and giddy mast  
  Seal up the ship-boy's eyes, and rock his brains  
  In cradle of the rude imperious surge." <span
-id="fr_240"></span>[4](#fn_240)</span>
+id="fr_240"></span>[4](#fn_240.md)</span>
 
 </div>
 
@@ -1559,7 +1559,7 @@ id="fr_240"></span>[4](#fn_240)</span>
 
    It was a common notion, that if a dove was let loose with its eyes so
 closed, it would fly straight upwards, continuing to mount, till it fell
-down through mere exhaustion. <span id="fr_241"></span>[1](#fn_241)
+down through mere exhaustion. <span id="fr_241"></span>[1](#fn_241.md)
 
    In "Cymbeline," (iii. 4), Imogen, referring to Posthumus, says:—
 
@@ -1626,7 +1626,7 @@ says:—"Why will you mew her?"
    When the wing or tail feathers of a hawk were dropped, forced out, or
 broken, by any accident, it was usual to supply or repair as many as
 were deficient or damaged, an operation called "to imp <span
-id="fr_242"></span>[1](#fn_242) a hawk." Thus in Richard II. (ii. 1),
+id="fr_242"></span>[1](#fn_242) a hawk." Thus in Richard II. (ii. 1.md),
 Northumberland says:—
 
 <div style="margin-left: 32px">
@@ -1646,7 +1646,7 @@ New feathers to the broken wings of time."</span>
 </div>
 
    Hawking was sometimes called birding. <span
-id="fr_243"></span>[2](#fn_243) In the "Merry Wives of Windsor," (iii.
+id="fr_243"></span>[2](#fn_243.md) In the "Merry Wives of Windsor," (iii.
 3), Master Page says:—"I do invite you to-morrow morning to my house to
 breakfast; after, we'll a-birding together, I have a fine hawk for the
 bush." In the same play (iii. 5), Dame Quickly, speaking of Mistress
@@ -1661,12 +1661,12 @@ dropped in his path, says
 <div style="margin-left: 32px">
 
 <span class="small">"And with what wing the staniel <span
-id="fr_244"></span>[3](#fn_244) checks at it."</span>
+id="fr_244"></span>[3](#fn_244.md) checks at it."</span>
 
 </div>
 
 —staniel being a corruption of stangdall, a name for the kestrel
-hawk. <span id="fr_245"></span>[4](#fn_245) "Gouts" is the technical
+hawk. <span id="fr_245"></span>[4](#fn_245.md) "Gouts" is the technical
 term for the spots on some parts of the plumage of a hawk, and perhaps
 Shakspeare uses the word in allusion to a phrase in heraldry. Macbeth
 (ii. 1), speaking of the dagger, says:—"I see thee still, and on thy
@@ -1681,10 +1681,10 @@ but mad north-north-west; when the wind is southerly, I know a hawk from
 a handsaw;" handsaw being a corruption of "heronshaw," or "hernsew,"
 which is still used, in the provincial dialects, for a heron. In Suffolk
 and Norfolk it is pronounced "harnsa," from which to "handsaw," is but a
-single step. <span id="fr_246"></span>[1](#fn_246) Shakespeare here
+single step. <span id="fr_246"></span>[1](#fn_246.md) Shakespeare here
 alludes to a proverbial saying, "He knows not a hawk from a
-handsaw." <span id="fr_247"></span>[2](#fn_247) Mr J. C. Heath <span
-id="fr_248"></span>[3](#fn_248) explains the passage thus: "The
+handsaw." <span id="fr_247"></span>[2](#fn_247.md) Mr J. C. Heath <span
+id="fr_248"></span>[3](#fn_248.md) explains the passage thus: "The
 expression obviously refers to the sport of hawking. Most birds,
 especially one of heavy flight like the heron, when roused by the
 falconer or his dog, would fly down or with the wind, in order to
@@ -1710,12 +1710,12 @@ loose woman, as "Merry Wives of Windsor" (iii. 3):—
 <div style="margin-left: 32px">
 
 <span class="small">                             "Some jay of Italy  
-Whose mother was her painting, <span id="fr_249"></span>[4](#fn_249)
+Whose mother was her painting, <span id="fr_249"></span>[4](#fn_249.md)
 hath betray’d him."</span>
 
 </div>
 
-   *Kestrel*.—A hawk <span id="fr_250"></span>[5](#fn_250) of a base
+   *Kestrel*.—A hawk <span id="fr_250"></span>[5](#fn_250.md) of a base
 unserviceable breed, and therefore used by Spenser in his "Faerie Queen"
 (II. iii. 4), to signify base
 
@@ -1730,18 +1730,18 @@ unserviceable breed, and therefore used by Spenser in his "Faerie Queen"
 <span id="page_123">p. 123</span>
 
 <span class="contnote">\[paragraph continues\]</span> By some <span
-id="fr_251"></span>[1](#fn_251) it is derived from "coystril," a knave
+id="fr_251"></span>[1](#fn_251.md) it is derived from "coystril," a knave
 or peasant, from being the hawk formerly used by persons of inferior
 rank. Thus, in "Twelfth Night" (i. 3), we find "coystrill," and in
 "Pericles" (iv. 6), "coystrel." The name kestrel, says Singer, <span
-id="fr_252"></span>[2](#fn_252) for an inferior kind of hawk, was
+id="fr_252"></span>[2](#fn_252.md) for an inferior kind of hawk, was
 evidently a corruption of the French quercelle or quercerelle, and
 originally had no connection with coystril, though in later times they
 may have been confounded. Holinshed <span
-id="fr_253"></span>[3](#fn_253) classes coisterels with lacqueys and
+id="fr_253"></span>[3](#fn_253.md) classes coisterels with lacqueys and
 women, the unwarlike attendants on an army. The term was also given as a
 nick-name to the emissaries employed by the kings of England in their
-French wars. Dyce <span id="fr_254"></span>[4](#fn_254) also considers
+French wars. Dyce <span id="fr_254"></span>[4](#fn_254.md) also considers
 kestrel distinct from coistrel.
 
    *Kingfisher*.—It was a common belief in days gone by, that during the
@@ -1789,7 +1789,7 @@ blew. Marlow, in his "Jew of Malta," (i. 1), says—
 
    Occasionally one may still see this bird hung up in cottages, a
 remnant, no doubt, of this old superstition. <span
-id="fr_255"></span>[5](#fn_255)
+id="fr_255"></span>[5](#fn_255.md)
 
 <span id="page_124">p. 124</span>
 
@@ -1811,7 +1811,7 @@ In "Cymbeline," too (i. 2), Imogen says—
 
 </div>
 
-puttock, <span id="fr_256"></span>[1](#fn_256) here, being a synonym
+puttock, <span id="fr_256"></span>[1](#fn_256.md) here, being a synonym
 sometimes applied to the kite. Formerly the kite became a term of
 reproach from its ignoble habits. Thus in "Antony and Cleopatra" (iii.
 13), Antony exclaims, "You kite," and King Lear (i. 4), says to Goneril,
@@ -1821,8 +1821,8 @@ this bird is noticed in "Winter's Tale" (iv. 3), where Autolycus
 says:—"My traffic is sheets; when the kite builds, look to lesser
 linen"—meaning that his practice was to steal sheets; leaving the
 smaller linen to be carried away by the kites, who will occasionally
-carry it off to line their nests. <span id="fr_257"></span>[2](#fn_257)
-Mr Dyce <span id="fr_258"></span>[3](#fn_258) quotes the following
+carry it off to line their nests. <span id="fr_257"></span>[2](#fn_257.md)
+Mr Dyce <span id="fr_258"></span>[3](#fn_258.md) quotes the following
 remarks of Mr Peck on this passage—"Autolycus here gives us to
 understand that he is a thief of the first class. This he explains by an
 allusion to an odd vulgar notion. The common people many of them, think
@@ -1850,7 +1850,7 @@ head."</span>
 <span id="page_125">p. 125</span>
 
    It was, therefore, regarded as the symbol of a forward fellow.
-Webster <span id="fr_259"></span>[1](#fn_259) in the "White Devil"
+Webster <span id="fr_259"></span>[1](#fn_259.md) in the "White Devil"
 (1859, p. 13)—
 
 <div style="margin-left: 32px">
@@ -1903,7 +1903,7 @@ Jonson's "Underwoods" (lviii.) we are told—
    Through thus alluring intruders from its nest, the lapwing became a
 symbol of insincerity; and hence originated the proverb, "The lapwing
 cries tongue from heart;" or, "The lapwing cries most, farthest from her
-nest." <span id="fr_260"></span>[2](#fn_260)
+nest." <span id="fr_260"></span>[2](#fn_260.md)
 
    *Lark*.—Shakespeare has bequeathed to us many exquisite passages
 referring to the lark, full of the most sublime pathos and lofty
@@ -1918,7 +1918,7 @@ described in "Venus and Adonis," thus—
  From his moist cabinet mounts up on high,  
  And wakes the morning, from whose silver breast  
  The sun ariseth in his majesty." <span
-id="fr_261"></span>[3](#fn_261)</span>
+id="fr_261"></span>[3](#fn_261.md)</span>
 
 </div>
 
@@ -1982,7 +1982,7 @@ Skelton's "Why Come Ye not to Court?" a satire on Wolsey—
 </div>
 
    The words "tirra-lyra" ("Winter's Tale," iv. 3), are a fanciful
-combination of sounds, <span id="fr_262"></span>[1](#fn_262) meant to
+combination of sounds, <span id="fr_262"></span>[1](#fn_262.md) meant to
 imitate the lark's note, borrowed, says Nares, from the French
 tire-lire. Browne, "British Pastorals" (bk. i. song 4), makes it
 teery-leery. In
@@ -2002,7 +2002,7 @@ shepherds at the birth of Christ, which contains the expression—
 
 </div>
 
-   In Scotland <span id="fr_263"></span>[1](#fn_263) and the north of
+   In Scotland <span id="fr_263"></span>[1](#fn_263.md) and the north of
 England, the peasantry say that if one is desirous of knowing what the
 lark says, he must lie down on his back in the field and listen, and he
 will then hear it say:—
@@ -2021,7 +2021,7 @@ will then hear it say:—
    *Magpie*.—It was formerly known as magot-pie, probably from the
 French magot, a monkey, because the bird chatters and plays droll tricks
 like a monkey. It has generally been regarded as a mysterious bird, and
-regarded with superstitious awe, <span id="fr_264"></span>[2](#fn_264)
+regarded with superstitious awe, <span id="fr_264"></span>[2](#fn_264.md)
 and is thus alluded to in "Macbeth," (iii. 4):—
 
 <div style="margin-left: 32px">
@@ -2040,7 +2040,7 @@ The secret’st man of blood."</span>
 
 </div>
 
-   There are numerous rhymes <span id="fr_265"></span>[2](#fn_264)
+   There are numerous rhymes <span id="fr_265"></span>[2](#fn_264.md)
 relating to the magpie, of which we subjoin as a specimen one prevalent
 in the north of England:—
 
@@ -2064,7 +2064,7 @@ consists in making the same sign by crossing the thumbs. It is a common
 notion in Scotland that magpies flying near the windows of a house
 portend a speedy death to one of its inmates. The superstitions
 associated with the magpie are not confined to this country, for in
-Sweden <span id="fr_266"></span>[1](#fn_265) it is considered the
+Sweden <span id="fr_266"></span>[1](#fn_265.md) it is considered the
 witch's bird, belonging to the evil one and the other powers of night.
 In Denmark, when a magpie perches on a house, it is regarded as a sign
 that strangers are coming.
@@ -2083,7 +2083,7 @@ Even in the force and road of casualty."</span>
 
 </div>
 
-   Forster <span id="fr_267"></span>[2](#fn_266) says that the
+   Forster <span id="fr_267"></span>[2](#fn_266.md) says that the
 circumstance of this bird's nest being built so close to the habitations
 of man indicates that it has long enjoyed freedom from molestation.
 There is a popular rhyme still current in the north of England:—
@@ -2138,11 +2138,11 @@ of—
 
 </div>
 
-   Sir Thomas Browne <span id="fr_268"></span>[1](#fn_267) asks "Whether
+   Sir Thomas Browne <span id="fr_268"></span>[1](#fn_267.md) asks "Whether
 the nightingale's sitting with her breast against a thorn, be any more
 than that she placeth some prickles on the outside of her nest, or
 roosteth in thorny prickly places, where serpents may least approach
-her." <span id="fr_269"></span>[2](#fn_268) In the "Zoologist" for 1862
+her." <span id="fr_269"></span>[2](#fn_268.md) In the "Zoologist" for 1862
 the Rev. A. C. Smith mentions "the discovery, on two occasions, of a
 strong thorn projecting upwards in the centre of the nightingale's
 nest." Another notion is that the nightingale never sings by day; and
@@ -2159,9 +2159,9 @@ No better a musician than the wren."</span>
 
 Such, however, is not the case, for this bird often sings as sweetly in
 the day as at night-time. There is an old superstition <span
-id="fr_270"></span>[3](#fn_269) that the nightingale sings all night, to
+id="fr_270"></span>[3](#fn_269.md) that the nightingale sings all night, to
 keep itself awake, lest the glow-worm should devour her. The classical
-fable <span id="fr_271"></span>[4](#fn_270) of the unhappy Philomela
+fable <span id="fr_271"></span>[4](#fn_270.md) of the unhappy Philomela
 turned into a nightingale, when her sister Progne was changed to a
 swallow, has doubtless given rise to this bird being spoken of as she;
 thus Juliet tells Romeo (iii. 5),—
@@ -2179,7 +2179,7 @@ thus Juliet tells Romeo (iii. 5),—
 
 <span class="contnote">\[paragraph continues\]</span> Sometimes the
 nightingale is termed Philomel, as in "Midsummer Night's Dream" (ii. 2,
-song) <span id="fr_272"></span>[1](#fn_271)—
+song) <span id="fr_272"></span>[1](#fn_271.md)—
 
 <div style="margin-left: 32px">
 
@@ -2188,7 +2188,7 @@ song) <span id="fr_272"></span>[1](#fn_271)—
 
 </div>
 
-   *Osprey*.—This bird, <span id="fr_273"></span>[2](#fn_272) also
+   *Osprey*.—This bird, <span id="fr_273"></span>[2](#fn_272.md) also
 called the sea-eagle, besides having a destructive power of devouring
 fish, was supposed formerly to have a fascinating influence, both which
 qualities are alluded to in the following passage in "Coriolanus" (iv.
@@ -2217,13 +2217,13 @@ breeds,
 </div>
 
    *Ostrich*.—The extraordinary digestion of this bird <span
-id="fr_274"></span>[3](#fn_273) is said to be shown by its swallowing
-iron and other hard substances. <span id="fr_275"></span>[4](#fn_274) In
+id="fr_274"></span>[3](#fn_273.md) is said to be shown by its swallowing
+iron and other hard substances. <span id="fr_275"></span>[4](#fn_274.md) In
 2 Henry VI. (iv. 10), the rebel Cade says to Alexander Iden—"Ah villain,
 thou wilt betray me, and get a thousand crowns of the .king by carrying
 my head to him; but I'll make thee eat iron like an ostrich, and swallow
 my sword like a great pin, ere thou and I part." Cuvier, <span
-id="fr_276"></span>[5](#fn_275) speaking of this bird, says, "It is yet
+id="fr_276"></span>[5](#fn_275.md) speaking of this bird, says, "It is yet
 so voracious, and its senses of taste and smell are so obtuse, that it
 devours animal and mineral substances indiscriminately, until its
 enormous stomach is completely full. It swallows without any choice, and
@@ -2234,7 +2234,7 @@ indigestible,
 <span id="page_131">p. 131</span>
 
 and deleterious." Sir Thomas Browne, <span
-id="fr_277"></span>[1](#fn_276) writing on this subject, says, "The
+id="fr_277"></span>[1](#fn_276.md) writing on this subject, says, "The
 ground of this conceit in its swallowing down fragments of iron, which
 men observing, by a forward illation, have therefore conceived it
 digesteth them, which is an inference, not to be admitted, as being a
@@ -2252,18 +2252,18 @@ earliest period it has been considered a bird of ill-omen, and Pliny
 tells us how, on one occasion, even Rome itself underwent a lustration,
 because one of them strayed into the Capitol. He represents it also as a
 funereal bird, a monster of the night, the very abomination of human
-kind. Virgil <span id="fr_278"></span>[2](#fn_277) describes its
+kind. Virgil <span id="fr_278"></span>[2](#fn_277.md) describes its
 death-howl from the top of the temple by night, a circumstance
 introduced as a precursor of Dido's death. Ovid, <span
-id="fr_279"></span>[3](#fn_278) too, constantly speaks of this bird's
+id="fr_279"></span>[3](#fn_278.md) too, constantly speaks of this bird's
 presence as an evil omen; and indeed the same notions respecting it may
 be found among the writings of most of the ancient poets. This
 superstitious awe in which the owl is held may be owing to its peculiar
 look, its occasional and uncertain appearance, its loud and dismal
-cry, <span id="fr_280"></span>[4](#fn_279) as well as to its being the
-bird of night. <span id="fr_281"></span>[5](#fn_280) It has generally
+cry, <span id="fr_280"></span>[4](#fn_279.md) as well as to its being the
+bird of night. <span id="fr_281"></span>[5](#fn_280.md) It has generally
 been associated with calamities and deeds of darkness. <span
-id="fr_282"></span>[6](#fn_281) Thus its weird shriek pierces the ear of
+id="fr_282"></span>[6](#fn_281.md) Thus its weird shriek pierces the ear of
 Lady Macbeth (ii. 2), while the murder is being committed—
 
 <div style="margin-left: 32px">
@@ -2305,7 +2305,7 @@ sign."</span>
 
 </div>
 
-Its cries <span id="fr_283"></span>[1](#fn_282) have been supposed to
+Its cries <span id="fr_283"></span>[1](#fn_282.md) have been supposed to
 presage death, and, to quote the words of the "Spectator," "a
 screech-owl at mid: night has alarmed a family more than a band of
 robbers." Thus, in "A Midsummer Night's Dream" (v. 1), we are told how—
@@ -2330,7 +2330,7 @@ death?"</span>
 </div>
 
 The owl by day is considered by some equally ominous, as in "3 Henry
-VI." (v. 4) <span id="fr_284"></span>[1](#fn_282)—
+VI." (v. 4) <span id="fr_284"></span>[1](#fn_282.md)—
 
 <div style="margin-left: 32px">
 
@@ -2355,14 +2355,14 @@ If he arise, is mock’d and wonder’d at."</span>
 
 Considering, however, the abhorrence with which the owl is generally
 regarded, it is not surprising that the "owlet's wing" <span
-id="fr_285"></span>[2](#fn_283)
+id="fr_285"></span>[2](#fn_283.md)
 
 <span id="page_133">p. 133</span>
 
 should form an ingredient of the cauldron in which the witches in
 "Macbeth" (iv. 1), prepared their "charm of powerful trouble." The owl
 is, too, in all probability, represented by Shakespeare as a
-witch, <span id="fr_286"></span>[1](#fn_284) a companion of the fairies
+witch, <span id="fr_286"></span>[1](#fn_284.md) a companion of the fairies
 in their moonlight gambols. In "Comedy of Errors" (ii. 2), Dromio of
 Syracuse says—
 
@@ -2384,7 +2384,7 @@ an unluckie kind of bird (as they of olde time said) which sucked out
 the blood of infants lying in their cradles; a witch, that changeth the
 favour of children; an hagge or fairie." So in the "London Prodigal," a
 comedy, 1605:—"Soul, I think I am sure crossed or witch’d with an
-owl." <span id="fr_287"></span>[2](#fn_285) In the "Tempest" (v. 1),
+owl." <span id="fr_287"></span>[2](#fn_285) In the "Tempest" (v. 1.md),
 Shakespeare introduces Ariel as saying—
 
 <div style="margin-left: 32px">
@@ -2395,13 +2395,13 @@ Shakespeare introduces Ariel as saying—
 
 </div>
 
-Ariel, <span id="fr_288"></span>[3](#fn_286) who sucks honey for luxury
+Ariel, <span id="fr_288"></span>[3](#fn_286.md) who sucks honey for luxury
 in the cowslip's bell, retreats thither for quiet when owls are abroad
 and screeching. According to an old legend, the owl was originally a
 baker's daughter, to which allusion is made in "Hamlet" (iv. 5), where
 Ophelia exclaims—"They say the owl was a baker's daughter. Lord, we know
 what we are, but know not what we may be." Douce <span
-id="fr_289"></span>[4](#fn_287) says the following story was current
+id="fr_289"></span>[4](#fn_287.md) says the following story was current
 among the Gloucestershire peasantry:—"Our Saviour went into a baker's
 shop where they were baking, and asked for some
 
@@ -2416,7 +2416,7 @@ cried out, 'Heugh, heugh, heugh!' which owl-like noise probably induced
 our Saviour to transform her into that bird for her wickedness." Another
 version of the same story, as formerly known in Herefordshire,
 substitutes a fairy in the place of our Saviour. Similar legends are
-found on the Continent. <span id="fr_290"></span>[1](#fn_288)
+found on the Continent. <span id="fr_290"></span>[1](#fn_288.md)
 
    *Parrot*.—The "popinjay," in "1 Henry IV." (i. 3), is another name
 for the parrot—from the Spanish, papagayo—a term which occurs in
@@ -2437,7 +2437,7 @@ anyone was offended, it was the standing joke of the wise owner to say,
 find in "Comedy of Errors," (iv. 4), where Dromio of Ephesus
 says:—"Prophesy like the parrot, *beware the rope's end*." To this
 Butler hints, where speaking of Ralpho's skill in augury, he says <span
-id="fr_291"></span>[2](#fn_289):—
+id="fr_291"></span>[2](#fn_289.md):—
 
 <div style="margin-left: 32px">
 
@@ -2450,7 +2450,7 @@ id="fr_291"></span>[2](#fn_289):—
 
    The rewards given to parrots to encourage them to speak are mentioned
 in "Troilus and Cressida," (v. 2) <span
-id="fr_292"></span>[3](#fn_290)—"The parrot will not do more for an
+id="fr_292"></span>[3](#fn_290.md)—"The parrot will not do more for an
 almond." Hence, a proverb for the greatest temptation that could be put
 before a man
 
@@ -2468,21 +2468,21 @@ in the much disputed passage in "Hamlet," (iii. 2):—
 <span class="small">"For thou dost know, O Damon dear,  
    This realm dismantled was  
  Of Jove himself; and now reigns here  
-   A very, very—peacock." <span id="fr_293"></span>[1](#fn_291)</span>
+   A very, very—peacock." <span id="fr_293"></span>[1](#fn_291.md)</span>
 
 </div>
 
    The third and fourth folios reads *pajock*, <span
-id="fr_294"></span>[2](#fn_292) the other editions have "paiock,"
+id="fr_294"></span>[2](#fn_292.md) the other editions have "paiock,"
 "paiocke," or "pajocke," and in the later quartos the word was changed
 to "paicock" and "pecock," whence Pope printed peacock.
 
    Dyce says that in Scotland the peacock is called the pea-jock. Some
 have proposed to read paddock, and in the last scene Hamlet bestows this
 opprobrious name upon the king. It has been also suggested to read
-puttock, a kite. <span id="fr_295"></span>[3](#fn_293) The peacock has
+puttock, a kite. <span id="fr_295"></span>[3](#fn_293.md) The peacock has
 also been regarded as the emblem of pride and arrogance, as in 1 "Henry
-VI." (iii. 3) <span id="fr_296"></span>[4](#fn_294):—
+VI." (iii. 3) <span id="fr_296"></span>[4](#fn_294.md):—
 
 <div style="margin-left: 32px">
 
@@ -2516,7 +2516,7 @@ filial impiety (iii. 4), the king says:—
 <span class="small">"Is it the fashion, that discarded fathers  
  Should have thus little mercy on their flesh?  
  Judicious punishment! ’Twas this flesh begot  
- Those pelican daughters." <span id="fr_297"></span>[1](#fn_295)</span>
+ Those pelican daughters." <span id="fr_297"></span>[1](#fn_295.md)</span>
 
 </div>
 
@@ -2524,7 +2524,7 @@ filial impiety (iii. 4), the king says:—
 one, but this is an error. Shakespeare, says Mr Harting, "was content to
 accept the story as he found it, and to apply it metaphorically as the
 occasion required." Mr Houghton, in an interesting letter to "Land and
-Water " <span id="fr_298"></span>[2](#fn_296) on this subject, remarks
+Water " <span id="fr_298"></span>[2](#fn_296.md) on this subject, remarks
 that the Egyptians believed in a bird feeding its young with its blood,
 and this bird is none other than the vulture. He goes on to say that the
 fable of the pelican doubtless originated in the Patristic annotations
@@ -2539,9 +2539,9 @@ death for the space of three days. At length, however, it is said that
 the mother inflicts a severe wound on herself, pouring the flowing blood
 over the dead young ones, which instantly brings them to life." To the
 same effect write Eustathius, Isidorus, Epiphanius, and a host of other
-writers. <span id="fr_299"></span>[3](#fn_297)
+writers. <span id="fr_299"></span>[3](#fn_297.md)
 
-   According to another idea <span id="fr_300"></span>[4](#fn_298)
+   According to another idea <span id="fr_300"></span>[4](#fn_298.md)
 pelicans are hatched dead, but the cock pelican then wounds his breast,
 and lets one drop of blood fall upon each, and this quickens them.
 
@@ -2576,9 +2576,9 @@ Again, in "3 Henry VI." (i. 4), the Duke of York exclaims—
 Once more, in "Henry VI." (iv. 7), Sir William Lucy speaking of Talbot
 and those slain with him, predicts that "from their ashes shall be
 rear’d a phœnix that shall make all France afeard." <span
-id="fr_301"></span>[1](#fn_299)
+id="fr_301"></span>[1](#fn_299.md)
 
-   Sir Thomas Browne <span id="fr_302"></span>[2](#fn_300) tells us that
+   Sir Thomas Browne <span id="fr_302"></span>[2](#fn_300.md) tells us that
 there is but one phœnix in the world, "which after many hundred years
 burns herself, and from the ashes thereof ariseth up another." From the
 very earliest times there have been countless traditions respecting this
@@ -2598,7 +2598,7 @@ Turtle," it is said—
    Pliny says of this bird, "Howbeit, I cannot tell what to make of him;
 and first of all, whether it be a tale or no, that there is never but
 one of them in the whole world, and the same not commonly seen."
-Malone <span id="fr_303"></span>[3](#fn_301) quotes from Lyly's "Euphues
+Malone <span id="fr_303"></span>[3](#fn_301.md) quotes from Lyly's "Euphues
 and his England" (p. 312, ed. Arber). "For as
 
 <span id="page_138">p. 138</span>
@@ -2614,7 +2614,7 @@ pigeon-post which the old monks of the convent established. The building
 has crumbled into ruins long ago by the lapse of time, but the bird
 messengers of Bagdad became celebrated as far westward as Greece, and
 were a regular commercial institution between the distant parts of Asia
-Minor, Arabia, and the east. <span id="fr_304"></span>[1](#fn_302) In
+Minor, Arabia, and the east. <span id="fr_304"></span>[1](#fn_302.md) In
 ancient Egypt also the carrier breed was brought to great perfection,
 and, between the cities of the Nile and the Red Sea, the old traders
 used to send word of their caravans to each other by letters written on
@@ -2624,11 +2624,11 @@ news from heaven! Marcus, the post is come. Sirrah, What tidings? have
 you any letters?" From the same play we also learn that it was also
 customary to give a pair of pigeons as a present. The Clown says to
 Saturninus (iv. 4), "I have brought you a letter and a couple of pigeons
-here." <span id="fr_305"></span>[2](#fn_303)
+here." <span id="fr_305"></span>[2](#fn_303.md)
 
 In "Romeo and Juliet" (i. 3), the dove is used synonymously for pigeon;
 where the nurse is represented as "sitting in the sun under the
-dove-house wall." <span id="fr_306"></span>[3](#fn_304)\* Mr Darwin in
+dove-house wall." <span id="fr_306"></span>[3](#fn_304.md)\* Mr Darwin in
 his "Variation of Animals and Plants under Domestication" (i. pp. 204,
 205), has shown that from the very earliest times pigeons have been kept
 in a domesticated state. He says—"The earliest record of pigeons in a
@@ -2650,14 +2650,14 @@ has been proverbial from time immemorial; allusions to which occur in
 
    *Quail*.—The quail was thought to be an amorous bird; and hence was
 metaphorically used to denote people of a loose character. <span
-id="fr_307"></span>[1](#fn_305) In this sense it is generally understood
+id="fr_307"></span>[1](#fn_305.md) In this sense it is generally understood
 in "Troilus and Cressida" (v. 1), "Here's Agamemnon, an honest fellow
 enough, and one that loves quails." Mr Harting, <span
-id="fr_308"></span>[2](#fn_306) however, thinks that the passage just
+id="fr_308"></span>[2](#fn_306.md) however, thinks that the passage just
 quoted refers to the practice formerly prevalent of keeping quails, and
 making them fight like game-cocks. The context of the passage would seem
 to sanction the former meaning. Quail fighting <span
-id="fr_309"></span>[3](#fn_307) is spoken of in "Antony and Cleopatra"
+id="fr_309"></span>[3](#fn_307.md) is spoken of in "Antony and Cleopatra"
 (ii. 3), where Antony, speaking of the superiority of Cæsar's fortunes
 to his own, says—
 
@@ -2673,7 +2673,7 @@ Beat mine, inhoop’d, at odds."</span>
    It appears that cocks as well as quails were sometimes made to fight
 within a broad hoop—hence the term inhoop’d—to keep them from quitting
 each other. Quail-fights were well known among the ancients, and
-especially at Athens. <span id="fr_310"></span>[4](#fn_308) Julius
+especially at Athens. <span id="fr_310"></span>[4](#fn_308.md) Julius
 Pollux relates that a circle was made, in which the birds were placed,
 and he whose quail was driven out of this circle lost the stake, which
 was sometimes money, and occasionally the quails themselves. Another
@@ -2685,7 +2685,7 @@ quail bore this operation without flinching, his master
 
 gained the stake, but lost it if he ran away. Some doubt exists as to
 whether quail-fighting prevailed in the time of Shakespeare. At the
-present day <span id="fr_311"></span>[1](#fn_309) the Sumatrans practise
+present day <span id="fr_311"></span>[1](#fn_309.md) the Sumatrans practise
 these quail combats, and this pastime is common in some parts of Italy,
 and also in China. Mr Douce has given a curious print, from an elegant
 Chinese miniature painting, which represents some ladies engaged at this
@@ -2711,17 +2711,17 @@ And in "Julius Cæsar" (v. 1), Cassius tells us how ravens
 <div style="margin-left: 32px">
 
 <span class="small">"Fly o’er our heads and downward look on us,  
- As we were sickly prey." <span id="fr_312"></span>[2](#fn_310)</span>
+ As we were sickly prey." <span id="fr_312"></span>[2](#fn_310.md)</span>
 
 </div>
 
    It seems that the superstitious dread <span
-id="fr_313"></span>[3](#fn_311) attaching to this bird has chiefly
+id="fr_313"></span>[3](#fn_311.md) attaching to this bird has chiefly
 arisen from its supposed longevity, <span
-id="fr_314"></span>[4](#fn_312) and its frequent mention and agency in
+id="fr_314"></span>[4](#fn_312.md) and its frequent mention and agency in
 Holy Writ. By the Romans it was consecrated to Apollo, and was believed
 to have a prophetic knowledge—a notion still very prevalent. Thus its
-supposed faculty <span id="fr_315"></span>[5](#fn_313) of "smelling
+supposed faculty <span id="fr_315"></span>[5](#fn_313.md) of "smelling
 death" still renders its presence, or even its voice, ominous. Othello
 (iv. i) exclaims—
 
@@ -2777,9 +2777,9 @@ v. st. 42), illustrates the same idea—
    In "Much Ado About Nothing" (ii. 3), the "night-raven" is mentioned.
 Benedick observes to himself—"I had as lief have heard the night-raven,
 come what plague could have come after it." <span
-id="fr_316"></span>[1](#fn_314)\* This inauspicious bird, according to
+id="fr_316"></span>[1](#fn_314.md)\* This inauspicious bird, according to
 Steevens, is the owl; but this conjecture is evidently wrong,
-"being <span id="fr_317"></span>[2](#fn_315) at variance with sundry
+"being <span id="fr_317"></span>[2](#fn_315.md) at variance with sundry
 passages in our early writers, who make a distinction between it and the
 night-raven."
 
@@ -2788,7 +2788,7 @@ speaks of "the dismal cry of night-ravens, . . . . and the fearefull
 sound of schriek owles." Cotgrave regarded the "night-crow" and the
 "night-raven" as synonymous; and Mr Yarrell considered them only
 different names for the night-heron. <span
-id="fr_318"></span>[3](#fn_316) In "3 Henry VI." (v. 6), King Henry
+id="fr_318"></span>[3](#fn_316) In "3 Henry VI." (v. 6.md), King Henry
 says—
 
 <div style="margin-left: 32px">
@@ -2821,7 +2821,7 @@ Shakespeare alludes in "Titus Andronicus" (ii. 3)—
 </div>
 
 "It was supposed that when the raven," says Mr Harting, <span
-id="fr_319"></span>[1](#fn_317) "saw its young ones newly hatched, and
+id="fr_319"></span>[1](#fn_317.md) "saw its young ones newly hatched, and
 covered with down, it conceived such an aversion that it forsook them,
 and did not return to the nest until a darker plumage had shown itself."
 To this belief the commentators consider the Psalmist refers, when he
@@ -2847,7 +2847,7 @@ Juliet exclaims—
 <span class="small">"O serpent heart, hid with a flowering face,  
  Did ever dragon keep so fair a cave?  
  Beautiful tyrant! fiend angelical!  
- Dove-feather’d raven!" <span id="fr_320"></span>[2](#fn_318)</span>
+ Dove-feather’d raven!" <span id="fr_320"></span>[2](#fn_318.md)</span>
 
 </div>
 
@@ -2868,7 +2868,7 @@ Caliban says
 </div>
 
    *Robin Redbreast*.—According to a pretty notion, <span
-id="fr_321"></span>[1](#fn_319) this little bird is said to cover with
+id="fr_321"></span>[1](#fn_319.md) this little bird is said to cover with
 leaves any dead body it may chance to find unburied; a belief which
 probably in a great measure originated in the well-known ballad of the
 "Children in the Wood," although it seems to have been known previously.
@@ -2900,7 +2900,7 @@ To winter-ground thy corse."</span>
 
 </div>
 
-the "ruddock" <span id="fr_322"></span>[2](#fn_320) being one of the old
+the "ruddock" <span id="fr_322"></span>[2](#fn_320.md) being one of the old
 names for the redbreast,
 
 <span id="page_144">p. 144</span>
@@ -2928,24 +2928,24 @@ to the same idea in "The White Devil" (1857. Edit. Dyce, p. 45),—
 
    *Rook*.—As an ominous bird this is mentioned in "Macbeth," (iii. 4).
 Formerly the nobles of England prided themselves in having a
-rookery <span id="fr_323"></span>[1](#fn_321) in the neighbourhood of
+rookery <span id="fr_323"></span>[1](#fn_321.md) in the neighbourhood of
 their castles, because rooks were regarded as "fowls of good omen." On
 this account no one was permitted to kill them, under severe penalties.
-When rooks desert a rookery <span id="fr_324"></span>[2](#fn_322) it is
+When rooks desert a rookery <span id="fr_324"></span>[2](#fn_322.md) it is
 said to foretell the downfall of the family on whose property it is. A
 Northumbrian saying informs us that the rooks left the rookery of
 Chipchase before the family of Reed left that place. There is also a
 notion that when rooks haunt a town or village "mortality is supposed to
 await its inhabitants, and if they feed in the street it shows that a
-storm is at hand." <span id="fr_325"></span>[3](#fn_323)
+storm is at hand." <span id="fr_325"></span>[3](#fn_323.md)
 
    The expression "bully-rook," in "Merry Wives of Windsor," (I. 3), in
 Shakespeare's time, says Mr Harting, <span
-id="fr_326"></span>[4](#fn_324) had the same meaning as "jolly-dog"
+id="fr_326"></span>[4](#fn_324.md) had the same meaning as "jolly-dog"
 now-a-days; but subsequently it became a term of reproach, meaning a
 cheating sharper. It has been suggested that the term derives its origin
 from the rook in the game of chess; but Douce <span
-id="fr_327"></span>[5](#fn_325) considers it very improbable that this
+id="fr_327"></span>[5](#fn_325.md) considers it very improbable that this
 noble game, "never the amusement of gamblers, should have been ransacked
 on this occasion."
 
@@ -2953,7 +2953,7 @@ on this occasion."
 
 <span id="page_145">p. 145</span>
 
-a foolish man. <span id="fr_328"></span>[1](#fn_326) In "Othello," (1.
+a foolish man. <span id="fr_328"></span>[1](#fn_326.md) In "Othello," (1.
 3), Iago, speaking of Roderigo, says:—
 
 <div style="margin-left: 32px">
@@ -2991,10 +2991,10 @@ Gascoigne also writes "The praise of Philip Sparrow."
    In "Measure for Measure," (iii. 2), Lucio, speaking of Angelo, the
 Deputy-Duke of Vienna, says:—"Sparrows must not build in his
 house-eaves, because they are lecherous." <span
-id="fr_329"></span>[2](#fn_327)
+id="fr_329"></span>[2](#fn_327.md)
 
    *Sparrow-hawk*.—A name formerly given to a young sparrow hawk was
-eyas-musket, <span id="fr_330"></span>[3](#fn_328) a term we find in
+eyas-musket, <span id="fr_330"></span>[3](#fn_328.md) a term we find in
 "Merry Wives of Windsor," (iii. 3):—
 
 <div style="margin-left: 32px">
@@ -3006,7 +3006,7 @@ eyas-musket, <span id="fr_330"></span>[3](#fn_328) a term we find in
 
    It was thus metaphorically used as a jocular phrase for a small
 child. As the invention, too, of fire-arms took place <span
-id="fr_331"></span>[4](#fn_329) at a time when hawking was in high
+id="fr_331"></span>[4](#fn_329.md) at a time when hawking was in high
 fashion, some of the new weapons were named after those birds, probably
 from
 
@@ -3131,20 +3131,20 @@ And once more in "Phœnix and the Turtle"—
 
 </div>
 
-   This superstition, says Douce, <span id="fr_332"></span>[1](#fn_330)
+   This superstition, says Douce, <span id="fr_332"></span>[1](#fn_330.md)
 "was credited by Plato, Chrysippus, Aristotle, Euripides, Philostratus,
 Cicero, Seneca, and Martial. Pliny, Ælian, and Athenæus, among the
 ancients, and Sir Thomas More, among the moderns, treat this opinion as
 a vulgar error. Luther believed in it." This notion probably originated
 in the swan being identified with Orpheus. Sir Thomas Browne <span
-id="fr_333"></span>[2](#fn_331) says we read that, "after his death
+id="fr_333"></span>[2](#fn_331.md) says we read that, "after his death
 Orpheus the musician became a swan. Thus was it the bird of Apollo, the
 bird of music by the Greeks." Alluding
 
 <span id="page_148">p. 148</span>
 
 to this piece of folk-lore, Carl Engel <span
-id="fr_334"></span>[1](#fn_332) remarks:—"Although our common swan does
+id="fr_334"></span>[1](#fn_332.md) remarks:—"Although our common swan does
 not produce sounds which might account for this tradition, it is a
 well-known fact that the wild swan (*Cygnus ferus*), also called the
 'whistling swan,' when on the wing emits a shrill tone, which, however
@@ -3152,11 +3152,11 @@ harsh it may sound if heard near, produces a pleasant effect when,
 emanating from a large flock high in the air, it is heard in a variety
 of pitches of sound, increasing or diminishing in loudness according to
 the movement of the birds and to the current of the air." Colonel
-Hawker <span id="fr_335"></span>[2](#fn_333) says, "The only note which
+Hawker <span id="fr_335"></span>[2](#fn_333.md) says, "The only note which
 I ever heard the wild swan make, in winter, is his well-known
-'whoop.'" <span id="fr_336"></span>[3](#fn_334)
+'whoop.'" <span id="fr_336"></span>[3](#fn_334.md)
 
-   *Tassel-Gentle*. <span id="fr_337"></span>[4](#fn_335)—The male of
+   *Tassel-Gentle*. <span id="fr_337"></span>[4](#fn_335.md)—The male of
 the Goshawk was so called on account of its tractable disposition, and
 the facility with which it was tamed. It occurs in "Romeo and Juliet"
 (ii. 2)—
@@ -3179,7 +3179,7 @@ Spenser, in his "Faerie Queene" (Bk. iii., iv. 49), says—
 
 This species of hawk was also commonly called a "falcon-gentle;" on
 account of "her familiar, courteous, disposition." <span
-id="fr_338"></span>[5](#fn_336)
+id="fr_338"></span>[5](#fn_336.md)
 
    *Turkey*.—This bird, so popular with us at Christmas-tide, is
 mentioned in "1 Henry IV." (ii. 1), where the First Carrier says:—"God's
@@ -3280,9 +3280,9 @@ because it is easily caught in springes or
 
 <span id="page_150">p. 150</span>
 
-nets. <span id="fr_339"></span>[1](#fn_337) Thus the popular phrase
+nets. <span id="fr_339"></span>[1](#fn_337.md) Thus the popular phrase
 "Springes to catch woodcocks "meant arts to entrap simplicity, <span
-id="fr_340"></span>[2](#fn_338) as in "Hamlet" (i. 3)—
+id="fr_340"></span>[2](#fn_338) as in "Hamlet" (i. 3.md)—
 
 <div style="margin-left: 32px">
 
@@ -3304,8 +3304,8 @@ And thrust your neck i’ th’ noose."</span>
 for we do not now hear of their being so easily caught. If they were
 sometimes said to be without brains, it was only founded on their
 character, certainly not on any examination of the fact." <span
-id="fr_341"></span>[3](#fn_339) Formerly, one of the terms for
-twilight <span id="fr_342"></span>[4](#fn_340) was "cock-shut time,"
+id="fr_341"></span>[3](#fn_339.md) Formerly, one of the terms for
+twilight <span id="fr_342"></span>[4](#fn_340.md) was "cock-shut time,"
 because the net in which cocks, *i.e.* woodcocks, were shut in during
 the twilight, was called a "cock-shut." It appears that a large net was
 stretched across a glade, and so suspended upon poles as to be easily
@@ -3372,55 +3372,55 @@ birds of Scotland—
    The epithet "poor" applied to the wren by Lady Macbeth was certainly
 appropriate in days gone by, when we recollect how it was cruelly hunted
 in Ireland on St Stephen's day—a practice which prevailed also in the
-Isle of Man. <span id="fr_343"></span>[1](#fn_341)
+Isle of Man. <span id="fr_343"></span>[1](#fn_341.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_151"></span>[93:1](flos08.htm#fr_151) See Harland and
+<span id="fn_151"></span>[93:1](flos08.htm#fr_151.md) See Harland and
 Wilkinson's "Lancashire Folk-Lore," 1867, pp. 116-I21; "Notes and
 Queries," I. S., viii. p. 224; "Penny Cyclopædia," vii. p. 206, article
 "Cirripeda."
 
-<span id="fn_152"></span>[93:2](flos08.htm#fr_152) Nares’ "Glossary,"
+<span id="fn_152"></span>[93:2](flos08.htm#fr_152.md) Nares’ "Glossary,"
 1872, i. p. 56.
 
-<span id="fn_153"></span>[93:3](flos08.htm#fr_153) See Harting's
+<span id="fn_153"></span>[93:3](flos08.htm#fr_153.md) See Harting's
 "Ornithology of Shakspeare," 1871, pp. 246–257.
 
-<span id="fn_154"></span>[94:1](flos08.htm#fr_154) "Ornithology of
+<span id="fn_154"></span>[94:1](flos08.htm#fr_154.md) "Ornithology of
 Shakspeare," 1871, p. 252.
 
-<span id="fn_155"></span>[94:2](flos08.htm#fr_155) See "Philosophical
+<span id="fn_155"></span>[94:2](flos08.htm#fr_155.md) See "Philosophical
 Transactions" for 1835; Darwin's "Monograph of the Cirrhipedia,"
 published by the Ray Society; A paper by Sir J. Emerson Tennent in
 "Notes and Queries," I. S., viii. p. 223; Brand's "Popular Antiquities,"
 1849, iii. pp. 361, 362; Douce's "Illustrations of Shakspeare," 1839, p.
 14.
 
-<span id="fn_156"></span>[95:1](flos08.htm#fr_156) See “Yarrell's "Hist.
+<span id="fn_156"></span>[95:1](flos08.htm#fr_156.md) See “Yarrell's "Hist.
 of British Birds," 2d edition, i. p. 218. "Dialect of Leeds," 1862, p.
 329. In Hamlet (iii. 2), some modern editions read ouzle; the old
 editions all have weasel, which is now adopted.
 
-<span id="fn_157"></span>[95:2](flos08.htm#fr_157) Miss Baker's
+<span id="fn_157"></span>[95:2](flos08.htm#fr_157.md) Miss Baker's
 "Northamptonshire Glossary," 1854, i. 94. See Nares’ "Glossary," 1872,
 i. p. 124; and "Richard the Third," i. 1.
 
-<span id="fn_158"></span>[96:1](flos08.htm#fr_158) Harting's
+<span id="fn_158"></span>[96:1](flos08.htm#fr_158.md) Harting's
 "Ornithology of Shakespeare," p. 144; Halliwell-Phillipps "Handbook
 Index to Shakespeare," 1866, p. 187. The term finch, also, according to
 some may mean either the bullfinch or goldfinch.
 
-<span id="fn_159"></span>[96:2](flos08.htm#fr_159) See Yarrell's
+<span id="fn_159"></span>[96:2](flos08.htm#fr_159.md) See Yarrell's
 "History of British Birds," 2d ed., ii. p. 58.
 
-<span id="fn_160"></span>[96:3](flos08.htm#fr_160) Nares "Glossary," i.
+<span id="fn_160"></span>[96:3](flos08.htm#fr_160.md) Nares "Glossary," i.
 p. 156; Singer's "Shakespeare," 1875, v. p. 115; Dyce's "Glossary,"
 1876, p. 77.
 
-<span id="fn_161"></span>[96:4](flos08.htm#fr_161) Mr Dyce says that if
+<span id="fn_161"></span>[96:4](flos08.htm#fr_161.md) Mr Dyce says that if
 Dr Latham had been acquainted with the article "Chouette," in Cotgrave,
 he would not probably have suggested that Shakespeare meant here the
 lapwing or peewit. Some consider the magpie is meant. See
@@ -3428,73 +3428,73 @@ Halliwell-Phillipps, "Handbook Index to Shakespeare," 1866, p. 83.
 Professor Newton would read "russet-patted," or "red-legged," thinking
 that Shakespeare meant the chough.
 
-<span id="fn_162"></span>[96:5](flos08.htm#fr_162) "Glossary," i. p.
+<span id="fn_162"></span>[96:5](flos08.htm#fr_162.md) "Glossary," i. p.
 162. Singer's Notes to Shakespeare, 1875, v p. 42.
 
-<span id="fn_163"></span>[97:1](flos08.htm#fr_163) Massinger's Works,
+<span id="fn_163"></span>[97:1](flos08.htm#fr_163.md) Massinger's Works,
 1813, i., p. 281.
 
-<span id="fn_164"></span>[97:2](flos08.htm#fr_164) "Handbook Index to
+<span id="fn_164"></span>[97:2](flos08.htm#fr_164.md) "Handbook Index to
 Shakespeare," 1866, p. 86.
 
-<span id="fn_165"></span>[97:3](flos08.htm#fr_165) Miss Baker's
+<span id="fn_165"></span>[97:3](flos08.htm#fr_165.md) Miss Baker's
 "Northamptonshire Glossary," 1854, i., p. 116.
 
-<span id="fn_166"></span>[97:4](flos08.htm#fr_166) "Coriolanus," iv. 5;
+<span id="fn_166"></span>[97:4](flos08.htm#fr_166.md) "Coriolanus," iv. 5;
 "Troilus and Cressida," i. 2; "Much Ado about Nothing," ii. "Twelfth
 Night," iii. 4; "Love's Labour's Lost," v. 2, song; "1 Henry VI." ii. 4.
 
-<span id="fn_167"></span>[97:5](flos08.htm#fr_167) Swainson's "Weather
+<span id="fn_167"></span>[97:5](flos08.htm#fr_167.md) Swainson's "Weather
 Lore," 1873, p. 240.
 
-<span id="fn_168"></span>[98:1](flos08.htm#fr_168) Henderson's
+<span id="fn_168"></span>[98:1](flos08.htm#fr_168.md) Henderson's
 "Folk-lore of Northern Counties," 1879, p. 48.
 
-<span id="fn_169"></span>[98:2](flos08.htm#fr_169) See Douce's
+<span id="fn_169"></span>[98:2](flos08.htm#fr_169.md) See Douce's
 "Illustrations of Shakespeare," p. 438.
 
-<span id="fn_170"></span>[98:3](flos08.htm#fr_170) Douce's
+<span id="fn_170"></span>[98:3](flos08.htm#fr_170.md) Douce's
 "Illustrations of Shakespeare," 1839, p. 438.
 
-<span id="fn_171"></span>[98:4](flos08.htm#fr_171) See Brand's "Popular
+<span id="fn_171"></span>[98:4](flos08.htm#fr_171.md) See Brand's "Popular
 Antiquities," 1849, ii., pp. 51–57: Hampson's "Medii Œvi Kalendarium,"
 i., p. 84.
 
-<span id="fn_172"></span>[99:1](flos08.htm#fr_172) I. S., iii. p. 404.
+<span id="fn_172"></span>[99:1](flos08.htm#fr_172.md) I. S., iii. p. 404.
 
-<span id="fn_173"></span>[99:2](flos08.htm#fr_173) "Medii Œvi
+<span id="fn_173"></span>[99:2](flos08.htm#fr_173.md) "Medii Œvi
 Kalendarium," i. p. 85.
 
-<span id="fn_174"></span>[100:1](flos08.htm#fr_174) Roberts’ "Social
+<span id="fn_174"></span>[100:1](flos08.htm#fr_174.md) Roberts’ "Social
 History of Southern Counties of England," 1856, p. 421. See "British
 Popular Customs," 1876, p. 65.
 
-<span id="fn_175"></span>[100:2](flos08.htm#fr_175) Nares’ "Glossary,"
+<span id="fn_175"></span>[100:2](flos08.htm#fr_175.md) Nares’ "Glossary,"
 1872, i. p. 203.
 
-<span id="fn_176"></span>[100:3](flos08.htm#fr_176) Singer's
+<span id="fn_176"></span>[100:3](flos08.htm#fr_176.md) Singer's
 "Shakespeare," 1875, ix. p. 256. Halliwell-Phillipp's "Handbook Index to
 Shakespeare," p. 112.
 
-<span id="fn_177"></span>[101:1](flos08.htm#fr_177) Dyce's "Glossary to
+<span id="fn_177"></span>[101:1](flos08.htm#fr_177.md) Dyce's "Glossary to
 Shakespeare," p. 85.
 
-<span id="fn_178"></span>[101:2](flos08.htm#fr_178) "Illustrations of
+<span id="fn_178"></span>[101:2](flos08.htm#fr_178.md) "Illustrations of
 Shakespeare," 3839, p. 290.
 
-<span id="fn_179"></span>[101:3](flos08.htm#fr_179) "Ornithology of
+<span id="fn_179"></span>[101:3](flos08.htm#fr_179.md) "Ornithology of
 Shakespeare," p. 171.
 
-<span id="fn_180"></span>[101:4](flos08.htm#fr_180) It is also an
+<span id="fn_180"></span>[101:4](flos08.htm#fr_180.md) It is also an
 ale-house sign.
 
-<span id="fn_181"></span>[102:1](flos08.htm#fr_181) See Dyce's "Glossary
+<span id="fn_181"></span>[102:1](flos08.htm#fr_181.md) See Dyce's "Glossary
 to Shakespeare," p. 85.
 
-<span id="fn_182"></span>[102:2](flos08.htm#fr_182) See "Book of Days,"
+<span id="fn_182"></span>[102:2](flos08.htm#fr_182.md) See "Book of Days,"
 3863, i., p. 157.
 
-<span id="fn_183"></span>[102:3](flos08.htm#fr_183) In "King Lear" (iv.
+<span id="fn_183"></span>[102:3](flos08.htm#fr_183.md) In "King Lear" (iv.
 6), where Edgar says—
 
 <div style="margin-left: 32px">
@@ -3507,166 +3507,166 @@ to Shakespeare," p. 85.
 
 the word "cock" is an abbreviation for cock-boat.
 
-<span id="fn_184"></span>[102:4](flos08.htm#fr_184) For superstitions
+<span id="fn_184"></span>[102:4](flos08.htm#fr_184.md) For superstitions
 associated with this bird, see Brand's "Pop. Antiq.," 1849, iii., p.
 218.
 
-<span id="fn_185"></span>[102:5](flos08.htm#fr_185) "Ornithology of
+<span id="fn_185"></span>[102:5](flos08.htm#fr_185.md) "Ornithology of
 Shakespeare," p. 260.
 
-<span id="fn_186"></span>[103:1](flos08.htm#fr_186) See "Folk-Lore
+<span id="fn_186"></span>[103:1](flos08.htm#fr_186.md) See "Folk-Lore
 Record," 1879, i., p. 52; "Henderson's Folk-Lore of Northern Counties,"
 3879, pp. 25, 126, 277.
 
-<span id="fn_187"></span>[103:2](flos08.htm#fr_187) Nares’ "Glossary,"
+<span id="fn_187"></span>[103:2](flos08.htm#fr_187.md) Nares’ "Glossary,"
 i., p. 208.
 
-<span id="fn_188"></span>[104:1](flos08.htm#fr_188) Cf. "Henry IV.," iv.
+<span id="fn_188"></span>[104:1](flos08.htm#fr_188.md) Cf. "Henry IV.," iv.
 2.
 
-<span id="fn_189"></span>[104:2](flos08.htm#fr_189) Miss Baker's
+<span id="fn_189"></span>[104:2](flos08.htm#fr_189.md) Miss Baker's
 "Northamptonshire Glossary," ii., p. 161; Brand's "Popular Antiquities,"
 1849, iii., p. 393.
 
-<span id="fn_190"></span>[104:3](flos08.htm#fr_190) Cf. "Romeo and
+<span id="fn_190"></span>[104:3](flos08.htm#fr_190.md) Cf. "Romeo and
 Juliet," i. 5.
 
-<span id="fn_191"></span>[104:4](flos08.htm#fr_191) A cuckold being
+<span id="fn_191"></span>[104:4](flos08.htm#fr_191.md) A cuckold being
 called from the cuckoo, the note of that bird was supposed to
 prognosticate that destiny.—Nares’ "Glossary," i., p. 212.
 
-<span id="fn_192"></span>[105:1](flos08.htm#fr_192) Engel's "Musical
+<span id="fn_192"></span>[105:1](flos08.htm#fr_192.md) Engel's "Musical
 Myths and Facts," 1876, i., p. 9.
 
-<span id="fn_193"></span>[105:2](flos08.htm#fr_193) See Kelly's
+<span id="fn_193"></span>[105:2](flos08.htm#fr_193.md) See Kelly's
 "Indo-European Folk-Lore," 1863, p. 99; "English Folk-Lore," 1879, pp.
 55–62.
 
-<span id="fn_194"></span>[106:1](flos08.htm#fr_194) See Mary Howitt's
+<span id="fn_194"></span>[106:1](flos08.htm#fr_194.md) See Mary Howitt's
 "Pictorial Calendar of the Seasons," p. 155 Knight's "Pictorial
 Shakespeare," i., p. 225, 6.
 
-<span id="fn_195"></span>[106:2](flos08.htm#fr_195) Chambers's "Book of
+<span id="fn_195"></span>[106:2](flos08.htm#fr_195.md) Chambers's "Book of
 Days," i., p. 531.
 
-<span id="fn_196"></span>[107:1](flos08.htm#fr_196) See Brand's "Pop.
+<span id="fn_196"></span>[107:1](flos08.htm#fr_196.md) See Brand's "Pop.
 Antiq.," 1849, ii., p. 201.
 
-<span id="fn_197"></span>[107:2](flos08.htm#fr_197) "Asinaria," v. 1.
+<span id="fn_197"></span>[107:2](flos08.htm#fr_197.md) "Asinaria," v. 1.
 
-<span id="fn_198"></span>[107:3](flos08.htm#fr_198) Nares in his
+<span id="fn_198"></span>[107:3](flos08.htm#fr_198.md) Nares in his
 "Glossary" (i., p. 212) says—"Cuckold, perhaps, *quasi* cuckoo’d,
 *i.e.*, one served; *i.e.*, forced to bring up a brood that is not his
 own."
 
-<span id="fn_199"></span>[107:4](flos08.htm#fr_199) Singer's
+<span id="fn_199"></span>[107:4](flos08.htm#fr_199.md) Singer's
 "Shakespeare," 1875, ix., p. 294.
 
-<span id="fn_200"></span>[109:1](flos08.htm#fr_200) "Ornithology of
+<span id="fn_200"></span>[109:1](flos08.htm#fr_200.md) "Ornithology of
 Shakespeare," pp. 190, 191.
 
-<span id="fn_201"></span>[109:2](flos08.htm#fr_201) Sir W. Raleigh's
+<span id="fn_201"></span>[109:2](flos08.htm#fr_201.md) Sir W. Raleigh's
 "Hist. of the World," B. i. Pt. i. Chap. 6.
 
-<span id="fn_202"></span>[109:3](flos08.htm#fr_202) Strutt's "Sports and
+<span id="fn_202"></span>[109:3](flos08.htm#fr_202.md) Strutt's "Sports and
 Pastimes," 1876, p. 329.
 
-<span id="fn_203"></span>[109:4](flos08.htm#fr_203) There is an allusion
+<span id="fn_203"></span>[109:4](flos08.htm#fr_203.md) There is an allusion
 to the proverbial saying, "Brag is a good dog, but hold-fast is a
 better."
 
-<span id="fn_204"></span>[110:1](flos08.htm#fr_204) In the same scene we
+<span id="fn_204"></span>[110:1](flos08.htm#fr_204.md) In the same scene we
 are told:—"A lover's eyes will gaze an eagle blind." Cf. "Romeo and
 Juliet," iii. 5; "Richard II.," iii. 3.
 
-<span id="fn_205"></span>[110:2](flos08.htm#fr_205) Quoted by Harting in
+<span id="fn_205"></span>[110:2](flos08.htm#fr_205.md) Quoted by Harting in
 "Ornithology of Shakspeare," p. 24.
 
-<span id="fn_206"></span>[110:3](flos08.htm#fr_206) Kelly's
+<span id="fn_206"></span>[110:3](flos08.htm#fr_206.md) Kelly's
 "Indo-European Folk-Lore," pp. 75, 79.
 
-<span id="fn_207"></span>[111:1](flos08.htm#fr_207) Cf. "Antony and
+<span id="fn_207"></span>[111:1](flos08.htm#fr_207.md) Cf. "Antony and
 Cleopatra," ii. 2.—'This was but as a fly by an eagle.'
 
-<span id="fn_208"></span>[111:2](flos08.htm#fr_208) Josephus, "De Bello
+<span id="fn_208"></span>[111:2](flos08.htm#fr_208.md) Josephus, "De Bello
 Judico," iii. 5.
 
-<span id="fn_209"></span>[111:3](flos08.htm#fr_209) Harting's
+<span id="fn_209"></span>[111:3](flos08.htm#fr_209.md) Harting's
 "Ornithology of Shakspeare," p. 33.
 
-<span id="fn_210"></span>[112:1](flos08.htm#fr_210) Nares’ "Glossary,"
+<span id="fn_210"></span>[112:1](flos08.htm#fr_210.md) Nares’ "Glossary,"
 i., p. 378.
 
-<span id="fn_211"></span>[112:2](flos08.htm#fr_211) "Execration against
+<span id="fn_211"></span>[112:2](flos08.htm#fr_211.md) "Execration against
 Vulcan," 1640, p. 37.
 
-<span id="fn_212"></span>[112:3](flos08.htm#fr_212) Singer's "Notes,"
+<span id="fn_212"></span>[112:3](flos08.htm#fr_212.md) Singer's "Notes,"
 1875, i. p. 283.
 
-<span id="fn_213"></span>[113:1](flos08.htm#fr_213) See "Archæologia,"
+<span id="fn_213"></span>[113:1](flos08.htm#fr_213.md) See "Archæologia,"
 iii., p. 33.
 
-<span id="fn_214"></span>[113:2](flos08.htm#fr_214) Nares’ "Glossary,"
+<span id="fn_214"></span>[113:2](flos08.htm#fr_214.md) Nares’ "Glossary,"
 ii., p. 693. Some think that the bull-finch is meant.
 
-<span id="fn_215"></span>[113:3](flos08.htm#fr_215) Singer's "Notes,"
+<span id="fn_215"></span>[113:3](flos08.htm#fr_215.md) Singer's "Notes,"
 3875, v. p. 82. See Dyce's "Glossary," p. 433.
 
-<span id="fn_216"></span>[114:1](flos08.htm#fr_216) Some doubt exists as
+<span id="fn_216"></span>[114:1](flos08.htm#fr_216.md) Some doubt exists as
 to the derivation of *gull*. Nares says it is from the old French
 *guiller*. Tooke holds that gull, guile, wile, and guilt are all from
 the Anglo-Saxon "wiglian, gewiglian," that by which any one is deceived.
 Harting's "Ornithology of Shakespeare," p. 267.
 
-<span id="fn_217"></span>[114:2](flos08.htm#fr_217) See D’Israeli's
+<span id="fn_217"></span>[114:2](flos08.htm#fr_217.md) See D’Israeli's
 "Curiosities of Literature," iii., p. 84.
 
-<span id="fn_218"></span>[114:3](flos08.htm#fr_218) See Thornbury's
+<span id="fn_218"></span>[114:3](flos08.htm#fr_218.md) See Thornbury's
 "Shakespeare's England," i., pp. 311–322.
 
-<span id="fn_219"></span>[114:4](flos08.htm#fr_219) Nares’ "Glossary,"
+<span id="fn_219"></span>[114:4](flos08.htm#fr_219.md) Nares’ "Glossary,"
 i. pp. 394.
 
-<span id="fn_220"></span>[114:5](flos08.htm#fr_220) Harting's
+<span id="fn_220"></span>[114:5](flos08.htm#fr_220.md) Harting's
 "Ornithology of Shakespeare," p. 269.
 
-<span id="fn_221"></span>[114:6](flos08.htm#fr_221) "Aldis Wright's
+<span id="fn_221"></span>[114:6](flos08.htm#fr_221.md) "Aldis Wright's
 "Notes to the 'Tempest,'" 1875, pp. 120, 121.
 
-<span id="fn_222"></span>[114:7](flos08.htm#fr_222) See Dyce's
+<span id="fn_222"></span>[114:7](flos08.htm#fr_222.md) See Dyce's
 "Shakespeare," i., p. 245.
 
-<span id="fn_223"></span>[115:1](flos08.htm#fr_223) See Strutt's "Sports
+<span id="fn_223"></span>[115:1](flos08.htm#fr_223.md) See Strutt's "Sports
 and Pastimes," 1876, pp. 60–97, and "Book of Days," 1863, ii. pp.
 211–213. Smith's "Festivals, Games, and Amusements," 1831, p. 174.
 
-<span id="fn_224"></span>[115:2](flos08.htm#fr_224) "A hawk full fed was
+<span id="fn_224"></span>[115:2](flos08.htm#fr_224.md) "A hawk full fed was
 untractable, and refused the lure—the lure being a thing stuffed to look
 like the game the hawk was to pursue; its lure was to tempt him back
 after he had flown."
 
-<span id="fn_225"></span>[116:1](flos08.htm#fr_225) In the same play
+<span id="fn_225"></span>[116:1](flos08.htm#fr_225.md) In the same play
 (iv. 2) Hortensio describes Bianca as "this proud disdainful haggard."
 See Dyce's "Glossary," p. 197. Cotgrave's "French and English
 Dictionary," sub. "Hagard;" and Latham's "Falconry," &c., 1658.
 
-<span id="fn_226"></span>[116:2](flos08.htm#fr_226) "To whistle off," or
+<span id="fn_226"></span>[116:2](flos08.htm#fr_226.md) "To whistle off," or
 dismiss by a whistle; a hawk seems to have been usually sent off in this
 way against the wind when sent in pursuit of prey.
 
-<span id="fn_227"></span>[116:3](flos08.htm#fr_227) Dyce's "Glossary,"
+<span id="fn_227"></span>[116:3](flos08.htm#fr_227.md) Dyce's "Glossary,"
 p. 77; see "Twelfth Night," ii. 5.
 
-<span id="fn_228"></span>[116:4](flos08.htm#fr_228) The use of the word
+<span id="fn_228"></span>[116:4](flos08.htm#fr_228.md) The use of the word
 is not quite the same here, because the voyage was Hamlet's "proper
 game," which he abandons. "Notes to Hamlet," Clark & Wright, 1876, p.
 205.
 
-<span id="fn_229"></span>[117:1](flos08.htm#fr_229) See Dyce's
+<span id="fn_229"></span>[117:1](flos08.htm#fr_229.md) See Dyce's
 "Glossary," p. 456. Harting's "Ornithology of Shakespeare," p. 39.
 Tuberville's "Booke of Falconrie," 1611, p. 53.
 
-<span id="fn_230"></span>[117:2](flos08.htm#fr_230) Also in i. 2 we
+<span id="fn_230"></span>[117:2](flos08.htm#fr_230.md) Also in i. 2 we
 read—
 
 <div style="margin-left: 32px">
@@ -3680,7 +3680,7 @@ Some read "quarry." See "Notes to Macbeth," Clark and Wright, p. 77. It
 denotes the square-headed bolt of a cross-bow. See Douce's
 "Illustrations," 1839, p. 227; Nares’ "Glossary," ii., p. 206.
 
-<span id="fn_231"></span>[118:1](flos08.htm#fr_231) See Spenser's
+<span id="fn_231"></span>[118:1](flos08.htm#fr_231.md) See Spenser's
 "Faerie Queen," Book i., canto xi. 18—
 
 <div style="margin-left: 32px">
@@ -3689,17 +3689,17 @@ denotes the square-headed bolt of a cross-bow. See Douce's
 
 </div>
 
-<span id="fn_232"></span>[118:2](flos08.htm#fr_232) "Ed. Dyce.," 1857,
+<span id="fn_232"></span>[118:2](flos08.htm#fr_232.md) "Ed. Dyce.," 1857,
 p. 5.
 
-<span id="fn_233"></span>[118:3](flos08.htm#fr_233) See "3 Henry VI." i.
+<span id="fn_233"></span>[118:3](flos08.htm#fr_233.md) See "3 Henry VI." i.
 1.
 
-<span id="fn_234"></span>[118:4](flos08.htm#fr_234) A quibble is perhaps
+<span id="fn_234"></span>[118:4](flos08.htm#fr_234.md) A quibble is perhaps
 intended between bate, the term of falconry, and abate, *i.e.*, fall
 off, dwindle.
 
-<span id="fn_235"></span>[118:5](flos08.htm#fr_235) Bate is a term in
+<span id="fn_235"></span>[118:5](flos08.htm#fr_235.md) Bate is a term in
 falconry, to flutter the wings as preparing for flight, particularly at
 the sight of prey. In "1 Henry IV." (iv. 1)—
 
@@ -3712,278 +3712,278 @@ the sight of prey. In "1 Henry IV." (iv. 1)—
 
 Nares’ "Glossary," i., p. 60.
 
-<span id="fn_236"></span>[118:6](flos08.htm#fr_236) "Unmann’d" was
+<span id="fn_236"></span>[118:6](flos08.htm#fr_236.md) "Unmann’d" was
 applied to a hawk not tamed.
 
-<span id="fn_237"></span>[119:1](flos08.htm#fr_237) See Singer's "Notes
+<span id="fn_237"></span>[119:1](flos08.htm#fr_237.md) See Singer's "Notes
 to Shakespeare," 1875, x. p. 86; Nares’ "Glossary," i. p. 448.
 
-<span id="fn_238"></span>[119:2](flos08.htm#fr_238) See passage in
+<span id="fn_238"></span>[119:2](flos08.htm#fr_238.md) See passage in
 "Taming of the Shrew," iv. 1, already referred to, p. 115.
 
-<span id="fn_239"></span>[119:3](flos08.htm#fr_239) Also in same play,
+<span id="fn_239"></span>[119:3](flos08.htm#fr_239.md) Also in same play,
 i. 3.
 
-<span id="fn_240"></span>[119:4](flos08.htm#fr_240) Tuberville, in his
+<span id="fn_240"></span>[119:4](flos08.htm#fr_240.md) Tuberville, in his
 "Book of Falconrie," 1575, gives some curious directions, as "how to
 seele a hawke"; we may compare similar expressions in "Antony and
 Cleopatra," iii. 13; v. 2.
 
-<span id="fn_241"></span>[120:1](flos08.htm#fr_241) Nares’ "Glossary,"
+<span id="fn_241"></span>[120:1](flos08.htm#fr_241.md) Nares’ "Glossary,"
 ii., pp. 777, 778; cf. Beaumont and Fletcher, "Philaster," v. 1.
 
-<span id="fn_242"></span>[121:1](flos08.htm#fr_242) Imp, from A.–S.
+<span id="fn_242"></span>[121:1](flos08.htm#fr_242.md) Imp, from A.–S.
 impan, to graft. Tuberville has a whole chapter on "The way and manner
 how to ympe a hawke's feather, howsoever it be broken or bruised."
 
-<span id="fn_243"></span>[121:2](flos08.htm#fr_243) Harting's
+<span id="fn_243"></span>[121:2](flos08.htm#fr_243.md) Harting's
 "Ornithology of Shakspeare," p. 72.
 
-<span id="fn_244"></span>[121:3](flos08.htm#fr_244) The reading of the
+<span id="fn_244"></span>[121:3](flos08.htm#fr_244.md) The reading of the
 folios here is stallion; but the word wing, and the falconer's term
 checks, prove that the bird must be meant. See Nares's "Glossary," ii.,
 p. 832.
 
-<span id="fn_245"></span>[121:4](flos08.htm#fr_245) See kestrel and
+<span id="fn_245"></span>[121:4](flos08.htm#fr_245.md) See kestrel and
 sparrowhawk.
 
-<span id="fn_246"></span>[122:1](flos08.htm#fr_246) "Notes to Hamlet,"
+<span id="fn_246"></span>[122:1](flos08.htm#fr_246.md) "Notes to Hamlet,"
 Clark & Wright, 1876, p. 159.
 
-<span id="fn_247"></span>[122:2](flos08.htm#fr_247) Ray's "Proverbs,"
+<span id="fn_247"></span>[122:2](flos08.htm#fr_247.md) Ray's "Proverbs,"
 1768, p. 196.
 
-<span id="fn_248"></span>[122:3](flos08.htm#fr_248) Quoted in "Notes to
+<span id="fn_248"></span>[122:3](flos08.htm#fr_248.md) Quoted in "Notes to
 Hamlet," by Clark & Wright, p. 159. See Nares’ "Glossary," i., p. 416.
 
-<span id="fn_249"></span>[122:4](flos08.htm#fr_249) *i.e.*, made by art;
+<span id="fn_249"></span>[122:4](flos08.htm#fr_249.md) *i.e.*, made by art;
 the creature not of nature but of painting; cf. "Taming of Shrew" (iv.
 3); "Tempest" (ii. 2).
 
-<span id="fn_250"></span>[122:5](flos08.htm#fr_250) Nares’ "Glossary,"
+<span id="fn_250"></span>[122:5](flos08.htm#fr_250.md) Nares’ "Glossary,"
 ii., p. 482.
 
-<span id="fn_251"></span>[123:1](flos08.htm#fr_251) Harting's
+<span id="fn_251"></span>[123:1](flos08.htm#fr_251.md) Harting's
 "Ornithology of Shakespeare," p. 74.
 
-<span id="fn_252"></span>[123:2](flos08.htm#fr_252) See Singer's
+<span id="fn_252"></span>[123:2](flos08.htm#fr_252.md) See Singer's
 "Notes," iii., pp. 357, 358.
 
-<span id="fn_253"></span>[123:3](flos08.htm#fr_253) "Description of
+<span id="fn_253"></span>[123:3](flos08.htm#fr_253.md) "Description of
 England," i., p. 362.
 
-<span id="fn_254"></span>[123:4](flos08.htm#fr_254) "Glossary to
+<span id="fn_254"></span>[123:4](flos08.htm#fr_254.md) "Glossary to
 Shakespeare," p. 88.
 
-<span id="fn_255"></span>[123:5](flos08.htm#fr_255) Sir Thomas Browne's
+<span id="fn_255"></span>[123:5](flos08.htm#fr_255.md) Sir Thomas Browne's
 "Vulgar Errors," B. iii. chap. 10.
 
-<span id="fn_256"></span>[124:1](flos08.htm#fr_256) Also to the buzzard,
+<span id="fn_256"></span>[124:1](flos08.htm#fr_256.md) Also to the buzzard,
 which see p. 95.
 
-<span id="fn_257"></span>[124:2](flos08.htm#fr_257) Singer's
+<span id="fn_257"></span>[124:2](flos08.htm#fr_257.md) Singer's
 "Shakespeare," iv., p. 67.
 
-<span id="fn_258"></span>[124:3](flos08.htm#fr_258) "Glossary," p. 243.
+<span id="fn_258"></span>[124:3](flos08.htm#fr_258.md) "Glossary," p. 243.
 
-<span id="fn_259"></span>[125:1](flos08.htm#fr_259) "Glossary," ii., p.
+<span id="fn_259"></span>[125:1](flos08.htm#fr_259.md) "Glossary," ii., p.
 495; see Yarrell's "History of British Birds," 2d edition, ii., p. 482.
 
-<span id="fn_260"></span>[125:2](flos08.htm#fr_260) Ray's "Proverbs,"
+<span id="fn_260"></span>[125:2](flos08.htm#fr_260.md) Ray's "Proverbs,"
 1768, p. 199.
 
-<span id="fn_261"></span>[125:3](flos08.htm#fr_261) Cf. "Midsummer
+<span id="fn_261"></span>[125:3](flos08.htm#fr_261.md) Cf. "Midsummer
 Night's Dream," iv. 1, "the morning lark;" "Romeo and Juliet," iii. 5,
 "the lark, the herald of the morn."
 
-<span id="fn_262"></span>[126:1](flos08.htm#fr_262) Nares’ "Glossary,"
+<span id="fn_262"></span>[126:1](flos08.htm#fr_262.md) Nares’ "Glossary,"
 ii. 886; Douce's "Illustrations of Shakespeare," 1839, p. 217.
 
-<span id="fn_263"></span>[127:1](flos08.htm#fr_263) Chambers’ "Popular
+<span id="fn_263"></span>[127:1](flos08.htm#fr_263.md) Chambers’ "Popular
 Rhymes of Scotland," 1870, p. 192.
 
-<span id="fn_264"></span>[127:2](flos08.htm#fr_265) See "English
+<span id="fn_264"></span>[127:2](flos08.htm#fr_265.md) See "English
 Folk-Lore," p. 81; Henderson's "Folk-Lore of Northern Counties," p. 127.
 
-<span id="fn_265"></span>[128:1](flos08.htm#fr_266) Thorpe's "Northern
+<span id="fn_265"></span>[128:1](flos08.htm#fr_266.md) Thorpe's "Northern
 Mythology," ii. p. 34; Brand's "Pop. Antiq.," 1849, pp. 215, 216; see
 also Harland & Wilkinson's "Lancashire Folk-Lore," 1867, pp. 143, 145.
 
-<span id="fn_266"></span>[128:2](flos08.htm#fr_267) "Atmospherical
+<span id="fn_266"></span>[128:2](flos08.htm#fr_267.md) "Atmospherical
 Researches," 1823, p. 262.
 
-<span id="fn_267"></span>[129:1](flos08.htm#fr_268) Sir Thomas Browne's
+<span id="fn_267"></span>[129:1](flos08.htm#fr_268.md) Sir Thomas Browne's
 Works, 1852, i. p. 378.
 
-<span id="fn_268"></span>[129:2](flos08.htm#fr_269) See "Book of Days,"
+<span id="fn_268"></span>[129:2](flos08.htm#fr_269.md) See "Book of Days,"
 i. p. 515.
 
-<span id="fn_269"></span>[129:3](flos08.htm#fr_270) Southey's
+<span id="fn_269"></span>[129:3](flos08.htm#fr_270.md) Southey's
 "Common-Place Book," 5th S., 1851, p. 305.
 
-<span id="fn_270"></span>[129:4](flos08.htm#fr_271) "Ovid Metamorph.,"
+<span id="fn_270"></span>[129:4](flos08.htm#fr_271.md) "Ovid Metamorph.,"
 vi. 455–676; "Titus Andronicus," iv. 1.
 
-<span id="fn_271"></span>[130:1](flos08.htm#fr_272) Cf. "Lucrece," 1079
+<span id="fn_271"></span>[130:1](flos08.htm#fr_272.md) Cf. "Lucrece," 1079
 and 1127.
 
-<span id="fn_272"></span>[130:2](flos08.htm#fr_273) See Yarrell's "Hist.
+<span id="fn_272"></span>[130:2](flos08.htm#fr_273.md) See Yarrell's "Hist.
 of British Birds," 1856, i. p. 30. Nares’ "Glossary," ii. p. 620; also
 Pennant's "British Zoology." See Peele's Play of the "Battle of
 Alcazar," (ii. 3), 1861, p. 28.
 
-<span id="fn_273"></span>[130:3](flos08.htm#fr_274) Called *estridge*,
+<span id="fn_273"></span>[130:3](flos08.htm#fr_274.md) Called *estridge*,
 "1 Henry IV.," iv. 1.
 
-<span id="fn_274"></span>[130:4](flos08.htm#fr_275) See Brand's "Pop.
+<span id="fn_274"></span>[130:4](flos08.htm#fr_275.md) See Brand's "Pop.
 Antiq." 1849, iii. p. 365.
 
-<span id="fn_275"></span>[130:5](flos08.htm#fr_276) "Animal Kingdom,"
+<span id="fn_275"></span>[130:5](flos08.htm#fr_276.md) "Animal Kingdom,"
 1829, viii. p. 427.
 
-<span id="fn_276"></span>[131:1](flos08.htm#fr_277) See Sir Thomas
+<span id="fn_276"></span>[131:1](flos08.htm#fr_277.md) See Sir Thomas
 Browne's "Works," 1852, i. pp. 334–337.
 
-<span id="fn_277"></span>[131:2](flos08.htm#fr_278)
-"[Æneid](errata.htm#2)," iv. 462.
+<span id="fn_277"></span>[131:2](flos08.htm#fr_278.md)
+"[Æneid](errata.htm#2.md)," iv. 462.
 
-<span id="fn_278"></span>[131:3](flos08.htm#fr_279) "Metam.," v. 550;
+<span id="fn_278"></span>[131:3](flos08.htm#fr_279.md) "Metam.," v. 550;
 vi. 432; x. 453; xv. 791.
 
-<span id="fn_279"></span>[131:4](flos08.htm#fr_280) "2 Henry VI.," iii.
+<span id="fn_279"></span>[131:4](flos08.htm#fr_280.md) "2 Henry VI.," iii.
 2; iv. I.
 
-<span id="fn_280"></span>[131:5](flos08.htm#fr_281) "Titus Andronicus,"
+<span id="fn_280"></span>[131:5](flos08.htm#fr_281.md) "Titus Andronicus,"
 ii. 3.
 
-<span id="fn_281"></span>[131:6](flos08.htm#fr_282) Cf. "Lucrece," 1.
+<span id="fn_281"></span>[131:6](flos08.htm#fr_282.md) Cf. "Lucrece," 1.
 165; see Yarrell's "History of British Birds," i. p. 122.
 
-<span id="fn_282"></span>[132:1](flos08.htm#fr_284) See Brand's "Pop.
+<span id="fn_282"></span>[132:1](flos08.htm#fr_284.md) See Brand's "Pop.
 Antiq.," 1849, iii. p. 209.
 
-<span id="fn_283"></span>[132:2](flos08.htm#fr_285) The spelling of the
+<span id="fn_283"></span>[132:2](flos08.htm#fr_285.md) The spelling of the
 folios is howlets. In Holland's Translation of Pliny (chap. xvii. book
 x.), we read "of owl's or howlets." Cotgrave gives "Hulotte."
 
-<span id="fn_284"></span>[133:1](flos08.htm#fr_286) Halliwell-Phillipps,
+<span id="fn_284"></span>[133:1](flos08.htm#fr_286.md) Halliwell-Phillipps,
 "Handbook Index," 1866, p. 354.
 
-<span id="fn_285"></span>[133:2](flos08.htm#fr_287) See Dyce's
+<span id="fn_285"></span>[133:2](flos08.htm#fr_287.md) See Dyce's
 "Glossary," p. 302.
 
-<span id="fn_286"></span>[133:3](flos08.htm#fr_288) See Singer's "Notes
+<span id="fn_286"></span>[133:3](flos08.htm#fr_288.md) See Singer's "Notes
 to Tempest," 1875, i. p. 82.
 
-<span id="fn_287"></span>[133:4](flos08.htm#fr_289) See "Gentleman's
+<span id="fn_287"></span>[133:4](flos08.htm#fr_289.md) See "Gentleman's
 Magazine," November 1804, pp. 1083, 1084. Grimm's "Deutsche Mythologie."
 
-<span id="fn_288"></span>[134:1](flos08.htm#fr_290) See Dasent's "Tales
+<span id="fn_288"></span>[134:1](flos08.htm#fr_290.md) See Dasent's "Tales
 of the Norse," 1859; p. 230.
 
-<span id="fn_289"></span>[134:2](flos08.htm#fr_291) "Hudibras," P. i. c.
+<span id="fn_289"></span>[134:2](flos08.htm#fr_291.md) "Hudibras," P. i. c.
 i.
 
-<span id="fn_290"></span>[134:3](flos08.htm#fr_292) In "Much Ado about
+<span id="fn_290"></span>[134:3](flos08.htm#fr_292.md) In "Much Ado about
 Nothing" (i. 1), Benedick likens Beatrice to a "parrot-teacher," from
 her talkative powers.
 
-<span id="fn_291"></span>[135:1](flos08.htm#fr_293) This is the reading
+<span id="fn_291"></span>[135:1](flos08.htm#fr_293.md) This is the reading
 adopted by Singer.
 
-<span id="fn_292"></span>[135:2](flos08.htm#fr_294) Notes to
+<span id="fn_292"></span>[135:2](flos08.htm#fr_294.md) Notes to
 "Hamlet,"—Clark and Wright, 1876, pp. 179, 180.
 
-<span id="fn_293"></span>[135:3](flos08.htm#fr_295) See Nares’
+<span id="fn_293"></span>[135:3](flos08.htm#fr_295.md) See Nares’
 "Glossary," ii. p. 645; Singer's "Notes," ix. p. 228.
 
-<span id="fn_294"></span>[135:4](flos08.htm#fr_296) Cf. "Troilus and
+<span id="fn_294"></span>[135:4](flos08.htm#fr_296.md) Cf. "Troilus and
 Cressida," iii. 3.
 
-<span id="fn_295"></span>[136:1](flos08.htm#fr_297) Cf. "Richard II.,"
+<span id="fn_295"></span>[136:1](flos08.htm#fr_297.md) Cf. "Richard II.,"
 i. 1.
 
-<span id="fn_296"></span>[136:2](flos08.htm#fr_298) Mr Harting, in his
+<span id="fn_296"></span>[136:2](flos08.htm#fr_298.md) Mr Harting, in his
 "Ornithology of Shakespeare," quotes an interesting correspondence from
 "Land and Water" (1869), on the subject.
 
-<span id="fn_297"></span>[136:3](flos08.htm#fr_299) See Sir Thomas
+<span id="fn_297"></span>[136:3](flos08.htm#fr_299.md) See Sir Thomas
 Browne's Works, 1852, ii. pp. 1–4.
 
-<span id="fn_298"></span>[136:4](flos08.htm#fr_300) See Brand's "Pop.
+<span id="fn_298"></span>[136:4](flos08.htm#fr_300.md) See Brand's "Pop.
 Antiq.," 1849, iii. pp. 366, 367.
 
-<span id="fn_299"></span>[137:1](flos08.htm#fr_301) Cf. "Tempest," iii.
+<span id="fn_299"></span>[137:1](flos08.htm#fr_301.md) Cf. "Tempest," iii.
 3; "All's Well that Ends Well," i. 1; "Antony and Cleopatra" iii. 2;
 "Cymbeline," i. 6.
 
-<span id="fn_300"></span>[137:2](flos08.htm#fr_302) Works, 1852, i. pp.
+<span id="fn_300"></span>[137:2](flos08.htm#fr_302.md) Works, 1852, i. pp.
 277–284.
 
-<span id="fn_301"></span>[137:3](flos08.htm#fr_303) See Aldis Wright's
+<span id="fn_301"></span>[137:3](flos08.htm#fr_303.md) See Aldis Wright's
 Notes to "The Tempest," 1875, p. 129.
 
-<span id="fn_302"></span>[138:1](flos08.htm#fr_304) "Daily Telegraph,"
+<span id="fn_302"></span>[138:1](flos08.htm#fr_304.md) "Daily Telegraph,"
 January 31, 1880; see Southey's "Common Place Book," 1849, 2d series, p.
 447.
 
-<span id="fn_303"></span>[138:2](flos08.htm#fr_305) See the Dove, pp.
+<span id="fn_303"></span>[138:2](flos08.htm#fr_305.md) See the Dove, pp.
 107–108.
 
-<span id="fn_304"></span>[138:3](flos08.htm#fr_306) Sir Thomas Browne's
+<span id="fn_304"></span>[138:3](flos08.htm#fr_306.md) Sir Thomas Browne's
 Works, 1852, i. pp. 235–240.
 
-<span id="fn_305"></span>[139:1](flos08.htm#fr_307) Nares’ "Glossary,"
+<span id="fn_305"></span>[139:1](flos08.htm#fr_307.md) Nares’ "Glossary,"
 ii. p. 704; Halliwell-Phillipps’ "Handbook Index to Shakespeare," 1866,
 p. 398; Dyce's "Glossary," p. 345 Singer's "Shakespeare," vii. p. 264.
 
-<span id="fn_306"></span>[139:2](flos08.htm#fr_308) "Ornithology of
+<span id="fn_306"></span>[139:2](flos08.htm#fr_308.md) "Ornithology of
 Shakespeare," p. 218.
 
-<span id="fn_307"></span>[139:3](flos08.htm#fr_309) Strutt's "Sports and
+<span id="fn_307"></span>[139:3](flos08.htm#fr_309.md) Strutt's "Sports and
 Pastimes," 1876, pp. 19, 97, 677; Brand's Popular Antiquities," 1849,
 ii. pp. 59, 60.
 
-<span id="fn_308"></span>[139:4](flos08.htm#fr_310) Douce's
+<span id="fn_308"></span>[139:4](flos08.htm#fr_310.md) Douce's
 "Illustrations of Shakespeare," 1839, p. 367.
 
-<span id="fn_309"></span>[140:1](flos08.htm#fr_311) Marsden's "History
+<span id="fn_309"></span>[140:1](flos08.htm#fr_311.md) Marsden's "History
 of Sumatra," 1811, p. 276.
 
-<span id="fn_310"></span>[140:2](flos08.htm#fr_312) Cf. "2 Henry VI."
+<span id="fn_310"></span>[140:2](flos08.htm#fr_312.md) Cf. "2 Henry VI."
 iii. 2; "Troilus and Cressida," v. 2.
 
-<span id="fn_311"></span>[140:3](flos08.htm#fr_313) See Brand's "Popular
+<span id="fn_311"></span>[140:3](flos08.htm#fr_313.md) See Brand's "Popular
 Antiquities," 1849, iii. pp. 211, 212.
 
-<span id="fn_312"></span>[140:4](flos08.htm#fr_314) "English Folk-lore,"
+<span id="fn_312"></span>[140:4](flos08.htm#fr_314.md) "English Folk-lore,"
 1878, p. 78.
 
-<span id="fn_313"></span>[140:5](flos08.htm#fr_315) See Hunt's "Popular
+<span id="fn_313"></span>[140:5](flos08.htm#fr_315.md) See Hunt's "Popular
 Romances of West of England," 1881, p. 380.
 
-<span id="fn_314"></span>[141:1](flos08.htm#fr_316) See Sir Thomas
+<span id="fn_314"></span>[141:1](flos08.htm#fr_316.md) See Sir Thomas
 Browne's Works, 1852, ii. p. 29.
 
-<span id="fn_315"></span>[141:2](flos08.htm#fr_317) Dyce's "Glossary,"
+<span id="fn_315"></span>[141:2](flos08.htm#fr_317.md) Dyce's "Glossary,"
 1876, p. 288.
 
-<span id="fn_316"></span>[141:3](flos08.htm#fr_318) See Harting's
+<span id="fn_316"></span>[141:3](flos08.htm#fr_318.md) See Harting's
 "Ornithology of Shakespeare," pp. 101, 102; and Yarrell's "History of
 British Birds," ii. p. 581.
 
-<span id="fn_317"></span>[142:1](flos08.htm#fr_319) "Ornithology of
+<span id="fn_317"></span>[142:1](flos08.htm#fr_319.md) "Ornithology of
 Shakespeare," p. 107.
 
-<span id="fn_318"></span>[142:2](flos08.htm#fr_320) Cf. "Midsummer
+<span id="fn_318"></span>[142:2](flos08.htm#fr_320.md) Cf. "Midsummer
 Night's Dream," ii. 2; "Twelfth Night," v. 1.
 
-<span id="fn_319"></span>[143:1](flos08.htm#fr_321) "English Folk-lore,"
+<span id="fn_319"></span>[143:1](flos08.htm#fr_321.md) "English Folk-lore,"
 pp. 62–64; Brand's "Pop. Antiq.," 1849, 111. p. 191; Singer's
 "Shakespeare," x. p. 424; Douce's "Illustrations of Shakespeare," 1839,
 p. 380.
 
-<span id="fn_320"></span>[143:2](flos08.htm#fr_322) Cf. Spenser's
+<span id="fn_320"></span>[143:2](flos08.htm#fr_322.md) Cf. Spenser's
 "Epithalamium," v. 8:—
 
 <div style="margin-left: 32px">
@@ -3993,77 +3993,77 @@ p. 380.
 
 </div>
 
-<span id="fn_321"></span>[144:1](flos08.htm#fr_323) "Standard," January
+<span id="fn_321"></span>[144:1](flos08.htm#fr_323.md) "Standard," January
 26, 1897.
 
-<span id="fn_322"></span>[144:2](flos08.htm#fr_324) "English Folk-Lore,"
+<span id="fn_322"></span>[144:2](flos08.htm#fr_324.md) "English Folk-Lore,"
 p. 76.
 
-<span id="fn_323"></span>[144:3](flos08.htm#fr_325) Henderson's
+<span id="fn_323"></span>[144:3](flos08.htm#fr_325.md) Henderson's
 "Folk-Lore of Northern Counties," 1879, p. 122.
 
-<span id="fn_324"></span>[144:4](flos08.htm#fr_326) "Ornithology of
+<span id="fn_324"></span>[144:4](flos08.htm#fr_326.md) "Ornithology of
 Shakespeare," p. 121.
 
-<span id="fn_325"></span>[144:5](flos08.htm#fr_327) "Illustrations of
+<span id="fn_325"></span>[144:5](flos08.htm#fr_327.md) "Illustrations of
 Shakespeare," 1839, p. 36; the term "bully-rook" occurs several times in
 Shadwell's "Sullen Lovers,"—See Dyce's "Glossary," p. 58.
 
-<span id="fn_326"></span>[145:1](flos08.htm#fr_328) In Northamptonshire
+<span id="fn_326"></span>[145:1](flos08.htm#fr_328.md) In Northamptonshire
 the word denotes a pendant icicle, from its resemblance to the long bill
 of the bird, so-called. Baker's "Northamptonshire Glossary," 1854, ii.
 p. 260.
 
-<span id="fn_327"></span>[145:2](flos08.htm#fr_329) See Nares's
+<span id="fn_327"></span>[145:2](flos08.htm#fr_329.md) See Nares's
 "Glossary," ii. p. 653; Dyce's "Glossary," p. 320.
 
-<span id="fn_328"></span>[145:3](flos08.htm#fr_330) Derived from the
+<span id="fn_328"></span>[145:3](flos08.htm#fr_330.md) Derived from the
 French *mouschet*, of the same meaning.
 
-<span id="fn_329"></span>[145:4](flos08.htm#fr_331) Nares’ "Glossary,"
+<span id="fn_329"></span>[145:4](flos08.htm#fr_331.md) Nares’ "Glossary,"
 ii. p. 593; Douce's "Illustrations of Shakespeare," 1839, p. 46.
 Tuberville tells us "the first name and terme that they bestowe on a
 falcon is an eyesse, and this name doth laste as long as she is an eyrie
 and for that she is taken from the eyrie."
 
-<span id="fn_330"></span>[147:1](flos08.htm#fr_332) "Illustrations of
+<span id="fn_330"></span>[147:1](flos08.htm#fr_332.md) "Illustrations of
 Shakespeare," 1839, p. 161.
 
-<span id="fn_331"></span>[147:2](flos08.htm#fr_333) See Sir Thomas
+<span id="fn_331"></span>[147:2](flos08.htm#fr_333.md) See Sir Thomas
 Browne's Works, 1852, i. p. 357.
 
-<span id="fn_332"></span>[148:1](flos08.htm#fr_334) "Musical Myths and
+<span id="fn_332"></span>[148:1](flos08.htm#fr_334.md) "Musical Myths and
 Facts," 1876, i. p. 89.
 
-<span id="fn_333"></span>[148:2](flos08.htm#fr_335) "Instructions to
+<span id="fn_333"></span>[148:2](flos08.htm#fr_335.md) "Instructions to
 Young Sportsmen," 11th edition, p. 269.
 
-<span id="fn_334"></span>[148:3](flos08.htm#fr_336) See Baring-Gould's
+<span id="fn_334"></span>[148:3](flos08.htm#fr_336.md) See Baring-Gould's
 "Curious Myths of the Middle Ages," 1877, p. 561; Thorpe's "Northern
 Mythology," 1852, iii. pp. 302–328.
 
-<span id="fn_335"></span>[148:4](flos08.htm#fr_337) Properly "tiercel
+<span id="fn_335"></span>[148:4](flos08.htm#fr_337.md) Properly "tiercel
 gentle," French tiercelet. Cf. "Troilus and Cressida," iii. 2, "the
 falcon as the tercel."
 
-<span id="fn_336"></span>[148:5](flos08.htm#fr_338) "Gentleman's
+<span id="fn_336"></span>[148:5](flos08.htm#fr_338.md) "Gentleman's
 Recreation," p. 19, quoted in Nares's "Glossary," ii. p.867
 
-<span id="fn_337"></span>[150:1](flos08.htm#fr_339) Dyce's "Glossary,"
+<span id="fn_337"></span>[150:1](flos08.htm#fr_339.md) Dyce's "Glossary,"
 p. 508.
 
-<span id="fn_338"></span>[150:2](flos08.htm#fr_340) Nares’ "Glossary,"
+<span id="fn_338"></span>[150:2](flos08.htm#fr_340.md) Nares’ "Glossary,"
 ii. p. 971.
 
-<span id="fn_339"></span>[150:3](flos08.htm#fr_341) See Willoughby's
+<span id="fn_339"></span>[150:3](flos08.htm#fr_341.md) See Willoughby's
 "Ornithology," iii. section 1.
 
-<span id="fn_340"></span>[150:4](flos08.htm#fr_342) Minsheu's "Guide
+<span id="fn_340"></span>[150:4](flos08.htm#fr_342.md) Minsheu's "Guide
 into Tongues," Ed. 1617.
 
-<span id="fn_341"></span>[151:1](flos08.htm#fr_343) See Yarrell's
+<span id="fn_341"></span>[151:1](flos08.htm#fr_343.md) See Yarrell's
 "History of British Birds," ii. p. 178.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Animals](flos09)
+[Next: Chapter VII. Animals](flos09.md)

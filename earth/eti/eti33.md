@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti32)  [Next](eti34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti32)  [Next](eti34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -193,7 +193,7 @@ guide in amazement.
 <span id="img_17300"></span> <span align="CENTER"> [![THE BIT OF
 GARMENT FLUTTERED LISTLESSLY AWAY TO THE SAME DISTANCE, AND
 THENVACANCY.](tn/17300.jpg)  
-Click to enlarge](img/17300.jpg)  
+Click to enlarge](img/17300.jpg.md)  
 “THE BIT OF GARMENT FLUTTERED LISTLESSLY AWAY TO THE SAME DISTANCE, AND
 THEN—VACANCY.”  
 </span>
@@ -256,4 +256,4 @@ closed my eyes as a weary child, and slept.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVII. Sleep, Dreams, Nightmare.—“Strangle the Life From
-My Body.”](eti34)
+My Body.”](eti34.md)

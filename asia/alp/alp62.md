@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp61) 
-[Next](alp63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp61.md) 
+[Next](alp63.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 <span id="img_08600"></span>
 
 [![THE LAKE OF VAN](tn/08600.jpg)  
-Click to enlarge](img/08600.jpg)  
+Click to enlarge](img/08600.jpg.md)  
 THE LAKE OF VAN  
 
 ### THE LAKE OF VAN
@@ -129,4 +129,4 @@ Can a dead corpse rise up and live again?
 
 ------------------------------------------------------------------------
 
-[Next: Spring](alp63)
+[Next: Spring](alp63.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ema00)  [Next](ema02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ema00)  [Next](ema02.md) 
 
 ------------------------------------------------------------------------
 
@@ -207,4 +207,4 @@ August 28th, 1899
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ema02)
+[Next: Contents](ema02.md)

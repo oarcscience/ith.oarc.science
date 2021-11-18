@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait10)  [Next](ait12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait10)  [Next](ait12.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ id="page_76">p. 76</span> <span id="page_77">p. 77</span>
 
 |                     |
 |---------------------|
-| ![I](img/07700.jpg) |
+| ![I](img/07700.jpg.md) |
 
 N the depths of the forest in the land of the Dacotahs stood a wigwam
 many leagues distant from any other. The old man who had been known to
@@ -224,7 +224,7 @@ as the great warrior they had long expected.
 
 |                     |
 |---------------------|
-| ![I](img/08600.jpg) |
+| ![I](img/08600.jpg.md) |
 
 N a little village but a woman's journey from the home of the giants
 lived a chief named Red Wing. He had two daughters, White Weasel and
@@ -345,7 +345,7 @@ head; when, at
 
 [![“Lo! Clouds of blue and white pigeons rushed from the
 smoke.”](tn/09100.jpg)  
-Click to enlarge](img/09100.jpg)  
+Click to enlarge](img/09100.jpg.md)  
 “Lo! Clouds of blue and white pigeons rushed from the smoke.”  
 
 the first whiff from the pipe, lo! clouds of blue and white pigeons
@@ -380,4 +380,4 @@ giants and of his marriage with Crystal Stone.
 
 ------------------------------------------------------------------------
 
-[Next: The Star Maiden](ait12)
+[Next: The Star Maiden](ait12.md)

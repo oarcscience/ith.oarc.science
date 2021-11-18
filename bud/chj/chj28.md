@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj27)  [Next](chj29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj27)  [Next](chj29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -23,7 +23,7 @@ Textual Heritage
 
 <span class="smallcaps">In</span> the year 1282, Nichiren, reviewing his
 own life, said that there were three things for which he considered
-himself deserving of commendation. <span id="fr_460"></span>[1](#fn_458)
+himself deserving of commendation. <span id="fr_460"></span>[1](#fn_458.md)
 He had published his treatise of "Risshō Ankoku," and presented a copy
 to the Regent, at great personal risk to himself, thereby calling the
 Regent's attention to the evils of the State, and the only apparent
@@ -48,20 +48,20 @@ districts of Europe. Scythians and Goths, Alans and Huns,
 
 <span class="contnote">\[paragraph continues\]</span> Bulgarians and
 Cumani, Yuëtchi and Uighurs, were merely "reshuffles of the same
-cards," <span id="fr_461"></span>[1](#fn_459) different strata, as it
+cards," <span id="fr_461"></span>[1](#fn_459.md) different strata, as it
 were, of the same peoples, going forth from their homes in Central Asia
 to worry the civilized nations of two continents.
 
 In the twelfth, thirteenth, and fourteenth centuries, it was the
 Mongolian power that made itself feared throughout the world. <span
-id="fr_462"></span>[2](#fn_460) The Mongols and the Tartars were, as it
+id="fr_462"></span>[2](#fn_460.md) The Mongols and the Tartars were, as it
 were, the aristocracy and plebs of a large semi-barbarous tribe of nomad
 herdsmen, hunters, and warriors, whose home lay to the north of China
 proper, around the Gobi Desert, by the banks of the Amur river, and
 among the mountains south of Lake Baikal. Here was born in the year
 1162, in the tent of the tribal chief, a child to whom was given the
 name of Temujin, a name afterwards exchanged for that of Gengis-Khan, or
-the Perfect Warrior. <span id="fr_463"></span>[3](#fn_461) Gengis Khan
+the Perfect Warrior. <span id="fr_463"></span>[3](#fn_461.md) Gengis Khan
 in due time succeeded to the chieftaincy of the Mongol and Tartar tribes
 (1206), and then commenced a series of victories, campaigns, and
 conquests, which fairly throws the exploits of Alexander and Napoleon
@@ -186,11 +186,11 @@ from further bloodshed and to turn to the true faith. In consequence of
 this resolution, Innocent IV. sent two embassies, which left Rome the
 following year. The first, which consisted of four Dominican monks, was
 sent to Persia, to plead with the Mongolian generals in that
-country. <span id="fr_464"></span>[1](#fn_462) The second was taken from
+country. <span id="fr_464"></span>[1](#fn_462.md) The second was taken from
 the Order of St. Francis, and consisted of Brother Benedict of Poland,
 Brother Lawrence of Portugal, and John de Plan Carpin, an Italian. This
 embassy, of which John de Plan Carpin has left a very minute
-account, <span id="fr_465"></span>[2](#fn_463) made its way right across
+account, <span id="fr_465"></span>[2](#fn_463.md) made its way right across
 Central Asia and Siberia to Karakorum, somewhere to the south of Lake
 Baikal, and was present in that city during the whole of the prolonged
 ceremonies connected
@@ -209,7 +209,7 @@ interpreted it as an act of submission on the part of the French
 monarch. Russian Princes were also compelled, as tributaries to the
 Mongols, to make periodical journeys to the Court of the Mongol Khans;
 amongst them were the sainted hero of the Russians, Alexander
-Newsky, <span id="fr_466"></span>[1](#fn_464) and another brave man,
+Newsky, <span id="fr_466"></span>[1](#fn_464.md) and another brave man,
 also canonized, a certain Michael, who preferred martyrdom at the hand
 of the quick-tempered Mongols rather than bow his head before the
 symbols of idolatry.
@@ -223,7 +223,7 @@ Mandeville, Marco Polo, and some Arabs.
 All the accounts represent the Mongols as monotheists. There is one God
 in Heaven, the Ruler and Judge of all, and there is One Sovereign upon
 Earth, whose privilege it is to rule over the whole earth. <span
-id="fr_467"></span>[2](#fn_465) "God in Heaven, the Khan upon Earth,"
+id="fr_467"></span>[2](#fn_465.md) "God in Heaven, the Khan upon Earth,"
 was the motto which they engraved
 
 <span id="page_336">p. 336</span>
@@ -243,14 +243,14 @@ treated the Russian Church with kindness and consideration, and the
 Metropolitan Cyril felt himself justified, says Karamsin, in appointing
 an archbishop for those portions of Russia which had come under direct
 Mongol rule, and in creating a special province to be under that
-prelate's jurisdiction. <span id="fr_468"></span>[1](#fn_466) Constant
+prelate's jurisdiction. <span id="fr_468"></span>[1](#fn_466.md) Constant
 mention is made of Christian services held at the Great Khan's Court,
 under the direct patronage of the Sovereign and his family.
 
 This toleration led many in Europe to believe (the more readily because
 the wish was, in this case, father to the thought) that the Khans of
 Tartary were about to become Christians. <span
-id="fr_469"></span>[2](#fn_467) This was, however, very far from the
+id="fr_469"></span>[2](#fn_467.md) This was, however, very far from the
 truth. The Mongols had their own religion (which we have already
 explained), with priests or magicians (*Kame*) of their own. These
 priests guarded the avenues leading to the palace with magic rites and
@@ -267,7 +267,7 @@ Mahometan, and Buddhist priests would be admitted in quick succession to
 bless the food of which the Great Khan was about to partake, and that
 all were treated with absolute impartiality. It is possible (and indeed
 Carpini expressly affirms it of the Nestorian priests) <span
-id="fr_470"></span>[1](#fn_468) that there was not much of real religion
+id="fr_470"></span>[1](#fn_468.md) that there was not much of real religion
 in any of these Court chaplains of various creeds. Religion was at a low
 ebb everywhere throughout the Asiatic dominions of the Mongols,
 otherwise this happy family arrangement could not have continued as it
@@ -281,7 +281,7 @@ of Genghis Khan, is that, in addition to priests and monks of the
 various religions, there was a considerable number of lay persons from
 many countries. We find mention of Frenchmen, Italians, Englishmen,
 serving the Mongols in various capacities. <span
-id="fr_471"></span>[2](#fn_469) Koreans were there, and Chinamen. It
+id="fr_471"></span>[2](#fn_469.md) Koreans were there, and Chinamen. It
 seems hard to suppose that there were no Japanese. It was still the
 practice of Japanese in those days to cross to China for purposes of
 study and research, and the Mongols, living as they did on the northern
@@ -294,7 +294,7 @@ himself Emperor of China on the overthrow of the Sung dynasty. There
 does not seem to have lurked in the Japanese mind any suspicion as to
 Mongol designs until Nichiren's writings and preachings forced the
 authorities to be on their guard against the danger. <span
-id="fr_472"></span>[1](#fn_470)
+id="fr_472"></span>[1](#fn_470.md)
 
 If, therefore, we put all these considerations together, we shall see
 that it is far from impossible that some of Abbot Joachim's speculations
@@ -309,7 +309,7 @@ able to identify this word absolutely in the only Mongolian Dictionaries
 accessible to me; but I venture to conjecture that it is the same word
 as the Sanskrit Arhat, which appears in ordinary Japanese as *Rakan*,
 but which Nichiren seems consistently to have written as *Arakan*. <span
-id="fr_473"></span>[2](#fn_471) It is quite probable that the
+id="fr_473"></span>[2](#fn_471.md) It is quite probable that the
 Christianity of the Nestorians may have appeared to the Mongolians as
 merely a variant form of Buddhism; for the Buddhism of Central Asia and
 China embraced in its wide bosom a very varied assortment
@@ -317,14 +317,14 @@ China embraced in its wide bosom a very varied assortment
 <span id="page_339">p. 339</span>
 
 of heterogeneous elements. Nichiren knew of the Shatparāmita
-Sūtra, <span id="fr_474"></span>[1](#fn_472) referred to in a former
+Sūtra, <span id="fr_474"></span>[1](#fn_472.md) referred to in a former
 chapter, which was produced by the collaboration of the Nestorian priest
 Adam with the Indian Buddhist Prajṇā, and he rejected it with
-scorn. <span id="fr_475"></span>[2](#fn_473) Two centuries later, when
+scorn. <span id="fr_475"></span>[2](#fn_473.md) Two centuries later, when
 St. Francis Xavier landed in Kyushu and desired to preach the Faith of
 Christ, he received from the local Daimyo a written permit authorizing
 him to preach the doctrines of Buddha. <span
-id="fr_476"></span>[3](#fn_474) It did not at first occur to the average
+id="fr_476"></span>[3](#fn_474.md) It did not at first occur to the average
 Japanese mind that the Faith which the Jesuit Fathers had come to preach
 was anything more than a new variety of the multiplex Mahāyāna.
 
@@ -343,7 +343,7 @@ successors in the fifteenth
 
 century, is credited with having harboured designs of establishing
 something very much like it in Japan <span
-id="fr_477"></span>[1](#fn_475) for his own benefit.
+id="fr_477"></span>[1](#fn_475.md) for his own benefit.
 
 It is of distinct importance for the student to keep in mind the
 Buddhist conception of the three "millenniums," the last of which is to
@@ -356,21 +356,21 @@ disappear. There is another way of looking at the question. If it should
 disappear it will do so only to make room for something better, and that
 "something better" is what the whole world is prepared to welcome. I
 shall refer to it again in my concluding chapter. <span
-id="fr_478"></span>[2](#fn_476)
+id="fr_478"></span>[2](#fn_476.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_458"></span>[329:1](chj28.htm#fr_460) "Seigōroku."
+<span id="fn_458"></span>[329:1](chj28.htm#fr_460.md) "Seigōroku."
 
-<span id="fn_459"></span>[330:1](chj28.htm#fr_461) H. E. Parker.
+<span id="fn_459"></span>[330:1](chj28.htm#fr_461.md) H. E. Parker.
 
-<span id="fn_460"></span>[330:2](chj28.htm#fr_462) I have consulted
+<span id="fn_460"></span>[330:2](chj28.htm#fr_462.md) I have consulted
 D’Ohsson's "Histoire des Mongols," Karamsin's "History of the Russian
 Empire" (German trans.), and Black, "Proselytes of Ishmael."
 
-<span id="fn_461"></span>[330:3](chj28.htm#fr_463) It has pleased
+<span id="fn_461"></span>[330:3](chj28.htm#fr_463.md) It has pleased
 certain Japanese writers to identify Genghis Khan with Yoshitsune, the
 popular hero of the Minamoto, who disappears from Japanese history in
 the year 1189, at the age of thirty-one. No proof can be given for the
@@ -381,33 +381,33 @@ that is to be found in Gengis Khan and his descendants, and the
 suggested identification is a very flattering one to certain Japanese
 minds.
 
-<span id="fn_462"></span>[334:1](chj28.htm#fr_464) *Cf*. D’Ohsson,
+<span id="fn_462"></span>[334:1](chj28.htm#fr_464.md) *Cf*. D’Ohsson,
 "Histoire des Mongols," bk. ii. cap. 4, p. 208.
 
-<span id="fn_463"></span>[334:2](chj28.htm#fr_465) Karamsin, "Geschichte
+<span id="fn_463"></span>[334:2](chj28.htm#fr_465.md) Karamsin, "Geschichte
 des Russischen Reichs," vol. iv. cap. 1, pp. 33 ff.
 
-<span id="fn_464"></span>[335:1](chj28.htm#fr_466) *Ibid*., vol. iv.
+<span id="fn_464"></span>[335:1](chj28.htm#fr_466.md) *Ibid*., vol. iv.
 cap. i. p. 30.
 
-<span id="fn_465"></span>[335:2](chj28.htm#fr_467) The resemblance to
+<span id="fn_465"></span>[335:2](chj28.htm#fr_467.md) The resemblance to
 Nichiren's initial and oft-repeated sermon is striking. There is also a
 general resemblance in the ecclesiastical policies of the Mongols and
 Japanese which should be kept in mind.
 
-<span id="fn_466"></span>[336:1](chj28.htm#fr_468) Karamsin, *op. cit.*,
+<span id="fn_466"></span>[336:1](chj28.htm#fr_468.md) Karamsin, *op. cit.*,
 iv. 1.
 
-<span id="fn_467"></span>[336:2](chj28.htm#fr_469) The French Court was
+<span id="fn_467"></span>[336:2](chj28.htm#fr_469.md) The French Court was
 on one occasion hoaxed by a pretended embassy which came professedly
 from the Khan to ask for Christian instruction.
 
-<span id="fn_468"></span>[337:1](chj28.htm#fr_470) *Cf*. D’Ohsson,
+<span id="fn_468"></span>[337:1](chj28.htm#fr_470.md) *Cf*. D’Ohsson,
 "Hist. des Mongols," vol. ii. chap. 4.
 
-<span id="fn_469"></span>[337:2](chj28.htm#fr_471) D’Ohsson.
+<span id="fn_469"></span>[337:2](chj28.htm#fr_471.md) D’Ohsson.
 
-<span id="fn_470"></span>[338:1](chj28.htm#fr_472) Dr. Haas, in his
+<span id="fn_470"></span>[338:1](chj28.htm#fr_472.md) Dr. Haas, in his
 "Chronological Notes on Buddhism in Japan," published in the
 *Transactions* of the Deutsche Gesellschaft für Natur and Volkerkunde
 Ostasiens (Tokyo), mentions five or six priests who went over to China
@@ -416,34 +416,34 @@ probably others. Nichiren's information about the doings of the Mongols
 was so very accurate that he must have had an informant who had seen
 with his own eyes what he related.
 
-<span id="fn_471"></span>[338:2](chj28.htm#fr_473) "Seigōroku," p. 208.
+<span id="fn_471"></span>[338:2](chj28.htm#fr_473.md) "Seigōroku," p. 208.
 Nichiren seems to have been almost pedantic in his use of Sanskrit words
 rather than the popular Sinico-Japanese corruptions. Kowalewsky (vol. i.
 pp. 144, 150) and Schmidt (p. 4, col. a) give a word, connected with the
 Sanskrit *arhat*, which seems to be pronounced *archaiun*, and which
 means "the saints."
 
-<span id="fn_472"></span>[339:1](chj28.htm#fr_474) See above, Chapter
-XII. [p. 128](chj15.htm#page_128).
+<span id="fn_472"></span>[339:1](chj28.htm#fr_474.md) See above, Chapter
+XII. [p. 128](chj15.htm#page_128.md).
 
-<span id="fn_473"></span>[339:2](chj28.htm#fr_475) "Seigōroku," p. 681.
+<span id="fn_473"></span>[339:2](chj28.htm#fr_475.md) "Seigōroku," p. 681.
 He says that the Sūtra was brought from India by Amoghavajra towards the
 end of the Tang dynasty, that it was unknown in China until then, that
 none of the teachers in the period of the "three Southern and seven
 Northern States" knew anything about it, and that it was inconsistent
 with the Hokekyō.
 
-<span id="fn_474"></span>[339:3](chj28.htm#fr_476) Murdoch and Yamagata,
+<span id="fn_474"></span>[339:3](chj28.htm#fr_476.md) Murdoch and Yamagata,
 "History of Japan," p. 67. The licence runs as follows: "This deed
 witnesseth that I have given permission to the priests (*sō*, a Buddhist
 term) who have come to this country from the Western regions, in
 accordance with their request and desire, that they may found and erect
 a monastery and house, in order to develop the Law of Buddha."
 
-<span id="fn_475"></span>[340:1](chj28.htm#fr_477) Murdoch and Yamagata,
+<span id="fn_475"></span>[340:1](chj28.htm#fr_477.md) Murdoch and Yamagata,
 "History of Japan," p. 22.
 
-<span id="fn_476"></span>[340:2](chj28.htm#fr_478) It is well to observe
+<span id="fn_476"></span>[340:2](chj28.htm#fr_478.md) It is well to observe
 the way in which persons and nations, dwelling in remote parts of the
 world, and apparently without any dealings with one another, become, as
 it were, simultaneously obsessed by the same ideas. We may find
@@ -460,4 +460,4 @@ these thoughts were in the air.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII. The Buddhism of the Muromachi Age](chj29)
+[Next: Chapter XXVII. The Buddhism of the Muromachi Age](chj29.md)

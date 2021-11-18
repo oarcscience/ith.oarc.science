@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois41.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -64,7 +64,7 @@ And when He had created the sons of man, there arose the generations of
 Enosh and of the time of the flood, and rebelled against Him. In that
 hour the Holy One, blessed be He, said: "Let the world return to what it
 was at first," as it is written (Gen. vii.), "and let the heavy rain be
-upon the earth." <span id="fr_18"></span>[\*](#fn_17)
+upon the earth." <span id="fr_18"></span>[\*](#fn_17.md)
 
 <div style="margin-left: 32px">
 
@@ -78,7 +78,7 @@ upon the earth." <span id="fr_18"></span>[\*](#fn_17)
 
 ### Footnotes
 
-<span id="fn_17"></span>[60:\*](wois42.htm#fr_18) Compare also Mid.
+<span id="fn_17"></span>[60:\*](wois42.htm#fr_18.md) Compare also Mid.
 Aycha Rabathi, Chap. "Zion spreadeth, etc.," where the same parable is
 used, but the hope held out to the waters is that one day they shall be
 raised by the Creator to the honour of being His tears to express
@@ -86,6 +86,6 @@ eternal grief for the fall of His people into sin and punishment. For,
 says the midrash, the words, "Oh that my head were water," etc.
 (Jeremiah ix.), are the words of God and not of the prophet. Of course
 none of these interpretations were meant as *peshat* (see Introduction,
-[p. 12](wois03.htm#page_12)).
+[p. 12](wois03.htm#page_12).md).
 
  

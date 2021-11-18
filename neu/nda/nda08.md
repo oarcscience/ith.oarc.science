@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda07)  [Next](nda09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda07)  [Next](nda09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -75,7 +75,7 @@ arrived safely, some were driven back and some were
 
 lost. This was fifteen years before Christianity was legally adopted in
 Iceland. During the same summer Bishop Frederick and Thorvald Kodransson
-( [61](nda12.htm#xref_61)) went abroad \[from Iceland\] Of those men,
+( [61](nda12.htm#xref_61).md) went abroad \[from Iceland\] Of those men,
 who accompanied Eric to Greenland, the following took possession of land
 there: Heriulf, Heriulfsfirth, he dwelt at Heriulfsness; Ketil,
 Ketilsfirth, Hrafn, Hrafnsfirth, Solvi, Solvadal; Helgi Thorbrandsson,
@@ -97,7 +97,7 @@ throughout the winter with the king, by whom he was well entertained.
 
 ### BIARNI GOES IN QUEST OP GREENLAND.
 
-Heriulf ( [62](nda12.htm#xref_62)) was a son of Bard Heriulfsson. He was
+Heriulf ( [62](nda12.htm#xref_62).md) was a son of Bard Heriulfsson. He was
 a kinsman of Ingolf, the first colonist. Ingolf allotted land to Heriulf
 between Vag and Reykianess, and he
 
@@ -112,7 +112,7 @@ a trading-ship, and during the last winter that he spent in Norway,
 \[his father\] Heriulf determined to accompany Eric on his voyage to
 Greenland, and made his preparation to give up his farm. Upon the ship
 with Heriulf was a Christian man from the Hebrides, he it was who
-composed the Sea-Rollers' Song ( [63](nda12.htm#xref_63)). Heriulf
+composed the Sea-Rollers' Song ( [63](nda12.htm#xref_63).md). Heriulf
 settled at Heriulfsness, and was a most distinguished man. Eric the Red
 dwelt at Bratahlid, where he was held in the highest esteem, and all men
 paid him homage. These were Eric's children: Leif, Thorvald, and
@@ -163,7 +163,7 @@ Biarni--a course, forsooth, which won him blame among his shipmates. He
 bade them hoist sail, which they did, and turning the prow from the land
 they sailed out upon the high seas, with southwesterly gales, for three
 "dœgr," when they saw the third land; this land was high and
-mountainous, with ice-mountains upon it ( [64](nda12.htm#xref_64)). They
+mountainous, with ice-mountains upon it ( [64](nda12.htm#xref_64).md). They
 asked Biarni then whether he would land there, and he replied that he
 was not disposed to do so, "because this land does not appear to me to
 offer any attractions." Nor did they lower their sail, but held their
@@ -177,7 +177,7 @@ Greenland, according to that which has been reported to me concerning
 it, and here we will steer to the land." They directed their course
 thither, and landed in the evening, below a cape upon which there was a
 boat, and there, upon this cape, dwelt Heriulf
-( [65](nda12.htm#xref_65)), Biarni's father, whence the cape took its
+( [65](nda12.htm#xref_65).md), Biarni's father, whence the cape took its
 name, and was afterwards called Heriulfsness. Biarni now went to, his
 father, gave up his voyaging, and remained with his father while Heriulf
 lived, and continued to live there after his father.
@@ -258,7 +258,7 @@ qualities that cattle would need no fodder there during the winters.
 There was no frost there in the winters, and the grass withered but
 little. The days and nights there were of more nearly equal length than
 in Greenland or Iceland. On the shortest day of winter the sun was up
-between "eyktarstad" and "dagmalastad ( [66](nda12.htm#xref_66))." When
+between "eyktarstad" and "dagmalastad ( [66](nda12.htm#xref_66).md)." When
 they had completed their house Leif said to his companions, "I propose
 now to divide our company into two groups, and to set about an
 exploration of the country; one half of our party shall remain at home
@@ -362,7 +362,7 @@ distance from the woods to the sea, and \[there were\] white sands, as
 well as great numbers of islands and shallows. They found neither
 dwelling of man nor lair of beast; but in one of the westerly islands
 they found a wooden building for the shelter of grain
-( [67](nda12.htm#xref_67)). They found no other trace of human
+( [67](nda12.htm#xref_67).md). They found no other trace of human
 handiwork, and they turned back, and arrived at Leif's-booth in the
 autumn. The following summer Thorvald set out toward the east with the
 ship, and along the northern coast. They were met by a high wind off a
@@ -394,7 +394,7 @@ sound of a cry uttered above them; and the words of the cry were these:
 life; and board thy ship with all thy men, and sail with all speed from
 the land!" A countless number of skin-canoes then advanced toward them
 from the inner part of the firth, whereupon Thorvald exclaimed: "We must
-put out the war-boards ( [68](nda12.htm#xref_68)), on both sides of the
+put out the war-boards ( [68](nda12.htm#xref_68).md), on both sides of the
 ship, and defend ourselves to the best of our ability, but offer little
 attack." This they did, and the Skrellings, after they had shot at them
 for a time, fled precipitately, each as best he could. Thorvald then
@@ -427,7 +427,7 @@ to Leif.
 In the meantime it had come to pass in Greenland that Thorstein of
 Ericsfirth had married, and taken to wife Gudrid, Thorbiorn's daughter,
 \[she\] who had been the spouse of Thori Eastman
-( [69](nda12.htm#xref_69)), as has been already related. Now Thorstein
+( [69](nda12.htm#xref_69).md), as has been already related. Now Thorstein
 Ericsson, being minded to make the voyage to Wineland after the body of
 his brother, Thorvald, equipped the same ship, and selected a crew of
 twenty-five men of good size and strength, and taking with him his wife,
@@ -547,7 +547,7 @@ the country, if they could. Karlsefni asked Leif for the
 
 <span id="img_09300"></span> <span align="CENTER"> [![KARLSEFNI'S
 EXPEDITION ASCENDING CHARLES RIVER.](tn/09300.jpg)  
-Click to enlarge](img/09300.jpg)  
+Click to enlarge](img/09300.jpg.md)  
 KARLSEFNI'S EXPEDITION ASCENDING CHARLES RIVER.  
 </span>
 
@@ -608,7 +608,7 @@ so profitable before, and nought else." When they saw this they cast
 their packs in over the palisade. Gudrid was sitting within, in the
 doorway, beside the cradle of her infant son, Snorri when a shadow fell
 upon the door, and a woman in a black namkirtle
-( [70](nda12.htm#xref_70)) entered. She was short in stature, and wore a
+( [70](nda12.htm#xref_70).md) entered. She was short in stature, and wore a
 fillet about her head; her hair was of a light chestnut colour, and she
 was pale of hue, and so big-eyed that never before had eyes so large
 been seen in a human skull. She went up to where Gudrid was seated, and
@@ -774,7 +774,7 @@ order for the voyage to Iceland; and when all his preparations had been
 made, and his ship was lying at the wharf, awaiting favourable winds,
 there came to him a Southerner, a native of Bremen in the Saxonland, who
 wished to buy his "house-neat." "I do not wish to sell it," said he. "I
-will give the half a 'mork' in gold for it" ( [71](nda12.htm#xref_71)),
+will give the half a 'mork' in gold for it" ( [71](nda12.htm#xref_71).md),
 says the Southerner. This Karlsefni thought a good offer, and
 accordingly closed the bargain. The Southerner went his way, with the
 "house-neat," and Karlsefni knew not what it was, but it was "mosur,"
@@ -787,7 +787,7 @@ and in the spring he bought
 <span id="page_101">p. 101</span>
 
 <span class="contnote">\[paragraph continues\]</span> Glaumbœiar-land
-( [59](nda12.htm#xref_59)), and made his home there, and dwelt there as
+( [59](nda12.htm#xref_59).md), and made his home there, and dwelt there as
 long as he lived, and was a man of the greatest prominence. Prom him and
 his wife, Gudrid, a numerous and goodly lineage is descended. After
 Karlsefni's death, Gudrid, together with her son, Snorri, who was born
@@ -807,4 +807,4 @@ which something has now been recounted.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Wineland in the Icelandic Annals](nda09)
+[Next: Chapter V. Wineland in the Icelandic Annals](nda09.md)

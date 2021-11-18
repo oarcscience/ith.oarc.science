@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib12)  [Next](sib14) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib12)  [Next](sib14.md) 
 
 ------------------------------------------------------------------------
 
@@ -454,4 +454,4 @@ reign of Gallienus. Comp. Dan. viii, 5, for the same figure.
 
 ------------------------------------------------------------------------
 
-[Next: Book XIV.](sib14)
+[Next: Book XIV.](sib14.md)

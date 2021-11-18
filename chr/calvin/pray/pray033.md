@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray032)  [Next](pray034) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray032)  [Next](pray034.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ I will proceed to do a marvellous work among this people, even a
 marvellous work and a wonder: for the wisdom of their wise men shall
 perish, and the understanding of their prudent men shall be hid" (<span
 id="iii.xxxi-p1.1"></span>[Isaiah
-29:13](../../../bib/kjv/isa029.htm#013)<span
+29:13](../../../bib/kjv/isa029.htm#013.md)<span
 id="iii.xxxi-p1.1"></span>). Still we do not condemn words or singing,
 but rather greatly commend them, provided the feeling of the mind goes
 along with them. For in this way the thought of God is kept alive on our
@@ -47,4 +47,4 @@ incited to imitate it.
 
 ------------------------------------------------------------------------
 
-[Next: 32.](pray034)
+[Next: 32.](pray034.md)

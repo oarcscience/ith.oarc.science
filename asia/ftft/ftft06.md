@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft05)  [Next](ftft07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft05)  [Next](ftft07.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_19">p. 19</span>
 
-<span id="img_01900"></span> ![The Three Orange Peris](img/01900.jpg)
+<span id="img_01900"></span> ![The Three Orange Peris](img/01900.jpg.md)
 
 <span id="img_iinit"></span>
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N olden time, when there was abundance of all things, we ate and drank
 the whole day long, yet went hungry to bed. At this time there lived a
@@ -56,7 +56,7 @@ feast for everybody.
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE Prince grew and attained his fourteenth year. One day he accosted his
 father with the request: "My Padishah and father, have built for me a
@@ -91,7 +91,7 @@ But as the Prince continued to get worse, the Padishah thought it better
 <span id="img_02000"></span>
 
 [![](tn/02000.jpg)  
-Click to enlarge](img/02000.jpg)
+Click to enlarge](img/02000.jpg.md)
 
 <span id="page_21">p. 21</span>
 
@@ -148,7 +148,7 @@ love him as a brother."
 
 |                     |
 |---------------------|
-| ![O](img/oinit.jpg) |
+| ![O](img/oinit.jpg.md) |
 
 N receiving this assurance the Dew-mother struck the water-jug and the
 Prince appeared. "Here is your brother," she said, presenting him to her
@@ -190,7 +190,7 @@ uncertain how her sons would receive the visitor, she struck him
 <span id="img_02300"></span>
 
 [![One of the Dews fetched a sheep](tn/02300.jpg)  
-Click to enlarge](img/02300.jpg)  
+Click to enlarge](img/02300.jpg.md)  
 One of the Dews fetched a sheep  
 
 <span id="page_24">p. 24</span>
@@ -241,7 +241,7 @@ your eyes--open your eyes!' do so, and seize whatever presents itself."
 
 |                     |
 |---------------------|
-| ![P](img/pinit.jpg) |
+| ![P](img/pinit.jpg.md) |
 
 ROCEEDING a little farther, they came to the garden, and as the Dew
 caught sight of the pond he cried to the Prince: "Shut your eyes--open
@@ -295,7 +295,7 @@ maiden in the tree and mistook it for her own.
 
 |                                       |
 |---------------------------------------|
-| ![She smashed the jug](img/02600.jpg) |
+| ![She smashed the jug](img/02600.jpg.md) |
 
 "I am after all more beautiful than my mistress," she cried aloud.
 Throwing down her jug, she once more went to the house. Again the
@@ -318,7 +318,7 @@ beautiful lovelier
 
 |                                         |
 |-----------------------------------------|
-| ![The negress looked up](img/02700.jpg) |
+| ![The negress looked up](img/02700.jpg.md) |
 
 than anyone she had ever seen before--she addressed her in words of
 honeyed flattery:
@@ -403,7 +403,7 @@ her own room and stuck it in a crevice in the wall.
 
 |                     |
 |---------------------|
-| ![O](img/oinit.jpg) |
+| ![O](img/oinit.jpg.md) |
 
 NE day while she was in attendance at the palace the feather fell from
 its position, and ere it could reach the floor, behold! it was trans
@@ -452,4 +452,4 @@ more stretch ourselves on our divan.
 
 ------------------------------------------------------------------------
 
-[Next: The Rose-Beauty](ftft07)
+[Next: The Rose-Beauty](ftft07.md)

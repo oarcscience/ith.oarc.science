@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ihas21)  [Next](ihas23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ihas21)  [Next](ihas23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Initiation, Human and Solar*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -678,4 +678,4 @@ ascertained, followed by the fruition of realised knowledge.
 
 ------------------------------------------------------------------------
 
-[Next: An Esoteric Catechism](ihas23)
+[Next: An Esoteric Catechism](ihas23.md)

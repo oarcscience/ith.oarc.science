@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp05)  [Next](potp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp05)  [Next](potp07.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ since he took his last
 <span id="img_03300"></span>
 
 [![Home life in the Arctic Circle](tn/03300.jpg)  
-Click to enlarge](img/03300.jpg)  
+Click to enlarge](img/03300.jpg.md)  
 Home life in the Arctic Circle  
 
 <span id="page_34">p. 34</span>
@@ -72,4 +72,4 @@ while he was under the impression that he was going north.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Working of the Compass](potp07)
+[Next: Chapter III. Working of the Compass](potp07.md)

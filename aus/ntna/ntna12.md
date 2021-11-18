@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna11)  [Next](ntna13) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna11)  [Next](ntna13.md) 
 
 ------------------------------------------------------------------------
 
@@ -853,4 +853,4 @@ use. There does not appear to be any secret names.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: Food Restrictions](ntna13)
+[Next: Chapter XI: Food Restrictions](ntna13.md)

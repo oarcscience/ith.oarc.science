@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh16) 
-[Next](iggh18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh16.md) 
+[Next](iggh18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -60,15 +60,15 @@ his return. For know, O Brahman, that of all the Creator's creatures,
 there are only two that do not require to hunt for their legitimate
 prey, but wait quietly while it rushes to destruction in their toils of
 its own accord. And of these, one is a spider <span
-id="fr_30"></span>[x](#fn_30), and the other is a woman.
+id="fr_30"></span>[x](#fn_30.md), and the other is a woman.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_30"></span>[59:x](iggh17.htm#fr_30) This word might also
+<span id="fn_30"></span>[59:x](iggh17.htm#fr_30.md) This word might also
 mean a fisherman, a 'netmaker.'
 
 ------------------------------------------------------------------------
 
-[Next: XV. A Woman's Lord](iggh18)
+[Next: XV. A Woman's Lord](iggh18.md)

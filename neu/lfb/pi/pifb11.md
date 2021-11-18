@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb10)  [Next](pifb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb10)  [Next](pifb12.md) 
 
 </div>
 
@@ -133,6 +133,6 @@ world relating it, like the shirt-collar.
 
 ------------------------------------------------------------------------
 
-[Next: The Princess in the Chest](pifb12)
+[Next: The Princess in the Chest](pifb12.md)
 
 </div>

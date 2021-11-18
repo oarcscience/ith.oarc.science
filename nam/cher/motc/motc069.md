@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc068) 
-[Next](motc070) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc068.md) 
+[Next](motc070.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ keep the lake invisible to the hunter.
 
 ------------------------------------------------------------------------
 
-[Next: 70. The Bride From The South](motc070)
+[Next: 70. The Bride From The South](motc070.md)

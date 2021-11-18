@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](mass)  [Next](philadel) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](mass)  [Next](philadel.md) 
 
 ------------------------------------------------------------------------
 
@@ -385,6 +385,6 @@ Philosopher, Roger Bacon.
 
 ------------------------------------------------------------------------
 
-[Next: On the Philadelphian Gold](philadel)
+[Next: On the Philadelphian Gold](philadel.md)
 
   

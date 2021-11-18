@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo23)  [Next](sdo25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo23)  [Next](sdo25.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ Candidates that they may drink, but take no food on that day.
 
 ------------------------------------------------------------------------
 
-[Next: Raising The Sun Pole](sdo25)
+[Next: Raising The Sun Pole](sdo25.md)

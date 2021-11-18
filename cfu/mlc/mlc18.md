@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc17)  [Next](mlc19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc17)  [Next](mlc19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -1055,7 +1055,7 @@ that he should see his children once more at the end of three years.
 ## Why the Jung Tribe have Heads of Dogs
 
 The wave of conquest which swept from north to south in the earliest
-periods of Chinese history  <span id="fr_48"></span>[1](#fn_48) left on
+periods of Chinese history  <span id="fr_48"></span>[1](#fn_48.md) left on
 its way, like small islands in the ocean, certain remnants of aboriginal
 tribes which survived and continued to exist despite the sustained
 hostile attitude of the flood of alien settlers around them. When
@@ -1124,7 +1124,7 @@ bridegroom’s head being veiled for the occasion by a red mantilla.
 
 Unfortunately the fruit of the union took more after their father than
 their mother, and though comely of limb had exceedingly ugly
-features.  <span id="fr_49"></span>[2](#fn_49) They were therefore
+features.  <span id="fr_49"></span>[2](#fn_49.md) They were therefore
 obliged to continue to wear the head-covering adopted by their father at
 the marriage ceremony, and this became so much an integral part of the
 tribal costume that not only has it been worn ever since by their
@@ -1175,9 +1175,9 @@ and it is invariably just.
 
 ### Footnotes
 
-<span id="fn_48"></span>[423:1](mlc18.htm#fr_48) See Chapter I.
+<span id="fn_48"></span>[423:1](mlc18.htm#fr_48.md) See Chapter I.
 
-<span id="fn_49"></span>[423:2](mlc18.htm#fr_49) Compare the legend of
+<span id="fn_49"></span>[423:2](mlc18.htm#fr_49.md) Compare the legend of
 the tailed Miao Tzŭ tribes named Yao, ‘mountain-dogs’ or ‘jackals,’
 living on the mountain ranges in the north-west of Kuangtung Province,
 related in the *Jih chi so chih*.
@@ -1186,6 +1186,6 @@ related in the *Jih chi so chih*.
 
 ------------------------------------------------------------------------
 
-[Next: Glossary and Index](mlc19)
+[Next: Glossary and Index](mlc19.md)
 
 </div>

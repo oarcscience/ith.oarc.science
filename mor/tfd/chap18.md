@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap17) [Next](chap19)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap17) [Next](chap19.md)
 
 ------------------------------------------------------------------------
 
@@ -443,4 +443,4 @@ so gracefully championed amid camp and cowboy life.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX: Mind as the Master Worker](chap19)
+[Next: Chapter XIX: Mind as the Master Worker](chap19.md)

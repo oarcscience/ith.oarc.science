@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain24)  [Next](ain26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain24)  [Next](ain26.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ fringed with beautiful feathers and flowers and turquoises.
 
 And he came to the tree which is called The Talking Tree. And the Tree
 took of its bark thin strips, which curled as owl
-[feathers](errata.htm#20) do when split, and tied them on a little
+[feathers](errata.htm#20.md) do when split, and tied them on a little
 stick, and put them in Ee-ee-toy's hair. And it gave him four sticks,
 made from that one of its branches which dipped
 
@@ -316,7 +316,7 @@ And they selected the small Gray Night Hawk;
 And he blew a gray dust all thru the enemy's houses and swept their
 ground.
 
-And their springs of water were left dry, [choked](errata.htm#21) with
+And their springs of water were left dry, [choked](errata.htm#21.md) with
 driftwood and covered with cobwebs.
 
 And their kees, their houses, were full of soot, and their trails like
@@ -334,4 +334,4 @@ prophecy.
 
 ------------------------------------------------------------------------
 
-[Next: Notes On Ee-ee-toy's Resurrection](ain26)
+[Next: Notes On Ee-ee-toy's Resurrection](ain26.md)

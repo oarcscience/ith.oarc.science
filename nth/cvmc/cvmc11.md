@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cvmc10)  [Next](cvmc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cvmc10)  [Next](cvmc12.md) 
 
 ------------------------------------------------------------------------
 
@@ -594,4 +594,4 @@ city."
 
 ------------------------------------------------------------------------
 
-[Next: A Few Practical Applications](cvmc12)
+[Next: A Few Practical Applications](cvmc12.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cwt02)  [Next](cwt04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cwt02)  [Next](cwt04.md) 
 
 ------------------------------------------------------------------------
 
@@ -270,4 +270,4 @@ The Dagda smiled and stopped playing.
 
 ------------------------------------------------------------------------
 
-[Next: How the Son of Gobhaun Saor Sold the Sheepskin](cwt04)
+[Next: How the Son of Gobhaun Saor Sold the Sheepskin](cwt04.md)

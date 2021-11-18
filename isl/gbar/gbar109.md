@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar108) [Next](gbar110)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar108) [Next](gbar110.md)
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ all times man receiveth from God gifts and mercy.
 
 ------------------------------------------------------------------------
 
-[Next](gbar110)
+[Next](gbar110.md)

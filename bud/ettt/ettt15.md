@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt14)  [Next](ettt16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt14)  [Next](ettt16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ the source of Gsan *A*dus given by *A*pags-pa, father and son. According
 to their teaching, before the process of entering, remaining, and
 dissolving into the Central Channel by the life-Prana, the three steps
 of the Manifestation, Augmentation, and Attainment of the Peaceful-Mind
-Samadhi[74](ettt22.htm#an_n_nar:74)<span id="an_r_nar:74"></span> can
+Samadhi[74](ettt22.htm#an_n_nar:74.md)<span id="an_r_nar:74"></span> can
 never be attained.
 
 The mind-prana that perfects the genuine wisdom of the
@@ -77,7 +77,7 @@ Among the numerous teachings of the Illusory Body, one is to meditate on
 the shadow-like nature of the self-body. First let someone praise and
 then insult you and observe the reactions of pleasure and resentment.
 Thus the crude form of the delusory
-thoughts[75](ettt22.htm#an_n_nar:75)<span id="an_r_nar:75"></span> are
+thoughts[75](ettt22.htm#an_n_nar:75.md)<span id="an_r_nar:75"></span> are
 subdued; this is the practice of the Impure Illusory Body. Another
 practice is called the Pure Illusory Body Yoga. That is to meditate on
 the illusory-like self-Buddha figure and let another person praise and
@@ -130,7 +130,7 @@ illustrate its mirage-like nature.
 
 Following carefully the teaching of the Five Steps, the instructions are
 given \[by the guru\]. A comprehensive survey of the
-[*A*pags-pa](errata.htm#46) pith-instruction is thus afforded, and the
+[*A*pags-pa](errata.htm#46.md) pith-instruction is thus afforded, and the
 incompleteness of the Illusory-Body teaching of the Marpa School is also
 discussed fully.
 
@@ -142,7 +142,7 @@ instructions on the following steps are given: How the illusory body is
 transformed from the mind-prana; how one can enter into the Absolute
 Light after making the Illusory Body; in what manner the Manifestation,
 Augmentation, Voidness, etc., come in sight; how the
-Two-in-One-with-Learning[76](ettt22.htm#an_n_nar:76)<span
+Two-in-One-with-Learning[76](ettt22.htm#an_n_nar:76.md)<span
 id="an_r_nar:76"></span> (Body) is transformed after the Absolute-Light
 is stabilized and how through it the Two-in-One-without-Learning Body
 can be established how, if the Yogi practices the Light-of-Sleep, he is
@@ -169,7 +169,7 @@ and the holding-of-dream through desire; and between the coming of
 death-light and sleep-light through the prana power and through the
 power of the strong will. How the Sambhogakaya is manifested in the
 Bardo state should also be studied. If one wants to know this in detail,
-one may study the instructions of [*A*pags-pa](errata.htm#47) who
+one may study the instructions of [*A*pags-pa](errata.htm#47.md) who
 provides much information.
 
 In the practice of holding the Light-of-Sleep and the practice of
@@ -218,7 +218,7 @@ After the emergence of the light-of-sleep, if one knows how to radiate
 or raise up the superb Illusory Dream-Body, through its power the
 daytime practice on the Illusory Body will become more powerful and
 steady. If one cannot attain the ultimate
-[accomplishment](errata.htm#48) in this life and puts his hope in the
+[accomplishment](errata.htm#48.md) in this life and puts his hope in the
 moment of death, he must have the ability of holding the light with
 prana and must practice this teaching of Illusory Body of Dream. Thus he
 will be able to identify the Illusory Body of Bardo. Without these
@@ -247,7 +247,7 @@ on the dream state; and the Illusory Body practice on the Bardo state.
 With a decisive understanding or View on Sūnyatā, the yogi associates
 this view with the Innate-Born Bliss in meditation. After the meditation
 period, through remembering the View and remembering that all
-manifestations are [Buddhahood](errata.htm#49), the yogi will naturally
+manifestations are [Buddhahood](errata.htm#49.md), the yogi will naturally
 experience, in all daily activities, the feeling that all manifestations
 are immanently illusory. He will also see all manifestations
 illustrating themselves in the forms of Mandalas. For these (capable)
@@ -261,12 +261,12 @@ image reflected from the mirror. Through this practice, the common
 
 <span id="page_207">p. 207</span>
 
-visions of sentient being and universe[77](ettt22.htm#an_n_nar:77)<span
+visions of sentient being and universe[77](ettt22.htm#an_n_nar:77.md)<span
 id="an_r_nar:77"></span> will appear as mirage without any substance or
-self-nature. [If](errata.htm#50) this experience can be stabilized, all
-manifestations [will](errata.htm#51) appear in the form of the two
-Mandalas[78](ettt22.htm#an_n_nar:78)<span id="an_r_nar:78"></span>. With
-an [understanding](errata.htm#52) of the mirage-like nature, or with the
+self-nature. [If](errata.htm#50.md) this experience can be stabilized, all
+manifestations [will](errata.htm#51.md) appear in the form of the two
+Mandalas[78](ettt22.htm#an_n_nar:78.md)<span id="an_r_nar:78"></span>. With
+an [understanding](errata.htm#52.md) of the mirage-like nature, or with the
 view of the identity of non-self-nature Voidness and manifestation, the
 yogi observes the pure Mandala. And then he looks into the mirror and
 identifies the godly image there with his own body. In this way, the
@@ -292,7 +292,7 @@ are found in both Marpa's and *A*gog's teachings.
 
 (Generally speaking) there are two different aspects of the
 illusory-like and dream-like nature of all
-Dharmas:[79](ettt22.htm#an_n_nar:79)<span id="an_r_nar:79"></span> the
+Dharmas:[79](ettt22.htm#an_n_nar:79.md)<span id="an_r_nar:79"></span> the
 existent-but-not-real aspect, and the manifesting-yet-void aspect.
 
 <span id="page_208">p. 208</span>
@@ -301,7 +301,7 @@ Here, the latter aspect which refers to the Illusory Body is stressed.
 
 The manifestation and the manifestation-void should also be
 distinguished; and two different kinds of
-voidness[80](ettt22.htm#an_n_nar:80)<span id="an_r_nar:80"></span> the
+voidness[80](ettt22.htm#an_n_nar:80.md)<span id="an_r_nar:80"></span> the
 voidness of the utter non-existent such as the never coming-into-being
 of the horn of the rabbit or the son of a barren woman; and the voidness
 of the manifesting-yet-empty. (If one has not realized the latter, one
@@ -320,7 +320,7 @@ Dharma-form (color, shape, sound, taste, etc.) have never existed.
 Nevertheless, the actor and the action, the hearer and the sound, the
 seer and the vision, etc., are continuously manifesting themselves
 freely. If one realizes the Two-in-One View of "existence in voidness
-and voidness in existence,"[81](ettt22.htm#an_n_nar:81)<span
+and voidness in existence,"[81](ettt22.htm#an_n_nar:81.md)<span
 id="an_r_nar:81"></span> there will be no danger of falling into the
 extreme Realistic or Nihilistic views. Since all Dharmas are immanently
 void in nature, realizing their nature as void is quite sufficient;
@@ -357,7 +357,7 @@ void. We also know that the reflection is caused by the conjunction of
 the face and mirror, and that the withdrawal of either of them will end
 the reflection. But the disappearance of the reflection does not mean
 the annihilation of the face and mirror
-themselves[82](ettt22.htm#an_n_nar:82)<span id="an_r_nar:82"></span>. In
+themselves[82](ettt22.htm#an_n_nar:82.md)<span id="an_r_nar:82"></span>. In
 the same way, though there is not one atom existing in sentient beings,
 the Karma-doer, the Karma-receiver, and the ripening of Karma through
 one's previous deeds can still take
@@ -379,7 +379,7 @@ attention to the observation of Śūnyatā. Thus, by concentration on
 Śūnyatā-Bliss the non-discriminating Wisdom will arise.
 
 The yogi should practice the main-meditation and after-meditation
-stages, alternatively.[83](ettt22.htm#an_n_nar:83)<span
+stages, alternatively.[83](ettt22.htm#an_n_nar:83.md)<span
 id="an_r_nar:83"></span>
 
  
@@ -506,7 +506,7 @@ an auspicious one. He should pray to his Guru with great earnestness to
 grant him the ability to do so. In the dream state, the yogi should
 perform the ritual of offering the Gtormas to the Yi-Dam and protective
 deities, pray them to grant his wishes, etc. In his
-retreat-confinement,[84](ettt22.htm#an_n_nar:84)<span
+retreat-confinement,[84](ettt22.htm#an_n_nar:84.md)<span
 id="an_r_nar:84"></span> the yogi should work hard on these practices.
 
 Practice during the daytime should put emphasis mainly on dwelling upon
@@ -520,7 +520,7 @@ dreams appear, he will be able to recognize them and also to utilize
 them as a basis to exercise (the Dream Yoga practices). The yogi should
 not only strengthen his intention by repeatedly reminding himself of the
 desire during the day, but also strengthen the desire just before sleep.
-This will greatly [increase](errata.htm#53) the chance of recognizing
+This will greatly [increase](errata.htm#53.md) the chance of recognizing
 the dream.
 
 The instructions on the intensive practice at night are given in three
@@ -546,7 +546,7 @@ Illusoriness* says, "Meditating on the four words—*Ah*, *Nu*, *Da*,
 *Ra*—in a successive order does not increase more power. It helps
 little; therefore, this practice may be dispensed with." To meditate on
 the *Oṃ* word at the central point is in accord with the saying of
-Sambhudra and other Tantras[85](ettt22.htm#an_n_nar:85)<span
+Sambhudra and other Tantras[85](ettt22.htm#an_n_nar:85.md)<span
 id="an_r_nar:85"></span>. However, visualizing a red *Ah* word is also
 acceptable. The extremely important point is to meditate on the word at
 the "central point"; i.e., to meditate on the word in the Throat Center
@@ -586,7 +586,7 @@ becomes too light and he is liable to awake, or he can not fall into
 sleep at all, he should visualize a *Thig-le* within the reproductive
 organ and also repeatedly strengthen his desire for recognizing the
 dream during the daytime as mentioned before. Before sleep, he should
-visualize a black [*Thig-le*](errata.htm#54) in the center of the organ
+visualize a black [*Thig-le*](errata.htm#54.md) in the center of the organ
 and practice the breathing exercise twenty-one times. Thus the
 destructive thoughts will be halted, and he can fall into sleep more
 easily. One should know that meditating on that organ is a cure for
@@ -675,7 +675,7 @@ dream-like and have no substantiality whatsoever.
 
 With this understanding definitely in mind, the yogi should acquaint
 himself with the nature, manner and characteristics of the
-Clinging-of-Existence, and also [familiarize](errata.htm#55) himself
+Clinging-of-Existence, and also [familiarize](errata.htm#55.md) himself
 with the reasons for the non-existence of this (illusory) Clinging. With
 such an understanding, the yogi learns that all the visions, objects,
 and subjects that he sees in the dream are identical with (Buddha) and
@@ -700,7 +700,7 @@ into the *Hūṃ* word. Then the *Hūṃ* word also vanishes into the
 non-discriminating Light, upon which the yogi should concentrate his
 mind.
 
-The perception-of-mind[86](ettt22.htm#an_n_nar:86)<span
+The perception-of-mind[86](ettt22.htm#an_n_nar:86.md)<span
 id="an_r_nar:86"></span> of the dream state is much easier to absorb
 than the perception-of-mind of the waking state. In the dream state,
 when some portion of the very coarse kind of Prana dissolves itself and
@@ -708,7 +708,7 @@ gathers at the Heart Center, the dream will vanish, and one will fall
 into the sleeping state. This is the time in which one may recognize the
 Voidness; if not, through repeated practices, one will definitely be
 able to see the Voidness of sleep clearly. If the absorbing
-process[87](ettt22.htm#an_n_nar:87)<span id="an_r_nar:87"></span> and
+process[87](ettt22.htm#an_n_nar:87.md)<span id="an_r_nar:87"></span> and
 Void-holding become stable, this will greatly help meditation—Prana
 exercise, visualization, Mahamudra—in the daytime. 1f the yogi cannot
 recognize the Voidness-of-Sleep at the beginning stage when he first
@@ -719,6 +719,6 @@ dream, to see the special Voidness.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seven: On the Bardo Realm](ettt16)
+[Next: Chapter Seven: On the Bardo Realm](ettt16.md)
 
 </div>

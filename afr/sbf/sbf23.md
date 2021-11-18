@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf22)  [Next](sbf24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf22)  [Next](sbf24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -324,6 +324,6 @@ man.
 
 ------------------------------------------------------------------------
 
-[Next: A Woman Of The Early Race And The Rain Bull.](sbf24)
+[Next: A Woman Of The Early Race And The Rain Bull.](sbf24.md)
 
 </div>

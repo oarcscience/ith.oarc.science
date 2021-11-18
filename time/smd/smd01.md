@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd00)  [Next](smd02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd00)  [Next](smd02.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](smd02)
+[Next: Introduction](smd02.md)

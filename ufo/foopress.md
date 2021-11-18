@@ -65,4 +65,4 @@ Headquarters.)
 ---
 ------------------------------------------------------------------------
 
-[Next: Bigfoot Hoax](foothoax)
+[Next: Bigfoot Hoax](foothoax.md)

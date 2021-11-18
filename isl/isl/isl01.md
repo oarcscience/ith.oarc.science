@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl00)  [Next](isl02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl00)  [Next](isl02.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ S. P. C. K. for selections from Constance E. Padwick, *Muslim Devotions*
 
 ------------------------------------------------------------------------
 
-[Next: Contents](isl02)
+[Next: Contents](isl02.md)

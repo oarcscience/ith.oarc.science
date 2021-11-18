@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah16)  [Next](toah18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah16)  [Next](toah18.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ So this man, or whoever it was, came close to the village again and
 finally went away up the mountain. Now someone said to the Chief that
 this person, whoever he was, that came from the peaks must surely live
 up there, so that it would be well for him to hold the ceremony of the
-"Paho making." [5](toah24.htm#xref_5) So he called the High Priest and
+"Paho making." [5](toah24.htm#xref_5.md) So he called the High Priest and
 had him make prayer offerings.
 
 After thinking it over the Chief decided to send one of his nephews with
@@ -58,7 +58,7 @@ they were spirits, then the people would worship them and accept their
 advice, because he knows himself, who must have control of the weather.
 
 So the youth started out, but before he commenced to ascend he came upon
-the old Spider Woman. [7](toah24.htm#xref_7) The Spider Woman spoke to
+the old Spider Woman. [7](toah24.htm#xref_7.md) The Spider Woman spoke to
 the youth, but he could not see her anywhere, so she peeped a little
 more out of her hole and she said to him, "Come in."
 
@@ -159,21 +159,21 @@ Finally, the head man asked the youth why his people down there had sent
 the offerings and what it was they wanted. Well, the boy said that his
 people wanted to find out who it was that lived up there and if they
 might be supernatural beings. And they answered him and said that they
-were the Kachinas, [7](toah24.htm#xref_7) and being Kachinas they had
+were the Kachinas, [7](toah24.htm#xref_7.md) and being Kachinas they had
 control of the weather, like the rain and the storms.
 
 Now the Kachinas said that they would teach the youth the Kachina dances
 so that he could show his people down below how to hold Kachina dances
 and make them a part of their religion.
 
-So the youth was asked to stay for four days [3](toah24.htm#xref_3) and
+So the youth was asked to stay for four days [3](toah24.htm#xref_3.md) and
 during those four days and four nights he was shown the different dances
 and he was asked to study them so that he could paint the faces on the
 ceremonial masks when he returned. So the old man dressed the youth in
 full costume and they danced to the north, west, south, and east.
 
 Then the youth, who had heard about the Germ God (Muiaingwa
-) [7](toah24.htm#xref_7) now recognized the old man as the Germ God
+) [7](toah24.htm#xref_7.md) now recognized the old man as the Germ God
 himself. Then the Germ God told the youth that if he would stay with
 them for awhile he would teach him how to make masks out of a white
 material and he told him that he must also learn how to make the
@@ -208,4 +208,4 @@ And so the Crow and Kachina Clans brought these dances to the Hopi.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Palotquopi](toah18)
+[Next: The Legend of Palotquopi](toah18.md)

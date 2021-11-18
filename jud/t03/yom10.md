@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](yom09)  [Next](yom11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](yom09)  [Next](yom11.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -803,4 +803,4 @@ unless the second was a better one.
 
 [Next: Chapter VI: Regulations Concerning the He-Goats of the Day of
 Atonement And the Sending to the Desert, And the Confession
-Thereat.](yom11)
+Thereat.](yom11.md)

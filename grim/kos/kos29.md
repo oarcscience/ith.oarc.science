@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos28)  [Next](kos30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos28)  [Next](kos30.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ the young lion and the dragon shalt thou tread under thy feet.'
 
 ------------------------------------------------------------------------
 
-[Next: Plate VII](kos30)
+[Next: Plate VII](kos30.md)

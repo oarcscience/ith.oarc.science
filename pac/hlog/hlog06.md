@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog05)  [Next](hlog07) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog05)  [Next](hlog07.md) 
 
 ------------------------------------------------------------------------
 
@@ -330,4 +330,4 @@ destruction of the body and the passing away of the spirit..
 
 ------------------------------------------------------------------------
 
-[Next: II. Maluae and the Under-world](hlog07)
+[Next: II. Maluae and the Under-world](hlog07.md)

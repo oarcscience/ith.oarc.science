@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg14)  [Next](leg16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg14)  [Next](leg16.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ the mother-gods who were with me, even when I was in Nu side by side
 with my god Nu. Let there be brought along with my Eye his ministers,
 and let them be led to me hither secretly, so that men and women may not
 perceive them \[coming\] hither, and may not therefore take to flight
-with their hearts. Come thou <span id="fr_58"></span>[1](#fn_57) with
+with their hearts. Come thou <span id="fr_58"></span>[1](#fn_57.md) with
 them
 
 <span id="page_16">p. 16</span> <span id="page_17">p. 17</span>
@@ -67,12 +67,12 @@ over men and women it was sweet to my heart;" and the Majesty of Ra
 said, "I myself will be master over them as \[their\] king, and I will
 destroy them." And it came to pass that Sekhet of the offerings waded
 about in the night season in their blood, beginning at
-Suten-henen. <span id="fr_59"></span>[1](#fn_58) Then the Majesty of Ra,
+Suten-henen. <span id="fr_59"></span>[1](#fn_58.md) Then the Majesty of Ra,
 spake \[saying\], "Cry out, and let there come to me swift and speedy
 messengers who shall be able to run like the wind . . . .;" and
 straightway messengers of this \[kind were brought unto him. And the
 Majesty of this god spake \[saying\], "Let these messengers go to
-Abu, <span id="fr_60"></span>[2](#fn_59) and bring unto me mandrakes in
+Abu, <span id="fr_60"></span>[2](#fn_59.md) and bring unto me mandrakes in
 great numbers;" and \[when\] these
 
 <span id="page_20">p. 20</span> <span id="page_21">p. 21</span>
@@ -93,7 +93,7 @@ and women were slaughtered by her." Then the Majesty of the King of the
 South and North in the three-fold beauty of the night caused to be
 poured out these vases of beer which make \[men\] to lie down (or,
 sleep), and the meadows of the Four Heavens <span
-id="fr_61"></span>[1](#fn_60) were filled with beer (or, water) by
+id="fr_61"></span>[1](#fn_60) were filled with beer (or, water.md) by
 reason of the Souls of the Majesty of this god. And it came to pass that
 when this goddess arrived at the dawn of day, she found these
 \[Heavens\] flooded \[with beer\], and she was pleased thereat; and
@@ -103,7 +103,7 @@ when this goddess arrived at the dawn of day, she found these
 she drank \[of the beer and blood\], and her heart rejoiced, and she
 became drunk, and she gave no further attention to men and women. Then
 said the Majesty of Ra to this goddess, "Come in peace, come in peace, O
-Amit," <span id="fr_62"></span>[1](#fn_61) and thereupon beautiful women
+Amit," <span id="fr_62"></span>[1](#fn_61.md) and thereupon beautiful women
 came into being in the city of Amit (or, Amem). And the Majesty of Ra
 spake \[concerning\] this goddess, \[saying\], "Let there be made for
 her vessels of the beer which produceth sleep at every holy time and
@@ -114,7 +114,7 @@ beer which make them to sleep in number according to the number of the
 handmaidens of Ra. And the Majesty of Ra spake unto this goddess,
 \[saying\], "I am smitten with the pain of the fire of sickness; whence
 cometh to me \[this\] pain?" And the Majesty of Ra said, "I live, but my
-heart hath become exceedingly weary <span id="fr_63"></span>[2](#fn_62)
+heart hath become exceedingly weary <span id="fr_63"></span>[2](#fn_62.md)
 with existence with them (i.e., with men); I have slain \[some of\]
 them, but there is a remnant of worthless ones, for the destruction
 which I wrought among them was not as great as my power." Then the gods
@@ -176,24 +176,24 @@ and \[the custom\] of a father carrying a son upon his head.
 
 ### Footnotes
 
-<span id="fn_57"></span>[15:1](leg15.htm#fr_58) The god here addressed
+<span id="fn_57"></span>[15:1](leg15.htm#fr_58.md) The god here addressed
 appears to have been Nu.
 
-<span id="fn_58"></span>[19:1](leg15.htm#fr_59) Or, Henen-su, חָנֵס,
+<span id="fn_58"></span>[19:1](leg15.htm#fr_59.md) Or, Henen-su, חָנֵס,
 i.e., Herakleopolis, Magna.
 
-<span id="fn_59"></span>[19:2](leg15.htm#fr_60) I.e., Elephantine, or
+<span id="fn_59"></span>[19:2](leg15.htm#fr_60.md) I.e., Elephantine, or
 Syene, a place better known by the Arabic name ASWAN.
 
-<span id="fn_60"></span>[21:1](leg15.htm#fr_61) I.e., the South, North,
+<span id="fn_60"></span>[21:1](leg15.htm#fr_61.md) I.e., the South, North,
 West, and East of the sky.
 
-<span id="fn_61"></span>[23:1](leg15.htm#fr_62) I.e., "the fair and
+<span id="fn_61"></span>[23:1](leg15.htm#fr_62.md) I.e., "the fair and
 gracious goddess."
 
-<span id="fn_62"></span>[23:2](leg15.htm#fr_63) Literally, "My heart
+<span id="fn_62"></span>[23:2](leg15.htm#fr_63.md) Literally, "My heart
 hath stopped greatly."
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of the Destruction of Mankind, Chapter II.](leg16)
+[Next: The Legend of the Destruction of Mankind, Chapter II.](leg16.md)

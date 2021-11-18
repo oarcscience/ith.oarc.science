@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl146)  [Next](cohl148) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl146)  [Next](cohl148.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_105">p. 105</span>
 
-### LEGEND OF THE COMING OF DEATH <span id="fr_102"></span>[1](#fn_102)
+### LEGEND OF THE COMING OF DEATH <span id="fr_102"></span>[1](#fn_102.md)
 
 When the world was first made, men-beings did not know that they must
 die some time. In those days everyone was happy and neither men, women
@@ -67,9 +67,9 @@ Maker of all things lives."
 
 ### Footnotes
 
-<span id="fn_102"></span>[105:1](cohl147.htm#fr_102) Related by Edward
+<span id="fn_102"></span>[105:1](cohl147.htm#fr_102.md) Related by Edward
 Cornplanter, March 1906.
 
 ------------------------------------------------------------------------
 
-[Next: The Funeral Address](cohl148)
+[Next: The Funeral Address](cohl148.md)

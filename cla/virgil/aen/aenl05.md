@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](aen05) 
-[Previous](aenl04)  [Next](aenl06) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](aen05.md) 
+[Previous](aenl04)  [Next](aenl06.md) 
 
 ------------------------------------------------------------------------
 
@@ -909,4 +909,4 @@ nudus in ignota, Palinure, iacebis harena.'
 
 ------------------------------------------------------------------------
 
-[Next: Book VI](aenl06)
+[Next: Book VI](aenl06.md)

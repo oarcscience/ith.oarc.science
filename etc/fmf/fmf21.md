@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf20)  [Next](fmf22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf20)  [Next](fmf22.md) 
 
 ------------------------------------------------------------------------
 
@@ -163,4 +163,4 @@ Wearing what you like.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The All-Night Seance and The Limit That Ceased to
-Be](fmf22)
+Be](fmf22.md)

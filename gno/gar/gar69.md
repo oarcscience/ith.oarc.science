@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar68)  [Next](gar70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar68)  [Next](gar70.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -94,7 +94,7 @@ Candidate. One of the things most strictly prohibited
 
 was to ever write the *name* of either Order or Lodge; they must be
 expressed by **Θ** and **Π** respectively. <span
-id="fr_260"></span>[\*](#fn_258)
+id="fr_260"></span>[\*](#fn_258.md)
 
 In the admission to his degrees Weishaupt adopted all the Masonic
 ceremonial. For example, in making the "Scottish Knight," the "secret
@@ -111,13 +111,13 @@ The novice was told to choose: if he took the gold, he received a severe
 reprimand, phrased with a lot of *humanitarian* cant too tedious to copy
 here, and unnecessary besides--seeing that the same is perpetually
 dinned into our ears at the present day. <span
-id="fr_261"></span>[†](#fn_259)
+id="fr_261"></span>[†](#fn_259.md)
 
 At the end, the Hierophant delivered a long address upon natural liberty
 and equality, and all the rest thereto pertaining. Weishaupt, a
 professional *Atheist*, was both astonished and diverted at finding
 eminent Protestant divines, after their initiation, declaring that all
-these notions were the [genuine](errata.htm#28) doctrines of the Gospel:
+these notions were the [genuine](errata.htm#28.md) doctrines of the Gospel:
 which was certainly a very awkward truth to be held by the friends of
 the established order of civilised society. It is not, however, less a
 truth, if the same
@@ -135,24 +135,24 @@ Weishaupt's as the most conclusive proof of his audacious impiety.
 
 ### Footnotes
 
-<span id="fn_258"></span>[426:\*](gar69.htm#fr_260) "'Brother A. B.,
+<span id="fn_258"></span>[426:\*](gar69.htm#fr_260.md) "'Brother A. B.,
 *Write* upon this MS. of the R. S. of this Degree.' In his *attempt* to
 do this he receives a severe and prudent C. by the J. D. placed behind
 him for that purpose, by the C. T. united to his F. &c."--*Masonic
 Ceremonial*.
 
-<span id="fn_259"></span>[426:†](gar69.htm#fr_261) The popular notion of
+<span id="fn_259"></span>[426:†](gar69.htm#fr_261.md) The popular notion of
 the brand-mark received by Masons on initiation is derived front the
 *stigmata* impressed upon the ancient mystæ at their admission. A
 remarkable, example is that of Ptolemy Auletes, who was thus marked in
 several parts of the body with the lotus, the colocynth-flower, and the
 timbrel of Cybele (Plutarch, 'De dignoscendo adulatore'). The remarking
 of the Mithraici has been noticed in the section devoted to that worship
-(pp. [139](gar20.htm#page_139), [140](gar20.htm#page_140)). Hence came
+(pp. [139](gar20.htm#page_139), [140](gar20.htm#page_140).md). Hence came
 the mediæval belief in the secret mark impressed by the; Devil at the
 *Sabbat* upon those who swore allegiance to him; and which mark could be
 recognised by the witch-finders from its insensibility to pain.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](gar70)
+[Next: Conclusion](gar70.md)

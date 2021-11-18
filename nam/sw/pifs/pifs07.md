@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs06)  [Next](pifs08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs06)  [Next](pifs08.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,15 +94,15 @@ coals.
 
 "Oh, yes, that is the cause of the war," said old Antonio, gravely. "And
 now, brother, there is a tail to you," turning to the tall, gray-haired
-Felipe <span id="fr_15"></span>[1](#fn_15); and clearing his throat,
+Felipe <span id="fr_15"></span>[1](#fn_15.md); and clearing his throat,
 Felipe begins about the Coyote and the Bear.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_15"></span>[29:1](pifs07.htm#fr_15) Pronounced Fay-lée-peh.
+<span id="fn_15"></span>[29:1](pifs07.htm#fr_15.md) Pronounced Fay-lée-peh.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Coyote and the Bear](pifs08)
+[Next: V. The Coyote and the Bear](pifs08.md)

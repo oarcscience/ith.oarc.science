@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](waws07)  [Next](waws09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](waws07)  [Next](waws09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -464,7 +464,7 @@ that our own lot is about the hardest there is, and if we are able at
 any time to persuade ourselves that we can find no one whose lot is just
 a little harder than ours, let us then study for a little while the
 character Pompilia, in Browning's poem, <span
-id="fr_3"></span>[\*](#fn_3) and after studying it, thank God that the
+id="fr_3"></span>[\*](#fn_3.md) and after studying it, thank God that the
 conditions in our life are so favorable; and then set about with a
 trusting and intrepid spirit to actualize the conditions that we most
 desire.
@@ -717,9 +717,9 @@ With Whittier he sings:
 
 ### Footnotes
 
-<span id="fn_3"></span>[214:\*](waws08.htm#fr_3) "The Ring and the
+<span id="fn_3"></span>[214:\*](waws08.htm#fr_3.md) "The Ring and the
 Book," by Robert Browning.
 
 ------------------------------------------------------------------------
 
-[Next: End Matter](waws09)
+[Next: End Matter](waws09.md)

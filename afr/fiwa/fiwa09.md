@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa08)  [Next](fiwa10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa08)  [Next](fiwa10.md) 
 
 ------------------------------------------------------------------------
 
@@ -375,4 +375,4 @@ following chapters are devoted.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII: The Fetich--Witchcraft--A White
-Art--Sorcery](fiwa10)
+Art--Sorcery](fiwa10.md)

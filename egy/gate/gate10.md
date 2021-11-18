@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate09)  [Next](gate11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate09)  [Next](gate11.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ god.
 
 ------------------------------------------------------------------------
 
-[Next: The Ninth Hour](gate11)
+[Next: The Ninth Hour](gate11.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits080) [Next](bits082)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits080) [Next](bits082.md)
 
 ------------------------------------------------------------------------
 
@@ -332,7 +332,7 @@ the resolution: therefore it keeps silence. So I understand your wish.
 
 ------------------------------------------------------------------------
 
-[Next: § 82. The Serpent Who Wanted to Be a Priest](bits082)
+[Next: § 82. The Serpent Who Wanted to Be a Priest](bits082.md)
 
  
 

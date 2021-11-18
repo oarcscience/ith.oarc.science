@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [California](../index)  [Index](index) 
-[Previous](cma24)  [Next](cma26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [California](../index)  [Index](index.md) 
+[Previous](cma24)  [Next](cma26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Creation Myths of Primitive America*, by Jeremiah Curtin, \[1898\], at
 Intangible Textual Heritage
 
@@ -60,4 +60,4 @@ and mysterious city appears as a frontispiece to the present volume.
 
 ------------------------------------------------------------------------
 
-[Next: The Wintus](cma26)
+[Next: The Wintus](cma26.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc19)  [Next](scc21) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc19)  [Next](scc21.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ one approaches it he meets wind and rain.
 
 ------------------------------------------------------------------------
 
-[Next: 19.--Tachi Yokuts. The Race Of The Antelope And Deer.](scc21)
+[Next: 19.--Tachi Yokuts. The Race Of The Antelope And Deer.](scc21.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vrb03)  [Next](vrb05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vrb03)  [Next](vrb05.md) 
 
 ------------------------------------------------------------------------
 
@@ -450,4 +450,4 @@ ideal for another member of the Priest caste.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three: Creating Living Ritual](vrb05)
+[Next: Chapter Three: Creating Living Ritual](vrb05.md)

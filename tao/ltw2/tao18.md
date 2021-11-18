@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao18)   
-[Previous](tao17)  [Next](tao19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao18.md)   
+[Previous](tao17)  [Next](tao19.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ patriotism arise.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 19](tao19)
+[Next: Chapter 19](tao19.md)

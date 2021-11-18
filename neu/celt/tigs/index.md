@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tigs00)    [Page
-Index](pageidx)    [Text \[Zipped\]](tigs.txt.gz)
+[Contents](#contents)    [Start Reading](tigs00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](tigs.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,23 +43,23 @@ as well as poltergeists and Banshees, and find out what to do if a
 'Headless Coach' shows up. Seymour solicited the stories from newspaper
 readers, and many of them are from respectable military, clergymen, and
 gentry. Seymour also wrote [Irish Witchcraft and
-Demonology](../../../pag/iwd/index). True Irish Ghost Stories is a
+Demonology](../../../pag/iwd/index.md). True Irish Ghost Stories is a
 unique and very entertaining read, particularly for fans of Irish tales,
 as well as the paranormal investigator.--J.B. Hare, May 6th, 2009.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](tigs00)  
-[Foreword](tigs01)  
-[Contents](tigs02)  
-[Chapter I. Haunted Houses in or near Dublin](tigs03)  
-[Chapter II. Haunted Houses in Conn's Half](tigs04)  
-[Chapter III. Haunted Houses in Mogh's Half](tigs05)  
-[Chapter IV. Poltergeists](tigs06)  
-[Chapter V. Haunted Places](tigs07)  
-[Chapter VI. Apparitions At or After Death](tigs08)  
-[Chapter VII. Banshees, and Other Death-Warnings](tigs09)  
-[Chapter VIII. Miscellaneous Supernormal Experiences](tigs10)  
-[Chapter IX. Legendary and Ancestral Ghosts](tigs11)  
-[Chapter X. Mistaken Identity—Conclusion](tigs12)  
-[Index of Place Names](tigs13)  
+<span id="contents"></span> [Title Page](tigs00.md)  
+[Foreword](tigs01.md)  
+[Contents](tigs02.md)  
+[Chapter I. Haunted Houses in or near Dublin](tigs03.md)  
+[Chapter II. Haunted Houses in Conn's Half](tigs04.md)  
+[Chapter III. Haunted Houses in Mogh's Half](tigs05.md)  
+[Chapter IV. Poltergeists](tigs06.md)  
+[Chapter V. Haunted Places](tigs07.md)  
+[Chapter VI. Apparitions At or After Death](tigs08.md)  
+[Chapter VII. Banshees, and Other Death-Warnings](tigs09.md)  
+[Chapter VIII. Miscellaneous Supernormal Experiences](tigs10.md)  
+[Chapter IX. Legendary and Ancestral Ghosts](tigs11.md)  
+[Chapter X. Mistaken Identity—Conclusion](tigs12.md)  
+[Index of Place Names](tigs13.md)  

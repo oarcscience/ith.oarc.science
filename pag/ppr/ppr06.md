@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr05)  [Next](ppr07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr05)  [Next](ppr07.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ Far off from me it is taken!
 Far off you have done it. In a way of beauty I recover,  
 Happily my eyes regain their power,  
 Happily for me the spell is taken off,  
-[Impervious](errata.htm#0) to pain I walk,  
+[Impervious](errata.htm#0.md) to pain I walk,  
 Feeling light within, I walk,  
 Thus happily you accomplish your tasks.  
 Happily the old men will regard you,  
@@ -82,4 +82,4 @@ With beauty again it is finished!
 
 ------------------------------------------------------------------------
 
-[Next: Address to Supreme Deity (Assyrian)](ppr07)
+[Next: Address to Supreme Deity (Assyrian)](ppr07.md)

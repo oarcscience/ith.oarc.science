@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)   
-[Finnish](../kvfin/02)   
-[Previous](kvrune01)  [Next](kvrune03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index.md)   
+[Finnish](../kvfin/02.md)   
+[Previous](kvrune01)  [Next](kvrune03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Kalevala*, by John Martin Crawford, \[1888\], at Intangible Textual
 Heritage
 
@@ -450,4 +450,4 @@ For the joy of Kalevala."
 
 ------------------------------------------------------------------------
 
-[Next: Rune III. Wainamoinen and Youkahainen.](kvrune03)
+[Next: Rune III. Wainamoinen and Youkahainen.](kvrune03.md)

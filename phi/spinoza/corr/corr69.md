@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr68)  [Next](corr70) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr68)  [Next](corr70.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 ### LETTER LXIX. (LXXX.)
 
-#### \* \* \* \* \* <span id="fr_78"></span>[1](#fn_77) TO SPINOZA.
+#### \* \* \* \* \* <span id="fr_78"></span>[1](#fn_77.md) TO SPINOZA.
 
 \[*The writer asks for explanations of some passages in the letter about
 the infinite* (XXIX.).\]
@@ -34,7 +34,7 @@ parts*." For, as a matter of fact, all mathematicians seem to me always
 to demonstrate, with regard to such infinities, that the number of the
 parts is so great, as to elude all expression in terms of number. And in
 the example you give of the two circles, you do not appear to prove this
-statement, <span id="fr_79"></span>[2](#fn_78) which was yet what you
+statement, <span id="fr_79"></span>[2](#fn_78.md) which was yet what you
 had undertaken to do. For in this second passage you only show, that
 they do not draw this conclusion from "*the excessive size of the
 intervening* 
@@ -52,11 +52,11 @@ intended, that the conclusion is not based on the multitude of parts,
 
 ### Footnotes
 
-<span id="fn_77"></span>[406:1](corr69.htm#fr_78) Tschirnhausen.
+<span id="fn_77"></span>[406:1](corr69.htm#fr_78.md) Tschirnhausen.
 
-<span id="fn_78"></span>[406:2](corr69.htm#fr_79) Viz., "They do not
+<span id="fn_78"></span>[406:2](corr69.htm#fr_79.md) Viz., "They do not
 hence infer . . . . component parts."
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXX. To Anon. \[Tschirnhausen\]](corr70)
+[Next: Letter LXX. To Anon. \[Tschirnhausen\]](corr70.md)

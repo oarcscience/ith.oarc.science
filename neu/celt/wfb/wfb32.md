@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb31)  [Next](wfb33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb31)  [Next](wfb33.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ would admit that this name is a most fitting one."
 
 ------------------------------------------------------------------------
 
-[Next: St Collen and the King of Fairy](wfb33)
+[Next: St Collen and the King of Fairy](wfb33.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim85)  [Next](sim87) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim85)  [Next](sim87.md) 
 
 ------------------------------------------------------------------------
 
@@ -420,4 +420,4 @@ but he was glad to find her. They went home together and lived happily.
 ------------------------------------------------------------------------
 
 [Next: The Great Bear and the Six Hunters, or, The Seven Stars of the
-Dipper](sim87)
+Dipper](sim87.md)

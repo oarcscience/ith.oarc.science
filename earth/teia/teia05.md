@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](teia04)  [Next](teia06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](teia04)  [Next](teia06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -275,4 +275,4 @@ spot stands a pool of water until this day.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Swan-Children of Lir](teia06)
+[Next: III. The Swan-Children of Lir](teia06.md)

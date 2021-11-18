@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp43)  [Next](prp45) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp43)  [Next](prp45.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ me.'\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: 45. Whenas the Rigid God espied a wight](prp45)
+[Next: 45. Whenas the Rigid God espied a wight](prp45.md)

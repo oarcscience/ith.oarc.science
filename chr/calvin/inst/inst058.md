@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst057)  [Next](inst059) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst057)  [Next](inst059.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ imposture, theft, and rapine (with which the dealers in indulgences have
 hitherto deluded and sported with us), are not aware of the true source
 of the impiety, it may be proper to show not only what indulgences truly
 are, but also that they are polluted in every part.37  <span
-id="fr_370"></span>[371](#fn_370) They give the name of *treasury of the
+id="fr_370"></span>[371](#fn_370.md) They give the name of *treasury of the
 Church* to the merits of Christ, the holy Apostles and Martyrs. They
 pretend, as I have said, that the radical custody of the granary has
 been delivered to the Roman bishop, to whom the dispensation of these
@@ -135,38 +135,38 @@ are supplemented from some other quarter? Peter’s words are: “To him
 give all the prophets witness, that through his name whosoever believeth
 in him shall receive remission of sins,” (<span
 id="iv.iii.vi-p16.1"></span>[Acts
-10:43](../../../bib/kjv/act010.htm#043)<span
+10:43](../../../bib/kjv/act010.htm#043.md)<span
 id="iv.iii.vi-p16.1"></span>); but indulgences bestow the remission of
 sins through Peter, Paul, and the Martyrs. “The blood of Jesus Christ
 his Son cleanseth us from all sin,” says John (<span
 id="iv.iii.vi-p16.2"></span>[1 John
-1:7](../../../bib/kjv/jo1001.htm#007)<span
+1:7](../../../bib/kjv/jo1001.htm#007.md)<span
 id="iv.iii.vi-p16.2"></span>). Indulgences make the blood of the martyrs
 an ablution of sins. “He has made him to be sin (*i.e.* a satisfaction
 for sin) for us who knew no sin,” says Paul (<span
 id="iv.iii.vi-p16.3"></span>[2 Cor.
-5:21](../../../bib/kjv/co2005.htm#021)<span
+5:21](../../../bib/kjv/co2005.htm#021.md)<span
 id="iv.iii.vi-p16.3"></span>), “that we might be made the righteousness
 of God in him.” Indulgences make the satisfaction of sin to depend on
 the blood of the martyrs. Paul exclaimed and testified to the
 Corinthians, that Christ alone was crucified, and died for them (<span
 id="iv.iii.vi-p16.4"></span>[1 Cor.
-1:13](../../../bib/kjv/co1001.htm#013)<span
+1:13](../../../bib/kjv/co1001.htm#013.md)<span
 id="iv.iii.vi-p16.4"></span>). Indulgences declare that Paul and others
 died for us. Paul elsewhere says that Christ purchased the Church with
 his own blood (<span id="iv.iii.vi-p16.5"></span>[Acts
-20:28](../../../bib/kjv/act020.htm#028)<span
+20:28](../../../bib/kjv/act020.htm#028.md)<span
 id="iv.iii.vi-p16.5"></span>). Indulgences assign another purchase to
 the blood of martyrs. “By one offering he has perfected for ever them
 that are sanctified,” says the Apostle (<span
 id="iv.iii.vi-p16.6"></span>[Heb.
-10:14](../../../bib/kjv/heb010.htm#014)<span
+10:14](../../../bib/kjv/heb010.htm#014.md)<span
 id="iv.iii.vi-p16.6"></span>). Indulgences, on the other hand, insist
 that sanctification, which would otherwise be insufficient, is perfected
 by martyrs. John says that all the saints “have washed their robes, and
 made them white in the blood of the Lamb,” (<span
 id="iv.iii.vi-p16.7"></span>[Rev.
-7:14](../../../bib/kjv/rev007.htm#014)<span
+7:14](../../../bib/kjv/rev007.htm#014.md)<span
 id="iv.iii.vi-p16.7"></span>). Indulgences tell us to wash our robes in
 the blood of saints.
 
@@ -176,7 +176,7 @@ opposition to their blasphemies in Leo, a Roman Bishop (ad Palæstinos,
 id="iv.iii.vi-p17.1"></span>). “Although the death of many saints was
 precious in the sight of the Lord (<span
 id="iv.iii.vi-p17.2"></span>[Ps.
-116:15](../../../bib/kjv/psa116.htm#015)<span
+116:15](../../../bib/kjv/psa116.htm#015.md)<span
 id="iv.iii.vi-p17.2"></span>), yet no innocent man’s slaughter was the
 propitiation of the world. The just received crowns did not give them;
 and the fortitude of believers produced examples of patience, not gifts
@@ -206,7 +206,7 @@ satisfaction of sins; and that in this sense we must understand the
 words of Paul: “Who now rejoice in my sufferings, and fill up that which
 is behind of the afflictions of Christ in my flesh for his body’s sake,
 which is the Church,” (<span id="iv.iii.vi-p17.3"></span>[Col.
-1:24](../../../bib/kjv/col001.htm#024)<span
+1:24](../../../bib/kjv/col001.htm#024.md)<span
 id="iv.iii.vi-p17.3"></span>). What is this but merely to leave the name
 of Christ, and at the same time make him a vulgar saintling, who can
 scarcely be distinguished in the crowd? He alone ought to be preached,
@@ -233,7 +233,7 @@ their triumphs, she is inflamed with zeal to fight.
 passage in which Paul says, that he supplies in his body that which was
 lacking in the sufferings of Christ! (<span
 id="iv.iii.vi-p18.1"></span>[Col.
-1:24](../../../bib/kjv/col001.htm#024)<span
+1:24](../../../bib/kjv/col001.htm#024.md)<span
 id="iv.iii.vi-p18.1"></span>). That defect or supplement refers not to
 the work of redemption, satisfaction, or expiation, but to those
 afflictions with which the members of Christ, in other words, all
@@ -247,12 +247,12 @@ for edification and progress. As he elsewhere says, “I endure all things
 for the elect’s sakes, that they may also obtain the salvation which is
 in Christ Jesus with eternal glory” (<span
 id="iv.iii.vi-p18.2"></span>[2 Tim.
-2:10](../../../bib/kjv/ti2002.htm#010)<span
+2:10](../../../bib/kjv/ti2002.htm#010.md)<span
 id="iv.iii.vi-p18.2"></span>). He also writes to the Corinthians:
 “Whether we be afflicted, it is for your consolation and salvation,
 which is effectual in the enduring of the same sufferings which we also
 suffer,” (<span id="iv.iii.vi-p18.3"></span>[2 Cor.
-1:6](../../../bib/kjv/co2001.htm#006)<span
+1:6](../../../bib/kjv/co2001.htm#006.md)<span
 id="iv.iii.vi-p18.3"></span>). In the same place he immediately explains
 his meaning by adding, that he was made a minister of the Church, not
 for redemption, but according to the dispensation which he received to
@@ -265,7 +265,7 @@ whoever you be, if you are among the members of Christ, whatever you
 suffer from those who are not members of Christ, was lacking to the
 sufferings of Christ,” (August. in <span
 id="iv.iii.vi-p18.4"></span>[Ps.
-16](../../../bib/kjv/psa016.htm#000)<span id="iv.iii.vi-p18.4"></span>).
+16](../../../bib/kjv/psa016.htm#000)<span id="iv.iii.vi-p18.4"></span>.md).
 He elsewhere explains the end of the sufferings of the Apostles
 undertaken for Christ: “Christ is my door to you, because ye are the
 sheep of Christ purchased by his blood: acknowledge your price, which is
@@ -278,11 +278,11 @@ righteousness, salvation, and life, or that he wished to make any
 addition to it, after showing so clearly and eloquently that the grace
 of Christ was poured out in such rich abundance as far to exceed all the
 power of sin (<span id="iv.iii.vi-p18.5"></span>[Rom.
-5:15](../../../bib/kjv/rom005.htm#015)<span
+5:15](../../../bib/kjv/rom005.htm#015.md)<span
 id="iv.iii.vi-p18.5"></span>). All saints have been saved by it alone,
 not by the merit of their own life or death, as Peter distinctly
 testifies (<span id="iv.iii.vi-p18.6"></span>[Acts
-15:11](../../../bib/kjv/act015.htm#011)<span
+15:11](../../../bib/kjv/act015.htm#011.md)<span
 id="iv.iii.vi-p18.6"></span>); so that it is an insult to God and his
 Anointed to place the worthiness of any saint in any thing save the
 mercy of God alone. But why dwell longer on this, as if the matter were
@@ -300,12 +300,12 @@ God did beseech you by us: we pray you in Christ’s stead, be ye
 reconciled to God. For he has made him to be sin for us, who knew no
 sin; that we might be made the righteousness of God in him,” (<span
 id="iv.iii.vi-p19.1"></span>[2 Cor.
-5:20](../../../bib/kjv/co2005.htm#020),
-[21](../../../bib/kjv/co2005.htm#021)<span
+5:20](../../../bib/kjv/co2005.htm#020.md),
+[21](../../../bib/kjv/co2005.htm#021.md)<span
 id="iv.iii.vi-p19.1"></span>). And what is meant by the fellowship
 (κοινονία) of Christ, which according to the same Apostle (<span
 id="iv.iii.vi-p19.2"></span>[1 Cor.
-1:9](../../../bib/kjv/co1001.htm#009)<span id="iv.iii.vi-p19.2"></span>)
+1:9](../../../bib/kjv/co1001.htm#009)<span id="iv.iii.vi-p19.2"></span>.md)
 is offered to us in the Gospel, all believers know. On the contrary,
 indulgences, bringing forth some portion of the grace of God from the
 armory of the Pope, fix it to lead, parchment, and a particular place,
@@ -339,7 +339,7 @@ human presumption should thus force its way to the hidden recesses of
 his judgments; although he has issued a strict prohibition against
 neglecting his voice, and making inquiry at the dead (<span
 id="iv.iii.vi-p20.1"></span>[Deut.
-18:11](../../../bib/kjv/deu018.htm#011)<span
+18:11](../../../bib/kjv/deu018.htm#011.md)<span
 id="iv.iii.vi-p20.1"></span>), and permits not his word to be so
 erroneously contaminated. Let us grant, however, that all this might
 have been tolerated for a time as a thing of no great moment; yet when
@@ -352,7 +352,7 @@ mercy; that it undermines and overthrows our faith. For what is this
 purgatory but the satisfaction for sin paid after death by the souls of
 the dead? Hence when this idea of satisfaction is refuted, purgatory
 itself is forthwith completely overturned.37  <span
-id="fr_371"></span>[372](#fn_371) But if it is perfectly clear, from
+id="fr_371"></span>[372](#fn_371.md) But if it is perfectly clear, from
 what was lately said, that the blood of Christ is the only satisfaction,
 expiation, and cleansing for the sins of believers, what remains but to
 hold that purgatory is mere blasphemy, horrid blasphemy against Christ?
@@ -363,7 +363,7 @@ which we see teeming forth from that fountain of impiety.
 <span id="iv.iii.vi-p22"></span>7. Those passages of Scripture on which
 it is their wont falsely and iniquitously to fasten, it may be worth
 while to wrench out of their hands.37  <span
-id="fr_372"></span>[373](#fn_372) When the Lord declares that the sin
+id="fr_372"></span>[373](#fn_372.md) When the Lord declares that the sin
 against the Holy Ghost will not be forgiven either in this world or the
 world to come, he thereby intimates (they say) that there is a remission
 of certain sins hereafter. But who sees not that the Lord there speaks
@@ -389,8 +389,8 @@ adversary deliver thee to the judge, and the judge deliver thee to the
 officer, and thou be cast into prison. Verily, I say unto thee, Thou
 shalt by no means come out thence, till thou hast paid the uttermost
 earthing,” (<span id="iv.iii.vi-p23.5"></span>[Matt.
-5:25](../../../bib/kjv/mat005.htm#025),
-[26](../../../bib/kjv/mat005.htm#026)<span
+5:25](../../../bib/kjv/mat005.htm#025.md),
+[26](../../../bib/kjv/mat005.htm#026.md)<span
 id="iv.iii.vi-p23.5"></span>). If in this passage the judge means God,
 the adversary the devil, the officer an angel, and the prison purgatory,
 I give in at once. But if every man sees that Christ there intended to
@@ -398,13 +398,13 @@ show to how many perils and evils those expose themselves who
 obstinately insist on their utmost right, instead of being satisfied
 with what is fair and equitable, that he might thereby the more strongly
 exhort his followers to concord, where, I ask, are we to find their
-purgatory?38  <span id="fr_373"></span>[374](#fn_373)
+purgatory?38  <span id="fr_373"></span>[374](#fn_373.md)
 
 <span id="iv.iii.vi-p25"></span>8. They seek an argument in the passage
 in which Paul declares, that all things shall bow the knee to Christ,
 “things in heaven, and things in earth, and things under the earth,”
 (<span id="iv.iii.vi-p25.1"></span>[Phil.
-2:10](../../../bib/kjv/phi002.htm#010)<span
+2:10](../../../bib/kjv/phi002.htm#010.md)<span
 id="iv.iii.vi-p25.1"></span>). They take it for granted, that by “things
 under the earth,” cannot be meant those who are doomed to eternal
 damnation, and that the only remaining conclusion is, that they must be
@@ -419,15 +419,15 @@ prophecy: “We shall all stand before the judgment-seat of Christ. For it
 is written, As I live, saith the Lord, every knee shall bow to me, and
 every tongue shall confess to God,” (<span
 id="iv.iii.vi-p25.2"></span>[Rom.
-14:10](../../../bib/kjv/rom014.htm#010),
-[11](../../../bib/kjv/rom014.htm#011)<span
+14:10](../../../bib/kjv/rom014.htm#010.md),
+[11](../../../bib/kjv/rom014.htm#011.md)<span
 id="iv.iii.vi-p25.2"></span>). But we cannot in this way interpret what
 is said in the Apocalypse: “Every creature which is in heaven, and on
 the earth, and under the earth, and such as are in the sea, heard I
 saying, Blessing, and honor, and glory, and power, be unto him that
 sitteth upon the throne, and unto the Lamb, for ever and ever,” (<span
 id="iv.iii.vi-p25.3"></span>[Rev.
-5:13](../../../bib/kjv/rev005.htm#013)<span
+5:13](../../../bib/kjv/rev005.htm#013.md)<span
 id="iv.iii.vi-p25.3"></span>). This I readily admit; but what kinds of
 creatures do they suppose are here enumerated? It is absolutely certain,
 that both irrational and inanimate creatures are comprehended. All,
@@ -437,17 +437,17 @@ own way proclaims the glory of the Creator.
 
 <span id="iv.iii.vi-p26"></span>To the passage which they produce from
 the history of the Maccabees (<span id="iv.iii.vi-p26.1"></span>[1 Macc.
-12:43](../../../bib/apo/ma1012.htm#043)<span
+12:43](../../../bib/apo/ma1012.htm#043.md)<span
 id="iv.iii.vi-p26.1"></span>), I will not deign to reply, lest I should
 seem to include that work among the canonical books. But Augustine38
- <span id="fr_374"></span>[375](#fn_374) holds it to be canonical.
+ <span id="fr_374"></span>[375](#fn_374.md) holds it to be canonical.
 First, with what degree of confidence? “The Jews,” says he, “do not hold
 the book of the Maccabees as they do the Law, the Prophets, and the
 Psalms, to which the Lord bears testimony as to his own witnesses,
 saying, Ought not all things which are written in the Law, and the
 Psalms, and the Prophets, concerning me be fulfilled? (<span
 id="iv.iii.vi-p27.1"></span>[Luke
-24:44](../../../bib/kjv/luk024.htm#044)<span
+24:44](../../../bib/kjv/luk024.htm#044.md)<span
 id="iv.iii.vi-p27.1"></span>). But it has been received by the Church
 not uselessly, if it be read or heard with soberness.” Jerome, however,
 unhesitatingly affirms, that it is of no authority in establishing
@@ -457,7 +457,7 @@ estimation in the ancient Church. And why do I here contend in vain? As
 if the author himself did not sufficiently show what degree of deference
 is to be paid him, when in the end he asks pardon for any thing less
 properly expressed (<span id="iv.iii.vi-p27.2"></span>[2 Macc.
-15:38](../../../bib/apo/ma2015.htm#038)<span
+15:38](../../../bib/apo/ma2015.htm#038.md)<span
 id="iv.iii.vi-p27.2"></span>). He who confesses that his writings stand
 in need of pardon, certainly proclaims that they are not oracles of the
 Holy Spirit. We may add, that the piety of Judas is commended for no
@@ -478,11 +478,11 @@ the day shall declare it, because it shall be revealed by fire; and the
 fire shall try every man’s work of what sort it is. If any man’s work
 shall be burnt, he shall suffer loss: but he himself shall be saved; yet
 so as by fire,” (<span id="iv.iii.vi-p28.1"></span>[1 Cor.
-3:12-15](../../../bib/kjv/co1003.htm#012)<span
+3:12-15](../../../bib/kjv/co1003.htm#012.md)<span
 id="iv.iii.vi-p28.1"></span>). What fire (they ask) can that be but the
 fire of purgatory, by which the defilements of sin are wiped away, in
 order that we may enter pure into the kingdom of God? But most of the
-Fathers38  <span id="fr_375"></span>[376](#fn_375) give it a different
+Fathers38  <span id="fr_375"></span>[376](#fn_375.md) give it a different
 meaning—viz. the tribulation or cross by which the Lord tries his
 people, that they may not rest satisfied with the defilements of the
 flesh. This is much more probable than the fiction of a purgatory. I do
@@ -494,9 +494,9 @@ it were too absurd to hold that purification is required by those whose
 superfluous merits they dream of as applicable to all the members of the
 Church. But this the Apostle affirms; for he says, not that the works of
 certain persons, but the works of all will be tried.38  <span
-id="fr_376"></span>[377](#fn_376) And this is not my argument, but that
+id="fr_376"></span>[377](#fn_376.md) And this is not my argument, but that
 of Augustine, who thus impugns that interpretation.38  <span
-id="fr_377"></span>[378](#fn_377) And (what makes the thing more absurd)
+id="fr_377"></span>[378](#fn_377) And (what makes the thing more absurd.md)
 he says, not that they will pass through fire for certain works, but
 that even if they should have edified the Church with the greatest
 fidelity, they will receive their reward after their works shall have
@@ -551,7 +551,7 @@ done? For here not only are passages of Scripture wanting, but in the
 examples of all the saints of whom we read, nothing of the kind is seen.
 We have numerous, and sometimes long narratives, of their mourning and
 sepulchral rites, but not one word is said of prayers.38  <span
-id="fr_378"></span>[379](#fn_378) But the more important the matter was,
+id="fr_378"></span>[379](#fn_378.md) But the more important the matter was,
 the more they ought to have dwelt upon it. Even those who in ancient
 times offered prayers for the dead, saw that they were not supported by
 the command of God and legitimate example. Why then did they presume to
@@ -559,7 +559,7 @@ do it? I hold that herein they suffered the common lot of man, and
 therefore maintain, that what they did is not to be imitated. Believers
 ought not to engage in any work without a firm conviction of its
 propriety, as Paul enjoins (<span id="iv.iii.vi-p33.1"></span>[Rom.
-14:23](../../../bib/kjv/rom014.htm#023)<span
+14:23](../../../bib/kjv/rom014.htm#023.md)<span
 id="iv.iii.vi-p33.1"></span>); and this conviction is expressly
 requisite in prayer. It is to be presumed, however, that they were
 influenced by some reason; they sought a solace for their sorrow, and it
@@ -587,7 +587,7 @@ giving assistance to the suffering dead. But far better and more solid
 comfort is furnished by scripture when it declares, “Blessed are the
 dead that die in the Lord;” and adds the reason, “for they rest from
 their labors,” (<span id="iv.iii.vi-p34.1"></span>[Rev.
-14:13](../../../bib/kjv/rev014.htm#013)<span
+14:13](../../../bib/kjv/rev014.htm#013.md)<span
 id="iv.iii.vi-p34.1"></span>). We ought not to indulge our love so far
 as to set up a perverse mode of prayer in the Church. Surely every
 person possessed of the least prudence easily perceives, that whatever
@@ -605,7 +605,7 @@ showing Care for the Dead*, is so full of doubt, that its coldness may
 well extinguish the heat of a foolish zeal. Should any one, in
 pretending to be a patron of the dead, deal merely in probabilities, the
 only effect will be to make those indifferent who were formerly
-solicitous.38  <span id="fr_379"></span>[380](#fn_379)
+solicitous.38  <span id="fr_379"></span>[380](#fn_379.md)
 
 <span id="iv.iii.vi-p36"></span>The only support of this dogma is, that
 as a custom of praying for the dead prevailed, the duty ought not to be
@@ -630,7 +630,7 @@ the communion of the holy supper. The former are constantly urging the
 care of the dead, and by their importunate preaching of it, make out
 that it is to be preferred to all the offices of charity. But it would
 not be difficult for us to produce some passages from ancient writers,38
- <span id="fr_380"></span>[381](#fn_380) which clearly overturn all
+ <span id="fr_380"></span>[381](#fn_380.md) which clearly overturn all
 those prayers for the dead which were then in use. Such is the passage
 of Augustine, in which he shows that the resurrection of the flesh and
 eternal glory is expected by all, but that rest which follows death is
@@ -638,7 +638,7 @@ received by every one who is worthy of it when he dies. Accordingly, he
 declares that all the righteous, not less than the Apostles, Prophets,
 and Martyrs, immediately after death enjoy blessed rest. If such is
 their condition, what, I ask, will our prayers contribute to them?38
- <span id="fr_381"></span>[382](#fn_381) I say nothing of those grosser
+ <span id="fr_381"></span>[382](#fn_381.md) I say nothing of those grosser
 superstitions by which they have fascinated the minds of the simple; and
 yet they are innumerable, and most of them so monstrous, that they
 cannot cover them with any cloak of decency. I say nothing, moreover, of
@@ -651,7 +651,7 @@ his conscience.
 
 ### Footnotes
 
-<span id="fn_370"></span>[371](inst058.htm#fr_370) <span
+<span id="fn_370"></span>[371](inst058.htm#fr_370.md) <span
 id="iv.iii.vi-p15.1"></span>
 
 <span id="iv.iii.vi-p16"></span>77 377 French, “Il est expedient de
@@ -662,28 +662,28 @@ to show not only what indulgences are as in use, but in themselves,
 taking them in their proper and best form, without any qualification or
 accidental vice.
 
-<span id="fn_371"></span>[372](inst058.htm#fr_371) <span
+<span id="fn_371"></span>[372](inst058.htm#fr_371.md) <span
 id="iv.iii.vi-p20.2"></span>
 
 <span id="iv.iii.vi-p21"></span>78 378 French. “Tellement que si on ote
 la fantasie de satisfaire, leur purgatorie s’en va bas;”—so that if the
 fancy of satisfying is taken away, down goes their purgatory.
 
-<span id="fn_372"></span>[373](inst058.htm#fr_372) <span
+<span id="fn_372"></span>[373](inst058.htm#fr_372.md) <span
 id="iv.iii.vi-p22.1"></span>
 
 <span id="iv.iii.vi-p23"></span>79 379 <span
 id="iv.iii.vi-p23.1"></span>[Mt.
-12:32](../../../bib/kjv/mat012.htm#032)<span
+12:32](../../../bib/kjv/mat012.htm#032.md)<span
 id="iv.iii.vi-p23.1"></span>; <span id="iv.iii.vi-p23.2"></span>[Mark
-3:28](../../../bib/kjv/mar003.htm#028)<span
+3:28](../../../bib/kjv/mar003.htm#028.md)<span
 id="iv.iii.vi-p23.2"></span>; <span id="iv.iii.vi-p23.3"></span>[Luke
-12:10](../../../bib/kjv/luk012.htm#010)<span
+12:10](../../../bib/kjv/luk012.htm#010.md)<span
 id="iv.iii.vi-p23.3"></span>; <span id="iv.iii.vi-p23.4"></span>[Mt.
-5:25](../../../bib/kjv/mat005.htm#025)<span
+5:25](../../../bib/kjv/mat005.htm#025.md)<span
 id="iv.iii.vi-p23.4"></span>.
 
-<span id="fn_373"></span>[374](inst058.htm#fr_373) <span
+<span id="fn_373"></span>[374](inst058.htm#fr_373.md) <span
 id="iv.iii.vi-p23.6"></span>
 
 <span id="iv.iii.vi-p24"></span>80 380 The French adds the following
@@ -692,33 +692,33 @@ intelligence, et il n’y sera rien trouvé de ce qu’ils pretendent;”—In
 short, let the passage be looked at and taken in its simple meaning, and
 there will be nothing found in it of what they pretend.
 
-<span id="fn_374"></span>[375](inst058.htm#fr_374) <span
+<span id="fn_374"></span>[375](inst058.htm#fr_374.md) <span
 id="iv.iii.vi-p26.2"></span>
 
 <span id="iv.iii.vi-p27"></span>81 381 See August. contra Secundum
 Gaudentii Epistolam, cap. 23.
 
-<span id="fn_375"></span>[376](inst058.htm#fr_375) <span
+<span id="fn_375"></span>[376](inst058.htm#fr_375.md) <span
 id="iv.iii.vi-p28.2"></span>
 
 <span id="iv.iii.vi-p29"></span>82 382 Chrysostom, Augustine, and others
 ; see August, Enchirid. ad Laurent. cap 68.
 
-<span id="fn_376"></span>[377](inst058.htm#fr_376) <span
+<span id="fn_376"></span>[377](inst058.htm#fr_376.md) <span
 id="iv.iii.vi-p29.1"></span>
 
 <span id="iv.iii.vi-p30"></span>83 383 The French adds, “auquel nombre
 universel sont enclos les Apostres;”—in which universal number the
 Apostles are included.
 
-<span id="fn_377"></span>[378](inst058.htm#fr_377) <span
+<span id="fn_377"></span>[378](inst058.htm#fr_377.md) <span
 id="iv.iii.vi-p30.1"></span>
 
 <span id="iv.iii.vi-p31"></span>84 384 French, “l’exposition que font
 aujourdhui nos adversaires;”—the exposition which our opponents give in
 the present day.
 
-<span id="fn_378"></span>[379](inst058.htm#fr_378) <span
+<span id="fn_378"></span>[379](inst058.htm#fr_378.md) <span
 id="iv.iii.vi-p32.1"></span>
 
 <span id="iv.iii.vi-p33"></span>85 385 French, “L’Escriture raconte
@@ -729,7 +729,7 @@ great length, how the faithful lamented the death of their relations,
 and how they buried them: but that they prayed for them is never hinted
 at.
 
-<span id="fn_379"></span>[380](inst058.htm#fr_379) <span
+<span id="fn_379"></span>[380](inst058.htm#fr_379.md) <span
 id="iv.iii.vi-p34.2"></span>
 
 <span id="iv.iii.vi-p35"></span>86 386 French, “Le liure qu’il à composé
@@ -745,13 +745,13 @@ he supports his view only by very slight and feeble conjectures, it will
 be seen, that we ought not to trouble ourselves much with a matter in
 which there is no importance.
 
-<span id="fn_380"></span>[381](inst058.htm#fr_380) <span
+<span id="fn_380"></span>[381](inst058.htm#fr_380.md) <span
 id="iv.iii.vi-p36.1"></span>
 
 <span id="iv.iii.vi-p37"></span>87 387 See August. Homil. in Joann. 49.
 De Civitate Dei. Lib. 21 cap. 13-24.
 
-<span id="fn_381"></span>[382](inst058.htm#fr_381) <span
+<span id="fn_381"></span>[382](inst058.htm#fr_381.md) <span
 id="iv.iii.vi-p37.1"></span>
 
 <span id="iv.iii.vi-p38"></span>88 388 The French of the latter clause
@@ -764,4 +764,4 @@ being the most villanous decivers that ever were.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 6. - THE LIFE OF A CHRISTIAN MAN. SCRIPTURAL ARGUMENTS
-EXHORTING TO IT.](inst059)
+EXHORTING TO IT.](inst059.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](bat03)  [Next](bat05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](bat03)  [Next](bat05.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ that the centre of the middle section is divided lengthwise into
  
 
 <span id="img_00300"></span> [![](tn/generic.jpg)  
-Click to view](img/00300.jpg)  
+Click to view](img/00300.jpg.md)  
 (*Left*) The Boat of Af, the dead Sun-god. (*Right*) Maati goddesses.
 Neken-f.
 
@@ -65,7 +65,7 @@ a serpent, called SA (?), that stands on his tail.
  
 
 <span id="img_00500"></span> [![](tn/generic.jpg)  
-Click to view](img/00500.jpg)  
+Click to view](img/00500.jpg.md)  
 The gods Khenti-Amentet, Sekhet, Sebeteh-ur, the Four-Terms, and
 Teha-Unnut.
 
@@ -103,7 +103,7 @@ the Sun-god travelled over the sky from sunrise to noon.
  
 
 <span id="img_00700"></span> [![](tn/generic.jpg)  
-Click to view](img/00700.jpg)  
+Click to view](img/00700.jpg.md)  
 The Boat of the Birth of Osiris, with serpents and gods.
 
  
@@ -115,7 +115,7 @@ man-headed
  
 
 <span id="img_00701"></span> [![](tn/generic.jpg)  
-Click to view](img/00701.jpg)  
+Click to view](img/00701.jpg.md)  
 Gods in the procession of the Boat of the Birth of Osiris.
 
  
@@ -162,7 +162,7 @@ QAT-EM-KHU-S, 9. SEKHET-EM-KHEFIU-S, 10. HUIT, 11. HUNT, 12. NEBT-ANKH.
  
 
 <span id="img_01000"></span> [![](tn/generic.jpg)  
-Click to view](img/01000.jpg)  
+Click to view](img/01000.jpg.md)  
 (*Left*) The nine Ape-warders. (*Right*) The twelve goddesses of the
 gates.
 
@@ -192,7 +192,7 @@ SHESET-KERH-MAKET-NEB-S, 12. TESET-TESHERU,
  
 
 <span id="img_01200"></span> [![](tn/generic.jpg)  
-Click to view](img/01200.jpg)  
+Click to view](img/01200.jpg.md)  
 (*Left*) The nine praisers of Ra. (*Right*) The twelve goddesses who
 guide Ra.
 
@@ -211,7 +211,7 @@ HETHTI, 8. PA-THETH, 9 . . . . . . . .
  
 
 <span id="img_01300"></span> [![](tn/generic.jpg)  
-Click to view](img/01300.jpg)  
+Click to view](img/01300.jpg.md)  
 (*Left*) The nine singing apes. (*Right*) The twelve light-giving uraei.
 
  
@@ -242,7 +242,7 @@ APERT-RE,
  
 
 <span id="img_01500"></span> [![](tn/generic.jpg)  
-Click to view](img/01500.jpg)  
+Click to view](img/01500.jpg.md)  
 (*Left*) The nine praisers of RA. (*Right*) The twelve goddesses who
 sing to RA.
 
@@ -254,7 +254,7 @@ AST.
 <span id="page_16">p. 16</span>
 
 The Address which the Sun-god makes to the gods in the First Division of
-the Tuat reads: <span id="fr_0"></span>[1](#fn_0)--
+the Tuat reads: <span id="fr_0"></span>[1](#fn_0.md)--
 
 <span id="page_17">p. 17</span> <span id="page_18">p. 18</span>
 
@@ -319,10 +319,10 @@ is "USHEM-HAT-KHEFTIU-NU-RA,"
 
 ### Footnotes
 
-<span id="fn_0"></span>[16:1](bat04.htm#fr_0) See Léfebure, *op. cit.*,
+<span id="fn_0"></span>[16:1](bat04.htm#fr_0.md) See Léfebure, *op. cit.*,
 part iv., pl. 28, and *Description de l'Égypte*, tom. v., pl. 41, no. 5.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II: The Second Division of the Tuat, Which is Called
-Urnes](bat05)
+Urnes](bat05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt27)  [Next](dmt29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt27)  [Next](dmt29.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ Monthly Review of Reviews, March, 1900.
 
 ------------------------------------------------------------------------
 
-[Next: IV. On Muslim Theology, Philosophy and Mysticism](dmt29)
+[Next: IV. On Muslim Theology, Philosophy and Mysticism](dmt29.md)

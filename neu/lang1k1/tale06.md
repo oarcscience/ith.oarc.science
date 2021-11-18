@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale05)  [Next](tale07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale05)  [Next](tale07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ everything that a mother-in-law says, and told him this story."
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Husband and the Parrot](tale07)
+[Next: The Story of the Husband and the Parrot](tale07.md)

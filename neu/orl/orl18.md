@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl17)  [Next](orl19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl17)  [Next](orl19.md) 
 
 ------------------------------------------------------------------------
 
@@ -2150,4 +2150,4 @@ To listen to my tale some other time.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 19](orl19)
+[Next: Canto 19](orl19.md)

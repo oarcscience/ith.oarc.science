@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm37)  [Next](tgm39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm37)  [Next](tgm39.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ And all of you defy*."
 <span id="img_20800"></span>
 
 [![](tn/20800.jpg)  
-Click to enlarge](img/20800.jpg)
+Click to enlarge](img/20800.jpg.md)
 
  
 
@@ -144,4 +144,4 @@ the many false Messiahs.
 
 ------------------------------------------------------------------------
 
-[Next: 36. The Messiah is Coming](tgm39)
+[Next: 36. The Messiah is Coming](tgm39.md)

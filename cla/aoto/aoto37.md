@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto36) 
-[Next](aoto38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto36.md) 
+[Next](aoto38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ of Sicily as he approached it from that of the Lotus-eaters, he would
 have been sure to have followed it up, and in this case he would have
 been taken straight into Trapani harbour. Now, though the writer, as all
 the audience would know, had already dealt with Trapani, as the last
-point in all Ulysses’ [voyages](errata.htm#3), Ulysses himself ought not
+point in all Ulysses’ [voyages](errata.htm#3.md), Ulysses himself ought not
 to know anything about it till he comes to it in due course.
 
 The cave of Polyphemus—still called among the peasants *la grotta di
@@ -74,11 +74,11 @@ necessary to get Ulysses from a point South of Trapani, to another on
 the North side of it without seeing the town.
 
 My map of the Ægadean islands () combined with that of Trapani and Mt.
-Eryx ([p. 164](aoto35.htm#img_16400)) will show the course Ulysses would
+Eryx ([p. 164](aoto35.htm#img_16400).md) will show the course Ulysses would
 make from Favognana to the *Grotta di Polifemo*—which is far the largest
 cave near Trapani, and is still used as a place in which to keep a large
 flock of sheep by night. The two rocks which Polyphemus threw should be
-seen, the first as the Asinelli, <span id="fr_71"></span>[\*](#fn_71)
+seen, the first as the Asinelli, <span id="fr_71"></span>[\*](#fn_71.md)
 and the second as the two small islands called Formiche, which, being
 close together, are taken as one.
 
@@ -136,7 +136,7 @@ author's nick name. If μήλωψ means "apple-faced," κύκλωψ should mea
 nothing in the word, so neither is there in the "Odyssey," to suggest
 that the Cyclopes were a people with only one round eye in the middle of
 their foreheads. Such a marked feature does not go without saying, <span
-id="fr_72"></span>[\*](#fn_72) and that it did not go with the earliest
+id="fr_72"></span>[\*](#fn_72.md) and that it did not go with the earliest
 Greek artists appears from the fact that they always gave Polyphemus two
 eyes. It is not till later times that he becomes monophthalmic, and the
 "Odyssey" gives him eyebrows in the plural (ix. 389), which involve eyes
@@ -179,7 +179,7 @@ show few or no signs of having been worked with a tool of hardened
 bronze or iron, save in so far as the Phœnicians may have trimmed them
 here and there when they rebuilt the walls, in part, *de novo*, with
 stones some of which bear quarry-men's marks in Phœnician
-characters. <span id="fr_73"></span>[\*](#fn_73) The old Sican work, a
+characters. <span id="fr_73"></span>[\*](#fn_73.md) The old Sican work, a
 good deal of which has been allowed to stand, belongs to the true
 megalithic age, when it was cheaper to carry than to cut; later
 generations, failing to consider the revolution which the introduction
@@ -202,14 +202,14 @@ to that of the earlier builders—I mean the megalithicism of display.
 
 <span id="img_19200"></span> <span align="CENTER"> [![H. FESTING JONES
 ESQ. (height 6ft. 2in.) IN FLUTE OF COLUMN AT SELINUNTE](tn/19200.jpg)  
-Click to enlarge](img/19200.jpg)  
+Click to enlarge](img/19200.jpg.md)  
 H. FESTING JONES ESQ. (height 6ft. 2in.) IN FLUTE OF COLUMN AT
 SELINUNTE  
 </span>
 
 <span id="img_19300"></span> <span align="CENTER"> [![REMAINS OF
 MEGALITHIC WALLS ON MT. ERYX](tn/19300.jpg)  
-Click to enlarge](img/19300.jpg)  
+Click to enlarge](img/19300.jpg.md)  
 REMAINS OF MEGALITHIC WALLS ON MT. ERYX  
 </span>
 
@@ -488,12 +488,12 @@ that I would not press this point.
 
 ### Footnotes
 
-<span id="fn_71"></span>[189:\*](aoto37.htm#fr_71) The Asinelli is a
+<span id="fn_71"></span>[189:\*](aoto37.htm#fr_71.md) The Asinelli is a
 single islet much in the shape of a ship heading straight for Favognana.
 There is nothing plural about it, and one does not see why it should
 have a plural name. Who were the "asses" or "fools"?
 
-<span id="fn_72"></span>[191:\*](aoto37.htm#fr_72) Virgil does not let
+<span id="fn_72"></span>[191:\*](aoto37.htm#fr_72.md) Virgil does not let
 it pass unnoticed. He writes:
 
 <div style="margin-left: 32px">
@@ -507,10 +507,10 @@ it pass unnoticed. He writes:
 
 He calls the Cyclopes "Ætnæan" because he places them on Mt. Etna.
 
-<span id="fn_73"></span>[192:\*](aoto37.htm#fr_73) There is no Phœnician
+<span id="fn_73"></span>[192:\*](aoto37.htm#fr_73.md) There is no Phœnician
 work in the bastion shown in my illustration, the restorations here are
 medieval.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Who Was the Writer?](aoto38)
+[Next: Chapter XI. Who Was the Writer?](aoto38.md)

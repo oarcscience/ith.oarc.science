@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvbk38)  [Next](wyvbk40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvbk38)  [Next](wyvbk40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ the All-Gods Svâhâ! To Heaven and Earth Svâhâ!
 
 ------------------------------------------------------------------------
 
-[Next: Book XL](wyvbk40)
+[Next: Book XL](wyvbk40.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits032) [Next](bits034)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits032) [Next](bits034.md)
 
 ------------------------------------------------------------------------
 
@@ -133,7 +133,7 @@ desire."
 
 ------------------------------------------------------------------------
 
-[Next: § 34. Attachment](bits034)
+[Next: § 34. Attachment](bits034.md)
 
  
 

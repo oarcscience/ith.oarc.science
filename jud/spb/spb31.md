@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb30)  [Next](spb32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb30)  [Next](spb32.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 intermediate days of Festivals*.
 
 *The following prayer (Amidah) to "as in ancient years," [p.
-347](#page_347), is said standing*.
+347](#page_347.md), is said standing*.
 
 O Lord, open thou my lips, and my mouth shall declare thy praise.
 
@@ -58,7 +58,7 @@ Thou art holy, and thy name is holy, and holy beings praise thee daily.
 (Selah.) Blessed art thou, O Lord, the holy God.
 
 *When the Reader repeats the Amidah, the following is added to "holy
-God," [p. 338](#page_338)*.
+God," [p. 338](#page_338.md)*.
 
 \* *Reader*.—We will reverence and sanctify thee according to the mystic
 utterance of the Holy Seraphim, who hallow thy name in the sanctuary, as
@@ -419,7 +419,7 @@ pleasant unto the Lord, as in the days of old, and as in ancient years.
 
 *On Festivals, except on Sabbath, the following Order of the Blessing of
 the Priests is added in the Additional Amidah after "acceptable unto
-thee," [p. 344](#page_344)*.
+thee," [p. 344](#page_344.md)*.
 
 *The Priests ascend the steps of the Ark*.
 
@@ -434,8 +434,8 @@ old and as in ancient years.
 
 *Reader*.—Blessed art thou, O Lord, whom alone we serve in awe.
 
-*Continue "We give thanks unto thee," [p. 344](#page_344), to "it is
-becoming to give thanks," [p. 345](#page_345)*.
+*Continue "We give thanks unto thee," [p. 344](#page_344.md), to "it is
+becoming to give thanks," [p. 345](#page_345.md)*.
 
 *The Reader says to "and his sons," in an undertone*.
 
@@ -462,7 +462,7 @@ Amen,
 
 The Lord turn his face unto thee and give thee peace. Amen. Selah.
 
-*Continue "Grant peace," etc., [p. 346](#page_346), to the end of the
+*Continue "Grant peace," etc., [p. 346](#page_346.md), to the end of the
 Amidah*.
 
 ------------------------------------------------------------------------
@@ -471,6 +471,6 @@ Amidah*.
 
 ------------------------------------------------------------------------
 
-[Next: Service for New Year](spb32)
+[Next: Service for New Year](spb32.md)
 
 </div>

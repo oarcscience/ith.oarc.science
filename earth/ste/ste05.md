@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste04)  [Next](ste06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste04)  [Next](ste06.md) 
 
 ------------------------------------------------------------------------
 
@@ -370,4 +370,4 @@ acceptance of all reasonable persons.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](ste06)
+[Next: Chapter III](ste06.md)

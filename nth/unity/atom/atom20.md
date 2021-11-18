@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](atom19)  [Next](atom21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](atom19)  [Next](atom21.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Atom-Smashing Power of Mind*, by Charles Fillmore, \[1949\], at
 Intangible Textual Heritage
 
@@ -272,4 +272,4 @@ countenance was as the sun shineth in his strength."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 19](atom21)
+[Next: Chapter 19](atom21.md)

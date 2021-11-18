@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw20) 
-[Next](wbw22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw20.md) 
+[Next](wbw22.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -102,6 +102,6 @@ herself into his arms.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII: Of The Dwarf And The Pardon](wbw22)
+[Next: Chapter XXII: Of The Dwarf And The Pardon](wbw22.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu18)  [Next](cbu20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu18)  [Next](cbu20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -759,4 +759,4 @@ if looked at from the Christian point of view.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Monasteries At P‘u-To](cbu20)
+[Next: Chapter XV. Monasteries At P‘u-To](cbu20.md)

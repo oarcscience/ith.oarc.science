@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Shinto](../index) [Index](index) [Previous](kgsh0) [Next](kgsh2)
+[Sacred-Texts](../../index) [Shinto](../index) [Index](index) [Previous](kgsh0) [Next](kgsh2.md)
 
 ------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ G. Katō and H. Hoshino  
 
 ------------------------------------------------------------------------
 
-[Next](kgsh2)
+[Next](kgsh2.md)
 
  
 

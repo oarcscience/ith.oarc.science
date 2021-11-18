@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps49)  [Next](rps51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps49)  [Next](rps51.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ The Rev. Fitz Balintine Pettersburgh (Lawgiver) and Clergyman.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 48. The Map-Making and Bible Atlas Survayor](rps51)
+[Next: Chapter 48. The Map-Making and Bible Atlas Survayor](rps51.md)

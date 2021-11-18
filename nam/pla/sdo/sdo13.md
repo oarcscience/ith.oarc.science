@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo12)  [Next](sdo14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo12)  [Next](sdo14.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ of the preliminary camp.
 
 ------------------------------------------------------------------------
 
-[Next: The Second Day](sdo14)
+[Next: The Second Day](sdo14.md)

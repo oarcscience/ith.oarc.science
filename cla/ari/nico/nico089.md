@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico088) 
-[Next](nico090) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico088.md) 
+[Next](nico090.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ foreign to our inquiry.
 ------------------------------------------------------------------------
 
 [Next: Chapter 9. Parallelism of friendship and justice: the state
-comprehends all lesser communities](nico090)
+comprehends all lesser communities](nico090.md)

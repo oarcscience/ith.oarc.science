@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[2 Chronicles](ch2)  [Nehemiah](neh)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[2 Chronicles](ch2)  [Nehemiah](neh.md)
 
 ------------------------------------------------------------------------
 
@@ -9,22 +9,22 @@
 
 ------------------------------------------------------------------------
 
-[Ezra 1](ezr001)  
+[Ezra 1](ezr001.md)  
 
-[Ezra 2](ezr002)  
+[Ezra 2](ezr002.md)  
 
-[Ezra 3](ezr003)  
+[Ezra 3](ezr003.md)  
 
-[Ezra 4](ezr004)  
+[Ezra 4](ezr004.md)  
 
-[Ezra 5](ezr005)  
+[Ezra 5](ezr005.md)  
 
-[Ezra 6](ezr006)  
+[Ezra 6](ezr006.md)  
 
-[Ezra 7](ezr007)  
+[Ezra 7](ezr007.md)  
 
-[Ezra 8](ezr008)  
+[Ezra 8](ezr008.md)  
 
-[Ezra 9](ezr009)  
+[Ezra 9](ezr009.md)  
 
-[Ezra 10](ezr010)  
+[Ezra 10](ezr010.md)  

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft60)  [Next](pft62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft60)  [Next](pft62.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 *Visayan*
 
 One day a man took his blow-gun  <span
-id="fr_162"></span>[163](pft68.htm#fn_162)and his dog and went to the
+id="fr_162"></span>[163](pft68.htm#fn_162.md)and his dog and went to the
 forest to hunt. As he was making his way through the thick woods he
 chanced upon a young cocoanut tree growing in the ground.
 
@@ -55,7 +55,7 @@ cocoanut began to wilt again before he reached his house, but when he
 planted it in the ground, it quickly revived, and grew into a tall tree.
 
 This hunter was the first man to take the liquor called tuba  <span
-id="fr_163"></span>[164](pft68.htm#fn_163) from the cocoanut tree, and
+id="fr_163"></span>[164](pft68.htm#fn_163.md) from the cocoanut tree, and
 he and his friends began to drink it. After they had become very fond of
 it, the hunter said to his friends:
 
@@ -68,4 +68,4 @@ mud-hole."
 
 ------------------------------------------------------------------------
 
-[Next: Mansumandig](pft62)
+[Next: Mansumandig](pft62.md)

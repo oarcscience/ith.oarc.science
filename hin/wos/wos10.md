@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wos09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wos09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Select Works of Sri Sankaracharya*, tr. by S. Venkataramanan, \[1921\],
 at Intangible Textual Heritage
 
@@ -43,12 +43,12 @@ not." When one knows "I am", then (too) it is that Brahman itself that
 knows thus. (5).
 
 Thyself, therefore, art Brahman. "I am not Brahman" is a mere illusion.
-From illusion springs separation <span id="fr_176"></span>[\*](#fn_170)
+From illusion springs separation <span id="fr_176"></span>[\*](#fn_170.md)
 wherein all sorrows have root. (6).
 
 He who gains a clear knowledge of the five sheaths (of the self) does
 not experience the five sufferings. <span
-id="fr_177"></span>[†](#fn_171) The wise, therefore, always investigate
+id="fr_177"></span>[†](#fn_171.md) The wise, therefore, always investigate
 the five sheaths. (7).
 
 <span id="page_202">p. 202</span>
@@ -73,7 +73,7 @@ dislikes. (11).
 
 Nor can the individual consciousness known by the name of *vijnâna-maya*
 (sheath), be the self, for it is only a reflection of the pure
-consciousness, <span id="fr_178"></span>[\*](#fn_172) disappearing in
+consciousness, <span id="fr_178"></span>[\*](#fn_172.md) disappearing in
 deep sleep and permeating the whole body in conscious moments. (12).
 
 <span id="page_204">p. 204</span>
@@ -108,7 +108,7 @@ should be understood to be Brahman. Otherwise, it will be a mere object,
 and not directly knowable. (18).
 
 While everything that is perceived as 'this, this' is
-contradictable <span id="fr_179"></span>[\*](#fn_173), the reality that
+contradictable <span id="fr_179"></span>[\*](#fn_173.md), the reality that
 is 'not this' is not contradictable. It is, moreover, not unrealisable,
 because it exists. (19).
 
@@ -181,17 +181,17 @@ with the primary
 meaning, in a case where the primary meaning cannot be adopted owing to
 its contradiction by other reasons. (32)
 
-Exclusive derivation of meaning <span id="fr_180"></span>[\*](#fn_174)
+Exclusive derivation of meaning <span id="fr_180"></span>[\*](#fn_174.md)
 is the denotation of a different object connected with the expressed
 meaning, but completely exclusive of the latter; for instance, the
-hamlet on the Ganges <span id="fr_181"></span>[†](#fn_175). Such
+hamlet on the Ganges <span id="fr_181"></span>[†](#fn_175.md). Such
 derivation of meaning is not applicable to the present case. (33).
 
 <span id="page_213">p. 213</span>
 
 Inclusive derivation of meaning is the denotation of another object
 without abandoning the expressed meaning; for instance, the red <span
-id="fr_182"></span>[\*](#fn_176) (one) is running. Such derivation, too,
+id="fr_182"></span>[\*](#fn_176) (one.md) is running. Such derivation, too,
 should not be adopted in the present case. (34).
 
 The partly exclusive and partly inclusive derivation is that which
@@ -208,7 +208,7 @@ thus denotes identity between the meanings of the two words ('this' and
 
 In the same way, the sentence, "that thou art", indicates the Supreme
 Self that is the reality, by excluding directness and remoteness, etc.,
-and thus clearly denotes identity <span id="fr_183"></span>[\*](#fn_177)
+and thus clearly denotes identity <span id="fr_183"></span>[\*](#fn_177.md)
 by the word "art." (37).
 
 In regard to those that realise as "I" the reality thus indicated by the
@@ -280,8 +280,8 @@ merely a repetition and is not indicative of any authority whatsoever.
 <span id="page_220">p. 220</span>
 
 Of the Vedas consisting of two parts, one part <span
-id="fr_184"></span>[\*](#fn_178) enunciates duality and the other <span
-id="fr_185"></span>[†](#fn_179) plainly expounds the one (secondless)
+id="fr_184"></span>[\*](#fn_178.md) enunciates duality and the other <span
+id="fr_185"></span>[†](#fn_179) plainly expounds the one (secondless.md)
 reality. (50).
 
 The secondless alone is real. Duality. being only superimposed thereon,
@@ -306,7 +306,7 @@ latter is already established by ordinary reasoning. (54).
 
 The secondless (Brahman) is of the nature of happiness, while duality is
 always unendurable misery. The Vedas, therefore, expound only that <span
-id="fr_186"></span>[\*](#fn_180) which is aspired for. (55).
+id="fr_186"></span>[\*](#fn_180) which is aspired for. (55.md).
 
 In respect of the secondless reality which is expounded by the Vedas and
 which is of the nature of bliss, some say that the condition of
@@ -344,7 +344,7 @@ supreme self by virtue of spiritual efforts, it has been decided
 <span id="page_225">p. 225</span>
 
 by all authorities that even that similarity must necessarily perish
-after some time <span id="fr_187"></span>[\*](#fn_181). (62).
+after some time <span id="fr_187"></span>[\*](#fn_181). (62.md).
 
 Having therefore destroyed, by the knowledge of the self, the
 insuperable ignorance regarding one's self and phenomenal limitation
@@ -360,7 +360,7 @@ thing to be realised. (64)
 In respect of all the numerous Vedic passages declaring oneness, all
 other passages are said to be subordinate thereto. (65).
 
- <span id="fr_188"></span>[\*](#fn_182) From passages like "that thou
+ <span id="fr_188"></span>[\*](#fn_182.md) From passages like "that thou
 art," how does the knowledge of non-duality spring up, at whose very
 origin the conditions of doer, etc., disappear, like darkness at the
 rise of the sun? (66).
@@ -456,7 +456,7 @@ perceive the world to be Brahman. (83).
 <span id="page_234">p. 234</span>
 
 How can Brahman be unknown to anyone, which is realisable by means of
-I-ness? <span id="fr_189"></span>[\*](#fn_183) And yet, it is impossible
+I-ness? <span id="fr_189"></span>[\*](#fn_183.md) And yet, it is impossible
 of realisation by the un-enquiring ignorant. (84).
 
 All persons carry on their activities at all times by means of the ideas
@@ -507,7 +507,7 @@ A wise person should never enquire of the universe, 'what is this',
 should merely think of it as delusion. (93).
 
 The wood is forgotten in the elephant made of wood, and the elephant in
-the wood. <span id="fr_190"></span>[\*](#fn_184) So is the supreme self
+the wood. <span id="fr_190"></span>[\*](#fn_184.md) So is the supreme self
 forgotten in the universe and the universe in the self. (94)
 
 On the vast canvas of the self, the self itself paints the picture of
@@ -516,7 +516,7 @@ the various worlds and
 <span id="page_239">p. 239</span>
 
 the supreme-self itself derives extreme bliss from seeing that
-picture. <span id="fr_191"></span>[\*](#fn_185) (95).
+picture. <span id="fr_191"></span>[\*](#fn_185) (95.md).
 
 The wise have the firm conviction that there is nothing else than the
 supreme self alone, consisting of pure consciousness, attributeless,
@@ -622,7 +622,7 @@ properties. I am the acne of liberality. I am he that rescues
 <span id="page_248">p. 248</span>
 
 all by (granting) the fourfold desires <span
-id="fr_192"></span>[\*](#fn_186) in various ways. (115).
+id="fr_192"></span>[\*](#fn_186) in various ways. (115.md).
 
 I am the goad of all powerfullest elephants, being greater than them. I
 am as spotless as space. I am devoid of emotions generated by the god of
@@ -636,7 +636,7 @@ fittest for the plenitude of eternal bliss and knowledge. (117).
 
 I am filled with the nectar of mercy. I am he that devours all the
 worlds including that of the lotus-seated. <span
-id="fr_193"></span>[\*](#fn_187) I am devoid of the sinful "I". I am
+id="fr_193"></span>[\*](#fn_187.md) I am devoid of the sinful "I". I am
 free from the contagion of sin and virtue. (118).
 
 I am beyond the scope of the senses. I transcend the ether (*âkâsa*). I
@@ -730,8 +730,8 @@ pride, desire and vanity. (135).
 
 I am the sacrificial rite, the sacrificer, the priest and the sacrifice.
 I am free from control of mind etc. <span
-id="fr_194"></span>[\*](#fn_188) I am Yama, Varuna, Kubera, Indra,
-Nirriti, Váyu, Ísvara and Agni. <span id="fr_195"></span>[†](#fn_189)
+id="fr_194"></span>[\*](#fn_188.md) I am Yama, Varuna, Kubera, Indra,
+Nirriti, Váyu, Ísvara and Agni. <span id="fr_195"></span>[†](#fn_189.md)
 (136).
 
 I are the glory of that playful glance that affords protection and
@@ -755,11 +755,11 @@ I am unattainable even by hundreds of philosophies for minds that are
 devoid of peace and self-control. I am the sole refuge of the wise. I
 break to pieces countless doubts of various sorts. (140).
 
-I am free from the six states <span id="fr_196"></span>[\*](#fn_190) and
-the six tastes. <span id="fr_197"></span>[†](#fn_191) I. have no enemy.
+I am free from the six states <span id="fr_196"></span>[\*](#fn_190.md) and
+the six tastes. <span id="fr_197"></span>[†](#fn_191.md) I. have no enemy.
 I am free from the six bodily sheaths. <span
-id="fr_198"></span>[‡](#fn_192) I am beyond the thirty-six
-principles. <span id="fr_199"></span>[§](#fn_193) (141).
+id="fr_198"></span>[‡](#fn_192.md) I am beyond the thirty-six
+principles. <span id="fr_199"></span>[§](#fn_193) (141.md).
 
 <span id="page_260">p. 260</span>
 
@@ -776,7 +776,7 @@ I am Brahman (the creator), and I alone am their cause. (143)
 All my sins have been washed away. The sorrows of phenomenal existence
 have been dispelled from my heart. I am the root of all the various
 activities expressed by the letters ending with *ksha* and beginning
-with *a*. <span id="fr_200"></span>[\*](#fn_194) (144)
+with *a*. <span id="fr_200"></span>[\*](#fn_194) (144.md)
 
 Why say so much! All this universe, sentient and non-sentient, is
 myself. Spray and foam and wave are not, in reality,
@@ -827,11 +827,11 @@ and again to my own self, which is the root of all endeavour. (153)
 Thus, rejoicing again and again at the thought of his having gained the
 knowledge of the self, he reaches the supreme state of absoluteness
 (*kaivalya*), when the fruits of actions ripe for present enjoyment are
-[exhausted](errata.htm#7). (154)
+[exhausted](errata.htm#7). (154.md)
 
 <span id="page_266">p. 266</span>
 
-The Lord facing the south <span id="fr_201"></span>[\*](#fn_195),
+The Lord facing the south <span id="fr_201"></span>[\*](#fn_195.md),
 himself, has composed this work entitled "The definition of one's own
 self", which will dispel the darkness of ignorance and will carry one
 across the shoreless ocean of phenomenal existence. (155)
@@ -856,86 +856,86 @@ THE DEFINITION OF ONE'S OWN SELF.
 
 ### Footnotes
 
-<span id="fn_170"></span>[201:\*](wos10.htm#fr_176) Difference, duality,
+<span id="fn_170"></span>[201:\*](wos10.htm#fr_176.md) Difference, duality,
 manifoldness, variety.
 
-<span id="fn_171"></span>[201:†](wos10.htm#fr_177) *Avidya*, ignorance;
+<span id="fn_171"></span>[201:†](wos10.htm#fr_177.md) *Avidya*, ignorance;
 *asmitä*, egoism; *räga*, desire; *dvesha*, hate; and *abhinivesa*, fear
 of death.
 
-<span id="fn_172"></span>[203:\*](wos10.htm#fr_178) The Supreme Self.
+<span id="fn_172"></span>[203:\*](wos10.htm#fr_178.md) The Supreme Self.
 
-<span id="fn_173"></span>[206:\*](wos10.htm#fr_179) *i.e.*, Unreal.
+<span id="fn_173"></span>[206:\*](wos10.htm#fr_179.md) *i.e.*, Unreal.
 
-<span id="fn_174"></span>[212:\*](wos10.htm#fr_180) Derivation of
+<span id="fn_174"></span>[212:\*](wos10.htm#fr_180.md) Derivation of
 meaning is of three kinds: exclusive, inclusive, and partly exclusive
 and partly inclusive.
 
-<span id="fn_175"></span>[212:†](wos10.htm#fr_181) Which really means
+<span id="fn_175"></span>[212:†](wos10.htm#fr_181.md) Which really means
 "the banks of the Ganges"
 
-<span id="fn_176"></span>[213:\*](wos10.htm#fr_182) The quality of
+<span id="fn_176"></span>[213:\*](wos10.htm#fr_182.md) The quality of
 redness cannot run. The red horse or other animal is meant.
 
-<span id="fn_177"></span>[214:\*](wos10.htm#fr_183) Between the two
+<span id="fn_177"></span>[214:\*](wos10.htm#fr_183.md) Between the two
 indicated by "that" and "thou"
 
-<span id="fn_178"></span>[220:\*](wos10.htm#fr_184) The *karma-kânda*.
+<span id="fn_178"></span>[220:\*](wos10.htm#fr_184.md) The *karma-kânda*.
 
-<span id="fn_179"></span>[220:†](wos10.htm#fr_185) The *jnâna-kânda*.
+<span id="fn_179"></span>[220:†](wos10.htm#fr_185.md) The *jnâna-kânda*.
 
-<span id="fn_180"></span>[222:\*](wos10.htm#fr_186) Brahman, that is,
+<span id="fn_180"></span>[222:\*](wos10.htm#fr_186.md) Brahman, that is,
 eternal bliss.
 
-<span id="fn_181"></span>[225:\*](wos10.htm#fr_187) Because whatever has
+<span id="fn_181"></span>[225:\*](wos10.htm#fr_187.md) Because whatever has
 au artificial origin must have an end.
 
-<span id="fn_182"></span>[226:\*](wos10.htm#fr_188) This and the first
+<span id="fn_182"></span>[226:\*](wos10.htm#fr_188.md) This and the first
 half of the next verse are the view of the mid *mimâmsaka* or ritual
 school.
 
-<span id="fn_183"></span>[234:\*](wos10.htm#fr_189) *i.e.* realisable by
+<span id="fn_183"></span>[234:\*](wos10.htm#fr_189.md) *i.e.* realisable by
 the experiences common to all, "I am ", "I know", "I feel" etc,
 
-<span id="fn_184"></span>[238:\*](wos10.htm#fr_190) Children treat it as
+<span id="fn_184"></span>[238:\*](wos10.htm#fr_190.md) Children treat it as
 an elephant, and the elderly as wood. So the wise see only the supreme
 self and the ignorant the non-self only.
 
-<span id="fn_185"></span>[239:\*](wos10.htm#fr_191) As a painter may
+<span id="fn_185"></span>[239:\*](wos10.htm#fr_191.md) As a painter may
 draw a picture on the back of his hand and enjoy its sight himself.
 
-<span id="fn_186"></span>[248:\*](wos10.htm#fr_192) *Dharma*, merit,
+<span id="fn_186"></span>[248:\*](wos10.htm#fr_192.md) *Dharma*, merit,
 *artha*, riches, *kama*, pleasure and *moksha*, liberation.
 
-<span id="fn_187"></span>[249:\*](wos10.htm#fr_193) The four-faced
+<span id="fn_187"></span>[249:\*](wos10.htm#fr_193.md) The four-faced
 Brahman.
 
-<span id="fn_188"></span>[257:\*](wos10.htm#fr_194) The eight limbed (or
+<span id="fn_188"></span>[257:\*](wos10.htm#fr_194.md) The eight limbed (or
 Rája—) Yoga.
 
-<span id="fn_189"></span>[257:†](wos10.htm#fr_195) The eight deities
+<span id="fn_189"></span>[257:†](wos10.htm#fr_195.md) The eight deities
 presiding over the eight cardinal points.
 
-<span id="fn_190"></span>[259:\*](wos10.htm#fr_196) Birth, existence,
+<span id="fn_190"></span>[259:\*](wos10.htm#fr_196.md) Birth, existence,
 growth, ripeness, decay, death.
 
-<span id="fn_191"></span>[259:†](wos10.htm#fr_197) Sweet, sour, salt,
+<span id="fn_191"></span>[259:†](wos10.htm#fr_197.md) Sweet, sour, salt,
 bitter, pungent and astringent.
 
-<span id="fn_192"></span>[259:‡](wos10.htm#fr_198) Skin muscles, blood,
+<span id="fn_192"></span>[259:‡](wos10.htm#fr_198.md) Skin muscles, blood,
 nerves, bones and marrow.
 
-<span id="fn_193"></span>[259:§](wos10.htm#fr_199) The five elements,
+<span id="fn_193"></span>[259:§](wos10.htm#fr_199.md) The five elements,
 the five pranas (vital breaths), the five sensory and the five motor
 organs, the four aspects of the mind, *mahat*, *kála*, (time),
 *pradhána*, *máyá*, *avidyá*, *purusha*, *bindu*, *náda*, *sakti*,
 *siva*, *sánta* and *atíta*.
 
-<span id="fn_194"></span>[261:\*](wos10.htm#fr_200) अ (*a*) and <span
+<span id="fn_194"></span>[261:\*](wos10.htm#fr_200) अ (*a*.md) and <span
 id="img_26101"></span> ![](img/26101.jpg) (*ksha*) are the first and
 last letters of the Samskrit alphabet.
 
-<span id="fn_195"></span>[266:\*](wos10.htm#fr_201) Dakshinámúrti, the
+<span id="fn_195"></span>[266:\*](wos10.htm#fr_201.md) Dakshinámúrti, the
 Lord Siva in the shape of a spiritual teacher.
 
  

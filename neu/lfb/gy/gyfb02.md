@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb01)  [Next](gyfb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb01)  [Next](gyfb03.md) 
 
 </div>
 
@@ -37,6 +37,6 @@ Mr. John Stuart Mill was as regards music.
 
 ------------------------------------------------------------------------
 
-[Next: Donkey Skin](gyfb03)
+[Next: Donkey Skin](gyfb03.md)
 
 </div>

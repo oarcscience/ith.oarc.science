@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp24)  [Next](potp26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp24)  [Next](potp26.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ to 84 deg. They have passed through a much colder
 
 [![A bird's-eye view of the opening to the interior of the
 earth.](tn/27300.jpg)  
-Click to enlarge](img/27300.jpg)  
+Click to enlarge](img/27300.jpg.md)  
 A bird's-eye view of the opening to the interior of the earth.  
 
 climate, where there were more ice, less open water, and no game or
@@ -56,4 +56,4 @@ or all principle of reasoning must fail.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. What is in the Interior of the Earth?](potp26)
+[Next: Chapter XXII. What is in the Interior of the Earth?](potp26.md)

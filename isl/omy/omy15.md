@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy14)  [Next](omy16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy14)  [Next](omy16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -22,7 +22,7 @@ Heritage
 
 ### CHAPTER V.
 
-#### OF THE FOUR UNIVERSAL SOURCES <span id="fr_24"></span>[1](#fn_24).
+#### OF THE FOUR UNIVERSAL SOURCES <span id="fr_24"></span>[1](#fn_24.md).
 
 <span class="margnote">Division of the Universe into four
 Sources.</span>THE Sufis and Unitarians divide the Universe into four
@@ -44,7 +44,7 @@ reply as follows.
 
 The First Source, which is God, is a hidden treasure, <span
 class="margnote">Reconciled with the Unitarian account.</span> and He
-desired to be known <span id="fr_25"></span>[1](#fn_25). He therefore
+desired to be known <span id="fr_25"></span>[1](#fn_25.md). He therefore
 appeared, coming from internal to external being; this was the beginning
 of the Second Source or Constructive Spirit. This again appeared, and
 the third and fourth Sources were in like manner made manifest; they are
@@ -57,7 +57,7 @@ consequently everything which exists is the nature of God, and there
 neither is nor can be any other existence save His.
 
 It was to this doctrine that ’Abdallah ibn ’Abbás <span
-id="fr_26"></span>[2](#fn_26) <span class="margnote">’Abdallah ibn
+id="fr_26"></span>[2](#fn_26.md) <span class="margnote">’Abdallah ibn
 ’Abbás.</span> referred when he said, "I shall be accused of unbelief if
 I interpret aright the verse, 'It is God who hath created the seven
 heavens and of the earth like unto them, and His command descendeth
@@ -167,15 +167,15 @@ Then I looked within my bosom, and 'twas shining brightly there.</span>
 
 ### Footnotes
 
-<span id="fn_24"></span>[38:1](omy15.htm#fr_24) The Persians call them
+<span id="fn_24"></span>[38:1](omy15.htm#fr_24.md) The Persians call them
 <span id="img_03800"></span> ![](img/03800.jpg) "seas."
 
-<span id="fn_25"></span>[39:1](omy15.htm#fr_25) Cf. the answer to
+<span id="fn_25"></span>[39:1](omy15.htm#fr_25.md) Cf. the answer to
 David's enquiry quoted in p. 5.
 
-<span id="fn_26"></span>[39:2](omy15.htm#fr_26) One of the companions of
+<span id="fn_26"></span>[39:2](omy15.htm#fr_26.md) One of the companions of
 Mohammed. Cf. *Hajji Khalfa*, Vol. II. p. 333.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Saintly and Prophetic Offices Defined](omy16)
+[Next: Chapter I. The Saintly and Prophetic Offices Defined](omy16.md)

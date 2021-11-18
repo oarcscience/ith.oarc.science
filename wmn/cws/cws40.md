@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws39)  [Next](cws41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws39)  [Next](cws41.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XXXVI
 
-#### CONCERNING THE METEMPSYCHOSIS OR AVATÂR <span id="fr_148"></span>[2](#fn_148)
+#### CONCERNING THE METEMPSYCHOSIS OR AVATÂR <span id="fr_148"></span>[2](#fn_148.md)
 
 METEMPSYCHOSIS means, in its chief aspect, not transmigration which is
 of souls, but the vivification or illumination of a soul already
@@ -18,7 +18,7 @@ of one or the other of the Gods of the Seven Spheres. He spoke through
 the Spirit, or God, of the Fourth Sphere--Dionysos or Iacchos--to Noah,
 Moses, and Jesus. Nevertheless Jesus was not an incarnation of either of
 these, and when he said, "Your father Abraham rejoiced to see my day,"
-he spoke, in one sense, <span id="fr_149"></span>[3](#fn_149) of his own
+he spoke, in one sense, <span id="fr_149"></span>[3](#fn_149.md) of his own
 former birth as Isaac. For Jesus was a transmigration or re-incarnation
 of the soul of Isaac, and the two names are occultly related.
 
@@ -30,7 +30,7 @@ first and last are dual or "twins." The pair at the first Avatâr were
 Avatârs and their angels have their corresponding signs in the Zodiac,
 the double ones being represented by the double signs Gemini and Pisces.
 The latter Avatâr, now at hand, will introduce Aquarius, "the sign of
-the Son of Man in Heaven." Heracles is an [epitome](errata.htm#0) of the
+the Son of Man in Heaven." Heracles is an [epitome](errata.htm#0.md) of the
 
 <span id="page_91">p. 91</span>
 
@@ -58,7 +58,7 @@ same as that of Daniel. The spirit that informed Noah, Moses, and Jesus
 is Dionysos (Jehovah Nissi), the God of the planet. And the spirit which
 informed Daniel and John, and will inform the angel of this century, is
 Michael, who represents Zeus and Hera, or the planet Jupiter. <span
-id="fr_150"></span>[1](#fn_150)
+id="fr_150"></span>[1](#fn_150.md)
 
 That which comes back as a messenger or angel, is not the personal soul
 of the individual man employed; for that has become transmuted into
@@ -87,15 +87,15 @@ and "in the kingdom of God."
 
 ### Footnotes
 
-<span id="fn_148"></span>[90:2](cws40.htm#fr_148) London, March 1881.
+<span id="fn_148"></span>[90:2](cws40.htm#fr_148.md) London, March 1881.
 Spoken in trance.
 
-<span id="fn_149"></span>[90:3](cws40.htm#fr_149) Another sense was
+<span id="fn_149"></span>[90:3](cws40.htm#fr_149.md) Another sense was
 Abraham's recognition of the doctrine implied by the term "Christ." In
 their profoundest and most interior meaning the Patriarchs represent the
 component elements of the planetary divinity.    E. M.
 
-<span id="fn_150"></span>[91:1](cws40.htm#fr_150) See Daniel X, 21, and
+<span id="fn_150"></span>[91:1](cws40.htm#fr_150.md) See Daniel X, 21, and
 xii, i, and Apoc. xii, 7. That Michael is by many regarded as the angel
 of the sun, is probably from their taking him to be the "angel standing
 in the sun" of Apoc. xix, 17. But even so, the position would not imply
@@ -103,4 +103,4 @@ more than a temporary presidency.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: No. XXXVII: Concerning The Æon of the Christ](cws41)
+[Next: No. XXXVII: Concerning The Æon of the Christ](cws41.md)

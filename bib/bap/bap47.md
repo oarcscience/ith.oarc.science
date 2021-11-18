@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap46) 
-[Next](bap48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap46.md) 
+[Next](bap48.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 XXXI\. And Debbora sent and called Barach and said to him: Arise and
 gird up thy loins as a man, and go down and fight against Sisara, For I
 see the constellations greatly moved in their ranks and preparing to
-fight for you. <span id="fr_122"></span>[1](#fn_122) I see also
+fight for you. <span id="fr_122"></span>[1](#fn_122.md) I see also
 
 |           |
 |-----------|
@@ -145,11 +145,11 @@ didst look for to come with spoil.
 
 ### Footnotes
 
-<span id="fn_122"></span>[171:1](bap47.htm#fr_122) XXXI. 1, etc. *The
+<span id="fn_122"></span>[171:1](bap47.htm#fr_122.md) XXXI. 1, etc. *The
 stars fighting*. Cf. *Pirke R. Eliezer* 52: Joshua, when fighting, saw
 the magicians of Egypt compelling the constellations to come against
 Israel.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXII](bap48)
+[Next: Chapter XXXII](bap48.md)

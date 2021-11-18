@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti40)  [Next](eti42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti40)  [Next](eti42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -155,11 +155,11 @@ replied:
 
 <span id="img_22900"></span> <span align="CENTER"> [![AN
 UNCONTROLLABLE, INEXPRESSIBLE DESIRE TO FLEE.](tn/22900.jpg)  
-Click to enlarge](img/22900.jpg)  
+Click to enlarge](img/22900.jpg.md)  
 “AN UNCONTROLLABLE, INEXPRESSIBLE DESIRE TO FLEE.”  
 </span>
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXV. “A Certain Point Within A Sphere.”—Men Are As
-Parasites On the Roof of Earth.](eti42)
+Parasites On the Roof of Earth.](eti42.md)

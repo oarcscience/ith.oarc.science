@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt14)  [Next](pyt16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt14)  [Next](pyt16.md) 
 
 ------------------------------------------------------------------------
 
@@ -471,4 +471,4 @@ clouds for thee; he who breaks up the hail for thee.
 
 ------------------------------------------------------------------------
 
-[Next: 13. A Series of Five Charms, Utterances 312-316](pyt16)
+[Next: 13. A Series of Five Charms, Utterances 312-316](pyt16.md)

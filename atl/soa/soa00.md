@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soamap)  [Next](soa01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soamap)  [Next](soa01.md) 
 
 ------------------------------------------------------------------------
 
@@ -216,4 +216,4 @@ recommendations of mine.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Atlantis](soa01)
+[Next: The Story of Atlantis](soa01.md)

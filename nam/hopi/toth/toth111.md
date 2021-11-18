@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth110)  [Next](toth112) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth110)  [Next](toth112.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 108. A HOPI RAID ON A NAVAHO DANCE. <span id="fr_199"></span>[2](#fn_197)
+## 108. A HOPI RAID ON A NAVAHO DANCE. <span id="fr_199"></span>[2](#fn_197.md)
 
 Alíksai! At a certain place the Navaho were living. They were going to
 have a dance at some place towards the north, so they gathered together
@@ -58,7 +58,7 @@ always put out some watchers to look out for intruders.
 
 ### Footnotes
 
-<span id="fn_196"></span>[266:1](toth110.htm#fr_198) The Navaho, it
+<span id="fn_196"></span>[266:1](toth110.htm#fr_198.md) The Navaho, it
 seems, had used poisoned arrows. The Hopi say that the way the Navaho
 prepared these arrows was as follows: They would suspend a rattlesnake
 and place a vessel under it, into which the putrid matter from the
@@ -73,9 +73,9 @@ poisoned arrows because their bodies were entirely unprotected, while
 the bodies of the Hopi were well wrapped with buckskins, which furnished
 a good protection against the arrows.
 
-<span id="fn_197"></span>[266:2](toth111.htm#fr_199) Told by Kúhkuima
+<span id="fn_197"></span>[266:2](toth111.htm#fr_199.md) Told by Kúhkuima
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
-[Next: 109. A Raid On the Hopi Villages](toth112)
+[Next: 109. A Raid On the Hopi Villages](toth112.md)

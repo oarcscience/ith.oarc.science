@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg30)  [Next](leg32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg30)  [Next](leg32.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,15 +8,15 @@ III\. The goddess Isis is said by some authors to be
 
 <span id="page_201">p. 201</span>
 
-the daughter <span id="fr_263"></span>[1](#fn_261) of Hermes, <span
-id="fr_264"></span>[2](#fn_262) and by others of Prometheus, both of
+the daughter <span id="fr_263"></span>[1](#fn_261.md) of Hermes, <span
+id="fr_264"></span>[2](#fn_262.md) and by others of Prometheus, both of
 them famous for their philosophic turn of mind. The latter is supposed
 to have first taught mankind wisdom and foresight, as the former is
 reputed to have invented letters and music.
 
 They likewise call the former of the two Muses at Hermopolis <span
-id="fr_265"></span>[3](#fn_263) Isis as well as Dikaiosune, <span
-id="fr_266"></span>[4](#fn_264) she being none other, it is said, than
+id="fr_265"></span>[3](#fn_263.md) Isis as well as Dikaiosune, <span
+id="fr_266"></span>[4](#fn_264.md) she being none other, it is said, than
 Wisdom pointing out the knowledge of divine truths to her votaries, the
 true Hierophori and Hierostoli. Now, by the former of these are meant
 such who carry about them looked up in their souls, as in a chest, the
@@ -46,27 +46,27 @@ dictates of reason and philosophy.
 
 ### Footnotes
 
-<span id="fn_260"></span>[200:1](leg30.htm#fr_262) In Egyptian, TEBH.
+<span id="fn_260"></span>[200:1](leg30.htm#fr_262.md) In Egyptian, TEBH.
 
-<span id="fn_261"></span>[201:1](leg31.htm#fr_263) According to the
+<span id="fn_261"></span>[201:1](leg31.htm#fr_263.md) According to the
 Egyptian Heliopolitan doctrine, Isis was the daughter of Keb, the
 Earth-god, and Nut, the Sky-goddess; she was the wife of Osiris, mother
 of Horus, and sister of Set and Nephthys.
 
-<span id="fn_262"></span>[201:2](leg31.htm#fr_264) The Egyptian. TEHUTI,
+<span id="fn_262"></span>[201:2](leg31.htm#fr_264.md) The Egyptian. TEHUTI,
 or Thoth, who invented letters, mathematics, &c. He was the "heart of
 Ra," the scribe of the gods, and he uttered the words which created the
 world; he composed the "words of power," or magical formulae which were
 beneficial for the dead, and the religious works which were used by
 souls in their journey from this world to the next.
 
-<span id="fn_263"></span>[201:3](leg31.htm#fr_265) The Hermopolis here
+<span id="fn_263"></span>[201:3](leg31.htm#fr_265.md) The Hermopolis here
 referred to is the city of Khemenu in Upper Egypt, wherein was the great
 sanctuary of Thoth.
 
-<span id="fn_264"></span>[201:4](leg31.htm#fr_266) i.e., Righteousness,
+<span id="fn_264"></span>[201:4](leg31.htm#fr_266.md) i.e., Righteousness,
 or Justice. The goddess referred to is probably Maat.
 
 ------------------------------------------------------------------------
 
-[Next: Section IV](leg32)
+[Next: Section IV](leg32.md)

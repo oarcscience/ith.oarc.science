@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod04)  [Next](ebod06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod04)  [Next](ebod06.md) 
 
 ------------------------------------------------------------------------
 
@@ -1327,4 +1327,4 @@ to him who used it"; see Fraser, *Golden Bough*, vol. ii., p. 88.\]
 
 ------------------------------------------------------------------------
 
-[Next: The Egyptians' Ideas Of God.](ebod06)
+[Next: The Egyptians' Ideas Of God.](ebod06.md)

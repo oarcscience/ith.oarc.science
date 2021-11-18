@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt60)  [Next](egt62) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt60)  [Next](egt62.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ stupidity.
 
 ------------------------------------------------------------------------
 
-[Next: ON STRIVING IN GOD'S PATH.](egt62)
+[Next: ON STRIVING IN GOD'S PATH.](egt62.md)

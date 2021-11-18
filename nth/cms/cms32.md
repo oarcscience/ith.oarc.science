@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cms31)  [Next](cms33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cms31)  [Next](cms33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ would not argue. Be convinced and rest in peace.
 
 ------------------------------------------------------------------------
 
-[Next: Where Demonstration Takes Place](cms33)
+[Next: Where Demonstration Takes Place](cms33.md)

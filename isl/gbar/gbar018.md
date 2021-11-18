@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar017) [Next](gbar019)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar017) [Next](gbar019.md)
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ lusts of the world, and therefore hate ye the world.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar019)
+[Next](gbar019.md)
 
  
 

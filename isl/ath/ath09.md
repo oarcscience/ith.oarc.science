@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](ath08)  [Next](ath10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](ath08)  [Next](ath10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabic Thought and its Place in History*, by De Lacy O'Leary, \[1922\],
 at Intangible Textual Heritage
 
@@ -239,7 +239,7 @@ a Syrian monk named Stephen Bar Sudaili, who wrote under the name of
 Hierotheus (cf. Asseman, *Bibl. Orient.* ii. 290-291). This Bar Sudaili
 was abbot of a convent at Edessa, and was involved in controversy with
 James of Sarugh, so that we may refer the writings to the latter part of
-the 5th century A.D. They were translated into [Syriac](errata.htm#28)
+the 5th century A.D. They were translated into [Syriac](errata.htm#28.md)
 very soon after their first appearance in Greek, and, as familiar to
 Syriac Christians, must have become indirectly known to the Muslims. We
 have no direct evidence as to their translation into Arabic, but Mai
@@ -605,7 +605,7 @@ into vital religion. In fact, however, the philosophical
 
 principles brought forward by the neo-Platonic Aristotelian works in
 general circulation were so far influential and regarded as
-[reconcilable](errata.htm#29) with the Qur’an that Sufism, in so far as
+[reconcilable](errata.htm#29.md) with the Qur’an that Sufism, in so far as
 it was neo-Platonic, did not appear to be destructive of Islam, but only
 at variance with customary usage.
 
@@ -739,4 +739,4 @@ reformation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Orthodox Scholasticism](ath10)
+[Next: Chapter VIII. Orthodox Scholasticism](ath10.md)

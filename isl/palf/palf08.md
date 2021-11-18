@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](palf07)  [Next](palf09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](palf07)  [Next](palf09.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@
 that the soul is one, and that its unity is the basis for certain
 differences or powers. The powers of the soul are multiple but can be
 reduced to three kinds: vegetative, sensitive and intellective." <span
-id="fr_88"></span>[89](#fn_88) Hence the following schema:
+id="fr_88"></span>[89](#fn_88.md) Hence the following schema:
 
 The Soul is: Vegetative, Sensitive, Intellective.
 
@@ -112,7 +112,7 @@ says, "that the sheep knows that the
 <span id="page_40">p. 40</span>
 
 wolf is his enemy and that the little lambs need its care and
-attention." <span id="fr_92"></span>[93](#fn_92)
+attention." <span id="fr_92"></span>[93](#fn_92.md)
 
 #### PERCEPTIVE KNOWLEDGE AND PERCEPTS CONTRASTED WITH CONCEPTS
 
@@ -129,7 +129,7 @@ to a concept (knowledge of the universal). Literally he says: "There is
 one part of the soul in which occurs the first knowledge, a knowledge
 free from abstraction, and which apprehends the principles of science
 immediately and without reflection." <span
-id="fr_93"></span>[94](#fn_93)
+id="fr_93"></span>[94](#fn_93.md)
 
 That a percept (knowledge of the individual) comes first, is proved by
 the fact that our mind must have the individual be-fore abstracting from
@@ -161,7 +161,7 @@ rather believes that, while by its matter the particular concrete thing
 is the object of sense-perception, yet by its form or essence, it is in
 the intellect, too. On the other hand, though the universal, as such, is
 in the intellect, yet it is also in sense-perception insofar as it is
-immanent in the individual. <span id="fr_94"></span>[95](#fn_94)
+immanent in the individual. <span id="fr_94"></span>[95](#fn_94.md)
 
 #### ABSTRACTIVE KNOWLEDGE
 
@@ -172,13 +172,13 @@ and in philosophy proper. In everyday language "an intelligent man," he
 says, "means a man of reliable judgment, who knows what he has to do as
 right and what he has to avoid as wrong, and thus is distinguished from
 a crafty man who employs his mind in devising evil expedients." <span
-id="fr_95"></span>[96](#fn_95) He continues:
+id="fr_95"></span>[96](#fn_95.md) He continues:
 
 Theologians use the term "intellect" to denote the faculty which tests
 the validity of statements, either approving them as true or rejecting
 them as false. Hence, by "intellect" they mean the faculty which
 perceives the truths of common evidence. <span
-id="fr_96"></span>[97](#fn_96)
+id="fr_96"></span>[97](#fn_96.md)
 
 In Analytics Aristotle uses the term "intellect" to denote
 
@@ -188,13 +188,13 @@ the faculty by which man attains to the certain knowledge of axioms and
 general abstract truths without the need of proof. This faculty is that
 part of the soul in which occurs the first knowledge (sense percept),
 and which is thereby able to lay hold of the premises of speculative
-science. <span id="fr_97"></span>[98](#fn_97)
+science. <span id="fr_97"></span>[98](#fn_97.md)
 
 In the book of Ethics Aristotle mentions an intellect of moral truths,
 and this is, for Alfarabi, that part of the soul in which moral
 experience, as we call it, takes place and by which we try to
 distinguish the acts to be done from those to be avoided. <span
-id="fr_98"></span>[99](#fn_98)
+id="fr_98"></span>[99](#fn_98.md)
 
 Finally comes the intellect spoken of in the *Anima*, and is the
 intellect proper. This is of two kinds: the *speculative intellect* is
@@ -265,7 +265,7 @@ acquired intellect and the actual intellect.
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | because, just as the sensitive part acquires a greater power by its conjunction with the intellectual part, so by the power of the active intellect the phantasms are made more fit for the abstraction therefrom of intelligible intentions. Furthermore, the active intellect abstracts the intelligible species from the phantasm, forasmuch as by the power of the active intellect we are able to disregard the conditions of individuality, and to take into our consideration the specific nature, the image of which informs the passive intellect. <span id="fr_105"></span>[105](#fn_105) |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | because, just as the sensitive part acquires a greater power by its conjunction with the intellectual part, so by the power of the active intellect the phantasms are made more fit for the abstraction therefrom of intelligible intentions. Furthermore, the active intellect abstracts the intelligible species from the phantasm, forasmuch as by the power of the active intellect we are able to disregard the conditions of individuality, and to take into our consideration the specific nature, the image of which informs the passive intellect. <span id="fr_105"></span>[105](#fn_105.md) |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Alfarabi's theory may be summed up as follows: the intellect, in its primitive state, is a power of the soul. Since it has only a potential existence, he calls it "aql hayulani", the material intellect. For, like matter, it has the capacity for taking on a new form. In fact, the material or passive intellect passes from potentiality to actuality when it abstracts the essence from the individuals. But what is the force that causes the passive intellect to pass from potentiality to act? It is, according to Alfarabi, the active intellect, a separate 'substance emanating from God which is able to awaken the latent power in man and arouse it to activity. | St. Thomas' theory boils down to this: to abstract the essence and to perceive it are two acts specifically distinct; therefore they demand two distinct powers. Hence the soul requires one power which renders the essences of sensible things actually intelligible by stripping them of their material conditions in which they exist: which power is called the active intellect; and another power by which it comprehends the intelligible: this is called the passive intellect because of its being in potentiality to all intelligibles.                                                  |
 
@@ -312,7 +312,7 @@ stares at the thing. The
 <span id="page_46">p. 46</span>
 
 looking up and the staring represent the bodily change. <span
-id="fr_106"></span>[107](#fn_106)
+id="fr_106"></span>[107](#fn_106.md)
 
 #### INTELLECTIVE APPETITE
 
@@ -325,79 +325,79 @@ Freedom can choose only what is possible, while the will can choose also
 the impossible. The latter is well exemplified in a man who does not
 will to die. Therefore, the will is more general than freedom, and for
 this reason all freedom is will, but not all will is freedom. <span
-id="fr_107"></span>[108](#fn_107)
+id="fr_107"></span>[108](#fn_107.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_88"></span>[37:89](palf08.htm#fr_88) Alfarabi, *The Gems of
+<span id="fn_88"></span>[37:89](palf08.htm#fr_88.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit., pp. 147-152. See also *Political
 Regime*, op. cit., p. 47-51; The *Sources of Questions*, in Collection,
 op. cit., n. 20, p. 74.
 
-<span id="fn_89"></span>[38:90](palf08.htm#fr_89) Alfarabi, *The Gems of
+<span id="fn_89"></span>[38:90](palf08.htm#fr_89.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit., p. 149; see also: Alfarabi, *Political
 Regime*, op. cit., pp. 47-51.
 
-<span id="fn_90"></span>[38:91](palf08.htm#fr_90) St. Thomas. *Summa
+<span id="fn_90"></span>[38:91](palf08.htm#fr_90.md) St. Thomas. *Summa
 Theologica*. Part I, Third No. (QQ. LXXV-CXIX)-Q. LXXVIII, Art. 3, p.
 80. Tr. by the English Dominican Fathers.
 
-<span id="fn_91"></span>[39:92](palf08.htm#fr_91) St. Thomas, *Summa
+<span id="fn_91"></span>[39:92](palf08.htm#fr_91.md) St. Thomas, *Summa
 Theologica*, Part I, Third No. Q. LXXVIII, Art. 4, p. 85.
 
-<span id="fn_92"></span>[40:93](palf08.htm#fr_92) Alfarabi, *The Gems of
+<span id="fn_92"></span>[40:93](palf08.htm#fr_92.md) Alfarabi, *The Gems of
 Wisdom*, in Collection, op. cit., p. 152.
 
-<span id="fn_93"></span>[40:94](palf08.htm#fr_93) Alfarabi, *The
+<span id="fn_93"></span>[40:94](palf08.htm#fr_93.md) Alfarabi, *The
 Intellect and the Intelligible*, in Collection, op. cit. n. 3, p. 47.
 
-<span id="fn_94"></span>[41:95](palf08.htm#fr_94) Albertus Magnus, An.
+<span id="fn_94"></span>[41:95](palf08.htm#fr_94.md) Albertus Magnus, An.
 post. I,. 1, 3.
 
-<span id="fn_95"></span>[41:96](palf08.htm#fr_95) D Alfarabi, *The
+<span id="fn_95"></span>[41:96](palf08.htm#fr_95.md) D Alfarabi, *The
 Intellect and the Intelligible*, in Collection, op, cit. n. 1, pp.
 45-46.
 
-<span id="fn_96"></span>[41:97](palf08.htm#fr_96) Alfarabi, Ibid. op.
+<span id="fn_96"></span>[41:97](palf08.htm#fr_96.md) Alfarabi, Ibid. op.
 cit. n. 2, p. 47.
 
-<span id="fn_97"></span>[42:98](palf08.htm#fr_97) Alfarabi, Ibid. op.
+<span id="fn_97"></span>[42:98](palf08.htm#fr_97.md) Alfarabi, Ibid. op.
 cit. n. 3, p. 47.
 
-<span id="fn_98"></span>[42:99](palf08.htm#fr_98) Alfarabi, Ibid. op.
+<span id="fn_98"></span>[42:99](palf08.htm#fr_98.md) Alfarabi, Ibid. op.
 cit. n. 4, pp. 47-48.
 
-<span id="fn_99"></span>[42:100](palf08.htm#fr_99) St. Thomas, *Summa
+<span id="fn_99"></span>[42:100](palf08.htm#fr_99.md) St. Thomas, *Summa
 Theologica*. Part I, Third No. (QQ. LXXV-CXIX),-Q. LXXIX, Art. 2, p. 92.
 
-<span id="fn_100"></span>[43:101](palf08.htm#fr_100) Alfarabi, *The
+<span id="fn_100"></span>[43:101](palf08.htm#fr_100.md) Alfarabi, *The
 Intellect and the Intelligibl*e, op. cit., n. 5, pp. 49-54.
 
-<span id="fn_101"></span>[43:102](palf08.htm#fr_102) St. Thomas, *Summa
+<span id="fn_101"></span>[43:102](palf08.htm#fr_102.md) St. Thomas, *Summa
 Theologica*, Part I, Third No., Q. LXXIX, Art. 3, p. 94.
 
-<span id="fn_102"></span>[43:103](palf08.htm#fr_103) St. Thomas, *Summa
+<span id="fn_102"></span>[43:103](palf08.htm#fr_103.md) St. Thomas, *Summa
 Theologica,* Part I, Third No., Q. LXXIX, Art. 4, ad. 4, p. 98.
 
-<span id="fn_103"></span>[43:104](palf08.htm#fr_101) Alfarabi, *The
+<span id="fn_103"></span>[43:104](palf08.htm#fr_101.md) Alfarabi, *The
 Intellect and the Intelligible*, op. cit., n. 6, pp. 54-56.
 
-<span id="fn_104"></span>[43:106](palf08.htm#fr_104) With regard to the
+<span id="fn_104"></span>[43:106](palf08.htm#fr_104.md) With regard to the
 acquired intellect, see Albertus Magnus, *Summa Theol*., parag. II,
 Tract. XIII, Quaest. LXXVIII, Membr. 3.
 
-<span id="fn_105"></span>[44:105](palf08.htm#fr_105) St. Thomas, *Summa
+<span id="fn_105"></span>[44:105](palf08.htm#fr_105.md) St. Thomas, *Summa
 Theologica*, Part I, Third Number, Q. LXXXV, Art. 1, ad. 4, p. 183.
 
-<span id="fn_106"></span>[46:107](palf08.htm#fr_106) Alfarabi,
+<span id="fn_106"></span>[46:107](palf08.htm#fr_106.md) Alfarabi,
 *Political Regime*, op. cit., p. 65. See also pp. 50-51.
 
-<span id="fn_107"></span>[46:108](palf08.htm#fr_107) Alfarabi, *A Letter
+<span id="fn_107"></span>[46:108](palf08.htm#fr_107.md) Alfarabi, *A Letter
 in Reply to Certain Questions*, in Collection, op. cit., n. 31, pp.
 107-108.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Ethics](palf09)
+[Next: Chapter IV. Ethics](palf09.md)

@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat19)  [Next](sat21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat19)  [Next](sat21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -293,7 +293,7 @@ now thou thinkest thou hittest it right; but first learn the A B C in
 the great mystery: All whatever is risen out of the eternal will, viz.
 out of the great eternal mystery of all beings (as angels and the souls
 of men are), stands in equal weight <span
-id="fr_301"></span>[1](#fn_300) in evil and good in the free will as God
+id="fr_301"></span>[1](#fn_300.md) in evil and good in the free will as God
 himself; that desire which powerfully and predominantly
 
 <span id="page_216">p. 216</span>
@@ -315,7 +315,7 @@ both) which is the similitude of the Spirit of God, continue in its
 place in obedience, as a child before the mother in humility?
 
 25\. Thou sayst it cannot; It is not so: <span
-id="fr_302"></span>[1](#fn_301) Every spirit stands in the place where
+id="fr_302"></span>[1](#fn_301.md) Every spirit stands in the place where
 it was created in equal weight, and has its free will; it is a spirit
 with the all-essential Eternal Spirit, and may take to itself a lubet in
 the all-essential Eternal Spirit as it wills, either in God's love or
@@ -367,7 +367,7 @@ now Christ was therefore promised into the humanity, that he might heal
 the fall of Adam, and redeem Esau, which was captivated in the wrath,
 from the wrath; Jacob denotes Christ; and Esau Adam; now Christ is to
 redeem Adam from death and wrath, wherein he was captivated: But did
-Esau continue <span id="fr_303"></span>[1](#fn_302) in sin? That I know
+Esau continue <span id="fr_303"></span>[1](#fn_302.md) in sin? That I know
 not; the Scripture also does not declare it; the blessing belonged to
 Esau, that is, to Adam, but he fooled it away in the Fall, and so the
 blessing fell upon Jacob, that is upon Christ, who should bless Adam and
@@ -421,7 +421,7 @@ did not do it, but this resigning into the wrath, that the love might
 drown the wrath. Jacob in Christ must drown Esau in the love-power in
 his blood, that Esau might also become a Jacob in Christ: But Esau was
 not willing to receive his brother Jacob, and contended about the first
-birth; <span id="fr_304"></span>[1](#fn_303) that is, Adam in sin will
+birth; <span id="fr_304"></span>[1](#fn_303.md) that is, Adam in sin will
 not, cannot receive \[or accept of\] Christ, he shall and must die to
 the sinful flesh and will.
 
@@ -491,7 +491,7 @@ of the same, by reason of the self-ful evil will which they had before
 embraced, and so they are not the elected, but evil children; and here
 it is then rightly said, "We have piped unto you, but you have not
 danced; we have mourned unto you, and ye have not lamented unto
-us: <span id="fr_305"></span>[1](#fn_304) O Jerusalem, how often would I
+us: <span id="fr_305"></span>[1](#fn_304.md) O Jerusalem, how often would I
 have gathered thy children together, as a hen gathereth her chickens
 under her wings, and thou wouldest not: "It is not said, "thou
 *couldest* not," but " thou *wouldest* not;" and while they remain in
@@ -529,17 +529,17 @@ earth: He that seeketh findeth. Amen.
 
 ### Footnotes
 
-<span id="fn_300"></span>[215:1](sat20.htm#fr_301) Counterpoised.
+<span id="fn_300"></span>[215:1](sat20.htm#fr_301.md) Counterpoised.
 
-<span id="fn_301"></span>[216:1](sat20.htm#fr_302) Or, This is spoken
+<span id="fn_301"></span>[216:1](sat20.htm#fr_302.md) Or, This is spoken
 without any ground or foundation.
 
-<span id="fn_302"></span>[217:1](sat20.htm#fr_303) Or die.
+<span id="fn_302"></span>[217:1](sat20.htm#fr_303.md) Or die.
 
-<span id="fn_303"></span>[218:1](sat20.htm#fr_304) Or birthright.
+<span id="fn_303"></span>[218:1](sat20.htm#fr_304.md) Or birthright.
 
-<span id="fn_304"></span>[220:1](sat20.htm#fr_305) Text, comforted us.
+<span id="fn_304"></span>[220:1](sat20.htm#fr_305.md) Text, comforted us.
 
 ------------------------------------------------------------------------
 
-[Next: Postscript by the Translator](sat21)
+[Next: Postscript by the Translator](sat21.md)

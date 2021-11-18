@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cwt00)  [Next](cwt02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cwt00)  [Next](cwt02.md) 
 
 ------------------------------------------------------------------------
 
@@ -254,4 +254,4 @@ Then Ogma tied a knot of remembrance in the fringe of Brigit's mantle.
 
 ------------------------------------------------------------------------
 
-[Next: The Spear of Victory](cwt02)
+[Next: The Spear of Victory](cwt02.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc02)  [Next](sfoc04) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc02)  [Next](sfoc04.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ information.
 
 ------------------------------------------------------------------------
 
-[Next: The Swimmer Manuscript](sfoc04)
+[Next: The Swimmer Manuscript](sfoc04.md)

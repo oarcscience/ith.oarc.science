@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop22)  [Next](pop24) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop22)  [Next](pop24.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ created but in the vale of tears. This thou hast forgotten.'
 
 ------------------------------------------------------------------------
 
-[Next: The Nineteenth Figure](pop24)
+[Next: The Nineteenth Figure](pop24.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp20)  [Next](hmvp22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp20)  [Next](hmvp22.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -21,10 +21,10 @@ into a boar has apparently a purely cosmical character," the earth being
 immersed in the ocean. Brahmā, the Creator, in the shape of a boar,
 raised it on his tusk; "whereas, in the latter, it altogether represents
 the extrication of the world from a deluge of iniquity by the rites of
-religion." <span id="fr_147"></span>[\*](#fn_147)
+religion." <span id="fr_147"></span>[\*](#fn_147.md)
 
 The first mention of this incarnation is in the "Taittiriya
-Sanhitā," <span id="fr_148"></span>[†](#fn_148) and is as follows: "The
+Sanhitā," <span id="fr_148"></span>[†](#fn_148.md) and is as follows: "The
 universe was formerly water, fluid. On it Prajāpati (Brahmā) becoming
 wind, moved. Becoming a boar, he took it up." In harmony with this is a
 verse in the "Taittiriya Brāhmana":—"This universe was formerly water,
@@ -37,12 +37,12 @@ shall this universe be (developed)?' He beheld a lotus leaf standing. He
 thought, 'There is something on which this rests.' He as a boar—having
 assumed that form—plunged beneath towards it. He found the earth down
 below. Breaking off (a portion of) her, he rose to the surface." In the
-"Satapatha Brāhmana" <span id="fr_149"></span>[\*](#fn_149) there is a
+"Satapatha Brāhmana" <span id="fr_149"></span>[\*](#fn_149.md) there is a
 similar reference, but there the boar is called "Emusha." Formerly the
 earth was only of the size of a span. A boar called Emusha raised her
 up.
 
-Dr. Muir <span id="fr_150"></span>[†](#fn_150) gives two accounts of
+Dr. Muir <span id="fr_150"></span>[†](#fn_150.md) gives two accounts of
 this incarnation from two recensions of the Rāmāyana. In one, which he
 considers the older, it is said that Brahmā assumed the form of a boar;
 in the other, Vishnu *in the form of Brahmā* is said to have
@@ -56,7 +56,7 @@ self-existent, the imperishable Vishnu. He then, becoming a boar, raised
 up this earth and created the whole world."
 
 In the following account from the "Vishnu Purāna" <span
-id="fr_151"></span>[‡](#fn_151) it will be noticed that, as in the last
+id="fr_151"></span>[‡](#fn_151.md) it will be noticed that, as in the last
 quotation from the Rāmāyana, it was Vishnu in the form of Brahmā who
 became a boar. As the earlier writers had declared this to have been
 Brahmā's work, it was necessary to identify Vishnu with him.
@@ -109,7 +109,7 @@ Before noticing the hymn of these saints, in which the boar is
 identified with the various parts of worship, we can gather a little
 more information from the other Purānas respecting the dimensions, etc.,
 of this animal. The Vāyu says, "The boar was ten yojanas <span
-id="fr_152"></span>[\*](#fn_152) in breadth, and a thousand yojanas in
+id="fr_152"></span>[\*](#fn_152.md) in breadth, and a thousand yojanas in
 height; his colour was like a dark cloud, and his roar like thunder. His
 bulk was vast as a mountain; his tusks were white, sharp, and fearful;
 fire flashed from his eyes like lightning, and he was radiant as the
@@ -157,22 +157,22 @@ which he stands, when weary.
 
 ### Footnotes
 
-<span id="fn_147"></span>[144:\*](hmvp21.htm#fr_147) Goldstücker,
+<span id="fn_147"></span>[144:\*](hmvp21.htm#fr_147.md) Goldstücker,
 Chambers's Cyclopedia, *s.v.* "Vishnu."
 
-<span id="fn_148"></span>[144:†](hmvp21.htm#fr_148) Muir, O. S. T., i.
+<span id="fn_148"></span>[144:†](hmvp21.htm#fr_148.md) Muir, O. S. T., i.
 52.
 
-<span id="fn_149"></span>[145:\*](hmvp21.htm#fr_149) Muir, O. S. T., iv.
+<span id="fn_149"></span>[145:\*](hmvp21.htm#fr_149.md) Muir, O. S. T., iv.
 33.
 
-<span id="fn_150"></span>[145:†](hmvp21.htm#fr_150) Ibid.
+<span id="fn_150"></span>[145:†](hmvp21.htm#fr_150.md) Ibid.
 
-<span id="fn_151"></span>[145:‡](hmvp21.htm#fr_151) Page 27 ff.
+<span id="fn_151"></span>[145:‡](hmvp21.htm#fr_151.md) Page 27 ff.
 
-<span id="fn_152"></span>[147:\*](hmvp21.htm#fr_152) A yojan is at least
+<span id="fn_152"></span>[147:\*](hmvp21.htm#fr_152.md) A yojan is at least
 four miles and a half; some reckon it at nine miles.
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Nrisingha or Man-Lion Avatāra](hmvp22)
+[Next: 4. The Nrisingha or Man-Lion Avatāra](hmvp22.md)

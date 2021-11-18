@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku28)  [Next](tku30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku28)  [Next](tku30.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ the glory of His Majesty, when he shall arise to shake terribly the
 earth.'
 
 444\. "'From the countenance of the Terror <span
-id="fr_68"></span>[1](#fn_67) of the Lord.' It is to be carefully noted
+id="fr_68"></span>[1](#fn_67.md) of the Lord.' It is to be carefully noted
 that that which is exterior is called the Terror of Tetragrammaton.
 
 445\. "'And from the Glory of His Majesty.' These are the hairs beneath
@@ -36,7 +36,7 @@ another hair, with I mercy unto Abraham."'
 
 ### Footnotes
 
-<span id="fn_67"></span>[163:1](tku29.htm#fr_68) PChD. Pachad, Terror,
+<span id="fn_67"></span>[163:1](tku29.htm#fr_68.md) PChD. Pachad, Terror,
 is a title of the fifth Sephira. Geburah, Strength, to which the divine
 name of Elohim Gibor, the Elohim of Strength, is referred. It is
 likewise to be remembered that from this Sephira the Pillar of Justice
@@ -48,4 +48,4 @@ this fifth Sephira.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXII: Concerning the Twelfth Part of the Beard of
-Macroprosopus](tku30)
+Macroprosopus](tku30.md)

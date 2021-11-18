@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg01) [Next](aflg03)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg01) [Next](aflg03.md)
 
 ------------------------------------------------------------------------
 
@@ -8,37 +8,37 @@ American](../index) [Index](index) [Previous](aflg01) [Next](aflg03)
 ## C<span class="small">HAPTER</span> II TRIBAL HEROES
 
    <span class="small">Alubiri or Hubuiri; Hariwali and the Wonderful
-Tree (*[3](#pp_3)-8*); The Story of Haburi (*[9](#pp_9)-18*).
-Kororomanna: his Adventures (*[19](#pp_19)-28*). Makunaima and Pia; or,
+Tree (*[3](#pp_3)-8*); The Story of Haburi (*[9](#pp_9)-18*.md).
+Kororomanna: his Adventures (*[19](#pp_19)-28*.md). Makunaima and Pia; or,
 the Sun, the Frog, and the Firesticks—Warrau version
-(*[29](#pp_29)-34*), Carib version (*[35](#pp_35)-38*), Makusi version
-(*[39](#pp_39)-41*). Amalivaca (*[42](#pp_42)*).</span>
+(*[29](#pp_29)-34*), Carib version (*[35](#pp_35)-38*.md), Makusi version
+(*[39](#pp_39)-41*). Amalivaca (*[42](#pp_42)*.md).</span>
 
-   <span id="pp_3"></span>**3.**[\*](#pp_3) Some of the mythic Heroes
+   <span id="pp_3"></span>**3.**[\*](#pp_3.md) Some of the mythic Heroes
 have a history peculiarly their own, of which it is now proposed to give
 a few particulars.
 
    I will begin with Alubiri, or Hubuiri, for whom Hilhouse, as already
-stated ([Sect. *2*](aflg01.htm#pp_2)), found a place in the Arawak
+stated ([Sect. *2*](aflg01.htm#pp_2).md), found a place in the Arawak
 cosmogony, a view which Schomburgk indorsed, with a reference to him,
 however, as one "who does not trouble himself about men." In Brett's
 time, however, and at the present day, throughout the Pomeroon district
 the Hero seemingly appears only under the name Haburi. The Pomeroon
 Warrau now claim Haburi as their particular Hero, in just the same way
-as Brett ([BrB, 76](../lmbg/lmbg2b.htm#page_76)) did for them under the
+as Brett ([BrB, 76](../lmbg/lmbg2b.htm#page_76).md) did for them under the
 name Abore. For my own part I suspect that the term Alubiri is but
 another form of the name Oruperi, the mythical Carib snake ([Sect.
-*235*](aflg14.htm#pp_235)), which gave rise to all the hunting *binas*,
+*235*](aflg14.htm#pp_235).md), which gave rise to all the hunting *binas*,
 and that Haburi has some philological connection with Yaperi-Kuli, the
-Hero ([Sect. *45*](aflg03.htm#pp_45)) of the Siusi branch of the Arawak
+Hero ([Sect. *45*](aflg03.htm#pp_45).md) of the Siusi branch of the Arawak
 stock. It is only for the reason that an old Arawak friend identified
-Hariwali (cf. Arawanili, [Sec. *185*](aflg12.htm#pp_185)) with Haburi—an
+Hariwali (cf. Arawanili, [Sec. *185*](aflg12.htm#pp_185).md) with Haburi—an
 identity which I admittedly can neither confirm nor challenge—that I
 propose beginning with these mythic Heroes by introducing the story of—
 
  
 
-<span id="story_1"></span>[\*](#story_1)H<span class="small">ARIWALI AND
+<span id="story_1"></span>[\*](#story_1.md)H<span class="small">ARIWALI AND
 THE</span> W<span class="small">ONDERFUL</span> T<span
 class="small">REE</span> (A)
 
@@ -67,7 +67,7 @@ class="small">REE</span> (A)
 > rid of her, but of his other wife also; he just then, however,
 > directed her to return home.
 >
->    <span id="pp_4"></span>**4.**[\*](#pp_4) Next morning he bade both
+>    <span id="pp_4"></span>**4.**[\*](#pp_4.md) Next morning he bade both
 > the women accompany him, as he intended fishing in the pond, and he
 > merely wanted them to do the cooking and make the fire. When fire had
 > been made, he brought them a turtle, which they put on the hot ashes
@@ -86,7 +86,7 @@ class="small">REE</span> (A)
 > a porpoise—she was the very first porpoise that ever swam in these
 > waters.
 >
->    <span id="pp_5"></span>**5.**[\*](#pp_5) Hariwali thus punished his
+>    <span id="pp_5"></span>**5.**[\*](#pp_5.md) Hariwali thus punished his
 > wives, and now pondered over what he should do with his brother. While
 > returning home, he met the very man with bow and arrows starting out
 > to hunt, but neither spoke. That same afternoon the brother, who had
@@ -102,7 +102,7 @@ class="small">REE</span> (A)
 > him, and took all his bones out except those of his fingers; this was
 > done only out of kindness, so that he could not escape, the Yawahu
 > putting him into a hammock and paying him every care and
-> attention.<span id="page_121_fr_1"></span>[1](#page_121_note_1) The
+> attention.<span id="page_121_fr_1"></span>[1](#page_121_note_1.md) The
 > bones themselves were tied up in a bundle under the roof (as bundles
 > are kept by many other Indian tribes). The Yawahu was quite a family
 > man, with plenty of youngsters who were always practising with their
@@ -117,7 +117,7 @@ class="small">REE</span> (A)
 > with his brother they and all their family would have to leave the
 > place forever.
 >
->    <span id="pp_6"></span>**6.**[\*](#pp_6) The night previous to
+>    <span id="pp_6"></span>**6.**[\*](#pp_6.md) The night previous to
 > their departure, he "played the *shak-shak*" (*i. e.*, called up his
 > Spirit friends with the rattle), and next morning hosts of parrots
 > were passing overhead. His children called his attention to them; so
@@ -133,10 +133,10 @@ class="small">REE</span> (A)
 > id="page_122">p. 122</span> repeated the performance with the rattle;
 > by next morning a stately tree had grown from that one seed. He told
 > his mother to tie all the things which she had packed up, on the
-> branches of this tree ([Sect. *286*](aflg17.htm#pp_286)), and to await
+> branches of this tree ([Sect. *286*](aflg17.htm#pp_286).md), and to await
 > his and his brother's return.
 >
->    <span id="pp_7"></span>**7.**[\*](#pp_7) It was not long before he
+>    <span id="pp_7"></span>**7.**[\*](#pp_7.md) It was not long before he
 > reached the Yawahu's place, where, the family being away, he had no
 > difficulty in releasing the captive, untying the bones from the roof,
 > and making good his escape. Unfortunately the Spirit returned earlier
@@ -155,7 +155,7 @@ class="small">REE</span> (A)
 > retraced his steps. Having put the bones back into his brother's skin,
 > and waiting till the coast was clear, Hariwali led the way home.
 >
->    <span id="pp_8"></span>**8.**[\*](#pp_8) And how glad their mother
+>    <span id="pp_8"></span>**8.**[\*](#pp_8.md) And how glad their mother
 > was to see them! She had everything packed away in and among the
 > branches of the big tree, and she herself, her daughter, and the
 > grandchildren were all prepared for a long journey. As night fell,
@@ -182,11 +182,11 @@ class="small">REE</span> (A)
 
  
 
-<span id="story_2"></span>[\*](#story_2)T<span class="small">HE</span>
+<span id="story_2"></span>[\*](#story_2.md)T<span class="small">HE</span>
 S<span class="small">TORY OF</span> H<span class="small">ABURI</span>
 (W)
 
->    <span id="pp_9"></span>**9.**[\*](#pp_9) Long ago, there were two
+>    <span id="pp_9"></span>**9.**[\*](#pp_9.md) Long ago, there were two
 > sisters minding themselves; they had no man to look after them. One
 > day they cut down an ite tree (*Mauritia*), from which they commenced
 > to manufacture flour. It was now late, so they left their work and
@@ -205,7 +205,7 @@ S<span class="small">TORY OF</span> H<span class="small">ABURI</span>
 >
 > <span id="page_123">p. 123</span>
 >
->    <span id="pp_10"></span>**10.**[\*](#pp_10) The two women had their
+>    <span id="pp_10"></span>**10.**[\*](#pp_10.md) The two women had their
 > hunting ground near two ponds; one of these ponds belonged to Tiger,
 > but the other one was their own, in which they therefore used to fish.
 > And they told Mayara-kóto not to go to Tiger's pond. The man, however,
@@ -237,7 +237,7 @@ S<span class="small">TORY OF</span> H<span class="small">ABURI</span>
 > they quickly made off with him while the man was still snoring. With
 > them they also took a wax light and a bundle of firewood.
 >
->    <span id="pp_11"></span>**11.**[\*](#pp_11) While going along, they
+>    <span id="pp_11"></span>**11.**[\*](#pp_11.md) While going along, they
 > heard Wau-uta singing. Wau-uta was a woman in those days, indeed she
 > was a piai woman, and she was just then singing with her *shak-shak*
 > (rattle). The two women went on and on, quickly too, for they knew
@@ -269,7 +269,7 @@ S<span class="small">TORY OF</span> H<span class="small">ABURI</span>
 > in your absence." So they did as they were told and went away to the
 > field.
 >
->    <span id="pp_12"></span>**12.**[\*](#pp_12) In the meantime Wau-uta
+>    <span id="pp_12"></span>**12.**[\*](#pp_12.md) In the meantime Wau-uta
 > made the child grow all at once into a youth, and gave him the
 > *harri-harri* to blow and the arrows to shoot. As the mother and aunt
 > <span id="page_124">p. 124</span> were returning with the cassava,
@@ -288,7 +288,7 @@ S<span class="small">TORY OF</span> H<span class="small">ABURI</span>
 > Haburi to say she, Wau-uta, was his mother, and gave him full
 > directions as to how he must treat her.
 >
->    <span id="pp_13"></span>**13.**[\*](#pp_13) Haburi was a splendid
+>    <span id="pp_13"></span>**13.**[\*](#pp_13.md) Haburi was a splendid
 > shot—no bird could escape his arrow—and Wau-uta directed him to give
 > to her all the big birds that he killed, and to his mother and aunt
 > all the little ones, which he had to pollute first by fouling them.
@@ -315,7 +315,7 @@ S<span class="small">TORY OF</span> H<span class="small">ABURI</span>
 > mother know that the way he had hitherto treated her was due entirely
 > to ignorance on his part, and that he was sorry.
 >
->    <span id="pp_14"></span>**14.**[\*](#pp_14) So when Haburi got home
+>    <span id="pp_14"></span>**14.**[\*](#pp_14.md) So when Haburi got home
 > that day, he carried out the instructions given him by the water-dogs,
 > handing the dirtied little birds to Wau-uta, and making a clean breast
 > of it to his mother. She, poor thing, felt very strange that day, and
@@ -324,7 +324,7 @@ S<span class="small">TORY OF</span> H<span class="small">ABURI</span>
 > quite suddenly, she believed him, and became quite comforted. Old
 > Wau-uta, on hearing all this, worked herself into a great passion,
 > and, seizing Haburi by the neck, blew into his face ([Sect.
-> *85*](aflg05.htm#pp_85)), and told him he must be mad; so angered and
+> *85*](aflg05.htm#pp_85).md), and told him he must be mad; so angered and
 > upset was she that she could eat nothing at all. She spent all that
 > day and night in nagging him, and telling him he had left his senses.
 > Haburi went away next morning as usual, returning late in the
@@ -332,7 +332,7 @@ S<span class="small">TORY OF</span> H<span class="small">ABURI</span>
 > real mother and the dirtied little ones to Wau-uta. The latter, as
 > might have been expected, gave him no peace.
 >
->    <span id="pp_15"></span>**15.**[\*](#pp_15) Haburi, therefore, made
+>    <span id="pp_15"></span>**15.**[\*](#pp_15.md) Haburi, therefore, made
 > up his mind to get out. So telling his mother that they must all three
 > arrange to get away together, he made a little *corial* (a dugout
 > canoe) of bees'-wax, and when completed, he left it at the water-side;
@@ -351,7 +351,7 @@ S<span class="small">TORY OF</span> H<span class="small">ABURI</span>
 > to do it; indeed, we Warraus say that each duck has its own particular
 > kind of boat.
 >
->    <span id="pp_16"></span>**16.**[\*](#pp_16) But what was more
+>    <span id="pp_16"></span>**16.**[\*](#pp_16.md) But what was more
 > curious, the last boat to be manufactured was found next morning to be
 > very much bigger than it was the night before. Haburi told his mother
 > and her sister to collect all the provisions and put them aboard in
@@ -361,7 +361,7 @@ S<span class="small">TORY OF</span> H<span class="small">ABURI</span>
 > he slipped away, went back to the house, took his arrows and ax, and
 > proceeded down to the water-side. But before he left the house, he
 > told the posts not to talk, for in those days the posts of a house
-> could speak ([Sect. *169*](aflg10.htm#pp_169)), and if the owner were
+> could speak ([Sect. *169*](aflg10.htm#pp_169).md), and if the owner were
 > absent a visitor could thus find out his whereabouts. There was a
 > parrot, however, in the house, and Haburi quite forgot to warn him to
 > keep silent. So when the old woman after a time found herself alone,
@@ -369,7 +369,7 @@ S<span class="small">TORY OF</span> H<span class="small">ABURI</span>
 > whither he had gone; they remained silent. The parrot, however, could
 > not help talking, and told her.
 >
->    <span id="pp_17"></span>**17.**[\*](#pp_17) Wau-uta thereupon
+>    <span id="pp_17"></span>**17.**[\*](#pp_17.md) Wau-uta thereupon
 > rushed down to the landing, arriving there just in time to see Haburi
 > stepping into the boat to join his mother and aunt. She seized hold of
 > the craft, screaming "My son! My son! you must not leave me so. I am
@@ -388,10 +388,10 @@ S<span class="small">TORY OF</span> H<span class="small">ABURI</span>
 > hold on to the gunwale. If you listen, you can also hear her lamenting
 > for her lost lover; she still cries *Wang! Wang! Wang!*
 
-   <span id="pp_18"></span>**18.**[\*](#pp_18) The tree-frog above
+   <span id="pp_18"></span>**18.**[\*](#pp_18.md) The tree-frog above
 referred to is probably the *kono*(*bo*)-*aru*, or rain-frog, the name
 given to the old woman in the Carib version of the story ([Sect.
-*35*](aflg02.htm#pp_35)). The croaking of this creature (*Hyla venulosa*
+*35*](aflg02.htm#pp_35).md). The croaking of this creature (*Hyla venulosa*
 Daud.) is an absolutely sure sign of rain. This frog lives only in the
 trunk of the *Bodelschwingia macrophylla* Klotzsch, a tree found on the
 Pomeroon and Barama (ScR, <span class="small">II</span>, 419). Though
@@ -403,7 +403,7 @@ manufactures, all about guns and ships, and for many years used to send
 his old Warrau friends certain presents annually, but they never come
 now—an unscrupulous Government detains them in Georgetown!
 
-   <span id="pp_19"></span>**19.**[\*](#pp_19) With regard to
+   <span id="pp_19"></span>**19.**[\*](#pp_19.md) With regard to
 Koroiomanna, or Kururumanni, the same remarks concerning his tribal
 origin apply as in the case of Haburi. Hilhouse and Schomburgk (ScR,
 <span class="small">II</span>, 319) seemingly would have him an Arawak,
@@ -411,7 +411,7 @@ but Brett undoubtedly makes him a Warrau, the view which <span
 id="page_126">p. 126</span> is held by the present-day Warraus and
 Arawaks on the Pomeroon. He is said to be the creator of the male
 portion of mankind, another Spirit, Kulimina,<span
-id="page_126_fr_1"></span>[1](#page_126_note_1) being responsible for
+id="page_126_fr_1"></span>[1](#page_126_note_1.md) being responsible for
 the female. Uri-Kaddo and Emeshi are his two wives, one name signifying
 'darkness-people,' 'a worker in darkness,' and the other a large red ant
 that burrows in the earth; "together, they are typical of the creation
@@ -421,7 +421,7 @@ adventures some of which are given here.
 
  
 
-<span id="story_3"></span>[\*](#story_3)T<span class="small">HE</span>
+<span id="story_3"></span>[\*](#story_3.md)T<span class="small">HE</span>
 A<span class="small">DVENTURES OF</span> K<span
 class="small">OROROMANNA</span> (W)
 
@@ -433,7 +433,7 @@ class="small">OROROMANNA</span> (W)
 > other pathway in the forest because the Hebus occupying the trees that
 > lie alongside it are always, especially at night, striking the
 > branches and trunks, and so producing short sharp crackling noises
-> ([Sect. *104*](aflg08.htm#pp_104)). It was not pleasant for poor
+> ([Sect. *104*](aflg08.htm#pp_104).md). It was not pleasant for poor
 > Kororomanna, especially as the baboon's body was now beginning to
 > swell with all the noxious humors inside; lest the Hebus should steal
 > it from him, he was obliged to keep the carcass alongside and watch
@@ -444,7 +444,7 @@ class="small">OROROMANNA</span> (W)
 > the belly of the baboon. But what with the air inside, each time he
 > struck the animal, there came a resonant *Boom! Boom!* just like the
 > beating of a drum.<span
-> id="page_126_fr_2"></span>[2](#page_126_note_2) The Hebu leader heard
+> id="page_126_fr_2"></span>[2](#page_126_note_2.md) The Hebu leader heard
 > the curious sound, and became a bit frightened: "What can it be? When
 > before I knocked a tree, it never made a noise like that." To make
 > sure, however, he struck the tree hard again, and *Boom!* came once
@@ -455,7 +455,7 @@ class="small">OROROMANNA</span> (W)
 > laughing, considering that it was the first time he had heard such a
 > funny sound come out of any animal.
 >
->    <span id="pp_20"></span>**20.**[\*](#pp_20) Hebu then said to him,
+>    <span id="pp_20"></span>**20.**[\*](#pp_20.md) Hebu then said to him,
 > "Who are you? Show me your hand," to which Kororomanna replied, "I am
 > Warrau, and here is my hand," but instead of putting out his own, he
 > shoved forward one of the baboon's, and then held forward the animal's
@@ -465,13 +465,13 @@ class="small">OROROMANNA</span> (W)
 > again and held out the monkey's, which caused Hebu to make the same
 > remark about his face as he had done about his hands and feet.
 >
->    <span id="pp_21"></span>**21.**[\*](#pp_21) The Spirit became more
+>    <span id="pp_21"></span>**21.**[\*](#pp_21.md) The Spirit became more
 > frightened than ever, but his curiosity exceeded his fear, because he
 > next wanted to know where all that *Boom! Boom!* sound had come from.
 > And when he learnt its source of origin (breaking wind), he regretted
 > that he had not been made like ordinary mortals, he and all his family
 > having no proper posteriors, but just a red spot ([Sect.
-> *99*](aflg08.htm#pp_99)). He thereupon begged Kororomanna to make for
+> *99*](aflg08.htm#pp_99).md). He thereupon begged Kororomanna to make for
 > him a posterior which would allow of his producing a similar sound. So
 > with his bow Kororomanna split the Spirit's hind quarters, and
 > completed the task <span id="page_127">p. 127</span> by impaling him,
@@ -480,7 +480,7 @@ class="small">OROROMANNA</span> (W)
 > Kororomanna for having killed him, and threatened that the other
 > Spirits would avenge his death; he then disappeared.
 >
->    <span id="pp_22"></span>**22.**[\*](#pp_22) Our hero, becoming a
+>    <span id="pp_22"></span>**22.**[\*](#pp_22.md) Our hero, becoming a
 > bit anxious on his own account, and, recognizing by the gradually
 > increasing hullaballoo in the trees that swarms of Hebus were
 > approaching the scene of the outrage, now climbed the manicole tree
@@ -494,17 +494,17 @@ class="small">OROROMANNA</span> (W)
 > looking at the dead baboon, said, "This cannot be the person who is
 > laughing at us." They looked all around, but could see nothing, until
 > one of them stood on his head, and peeped up into the tree.<span
-> id="page_127_fr_1"></span>[1](#page_127_note_1) And there, sure
+> id="page_127_fr_1"></span>[1](#page_127_note_1.md) And there, sure
 > enough, he saw Kororomanna laughing at them. All the others then put
 > themselves in the same posture around the tree, and had a good look at
 > him. The question they next had to decide was how to catch him. This
 > they concluded could most easily be managed by hewing down the tree.
 > They accordingly started with their axes on the trunk, but since the
 > implements were but water-turtle shells, it was not long before they
-> broke.<span id="page_127_fr_2"></span>[2](#page_127_note_2) They then
+> broke.<span id="page_127_fr_2"></span>[2](#page_127_note_2.md) They then
 > sent for their knives, but as these were merely the seed-pods of the
 > buari tree, they also soon broke.<span
-> id="page_127_fr_3"></span>[3](#page_127_note_3) The Hebus then sent
+> id="page_127_fr_3"></span>[3](#page_127_note_3.md) The Hebus then sent
 > for a rope, but what they called a rope was really a snake. At any
 > rate, as the serpent made its way farther and farther up the tree, and
 > finally came within reach, Kororomanna cut its head off; the animal
@@ -514,7 +514,7 @@ class="small">OROROMANNA</span> (W)
 > that those below might be ready to receive him when dislodged, the
 > Hebu was to shout out, when throwing him down, the following signal:
 > *Tura-buna-sé mahara-ko na-kai*.<span
-> id="page_127_fr_4"></span>[4](#page_127_note_4) The biggest of the
+> id="page_127_fr_4"></span>[4](#page_127_note_4.md) The biggest of the
 > Spirits being chosen to carry the project into execution, he started
 > on his climb, but head downward of course, so as to be able to see
 > where he was going. Kororomanna, however, was on the alert, and,
@@ -532,7 +532,7 @@ class="small">OROROMANNA</span> (W)
 > but with approaching daylight were reluctantly compelled to give up
 > the chase.
 >
->    <span id="pp_23"></span>**23.**[\*](#pp_23) In the meantime,
+>    <span id="pp_23"></span>**23.**[\*](#pp_23.md) In the meantime,
 > Kororomanna had no sooner got out of their sight than he started
 > running at topmost speed, and finally found shelter in a hollow tree.
 > Here he discovered a woman (she was not old either), so he told her
@@ -547,7 +547,7 @@ class="small">OROROMANNA</span> (W)
 > know what to do. Just then dawn broke, and they heard a hummingbird.
 > "That is my uncle," said our hero. They then heard the doroquarra:
 > "That also is an uncle of mine," he added.<span
-> id="page_128_fr_1"></span>[1](#page_128_note_1) He purposely told
+> id="page_128_fr_1"></span>[1](#page_128_note_1.md) He purposely told
 > Snake all this to make him believe that, if he killed and swallowed
 > his visitor, all the other hummingbirds and doroquarras would come and
 > avenge his death. But Snake said, "I am not afraid of either of your
@@ -559,7 +559,7 @@ class="small">OROROMANNA</span> (W)
 > so he let Kororomanna go in peace, who ran out of that hollow tree
 > pretty quick.
 >
->    <span id="pp_24"></span>**24.**[\*](#pp_24) It was full daylight
+>    <span id="pp_24"></span>**24.**[\*](#pp_24.md) It was full daylight
 > now, but this made little odds, because he had still lost his way, and
 > knew not how to find the road home. After wandering on and on, he at
 > last came across a track, recognizable by the footprints in it:
@@ -588,9 +588,9 @@ class="small">OROROMANNA</span> (W)
 > toward it against her will, and yet she succeeded in resisting. But on
 > the third occasion she could not draw back; she fell in, and was burnt
 > to ashes; she "roasted herself dead."<span
-> id="page_128_fr_2"></span>[2](#page_128_note_2)
+> id="page_128_fr_2"></span>[2](#page_128_note_2.md)
 >
->    <span id="pp_25"></span>**25.**[\*](#pp_25) Kororomanna was again
+>    <span id="pp_25"></span>**25.**[\*](#pp_25.md) Kororomanna was again
 > free to travel, but which direction to follow was the puzzle; he had
 > still lost his way home. All he could do was to walk more or less
 > aimlessly on, passing creek after creek and back into the bush again,
@@ -616,7 +616,7 @@ class="small">OROROMANNA</span> (W)
 > landing on the other side, he was, in a sense, just as badly off as
 > before, not knowing how to get home.
 >
->    <span id="pp_26"></span>**26.**[\*](#pp_26) Kororomanna next came
+>    <span id="pp_26"></span>**26.**[\*](#pp_26.md) Kororomanna next came
 > across a man's skull lying on the ground, and what must he do but go
 > and jerk his arrow into its eye-ball? Now this skull, Kwa-muhu, was a
 > Hebu, who thereupon called out: "You must not do that. But now that
@@ -636,23 +636,23 @@ class="small">OROROMANNA</span> (W)
 > that he was about to be forsaken, ran after Kororomanna, and seeing
 > but the deer in front of him, mistook it for his man and killed it
 > just as it reached the water. On examining the carcass, the Hebu
-> exclaimed, when he got to its toes ([Sect. *126*](aflg08.htm#pp_126)):
+> exclaimed, when he got to its toes ([Sect. *126*](aflg08.htm#pp_126).md):
 > "Well, that is indeed very strange. You have only two fingers;" and
 > though he reckoned again and again, he could make no more—"but the man
 > I am after had five fingers, and a long nose. You must be somebody
-> else."<span id="page_129_fr_1"></span>[1](#page_129_note_1) Now
+> else."<span id="page_129_fr_1"></span>[1](#page_129_note_1.md) Now
 > Kororomanna, who was squatting just over on the opposite bank, heard
 > all this, and burst out laughing. This enraged Kwa-muhu, who left the
 > deer, and made a move as if to leap across the creek, but, having no
 > legs, he could not jump properly, and hence fell into the water and
 > was drowned. All the ants then came out of his skull.<span
-> id="page_129_fr_2"></span>[2](#page_129_note_2)
+> id="page_129_fr_2"></span>[2](#page_129_note_2.md)
 >
->    <span id="pp_27"></span>**27.**[\*](#pp_27) Poor Kororomanna was
+>    <span id="pp_27"></span>**27.**[\*](#pp_27.md) Poor Kororomanna was
 > still as badly off as before; he was unable to find his way home. But
 > he bravely kept on his way and at last came upon an old man bailing
 > water out of a pond. The latter was really a Hebu, whose name was
-> Huta-Kurakura, 'Red-back' ([Sect. *99*](aflg08.htm#pp_99)).
+> Huta-Kurakura, 'Red-back' ([Sect. *99*](aflg08.htm#pp_99).md).
 > Huta-Kurakura, being anxious to get the fish, was bailing away at the
 > water side as hard as he could go, but having no calabash had to make
 > use of his purse \[scrotum\], which was very large. And while thus
@@ -674,7 +674,7 @@ class="small">OROROMANNA</span> (W)
 > into quite a small bundle, small enough for Kororomanna to carry in
 > his hand.
 >
->    <span id="pp_28"></span>**28.**[\*](#pp_28) Kororomanna now soon
+>    <span id="pp_28"></span>**28.**[\*](#pp_28.md) Kororomanna now soon
 > managed to find the right path home, because each and every animal
 > that he met gave him news of his mother. One after the other, he met a
 > rat with a potato, an acouri with cassava root, a labba with a yam, a
@@ -688,9 +688,9 @@ class="small">OROROMANNA</span> (W)
 > parcel, and as they opened it, sure enough out came fish after fish,
 > small and large, fish of all kinds, so many in fact that the house
 > speedily became filled, and the occupants had to shift outside.
-> \[*Cf*. [Sect. *303*](aflg17.htm#pp_303).\]
+> \[*Cf*. [Sect. *303*](aflg17.htm#pp_303.md).\]
 >
->    <span id="pp_28A"></span>**28A.**[\*](#pp_28A) \[*Note*.—In a Carib
+>    <span id="pp_28A"></span>**28A.**[\*](#pp_28A.md) \[*Note*.—In a Carib
 > version of the story the hero's name is given as Kere-Kere´-miyu-au,
 > and he finds his way back home to his mother's place through the help
 > of a butterfly. When I happened to mention to the narrator that this
@@ -701,7 +701,7 @@ class="small">OROROMANNA</span> (W)
 > come and join in our feasts, and get so drunk that it can not fly
 > away?").—W. E. R.
 
-   <span id="pp_29"></span>**29.**[\*](#pp_29) Makunaima, or Makonaima,
+   <span id="pp_29"></span>**29.**[\*](#pp_29.md) Makunaima, or Makonaima,
 the alleged God (ScR, <span class="small">II</span>, 225, 515) or
 Supreme Being (IT, 365) of the Akawais, the Maker of Heaven and Earth
 (ScR, <span class="small">II</span>, 319) of the Makusis, was one of the
@@ -715,7 +715,7 @@ Heroes—from Warrau, Carib, and Makusi sources, respectively.
 
  
 
-<span id="story_4"></span>[\*](#story_4)T<span class="small">HE</span>
+<span id="story_4"></span>[\*](#story_4.md)T<span class="small">HE</span>
 S<span class="small">UN, THE</span> F<span class="small">ROG, AND
 THE</span> F<span class="small">IRESTICKS</span> (W)
 
@@ -736,7 +736,7 @@ THE</span> F<span class="small">IRESTICKS</span> (W)
 > quite clear what his purpose was, and proof was not long in coming
 > that his advances would meet with encouragement.
 >
->    <span id="pp_30"></span>**30.**[\*](#pp_30) Nahakoboni thought he
+>    <span id="pp_30"></span>**30.**[\*](#pp_30.md) Nahakoboni thought he
 > would try Yar's mettle, and see what stuff he was made of. He told Yar
 > to feed him, and made him fetch along all the barbecued meat that he
 > had brought with him on his journey, and had left at the edge of the
@@ -745,7 +745,7 @@ THE</span> F<span class="small">IRESTICKS</span> (W)
 > told Yar to give him drink; the latter emptied a big jugful down his
 > throat. His next order to Yar was to bring <span id="page_131">p.
 > 131</span> him water to bathe with, and for this purpose gave him a
-> quake.<span id="page_131_fr_1"></span>[1](#page_131_note_1) But when
+> quake.<span id="page_131_fr_1"></span>[1](#page_131_note_1.md) But when
 > the poor fellow put the quake into the water-hole, and pulled it out
 > again, the water of course all escaped; he tried many times, but it
 > continued to escape. Just then he heard a rushing sound proceeding
@@ -761,22 +761,22 @@ THE</span> F<span class="small">IRESTICKS</span> (W)
 > out. Proceeding to the particular tree indicated, and looking in and
 > among the roots he was surprised and frightened at seeing an alligator
 > there; he held on to its neck, and it changed into a bench which
-> fitted the boat.<span id="page_131_fr_2"></span>[2](#page_131_note_2)
+> fitted the boat.<span id="page_131_fr_2"></span>[2](#page_131_note_2.md)
 > In the shade of the other tree he was similarly taken aback when a big
 > snake came into view; he seized its neck, however, and it changed into
 > a fish-arrow. The old man now joined him; they got into the corial and
 > paddled down the stream. "I want some kwabaihi<span
-> id="page_131_fr_3"></span>[3](#page_131_note_3) fish," said the old
+> id="page_131_fr_3"></span>[3](#page_131_note_3.md) fish," said the old
 > man, "but you must not look into the water. Shoot up into the air."
 > His companion did as he was told, and so skilful was he with the bow
 > that the arrow pierced the fish and killed it. So big was the fish
 > that when hauled in it almost sunk the corial; they managed to get it
 > home, however.
 >
->    <span id="pp_31"></span>**31.**[\*](#pp_31) The old man was now
+>    <span id="pp_31"></span>**31.**[\*](#pp_31.md) The old man was now
 > thoroughly satisfied with Yar's worth, and gave him his plum-tree
 > daughter, Usidiu. Next morning the young couple went out hunting in
-> the bush.<span id="page_131_fr_4"></span>[4](#page_131_note_4) When
+> the bush.<span id="page_131_fr_4"></span>[4](#page_131_note_4.md) When
 > they returned late in the afternoon, father and daughter had a long
 > and earnest conversation of a private and somewhat delicate nature,
 > the outcome of which was that the old man learnt for the first time
@@ -799,7 +799,7 @@ THE</span> F<span class="small">IRESTICKS</span> (W)
 > Happy girl!—her husband was quite satisfied with her, having no
 > complaint whatever to make.
 >
->    <span id="pp_32"></span>**32.**[\*](#pp_32) Now although the old
+>    <span id="pp_32"></span>**32.**[\*](#pp_32.md) Now although the old
 > man purposely evinced no signs of ill-will, he was greatly displeased
 > with his son-in-law, not only for expressing discontent with the piece
 > of sculpture when it first came into his possession, but also for
@@ -840,7 +840,7 @@ THE</span> F<span class="small">IRESTICKS</span> (W)
 > timber he could find. Nahakoboni, pleased at last, took charge of the
 > house, and lived there.
 >
->    <span id="pp_33"></span>**33.**[\*](#pp_33) Yar, the Sun, was now
+>    <span id="pp_33"></span>**33.**[\*](#pp_33.md) Yar, the Sun, was now
 > free to look after his own domestic affairs, and being well satisfied
 > with his wife, they lived very, very happily together. One day he told
 > her he proposed taking a journey to the westward, but that as she was
@@ -851,13 +851,13 @@ THE</span> F<span class="small">IRESTICKS</span> (W)
 > Accordingly, next morning when she commenced her journey, there was no
 > difficulty in finding her way, by avoiding the feathers, but by and by
 > she arrived at a spot where the wind had blown them away, and then the
-> trouble began.<span id="page_132_fr_1"></span>[1](#page_132_note_1)
+> trouble began.<span id="page_132_fr_1"></span>[1](#page_132_note_1.md)
 > What was the poor woman to do now that she had lost her way? Her very
 > motherhood proved her salvation, because her unborn babe began
 > talking, and told her which path to follow. And as she wandered on and
 > ever on, her child told her to pluck the pretty flowers whose little
 > heads bobbed here and there over the roadway.<span
-> id="page_132_fr_2"></span>[2](#page_132_note_2) She had picked some of
+> id="page_132_fr_2"></span>[2](#page_132_note_2.md) She had picked some of
 > the red and yellow ones, when a marabunta (wasp) happened to sting her
 > below the waist; in trying to kill it she missed the insect and struck
 > herself. The unborn baby, however, misinterpreted her action, and
@@ -877,9 +877,9 @@ THE</span> F<span class="small">IRESTICKS</span> (W)
 > anxiety, forgot all about the injunction, and picking out a louse,
 > placed it, as is customary with the Indians, between her teeth. But no
 > sooner had she done so, than she fell dead.<span
-> id="page_133_fr_1"></span>[1](#page_133_note_1)
+> id="page_133_fr_1"></span>[1](#page_133_note_1.md)
 >
->    <span id="pp_34"></span>**34.**[\*](#pp_34) Old Nanyobo thereupon
+>    <span id="pp_34"></span>**34.**[\*](#pp_34.md) Old Nanyobo thereupon
 > slashed open the mother, and extracted not one child, but two; a pair
 > of beautiful boys, Makunaima and Pia. Nanyobo proved a dear, kind
 > foster-mother and minded them well. As the babies grew larger, they
@@ -892,7 +892,7 @@ THE</span> F<span class="small">IRESTICKS</span> (W)
 > fact, she would vomit fire out of her mouth, do her cooking, and lick
 > the fire up again before the lads' return; she apparently never had a
 > fire burning for them to see.<span
-> id="page_133_fr_2"></span>[2](#page_133_note_2) The repetition of this
+> id="page_133_fr_2"></span>[2](#page_133_note_2.md) The repetition of this
 > sort of thing day after day made the boys suspicious; they could not
 > understand how the old lady made her fire, and accordingly determined
 > to find out. On the next occasion that they were despatched to bring
@@ -914,13 +914,13 @@ THE</span> F<span class="small">IRESTICKS</span> (W)
 > happened to be hima-heru wood, and whenevep we rub together two sticks
 > of this same timber we can get fire.
 
-   <span id="pp_35"></span>**35.**[\*](#pp_35) The Carib version of the
+   <span id="pp_35"></span>**35.**[\*](#pp_35.md) The Carib version of the
 tradition is noteworthy mainly in that the Hero ultimately finds a place
 among the stars.
 
  
 
-<span id="story_5"></span>[\*](#story_5)T<span class="small">HE</span>
+<span id="story_5"></span>[\*](#story_5.md)T<span class="small">HE</span>
 S<span class="small">UN, THE</span> F<span class="small">ROG, AND
 THE</span> F<span class="small">IRESTICKS</span> (C)
 
@@ -932,7 +932,7 @@ THE</span> F<span class="small">IRESTICKS</span> (C)
 > husband, and plucking flowers here and there on the pathway,
 > accidentally stumbled, fell down, and hurt herself; she blamed her two
 > unborn children as the cause.<span
-> id="page_133_fr_3"></span>[3](#page_133_note_3) They became vexed at
+> id="page_133_fr_3"></span>[3](#page_133_note_3.md) They became vexed at
 > this, and when she next asked them which road she was to follow, they
 > refused to tell her, and thus it was that she took the wrong
 > direction, and finally arrived, foot-sore and weary, at a curious
@@ -948,7 +948,7 @@ THE</span> F<span class="small">IRESTICKS</span> (C)
 > round on his own account, and peeping into the cassiri jar, discovered
 > the frightened creature.
 >
->    <span id="pp_36"></span>**36.**[\*](#pp_36) On killing the poor
+>    <span id="pp_36"></span>**36.**[\*](#pp_36.md) On killing the poor
 > woman, Tiger found the two as-yet-unborn children, and showed them to
 > his mother, who said that he must now mind and cherish them. So he put
 > them in a bundle of cotton to keep them warm, and noticed next morning
@@ -971,7 +971,7 @@ THE</span> F<span class="small">IRESTICKS</span> (C)
 > when Tiger passed below, they shot and killed him. And when they
 > reached home, they slaughtered his mother also.
 >
->    <span id="pp_37"></span>**37.**[\*](#pp_37) The two lads now
+>    <span id="pp_37"></span>**37.**[\*](#pp_37.md) The two lads now
 > proceeded on their way and arrived at last at a clump of cotton-trees
 > in the center of which was a house occupied by a very old woman,
 > really a frog, and with her they took up their quarters. They went out
@@ -993,7 +993,7 @@ THE</span> F<span class="small">IRESTICKS</span> (C)
 > two lads set fire to it; thereupon her skin was scorched so dreadfully
 > as to give it the wrinkled and rough appearance which it now bears.
 >
->    <span id="pp_38"></span>**38.**[\*](#pp_38) Pia and Makunaima next
+>    <span id="pp_38"></span>**38.**[\*](#pp_38.md) Pia and Makunaima next
 > continued their travels to meet their father, and soon arrived at the
 > house of a Maipuri (tapir), where they spent three days. On the third
 > evening Maipuri returned, looking very sleek and fat. Wanting to know
@@ -1011,13 +1011,13 @@ THE</span> F<span class="small">IRESTICKS</span> (C)
 > his leg off. On a clear night you can still see them up among the
 > clouds: there is Maipuri (Hyades), there Makunaima (Pleiades), and
 > below is his severed leg (Orion's Belt.). \[*Cf*. [Sect.
-> *211*](aflg13.htm#pp_211).\]
+> *211*](aflg13.htm#pp_211.md).\]
 
 <span id="story_6"></span>
 
-   <span id="pp_39"></span>**39.**[\*](#pp_39) In the story as told by a
+   <span id="pp_39"></span>**39.**[\*](#pp_39.md) In the story as told by a
 Makusi (Da, 339), there are but a few main variations from the
-particulars given by the Warraus ([Sect. *29*](aflg02.htm#pp_29)). These
+particulars given by the Warraus ([Sect. *29*](aflg02.htm#pp_29).md). These
 variations are as follows:
 
 >    The Sun, finding his fish-ponds too frequently robbed, set Yamuru,
@@ -1026,7 +1026,7 @@ variations are as follows:
 > watchman. Alligator, the depredator, continued his old trade while
 > employed as a watchman, and at last was detected by the Sun, who
 > slashed him with a cutlass within an inch of his life, every cut
-> forming a scale ([Sect. *141*](aflg09.htm#pp_141)). Alligator begged
+> forming a scale ([Sect. *141*](aflg09.htm#pp_141).md). Alligator begged
 > piteously for his life, and to propitiate the Sun offered him his
 > beautiful daughter in marriage. But he had no daughter. He therefore
 > sculptured the form of a woman from a wild plum tree. He then exposed
@@ -1041,7 +1041,7 @@ variations are as follows:
 > Carib version, caused by Tiger, and the discovery of the two unborn
 > children, who subsequently became the two Heroes.\]
 >
->    <span id="pp_40"></span>**40.**[\*](#pp_40) Pia's first work was to
+>    <span id="pp_40"></span>**40.**[\*](#pp_40.md) Pia's first work was to
 > slay Tiger and take out of his carcass the parts ot the body of his
 > mother, who became whole and alive. \[Next comes a repetition of the
 > Warrau legend concerning the old toad guarding her fire-making
@@ -1061,7 +1061,7 @@ variations are as follows:
 > Makunaima (who had taken part with him against his brother) and flew
 > away with him to Spanish Guiana.
 >
->    <span id="pp_41"></span>**41.**[\*](#pp_41) Pia and his mother,
+>    <span id="pp_41"></span>**41.**[\*](#pp_41.md) Pia and his mother,
 > thus deserted, continued their daily employment of traveling together,
 > fishing, and seeking fruits. But at last one day the mother complained
 > of weariness and Pia conveyed her to the heights of Roraima, these to
@@ -1074,7 +1074,7 @@ variations are as follows:
 > when his time of departure from her had arrived, he told her that
 > whatever of good she desired she would obtain if she would bow her
 > head and cover her face with her hands ([Sect.
-> *256*](aflg15.htm#pp_256)) while she expressed her wish. This she does
+> *256*](aflg15.htm#pp_256).md) while she expressed her wish. This she does
 > in her need to the present hour. Whenever the mother of these two
 > heroes of our race is sorrowful, there arises a storm on the mountain,
 > and it is her tears that run down in streams from the heights of
@@ -1085,8 +1085,8 @@ variations are as follows:
    Mount Zabang, the Olympus of the Makusis, is the dwelling their great
 Spirit Makunaima (ScR, <span class="small">II</span>, 188).
 
-   <span id="pp_42"></span>**42.**[\*](#pp_42) Amalivaca ([Sect.
-*2*](aflg01.htm#pp_2)), venerated by the Caribs and more especially by
+   <span id="pp_42"></span>**42.**[\*](#pp_42.md) Amalivaca ([Sect.
+*2*](aflg01.htm#pp_2).md), venerated by the Caribs and more especially by
 the Tamanacs, is said to have arrived in a bark, during the subsidence
 of the great waters, and carved the sculptures now seen high on the
 perpendicular faces of the rocks which border the great rivers (Br,
@@ -1107,7 +1107,7 @@ Amalivaca; even the name appears to be now unknown here.
 
 ------------------------------------------------------------------------
 
-[Next](aflg03)
+[Next](aflg03.md)
 
 ------------------------------------------------------------------------
 
@@ -1115,98 +1115,98 @@ Amalivaca; even the name appears to be now unknown here.
 
 <span id="footnotes_page_121">p. 121</span>
 
-<span id="page_121_note_1"></span>[1](#page_121_fr_1) Compare Kon, the
+<span id="page_121_note_1"></span>[1](#page_121_fr_1.md) Compare Kon, the
 boneless Tribal Hero of the Yunka Indians of Peru (PE, 29, 41).—W. E. R.
 
 <span id="footnotes_page_126">p. 126</span>
 
-<span id="page_126_note_1"></span>[1](#page_126_fr_1) A name I have been
+<span id="page_126_note_1"></span>[1](#page_126_fr_1.md) A name I have been
 unable to trace.—W. E. R.
 
-<span id="page_126_note_2"></span>[2](#page_126_fr_2) One end of the
+<span id="page_126_note_2"></span>[2](#page_126_fr_2.md) One end of the
 drum is commonly closed with baboon hide.
 
 <span id="footnotes_page_127">p. 127</span>
 
-<span id="page_127_note_1"></span>[1](#page_127_fr_1) The Hebus of the
+<span id="page_127_note_1"></span>[1](#page_127_fr_1.md) The Hebus of the
 Warraus are believed to possess eye-brows so prominent that it is
 possible for them to look directly upward only when in this upside-down
-position. \[[Sect. *99*](aflg08.htm#pp_99).\]
+position. \[[Sect. *99*](aflg08.htm#pp_99.md).\]
 
-<span id="page_127_note_2"></span>[2](#page_127_fr_2) On the Amazons,
+<span id="page_127_note_2"></span>[2](#page_127_fr_2.md) On the Amazons,
 before the advent of Europeans, we have Acuña's authority for stating
 that all the tools which the Indians employed for making their canoes,
 huts, etc., were axes and hatchets made of tortoise-shell (Ac, 90).
 
-<span id="page_127_note_3"></span>[3](#page_127_fr_3) The seed-pod in
+<span id="page_127_note_3"></span>[3](#page_127_fr_3.md) The seed-pod in
 question is about 10 in. long, much flattened, hard-shelled, with a
 curved surface, so that when the halves are split asunder, each bears a
 somewhat fanciful resemblance to a cutlass.
 
-<span id="page_127_note_4"></span>[4](#page_127_fr_4) The first word is
+<span id="page_127_note_4"></span>[4](#page_127_fr_4.md) The first word is
 in Spirit language, *i. e.*, not understood by the Warraus, who tell me
 that it is nothing more than a watch-word; the second means "to kill
 with the arm;" the third indicates "to fall down."—W.E.R.
 
 <span id="footnotes_page_128">p. 128</span>
 
-<span id="page_128_note_1"></span>[1](#page_128_fr_1) This bird is the
+<span id="page_128_note_1"></span>[1](#page_128_fr_1.md) This bird is the
 *Odontophorus Guianensis*. "The notes of this bird, from which it takes
 its name, are usually the first heard In the morning, and frequently
 before dawn" (BW, 183).
 
-<span id="page_128_note_2"></span>[2](#page_128_fr_2) Present-day
+<span id="page_128_note_2"></span>[2](#page_128_fr_2.md) Present-day
 cursing, the *hó-a* of the Warraus and Arawaks, is done on somewhat
 different lines, usually by medicine-men or by very old people only.
 
 <span id="footnotes_page_129">p. 129</span>
 
-<span id="page_129_note_1"></span>[1](#page_129_fr_1) The account given
+<span id="page_129_note_1"></span>[1](#page_129_fr_1.md) The account given
 of Kororomanna's doings in this paragraph forms the complete story of an
 unnamed Indian, as related by the Caribs, who give the name Pupombo to
 the Skull Spirit.
 
-<span id="page_129_note_2"></span>[2](#page_129_fr_2) Ehrenreich refers
+<span id="page_129_note_2"></span>[2](#page_129_fr_2.md) Ehrenreich refers
 to the many examples of such individual giant heads or skulls in the
 North American legends (PE, 71).
 
 <span id="footnotes_page_131">p. 131</span>
 
-<span id="page_131_note_1"></span>[1](#page_131_fr_1) It would seem to
+<span id="page_131_note_1"></span>[1](#page_131_fr_1.md) It would seem to
 be an invariable practice with the Indians to bathe after a meal.
 
-<span id="page_131_note_2"></span>[2](#page_131_fr_2) A very common form
+<span id="page_131_note_2"></span>[2](#page_131_fr_2.md) A very common form
 of house-bench is one in the shape of this reptile.
 
-<span id="page_131_note_3"></span>[3](#page_131_fr_3) The name of a big
+<span id="page_131_note_3"></span>[3](#page_131_fr_3.md) The name of a big
 species of lukunanni (*Cicllia ocellaris*).
 
-<span id="page_131_note_4"></span>[4](#page_131_fr_4) Previous to the
+<span id="page_131_note_4"></span>[4](#page_131_fr_4.md) Previous to the
 advent of civllizing influences among the Indians, the *jus connubii*
 was usually exercised during the waking hours.
 
 <span id="footnotes_page_132">p. 132</span>
 
-<span id="page_132_note_1"></span>[1](#page_132_fr_1) In [Sect.
-*223*](aflg14.htm#pp_223) there is mentioned a connection between
+<span id="page_132_note_1"></span>[1](#page_132_fr_1.md) In [Sect.
+*223*](aflg14.htm#pp_223.md) there is mentioned a connection between
 certain feathers and loss of memory.
 
-<span id="page_132_note_2"></span>[2](#page_132_fr_2) Dance (p. 340) In
+<span id="page_132_note_2"></span>[2](#page_132_fr_2) Dance (p. 340.md) In
 connection with the Makusi, says, "she plucked pretty leaves and flowers
 and placed them in her girdle . . . the same as we do now when our
 pregnant wives travel with us."
 
 <span id="footnotes_page_133">p. 133</span>
 
-<span id="page_133_note_1"></span>[1](#page_133_fr_1) For further
+<span id="page_133_note_1"></span>[1](#page_133_fr_1.md) For further
 reference to head-lice in legendary lore, see PE, 78, 82.
 
-<span id="page_133_note_2"></span>[2](#page_133_fr_2) I find it to be
+<span id="page_133_note_2"></span>[2](#page_133_fr_2.md) I find it to be
 well known among the Indians that certain kinds of frogs, after dark,
 can be made to swallow glowing embers, which are then probably mistaken
 for various luminous insects.—W. E. R.
 
-<span id="page_133_note_3"></span>[3](#page_133_fr_3) When I suggested
+<span id="page_133_note_3"></span>[3](#page_133_fr_3.md) When I suggested
 to the narrator that the woman went eastward to meet the sun, he
 emphatically contradicted me, explaining that site went to meet him
 where he would fall to the earth again, at the distant horizon.—W. E. R.

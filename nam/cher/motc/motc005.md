@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc004) 
-[Next](motc006) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc004.md) 
+[Next](motc006.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ grief and smiled.
 
 ------------------------------------------------------------------------
 
-[Next: 6. How They Brought Back The Tobacco](motc006)
+[Next: 6. How They Brought Back The Tobacco](motc006.md)

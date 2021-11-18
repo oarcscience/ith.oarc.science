@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj13)  [Next](chj15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj13)  [Next](chj15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -50,7 +50,7 @@ In Nāgārjuna they found a man admirably suited for the carrying out of
 their designs of recommending their enlarged faith to the spiritual
 conscience of India. A Brahman by birth, he was born, somewhere about
 the beginning of the second century, <span
-id="fr_142"></span>[1](#fn_141) in Southern India. As a Brahman, he was
+id="fr_142"></span>[1](#fn_141.md) in Southern India. As a Brahman, he was
 one of the hereditary exponents and custodians of religion and faith,
 but seems at first to have had but scanty reverence for his privileges.
 He went the way of "gilded youth," threw himself into a life of
@@ -76,7 +76,7 @@ Himalayas, where he found peace and guidance.
 
 <span id="page_107">p. 107</span>
 
-A Japanese writer, <span id="fr_143"></span>[1](#fn_142) in whose
+A Japanese writer, <span id="fr_143"></span>[1](#fn_142.md) in whose
 conscientious scholarship I have learned to put much confidence, says
 that his first journey was to a shrine of Ādi-Buddha (<span
 id="img_10700"></span> ![](img/10700.jpg)), whom Japan looks upon as
@@ -90,7 +90,7 @@ adept in spiritual understanding, conducted him to the Palace of the
 Dragons (Nāgas) under the sea, and there revealed to him treasures of
 wisdom and doctrine which had been kept hidden for long generations, but
 which could now be communicated to men, inasmuch as the destined <span
-id="fr_144"></span>[2](#fn_143) expounder of the secret doctrine had at
+id="fr_144"></span>[2](#fn_143.md) expounder of the secret doctrine had at
 length appeared.
 
 From the Himalayas Nāgārjuna went again to the south of India. Here he
@@ -193,7 +193,7 @@ etc., and thus labours to work out his own salvation; in the second, he
 throws all his own efforts aside, puts his faith in One who has effected
 salvation for him, and so, like a ship with a stout sail and a
 favourable wind, attains the haven of his hopes. <span
-id="fr_145"></span>[1](#fn_144) It is for this reason that Nāgārjuna is
+id="fr_145"></span>[1](#fn_144.md) It is for this reason that Nāgārjuna is
 considered by all the Amitābha sects in Japan as the great Founder,
 after S’akyamuni, of their Faith. For, in deed, the "Faith in Another"
 is Faith in Amida. Amida is the One Original Buddha (*ichi-Butsu*,
@@ -217,7 +217,7 @@ second century. Before that time our notices of it are somewhat vague.
 Nāgārjuna may be considered, by his clearly announced doctrine of
 salvation by Faith, to have laid, as far as Indian Buddhism is
 concerned, the foundation of that Third Vehicle which may be said to be
-the One and True Mahāyāna. <span id="fr_146"></span>[1](#fn_145)
+the One and True Mahāyāna. <span id="fr_146"></span>[1](#fn_145.md)
 
 <span id="page_112">p. 112</span>
 
@@ -228,7 +228,7 @@ but its views still influence a great many writers, and the Kegon Sūtras
 have had more influence on Japanese and Chinese religious art than any
 other set of the Sūtras of the Mahāyāna.
 
-According to the Sanron <span id="fr_147"></span>[1](#fn_146) traditions
+According to the Sanron <span id="fr_147"></span>[1](#fn_146.md) traditions
 (the Sanron is another sect, now extinct as a separate organization,
 which claimed Nāgārjuna for its founder), there were three collections
 of the Buddhist Scriptures made immediately after S’akyamuni's death.
@@ -248,19 +248,19 @@ been reserved of bringing the whole collection to light
 <span id="page_113">p. 113</span>
 
 through the kindness of the great Nāga sage at the Shrine of
-Ādibuddha. <span id="fr_148"></span>[1](#fn_147)
+Ādibuddha. <span id="fr_148"></span>[1](#fn_147.md)
 
 But the world was not worthy of this high doctrine collected by Manjuśri
 and Maitreya. The Avataṃsaka Scriptures consist of six different texts.
 Two of these have never been written. They have been "kept," says
-Nanjo, <span id="fr_149"></span>[2](#fn_148) "by the power of the
+Nanjo, <span id="fr_149"></span>[2](#fn_148.md) "by the power of the
 *dharanī* or holding of the great Bodhisattvas, and not written down
 upon palm-leaves." The third and fourth were kept in the Dragon Palace
-under the sea, <span id="fr_150"></span>[3](#fn_149) and not "committed
+under the sea, <span id="fr_150"></span>[3](#fn_149.md) and not "committed
 to the men of Jambudvīpa." The fifth was taken from the Dragon Palace by
 Nāgārjuna and transmitted to the men of India. A portion of it was taken
 to China by Anshikao and his companions. <span
-id="fr_151"></span>[4](#fn_150) The sixth reached China between
+id="fr_151"></span>[4](#fn_150.md) The sixth reached China between
 
 <span id="page_114">p. 114</span>
 
@@ -290,7 +290,7 @@ Mahāyāna, which consists in the realization of the existence of the
 Bhūtatathāta, or the impersonal God; (4) "suddenness," *i.e.* the direct
 attainment of the knowledge of God by straight and direct intuition; and
 (5) "completion," or the absolute identity between God and the
-soul. <span id="fr_152"></span>[1](#fn_151) Thus step by step, according
+soul. <span id="fr_152"></span>[1](#fn_151.md) Thus step by step, according
 to the Kegon doctrines, were the believers led
 
 <span id="page_115">p. 115</span>
@@ -313,14 +313,14 @@ retains what many other sects have discarded—the practice of a species
 of Baptism, known as Kwanjo. It is administered with water, it may be
 reiterated; it is considered efficacious against disease; it may be
 administered vicariously on behalf of the dead. <span
-id="fr_153"></span>[1](#fn_152) As regards its mode of administration,
+id="fr_153"></span>[1](#fn_152.md) As regards its mode of administration,
 if the student will give himself the trouble to read what Irenæus (lib.
 I. cap. xxi.) says of the Baptism administered by the Marcosians, he
 will see a picture of the Shingon administration, with its manual
 gestures, its mystic incantations, and even its opobalsamum or liquid
 unguents.
 
-The truest disciples of Nāgārjuna <span id="fr_154"></span>[2](#fn_153)
+The truest disciples of Nāgārjuna <span id="fr_154"></span>[2](#fn_153.md)
 were to be found in
 
 <span id="page_116">p. 116</span>
@@ -335,24 +335,24 @@ he founded has ceased to have any organic existence in Japan.
 
 ### Footnotes
 
-<span id="fn_141"></span>[106:1](chj14.htm#fr_142) There is no definite
+<span id="fn_141"></span>[106:1](chj14.htm#fr_142.md) There is no definite
 date to be given for Nāgārjuna, about whom, as about As’vaghosha, there
 are many legends. But he took part in Kanishka's Council (so it is
 said), and in that case his birth must have taken place about the time I
 have assigned for it.
 
-<span id="fn_142"></span>[107:1](chj14.htm#fr_143) Tada Kanae,
+<span id="fn_142"></span>[107:1](chj14.htm#fr_143.md) Tada Kanae,
 "Shōshingekōwa," p. 225.
 
-<span id="fn_143"></span>[107:2](chj14.htm#fr_144) In the Lankāvatāra
+<span id="fn_143"></span>[107:2](chj14.htm#fr_144.md) In the Lankāvatāra
 Sutra (Jap. Ryōgakyō) Shaka is made to prophesy the appearance of
 Nāgārjuna six hundred years after his Nirvana.
 
-<span id="fn_144"></span>[110:1](chj14.htm#fr_145) See my "Shinran and
+<span id="fn_144"></span>[110:1](chj14.htm#fr_145.md) See my "Shinran and
 His Work," p. 51. I have in that book very fully discussed the doctrinal
 bearings of the Faith in Amida.
 
-<span id="fn_145"></span>[111:1](chj14.htm#fr_146) Japanese very often
+<span id="fn_145"></span>[111:1](chj14.htm#fr_146.md) Japanese very often
 divide the doctrines of S’akyamuni into three Vehicles. These are
 sometimes called the Hīnayāna, the Apparent Mahāyāna (*i.e.* of the
 Abhidharmas), and the True Mahāyāna (in which there is always salvation
@@ -384,10 +384,10 @@ The Ophites also maintained that there were three churches—spiritual,
 psychic, material—an arrangement which again suggests the three Vehicles
 of the Mahāyāna.
 
-<span id="fn_146"></span>[112:1](chj14.htm#fr_147) Nanjo, "Twelve
+<span id="fn_146"></span>[112:1](chj14.htm#fr_147.md) Nanjo, "Twelve
 Buddhist Sects," p. 51, etc.
 
-<span id="fn_147"></span>[113:1](chj14.htm#fr_148) See Introduction to
+<span id="fn_147"></span>[113:1](chj14.htm#fr_148.md) See Introduction to
 Saddh. in *S.B.E.*, vol. xxi. p. 1. The Gandhavyūha is another name for
 Kegon. The Nāgas were tribes of Indians who worshipped the serpent
 (*nāga*), and always appear as the protectors of Buddhism. The terms
@@ -405,9 +405,9 @@ that Pantænus, the predecessor of Clement in the Catechetical School at
 Alexandria, found Christian communities and the Gospel of St. Matthew
 there in A.D. 189.
 
-<span id="fn_148"></span>[113:2](chj14.htm#fr_149) Page 57.
+<span id="fn_148"></span>[113:2](chj14.htm#fr_149.md) Page 57.
 
-<span id="fn_149"></span>[113:3](chj14.htm#fr_150) In the Manichæan Acts
+<span id="fn_149"></span>[113:3](chj14.htm#fr_150.md) In the Manichæan Acts
 of Thomas, Thomas builds a celestial palace, which is fully described in
 a poem by Sarug (see *Z. d. m. G.*, xxv. 321, xxviii. 584). It is
 apparently a palace in the sea, for the words occur, "Ist es möglich
@@ -416,10 +416,10 @@ ohne Grundlagen im Meere zu bauen?" The connection of the word Takshaka
 other, suggests the possibility that the poem is dealing with some of
 the common folklore material used by Buddhists and Gnostics alike.
 
-<span id="fn_150"></span>[113:4](chj14.htm#fr_151) Nanjo's "Cat.
+<span id="fn_150"></span>[113:4](chj14.htm#fr_151.md) Nanjo's "Cat.
 Tripitika," No. 102.
 
-<span id="fn_151"></span>[114:1](chj14.htm#fr_152) These stages are Sho
+<span id="fn_151"></span>[114:1](chj14.htm#fr_152.md) These stages are Sho
 (<span id="img_11400"></span> ![](img/11400.jpg)), Shi (<span
 id="img_11401"></span> ![](img/11401.jpg)), Jū (<span
 id="img_11402"></span> ![](img/11402.jpg)), Ton (<span
@@ -427,11 +427,11 @@ id="img_11403"></span> ![](img/11403.jpg)), En (<span
 id="img_11404"></span> ![](img/11404.jpg)), they are of considerable
 importance in the study of Tendai.
 
-<span id="fn_152"></span>[115:1](chj14.htm#fr_153) I think this will be
+<span id="fn_152"></span>[115:1](chj14.htm#fr_153.md) I think this will be
 found to throw much light on St. Paul's words in 1 Cor. xv. 29. The
 Sanskrit word is Abhis’ekha.
 
-<span id="fn_153"></span>[115:2](chj14.htm#fr_154) Perhaps it would be
+<span id="fn_153"></span>[115:2](chj14.htm#fr_154.md) Perhaps it would be
 profitable to; note that, according to Shingon writers, Nāgārjuna lived
 to be three hundred years old. For one century he was a heretic (*i.e.*
 Brahmanist and Hīnayānist): for one century he taught the exoteric
@@ -442,4 +442,4 @@ for radical changes of opinion.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. The Missionaries of the Han](chj15)
+[Next: Chapter XIII. The Missionaries of the Han](chj15.md)

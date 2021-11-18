@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tfc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](tfc.txt.gz)
+[Contents](#contents)    [Start Reading](tfc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](tfc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -40,22 +40,22 @@ Tales. While it is written for a younger audience, readers of any age
 can enjoy these timeless stories, illustrated by witty fairy-tale style
 color drawings by Arthur Szyk.
 
-Also at this site: [Chaucer in Middle English](../mect/index).
+Also at this site: [Chaucer in Middle English](../mect/index.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](tfc00)  
-[Contents](tfc01)  
-[To My Young Readers](tfc02)  
-[To An Adult Reader](tfc03)  
-[Introduction](tfc04)  
-[The Prologue](tfc05)  
-[The Knight's Tale](tfc06)  
-[The Lawyer's Tale](tfc07)  
-[The Student's Tale](tfc08)  
-[The Wife of Bath](tfc09)  
-[The Squire's Tale](tfc10)  
-[The Pardoner's Tale](tfc11)  
-[The Nun's Priest's Tale](tfc12)  
-[The Cook's Tale of Gamelin](tfc13)  
-[The Canon's Yeoman's Tale](tfc14)  
+<span id="contents"></span> [Title Page](tfc00.md)  
+[Contents](tfc01.md)  
+[To My Young Readers](tfc02.md)  
+[To An Adult Reader](tfc03.md)  
+[Introduction](tfc04.md)  
+[The Prologue](tfc05.md)  
+[The Knight's Tale](tfc06.md)  
+[The Lawyer's Tale](tfc07.md)  
+[The Student's Tale](tfc08.md)  
+[The Wife of Bath](tfc09.md)  
+[The Squire's Tale](tfc10.md)  
+[The Pardoner's Tale](tfc11.md)  
+[The Nun's Priest's Tale](tfc12.md)  
+[The Cook's Tale of Gamelin](tfc13.md)  
+[The Canon's Yeoman's Tale](tfc14.md)  

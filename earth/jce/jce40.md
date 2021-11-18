@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce39)  [Next](jce41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce39)  [Next](jce41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -166,7 +166,7 @@ the family to which it belongs, it is evidently Caucasian. It is the
 white race, our own. The skull of this fossil is a regular oval, or
 rather ovoid. It exhibits no prominent cheekbones, no projecting jaws.
 It presents no appearance of that prognathism which diminishes the
-facial angle.  <span id="fr_14"></span>[15](#fn_14) Measure that angle.
+facial angle.  <span id="fr_14"></span>[15](#fn_14.md) Measure that angle.
 It is nearly ninety degrees. But I will go further in my deductions, and
 I will affirm that this specimen of the human family is of the Japhetic
 race, which has since spread from the Indies to the Atlantic. Don't
@@ -213,7 +213,7 @@ wanderer below on this desert strand?
 
 ### Footnotes
 
-<span id="fn_14"></span>[15](jce40.htm#fr_14) The facial angle is formed
+<span id="fn_14"></span>[15](jce40.htm#fr_14.md) The facial angle is formed
 by two lines, one touching the brow and the front teeth, the other from
 the orifice of the ear to the lower line of the nostrils. The greater
 this angle, the higher intelligence denoted by the formation of the
@@ -223,4 +223,4 @@ and in the lowest savages.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIX. Forest Scenery Illuminated by Eletricity](jce41)
+[Next: Chapter XXXIX. Forest Scenery Illuminated by Eletricity](jce41.md)

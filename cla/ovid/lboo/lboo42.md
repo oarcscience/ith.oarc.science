@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo41)  [Next](lboo43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo41)  [Next](lboo43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ BOOK III</h1></td>
 ------------------------------------------------------------------------
 
 [Next: Elegy I: The Tragic And The Elegiac Muse Strive For The
-Possession Of Ovid.](lboo43)
+Possession Of Ovid.](lboo43.md)

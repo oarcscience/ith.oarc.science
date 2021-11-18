@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sft17)  [Next](sft19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sft17)  [Next](sft19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003CN6KYW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003CN6KYW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *South-African Folk-Tales*, by James A. Honeÿ, \[1910\], at Intangible
 Textual Heritage
 
@@ -190,6 +190,6 @@ gets the chance he pitches them up into the highest forks of the trees.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of A Dam](sft19)
+[Next: The Story Of A Dam](sft19.md)
 
 </div>

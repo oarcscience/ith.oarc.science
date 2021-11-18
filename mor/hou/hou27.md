@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou26)  [Next](hou28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou26)  [Next](hou28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ Character—His Will.</span></span>
 
     "<span class="smallcaps">Will</span> Brigham Young fight?" inquired
 Schuyler Colfax of Elder Stenhouse, during his sojourn at Salt Lake City
-in 1869. <span id="fr_1072"></span>[1](#fn_1072) "For God's sake, Mr
+in 1869. <span id="fr_1072"></span>[1](#fn_1072.md) "For God's sake, Mr
 Colfax." answered the elder, "keep the United States off. If the
 govermnent interferes and sends troops, you will spoil the opportunity,
 and drive the thousands back into the arms of Brigham Young who are
@@ -41,23 +41,23 @@ even if need be at the cost of war. Meanwhile the famous Cullom
 
 <span id="page_657">p. 657</span>
 
-anti-polygamy bill <span id="fr_1073"></span>[2](#fn_1073) was before
+anti-polygamy bill <span id="fr_1073"></span>[2](#fn_1073.md) was before
 the representatives, and the honorable Thomas Fitch was amusing congress
 with his speeches on the prospect of another Mormon war. <span
-id="fr_1074"></span>[3](#fn_1074) Early in 1870 mass-meetings were held
+id="fr_1074"></span>[3](#fn_1074.md) Early in 1870 mass-meetings were held
 at the tabernacle, by men and women, to protest against the bill, and to
 draw up a remonstrance against its provisions. A memorial was also
 prepared and forwarded to congress, setting forth the revelation on
 polygamy and the duties of the Mormon church in that connection, wherein
 it was declared that the church would stand by its faith and polygamy
 institutions in spite of all human will and law. <span
-id="fr_1075"></span>[4](#fn_1075) During this year, also, an act was
+id="fr_1075"></span>[4](#fn_1075.md) During this year, also, an act was
 passed by the territorial legislature, granting the right of suffrage to
 women, but the measure subsequently adopted in Wyoming and elsewhere
 seemed to be in advance of the times, <span
-id="fr_1076"></span>[5](#fn_1076) or was in some way unpopular, and
+id="fr_1076"></span>[5](#fn_1076.md) or was in some way unpopular, and
 little use has ever been made of the privilege. <span
-id="fr_1077"></span>[6](#fn_1077)
+id="fr_1077"></span>[6](#fn_1077.md)
 
     Among those who realized the danger of the situation were the
 leaders of the Godbeite movement, who well knew that, in the event of
@@ -90,7 +90,7 @@ the president heartily concurred.
     J. Wilson Shaffer of Illinois, an old comrade of Rawlins, then
 secretary of war, was the man selected for the occasion, and on the
 resignation of Durkee, was appointed in his stead. <span
-id="fr_1078"></span>[7](#fn_1078) At this time Shaffer was suffering
+id="fr_1078"></span>[7](#fn_1078.md) At this time Shaffer was suffering
 from an incurable disease, and knew that he had but a few months to
 live. Nevertheless he accepted office as a trust from the president.
 "Never after me," he declared, "shall it be said that Brigham Young is
@@ -102,7 +102,7 @@ gatherings of armed persons of whatever
 <span id="page_659">p. 659</span>
 
 description, except as a posse comitatus ordered forth by himself or by
-the United States marshal. <span id="fr_1079"></span>[8](#fn_1079)
+the United States marshal. <span id="fr_1079"></span>[8](#fn_1079.md)
 
     After some correspondence with General Wells, the musters in the
 various districts were postponed until further notice, by command of the
@@ -112,7 +112,7 @@ returns duly made, in accordance with an act of congress approved in
 included about 13,000 men, most of them efficiently armed, drilled, and
 equipped, while the United States troops stationed at Camp Douglas, Camp
 Rawlins in Utah county, and elsewhere in the territory, numbered only a
-few hundred. <span id="fr_1080"></span>[9](#fn_1080)
+few hundred. <span id="fr_1080"></span>[9](#fn_1080.md)
 
     The proclamation was ill-advised, and for what purpose it was
 issued, save as a puerile expression of the
@@ -135,7 +135,7 @@ defenceless citizens through the streets, beating them with rifles and
 pricking them with bayonets, yelling, meanwhile, as they passed along
 the thoroughfares, "Come out, you God damned Mormons and Mountain
 Meadows massacreers," they returned to camp. <span
-id="fr_1081"></span>[10](#fn_1081)
+id="fr_1081"></span>[10](#fn_1081.md)
 
     The only provocation for this disturbance appears to have been the
 fact that Miller refused to grant the soldiers, at their own terms, the
@@ -158,20 +158,20 @@ left to themselves; and that if the troops had also been left alone,
 instead of being poisoned physically with bad whiskey and morally with
 bad influences, there would have been no trouble with them. Both letters
 were published in the *Deseret News*, <span
-id="fr_1082"></span>[11](#fn_1082) and of course drew forth much comment
+id="fr_1082"></span>[11](#fn_1082.md) and of course drew forth much comment
 from the saints, who were probably of opinion that, if the soldiers had
 such proclivities, it was at least the business of their commanding
 officer to restrain them.
 
     No further incident remains to be chronicled as to the career of
 Governor Shaffer, whose decease occurred in October 1870, <span
-id="fr_1083"></span>[12](#fn_1083) his successor being Vernon H.
-Vaughan, <span id="fr_1084"></span>[13](#fn_1084) a mild and
+id="fr_1083"></span>[12](#fn_1083.md) his successor being Vernon H.
+Vaughan, <span id="fr_1084"></span>[13](#fn_1084.md) a mild and
 conservative ruler, concerning whose brief administration there is
-nothing worthy of record. <span id="fr_1085"></span>[14](#fn_1085) To
+nothing worthy of record. <span id="fr_1085"></span>[14](#fn_1085.md) To
 him succeeded George L. Woods, a Missourian by birth, a pronounced
 anti-Mormon, and one who, as a ferryman in Idaho, <span
-id="fr_1086"></span>[15](#fn_1086) and judge and politician in eastern
+id="fr_1086"></span>[15](#fn_1086.md) and judge and politician in eastern
 Oregon, had accumulated and lost a considerable fortune. He was a man
 who, though by no means of the highest and purest morality himself, was,
 it seems, exceedingly jealous
@@ -182,13 +182,13 @@ for the morality of the nation. On the 10th of March, 1871, Woods took
 the oath of office, and about six weeks later arrived at Salt Lake City,
 James B. McKean of New York being appointed about this date chief
 justice, with C. M. Hawley of Illinois and O. F. Strickland of Michigan
-as associate judges. <span id="fr_1087"></span>[16](#fn_1087)
+as associate judges. <span id="fr_1087"></span>[16](#fn_1087.md)
 
     The administration of Governor Woods lasted for about four years,
 but during that period he sought no opportunity of making the
 acquaintance of Brigham Young. When invited by the first councillor to
 call, as had been the custom with his predecessors, <span
-id="fr_1088"></span>[17](#fn_1088) he replied that the lowest
+id="fr_1088"></span>[17](#fn_1088.md) he replied that the lowest
 subordinate in the United States ranked higher than any ecclesiastic on
 earth, and that he should not call until the president first called on
 him. The reader may judge the chief magistrate by his own words. "My
@@ -211,7 +211,7 @@ Immediately thereafter,
 
 by concerted action of the federal officials, an effort was made to
 punish judicially the church criminals." <span
-id="fr_1089"></span>[18](#fn_1089)
+id="fr_1089"></span>[18](#fn_1089.md)
 
     The governor was ably seconded by the chief justice. In October
 Brigham Young, George Q. Cannon, and others were arrested for lascivious
@@ -232,17 +232,17 @@ you think so by the mercy which I shall show you…The law gives me large
 discretion in passing sentence upon you. I might both fine and imprison
 you, or I might fine you only or imprison you only…It is right that you
 should be fined, among other reasons to help to defray the expense of
-enforcing the laws." <span id="fr_1090"></span>[19](#fn_1090)
+enforcing the laws." <span id="fr_1090"></span>[19](#fn_1090.md)
 
     Two or three days before sentence was passed on Hawkins, this being
 of course a test case, Daniel H. Wells and Hosea Stout were arrested on
 a charge of murder, Brigham Young, William H. Kimball, and others being
-indicted on a similar charge. <span id="fr_1091"></span>[20](#fn_1091)
+indicted on a similar charge. <span id="fr_1091"></span>[20](#fn_1091.md)
 Wells
 
 <span id="page_664">p. 664</span>
 
-was admitted to bail, <span id="fr_1092"></span>[21](#fn_1092) Stout and
+was admitted to bail, <span id="fr_1092"></span>[21](#fn_1092.md) Stout and
 Kimball were handed over to the authorities at Camp Douglas, and
 Brigham, hearing that his case was set for the 8th of January, 1872,
 immediately set out from southern Utah, where he was sojourning, and
@@ -250,20 +250,20 @@ travelling over 350 miles of mountainous country in midwinter, delivered
 himself into custody. He was placed in charge of the marshal, bail being
 refused even in the sum of $500,000, and detained a prisoner in his own
 house, until discharged on the 25th of April, by Justice White, on a
-writ of habeas corpus. <span id="fr_1093"></span>[22](#fn_1093)
+writ of habeas corpus. <span id="fr_1093"></span>[22](#fn_1093.md)
 
     In sore disgust, the people of Utah adopted yet another
 constitution, which was forwarded to congress, together with a memorial
 for admission as a state, but without result. <span
-id="fr_1094"></span>[23](#fn_1094) A bill was passed appropriating
+id="fr_1094"></span>[23](#fn_1094.md) A bill was passed appropriating
 $50,000 toward the expenses of the constitutional convention, but was
 vetoed by the governor, who gave, among other reasons, the open
 violation of the act of 1862, and the crimes committed against law and
 public decency in the name of religion. <span
-id="fr_1095"></span>[24](#fn_1095) So far, indeed, did the governor push
+id="fr_1095"></span>[24](#fn_1095.md) So far, indeed, did the governor push
 his privilege, that he insisted even on nominating the territorial
 librarian and the superintendent of common schools. <span
-id="fr_1096"></span>[25](#fn_1096)
+id="fr_1096"></span>[25](#fn_1096.md)
 
     Meanwhile the condition of affairs in the superior courts of Utah
 was simply lamentable. During a
@@ -273,10 +273,10 @@ was simply lamentable. During a
 portion of McKean's term of office there were no funds wherewith to
 defray expenses, and the so-called administration of justice was openly
 burlesqued. In 1872 the removal of the chief justice was urged by the
-legislature. <span id="fr_1097"></span>[26](#fn_1097) This was not yet
+legislature. <span id="fr_1097"></span>[26](#fn_1097.md) This was not yet
 to be; but after some further judicial blunders, <span
-id="fr_1098"></span>[27](#fn_1098) he was finally superseded in March
-1875 by David T. Lowe. <span id="fr_1099"></span>[28](#fn_1099)
+id="fr_1098"></span>[27](#fn_1098.md) he was finally superseded in March
+1875 by David T. Lowe. <span id="fr_1099"></span>[28](#fn_1099.md)
 
  
 
@@ -286,7 +286,7 @@ perhaps, to members of congress than any of his predecessors, and it was
 no easy task to fill his place. George Q. Cannon was the man selected,
 although an apostle and a practical polygamist. The election of Cannon
 was contested by George R. Maxwell, registrar of the land-offlce, <span
-id="fr_1100"></span>[29](#fn_1100) who in 1870 had received a few
+id="fr_1100"></span>[29](#fn_1100.md) who in 1870 had received a few
 hundred votes, as against 26,000 in favor of Hooper; but in that year
 and again in 1874 had no well-grounded hope of success, save his
 reliance on popular prejudice. At the first session of the forty-third
@@ -294,7 +294,7 @@ congress he prevailed on one of the members from New York to introduce a
 resolution embodying a number of charges against the apostle. The
 reading of his certificate was then demanded, in which it appeared that
 he had a majority of 20,000 votes, and thereupon he was admitted. <span
-id="fr_1101"></span>[30](#fn_1101)
+id="fr_1101"></span>[30](#fn_1101.md)
 
 <span id="page_666">p. 666</span>
 
@@ -305,7 +305,7 @@ persons could have been found better qualified than the apostle,
 notwithstanding his great ability, but Brigham had so willed it. At this
 election, if we can believe the chief magistrate, freedom of speech was
 first used in Utah, and by Governor Woods. Here as on other
-occasions <span id="fr_1102"></span>[31](#fn_1102) he intermeddled,
+occasions <span id="fr_1102"></span>[31](#fn_1102.md) he intermeddled,
 playing
 
 <span id="page_667">p. 667</span>
@@ -318,28 +318,28 @@ arrest him, but after an unseemly altercation, the latter, according to
 the governor's account, narrowly escaping being lynched by the gentiles,
 was dragged fainting by the chief magistrate into a gentile store, while
 the life of Woods was also threatened by the Mormons. The matter was
-settled without bloodshed. <span id="fr_1103"></span>[32](#fn_1103) What
+settled without bloodshed. <span id="fr_1103"></span>[32](#fn_1103.md) What
 business the chief magistrate had at the polls he does not explain,
 though he closed the proceedings by a defiance of the Mormons and their
 threats, while illustrating what he considered freedom of speech in
 phrase which contained at least considerable freedom of language.
 
     At the close of 1874 Woods retired from office, <span
-id="fr_1104"></span>[33](#fn_1104) his successor being S. B. Axtell of
+id="fr_1104"></span>[33](#fn_1104.md) his successor being S. B. Axtell of
 California, whose policy brought on him the censure of the gentile
 press, by which he was accused of complicity with the Mormon leaders in
 their political and other designs. <span
-id="fr_1105"></span>[34](#fn_1105) He was removed in June 1875, his
+id="fr_1105"></span>[34](#fn_1105.md) He was removed in June 1875, his
 successor being George B. Emery of Tennessee, who held office until
 January 1880. Emery's policy was strictly neutral,
 
 <span id="page_668">p. 668</span>
 
 and therefore he was roundly abused by the gentile press. <span
-id="fr_1106"></span>[35](#fn_1106) It is worthy of note, however, that
+id="fr_1106"></span>[35](#fn_1106.md) It is worthy of note, however, that
 as the Mormons were now for the first time left undisturbed, there was
 little which needs record in their annals as a body politic, <span
-id="fr_1107"></span>[36](#fn_1107) except that from their midst passed
+id="fr_1107"></span>[36](#fn_1107.md) except that from their midst passed
 one whose place never could be filled. At the obsequies of the great
 president who had cut the cords of slavery, and being asked to banish
 its sister institution, said "Let them alone," believing that in time it
@@ -372,13 +372,13 @@ aroused with difficulty by stimulating injections, and early on the
 following morning he sank down on his bed apparently lifeless.
 Artificial respiration was resorted to, and hot poultices were placed
 over the heart to stimulate its action. <span
-id="fr_1108"></span>[37](#fn_1108) Thus his life was preserved for a few
+id="fr_1108"></span>[37](#fn_1108.md) Thus his life was preserved for a few
 hours longer; but at five o'clock on the afternoon of the 29th of
 August, 1877, being then in his seventy-seventh year, he passed away
 quietly, surrounded by his family and intimate friends, the last rites
 of the church being administered by several of the apostles, to whom he
 responded in a clear and unfaltering voice, "Amen!" <span
-id="fr_1109"></span>[38](#fn_1109)
+id="fr_1109"></span>[38](#fn_1109.md)
 
     At eight o'clock on the morning of the 1st of September the remains
 of President Youug, escorted by members of his own family, by members of
@@ -418,7 +418,7 @@ their midst being a massive floral centre-piece. Under the entire
 gallery wreaths were festooned between the pillars with baskets pendent,
 the front of the platform, the stands, and the organ being draped in
 black. The coffin, constructed according to the late president's
-orders, <span id="fr_1110"></span>[39](#fn_1110)
+orders, <span id="fr_1110"></span>[39](#fn_1110.md)
 
 <span id="page_671">p. 671</span>
 
@@ -443,19 +443,19 @@ commencing:
 </div>
 
 to a tune composed for the obsequies of George A. Smith, whose decease
-occurred in 1875, <span id="fr_1111"></span>[40](#fn_1111) and now
+occurred in 1875, <span id="fr_1111"></span>[40](#fn_1111.md) and now
 
 <span id="page_672">p. 672</span>
 
 used for the second time. Then followed prayer by Franklin D. Richards,
 after which addresses were delivered by Daniel H. Wells, Wilford
 Woodruff, Erastus Snow, George Q. Cannon, and John Taylor. A second
-funeral hymn was sung, <span id="fr_1112"></span>[41](#fn_1112) a
+funeral hymn was sung, <span id="fr_1112"></span>[41](#fn_1112.md) a
 benediction pronounced by Orson Hyde, the congregation was dismissed,
 and the remains of Brigham Young were conveyed to their resting-place at
 his private cemetery in the suburbs of the city, where thousands
 gathered to witness the closing ceremonies. <span
-id="fr_1113"></span>[42](#fn_1113)
+id="fr_1113"></span>[42](#fn_1113.md)
 
  
 
@@ -464,7 +464,7 @@ stricken with mountain fever and seeking for the remnant of his
 followers an abiding-place, had stood enwrapped in vision on the Pisgah
 of the west, and as he gazed for the first time on the desert and dead
 sea that lay beneath, forecast the future glory of Zion. <span
-id="fr_1114"></span>[43](#fn_1114) And who shall say that he had not
+id="fr_1114"></span>[43](#fn_1114.md) And who shall say that he had not
 lived to see his vision realized? During these years, which compassed
 scarce the span of a single generation, he had built cities and temples;
 he had converted the waste lands of Deseret into gardens and
@@ -479,7 +479,7 @@ giving to all a livelihood, and to
 
 the deserving and capable a competence. All this he had accomplished,
 beginning wellnigh without a dollar, <span
-id="fr_1115"></span>[44](#fn_1115) and in a region forsaken by mankind
+id="fr_1115"></span>[44](#fn_1115.md) and in a region forsaken by mankind
 for its worthlessness, struggling at times almost hopelessly against the
 unkindliness of nature and the unkindliness of man.
 
@@ -498,7 +498,7 @@ the mouth, and hand for the entire people of the Church of Jesus Christ
 of Latter-day Saints. From the greatest details connected with the
 organization of this church down to the smallest minutiæ connected with
 the work, he has left upon it the impress of his great mind." <span
-id="fr_1116"></span>[45](#fn_1116)
+id="fr_1116"></span>[45](#fn_1116.md)
 
     Not least among the traits in the character of Brigham was the
 faculty for accumulating wealth; and this he did, not, as his enemies
@@ -506,7 +506,7 @@ have asserted, by
 
 <span id="page_674">p. 674</span>
 
-foul means, <span id="fr_1117"></span>[46](#fn_1117) but by economy and
+foul means, <span id="fr_1117"></span>[46](#fn_1117.md) but by economy and
 close attention to his business interests. Of all the business men in
 Utah he was perhaps the most capable, but in the art of making money he
 had no set system; merely the ability for turning money to account and
@@ -522,24 +522,24 @@ the president. That with all his opportunities for making money honestly
 and with safety he should put in peril his opportunities and his high
 position by stooping to such fraud as was commonly practised among
 United States officials of exalted rank, is a charge that needs no
-comment. <span id="fr_1118"></span>[47](#fn_1118) He had a great
+comment. <span id="fr_1118"></span>[47](#fn_1118.md) He had a great
 advantage in being able to command men and dictate measures, but he did
 not rob the brethren, as many have asserted. At his decease the value of
 his estate was estimated at $2,500,000, <span
-id="fr_1119"></span>[48](#fn_1119) though as trustee for the church he
+id="fr_1119"></span>[48](#fn_1119.md) though as trustee for the church he
 controlled a much larger amount.
 
 <span id="page_675">p. 675</span>
 
     Brigham was certainly a millionaire, but his fortune barely sufficed
 to provide for his family a moderate competence, for he had married
-twenty wives, <span id="fr_1120"></span>[49](#fn_1120) and unto him were
+twenty wives, <span id="fr_1120"></span>[49](#fn_1120.md) and unto him were
 born more than fifty children, of whom 16 boys and 29 girls survived
 him. In the body of his will the wives were divided into classes, and to
 each of them was given a homestead, the sum of $25, payable one month
 after his decease, and such amount payable in monthly instalments as in
 the opinion of his executors might be needed for their comfortable
-support. <span id="fr_1121"></span>[50](#fn_1121)
+support. <span id="fr_1121"></span>[50](#fn_1121.md)
 
 <span id="page_676">p. 676</span>
 
@@ -547,7 +547,7 @@ support. <span id="fr_1121"></span>[50](#fn_1121)
 
 ### Footnotes
 
-<span id="fn_1072"></span>[656:1](hou27.htm#fr_1072) Colfax also visited
+<span id="fn_1072"></span>[656:1](hou27.htm#fr_1072.md) Colfax also visited
 Utah in 1865. For reception and purpose of visit, see *Richardson's
 Beyond the Miss*., 345-6, 348-9; *Bowles’ Our New West*, 203-4;
 *Tullidge's Life of Brigham Young*, 355-8; *Stenhouse's Rocky Mountain
@@ -558,14 +558,14 @@ you all good night and good by.' see *The Mormon Question* (S. L. City,
 question by the vice-president, published in the *New York Independent*,
 and a rejoinder by Taylor.
 
-<span id="fn_1073"></span>[657:2](hou27.htm#fr_1073) For debate and
+<span id="fn_1073"></span>[657:2](hou27.htm#fr_1073.md) For debate and
 amendments when the bill passed the representatives, see *Cong. Globe*,
 1869-70, 2180-1.
 
-<span id="fn_1074"></span>[657:3](hou27.htm#fr_1074) For career of
+<span id="fn_1074"></span>[657:3](hou27.htm#fr_1074.md) For career of
 Thomas Fitch in Utah, see *Elliott & Co.'s Hist. Arizona*, 289.
 
-<span id="fn_1075"></span>[657:4](hou27.htm#fr_1075) For copy of
+<span id="fn_1075"></span>[657:4](hou27.htm#fr_1075.md) For copy of
 memorial and resolutions, see *Sen. Misc. Doc*., 41st Cong. 2d Sess.,
 no. 112, *The Utah Bill*, 33-40, wherein is a speech by delegate W. H.
 Hooper, delivered before the representatives March 23, 1870, and
@@ -575,29 +575,29 @@ Pamphlets, Political*. The memorial and resolutions were referred to a
 committee which of course reported adversely. *H. Corn. Rept*, 41st
 Cong. 2d Sess., i. no. 21.
 
-<span id="fn_1076"></span>[657:5](hou27.htm#fr_1076) *Woods’
+<span id="fn_1076"></span>[657:5](hou27.htm#fr_1076.md) *Woods’
 Recollections*, MS., 67. See, for report in favor of female suffrage,
 *Utah Jour. Legisl*., 1870, 81-2; for act granting right of suffrage,
 *Utah Acts Legisl*., 1870, p. 8; *Utah Pamphlets, Polit*., no. 14, 8;
 *Deseret News*, Feb. 16, 1870.
 
-<span id="fn_1077"></span>[657:6](hou27.htm#fr_1077) At the municipal
+<span id="fn_1077"></span>[657:6](hou27.htm#fr_1077.md) At the municipal
 election held two days after the passage of the act only a few of the
 women voted, the first one being Seraph Young, a niece of the president.
 *Tullidge's Women*, 498.
 
-<span id="fn_1078"></span>[658:7](hou27.htm#fr_1078) The interregnum
+<span id="fn_1078"></span>[658:7](hou27.htm#fr_1078.md) The interregnum
 between Durkee's resignation and the arrival of Shaffer was filled by
 secretaries Edwin Higgins and S. A. Mann, to the latter of whom the
 women of Utah tendered their thanks for signing the female-suffrage
 bill. See *Deseret News*, March 2, 1870. For complimentary resolutions
 from legislature, see *Utah Jour. Legisl*., 1870, 183.
 
-<span id="fn_1079"></span>[659:8](hou27.htm#fr_1079) For copy of
+<span id="fn_1079"></span>[659:8](hou27.htm#fr_1079.md) For copy of
 proclamation, see *Millennial Star*, xxxii. 668; *Smith's Rise,
 Progress, and Travels*, 63.
 
-<span id="fn_1080"></span>[659:9](hou27.htm#fr_1080) In 1875 the U.S.
+<span id="fn_1080"></span>[659:9](hou27.htm#fr_1080.md) In 1875 the U.S.
 government called for bids for the rebuilding of Camp Douglas, or as it
 is now termed, Fort Douglas. The contract was awarded to the Watson
 Brothers. For description of buildings, see *Surgeon-Gen. Circ*. 8,
@@ -636,12 +636,12 @@ Laws*, 1882, pp. 32, 40. In August 1884 Gov. Murray made a requisition
 for troops to protect citizens against Utes. *S. L. C. Tribune*, Aug.
 14, 1884.
 
-<span id="fn_1081"></span>[660:10](hou27.htm#fr_1081) A despatch from A.
+<span id="fn_1081"></span>[660:10](hou27.htm#fr_1081.md) A despatch from A.
 O. Smoot, mayor of Provo, giving an account of the outrage, together
 with the depositions of the injured parties, will be found in the
 *Deseret News*, Sept. 28, 1870.
 
-<span id="fn_1082"></span>[661:11](hou27.htm#fr_1082) Of Oct. 5, 1870,
+<span id="fn_1082"></span>[661:11](hou27.htm#fr_1082.md) Of Oct. 5, 1870,
 and also in the *Deseret Evening News*, the publication of which will be
 mentioned later. De Trobriand states that, as there was no organization
 of military districts in the department of the Platte (which included
@@ -650,7 +650,7 @@ department headquarters, and that as soon as he received the requisite
 authority he proceeded to Provo and held an investigation. His letter is
 extremely insulting and indecorous.
 
-<span id="fn_1083"></span>[661:12](hou27.htm#fr_1083) On the 24th of
+<span id="fn_1083"></span>[661:12](hou27.htm#fr_1083.md) On the 24th of
 this month Wm H. McKay, with whom the governor had resided, and two
 others, robbed the U.S. mail about 100 miles south of S. L. City, in
 Juab co. They were captured the next day, and McKay was sentenced to
@@ -659,19 +659,19 @@ five years’ imprisonment. This was the first mail-coach robbery in Utah.
 Newman and Orson Pratt at the tabernacle on the polygamy question during
 the autumn of this year, see *Millennial Star*, xxxii. 599-604, passim.
 
-<span id="fn_1084"></span>[661:13](hou27.htm#fr_1084) Shaffer's
+<span id="fn_1084"></span>[661:13](hou27.htm#fr_1084.md) Shaffer's
 secretary, and about a month after his decease appointed governor. Geo.
 A. Black, secretary to Woods, was also acting governor in 1871. *Paul's
 Utah Incidents*, MS.; *Harrison's Crit. Notes on Utah*, MS.
 
-<span id="fn_1085"></span>[661:14](hou27.htm#fr_1085) *Harrison's Crit.
+<span id="fn_1085"></span>[661:14](hou27.htm#fr_1085.md) *Harrison's Crit.
 Notes on Utah*, MS., 32.
 
-<span id="fn_1086"></span>[661:15](hou27.htm#fr_1086) At Lewiston, where
+<span id="fn_1086"></span>[661:15](hou27.htm#fr_1086.md) At Lewiston, where
 he and his two partners made from $250 to $300 a day. *Woods’ Recoll*.,
 MS., 3.
 
-<span id="fn_1087"></span>[662:16](hou27.htm#fr_1087) Chas C. Wilson
+<span id="fn_1087"></span>[662:16](hou27.htm#fr_1087.md) Chas C. Wilson
 succeeded Titus as chief justice. *Harrison's Crit. Notes on Utah*, MS.
 Geo. C. Bates, who in 1870 succeeded C. H. Hempstead, appointed in 1868,
 was now district attorney. For his argument in the Baker habeas corpus
@@ -679,31 +679,31 @@ case on the jurisdiction of probate courts, see *Utah Pamphlets,
 Political*, no. 12. A list of federal officials between 1851 and 1884 is
 given in *Utah Gazetteer*, 254-8.
 
-<span id="fn_1088"></span>[662:17](hou27.htm#fr_1088) With the exception
+<span id="fn_1088"></span>[662:17](hou27.htm#fr_1088.md) With the exception
 of Shaffer. *Woods’ Recoll*., MS., 45.
 
-<span id="fn_1089"></span>[663:18](hou27.htm#fr_1089) *Id*., 46-7.
+<span id="fn_1089"></span>[663:18](hou27.htm#fr_1089.md) *Id*., 46-7.
 
-<span id="fn_1090"></span>[663:19](hou27.htm#fr_1090) *Deseret News*,
+<span id="fn_1090"></span>[663:19](hou27.htm#fr_1090.md) *Deseret News*,
 Nov. 1, 1871. For adverse comments of the press on the Hawkins case, see
 *Austin Reese River Reveillé, Carson Daily Register, Sacramento
 Reporter, Omaha Alta*, in *Millennial Star*, xxxiii. 764-5. In
 *Townsend's Mormon Trials* is an impartial account of McKean's
 anti-Mormon crusade.
 
-<span id="fn_1091"></span>[663:20](hou27.htm#fr_1091) Wells and Stout
+<span id="fn_1091"></span>[663:20](hou27.htm#fr_1091.md) Wells and Stout
 were arrested for the murder of Rich. Yates, at the mouth of Echo cañon;
 Young, Kimball, Wm A. Hickman, O. P. Rockwell, <span id="page_664">p.
 664</span> G. D. Grant, and Simon Dutton, for the murder of a man named
 Buck, at Warm Springs. *Woods’ Recoll*., MS., 47; *Millennial Star*,
 xxxiii. 744, 808-9.
 
-<span id="fn_1092"></span>[664:21](hou27.htm#fr_1092) The prosecuting
+<span id="fn_1092"></span>[664:21](hou27.htm#fr_1092.md) The prosecuting
 attorney asked that the bail fixed at $500;000, but the judge said he
 would be satisfied with two sureties each of $50,000. *Deseret News*,
 Nov. 1, 1871.
 
-<span id="fn_1093"></span>[664:22](hou27.htm#fr_1093) *Millennial Star*,
+<span id="fn_1093"></span>[664:22](hou27.htm#fr_1093.md) *Millennial Star*,
 xxxvii. 788-91. In the case of Clinton et al. vs Englebrecht et al., the
 judgment rendered for $60,000 against the municipal officers of S. L.
 City it for suppressing an unlicensed liquor store was reversed by the
@@ -711,25 +711,25 @@ supreme court. *Millennial Star*, xxxiv. 296. For grounds, see *Smith's
 Rise, Progress, and Travels*, 68-9. This decision annulled indictments
 against more than 120 persons.
 
-<span id="fn_1094"></span>[664:23](hou27.htm#fr_1094) A copy of the
+<span id="fn_1094"></span>[664:23](hou27.htm#fr_1094.md) A copy of the
 memorial and constitution is contained in *Utah Pamphlets, Political*,
 no. 8. See also *Deseret News*, March 6, 1872; *House Misc. Doc*., 42d
 Cong. 2d Sess., iii. no. 165. For counter-petitions, see *Id*., iv. no.
 208; *Sen. Misc. Doc*., 42d Cong. 2d Sess., ii. no. 118.
 
-<span id="fn_1095"></span>[664:24](hou27.htm#fr_1095) *Woods’ Recoll*.,
+<span id="fn_1095"></span>[664:24](hou27.htm#fr_1095.md) *Woods’ Recoll*.,
 MS., 50; *Millennial Star*, xxxiv. 117-80; *Deseret News*, Jan. 31,
 1872; *House Misc. Doc*., 42d Cong. 2d Sess., iii. no. 155; *Utah Jour.
 Legisl*., 1872, pp. 85-7. For resolution censuring veto, and in favor of
 convention and election of delegates, see *Id*., 1872, pp. 104-5.
 
-<span id="fn_1096"></span>[664:25](hou27.htm#fr_1096) *Utah Jour.
+<span id="fn_1096"></span>[664:25](hou27.htm#fr_1096.md) *Utah Jour.
 Legisl*., 1872, p. 36.
 
-<span id="fn_1097"></span>[665:26](hou27.htm#fr_1097) *Utah Jour.
+<span id="fn_1097"></span>[665:26](hou27.htm#fr_1097.md) *Utah Jour.
 Legisl*., 1872, p. 231.
 
-<span id="fn_1098"></span>[665:27](hou27.htm#fr_1098) In his charge to
+<span id="fn_1098"></span>[665:27](hou27.htm#fr_1098.md) In his charge to
 the grand jury, October term, 1874, MeKean, after quoting Montesquieu,
 'I shall first examine the relation which laws have to the nature and
 principle of each government,' 'and if I can but once establish it, the
@@ -738,21 +738,21 @@ stigmatizes the Mormons in more vile and insulting phrase than had been
 used even by judges Brocchus and Drummond. See *Deseret News*, Oct. 14,
 1874; *Millennial Star*, xxxiii. 550.
 
-<span id="fn_1099"></span>[665:28](hou27.htm#fr_1099) *Harrison's Crit.
+<span id="fn_1099"></span>[665:28](hou27.htm#fr_1099.md) *Harrison's Crit.
 Notes on Utah*, MS., 38. See, for opinions of press on McKean's removal,
 *Millennial Star*, xxxvii. 282-5; for message of the president on
 judicial administration in *Utah, Sen. Doc*., 42d Cong. 3d Sess., no.
 44; for act in relation to judiciary, *House Ex. Doc*., 46th Cong. 3d
 Sess., xxvi. 997.
 
-<span id="fn_1100"></span>[665:29](hou27.htm#fr_1100) Maxwell entered
+<span id="fn_1100"></span>[665:29](hou27.htm#fr_1100.md) Maxwell entered
 the union army when 17 years of age, and at 21 was a brigadier-general.
 During the war he had both legs broken, his right arm fractured, lost
 three fingers of his left hand by a sabre-cut, and had his collarbone
 broken by grape-shot, besides receiving several flesh wounds. *Woods’
 Recollections*, MS., 39-49.
 
-<span id="fn_1101"></span>[665:30](hou27.htm#fr_1101) For further
+<span id="fn_1101"></span>[665:30](hou27.htm#fr_1101.md) For further
 particulars as to the Cannon-Maxwcel contest, see *House Misc.* <span
 id="page_666">p. 666</span> *Doc*., 43d Cong. 1st Sess., no. 49; *House
 Com. Rept*, 43d Cong. 1st Sess., 484; Argument of Halbert E. Paine, in
@@ -791,7 +791,7 @@ a greater offence against the spirit of democratic republican
 institutions than is the existence of the evil thus sought to be
 reached.'
 
-<span id="fn_1102"></span>[666:31](hou27.htm#fr_1102) In consequence of
+<span id="fn_1102"></span>[666:31](hou27.htm#fr_1102.md) In consequence of
 the military riot above mentioned, the police were instructed to arrest
 disorderly or drunken soldiers on slight provocation, and fine them or
 put them to work in chain-gangs. After protesting without avail, Woods
@@ -804,9 +804,9 @@ with Major Gordon and a detachment of troops, knocked out the wall with
 a battering-ram, and 'amid hurrahs for the American flag, set the
 prisoner free.' *Woods’ Recoll*., MS., 53-5.
 
-<span id="fn_1103"></span>[667:32](hou27.htm#fr_1103) *Id*., 55-9.
+<span id="fn_1103"></span>[667:32](hou27.htm#fr_1103.md) *Id*., 55-9.
 
-<span id="fn_1104"></span>[667:33](hou27.htm#fr_1104) See for the
+<span id="fn_1104"></span>[667:33](hou27.htm#fr_1104.md) See for the
 memorial presented by the gentiles, setting forth the immorality and
 despotism of the Mormons and the insecurity of life among the gentiles,
 *House Misc. Doc*., 43d Cong. 1st Sess., no. 120; for opinion of various
@@ -829,13 +829,13 @@ xxxiv. 68-70; xxxvi. 120-2; for Vorhees’ and Wheeler's bill, introduced
 April 1, 1872, 'to aid the enforcement of the laws of the territory of
 Utah,' see *Deseret News*, April 17, 1872.
 
-<span id="fn_1105"></span>[667:34](hou27.htm#fr_1105) *Harrison's Crit.
+<span id="fn_1105"></span>[667:34](hou27.htm#fr_1105.md) *Harrison's Crit.
 Notes on Utah*, MS., 32.
 
-<span id="fn_1106"></span>[668:35](hou27.htm#fr_1106) See *S. L. C.
+<span id="fn_1106"></span>[668:35](hou27.htm#fr_1106.md) See *S. L. C.
 Tribune*, April 14, June 2, 1877.
 
-<span id="fn_1107"></span>[668:36](hou27.htm#fr_1107) On the 22d of
+<span id="fn_1107"></span>[668:36](hou27.htm#fr_1107.md) On the 22d of
 April, 1876, Dom Pedro, emperor of Brazil, visited Salt Lake City on his
 way eastward; and on October 3, 1875, President Grant, this being the
 first occasion on which a president of the United States set foot in the
@@ -847,7 +847,7 @@ Legisl*., 1872; *Ventromiles' Tour*, 74-5; *Tullidge's Life of Young*,
 441. Sheridan's visit was mainly for the purpose of establishing another
 military post in Utah, Provo being the point selected.
 
-<span id="fn_1108"></span>[669:37](hou27.htm#fr_1108) On the evening of
+<span id="fn_1108"></span>[669:37](hou27.htm#fr_1108.md) On the evening of
 Tuesday a consultation was held by his physicians, S. B. Young, W. F.
 Anderson, J. M. Benedict, and F. D. Benedict, and it was resolved to
 fill up the lower portion of the bowels by injection, for the purpose of
@@ -856,7 +856,7 @@ discontinued on account of fainting symptoms. The coma was attributed to
 the pressure of the swollen bowels, which checked the circulation to the
 heart and lungs. *Deseret Ev. News*, Aug. 31, 1877.
 
-<span id="fn_1109"></span>[669:38](hou27.htm#fr_1109) Francis Dorr, who
+<span id="fn_1109"></span>[669:38](hou27.htm#fr_1109.md) Francis Dorr, who
 crossed the plains in 1850, and rendering assistance to the Mormon
 trains, was told by Brigham that he would ever be welcome to Salt Lake
 City, paid the Mormons avisit in 1877, and was kindly received by their
@@ -867,7 +867,7 @@ confirmation of this theory, which is extremely improbable, in view of
 the evidence and the statements of the counsel for the prosecution at
 the Lee trial. See pp. 566-8, this vol.
 
-<span id="fn_1110"></span>[670:39](hou27.htm#fr_1110) Nearly four years
+<span id="fn_1110"></span>[670:39](hou27.htm#fr_1110.md) Nearly four years
 before his death, Brigham gave instructions as to his funeral, and at
 the same time a number of elders gave orders as to their own interment.
 'I, Brigham Young, wish my funeral services to be conducted after the
@@ -890,7 +890,7 @@ respecting my place of burial to be observed; but if I should live to go
 back with the church to Jackson county, I wish to be buried there.'
 Address of Geo. Q. Cannon, in *Deseret News*, Aug. 31, 1877.
 
-<span id="fn_1111"></span>[671:40](hou27.htm#fr_1111) George Albert
+<span id="fn_1111"></span>[671:40](hou27.htm#fr_1111.md) George Albert
 Smith, cousin to the prophet on the father's side, his mother being
 descended from the Lymans of revolutionary fame, was born at Potsdam, N.
 Y., in 1817. In the spring of 1833 the family started for Kirtland,
@@ -918,10 +918,10 @@ Trials*, 47; *S. L. C. Contributor*, 1882, passim; *Codman's Round
 Trip*, 230-3; *Beadle's Western Wilds*, 92-3 (with cut). In 1860 the son
 of Geo. A. Smith was killed by Navajos. *Deseret News*, Dec. 5, 1860.
 
-<span id="fn_1112"></span>[672:41](hou27.htm#fr_1112) Composed for the
+<span id="fn_1112"></span>[672:41](hou27.htm#fr_1112.md) Composed for the
 occasion by Charles W. Penrose.
 
-<span id="fn_1113"></span>[672:42](hou27.htm#fr_1113) In accordance with
+<span id="fn_1113"></span>[672:42](hou27.htm#fr_1113.md) In accordance with
 his father's instructions, a stone vault had been built by John W. Young
 in the south-east corner of the cemetery. It was of cut stone, dowelled
 and bolted with steel and laid in cement. The interior was also cemented
@@ -929,13 +929,13 @@ and whitened. *Deseret News*, Aug. 29, 1877, where is a full description
 of the obsequies, afterward published in pamphlet form, and entitled
 *Death of President Brigham Young*.
 
-<span id="fn_1114"></span>[672:43](hou27.htm#fr_1114) See pp.
-[261](hou13.htm#page_261)-2, this vol.
+<span id="fn_1114"></span>[672:43](hou27.htm#fr_1114.md) See pp.
+[261](hou13.htm#page_261.md)-2, this vol.
 
-<span id="fn_1115"></span>[673:44](hou27.htm#fr_1115) He had about $50,
+<span id="fn_1115"></span>[673:44](hou27.htm#fr_1115.md) He had about $50,
 then almost the only money in Utah.
 
-<span id="fn_1116"></span>[673:45](hou27.htm#fr_1116) For sketches of
+<span id="fn_1116"></span>[673:45](hou27.htm#fr_1116.md) For sketches of
 the character, physique, and policy of Brigham Young, see, among others,
 *Hist. Brigham Young*, MS; *Utah Early Records*, MS., passim; *Richards’
 Rem*., MS 15; *Richards Narr*., MS., 83-4; *Burton's City of the
@@ -950,18 +950,18 @@ in more detail on pp. 200-6, this vol. A history of Brigham Young is
 published in the *Deseret News*, commencing with the issue of Jan. 27,
 1858, and continued in subsequent numbers.
 
-<span id="fn_1117"></span>[674:46](hou27.htm#fr_1117) Stenhouse, for
+<span id="fn_1117"></span>[674:46](hou27.htm#fr_1117.md) Stenhouse, for
 instance, relates that in 1852 he balanced his account with the church,
 amounting to $200,000, by directing his clerk to place this sum to his
 credit for services rendered, and that in 1867 he discharged his
 liabilities, amounting to $967,000, in a similar manner. *Rocky Mountain
 Saints*, 665. Such statements are pure fiction.
 
-<span id="fn_1118"></span>[674:47](hou27.htm#fr_1118) In the records of
+<span id="fn_1118"></span>[674:47](hou27.htm#fr_1118.md) In the records of
 the internal revenue office at Washington his total income for 1870 is
 stated at $25,500, in 1871 at $111,680, and in 1872 at $39,952.
 
-<span id="fn_1119"></span>[674:48](hou27.htm#fr_1119) It has been stated
+<span id="fn_1119"></span>[674:48](hou27.htm#fr_1119.md) It has been stated
 in several books and many newspaper paragraphs that Brigham had large
 deposits in the Bank of England, the amount being placed as high as
 $20,000,000. This is entirely untrue. Stenhouse, for instance, says that
@@ -982,9 +982,9 @@ emigrate. Donations were also remitted to us from Utah, and the
 company's fund was sustained by the emigration business.' Franklin D.
 Richards, the author of this manuscript, was nephew to Willard Richards,
 who, as will be remembered, was appointed secretary of the Perpetual
-Emigration Fund Company. See [p. 415](hou19.htm#page_415), this vol.
+Emigration Fund Company. See [p. 415](hou19.htm#page_415.md), this vol.
 
-<span id="fn_1120"></span>[675:49](hou27.htm#fr_1120) In 1869, at which
+<span id="fn_1120"></span>[675:49](hou27.htm#fr_1120.md) In 1869, at which
 date the Boston board of trade visited S. L. City, Brigham said that he
 had 16 living and 4 deceased wives, and 49 surviving children. This was
 the first time that Mormon or gentile knew how many his family mustered.
@@ -1002,7 +1002,7 @@ chapter on the case of Young vs Young, in which Judge McKean awarded to
 the plaintiff $500 a month as alimony, and committed defendant to jail
 for refusing to pay it. His decision was reversed by Judge Lowe.
 
-<span id="fn_1121"></span>[675:50](hou27.htm#fr_1121) For copy of will,
+<span id="fn_1121"></span>[675:50](hou27.htm#fr_1121.md) For copy of will,
 see *S. L. C. Tribune*, Aug. 19, 1883. It has been alleged that Brigham
 claimed to be a prophet. This he distinctly denied. In *Utah Notes*,
 MS., it is stated that the lame, halt, and blind flocked to him to be
@@ -1042,4 +1042,4 @@ assembly as a tribute of respect, for which see *Utah Jour. Legisl*.,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV. Church and State. 1877-1885.](hou28)
+[Next: Chapter XXV. Church and State. 1877-1885.](hou28.md)

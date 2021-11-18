@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq03)  [Next](sfq05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq03)  [Next](sfq05.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,7 +77,7 @@ knights to fight and kill this terrible dragon.
 <span id="img_00300"></span>
 
 [![](tn/00300.jpg)  
-Click to enlarge](img/00300.jpg)
+Click to enlarge](img/00300.jpg.md)
 
 Then the stranger sprang forward, and reminded the Queen of the promise
 she had given. At first she was unwilling to consent, for the Knight was
@@ -116,4 +116,4 @@ companions.
 
 ------------------------------------------------------------------------
 
-[Next: The Wood of Error](sfq05)
+[Next: The Wood of Error](sfq05.md)

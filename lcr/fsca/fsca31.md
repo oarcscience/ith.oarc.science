@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca30)  [Next](fsca32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca30)  [Next](fsca32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -114,7 +114,7 @@ mingle-mangle thereof, as I saw among the Venetians, being, as I here
 say, compounded with lime and sope, or peradventure with earth or some
 stone (which things are apt to make bubbles arise), and afterwards sell
 it for the unicorn's horn." The same writer, however, supplies an easy
-test, whereby the genuine substance may be [distinguished](errata.htm#2)
+test, whereby the genuine substance may be [distinguished](errata.htm#2.md)
 from the imposition. "For experience of the unicorn's horn to know
 whether it be right or not; put silk upon a burning coal, and upon the
 silk the aforesaid horn, and if so be that it be true, the silk will not
@@ -146,4 +146,4 @@ to adopt this animal as their sign.
 
 ------------------------------------------------------------------------
 
-[Next: The Pegasus](fsca32)
+[Next: The Pegasus](fsca32.md)

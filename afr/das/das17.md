@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das16)  [Next](das18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das16)  [Next](das18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -18,8 +18,8 @@ Intangible Textual Heritage
 
 # Wilmington Island
 
-Uncle Jack Tattnall <span id="fr_112"></span>[1](#fn_112) and Uncle
-Robert Pinckney <span id="fr_113"></span>[2](#fn_113) are river men. For
+Uncle Jack Tattnall <span id="fr_112"></span>[1](#fn_112.md) and Uncle
+Robert Pinckney <span id="fr_113"></span>[2](#fn_113.md) are river men. For
 many years they have earned a frugal living by casting for shrimp or
 crabbing or fishing in the Wilmington River. Apparently they are in
 little fear of the elements. Winter or summer, at whatever hour of the
@@ -30,7 +30,7 @@ Many of the Wilmington island Negroes depend upon the river for their
 livelihood. In leisure hours, here as in other sections, skillful
 fingers carve or weave to pass the time away. We were fortunate in being
 shown a walking stick carved some years before by an old fisherman of
-the island. <span id="fr_114"></span>[3](#fn_114) The delicately
+the island. <span id="fr_114"></span>[3](#fn_114.md) The delicately
 detailed figure of a human being formed a third of the stick, with hair,
 features, fingers, and shoes carefully executed. The narrow thin figure
 stood stiffly gowned in a garment edged with a saw-tooth design.
@@ -136,13 +136,13 @@ dat clay got too much ribbuh mud in um an he ain las long. Sometime
 <span id="page_100">p. 100</span>
 
 dey try tuh make duh image out uh wood, but seem lak duh tool ain right,
-so mos times dey's ub clay." [41g](das26.htm#xref_41g),
- [70c](das26.htm#xref_70c),  [70e](das26.htm#xref_70e)
+so mos times dey's ub clay." [41g](das26.htm#xref_41g.md),
+ [70c](das26.htm#xref_70c),  [70e](das26.htm#xref_70e.md)
 
 We questioned the old man about any other recollections he might have
 concerning African people and he added, "Doze Africans alluz call one
 anudduh 'countryman.' Dey know ef dey come frum. duh same tribe by duh
-mahk dey hab. [14](das26.htm#xref_14) Some hab a long mahk an some hab a
+mahk dey hab. [14](das26.htm#xref_14.md) Some hab a long mahk an some hab a
 roun un. Udduhs weah eahring in duh eah. Some weahs it in duh lef eah an
 doze frum anudduh tribe weahs it in duh right eah.
 
@@ -155,7 +155,7 @@ discussion of the types of funerals which had been held in those early
 days.
 
 Uncle Jack said, "Wen a pusson die, we beat duh drum tuh let ebrybody
-know bout duh det. [26](das26.htm#xref_26) Den dey come tuh duh wake an
+know bout duh det. [26](das26.htm#xref_26.md) Den dey come tuh duh wake an
 sit up wid duh body."
 
 Uncle Robert added, "Wen one uh doze Africans die, it wuz bery sad. Wen
@@ -163,10 +163,10 @@ a man's countryman die, he sit right wid um all night. Den in duh mawnin
 he go out an pray tuh duh sun. Yuh know, missus, doze Africans ain got
 no Christianity. Dey ain hab no regluh religion. Dey jis pray tuh duh
 sun an moon an sometime tuh a big stah. Attuh dey pray, dey come in an
-put deah han on duh frien an say good-bye. [30](das26.htm#xref_30),
- [31](das26.htm#xref_31) Den dey go home."
+put deah han on duh frien an say good-bye. [30](das26.htm#xref_30.md),
+ [31](das26.htm#xref_31.md) Den dey go home."
 
-"We beat duh drum agen at duh fewnul." [24](das26.htm#xref_24) This from
+"We beat duh drum agen at duh fewnul." [24](das26.htm#xref_24.md) This from
 Uncle Jack. "We call it duh dead mahch. Jis a long slow beat.
 Boom-boom-boom. Beat duh drum. Den stop. Den beat it agen."
 
@@ -176,7 +176,7 @@ in supplying the information.
 Uncle Robert spoke first. "Duh ole drums wut duh Africans make wuz make
 out ub a skin uh some kine uh animal stretch obuh a holluh lawg. Dey
 didn eben take duh haiah off duh skin. Jis put it on datta
-way." [25](das26.htm#xref_25)
+way." [25](das26.htm#xref_25.md)
 
 Here Uncle Jack spoke up, "Ain so long sence dey stop makin drums. Wen I
 wuz a young man, we use tuh make um. Dey wuz fo-cawnuhed sometimes an
@@ -191,7 +191,7 @@ a ring."
 We asked if any of them knew any spider stories. There was some
 hesitancy; then they all said, "No'm."
 
-Celia Small, <span id="fr_115"></span>[1](#fn_115) a slim, middle-aged
+Celia Small, <span id="fr_115"></span>[1](#fn_115.md) a slim, middle-aged
 Negro woman, listened intently, nodding her head. We asked Celia if she
 had heard of them.
 
@@ -202,7 +202,7 @@ We asked if the spider had a name, like Brer Rabbit.
 
 "No'm, he ain got no name. Lease, I ain nebuh heahd it. Only time I
 knows yuh call a spiduh wen yuh say, 'An Nancy got um,' an das wen he
-ketch duh fly. [53](das26.htm#xref_53) Duh spiduh is wicked. Hab tuh be
+ketch duh fly. [53](das26.htm#xref_53.md) Duh spiduh is wicked. Hab tuh be
 bery keahful bout um. He drop right down out uh duh sky on yuh."
 
 "What about the spider stories?" we persisted.
@@ -211,12 +211,12 @@ Celia looked at us warningly. She laughed softly, "Spiduh stories mus be
 bad. Caahn git duh mens tuh tell um tuh dis day. Dey jis say dey ain
 know nuttn bout um. Dey ain want tuh tell um tuh duh ladies."
 
-Gene, <span id="fr_116"></span>[2](#fn_116) Uncle Jack's stalwart son,
+Gene, <span id="fr_116"></span>[2](#fn_116.md) Uncle Jack's stalwart son,
 who had for the most part stood quietly at the fringe of the little
 group and had volunteered no information at all, now contributed, "Doze
 spiduh stories ain nuttn but duhty jokes. Dat's all dey is. Yuh call a
 duhty joke 'An Nancy story.' Ain no stories tuh tell duh
-ladies." [33](das26.htm#xref_33)
+ladies." [33](das26.htm#xref_33.md)
 
 A sudden silence followed and we asked if any of the group had heard of
 flying Africans. Uncle Jack's face brightened. "Long as I kin membuh,
@@ -227,20 +227,20 @@ eah an all fly off an gone back tuh Africa."
 
 As the old man was talking, the others nodded in agreement and mumbled
 that they too had heard of "folks wut could fly." Peter McQueen, <span
-id="fr_117"></span>[3](#fn_117) small and middle-aged, said,
+id="fr_117"></span>[3](#fn_117.md) small and middle-aged, said,
 
 <span id="page_102">p. 102</span>
 
 <span class="contnote">\[paragraph continues\]</span> "Deah's folks wut
 kin fly eben now. Folks is alluz complainin bout bein rid by
-witches. [69](das26.htm#xref_69)
+witches. [69](das26.htm#xref_69.md)
 
 There was again a murmur of agreement and we were able to catch snatches
 of conversation dealing with people in the neighborhood who had been
 ridden by witches.
 
 Celia Small told us, "Dey's mosly folks yuh know. Jis change deah shape
-at night an come in duh house an ride yuh." [68](das26.htm#xref_68)
+at night an come in duh house an ride yuh." [68](das26.htm#xref_68.md)
 
 "Now das sumpm reel," approved Uncle Robert. "I bin rid lots uh time by
 witches. Jis sit on yuh ches an ride yuh. Yuh wake up an feel lak yuh
@@ -249,36 +249,36 @@ smudduhin. Ef yuh kin git duh succulation an tro um off, it all right."
 The talk of witches suggested other apparitions and we were informed
 that a variety of spirits were said to be seen on the island. These, it
 seemed, took different sizes and shapes and frequently appeared to the
-local residents. [54](das26.htm#xref_54),  [55](das26.htm#xref_55),
- [59](das26.htm#xref_59)
+local residents. [54](das26.htm#xref_54),  [55](das26.htm#xref_55.md),
+ [59](das26.htm#xref_59.md)
 
 "Sometimes," said Celia, "doze spirits put spells on yuh, fix yuh."
 
 "Spirits ain duh only ones," added Peter McQueen. "Folks kin wuk wid
-cunjuh too. [15](das26.htm#xref_15) Ain dasso, Uncle Robert?"
+cunjuh too. [15](das26.htm#xref_15.md) Ain dasso, Uncle Robert?"
 
 "Dasso," Uncle Robert nodded sagely. "Muh own brudduh wuz cunjuhed. He
 hab a spell put on um. He hab fits all duh time--hydrophobical fits--act
 lak he crazy. Nuttn we do hep im, an attuh a few yeahs he die."
 
 "Only ting yuh kin do tuh keep frum bein cunjuhed is tuh carry a ban,"
-said Peter. "Mos folks tote a ban wid um." [8](das26.htm#xref_8),
- [12](das26.htm#xref_12),  [12a](das26.htm#xref_12a),
- [12c](das26.htm#xref_12c),  [12d](das26.htm#xref_12d)
+said Peter. "Mos folks tote a ban wid um." [8](das26.htm#xref_8.md),
+ [12](das26.htm#xref_12),  [12a](das26.htm#xref_12a.md),
+ [12c](das26.htm#xref_12c),  [12d](das26.htm#xref_12d.md)
 
 "Plenty folks kin fix yuh wid a ban dey make deysef," said another
 voice.
 
 "What are the charms made of?" we wanted to know.
 
-"Haiah," "Nails," [10](das26.htm#xref_10) "Frum duh cloze" were the
+"Haiah," "Nails," [10](das26.htm#xref_10.md) "Frum duh cloze" were the
 various responses and Celia enlarged on this information. "Ef yuh hab a
 enemy, nebuh let um git a piece uh yuh cloze. An yuh bun yuh haiah an
 yuh nail parins. Dey kin sho make powuhful han frum deze."
 
 We inquired if many persons made a profession of this, and Peter
 informed us, "Sometimes dey git um frum a root
-doctuh." [8c](das26.htm#xref_8c), ,  [48](das26.htm#xref_48)
+doctuh." [8c](das26.htm#xref_8c), ,  [48](das26.htm#xref_48.md)
 
 "Duh root doctuh kin hep yuh too," added Uncle Robert.
 
@@ -286,12 +286,12 @@ doctuh." [8c](das26.htm#xref_8c), ,  [48](das26.htm#xref_48)
 
 <span class="contnote">\[paragraph continues\]</span> "Dey is powful
 smaht. I use tuh heah tell ub a root man Dame Smaht
-McCall. [6](das26.htm#xref_6),  [48](das26.htm#xref_48) Ef yuh git in
+McCall. [6](das26.htm#xref_6),  [48](das26.htm#xref_48.md) Ef yuh git in
 any trouble, yuh jis go see um an he git yuh out ub it. Deah wuz a man
 wut got rested. He wuz plenty skeah bout wut would happen tuh um. He go
 see Smaht McCall an Smaht say not tuh worry cuz be would hep um. Duh day
 uh duh trial come an wen dey try duh case, a buzzud fly in duh cote
-house winduh. [68b](das26.htm#xref_68b) He fly roun. Den he light on duh
+house winduh. [68b](das26.htm#xref_68b.md) He fly roun. Den he light on duh
 jedge desk. Well, sub, wid dat buzzud deah duh jedge jis couldn do
 nuttn. He jis had tuh pick up an go. Duh case wuz dismissed."
 
@@ -302,7 +302,7 @@ Jack.
 go tuh see um wen dey git sick stead ub goin tuh Smaht McCall. Smaht, he
 git mad. He say he fix dis Doctuh Rogers. He put a spell on duh hawse.
 Wen Doctuh Rogers go out nex time an git in he carriage, duh hawse run
-right intuh a tree an Doctuh Rogers git kill." [15](das26.htm#xref_15)
+right intuh a tree an Doctuh Rogers git kill." [15](das26.htm#xref_15.md)
 
 As an afterthought he finished with, "Sometime deze root doctuhs is
 smahtuhn duh regluh doctuhs. Long time ago a doctuh tell me I hab tuh
@@ -321,7 +321,7 @@ of the people had ever heard of eating palmetto cabbage.
 meat," Uncle Robert told us.
 
 "Yuh kin make good palm wine outuh duh berries," volunteered Peter
-McQueen. [45](das26.htm#xref_45)
+McQueen. [45](das26.htm#xref_45.md)
 
 Various members of the party asked Peter McQueen to tell one of the
 numerous stories about Brer Rabbit and Brer Wolf. Peter pondered for a
@@ -329,7 +329,7 @@ minute; then he started:
 
 "Bruh Rabbit and Bruh Wolf wuz alluz tryin tuh git duh bes uh one
 anudduh. Now Bruh Wolf he own a hoe an it wuk fuh crop all by
-itsef. [39](das26.htm#xref_39) Bruh Wolf jis say, 'Swish,' tuh it. Den
+itsef. [39](das26.htm#xref_39.md) Bruh Wolf jis say, 'Swish,' tuh it. Den
 he sit down in duh fiel an duh hoe do all duh wuk.
 
 <span id="page_104">p. 104</span>
@@ -364,28 +364,28 @@ Uncle Robert nodded in agreement. "We's at home in duh ribbuh," he said.
 
 ### Footnotes
 
-<span id="fn_112"></span>[97:1](das17.htm#fr_112) Jack Tattnall,
+<span id="fn_112"></span>[97:1](das17.htm#fr_112.md) Jack Tattnall,
 Wilmington Island.
 
-<span id="fn_113"></span>[97:2](das17.htm#fr_113) Robert Pinckney,
+<span id="fn_113"></span>[97:2](das17.htm#fr_113.md) Robert Pinckney,
 Thunderbolt.
 
-<span id="fn_114"></span>[97:3](das17.htm#fr_114) Property of Edward A.
+<span id="fn_114"></span>[97:3](das17.htm#fr_114.md) Property of Edward A.
 Sieg, 128 West Jones Street, Savannah.
 
-<span id="fn_115"></span>[101:1](das17.htm#fr_115) Celia Small,
+<span id="fn_115"></span>[101:1](das17.htm#fr_115.md) Celia Small,
 Wilmington Island.
 
-<span id="fn_116"></span>[101:2](das17.htm#fr_116) Gene Tattnall,
+<span id="fn_116"></span>[101:2](das17.htm#fr_116.md) Gene Tattnall,
 Wilmington Island.
 
-<span id="fn_117"></span>[101:3](das17.htm#fr_117) Peter McQueen,
+<span id="fn_117"></span>[101:3](das17.htm#fr_117.md) Peter McQueen,
 Wilmington Island.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Sunbury](das18)
+[Next: Sunbury](das18.md)
 
 </div>

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](nop10)  [Next](nop12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](nop10)  [Next](nop12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Numbers, Their Occult Power and Mystic Virtues*, by W. Wynn Westcott,
 \[1911\], at Intangible Textual Heritage
 
@@ -434,6 +434,6 @@ Queen and Princess by some mystics.
 
 ------------------------------------------------------------------------
 
-[Next: The Pentad. 5](nop12)
+[Next: The Pentad. 5](nop12.md)
 
 </div>

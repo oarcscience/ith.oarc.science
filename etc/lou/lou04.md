@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Legendary Creatures](../../lcr/index)  [Index](index) 
-[Previous](lou03)  [Next](lou05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Legendary Creatures](../../lcr/index)  [Index](index.md) 
+[Previous](lou03)  [Next](lou05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4WSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4WSI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Lore of the Unicorn*, by Odell Shepard, \[1930\], at Intangible Textual
 Heritage
 
@@ -1084,4 +1084,4 @@ think somewhat better of the earth from which it grows.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Shaping Fantasies](lou05)
+[Next: Chapter III. Shaping Fantasies](lou05.md)

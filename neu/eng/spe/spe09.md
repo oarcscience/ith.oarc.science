@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe08)  [Next](spe10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe08)  [Next](spe10.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,17 +24,17 @@ excellency of its slingers. In the time of the judges there were seven
 hundred Benjamites who all of them used their left hands, and in the
 figurative language of the Scripture it is said, they "could sling
 stones at an hair-breadth and not miss," <span
-id="fr_287"></span>[1](#fn_287) that is, with exceedingly great
+id="fr_287"></span>[1](#fn_287.md) that is, with exceedingly great
 precision. Again we are told, that when David fled to Ziklag, he was
 joined by a party of valiant men of the tribe of Benjamin, who could use
 both the right and the left in slinging of stones and shooting arrows
-out of a bow. <span id="fr_288"></span>[2](#fn_288) David himself was
+out of a bow. <span id="fr_288"></span>[2](#fn_288.md) David himself was
 also an excellent marksman, as the destruction of Goliath by the means
 of his sling sufficiently testifies. It was, perhaps, an instrument much
 used by the shepherds in ancient times, to protect their flocks from the
 attacks of ferocious animals: if so, we shall not wonder that David, who
 kept his father's sheep, was so expert in the management of this
-weapon. <span id="fr_289"></span>[3](#fn_289)
+weapon. <span id="fr_289"></span>[3](#fn_289.md)
 
 \* SLINGING BY THE ANGLO-SAXONS.--The later Assyrian sculptures
 frequently show soldiers armed with the sling, and the Persians, as we
@@ -47,7 +47,7 @@ good reasons for knowing that the archaic tribes of the British Isles
 were well acquainted with the use of the sling long before the arrival
 of the Romans. Stones for this purpose have been found in early barrows
 and entrenchments, both in England and Ireland. <span
-id="fr_290"></span>[4](#fn_290) The sling and its deadly effects are
+id="fr_290"></span>[4](#fn_290.md) The sling and its deadly effects are
 frequently alluded to in the Irish annals.
 
 Our Anglo-Saxon ancestors were skilful in the management of the sling;
@@ -58,7 +58,7 @@ seen on plate five, from
 <span id="page_60">p. 60</span>
 
 a manuscript of that age in the Cotton Library. <span
-id="fr_291"></span>[1](#fn_291) It is there represented with one of the
+id="fr_291"></span>[1](#fn_291.md) It is there represented with one of the
 ends unloosened from the hand and the stone discharged. In the original
 the figure is throwing the stone at a bird upon the wing, which is
 represented at some distance from him.
@@ -68,7 +68,7 @@ hand, the figure being placed in the action of taking his aim, and a
 bird is generally the object of his exertion, as in another drawing on
 the same plate from a parchment roll in the Royal Library, containing a
 genealogical account of the kings of England to the time of Henry
-III. <span id="fr_292"></span>[2](#fn_292)
+III. <span id="fr_292"></span>[2](#fn_292.md)
 
 Sometimes the sling is attached to a staff or truncheon, about three or
 four feet in length, wielded with both hands, and charged with a stone
@@ -77,11 +77,11 @@ of no small magnitude. These staff-slings, known by the Romans as
 and on board of ships in engagements by sea. The representation of two
 such slings on plate five is taken from a drawing supposed to have been
 made by Matthew Paris, in a MS. at Bennet’ College, Cambridge. <span
-id="fr_293"></span>[3](#fn_293)
+id="fr_293"></span>[3](#fn_293.md)
 
 SLINGING BY THE ANGLO-NORMANS.--We have sufficient testimony to prove
 that men armed with slings formed a part of the Anglo-Norman
-soldiery, <span id="fr_294"></span>[4](#fn_294) and the word
+soldiery, <span id="fr_294"></span>[4](#fn_294.md) and the word
 *balistarii*, used by our early historians, may, I doubt not, be more
 properly rendered slingers than cross-bowmen; though indeed, upon the
 introduction of the cross-bow, these men might take the place of the
@@ -96,7 +96,7 @@ purposes, and doubtless often for mere pastime. The sling, however, was
 not entirely superseded by the bow at the commencement of the fifteenth
 century, as the following verses plainly indicate: they occur in a
 manuscript poem in the Cotton Library, <span
-id="fr_295"></span>[5](#fn_295) entitled, "Knyghthode and Batayle,"
+id="fr_295"></span>[5](#fn_295.md) entitled, "Knyghthode and Batayle,"
 written about that time, which professedly treats upon the duties and
 exercises necessary to constitute a good soldier.
 
@@ -161,7 +161,7 @@ great strength and muscular exertion, it was a very proper exercise for
 military men. The Greeks, according to Homer, at the time of the siege
 of Troy, amused themselves with casting of the discus, which appears to
 have been a round flat plate of metal of considerable magnitude and very
-heavy. <span id="fr_296"></span>[1](#fn_296) "The discus of the
+heavy. <span id="fr_296"></span>[1](#fn_296.md) "The discus of the
 ancients," says Dr Johnson, in his dictionary, "is sometimes called in
 English quoit, not improperly. The game of quoits is a game of skill;
 the discus was only a trial of strength, as among us to throw the
@@ -171,14 +171,14 @@ hammer."
 
 THROWING BY THE LONDONERS.--In the twelfth century we are assured, that
 among the amusements practised by the young Londoners on holidays, was
-casting of stones, <span id="fr_297"></span>[1](#fn_297) darts, and
+casting of stones, <span id="fr_297"></span>[1](#fn_297.md) darts, and
 other missive weapons. Bars of wood and iron were afterwards used for
 the same purpose, and the attention of the populace was so much engaged
 by this kind of exercise, that they neglected in great measure the
 practice of archery, which occasioned an edict to be passed in the
 thirty-ninth year of Edward III. prohibiting the pastimes of throwing of
 stones, wood, and iron, and recommending the use of the long-bow upon
-all convenient opportunities. <span id="fr_298"></span>[2](#fn_298)
+all convenient opportunities. <span id="fr_298"></span>[2](#fn_298.md)
 
 CASTING OF THE BAR AND HAMMER.--Casting of the bar is frequently
 mentioned by the romance writers as one part of a hero's education, and
@@ -192,7 +192,7 @@ correct, an axletree.
 
 An early instance of throwing the stone occurs in a manuscript of the
 thirteenth century; it is reproduced at the top of plate
-sixty-two. <span id="fr_299"></span>[3](#fn_299)
+sixty-two. <span id="fr_299"></span>[3](#fn_299.md)
 
 \* Throughout the reign of Henry VIII., encouraged by royal example,
 gentlemen were eager to take part in pedestrian as well as equestrian
@@ -220,7 +220,7 @@ military exercise, was not prohibited by the act above mentioned. In
 1529 Erasmus, writing to Cochloeus, said that the king outstripped every
 one in throwing the dart. Chafrins, ambassador of Charles V., wrote in
 1532 that Anne Boleyn had presented Henry with certain darts of Biscayan
-fashion richly ornamented. <span id="fr_300"></span>[4](#fn_300) It was
+fashion richly ornamented. <span id="fr_300"></span>[4](#fn_300.md) It was
 sometimes practised as a mere trial of strength, when the attempt was to
 throw beyond a certain boundary, or to exceed a competitor in
 
@@ -231,7 +231,7 @@ other determined mark. The pastime is frequently mentioned by the
 writers of the middle ages. Charles VI. of France and the lords of his
 court, after a grand entertainment, were amused with "Wrastling, and
 casting of the bar, and the dart, by Frenchmen and the Gascoyns." <span
-id="fr_301"></span>[1](#fn_301)
+id="fr_301"></span>[1](#fn_301.md)
 
 QUOITS.--The game of quoits, or coits, as an amusement, is superior to
 any of the foregoing pastimes; the exertion required is more moderate,
@@ -262,7 +262,7 @@ twelve feet beyond the mark. Others picked her up saying she was killed,
 and he at once ran to the church of Salisbury for refuge, and there
 prayed to God, the Blessed Virgin and Bishop Osmund, at the bishop's
 tomb for the child's life. Cristina recovered, and made an offering of
-the quoit at the tomb. <span id="fr_302"></span>[2](#fn_302)
+the quoit at the tomb. <span id="fr_302"></span>[2](#fn_302.md)
 
 \* Quoits was one of those games prohibited in the reigns of Edward III.
 and Richard II. in favour of archery. Ascham, in his *Toxophilus*
@@ -302,7 +302,7 @@ etc. written in the time of queen Elizabeth, advises young men, by way
 of amusement, to "labour with poises of lead or other metal"; this
 notable pastime, I apprehend, bore some resemblance to the Skiomachia
 (Σκιομαχια) or fighting with a man's own shadow, mentioned in one of the
-Spectators: <span id="fr_303"></span>[1](#fn_303) "It consisted," says
+Spectators: <span id="fr_303"></span>[1](#fn_303.md) "It consisted," says
 the author, "in brandishing of two sticks, grasped in each hand and
 loaden with plugs of lead at either end;--this pastime opens the chest,
 exercises the limbs, and gives a man all the pleasure of boxing without
@@ -317,13 +317,13 @@ gymnastics.
 name by analogy, as was pointed out in *Notes and Queries* in 1861,
 "from a machine used for exercise, consisting of a rough, heavy, wooden
 flywheel with a rope passing through and round a spindle . . . and set
-in motion like a church bell." <span id="fr_304"></span>[2](#fn_304)
+in motion like a church bell." <span id="fr_304"></span>[2](#fn_304.md)
 This statement, however, does not sufficiently explain the transference
 of such a name to the short bar and rounded lead or iron ends of a hand
 dumb-bell. This difficulty was explained by the late Chancellor Ferguson
 in a paper read before the Archæological Institute in 1895, wherein a
 dumb-bell apparatus, now at Lord Sackville's seat at Knowle, was
-described and illustrated. <span id="fr_305"></span>[3](#fn_305) The
+described and illustrated. <span id="fr_305"></span>[3](#fn_305.md) The
 roller round which the rope winds and unwinds has four iron arms, each
 of which has a leaden poise or ball at the end, just like the end of an
 ordinary hand dumb-bell. This Knowle example is fixed in an attic and
@@ -338,7 +338,7 @@ contrivances for exercise cannot be older than the opening of
 the seventeenth century when the practice of change-ringing in England
 first began. Change-ringing became fashionable among gentlemen in the
 reign of Charles II., and the healthiness of the exercise was much
-vaunted. <span id="fr_306"></span>[1](#fn_306)
+vaunted. <span id="fr_306"></span>[1](#fn_306.md)
 
 FOOT-RACING.--There is no kind of exercise that has more uniformly met
 the approbation of authors in general than running. In the middle ages,
@@ -402,7 +402,7 @@ boy, an ould recreation among y<sup>e</sup> Greeks, and this in
 foote-races. You shall have in a winter's day, y<sup>e</sup> earth
 crusted over w<sup>th</sup> ice, two Antagonists starke naked runn a
 foote-race for 2 or 3 miles, w<sup>th</sup> many hundred spectators, and
-y<sup>e</sup> betts very smale." <span id="fr_307"></span>[1](#fn_307)
+y<sup>e</sup> betts very smale." <span id="fr_307"></span>[1](#fn_307.md)
 
 \* Any attempt to deal with foot-racing in the eighteenth century would
 require a whole treatise, and would for the most part be a record of
@@ -428,7 +428,7 @@ platform erected in St Giles' Fields. Another extraordinary match was
 one between a man on stilts against a man on foot, the former receiving
 twenty yards start in a hundred and twenty yards. What is more
 astounding is that the man upon the stilts won the match." <span
-id="fr_308"></span>[2](#fn_308)
+id="fr_308"></span>[2](#fn_308.md)
 
 Foot-races are not now (1800) much encouraged by persons of fortune, and
 seldom happen but for the purpose of betting, and the racers are
@@ -475,10 +475,10 @@ races still linger on, and only a week or two since the bride gave two
 foot, and with as much inclination for 'laiking' (playing) as for
 sticking to work--some folk said more--was quoted as the fortunate
 winner of almost enough to start an itinerant haberdasher in
-trade." <span id="fr_309"></span>[1](#fn_309)
+trade." <span id="fr_309"></span>[1](#fn_309.md)
 
 BASE, OR PRISONERS' BARS.--There is a rustic game called Base or Bars,
-and sometimes written Bays, <span id="fr_310"></span>[2](#fn_310) and in
+and sometimes written Bays, <span id="fr_310"></span>[2](#fn_310.md) and in
 some places Prisoners' Bars; and as the success of this pastime depends
 upon the agility of the candidates and their skill in running, I think
 it may properly enough be introduced here. It was much practised in
@@ -490,14 +490,14 @@ many parts of the kingdom. The first mention of this sport that I have
 met with occurs in the Proclamations at the head of the parliamentary
 proceedings, early in the reign of Edward III., where it is spoken of as
 a childish amusement, and prohibited to be played in the avenues of the
-palace at Westminster, <span id="fr_311"></span>[1](#fn_311) during the
+palace at Westminster, <span id="fr_311"></span>[1](#fn_311.md) during the
 sessions of Parliament, because of the interruption it occasioned to the
 members and others in passing to and fro as their business required. It
 is also spoken of by Shakespear as a game practised by the boys:
 
 He with two striplings, lads more like to run  
 The country base, than to commit such slaughter,  
-Made good the passage. <span id="fr_312"></span>[2](#fn_312)
+Made good the passage. <span id="fr_312"></span>[2](#fn_312.md)
 
 \[paragraph continues\] It was, however, most assuredly played by the
 men, and especially in Cheshire and other adjoining counties, where
@@ -561,11 +561,11 @@ expression. The Cornish, says Fuller, are masters of the art of
 wrestling, so that if the Olympian games were now in fashion, they would
 come away with the victory. Their hug is a cunning close with their
 fellow-combatants, the fruits whereof is his fair fall or foil at the
-least. <span id="fr_313"></span>[1](#fn_313) They learned the art at an
+least. <span id="fr_313"></span>[1](#fn_313.md) They learned the art at an
 early period of life, for you shall hardly find, says Carew, an assembly
 of boys in Devon and Cornwall, where the most untowardly among them will
 not as readily give you a muster (or trial) of this exercise as you are
-prone to require it. <span id="fr_314"></span>[2](#fn_314)
+prone to require it. <span id="fr_314"></span>[2](#fn_314.md)
 
 \* The entirely different systems of wrestling developed in different
 parts of the kingdom is a slight but genuine proof of the great variety
@@ -579,7 +579,7 @@ almost entirely to hugging. The style of Cumberland and Westmoreland was
 the next most famous. Thirdly, there was the more general practice of
 "loose" wrestling, in which Norfolk and Bedfordshire were for a long
 time pre-eminent; this style differed much in different
-localities. <span id="fr_315"></span>[3](#fn_315)
+localities. <span id="fr_315"></span>[3](#fn_315.md)
 
 The citizens of London, in times past, were expert in the art of
 wrestling, and annually upon St James's day they were accustomed to make
@@ -600,26 +600,26 @@ associates took occasion to quarrel with the Londoners, a battle ensued,
 and many of the latter were severely wounded in making their retreat to
 the city. This unjustifiable petulance of the bailiff gave rise to a
 more serious tumult, and it was several days before the peace could be
-restored. <span id="fr_316"></span>[1](#fn_316) Stow informs us, that in
+restored. <span id="fr_316"></span>[1](#fn_316.md) Stow informs us, that in
 the thirty-first year of Henry VI. A.D. 1453, at a wrestling match near
 Clerkenwell, another tumult was excited against the lord mayor, but he
 does not say upon what occasion it arose.
 
 In the old time, says Stow, wrestling was more used than it has been of
-later years. <span id="fr_317"></span>[2](#fn_317) In the month of
+later years. <span id="fr_317"></span>[2](#fn_317.md) In the month of
 August, about the feast of St Bartholomew, adds this very accurate
 historian, there were divers days spent in wrestling; the lord mayor,
 aldermen, and sheriffs, being present in a large tent pitched for that
-purpose near Clerkenwell; <span id="fr_318"></span>[3](#fn_318) upon
+purpose near Clerkenwell; <span id="fr_318"></span>[3](#fn_318.md) upon
 this occasion the officers of the city, namely, the sheriffs, serjeants,
 and yeomen, the porters of the king's beam or weighing-house, and others
 of the city, gave a general challenge to such of the inhabitants of the
 suburbs as thought themselves expert in this exercise; but of late
 years, continues he, the wrestling is only practised on the afternoon of
-St Bartholomew's day. <span id="fr_319"></span>[4](#fn_319) The latter
+St Bartholomew's day. <span id="fr_319"></span>[4](#fn_319.md) The latter
 ceremony is thus described by a foreign writer, who was an eye-witness
 to the performance: "When," says he, "the mayor goes out of the
-precincts of the city, a sceptre, <span id="fr_320"></span>[5](#fn_320)
+precincts of the city, a sceptre, <span id="fr_320"></span>[5](#fn_320.md)
 a sword, and a cap, are borne before him, and he is followed by the
 principal aldermen in scarlet gowns with golden chains; himself and they
 on horseback. Upon their arrival at a place appointed for that purpose,
@@ -628,7 +628,7 @@ before them two at a time." He adds a circumstance not recorded by the
 historian: "After this is over, a parcel of live rabbits are turned
 loose among the crowd, which are pursued by a number of boys, who
 endeavour to catch them with all the noise they can make." <span
-id="fr_321"></span>[6](#fn_321)
+id="fr_321"></span>[6](#fn_321.md)
 
 PRIZES FOR WRESTLING.--The reward proposed for the best wrestlers in the
 contest between the Londoners and the inhabitants of Westminster, as
@@ -647,7 +647,7 @@ At wrastlyng he wolde have away the Ram.
 \[paragraph continues\] Other rewards, no doubt, were sometimes
 proposed, as we may see upon the eighth plate, where two men are
 wrestling for a cock: the original drawing, from a manuscript in the
-Royal Library, <span id="fr_322"></span>[7](#fn_322) is certainly more
+Royal Library, <span id="fr_322"></span>[7](#fn_322.md) is certainly more
 ancient than the time
 
 <span id="page_71">p. 71</span>
@@ -660,7 +660,7 @@ In later times the prizes were not only much varied, but were
 occasionally of higher value. If we may believe the author of the old
 poem, entitled "A mery Geste of Robyn Hode," there were several prizes
 put up at once. The poet, speaking of a knight who was going to Robin
-Hood, says, <span id="fr_323"></span>[1](#fn_323)
+Hood, says, <span id="fr_323"></span>[1](#fn_323.md)
 
                  ------Unto Bernisdale,  
 As he went, by a bridge was a wrastling,  
@@ -680,7 +680,7 @@ A humorous description is given in one of the Spectators of a country
 wake: the author there mentions "a ring of wrestlers; the squire," says
 he "of the parish always treats the whole company, every year, with a
 hogshead of ale, and proposes a beaver hat, as a recompence to him who
-gives the most falls." <span id="fr_324"></span>[2](#fn_324)
+gives the most falls." <span id="fr_324"></span>[2](#fn_324.md)
 
 WRESTLING, HOW PERFORMED.--The manner in which this pastime was
 exhibited in the western parts of England, at the distance of two
@@ -703,7 +703,7 @@ playing again with the taker, but bound to answer his successor. Silver
 prizes, for this and other activities, were wont to be carried about, by
 certain circumferanci, or set up at bride ales; but time, or their
 abuse," perhaps I might add both, "hath now worn them out of use." <span
-id="fr_325"></span>[3](#fn_325)
+id="fr_325"></span>[3](#fn_325.md)
 
 <span id="page_72">p. 72</span>
 
@@ -760,7 +760,7 @@ shillings. These
 <span id="img_pl07"></span>
 
 [![Wrestling](tn/pl07.jpg)  
-Click to enlarge](img/pl07.jpg)  
+Click to enlarge](img/pl07.jpg.md)  
 Wrestling  
 
  
@@ -776,7 +776,7 @@ the peace for the counties of Nottingham and Leicester. He had his
 monument erected in the chancel of Bunny church in his lifetime, whereon
 his fame as a wrestler is set forth, and his effigy rudely carved, with
 arms extended, in the first position of Cornish-hug. <span
-id="fr_326"></span>[1](#fn_326)
+id="fr_326"></span>[1](#fn_326.md)
 
 \* During the nineteenth century wrestling revived from time to time,
 but the rowdyism and roguery, so often associated with the matches, have
@@ -784,7 +784,7 @@ for the most part kept this sport in deserved disrepute.
 
 HIPPAS.--The Greeks had a pastime called Hippas, which, we are told, was
 one person riding upon the shoulders of another, as upon a horse; <span
-id="fr_327"></span>[2](#fn_327) a sport of this kind was in practice
+id="fr_327"></span>[2](#fn_327.md) a sport of this kind was in practice
 with us at the commencement of the fourteenth century, but generally
 performed by two competitors who struggled one with the other, and he
 who pulled his opponent from the shoulders of his carrier was the
@@ -792,8 +792,8 @@ victor.
 
 The representations of this curious pastime on plate seven are taken
 from different manuscripts; one in the Royal Library, <span
-id="fr_328"></span>[3](#fn_328) and the other in the Bodleian Library at
-Oxford, dated 1344. <span id="fr_329"></span>[4](#fn_329)
+id="fr_328"></span>[3](#fn_328.md) and the other in the Bodleian Library at
+Oxford, dated 1344. <span id="fr_329"></span>[4](#fn_329.md)
 
 This seems to bear more analogy to wrestling than to any other sport,
 for which reason I have given it a place in the present chapter.
@@ -802,17 +802,17 @@ SWIMMING.--Swimming is an exercise of great antiquity; and, no doubt,
 familiar to the inhabitants of this country at all times. The heroes of
 the middle ages are sometimes praised for their skill in swimming: it is
 said of Olaf Fryggeson, a king of Norway, that he had no equal in his
-art. <span id="fr_330"></span>[5](#fn_330) Peacham, describing the
+art. <span id="fr_330"></span>[5](#fn_330.md) Peacham, describing the
 requisites for a complete gentleman, mentions swimming as one; and
 particularly recommends it to such as were inclined to follow a military
 profession. In this he seems to have followed an old poetical
-writer, <span id="fr_331"></span>[6](#fn_331) who speaks in this manner:
+writer, <span id="fr_331"></span>[6](#fn_331.md) who speaks in this manner:
 
 To swymme, is eke to lerne in sommer leson.  
 Men fynde not a bridge, so often as a flood,  
 Swymmyng to voyde; and chase an hoste wil eson.  
 Eke after rayne the rivers goeth wood, <span
-id="fr_332"></span>[7](#fn_332)  
+id="fr_332"></span>[7](#fn_332.md)  
 That every man in t’host can swymme, is good:  
 Knyght, squyer, footman, cook, and cosynere.  
 And grome, and page, in swymmyng is to lere.
@@ -826,13 +826,13 @@ of persons belonging to an army: and, perhaps, it may not be improper to
 add, by every other person also.
 
 Swimming and diving are mentioned by the author of the Visions of Pierce
-Ploughman <span id="fr_333"></span>[1](#fn_333) in the following
+Ploughman <span id="fr_333"></span>[1](#fn_333.md) in the following
 manner:--
 
-Take two strong men and in Temese <span id="fr_334"></span>[2](#fn_334)
+Take two strong men and in Temese <span id="fr_334"></span>[2](#fn_334.md)
 cast them,  
 And both naked as a needle, ther non sikerer <span
-id="fr_335"></span>[3](#fn_335) than other;  
+id="fr_335"></span>[3](#fn_335.md) than other;  
 The one hath cunnynge and can swymme and dyve,  
 The other is lewd of that laboure, lerned never to swym,  
 Which trowest of these two in Temese is most in dred,  
@@ -856,13 +856,13 @@ and with corks where the rushes cannot readily be procured; particularly
 in the neighbourhood of London, where we are told, two centuries back,
 there were men who could teach the art of swimming well, and, says the
 author, "for commoditie of river and water for that purpose, there is no
-where better." <span id="fr_336"></span>[4](#fn_336)
+where better." <span id="fr_336"></span>[4](#fn_336.md)
 
 I am sorry to add, that swimming is by no means so generally practised
 with us in the present day as it used to be in former times. We have
 several treatises on the art of swimming and diving, and in the
 Encyclopædia Britannica are many excellent directions relating to it,
-under the article Swimming. <span id="fr_337"></span>[5](#fn_337)
+under the article Swimming. <span id="fr_337"></span>[5](#fn_337.md)
 
 SLIDING.--Sliding upon the ice appears to have been a very favourite
 pastime among the youth of this country in former times; at present the
@@ -887,7 +887,7 @@ by the means of a strong rope, those who are seated in them are moved
 round with great velocity, and form an extensive circle. Sledges of this
 kind were set upon the Thames during the hard frost, in the year 1716,
 as the following couplet in a song written upon that occasion <span
-id="fr_338"></span>[1](#fn_338) plainly proves:
+id="fr_338"></span>[1](#fn_338.md) plainly proves:
 
 While the rabble in sledges run giddily round,  
 And nought but a circle of folly is found.
@@ -918,12 +918,12 @@ city of London, were exhibited before the same association. Mr Loftus
 Brock also exhibited in June of the same year "a fine bone skate about a
 foot long with a flat polished surface, of prehistoric date," which had
 been found in Bucklersbury, on the site of the ancient church of St
-Benet Sherchog. <span id="fr_339"></span>[2](#fn_339)
+Benet Sherchog. <span id="fr_339"></span>[2](#fn_339.md)
 
 "In 1841 Mr Roach Smith exhibited to the Society of Antiquaries a bone
 skate which had been found in boggy ground in Moorfields, near Finsbury
 Circus. He considered that it was one of those described as used in the
-twelfth century on this very site. <span id="fr_340"></span>[3](#fn_340)
+twelfth century on this very site. <span id="fr_340"></span>[3](#fn_340.md)
 Fitzstephen, the chronicler of London in the time of Henry II.,
 
 <span id="page_76">p. 76</span>
@@ -947,7 +947,7 @@ may bear the brunt more strongly when they come to it in good earnest."
 \* The two great diarists of the Restoration period, Evelyn and Pepys,
 both record skating feats that they witnessed on December 1st, 1662,
 when this revived exercise on metal skates had been reintroduced
-[from](errata.htm#0) Holland.
+[from](errata.htm#0.md) Holland.
 
 \* Evelyn says: "Having seen the strange and wonderful dexterity of the
 sliders on the new canal in St James's Park, performed before their
@@ -978,19 +978,19 @@ Spanish ambassador in 1760, invented a pair of skates that ran on
 wheels. But his exhibition of them was not a success. Gliding about in
 them at a masquerade at Carlisle House, Soho Square, he ran into a
 valuable mirror worth £500, which he completely shattered in addition to
-wounding himself severely. <span id="fr_341"></span>[1](#fn_341) A
+wounding himself severely. <span id="fr_341"></span>[1](#fn_341.md) A
 
 <span id="page_77">p. 77</span>
 
 patent for wheel skates was taken out in 1819; and the old tennis court
 in Windmill Street was turned into a rink for roller skating in the year
-1823. <span id="fr_342"></span>[1](#fn_342)
+1823. <span id="fr_342"></span>[1](#fn_342.md)
 
 Some modern writers have asserted, that "the metropolis of Scotland has
 produced more instances of elegant skaters than perhaps any other
 country whatever, and the institution of a skating-club, about forty
 years ago, has contributed not a little to the improvement of this
-amusement. <span id="fr_343"></span>[2](#fn_343) I have, however, seen,
+amusement. <span id="fr_343"></span>[2](#fn_343.md) I have, however, seen,
 some years back, when the Serpentine river in Hyde Park was frozen over,
 four gentlemen there dance, if I may be allowed the expression, a double
 minuet in skates, with as much ease, and I think more elegance, than in
@@ -999,33 +999,33 @@ have readily in succession described upon the ice the form of all the
 letters in the alphabet.
 
 \* During the nineteenth century the development of English skating has
-been most remarkable. <span id="fr_344"></span>[3](#fn_344)
+been most remarkable. <span id="fr_344"></span>[3](#fn_344.md)
 
 ROWING.--I shall not pretend to investigate the antiquity of
 boat-rowing. This art was certainly well understood by the primitive
 inhabitants of Britain, who frequently committed themselves to the mercy
 of the sea in open boats, constructed with wicker work, and covered with
-leather. <span id="fr_345"></span>[4](#fn_345) The Saxons were also
+leather. <span id="fr_345"></span>[4](#fn_345.md) The Saxons were also
 expert in the management of the oar, and thought it by no means
 derogatory for a nobleman of the highest rank to row or steer a boat
 with dexterity and judgment. Kolson, a northern hero, boasting of his
 qualifications, declares, that "he was expert in handling the
-oar." <span id="fr_346"></span>[5](#fn_346) The reader may possibly call
+oar." <span id="fr_346"></span>[5](#fn_346.md) The reader may possibly call
 to his recollection the popular story related by our historians
 concerning Edgar, surnamed the Peaceable, who they tell us was conveyed
 in great state along the river Dee, from his palace in the city of West
 Chester, to the church of St John, and back again: the oars were managed
 by eight kings, and himself, the ninth, sat at the stern of the barge
-and held the helm. <span id="fr_347"></span>[6](#fn_347) This frolic,
+and held the helm. <span id="fr_347"></span>[6](#fn_347.md) This frolic,
 for I cannot consider it in any other light, appears to be well
 attested, and is the earliest record of a pastime of the kind.
 
 The boat-quintain and tilting at each other upon the water, which were
 introduced by the Normans as amusements for the summer season, <span
-id="fr_348"></span>[7](#fn_348) could not be performed without the
+id="fr_348"></span>[7](#fn_348.md) could not be performed without the
 assistance of the oars, and probably much of the success of the champion
 depended upon the skilfulness of those who managed the boat. If we refer
-to two engravings <span id="fr_349"></span>[8](#fn_349) whereon both
+to two engravings <span id="fr_349"></span>[8](#fn_349.md) whereon both
 these sports are represented, we shall see that the rowers are seated
 contrary to the usual method, and face the head of the vessel instead of
 the stern.
@@ -1095,68 +1095,68 @@ cup to be sailed for in the vicinity of London. The boats usually start
 from the bridge at Blackfriars, go up the Thames to Putney, and return
 to Vauxhall, where a vessel is moored at a distance from the stairs, and
 the sailing boat that first passes this mark upon her return obtains the
-victory. <span id="fr_350"></span>[1](#fn_350)
+victory. <span id="fr_350"></span>[1](#fn_350.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_287"></span>[59:1](spe09.htm#fr_287) Judges, chap. xx. ver.
+<span id="fn_287"></span>[59:1](spe09.htm#fr_287.md) Judges, chap. xx. ver.
 16.
 
-<span id="fn_288"></span>[59:2](spe09.htm#fr_288) 1 Chron. chap. xii.
+<span id="fn_288"></span>[59:2](spe09.htm#fr_288.md) 1 Chron. chap. xii.
 ver. 2.
 
-<span id="fn_289"></span>[59:3](spe09.htm#fr_289) 1 Samuel, chaps. xvii.
+<span id="fn_289"></span>[59:3](spe09.htm#fr_289.md) 1 Samuel, chaps. xvii.
 and xviii.
 
-<span id="fn_290"></span>[59:4](spe09.htm#fr_290) *Journal of the Brit.
+<span id="fn_290"></span>[59:4](spe09.htm#fr_290.md) *Journal of the Brit.
 Arch. Assoc.*, xx. 73-80; *Notes and Queries*, Ser. 1, vi. 17, 377;
 Evans' *Ancient Stone Implements of Great Britain*, chap. xviii.
 
-<span id="fn_291"></span>[60:1](spe09.htm#fr_291) Claudius, B. iv.
+<span id="fn_291"></span>[60:1](spe09.htm#fr_291.md) Claudius, B. iv.
 
-<span id="fn_292"></span>[60:2](spe09.htm#fr_292) 14. B. v.
+<span id="fn_292"></span>[60:2](spe09.htm#fr_292.md) 14. B. v.
 
-<span id="fn_293"></span>[60:3](spe09.htm#fr_293) C. v. 16.
+<span id="fn_293"></span>[60:3](spe09.htm#fr_293.md) C. v. 16.
 
-<span id="fn_294"></span>[60:4](spe09.htm#fr_294) *Manners and Customs
+<span id="fn_294"></span>[60:4](spe09.htm#fr_294.md) *Manners and Customs
 of the English*, vol. 2.
 
-<span id="fn_295"></span>[60:5](spe09.htm#fr_295) Titus A. xxiii. part
+<span id="fn_295"></span>[60:5](spe09.htm#fr_295.md) Titus A. xxiii. part
 2, fol. 8.
 
-<span id="fn_296"></span>[61:1](spe09.htm#fr_296) Iliad, book xxiii.
+<span id="fn_296"></span>[61:1](spe09.htm#fr_296.md) Iliad, book xxiii.
 
-<span id="fn_297"></span>[62:1](spe09.htm#fr_297) Fitzstephen's
+<span id="fn_297"></span>[62:1](spe09.htm#fr_297.md) Fitzstephen's
 *Description of London*.
 
-<span id="fn_298"></span>[62:2](spe09.htm#fr_298) Rot. claus. Memb. 23.
+<span id="fn_298"></span>[62:2](spe09.htm#fr_298.md) Rot. claus. Memb. 23.
 
-<span id="fn_299"></span>[62:3](spe09.htm#fr_299) Roy. Lib. 10 E. iv. f.
+<span id="fn_299"></span>[62:3](spe09.htm#fr_299.md) Roy. Lib. 10 E. iv. f.
 96.
 
-<span id="fn_300"></span>[62:4](spe09.htm#fr_300) *Archæologia*, li.
+<span id="fn_300"></span>[62:4](spe09.htm#fr_300.md) *Archæologia*, li.
 239.
 
-<span id="fn_301"></span>[63:1](spe09.htm#fr_301) Froissart, Lord
+<span id="fn_301"></span>[63:1](spe09.htm#fr_301.md) Froissart, Lord
 Berners' translation, vol. iv. chap. 149, fol. 184.
 
-<span id="fn_302"></span>[63:2](spe09.htm#fr_302) *Canonization of St
+<span id="fn_302"></span>[63:2](spe09.htm#fr_302.md) *Canonization of St
 Osmund* (Wilts Record Soc. 1902), pp. viii., 64-6. The depositions speak
 of a "*massa ferrea*" being thrown by Wodewell, but in Harding's
 Register (p. 25) it is described as a "coyte."
 
-<span id="fn_303"></span>[64:1](spe09.htm#fr_303) Vol. ii. No. 115.
+<span id="fn_303"></span>[64:1](spe09.htm#fr_303.md) Vol. ii. No. 115.
 (A.D. 1711.)
 
-<span id="fn_304"></span>[64:2](spe09.htm#fr_304) *Notes and Queries*,
+<span id="fn_304"></span>[64:2](spe09.htm#fr_304.md) *Notes and Queries*,
 Ser. II., xii. 45.
 
-<span id="fn_305"></span>[64:3](spe09.htm#fr_305) *Archæological
+<span id="fn_305"></span>[64:3](spe09.htm#fr_305.md) *Archæological
 Journal*, lii. 95-6.
 
-<span id="fn_306"></span>[65:1](spe09.htm#fr_306) Chancellor Ferguson
+<span id="fn_306"></span>[65:1](spe09.htm#fr_306.md) Chancellor Ferguson
 also contributed *Notes about Dumb Bells*, as an appendix to his former
 paper, to the *Archæological Journal* of the next year (Iii. 19-25). Mr
 Albert Hartshorne contributed to that paper a brief description and
@@ -1169,15 +1169,15 @@ our best bell expert, Dr Raven. When first learning bell ringing the
 practice always was and still obtains of simply tying back the clapper,
 and so producing dumb bells.--J. C. C.
 
-<span id="fn_307"></span>[66:1](spe09.htm#fr_307) Bodleian, Ashm, MSS.
+<span id="fn_307"></span>[66:1](spe09.htm#fr_307.md) Bodleian, Ashm, MSS.
 788.
 
-<span id="fn_308"></span>[66:2](spe09.htm#fr_308) Badminton Library:
+<span id="fn_308"></span>[66:2](spe09.htm#fr_308.md) Badminton Library:
 *Athletics*, by Montague Shearman. This is the best book to consult as
 to the remarkable revival of foot-racing, both amateur and professional,
 during the nineteenth century.
 
-<span id="fn_309"></span>[67:1](spe09.htm#fr_309) Pp. 205-7. Shortly
+<span id="fn_309"></span>[67:1](spe09.htm#fr_309.md) Pp. 205-7. Shortly
 after Canon Atkinson published this book, one of my oldest parishioners
 in Barton-le-Street (of which I was rector 1886.1894) told me that he
 had seen a stark naked race of young men over the moors from
@@ -1189,131 +1189,131 @@ to convince him by the evidence of several that this occasional
 stripping for a race after a wedding was only abandoned soon after he
 entered on his incumbency.--J. C. C.
 
-<span id="fn_310"></span>[67:2](spe09.htm#fr_310) Johnson's Dictionary,
+<span id="fn_310"></span>[67:2](spe09.htm#fr_310.md) Johnson's Dictionary,
 word *Base*.
 
-<span id="fn_311"></span>[68:1](spe09.htm#fr_311) "Nul enfaunt ne autres
+<span id="fn_311"></span>[68:1](spe09.htm#fr_311.md) "Nul enfaunt ne autres
 ne jue--à barres." Rot. Parl. MS. Harl. 7057.
 
-<span id="fn_312"></span>[68:2](spe09.htm#fr_312) Cymbeline.
+<span id="fn_312"></span>[68:2](spe09.htm#fr_312.md) Cymbeline.
 
-<span id="fn_313"></span>[69:1](spe09.htm#fr_313) Worthies of England in
+<span id="fn_313"></span>[69:1](spe09.htm#fr_313.md) Worthies of England in
 Cornwall, p. 197.
 
-<span id="fn_314"></span>[69:2](spe09.htm#fr_314) *Survey of Cornwall*,
+<span id="fn_314"></span>[69:2](spe09.htm#fr_314.md) *Survey of Cornwall*,
 1602, p. 75.
 
-<span id="fn_315"></span>[69:3](spe09.htm#fr_315) Armstrong's
+<span id="fn_315"></span>[69:3](spe09.htm#fr_315.md) Armstrong's
 *Wrestling* (Badminton Library), passim.
 
-<span id="fn_316"></span>[70:1](spe09.htm#fr_316) Matthew Paris. *Hist.
+<span id="fn_316"></span>[70:1](spe09.htm#fr_316.md) Matthew Paris. *Hist.
 Ang.* sub an. 1222.
 
-<span id="fn_317"></span>[70:2](spe09.htm#fr_317) *Survey of London*,
+<span id="fn_317"></span>[70:2](spe09.htm#fr_317.md) *Survey of London*,
 pp. 78, 85.
 
-<span id="fn_318"></span>[70:3](spe09.htm#fr_318) The margin says, "at
+<span id="fn_318"></span>[70:3](spe09.htm#fr_318.md) The margin says, "at
 Skinner's Well."
 
-<span id="fn_319"></span>[70:4](spe09.htm#fr_319) *Survey of London*, p.
+<span id="fn_319"></span>[70:4](spe09.htm#fr_319.md) *Survey of London*, p.
 85.
 
-<span id="fn_320"></span>[70:5](spe09.htm#fr_320) I presume he means the
+<span id="fn_320"></span>[70:5](spe09.htm#fr_320.md) I presume he means the
 mace.
 
-<span id="fn_321"></span>[70:6](spe09.htm#fr_321) Hentzner's
+<span id="fn_321"></span>[70:6](spe09.htm#fr_321.md) Hentzner's
 *Itinerary*, p. 36.
 
-<span id="fn_322"></span>[70:7](spe09.htm#fr_322) 2 B. viii.
+<span id="fn_322"></span>[70:7](spe09.htm#fr_322.md) 2 B. viii.
 
-<span id="fn_323"></span>[71:1](spe09.htm#fr_323) Second fit, or part,
+<span id="fn_323"></span>[71:1](spe09.htm#fr_323.md) Second fit, or part,
 Garrick's Collect. Old Plays, K. vol. x.
 
-<span id="fn_324"></span>[71:2](spe09.htm#fr_324) Vol. ii. No. 191,
+<span id="fn_324"></span>[71:2](spe09.htm#fr_324.md) Vol. ii. No. 191,
 published 1711.
 
-<span id="fn_325"></span>[71:3](spe09.htm#fr_325) *Survey of Cornwall*
+<span id="fn_325"></span>[71:3](spe09.htm#fr_325.md) *Survey of Cornwall*
 (1602), p. 75.
 
-<span id="fn_326"></span>[73:1](spe09.htm#fr_326) Thorston's
+<span id="fn_326"></span>[73:1](spe09.htm#fr_326.md) Thorston's
 *Nottinghamshire*, i. 93; Chambers' *Book of Days*, i. 435-7. It is not
 a little remarkable that the Badminton account of wrestling omits all
 reference to Sir Thomas Parkyns, and to his book which passed through so
 many editions.
 
-<span id="fn_327"></span>[73:2](spe09.htm#fr_327) Pollux, lib. ix. cap.
+<span id="fn_327"></span>[73:2](spe09.htm#fr_327.md) Pollux, lib. ix. cap.
 7.
 
-<span id="fn_328"></span>[73:3](spe09.htm#fr_328) 2 B. vii.
+<span id="fn_328"></span>[73:3](spe09.htm#fr_328.md) 2 B. vii.
 
-<span id="fn_329"></span>[73:4](spe09.htm#fr_329) Bod. 264.
+<span id="fn_329"></span>[73:4](spe09.htm#fr_329.md) Bod. 264.
 
-<span id="fn_330"></span>[73:5](spe09.htm#fr_330) Pontoppidan's *Hist.
+<span id="fn_330"></span>[73:5](spe09.htm#fr_330.md) Pontoppidan's *Hist.
 of Norway*, p. 148.
 
-<span id="fn_331"></span>[73:6](spe09.htm#fr_331) MS. Cott. Titus, A.
+<span id="fn_331"></span>[73:6](spe09.htm#fr_331.md) MS. Cott. Titus, A.
 xxiii.
 
-<span id="fn_332"></span>[73:7](spe09.htm#fr_332) Wood, or mode,
+<span id="fn_332"></span>[73:7](spe09.htm#fr_332.md) Wood, or mode,
 signifies wild or mad; and here, that the rain makes the rivers swell
 and overpass their bounds.
 
-<span id="fn_333"></span>[74:1](spe09.htm#fr_333) Edit. 1550, p. 13.
+<span id="fn_333"></span>[74:1](spe09.htm#fr_333.md) Edit. 1550, p. 13.
 
-<span id="fn_334"></span>[74:2](spe09.htm#fr_334) The river Thames.
+<span id="fn_334"></span>[74:2](spe09.htm#fr_334.md) The river Thames.
 
-<span id="fn_335"></span>[74:3](spe09.htm#fr_335) Sikerer, surer, safer;
+<span id="fn_335"></span>[74:3](spe09.htm#fr_335.md) Sikerer, surer, safer;
 that is, neither the one nor the other should have any extraneous
 assistance, but each should depend entirely upon his own exertions to
 escape from the water.
 
-<span id="fn_336"></span>[74:4](spe09.htm#fr_336) History of all the
+<span id="fn_336"></span>[74:4](spe09.htm#fr_336.md) History of all the
 Schools and Colleges in and about London, printed A.D. 1615
 
-<span id="fn_337"></span>[74:5](spe09.htm#fr_337) \* It is almost
+<span id="fn_337"></span>[74:5](spe09.htm#fr_337.md) \* It is almost
 unnecessary to state that the art and pastime of swimming underwent a
 remarkable revival during the nineteenth century. There can be but
 little doubt that the proportion of the English population who can swim
 is now (1903) far higher than it has ever been before. It is greatly
 encouraged in schools.
 
-<span id="fn_338"></span>[75:1](spe09.htm#fr_338) In D’Urfey's
+<span id="fn_338"></span>[75:1](spe09.htm#fr_338.md) In D’Urfey's
 Collection of Songs, 1719, vol. iii. p. 4.
 
-<span id="fn_339"></span>[75:2](spe09.htm#fr_339) Journal of the Arch.
+<span id="fn_339"></span>[75:2](spe09.htm#fr_339.md) Journal of the Arch.
 Assoc., xxx. pp. 72, 9r, 338. Ancient bone skates or runners are
 exhibited at the Guildhall Museum as well as at the British Museum.
 
-<span id="fn_340"></span>[75:3](spe09.htm#fr_340) *Archæologia*, xxix.
+<span id="fn_340"></span>[75:3](spe09.htm#fr_340.md) *Archæologia*, xxix.
 397.
 
-<span id="fn_341"></span>[76:1](spe09.htm#fr_341) *Notes and Queries*,
+<span id="fn_341"></span>[76:1](spe09.htm#fr_341.md) *Notes and Queries*,
 Ser. V., vi. 36.
 
-<span id="fn_342"></span>[77:1](spe09.htm#fr_342) *Notes and Queries*,
+<span id="fn_342"></span>[77:1](spe09.htm#fr_342.md) *Notes and Queries*,
 Ser. V., v. 309.
 
-<span id="fn_343"></span>[77:2](spe09.htm#fr_343) Ency. Brit. art.
+<span id="fn_343"></span>[77:2](spe09.htm#fr_343.md) Ency. Brit. art.
 Skating.
 
-<span id="fn_344"></span>[77:3](spe09.htm#fr_344) Badminton Library;
+<span id="fn_344"></span>[77:3](spe09.htm#fr_344.md) Badminton Library;
 *Skating*, by Messrs Heathcote, Tebbutt, and Witham.
 
-<span id="fn_345"></span>[77:4](spe09.htm#fr_345) Cæsar Bell, Gall. lib.
+<span id="fn_345"></span>[77:4](spe09.htm#fr_345.md) Cæsar Bell, Gall. lib.
 v. cap. 12.
 
-<span id="fn_346"></span>[77:5](spe09.htm#fr_346) Bartholin, p. 420.
+<span id="fn_346"></span>[77:5](spe09.htm#fr_346.md) Bartholin, p. 420.
 
-<span id="fn_347"></span>[77:6](spe09.htm#fr_347) Will. Maims. Mat.
+<span id="fn_347"></span>[77:6](spe09.htm#fr_347.md) Will. Maims. Mat.
 West. in the reign of Edgar.
 
-<span id="fn_348"></span>[77:7](spe09.htm#fr_348) Fitzstephen's
+<span id="fn_348"></span>[77:7](spe09.htm#fr_348.md) Fitzstephen's
 *Description of London*. Stow's *Survey*.
 
-<span id="fn_349"></span>[77:8](spe09.htm#fr_349) See book iii. chap. i.
+<span id="fn_349"></span>[77:8](spe09.htm#fr_349.md) See book iii. chap. i.
 sec. v.
 
-<span id="fn_350"></span>[79:1](spe09.htm#fr_350) It would require two
+<span id="fn_350"></span>[79:1](spe09.htm#fr_350.md) It would require two
 volumes to record the progress in rowing and sailing, as amusements,
 since the days of Strutt, or to expand their earlier history, so that it
 is thought better to leave his remarks exactly as they stood when first
@@ -1321,4 +1321,4 @@ issued.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](spe10)
+[Next: Chapter III](spe10.md)

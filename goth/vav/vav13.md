@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav12)  [Next](vav14) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav12)  [Next](vav14.md) 
 
 ------------------------------------------------------------------------
 
@@ -416,4 +416,4 @@ Saraswati\[167\] sit on my tongue."
 ------------------------------------------------------------------------
 
 [Next: The Vampire's Tenth Story. Of the Marvellous Delicacy of Three
-Queens.](vav14)
+Queens.](vav14.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg41)  [Next](btg43) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg41)  [Next](btg43.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ immortal."
 
 ------------------------------------------------------------------------
 
-[Next: Miracles Forbidden](btg43)
+[Next: Miracles Forbidden](btg43.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft61)  [Next](efft63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft61)  [Next](efft63.md) 
 
 ------------------------------------------------------------------------
 
-# THE HAUNTED WIDOWER  <span id="fr_71"></span>[1](#fn_71)
+# THE HAUNTED WIDOWER  <span id="fr_71"></span>[1](#fn_71.md)
 
 A LABOURING man, very shortly after his wife's death, sent to a servant
 girl, living at the time in a small shipping port, requesting her to
@@ -40,9 +40,9 @@ living one.
 
 ### Footnotes
 
-<span id="fn_71"></span>[1](efft62.htm#fr_71) Robert Hunt, *Popular
+<span id="fn_71"></span>[1](efft62.htm#fr_71.md) Robert Hunt, *Popular
 Romances of the West of England*, 1st series, p. 264.
 
 ------------------------------------------------------------------------
 
-[Next: The Ghost of Rosewarne](efft63)
+[Next: The Ghost of Rosewarne](efft63.md)

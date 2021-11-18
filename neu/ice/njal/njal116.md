@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal115)  [Next](njal117) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal115)  [Next](njal117.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ the whole day, and no man knew aught of their counsel.
 
 ------------------------------------------------------------------------
 
-[Next: 117. Njal And Skarphedinn Talk Together](njal117)
+[Next: 117. Njal And Skarphedinn Talk Together](njal117.md)

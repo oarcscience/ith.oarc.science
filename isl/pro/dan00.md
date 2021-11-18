@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jes12)  [Next](eja00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jes12)  [Next](eja00.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ and them and the blessings of God.
 
 ------------------------------------------------------------------------
 
-[Next: \`Uzair (Ezra) Iramyâ' (Jeremiah) (PUT)](eja00)
+[Next: \`Uzair (Ezra) Iramyâ' (Jeremiah) (PUT)](eja00.md)

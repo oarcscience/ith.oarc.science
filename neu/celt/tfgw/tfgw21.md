@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw20)  [Next](tfgw22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw20)  [Next](tfgw22.md) 
 
 ------------------------------------------------------------------------
 
@@ -160,4 +160,4 @@ John Reardon and the Sister Ghosts
 
 ------------------------------------------------------------------------
 
-[Next: Maggie Doyle and the Dead Man](tfgw22)
+[Next: Maggie Doyle and the Dead Man](tfgw22.md)

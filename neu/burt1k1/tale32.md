@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale31) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale31.md) 
 
 ------------------------------------------------------------------------
 

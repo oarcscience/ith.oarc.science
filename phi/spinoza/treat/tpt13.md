@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](tpt12)  [Next](tpt14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](tpt12)  [Next](tpt14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -497,4 +497,4 @@ But I have said enough on this subject.
 ------------------------------------------------------------------------
 
 [Next: Chapter X.—An Examination of the Remaining Books of the Old
-Testament According to the Preceding Method](tpt14)
+Testament According to the Preceding Method](tpt14.md)

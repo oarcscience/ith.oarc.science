@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](thow02)  [Next](thow04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](thow02)  [Next](thow04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Wolfings*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -167,7 +167,7 @@ long.
    For great is the Folk, saith the tidings, that against the Markmen
 come;  
    In a far off land is their dwelling, whenso they sit at home,  
-   And Welsh <span id="fr_0"></span>[1](#fn_0) is their tongue, and we
+   And Welsh <span id="fr_0"></span>[1](#fn_0.md) is their tongue, and we
 wot not of the word that is in their mouth,  
    As they march a many together from the cities of the South.'"
 
@@ -251,7 +251,7 @@ silent.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](thow03.htm#fr_0) Welsh with these men means
+<span id="fn_0"></span>[1](thow03.htm#fr_0.md) Welsh with these men means
 Foreign, and is used for all people of Europe who are not of Gothic or
 Teutonic blood.
 
@@ -259,6 +259,6 @@ Teutonic blood.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III—Thiodolf Talketh with the Wood-Sun](thow04)
+[Next: Chapter III—Thiodolf Talketh with the Wood-Sun](thow04.md)
 
 </div>

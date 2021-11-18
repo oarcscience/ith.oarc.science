@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg16)  [Next](ttg18) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg16)  [Next](ttg18.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,4 +123,4 @@ middle of the hardest undertaking.
 ------------------------------------------------------------------------
 
 [Next: Seventeenth Goblin: The Youth who went through the Proper
-Ceremonies. Why did he fail to win the magic spell?](ttg18)
+Ceremonies. Why did he fail to win the magic spell?](ttg18.md)

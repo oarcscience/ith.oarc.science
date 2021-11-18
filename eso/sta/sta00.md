@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Next](sta01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Next](sta01.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ This Book is dedicated to the Rational Soul of the World
 
 ------------------------------------------------------------------------
 
-[Next: Preface](sta01)
+[Next: Preface](sta01.md)

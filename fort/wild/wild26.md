@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[ESP](../../psi/index)  [Index](index)  [Previous](wild25) 
-[Next](wild27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[ESP](../../psi/index)  [Index](index)  [Previous](wild25.md) 
+[Next](wild27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Wild Talents*, by Charles Fort, \[1933\], at Intangible Textual
 Heritage
 
@@ -577,4 +577,4 @@ was in the presence of the unknown,
 
 ------------------------------------------------------------------------
 
-[Next: 27](wild27)
+[Next: 27](wild27.md)

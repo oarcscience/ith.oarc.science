@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl16)  [Next](hhl18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl16)  [Next](hhl18.md) 
 
 ------------------------------------------------------------------------
 
@@ -288,7 +288,7 @@ They landed wherever any little valley on the
 <span id="img_13400"></span>
 
 [![](tn/13400.jpg)  
-Click to enlarge](img/13400.jpg)
+Click to enlarge](img/13400.jpg.md)
 
 rugged slope of Mt. Hale-a-ka-la--"House of the sun"--afforded soil
 sufficient to give life or foothold. They destroyed the villages and
@@ -513,4 +513,4 @@ Kamehameha secured white men's arms and conquered all the islands.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. The Last Prophet Of Oahu](hhl18)
+[Next: XIV. The Last Prophet Of Oahu](hhl18.md)

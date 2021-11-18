@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](atom15)  [Next](atom17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](atom15)  [Next](atom17.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Atom-Smashing Power of Mind*, by Charles Fillmore, \[1949\], at
 Intangible Textual Heritage
 
@@ -263,4 +263,4 @@ will take away the sting of death. But over him who is risen in Christ
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 15](atom17)
+[Next: Chapter 15](atom17.md)

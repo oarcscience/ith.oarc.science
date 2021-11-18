@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku01)  [Next](tku03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku01)  [Next](tku03.md) 
 
 ------------------------------------------------------------------------
 
@@ -181,9 +181,9 @@ further it is my faith--however humbly it may be held--that among these
 lofty beings, highest of those who concern themselves directly with this
 earth, of all the myriads of worlds in infinite space, is ONE on Whom
 the right instinct of Christianity has always lavished heartfelt
-reverence and devotion." <span id="fr_0"></span>[1](#fn_0) Here is an
+reverence and devotion." <span id="fr_0"></span>[1](#fn_0.md) Here is an
 almost parallel idea taken from Egyptian Symbolism: <span
-id="fr_1"></span>[2](#fn_1) "Concerning the harmonious linking together
+id="fr_1"></span>[2](#fn_1.md) "Concerning the harmonious linking together
 of the divine and the natural; as in the vision of the ladder of Jacob
 whereon the Angels of God ascended and descended. As also in the very
 ancient ideals of Egypt, Chaldea, China, India, etc., there was the
@@ -271,12 +271,12 @@ M. MACGREGOR MATHERS.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xi:1](tku02.htm#fr_0) Raymond, pages 375-6. Sir
+<span id="fn_0"></span>[xi:1](tku02.htm#fr_0.md) Raymond, pages 375-6. Sir
 Oliver Lodge.
 
-<span id="fn_1"></span>[xi:2](tku02.htm#fr_1) Egyptian Symbolism. S. L.
+<span id="fn_1"></span>[xi:2](tku02.htm#fr_1.md) Egyptian Symbolism. S. L.
 MacGregor-Mathers.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](tku03)
+[Next: Introduction](tku03.md)

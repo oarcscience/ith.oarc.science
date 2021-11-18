@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](syma37)  [Next](syma39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](syma37)  [Next](syma39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symbolical Masonry*, by H.L. Haywood, \[1923\], at Intangible Textual
 Heritage
 
@@ -232,4 +232,4 @@ learners!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXV. The Globes](syma39)
+[Next: Chapter XXXV. The Globes](syma39.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc25)  [Next](sfoc27) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc25)  [Next](sfoc27.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ by the author in the field.
 
 ------------------------------------------------------------------------
 
-[Next: Note on the Orthography and Translation](sfoc27)
+[Next: Note on the Orthography and Translation](sfoc27.md)

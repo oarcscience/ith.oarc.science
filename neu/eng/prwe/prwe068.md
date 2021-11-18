@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe067)  [Next](prwe069) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe067)  [Next](prwe069.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ moreover, the blacksmith of the neighbourhood."
 
 ------------------------------------------------------------------------
 
-[Next: The Men-an-Tol](prwe069)
+[Next: The Men-an-Tol](prwe069.md)

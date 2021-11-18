@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](palf05)  [Next](palf07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](palf05)  [Next](palf07.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Contingent Being. Such concepts are self-evident. A man's mind may be
 directed to them and his soul may be cognizant of them, but they cannot
 be demonstrated to him. Nor can they be explained by deriving them from
 what is known, since they are already clear in themselves, and that with
-the highest degree of certitude." <span id="fr_9"></span>[10](#fn_9)
+the highest degree of certitude." <span id="fr_9"></span>[10](#fn_9.md)
 
 For Alfarabi, judgment is the combination of a particular entity with a
 universal idea. The synthesis of the particular with the universal is
@@ -41,14 +41,14 @@ which are equal to the same thing, are equal to each other." Thus, for
 instance, the judgment, "The world is made" is not so clear as to permit
 the union of the particular "world" with the universal "made". There is
 a term of mediation for both, and this is the universal
-"Composed". <span id="fr_10"></span>[11](#fn_10)
+"Composed". <span id="fr_10"></span>[11](#fn_10.md)
 
 <span id="page_2">p. 2</span>
 
 In Alfarabi's opinion, the process of reasoning by which we start from
 what is known and well established and proceed to a knowledge of the
 unknown, is Logic strictly speaking. <span
-id="fr_11"></span>[12](#fn_11) Philosophy, therefore, is mediation,
+id="fr_11"></span>[12](#fn_11.md) Philosophy, therefore, is mediation,
 reasoning and demonstration. Is philosophy only that and nothing else?
 Certainly not. There is something that cannot be mediated or
 demonstrated, namely, the First Principles.
@@ -94,7 +94,7 @@ the seventh accident-category. Since substance is influenced by the
 efficient cause, he chose Passion as the eighth accident-category.
 Finally the relation of the thing having and the thing had made him pick
 Having as the ninth accident-category. <span
-id="fr_12"></span>[13](#fn_12)
+id="fr_12"></span>[13](#fn_12.md)
 
 #### CERTAIN QUESTIONS ON THE CATEGORIES
 
@@ -105,13 +105,13 @@ simple when compared with those that are below it. But only four are
 absolutely simple, namely, Sub-stance, Quality, Quantity and Posture.
 Action and Passion come from substance and quality; time and place from
 substance and quantity; Having occurs between two substances; Relation
-between two of the ten categories. <span id="fr_13"></span>[14](#fn_13)
+between two of the ten categories. <span id="fr_13"></span>[14](#fn_13.md)
 
 There are degrees in the simplicity of the Categories. For instance,
 Quantity and Quality depend directly on substance, so much so that to
 exist both need only a substance. On the contrary, Relation needs
 several things, perhaps two substances, or a substance and an accident,
-or two accidents. <span id="fr_14"></span>[15](#fn_14)
+or two accidents. <span id="fr_14"></span>[15](#fn_14.md)
 
 When asked whether Action and Passion, which are found together, should
 be classified in the category of Relation, Alfarabi
@@ -130,14 +130,14 @@ the departure of Zeid upon the arrival of Amron. Furthermore, there is
 complete necessity when one thing exists by reason of the other, as
 father and son; while it is incomplete necessity when the dependence of
 relation is unilateral, as one and two, the two depends on the one, but
-the one does not depend on the two. <span id="fr_15"></span>[16](#fn_15)
+the one does not depend on the two. <span id="fr_15"></span>[16](#fn_15.md)
 
 We ask whether the Equal and the Unequal are a property of Quantity, and
 the Similar and Dissimilar a property of Quality. According to Alfarabi,
 each of the two terms Equal and Unequal, taken separately, is a property
 of Quantity, while if both terms are taken together, they are
 descriptive of Quantity. The same is true of Similar and Dissimilar in
-reference to Quality. <span id="fr_16"></span>[17](#fn_16)
+reference to Quality. <span id="fr_16"></span>[17](#fn_16.md)
 
 In regard to the theory of Contraries, Alfarabi makes some very profound
 observations. "Is the contrary the absence (privation) of its contrary?
@@ -145,7 +145,7 @@ Is white the absence of black?" asks Alfarabi. He answers saying, "It is
 not. For, white is something and not merely the absence of black. Since
 the absence of black is a fact in the existence of white, we are led to
 say that every contrary is the absence of its contrary." <span
-id="fr_17"></span>[18](#fn_17)
+id="fr_17"></span>[18](#fn_17.md)
 
 People say that the science of the contraries is one. But Alfarabi says
 that a distinction must be made, for "If we deal with the science of
@@ -159,20 +159,20 @@ not the knowledge of Black. On the other hand, if we deal with the
 science of something insofar as it has a contrary, then this science is
 one with that of its contrary, because in this sense the two contraries
 are really and truly two relatives." <span
-id="fr_18"></span>[19](#fn_18)
+id="fr_18"></span>[19](#fn_18.md)
 
 "Opposites and Contraries differ and must be distinguished one from the
 other," says Alfarabi. "Opposites are two things which cannot exist in
 the same object at the same time and in the same respect, as the quality
 of father and son. Opposites are a part of Relatives proper. Contraries
 are odd and even, affirmation and negation, sight and blindness." <span
-id="fr_19"></span>[20](#fn_19)
+id="fr_19"></span>[20](#fn_19.md)
 
 Some ask how many things are necessary to the knowledge of the unknown.
 "Two things are necessary and sufficient," answers Alfarabi. "If there
 are more than two, this means that they are not necessary to the
 knowledge of the object under investigation." <span
-id="fr_20"></span>[21](#fn_20)
+id="fr_20"></span>[21](#fn_20.md)
 
 "Is the proposition, "Man exists" a judgment with or without a
 predicate?" asks Alfarabi. "If man is considered from the natural and
@@ -181,7 +181,7 @@ because the fact of existence is one with man and cannot be
 distinguished from him, while the predicate denotes distinction from the
 thing to which it is referred. From a logical point of view, the
 judgment has a predicate, because it is made up of two terms which may
-be either true or false." <span id="fr_21"></span>[22](#fn_21)
+be either true or false." <span id="fr_21"></span>[22](#fn_21.md)
 
 In Logic too Alfarabi makes some brilliant and original observations,
 and gives evidence of a great knowledge of the Organon and Isagoge.
@@ -190,45 +190,45 @@ and gives evidence of a great knowledge of the Organon and Isagoge.
 
 ### Footnotes
 
-<span id="fn_9"></span>[1:10](palf06.htm#fr_9) Alfarabi, *The Sources of
+<span id="fn_9"></span>[1:10](palf06.htm#fr_9.md) Alfarabi, *The Sources of
 Questions*, in Collection, op. cit. n. 1, p. 65.
 
-<span id="fn_10"></span>[1:11](palf06.htm#fr_10) Alfarabi, *The Sources
+<span id="fn_10"></span>[1:11](palf06.htm#fr_10.md) Alfarabi, *The Sources
 of Questions*, in Collection, op. cit. n. 2, p. 65.
 
-<span id="fn_11"></span>[2:12](palf06.htm#fr_11) Id. op. cit. n. 2, p.
+<span id="fn_11"></span>[2:12](palf06.htm#fr_11.md) Id. op. cit. n. 2, p.
 66.
 
-<span id="fn_12"></span>[3:13](palf06.htm#fr_12) Alfarabi, *A Letter in
+<span id="fn_12"></span>[3:13](palf06.htm#fr_12.md) Alfarabi, *A Letter in
 Reply to Certain Questions*, in Collection, op. cit. n. 25, pp. 103-105.
 
-<span id="fn_13"></span>[3:14](palf06.htm#fr_13) Alfarabi, *A Letter in
+<span id="fn_13"></span>[3:14](palf06.htm#fr_13.md) Alfarabi, *A Letter in
 Reply to Certain Questions*, in Collection, op. cit. n. 19, pp. 98-99.
 
-<span id="fn_14"></span>[3:15](palf06.htm#fr_14) Id. op. cit. n. 13, p.
+<span id="fn_14"></span>[3:15](palf06.htm#fr_14.md) Id. op. cit. n. 13, p.
 98.
 
-<span id="fn_15"></span>[4:16](palf06.htm#fr_15) Id. op. cit. n. 18, p.
+<span id="fn_15"></span>[4:16](palf06.htm#fr_15.md) Id. op. cit. n. 18, p.
 98.
 
-<span id="fn_16"></span>[4:17](palf06.htm#fr_16) Id. op. cit. n. 24, p.
+<span id="fn_16"></span>[4:17](palf06.htm#fr_16.md) Id. op. cit. n. 24, p.
 102.
 
-<span id="fn_17"></span>[4:18](palf06.htm#fr_17) Id. op. cit. n. 17, pp.
+<span id="fn_17"></span>[4:18](palf06.htm#fr_17.md) Id. op. cit. n. 17, pp.
 97-98.
 
-<span id="fn_18"></span>[5:19](palf06.htm#fr_18) Id. op. cit. n. 37, p.
+<span id="fn_18"></span>[5:19](palf06.htm#fr_18.md) Id. op. cit. n. 37, p.
 109.
 
-<span id="fn_19"></span>[5:20](palf06.htm#fr_19) Id. op. cit. n. 38, pp.
+<span id="fn_19"></span>[5:20](palf06.htm#fr_19.md) Id. op. cit. n. 38, pp.
 109-110.
 
-<span id="fn_20"></span>[5:21](palf06.htm#fr_20) Id. op. cit. n. 29, pp.
+<span id="fn_20"></span>[5:21](palf06.htm#fr_20.md) Id. op. cit. n. 29, pp.
 106-107.
 
-<span id="fn_21"></span>[5:22](palf06.htm#fr_21) Id. op. cit. n. 16, p.
+<span id="fn_21"></span>[5:22](palf06.htm#fr_21.md) Id. op. cit. n. 16, p.
 97.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Metaphysics](palf07)
+[Next: Chapter II. Metaphysics](palf07.md)

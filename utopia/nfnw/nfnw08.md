@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](nfnw07)  [Next](nfnw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](nfnw07)  [Next](nfnw09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ official dwellings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Concerning Love](nfnw09)
+[Next: Chapter IX: Concerning Love](nfnw09.md)

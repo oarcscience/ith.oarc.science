@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp13)  [Next](hmvp15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp13)  [Next](hmvp15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ daughter of Tvastri. He was born before his mother
 
 <span id="img_07800"></span> <span align="CENTER">
 [![YAMA.](tn/07800.jpg)  
-Click to enlarge](img/07800.jpg)  
+Click to enlarge](img/07800.jpg.md)  
 YAMA.  
 </span>
 
@@ -40,7 +40,7 @@ had formed them as man and wife in the womb; and therefore it was
 useless for him to refuse her request, as none can act contrary to the
 ordinances of Tvastri. But Yama was firm, and resisted her overtures on
 the ground that it was monstrous for those who are preachers of
-righteousness to act unrighteously. <span id="fr_81"></span>[\*](#fn_81)
+righteousness to act unrighteously. <span id="fr_81"></span>[\*](#fn_81.md)
 It is not at all easy to determine what was intended to be represented
 by these deities. Max-Müller understands Vivasvat to be the sky, Saranya
 the dawn, Yama the day, and Yami the night. Others suggest that Yama may
@@ -53,7 +53,7 @@ to the other world, is the guide of those who depart this life, and is
 said to conduct them to a home which is made secure for them for ever.
 He is a king, and dwells in celestial light in the innermost sanctuary
 of heaven. He grants bright homes to the pious who dwell with him. <span
-id="fr_82"></span>[†](#fn_82)
+id="fr_82"></span>[†](#fn_82.md)
 
 "In the Rig-Veda, Yama is nowhere represented (as he is in the later
 mythology) as having anything to do with the punishment of the wicked.
@@ -68,7 +68,7 @@ speed. These dogs are said to wander about among men as messengers, no
 doubt for the purpose of summoning them to the presence of their master,
 who in another place is identified with; death, and is described as
 sending a bird as the herald of doom." <span
-id="fr_83"></span>[\*](#fn_83)
+id="fr_83"></span>[\*](#fn_83.md)
 
 "When the remains of the deceased have been placed upon the funeral
 pile, and the process of cremation has commenced, Agni, the god of Fire,
@@ -84,7 +84,7 @@ obtains from him, when recognized by him as one of his own, a delectable
 abode, and enters upon more perfect life, which is crowned with the
 fulfilment of all desires, is passed in the presence of the gods, and
 employed in the fulfilment of their pleasure." <span
-id="fr_84"></span>[†](#fn_84)
+id="fr_84"></span>[†](#fn_84.md)
 
 In this kingdom, over which Yama reigns, friends meet with their
 departed friends—husband with wife, children with parents—and together
@@ -99,7 +99,7 @@ objects of veneration to their descendants
 
 still living, and joyfully partake of the oblations they offer to them.
 
-In the following lines Dr. Muir <span id="fr_85"></span>[\*](#fn_85) has
+In the following lines Dr. Muir <span id="fr_85"></span>[\*](#fn_85.md) has
 given an epitome of the teaching of the Vedas respecting Yama:—
 
 <div style="margin-left: 32px">
@@ -183,11 +183,11 @@ sovereign of the damned; all that die appearing before him, and being
 confronted with Chitragupta the recorder, by whom their actions have
 been registered. The virtuous are then conveyed to Swarga (Indra's
 heaven), whilst the wicked are driven to the different regions of Naraka
-(hell)." <span id="fr_86"></span>[\*](#fn_86) In the "Vishnu Purāna" the
+(hell)." <span id="fr_86"></span>[\*](#fn_86.md) In the "Vishnu Purāna" the
 names of the different hells are given, and it is there stated that "
 there are many other fearful hells which are the awful provinces of
 Yama, terrible with instruments of torture and fire." In the same
-Purāna <span id="fr_87"></span>[†](#fn_87) it is said that
+Purāna <span id="fr_87"></span>[†](#fn_87.md) it is said that
 
 <span id="page_83">p. 83</span>
 
@@ -245,7 +245,7 @@ to the Vedas, the pure and good went with gladness to Yama's realm of
 light; now, as taught in the Purānas, it is the wicked who are sent to
 him for punishment.
 
-In the Mahābhārata <span id="fr_88"></span>[\*](#fn_88) is a most
+In the Mahābhārata <span id="fr_88"></span>[\*](#fn_88.md) is a most
 interesting story, showing that sometimes Yama is propitious to prayer,
 and will allow those who have entered his abode to return to earth.
 
@@ -366,27 +366,27 @@ Antaka, "He who puts an end to life."
 
 ### Footnotes
 
-<span id="fn_81"></span>[79:\*](hmvp14.htm#fr_81) Muir, O. S. T., v.
+<span id="fn_81"></span>[79:\*](hmvp14.htm#fr_81.md) Muir, O. S. T., v.
 289.
 
-<span id="fn_82"></span>[79:†](hmvp14.htm#fr_82) Ibid., v. 284.
+<span id="fn_82"></span>[79:†](hmvp14.htm#fr_82.md) Ibid., v. 284.
 
-<span id="fn_83"></span>[80:\*](hmvp14.htm#fr_83) Muir, O. S. T., v.
+<span id="fn_83"></span>[80:\*](hmvp14.htm#fr_83.md) Muir, O. S. T., v.
 302.
 
-<span id="fn_84"></span>[80:†](hmvp14.htm#fr_84) Ibid., v. 302 ff.
+<span id="fn_84"></span>[80:†](hmvp14.htm#fr_84.md) Ibid., v. 302 ff.
 
-<span id="fn_85"></span>[81:\*](hmvp14.htm#fr_85) Muir, O. S. T., v.
+<span id="fn_85"></span>[81:\*](hmvp14.htm#fr_85.md) Muir, O. S. T., v.
 327.
 
-<span id="fn_86"></span>[82:\*](hmvp14.htm#fr_86) "Vishnu Purāna," p.
+<span id="fn_86"></span>[82:\*](hmvp14.htm#fr_86.md) "Vishnu Purāna," p.
 207, note.
 
-<span id="fn_87"></span>[82:†](hmvp14.htm#fr_87) Ibid., p. 286.
+<span id="fn_87"></span>[82:†](hmvp14.htm#fr_87.md) Ibid., p. 286.
 
-<span id="fn_88"></span>[84:\*](hmvp14.htm#fr_88) "Indian Wisdom," p.
+<span id="fn_88"></span>[84:\*](hmvp14.htm#fr_88.md) "Indian Wisdom," p.
 395.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Purānas](hmvp15)
+[Next: Chapter I. The Purānas](hmvp15.md)

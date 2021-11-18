@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre01)  [Next](gre03) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre01)  [Next](gre03.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ akin to ourselves.
 
 Those, to whom the subject is new, we must refer to the translations
 already made of some other of these works, <span
-id="fr_0"></span>[\*](#fn_0) and to the notes which accompany them: a
+id="fr_0"></span>[\*](#fn_0.md) and to the notes which accompany them: a
 few notes at the end of this volume may be of use to students of Saga
 literature.
 
@@ -38,7 +38,7 @@ or than the unstrung gems of Eyrbyggja, and the great compilation of
 Snorri Sturluson, the History of the Kings of Norway.
 
 At any rate, we repeat, whatever place among the best Sagas may be given
-to Grettla <span id="fr_1"></span>[\*](#fn_1) by readers of such things,
+to Grettla <span id="fr_1"></span>[\*](#fn_1.md) by readers of such things,
 it must of necessity be held to be one of the best in all ways; nor will
 those, we hope, of our readers who have not yet turned their attention
 to the works written in the Icelandic tongue, fail
@@ -63,7 +63,7 @@ in Norway, in the lands West over the Sea and in Iceland, and are
 interesting and in many points necessary for the understanding of the
 subsequent story; one of these we note here for the reader's
 convenience, viz. the consanguinity of Grettir and King Olaf the
-Saint; <span id="fr_2"></span>[\*](#fn_2) for it adds strongly to the
+Saint; <span id="fr_2"></span>[\*](#fn_2.md) for it adds strongly to the
 significance of the King's refusal to entertain Grettir at his court, or
 to go further into the case of the murder- he was falsely accused of,
 
@@ -317,7 +317,7 @@ EIRÍKR MAGNÚSSON, WILLIAM MORRIS.
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:\*](gre02.htm#fr_0) Such as 'Burnt Nial,'
+<span id="fn_0"></span>[v:\*](gre02.htm#fr_0.md) Such as 'Burnt Nial,'
 Edinburgh 1861, 8vo, and 'Gisli the Outlaw,' Edinburgh, 1866, 4vo, by
 Dasent the 'Saga of Viga-Glum,' London, 1866, 8vo, by Sir E. Head; the
 'Heimskringla,' London, 1844, 8vo, by S. Laing; the 'Eddas,' Prose by
@@ -326,7 +326,7 @@ Thorpe, London and Halle, 1866, and the 'Saga of Gunnlaug the
 Worm-tongue,' by Magnússon and Morris, in the *Fortnightly Review*, Jan.
 1869.
 
-<span id="fn_1"></span>[vi:\*](gre02.htm#fr_1) Such is the
+<span id="fn_1"></span>[vi:\*](gre02.htm#fr_1.md) Such is the
 conversational title of this Saga; many of the other Sagas have their
 longer title abbreviated in a like manner: Egil's saga becomes Egla,
 Njal's saga Njála; Eyrbyggja saga, Laxdæla saga, Vatnsdæla saga,
@@ -338,7 +338,7 @@ settlings, becomes Landnáma (fern. sing. regularly declined, bók being
 understood); lastly, Sturlunga saga the Saga of the mighty family of the
 Sturlungs, becomes Sturlunga in the same manner.
 
-<span id="fn_2"></span>[vii:\*](gre02.htm#fr_2)
+<span id="fn_2"></span>[vii:\*](gre02.htm#fr_2.md)
 
 |                       |            |                  |
 |-----------------------|------------|------------------|
@@ -352,4 +352,4 @@ Sturlungs, becomes Sturlunga in the same manner.
 
 ------------------------------------------------------------------------
 
-[Next: CHRONOLOGY OF THE STORY](gre03)
+[Next: CHRONOLOGY OF THE STORY](gre03.md)

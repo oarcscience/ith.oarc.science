@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](fons06)  [Next](fons08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](fons06)  [Next](fons08.md) 
 
 ------------------------------------------------------------------------
 
@@ -532,4 +532,4 @@ previously of the other substances.
 
 ------------------------------------------------------------------------
 
-[Next: Part VII](fons08)
+[Next: Part VII](fons08.md)

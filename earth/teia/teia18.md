@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](teia17)  [Next](teia19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](teia17)  [Next](teia19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -115,7 +115,7 @@ seen by the courtiers a mounted troop so wild, so eager, so formidable.
 Turning from them to the marble urn, the king drew from it a parchment,
 which said: "These are the people who, whenever this cave is entered and
 the spell contained in this urn is broken, shall possess this country.
-An idle curiosity has done its work. <span id="fr_1"></span>[1](#fn_1)
+An idle curiosity has done its work. <span id="fr_1"></span>[1](#fn_1.md)
 
 <span id="page_148">p. 148</span>
 
@@ -507,7 +507,7 @@ have not been recorded until the telling of this tale.
 
 ### Footnotes
 
-<span id="fn_1"></span>[147:1](teia18.htm#fr_1)
+<span id="fn_1"></span>[147:1](teia18.htm#fr_1.md)
 
 "*Latinas letras á la margen puestas  
 Decian*:--'*Cuando aquesta puerta y arca  
@@ -517,4 +517,4 @@ Pondrán por tierra cuanto España abarca*.'"
 
 ------------------------------------------------------------------------
 
-[Next: XVI. Harald The Viking](teia19)
+[Next: XVI. Harald The Viking](teia19.md)

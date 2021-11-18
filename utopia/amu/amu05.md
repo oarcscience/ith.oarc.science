@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](amu04)  [Next](amu06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](amu04)  [Next](amu06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -190,7 +190,7 @@ and that under the Utopian conditions to which we shall come when
 presently we strike yonder road, it may be reduced to quite manageable
 dimensions. But this is to be effected not by the suppression of
 individualities to some common pattern, <span
-id="fr_2"></span>[3](#fn_2) but by the broadening of public charity and
+id="fr_2"></span>[3](#fn_2.md) but by the broadening of public charity and
 the general amelioration of mind and manners. It is not by assimilation,
 that is to say, but by understanding that the modern Utopia achieves
 itself. The ideal community of man's past was one with a common belief,
@@ -714,7 +714,7 @@ of financially impotent and sufficiently ingenious fools.
 
 In Utopia, a great multitude of selected men, chosen volunteers, will be
 collaborating upon this new step in man's struggle with the elements.
-Bacon's visionary House of Saloman <span id="fr_3"></span>[4](#fn_3)
+Bacon's visionary House of Saloman <span id="fr_3"></span>[4](#fn_3.md)
 will be a thing realised, and it will be humming with this business.
 Every university in the world will be urgently working for priority in
 this aspect of the problem or that. Reports of experiments, as full and
@@ -860,7 +860,7 @@ and kidney, a fact now universally recognised and advertised throughout
 America; and tea, except for a kind of green tea best used with
 discretion in punch, tans the entrails and turns honest stomachs into
 leather bags. Rather would I be Metchnikoffed  <span
-id="fr_4"></span>[5](#fn_4) at once and have a clean, good stomach of
+id="fr_4"></span>[5](#fn_4.md) at once and have a clean, good stomach of
 German silver. No! If we are to have no ale in Utopia, give me the one
 clean temperance drink that is worthy to set beside wine, and that is
 simple water. Best it is when not quite pure and with a trace of organic
@@ -920,15 +920,15 @@ sleep. . . .
 
 ### Footnotes
 
-<span id="fn_2"></span>[3](amu05.htm#fr_2) More's *Utopia*. "Whoso will
+<span id="fn_2"></span>[3](amu05.htm#fr_2.md) More's *Utopia*. "Whoso will
 may go in, for there is nothing within the houses that is private or
 anie man's owne."
 
-<span id="fn_3"></span>[4](amu05.htm#fr_3) In *The New Atlantis*.
+<span id="fn_3"></span>[4](amu05.htm#fr_3.md) In *The New Atlantis*.
 
-<span id="fn_4"></span>[5](amu05.htm#fr_4) See *The Nature of Man*, by
+<span id="fn_4"></span>[5](amu05.htm#fr_4.md) See *The Nature of Man*, by
 Professor Elie Metchnikoff.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three](amu06)
+[Next: Chapter Three](amu06.md)

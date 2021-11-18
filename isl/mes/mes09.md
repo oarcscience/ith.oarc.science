@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes08)  [Next](mes10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes08)  [Next](mes10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,8 +21,8 @@ Textual Heritage
 ### CHAPTER VI.
 
 Chelebī Husāmu-’l-Haqqi-wa-’d-Dīn, Hasan, son of Muhammed, son of Hasan,
-son of Akhī-Turk, <span id="fr_28"></span>[1](#fn_27) related to
-Esh-Sheykhu-’l-Mukerrem. <span id="fr_29"></span>[2](#fn_28)
+son of Akhī-Turk, <span id="fr_28"></span>[1](#fn_27.md) related to
+Esh-Sheykhu-’l-Mukerrem. <span id="fr_29"></span>[2](#fn_28.md)
 
 #### 1.
 
@@ -30,7 +30,7 @@ Esh-Sheykhu-’l-Mukerrem. <span id="fr_29"></span>[2](#fn_28)
 Husāmu-’d-Dīn was appointed by Jelāl his assistant in place of the
 deceased saint. For another ten years these two spiritual friends worked
 together in perfect unity as Superior and Assistant. Husām was surnamed
-"the Juneyd and the Bāyezīd <span id="fr_30"></span>[3](#fn_29) of the
+"the Juneyd and the Bāyezīd <span id="fr_30"></span>[3](#fn_29.md) of the
 age," "the Key of the Treasuries of God's throne," "the Trustee of the
 Treasures on earth," and "God's next Friend in the World."
 
@@ -199,7 +199,7 @@ question; and Ahmed's son, Akhī ‘Alī, was a disciple of Sultan Veled.
 #### 10.
 
 Jelālu-’d-Dīn was of the school of Abū-Hanīfa; but Husām belonged to
-that of Shāfi‘ī. <span id="fr_31"></span>[1](#fn_30) He thought of
+that of Shāfi‘ī. <span id="fr_31"></span>[1](#fn_30.md) He thought of
 joining the Hanefī school, out of deference to his teacher. Jelāl,
 however, recommended him to remain what he had always been, and to
 strive to inculcate to all the doctrine of divine love, as set forth by
@@ -299,7 +299,7 @@ bearers recovered the use of their limbs, and found themselves able to
 proceed. All now went well, and the interment was completed.
 
 That same night, a holy man of the fraternity saw Kirā Khātūn in heaven
-near to her husband. <span id="fr_32"></span>[1](#fn_31) He inquired of
+near to her husband. <span id="fr_32"></span>[1](#fn_31.md) He inquired of
 her concerning the arrestation of the funeral. She informed him thus:
 "The day previous, a man and a woman had been stoned to death at that
 gate for the sin of adultery. I took compassion on them, interceded for
@@ -354,29 +354,29 @@ Goldbeater, and their various dependants.
 
 ### Footnotes
 
-<span id="fn_27"></span>[113:1](mes09.htm#fr_28) I have not met with any
+<span id="fn_27"></span>[113:1](mes09.htm#fr_28.md) I have not met with any
 notice of Akhī-Turk.
 
-<span id="fn_28"></span>[113:2](mes09.htm#fr_29) *The Honoured Elder;*
+<span id="fn_28"></span>[113:2](mes09.htm#fr_29.md) *The Honoured Elder;*
 by which Abū-Bekr is probably intended; but see a note to the Preface of
 the Mesnevī.
 
-<span id="fn_29"></span>[113:3](mes09.htm#fr_30) Juneyd and Bāyezīd of
+<span id="fn_29"></span>[113:3](mes09.htm#fr_30.md) Juneyd and Bāyezīd of
 Bestām were two great doctors of mysticism; the latter died in <span
 class="smallcaps">a.h.</span> 234 or 261 (<span
 class="smallcaps">a.d.</span> 848 or 874), and the former in <span
 class="smallcaps">a.h.</span> 297-8 (<span class="smallcaps">a.d.</span>
 909-10).
 
-<span id="fn_30"></span>[117:1](mes09.htm#fr_31) These are two of the
+<span id="fn_30"></span>[117:1](mes09.htm#fr_31.md) These are two of the
 four orthodox schools of Islām; they differ in certain details. There
 are reputed to be seventy-two schismatic or heretical sects.
 
-<span id="fn_31"></span>[120:1](mes09.htm#fr_32) This anecdote directly
+<span id="fn_31"></span>[120:1](mes09.htm#fr_32.md) This anecdote directly
 contradicts the foolish idea, so common in Europe, that, in the
 religious system of Islām, women are held to have no souls, and no hope
 of paradise.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](mes10)
+[Next: Chapter VII](mes10.md)

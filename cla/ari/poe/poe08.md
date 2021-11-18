@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe07)  [Next](poe09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe07)  [Next](poe09.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ fortune to good, or from good fortune to bad.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Plot must be a Unity](poe09)
+[Next: VIII. The Plot must be a Unity](poe09.md)

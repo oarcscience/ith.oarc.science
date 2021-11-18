@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca50)  [Next](fsca52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca50)  [Next](fsca52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ at Intangible Textual Heritage
 <span id="page_209">p. 209</span>
 
 <span id="img_20900"></span> ![The Crowned Salamander of Francis
-I.](img/20900.jpg)
+I.](img/20900.jpg.md)
 
 ### The Salamander
 
@@ -86,7 +86,7 @@ fire and existing in flames, an element which must inevitably prove
 destructive of life. Pliny describes it as "a sort of lizard which seeks
 the hottest fire to breed in, but quenches it with the extreme frigidity
 of its body." He tells us he tried the experiment once, but the creature
-was soon reduced to powder. <span id="fr_25"></span>[\*](#fn_25)
+was soon reduced to powder. <span id="fr_25"></span>[\*](#fn_25.md)
 
 Gregory of Nazianzen says that the salamander not only lived in and
 delighted in flames, but extinguished fire. St. Epiphanius compares the
@@ -106,7 +106,7 @@ dragon or lizard, surrounded by and breathing forth flames. Sometimes it
 is represented somewhat like a dog breathing flames. A
 
 <span id="img_21200"></span> ![Salamander crest of James, Earl of
-Douglas. From garter-plate.](img/21200.jpg)
+Douglas. From garter-plate.](img/21200.jpg.md)
 
 golden salamander is so represented on the garter-plate of James, Earl
 of Douglas, K.G., the first Scottish noble elected into the Order of the
@@ -146,9 +146,9 @@ class="smallcaps">Water</span>.
 
 ### Footnotes
 
-<span id="fn_25"></span>[211:\*](fsca51.htm#fr_25) "Natural History," x.
+<span id="fn_25"></span>[211:\*](fsca51.htm#fr_25.md) "Natural History," x.
 67, xxix. 4.
 
 ------------------------------------------------------------------------
 
-[Next: Heraldic Antelope](fsca52)
+[Next: Heraldic Antelope](fsca52.md)

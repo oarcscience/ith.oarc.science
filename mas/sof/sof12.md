@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof11)  [Next](sof13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof11)  [Next](sof13.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head10.png"></span> ![Header Chapter X.](img/head10.png)
+<span id="img_head10.png"></span> ![Header Chapter X.](img/head10.png.md)
 
 ## X.
 
@@ -32,7 +32,7 @@ that the ingenuity of man has devised. It is this that has bestowed upon
 it that attractive form which has always secured the attachment of its
 disciples and its own perpetuity.
 
-The Roman Catholic church [37](sof37.htm#xref_37) is, perhaps, the only
+The Roman Catholic church [37](sof37.htm#xref_37.md) is, perhaps, the only
 contemporaneous institution which continues to cultivate, in any degree,
 the beautiful system of symbolism. But that which, in the Catholic
 church, is, in a great measure, incidental, and the fruit of
@@ -48,7 +48,7 @@ system of Freemasonry, it will be well to commence any discussion of
 that subject by an investigation of the nature of symbols in general.
 
 There is no science so ancient as that of
-symbolism, [38](sof37.htm#xref_38) and no mode of instruction has ever
+symbolism, [38](sof37.htm#xref_38.md) and no mode of instruction has ever
 been so general as was the symbolic in former ages. "The first learning
 in the world," says the great antiquary, Dr. Stukely, "consisted chiefly
 of symbols. The wisdom of the Chaldeans, Phoenicians, Egyptians, Jews,
@@ -59,7 +59,7 @@ peculiarly agreeable to the genius of antiquity, and the simplicity of
 truth was continually sacrificed at the shrine of poetical decoration."
 
 In fact, man's earliest instruction was by
-symbols. [39](sof37.htm#xref_39) The objective character of a symbol is
+symbols. [39](sof37.htm#xref_39.md) The objective character of a symbol is
 best calculated to be grasped by the infant mind, whether the infancy of
 that mind be considered *nationally* or *individually*. And hence, in
 the first ages of the world, in its infancy, all propositions,
@@ -73,7 +73,7 @@ Again: children receive their elementary teaching in symbols. "A was an
 Archer;" what is this but symbolism? The archer becomes to the infant
 mind the symbol of the letter A, just as, in after life, the letter
 becomes, to the more advanced mind, the symbol of a certain sound of the
-human voice. [40](sof37.htm#xref_40) The first lesson received by a
+human voice. [40](sof37.htm#xref_40.md) The first lesson received by a
 child in acquiring his alphabet is thus conveyed by symbolism. Even in
 the very formation of language, the medium of communication between man
 and man, and which must hence have been an elementary step in the
@@ -84,7 +84,7 @@ construction of language was, therefore, one of the first products of
 the science of symbolism.
 
 We must constantly bear in mind this fact, of the primary existence and
-predominance of symbolism in the earliest times. [41](sof37.htm#xref_41)
+predominance of symbolism in the earliest times. [41](sof37.htm#xref_41.md)
 when we are investigating the nature of the ancient religions, with
 which the history of Freemasonry is so intimately connected. The older
 the religion, the more the symbolism abounds. Modern religions may
@@ -108,11 +108,11 @@ mythic, or explaining their mysteries by allegories, or instructive
 incidents. Nay, God himself, knowing the nature of the creatures formed
 by him, has condescended, in the earlier revelations that he made of
 himself, to teach by symbols; and the greatest of all teachers
-instructed the multitudes by parables. [42](sof37.htm#xref_42) The great
+instructed the multitudes by parables. [42](sof37.htm#xref_42.md) The great
 exemplar of the ancient philosophy and the grand archetype of modern
 philosophy were alike distinguished by their possessing this faculty in
 a high degree, and have told us that man was best instructed by
-similitudes."  [43](sof37.htm#xref_43)
+similitudes."  [43](sof37.htm#xref_43.md)
 
 Such is the system adopted in Freemasonry for the development and
 inculcation of the great religious and philosophical truths, of which it
@@ -124,6 +124,6 @@ particular use in the organization of the masonic institution.
 
 ------------------------------------------------------------------------
 
-[Next: XI. The Speculative Science and the Operative Art](sof13)
+[Next: XI. The Speculative Science and the Operative Art](sof13.md)
 
 </div>

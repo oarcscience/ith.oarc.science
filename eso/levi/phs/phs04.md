@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Esoteric](../../index) 
-[Eliphas Levi](../index)  [Index](index)  [Previous](phs03) 
-[Next](phs05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Esoteric](../../index.md) 
+[Eliphas Levi](../index)  [Index](index)  [Previous](phs03.md) 
+[Next](phs05.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ thunders, the mercy which damns, the infinite goodness which tortures,
 the eternity which perishes; an infinite contradiction; the abyss of the
 human heart, serving as a world for an insatiable and terrifying idol;
 the cruelty of Nero, the policy of Tiberius drinking the blood of Jesus
-Christ, <span id="fr_0"></span>[1](#fn_0) a pope emperor, or an emperor
+Christ, <span id="fr_0"></span>[1](#fn_0.md) a pope emperor, or an emperor
 antipope, the king of kings, the pontiff
 
 <span id="page_3">p. 3</span>
@@ -68,7 +68,7 @@ amongst savages, instinct with human passions amidst the Greeks, an
 Oriental despot for the Jews, jealous and merciless for the
 Ultramontanes as a celibate priest. One and all create a personage whom
 they endow in an infinite degree with their own characteristics and
-their own defects. <span id="fr_1"></span>[1](#fn_1)
+their own defects. <span id="fr_1"></span>[1](#fn_1.md)
 
 <span id="page_4">p. 4</span>
 
@@ -83,7 +83,7 @@ love, for love raised to a high pitch admits no longer the barriers of
 the possible; the impossible is its dream, and miracle, for it, reality.
 What would avail a religion that did not give us the infinite? What is
 Protestantism with its sacrament devoid of reality? <span
-id="fr_2"></span>[1](#fn_2) Sad as an extinguished taper or a dismantled
+id="fr_2"></span>[1](#fn_2.md) Sad as an extinguished taper or a dismantled
 church! How can the bread consecrated by the word represent Jesus Christ
 if it be not Jesus himself? What folly if the Christ be not divinity! A
 fine piece of worship, truly, to chew a mouthful of bread--alas for him
@@ -156,7 +156,7 @@ Dominic is still none the less the son of the cruel God of Moses, but
 the ferocious beasts of Daniel and the Apocalypse must inevitably
 disappear to make room for the dove and the lamb. God will truly have
 made himself man, when he shall have caused men to become as good as a
-God ought to be. <span id="fr_3"></span>[1](#fn_3) The genius of man, in
+God ought to be. <span id="fr_3"></span>[1](#fn_3.md) The genius of man, in
 developing itself in the course of ages, unrolls the genealogy of the
 Gods. It is in the genius of man that an eternal Ancient of Days begets
 a son that must succeed to his father and in which proceeds, from father
@@ -175,28 +175,28 @@ and since God has made himself man, that is to say, since God neither
 really lives for us, nor personifies himself, nor thinks, nor loves, nor
 speaks, save only in humanity, the ideal woman, the typical woman, the
 *collective woman, is truly the mother of God*. <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
 <span id="page_9">p. 9</span>
 
 There is redemption, that is to say, solidarity amongst men; the good
 suffer for the bad, and the just pay the debts of the sinners. <span
-id="fr_5"></span>[1](#fn_5) Thus, all is true in the dogmas of religion
+id="fr_5"></span>[1](#fn_5.md) Thus, all is true in the dogmas of religion
 when once we have the key to the enigma. *Catholicism is the Sphynx of
 modern times. Place yourself under its talons, without guessing its
 riddle, and it devours you; guess its riddle without conquering it, or
 only half guess it, and you are doomed like Œdipus to misfortune and
 self-imposed blindness*. An intelligent Catholic ought not to leave the
-church, he ought to remain in it <span id="fr_6"></span>[2](#fn_6); wise
+church, he ought to remain in it <span id="fr_6"></span>[2](#fn_6.md); wise
 amidst the ignorant, free amidst slaves, to enlighten the former and
 liberate the latter, for I once more repeat that there is no true
 religion outside the pale of Catholicity. <span
-id="fr_7"></span>[3](#fn_7)
+id="fr_7"></span>[3](#fn_7.md)
 
 The rationale of a religion is to be *ir*rational! Its nature is to be
 *super*natural. God is supersubstantial. Space and the universal
 substance are the Infinite, God is within it, for he is the knowledge
-and the power of the infinite. <span id="fr_8"></span>[4](#fn_8)
+and the power of the infinite. <span id="fr_8"></span>[4](#fn_8.md)
 
 <span id="page_10">p. 10</span>
 
@@ -297,7 +297,7 @@ will reign in Rome in your place. All the Gods of the Empire and of the
 entire world will fall before his image; the instrument of his
 punishment will become the symbol of Salvation." What madness is
 Christianity if it be not superhuman! What an awful faith, that in Jesus
-Christ, if he be not God! <span id="fr_9"></span>[1](#fn_9) Can you
+Christ, if he be not God! <span id="fr_9"></span>[1](#fn_9.md) Can you
 conceive a mental disease, contagious enough to infect with delirium
 through a long series of centuries almost the whole of humanity? What a
 deluge of blood has that abolisher of bloody sacrifices caused to flow!
@@ -313,9 +313,9 @@ humanity. "*Emmanuel* 
 
 \[paragraph continues\] *God is in us," would say as they embraced each
 other the Brothers of the Rosy Cross, initiated in the mystery of the
-Man-God*. <span id="fr_10"></span>[1](#fn_10) For truly the Son of Man
+Man-God*. <span id="fr_10"></span>[1](#fn_10.md) For truly the Son of Man
 is at the same time the only and multiple Son of God. <span
-id="fr_11"></span>[2](#fn_11) You are one with me, said the Master to
+id="fr_11"></span>[2](#fn_11.md) You are one with me, said the Master to
 his disciples, as my Father and I are one; he who hears you hears me,
 and he who sees me, sees my Father. Triumph and miracle! God is no
 longer unknown to men, because man knows man. He is no longer invisible
@@ -336,7 +336,7 @@ Ivory, Sanctuary of Gold, Mysterious Rose, Sacred
 
 \[paragraph continues\] Vase of Devotion, Honourable Vase, Admirable
 Vase, Pyxis of Love, Cup of Holy Desires, <span
-id="fr_12"></span>[1](#fn_12) Star of the Morning, Arch of the Alliance.
+id="fr_12"></span>[1](#fn_12.md) Star of the Morning, Arch of the Alliance.
 
 Ob! what cries of love do all those *martyrs, self-condemned to eternal
 widowhood*, raise, *without comprehending them*, to thee! Oh cruel,
@@ -367,10 +367,10 @@ one knows, is power*.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](phs04.htm#fr_0) The Western Ideal of
+<span id="fn_0"></span>[2:1](phs04.htm#fr_0.md) The Western Ideal of
 Good.--E. O.
 
-<span id="fn_1"></span>[3:1](phs04.htm#fr_1) In a Review of Wilson's
+<span id="fn_1"></span>[3:1](phs04.htm#fr_1.md) In a Review of Wilson's
 "Chapters on Evolution" in *Knowledge* for February 23rd, 1883, the
 following passage occurs showing how Western science is slowly drifting
 into the position occupied for thousands of years by the Occultists:--
@@ -394,11 +394,11 @@ things, and desperately wicked'. So that, on the whole, the new teaching
 was a more cheerful one apart from religious hopes and fears,--which do
 not belong to our inquiry here."--*Trans*.
 
-<span id="fn_2"></span>[4:1](phs04.htm#fr_2) *i.e.*, in which the bread
+<span id="fn_2"></span>[4:1](phs04.htm#fr_2.md) *i.e.*, in which the bread
 and wine are not supposed to be really transmuted into Christ's flesh
 and blood, as is held by the Romish Church.--*Trans*.
 
-<span id="fn_3"></span>[7:1](phs04.htm#fr_3) That is to say when the
+<span id="fn_3"></span>[7:1](phs04.htm#fr_3.md) That is to say when the
 Seventh Round men appear on the scene, then only shall there be a God
 for the sons of man.--E. O.
 
@@ -407,7 +407,7 @@ by limited and conditioned intellects; but this is a different thing
 from the assertion that there is *no* God, though this latter is, no
 doubt, the view taken by E. O.--*Trans*.
 
-<span id="fn_4"></span>[8:1](phs04.htm#fr_4) Woman taken collectively is
+<span id="fn_4"></span>[8:1](phs04.htm#fr_4.md) Woman taken collectively is
 of course Mother of God--Humanity, but has Éliphas no other God? No, but
 he has an enemy--Rome. E. L. was an atheist and a poet. He was also a
 diplomatist; he seeks to win over and not to frighten away his
@@ -429,24 +429,24 @@ of these laws and manifestations, *no* God in fact, another, and one to
 which, to my mind, neither Éliphas Lévi, nor any other occultist of his
 school, would commit himself.--*Trans*.
 
-<span id="fn_5"></span>[9:1](phs04.htm#fr_5) But this is *not* the case
+<span id="fn_5"></span>[9:1](phs04.htm#fr_5.md) But this is *not* the case
 in reality, though to a superficial observer it may often seem so. On
 the contrary, each and all inevitably pay to the last farthing their own
 debts (incurred in the current of previous lives) and these only, and
 pay them either in this or in future lives.--*Trans*.
 
-<span id="fn_6"></span>[9:2](phs04.htm#fr_6) And that is why E. L. left
+<span id="fn_6"></span>[9:2](phs04.htm#fr_6.md) And that is why E. L. left
 it--for the sake of a Paradox.--E. O.
 
-<span id="fn_7"></span>[9:3](phs04.htm#fr_7) A play upon
+<span id="fn_7"></span>[9:3](phs04.htm#fr_7.md) A play upon
 words--Catholicity means with him *Universality*.--E. O.
 
-<span id="fn_8"></span>[9:4](phs04.htm#fr_8) Our doctrine: Space and
+<span id="fn_8"></span>[9:4](phs04.htm#fr_8.md) Our doctrine: Space and
 Universal *Swābhāvat*--Matter: Force is within. Manifesting under this
 <span id="page_10">p. 10</span> Trinitarian form, a God, for the
 ignorant and the blind.--E. O.
 
-<span id="fn_9"></span>[13:1](phs04.htm#fr_9)
+<span id="fn_9"></span>[13:1](phs04.htm#fr_9.md)
 
 > "Now the Virgin returns, the golden age returns,  
 > Now a new offspring is sent down from high Heaven,  
@@ -455,18 +455,18 @@ ignorant and the blind.--E. O.
 >
 > Virgil died September 22nd, 19 B.C. Was he a Prophet?--E. O.
 
-<span id="fn_10"></span>[14:1](phs04.htm#fr_10) "Man is God and Son of
+<span id="fn_10"></span>[14:1](phs04.htm#fr_10.md) "Man is God and Son of
 God, and there is no other God but man." (The secret pledge of the
 Rosicrucians).--E. O.
 
-<span id="fn_11"></span>[14:2](phs04.htm#fr_11) "Humanity--Son of
+<span id="fn_11"></span>[14:2](phs04.htm#fr_11.md) "Humanity--Son of
 Eternity."--E. O.
 
-<span id="fn_12"></span>[15:1](phs04.htm#fr_12) Compare these
+<span id="fn_12"></span>[15:1](phs04.htm#fr_12.md) Compare these
 expressions taken from the litanies of the R. C. Church with like sexual
 flatteries addressed to Durga's idol (the *Yoni*) by Hindu devotees and
 the litanies of the Vallabacharyas to the God of Love.--E. O.
 
 ------------------------------------------------------------------------
 
-[Next: Paradox II.--Liberty is Obedience to the Law](phs05)
+[Next: Paradox II.--Liberty is Obedience to the Law](phs05.md)

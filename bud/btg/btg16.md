@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg15)  [Next](btg17) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg15)  [Next](btg17.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ and taking another road he went away.
 
 ------------------------------------------------------------------------
 
-[Next: The Sermon At Benares](btg17)
+[Next: The Sermon At Benares](btg17.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca21)  [Next](ntca23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca21)  [Next](ntca23.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,9 +101,9 @@ that they never know their secret names.
 | Son                                       | Appungerta | Witchetty grub                                 | Unchalka                                        | Kintabrinjilika.         |
 | Son                                       | Appungerta | Emu                                            | Arkaliliaka                                     | Ariaka.                  |
 | Son                                       | Appungerta | Eagle hawk                                     | Karra-wunchirka                                 | Kintji-iruka.            |
-| Son                                       | Appungerta | Arakurta <span id="fr_194"></span>[1](#fn_194) | Wangallia                                       | Atnam-juru-wulika.       |
-| Daughter                                  | Appungerta | Witchetty grub                                 | Chantunga <span id="fr_195"></span>[2](#fn_195) | Upata-pur-uilika.        |
-| Daughter                                  | Appungerta | Witchetty grub                                 | Chantunga <span id="fr_196"></span>[2](#fn_195) | Lalku-lalkudia.          |
+| Son                                       | Appungerta | Arakurta <span id="fr_194"></span>[1](#fn_194.md) | Wangallia                                       | Atnam-juru-wulika.       |
+| Daughter                                  | Appungerta | Witchetty grub                                 | Chantunga <span id="fr_195"></span>[2](#fn_195.md) | Upata-pur-uilika.        |
+| Daughter                                  | Appungerta | Witchetty grub                                 | Chantunga <span id="fr_196"></span>[2](#fn_195.md) | Lalku-lalkudia.          |
 | FAMILY 3.                                 |            |                                                |                                                 |                          |
 | Husband                                   | Bulthara   | Witchetty grub                                 | Unchalka                                        | Akukathurika.            |
 | Wife, 1                                   | Kumara     | Lace lizard                                    | Erliwatchera                                    | Arularintika.            |
@@ -121,7 +121,7 @@ that they never know their secret names.
 | Wife                                      | Kumara     | Witchetty grub                                 | Untherqua brinia                                | Ilparta-paurliaka.       |
 | Son                                       | Uknaria    | Kangaroo                                       | Kulla-kulla                                     | Nita-wilyiaka.           |
 | Daughter                                  | Uknaria    | Witchetty grub                                 | Chauritji-rinia                                 | Nungua.                  |
-| Son <span id="fr_197"></span>[3](#fn_196) | Uknaria    | Witchetty grub                                 | Inti-illa                                       |                          |
+| Son <span id="fr_197"></span>[3](#fn_196.md) | Uknaria    | Witchetty grub                                 | Inti-illa                                       |                          |
 
 </div>
 
@@ -129,19 +129,19 @@ that they never know their secret names.
 
 ### Footnotes
 
-<span id="fn_194"></span>[639:1](ntca22.htm#fr_194) Arakurta of the
+<span id="fn_194"></span>[639:1](ntca22.htm#fr_194.md) Arakurta of the
 Elonka totem, the latter being a plant, *Marsdenia sp*., the fruit of
 which is called *Elonka*.
 
-<span id="fn_195"></span>[639:2](ntca22.htm#fr_196) Sometimes, as in
+<span id="fn_195"></span>[639:2](ntca22.htm#fr_196.md) Sometimes, as in
 this case, two sisters or two brothers have the same name. They are not
 twins.
 
-<span id="fn_196"></span>[639:3](ntca22.htm#fr_197) This child is an
+<span id="fn_196"></span>[639:3](ntca22.htm#fr_197.md) This child is an
 infant and has, as yet, no sacred name.
 
 ------------------------------------------------------------------------
 
 [Next: Appendix B. The Wilyaru Ceremony of the Urabunna Tribe, Together
 with References to Mr. Gason's Account of the Dieri (Dieyerie)
-Tribe](ntca23)
+Tribe](ntca23.md)

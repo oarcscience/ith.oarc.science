@@ -1,32 +1,32 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat02)  [Next](yat04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat02)  [Next](yat04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
 <span id="page_6">p. 6</span>
 
-# I. CENTRAL DIALECT (Gat‘ā'<sup>?</sup>i)  <span id="fr_3"></span>[3a](#fn_3)
+# I. CENTRAL DIALECT (Gat‘ā'<sup>?</sup>i)  <span id="fr_3"></span>[3a](#fn_3.md)
 
-### 1. FLINT BOY. <span id="fr_4"></span>[26](#fn_4)
+### 1. FLINT BOY. <span id="fr_4"></span>[26](#fn_4.md)
 
 <span id="page_17">p. 17</span>
 
 I shall commence my myth.
 
 The Flint people were living at Djô'djanu. <span
-id="fr_5"></span>[27](#fn_5) The Flint people quarreled with the Grizzly
+id="fr_5"></span>[27](#fn_5.md) The Flint people quarreled with the Grizzly
 Bear people. All the Flint people dwelling together had a sweat-house.
 They used to go to hunt deer, but four were always missing when they
 returned home. The Grizzly Bears lay in wait for the Flint people, the
@@ -121,16 +121,16 @@ have big eyes.
 Now Flint Boy went out. "Grandmother, I shall go to the south," he said.
 "I shall go about." "Yes, go about!" "Grandmother, have you any acorn
 bread?" "Yes." Then she gave him her acorn bread in one round lump. He
-put his acorn bread <span id="fr_6"></span>[28](#fn_6) inside his
+put his acorn bread <span id="fr_6"></span>[28](#fn_6.md) inside his
 blanket, and held it wrapped up here. Now he went off, far away to the
 south. He came to a halt, looking down hill to the south. There was
 smoke and many Grizzly Bear women were building a fire, while it was
-raining, as it is now. <span id="fr_7"></span>[29](#fn_7) The Grizzly
+raining, as it is now. <span id="fr_7"></span>[29](#fn_7.md) The Grizzly
 Bear women were twenty in number and were digging up earth-worms. Flint
 Boy went to the fire, built by the Grizzly Bear women. There was nobody
 at the fire now, as the Grizzly Bear women were occupied in digging up
 earth-worms. The Grizzly Bear women had stuck their teeth in the ground
-in a circle about the fire. <span id="fr_8"></span>[30](#fn_8) Flint Boy
+in a circle about the fire. <span id="fr_8"></span>[30](#fn_8.md) Flint Boy
 laughed and said, as he stood near the fire, "Hê!" The Grizzly Bear
 women thereupon turned around to look. "Who is it?" they said. "Well!
 Come on, all of you." Flint Boy seized all the Grizzly Bear teeth that
@@ -182,7 +182,7 @@ Take care! Stay right around
 
 here, a little ways to the east." "What is your name?" Flint Boy asked
 the child. "My name is Little Gray Squirrel," <span
-id="fr_9"></span>[31](#fn_9) "Grandmother, what do you say to it? I
+id="fr_9"></span>[31](#fn_9.md) "Grandmother, what do you say to it? I
 shall take him along." "Go off to a great distance." "Grandmother, I
 wish to make a dog. We have no dog. What do you say to that!" "Do so!
 Make it, make it, make it!" "I shall go to hunt deer," said Flint Boy,
@@ -194,11 +194,11 @@ talk in any way at all." "I want to hear it," said Flint Boy. "Bark!"
 "Hū', hū! hū!" Flint Boy was frightened as the dog barked. The earth
 shook while the dog barked. The sound went from there to the north, it
 went from there to the south, it went from there to the east, it went
-from there to the west. <span id="fr_10"></span>[32](#fn_10) Flint Boy
+from there to the west. <span id="fr_10"></span>[32](#fn_10.md) Flint Boy
 looked at him and said, "It is good now."
 
 Now Flint Boy went off with his dog as far as up on the mountain here to
-the west. <span id="fr_11"></span>[33](#fn_11) "I want a woman," said
+the west. <span id="fr_11"></span>[33](#fn_11.md) "I want a woman," said
 Flint Boy, talking within his heart; so he took a wife. When it was
 daybreak he went up on the mountain to the west, taking the woman and
 his dog with him. The dog lay curled up beside the house. "Listen," he
@@ -233,13 +233,13 @@ he ran off. The two women cried, but the dog kept on barking, "Hū',
 hū'!" up above; he was now heard to bark, running off up to the sky. The
 dog melted away into the fog, rising up; indeed he was now flying up to
 the sky. People hear the dog barking in the sky. <span
-id="fr_12"></span>[34](#fn_12)
+id="fr_12"></span>[34](#fn_12.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_3"></span>[6:3a](yat03.htm#fr_3) The nine
+<span id="fn_3"></span>[6:3a](yat03.htm#fr_3.md) The nine
 gat‘ā'<sup>?</sup>i myths here given were obtained in December, 1907,
 just north of and across the Sacramento river from Redding, Shasta
 County. The informant was Sam Bat‘wī, one of the four or five Indians
@@ -266,7 +266,7 @@ attention was called to these lapses, he admitted the charge, and
 jocosely explained them as due to a too frequent dreaming and thinking
 about women.
 
-<span id="fn_4"></span>[6:26](yat03.htm#fr_4) This myth corresponds to
+<span id="fn_4"></span>[6:26](yat03.htm#fr_4.md) This myth corresponds to
 that of "The Hakas and the Tennas" (i.e., "The Flints and the Grizzly
 Bears") in Curtin's Creation Myths of Primitive America," pp. 297-310
 (notes on p. 521). Curtin's Haka and Hakaya'mchiwi correspond to *ha'ga*
@@ -279,42 +279,42 @@ allegory representing the struggle of fire or lightning, with which he
 identifies flint, and the clouds, which for unknown reasons the grizzly
 bears are supposed to represent, is altogether unwarranted. On the whole
 the two versions correspond satisfactorily; the latter portion of both,
-pp. 309-10 of Curtin and pp. [21](#page_21)-22 of this volume, is an
+pp. 309-10 of Curtin and pp. [21](#page_21.md)-22 of this volume, is an
 apparently quite unconnected account of the origin of thunder, a child
 dug up from the ground.
 
-<span id="fn_5"></span>[17:27](yat03.htm#fr_5) A mountain east of
+<span id="fn_5"></span>[17:27](yat03.htm#fr_5.md) A mountain east of
 Buzzard's Roost (or Round Mountain) near the headwaters of Montgomery
 creek, at which Terry's sawmill is now situated.
 
-<span id="fn_6"></span>[20:28](yat03.htm#fr_6) This "acorn bread" was
+<span id="fn_6"></span>[20:28](yat03.htm#fr_6.md) This "acorn bread" was
 really made of ground flint.
 
-<span id="fn_7"></span>[20:29](yat03.htm#fr_7) It happened to be raining
+<span id="fn_7"></span>[20:29](yat03.htm#fr_7.md) It happened to be raining
 when this story was dictated. Sam Bat‘wī was fond of illustrating his
 narratives by gestures, references to which are to be found here and
 there in the texts.
 
-<span id="fn_8"></span>[20:30](yat03.htm#fr_8) In Curtin's version (p.
+<span id="fn_8"></span>[20:30](yat03.htm#fr_8.md) In Curtin's version (p.
 305) the teeth are hung up on a tree near the fire.
 
-<span id="fn_9"></span>[22:31](yat03.htm#fr_9) Sam Bat‘wī found it at
+<span id="fn_9"></span>[22:31](yat03.htm#fr_9.md) Sam Bat‘wī found it at
 least curious that the newly-dug-up child should have known its own
 name, though none had been bestowed upon it. He suggested no
 explanation.
 
-<span id="fn_10"></span>[22:32](yat03.htm#fr_10) This sort of emphasis
+<span id="fn_10"></span>[22:32](yat03.htm#fr_10.md) This sort of emphasis
 on the cardinal points seems characteristic of northern California. The
 Yana texts give numerous examples of the formulaic rigmarole. In this
 passage there is the implied conclusion that the incident explains why
 nowadays dogs are found to bark in every direction.
 
-<span id="fn_11"></span>[22:33](yat03.htm#fr_11) The reference is to
+<span id="fn_11"></span>[22:33](yat03.htm#fr_11.md) The reference is to
 Bally Mountain, about 14 miles west of Redding, where the myth was told.
 Bally Mountain is in Wintun territory.
 
-<span id="fn_12"></span>[23:34](yat03.htm#fr_12) As thunder.
+<span id="fn_12"></span>[23:34](yat03.htm#fr_12.md) As thunder.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Theft Of Fire And The Burning Of The World](yat04)
+[Next: II. The Theft Of Fire And The Burning Of The World](yat04.md)

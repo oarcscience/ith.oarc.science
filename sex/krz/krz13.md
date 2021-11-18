@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz12)  [Next](krz14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz12)  [Next](krz14.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,4 +165,4 @@ ideal dream.
 
 ------------------------------------------------------------------------
 
-[Next: The Woman's Time of Great Desire](krz14)
+[Next: The Woman's Time of Great Desire](krz14.md)

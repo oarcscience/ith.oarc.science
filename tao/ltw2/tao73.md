@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao73)   
-[Previous](tao72)  [Next](tao74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao73.md)   
+[Previous](tao72)  [Next](tao74.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ may appear nothing escapes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 74](tao74)
+[Next: Chapter 74](tao74.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb11)  [Next](orfb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb11)  [Next](orfb13.md) 
 
 </div>
 
@@ -142,6 +142,6 @@ died, and no one in the world cared the least bit.
 
 ------------------------------------------------------------------------
 
-[Next: The Enchanted Wreath](orfb13)
+[Next: The Enchanted Wreath](orfb13.md)
 
 </div>

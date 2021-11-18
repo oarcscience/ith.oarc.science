@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](pdh48)  [Next](pdh50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](pdh48)  [Next](pdh50.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ art.
 
 ------------------------------------------------------------------------
 
-[Next: V](pdh50)
+[Next: V](pdh50.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos02)  [Next](mos04) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos02)  [Next](mos04.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,4 +153,4 @@ every passer by.
 
 ------------------------------------------------------------------------
 
-[Next: The Marriage of Jethro's Daughter and Moses](mos04)
+[Next: The Marriage of Jethro's Daughter and Moses](mos04.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](agjc170)  [Next](agjc172) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](agjc170)  [Next](agjc172.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHONOS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHONOS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Aquarian Gospel of Jesus Christ*, by Levi H. Dowling, \[1920\], at
 Intangible Textual Heritage
 
@@ -103,6 +103,6 @@ it on the shoulders of this man and made him bear it on to Calvary.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 169](agjc172)
+[Next: Chapter 169](agjc172.md)
 
 </div>

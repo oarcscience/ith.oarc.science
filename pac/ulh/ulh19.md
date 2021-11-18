@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh18)  [Next](ulh20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh18)  [Next](ulh20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -124,10 +124,10 @@ fair sex.
 
 <div style="margin-left: 32px">
 
-Kona kai opua <span id="fr_256"></span>[a](#fn_252) i kala i ka la’i;  
+Kona kai opua <span id="fr_256"></span>[a](#fn_252.md) i kala i ka la’i;  
 Opua hinano ua i ka malie;  
 Hiolo na wai naoa a ke kehau, <span id="page_118">p. 118</span>  
-Ke’ na-ú <span id="fr_257"></span>[a](#fn_253) la na kamalii,  
+Ke’ na-ú <span id="fr_257"></span>[a](#fn_253.md) la na kamalii,  
 5 Ke kaohi la i ke kukuna o ka la;  
 Ku’u la koili i ke kai--  
 Pumehana wale ia aina!  
@@ -200,10 +200,10 @@ the other islands of the Hawaiian group.
 
 ### Footnotes
 
-<span id="fn_252"></span>[117:a](ulh19.htm#fr_256) *Opua* means a
+<span id="fn_252"></span>[117:a](ulh19.htm#fr_256.md) *Opua* means a
 distinct cloud-pile, an omen, a weather-sign.
 
-<span id="fn_253"></span>[118:a](ulh19.htm#fr_257) The word *nu-ú*
+<span id="fn_253"></span>[118:a](ulh19.htm#fr_257.md) The word *nu-ú*
 refers to a sportive contest involving a trial of lung-power, that was
 practised by the youth of Kona, Hawaii, as well as of other places. They
 stood on the shore at sunset, and as the lower limb of the sun touched
@@ -219,4 +219,4 @@ trial.
 
 ------------------------------------------------------------------------
 
-[Next: XVI.--The Hula Íli-íli](ulh20)
+[Next: XVI.--The Hula Íli-íli](ulh20.md)

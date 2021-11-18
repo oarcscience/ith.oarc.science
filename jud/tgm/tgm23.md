@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm22)  [Next](tgm24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm22)  [Next](tgm24.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ Samuel, who received him kindly and protected him, from all his enemies,
 <span id="img_11100"></span>
 
 [![](tn/11100.jpg)  
-Click to enlarge](img/11100.jpg)
+Click to enlarge](img/11100.jpg.md)
 
  
 
@@ -128,4 +128,4 @@ Did you ever know anybody as faithful as that?
 
 ------------------------------------------------------------------------
 
-[Next: 21. The Law is Kind](tgm24)
+[Next: 21. The Law is Kind](tgm24.md)

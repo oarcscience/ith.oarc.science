@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mmi00)  [Next](mmi02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mmi00)  [Next](mmi02.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_145">p. 145</span>
 
-# INTRODUCTORY. <span id="fr_0"></span>[1](#fn_0)
+# INTRODUCTORY. <span id="fr_0"></span>[1](#fn_0.md)
 
 #### JAFL No. 73. pp. 145-64. \[1906\].
 
@@ -76,11 +76,11 @@ being towards simplicity, and always towards the truth.
 
 ### Footnotes
 
-<span id="fn_0"></span>[145:1](mmi01.htm#fr_0) This paper has been
+<span id="fn_0"></span>[145:1](mmi01.htm#fr_0.md) This paper has been
 communicated as part of the Proceedings of the California Branch of the
 American Folk-Lore Society.
 
 ------------------------------------------------------------------------
 
 [Next: The Story Of Cuy-a-ho-marr (The Chaup); The Manzanita Version
-(Diegueño)](mmi02)
+(Diegueño)](mmi02.md)

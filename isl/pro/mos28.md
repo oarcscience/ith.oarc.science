@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos27)  [Next](mos29) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos27)  [Next](mos29.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ people from the great distress(Al-Sâffât:114-115).
 
 ------------------------------------------------------------------------
 
-[Next: Some Sermons From The Stories of Moses and Aaron (PUT)](mos29)
+[Next: Some Sermons From The Stories of Moses and Aaron (PUT)](mos29.md)

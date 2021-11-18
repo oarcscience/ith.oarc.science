@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Next](sob01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Next](sob01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Science of Breath*, by Yogi Ramacharaka, pseud. William Atkinson,
 \[1904\], at Intangible Textual Heritage
 
@@ -39,4 +39,4 @@ published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](sob01)
+[Next: Table of Contents](sob01.md)

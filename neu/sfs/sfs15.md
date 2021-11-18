@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs14)  [Next](sfs16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs14)  [Next](sfs16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -63,7 +63,7 @@ proceeded further.
 
 The castle was of pure lead; round it flew the twelve ravens, and in
 front of it stood an old woman--it was Jezibaba <span
-id="fr_1"></span>[\*](#fn_1)--leaning on a long leaden staff. 'Ah, my
+id="fr_1"></span>[\*](#fn_1.md)--leaning on a long leaden staff. 'Ah, my
 son! whither have you come? Here there is neither bird nor insect to be
 seen, much less a human being,' said Jezibaba to the prince. 'Flee, if
 life is dear to you; for, if my son comes, he will devour you.' 'Ah! not
@@ -424,9 +424,9 @@ reigning yet, if he be yet alive.
 
 ### Footnotes
 
-<span id="fn_1"></span>[64:\*](sfs15.htm#fr_1) Jezibaba is said to
+<span id="fn_1"></span>[64:\*](sfs15.htm#fr_1.md) Jezibaba is said to
 represent winter.
 
 ------------------------------------------------------------------------
 
-[Next: XI. The Sun-Horse](sfs16)
+[Next: XI. The Sun-Horse](sfs16.md)

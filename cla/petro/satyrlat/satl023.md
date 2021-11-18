@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat05.htm#XXIII) 
-[Previous](satl022)  [Next](satl024) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat05.htm#XXIII.md) 
+[Previous](satl022)  [Next](satl024.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ nimbo laborare.
 
 ------------------------------------------------------------------------
 
-[Next: XXIV](satl024)
+[Next: XXIV](satl024.md)

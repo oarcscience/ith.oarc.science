@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr04)  [Next](wsgr06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr04)  [Next](wsgr06.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ The Indians wandered over the hills in
 <span id="img_01600"></span>
 
 [![](tn/01600.jpg)  
-Click to enlarge](img/01600.jpg)
+Click to enlarge](img/01600.jpg.md)
 
 <span id="page_17">p. 17</span>
 
@@ -171,4 +171,4 @@ once more returned springtime to the earth.
 
 ------------------------------------------------------------------------
 
-[Next: The Sweet Gum's Amber Tears](wsgr06)
+[Next: The Sweet Gum's Amber Tears](wsgr06.md)

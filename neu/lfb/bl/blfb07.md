@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb06)  [Next](blfb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb06)  [Next](blfb08.md) 
 
 </div>
 
@@ -389,6 +389,6 @@ children.
 
 ------------------------------------------------------------------------
 
-[Next: Cinderella, or the Little Glass Slipper](blfb08)
+[Next: Cinderella, or the Little Glass Slipper](blfb08.md)
 
 </div>

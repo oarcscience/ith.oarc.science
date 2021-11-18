@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss00)  [Next](jss02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss00)  [Next](jss02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -103,4 +103,4 @@ CHARLES W. ELIOT.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](jss02)
+[Next: Contents](jss02.md)

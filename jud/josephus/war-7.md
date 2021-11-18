@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ foundation, that there was left nothing to make those that came thither
 believe it had ever been inhabited. This was the end which Jerusalem
 came to by the madness of those that were for innovations; a city
 otherwise of great magnificence, and of mighty fame among all mankind.
-<span id="EndNote War 7.1a"></span>[(1)](#EndNote%20War%207.1b)
+<span id="EndNote War 7.1a"></span>[(1)](#EndNote%20War%207.1b.md)
 
 2\. But Caesar resolved to leave there, as a guard, the tenth legion,
 with certain troops of horsemen, and companies of footmen. So, having
@@ -150,7 +150,7 @@ astonished, and stood still where they were; but afterward they came
 nearer to him, and asked him who he was. Now Simon would not tell them,
 but bid them call for their captain; and when they ran to call him,
 Terentius Rufus <span
-id="EndNote War 7.2a"></span>[(2)](#EndNote%20War%207.2b) who was left
+id="EndNote War 7.2a"></span>[(2)](#EndNote%20War%207.2b.md) who was left
 to command the army there, came to Simon, and learned of him the whole
 truth, and kept him in bonds, and let Caesar know that he was taken.
 Thus did God bring this man to be punished for what bitter and savage
@@ -164,7 +164,7 @@ too weak to punish offenders, but in time overtakes those that
 transgress its laws, and inflicts its punishments upon the wicked in a
 manner, so much more severe, as they expected to escape it on account of
 their not being punished immediately. <span
-id="EndNote War 7.3a"></span>[(3)](#EndNote%20War%207.3b) Simon was made
+id="EndNote War 7.3a"></span>[(3)](#EndNote%20War%207.3b.md) Simon was made
 sensible of this by falling under the indignation of the Romans. This
 rise of his out of the ground did also occasion the discovery of a great
 number of others Of the seditious at that time, who had hidden
@@ -188,7 +188,7 @@ burnt, and fought with one another, exceeded two thousand five hundred.
 Yet did all this seem to the Romans, when they were thus destroyed ten
 thousand several ways, to be a punishment beneath their deserts. After
 this Caesar came to Berytus, <span
-id="EndNote War 7.4a"></span>[(4)](#EndNote%20War%207.4b) which is a
+id="EndNote War 7.4a"></span>[(4)](#EndNote%20War%207.4b.md) which is a
 city of Phoenicia, and a Roman colony, and staid there a longer time,
 and exhibited a still more pompous solemnity about his father's
 birthday, both in the magnificence of the shows, and in the other vast
@@ -225,7 +225,7 @@ began, and Vespasian was newly sailed to Syria, and all men had taken up
 a great hatred against the Jews, then it was that a certain person,
 whose name was Antiochus, being one of the Jewish nation, and greatly
 respected on account of his father, who was governor of the Jews at
-Antioch <span id="EndNote War 7.5a"></span>[(5)](#EndNote%20War%207.5b)
+Antioch <span id="EndNote War 7.5a"></span>[(5)](#EndNote%20War%207.5b.md)
 came upon the theater at a time when the people of Antioch were
 assembled together, and became an informer against his father, and
 accused both him and others that they had resolved to burn the whole
@@ -362,7 +362,7 @@ rulers, and understood that every part of the habitable earth under them
 was in an unsettled and tottering condition, they thought this was the
 best opportunity that couldd afford itself for themselves to make a
 sedition, when the state of the Romans was so ill. Classicus <span
-id="EndNote War 7.6a"></span>[(6)](#EndNote%20War%207.6b) also, and
+id="EndNote War 7.6a"></span>[(6)](#EndNote%20War%207.6b.md) also, and
 Vitellius, two of their commanders, puffed them up with such hopes.
 These had for a long time been openly desirous of such an innovation,
 and were induced by the present opportunity to venture upon the
@@ -433,7 +433,7 @@ one may see; after which days it runs on the seventh day as it did
 before, and as though it had undergone no change at all; it hath also
 been observed to keep this order perpetually and exactly; whence it is
 that they call it the Sabbatic River <span
-id="EndNote War 7.7a"></span>[(7)](#EndNote%20War%207.7b) that name
+id="EndNote War 7.7a"></span>[(7)](#EndNote%20War%207.7b.md) that name
 being taken from the sacred seventh day among the Jews.
 
 2\. But when the people of Antioch were informed that Titus was
@@ -500,7 +500,7 @@ in the case of his father. But what made the most splendid appearance in
 Titus's opinion was, when his father met him, and received him; but
 still the multitude of the citizens conceived the greatest joy when they
 saw them all three together, <span
-id="EndNote War 7.8a"></span>[(8)](#EndNote%20War%207.8b) as they did at
+id="EndNote War 7.8a"></span>[(8)](#EndNote%20War%207.8b.md) as they did at
 this time; nor were many days overpast when they determined to have but
 one triumph, that should be common to both of them, on account of the
 glorious exploits they had performed, although the senate had decreed
@@ -599,7 +599,7 @@ city that was taken, and the manner wherein he was taken. Moreover,
 there followed those pageants a great number of ships; and for the other
 spoils, they were carried in great plenty. But for those that were taken
 in the temple of Jerusalem, <span
-id="EndNote War 7.9a"></span>[(9)](#EndNote%20War%207.9b) they made the
+id="EndNote War 7.9a"></span>[(9)](#EndNote%20War%207.9b.md) they made the
 greatest figure of them all; that is, the golden table, of the weight of
 many talents; the candlestick also, that was made of gold, though its
 construction were now changed from that which we made use of; for its
@@ -707,7 +707,7 @@ might any way contribute to its inhabitants' security, under the longest
 siege possible.
 
 3\. Now within this place there grew a sort of rue <span
-id="EndNote War 7.10a"></span>[(10)](#EndNote%20War%207.10b) that
+id="EndNote War 7.10a"></span>[(10)](#EndNote%20War%207.10b.md) that
 deserves our wonder on account of its largeness, for it was no way
 inferior to any fig tree whatsoever, either in height or in thickness;
 and the report is, that it had lasted ever since the times of Herod, and
@@ -715,7 +715,7 @@ would probably have lasted much longer, had it not been cut down by
 those Jews who took possession of the place afterward. But still in that
 valley which encompasses the city on the north side there is a certain
 place called Baaras, which produces a root of the same name with itself
-<span id="EndNote War 7.11a"></span>[(11)](#EndNote%20War%207.11b) its
+<span id="EndNote War 7.11a"></span>[(11)](#EndNote%20War%207.11b.md) its
 color is like to that of flame, and towards the evenings it sends out a
 certain ray like lightning. It is not easily taken by such as would do
 it, but recedes from their hands, nor will yield itself to be taken
@@ -850,12 +850,12 @@ escape.
 6\. About the same time it was that Caesar sent a letter to Bassus, and
 to Liberius Maximus, who was the procurator \[of Judea\], and gave order
 that all Judea should be exposed to sale <span
-id="EndNote War 7.12a"></span>[(12)](#EndNote%20War%207.12b) for he did
+id="EndNote War 7.12a"></span>[(12)](#EndNote%20War%207.12b.md) for he did
 not found any city there, but reserved the country for himself. However,
 he assigned a place for eight hundred men only, whom he had dismissed
 from his army, which he gave them for their habitation; it is called
 Emmaus, <span
-id="EndNote War 7.13a"></span>[(13)](#EndNote%20War%207.13b) and is
+id="EndNote War 7.13a"></span>[(13)](#EndNote%20War%207.13b.md) and is
 distant from Jerusalem threescore furlongs. He also laid a tribute upon
 the Jews wheresoever they were, and enjoined every one of them to bring
 two drachmae every year into the Capitol, as they used to pay the same
@@ -1137,7 +1137,7 @@ pulse and dates heaped up together; all which Eleazar found there, when
 he and his Sicarii got possession of the fortress by treachery. These
 fruits were also fresh and full ripe, and no way inferior to such fruits
 newly laid in, although they were little short of a hundred years <span
-id="EndNote War 7.14a"></span>[(14)](#EndNote%20War%207.14b) from the
+id="EndNote War 7.14a"></span>[(14)](#EndNote%20War%207.14b.md) from the
 laying in these provisions \[by Herod\], till the place was taken by the
 Romans; nay, indeed, when the Romans got possession of those fruits that
 were left, they found them not corrupted all that while; nor should we
@@ -1229,7 +1229,7 @@ power, he consulted about having them all slain. Now as he judged this
 to be the best thing they could do in their present circumstances, he
 gathered the most courageous of his companions together, and encouraged
 them to take that course by a speech <span
-id="EndNote War 7.15a"></span>[(15)](#EndNote%20War%207.15b) which he
+id="EndNote War 7.15a"></span>[(15)](#EndNote%20War%207.15b.md) which he
 made to them in the manner following: "Since we, long ago, my generous
 friends, resolved never to be servants to the Romans, nor to any other
 than to God himself, who alone is the true and just Lord of mankind, the
@@ -1403,7 +1403,7 @@ destruction brought upon us; for you cannot but know that there was not
 any one Syrian city which did not slay their Jewish inhabitants, and
 were not more bitter enemies to us than were the Romans themselves; nay,
 even those of Damascus, <span
-id="EndNote War 7.16a"></span>[(16)](#EndNote%20War%207.16b) when they
+id="EndNote War 7.16a"></span>[(16)](#EndNote%20War%207.16b.md) when they
 were able to allege no tolerable pretense against us, filled their city
 with the most barbarous slaughters of our people, and cut the throats of
 eighteen thousand Jews, with their wives and children. And as to the
@@ -1455,7 +1455,7 @@ account, though it be now become vanity, and hath left us alone in this
 distress, let us make haste to die bravely. Let us pity ourselves, our
 children, and our wives while it is in our own power to show pity to
 them; for we were born to die, <span
-id="EndNote War 7.17a"></span>[(17)](#EndNote%20War%207.17b) as well as
+id="EndNote War 7.17a"></span>[(17)](#EndNote%20War%207.17b.md) as well as
 those were whom we have begotten; nor is it in the power of the most
 happy of our race to avoid it. But for abuses, and slavery, and the
 sight of our wives led away after an ignominious manner, with their
@@ -1602,7 +1602,7 @@ greatness of the danger they were in, complied with what was proposed,
 and ran with great violence upon the Sicarii, and seized upon them; and
 indeed six hundred of them were caught immediately: but as to all those
 that fled into Egypt <span
-id="EndNote War 7.18a"></span>[(18)](#EndNote%20War%207.18b) and to the
+id="EndNote War 7.18a"></span>[(18)](#EndNote%20War%207.18b.md) and to the
 Egyptian Thebes, it was not long ere they were caught also, and brought
 back, whose courage, or whether we ought to call it madness, or
 hardiness in their opinions, every body was amazed at. For when all
@@ -1623,7 +1623,7 @@ of this commotion; who having in suspicion the restless temper of the
 Jews for innovation, and being afraid lest they should get together
 again, and persuade some others to join with them, gave orders to Lupus
 to demolish that Jewish temple which was in the region called Onion,
-<span id="EndNote War 7.19a"></span>[(19)](#EndNote%20War%207.19b) and
+<span id="EndNote War 7.19a"></span>[(19)](#EndNote%20War%207.19b.md) and
 was in Egypt, which was built and had its denomination from the occasion
 following: Onias, the son of Simon, one of the Jewish high priests fled
 from Antiochus the king of Syria, when he made war with the Jews, and
@@ -1640,7 +1640,7 @@ very many of them would come over to him.
 
 3\. So Ptolemy complied with his proposals, and gave him a place one
 hundred and eighty furlongs distant from Memphis. <span
-id="EndNote War 7.20a"></span>[(20)](#EndNote%20War%207.20b) That Nomos
+id="EndNote War 7.20a"></span>[(20)](#EndNote%20War%207.20b.md) That Nomos
 was called the Nomos of Hellopolls, where Onias built a fortress and a
 temple, not like to that at Jerusalem, but such as resembled a tower. He
 built it of large stones to the height of sixty cubits; he made the
@@ -1755,7 +1755,7 @@ composition.
 
 ENDNOTE
 
-<span id="EndNote War 7.1b"></span>[(1)](#EndNote%20War%207.1a) Why the
+<span id="EndNote War 7.1b"></span>[(1)](#EndNote%20War%207.1a.md) Why the
 great Bochart should say, (De Phoenic. Colon. B. II. ch. iv.,) that"
 there are in this clause of Josephus as many mistakes as words," I do by
 no means understand. Josephus thought Melchisedek first built, or rather
@@ -1770,7 +1770,7 @@ tabernacle of Moses, Antiq. B. III. ch. 6. sect. 4; see also Antiq. B.
 lit. ch. 6. sect. 1; as he here presently uses, for a large and splendid
 synagogue of the Jews at Antioch, B. VII. ch. 3. sect. 3.
 
-<span id="EndNote War 7.2b"></span>[(2)](#EndNote%20War%207.2a) This
+<span id="EndNote War 7.2b"></span>[(2)](#EndNote%20War%207.2a.md) This
 Tereutius Rufus, as Reland in part observes here, is the same person
 whom the Talmudists call Turnus Rufus; of whom they relate, that "he
 ploughed up Sion as a field, and made Jerusalem become as heaps, and the
@@ -1778,15 +1778,15 @@ mountain of the house as the high Idaces of a forest;" which was long
 before foretold by the prophet Micah, ch. 3:12, and quoted from him in
 the prophecies of Jeremiah, ch. 26:18.
 
-<span id="EndNote War 7.3b"></span>[(3)](#EndNote%20War%207.3a) See
+<span id="EndNote War 7.3b"></span>[(3)](#EndNote%20War%207.3a.md) See
 Ecclesiastes 8:11.
 
-<span id="EndNote War 7.4b"></span>[(4)](#EndNote%20War%207.4a) This
+<span id="EndNote War 7.4b"></span>[(4)](#EndNote%20War%207.4a.md) This
 Berytus was certainly a Roman colony, and has coins extant that witness
 the same, as Hudson and Spanheim inform us. See the note on Antiq. B.
 XVI: ch. 11. sect. 1.
 
-<span id="EndNote War 7.5b"></span>[(5)](#EndNote%20War%207.5a) The Jews
+<span id="EndNote War 7.5b"></span>[(5)](#EndNote%20War%207.5a.md) The Jews
 at Antioch and Alexandria, the two principal cities in all the East, had
 allowed them, both by the Macedonians, and afterwards by the Romans, a
 governor of their own, who was exempt from the jurisdiction of the other
@@ -1796,7 +1796,7 @@ on this place out of Fuller's Miscellanies. They had the like governor
 or governors allowed them at Babylon under their captivity there, as the
 history of Susanna implies.
 
-<span id="EndNote War 7.6b"></span>[(6)](#EndNote%20War%207.6a) This
+<span id="EndNote War 7.6b"></span>[(6)](#EndNote%20War%207.6a.md) This
 Classicus, and Civilis, and Cerealis are names well known in Tacitus;
 the two former as moving sedition against the Romans, and the last as
 sent to repress them by Vespasian, just as they are here described in
@@ -1812,7 +1812,7 @@ while Suetonius seems to have been too young, and too low in life, to
 receive any remarkable favors from him; as Domitian was certainly very
 lewd and cruel, and generally hated, when Puetonius wrote about him.
 
-<span id="EndNote War 7.7b"></span>[(7)](#EndNote%20War%207.7a) Since in
+<span id="EndNote War 7.7b"></span>[(7)](#EndNote%20War%207.7a.md) Since in
 these latter ages this Sabbatic River, once so famous, which, by
 Josephus's account here, ran every seventh day, and rested on six, but
 according to Pliny, Nat. Hist. 31. II, ran perpetually on six days, and
@@ -1824,10 +1824,10 @@ several instances of such periodical fountains and. rivers, though none
 of their periods were that of a just week as of old this appears to have
 been.
 
-<span id="EndNote War 7.8b"></span>[(8)](#EndNote%20War%207.8a)
+<span id="EndNote War 7.8b"></span>[(8)](#EndNote%20War%207.8a.md)
 Vespasian and his two sons, Titus and Domitian.
 
-<span id="EndNote War 7.9b"></span>[(9)](#EndNote%20War%207.9a) See the
+<span id="EndNote War 7.9b"></span>[(9)](#EndNote%20War%207.9a.md) See the
 representations of these Jewish vessels as they still stand on Titus's
 triumphal arch at Rome, in Reland's very curious book de Spoliis
 Ternpli, throughout. But what, things are chiefly to be noted are these:
@@ -1841,11 +1841,11 @@ that arch at all, though Josephus, an eye-witness, assures us that it
 was carried in this procession. All which things deserve the
 consideration of the inquisitive reader.
 
-<span id="EndNote War 7.10b"></span>[(10)](#EndNote%20War%207.10a)
+<span id="EndNote War 7.10b"></span>[(10)](#EndNote%20War%207.10a.md)
 Spanheim observes here, that in Graceia Major and Sicily they had rue
 prodigiously great and durable, like this rue at Macherus,
 
-<span id="EndNote War 7.11b"></span>[(11)](#EndNote%20War%207.11a) This
+<span id="EndNote War 7.11b"></span>[(11)](#EndNote%20War%207.11a.md) This
 strange account of the place and root Baaras seems to have been taken
 from the magicians, and the root to have been made use of in the days of
 Josephus, in that superstitious way of casting out demons, supposed by
@@ -1856,13 +1856,13 @@ exactly like that of the Jews and Christians in the New Testament, and
 the first four centuries. See Antiq. B. I. ch. 8. sect. 2; B. XI, ch. 2.
 sect. 3.
 
-<span id="EndNote War 7.12b"></span>[(12)](#EndNote%20War%207.12a) It is
+<span id="EndNote War 7.12b"></span>[(12)](#EndNote%20War%207.12a.md) It is
 very remarkable that Titus did not people this now desolate country of
 Judea, but ordered it to be all sold; nor indeed is it properly peopled
 at this day, but lies ready for its old inhabitants the Jews, at their
 future restoration. See Literal Accomplishment of Prophecies, p. 77.
 
-<span id="EndNote War 7.13b"></span>[(13)](#EndNote%20War%207.13a) That
+<span id="EndNote War 7.13b"></span>[(13)](#EndNote%20War%207.13a.md) That
 the city Emmaus, or Areindus, in Josephus and others which was the place
 of the government of Julius Africanus were slain, to the number of one
 thousand seven hundred, as were the women and the children made slaves.
@@ -1880,12 +1880,12 @@ for these eight hundred soldiers, as for a Roman garrison, in this
 place, would most naturally be not so remote from Jerusalem as was the
 other Emmaus, or Nicopolis.
 
-<span id="EndNote War 7.14b"></span>[(14)](#EndNote%20War%207.14a) Pliny
+<span id="EndNote War 7.14b"></span>[(14)](#EndNote%20War%207.14a.md) Pliny
 and others confirm this strange paradox, that provisions laid up against
 sieges will continue good for a hundred ears, as Spanheim notes upon
 this place.
 
-<span id="EndNote War 7.15b"></span>[(15)](#EndNote%20War%207.15a) The
+<span id="EndNote War 7.15b"></span>[(15)](#EndNote%20War%207.15a.md) The
 speeches in this and the next section, as introduced under the person of
 this Eleazar, are exceeding remarkable, and oil the noblest subjects,
 the contempt of death, and the dignity and immortality of the soul; and
@@ -1897,14 +1897,14 @@ clothed them in his own words: at the lowest they contain the Jewish
 notions on these heads, as understood then by our Josephus, and cannot
 but deserve a suitable regard from us.
 
-<span id="EndNote War 7.16b"></span>[(16)](#EndNote%20War%207.16a) See
+<span id="EndNote War 7.16b"></span>[(16)](#EndNote%20War%207.16a.md) See
 B. II. ch. 20. sect. 2, where the number of the slain is but 10,000.
 
-<span id="EndNote War 7.17b"></span>[(17)](#EndNote%20War%207.17a)
+<span id="EndNote War 7.17b"></span>[(17)](#EndNote%20War%207.17a.md)
 Reland here sets down a parallel aphorism of one of the Jewish Rabbins,
 "We are born that we may die, and die that we may live.'
 
-<span id="EndNote War 7.18b"></span>[(18)](#EndNote%20War%207.18a) Since
+<span id="EndNote War 7.18b"></span>[(18)](#EndNote%20War%207.18a.md) Since
 Josephus here informs us that some of these Sicarii, or ruffians, went
 from Alexandria (which was itself in Egypt, in a large sense) into
 Egypt, and Thebes there situated, Reland well observes, from Vossius,
@@ -1914,7 +1914,7 @@ those that say it never rains in Egypt must mean the Proper or Upper
 Egypt, because it does sometimes rain in the other parts. See the note
 on Antiq. B. II. ch. 7. sect. 7, and B. III. ch. 1. sect. 6.
 
-<span id="EndNote War 7.19b"></span>[(19)](#EndNote%20War%207.19a) Of
+<span id="EndNote War 7.19b"></span>[(19)](#EndNote%20War%207.19a.md) Of
 this temple of Onias's building in Egypt, see the notes on Antiq. B.
 XIII. ch. 3. sect. 1. But whereas it is elsewhere, both of the War, B.
 I. ch. 1. sect. 1, and in the Antiquities as now quoted, said that this
@@ -1923,7 +1923,7 @@ but like a tower, sect. 3, there is some reason to suspect the reading
 here, and that either the negative particle is here to be blotted out,
 or the word entirely added.
 
-<span id="EndNote War 7.20b"></span>[(20)](#EndNote%20War%207.20a) We
+<span id="EndNote War 7.20b"></span>[(20)](#EndNote%20War%207.20a.md) We
 must observe, that Josephus here speaks of Antiochus who profaned the
 temple as now alive, when Onias had leave given them by Philometer to
 build his temple; whereas it seems not to have been actually built till
@@ -1933,4 +1933,4 @@ during the lifetime of that Antiochus, it is probable he petitioned, and
 perhaps obtained his leave then, though it were not actually built or
 finished till fifteen years afterward.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio34)  [Next](dio36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio34)  [Next](dio36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ his prayer be with us!
 
 ------------------------------------------------------------------------
 
-[Next: Preface](dio36)
+[Next: Preface](dio36.md)

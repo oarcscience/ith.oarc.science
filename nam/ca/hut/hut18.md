@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut17)  [Next](hut19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut17)  [Next](hut19.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 ## XV.
 
-### The Young Man who Threw Himself with the Arrow. <span id="fr_45"></span>[1](#fn_45)
+### The Young Man who Threw Himself with the Arrow. <span id="fr_45"></span>[1](#fn_45.md)
 
 <span id="page_205">p. 205</span>
 
@@ -31,7 +31,7 @@ for the dance. Then he threw it with himself. It came down on the
 sweat-house door which was made of red obsidian.
 
 Then the father told the son, "There across to the south is hanging a
-blanket made of rows of [woodpecker](errata.htm#3) heads. There is no
+blanket made of rows of [woodpecker](errata.htm#3.md) heads. There is no
 way to get it for a crane watching near will give warning." "I wish I
 might go there. What if the crane sitting beside it does see me?" the
 boy thought. The next day the boy threw himself and came down on
@@ -60,7 +60,7 @@ Yīmantūwiñyai watched trying to get it, but in vain.
 
 ### Footnotes
 
-<span id="fn_45"></span>[202:1](hut18.htm#fr_45) Told at Pupa, December
+<span id="fn_45"></span>[202:1](hut18.htm#fr_45.md) Told at Pupa, December
 1901, by Senaxon, whose Hupa name is Takilkyū. He has for many years
 been the priest of the northern division of the Hupa. He has charge of
 the Spring Dance, the Jumping Dance, the Acorn Feast, and the Tcexōltcwe
@@ -71,4 +71,4 @@ these ceremonials, which have been nearly discontinued in consequence.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. The Scabby Young Man](hut19)
+[Next: XVI. The Scabby Young Man](hut19.md)

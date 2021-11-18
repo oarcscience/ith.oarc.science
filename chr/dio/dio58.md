@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio57)  [Next](dio59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio57)  [Next](dio59.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ and that the most exalted Seraphim glow with fire, it shews from their
 appellation, and it attributes the characteristic and energy of fire to
 them, and throughout, above and below, it prefers pre-eminently the
 representation by the image of fire. I think, then, the similitude of
-fire <span id="fr_216"></span>[217](#fn_216) denotes the likeness of the
+fire <span id="fr_216"></span>[217](#fn_216.md) denotes the likeness of the
 Heavenly Minds to God in the highest degree; for the holy theologians
 frequently describe the superessential and formless essence by fire, as
 having many likenesses, if I may be permitted to say so, of the
@@ -111,7 +111,7 @@ Godlikeness, and imitation of God, as far as attainable.
 <span id="iv.ii.xv-p6"></span>Section III.
 
 <span id="iv.ii.xv-p7"></span>But they also depict them under the
-likeness of men <span id="fr_217"></span>[218](#fn_217) , on account of
+likeness of men <span id="fr_217"></span>[218](#fn_217.md) , on account of
 the intellectual faculty, and their having powers of looking upwards,
 and <span id="page_58">p. 58</span> <span
 id="iv.ii.xv-Page_58"></span>their straight and erect form, and their
@@ -191,7 +191,7 @@ garments and implements of the celestial Minds. The shining and glowing
 raiment, I think, signifies the Divine likeness after the image of fire,
 and their enlightening, in consequence of their repose in Heaven, where
 is the Light, and their complete illuminating intelligibly, and their
-being illuminated intellectually <span id="fr_218"></span>[219](#fn_218)
+being illuminated intellectually <span id="fr_218"></span>[219](#fn_218.md)
 ; and the sacerdotal robe denotes their conducting to Divine and
 mystical visions, and the consecration of their whole life. And the
 girdles signify the guard over their productive powers, and the
@@ -263,23 +263,23 @@ teaches the inner meaning of the typical images.
 <span id="iv.ii.xv-p29"></span>But since, I think, according to our
 power, this has been sufficiently said, let us pass to the sacred
 explanation of the Divine representations of the Heavenly Minds through
-wild beasts <span id="fr_219"></span>[220](#fn_219) . We must consider
-that the shape of a Lion <span id="fr_220"></span>[221](#fn_220)
+wild beasts <span id="fr_219"></span>[220](#fn_219.md) . We must consider
+that the shape of a Lion <span id="fr_220"></span>[221](#fn_220.md)
 signifies the leading, and robust, and indomitable, and the
 assimilation, as far as possible, to the unutterable Godhead, by the
 concealment of the intellectual footprints <span
-id="fr_221"></span>[222](#fn_221) , and by the mystically modest
+id="fr_221"></span>[222](#fn_221.md) , and by the mystically modest
 covering of the path, leading to It, during Divine illumination.
 
 <span id="iv.ii.xv-p30"></span>Section VIII.
 
 <span id="iv.ii.xv-p31"></span>The Image of the Ox <span
-id="fr_222"></span>[223](#fn_222) denotes the strong and the mature,
+id="fr_222"></span>[223](#fn_222.md) denotes the strong and the mature,
 turning up the intellectual furrows for the reception of the heavenly
 and productive showers; and the Horns, the guarding and indomitable.
 
 <span id="iv.ii.xv-p32"></span>The representation of the Eagle <span
-id="fr_223"></span>[224](#fn_223) denotes the kingly, and soaring, and
+id="fr_223"></span>[224](#fn_223.md) denotes the kingly, and soaring, and
 swift in flight, and quickness in search of the nourishment which makes
 <span id="page_64">p. 64</span> <span id="iv.ii.xv-Page_64"></span>
 strong, and wanness, and agility, and cleverness; and the unimpeded,
@@ -355,36 +355,36 @@ beyond our capacity, we have honoured by silence.
 
 ### Footnotes
 
-<span id="fn_216"></span>[56:217](dio58.htm#fr_216) <span
+<span id="fn_216"></span>[56:217](dio58.htm#fr_216.md) <span
 id="iv.ii.xv-p5.1"></span>Le Cratyle de Platon, i. 302.
 
-<span id="fn_217"></span>[57:218](dio58.htm#fr_217) <span
+<span id="fn_217"></span>[57:218](dio58.htm#fr_217.md) <span
 id="iv.ii.xv-p7.1"></span><span id="iv.ii.xv-p7.2"></span>[Gen. xxxii.
-24](../../bib/kjv/gen032.htm#024)<span id="iv.ii.xv-p7.2"></span>.
+24](../../bib/kjv/gen032.htm#024.md)<span id="iv.ii.xv-p7.2"></span>.
 
-<span id="fn_218"></span>[60:219](dio58.htm#fr_218) <span
+<span id="fn_218"></span>[60:219](dio58.htm#fr_218.md) <span
 id="iv.ii.xv-p21.1"></span>See Maximus D.N. c. 4. s. 1.
 
-<span id="fn_219"></span>[63:220](dio58.htm#fr_219) <span
+<span id="fn_219"></span>[63:220](dio58.htm#fr_219.md) <span
 id="iv.ii.xv-p29.1"></span><span id="iv.ii.xv-p29.2"></span>[Ezek. i.
-10](../../bib/kjv/eze001.htm#010)<span id="iv.ii.xv-p29.2"></span>.
+10](../../bib/kjv/eze001.htm#010.md)<span id="iv.ii.xv-p29.2"></span>.
 
-<span id="fn_220"></span>[63:221](dio58.htm#fr_220) <span
+<span id="fn_220"></span>[63:221](dio58.htm#fr_220.md) <span
 id="iv.ii.xv-p29.3"></span><span id="iv.ii.xv-p29.4"></span>[Ezekiel
-1:10](../../bib/kjv/eze001.htm#010)<span id="iv.ii.xv-p29.4"></span>
+1:10](../../bib/kjv/eze001.htm#010.md)<span id="iv.ii.xv-p29.4"></span>
 
-<span id="fn_221"></span>[63:222](dio58.htm#fr_221) <span
+<span id="fn_221"></span>[63:222](dio58.htm#fr_221.md) <span
 id="iv.ii.xv-p29.5"></span>The Lion was said to erase his footsteps by
 his tail.
 
-<span id="fn_222"></span>[63:223](dio58.htm#fr_222) <span
+<span id="fn_222"></span>[63:223](dio58.htm#fr_222.md) <span
 id="iv.ii.xv-p31.1"></span><span id="iv.ii.xv-p31.2"></span>[Ezek. i.
-10](../../bib/kjv/eze001.htm#010)<span id="iv.ii.xv-p31.2"></span>.
+10](../../bib/kjv/eze001.htm#010.md)<span id="iv.ii.xv-p31.2"></span>.
 
-<span id="fn_223"></span>[63:224](dio58.htm#fr_223) <span
+<span id="fn_223"></span>[63:224](dio58.htm#fr_223.md) <span
 id="iv.ii.xv-p32.1"></span><span id="iv.ii.xv-p32.2"></span>[Ezekiel
-1:10](../../bib/kjv/eze001.htm#010)<span id="iv.ii.xv-p32.2"></span>
+1:10](../../bib/kjv/eze001.htm#010.md)<span id="iv.ii.xv-p32.2"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Caput I.](dio59)
+[Next: Caput I.](dio59.md)

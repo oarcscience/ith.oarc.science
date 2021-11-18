@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,5 +14,5 @@ American](../../index)  [California](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](lta00)  
-[The Legend of Tauquitch and Algoot](lta01)  
+[Title Page](lta00.md)  
+[The Legend of Tauquitch and Algoot](lta01.md)  

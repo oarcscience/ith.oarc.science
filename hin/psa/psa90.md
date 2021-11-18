@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa89)  [Next](psa91) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa89)  [Next](psa91.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,7 +146,7 @@ had thus spoken, Urjoon departed thence, and wandered over all places,
 but did not find the brahmin's children. A t length, he came to the city
 of Dwarka in a state of grief and regret; and, having erected a funeral
 pile, prepared to be burnt upon it with his bow and
-[arrows](errata.htm#29) having then lighted the pile, when Urjoon was
+[arrows](errata.htm#29.md) having then lighted the pile, when Urjoon was
 about to sit down upon it, Shree Moorari, the destroyer of pride, came,
 and laid hold of his hand, and said laughing, "Urjoon! do not burn
 thyself, I will fulfil thy compact, and will bring that brahmin's sons
@@ -197,4 +197,4 @@ shall be prosperous.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XC](psa91)
+[Next: Chapter XC](psa91.md)

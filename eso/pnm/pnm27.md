@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm26)  [Next](pnm28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm26)  [Next](pnm28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -102,7 +102,7 @@ blood will not mix together, and that at the braying of the ass both the
 eggs and young of the easlon perish. There is also such a disagreement
 betwixt the olive-tree and a wanton, that if she plant it, it will
 either be always unfruitful or altogether wither. <span
-id="fr_16"></span>[\*](#fn_16) A lion fears nothing so much as fired
+id="fr_16"></span>[\*](#fn_16.md) A lion fears nothing so much as fired
 torches, and will be tamed by nothing so much as by these; and the wolf
 fears neither sword nor spear, but a stone—by the throwing of which, a
 wound being made, worms breed in the wolf. A horse fears a camel so that
@@ -117,7 +117,7 @@ kind of a natural antipathy.
 
 ### Footnotes
 
-<span id="fn_16"></span>[84:\*](pnm27.htm#fr_16) This illustration of a
+<span id="fn_16"></span>[84:\*](pnm27.htm#fr_16.md) This illustration of a
 natural antipathy said to exist between a wanton and an olive-tree, as
 well as other illustrations herein of the occult virtues of things, may
 be regarded as somewhat fanciful, but the reader will be able to bring
@@ -136,4 +136,4 @@ all other things, which Agrippa so admirably sets forth.
 
 [Next: Chapter XIX. How the Virtues of Things Are to Be Tried and Found
 Out, Which Are in Them Specially, or in Any One Individual by Way of
-Special Gift](pnm28)
+Special Gift](pnm28.md)

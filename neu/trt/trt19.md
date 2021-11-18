@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt18)  [Next](trt20) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt18)  [Next](trt20.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ nothing but Galahad, the good Knight,' Sir Percivale said.
 
 ------------------------------------------------------------------------
 
-[Next: IX: Adventure of Sir Galahad](trt20)
+[Next: IX: Adventure of Sir Galahad](trt20.md)

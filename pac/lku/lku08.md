@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku07)  [Next](lku09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku07)  [Next](lku09.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ That the rising surf might give it birth.
 
 ------------------------------------------------------------------------
 
-[Next: The Eighth Era](lku09)
+[Next: The Eighth Era](lku09.md)

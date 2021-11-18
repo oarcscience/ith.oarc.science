@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv39)  [Next](ogv41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv39)  [Next](ogv41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ project, or any enterprise beyond his power.
 ------------------------------------------------------------------------
 
 [Next: 30. The Evils Which Devour Men Are of Their Choice the
-Fruit](ogv41)
+Fruit](ogv41.md)

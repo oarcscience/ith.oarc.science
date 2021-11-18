@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Next](dow01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Next](dow01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -26,7 +26,7 @@ Textual Heritage
 
 <span id="img_title"></span> <span align="CENTER"> [![The Giant
 &lt;i&gt;Ke'-lok&lt;/i&gt;](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 The Giant *Ke'-lok*  
 </span>
 
@@ -38,10 +38,10 @@ The Giant *Ke'-lok*
 
 <span id="img_front"></span> <span align="CENTER"> [![Recital of the
 Ancient Myths in the Roundhouse at Night](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Recital of the Ancient Myths in the Roundhouse at Night  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Contents](dow01)
+[Next: Contents](dow01.md)

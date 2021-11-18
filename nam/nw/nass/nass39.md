@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass38)  [Next](nass40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass38)  [Next](nass40.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ potlatch, and becomes a chief.
 
 ------------------------------------------------------------------------
 
-[Next: She-Who-Has-A-Labret-On-One-Side](nass40)
+[Next: She-Who-Has-A-Labret-On-One-Side](nass40.md)

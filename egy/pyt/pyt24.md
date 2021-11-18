@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt23)  [Next](pyt25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt23)  [Next](pyt25.md) 
 
 ------------------------------------------------------------------------
 
@@ -188,4 +188,4 @@ which is with him," says Atum.
 
 ------------------------------------------------------------------------
 
-[Next: 22. A Miscellaneous Group, Utterances 453-486](pyt25)
+[Next: 22. A Miscellaneous Group, Utterances 453-486](pyt25.md)

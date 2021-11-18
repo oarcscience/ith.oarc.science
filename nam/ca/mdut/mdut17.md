@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut16)  [Next](mdut18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut16)  [Next](mdut18.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ made the people run away. He made a noise, stamping on the house. Thence
 no one appeared, stood up (?), Then by and by he crawled in. He sat down
 beside the fire. He took those people's roast from the fire, and, having
 taken it out, ate it. just as he was going to take a bite (?), he said,
-"Spider, shake it off." <span id="fr_16"></span>[1](#fn_16) Then he ate,
+"Spider, shake it off." <span id="fr_16"></span>[1](#fn_16.md) Then he ate,
 sitting there.
 
 Meanwhile he (Fisher-Man), having walked towards him from where he had
@@ -77,19 +77,19 @@ made us timid?" Then they were there eating their roast, eating their
 supper, only then (i. e., that was the first time they were able to).
 Then, having completely killed him, they remained at this same place in
 the olden time. "Squinting women are all gathering cat-tails." <span
-id="fr_17"></span>[1](#fn_17) That is all, it is said.
+id="fr_17"></span>[1](#fn_17.md) That is all, it is said.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_16"></span>[217:1](mdut17.htm#fr_16) A phrase said to be
+<span id="fn_16"></span>[217:1](mdut17.htm#fr_16.md) A phrase said to be
 repeated before eating,--a prayer to Spider "shake" off any evil or
 danger connected with the food.
 
-<span id="fn_17"></span>[219:1](mdut17.htm#fr_17) A phrase often used at
+<span id="fn_17"></span>[219:1](mdut17.htm#fr_17.md) A phrase often used at
 the end of myths. The allusion is not clear.
 
 ------------------------------------------------------------------------
 
-[Next: 16. Fisher-Man](mdut18)
+[Next: 16. Fisher-Man](mdut18.md)

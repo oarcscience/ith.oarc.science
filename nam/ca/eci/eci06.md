@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](eci05)  [Next](eci07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](eci05)  [Next](eci07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ethnography of the Cahuilla Indians*, by A. L. Kroeber, \[1908\], at
 Intangible Textual Heritage
 
@@ -78,7 +78,7 @@ elaborateness, are not attempted. There is very little resemblance to
 any past or present pottery of the Pueblo region.
 
 The black-painted jar from San Gorgonio pass ([Pl.
-10](eci12.htm#img_pl10)) is unique not only in the color of its
+10](eci12.htm#img_pl10).md) is unique not only in the color of its
 ornamentation, but in its pattern, which differs thoroughly from designs
 of the Mohave type. It is more finely executed with narrow lines, the
 ornamental handling of which is reminiscent of the ancient Pueblo style.
@@ -101,13 +101,13 @@ There are four principal forms of Cahuilla pottery: a small-mouthed jar
 for water and perhaps for the storage of seeds; a somewhat wider-mouthed
 jar; a cooking pot, of which the mouth is approximately of the same
 diameter as the body of the vessel; and an open bowl or dish of perhaps
-half as great a depth as diameter. ([Pl. 9](eci12.htm#img_pl09), upper
+half as great a depth as diameter. ([Pl. 9](eci12.htm#img_pl09.md), upper
 figures and lower left.) These forms are made with comparatively little
 variation except in size, and are identical with Mohave types, even to
 the binding of the bowl or dish with a strip of mesquite fibre just
 below the rim to insure greater strength. The only divergent forms that
 have been seen are a vessel with incurved mouth ([Pl.
-9](eci12.htm#img_pl09), lower right), thus being intermediate in form
+9](eci12.htm#img_pl09), lower right.md), thus being intermediate in form
 between the open dish and the jar; and one or two small roughly-made
 dishes of a dull dark red
 
@@ -142,4 +142,4 @@ render probable.
 
 ------------------------------------------------------------------------
 
-[Next: Implements of Wood and Fibre](eci07)
+[Next: Implements of Wood and Fibre](eci07.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Icelandic](../index)  [Index](index) 
-[Previous](lax75)  [Next](lax77) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Icelandic](../index)  [Index](index.md) 
+[Previous](lax75)  [Next](lax77.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ a place far away where people were least likely to be passing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXVII: Return of Bolli, A.D. 1030](lax77)
+[Next: Chapter LXXVII: Return of Bolli, A.D. 1030](lax77.md)

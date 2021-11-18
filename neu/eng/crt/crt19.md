@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt18)  [Next](crt20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt18)  [Next](crt20.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_13200"></span>
 
 [![The Queen of Ireland seeks to slay Sir Tristram](tn/13200.jpg)  
-Click to enlarge](img/13200.jpg)  
+Click to enlarge](img/13200.jpg.md)  
 The Queen of Ireland seeks to slay Sir Tristram  
 
 <span id="page_133">p. 133</span>
@@ -674,4 +674,4 @@ pleasure in this world which lieth outside of the walls of Paradise.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fifth](crt20)
+[Next: Chapter Fifth](crt20.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim43)  [Next](sim45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim43)  [Next](sim45.md) 
 
 ------------------------------------------------------------------------
 
@@ -159,4 +159,4 @@ he still lives there.
 
 ------------------------------------------------------------------------
 
-[Next: The Deserted Boy](sim45)
+[Next: The Deserted Boy](sim45.md)

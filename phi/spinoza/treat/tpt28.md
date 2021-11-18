@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](tpt27)  [Next](tpt29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](tpt27)  [Next](tpt29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -363,4 +363,4 @@ End of Part 4 of 4.
 
 ------------------------------------------------------------------------
 
-[Next: Author's Endnotes](tpt29)
+[Next: Author's Endnotes](tpt29.md)

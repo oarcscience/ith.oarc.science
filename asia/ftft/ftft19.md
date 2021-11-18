@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft18)  [Next](ftft20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft18)  [Next](ftft20.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_133">p. 133</span>
 
 <span id="img_13300"></span> ![The Forty Princes and the Seven-headed
-Dragon](img/13300.jpg)
+Dragon](img/13300.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a Padishah who had forty sons, and they spent the whole
 day in the forest, hunting and snaring birds.<span
@@ -73,7 +73,7 @@ could obtain no advantage over him.
 the dragon such a powerful blow that six heads fell from his body.
 
 <span id="img_13400"></span> ![One of his heads began to
-roll](img/13400.jpg)
+roll](img/13400.jpg.md)
 
 <span id="page_135">p. 135</span>
 
@@ -90,7 +90,7 @@ maiden at an embroidery table, near which immense treasures were piled
 up.
 
 "Are you a man or a jin?" asked the terror-stricken maidens.
-"[I](errata.htm#2) am a human being," answered the Prince. "I killed the
+"[I](errata.htm#2.md) am a human being," answered the Prince. "I killed the
 seven-headed dragon and came to this place by following one of his
 rolling heads." Now the forty maidens rejoiced. They all embraced him
 and begged him to remain with them. Incidentally they informed him that
@@ -154,7 +154,7 @@ Champalak--as the dragon was called--gave the Prince a bridle and
 <span id="img_13600"></span>
 
 [![](tn/13600.jpg)  
-Click to enlarge](img/13600.jpg)
+Click to enlarge](img/13600.jpg.md)
 
 <span id="page_137">p. 137</span>
 
@@ -164,7 +164,7 @@ land of Chinimatchin." <span id="img_13700"></span>
 
 |                                                |
 |------------------------------------------------|
-| ![She called him to the window](img/13700.jpg) |
+| ![She called him to the window](img/13700.jpg.md) |
 
 So the youth took the bridle and waited for the magic horse. The
 golden-hued steed came flying through the air, and no sooner was the
@@ -194,7 +194,7 @@ to take him into his service. He begged so earnestly
 
 |                                                                         |
 |-------------------------------------------------------------------------|
-| ![''What happiness that you have come'' said the dragon](img/13800.jpg) |
+| ![''What happiness that you have come'' said the dragon](img/13800.jpg.md) |
 
 that at length the man took pity upon him. "you have no other duty but
 to water the flowers," said the gardener. The Sultan's daughter saw the
@@ -220,7 +220,7 @@ weeping all the time. Days and weeks elapsed, but
 <span id="page_139">p. 139</span>
 
 <span id="img_13900"></span> ![The Magic Horse flew after the
-dove](img/13900.jpg)
+dove](img/13900.jpg.md)
 
 the Princess never dried her tears. "If you would at least tell me what
 your talisman is," she said one day to the dragon, "perhaps my days
@@ -287,4 +287,4 @@ the greatest happiness.
 
 ------------------------------------------------------------------------
 
-[Next: Kamer-taj, the Moon-horse](ftft20)
+[Next: Kamer-taj, the Moon-horse](ftft20.md)

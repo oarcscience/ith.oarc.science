@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Next](phai01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Next](phai01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -52,4 +52,4 @@ prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Preface.](phai01)
+[Next: Preface.](phai01.md)

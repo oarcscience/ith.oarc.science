@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq18)  [Next](sfq20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq18)  [Next](sfq20.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ comes when all evil things shall perish for ever.
 
 ------------------------------------------------------------------------
 
-[Next: How the Red Cross Knight came to the House of Holiness](sfq20)
+[Next: How the Red Cross Knight came to the House of Holiness](sfq20.md)

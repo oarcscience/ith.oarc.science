@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb29)  [Next](refb31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb29)  [Next](refb31.md) 
 
 </div>
 
@@ -329,6 +329,6 @@ brave and good woman.\[24\]
 
 ------------------------------------------------------------------------
 
-[Next: Farmer Weatherbeard](refb31)
+[Next: Farmer Weatherbeard](refb31.md)
 
 </div>

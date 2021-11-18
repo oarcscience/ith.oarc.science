@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe307)  [Next](prwe309) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe307)  [Next](prwe309.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ Thus originated the Tamar, the Tavy, and the Taw.
 
 ------------------------------------------------------------------------
 
-[Next: The Church and the Barn](prwe309)
+[Next: The Church and the Barn](prwe309.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](por16)  [Next](por18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](por16)  [Next](por18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path on the Rainbow*, edited by George W. Cronyn, \[1918\], at
 Intangible Textual Heritage
 
@@ -186,4 +186,4 @@ Make its path smooth—then shall it travel beyond the four hills!
 
 ------------------------------------------------------------------------
 
-[Next: Ritual Chants of the Omaha](por18)
+[Next: Ritual Chants of the Omaha](por18.md)

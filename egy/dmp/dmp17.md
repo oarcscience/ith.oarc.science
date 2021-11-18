@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp16)  [Next](dmp18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp16)  [Next](dmp18.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ The Anubis-plant. It grows in very numerous places;
 
 ------------------------------------------------------------------------
 
-[Next: Col. XV](dmp18)
+[Next: Col. XV](dmp18.md)

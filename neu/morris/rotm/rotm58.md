@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm57)  [Next](rotm59) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm57)  [Next](rotm59.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -170,6 +170,6 @@ of the God with the ray-begirt head.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LVIII. How The Maiden Ward was Held in Burgdale](rotm59)
+[Next: Chapter LVIII. How The Maiden Ward was Held in Burgdale](rotm59.md)
 
 </div>

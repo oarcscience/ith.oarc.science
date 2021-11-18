@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](sws26)  [Next](sws28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](sws26)  [Next](sws28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Spider Woman*, by Gladys A. Reichard, \[1934\], at Intangible Textual
 Heritage
 
@@ -192,7 +192,7 @@ At the same time all this was happening to First-born his
 
 <span id="img_19400"></span> <span align="CENTER"> [![Sand
 Painting](tn/19400.jpg)  
-Click to enlarge](img/19400.jpg)  
+Click to enlarge](img/19400.jpg.md)  
 Sand Painting  
 </span>
 
@@ -235,7 +235,7 @@ are shown as being on the mountain in the painting.
 <span id="page_196">p. 196</span>
 
 rainbows in each direction, inner blue, outer red. <span
-id="fr_1"></span>[1](#fn_1) Four open spaces are left at the ends of
+id="fr_1"></span>[1](#fn_1.md) Four open spaces are left at the ends of
 these rainbows. On top of the rainbow in the east four white ducks are
 made with their heads turned as if they were moving south. On the sun
 raft to the west are four yellow ones with heads pointing north. In the
@@ -282,7 +282,7 @@ yellow, and finally pink, all white-bordered.
 
 "In his left he holds five medicines, the one nearest him being black,
 then white, blue, yellow, and finally pink being east. Above his head
-facing him lies the black fish, <span id="fr_2"></span>[1](#fn_2) below
+facing him lies the black fish, <span id="fr_2"></span>[1](#fn_2.md) below
 his feet the yellow one, at the south, the blue one, at the north, the
 white one. All have their heads toward him. From the mouth of the black
 one in the east runs a zigzag lightning. The lines forming it separate
@@ -310,7 +310,7 @@ are made alike.
 "Now around First-born and the Thunder People alone a zigzag lightning
 is used for an encircling line, but the rainbow is the encircling border
 of the whole sand-painting, its skirt is south, head north. That
-finishes it." <span id="fr_3"></span>[2](#fn_3)
+finishes it." <span id="fr_3"></span>[2](#fn_3.md)
 
 Because the sand-painting is double, there are two choruses today, one
 on the north, one on the south side of the hogan.
@@ -540,16 +540,16 @@ details of the final night.
 
 ### Footnotes
 
-<span id="fn_1"></span>[196:1](sws27.htm#fr_1) The difference between
+<span id="fn_1"></span>[196:1](sws27.htm#fr_1.md) The difference between
 the picture here portrayed and the one made for Marie is explained on p.
 155.
 
-<span id="fn_2"></span>[197:1](sws27.htm#fr_2) In Red-Point's picture
+<span id="fn_2"></span>[197:1](sws27.htm#fr_2.md) In Red-Point's picture
 the black and white fish were interchanged.
 
-<span id="fn_3"></span>[197:2](sws27.htm#fr_3) Literal translation from
+<span id="fn_3"></span>[197:2](sws27.htm#fr_3.md) Literal translation from
 the myth of the Shooting Chant.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV: Effects](sws28)
+[Next: Chapter XXV: Effects](sws28.md)

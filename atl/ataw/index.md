@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](atawintr)    [Page
-Index](pageidx)    [Text \[Zipped\]](ataw.txt.gz)
+[Contents](#contents)    [Start Reading](atawintr.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ataw.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ readable and compelling even today....<span class="small">--JBH</span>
 
 <div align="RIGHT">
 
-*[Read More](atawintr)...*       
+*[Read More](atawintr.md)...*       
 
 </div>
 
@@ -53,71 +53,71 @@ readable and compelling even today....<span class="small">--JBH</span>
 
 <span id="contents"></span>
 
-[Introduction by J.B. Hare](atawintr)  
-[Additional Information About Donnelly by Norm Wolcott](wolcott)
+[Introduction by J.B. Hare](atawintr.md)  
+[Additional Information About Donnelly by Norm Wolcott](wolcott.md)
 
-[Title Page](ataw100)  
-[Contents](atawcont)  
+[Title Page](ataw100.md)  
+[Contents](atawcont.md)  
 <span id="section_000"></span>
 
 ### Part I
 
-[Chapter I: The Purpose of the Book.](ataw101)  
-[Chapter II: Plato's History of Atlantis.](ataw102)  
-[Chapter III: The Probabilities of Plato's Story.](ataw103)  
-[Chapter IV: Was Such a Catastrophe Possible?](ataw104)  
-[Chapter V: The Testimony of the Sea.](ataw105)  
-[Chapter VI: The Testimony of the Flora and Fauna.](ataw106)  
+[Chapter I: The Purpose of the Book.](ataw101.md)  
+[Chapter II: Plato's History of Atlantis.](ataw102.md)  
+[Chapter III: The Probabilities of Plato's Story.](ataw103.md)  
+[Chapter IV: Was Such a Catastrophe Possible?](ataw104.md)  
+[Chapter V: The Testimony of the Sea.](ataw105.md)  
+[Chapter VI: The Testimony of the Flora and Fauna.](ataw106.md)  
 <span id="section_001"></span>
 
 ### Part II
 
 [Chapter I: The Destruction of Atlantis Described in the Deluge
-Legends.](ataw201)  
-[Chapter II: The Deluge of the Bible](ataw202)  
-[Chapter III: The Deluge of the Chaldeans.](ataw203)  
-[Chapter IV: The Deluge Legends of Other Nations.](ataw204)  
-[Chapter V: The Deluge Legends of America.](ataw205)  
-[Chapter VI: Some Consideration of the Deluge Legends.](ataw206)  
+Legends.](ataw201.md)  
+[Chapter II: The Deluge of the Bible](ataw202.md)  
+[Chapter III: The Deluge of the Chaldeans.](ataw203.md)  
+[Chapter IV: The Deluge Legends of Other Nations.](ataw204.md)  
+[Chapter V: The Deluge Legends of America.](ataw205.md)  
+[Chapter VI: Some Consideration of the Deluge Legends.](ataw206.md)  
 <span id="section_002"></span>
 
 ### Part III
 
-[Chapter I: Civilization an Inheritance.](ataw301)  
+[Chapter I: Civilization an Inheritance.](ataw301.md)  
 [Chapter II: The Identity of the Civilizations of the Old World and the
-New](ataw302)  
+New](ataw302.md)  
 [Chapter III: American Evidences of Intercourse with Europe or
-Atlantis.](ataw303)  
-[Chapter IV: Corroborating Circumstances.](ataw304)  
-[Chapter V: The Question of Complexion.](ataw305)  
-[Chapter VI: Genesis Contains a History of Atlantis](ataw306)  
-[Chapter VII: The Origin of Our Alphabet](ataw307)  
-[Chapter VIII: The Bronze Age in Europe.](ataw308)  
-[Chapter IX: Artificial Deformation of the Skull.](ataw309)  
+Atlantis.](ataw303.md)  
+[Chapter IV: Corroborating Circumstances.](ataw304.md)  
+[Chapter V: The Question of Complexion.](ataw305.md)  
+[Chapter VI: Genesis Contains a History of Atlantis](ataw306.md)  
+[Chapter VII: The Origin of Our Alphabet](ataw307.md)  
+[Chapter VIII: The Bronze Age in Europe.](ataw308.md)  
+[Chapter IX: Artificial Deformation of the Skull.](ataw309.md)  
 <span id="section_003"></span>
 
 ### Part IV
 
-[Chapter I: Traditions of Atlantis.](ataw401)  
+[Chapter I: Traditions of Atlantis.](ataw401.md)  
 [Chapter II: The Kings of Atlantis Become the Gods of the
-Greeks.](ataw402)  
+Greeks.](ataw402.md)  
 [Chapter III: The Gods of the Phoenicians Also Kings of
-Atlantis.](ataw403)  
-[Chapter IV: The God Odin, Woden, or Wotan.](ataw404)  
-[Chapter V: The Pyramid, The Cross, and The Garden of Eden.](ataw405)  
-[Chapter VI: Gold and Silver the Sacred Metals of Atlantis.](ataw406)  
+Atlantis.](ataw403.md)  
+[Chapter IV: The God Odin, Woden, or Wotan.](ataw404.md)  
+[Chapter V: The Pyramid, The Cross, and The Garden of Eden.](ataw405.md)  
+[Chapter VI: Gold and Silver the Sacred Metals of Atlantis.](ataw406.md)  
 <span id="section_004"></span>
 
 ### Part V
 
-[Chapter I: The Central American and Mexican Colonies.](ataw501)  
-[Chapter II: The Egyptian Colony.](ataw502)  
-[Chapter III: The Colonies of the Mississippi Valley](ataw503)  
-[Chapter IV: The Iberian Colonies of Atlantis](ataw504)  
-[Chapter V: The Peruvian Colony.](ataw505)  
-[Chapter VI: The African Colonies.](ataw506)  
-[Chapter VII: The Irish Colonies From Atlantis.](ataw507)  
-[Chapter VIII: The Oldest Son of Noah.](ataw508)  
-[Chapter IX: The Antiquity of Some of Our Great Inventions.](ataw509)  
-[Chapter X: The Aryan Colonies From Atlantis.](ataw510)  
-[Chapter XI: Atlantis Reconstructed.](ataw511)  
+[Chapter I: The Central American and Mexican Colonies.](ataw501.md)  
+[Chapter II: The Egyptian Colony.](ataw502.md)  
+[Chapter III: The Colonies of the Mississippi Valley](ataw503.md)  
+[Chapter IV: The Iberian Colonies of Atlantis](ataw504.md)  
+[Chapter V: The Peruvian Colony.](ataw505.md)  
+[Chapter VI: The African Colonies.](ataw506.md)  
+[Chapter VII: The Irish Colonies From Atlantis.](ataw507.md)  
+[Chapter VIII: The Oldest Son of Noah.](ataw508.md)  
+[Chapter IX: The Antiquity of Some of Our Great Inventions.](ataw509.md)  
+[Chapter X: The Aryan Colonies From Atlantis.](ataw510.md)  
+[Chapter XI: Atlantis Reconstructed.](ataw511.md)  

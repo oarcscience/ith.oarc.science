@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos22)  [Next](gbos24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos22)  [Next](gbos24.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ by hand are good, because there is life in them.
 
 ------------------------------------------------------------------------
 
-[Next: Skyclad](gbos24)
+[Next: Skyclad](gbos24.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg54)  [Next](leg56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg54)  [Next](leg56.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ is not different from Proserpine.\]
 
 ------------------------------------------------------------------------
 
-[Next: Section XXX](leg56)
+[Next: Section XXX](leg56.md)

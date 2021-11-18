@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat10.htm#LXI)  [Previous](satl060) 
-[Next](satl062) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat10.htm#LXI)  [Previous](satl060.md) 
+[Next](satl062.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ aiunt, in angustiis amici apparent.
 
 ------------------------------------------------------------------------
 
-[Next: LXII](satl062)
+[Next: LXII](satl062.md)

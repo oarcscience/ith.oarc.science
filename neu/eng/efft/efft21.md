@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft20)  [Next](efft22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft20)  [Next](efft22.md) 
 
 ------------------------------------------------------------------------
 
-# THE ADVENTURE OF CHERRY OF ZENNOR   <span id="fr_22"></span>[1](#fn_22)
+# THE ADVENTURE OF CHERRY OF ZENNOR   <span id="fr_22"></span>[1](#fn_22.md)
 
 OLD Honey lived with his wife and family in a little hut of two rooms
-and a "talfat,"  <span id="fr_23"></span>[2](#fn_23) on the cliff side
+and a "talfat,"  <span id="fr_23"></span>[2](#fn_23.md) on the cliff side
 of Trereen in Zennor. The old couple had half a score of children, who
 were all reared in this place. They lived as they best could on the
 produce of a few acres of ground, which were too poor to keep even a
@@ -31,7 +31,7 @@ could not catch her, much less the miller's boy.
 Soon after Cherry got into her teens she became very discontented,
 because year after year her mother had been promising her a new frock
 that she might go off as smart as the rest, "three on one horse to Morva
-fair."  <span id="fr_24"></span>[3](#fn_24) As certain as the time came
+fair."  <span id="fr_24"></span>[3](#fn_24.md) As certain as the time came
 round the money was wanting so Cherry had nothing decent. She could
 neither go to fair, nor to church, nor to meeting.
 
@@ -40,7 +40,7 @@ with ribbons, and she told Cherry how she had been to Nancledry to the
 preaching, and how she had ever so many sweethearts who brought her
 home. This put the volatile Cherry in a fever of desire. She declared to
 her mother she would go off to the "low countries"  <span
-id="fr_25"></span>[4](#fn_25) to seek for service, that she might get
+id="fr_25"></span>[4](#fn_25.md) to seek for service, that she might get
 some clothes like other girls.
 
 Her mother wished her to go to Towednack that she might have the chance
@@ -284,18 +284,18 @@ for her master.
 
 ### Footnotes
 
-<span id="fn_22"></span>[1](efft21.htm#fr_22) Robert Hunt, *Popular
+<span id="fn_22"></span>[1](efft21.htm#fr_22.md) Robert Hunt, *Popular
 Romances of the West of England*, 1st series, p. 118.
 
-<span id="fn_23"></span>[2](efft21.htm#fr_23) \]Talfat is a half floor
+<span id="fn_23"></span>[2](efft21.htm#fr_23.md) \]Talfat is a half floor
 at one end of a cottage on which a bed is placed.
 
-<span id="fn_24"></span>[3](efft21.htm#fr_24) A Cornish proverb.
+<span id="fn_24"></span>[3](efft21.htm#fr_24.md) A Cornish proverb.
 
-<span id="fn_25"></span>[4](efft21.htm#fr_25) The terms "highs' and "low
+<span id="fn_25"></span>[4](efft21.htm#fr_25.md) The terms "highs' and "low
 countries" are applied respectively to the hills and the valleys of the
 country about Towednack...
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Funeral](efft22)
+[Next: The Fairy Funeral](efft22.md)

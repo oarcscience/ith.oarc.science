@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](nfnw12)  [Next](nfnw14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](nfnw12)  [Next](nfnw14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ itself, after the model of old Horrebow's Snakes in Iceland."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: How Matters Are Managed](nfnw14)
+[Next: Chapter XIV: How Matters Are Managed](nfnw14.md)

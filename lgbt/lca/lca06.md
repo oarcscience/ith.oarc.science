@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca05) 
-[Next](lca07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca05.md) 
+[Next](lca07.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ away, and not till a whole new code of ideals and customs of life has
 come in, will women really be free. They must remember that their cause
 is also the cause of the oppressed laborer over the whole earth, and the
 laborer has to remember that his cause is theirs. <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
 And since Motherhood is, after all, woman's great and incomparable work,
 people will come to see that a sane maternity is one of the very first
@@ -76,7 +76,7 @@ matrimony. The consequences
 <span id="page_56">p. 56</span>
 
 are menstrual troubles <span
-id="fr_9"></span>[1](#fn_9) [56](lca15.htm#xref_56) and disturbances in
+id="fr_9"></span>[1](#fn_9) [56](lca15.htm#xref_56.md) and disturbances in
 the various organs connected with sexual functions, rendering maternity
 dangerous or impossible. Instead of a healthy, cheerful companion, a
 capable mother, a helpmate equal to the calls made upon her activity,
@@ -187,7 +187,7 @@ of matrimony, it eats in actual physical disease and death right through
 our midst; it is fed by the oppression and the ignorance of women, by
 their poverty and denied means of livelihood, and by the hypocritical
 puritanism which forbids them by millions not only to gratify but even
-to speak of their natural desires [60](lca15.htm#xref_60); and it is
+to speak of their natural desires [60](lca15.htm#xref_60.md); and it is
 encouraged by the callousness of an age which has accustomed men to buy
 and sell for money every most precious thing--even the life-long labor
 of their brothers, therefore why not also the very bodies of their
@@ -265,7 +265,7 @@ acquiescence. Too long have women acted the part of mere appendages to
 the male, suppressing their own individuality and fostering his
 self-conceit. In order to have souls of their own they must free
 themselves, and greatly by their own efforts. They must learn to
-fight. [63](lca15.htm#xref_63) Whitman in his poem "A woman waits for
+fight. [63](lca15.htm#xref_63.md) Whitman in his poem "A woman waits for
 me," draws a picture
 
 <span id="page_64">p. 64</span>
@@ -299,7 +299,7 @@ early races of mankind, the males have been selected by the females on
 account of their prowess or superior strength or beauty, and this has
 led to the evolution in the males and in the race at large of a type
 which (in a dim and unconscious manner) was the ideal of the
-female. <span id="fr_10"></span>[1](#fn_10) [65](lca15.htm#xref_65) But
+female. <span id="fr_10"></span>[1](#fn_10) [65](lca15.htm#xref_65.md) But
 as soon as in the history of mankind the property-love set in, and woman
 became the chattel of man, this action ceased. She, being no longer
 free, could not possibly choose man, but rather the opposite took place,
@@ -370,7 +370,7 @@ will raise it from the fulfilment of a mere instinct to the completion
 of a splendid social purpose. To save the souls of children as well as
 their bodies, to raise heroic as well as prosperous citizens, will
 surely be the desire and the work of the mothers of our race. <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 It will perhaps be said that after going about to show (as in the
 previous chapter) the deficiency of women hitherto in the matter of the
@@ -447,7 +447,7 @@ The Greek goddesses look down and across the ages to the very outposts
 beyond civilisation; and already from far America, Australasia, Africa,
 Norway, Russia, as even in our midst from those who have crossed the
 border-line of all class and caste, glance forth the features of a
-grander type [71](lca15.htm#xref_71)--fearless and untamed--the primal
+grander type [71](lca15.htm#xref_71.md)--fearless and untamed--the primal
 merging into the future Woman; who, combining broad sense with
 sensibility, the passion for Nature with the love of Man, and commanding
 indeed the details of life, yet risen out of localism and convention,
@@ -458,7 +458,7 @@ society, and open the doors to a new and a wider life.
 
 ### Footnotes
 
-<span id="fn_8"></span>[54:1](lca06.htm#fr_8) The freedom of Woman must
+<span id="fn_8"></span>[54:1](lca06.htm#fr_8.md) The freedom of Woman must
 ultimately rest on the Communism of society--which alone can give her
 support during the period of Motherhood, without forcing her into
 dependence on the arbitrary will of one man. While the present effort of
@@ -467,15 +467,15 @@ and a necessary feature of the times, it is evident that it alone will
 not entirely solve the problem, since it is just during the difficult
 years of Motherhood, when support is most needed, that the woman is
 least capable of earning it for herself. (*See* Appendix.
- [54](lca15.htm#xref_54))
+ [54](lca15.htm#xref_54).md)
 
-<span id="fn_9"></span>[56:1](lca06.htm#fr_9) See
-Appendix. [56](lca15.htm#xref_56)
+<span id="fn_9"></span>[56:1](lca06.htm#fr_9.md) See
+Appendix. [56](lca15.htm#xref_56.md)
 
-<span id="fn_10"></span>[65:1](lca06.htm#fr_10) *See*
-Appendix. [65](lca15.htm#xref_65)
+<span id="fn_10"></span>[65:1](lca06.htm#fr_10.md) *See*
+Appendix. [65](lca15.htm#xref_65.md)
 
-<span id="fn_11"></span>[68:1](lca06.htm#fr_11) As to the maternal
+<span id="fn_11"></span>[68:1](lca06.htm#fr_11.md) As to the maternal
 teaching of children, it must be confessed that it has, in late times,
 been most dismal. Whether among the masses or the classes the idea has
 been first and foremost to impress upon them the necessity of sliding
@@ -485,4 +485,4 @@ heroic strain than "Don't forget your flannels!"
 
 ------------------------------------------------------------------------
 
-[Next: Marriage, A Retrospect](lca07)
+[Next: Marriage, A Retrospect](lca07.md)

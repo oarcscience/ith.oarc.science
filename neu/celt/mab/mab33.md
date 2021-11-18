@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -23,7 +23,7 @@ Textual Heritage
 ### NOTES TO TALIESIN.
 
 <span id="xref_471a">471a</span> TALIESIN.--*Page*
-[471](mab32.htm#page_471).
+[471](mab32.htm#page_471.md).
 
 TALIESIN, literally, the "Radiant Brow," was a Welsh Bard of the sixth
 century. His name, regarded by his countrymen with the reverence due to
@@ -215,7 +215,7 @@ composed at different periods, and it is not improbable that the
 above-mentioned Thomas ab Einion Offeiriad collected the poems
 attributed to Taliesin, which were in existence before his time, and
 added others to form the Mabinogi, which from expressions in page
-[474](mab32.htm#page_474), and the very numerous transformations stated
+[474](mab32.htm#page_474.md), and the very numerous transformations stated
 in the poetry, but not given in the prose, must have been much more
 complete than in its present state.
 
@@ -256,7 +256,7 @@ published, although not in so complete a form as the present version,
 with a translation, by the late Dr. Owen Paghe, in the fifth volume of
 the Cambrian Quarterly; and, with two exceptions (the poems beginning
 "Discover thou what is," and "I adore the Supreme, Lord of all
-animation," pp. [485](mab32.htm#page_485), [487](mab32.htm#page_487)),
+animation," pp. [485](mab32.htm#page_485), [487](mab32.htm#page_487).md),
 the translations of the poems now published are extracted from that
 work, the necessary alterations being made where the text differed
 materially. The first portion of it is also to be found (untranslated)
@@ -269,7 +269,7 @@ adventures of the second Royal Calender in the Arabian Nights.
  
 
 <span id="xref_471b">471b</span> CARIDWEN.--*Page*
-[471](mab32.htm#page_471).
+[471](mab32.htm#page_471.md).
 
 CARIDWEN is generally considered to be the Goddess of Nature of Welsh
 mythology. The principal circumstances of her fabulous history are those
@@ -285,26 +285,26 @@ writings of her fair
 daughter Creirwy. Of these it may be sufficient to instance the Triad
 which celebrates her with Arianrod and Gwenn, verch Cywryd ab Crydon, as
 one of the three beauteous ladies of the island. <span
-id="fr_215"></span>[1](#fn_214) One of the two Triads extant on the
+id="fr_215"></span>[1](#fn_214.md) One of the two Triads extant on the
 subject of Morvran has been already cited. (See [p.
-273](mab17.htm#page_273).) It alludes to the extreme ugliness assigned
+273](mab17.htm#page_273)..md) It alludes to the extreme ugliness assigned
 him in the text, to which, nevertheless, he was indebted for the
 preservation of his life in the battle of Camlan; the other ranks him
 with Gilbert mab Cadgyffro and Gwgan Gleddyvrudd, as one of the three
-stayers of slaughter. <span id="fr_216"></span>[2](#fn_215) No further
+stayers of slaughter. <span id="fr_216"></span>[2](#fn_215.md) No further
 particulars of him are preserved.
 
  
 
 <span id="xref_472a">472a</span> GWYDDNO GARANHIR.--*Page*
-[472](mab32.htm#page_472).
+[472](mab32.htm#page_472.md).
 
 GWYDDNO GARANHIR was Sovereign of Cantref y Gwaelod, a territory
 bordering on the sea, and protected from its ravages by a high
 embankment. One evening there was revelry at the Court, and
-Seithenin, <span id="fr_217"></span>[3](#fn_216) the son of Seithyn
+Seithenin, <span id="fr_217"></span>[3](#fn_216.md) the son of Seithyn
 Saidi, King of Dyved, upon whom it devolved to look after the
-embankment, <span id="fr_218"></span>[4](#fn_217) and see that all was
+embankment, <span id="fr_218"></span>[4](#fn_217.md) and see that all was
 safe, became inebriated and neglected his charge. The consequence was
 that the sea broke in through the bank in the course of the night.
 Gwyddno and his Court escaped with difficulty from the impending ruin,
@@ -360,12 +360,12 @@ valuable collection. It is in the colloquial form, between himself and
 the king of Faerie, Gwyn ap Nudd.
 
 The magic basket of Gwyddno has a place amongst the Thirteen Precious
-Things of Britain.--See page [285](mab17.htm#page_285).
+Things of Britain.--See page [285](mab17.htm#page_285.md).
 
 <span id="page_503">p. 503</span>
 
 <span id="xref_476a">476a</span> MAELGWN GWYNEDD.--*Page*
-[476](mab32.htm#page_476).
+[476](mab32.htm#page_476.md).
 
 This king succeeded his father Caswallon Lawhir in the sovereignty of
 Gwynedd, about the year 517. He is the subject of a most violent
@@ -418,7 +418,7 @@ compositions of the Bards.
  
 
 <span id="xref_477a">477a</span> HEININ VARDD.--*Page*
-[477](mab32.htm#page_477).
+[477](mab32.htm#page_477.md).
 
 IT would appear that Heinin was Bard to the College of Llanveithin, at
 Llancarvan, in Glamorganshire, and that he flourished between A.D. 520
@@ -429,7 +429,7 @@ is attributed to him.--
 
 Hast thou heard the saying of Heinin,  
 The Bard of the college of Llanveithin? <span
-id="fr_219"></span>[1](#fn_218)  
+id="fr_219"></span>[1](#fn_218.md)  
 The brave is never cruel!"
 
  
@@ -445,15 +445,15 @@ WYMAN AND SONS, PRINTERS, GREAT QUEEN STREET, LONDON, W.C.
 
 ### Footnotes
 
-<span id="fn_214"></span>[501:1](mab33.htm#fr_215) Triad 107.
+<span id="fn_214"></span>[501:1](mab33.htm#fr_215.md) Triad 107.
 
-<span id="fn_215"></span>[501:2](mab33.htm#fr_216) Triad xxix.
+<span id="fn_215"></span>[501:2](mab33.htm#fr_216.md) Triad xxix.
 
-<span id="fn_216"></span>[501:3](mab33.htm#fr_217) Seithinyn the
+<span id="fn_216"></span>[501:3](mab33.htm#fr_217.md) Seithinyn the
 Drunkard's mischance in letting the sea overflow the Cantrev y Gwaelod,
 is related in Triad xli.
 
-<span id="fn_217"></span>[501:4](mab33.htm#fr_218) Traces of three
+<span id="fn_217"></span>[501:4](mab33.htm#fr_218.md) Traces of three
 ancient stone embankments are said to be still visible in the district
 where this inundation took place. They are called Sarn Cynvelyn, Sarn y
 Bwch, and Sarn Padrig. "The latter is particularly conspicuous, being
@@ -463,5 +463,5 @@ miles, beginning near Harlech, and running in a south-west direction."
 (Cambro-Briton, 1. 362.) The Hanes Cymru contains some interesting
 remarks on this subject.
 
-<span id="fn_218"></span>[504:1](mab33.htm#fr_219) Qu. ? "Bangor"--Iolo
+<span id="fn_218"></span>[504:1](mab33.htm#fr_219.md) Qu. ? "Bangor"--Iolo
 Morganwg.

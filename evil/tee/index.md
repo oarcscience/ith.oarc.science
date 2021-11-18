@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tee00)    [Page
-Index](pageidx)    [Text \[Zipped\]](tee.txt.gz)
+[Contents](#contents)    [Start Reading](tee00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](tee.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -66,22 +66,22 @@ an important part of being a world citizen.
 
 ------------------------------------------------------------------------
 
-[Title Page](tee00)  
-[Contents](tee01)  
-[List of Illustrations](tee02)  
-[Chapter I. Introduction](tee03)  
-[Chapter II. Sympathetic Magic](tee04)  
-[Chapter III. Totems, Portents, Tree-Worship](tee05)  
-[Chapter IV. Symbols and Amulets](tee06)  
-[Chapter V. The Gorgoneion](tee07)  
-[Chapter VI. Crescents, Horns, Horseshoes](tee08)  
-[Appendix I](tee09)  
-[Appendix II](tee10)  
-[Chapter VII. Touch, Hands, Gestures](tee11)  
-[Chapter VIII. The Cross](tee12)  
-[Chapter IX. The Mano Pantea](tee13)  
-[Chapter X. The Cimaruta, Sirene, Tablets](tee14)  
-[Chapter XI. Cabalistic Writing--Magical Formulæ](tee15)  
+[Title Page](tee00.md)  
+[Contents](tee01.md)  
+[List of Illustrations](tee02.md)  
+[Chapter I. Introduction](tee03.md)  
+[Chapter II. Sympathetic Magic](tee04.md)  
+[Chapter III. Totems, Portents, Tree-Worship](tee05.md)  
+[Chapter IV. Symbols and Amulets](tee06.md)  
+[Chapter V. The Gorgoneion](tee07.md)  
+[Chapter VI. Crescents, Horns, Horseshoes](tee08.md)  
+[Appendix I](tee09.md)  
+[Appendix II](tee10.md)  
+[Chapter VII. Touch, Hands, Gestures](tee11.md)  
+[Chapter VIII. The Cross](tee12.md)  
+[Chapter IX. The Mano Pantea](tee13.md)  
+[Chapter X. The Cimaruta, Sirene, Tablets](tee14.md)  
+[Chapter XI. Cabalistic Writing--Magical Formulæ](tee15.md)  
 [Chapter XII. Spitting, Incantation, and Other Protective Acts.
-Pixies](tee16)  
-[Appendix III](tee17)  
+Pixies](tee16.md)  
+[Appendix III](tee17.md)  

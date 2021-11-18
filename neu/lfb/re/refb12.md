@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb11)  [Next](refb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb11)  [Next](refb13.md) 
 
 </div>
 
@@ -253,6 +253,6 @@ best. And afterwards three weddings were celebrated.
 
 ------------------------------------------------------------------------
 
-[Next: The Wonderful Birch](refb13)
+[Next: The Wonderful Birch](refb13.md)
 
 </div>

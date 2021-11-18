@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr02) 
-[Next](frr04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr02.md) 
+[Next](frr04.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ is the number of facts that it correlates, and explains." (Cornford,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Introductory](frr04)
+[Next: Chapter I. Introductory](frr04.md)

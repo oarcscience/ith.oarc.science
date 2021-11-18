@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gpr06)  [Next](gpr08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gpr06)  [Next](gpr08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Greek Popular Religion*, by Martin P. Nilsson, \[1940\], at Intangible
 Textual Heritage
 
@@ -16,11 +16,11 @@ Textual Heritage
 
 A chapter on the religion of Eleusis is a natural sequel to the
 description of the rural customs and festivals, <span
-id="fr_38"></span>[1](#fn_38) for the Eleusinian Mysteries are the
+id="fr_38"></span>[1](#fn_38.md) for the Eleusinian Mysteries are the
 highest and finest bloom of Greek popular religion. Originally the
 Eleusinian Mysteries were a festival celebrated at the autumn sowing.
 This is proved by the testimony of Plutarch <span
-id="fr_39"></span>[2](#fn_39) and by their very near kinship to the
+id="fr_39"></span>[2](#fn_39.md) and by their very near kinship to the
 Thesmophoria. Although it is acknowledged that the basis of the
 Eleusinian Mysteries is an old agrarian cult, this fact has been pushed
 into the background by the attempts to discover the secret rites of the
@@ -94,7 +94,7 @@ in the science of religion. Scholars have suggested that in the
 Eleusinian Mysteries immortality was conferred upon the mystes by his
 being made the son of the goddess through touching some sexual symbol.
 He was born anew of the goddess in a symbolic way. <span
-id="fr_40"></span>[3](#fn_40) It is true that Christian authors do
+id="fr_40"></span>[3](#fn_40.md) It is true that Christian authors do
 ascribe sexual symbols to the Eleusinian Mysteries, and it is possible
 that there were such symbols at Eleusis, as there were, for instance, in
 the closely related festival of the Thesmophoria. But if such symbols
@@ -109,12 +109,12 @@ Perhaps a remark is needed on the much-discussed formula
 which Clement of Alexandria gives as that of the Eleusinian Mysteries:
 "I have fasted, I have drunk of the kykeon, I have taken from the chest,
 and having worked, I have laid down into the basket and from the basket
-into the chest." <span id="fr_41"></span>[4](#fn_41) The first two of
+into the chest." <span id="fr_41"></span>[4](#fn_41.md) The first two of
 these rites, the fasting and the drinking of the *kykeon*, are known to
 have been practiced at Eleusis; but this is not true of the other rites,
 and it is uncertain whether they belong to Eleusis at all. They may be
 taken from the Mysteries of Demeter at Alexandria. <span
-id="fr_42"></span>[5](#fn_42) In any case, this formula refers to the
+id="fr_42"></span>[5](#fn_42.md) In any case, this formula refers to the
 preliminary rites performed by the neophyte, not to the highest mystery,
 the epopteia. It was pronounced by the neophyte in order to show that he
 had performed the preliminary rites necessary for being admitted to the
@@ -145,14 +145,14 @@ direct information.
 According to all probability, the Eleusinian cult goes back to the
 Mycenaean age. In the excavations of recent years a Mycenaean megaron
 was discovered beneath the mystery hall. <span
-id="fr_43"></span>[6](#fn_43) This hall is very unlike a Greek temple,
+id="fr_43"></span>[6](#fn_43.md) This hall is very unlike a Greek temple,
 which was the house of a god. It was rebuilt several times, but always
 according to the old plan. It was a square hall, with pillars supporting
 the roof and with benches carved in the rock on three sides, destined
 for the great assembly of the mystae. This hall was called *anaktoron*
 (the royal house). It has been suggested that the name is reminiscent of
 a time when the mystery assembly took place in the king's house. <span
-id="fr_44"></span>[7](#fn_44) The family of the Eumolpidae were the
+id="fr_44"></span>[7](#fn_44.md) The family of the Eumolpidae were the
 successors of the king, and the cult always remained the property of
 this family, from which the high priest was taken. Originally the
 Eleusinian Mysteries were a family cult to which the head of the family
@@ -165,7 +165,7 @@ two pairs, one comprising the two goddesses Demeter and Kore, or, more
 properly, the Mother and the Maid; the other, "the God" and "the
 Goddess." Both pairs are represented on a relief which Lysimachides
 dedicated at Eleusis in the fourth century B.C. <span
-id="fr_45"></span>[8](#fn_45) ([Fig. 16](gpr17.htm#img_fig16)) . The
+id="fr_45"></span>[8](#fn_45) ([Fig. 16](gpr17.htm#img_fig16).md) . The
 inscription
 
 <span id="page_47">p. 47</span>
@@ -182,15 +182,15 @@ names. Thus, "the God" at Delphi is Apollo, and "the Goddess" at Athens
 is Athena. "The God" and "the Goddess" at Eleusis were Plouton and
 Persephone. They are represented, fortunately with their names
 inscribed, in a similar scene in a vase painting <span
-id="fr_46"></span>[9](#fn_46) ([Fig. 25](gpr21.htm#img_fig25)), in which
+id="fr_46"></span>[9](#fn_46) ([Fig. 25](gpr21.htm#img_fig25).md), in which
 Plouton holds his constant attribute, the cornucopia. They are also
 represented on a badly mutilated tablet from Eleusis. <span
-id="fr_47"></span>[10](#fn_47)
+id="fr_47"></span>[10](#fn_47.md)
 
 To each of these two pairs a hero was added, and so we get two triads:
 Demeter, Kore, and Triptolemos; and "the God," "the Goddess," and
 Eubouleus. They are seen on an Attic relief found at Mondragone near
-Sinuessa in Italy, <span id="fr_48"></span>[11](#fn_48) with the
+Sinuessa in Italy, <span id="fr_48"></span>[11](#fn_48.md) with the
 addition of a seventh figure clad in a Dionysiac costume--boots and
 fawnskin. He is Iacchos. Iacchos is a personification of the Iacchic cry
 heard in the great procession which went from Athens to Eleusis in order
@@ -212,7 +212,7 @@ Eleusis and the cult of Dionysus.
 
 The largest of all Eleusinian monuments, the relief dedicated by
 Lakrateides, priest of "the God," "the Goddess," and Eubouleus, in the
-year 97-96 B.C., <span id="fr_49"></span>[12](#fn_49) is peculiar.
+year 97-96 B.C., <span id="fr_49"></span>[12](#fn_49.md) is peculiar.
 Happily the names of the chief figures are inscribed, so that it can be
 ascertained that both "the God" and Plouton are represented. The
 splitting up of this deity into two is due to the late date of the
@@ -262,7 +262,7 @@ her and ordered a drink of water mixed with barley meal and pennyroyal.
 This drink is the kykeon. The story refers to the preliminary
 initiation, which is represented on certain monuments of the Roman age.
 Among these is a marble vase described by Countess Lovatelli <span
-id="fr_50"></span>[13](#fn_50) ([Fig. 15](gpr17.htm#img_fig15)). To the
+id="fr_50"></span>[13](#fn_50) ([Fig. 15](gpr17.htm#img_fig15).md). To the
 right, a youth who is to be initiated
 
 <span id="page_50">p. 50</span>
@@ -341,7 +341,7 @@ the threshing in June to the autumn sowing in October during which the
 fields are barren and desolate; they are burned by the sun, and not a
 green stalk is seen on them. Yet we are asked to believe that during
 these four months the Corn Maiden is present. Obviously she is
-absent. <span id="fr_51"></span>[14](#fn_51)
+absent. <span id="fr_51"></span>[14](#fn_51.md)
 
 Thus, we are enabled to reach a true understanding of the myth of the
 absence of the Corn Maiden which agrees with the climatic conditions of
@@ -383,16 +383,16 @@ of life.
 
 There is, however, another ascent of the Corn Maiden, which follows soon
 after the fetching of the seed corn from the subterranean silos. It is
-depicted in some vase paintings, <span id="fr_52"></span>[15](#fn_52) of
+depicted in some vase paintings, <span id="fr_52"></span>[15](#fn_52.md) of
 which one on a mixing bowl in the museum at Dresden is the most
-remarkable ([Fig. 17](gpr18.htm#img_fig17)). There we see Pherephatta
+remarkable ([Fig. 17](gpr18.htm#img_fig17).md). There we see Pherephatta
 emerging from the ground, which reaches her knees, while Hermes assists
 her, and three satyrs--nature daemons--dance around her. <span
-id="fr_53"></span>[16](#fn_53) The meaning of this ascent of the Corn
+id="fr_53"></span>[16](#fn_53.md) The meaning of this ascent of the Corn
 Maiden is explained by other vase paintings which seem enigmatical. A
 great female head emerges from the ground and satyrs strike it with
-large hammers <span id="fr_54"></span>[17](#fn_54) ([Fig.
-18](gpr18.htm#img_fig18)). The explanation is not doubtful. A large
+large hammers <span id="fr_54"></span>[17](#fn_54.md) ([Fig.
+18](gpr18.htm#img_fig18).md). The explanation is not doubtful. A large
 wooden hammer was a common rustic implement; it was used for smashing
 the clods and smoothing
 
@@ -419,7 +419,7 @@ festival; they conferred joy and happiness upon man. Not the rape and
 separation but the reunion was its theme. The reunion is represented on
 the famous tablet of Ninnion from the end of the fifth century B.C.,
 found in the sacred precinct at Eleusis <span
-id="fr_55"></span>[18](#fn_55) ([Fig. 21](gpr20.htm#img_fig21)). In the
+id="fr_55"></span>[18](#fn_55) ([Fig. 21](gpr20.htm#img_fig21).md). In the
 lower zone Demeter is seated, and at her side is a vacant seat; Kore is
 absent. Demeter is approached by Iacchos, the leader of the great
 procession to Eleusis, and by two mystae. In the upper zone we again see
@@ -437,13 +437,13 @@ the reuniting of mother and daughter was enacted in the Mysteries, but
 it must have been in the minds of all. Perhaps it was enacted in some
 manner, perhaps it was only indicated symbolically. A Christian writer
 says that the highest mystery of the epopteia at Eleusis was a reaped
-ear of corn shown in silence. <span id="fr_56"></span>[19](#fn_56) It
+ear of corn shown in silence. <span id="fr_56"></span>[19](#fn_56.md) It
 may be that this statement is more trustworthy than others, for it
 agrees exactly with the simple old agrarian character of the Eleusinian
 cult. In this connection, mention is often made of the picture on an
 Apulian tomb vase, which shows five ears of corn in a sacellum, very
-carefully drawn <span id="fr_57"></span>[20](#fn_57) ([Fig.
-20](gpr19.htm#img_fig20)). Of course it has nothing to do with the
+carefully drawn <span id="fr_57"></span>[20](#fn_57.md) ([Fig.
+20](gpr19.htm#img_fig20).md). Of course it has nothing to do with the
 Eleusinian Mysteries, but it is an expression of the same belief in the
 sacredness of the ear of corn, the symbol of the eternity of life. The
 purpose of these rites at the autumn sowing, that which the celebrants
@@ -466,18 +466,18 @@ are able to trace his rise to a higher dignity. It was due to his name,
 which may signify the "thrice warring," but which was understood as the
 "thrice plowing." He became the hero of the thrice-plowed cornfield and
 is sometimes represented with a plow in his hand <span
-id="fr_58"></span>[21](#fn_58) ([Fig. 23](gpr20.htm#img_fig23)).
+id="fr_58"></span>[21](#fn_58) ([Fig. 23](gpr20.htm#img_fig23).md).
 Pausanias mentions the threshing floor of Triptolemos in the sacred
 Rharian field near Eleusis, the cradle of agriculture, where corn was
 sown for the first time. Triptolemos begins to appear in paintings on
 black-figured vases in the late sixth century B.C., represented as a
-bearded hero <span id="fr_59"></span>[22](#fn_59) ([Fig.
-19](gpr19.htm#img_fig19)). In the vase paintings of the early
+bearded hero <span id="fr_59"></span>[22](#fn_59.md) ([Fig.
+19](gpr19.htm#img_fig19).md). In the vase paintings of the early
 red-figured style he is extremely popular. He is seated on a winged car
 drawn by serpents and is placed between the two goddesses, who offer him
 the cup of farewell as they send him out on his mission to propagate
-agriculture <span id="fr_60"></span>[23](#fn_60) ([Fig.
-22](gpr20.htm#img_fig22)). Even when other gods are added, Triptolemos
+agriculture <span id="fr_60"></span>[23](#fn_60.md) ([Fig.
+22](gpr20.htm#img_fig22).md). Even when other gods are added, Triptolemos
 is the central figure.
 
 We know the meaning of this scene from the praises be-stowed upon Athens
@@ -493,7 +493,7 @@ tithes to the Eleusinian goddesses
 <span id="page_57">p. 57</span>
 
 according to old custom and an oracle from Delphi. <span
-id="fr_61"></span>[4](#fn_61) At this time Eleusis must have been
+id="fr_61"></span>[4](#fn_61.md) At this time Eleusis must have been
 recognized as the cradle of agriculture.
 
 The vase paintings mentioned show how strongly the benefits of
@@ -525,7 +525,7 @@ of human
 <span id="page_58">p. 58</span>
 
 beings. Aristophanes speaks of it in some remarkable verses of his
-comedy *The Frogs*. <span id="fr_62"></span>[25](#fn_62) The mystae
+comedy *The Frogs*. <span id="fr_62"></span>[25](#fn_62.md) The mystae
 sing: "The sun and the gay light are only for us who are initiated and
 live a pious life in regard to foreigners and private persons." In order
 to attain to the better lot in the other world for which the mystae
@@ -547,11 +547,11 @@ agricultural cult of Eleusis.
 The Eleusinian Mysteries had still more to offer to the initiated. The
 *Homeric Hymn* promises: "Happy is he who has seen this. Who has not
 taken part in the initiation will not have the same lot after death in
-the gloomy darkness." <span id="fr_63"></span>[26](#fn_63) Sophocles
+the gloomy darkness." <span id="fr_63"></span>[26](#fn_63.md) Sophocles
 repeats the same idea in still more impressive words. He says that those
 who have seen the Mysteries are thrice happy when they go to the
 underworld, and adds that for them only is life, for others all is
-evil. <span id="fr_64"></span>[27](#fn_64) Aristophanes in *The Frogs*
+evil. <span id="fr_64"></span>[27](#fn_64.md) Aristophanes in *The Frogs*
 introduces a chorus of mystae in the scene which is laid in the
 
 <span id="page_59">p. 59</span>
@@ -564,7 +564,7 @@ life. The idea is found, for example, in the eleventh book of the
 *Odyssey*, which describes Odysseus' visit to the underworld. The simple
 fact is that the initiated believed that they would continue to
 celebrate the Mysteries in the underworld, as Aristophanes and
-Euripides <span id="fr_65"></span>[28](#fn_65) show them doing. Since
+Euripides <span id="fr_65"></span>[28](#fn_65.md) show them doing. Since
 the Mysteries were the most edifying event they knew of, such a
 conception of a future state formed the brightest possible contrast to
 the dark and gloomy Hades in which the Greeks believed.
@@ -574,16 +574,16 @@ mass. But it may be permitted to ask whether deeper ideas of life and
 death were not evoked by the Eleusinian Mysteries. Perhaps they were. In
 a remarkable fragment Pindar says: "Happy is he who, having seen this,
 goes beneath the earth; he knows the end of life and he knows its
-god-sent beginning." <span id="fr_66"></span>[29](#fn_66) We do not know
+god-sent beginning." <span id="fr_66"></span>[29](#fn_66.md) We do not know
 if Pindar was initiated, but supposing that his words really refer to
 Eleusinian beliefs, we will try to interpret them. What is the beginning
 of life? If we remember that the Mysteries were a festival of the autumn
 sowing, the ascent of the Corn Maiden, we are re-minded of the words in
 the Gospel of St. John: "Except a corn of wheat fall into the ground and
 die, it abideth alone: but if it die, it bringeth forth much
-fruit." <span id="fr_67"></span>[30](#fn_67) It is related that the
+fruit." <span id="fr_67"></span>[30](#fn_67.md) It is related that the
 Athenians sowed corn on graves and that they called the dead
-*demetreioi*. <span id="fr_68"></span>[31](#fn_68) In a well-known hymn,
+*demetreioi*. <span id="fr_68"></span>[31](#fn_68.md) In a well-known hymn,
 the Christian poet
 
 <span id="page_60">p. 60</span>
@@ -623,18 +623,18 @@ a novelty. A child appears among the Eleusinian
 <span id="page_61">p. 61</span>
 
 deities. Most remarkable is a hydria found in Rhodes <span
-id="fr_69"></span>[32](#fn_69) ([Fig. 24](gpr21.htm#img_fig24)). A woman
+id="fr_69"></span>[32](#fn_69) ([Fig. 24](gpr21.htm#img_fig24).md). A woman
 has partly emerged from the ground, which reaches to her breast. She
 holds a cornucopia on which a child is seated. The child stretches out
 its arms toward a goddess with a scepter, who must be Demeter, for on
 the other side is Kore with two torches and above her is Triptolemos. A
 pelike from Kertsch shows a woman rising from the ground and handing
 over a child to Hermes, at whose side is Athena. <span
-id="fr_70"></span>[33](#fn_70) To the left are Demeter and Kore, and to
+id="fr_70"></span>[33](#fn_70.md) To the left are Demeter and Kore, and to
 the right are "the God" and "the Goddess," that is Plouton and
 Persephone. On the other side, and on a vase in the collection at
 Tubingen, the child is a little older. He stands at the side of Demeter
-and holds a cornucopia. <span id="fr_71"></span>[34](#fn_71)
+and holds a cornucopia. <span id="fr_71"></span>[34](#fn_71.md)
 
 In these paintings the birth of a child is represented in Eleusinian
 surroundings. The type is well known from the representations of the
@@ -652,7 +652,7 @@ people in those troubled times.
 
 In the foregoing we have heard of Plouton as a full-grown god, and he is
 sometimes represented as a white-haired old man. <span
-id="fr_72"></span>[35](#fn_72) But we have also mentioned the myth that
+id="fr_72"></span>[35](#fn_72.md) But we have also mentioned the myth that
 Demeter bore Ploutos, having united herself with Iasion on the
 thrice-plowed fallow land. We find representations of Ploutos at all
 stages of life, corresponding to the cycle of vegetation. Without any
@@ -682,7 +682,7 @@ wrapped in a fawnskin and crowned with ivy, and
 <span id="page_63">p. 63</span>
 
 on a vase from the Hope collection we see Dionysus emerging from the
-ground like the Corn Maiden. <span id="fr_73"></span>[36](#fn_73) We
+ground like the Corn Maiden. <span id="fr_73"></span>[36](#fn_73.md) We
 have seen further that in several late Eleusinian vase paintings
 Dionysus is introduced among the Eleusinian deities. This is a
 forerunner of the coalescence between various mystery cults, which
@@ -733,155 +733,155 @@ ages.
 
 ### Footnotes
 
-<span id="fn_38"></span>[42:1](gpr07.htm#fr_38) For a full presentation
+<span id="fn_38"></span>[42:1](gpr07.htm#fr_38.md) For a full presentation
 of the materials and arguments see my paper, "Die eleusinischen
 Gottheiten," *Archiv für Religionswissenschaft*, XXXII (1935), 79 ff.
 See also my forthcoming *Geschichte der griechischen Religion*, Vol. I.
 
-<span id="fn_39"></span>[42:2](gpr07.htm#fr_39) Frag. 23.
+<span id="fn_39"></span>[42:2](gpr07.htm#fr_39.md) Frag. 23.
 
-<span id="fn_40"></span>[44:3](gpr07.htm#fr_40) A. Dieterich, *Eine
+<span id="fn_40"></span>[44:3](gpr07.htm#fr_40.md) A. Dieterich, *Eine
 Mithrasliturgie* (Leipzig, 1903), p. 125; A. Körte in *Archiv für
 Religionswissenschaft*, XVIII (1915), 122 ff.; and C. Picard in *Revue
 de l’histoire des religions*, XCV (1927), 220 ff.
 
-<span id="fn_41"></span>[45:4](gpr07.htm#fr_41) *Protrepticus*, ed. O.
+<span id="fn_41"></span>[45:4](gpr07.htm#fr_41.md) *Protrepticus*, ed. O.
 Stählin (Leipzig, 1905), p. 16, 11. 18-20.
 
-<span id="fn_42"></span>[45:5](gpr07.htm#fr_42) H. G. Pringsheim,
+<span id="fn_42"></span>[45:5](gpr07.htm#fr_42.md) H. G. Pringsheim,
 *Archäologische Beiträge zur Geschichte des eleusintschen Kults*
 (Dissertation, Bonn, 1905), p. 49 and note 1 on p. 58.
 
-<span id="fn_43"></span>[46:6](gpr07.htm#fr_43) K. Kourouniotes, "Das
+<span id="fn_43"></span>[46:6](gpr07.htm#fr_43.md) K. Kourouniotes, "Das
 eleusinische Heiligtum," *Archiv für Religionswissenschaft*, XXXII
 (1935), 52 ff.; and my *Gesch. der griech. Rel.*, I, 318, Fig. 4, and
 319, Fig. 5.
 
-<span id="fn_44"></span>[46:7](gpr07.htm#fr_44) Deubner, *Attische
+<span id="fn_44"></span>[46:7](gpr07.htm#fr_44.md) Deubner, *Attische
 Feste*, p. 90.
 
-<span id="fn_45"></span>[46:8](gpr07.htm#fr_45) *Ephemeris
+<span id="fn_45"></span>[46:8](gpr07.htm#fr_45.md) *Ephemeris
 archaiologike*, 1886, Pl. 3; L. R. Farnell, *The Cults of the Greek
 States* (Oxford, 1896-1909), III, Pl. 1; and my *Gesch. der griech.
 Rel.*, I, Pl. 39, Fig. 3.
 
-<span id="fn_46"></span>[47:9](gpr07.htm#fr_46) Farnell, *Cults of the
+<span id="fn_46"></span>[47:9](gpr07.htm#fr_46.md) Farnell, *Cults of the
 Greek States*, III, Pl. 8a.
 
-<span id="fn_47"></span>[47:10](gpr07.htm#fr_47) *Ephemeris
+<span id="fn_47"></span>[47:10](gpr07.htm#fr_47.md) *Ephemeris
 archaiologike*, 1901, Pl. 2; and my *Gesch. der griech. Rel.*, I, Pl.
 41, Fig. 1.
 
-<span id="fn_48"></span>[47:11](gpr07.htm#fr_48) *Bulletin de
+<span id="fn_48"></span>[47:11](gpr07.htm#fr_48.md) *Bulletin de
 correspondance hellénique*, LV (1931), Pl. 2.
 
-<span id="fn_49"></span>[48:12](gpr07.htm#fr_49) R. Heberdey in
+<span id="fn_49"></span>[48:12](gpr07.htm#fr_49.md) R. Heberdey in
 *Festschrift Für Otto Benndorf zu seinem 60. Geburtstage* (Vienna,
 1898), Pl. 4 and pp. iii ff.; Farnell, *Cults of the Greek States*, III,
 Pl. 2; and my *Gesch. der Griech. Rel.*, I, Pl. 40.
 
-<span id="fn_50"></span>[49:13](gpr07.htm#fr_50) Farnell, *Cults of the
+<span id="fn_50"></span>[49:13](gpr07.htm#fr_50.md) Farnell, *Cults of the
 Greek States*, III, Pl. 15a; and my *Gesch. der griech. Rel.*, I, Pl.
 43, Fig. 2. This and kindred monuments are exhaustively treated by G. E.
 Rizzo in *Römische Mitteilungen*, XXV (1910), 89 ff.
 
-<span id="fn_51"></span>[52:14](gpr07.htm#fr_51) This view is contested
+<span id="fn_51"></span>[52:14](gpr07.htm#fr_51.md) This view is contested
 by K. Kourouniotes in *Deltion archaiologikon*, XV (1934-35), 1 ff., but
 I cannot find his arguments conclusive. He does not take into account
 the fact that Demeter is not a goddess of vegetation in general but of
 cereals.
 
-<span id="fn_52"></span>[53:15](gpr07.htm#fr_52) They are enumerated and
+<span id="fn_52"></span>[53:15](gpr07.htm#fr_52.md) They are enumerated and
 discussed in an appendix to my paper, "Die eleusinischen Gottheiten,"
 pp. 131 ff., referred to in note 1 of this chapter.
 
-<span id="fn_53"></span>[53:16](gpr07.htm#fr_53) *Archäologischer
+<span id="fn_53"></span>[53:16](gpr07.htm#fr_53.md) *Archäologischer
 Anzeiger*, 1892, p. 166; J. E. Harrison, *Prolegomena to the Study of
 Greek Religion*, 3d ed. (Cambridge, 1922), p. 277, Fig. 67; Farnell,
 *Cults of the Greek States*, III, Pl. 6b; and my *Gesch. der griech.
 Rel.*, I, Pl. 39, Fig. I.
 
-<span id="fn_54"></span>[53:17](gpr07.htm#fr_54) Harrison,
+<span id="fn_54"></span>[53:17](gpr07.htm#fr_54.md) Harrison,
 *Prolegomena*, p. 279, Fig. 69; and my *Gesch. der griech. Rel.*, I, Pl.
 39, Fig. 2.
 
-<span id="fn_55"></span>[54:18](gpr07.htm#fr_55) *Ephemeris
+<span id="fn_55"></span>[54:18](gpr07.htm#fr_55.md) *Ephemeris
 archaiologike*, 1901, Pl. 1; Farnell, *Cults of the Greek States*, III,
 Pl. 16; and my *Gesch. der griech. Rel.*, I, Pl. 41, Fig. 2.
 
-<span id="fn_56"></span>[55:19](gpr07.htm#fr_56) Hippolytus, *Refutatio
+<span id="fn_56"></span>[55:19](gpr07.htm#fr_56.md) Hippolytus, *Refutatio
 haereseon*, V, 8, 39.
 
-<span id="fn_57"></span>[55:20](gpr07.htm#fr_57) P. Wolters, "Die
+<span id="fn_57"></span>[55:20](gpr07.htm#fr_57.md) P. Wolters, "Die
 goldenen Ähren," *Festschrift für James Loeb zum sechzigsten Geburtstag
 gewidmet* (Munich, 1930), p. 124, Fig. 14; Farnell, *Cults of the Greek
 States*, III, Pl. 3b; and my *Gesch. der griech. Rel.*, I, Pl. 42, Fig.
 3.
 
-<span id="fn_58"></span>[56:21](gpr07.htm#fr_58) *Athenische
+<span id="fn_58"></span>[56:21](gpr07.htm#fr_58.md) *Athenische
 Mitteilungen*, XXIV (1899), Pl. 7; and Harrison, *Prolegomena*, p. 273,
 Fig. 65.
 
-<span id="fn_59"></span>[56:22](gpr07.htm#fr_59) W. H. Roscher,
+<span id="fn_59"></span>[56:22](gpr07.htm#fr_59.md) W. H. Roscher,
 *Ausführliches Lexikon der griechischen and römischen Mythologie*
 (Leipzig, 1884-1937), Vol. V, col. 1127, Fig. 1.
 
-<span id="fn_60"></span>[56:23](gpr07.htm#fr_60) The most beautiful
+<span id="fn_60"></span>[56:23](gpr07.htm#fr_60.md) The most beautiful
 example is a skyphos by Hieron. It is often reproduced. See A.
 Furtwängler and K. Reichhold, *Griechische Vasenmalerei* (Munich,
 1900-1932), Pl. 161; Farnell, *Cults of the Greek States*, III, Pl. 13;
 and my Gesch. der griech. Rd., I, Pl. 43, Fig. 1 (part).
 
-<span id="fn_61"></span>[57:4](gpr07.htm#fr_61) Isocrates,
+<span id="fn_61"></span>[57:4](gpr07.htm#fr_61.md) Isocrates,
 *Panegyricus*, 28; Xenophon, *Hellenica*, VI, 3, 6; the decree in W.
 Dittenberger, *Sylloge inscriptionum Graecarum*, 3d ed. (Leipzig,
 1915-24), Vol. I, No. 83.
 
-<span id="fn_62"></span>[58:25](gpr07.htm#fr_62) *Ranae*, vss. 454 ff.
+<span id="fn_62"></span>[58:25](gpr07.htm#fr_62.md) *Ranae*, vss. 454 ff.
 
-<span id="fn_63"></span>[58:26](gpr07.htm#fr_63) Homeric Hymn to
+<span id="fn_63"></span>[58:26](gpr07.htm#fr_63.md) Homeric Hymn to
 Demeter, vss. 480 ff.
 
-<span id="fn_64"></span>[58:27](gpr07.htm#fr_64) Frag. 753, in A. Nauck,
+<span id="fn_64"></span>[58:27](gpr07.htm#fr_64.md) Frag. 753, in A. Nauck,
 *Tragicorum Graecorum fragmenta*, 2d ed. (Leipzig, 1889).
 
-<span id="fn_65"></span>[59:28](gpr07.htm#fr_65) Euripides, *Hercules
+<span id="fn_65"></span>[59:28](gpr07.htm#fr_65.md) Euripides, *Hercules
 furens*, vs. 613.
 
-<span id="fn_66"></span>[59:29](gpr07.htm#fr_66) Frag. 137, in T. Bergk,
+<span id="fn_66"></span>[59:29](gpr07.htm#fr_66.md) Frag. 137, in T. Bergk,
 *Poetae lyrici Graeci*, 4th ed. (Leipzig, 1878-82).
 
-<span id="fn_67"></span>[59:30](gpr07.htm#fr_67) Gospel of St. John, 12:
+<span id="fn_67"></span>[59:30](gpr07.htm#fr_67.md) Gospel of St. John, 12:
 24.
 
-<span id="fn_68"></span>[59:31](gpr07.htm#fr_68) Cicero, *De legibus*,
+<span id="fn_68"></span>[59:31](gpr07.htm#fr_68.md) Cicero, *De legibus*,
 II, 63, from Demetrius of Phaleron; Plutarch, *De facie in orbe lunae*,
 p. 943b.
 
-<span id="fn_69"></span>[61:32](gpr07.htm#fr_69) It is often reproduced.
+<span id="fn_69"></span>[61:32](gpr07.htm#fr_69.md) It is often reproduced.
 See Harrison, *Prolegomena*, p. 525, Fig. 151; and my *Gesch. der
 griech. Rel.*, I, Pl. 44, Fig. 1.
 
-<span id="fn_70"></span>[61:33](gpr07.htm#fr_70) Admirably reproduced in
+<span id="fn_70"></span>[61:33](gpr07.htm#fr_70.md) Admirably reproduced in
 Furtwängler and Reichhold, *Griechische Vasenmalerei*, Pl. 70. See also
 Farnell, *Cults of the Greek States*, III, Pl. 21a (the side with
 Hermes); and my *Gesch. der griech. Rel.*, I, Pl. 46.
 
-<span id="fn_71"></span>[61:34](gpr07.htm#fr_71) C. Watzinger,
+<span id="fn_71"></span>[61:34](gpr07.htm#fr_71.md) C. Watzinger,
 Griechische Vasen in Tubingen (Reutlingen, 1924), Pi. 40; and my *Gesch.
 der griech. Rel.*, I, Pl. 45, Fig. 1. Unfortunately this vase was
 overlooked in my paper, "Die eleusinischen Gottheiten," referred to in
 note 1 of this chapter. On the interpretation see my *Gesch. der griech.
 Rel.*, I, 295, note 4.
 
-<span id="fn_72"></span>[62:35](gpr07.htm#fr_72) On a Nolan hydria; see
+<span id="fn_72"></span>[62:35](gpr07.htm#fr_72.md) On a Nolan hydria; see
 British Museum, *Corpus vasorum antiquorum* (London, 1925-), Fasc. 6,
 Pl. 84, Figs. 2a-c. For Plouton alone see Farnell, *Cults of the Greek
 States*, III, Pl. 32a.
 
-<span id="fn_73"></span>[63:36](gpr07.htm#fr_73) E. M. W. Tillyard, *The
+<span id="fn_73"></span>[63:36](gpr07.htm#fr_73.md) E. M. W. Tillyard, *The
 Hope Vases* (Cambridge, 1923), No. 163, Pl. 26, and pp. 97 ff.
 
 ------------------------------------------------------------------------
 
-[Next: The House and the Family](gpr08)
+[Next: The House and the Family](gpr08.md)

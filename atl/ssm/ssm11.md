@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ssm10)  [Next](ssm12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ssm10)  [Next](ssm12.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ pottery of a high order, bone needles with eyes, stone pipes with
 elbows, strings of fine beads made from shells, fragments of cloth,
 ornaments of catlinite, silver, copper and tortoise shell, and some
 strings of extraordinarily large pearls, etc. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 On their ornaments and pottery are found various religious symbols,
 connecting them with a prehistoric race in Mexico and with Mu, the
@@ -132,7 +132,7 @@ to show some definite connection between them, and that these Indian
 legends are history, orally handed down.
 
 <span id="img_22200"></span> ![&lt;I&gt;Water Bottle&lt;BR&gt; From a
-mound, Mississippi County, Missouri&lt;/I&gt;](img/22200.jpg)  
+mound, Mississippi County, Missouri&lt;/I&gt;](img/22200.jpg.md)  
 *Water Bottle  
 From a mound, Mississippi County, Missouri*
 
@@ -149,7 +149,7 @@ Mound Builders with the prehistoric race of Mexico, heretofore referred
 to.
 
 <span id="img_22300"></span> ![&lt;I&gt;Symbol of the construction and
-workings of the Sun&lt;/I&gt;](img/22300.jpg)  
+workings of the Sun&lt;/I&gt;](img/22300.jpg.md)  
 *Symbol of the construction and workings of the Sun*
 
 This symbol is one of many found on a Mound Builder's water jar in
@@ -274,7 +274,7 @@ Line 3. Figs. 11 to 15. These figures symbolize the
 <span id="img_22700"></span>
 
 [![&lt;I&gt;Mound Builders' Symbols&lt;/I&gt;](tn/22700.jpg)  
-Click to enlarge](img/22700.jpg)  
+Click to enlarge](img/22700.jpg.md)  
 *Mound Builders' Symbols*  
 
  
@@ -342,7 +342,7 @@ knowledge of science, based on theory alone? Personally, I think so.
 [![&lt;I&gt;A Mound Builder's Calendar Stone Found in the Ouachita
 River, Hot Springs, Arkansas&lt;/I&gt;&lt;BR&gt; From Col. J. R.
 Fordyce, Little Rock, Arkansas](tn/23000.jpg)  
-Click to enlarge](img/23000.jpg)  
+Click to enlarge](img/23000.jpg.md)  
 *A Mound Builder's Calendar Stone Found in the Ouachita River, Hot
 Springs, Arkansas*  
 From Col. J. R. Fordyce, Little Rock, Arkansas  
@@ -499,7 +499,7 @@ pronounced display found in Egypt.
 <span id="img_23500"></span>
 
 [![](tn/23500.jpg)  
-Click to enlarge](img/23500.jpg)
+Click to enlarge](img/23500.jpg.md)
 
 SPIDERS.--While the great Serpent Mounds have captured the most public
 interest among the Mound Builders' relics, the Spiders have the greatest
@@ -536,18 +536,18 @@ Scarab in the Egyptian burial chambers.
 
 The symbols on the backs of these Spiders are duplications of the
 symbols found as ornaments on the Water Bottle shown on page
-[241](#page_241). No. 1 is the original symbol for the Four Great Forces
-shown in No. 2 on page [241](#page_241). No. 2 shows the Forces working
+[241](#page_241.md). No. 1 is the original symbol for the Four Great Forces
+shown in No. 2 on page [241](#page_241.md). No. 2 shows the Forces working
 from west
 
 <span id="page_237">p. 237</span>
 
-to east as in No. 3 on page [241](#page_241). No. 3 is the same compound
-symbol as shown in No. 2, page [241](#page_241).
+to east as in No. 3 on page [241](#page_241.md). No. 3 is the same compound
+symbol as shown in No. 2, page [241](#page_241.md).
 
 Some of these symbols are shown on pottery recovered from the ancient
 ruined cities in Crete, Cyprus and ancient Troy <span
-id="fr_1"></span>[1](#fn_1) in Asia Minor.
+id="fr_1"></span>[1](#fn_1.md) in Asia Minor.
 
 Although exceedingly rare, I think that the Grey and Black Spider, as a
 symbol, had a wide range at one time and we still may find many of them
@@ -605,7 +605,7 @@ that something is.
 [![&lt;I&gt;Vase of the Late Minoan I Period (about 1600-1100 B. C.)
 found on Gournia, Crete&lt;BR&gt; Courtesy of the Metropolitan Museum of
 Art&lt;/I&gt;.](tn/23800.jpg)  
-Click to enlarge](img/23800.jpg)  
+Click to enlarge](img/23800.jpg.md)  
 *Vase of the Late Minoan I Period (about 1600-1100 B. C.) found on
 Gournia, Crete  
 Courtesy of the Metropolitan Museum of Art*.  
@@ -672,7 +672,7 @@ This is shown by his broken and cut tentacles, his fighting weapons.
 
 [![&lt;I&gt;A group of octopus vases from
 Cyprus&lt;/I&gt;](tn/24100.jpg)  
-Click to enlarge](img/24100.jpg)  
+Click to enlarge](img/24100.jpg.md)  
 *A group of octopus vases from Cyprus*  
 
 From where did the Greeks get the octopus? First, the octopus appears to
@@ -695,7 +695,7 @@ it to Scandinavia is an open question.
 
 [![&lt;I&gt;The Pipestone Octopus&lt;BR&gt; Witoonti, Pipestone,
 Minnesota&lt;/I&gt;](tn/24200.jpg)  
-Click to enlarge](img/24200.jpg)  
+Click to enlarge](img/24200.jpg.md)  
 *The Pipestone Octopus  
 Witoonti, Pipestone, Minnesota*  
 
@@ -748,7 +748,7 @@ last Magnetic Cataclysm.
 
 <span id="img_24400"></span> ![&lt;I&gt;Gilders Pipe, Omaha, Nebraska,
 over 15,000 years old, made out of the red mottled stone of Pipestone
-Quarry&lt;/I&gt;](img/24400.jpg)  
+Quarry&lt;/I&gt;](img/24400.jpg.md)  
 *Gilders Pipe, Omaha, Nebraska, over 15,000 years old, made out of the
 red mottled stone of Pipestone Quarry*
 
@@ -942,13 +942,13 @@ the Indian legends are by D. Ivan Downs.
 
 ### Footnotes
 
-<span id="fn_0"></span>[218:1](ssm11.htm#fr_0) The pearls, fragments of
+<span id="fn_0"></span>[218:1](ssm11.htm#fr_0.md) The pearls, fragments of
 cloth, ornaments of silver and copper were found in the Bainbridge Mound
 in Ohio.
 
-<span id="fn_1"></span>[237:1](ssm11.htm#fr_1) Schliemann's "Treasures
+<span id="fn_1"></span>[237:1](ssm11.htm#fr_1.md) Schliemann's "Treasures
 of Priam."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Religion in Egypt and India](ssm12)
+[Next: Chapter IX. Religion in Egypt and India](ssm12.md)

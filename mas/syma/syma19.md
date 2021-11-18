@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](syma18)  [Next](syma20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](syma18)  [Next](syma20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symbolical Masonry*, by H.L. Haywood, \[1923\], at Intangible Textual
 Heritage
 
@@ -231,4 +231,4 @@ continually will never wander far from the paths of life.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. The Lesser Lights](syma20)
+[Next: Chapter XVI. The Lesser Lights](syma20.md)

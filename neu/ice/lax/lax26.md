@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Icelandic](../index)  [Index](index) 
-[Previous](lax25)  [Next](lax27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Icelandic](../index)  [Index](index.md) 
+[Previous](lax25)  [Next](lax27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ three booths, and make themselves comfortable in a handsome manner.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII: The Funeral Feast for Hoskuld](lax27)
+[Next: Chapter XXVII: The Funeral Feast for Hoskuld](lax27.md)

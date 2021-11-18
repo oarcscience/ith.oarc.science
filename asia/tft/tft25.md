@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft24)  [Next](tft26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft24)  [Next](tft26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -61,4 +61,4 @@ his old father."
 
 ------------------------------------------------------------------------
 
-[Next: Twenty-Three: Story of the Prince's Friend](tft26)
+[Next: Twenty-Three: Story of the Prince's Friend](tft26.md)

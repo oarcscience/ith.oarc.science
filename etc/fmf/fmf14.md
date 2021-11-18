@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf13)  [Next](fmf15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf13)  [Next](fmf15.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ MORAL: Anything for an Excuse.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Open Champion, The Veranda Fixture and the
-Once-a-Weeker from Town](fmf15)
+Once-a-Weeker from Town](fmf15.md)

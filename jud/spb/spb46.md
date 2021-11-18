@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb45)  [Next](spb47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb45)  [Next](spb47.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ Maker.
 
 Serve the Lord with joy; come before him with exulting.
 
-Psalm c., [p. 23](spb05.htm#page_23).
+Psalm c., [p. 23](spb05.htm#page_23.md).
 
 ------------------------------------------------------------------------
 
@@ -101,12 +101,12 @@ the bridegroom to rejoice with the bride.
 
 ------------------------------------------------------------------------
 
-*Psalm cl, [p. 39](spb05.htm#page_39)*.
+*Psalm cl, [p. 39](spb05.htm#page_39.md)*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Grace After the Wedding Feast](spb47)
+[Next: Grace After the Wedding Feast](spb47.md)
 
 </div>

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm23)  [Next](rrm25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm23)  [Next](rrm25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
 <span id="img_17800"></span>
 
 [![Moorish Arch. Cathedral of Cordova](tn/17800.jpg)  
-Click to enlarge](img/17800.jpg)  
+Click to enlarge](img/17800.jpg.md)  
 Moorish Arch. Cathedral of Cordova  
 
 ### CHAPTER THE TWENTIETH
@@ -30,7 +30,7 @@ Round Table' displays the 'crucified' Rose in its centre.
 <span id="img_17801"></span>
 
 [![Fig. 34](tn/17801.jpg)  
-Click to enlarge](img/17801.jpg)  
+Click to enlarge](img/17801.jpg.md)  
 Fig. 34  
 
 In the 'tables' (*Tablier*, Fr. = Apron), alternating with tying-knots,
@@ -56,7 +56,7 @@ is, and the changes meant and apotheosized through it, the discreet
 reader will see on a little reflection.
 
 All the world knows the chivalric origin of this Most Noble Order of the
-Garter <span id="fr_8"></span>[1](#fn_8). It arose in a princely
+Garter <span id="fr_8"></span>[1](#fn_8.md). It arose in a princely
 act--rightly considered princely, when the real, delicate, inexpressibly
 high-bred motive and its circumstances are understood, which motive is
 systematically and properly concealed. Our great King Edward the Third
@@ -136,7 +136,7 @@ others hover above her head, bearing up a wreath. In the field, ΦΑΣΙΣ
 ΑΡΙΩΡΙΦ--'The Manifestation of Arioriph'. Venus here stands for the
 personification of the Gnostic *Sophia*, or Achamoth, and as such is the
 undoubted source of our conventional representation of Truth
-([Montfauçon](errata.htm#4), pl. clxi). *Reverse*, figure 312, which
+([Montfauçon](errata.htm#4), pl. clxi.md). *Reverse*, figure 312, which
 represents Harpocrates seated upon the lotus, springing from a double
 lamp, formed of two phalli united at the base. Above his head is his
 title 'Abraxas', and over that is the name 'Iao'. In the field are the
@@ -220,10 +220,10 @@ representative side.
 
 ### Footnotes
 
-<span id="fn_8"></span>[179:1](rrm24.htm#fr_8) See post, and through a
+<span id="fn_8"></span>[179:1](rrm24.htm#fr_8.md) See post, and through a
 subsequent Chapter, for particular facts--very important in the
 authentic history of the 'Garter'.
 
 ------------------------------------------------------------------------
 
-[Next: Charts 1-3](rrm25)
+[Next: Charts 1-3](rrm25.md)

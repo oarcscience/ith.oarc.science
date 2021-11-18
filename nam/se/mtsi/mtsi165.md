@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi164)  [Next](mtsi166) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi164)  [Next](mtsi166.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ and they followed without stopping. Then he walked on backward and the
 others started on backward also. They went along backward some distance
 apart. When he got some distance away he turned about and ran and those
 two ran after him. When they had nearly caught up with him
-Children-holding-to-each-other <span id="fr_43"></span>[1](#fn_43)
+Children-holding-to-each-other <span id="fr_43"></span>[1](#fn_43.md)
 sitting on the top of a tree said to him,
 
 <span id="page_148">p. 148</span>
@@ -63,10 +63,10 @@ And after he had tried for a while he became scared and went out.
 
 ### Footnotes
 
-<span id="fn_43"></span>[147:1](mtsi165.htm#fr_43) Small beings like
+<span id="fn_43"></span>[147:1](mtsi165.htm#fr_43.md) Small beings like
 children who stood on one another's shoulders and were supported by the
 one at the top, who hold on by a branch.
 
 ------------------------------------------------------------------------
 
-[Next: 30. The Sapia](mtsi166)
+[Next: 30. The Sapia](mtsi166.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp25)  [Next](potp27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp25)  [Next](potp27.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,4 +128,4 @@ to keep them from straining or harming her.
 
 ------------------------------------------------------------------------
 
-[Next: In Conclusion](potp27)
+[Next: In Conclusion](potp27.md)

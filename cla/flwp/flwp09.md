@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp08)  [Next](flwp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp08)  [Next](flwp10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -47,7 +47,7 @@ capacity, will become an actual fabricator, through some one who is a
 fabricator in energy. And if the latter, indeed, is always in energy the
 cause of the former being a fabricator, the former will always be a
 fabricator through the preceding axiom, <span
-id="fr_27"></span>[\*](#fn_27) which says, when the cause is in energy,
+id="fr_27"></span>[\*](#fn_27.md) which says, when the cause is in energy,
 the effect also produced by it will be in energy; so that the thing
 which is fabricated by an eternally energising cause always is. But if
 this cause is at a certain time the cause in capacity of the fabricator
@@ -78,7 +78,7 @@ first in capacity and afterwards in energy.
 
 ### Footnotes
 
-<span id="fn_27"></span>[38:\*](flwp09.htm#fr_27) It appears, from what
+<span id="fn_27"></span>[38:\*](flwp09.htm#fr_27.md) It appears, from what
 is here said, that certain axioms preceded this work, which, as the
 beginning is wanting, are lost; and this being the case, it is more than
 probable that these arguments of Proclus were originally in the form of
@@ -86,4 +86,4 @@ propositions, like his Physical and Theological Elements.
 
 ------------------------------------------------------------------------
 
-[Next: Argument the Fourth](flwp10)
+[Next: Argument the Fourth](flwp10.md)

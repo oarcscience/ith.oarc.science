@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil51)  [Next](seil53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil51)  [Next](seil53.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 ### OF THE CALL OF THE APOSTLES
 
 **First Point.** First: it seems that <span
-id="fr_25"></span>[26](seil83.htm#fn_25) St. Peter and St. Andrew were
+id="fr_25"></span>[26](seil83.htm#fn_25.md) St. Peter and St. Andrew were
 called three times: first, to some knowledge; this is clear from St.
 John in the first Chapter: secondly, to follow Christ in some way with
 the purpose of returning to possess what they had left, as St. Luke says
@@ -42,4 +42,4 @@ Fathers of the New and Old Testaments.
 
 ------------------------------------------------------------------------
 
-[Next: The First Miracle](seil53)
+[Next: The First Miracle](seil53.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh14)  [Next](ehh16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh14)  [Next](ehh16.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ had lived a life of moral rectitude, and had followed after
 righteousness and integrity when they were upon earth. Secondly, they
 were allowed to live in the corner of the SEKHET-HETEPET with the great
 god himself, in the place where, as we know from the Papyrus of Ani (see
-above, [p. 44](ehh04.htm#page_44)), most wonderful grain grew. Thirdly,
+above, [p. 44](ehh04.htm#page_44).md), most wonderful grain grew. Thirdly,
 an everlasting supply of offerings made upon earth was assured them, and
 in this respect they were coequal with HETEPI, the chief god of the
 Field of Peace (or, Field of Offerings). Thus the religion of Osiris
@@ -117,4 +117,4 @@ consider the Kingdom of Osiris, the lord of Mendes and Busiris.
 ------------------------------------------------------------------------
 
 [Next: Chapter X. Sixth Division of the Tuat. I. Kingdom of Osiris
-According to the Book Am-Tuat](ehh16)
+According to the Book Am-Tuat](ehh16.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat16.htm#CXXXII) 
-[Previous](satl131)  [Next](satl133) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat16.htm#CXXXII.md) 
+[Previous](satl131)  [Next](satl133.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ ineptius".
 
 ------------------------------------------------------------------------
 
-[Next: CXXXIII](satl133)
+[Next: CXXXIII](satl133.md)

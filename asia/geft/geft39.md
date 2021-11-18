@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft38)  [Next](geft40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft38)  [Next](geft40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -46,4 +46,4 @@ Henceforth let no one presume to find fault with Providence!'
 
 ------------------------------------------------------------------------
 
-[Next: XIII. The King's Counsellor](geft40)
+[Next: XIII. The King's Counsellor](geft40.md)

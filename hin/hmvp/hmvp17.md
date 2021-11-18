@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp16)  [Next](hmvp18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp16)  [Next](hmvp18.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Hindu gods, is called the Creator; he is the father of gods and men, the
 
 <span id="img_09800"></span> <span align="CENTER">
 [![BRAHMĀ.](tn/09800.jpg)  
-Click to enlarge](img/09800.jpg)  
+Click to enlarge](img/09800.jpg.md)  
 BRAHMĀ.  
 </span>
 
@@ -36,7 +36,7 @@ regard it a duty to describe
 the work of creation as performed by this god, and as each account
 differs in detail from the others, it is a perfectly hopeless task to
 attempt to give a harmonized statement of this great event. I shall
-therefore give Manu's <span id="fr_100"></span>[\*](#fn_100) account of
+therefore give Manu's <span id="fr_100"></span>[\*](#fn_100.md) account of
 it, which is largely founded upon the teaching of the Vedas, though
 considerably mixed up with more modern views.
 
@@ -53,7 +53,7 @@ as the sun, in which he himself was born as Brahmā, the progenitor of
 all worlds. The waters are called *nārāh*, because they are the
 offspring of Nara; and since they were formerly the place of his
 movement (*ayana*), he is therefore called Nārāyana. <span
-id="fr_101"></span>[†](#fn_101) Being formed by that First Cause,
+id="fr_101"></span>[†](#fn_101.md) Being formed by that First Cause,
 undiscernible, eternal, which is both existent and non-existent, that
 male is
 
@@ -61,12 +61,12 @@ male is
 
 known in the world as Brahmā. That lord having continued a year in the
 egg, divided it into two parts by his mere thought." <span
-id="fr_102"></span>[\*](#fn_102) In the Mahābhārata, and some of the
+id="fr_102"></span>[\*](#fn_102.md) In the Mahābhārata, and some of the
 Purānas, Brahmā is said to have issued from a lotus that sprang from the
 navel of Vishnu.
 
 The egg referred to above is thus described in the "Vishnu Purāna" <span
-id="fr_103"></span>[†](#fn_103):—"Its womb, vast as the mountain Meru,
+id="fr_103"></span>[†](#fn_103.md):—"Its womb, vast as the mountain Meru,
 was composed of the mountains, and the mighty oceans were the waters
 which filled its cavity. In that egg were the continents, seas, and
 mountains; the planets and divisions of the universe; the gods, the
@@ -75,14 +75,14 @@ signify his manifestation." This wonderful egg, after the Creator had
 inhabited it for a thousand years, burst open, and Brahmā issuing forth
 by meditation commenced the work of creation. Seeing that the earth was
 sunk beneath the waters, he assumed the form of a boar, <span
-id="fr_104"></span>[‡](#fn_104) and, diving, raised it upon his tusks.
+id="fr_104"></span>[‡](#fn_104.md) and, diving, raised it upon his tusks.
 After this, he continued the work of creation.
 
 In pictures Brahmā is represented as a red man with four heads, though
 in the Purānas he is said to have had originally five. He is dressed in
 white raiment, and rides upon a goose. In one hand he carries a staff,
 in the other a dish for receiving alms. A legend in the "Matsya
-Purāna" <span id="fr_105"></span>[§](#fn_105) gives the following
+Purāna" <span id="fr_105"></span>[§](#fn_105.md) gives the following
 account of the formation of his numerous heads:—"Brahmā formed from his
 own immaculate substance a female who is celebrated under the names of
 Satarupā, Savitri, Sarasvati, Gāyatri, and Brāhmani. Beholding his
@@ -100,11 +100,11 @@ formed. Brahmā then said to his daughter, 'Let us produce all kinds of
 animated beings, men, suras (gods), and asuras (demons). Hearing this,
 she descended, and Brahmā having espoused her, they withdrew to a
 secluded spot where they dwelt together for one hundred divine
-years; <span id="fr_106"></span>[\*](#fn_106) at the expiration of which
+years; <span id="fr_106"></span>[\*](#fn_106.md) at the expiration of which
 time was born Manu, who is also called Swayambhuva and Virāj." <span
-id="fr_107"></span>[†](#fn_107)
+id="fr_107"></span>[†](#fn_107.md)
 
-The following legend <span id="fr_108"></span>[‡](#fn_108) occurs, with
+The following legend <span id="fr_108"></span>[‡](#fn_108.md) occurs, with
 some variations, in several Purānas, showing why Brahmā was deprived of
 his fifth head:—
 
@@ -157,7 +157,7 @@ Brahmā was deprived of his fifth head." Upon this Vishnu and Brahmā
 praised Siva.
 
 In another part of the same Purāna <span
-id="fr_109"></span>[\*](#fn_109) is another legend, giving a somewhat
+id="fr_109"></span>[\*](#fn_109.md) is another legend, giving a somewhat
 different account of this circumstance:—
 
 "Formerly all things movable and immovable having been destroyed, nought
@@ -213,7 +213,7 @@ neither suras (gods) nor asuras (demons) could endure."
 
 <span id="page_105">p. 105</span>
 
-The "Padma Purāna" <span id="fr_110"></span>[\*](#fn_110) thus concludes
+The "Padma Purāna" <span id="fr_110"></span>[\*](#fn_110.md) thus concludes
 this story: "Unable therefore to approach or behold it, they determined
 to apply to Siva for relief. Being propitiated by them, Siva granted
 their request, and proceeded with them to where Brahmā remained inflated
@@ -233,10 +233,10 @@ should hereafter drink spirits.
 
 In the passages just quoted, Brahmā is represented as worshipping Siva
 for his own personal benefit; in the Vishnu Purāna," <span
-id="fr_111"></span>[†](#fn_111) he is described as joining with gods and
+id="fr_111"></span>[†](#fn_111.md) he is described as joining with gods and
 men in the worship of this same deity, and as officiating as priest on
 that occasion. And in another part of the Purāna <span
-id="fr_112"></span>[‡](#fn_112) is the following hymn addressed to
+id="fr_112"></span>[‡](#fn_112.md) is the following hymn addressed to
 Vishnu by Brahmā:—"Thou art the common centre of all, the protector of
 the world, and all things exist in thee. All that has been, or will be,
 thou art. There is nothing else but thee, O lord; nothing else has been,
@@ -255,11 +255,11 @@ containing a description of the image of Brahmā; at noon they present to
 him a single flower; at the time of burnt-offering, *ghī* is presented
 to him. In the month of Māgh, at the full moon, an earthen image of him
 is worshipped, with that of Siva on his right hand, and Vishnu on his
-left." <span id="fr_113"></span>[\*](#fn_113) Brahmā as Creator is
+left." <span id="fr_113"></span>[\*](#fn_113.md) Brahmā as Creator is
 supposed to have finished his work; hence, excepting in one place, viz.
 at Pushkara in Ājmir, there is no temple to him now existing. It is
 evident that for centuries the worship of Brahmā has not been common,
-for in the "Skanda Purāna " <span id="fr_114"></span>[†](#fn_114) is an
+for in the "Skanda Purāna " <span id="fr_114"></span>[†](#fn_114.md) is an
 indelicate legend, in which the charge of falsehood is proved against
 him, and this fact is given to account for the fact that his worship had
 ceased. It concludes as follows:—"Since thou hast childishly and with
@@ -283,7 +283,7 @@ operate in the
 production of life and the preservation of health, is identified with
 Prajāpati, or Brahmā; and in the sense of "maker " the term is also
 applied to Vishnu and Krishna. Sometimes he is said to be a son of
-Brahmā. <span id="fr_115"></span>[\*](#fn_115)
+Brahmā. <span id="fr_115"></span>[\*](#fn_115.md)
 
 In addition to the names of Brahmā already referred to, the following
 are those most commonly known:—
@@ -322,14 +322,14 @@ daughter; hence her union with him
 
 was said to be criminal by the other gods. Sometimes she is called the
 wife of Vishnu, but this difficulty is explained by a legend. <span
-id="fr_116"></span>[\*](#fn_116) "Sarasvati, by the standard
+id="fr_116"></span>[\*](#fn_116.md) "Sarasvati, by the standard
 mythological authorities, is the wife of Brahmā. The Vaishnavas of
 Bengal have a popular legend that she was the wife of Vishnu, as were
 also Lakshmi and Gangā. The ladies disagreed, Sarasvati, like the other
 
 <span id="img_10800"></span> <span align="CENTER">
 [![SARASVATI.](tn/10800.jpg)  
-Click to enlarge](img/10800.jpg)  
+Click to enlarge](img/10800.jpg.md)  
 SARASVATI.  
 </span>
 
@@ -363,7 +363,7 @@ have led to the further step of imagining her to have an influence on
 the composition of the hymns which formed so important a part of the
 proceedings, and of identifying her with Vāch, the goddess of speech. At
 least I have no other explanation to offer to this double character and
-identification. <span id="fr_117"></span>[\*](#fn_117)
+identification. <span id="fr_117"></span>[\*](#fn_117.md)
 
 "Sarasvati is frequently invited to the sacrifices along with several
 other goddesses, who, however, were never, like her, river nymphs, but
@@ -397,7 +397,7 @@ Mahābhārata she is called the mother of the Vedas, and the same is said
 of Vāch in the Taittariya Brāhmana where she is said to be the wife of
 Indra, to contain within herself all worlds, and to have been sought
 after by the Rishis who composed the Vedic hymns, as well as by the gods
-through austerity." <span id="fr_118"></span>[\*](#fn_118)
+through austerity." <span id="fr_118"></span>[\*](#fn_118.md)
 
 In the Purānas, Sarasvati is spoken of under other titles. A verse in
 the "Matsya Purāna" gives authority for the belief that one goddess only
@@ -409,7 +409,7 @@ names of Satarupā, Savitri,
 
 <span class="contnote">\[paragraph continues\]</span> Sarasvati,
 Gāyatri, and Brāhmani." In the following legend from the "Skanda
-Purāna," <span id="fr_119"></span>[\*](#fn_119) though by Savitri
+Purāna," <span id="fr_119"></span>[\*](#fn_119.md) though by Savitri
 Sarasvati is intended, Gāyatri represents some other person who became a
 *second* wife of Brahmā. Iswara (Siva) is addressing Devi (Parvati):—
 
@@ -489,7 +489,7 @@ accompanied for a short distance by Lakshmi and the other goddesses,
 when they all declared their intention of returning. On hearing this,
 Savitri was incensed, and thus addressed them: 'Since you now forsake
 me, O Lakshmi! mayest thou never remain stationary in one place; <span
-id="fr_120"></span>[\*](#fn_120) and mayest thou always abide with the
+id="fr_120"></span>[\*](#fn_120.md) and mayest thou always abide with the
 vile, the inconstant, the contemptible, the sinful, the cruel, the
 foolish, and the barbarian! And, Indrāni, when Indra incurs the guilt of
 Brāhmanicide by slaying Tvastri's son, then shall Nahusha acquire his
@@ -546,10 +546,10 @@ learning, she is regularly worshipped once a year.
 
 ### Footnotes
 
-<span id="fn_100"></span>[99:\*](hmvp17.htm#fr_100) "Dharma Shastra,"
+<span id="fn_100"></span>[99:\*](hmvp17.htm#fr_100.md) "Dharma Shastra,"
 chaps. i.—v.
 
-<span id="fn_101"></span>[99:†](hmvp17.htm#fr_101) According to the
+<span id="fn_101"></span>[99:†](hmvp17.htm#fr_101.md) According to the
 "Brahmā Purāna," another name, Āpava (who sports on the waters), is
 given Brahmā, which has a similar, though not identical, application
 with Nārāyana. Āpava, according to that Purāna, divided himself into two
@@ -560,21 +560,21 @@ creation of Āpava, or Vishistha, or Virāj by Vishnu, through the agency
 of Brahmā; and the next was the creation of Manu by Virāj."—Dowson,
 *s.v.* "Apave."
 
-<span id="fn_102"></span>[100:\*](hmvp17.htm#fr_102) Muir, O. S. T., iv.
+<span id="fn_102"></span>[100:\*](hmvp17.htm#fr_102.md) Muir, O. S. T., iv.
 31.
 
-<span id="fn_103"></span>[100:†](hmvp17.htm#fr_103) Page 18.
+<span id="fn_103"></span>[100:†](hmvp17.htm#fr_103.md) Page 18.
 
-<span id="fn_104"></span>[100:‡](hmvp17.htm#fr_104) In later writings
+<span id="fn_104"></span>[100:‡](hmvp17.htm#fr_104.md) In later writings
 Vishnu, in a special incarnation, is said to have assumed this form.
 
-<span id="fn_105"></span>[100:§](hmvp17.htm#fr_105) Kennedy's "Hindu
+<span id="fn_105"></span>[100:§](hmvp17.htm#fr_105.md) Kennedy's "Hindu
 Mythology," p. 317.
 
-<span id="fn_106"></span>[101:\*](hmvp17.htm#fr_106) See Part ii. chap.
+<span id="fn_106"></span>[101:\*](hmvp17.htm#fr_106.md) See Part ii. chap.
 x.
 
-<span id="fn_107"></span>[101:†](hmvp17.htm#fr_107) The "Bhāgavata
+<span id="fn_107"></span>[101:†](hmvp17.htm#fr_107.md) The "Bhāgavata
 Purāna" says there was another son from this marriage, named Priyavrata.
 Being dissatisfied with the work of the Sun because he illuminated only
 one-half of the world at a time, he followed him seven times in a
@@ -583,41 +583,41 @@ night into day. Brahmā stopped him. The ruts made by his chariot wheels
 became the seven oceans; and thus the seven continents were
 made.—Dowson.
 
-<span id="fn_108"></span>[101:‡](hmvp17.htm#fr_108) Kennedy's "Hindu
+<span id="fn_108"></span>[101:‡](hmvp17.htm#fr_108.md) Kennedy's "Hindu
 Mythology," p. 273.
 
-<span id="fn_109"></span>[103:\*](hmvp17.htm#fr_109) Kennedy's "Hindu
+<span id="fn_109"></span>[103:\*](hmvp17.htm#fr_109.md) Kennedy's "Hindu
 Mythology," p. 276.
 
-<span id="fn_110"></span>[105:\*](hmvp17.htm#fr_110) Kennedy's "Hindu
+<span id="fn_110"></span>[105:\*](hmvp17.htm#fr_110.md) Kennedy's "Hindu
 Mythology," p. 276.
 
-<span id="fn_111"></span>[105:†](hmvp17.htm#fr_111) Page 102.
+<span id="fn_111"></span>[105:†](hmvp17.htm#fr_111.md) Page 102.
 
-<span id="fn_112"></span>[105:‡](hmvp17.htm#fr_112) Page 496.
+<span id="fn_112"></span>[105:‡](hmvp17.htm#fr_112.md) Page 496.
 
-<span id="fn_113"></span>[106:\*](hmvp17.htm#fr_113) Ward, ii. 30.
+<span id="fn_113"></span>[106:\*](hmvp17.htm#fr_113.md) Ward, ii. 30.
 
-<span id="fn_114"></span>[106:†](hmvp17.htm#fr_114) Kennedy's "Hindu
+<span id="fn_114"></span>[106:†](hmvp17.htm#fr_114.md) Kennedy's "Hindu
 Mythology," p. 271.
 
-<span id="fn_115"></span>[107:\*](hmvp17.htm#fr_115) Dowson, *s.v.*
+<span id="fn_115"></span>[107:\*](hmvp17.htm#fr_115.md) Dowson, *s.v.*
 
-<span id="fn_116"></span>[108:\*](hmvp17.htm#fr_116) Wilson's Works, ii.
+<span id="fn_116"></span>[108:\*](hmvp17.htm#fr_116.md) Wilson's Works, ii.
 187.
 
-<span id="fn_117"></span>[109:\*](hmvp17.htm#fr_117) Muir, O. S. T., v.
+<span id="fn_117"></span>[109:\*](hmvp17.htm#fr_117.md) Muir, O. S. T., v.
 339.
 
-<span id="fn_118"></span>[110:\*](hmvp17.htm#fr_118) Muir, O. S. T., y.
+<span id="fn_118"></span>[110:\*](hmvp17.htm#fr_118.md) Muir, O. S. T., y.
 337 ff.
 
-<span id="fn_119"></span>[111:\*](hmvp17.htm#fr_119) Kennedy, "Hindu
+<span id="fn_119"></span>[111:\*](hmvp17.htm#fr_119.md) Kennedy, "Hindu
 Mythology," p. 320.
 
-<span id="fn_120"></span>[113:\*](hmvp17.htm#fr_120) Lakshmi is the
+<span id="fn_120"></span>[113:\*](hmvp17.htm#fr_120.md) Lakshmi is the
 goddess of fortune.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Vishnu and Lakshmi](hmvp18)
+[Next: Chapter V. Vishnu and Lakshmi](hmvp18.md)

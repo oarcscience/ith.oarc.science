@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm29)  [Next](tgm31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm29)  [Next](tgm31.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ child was left out. Someone stayed behind. Someone did not reach
 <span id="img_15400"></span>
 
 [![](tn/15400.jpg)  
-Click to enlarge](img/15400.jpg)
+Click to enlarge](img/15400.jpg.md)
 
  
 
@@ -65,7 +65,7 @@ Straight would I fly to thee,
 And I would moisten thy holy dust  
 With tears ever running free*."
 
- <span id="fr_0"></span>[1](#fn_0)
+ <span id="fr_0"></span>[1](#fn_0.md)
 
 \[paragraph continues\] Some of his college friends came over and
 listened.
@@ -108,7 +108,7 @@ In mine eyes;
 But the dust of the ruined Temple  
 As a treasure of beauty I prize*."'
 
- <span id="fr_1"></span>[1](#fn_1)
+ <span id="fr_1"></span>[1](#fn_1.md)
 
 When he finished reading, one of the boys said:
 
@@ -196,12 +196,12 @@ sung.
 
 ### Footnotes
 
-<span id="fn_0"></span>[155:1](tgm30.htm#fr_0) Adapted from the
+<span id="fn_0"></span>[155:1](tgm30.htm#fr_0.md) Adapted from the
 translation by Emma Lazarus.
 
-<span id="fn_1"></span>[157:1](tgm30.htm#fr_1) Adapted from the
+<span id="fn_1"></span>[157:1](tgm30.htm#fr_1.md) Adapted from the
 translation by Emma Lazarus.
 
 ------------------------------------------------------------------------
 
-[Next: 28. An Angel Did It](tgm31)
+[Next: 28. An Angel Did It](tgm31.md)

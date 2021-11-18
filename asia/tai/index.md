@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,5 +13,5 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](taitp)  
-[Chapter IV: Myths and Legends](tai04)  
+[Title Page](taitp.md)  
+[Chapter IV: Myths and Legends](tai04.md)  

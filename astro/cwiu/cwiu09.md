@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu08)  [Next](cwiu10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu08)  [Next](cwiu10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ phantasy, which enabled him to describe at length God's paradise and the
 life and various occupations of the blessed souls and spirits in their
 post-terrestrial existence, in spite of his amazing credulity (equalled
 only by that of his pupil and friend, fellow of the Royal Society,
-Joseph Glanvill,[1](cwiu16.htm#an_6_1) the celebrated author of the
+Joseph Glanvill,[1](cwiu16.htm#an_6_1.md) the celebrated author of the
 *Scepsis scientifica*), which made him believe in magic, in witches, in
 apparitions, in ghosts, Henry More succeeded in grasping the fundamental
 principle of the new ontology, the infinitization of space, which he
@@ -60,10 +60,10 @@ It is possible, and even probable, that, at the time of his *Letters* to
 Descartes (1648), Henry More did not yet recognize where the development
 of his conceptions was ultimately to lead him, all the more so as these
 conceptions are by no means "clear" and "distinct." Ten years later, in
-his *Antidote against Atheism*[2](cwiu16.htm#an_6_2) and his
-*Immortality of the Soul*[3](cwiu16.htm#an_6_3) he was to give them a
+his *Antidote against Atheism*[2](cwiu16.htm#an_6_2.md) and his
+*Immortality of the Soul*[3](cwiu16.htm#an_6_3.md) he was to give them a
 much more precise and definite shape; but it was only in his
-*Enchiridium metaphysicum*,[4](cwiu16.htm#an_6_4) ten years later still,
+*Enchiridium metaphysicum*,[4](cwiu16.htm#an_6_4.md) ten years later still,
 that they were to acquire their final form.
 
 As we have seen, Henry More's criticism of Descartes’ identification of
@@ -97,7 +97,7 @@ so on), we shall have to dwell for a moment on his concept of it.
 
 Henry More was well aware that the notion of "spirit" was, as often as
 not, and even more often than not, presented as impossible to grasp, at
-least for the human mind,[5](cwiu16.htm#an_6_5)
+least for the human mind,[5](cwiu16.htm#an_6_5.md)
 
 <div class="iq">
 
@@ -153,7 +153,7 @@ account both of his notion of spirit and
 
 of the manner in which this notion can be determined. Moreover he
 attempts to introduce into his definition a sort of terminological
-precision. Thus, he says,[6](cwiu16.htm#an_6_6) "by *Actual
+precision. Thus, he says,[6](cwiu16.htm#an_6_6.md) "by *Actual
 Divisibility* I understand *Discerpibility*, gross tearing or cutting of
 one part from the other." It is quite clear that this "discerpibility"
 can only belong to a body and that you cannot tear away and remove a
@@ -163,14 +163,14 @@ As for the faculty of contraction and dilation, More refers it to the
 "essential spissitude" of the spirit, a kind of spiritual density,
 fourth mode, or fourth dimension of spiritual substance that it
 possesses in addition to the normal three of spatial extension with
-which bodies are alone endowed.[7](cwiu16.htm#an_6_7) Thus, when a
+which bodies are alone endowed.[7](cwiu16.htm#an_6_7.md) Thus, when a
 spirit contracts, its "essential spissitude" increases; it decreases, of
 course, when it dilates. We cannot, indeed, *imagine* the "spissitude"
-but this "*fourth* Mode," Henry More tells us,[8](cwiu16.htm#an_6_8) "is
+but this "*fourth* Mode," Henry More tells us,[8](cwiu16.htm#an_6_8.md) "is
 as easy and familiar to my Understanding as that of the *Three
 dimensions* to my sense or Phansy."
 
-The definition of spirit is now quite easy:[9](cwiu16.htm#an_6_9)
+The definition of spirit is now quite easy:[9](cwiu16.htm#an_6_9.md)
 
 <div class="iq">
 
@@ -200,7 +200,7 @@ moved can move other *Matter*. And it is as easy to understand what
 *Discerpible*; and *Penetrability* and *Indiscerpibility* being as
 *immediate* to *Spirit* as *Impenetrability* or *Discerpibility* to
 *Body*, there is as much reason to be given for the Attributes of the
-one as of the other, by Axiome 9[10](cwiu16.htm#an_6_10) And *Substance*
+one as of the other, by Axiome 9[10](cwiu16.htm#an_6_10.md) And *Substance*
 in its precise notion including no more of *Impenetrability* than of
 *Indiscerpibility* we may as well wonder how one kind of Substance holds
 out its parts one from another so as to make them *impenetrable* to each
@@ -272,7 +272,7 @@ the fundamental entity of contemporary science, the "field," is
 something that possesses location and extension, penetrability and
 indiscerpibility. . . . So that, somewhat anachronistically, of course,
 one could assimilate More's " spirits," at least the lowest, unconscious
-degrees of them, to some kinds of fields.[11](cwiu16.htm#an_6_11)a
+degrees of them, to some kinds of fields.[11](cwiu16.htm#an_6_11.md)a
 
 But let us now come back to More. The greater precision achieved by him
 in the determination of the concept of spirit led necessarily to a
@@ -284,7 +284,7 @@ distinguished now from the " spirit of nature " that pervades and fills
 it, that acts upon matter and produces the above-mentioned
 non-mechanical effects, an entity which on the scale of perfection of
 spiritual beings occupies the very lowest degree. This spirit of nature
-is[12](cwiu16.htm#an_6_12)
+is[12](cwiu16.htm#an_6_12.md)
 
 <div class="iq">
 
@@ -319,7 +319,7 @@ and lose themselves in space. That they do not is a proof of the
 existence in nature of a "more than mechanical," "spiritual" agency.
 
 More writes accordingly in the preface to *The Immortality of the
-Soul*,[13](cwiu16.htm#an_6_13)
+Soul*,[13](cwiu16.htm#an_6_13.md)
 
 <div class="iq">
 
@@ -341,7 +341,7 @@ that it is forced upon us by the undeniable evidence of Demonstration*.
 As a matter of fact the *Antidote against Atheism* had already pointed
 out that stones and bullets projected upwards return to earth—which,
 according to the laws of motion, they should not do;
-for,[14](cwiu16.htm#an_6_14)
+for,[14](cwiu16.htm#an_6_14.md)
 
 <div class="iq">
 
@@ -384,7 +384,7 @@ spirit. Yet it is a "spirit" of quite a special and unique kind, and
 More is not quite sure about its exact nature. Though, obviously, he
 inclines towards a very definite solution, namely towards the
 identification of space with the divine extension itself, he is somewhat
-diffident about it. Thus he writes:[15](cwiu16.htm#an_6_15)
+diffident about it. Thus he writes:[15](cwiu16.htm#an_6_15.md)
 
 <div class="iq">
 
@@ -400,7 +400,7 @@ for which the Cartesians require the presence of matter, asserting that
 material extension alone can be measured, an assertion which leads
 inevitably to the affirmation of the infinity and the necessary
 existence of matter. But we do not need matter in order to have
-measures, and More can pursue:[16](cwiu16.htm#an_6_16)
+measures, and More can pursue:[16](cwiu16.htm#an_6_16.md)
 
 <div class="iq">
 
@@ -441,7 +441,7 @@ compute or number of them will infer the reality of their Existence.
 
 But if the Cartesians would urge us further and insist upon the
 impossibility of measuring the nothingness of void
-space,[17](cwiu16.htm#an_6_17)
+space,[17](cwiu16.htm#an_6_17.md)
 
 <div class="iq">
 
@@ -489,7 +489,7 @@ therefore spiritual—reality and thus as the first and foremost, though
 of course not unique, subject-matter of metaphysics.
 
 Thus Henry More tells us that "the first method for proving the
-uncorporeal things" must be based on[18](cwiu16.htm#an_6_18)
+uncorporeal things" must be based on[18](cwiu16.htm#an_6_18.md)
 
 <div class="iq">
 
@@ -504,7 +504,7 @@ people assert, we shall prove later by various arguments.
 
 Henry More seems to have completely forgotten his own uncertainty
 concerning the question; in any case he does not mention it and
-pursues:[19](cwiu16.htm#an_6_19)
+pursues:[19](cwiu16.htm#an_6_19.md)
 
 <div class="iq">
 
@@ -547,7 +547,7 @@ omnipotence.
 
 It cannot be doubted, of course, that if the world were finite and
 limited by a spherical surface with no space outside
-it,[20](cwiu16.htm#an_6_20)
+it,[20](cwiu16.htm#an_6_20.md)
 
 <div class="iq">
 
@@ -593,7 +593,7 @@ infinite *world* would be a necessary one. . . .
 
 But we must not anticipate. Let us turn to another sect of philosophers
 who are at the same time More's enemies and
-allies.[21](cwiu16.htm#an_6_21)
+allies.[21](cwiu16.htm#an_6_21.md)
 
 <div class="iq">
 
@@ -636,7 +636,7 @@ Theologians.
 As the admission of an infinite space seems thus to be, with very few
 exceptions, a common opinion of mankind, it may appear unnecessary to
 insist upon it and to make it an object of discussion and demonstration.
-More explains therefore that[22](cwiu16.htm#an_6_22)
+More explains therefore that[22](cwiu16.htm#an_6_22.md)
 
 <div class="iq">
 
@@ -670,7 +670,7 @@ Henry More, as we know, was a bad physicist, and he did not always
 understand the precise meaning of the concepts used by Descartes—for
 instance, that of the relativity of motion. And yet his criticism is
 extremely interesting and, in the last analysis,
-just.[23](cwiu16.htm#an_6_23)
+just.[23](cwiu16.htm#an_6_23.md)
 
 <div class="iq">
 
@@ -678,7 +678,7 @@ The first way to escape the strength of our Demonstrations is derived
 from the Cartesian definition of motion which is as follows: \[motion
 is\] *in all cases the translation of a body from the vicinity of those
 bodies which immediately touch it and are considered as at rest, into
-the vicinity of others*.[24](cwiu16.htm#an_6_24)
+the vicinity of others*.[24](cwiu16.htm#an_6_24.md)
 
 </div>
 
@@ -692,7 +692,7 @@ outside the rotating cylinder. Which is absurd as " it supposes that
 there can be an approach of one body to another, quiescent, one without
 local motion."
 
-Henry More concludes therefore:[25](cwiu16.htm#an_6_25)
+Henry More concludes therefore:[25](cwiu16.htm#an_6_25.md)
 
 <span id="page_143">p. 143</span>
 
@@ -725,7 +725,7 @@ cheek—that the earth was at *rest* in its vortex.
 
 It is nearly the same concerning More's second argument against the
 Cartesian conception of relativity, or, as More calls it, "reciprocity"
-of motion. He claims[26](cwiu16.htm#an_6_26)
+of motion. He claims[26](cwiu16.htm#an_6_26.md)
 
 <div class="iq">
 
@@ -745,7 +745,7 @@ move towards H, whilst CD moves
 
 towards G, and AB remains fixed to the earth. Thus it does not move and
 yet moves at the same time: who can say anything more absurd? And is it
-not evident[27](cwiu16.htm#an_6_27)
+not evident[27](cwiu16.htm#an_6_27.md)
 
 <div class="iq">
 
@@ -760,7 +760,7 @@ consider them as moving in respect to each other, something happens, at
 least to one of them, that is unilateral and not reciprocal: it *really*
 moves, that is, changes its place, its internal *locus*. It is in
 respect to this "place" that motion has to be conceived and not in
-respect to any other, and therefore[28](cwiu16.htm#an_6_28)
+respect to any other, and therefore[28](cwiu16.htm#an_6_28.md)
 
 <div class="iq">
 
@@ -785,7 +785,7 @@ internal *locus*, is not a part of the body: it is something entirely
 distinct from it, something that is by no means a mere potentiality of
 matter: a potentiality cannot be separated from the actual being of a
 thing, but is an entity, independent of the bodies that are and move in
-it. And even less is it a mere "phansy,"[29](cwiu16.htm#an_6_29) as Dr.
+it. And even less is it a mere "phansy,"[29](cwiu16.htm#an_6_29.md) as Dr.
 Hobbes has tried to assert.
 
  
@@ -807,7 +807,7 @@ ancient atomists were right in asserting its reality and calling it an
 intelligible nature.
 
 The reality of space can be demonstrated also in a somewhat different
-manner; it is certain[30](cwiu16.htm#an_6_30)
+manner; it is certain[30](cwiu16.htm#an_6_30.md)
 
 <div class="iq">
 
@@ -856,7 +856,7 @@ Henry More, therefore, is perfectly right,
 <span id="page_147">p. 147</span>
 
 too, in pointing out that his argumentation is built on exactly the same
-pattern as the Cartesian and[31](cwiu16.htm#an_6_31)
+pattern as the Cartesian and[31](cwiu16.htm#an_6_31.md)
 
 <div class="iq">
 
@@ -868,7 +868,7 @@ case, insofar as he concludes that it is a corporeal one.
 
 Moreover, Henry More's conclusion from extension to the underlying and
 supporting substance is exactly parallel to that of
-Descartes[31](cwiu16.htm#an_6_31)
+Descartes[31](cwiu16.htm#an_6_31.md)
 
 <div class="iq">
 
@@ -893,7 +893,7 @@ is, God.
 
 Space, indeed, is not only real, it is something divine. And in order to
 convince ourselves of its divine character we have only to consider its
-attributes. Henry More proceeds therefore to the[32](cwiu16.htm#an_6_32)
+attributes. Henry More proceeds therefore to the[32](cwiu16.htm#an_6_32.md)
 
 <span id="page_148">p. 148</span>
 
@@ -931,7 +931,7 @@ Indeed, it would be extremely astonishing if an entity eternal,
 untreated, and existing in and by itself should finally resolve into
 pure nothing. This impression will only be strengthened by the analysis
 of the "titles" enumerated by More, who proceeds to examine them one by
-one:[33](cwiu16.htm#an_6_33)
+one:[33](cwiu16.htm#an_6_33.md)
 
 <div class="iq">
 
@@ -987,7 +987,7 @@ accordingly, was unable to connect space with God and had to put it into
 ourselves.
 
 But we must not wander away from our subject. Let us come back to More,
-and More's space[34](cwiu16.htm#an_6_34)
+and More's space[34](cwiu16.htm#an_6_34.md)
 
 <div class="iq">
 
@@ -1004,7 +1004,7 @@ We see it at once: space is eternal and therefore uncreated. But the
 things that are in space by no means participate in these properties.
 Quite the contrary: they are temporal and mutable and are created by God
 in the eternal space and at a certain moment of the eternal time. Space
-is not only eternal, simple and one. It is also[35](cwiu16.htm#an_6_35)
+is not only eternal, simple and one. It is also[35](cwiu16.htm#an_6_35.md)
 
 <div class="iq">
 
@@ -1038,7 +1038,7 @@ Indeed, we cannot "disimagine" space or think it away. We can imagine,
 or think of, the disappearance of any object *from* space; we cannot
 imagine, or think of, the disappearance of space itself. It is the
 necessary presupposition of our thinking about the existence or
-non-existence of any thing whatever.[36](cwiu16.htm#an_6_36)
+non-existence of any thing whatever.[36](cwiu16.htm#an_6_36.md)
 
 <div class="iq">
 
@@ -1059,7 +1059,7 @@ have felt that not only the goal of the argument, but also its very
 meaning, opposed it to that of Descartes. Indeed, the *progressus in
 infinitum* was used by Henry More not for *denying*, but for *asserting*
 the absolute infinity of the extended substance,
-which[37](cwiu16.htm#an_6_37)
+which[37](cwiu16.htm#an_6_37.md)
 
 <div class="iq">
 
@@ -1171,4 +1171,4 @@ the world.
 ------------------------------------------------------------------------
 
 [Next: VII. Absolute Space, Absolute Time and Their Relations to
-God](cwiu10)
+God](cwiu10.md)

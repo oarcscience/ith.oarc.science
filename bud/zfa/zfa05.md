@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa04)  [Next](zfa06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa04)  [Next](zfa06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -432,4 +432,4 @@ the precept of lovingkindness.
 
 ------------------------------------------------------------------------
 
-[Next: Immortality](zfa06)
+[Next: Immortality](zfa06.md)

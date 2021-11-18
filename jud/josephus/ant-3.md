@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ pain, by reason of the hardness of the soil. Moreover, what water they
 found was bitter, and not fit for drinking, and this in small quantities
 also; and as they thus traveled, they came late in the evening to a
 place called Marah, <span
-id="EndNote Ant 3.1a"></span>[(1)](#EndNote%20Ant%203.1b) which had that
+id="EndNote Ant 3.1a"></span>[(1)](#EndNote%20Ant%203.1b.md) which had that
 name from the badness of its water, for *Mar* denotes *bitterness.*
 Thither they came afflicted both by the tediousness of their journey,
 and by their want of food, for it entirely failed them at that time. Now
@@ -61,7 +61,7 @@ he should enjoin them to do, and this not after a remiss or negligent
 manner. And when they asked what they were to do in order to have the
 water changed for the better, he bid the strongest men among them that
 stood there, to draw up water <span
-id="EndNote Ant 3.2a"></span>[(2)](#EndNote%20Ant%203.2b) and told them,
+id="EndNote Ant 3.2a"></span>[(2)](#EndNote%20Ant%203.2b.md) and told them,
 that when the greatest part was drawn up, the remainder would be fit to
 drink. So they labored at it till the water was so agitated and purged
 as to be fit to drink.
@@ -180,7 +180,7 @@ was like honey in sweetness and pleasant taste, but like in its body to
 bdellium, one of the sweet spices, and in bigness equal to coriander
 seed. And very earnest they were in gathering it; but they were enjoined
 to gather it equally <span
-id="EndNote Ant 3.3a"></span>[(3)](#EndNote%20Ant%203.3b) - the measure
+id="EndNote Ant 3.3a"></span>[(3)](#EndNote%20Ant%203.3b.md) - the measure
 of an omer for each one every day, because this food should not come in
 too small a quantity, lest the weaker might not be able to get their
 share, by reason of the overbearing of the strong in collecting it.
@@ -192,7 +192,7 @@ corrupting, both by the worms breeding in it, and by its bitterness. So
 divine and wonderful a food was this! It also supplied the want of other
 sorts of food to those that fed on it. And even now, in all that place,
 this manna comes down in rain, <span
-id="EndNote Ant 3.4a"></span>[(4)](#EndNote%20Ant%203.4b) according to
+id="EndNote Ant 3.4a"></span>[(4)](#EndNote%20Ant%203.4b.md) according to
 what Moses then obtained of God, to send it to the people for their
 sustenance. Now the Hebrews call this food *manna:* for the particle
 *man,* in our language, is the asking of a question. *What is this ?* So
@@ -212,7 +212,7 @@ them while they had nothing to drink. And God did not long delay to give
 it them, but promised Moses that he would procure them a fountain, and
 plenty of water, from a place they did not expect any. So he commanded
 him to smite the rock which they saw lying there, <span
-id="EndNote Ant 3.5a"></span>[(5)](#EndNote%20Ant%203.5b) with his rod,
+id="EndNote Ant 3.5a"></span>[(5)](#EndNote%20Ant%203.5b.md) with his rod,
 and out of it to receive plenty of what they wanted; for he had taken
 care that drink should come to them without any labor or pains-taking.
 When Moses had received this command from God, he came to the people,
@@ -231,7 +231,7 @@ water; and such it seemed to be, as might well be expected where God was
 the donor. They were also in admiration how Moses was honored by God;
 and they made grateful returns of sacrifices to God for his providence
 towards them. Now that Scripture, which is laid up in the temple, <span
-id="EndNote Ant 3.6a"></span>[(6)](#EndNote%20Ant%203.6b) informs us,
+id="EndNote Ant 3.6a"></span>[(6)](#EndNote%20Ant%203.6b.md) informs us,
 how God foretold to Moses, that water timid in this manner be derived
 out of the rock.'
 
@@ -324,7 +324,7 @@ to God and to Joshua.
 4\. So the armies joined battle; and it came to a close fight, hand to
 hand, both sides showing great alacrity, and encouraging one another.
 And indeed while Moses stretched out his hand towards heaven <span
-id="EndNote Ant 3.7a"></span>[(7)](#EndNote%20Ant%203.7b) the Hebrews
+id="EndNote Ant 3.7a"></span>[(7)](#EndNote%20Ant%203.7b.md) the Hebrews
 were too hard for the Amalekites: but Moses not being able to sustain
 his hands thus stretched out, (for as often as he let down his hands, so
 often were his own people worsted,) he bade his brother Aaron, and Hur
@@ -432,7 +432,7 @@ order; and at last number them by twenties and by tens: and let there be
 one commander over each number, to be denominated from the number of
 those over whom they are rulers, but such as the whole multitude have
 tried, and do approve of, as being good and righteous men; <span
-id="EndNote Ant 3.8a"></span>[(8)](#EndNote%20Ant%203.8b) and let those
+id="EndNote Ant 3.8a"></span>[(8)](#EndNote%20Ant%203.8b.md) and let those
 rulers decide the controversies they have one with another. But if any
 great cause arise*,* let them bring the cognizance of it before the
 rulers of a higher dignity; but if any great difficulty arise that is
@@ -464,7 +464,7 @@ to pitch their tents near the mountain, and prefer the habitation that
 was nearest to God, before one more remote. When he had said this, he
 ascended up to Mount Sinai, which is the highest of all the mountains
 that are in that country <span
-id="EndNote Ant 3.9a"></span>[(9)](#EndNote%20Ant%203.9b) and is not
+id="EndNote Ant 3.9a"></span>[(9)](#EndNote%20Ant%203.9b.md) and is not
 only very difficult to be ascended by men, on account of its vast
 altitude, but because of the sharpness of its precipices also; nay,
 indeed, it cannot be looked at without pain of the eyes: and besides
@@ -550,7 +550,7 @@ understanding. And they all heard a voice that came to all of them from
 above, insomuch that no one of these words escaped them, which Moses
 wrote on two tables; which it is not lawful for us to set down directly,
 but their import we will declare <span
-id="EndNote Ant 3.10a"></span>[(10)](#EndNote%20Ant%203.10b)
+id="EndNote Ant 3.10a"></span>[(10)](#EndNote%20Ant%203.10b.md)
 
 5\. The first commandment teaches us that there is but one God, and that
 we ought to worship him only. The second commands us not to make the
@@ -570,7 +570,7 @@ tent, and desired him to bring them, besides, other laws from God.
 Accordingly he appointed such laws, and afterwards informed them in what
 manner they should act in all cases; which laws I shall make mention of
 in their proper time; but I shall reserve most of those laws for another
-work, <span id="EndNote Ant 3.11a"></span>[(11)](#EndNote%20Ant%203.11b)
+work, <span id="EndNote Ant 3.11a"></span>[(11)](#EndNote%20Ant%203.11b.md)
 and make there a distinct explication of them.
 
 7\. When matters were brought to this state, Moses went up again to
@@ -650,7 +650,7 @@ this work, both for ornament and for the divine service itself.
 brass, and what was woven, Moses, when he had appointed beforehand that
 there should be a festival, and that sacrifices should be offered
 according to every one's ability, reared up the tabernacle <span
-id="EndNote Ant 3.12a"></span>[(12)](#EndNote%20Ant%203.12b) and when he
+id="EndNote Ant 3.12a"></span>[(12)](#EndNote%20Ant%203.12b.md) and when he
 had measured the open court, fifty cubits broad and a hundred long, he
 set up brazen pillars, five cubits high, twenty on each of the longer
 sides, and ten pillars for the breadth behind; every one of the pillars
@@ -906,7 +906,7 @@ feet, \[in our language it is called *.Meeir,\]* and is tied round with
 a girdle, embroidered with the same colors and flowers as the former,
 with a mixture of gold interwoven. To the bottom of which garment are
 hung fringes, in color like pomegranates, with golden bells <span
-id="EndNote Ant 3.13a"></span>[(13)](#EndNote%20Ant%203.13b) by a
+id="EndNote Ant 3.13a"></span>[(13)](#EndNote%20Ant%203.13b.md) by a
 curious and beautiful contrivance; so that between two bells hangs a
 pomegranate, and between two pomegranates a bell. Now this vesture was
 not composed of two pieces, nor was it sewed together upon the shoulders
@@ -995,7 +995,7 @@ to resemble that of poppy. Of this was a crown made, as far from the
 hinder part of the head to each of the temples; but this *Ephielis,* for
 so this calyx may be called, did not cover the forehead, but it was
 covered with a golden plate, <span
-id="EndNote Ant 3.14a"></span>[(14)](#EndNote%20Ant%203.14b) which had
+id="EndNote Ant 3.14a"></span>[(14)](#EndNote%20Ant%203.14b.md) which had
 inscribed upon it the name of God in sacred characters. And such were
 the ornaments of the high priest.
 
@@ -1009,7 +1009,7 @@ reproached by others; for if any one do without prejudice, and with
 judgment, look upon these things, he will find they were every one made
 in way of imitation and representation of the universe. When Moses
 distinguished the tabernacle into three parts, <span
-id="EndNote Ant 3.15a"></span>[(15)](#EndNote%20Ant%203.15b) and allowed
+id="EndNote Ant 3.15a"></span>[(15)](#EndNote%20Ant%203.15b.md) and allowed
 two of them to the priests, as a place accessible and common, he denoted
 the land and the sea*,* these being of general access to all; but he set
 apart the third division for God, because heaven is inaccessible to men.
@@ -1042,7 +1042,7 @@ the mitre, which was of a blue color, it seems to me to mean heaven; for
 how otherwise could the name of God be inscribed upon it? That it was
 also illustrated with a crown, and that of gold also, is because of that
 splendor with which God is pleased. Let this explication <span
-id="EndNote Ant 3.16a"></span>[(16)](#EndNote%20Ant%203.16b) suffice at
+id="EndNote Ant 3.16a"></span>[(16)](#EndNote%20Ant%203.16b.md) suffice at
 present, since the course of my narration will often, and on many
 occasions, afford me the opportunity of enlarging upon the virtue of our
 legislator.
@@ -1077,7 +1077,7 @@ put up prayers for you to God, who will readily hear them, not only
 because he is himself solicitous for your nation, but also because he
 will receive them as offered by one that he hath himself chosen to this
 office. <span
-id="EndNote Ant 3.17a"></span>[(17)](#EndNote%20Ant%203.17b) The Hebrews
+id="EndNote Ant 3.17a"></span>[(17)](#EndNote%20Ant%203.17b.md) The Hebrews
 were pleased with what was said, and they gave their approbation to him
 whom God had ordained; for Aaron was of them all the most deserving of
 this honor, on account of his own stock and gift of prophecy, and his
@@ -1092,7 +1092,7 @@ journeyed, either by the rain, or by the rising of the dust. And when he
 had gathered the multitude together again, he ordained that they should
 offer half a shekel for every man, as an oblation to God; which shekel
 is a piece among the Hebrews, and is equal to four Athenian drachmae.
-<span id="EndNote Ant 3.18a"></span>[(18)](#EndNote%20Ant%203.18b)
+<span id="EndNote Ant 3.18a"></span>[(18)](#EndNote%20Ant%203.18b.md)
 Whereupon they readily obeyed what Moses had commanded; and the number
 of the offerers was six hundred and five thousand five hundred and
 fifty. Now this money that was brought by the men that were free, was
@@ -1114,11 +1114,11 @@ spices, that belonged to the tabernacle, and such as were of very great
 price, and were brought to the golden altar of incense; the nature of
 which I do not now describe, lest it should be troublesome to my
 readers; but incense <span
-id="EndNote Ant 3.19a"></span>[(19)](#EndNote%20Ant%203.19b) was to be
+id="EndNote Ant 3.19a"></span>[(19)](#EndNote%20Ant%203.19b.md) was to be
 offered twice a-day, both before sun-rising and at sun-setting. They
 were also to keep oil already purified for the lamps; three of which
 were to give light all day long, <span
-id="EndNote Ant 3.20a"></span>[(20)](#EndNote%20Ant%203.20b) upon the
+id="EndNote Ant 3.20a"></span>[(20)](#EndNote%20Ant%203.20b.md) upon the
 sacred candlestick, before God, and the rest were to be lighted at the
 evening.
 
@@ -1203,10 +1203,10 @@ priest: for he \[Moses\] left no room for the evil practices of
 \[false\] prophets; but if some of that sort should attempt to abuse the
 Divine authority, he left it to God to be present at his sacrifices when
 he pleased, and when he pleased to be absent. <span
-id="EndNote Ant 3.21a"></span>[(21)](#EndNote%20Ant%203.21b) And he was
+id="EndNote Ant 3.21a"></span>[(21)](#EndNote%20Ant%203.21b.md) And he was
 willing this should be known, not to the Hebrews only, but to those
 foreigners also who were there. For as to those stones, <span
-id="EndNote Ant 3.22a"></span>[(22)](#EndNote%20Ant%203.22b) which we
+id="EndNote Ant 3.22a"></span>[(22)](#EndNote%20Ant%203.22b.md) which we
 told you before, the high priest bare on his shoulders, which were
 sardonyxes, (and I think it needless to describe their nature, they
 being known to every body,) the one of them shined out when God was
@@ -1304,7 +1304,7 @@ former manner, but at the corners of it. They also bring the kidneys and
 the rest of the fat, together with the lobe of the liver, to the altar,
 while the priests bear away the hides and the flesh, and spend it in the
 holy place, on the same day; <span
-id="EndNote Ant 3.23a"></span>[(23)](#EndNote%20Ant%203.23b) for the law
+id="EndNote Ant 3.23a"></span>[(23)](#EndNote%20Ant%203.23b.md) for the law
 does not permit them to leave of it until the morning. But if any one
 sin, and is conscious of it himself, but hath nobody that can prove it
 upon him, he offers a ram, the law enjoining him so to do; the flesh of
@@ -1476,7 +1476,7 @@ sheep, and bulls.
 
 3\. He also ordered that those whose bodies were afflicted with leprosy,
 and that had a gonorrhea, should not come into the city; <span
-id="EndNote Ant 3.24a"></span>[(24)](#EndNote%20Ant%203.24b) nay, he
+id="EndNote Ant 3.24a"></span>[(24)](#EndNote%20Ant%203.24b.md) nay, he
 removed the women, when they had their natural purgations, till the
 seventh day; after which he looked on them as pure, and permitted them
 to come in again. The law permits those also who have taken care of
@@ -1562,7 +1562,7 @@ pleasures on account of beauty. To those who were guilty of such
 insolent behavior, he ordained death for their punishment.
 
 2\. As for the priests, he prescribed to them a double degree of purity
-<span id="EndNote Ant 3.25a"></span>[(25)](#EndNote%20Ant%203.25b) for
+<span id="EndNote Ant 3.25a"></span>[(25)](#EndNote%20Ant%203.25b.md) for
 he restrained them in the instances above, and moreover forbade them to
 marry harlots. He also forbade them to marry a slave, or a captive, and
 such as got their living by cheating trades, and by keeping inns; as
@@ -1581,7 +1581,7 @@ conversation, that it might be unblamable also. And on this account it
 is that those who wear the sacerdotal garments are without spot, and
 eminent for their purity and sobriety: nor are they permitted to drink
 wine so long as they wear those garments. <span
-id="EndNote Ant 3.26a"></span>[(26)](#EndNote%20Ant%203.26b) Moreover,
+id="EndNote Ant 3.26a"></span>[(26)](#EndNote%20Ant%203.26b.md) Moreover,
 they offer sacrifices that are entire, and have no defect whatsoever.
 
 3\. And truly Moses gave them all these precepts, being such as were
@@ -1845,7 +1845,7 @@ to be divine, made this man to be esteemed as one superior to his own
 nature. Nay, further, a little before the beginning of this war, when
 Claudius was emperor of the Romans, and Ismael was our high priest, and
 when so great a famine <span
-id="EndNote Ant 3.27a"></span>[(27)](#EndNote%20Ant%203.27b) was come
+id="EndNote Ant 3.27a"></span>[(27)](#EndNote%20Ant%203.27b.md) was come
 upon us, that one tenth deal \[of wheat\] was sold for four drachmae,
 and when no less than seventy cori of flour were brought into the
 temple, at the feast of unleavened bread, (these cori are thirty-one
@@ -1861,7 +1861,7 @@ as to these matters, let every one take them as he thinks fit.
 
 ENDNOTE
 
-<span id="EndNote Ant 3.1b"></span>[(1)](#EndNote%20Ant%203.1a) Dr.
+<span id="EndNote Ant 3.1b"></span>[(1)](#EndNote%20Ant%203.1a.md) Dr.
 Bernard takes notice here, that this place Mar, where the waters were
 bitter, is called by the Syrians and Arabians Mariri, and by the Syrians
 sometimes Morath, all derived from the Hebrew Mar. He also takes notice,
@@ -1870,7 +1870,7 @@ remain there to this day, and are still bitter, as Thevenot assures us
 and that there are also abundance of palm-trees. See his Travels, Part
 I. ch. 26. p. 166.
 
-<span id="EndNote Ant 3.2b"></span>[(2)](#EndNote%20Ant%203.2a)The
+<span id="EndNote Ant 3.2b"></span>[(2)](#EndNote%20Ant%203.2a.md)The
 additions here to Moses's account of the sweetening of the waters at
 Marah, seem derived from some ancient profane author, and he such an
 author also as looks less authentic than are usually followed by
@@ -1893,13 +1893,13 @@ somewhat like these additions in Josephus's account of Elisha's making
 sweet the bitter and barren spring near Jericho, War, B. IV. ch. 8.
 sect. 3.
 
-<span id="EndNote Ant 3.3b"></span>[(3)](#EndNote%20Ant%203.3a) It seems
+<span id="EndNote Ant 3.3b"></span>[(3)](#EndNote%20Ant%203.3a.md) It seems
 to me, from what Moses, Exodus 16:18, St. Paul, 2 Corinthians 8:15, and
 Josephus here say, compared together, that the quantity of manna that
 fell daily, and did not putrefy, was just so much as came to an omer
 apiece, through the whole host of Israel, and no more.
 
-<span id="EndNote Ant 3.4b"></span>[(4)](#EndNote%20Ant%203.4a) This
+<span id="EndNote Ant 3.4b"></span>[(4)](#EndNote%20Ant%203.4a.md) This
 supposal, that the sweet honey-dew or manna, so celebrated in ancient
 and modern authors, as falling usually in Arabia, was of the very same
 sort with this manna sent to the Israelites, savors more of Gentilism
@@ -1917,18 +1917,18 @@ derivation. This manna is called angels' food, Psalm 78:26, and by our
 Sacior, John 6:31, etc., as well as by Josephus here and elsewhere,
 Antiq. B. III. ch. 5. sect. 3, said to be sent the Jews from heaven.
 
-<span id="EndNote Ant 3.5b"></span>[(5)](#EndNote%20Ant%203.5a) This
+<span id="EndNote Ant 3.5b"></span>[(5)](#EndNote%20Ant%203.5a.md) This
 rock is there at this day, as the travelers agree; and must be the same
 that was there in the days of Moses, as being too large to be brought
 thither by our modern carriages.
 
-<span id="EndNote Ant 3.6b"></span>[(6)](#EndNote%20Ant%203.6a) Note
+<span id="EndNote Ant 3.6b"></span>[(6)](#EndNote%20Ant%203.6a.md) Note
 here, that the small book of the principal laws of Moses is ever said to
 be laid up in the holy house itself; but the larger Pentateuch, as here,
 some where within the limits of the temple and its courts only. See
 Antiq. B. V. ch. 1. sect. 17.
 
-<span id="EndNote Ant 3.7b"></span>[(7)](#EndNote%20Ant%203.7a) This
+<span id="EndNote Ant 3.7b"></span>[(7)](#EndNote%20Ant%203.7a.md) This
 eminent circumstance, that while Moses's hands were lift up towards
 heaven, the Israelites prevailed, and while they were let down towards
 the earth, the Amalekites prevailed, seems to me the earliest intimation
@@ -1944,14 +1944,14 @@ use of divine forms of prayer, praise, and thanksgiving, appears to me
 to have been the practice of God's people, patriarchs, Jews, and
 Christians, in all the past ages.
 
-<span id="EndNote Ant 3.8b"></span>[(8)](#EndNote%20Ant%203.8a) This
+<span id="EndNote Ant 3.8b"></span>[(8)](#EndNote%20Ant%203.8a.md) This
 manner of electing the judges and officers of the Israelites by the
 testimonies and suffrages of the people, before they were ordained by
 God, or by Moses, deserves to be carefully noted, because it was the
 pattern of the like manner of the choice and ordination of bishops,
 presbyters, and deacons, in the Christian church.
 
-<span id="EndNote Ant 3.9b"></span>[(9)](#EndNote%20Ant%203.9a) Since
+<span id="EndNote Ant 3.9b"></span>[(9)](#EndNote%20Ant%203.9a.md) Since
 this mountain, Sinai, is here said to be the highest of all the
 mountains that are in that country, it must be that now called St.
 Katherine's, which is one-third higher than that within a mile of it,
@@ -1965,21 +1965,21 @@ Antiq. B. VIII. ch. 13. sect. 7, that he came to the mountain called
 Sinai: and Jerome, here cited by Dr. Hudson, says, that he took this
 mountain to have two names, Sinai and Choreb. De Nomin. Heb. p. 427.
 
-<span id="EndNote Ant 3.10b"></span>[(10)](#EndNote%20Ant%203.10a) Of
+<span id="EndNote Ant 3.10b"></span>[(10)](#EndNote%20Ant%203.10a.md) Of
 this and another like superstitious notion of the Pharisees, which
 Josephus complied with, see the note on Antiq. B. II. ch. 12. sect. 4.
 
-<span id="EndNote Ant 3.11b"></span>[(11)](#EndNote%20Ant%203.11a) This
+<span id="EndNote Ant 3.11b"></span>[(11)](#EndNote%20Ant%203.11a.md) This
 other work of Josephus, here referred to, seems to be that which does
 not appear to have been ever published, which yet he intended to
 publish, about the reasons of many of the laws of Moses; of which see
 the note on the Preface, sect. 4.
 
-<span id="EndNote Ant 3.12b"></span>[(12)](#EndNote%20Ant%203.12a) Of
+<span id="EndNote Ant 3.12b"></span>[(12)](#EndNote%20Ant%203.12a.md) Of
 this tabernacle of Moses, with its several parts and furniture, see my
 description at large, chap. 6. 7. 8. 9. 10. 11. 12. hereto belonging.
 
-<span id="EndNote Ant 3.13b"></span>[(13)](#EndNote%20Ant%203.13a) The
+<span id="EndNote Ant 3.13b"></span>[(13)](#EndNote%20Ant%203.13a.md) The
 use of these golden bells at the bottom of the high priest's long
 garment, seems to me to have been this: That by shaking his garment at
 the time of his offering incense in the temple, on the great day of
@@ -1995,7 +1995,7 @@ many golden bells round about, that as he went there might be a sound,
 and a noise made that might be heard in the temple, for a memorial to
 the children of his people."
 
-<span id="EndNote Ant 3.14b"></span>[(14)](#EndNote%20Ant%203.14a) The
+<span id="EndNote Ant 3.14b"></span>[(14)](#EndNote%20Ant%203.14a.md) The
 reader ought to take notice here, that the very Mosaic Petalon, or
 golden plate, for the forehead of the Jewish high priest, was itself
 preserved, not only till the days of Josephus, but of Origen; and that
@@ -2003,7 +2003,7 @@ its inscription, Holiness to the Lord, was in the Samaritan characters.
 See Antiq. B. VIII. ch. 3. sect. 8, Essay on the Old Test. p. 154, and
 Reland, De pol. Templi, p. 132.
 
-<span id="EndNote Ant 3.15b"></span>[(15)](#EndNote%20Ant%203.15a) When
+<span id="EndNote Ant 3.15b"></span>[(15)](#EndNote%20Ant%203.15a.md) When
 Josephus, both here and ch. 6. sect. 4, supposes the tabernacle to have
 been parted into three parts, he seems to esteem the bare entrance to be
 a third division, distinct from the holy and the most holy places; and
@@ -2012,7 +2012,7 @@ distinct third part, which was called the Porch: otherwise Josephus
 would contradict his own description of the tabernacle, which gives as a
 particular account of no more than two parts.
 
-<span id="EndNote Ant 3.16b"></span>[(16)](#EndNote%20Ant%203.16a) This
+<span id="EndNote Ant 3.16b"></span>[(16)](#EndNote%20Ant%203.16a.md) This
 explication of the mystical meaning of the Jewish tabernacle and its
 vessels, with the garments of the high priest, is taken out of Philo,
 and fitted to Gentile philosophical notions. This may possibly be
@@ -2031,7 +2031,7 @@ which are here emblems of the seven planets. Nor certainly ought ancient
 Jewish emblems to be explained any other way than according to ancient
 Jewish, and not Gentile, notions. See of the War, B. I. ch. 33. sect. 2.
 
-<span id="EndNote Ant 3.17b"></span>[(17)](#EndNote%20Ant%203.17a) It is
+<span id="EndNote Ant 3.17b"></span>[(17)](#EndNote%20Ant%203.17a.md) It is
 well worth our observation, that the two principal qualifications
 required in this section for the constitution of the first high priest,
 (viz. that he should have an excellent character for virtuous and good
@@ -2041,7 +2041,7 @@ himself; which are the very same qualifications which the Christian
 religion requires in the choice of Christian bishops, priests, and
 deacons; as the Apostolical Constitutions inform us, B. II. ch. 3.
 
-<span id="EndNote Ant 3.18b"></span>[(18)](#EndNote%20Ant%203.18a) This
+<span id="EndNote Ant 3.18b"></span>[(18)](#EndNote%20Ant%203.18a.md) This
 weight and value of the Jewish shekel, in the days of Josephus, equal to
 about 2s. 10d. sterling, is, by the learned Jews, owned to be one-fifth
 larger than were their old shekels; which determination agrees perfectly
@@ -2050,23 +2050,23 @@ generally by Simon the Maccabee, about 230 years before Josephus
 published his Antiquities, which never weigh more than 2s. 4d., and
 commonly but 2s. 4d. See Reland De Nummis Samaritanorum, p. 138.
 
-<span id="EndNote Ant 3.19b"></span>[(19)](#EndNote%20Ant%203.19a) The
+<span id="EndNote Ant 3.19b"></span>[(19)](#EndNote%20Ant%203.19a.md) The
 incense was here offered, according to Josephus's opinion, before
 sun-rising, and at sun-setting; but in the days of Pompey, according to
 the same Josephus, the sacrifices were offered in the morning, and at
 the ninth hour. Antiq. B. XIV. ch. 4. sect. 3.
 
-<span id="EndNote Ant 3.20b"></span>[(20)](#EndNote%20Ant%203.20a) Hence
+<span id="EndNote Ant 3.20b"></span>[(20)](#EndNote%20Ant%203.20a.md) Hence
 we may correct the opinions of the modern Rabbins, who say that only one
 of the seven lamps burned in the day-time; whereas our Josephus, an
 eyewitness, says there were three.
 
-<span id="EndNote Ant 3.21b"></span>[(21)](#EndNote%20Ant%203.21a) Of
+<span id="EndNote Ant 3.21b"></span>[(21)](#EndNote%20Ant%203.21a.md) Of
 this strange expression, that Moses "left it to God to be present at his
 sacrifices when he pleased, and when he pleased to be absent," see the
 note on B. II. against Apion, sect. 16.
 
-<span id="EndNote Ant 3.22b"></span>[(22)](#EndNote%20Ant%203.22a)These
+<span id="EndNote Ant 3.22b"></span>[(22)](#EndNote%20Ant%203.22a.md)These
 answers by the oracle of Urim and Thummim, which words signify, light
 and perfection, or, as the Septuagint render them, revelation and truth,
 and denote nothing further, that I see, but the shining stones
@@ -2153,7 +2153,7 @@ derive any of Moses's laws from the imitation of those heathen
 practices, Such hypotheses demonstrate to us how far inclination can
 prevail over evidence, in even some of the most learned part of mankind.
 
-<span id="EndNote Ant 3.23b"></span>[(23)](#EndNote%20Ant%203.23a) What
+<span id="EndNote Ant 3.23b"></span>[(23)](#EndNote%20Ant%203.23a.md) What
 Reland well observes here, out of Josephus, as compared with the law of
 Moses, Leviticus 7:15, (that the eating of the sacrifice the same day it
 was offered, seems to mean only before the morning of the next, although
@@ -2164,13 +2164,13 @@ the day goes before the night; and this appears to me to be the language
 both of the Old and New Testament. See also the note on Antiq. B. IV.
 ch. 4. sect. 4, and Reland's note on B. IV. ch. 8. sect. 28.
 
-<span id="EndNote Ant 3.24b"></span>[(24)](#EndNote%20Ant%203.24a) We
+<span id="EndNote Ant 3.24b"></span>[(24)](#EndNote%20Ant%203.24a.md) We
 may here note, that Josephus frequently calls the camp the city, and the
 court of the Mosaic tabernacle a temple, and the tabernacle itself a
 holy house, with allusion to the latter city, temple, and holy house,
 which he knew so well long afterwards.
 
-<span id="EndNote Ant 3.25b"></span>[(25)](#EndNote%20Ant%203.25a) These
+<span id="EndNote Ant 3.25b"></span>[(25)](#EndNote%20Ant%203.25a.md) These
 words of Josephus are remarkable, that the lawgiver of the Jews required
 of the priests a double degree of parity, in comparison of that required
 of the people, of which he gives several instances immediately. It was
@@ -2178,14 +2178,14 @@ for certain the case also among the first Christians, of the clergy, in
 comparison of the laity, as the Apostolical Constitutions and Canons
 every where inform us,
 
-<span id="EndNote Ant 3.26b"></span>[(26)](#EndNote%20Ant%203.26a) We
+<span id="EndNote Ant 3.26b"></span>[(26)](#EndNote%20Ant%203.26a.md) We
 must here note with Reland, that the precept given to the priests of not
 drinking wine while they wore the sacred garments, is equivalent; to
 their abstinence from it all the while they ministered in the temple;
 because they then always, and then only, wore those sacred garments,
 which were laid up there from one time of ministration to another.
 
-<span id="EndNote Ant 3.27b"></span>[(27)](#EndNote%20Ant%203.27a) See
+<span id="EndNote Ant 3.27b"></span>[(27)](#EndNote%20Ant%203.27a.md) See
 Antiq, B. XX. ch. 2. sect, 6. and Acts 11:28.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

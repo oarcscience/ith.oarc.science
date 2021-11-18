@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](sws17)  [Next](sws19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](sws17)  [Next](sws19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Spider Woman*, by Gladys A. Reichard, \[1934\], at Intangible Textual
 Heritage
 
@@ -187,4 +187,4 @@ more opens the floodgates, and they all weep in concert.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: Sheep Dipping](sws19)
+[Next: Chapter XVI: Sheep Dipping](sws19.md)

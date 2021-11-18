@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm66)  [Next](bcm68) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm66)  [Next](bcm68.md) 
 
 ------------------------------------------------------------------------
 
-CONJURATION OF THE BOOK <span id="fr_264"></span>[1](#fn_263)
+CONJURATION OF THE BOOK <span id="fr_264"></span>[1](#fn_263.md)
 
 I conjure thee, O Book, to be useful and profitable unto all who shall
 have recourse to thee for the success of their affairs. I conjure thee
@@ -46,11 +46,11 @@ reader*.
 
 ### Footnotes
 
-<span id="fn_263"></span>[278:1](bcm67.htm#fr_264) This is the *Liber
+<span id="fn_263"></span>[278:1](bcm67.htm#fr_264.md) This is the *Liber
 Spirituum* of Pseudo-Agrippa, sufficiently described in Part I. The
 introduction of it in this Grimoire presupposes either an acquaintance
 in the reader or information which is omitted.
 
 ------------------------------------------------------------------------
 
-[Next: Conjuration of the Demons](bcm68)
+[Next: Conjuration of the Demons](bcm68.md)

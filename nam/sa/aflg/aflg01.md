@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg006) [Next](aflg02)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg006) [Next](aflg02.md)
 
 ------------------------------------------------------------------------
 
@@ -18,17 +18,17 @@ American](../index) [Index](index) [Previous](aflg006) [Next](aflg02)
    <span class="small">Originally, Indians had no terms expressive of
 the conception of a Supreme Being; such terms as they now possess have
 been framed to suit civilized, especially missionary, requirements
-(*[1](#pp_1)*).<span id="page_117_fr_1"></span>[1](#page_117_note_1) On
+(*[1](#pp_1)*).<span id="page_117_fr_1"></span>[1](#page_117_note_1.md) On
 the other hand, traditions of certain Tribal Heroes have been
 unconsciously assumed as indicative of the existence among the natives
-of the knowledge of a God (*[2](#pp_2)*).</span>
+of the knowledge of a God (*[2](#pp_2)*.md).</span>
 
-   <span id="pp_1"></span>**1.**[\*](#pp_1) Careful investigation forces
+   <span id="pp_1"></span>**1.**[\*](#pp_1.md) Careful investigation forces
 one to the conclusion that, on the evidence, the native tribes of Guiana
 had no idea of a Supreme Being in the modern conception of the term.
 This contention is confirmed in a way by Gumilla (<span
 class="small">II</span>, 7),<span
-id="page_117_fr_2"></span>[2](#page_117_note_2) one of the early
+id="page_117_fr_2"></span>[2](#page_117_note_2.md) one of the early
 missionary fathers on the Orinoco, who writes as follows:
 
 >    In three nations which will be mentioned directly they have a word
@@ -86,7 +86,7 @@ Warrau word (ScR, <span class="small">II</span>, 515) *kwarisabarote*,
 really intended for *kwaresa ba-arautu*, meaning literally 'on-top
 belonging-to.' The only exception perhaps would seem to be the Warrau
 Kanonatu, Our Maker (IT, 366), referred to by Brett in his Warrau story
-of the origin of the Caribs ([BrB, 62](../lmbg/lmbg2b.htm#page_62)),
+of the origin of the Caribs ([BrB, 62](../lmbg/lmbg2b.htm#page_62).md),
 where its introduction is certainly suspicious. "Some \[of the Orinoco\]
 tribes, Father Caulin tells us, considered the Sun as the Supreme Being
 and First Cause; it was to him that they attributed the productions of
@@ -109,7 +109,7 @@ women and children on the Aiary River (Rio Negro) were generally called
 *tupána*: the people took them for figures of saints from missionary
 times.
 
-   <span id="pp_2"></span>**2.**[\*](#pp_2) Conversely, it is
+   <span id="pp_2"></span>**2.**[\*](#pp_2.md) Conversely, it is
 interesting to note how both travellers and missionaries have assumed
 almost unconsciously the Indian traditions of certain mythic Heroes to
 be more or less indicative of the view no doubt *a priori*
@@ -132,18 +132,18 @@ heavens, because they say that in the greater heaven there is a powerful
 lord and a great lady . . . when they die, their souls will go with
 Hubuiri, as they call the great and powerful lord in heaven." This same
 Alubiri, or Hubuiri, is still recognizable as Haburi ([Sect.
-*9*](aflg02.htm#pp_9)) in the stories related by me, and as Abore, the
+*9*](aflg02.htm#pp_9).md) in the stories related by me, and as Abore, the
 Warrau "Father of Inventions" in the legend told by Brett ([BrB,
-76](../lmbg/lmbg2b.htm#page_76)). In his Arawak vocabulary the name for
+76](../lmbg/lmbg2b.htm#page_76).md). In his Arawak vocabulary the name for
 God is given by Schomburgk (SCR, <span class="small">II</span>, 515) as
 Kururumanni: Brett (Br, 58), however, is more correct in saying. that it
 is the Warraus who "sometimes use the word 'Korroromana' when speaking
 of God; but it is doubtful what ideas some of them attach to that name."
 As a matter of fact, both of these would-be deities, Alubiri ([Sect.
-*3*](aflg02.htm#pp_3)) and Kororomanna ([Sect. *19*](aflg02.htm#pp_19)),
+*3*](aflg02.htm#pp_3)) and Kororomanna ([Sect. *19*](aflg02.htm#pp_19).md),
 were Arawak and Warrau Tribal Heroes, respectively. Similar remarks may
 be made of Makunaima and Pia ([Sects. *29-41*), and of Amalivaca
-(](aflg02.htm#pp_29)[Sect. *42*](aflg02.htm#pp_42)). The name Amalivaca
+(](aflg02.htm#pp_29)[Sect. *42*](aflg02.htm#pp_42).md). The name Amalivaca
 is spread over a region of more than five thousand square leagues.
 
 >    He is found designated as "the father of mankind," or "our great
@@ -159,7 +159,7 @@ is spread over a region of more than five thousand square leagues.
 
 ------------------------------------------------------------------------
 
-[Next](aflg02)
+[Next](aflg02.md)
 
 ------------------------------------------------------------------------
 
@@ -167,13 +167,13 @@ is spread over a region of more than five thousand square leagues.
 
 <span id="footnotes_page_117">p. 117</span>
 
-<span id="page_117_note_1"></span>[1](#page_117_fr_1) This and similar
+<span id="page_117_note_1"></span>[1](#page_117_fr_1.md) This and similar
 reference numbers correspond to section numbers, which appear in
 bold-face type.
 
-<span id="page_117_note_2"></span>[2](#page_117_fr_2) See Note under
+<span id="page_117_note_2"></span>[2](#page_117_fr_2.md) See Note under
 [W<span class="small">ORKS OF</span> R<span
-class="small">EFERENCE</span>](aflg006) (p. 113) as to the system
+class="small">EFERENCE</span>](aflg006) (p. 113.md) as to the system
 employed in this memoir in the citation of authorities.
 
  

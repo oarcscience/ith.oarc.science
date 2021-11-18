@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Euripides](../index)  [Index](index)  [Previous](eaha10) 
-[Next](eaha12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Euripides](../index)  [Index](index)  [Previous](eaha10.md) 
+[Next](eaha12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Euripides and His Age*, by Gilbert Murray, \[1913\], at Intangible
 Textual Heritage
 
@@ -131,4 +131,4 @@ Manuals) and *Greek Drama* by Barnet in Dent's Series.
 
 ------------------------------------------------------------------------
 
-[Next: Pronunciation of Greek Names](eaha12)
+[Next: Pronunciation of Greek Names](eaha12.md)

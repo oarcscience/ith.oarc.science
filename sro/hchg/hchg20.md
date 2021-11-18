@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg19)  [Next](hchg21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg19)  [Next](hchg21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -222,4 +222,4 @@ variation which will be found also in the Montpellier codex of the
 ------------------------------------------------------------------------
 
 [Next: IX. The Enchantments of Britain, the Times Called Adventurous and
-the Wounding of the King](hchg21)
+the Wounding of the King](hchg21.md)

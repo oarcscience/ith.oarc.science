@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fim06)  [Next](fim08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fim06)  [Next](fim08.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE distinction between Fairies proper and Hobgoblins seems to be mainly
 that the former are nimble, merry, and clever, and the latter heavy,
@@ -26,7 +26,7 @@ in the Isle of Man, the *Phynnodderee* and the *Glashtin*, or *Glashan*,
 are certainly of the lower, rather than of the higher, class. For, as
 will be seen from the tales given concerning them, they combine the
 attributes of the Scotch Brownie, and of the Scandinavian Troll, though
-the *Glashtin* seems to be a water-horse also. (See [p. 54](#page_54).)
+the *Glashtin* seems to be a water-horse also. (See [p. 54](#page_54)..md)
 The Brownies are sturdy Fairies, who, if well fed and kindly treated,
 will do a great deal of work; and the Trolls are beings who unite
 preterhuman strength with demoniac malice. They are bigger and stronger
@@ -45,7 +45,7 @@ Trolls were probably once well- known by name in Man, as they still
 survive in place-names such as Trollaby.
 
 The *Phynnodderee* is defined by Cregeen <span
-id="fr_43"></span>[1](#fn_42) as a "satyr," and he quotes the following
+id="fr_43"></span>[1](#fn_42.md) as a "satyr," and he quotes the following
 text to show that his name is used in the Manx Bible in that
 sense:--*Hig beishtyn oaldey yn aasagh dy cheilley marish beishtyn
 oaldey yn ellan*, *as nee yn phynnodderree gyllagh da e heshey:* "The
@@ -97,7 +97,7 @@ Or cream-howl kissed by a virgin lip
   To be left on the household hoard."
 
 The *Glashtin* or *Glashan* is defined by Cregeen <span
-id="fr_44"></span>[1](#fn_43) as "a goblin, a sprite." The popular idea
+id="fr_44"></span>[1](#fn_43.md) as "a goblin, a sprite." The popular idea
 of him is that he is a hairy goblin or sprite of somewhat similar
 characteristics to the *Phynnodderee.* He is said to frequent lonely
 spots, and is useful to man, or otherwise, as the caprice of the moment
@@ -663,7 +663,7 @@ terror that they gave him the name of Jack the Giant Killer. His great
 strength became so notorious that many came from Laxey side to try
 conclusions with him, but they were always worsted. He kept his old
 mother well supplied with *purrs*, as they called the wild swine that
-were [formerly](errata.htm#12) found in the mountains. Now, there was an
+were [formerly](errata.htm#12.md) found in the mountains. Now, there was an
 old boar *purr*, called the *Purr Mooar*, that had long been a terror to
 the district, so much so that it was not considered safe for any one to
 go alone over the Rheast, and through Druidale. Even the
@@ -828,7 +828,7 @@ sea, which, in peculiar states of the atmosphere, might have been
 occasionally seen in all its former magnificence.
 
 Waldron gives the following marvellous account of dwellings
-[under](errata.htm#13) the sea, stocked with treasure, which he was
+[under](errata.htm#13.md) the sea, stocked with treasure, which he was
 assured had been attested by a whole ship's crew, and happened in the
 memory of some then living, but at which, nevertheless, "he was
 exceedingly surprised":--
@@ -891,7 +891,7 @@ several chains, carcanets, and rings, of all manner of precious stones,
 finely cut, and set after our manner, which, I suppose, had been the
 prize of the winds and waves. These were hanging loosely on the jasper
 walls, by strings made of rushes, which I might easily have taken down;
-but as I had edged [myself](errata.htm#14) within half a foot of them, I
+but as I had edged [myself](errata.htm#14.md) within half a foot of them, I
 was unfortunately drawn back, through your want of line. In my return I
 met several comely mermen and beautiful mermaids, the inhabitants of
 this blissful realm, swiftly descending towards it, but they seemed
@@ -1096,10 +1096,10 @@ anything, louder than a human one.--*Waldron*.
 
 ### Footnotes
 
-<span id="fn_42"></span>[52:1](fim07.htm#fr_43) Manx Dictionary.
+<span id="fn_42"></span>[52:1](fim07.htm#fr_43.md) Manx Dictionary.
 
-<span id="fn_43"></span>[54:1](fim07.htm#fr_44) Manx Dictionary.
+<span id="fn_43"></span>[54:1](fim07.htm#fr_44.md) Manx Dictionary.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Magic, Witchcraft, &c.](fim08)
+[Next: Chapter V. Magic, Witchcraft, &c.](fim08.md)

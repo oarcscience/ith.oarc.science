@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](sft01)  [Next](sft03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](sft01)  [Next](sft03.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ VI\. SOURCES OF MATERIAL FOR FAIRY TALES
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sft03)
+[Next: Introduction](sft03.md)

@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft66)  [Next](efft68) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft66)  [Next](efft68.md) 
 
 ------------------------------------------------------------------------
 
 # DROLLS.
 
-### THE WISE FOOLS OF GOTHAM.  <span id="fr_80"></span>[1](#fn_80)
+### THE WISE FOOLS OF GOTHAM.  <span id="fr_80"></span>[1](#fn_80.md)
 
 CUCKOO BUSH, near Gotham, tradition says, was planted or set to
 commemorate a trick which the inhabitants of Gotham put upon King John.
@@ -60,9 +60,9 @@ By all but errant fools"
 
 ### Footnotes
 
-<span id="fn_80"></span>[1](efft67.htm#fr_80) Blount's *Tenures of
+<span id="fn_80"></span>[1](efft67.htm#fr_80.md) Blount's *Tenures of
 Land*, edited by W. Carew Hazlitt, p. 133. London, 1874.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Wishes](efft68)
+[Next: The Three Wishes](efft68.md)

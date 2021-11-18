@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep22)  [Next](nep24) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep22)  [Next](nep24.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ The love of God will ever last.
 
 ------------------------------------------------------------------------
 
-[Next: The Shorter Catechism](nep24)
+[Next: The Shorter Catechism](nep24.md)

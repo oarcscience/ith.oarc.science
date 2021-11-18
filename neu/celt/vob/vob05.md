@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vob04)  [Next](vob06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vob04)  [Next](vob06.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,17 +15,17 @@ Gaelic omitted. . .
 
 <span id="page_49">p. 49</span>
 
-### II. A Story from which it is inferred that Mongán was Find mac Cumaill, and the cause of the death of Fothad Airgdech. <span id="fr_110"></span>[1](#fn_110)
+### II. A Story from which it is inferred that Mongán was Find mac Cumaill, and the cause of the death of Fothad Airgdech. <span id="fr_110"></span>[1](#fn_110.md)
 
 Mongán was in Rathmore of Moylinny in his kingship. To him went Forgoll
 the poet. Through him many a married \[5\] couple was complaining to
-Mongán. <span id="fr_111"></span>[2](#fn_111) Every night the poet would
+Mongán. <span id="fr_111"></span>[2](#fn_111.md) Every night the poet would
 recite a story to Mongán. So great was his lore that they were thus from
 Halloween to May-day. He had gifts and food from Mongán.
 
 One day Mongán asked his poet what was the death of \[10\] Fothad
 Airgdech. Forgoll said he was slain at Duffry in Leinster. <span
-id="fr_112"></span>[3](#fn_112)' Mongán said it was false. The poet said
+id="fr_112"></span>[3](#fn_112.md)' Mongán said it was false. The poet said
 he would satirise him with his lampoons, and he would satirise his
 father and his mother and his grandfather, and he would sing (spells)
 upon their waters, so that fish should not be caught in their \[15\]
@@ -49,27 +49,27 @@ Mongán told him to wait till evening. He and his wife were in their
 bower. The woman weeps as her surrender drew near and she saw no help.
 Mongán said: 'Be not sorrowful, woman. He who is even now coming to our
 help, I hear his feet in the Labrinne.' <span
-id="fr_113"></span>[1](#fn_113)
+id="fr_113"></span>[1](#fn_113.md)
 
 \[10\] They wait a while. Again the woman wept. 'Weep not, woman ' He
 who is now coming to our help, I hear his feet in the Máin.' <span
-id="fr_114"></span>[2](#fn_114)
+id="fr_114"></span>[2](#fn_114.md)
 
 Thus they were waiting between every two watches of the day. She would
 weep, he would still say: 'Weep not, woman, \[15\] He who is now coming
 to our help, I hear his feet in the Laune, in Lough Leane, <span
-id="fr_115"></span>[3](#fn_115) in the Morning-star River between the Úi
-Fidgente and the Arada, <span id="fr_116"></span>[4](#fn_116) in the
-Suir on Moy-Fevin <span id="fr_117"></span>[5](#fn_117) in
+id="fr_115"></span>[3](#fn_115.md) in the Morning-star River between the Úi
+Fidgente and the Arada, <span id="fr_116"></span>[4](#fn_116.md) in the
+Suir on Moy-Fevin <span id="fr_117"></span>[5](#fn_117.md) in
 
 <span id="page_51">p. 51</span>
 
 <span class="contnote">\[paragraph continues\]</span> Munster, in the
-Echuir, <span id="fr_118"></span>[1](#fn_118) in the Barrow, in the
-Liffey, <span id="fr_119"></span>[2](#fn_119) in the Boyne, in the
-Dee, <span id="fr_120"></span>[3](#fn_120) in the Tuarthesc, <span
-id="fr_121"></span>[4](#fn_121) in Carlingford Lough, in the Nid, <span
-id="fr_122"></span>[5](#fn_122) in the Newry river, in the Larne Water
+Echuir, <span id="fr_118"></span>[1](#fn_118.md) in the Barrow, in the
+Liffey, <span id="fr_119"></span>[2](#fn_119.md) in the Boyne, in the
+Dee, <span id="fr_120"></span>[3](#fn_120.md) in the Tuarthesc, <span
+id="fr_121"></span>[4](#fn_121.md) in Carlingford Lough, in the Nid, <span
+id="fr_122"></span>[5](#fn_122.md) in the Newry river, in the Larne Water
 in front of Rathmore.'
 
 When night came to them, Mongán was, on his couch in his palace, and his
@@ -85,7 +85,7 @@ before the warrior that had come. 'What is the matter here?' said be. 'I
 and the poet yonder,' said \[15\] Mongán, 'have made a wager about the
 death of Fothad Airgdech. He said it was at Duffry in Leinster. I said
 that was false.' The warrior said the poet was wrong. 'It will be . .
-.,' said Forgoll, '. . .' <span id="fr_123"></span>[6](#fn_123) 'That
+.,' said Forgoll, '. . .' <span id="fr_123"></span>[6](#fn_123.md) 'That
 were not good,' said the warrior. 'It shall be proved. 'We were with
 thee, with Find,' said the \[20\] warrior. 'Hush!' said Mongán, 'that is
 not fair.' 'We were with Find, then,' said he. 'We came from Scotland.
@@ -113,68 +113,68 @@ though he would not let it be told.
 
 ### Footnotes
 
-<span id="fn_110"></span>[49:1](vob05.htm#fr_110) Fothad Airgdech, also
+<span id="fn_110"></span>[49:1](vob05.htm#fr_110.md) Fothad Airgdech, also
 called Oendé, was one of the three Fothads, brothers, who reigned
 together over Ireland for one year (A.D. 284): see LL. 24 a, 29, 190 b,
 10.
 
-<span id="fn_111"></span>[49:2](vob05.htm#fr_111) Forgoll seems to have
+<span id="fn_111"></span>[49:2](vob05.htm#fr_111.md) Forgoll seems to have
 been an overbearing and exacting *fili* of the type of Athirne and
 Dallán Forgaill.
 
-<span id="fn_112"></span>[49:3](vob05.htm#fr_112) In the barony of
+<span id="fn_112"></span>[49:3](vob05.htm#fr_112.md) In the barony of
 Scarawalsh, co. Wexford. Forgoll's statement perhaps rests on a
 confusion of this Leinster Dubthar with another Dubthar in Dál Aráide,
 mentioned in *Silva Gadelica*, i. p. 118, 30.
 
-<span id="fn_113"></span>[50:1](vob05.htm#fr_113) According to Hennessy
+<span id="fn_113"></span>[50:1](vob05.htm#fr_113.md) According to Hennessy
 (Jubainville, Le Cycle Mythologrque, p. 339) the river Caragh, which
 flows into Dingle Bay, co. Kerry. O’Donovan, who gives a wrong
 nominative, Labhrann instead of Labrainne (F.M., A.M., 3751), supposed
 it to be the Cashen in the north of co. Kerry; but that would not suit.
 Cf. tomaidm Fleisce 7 Mane 7 Labrainne, LL. 17 b, 45.
 
-<span id="fn_114"></span>[50:2](vob05.htm#fr_114) This must be the name
+<span id="fn_114"></span>[50:2](vob05.htm#fr_114.md) This must be the name
 of some small stream between the Caragh and the Laune. It cannot be the
 Maine, the Irish name of which is Maing, gen. Mainge. If Máin stands for
 an older Móin, we have here the Irish equivalent of the Gaulish Moinos,
 the German Main.
 
-<span id="fn_115"></span>[50:3](vob05.htm#fr_115) The great Lake of
+<span id="fn_115"></span>[50:3](vob05.htm#fr_115.md) The great Lake of
 Killarney.
 
-<span id="fn_116"></span>[50:4](vob05.htm#fr_116) 'The Ui-Fidhgeinte and
+<span id="fn_116"></span>[50:4](vob05.htm#fr_116.md) 'The Ui-Fidhgeinte and
 the Aradha were seated in the present county of Limerick, and their
 territories were divided from each other by the river Maigge and the
 stream now called the Morning-star River.' O’Don. F. M., A.D. 666, note.
 Samáir has been corrupted into Camáir, now Camhaoir, which means
 'daybreak.' Hence the English name.
 
-<span id="fn_117"></span>[50:5](vob05.htm#fr_117) A plain in the present
+<span id="fn_117"></span>[50:5](vob05.htm#fr_117.md) A plain in the present
 barony of Iffa and Offa East, south of SIievenaman, co. Tipperary.
 
-<span id="fn_118"></span>[51:1](vob05.htm#fr_118) Not identified. It
+<span id="fn_118"></span>[51:1](vob05.htm#fr_118.md) Not identified. It
 should be in co. Kilkenny. One would expect the Nore to have been
 mentioned, which Cálite had to cross. Perhaps Echuir is an old name for
 the Nore.
 
-<span id="fn_119"></span>[51:2](vob05.htm#fr_119) Ruirthech, for
+<span id="fn_119"></span>[51:2](vob05.htm#fr_119.md) Ruirthech, for
 *ro-rethech*, 'the strong running,' an old name for the Liffey. Badly
 spelt Ruirech by O’Reilly.
 
-<span id="fn_120"></span>[51:3](vob05.htm#fr_120) Níth, now the Dee in
+<span id="fn_120"></span>[51:3](vob05.htm#fr_120.md) Níth, now the Dee in
 the bar. of Ardee, co. Louth. Cf. the river-name Nith in Dumfries.
 
-<span id="fn_121"></span>[51:4](vob05.htm#fr_121) Not identified.
+<span id="fn_121"></span>[51:4](vob05.htm#fr_121.md) Not identified.
 Perhaps the Glyde or Fane in co. Louth.
 
-<span id="fn_122"></span>[51:5](vob05.htm#fr_122) Not identified. Some
+<span id="fn_122"></span>[51:5](vob05.htm#fr_122.md) Not identified. Some
 river or stream in co. Down. Cf. Nid-nari, the name of a Pictish tribe
 in Galloway (Bede, *Vit. Cuthb.* c. xi.), and the Greek river-name Neda.
 
-<span id="fn_123"></span>[51:6](vob05.htm#fr_123) I cannot translate
+<span id="fn_123"></span>[51:6](vob05.htm#fr_123.md) I cannot translate
 this passage.
 
 ------------------------------------------------------------------------
 
-[Next: III. A Story of Mongán](vob06)
+[Next: III. A Story of Mongán](vob06.md)

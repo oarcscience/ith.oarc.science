@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](aug10)  [Next](aug12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](aug10)  [Next](aug12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVU4S2/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVU4S2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Confessions of Saint Augustine*, tr. by Edward Bouverie Pusey,
 \[1909-14\], at Intangible Textual Heritage
 
@@ -784,4 +784,4 @@ fall not, whose elevation Thou art.
 
 ------------------------------------------------------------------------
 
-[Next: Book XII](aug12)
+[Next: Book XII](aug12.md)

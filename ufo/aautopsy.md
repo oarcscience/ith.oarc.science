@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](ufo_cult)  [Next](afr200-2) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](ufo_cult)  [Next](afr200-2.md) 
 
 ### The Alien Autopsy Film
 
@@ -753,4 +753,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: USAF Regulation AFR200-2: UFO Reporting](afr200-2)
+[Next: USAF Regulation AFR200-2: UFO Reporting](afr200-2.md)

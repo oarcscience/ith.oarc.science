@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil13)  [Next](seil15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil13)  [Next](seil15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -27,4 +27,4 @@ I will make the same three Colloquies.
 
 ------------------------------------------------------------------------
 
-[Next: Fifth Exercise: Meditation on Hell](seil15)
+[Next: Fifth Exercise: Meditation on Hell](seil15.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab26)  [Next](mab28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab26)  [Next](mab28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -23,7 +23,7 @@ Textual Heritage
 ### NOTES TO MATH THE SON OF MATHONWY.
 
 <span id="xref_413a">413a</span> MATH THE SON OF MATHONWY.--*Page*
-[413](mab26.htm#page_413).
+[413](mab26.htm#page_413.md).
 
 THE fame of Math ab Mathonwy's magic, in which he would seem to have
 excelled all the enchanters of Welsh fiction (except, perhaps, the
@@ -33,17 +33,17 @@ illusion and phantasy, and where one of the chief enchantments of the
 Island is attributed to him.
 
 Another version of the latter has already been given.--See page
-[213](mab14.htm#page_213).
+[213](mab14.htm#page_213.md).
 
 The mystical arts of Math appear to have descended to him from his
 father, whose magic wand is celebrated by Taliesin, in the Kerdd
 Daronwy. It is there asserted that when this wand grows in the wood,
 more luxuriant fruit will be seen on the banks of the Spectre
-waters. <span id="fr_204"></span>[1](#fn_203)
+waters. <span id="fr_204"></span>[1](#fn_203.md)
 
 Taliesin also frequently speaks of the powers of Math himself.--See the
 Cadd Goddeu, Marwnad Aeddon o Vôn, &c. <span
-id="fr_205"></span>[2](#fn_204)
+id="fr_205"></span>[2](#fn_204.md)
 
 <span id="page_435">p. 435</span>
 
@@ -53,7 +53,7 @@ translation in the Cambrian Quarterly.
  
 
 <span id="xref_413b">413b</span> GOEWIN, DAUGHTER OF PEBIN.--*Page*
-[413](mab26.htm#page_413).
+[413](mab26.htm#page_413.md).
 
 THE singular occupation assigned to this damsel in the Tale, is by no
 means inconsistent with the ancient customs of Wales. By the laws of
@@ -76,7 +76,7 @@ shall have a share of the visitors' gift money."
  
 
 <span id="xref_413c">413c</span> CAER DATHYL.--*Page*
-[413](mab26.htm#page_413).
+[413](mab26.htm#page_413.md).
 
 CAER DATHYL in Arvon (the present Caernarvonshire), where Math is said
 to have held his court, and whence Gwydion set out on his mischievous
@@ -127,13 +127,13 @@ has already been mentioned, place the grave of Pryderi at Abergenoli,
  
 
 <span id="xref_414a">414a</span> GWYDION THE SON OF DON.--*Page*
-[414](mab26.htm#page_414).
+[414](mab26.htm#page_414.md).
 
 GWYDION, as already seen in Triad 85 (cited page
-[273](mab17.htm#page_273)), was one of the three famous tribe-herdsmen
+[273](mab17.htm#page_273).md), was one of the three famous tribe-herdsmen
 of the Island, and tended the cattle of Gwynedd Uch Conwy. He was also a
 great astronomer, and as such was classed with Gwynn ab Nudd, and
-Idris. <span id="fr_206"></span>[1](#fn_205) The Milky-way is after him
+Idris. <span id="fr_206"></span>[1](#fn_205.md) The Milky-way is after him
 termed Caer Gwydion: similar honours indeed appear to have been paid to
 the whole family of Don. Himself gave his name to the constellation of
 Cassiopeia, in Welsh, Llys Don, the Court of Don; and Caer Arianrod,
@@ -155,17 +155,17 @@ And brought the pigs from the South,
 Though he had no pigstyes for them  
 The bold traveller out of plaited twigs  
 Formed a cavalcade,  
-And perfect saddles." <span id="fr_207"></span>[1](#fn_206)
+And perfect saddles." <span id="fr_207"></span>[1](#fn_206.md)
 
 In another place (Cad Goddeu) Taliesin says of him,--
 
 Minstrels have sung,  
 Armies have admired,  
 The exalting of Britons,  
-Achieved by Gwydion." <span id="fr_208"></span>[2](#fn_207)
+Achieved by Gwydion." <span id="fr_208"></span>[2](#fn_207.md)
 
 He appears in the double character of seer and poet, in the lines
-(already quoted, page [280](mab17.htm#page_280)) composed by him on the
+(already quoted, page [280](mab17.htm#page_280).md) composed by him on the
 Cad Goddeu, or Battle of the Trees, in which his brother Amaethon fought
 against Arawn king of Annwn, about a white roebuck and a whelp, which he
 had carried off from the realms of darkness. The party who should guess
@@ -183,12 +183,12 @@ Morva Dinllev, the scene of one of his adventures with Llew Llaw Gyffes.
  
 
 <span id="xref_421a">421a</span> ARIANROD.--*Page*
-[421](mab26.htm#page_421).
+[421](mab26.htm#page_421.md).
 
 THE "Silver circled " daughter of Don, was one of the three beauteous
 ladies of the Island.--Tr. 107.
 
-It has already been noticed (page [436](#page_436)) that the Welsh name
+It has already been noticed (page [436](#page_436).md) that the Welsh name
 the constellation of the Corona Borealis after her, Caer Arianrod.
 
 Besides Dylan Eil Don and Llew Llaw Gyffes, we find that Gwenwynwyn and
@@ -198,7 +198,7 @@ Nwyvre.--See Tr. 14.
 <span id="page_438">p. 438</span>
 
 <span id="xref_421b">421b</span> DYLAN THE SON OF THE WAVE.--*Page*
-[421](mab26.htm#page_421).
+[421](mab26.htm#page_421.md).
 
 THIS passage would appear to point at a Triad on the subject of this
 "Trydydd anvad ergyd," but none is to be found among those printed in
@@ -211,7 +211,7 @@ Ton." It is printed in the Cambro-Briton, I. 150.
  
 
 <span id="xref_422a">422a</span> THE CASTLE OF ARIANROD.--*Page*
-[422](mab26.htm#page_422).
+[422](mab26.htm#page_422.md).
 
 THE Rev. P. B. Williams, in his "Tourist's Guide through
 Caernarvonshire," speaking of Clynnog in that county, says: "There is a
@@ -222,13 +222,13 @@ said, are still visible during neap tides, and in fine weather."
  
 
 <span id="xref_424a">424a</span> LLEW LLAW GYFFES.--*Page*
-[424](mab26.htm#page_424).
+[424](mab26.htm#page_424.md).
 
 THE incident related in the tale of the journey of Llew Llaw Gyffes (the
 Lion with the steady hand), with Gwydion mab Don, in the disguise of a
 maker of gold-coloured shoes, to seek a name and arms from his mother
 Arianrod, forms the subject of a Triad which has already been
-quoted. <span id="fr_209"></span>[1](#fn_208)
+quoted. <span id="fr_209"></span>[1](#fn_208.md)
 
 Llew Llaw Gyffes was one of the three crimson-stained ones of the
 Island, than whom, however, Arthur was more conspicuous, for where he
@@ -236,15 +236,15 @@ had trod neither herb nor grass sprang up for the space of a year.--Tr.
 xxiv.
 
 His grave is noticed in the Englynion y Beddau Milwyr Ynys Prydain, as
-being protected by the sea. <span id="fr_210"></span>[2](#fn_209)
+being protected by the sea. <span id="fr_210"></span>[2](#fn_209.md)
 
 Melyngan mangre, the horse of Llew Llaw Gyffes, was one of the chief
-war-horses of the island. <span id="fr_211"></span>[3](#fn_210)
+war-horses of the island. <span id="fr_211"></span>[3](#fn_210.md)
 
  
 
 <span id="xref_424b">424b</span> DINLLEV.--*Page*
-[424](mab26.htm#page_424).
+[424](mab26.htm#page_424.md).
 
 DINAS DINLLE is situated on the sea-shore, about three miles southward
 from Caernarvon, in the parish of Llantwrawg, on the confines
@@ -258,7 +258,7 @@ ramparts and deep fosses.
  
 
 <span id="xref_426a">426a</span> BLODEUWEDD.--*Page*
-[426](mab26.htm#page_426).
+[426](mab26.htm#page_426.md).
 
 THE story of Blodeuwedd, the fair Flower-aspect, has ever been popular
 with the poets. Taliesin's lines relating to her romantic origin have
@@ -278,7 +278,7 @@ comely, the son of Perf Goronhir, lord of Penllyn.
  
 
 <span id="xref_426b">426b</span> MUR Y CASTELL.--*Page*
-[426](mab26.htm#page_426).
+[426](mab26.htm#page_426.md).
 
 MUR Y CASTELL, on the confines of Ardudwy, also called Tomen y Mur, is
 about two miles south of the Cynvael or Ffestiniog River, and distant
@@ -288,7 +288,7 @@ which the unfortunate damsels of Blodeuwedd met their untimely fate.
  
 
 <span id="xref_432a">432a</span> TRIBE OF GORONWY PEBYR.--*Page*
-[432](mab26.htm#page_432).
+[432](mab26.htm#page_432.md).
 
 A TRIAD (xxxv.) recites the circumstance of the want of devotion evinced
 by his tribe, as detailed in the text.
@@ -317,25 +317,25 @@ Tegid, or Bala Lake.
 
 ### Footnotes
 
-<span id="fn_203"></span>[434:1](mab27.htm#fr_204) Myv. Arch. I. p. 63.
+<span id="fn_203"></span>[434:1](mab27.htm#fr_204.md) Myv. Arch. I. p. 63.
 
-<span id="fn_204"></span>[434:2](mab27.htm#fr_205) Myv. Arch. I. p. 30,
+<span id="fn_204"></span>[434:2](mab27.htm#fr_205.md) Myv. Arch. I. p. 30,
 70.
 
-<span id="fn_205"></span>[436:1](mab27.htm#fr_206) Tri. 89, sec. ii. p.
+<span id="fn_205"></span>[436:1](mab27.htm#fr_206.md) Tri. 89, sec. ii. p.
 325.
 
-<span id="fn_206"></span>[437:1](mab27.htm#fr_207) Myv. Arch. I. p. 66.
+<span id="fn_206"></span>[437:1](mab27.htm#fr_207.md) Myv. Arch. I. p. 66.
 
-<span id="fn_207"></span>[437:2](mab27.htm#fr_208) Myv. Arch. I. p. 29.
+<span id="fn_207"></span>[437:2](mab27.htm#fr_208.md) Myv. Arch. I. p. 29.
 
-<span id="fn_208"></span>[438:1](mab27.htm#fr_209) See [p.
-411](mab25.htm#page_411).
+<span id="fn_208"></span>[438:1](mab27.htm#fr_209.md) See [p.
+411](mab25.htm#page_411.md).
 
-<span id="fn_209"></span>[438:2](mab27.htm#fr_210) Myv. Arch. I. p. 80.
+<span id="fn_209"></span>[438:2](mab27.htm#fr_210.md) Myv. Arch. I. p. 80.
 
-<span id="fn_210"></span>[438:3](mab27.htm#fr_211) Tr. Meirch. ii. ix.
+<span id="fn_210"></span>[438:3](mab27.htm#fr_211.md) Tr. Meirch. ii. ix.
 
 ------------------------------------------------------------------------
 
-[Next: The Dream of Maxen Wledig](mab28)
+[Next: The Dream of Maxen Wledig](mab28.md)

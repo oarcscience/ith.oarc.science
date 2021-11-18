@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib01)  [Next](sib03) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib01)  [Next](sib03.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ contents.
 
 ------------------------------------------------------------------------
 
-[Next: Book I.](sib03)
+[Next: Book I.](sib03.md)

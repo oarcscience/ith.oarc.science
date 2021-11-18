@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov03)  [Next](hlov05) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov03)  [Next](hlov05.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ crater Haleakala, on Maui, may be found in "Legends of Maui."
 
 ------------------------------------------------------------------------
 
-[Next: Part I: Legends](hlov05)
+[Next: Part I: Legends](hlov05.md)

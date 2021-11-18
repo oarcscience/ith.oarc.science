@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](numa01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](numa01.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ K. F. C.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](numa01)
+[Next: Preface](numa01.md)

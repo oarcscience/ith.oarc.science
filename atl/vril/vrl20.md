@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl19)  [Next](vrl21) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl19)  [Next](vrl21.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ his interests, and his safety to elect the wrong one.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXII](vrl21)
+[Next: CHAPTER XXII](vrl21.md)

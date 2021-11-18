@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa66)  [Next](psa68) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa66)  [Next](psa68.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ on all sides the inhabitants of the city were commending Krishnù's
 exploits and sports. Seeing this condition of the inhabitants and of the
 cows, on arrival at his birth-place, Bulram took compassion upon them,
 and his eyes filled with tears; all the cowherds'
-[children](errata.htm#18) came running out, when they saw the flag and
+[children](errata.htm#18.md) came running out, when they saw the flag and
 banner on the chariot, supposing that Shree Krishnù Chund and Bulram had
 come. Bulram descended from his ruth at their approach, and embraced and
 began to make the kindest enquiries from each of them; in the mean
@@ -186,4 +186,4 @@ days took leave, and set off for Dwarka, where he soon arrived.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXVII](psa68)
+[Next: Chapter LXVII](psa68.md)

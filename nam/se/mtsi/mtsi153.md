@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi152)  [Next](mtsi154) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi152)  [Next](mtsi154.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ end of second version.)
 
 ------------------------------------------------------------------------
 
-[Next: 18. The Orphan (Second Version)](mtsi154)
+[Next: 18. The Orphan (Second Version)](mtsi154.md)

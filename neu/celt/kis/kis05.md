@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis04)  [Next](kis06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis04)  [Next](kis06.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ still on his shoulders, went and lay down in the water-tank.
 
 ------------------------------------------------------------------------
 
-[Next: Part VI](kis06)
+[Next: Part VI](kis06.md)

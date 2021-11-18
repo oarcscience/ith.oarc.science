@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](how09)  [Next](how11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](how09)  [Next](how11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -76,7 +76,7 @@ love for one another, that we may be one, just as Thou art one with They
 Son, Our Lord, and with the Holy Ghost, and just as through the sweetest
 bonds of harmonies Thou hast made all Thy works one; and that from the
 bringing of Thy people into concord the body of Thy Church may be
-[built](errata.htm#7) up in the Earth, as Thou didst erect the heavens
+[built](errata.htm#7.md) up in the Earth, as Thou didst erect the heavens
 themselves out of harmonies.
 
 <span id="page_1051">p. 1051</span>
@@ -107,7 +107,7 @@ which make the least ratio of geometrical spheres ought likewise to make
 the least ratio; but those which correspond to the figures of middling
 ratio ought to make the greatest; and those which correspond to the
 figures of greatest ratio, the greatest. But the order holding between
-the figures of the [dodecahedron](errata.htm#8) and the icosahedron is
+the figures of the [dodecahedron](errata.htm#8.md) and the icosahedron is
 the same as that between the pairs of planets, Mars and the Earth, and
 the Earth and Venus, and the order of the cube and octahedron is the
 same as that of the pair Saturn and Jupiter and that of the pair Venus
@@ -297,7 +297,7 @@ outermost position is over against it, in the octahedron there will be 1
 : 4, the greater consonance of the two, as the innermost position is
 over against it. But too, this is the reason why 1 : 4 has here been
 given as the greater consonance, not as the smaller. <span
-id="fr_11"></span>[1](#fn_11) For since the ratio of the spheres of the
+id="fr_11"></span>[1](#fn_11.md) For since the ratio of the spheres of the
 octahedron is the ratio of 1: √3, then if it is postulated that the
 inscription of the octahedron among the planets is perfect (although it
 is not perfect, but penetrates Mercury's sphere to some extent-which is
@@ -417,7 +417,7 @@ or 3 : 5 are due to the said figures.
 
 Again, the figure placed between Venus and Mercury, *viz*., the
 octahedron, has the same ratio of its spheres as the cube. But by
-Proposition vii, the cube received the [octave](errata.htm#9) as the
+Proposition vii, the cube received the [octave](errata.htm#9.md) as the
 lesser consonance existing between the converging movements. Therefore,
 by proportionality, so great a consonance, *viz*., 1 : 2, would be due
 to the octahedron as the lesser consonance, if no diversity intervened.
@@ -641,7 +641,7 @@ vary their own private movements, but one more than the other, by one
 full diesis at the least.
 
 XXV\. PROPOSITION. *The higher of the planets which shift the kind of
-harmony ought to have the ratio of its [private](errata.htm#10)
+harmony ought to have the ratio of its [private](errata.htm#10.md)
 movements less than a minor whole tone 9 : 10; while the lower, less
 than a semitone 15 : 16*.
 
@@ -851,7 +851,7 @@ these planets, by Axiom I. Therefore both of Saturn's extreme movements
 had to harmonize, the aphelial with one of these two planets, the
 perihelial with the other, since nothing would hinder, as was the case
 with the first planet. Accordingly these consonances will be either
-identisonant <span id="fr_12"></span>[1](#fn_12) \[*identisonae*\] or
+identisonant <span id="fr_12"></span>[1](#fn_12.md) \[*identisonae*\] or
 diversisonant \[*diversisonae*\], *i.e.*, either of continued double
 proportion or of some other. But both of them cannot be of some other
 proportion, for between the terms 3 : 5 (which determine the greater
@@ -884,7 +884,7 @@ rather than Venus is to be joined with it, because of these two planets
 which distinguish the kinds of harmony, the Earth, again, has the
 greater altitude. There is also another nearer cause: the posterior
 reasons—with which we are now dealing—take away from the prior reasons
-but [only](errata.htm#11) with respect to minima, and in harmonics that
+but [only](errata.htm#11.md) with respect to minima, and in harmonics that
 is with respect to all intervals less than concords. But by the prior
 reasons the aphelial movement not of Venus but of the Earth, will
 approximate the consonance of some number of octaves to be established
@@ -914,7 +914,7 @@ movements of Saturn and Venus: This interval differs from 1 : 32, or
 five octaves, by 32 : 50, *i.e.*, 16 : 25, which is a perfect fifth and
 a diesis; and from six octaves, or 1 : 64, it differs by 50 : 64,
 *i.e.*, 25 : 32, or a perfect fourth minus a diesis. Accordingly, an
-[identisonant](errata.htm#12) consonance was due to be established, not
+[identisonant](errata.htm#12.md) consonance was due to be established, not
 between the aphelial movements of Venus and Saturn but between those of
 Venus and the
 
@@ -1089,7 +1089,7 @@ prior and more beautiful, *i.e.*, more harmonic. For in Axiom X the
 consideration of priority and harmonic perfection comes first, and the
 consideration of quantity comes last, because there is no beauty in
 quantity of itself. Thus the movements of Saturn become 64 : 81, an
-adulterine <span id="fr_13"></span>[1](#fn_13) major third, as we have
+adulterine <span id="fr_13"></span>[1](#fn_13.md) major third, as we have
 called them in Book III, Chapter 12, but those of Jupiter, 6,561 :
 8,000.
 
@@ -1145,7 +1145,7 @@ Saturn. But 30 : 256 exceeds 32 : 256 by the interval 30 : 32, *i.e.*,
 15 : 16 or 240 : 256, which is a semitone. Accordingly, if the increment
 of Saturn, which (by Proposition XXXVIII) had to be 80 : 81, *i.e.*, 240
 : 243, is compounded inversely with 240 : 243, the result is 243 : 256;
-but that is the lemma of Plato, <span id="fr_14"></span>[1](#fn_14)
+but that is the lemma of Plato, <span id="fr_14"></span>[1](#fn_14.md)
 *viz*., approximately 19 : 20, see Book III. Accordingly, Plato's lemma
 had to be compounded with the 1 : 8.
 
@@ -1230,9 +1230,9 @@ the adulterine consonances were reviewed and deduced from the
 composition of systems, certain ones which exist in the simple natural
 system were omitted. \[314\] And so, after the line which ends 81 : 120,
 the reader may add: if you divide into it 4 : 5 or 32 : 40, there
-remains 27 : 32, the subminor sixth, <span id="fr_15"></span>[1](#fn_15)
+remains 27 : 32, the subminor sixth, <span id="fr_15"></span>[1](#fn_15.md)
 which exists between *d* and *f* or *c* and *e* <span
-id="fr_16"></span>[2](#fn_16) or *a* and *c* of even the simple octave.
+id="fr_16"></span>[2](#fn_16.md) or *a* and *c* of even the simple octave.
 And in the ensuing table, the following should be in the first line; for
 5 : 6 there is 27 : 32, which is deficient.
 
@@ -1579,7 +1579,7 @@ Accordingly the consonances so far established have prescribed:
 <span id="img_107400"></span>
 
 [![](tn/107400.jpg)  
-Click to enlarge](img/107400.jpg)
+Click to enlarge](img/107400.jpg.md)
 
 For the second of the things proposed, we again have need of Chapter 3,
 Article XII, where it was shown that the number which expresses the
@@ -1608,7 +1608,7 @@ how closely that approaches to astronomy.
 <span id="img_107500"></span>
 
 [![](tn/107500.jpg)  
-Click to enlarge](img/107500.jpg)
+Click to enlarge](img/107500.jpg.md)
 
 The third head of things proposed requires Chapter 3, Article VIII. For
 when the ratio of the mean diurnal movements of the single planets has
@@ -1643,7 +1643,7 @@ the Earth.
 <span id="img_107600"></span>
 
 [![](tn/107600.jpg)  
-Click to enlarge](img/107600.jpg)
+Click to enlarge](img/107600.jpg.md)
 
 Accordingly, it is apparent in the last column what the numbers turn out
 to be whereby the converging intervals of two planets are expressed. All
@@ -1664,7 +1664,7 @@ figure
 <span id="img_107601"></span>
 
 [![](tn/107601.jpg)  
-Click to enlarge](img/107601.jpg)
+Click to enlarge](img/107601.jpg.md)
 
 That is to say, the planes of the cube extend down slightly below the
 middle circle of Jupiter; the octahedral planes, not quite to the middle
@@ -1675,7 +1675,7 @@ Venus; but the planes of the dodecahedron
 <span id="page_1077">p. 1077</span>
 
 fall far short of the aphelial circle of the Earth; the planes of the
-[icosahedron](errata.htm#13) also fall short of the aphelial circle of
+[icosahedron](errata.htm#13.md) also fall short of the aphelial circle of
 Venus, and approximately proportionally; finally, the square in the
 octahedron is quite inept, and not unjustly, for what are plane figures
 doing among solids? Accordingly, you see that if the planetary intervals
@@ -1896,24 +1896,24 @@ the salvation of souls and nowhere be an obstacle to that*.
 
 ### Footnotes
 
-<span id="fn_11"></span>[1054:1](how10.htm#fr_11) *Smaller* (lesser) and
+<span id="fn_11"></span>[1054:1](how10.htm#fr_11) *Smaller* (lesser.md) and
 *greater* consonances are equivalent to our modern "more closely spaced"
 and "more widely spaced" consonances. E. C., Jr.
 
-<span id="fn_12"></span>[1062:1](how10.htm#fr_12) "Identisonant
+<span id="fn_12"></span>[1062:1](how10.htm#fr_12.md) "Identisonant
 consonances" are such as 3 : 5, 3 : 10, 3 : 20, etc.
 
-<span id="fn_13"></span>[1066:1](how10.htm#fr_13) See footnote to
+<span id="fn_13"></span>[1066:1](how10.htm#fr_13.md) See footnote to
 *Intervals Compared with Harmonic Ratios*, 1026.
 
-<span id="fn_14"></span>[1067:1](how10.htm#fr_14) *Timaeus*, 36.
+<span id="fn_14"></span>[1067:1](how10.htm#fr_14.md) *Timaeus*, 36.
 
-<span id="fn_15"></span>[1068:1](how10.htm#fr_15) Here "sixth" (*sexta*)
+<span id="fn_15"></span>[1068:1](how10.htm#fr_15) Here "sixth" (*sexta*.md)
 should probably be "third" (*tertia*). E. C., Jr.
 
-<span id="fn_16"></span>[1068:2](how10.htm#fr_16) *C* and *e* do not
+<span id="fn_16"></span>[1068:2](how10.htm#fr_16.md) *C* and *e* do not
 produce a subminor third in the "natural system." E. C., Jr.
 
 ------------------------------------------------------------------------
 
-[Next: 10. Epilogue Concerning the Sun, By Way of Conjecture](how11)
+[Next: 10. Epilogue Concerning the Sun, By Way of Conjecture](how11.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml60)  [Next](yml62) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml60)  [Next](yml62.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ roots and flowers.
 
 ------------------------------------------------------------------------
 
-[Next: The Yaqui Doctor](yml62)
+[Next: The Yaqui Doctor](yml62.md)

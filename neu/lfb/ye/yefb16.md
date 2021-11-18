@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb15)  [Next](yefb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb15)  [Next](yefb17.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_92">p. 92</span>
 
-THE CROW <span id="fr_12"></span>[1](#fn_12)
+THE CROW <span id="fr_12"></span>[1](#fn_12.md)
 
 Once upon a time there were three Princesses who were all three young
 and beautiful; but the youngest, although she was not fairer than the
@@ -109,13 +109,13 @@ a hundred years, a hundred years of joy and happiness.
 
 ### Footnotes
 
-<span id="fn_12"></span>[92:1](yefb16.htm#fr_12) From the Polish.
+<span id="fn_12"></span>[92:1](yefb16.htm#fr_12.md) From the Polish.
 Kletke.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: How Six Men Travelled Through the Wide World](yefb17)
+[Next: How Six Men Travelled Through the Wide World](yefb17.md)
 
 </div>

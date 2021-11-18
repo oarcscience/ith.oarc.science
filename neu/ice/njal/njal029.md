@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal028)  [Next](njal030) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal028)  [Next](njal030.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ of Norway.
 
 ------------------------------------------------------------------------
 
-[Next: 30. Gunnar Goes A-sea-roving](njal030)
+[Next: 30. Gunnar Goes A-sea-roving](njal030.md)

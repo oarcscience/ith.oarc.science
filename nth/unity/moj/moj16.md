@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](moj15)  [Next](moj17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](moj15)  [Next](moj17.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Mysteries of John*, by Charles Fillmore, \[1946\], at Intangible
 Textual Heritage
 
@@ -261,4 +261,4 @@ through the Son.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 15](moj17)
+[Next: Chapter 15](moj17.md)

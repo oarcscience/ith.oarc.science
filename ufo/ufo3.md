@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](ufo2)  [Next](ufo4) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](ufo2)  [Next](ufo4.md) 
 
 ### Witnesses Marvel at Mystery Objects (Bemidji MI 8/31/1990)
 
@@ -207,4 +207,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 ------------------------------------------------------------------------
 
 [Next: How to Build a Flying Saucer After So Many Amateurs Have
-Failed](ufo4)
+Failed](ufo4.md)

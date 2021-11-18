@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb06)  [Next](orfb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb06)  [Next](orfb08.md) 
 
 </div>
 
@@ -554,6 +554,6 @@ with them.
 
 ------------------------------------------------------------------------
 
-[Next: The Fox and the Wolf](orfb08)
+[Next: The Fox and the Wolf](orfb08.md)
 
 </div>

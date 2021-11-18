@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](amm11)  [Next](amm13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](amm11)  [Next](amm13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -352,7 +352,7 @@ stone'), the slabs being laid in such a manner
 <span id="img_fig22"></span>
 
 [![Figure 22. Marble Pavement, Constantinople](tn/fig22.jpg)  
-Click to enlarge](img/fig22.jpg)  
+Click to enlarge](img/fig22.jpg.md)  
   
 
 that what were the two faces of the division made by the saw in the
@@ -414,7 +414,7 @@ South Kensington—it is most remarkable how often the
 <span id="img_fig23"></span>
 
 [![Figure 23. Roman Pavement, Cirencester](tn/fig23.jpg)  
-Click to enlarge](img/fig23.jpg)  
+Click to enlarge](img/fig23.jpg.md)  
   
 
 floor is designed as a sea; there are subjects such as Neptune and
@@ -486,7 +486,7 @@ floor is said to be a piece of the pavement of paradise.
 
 [![Figure 24. Pavement Patterns, the Baptistery,
 Florence](tn/fig24.jpg)  
-Click to enlarge](img/fig24.jpg)  
+Click to enlarge](img/fig24.jpg.md)  
   
 
 Many of the churches of Italy have wave patterns on the floors, and in
@@ -503,7 +503,7 @@ represents the water it contains.
 
 At Florence, the floor of the Baptistry is laid in patterns suggesting
 running and rippled water, with the sun and zodiacal signs. (*See*
-[figures](#img_fig24).)
+[figures](#img_fig24)..md)
 
 With all these examples, it cannot be doubted that the wave-like
 patterns of the central space at Grado, or portions in St Mark's,
@@ -680,4 +680,4 @@ lordly pleasure-house and garden of delights:—
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Ceilings Like the Sky](amm13)
+[Next: Chapter X. Ceilings Like the Sky](amm13.md)

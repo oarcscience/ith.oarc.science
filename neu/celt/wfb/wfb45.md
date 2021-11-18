@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb44)  [Next](wfb46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb44)  [Next](wfb46.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ become rich beyond the dreams of avarice.
 
 ------------------------------------------------------------------------
 
-[Next: The Richest Man](wfb46)
+[Next: The Richest Man](wfb46.md)

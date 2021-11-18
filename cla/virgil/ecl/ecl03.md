@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](ecll03)  [Previous](ecl02) 
-[Next](ecl04) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](ecll03)  [Previous](ecl02.md) 
+[Next](ecl04.md) 
 
 ------------------------------------------------------------------------
 
@@ -164,4 +164,4 @@ children: the meadows have drunk their fill.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue IV.--Pollio](ecl04)
+[Next: Eclogue IV.--Pollio](ecl04.md)

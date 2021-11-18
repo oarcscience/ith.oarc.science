@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib03)  [Next](shib05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib03)  [Next](shib05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -69,7 +69,7 @@ id="img_00800"></span>
 
 |                                       |
 |---------------------------------------|
-| ![BANNER OF THE ORDER](img/00800.jpg) |
+| ![BANNER OF THE ORDER](img/00800.jpg.md) |
 
 Order of the Red Cross, an Order not then founded, technically speaking.
 
@@ -103,7 +103,7 @@ on gold, within which is painted the blood-red Cross of the
 by the Motto: "Magna est Veritas, et Prævalebit." The letters on the
 arms of the Cross are black.
 
-<span id="img_00900"></span> ![JEWISH. PERSIAN.](img/00900.jpg)
+<span id="img_00900"></span> ![JEWISH. PERSIAN.](img/00900.jpg.md)
 
 #### THE RED CROSS OF THE ORDER.
 
@@ -112,7 +112,7 @@ the extremities of the arms, D T J L.<span id="img_00901"></span>
 
 |                                             |
 |---------------------------------------------|
-| ![Red Cross of the Templars](img/00901.jpg) |
+| ![Red Cross of the Templars](img/00901.jpg.md) |
 
 The four arms, thus indicating Deity, Truth, Justice and Liberty,
 commemorate our faith in God, and in the grand characteristics of the
@@ -122,8 +122,8 @@ This Cross is the Jewel of the Order, and may be properly worn by the
 members thereof, suspended by a green and red ribbon.
 
 <span id="img_00902"></span> ![Symbolic Bridge of the
-Templars](img/00902.jpg)
+Templars](img/00902.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Order of the Red Cross](shib05)
+[Next: Order of the Red Cross](shib05.md)

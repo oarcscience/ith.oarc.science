@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo67)  [Next](hoo69) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo67)  [Next](hoo69.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ And ne'er forsake the equal paths of right.
 
 ------------------------------------------------------------------------
 
-[Next: LXIV: To Mars](hoo69)
+[Next: LXIV: To Mars](hoo69.md)

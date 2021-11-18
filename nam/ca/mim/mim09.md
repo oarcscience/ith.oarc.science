@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim08)  [Next](mim10) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim08)  [Next](mim10.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ he shouted.
 
 ------------------------------------------------------------------------
 
-[Next: 8. The Search for the Deer](mim10)
+[Next: 8. The Search for the Deer](mim10.md)

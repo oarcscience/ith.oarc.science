@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm10) 
-[Next](cdm12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm10.md) 
+[Next](cdm12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Dragon Myth*, by J.F. Campbell, \[1911\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 <span id="an_p_137">137</span>. Now the king's daughter and the carrotty
 cock-eyed cook were to have a hearty merry marriage-feast in the king's
 house, but the lad got up as usual and went off with the cows to the
-third park. <span id="fr_71"></span>[1](#fn_70)
+third park. <span id="fr_71"></span>[1](#fn_70.md)
 
 <span id="an_p_138">138</span>. He went to the golden castle and blew
 his whistle; when the yellow russet lad came out he said: "What's your
@@ -66,7 +66,7 @@ on the board between them.
 <span id="an_p_143">143</span>. "Is there any one at all," said a
 counsellor that the king had, "who is not here? It is long since I heard
 it said: 'Strong is a whelp from a guiding breast.' <span
-id="fr_72"></span>[1](#fn_71) Send to the herds hut, and let us see if
+id="fr_72"></span>[1](#fn_71.md) Send to the herds hut, and let us see if
 he is within or if any one is with him."
 
 <span id="an_p_144">144</span>. Away went three of the king's worthy
@@ -222,7 +222,7 @@ knots?" said he.
 
 Then he took the withies and loosed the knots one after the other, and
 the cook and the warriors began to quake. <span
-id="fr_73"></span>[1](#fn_72)
+id="fr_73"></span>[1](#fn_72.md)
 
 <span id="an_p_166">166</span>. "Stop," said the king's daughter. "The
 man that slew the dragon and that I am to marry wants the tip of an ear,
@@ -285,7 +285,7 @@ been married for some time to the king's daughter, it so
 <span id="page_78">p. 78</span>
 
 fell out that she longed greatly for dulse, <span
-id="fr_74"></span>[1](#fn_73) and she asked the lad to go with her to
+id="fr_74"></span>[1](#fn_73.md) and she asked the lad to go with her to
 the strand to seek it. The lad forgot his promise to his father, and
 they took their way to the sea-shore, where the brown sea-ware was
 rising and sinking amongst the blue waves, below the deep-dyed
@@ -316,7 +316,7 @@ braveries and jewellery that
 <span id="img_07900"></span> <span align="CENTER"> [![She sat on a
 green mound in the gloaming in the mouth of the evening, playing on her
 harp.](tn/07900.jpg)  
-Click to enlarge](img/07900.jpg)  
+Click to enlarge](img/07900.jpg.md)  
 “She sat on a green mound in the gloaming in the mouth of the evening,
 playing on her harp.”  
 </span>
@@ -427,7 +427,7 @@ next.
 
 <span id="an_p_199">199</span>. So he thought of the fox, and was a fox,
 and he found out an otter's den on the island, and seized the
-cubs. <span id="fr_75"></span>[1](#fn_74)
+cubs. <span id="fr_75"></span>[1](#fn_74.md)
 
 <span id="page_82">p. 82</span>
 
@@ -470,23 +470,23 @@ back to them after awhile.
 
 ### Footnotes
 
-<span id="fn_70"></span>[70:1](cdm11.htm#fr_71) From the Fisher and the
+<span id="fn_70"></span>[70:1](cdm11.htm#fr_71.md) From the Fisher and the
 Gray Lad (with a bit inserted).
 
-<span id="fn_71"></span>[71:1](cdm11.htm#fr_72) *Is làidir cuilean a
+<span id="fn_71"></span>[71:1](cdm11.htm#fr_72.md) *Is làidir cuilean a
 uchd treòir*.
 
-<span id="fn_72"></span>[76:1](cdm11.htm#fr_73) In another version, he
+<span id="fn_72"></span>[76:1](cdm11.htm#fr_73.md) In another version, he
 loosens three sons of the King of Sorcha (light) whom he had conquered
 and bound.
 
-<span id="fn_73"></span>[78:1](cdm11.htm#fr_74) A fucus which grows upon
+<span id="fn_73"></span>[78:1](cdm11.htm#fr_74.md) A fucus which grows upon
 rocks and upon other sea-ware, and comes above water at low tide. It is
 good to eat, and tastes somewhat like nuts and sea-water.
 
-<span id="fn_74"></span>[81:1](cdm11.htm#fr_75) As Donald Macphie
+<span id="fn_74"></span>[81:1](cdm11.htm#fr_75.md) As Donald Macphie
 related.
 
 ------------------------------------------------------------------------
 
-[Next: The Second Way](cdm12)
+[Next: The Second Way](cdm12.md)

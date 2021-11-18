@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfl05)  [Next](wfl07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfl05)  [Next](wfl07.md) 
 
 ------------------------------------------------------------------------
 
@@ -652,4 +652,4 @@ elsewhere, the legend takes divers forms.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Fairy Music](wfl07)
+[Next: Chapter VII: Fairy Music](wfl07.md)

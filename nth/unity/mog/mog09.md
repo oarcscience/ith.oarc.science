@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](mog08)  [Next](mog10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](mog08)  [Next](mog10.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Mysteries of Genesis*, by Charles Fillmore, \[1936\], at Intangible
 Textual Heritage
 
@@ -905,4 +905,4 @@ oppressively aggressive character. He is of the outer sense man.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](mog10)
+[Next: Chapter 8](mog10.md)

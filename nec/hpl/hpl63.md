@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl62)  [Next](hpl64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl62)  [Next](hpl64.md) 
 
 ------------------------------------------------------------------------
 
@@ -1165,4 +1165,4 @@ some'at up his sleeve. For half a crown I'd burn his ------ home.'
 
 ------------------------------------------------------------------------
 
-[Next: III. A Search and an Evocation](hpl64)
+[Next: III. A Search and an Evocation](hpl64.md)

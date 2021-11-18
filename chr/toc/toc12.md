@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](toc11)  [Next](toc13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](toc11)  [Next](toc13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Trial of Christ*, by David K. Breed, \[1948\], at Intangible
 Textual Heritage
 
@@ -20,10 +20,10 @@ Textual Heritage
 ### EPILOGUE—OUR REDEEMER
 
 "Come unto me, all ye that labour and are heavy laden, and I will give
-you rest." <span id="fr_129"></span>[129](#fn_129) Thus spoke Jesus of
+you rest." <span id="fr_129"></span>[129](#fn_129.md) Thus spoke Jesus of
 Nazareth, the Christ of God, the Saviour of the world—who in His earthly
 ministry never once used the word "religion." <span
-id="fr_130"></span>[130](#fn_130) Christianity is not a religion; it is
+id="fr_130"></span>[130](#fn_130.md) Christianity is not a religion; it is
 a revelation.
 
 The word "religion" comes from a Greek root meaning the act of man
@@ -40,9 +40,9 @@ and each would emphasize our point. During the trial before
 <span class="contnote">\[paragraph continues\]</span> Pilate, Jesus made
 this startling statement: "Thou couldest have no power at all against
 me, except it were given thee from above." <span
-id="fr_131"></span>[131](#fn_131) To a thief on a neighboring cross who
+id="fr_131"></span>[131](#fn_131.md) To a thief on a neighboring cross who
 confessed, He said: "Today shalt thou be with me in paradise." <span
-id="fr_132"></span>[132](#fn_132) To His disciples; in that poignant
+id="fr_132"></span>[132](#fn_132.md) To His disciples; in that poignant
 fourteenth chapter of John, Jesus discussed the heavenly mansions He has
 gone to prepare for us, promised to return to take us there, and told us
 that the Father dwelleth in him to do the works.
@@ -51,7 +51,7 @@ Who could make these startling promises? Could an imposter make them and
 not be found out? What does the trial teach us of Our Redeemer? Did the
 Jews prove Jesus an imposter? If the trial proved Jesus was an imposter,
 why did Pilate have it inscribed on the cross, "THE KING OF THE
-JEWS" <span id="fr_133"></span>[133](#fn_133) instead of, "He said he
+JEWS" <span id="fr_133"></span>[133](#fn_133.md) instead of, "He said he
 was king of the Jews."?
 
 The reason is that the Jews failed to see the true import of the trial.
@@ -66,9 +66,9 @@ sacrificial Lamb of God crucified to save men from their sins. The New
 Testament record constitutes not only an accurate fulfillment of
 prophecy, but its very words in some places quote the actual language of
 the great Jewish prophets. The crowd did spit in his face. <span
-id="fr_134"></span>[134](#fn_134) He was crucified between two
-thieves <span id="fr_135"></span>[135](#fn_135) and reviled by the
-crowd. <span id="fr_136"></span>[136](#fn_136) The trial did follow the
+id="fr_134"></span>[134](#fn_134.md) He was crucified between two
+thieves <span id="fr_135"></span>[135](#fn_135.md) and reviled by the
+crowd. <span id="fr_136"></span>[136](#fn_136.md) The trial did follow the
 pattern of Isaiah 53. Jesus was trying the world. As the omnipotent Son
 of God, co-equal with God, Jesus knew everything. He knew the law. He
 had astonished the Rabbis with his legal knowledge when He was but
@@ -80,7 +80,7 @@ gloriously
 <span id="page_76">p. 76</span>
 
 to his death saying, "Father, into Thy hands I commend my spirit." <span
-id="fr_137"></span>[137](#fn_137)
+id="fr_137"></span>[137](#fn_137.md)
 
 No one can fully understand the technical legal violations of the Trial
 of Christ and not be impressed again with the accuracy in which God in
@@ -144,28 +144,28 @@ sin of many, and made intercession for the transgressors*."
 
 ### Footnotes
 
-<span id="fn_129"></span>[73:129](toc12.htm#fr_129) Matt. 11:28.
+<span id="fn_129"></span>[73:129](toc12.htm#fr_129.md) Matt. 11:28.
 
-<span id="fn_130"></span>[73:130](toc12.htm#fr_130) Ernest Gordon, "A
+<span id="fn_130"></span>[73:130](toc12.htm#fr_130.md) Ernest Gordon, "A
 Survey of Religious Life and Thought", in *The Sunday School Times*,
 Jan. 11, 1947, p. 30 (6).
 
-<span id="fn_131"></span>[74:131](toc12.htm#fr_131) John 19:11.
+<span id="fn_131"></span>[74:131](toc12.htm#fr_131.md) John 19:11.
 
-<span id="fn_132"></span>[74:132](toc12.htm#fr_132) Luke 23:43.
+<span id="fn_132"></span>[74:132](toc12.htm#fr_132.md) Luke 23:43.
 
-<span id="fn_133"></span>[74:133](toc12.htm#fr_133) Mark 15:26; John
+<span id="fn_133"></span>[74:133](toc12.htm#fr_133.md) Mark 15:26; John
 19:19 thru 22.
 
-<span id="fn_134"></span>[75:134](toc12.htm#fr_134) Compare, Isaiah 50:6
+<span id="fn_134"></span>[75:134](toc12.htm#fr_134.md) Compare, Isaiah 50:6
 with Matt. 27:67, for example.
 
-<span id="fn_135"></span>[75:135](toc12.htm#fr_135) Isaiah 53:12.
+<span id="fn_135"></span>[75:135](toc12.htm#fr_135.md) Isaiah 53:12.
 
-<span id="fn_136"></span>[75:136](toc12.htm#fr_136) Psalm 22:7 & 8.
+<span id="fn_136"></span>[75:136](toc12.htm#fr_136.md) Psalm 22:7 & 8.
 
-<span id="fn_137"></span>[76:137](toc12.htm#fr_137) Luke 23:46.
+<span id="fn_137"></span>[76:137](toc12.htm#fr_137.md) Luke 23:46.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix A. Lawyers in the Sanhedrin](toc13)
+[Next: Appendix A. Lawyers in the Sanhedrin](toc13.md)

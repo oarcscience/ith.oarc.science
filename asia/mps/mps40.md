@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps39) 
-[Next](mps41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps39.md) 
+[Next](mps41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ heart boils."
 ------------------------------------------------------------------------
 
 [Next: XXXVIII. The Letter Written by Nestan-Daredjan to
-P’hatman](mps41)
+P’hatman](mps41.md)

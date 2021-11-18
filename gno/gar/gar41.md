@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar40)  [Next](gar42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar40)  [Next](gar42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -19,13 +19,13 @@ Intangible Textual Heritage
 
 ### THE INEFFABLE NAME IN THE HINDOO FORM.
 
-We have already seen how [important](errata.htm#16) a part the notion of
+We have already seen how [important](errata.htm#16.md) a part the notion of
 an "Ineffable Name," denoting the inconceivable Supreme, plays in the
 machinery of the Gnosis, and here again the original idea is to be found
 fully developed in the practice of the Brahmins. This awful name
 emblazoned in *three* Sanscrit letters within a cartouche formed by a
 coiled serpent (that normal inclosure for a Holy Name in Gnostic
-art) <span id="fr_150"></span>[\*](#fn_149) is fittingly borne up by the
+art) <span id="fr_150"></span>[\*](#fn_149.md) is fittingly borne up by the
 elephant headed Ganesa, god of *Wisdom*. The word being triliteral is
 rather **AUM** than **OM**, as usually written in English. It is never
 to be uttered aloud, but only mentally by the devout. Of the characters,
@@ -33,7 +33,7 @@ to be uttered aloud, but only mentally by the devout. Of the characters,
 that is, the Triad Brahma-Vishnu-Siva. "If pronounced aloud, the sound
 much resembles Amen as drawled out by a country parish clerk. In fact it
 is used for "Angiekar," *So be it!* in token of approbation" (Moor,
-Hindoo Pantheon). <span id="fr_151"></span>[†](#fn_150) And here a very
+Hindoo Pantheon). <span id="fr_151"></span>[†](#fn_150.md) And here a very
 curious analogy is to be pointed out in the assertion of the Talmudists
 that the word *Amen* if shouted aloud is of power to open the gates of
 Heaven. In the Pistis-Sophia the "Three Amen," and again the "Four
@@ -165,11 +165,11 @@ overcomes the sins of the *Kali yug* (Iron Age), the Guardian of the
 universe, the emblem of Mercy towards all them that sue thee--**OM**,
 the Possessor of all things in vital form, Thou art Brahma, Vishnu, and
 Mahesa (Siva); Thou art the Lord of the universe; Thou art the proper
-*form* of all things, <span id="fr_152"></span>[\*](#fn_151) moveable
+*form* of all things, <span id="fr_152"></span>[\*](#fn_151.md) moveable
 and immoveable, the Possessor of the whole. And thus I adore thee.
 Reverence be unto thee the Bestower of Salvation; Reverence be unto thee
 the Destroyer of the Evil Spirit, Kesi; <span
-id="fr_153"></span>[†](#fn_152) O Damadara shew me favour! Thou art he
+id="fr_153"></span>[†](#fn_152.md) O Damadara shew me favour! Thou art he
 who resteth upon the face of the Milky Ocean, and who lieth upon the
 serpent Sesha. Thou art Trivikrama, who at three strides encompasseth
 the earth; I adore thee, who art celebrated by a thousand names, and
@@ -190,7 +190,7 @@ having mounted from that stone upon the pyre. This usage supplies the
 connection of the symbol. with Serapis, the translated Yama, god of
 Hades. Compare the colossal Foot dedicated to the Serapis of Alexandria,
 as his special attribute, and recently exhumed from the ruins of his
-temple. <span id="fr_154"></span>[‡](#fn_153) It is richly sandalled,
+temple. <span id="fr_154"></span>[‡](#fn_153.md) It is richly sandalled,
 and on the top sits enthroned the god himself, with his attendants
 Cerberus and the Serpent, *Tricasa* 
 
@@ -211,7 +211,7 @@ projected temple there in the deposit in that pit of 120 small bronze
 images called "Tahmudas," twenty of larger size, "Languda," one large in
 stone, "Langudagari," and a brass vessel containing two of the bones of
 "Thacur." This last title, "Noble," <span
-id="fr_155"></span>[\*](#fn_154) is the regular style of a god, or a
+id="fr_155"></span>[\*](#fn_154.md) is the regular style of a god, or a
 deified mortal. In mediæval ecclesiastical usage (which probably still
 continues) it was indispensable for the consecration of any altar in a
 church that a relic (bone) of some Saint should have been deposited
@@ -305,12 +305,12 @@ god, Ormuzd, in the form of that favourite royal appellation, Hormisdas
 
 ### Footnotes
 
-<span id="fn_149"></span>[266:\*](gar41.htm#fr_150) As the Pistis-Sophia
+<span id="fn_149"></span>[266:\*](gar41.htm#fr_150.md) As the Pistis-Sophia
 informs us, "the disk of the sun was a great dragon having his tail in
 his mouth," the meaning of this figure whereon the sacred word is
 emblazoned becomes sufficiently obvious.
 
-<span id="fn_150"></span>[266:†](gar41.htm#fr_151) **OM MANI PADHVM**
+<span id="fn_150"></span>[266:†](gar41.htm#fr_151.md) **OM MANI PADHVM**
 "Glorification of the Deity," is the Thibetian Confession of Faith,
 engraved on stone tablets set up everywhere over the country; and
 everlastingly chanted by the Lamas as they tell their beads. (Cooper's
@@ -325,21 +325,21 @@ granite, and porphyry and granite, bearing inscriptions commemorating
 this foundation, and also this formula in Chinese, Mongolian and
 Thibetan.
 
-<span id="fn_151"></span>[270:\*](gar41.htm#fr_152) Meaning the
+<span id="fn_151"></span>[270:\*](gar41.htm#fr_152.md) Meaning the
 pre-existing Type, the Platonic *Idea*, the Persian Ferouher, the
 Rabbinical Adam-Kadmon--all springing from this source.
 
-<span id="fn_152"></span>[270:†](gar41.htm#fr_153) This explains the
+<span id="fn_152"></span>[270:†](gar41.htm#fr_153.md) This explains the
 title of the deity so often put on our talismans, Γιγαντορήκτης.
 
-<span id="fn_153"></span>[270:‡](gar41.htm#fr_154) The religious
+<span id="fn_153"></span>[270:‡](gar41.htm#fr_154.md) The religious
 importance of the symbol is attested by an Alexandrian coin of Commodus,
 having for reverse this same Foot, with the bust of Serapis placed on
 the section of the leg. (Feuardent, 'Egypte Ancienne,' pl. xxvii.).
 
-<span id="fn_154"></span>[271:\*](gar41.htm#fr_155) Exactly answering to
+<span id="fn_154"></span>[271:\*](gar41.htm#fr_155.md) Exactly answering to
 the ancient *Divus*, the Catholic *Saint*.
 
 ------------------------------------------------------------------------
 
-[Next: Abraxas-Gems, Their Materials, Workmanship, and Nature](gar42)
+[Next: Abraxas-Gems, Their Materials, Workmanship, and Nature](gar42.md)

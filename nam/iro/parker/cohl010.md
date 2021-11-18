@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl009)  [Next](cohl011) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl009)  [Next](cohl011.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 ### THE PEOPLE GATHER ABOUT THE DEAD MAN
 
 Then the daughter says to her husband, "Run quickly and notify his
-nephew, Tää'wônyâs, <span id="fr_16"></span>[1](#fn_16) that he who has
+nephew, Tää'wônyâs, <span id="fr_16"></span>[1](#fn_16.md) that he who has
 lain so many years in bed has gone. Bid him come immediately."
 
 So the husband runs to carry the message to Tää'wônyâs. And Tää'wônyâs
 says, "Truly so. Now hasten to Gaiänt'wakâ, <span
-id="fr_17"></span>[2](#fn_17) the brother of the dead man and say that
+id="fr_17"></span>[2](#fn_17.md) the brother of the dead man and say that
 he who lay sick for so many years is dead. So now go and say this."
 
 So the husband goes alone to where Gaiänt'wakâ lives and when he' has
@@ -55,13 +55,13 @@ he opens his eyes.
 
 ### Footnotes
 
-<span id="fn_16"></span>[23:1](cohl010.htm#fr_16) Meaning, Needle or Awl
+<span id="fn_16"></span>[23:1](cohl010.htm#fr_16.md) Meaning, Needle or Awl
 Breaker, one of the fifty sachems.
 
-<span id="fn_17"></span>[23:2](cohl010.htm#fr_17) Meaning, Planter,
+<span id="fn_17"></span>[23:2](cohl010.htm#fr_17.md) Meaning, Planter,
 commonly called Cornplanter, the half brother of Handsome Lake. See [p.
-136](cohl164.htm#page_136).
+136](cohl164.htm#page_136.md).
 
 ------------------------------------------------------------------------
 
-[Next: The Dead Man Revives](cohl011)
+[Next: The Dead Man Revives](cohl011.md)

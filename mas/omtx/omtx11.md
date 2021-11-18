@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx10)  [Next](omtx12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx10)  [Next](omtx12.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ ceremony of installation, heretofore given for a subordinate Lodge.
 
 ------------------------------------------------------------------------
 
-[Next: Ceremony At Laying Corner-Stones](omtx12)
+[Next: Ceremony At Laying Corner-Stones](omtx12.md)

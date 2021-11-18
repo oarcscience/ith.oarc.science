@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs41)  [Next](mhs43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs41)  [Next](mhs43.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ He is a friend at sneezing time; the most that can be got from him is a
 
 ------------------------------------------------------------------------
 
-[Next: I. In Ancient Times](mhs43)
+[Next: I. In Ancient Times](mhs43.md)

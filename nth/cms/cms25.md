@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cms24)  [Next](cms26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cms24)  [Next](cms26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ attention to it and you will succeed where all others fail.
 
 ------------------------------------------------------------------------
 
-[Next: Causes and Conditions](cms26)
+[Next: Causes and Conditions](cms26.md)

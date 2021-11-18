@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa35)  [Next](psa37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa35)  [Next](psa37.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ it to Bulram.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVI](psa37)
+[Next: Chapter XXXVI](psa37.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms23)  [Next](jms25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms23)  [Next](jms25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -521,8 +521,8 @@ one in favor of the other.
 II, 780. Prof. Ginzberg called my attention to the connection between
 the prescription that the egg must be laid on a Thursday and the
 creation of fowl on that day (Gen. 1: 20); cf. also [p.
-129](jms11.htm#page_129) above.
+129](jms11.htm#page_129.md) above.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](jms25)
+[Next: Chapter IV](jms25.md)

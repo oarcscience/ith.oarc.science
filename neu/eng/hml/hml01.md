@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml00)  [Next](hml02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml00)  [Next](hml02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ TANGLEWOOD
 
 ------------------------------------------------------------------------
 
-[Next: Contents](hml02)
+[Next: Contents](hml02.md)

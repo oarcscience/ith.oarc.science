@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvpref)  [Next](wyvbk02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvpref)  [Next](wyvbk02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -173,7 +173,7 @@ not do thy plant's root any damage.
 Go to the pen, the cowstall. Heaven rain for thee.  
 On this earth's farthest end, God Savitar, bind him, with  
 hundred fetters bind the man who hates us and whom  
-we hate. Thence do not thou [release](errata.htm#0) him.  
+we hate. Thence do not thou [release](errata.htm#0.md) him.  
 26 May I drive Araru away from Earth, the seat of men's oblations  
 to the Gods. Go to the pen . . . . . . . release him  
 (as in verse 25).  
@@ -215,4 +215,4 @@ holy worship.
 
 ------------------------------------------------------------------------
 
-[Next: Book II](wyvbk02)
+[Next: Book II](wyvbk02.md)

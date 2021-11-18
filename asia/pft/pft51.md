@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft50)  [Next](pft52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft50)  [Next](pft52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -68,8 +68,8 @@ mounted they began to whip the horse. In their haste, they had forgotten
 to untie the rope which was around the trunk of the caramay tree. As the
 horse pulled at the rope fruit fell from the tree upon the old man and
 woman. Believing they were shot, they were so frightened that they died.
- <span id="fr_149"></span>[150](pft68.htm#fn_149)
+ <span id="fr_149"></span>[150](pft68.htm#fn_149.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Presidente who had Horns](pft52)
+[Next: The Presidente who had Horns](pft52.md)

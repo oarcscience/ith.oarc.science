@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Next](lca01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Next](lca01.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ of attribution is left intact.
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](lca01)
+[Next: Dedication](lca01.md)

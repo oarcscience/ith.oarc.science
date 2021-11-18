@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb19)  [Next](spb21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb19)  [Next](spb21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ They figured thee in a multitude of visions; behold thou art One under
 all images.
 
 They saw in thee both age and youth, <span
-id="fr_24"></span>[\*](#fn_22) the hair of thy head now grey as in old
+id="fr_24"></span>[\*](#fn_22.md) the hair of thy head now grey as in old
 age, now black as in youth.
 
 Age in the day of judgment, and youth in the day of battle; as a man of
@@ -87,7 +87,7 @@ His glory resteth upon me, and mine upon him; and he is nigh unto me,
 when I cry unto him.
 
 He is bright and ruddy in red apparel, when he cometh front treading the
-winepress in Edom. <span id="fr_25"></span>[†](#fn_23)
+winepress in Edom. <span id="fr_25"></span>[†](#fn_23.md)
 
 The symbol of his all-embracing providence he showed to the meek Moses,
 when the similitude of the Lord was before his eyes.
@@ -141,23 +141,23 @@ be full of sap and green: to declare that the Lord is upright; he is my
 rock, and there is no unrighteousness in him.
 
 <span class="small">*The Mourner's Kaddish. [p.
-242](spb19.htm#page_242)*.</span>
+242](spb19.htm#page_242.md)*.</span>
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_22"></span>[246:\*](spb20.htm#fr_24) In regard to these and
+<span id="fn_22"></span>[246:\*](spb20.htm#fr_24.md) In regard to these and
 the following expressions, compare Daniel vii. 9; Exod. xv. 3; Song of
 Solomon v. 2, 14; Isaiah lix. 17; Psalm xcviii. 1.
 
-<span id="fn_23"></span>[247:†](spb20.htm#fr_25) Compare Isaiah lxiii.
+<span id="fn_23"></span>[247:†](spb20.htm#fr_25.md) Compare Isaiah lxiii.
 1, 2.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Kiddush for Sabbath Morning](spb21)
+[Next: Kiddush for Sabbath Morning](spb21.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Next](sss01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Next](sss01.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ THE UNIVERSITY PRESS, GLASGOW
 
 ------------------------------------------------------------------------
 
-[Next: Preface](sss01)
+[Next: Preface](sss01.md)

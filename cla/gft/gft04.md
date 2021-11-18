@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft03)  [Next](gft05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft03)  [Next](gft05.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ chest, and said:--
 <span id="img_00400"></span>
 
 [![When she cried, help met her](tn/00400.jpg)  
-Click to enlarge](img/00400.jpg)  
+Click to enlarge](img/00400.jpg.md)  
 When she cried, help met her  
 
  
@@ -169,4 +169,4 @@ and was a daughter to him and to his wife, till fifteen years were past.
 
 ------------------------------------------------------------------------
 
-[Next: Part Two: How Perseus Vowed a Rash Vow](gft05)
+[Next: Part Two: How Perseus Vowed a Rash Vow](gft05.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu02)  [Next](tmu04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu02)  [Next](tmu04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -84,7 +84,7 @@ and others."
 (Monkey), even a person addicted to evil practices attains the salvation
 of Sālokya (My world) through the uttering of My name, but not of other
 worlds. Should one die in Brahma-nā.la (the lotus-stalk—also street) in
-Kāśī, <span id="fr_0"></span>[1](#fn_0) he attains My Ṭāraka (Manṭra).
+Kāśī, <span id="fr_0"></span>[1](#fn_0) he attains My Ṭāraka (Manṭra.md).
 Such a person attains salvation without any rebirth; wherever he may die
 in Kāśī, Maheśwara initiates him by whispering My Ṭāraka (Manṭra) into
 his right ear. Such person, freed from all sins, attains My Swarūpa
@@ -289,9 +289,9 @@ of a mind devoid of Vāsanā. Vāsanā perishes through well-conducted
 deliberation and truth. Through the absorption of Vāsanās, Manas attains
 quiescence like a lamp \[without oil\]. He whose mind, devoid of
 destruction, is \[centred\] on Me as of the nature of Chinmāṭra
-\[consciousness alone\], abandoning the [Vāsanās](errata.htm#0), is no
+\[consciousness alone\], abandoning the [Vāsanās](errata.htm#0.md), is no
 other than Myself of the nature of Sachchiḍānanḍa. Whether
-[Samāḍhi](errata.htm#1) and Karma are performed or not, one who has a
+[Samāḍhi](errata.htm#1.md) and Karma are performed or not, one who has a
 supreme Chiṭṭa with a heart devoid of all desires is an emancipated
 person. He whose mind is freed from Vāsanās is not subject to the fruits
 arising from the performance or non-performance of actions, or Samāḍhi
@@ -461,13 +461,13 @@ Vishṇu."
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](tmu03.htm#fr_0) There is a street in Kāsī
+<span id="fn_0"></span>[2:1](tmu03.htm#fr_0.md) There is a street in Kāsī
 called Brahma-nāla.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 2. Sarvasāra-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu04)
+[Next: 2. Sarvasāra-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu04.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha02)  [Next](sha04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha02)  [Next](sha04.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ perhaps seven years.
 
 ------------------------------------------------------------------------
 
-[Next: Prologue](sha04)
+[Next: Prologue](sha04.md)

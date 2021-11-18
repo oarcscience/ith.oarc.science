@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt02)  [Next](ettt04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt02)  [Next](ettt04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ Intangible Textual Heritage
 
 ### OF THE
 
-### FIERCE GURU WITH PHURBA[1](ettt03.htm#an_n_2:1)<span id="an_r_2:1"></span>
+### FIERCE GURU WITH PHURBA[1](ettt03.htm#an_n_2:1.md)<span id="an_r_2:1"></span>
 
 <span id="img_03100"></span>
 
@@ -53,7 +53,7 @@ The garland of mantras evolves swiftly,
 Glowing with infinite beams of light,
 
 Which shine forth to the Pure Land of the Golden
-Mountain[2](ettt03.htm#an_n_2:2)<span id="an_r_2:2"></span>,
+Mountain[2](ettt03.htm#an_n_2:2.md)<span id="an_r_2:2"></span>,
 
 Attracting numerous Fierce Gurus to come down here.
 
@@ -81,7 +81,7 @@ Fierce Guru.
 You should think that all sounds are the Fierce Incantation of Buddha.
 
 You should thus think that no demon or devil can possibly harm
-you[3](ettt03.htm#an_n_2:3)<span id="an_r_2:3"></span>."
+you[3](ettt03.htm#an_n_2:3.md)<span id="an_r_2:3"></span>."
 
 Recite the chief incantation; then recite the following incantation:
 
@@ -102,10 +102,10 @@ offer the Mandala.
 
 Padmasambhava himself said,
 
-"I, the Lotus-Born of *A*o-rgyng[4](ettt03.htm#an_n_2:4)<span
+"I, the Lotus-Born of *A*o-rgyng[4](ettt03.htm#an_n_2:4.md)<span
 id="an_r_2:4"></span>,
 
-Preach the Dharma of the Nine Vehicles[5](ettt03.htm#an_n_2:5)<span
+Preach the Dharma of the Nine Vehicles[5](ettt03.htm#an_n_2:5.md)<span
 id="an_r_2:5"></span>.
 
 <span id="page_33">p. 33</span>
@@ -131,7 +131,7 @@ I am Dharmakaya, the All-Perfect Buddha.
 My real being is absorbed in the plane of Universal Quintessence.
 
 I am Sambhogakaya, the body of the Fierce and Peaceful
-Buddhas[6](ettt03.htm#an_n_2:6)<span id="an_r_2:6"></span>;
+Buddhas[6](ettt03.htm#an_n_2:6.md)<span id="an_r_2:6"></span>;
 
 My consciousness manifests in the form of Buddha's body and Wisdom.
 
@@ -170,7 +170,7 @@ I am omnipresent and absorbed in all.
 One may visualize me either as the Peaceful Buddha or the Fierce Buddha.
 
 Whatsoever the forms, ornaments, and holdings of the
-Yidam[7](ettt03.htm#an_n_2:7)<span id="an_r_2:7"></span>, it makes no
+Yidam[7](ettt03.htm#an_n_2:7.md)<span id="an_r_2:7"></span>, it makes no
 difference \[one may visualize me whatever the form he choose and attain
 enlightenment like mine\];
 
@@ -234,7 +234,7 @@ Demons.
 I will bestow all the Siddhis like rainfall upon my followers.
 
 If one desires to be born in the Pure Land of
-Non-Regression[8](ettt03.htm#an_n_2:8)<span id="an_r_2:8"></span>,
+Non-Regression[8](ettt03.htm#an_n_2:8.md)<span id="an_r_2:8"></span>,
 
 He should look to me.
 
@@ -297,21 +297,21 @@ One's hair stands up and one's tears flow."
 
 Again, you should know that the Father and Mother Guru are embodied in
 the P’urbu-dagger. Today's initiation is called the Initiation of the
-*A*o-rgyng Yabyum[9](ettt03.htm#an_n_2:9)<span id="an_r_2:9"></span>
+*A*o-rgyng Yabyum[9](ettt03.htm#an_n_2:9.md)<span id="an_r_2:9"></span>
 embodied in the Buddha Rdo-rje-gyoun-nu, or the Teaching of Elimination
 of Evil through the Fierce Guru with Phurba.
 
 Says Padmasambhava's prophecy:
 
 *"In the time of sinful, soiled, and corrupt custom—in the future—  
- The demons and spirits of the Planets*[10](ettt03.htm#an_n_2:10)<span
+ The demons and spirits of the Planets*[10](ettt03.htm#an_n_2:10.md)<span
 id="an_r_2:10"></span> *will infest the world.  
  At that time, the Demon King Pehar will be very powerful and dominant
 \[his teachings will spread afar\].*"
 
 <span id="img_pl01"></span> <span align="CENTER"> [![PLATE
 I](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 PLATE I  
 </span>
 
@@ -343,7 +343,7 @@ angry; then the Black Yamantaka put him to death. Whereupon he became
 the Black King Demon called Hala. Later he came to Tibet and enslaved
 half of the Tibetan population.
 
-Maji Lab Dran[11](ettt03.htm#an_n_2:11)<span id="an_r_2:11"></span> (the
+Maji Lab Dran[11](ettt03.htm#an_n_2:11.md)<span id="an_r_2:11"></span> (the
 greatest woman philosopher of Tibet) in her previous life was the Indian
 scholar Rin-Chin-Drab who subdued and converted many heretic
 philosophers of India. Among them there was a scholar who became very
@@ -356,7 +356,7 @@ he became a plague-spreading gnome, the one who appeared in the form of
 life-and-vow-destroyer. He appeared both in the East and in the West. He
 spread all kinds of disease and made people insane and mentally
 disturbed. Furthermore, the King Demon Pehar then gathered all the
-breath of the oath-breakers[12](ettt03.htm#an_n_2:12)<span
+breath of the oath-breakers[12](ettt03.htm#an_n_2:12.md)<span
 id="an_r_2:12"></span> and made them his retinues, filling many
 countries like husks scattered by the wind pervading a whole valley.
 
@@ -369,14 +369,14 @@ insane; most of the people will cut short their own lives *
 
 *by themselves (suicide); and at that time China will become a dark
 land. Powerful men and wealth will follow the steps of the evil spirits
-and their three cousins*[13](ettt03.htm#an_n_2:13)<span
+and their three cousins*[13](ettt03.htm#an_n_2:13.md)<span
 id="an_r_2:13"></span>*; all Tibet will be broken into small pieces. At
 that time, here in the Snow Country, the life and breath of the lamas,
 the officials, the teachers, the kings, the high officers, and those who
 follow the Buddhist teachings will be taken away (and persecuted). All
 the good teachers and virtuous persons will be cut in the middle by the
 evil demons. People will suffer
-excessively*[14](ettt03.htm#an_n_2:14)<span id="an_r_2:14"></span>.
+excessively*[14](ettt03.htm#an_n_2:14.md)<span id="an_r_2:14"></span>.
 
 Thinking of benefitting the world \[later on\] at this miserable time,
 on the evening of the fifth lunar day—a significant date—in the year of
@@ -386,7 +386,7 @@ thirteen years old, and imparted to him this initiation and teaching.
 Therefore this teaching is a very near one (to the original source), and
 has great power and blessing. If one attains this initiation and
 practices it many times, he may certainly cure the illness of
-Life-Prana[15](ettt03.htm#an_n_2:15)<span id="an_r_2:15"></span> and the
+Life-Prana[15](ettt03.htm#an_n_2:15.md)<span id="an_r_2:15"></span> and the
 pain of fainting.
 
 To attain this initiation, you disciples should now follow me in
@@ -443,7 +443,7 @@ Now, follow me in reciting this prayer;
 
 In you, I take refuge.
 
-In you [I](errata.htm#5) find shelter.
+In you [I](errata.htm#5.md) find shelter.
 
 In the endless and miserable Saṃsara Ocean
 
@@ -455,7 +455,7 @@ I look forward to you—to ferry me to the safe shore!
 
 Now, you disciples should think that nothing any more exists; there is
 only a vast void. Suddenly from this great voidness you become the
-Fierce Guru [with](errata.htm#6) Phurba, four faces all looking in one
+Fierce Guru [with](errata.htm#6.md) Phurba, four faces all looking in one
 direction, for this is the manner of conquering and subduing all devils
 and demons. His first hand holds the thunderbolt with knife; the other
 hand holds the scorpion. The lower hand holds the symbolic staff,
@@ -487,7 +487,7 @@ The Guru then puts the rdo-rje on the head of the disciple and says:
 
 "*Di Char Ba-tsa!*" (Thus the Initiation of Vases is given.)
 
-"*Hūṃ!* This is the Heaven-Made[16](ettt03.htm#an_n_2:16)<span
+"*Hūṃ!* This is the Heaven-Made[16](ettt03.htm#an_n_2:16.md)<span
 id="an_r_2:16"></span> Phurba,  
  The powerful and inconceivable one!  
  This is the illumination of the Fierce Guru,  
@@ -584,7 +584,7 @@ I pray, grant your grace and blessing to my disciples.
 Please at this very moment cure my disciples’ Sickness-of-Life-Prana.
 
 Please cure their insanity, psychosis, mania, faintness,
-depression[17](ettt03.htm#an_n_2:17)<span id="an_r_2:17"></span>—
+depression[17](ettt03.htm#an_n_2:17.md)<span id="an_r_2:17"></span>—
 
 In short, please cure all their mental diseases, if any at this very
 moment.
@@ -641,7 +641,7 @@ cure. Usually, reciting the Mantra for one or two rotations of the
 rosary \[the Tibetan rosary of 108 beads. *Ed*.\] will be quite
 sufficient to cure him. It is a rare case that a few recitations of
 Mantra cannot help… Occasionally, when the spittle comes
-up[18](ettt03.htm#an_n_2:18)<span id="an_r_2:18"></span>, the Yogi
+up[18](ettt03.htm#an_n_2:18.md)<span id="an_r_2:18"></span>, the Yogi
 should carefully observe whether the patient has also been affected by
 the Mantra. In case a great many Mantras have been practiced, but
 without help, the Yogi should then practice the Visualization with
@@ -669,7 +669,7 @@ but also explanations. This ritual was written and arranged by the monk
 named Brtson-agrus, the Diligent One. If I have ever committed the sin
 of expressing too obviously and clearly the esoteric teachings which are
 supposed to be kept secret, I beg forgiveness from the Shelter
-Berha[19](ettt03.htm#an_n_2:19)<span id="an_r_2:19"></span>, the
+Berha[19](ettt03.htm#an_n_2:19.md)<span id="an_r_2:19"></span>, the
 Protector and his retinues. If any merits have accrued to me through
 writing down this ritual, I dedicate them to all the demon-afflicted
 sentient beings to pacify them and calm their disturbed minds. I also
@@ -681,17 +681,17 @@ Good wishes to all.
 
 ##### NOTES
 
-[1](ettt03.htm#an_r_2:1)<span id="an_n_2:1"></span>. Padmasambhava,
+[1](ettt03.htm#an_r_2:1.md)<span id="an_n_2:1"></span>. Padmasambhava,
 wishing to combat the demonic evils and mental diseases of this dark
 time, extended his manifestation as the Fierce Guru into that of Fierce
 Guru with Phurba (dagger) \[actually a ritual dagger of triangular
 pyramidal blade *Ed*.\] for this purpose. This initiation is a
 sub-initiation of the Fierce Guru.
 
-[2](ettt03.htm#an_r_2:2)<span id="an_n_2:2"></span>. The Golden Mountain
+[2](ettt03.htm#an_r_2:2.md)<span id="an_n_2:2"></span>. The Golden Mountain
 is a name for the Pure Land of Padmasambhava.
 
-[3](ettt03.htm#an_r_2:3)<span id="an_n_2:3"></span>. According to
+[3](ettt03.htm#an_r_2:3.md)<span id="an_n_2:3"></span>. According to
 Buddhist tradition, there are various ways to subdue evils. The highest
 teaching, however, urges the disciple to look upon all untoward
 manifestations and obstacles as themselves representing an aspect of
@@ -699,11 +699,11 @@ Buddha—in this case, of the Fierce Guru. The yogi, seeing frightful
 visions or hearing demonic voices, should identify them as a
 manifestation of the Fierce Guru.
 
-[4](ettt03.htm#an_r_2:4)<span id="an_n_2:4"></span>. *A*o-rgyng is
+[4](ettt03.htm#an_r_2:4.md)<span id="an_n_2:4"></span>. *A*o-rgyng is
 another name for the Pure Land of Padmasambhava. Padmasambhava is called
 Ao-rgyng Rimpoche, meaning "the Precious One of *A*o-rgyng".
 
-[5](ettt03.htm#an_r_2:5)<span id="an_n_2:5"></span>. The Nine Vehicles
+[5](ettt03.htm#an_r_2:5.md)<span id="an_n_2:5"></span>. The Nine Vehicles
 are (1) the Vehicle of Hearing (Sravaka); (2) the Vehicle of Self-Buddha
 (Pratyeka-Buddha); (3) the Vehicle of Bodhisattva; (4) the Vehicle of
 the Tantra of Affairs; (5) the Vehicle of the Yoga Tantra; (7) the
@@ -717,13 +717,13 @@ which is practiced in Tibet; while the lower division of Tantra,
 Tang-Mig (the esotericism of the Tang Dynasty), is practiced in China
 and Japan.
 
-[6](ettt03.htm#an_r_2:6)<span id="an_n_2:6"></span>. The Fierce and
+[6](ettt03.htm#an_r_2:6.md)<span id="an_n_2:6"></span>. The Fierce and
 Peaceful Buddhas are both the manifestations of the Dharmakaya.
 
-[7](ettt03.htm#an_r_2:7)<span id="an_n_2:7"></span>. Yidam is the patron
+[7](ettt03.htm#an_r_2:7.md)<span id="an_n_2:7"></span>. Yidam is the patron
 Buddha one relics on.
 
-[8](ettt03.htm#an_r_2:8)<span id="an_n_2:8"></span>. Unfavorable
+[8](ettt03.htm#an_r_2:8.md)<span id="an_n_2:8"></span>. Unfavorable
 circumstances for practicing Dharma will usually cause the disciples to
 regress. Therefore it is their wish
 
@@ -732,50 +732,50 @@ regress. Therefore it is their wish
 to be born in a land of favorable circumstances for their practice, so
 that regression cannot occur.
 
-[9](ettt03.htm#an_r_2:9)<span id="an_n_2:9"></span>. The Ao-rgyng Yabyum
+[9](ettt03.htm#an_r_2:9.md)<span id="an_n_2:9"></span>. The Ao-rgyng Yabyum
 is the Father-Mother Buddha in the Pure Land of Ao-rgyng.
 
-[10](ettt03.htm#an_r_2:10)<span id="an_n_2:10"></span>. Tibetans believe
+[10](ettt03.htm#an_r_2:10.md)<span id="an_n_2:10"></span>. Tibetans believe
 that certain mental illnesses are caused by the demons and spirits of
 the eight planets.
 
-[11](ettt03.htm#an_r_2:11)<span id="an_n_2:11"></span>. Maji Lab Dran
+[11](ettt03.htm#an_r_2:11.md)<span id="an_n_2:11"></span>. Maji Lab Dran
 formed her own school, which still prevails in a part of Tibet. She was
 Tibet's greatest woman philosopher and yogi.
 
-[12](ettt03.htm#an_r_2:12)<span id="an_n_2:12"></span>. Oath-breakers
+[12](ettt03.htm#an_r_2:12.md)<span id="an_n_2:12"></span>. Oath-breakers
 are disciples who violate the Tantric precepts.
 
-[13](ettt03.htm#an_r_2:13)<span id="an_n_2:13"></span>. This is the
+[13](ettt03.htm#an_r_2:13.md)<span id="an_n_2:13"></span>. This is the
 translation of the prophecy, which is quite clear except for the meaning
 of the phrase "three evil spirits and their cousins."
 
-[14](ettt03.htm#an_r_2:14)<span id="an_n_2:14"></span>. Tibetan text:
+[14](ettt03.htm#an_r_2:14.md)<span id="an_n_2:14"></span>. Tibetan text:
 *Bde Sdug-ahi Bya Wa Spyod Bai Dus*. Although literally *Bde* means
 happiness and *Sdug* means suffering, this seems to be an idiomatic
 expression denoting "the coming into being of the sufferings," or "great
 changes and sufferings will come to pass."
 
-[15](ettt03.htm#an_r_2:15)<span id="an_n_2:15"></span>. According to
+[15](ettt03.htm#an_r_2:15.md)<span id="an_n_2:15"></span>. According to
 Tantrism, most mental disturbances are caused by irregular or abnormal
 activity of the Life Prana that usually functions in the central nervous
 system.
 
-[16](ettt03.htm#an_r_2:16)<span id="an_n_2:16"></span>. See previous
+[16](ettt03.htm#an_r_2:16.md)<span id="an_n_2:16"></span>. See previous
 note on the thunderbolt (Note 30, Chapter I).
 
-[17](ettt03.htm#an_r_2:17)<span id="an_n_2:17"></span>. The Tibetan word
+[17](ettt03.htm#an_r_2:17.md)<span id="an_n_2:17"></span>. The Tibetan word
 for insanity is *smyo-wa;* for neurosis \[so changed from the
 translator's "psychosis". *Ed*.\], a*bog;* for mania, *srog-rbin-nad;*
 for faintness, *brgyl-nad;* for depression, a*tibs*.
 
-[18](ettt03.htm#an_r_2:18)<span id="an_n_2:18"></span>. The meaning of
+[18](ettt03.htm#an_r_2:18.md)<span id="an_n_2:18"></span>. The meaning of
 this statement is not obvious from the text; it may have a hidden
 meaning. The translator presumes that, when the incantation is
 effective, the yogi as well as the patient will feel the spittle rise
 into his mouth.
 
-[19](ettt03.htm#an_r_2:19)<span id="an_n_2:19"></span>. Shelter Berha
+[19](ettt03.htm#an_r_2:19.md)<span id="an_n_2:19"></span>. Shelter Berha
 (*Mgong-b’o Berha*) is the Protector of the Old School.
 
 <div class="filenav">
@@ -783,6 +783,6 @@ into his mouth.
 ------------------------------------------------------------------------
 
 [Next: Chapter Three: The Initiation Ritual of the All-Merciful
-One](ettt04)
+One](ettt04.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi020)  [Next](mtsi022) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi020)  [Next](mtsi022.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [Southeast](../index)  [Index](index) 
 
 A number of men went a long distance into the country and encamped.
 While they were hunting about some of them discovered an hatcūkliba (a
-monster lizard). <span id="fr_6"></span>[1](#fn_6) One of them said, "I
+monster lizard). <span id="fr_6"></span>[1](#fn_6.md) One of them said, "I
 am going to have a race with him." He relied upon a very potent "word"
 which he had. So he tied some white buckskin strings about his legs just
 below the knee, placed a white feather on his head, and put on a white
@@ -42,9 +42,9 @@ for home.
 
 ### Footnotes
 
-<span id="fn_6"></span>[26:1](mtsi021.htm#fr_6) This is now the name for
+<span id="fn_6"></span>[26:1](mtsi021.htm#fr_6.md) This is now the name for
 the green lizard.
 
 ------------------------------------------------------------------------
 
-[Next: 20. The Hunter, the Monster Lizard, and the Panther](mtsi022)
+[Next: 20. The Hunter, the Monster Lizard, and the Panther](mtsi022.md)

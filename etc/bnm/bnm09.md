@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm08)  [Next](bnm10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm08)  [Next](bnm10.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ black as their ears.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Magpie's Nest Is Not Well Built.](bnm10)
+[Next: Why The Magpie's Nest Is Not Well Built.](bnm10.md)

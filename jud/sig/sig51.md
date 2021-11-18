@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](sig50)  [Next](sig52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](sig50)  [Next](sig52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0827600607/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0827600607/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ And I shall be wholly joyful.
 
 ------------------------------------------------------------------------
 
-[Next: 49. The Love of God](sig52)
+[Next: 49. The Love of God](sig52.md)

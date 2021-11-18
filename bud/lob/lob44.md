@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lob43)  [Next](lob45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lob43)  [Next](lob45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00292BROK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00292BROK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Buddha*, by A. Ferdinand Herold, tr. by Paul C Blum
 \[1922\], at Intangible Textual Heritage
 
@@ -147,4 +147,4 @@ being whom I have created in mine own image."
 
 ------------------------------------------------------------------------
 
-[Next: 3. Suprabha](lob45)
+[Next: 3. Suprabha](lob45.md)

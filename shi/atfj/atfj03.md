@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj02)  [Next](atfj04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj02)  [Next](atfj04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_02"></span> <span align="CENTER"> [![2. The Spirit of O Ko
 appears to Konojo as O Kei San](tn/02.jpg)  
-Click to enlarge](img/02.jpg)  
+Click to enlarge](img/02.jpg.md)  
 2. The Spirit of O Ko appears to Konojo as O Kei San  
 </span>
 
@@ -26,7 +26,7 @@ Click to enlarge](img/02.jpg)
 
 ### I
 
-### THE GOLDEN HAIRPIN <span id="fr_0"></span>[1](#fn_0)
+### THE GOLDEN HAIRPIN <span id="fr_0"></span>[1](#fn_0.md)
 
 UP in the northern city of Sendai, whence come the best of Japanese
 soldiers, there lived a samurai named Hasunuma.
@@ -81,7 +81,7 @@ to the grief of all who knew her and to her family's serious distress.
 
 On the day of O Ko San's funeral her mother was seeing to the last
 attentions paid to corpses, and smoothing her hair with the golden pin
-given to Ko San or O Ko <span id="fr_1"></span>[1](#fn_1) by Saito in
+given to Ko San or O Ko <span id="fr_1"></span>[1](#fn_1.md) by Saito in
 behalf of his son Kônojô. When the body had been placed in its coffin,
 the mother thrust the pin into the girl's hair, saying:
 
@@ -125,7 +125,7 @@ faithful, and honest to your father's pledge. But you should have
 written—you should have written! Because you did not do so, sometimes we
 thought, my wife and I, that you must be dead; but we kept this thought
 to ourselves, and never told Ko San. Go to our Butsudan; <span
-id="fr_2"></span>[1](#fn_2) open the doors of it, and burn a joss stick
+id="fr_2"></span>[1](#fn_2.md) open the doors of it, and burn a joss stick
 to Ko San's mortuary tablet. It will please her spirit. She longed and
 longed for your return, and died of that sane longing—for love of you.
 Her spirit will rejoice to know that you have come back for her.'
@@ -166,7 +166,7 @@ when he heard a knock at the door. 'Who is there?' he shouted. 'What do
 you want?' There came no answer, and Kônojô lay down on his bed,
 thinking himself to have been mistaken. But there came another knock,
 louder than the first; and Kônojô jumped out of bed, and lit the
-ando. <span id="fr_3"></span>[1](#fn_3) 'If not a fox or a badger,'
+ando. <span id="fr_3"></span>[1](#fn_3.md) 'If not a fox or a badger,'
 
 <span id="page_6">p. 6</span>
 
@@ -283,7 +283,7 @@ angry, drew the golden pin from his clothes, saying:
 'See! if you doubt me and think I am lying, here is the pin which O Kei
 told me to give you!'
 
-'Bik-ku-ri-shi-ta-!' <span id="fr_4"></span>[1](#fn_4) exclaimed O Kei's
+'Bik-ku-ri-shi-ta-!' <span id="fr_4"></span>[1](#fn_4.md) exclaimed O Kei's
 mother. 'How came this pin into your hands? I myself put it into Ko
 San's coffin just before it was closed.'
 
@@ -361,7 +361,7 @@ used to go and worship.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](atfj03.htm#fr_0) This story savours of
+<span id="fn_0"></span>[1:1](atfj03.htm#fr_0.md) This story savours of
 'Botan Dôrô,' or Peony Lantern story, told both by Mitford and by
 Lafcadio Hearn. In this instance, however, the spirit of the dead sister
 passes into the body of the living one, assumes her form, leaves her
@@ -369,20 +369,20 @@ sick and ill for over a year, and then allows her to reappear as if she
 had never been ill at all. It is the first story of its kind I have
 heard.
 
-<span id="fn_1"></span>[3:1](atfj03.htm#fr_1) 'O' means Honourable Miss;
+<span id="fn_1"></span>[3:1](atfj03.htm#fr_1.md) 'O' means Honourable Miss;
 'San' means Miss. Either will do; but *Ko* is the name.
 
-<span id="fn_2"></span>[4:1](atfj03.htm#fr_2) Family shrine.
+<span id="fn_2"></span>[4:1](atfj03.htm#fr_2.md) Family shrine.
 
-<span id="fn_3"></span>[5:1](atfj03.htm#fr_3) Lamp.
+<span id="fn_3"></span>[5:1](atfj03.htm#fr_3.md) Lamp.
 
-<span id="fn_4"></span>[9:1](atfj03.htm#fr_4) An exclamation, such as
+<span id="fn_4"></span>[9:1](atfj03.htm#fr_4.md) An exclamation, such as
 'Great Scot!'
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: II. The Spirit Of The Willow Tree](atfj04)
+[Next: II. The Spirit Of The Willow Tree](atfj04.md)
 
 </div>

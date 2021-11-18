@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi154)  [Next](mtsi156) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi154)  [Next](mtsi156.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ killed.
 
 ------------------------------------------------------------------------
 
-[Next: 20. The Men Who Went to the Sky](mtsi156)
+[Next: 20. The Men Who Went to the Sky](mtsi156.md)

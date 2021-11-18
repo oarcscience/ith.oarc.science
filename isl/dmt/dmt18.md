@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt17)  [Next](dmt19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt17)  [Next](dmt19.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ Cureton's Arabic text, p*. 4.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Prophet in a Tradition](dmt19)
+[Next: II. The Prophet in a Tradition](dmt19.md)

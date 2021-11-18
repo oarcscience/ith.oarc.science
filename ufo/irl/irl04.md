@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl03)  [Next](irl05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl03)  [Next](irl05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -37,7 +37,7 @@ released upon stimulus by male and female. The male spores grow in the
 female and vice versa, just as pollen between flowers. This cell pollen
 and the sensation of its growing presence is love. I could imagine the
 immense fecundity given this process by the strength of the Atlan race,
-whose growth and youth <span id="fr_15"></span>[16](#fn_15) never cease.
+whose growth and youth <span id="fr_15"></span>[16](#fn_15.md) never cease.
 
 <span id="page_28">p. 28</span>
 
@@ -174,7 +174,7 @@ I could not help breaking into the conversation.
 detrimental hypnosis in which the ego—or self-will—the self recognition
 of the mind centers confuses its self-originated impulses with the
 exterior-originated detrimental impulses to destroy. Such a condition is
-called dero, <span id="fr_16"></span>[17](#fn_16) or detrimental energy
+called dero, <span id="fr_16"></span>[17](#fn_16.md) or detrimental energy
 robotism. The thing is
 
 <span id="page_32">p. 32</span>
@@ -244,7 +244,7 @@ He turned to us with a peculiar look in his eyes.
 
 "Ill?" The exclaimed question burst from all of us. In Atlan this was
 startling. Illness is almost unheard of; a rarity
-[existent](errata.htm#3) only on the space frontiers where new varieties
+[existent](errata.htm#3.md) only on the space frontiers where new varieties
 of germs were sometimes troublesome.
 
 The news brought Arl close to me, her silky-furred tail trembling as
@@ -278,10 +278,10 @@ chorused their delighted approval, a delight that
 <span class="contnote">\[paragraph continues\]</span> Arl and I feigned
 too. All fell in with the project, the unspoken desire to flee the city
 strong in our breasts, our anticipation of being together among the
-trees, which [subterranean](errata.htm#4) dwellers seldom see, strong
+trees, which [subterranean](errata.htm#4.md) dwellers seldom see, strong
 too.
 
-I raced ahead with Arl, shouting [gaily](errata.htm#5), "Let me lead you
+I raced ahead with Arl, shouting [gaily](errata.htm#5.md), "Let me lead you
 to the elevators." There was meaning in my voice, and intent in my mind.
 I was not forgetting my promise to my friend, the control-man.
 
@@ -304,7 +304,7 @@ was no longer just tradition, but now had a meaning almost immense. What
 to do to avoid that damnable mechanical play of detrimental force from
 the mind of some unknown rodite, staring through the viewplates of his
 defective, detrimentally hypnotic mechanism, seeking to destroy the best
-first? <span id="fr_17"></span>[18](#fn_17) If they thought we were
+first? <span id="fr_17"></span>[18](#fn_17.md) If they thought we were
 escaping they would seek us out and snatch us back.
 
 <span id="page_36">p. 36</span>
@@ -335,7 +335,7 @@ spoken words.
 
 ### Footnotes
 
-<span id="fn_15"></span>[27:16](irl04.htm#fr_15) The Atlans, Mr. Shaver
+<span id="fn_15"></span>[27:16](irl04.htm#fr_15.md) The Atlans, Mr. Shaver
 reveals, were ever youthful, and never ceased growing. There was no such
 thing as "maturity" in the sense that growth stopped. Thus, an Atlan's
 age could be determined to a certain extent by his size. Many of them
@@ -355,7 +355,7 @@ he lost weight. Illness is the inability of the body to fully utilize
 the available exd, or is the result of an insufficient quantity of
 exd.—Ed.
 
-<span id="fn_16"></span>[31:17](irl04.htm#fr_16) Pressed for a more
+<span id="fn_16"></span>[31:17](irl04.htm#fr_16.md) Pressed for a more
 complete explanation, Mr. Shaver has defined "dero' for us:
 
 "Long ago it happened that certain (underground) cities were abandoned
@@ -401,7 +401,7 @@ animal.' Ray is also used to mean a soldier—one of those who handles
 beam weapons (note how the ancient meaning has come into our modern
 word)."—Ed.
 
-<span id="fn_17"></span>[35:18](irl04.htm#fr_17) Just as lightning
+<span id="fn_17"></span>[35:18](irl04.htm#fr_17.md) Just as lightning
 strikes the highest point, so does detrimental force seek the most
 active and the healthiest fruit first—they are most attractive. The
 detrimental is only a film over an integrative ion which is attracted
@@ -410,4 +410,4 @@ movements also—thus a dero strikes at the best first.—Ed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Escape Into Space](irl05)
+[Next: Chapter IV. Escape Into Space](irl05.md)

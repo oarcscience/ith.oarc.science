@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui07)  [Next](bui09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui07)  [Next](bui09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -66,14 +66,14 @@ continued its tradition
 
 <span id="page_98">p. 98</span>
 
-both of [symbolism](errata.htm#3) and of art. Returning to Rome after
+both of [symbolism](errata.htm#3.md) and of art. Returning to Rome after
 the death of Diocletian, we find them busy there under Constantine and
 Theodosius; and from remains recently brought to knowledge it is plain
 that their style of building at that time was very like that of the
 churches built at Hexham and York in England, and those of the Ravenna,
 also nearly contemporary. They may not have been actually called
 Free-masons as early as Leader Scott insists they were, <span
-id="fr_64"></span>[1](#fn_64) but they were free in fact, traveling far
+id="fr_64"></span>[1](#fn_64.md) but they were free in fact, traveling far
 and near where there was work to do, following the missionaries of the
 Church as far as England. When there was need for the name Free-masons,
 it was easily suggested by the fact that the cathedral-builders were
@@ -96,10 +96,10 @@ Moreover, its symbols were wrought into stone long before they were
 written on parchment, if indeed they were ever recorded at all. Efforts
 have been made to rob those old masters of their honor as the designers
 of the cathedrals, but it is in vain. <span
-id="fr_65"></span>[1](#fn_65) Their monuments are enduring and still
+id="fr_65"></span>[1](#fn_65.md) Their monuments are enduring and still
 tell the story of their genius and art. High upon the cathedrals they
 left cartoons in stone, of which Findel gives a list, <span
-id="fr_66"></span>[2](#fn_66) portraying with searching
+id="fr_66"></span>[2](#fn_66.md) portraying with searching
 
 <span id="page_100">p. 100</span>
 
@@ -118,7 +118,7 @@ religious ideas deemed heretical, sought seclusion; but the human mind
 was alive and active none the less, and a great secret Order like
 Masonry, enjoying the protection of the Church, yet independent of it,
 invited freedom of thought and faith. <span
-id="fr_67"></span>[1](#fn_67) The Masons, by the very nature of their
+id="fr_67"></span>[1](#fn_67.md) The Masons, by the very nature of their
 art, came into contact with all classes of men, and they had
 opportunities to know the defects
 
@@ -142,7 +142,7 @@ did the Church greatly influence the order; and not even then to the
 extent of diverting it from its original and unique mission. Other
 influences were at work betimes, such as the persecution of the Knights
 Templars and the tragic martyrdom of De Molai, making themselves
-felt, <span id="fr_68"></span>[1](#fn_68) and Masonry began to be
+felt, <span id="fr_68"></span>[1](#fn_68.md) and Masonry began to be
 suspected of harboring heresy. So tangled were the
 
 <span id="page_102">p. 102</span>
@@ -166,7 +166,7 @@ Order. Turning to these *Old Charges* 
 
 <span id="page_103">p. 103</span>
 
-and *Constitutions*, <span id="fr_69"></span>[1](#fn_69) as they are
+and *Constitutions*, <span id="fr_69"></span>[1](#fn_69.md) as they are
 called, we find a body of quaint and curious writing, both in poetry and
 prose, describing the Masonry of the late cathedral-building period,
 with glimpses at least of greater days of old. Of these, there are more
@@ -197,7 +197,7 @@ which he issued two editions bearing date of 1840 and 1844. Experts give
 it date back to 1390, that is to say, fifteen years after the first
 recorded use of the name *Free*-mason in the history of the Company of
 Masons of the City of London, in 1375. <span
-id="fr_70"></span>[1](#fn_70)
+id="fr_70"></span>[1](#fn_70.md)
 
 More poetical in spirit than in form, the old manuscript begins by
 telling of the number of unemployed in early days and the necessity of
@@ -265,7 +265,7 @@ we have, but it is either an effort to join two documents together, or
 else the first part must be regarded as a long preamble to the
 manuscript which forms the second part. For the two are quite unlike in
 method and style, the first being diffuse, with copious quotations and
-references to authorities, <span id="fr_71"></span>[1](#fn_71) while the
+references to authorities, <span id="fr_71"></span>[1](#fn_71.md) while the
 second is simple, direct, unadorned, and does not even allude to the
 Bible. Also, it is evident that the compiler, himself a Mason, is trying
 to harmonize two traditions as to the origin of the order, one tracing
@@ -279,7 +279,7 @@ of his own, though he did not manage his materials very successfully.
 
 <span id="page_108">p. 108</span>
 
-After his invocation, <span id="fr_72"></span>[1](#fn_72) the writer
+After his invocation, <span id="fr_72"></span>[1](#fn_72.md) the writer
 begins with a list of the Seven Sciences, giving quaint definitions of
 each, but in a different order from that recited in the *Regius Poem*;
 and he exalts Geometry above all the rest as "the first cause and
@@ -306,7 +306,7 @@ the Egyptians were compelled to invent it in order to restore the
 landmarks effaced by the inundations of the Nile; a tradition confirmed
 by modern research.
 
-[Proceeding](errata.htm#4), the compiler tells us that during their
+[Proceeding](errata.htm#4.md), the compiler tells us that during their
 sojourn in Egypt the Hebrews learned the art and secrets of Masonry,
 which they took with them to the promised land. Long years are rapidly
 sketched, and we come to the days of David, who is said to have loved
@@ -319,7 +319,7 @@ slightly from the customs now in use." While allusion is made to the
 master-artist of the temple, his name is not mentioned, *except in
 disguise*. Not one of the *Old Charges* of the order ever makes use of
 his name, but always employs some device whereby to conceal it. <span
-id="fr_73"></span>[1](#fn_73) Why so, when the
+id="fr_73"></span>[1](#fn_73.md) Why so, when the
 
 <span id="page_110">p. 110</span>
 
@@ -359,7 +359,7 @@ crudest form:
 Masonic emblems point to something real which existed in some long-past
 time, and, as regards the organization and nomenclature, we find the
 whole thing in its vital and actual working form in the Comacine
-Guild*. <span id="fr_74"></span>[1](#fn_74)</span>
+Guild*. <span id="fr_74"></span>[1](#fn_74.md)</span>
 
 </div>
 
@@ -437,7 +437,7 @@ the period with which the* OLD CHARGES *begin their* 
 
 <span id="page_114">p. 114</span>
 
-*story of English Masonry*. <span id="fr_75"></span>[1](#fn_75) Among
+*story of English Masonry*. <span id="fr_75"></span>[1](#fn_75.md) Among
 those sent by Gregory was Paulinus, and it is a curious fact that he is
 spoken of under the title of *Magister*, by which is meant, no doubt,
 that he was a member of the Comacine order, for they so described their
@@ -461,7 +461,7 @@ works of art between <span id="page_115">p. 115</span> A. D. 800 and
 1000, the greater and better part are due to that brotherhood—always
 faithful and often secret—of the *Magistri Comacini*. The authority and
 judgment of learned men justify the assertion. <span
-id="fr_76"></span>[1](#fn_76)</span>
+id="fr_76"></span>[1](#fn_76.md)</span>
 
 </div>
 
@@ -480,7 +480,7 @@ English writer, Hope, goes further and credits the Comacine order with
 being the cradle of the associations of Free-masons, who were, he adds,
 "the first after Roman times to enrich architecture with a complete and
 well-ordinated system, which dominated wherever the Latin Church
-extended its influence." <span id="fr_77"></span>[2](#fn_77) So
+extended its influence." <span id="fr_77"></span>[2](#fn_77.md) So
 
 <span id="page_116">p. 116</span>
 
@@ -501,7 +501,7 @@ of the craft. Despite these specific details, the story of Athelstan and
 St. Alban is hardly more than a legend, albeit dating at no very remote
 epoch, and well within the reasonable limits of tradition. Still, so
 many difficulties beset it that it has baffled the acutest critics, most
-of whom throw it aside. <span id="fr_78"></span>[1](#fn_78) That
+of whom throw it aside. <span id="fr_78"></span>[1](#fn_78.md) That
 
 <span id="page_117">p. 117</span>
 
@@ -537,7 +537,7 @@ time united or the same, though working almost side by side through
 several centuries. Free-masons existed in large numbers long before any
 city guild of Masons was formed, and even after the Guilds became
 powerful the two were entirely distinct. The Guilds, as Hallam
-says, <span id="fr_79"></span>[1](#fn_79) "were Fraternities by
+says, <span id="fr_79"></span>[1](#fn_79.md) "were Fraternities by
 voluntary compact, to relieve each other in poverty, and to protect each
 other from injury. Two essential
 
@@ -575,7 +575,7 @@ abbeys were commenced in every part of the country. Naturally the
 Free-masons were much in demand, and some of them received rich reward
 for their skill as architects—Robertus Cementarius, a Master Mason
 employed at St. Albans in 1077, receiving a grant of land and a house in
-the town. <span id="fr_80"></span>[1](#fn_80) In the reign of Henry II
+the town. <span id="fr_80"></span>[1](#fn_80.md) In the reign of Henry II
 no less than one hundred and fifty-seven religious buildings were
 founded in England, and it is at this period that we begin to see
 evidence of a new style of architecture—the Gothic. Most of the great
@@ -638,7 +638,7 @@ long War of the Roses, Freemasonry revived
 
 for a time, and regained much of its prestige, adding to its fame in the
 rebuilding of London after the fire, and in particular of St. Paul's
-Cathedral. <span id="fr_81"></span>[1](#fn_81)
+Cathedral. <span id="fr_81"></span>[1](#fn_81.md)
 
 When cathedral-building ceased, and the demand for highly skilled
 architects decreased, the order fell into decline, but never at any time
@@ -669,10 +669,10 @@ be known as "the revival of 1717."
 
 ### Footnotes
 
-<span id="fn_64"></span>[98:1](bui08.htm#fr_64) *The Cathedral
+<span id="fn_64"></span>[98:1](bui08.htm#fr_64.md) *The Cathedral
 Builders*, chap. i.
 
-<span id="fn_65"></span>[99:1](bui08.htm#fr_65) "The honor due to the
+<span id="fn_65"></span>[99:1](bui08.htm#fr_65.md) "The honor due to the
 original founders of these edifices is almost invariably transferred to
 the ecclesiastics under whose patronage they rose, rather than to the
 skill and design of the Master Mason, or professional architect, because
@@ -682,7 +682,7 @@ formed a part of monastic learning in a very limited degree."—James
 Dallaway, *Architecture in England*; and his words are the more weighty
 for that he is not a Mason.
 
-<span id="fn_66"></span>[99:2](bui08.htm#fr_66) *History of Masonry*. In
+<span id="fn_66"></span>[99:2](bui08.htm#fr_66.md) *History of Masonry*. In
 the St. Sebaldus Church, Nuremburg, is a carving in stone showing a nun
 in the embrace of a monk. In Strassburg a hog and a goat may be seen
 carrying a sleeping fox as a sacred relic, in advance a bear with a
@@ -697,7 +697,7 @@ and in the Minster at Berne the Pope is placed among those who are lost
 in perdition. These were bold strokes which even heretics hardly dared
 to indulge in.
 
-<span id="fn_67"></span>[100:1](bui08.htm#fr_67) *History of Masonry*,
+<span id="fn_67"></span>[100:1](bui08.htm#fr_67.md) *History of Masonry*,
 by Steinbrenner, chap. iv. There were, Indeed, many secret societies in
 the Middle Ages, such as the Catharists, Albigenses, Waldenses, and
 others, whose initiates and adherents traveled through all Europe,
@@ -706,7 +706,7 @@ but also among nobles, and even among the monks, abbots, and bishops.
 Occultists, Alchemists, Kabbalists, all wrought in secrecy, keeping
 their flame aglow under the crust of conformity.
 
-<span id="fn_68"></span>[101:1](bui08.htm#fr_68) *Realities of Masonry*,
+<span id="fn_68"></span>[101:1](bui08.htm#fr_68.md) *Realities of Masonry*,
 by Blake (chap. ii). While the theory of the descent of Masonry from the
 Order of the Temple is untenable, a connection between the two
 societies, in the sense in which <span id="page_102">p. 102</span> an
@@ -720,7 +720,7 @@ seems clear, but many of its members sought refuge under the Masonic
 apron (*History of Free-masonry and Concordant Orders*, by Hughan and
 Stillson).
 
-<span id="fn_69"></span>[103:1](bui08.htm#fr_69) Every elaborate History
+<span id="fn_69"></span>[103:1](bui08.htm#fr_69.md) Every elaborate History
 of Masonry—as, for example, that of Gould—reproduces these old documents
 in full or in digest, with exhaustive analyses of and commentaries upon
 them. Such a task obviously does not come within the scope of the
@@ -732,7 +732,7 @@ Sketches and Reprints*, by Hughan. No doubt these *Old Charges* are
 familiar, or should be familiar, to every intelligent member of the
 order, as a man knows the deeds of his estate.
 
-<span id="fn_70"></span>[104:1](bui08.htm#fr_70) *The Hole Craft and
+<span id="fn_70"></span>[104:1](bui08.htm#fr_70.md) *The Hole Craft and
 Fellowship of Masonry*, by Conder. Also exhaustive essays by Conder and
 Speth, *A. Q. C.*, ix, 29; x, 10. Too much, it seems to me, has been
 made of both the name and the date, since the fact was older than
@@ -740,14 +740,14 @@ either. Findel finds the name *Free*-mason as early as 1212, and Leader
 Scott goes still further back; but the fact may be traced back to the
 Roman Collegia.
 
-<span id="fn_71"></span>[107:1](bui08.htm#fr_71) He refers to Herodotus
+<span id="fn_71"></span>[107:1](bui08.htm#fr_71.md) He refers to Herodotus
 as the Master of History; quotes from the *Polychronicon*, written by a
 Benedictine monk who died in 1360; from *De Imagine Mundi*, Isodorus,
 and frequently from the Bible. Of more than ordinary learning for his
 day and station, he did not escape a certain air of pedantry in his use
 of authorities.
 
-<span id="fn_72"></span>[108:1](bui08.htm#fr_72) These invocations vary
+<span id="fn_72"></span>[108:1](bui08.htm#fr_72.md) These invocations vary
 in their phraseology, some bearing more visibly than others the mark of
 the Church. Toulmin Smith, in his English Guilds, notes the fact that
 the form of the invocations of the Masons "differs strikingly from that
@@ -756,7 +756,7 @@ Almighty would seem to have been forgotten." But Masons never forgot the
 corner-stone upon which their order and its teachings rest; not for a
 day.
 
-<span id="fn_73"></span>[109:1](bui08.htm#fr_73) Such names as Aynone,
+<span id="fn_73"></span>[109:1](bui08.htm#fr_73.md) Such names as Aynone,
 Aymon, Ajuon, Dynon, Amon, Anon, Annon, and Benaim are used,
 deliberately, it would seem, and of <span id="page_110">p. 110</span>
 set design. The *Inigo Jones MS* uses the Bible name, but, though dated
@@ -764,10 +764,10 @@ set design. The *Inigo Jones MS* uses the Bible name, but, though dated
 appendix. Also *Bulletin* of Supreme Council S. J., U. S. (vii, 200),
 that the Strassburg builders pictured the legend in stone.
 
-<span id="fn_74"></span>[111:1](bui08.htm#fr_74) *The Cathedral
+<span id="fn_74"></span>[111:1](bui08.htm#fr_74.md) *The Cathedral
 Builders*, bk. i, chap. i.
 
-<span id="fn_75"></span>[114:1](bui08.htm#fr_75) See the account of "The
+<span id="fn_75"></span>[114:1](bui08.htm#fr_75.md) See the account of "The
 Origin of Saxon Architecture," in the *Cathedral Builders* (bk. ii,
 chap. iii), written by Dr. W. M. Barnes in England independently of the
 author who was living in Italy; and it is significant that the facts led
@@ -775,13 +775,13 @@ both of them to the same conclusions. They show quite unmistakably that
 the Comacine builders were in England as early as 600 A. D., both by
 documents and by a comparative study of styles of architecture.
 
-<span id="fn_76"></span>[115:1](bui08.htm#fr_76) *Maestri Comacini*,
+<span id="fn_76"></span>[115:1](bui08.htm#fr_76.md) *Maestri Comacini*,
 vol. i, chap. ii.
 
-<span id="fn_77"></span>[115:2](bui08.htm#fr_77) *Story of
+<span id="fn_77"></span>[115:2](bui08.htm#fr_77.md) *Story of
 Architecture*, chap. xxii.
 
-<span id="fn_78"></span>[116:1](bui08.htm#fr_78) Gould, in his *History
+<span id="fn_78"></span>[116:1](bui08.htm#fr_78.md) Gould, in his *History
 of Masonry* (i, 31, 65), rejects the legend as having not the least
 foundation in fact, as indeed, he rejects almost everything that cannot
 prove itself in a court of law. For the other side see a "Critical
@@ -796,7 +796,7 @@ articles, pro and con, by Begemann and Speth, entitled "The Assembly"
 accepted the York assembly as a fact established (*American Quarterly
 Review of Freemasonry*, vol. i, 546; ii, 245).
 
-<span id="fn_79"></span>[118:1](bui08.htm#fr_79) *History of the English
+<span id="fn_79"></span>[118:1](bui08.htm#fr_79.md) *History of the English
 Constitution*. Of course the Guild was indigenous to almost every age
 and land, from China to ancient Rome (*The Guilds of China*, by H. B.
 Morse), and they survive in the trade and labor unions of our day. The
@@ -813,12 +813,12 @@ Krause and Findel are equally at fault in insisting that they were
 Free-masons. (See essay by Speth, *A. Q. C.*, i, 17, and *History of
 Masonry*, by Steinbrenner, chap. iv.)
 
-<span id="fn_80"></span>[120:1](bui08.htm#fr_80) *Notes on the
+<span id="fn_80"></span>[120:1](bui08.htm#fr_80.md) *Notes on the
 Superintendents of English Buildings in the Middle Ages*, by Wyatt
-Papworth. [Cementarius](errata.htm#5) is also mentioned in connection
+Papworth. [Cementarius](errata.htm#5.md) is also mentioned in connection
 with the Salisbury Cathedral, again in his capacity as a Master Mason.
 
-<span id="fn_81"></span>[123:1](bui08.htm#fr_81) Hearing that the Masons
+<span id="fn_81"></span>[123:1](bui08.htm#fr_81.md) Hearing that the Masons
 had certain secrets that could not be revealed to her (for that she
 could not be Grand Master) Queen Elizabeth sent an armed force to break
 up their annual Grand Lodge at York, on St. John's Day, December 27,
@@ -831,4 +831,4 @@ of Church or State" (*Book of Constitutions*, by Anderson).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Fellowcrafts](bui09)
+[Next: Chapter II. Fellowcrafts](bui09.md)

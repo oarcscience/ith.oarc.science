@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip05)  [Next](fip07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip05)  [Next](fip07.md) 
 
 ------------------------------------------------------------------------
 
@@ -164,4 +164,4 @@ him in such a manner.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Well Of Lagnanay, By Samuel Ferguson](fip07)
+[Next: The Fairy Well Of Lagnanay, By Samuel Ferguson](fip07.md)

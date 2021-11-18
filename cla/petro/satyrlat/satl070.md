@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat11.htm#LXX)  [Previous](satl069) 
-[Next](satl071) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat11.htm#LXX)  [Previous](satl069.md) 
+[Next](satl071.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ circensibus primam palmam".
 
 ------------------------------------------------------------------------
 
-[Next: LXXI](satl071)
+[Next: LXXI](satl071.md)

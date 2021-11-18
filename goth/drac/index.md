@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B549MW/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B549MW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B549MW/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](drac00)    [Text
-\[Zipped\]](drac.txt.gz)
+[Contents](#contents)    [Start Reading](drac00.md)    [Text
+\[Zipped\]](drac.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -45,31 +45,31 @@ quite a bit of blood in his day.--J.B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](drac00)  
-[Chapter 1](drac01)  
-[Chapter 2](drac02)  
-[Chapter 3](drac03)  
-[Chapter 4](drac04)  
-[Chapter 5](drac05)  
-[Chapter 6](drac06)  
-[Chapter 7](drac07)  
-[Chapter 8](drac08)  
-[Chapter 9](drac09)  
-[Chapter 10](drac10)  
-[Chapter 11](drac11)  
-[Chapter 12](drac12)  
-[Chapter 13](drac13)  
-[Chapter 14](drac14)  
-[Chapter 15](drac15)  
-[Chapter 16](drac16)  
-[Chapter 17](drac17)  
-[Chapter 18](drac18)  
-[Chapter 19](drac19)  
-[Chapter 20](drac20)  
-[Chapter 21](drac21)  
-[Chapter 22](drac22)  
-[Chapter 23](drac23)  
-[Chapter 24](drac24)  
-[Chapter 25](drac25)  
-[Chapter 26](drac26)  
-[Chapter 27](drac27)  
+<span id="contents"></span> [Title Page](drac00.md)  
+[Chapter 1](drac01.md)  
+[Chapter 2](drac02.md)  
+[Chapter 3](drac03.md)  
+[Chapter 4](drac04.md)  
+[Chapter 5](drac05.md)  
+[Chapter 6](drac06.md)  
+[Chapter 7](drac07.md)  
+[Chapter 8](drac08.md)  
+[Chapter 9](drac09.md)  
+[Chapter 10](drac10.md)  
+[Chapter 11](drac11.md)  
+[Chapter 12](drac12.md)  
+[Chapter 13](drac13.md)  
+[Chapter 14](drac14.md)  
+[Chapter 15](drac15.md)  
+[Chapter 16](drac16.md)  
+[Chapter 17](drac17.md)  
+[Chapter 18](drac18.md)  
+[Chapter 19](drac19.md)  
+[Chapter 20](drac20.md)  
+[Chapter 21](drac21.md)  
+[Chapter 22](drac22.md)  
+[Chapter 23](drac23.md)  
+[Chapter 24](drac24.md)  
+[Chapter 25](drac25.md)  
+[Chapter 26](drac26.md)  
+[Chapter 27](drac27.md)  

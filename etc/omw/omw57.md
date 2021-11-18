@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw56)  [Next](omw58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw56)  [Next](omw58.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ Aesir on the day of the great battle.
 
 ------------------------------------------------------------------------
 
-[Next: Mimir](omw58)
+[Next: Mimir](omw58.md)

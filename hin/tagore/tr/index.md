@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[Tagore](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[Tagore](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,6 +12,6 @@
 
 ------------------------------------------------------------------------
 
-[By Rabindranath Tagore](tr00)  
-[Title Page](tr01)  
-[Thought Relics](tr02)  
+[By Rabindranath Tagore](tr00.md)  
+[Title Page](tr01.md)  
+[Thought Relics](tr02.md)  

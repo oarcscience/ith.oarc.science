@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu03)  [Next](cbu05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu03)  [Next](cbu05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -535,4 +535,4 @@ ALPHABETICAL INDEX OF TITLES OF BOOKS MENTIONED,</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](cbu05)
+[Next: Introduction](cbu05.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf86)  [Next](sbf88) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf86)  [Next](sbf88.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -91,6 +91,6 @@ took hold of her; and she would not listen to the people, and refused.
 
 ------------------------------------------------------------------------
 
-[Next: To Beat The Ground (With A Stone).](sbf88)
+[Next: To Beat The Ground (With A Stone).](sbf88.md)
 
 </div>

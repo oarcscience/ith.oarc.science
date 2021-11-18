@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc01)  [Next](bosc03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc01)  [Next](bosc03.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ that I was unable to penetrate their meaning.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Of What Race of People Are These Indians?](bosc03)
+[Next: Chapter I. Of What Race of People Are These Indians?](bosc03.md)

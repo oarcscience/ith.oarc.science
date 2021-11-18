@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat49)  [Next](jat51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat49)  [Next](jat51.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ nature I live among the trees. I sleep well in my house."
 
 ------------------------------------------------------------------------
 
-[Next: 49. Flicker Describes Himself](jat51)
+[Next: 49. Flicker Describes Himself](jat51.md)

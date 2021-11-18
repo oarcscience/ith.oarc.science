@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar042) [Next](gbar044)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar042) [Next](gbar044.md)
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ the promise was made in Ishmael, not in Isaac.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar044)
+[Next](gbar044.md)

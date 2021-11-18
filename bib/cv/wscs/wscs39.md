@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs38) 
-[Next](wscs40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs38.md) 
+[Next](wscs40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -415,7 +415,7 @@ who came "to draw all men unto him." And it should also be noted here
 that none of Christ's famous biographers, Matthew, Mark, Luke, or John,
 are honored with a notice in history till one hundred and ninety years
 after the birth of Christ. And then the notice was by a Christian writer
-([Irenæus](errata.htm#10)).
+([Irenæus](errata.htm#10).md).
 
 "We look in vain," says a writer, "for any contemporary notice of the
 Gospels, or Christ the subject of the Gospels, outside of the New
@@ -439,7 +439,7 @@ informs us, no less
 
 <span id="page_325">p. 325</span>
 
-[than](errata.htm#11) one hundred and thirty-three different opinions
+[than](errata.htm#11.md) one hundred and thirty-three different opinions
 about the matter, the question assumes a still more serious aspect. From
 the logical potency of these facts we are driven to the conclusion that
 Christ received but little attention outside of the circle of his own
@@ -1123,7 +1123,7 @@ that while the prophet declares, "Neither shall the Arabian pitch tent
 there" (Isa. xiii. 22), Layard declares that is the very thing they did
 do while he was there. He says he saw a number of Arabian tents pitched
 on the ground; thus proving a failure of the prophecy *all round* in
-every particular. (See [note](wscs51.htm#note435b))
+every particular. (See [note](wscs51.htm#note435b).md)
 
 *Fourth*. The bible itself is a witness that truthful prophecy can do
 nothing toward authenticating a religion, or toward proving the prophet
@@ -1391,4 +1391,4 @@ an inch of ground for them to rest upon!
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXV: Logical or Common Sense View of the Doctrine of
-Divine Incarnation](wscs40)
+Divine Incarnation](wscs40.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb19)  [Next](olfb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb19)  [Next](olfb21.md) 
 
 </div>
 
@@ -164,6 +164,6 @@ are both happier and wiser than ever before.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Zoulvisia](olfb21)
+[Next: The Story of Zoulvisia](olfb21.md)
 
 </div>

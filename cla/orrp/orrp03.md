@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp02)  [Next](orrp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp02)  [Next](orrp04.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ invited him to Oxford to develop certain subjects which he had touched
 upon at Paris. In this volume have been collected the contents of both
 series with the addition of a short bibliography and notes intended for
 scholars desirous of verifying assertions made in the
-text. [0\_1](orrp13.htm#xref_0_1) The form of the work has scarcely been
+text. [0\_1](orrp13.htm#xref_0_1.md) The form of the work has scarcely been
 changed, but we trust that these pages, intended though they were for
 oral delivery, will bear reading, and that the title of these studies
 will not seem too ambitious for what they have to offer. The propagation
@@ -42,7 +42,7 @@ We have investigated only the internal development of paganism in the
 Latin world, and have considered its relation to Christianity only
 incidentally and by the way. The question is nevertheless important and
 has been the subject of celebrated lectures as well as of learned
-monographs and widely distributed manuals. [0\_2](orrp13.htm#xref_0_2)
+monographs and widely distributed manuals. [0\_2](orrp13.htm#xref_0_2.md)
 We wish to slight neither the interest nor the importance of that
 controversy, and it is not because it seemed negligible that we have not
 entered into it.
@@ -88,7 +88,7 @@ certain ceremonies and holidays of the church were based on pagan
 models. In the fourth century Christmas was placed on the 25th of
 December because on that date was celebrated the birth of the sun
 (*Natalis Invicti*) who was born to a new life each year after the
-solstice. [0\_3](orrp13.htm#xref_0_3) Certain vestiges of the religions
+solstice. [0\_3](orrp13.htm#xref_0_3.md) Certain vestiges of the religions
 of Isis and Cybele besides other polytheistic practices perpetuated
 themselves in the adoration of local saints. On the other hand as soon
 as Christianity became a moral power in
@@ -99,7 +99,7 @@ the world, it imposed itself even on its enemies. The Phrygian priests
 of the Great Mother openly opposed their celebration of the vernal
 equinox to the Christian Easter, and attributed to the blood shed in the
 taurobolium the redemptive power of the blood of the divine
-Lamb. [0\_4](orrp13.htm#xref_0_4)
+Lamb. [0\_4](orrp13.htm#xref_0_4.md)
 
 All these facts constitute a series of very delicate problems of
 chronology and interrelation, and it would be rash to attempt to solve
@@ -141,7 +141,7 @@ doubt they belonged to it before its appearance in the Occident.
 On the other hand, we find similar conceptions in Christianity. The
 society of the faithful--the term is still in use--is the "Church
 Militant." During the first centuries the comparison of the church with
-an army was carried out even in details; [0\_5](orrp13.htm#xref_0_5) the
+an army was carried out even in details; [0\_5](orrp13.htm#xref_0_5.md) the
 baptism of the neophyte was the oath of fidelity to the flag taken by
 the recruits. Christ was the "emperor," the commander-in-chief, of his
 disciples, who formed cohorts triumphing under his command over the
@@ -167,7 +167,7 @@ regarded as forming sacred cohorts enlisted in the service of the
 goddess, that previously in the Stoic philosophy human existence was
 frequently likened to a campaign, and that even the astrologers called
 the man who submitted to destiny and renounced all revolt a "soldier of
-fate." [0\_6](orrp13.htm#xref_0_6)
+fate." [0\_6](orrp13.htm#xref_0_6.md)
 
 This conception of life, especially of religious life, was therefore
 very popular from the beginning of our era. It was manifestly prior both
@@ -177,7 +177,7 @@ citizen defending his country, but in most instances a volunteer bound
 by a sacred vow to the person of his king. In the martial states that
 fought for the heritage of the Achemenides this personal devotion
 dominated or displaced all national feeling. We know the oaths taken by
-those subjects to their deified kings. [0\_7](orrp13.htm#xref_0_7) They
+those subjects to their deified kings. [0\_7](orrp13.htm#xref_0_7.md) They
 agreed to defend and uphold them even at the cost of their own lives,
 and always to have the same friends and the same enemies as they; they
 dedicated to them not only their actions and words, but their very
@@ -194,7 +194,7 @@ As we see, the researches into the doctrines or practices common to
 Christianity and the Oriental mysteries lead almost always beyond the
 limits of the Roman empire into the Hellenistic Orient. The religious
 conceptions which imposed themselves on Latin Europe under the
-Cæsars [0\_8](orrp13.htm#xref_0_8) were developed there, and it is there
+Cæsars [0\_8](orrp13.htm#xref_0_8.md) were developed there, and it is there
 we must look for the key to enigmas still unsolved. It is true that at
 present nothing is more obscure than the history of the religions that
 arose in Asia when Greek culture came in contact with barbarian
@@ -307,4 +307,4 @@ which until then was unknown in the ancient world.
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the Second Edition](orrp04)
+[Next: Preface to the Second Edition](orrp04.md)

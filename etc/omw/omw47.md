@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw46)  [Next](omw48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw46)  [Next](omw48.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ at his being made King of Ireland.
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Conaire Mór, the King of Ireland, Part II](omw48)
+[Next: The Death of Conaire Mór, the King of Ireland, Part II](omw48.md)

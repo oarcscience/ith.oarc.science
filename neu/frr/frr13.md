@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr12) 
-[Next](frr14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr12.md) 
+[Next](frr14.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Que teus hom en seroit maris
 Qui ne l'aroit mie fourfait*.  
 ................................................  
 *Car, se Maistre Blihis ne ment  
-Nus ne doit dire le secré* <span id="fr_207"></span>[1](#fn_207)."
+Nus ne doit dire le secré* <span id="fr_207"></span>[1](#fn_207.md)."
 
 "*Mais la mervelle qu'il trova  
 Dont maintes fois s'espoenta  
@@ -40,7 +40,7 @@ Cil ki le dist en a grant ire
 Car c'est li signes del Graal* (other texts *secrés*)  
 *S'en puet avoir et paine et mal* (*Li fet grant pechié et grant mal*)  
 *Cil qui s'entremet del conter  
-Fors ensi com it doit aler* <span id="fr_208"></span>[2](#fn_208)."
+Fors ensi com it doit aler* <span id="fr_208"></span>[2](#fn_208.md)."
 
  
 
@@ -73,7 +73,7 @@ Et la mervelle raconter,
 Que nus hom nel poroit oïr  
 Que il ne l'estuece fremir  
 Trambler et remuer color,  
-Et empalir de la paour* <span id="fr_209"></span>[1](#fn_209).'"
+Et empalir de la paour* <span id="fr_209"></span>[1](#fn_209.md).'"
 
 From this evidence there is no doubt that to the romance writers the
 Grail was something secret, mysterious and awful, the exact knowledge of
@@ -142,7 +142,7 @@ radical, differences between the Greek and the Christian religious
 conceptions which, affecting as they do the root conceptions of the two
 groups, render it quite impossible that any form of the Eleusinian
 Mystery cult could have given such results as we find in the Grail
-legend <span id="fr_210"></span>[1](#fn_210).
+legend <span id="fr_210"></span>[1](#fn_210.md).
 
 Cumont in his *Les Religions Orientales dans le Paganisme Romain*,
 speaking of the influence of the Mysteries upon Christianity, remarks
@@ -150,7 +150,7 @@ acutely, "Or, lorsqu'on parle de mystères on doit songer à l'Asie
 hellénisée, bien plus qu'à la Grèce propre, malgré tout le prestige qui
 entourait Eleusis, car d'abord les premières communautés Chrétiennes se
 font fondées, formées, développées, au milieu de populations Orientales,
-Sémites, Phrygiens, Egyptiens <span id="fr_211"></span>[2](#fn_211)."
+Sémites, Phrygiens, Egyptiens <span id="fr_211"></span>[2](#fn_211.md)."
 
 <span id="page_134">p. 134</span>
 
@@ -176,7 +176,7 @@ Götter-Geschlecht*--ἓν ἀνδρῶν, ἓν θεῶν γένος." The atta
 with the god, by way of ecstasy, as in other Mystery cults, is foreign
 to the Eleusinian idea. As Cumont puts it "The Greco-Roman deities
 rejoice in the perpetual calm and youth of Olympus, the Eastern deities
-die to live again <span id="fr_212"></span>[1](#fn_212)." In other words
+die to live again <span id="fr_212"></span>[1](#fn_212.md)." In other words
 Greek religion lacks the Sacramental idea.
 
 Thus even if we set aside the absence of a parallel between the ritual
@@ -202,11 +202,11 @@ co-ordinate the evidence germane to our enquiry.
 Regarding the question as a whole it is undoubtedly true that, as Anrich
 remarks, "the extent of the literature devoted to the Mysteries stands
 in no relation whatever (*gar keinem Verhältniss*) to the importance in
-reality attached to them <span id="fr_213"></span>[1](#fn_213)." Later
+reality attached to them <span id="fr_213"></span>[1](#fn_213.md)." Later
 in the same connection, after quoting Clement of Alexandria's dictum
 "Geheime Dinge wie die Gottheit, werden der Rede anvertraut, nicht der
 Schrift," he adds, "*Schriftliche Fixierung ist schon beinahe
-Entweihung* <span id="fr_214"></span>[2](#fn_214)." A just remark which
+Entweihung* <span id="fr_214"></span>[2](#fn_214.md)." A just remark which
 it would be well if certain critics who make a virtue of refusing to
 accept as evidence anything short of a direct and positive literary
 statement would bear in mind. There are certain lines of research in
@@ -260,7 +260,7 @@ temperament of the Roman population. By degrees, however, it won its
 way, and by the reign of Claudius had become so popular that the emperor
 instituted public feasts in honour of Kybele and Attis, feasts which
 were celebrated at the Spring solstice, March 15th-27th <span
-id="fr_215"></span>[1](#fn_215).
+id="fr_215"></span>[1](#fn_215.md).
 
 As the public feast increased in popularity, so did the Mystery feast,
 of which the initiated alone were privileged to partake, acquire a
@@ -273,14 +273,14 @@ lequel des exégètes subtils verseront hardiment leurs spéculations
 philosophiques sur les forces créatrices fécondantes, principes de
 toutes les formes matérielles, et sur la délivrance de l'âme divine
 plongée dans la corruption de ce monde terrestre <span
-id="fr_216"></span>[2](#fn_216)."
+id="fr_216"></span>[2](#fn_216.md)."
 
 Certain of the Gnostic sects, both pre- and post-Christian, appear to
 have been enthusiastic participants in the Attis mysteries <span
-id="fr_217"></span>[3](#fn_217); Hepding, in his *Attis* study, goes so
+id="fr_217"></span>[3](#fn_217.md); Hepding, in his *Attis* study, goes so
 far as to refer to Bishop Aberkios, to whose enigmatic epitaph our
 attention was directed in the last chapter, as "*der
-Attis-Preister* <span id="fr_218"></span>[4](#fn_218)."
+Attis-Preister* <span id="fr_218"></span>[4](#fn_218.md)."
 
 Another element aided in the diffusion of the ritual. Of all the
 Oriental cults which journeyed Westward under the aegis of Rome none was
@@ -294,14 +294,14 @@ culte Persique en Italie
 <span id="page_138">p. 138</span>
 
 nous le trouvons étroitement uni à celui de la Grande Mére de
-Pessinonte <span id="fr_219"></span>[1](#fn_219)." The union between
+Pessinonte <span id="fr_219"></span>[1](#fn_219.md)." The union between
 Mithra and the goddess Anâhita was held to be the equivalent of that
 subsisting between the two great Phrygian deities Attis-Kybele. The most
 ancient Mithreum known, that at Ostia, was attached to the Metroon, the
 temple of Kybele. At Saalburg the ruins of the two temples are but a few
 steps apart. "L'on a tout lieu de croire que le culte du dieu Iranien et
 celui de la déesse Phrygienne vécurent en communion intime sur toute
-l'étendue de l'Empire <span id="fr_220"></span>[2](#fn_220)."
+l'étendue de l'Empire <span id="fr_220"></span>[2](#fn_220.md)."
 
 A proof of the close union of the two cults is afforded by the mystic
 rite of the Taurobolium, which was practised by both, and which, in the
@@ -311,7 +311,7 @@ actual rite seems to have been practised in Asia from a great antiquity,
 before Mithraism had attributed to it a spiritual significance. It is
 thus possible that the rite had earlier formed a part of the Attis
 initiation, and had been temporarily disused <span
-id="fr_221"></span>[3](#fn_221).
+id="fr_221"></span>[3](#fn_221.md).
 
 We shall see that the union of the Mithra-Attis cults becomes of
 distinct importance when we examine, (*a*) the spiritual significance of
@@ -328,7 +328,7 @@ food thus partaken of was a Food of Life--"*Die Attis-Diener* 
 <span id="page_139">p. 139</span>
 
 in der Tat eine magische Speise des Lebens aus ihren Kult-Geräten zu
-essen meinten <span id="fr_222"></span>[1](#fn_222)."
+essen meinten <span id="fr_222"></span>[1](#fn_222.md)."
 
 Dieterich in his interesting study entitled *Eine Mithras-liturgie*
 refers to this meal as the centre of the whole religious action.
@@ -351,11 +351,11 @@ susurrit*:
 Ἕϲται γα'ρ ἡμῖν ἐκ πόνων ϲωτηρία--
 
 on which Dieterich remarks: "Das Heil der Mysten hängt an der Rettung
-des Gottes <span id="fr_223"></span>[2](#fn_223)."
+des Gottes <span id="fr_223"></span>[2](#fn_223.md)."
 
 Hepding holds that in some cases there was an actual burial, and
 awakening with the god to a new life <span
-id="fr_224"></span>[3](#fn_224). In any case it is clear that the
+id="fr_224"></span>[3](#fn_224.md). In any case it is clear that the
 successful issue of the test of initiation was dependent upon the
 resurrection and revival of the god.
 
@@ -372,7 +372,7 @@ is, in some mysterious and unexplained manner, supplied by it. In both
 cases it is a *Lebens-Speise*, a Food of Life. This point is especially
 insisted upon in the *Parzival*, where the Grail community never become
 any older than they were on the day they first beheld the Talisman <span
-id="fr_225"></span>[1](#fn_225). In the Attis initiation the proof that
+id="fr_225"></span>[1](#fn_225.md). In the Attis initiation the proof that
 the candidate has successfully passed the test is afforded by the
 revival of the god--in the Grail romances the proof lies in the healing
 of the Fisher King.
@@ -393,60 +393,60 @@ elements of Folk-tale and high Spiritual mystery.
 
 ### Footnotes
 
-<span id="fn_207"></span>[130:1](frr13.htm#fr_207) *Elucidation*, ll.
+<span id="fn_207"></span>[130:1](frr13.htm#fr_207.md) *Elucidation*, ll.
 4-9 and 12, 13.
 
-<span id="fn_208"></span>[130:2](frr13.htm#fr_208) Potvin, ll. 19933-40.
+<span id="fn_208"></span>[130:2](frr13.htm#fr_208.md) Potvin, ll. 19933-40.
 I quote from Potvin's edition as more accessible than the MSS., but the
 version of Mons is, on the whole, an inferior one.
 
-<span id="fn_209"></span>[131:1](frr13.htm#fr_209) Potvin, ll. 28108-28.
+<span id="fn_209"></span>[131:1](frr13.htm#fr_209.md) Potvin, ll. 28108-28.
 
-<span id="fn_210"></span>[133:1](frr13.htm#fr_210) This is to my mind
+<span id="fn_210"></span>[133:1](frr13.htm#fr_210.md) This is to my mind
 the error vitiating much of Dr Nitze's later work, *e.g.*, the studies
 entitled *The Fisher-King in the Grail Romances* and *The Sister's Son,
 and the Conte del Graal*.
 
-<span id="fn_211"></span>[133:2](frr13.htm#fr_211) *Op. cit.*
+<span id="fn_211"></span>[133:2](frr13.htm#fr_211.md) *Op. cit.*
 Introduction, p. x.
 
-<span id="fn_212"></span>[134:1](frr13.htm#fr_212) Rohde, *Psyche*, p.
+<span id="fn_212"></span>[134:1](frr13.htm#fr_212.md) Rohde, *Psyche*, p.
 293, and Cumont, *op. cit.* p. 44.
 
-<span id="fn_213"></span>[135:1](frr13.htm#fr_213) Anrich, *Das alte
+<span id="fn_213"></span>[135:1](frr13.htm#fr_213.md) Anrich, *Das alte
 Mysterien-Wesen in seinem Verhältniss zum Christentum*, p. 46.
 
-<span id="fn_214"></span>[135:2](frr13.htm#fr_214) *Op. cit.* p. 136.
+<span id="fn_214"></span>[135:2](frr13.htm#fr_214.md) *Op. cit.* p. 136.
 
-<span id="fn_215"></span>[137:1](frr13.htm#fr_215) Cumont, *op. cit.* p.
+<span id="fn_215"></span>[137:1](frr13.htm#fr_215.md) Cumont, *op. cit.* p.
 84.
 
-<span id="fn_216"></span>[137:2](frr13.htm#fr_216) *Op. cit.* pp. 104,
+<span id="fn_216"></span>[137:2](frr13.htm#fr_216.md) *Op. cit.* pp. 104,
 105.
 
-<span id="fn_217"></span>[137:3](frr13.htm#fr_217) Cf. Anrich, *op.
+<span id="fn_217"></span>[137:3](frr13.htm#fr_217.md) Cf. Anrich, *op.
 cit.* p. 81.
 
-<span id="fn_218"></span>[137:4](frr13.htm#fr_218) Hepding, *Attis*, p.
+<span id="fn_218"></span>[137:4](frr13.htm#fr_218.md) Hepding, *Attis*, p.
 189.
 
-<span id="fn_219"></span>[138:1](frr13.htm#fr_219) Cumont, Mystères de
+<span id="fn_219"></span>[138:1](frr13.htm#fr_219.md) Cumont, Mystères de
 Mithra, pp. 19 and 78.
 
-<span id="fn_220"></span>[138:2](frr13.htm#fr_220) Ibid. p. 188.
+<span id="fn_220"></span>[138:2](frr13.htm#fr_220.md) Ibid. p. 188.
 
-<span id="fn_221"></span>[138:3](frr13.htm#fr_221) Ibid. pp. 190 et seq.
+<span id="fn_221"></span>[138:3](frr13.htm#fr_221.md) Ibid. pp. 190 et seq.
 
-<span id="fn_222"></span>[139:1](frr13.htm#fr_222) *Vide* Hepding,
+<span id="fn_222"></span>[139:1](frr13.htm#fr_222.md) *Vide* Hepding,
 *Attis*, Chap. 4, for details.
 
-<span id="fn_223"></span>[139:2](frr13.htm#fr_223) Dieterich, *Eine
+<span id="fn_223"></span>[139:2](frr13.htm#fr_223.md) Dieterich, *Eine
 Mithrasliturgie*, p. 174.
 
-<span id="fn_224"></span>[139:3](frr13.htm#fr_224) Hepding, *op. cit.*
+<span id="fn_224"></span>[139:3](frr13.htm#fr_224.md) Hepding, *op. cit.*
 p. 196.
 
-<span id="fn_225"></span>[140:1](frr13.htm#fr_225) Cf. my *Legend of Sir
+<span id="fn_225"></span>[140:1](frr13.htm#fr_225.md) Cf. my *Legend of Sir
 Perceval*, Vol. II. p. 313. Hepding mentions (op. cit. p. 174) among the
 *sacra* of the goddess *Phrygium ferrum*, which he suggests was the
 knife from which the Archigallus wounded himself on the 'Blood' day.
@@ -456,4 +456,4 @@ knife.
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. The Secret of the Grail (2): The Naassene
-Document](frr14)
+Document](frr14.md)

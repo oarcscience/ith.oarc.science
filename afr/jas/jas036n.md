@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas035n)  [Next](jas037n)   
- \[[36. Horse and Anansi.](jas036)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas035n)  [Next](jas037n.md)   
+ \[[36. Horse and Anansi.](jas036.md)\]
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ when he shows them behaving like human beings.
 
 ------------------------------------------------------------------------
 
-[Next: Note 37. Anansi in Monkey Country.](jas037n)
+[Next: Note 37. Anansi in Monkey Country.](jas037n.md)

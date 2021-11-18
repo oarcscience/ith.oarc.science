@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat01)  [Next](flat03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat01)  [Next](flat03.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ company with them.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Knockgrafton](flat03)
+[Next: The Legend of Knockgrafton](flat03.md)

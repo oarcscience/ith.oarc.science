@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh45)  [Next](ulh47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh45)  [Next](ulh47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -200,4 +200,4 @@ delight.
 
 ------------------------------------------------------------------------
 
-[Next: Glossary](ulh47)
+[Next: Glossary](ulh47.md)

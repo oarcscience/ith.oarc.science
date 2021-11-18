@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Thomas Paine](../index)  [Index](index) 
-[Previous](aor03)  [Next](aor05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Thomas Paine](../index)  [Index](index.md) 
+[Previous](aor03)  [Next](aor05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595479104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595479104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ abolish the amphibious fraud.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Concerning the Character of Jesus Christ, and His
-History](aor05)
+History](aor05.md)

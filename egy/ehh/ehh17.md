@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh16)  [Next](ehh18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh16)  [Next](ehh18.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ for these changes, for the god has now to traverse a region where there
 is not sufficient water to float his boat or to permit of its being
 towed; moreover, his way is blocked by a monster serpent called
 NEHA-HRA, which lies on a sand bank 450 cubits long. <span
-id="fr_50"></span>[1](#fn_50) In other words, the Boat of AFU-RA has
+id="fr_50"></span>[1](#fn_50.md) In other words, the Boat of AFU-RA has
 arrived at a region of sandbanks and shallows, where serpents and
 crocodiles live; but the words of power of Isis, the great sorceress,
 and of SER, and of the god himself protect him from mishap, and
@@ -82,10 +82,10 @@ resembling MEHEN (Vol. i., p. 151).
 
 ### Footnotes
 
-<span id="fn_50"></span>[152:1](ehh17.htm#fr_50) This statement is found
+<span id="fn_50"></span>[152:1](ehh17.htm#fr_50.md) This statement is found
 in the SUMMARY.
 
 ------------------------------------------------------------------------
 
 [Next: Eighth Division of the Tuat. I. Kingdom of Osiris According to
-the Book Am-Tuat](ehh18)
+the Book Am-Tuat](ehh18.md)

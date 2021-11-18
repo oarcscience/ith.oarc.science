@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff15)  [Next](fff17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff15)  [Next](fff17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -155,7 +155,7 @@ three quarters of the second. The great "store-house of Gnosticism" is
 the Refutation of Irenæus, who wrote at Lyons in Gaul, far away from the
 real scene of action, in about the penultimate decade of the second
 century. All subsequent refutators base themselves more or less on the
-treatise of Irenæus, and frequently copy [the](errata.htm#22) work of
+treatise of Irenæus, and frequently copy [the](errata.htm#22.md) work of
 the Gallic bishop. If, then, Irenæus can be shown to be unreliable, the
 whole edifice of refutation is endangered by the insecurity of its
 foundation. This important point will be considered later on.
@@ -277,7 +277,7 @@ proof of this presumption in our hands.
 
 But meantime let us turn our attention to our <span
 class="margnote">Direct Sources.</span> direct sources of
-[information](errata.htm#23). We have now no less than three Codices
+[information](errata.htm#23.md). We have now no less than three Codices
 containing Coptic translations of original Greek Gnostic works.
 
 (i.) The Askew Codex, vellum, British Museum, London: containing the
@@ -345,4 +345,4 @@ from several of them.
 
 ------------------------------------------------------------------------
 
-[Next: The Gnosis According to its Foes](fff17)
+[Next: The Gnosis According to its Foes](fff17.md)

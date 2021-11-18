@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml16)  [Next](iml18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml16)  [Next](iml18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -56,13 +56,13 @@ Panchala forces, for as the lion leaps upon the leader of a herd of
 elephants, so did Arjuna rush against Drupada. A boastful warrior
 intervened, but the strong Pandava overcame him, and at length, after
 fierce fighting, Arjuna seized Drupada as Garuda, king of birds, <span
-id="fr_233"></span>[1](#fn_232) seizeth a mighty snake after disturbing
+id="fr_233"></span>[1](#fn_232.md) seizeth a mighty snake after disturbing
 the waters of the ocean.
 
 The remnant of the Panchala host then broke and fled, and the Pandavas
 began to lay waste the capital. Arjuna, however, cried unto Bhima:
 "Remember that Drupada is the kinsman of the Kauravas; therefore cease
-slaying his warriors." <span id="fr_234"></span>[2](#fn_233)
+slaying his warriors." <span id="fr_234"></span>[2](#fn_233.md)
 
 Drupada was led before Drona, who, remembering the proud words of the
 fallen rajah, spoke and said: "At last I have conquered thy kingdom, and
@@ -98,7 +98,7 @@ during the minority. Yudhishthira, accordingly, ruled over the kingdom,
 and he was honoured and beloved by the people; for although he was not a
 mighty warrior like Arjuna, or powerful like to Bhima, he had great
 wisdom, and he was ever just and merciful, and a lover of truth. <span
-id="fr_235"></span>[1](#fn_234)
+id="fr_235"></span>[1](#fn_234.md)
 
 Duryodhana remonstrated with his blind father, the maharajah, and he
 spoke to him, saying: "Why, O my father, hast thou thus favoured the
@@ -145,7 +145,7 @@ sire. Command the Pandavas to
 <span id="page_199">p. 199</span>
 
 depart unto the city of Varanavartha <span
-id="fr_236"></span>[1](#fn_235) and dwell there; when they have gone no
+id="fr_236"></span>[1](#fn_235.md) and dwell there; when they have gone no
 one will speak to thee regarding this matter."
 
 Dhritarashtra listened to his son and followed his counsel. He commanded
@@ -357,7 +357,7 @@ daybreak; they exercise their powers of deception during the two
 twilights. Do not play with him, therefore, but kill him speedily."
 
 At these words Bhima became strong as Vayu, his sire, when he is
-angered, <span id="fr_237"></span>[1](#fn_236) and, raising aloft the
+angered, <span id="fr_237"></span>[1](#fn_236.md) and, raising aloft the
 Rakshasa, he whirled him round and round, crying: "In vain hast thou
 gorged on unholy food. I will rid the forest of thee. No longer wilt
 thou devour human beings."
@@ -399,7 +399,7 @@ fiercely bright, like arrows were his ears, and his mouth was large; he
 had copper-brown lips and long, sharp teeth. He grew to he a youth an
 hour after he was born, but, still remaining bald, his mother named him
 Ghatotkacha, which signifies "pot-headed". <span
-id="fr_238"></span>[1](#fn_237)
+id="fr_238"></span>[1](#fn_237.md)
 
 Bhima then returned to his mother and his brethren with his demon bride
 and her son. They abode together for a time in the forest; then the
@@ -408,7 +408,7 @@ who promised to come to aid the Pandavas whenever they called upon him.
 
 One day thereafter Vyasa appeared before the Pandavas and counselled
 them to go towards the city of Eka-chakra <span
-id="fr_239"></span>[2](#fn_238) and to live there for a time in the
+id="fr_239"></span>[2](#fn_238.md) and to live there for a time in the
 house of a Brahman. Then he vanished from sight, promising to come
 again.
 
@@ -424,7 +424,7 @@ forest-dwelling Rakshasa named Vaka,
 
 <span id="page_207">p. 207</span>
 
-who was king of the Asuras. <span id="fr_240"></span>[1](#fn_239) Each
+who was king of the Asuras. <span id="fr_240"></span>[1](#fn_239.md) Each
 day the people had to supply him with food, which consisted of a
 cartload of rice, two bullocks, and the man who conveyed the meal to
 him.
@@ -461,7 +461,7 @@ performed
 
 this mighty deed, lest the people should trouble my son and desire to
 obtain the secret of his power, for he is skilled in mantras." <span
-id="fr_241"></span>[1](#fn_240)
+id="fr_241"></span>[1](#fn_240.md)
 
 Then was the household made happy, and Bhima prepared to go forth. That
 mighty hero collected the rice and drove the bullocks towards the
@@ -471,7 +471,7 @@ heard and came through the trees towards Bhima. Red were his eyes, and
 his hair and his beard were red also; his ears were pointed like arrows;
 he had a mouth like a cave, and his forehead was puckered in three
 lines. Terrible was he to look upon; his body was huge, indeed. <span
-id="fr_242"></span>[2](#fn_241)
+id="fr_242"></span>[2](#fn_241.md)
 
 The Rakshasa saw Bhima eating his meal, and approached angrily, biting
 his lower lip. "Fool," he cried, "wouldst thou devour my food before my
@@ -550,8 +550,8 @@ all women. Many Kshatriyas must die because of her, and the Kauravas
 will suffer from her. She will accomplish the decrees of the gods*."
 
 Then the son was called Dhrishta-dyumna <span
-id="fr_243"></span>[1](#fn_242) and the daughter Draupadi. <span
-id="fr_244"></span>[2](#fn_243) Drona thereafter took the Panchala
+id="fr_243"></span>[1](#fn_242.md) and the daughter Draupadi. <span
+id="fr_244"></span>[2](#fn_243.md) Drona thereafter took the Panchala
 prince to his palace, and instructed him to become an accomplished
 warrior. He knew that he could not thwart destiny, and he desired to
 perpetuate his own mighty deeds.
@@ -603,33 +603,33 @@ bride whose fame had been bruited abroad.
 
 ### Footnotes
 
-<span id="fn_232"></span>[196:1](iml17.htm#fr_233) Half man and half
+<span id="fn_232"></span>[196:1](iml17.htm#fr_233.md) Half man and half
 eagle, and enemy of the serpent race.
 
-<span id="fn_233"></span>[196:2](iml17.htm#fr_234) The Kurus and
+<span id="fn_233"></span>[196:2](iml17.htm#fr_234.md) The Kurus and
 Panchalas were allies.
 
-<span id="fn_234"></span>[197:1](iml17.htm#fr_235) The modern-day Hindu
+<span id="fn_234"></span>[197:1](iml17.htm#fr_235.md) The modern-day Hindu
 regards Yudhishthira as an ideal man.
 
-<span id="fn_235"></span>[199:1](iml17.htm#fr_236) Allahabad, then
+<span id="fn_235"></span>[199:1](iml17.htm#fr_236.md) Allahabad, then
 probably a frontier town of the area of Aryan control, pronounced
 Var´an-a-vart″ha.
 
-<span id="fn_236"></span>[205:1](iml17.htm#fr_237) The god of wind.
+<span id="fn_236"></span>[205:1](iml17.htm#fr_237.md) The god of wind.
 
-<span id="fn_237"></span>[206:1](iml17.htm#fr_238) Bald as a pot.
+<span id="fn_237"></span>[206:1](iml17.htm#fr_238.md) Bald as a pot.
 *Pron*. gat-ot-katch´a.
 
-<span id="fn_238"></span>[206:2](iml17.htm#fr_239) *Pron*. eka-chak´ra.
+<span id="fn_238"></span>[206:2](iml17.htm#fr_239.md) *Pron*. eka-chak´ra.
 
-<span id="fn_239"></span>[207:1](iml17.htm#fr_240) As a rule the Asuras
+<span id="fn_239"></span>[207:1](iml17.htm#fr_240.md) As a rule the Asuras
 are the enemies of the gods and the Rakshasas the enemies of mankind.
-See [Chapter IV](iml09.htm#ch04).
+See [Chapter IV](iml09.htm#ch04.md).
 
-<span id="fn_240"></span>[208:1](iml17.htm#fr_241) Charms.
+<span id="fn_240"></span>[208:1](iml17.htm#fr_241.md) Charms.
 
-<span id="fn_241"></span>[208:2](iml17.htm#fr_242) A man-devouring demon
+<span id="fn_241"></span>[208:2](iml17.htm#fr_242.md) A man-devouring demon
 was supposed to sit under a bridge in Caithness every night. When a late
 wayfarer began to walk over, the monster growled, "Tramp, tramp, tramp",
 so as to terrify him and obtain him for food. According to local belief,
@@ -638,11 +638,11 @@ a cave". The Egyptian demon set was red like the Indian Rakshasa.
 Red-haired people are disliked in India still; a native girl with auburn
 locks is not cared for as a bride.
 
-<span id="fn_242"></span>[210:1](iml17.htm#fr_243) *Pron*.
+<span id="fn_242"></span>[210:1](iml17.htm#fr_243.md) *Pron*.
 dhrish-ta-dyum´na.
 
-<span id="fn_243"></span>[210:2](iml17.htm#fr_244) *Pron*. drow´pa-dee″.
+<span id="fn_243"></span>[210:2](iml17.htm#fr_244.md) *Pron*. drow´pa-dee″.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. The Choice of Draupadi](iml18)
+[Next: Chapter XIII. The Choice of Draupadi](iml18.md)

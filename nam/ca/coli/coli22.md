@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](coli21)  [Next](coli23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](coli21)  [Next](coli23.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Culture of the Luiseño Indians*, by Philip Stedman Sparkman,
 \[1908\], at Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ spirit by doing so. It is said sometimes to drag under the water people
 who bathe near its haunts and to drown them. It is also related that a
 man shot one at a spring at Santa Margarita, and that the spring
 immediately dried up. The man also died within a short time. <span
-id="fr_8"></span>[6](#fn_7)
+id="fr_8"></span>[6](#fn_7.md)
 
 A being known as koyul is said to have its abode at the main falls of
 Pauma creek, not the falls that visitors to Palomar mountain sometimes
@@ -89,10 +89,10 @@ before devouring it.
 
 ### Footnotes
 
-<span id="fn_7"></span>[220:6](coli22.htm#fr_8) A tradition recorded by
+<span id="fn_7"></span>[220:6](coli22.htm#fr_8.md) A tradition recorded by
 Mr. Sparkman regarding the pavawut has been published in the Journal of
 American Folk-Lore, XXI, 35, 1908.
 
 ------------------------------------------------------------------------
 
-[Next: Boys’ Puberty Ceremonies](coli23)
+[Next: Boys’ Puberty Ceremonies](coli23.md)

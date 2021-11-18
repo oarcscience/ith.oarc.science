@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls10)  [Next](rls12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls10)  [Next](rls12.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ them that this practice was of little good, and in many cases injurious.
 
 ------------------------------------------------------------------------
 
-[Next: Râmak*ri*sh*n*a](rls12)
+[Next: Râmak*ri*sh*n*a](rls12.md)

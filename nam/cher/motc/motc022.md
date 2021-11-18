@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc021) 
-[Next](motc023) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc021.md) 
+[Next](motc023.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ be dead when the hunter has him in a close corner.
 
 ------------------------------------------------------------------------
 
-[Next: 23. The Rabbit Dines The Bear](motc023)
+[Next: 23. The Rabbit Dines The Bear](motc023.md)

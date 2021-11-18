@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait04)  [Next](ait06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait04)  [Next](ait06.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ id="page_5">p. 5</span>
 
 |                     |
 |---------------------|
-| ![S](img/00500.jpg) |
+| ![S](img/00500.jpg.md) |
 
 NOWBIRD was the much-loved wife of Brown Bear, the brave hunter whose
 home was on the shore of the Great Lake. He kept the wigwam well
@@ -163,7 +163,7 @@ rising from the
 <span id="img_01000"></span>
 
 [![“Then, all of a sudden it changed to a woman.”](tn/01000.jpg)  
-Click to enlarge](img/01000.jpg)  
+Click to enlarge](img/01000.jpg.md)  
 “Then, all of a sudden it changed to a woman.”  
 
 <span id="page_11">p. 11</span>
@@ -244,4 +244,4 @@ again.
 
 ------------------------------------------------------------------------
 
-[Next: The Coyote or Prairie Wolf.](ait06)
+[Next: The Coyote or Prairie Wolf.](ait06.md)

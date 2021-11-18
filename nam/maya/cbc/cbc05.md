@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](cbc04)  [Next](cbc06) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](cbc04)  [Next](cbc06.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Tekax, a short distance northwest of the well-known town of Teabo.
 
 This Prophet Balam lived during the last decades of the Fifteenth
 Century and probably the first of the Sixteenth Century <span
-id="fr_0"></span>[1](#fn_0) and foretold the coming of strangers from
+id="fr_0"></span>[1](#fn_0.md) and foretold the coming of strangers from
 the east who would establish a new religion. The prompt fulfilment of
 this prediction so enhanced his reputation as a seer that in later times
 he was considered the authority for many other prophecies which had been
@@ -44,7 +44,7 @@ creation of the world, almanacs and medical treatises. Many such
 passages were no doubt originally transcribed from older hieroglyphic
 manuscripts, some of which were still in existence in northern Yucatan
 as late as the close of the Seventeenth Century <span
-id="fr_1"></span>[2](#fn_1). As time went on, more and more European
+id="fr_1"></span>[2](#fn_1.md). As time went on, more and more European
 material was added to the native Maya lore. In some of the books not
 only do we find the ritual of a religion which is a
 
@@ -54,7 +54,7 @@ mixture of the old faith with Christianity, but there are also
 translations into Maya of Spanish religious tracts and astrological
 treatises, as well as notes of events which occurred during the colonial
 period. In two of these books we even find part of a Spanish romance
-translated into Maya. <span id="fr_2"></span>[1](#fn_2)
+translated into Maya. <span id="fr_2"></span>[1](#fn_2.md)
 
 The ability of the Maya to write their own language in European script
 was due to the educational policy of the Spanish missionaries. Although
@@ -83,7 +83,7 @@ conquerors upon the Indians. In the first place such a scheme was
 plainly impracticable owing to the comparatively small number of
 Spaniards in Yucatan and, besides, many of the missionaries frankly
 admitted that they preferred the local officials of the villages in
-their charge not to know Spanish. <span id="fr_3"></span>[2](#fn_3) This
+their charge not to know Spanish. <span id="fr_3"></span>[2](#fn_3.md) This
 was probably in order that the latter should not complain too frequently
 of ecclesiastical discipline to the lay officials, who were sometimes at
 odds with the Franciscans. From a purely educational point of view the
@@ -93,7 +93,7 @@ important native families; but the Spanish settlers complained in the
 latter part of the Sixteenth Century that many native schoolmasters and
 choir-masters were still practising idolatry in secret and that idols
 had even been found in the school-houses. <span
-id="fr_4"></span>[3](#fn_4)
+id="fr_4"></span>[3](#fn_4.md)
 
 If such persons as these were not completely reformed, it is hardly
 surprising to find the successors of the former prophets and priests,
@@ -109,17 +109,17 @@ although now and then one of them came to the notice of the Franciscans.
 Seventy years after the Conquest, Aguilar wrote that "in these they
 painted in colors the count of their years, the wars, epidemics,
 hurricanes inundations, famines and other events." <span
-id="fr_5"></span>[1](#fn_5) It is remarkable that not a single one of
+id="fr_5"></span>[1](#fn_5.md) It is remarkable that not a single one of
 these books is known to have survived in Yucatan at the present time,
 for as late as the close of the Seventeenth Century Avendaño was quite
 familiar with them. In his account of the visit he made to the heathen
 Itzá at Tayasal he writes: "At the instant that we landed and I saw the
-said column and mask, <span id="fr_6"></span>[2](#fn_6) I came to
+said column and mask, <span id="fr_6"></span>[2](#fn_6.md) I came to
 recognize it since I had already read about it in their old papers and
 had seen it in their *Anahtés*, which they use, which are books of barks
 of trees, polished and covered with lime, in which by painted figures
 and characters they have foretold their future events." <span
-id="fr_7"></span>[3](#fn_7) This was Avendaño's first visit to any of
+id="fr_7"></span>[3](#fn_7.md) This was Avendaño's first visit to any of
 the heathen Maya, and he could only have seen such hieroglyphic books as
 still survived in northern Yucatan.
 
@@ -129,7 +129,7 @@ transcriptions of the old hieroglyphic manuscripts into European script.
 Aguilar mentions one of these early transcriptions which was written in
 a copy-book and contained an account of the creation of the world. He
 confiscated this book from a choir-master of the town of Sucopo. <span
-id="fr_8"></span>[4](#fn_8) As time went on, the transcriptions
+id="fr_8"></span>[4](#fn_8.md) As time went on, the transcriptions
 gradually took the place of the older hieroglyphic books. Fewer people
 were now able to read the glyphs, and much as the clergy condemned the
 Books of Chilam Balam, they were not considered such prima facie
@@ -137,12 +137,12 @@ evidence of the crime of idolatry as was anything written in
 hieroglyphics. Aguilar also tells us how in their assemblies the Indians
 read the fables and histories contained in the books. Some of the
 contents were chanted to the accompaniment of a drum; old songs were
-sung; <span id="fr_9"></span>[5](#fn_9) and the dramatic
+sung; <span id="fr_9"></span>[5](#fn_9.md) and the dramatic
 representations, the names of which we find listed in the Motul
-dictionary, were enacted. <span id="fr_10"></span>[6](#fn_10) Cogolludo
+dictionary, were enacted. <span id="fr_10"></span>[6](#fn_10.md) Cogolludo
 later wrote of such meetings that "God knows what goes on there, and at
 the very least many of them end up in drunkenness." <span
-id="fr_11"></span>[7](#fn_11)
+id="fr_11"></span>[7](#fn_11.md)
 
 None of the Books of Chilam Balam that have come down to us were
 compiled earlier than the last part of the Seventeenth Century, and most
@@ -168,9 +168,9 @@ present photographs were made. Consequently a complete transcription and
 translation of the texts can only be made with the aid of these copies.
 Tozzer gives the names of four others known by reputation only: the
 Books of Chilam Balam of Nabula, Tihosuco, Tixcocob and Hocabá. <span
-id="fr_12"></span>[1](#fn_12) Genet and Chelbatz give a brief
+id="fr_12"></span>[1](#fn_12.md) Genet and Chelbatz give a brief
 description of a Book of Chilam Balam of Telchac. <span
-id="fr_13"></span>[2](#fn_13)
+id="fr_13"></span>[2](#fn_13.md)
 
 Of these books the Chumayel, Tizimin and Mani manuscripts have the
 greatest value for the study of Maya civilization, although the others
@@ -195,39 +195,39 @@ Maya.
 Brinton was the first to make a translation of any considerable portion
 of the Chumayel. Using the Berendt copy of the text, he translated the
 three chronicles found in Chapters XIX, XX and XXI of the present
-work. <span id="fr_14"></span>[3](#fn_14) Martinez Hernandez has
+work. <span id="fr_14"></span>[3](#fn_14.md) Martinez Hernandez has
 published his own Spanish translations of these chronicles, also the
 story of the Last Judgment in Chapter XXIII and the first part of the
-creation narrative in Chapter X. <span id="fr_15"></span>[4](#fn_15)
+creation narrative in Chapter X. <span id="fr_15"></span>[4](#fn_15.md)
 Tozzer has translated the prophecy of Chilam Balam in Chapter XXIV and
-the chronicle in Chapter XX. <span id="fr_16"></span>[5](#fn_16) The
+the chronicle in Chapter XX. <span id="fr_16"></span>[5](#fn_16.md) The
 writer
 
 <span id="page_7">p. 7</span>
 
 has published translations of Chapters II, IX and XIII, <span
-id="fr_17"></span>[1](#fn_17) and the entire manuscript has been freely
+id="fr_17"></span>[1](#fn_17.md) and the entire manuscript has been freely
 rendered into Spanish poetical prose by Mediz Bolio. <span
-id="fr_18"></span>[2](#fn_18)
+id="fr_18"></span>[2](#fn_18.md)
 
 We know from internal evidence that the Chilam Balam of Chumayel was
 compiled by Don Juan Josef Hoil of that town, as we find his name signed
 to a notation written in the same hand as the rest of the book and dated
-1782. <span id="fr_19"></span>[3](#fn_19) Only a few interpolations
+1782. <span id="fr_19"></span>[3](#fn_19.md) Only a few interpolations
 added at later dates are written in different hands. Subsequently the
 book passed into the possession either of a certain unnamed priest or of
 his secretary, Justo Balam, who inscribed two baptismal records on one
-of the blank pages in 1832 and 1833. <span id="fr_20"></span>[4](#fn_20)
+of the blank pages in 1832 and 1833. <span id="fr_20"></span>[4](#fn_20.md)
 In 1838 Pedro de Alcantara Briceño of San Antonio made a record on the
 same page that he had purchased the book "in his poverty" for the price
 of one peso, probably from a priest, although the writing is very
 indistinct. It is possible that the priest was Don Diego Hoil, the son
-of the writer. On another blank page <span id="fr_21"></span>[5](#fn_21)
+of the writer. On another blank page <span id="fr_21"></span>[5](#fn_21.md)
 the same Pedro Briceño noted that he made a loan of the book. The date
 here is badly written, but it is probably 1858. Some time during the
 next ten years it was acquired by Don Audomaro Molina, how or where, we
 do not know; but the latter stated to Sr. Martinez Hernandez in
-1910 <span id="fr_22"></span>[6](#fn_22) that he had given it to Bishop
+1910 <span id="fr_22"></span>[6](#fn_22.md) that he had given it to Bishop
 Crescencio Carrillo y Ancona. It was already in the Bishop's possession
 when Dr. Berendt copied it in 1868, and he permitted Teobert Maler to
 make the first photographs of it in 1887. When Bishop Carrillo died in
@@ -243,7 +243,7 @@ the Cepeda Library in Merida, but when Dr. Morley visited the Library in
 Morley has already noted, "In view of its doubtful fate, it is nothing
 short of providential that two photographic copies of it exist, the one
 made by Maler in 1887, a copy of which is in the Gates collection, and
-the other made by Gordon in 1910." <span id="fr_23"></span>[7](#fn_23)
+the other made by Gordon in 1910." <span id="fr_23"></span>[7](#fn_23.md)
 
 The attempt has been made to learn something about Don Juan Josef Hoil,
 the compiler of the manuscript, from the surviving members of the Hoil
@@ -290,7 +290,7 @@ translate, although the spelling is better on the whole than that of
 some of the other manuscripts. As Professor Tozzer has noted, many words
 are separated arbitrarily into syllables, the same word sometimes being
 divided in several different ways on the same page. <span
-id="fr_24"></span>[1](#fn_24) Some passages are logically arranged in
+id="fr_24"></span>[1](#fn_24.md) Some passages are logically arranged in
 paragraphs, which is a great help, but many are not. There is little
 division of the text into sentences, and a capital letter rarely begins
 either a sentence or a proper name. Consequently it is necessary to
@@ -322,7 +322,7 @@ ethnological investigators as Tozzer, Redfield, Thompson and Gann. Many
 unfamiliar words not found in any Maya dictionary have turned out to be
 plant-names. These will be found in the Maya medical literature, and a
 great many of them have been identified by the botanists. <span
-id="fr_25"></span>[1](#fn_25)
+id="fr_25"></span>[1](#fn_25.md)
 
 It has been suggested that a modern Maya Indian should be of great
 assistance in translating these old books, but none of the few efforts
@@ -401,7 +401,7 @@ languages, particularly in those of the Pacific coast. On the whole they
 may best be compared with the corresponding sounds of the Dakota Sioux,
 although with many Maya speakers they are so weak that the untrained ear
 can not distinguish them from the unemphatic sounds." <span
-id="fr_26"></span>[1](#fn_26)
+id="fr_26"></span>[1](#fn_26.md)
 
 In writing the double vowels, Maya writers are frequently inconsistent,
 although the compiler of the Chumayel is less so than most of them. They
@@ -477,7 +477,7 @@ on the whole an unusually careful copyist, and the writer is inclined to
 <span id="page_12">p. 12</span>
 
 ascribe most of the errors to his sources. As Professor Tozzer has
-already noted, <span id="fr_27"></span>[1](#fn_27) these texts are
+already noted, <span id="fr_27"></span>[1](#fn_27.md) these texts are
 probably copies of copies and have been garbled somewhat in passing from
 hand to hand. In the Chumayel manuscript a garbled phrase is often
 accompanied by a vacant space, indicating that the copyist was not able
@@ -597,82 +597,82 @@ of the text enables us to apply them in the following table.
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](cbc05.htm#fr_0) For particulars concerning
+<span id="fn_0"></span>[3:1](cbc05.htm#fr_0.md) For particulars concerning
 Chilam Balam see Appendix D.
 
-<span id="fn_1"></span>[3:2](cbc05.htm#fr_1) Don Juan Xiu of Oxkutzcab
+<span id="fn_1"></span>[3:2](cbc05.htm#fr_1.md) Don Juan Xiu of Oxkutzcab
 possessed such a book in 1689, and Father Avendaño was still able to
 learn to read hieroglyphic writing before he went to convert the heathen
 Itzá in 1696. *Cf.* Morley 1920, p. 507; Codex Perez, p. 166; Means
 1917, p. 143; Appendix D.
 
-<span id="fn_2"></span>[4:1](cbc05.htm#fr_2) Chilam Balam of Kaua, pp.
+<span id="fn_2"></span>[4:1](cbc05.htm#fr_2.md) Chilam Balam of Kaua, pp.
 99-117; Codex Perez, pp. 31-37.
 
-<span id="fn_3"></span>[4:2](cbc05.htm#fr_3) Sanchez de Aguilar 1900,
+<span id="fn_3"></span>[4:2](cbc05.htm#fr_3.md) Sanchez de Aguilar 1900,
 pp. 96-97.
 
-<span id="fn_4"></span>[4:3](cbc05.htm#fr_4) Relaciones de Yucatan, II,
+<span id="fn_4"></span>[4:3](cbc05.htm#fr_4.md) Relaciones de Yucatan, II,
 pp. 190, 213.
 
-<span id="fn_5"></span>[5:1](cbc05.htm#fr_5) Sanchez de Aguilar 1900, p.
+<span id="fn_5"></span>[5:1](cbc05.htm#fr_5.md) Sanchez de Aguilar 1900, p.
 95.
 
-<span id="fn_6"></span>[5:2](cbc05.htm#fr_6) *Cf.* p. 102, note 2, of
+<span id="fn_6"></span>[5:2](cbc05.htm#fr_6.md) *Cf.* p. 102, note 2, of
 the present work
 
-<span id="fn_7"></span>[5:3](cbc05.htm#fr_7) Avendaño 1696, f. 29 r.,
+<span id="fn_7"></span>[5:3](cbc05.htm#fr_7.md) Avendaño 1696, f. 29 r.,
 Bowditch translation, MS. p. 67.
 
-<span id="fn_8"></span>[5:4](cbc05.htm#fr_8) Sanchez de Aguilar 1900, p.
+<span id="fn_8"></span>[5:4](cbc05.htm#fr_8.md) Sanchez de Aguilar 1900, p.
 115. *Cf.* p. 98, note 2 of the present work.
 
-<span id="fn_9"></span>[5:5](cbc05.htm#fr_9) At least one such song will
+<span id="fn_9"></span>[5:5](cbc05.htm#fr_9.md) At least one such song will
 be found in Chapter XII of the Book of Chilam Balam of Chumayel.
 
-<span id="fn_10"></span>[5:6](cbc05.htm#fr_10) Sanchez de Aguilar 1900,
+<span id="fn_10"></span>[5:6](cbc05.htm#fr_10.md) Sanchez de Aguilar 1900,
 p. 98.
 
-<span id="fn_11"></span>[5:7](cbc05.htm#fr_11) Cogolludo 1868, Bk. 4,
+<span id="fn_11"></span>[5:7](cbc05.htm#fr_11.md) Cogolludo 1868, Bk. 4,
 Chap. 5, translated in Means 1917, p. 14.
 
-<span id="fn_12"></span>[6:1](cbc05.htm#fr_12) Tozzer 1921, p. 191.
+<span id="fn_12"></span>[6:1](cbc05.htm#fr_12.md) Tozzer 1921, p. 191.
 
-<span id="fn_13"></span>[6:2](cbc05.htm#fr_13) Genet and Chelbatz 1927,
+<span id="fn_13"></span>[6:2](cbc05.htm#fr_13.md) Genet and Chelbatz 1927,
 p. 42.
 
-<span id="fn_14"></span>[6:3](cbc05.htm#fr_14) Brinton 1882, pp.
+<span id="fn_14"></span>[6:3](cbc05.htm#fr_14.md) Brinton 1882, pp.
 152-185.
 
-<span id="fn_15"></span>[6:4](cbc05.htm#fr_15) Martinez Hernandez 1912,
+<span id="fn_15"></span>[6:4](cbc05.htm#fr_15.md) Martinez Hernandez 1912,
 1913, 1927, 1928.
 
-<span id="fn_16"></span>[6:5](cbc05.htm#fr_16) Tozzer 1921, pp. 120-135.
+<span id="fn_16"></span>[6:5](cbc05.htm#fr_16.md) Tozzer 1921, pp. 120-135.
 
-<span id="fn_17"></span>[7:1](cbc05.htm#fr_17) Roys 1920, 1922 and 1923.
+<span id="fn_17"></span>[7:1](cbc05.htm#fr_17.md) Roys 1920, 1922 and 1923.
 
-<span id="fn_18"></span>[7:2](cbc05.htm#fr_18) Mediz Bolio 1930.
+<span id="fn_18"></span>[7:2](cbc05.htm#fr_18.md) Mediz Bolio 1930.
 
-<span id="fn_19"></span>[7:3](cbc05.htm#fr_19) *Cf.* p. 143.
+<span id="fn_19"></span>[7:3](cbc05.htm#fr_19.md) *Cf.* p. 143.
 
-<span id="fn_20"></span>[7:4](cbc05.htm#fr_20) *Cf.* p. 144.
+<span id="fn_20"></span>[7:4](cbc05.htm#fr_20.md) *Cf.* p. 144.
 
-<span id="fn_21"></span>[7:5](cbc05.htm#fr_21) *Cf.* p. 144.
+<span id="fn_21"></span>[7:5](cbc05.htm#fr_21.md) *Cf.* p. 144.
 
-<span id="fn_22"></span>[7:6](cbc05.htm#fr_22) Martinez Hernandez
+<span id="fn_22"></span>[7:6](cbc05.htm#fr_22.md) Martinez Hernandez
 letter, December 30, 1931.
 
-<span id="fn_23"></span>[7:7](cbc05.htm#fr_23) Morley 1920, p. 475.
+<span id="fn_23"></span>[7:7](cbc05.htm#fr_23.md) Morley 1920, p. 475.
 
-<span id="fn_24"></span>[8:1](cbc05.htm#fr_24) Toner 1917.
+<span id="fn_24"></span>[8:1](cbc05.htm#fr_24.md) Toner 1917.
 
-<span id="fn_25"></span>[9:1](cbc05.htm#fr_25) Roys 1931; Standley 1930.
+<span id="fn_25"></span>[9:1](cbc05.htm#fr_25.md) Roys 1931; Standley 1930.
 
-<span id="fn_26"></span>[10:1](cbc05.htm#fr_26) Andrade, letter of
+<span id="fn_26"></span>[10:1](cbc05.htm#fr_26.md) Andrade, letter of
 January 12, 1932.
 
-<span id="fn_27"></span>[12:1](cbc05.htm#fr_27) Tozzer 1921, p. 112.
+<span id="fn_27"></span>[12:1](cbc05.htm#fr_27.md) Tozzer 1921, p. 112.
 
 ------------------------------------------------------------------------
 
-[Next: I: The Ritual of the Four World-Quarters](cbc06)
+[Next: I: The Ritual of the Four World-Quarters](cbc06.md)

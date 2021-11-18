@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft43)  [Next](ftft45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft43)  [Next](ftft45.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_342">p. 342</span>
 
 <span id="img_34200"></span> ![The Beautiful Helwa
-Maiden](img/34200.jpg)
+Maiden](img/34200.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE once lived a poor combmaker who said to his wife one day: "Give me
 a few paras, and I will take my stock of combs into a coffee-house.
@@ -107,7 +107,7 @@ id="img_34400"></span>
 
 |                                                             |
 |-------------------------------------------------------------|
-| ![His head could not be seen for the lather](img/34400.jpg) |
+| ![His head could not be seen for the lather](img/34400.jpg.md) |
 
 After her brother had left her the maiden set off in an opposite
 direction, wandering over mountains, across plains, and through valleys
@@ -168,7 +168,7 @@ to their own country.
 
 |                                                                |
 |----------------------------------------------------------------|
-| ![The Vezir found the rope bound round a stone](img/34600.jpg) |
+| ![The Vezir found the rope bound round a stone](img/34600.jpg.md) |
 
 The fugitive Sultana hastened on in the direction of her parents' home.
 Meeting a shepherd, she begged him to lend her a suit of men's clothing
@@ -233,7 +233,7 @@ Conversation began, and many interesting personal reminiscences were
 
 |                                                                                              |
 |----------------------------------------------------------------------------------------------|
-| ![''Forty knives for our enemies, for ourselves forty mules,'' they answered](img/34800.jpg) |
+| ![''Forty knives for our enemies, for ourselves forty mules,'' they answered](img/34800.jpg.md) |
 
 related. Then it came to the turn of the helwa-maker, who before
 beginning her narration imposed the condition that no one should leave
@@ -264,7 +264,7 @@ answered: "Forty knives for our enemies; for ourselves, forty
 <span id="img_34900"></span>
 
 [![''Sit down,'' commanded the story-teller](tn/34900.jpg)  
-Click to enlarge](img/34900.jpg)  
+Click to enlarge](img/34900.jpg.md)  
 ''Sit down,'' commanded the story-teller  
 
 <span id="page_350">p. 350</span>
@@ -281,4 +281,4 @@ other.
 
 ------------------------------------------------------------------------
 
-[Next: Astrology](ftft45)
+[Next: Astrology](ftft45.md)

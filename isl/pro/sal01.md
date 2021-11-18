@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](sal00)  [Next](sal02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](sal00)  [Next](sal02.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ messenger(Al-Isrâ':15).
 
 ------------------------------------------------------------------------
 
-[Next: The Land of Sâlih's (PUH) People](sal02)
+[Next: The Land of Sâlih's (PUH) People](sal02.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Sappho](../saph/index)  [Index](index)  [Previous](pos04) 
-[Next](pos06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Sappho](../saph/index)  [Index](index)  [Previous](pos04.md) 
+[Next](pos06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00087A7F8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00087A7F8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Poems of Sappho*, by John Myers O'Hara, \[1910\], at Intangible
 Textual Heritage
 
@@ -33,4 +33,4 @@ Gorgo, Atthis, Gyrinno, all the others
 
 ------------------------------------------------------------------------
 
-[Next: Ode To Anactoria](pos06)
+[Next: Ode To Anactoria](pos06.md)

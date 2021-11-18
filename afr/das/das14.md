@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das13)  [Next](das15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das13)  [Next](das15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -37,12 +37,12 @@ of the salt marsh.
 
 It is only when some great excitement takes place, a stirring religious
 service, a dance at the community pavilion, a
-death, [37b](das26.htm#xref_37b),  [37c](das26.htm#xref_37c) or some
+death, [37b](das26.htm#xref_37b),  [37c](das26.htm#xref_37c.md) or some
 scandal concerning a neighbor, that quiet Pin Point bestirs itself.
 Recently, one of the fishermen ventured into the foreign waters of the
 Ogeechee about ten miles distant and there he was almost devoured by an
 alligator. All that was left of him, "the ham," was given a
-burial [2](das26.htm#xref_2) amid the loud lamentations of his relatives
+burial [2](das26.htm#xref_2.md) amid the loud lamentations of his relatives
 and neighbors.
 
 <span id="page_78">p. 78</span>
@@ -56,21 +56,21 @@ thirty, are still close to the traditions and beliefs in which they have
 been reared. Firmly believing in the Bible, they still are aware of
 other beliefs and customs handed down by their parents and grandparents.
 
-A pleasant, intelligent woman <span id="fr_89"></span>[1](#fn_89) of
+A pleasant, intelligent woman <span id="fr_89"></span>[1](#fn_89.md) of
 about forty-five chatted with us. "Cose, det is duh will ub God, but dey
 do say jis duh same wen a pusson die, 'Maybe somebody fix
-em' [15](das26.htm#xref_15) aw 'I sho know dat uhmun wuz rooted.' I ain
+em' [15](das26.htm#xref_15.md) aw 'I sho know dat uhmun wuz rooted.' I ain
 nebuh bought no powduh muhsef but jis day befo yestuhdy a uhmun frum
 Tatemville wuz right yuh tuh dis house sellin High John duh Conqueruh
 fuh fifty cent an she sho say it would bring yuh powuhful good luck, but
-I ain hab fifty cent. [8](das26.htm#xref_8)
+I ain hab fifty cent. [8](das26.htm#xref_8.md)
 
 "Cose, it ain good tuh fool much wid dem tings, but yuh sho hab tuh be
 keahful not tuh let no enemy git bole uh yuh haiah combins; cuz dey say
-dey sho could fix yuh den." [10](das26.htm#xref_10) She laughed a little
+dey sho could fix yuh den." [10](das26.htm#xref_10.md) She laughed a little
 uneasily. "Ef yuh dream ub a snake dassa enemy neahby too, but ef yuh
 weah a snake skin roun yuh wais, it good fuh wut ail
-yuh. [50d](das26.htm#xref_50d),  [50e](das26.htm#xref_50e) An ef uh
+yuh. [50d](das26.htm#xref_50d),  [50e](das26.htm#xref_50e.md) An ef uh
 enemy come tuh yuh house an yuh dohn wahn im deah no mo, yuh jis take
 duh bruhm an sweep out quick attuh im. Den sprinkle a lill salt on duh
 flo weah his foot track bin an sweep em all out duh doe an he sho wohn
@@ -88,32 +88,32 @@ scattered like a brood of young chicks.
 
 <span id="page_79">p. 79</span>
 
-"Yasm, cose yuh do heah bout cunjuhin." [15](das26.htm#xref_15) Minnie
+"Yasm, cose yuh do heah bout cunjuhin." [15](das26.htm#xref_15.md) Minnie
 turned back to us. "Dasso. Dey's alluz talk bout it, an I know ole Lewis
 McIver wut libs, yuh right now, wut foun a bottle buried in his
 mattress. He wuz sick an somebody wuz tryin tuh fix im. I seen dat
 bottle muhsef, wid muh own eyes. Yes, ma'am, I sho seen it. It hab
 yulluhlak oily lookin stuff in it an deah wuz a piece uh clawt stuck tru
-wid needles an pins in it." [8](das26.htm#xref_8) Minnie looked worried
+wid needles an pins in it." [8](das26.htm#xref_8.md) Minnie looked worried
 at the mere memory. "I seen it fuh sho an dohn nobody know who put it
 deah. But Lewis is bettuh sence it wuz took out. He say he ain hab neah
 so much pain.
 
-"Den wen muh ole uncle wuz sick, [15](das26.htm#xref_15) dey sen fuh a
-ole uhmun wut know bout cunjuh [48](das26.htm#xref_48) an she wehn out
+"Den wen muh ole uncle wuz sick, [15](das26.htm#xref_15.md) dey sen fuh a
+ole uhmun wut know bout cunjuh [48](das26.htm#xref_48.md) an she wehn out
 in duh yahd an dig up a piece uh clawt wadded intuh a ball wid nails in
 it an she cas it away. I seen dat too. She say somebody plant it deah
 gense im.
 
 "Dey make mojoes outn anyting but dey do say grabeyahd
-dut [9](das26.htm#xref_9) an nails an blood an
-haiah, [10](das26.htm#xref_10) dey is impawtant. Cose I know bettuhn
+dut [9](das26.htm#xref_9.md) an nails an blood an
+haiah, [10](das26.htm#xref_10.md) dey is impawtant. Cose I know bettuhn
 belieb all dis," she laughed, "but it make yuh sked an yuh sho full uh
 worry ef somebody tryin tuh fix yuh." After cogitating on these dangers
 Minnie smiled, "But ef yuh weahs a silbuh dime tied tuh yuh ankle an yuh
 step obuh anyting wut put down fuh yuh, duh dime'll sho tun black sudden
-an quick an den yuh knows it." [12a](das26.htm#xref_12a),
- [12c](das26.htm#xref_12c),  [12d](das26.htm#xref_12d)
+an quick an den yuh knows it." [12a](das26.htm#xref_12a.md),
+ [12c](das26.htm#xref_12c),  [12d](das26.htm#xref_12d.md)
 
 Pin Point attained a certain measure of fame as the setting of the
 Bo-Cat murder in 1932. Limerick De Lancy, Pin Point Negro nicknamed
@@ -160,7 +160,7 @@ Bout tuh hang im by duh rail
 It a shame how Bo-Cat done he wife.
 
 One of the Pin Point women, Margaret Snead, <span
-id="fr_90"></span>[1](#fn_90) recalls vividly the events of the De Lancy
+id="fr_90"></span>[1](#fn_90.md) recalls vividly the events of the De Lancy
 crime.
 
 "Wy, duh night fo Catherine De Lanzy wuz kill, she spen it in town wid
@@ -185,14 +185,14 @@ dat cawn jis lak it use tuh be wen she wuz libe.
 "Her ole huzbun, Limbrick De Lanzy, already wuz rested, an he git sen up
 fuh life. It wuz Friday, May duh thuteent, dat ole Limbrick carried
 Catherine off down duh ribbuh an murduh uh. A double bad luck, Friday an
-duh thuteent, [21](das26.htm#xref_21) das wy dey make up duh song."
+duh thuteent, [21](das26.htm#xref_21.md) das wy dey make up duh song."
 
 "Was the body buried at Pin Point?" we were interested to know.
 
 "Yes, it wuz, but we didn hab no settin-up cuz duh body wuz too fah
 gone. Dat wuz sad. Ebrybody lub Catherine an fuh uh tuh die an be buried
 widout a settin-up aw lettin anybody view uh face aw lay deah hans on
-uh [31](das26.htm#xref_31) wuz sho a pity. [36](das26.htm#xref_36)
+uh [31](das26.htm#xref_31) wuz sho a pity. [36](das26.htm#xref_36.md)
 
 "Ebrybody wuz at duh fewnul. Come frum miles roun tuh pay deah las
 respecks tuh a po wife murduhed by uh huzbun on Friday duh thuteent.
@@ -211,22 +211,22 @@ cry an scream wen dey tell duh congregation wut a fine uhmun she bin.
 
 "Den duh remains wuz took tuh duh cimiterry neah duh chuch an buried.
 Duh whole time we sing hymns an sway tuh duh soun uh duh music. Ebrybody
-tro a hanful uh dut in duh grabe an [28](das26.htm#xref_28) wen duh
+tro a hanful uh dut in duh grabe an [28](das26.htm#xref_28.md) wen duh
 grabe digguhs fix duh moun, we Put some uh Catherine's tings on duh top.
 Deah wuz a lilt flowuh vase wid duh bottom knock out, an a lamp chimney,
 an some puhfumery bottles, an duh pitchuh she made ice
 
 <span id="page_82">p. 82</span>
 
-watuh in jis to Bo-Cat tuk uh off. [47](das26.htm#xref_47) Den duh
+watuh in jis to Bo-Cat tuk uh off. [47](das26.htm#xref_47.md) Den duh
 ministuh nounce dat duh fewnul suhmon wuz tuh be preach at duh annyul
 memorial wen dey pray fuh ebrybody who die durin duh
-yeah. [42](das26.htm#xref_42) An den das all an we wehn home."
+yeah. [42](das26.htm#xref_42.md) An den das all an we wehn home."
 
 "Way was Limerick De Lancy called Bo-Cat?" we asked.
 
 "Deah ain no signifcunse tuh dat. I hab a frien dat ebrybody call Friday
-but [20](das26.htm#xref_20) uh name is Lula. I hab a cousin name Angus
+but [20](das26.htm#xref_20.md) uh name is Lula. I hab a cousin name Angus
 Bond an a son name May Bud simply cuz he wuz bawn in May. One uh muh
 brothuhs wuz call Baby Head cuz at birth he wuz a tiny baby wid sech a
 great big head.
@@ -235,22 +235,22 @@ great big head.
 tention tuh bad luck dates. Look uh po Catherine De Lanzy, depribe ub
 all duh propuh tings dat come fo burial, cuz it wuz a double bad luck
 date. Folks at duh Pint do say dat uh spirit nebuh will res in duh
-grabe." [36](das26.htm#xref_36)
+grabe." [36](das26.htm#xref_36.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_89"></span>[78:1](das14.htm#fr_89) Minnie Dawson, Pin
+<span id="fn_89"></span>[78:1](das14.htm#fr_89.md) Minnie Dawson, Pin
 Point.
 
-<span id="fn_90"></span>[80:1](das14.htm#fr_90) Margaret Snead, Pin
+<span id="fn_90"></span>[80:1](das14.htm#fr_90.md) Margaret Snead, Pin
 Point.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Sandfly](das15)
+[Next: Sandfly](das15.md)
 
 </div>

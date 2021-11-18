@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb17)  [Next](crfb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb17)  [Next](crfb19.md) 
 
 </div>
 
@@ -379,6 +379,6 @@ again in the Land of Immortality.
 
 ------------------------------------------------------------------------
 
-[Next: The Stone-Cutter](crfb19)
+[Next: The Stone-Cutter](crfb19.md)
 
 </div>

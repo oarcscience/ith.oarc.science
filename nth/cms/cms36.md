@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cms35)  [Next](cms37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cms35)  [Next](cms37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -79,9 +79,9 @@ an unerring guidance. To those who lean on the ever outstretched arm of
 the Infinite, life is big with limitless possibilities.
 
 We must wait and listen, then go about our outer business with an inner
-conviction that we are being led [into](errata.htm#2) a more perfect
+conviction that we are being led [into](errata.htm#2.md) a more perfect
 expression of life. All can do this.
 
 ------------------------------------------------------------------------
 
-[Next: Following Up A Thought](cms37)
+[Next: Following Up A Thought](cms37.md)

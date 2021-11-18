@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](lrs10)  [Next](lrs12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](lrs10)  [Next](lrs12.md) 
 
 ------------------------------------------------------------------------
 
@@ -579,7 +579,7 @@ At length she for her fate prepares, a victim sad and pale.</p></td>
 
 This last verse shows how strongly Lockhart was indebted to Scott for
 the spirit and style of his compositions. <span
-id="fr_51"></span>[2](#fn_51)
+id="fr_51"></span>[2](#fn_51.md)
 
  
 
@@ -705,7 +705,7 @@ that of the first four lines of" The Gardener"
 <span id="page_240">p. 240</span>
 
 or a sharper note of anguish than that of the last quatrain.  <span
-id="fr_52"></span>[3](#fn_52) To me at least Old Scots must always
+id="fr_52"></span>[3](#fn_52.md) To me at least Old Scots must always
 remain the language of the ballad *par excellence,* by virtue of the
 subtlety, the finely wrought and divinely coloured wealth of expressive
 idiom which bursts from its treasure-chest in a profusion of begemmed
@@ -946,12 +946,12 @@ this.
 
 ### Footnotes
 
-<span id="fn_51"></span>[237:2](lrs11.htm#fr_51) If Scott wrote this
+<span id="fn_51"></span>[237:2](lrs11.htm#fr_51.md) If Scott wrote this
 verse himself (as Lockhart admits), he wrote others.
 
-<span id="fn_52"></span>[240:3](lrs11.htm#fr_52) take these two
+<span id="fn_52"></span>[240:3](lrs11.htm#fr_52.md) take these two
 quatrains from two different versions.
 
 ------------------------------------------------------------------------
 
-[Next: X. The Romanceros, or Ballads (Continued)](lrs12)
+[Next: X. The Romanceros, or Ballads (Continued)](lrs12.md)

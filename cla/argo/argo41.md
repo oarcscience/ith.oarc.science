@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](argo40)  [Next](argo42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](argo40)  [Next](argo42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674990013/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674990013/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -271,4 +271,4 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674990013/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Next: line 109](argo42)
+[Next: line 109](argo42.md)

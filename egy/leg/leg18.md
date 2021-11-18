@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg17)  [Next](leg19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg17)  [Next](leg19.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ the divine bird *tekni* of Thoth come into being. Moreover, I give thee
 \[Power\] to embrace (*anh*) the two heavens with thy beauties, and with
 thy rays of light; therefore shall come into being the Moon-god (*Aah*)
 of Thoth. Moreover, I give thee \[power\] to drive back (*anan*) the
-Ha-nebu; <span id="fr_64"></span>[1](#fn_63) therefore shall come into
+Ha-nebu; <span id="fr_64"></span>[1](#fn_63.md) therefore shall come into
 being the dog-headed Ape (*anan*) of Thoth, and he shall act as governor
 for me. Moreover, thou art now in my place in the sight of all those who
 see thee and who present offerings to thee, and every being shall
@@ -39,10 +39,10 @@ ascribe praise unto thee, O thou who art God."
 
 ### Footnotes
 
-<span id="fn_63"></span>[35:1](leg18.htm#fr_64) I.e., the "North-lords,"
+<span id="fn_63"></span>[35:1](leg18.htm#fr_64.md) I.e., the "North-lords,"
 that is to say, the peoples who lived in the extreme north of the Delta,
 and on its sea-coasts, and perhaps in the Islands of the Mediterranean.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of The Destruction Of Mankind, Chapter V.](leg19)
+[Next: The Legend Of The Destruction Of Mankind, Chapter V.](leg19.md)

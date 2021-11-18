@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs16) 
-[Next](wscs18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs16.md) 
+[Next](wscs18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -194,7 +194,7 @@ recapitulation, that Chrishna, Alcides,
 <span id="page_88">p. 88</span>
 
 <span class="contnote">\[paragraph continues\]</span>
-[Zoroaster](errata.htm#2), Salvahana, Yu, to which list we may add
+[Zoroaster](errata.htm#2.md), Salvahana, Yu, to which list we may add
 Bacchus, Romulus, Moses and Cyrus, according to their reputed history,
 were threatened with death and destruction, but were providentially and
 miraculously preserved. The case of Augustus is related by Suetonius,
@@ -222,14 +222,14 @@ properly passed through the infants than destroyed them.
 The text, "In Rama there was a voice heard," "Rachel weeping for her
 children," etc., is quoted by a writer (Strauss) as referring to the
 children slaughtered by Pharaoh. Let two things be noticed here: 1. Rama
-is the Indian and [Phenician](errata.htm#3) name for the zodiac. 2.
+is the Indian and [Phenician](errata.htm#3.md) name for the zodiac. 2.
 Rachel had but two children to weep for—Joseph and Benjamin—just the
 number found in the fifth sign, or May sign, of the
 
 <span id="page_89">p. 89</span>
 
 zodiac. And Venus, among the ancient Assyrians and
-[Phenicians](errata.htm#4), was in tears when the sun, in his annual
+[Phenicians](errata.htm#4.md), was in tears when the sun, in his annual
 cross through the heavens, passed through or over the astronomical Twins
 (Gemini), doubtless fearfully apprehending their destruction.
 
@@ -296,4 +296,4 @@ Rev. Edward Evanson, that it is "an incredible, borrowed fiction."
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII: The Saviors Exhibit Early Proofs of
-Divinity](wscs18)
+Divinity](wscs18.md)

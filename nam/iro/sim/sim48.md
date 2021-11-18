@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim47)  [Next](sim49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim47)  [Next](sim49.md) 
 
 ------------------------------------------------------------------------
 
@@ -614,4 +614,4 @@ are said to personify the Seasons.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventures of Yellowbird](sim49)
+[Next: The Adventures of Yellowbird](sim49.md)

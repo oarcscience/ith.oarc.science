@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp09)  [Next](twp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp09)  [Next](twp11.md) 
 
 ------------------------------------------------------------------------
 
@@ -476,4 +476,4 @@ his own Yoga.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](twp11)
+[Next: Chapter IX](twp11.md)

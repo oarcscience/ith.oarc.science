@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](ppx09)  [Next](ppx11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](ppx09)  [Next](ppx11.md) 
 
 ------------------------------------------------------------------------
 
 # The Belfry Rock; or, The Pixies' Revenge
 
 <span id="img_09"></span> [![](tn/09.jpg)  
-Click to enlarge](img/09.jpg)  
+Click to enlarge](img/09.jpg.md)  
 THE PIXIES' REVENGE
 
 ON the borders of Dartmoor, in days of yore, there lived a rich old
@@ -269,4 +269,4 @@ will requite an offence with tenfold injury, be it what it may.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix: Notes](ppx11)
+[Next: Appendix: Notes](ppx11.md)

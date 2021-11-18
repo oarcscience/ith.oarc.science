@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm11)  [Next](tdm13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm11)  [Next](tdm13.md) 
 
 ------------------------------------------------------------------------
 
@@ -411,7 +411,7 @@ visitor said to him,--
 have no time now, I do not mind returning again."
 
 There was a decided irony in the manner in which the old man uttered
-these words, and [Hoshkanyi](errata.htm#4) felt it. He rose quickly,
+these words, and [Hoshkanyi](errata.htm#4.md) felt it. He rose quickly,
 gathered a few robes, and spread them on the ground. In short he was as
 pleasant and accommodating, all at once, as he and his wife had been
 careless in the beginning. Topanashka settled down on the hides, and in
@@ -785,4 +785,4 @@ council must become an evil hour in the annals of his people.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](tdm13)
+[Next: Chapter XI](tdm13.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe305)  [Next](prwe307) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe305)  [Next](prwe307.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ down the tower, since which time it has never been rebuilt.
 
 ------------------------------------------------------------------------
 
-[Next: Temple Moors](prwe307)
+[Next: Temple Moors](prwe307.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck21)  [Next](peck23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck21)  [Next](peck23.md) 
 
 ------------------------------------------------------------------------
 
@@ -259,4 +259,4 @@ tide.
 
 ------------------------------------------------------------------------
 
-[Next: The Salt Lakes](peck23)
+[Next: The Salt Lakes](peck23.md)

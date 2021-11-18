@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf59)  [Next](sunf61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf59)  [Next](sunf61.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -113,6 +113,6 @@ kingdoms.
 ------------------------------------------------------------------------
 
 [Next: Chapter LIX. Tidings of Longshaw and of the Hosting of the
-Barons' League](sunf61)
+Barons' League](sunf61.md)
 
 </div>

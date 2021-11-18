@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate13)  [Next](gate15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate13)  [Next](gate15.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ unfailingly, millions of times.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Alabaster Sarcophagus of Seti I.](gate15)
+[Next: Chapter I. The Alabaster Sarcophagus of Seti I.](gate15.md)

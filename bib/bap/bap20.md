@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap19) 
-[Next](bap21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap19.md) 
+[Next](bap21.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 |-----------|
 | Gen. 9:18 |
 
-IV. <span id="fr_26"></span>[2](#fn_26) *And the sons of Noe which went
+IV. <span id="fr_26"></span>[2](#fn_26.md) *And the sons of Noe which went
 forth of the ark were Sem, Cham, and Japheth*.
 
 |           |
@@ -172,7 +172,7 @@ Ceneta.
 15\. *And Thara lived* 70 *years and begat Abram, Nachor, and Aram. And
 Aram begat Loth*.
 
-16\.  <span id="fr_27"></span>[1](#fn_27) Then began they that dwelt on
+16\.  <span id="fr_27"></span>[1](#fn_27.md) Then began they that dwelt on
 the earth to look upon the stars, and began to prognosticate by them and
 to make divination, and to make their sons and daughters pass through
 the fire. But Seruch and his sons walked not according to them.
@@ -185,17 +185,17 @@ upon the earth after the flood.
 
 ### Footnotes
 
-<span id="fn_26"></span>[82:2](bap20.htm#fr_26) IV. The variants in the
+<span id="fn_26"></span>[82:2](bap20.htm#fr_26.md) IV. The variants in the
 forms and divisions of the names are many. In the Appendix on Readings I
 have pointed out the Biblical equivalents. It is obvious that some names
 and words have dropped out of *Philo*. In the translation I have
 introduced very few corrections.
 
-<span id="fn_27"></span>[86:1](bap20.htm#fr_27) IV. 16. As is noted in
+<span id="fn_27"></span>[86:1](bap20.htm#fr_27.md) IV. 16. As is noted in
 the Introduction, this verse contradicts Jubilees on the subject of
 Serug, and implicitly rejects the story that Terah, Abraham's father,
 was an idolater.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](bap21)
+[Next: Chapter V](bap21.md)

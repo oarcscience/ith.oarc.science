@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal019)  [Next](njal021) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal019)  [Next](njal021.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ sight."
 
 ------------------------------------------------------------------------
 
-[Next: 21. Unna Goes To See Gunnar](njal021)
+[Next: 21. Unna Goes To See Gunnar](njal021.md)

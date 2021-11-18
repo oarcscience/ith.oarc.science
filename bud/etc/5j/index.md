@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index) [Buddhist
-Articles](../index)
+[Intangible Textual Heritage](../../../index.md) [Buddhist
+Articles](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -18,14 +18,14 @@ fifteen pages of translated material. This transcription is also
 unicode-enabled, employing the characters ḍ (d-dot-under), ḷ
 (l-dot-under), ṁ (m-dot-over), ṇ (n-dot-under), and ṭ (t-dot-under). For
 Windows browsers that are unicode-compliant, the massive Arial Unicode
-MS Font and the [Code200](https://home.att.net/~jameskass/CODE2000.ZIP)
+MS Font and the [Code200](https://home.att.net/~jameskass/CODE2000.ZIP.md)
 shareware font will both display these characters properly if they are
 not visible to you now.</span>
 
 NOTE: The Microsoft font mentioned above is no longer available. For
 information about Unicode fonts, and general issues related to the use
 of Unicode at Intangible Textual Heritage, please refer to [this
-page](../../../unicode).--JBH
+page](../../../unicode.md).--JBH
 
 <span class="small">Reduced to HTML by Christopher M. Weimer, July
 2002</span>

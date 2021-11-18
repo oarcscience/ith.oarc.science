@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som28) 
-[Next](som30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som28.md) 
+[Next](som30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ destructive, all that denies the Good, and turn with our whole being
 into the light and toward the Truth. Evil is swallowed up in the Good as
 we learn to live daily in the Presence of God. "I will forgive their
 iniquity and I will remember their sin no more." <span
-id="fr_99"></span>[100](#fn_99) That is, it will be completely blotted
+id="fr_99"></span>[100](#fn_99.md) That is, it will be completely blotted
 out; it will cease to be.
 
 With our whole heart, with our whole being, in sincerity and honesty,
@@ -77,8 +77,8 @@ Good remains.
 
 ### Footnotes
 
-<span id="fn_99"></span>[283:100](som29.htm#fr_99) Jer. 31:34.
+<span id="fn_99"></span>[283:100](som29.htm#fr_99.md) Jer. 31:34.
 
 ------------------------------------------------------------------------
 
-[Next: The Meaning of the Fall](som30)
+[Next: The Meaning of the Fall](som30.md)

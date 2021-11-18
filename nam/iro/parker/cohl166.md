@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl165)  [Next](cohl167) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl165)  [Next](cohl167.md) 
 
 ------------------------------------------------------------------------
 
@@ -156,4 +156,4 @@ t and *h* in this system are always pronounced separately.
 
 ------------------------------------------------------------------------
 
-[Next: Glossary of Seneca Words](cohl167)
+[Next: Glossary of Seneca Words](cohl167.md)

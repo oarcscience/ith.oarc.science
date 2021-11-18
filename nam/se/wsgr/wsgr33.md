@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr32)  [Next](wsgr34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr32)  [Next](wsgr34.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ with
 <span id="img_18200"></span>
 
 [![](tn/18200.jpg)  
-Click to enlarge](img/18200.jpg)
+Click to enlarge](img/18200.jpg.md)
 
 <span id="page_183">p. 183</span>
 
@@ -83,4 +83,4 @@ today.
 
 ------------------------------------------------------------------------
 
-[Next: About the Tejas Indians](wsgr34)
+[Next: About the Tejas Indians](wsgr34.md)

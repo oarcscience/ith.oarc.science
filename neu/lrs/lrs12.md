@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](lrs11)  [Next](lrs13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](lrs11)  [Next](lrs13.md) 
 
 ------------------------------------------------------------------------
 
@@ -660,4 +660,4 @@ romance, of drama, and of song!
 
 ------------------------------------------------------------------------
 
-[Next: XI. Moorish Romances of Spain](lrs13)
+[Next: XI. Moorish Romances of Spain](lrs13.md)

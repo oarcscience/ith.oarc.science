@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](aof06)  [Next](aof08) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](aof06)  [Next](aof08.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ Blessings give to countless worlds!
 ------------------------------------------------------------------------
 
 [Next: Translator's Supplementary Matter: The Great Physician's Twelve
-Desires (Vows)](aof08)
+Desires (Vows)](aof08.md)

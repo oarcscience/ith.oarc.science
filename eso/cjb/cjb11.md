@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Mysticism](../../myst/index)  [Index](index)  [Previous](cjb10) 
-[Next](cjb12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Mysticism](../../myst/index)  [Index](index)  [Previous](cjb10.md) 
+[Next](cjb12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574NM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574NM/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Confessions of Jacob Boehme*, by Jacob Boehme, ed. W. Scott Palmer
 \[1920\], at Intangible Textual Heritage
 
@@ -160,6 +160,6 @@ of nature, which I can call it by, but Antichrist in Babel.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](cjb12)
+[Next: Chapter X](cjb12.md)
 
 </div>

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft12)  [Next](efft14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft12)  [Next](efft14.md) 
 
 ------------------------------------------------------------------------
 
-# WHITTINGTON AND HIS CAT.  <span id="fr_14"></span>[1](#fn_14)
+# WHITTINGTON AND HIS CAT.  <span id="fr_14"></span>[1](#fn_14.md)
 
 IN the reign of the famous King Edward III. there was a little boy
 called Dick Whittington, whose father and mother died when he was very
@@ -215,7 +215,7 @@ court, and if she will perform what you say, I will load your ship with
 gold and jewels in exchange for her."
 
 <span id="img_06"></span> [![](tn/06.jpg)  
-Click to enlarge](img/06.jpg)  
+Click to enlarge](img/06.jpg.md)  
 "THE KING AND QUEEN WERE QUITE CHARMED."
 
 The captain, who knew his business, took this opportunity to set forth
@@ -337,8 +337,8 @@ prison of Newgate, that stood across Newgate Street.
 
 ### Footnotes
 
-<span id="fn_14"></span>[1](efft13.htm#fr_14) From a Chap book.
+<span id="fn_14"></span>[1](efft13.htm#fr_14.md) From a Chap book.
 
 ------------------------------------------------------------------------
 
-[Next: The Pedlar of Swaffham](efft14)
+[Next: The Pedlar of Swaffham](efft14.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc10)  [Next](lcc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc10)  [Next](lcc12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ at Intangible Textual Heritage
 
 *Chārudatta*. \[*Looks up*.\]
 
-AN untimely storm <span id="fr_59"></span>[1](#fn_59) is gathering. For
+AN untimely storm <span id="fr_59"></span>[1](#fn_59.md) is gathering. For
 see!
 
 <div style="margin-left: 32px">
@@ -44,7 +44,7 @@ And again:
 The wet bull's belly wears no deeper dye;  
   In flashing lightning's golden mantle clad,  
   While cranes, his buglers, make the heaven glad,  
-The cloud, a second Vishnu, <span id="fr_60"></span>[2](#fn_60) mounts
+The cloud, a second Vishnu, <span id="fr_60"></span>[2](#fn_60.md) mounts
 the sky.<span class="margnote">2</span>
 
 </div>
@@ -118,7 +118,7 @@ are very welcome, my friend. Pray be seated.
 *Chārudatta*. What! did she not accept the necklace?
 
 *Maitreya*. How could we expect such a piece of luck? She put her
-lotus-tender hands to her brow, <span id="fr_61"></span>[1](#fn_61) and
+lotus-tender hands to her brow, <span id="fr_61"></span>[1](#fn_61.md) and
 took it.
 
 *Chārudatta*. Then why do you say "went wrong"?
@@ -360,10 +360,10 @@ courtier*.\]
 
 <div style="margin-left: 32px">
 
-Lakshmī <span id="fr_62"></span>[1](#fn_62) without the lotus-flower is
+Lakshmī <span id="fr_62"></span>[1](#fn_62.md) without the lotus-flower is
 she,  
   Loveliest arrow of god Kāma's bow, <span
-id="fr_63"></span>[2](#fn_63)  
+id="fr_63"></span>[2](#fn_63.md)  
 The sweetest blossom on love's magic tree.
 
 See how she moves, so gracefully and slow!  
@@ -407,7 +407,7 @@ class="margnote">14</span>
 
 </div>
 
-*Vasantasenā*. <span id="fr_64"></span>[1](#fn_64) Sir, what you say is
+*Vasantasenā*. <span id="fr_64"></span>[1](#fn_64.md) Sir, what you say is
 most true. For
 
 <div style="margin-left: 32px">
@@ -461,7 +461,7 @@ As dark as elephants, these clouds alone
 With streaks of lightning and with white birds strewn—  
   To wound my wretched heart.  
 But, oh, why should the heron, bird of doom,  
-  With that perfidious sound <span id="fr_65"></span>[1](#fn_65)  
+  With that perfidious sound <span id="fr_65"></span>[1](#fn_65.md)  
 Of "Rain! Rain! Rain!"—grim summons to the tomb  
   For her who spends her lonely hours in gloom—  
 Strew salt upon the wound?<span class="margnote">18</span>
@@ -658,7 +658,7 @@ friend,
 <div style="margin-left: 32px">
 
 This golden cord that trembles on the breast  
-Of great Airāvata; <span id="fr_66"></span>[1](#fn_66) upon the crest  
+Of great Airāvata; <span id="fr_66"></span>[1](#fn_66.md) upon the crest  
   Of rocky hills this banner all ablaze;  
 This lamp in Indra's palace; but most blest  
   As telling where your most belovèd stays.<span
@@ -1039,33 +1039,33 @@ The rainy music rings.<span class="margnote">52</span>
 
 ### Footnotes
 
-<span id="fn_59"></span>[75:1](lcc11.htm#fr_59) In Indian love-poetry,
+<span id="fn_59"></span>[75:1](lcc11.htm#fr_59.md) In Indian love-poetry,
 the rainy season is the time when lovers most ardently long to be
 united.
 
-<span id="fn_60"></span>[75:2](lcc11.htm#fr_60) In allusion to Vishnu's
+<span id="fn_60"></span>[75:2](lcc11.htm#fr_60.md) In allusion to Vishnu's
 name, Krishna, "black."
 
-<span id="fn_61"></span>[77:1](lcc11.htm#fr_61) A gesture of respect.
+<span id="fn_61"></span>[77:1](lcc11.htm#fr_61.md) A gesture of respect.
 
-<span id="fn_62"></span>[81:1](lcc11.htm#fr_62) The goddess of wealth
+<span id="fn_62"></span>[81:1](lcc11.htm#fr_62.md) The goddess of wealth
 and beauty, usually represented with a lotus.
 
-<span id="fn_63"></span>[81:2](lcc11.htm#fr_63) Kāma's (Cupid's) arrows
+<span id="fn_63"></span>[81:2](lcc11.htm#fr_63) Kāma's (Cupid's.md) arrows
 are flowers.
 
-<span id="fn_64"></span>[82:1](lcc11.htm#fr_64) Throughout this scene,
-Vasantasenā's verses are in Sanskrit. Compare note [1](lcc10.htm#fn_57)
-on page [73](lcc10.htm#page_73).
+<span id="fn_64"></span>[82:1](lcc11.htm#fr_64.md) Throughout this scene,
+Vasantasenā's verses are in Sanskrit. Compare note [1](lcc10.htm#fn_57.md)
+on page [73](lcc10.htm#page_73.md).
 
-<span id="fn_65"></span>[83:1](lcc11.htm#fr_65) The cry of the heron
+<span id="fn_65"></span>[83:1](lcc11.htm#fr_65.md) The cry of the heron
 resembles the Sanskrit word for "rain." Indian love-poetry often paints
 the sorrow, even unto death, of her whose belovèd does not return before
 the rainy season.
 
-<span id="fn_66"></span>[86:1](lcc11.htm#fr_66) The elephant of Indra.
+<span id="fn_66"></span>[86:1](lcc11.htm#fr_66.md) The elephant of Indra.
 Indra is the god of the thunderstorm.
 
 ------------------------------------------------------------------------
 
-[Next: Act the Sixth: The Swapping of the Bullock-Carts](lcc12)
+[Next: Act the Sixth: The Swapping of the Bullock-Carts](lcc12.md)

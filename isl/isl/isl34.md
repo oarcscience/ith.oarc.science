@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl33)  [Next](isl35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl33)  [Next](isl35.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,10 +23,10 @@ as a professor in the Niẓāmīya *madrasa* of Baghdad, teaching Shāfi‘ī
 law and writing polemics against the Ismā‘īlīs. Despite his success, he
 entered a period of profound spiritual crisis, where as he says in his
 auto-biographical work *Deliverance from Error*, <span
-id="fr_143"></span>[8](#fn_143) "I examined my motive in my work of
+id="fr_143"></span>[8](#fn_143.md) "I examined my motive in my work of
 teaching, and realized that it was not a pure desire for the things of
 God, but that the impulse moving me was the desire for an influential
-position and public recognition." <span id="fr_144"></span>[9](#fn_144)
+position and public recognition." <span id="fr_144"></span>[9](#fn_144.md)
 
 Following a near breakdown in A.H. 488/A.D. 1095, he quit the world to
 become a wandering Sūfī. After eleven years spent in meditation and
@@ -198,7 +198,7 @@ created man in His own image." . . . And this is the greatest of the
 reasons of Love, and the remotest and rarest of them all . . . and thus
 the reasonable and accepted view among people of insight is that God
 alone is worthy of true love. . . . <span
-id="fr_145"></span>[10](#fn_145)
+id="fr_145"></span>[10](#fn_145.md)
 
  
 
@@ -280,7 +280,7 @@ know who are truthful." The intelligent man knows the truth; then he
 examines the particular assertion. If it is true, than he accepts it,
 whether the speaker is a truthful man or not . . . for he knows that
 gold is found in gravel with dross. <span
-id="fr_146"></span>[11](#fn_146)
+id="fr_146"></span>[11](#fn_146.md)
 
  
 
@@ -333,27 +333,27 @@ believers, and has no intercessor, shall be brought forth of the grace
 of God . . . so there shall not abide eternally in the Fire a single
 believer, but whoever has in his heart the weight of a single grain of
 faith shall be brought forth therefrom. . . . <span
-id="fr_147"></span>[12](#fn_147)
+id="fr_147"></span>[12](#fn_147.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_143"></span>[204:8](isl34.htm#fr_143) Montgomery Watt, *The
+<span id="fn_143"></span>[204:8](isl34.htm#fr_143.md) Montgomery Watt, *The
 Faith and Practice of al-Ghazālī* (London, 1953).
 
-<span id="fn_144"></span>[204:9](isl34.htm#fr_144) *Ibid*., p. 56.
+<span id="fn_144"></span>[204:9](isl34.htm#fr_144.md) *Ibid*., p. 56.
 
-<span id="fn_145"></span>[204:10](isl34.htm#fr_145) *Ihyā 'Ulūm al-Din*
+<span id="fn_145"></span>[204:10](isl34.htm#fr_145.md) *Ihyā 'Ulūm al-Din*
 (Cairo, 1939), Vol. IV, Book 26.
 
-<span id="fn_146"></span>[204:11](isl34.htm#fr_146) Watt, *op. cit.*,
+<span id="fn_146"></span>[204:11](isl34.htm#fr_146.md) Watt, *op. cit.*,
 pp. 35, 38.
 
-<span id="fn_147"></span>[204:12](isl34.htm#fr_147) D. B. MacDonald,
+<span id="fn_147"></span>[204:12](isl34.htm#fr_147.md) D. B. MacDonald,
 *Development of Muslim Theology, Jurisprudence and Constitutional
 Theory* (New York, 1903), pp. 305-307.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Ibn Taymīya](isl35)
+[Next: 6. Ibn Taymīya](isl35.md)

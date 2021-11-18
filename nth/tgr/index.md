@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tgr00)    [Page
-Index](pageidx)    [Text \[Zipped\]](tgr.txt.gz)
+[Contents](#contents)    [Start Reading](tgr00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](tgr.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -75,30 +75,30 @@ the experience. *--J. B. Hare, 7/20/2006*
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](tgr00)  
-[What do you Want Most?](tgr01)  
-[Tributes to the Author](tgr02)  
-[Contents](tgr03)  
-[Publisher's Preface](tgr04)  
-[Author's Preface](tgr05)  
-[Chapter 1. General Introduction.](tgr06)  
-[Chapter 2. Desire (The First Step toward Riches)](tgr07)  
-[Chapter 3. Faith (The Second Step toward Riches)](tgr08)  
-[Chapter 4. Auto-Suggestion (The Third Step toward Riches)](tgr09)  
+<span id="contents"></span> [Title Page](tgr00.md)  
+[What do you Want Most?](tgr01.md)  
+[Tributes to the Author](tgr02.md)  
+[Contents](tgr03.md)  
+[Publisher's Preface](tgr04.md)  
+[Author's Preface](tgr05.md)  
+[Chapter 1. General Introduction.](tgr06.md)  
+[Chapter 2. Desire (The First Step toward Riches)](tgr07.md)  
+[Chapter 3. Faith (The Second Step toward Riches)](tgr08.md)  
+[Chapter 4. Auto-Suggestion (The Third Step toward Riches)](tgr09.md)  
 [Chapter 5. Specialized Knowledge (The Fourth Step toward
-Riches)](tgr10)  
-[Chapter 6. Imagination (The Fifth Step toward Riches)](tgr11)  
-[Chapter 7. Organized Planning (The Sixth Step toward Riches)](tgr12)  
-[Chapter 8. Decision (The Seventh Step toward Riches)](tgr13)  
-[Chapter 9. Persistence (The Eighth Step toward Riches)](tgr14)  
+Riches)](tgr10.md)  
+[Chapter 6. Imagination (The Fifth Step toward Riches)](tgr11.md)  
+[Chapter 7. Organized Planning (The Sixth Step toward Riches)](tgr12.md)  
+[Chapter 8. Decision (The Seventh Step toward Riches)](tgr13.md)  
+[Chapter 9. Persistence (The Eighth Step toward Riches)](tgr14.md)  
 [Chapter 10. Power of the Master Mind (The Ninth Step toward
-Riches)](tgr15)  
+Riches)](tgr15.md)  
 [Chapter 11. The Mystery of Sex Transmutation (The Tenth Step toward
-Riches)](tgr16)  
+Riches)](tgr16.md)  
 [Chapter 12. The Subconscious Mind (The Eleventh Step toward
-Riches)](tgr17)  
-[Chapter 13. The Brain (The Twelfth Step toward Riches)](tgr18)  
+Riches)](tgr17.md)  
+[Chapter 13. The Brain (The Twelfth Step toward Riches)](tgr18.md)  
 [Chapter 14. The Sixth Sense (The Thirteenth Step toward
-Riches)](tgr19)  
-[Chapter 15. How to Outwit the Six Ghosts of Fear](tgr20)  
-[This Standing Army...](tgr21)  
+Riches)](tgr19.md)  
+[Chapter 15. How to Outwit the Six Ghosts of Fear](tgr20.md)  
+[This Standing Army...](tgr21.md)  

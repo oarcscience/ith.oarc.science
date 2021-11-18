@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku01)  [Next](lku03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku01)  [Next](lku03.md) 
 
 ------------------------------------------------------------------------
 
@@ -214,4 +214,4 @@ On the wing of Time, the night is for Kumulipo (creation),
 
 ------------------------------------------------------------------------
 
-[Next: Second Era](lku03)
+[Next: Second Era](lku03.md)

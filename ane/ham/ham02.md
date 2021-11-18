@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](ham01)  [Next](ham03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](ham01)  [Next](ham03.md) 
 
 ------------------------------------------------------------------------
 
@@ -737,4 +737,4 @@ into "the hand of God" as opposed to "the hand of the king."
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](ham03)
+[Next: Bibliography](ham03.md)

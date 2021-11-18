@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index) [The Bible](../index)
+[Intangible Textual Heritage](../../index) [The Bible](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -18,10 +18,10 @@ some programming to turn into a readable version.
 The files contain one verse per line. Line breaks in a verse are
 indicated in some files using tildes. Each line is prefixed by the book,
 verse and chapter, separated by vertical bars. The book abbreviations
-are listed in [the table below](#bibtab).
+are listed in [the table below](#bibtab.md).
 
 The Greek and Hebrew files (Septuagint, Tanach and Greek NT) are in
-UTF-8 format for compactness. There are [code samples](#utf8code) below
+UTF-8 format for compactness. There are [code samples](#utf8code.md) below
 which demonstrate how to convert a sequence of Unicode characters into
 UTF-8 and UTF-8 into HTML entities.
 
@@ -31,18 +31,18 @@ welcome reports of errors or omissions from these files.
 
 ------------------------------------------------------------------------
 
-> [The Apocrypha (apodat.zip)](apodat.zip) 267Kb  
-> [The King James Version (kjvdat.zip)](kjvdat.zip) 1,325Kb  
-> [Greek New Testament (gntdat.zip)](gntdat.zip) 448Kb  
-> [The Septuagint (sept.zip)](sept.zip) 1,797Kb  
-> [The Tanach (tandat.zip)](tandat.zip) 1,506Kb  
-> [The Vulgate (vuldat.zip)](vuldat.zip) 1,524Kb  
+> [The Apocrypha (apodat.zip)](apodat.zip.md) 267Kb  
+> [The King James Version (kjvdat.zip)](kjvdat.zip.md) 1,325Kb  
+> [Greek New Testament (gntdat.zip)](gntdat.zip.md) 448Kb  
+> [The Septuagint (sept.zip)](sept.zip.md) 1,797Kb  
+> [The Tanach (tandat.zip)](tandat.zip.md) 1,506Kb  
+> [The Vulgate (vuldat.zip)](vuldat.zip.md) 1,524Kb  
 
 ------------------------------------------------------------------------
 
 ### Technical specifications
 
-[Tanach transliteration table](tanxlit).
+[Tanach transliteration table](tanxlit.md).
 
 ------------------------------------------------------------------------
 

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj45)  [Next](atfj47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj45)  [Next](atfj47.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_50"></span> <span align="CENTER"> [![50. Jimpachi's
 Miserable Death](tn/50.jpg)  
-Click to enlarge](img/50.jpg)  
+Click to enlarge](img/50.jpg.md)  
 50. Jimpachi's Miserable Death  
 </span>
 
@@ -168,6 +168,6 @@ days, and after his death the flies disappeared completely.
 
 ------------------------------------------------------------------------
 
-[Next: XLV. The Chrysanthemum Hermit](atfj47)
+[Next: XLV. The Chrysanthemum Hermit](atfj47.md)
 
 </div>

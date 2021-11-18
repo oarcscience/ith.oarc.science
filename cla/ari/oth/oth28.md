@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth27)  [Next](oth29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth27)  [Next](oth29.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ extra-corporeal void must be admitted.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](oth29)
+[Next: Chapter 3](oth29.md)

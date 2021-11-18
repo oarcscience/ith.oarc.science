@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth041)  [Next](toth043) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth041)  [Next](toth043.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 39. THE TWO PUEBLO MAIDENS WHO WERE MARRIED TO THE NIGHT. <span id="fr_100"></span>[1](#fn_98)
+## 39. THE TWO PUEBLO MAIDENS WHO WERE MARRIED TO THE NIGHT. <span id="fr_100"></span>[1](#fn_98.md)
 
 Halíksai! In Kawaíhkaa, a Pueblo village in New Mexico, the people were
 living. North of the plaza, at the house where there was a long ladder,
@@ -118,7 +118,7 @@ they set food before them and fed them. The grandmother was crying. When
 they had eaten, sure enough, they were asked to playa game with them.
 "If they are our grandchildren," they said, "they will know something."
 So the grandfather laid out a flat stone on which was drawn a
-tû'kwnanawöhpi. <span id="fr_101"></span>[1](#fn_99) The grandfather sat
+tû'kwnanawöhpi. <span id="fr_101"></span>[1](#fn_99.md) The grandfather sat
 on one side, the boy at the other end, and then they began to play. The
 boy won the game. "Very well," the grandfather said, "there at the top
 of the ladder something is wrapped up. You guess what that is. If you
@@ -173,12 +173,12 @@ this way now they had no children.
 
 ### Footnotes
 
-<span id="fn_98"></span>[143:1](toth042.htm#fr_100) Told by Lománömtiwa
+<span id="fn_98"></span>[143:1](toth042.htm#fr_100.md) Told by Lománömtiwa
 (Oraíbi).
 
-<span id="fn_99"></span>[145:1](toth042.htm#fr_101) A game resembling
+<span id="fn_99"></span>[145:1](toth042.htm#fr_101.md) A game resembling
 our checkers.
 
 ------------------------------------------------------------------------
 
-[Next: 40. How Hiyónatitiwa Defeated the Plan of His Enemies](toth043)
+[Next: 40. How Hiyónatitiwa Defeated the Plan of His Enemies](toth043.md)

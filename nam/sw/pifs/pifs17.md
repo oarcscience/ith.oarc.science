@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs16)  [Next](pifs18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs16)  [Next](pifs18.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ rabbit, sat at the door of his house, thinking.
 but we have no tails. Perhaps if we had tails like yours, we could run
 straight; but now we have to hop."
 
-"It is true, *ah-bóo*," <span id="fr_56"></span>[1](#fn_56) said the
+"It is true, *ah-bóo*," <span id="fr_56"></span>[1](#fn_56.md) said the
 Coyote, not knowing that the Rabbit laughed in his heart. "For I can run
 faster than any one, and never did any gain from me in the foot-races.
 But *you*,--you just hop like a bird."
@@ -35,7 +35,7 @@ Pee-oo-ée-deh, let us run a race. We will run around the world, and see
 <span id="page_100">p. 100</span>
 
 who will win. And whichever shall come in first, he shall kill the other
-and eat him." <span id="fr_57"></span>[1](#fn_57)
+and eat him." <span id="fr_57"></span>[1](#fn_57.md)
 
 "It is well," answered the Rabbit. "In four days we will run."
 
@@ -46,13 +46,13 @@ not, for we will be the ones that will help you."
 
 When the fourth day came, the Coyote arrived smiling, and threw down his
 blanket, and stood ready in only the dark blue *taparabo*, <span
-id="fr_58"></span>[2](#fn_58) saying: "But what is the use to run? For I
+id="fr_58"></span>[2](#fn_58.md) saying: "But what is the use to run? For I
 shall win. It is better that I eat you now, before you are tired."
 
 But the Rabbit threw off his blanket, and tightened his *taparabo*, and
 said: "Pooh! For the end of the race is far away, and *there* is time to
 talk of eating. Come, we will run around the four sides of the
-world. <span id="fr_59"></span>[3](#fn_59) But I shall run underground,
+world. <span id="fr_59"></span>[3](#fn_59.md) But I shall run underground,
 for so it is easier for me."
 
 Then they stood up side by side. And when they were ready, the Capitan
@@ -124,20 +124,20 @@ tired!
 
 ### Footnotes
 
-<span id="fn_56"></span>[99:1](pifs17.htm#fr_56) Poor thing.
+<span id="fn_56"></span>[99:1](pifs17.htm#fr_56.md) Poor thing.
 
-<span id="fn_57"></span>[100:1](pifs17.htm#fr_57) A challenge of this
+<span id="fn_57"></span>[100:1](pifs17.htm#fr_57.md) A challenge of this
 sort, with life as the stake, was very common among all Indians; and it
 was impossible for the challenged to decline. This story recalls that of
 the Antelope Boy. Four days always elapsed between the challenge and the
 race.
 
-<span id="fn_58"></span>[100:2](pifs17.htm#fr_58) Breech-clout, which is
+<span id="fn_58"></span>[100:2](pifs17.htm#fr_58.md) Breech-clout, which is
 the only thing worn in a foot-race.
 
-<span id="fn_59"></span>[100:3](pifs17.htm#fr_59) Which the Pueblos
+<span id="fn_59"></span>[100:3](pifs17.htm#fr_59.md) Which the Pueblos
 believe to be flat and square.
 
 ------------------------------------------------------------------------
 
-[Next: XV. Honest Big-Ears](pifs18)
+[Next: XV. Honest Big-Ears](pifs18.md)

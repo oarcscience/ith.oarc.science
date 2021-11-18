@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl50)  [Next](hpl52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl50)  [Next](hpl52.md) 
 
 ------------------------------------------------------------------------
 
@@ -477,4 +477,4 @@ elder towers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](hpl52)
+[Next: Chapter 5](hpl52.md)

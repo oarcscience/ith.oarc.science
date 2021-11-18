@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm09)  [Next](tgm11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm09)  [Next](tgm11.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ his quiet, peaceful way.
 <span id="img_04100"></span>
 
 [![](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)
+Click to enlarge](img/04100.jpg.md)
 
  
 
@@ -107,4 +107,4 @@ your money than that Hillel should lose his patience."
 
 ------------------------------------------------------------------------
 
-[Next: 8. Torah On One Foot](tgm11)
+[Next: 8. Torah On One Foot](tgm11.md)

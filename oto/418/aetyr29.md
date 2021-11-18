@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
-# **The Cry of the 29th Aethyr, Which is Called RII**[**1**](#1)
+# **The Cry of the 29th Aethyr, Which is Called RII**[**1**](#1.md)
 
 The sky appears covered with stars of gold; the background is of green.
 But the impression is also of darkness.
 
 An immense eagle-angel is before me. His wings seem to hide all the
-Heaven[**2**](#2).
+Heaven[**2**](#2.md).
 
 He cried aloud saying: The Voice of the Lord upon the Waters: the Terror
 of God upon Mankind. The voice of the Lord maketh the Skies to tremble:
@@ -26,7 +26,7 @@ Close we our ears, lest we hear the cry of Woman.
 Let none speak of it: let none write it: I, I am troubled, my eyes are
 moist with dews of terror: surely the Bitterness of Death is past.
 
-And I turned me to the South and lo! a great lion[**3**](#3) as wounded
+And I turned me to the South and lo! a great lion[**3**](#3.md) as wounded
 and perplexed.
 
 He cried: I have conquered! Let the Sons of Earth keep silence; for my
@@ -36,7 +36,7 @@ When will men learn the Mysteries of Creation?
 
 How much more those of the Dissolution (and the Pang of Fire)?
 
-I turned me to the West and there was a great Bull[**4**](#4); White
+I turned me to the West and there was a great Bull[**4**](#4.md); White
 with horns of White and Black and Gold. His mouth was scarlet and his
 eyes as Sapphire stones. With a great sword he shore the skies asunder,
 and amid the silver flashes of the steel grew lightnings and deep clouds
@@ -59,7 +59,7 @@ Throne is crusted over with white Brilliant Stars, a lustre of bright
 gems.
 
 In the North is a Man upon a Great Horse, having a Scourge and
-Balances[**5**](#5) in his hand (or a long spear glitters at his back or
+Balances[**5**](#5.md) in his hand (or a long spear glitters at his back or
 in his hand). He is clothed in black velvet and his face is stern and
 terrible.
 
@@ -73,7 +73,7 @@ universe.
 
 And all are sucked down one by one, as necessity hath ordained. For
 below is a glittering jewelled globe of gold and azure, set in a World
-of Stars[**6**](#6).
+of Stars[**6**](#6.md).
 
 And there came a Voice from the Abyss, saying: "Thou seest the Current
 of Destiny! Canst thou change one atom in its path? I am Destiny. Dost
@@ -98,7 +98,7 @@ Light is consumed as a child in the Womb of its Mother to develop itself
 anew. But pain and sorrow infinite, and darkness are invoked. For this
 child riseth up within his Mother and doth crucify himself within her
 bosom. He extendeth his arms in the arms of his Mother and the Light
-becometh fivefold[**7**](#7).
+becometh fivefold[**7**](#7.md).
 
 Lux in Luce,
 
@@ -108,7 +108,7 @@ Tarot and Mezla.
 
 Deo Duce
 
-Sempiterno[**8**](#8).
+Sempiterno[**8**](#8.md).
 
 And be the glory for ever and ever unto the Most High God, Amen!
 
@@ -116,20 +116,20 @@ Then I returned within my body, giving glory unto the Lord of Light and
 of the Darkness. In Saecula Saeculorum. Amen!
 
 (On composing myself to sleep, I was shewn an extremely brilliant
-{HEB:Dalet}[**9**](#9) in the Character of the Passing of the River, in
+{HEB:Dalet}[**9**](#9.md) in the Character of the Passing of the River, in
 an egg of white light. And I take this as the best of Omens. The letter
 was extremely vivid and indeed apparently physical. Almost a Dhyana.)
 
 November 17, 1900, Die.
 
-A NOTE[**10**](#10)
+A NOTE[**10**](#10.md)
 
 Concerning the thirty Aethyrs:
 
 The Visions of the 29th and 30th Aethyrs were given to me in Mexico in
-August[**11**](#11), 1900, and I am now (23.11.9) trying to get the
+August[**11**](#11), 1900, and I am now (23.11.9.md) trying to get the
 rest. It is to be remarked that the last three aethyrs have ten angels
-attributed to them[**12**](#12), and they therefore represent the ten
+attributed to them[**12**](#12.md), and they therefore represent the ten
 Sephiroth. Yet these ten form but one, a Malkuth-pendant to the next
 three, and so on, each set being, as it were, absorbed in the higher.
 The last set consists, therefore, of the first three aethyrs with the
@@ -199,4 +199,4 @@ Amen.
 
 ------------------------------------------------------------------------
 
-> [**Back to Liber 418**](418)
+> [**Back to Liber 418**](418.md)

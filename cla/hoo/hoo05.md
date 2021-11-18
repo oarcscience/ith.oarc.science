@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo04)  [Next](hoo06) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo04)  [Next](hoo06.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ ORPHEUS.
 
 <span id="page_109">p. 109</span>
 
-### TO MUSÆUS  <span id="fr_42"></span>[\*](#fn_42)
+### TO MUSÆUS  <span id="fr_42"></span>[\*](#fn_42.md)
 
 ATTEND Musæus to my sacred song,  
 And learn what rites to sacrifice belong.  
@@ -84,7 +84,7 @@ These with propitious aid I gently call;
 And to my holy sacrifice invite,  
 The pow'r who reigns in deepest hell and night;  
 I call Einodian Hecate, lovely dame, 55  <span
-id="fr_43"></span>[55](#fn_43)  
+id="fr_43"></span>[55](#fn_43.md)  
 Of earthly, wat'ry, and celestial frame,  
 Sepulchral, in a saffron veil array'd,  
 Pleas'd with dark ghosts that wander thro' the shade;
@@ -92,7 +92,7 @@ Pleas'd with dark ghosts that wander thro' the shade;
 <span id="page_114">p. 114</span>
 
 Persian, unconquerable huntress hail!  <span
-id="fr_44"></span>[59](#fn_44)  
+id="fr_44"></span>[59](#fn_44.md)  
 The world's key-bearer never doom'd to fail 60  
 On the rough rock to wander thee delights,  
 Leader and nurse be present to our rites  
@@ -103,7 +103,7 @@ Accept our homage, and the incense bless.
 
 ### Footnotes
 
-<span id="fn_42"></span>[109:\*](hoo05.htm#fr_42) As these Hymns, though
+<span id="fn_42"></span>[109:\*](hoo05.htm#fr_42.md) As these Hymns, though
 full of the most recondite antiquity, have never yet been commented on
 by any one, the design of the following notes, is to elucidate, as much
 as possible, their concealed meaning, and evince their agreement with
@@ -176,13 +176,13 @@ causes revolve and produce the powers placed in their essences, yet are
 neither moved through the egression of secondaries, nor diminished by
 their separation, nor divided by the laceration of inferiors.
 
-<span id="fn_43"></span>[113:55](hoo05.htm#fr_43) Ver. 55.\] Jo Diac.
+<span id="fn_43"></span>[113:55](hoo05.htm#fr_43.md) Ver. 55.\] Jo Diac.
 Allegor. and Hesiodi Theog. p. 268. cites this line, upon which, and
 hymn lxxi. 3. he observes, Εὑρίσκω, τὸν Ὀξφέα καὶ τὴν ΤΥΧΗΝ ἈΡΤΕΜΙΝ
 προταγορεύοτα, αλλὰ καὶτη ΣΕΛΗΝΗΝ ΕΚΑΤΗΝ, i.e. "I find that Orpheus
 calls Fortune Artremis, or Diana, and also the Moon, Hecate."
 
-<span id="fn_44"></span>[114:59](hoo05.htm#fr_44) Ver. 59.\] Diodorus
+<span id="fn_44"></span>[114:59](hoo05.htm#fr_44.md) Ver. 59.\] Diodorus
 informs us that Diana, who is to be understood by this epithet, was very
 much worshipped by the Persians, and that this goddess was called Persæa
 in his Time. See more concerning this epithet in Gyrald. Syntag. ii. p.
@@ -190,4 +190,4 @@ in his Time. See more concerning this epithet in Gyrald. Syntag. ii. p.
 
 ------------------------------------------------------------------------
 
-[Next: I. To the Goddess Prothyræa](hoo06)
+[Next: I. To the Goddess Prothyræa](hoo06.md)

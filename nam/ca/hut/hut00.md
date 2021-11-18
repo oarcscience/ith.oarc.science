@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Next](hut01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Next](hut01.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ American](../../index)  [California](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Contents](hut01)
+[Next: Contents](hut01.md)

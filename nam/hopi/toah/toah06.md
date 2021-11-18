@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah05)  [Next](toah07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah05)  [Next](toah07.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ them to take along. Of course each of them had quite a number of people
 besides just their families.
 
 On the fourth day all the tribes came together--Navajo, Supai, Paiute,
-Apache, Zuni, Utes and the Bahana. [14](toah24.htm#xref_14) When they
+Apache, Zuni, Utes and the Bahana. [14](toah24.htm#xref_14.md) When they
 came up, the chief had all the different kinds of seeds of corn and
 grain, of melon and fruit, laid out for them to choose. Then he asked
 the different tribes to step forward and take their choice.
@@ -134,7 +134,7 @@ faster because on account of the children they were getting behind. So
 the Spider Woman asked them if they would like something to ride on so
 they wouldn't have to travel on foot, and they said they would.
 
-"Well," [she](errata.htm#1) said, "I can make you a tame animal" that
+"Well," [she](errata.htm#1.md) said, "I can make you a tame animal" that
 would carry your stuff and probably you can have him pack your things
 and you can walk behind him. If you don't carry any thing on your back
 you might travel faster."
@@ -214,4 +214,4 @@ country they built homes and made pottery.
 ------------------------------------------------------------------------
 
 [Next: Chapter V. How the Hopi Selected Shung-opovi For Their
-Home](toah07)
+Home](toah07.md)

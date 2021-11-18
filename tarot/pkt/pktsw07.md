@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktsw08)  [Next](pktsw06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktsw08)  [Next](pktsw06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Seven
 
 <span id="img_sw07"></span> <span align="CENTER"> [![](tn/sw07.jpg)  
-Click to enlarge](img/sw07.jpg)</span>
+Click to enlarge](img/sw07.jpg.md)</span>
 
 A man in the act of carrying away five swords rapidly; the two others of
 the card remain stuck in the ground. A camp is close at hand.
@@ -31,4 +31,4 @@ other. *Reversed*: Good advice, counsel, instruction, slander, babbling.
 
 ------------------------------------------------------------------------
 
-[Next: Six of Swords](pktsw06)
+[Next: Six of Swords](pktsw06.md)

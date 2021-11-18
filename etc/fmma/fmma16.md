@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma15)  [Next](fmma17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma15)  [Next](fmma17.md) 
 
 ------------------------------------------------------------------------
 
@@ -271,4 +271,4 @@ the Norman nobles with their French language and customs.
 
 ------------------------------------------------------------------------
 
-[Next: Alfred The Great. King From 871-901 A.D.](fmma17)
+[Next: Alfred The Great. King From 871-901 A.D.](fmma17.md)

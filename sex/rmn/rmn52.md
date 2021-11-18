@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn51)  [Next](rmn53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn51)  [Next](rmn53.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ In this painting, of which the style is tolerably good, it may be
 remarked that both the actors are turning their heads in the same
 direction, and it is easy to perceive in their looks an expression of
 surprise and fear: it may be guessed that an untimely witness is
-approaching to interrupt them. <span id="fr_50"></span>[1](#fn_50) This
+approaching to interrupt them. <span id="fr_50"></span>[1](#fn_50.md) This
 circumstance recalls to mind the lines in which Horace paints, the
 happiness and tranquillity he enjoyed in the country:--
 
@@ -76,12 +76,12 @@ courtezan who had concluded the same bargain with two lovers.
 <span id="page_102">p. 102</span>
 
 "Contrary to the decree of the law, you have received money from
-several." <span id="fr_51"></span>[1](#fn_51)
+several." <span id="fr_51"></span>[1](#fn_51.md)
 
 "Diabolus, the son of Glaucus, has given in free gift to Cleeretes
 twenty mines of silver, in order that Philenia \[his daughter, a
 courtezan\] may pass with him. and with no one else soever, her days and
-nights during this year." <span id="fr_52"></span>[2](#fn_52)
+nights during this year." <span id="fr_52"></span>[2](#fn_52.md)
 
 The courtezans only traded in their charms during the night, while the
 prostitutes remained at their doors, both day and night, to attract
@@ -107,13 +107,13 @@ the Roman ladies, who did not blush at being jealous of them, took a
 brilliant revenge during the reign of the infamous Heliogabalus. This
 mad youth as even bold enough to enrol himself among them, and the
 example found numerous imitators of both sexes. <span
-id="fr_53"></span>[3](#fn_53)
+id="fr_53"></span>[3](#fn_53.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_50"></span>[100:1](rmn52.htm#fr_50) Fausta, the infamous
+<span id="fn_50"></span>[100:1](rmn52.htm#fr_50.md) Fausta, the infamous
 sister of the famous Lucullus, had espoused Milo, whom the murder of
 Clodius and the speech of Cicero have rendered celebrated. Sallust, the
 historian, was the lover, or rather one of the lovers, of this woman.
@@ -121,13 +121,13 @@ Milo, having surprised them in the very act, had a hundred stripes
 administered to Sallust, and did not let him till he had extracted from
 him a large sum of money.
 
-<span id="fn_51"></span>[102:1](rmn52.htm#fr_51) *Truculentus*, Act iv.
+<span id="fn_51"></span>[102:1](rmn52.htm#fr_51.md) *Truculentus*, Act iv.
 sc. 2.
 
-<span id="fn_52"></span>[102:2](rmn52.htm#fr_52) PLAUTUS, Asinarius, Act
+<span id="fn_52"></span>[102:2](rmn52.htm#fr_52.md) PLAUTUS, Asinarius, Act
 iv. sc. 1.
 
-<span id="fn_53"></span>[102:3](rmn52.htm#fr_53) SUETONIUS, *passim*,
+<span id="fn_53"></span>[102:3](rmn52.htm#fr_53.md) SUETONIUS, *passim*,
 PETRONIUS, cap. xl. TACITUS, *Annal*. TURNEL, *Advers*., <span
 id="page_103">p. 103</span> xvi. 19. C. LAURENT, *de Adult. et Meret*.
 cap. ii. BRISSON, *Antiq. celest*. FERRAR, *de Re Vestiar*, lib. I.,
@@ -136,4 +136,4 @@ le Theatre des Latins*, &c.
 
 ------------------------------------------------------------------------
 
-[Next: Plate LII: Spinthria](rmn53)
+[Next: Plate LII: Spinthria](rmn53.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Next](mrad01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Next](mrad01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -38,16 +38,16 @@ required by law at the time.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](mrad01)
+[Next: Introduction](mrad01.md)

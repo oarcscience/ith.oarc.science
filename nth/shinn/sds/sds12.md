@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Shinn](../index)  [Index](index) 
-[Previous](sds11)  [Next](sds13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Shinn](../index)  [Index](index.md) 
+[Previous](sds11)  [Next](sds13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ things, which thou knowest not."
 
 ------------------------------------------------------------------------
 
-[Next: Rivers In The Desert](sds13)
+[Next: Rivers In The Desert](sds13.md)

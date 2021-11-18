@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc016) 
-[Next](motc018) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc016.md) 
+[Next](motc018.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ got away.
 
 ------------------------------------------------------------------------
 
-[Next: 18. Why The Possum's Tail Is Bare](motc018)
+[Next: 18. Why The Possum's Tail Is Bare](motc018.md)

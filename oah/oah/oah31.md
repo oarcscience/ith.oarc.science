@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah30)  [Next](oah32) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah30)  [Next](oah32.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ name of Jehovih.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI](oah32)
+[Next: Chapter XVI](oah32.md)

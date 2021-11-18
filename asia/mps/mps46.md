@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps45) 
-[Next](mps47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps45.md) 
+[Next](mps47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -246,4 +246,4 @@ we owe her a due recompense."
 ------------------------------------------------------------------------
 
 [Next: XLIV. The Going of Tariel to the King of the Seas and to
-P’hridon's](mps47)
+P’hridon's](mps47.md)

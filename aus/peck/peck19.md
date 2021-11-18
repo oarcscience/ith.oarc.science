@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck18)  [Next](peck20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck18)  [Next](peck20.md) 
 
 ------------------------------------------------------------------------
 
@@ -212,4 +212,4 @@ be burnt and so this knowledge gave rise to the legend written here.
 
 ------------------------------------------------------------------------
 
-[Next: Why Leaves Fall](peck20)
+[Next: Why Leaves Fall](peck20.md)

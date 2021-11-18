@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Baha'i](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](sog05) 
-[Next](sog07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Baha'i](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](sog05.md) 
+[Next](sog07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Splendour of God*, by Eric Hammond, \[1909\], at Intangible Textual
 Heritage
 
@@ -146,7 +146,7 @@ generally recognised chief of the movement. Disciples formerly calling
 themselves "Babis," adopted the title "Bahais."
 
 The main motive of Baha‘u‘llah's mission was that of "establishing peace
-and religious unity <span id="fr_1"></span>[1](#fn_1) in the world."
+and religious unity <span id="fr_1"></span>[1](#fn_1.md) in the world."
 
 Baha‘u‘llah "declared Himself" in 1863. Having journeyed with them to
 Baghdad, we must accompany him and his people farther still. Fear took
@@ -167,7 +167,7 @@ unity, the abandonment of injustice, and the abolition of warlike
 practices. Adrianople was not permitted to contain him long. He and his
 friends were finally sentenced to exile at Acca (Acre) in Syria,
 actually a penal colony north of Mount Carmel, <span
-id="fr_2"></span>[1](#fn_2) a place dreaded for its pestilential
+id="fr_2"></span>[1](#fn_2.md) a place dreaded for its pestilential
 atmosphere and its inaccessibility. The thought that fever might
 speedily attack and slay the Prophet bred a hopeful joy in his
 persecutors’ minds. They arranged, with considerable cruelty, that "the
@@ -178,7 +178,7 @@ years.
 The indictment leading to this severity comprised many misdemeanours.
 These God-fearing, God-seeking souls were accused as murderers and
 thieves. They were branded as Nihilists. <span
-id="fr_3"></span>[2](#fn_3) Liberty, freedom of any sort, was forbidden
+id="fr_3"></span>[2](#fn_3.md) Liberty, freedom of any sort, was forbidden
 them. Of a truth they "endured hardships, as good soldiers" of the Cause
 that was, for them, far
 
@@ -266,7 +266,7 @@ holy trans-
 formation. Men of one creed grasped the hands of those of another creed.
 Religious fraternity, experienced in the heart, became visibly manifest
 in the life. The head followed where the heart led. <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
 Under the holy influence of Baha‘u‘llah, his followers rejoiced in
 putting the Brotherhood of the race into everyday practice. In all
@@ -479,23 +479,23 @@ which The Bab and Baha \`u lah had preached and prayed for.
 
 ### Footnotes
 
-<span id="fn_1"></span>[29:1](sog06.htm#fr_1) "He called to men of every
+<span id="fn_1"></span>[29:1](sog06.htm#fr_1.md) "He called to men of every
 creed and race to come under the standard of Unity which he had
 upraised, and assist him in establishing the Kingdom of God and the
 Brotherhood of Man upon the earth."—<span class="smallcaps">S.
 Sprague</span>.
 
-<span id="fn_2"></span>[30:1](sog06.htm#fr_2) "Here in the land of Zion
+<span id="fn_2"></span>[30:1](sog06.htm#fr_2.md) "Here in the land of Zion
 and Carmel, where 'the coming' in this latter day has been told of all
 the prophets, Baha‘u‘llah lived and taught, many travelling from great
 distances to hear him, while others received teaching from his
 writings."—<span class="smallcaps">C. M. Rémey</span>.
 
-<span id="fn_3"></span>[30:2](sog06.htm#fr_3) "The charge to the
+<span id="fn_3"></span>[30:2](sog06.htm#fr_3.md) "The charge to the
 Governor stated that they were . . . Nihilists."—<span
 class="smallcaps">Ethel J. Rosenberg</span>.
 
-<span id="fn_4"></span>[34:1](sog06.htm#fr_4) "I found that this faith"
+<span id="fn_4"></span>[34:1](sog06.htm#fr_4.md) "I found that this faith"
 (Bahaism) "does not expend itself in beautiful and unfruitful theories,
 but has a vital and effective power to mould life towards the very
 highest ideal of human character."—<span class="smallcaps">Professor G.
@@ -509,6 +509,6 @@ hath no man than this,'"—<span class="smallcaps">Sydney Sprague</span>.
 
 ------------------------------------------------------------------------
 
-[Next: Abdul Baha: ''The Servant of God''](sog07)
+[Next: Abdul Baha: ''The Servant of God''](sog07.md)
 
 </div>

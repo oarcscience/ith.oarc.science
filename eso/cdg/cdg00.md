@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Next](cdg01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Next](cdg01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -48,25 +48,25 @@ of attribution is left intact in all copies.
 
 <span id="img_cover"></span> <span align="CENTER"> [![Front Cover and
 Spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover and Spine  
 </span>
 
 <span id="img_endp"></span> <span align="CENTER"> [![End
 Papers](tn/endp.jpg)  
-Click to enlarge](img/endp.jpg)  
+Click to enlarge](img/endp.jpg.md)  
 End Papers  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_front"></span> <span align="CENTER">
 [![Frontispiece](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece  
 </span>
 
@@ -75,7 +75,7 @@ Flame in and about the God-enlightened man. When governed and directed
 upward this Flame becomes the instrument which the soul uses to build up
 its deathless Solar or Spiritual Body*.
 
-*Compare Note [XXXVI](cdg05.htm#fn_49), page [50](cdg05.htm#page_50)*.
+*Compare Note [XXXVI](cdg05.htm#fn_49), page [50](cdg05.htm#page_50.md)*.
 
 <span id="page_vii">p. vii</span>
 
@@ -85,7 +85,7 @@ INVOCATION TO THE FLAME.
 
 |                      |
 |----------------------|
-| ![I](img/_00700.jpg) |
+| ![I](img/_00700.jpg.md) |
 
 CALL UPON THEE, O LIVING GOD, RADIANT WITH ILLUMINATING FIRE. O UNSEEN
 PARENT OF THE SUN! POUR FORTH THY LIGHT GIVING POWER AND ENERGISE THY
@@ -125,13 +125,13 @@ of God's Omnipotence and Justice.
 <span id="img__00800"></span> <span align="CENTER"> [![&lt;i&gt;The
 Polish Rider, by courtesy of the Berlin Photographic Company, London and
 New York&lt;/i&gt;.](tn/_00800.jpg)  
-Click to enlarge](img/_00800.jpg)  
+Click to enlarge](img/_00800.jpg.md)  
 *The Polish Rider, by courtesy of the Berlin Photographic Company,
 London and New York*.  
 </span>
 
 "*A nobleman of high rank and a great Cabalist, whose lands lie towards
-the frontiers of Poland*." PAGE [9](cdg04.htm#page_9).
+the frontiers of Poland*." PAGE [9](cdg04.htm#page_9.md).
 
 PAINTED BY
 
@@ -141,4 +141,4 @@ Rembrandt,
 
 ------------------------------------------------------------------------
 
-[Next: The Book](cdg01)
+[Next: The Book](cdg01.md)

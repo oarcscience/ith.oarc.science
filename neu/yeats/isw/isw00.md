@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Next](isw01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Next](isw01.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ IDEAS OF GOOD AND EVIL</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: In the Seven Woods](isw01)
+[Next: In the Seven Woods](isw01.md)

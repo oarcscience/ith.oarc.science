@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw10) [Next](scw12)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw10) [Next](scw12.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -629,4 +629,4 @@ Hast thou not given Thyself, still hast Thou given me naught.<br />
 
 ------------------------------------------------------------------------
 
-[Next](scw12)
+[Next](scw12.md)

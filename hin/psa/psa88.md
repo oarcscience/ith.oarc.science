@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa87)  [Next](psa89) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa87)  [Next](psa89.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ the organs of action and perception, of the mind, soul, religious and
 moral merit, wealth, desire and salvation, constantly remains in a
 passionless form, without human qualities, but when he creates the
 world, he is possessed of all qualities, and assumes his own natural
-form; for this reason, that one [deity](errata.htm#28) is both without,
+form; for this reason, that one [deity](errata.htm#28.md) is both without,
 and with passions and qualities.
 
 Having thus said, Shookdeo, the sage, added, Raja! Narud Jee on one
@@ -101,4 +101,4 @@ the same merit in reciting and hearing this history.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXXVIII](psa89)
+[Next: Chapter LXXXVIII](psa89.md)

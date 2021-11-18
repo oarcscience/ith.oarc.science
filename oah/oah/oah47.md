@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah46)  [Next](oah48) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah46)  [Next](oah48.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ can arouse them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](oah48)
+[Next: Chapter V](oah48.md)

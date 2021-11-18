@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe07) 
-[Next](ioe09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe07.md) 
+[Next](ioe09.md) 
 
 ------------------------------------------------------------------------
 
@@ -434,7 +434,7 @@ for the purposes of the present sketch, it is thought well to supply the
 following brief summary in more accurate form for use in reference.
 
 The Asuka Period.--Lasted from the introduction of
-[Buddhism](errata.htm#0) in 552 to the accession of the Emperor Tenji,
+[Buddhism](errata.htm#0.md) in 552 to the accession of the Emperor Tenji,
 667 A.D. This era in Japan is much influenced by the great vigour of
 Buddhism in China, under the Tâng dynasty.
 
@@ -482,4 +482,4 @@ Vajrapani, holder of the thunderbolt.
 
 ------------------------------------------------------------------------
 
-[Next: The Nara Period: 700 to 800 A.D.](ioe09)
+[Next: The Nara Period: 700 to 800 A.D.](ioe09.md)

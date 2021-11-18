@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,15 +16,15 @@
 
 ### The Story of Mormonism
 
-[Title Page](som00)  
-[Preface](som01)  
-[Chapter I](som02)  
-[Chapter II](som03)  
-[Chapter III](som04)  
-[Chapter IV](som05)  
-[Chapter V](som06)  
+[Title Page](som00.md)  
+[Preface](som01.md)  
+[Chapter I](som02.md)  
+[Chapter II](som03.md)  
+[Chapter III](som04.md)  
+[Chapter IV](som05.md)  
+[Chapter V](som06.md)  
 
 ### The Philosophy Of Mormonism
 
-[Chapter I](som07)  
-[Chapter II](som08)  
+[Chapter I](som07.md)  
+[Chapter II](som08.md)  

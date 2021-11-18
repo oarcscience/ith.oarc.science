@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](eoc03)  [Next](eoc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](eoc03)  [Next](eoc05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410203565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410203565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Ethics of Confucius*, by Miles Menander Dawson, \[1915\], at
 Intangible Textual Heritage
 
@@ -73,4 +73,4 @@ numbers of his followers.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](eoc05)
+[Next: Contents](eoc05.md)

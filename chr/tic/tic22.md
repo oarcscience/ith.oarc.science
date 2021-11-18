@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic21)  [Next](tic23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic21)  [Next](tic23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ grace. 14. Fear caused by this favour*.
 
 1\. THERE is another form of rapture, which, though essentially the same
 as the last, yet produces very different feelings in the soul. I call it
-the 'flight of the spirit,' <span id="fr_287"></span>[1](#fn_287) for
+the 'flight of the spirit,' <span id="fr_287"></span>[1](#fn_287.md) for
 the soul suddenly feels so rapid a sense of motion that the spirit
 appears to hurry it away with a speed which is very alarming, especially
 at first. Therefore I said that the soul on whom God bestows this favour
@@ -45,7 +45,7 @@ as we
 
 <span id="page_199">p. 199</span>
 
-read, even the body rises with it? <span id="fr_288"></span>[2](#fn_288)
+read, even the body rises with it? <span id="fr_288"></span>[2](#fn_288.md)
 She does not know where the spirit is going, who is raising her, nor how
 it happens; for at the first instant of this sudden movement one does
 not feel sure it is caused by God. Can it possibly be resisted? No;
@@ -59,17 +59,17 @@ seen); she yielded herself into the hands of Him who is Almighty, seeing
 it is best to make a virtue of necessity. Speaking of straw, doubtless
 it is as easy for a stalwart, strapping fellow to lift a straw as for
 our mighty and powerful Giant to elevate our spirit. <span
-id="fr_289"></span>[3](#fn_289)
+id="fr_289"></span>[3](#fn_289.md)
 
 3\. It seems that the cistern of water of which I spoke (but I cannot
 quite remember where) in the fourth mansion, <span
-id="fr_290"></span>[4](#fn_290) was formerly filled gently and
+id="fr_290"></span>[4](#fn_290.md) was formerly filled gently and
 
 <span id="page_200">p. 200</span>
 
 quietly, without any movement; but now this great God Who restrains the
 springs and the waters and will not permit the ocean to transgress its
-bounds, <span id="fr_291"></span>[5](#fn_291) lets loose the streams,
+bounds, <span id="fr_291"></span>[5](#fn_291.md) lets loose the streams,
 which with a powerful rush flow into the cistern and a mighty wave
 rises, strong enough to uplift on high the little vessel of our soul.
 Neither the ship herself nor her pilot and sailors can at their choice
@@ -89,7 +89,7 @@ sublime a manner to strive with all their might not to displease such a
 Master! In His Name I beg of you, sisters, who have received these or
 the like favours, not to rest content with merely receiving them but to
 remember that she who owes much has much to pay. <span
-id="fr_292"></span>[6](#fn_292)
+id="fr_292"></span>[6](#fn_292.md)
 
 5\. This thought terrifies the soul exceedingly:
 
@@ -111,7 +111,7 @@ a crucifix in great affliction on this account, for she felt she had
 never had anything to offer God nor to sacrifice for His sake. The
 Crucified One consoled her by saying that He gave her for herself all
 the pains and labours He had borne in His passion, that she might offer
-them as her own to His Father. <span id="fr_293"></span>[7](#fn_293) I
+them as her own to His Father. <span id="fr_293"></span>[7](#fn_293.md) I
 learnt from her that she at once felt comforted and enriched by these
 words which she never forgets but recalls whenever she realizes her own
 wretchedness and feels encouraged and consoled. I could relate several
@@ -126,7 +126,7 @@ imagine they relate to myself.
 shows that we please our Lord by self-knowledge, by the constant
 recollection of our poverty and miseries, and by realizing that we
 possess nothing but what we have received from Him. <span
-id="fr_294"></span>[8](#fn_294) Therefore courage is needed, sisters, in
+id="fr_294"></span>[8](#fn_294.md) Therefore courage is needed, sisters, in
 order to receive this and many other favours which come to a soul
 elevated to this state by our Lord; I think that if the soul is humble
 it requires more valour than ever for this last mercy. May God grant us
@@ -136,10 +136,10 @@ humility for His Name's sake.
 appears to have quitted the body, which however is not lifeless, and
 though, on the other hand, the person is certainly not dead, yet she
 herself cannot, for a few seconds, tell whether her spirit remains
-within her body or not. <span id="fr_295"></span>[9](#fn_295) She feels
+within her body or not. <span id="fr_295"></span>[9](#fn_295.md) She feels
 that she has been wholly transported into another and a very different
 region from that in which we live, where a light so unearthly is
-shown <span id="fr_296"></span>[10](#fn_296) that, if during her whole
+shown <span id="fr_296"></span>[10](#fn_296.md) that, if during her whole
 lifetime she had been trying to picture it and the wonders seen, she
 could not possibly have succeeded. In an instant her mind learns so many
 things at once that if the imagination and intellect spent years in
@@ -155,11 +155,11 @@ than earthly things are seen by our bodily eyes. Although no words are
 pronounced, the spirit is taught many truths; for instance, if it
 beholds any of the saints, it knows them at once as well as if
 intimately acquainted with them for years. <span
-id="fr_297"></span>[11](#fn_297) Occasionally, besides what the eyes of
+id="fr_297"></span>[11](#fn_297.md) Occasionally, besides what the eyes of
 the soul perceive in intellectual vision, other things are shown it. In
 an imaginary vision it usually sees our Lord accompanied by a host of
 angels; yet neither the bodily eyes nor the eyes of the soul <span
-id="fr_298"></span>[12](#fn_298) see anything, for these visions and
+id="fr_298"></span>[12](#fn_298.md) see anything, for these visions and
 many other things impossible to describe, are revealed by some wonderful
 intuition that I cannot explain. Perhaps those who have experienced this
 favour and possess more ability than myself may be able to describe it,
@@ -181,17 +181,17 @@ bullet fired
 from a gun, an upward flight takes place in the interior of the soul. (I
 know no other name for it but 'flight.') Although noiseless, it is too
 manifest a movement to be any illusion <span
-id="fr_299"></span>[13](#fn_299) and the soul is quite outside itself;
+id="fr_299"></span>[13](#fn_299.md) and the soul is quite outside itself;
 at least that is the impression made upon it. Great mysteries are
 revealed to it meanwhile, and when the person returns to consciousness
 she is so greatly benefited that she holds all this world's goods as
 filth compared with what she has seen. Henceforth earthly life is
 grievous to her and what used to please her now remains uncared for and
-unnoticed. <span id="fr_300"></span>[14](#fn_300)
+unnoticed. <span id="fr_300"></span>[14](#fn_300.md)
 
 11\. Those children of Israel who were sent on first to the Land of
 Promise brought back tokens from it; <span
-id="fr_301"></span>[15](#fn_301) so here our Lord seems to seek to show
+id="fr_301"></span>[15](#fn_301.md) so here our Lord seems to seek to show
 the soul something of the land to which it is travelling, to give it
 courage to pass through the trials of its painful journey, now that it
 knows where it must go to find rest. You may fancy that such profit
@@ -205,7 +205,7 @@ this favour leaves in the soul can realize its value.
 12\. This clearly shows it to be no work of the devil; neither the
 imagination nor the evil one could represent what leaves such peace,
 calm, and good fruits in the soul, and particularly the following three
-graces of a very high order. <span id="fr_302"></span>[16](#fn_302) The
+graces of a very high order. <span id="fr_302"></span>[16](#fn_302.md) The
 first of these is a perception of the greatness of God which becomes
 clearer to us as we witness more of it. Secondly, we gain self-knowledge
 and humility from seeing how creatures so base as ourselves in
@@ -215,10 +215,10 @@ the past or venture to gaze on Him now.
 13\. The third grace is a contempt for all earthly things unless they
 are consecrated to the service of so great a God. With such jewels the
 Bridegroom begins to deck His Bride; they are too valuable for her to
-keep them carelessly. <span id="fr_303"></span>[17](#fn_303) These
+keep them carelessly. <span id="fr_303"></span>[17](#fn_303.md) These
 visions are so deeply engraved in her memory that I believe she can
 never forget them until she enjoys them for evermore, for to do so would
-be the greatest misfortune. <span id="fr_304"></span>[18](#fn_304) But
+be the greatest misfortune. <span id="fr_304"></span>[18](#fn_304.md) But
 the Spouse Who gave her these gifts has power to give her grace not to
 lose them.
 
@@ -239,10 +239,10 @@ Him. Amen.
 
 ### Footnotes
 
-<span id="fn_287"></span>[198:1](tic22.htm#fr_287) *Rel*. viii. 10, 11.
+<span id="fn_287"></span>[198:1](tic22.htm#fr_287.md) *Rel*. viii. 10, 11.
 *Life*, ch. xviii, 8; xx. 3.
 
-<span id="fn_288"></span>[199:2](tic22.htm#fr_288) *Life*, ch. xx. 9.
+<span id="fn_288"></span>[199:2](tic22.htm#fr_288.md) *Life*, ch. xx. 9.
 St. John of the Cross, *Spiritual Canticle*, stanzas xiv.-xv. 23 *sqq*.
 Philippus a SS. Trinit. *l.c.* p. iii. tr. i. disc. iii. art. 3. 'This
 prayer of rapture is superior to the preceding grades of prayer, as also
@@ -256,43 +256,43 @@ Me is more perfect than the union of the body with the soul; wherefore
 the strength of the spirit, united with Me, raises the body from the
 earth.' (Transl. by Algar Thorold.)
 
-<span id="fn_289"></span>[199:3](tic22.htm#fr_289) *Life*, ch. xxii. 20.
+<span id="fn_289"></span>[199:3](tic22.htm#fr_289.md) *Life*, ch. xxii. 20.
 
-<span id="fn_290"></span>[199:4](tic22.htm#fr_290) *Castle*, M. iv. ch.
+<span id="fn_290"></span>[199:4](tic22.htm#fr_290.md) *Castle*, M. iv. ch.
 ii. 3.
 
-<span id="fn_291"></span>[200:5](tic22.htm#fr_291) Prov. viii. 29.
+<span id="fn_291"></span>[200:5](tic22.htm#fr_291.md) Prov. viii. 29.
 
-<span id="fn_292"></span>[200:6](tic22.htm#fr_292) St. Luke xii. 48:
+<span id="fn_292"></span>[200:6](tic22.htm#fr_292.md) St. Luke xii. 48:
 'Cui multum datum est, multum quaeretur ab eo, et cui commendaverunt
 multum, plus petent ab eo.'
 
-<span id="fn_293"></span>[201:7](tic22.htm#fr_293) *Rel*. ix. 8. This
+<span id="fn_293"></span>[201:7](tic22.htm#fr_293.md) *Rel*. ix. 8. This
 happened at Seville in 1575 or 1576.
 
-<span id="fn_294"></span>[202:8](tic22.htm#fr_294) 1 Cor. iv. 7: 'Quid
+<span id="fn_294"></span>[202:8](tic22.htm#fr_294.md) 1 Cor. iv. 7: 'Quid
 autem habes quod non accepisti?'
 
-<span id="fn_295"></span>[202:9](tic22.htm#fr_295) 2 Cor. xii. 2: 'Sive
+<span id="fn_295"></span>[202:9](tic22.htm#fr_295.md) 2 Cor. xii. 2: 'Sive
 in corpore nescio, sive extra corpus nescio, Deus scit.'
 
-<span id="fn_296"></span>[202:10](tic22.htm#fr_296) This is called
+<span id="fn_296"></span>[202:10](tic22.htm#fr_296.md) This is called
 'lumen prophetiæ' and is a transient form of the 'lumen gloriæ.' See St.
 Thomas Aquinas, *Sum. theol*. 2a 2æ, q. 175, art. 3 ad 2.
 
-<span id="fn_297"></span>[203:11](tic22.htm#fr_297) The same thing is
+<span id="fn_297"></span>[203:11](tic22.htm#fr_297.md) The same thing is
 related of some Saints while on earth, *e.g.* St Paul the first hermit
 and St. Anthony, who greeted each other by name though neither knew nor
 had heard of the other.
 
-<span id="fn_298"></span>[203:12](tic22.htm#fr_298) These words, though
+<span id="fn_298"></span>[203:12](tic22.htm#fr_298.md) These words, though
 necessary for the context, were only begun, but not completed by St.
 Teresa.
 
-<span id="fn_299"></span>[204:13](tic22.htm#fr_299) *Life*, ch. xx. 32.
+<span id="fn_299"></span>[204:13](tic22.htm#fr_299.md) *Life*, ch. xx. 32.
 *Castle*, M. iv. ch. i. 10.
 
-<span id="fn_300"></span>[204:14](tic22.htm#fr_300) Compare §§ 8-10 with
+<span id="fn_300"></span>[204:14](tic22.htm#fr_300.md) Compare §§ 8-10 with
 Philippus a SS. Trinitate, *l.c.* p. iii. tr. i. disc. iii. art. 3.
 
 'Muchas veces he pensado, si como el sol estándose en el cielo, que sus
@@ -307,19 +307,19 @@ le poner) que aunque no hace ruido, hace movimento tan claro, que no
 puede ser antojo en ninguna manera; y muy fuera de si misma, á todo lo
 que puede entender, se le muestran grandes cosas.'
 
-<span id="fn_301"></span>[204:15](tic22.htm#fr_301) Num. xiii. 24.
+<span id="fn_301"></span>[204:15](tic22.htm#fr_301.md) Num. xiii. 24.
 
-<span id="fn_302"></span>[205:16](tic22.htm#fr_302) *Life*, ch. xx. 31.
+<span id="fn_302"></span>[205:16](tic22.htm#fr_302.md) *Life*, ch. xx. 31.
 The same distinctions with respect to divine and diabolical locutions
 may be found in *Life*, ch. xxv. 5.
 
-<span id="fn_303"></span>[205:17](tic22.htm#fr_303) 'Dexteram meam et
+<span id="fn_303"></span>[205:17](tic22.htm#fr_303.md) 'Dexteram meam et
 collum meum cinxit lapidibus pretiosis; tradidit auribus meis
 inestimabiles margaritas.' From the Office of St. Agnes.
 
-<span id="fn_304"></span>[205:18](tic22.htm#fr_304) This is undoubtedly
+<span id="fn_304"></span>[205:18](tic22.htm#fr_304.md) This is undoubtedly
 the correct rendering of this difficult and obscure passage.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Spiritual Jubilation](tic23)
+[Next: Chapter VI. Spiritual Jubilation](tic23.md)

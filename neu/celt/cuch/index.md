@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267T84E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267T84E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267T84E/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](lgc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](lgc.txt.gz)
+[Contents](#contents)    [Start Reading](lgc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](lgc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -40,21 +40,21 @@ This is Lady Gregory's collation of the Cuchulain cycle. Cuchulain was a
 mighty warrior, 'the Hound of Ulster', the hero of 'the Red Branch', a
 band of elite fighters of ancient Ireland. Cuchulain is the subject of
 numerous tales set in pre-Christian Ireland, including the pivotal '[War
-for the Bull of Cuailgne](lgc14)'. The mythological and supernatural
+for the Bull of Cuailgne](lgc14.md)'. The mythological and supernatural
 elements are tightly interwoven in this saga, including the ever-present
 Sidhe (fairies); and Celtic gods and goddesses, particularly Morrigu,
 the goddess of war. As for the battles, they are principally composed of
 single combats as hair-raising as any in the
-[Iliad](../../../cla/homer/ili/index) or the
-[Mahabharata](../../../hin/index.htm#maha). The female characters are
+[Iliad](../../../cla/homer/ili/index.md) or the
+[Mahabharata](../../../hin/index.htm#maha.md). The female characters are
 vivid and self-motivated. The saga is overlaid with episodes which could
 be echoes of ancient myths, for instance the story of the two
-[shapeshifting swineherds](lgc16). There are sections of great poetry
+[shapeshifting swineherds](lgc16.md). There are sections of great poetry
 embedded in the text, particularly the [lament of Emer on Cuchulain's
-death](lgc23.htm#page_345).
+death](lgc23.htm#page_345.md).
 
 Lady Gregory's prose, which resembles that of William Morris and her
-collaborator [Yeats](../../yeats/index), is gorgeous and moves the story
+collaborator [Yeats](../../yeats/index.md), is gorgeous and moves the story
 along vigorously. This rendition of the Cuchulain saga is required
 reading for anyone interested in Celtic mythology.
 
@@ -75,30 +75,30 @@ hand column. Perhaps some reader can identify the other edition.
 
 ------------------------------------------------------------------------
 
-[Title Page](lgc00)  
-[Dedication](lgc01)  
-[Preface by W.B. Yeats](lgc02)  
-[Contents](lgc03)  
-[I. Birth of Cuchulain](lgc04)  
-[II. Boy Deeds of Cuchulain](lgc05)  
-[III. Courting of Emer](lgc06)  
+[Title Page](lgc00.md)  
+[Dedication](lgc01.md)  
+[Preface by W.B. Yeats](lgc02.md)  
+[Contents](lgc03.md)  
+[I. Birth of Cuchulain](lgc04.md)  
+[II. Boy Deeds of Cuchulain](lgc05.md)  
+[III. Courting of Emer](lgc06.md)  
 [IV. Bricriu's Feast, and the War of Words of the Women of
-Ulster](lgc07)  
-[V. The Championship of Ulster](lgc08)  
-[VI. The High King of Ireland](lgc09)  
-[VII. Fate of the Sons of Usnach](lgc10)  
-[VIII. Dream of Angus](lgc11)  
-[IX. Cruachan](lgc12)  
-[X. The Wedding of Maine Morgor](lgc13)  
-[XI. The War for the Bull of Cuailgne](lgc14)  
-[XII. The Awakening of Ulster](lgc15)  
-[XIII. The Two Bulls](lgc16)  
-[XIV. The Only Jealously of Emer](lgc17)  
-[XV. Advice to a Prince](lgc18)  
-[XVI. Sons of Doel Dermait](lgc19)  
-[XVII. Battle of Rosnaree](lgc20)  
-[XVIII. The Only Son of Aoife](lgc21)  
-[XIX. The Great Gathering at Muirthemne](lgc22)  
-[XX. Death of Cuchulain](lgc23)  
-[Note by W.B. Yeats](lgc24)  
-[Notes by Lady Gregory](lgc25)  
+Ulster](lgc07.md)  
+[V. The Championship of Ulster](lgc08.md)  
+[VI. The High King of Ireland](lgc09.md)  
+[VII. Fate of the Sons of Usnach](lgc10.md)  
+[VIII. Dream of Angus](lgc11.md)  
+[IX. Cruachan](lgc12.md)  
+[X. The Wedding of Maine Morgor](lgc13.md)  
+[XI. The War for the Bull of Cuailgne](lgc14.md)  
+[XII. The Awakening of Ulster](lgc15.md)  
+[XIII. The Two Bulls](lgc16.md)  
+[XIV. The Only Jealously of Emer](lgc17.md)  
+[XV. Advice to a Prince](lgc18.md)  
+[XVI. Sons of Doel Dermait](lgc19.md)  
+[XVII. Battle of Rosnaree](lgc20.md)  
+[XVIII. The Only Son of Aoife](lgc21.md)  
+[XIX. The Great Gathering at Muirthemne](lgc22.md)  
+[XX. Death of Cuchulain](lgc23.md)  
+[Note by W.B. Yeats](lgc24.md)  
+[Notes by Lady Gregory](lgc25.md)  

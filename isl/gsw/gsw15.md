@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw14)  [Next](gsw16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw14)  [Next](gsw16.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_177">p. 177</span>
 
-<span id="img_17700"></span> ![FROM A NOMAD CARPET](img/17700.jpg)
+<span id="img_17700"></span> ![FROM A NOMAD CARPET](img/17700.jpg.md)
 
 ### CHAPTER XI
 
@@ -123,7 +123,7 @@ donkey, and I shot the infidel, and Allah knows he bled like a pig."
 <span id="page_181">p. 181</span>
 
 No sooner had he finished than the Governor called out "Bacha!" <span
-id="fr_52"></span>[1](#fn_52) and, when his *farrashes* returned, he
+id="fr_52"></span>[1](#fn_52.md) and, when his *farrashes* returned, he
 asked the interpreter if he was at last satisfied of the guilt of the
 prisoners, and, upon his replying in the affirmative, he ordered the
 executioner to take them to the Great Square and execute them. That
@@ -150,7 +150,7 @@ appointed to this, a
 
 <span id="img_18200"></span> <span align="CENTER"> [![THE KORAN STAND AT
 ANAR&lt;br&gt; (Dated A.D. 1359)](tn/18200.jpg)  
-Click to enlarge](img/18200.jpg)  
+Click to enlarge](img/18200.jpg.md)  
 THE KORAN STAND AT ANAR  
 (Dated A.D. 1359)  
 </span>
@@ -255,7 +255,7 @@ Even as this thought came into my mind a
 
 <span id="img_18600"></span> <span align="CENTER"> [![YEZD AND ITS WIND
 TOWERS&lt;br&gt; &lt;i&gt;H. R. Sykes, phot&lt;/i&gt;.](tn/18600.jpg)  
-Click to enlarge](img/18600.jpg)  
+Click to enlarge](img/18600.jpg.md)  
 YEZD AND ITS WIND TOWERS  
 *H. R. Sykes, phot*.  
 </span>
@@ -333,10 +333,10 @@ Highness, who, I afterwards heard, said that his name would, on this
 account, never be forgotten in Iran. It ran as follows:
 
 Bravo the Charger with hoofs like Shabdiz <span
-id="fr_53"></span>[1](#fn_53) and a head like Rakhsh, <span
-id="fr_54"></span>[1](#fn_53)  
-Awaji <span id="fr_55"></span>[2](#fn_54) on the dam's side, whose sire
-was Yahmum. <span id="fr_56"></span>[2](#fn_54)  
+id="fr_53"></span>[1](#fn_53.md) and a head like Rakhsh, <span
+id="fr_54"></span>[1](#fn_53.md)  
+Awaji <span id="fr_55"></span>[2](#fn_54.md) on the dam's side, whose sire
+was Yahmum. <span id="fr_56"></span>[2](#fn_54.md)  
 Sometimes he is like a bird in gliding and a snake in twisting;  
 Sometimes he dances like a pheasant and bounds like a ball.  
 An alligator in the sea and a leopard on the mountain.  
@@ -380,18 +380,18 @@ I exclaimed, "By Allah! Hatim Tai has returned to life."
 
 ### Footnotes
 
-<span id="fn_51"></span>[177:1](gsw15.htm#fr_51) *Sc*. Fars.
+<span id="fn_51"></span>[177:1](gsw15.htm#fr_51.md) *Sc*. Fars.
 
-<span id="fn_52"></span>[181:1](gsw15.htm#fr_52) Lit. "Boy." Servants in
+<span id="fn_52"></span>[181:1](gsw15.htm#fr_52.md) Lit. "Boy." Servants in
 Persia are invariably summoned in this manner.
 
-<span id="fn_53"></span>[189:1](gsw15.htm#fr_54) Shabdiz was the famous
+<span id="fn_53"></span>[189:1](gsw15.htm#fr_54.md) Shabdiz was the famous
 charger of Khusru Parviz and Rakhsh, the equally famous charger of
 Rustam, as mentioned in Chapter II.
 
-<span id="fn_54"></span>[189:2](gsw15.htm#fr_56) Awaji and Yahmum are a
+<span id="fn_54"></span>[189:2](gsw15.htm#fr_56.md) Awaji and Yahmum are a
 mare and horse respectively, renowned in Arab poetry.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Robbed In the Lut](gsw16)
+[Next: Chapter XII. Robbed In the Lut](gsw16.md)

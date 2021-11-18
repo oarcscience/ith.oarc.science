@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl10)  [Next](hpl12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl10)  [Next](hpl12.md) 
 
 ------------------------------------------------------------------------
 
@@ -243,4 +243,4 @@ And this is what it said:
 
 ------------------------------------------------------------------------
 
-[Next: The Street (1920)](hpl12)
+[Next: The Street (1920)](hpl12.md)

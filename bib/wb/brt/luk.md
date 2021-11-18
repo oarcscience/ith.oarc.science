@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](mar)  [Next](joh) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](mar)  [Next](joh.md) 
 
 ------------------------------------------------------------------------
 
@@ -4079,4 +4079,4 @@ hag o vennigañ Doue. \[Amen.\]
 
 ------------------------------------------------------------------------
 
-[Next: John](joh)
+[Next: John](joh.md)

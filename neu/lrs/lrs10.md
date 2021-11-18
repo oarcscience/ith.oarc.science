@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](lrs09)  [Next](lrs11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](lrs09)  [Next](lrs11.md) 
 
 ------------------------------------------------------------------------
 
@@ -300,4 +300,4 @@ superstition or fanaticism.
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Romanceros, or Ballads](lrs11)
+[Next: IX. The Romanceros, or Ballads](lrs11.md)

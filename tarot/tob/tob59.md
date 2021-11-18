@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob58) 
-[Next](tob60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob58.md) 
+[Next](tob60.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ deposit have lost its key as well as its ritual; the nomad Gypsies and
 the Jews only have guarded their Bibles intact throughout the centuries:
 the latter had the Sepher of Moses, the former the Tarot attributed to
 Thoth Hermes Trismegistus, the triple hierarchic University of ancient
-Egypt. <span id="fr_90"></span>[1](#fn_90)
+Egypt. <span id="fr_90"></span>[1](#fn_90.md)
 
 <span id="page_344">p. 344</span>
 
@@ -169,7 +169,7 @@ TO INITIATES.
  
 
 <span id="img_34600"></span> [![](tn/34600.jpg)  
-Click to enlarge](img/34600.jpg)
+Click to enlarge](img/34600.jpg.md)
 
  
 
@@ -207,9 +207,9 @@ the Eternal and Holy Truth.
 
 ### Footnotes
 
-<span id="fn_90"></span>[343:1](tob59.htm#fr_90) Consult Saint-Yves
+<span id="fn_90"></span>[343:1](tob59.htm#fr_90.md) Consult Saint-Yves
 d'Alveydre, *Mission des Juifs*.
 
 ------------------------------------------------------------------------
 
-[Next: Authors and Principle Works Quoted](tob60)
+[Next: Authors and Principle Works Quoted](tob60.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah31)  [Next](oah33) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah31)  [Next](oah33.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ the clouds and sunshine, so as to add glory to the scene.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII](oah33)
+[Next: Chapter XVII](oah33.md)

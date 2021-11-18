@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos21)  [Next](gbos23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos21)  [Next](gbos23.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ THINK OF YOUR FEET. This will cause the return to take place.
 
 ------------------------------------------------------------------------
 
-[Next: The Working Tools](gbos23)
+[Next: The Working Tools](gbos23.md)

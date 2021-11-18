@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Next](abs01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Next](abs01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -83,16 +83,16 @@ law at the time.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](abs01)
+[Next: Dedication](abs01.md)

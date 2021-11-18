@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml44)  [Next](yml46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml44)  [Next](yml46.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ She was very ashamed.
 
 ------------------------------------------------------------------------
 
-[Next: The Cat and the Monkey](yml46)
+[Next: The Cat and the Monkey](yml46.md)

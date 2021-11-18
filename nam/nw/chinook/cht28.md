@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht27)  [Next](cht29) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht27)  [Next](cht29.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ menses.
 
 ------------------------------------------------------------------------
 
-[Next: Marriage](cht29)
+[Next: Marriage](cht29.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog10)  [Next](kog12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog10)  [Next](kog12.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,10 +133,10 @@ His father was very pleased at that!
 <span id="img_10500"></span>
 
 [![](tn/10500.jpg)  
-Click to enlarge](img/10500.jpg)
+Click to enlarge](img/10500.jpg.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: 9. Shepherd Hynek](kog12)
+[Next: 9. Shepherd Hynek](kog12.md)

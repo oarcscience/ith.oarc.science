@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](gcot01)  [Next](gcot03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](gcot01)  [Next](gcot03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -231,7 +231,7 @@ our crowded cities to the bosom of our
 <span id="img_diag01"></span>
 
 [![1. THE THREE MAGNETS](tn/diag01.jpg)  
-Click to enlarge](img/diag01.jpg)  
+Click to enlarge](img/diag01.jpg.md)  
 1. THE THREE MAGNETS  
 
 kindly mother earth, at once the source of life, of happiness, of
@@ -242,7 +242,7 @@ to take part in. This may be illustrated
 
 <span id="page_47">p. 47</span>
 
-by a [diagram](#img_diag01) of 'The Three Magnets', in which the chief
+by a [diagram](#img_diag01.md) of 'The Three Magnets', in which the chief
 advantages of the Town and of the Country are set forth with their
 corresponding drawbacks, while the advantages of the Town-Country are
 seen to be free from the disadvantages of either.
@@ -273,7 +273,7 @@ to gladden the hearts of the people. The one industry, agriculture,
 suffers frequently from excessive rainfalls; but this wondrous harvest
 of the clouds is seldom properly in-gathered, so that, in times of
 drought, there is frequently, even for drinking purposes, a most
-insufficient supply. <span id="fr_0"></span>[1](#fn_0) Even the
+insufficient supply. <span id="fr_0"></span>[1](#fn_0.md) Even the
 
 <span id="page_48">p. 48</span>
 
@@ -334,7 +334,7 @@ form the theme of subsequent chapters.
 
 ### Footnotes
 
-<span id="fn_0"></span>[47:1](gcot02.htm#fr_0) Dr. Barwise, Medical
+<span id="fn_0"></span>[47:1](gcot02.htm#fr_0.md) Dr. Barwise, Medical
 Officer of Health for the County Council of Derbyshire, giving evidence
 before a Select Committee of the House of Commons, on 25th April 1894,
 on the Chesterfield Gas and Water Bill, said, in answer to Question
@@ -349,4 +349,4 @@ when they were thirsty there was no other water for them to have.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter One. The Town-Country Magnet](gcot03)
+[Next: Chapter One. The Town-Country Magnet](gcot03.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ stage-direction.
 287.2: I take *paurāḥ* as part of the stage-direction.
 
 288.8-292.9: This passage I have omitted: compare page
-[xii](lcc03.htm#page_xii).
+[xii](lcc03.htm#page_xii.md).

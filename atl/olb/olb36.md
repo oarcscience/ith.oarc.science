@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb35)  [Next](olb37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb35)  [Next](olb37.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -47,4 +47,4 @@ change. As he endures, he alone exists; everything else is show.
 
 ------------------------------------------------------------------------
 
-[Next: The Second Part of the Oldest Doctrine](olb37)
+[Next: The Second Part of the Oldest Doctrine](olb37.md)

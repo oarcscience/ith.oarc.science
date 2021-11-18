@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml03)  [Next](yml05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml03)  [Next](yml05.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,4 +175,4 @@ antiquity and distinctiveness of their customs.
 
 ------------------------------------------------------------------------
 
-[Next: The Narrators](yml05)
+[Next: The Narrators](yml05.md)

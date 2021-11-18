@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](lrs13)  [Next](lrs15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](lrs13)  [Next](lrs15.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ There can be little doubt that this conception of witchcraft is the
 correct one. In the records of the caste there are numerous proofs that
 it had a definite ritual and an established priesthood, d that
 imagination played but a small part in shaping the belief of the
-adherents of the cult.  <span id="fr_55"></span>[1](#fn_55)
+adherents of the cult.  <span id="fr_55"></span>[1](#fn_55.md)
 
  
 
@@ -567,10 +567,10 @@ and cities of the Peninsula.
 
 ### Footnotes
 
-<span id="fn_55"></span>[335:1](lrs14.htm#fr_55) The reader who wishes
+<span id="fn_55"></span>[335:1](lrs14.htm#fr_55.md) The reader who wishes
 to follow this phase of the subject further should consult Miss M. A.
 Murray's recent articles In *Man.*
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Humorous Romances of Spain.](lrs15)
+[Next: XIII. Humorous Romances of Spain.](lrs15.md)

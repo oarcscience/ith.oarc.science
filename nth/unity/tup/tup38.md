@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](tup37)  [Next](tup39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](tup37)  [Next](tup39.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Teach Us to Pray*, by Charles Fillmore, \[1941\], at Intangible Textual
 Heritage
 
@@ -411,4 +411,4 @@ The Healing Word
 
 ------------------------------------------------------------------------
 
-[Next: Index](tup39)
+[Next: Index](tup39.md)

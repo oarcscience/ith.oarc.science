@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](choc09)  [Next](choc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](choc09)  [Next](choc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Occultism*, by Paul Carus, \[1907\], at Intangible Textual
 Heritage
 
@@ -17,7 +17,7 @@ Heritage
 
 <span id="img_06300"></span> <span align="CENTER"> [![EUROPEAN
 COMPASS.&lt;br&gt; (Presumably Italian.)](tn/06300.jpg)  
-Click to enlarge](img/06300.jpg)  
+Click to enlarge](img/06300.jpg.md)  
 EUROPEAN COMPASS.  
 (Presumably Italian.)  
 </span>
@@ -40,7 +40,7 @@ Middle Ages, Paracelsus. Albertus Magnus, and
 
 <span id="img_06400"></span> <span align="CENTER"> [![CHINESE POCKET
 COMPASS.](tn/06400.jpg)  
-Click to enlarge](img/06400.jpg)  
+Click to enlarge](img/06400.jpg.md)  
 CHINESE POCKET COMPASS.  
 </span>
 
@@ -58,7 +58,7 @@ most obvious part of it which must have appeared
 
 <span id="img_06500"></span> <span align="CENTER"> [![EUROPEAN
 COMPASS.&lt;br&gt; (Presumably Nuremberg.)](tn/06500.jpg)  
-Click to enlarge](img/06500.jpg)  
+Click to enlarge](img/06500.jpg.md)  
 EUROPEAN COMPASS.  
 (Presumably Nuremberg.)  
 </span>
@@ -86,8 +86,8 @@ tablets hinged in the same manner. The European instruments have
 sun-dials in addition and are decidedly more serviceable for practical
 use but we can not doubt that for the original idea our ancestors are
 indebted to our Mongol fellow-men. <span
-id="fr_41"></span>[\*](choc11.htm#fn_41)
+id="fr_41"></span>[\*](choc11.htm#fn_41.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Personification of Stars](choc11)
+[Next: The Personification of Stars](choc11.md)

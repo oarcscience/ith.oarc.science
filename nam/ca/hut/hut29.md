@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut28)  [Next](hut30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut28)  [Next](hut30.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,14 +9,14 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXVI.
 
-### Directions and Formula for the Brush Dance. <span id="fr_64"></span>[1](#fn_64)
+### Directions and Formula for the Brush Dance. <span id="fr_64"></span>[1](#fn_64.md)
 
 <span id="page_248">p. 248</span>
 
 Directions and Formula for the Brush Dance.
 
 I always get up at dawn. I go to the south corner of the house and rap
-and call <span id="fr_65"></span>[1](#fn_65), then I do the same at the
+and call <span id="fr_65"></span>[1](#fn_65.md), then I do the same at the
 north corner, and last at the west corner. I do this to notify the
 people of the under-world that they must give back the soul of the sick
 person who is to be treated.
@@ -102,7 +102,7 @@ anywhere," the old woman told her. " Day before yesterday it came into
 my head. This is what they said of you, 'This way her child does. In
 vain she will look for it.' There in the corner stands your cup." Then
 the old woman took the cup and held it up to the sky. Something fell
-into it. <span id="fr_66"></span>[1](#fn_66) She was holding it up
+into it. <span id="fr_66"></span>[1](#fn_66.md) She was holding it up
 pointing crosswise. She gave it to her saying, "Take it along and put it
 into your baby's mouth."
 
@@ -120,7 +120,7 @@ always lay them down carefully. I tie up the pitch sticks.
 
 I do not have my face white (unpainted). I have my face painted black. I
 paint my wrists, my shoulders, my ankles, my thighs, and my breast. I
-tie up my hair with tseûk. <span id="fr_67"></span>[2](#fn_67) I do not
+tie up my hair with tseûk. <span id="fr_67"></span>[2](#fn_67.md) I do not
 
 <span id="page_251">p. 251</span>
 
@@ -132,11 +132,11 @@ fire.
 
 ### Footnotes
 
-<span id="fn_64"></span>[241:1](hut29.htm#fr_64) Told at Hupa, December
+<span id="fn_64"></span>[241:1](hut29.htm#fr_64.md) Told at Hupa, December
 1901, by the wife of McCann who is the only person living that has
 performed the ceremony.
 
-<span id="fn_65"></span>[248:1](hut29.htm#fr_65) The noise made consists
+<span id="fn_65"></span>[248:1](hut29.htm#fr_65.md) The noise made consists
 of one or several knocks on the wall with the hand and the call
 "ha ha ha." This is to notify the people of Tcindintax, the world below,
 that they must give back the spirit of the sick. To make sure the
@@ -147,14 +147,14 @@ world of the dead is underground toward the west. It is likely the east
 is not associated with the dead. The Hupa are never slavish adherers to
 the world-quarters.
 
-<span id="fn_66"></span>[250:1](hut29.htm#fr_66) It was the bark of the
+<span id="fn_66"></span>[250:1](hut29.htm#fr_66.md) It was the bark of the
 yellow pine, *Pinus ponderosa*, which fell into cup.
 
-<span id="fn_67"></span>[250:2](hut29.htm#fr_67) Tseûk are the ribbons
+<span id="fn_67"></span>[250:2](hut29.htm#fr_67.md) Tseûk are the ribbons
 of mink fur with which the clubs of hair are wound. These tseûk are
 sometimes covered with woodpecker scalps. See Life and Culture of the
 Hupa, p. 20 and Pl. 5.
 
 ------------------------------------------------------------------------
 
-[Next: XXVII. Formula for the Eel Medicine](hut30)
+[Next: XXVII. Formula for the Eel Medicine](hut30.md)

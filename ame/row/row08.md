@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](row07)  [Next](row09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](row07)  [Next](row09.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ man!" . . . or, "then I became a woman!"
 
 ------------------------------------------------------------------------
 
-[Next: Who Gets Hurt If Our Witchcraft Is Taken From Us?](row09)
+[Next: Who Gets Hurt If Our Witchcraft Is Taken From Us?](row09.md)

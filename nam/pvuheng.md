@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../index)  [Native American](index) 
+[Intangible Textual Heritage](../index)  [Native American](index.md) 
 
 ------------------------------------------------------------------------
 

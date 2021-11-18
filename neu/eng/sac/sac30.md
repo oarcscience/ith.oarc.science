@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac29)  [Next](sac31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac29)  [Next](sac31.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ very kindly, in spite of the bad weather, took us to the circle and the
 stone cross to. the N.E. of it.
 
 Lukis thus described, this monument: <span
-id="fr_117"></span>[1](#fn_117)—
+id="fr_117"></span>[1](#fn_117.md)—
 
 “The enclosed ground on which this circle stands is uncultivated and
 heathy, and slopes gently to the south. Twenty years ago a hedge ran
@@ -42,7 +42,7 @@ in height. On the west side there is a gap,
 <span id="img_fig59"></span>
 
 [![FIG59.—Photograph of the Ordnance Map.](tn/fig59.jpg)  
-Click to enlarge](img/fig59.jpg)  
+Click to enlarge](img/fig59.jpg.md)  
 FIG59.—Photograph of the Ordnance Map.  
 
 <span id="page_289">p. 289</span>
@@ -194,7 +194,7 @@ will doubtless revise some of them:—
 [![FIG. 60.—Showing azimuths in Lat. N. 50° for the summer solstice
 sunrise, with different heights of hills for 1905 A.D. and 1680
 B.C.](tn/fig60.jpg)  
-Click to enlarge](img/fig60.jpg)  
+Click to enlarge](img/fig60.jpg.md)  
 FIG. 60.—Showing azimuths in Lat. N. 50° for the summer solstice
 sunrise, with different heights of hills for 1905 A.D. and 1680 B.C.  
 
@@ -237,7 +237,7 @@ the circle.
 As there are both at Tregaseal and Boscawen-un alignments suggesting the
 observation of the summer solstice sunrise, it is desirable here to
 refer to the azimuths as calculated. For this purpose [Fig.
-60](#img_fig60) has been prepared, which shows these for lat. 50° both
+60](#img_fig60.md) has been prepared, which shows these for lat. 50° both
 at the present day and at the date of the restoration at Stonehenge.
 
 My readers should compare this with Fig. 36, which gives the solstice
@@ -309,9 +309,9 @@ Stones" respectively.
 
 ### Footnotes
 
-<span id="fn_117"></span>[287:1](sac30.htm#fr_117) *Prehistoric Stone
+<span id="fn_117"></span>[287:1](sac30.htm#fr_117.md) *Prehistoric Stone
 Monuments of the British Isles: Cornwall*. W. C. Lukis. P. 1.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII. The Clock-Stars in Egypt and Britain](sac31)
+[Next: Chapter XXVIII. The Clock-Stars in Egypt and Britain](sac31.md)

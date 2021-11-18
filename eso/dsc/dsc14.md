@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc13) 
-[Next](dsc15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc13.md) 
+[Next](dsc15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Lessons for Developing Spiritual Consciousness*, by A.P. Mukerji,
 \[1911\], at Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ be as old as Methuselah., Your entire life-span may have been enjoyable.
 Such things do not count. What is of vital moment is how far you have
 succeeded in your triumph over your lower Nature, how far your
 Spirituality, Firmness, Conscientiousness, Veneration,
-[Causality](errata.htm#10), etc., are developed; how far you feel for
+[Causality](errata.htm#10.md), etc., are developed; how far you feel for
 suffering humanity; how far your Soul is on the ascendant and your flesh
 is under your feet. For this last is the crown and climax of all human
 endeavor along right lines. It is chastity alone that can give us a lift
@@ -88,7 +88,7 @@ its grip upon them. The Higher Soul has been almost buried under coating
 after coating of carnal tendencies. Man has not obeyed his inmost
 thought. He has ever yielded to his impulses. He has had his face in a
 bush and ostrich-like he has considered himself safe. The memories of
-[superstition](errata.htm#11); the blotted pictures of Heaven and Hell;
+[superstition](errata.htm#11.md); the blotted pictures of Heaven and Hell;
 the preacher of religious dogmas; know-nothing religions, slave-trading
 and slave-trading religions; the squalor of animal lust, greed, and hard
 selfism, and every other stripe of absurdity that stalks the land often
@@ -165,7 +165,7 @@ spell of active inactivity that most people want. No wonder their powers
 of resistance are in a state of atrophy! No wonder they land themselves
 in a vicious circle! Truly, most truly, has it been said that an idle
 brain is the devil's workshop. Now, reader, are you one such? I hope
-not. But, if so, why so? Listen to one of [Maeterlinck's](errata.htm#12)
+not. But, if so, why so? Listen to one of [Maeterlinck's](errata.htm#12.md)
 symbolic stories.
 
 In the middle ages there lived a powerful man who was impressed by the
@@ -192,7 +192,7 @@ at your service," replied the stranger, as he drew his sword, "but
 before we fight, I want you to identify me." Upon which he drew off his
 mask and the challenger found that he stood before himself: "Thought."
 So it is with all of us. Do you remember that song of Omar
-[Khayyam's](errata.htm#13):
+[Khayyam's](errata.htm#13.md):
 
 <div style="margin-left: 32px">
 
@@ -359,4 +359,4 @@ you get great gleams of light from your higher nature.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Higher Reason and Judgment](dsc15)
+[Next: Chapter XIII. Higher Reason and Judgment](dsc15.md)

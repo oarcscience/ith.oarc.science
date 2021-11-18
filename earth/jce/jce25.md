@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce24)  [Next](jce26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce24)  [Next](jce26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -229,4 +229,4 @@ three fell into a sound sleep.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIV. Well Said, Old Mole! Canst Thou Work I’ the Ground
-So Fast?](jce26)
+So Fast?](jce26.md)

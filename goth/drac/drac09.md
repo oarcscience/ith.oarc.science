@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](drac08)  [Next](drac10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](drac08)  [Next](drac10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B549MW/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B549MW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dracula*, by Bram Stoker, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -570,4 +570,4 @@ an hour. I hold over telegram to Holmwood till have seen you."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10](drac10)
+[Next: Chapter 10](drac10.md)

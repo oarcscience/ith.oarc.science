@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Next](bit01) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Next](bit01.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ EMIL SCHLAGINTWEIT, LL.D.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](bit01)
+[Next: Preface](bit01.md)

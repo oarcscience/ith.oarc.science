@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont36)  [Next](ont38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont36)  [Next](ont38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -367,7 +367,7 @@ Ventre chiefs, Big Road and
 
 <span id="img_45200"></span> <span align="CENTER"> [![MAD DOG SOCIETY
 WAITING FOR EXPECTED FEAST.](tn/45200.jpg)  
-Click to enlarge](img/45200.jpg)  
+Click to enlarge](img/45200.jpg.md)  
 MAD DOG SOCIETY WAITING FOR EXPECTED FEAST.  
 </span>
 
@@ -391,7 +391,7 @@ There
 
 <span id="img_45300"></span> <span align="CENTER"> [![MAD DOGS MARCHING
 THROUGH CAMP.](tn/45300.jpg)  
-Click to enlarge](img/45300.jpg)  
+Click to enlarge](img/45300.jpg.md)  
 MAD DOGS MARCHING THROUGH CAMP.  
 </span>
 
@@ -415,4 +415,4 @@ feared to act in opposition to them."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXV. The Mutsaix (Society of Brave Dogs)](ont38)
+[Next: Chapter XXXV. The Mutsaix (Society of Brave Dogs)](ont38.md)

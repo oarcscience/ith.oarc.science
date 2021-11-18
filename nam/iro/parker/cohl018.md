@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl017)  [Next](cohl019) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl017)  [Next](cohl019.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ So they said and he said. Eniaiehuk.
 
 ------------------------------------------------------------------------
 
-[Next: Section 7](cohl019)
+[Next: Section 7](cohl019.md)

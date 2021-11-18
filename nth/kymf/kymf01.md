@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](kymf00)  [Next](kymf02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](kymf00)  [Next](kymf02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ CHAPTER TWELVE</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter One. Introduction](kymf02)
+[Next: Chapter One. Introduction](kymf02.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma32)  [Next](fmma34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma32)  [Next](fmma34.md) 
 
 ------------------------------------------------------------------------
 
@@ -243,4 +243,4 @@ peasant girl.
 
 ------------------------------------------------------------------------
 
-[Next: Gutenberg. Lived From 1400-1468](fmma34)
+[Next: Gutenberg. Lived From 1400-1468](fmma34.md)

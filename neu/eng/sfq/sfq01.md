@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq00)  [Next](sfq02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq00)  [Next](sfq02.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_vii00"></span>
 
 [![](tn/vii00.jpg)  
-Click to enlarge](img/vii00.jpg)
+Click to enlarge](img/vii00.jpg.md)
 
 # Introduction
 
@@ -295,7 +295,7 @@ On which the Tartar king did ride."
 adventures on such a daring task:--
 
 "Then pardon, O most sacred happie Spirit  
-  That I thy labours lost <span id="fr_0"></span>[1](#fn_0) may thus
+  That I thy labours lost <span id="fr_0"></span>[1](#fn_0.md) may thus
 revive,  
   And steale from thee the meede of thy due merit,  
   That none durst ever whilest thou wast alive,  
@@ -403,7 +403,7 @@ JOHN W. HALES.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xvii:1](sfq01.htm#fr_0) Spenser thought that the
+<span id="fn_0"></span>[xvii:1](sfq01.htm#fr_0.md) Spenser thought that the
 latter Part or Parts of the "Squire's Tale" had actually been written
 but been lost--been "quite devoured" by "cursed eld," and "brought to
 nought by little bits," as he quaintly expresses it. But it may be taken
@@ -416,4 +416,4 @@ glorious fragment.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sfq02)
+[Next: Contents](sfq02.md)

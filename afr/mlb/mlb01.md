@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb00)  [Next](mlb02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb00)  [Next](mlb02.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ A. W.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](mlb02)
+[Next: Contents](mlb02.md)

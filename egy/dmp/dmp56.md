@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp55)  [Next](dmp57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp55)  [Next](dmp57.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ concerning any given thing which I am praying (13) for here to-day.'
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XXV](dmp57)
+[Next: Verso Col. XXV](dmp57.md)

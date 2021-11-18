@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](psc10)  [Next](psc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](psc10)  [Next](psc12.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -163,7 +163,7 @@ raw. Should the lamb have been already roasted, they must pare off the
 outward skin. If it had been anointed with oil of second tithe, its
 value must not be charged to the company in money, because it is not
 lawful to redeem and sell it in Jerusalem. <span
-id="fr_67"></span>[1](#fn_67)
+id="fr_67"></span>[1](#fn_67.md)
 
 GEMARA: It was taught: All agree, that if warm (meat) fall into warm
 (milk) both are rendered prohibited (for use). Cold (meat) in cold
@@ -304,7 +304,7 @@ the fact that the law of uncleanness had only been temporarily set aside
 for congregational purposes, but not that it had been abrogated
 entirely, and also that the plate worn by the high-priest (through which
 he atoned for the sins of the community) <span
-id="fr_68"></span>[1](#fn_68) was brought in requisition to atone for
+id="fr_68"></span>[1](#fn_68.md) was brought in requisition to atone for
 the transgression of the law regarding uncleanness; for there cannot be
 found one Tana who holds that the said law was abrogated entirely, with
 the exception of R. Jehudah. They also assumed, that the plate of the
@@ -389,7 +389,7 @@ fat has remained undefiled, their blood may be sprinkled.
 
 GEMARA: R. Giddel said in the name of Rabh: What is the case if the
 blood *has* been sprinkled? In that event the duty has nevertheless been
-[fulfilled](errata.htm#9). Is it not obligatory, however, to eat the
+[fulfilled](errata.htm#9.md). Is it not obligatory, however, to eat the
 paschal sacrifice, and in this case it must not be eaten? Rabh holds
 with R. Nathan, who states that the fact of its not having been eaten
 proves no impediment to the lawful accomplishment of the duty *to
@@ -587,7 +587,7 @@ a long journey, and then be defiled by contact with a dead reptile,"
 because he holds that a man who had become unclean through a reptile may
 nevertheless have the sacrifice brought for him; but if he was away on a
 journey and there becomes unclean, the sacrifice cannot be brought for
-him. <span id="fr_69"></span>[1](#fn_69) Why not defile the man by means
+him. <span id="fr_69"></span>[1](#fn_69.md) Why not defile the man by means
 of a corpse? If this is done, he will be robbed of his right to bring
 even his festival offering. And, on the other hand, is he not deprived
 of his right to bring the paschal offering? Yea; but he has the
@@ -614,7 +614,7 @@ that the plate atones for (the sin of sacrificing) the paschal offering
 and that of the Nazarite, if the blood of these had become defiled; but
 not if the body (of the owner) of such sacrifice had become unclean. It
 does, on the other hand, atone for the defilement caused by an abyss or
-by the ground. <span id="fr_70"></span>[2](#fn_70)
+by the ground. <span id="fr_70"></span>[2](#fn_70.md)
 
 GEMARA: From the Mishna we learn, that the plate atones for the sin if
 it had become known that the blood or
@@ -784,7 +784,7 @@ walls of Jerusalem or had become defiled, it must be immediately burned
 (on the eve of Passover). If the owners thereof had become defiled or
 had died, it must be left until its condition is changed (*i.e.*, it
 must be left over until the next morning), and should be burned on the
-16th of Nissan <span id="fr_71"></span>[1](#fn_71)). R. Johanan ben
+16th of Nissan <span id="fr_71"></span>[1](#fn_71).md). R. Johanan ben
 Broka said: (In the latter event) it should also be immediately burned,
 because there are none to eat it.
 
@@ -852,7 +852,7 @@ states in accordance with his individual theory; for both R. Johanan ben
 Broka and R. Nehemiah said one and the same thing (namely, that when the
 owners became defiled, the sacrifice should be immediately burned).
 Rabba added to this, that R. Jose the Galilean made the same
-statement. <span id="fr_72"></span>[1](#fn_72)
+statement. <span id="fr_72"></span>[1](#fn_72.md)
 
 MISHNA: The bones, sinews, and other remaining parts must be burned on
 the 16th; and should that day fall on a Sabbath, they must be burned on
@@ -1307,33 +1307,33 @@ sent the servant to look for the others and they could not be found."
 Rabhina said: The three who did eat the paschal sacrifice should also be
 made to pay for it themselves, and the one man who had remained should
 also pay for more than his share. The Halakha, however, does not prevail
-according to Rabhina. <span id="fr_73"></span>[1](#fn_73)
+according to Rabhina. <span id="fr_73"></span>[1](#fn_73.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_67"></span>[146:1](psc11.htm#fr_67) Where alone the paschal
+<span id="fn_67"></span>[146:1](psc11.htm#fr_67.md) Where alone the paschal
 sacrifice may be brought and eaten.
 
-<span id="fn_68"></span>[149:1](psc11.htm#fr_68) *Vide* Levit. xxviii.
+<span id="fn_68"></span>[149:1](psc11.htm#fr_68.md) *Vide* Levit. xxviii.
 38.
 
-<span id="fn_69"></span>[156:1](psc11.htm#fr_69) *Vide* Numbers ix. 10.
+<span id="fn_69"></span>[156:1](psc11.htm#fr_69.md) *Vide* Numbers ix. 10.
 
-<span id="fn_70"></span>[156:2](psc11.htm#fr_70) By this term is meant
+<span id="fn_70"></span>[156:2](psc11.htm#fr_70.md) By this term is meant
 defilement caused by passing over an abyss or ground where it is
 supposed that a corpse was situated, without being aware of the fact.
 
-<span id="fn_71"></span>[160:1](psc11.htm#fr_71) Because it is not
+<span id="fn_71"></span>[160:1](psc11.htm#fr_71.md) Because it is not
 allowed to burn a consecrated thing on the festival day proper, and the
 16th is already one of the intermediate days of Passover.
 
-<span id="fn_72"></span>[162:1](psc11.htm#fr_72) Rabba supports his
+<span id="fn_72"></span>[162:1](psc11.htm#fr_72.md) Rabba supports his
 dictum on the strength of a Boraitha, which will be brought forward in
 Zeba'him.
 
-<span id="fn_73"></span>[172:1](psc11.htm#fr_73) All this is in
+<span id="fn_73"></span>[172:1](psc11.htm#fr_73.md) All this is in
 accordance with the explanation of Rabbenu Hananel and not of Rashi, as
 it is the more reasonable.
 
@@ -1341,4 +1341,4 @@ it is the more reasonable.
 
 [Next: Chapter VIII: Those Obligated to Eat the Paschal Sacrifice; Where
 It May Be Eaten; Companies Appointed to Eat It; Difference Between First
-and Second Passover](psc12)
+and Second Passover](psc12.md)

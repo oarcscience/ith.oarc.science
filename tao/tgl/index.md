@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index)
+[Sacred-Texts](../../index) [Taoism](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -41,31 +41,31 @@ mental exercises aimed at conferring immortality upon its practicioners.
 
 ------------------------------------------------------------------------
 
-[Title Page](tgl000)  
-[FOREWORD](tgl001)  
-[PREFACE](tgl002)  
-[CONTENTS](tgl003)  
+[Title Page](tgl000.md)  
+[FOREWORD](tgl001.md)  
+[PREFACE](tgl002.md)  
+[CONTENTS](tgl003.md)  
 **INTRODUCTORY**  
- [THE LIFE AND TIMES OF LAO TAN](tgl004)  
- [THE TWO WORLDS](tgl005)  
- [FREEDOM OF LIFE](tgl006)  
- [TAO](tgl007)  
- [WU WEI](tgl008)  
- [PERSISTENCE AND CONTINUITY.](tgl009)  
- [LIU AN](tgl010)  
+ [THE LIFE AND TIMES OF LAO TAN](tgl004.md)  
+ [THE TWO WORLDS](tgl005.md)  
+ [FREEDOM OF LIFE](tgl006.md)  
+ [TAO](tgl007.md)  
+ [WU WEI](tgl008.md)  
+ [PERSISTENCE AND CONTINUITY.](tgl009.md)  
+ [LIU AN](tgl010.md)  
 **TRANSLATIONS**  
- [THE COSMIC SPIRIT](tgl1)  
- [BEGINNING AND REALITY](tgl2)  
- [LIFE AND SOUL](tgl3)  
- [NATURAL LAW](tgl4)  
- [RESPONSE OF MATTER TO THE MOVEMENT OF THE COSMIC SPIRIT.](tgl5)  
- [INFLUENCE OF THE COSMIC SPIRIT ON THE UNIVERSE](tgl6)  
- [GENERALSHIP AND PREVENTION OF ANARCHY](tgl7)  
- [ENDEAVOUR AND DUTY.](tgl8)  
-[NOTES AND ANNOTATIONS.](tgln1)  
-[ELUCIDATIONS AND ANALYSES](tgln2)  
-[TITLES OF THE ESSAYS NOT TRANSLATED](tgln3)  
-[Diagrams](tgln4)  
+ [THE COSMIC SPIRIT](tgl1.md)  
+ [BEGINNING AND REALITY](tgl2.md)  
+ [LIFE AND SOUL](tgl3.md)  
+ [NATURAL LAW](tgl4.md)  
+ [RESPONSE OF MATTER TO THE MOVEMENT OF THE COSMIC SPIRIT.](tgl5.md)  
+ [INFLUENCE OF THE COSMIC SPIRIT ON THE UNIVERSE](tgl6.md)  
+ [GENERALSHIP AND PREVENTION OF ANARCHY](tgl7.md)  
+ [ENDEAVOUR AND DUTY.](tgl8.md)  
+[NOTES AND ANNOTATIONS.](tgln1.md)  
+[ELUCIDATIONS AND ANALYSES](tgln2.md)  
+[TITLES OF THE ESSAYS NOT TRANSLATED](tgln3.md)  
+[Diagrams](tgln4.md)  
 
 ------------------------------------------------------------------------
 

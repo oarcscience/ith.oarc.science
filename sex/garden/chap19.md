@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap18) 
-[Next](chap20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap18.md) 
+[Next](chap20.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ are positive and tested.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 20: Forming the Conclusion of This Work](chap20)
+[Next: Chapter 20: Forming the Conclusion of This Work](chap20.md)

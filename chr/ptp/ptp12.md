@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp11)  [Next](ptp13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp11)  [Next](ptp13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -322,7 +322,7 @@ new Pope. His reign only lasted five months and during that short time
 his principal act was to raise the interdict against the French King. At
 Lisieux the ever alert Bernard heard of this concession to a monarch
 with uneasiness, but any suspicion of weakness he might have harbored
-about the Pope must have [disappeared](errata.htm#4) when Celestine gave
+about the Pope must have [disappeared](errata.htm#4.md) when Celestine gave
 sharp rebuke and broke off relations with the churlish Count Roger of
 Sicily. This Norman leader had sponsored the anti-pope "Victor IV" but
 had since made a species of peace with Innocent, forcing his own terms
@@ -723,7 +723,7 @@ Albert de Mora. As Cardinal of St. Laurence in Lucina he had been known
 for a gentle and conciliatory nature and perhaps it was this reputation
 that won for him the favor of the worried electors. His reign was only
 to last two months but in that short time a new field had attracted the
-ambitions and energies of Frederick. [Jerusalem](errata.htm#5) had been
+ambitions and energies of Frederick. [Jerusalem](errata.htm#5.md) had been
 conquered by the Saracens and their leader, the Kurdish warrior Saladin,
 was achieving success after success against the Christian knights who by
 constant quarrelling in their own ranks were well equipped for defeat. A
@@ -828,4 +828,4 @@ his grave. He had been the 174th pontiff.
 
 ------------------------------------------------------------------------
 
-[Next: Thirteenth Century](ptp13)
+[Next: Thirteenth Century](ptp13.md)

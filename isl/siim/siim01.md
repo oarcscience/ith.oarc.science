@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](siim00)  [Next](siim02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](siim00)  [Next](siim02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Studies in Islamic Mysticism*, by Reynold A. Nicholson, \[1921\], at
 Intangible Textual Heritage
 
@@ -98,7 +98,7 @@ last-named scholar in *Een Javaansche primbon uit de zestiende eeuw*
 Some months after my work had gone to the press, I received from Prof.
 C. A. Nallino an off-print of his article *Il poema mistico arabo d’Ibn
 al-Fāriḍ in una recente traduzione italiana* <span
-id="fr_0"></span>[1](#fn_0), from which I learned that a prose
+id="fr_0"></span>[1](#fn_0.md), from which I learned that a prose
 translation by Sac. Ignazio Di Matteo of Ibnu ’l-Fáriḍ's most celebrated
 ode, the *Tá’iyyatu ’l-Kubrá*, had been published in 1917 at Rome. As
 this book was reproduced in autograph for private circulation, it would
@@ -115,7 +115,7 @@ slight achievement. The articles by Nallino, which include a critical
 examination of numerous passages in the poem, are the most important
 contribution that any European Orientalist has so far made to the study
 of Ibnu ’l-Fáriḍ. In an essay consisting largely of translations, I
-could but indicate (pp. [193](siim17.htm#page_193)-5 *infra*) my views
+could but indicate (pp. [193](siim17.htm#page_193)-5 *infra*.md) my views
 on the main question which he has discussed in his friendly controversy
 with Di Matteo. To him, as to me, it seems clear that the view put
 forward by Di Matteo is erroneous. Neither the form nor the substance of
@@ -124,7 +124,7 @@ some traces of his influence may perhaps be found in
 
 <span id="page_viii">p. viii</span>
 
-it <span id="fr_1"></span>[1](#fn_1). It differs in kind from poems
+it <span id="fr_1"></span>[1](#fn_1.md). It differs in kind from poems
 indubitably so inspired, such as the *‘Ayniyya* of Jílí. Above all, it
 is a mystic's autobiography, a poet's description of his inner life, and
 the terms which it employs belong to the psychological vocabulary of
@@ -146,7 +146,7 @@ Di Matteo for their gifts of books and for the courtesy which
 accompanied them; to Mr A. G. Ellis for the loan of his copy of the
 *Insánu ’l-Kámil*; and to the authorities of the India Office Library
 for placing at my disposal the manuscripts mentioned on [p.
-77](siim07.htm#page_77) *infra*. Especial thanks are due to Mr Rhuvon
+77](siim07.htm#page_77.md) *infra*. Especial thanks are due to Mr Rhuvon
 Guest, who most generously sent me his unpublished translation of the
 *Tá’iyya* of Ibnu ’l-Fáriḍ and allowed me to use it for the purpose of
 correcting and improving my own, before the latter was in print. Mr
@@ -430,11 +430,11 @@ REYNOLD A. NICHOLSON.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](siim01.htm#fr_0) Published in *Rivista
+<span id="fn_0"></span>[vii:1](siim01.htm#fr_0.md) Published in *Rivista
 degli studi orientali* (1919), vol. VIII. l-106.
 
-<span id="fn_1"></span>[viii:1](siim01.htm#fr_1) There is no trustworthy
-basis (cf. [p. 164](siim17.htm#page_164) *infra*) for the statement that
+<span id="fn_1"></span>[viii:1](siim01.htm#fr_1.md) There is no trustworthy
+basis (cf. [p. 164](siim17.htm#page_164) *infra*.md) for the statement that
 Ibnu ’l-Fáriḍ was acquainted with Ibnu ’l-‘Arabí. The latter is said to
 have asked the poet's permission to write a commentary on his *Tá’iyya*,
 and to have received the reply that the *Futúḥátu ’l-Makkiyya* was a
@@ -445,4 +445,4 @@ years before the death of Ibnu ’l-Fáriḍ.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](siim02)
+[Next: Contents](siim02.md)

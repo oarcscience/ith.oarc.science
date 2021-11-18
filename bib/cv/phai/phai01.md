@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai00) 
-[Next](phai02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai00.md) 
+[Next](phai02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -193,7 +193,7 @@ W. ROBERTSON SMITH.
 
 TRANSLATORS’ NOTE.
 
-Pages [237](phai10.htm#page_237) to [425](phai14.htm#page_425) of the
+Pages [237](phai10.htm#page_237) to [425](phai14.htm#page_425.md) of the
 *Prolegomena* and section II of *Israel* are translated by Mr. Menzies;
 for the rest of the volume Mr. Black is responsible. Both desire to
 express their indebtedness to Professor Robertson Smith for many
@@ -201,4 +201,4 @@ valuable suggestions made as the sheets were passing through the press.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents.](phai02)
+[Next: Table of Contents.](phai02.md)

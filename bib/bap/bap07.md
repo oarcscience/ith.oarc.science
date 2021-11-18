@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap06) 
-[Next](bap08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap06.md) 
+[Next](bap08.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,13 +110,13 @@ the city and our
 <span id="page_33">p. 33</span>
 
 author's time. I should assign him to the closing years of the first
-Christian century. <span id="fr_11"></span>[1](#fn_11)
+Christian century. <span id="fr_11"></span>[1](#fn_11.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_11"></span>[33:1](bap07.htm#fr_11) It might even be said
+<span id="fn_11"></span>[33:1](bap07.htm#fr_11.md) It might even be said
 that the vagueness of his hopes and aspirations points to an even later
 period, after the crushing of the Bar-Cochba rising in A.D. 135.
 However, the fact of the acceptance of the book by the Christian Church,
@@ -125,4 +125,4 @@ forbid us to assign to it a date at all late in the second century.
 
 ------------------------------------------------------------------------
 
-[Next: 7. Form](bap08)
+[Next: 7. Form](bap08.md)

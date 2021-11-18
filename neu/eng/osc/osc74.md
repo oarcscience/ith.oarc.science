@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc73)  [Next](osc75) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc73)  [Next](osc75.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ the yew tree where we mostly find it.
 
 ------------------------------------------------------------------------
 
-[Next: (9) Theatre Superstitions](osc75)
+[Next: (9) Theatre Superstitions](osc75.md)

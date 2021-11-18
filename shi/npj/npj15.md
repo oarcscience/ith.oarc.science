@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj14) 
-[Next](npj16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj14.md) 
+[Next](npj16.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Kagekiyo](npj16)
+[Next: Kagekiyo](npj16.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku65)  [Next](tku67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku65)  [Next](tku67.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ latter appeareth white as snow.
 
 500\. In the "Book of the Teaching of the School of Rav Yeyeva the
 Elder" it is said: The forehead is according as the forehead <span
-id="fr_277"></span>[1](#fn_274) of the Ancient One. Otherwise, the
+id="fr_277"></span>[1](#fn_274.md) of the Ancient One. Otherwise, the
 letter *Cheth*, Ch, is placed between the other two letters, according
 
 <span id="page_310">p. 310</span>
@@ -37,7 +37,7 @@ Fish, that which lives in the water*) being counterchanged. (*Netzach =
 Victory, and is the seventh Sephira*).
 
 502\. But many are the NTzChIM, *Netzachim*, Victories; <span
-id="fr_278"></span>[1](#fn_275) so that another (development of) Netzach
+id="fr_278"></span>[1](#fn_275) so that another (development of.md) Netzach
 may be elevated into another path, and other Netzachim may be given
 which are extended throughout the whole body (*of Microprosopus*).
 
@@ -59,7 +59,7 @@ added? Assuredly, in respect of the punishments of the inferior
 tribunals which depend from the Supernals.
 
 508\. Therefore there remain twenty. <span
-id="fr_279"></span>[2](#fn_276) And therefore unto none do they adjudge
+id="fr_279"></span>[2](#fn_276.md) And therefore unto none do they adjudge
 capital punishment until
 
 <span id="page_311">p. 311</span>
@@ -74,21 +74,21 @@ books which are contained in the Law refer back unto these twenty-four.
 
 ### Footnotes
 
-<span id="fn_274"></span>[309:1](tku66.htm#fr_277) The word translated
+<span id="fn_274"></span>[309:1](tku66.htm#fr_277.md) The word translated
 forehead is MTzCh, *Metzach*; now if a metathesis be formed of this word
 by placing the last letter between the first and second letters, we get
 *MChTz*, he shall smite. Hence the first form symbolizes Mercy, and the
 second, Severity.
 
-<span id="fn_275"></span>[310:1](tku66.htm#fr_278) And therefore is the
+<span id="fn_275"></span>[310:1](tku66.htm#fr_278.md) And therefore is the
 divine name of Tzabaoth, or hosts, attributed both to Netzach and to
 Hod, the seventh and eighth Sephiroth. as may be seen by referring to
 the Introduction, and to the "Book of Concealed Mystery," ch. iii. 15,
 annotation.
 
-<span id="fn_276"></span>[310:2](tku66.htm#fr_279) And 20 is H, *He*, in
+<span id="fn_276"></span>[310:2](tku66.htm#fr_279.md) And 20 is H, *He*, in
 the four worlds. for H = 5, which, multiplied by 4 = 20.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: Concerning the Eyes of Microprosopus](tku67)
+[Next: Chapter XIV: Concerning the Eyes of Microprosopus](tku67.md)

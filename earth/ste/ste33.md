@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste32)  [Next](ste34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste32)  [Next](ste34.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,7 +146,7 @@ enough to invent any thing better.
 Besides these Sects of Philosophers, there were Theologers amongst the
 Greeks, more antient than these Sects, and more mystical. *Aristotle*
 often distinguisheth the *Naturalists* and the *Theologues*. <span
-id="fr_11"></span>[1](#fn_11) Such were *Orpheus* and his followers, who
+id="fr_11"></span>[1](#fn_11.md) Such were *Orpheus* and his followers, who
 had more of the antient Oriental Learning than the succeeding
 Philosophers. But they writ their Philosophy, or Theology rather,
 Mythologically and Poetically, in Parables and Allegories, that needed
@@ -307,8 +307,8 @@ your further satisfaction.
 
 ### Footnotes
 
-<span id="fn_11"></span>[243:1](ste33.htm#fr_11) Οἱ φυσικοὶ οἱ θεόλογος.
+<span id="fn_11"></span>[243:1](ste33.htm#fr_11.md) Οἱ φυσικοὶ οἱ θεόλογος.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](ste34)
+[Next: Chapter III](ste34.md)

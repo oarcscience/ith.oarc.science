@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku14)  [Next](lku16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku14)  [Next](lku16.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,4 +194,4 @@ In the starry space.
 
 ------------------------------------------------------------------------
 
-[Next: The Fifteenth Era](lku16)
+[Next: The Fifteenth Era](lku16.md)

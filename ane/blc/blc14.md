@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc13)  [Next](blc15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc13)  [Next](blc15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ fertile in counsel,
 5\. O ASARU-ALIM-NUNA--the adored light of the Father who begat him,
 
 6\. Who makest straight the direction of Anu, Bel, \[and Ea\]. <span
-id="fr_48"></span>[49](blc17.htm#fn_48)
+id="fr_48"></span>[49](blc17.htm#fn_48.md)
 
 7\. He is their patron who fixed \[their\] ...
 
@@ -85,7 +85,7 @@ on them.
 31\. His words shall endure for ever, they shall never be forgotten,
 
 32\. In the mouth of the Black-headed <span
-id="fr_49"></span>[50](blc17.htm#fn_49) whom his hands have made.
+id="fr_49"></span>[50](blc17.htm#fn_49.md) whom his hands have made.
 
 33\. O God TUTU, who art the god MU-AZAG in the fifth place--let their
 mouth recite a holy incantation \[to him\],
@@ -95,7 +95,7 @@ mouth recite a holy incantation \[to him\],
 <span id="img_024"></span> <span align="CENTER"> [![Portion of a tablet
 inscribed in Assyrian with a text of the Seventh Tablet of the Creation
 Series. \[K. 8522.\]](tn/024.png)  
-Click to enlarge](img/024.png)  
+Click to enlarge](img/024.png.md)  
 Portion of a tablet inscribed in Assyrian with a text of the Seventh
 Tablet of the Creation Series. \[K. 8522.\]  
 </span>
@@ -114,7 +114,7 @@ supplied by duplicate fragments are uncertain; in any case they give no
 connected sense.\]
 
 107\. Verily, he holdeth the beginning and the end of them, <span
-id="fr_50"></span>[51](blc17.htm#fn_50) verily ...
+id="fr_50"></span>[51](blc17.htm#fn_50.md) verily ...
 
 108\. Saying, "He who entered into the middle of Tiâmat resteth not;
 
@@ -126,7 +126,7 @@ id="fr_50"></span>[51](blc17.htm#fn_50) verily ...
 
 112\. "He shall \[ever\] take Tiâmat captive, he shall slit up her
 treasure (variant, life), he shall disembowel her." <span
-id="fr_51"></span>[52](blc17.htm#fn_51)
+id="fr_51"></span>[52](blc17.htm#fn_51.md)
 
 113\. Among the men who are to come after a lapse of time,
 
@@ -156,4 +156,4 @@ all eternity,
 
 ------------------------------------------------------------------------
 
-[Next: Epilogue](blc15)
+[Next: Epilogue](blc15.md)

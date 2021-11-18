@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe20)  [Next](toe22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe20)  [Next](toe22.md) 
 
 ------------------------------------------------------------------------
 
@@ -260,4 +260,4 @@ necessarily going into destruction.
 
 ------------------------------------------------------------------------
 
-[Next: Title Page](toe22)
+[Next: Title Page](toe22.md)

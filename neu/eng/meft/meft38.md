@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft37)  [Next](meft39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft37)  [Next](meft39.md) 
 
 ------------------------------------------------------------------------
 
 # The Wee, Wee Mannie
 
 <span id="img_053"></span> [![](tn/053.jpg)  
-Click to enlarge](img/053.jpg)
+Click to enlarge](img/053.jpg.md)
 
 ONCE upon a time, when all big folks were wee ones and all lies were
 true, there was a wee, wee Mannie that had a big, big Coo. And out he
@@ -97,4 +97,4 @@ went well that didn't go ill.
 
 ------------------------------------------------------------------------
 
-[Next: Habetrot and Scantlie Mab](meft39)
+[Next: Habetrot and Scantlie Mab](meft39.md)

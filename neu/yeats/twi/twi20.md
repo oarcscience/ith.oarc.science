@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](twi19)  [Next](twi21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](twi19)  [Next](twi21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Twilight*, by William Butler Yeats, \[1893, 1902\], at
 Intangible Textual Heritage
 
@@ -45,4 +45,4 @@ When they turned the corner they could not find anything.
 
 ------------------------------------------------------------------------
 
-[Next: A Voice](twi21)
+[Next: A Voice](twi21.md)

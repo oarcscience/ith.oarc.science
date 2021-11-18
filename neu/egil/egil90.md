@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil89)  [Next](egil91) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil89)  [Next](egil91.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ within Skards-heath.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XC. Death of Egil Skallagrim's son.](egil91)
+[Next: CHAPTER XC. Death of Egil Skallagrim's son.](egil91.md)

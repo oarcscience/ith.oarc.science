@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz19)  [Next](krz21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz19)  [Next](krz21.md) 
 
 ------------------------------------------------------------------------
 
@@ -242,7 +242,7 @@ degrading, to redeem and purify sex, not only to maintain its perfect
 natural innocence, but to add to it the chivalrous, the moral, the
 religious, in an ascending scale. Thus it satisfies the mind and soul.
 
-It gives complete birth control. <span id="fr_5"></span>[3](#fn_5)
+It gives complete birth control. <span id="fr_5"></span>[3](#fn_5.md)
 
 A general knowledge and use of it must certainly lift most of the odium
 which now attaches to everything sexual, thus increasing the respect for
@@ -279,9 +279,9 @@ maintains youth and is one of the best of the health exercises.
 
 ### Footnotes
 
-<span id="fn_5"></span>[58:3](krz20.htm#fr_5) This is not true. It does,
+<span id="fn_5"></span>[58:3](krz20.htm#fr_5.md) This is not true. It does,
 however, make conception less likely. *Ed.*
 
 ------------------------------------------------------------------------
 
-[Next: Appendix to the Karezza Method](krz21)
+[Next: Appendix to the Karezza Method](krz21.md)

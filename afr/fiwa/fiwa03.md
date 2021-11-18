@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa02)  [Next](fiwa04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa02)  [Next](fiwa04.md) 
 
 ------------------------------------------------------------------------
 
@@ -958,4 +958,4 @@ origin and the details of its use in the subsequent chapters.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: The Idea of God--Religion](fiwa04)
+[Next: Chapter II: The Idea of God--Religion](fiwa04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml64)  [Next](yml66) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml64)  [Next](yml66.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ all about Tosalisewa, completely. Here it ends. There is no more. LC
 
 ------------------------------------------------------------------------
 
-[Next: Cho'oko Baso](yml66)
+[Next: Cho'oko Baso](yml66.md)

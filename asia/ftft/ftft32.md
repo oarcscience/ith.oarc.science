@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft31)  [Next](ftft33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft31)  [Next](ftft33.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_243">p. 243</span>
 
 <span id="img_24300"></span> ![The Padishah of the Thirty
-Peris](img/24300.jpg)
+Peris](img/24300.jpg.md)
 
 <span id="img_ainit"></span>
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 VERY long time ago, when the fairies lived, while I was lounging about
 in forbidden gardens, I came across one in which I fared very badly. I
@@ -95,7 +95,7 @@ he walked in. <span id="img_24500"></span>
 
 |                                                            |
 |------------------------------------------------------------|
-| ![The bald one took his mother on his back](img/24500.jpg) |
+| ![The bald one took his mother on his back](img/24500.jpg.md) |
 
 Ascending the grand staircase, he entered the antechamber, and thence
 wandered from one richly decorated apartment to another until he was
@@ -118,7 +118,7 @@ Meanwhile the bald one, feeling hungry, thought that, as there was no
 
 |                                                           |
 |-----------------------------------------------------------|
-| ![He received a terrible blow on his hand](img/24600.jpg) |
+| ![He received a terrible blow on his hand](img/24600.jpg.md) |
 
 one about, he might come forth from his hiding-place and help himself to
 food. As he stretched forth his hand to grasp the viands he received
@@ -240,4 +240,4 @@ union for forty days and forty nights.
 
 ------------------------------------------------------------------------
 
-[Next: The Deceiver and the Thief](ftft33)
+[Next: The Deceiver and the Thief](ftft33.md)

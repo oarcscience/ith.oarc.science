@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Next](wbw01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Next](wbw01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -26,6 +26,6 @@ Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Of Golden Walter And His Father](wbw01)
+[Next: Chapter I: Of Golden Walter And His Father](wbw01.md)
 
 </div>

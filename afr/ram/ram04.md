@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram03)  [Next](ram05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram03)  [Next](ram05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -49,7 +49,7 @@ spectator had to be put to death. One case is on record in which the
 king's son, a boy of twelve, saw his father drink accidentally. He was
 seized, finely arrayed, and killed. After that his body was quartered
 and sent about with a proclamation that he had seen the king
-drink. <span id="fr_23"></span>[\*](#fn_23) No more was needed.
+drink. <span id="fr_23"></span>[\*](#fn_23.md) No more was needed.
 
 Of this class of divine rulers is the Mikado of Japan, a descendant of
 Izangi, who gave birth to the god of fire. After her death, her spouse,
@@ -58,9 +58,9 @@ running water. As he threw his garments on the bank—the gods seem to
 have been familiar with the modern tailor's art in those days—fresh
 deities were born from each article. From his left eye emerged the
 goddess of the Sun, who was the ancestress of all the divine generations
-of rulers. <span id="fr_24"></span>[†](#fn_24) The following account of
+of rulers. <span id="fr_24"></span>[†](#fn_24.md) The following account of
 the Mikado was written about two hundred years ago: <span
-id="fr_25"></span>[‡](#fn_25)
+id="fr_25"></span>[‡](#fn_25.md)
 
 "Even to this day princes descended of this family, more particularly
 those who sit on the throne, are looked upon as persons most holy in
@@ -115,7 +115,7 @@ equal jealousy and care. At Shark Point, West Africa, the king lives
 alone in a wood. He may never leave his house. He may not touch a woman.
 On no account must he quit his royal chair, even to sleep, for in that
 case the wind would die down and all navigation would be stopped. <span
-id="fr_26"></span>[\*](#fn_26) The supreme ruler at Congo is such
+id="fr_26"></span>[\*](#fn_26.md) The supreme ruler at Congo is such
 another. Regarded as a god on earth, no subject would, on any
 consideration, taste the new crop till an offering of it is made to him.
 Then he leaves his residence to visit other parts of his territory, all
@@ -127,7 +127,7 @@ Chitome.
 
 <span class="contnote">\[paragraph continues\]</span> Were he to die a
 natural death, the world would be annihilated. <span
-id="fr_27"></span>[\*](#fn_27)
+id="fr_27"></span>[\*](#fn_27.md)
 
 Illustrations might be multiplied, but whether in Africa, Japan, or the
 South Sea Islands, the order and regularity of nature is bound up with
@@ -164,7 +164,7 @@ perhaps their sons or daughters.
 Of the divine King of Loango it is said that the greater his divinity
 the more restrictions or taboos he must observe. These regulate all his
 actions, his walking and his sitting, his eating and drinking, his
-sleeping and waking. <span id="fr_28"></span>[\*](#fn_28) To the same
+sleeping and waking. <span id="fr_28"></span>[\*](#fn_28.md) To the same
 restrictions the heir is subjected from infancy, only that the number of
 observances during childhood are comparatively few, but increasing in
 number, till on his reaching manhood he is lost in the swaddling-clothes
@@ -173,7 +173,7 @@ worshipped as divine are, subject to the same life of immobility and
 inaction. King Egbo, West Africa, when he went abroad was concealed in
 an ark as became a divine and supernatural being. This was carried on
 the shoulders of men who were set apart for the sacred office, and were
-themselves sacred persons. <span id="fr_29"></span>[†](#fn_29) The
+themselves sacred persons. <span id="fr_29"></span>[†](#fn_29.md) The
 sacred bearers still remain, but when Egbo, who has left the palace to
 the actual ruler, and now lives in a sacred grove that none may enter or
 explore, goes abroad, the ark contains but a dummy which is followed by
@@ -205,7 +205,7 @@ selected from five families who are royal, and through whom the
 succession to the throne is carefully kept up. They have a custom called
 Rab which compels the four families out of office to destroy all their
 children; those reigning for the time being allowed to rear
-theirs. <span id="fr_30"></span>[\*](#fn_30) It is doubtless from such
+theirs. <span id="fr_30"></span>[\*](#fn_30.md) It is doubtless from such
 examples being common, that facts such as those recorded in the Book of
 Exodus regarding
 
@@ -227,7 +227,7 @@ a closed ark in the fetish-house.
 There was another, and perhaps a more powerful, reason among primitive
 men why those who were men of action should decline the honours of
 divinity, and that was the practice of killing the god. <span
-id="fr_31"></span>[\*](#fn_31) Ancient mythology has made us familiar
+id="fr_31"></span>[\*](#fn_31.md) Ancient mythology has made us familiar
 with the idea of the death of the gods, and if divine and spiritual
 deities were subject to decrepitude, decay, and death, how much more the
 human gods of primitive man? It was natural that men in faraway times
@@ -251,7 +251,7 @@ There was only one way open by which the danger could be met, and that
 was by putting the god to death while still in the full possession of
 his faculties or on the first appearance of outward symptoms of decay,
 as a grey hair or hollow tooth, and thus secure the entrance of his soul
-or divinity into his successor. <span id="fr_32"></span>[\*](#fn_32)
+or divinity into his successor. <span id="fr_32"></span>[\*](#fn_32.md)
 Should he die a natural death, even in his prime, and before the dangers
 of decay appeared, his soul might be stolen, or stray away into winter
 and night to wander for ever. If the world were to collapse on the King
@@ -259,8 +259,8 @@ of Congo dying a natural death, such a contingency could only be averted
 by dispatching him to the land of shadows by violent means. So it was
 that when a king fell ill his heir and successor entered his house with
 a rope and club, and either strangled or clubbed him to death. <span
-id="fr_33"></span>[†](#fn_33) "The King of Quiteva, in Eastern Africa,
-ranked with deity," <span id="fr_34"></span>[‡](#fn_34) and this
+id="fr_33"></span>[†](#fn_33.md) "The King of Quiteva, in Eastern Africa,
+ranked with deity," <span id="fr_34"></span>[‡](#fn_34.md) and this
 continued till one of the kings lost a tooth, and feeling no disposition
 to
 
@@ -277,7 +277,7 @@ predecessors, whom he taxed with imprudence, nay, even with madness, for
 condemning themselves to death for casual accidents to their persons;
 and abrogating this mortal law, he ordained that all his successors, if
 sane, should follow the precedent he gave, and the new law established
-by him." <span id="fr_35"></span>[\*](#fn_35)
+by him." <span id="fr_35"></span>[\*](#fn_35.md)
 
 This man, whose name is not given, was as bold a reformer as was
 Ergamenes of Meroe. There the kings were worshipped as gods, but
@@ -299,7 +299,7 @@ than the Harakiri of the Japanese. The first modification of the Calicut
 law of succession was made towards the end of the seventeenth century,
 when at the end of the twelve years a tent was pitched, and the king had
 a great feast lasting ten or twelve days, at the end of which any one
-might kill him and gain the crown. <span id="fr_36"></span>[\*](#fn_36)
+might kill him and gain the crown. <span id="fr_36"></span>[\*](#fn_36.md)
 To do so he must cut his way, sword in hand, through the king's
 bodyguard to reach him in his tent. The desperate attempt was at times
 made but never with success.
@@ -360,7 +360,7 @@ to a field and draws nine furrows, where seed is sown by old women. When
 the ninth furrow is finished, the spectators rush to pick up the seed
 just sown to mix with their own, and so secure a plentiful crop. This
 temporary king is known as "Lord of the Heavenly Host." <span
-id="fr_37"></span>[\*](#fn_37) These customs, and especially the killing
+id="fr_37"></span>[\*](#fn_37.md) These customs, and especially the killing
 of the king or his substitute, introduce us to the earliest form of
 human sacrifice, a system which developed to such gigantic proportions
 as men's conception of the supernatural advanced from the ideas of human
@@ -373,44 +373,44 @@ worship we shall now turn.
 
 ### Footnotes
 
-<span id="fn_23"></span>[21:\*](ram04.htm#fr_23) J. G. Frazer, *Golden
+<span id="fn_23"></span>[21:\*](ram04.htm#fr_23.md) J. G. Frazer, *Golden
 Bough*.
 
-<span id="fn_24"></span>[21:†](ram04.htm#fr_24) Chamberlain; *Things
+<span id="fn_24"></span>[21:†](ram04.htm#fr_24.md) Chamberlain; *Things
 Japanese*.
 
-<span id="fn_25"></span>[21:‡](ram04.htm#fr_25) Kaempfer, "History of
+<span id="fn_25"></span>[21:‡](ram04.htm#fr_25.md) Kaempfer, "History of
 Japan," in *Pinkerton's Voyages and Travels*.
 
-<span id="fn_26"></span>[23:\*](ram04.htm#fr_26) J. G. Frazer, *Golden
+<span id="fn_26"></span>[23:\*](ram04.htm#fr_26.md) J. G. Frazer, *Golden
 Bough*.
 
-<span id="fn_27"></span>[24:\*](ram04.htm#fr_27) J. G. Frazer, quoting
+<span id="fn_27"></span>[24:\*](ram04.htm#fr_27.md) J. G. Frazer, quoting
 Labat.
 
-<span id="fn_28"></span>[25:\*](ram04.htm#fr_28) Bastian.
+<span id="fn_28"></span>[25:\*](ram04.htm#fr_28.md) Bastian.
 
-<span id="fn_29"></span>[25:†](ram04.htm#fr_29) Waddell.
+<span id="fn_29"></span>[25:†](ram04.htm#fr_29.md) Waddell.
 
-<span id="fn_30"></span>[26:\*](ram04.htm#fr_30) Krapf.
+<span id="fn_30"></span>[26:\*](ram04.htm#fr_30.md) Krapf.
 
-<span id="fn_31"></span>[27:\*](ram04.htm#fr_31) Frazer, *Golden Bough*.
+<span id="fn_31"></span>[27:\*](ram04.htm#fr_31.md) Frazer, *Golden Bough*.
 
-<span id="fn_32"></span>[28:\*](ram04.htm#fr_32) J. G. Frazer, *Golden
+<span id="fn_32"></span>[28:\*](ram04.htm#fr_32.md) J. G. Frazer, *Golden
 Bough*.
 
-<span id="fn_33"></span>[28:†](ram04.htm#fr_33) Labat.
+<span id="fn_33"></span>[28:†](ram04.htm#fr_33.md) Labat.
 
-<span id="fn_34"></span>[28:‡](ram04.htm#fr_34) Dos Santos.
+<span id="fn_34"></span>[28:‡](ram04.htm#fr_34.md) Dos Santos.
 
-<span id="fn_35"></span>[29:\*](ram04.htm#fr_35) Dos Santos.
+<span id="fn_35"></span>[29:\*](ram04.htm#fr_35.md) Dos Santos.
 
-<span id="fn_36"></span>[30:\*](ram04.htm#fr_36) Hamilton, quoted by J.
+<span id="fn_36"></span>[30:\*](ram04.htm#fr_36.md) Hamilton, quoted by J.
 G. Frazer.
 
-<span id="fn_37"></span>[32:\*](ram04.htm#fr_37) J. G. Frazer, quoting
+<span id="fn_37"></span>[32:\*](ram04.htm#fr_37.md) J. G. Frazer, quoting
 Pallegoix.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Evolution of Deity](ram05)
+[Next: Chapter III. Evolution of Deity](ram05.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Thomas Paine](../index)  [Index](index) 
-[Previous](aor02)  [Next](aor04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Thomas Paine](../index)  [Index](index.md) 
+[Previous](aor02)  [Next](aor04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595479104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595479104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ unadulterated belief of one God, and no more.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Of Missions and Revelations](aor04)
+[Next: Chapter II. Of Missions and Revelations](aor04.md)

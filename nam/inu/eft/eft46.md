@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft45)  [Next](eft47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft45)  [Next](eft47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -205,7 +205,7 @@ used to make breeches for my wife, to be pierced with holes by the point
 of a harpoon?"
 
  So he lay alongside the piece of ice, and began whistling to that
-seal.<span id="page_126_fr_*"></span>[\*](#page_126_note_*) And he was
+seal.<span id="page_126_fr_*"></span>[\*](#page_126_note_*.md) And he was
 just about to grasp hold of it when the <span id="page_127">p.
 127</span> seal went down. But he watched it carefully, and when it came
 up again, he rowed over to it once more. Now he lifted his harpoon and
@@ -240,7 +240,7 @@ mother's side as usual."
  Hardly had he said this when the mourners looked up eagerly, and cried:
 
  "Ah, how grateful we are to you!<span
-id="page_127_fr_*"></span>[\*](#page_127_note_*) Now your little
+id="page_127_fr_*"></span>[\*](#page_127_note_*.md) Now your little
 daughter can have all her things."
 
  And they gave him beads, and the little girl's mother said:
@@ -374,12 +374,12 @@ Therefore they said:
 
 <span id="footnotes_page_126">p. 126</span>
 
-<span id="page_126_note_*"></span>[\*](#page_126_fr_*) Speckled seal may
+<span id="page_126_note_*"></span>[\*](#page_126_fr_*.md) Speckled seal may
 often be caught in this fashion.
 
 <span id="footnotes_page_127">p. 127</span>
 
-<span id="page_127_note_*"></span>[\*](#page_127_fr_*) The souls of the
+<span id="page_127_note_*"></span>[\*](#page_127_fr_*.md) The souls of the
 dead are supposed to be born again in the body of one named after them.
 
  
@@ -414,4 +414,4 @@ dead are supposed to be born again in the body of one named after them.
 
 ------------------------------------------------------------------------
 
-[Next: THE EAGLE AND THE WHALE](eft47)
+[Next: THE EAGLE AND THE WHALE](eft47.md)

@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sikhism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](rosi04) 
-[Next](rosi06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sikhism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](rosi04.md) 
+[Next](rosi06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Sikhs*, by Dorothy Field, \[1914\], at Intangible
 Textual Heritage
 
@@ -44,7 +44,7 @@ Hindu, or, if Muhammadan, had been largely influenced by Hinduism. Their
 declaration of the Unity of God was part of a natural Hindu development.
 
 *Monotheistic Thought grows from Polytheism*.—From the very earliest
-times in the Rig Veda <span id="fr_22"></span>[1](#fn_22) a tendency to
+times in the Rig Veda <span id="fr_22"></span>[1](#fn_22.md) a tendency to
 monotheism may be noticed. One god is frequently chosen from the rest of
 the pantheon and exalted in some particular hymn till he becomes supreme
 and infinite, all lesser deities being but his servants and emanations
@@ -62,7 +62,7 @@ philosophy arose, by which God became the neuter World-Soul, immanent in
 matter. He thus lost the attributes of personality and could only be
 expressed by negation and realised by meditation. This pantheism finds
 full expression in such texts as the following, which represents the
-spirit of the Vedānta: <span id="fr_23"></span>[1](#fn_23)
+spirit of the Vedānta: <span id="fr_23"></span>[1](#fn_23.md)
 
 <div style="margin-left: 32px">
 
@@ -120,9 +120,9 @@ the later religion
 of the Prophet came into contact with Hinduism it helped to fan the
 flame of monotheistic devotion, and to give it exclusiveness and
 proselytising zeal. The Hindu Bhāgats <span
-id="fr_24"></span>[1](#fn_24) or saints, who preceded Nānak, show to a
+id="fr_24"></span>[1](#fn_24.md) or saints, who preceded Nānak, show to a
 considerable extent this influence of Islām, especially perhaps, the
-greatest of all, Kabīr, <span id="fr_25"></span>[2](#fn_25) who when a
+greatest of all, Kabīr, <span id="fr_25"></span>[2](#fn_25.md) who when a
 child had been adopted by Muhammadans.
 
 *The Older Reformers quietistic*.—Speaking generally, however, there was
@@ -173,19 +173,19 @@ not in any way dependent on association with Hinduism.
 
 ### Footnotes
 
-<span id="fn_22"></span>[37:1](rosi05.htm#fr_22) The *Rig Veda* is one
+<span id="fn_22"></span>[37:1](rosi05.htm#fr_22.md) The *Rig Veda* is one
 of the oldest literary productions in the world, some parts of it dating
 from as far back as two thousand years before Christ. It is called by
 Sikhs the "white" Veda.
 
-<span id="fn_23"></span>[38:1](rosi05.htm#fr_23) Vedanta (lit. *Veda's
+<span id="fn_23"></span>[38:1](rosi05.htm#fr_23.md) Vedanta (lit. *Veda's
 end*) is a term applied to various Hindu works, commentaries on the
 Vedas, which set forth this Hindu pantheistic philosophy.
 
-<span id="fn_24"></span>[40:1](rosi05.htm#fr_24) The word Bhāgat is
+<span id="fn_24"></span>[40:1](rosi05.htm#fr_24.md) The word Bhāgat is
 derived from a Sanscrit word Bhakti = love or devotion.
 
-<span id="fn_25"></span>[40:2](rosi05.htm#fr_25) It has been suggested
+<span id="fn_25"></span>[40:2](rosi05.htm#fr_25.md) It has been suggested
 that Kabīr was influenced by Christianity. It is curious that a
 sacramental meal has boon found among the observances of his followers,
 but this may by the remains of Muhammadan Sufism.
@@ -194,6 +194,6 @@ but this may by the remains of Muhammadan Sufism.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Doctrines of the Sikhs](rosi06)
+[Next: Chapter III. The Doctrines of the Sikhs](rosi06.md)
 
 </div>

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dpr08)  [Next](dpr10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dpr08)  [Next](dpr10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -991,7 +991,7 @@ it not that they might know what evils are sins to be shunned? Was it
 only that they might know and believe, but do nothing? Why is it said
 that this is new? To this they could only reply that they know and yet
 do not know, and that they never think of the sixth <span
-id="fr_4"></span>[265-1](#fn_4) commandment when they commit adultery,
+id="fr_4"></span>[265-1](#fn_4.md) commandment when they commit adultery,
 or about the seventh when they steal or defraud secretly, and so on, and
 still less that such acts are contrary to divine law, thus contrary to
 God.
@@ -2389,10 +2389,10 @@ his affection and a spirit of hell his lust.
 
 ### Footnotes
 
-<span id="fn_4"></span>[265-1](dpr09.htm#fr_4) Swedenborg follows the
+<span id="fn_4"></span>[265-1](dpr09.htm#fr_4.md) Swedenborg follows the
 numbering of the Commandments customary with Lutherans, as with Roman
 Catholics.
 
 ------------------------------------------------------------------------
 
-[Next: 301-350](dpr10)
+[Next: 301-350](dpr10.md)

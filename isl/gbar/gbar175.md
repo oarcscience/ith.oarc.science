@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar174) [Next](gbar176)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar174) [Next](gbar176.md)
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ while every servant of mine despiseth you."
 
 ------------------------------------------------------------------------
 
-[Next](gbar176)
+[Next](gbar176.md)

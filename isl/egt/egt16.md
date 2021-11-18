@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt15)  [Next](egt17) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt15)  [Next](egt17.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ traditions--we admit the whole of them.
 
 ------------------------------------------------------------------------
 
-[Next: OF THOSE WHO HEED NOT.](egt17)
+[Next: OF THOSE WHO HEED NOT.](egt17.md)

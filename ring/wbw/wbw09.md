@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw08) 
-[Next](wbw10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw08.md) 
+[Next](wbw10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -135,6 +135,6 @@ that if it were so, he must needs slay and be slain.
 ------------------------------------------------------------------------
 
 [Next: Chapter X: Walter Happeneth On Another Creature In The Strange
-Land](wbw10)
+Land](wbw10.md)
 
 </div>

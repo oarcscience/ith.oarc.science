@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac56)  [Next](ybac58) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac56)  [Next](ybac58.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Gates, \[1937\], at Intangible Textual Heritage
 <span id="img_11400"></span>
 
 [![Letter in Maya to the King of Spain](tn/11400.jpg)  
-Click to enlarge](img/11400.jpg)  
+Click to enlarge](img/11400.jpg.md)  
   
 
 An exact duplicate of the above, in wording and handwriting, and
@@ -87,4 +87,4 @@ LUIS PECH, town governor of Moxop’ip’.
 
 ------------------------------------------------------------------------
 
-[Next: Letter of Francisco de Montejo Xiu](ybac58)
+[Next: Letter of Francisco de Montejo Xiu](ybac58.md)

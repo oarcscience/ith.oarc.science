@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap09) 
-[Next](bap11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap09.md) 
+[Next](bap11.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ Introduction.
 
 ------------------------------------------------------------------------
 
-[Next: 10. Relation to Other Literature](bap11)
+[Next: 10. Relation to Other Literature](bap11.md)

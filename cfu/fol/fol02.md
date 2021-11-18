@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](fol01)  [Next](fol03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](fol01)  [Next](fol03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Feast of Lanterns*, by L. Cranmer-Byng, \[1916\], at Intangible
 Textual Heritage
 
@@ -38,4 +38,4 @@ S. A. KAPADIA.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](fol03)
+[Next: Introduction](fol03.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs35)  [Next](pifs37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs35)  [Next](pifs37.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ absolutely literal translation almost unintelligible. It ma interest you
 to see exactly how one of these folk-stories is told--original Indian
 and all; so here is an interlined translation of such a story, each
 Indian word having printed under it the English word (or words) for
-which it stands. <span id="fr_114"></span>[1](#fn_113)
+which it stands. <span id="fr_114"></span>[1](#fn_113.md)
 
 <span id="page_241">p. 241</span>
 
@@ -38,7 +38,7 @@ In a house, \| they say, \| Cane-Black-Old-Man
 
 an I-eh-bú-reh-kún-hli-o I-eh-ch'ú-ri-ch'ah  
 and \| Ear-of-Corn-with-Husks-Woman, \| Corn-Yellow-Girl, <span
-id="fr_115"></span>[1](#fn_114) (and)
+id="fr_115"></span>[1](#fn_114) (and.md)
 
 Na-chur-ú-chu iḿ-u-u-f'hir i-i-tú-ai. Tu-ai-  
 Blue-Dawn (proper name) \| (and) their little son, lived they. Cane-
@@ -128,7 +128,7 @@ it was, \| passing by, \| he heard \| the child
 ah-náh-ch'áh:  
 singing:
 
-"*Chéh-e-máh-weh, máh-weh* <span id="fr_116"></span>[1](#fn_115)*  
+"*Chéh-e-máh-weh, máh-weh* <span id="fr_116"></span>[1](#fn_115.md)*  
 Chéh-e-máh-weh, máh-weh  
            tú-ti kéh-weh  
            tú kéh-weh  
@@ -192,7 +192,7 @@ to bring him down, \| but \| they couldn't.
 wah.
 
   Hú-bak hí-yo-kú-ak-kwó-a-bén ee-chee-em-  
-  Then \| Stone-Layers <span id="fr_117"></span>[1](#fn_116) \| flying
+  Then \| Stone-Layers <span id="fr_117"></span>[1](#fn_116.md) \| flying
 
 mee-ay.  
 were.
@@ -464,7 +464,7 @@ You have a tail on.
 
 ### Footnotes
 
-<span id="fn_113"></span>[240:1](pifs36.htm#fr_114) In pronouncing the
+<span id="fn_113"></span>[240:1](pifs36.htm#fr_114.md) In pronouncing the
 Tigua, *A* is like *ah*, and *U* like *oo* in "boo"; *I* and *ee* sound
 like *ee* in "deed"; *E* like *ay* in "day"; *Eh* like *e* in "bed"; *Ü*
 as in the German; *Hui* like "wee"--as which it is often spelled here;
@@ -473,16 +473,16 @@ the vowel is to be pronounced "through the nose." The other letters have
 their ordinary English sounds. The apostrophe means a little holding of
 the breath after the consonant, before making the vowel sounds at all.
 
-<span id="fn_114"></span>[241:1](pifs36.htm#fr_115) N.'s sister.
+<span id="fn_114"></span>[241:1](pifs36.htm#fr_115.md) N.'s sister.
 
-<span id="fn_115"></span>[243:1](pifs36.htm#fr_116) Not Isleta words.
+<span id="fn_115"></span>[243:1](pifs36.htm#fr_116.md) Not Isleta words.
 Perhaps Chimayó. Many of the ceremonial songs are in other Indian
 languages--perhaps to add to the mystery with which the medicine-men
 surround their profession.
 
-<span id="fn_116"></span>[245:1](pifs36.htm#fr_117) A kind of swallow.
+<span id="fn_116"></span>[245:1](pifs36.htm#fr_117.md) A kind of swallow.
 "Masons."
 
 ------------------------------------------------------------------------
 
-[Next: Grandma-Spider](pifs37)
+[Next: Grandma-Spider](pifs37.md)

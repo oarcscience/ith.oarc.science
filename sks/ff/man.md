@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../man/man) 
-[Previous](coe)  [Next](lll) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../man/man.md) 
+[Previous](coe)  [Next](lll.md) 
 
 ------------------------------------------------------------------------
 
@@ -3550,4 +3550,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Loues Labour's lost](lll) 
+[Next: Loues Labour's lost](lll.md) 

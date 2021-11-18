@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre20)  [Next](gre22) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre20)  [Next](gre22.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ let out little thereon, but said that he would turn out an unruly man.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII: Of Grettir's Voyage out](gre22)
+[Next: Chapter XVII: Of Grettir's Voyage out](gre22.md)

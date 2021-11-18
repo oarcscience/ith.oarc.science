@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Miscellaneous](../../index)  [Christmas](../index)  [Index](index) 
-[Previous](acc03)  [Next](acc05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Miscellaneous](../../index)  [Christmas](../index)  [Index](index.md) 
+[Previous](acc03)  [Next](acc05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -820,8 +820,8 @@ parting squeeze, in which his hand relaxed; and had barely time to reel
 to bed, before he sank into a heavy sleep.
 
 <span id="img_07300"></span> <span align="CENTER"> [![](tn/07300.jpg)  
-Click to enlarge](img/07300.jpg)</span>
+Click to enlarge](img/07300.jpg.md)</span>
 
 ------------------------------------------------------------------------
 
-[Next: Stave Three. The Second of the Three Spirits](acc05)
+[Next: Stave Three. The Second of the Three Spirits](acc05.md)

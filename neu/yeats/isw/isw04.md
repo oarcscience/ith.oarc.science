@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](isw03)  [Next](isw05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](isw03)  [Next](isw05.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ I could weep that the old is out of season.
 
 ------------------------------------------------------------------------
 
-[Next: The Folly of Being Comforted](isw05)
+[Next: The Folly of Being Comforted](isw05.md)

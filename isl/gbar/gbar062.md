@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar061) [Next](gbar063)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar061) [Next](gbar063.md)
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ from God, even so should he spend all for the love of God.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar063)
+[Next](gbar063.md)

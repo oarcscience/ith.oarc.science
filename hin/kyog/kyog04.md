@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](kyog03)  [Next](kyog05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](kyog03)  [Next](kyog05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Karma-Yoga*, by Swami Vivekananda, \[1921\], at Intangible Textual
 Heritage
 
@@ -232,7 +232,7 @@ I am married, I do my duty to my husband; that is all the Yoga I
 practise. But by doing my duty I have become illumined; thus I could
 read your thoughts and know what you had done in the forest. If you want
 to know something higher than this, go to the market of such and such a
-town where you will find a *Vyadha* <span id="fr_0"></span>[\*](#fn_0)
+town where you will find a *Vyadha* <span id="fr_0"></span>[\*](#fn_0.md)
 who will tell you something that you will be very glad to learn." The
 Sannyasin thought:—"Why should I go to that town and to a *Vyadha*!" But
 after what he had seen, his mind opened a little, so he went. When he
@@ -304,13 +304,13 @@ Light!
 
 ### Footnotes
 
-<span id="fn_0"></span>[67:\*](kyog04.htm#fr_0) The lowest class of
+<span id="fn_0"></span>[67:\*](kyog04.htm#fr_0.md) The lowest class of
 people in India who used to live as hunters and butchers.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. We Help Ourselves, Not the World](kyog05)
+[Next: Chapter V. We Help Ourselves, Not the World](kyog05.md)
 
 </div>

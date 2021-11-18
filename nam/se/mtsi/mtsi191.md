@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi190)  [Next](mtsi192) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi190)  [Next](mtsi192.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ him out to sea. Rabbit, however, went back to his place.
 
 ------------------------------------------------------------------------
 
-[Next: 56. Rabbit Kills Big Man-eater](mtsi192)
+[Next: 56. Rabbit Kills Big Man-eater](mtsi192.md)

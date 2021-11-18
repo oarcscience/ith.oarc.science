@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey16)  [Next](grey18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey16)  [Next](grey18.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,4 +250,4 @@ this too is the burden of a song still current.'
 ------------------------------------------------------------------------
 
 [Next: The Story of Maru-tuahu, the Son of Hotunui, and of Kahurare-moa,
-the daughter of Paka](grey18)
+the daughter of Paka](grey18.md)

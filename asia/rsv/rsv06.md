@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv05)  [Next](rsv07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv05)  [Next](rsv07.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ tranquility of soul that man forever seeks.
 
 His practice was to accept all the main religious rites. He seems to
 have rejected the idea that true life exists after death as the
-Christians believe, or in Nirvana as the [Buddhists](errata.htm#6)
+Christians believe, or in Nirvana as the [Buddhists](errata.htm#6.md)
 believe. He advocated the enjoyment of a simple life, especially family
 life, and harmonious social relations. Even though Confucius did not
 believe in a personal God, his system had its scriptures, rituals,
@@ -114,7 +114,7 @@ Vietnamese Confucianism, though without a strong formalized
 organization, still vitally affects nearly all ethnic Vietnamese. This
 is part of the cultural environment into which the child is born.
 
-Confucianism gave Vietnam a highly organized [hierarchial](errata.htm#7)
+Confucianism gave Vietnam a highly organized [hierarchial](errata.htm#7.md)
 society. Yet while encouraging the improvement of the individual, it did
 so in order that he could better function for the community. For the
 individual was, and is, perceived to have little value beyond the family
@@ -300,4 +300,4 @@ The round dirt grave symbolizes the ''circle of life''. Such graves dot the coun
 
 ------------------------------------------------------------------------
 
-[Next: IV. Hinduism in Vietnam](rsv07)
+[Next: IV. Hinduism in Vietnam](rsv07.md)

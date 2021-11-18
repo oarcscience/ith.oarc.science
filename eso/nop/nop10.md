@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](nop09)  [Next](nop11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](nop09)  [Next](nop11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Numbers, Their Occult Power and Mystic Virtues*, by W. Wynn Westcott,
 \[1911\], at Intangible Textual Heritage
 
@@ -37,6 +37,6 @@ understand a period of suffering.
 
 ------------------------------------------------------------------------
 
-[Next: The Tetrad. 4.](nop11)
+[Next: The Tetrad. 4.](nop11.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob00) 
-[Next](tob02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob00.md) 
+[Next](tob02.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ PAPUS.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](tob02)
+[Next: Contents](tob02.md)

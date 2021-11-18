@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto05) 
-[Next](aoto07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto05.md) 
+[Next](aoto07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -70,12 +70,12 @@ concluded by asking her name and country.
 
 Minerva said she was Mentes, chief of the Taphians, and <span
 class="margnote"><span id="an_1:178">178</span></span> was on her way to
-Temesa <span id="fr_8"></span>[\*](#fn_8) with a cargo of iron, which
+Temesa <span id="fr_8"></span>[\*](#fn_8.md) with a cargo of iron, which
 she should exchange for copper. She told Telemachus that her ship was
 lying outside the town, under Mt. Neritum, <span
-id="fr_9"></span>[†](#fn_9) in the <span class="margnote"><span
+id="fr_9"></span>[†](#fn_9.md) in the <span class="margnote"><span
 id="an_1:186">186</span></span> harbour that was called Rheithron. <span
-id="fr_10"></span>[‡](#fn_10) "Go," she added, "and ask old Laertes, who
+id="fr_10"></span>[‡](#fn_10.md) "Go," she added, "and ask old Laertes, who
 I hear is now living but poorly in the <span class="margnote"><span
 id="an_1:189">189</span></span> country and never comes into the town;
 he will tell you that I am an old friend of your father's."
@@ -152,18 +152,18 @@ side. This done, she left him to dream all night of his intended voyage.
 
 ### Footnotes
 
-<span id="fn_8"></span>[19:\*](aoto06.htm#fr_8) Temesa was on the West
+<span id="fn_8"></span>[19:\*](aoto06.htm#fr_8.md) Temesa was on the West
 side of the toe of Italy and was once famous for its copper mines,
 which, however, were worked out in Strabo's time. See *Smith's
 Dictionary of Ancient Geography*.
 
-<span id="fn_9"></span>[19:†](aoto06.htm#fr_9) Reading Νηρίτῳ instead of
+<span id="fn_9"></span>[19:†](aoto06.htm#fr_9.md) Reading Νηρίτῳ instead of
 Νηίῳ, *cf*. Book xiii, 96, &c., and 351, where the same harbour is
 obviously intended.
 
-<span id="fn_10"></span>[19:‡](aoto06.htm#fr_10) *i.e.* "flowing," or
+<span id="fn_10"></span>[19:‡](aoto06.htm#fr_10.md) *i.e.* "flowing," or
 with a current in it.
 
 ------------------------------------------------------------------------
 
-[Next: Book II. Assembly of the People of Ithaca](aoto07)
+[Next: Book II. Assembly of the People of Ithaca](aoto07.md)

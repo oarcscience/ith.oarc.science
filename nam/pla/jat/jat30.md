@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat29)  [Next](jat31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat29)  [Next](jat31.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ breath.
 
 ------------------------------------------------------------------------
 
-[Next: 29. Antelopes Take Arrows From Coyote. (Second Version.)](jat31)
+[Next: 29. Antelopes Take Arrows From Coyote. (Second Version.)](jat31.md)

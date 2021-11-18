@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar12)  [Next](gar14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar12)  [Next](gar14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -288,7 +288,7 @@ By mortals: but the gods all things can do.'
 <span id="page_65">p. 65</span>
 
 of the whole matter unto him that hath ears to hear. He that tasted of
-the fruit given by Circe <span id="fr_21"></span>[\*](#fn_21) was not
+the fruit given by Circe <span id="fr_21"></span>[\*](#fn_21.md) was not
 only himself not changed into a beast, but by making use of the virtue
 of the self-same fruit, remodelled, reformed and recalled those already
 transformed by her into their own proper shape. For the Faithful Man,
@@ -432,12 +432,12 @@ and wrest to his own purpose the sayings of Moses, but equally those of
 the heathen poets. For he makes an allegory out of the Trojan Horse of
 wood, and the story of Helen with the torch, and much else, which he
 applies to his own fables concerning himself and his
-'Intelligence.' <span id="fr_22"></span>[\*](#fn_22) Again he makes out
+'Intelligence.' <span id="fr_22"></span>[\*](#fn_22.md) Again he makes out
 the latter to be the Lost Sheep, which, always taking up her abode in
 the persons of women, doth cause trouble amongst all earthly Powers by
 reason of her incomparable beauty; wherefore the Trojan War came to pass
 because of her. For this 'Intelligence' <span
-id="fr_23"></span>[\*](#fn_22) of his took up her abode in Helen who was
+id="fr_23"></span>[\*](#fn_22.md) of his took up her abode in Helen who was
 born just at that time; and so, when the Powers laid claim to her
 possession, strife and discord arose amongst all the nations to whom she
 manifested herself. At any rate, it was on this account that
@@ -450,7 +450,7 @@ and written his 'Recantation,' in which he sang her praises, he
 recovered the use of his eyes. Then, after she had been placed in
 another body by the Angels and the Powers below (who according to Simon
 wore the creators of the world), she was standing upon a housetop <span
-id="fr_24"></span>[\*](#fn_23) in Tyre, a city of Phœnicia, where he
+id="fr_24"></span>[\*](#fn_23.md) in Tyre, a city of Phœnicia, where he
 found her on his landing. For he pretends to have gone thither expressly
 in quest of her, to deliver her out of bondage; and, after having
 ransomed her, he always carried her about with him, pretending that this
@@ -499,7 +499,7 @@ They likewise practise the rites of the gods named *Paredroi* (the
 Assessors); they have also an image of Simon in the guise of Jupiter,
 and likewise one of Helena in the figure of Minerva; and these they
 worship, calling one the 'Master,' the other the 'Mistress.'" <span
-id="fr_25"></span>[\*](#fn_24)
+id="fr_25"></span>[\*](#fn_24.md)
 
 So much for the system of the renowned Samaritan, in which, it will have
 been seen, the place of logical reasoning is supplied by quibbles upon
@@ -513,23 +513,23 @@ its extravagance) of the Grecian mind.
 
 ### Footnotes
 
-<span id="fn_21"></span>[65:\*](gar13.htm#fr_21) Simon has here
+<span id="fn_21"></span>[65:\*](gar13.htm#fr_21.md) Simon has here
 forgotten his "Odyssey"; the antidote Moly having been given to Ulysses
 by Hermes.
 
-<span id="fn_22"></span>[68:\*](gar13.htm#fr_23) That is his wife
+<span id="fn_22"></span>[68:\*](gar13.htm#fr_23.md) That is his wife
 Helena. By a remarkable, though doubtless un-designed coincidence, Fra
 Dolcino of Novara also went about accompanied by a similar female
 "Intelligence."
 
-<span id="fn_23"></span>[69:\*](gar13.htm#fr_24) A euphemism for "living
+<span id="fn_23"></span>[69:\*](gar13.htm#fr_24.md) A euphemism for "living
 in a brothel," such being the mode in which these ladies advertised
 themselves.
 
-<span id="fn_24"></span>[70:\*](gar13.htm#fr_25) Here follows the
+<span id="fn_24"></span>[70:\*](gar13.htm#fr_25.md) Here follows the
 account of his career and end, already extracted (pp.
-[21](gar07.htm#page_21), [22](gar07.htm#page_22)).
+[21](gar07.htm#page_21), [22](gar07.htm#page_22).md).
 
 ------------------------------------------------------------------------
 
-[Next: Basilides](gar14)
+[Next: Basilides](gar14.md)

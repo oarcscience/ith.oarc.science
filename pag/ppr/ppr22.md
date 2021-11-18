@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr21)  [Next](ppr23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr21)  [Next](ppr23.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ one else be held in the power of the brown dice!
 
 ------------------------------------------------------------------------
 
-[Next: Prayer to Kami-Dana (Japanese)](ppr23)
+[Next: Prayer to Kami-Dana (Japanese)](ppr23.md)

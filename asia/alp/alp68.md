@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp67) 
-[Next](alp69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp67.md) 
+[Next](alp69.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 <span id="img_10300"></span>
 
 [![THE LADY AND THE MINSTREL](tn/10300.jpg)  
-Click to enlarge](img/10300.jpg)  
+Click to enlarge](img/10300.jpg.md)  
 THE LADY AND THE MINSTREL  
 
 ### BALLAD
@@ -70,7 +70,7 @@ His friend--Firdausi's wondrous book,
 
 The Houri of the castle there  
      Spent many happy days and nights--  
-Immortal souls in Jennet <span id="fr_13"></span>[1](#fn_13) fair  
+Immortal souls in Jennet <span id="fr_13"></span>[1](#fn_13.md) fair  
      Have never tasted such delights.
 
 He wiped the tears by sorrow shed,  
@@ -99,10 +99,10 @@ Breaks through that cage, those bars o’erleaps.
 
 ### Footnotes
 
-<span id="fn_13"></span>[104:1](alp68.htm#fr_13) The Paradise of
+<span id="fn_13"></span>[104:1](alp68.htm#fr_13.md) The Paradise of
 Mohammed, where the souls of the blest are waited upon by beautiful
 houris, and fed with delicious fruits.
 
 ------------------------------------------------------------------------
 
-[Next: No Bird Can Reach the Mountain's Crest](alp69)
+[Next: No Bird Can Reach the Mountain's Crest](alp69.md)

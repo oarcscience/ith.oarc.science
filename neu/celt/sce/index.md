@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Sagas](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sce00)
+[Contents](#contents)    [Start Reading](sce00.md)
 
 ------------------------------------------------------------------------
 
@@ -63,46 +63,46 @@ with square brackets are Lang's).
 
 ------------------------------------------------------------------------
 
-[Title Page](sce00)  
-[Dedication](sce01)  
+[Title Page](sce00.md)  
+[Dedication](sce01.md)  
 <span id="section_000"></span>
 
 ### Introduction
 
-[1. The History of the Book and Author](sce02)  
-[II. The Secret Commonwealth](sce03)  
-[The Subterranean Inhabitants](sce04)  
-[IV. Fairyland and Hades](sce05)  
-[V. Fairies and Psychical Research](sce06)  
-[VI. Second Sight and Telepathy.](sce07)  
-[Colophon](sce08)  
+[1. The History of the Book and Author](sce02.md)  
+[II. The Secret Commonwealth](sce03.md)  
+[The Subterranean Inhabitants](sce04.md)  
+[IV. Fairyland and Hades](sce05.md)  
+[V. Fairies and Psychical Research](sce06.md)  
+[VI. Second Sight and Telepathy.](sce07.md)  
+[Colophon](sce08.md)  
 <span id="section_001"></span>
 
 ### The Secret Commonwealth
 
-[Preamble](sce09)  
-[Title Page](sce10)  
-[Chapter 1. Of the Subterranean Inhabitants](sce11)  
-[Chapter 2](sce12)  
-[Chapter 3](sce13)  
-[Chapter 4](sce14)  
-[Chapter 5](sce15)  
-[Chapter 6](sce16)  
-[Chapter 7](sce17)  
-[Chapter 8](sce18)  
-[Chapter 9](sce19)  
-[Chapter 10](sce20)  
-[Chapter 11](sce21)  
-[Chapter 12](sce22)  
-[Chapter 13](sce23)  
-[Chapter 14](sce24)  
-[Chapter 15](sce25)  
-[A Succint Accompt Of My Lord Tarbott's Relations](sce26)  
-[Conclusions](sce27)  
+[Preamble](sce09.md)  
+[Title Page](sce10.md)  
+[Chapter 1. Of the Subterranean Inhabitants](sce11.md)  
+[Chapter 2](sce12.md)  
+[Chapter 3](sce13.md)  
+[Chapter 4](sce14.md)  
+[Chapter 5](sce15.md)  
+[Chapter 6](sce16.md)  
+[Chapter 7](sce17.md)  
+[Chapter 8](sce18.md)  
+[Chapter 9](sce19.md)  
+[Chapter 10](sce20.md)  
+[Chapter 11](sce21.md)  
+[Chapter 12](sce22.md)  
+[Chapter 13](sce23.md)  
+[Chapter 14](sce24.md)  
+[Chapter 15](sce25.md)  
+[A Succint Accompt Of My Lord Tarbott's Relations](sce26.md)  
+[Conclusions](sce27.md)  
 
  
 
-[Note](sce28)  
-[Notes](sce29)  
-[Postscript](sce30)  
-[Advertisements](sce31)  
+[Note](sce28.md)  
+[Notes](sce29.md)  
+[Postscript](sce30.md)  
+[Advertisements](sce31.md)  

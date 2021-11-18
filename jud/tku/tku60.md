@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku59)  [Next](tku61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku59)  [Next](tku61.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,12 +29,12 @@ things are comprehended in this concealed brain.
 acteth upon that which acteth upon this brain, and it is enlightened.
 
 174\. And the second brain dependeth from that very glorious Influence,
-it is expanded into the thirty-two <span id="fr_233"></span>[1](#fn_230)
+it is expanded into the thirty-two <span id="fr_233"></span>[1](#fn_230.md)
 
 <span id="page_277">p. 277</span>
 
 paths, when it is illuminated, then it shineth from that very glorious
-Influence. <span id="fr_234"></span>[1](#fn_231)
+Influence. <span id="fr_234"></span>[1](#fn_231.md)
 
 175\. Therefore are the Three Supernal Heads illuminated; Two Heads, and
 One which comprehendeth them; and they hang in that Influence, and by It
@@ -100,10 +100,10 @@ brain.
 
 193\. That is the Light from which are produced those two rivulets which
 are associated together, carved out hollows in the One Head, which is
-called the depth of the fountain. <span id="fr_235"></span>[1](#fn_232)
+called the depth of the fountain. <span id="fr_235"></span>[1](#fn_232.md)
 
 194\. Concerning which it is written, Prov. iii. 20: "In DOTh,
-*Daath*, <span id="fr_236"></span>[2](#fn_233) Knowledge, the depths are
+*Daath*, <span id="fr_236"></span>[2](#fn_233.md) Knowledge, the depths are
 broken up."
 
 195\. And it entereth into the head of Microprosopus, and formeth
@@ -111,7 +111,7 @@ another brain.
 
 196\. And thenceforth is it extended and goeth into the interior parts
 of His body, and filleth all those conclaves and assemblies of His
-body. <span id="fr_237"></span>[3](#fn_234)
+body. <span id="fr_237"></span>[3](#fn_234.md)
 
 197\. This is that same which is written, Prov. xxiv. 4: "In Daath shall
 the secret places be filled."
@@ -131,7 +131,7 @@ Him can anything whatsoever be separated.
 200\. Into three other Lights, which are called the Fathers, do these
 three Lights shine, and these fathers shine into the children, and all
 things shine forth from the one place. <span
-id="fr_238"></span>[1](#fn_235)
+id="fr_238"></span>[1](#fn_235.md)
 
 201\. When He, that Ancient One, who is the Grace of all Grace, is
 manifested, all things are found in light and in perfect happiness.
@@ -141,7 +141,7 @@ all Concealments.
 
 203\. And therefore is that Eden called the beginning in the Ancient
 One; neither yet, however, is there beginning or end. <span
-id="fr_239"></span>[2](#fn_236)
+id="fr_239"></span>[2](#fn_236.md)
 
 204\. And since in Him beginning and end exist not, hence He is not
 called AThH, *Atah*, Thou; seeing that He is concealed and not revealed.
@@ -166,7 +166,7 @@ Thou; and He is the Father of the Fathers.
 
 20g. And that Father proceedeth from the Most Holy Ancient One, like as
 it is written, Job. xxviii. 12: "And ChKMH, *Chokmah*, <span
-id="fr_240"></span>[1](#fn_237) Wisdom, is found from AIN, *Ain*, the
+id="fr_240"></span>[1](#fn_237.md) Wisdom, is found from AIN, *Ain*, the
 Negatively Existent One;" and therefore is He not known.
 
 210\. Come and see! It is written, *ibid*. 22: "The Elohim have known
@@ -181,7 +181,7 @@ expanded the thirty-two paths: ShBILIN, *Shebilin*, Paths, I say; and
 not ARChIN, *Archin*, Byways.
 
 213\. And in them is the Law comprehended, in the twenty-two letters and
-in the ten utterances. <span id="fr_241"></span>[2](#fn_238)
+in the ten utterances. <span id="fr_241"></span>[2](#fn_238.md)
 
 214\. This Chokmah is the Father of Fathers, and in this Chokmah is
 beginning and end discovered; and therefore is there one Chokmah
@@ -190,7 +190,7 @@ supernal, and another Chokmah inferior.
 215\. When Chokmah is extended, then is He called the Father of Fathers,
 for in none else are all things comprehended save in Him. (Otherwise,
 when they are expanded all things are called Chokmoth, <span
-id="fr_242"></span>[3](#fn_239) and the Father of Fathers; all things
+id="fr_242"></span>[3](#fn_239.md) and the Father of Fathers; all things
 are comprehended in no place, save herein.)
 
 <span id="page_381">p. 381</span>
@@ -206,44 +206,44 @@ this hour.
 
 ### Footnotes
 
-<span id="fn_230"></span>[276:1](tku60.htm#fr_233) The ten numbers and
+<span id="fn_230"></span>[276:1](tku60.htm#fr_233.md) The ten numbers and
 twenty-two letters.
 
-<span id="fn_231"></span>[277:1](tku60.htm#fr_234) MZL = 40 + 7 + 30 =
+<span id="fn_231"></span>[277:1](tku60.htm#fr_234.md) MZL = 40 + 7 + 30 =
 77, which is OZ, Strength or Vigour. This Gematria is worthy of note as
 giving the idea of foundational power.
 
-<span id="fn_232"></span>[278:1](tku60.htm#fr_235) *i.e.*, the
+<span id="fn_232"></span>[278:1](tku60.htm#fr_235.md) *i.e.*, the
 containing power.
 
-<span id="fn_233"></span>[278:2](tku60.htm#fr_236) Daath is the
+<span id="fn_233"></span>[278:2](tku60.htm#fr_236.md) Daath is the
 conjunction of Chokmah and Binah. (See "Book of Concealed Mystery," ch.
 i. § 40.)
 
-<span id="fn_234"></span>[278:3](tku60.htm#fr_237) "See Greater Holy
+<span id="fn_234"></span>[278:3](tku60.htm#fr_237.md) "See Greater Holy
 Assembly," ch. xxviii § 566.
 
-<span id="fn_235"></span>[279:1](tku60.htm#fr_238) This is analogous to
+<span id="fn_235"></span>[279:1](tku60.htm#fr_238.md) This is analogous to
 the teaching of the "Sepher Yetzirah," that the Three Mothers A, M, Sh,
 radiate into three paternal forms of the same. A, M, and Sh, symbolize
 the potencies of Air, Water, and Fire.
 
-<span id="fn_236"></span>[279:2](tku60.htm#fr_239) For commencement
+<span id="fn_236"></span>[279:2](tku60.htm#fr_239.md) For commencement
 denotes end, and end denotes commencement; how, then, in the Absolute
 can there be either. Nevertheless, in the Absolute must we seek for the
 hypothetical starting-point of life.
 
-<span id="fn_237"></span>[280:1](tku60.htm#fr_240) Let the student
+<span id="fn_237"></span>[280:1](tku60.htm#fr_240.md) Let the student
 carefully note that this is the second Sephira, the I of IHVH, the
 Father proceeding from Macroprosopus, Kether, as He proceedeth from Ain
 Soph.
 
-<span id="fn_238"></span>[280:2](tku60.htm#fr_241) The Sephiroth, or
+<span id="fn_238"></span>[280:2](tku60.htm#fr_241.md) The Sephiroth, or
 numbers.
 
-<span id="fn_239"></span>[280:3](tku60.htm#fr_242) Chokmoth is plural of
+<span id="fn_239"></span>[280:3](tku60.htm#fr_242.md) Chokmoth is plural of
 Chokmah, Wisdom.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Concerning the Father and Mother](tku61)
+[Next: Chapter VII: Concerning the Father and Mother](tku61.md)

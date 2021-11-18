@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi300)  [Next](mtsi302) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi300)  [Next](mtsi302.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ shot pouch. After it got a long distance away it threw it off.
 
 ------------------------------------------------------------------------
 
-[Next: 37. The Bison Helper](mtsi302)
+[Next: 37. The Bison Helper](mtsi302.md)

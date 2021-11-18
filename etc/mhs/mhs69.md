@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs68)  [Next](mhs70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs68)  [Next](mhs70.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ Epiphany Eve; (3) a black cat.
 
 ------------------------------------------------------------------------
 
-[Next: V. Odd Numbers In Folk-medicine](mhs70)
+[Next: V. Odd Numbers In Folk-medicine](mhs70.md)

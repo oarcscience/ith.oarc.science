@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb41)  [Next](ttb43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb41)  [Next](ttb43.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -110,4 +110,4 @@ shadow followed on the ground far below.
 
 ------------------------------------------------------------------------
 
-[Next: Chief Sisa-Kaula's Totem Pole](ttb43)
+[Next: Chief Sisa-Kaula's Totem Pole](ttb43.md)

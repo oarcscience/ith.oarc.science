@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft41)  [Next](sfft43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft41)  [Next](sfft43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="page_134">p. 134</span>
 
-### THE SMITH AND THE FAIRIES. <span id="fr_62"></span>[1](#fn_62)
+### THE SMITH AND THE FAIRIES. <span id="fr_62"></span>[1](#fn_62.md)
 
 YEARS ago there lived in Crossbrig a smith of the name of MacEachern.
 This man had an only child, a boy of about thirteen or fourteen years of
@@ -135,9 +135,9 @@ the world and very happily with one another.
 
 ### Footnotes
 
-<span id="fn_62"></span>[134:1](sfft42.htm#fr_62) Campbell, *Popular
+<span id="fn_62"></span>[134:1](sfft42.htm#fr_62.md) Campbell, *Popular
 Tales of the West Highlands*.
 
 ------------------------------------------------------------------------
 
-[Next: The Lothian Farmer's Wife](sfft43)
+[Next: The Lothian Farmer's Wife](sfft43.md)

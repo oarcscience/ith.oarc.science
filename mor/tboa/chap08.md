@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap07) [Next](chap09)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap07) [Next](chap09.md)
 
 ------------------------------------------------------------------------
 
@@ -449,4 +449,4 @@ the four cardinal points.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9](chap09)
+[Next: Chapter 9](chap09.md)

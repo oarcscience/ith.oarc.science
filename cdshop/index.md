@@ -3,7 +3,7 @@
 The **ISTA FLASH-DRIVE 9.0** is the most comprehensive collection of
 books on religion, mythology, folklore and the esoteric ever assembled
 on one disk...  
-[**Read more...**](dvd90/index) The **ISTA DVD-ROM 9.0** is the most
+[**Read more...**](dvd90/index.md) The **ISTA DVD-ROM 9.0** is the most
 comprehensive collection of books on religion, mythology, folklore and
 the esoteric ever assembled on one disk...  
 [](dvd90/dvd90) The World Religions CD-ROM contains the core texts of

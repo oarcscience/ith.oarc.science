@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit06)  [Next](bit08) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit06)  [Next](bit08.md) 
 
 ------------------------------------------------------------------------
 
@@ -348,4 +348,4 @@ Bôdhisattva.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Mahayana System](bit08)
+[Next: Chapter V. The Mahayana System](bit08.md)

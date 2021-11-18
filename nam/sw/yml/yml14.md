@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml13)  [Next](yml15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml13)  [Next](yml15.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ fresh meat."
 "Thank you very much. Good-by," said the young man, E'esuki.
 
 He went away and in three days returned to the beggar's house to ask
-[Abahta](errata.htm#0) Chaheme again for his daughter. She was a
+[Abahta](errata.htm#0.md) Chaheme again for his daughter. She was a
 beautiful girl with very large and pretty eyes.
 
 But the beggar did not want to give E'esuki permission to marry his
@@ -73,7 +73,7 @@ and hung on him two bags and gave him a cane and sent him off.
 
 E'esuki begged for alms and gathered for himself much more money and
 many more goats and sheep than he had while working at his own trades.
-He finished the six months and returned to [Abahta](errata.htm#1)
+He finished the six months and returned to [Abahta](errata.htm#1.md)
 Chaheme, who said, "Now, indeed, you may marry my daughter. But you must
 go back to working at your trades."
 
@@ -98,4 +98,4 @@ Chaheme, but it is believed that he also died.
 
 ------------------------------------------------------------------------
 
-[Next: The Stick That Sang](yml15)
+[Next: The Stick That Sang](yml15.md)

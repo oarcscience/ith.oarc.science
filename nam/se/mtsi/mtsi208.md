@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi207)  [Next](mtsi209) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi207)  [Next](mtsi209.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ came here," she answered.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Sickness](mtsi209)
+[Next: 9. Sickness](mtsi209.md)

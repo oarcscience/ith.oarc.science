@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp03)  [Next](lbp05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp03)  [Next](lbp05.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Legends](../../index)  [Basque](../index)  [Index](index) 
 
 <span id="img_01900"></span> ![](img/01900.jpg)
 
-# AQUELARRE. <span id="fr_0"></span>[1](#fn_0)
+# AQUELARRE. <span id="fr_0"></span>[1](#fn_0.md)
 
 ### I.
 
@@ -163,7 +163,7 @@ shall continue my walk as soon as the fog clears away a little."
 
 "Very well, my brother," replied Izar, gently but meanwhile sit down at
 my feet and I will cover you with my capusay, <span
-id="fr_1"></span>[1](#fn_1) for you are in such a heat with your
+id="fr_1"></span>[1](#fn_1.md) for you are in such a heat with your
 efforts."
 
 "Women and lazy children like yourself require to be sheltered from the
@@ -982,15 +982,15 @@ resounds similar to that which is produced by the falling of a body.
 
 ### Footnotes
 
-<span id="fn_0"></span>[19:1](lbp04.htm#fr_0) *Aquelarre*. A word
+<span id="fn_0"></span>[19:1](lbp04.htm#fr_0.md) *Aquelarre*. A word
 composed of *larre*, pasture land, and *Aquerra*, buck goat; hence the
 word *Aquelarre* signifies the *pasture land of the goat*. It is well
 known that this animal figures in all the conventicles of witches as
 representing the Evil One.
 
-<span id="fn_1"></span>[24:1](lbp04.htm#fr_1) *Capusay*. A sort of
+<span id="fn_1"></span>[24:1](lbp04.htm#fr_1.md) *Capusay*. A sort of
 dalmatic of very thick cloth furnished with a hood.
 
 ------------------------------------------------------------------------
 
-[Next: Arguiduna](lbp05)
+[Next: Arguiduna](lbp05.md)

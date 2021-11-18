@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr14)  [Next](corr16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr14)  [Next](corr16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -53,4 +53,4 @@ London, 22 July, 1675.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XIX. To Oldenburg](corr16)
+[Next: Letter XIX. To Oldenburg](corr16.md)

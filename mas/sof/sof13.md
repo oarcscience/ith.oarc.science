@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof12)  [Next](sof14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof12)  [Next](sof14.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head11.png"></span> ![Header Chapter XI.](img/head11.png)
+<span id="img_head11.png"></span> ![Header Chapter XI.](img/head11.png.md)
 
 ## XI.
 
@@ -26,7 +26,7 @@ other a profound science, entering into abstruse investigations of the
 soul and a future existence, and originating in the craving need of
 humanity to know something that is above and beyond the mere outward
 life that surrounds us with its gross atmosphere here
-below. [44](sof37.htm#xref_44) Indeed, the only bond or link that unites
+below. [44](sof37.htm#xref_44.md) Indeed, the only bond or link that unites
 speculative and operative Masonry is the symbolism that belongs
 altogether to the former, but which, throughout its whole extent, is
 derived from the latter.
@@ -40,7 +40,7 @@ past period of time.
 Thousands of years ago, this science of symbolism was adopted by the
 sagacious priesthood of Egypt to convey the lessons of worldly wisdom
 and religious knowledge, which they thus communicated to their
-disciples. [45](sof37.htm#xref_45) Their science, their history, and
+disciples. [45](sof37.htm#xref_45.md) Their science, their history, and
 their philosophy were thus concealed beneath an impenetrable veil from
 all the profane, and only the few who had passed through the severe
 ordeal of initiation were put in possession of the key which enabled
@@ -51,7 +51,7 @@ Nile.
 
 From the Egyptians the same method of symbolic instruction was diffused
 among all the pagan nations of antiquity, and was used in all the
-ancient Mysteries [46](sof37.htm#xref_46) as the medium of communicating
+ancient Mysteries [46](sof37.htm#xref_46.md) as the medium of communicating
 to the initiated the esoteric and secret doctrines for whose
 preservation and promulgation these singular associations were formed.
 
@@ -60,7 +60,7 @@ Egypt, brought with him, from that cradle of the sciences, a perfect
 knowledge of the science of symbolism, as it was taught by the priests
 of Isis and Osiris, and applied it to the ceremonies with which he
 invested the purer religion of the people for whom he had been appointed
-to legislate. [47](sof37.htm#xref_47)
+to legislate. [47](sof37.htm#xref_47.md)
 
 Hence we learn, from the great Jewish historian, that, in the
 construction of the tabernacle, which gave the first model for the
@@ -85,16 +85,16 @@ signified the earth, from which flax was produced; the scarlet signified
 fire, appropriately represented by its flaming color; the purple
 typified the sea, in allusion to the shell-fish murex, from which the
 tint was obtained; and the blue, the color of the firmament, was
-emblematic of air. [48](sof37.htm#xref_48)
+emblematic of air. [48](sof37.htm#xref_48.md)
 
 It is not necessary to enter into a detail of the whole system of
 religious symbolism, as developed in the Mosaic ritual. It was but an
 application of the same principles of instruction, that pervaded all the
 surrounding Gentile nations, to the inculcation of truth. The very idea
-of the ark itself [49](sof37.htm#xref_49) was borrowed, as the
+of the ark itself [49](sof37.htm#xref_49.md) was borrowed, as the
 discoveries of the modern Egyptologists have shown us, from the banks of
 the Nile; and the breastplate of the high priest, with its Urim and
-Thummim, [50](sof37.htm#xref_50) was indebted for its origin to a
+Thummim, [50](sof37.htm#xref_50.md) was indebted for its origin to a
 similar ornament worn by the Egyptian judge. The system was the same; in
 its application, only, did it differ.
 
@@ -107,7 +107,7 @@ mutual dependence of one upon the other, were there first established.
 
 At the construction of this stupendous edifice--stupendous, not in
 magnitude, for many a parish church has since excelled it in
-size, [51](sof37.htm#xref_51) but stupendous in the wealth and
+size, [51](sof37.htm#xref_51.md) but stupendous in the wealth and
 magnificence of its ornaments--the wise king of Israel, with all that
 sagacity for which he was so eminently distinguished, and aided and
 counselled by the Gentile experience of the king of Tyre, and that
@@ -190,7 +190,7 @@ But operative Masonry was, in the inception of our history, and is, in
 some measure, even now, the skeleton upon which was strung the living
 muscles, and tendons, and nerves of the speculative system. It was the
 block of marble--rude and unpolished it may have been--from which was
-sculptured the life-breathing statue. [52](sof37.htm#xref_52)
+sculptured the life-breathing statue. [52](sof37.htm#xref_52.md)
 
 Speculative Masonry (which is but another name for Freemasonary in its
 modern acceptation) may be briefly defined as the scientific application
@@ -201,6 +201,6 @@ the dogmas of a religious philosophy.
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Symbolism of Solomon's Temple](sof14)
+[Next: XII. The Symbolism of Solomon's Temple](sof14.md)
 
 </div>

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva14)  [Next](rva16) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva14)  [Next](rva16.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### XV. Xippe icuic, Totec, yoallauana.
 
-[English](#english)
+[English](#english.md)
 
 ![](rva01.jpg)
 
@@ -91,4 +91,4 @@ bears some relation to the celebration of his rites at night.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. Hymn to the Goddess of Food.](rva16) 
+[Next: XVI. Hymn to the Goddess of Food.](rva16.md) 

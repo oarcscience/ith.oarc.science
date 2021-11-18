@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont14)  [Next](ont16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont14)  [Next](ont16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -40,7 +40,7 @@ When Mad Wolf and his wife began their preparations for the Sun-dance,
 she became the "sacred woman." In her tipi the ceremonials would take
 place. The fire burned day and night. It must not be allowed to die out,
 nor the door to remain open. A sarvis berry stick or buffalo chip <span
-id="fr_20"></span>[1](#fn_16) must be used to light the pipes. No other
+id="fr_20"></span>[1](#fn_16.md) must be used to light the pipes. No other
 fire was allowed within. Gives-to-the-Sun and Mad Wolf remained in fixed
 places, with heads bowed and blankets drawn closely around them, praying
 to the Sun by day and the Moon by night:
@@ -101,7 +101,7 @@ Gives-to-the-Sun rubbed over the buffalo chips. Natokema took a
 <span id="img_18000"></span> <span align="CENTER"> [![“THEY PRAYED
 CONTINUALLY WITH HEADS BOWED AND BLANKETS DRAWN CLOSELY AROUND
 THEM.”](tn/18000.jpg)  
-Click to enlarge](img/18000.jpg)  
+Click to enlarge](img/18000.jpg.md)  
 “THEY PRAYED CONTINUALLY WITH HEADS BOWED AND BLANKETS DRAWN CLOSELY
 AROUND THEM.”  
 </span>
@@ -199,8 +199,8 @@ pure woman.
 
 ### Footnotes
 
-<span id="fn_16"></span>[178:1](ont15.htm#fr_20) Dried buffalo dung.
+<span id="fn_16"></span>[178:1](ont15.htm#fr_20.md) Dried buffalo dung.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Marriage Customs](ont16)
+[Next: Chapter XIII. Marriage Customs](ont16.md)

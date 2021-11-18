@@ -1,8 +1,8 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index) 
-[Iceland](../../ice/index)  [Index](index)  [Previous](tnm02) 
-[Next](tnm04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index.md) 
+[Iceland](../../ice/index)  [Index](index)  [Previous](tnm02.md) 
+[Next](tnm04.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 [![ODIN'S BOOTY. THEFT OF THE HOLY MEAD.&lt;br&gt; (¼ actual
 size.)](tn/fig01.jpg)  
-Click to enlarge](img/fig01.jpg)  
+Click to enlarge](img/fig01.jpg.md)  
 ODIN'S BOOTY. THEFT OF THE HOLY MEAD.  
 (¼ actual size.)  
 
@@ -20,7 +20,7 @@ ODIN'S BOOTY. THEFT OF THE HOLY MEAD.
 
 ### I.--ORIGIN OF POETRY.
 
-My first illustration <span id="fr_14"></span>[1](#fn_14) (fig. 1, p.
+My first illustration <span id="fr_14"></span>[1](#fn_14.md) (fig. 1, p.
 16) is from the handsome cross on the steps at Michael Church gates. The
 inscription recites that "Joalf, son of Thorulf the Red, raised this
 cross after Fritha, his mother." On one face, above the head of the
@@ -64,7 +64,7 @@ called Odin's booty or find, his drink or gift.
 
 ### Footnotes
 
-<span id="fn_14"></span>[17:1](tnm03.htm#fr_14) In describing the
+<span id="fn_14"></span>[17:1](tnm03.htm#fr_14.md) In describing the
 carvings, I feel bound to follow the usual custom of speaking of "right"
 and "left," as *viewed by the spectator*, not as it really is on the
 stone. I think it wrong, but to do otherwise in a small pamphlet dealing
@@ -72,4 +72,4 @@ only with local sculptures would but cause needless confusion!
 
 ------------------------------------------------------------------------
 
-[Next: II.--Odin Carries the Hero to Valhall](tnm04)
+[Next: II.--Odin Carries the Hero to Valhall](tnm04.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna03)  [Next](ntna05) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna03)  [Next](ntna05.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,7 +76,7 @@ question of the matter being of a sacred or secret nature. As a matter
 of fact, in all tribes the tribal name is not
 
 ![Map Showing Distribution of Local Groups on Melville Island and
-Bathurst Island](img/04400.jpg)
+Bathurst Island](img/04400.jpg.md)
 
 MAP SHOWING DISTRIBUTION OF LOCAL GROUPS ON MELVILLE AND BATHURST
 ISLANDS.
@@ -247,7 +247,7 @@ have varied from fifteen to fifty.\]
 
 {p. 49}
 
-![Genealogical Chart](img/04900.jpg)
+![Genealogical Chart](img/04900.jpg.md)
 
 {p. 50}
 
@@ -2660,4 +2660,4 @@ Port Essington tribe.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Initiation Ceremonies](ntna05)
+[Next: Chapter III: Initiation Ceremonies](ntna05.md)

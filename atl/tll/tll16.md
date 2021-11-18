@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll15)  [Next](tll17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll15)  [Next](tll17.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,13 +72,13 @@ to war upon each other.
 
 ### Footnotes
 
-<span id="fn_18"></span>[31:1](tll15.htm#fr_18) It must, however, be
+<span id="fn_18"></span>[31:1](tll15.htm#fr_18.md) It must, however, be
 noted that the Chinese *people* are mainly descended from the fourth or
 Turanian sub-race of the Fourth Root Race.
 
-<span id="fn_19"></span>[31:2](tll15.htm#fr_19) "Secret Doctrine," Vol.
+<span id="fn_19"></span>[31:2](tll15.htm#fr_19.md) "Secret Doctrine," Vol.
 ii., p. 198.
 
 ------------------------------------------------------------------------
 
-[Next: The Arts](tll17)
+[Next: The Arts](tll17.md)

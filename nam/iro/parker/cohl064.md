@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl063)  [Next](cohl065) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl063)  [Next](cohl065.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ should be sung as far as possible.
 "Now the messengers said that they should secure provisions enough for
 the feast and be sure. Some have planned to have strong drink used at
 the feast but this must not be tolerated. Only food must be
-used.'" <span id="fr_56"></span>[1](#fn_56)
+used.'" <span id="fr_56"></span>[1](#fn_56.md)
 
 So they said and he said. Eniaiehuk.
 
@@ -30,7 +30,7 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_56"></span>[51:1](cohl064.htm#fr_56) It is related that at
+<span id="fn_56"></span>[51:1](cohl064.htm#fr_56.md) It is related that at
 one period whiskey had so far debauched the Indians that their once
 sacred ceremonies, like those of the early Christians at Corinth, were
 made the excuses of the grossest licentiousness and drunken revelry.
@@ -38,4 +38,4 @@ Whiskey had entirely supplanted the feast foods.
 
 ------------------------------------------------------------------------
 
-[Next: Section 54](cohl065)
+[Next: Section 54](cohl065.md)

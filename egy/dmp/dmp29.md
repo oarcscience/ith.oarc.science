@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp28)  [Next](dmp30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp28)  [Next](dmp30.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ Sasoupounithas.'
 
 ------------------------------------------------------------------------
 
-[Next: Col. XXVII](dmp30)
+[Next: Col. XXVII](dmp30.md)

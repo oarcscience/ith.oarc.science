@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](arw26)  [Next](arw28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](arw26)  [Next](arw28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabian Wisdom*, by John Wortabet, \[1913\], at Intangible Textual
 Heritage
 
@@ -40,4 +40,4 @@ he says, false to his word, and unfaithful in discharging a trust.
 
 ------------------------------------------------------------------------
 
-[Next: Truthfulness to Secrets](arw28)
+[Next: Truthfulness to Secrets](arw28.md)

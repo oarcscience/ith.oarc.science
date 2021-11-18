@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub27) 
-[Next](jub29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub27.md) 
+[Next](jub29.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ taught him
 | 1890 A.M. |
 
 writing, and he was two weeks of years old, and he separated himself
-from his father <span id="fr_386"></span>[4](#fn_386) that he might not
+from his father <span id="fr_386"></span>[4](#fn_386.md) that he might not
 worship idols with him. 17. And he began to pray to the Creator of all
 things that He might save him from the errors of the children of men,
 and that his portion should not fall into error after uncleanness and
@@ -47,7 +47,7 @@ fifth week Abram taught
 
 those who made implements for oxen, the artificers in wood, and they
 made a vessel above the ground, facing the frame of the plough, <span
-id="fr_387"></span>[1](#fn_387) in order to put the seed thereon, and
+id="fr_387"></span>[1](#fn_387.md) in order to put the seed thereon, and
 the seed fell down therefrom upon the share of the plough, and was
 hidden in the earth, and they no longer feared the ravens. 24. And after
 this manner they made (vessels) above the ground on all the frames of
@@ -58,12 +58,12 @@ commanded them, and they no longer feared the birds.
 
 ### Footnotes
 
-<span id="fn_386"></span>[86:4](jub28.htm#fr_386) This is the theme of
+<span id="fn_386"></span>[86:4](jub28.htm#fr_386.md) This is the theme of
 much later Jewish legend. See especially the first part of the
 *Apocalypse of Abraham*, an edition of which appears in this series. Cf.
 xii. 1-14 below.
 
-<span id="fn_387"></span>[87:1](jub28.htm#fr_387) An improved method of
+<span id="fn_387"></span>[87:1](jub28.htm#fr_387.md) An improved method of
 sowing by means of a seed-scatterer attached to the plough (Arab. *bûk*)
 is here described. This marked an advance on the primitive method of
 scattering the seed by hand, and its invention is ascribed to Abraham.
@@ -73,4 +73,4 @@ instruments. Cf. Krauss, *Talmudische Archäologie*, ii. 553 (note 151).
 ------------------------------------------------------------------------
 
 [Next: Abram seeks to convert Terah from Idolatry; the Family of Terah.
-Abram burns the Idols. Death of Haran (xii. 1-14)](jub29)
+Abram burns the Idols. Death of Haran (xii. 1-14)](jub29.md)

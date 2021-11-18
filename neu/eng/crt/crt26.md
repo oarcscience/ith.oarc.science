@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt25)  [Next](crt27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt25)  [Next](crt27.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_20800"></span>
 
 [![Sir Lamorack herds the swine of Sir Nabon](tn/20800.jpg)  
-Click to enlarge](img/20800.jpg)  
+Click to enlarge](img/20800.jpg.md)  
 Sir Lamorack herds the swine of Sir Nabon  
 
 <span id="page_209">p. 209</span>
@@ -446,7 +446,7 @@ Palamydes so closely through the forest that he had come to the forest
 tower not more than an hour after Sir Palamydes had brought the Lady
 Belle Isoult thither.
 
-Therewith Sir [Adthorp](errata.htm#3) gave loud challenge to Sir
+Therewith Sir [Adthorp](errata.htm#3.md) gave loud challenge to Sir
 Palamydes to come forth and do him battle, and therewith Sir Palamydes
 came immediately out against him, full of anger that Sir Adthorp should
 have meddled in that affair.
@@ -550,4 +550,4 @@ Tristram; I hate thee more than death."
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](crt27)
+[Next: Introduction](crt27.md)

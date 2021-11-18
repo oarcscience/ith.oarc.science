@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](ncm3) [Next](ncm5)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](ncm3) [Next](ncm5.md)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ south mountain and bring him some of the big sunflowers, N’d’gilly-tso,
 and Etsay Hasteen also went to the west mountain and brought back earth
 and Luka (reed plants), and Estsa-assun also went to the north mountain
 and brought earth and small sunflowers, N’d’gilly.<span
-id="page_40_fr_*"></span>[\*](#page_40_note_*)
+id="page_40_fr_*"></span>[\*](#page_40_note_*.md)
 
 <span id="page_41">p. 41</span>
 
@@ -160,7 +160,7 @@ Etsay-Hasteen brought earth from the mountains and plants and clouds and
 put them into the big bamboo. Kay-des-tizhi, the man wrapped in the
 Rainbow, put the Ethkay-nah-ashi under his rainbow robe and they all
 went into the big bamboo while Hashjeshjin began to burn the water (oil)
-in the second world.<span id="page_43_fr_*"></span>[\*](#page_43_note_*)
+in the second world.<span id="page_43_fr_*"></span>[\*](#page_43_note_*.md)
 
 ### T<span class="small">HIRD</span> W<span class="small">ORLD</span>
 
@@ -177,7 +177,7 @@ Tohe-egleen, or Water Meeting Place, and then Tohe-nostleh, or Crossing
 Waters, and in the middle of these crossing waters he put
 Sis-tahilth-lachee, or Red Mountain Turtle. One of these streams ran
 from west to east and one from north to south.<span
-id="page_43_fr_**"></span>[\*\*](#page_43_note_**) In the east part of
+id="page_43_fr_**"></span>[\*\*](#page_43_note_**.md) In the east part of
 the Crossing Waters he placed Tahilth-lachee, a big turtle which was red
 in color. In the south water he placed the red thunder, Iknee-lachee.
 <span id="page_44">p. 44</span> In the west water he placed
@@ -275,7 +275,7 @@ husband is not supporting you properly although he has plenty of meat
 and corn and is rich.” The mother ran over to the Rainbow Hogahn and sat
 down outside the door. And while she sat there, she scolded her
 son-in-law very harshly and then she went back to her own home.<span
-id="page_46_fr_*"></span>[\*](#page_46_note_*)
+id="page_46_fr_*"></span>[\*](#page_46_note_*.md)
 
 <span id="page_47">p. 47</span>
 
@@ -293,7 +293,7 @@ the hogahn and Begochiddy said to them: “I am going to separate the men
 and the women, and the female birds and animals. All the males are to go
 and live across the river, and the females are to stay on this side of
 the river.” After this speech they agreed that this was right and should
-be done.<span id="page_47_fr_*"></span>[\*](#page_47_note_*)
+be done.<span id="page_47_fr_*"></span>[\*](#page_47_note_*.md)
 
  The chiefs told their people about this and they said that they would
 do as Begochiddy had ordered. Kay-des-tizhi was to lead the men across
@@ -2239,7 +2239,7 @@ today.
 
  This ends the creating of human beings and creatures, and Begochiddy
 was glad and laughing when he had finished the creation.<span
-id="page_104_fr_*"></span>[\*](#page_104_note_*) And he made the new
+id="page_104_fr_*"></span>[\*](#page_104_note_*.md) And he made the new
 people run races around the world, and the animals raced too, and the
 donkey won, for Begochiddy loved him most, and the mule came in second.
 They then made a hogahn for the new people, and at present the hogahn
@@ -2482,7 +2482,7 @@ the top of the rock, and said that no Navajo must go up there.
 tribe of the Hopi Indians living north of Moencopi in a very lovely
 place. And they gave flint to these people, and also a feather of the
 Great Bird, Tseh-nah-hahleh.<span
-id="page_111_fr_*"></span>[\*](#page_111_note_*)
+id="page_111_fr_*"></span>[\*](#page_111_note_*.md)
 
  They went in the flute to the top of San Francisco Peak, Dogo-slee-ed,
 and from there they walked in the afternoon to a little mesa covered
@@ -2639,7 +2639,7 @@ together and decided to send many of the people <span id="page_116">p.
 116</span> back to a place called Kih-ah-ah near Crownpoint, New Mexico.
 There is an old ruin on a hill there, and the clan of this place is
 called Ruin Clan or Kih-ahni.<span
-id="page_116_fr_*"></span>[\*](#page_116_note_*)
+id="page_116_fr_*"></span>[\*](#page_116_note_*.md)
 
 ### J<span class="small">OURNEY OF THE</span> C<span class="small">LANS FROM THE</span> I<span class="small">SLAND BACK TO</span> N<span class="small">AVAJO</span> C<span class="small">OUNTRY</span>
 
@@ -2897,7 +2897,7 @@ id="page_124">p. 124</span> kinds of horses and mules and donkeys; and
 to the north they saw all kinds of game, deer, lions, and wild animals.
 And there is a song for everything they saw on the mountain. It is
 called Estsan-eh-beyin, which means “The Changing-Woman’s Song.”<span
-id="page_124_fr_*"></span>[\*](#page_124_note_*) In three days the
+id="page_124_fr_*"></span>[\*](#page_124_note_*.md) In three days the
 children learned all the songs of the sheep, horses, corn and all other
 things. These songs mean to bring forth and multiply. After four days
 they had learned everything and Estsan-ah-tlehay said she would go part
@@ -2939,7 +2939,7 @@ Giss-dil-yessi does not grow.”
 
 ------------------------------------------------------------------------
 
-[Next](ncm5)
+[Next](ncm5.md)
 
 ------------------------------------------------------------------------
 
@@ -2947,47 +2947,47 @@ Giss-dil-yessi does not grow.”
 
 <span id="footnotes_page_40">p. 40</span>
 
-<span id="page_40_note_*"></span>[\*](#page_40_fr_*) The Black God
+<span id="page_40_note_*"></span>[\*](#page_40_fr_*.md) The Black God
 sandpainting of the Tleji or Yehbechai ceremony has to do with this part
 of the story.
 
 <span id="footnotes_page_43">p. 43</span>
 
-<span id="page_43_note_*"></span>[\*](#page_43_fr_*) The sandpainting of
+<span id="page_43_note_*"></span>[\*](#page_43_fr_*.md) The sandpainting of
 the place of emergence has to do with this part of the story.
 
-<span id="page_43_note_**"></span>[\*\*](#page_43_fr_**) Female and male
+<span id="page_43_note_**"></span>[\*\*](#page_43_fr_**.md) Female and male
 respectively.
 
 <span id="footnotes_page_46">p. 46</span>
 
-<span id="page_46_note_*"></span>[\*](#page_46_fr_*) This was the first
+<span id="page_46_note_*"></span>[\*](#page_46_fr_*.md) This was the first
 mother-in-law trouble.
 
 <span id="footnotes_page_47">p. 47</span>
 
-<span id="page_47_note_*"></span>[\*](#page_47_fr_*) Hasteen Klah noted
+<span id="page_47_note_*"></span>[\*](#page_47_fr_*.md) Hasteen Klah noted
 that from this point present day Navajos know the story.
 
 <span id="footnotes_page_104">p. 104</span>
 
-<span id="page_104_note_*"></span>[\*](#page_104_fr_*) Hasteen Klah
+<span id="page_104_note_*"></span>[\*](#page_104_fr_*.md) Hasteen Klah
 said: “The only two people who know the Creation Song today are
 Nakai-John (Klah’s older brother) and myself.” Klah died in 1936.
 
 <span id="footnotes_page_111">p. 111</span>
 
-<span id="page_111_note_*"></span>[\*](#page_111_fr_*) Klah stated that
+<span id="page_111_note_*"></span>[\*](#page_111_fr_*.md) Klah stated that
 there are six of these feathers in existence.
 
 <span id="footnotes_page_116">p. 116</span>
 
-<span id="page_116_note_*"></span>[\*](#page_116_fr_*) Natahnapah, a
+<span id="page_116_note_*"></span>[\*](#page_116_fr_*.md) Natahnapah, a
 fire-dance priest of Nava, New Mexico, was of this clan.
 
 <span id="footnotes_page_124">p. 124</span>
 
-<span id="page_124_note_*"></span>[\*](#page_124_fr_*) Hasteen Klah sang
+<span id="page_124_note_*"></span>[\*](#page_124_fr_*.md) Hasteen Klah sang
 the Estsan-eh-beyin.
 
  

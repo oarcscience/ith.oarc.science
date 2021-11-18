@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb06)  [Next](ptb08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb06)  [Next](ptb08.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,9 +8,9 @@
 
 ### THE INFLUENCES OF THE PLANETARY ORBS
 
-THE Sun <span id="fr_39"></span>[2](#fn_39) is found to produce heat and
+THE Sun <span id="fr_39"></span>[2](#fn_39.md) is found to produce heat and
 moderate dryness. His magnitude, and the changes which he so evidently
-makes in the seasons, render his [power](errata.htm#2) more plainly
+makes in the seasons, render his [power](errata.htm#2.md) more plainly
 perceptible than that of the other heavenly bodies; since his approach
 to the zenith of any part of the earth creates a greater degree of heat
 in that part and proportionately disposes its inhabitants after his own
@@ -61,10 +61,10 @@ produce alternately either quality.
 
 ### Footnotes
 
-<span id="fn_39"></span>[13:2](ptb07.htm#fr_39) It will be recollected
+<span id="fn_39"></span>[13:2](ptb07.htm#fr_39.md) It will be recollected
 that the Ptolemaic hypothesis considers the Sun as a planetary orb, in
 consequence of his apparent progress through the zodiac.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Benefics and Malefics](ptb08)
+[Next: Chapter V. Benefics and Malefics](ptb08.md)

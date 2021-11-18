@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp80) 
-[Next](alp82) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp80.md) 
+[Next](alp82.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,12 +43,12 @@ The principal god of Armenia was *Aramazd*, whom the Armenians called
 "the Architect of the Universe, Creator of Heaven and Earth." He was
 also the father of the other gods. The Armenians annually celebrated the
 festival of this god on the 1st day of Navasard, <span
-id="fr_17"></span>[1](#fn_17) when they sacrificed white animals of
+id="fr_17"></span>[1](#fn_17.md) when they sacrificed white animals of
 various kinds--goats, horses, mules, with whose blood they filled
 goblets of gold and silver. The most prominent sanctuaries of Aramazd
 were in the ancient city of Ani in Daranali, the burial-place of the
 Armenian kings, as well as in the village of Bagavan in Bagravand. <span
-id="fr_18"></span>[2](#fn_18)
+id="fr_18"></span>[2](#fn_18.md)
 
 Aramazd had an attendant incorporeal spirit, named *Tir* or *Grogh*
 ("writer"), whom he sent to earth to watch men and record in a book
@@ -81,7 +81,7 @@ kept up in all the temples. For this reason the Armenians called the
 Persians fire-worshippers. But the Armenians had also a visible
 fire-god, who, although material, was intangible--the sun--to which many
 temples were dedicated and after which one of the months (*Areg*) was
-named. <span id="fr_19"></span>[1](#fn_19)
+named. <span id="fr_19"></span>[1](#fn_19.md)
 
 Long after the introduction of Christianity, there was a sect of
 sun-worshippers existent in Armenia, who were called "Children of the
@@ -97,11 +97,11 @@ the Greek Artemis and the Roman Diana. She was a " pure and spotless
 goddess," and, as a daughter of Aramazd, was "mother of chastity," as
 well as the benefactress of the whole human race; "through her the
 Armenian land exists, from her it draws its life; she is the glory of
-our nation and its protectress" <span id="fr_20"></span>[2](#fn_20); and
+our nation and its protectress" <span id="fr_20"></span>[2](#fn_20.md); and
 for her the ancient Armenians felt intense love and adoration.
 
 Many images and shrines were dedicated to her under the names of "the
-Golden Mother," <span id="fr_21"></span>[3](#fn_21) "the Being of Golden
+Golden Mother," <span id="fr_21"></span>[3](#fn_21.md) "the Being of Golden
 Birth," etc. Every summer there was a festival in her honour. On that
 day, a dove and a rose were offered to her golden image, whence the day
 was called *Vardavar*, which means "the flaming of the Rose." On the
@@ -114,11 +114,11 @@ that day. This is also
 <span id="page_129">p. 129</span>
 
 the Armenian "water-day," during which the people amuse themselves
-throwing water at each other. <span id="fr_22"></span>[1](#fn_22)
+throwing water at each other. <span id="fr_22"></span>[1](#fn_22.md)
 
 Anahit was sought also in cases of great sickness.
 
-The sister of Anahit was *Astghik*, <span id="fr_23"></span>[2](#fn_23)
+The sister of Anahit was *Astghik*, <span id="fr_23"></span>[2](#fn_23.md)
 the goddess of beauty, a personification of the moon, corresponding to
 the Phoenician and Sidonian Astarte. Strange to say, the Persians had no
 goddess of beauty, but the bright sky of Armenia, its numerous valleys,
@@ -131,7 +131,7 @@ The Armenians assigned Astghik a husband worthy of her. He was Vahagn,
 deified on account of his valour. In ancient songs, he is credited with
 a miraculous birth. The fires of heaven and earth, and the sea crimson
 in the light of dawn, travailed to bring him into being. <span
-id="fr_24"></span>[3](#fn_24) As we shall see later, Moses of Khorene
+id="fr_24"></span>[3](#fn_24.md) As we shall see later, Moses of Khorene
 has preserved portions of these songs. Vahagn was called Vishapakagh
 (Uprooter of dragons), as he cleared the Armenian land of monsters and
 saved it from evil influences. His exploits were known not only in
@@ -161,7 +161,7 @@ divinities. When
 <span class="contnote">\[paragraph continues\]</span> Tigranes brought a
 number of Phoenicians to Armenia as prisoners, they brought with them
 their god Ammon, from whose name comes the word *Ammonor*, <span
-id="fr_25"></span>[1](#fn_25) "the day of Ammon"--the New Year.
+id="fr_25"></span>[1](#fn_25.md) "the day of Ammon"--the New Year.
 Assyrian, Arab, and other emigrations also led to the introduction of
 foreign deities. An Armenian king, when he brought home captives, also
 introduced the gods of those captives, whose images were placed in the
@@ -174,7 +174,7 @@ also a great immigration of Jews into Armenia, and this influenced the
 Armenians in the direction of monotheism. Besides the principal gods,
 there were also secondary ones. These were spirits, corresponding to
 angels, who acted as guardians to different classes of natural
-objects:--*Kadjk*, <span id="fr_26"></span>[2](#fn_26) who occupied the
+objects:--*Kadjk*, <span id="fr_26"></span>[2](#fn_26.md) who occupied the
 mountains; *Parik*, who presided over flocks; and many others.
 
 Water was honoured in Armenia as a masculine principle. According to
@@ -251,23 +251,23 @@ Armenian epic heroes are always described as fighting against evil
 
 ### Footnotes
 
-<span id="fn_17"></span>[127:1](alp81.htm#fr_17) Navasard fell,
+<span id="fn_17"></span>[127:1](alp81.htm#fr_17.md) Navasard fell,
 according to the later calendar of pagan Armenia, in August.
 
-<span id="fn_18"></span>[127:2](alp81.htm#fr_18) See *Agathangelos*
+<span id="fn_18"></span>[127:2](alp81.htm#fr_18.md) See *Agathangelos*
 (fourth century A.D.).
 
-<span id="fn_19"></span>[128:1](alp81.htm#fr_19) Annual bonfires are
+<span id="fn_19"></span>[128:1](alp81.htm#fr_19.md) Annual bonfires are
 kindled by Armenians on the festival of Candlemas, or the Purification
 of the Blessed Virgin Mary (February 13/2).
 
-<span id="fn_20"></span>[128:2](alp81.htm#fr_20) *Agathangelos*.
+<span id="fn_20"></span>[128:2](alp81.htm#fr_20.md) *Agathangelos*.
 
-<span id="fn_21"></span>[128:3](alp81.htm#fr_21) Statues of massive gold
+<span id="fn_21"></span>[128:3](alp81.htm#fr_21.md) Statues of massive gold
 were consecrated to her, one of which was captured by the soldiers of
 Antony (Pliny, *H. N.*, XXX. 24).
 
-<span id="fn_22"></span>[129:1](alp81.htm#fr_22) At each festival, the
+<span id="fn_22"></span>[129:1](alp81.htm#fr_22.md) At each festival, the
 Armenians had to show what progress they had made during the past year,
 in art and in other occupations, and races and other competitions took
 place, the victors being crowned with wreaths of roses. When the doves
@@ -279,19 +279,19 @@ earth, and the same expression of love and forgiveness is manifested in
 the presence of the dove at the baptism of Jordan. See Raffi's *Samuel*,
 chap. ix.
 
-<span id="fn_23"></span>[129:2](alp81.htm#fr_23) *Astghik* means in
+<span id="fn_23"></span>[129:2](alp81.htm#fr_23.md) *Astghik* means in
 Armenian "little star."
 
-<span id="fn_24"></span>[129:3](alp81.htm#fr_24) It is a curious
+<span id="fn_24"></span>[129:3](alp81.htm#fr_24.md) It is a curious
 coincidence that Venus, the Greek goddess of beauty, was also the wife
 of a fire-god, Vulcan.
 
-<span id="fn_25"></span>[130:1](alp81.htm#fr_25) Some say that *Ammanor*
+<span id="fn_25"></span>[130:1](alp81.htm#fr_25.md) Some say that *Ammanor*
 was an ancient Armenian god and not foreign.
 
-<span id="fn_26"></span>[130:2](alp81.htm#fr_26) *Kadjk* means in
+<span id="fn_26"></span>[130:2](alp81.htm#fr_26.md) *Kadjk* means in
 Armenian "brave ones."
 
 ------------------------------------------------------------------------
 
-[Next: Armenian Epics](alp82)
+[Next: Armenian Epics](alp82.md)

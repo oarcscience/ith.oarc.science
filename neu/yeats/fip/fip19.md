@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip18)  [Next](fip20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip18)  [Next](fip20.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ For the world's more full of weeping than
 
 ------------------------------------------------------------------------
 
-[Next: The Merrow](fip20)
+[Next: The Merrow](fip20.md)

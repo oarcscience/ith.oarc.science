@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err02)  [Next](err04) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err02)  [Next](err04.md) 
 
 ------------------------------------------------------------------------
 
@@ -701,7 +701,7 @@ And a nice time they will have of it if they walk the ways which I have
 walked, in the paths which I have trod. I have just heard that one old
 woman who is several times cited as authority in this book has died in a
 den of infamy, and that on the day of her decease <span
-id="fr_0"></span>[1](#fn_0) her son, who had been doing three years for
+id="fr_0"></span>[1](#fn_0.md) her son, who had been doing three years for
 a murder, "in the heat of passion," left prison. There has always been a
 dread sense of the existence of a Prefect and the police hovering like a
 dark shadow over me while pursuing my researches among my Etruscan
@@ -805,7 +805,7 @@ Or petty spy did worm his way therein.
 
 ### Footnotes
 
-<span id="fn_0"></span>[15:1](err03.htm#fr_0) The manner of her death
+<span id="fn_0"></span>[15:1](err03.htm#fr_0.md) The manner of her death
 was characteristic, as described to me by another. "She was all her life
 a very wicked old woman, believing nothing, and she died in extreme sin
 because she would hear nothing of priest or prayer; and what was more,
@@ -822,4 +822,4 @@ witch?" "*Sicuro*--certainly."
 
 ------------------------------------------------------------------------
 
-[Next: Part One: Chapter I--TINIA](err04)
+[Next: Part One: Chapter I--TINIA](err04.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../mnd/mnd) 
-[Previous](lll)  [Next](mov) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../mnd/mnd.md) 
+[Previous](lll)  [Next](mov.md) 
 
 ------------------------------------------------------------------------
 
@@ -2747,4 +2747,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Merchant of Venice](mov) 
+[Next: The Merchant of Venice](mov.md) 

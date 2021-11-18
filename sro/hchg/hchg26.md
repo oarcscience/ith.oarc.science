@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg25)  [Next](hchg27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg25)  [Next](hchg27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -351,4 +351,4 @@ chaos so also in pre-Christian Celtic folk-lore.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Welsh Perceval](hchg27)
+[Next: II. The Welsh Perceval](hchg27.md)

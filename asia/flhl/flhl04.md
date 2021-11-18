@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl03)  [Next](flhl05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl03)  [Next](flhl05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -99,7 +99,7 @@ the water, whilst the vapour and spray became the clouds. It took Allah
 two days' time to do all this. The waves were then in their turn
 congealed, so as to form mountains which serve to keep the earth steady
 and prevent it from floating about. The mountain-bases are all connected
-with the roots of the great Kâf <span id="fr_5"></span>[1](#fn_5) range,
+with the roots of the great Kâf <span id="fr_5"></span>[1](#fn_5.md) range,
 which surrounds the world like the high rim of a circular baking-tray
 and keeps its contents from falling off into space.
 
@@ -151,7 +151,7 @@ friend of Allah, on whom be peace; the second, to enforce the doctrine
 of ’Isa the son of Maryam, on whom be peace; and in our own days the
 wonder is of frequent occurrence to the end that all mankind may take to
 heart the teaching of the Apostle of Allah, on whom be prayer and
-peace. <span id="fr_6"></span>[1](#fn_6)
+peace. <span id="fr_6"></span>[1](#fn_6.md)
 
 Thus, as I have explained, the world rests upon the shoulders of an
 angel, and the angel upon a great emerald rock, and the rock upon the
@@ -186,12 +186,12 @@ how to read and write.
 
 ### Footnotes
 
-<span id="fn_5"></span>[5:1](flhl04.htm#fr_5) Caucasus.
+<span id="fn_5"></span>[5:1](flhl04.htm#fr_5.md) Caucasus.
 
-<span id="fn_6"></span>[7:1](flhl04.htm#fr_6) It is also said that the
+<span id="fn_6"></span>[7:1](flhl04.htm#fr_6.md) It is also said that the
 sun and moon are a married couple, who come together once every month,
 at which time the moon is invisible.
 
 ------------------------------------------------------------------------
 
-[Next: II. Our Father Adam](flhl05)
+[Next: II. Our Father Adam](flhl05.md)

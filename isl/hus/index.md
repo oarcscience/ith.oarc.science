@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index)  [Shiite
-Documents](../shi) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)  [Shiite
+Documents](../shi.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,8 +17,8 @@ Documents](../shi) 
 
 ------------------------------------------------------------------------
 
-[Translator's Word](hus00)  
-[A Biography of \`Abdul-Zahrá' Al-Ka\`bee (MMAUH)](hus01)  
-[Introduction](hus02)  
-[The First Part](hus03)  
-[The Second Part](hus04)  
+[Translator's Word](hus00.md)  
+[A Biography of \`Abdul-Zahrá' Al-Ka\`bee (MMAUH)](hus01.md)  
+[Introduction](hus02.md)  
+[The First Part](hus03.md)  
+[The Second Part](hus04.md)  

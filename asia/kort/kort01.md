@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort00)  [Next](kort02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort00)  [Next](kort02.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ November, 1916.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](kort02)
+[Next: Contents](kort02.md)

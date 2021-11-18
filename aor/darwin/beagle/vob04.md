@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index)  [Index](index) 
-[Previous](vob03)  [Next](vob05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index)  [Index](index.md) 
+[Previous](vob03)  [Next](vob05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014043268X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014043268X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -875,4 +875,4 @@ a wedge-shaped segment. All the webs were similarly constructed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](vob05)
+[Next: Chapter III](vob05.md)

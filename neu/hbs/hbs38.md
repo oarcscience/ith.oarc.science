@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs37) [Next](hbs39)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs37) [Next](hbs39.md)
 
 ------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ And Stoyan buried his mother most royally and well.
 
 ------------------------------------------------------------------------
 
-[Next](hbs39)
+[Next](hbs39.md)
 
  
 

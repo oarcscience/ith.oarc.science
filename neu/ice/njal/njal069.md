@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal068)  [Next](njal070) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal068)  [Next](njal070.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ Now Gunnar sits at home for sometime, and all is quiet.
 
 ------------------------------------------------------------------------
 
-[Next: 70. Mord's Counsel](njal070)
+[Next: 70. Mord's Counsel](njal070.md)

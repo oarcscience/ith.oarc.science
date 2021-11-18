@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv01)  [Next](ogv03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv01)  [Next](ogv03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ HARTFORD, CONN., October, 1916.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](ogv03)
+[Next: Introduction](ogv03.md)

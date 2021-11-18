@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes32)  [Next](tes34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes32)  [Next](tes34.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,13 +8,13 @@
 
 There were three brothers. One time they traveled together in lonely
 places. The first night they stopped at a way house. <span
-id="fr_50"></span>[1](#fn_50) They made a fire,
+id="fr_50"></span>[1](#fn_50.md) They made a fire,
 
 <span id="page_70">p. 70</span>
 
-cooked some bread-soup, <span id="fr_51"></span>[1](#fn_51) and had
+cooked some bread-soup, <span id="fr_51"></span>[1](#fn_51.md) and had
 supper. While they were eating, a board of the floor was lifted up.
-There appeared a monster <span id="fr_52"></span>[2](#fn_52) with iron
+There appeared a monster <span id="fr_52"></span>[2](#fn_52.md) with iron
 teeth, two feet long. The eldest brother said to the other two, "Go out
 and get the dogs and sledges ready. I will stay here. And you must wait
 outside for me." They took their bread-soup and went out of the house.
@@ -112,20 +112,20 @@ Pokhotsk in the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_50"></span>[69:1](tes33.htm#fr_50) Small log cabins, or
+<span id="fn_50"></span>[69:1](tes33.htm#fr_50.md) Small log cabins, or
 houses of other types, are built in various places for the use of
 travelers, especially along the trading or official routes. They are
 called in local Russian иоварня ("cooking-house").--W. B.
 
-<span id="fn_51"></span>[70:1](tes33.htm#fr_51) Затчранъ, a kind of soup
+<span id="fn_51"></span>[70:1](tes33.htm#fr_51.md) Затчранъ, a kind of soup
 prepared of bread-crumbs or flour roasted in butter, and then boiled in
 water. In former times it was generally used in these regions for
 breakfast or supper. At present brick-tea is substituted for it.--W. B.
 
-<span id="fn_52"></span>[70:2](tes33.htm#fr_52) In local Russian it is
+<span id="fn_52"></span>[70:2](tes33.htm#fr_52.md) In local Russian it is
 called "heretic" (еретикъ). In colloquial Russian, in Europe and Asia,
 "heretic" is used as a synonym for "devil" or "evil spirit. "--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 13. The Girl from the Grave-Box](tes34)
+[Next: 13. The Girl from the Grave-Box](tes34.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl04)  [Next](isl06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl04)  [Next](isl06.md) 
 
 ------------------------------------------------------------------------
 
@@ -405,4 +405,4 @@ He loves not those that wax proud. (16:1-22)
 
 ------------------------------------------------------------------------
 
-[Next: 2. He Speaks Through the Prophets](isl06)
+[Next: 2. He Speaks Through the Prophets](isl06.md)

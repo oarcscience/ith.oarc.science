@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey10)  [Next](grey12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey10)  [Next](grey12.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,9 +13,9 @@
 NOW pay attention to the cause of the contention which arose between
 Poutini and Whaiapu, which led them to emigrate to New Zealand. For a
 long time they both rested in the same place, and Hine-tu-a-hoanga, to
-whom the stone Whaiapu <span id="fr_11"></span>[1](#fn_11) belonged,
+whom the stone Whaiapu <span id="fr_11"></span>[1](#fn_11.md) belonged,
 became excessively enraged with Ngahue, and with his prized stone
-Poutini <span id="fr_12"></span>[2](#fn_12). At last she drove Ngahue
+Poutini <span id="fr_12"></span>[2](#fn_12.md). At last she drove Ngahue
 out and forced him to leave the place, and Ngahue departed and went to a
 strange land, taking his jasper. When Hine-tu-a-hoanga saw that he was
 departing with his precious stone, she followed after them, and Ngahue
@@ -90,11 +90,11 @@ came in consequence of his discovery.
 
 ### Footnotes
 
-<span id="fn_11"></span>[99:1](grey11.htm#fr_11) Green jasper.
+<span id="fn_11"></span>[99:1](grey11.htm#fr_11.md) Green jasper.
 
-<span id="fn_12"></span>[99:2](grey11.htm#fr_12) Obsidian, with which
+<span id="fn_12"></span>[99:2](grey11.htm#fr_12.md) Obsidian, with which
 the natives grind down the jasper.
 
 ------------------------------------------------------------------------
 
-[Next: The Voyage to New Zealand](grey12)
+[Next: The Voyage to New Zealand](grey12.md)

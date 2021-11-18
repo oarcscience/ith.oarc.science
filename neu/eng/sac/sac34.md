@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac33)  [Next](sac35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac33)  [Next](sac35.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,7 +103,7 @@ the point *a* :
 
 The difference of 8½´ between this and the assumed axis 49° 34´ 18″ is
 so slight that considering the indirect method which has
-[necessarily](errata.htm#3) been employed in determining the axis of the
+[necessarily](errata.htm#3.md) been employed in determining the axis of the
 temple from the position of the leaning stone, and the want of
 verticality, parallelism and straightness of the inner surfaces of the
 opening in the N.E. trilithon, we are justified in adopting the azimuth
@@ -111,7 +111,7 @@ of the avenue as that of the temple.
 
 Next, with regard to the determination of the azimuth of the avenue as
 indicated by the line of pegs to which reference is made on [p.
-65](sac10.htm#page_65). The small angle between the nearest pegs A and B
+65](sac10.htm#page_65.md). The small angle between the nearest pegs A and B
 (which are supposed to be parallel to the axis of the avenue), observed
 from station *a*, was measured, and the corresponding calculated
 correction was applied to the ascertained true bearing of the more
@@ -150,4 +150,4 @@ Heel and generally the data adopted.
 ------------------------------------------------------------------------
 
 [Next: II: Hints on Making, and Method of Reducing, the Field
-Observations](sac35)
+Observations](sac35.md)

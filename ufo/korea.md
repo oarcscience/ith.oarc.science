@@ -197,4 +197,4 @@ Phoenix, AZ (602) 306-1345
 ------------------------------------------------------------------------
 
 [Next: Acquisition of Advanced Technology and Interaction with Alien
-Cultures (Part 1)](krill1)
+Cultures (Part 1)](krill1.md)

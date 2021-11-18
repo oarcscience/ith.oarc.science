@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo37)  [Next](aoo39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo37)  [Next](aoo39.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ them from of old--every one of the servants who were there.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI](aoo39)
+[Next: Chapter XVI](aoo39.md)

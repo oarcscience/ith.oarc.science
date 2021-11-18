@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb54)  [Next](wfb56) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb54)  [Next](wfb56.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ crumbled into dust on the doorstep.
 
 ------------------------------------------------------------------------
 
-[Next: The Harper's Gratuity](wfb56)
+[Next: The Harper's Gratuity](wfb56.md)

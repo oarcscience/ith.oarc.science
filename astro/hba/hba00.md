@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Astrology](../index) 
-[Index](index)  [Next](hba01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Astrology](../index.md) 
+[Index](index)  [Next](hba01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Hindu Book of Astrology*, by Bhakti Seva, \[1902\], at Intangible
 Textual Heritage
 
@@ -57,22 +57,22 @@ because it was published prior to 1923
 
 <span id="img_cover"></span> <span align="CENTER"> [![Front Cover and
 Spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover and Spine  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Chart](hba01)
+[Next: Chart](hba01.md)

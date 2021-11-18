@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh28)  [Next](ulh30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh28)  [Next](ulh30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 # XXV.--THE HULA PA’I-UMAUMA
 
 The hula *pa’i-umauma*--chest-beating hula--called also hula
-*Paláni*, <span id="fr_379"></span>[a](#fn_366) was an energetic dance,
+*Paláni*, <span id="fr_379"></span>[a](#fn_366.md) was an energetic dance,
 in which the actors, who were also the singers, maintained a kneeling
 position, with the buttocks at times resting on the heels. In spite of
 the restrictions imposed by this attitude, they managed to put a
@@ -55,24 +55,24 @@ to the poesy of Hawaii.
 
 <div style="margin-left: 32px">
 
-A Hilo au e, hoolulu ka lehua; <span id="fr_380"></span>[a](#fn_367)  
-A Wai-luku la, i ka Lua-kanáka; <span id="fr_381"></span>[b](#fn_368)  
-A Lele-iwi <span id="fr_382"></span>[c](#fn_369) la, au i ke kai;  
-A Pana-ewa, <span id="fr_383"></span>[d](#fn_370) i ka ulu-lehua;  
-5 A Ha-ili, <span id="fr_384"></span>[e](#fn_371) i ke kula-manu;  
-A [Molokai](errata.htm#8), i ke ala-kahi,  
-Ke kula o Kala’e, <span id="fr_385"></span>[f](#fn_372) wela i ka la;  
-Mauna-loa <span id="fr_386"></span>[g](#fn_373) la, Ka-lua-ko’i, <span
-id="fr_387"></span>[h](#fn_374) e;  
-Na hala o Nihoa, <span id="fr_388"></span>[i](#fn_375) he mapuna la;  
-10 A Ko’i-ahi <span id="fr_389"></span>[j](#fn_376) au, ka maile lau-lii
+A Hilo au e, hoolulu ka lehua; <span id="fr_380"></span>[a](#fn_367.md)  
+A Wai-luku la, i ka Lua-kanáka; <span id="fr_381"></span>[b](#fn_368.md)  
+A Lele-iwi <span id="fr_382"></span>[c](#fn_369.md) la, au i ke kai;  
+A Pana-ewa, <span id="fr_383"></span>[d](#fn_370.md) i ka ulu-lehua;  
+5 A Ha-ili, <span id="fr_384"></span>[e](#fn_371.md) i ke kula-manu;  
+A [Molokai](errata.htm#8.md), i ke ala-kahi,  
+Ke kula o Kala’e, <span id="fr_385"></span>[f](#fn_372.md) wela i ka la;  
+Mauna-loa <span id="fr_386"></span>[g](#fn_373.md) la, Ka-lua-ko’i, <span
+id="fr_387"></span>[h](#fn_374.md) e;  
+Na hala o Nihoa, <span id="fr_388"></span>[i](#fn_375.md) he mapuna la;  
+10 A Ko’i-ahi <span id="fr_389"></span>[j](#fn_376.md) au, ka maile lau-lii
 la;  
-A Makua <span id="fr_390"></span>[k](#fn_377) la, i ke one
-opio-pio, <span id="fr_391"></span>[l](#fn_378)  
+A Makua <span id="fr_390"></span>[k](#fn_377.md) la, i ke one
+opio-pio, <span id="fr_391"></span>[l](#fn_378.md)  
 E holu ana ke kai o-lalo;  
-He wahine a-po’i-po’i <span id="fr_392"></span>[m](#fn_379) e noho
+He wahine a-po’i-po’i <span id="fr_392"></span>[m](#fn_379.md) e noho
 ana,  
-A Kilauea, <span id="fr_393"></span>[n](#fn_380) i ke awa ula.
+A Kilauea, <span id="fr_393"></span>[n](#fn_380.md) i ke awa ula.
 
 </div>
 
@@ -199,13 +199,13 @@ following mele is more than the author can say.
 
 <div style="margin-left: 32px">
 
-Ka-hipa, <span id="fr_394"></span>[a](#fn_381) na waiu olewa,  
+Ka-hipa, <span id="fr_394"></span>[a](#fn_381.md) na waiu olewa,  
 Lele ana, ku ka mahiki akea;  
-Keké ka niho o Lani-wahine; <span id="fr_395"></span>[b](#fn_382)  
+Keké ka niho o Lani-wahine; <span id="fr_395"></span>[b](#fn_382.md)  
 Opi ke a lalo, ke a luna.  
 5 A hoi aku au i Lihue,  
 Nana aku ia Ewa;  
-E au ana o Miko-lo-lóu, <span id="fr_396"></span>[c](#fn_383)
+E au ana o Miko-lo-lóu, <span id="fr_396"></span>[c](#fn_383.md)
 
 </div>
 
@@ -213,12 +213,12 @@ E au ana o Miko-lo-lóu, <span id="fr_396"></span>[c](#fn_383)
 
 <div style="margin-left: 32px">
 
-A pahú ha naau no Pa-pi’-o. <span id="fr_397"></span>[a](#fn_384)  
+A pahú ha naau no Pa-pi’-o. <span id="fr_397"></span>[a](#fn_384.md)  
 A pa’a ka manó.  
 10 Hopu i ka lima.  
-Ai pakahi, e, i ka nahele, <span id="fr_398"></span>[b](#fn_385)  
+Ai pakahi, e, i ka nahele, <span id="fr_398"></span>[b](#fn_385.md)  
 Alawa a’e ua ulu kani o Leiwalo.  
-E noho ana Kolea-kani <span id="fr_399"></span>[c](#fn_386)  
+E noho ana Kolea-kani <span id="fr_399"></span>[c](#fn_386.md)  
 Ka pii’na i ka Uwa-lua;  
 15 Oha-ohá lei i ka makani.
 
@@ -259,7 +259,7 @@ winding canyon of Moana-lua.
 
 ### Footnotes
 
-<span id="fn_366"></span>[202:a](ulh29.htm#fr_379) *Paláni*, French, so
+<span id="fn_366"></span>[202:a](ulh29.htm#fr_379.md) *Paláni*, French, so
 called at Moanalua because a woman who was its chief exponent was a
 Catholic, one of the "poe Paláni." Much odium has been laid to the
 charge of the hula on account of the supposed indecency of the motion
@@ -268,66 +268,66 @@ represent actions unlit for public view, and so fir the blame is just.
 But the ami did not necessarily nor always represent obscenity, and to
 this extent the hula has been unjustly maligned.
 
-<span id="fn_367"></span>[203:a](ulh29.htm#fr_380) *Lehúa*. A tree that
+<span id="fn_367"></span>[203:a](ulh29.htm#fr_380.md) *Lehúa*. A tree that
 produces the tufted scarlet flower that is sacred to the goddess of the
 hula, Laka.
 
-<span id="fn_368"></span>[203:b](ulh29.htm#fr_381) *Lua-kanáka*. A deep
+<span id="fn_368"></span>[203:b](ulh29.htm#fr_381.md) *Lua-kanáka*. A deep
 and dangerous crossing at the Wailuku river, which is said to have been
 the cause of death by drowning of very many. Another story is that it
 was once the hiding place of robbers.
 
-<span id="fn_369"></span>[203:c](ulh29.htm#fr_382) *Lele-iwi*. The name
+<span id="fn_369"></span>[203:c](ulh29.htm#fr_382.md) *Lele-iwi*. The name
 of a cape at Hilo, near the mouth of the Wai-luku river--water of
 destruction.
 
-<span id="fn_370"></span>[203:d](ulh29.htm#fr_383) *Pana-ewa*. A forest
+<span id="fn_370"></span>[203:d](ulh29.htm#fr_383.md) *Pana-ewa*. A forest
 region in Ola’a much mentioned in myth and poetry.
 
-<span id="fn_371"></span>[203:e](ulh29.htm#fr_384) *Haili*. A region in
+<span id="fn_371"></span>[203:e](ulh29.htm#fr_384.md) *Haili*. A region in
 Ola’a. a famous resort for bird-catchers.
 
-<span id="fn_372"></span>[203:f](ulh29.htm#fr_385) *Ka-la’e*. A
+<span id="fn_372"></span>[203:f](ulh29.htm#fr_385.md) *Ka-la’e*. A
 beautiful place in the uplands back of Kaunakakai, on Molokai.
 
-<span id="fn_373"></span>[203:g](ulh29.htm#fr_386) Mauna-loa. The
+<span id="fn_373"></span>[203:g](ulh29.htm#fr_386.md) Mauna-loa. The
 mountain in the western part of Molokai.
 
-<span id="fn_374"></span>[203:h](ulh29.htm#fr_387) *Ka-lua-ko’i*. A
+<span id="fn_374"></span>[203:h](ulh29.htm#fr_387.md) *Ka-lua-ko’i*. A
 place on this same Mauna-loa where was quarried stone suitable for
 making the Hawaiian ax.
 
-<span id="fn_375"></span>[203:i](ulh29.htm#fr_388) *Nihoa*. A small land
+<span id="fn_375"></span>[203:i](ulh29.htm#fr_388.md) *Nihoa*. A small land
 near Kalaupapa, Molokai, where was a grove of fine pandanus trees.
 
-<span id="fn_376"></span>[203:j](ulh29.htm#fr_389) *Ko’i-ahi*. A small
+<span id="fn_376"></span>[203:j](ulh29.htm#fr_389.md) *Ko’i-ahi*. A small
 valley in the district of Waianae, Oahu, where was the home of the
 small-leafed maile.
 
-<span id="fn_377"></span>[203:k](ulh29.htm#fr_390) *Makua*. A valley in
+<span id="fn_377"></span>[203:k](ulh29.htm#fr_390.md) *Makua*. A valley in
 Waianae.
 
-<span id="fn_378"></span>[203:l](ulh29.htm#fr_391) *One opio-pio*. Sand
+<span id="fn_378"></span>[203:l](ulh29.htm#fr_391.md) *One opio-pio*. Sand
 freshly smoothed by an ocean wave.
 
-<span id="fn_379"></span>[203:m](ulh29.htm#fr_392) *Apo’i-po’i*. To
+<span id="fn_379"></span>[203:m](ulh29.htm#fr_392.md) *Apo’i-po’i*. To
 crouch for the purpose, perhaps, of screening oneself from view, as one,
 for instance, who is naked and desires to escape observation.
 
-<span id="fn_380"></span>[203:n](ulh29.htm#fr_393) *Kilauea*. There is
+<span id="fn_380"></span>[203:n](ulh29.htm#fr_393.md) *Kilauea*. There is
 some doubt whether this is the Kilauea on Kauai or a little place of the
 same name near cape Kaena, the westernmost point of Oahu.
 
-<span id="fn_381"></span>[205:a](ulh29.htm#fr_394) *Ka-hipa*. Said to be
+<span id="fn_381"></span>[205:a](ulh29.htm#fr_394.md) *Ka-hipa*. Said to be
 the name of a mythological character, now applied to a place in Kahuku
 where the mountains present the form of two female breasts.
 
-<span id="fn_382"></span>[205:b](ulh29.htm#fr_395) Lani-wahine. A
+<span id="fn_382"></span>[205:b](ulh29.htm#fr_395.md) Lani-wahine. A
 benignant *mo’o*, or water-nymph, sometimes taking the form of a woman,
 that is said to have haunted the lagoon of Uko’a, Waialua, Oahu. There
 is a long story about her.
 
-<span id="fn_383"></span>[205:c](ulh29.htm#fr_396) Miko-lo-lóu. A famous
+<span id="fn_383"></span>[205:c](ulh29.htm#fr_396.md) Miko-lo-lóu. A famous
 man-eating shark-god whose home was in the waters of Hana, Maui. He
 visited Oahu and was hospitably received by Ka-ahu-pahau and Ka-hi’u-ká,
 sharks of the Ewa lagoons. who had a human ancestry and were on friendly
@@ -342,12 +342,12 @@ the same size and power as the one deceased. Miko-lo-lóu now gathered
 his friends and allies from all the waters and made war against the Ewa
 sharks, but was routed.
 
-<span id="fn_384"></span>[206:a](ulh29.htm#fr_397) *Pa-pi’-o*. A shark
+<span id="fn_384"></span>[206:a](ulh29.htm#fr_397.md) *Pa-pi’-o*. A shark
 of moderate size, but of great activity, that fought against
 Miko-lo-lóu. It entered his enormous mouth, passed down into his
 stomach, and there played havoc with the monster, eating its way out.
 
-<span id="fn_385"></span>[206:b](ulh29.htm#fr_398) *Ai pakahi, e, i to
+<span id="fn_385"></span>[206:b](ulh29.htm#fr_398.md) *Ai pakahi, e, i to
 nahele*. The company represented by the poet to he journeying pass
 through an uninhabited region barren of food. The poet calls upon them
 to satisfy their hunger by eating of the edible wild herbs--they abound
@@ -355,7 +355,7 @@ everywhere in Hawaii--at the same time representing them as casting
 longing glances on the breadfruit trees of Leiwalo. This was a grove in
 the lower levels of Ewa that still survives.
 
-<span id="fn_386"></span>[206:c](ulh29.htm#fr_399) *Kolea-kani*. A
+<span id="fn_386"></span>[206:c](ulh29.htm#fr_399.md) *Kolea-kani*. A
 female *kupua*--witch she might be called now--that had the form of a
 plover. She looked after the thirsty ones who passed along the road. and
 benevolently showed them where to find water. By her example the people
@@ -364,4 +364,4 @@ travelers who went that way.
 
 ------------------------------------------------------------------------
 
-[Next: XXVI.--The Hula Ku’i Molokai](ulh30)
+[Next: XXVI.--The Hula Ku’i Molokai](ulh30.md)

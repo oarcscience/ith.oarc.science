@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](tsg04)  [Next](tsg06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](tsg04)  [Next](tsg06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE91S/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE91S/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Syrian Goddess*, by Lucian, tr. by Herbert A. Strong and John
 Garstang, \[1913\], at Intangible Textual Heritage
 
@@ -85,7 +85,7 @@ The tract on "The Syrian Goddess" is thought to have been one of his
 earliest works, written when he was fresh from the East, as appears
 among other things from his calling Deucalion by his Syrian name,
 Σκύθης, meaning Σικύδης, *i.e.*, Xisuthrus. <span
-id="fr_72"></span>[1](#fn_72) It has been doubted by some scholars
+id="fr_72"></span>[1](#fn_72.md) It has been doubted by some scholars
 whether this tract was really by Lucian, on the ground that it is
 written in the Ionic dialect, the employment of which Lucian derides in
 *Quomodo Historiam*, § 18. But the scholiast on the Nubes of
@@ -117,7 +117,7 @@ linguist and as a stylist that he was able to pass from the Ionic
 dialect to the pure Attic Greek in which the rest of his works are
 composed.
 
-It is no part of our aim to criticise Lucian fully [as](errata.htm#0) an
+It is no part of our aim to criticise Lucian fully [as](errata.htm#0.md) an
 author; it will be plain from the short sketch of his life that he was
 singularly attracted by the spirit of curiosity to obtain all possible
 information about the strange Oriental cults among which he had been
@@ -147,7 +147,7 @@ to some tricks of the priests such as he had seen performed on other
 occasions.
 
 The following passage from one of a series of lectures to clergy at
-Cambridge <span id="fr_73"></span>[1](#fn_73) may be added to this brief
+Cambridge <span id="fr_73"></span>[1](#fn_73.md) may be added to this brief
 account:—
 
 "It is the peculiar distinction of Lucian in the history of letters that
@@ -188,7 +188,7 @@ adventurers as Alexander and Peregrinus Proteus. Lucian's attitude is
 that of a detached and scornful observer, who, however, in spite of his
 contempt for the silliness of his fellow men, sees the pathos of human
 affairs, and would fain make them regard conduct as the standard of
-life. Professor Dill <span id="fr_74"></span>[1](#fn_74) has remarked
+life. Professor Dill <span id="fr_74"></span>[1](#fn_74.md) has remarked
 that the worldly age in which Lucian's lot was cast was ennobled by a
 powerful protest against worldliness. This protest was none other than
 the lives of the best of the philosophers who waged unceasing war
@@ -246,7 +246,7 @@ the world, he very soon enriches himself by making these simple folk his
 dupes."
 
 It is fair to say that by some writers of repute <span
-id="fr_75"></span>[1](#fn_75) Peregrinus is regarded as a conscientious
+id="fr_75"></span>[1](#fn_75.md) Peregrinus is regarded as a conscientious
 mystic, and Lucian as unqualified to understand mysticism and religious
 enthusiasm. In any case it is clear that Lucian for all the scorn with
 which he regards the various religions and philosophies of his age,
@@ -269,19 +269,19 @@ H. A. S.
 
 ### Footnotes
 
-<span id="fn_72"></span>[31:1](tsg05.htm#fr_72) See the references in
+<span id="fn_72"></span>[31:1](tsg05.htm#fr_72.md) See the references in
 Müller and Donaldson, Vol. III., p. 223, from whose work most of these
 facts have been taken.
 
-<span id="fn_73"></span>[33:1](tsg05.htm#fr_73) *Essays and Addresses*
+<span id="fn_73"></span>[33:1](tsg05.htm#fr_73.md) *Essays and Addresses*
 (Cambridge University Press, 1907).
 
-<span id="fn_74"></span>[35:1](tsg05.htm#fr_74) See *Roman Society from
+<span id="fn_74"></span>[35:1](tsg05.htm#fr_74.md) See *Roman Society from
 Nero to Marcus Aurelius* (Macmillan, 1905), p. 339.
 
-<span id="fn_75"></span>[37:1](tsg05.htm#fr_75) *E.g.*, Mr. T. R. Glover
+<span id="fn_75"></span>[37:1](tsg05.htm#fr_75.md) *E.g.*, Mr. T. R. Glover
 in *The Conflict of Religions in the Early Roman Empire*, p. 212.
 
 ------------------------------------------------------------------------
 
-[Next: Analysis of the Subject-Matter](tsg06)
+[Next: Analysis of the Subject-Matter](tsg06.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Miscellaneous](../../index)  [Christmas](../index)  [Index](index) 
-[Previous](acc01)  [Next](acc03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Miscellaneous](../../index)  [Christmas](../index)  [Index](index.md) 
+[Previous](acc01)  [Next](acc03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ STAVE V.</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Stave I. Marley's Ghost](acc03)
+[Next: Stave I. Marley's Ghost](acc03.md)

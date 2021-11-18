@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](aenl04)  [Previous](aen03) 
-[Next](aen05) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](aenl04)  [Previous](aen03.md) 
+[Next](aen05.md) 
 
 ------------------------------------------------------------------------
 
@@ -1061,4 +1061,4 @@ The struggling soul was loos'd, and life dissolv'd in air.
 
 ------------------------------------------------------------------------
 
-[Next: Book V](aen05)
+[Next: Book V](aen05.md)

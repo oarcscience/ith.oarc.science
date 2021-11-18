@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo73)  [Next](sdo75) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo73)  [Next](sdo75.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ his sisters. His oldest sister said, "I told you to watch for Iktomi."
 
 ------------------------------------------------------------------------
 
-[Next: The Stone Boy](sdo75)
+[Next: The Stone Boy](sdo75.md)

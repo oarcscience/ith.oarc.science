@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah34)  [Next](oah36) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah34)  [Next](oah36.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,4 +208,4 @@ sat Etisyai and Onesyi, Goddesses.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX](oah36)
+[Next: Chapter XX](oah36.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Sappho](../saph/index)  [Index](index)  [Previous](pos34) 
-[Next](pos36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Sappho](../saph/index)  [Index](index)  [Previous](pos34.md) 
+[Next](pos36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00087A7F8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00087A7F8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Poems of Sappho*, by John Myers O'Hara, \[1910\], at Intangible
 Textual Heritage
 
@@ -30,4 +30,4 @@ In just proportion, joy untold.
 
 ------------------------------------------------------------------------
 
-[Next: Leto And Niobe](pos36)
+[Next: Leto And Niobe](pos36.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp01)  [Next](twp03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp01)  [Next](twp03.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ misunderstood as egoism.
 ------------------------------------------------------------------------
 
 [Next: Chapter I. ''The Occult of Today Is the Science of
-Tomorrow''](twp03)
+Tomorrow''](twp03.md)

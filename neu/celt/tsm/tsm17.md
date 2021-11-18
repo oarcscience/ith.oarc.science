@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm16)  [Next](tsm18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm16)  [Next](tsm18.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ orders. Then the exile wanders about alone through the land in search of
 companions. As the queen's subjects shun the banished fairy man or
 woman, he or she must needs make friends with human beings.
 
-The Goona <span id="fr_9"></span>[1](#fn_9) is the name given to one
+The Goona <span id="fr_9"></span>[1](#fn_9.md) is the name given to one
 class of fairy exiles. A Goona is very kindly and harmless, and goes
 about at night trying to be of service to mankind. He herds the cattle
 on the hills, and keeps them away from dangerous places. Often he is
@@ -158,7 +158,7 @@ afraid.
 
 [![JESSIE MACRAE AND THE GILLIE DHU&lt;BR&gt; &lt;I&gt;From a drawing by
 John Duncan, A.R.S.A&lt;/I&gt;.](tn/17400.jpg)  
-Click to enlarge](img/17400.jpg)  
+Click to enlarge](img/17400.jpg.md)  
 JESSIE MACRAE AND THE GILLIE DHU  
 *From a drawing by John Duncan, A.R.S.A*.  
 
@@ -298,9 +298,9 @@ like dew-drops on whin blossom.
 
 ### Footnotes
 
-<span id="fn_9"></span>[170:1](tsm17.htm#fr_9) Pronounced Goo'na.
+<span id="fn_9"></span>[170:1](tsm17.htm#fr_9.md) Pronounced Goo'na.
 Spelled Gunna in Gaelic.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Friends and Foes of Man](tsm18)
+[Next: Chapter XV. Friends and Foes of Man](tsm18.md)

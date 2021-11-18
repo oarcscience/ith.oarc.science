@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps12)  [Next](rps14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps12)  [Next](rps14.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ Mediator, and Crown Head of the Church Triumphant and Black Supremacy.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 12. The Holy Ceremony of the Mortals](rps14)
+[Next: Chapter 12. The Holy Ceremony of the Mortals](rps14.md)

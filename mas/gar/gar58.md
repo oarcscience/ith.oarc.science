@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar57)  [Next](gar59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar57)  [Next](gar59.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 <span id="page_219">p. 219</span>
 
 <span id="img_21900"></span> <span align="CENTER"> [![](tn/21900.jpg)  
-Click to enlarge](img/21900.jpg)</span>
+Click to enlarge](img/21900.jpg.md)</span>
 
 <span id="page_220">p. 220</span>
 
@@ -43,7 +43,7 @@ JEWELS (silver).
 
 |                   |       |                                                                                               |
 |-------------------|-------|-----------------------------------------------------------------------------------------------|
-| Past Master       | wears | a compass opened on a quarter circle, sun in the center. <span id="fr_29"></span>[\*](#fn_29) |
+| Past Master       | wears | a compass opened on a quarter circle, sun in the center. <span id="fr_29"></span>[\*](#fn_29.md) |
 | Master            | „     | a square.                                                                                     |
 | Senior Warden     | „     | a level.                                                                                      |
 | Junior Warden     | „     | a plumb.                                                                                      |
@@ -63,7 +63,7 @@ JEWELS (silver).
 <span id="page_221">p. 221</span>
 
 <span id="img_22100"></span> <span align="CENTER"> [![](tn/22100.jpg)  
-Click to enlarge](img/22100.jpg)</span>
+Click to enlarge](img/22100.jpg.md)</span>
 
 #### GRAND LODGE.
 
@@ -107,9 +107,9 @@ suspended in a circle or wreath.
 
 ### Footnotes
 
-<span id="fn_29"></span>[220:\*](gar58.htm#fr_29) This Jewel may be made
+<span id="fn_29"></span>[220:\*](gar58.htm#fr_29.md) This Jewel may be made
 of gold, and enclosed to a wreath.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](gar59)
+[Next: Introduction](gar59.md)

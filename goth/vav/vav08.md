@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav07)  [Next](vav09) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav07)  [Next](vav09.md) 
 
 ------------------------------------------------------------------------
 
@@ -268,4 +268,4 @@ The Vampire lost no time in opening a fresh story.
 ------------------------------------------------------------------------
 
 [Next: The Vampire's Fifth Story. Of the Thief Who Laughed and
-Wept.](vav09)
+Wept.](vav09.md)

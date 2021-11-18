@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut07)  [Next](mdut09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut07)  [Next](mdut09.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,16 +87,16 @@ say. He it was who was to be the Thunder-Man. His sister recognized him
 again. At that time he said, "I shall have my country there. You must
 remain here. Meanwhile I shall be continually travelling about in the
 Above-Valley." So he spoke. That is all. "There are many squinting women
-gathering tules." <span id="fr_10"></span>[1](#fn_10)
+gathering tules." <span id="fr_10"></span>[1](#fn_10.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_10"></span>[145:1](mdut08.htm#fr_10) This is a common way
+<span id="fn_10"></span>[145:1](mdut08.htm#fr_10.md) This is a common way
 of ending a tale. The sentence has no application to the rest of the
 story.
 
 ------------------------------------------------------------------------
 
-[Next: 7. Thunder-Boy and Lizard-Man (variant)](mdut09)
+[Next: 7. Thunder-Boy and Lizard-Man (variant)](mdut09.md)

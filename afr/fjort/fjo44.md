@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fjo43)  [Next](fjo45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fjo43)  [Next](fjo45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R142/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R142/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Notes on the Folklore of the Fjort*, by Richard Edward Dennett,
 \[1898\], at Intangible Textual Heritage
 
@@ -54,6 +54,6 @@ It should be noted that the symbol X stands throughout for *tch* or
 
 ------------------------------------------------------------------------
 
-[Next: The Song Of Life.](fjo45)
+[Next: The Song Of Life.](fjo45.md)
 
 </div>

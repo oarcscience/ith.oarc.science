@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](glg30)  [Next](glg32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](glg30)  [Next](glg32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3WHK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3WHK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gateless Gate*, by Ekai, called Mu-mon, tr. Nyogen Senzaki and Paul
 Reps \[1934\], at Intangible Textual Heritage
 
@@ -47,4 +47,4 @@ The answer is a stick in the soft mud*.
 
 ------------------------------------------------------------------------
 
-[Next: 32. A Philosopher Asks Buddha](glg32)
+[Next: 32. A Philosopher Asks Buddha](glg32.md)

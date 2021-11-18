@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop16)  [Next](pop18) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop16)  [Next](pop18.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ Therefore as a temporal thing thou must also pass away.'
 
 ------------------------------------------------------------------------
 
-[Next: The Thirteenth Figure](pop18)
+[Next: The Thirteenth Figure](pop18.md)

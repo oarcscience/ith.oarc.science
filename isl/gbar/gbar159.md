@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar158) [Next](gbar160)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar158) [Next](gbar160.md)
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ see the truth clearly.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar160)
+[Next](gbar160.md)

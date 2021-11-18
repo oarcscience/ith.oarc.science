@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes22)  [Next](nes24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes22)  [Next](nes24.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,30 +19,30 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 MOLE burrowing near the foundation of a dwelling-house was looked upon
 as an indication that the indwellers were within a short time to change
 their abode. If the burrowing was carried round the whole house, or a
 considerable part of it, the death of some one of the inmates was looked
-upon as not far distant. <span id="fr_74"></span>[1](#fn_74)
+upon as not far distant. <span id="fr_74"></span>[1](#fn_74.md)
 
 If one take a mole and rub it between the hands till it dies, the power
 of healing a woman's festered breast lies ever after in the hands. All
 that has to be done is to rub the breast between the hands.
 
 When one is laid in the grave, he is said at times "to be heakenin the
-moles." <span id="fr_75"></span>[2](#fn_75)
+moles." <span id="fr_75"></span>[2](#fn_75.md)
 
 ### THE CAT.
 
 The cat bore a bad character in every respect. <span
-id="fr_76"></span>[3](#fn_76)
+id="fr_76"></span>[3](#fn_76.md)
 
 Cats were believed to have a strong propensity to suck the breath of a
 sleeping baby. Such all act was regarded as very dangerous, and was
 believed to end in death if it was continued for any length of
-time. <span id="fr_77"></span>[4](#fn_77)
+time. <span id="fr_77"></span>[4](#fn_77.md)
 
 A cat dying in the house was a warning of the death of one of the
 indwellers.
@@ -106,7 +106,7 @@ which he refused; that she had
 gone, together with her mother, Issobell Crichton, and gotten drinks for
 destroying these cats, as she alleadged, and yet, notwithstanding of
 all, was now found to be with childe." <span
-id="fr_78"></span>[1](#fn_78)
+id="fr_78"></span>[1](#fn_78.md)
 
  
 
@@ -120,8 +120,8 @@ cats, for they aye licht o’ their feet."
 If cats sit by the fire, lick their forepaws, and then rub them over
 their ears, face, and whiskers, rain is looked upon as sure within a
 short time. The saying is, "It's gyain’ t’ be rain, the cat's washin’
-her face." <span id="fr_79"></span>[2](#fn_79) A cat sneezing indicated
-rain. <span id="fr_80"></span>[3](#fn_80)
+her face." <span id="fr_79"></span>[2](#fn_79.md) A cat sneezing indicated
+rain. <span id="fr_80"></span>[3](#fn_80.md)
 
 Here is a rhyme about a cat and a mouse, which was usually sung to
 children; when the last line was sung the singer made a clutch at one of
@@ -190,10 +190,10 @@ kept how the dog behaved towards the sick one. The approach of the
 animal to the sick one gave good hope of a recovery. A dog howling at
 night was the omen of the death of a member of the family, or of one
 nearly related to the family, or of some one in the neighbourhood. <span
-id="fr_81"></span>[1](#fn_81)
+id="fr_81"></span>[1](#fn_81.md)
 
 The dog had the power of seeing ghosts. <span
-id="fr_82"></span>[2](#fn_82) Many a time has it happened to the belated
+id="fr_82"></span>[2](#fn_82.md) Many a time has it happened to the belated
 traveller, as he was returning home through some lonely wood, or
 crossing some bridge with a deep dark pool below it, that the faithful
 dog has come up to his master, and with drooping tail kept close to him,
@@ -209,7 +209,7 @@ seized with hydrophobia.
 If a mad dog bit one, the dog was killed at once, the heart taken out,
 dried over the fire, ground into powder, and part of the powder given as
 a potion. No evil followed from the bite. <span
-id="fr_83"></span>[1](#fn_83)
+id="fr_83"></span>[1](#fn_83.md)
 
 The common notion was that a dog never bit an idiot.
 
@@ -238,13 +238,13 @@ against the wind.
 
 A roast mouse was a cure for the whooping-cough and for the jaundice.
 Three roasted mice had most effect in bringing about the cure of
-whooping-cough. <span id="fr_84"></span>[2](#fn_84)
+whooping-cough. <span id="fr_84"></span>[2](#fn_84.md)
 
 ### THE FIELD MOUSE.
 
 The field mouse, called "the thraw mouse," running over the foot of a
 person, was supposed to produce paralysis in the foot. <span
-id="fr_85"></span>[3](#fn_85)
+id="fr_85"></span>[3](#fn_85.md)
 
 <span id="page_128">p. 128</span>
 
@@ -276,7 +276,7 @@ her deed of taking the cow's milk to herself, a leaden bullet from a gun
 had no effect. She could be hit by nothing but by a crooked sixpence. If
 such a hare crossed a sportsman's path, all his skill was baffled in
 pursuit of her, and the swiftest of his dogs were soon left far
-behind. <span id="fr_86"></span>[1](#fn_86)
+behind. <span id="fr_86"></span>[1](#fn_86.md)
 
 The hare was aware of her power, and would do what she could to annoy
 the sportsman. She would disappear for a time, and again suddenly start
@@ -302,10 +302,10 @@ sea.
 To have thrown a hare, or any part of a hare, into a boat would have
 stopped many a fisherman in by-gone days from going to sea; and if any
 misfortune had happened, however long afterwards, it was traced up to
-the hare. <span id="fr_87"></span>[1](#fn_87)
+the hare. <span id="fr_87"></span>[1](#fn_87.md)
 
 A hare crossing the path portended mishap on the journey. <span
-id="fr_88"></span>[2](#fn_88) To counteract the evil effects of this
+id="fr_88"></span>[2](#fn_88.md) To counteract the evil effects of this
 untoward event a cross had to be made upon the path, and spit upon.
 
 Harelip was produced by a woman enceinte putting her foot into a hare's
@@ -322,7 +322,7 @@ used.
 
 Pigs have from three to five round marks ranged in the shape of a
 crescent on the foreleg a little above the ankle. They go by the name of
-the "Devil's mark." <span id="fr_89"></span>[3](#fn_89)
+the "Devil's mark." <span id="fr_89"></span>[3](#fn_89.md)
 
 Among some of the fishing population it was accounted very unlucky for a
 marriage party to meet a pig.
@@ -343,7 +343,7 @@ believed to live in graveyards, burrowing among the dead bodies and
 devouring them.
 
 It was a very common notion that the pig sees the wind. <span
-id="fr_90"></span>[1](#fn_90)
+id="fr_90"></span>[1](#fn_90.md)
 
 To signify that an undertaking had failed there was used the proverb,
 "The swine hiz gane throw ’t," or "The swine hiz gane throw the kail." A
@@ -357,7 +357,7 @@ verlaufen, 'denn es sitze eine wilde Sau, ein wilder Eber darin.'"
 
 In setting out on a journey, to meet a horse as the "first fit" was
 accounted a good omen of the success of the journey. <span
-id="fr_91"></span>[2](#fn_91)
+id="fr_91"></span>[2](#fn_91.md)
 
 The meeting of a horse by a bridal party as the "first fit" was looked
 upon as a sure proof of a happy marriage.
@@ -454,7 +454,7 @@ forth stock of various colours; hence the saying:--
 Ye may lat oot the byre mehr and mehr;  
 Fin the sheep begins t’ black and brook,  
 Ye may tack in the cot at ilky neuk." <span
-id="fr_92"></span>[1](#fn_92)
+id="fr_92"></span>[1](#fn_92.md)
 
 In days not very long ago, when a lamb of black colour was brought forth
 in a flock, it was put to death at once; its appearance was the
@@ -582,7 +582,7 @@ Hodle, dodle, hodle, dodle."
 
 ### THE CROW.
 
-The crow was a bird of darkness. <span id="fr_93"></span>[1](#fn_93) He
+The crow was a bird of darkness. <span id="fr_93"></span>[1](#fn_93.md) He
 was always associated with the man skilled in "black airt."
 
 A Morayshire laird had gone to Italy to study "black airt," and had
@@ -634,7 +634,7 @@ It was thought very unlucky to destroy a rookery. A story is told of a
 Buchan proprietor who, for some reason or other, a good many years ago,
 destroyed a large rookery near his mansion-house. Since that time, as
 the old people say, nothing has thriven. <span
-id="fr_94"></span>[1](#fn_94)
+id="fr_94"></span>[1](#fn_94.md)
 
 The act of rooks flying upwards and downwards, and, as it were, tumbling
 over each other, was called "cloddin," and was looked upon as the
@@ -692,7 +692,7 @@ now gone for a good many years, used to tell that, when he was thriving
 and laying up money, the pyots used to hop along the road before him on
 the summer mornings, as he was carting home the winter store of peats.
 In other parts of the country to meet a magpie in the morning was
-unlucky. <span id="fr_95"></span>[1](#fn_95)
+unlucky. <span id="fr_95"></span>[1](#fn_95.md)
 
 <span id="page_138">p. 138</span>
 
@@ -704,13 +704,13 @@ In some districts the following was current about the magpie:
 "Ane's joy,  
 Twa's grief,  
 Three's a marriage,  
-Four's death." <span id="fr_96"></span>[1](#fn_96)
+Four's death." <span id="fr_96"></span>[1](#fn_96.md)
 
 To have shot a magpie was the certain way of incurring all manner of
-mishaps. <span id="fr_97"></span>[2](#fn_97)
+mishaps. <span id="fr_97"></span>[2](#fn_97.md)
 
 It was sometimes called the "devil's bird," <span
-id="fr_98"></span>[3](#fn_98) and was believed to have a drop of the
+id="fr_98"></span>[3](#fn_98.md) and was believed to have a drop of the
 devil's blood in its tongue. It was a common notion that a magpie could
 receive the gift of speech by scratching its tongue, and inserting into
 the wound a drop of blood from the human tongue.
@@ -728,7 +728,7 @@ and the wren was styled the robin's wife. The following was a common
 saying:--
 
 "The robin an the wren  
-Is God's cock an hen." <span id="fr_99"></span>[4](#fn_99)
+Is God's cock an hen." <span id="fr_99"></span>[4](#fn_99.md)
 
 If the redbreast comes near the dwelling-house early in autumn it is
 regarded as an indication of an early and a severe winter. The bird
@@ -776,18 +776,18 @@ That hairries the nest o’ the Queen o’ Heaven."
 
 A weather proverb is drawn from the lark, viz. "As lang’s the liverock
 sings afore Can’lemas, it greets aifter’t." <span
-id="fr_100"></span>[1](#fn_100) The usual time when the lark begins to
+id="fr_100"></span>[1](#fn_100.md) The usual time when the lark begins to
 sing is about the 8th of February.
 
 A proverb, spoken to one who is always putting obstacles n the way of
 carrying out any plan by suggesting difficulties, is:--"Gehn the lift
 wir t’ fa’ an smore the liverocks, fahr wid ye get a hole t’ sheet in
-yir hehd." <span id="fr_101"></span>[2](#fn_101) Another proverb
+yir hehd." <span id="fr_101"></span>[2](#fn_101.md) Another proverb
 is:--"Live on love, as liverocks diz on ley."
 
 ### THE YELLOW-HAMMER.
 
-The yellow-hammer, *yalla-yarlin*, <span id="fr_102"></span>[3](#fn_102)
+The yellow-hammer, *yalla-yarlin*, <span id="fr_102"></span>[3](#fn_102.md)
 *yallieckie*, had a very bad
 
 <span id="page_140">p. 140</span>
@@ -802,13 +802,13 @@ In a May morning."
 ### THE COCK.
 
 The cock was called a prophet. The crowing on the threshold indicated
-the arrival of strangers. <span id="fr_103"></span>[1](#fn_103)
+the arrival of strangers. <span id="fr_103"></span>[1](#fn_103.md)
 
 A cock crowing on the roost before midnight was heard with dread. It was
 regarded as an omen of death if, on inspection, it was found that the
 bird's feet, comb, and wattles were cold. He was looking towards the
 quarter where the death would take place. <span
-id="fr_104"></span>[2](#fn_104)
+id="fr_104"></span>[2](#fn_104.md)
 
 The cock was believed to have the power of seeing evil spirits, the
 enemies of man. In many old houses the poultry sat on roosts over the
@@ -823,7 +823,7 @@ hearts. An unseen enemy had been vanquished, and put to flight.
 
 The cock played a considerable part in the cure of epilepsy. One cure
 was to bury alive a cock, a black one if he could be got, below the bed
-on which the patient slept. <span id="fr_105"></span>[3](#fn_105)
+on which the patient slept. <span id="fr_105"></span>[3](#fn_105.md)
 Another cure was the following:--A live cock, the parings of the
 patient's nails, a lock of hair, and ashes from the four corners of the
 hearth, were buried together in a hole dug on the spot on which the
@@ -847,16 +847,16 @@ short time.
 The crowing of a hen was an indication of the death of a member of the
 family in the course of not a long time. She was put to death at once.
 Hence the proverb, "Whis’lin maidens an crawin hens is nae
-chancy." <span id="fr_106"></span>[1](#fn_106)
+chancy." <span id="fr_106"></span>[1](#fn_106.md)
 
 On no account must eggs be sold after sunset. <span
-id="fr_107"></span>[2](#fn_107)
+id="fr_107"></span>[2](#fn_107.md)
 
 It was a common notion that small short hen-eggs produced female birds,
 and long eggs, male birds.
 
 A hen ought to be set on an odd number of eggs; if not, many, if not all
-of them, become addled. <span id="fr_108"></span>[3](#fn_108)
+of them, become addled. <span id="fr_108"></span>[3](#fn_108.md)
 
 Alone, the seaboard there were goodwives who set their eggs when the
 tide was ebbing, so that hen-birds might be produced. Putting the eggs
@@ -924,7 +924,7 @@ sole of each foot of the patient, and allowed to remain there till next
 morning. Then they were taken "atween the sin an the sky," that is, at
 the moment of sunrise, to a spot where the dead and the living never
 pass, that is, to the top of a rock or precipice, and there left. A cure
-was effected. <span id="fr_109"></span>[1](#fn_109)
+was effected. <span id="fr_109"></span>[1](#fn_109.md)
 
 <span id="page_143">p. 143</span>
 
@@ -996,7 +996,7 @@ is to be strong drought in summer.
 
 A cure for the red water, a disease in cows, was to thrust a live frog
 down the animal's throat. The larger and yellower the frog, the more
-certain and speedy was the cure. <span id="fr_110"></span>[1](#fn_110)
+certain and speedy was the cure. <span id="fr_110"></span>[1](#fn_110.md)
 
 If a frog is caught alive and its eyes licked with the tongue, the power
 of curing any eye-disease lies in that tongue. The cure is effected by
@@ -1041,7 +1041,7 @@ though asked again and again to do so.
 #### THE EEL.
 
 The skin of an eel tied round the leg or the arm was a specific against
-cramp when bathing. <span id="fr_111"></span>[1](#fn_111)
+cramp when bathing. <span id="fr_111"></span>[1](#fn_111.md)
 
 #### THE HERRING.
 
@@ -1098,7 +1098,7 @@ Fait gars your moo crook?"
 The answer given is:--
 
 "It crooks because  
-A’ threw it at ma midder." <span id="fr_112"></span>[1](#fn_112)
+A’ threw it at ma midder." <span id="fr_112"></span>[1](#fn_112.md)
 
 #### THE SALMON AND THE TROUT.
 
@@ -1145,7 +1145,7 @@ Another version is:--
 "Ladybird, Ladybird,  
   Flee awa hame,  
 Yir house is on fire  
-  An yir bairns alane." <span id="fr_113"></span>[1](#fn_113)
+  An yir bairns alane." <span id="fr_113"></span>[1](#fn_113.md)
 
 The ant was called "emerteen," and when on being disturbed it was seen
 carrying off its eggs it was supposed to be its horse, and the following
@@ -1174,7 +1174,7 @@ were a great specific to stop bleeding.
 
 A spider running over any part of the body-clothes indicated a piece of
 new dress corresponding to the piece over which the spider was making
-its way. <span id="fr_114"></span>[2](#fn_114)
+its way. <span id="fr_114"></span>[2](#fn_114.md)
 
 A small spider makes its nest--a white downy substance--on the stalks of
 standing corn. According to the height of the nest from the ground was
@@ -1188,13 +1188,13 @@ upon the book as bait. In Pittulie, if it had to be named, it was called
 "sniffitie fit."
 
 The hair-worm (*Gordius aquaticus*) was believed to be produced from the
-hair of a stallion's tail. <span id="fr_115"></span>[1](#fn_115)
+hair of a stallion's tail. <span id="fr_115"></span>[1](#fn_115.md)
 
 Omens were drawn from the black snail (*Arion* *ater*). If it was seen
 the first time during the season on any soft substance, the year would
 be prosperous and happy; but, if it was on a hard substance, there was
 little but difficulties and trials in the way. <span
-id="fr_116"></span>[2](#fn_116)
+id="fr_116"></span>[2](#fn_116.md)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1204,7 +1204,7 @@ id="fr_116"></span>[2](#fn_116)
 
 The cross is said to have been made of the wood of the aspen--"quaking
 aish." Hence the constant motion of the leaves. <span
-id="fr_117"></span>[3](#fn_117)
+id="fr_117"></span>[3](#fn_117.md)
 
 The bluebell (*Campanula rotundifolia*) was in parts of Buchan called
 "the aul’ man's bell," regarded with a sort of dread, and commonly left
@@ -1233,126 +1233,126 @@ chance enter the eyes.
 
 ### Footnotes
 
-<span id="fn_74"></span>[123:1](nes23.htm#fr_74) *Faune populaire de la
+<span id="fn_74"></span>[123:1](nes23.htm#fr_74.md) *Faune populaire de la
 France*, vol. i. p. 11 (5).
 
-<span id="fn_75"></span>[123:2](nes23.htm#fr_75) *Ibid*. p. 11 (15).
+<span id="fn_75"></span>[123:2](nes23.htm#fr_75) *Ibid*. p. 11 (15.md).
 
-<span id="fn_76"></span>[123:3](nes23.htm#fr_76) Cf. Ralston's *Songs of
+<span id="fn_76"></span>[123:3](nes23.htm#fr_76.md) Cf. Ralston's *Songs of
 the Russian People*, p. 405.
 
-<span id="fn_77"></span>[123:4](nes23.htm#fr_77) Cf. Henderson, p. 116,
+<span id="fn_77"></span>[123:4](nes23.htm#fr_77.md) Cf. Henderson, p. 116,
 *F. L. Record*, vol. i. p. 25 (88), vol. ii. p. 205, and *Choice Notes*,
 p. 188.
 
-<span id="fn_78"></span>[125:1](nes23.htm#fr_78) *Extracts from the
+<span id="fn_78"></span>[125:1](nes23.htm#fr_78.md) *Extracts from the
 Presbytery Book of Strathbogie*, p. 247. Spalding Club. Aberdeen, A.D.
 1813.
 
-<span id="fn_79"></span>[125:2](nes23.htm#fr_79) Cf. Henderson, p. 206.
+<span id="fn_79"></span>[125:2](nes23.htm#fr_79.md) Cf. Henderson, p. 206.
 
-<span id="fn_80"></span>[125:3](nes23.htm#fr_80) *Ibid*. p. 206.
+<span id="fn_80"></span>[125:3](nes23.htm#fr_80.md) *Ibid*. p. 206.
 
-<span id="fn_81"></span>[126:1](nes23.htm#fr_81) Cf. Henderson, p. 48.
+<span id="fn_81"></span>[126:1](nes23.htm#fr_81.md) Cf. Henderson, p. 48.
 
-<span id="fn_82"></span>[126:2](nes23.htm#fr_82) *Ibid*. p. 48.
+<span id="fn_82"></span>[126:2](nes23.htm#fr_82.md) *Ibid*. p. 48.
 
-<span id="fn_83"></span>[127:1](nes23.htm#fr_83) Cf. *F. L. Record*,
+<span id="fn_83"></span>[127:1](nes23.htm#fr_83.md) Cf. *F. L. Record*,
 vol. i. p. 43 (140), and Henderson, pp. 159, 160.
 
-<span id="fn_84"></span>[127:2](nes23.htm#fr_84) Cf. Henderson, p. 144;
+<span id="fn_84"></span>[127:2](nes23.htm#fr_84.md) Cf. Henderson, p. 144;
 *F. L. Record*, vol. i. p. 49 (162), and *Choice Notes*, pp. 225, 226.
 
-<span id="fn_85"></span>[127:3](nes23.htm#fr_85) *F. L. Record*, vol. i.
+<span id="fn_85"></span>[127:3](nes23.htm#fr_85.md) *F. L. Record*, vol. i.
 p. 42 (132-135).
 
-<span id="fn_86"></span>[128:1](nes23.htm#fr_86) Cf. Henderson, pp.
+<span id="fn_86"></span>[128:1](nes23.htm#fr_86.md) Cf. Henderson, pp.
 201-20, and *Choice Notes*, p. 27.
 
-<span id="fn_87"></span>[129:1](nes23.htm#fr_87) Cf. *F. L. Record*,
+<span id="fn_87"></span>[129:1](nes23.htm#fr_87.md) Cf. *F. L. Record*,
 vol. i. pp. 200, 201.
 
-<span id="fn_88"></span>[129:2](nes23.htm#fr_88) Cf. Henderson, p. 204,
+<span id="fn_88"></span>[129:2](nes23.htm#fr_88.md) Cf. Henderson, p. 204,
 and *Faune populaire de la France*, vol. i. p. 87 (2).
 
-<span id="fn_89"></span>[129:3](nes23.htm#fr_89) Cf. Henderson, p. 313,
+<span id="fn_89"></span>[129:3](nes23.htm#fr_89.md) Cf. Henderson, p. 313,
 and *Choice Notes*, p. 215.
 
-<span id="fn_90"></span>[130:1](nes23.htm#fr_90) Cf. *F. L. Record*,
+<span id="fn_90"></span>[130:1](nes23.htm#fr_90.md) Cf. *F. L. Record*,
 vol. i. p. 205.
 
-<span id="fn_91"></span>[130:2](nes23.htm#fr_91) Cf. Henderson, p. 116.
+<span id="fn_91"></span>[130:2](nes23.htm#fr_91.md) Cf. Henderson, p. 116.
 
-<span id="fn_92"></span>[132:1](nes23.htm#fr_92) Cf. *F. L. Record*,
+<span id="fn_92"></span>[132:1](nes23.htm#fr_92.md) Cf. *F. L. Record*,
 vol. i. p. 10 (24).
 
-<span id="fn_93"></span>[135:1](nes23.htm#fr_93) Cf. Henderson, p. 126.
+<span id="fn_93"></span>[135:1](nes23.htm#fr_93.md) Cf. Henderson, p. 126.
 
-<span id="fn_94"></span>[136:1](nes23.htm#fr_94) Cf. Henderson, p. 122.
+<span id="fn_94"></span>[136:1](nes23.htm#fr_94.md) Cf. Henderson, p. 122.
 
-<span id="fn_95"></span>[137:1](nes23.htm#fr_95) *Faune populaire de la
+<span id="fn_95"></span>[137:1](nes23.htm#fr_95.md) *Faune populaire de la
 France*, vol. ii. pp. 139, 140 (11).
 
-<span id="fn_96"></span>[138:1](nes23.htm#fr_96) Cf. *F. L. Record*,
+<span id="fn_96"></span>[138:1](nes23.htm#fr_96.md) Cf. *F. L. Record*,
 vol. i. p. 8 (1); Henderson, pp. 126, 127; and *Choice Notes*, pp. 61,
 89, 130.
 
-<span id="fn_97"></span>[138:2](nes23.htm#fr_97) Cf. Henderson, p. 126.
+<span id="fn_97"></span>[138:2](nes23.htm#fr_97.md) Cf. Henderson, p. 126.
 
-<span id="fn_98"></span>[138:3](nes23.htm#fr_98) *Faune populaire de la
+<span id="fn_98"></span>[138:3](nes23.htm#fr_98.md) *Faune populaire de la
 France*, vol. ii. p. 139 (10).
 
-<span id="fn_99"></span>[138:4](nes23.htm#fr_99) Cf. Henderson, p. 123,
+<span id="fn_99"></span>[138:4](nes23.htm#fr_99.md) Cf. Henderson, p. 123,
 and *Choice Notes*, pp. 14, 90.
 
-<span id="fn_100"></span>[139:1](nes23.htm#fr_100) *Faune populaire de
+<span id="fn_100"></span>[139:1](nes23.htm#fr_100.md) *Faune populaire de
 la France*, vol. ii. p. 208 (7).
 
-<span id="fn_101"></span>[139:2](nes23.htm#fr_101) *Ibid*. vol. ii. pp.
+<span id="fn_101"></span>[139:2](nes23.htm#fr_101.md) *Ibid*. vol. ii. pp.
 211, 212 (5).
 
-<span id="fn_102"></span>[139:3](nes23.htm#fr_102) Cf. Henderson, p.
+<span id="fn_102"></span>[139:3](nes23.htm#fr_102.md) Cf. Henderson, p.
 123.
 
-<span id="fn_103"></span>[140:1](nes23.htm#fr_103) *Choice Notes*, pp.
+<span id="fn_103"></span>[140:1](nes23.htm#fr_103.md) *Choice Notes*, pp.
 13, 189.
 
-<span id="fn_104"></span>[140:2](nes23.htm#fr_104) Cf. Henderson, p. 49.
+<span id="fn_104"></span>[140:2](nes23.htm#fr_104.md) Cf. Henderson, p. 49.
 
-<span id="fn_105"></span>[140:3](nes23.htm#fr_105) *Ibid*. p. 147.
+<span id="fn_105"></span>[140:3](nes23.htm#fr_105.md) *Ibid*. p. 147.
 
-<span id="fn_106"></span>[141:1](nes23.htm#fr_106) Cf. Henderson, p. 43,
+<span id="fn_106"></span>[141:1](nes23.htm#fr_106.md) Cf. Henderson, p. 43,
 and *Choice Notes*, pp. 13, 89.
 
-<span id="fn_107"></span>[141:2](nes23.htm#fr_107) Cf. *Choice Notes*,
+<span id="fn_107"></span>[141:2](nes23.htm#fr_107.md) Cf. *Choice Notes*,
 p. 57.
 
-<span id="fn_108"></span>[141:3](nes23.htm#fr_108) Cf. Henderson, p.
+<span id="fn_108"></span>[141:3](nes23.htm#fr_108.md) Cf. Henderson, p.
 112, and *Choice Notes*, p. 13.
 
-<span id="fn_109"></span>[142:1](nes23.htm#fr_109) Cf. *Choice Notes*,
+<span id="fn_109"></span>[142:1](nes23.htm#fr_109.md) Cf. *Choice Notes*,
 pp. 218, 219.
 
-<span id="fn_110"></span>[144:1](nes23.htm#fr_110) Cf. *F. L. Record*,
+<span id="fn_110"></span>[144:1](nes23.htm#fr_110.md) Cf. *F. L. Record*,
 vol. iii. pt. i. p. 81.
 
-<span id="fn_111"></span>[145:1](nes23.htm#fr_111) Cf. Henderson, p. 28.
+<span id="fn_111"></span>[145:1](nes23.htm#fr_111.md) Cf. Henderson, p. 28.
 
-<span id="fn_112"></span>[146:1](nes23.htm#fr_112) Cf. Henderson, p.
+<span id="fn_112"></span>[146:1](nes23.htm#fr_112.md) Cf. Henderson, p.
 313.
 
-<span id="fn_113"></span>[147:1](nes23.htm#fr_113) Cf. Henderson, p. 26,
+<span id="fn_113"></span>[147:1](nes23.htm#fr_113.md) Cf. Henderson, p. 26,
 and *Choice Notes*, pp. 39, 40.
 
-<span id="fn_114"></span>[147:2](nes23.htm#fr_114) Cf. Henderson, p.
+<span id="fn_114"></span>[147:2](nes23.htm#fr_114.md) Cf. Henderson, p.
 111.
 
-<span id="fn_115"></span>[148:1](nes23.htm#fr_115) Cf. Henderson, p. 28.
+<span id="fn_115"></span>[148:1](nes23.htm#fr_115.md) Cf. Henderson, p. 28.
 
-<span id="fn_116"></span>[148:2](nes23.htm#fr_116) *Ibid*. p. 116.
+<span id="fn_116"></span>[148:2](nes23.htm#fr_116.md) *Ibid*. p. 116.
 
-<span id="fn_117"></span>[148:3](nes23.htm#fr_117) *Ibid*. 151.
+<span id="fn_117"></span>[148:3](nes23.htm#fr_117.md) *Ibid*. 151.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. Times and Seasons and Weather](nes24)
+[Next: Chapter XXI. Times and Seasons and Weather](nes24.md)

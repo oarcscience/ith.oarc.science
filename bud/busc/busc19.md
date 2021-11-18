@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc18)  [Next](busc20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc18)  [Next](busc20.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -22,7 +22,7 @@ Heritage
 ### BIRTH-STORY OF THE CITY WITH FOUR GATES
 
 <span class="smallcaps">Four</span> of the five *gatis* or states of
-re-birth (see Introd. [p. 20](busc03.htm#page_20)) occur in the
+re-birth (see Introd. [p. 20](busc03.htm#page_20).md) occur in the
 following story: Mittavindaka, in his life as a man, and as inhabitant
 of hell, the inhabitants of the ghost world in a mitigated state of
 punishment, and the Bodhisatta, as king of the gods. The term translated
@@ -39,8 +39,8 @@ Buddha explaining at the close that Mittavindaka was the disobedient
 brother himself in a previous existence.
 
 <span class="smallcaps">Long</span> ago, in the time of Buddha
-Kassapa <span id="fr_8"></span>[1](#fn_8) of the ten powers <span
-id="fr_9"></span>[2](#fn_9) there lived the son of a chief
+Kassapa <span id="fr_8"></span>[1](#fn_8.md) of the ten powers <span
+id="fr_9"></span>[2](#fn_9.md) there lived the son of a chief
 
 <span id="page_91">p. 91</span>
 
@@ -89,7 +89,7 @@ in the deep. Lots
 
 <span id="page_93">p. 93</span>
 
-were cast <span id="fr_10"></span>[1](#fn_10) to find the unlucky
+were cast <span id="fr_10"></span>[1](#fn_10.md) to find the unlucky
 person, and three times the lot was found in Mittavindaka's hand. So
 they gave him a raft, saying, "Let not many perish for the sake of this
 one," and they put him in the sea. And at that very moment the ship sped
@@ -151,7 +151,7 @@ What is the sin that I have done?
 
 All the doors are shut and bolted,  
 And like a bird am I caged in.  
-What is the reason, goblin <span id="fr_11"></span>[1](#fn_11), tell
+What is the reason, goblin <span id="fr_11"></span>[1](#fn_11.md), tell
 me,  
 Why am I smitten with this wheel?
 
@@ -222,7 +222,7 @@ Being in reply uttered the tenth verse:
 Mittavindaka, hear thou me:  
 The wheel is thrown upon thy head,  
 From hero thou canst not free thy life. <span
-id="fr_12"></span>[1](#fn_12)</span>
+id="fr_12"></span>[1](#fn_12.md)</span>
 
 </div>
 
@@ -233,12 +233,12 @@ other one came great suffering. (Jat. No. 439.)
 
 ### Footnotes
 
-<span id="fn_8"></span>[90:1](busc19.htm#fr_8) Previous to the
+<span id="fn_8"></span>[90:1](busc19.htm#fr_8.md) Previous to the
 historical Buddha were twenty-four other Buddhas in previous ages, of
 whom Kassapa was the twenty-fourth. They are of course quite
 unhistorical.
 
-<span id="fn_9"></span>[90:2](busc19.htm#fr_9) The ten powers (bala) of
+<span id="fn_9"></span>[90:2](busc19.htm#fr_9) The ten powers (bala.md) of
 a Buddha are knowledge of what is possible and impossible, knowledge of
 the consequences of actions, knowledge of the different elements,
 knowledge of the different dispositions of men, knowledge of the higher
@@ -249,18 +249,18 @@ liberations, meditations, and attainments, knowledge of remembering
 former existences, knowledge of divine sight, knowledge of the
 destruction of the passions.
 
-<span id="fn_10"></span>[93:1](busc19.htm#fr_10) Cf. Jonah i. 7.
+<span id="fn_10"></span>[93:1](busc19.htm#fr_10.md) Cf. Jonah i. 7.
 
-<span id="fn_11"></span>[95:1](busc19.htm#fr_11) So Mittavindaka
+<span id="fn_11"></span>[95:1](busc19.htm#fr_11.md) So Mittavindaka
 addresses the Bodhisatta, as if he were a demon.
 
-<span id="fn_12"></span>[96:1](busc19.htm#fr_12) *I.e.* he has to spend
+<span id="fn_12"></span>[96:1](busc19.htm#fr_12.md) *I.e.* he has to spend
 a lifetime in hell according to his karma.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XVII. The Pig-Faced Ghost](busc20)
+[Next: XVII. The Pig-Faced Ghost](busc20.md)
 
 </div>

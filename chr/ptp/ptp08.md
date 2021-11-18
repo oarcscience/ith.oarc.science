@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp07)  [Next](ptp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp07)  [Next](ptp09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -173,7 +173,7 @@ Soon after this incident Luitprand died and with his successor, Ratchis,
 
 <span id="img_05700"></span> <span align="CENTER"> [![The story opens
 with Peter.](tn/05700.jpg)  
-Click to enlarge](img/05700.jpg)  
+Click to enlarge](img/05700.jpg.md)  
 The story opens with Peter.  
 </span>
 
@@ -439,4 +439,4 @@ soul be in peace."
 
 ------------------------------------------------------------------------
 
-[Next: Ninth Century](ptp09)
+[Next: Ninth Century](ptp09.md)

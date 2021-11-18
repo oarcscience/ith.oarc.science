@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ami12)  [Next](ami14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ami12)  [Next](ami14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Amitabha, A Story of Buddhist Theology*, by Paul Carus, \[1906\], at
 Intangible Textual Heritage
 
@@ -131,7 +131,7 @@ exists at all. The priests claim the authority of the Vedas, and the
 Vedas are based upon the authority of the authors who wrote them, and
 these authors rely on the authority of Brahma. They are like a string of
 blind men clinging to one another and leading the
-blind,[21](ami16.htm#an_21) and their method of salvation consists in
+blind,[21](ami16.htm#an_21.md) and their method of salvation consists in
 adoration, worship, and prayer." It is a doctrine for children, and
 though the words of their theory are high-sounding they are not the
 truth but a mere shadow of the truth; and in this sense the Tathâgata
@@ -171,7 +171,7 @@ infinite; its bountiful use immeasurable.
 "We know something but not all about Amitâbha. He is the Dharmakâya, the
 embodiment of the good law. He is the Nirmanakâya, the aspiration to
 reach bodhi in the transformations of the evolution of life. He is the
-Sambhogakâya, the bliss of good deeds.[22](ami16.htm#an_22) The
+Sambhogakâya, the bliss of good deeds.[22](ami16.htm#an_22.md) The
 philosophers, scientists, poets, of the future, the thinkers and
 dreamers of mankind, will find in Amitâbha a wonderful source of
 inspiration which can never be exhausted. The Tathâgata's religion is
@@ -196,4 +196,4 @@ desire to hear it.
 
 ------------------------------------------------------------------------
 
-[Next: The Parable of the Elephant](ami14)
+[Next: The Parable of the Elephant](ami14.md)

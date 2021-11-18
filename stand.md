@@ -12,7 +12,7 @@ title: "Intangible Textual Heritage: Document Coding Standards"
 
 These coding standards apply to *new* files scanned at Intangible
 Textual Heritage. [There is a bibliography of all files scanned at this
-site here](stbib). Because these conventions have evolved over time, not
+site here](stbib.md). Because these conventions have evolved over time, not
 all texts will have all of the markup specified here, particularly the
 page numbering and footnote conventions. We are constantly refining our
 methods of document preparation and production. However, there are still

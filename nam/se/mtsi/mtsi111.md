@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi110)  [Next](mtsi112) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi110)  [Next](mtsi112.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ boy. They used to tell it so.
 
 ------------------------------------------------------------------------
 
-[Next: 19. A Rip Van Winkle Story](mtsi112)
+[Next: 19. A Rip Van Winkle Story](mtsi112.md)

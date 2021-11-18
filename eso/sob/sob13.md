@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob12) 
-[Next](sob14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob12.md) 
+[Next](sob14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Science of Breath*, by Yogi Ramacharaka, pseud. William Atkinson,
 \[1904\], at Intangible Textual Heritage
 
@@ -151,4 +151,4 @@ other until the entire lung space is filled.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Vibration and Yogi Rhythmic Breathing](sob14)
+[Next: Chapter XIII. Vibration and Yogi Rhythmic Breathing](sob14.md)

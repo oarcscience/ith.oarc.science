@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](ecl09) 
-[Previous](ecll08)  [Next](ecll10) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](ecl09.md) 
+[Previous](ecll08)  [Next](ecll10.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ carmina tum melius, cum venerit ipse, canemus.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue X.--Gallus](ecll10)
+[Next: Eclogue X.--Gallus](ecll10.md)

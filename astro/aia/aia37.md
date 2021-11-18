@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia36)  [Next](aia38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia36)  [Next](aia38.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ N.B. if the querent *name* the thing hoped for, then judge of it by its
 own proper house, &c.; as, if it be money the 2d, if it be children the
 5th, &c.
 
-*Of the Sincerity of Friends*. <span id="fr_123"></span>[1](#fn_122)
+*Of the Sincerity of Friends*. <span id="fr_123"></span>[1](#fn_122.md)
 
 Good planets in the 11th, or ☊ there, or good aspects between the lords
 of the 11th and ascendant, denote the friends of the querent to be
@@ -60,10 +60,10 @@ the 11th, denotes a secret enemy under the guise of friendship. ☿ in the
 
 ### Footnotes
 
-<span id="fn_122"></span>[277:1](aia37.htm#fr_123) These rules are not
+<span id="fn_122"></span>[277:1](aia37.htm#fr_123.md) These rules are not
 found in our author.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXV. Of the Twelfth House, and its Questions, viz. of
-Imprisonment, Great Cattle, Private Enemies, Banished Men, &c.](aia38)
+Imprisonment, Great Cattle, Private Enemies, Banished Men, &c.](aia38.md)

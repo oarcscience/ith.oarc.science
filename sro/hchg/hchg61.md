@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg60)  [Next](hchg62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg60)  [Next](hchg62.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -477,4 +477,4 @@ derivatives through Provence from Spain.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Victory of the Latin Rite](hchg62)
+[Next: IV. The Victory of the Latin Rite](hchg62.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ptpl02)  [Next](ptpl04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ptpl02)  [Next](ptpl04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Principal Teachings of The True Sect of Pure Land*, by Yejitsu Okusa,
 \[1915\], at Intangible Textual Heritage
 
@@ -100,7 +100,7 @@ that year, and offered his final prayers to Avalokitēçvara Bōdhisattva
 vision of the Bosatsu, and through his instruction he went to Yoshimidzu
 in order to be taught by Hōnen Shōnin. Now, according to his doctrine,
 all sentient beings were sure to be saved and embraced in the light of
-Amida <span id="fr_0"></span>[\*](#fn_0) and to be born in the Land of
+Amida <span id="fr_0"></span>[\*](#fn_0.md) and to be born in the Land of
 Happiness, eternal and imperishable, if they, however sinful, only
 believe in the name of the Buddha, and, forsaking all their petty cares
 of the world at present and to come, abandon themselves to his saving
@@ -115,11 +115,11 @@ Then, for the first time, he came to perceive that Amida was the name of
 his true Father, and could not help realising that, during these
 twenty-nine years of his existence, his life had ever been actuated by
 this Father's will to save, and that this true Father, from the very
-beginning of all things, had [been](errata.htm#1) unintermittently at
+beginning of all things, had [been](errata.htm#1.md) unintermittently at
 work to save his sinful children through his eternal mercy. The Shōnin
 was filled with joy and gratitude unspeakable. To commemorate this
 occasion of his spiritual regeneration, he was given by his master a new
-Buddhist name, Shakkū. [Abandoning](errata.htm#2) his former adherence
+Buddhist name, Shakkū. [Abandoning](errata.htm#2.md) his former adherence
 to the faith of the Tendai Sect, he now embraced the Pure Land Sect;
 that is to say, forsaking the
 
@@ -154,7 +154,7 @@ following, a son was born to him, who was named Han-i.
 
 In 1205 A.D., our Shōnin was given by his revered master a copy of his
 work entitled, "The Sen-Jyaku Hon-Gwan Nen-Butsu Shū <span
-id="fr_1"></span>[1](#fn_1)—which we have reason to consider a memorable
+id="fr_1"></span>[1](#fn_1.md)—which we have reason to consider a memorable
 
 <span id="page_9">p. 9</span>
 
@@ -200,7 +200,7 @@ Law of the Buddha if there were not such an opportunity as this. My
 banishment serves an excellent purpose of proselytism. If I happen to
 find even one soul embracing the same faith as mine in that remote
 province, I shall regard it as owing to the wisdom of my venerable
-master." Thus thinking, he departed for his [destination](errata.htm#3)
+master." Thus thinking, he departed for his [destination](errata.htm#3.md)
 with cheerful spirits.
 
 Therefore, all the way along his long journey, our Shōnin made use of
@@ -255,7 +255,7 @@ the Capital, and making his way for Hidachi Province, he visited several
 towns along his route and preached his faith to the people.
 
 Since January, 1217, he settled at Inada of Hidachi Province, and began
-writing his "Kyō-Gyō-Shin-Shō" <span id="fr_2"></span>[2](#fn_2) (*The
+writing his "Kyō-Gyō-Shin-Shō" <span id="fr_2"></span>[2](#fn_2.md) (*The
 Teaching, Practice, Faith, and Attainment*), in which are laid down the
 fundamental principles of the True Sect of Pure Land. This was his first
 literary work, and the greatest, for on this is built the entire
@@ -412,31 +412,31 @@ faith, and propounded the principles of the True Sect of Pure Land; and
 it is through these writings that we have now access to the inner life
 of our Founder. Among chief works of his besides the one already
 referred to, "The Kyō-gyō-shin-shō," we mention the following: "The
-Gutoku-shō," <span id="fr_3"></span>[3](#fn_3) "The
-Jōdo-monrui-jushō," <span id="fr_4"></span>[4](#fn_4) "The
-Nyū-shutsu-nimon-ge," <span id="fr_5"></span>[5](#fn_5) "The
-Jōdo-sangyō-wōjō-monrui," <span id="fr_6"></span>[6](#fn_6) "The
-Wōgen-yekō-monrui," <span id="fr_7"></span>[7](#fn_7)
+Gutoku-shō," <span id="fr_3"></span>[3](#fn_3.md) "The
+Jōdo-monrui-jushō," <span id="fr_4"></span>[4](#fn_4.md) "The
+Nyū-shutsu-nimon-ge," <span id="fr_5"></span>[5](#fn_5.md) "The
+Jōdo-sangyō-wōjō-monrui," <span id="fr_6"></span>[6](#fn_6.md) "The
+Wōgen-yekō-monrui," <span id="fr_7"></span>[7](#fn_7.md)
 
 <span id="page_24">p. 24</span>
 
 <span class="contnote">\[paragraph continues\]</span> "The
-Jōdo-wasan," <span id="fr_8"></span>[8](#fn_8) "The Kōsō-wasan," <span
-id="fr_9"></span>[9](#fn_9) "The Shōzōmatsu-wasan," <span
-id="fr_10"></span>[10](#fn_10) "The Yui-shin-shō-mon-i," <span
-id="fr_11"></span>[11](#fn_11) "The Songō-shinzō-meimon," <span
-id="fr_12"></span>[12](#fn_12) "The Ichinen-tanen-shōmon," <span
-id="fr_13"></span>[13](#fn_13) etc.
+Jōdo-wasan," <span id="fr_8"></span>[8](#fn_8.md) "The Kōsō-wasan," <span
+id="fr_9"></span>[9](#fn_9.md) "The Shōzōmatsu-wasan," <span
+id="fr_10"></span>[10](#fn_10.md) "The Yui-shin-shō-mon-i," <span
+id="fr_11"></span>[11](#fn_11.md) "The Songō-shinzō-meimon," <span
+id="fr_12"></span>[12](#fn_12.md) "The Ichinen-tanen-shōmon," <span
+id="fr_13"></span>[13](#fn_13.md) etc.
 
 Besides these, we have two volumes of his letters collected by his
 disciples, which are entitled, "The Mattō-shō" <span
-id="fr_14"></span>[14](#fn_14) and "The Go-shōsoku-shū." <span
-id="fr_15"></span>[15](#fn_15) Still later, Nyoshin Shōnin, grandson of
+id="fr_14"></span>[14](#fn_14.md) and "The Go-shōsoku-shū." <span
+id="fr_15"></span>[15](#fn_15.md) Still later, Nyoshin Shōnin, grandson of
 the master, compiled sayings of the latter
 
 <span id="page_25">p. 25</span>
 
-under the title, "The Tan-i-shō." <span id="fr_16"></span>[16](#fn_16)
+under the title, "The Tan-i-shō." <span id="fr_16"></span>[16](#fn_16.md)
 By the aid of these books, we are able to look into his faith and
 conviction as it was alive in his heart; and our exposition of the
 doctrine of the True Sect will be according to these works.
@@ -445,76 +445,76 @@ doctrine of the True Sect will be according to these works.
 
 ### Footnotes
 
-<span id="fn_0"></span>[5:\*](ptpl03.htm#fr_0) "Amida" in Sanskrit, and
+<span id="fn_0"></span>[5:\*](ptpl03.htm#fr_0.md) "Amida" in Sanskrit, and
 "Omitho" in Chinese.
 
-<span id="fn_1"></span>[8:1](ptpl03.htm#fr_1) A collection of those
+<span id="fn_1"></span>[8:1](ptpl03.htm#fr_1.md) A collection of those
 passages from the sūtras and other works with their explanation, which
 relate to the thinking of the Buddha (*nembutsu*) or the reciting of his
 name,—this reciting being Amida's original prayer (*hongwan*) most
 thoughtfully selected by himself.
 
-<span id="fn_2"></span>[14:2](ptpl03.htm#fr_2) An exposition of the
+<span id="fn_2"></span>[14:2](ptpl03.htm#fr_2.md) An exposition of the
 essential principles of the True Sect as to what it teaches (*kyō*),
 practises (*gyō*), believes (*shin*), and attains (*shō*). 6 fasciculi.
 
-<span id="fn_3"></span>[23:3](ptpl03.htm#fr_3) Literally, "the
+<span id="fn_3"></span>[23:3](ptpl03.htm#fr_3.md) Literally, "the
 simple-hearted bald man's copy-book." This is the name given by Shinran
 Shōnin to his own writing in which he declares his religious faith as a
 simple-hearted monk. By "bald" is meant a shaved head. 2 fasiculi.
 
-<span id="fn_4"></span>[23:4](ptpl03.htm#fr_4) A book in which such
+<span id="fn_4"></span>[23:4](ptpl03.htm#fr_4.md) A book in which such
 passages in the sūtras as relate to the Pure Land doctrine are
 systematically collected.
 
-<span id="fn_5"></span>[23:5](ptpl03.htm#fr_5) "Stanzas concerning the
+<span id="fn_5"></span>[23:5](ptpl03.htm#fr_5.md) "Stanzas concerning the
 two gates, entrance and exit" The entrance is to enter into Pure Land,
 and the exit means coming back from Pure Land to this world of
 defilement in order to save one's fellow-beings.
 
-<span id="fn_6"></span>[23:6](ptpl03.htm#fr_6) Such passages collected
+<span id="fn_6"></span>[23:6](ptpl03.htm#fr_6.md) Such passages collected
 from the sūtras of the Pure Land doctrine, and compared, as relating to
 the birth in Pure Land.
 
-<span id="fn_7"></span>[23:7](ptpl03.htm#fr_7) A classified collection
+<span id="fn_7"></span>[23:7](ptpl03.htm#fr_7.md) A classified collection
 of those passages which relate to the Buddha's grace towards us in its
 twofold operation, going and coming back. The going means being born in
 Pure Land, and the coming back is re-appearance in this world.
 
-<span id="fn_8"></span>[24:8](ptpl03.htm#fr_8) Hymns of Pure Land in
+<span id="fn_8"></span>[24:8](ptpl03.htm#fr_8.md) Hymns of Pure Land in
 easy Japanese.
 
-<span id="fn_9"></span>[24:9](ptpl03.htm#fr_9) Hymns in easy Japanese
+<span id="fn_9"></span>[24:9](ptpl03.htm#fr_9.md) Hymns in easy Japanese
 dedicated to the Seven Great Fathers of the True Sect.
 
-<span id="fn_10"></span>[24:10](ptpl03.htm#fr_10) Hymns concerning the
+<span id="fn_10"></span>[24:10](ptpl03.htm#fr_10.md) Hymns concerning the
 three periods of religion, orthodox, representative, and terminating. in
 which it is explained that for us born in the terminating period the
 True Sect is the most appropriate religion.
 
-<span id="fn_11"></span>[24:11](ptpl03.htm#fr_11) A commentary work on
+<span id="fn_11"></span>[24:11](ptpl03.htm#fr_11.md) A commentary work on
 the venerable Seikaku's book on faith, in which is set forth the
 doctrine of salvation by faith alone.
 
-<span id="fn_12"></span>[24:12](ptpl03.htm#fr_12) The scriptural
+<span id="fn_12"></span>[24:12](ptpl03.htm#fr_12.md) The scriptural
 passages explained which are inscribed on the paper bearing the
 honorable names of the Buddha as well as the portraits of the Fathers.
 
-<span id="fn_13"></span>[24:13](ptpl03.htm#fr_13) "My view concerning
+<span id="fn_13"></span>[24:13](ptpl03.htm#fr_13.md) "My view concerning
 the controversy between the One Thought and the Many Thoughts."
 
-<span id="fn_14"></span>[24:14](ptpl03.htm#fr_14) "The Light of the
+<span id="fn_14"></span>[24:14](ptpl03.htm#fr_14.md) "The Light of the
 Terminating Period." A book in which are collected some of Shinran's
 sayings and letters.
 
-<span id="fn_15"></span>[24:15](ptpl03.htm#fr_15) "Letters of the
+<span id="fn_15"></span>[24:15](ptpl03.htm#fr_15.md) "Letters of the
 Venerable Shinran."
 
-<span id="fn_16"></span>[25:16](ptpl03.htm#fr_16) A work written with a
+<span id="fn_16"></span>[25:16](ptpl03.htm#fr_16.md) A work written with a
 view to settle the heterodoxical opinions that were entertained by some
 True Sect followers concerning the real signification of the teaching of
 Shinran.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Hongwan-ji](ptpl04)
+[Next: II. The Hongwan-ji](ptpl04.md)

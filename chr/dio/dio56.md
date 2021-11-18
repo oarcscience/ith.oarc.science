@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio55)  [Next](dio57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio55)  [Next](dio57.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -124,8 +124,8 @@ id="page_50">p. 50</span> <span id="iv.ii.xiii-Page_50"></span>holy and
 blessed Angels set over us, and that from his illuminating direction, he
 was elevated to that intellectual contemplation in which he saw the most
 exalted Beings seated (to speak symbolically) under God, and with God,
-and around <span id="fr_214"></span>[215](#fn_214) God, and the
-super-princely <span id="fr_215"></span>[216](#fn_215) Eminence elevated
+and around <span id="fr_214"></span>[215](#fn_214.md) God, and the
+super-princely <span id="fr_215"></span>[216](#fn_215.md) Eminence elevated
 unspeakably above them and all, seated on high in the midst of the
 superior Powers. The Theologian then learned, from the things seen,
 that, as compared with every super-essential pre-eminence, the Divine
@@ -206,13 +206,13 @@ more luminous if it should be so, and to me specially welcome.
 
 ### Footnotes
 
-<span id="fn_214"></span>[50:215](dio56.htm#fr_214) <span
+<span id="fn_214"></span>[50:215](dio56.htm#fr_214.md) <span
 id="iv.ii.xiii-p10.1"></span><span id="iv.ii.xiii-p10.2"></span>[John 1.
-1](../../bib/kjv/joh001.htm#001)<span id="iv.ii.xiii-p10.2"></span>.
+1](../../bib/kjv/joh001.htm#001.md)<span id="iv.ii.xiii-p10.2"></span>.
 
-<span id="fn_215"></span>[50:216](dio56.htm#fr_215) <span
+<span id="fn_215"></span>[50:216](dio56.htm#fr_215.md) <span
 id="iv.ii.xiii-p10.3"></span>Or super-original.
 
 ------------------------------------------------------------------------
 
-[Next: Caput XIV.](dio57)
+[Next: Caput XIV.](dio57.md)

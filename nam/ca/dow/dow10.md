@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow09)  [Next](dow11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow09)  [Next](dow11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -125,7 +125,7 @@ needles and tied it up in a small bundle.
 [![&lt;i&gt;Tol'-le-loo&lt;/i&gt; the Mouse playing his flute and
 putting the Valley People to sleep so he can steal the
 Fire](tn/05100.jpg)  
-Click to enlarge](img/05100.jpg)  
+Click to enlarge](img/05100.jpg.md)  
 *Tol'-le-loo* the Mouse playing his flute and putting the Valley People
 to sleep so he can steal the Fire  
 </span>
@@ -157,4 +157,4 @@ course this is only a part.
 
 ------------------------------------------------------------------------
 
-[Next: Why the Lizard Man did not Restore Dead People to Life](dow11)
+[Next: Why the Lizard Man did not Restore Dead People to Life](dow11.md)

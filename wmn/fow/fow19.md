@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow18)  [Next](fow20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow18)  [Next](fow20.md) 
 
 ------------------------------------------------------------------------
 
@@ -466,4 +466,4 @@ added, " She loves and she serves, but in the time of need she's off."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII: Young and Old Maids](fow20)
+[Next: Chapter XVIII: Young and Old Maids](fow20.md)

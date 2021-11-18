@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Next](dfco01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Next](dfco01.md) 
 
 ------------------------------------------------------------------------
 
@@ -255,7 +255,7 @@ is as follows:--
  
 
 <span id="img_00800"></span> ![](img/00800.jpg)  
- <span id="fr_0"></span>[1](#fn_0)
+ <span id="fr_0"></span>[1](#fn_0.md)
 
  
 
@@ -407,10 +407,10 @@ Of the Omaha tribe.
 
 ### Footnotes
 
-<span id="fn_0"></span>[8:1](#fr_0) The words are musical syllables used
+<span id="fn_0"></span>[8:1](#fr_0.md) The words are musical syllables used
 with the same accuracy as the notes. The music played in octaves conveys
 a better idea of the effect of the song.
 
 ------------------------------------------------------------------------
 
-[Next: Obituary Notice](dfco01)
+[Next: Obituary Notice](dfco01.md)

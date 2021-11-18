@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc034) 
-[Next](motc036) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc034.md) 
+[Next](motc036.md) 
 
 ------------------------------------------------------------------------
 
@@ -259,4 +259,4 @@ although hotly pursued by his enemies.
 
 ------------------------------------------------------------------------
 
-[Next: 36. The Ball Game Of The Birds And Animals](motc036)
+[Next: 36. The Ball Game Of The Birds And Animals](motc036.md)

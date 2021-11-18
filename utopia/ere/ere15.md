@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](ere14)  [Next](ere16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](ere14)  [Next](ere16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -260,4 +260,4 @@ sufficiently trespassed upon the attention of the reader.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII: The Views Of The Erewhonians Concerning
-Death](ere16)
+Death](ere16.md)

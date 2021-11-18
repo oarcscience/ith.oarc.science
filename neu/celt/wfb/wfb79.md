@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb78)  [Next](wfb80) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb78)  [Next](wfb80.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ of the martyred hound lie.
 
 ------------------------------------------------------------------------
 
-[Next: Twm of the Fair Lies](wfb80)
+[Next: Twm of the Fair Lies](wfb80.md)

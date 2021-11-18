@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai15)  [Next](jai17) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai15)  [Next](jai17.md) 
 
 ------------------------------------------------------------------------
 
@@ -1049,4 +1049,4 @@ future benefit of human civilization.
 
 ------------------------------------------------------------------------
 
-[Next: Feudal Integration](jai17)
+[Next: Feudal Integration](jai17.md)

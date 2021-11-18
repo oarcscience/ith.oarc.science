@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft14)  [Next](tft16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft14)  [Next](tft16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -83,7 +83,7 @@ opened the sack and thrust it in, allowing the soul to escape. Then
 <span id="img_05900"></span> <span align="CENTER"> [![THE MAN NOW
 DISGUISED HIMSELF AS A HOLY LAMA, BEGGING TSAMBA, AND, CARRYING HIS
 PRAYER WHEEL AND THE SACK, STARTED FOR THE CITY.](tn/05900.jpg)  
-Click to enlarge](img/05900.jpg)  
+Click to enlarge](img/05900.jpg.md)  
 THE MAN NOW DISGUISED HIMSELF AS A HOLY LAMA, BEGGING TSAMBA, AND,
 CARRYING HIS PRAYER WHEEL AND THE SACK, STARTED FOR THE CITY.  
 </span>
@@ -102,4 +102,4 @@ customary etiquette between a man and a ghost."
 
 ------------------------------------------------------------------------
 
-[Next: Thirteen: The Wicked Stepmother](tft16)
+[Next: Thirteen: The Wicked Stepmother](tft16.md)

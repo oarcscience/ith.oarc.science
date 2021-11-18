@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hft22)  [Next](hft24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hft22)  [Next](hft24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hawaiian Folk Tales*, by Thomas G. Thrum, \[1907\], at Intangible
 Textual Heritage
 
@@ -363,4 +363,4 @@ people, as shown in their papers.
 
 ------------------------------------------------------------------------
 
-[Next: XII. Ku-ula, The Fish God Of Hawaii](hft24)
+[Next: XII. Ku-ula, The Fish God Of Hawaii](hft24.md)

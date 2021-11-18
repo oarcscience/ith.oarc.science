@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766181146/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766181146/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766181146/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](isi00)    [Page
-Index](pageidx)    [Text](isi.txt)
+[Contents](#contents)    [Start Reading](isi00.md)    [Page
+Index](pageidx)    [Text](isi.txt.md)
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ currently on display in the Museum of Antiquities in Turin.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](isi00)  
-[Synopsis of Monograph](isi01)  
-[The Isiac Tablet of Cardinal Bembo](isi02)  
-[Advertisements](isi03)  
+<span id="contents"></span> [Title Page](isi00.md)  
+[Synopsis of Monograph](isi01.md)  
+[The Isiac Tablet of Cardinal Bembo](isi02.md)  
+[Advertisements](isi03.md)  

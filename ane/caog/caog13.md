@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog12)  [Next](caog14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog12)  [Next](caog14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -238,7 +238,7 @@ the building of the Tower of
 
 <span id="img_15800"></span> <span align="CENTER"> [![MEN ENGAGED IN
 BUILDING; FROM BABYLONIAN CYLINDER.](tn/15800.jpg)  
-Click to enlarge](img/15800.jpg)  
+Click to enlarge](img/15800.jpg.md)  
 MEN ENGAGED IN BUILDING; FROM BABYLONIAN CYLINDER.  
 </span>
 
@@ -260,7 +260,7 @@ and there is a god always represented
 
 <span id="img_15900"></span> <span align="CENTER"> [![MEN ENGAGED IN
 BUILDING; FROM BABYLONIAN CYLINDER.](tn/15900.jpg)  
-Click to enlarge](img/15900.jpg)  
+Click to enlarge](img/15900.jpg.md)  
 MEN ENGAGED IN BUILDING; FROM BABYLONIAN CYLINDER.  
 </span>
 
@@ -387,7 +387,7 @@ class="smallcaps">or</span> V.
 
 <span id="img_16200"></span> <span align="CENTER"> [![VIEW OF THE BIRS
 NIMRUD, THE SUPPOSED SITE OF THE TOWER OF BABEL.](tn/16200.jpg)  
-Click to enlarge](img/16200.jpg)  
+Click to enlarge](img/16200.jpg.md)  
 VIEW OF THE BIRS NIMRUD, THE SUPPOSED SITE OF THE TOWER OF BABEL.  
 </span>
 
@@ -412,7 +412,7 @@ have never seen the Assyrian word with this meaning.
 
 <span id="img_16300"></span> <span align="CENTER"> [![VIEW OF THE BABIL
 MOUND AT BABYLON, THE SITE OF THE TEMPLE OF BEL.](tn/16300.jpg)  
-Click to enlarge](img/16300.jpg)  
+Click to enlarge](img/16300.jpg.md)  
 VIEW OF THE BABIL MOUND AT BABYLON, THE SITE OF THE TEMPLE OF BEL.  
 </span>
 
@@ -432,7 +432,7 @@ seven stages of brickwork on an earthen
 
 <span id="img_16400"></span> <span align="CENTER"> [![TOWER IN STAGES,
 FROM AN ASSYRIAN BAS-RELIEF.](tn/16400.jpg)  
-Click to enlarge](img/16400.jpg)  
+Click to enlarge](img/16400.jpg.md)  
 TOWER IN STAGES, FROM AN ASSYRIAN BAS-RELIEF.  
 </span>
 
@@ -483,6 +483,6 @@ representation figured opposite page 236 of "Assyrian Discoveries."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Izdubar Legends](caog14)
+[Next: Chapter XI. The Izdubar Legends](caog14.md)
 
 </div>

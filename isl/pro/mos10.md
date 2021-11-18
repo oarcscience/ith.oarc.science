@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos09)  [Next](mos11) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos09)  [Next](mos11.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ you forth a second time(TaHa:55).
 
 ------------------------------------------------------------------------
 
-[Next: The Ash\`abite Imaginations of The Pharaoh](mos11)
+[Next: The Ash\`abite Imaginations of The Pharaoh](mos11.md)

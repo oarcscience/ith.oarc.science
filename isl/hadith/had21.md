@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had20)  [Next](had22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had20)  [Next](had22.md) 
 
 ------------------------------------------------------------------------
 
@@ -582,4 +582,4 @@ lesson learned in hajj.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX: Jihād](had22)
+[Next: Chapter XIX: Jihād](had22.md)

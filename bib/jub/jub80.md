@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub79) 
-[Next](jub81) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub79.md) 
+[Next](jub81.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ servants of our lord, and our asses also." 10. And Joseph said unto
 them: "I too fear the Lord; as for you, go ye to your homes and let your
 brother be my servant, for ye have done evil.. Know ye not that a man
 delighteth in his cup as I with this cup? <span
-id="fr_868"></span>[1](#fn_860) And yet ye have stolen it from me." 11.
+id="fr_868"></span>[1](#fn_860.md) And yet ye have stolen it from me." 11.
 And Judah said: "O my lord, let thy servant, I pray thee, speak a word
 in my lord's ear; two brothers did thy servant's mother bear to our
 father; one went away and was lost, and hath not been found, and he
@@ -55,7 +55,7 @@ father, and if I do not bring him back, thy servant will bear the blame
 to our father for ever." 14. And Joseph saw that they were all accordant
 in goodness one with another, and he could not refrain himself, and he
 told them that he was Joseph. 15. And he conversed with them in the
-Hebrew tongue <span id="fr_869"></span>[2](#fn_861) and fell on their
+Hebrew tongue <span id="fr_869"></span>[2](#fn_861.md) and fell on their
 neck and wept. But they knew him not and they began to weep. 16. And he
 said unto them: "Weep not over me, but hasten and bring my father to me;
 and ye see that it is my mouth that speaketh and the eyes of my brother
@@ -87,14 +87,14 @@ down and see him before I die."
 
 ### Footnotes
 
-<span id="fn_860"></span>[195:1](jub80.htm#fr_868) Gen. xliv. 15 ("Know
+<span id="fn_860"></span>[195:1](jub80.htm#fr_868.md) Gen. xliv. 15 ("Know
 ye not that such a man as I can indeed divine?"). The change in our text
 may be deliberate.
 
-<span id="fn_861"></span>[195:2](jub80.htm#fr_869) A Midrashic touch; so
+<span id="fn_861"></span>[195:2](jub80.htm#fr_869.md) A Midrashic touch; so
 *Bereshith rabba* xciii.
 
 ------------------------------------------------------------------------
 
 [Next: Jacob, celebrates the Feast of First-fruits and journeys to
-Egypt. List of his Descendants. (xliv. 1-34)](jub81)
+Egypt. List of his Descendants. (xliv. 1-34)](jub81.md)

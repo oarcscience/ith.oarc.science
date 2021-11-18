@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](argr07)  [Next](argr09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](argr07)  [Next](argr09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Astrology and Religion Among the Greeks and Romans*, by Franz Cumont,
 \[1912\], at Intangible Textual Heritage
 
@@ -157,7 +157,7 @@ agrarian myths and soon obliterated them. From being lords of a clan and
 a narrow district, the Baals were promoted to the dignity of universal
 gods. The old spirit of storm and thunder, Baal Shammin, who dwelt in
 the sky, becomes the Most High (Ύ᾽ψιστος), the eternal regulator of
-cosmic movements. <span id="fr_49"></span>[1](#fn_49) The naturalistic
+cosmic movements. <span id="fr_49"></span>[1](#fn_49.md) The naturalistic
 and primitive worship which these peoples paid to the Sun, the Moon, and
 certain stars such as Venus, was systematised by a doctrine which
 constituted the Sun--identified with the Baals, conceived as supreme
@@ -167,7 +167,7 @@ gods--the
 
 almighty Lord of the world, thus paving the way in the East for the
 future transformation of Roman paganism. <span
-id="fr_50"></span>[1](#fn_50)
+id="fr_50"></span>[1](#fn_50.md)
 
 There can be no doubt that Babylonian doctrines exercised decisive
 influence on this gradual metamorphosis and this latest phase of Semitic
@@ -176,13 +176,13 @@ the science of the Babylonian clergy as the Persian Achæmenids had done
 before them. We find Seleucus Nicator consulting these official
 soothsayers about the propitious hour for founding Seleucia on the
 Tigris; and, if we may believe Diodorus, <span
-id="fr_51"></span>[2](#fn_51) these diviners made to Alexander,
+id="fr_51"></span>[2](#fn_51.md) these diviners made to Alexander,
 Antigonus, and numerous other monarchs predictions which were fulfilled
 to the letter. Antiochus, king of Commagene, who died in 34 B.C., built
 on a spur of Mount Taurus, commanding a distant view of the Euphrates
 valley, a sepulchral monument on which, side by side with the images of
 his ancestral gods, he set the scheme of his nativity figured on a large
-bas-relief, <span id="fr_52"></span>[3](#fn_52) because his life had
+bas-relief, <span id="fr_52"></span>[3](#fn_52.md) because his life had
 realised all the promises of this horoscope. The cities of Syria often
 stamp on their coins certain signs of the zodiac to mark the fact that
 they stood under their patronage. If princes and cities thus
@@ -212,7 +212,7 @@ did not remain foreign to its system. Had we a more precise knowledge of
 Asiatic civilisation during the Hellenistic period, we should be able to
 estimate more exactly what Zeno and, above all, his disciples owed to
 Chaldean theology and what it owed to them. We have already touched upon
-this point. <span id="fr_53"></span>[1](#fn_53) As it is, we cannot
+this point. <span id="fr_53"></span>[1](#fn_53.md) As it is, we cannot
 follow the development of this movement of ideas, which was definitively
 to introduce astrology together with star-worship into the philosophy of
 the Stoa. The thinker who is almost the sole representative we have of
@@ -296,7 +296,7 @@ future.
 
 The poem is dedicated to Tiberius, who perhaps suggested its
 composition, and some have proposed to see in it "the expression of the
-official religion of the age." <span id="fr_54"></span>[1](#fn_54)
+official religion of the age." <span id="fr_54"></span>[1](#fn_54.md)
 Obviously the first Cæsars, even more than the old republican
 aristocracy, among whom Posidonius counted so many disciples, would be
 inclined to adopt the ideas of one who broke with the old national
@@ -332,7 +332,7 @@ Cicero, displays a curious interest in magic and in occult lore, and an
 ardent devotion to astrology, and that he was the first to expound in
 Latin the significance of the "barbaric sphere," that is to say, a
 series of constellations not recognised by the Greek astronomers but
-adopted in Oriental uranography. <span id="fr_55"></span>[1](#fn_55)
+adopted in Oriental uranography. <span id="fr_55"></span>[1](#fn_55.md)
 
 But these groups of cultured theosophists addressed them-selves only to
 limited circles of "intellectuals." In a general way the new sidereal
@@ -367,7 +367,7 @@ from Phrygia, Isis and Serapis travelled thither from Alexandria.
 Merchants, soldiers, and slaves brought the Baals of Syria and Mithra,
 an immigrant from the heart of Persia. We have attempted in another
 volume to show in what respects each of these foreign cults enriched the
-creeds of Rome. <span id="fr_56"></span>[1](#fn_56) The point which I
+creeds of Rome. <span id="fr_56"></span>[1](#fn_56.md) The point which I
 desire to emphasise here, is that all of them, no matter what their
 origin, were influenced in different degrees by astrology and
 star-worship. These doctrines, as we have seen, grew up among the
@@ -394,7 +394,7 @@ the symbols of the planets, the emblems of the elements, appear time
 after time on the bas-reliefs, mosaics, and paintings of their
 subterranean temples. We find one of the members of their clergy
 proclaimed in his epitaph at Milan *studiosus astrologiae*. <span
-id="fr_57"></span>[2](#fn_57) The priests of the Persian god and
+id="fr_57"></span>[2](#fn_57.md) The priests of the Persian god and
 
 <span id="page_52">p. 52</span>
 
@@ -442,7 +442,7 @@ Alexandrine period, continued to be the theology of the mysteries up to
 the time of their disappearance, even after the advent of Neo-Platonism.
 
 As a characteristic production of this medley of ideas may be quoted
-those *Chaldean Oracles*, <span id="fr_58"></span>[1](#fn_58) whose
+those *Chaldean Oracles*, <span id="fr_58"></span>[1](#fn_58.md) whose
 origin is still a mystery, but which appear to have been compiled in the
 second century of our era. In these works of fantastic mysticism, in
 which the whole Neo-Platonic school saw the revelation of supreme
@@ -580,34 +580,34 @@ eschatological ideas which were derived from it.
 
 ### Footnotes
 
-<span id="fn_49"></span>[45:1](argr08.htm#fr_49) See my *Oriental
+<span id="fn_49"></span>[45:1](argr08.htm#fr_49.md) See my *Oriental
 Religions*, p. 127 ss.
 
-<span id="fn_50"></span>[46:1](argr08.htm#fr_50) See below, Lecture IV,
+<span id="fn_50"></span>[46:1](argr08.htm#fr_50.md) See below, Lecture IV,
 p. 69 sqq.
 
-<span id="fn_51"></span>[46:2](argr08.htm#fr_51) Diodorus Sic., ii, 31.
+<span id="fn_51"></span>[46:2](argr08.htm#fr_51.md) Diodorus Sic., ii, 31.
 
-<span id="fn_52"></span>[46:3](argr08.htm#fr_52) Humann and Puchstein,
+<span id="fn_52"></span>[46:3](argr08.htm#fr_52.md) Humann and Puchstein,
 *Reise in Nord Syrien and Klein Asien*, Berlin, 1890, pl. XL.
 
-<span id="fn_53"></span>[47:1](argr08.htm#fr_53) See above, Lecture II,
-[p. 40](argr07.htm#page_40).
+<span id="fn_53"></span>[47:1](argr08.htm#fr_53.md) See above, Lecture II,
+[p. 40](argr07.htm#page_40.md).
 
-<span id="fn_54"></span>[49:1](argr08.htm#fr_54) Gardthausen, *Augustus
+<span id="fn_54"></span>[49:1](argr08.htm#fr_54.md) Gardthausen, *Augustus
 and seine Zeit*, p. 1131.
 
-<span id="fn_55"></span>[50:1](argr08.htm#fr_55) See F. Boll, *Sphaera*,
+<span id="fn_55"></span>[50:1](argr08.htm#fr_55.md) See F. Boll, *Sphaera*,
 Leipsic, 1903.
 
-<span id="fn_56"></span>[51:1](argr08.htm#fr_56) *The Oriental Religions
+<span id="fn_56"></span>[51:1](argr08.htm#fr_56.md) *The Oriental Religions
 in Roman Paganism*, Chicago (Open Court Publishing Company), 1911.
 
-<span id="fn_57"></span>[51:2](argr08.htm#fr_57) *Corp. Inscr. Lat.*, v,
+<span id="fn_57"></span>[51:2](argr08.htm#fr_57.md) *Corp. Inscr. Lat.*, v,
 5893.
 
-<span id="fn_58"></span>[53:1](argr08.htm#fr_58) Λόγια Χαλδαϊκά.
+<span id="fn_58"></span>[53:1](argr08.htm#fr_58.md) Λόγια Χαλδαϊκά.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture IV. Theology](argr09)
+[Next: Lecture IV. Theology](argr09.md)

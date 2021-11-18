@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](fsgr08)  [Next](fsgr10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](fsgr08)  [Next](fsgr10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Five Stages of Greek Religion*, by Gilbert Murray, \[1925\], at
 Intangible Textual Heritage
 
@@ -142,7 +142,7 @@ beyond Macaulay's History, or any of the famous French memoirs, to
 realize that. Was it really an ordinary thing in the first century, as
 Philo seems to say, for gentlemen at dinner-parties to black one
 another's eyes or bite one another's ears off?<span
-id="an_fr_177_1"></span>[177\_1](fsgr09.htm#an_fn_177_1) Or were such
+id="an_fr_177_1"></span>[177\_1](fsgr09.htm#an_fn_177_1.md) Or were such
 practices confined to some Smart Set? Or was Philo, for his own
 purposes, using some particular scandalous occurrence as if it was
 typical?
@@ -151,7 +151,7 @@ St. Augustine mentions among the virtues of his mother her unusual
 meekness and tact. Although her husband had a fiery temper, she never
 had bruises on her face, which made her a *rara avis* among the matrons
 of her circle.<span
-id="an_fr_177_2"></span>[177\_2](fsgr09.htm#an_fn_177_2) Her circle,
+id="an_fr_177_2"></span>[177\_2](fsgr09.htm#an_fn_177_2.md) Her circle,
 presumably, included Christians as well as Pagans and Manicheans. And
 Philo's circle can scarcely be considered Pagan. Indeed, as for the
 difference of <span id="page_178">p. 178</span> religion, we should bear
@@ -160,10 +160,10 @@ the fourth century, the conduct of the Christians, either to the rest of
 the world or to one another, was very far from evangelical. Ammianus
 says that no savage beasts could equal its cruelty; Ammianus was a
 pagan; but St. Gregory himself says it was like Hell.<span
-id="an_fr_178_1"></span>[178\_1](fsgr09.htm#an_fn_178_1)
+id="an_fr_178_1"></span>[178\_1](fsgr09.htm#an_fn_178_1.md)
 
 I have expressed elsewhere my own general answer to this puzzle.<span
-id="an_fr_178_2"></span>[178\_2](fsgr09.htm#an_fn_178_2) Not only in
+id="an_fr_178_2"></span>[178\_2](fsgr09.htm#an_fn_178_2.md) Not only in
 early Greek times, but throughout the whole of antiquity the possibility
 of all sorts of absurd and atrocious things lay much nearer, the
 protective forces of society were much weaker, the strain on personal
@@ -223,7 +223,7 @@ never flinched from sharing my dangers.'
 
 One note recurs four times; he has lost the one man to whom he could
 talk as a brother; the man of 'guileless and clean free-speech',<span
-id="an_fr_180_1"></span>[180\_1](fsgr09.htm#an_fn_180_1) who was honest
+id="an_fr_180_1"></span>[180\_1](fsgr09.htm#an_fn_180_1.md) who was honest
 and unafraid and able to contradict the emperor freely because of their
 mutual trust. If one thinks of it, Julian, for all his gentleness, must
 have been an alarming emperor to converse with. His standard of conduct
@@ -249,7 +249,7 @@ Christianity.
 He was, roughly speaking, a Neo-Platonist. But it is not as a professed
 philosopher that he writes. It is only that Neo-Platonism had permeated
 the whole atmosphere of the age.<span
-id="an_fr_181_1"></span>[181\_1](fsgr09.htm#an_fn_181_1) The strife of
+id="an_fr_181_1"></span>[181\_1](fsgr09.htm#an_fn_181_1.md) The strife of
 the philosophical sects had almost ceased. Just as Julian's mysticism
 made all gods and almost all forms of worship into one, so his
 enthusiasm for Hellenism revered, nay, idolized, almost all the great
@@ -442,14 +442,14 @@ world.
 The custom of sacrificing animals had died out some time before this.
 The Jews of the Dispersion had given it up long since because the Law
 forbade any such sacrifice outside the Temple.<span
-id="an_fr_188_1"></span>[188\_1](fsgr09.htm#an_fn_188_1) When Jerusalem
+id="an_fr_188_1"></span>[188\_1](fsgr09.htm#an_fn_188_1.md) When Jerusalem
 was destroyed Jewish sacrifice ceased altogether. The Christians seem
 from the beginning to have generally followed the Jewish practice. But
 sacrifice was in itself not likely to continue in a society of large
 towns. It meant turning your temples into very ill-conducted
 slaughter-houses, and was also associated with a great deal of muddled
 and indiscriminate charity.<span
-id="an_fr_188_2"></span>[188\_2](fsgr09.htm#an_fn_188_2) One might have
+id="an_fr_188_2"></span>[188\_2](fsgr09.htm#an_fn_188_2.md) One might have
 hoped that men so high-minded and spiritual as Julian and Sallustius
 would have considered this practice unnecessary or even have reformed it
 away. But no. It was part of the genuine Hellenic tradition; and <span
@@ -462,7 +462,7 @@ sacrifice they are words plus life, Living Words. Lastly, we are Life of
 a sort, and God is Life of an infinitely higher sort. To approach Him we
 need always a medium or a mediator; the medium between life and life
 must needs be life. We find that life in the sacrificed animal.<span
-id="an_fr_189_1"></span>[189\_1](fsgr09.htm#an_fn_189_1)
+id="an_fr_189_1"></span>[189\_1](fsgr09.htm#an_fn_189_1.md)
 
 The argument shows what ingenuity these religious men had at their
 command, and what trouble they would take to avoid having to face a fact
@@ -478,7 +478,7 @@ apologize to the Kosmos in case his language should have been
 indiscreet. The reason, I think, is that the Christians were still, as
 in apostolic times, pinning their faith to the approaching end of <span
 id="page_190">p. 190</span> the world by fire.<span
-id="an_fr_190_1"></span>[190\_1](fsgr09.htm#an_fn_190_1) They announced
+id="an_fr_190_1"></span>[190\_1](fsgr09.htm#an_fn_190_1.md) They announced
 the end of the world as near, and they rejoiced in the prospect of its
 destruction. History has shown more than once what terrible results can
 be produced by such beliefs as these in the minds of excitable and
@@ -537,7 +537,7 @@ the second we are usually supposing that the rack will soon be over and
 that harps and golden crowns will presently follow. The ancient moralist
 believed that the good man was happy then and there, because the joy,
 being in his soul, was not affected by the torture of his body.<span
-id="an_fr_192_1"></span>[192\_1](fsgr09.htm#an_fn_192_1)
+id="an_fr_192_1"></span>[192\_1](fsgr09.htm#an_fn_192_1.md)
 
 Not being able fully to feel this conviction, we naturally incline to
 think it affected or unreal. But, taking the conditions of the ancient
@@ -646,7 +646,7 @@ their world and this. They fought to the death about this credo and
 that, but the same spirit was in all of them. In the words of one who
 speaks with greater knowledge than mine, 'the most inward man in these
 four contemporaries is the same. It is the Spirit of the Fourth
-Century.'<span id="an_fr_196_1"></span>[196\_1](fsgr09.htm#an_fn_196_1)
+Century.'<span id="an_fr_196_1"></span>[196\_1](fsgr09.htm#an_fn_196_1.md)
 
 ------------------------------------------------------------------------
 
@@ -680,7 +680,7 @@ Sophrosynê I will venture, before proceeding to the fourth-century Pagan
 creed, to give some sentences from an earlier Pagan prayer. It is cited
 by Stobaeus from a certain Eusebius, a late Ionic Platonist of whom
 almost nothing is known, not even the date at which he lived.<span
-id="an_fr_197_1"></span>[197\_1](fsgr09.htm#an_fn_197_1) But the voice
+id="an_fr_197_1"></span>[197\_1](fsgr09.htm#an_fn_197_1.md) But the voice
 sounds like that of a stronger and more sober age.
 
 <div class="blockquot">
@@ -738,42 +738,42 @@ of God. Things of that make do not, as a rule, die for ever.
 
 <div class="footnote">
 
-<span id="an_fn_177_1"></span>[177\_1](fsgr09.htm#an_fr_177_1) *De Vit.
+<span id="an_fn_177_1"></span>[177\_1](fsgr09.htm#an_fr_177_1.md) *De Vit.
 Contempl.*, p. 477 M.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_177_2"></span>[177\_2](fsgr09.htm#an_fr_177_2) *Conf.*
+<span id="an_fn_177_2"></span>[177\_2](fsgr09.htm#an_fr_177_2.md) *Conf.*
 ix. 9.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_178_1"></span>[178\_1](fsgr09.htm#an_fr_178_1) Gibbon,
+<span id="an_fn_178_1"></span>[178\_1](fsgr09.htm#an_fr_178_1.md) Gibbon,
 chap. xxi, notes 161, 162.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_178_2"></span>[178\_2](fsgr09.htm#an_fr_178_2) *Rise of
+<span id="an_fn_178_2"></span>[178\_2](fsgr09.htm#an_fr_178_2.md) *Rise of
 the Greek Epic*, chap. i.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_180_1"></span>[180\_1](fsgr09.htm#an_fr_180_1) <u>ἄδολος
+<span id="an_fn_180_1"></span>[180\_1](fsgr09.htm#an_fr_180_1.md) <u>ἄδολος
 καὶ καθαρὰ παρρησία.</u>
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_181_1"></span>[181\_1](fsgr09.htm#an_fr_181_1) 'Many of
+<span id="an_fn_181_1"></span>[181\_1](fsgr09.htm#an_fr_181_1.md) 'Many of
 his sections come straight from Plotinus: xiv and xv perhaps from
 Porphyry's *Letter to Marcella*, an invaluable document for the
 religious side of Neo-Platonism. A few things (prayer to the souls of
@@ -785,14 +785,14 @@ religion.'—*E. R. D.*
 
 <div class="footnote">
 
-<span id="an_fn_188_1"></span>[188\_1](fsgr09.htm#an_fr_188_1) S.
+<span id="an_fn_188_1"></span>[188\_1](fsgr09.htm#an_fr_188_1.md) S.
 Reinach, *Orpheus*, p. 273 (Engl. trans., p. 185).
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_188_2"></span>[188\_2](fsgr09.htm#an_fr_188_2) See
+<span id="an_fn_188_2"></span>[188\_2](fsgr09.htm#an_fr_188_2.md) See
 Ammianus, xxii. 12, on the bad effect of Julian's sacrifices. Sacrifice
 was finally forbidden by the emperor Theodosius in 391. It was condemned
 by Theophrastus, and is said by Porphyry (*De Abstinentia*, ii. 11)
@@ -802,7 +802,7 @@ simply <u>λαβεῖν τὴν ἀρχὴν ἐξ ἀδικίας</u>.
 
 <div class="footnote">
 
-<span id="an_fn_189_1"></span>[189\_1](fsgr09.htm#an_fr_189_1)
+<span id="an_fn_189_1"></span>[189\_1](fsgr09.htm#an_fr_189_1.md)
 Sallustius's view of sacrifice is curiously like the illuminating theory
 of MM. Hubert and Mauss, in which they define primitive sacrifice as a
 medium, a bridge or lightning-conductor, between the profane and the
@@ -814,7 +814,7 @@ d'Histoire des Religions*, 1909.
 
 <div class="footnote">
 
-<span id="an_fn_190_1"></span>[190\_1](fsgr09.htm#an_fr_190_1) Cf.
+<span id="an_fn_190_1"></span>[190\_1](fsgr09.htm#an_fr_190_1.md) Cf.
 Minucius Felix, *Octavius*, p. 96, Ouzel (chap. 11, Boenig). 'Quid quod
 toti orbi et ipsi mundo cum sideribus suis minantur incendium, ruinam
 moliuntur?' The doctrine in their mouths became a very different thing
@@ -825,7 +825,7 @@ the Divine Element. Ibid., pp. 322 ff. (34 Boenig).
 
 <div class="footnote">
 
-<span id="an_fn_192_1"></span>[192\_1](fsgr09.htm#an_fr_192_1) Even
+<span id="an_fn_192_1"></span>[192\_1](fsgr09.htm#an_fr_192_1.md) Even
 Epicurus himself held <u>κὰν στρεβλώθῃ ὁ σοφός, εἶναι αὐτὸν
 εὐδαίμονα</u>. Diog. La. x. 118. See above, end of chap. iii.
 
@@ -833,14 +833,14 @@ Epicurus himself held <u>κὰν στρεβλώθῃ ὁ σοφός, εἶνα
 
 <div class="footnote">
 
-<span id="an_fn_196_1"></span>[196\_1](fsgr09.htm#an_fr_196_1) Geffcken
+<span id="an_fn_196_1"></span>[196\_1](fsgr09.htm#an_fr_196_1.md) Geffcken
 in the *Neue Jahrbücher*, xxi. 162 f.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_197_1"></span>[197\_1](fsgr09.htm#an_fr_197_1) Mullach,
+<span id="an_fn_197_1"></span>[197\_1](fsgr09.htm#an_fr_197_1.md) Mullach,
 *Fragmenta Philosophorum*, iii. 7, from Stob. *Flor.* i. 85.
 
 </div>
@@ -849,6 +849,6 @@ in the *Neue Jahrbücher*, xxi. 162 f.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix: Translation of the Treatise of Sallustius](fsgr10)
+[Next: Appendix: Translation of the Treatise of Sallustius](fsgr10.md)
 
 </div>

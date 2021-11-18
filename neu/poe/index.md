@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NLGNQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NLGNQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NLGNQ/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](poe00)    [Page
-Index](pageidx)    [Text \[Zipped\]](poe.txt.gz)    [\[PDF\]](poe.pdf)
+[Contents](#contents)    [Start Reading](poe00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](poe.txt.gz)    [\[PDF\]](poe.pdf.md)
 
 ------------------------------------------------------------------------
 
@@ -55,42 +55,42 @@ Rings*. -- John Bruno Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](poe00)  
-[Contents](poe01)  
-[General Introduction](poe02)  
-[Voluspo](poe03)  
-[Hovamol](poe04)  
-[Vafthruthnismol](poe05)  
-[Grimnismol](poe06)  
-[Skirnismol](poe07)  
-[Harbarthsljoth](poe08)  
-[Hymiskvitha](poe09)  
-[Lokasenna](poe10)  
-[Thrymskvitha](poe11)  
-[Alvissmol](poe12)  
-[Baldrs Draumar](poe13)  
-[Rigsthula](poe14)  
-[Hyndluljoth](poe15)  
-[Svipdagsmol](poe16)  
-[Völundarkvitha](poe17)  
-[Helgakvitha Hjorvarthssonar](poe18)  
-[Helgakvitha Hundingsbana I](poe19)  
-[Helgakvitha Hundingsbana II](poe20)  
-[Fra Dautha Sinfjotla](poe21)  
-[Gripisspo](poe22)  
-[Reginsmol](poe23)  
-[Fafnismol](poe24)  
-[Sigrdrifumol](poe25)  
-[Brot Af Sigurtharkvithu](poe26)  
-[Guthrunarkvitha I](poe27)  
-[Sigurtharkvitha En Skamma](poe28)  
-[Helreith Brynhildar](poe29)  
-[Drap Niflunga](poe30)  
-[Guthrunarkvitha II, En Forna](poe31)  
-[Guthrunarkvitha III](poe32)  
-[Oddrunargratr](poe33)  
-[Atlakvitha En Grönlenzka](poe34)  
-[Atlamol En Grönlenzku](poe35)  
-[Guthrunarhvot](poe36)  
-[Hamthesmol](poe37)  
-[Pronouncing Index Of Proper Names](poe38)  
+<span id="contents"></span> [Title Page](poe00.md)  
+[Contents](poe01.md)  
+[General Introduction](poe02.md)  
+[Voluspo](poe03.md)  
+[Hovamol](poe04.md)  
+[Vafthruthnismol](poe05.md)  
+[Grimnismol](poe06.md)  
+[Skirnismol](poe07.md)  
+[Harbarthsljoth](poe08.md)  
+[Hymiskvitha](poe09.md)  
+[Lokasenna](poe10.md)  
+[Thrymskvitha](poe11.md)  
+[Alvissmol](poe12.md)  
+[Baldrs Draumar](poe13.md)  
+[Rigsthula](poe14.md)  
+[Hyndluljoth](poe15.md)  
+[Svipdagsmol](poe16.md)  
+[Völundarkvitha](poe17.md)  
+[Helgakvitha Hjorvarthssonar](poe18.md)  
+[Helgakvitha Hundingsbana I](poe19.md)  
+[Helgakvitha Hundingsbana II](poe20.md)  
+[Fra Dautha Sinfjotla](poe21.md)  
+[Gripisspo](poe22.md)  
+[Reginsmol](poe23.md)  
+[Fafnismol](poe24.md)  
+[Sigrdrifumol](poe25.md)  
+[Brot Af Sigurtharkvithu](poe26.md)  
+[Guthrunarkvitha I](poe27.md)  
+[Sigurtharkvitha En Skamma](poe28.md)  
+[Helreith Brynhildar](poe29.md)  
+[Drap Niflunga](poe30.md)  
+[Guthrunarkvitha II, En Forna](poe31.md)  
+[Guthrunarkvitha III](poe32.md)  
+[Oddrunargratr](poe33.md)  
+[Atlakvitha En Grönlenzka](poe34.md)  
+[Atlamol En Grönlenzku](poe35.md)  
+[Guthrunarhvot](poe36.md)  
+[Hamthesmol](poe37.md)  
+[Pronouncing Index Of Proper Names](poe38.md)  

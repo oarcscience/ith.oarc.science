@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar180) [Next](gbar182)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar180) [Next](gbar182.md)
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ creator and to commit sin, whereby he meriteth not reward, but torment.
 
 ------------------------------------------------------------------------
 
-[Next](gbar182)
+[Next](gbar182.md)

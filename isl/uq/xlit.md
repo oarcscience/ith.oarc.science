@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](001) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](001.md) 
 
 </div>
 
@@ -85,6 +85,6 @@
 
 ------------------------------------------------------------------------
 
-[Next: 1. ‏الفاتحة‎ 'lf'tḥt](001)
+[Next: 1. ‏الفاتحة‎ 'lf'tḥt](001.md)
 
 </div>

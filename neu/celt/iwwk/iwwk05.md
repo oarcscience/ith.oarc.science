@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](iwwk04)  [Next](iwwk06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](iwwk04)  [Next](iwwk06.md) 
 
 ------------------------------------------------------------------------
 
@@ -305,4 +305,4 @@ as I had two mountains to cross.
 
 ------------------------------------------------------------------------
 
-[Next: At a Wicklow Fair](iwwk06)
+[Next: At a Wicklow Fair](iwwk06.md)

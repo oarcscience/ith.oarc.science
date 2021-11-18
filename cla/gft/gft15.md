@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft14)  [Next](gft16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft14)  [Next](gft16.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,7 +128,7 @@ such a land, I would rule it wisely and well in
 <span id="img_14400"></span>
 
 [![Do you see that land beyond?](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 Do you see that land beyond?  
 
  
@@ -164,4 +164,4 @@ and Theseus saw her no more.
 
 ------------------------------------------------------------------------
 
-[Next: Part Two: How Theseus Slew the Devourers of Men](gft16)
+[Next: Part Two: How Theseus Slew the Devourers of Men](gft16.md)

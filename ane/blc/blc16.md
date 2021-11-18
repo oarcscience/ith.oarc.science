@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc15)  [Next](blc17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc15)  [Next](blc17.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ BY SIDNEY SMITH, M.A., and C.J. GADD, M.A., Assistants in the
 Department.
 
 <span id="img_table01"></span> ![No. 77,821 (85-4-30,
-15).](img/table01.png)  
+15).](img/table01.png.md)  
 No. 77,821 (85-4-30, 15).
 
 |     |             |                                                                     |                                                      |
@@ -63,7 +63,7 @@ No. 77,821 (85-4-30, 15).
 | 1   | Nisannu     | (kakkab) (amel) Agru....                                            | The Labourer.                                        |
 | 2   | Airu        | " Kakkab u (kakkab) Alap shame                                      | The Star and the Bull of heaven.                     |
 | 3   | Simanu      | " Re'u kinu shame u (kakkab) tu'ame rabuti                          | The faithful shepherd of heaven and the Great Twins. |
-| 4   | Duuzu       | " AL.LUL. (shittu) <span id="fr_53"></span>[54](blc17.htm#fn_53)... | The Tortoise.                                        |
+| 4   | Duuzu       | " AL.LUL. (shittu) <span id="fr_53"></span>[54](blc17.htm#fn_53.md)... | The Tortoise.                                        |
 | 5   | Abu         | " Kalbu rabu ....                                                   | Great Dog (Lion).                                    |
 | 6   | Ululu       | " Shiru ....                                                        | Virgin with ear of corn.                             |
 | 7   | Tashritum   | " Zibanitum ....                                                    | ....                                                 |
@@ -83,4 +83,4 @@ DEPARTMENT OF EGYPTIAN AND ASSYRIAN ANTIQUITIES, BRITISH MUSEUM. *June*
 
 ------------------------------------------------------------------------
 
-[Next: Footnotes](blc17)
+[Next: Footnotes](blc17.md)

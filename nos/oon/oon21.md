@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon20)  [Next](oon22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon20)  [Next](oon22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -21,21 +21,21 @@ Textual Heritage
 
 Century IX.--*Quatrain* 5. \[I. 261.\]
 
-Tiers <span id="fr_421"></span>[1](#fn_420) doigt du pied au premier
+Tiers <span id="fr_421"></span>[1](#fn_420.md) doigt du pied au premier
 semblera,  
 A un nouveau monarque de bas haut: <span
-id="fr_422"></span>[2](#fn_421)  
-Qui <span id="fr_423"></span>[3](#fn_422) Pyse et Luques tyran
+id="fr_422"></span>[2](#fn_421.md)  
+Qui <span id="fr_423"></span>[3](#fn_422.md) Pyse et Luques tyran
 occupera,  
 Du precedent coriger le deffaut.
 
 Translation.
 
-The third <span id="fr_424"></span>[4](#fn_423) shall be a
+The third <span id="fr_424"></span>[4](#fn_423.md) shall be a
 stepping-stone to the throne,  
 To a new monarch from low position to the top;  
 He will as tyrant have taken a military post in Tuscany, <span
-id="fr_425"></span>[5](#fn_424)  
+id="fr_425"></span>[5](#fn_424.md)  
 And will seek to correct the defects of his predecessor.
 
 THE National Assembly of 1848 shall serve as a foot to Louis Napoleon to
@@ -59,11 +59,11 @@ so I omit it.
 
 Century VIII.--*Quatrain* 43. \[I. 265.\]
 
-Par le decide <span id="fr_426"></span>[1](#fn_425) dc deux choses
+Par le decide <span id="fr_426"></span>[1](#fn_425.md) dc deux choses
 bastards,  
-Nepveu du sang <span id="fr_427"></span>[2](#fn_426) occupera le
-regne: <span id="fr_428"></span>[3](#fn_427)  
-Dedans Lectoyre <span id="fr_429"></span>[4](#fn_428) seront les coups
+Nepveu du sang <span id="fr_427"></span>[2](#fn_426.md) occupera le
+regne: <span id="fr_428"></span>[3](#fn_427.md)  
+Dedans Lectoyre <span id="fr_429"></span>[4](#fn_428.md) seront les coups
 de dards,  
 Nepveu par peur pliera l'enseigne.
 
@@ -103,7 +103,7 @@ reminiscence connected with which is that it was the birthplace of that
 great soldier and greater man, Marshal Turenne. He may well be called
 *La gloire de Sedan*, whilst as appropriately may Napoleon the Little be
 designated as *Cédant de la gloire*, with that furled ensign, *qu'il par
-peur pliera*. <span id="fr_430"></span>[1](#fn_429)
+peur pliera*. <span id="fr_430"></span>[1](#fn_429.md)
 
 After much difficulty and searching I have at last come upon two old
 maps, printed at Amsterdam by Blaeuw; the one dated 1620 and the other
@@ -144,10 +144,10 @@ it himself as a cognomen.
 
 Century VIII.--*Quatrain* 44. \[I. 267.\]
 
-Le procrée naturel d'Ogmion <span id="fr_431"></span>[1](#fn_430)  
+Le procrée naturel d'Ogmion <span id="fr_431"></span>[1](#fn_430.md)  
 De sept à neuf du chemin destorner:  
-A roy de longue amy et <span id="fr_432"></span>[2](#fn_431) au my
-hom <span id="fr_433"></span>[3](#fn_432)  
+A roy de longue amy et <span id="fr_432"></span>[2](#fn_431.md) au my
+hom <span id="fr_433"></span>[3](#fn_432.md)  
 Doit à Navarre fort de Pau prosterner.
 
 <span id="page_298">p. 298</span>
@@ -193,7 +193,7 @@ Century V.--*Quatrain* 8. \[I. 270.\]
 
 Sera laissé feu vif, mort caché,  
 Dedans les globes, horrible espouvantable,  
-De nuict a classe <span id="fr_434"></span>[1](#fn_433) cité en poudre
+De nuict a classe <span id="fr_434"></span>[1](#fn_433.md) cité en poudre
 lasché,  
 La cité à feu, l'ennemy favourable.
 
@@ -214,11 +214,11 @@ The next verse follows up the thread.
 
 Century V.--*Quatrain* 9. \[I. 271.\]
 
-Jusques au fond la grand arq <span id="fr_435"></span>[2](#fn_434)
-demolue <span id="fr_436"></span>[3](#fn_435)  
-Par chef captif l'amy anticipé, <span id="fr_437"></span>[4](#fn_436)  
+Jusques au fond la grand arq <span id="fr_435"></span>[2](#fn_434.md)
+demolue <span id="fr_436"></span>[3](#fn_435.md)  
+Par chef captif l'amy anticipé, <span id="fr_437"></span>[4](#fn_436.md)  
 Naistra de dame front, face chevelue,  
-Lors par astuce duc <span id="fr_438"></span>[5](#fn_437) mort atrapé.
+Lors par astuce duc <span id="fr_438"></span>[5](#fn_437.md) mort atrapé.
 
 <span id="page_300">p. 300</span>
 
@@ -243,12 +243,12 @@ as I find it in M. le Pelletier.
 
 Century V.--Quatrain 10. \[I. 272.\]
 
-Un <span id="fr_439"></span>[1](#fn_438) chef Celtique dans le conflict
+Un <span id="fr_439"></span>[1](#fn_438.md) chef Celtique dans le conflict
 blessé,  
-Auprès de cave <span id="fr_440"></span>[2](#fn_439) voyant siens mort
+Auprès de cave <span id="fr_440"></span>[2](#fn_439.md) voyant siens mort
 abbatre,  
 De sang et playes et d'ennemis pressé,  
-Et secours par incogneus <span id="fr_441"></span>[3](#fn_440) de
+Et secours par incogneus <span id="fr_441"></span>[3](#fn_440.md) de
 quatre.
 
 Translation.
@@ -256,7 +256,7 @@ Translation.
 The Celtic chief is wounded in the strife,  
 Seeing death strike down his friends near the theatre,  
 Surrounded with blood and wounds and pressed by enemies,  
-He escapes the four <span id="fr_442"></span>[4](#fn_441) assassins, by
+He escapes the four <span id="fr_442"></span>[4](#fn_441.md) assassins, by
 unknown aid.
 
 The Emperor, slightly struck in the eye by a fragment of glass, shall
@@ -274,11 +274,11 @@ of the Champs de Mars. and Coup d'État.
 Century VI.--*Quatrain* 4. \[I. 273.\]
 
 Le second chef du regne D'annemarc, <span
-id="fr_443"></span>[1](#fn_442)  
-Par ceux de Frize <span id="fr_444"></span>[2](#fn_443) et l'Isle
+id="fr_443"></span>[1](#fn_442.md)  
+Par ceux de Frize <span id="fr_444"></span>[2](#fn_443.md) et l'Isle
 Britannique,  
-Fera despendre <span id="fr_445"></span>[3](#fn_444) plus de cent mille
-marc, <span id="fr_446"></span>[4](#fn_445)  
+Fera despendre <span id="fr_445"></span>[3](#fn_444.md) plus de cent mille
+marc, <span id="fr_446"></span>[4](#fn_445.md)  
 Vain exploicter voyage en Italique.
 
 The second of the Napoleonic race in power will cause England and
@@ -292,10 +292,10 @@ agree that it is a very remarkable forecast.
 
 Century III.--*Quatrain* 37. \[I. 274.\]
 
-Avant l'assaut l'oraison <span id="fr_447"></span>[5](#fn_446)
+Avant l'assaut l'oraison <span id="fr_447"></span>[5](#fn_446.md)
 prononcée,  
-Milan prins <span id="fr_448"></span>[6](#fn_447) d'Aigle par embusches
-deceus, <span id="fr_449"></span>[7](#fn_448)  
+Milan prins <span id="fr_448"></span>[6](#fn_447.md) d'Aigle par embusches
+deceus, <span id="fr_449"></span>[7](#fn_448.md)  
 Muraille antique par canons enfoncée,  
 Par feu et sang à mercy pen receus.
 
@@ -318,14 +318,14 @@ wall, will yield to cannon, fire, and blood.
 
 Century V.--*Quatrain* 20. \[I. 275.\]
 
-De là <span id="fr_450"></span>[1](#fn_449) les Alpes grande armée
+De là <span id="fr_450"></span>[1](#fn_449.md) les Alpes grande armée
 passera  
 Un peu devant naistra monstre vapin, <span
-id="fr_451"></span>[2](#fn_450)  
-Prodigieux et subit <span id="fr_452"></span>[3](#fn_451) tournera <span
-id="fr_453"></span>[4](#fn_452)  
+id="fr_451"></span>[2](#fn_450.md)  
+Prodigieux et subit <span id="fr_452"></span>[3](#fn_451.md) tournera <span
+id="fr_453"></span>[4](#fn_452.md)  
 Le grand Tosquan à son lieu plus propin. <span
-id="fr_454"></span>[5](#fn_453)
+id="fr_454"></span>[5](#fn_453.md)
 
 Translation.
 
@@ -374,14 +374,14 @@ prevalent amongst mankind. The half-educated will find it troublesome to
 read, and disturbing, perhaps, to think about; whilst the scientific may
 even denounce it as a locust-cloud of darkness mediæval in its tendency.
 Undoubtedly it must have the effect that Nostradamus in his preface to
-his son (see [p. 45](oon06.htm#page_45)) says very graphically it will
+his son (see [p. 45](oon06.htm#page_45).md) says very graphically it will
 have, "que possible fera retirer le front à quelques uns." Although, as
 he says again, the forecasts may be
 
 <span id="page_304">p. 304</span>
 
 clouded, they will be understood by men of sense, and they will grow
-clearer as ignorance dies out (see [p. 49](oon06.htm#page_49)); which
+clearer as ignorance dies out (see [p. 49](oon06.htm#page_49).md); which
 should be our care now.
 
 To all objectors I rejoin, gentlemen, investigate, please, all the
@@ -408,36 +408,36 @@ to him they will he found to contain my whole and entire message.
 
 ### Footnotes
 
-<span id="fn_420"></span>[294:1](oon21.htm#fr_421) *Tiers, pour le
+<span id="fn_420"></span>[294:1](oon21.htm#fr_421.md) *Tiers, pour le
 tiers* État. The third order now claiming to govern itself.
 
-<span id="fn_421"></span>[294:2](oon21.htm#fr_422) *De bas haut*, for
+<span id="fn_421"></span>[294:2](oon21.htm#fr_422.md) *De bas haut*, for
 *de bas en haut* elevated from a low to a higher and conspicuous
 position.
 
-<span id="fn_422"></span>[294:3](oon21.htm#fr_423) Latin, *qui*, he,
+<span id="fn_422"></span>[294:3](oon21.htm#fr_423.md) Latin, *qui*, he,
 who.
 
-<span id="fn_423"></span>[294:4](oon21.htm#fr_424) The third estate will
+<span id="fn_423"></span>[294:4](oon21.htm#fr_424.md) The third estate will
 serve, as a toe of the foot to the first rank, a stepping-stone to
 place.
 
-<span id="fn_424"></span>[294:5](oon21.htm#fr_425) Lucca and Pisa stand
+<span id="fn_424"></span>[294:5](oon21.htm#fr_425.md) Lucca and Pisa stand
 for all Tuscany, where, in 1831, Louis Napoleon and Charles Bonaparte,
 his elder brother, had, with one cannon served by himself and a few
 Italian partisans, possessed himself of *Civita-Castellana*, in the
 Pontifical States.
 
-<span id="fn_425"></span>[295:1](oon21.htm#fr_426) Latin, *decidium*, a
+<span id="fn_425"></span>[295:1](oon21.htm#fr_426.md) Latin, *decidium*, a
 word not of classical usage, signifying ruin, or a fall.
 
-<span id="fn_426"></span>[295:2](oon21.htm#fr_427) Romance *sang*,
+<span id="fn_426"></span>[295:2](oon21.htm#fr_427.md) Romance *sang*,
 family.
 
-<span id="fn_427"></span>[295:3](oon21.htm#fr_428) Latin, *regnum*,
+<span id="fn_427"></span>[295:3](oon21.htm#fr_428.md) Latin, *regnum*,
 empire.
 
-<span id="fn_428"></span>[295:4](oon21.htm#fr_429) *Lectoyre*, a town in
+<span id="fn_428"></span>[295:4](oon21.htm#fr_429.md) *Lectoyre*, a town in
 France, in the department of Gers. Garencières adopts the variant
 Lectoure, which he says is a town in Gascony. The word occurs again,
 Century VII. 12, and there he says it is a city of Guyenne. *Lectora*
@@ -445,86 +445,86 @@ was the Latin name. It was a place of great strength, and picturesque;
 but, unless we can find it to be an anagram, there is nothing to connect
 the town in any way with the fortunes of Louis Napoleon.
 
-<span id="fn_429"></span>[296:1](oon21.htm#fr_430) The word *pliera*, is
+<span id="fn_429"></span>[296:1](oon21.htm#fr_430.md) The word *pliera*, is
 of course, only an archaic transposition of *pleira*. The line here can
 in no way be made to scan, being two syllables or one whole foot short.
 I would suggest it be read Nepveu (du sang) par peur pleira l'enseigne.
 
-<span id="fn_430"></span>[297:1](oon21.htm#fr_431) Ogmion has been
+<span id="fn_430"></span>[297:1](oon21.htm#fr_431.md) Ogmion has been
 explained already to be the symbol of the French Republic.
 
-<span id="fn_431"></span>[297:2](oon21.htm#fr_432) The texte-type reads
+<span id="fn_431"></span>[297:2](oon21.htm#fr_432.md) The texte-type reads
 *et amy au*.
 
-<span id="fn_432"></span>[297:3](oon21.htm#fr_433) *My-hom*, Le
+<span id="fn_432"></span>[297:3](oon21.htm#fr_433.md) *My-hom*, Le
 Pelletier says, is *demy-homme*, a man of low birth, and *Roy de longue*
 = *de vieille race*. I prefer to read *de longue vie*, and understand
 the King of Prussia; and *my-hom* I take to be the bivalve-man, or
 Bismarck.
 
-<span id="fn_433"></span>[299:1](oon21.htm#fr_434) Latin, *classis*,
+<span id="fn_433"></span>[299:1](oon21.htm#fr_434.md) Latin, *classis*,
 band; *à classe*, by a band \[sic?\]. It might be better here to render
 *classe* as "crash," κλασις, *brisure*. *De nuict la classe*, a crash by
 night.
 
-<span id="fn_434"></span>[299:2](oon21.htm#fr_435) Latin, *arca*, chest,
+<span id="fn_434"></span>[299:2](oon21.htm#fr_435.md) Latin, *arca*, chest,
 or dam.
 
-<span id="fn_435"></span>[299:3](oon21.htm#fr_436) Latin, *demolitus*,
+<span id="fn_435"></span>[299:3](oon21.htm#fr_436.md) Latin, *demolitus*,
 demolished.
 
-<span id="fn_436"></span>[299:4](oon21.htm#fr_437) Latin, *antecaptus*,
+<span id="fn_436"></span>[299:4](oon21.htm#fr_437.md) Latin, *antecaptus*,
 seized beforehand.
 
-<span id="fn_437"></span>[299:5](oon21.htm#fr_438) Latin, *dux*, leader.
+<span id="fn_437"></span>[299:5](oon21.htm#fr_438.md) Latin, *dux*, leader.
 
-<span id="fn_438"></span>[300:1](oon21.htm#fr_439) Latin, *unus*, the
+<span id="fn_438"></span>[300:1](oon21.htm#fr_439.md) Latin, *unus*, the
 first.
 
-<span id="fn_439"></span>[300:2](oon21.htm#fr_440) Latin, *cavea*,
+<span id="fn_439"></span>[300:2](oon21.htm#fr_440.md) Latin, *cavea*,
 theatre.
 
-<span id="fn_440"></span>[300:3](oon21.htm#fr_441) Romance, *incogneus*,
+<span id="fn_440"></span>[300:3](oon21.htm#fr_441.md) Romance, *incogneus*,
 unknown.
 
-<span id="fn_441"></span>[300:4](oon21.htm#fr_442) The four were Orsini,
+<span id="fn_441"></span>[300:4](oon21.htm#fr_442.md) The four were Orsini,
 Pieri, de Rudio, and Gomez.
 
-<span id="fn_442"></span>[301:1](oon21.htm#fr_443) Greek, Δαν-ἀρχή, as
-we had it before (*v*. [p. 252](oon19.htm#page_252)).
+<span id="fn_442"></span>[301:1](oon21.htm#fr_443.md) Greek, Δαν-ἀρχή, as
+we had it before (*v*. [p. 252](oon19.htm#page_252).md).
 
-<span id="fn_443"></span>[301:2](oon21.htm#fr_444) *Frise*, Hanover.
+<span id="fn_443"></span>[301:2](oon21.htm#fr_444.md) *Frise*, Hanover.
 
-<span id="fn_444"></span>[301:3](oon21.htm#fr_445) Latin, *dependere*,
+<span id="fn_444"></span>[301:3](oon21.htm#fr_445.md) Latin, *dependere*,
 to weigh out, spend.
 
-<span id="fn_445"></span>[301:4](oon21.htm#fr_446) M. le Pelletier
+<span id="fn_445"></span>[301:4](oon21.htm#fr_446.md) M. le Pelletier
 calculates that the golden mark was equal to 250 grammes, or 100,000
 marks = 10,000,000 francs.
 
-<span id="fn_446"></span>[301:5](oon21.htm#fr_447) Latin, *oratio*,
+<span id="fn_446"></span>[301:5](oon21.htm#fr_447.md) Latin, *oratio*,
 *harangue*.
 
-<span id="fn_447"></span>[301:6](oon21.htm#fr_448) Romance, *prins*,
+<span id="fn_447"></span>[301:6](oon21.htm#fr_448.md) Romance, *prins*,
 *pris*, taken.
 
-<span id="fn_448"></span>[301:7](oon21.htm#fr_449) Latin, *decisus*, cut
+<span id="fn_448"></span>[301:7](oon21.htm#fr_449.md) Latin, *decisus*, cut
 off.
 
-<span id="fn_449"></span>[302:1](oon21.htm#fr_450) Delà, for *au delà*.
+<span id="fn_449"></span>[302:1](oon21.htm#fr_450.md) Delà, for *au delà*.
 
-<span id="fn_450"></span>[302:2](oon21.htm#fr_451) Italian, *vappa*,
+<span id="fn_450"></span>[302:2](oon21.htm#fr_451.md) Italian, *vappa*,
 scamp.
 
-<span id="fn_451"></span>[302:3](oon21.htm#fr_452) Latin, *subito*,
+<span id="fn_451"></span>[302:3](oon21.htm#fr_452.md) Latin, *subito*,
 suddenly.
 
-<span id="fn_452"></span>[302:4](oon21.htm#fr_453) *Il tournera*, for
+<span id="fn_452"></span>[302:4](oon21.htm#fr_453.md) *Il tournera*, for
 *il fera tourner*.
 
-<span id="fn_453"></span>[302:5](oon21.htm#fr_454) Latin, *propinque*,
+<span id="fn_453"></span>[302:5](oon21.htm#fr_454.md) Latin, *propinque*,
 at hand, near.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](oon22)
+[Next: Appendix](oon22.md)

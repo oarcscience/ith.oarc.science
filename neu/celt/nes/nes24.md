@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes23)  [Next](nes25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes23)  [Next](nes25.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![M](img/minit.jpg) |
+| ![M](img/minit.jpg.md) |
 
 ONDAY was, accounted an unlucky day on which to begin a piece of work.
 There were parents who would not enter their children at school on this
@@ -35,7 +35,7 @@ Futher the meen be aul or new."
 
 Friday was specially avoided as the day on which to begin any piece of
 work. It was very unlucky for a ship to sail on this day. <span
-id="fr_118"></span>[1](#fn_118)
+id="fr_118"></span>[1](#fn_118.md)
 
 A Friday with fine weather during a time of wet is called a "flatterin’
 Friday," and is supposed to indicate a continuance of wet weather.
@@ -48,7 +48,7 @@ weather:--
 
 A Saiterday meen an’ a Sunday's prime  
 Gehn she cum ance in saiven year  
-She comes in gueede time." <span id="fr_119"></span>[2](#fn_119)
+She comes in gueede time." <span id="fr_119"></span>[2](#fn_119.md)
 
 ### THE MONTHS.
 
@@ -91,7 +91,7 @@ The birds' nibs stack t’ the trees."
 "March said to April--  
 I see three hoggs on yonder hill,  
 In ye wad lend me dayis three  
-I'll dee ma best t’ gar them dee." <span id="fr_120"></span>[1](#fn_120)
+I'll dee ma best t’ gar them dee." <span id="fr_120"></span>[1](#fn_120.md)
 
 Of an April day, when there were alternate showers and sunshine, with a
 good breeze and large clouds fleeting across the blue sky, it was said,
@@ -129,13 +129,13 @@ Macks an eer hairst, an seen deen."
 
 Washing the face with dew gathered on the morning of the first day of
 May kept it from being tanned by the sun and becoming freckled. <span
-id="fr_121"></span>[1](#fn_121)
+id="fr_121"></span>[1](#fn_121.md)
 
 "If Candlemas day be clear and fair,  
 The half o’ winter is t’ gang and mair;  
 If Candlemas day be dark and foul,  
 The half o’ the winter is deen at Yule." <span
-id="fr_122"></span>[2](#fn_122)
+id="fr_122"></span>[2](#fn_122.md)
 
 If the wind is in the north on the Rood-day, bad weather follows.
 
@@ -145,17 +145,17 @@ direction in which it blew during the first day of the quarter.
 ### THE MOON.
 
 It was unlucky to see the new moon for the first time through a window,
-or with empty hands. <span id="fr_123"></span>[3](#fn_123) To have
+or with empty hands. <span id="fr_123"></span>[3](#fn_123.md) To have
 something in the hand on the first sight of the new moon was lucky, and
 indicated a present before the moon had waned. The money in the pocket
 must be turned when the first sight of the new moon was caught. <span
-id="fr_124"></span>[4](#fn_124) Some there were who, on catching the
+id="fr_124"></span>[4](#fn_124.md) Some there were who, on catching the
 first sight of the new moon, kissed the one next them.
 
 The "mairt" or the pig, that was to be salted, must be killed when the
 moon was on the increase, else the meat would not keep well. Rennet made
 from an animal killed except when the moon was waxing was of no
-use. <span id="fr_125"></span>[5](#fn_125)
+use. <span id="fr_125"></span>[5](#fn_125.md)
 
 <span id="page_152">p. 152</span>
 
@@ -212,7 +212,7 @@ Y’ill shortly fin."
 ### THE RAINBOW.
 
 When a rainbow appears the following rhyme is shouted at the top of the
-voice: <span id="fr_126"></span>[1](#fn_126)--
+voice: <span id="fr_126"></span>[1](#fn_126.md)--
 
 "Rainbow, rainbow,  
 Brack an gang hame,  
@@ -273,7 +273,7 @@ Ilky drap’t fill cap."
 A saw about rain with respect to the hours of the day is
 
 "Rain afore seven  
-Fair afore eleven." <span id="fr_127"></span>[1](#fn_127)
+Fair afore eleven." <span id="fr_127"></span>[1](#fn_127.md)
 
 In wet weather, when a clear opening-called in some districts (Keith) "a
 borie"--appears near the sun at sunset, it is looked upon as indicating
@@ -342,34 +342,34 @@ ceased, "the dog ahin his maister."
 
 ### Footnotes
 
-<span id="fn_118"></span>[149:1](nes24.htm#fr_118) Cf. *F. L. Record*,
+<span id="fn_118"></span>[149:1](nes24.htm#fr_118.md) Cf. *F. L. Record*,
 vol. i. p. 13 (50, 52) and vol. ii. p. 205.
 
-<span id="fn_119"></span>[149:2](nes24.htm#fr_119) Cf. *Choice Notes*,
+<span id="fn_119"></span>[149:2](nes24.htm#fr_119.md) Cf. *Choice Notes*,
 p. 288.
 
-<span id="fn_120"></span>[150:1](nes24.htm#fr_120) Cf. Henderson, p. 95.
+<span id="fn_120"></span>[150:1](nes24.htm#fr_120.md) Cf. Henderson, p. 95.
 
-<span id="fn_121"></span>[151:1](nes24.htm#fr_121) Cf. Henderson, pp.
+<span id="fn_121"></span>[151:1](nes24.htm#fr_121.md) Cf. Henderson, pp.
 85, 86, and *Choice Notes*, pp. 18, 19.
 
-<span id="fn_122"></span>[151:2](nes24.htm#fr_122) *Ibid*. p. 76, and
+<span id="fn_122"></span>[151:2](nes24.htm#fr_122.md) *Ibid*. p. 76, and
 *Choice Notes*, pp. 180, 293, 294.
 
-<span id="fn_123"></span>[151:3](nes24.htm#fr_123) Cf. *F. L. Record*,
+<span id="fn_123"></span>[151:3](nes24.htm#fr_123.md) Cf. *F. L. Record*,
 vol. i. p. "(28), and *Choice Notes*, p. 175 (9).
 
-<span id="fn_124"></span>[151:4](nes24.htm#fr_124) Cf. Henderson, p.
+<span id="fn_124"></span>[151:4](nes24.htm#fr_124.md) Cf. Henderson, p.
 114.
 
-<span id="fn_125"></span>[151:5](nes24.htm#fr_125) Cf. *F. L. Record*,
+<span id="fn_125"></span>[151:5](nes24.htm#fr_125.md) Cf. *F. L. Record*,
 vol. i. p. 11 (29), and vol. ii. p. 32.
 
-<span id="fn_126"></span>[153:1](nes24.htm#fr_126) Cf. Henderson, p. 24.
+<span id="fn_126"></span>[153:1](nes24.htm#fr_126.md) Cf. Henderson, p. 24.
 
-<span id="fn_127"></span>[154:1](nes24.htm#fr_127) *Choice Notes*, pp.
+<span id="fn_127"></span>[154:1](nes24.htm#fr_127.md) *Choice Notes*, pp.
 292, 296.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. Christmas, New Year's Day, &c.](nes25)
+[Next: Chapter XXII. Christmas, New Year's Day, &c.](nes25.md)

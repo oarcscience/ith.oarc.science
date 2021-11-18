@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc10)  [Next](busc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc10)  [Next](busc12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -62,6 +62,6 @@ adornments, which are a cause of negligence.
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Fire Discourse](busc12)
+[Next: IX. The Fire Discourse](busc12.md)
 
 </div>

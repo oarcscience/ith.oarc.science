@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft35)  [Next](eft37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft35)  [Next](eft37.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ at a little inn. Now that very night a band of robbers broke into the
 inn, and searched the girl, who had no money, and only the letter.
 
 <span id="img_054"></span> [![](tn/054.jpg)  
-Click to enlarge](img/054.jpg)
+Click to enlarge](img/054.jpg.md)
 
 So they opened this and read it, and thought it a shame. The captain of
 the robbers took a pen and paper and wrote this letter:
@@ -122,4 +122,4 @@ and they all lived happy as could be ever afterwards.
 
 ------------------------------------------------------------------------
 
-[Next: The Magpie's Nest](eft37)
+[Next: The Magpie's Nest](eft37.md)

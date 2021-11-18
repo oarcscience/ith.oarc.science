@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](chupsong)  [Next](cni0185) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](chupsong)  [Next](cni0185.md) 
 
 ### USAF UFO Order 12/24/1959
 
@@ -76,4 +76,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: CNI News 18.5](cni0185)
+[Next: CNI News 18.5](cni0185.md)

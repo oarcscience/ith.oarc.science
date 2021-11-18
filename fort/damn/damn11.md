@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](damn10)  [Next](damn12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](damn10)  [Next](damn12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of the Damned*, by Charles Fort, \[1919\], at Intangible
 Textual Heritage
 
@@ -291,7 +291,7 @@ damned by slumbering giants and interesting little harlots and clowns
 who rank high in their profession is at least supportable to our vanity;
 but, we find that the anthropologists are of the slums of the divine, or
 of an archaic kindergarten of intellectuality, and it is very
-unflattering to find a mess of [moldy](errata.htm#3) infants sitting in
+unflattering to find a mess of [moldy](errata.htm#3.md) infants sitting in
 judgment upon us.
 
 Prof. Leslie then finds, as arbitrarily as one might find that some
@@ -735,4 +735,4 @@ That one, at least, had been dropped there.
 
 ------------------------------------------------------------------------
 
-[Next: 12](damn12)
+[Next: 12](damn12.md)

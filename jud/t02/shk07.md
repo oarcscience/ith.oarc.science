@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](shk06)  [Next](shk08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](shk06)  [Next](shk08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ Sivan, and the twenty-ninth of Elul." But why do they say the
 twenty-ninth of Elul why not the first of Tishri? Because that is a
 feast-day, and it is not allowed to tithe on a feast-day; therefore they
 ordained it for the preceding day, the twenty-ninth of Elul. <span
-id="fr_33"></span>[a1](#fn_33)
+id="fr_33"></span>[a1](#fn_33.md)
 
 (*b*) The money drawn from the treasury was brought in three chests,
 each of three Saahs' capacity. On these chests was written: Aleph, Beth,
@@ -44,7 +44,7 @@ as it is written \[Numbers xxxii. 22\]:
 <span class="contnote">\[paragraph continues\]</span> "And ye be thus
 guiltless before the Lord and before Israel"; and \[Proverbs iii. 4\]:
 "So shalt thou find grace and good favor in the eyes of God and
-man." <span id="fr_34"></span>[b1](#fn_34)
+man." <span id="fr_34"></span>[b1](#fn_34.md)
 
 (*c*) The members of the family of R. Gamaliel used to enter, each one
 with his shekel between his fingers, and throw it before the one who
@@ -52,7 +52,7 @@ drew the money from the treasury, and the latter immediately placed it
 into the chest (which he took out).--The one who came in to draw the
 money did not proceed before he had said to the bystanders: "I will now
 proceed to draw," and they had answered: "Draw, draw, draw," three
-times. <span id="fr_35"></span>[c1](#fn_35)
+times. <span id="fr_35"></span>[c1](#fn_35.md)
 
 <span id="page_14">p. 14</span>
 
@@ -70,7 +70,7 @@ general.
 
 ### Footnotes
 
-<span id="fn_33"></span>[12:a1](shk07.htm#fr_33)
+<span id="fn_33"></span>[12:a1](shk07.htm#fr_33.md)
 
 # CHAPTER III.
 
@@ -80,7 +80,7 @@ the dates stated in the Mishna, and the difference of opinion concerning
 the time of cattle-tithing is explained in the Palestinian Talmud and in
 Tract Rosh Hashana of the Babylonian Talmud.
 
-<span id="fn_34"></span>[13:b1](shk07.htm#fr_34) MISHNA *b*. In this
+<span id="fn_34"></span>[13:b1](shk07.htm#fr_34.md) MISHNA *b*. In this
 Mishna the manner of drawing the money from the treasury is described:
 how it was accomplished, that the Shekalim for which communal sacrifices
 were bought should be taken from the treasury in such a manner that all
@@ -99,7 +99,7 @@ the money to be expended, from the cases into three small chests, each
 having three Saahs' capacity and marked with three letters: Aleph, Beth,
 Gimmel; or, Alpha, Beta, Gamma.
 
-<span id="fn_35"></span>[13:c1](shk07.htm#fr_35) MISHNA *c*. After this
+<span id="fn_35"></span>[13:c1](shk07.htm#fr_35.md) MISHNA *c*. After this
 ceremony, the man, being almost nude--for he had no garments on in which
 he could conceal a coin, no shoes, no sandals, no hat, no hose; in fact,
 nothing that would afford a hiding-place for money--would take the chest
@@ -125,4 +125,4 @@ next, and all the other places where Israelites dwelt last.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV.](shk08)
+[Next: Chapter IV.](shk08.md)

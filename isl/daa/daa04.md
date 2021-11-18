@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](daa03)  [Next](daa05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](daa03)  [Next](daa05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766106071/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766106071/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Diwan of Abu'l-Ala*, by Henry Baerlein, \[1909\], at Intangible
 Textual Heritage
 
@@ -25,7 +25,7 @@ himself.
 
 <span class="smallcaps">An</span> effort has been made to render in this
 book some of the poems of Abu’l-Ala the Syrian, who was born 973 years
-after Jesus [Christ](errata.htm#0) and some forty-four before Omar
+after Jesus [Christ](errata.htm#0.md) and some forty-four before Omar
 Khayyam. But the life of such a man—his triumph over circumstance, the
 wisdom he achieved, his unconventionality, his opposition to revealed
 religion, the sincerity of his religion, his interesting friends at
@@ -100,7 +100,7 @@ his letters that he would have gone to mosque on Fridays if he had not
 fallen victim to an unmentionable complaint… The pre-Islamic Arabs were
 accustomed to sacrifice sheep (*quatrain* 1) and other animals in Mecca
 and elsewhere, at various stones which were regarded as idols or as
-altars of the gods. <span id="fr_0"></span>[\*](#fn_0) Sometimes they
+altars of the gods. <span id="fr_0"></span>[\*](#fn_0.md) Sometimes they
 killed a human being, such as the four hundred captive nuns of whom we
 read that they were sacrificed by al-Mundhir to the goddess Aphrodite.
 Sheep are offered up to-day in Palestine: for instance, if the first
@@ -148,14 +148,14 @@ that in the heavenly
 <span id="page_16">p. 16</span>
 
 bodies dwelt a ruling intelligence superior to man’s, and more
-lasting. <span id="fr_1"></span>[\*](#fn_1) And in Islam, whose holy
+lasting. <span id="fr_1"></span>[\*](#fn_1.md) And in Islam, whose holy
 house, the Kaaba, had traditionally been a temple of Saturn, we notice
 that the rationalists invariably connect their faith with the worship of
 Venus and other heavenly bodies. We are told by ash-Shahrastani, in his
 *Book of Religious* *and Philosophical Sects*, that the Indians hold
 Saturn for the greatest luck, on account of his height and the size of
 his body. But such was not Abu’l-Ala's opinion. "As numb as Saturn," he
-writes in one of his letters, <span id="fr_2"></span>[†](#fn_2) "and as
+writes in one of his letters, <span id="fr_2"></span>[†](#fn_2.md) "and as
 dumb as a crab has every one been struck by you." Elsewhere he says in
 verse:
 
@@ -193,7 +193,7 @@ seeing ships (*quatrain* 11). He spent a portion of his youth beside the
 sea, at Tripoli. But in the capital were many boats whose fascination he
 would not resist,—the Chinese junks laboriously dragged up from Bassora,
 and dainty gondolas of basket-work covered with asphalt. <span
-id="fr_3"></span>[\*](#fn_3) However, though in this place and in
+id="fr_3"></span>[\*](#fn_3.md) However, though in this place and in
 others, very frequently, in fact, Abu’l-Ala makes mention of the sea,
 his fondness of it was, one thinks, for literary purposes. He writes a
 letter to explain how grieved he is to hear about a friend who purposes
@@ -213,7 +213,7 @@ lyre. Certainly the Arab lute was popular among the Greeks: ἀράβιον ἄ�
 ἐγὼ κεκίνηκα αὐλόν, says Menander. It was carried to the rest of Europe
 by crusaders at the beginning of the twelfth century, about which time
 it first appears in paintings, and its form persisted till about a
-hundred years ago. <span id="fr_4"></span>[\*](#fn_4) But with regard to
+hundred years ago. <span id="fr_4"></span>[\*](#fn_4.md) But with regard to
 travels (*quatrain* 18), in the twenty-seventh letter of Abu’l-Ala, "I
 observe," says he, "that you find fault with travelling. Why so? Ought
 not a man to be satisfied with following the precedent set by Moses,
@@ -245,7 +245,7 @@ where the loved one lay buried. With us, as with Abu’l-Ala (*quatrain*
 26), the soul may metaphorically be imagined as a bird, but for the
 European’s ancestor it was a thing of sober earnest, as it is to-day to
 many peoples. Thus the soul of Aristeas was seen to issue from his mouth
-in the shape of a raven. <span id="fr_5"></span>[\*](#fn_5) In Southern
+in the shape of a raven. <span id="fr_5"></span>[\*](#fn_5.md) In Southern
 Celebes they think that a bridegroom’s
 
 <span id="page_20">p. 20</span>
@@ -255,7 +255,7 @@ scattered over him to induce it to remain. And, as a rule, at festivals
 in South Celebes rice is strewed on the head of the person in whose
 honour the festival is held, with the object of detaining his soul,
 which at such times is in especial danger of being lured away by envious
-demons. <span id="fr_6"></span>[\*](#fn_6)… This metaphor was used by
+demons. <span id="fr_6"></span>[\*](#fn_6.md)… This metaphor was used by
 Abu’1-Ala in the letter which he wrote on the death of his mother: "I
 say to my soul, "This is not your nest, fly away." And elsewhere
 (*quatrain* 34) Death is represented as a reaper. Says Francis Thompson:
@@ -309,7 +309,7 @@ Were season'd by celestial hail of thwacks.</span>
        Builds on thwackings for its base;  
 Thus the All-Wise doth make a flail a staff,  
 And separates his heavenly corn from chaff. <span
-id="fr_7"></span>[\*](#fn_7)</span>
+id="fr_7"></span>[\*](#fn_7.md)</span>
 
 </div>
 
@@ -317,7 +317,7 @@ id="fr_7"></span>[\*](#fn_7)</span>
 
 Reward may follow on such absolute obedience (*quatrain* 40). We
 remember what is said by Fra Giovanni in the prison of Viterbo <span
-id="fr_8"></span>[\*](#fn_8): "Endurez, souffrez, acceptez, veuillez ce
+id="fr_8"></span>[\*](#fn_8.md): "Endurez, souffrez, acceptez, veuillez ce
 que Dieu veut, et votre volonté sera faite sur la terre comme au ciel."
 And perhaps the dawn for you maybe your camel's dawn (*quatrain* 41); it
 was usual for Arabs on the point of death to say to their sons: "Bury my
@@ -348,7 +348,7 @@ the snares of earth (*quatrain* 43), until this angel delivers it from
 the last of its fetters. We think of the goddess Rân with her net. Death
 is imagined (*quatrain* 44) as a fowler or fisher of men, thus: "Dô kam
 der Tôt als ein diep, und stal dem reinen wîbe daz leben ûz it
-lîbe." <span id="fr_9"></span>[\*](#fn_9)
+lîbe." <span id="fr_9"></span>[\*](#fn_9.md)
 
 On account of its brilliance a weapon’s edge (*quatrain* 46) has been
 compared in Arab poetry with sunlit glass, with the torch of a monk,
@@ -371,18 +371,18 @@ pamphlet.
 Death, from being a silent messenger who punctually fulfilled his duty,
 became a grasping, greedy foe (*quatrain* 56). In the Psalms (xci. 3-6)
 he comes as a hunter with snares and arrows. Also "der Tôt wil mit mir
-ringen." <span id="fr_10"></span>[\*](#fn_10) In ancient times Death was
+ringen." <span id="fr_10"></span>[\*](#fn_10.md) In ancient times Death was
 not a being that slew, but simply one that fetched away to the
 underworld, a messenger. So was the soul of the beggar fetched away by
 angels and carried into Abraham’s bosom. An older view was the
 death-goddess, who receives the dead men in her house and does not fetch
 them. They are left alone to begin the long and gloomy journey, provided
-with various things. <span id="fr_11"></span>[†](#fn_11) "Chacun remonte
+with various things. <span id="fr_11"></span>[†](#fn_11.md) "Chacun remonte
 à son tour le calvaire des siècles. Chacun retrouve les peines, chacun
 retrouve l’espoir désespéré et la folie des siècles. Chacun remet ses
 pas dans les pas de ceux qui furent, de ceux qui luttèrent avant lui
 contre la mort, nièrant la mort,—sont morts" <span
-id="fr_12"></span>[‡](#fn_12) (*quatrain* 57). It is the same for men
+id="fr_12"></span>[‡](#fn_12) (*quatrain* 57.md). It is the same for men
 and trees (*quatrain* 59). This vision of Abu’l-Ala’s is to be compared
 with Milton’s " men as trees walking," a kind of second sight, a blind
 man's pageant. In reference to haughty folk, an Arab proverb says that "
@@ -392,7 +392,7 @@ There is not a poplar which has reached its Lord."
 
 <span class="contnote">\[paragraph continues\]</span> But on the other
 hand, "There are some virtues which dig their own graves," <span
-id="fr_13"></span>[\*](#fn_13) and with regard to excessive polishing of
+id="fr_13"></span>[\*](#fn_13.md) and with regard to excessive polishing of
 swords (*quatrain* 60) we have the story of the poet Abu Tammam, related
 by Ibn Khallikan. He tells us how the poet once recited verses in the
 presence of some people, and how one of them was a philosopher who said,
@@ -407,7 +407,7 @@ polished, according as he wished to emphasise the large amount of work
 accomplished or the excellence of the polishing. Imru’al-Kais says that
 his sword does not recall the day when it was polished. Another poet
 says his sword is polished every day and "with a fresh tooth bites off
-the people’s heads." <span id="fr_14"></span>[†](#fn_14) This vigour of
+the people’s heads." <span id="fr_14"></span>[†](#fn_14.md) This vigour of
 expression was not only used for concrete subjects. There exists a poem,
 dating from a little time before Mahomet, which says that cares
 (*quatrain* 62)
@@ -539,7 +539,7 @@ When round and round, with never-weary’d pain
 The trampling steers beat out th’ unnumber’d grain:  
 So the fierce coursers, as the chariot rolls,  
 Tread down whole ranks, and crush out heroes’ souls. <span
-id="fr_15"></span>[\*](#fn_15)</span>
+id="fr_15"></span>[\*](#fn_15.md)</span>
 
 </div>
 
@@ -667,53 +667,53 @@ J’abandonnais au vent mes cheveux tout entiers….
 
 ### Footnotes
 
-<span id="fn_0"></span>[14:\*](daa04.htm#fr_0) *Cf.* Lyall, *Ancient
+<span id="fn_0"></span>[14:\*](daa04.htm#fr_0.md) *Cf.* Lyall, *Ancient
 Arabian Posts.*
 
-<span id="fn_1"></span>[16:\*](daa04.htm#fr_1) *Cf.* Whittaker, *The
+<span id="fn_1"></span>[16:\*](daa04.htm#fr_1.md) *Cf.* Whittaker, *The
 Neo-Platonists*.
 
-<span id="fn_2"></span>[16:†](daa04.htm#fr_2) Of course I use Professor
+<span id="fn_2"></span>[16:†](daa04.htm#fr_2.md) Of course I use Professor
 Margoliouth’s superb edition of the letters.
 
-<span id="fn_3"></span>[17:\*](daa04.htm#fr_3) *Cf*. Thielmann,
+<span id="fn_3"></span>[17:\*](daa04.htm#fr_3.md) *Cf*. Thielmann,
 *Streifzüge* *im Kaukasus, etc.*
 
-<span id="fn_4"></span>[18:\*](daa04.htm#fr_4) *Cf.* Ambros, *Geschichte
+<span id="fn_4"></span>[18:\*](daa04.htm#fr_4.md) *Cf.* Ambros, *Geschichte
 der Musik*, 1862.
 
-<span id="fn_5"></span>[19:\*](daa04.htm#fr_5) *Cf.* Pliny, *Nat.
+<span id="fn_5"></span>[19:\*](daa04.htm#fr_5.md) *Cf.* Pliny, *Nat.
 Hist.,* vii. 174.
 
-<span id="fn_6"></span>[20:\*](daa04.htm#fr_6) Frazer, *The Golden
+<span id="fn_6"></span>[20:\*](daa04.htm#fr_6.md) Frazer, *The Golden
 Bough,* vol. i., p. 254.
 
-<span id="fn_7"></span>[21:\*](daa04.htm#fr_7) Meredith, *The Shaving of
+<span id="fn_7"></span>[21:\*](daa04.htm#fr_7.md) Meredith, *The Shaving of
 Shagpat.*
 
-<span id="fn_8"></span>[22:\*](daa04.htm#fr_8) Anatole France, *Le Puits
+<span id="fn_8"></span>[22:\*](daa04.htm#fr_8.md) Anatole France, *Le Puits
 de Sainte Claire.*
 
-<span id="fn_9"></span>[23:\*](daa04.htm#fr_9) Quoted by Grimm,
+<span id="fn_9"></span>[23:\*](daa04.htm#fr_9.md) Quoted by Grimm,
 *Teutonic Mythology,* vol. 2, p. 845.
 
-<span id="fn_10"></span>[24:\*](daa04.htm#fr_10) Stoufenb., 1126.
+<span id="fn_10"></span>[24:\*](daa04.htm#fr_10.md) Stoufenb., 1126.
 
-<span id="fn_11"></span>[24:†](daa04.htm#fr_11) *Cf.* in Scandinavia the
+<span id="fn_11"></span>[24:†](daa04.htm#fr_11.md) *Cf.* in Scandinavia the
 death-goddess Hel.
 
-<span id="fn_12"></span>[24:‡](daa04.htm#fr_12) Romain Rolland, *Jean
+<span id="fn_12"></span>[24:‡](daa04.htm#fr_12.md) Romain Rolland, *Jean
 Christophe.*
 
-<span id="fn_13"></span>[25:\*](daa04.htm#fr_13) Ella d'Arcy, *Modern
+<span id="fn_13"></span>[25:\*](daa04.htm#fr_13.md) Ella d'Arcy, *Modern
 Instances.*
 
-<span id="fn_14"></span>[25:†](daa04.htm#fr_14) Dr. Friedrich Wilhelm
+<span id="fn_14"></span>[25:†](daa04.htm#fr_14.md) Dr. Friedrich Wilhelm
 Schwarzlose, *Die Waffen der alten Araber, aus ihren Dichtern
 dargestellt.*
 
-<span id="fn_15"></span>[29:\*](daa04.htm#fr_15) Pope, *Iliad*, xx. 577.
+<span id="fn_15"></span>[29:\*](daa04.htm#fr_15.md) Pope, *Iliad*, xx. 577.
 
 ------------------------------------------------------------------------
 
-[Next: The Diwan of Abu’l-Ala](daa05)
+[Next: The Diwan of Abu’l-Ala](daa05.md)

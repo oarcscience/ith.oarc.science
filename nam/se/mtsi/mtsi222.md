@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi221)  [Next](mtsi223) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi221)  [Next](mtsi223.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southeast](../index)  [Index](index) 
 ### (SECOND VERSION OF ABOVE)
 
 There was once but one deer, kept in a certain place, and
-Beemartin <span id="fr_58"></span>[1](#fn_58) went about with him to
+Beemartin <span id="fr_58"></span>[1](#fn_58.md) went about with him to
 watch him. While they were traveling around the bird slept and the deer
 disappeared. Then he went to ask the deer's whereabouts of Flying
 Squirrel, who went in all directions and then said, "He is on a forested
@@ -34,9 +34,9 @@ likes nothing but horns to-day.
 
 ### Footnotes
 
-<span id="fn_58"></span>[186:1](mtsi222.htm#fr_58) The identity of this
+<span id="fn_58"></span>[186:1](mtsi222.htm#fr_58.md) The identity of this
 bird is somewhat uncertain.
 
 ------------------------------------------------------------------------
 
-[Next: 23. The Hero From Under the Water](mtsi223)
+[Next: 23. The Hero From Under the Water](mtsi223.md)

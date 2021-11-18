@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb07)  [Next](vifb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb07)  [Next](vifb09.md) 
 
 </div>
 
@@ -103,6 +103,6 @@ to be his barber any more.
 
 ------------------------------------------------------------------------
 
-[Next: The Nine Pea-Hens and the Golden Apples](vifb09)
+[Next: The Nine Pea-Hens and the Golden Apples](vifb09.md)
 
 </div>

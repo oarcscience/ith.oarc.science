@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd10)  [Next](smd12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd10)  [Next](smd12.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ harvested.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. October--The Eighth Month](smd12)
+[Next: Chapter X. October--The Eighth Month](smd12.md)

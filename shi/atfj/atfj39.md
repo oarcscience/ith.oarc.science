@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj38)  [Next](atfj40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj38)  [Next](atfj40.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_42"></span> <span align="CENTER"> [![42. O Kimi Kills
 Herself on the Island](tn/42.jpg)  
-Click to enlarge](img/42.jpg)  
+Click to enlarge](img/42.jpg.md)  
 42. O Kimi Kills Herself on the Island  
 </span>
 
 ### XXXVII
 
-### THE KAKEMONO GHOST OF AKI PROVINCE <span id="fr_41"></span>[1](#fn_41)
+### THE KAKEMONO GHOST OF AKI PROVINCE <span id="fr_41"></span>[1](#fn_41.md)
 
 DOWN the Inland Sea between Umedaichi and Kure (now a great naval port)
 and in the province of Aki, there is a small village called Yaiyama, in
@@ -234,7 +234,7 @@ Oh, the sadness of it
 
 <span id="img_43"></span> <span align="CENTER"> [![43. The Ghost of the
 'Kakemono'](tn/43.jpg)  
-Click to enlarge](img/43.jpg)  
+Click to enlarge](img/43.jpg.md)  
 43. The Ghost of the 'Kakemono'  
 </span>
 
@@ -276,7 +276,7 @@ years ago.
 
 ### Footnotes
 
-<span id="fn_41"></span>[231:1](atfj39.htm#fr_41) About two hundred and
+<span id="fn_41"></span>[231:1](atfj39.htm#fr_41.md) About two hundred and
 fifty years ago a strange legend was attached to a kakemono which was
 painted by an artist celebrity, Sawara Kameju by name, and, owing to the
 reasons given in the story, the kakemono was handed over to the
@@ -286,6 +286,6 @@ safe-keeping of the head priest of the Korinji Temple.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVIII. White Saké](atfj40)
+[Next: XXXVIII. White Saké](atfj40.md)
 
 </div>

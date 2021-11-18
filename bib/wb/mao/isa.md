@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](sol)  [Next](jer) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](sol)  [Next](jer.md) 
 
 ------------------------------------------------------------------------
 
@@ -5385,4 +5385,4 @@ ki nga kikokiko katoa.
 
 ------------------------------------------------------------------------
 
-[Next: Jeremiah](jer)
+[Next: Jeremiah](jer.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs33)  [Next](pifs35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs33)  [Next](pifs35.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ they used to hunt on the vast plains to the eastward), the bear, deer,
 antelope, mountain lion, badger, wild turkey, fox, eagle, crow, buzzard,
 rabbit, and so on--appear in their legends and fairy tales, as well as
 in their religious ceremonials and beliefs. Too-wháy-deh, the
-Coyote, <span id="fr_104"></span>[1](#fn_103) or little prairie wolf,
+Coyote, <span id="fr_104"></span>[1](#fn_103.md) or little prairie wolf,
 figures in countless stories, and always to his own disadvantage. Smart
 as he is in some things, he believes whatever is told him; and by his
 credulity becomes the butt of all the other animals, who never tire of
@@ -33,7 +33,7 @@ fun-loving Bear, and of the Crows and the Blackbirds. A very popular
 tale is that of his adventure with a bright cousin of his.
 
 Once upon a time Too-wháy-shur-wée-deh, the Little-Blue-Fox, <span
-id="fr_105"></span>[1](#fn_104) was wandering near a pueblo, and chanced
+id="fr_105"></span>[1](#fn_104.md) was wandering near a pueblo, and chanced
 to come to the threshing-floors, where a great many crows were hopping.
 just then the Coyote passed, very hungry; and while yet far off, said:
 "Ai! how the stomach cries! I will just eat Little-Blue-Fox." And
@@ -78,12 +78,12 @@ After many miles he overtook the Little-Blue-Fox, and with a bad face
 said: "Here! Now I am going to eat you up!"
 
 The other made as if greatly excited, and answered: "No, friend Coyote!
-Do you not hear that *tombé* <span id="fr_106"></span>[1](#fn_105)?"
+Do you not hear that *tombé* <span id="fr_106"></span>[1](#fn_105.md)?"
 
 The Coyote listened, and heard a drum in the pueblo.
 
 "Well," said the Little-Blue-Fox, "I am called for that dance, <span
-id="fr_107"></span>[2](#fn_106) and very soon they will come for me.
+id="fr_107"></span>[2](#fn_106.md) and very soon they will come for me.
 Won't you go too?"
 
 "If that is so, I will not eat you, but we will go to the dance." And
@@ -97,7 +97,7 @@ pretty with face-paint. When no one came, the Little-Blue-Fox said:
 <span id="img_22500"></span>
 
 [![''THERE THEY STOOP SIDE BY SIDE.''](tn/22500.jpg)  
-Click to enlarge](img/22500.jpg)  
+Click to enlarge](img/22500.jpg.md)  
 ''THERE THEY STOOP SIDE BY SIDE.''  
 
  
@@ -162,7 +162,7 @@ was lying on the bank, whining as if greatly excited. "Now I *will* eat
 you up, this minute!" cried the Coyote. But the other said: "No, Friend
 Too-wháy-deh! Don't eat me up! I am waiting for some one who can swim as
 well as you can. I just bought a big cheese <span
-id="fr_108"></span>[1](#fn_107) from a shepherd to share with you; but
+id="fr_108"></span>[1](#fn_107.md) from a shepherd to share with you; but
 when I went to drink, it slipped out of my hands into the water.
 \[paragraph continues\]
 
@@ -173,7 +173,7 @@ when I went to drink, it slipped out of my hands into the water.
 <span id="img_22900"></span>
 
 [!['''HOW SHALL I GET IT?' SAID THE COYOTE.''](tn/22900.jpg)  
-Click to enlarge](img/22900.jpg)  
+Click to enlarge](img/22900.jpg.md)  
 '''HOW SHALL I GET IT?' SAID THE COYOTE.''  
 
  
@@ -208,20 +208,20 @@ jumped, and went into the deep water, and--never came out again!
 
 ### Footnotes
 
-<span id="fn_103"></span>[222:1](pifs34.htm#fr_104) Pronounced
+<span id="fn_103"></span>[222:1](pifs34.htm#fr_104.md) Pronounced
 Coy-óh-ty.
 
-<span id="fn_104"></span>[223:1](pifs34.htm#fr_105) He is always a hero,
+<span id="fn_104"></span>[223:1](pifs34.htm#fr_105.md) He is always a hero,
 and as smart as the Coyote is stupid. His beautiful pelt is an important
 part of the costume worn in many of the sacred dances of the Tée-wahn.
 
-<span id="fn_105"></span>[224:1](pifs34.htm#fr_106) Pronounced tom-báy.
+<span id="fn_105"></span>[224:1](pifs34.htm#fr_106.md) Pronounced tom-báy.
 The sacred drum used in Pueblo dances.
 
-<span id="fn_106"></span>[224:2](pifs34.htm#fr_107) In all such Indian
+<span id="fn_106"></span>[224:2](pifs34.htm#fr_107.md) In all such Indian
 dances the participants are named by the officials.
 
-<span id="fn_107"></span>[228:1](pifs34.htm#fr_108) Of course chickens
+<span id="fn_107"></span>[228:1](pifs34.htm#fr_108.md) Of course chickens
 and cheeses were not known to the Pueblos before the Spanish conquest;
 and the cheese is so vital a part of the story that I hardly think it
 can be an interpolation. So this tale, though very old, is probably not
@@ -229,4 +229,4 @@ ancient--that is, it has been invented since 1600.
 
 ------------------------------------------------------------------------
 
-[Next: XXXII. Doctor Field-Mouse](pifs35)
+[Next: XXXII. Doctor Field-Mouse](pifs35.md)

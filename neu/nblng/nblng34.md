@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng33)  [Next](nblng35) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng33)  [Next](nblng35.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ the table.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XXXIII: How The Burgundians Fought The Huns.](nblng35)
+[Next: Adventure XXXIII: How The Burgundians Fought The Huns.](nblng35.md)

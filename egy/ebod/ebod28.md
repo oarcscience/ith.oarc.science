@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod27)  [Next](ebod29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod27)  [Next](ebod29.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ is as Ra when he rangeth the oars (16) among the followers of Nu.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXII.](ebod29)
+[Next: Plate XXII.](ebod29.md)

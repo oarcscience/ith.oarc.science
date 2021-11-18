@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Next](ain01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Next](ain01.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ Sacaton, Arizona.
 
 ------------------------------------------------------------------------
 
-[Next: Author's Errata](ain01)
+[Next: Author's Errata](ain01.md)

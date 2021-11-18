@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl22)  [Next](isl24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl22)  [Next](isl24.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,16 +40,16 @@ even in those parts of the world longest Muslim, the Ṡūfīs made
 themselves responsible for the spiritual care of the masses. One eminent
 scholar even maintains, "It is thanks to its mysticism that Islam is an
 international and universal religion." <span
-id="fr_80"></span>[1](#fn_80)
+id="fr_80"></span>[1](#fn_80.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_80"></span>[137:1](isl23.htm#fr_80) Louis Massignon,
+<span id="fn_80"></span>[137:1](isl23.htm#fr_80.md) Louis Massignon,
 *Lexique Technique de la Mystique Musulman* (2nd ed.; Paris, 1954), p.
 15.
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Ascetics](isl24)
+[Next: 1. The Ascetics](isl24.md)

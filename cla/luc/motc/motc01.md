@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc00)  [Next](motc02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc00)  [Next](motc02.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ October 1, 1928.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](motc02)
+[Next: Contents](motc02.md)

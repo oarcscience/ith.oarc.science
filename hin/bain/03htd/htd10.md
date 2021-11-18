@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd09)  [Next](htd11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd09)  [Next](htd11.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ words. And she laughed, and said: Surely I am right, and thy wits are
 deserting thee. And she laid the berries at his feet, and went away,
 without looking back, and was lost among the trees. But the King
 stooped, and picked up the berries. And he said: Berries, ye are well
-named <span id="fr_28"></span>[p](#fn_28). Did ye acquire merit in a
+named <span id="fr_28"></span>[p](#fn_28.md). Did ye acquire merit in a
 former birth, that ye were privileged to be plucked from the tree and
 carried in her hand, while your brothers and sisters were left
 disconsolate and unhappy on the tree? And he went back to the temple,
@@ -77,9 +77,9 @@ colour they resembled, to wait for another dawn.
 
 ### Footnotes
 
-<span id="fn_28"></span>[41:p](htd10.htm#fr_28) *Shríphala*; i.e. the
+<span id="fn_28"></span>[41:p](htd10.htm#fr_28.md) *Shríphala*; i.e. the
 fruit of the goddess of beauty and good fortune.
 
 ------------------------------------------------------------------------
 
-[Next: Shirírsha](htd11)
+[Next: Shirírsha](htd11.md)

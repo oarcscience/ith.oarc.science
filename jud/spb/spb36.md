@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb35)  [Next](spb37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb35)  [Next](spb37.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -458,6 +458,6 @@ pleasant unto the Lord, as in the days of old, and as in ancient years.
 
 ------------------------------------------------------------------------
 
-[Next: Additional Service for the Day of Atonement](spb37)
+[Next: Additional Service for the Day of Atonement](spb37.md)
 
 </div>

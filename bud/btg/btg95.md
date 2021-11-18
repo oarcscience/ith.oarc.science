@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg94)  [Next](btg96) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg94)  [Next](btg96.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ and work out your salvation with diligence."
 
 ------------------------------------------------------------------------
 
-[Next: Chunda, The Smith](btg96)
+[Next: Chunda, The Smith](btg96.md)

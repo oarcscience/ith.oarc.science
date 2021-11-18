@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf17)  [Next](fmf19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf17)  [Next](fmf19.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ MORAL: So long as she is Happy, don't compel her to spend more Money.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Hungry Man from Bird Center And the
-Trans-Atlantic Touch](fmf19)
+Trans-Atlantic Touch](fmf19.md)

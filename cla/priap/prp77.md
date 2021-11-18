@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp76)  [Next](prp78) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp76)  [Next](prp78.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ Delphi.\]
 
 ------------------------------------------------------------------------
 
-[Next: 78. Though I be agèd now, though head and chin](prp78)
+[Next: 78. Though I be agèd now, though head and chin](prp78.md)

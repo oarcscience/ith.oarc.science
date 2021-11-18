@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](tao72)  [Next](tao74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](tao72)  [Next](tao74.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../img/t_yy.jpg)](index)  
+[![](../img/t_yy.jpg)](index.md)  
 *Laotzu's Tao and Wu Wei*, by Dwight Goddard and Henri Borel, \[1919\],
 at Intangible Textual Heritage
 
@@ -32,4 +32,4 @@ its meshes are wide but it loses nothing.
 
 ------------------------------------------------------------------------
 
-[Next: LXXIV. Overcoming Delusions](tao74)
+[Next: LXXIV. Overcoming Delusions](tao74.md)

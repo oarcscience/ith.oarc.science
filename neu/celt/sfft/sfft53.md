@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft52)  [Next](sfft54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft52)  [Next](sfft54.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE BOGLE. <span id="fr_81"></span>[1](#fn_81)
+### THE BOGLE. <span id="fr_81"></span>[1](#fn_81.md)
 
 THIS is a freakish spirit, who delights rather to perplex and frighten
 mankind than either to serve or seriously to hurt them. *Shellycoat*, a
@@ -46,9 +46,9 @@ situated on the river Hermitage, in Liddesdale.
 
 ### Footnotes
 
-<span id="fn_81"></span>[181:1](sfft53.htm#fr_81) Sir Walter Scott,
+<span id="fn_81"></span>[181:1](sfft53.htm#fr_81.md) Sir Walter Scott,
 *Minstrelsy of the Scottish Border*.
 
 ------------------------------------------------------------------------
 
-[Next: The Doomed Rider](sfft54)
+[Next: The Doomed Rider](sfft54.md)

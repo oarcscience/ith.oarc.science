@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](waws04)  [Next](waws06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](waws04)  [Next](waws06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -545,7 +545,7 @@ considerate, and kind. This, however, is just the beginning of a work
 that is assuming greater and ever greater proportions.
 
 The work of the American Humane Education Society <span
-id="fr_0"></span>[\*](#fn_0) is probably surpassed in its
+id="fr_0"></span>[\*](#fn_0.md) is probably surpassed in its
 
 <span id="page_90">p. 90</span>
 
@@ -608,7 +608,7 @@ us.
 
 "Come nigh, little bird, with your half-stretched quivering
 wings,—within you I behold choirs of angels, and the Lord himself in
-vista." <span id="fr_1"></span>[\*](#fn_1)
+vista." <span id="fr_1"></span>[\*](#fn_1.md)
 
 But a small thing, apparently, is a kind look, word, or service of some
 kind; but, oh! who can tell where it may end? It costs the giver
@@ -959,11 +959,11 @@ there may be the ever greater service.
 
 ### Footnotes
 
-<span id="fn_0"></span>[89:\*](waws05.htm#fr_0) Headquarters at Boston,
+<span id="fn_0"></span>[89:\*](waws05.htm#fr_0.md) Headquarters at Boston,
 Mass.
 
-<span id="fn_1"></span>[92:\*](waws05.htm#fr_1) Toward Democracy.
+<span id="fn_1"></span>[92:\*](waws05.htm#fr_1.md) Toward Democracy.
 
 ------------------------------------------------------------------------
 
-[Next: Part IV. The Awakening](waws06)
+[Next: Part IV. The Awakening](waws06.md)

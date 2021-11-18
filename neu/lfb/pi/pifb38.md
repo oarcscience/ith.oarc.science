@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb37)  [Next](pifb39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb37)  [Next](pifb39.md) 
 
 </div>
 
@@ -410,6 +410,6 @@ who say that if they are not dead now they are still living to this day.
 
 ------------------------------------------------------------------------
 
-[Next: The Jackal, the Dove, and the Panther](pifb39)
+[Next: The Jackal, the Dove, and the Panther](pifb39.md)
 
 </div>

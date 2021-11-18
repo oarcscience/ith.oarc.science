@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mhm07)  [Next](mhm09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mhm07)  [Next](mhm09.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ his son to follow what he had found to be the freest and most lucrative
 of all pursuits, that of mendicancy. In the latter Abú’l-Fatḥ
 al-Iskanderí, influenced perhaps by the consideration that he had
 derived little personal advantage from the life of the vagabond
-scholar, <span id="fr_112"></span>[1](#fn_112) takes a different view
+scholar, <span id="fr_112"></span>[1](#fn_112.md) takes a different view
 and lays down the rules his son should observe in pursuing a commercial
 career. Other points of resemblance will be found mentioned in the
 notes.
@@ -58,7 +58,7 @@ writing regard should be had to the fact that the maqámát of Hamadhání
 are the work of a young man, completed in all probability before he had
 attained his thirtieth year, whereas those of Ḥarírí were begun when the
 author had reached the mature age of forty-eight, and occupied the last
-twenty years of his life. <span id="fr_113"></span>[2](#fn_113)
+twenty years of his life. <span id="fr_113"></span>[2](#fn_113.md)
 
 As regards their relative merits Hamadhání is much more natural than
 Ḥarírí. He has more of art and less of artificiality than his imitator.
@@ -82,17 +82,17 @@ rather than to imitation and artificiality, an author's countrymen are
 the best judges of the merits of his literary productions, and therefore
 the verdict of posterity in favour of Ḥarírí must be accepted. 'The lame
 horse' has indeed 'outrun the sturdy steed'. <span
-id="fr_114"></span>[1](#fn_114) Ḥarírí, writing nearly a century later,
+id="fr_114"></span>[1](#fn_114.md) Ḥarírí, writing nearly a century later,
 about A.H. 496, deplores the decadence of learning. 'Whose breeze has
 stilled and whose lights have well-nigh gone out.' <span
-id="fr_115"></span>[2](#fn_115) Here then is probably the first cause of
+id="fr_115"></span>[2](#fn_115.md) Here then is probably the first cause of
 the neglect of Hamadhání. As far as we know no carefully collated and
 vocalized text of the Maqámát was in circulation before that edited and
 annotated by the late Shaikh Muḥammad ‘Abdú <span
-id="fr_116"></span>[3](#fn_116) in A.H. 1306, or more than nine hundred
+id="fr_116"></span>[3](#fn_116.md) in A.H. 1306, or more than nine hundred
 years after the author's death. On the other hand, the work of teaching
 and explaining the Maqámát of Ḥarírí was continued by his sons <span
-id="fr_117"></span>[4](#fn_117) and the first commentary was written
+id="fr_117"></span>[4](#fn_117.md) and the first commentary was written
 within fifty years of the demise of the author.
 
 Muṭarrízí, the earliest scholiast, was born in A.H. 458, or only
@@ -100,7 +100,7 @@ twenty-two years after the death of Ḥarírí, and even then he asserts
 that he found it necessary to consult practically the entire range of
 Arabic literature, and to refer to the principal Shaikhs of the time
 before he commenced his commentary on the Maqámát. <span
-id="fr_118"></span>[5](#fn_118)
+id="fr_118"></span>[5](#fn_118.md)
 
 In the case of the Maqámát of Hamadhání there was probably no vocalized
 text in circulation, and there certainly was no commentary for more than
@@ -123,30 +123,30 @@ been in vain.
 
 ### Footnotes
 
-<span id="fn_110"></span>[22:1](mhm07.htm#fr_110) *Der Mimus*, pp.
+<span id="fn_110"></span>[22:1](mhm07.htm#fr_110.md) *Der Mimus*, pp.
 154-5.
 
-<span id="fn_111"></span>[22:2](mhm07.htm#fr_111) Ibid., pp. 699-700.
+<span id="fn_111"></span>[22:2](mhm07.htm#fr_111.md) Ibid., pp. 699-700.
 
-<span id="fn_112"></span>[23:1](mhm08.htm#fr_112) Letters, p. 161.
+<span id="fn_112"></span>[23:1](mhm08.htm#fr_112.md) Letters, p. 161.
 
-<span id="fn_113"></span>[23:2](mhm08.htm#fr_113) De Sacy's Introduction
+<span id="fn_113"></span>[23:2](mhm08.htm#fr_113.md) De Sacy's Introduction
 to Ḥarírí, p. 50.
 
-<span id="fn_114"></span>[24:1](mhm08.htm#fr_114) Ḥarírí, p. 6.
+<span id="fn_114"></span>[24:1](mhm08.htm#fr_114.md) Ḥarírí, p. 6.
 
-<span id="fn_115"></span>[24:2](mhm08.htm#fr_115) Ibid., p. 6.
+<span id="fn_115"></span>[24:2](mhm08.htm#fr_115.md) Ibid., p. 6.
 
-<span id="fn_116"></span>[24:3](mhm08.htm#fr_116) For a character sketch
+<span id="fn_116"></span>[24:3](mhm08.htm#fr_116.md) For a character sketch
 of the commentator, see Blunt, *Secret History of the British Occupation
 of Egypt*, p. 105.
 
-<span id="fn_117"></span>[24:4](mhm08.htm#fr_117) Ibn Khallikan, ii, 493
+<span id="fn_117"></span>[24:4](mhm08.htm#fr_117.md) Ibn Khallikan, ii, 493
 and 496.
 
-<span id="fn_118"></span>[24:5](mhm08.htm#fr_118) De Sacy's Introduction
+<span id="fn_118"></span>[24:5](mhm08.htm#fr_118.md) De Sacy's Introduction
 to Ḥarírí, p. 58.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Maqáma of Poesie](mhm09)
+[Next: I. The Maqáma of Poesie](mhm09.md)

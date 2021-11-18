@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll02)  [Next](tll04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll02)  [Next](tll04.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,10 +44,10 @@ correct.
 
 ### Footnotes
 
-<span id="fn_10"></span>[12:1](tll02.htm#fr_10) Dr. G. Hartlaub "On the
+<span id="fn_10"></span>[12:1](tll02.htm#fr_10.md) Dr. G. Hartlaub "On the
 Avifauna of Madagascar and the Mascarene Islands," see "The Ibis," a
 Quarterly journal of Ornithology. Fourth Series, Vol. i., 1877, p. 334.
 
 ------------------------------------------------------------------------
 
-[Next: Probable Duration of the Continent of Lemuria](tll04)
+[Next: Probable Duration of the Continent of Lemuria](tll04.md)

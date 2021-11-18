@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes16)  [Next](tes18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes16)  [Next](tes18.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ country, summer of 1895.
 
 ------------------------------------------------------------------------
 
-[Next: 7. Bear, Wolverene, and Wolf Story](tes18)
+[Next: 7. Bear, Wolverene, and Wolf Story](tes18.md)

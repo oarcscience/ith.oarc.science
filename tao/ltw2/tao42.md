@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao42)   
-[Previous](tao41)  [Next](tao43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao42.md)   
+[Previous](tao41)  [Next](tao43.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ this saying the basis of my teaching.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 43](tao43)
+[Next: Chapter 43](tao43.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml13)  [Next](eml15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml13)  [Next](eml15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -204,7 +204,7 @@ before?"
 and I am here."
 
 "It is told," King Khufu said, "that you can restore the head that is
-taken from a live creature." <span id="fr_83"></span>[1](#fn_83)
+taken from a live creature." <span id="fr_83"></span>[1](#fn_83.md)
 
 "I can indeed, Your Majesty," answered Dedi.
 
@@ -346,7 +346,7 @@ secret."
 
 The man bowed and said: "Behold! she came unto me and told me all
 things. But I struck her, and she went towards the river and was seized
-by a crocodile." <span id="fr_84"></span>[1](#fn_84)
+by a crocodile." <span id="fr_84"></span>[1](#fn_84.md)
 
 So was the danger averted. Nor did King Khufu ever discover the babes
 regarding whom Dedi had prophesied. In time they sat upon the throne of
@@ -473,38 +473,38 @@ There is no more artful people than the Egyptians, but this man had not
 his equal in the land.
 
 It was told that this same king journeyed to the land of Death, where he
-played dice with the goddess Isis <span id="fr_85"></span>[1](#fn_85)
+played dice with the goddess Isis <span id="fr_85"></span>[1](#fn_85.md)
 and now won and now lost. She gave to him a napkin embroidered with
 gold, and on his return a great festival was held, and it was repeated
 every year thereafter. On such occasions it was customary to blindfold a
 priest and lead him to the temple of Isis, where he was left alone. It
 was believed that two wolves met him and conducted him back to the spot
 where he was found. The Egyptians esteemed Isis and Osiris <span
-id="fr_86"></span>[2](#fn_86) as the greatest deities of the underworld.
+id="fr_86"></span>[2](#fn_86.md) as the greatest deities of the underworld.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_83"></span>[147:1](eml14.htm#fr_83) This trick is still
+<span id="fn_83"></span>[147:1](eml14.htm#fr_83.md) This trick is still
 performed by Egyptian conjurors.
 
-<span id="fn_84"></span>[150:1](eml14.htm#fr_84) The manuscript, which
+<span id="fn_84"></span>[150:1](eml14.htm#fr_84.md) The manuscript, which
 is part of the "Westcar Papyrus", ends here. It was purchased in Egypt
 by a Miss Westcar, and is now preserved in the Berlin museum. The
 beginning and end had been torn off. The children referred to became the
 first three kings of the Fifth Dynasty, which marks the political
 ascendancy of the Ra cult.
 
-<span id="fn_85"></span>[154:1](eml14.htm#fr_85) Herodotus gives Demeter
+<span id="fn_85"></span>[154:1](eml14.htm#fr_85.md) Herodotus gives Demeter
 (Ceres).
 
-<span id="fn_86"></span>[154:2](eml14.htm#fr_86) Ceres and Bacchus.
+<span id="fn_86"></span>[154:2](eml14.htm#fr_86.md) Ceres and Bacchus.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: Triumph of the Sun God](eml15)
+[Next: Chapter XII: Triumph of the Sun God](eml15.md)
 
 </div>

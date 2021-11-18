@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist113) 
-[Next](hist115) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist113.md) 
+[Next](hist115.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ from the bottom of his heart.
 ------------------------------------------------------------------------
 
 [Next: XXIX. How this bishop foretold that his own death was at hand to
-the anchorite Herebert. \[687 A.D.\]](hist115)
+the anchorite Herebert. \[687 A.D.\]](hist115.md)

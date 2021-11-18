@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow17)  [Next](dow19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow17)  [Next](dow19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -82,7 +82,7 @@ and told *Too'-le* and *He-le'-jah* what he had seen, and said that the
 new animals looked good to eat and he wanted to kill one.
 
 "All right, "answered the Chiefs, "If you see one on our side <span
-id="fr_12"></span>[13](#fn_12) go ahead and kill him."
+id="fr_12"></span>[13](#fn_12.md) go ahead and kill him."
 
 So the next morning *Kah'-kool* again went out and saw that the animals
 had come much nearer and were pretty close. He hid behind a tree and
@@ -97,7 +97,7 @@ it and killed it, for he wanted
 [![&lt;i&gt;Kah'-kool&lt;/i&gt; the Raven-Hunter bringing in his first
 Deer. ''&lt;i&gt;He-le'-jah&lt;/i&gt; said it was a Deer and was good to
 eat.''](tn/09500.jpg)  
-Click to enlarge](img/09500.jpg)  
+Click to enlarge](img/09500.jpg.md)  
 *Kah'-kool* the Raven-Hunter bringing in his first Deer. ''*He-le'-jah*
 said it was a Deer and was good to eat.''  
 </span>
@@ -193,10 +193,10 @@ was broken up.
 
 ### Footnotes
 
-<span id="fn_12"></span>[94:13](dow18.htm#fr_12) Meaning "on our side"
+<span id="fn_12"></span>[94:13](dow18.htm#fr_12.md) Meaning "on our side"
 of the tribal boundary line. This line now separates the territory of
 the Middle Mewuk from that of the Mono Lake Piutes.
 
 ------------------------------------------------------------------------
 
-[Next: How *Kah'-kah-loo* The Ravens Became People](dow19)
+[Next: How *Kah'-kah-loo* The Ravens Became People](dow19.md)

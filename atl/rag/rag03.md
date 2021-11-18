@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag02)  [Next](rag04) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag02)  [Next](rag04.md) 
 
 ------------------------------------------------------------------------
 
@@ -255,4 +255,4 @@ world-wide, globe-embracing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Origin Of The Drift Not Known](rag04)
+[Next: Chapter II. The Origin Of The Drift Not Known](rag04.md)

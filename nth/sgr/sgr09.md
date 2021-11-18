@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](sgr08)  [Next](sgr10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](sgr08)  [Next](sgr10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585426016/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585426016/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62XWC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62XWC/internetsacredte.md)
 
 </div>
 
@@ -173,6 +173,6 @@ learn the proper use of the Will.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9. How to Use the Will](sgr10)
+[Next: Chapter 9. How to Use the Will](sgr10.md)
 
 </div>

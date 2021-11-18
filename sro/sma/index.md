@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sma00)    [Page
-Index](pageidx)    [Text \[Zipped\]](sma.txt.gz)
+[Contents](#contents)    [Start Reading](sma00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](sma.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -67,53 +67,53 @@ organization of secret tribunals in a lawless time had a reputation for
 hard and fast justice, much like the vigilantes of the American wild
 west.
 
-Keightley also wrote [The Fairy Mythology](../../neu/celt/tfm/index),
+Keightley also wrote [The Fairy Mythology](../../neu/celt/tfm/index.md),
 available at Intangible Textual Heritage.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sma00)  
-[Contents](sma01)  
-[Introduction](sma02)  
+<span id="contents"></span> [Title Page](sma00.md)  
+[Contents](sma01.md)  
+[Introduction](sma02.md)  
 <span id="section_000"></span>
 
 ### The Assassins
 
-[Chapter I](sma03)  
-[Chapter II](sma04)  
-[Chapter III](sma05)  
-[Chapter IV](sma06)  
-[Chapter V](sma07)  
-[Chapter VI](sma08)  
-[Chapter VII](sma09)  
-[Chapter VIII](sma10)  
-[Chapter IX](sma11)  
-[Chapter X](sma12)  
-[Chapter X](sma13)  
-[Chapter XI](sma14)  
+[Chapter I](sma03.md)  
+[Chapter II](sma04.md)  
+[Chapter III](sma05.md)  
+[Chapter IV](sma06.md)  
+[Chapter V](sma07.md)  
+[Chapter VI](sma08.md)  
+[Chapter VII](sma09.md)  
+[Chapter VIII](sma10.md)  
+[Chapter IX](sma11.md)  
+[Chapter X](sma12.md)  
+[Chapter X](sma13.md)  
+[Chapter XI](sma14.md)  
 <span id="section_001"></span>
 
 ### The Templars
 
-[Chapter I](sma15)  
-[Chapter II](sma16)  
-[Chapter III](sma17)  
-[Chapter IV](sma18)  
-[Chapter V](sma19)  
-[Chapter VI](sma20)  
-[Chapter VII](sma21)  
-[Chapter VIII](sma22)  
-[Chapter IX](sma23)  
-[Chapter X](sma24)  
-[Chapter XI](sma25)  
+[Chapter I](sma15.md)  
+[Chapter II](sma16.md)  
+[Chapter III](sma17.md)  
+[Chapter IV](sma18.md)  
+[Chapter V](sma19.md)  
+[Chapter VI](sma20.md)  
+[Chapter VII](sma21.md)  
+[Chapter VIII](sma22.md)  
+[Chapter IX](sma23.md)  
+[Chapter X](sma24.md)  
+[Chapter XI](sma25.md)  
 <span id="section_002"></span>
 
 ### The Secret Tribunals of Westphalia
 
-[Chapter I](sma26)  
-[Chapter II](sma27)  
-[Chapter III](sma28)  
-[Chapter IV](sma29)  
-[Chapter V](sma30)  
-[Chapter VI](sma31)  
-[Chapter VII](sma32)  
+[Chapter I](sma26.md)  
+[Chapter II](sma27.md)  
+[Chapter III](sma28.md)  
+[Chapter IV](sma29.md)  
+[Chapter V](sma30.md)  
+[Chapter VI](sma31.md)  
+[Chapter VII](sma32.md)  

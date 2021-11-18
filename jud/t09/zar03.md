@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](zar02)  [Next](zar04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](zar02)  [Next](zar04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -22,7 +22,7 @@ ON THEIR FESTIVAL DAYS; WHICH FESTIVALS ARE CONSIDERED, AND WHAT REAL
 ESTATE MAY BE SOLD AND RENTED, AND AT WHAT PLACES.
 
 MISHNA *I*.: Three days before the festivals <span
-id="fr_0"></span>[1](#fn_0) of the heathens it is forbidden to have any
+id="fr_0"></span>[1](#fn_0.md) of the heathens it is forbidden to have any
 business with them. One must not lend them anything (which can be useful
 to them) nor borrow such from them. And the same is the case with cash
 money, even to pay or to receive payment is forbidden. R. Jehuda,
@@ -38,7 +38,7 @@ crowded as it reads \[Is. xliii. 9\]: "All the people were gathered
 together." The Holy One, blessed be He, however, tells them: "Do not
 enter in such confusion, but let each nation with her scribes enter
 Separately," as it reads further on: "Let the people <span
-id="fr_1"></span>[2](#fn_1) be assembled." And by the term people
+id="fr_1"></span>[2](#fn_1.md) be assembled." And by the term people
 kingdoms are meant. \[Can there be such a thing as motley before the
 Holy
 
@@ -136,7 +136,7 @@ heaven and earth testify that the Torah was observed by Israel." They,
 however, object in saying that heaven and earth are interested in this
 case, and therefore are not fit to be witnesses--viz: \[Jer. xxxiii.
 25\]: "If my covenant be not . . . the appointment with heaven and
-earth, would not be established." <span id="fr_2"></span>[1](#fn_2) And
+earth, would not be established." <span id="fr_2"></span>[1](#fn_2.md) And
 Resh Lakish said: It reads \[Gen. i. 31\]: "And it was evening, and it
 was morning," and this justifies the inference that the Lord made a
 stipulation with all that had been created in the six days to the effect
@@ -183,12 +183,12 @@ hours, He judges the whole world, and seeing that it is liable to be
 destroyed, He rises from the chair of judgment and sits down on the
 chair of mercy. The third three hours, He supports the whole world with
 food, from the very largest creature to the smallest one. And the last
-three hours, He plays <span id="fr_3"></span>[1](#fn_3) with the
+three hours, He plays <span id="fr_3"></span>[1](#fn_3.md) with the
 *leviathan*, as it reads \[Psalm civ. 26\]: "Leviathan, whom thou hast
 made to sport therein." Said R. Nachman b. Itzchak: "With His creatures
 He smiles, but not upon them." R. Aha said to R. Nachman: There is no
 smiling by the Holy One, since the Temple was destroyed. As it reads
-\[Is. xlii. i4\]. <span id="fr_4"></span>[2](#fn_4) But in the fourth
+\[Is. xlii. i4\]. <span id="fr_4"></span>[2](#fn_4.md) But in the fourth
 three hours, he teaches the Torah to the school-children. As it reads
 \[ibid. xxviii. 9\]: "Whom shall he teach knowledge? And whom shall he
 give to understand doctrine? (to) those that are weaned from the milk,
@@ -236,7 +236,7 @@ p. 72.)
 R. Hinna b. Papa propounded a contradiction to the following \[Job,
 xxxvii. 23\]: "The Almighty we do not find him out excellent in power."
 And \[Ex. xv. 6\]: "Thy right hand, O Lord, is become glorious in
-power." <span id="fr_5"></span>[1](#fn_5) And also \[Psalm cxlvii. 5\]:
+power." <span id="fr_5"></span>[1](#fn_5.md) And also \[Psalm cxlvii. 5\]:
 "Great is our Lord, and abundant in power"? This presents no difficulty:
 At the time of judgment, He does not use his might; but in time of war,
 He uses it.
@@ -334,7 +334,7 @@ him in the world to come. As it reads \[Is. lviii. 8\]: "And before thee
 shall go thy righteousness, the glory of the Lord shall be thy reward."
 And the same is the case with him who commits a crime in this world,
 that it clings to him and goes before him on the day of judgment. As it
-reads \[Job, vi. 18\]. <span id="fr_6"></span>[1](#fn_6)
+reads \[Job, vi. 18\]. <span id="fr_6"></span>[1](#fn_6.md)
 
 The rabbis taught: Concerning the above-cited verse \[Deut. v. 26\]:
 Moses said to Israel: Ye are ungrateful my children, as at the time, the
@@ -467,7 +467,7 @@ payment.. Our Mishna is not in accordance with R. Joshua b. Karcha of
 the following Boraitha, who said: If the lender had a document, he must
 not receive payment at that day. But if it was a verbal loan, he may, as
 it is a rescue. (Here is repeated from the First Gate, 229 par., "R.
-Jehudah says," to p. 30 next par.) <span id="fr_7"></span>[1](#fn_7)
+Jehudah says," to p. 30 next par.) <span id="fr_7"></span>[1](#fn_7.md)
 
 MISHNA. *II*.: R. Ismael said: Three days before and three days after it
 is prohibited. The sages, however, say: Before the festivals, but not
@@ -501,7 +501,7 @@ but upon the discussion of great men in the following Boraitha: R,
 Eliezar said: One should beg for his necessities first, and thereafter
 he shall recite the daily benediction. As \[Psalms, cii. 1\]: "A prayer
 of the afflicted, when he is overwhelmed, and poureth out before the
-Lord his complaint." <span id="fr_8"></span>[1](#fn_8) R. Joshua,
+Lord his complaint." <span id="fr_8"></span>[1](#fn_8.md) R. Joshua,
 however, maintains: One has to recite his benediction previously, and
 thereafter pray for his necessities. As \[Psalms, cxlii. 2\]: "I poured
 out my *shicho* before him, I relate before him my trouble." (Hence, the
@@ -625,23 +625,23 @@ name of R. Jose the great: Palestine was under the dominion of Persia
 years; the house of the Makabaius reigned 103 years and the house of
 Herod reigned likewise 103 years. Now, according to this chronology
 there will be 206 years for the dominion of Rome over Israel. <span
-id="fr_9"></span>[1](#fn_9) Therefore, we must say that the 26 years in
+id="fr_9"></span>[1](#fn_9.md) Therefore, we must say that the 26 years in
 which they were true to their promise are not counted under their
 dominion. There is a Tosephtha: The disciples of Elijah taught: The
 world will continue for six thousand years, the first two thousand of
 which were a chaos (*Tahu*), the second two thousand were of Torah, and
 the third two thousand are the days of the Messiah, and because of our
 sins many years of these have elapsed, and still he has not come. <span
-id="fr_10"></span>[2](#fn_10) Let us see from what time the two thousand
+id="fr_10"></span>[2](#fn_10.md) Let us see from what time the two thousand
 of Torah are reckoned. Shall we assume it to be the time when the Torah
 was given to Israel? Two thousand years have not elapsed as yet
-since. <span id="fr_11"></span>[3](#fn_11) We must therefore say that it
+since. <span id="fr_11"></span>[3](#fn_11.md) We must therefore say that it
 means the time mentioned in \[Gen. xii. 5\]: "And the persons that they
 had obtained in Charan." And it is known by tradition that Abraham was
 then fifty-two years of age. And from his fifty-second year until the
 Torah was given, 448 years elapsed, and that number will complete the
 number of 2,000 which were less at the time the Tana taught about the
-2,000 years of wisdom. <span id="fr_12"></span>[4](#fn_12)
+2,000 years of wisdom. <span id="fr_12"></span>[4](#fn_12.md)
 
 "*The accession to the throne*." Whose accession? If it means the
 king's, how should the following Boraitha be understood? "The ascending
@@ -722,7 +722,7 @@ afflicted? And the advice of them all was, that he should cut it off and
 remain at rest. K'tiha, however, who was one of them, objected, saying:
 First you cannot get rid of all the Jews, as it reads \[Zech. ii. 10\]:
 "For as the four winds of the heaven have I spread you abroad, saith the
-Lord." <span id="fr_13"></span>[1](#fn_13) And secondly, your kingdom
+Lord." <span id="fr_13"></span>[1](#fn_13.md) And secondly, your kingdom
 will be considered mutilated, and one that kills its own subjects. The
 king then said: Thy advice is true, but there is a law that he who
 concurs the king, must be thrown into the furnace. When they took him to
@@ -805,7 +805,7 @@ well man ride on a lame man, dress him in the garments of Adam, and
 place on his head the scalp of R. Ismael, etc.; on his neck was
 suspended gold of the weight of four *zuz*. And they cover the markets
 with it, heralding before him: *sakh quiriphlaster*. <span
-id="fr_14"></span>[1](#fn_14) The brother of our Lord is a deceiver.
+id="fr_14"></span>[1](#fn_14.md) The brother of our Lord is a deceiver.
 (They mean Jacob, the brother of Eseau, who deceived the latter by
 taking away the blessing of Isaac to himself.) He who saw this now may
 be rejoiced, as if not to-day, he will not see it any more (because it
@@ -1001,7 +1001,7 @@ broken-legged. R. Jehudah permits
 <span id="page_25">p. 25</span>
 
 the sale of the latter, and Ben Bathyra permits the sale of a
-horse. <span id="fr_15"></span>[1](#fn_15)
+horse. <span id="fr_15"></span>[1](#fn_15.md)
 
 GEMARA: From this Mishna it seems that it relies only upon a custom, but
 there is no prohibition, and in the first Mishna of the second chapter,
@@ -1090,7 +1090,7 @@ sold either.) And he explains that our Mishna speaks of a lame lion, and
 it is in accordance with R. Jehudah, who holds that such may be sold. R.
 Na'hman opposed: Who can say that the lion is placed under the category
 of large beasts; perhaps he is placed under the category of small
-ones. <span id="fr_16"></span>[1](#fn_16)
+ones. <span id="fr_16"></span>[1](#fn_16.md)
 
 "*Himself in building*." Said Rabba b. b. Hanna in the name of R.
 Johanan: There were three such palaces: for kings, for bath-houses, and
@@ -1114,7 +1114,7 @@ one of the minim, named Jacob, of the village of Zachania and he said to
 me": It reads \[Deut. xxiii. 19\]: "Thou shalt not bring the hire of a
 harlot," etc. May then a retiring room for the high priest be built from
 such money? And I kept silent. Said he to me: So taught Jeshu. b.
-Panthyra. <span id="fr_17"></span>[2](#fn_17) It reads \[Mich. i. 7\]:
+Panthyra. <span id="fr_17"></span>[2](#fn_17.md) It reads \[Mich. i. 7\]:
 "For from harlot's wages she gathered them, and for harlot's wages shall
 they be used again"; hence, money that comes from a dirty place, may be
 expended
@@ -1180,7 +1180,7 @@ leads to the prostitute so that we should overrule the evil spirit, and
 be rewarded. When they arrived to the prostitutes, the latter ran away
 to their homes. And his colleague asked him: "What was the reason you
 relied upon--\[Prov. ii. 11\]: 'Discretion <span
-id="fr_18"></span>[1](#fn_18) will watch over thee, understanding will
+id="fr_18"></span>[1](#fn_18.md) will watch over thee, understanding will
 keep thee.'"
 
 The rabbis taught: When R. Elazar b. Partha and R. Hanina b. Tradian
@@ -1336,7 +1336,7 @@ as one of the prostitutes and embraced him. The officers then said that
 it must be someone else, as Mair would not do so. Thereafter, Mair ran
 away to Babylon, according to some, because of this occasion, and
 according to others, because of that which happened to Brura. <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 (Concerning arenas and circuses) Tanaim differ in the following: An
 Israelite must not visit arenas, because they are considered a place of
@@ -1413,7 +1413,7 @@ reads. The same said again: One shall study,
 <span id="page_35">p. 35</span>
 
 although he forgets; shall study, although he does not understand it
-well. <span id="fr_20"></span>[1](#fn_20) (Here is repeated from
+well. <span id="fr_20"></span>[1](#fn_20.md) (Here is repeated from
 Sanhedrin, p. 369, and from Erubin, p. 126. See there.) It reads \[Psalm
 i. 3\]: "And he shall be like a tree replanted by rivulets," etc. Said
 the disciple of Janai: "Replanted and not planted" signifies that he who
@@ -1492,7 +1492,7 @@ ground, but after it was cut off, one may. R. Jehudah said: He may also
 sell with the stipulation to cut it off afterward.
 
 GEMARA: Whence is this deduced? Said R. Jose, from \[Deut. Vii. 2\]:
-"Nor favor them," <span id="fr_21"></span>[1](#fn_21) means, he shall
+"Nor favor them," <span id="fr_21"></span>[1](#fn_21.md) means, he shall
 not give
 
 <span id="page_37">p. 37</span>
@@ -1509,7 +1509,7 @@ Aqiba that, when he saw the wife of Tornus Rupus, he laughed and wept.
 Laughed, because he saw that she would become a proselyte, and he would
 marry her; wept, that such a beauty must be buried under earth? This
 does not contradict Rabh, as it was only a benediction, which one has to
-recite by seeing nice creatures. <span id="fr_22"></span>[1](#fn_22) R.
+recite by seeing nice creatures. <span id="fr_22"></span>[1](#fn_22.md) R.
 Joshua b. Levi said: Modesty is the greatest of them all, as it reads
 \[Is. lxi. 1\]: "Hath anointed me to announce good tidings unto the
 meek," it does not read to announce pious men, but meek; hence modesty
@@ -1635,7 +1635,7 @@ can be taken for a support.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](zar03.htm#fr_0) The term for festivals in
+<span id="fn_0"></span>[1:1](zar03.htm#fr_0.md) The term for festivals in
 the Mishna, is "*Aidehen*" and Rabh and Samuel are discussing this term
 at some length. According to one it is *Aidehen* and means misfortune
 while to the other it is "*Edihen*," and means "witnesses." It is
@@ -1643,56 +1643,56 @@ because the sages of the Mishna hesitate to name the holidays of the
 idolaters with the term "festivals." We, however, deem it not necessary
 to translate this discussion, as it is unimportant.
 
-<span id="fn_1"></span>[1:2](zar03.htm#fr_1) The term for people here,
+<span id="fn_1"></span>[1:2](zar03.htm#fr_1.md) The term for people here,
 is *Leum* and by an analogy of expression it is inferred to mean
 kingdom.
 
-<span id="fn_2"></span>[4:1](zar03.htm#fr_2) Leeser's translation does
+<span id="fn_2"></span>[4:1](zar03.htm#fr_2.md) Leeser's translation does
 not correspond.
 
-<span id="fn_3"></span>[5:1](zar03.htm#fr_3) The term for this word is
+<span id="fn_3"></span>[5:1](zar03.htm#fr_3.md) The term for this word is
 *sh'hok*, which means both sport and smile, hence the objection.
 
-<span id="fn_4"></span>[5:2](zar03.htm#fr_4) The translation of this
+<span id="fn_4"></span>[5:2](zar03.htm#fr_4.md) The translation of this
 verse does not correspond at all, it is therefore of no use to quote it.
 
-<span id="fn_5"></span>[6:1](zar03.htm#fr_5) Leeser's translation,
+<span id="fn_5"></span>[6:1](zar03.htm#fr_5.md) Leeser's translation,
 according to the sense, does not correspond with the Talmud who takes it
 literally.
 
-<span id="fn_6"></span>[9:1](zar03.htm#fr_6) We do not quote the
+<span id="fn_6"></span>[9:1](zar03.htm#fr_6.md) We do not quote the
 passage, as the translation of it does not at all correspond.
 
-<span id="fn_7"></span>[12:1](zar03.htm#fr_7) In text many things on
+<span id="fn_7"></span>[12:1](zar03.htm#fr_7.md) In text many things on
 which the Halakha prevails according to R. Jehoshua b. Kar'ha are
 gathered, though they do not belong to this tract at all; and as all of
 them are mentioned, each in its proper place, they are omitted here.
 
-<span id="fn_8"></span>[13:1](zar03.htm#fr_8) The word complaint is
+<span id="fn_8"></span>[13:1](zar03.htm#fr_8.md) The word complaint is
 termed by *shicho*, which means "prior" according to the Talmud
 concerning Isaac in \[Gen. xxiv. 63\] where the same term is used.
 
-<span id="fn_9"></span>[16:1](zar03.htm#fr_9) We do not quite understand
+<span id="fn_9"></span>[16:1](zar03.htm#fr_9.md) We do not quite understand
 how to make out 206 years according to this account. Rashi's explanation
 does not suffice, and all other commentators keep silent. The Gamara
 itself was in doubt, concerning this account, as R. Papa said in text.
 We have, however, omitted it, leaving the whole affair to the historian.
 
-<span id="fn_10"></span>[16:2](zar03.htm#fr_10) There are a few lines
+<span id="fn_10"></span>[16:2](zar03.htm#fr_10.md) There are a few lines
 repeated here from Sanhedrin, p. 303, to which we could not refer
 because of the continuation in text.
 
-<span id="fn_11"></span>[16:3](zar03.htm#fr_11) The reader must not
+<span id="fn_11"></span>[16:3](zar03.htm#fr_11.md) The reader must not
 forget that this was said fourteen centuries ago.
 
-<span id="fn_12"></span>[16:4](zar03.htm#fr_12) This account remains
+<span id="fn_12"></span>[16:4](zar03.htm#fr_12.md) This account remains
 very complicated, notwithstanding Rashi's attempt to explain it. And as
 it seems to us unimportant, we have omitted the whole discussion.
 
-<span id="fn_13"></span>[18:1](zar03.htm#fr_13) For the explanation, see
+<span id="fn_13"></span>[18:1](zar03.htm#fr_13.md) For the explanation, see
 Taanith, p. 4.
 
-<span id="fn_14"></span>[20:1](zar03.htm#fr_14) To the explanation of
+<span id="fn_14"></span>[20:1](zar03.htm#fr_14.md) To the explanation of
 these peculiar words, we give the following of Jastrow Dictionary: an
 alleged proclamation made in Rome on the occasion of a sort of secular
 game, and intended as a satire of Eseau (Rome) on his brother Jacob
@@ -1700,39 +1700,39 @@ game, and intended as a satire of Eseau (Rome) on his brother Jacob
 predicted for the coming of the Messiah, or sakh *brother*) are
 unsatisfactory.
 
-<span id="fn_15"></span>[25:1](zar03.htm#fr_15) This Mishna is repeated
+<span id="fn_15"></span>[25:1](zar03.htm#fr_15.md) This Mishna is repeated
 from tract Passover, p. 90. We did not omit because it is a Mishna and
 because of the discussions of the Gemara here.
 
-<span id="fn_16"></span>[27:1](zar03.htm#fr_16) The text discusses here
+<span id="fn_16"></span>[27:1](zar03.htm#fr_16.md) The text discusses here
 whether an animal in convulsive movement before death is considered
 alive or dead, which is inserted here not in its proper place, nor is it
 of importance and therefore omitted.
 
-<span id="fn_17"></span>[27:2](zar03.htm#fr_17) In Tosaphta Chulin (ii.
+<span id="fn_17"></span>[27:2](zar03.htm#fr_17.md) In Tosaphta Chulin (ii.
 24) it states that Eliazar said: Jacob has related to me things of minim
 in the name of Jeshu b. Panthyra, and I was pleased with them. But it is
 not mentioned what it was, and we are in doubt whether it means the joke
 in text. This may serve as an answer to the criticism of the "Open
 court" Vol. 16, pp. 475-477.
 
-<span id="fn_18"></span>[29:1](zar03.htm#fr_18) The term for discretion
+<span id="fn_18"></span>[29:1](zar03.htm#fr_18.md) The term for discretion
 in Hebrew is *me zema* the last word is the term for prostitution and
 the Talmud explains it as it would be written *men zema* which means
 from prostitution.
 
-<span id="fn_19"></span>[33:1](zar03.htm#fr_19) The text does not say
+<span id="fn_19"></span>[33:1](zar03.htm#fr_19.md) The text does not say
 what happened to her. Rashi explains that she committed suicide because
 of a discussion between her and her husband, who finally conquered her.
 
-<span id="fn_20"></span>[35:1](zar03.htm#fr_20) In text it is inferred
+<span id="fn_20"></span>[35:1](zar03.htm#fr_20.md) In text it is inferred
 from (Ps. cxix. 20). However, the translation does not correspond and
 therefore the quotation is omitted.
 
-<span id="fn_21"></span>[36:1](zar03.htm#fr_21) The term for favor in
+<span id="fn_21"></span>[36:1](zar03.htm#fr_21.md) The term for favor in
 Hebrew is *chanina*. *Chanina* means also rest. Hence the deduction.
 
-<span id="fn_22"></span>[37:1](zar03.htm#fr_22) Here is repeated from
+<span id="fn_22"></span>[37:1](zar03.htm#fr_22.md) Here is repeated from
 many tracts, especially from Middle Gate, p. 227, and a whole Mishna
 front Tract Shekalim vi, which we have omitted. The statement of R.
 Joshua b. Levi in text belongs to the Mishna Shekalim vi, which states
@@ -1740,4 +1740,4 @@ that piety is greater than all other good things.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](zar04)
+[Next: Chapter II](zar04.md)

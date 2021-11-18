@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ebm09)  [Next](ebm11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ebm09)  [Next](ebm11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eleusinian and Bacchic Mysteries*, by Thomas Taylor, \[1891\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ Before whose flash all nature trembles.
 Thou rulest in the common reason, which goes through all,  
 And appears mingled in all things, great or small,  
 Which filling all nature, is king of all existences.  
-Nor without thee, Oh Deity, <span id="fr_135"></span>[\*](#fn_135) does
+Nor without thee, Oh Deity, <span id="fr_135"></span>[\*](#fn_135.md) does
 anything happen in the world,  
 From the divine ethereal pole to the great ocean,  
 Except only the evil preferred by the senseless wicked.  
@@ -52,20 +52,20 @@ That we may be honored, let us honor thee again,
 Chanting thy great deeds, as is proper for mortals,  
 For nothing can be better for gods or men  
 Than to adore with hymns the Universal King. <span
-id="fr_136"></span>[\*](#fn_136)</span>
+id="fr_136"></span>[\*](#fn_136.md)</span>
 
 <span id="img_24001"></span> ![Proserpina Enthroned in
-Hades.](img/24001.png)  
+Hades.](img/24001.png.md)  
 Proserpina Enthroned in Hades.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_135"></span>[239:\*](ebm10.htm#fr_135) Greek, Δαιμον,
+<span id="fn_135"></span>[239:\*](ebm10.htm#fr_135.md) Greek, Δαιμον,
 *Demon*,
 
-<span id="fn_136"></span>[240:\*](ebm10.htm#fr_136) Rev. J. Freeman
+<span id="fn_136"></span>[240:\*](ebm10.htm#fr_136.md) Rev. J. Freeman
 Clarke, whose version is here copied, renders this phrase “the law
 common to all.” The Greek text reads: “ἡ κοινον αει νομον εν δικῃ
 ὑμνειν,”—the term νομος, *nomos*, or Law, being used for King, as Love
@@ -73,4 +73,4 @@ is for God.—A. W.
 
 ------------------------------------------------------------------------
 
-[Next: Glossary](ebm11)
+[Next: Glossary](ebm11.md)

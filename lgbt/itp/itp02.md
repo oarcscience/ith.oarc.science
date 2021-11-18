@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](itp01)  [Next](itp03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](itp01)  [Next](itp03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](itp03)
+[Next: Introduction](itp03.md)

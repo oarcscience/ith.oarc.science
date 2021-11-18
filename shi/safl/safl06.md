@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Ainu](../ainu/index)  [Index](index) [Previous](safl05) [Next](safl07)
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Ainu](../ainu/index)  [Index](index) [Previous](safl05) [Next](safl07.md)
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ specimen of curious Ainu folk-lore.
  
 
 K<span class="small">AORI</span>.<span
-id="page_136_fr_*"></span>[\*](#page_136_note_*)
+id="page_136_fr_*"></span>[\*](#page_136_note_*.md)
 
 1\.
 
@@ -146,7 +146,7 @@ a great deal, even in so simple a matter as felling trees."
 
 ------------------------------------------------------------------------
 
-[Next](safl07)
+[Next](safl07.md)
 
 ------------------------------------------------------------------------
 
@@ -154,7 +154,7 @@ a great deal, even in so simple a matter as felling trees."
 
 <span id="footnotes_page_136">p. 136</span>
 
-<span id="page_136_note_*"></span>[\*](#page_136_fr_*) *Kaori* is the
+<span id="page_136_note_*"></span>[\*](#page_136_fr_*.md) *Kaori* is the
 tune of tone of voice in which this legend is recited.
 
  

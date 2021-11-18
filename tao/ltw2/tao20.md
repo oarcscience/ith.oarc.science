@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao20)   
-[Previous](tao19)  [Next](tao21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao20.md)   
+[Previous](tao19)  [Next](tao21.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ empty and foolish, but I am nourished by food from Mother TAO.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 21](tao21)
+[Next: Chapter 21](tao21.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm22)  [Next](rrm24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm22)  [Next](rrm24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -143,7 +143,7 @@ action; Mars governs
 the irascible principle, the Sun produces sensation and speculation,
 Venus inspires the appetites, Mercury bestows the power of declaring and
 expressing, and the Moon confers the faculty of generating and
-[augmenting](errata.htm#3) the body. The Egyptian 'winged disc' is a
+[augmenting](errata.htm#3.md) the body. The Egyptian 'winged disc' is a
 symbol of 'Tat', Taut', or 'Thoth' (Plutarch, *De Iside et Osiride*).
 The lions’ heads, so frequently observable, in the sculptures decorating
 fountains, bespeak the astral influences under Leo, which produce the
@@ -185,7 +185,7 @@ immortal (*The Gnostics and their Remains*, note to p. 46).
 
 An *Ancient Homily on Trinity Sunday* has the following: 'At the deth of
 a manne, three bells should be ronge as his knyll in worship of the
-Trinitie. And for a woman <span id="fr_7"></span>[1](#fn_7), *who was
+Trinitie. And for a woman <span id="fr_7"></span>[1](#fn_7.md), *who was
 the Second Person of the Trinitie*, two bells should be ronge.' Here we
 have the source of the emblematic difficulty among the master-masons,
 who constructed the earlier cathedrals, as to the addition and as to the
@@ -373,9 +373,9 @@ matters.
 
 ### Footnotes
 
-<span id="fn_7"></span>[172:1](rrm23.htm#fr_7) This is a curious direct
+<span id="fn_7"></span>[172:1](rrm23.htm#fr_7.md) This is a curious direct
 assertion that the Saviour of the World was feminine.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX: Mystic Christian Figures and Talismans](rrm24)
+[Next: Chapter XX: Mystic Christian Figures and Talismans](rrm24.md)

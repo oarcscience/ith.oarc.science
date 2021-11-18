@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat14)  [Next](sat16) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat14)  [Next](sat16.md) 
 
 ------------------------------------------------------------------------
 
 # CHAPTER FOURTEEN
 
-\[CXIII <span id="CXIII"></span>[(Latin)](../satyrlat/satl113) \] This
+\[CXIII <span id="CXIII"></span>[(Latin)](../satyrlat/satl113.md) \] This
 story set the sailors all laughing, while it made Tryphaena blush not a
 little and lay her face amorously against Giton's bosom. Lichas on the
 other hand was far from laughing, and shaking his head indignantly, "If
@@ -92,7 +92,7 @@ provocations. After listening to my tale, Eumolpus swore in good set
 terms, that he would avenge us, declaring the Gods were too just to
 suffer such villainies to go unpunished.
 
-\[CXIV <span id="CXIV"></span>[(Latin)](../satyrlat/satl114) \] Whilst
+\[CXIV <span id="CXIV"></span>[(Latin)](../satyrlat/satl114.md) \] Whilst
 we were still engaged in talk of this and the like sort, the sea rose
 and heavy clouds gathering from all quarters plunged the scene in
 darkness. The sailors run to their posts in panic haste, and take in
@@ -139,7 +139,7 @@ rope or an oar left; like a mere shapeless mass of logs she goes
 drifting with the billows. Some fishermen now put out hastily in their
 small craft to loot the vessel; but when they saw men were still on
 board ready to defend their property, they changed from wreckers into
-rescuers. \[CXV <span id="CXV"></span>[(Latin)](../satyrlat/satl115) \]
+rescuers. \[CXV <span id="CXV"></span>[(Latin)](../satyrlat/satl115.md) \]
 Suddenly we hear an extraordinary noise, like the howling of a wild
 beast trying to get out, coming from underneath the master's cabin.
 Following up the sound, we discover Eumolpus seated, dashing down verses
@@ -206,7 +206,7 @@ No carven marble marked his sepulture;
 Five feet of common earth received the corpse,  
 His tomb a lowly mound.
 
-\[CXVI <span id="CXVI"></span>[(Latin)](../satyrlat/satl116) \] This
+\[CXVI <span id="CXVI"></span>[(Latin)](../satyrlat/satl116.md) \] This
 office duly and willingly performed, we pursue our interrupted journey,
 and in a very brief space of time arrive sweating at the top of a steep
 hill, whence we spy at no great distance a city occupying the summit of
@@ -234,7 +234,7 @@ You will find the town," he concluded, "like a pestfield, where there
 are but two thing to be seen--corpses being torn, and crows tearing
 them."
 
-\[CXVII <span id="CXVII"></span>[(Latin)](../satyrlat/satl117) \]
+\[CXVII <span id="CXVII"></span>[(Latin)](../satyrlat/satl117.md) \]
 Eumolpus, more far-seeing than the rest of us, pondered over these novel
 arrangements and admitted the method indicated of making a fortune took
 his fancy. For my part, I supposed the old poet was joking in his
@@ -294,7 +294,7 @@ road with a filthy noise and a filthy stench. Giton only laughed at his
 impudence, and after each explosion gave a loud imitation of the noise
 with his mouth.
 
-\[CXVIII <span id="CXVIII"></span>[(Latin)](../satyrlat/satl118) \] But
+\[CXVIII <span id="CXVIII"></span>[(Latin)](../satyrlat/satl118.md) \] But
 even this did not hinder the poet from relapsing into his accustomed
 vein. "Many are the victims, my young friends," he began, "poetry has
 seduced! The instant a man has got a verse to stand on its feet and
@@ -329,7 +329,7 @@ frenzy of the bard should be more apparent than the tested pedantry of
 scrupulous precision. For example, see how you like this rapid sketch,
 though indeed it has not yet received the final touches:
 
-   \[CXIX <span id="CXIX"></span>[(Latin)](../satyrlat/satl119) \] Now
+   \[CXIX <span id="CXIX"></span>[(Latin)](../satyrlat/satl119.md) \] Now
 haughty Rome reigned mistress of the Globe,  
 Where'er the Ether shines with heavenly fires,  
 Or Earth extends, or circling Ocean rolls.  
@@ -402,7 +402,7 @@ For Want may safely dare without a fear.
 And sunk in hopeless misery, what could wake  
 Licentious Rome from her voluptuous trance,  
 But fire, and sword, and all the din of arms?  
-\[CXX <span id="CXX"></span>[(Latin)](../satyrlat/satl120) \] Three
+\[CXX <span id="CXX"></span>[(Latin)](../satyrlat/satl120.md) \] Three
 mighty chiefs kind Fortune had supplied,  
 Whom cruel Fate in various manner slew.  
 The Parthian fields were drunk with Crassus' gore;  
@@ -450,7 +450,7 @@ Nor my Tisiphone e'er quenched her thirst,
 Since Sulla's sword let loose the purple tide,  
 And reaped the harvest of insatiate death.
 
-   \[CXXI <span id="CXXI"></span>[(Latin)](../satyrlat/satl121) \] He
+   \[CXXI <span id="CXXI"></span>[(Latin)](../satyrlat/satl121.md) \] He
 spoke . . . and lo! the opening Earth disclosed,  
 And to the Goddess' hand his hand he joined.  
 Then Fortune, smiling, this reply addressed:
@@ -480,7 +480,7 @@ But needs a fleet!--Tisiphone may then
 Quench her dire thirst, and cloy herself with Fate.  
 The mangled World is hurrying to thy Reign.
 
-   \[CXXII <span id="CXXII"></span>[(Latin)](../satyrlat/satl122) \]
+   \[CXXII <span id="CXXII"></span>[(Latin)](../satyrlat/satl122.md) \]
 Scarce ended she her words, when from a cloud  
 Blue lightnings flashed, and sudden thunders roared.  
 Affrighted Pluto feared his brother's darts,  
@@ -556,7 +556,7 @@ And issuing flames flashed through the sylvan gloom.
 Phoebus himself assumed his brightest beams,  
 And with unusual splendor cheered the day.
 
-   \[CXXIII <span id="CXXIII"></span>[(Latin)](../satyrlat/satl123) \]
+   \[CXXIII <span id="CXXIII"></span>[(Latin)](../satyrlat/satl123.md) \]
 Fired with the omen, dauntless Caesar bids  
 His engines move; himself the first t' essay  
 The dangerous path; for yet in frost confined  
@@ -631,7 +631,7 @@ Oh shame! Deserted the Imperial Name,
 And meanly left both Rome and Fame behind!  
 Whilst fickle Fortune gloried in his flight.
 
-   \[CXXIV <span id="CXXIV"></span>[(Latin)](../satyrlat/satl124) \] The
+   \[CXXIV <span id="CXXIV"></span>[(Latin)](../satyrlat/satl124.md) \] The
 Gods with horror see th' intestine jars,  
 And even celestial breasts consent to fear.  
 For see the mild pacific train depart.  
@@ -700,4 +700,4 @@ And feast Thessalia's plain with human gore!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fifteen](sat16)
+[Next: Chapter Fifteen](sat16.md)

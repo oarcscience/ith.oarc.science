@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar205) [Next](gbar207)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar205) [Next](gbar207.md)
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ for thou art a Samaritan, and hast not respect unto the priest of God.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar207)
+[Next](gbar207.md)

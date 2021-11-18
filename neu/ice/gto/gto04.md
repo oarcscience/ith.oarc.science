@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto03)  [Next](gto05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto03)  [Next](gto05.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,7 +117,7 @@ the Black, and thrust weaker men out of their homestead by brute force.
 
 So, too, it was when gallants like Kolbein came day after day to a
 freeman's house, sat for hours with his daughter, and yet never asked
-for her hand, <span id="fr_0"></span>[1](#fn_0) that the vengeance of
+for her hand, <span id="fr_0"></span>[1](#fn_0.md) that the vengeance of
 the family fell on the wrongdoer's head; as when Gisli, after warning
 Kolbein again and again, dealt him that one blow which was "more than
 enough."
@@ -242,7 +242,7 @@ well described. Thorgrim, the Priest is laid in his boat or ship, and
 then the howe or cairn is heaped over him. Vestein, the daring sailor,
 we may be sure, was buried in his ship too; both had the hellshoes
 fitted to their feet, on which in heathen times the dead were fancied to
-walk to Valhalla <span id="fr_1"></span>[1](#fn_1) and both had their
+walk to Valhalla <span id="fr_1"></span>[1](#fn_1.md) and both had their
 ships steadied and kept upright in the howe by great stones. Though
 Thorgrim only mentions the hellshoon when he binds them on Vestein, and
 Gisli the stone when Thorgrim's
@@ -341,7 +341,7 @@ beyond this is shown by the passage in which we are told he "had left
 off all heathen sacrifices since he had been in Viborg." Here, again, it
 is "precept upon precept, line upon line, here a little, and there a
 little." Thus, like a little leaven, did Christianity work in the North
-till it had leavened the whole mass. <span id="fr_2"></span>[1](#fn_2)
+till it had leavened the whole mass. <span id="fr_2"></span>[1](#fn_2.md)
 Of Gisli himself it may be said that the verses in which he recites his
 dreams represent the struggle which was passing in his mind between the
 old religion and the new. His two dream-wives
@@ -353,12 +353,12 @@ Christianity, the other of the bloody and relentless superstition of the
 North. Valkyrie and Guardian Angel, as it were, fight for the body of
 the great champion while he is alive, and for his soul after his death.
 His last verses would seem to show that he died trusting in nothing but
-his own daring and hardihood. <span id="fr_3"></span>[1](#fn_3)
+his own daring and hardihood. <span id="fr_3"></span>[1](#fn_3.md)
 
 Very curious is the passage about the change of name of Thorgrim's and
 Thordisa's posthumous son. At first he was called Thorgrim after his
 father, but from his snappish, snarling temper he was called "Snerrir"
-the Snarler, and afterwards Snorro. <span id="fr_4"></span>[2](#fn_4)
+the Snarler, and afterwards Snorro. <span id="fr_4"></span>[2](#fn_4.md)
 But to this snappish child, afterwards well known in Icelandic story as
 Snorro the Priest, we owe the preservation and perhaps the existence of
 Gisli's Saga. The fame of that
@@ -376,7 +376,7 @@ that time, like another Brutus, had been despised by the stupid Bork,
 claimed his own from his uncle, made him give up Helgafell, and began a
 career of almost uninterrupted success. That was in the year 980. In the
 year 1031 he died, sixty-seven years and a half old, having been born in
-October 963. <span id="fr_5"></span>[1](#fn_5)
+October 963. <span id="fr_5"></span>[1](#fn_5.md)
 
 <span id="page_xxxi">p. xxxi</span>
 
@@ -394,7 +394,7 @@ So, too, the Saga is wrong in making Ingialld the tenant of Bork. We
 know from Landnama that Hergilsisle was Ingialld's own property, and
 that Bork, as a priest, took it from him because he harboured a man
 outlawed at the Thorsness Thing, which had jurisdiction over
-Hergilsisle. <span id="fr_6"></span>[1](#fn_6) "Ingialld was their
+Hergilsisle. <span id="fr_6"></span>[1](#fn_6.md) "Ingialld was their
 son--that is, the son of Hergil and Thoruna--and he dwelt in
 Hergilsisle, and helped Gisli the Soursop. For that Bork the Stout made
 him forfeit the island, but he bought the farm Hlid in Thorskafirth."
@@ -428,7 +428,7 @@ Sturluson is roughly handled:
 O happy deed!--had taën a thrust;  
 The closefist, turning on his heel,  
 Hard kissed by Graysteel, bit the dust." <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
  
 
@@ -441,7 +441,7 @@ deftly and well. It was a great spear of the olden time, scored with
 runes \[*mála spiot*\], but not well tempered. He thrust so hard with it
 that men fell fast before him. But the spear-head bent, and he put his
 foot upon it oftimes to straighten it." <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
 The author of the Sturlunga was present at this battle, and speaks of
 the spear as an eye-witness. The bad luck predicted by the thrall
@@ -504,10 +504,10 @@ nature remains the same.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xix:1](gto04.htm#fr_0) This was called "*at
+<span id="fn_0"></span>[xix:1](gto04.htm#fr_0.md) This was called "*at
 glepja*" or "*at fifla*," to beguile or befool a woman.
 
-<span id="fn_1"></span>[xxiv:1](gto04.htm#fr_1) The second and later
+<span id="fn_1"></span>[xxiv:1](gto04.htm#fr_1.md) The second and later
 text of the Saga makes no mention of Valhalla. That happy home of
 Woden's champions had been forgotten, and so, too, had the belief in
 Hell, as the goddess to whose lot the vile and cowardly belonged. The
@@ -521,14 +521,14 @@ laying the dead out for burial, and which may also explain the frequency
 with which the name of the old goddess is taken in vain by swearers in
 modern times.
 
-<span id="fn_2"></span>[xxviii:1](gto04.htm#fr_2) This custom among
+<span id="fn_2"></span>[xxviii:1](gto04.htm#fr_2.md) This custom among
 heathens, of being marked with the cross on entering into relations with
 Christians, was very common. In the Egil's Saga we are told that Egil
 and his brother Thorolf underwent the rite on entering into the service
 of King Athelstane in London.
 
-<span id="fn_3"></span>[xxix:1](gto04.htm#fr_3) The word "lœmingi" in
-the verses on [p. 106](gto23.htm#page_106) has puzzled critics; and some
+<span id="fn_3"></span>[xxix:1](gto04.htm#fr_3.md) The word "lœmingi" in
+the verses on [p. 106](gto23.htm#page_106.md) has puzzled critics; and some
 have thought the word meant no bird at all, but the Norwegian "Lemming,"
 a kind of rat which Gisli must have seen in Norway, but which is not
 found in Iceland. In this version it has been rendered "night-hawk," as
@@ -536,7 +536,7 @@ more poetical; but there is little doubt that it really means the
 "Loom," or Great Arctic Diver, whose shrieking, heard in these vast
 solitudes at night, is most weird and doleful.
 
-<span id="fn_4"></span>[xxix:2](gto04.htm#fr_4) There is a very curious
+<span id="fn_4"></span>[xxix:2](gto04.htm#fr_4.md) There is a very curious
 extract from the Hauksbok in G. Vigfússon's edition of the Eyrbyggja, p.
 126, to the effect that in the olden time it was a common custom to join
 the name of one of the gods to a child's first name. Thus Grimr would
@@ -552,7 +552,7 @@ that these men would live longer who had two names:' Nowadays, if some
 of us had a fresh life for each of our names we should be very
 long-lived.
 
-<span id="fn_5"></span>[xxx:1](gto04.htm#fr_5) The Eyrbyggja Saga, one
+<span id="fn_5"></span>[xxx:1](gto04.htm#fr_5.md) The Eyrbyggja Saga, one
 of the most trustworthy of the Icelandic Sagas, corroborates the
 accounts of the Gisli Saga. Of Thorgrim the Priest it says: "Thorgrim
 took him a wife west in Dyrafirth. He got Thordisa, the daughter of the
@@ -568,13 +568,13 @@ posthumous, but born before his time. According to our Saga, the event
 was not hurried, but Bork married Thordisa as his brother's heir before
 the birth of his nephew.
 
-<span id="fn_6"></span>[xxxi:1](gto04.htm#fr_6) Landnama, ii. 19.
+<span id="fn_6"></span>[xxxi:1](gto04.htm#fr_6.md) Landnama, ii. 19.
 Gullthoris S. ch. 9.
 
-<span id="fn_7"></span>[xxxii:1](gto04.htm#fr_7) Sturlunga, iv. 26.
+<span id="fn_7"></span>[xxxii:1](gto04.htm#fr_7.md) Sturlunga, iv. 26.
 
-<span id="fn_8"></span>[xxxiii:1](gto04.htm#fr_8) Sturlunga, vi. 17.
+<span id="fn_8"></span>[xxxiii:1](gto04.htm#fr_8.md) Sturlunga, vi. 17.
 
 ------------------------------------------------------------------------
 
-[Next: Chronology of the Saga](gto05)
+[Next: Chronology of the Saga](gto05.md)

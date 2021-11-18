@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas06)  [Next](sas08)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas06)  [Next](sas08.md)  
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ called by the Shastra the Purnahambhava or the experience "All I am".
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Eight: Cinacara (Vashishtha and Buddha)](sas08)
+Next: [Chapter Eight: Cinacara (Vashishtha and Buddha)](sas08.md)

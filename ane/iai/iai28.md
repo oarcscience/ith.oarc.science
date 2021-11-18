@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai27)  [Next](iai29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai27)  [Next](iai29.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,13 +24,13 @@ Against the strength of Anu let him prove
 His right divine to rule without our aid,  
 Before the strength of Ann let him bleed.  
 Upon this giant Sar so filled with pride,  
-Let Anu's winged bull <span id="fr_220"></span>[1](#fn_218) in fury
+Let Anu's winged bull <span id="fr_220"></span>[1](#fn_218.md) in fury
 ride,  
 And I will aid the beast to strike him prone,  
 Till he in death shall breathe his dying groan."  
 And Ann said: "If thou to it shall join  
 Thy strength, which all thy noble names define  
-Thy glories <span id="fr_221"></span>[2](#fn_219) and thy power thus
+Thy glories <span id="fr_221"></span>[2](#fn_219.md) and thy power thus
 magnified,  
 Will humble him, who has thy power defied."  
 And Ishtar thus: "By all my might as queen  
@@ -46,7 +46,7 @@ Proud monarch! from thy throne thou shalt be torn!"
 
 For Ishtar, Anu from the clouds creates  
 A shining monster with thick brazen plates  
-And horns of adamant; <span id="fr_222"></span>[3](#fn_220) and now it
+And horns of adamant; <span id="fr_222"></span>[3](#fn_220.md) and now it
 flies  
 Toward the palace, roaring from the skies.
 
@@ -54,13 +54,13 @@ Toward the palace, roaring from the skies.
 
 ### Footnotes
 
-<span id="fn_218"></span>[84:1](iai28.htm#fr_220) "Anu's winged bull,"
+<span id="fn_218"></span>[84:1](iai28.htm#fr_220.md) "Anu's winged bull,"
 Taurus, constellation of the heavens.
 
-<span id="fn_219"></span>[84:2](iai28.htm#fr_221) "Glories" ("maskhi").
+<span id="fn_219"></span>[84:2](iai28.htm#fr_221) "Glories" ("maskhi".md).
 This word is not translated by Mr. Sayce.
 
-<span id="fn_220"></span>[84:3](iai28.htm#fr_222) "Horns of adamant."
+<span id="fn_220"></span>[84:3](iai28.htm#fr_222.md) "Horns of adamant."
 Sayce translates in l. 22, Col. v., horns of crystal--"thirty manehs of
 crystal," etc. The caning probably of "zamat stone," as given by Smith,
 was a hard substance, such as the diamond or adamant. By some
@@ -68,4 +68,4 @@ translators it has been rendered onyx, and others lazuli.
 
 ------------------------------------------------------------------------
 
-[Next: Column IV. The Fight with the Winged Bull of Anu](iai29)
+[Next: Column IV. The Fight with the Winged Bull of Anu](iai29.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](hau04)  [Next](hau06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](hau04)  [Next](hau06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hausa Folk-Lore*, by Maalam Shaihua, tr. by R. Sutherland Rattray,
 \[1913\], at Intangible Textual Heritage
 
@@ -104,6 +104,6 @@ Off with the rat's head.
 ------------------------------------------------------------------------
 
 [Next: 2. How brothers and sisters first came to quarrel and hate each
-other](hau06)
+other](hau06.md)
 
 </div>

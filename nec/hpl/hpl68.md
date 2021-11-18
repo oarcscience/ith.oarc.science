@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl67)  [Next](hpl69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl67)  [Next](hpl69.md) 
 
 ------------------------------------------------------------------------
 
@@ -539,4 +539,4 @@ its shadow were so hideous and incredible.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](hpl69)
+[Next: Chapter III](hpl69.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P42UQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P42UQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P42UQ/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ysp00)    [Text
-\[Zipped\]](ysp.txt.gz)
+[Contents](#contents)    [Start Reading](ysp00.md)    [Text
+\[Zipped\]](ysp.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -46,12 +46,12 @@ a minimum of technical language and apparatus.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ysp00)  
-[Introduction to Book I](ysp01)  
-[Book I](ysp02)  
-[Introduction to Book II](ysp03)  
-[Book II](ysp04)  
-[Introduction to Book III](ysp05)  
-[Book III](ysp06)  
-[Introduction to Book IV](ysp07)  
-[Book IV](ysp08)  
+<span id="contents"></span> [Title Page](ysp00.md)  
+[Introduction to Book I](ysp01.md)  
+[Book I](ysp02.md)  
+[Introduction to Book II](ysp03.md)  
+[Book II](ysp04.md)  
+[Introduction to Book III](ysp05.md)  
+[Book III](ysp06.md)  
+[Introduction to Book IV](ysp07.md)  
+[Book IV](ysp08.md)  

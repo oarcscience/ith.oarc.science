@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml19)  [Next](iml21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml19)  [Next](iml21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Queen's Appeals--Treated as a Menial--Attempt to Disrobe her--Taunted by
 Karna--Bhima's Terrible Vows--Alarming Omens--Pandavas regain
 Liberty--Second Gambling Match--Pandavas go into Exile.
 
-Now Shakuni, Prince of Gandhara, <span id="fr_260"></span>[1](#fn_259)
+Now Shakuni, Prince of Gandhara, <span id="fr_260"></span>[1](#fn_259.md)
 and brother of Dhritarashtra's queen, was renowned for his skill as a
 gambler. He always enjoyed good fortune because that he played with
 loaded dice. Duryodhana plotted with him, desiring greatly to subjugate
@@ -142,7 +142,7 @@ Shakuni threw the dice, and Yudhishthira lost this the last throw. In
 this manner was Draupadi won by Duryodhana.
 
 Then all the onlookers gazed one upon another in silence and wide-eyed.
-Karna and Duhsasana <span id="fr_261"></span>[1](#fn_260) and other
+Karna and Duhsasana <span id="fr_261"></span>[1](#fn_260.md) and other
 young princes laughed aloud.
 
 Duryodhana rose proudly and spake unto Vidura, saying: "Now hasten unto
@@ -230,7 +230,7 @@ Said stern and cruel Duhsasana: "Even if thou wert
 
 [![THE ORDEAL OF QUEEN DRAUPADI&lt;br&gt; From the painting by Warwick
 Goble](tn/24200.jpg)  
-Click to enlarge](img/24200.jpg)  
+Click to enlarge](img/24200.jpg.md)  
 THE ORDEAL OF QUEEN DRAUPADI  
 From the painting by Warwick Goble  
 
@@ -364,7 +364,7 @@ passing. The Brahmans, robed in white, were chanting peacefully their
 evening mantras, when a jackal howled in the sacrificial chamber. Asses
 brayed in response, and ravens answered their cries from all sides.
 Those who heard these dread omens exclaimed: "*Swashti! Swashti!*" <span
-id="fr_262"></span>[1](#fn_261)
+id="fr_262"></span>[1](#fn_261.md)
 
 Dhritarashtra shook with terror, and when Vidura had told him all that
 had taken place, he said: "The luckless and sinful Duryodhana hath
@@ -462,12 +462,12 @@ followed them.
 
 ### Footnotes
 
-<span id="fn_259"></span>[237:1](iml20.htm#fr_260) Candahar.
+<span id="fn_259"></span>[237:1](iml20.htm#fr_260.md) Candahar.
 
-<span id="fn_260"></span>[240:1](iml20.htm#fr_261) *Pron*. doo-sas´a-na.
+<span id="fn_260"></span>[240:1](iml20.htm#fr_261.md) *Pron*. doo-sas´a-na.
 
-<span id="fn_261"></span>[246:1](iml20.htm#fr_262) similar to "Amen".
+<span id="fn_261"></span>[246:1](iml20.htm#fr_262.md) similar to "Amen".
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Second Exile of the Pandavas](iml21)
+[Next: Chapter XVI. Second Exile of the Pandavas](iml21.md)

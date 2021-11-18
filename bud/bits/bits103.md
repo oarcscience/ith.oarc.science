@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits102)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits102.md)
 
 ------------------------------------------------------------------------
 
@@ -568,7 +568,7 @@ consisting of meritorious karma, demeritorious karma, and karma leading
 to immovability; and the triplet consisting of bodily karma, vocal
 karma, aud mental karma. All these are nothing but worldly meritorious
 and demeritorious thoughts.<span id="page_495_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_495_note_1)
+class="small">1</span></sup>](#page_495_note_1.md)
 
    The other karmas are four in number; namely, static karma,
 constituent karma, active karma, and strenuous karma.
@@ -580,10 +580,10 @@ dependence.
    In the commentaries, all the elements of being, both those with form
 and those without, which have sprung from karma,<span
 id="page_495_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_495_note_1) and are comprised in the
+class="small">1</span></sup>](#page_495_note_1.md) and are comprised in the
 three modes of being, are called *constituent karmas*.<span
 id="page_495_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_495_note_2) They are included in the
+class="small">2</span></sup>](#page_495_note_2.md) They are included in the
 phrase, "All the constituents of <span id="page_496">p. 496</span> being
 are transitory;" but there is no passage quotable for them separately.
 
@@ -591,13 +591,13 @@ are transitory;" but there is no passage quotable for them separately.
 of being are, moreover, *active karma*. For them is quotable the
 passage, "This ignorant individual, O priest, performs meritorious karma
 etc."<span id="page_496_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_496_note_1)
+class="small">1</span></sup>](#page_496_note_1.md)
 
    Bodily and mental heroism is called *strenuous karma*. This is
 quotable in the passage, "It went as far as there was room for karma,
 and then it stopped, as if struck in the axle."<span
 id="page_496_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_496_note_2)
+class="small">2</span></sup>](#page_496_note_2.md)
 
    But there are not merely these, there are also others. In such
 quotations as, "Brother Visâkha, when any priest enters upon the trance
@@ -607,7 +607,7 @@ but there is no one of these that is not included under *static karma*.
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources.md)
 
 ------------------------------------------------------------------------
 
@@ -615,21 +615,21 @@ but there is no one of these that is not included under *static karma*.
 
 <span id="footnotes_page_495">p. 495</span>
 
-<span id="page_495_note_1"></span>[1](#page_495_fr_1) That is,
+<span id="page_495_note_1"></span>[1](#page_495_fr_1.md) That is,
 consciousnesses 1-17 and 22-33 in the list above.
 
-<span id="page_495_note_2"></span>[2](#page_495_fr_2) That is, the four
+<span id="page_495_note_2"></span>[2](#page_495_fr_2.md) That is, the four
 lower groups in so far as they are sprung from karma, and the
 fruition-consciousnesses of the consciousness-group.
 
 <span id="footnotes_page_496">p. 496</span>
 
-<span id="page_496_note_1"></span>[1](#page_496_fr_1) Compare [page
-182](bits027.htm#page_182), line 8 {last paragraph of § 27}.
+<span id="page_496_note_1"></span>[1](#page_496_fr_1.md) Compare [page
+182](bits027.htm#page_182.md), line 8 {last paragraph of § 27}.
 
-<span id="page_496_note_2"></span>[2](#page_496_fr_2) This quotation
-probably refers to the wheel of empire (see [64](bits006.htm#page_64)
-and [101](bits012.htm#page_101)), and symbolically expresses the
+<span id="page_496_note_2"></span>[2](#page_496_fr_2.md) This quotation
+probably refers to the wheel of empire (see [64](bits006.htm#page_64.md)
+and [101](bits012.htm#page_101).md), and symbolically expresses the
 victorious progress of a Universal Monarch in subduing the world.
 (Compare Wheel of Doctrine, *s.v.* Doctrine, in Index.)
 

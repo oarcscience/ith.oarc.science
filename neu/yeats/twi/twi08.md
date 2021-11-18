@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](twi07)  [Next](twi09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](twi07)  [Next](twi09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Twilight*, by William Butler Yeats, \[1893, 1902\], at
 Intangible Textual Heritage
 
@@ -210,7 +210,7 @@ her? And people came from all parts to look at her, and maybe there were
 some that did not say "God bless her."' An old man who lives by the sea
 at Duras has as little doubt that she was taken, 'for there are some
 living yet can remember her coming to the pattern <span
-id="fr_2"></span>[1](#fn_2) there beyond, and she was said to be the
+id="fr_2"></span>[1](#fn_2.md) there beyond, and she was said to be the
 handsomest girl in Ireland.' She died young because the gods loved
 
 <span id="page_45">p. 45</span>
@@ -300,9 +300,9 @@ they were more picturesque than my memory of them.
 
 ### Footnotes
 
-<span id="fn_2"></span>[44:1](twi08.htm#fr_2) A 'pattern,' or 'patron,'
+<span id="fn_2"></span>[44:1](twi08.htm#fr_2.md) A 'pattern,' or 'patron,'
 is a festival in honour of a saint.
 
 ------------------------------------------------------------------------
 
-[Next: A Knight Of The Sheep](twi09)
+[Next: A Knight Of The Sheep](twi09.md)

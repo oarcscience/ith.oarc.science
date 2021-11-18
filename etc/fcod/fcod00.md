@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Next](fcod01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Next](fcod01.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Forword](fcod01)
+[Next: Forword](fcod01.md)

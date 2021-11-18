@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo55)  [Next](sdo57) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo55)  [Next](sdo57.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ spirit land of the Lakota.
 
 ------------------------------------------------------------------------
 
-[Next: The Number Four](sdo57)
+[Next: The Number Four](sdo57.md)

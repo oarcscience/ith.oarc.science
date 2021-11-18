@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai21)  [Next](tai23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai21)  [Next](tai23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -32,14 +32,14 @@ ballad metre. Examples of such perfect lines are
 <span id="img__04000"></span>
 
 [![](tn/_04000.jpg)  
-Click to enlarge](img/_04000.jpg)
+Click to enlarge](img/_04000.jpg.md)
 
 <span id="page_xli">p. xli</span>
 
 <span id="img__04100"></span>
 
 [![](tn/_04100.jpg)  
-Click to enlarge](img/_04100.jpg)
+Click to enlarge](img/_04100.jpg.md)
 
 To analyse the metre in full would betray me into a discussion, too long
 for this introduction; and I rather doubt whether it would be
@@ -69,4 +69,4 @@ license.
 
 ------------------------------------------------------------------------
 
-[Next: Style and Authorship](tai23)
+[Next: Style and Authorship](tai23.md)

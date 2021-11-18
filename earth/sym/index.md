@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Utopia](../../utopia/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Utopia](../../utopia/index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,8 +22,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sym00)    [Page
-Index](pageidx)    [Text \[Zipped\]](sym.txt.gz)
+[Contents](#contents)    [Start Reading](sym00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](sym.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -57,8 +57,8 @@ Earth contained a set of nested hollow spheres. Symme's theory, and this
 book in particular, was likely one of Poe's primary influences,
 particularly seen in his Narrative of Arthur Gordon Pym. The rumor of a
 hidden advanced civilization inside the earth has long been elaborated
-in fictional and occult books from [Bulwer-Lytton](../../atl/vril/index)
-to the [the Shaver Mystery](../../ufo/irl/index).
+in fictional and occult books from [Bulwer-Lytton](../../atl/vril/index.md)
+to the [the Shaver Mystery](../../ufo/irl/index.md).
 
 PRODUCTION NOTES: Published in 1820 and only reprinted once in 1965,
 this book is almost impossible to obtain. I searched for years for a
@@ -68,27 +68,27 @@ etext.--<span class="small">J.B. Hare, December 8, 2008.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sym00)  
-[Sectional View of the Earth Showing the Openings at the Poles](sym01)  
-[Advertisement](sym02)  
-[Contents](sym03)  
-[Chapter I](sym04)  
-[Chapter II](sym05)  
-[Chapter III](sym06)  
-[Chapter IV](sym07)  
-[Chapter V](sym08)  
-[Chapter VI](sym09)  
-[Chapter VII](sym10)  
-[Chapter VIII](sym11)  
-[Chapter IX](sym12)  
-[Chapter X](sym13)  
-[Chapter XI](sym14)  
-[Chapter XII](sym15)  
-[Chapter XIII](sym16)  
-[Chapter XIV](sym17)  
-[Chapter XV](sym18)  
-[Chapter XVI](sym19)  
-[Chapter XVII](sym20)  
-[Chapter XVIII](sym21)  
-[Chapter XIX](sym22)  
-[Chapter XX](sym23)  
+<span id="contents"></span> [Title Page](sym00.md)  
+[Sectional View of the Earth Showing the Openings at the Poles](sym01.md)  
+[Advertisement](sym02.md)  
+[Contents](sym03.md)  
+[Chapter I](sym04.md)  
+[Chapter II](sym05.md)  
+[Chapter III](sym06.md)  
+[Chapter IV](sym07.md)  
+[Chapter V](sym08.md)  
+[Chapter VI](sym09.md)  
+[Chapter VII](sym10.md)  
+[Chapter VIII](sym11.md)  
+[Chapter IX](sym12.md)  
+[Chapter X](sym13.md)  
+[Chapter XI](sym14.md)  
+[Chapter XII](sym15.md)  
+[Chapter XIII](sym16.md)  
+[Chapter XIV](sym17.md)  
+[Chapter XV](sym18.md)  
+[Chapter XVI](sym19.md)  
+[Chapter XVII](sym20.md)  
+[Chapter XVIII](sym21.md)  
+[Chapter XIX](sym22.md)  
+[Chapter XX](sym23.md)  

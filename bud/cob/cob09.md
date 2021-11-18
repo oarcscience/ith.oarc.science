@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cob08)  [Next](cob10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cob08)  [Next](cob10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Buddha*, by Edmond Holmes, \[1919\], at Intangible Textual
 Heritage
 
@@ -410,10 +410,10 @@ the life beyond death, into the unimaginable bliss of Nirvâna, is
 repelled as impertinent and delusive, and every form that it takes is
 condemned as a "heresy." The discourse ends with these words:
 "Mendicants \[Monks\], that which binds the Teacher <span
-id="fr_37"></span>[1](#fn_36) \[the Saint, the Perfect One\] to
+id="fr_37"></span>[1](#fn_36.md) \[the Saint, the Perfect One\] to
 existence is cut off; but his body still remains. While his body shall
 remain he will be seen by gods and men, but after the dissolution of the
-body, neither gods <span id="fr_38"></span>[2](#fn_37) nor men will see
+body, neither gods <span id="fr_38"></span>[2](#fn_37.md) nor men will see
 him." "Would it be possible," asks Dr Rhys Davids, "in a more complete
 and categorical manner to deny that there
 
@@ -526,7 +526,7 @@ held responsible for what A has done or left undone; and in his attempt
 to make good this point he has to admit (or rather insist) that the
 relation between A and B is exactly analogous to that between a "young
 girl" and the same girl "when grown-up and marriageable." <span
-id="fr_39"></span>[1](#fn_38)
+id="fr_39"></span>[1](#fn_38.md)
 
 <span id="page_175">p. 175</span>
 
@@ -842,7 +842,7 @@ contend that Buddha's teaching was ultra-stoical, in that he bade men do
 right for right's sake only, the sole reward which the doer was allowed
 to look forward to being the enjoyment of inward peace during that
 twilight hour which should precede the final extinction of his
-life. <span id="fr_40"></span>[1](#fn_39) Others, including the critics
+life. <span id="fr_40"></span>[1](#fn_39.md) Others, including the critics
 who seek to depreciate Buddhism in the supposed interest of
 Christianity, contend that Buddha was an egoistic hedonist, who taught
 each man in turn to think of himself and his own welfare only, and whose
@@ -1151,7 +1151,7 @@ last he would attain to absolute reality. For the perceptible world, as
 Buddha conceived of it, is the world of dreams and shadows; and it is
 therefore clear that, until the Perfect One has passed, wholly and
 irrevocably, beyond the horizon of perception, <span
-id="fr_41"></span>[1](#fn_40) he has not found rest in the Real.
+id="fr_41"></span>[1](#fn_40.md) he has not found rest in the Real.
 
 Let us now attempt, in defiance of Buddha's express prohibition, to
 penetrate the mystery of Nirvâna. The mystery is, in a sense, final. The
@@ -1161,7 +1161,7 @@ that state, is wholly gratuitous. Not a word is said in any of the
 passages with which the students of Buddhism have made us familiar,
 which might seem to suggest that the Nirvânic state ends with the death
 of the Perfect One's body, or that there is any state of existence (or
-non-existence) beyond it. <span id="fr_42"></span>[2](#fn_41) That
+non-existence) beyond it. <span id="fr_42"></span>[2](#fn_41.md) That
 Buddha, who turned the prying mind
 
 <span id="page_197">p. 197</span>
@@ -1339,7 +1339,7 @@ the destiny and the duty of man.
 
 ### Footnotes
 
-<span id="fn_36"></span>[170:1](cob09.htm#fr_37) The Pâli word
+<span id="fn_36"></span>[170:1](cob09.htm#fr_37.md) The Pâli word
 "Tathâgata" is translated by Dr Oldenberg as "The Perfect One," by Dr
 Rhys Davids as "The Teacher," and by Mr H. C. Warren (in the dialogue
 between Yamaka and Sâriputta) as "The Saint." The derivation of the word
@@ -1347,26 +1347,26 @@ is, I believe, doubtful; but its meaning is clear. The Tathâgata is one
 who has followed the Path to its goal, and has thus won deliverance from
 earth and found his true self.
 
-<span id="fn_37"></span>[170:2](cob09.htm#fr_38) The "gods" of Indian
+<span id="fn_37"></span>[170:2](cob09.htm#fr_38.md) The "gods" of Indian
 belief are beings who dwell on a higher plane than man and have reached
 a higher level of spiritual development, but they are not divine in the
 deeper sense of the word. The gods themselves envy the man who has
 attained to Nirvâna.
 
-<span id="fn_38"></span>[174:1](cob09.htm#fr_39) See footnote to [p.
-142](cob08.htm#page_142).
+<span id="fn_38"></span>[174:1](cob09.htm#fr_39.md) See footnote to [p.
+142](cob08.htm#page_142.md).
 
-<span id="fn_39"></span>[185:1](cob09.htm#fr_40) An event which his own
+<span id="fn_39"></span>[185:1](cob09.htm#fr_40.md) An event which his own
 right-doing would have greatly accelerated.
 
-<span id="fn_40"></span>[196:1](cob09.htm#fr_41) It is scarcely
+<span id="fn_40"></span>[196:1](cob09.htm#fr_41.md) It is scarcely
 necessary for me to say that throughout this book such words as
 *perception*, *consciousness*, *thought* and the like are used in the
 sense which popular usage has fixed and sanctioned. The Perfect One is
 imperceptible, in the sense which the word ordinarily bears, but he is
 no doubt perceptible, even in Nirvâna,--by his peers.
 
-<span id="fn_41"></span>[196:2](cob09.htm#fr_42) I do not wish to
+<span id="fn_41"></span>[196:2](cob09.htm#fr_42.md) I do not wish to
 suggest that Buddha himself regarded <span id="page_197">p. 197</span>
 the Nirvânic state as final. That there are heights beyond the loftiest
 and remotest heights that man can dream of winning, will be taken for
@@ -1381,4 +1381,4 @@ horizon.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Bankruptcy of Western Thought](cob10)
+[Next: Chapter VIII. The Bankruptcy of Western Thought](cob10.md)

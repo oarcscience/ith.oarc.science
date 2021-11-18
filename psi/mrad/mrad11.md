@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad10)  [Next](mrad12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad10)  [Next](mrad12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -28,22 +28,22 @@ into a sheep or a donkey. When I draw a monkey climbing a tree, and
 Craig says, "Buffalo or lion, tiger—wild animal"—I have to admit that
 may be so; likewise when my limb of a tree is called a "trumpet," or
 when Craig's "wild animal" resembles a chorus girl's legs. I will let
-you see those particular drawings. [Figure 24](#img_fig024) is mine,
-while [24a and 24b](#img_fig024a) are my wife's.
+you see those particular drawings. [Figure 24](#img_fig024.md) is mine,
+while [24a and 24b](#img_fig024a.md) are my wife's.
 
-<span id="img_fig024"></span> ![Fig. 24](img/fig024.jpg)
+<span id="img_fig024"></span> ![Fig. 24](img/fig024.jpg.md)
 
 <span id="page_83">p. 83</span>
 
-<span id="img_fig024a"></span> ![Fig. 24a, Fig. 24b](img/fig024a.jpg)
+<span id="img_fig024a"></span> ![Fig. 24a, Fig. 24b](img/fig024a.jpg.md)
 
 Again, I draw a volcano in eruption, and my wife calls it a black
 beetle, which hardly sounds like a triumphant success; but study the
 drawings, and you see that my black smoke happens to be the shape of a
 beetle, while the two sides of the volcano serve very well for the long
-feelers of an insect ([fig. 25, 25a](#img_fig025)):
+feelers of an insect ([fig. 25, 25a](#img_fig025).md):
 
-<span id="img_fig025"></span> ![Fig. 25 Fig. 25a](img/fig025.jpg)
+<span id="img_fig025"></span> ![Fig. 25 Fig. 25a](img/fig025.jpg.md)
 
 The tests began with four series of drawings, 38 in all, made by my
 secretary. Following these were 31 series drawn by myself, comprising
@@ -62,7 +62,7 @@ stimulation; enough light to see everything plainly. When she had what
 she judged was the right image, she would take a pad and pencil and make
 the drawing or write the description of what she "saw." Then she would
 open the envelope and compare the two drawings, and number both for
-[identification](errata.htm#0).
+[identification](errata.htm#0.md).
 
 This recording was, of course, an interruption of her passive state, and
 made the task difficult. In a few cases she repeated a number or forgot
@@ -119,4 +119,4 @@ these experiments with rigid conscientiousness.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](mrad12)
+[Next: Chapter XI](mrad12.md)

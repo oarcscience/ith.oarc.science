@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip16)  [Next](fip18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip16)  [Next](fip18.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ That moves where the tramp of the host is loudest.
                   Shuheen, sho, lulo lo!
 
 Rest thee, babe! for soon thy slumbers  
-Shall flee at the magic koelshie's <span id="fr_6"></span>[1](#fn_6)
+Shall flee at the magic koelshie's <span id="fr_6"></span>[1](#fn_6.md)
 numbers;  
 In airy bower I'll watch thy sleeping,  
 Where branchy trees to the breeze are sweeping.  
@@ -48,10 +48,10 @@ Where branchy trees to the breeze are sweeping.
 
 ### Footnotes
 
-<span id="fn_6"></span>[51:1](fip17.htm#fr_6) Ceól-sidhe--*i.e.*, fairy
+<span id="fn_6"></span>[51:1](fip17.htm#fr_6.md) Ceól-sidhe--*i.e.*, fairy
 music.
 
 ------------------------------------------------------------------------
 
 [Next: Jamie Freel and the Young Lady, A Donegal Tale, by Miss Letitia
-Maclintock](fip18)
+Maclintock](fip18.md)

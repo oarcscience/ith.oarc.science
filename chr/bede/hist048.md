@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist047) 
-[Next](hist049) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist047.md) 
+[Next](hist049.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -148,4 +148,4 @@ His eternal kingdom in heaven."
 
 [Next: XIII. Of the Council he held with his chief men concerning their
 reception of the faith of Christ, and how the high priest profaned his
-own altars. \[627 A.D.\]](hist049)
+own altars. \[627 A.D.\]](hist049.md)

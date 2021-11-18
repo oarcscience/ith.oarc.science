@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index)  [Zoroastrianism](../index)
+[Sacred-Texts](../../index)  [Zoroastrianism](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ East, Volume VII: Ancient Persia*, ed. Charles F. Horne, Ph.D.,
 copyright 1917. Scanned (from a photocopy), proofread, and marked up by
 Chris Weimer in February 2002. It was paired in that book with another
 'historical romance', [The Karnamik-i-Artakhshir or Records of
-Artakhshir](https://www.avesta.org/pahlavi/karname) (located at
+Artakhshir](https://www.avesta.org/pahlavi/karname.md) (located at
 avesta.org).
 
 All footnotes have been embedded into the text within braces and in a

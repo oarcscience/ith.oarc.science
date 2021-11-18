@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw13) 
-[Next](wbw15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw13.md) 
+[Next](wbw15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -180,6 +180,6 @@ and small. Let us come our ways."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: The Slaying Of The Quarry](wbw15)
+[Next: Chapter XV: The Slaying Of The Quarry](wbw15.md)
 
 </div>

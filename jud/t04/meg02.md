@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](meg01)  [Next](meg03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](meg01)  [Next](meg03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ on the 15th of the month Adar, neither earlier nor later. Cities which,
 from the time of Joshua the son of Nun, were surrounded with walls, read
 it on the 15th. Villages and large open towns should read it on the
 14th, and inhabitants of villages may read it in advance on the day of
-assembly. <span id="fr_0"></span>[1](#fn_0) How is this to be
+assembly. <span id="fr_0"></span>[1](#fn_0.md) How is this to be
 understood? When the 14th fell on Monday, inhabitants of villages and of
 large open towns used to read it on that day, and those of walled cities
 on the day following. When it fell on Tuesday or Wednesday, the
@@ -108,7 +108,7 @@ on the 15th. But perhaps the inhabitants of unwalled towns read on the
 they not Israelites? And furthermore, it is written \[ibid. 30\]: "And
 he sent letters unto all the Jews, to the hundred and twenty-seven
 provinces of the kingdom of Ahasuerus," <span
-id="fr_1"></span>[1](#fn_1) and that means all Israel? But perhaps it
+id="fr_1"></span>[1](#fn_1.md) and that means all Israel? But perhaps it
 means the inhabitants of open towns should read on the 14th only, and
 those of walled towns should read on both the 14th and I 5th, as it is
 written \[ibid. 21\]: "To take it on themselves as a duty that they
@@ -160,7 +160,7 @@ round), which were chased through the tables of Moses, were held in only
 by a miracle? This is so, but it was not before known which letter must
 be in the middle of the word and which at the end; and the prophets
 ordained that the open one should be at the middle and the closed one
-final. <span id="fr_2"></span>[1](#fn_2) But even that much had they
+final. <span id="fr_2"></span>[1](#fn_2.md) But even that much had they
 then the right to do? Therefore we must say that it was forgotten and
 the prophets only restored them. The same
 
@@ -252,7 +252,7 @@ afterward it was walled. He says again: A city where there are not ten
 
 <span id="page_7">p. 7</span>
 
-unemployed men <span id="fr_3"></span>[1](#fn_3) who devote all their
+unemployed men <span id="fr_3"></span>[1](#fn_3.md) who devote all their
 time to the study of the Law must be considered as a village. What does
 he come to teach us? Did we not learn this in the following Mishna: What
 is called a great city? If there are ten unemployed men and less than
@@ -449,13 +449,13 @@ b. Nun.
 R. Johanan said: When I was a child I said a thing, and afterward the
 elders were asked, and it was found that I was right; namely, Hammath,
 that is, Tiberia. And why is it called in the Bible Hammath? Because of
-the hot springs that are in Tiberia. <span id="fr_4"></span>[1](#fn_4)
+the hot springs that are in Tiberia. <span id="fr_4"></span>[1](#fn_4.md)
 Rakkath is Ziporith, but why is it called in the Bible Rakkath? Because
 it is situated on the summit of a mountain, as the banks of a river are
-more elevated than the river. <span id="fr_5"></span>[2](#fn_5)
+more elevated than the river. <span id="fr_5"></span>[2](#fn_5.md)
 Kinereth, that is, Genoser; but why is it called Kinereth? Because the
 fruit of this city is agreeable as the sound of a violin. <span
-id="fr_6"></span>[3](#fn_6) Said Rabha: Is it possible a man exists who
+id="fr_6"></span>[3](#fn_6.md) Said Rabha: Is it possible a man exists who
 says that Rakkath is not Tiberia? It is known to us that if a great man
 dies here in Babylon, they in Tiberia, in the funeral oration, say thus:
 The man was great in Sheshakh (Babylon,--Rashi explains this because
@@ -470,15 +470,15 @@ Babylon. And when R. Zera died, in the lamentation was mentioned Rakkath
 (see Moed Katan, p. 44.) Therefore said Rabha: Hammath means
 Hammei-Grar, Rakkath is Tiberia, Kinereth is Genoser. And why is it
 called Rakkath? Because even the common men there are full of religious
-merits as a pomegranate. <span id="fr_7"></span>[1](#fn_7)
+merits as a pomegranate. <span id="fr_7"></span>[1](#fn_7.md)
 
 R. Jose bar Hanina said: It is written \[Zechariah, ix. 7\]: "And I will
 remove their blood out of their mouth, and their abominations from
 between their teeth; and their land also shall be left for our God." I
 will remove their blood out of their mouth,--that means, their *Beth
-Bamia*; <span id="fr_8"></span>[2](#fn_8) "and their abominations from
+Bamia*; <span id="fr_8"></span>[2](#fn_8.md) "and their abominations from
 between their teeth"--that is, their *Beth Galia*; <span
-id="fr_9"></span>[2](#fn_8) "and the land also will be left to our God"
+id="fr_9"></span>[2](#fn_8.md) "and the land also will be left to our God"
 means, the houses of prayer and of learning which are in Edom (meaning
 Rome); "and it shall be as a prince's dwelling in Judah, and Ekron shall
 be like Jebusi"--that means the theatres and circuses which were in
@@ -610,7 +610,7 @@ Persia." Rabh and R. Hanina, R. Johanan and R. Habiba (see Sukka, page
 5), taught: Esther sent to the sages: "Write about me for later
 generations." And they answered to her: It is written \[Prov. xxii.
 20\]: "Have I not written for thee thrice?" <span
-id="fr_10"></span>[1](#fn_9) (thrice means, three times shall be
+id="fr_10"></span>[1](#fn_9.md) (thrice means, three times shall be
 mentioned in the Torah the war with Amalek--in Exodus, in Deuteronomy,
 and in I. Samuel): only thrice, and not four times. Finally, they found
 a passage in the Pentateuch \[Ex. xvii. 14\]: "Write this for a memorial
@@ -657,7 +657,7 @@ of the verse): "Nor will their memorial cease from their seed."
 "Sending portions one to another." "Portions" in plural--two portions
 should be sent to one man; "and gifts to the needy"--needy is in plural:
 that means, no less than two portions to two men. R. Jehudah the
-Second <span id="fr_11"></span>[1](#fn_10) sent to R. Oshyia a leg of a
+Second <span id="fr_11"></span>[1](#fn_10.md) sent to R. Oshyia a leg of a
 third-born calf and a pitcher of wine, and the latter sent to him the
 message: "The Master has confirmed both duties to send portions one to
 another; and to give gifts to the needy." Rabha sent to Mari bar Mar
@@ -763,7 +763,7 @@ tenth of the ephah of flour(which the real high-priest alone might
 offer).
 
 There is no difference between a large high place <span
-id="fr_12"></span>[1](#fn_11) and a small one, except the Paschal
+id="fr_12"></span>[1](#fn_11.md) and a small one, except the Paschal
 offering. This is the rule: All offerings which are brought in
 consequence of vows, and all peace-offerings, may be offered on a small
 high place, but not sacrifices of another kind.
@@ -812,7 +812,7 @@ originally.
 What is meant, if the Targum was written in the original characters? If
 in the Torah, it is right. The words "Yegar Sahadutha" \[Gen. xxxi. 47\]
 are Aramaic; but what Aramaic words are in the Thephilin? Therefore we
-must answer the [contradiction](errata.htm#17) thus: The Boraitha refers
+must answer the [contradiction](errata.htm#17.md) thus: The Boraitha refers
 to the Book of Esther. Why must it not be written in other languages?
 Because it is written \[Esther, viii. 9\]: "According to their writing,
 and according to their language." But what Aramaic words are in the Book
@@ -977,7 +977,7 @@ rejoice, but He makes others rejoice. And it seems to be
 <span id="page_24">p. 24</span>
 
 so, because it is not written: "As *he* rejoiced," etc., "so will he
-rejoice" (others). <span id="fr_13"></span>[1](#fn_12)
+rejoice" (others). <span id="fr_13"></span>[1](#fn_12.md)
 
 R. Abba bar Kahana began his lecture with this passage \[Ecc. ii. 26\]:
 "For to a man who is good in His presence He giveth wisdom and knowledge
@@ -1072,7 +1072,7 @@ R. Levi said: From this verse \[Num. xxxiii. 55\], and R. Hyya from
 ibid. 56. (What they lectured is unknown.)
 
 "*Ahasuerus*." Said Rabh: He was the brother of a head <span
-id="fr_14"></span>[1](#fn_13) and the companion of a head. "The brother
+id="fr_14"></span>[1](#fn_13.md) and the companion of a head. "The brother
 of a head," *i.e.*, brother of Nebuchadnezzar the wicked, who was called
 "head," as it is written \[Daniel, ii. 38\]: "Thou art the head of
 gold." "And the companion of a head"--what Nebuchadnezzar did, *he*
@@ -1080,7 +1080,7 @@ intended to do. Nebuchadnezzar killed, *he* intended; Nebuchadnezzar
 destroyed, *he* had the intention. As it is written \[Ezra, iv.\]: "In
 the beginning of the reign of Ahasuerus, they wrote slanders on the
 inhabitants of Judea and Jerusalem." Samuel said: Ahasuerus signifies
-"black," <span id="fr_15"></span>[2](#fn_14) *i.e.*, in his time the
+"black," <span id="fr_15"></span>[2](#fn_14.md) *i.e.*, in his time the
 faces of the Jews were black as the bottoms of pots. R. Johanan says:
 Ahasuerus signifies "woe to his head" (*ah, rosh*); and R. Hanina says
 it signifies "poor" (*rash*)--his taxes were so heavy that men became
@@ -1123,7 +1123,7 @@ a king to the end of his life.
 This is right, according to those who hold he was first a king and then
 a common man; but according to those who say he was a king, a common
 man, and then again a king, what can be said? Solomon is different. He
-reigned over the beings above <span id="fr_16"></span>[1](#fn_15) and
+reigned over the beings above <span id="fr_16"></span>[1](#fn_15.md) and
 below, as it is written \[I Chron. xxix. 23\]: "Solomon sat on the
 throne of the Lord." (He is not reckoned with them.) But there is
 Sennacherib? As it is written \[Is. xxxvi. 19\]: "Which of all the gods
@@ -1224,7 +1224,7 @@ he was so wroth.
 
 "Then said Memuchan." We have learned in a Boraitha: Memuchan was Haman.
 Why was he called Memuchan? Because he was *destined* <span
-id="fr_17"></span>[1](#fn_16) for the troubles that befell him
+id="fr_17"></span>[1](#fn_16.md) for the troubles that befell him
 afterwards. R. Kahana said: From this we see that usually an ignorant
 man comes forward first (as he is mentioned last in verse 14).
 
@@ -1253,10 +1253,10 @@ it have been traced to Benjamin; otherwise, why were the first three of
 his ancestors mentioned? In a Boraitha it is explained that all the
 three names are not those of his ancestors, but are his own. The son of
 Yair, *i.e.*, the man who made the eyes of the Jews *light* <span
-id="fr_18"></span>[1](#fn_17) with his prayer; the son of Shimi, the man
-whose prayer God *heard*; <span id="fr_19"></span>[1](#fn_17) the son of
+id="fr_18"></span>[1](#fn_17.md) with his prayer; the son of Shimi, the man
+whose prayer God *heard*; <span id="fr_19"></span>[1](#fn_17.md) the son of
 Kish, *i.e.*, the man who *knocked* on the gates of *Mercy, and they*
-were opened to him. <span id="fr_20"></span>[1](#fn_17) Said R. Na'hman:
+were opened to him. <span id="fr_20"></span>[1](#fn_17.md) Said R. Na'hman:
 Mordecai was crowned with these fair names. It is written, "a Judean
 man," and then, "a Benjamite." Which was he? Said Rabba bar bar Hana in
 the name of R. Joshua b. Levi: His father was a Benjamite and his mother
@@ -1292,20 +1292,20 @@ She went to cleanse herself of the idolatries of her father's house.
 "Bore Jered." Did she bear him--she only reared him? From this we may
 infer that whoso rears an orphan is the same as if she bore him.
 Jered--that is, Moses. Why is he called Jered? Because in his day manna
-*descended* <span id="fr_21"></span>[1](#fn_18) from heaven to Israel.
-"Gedor," <span id="fr_22"></span>[1](#fn_18) *i.e.*, he fenced up the
-breaches of Israel. "Cheber," <span id="fr_23"></span>[1](#fn_18)
+*descended* <span id="fr_21"></span>[1](#fn_18.md) from heaven to Israel.
+"Gedor," <span id="fr_22"></span>[1](#fn_18.md) *i.e.*, he fenced up the
+breaches of Israel. "Cheber," <span id="fr_23"></span>[1](#fn_18.md)
 *i.e.*, he *joined* the Israelites to their Heavenly Father. "Socho"
- <span id="fr_24"></span>[1](#fn_18)--he was to Israel as a tabernacle
+ <span id="fr_24"></span>[1](#fn_18.md)--he was to Israel as a tabernacle
 (protection). "Jekuthiel"--the Israelites *hoped* to God in his
-days. <span id="fr_25"></span>[2](#fn_19) Zanoach," *i.e.*, he
-*abandoned* <span id="fr_26"></span>[2](#fn_19) or atoned for the sins
+days. <span id="fr_25"></span>[2](#fn_19.md) Zanoach," *i.e.*, he
+*abandoned* <span id="fr_26"></span>[2](#fn_19.md) or atoned for the sins
 of Israel in his days. It is written three times "Abi" (father), *i.e.*,
 he was the father of Torah, the father of Wisdom, and the father of
 Prophets. And these are the sons of Bithya the daughter of Pharaoh, whom
 Meret had taken. Was, then, his name Meret--it is known that his name
 was Kaleb? The Holy One, blessed be He, said: "Kaleb, who
-*rebelled* <span id="fr_27"></span>[2](#fn_19) against the advice of the
+*rebelled* <span id="fr_27"></span>[2](#fn_19.md) against the advice of the
 spies, shall take the daughter of Pharaoh, who had rebelled against the
 idolatries of her father."
 
@@ -1316,9 +1316,9 @@ Rabha: He had not been exiled, but came by his own will.
 Esther? We have learned in a Boraitha, R. Meir said: Her right name was
 Esther, but she was called Hadassah, because the upright are called
 thus, as it is written \[Zechariah, i. 8\]: "He was standing among the
-*myrtle*-trees." <span id="fr_28"></span>[2](#fn_19) R. Jehudah said:
+*myrtle*-trees." <span id="fr_28"></span>[2](#fn_19.md) R. Jehudah said:
 Her right name was Hadassa. Why was she called Esther? Because she
-*concealed* <span id="fr_29"></span>[2](#fn_19) her words, as it is
+*concealed* <span id="fr_29"></span>[2](#fn_19.md) her words, as it is
 written \[ii. 10\]:
 
 <span id="page_32">p. 32</span>
@@ -1438,7 +1438,7 @@ people, all are the same, no one observes. And if thou shouldst think I
 shall leave a void in thy kingdom, thou must know that they are
 scattered among all nations, and their extermination will not be
 perceptible. And perhaps thou wilt say, thou derivest a benefit from
-them. Know that they are like mules, <span id="fr_30"></span>[1](#fn_20)
+them. Know that they are like mules, <span id="fr_30"></span>[1](#fn_20.md)
 that are unproductive. And if thou shouldst imagine there is one country
 in which they dwell together, know that they are scattered in *all* the
 provinces of thy kingdom.
@@ -1535,11 +1535,11 @@ were anointed with a flask, their dynasties did not last.
 Jehudah b. Menassia: 'Do not read ‏בלתך‎, but ‏לבלותך‎, because not as a
 human being is the Holy One, blessed be He: a human being is survived by
 his own work, but God survives all His works. <span
-id="fr_31"></span>[1](#fn_21)
+id="fr_31"></span>[1](#fn_21.md)
 
 "There is not any rock like our God," *i.e.*, there is no sculptor like
 our God. Do not read ‏עור‎ (rock), but ‏צייר‎: <span
-id="fr_32"></span>[2](#fn_22) a man makes a statue, and cannot endow it
+id="fr_32"></span>[2](#fn_22.md) a man makes a statue, and cannot endow it
 with a soul; but the Holy One, blessed be He, makes an image within an
 image, and endows it with a soul and life, entrails, etc.
 
@@ -1551,11 +1551,11 @@ good unto my lord." She prophesied that he would be king.
 Huldah, as it is said \[II Kings, xxii. 14\]: "Huldah the prophetess."
 
 And Esther, because it is written \[Esther, v. 7\]: "Esther put on
-royalty." <span id="fr_33"></span>[1](#fn_23) It should be written,
+royalty." <span id="fr_33"></span>[1](#fn_23.md) It should be written,
 "royal apparel"? That means, she clothed herself in the Holy Spirit, and
 this is inferred from an analogy of expression; here it is written, "she
 put on," and in I Chron. xii. 18, "a spirit invested <span
-id="fr_34"></span>[2](#fn_24) Amassoi." As there the Holy Spirit is
+id="fr_34"></span>[2](#fn_24.md) Amassoi." As there the Holy Spirit is
 meant, so here.
 
 Said R. Na'hman: Pride does not become women. Two women were proud, and
@@ -1570,16 +1570,16 @@ What had been done? Said Rabh: That Haman had persuaded Ahasuerus.
 
 "Then called Esther for Hathach Said Rabh: Hathach is Daniel. Why was he
 called Hathach? Because he was *cut* from, or deprived of, his
-office. <span id="fr_35"></span>[3](#fn_25) Samuel says: On the
+office. <span id="fr_35"></span>[3](#fn_25.md) Samuel says: On the
 contrary, he had the office, but he was called Hathach because all laws
-were *decided* <span id="fr_36"></span>[4](#fn_26) by him.
+were *decided* <span id="fr_36"></span>[4](#fn_26.md) by him.
 
 "And they told Mordecai the words of Esther" \[12\]. But he went not
 himself to her? From this is inferred that an evil tiding must not be
 brought personally.
 
 "And Mordecai went about" \[17\]. Said Rabh: What is meant by "went
-about"? He transgressed <span id="fr_37"></span>[5](#fn_27) by fasting
+about"? He transgressed <span id="fr_37"></span>[5](#fn_27.md) by fasting
 on the first day of Passover; he fasted three days, and the third was
 Pesach. And Samuel says: It means "he passed." There was a piece of
 water between the court and Shushan, and he crossed it.
@@ -1796,7 +1796,7 @@ apparel of blue and white, and with a great crown of gold, and with a
 cloak of fine linen and purple."
 
 "And he fell upon his brother Benjamin's neck <span
-id="fr_38"></span>[1](#fn_28) . . ." \[Gen. xlv. 14\]: "How many necks
+id="fr_38"></span>[1](#fn_28.md) . . ." \[Gen. xlv. 14\]: "How many necks
 had he--he had only one? He wept for the two Temples, that would be
 situated in Benjamin's land, and would be destroyed. "And Benjamin wept
 upon his neck." He wept for the Tabernacle of Shiloh, that would be in
@@ -1872,111 +1872,111 @@ Said Rabha in the name of R. Itz'hak b. Samuel the son of Martha: The
 study of the Law is more important than the honoring of the parents; for
 in all the years that Jacob passed with Shem and Eber and studied the
 Law, he was not chastised for failing during that time to honor his
-father and his mother. <span id="fr_39"></span>[1](#fn_29)
+father and his mother. <span id="fr_39"></span>[1](#fn_29.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](meg02.htm#fr_0) In the time of the Mishna
+<span id="fn_0"></span>[1:1](meg02.htm#fr_0.md) In the time of the Mishna
 the tribunals of justice kept the courts open on Mondays or Thursdays
 for the sake of the men who came to the markets, which were usually on
 these days. The reading of the Holy Scrolls in the synagogues was also
 on these days, and therefore they were called "days of assembly."
 
-<span id="fn_1"></span>[3:1](meg02.htm#fr_1) The text says it is written
+<span id="fn_1"></span>[3:1](meg02.htm#fr_1.md) The text says it is written
 "from India to Ethiopia" and refers to verse 9, chap. viii., but as
 there it is written not about the Book of Esther, we have cited the
 other verse.
 
-<span id="fn_2"></span>[4:1](meg02.htm#fr_2) The open one, *e.g.*, ‏מ‎;
+<span id="fn_2"></span>[4:1](meg02.htm#fr_2.md) The open one, *e.g.*, ‏מ‎;
 the closed one, as ‏ם‎, So also with the other letters.
 
-<span id="fn_3"></span>[7:1](meg02.htm#fr_3) The Hebrew term for this is
+<span id="fn_3"></span>[7:1](meg02.htm#fr_3.md) The Hebrew term for this is
 "Batlonim." The true meaning is that every city must hire ten persons
 who shall do nothing but study and pray.
 
-<span id="fn_4"></span>[11:1](meg02.htm#fr_4) *Ham* is in Hebrew *hot*.
+<span id="fn_4"></span>[11:1](meg02.htm#fr_4.md) *Ham* is in Hebrew *hot*.
 
-<span id="fn_5"></span>[11:2](meg02.htm#fr_5) *Rakkath* in Aramaic means
+<span id="fn_5"></span>[11:2](meg02.htm#fr_5.md) *Rakkath* in Aramaic means
 the bank of a river.
 
-<span id="fn_6"></span>[11:3](meg02.htm#fr_6) *Kinor* is a violin.
+<span id="fn_6"></span>[11:3](meg02.htm#fr_6.md) *Kinor* is a violin.
 
-<span id="fn_7"></span>[12:1](meg02.htm#fr_7) *Rek* is in Hebrew *empty,
+<span id="fn_7"></span>[12:1](meg02.htm#fr_7.md) *Rek* is in Hebrew *empty,
 idle*.
 
-<span id="fn_8"></span>[12:2](meg02.htm#fr_9) Places for the worship of
+<span id="fn_8"></span>[12:2](meg02.htm#fr_9.md) Places for the worship of
 idols in Rome.
 
-<span id="fn_9"></span>[15:1](meg02.htm#fr_10) The expression is
+<span id="fn_9"></span>[15:1](meg02.htm#fr_10.md) The expression is
 *Shalishim*, which the Talmud translates literally, "thrice"--though in
 Leeser it is different.
 
-<span id="fn_10"></span>[16:1](meg02.htm#fr_11) We doubt whether it was
+<span id="fn_10"></span>[16:1](meg02.htm#fr_11.md) We doubt whether it was
 the second or the third, as there were also two Oshyias, one in the time
 of the second and one in the time of the third. See Seder Hadoroth,
 parag. Oshyia.
 
-<span id="fn_11"></span>[19:1](meg02.htm#fr_12) High places are the
+<span id="fn_11"></span>[19:1](meg02.htm#fr_12.md) High places are the
 public altars on which they used to sacrifice before the erection of the
 Temple at Jerusalem. Small places are altars of private persons.
 
-<span id="fn_12"></span>[24:1](meg02.htm#fr_13) The Hebrew is ‏ישיש‎,
+<span id="fn_12"></span>[24:1](meg02.htm#fr_13.md) The Hebrew is ‏ישיש‎,
 "he will make rejoice." "He will rejoice himself should have been
 ‏ישוש‎.
 
-<span id="fn_13"></span>[26:1](meg02.htm#fr_14) *Ah* is brother and
+<span id="fn_13"></span>[26:1](meg02.htm#fr_14.md) *Ah* is brother and
 *Ras* is head, and it is considered as composed of two words.
 
-<span id="fn_14"></span>[26:2](meg02.htm#fr_15) *Sha'hor* is "black."
+<span id="fn_14"></span>[26:2](meg02.htm#fr_15.md) *Sha'hor* is "black."
 
-<span id="fn_15"></span>[27:1](meg02.htm#fr_16) According to Rashi--"the
+<span id="fn_15"></span>[27:1](meg02.htm#fr_16.md) According to Rashi--"the
 demons."
 
-<span id="fn_16"></span>[29:1](meg02.htm#fr_17) *Muchan* in Hebrew is
+<span id="fn_16"></span>[29:1](meg02.htm#fr_17.md) *Muchan* in Hebrew is
 "prepared," "designed."
 
-<span id="fn_17"></span>[30:1](meg02.htm#fr_20) *Our* is "light,"
+<span id="fn_17"></span>[30:1](meg02.htm#fr_20.md) *Our* is "light,"
 *Shema* is "hear," *Kish* is "rap."
 
-<span id="fn_18"></span>[31:1](meg02.htm#fr_24) *Jarod* is "to descend";
+<span id="fn_18"></span>[31:1](meg02.htm#fr_24.md) *Jarod* is "to descend";
 *Geder*, "fence"; *Habor*, "join"; *Sukka*, a "protection."
 
-<span id="fn_19"></span>[31:2](meg02.htm#fr_29) *Jekan*, "hopes"; *El*,
+<span id="fn_19"></span>[31:2](meg02.htm#fr_29.md) *Jekan*, "hopes"; *El*,
 "God"; *Zanoach*, "abandon"; *Marod*, "rebel"; *Hadas*, "myrtles";
 *Haster*, "conceal."
 
-<span id="fn_20"></span>[34:1](meg02.htm#fr_30) "Separated", ‏מפורד‎;
+<span id="fn_20"></span>[34:1](meg02.htm#fr_30.md) "Separated", ‏מפורד‎;
 and ‏פרד‎ is "a mule."
 
-<span id="fn_21"></span>[36:1](meg02.htm#fr_31) ‏בלה‎ is "to rot, fade,
+<span id="fn_21"></span>[36:1](meg02.htm#fr_31.md) ‏בלה‎ is "to rot, fade,
 dwindle, wear out."
 
-<span id="fn_22"></span>[36:2](meg02.htm#fr_32) Which means "painter,
+<span id="fn_22"></span>[36:2](meg02.htm#fr_32.md) Which means "painter,
 sculptor."
 
-<span id="fn_23"></span>[37:1](meg02.htm#fr_33) In Hebrew it is so.
+<span id="fn_23"></span>[37:1](meg02.htm#fr_33.md) In Hebrew it is so.
 
-<span id="fn_24"></span>[37:2](meg02.htm#fr_34) In Hebrew it is the same
+<span id="fn_24"></span>[37:2](meg02.htm#fr_34.md) In Hebrew it is the same
 expression.
 
-<span id="fn_25"></span>[37:3](meg02.htm#fr_35) *Hathach*, "cut."
+<span id="fn_25"></span>[37:3](meg02.htm#fr_35.md) *Hathach*, "cut."
 
-<span id="fn_26"></span>[37:4](meg02.htm#fr_36) Which is in Hebrew
+<span id="fn_26"></span>[37:4](meg02.htm#fr_36.md) Which is in Hebrew
 expressed by cutting.
 
-<span id="fn_27"></span>[37:5](meg02.htm#fr_37) *Abor* has all these
+<span id="fn_27"></span>[37:5](meg02.htm#fr_37.md) *Abor* has all these
 meanings.
 
-<span id="fn_28"></span>[42:1](meg02.htm#fr_38) In the Hebrew text the
+<span id="fn_28"></span>[42:1](meg02.htm#fr_38.md) In the Hebrew text the
 plural is used.
 
-<span id="fn_29"></span>[44:1](meg02.htm#fr_39) The Gemara proceeds to
+<span id="fn_29"></span>[44:1](meg02.htm#fr_39.md) The Gemara proceeds to
 prove this by certain calculations of the ages of Ishmael, Itz'hak, and
 Jacob, deduced from scriptural passages; the proof being very flimsy and
 complicated, we have omitted it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](meg03)
+[Next: Chapter II](meg03.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc040) 
-[Next](motc042) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc040.md) 
+[Next](motc042.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ bird painted himself with it, and has ever since been a Redbird.
 ------------------------------------------------------------------------
 
 [Next: 42. The Pheasant Beating Corn; Origin Of The Pheasant
-Dance](motc042)
+Dance](motc042.md)

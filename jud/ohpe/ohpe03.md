@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](ohpe02)  [Next](ohpe04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](ohpe02)  [Next](ohpe04.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,4 +167,4 @@ Auflage ... herausgegeben von Dr. N. Brüll. Frankfurt a. M., 1892.
 ------------------------------------------------------------------------
 
 [Next: Ben Sira's Proverbs Preserved In Talmudic And Rabbinic
-Literature](ohpe04)
+Literature](ohpe04.md)

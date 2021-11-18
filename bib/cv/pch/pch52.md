@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch51) 
-[Next](pch53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch51.md) 
+[Next](pch53.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -34,14 +34,14 @@ the Gods they were held to have served. Menu, Lycurgus, Numa, Moses—a
 whole series of revered founders of codes and creeds—are as such
 dismissed by criticism to the realm of fable; for even those
 hierologists who still speak of Moses as a historic person, <span
-id="fr_1200"></span>[1](#fn_1200) and treat the Exodus as a historic
+id="fr_1200"></span>[1](#fn_1200.md) and treat the Exodus as a historic
 event, concede to Kuenen that the liberator wrote nothing, and can no
 more be supposed to have invented the Ten Commandments than did Romulus
 or Numa the Twelve Tables.
 
 Difficulty, indeed, is still made over the alleged personality of
 Zarathustra; but few who closely consider the evidence will say that it
-supports the claim. <span id="fr_1201"></span>[2](#fn_1201) If
+supports the claim. <span id="fr_1201"></span>[2](#fn_1201.md) If
 Zarathustra was a historical character, the proposition is not to be
 proved by the documents; and those who hold to the affirmative do so on
 the strength not of the records but of the tradition, and of the
@@ -108,12 +108,12 @@ we are led to ask whether the one is not as problematic as the other.
 
 ### Footnotes
 
-<span id="fn_1200"></span>[238:1](pch52.htm#fr_1200) So the late
+<span id="fn_1200"></span>[238:1](pch52.htm#fr_1200.md) So the late
 Professor Tiele, *Outlines*, p. 85.
 
-<span id="fn_1201"></span>[238:2](pch52.htm#fr_1201) See below, Part
+<span id="fn_1201"></span>[238:2](pch52.htm#fr_1201.md) See below, Part
 III, § 3.
 
 ------------------------------------------------------------------------
 
-[Next: § 8. The Problem of Buddhist Origins](pch53)
+[Next: § 8. The Problem of Buddhist Origins](pch53.md)

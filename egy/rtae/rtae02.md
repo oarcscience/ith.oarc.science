@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](rtae01)  [Next](rtae03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](rtae01)  [Next](rtae03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Development of Religion and Thought in Ancient Egypt*, by James Henry
 Breasted, \[1912\], at Intangible Textual Heritage
 
@@ -49,4 +49,4 @@ main points to that of the Hebrews.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](rtae03)
+[Next: Contents](rtae03.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Index](index)  [Previous](two07)  [Next](two09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Index](index)  [Previous](two07)  [Next](two09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Worm Ouroboros*, by E. R. Eddison, \[1922\], at Intangible Textual
 Heritage
 
@@ -222,7 +222,7 @@ these conditions?"
 The King said, "I swear."
 
 The Red Foliot asked in like manner, "Dost thou swear to these
-conditions, O Lord Goldry [Bluszco](errata.htm#0)?"
+conditions, O Lord Goldry [Bluszco](errata.htm#0.md)?"
 
 And Goldry answered him, "I swear."
 
@@ -552,4 +552,4 @@ Witchland without word spoken followed after.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Red Foliot](two09)
+[Next: III. The Red Foliot](two09.md)

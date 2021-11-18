@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo41.md) 
 
 ------------------------------------------------------------------------
 

@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois16) 
-[Next](wois18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois16.md) 
+[Next](wois18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -59,6 +59,6 @@ them; shall, then, God be in need of what He has created?"
 
 ------------------------------------------------------------------------
 
-[Next: The Potter and his Wares: The Trials of the Righteous](wois18)
+[Next: The Potter and his Wares: The Trials of the Righteous](wois18.md)
 
 </div>

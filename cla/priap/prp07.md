@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp06)  [Next](prp08) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp06)  [Next](prp08.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ the well-grown mentule.
 ------------------------------------------------------------------------
 
 [Next: 8. 'Why be my parts obscene displayed without cover?' thou
-askest](prp08)
+askest](prp08.md)

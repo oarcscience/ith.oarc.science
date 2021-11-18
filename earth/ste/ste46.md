@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste45)  [Next](ste47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste45)  [Next](ste47.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,4 +155,4 @@ Nothing of SELF, but a bare Name.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Introduction](ste47)
+[Next: Chapter I. The Introduction](ste47.md)

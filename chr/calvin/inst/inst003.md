@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst002)  [Next](inst004) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst002)  [Next](inst004.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ some day in such a harvest.
 
 ------------------------------------------------------------------------
 
-[Next: THE PRINTERS TO THE READERS.](inst004)
+[Next: THE PRINTERS TO THE READERS.](inst004.md)

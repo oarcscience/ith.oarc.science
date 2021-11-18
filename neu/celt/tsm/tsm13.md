@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm12)  [Next](tsm14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm12)  [Next](tsm14.md) 
 
 ------------------------------------------------------------------------
 
@@ -330,4 +330,4 @@ cold."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. In the Kingdom of Seals](tsm14)
+[Next: Chapter XI. In the Kingdom of Seals](tsm14.md)

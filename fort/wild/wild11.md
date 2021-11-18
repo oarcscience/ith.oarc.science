@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[ESP](../../psi/index)  [Index](index)  [Previous](wild10) 
-[Next](wild12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[ESP](../../psi/index)  [Index](index)  [Previous](wild10.md) 
+[Next](wild12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Wild Talents*, by Charles Fort, \[1933\], at Intangible Textual
 Heritage
 
@@ -87,7 +87,7 @@ crime, or unformulability, or fantasy.
 
 In the London newspapers, last of March, 1908, was told a story, which,
 when starting off, was called "what the coroner for South Northumberland
-described as the most [extraordinary](errata.htm#3) case that he had
+described as the most [extraordinary](errata.htm#3.md) case that he had
 ever investigated." The story was of a woman, at Whitley Bay, near
 Blyth, England, who, according to her statement, had found her sister,
 burned to death on an unscorched bed. This was the equivalence of the
@@ -223,4 +223,4 @@ his clothes there was no trace of fire.
 
 ------------------------------------------------------------------------
 
-[Next: 12](wild12)
+[Next: 12](wild12.md)

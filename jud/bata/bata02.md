@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](bata01)  [Next](bata03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](bata01)  [Next](bata03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Talmud in Selection*, by Leo Auerbach, \[1944\], at
 Intangible Textual Heritage
 
@@ -96,7 +96,7 @@ interpretation of the Scriptures, and therefore the Pharisees were more
 popular with the people and exerted a greater influence as the
 dominating force in the life of Jewry. Their influence became even
 greater as the government and the degenerating
-[aristocracy](errata.htm#0) became corrupt and oppressed the people.
+[aristocracy](errata.htm#0.md) became corrupt and oppressed the people.
 
 The first chapter of the tractate *Aboth*, Fathers of the Mishnah,
 traces the chronological order of these great teachers. The most
@@ -362,7 +362,7 @@ constant and basic force in world Jewry, down to this very day. So
 potent has its influence been, that Jewry has had to guard against a
 tendency to accept all its statements as law. As the noted Christian
 Talmudic scholar, Herman L. Strack points out: <span
-id="fr_0"></span>[\*](#fn_0) "The Talmud is not a law book, not a code,
+id="fr_0"></span>[\*](#fn_0.md) "The Talmud is not a law book, not a code,
 in which every sentence is unconditionally valid. In the *Mishna* itself
 diverging opinions are, very frequently, placed in juxtaposition, and
 the *Gemara* almost throughout takes on the nature of a lecture hall or
@@ -437,7 +437,7 @@ and to Ruth Busch for the checking of the proofs.
 
 ### Footnotes
 
-<span id="fn_0"></span>[17:\*](bata02.htm#fr_0) Hermann L. Strack,
+<span id="fn_0"></span>[17:\*](bata02.htm#fr_0.md) Hermann L. Strack,
 *Introduction to the Talmud and Midrash* (English translation), Jewish
 Publication Society, 1931, p. 89.
 
@@ -445,6 +445,6 @@ Publication Society, 1931, p. 89.
 
 ------------------------------------------------------------------------
 
-[Next: Fathers of the Mishna](bata03)
+[Next: Fathers of the Mishna](bata03.md)
 
 </div>

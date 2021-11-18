@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](arw13)  [Next](arw15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](arw13)  [Next](arw15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabian Wisdom*, by John Wortabet, \[1913\], at Intangible Textual
 Heritage
 
@@ -35,4 +35,4 @@ Be not ashamed to give little—to refuse is less.
 
 ------------------------------------------------------------------------
 
-[Next: Gratitude](arw15)
+[Next: Gratitude](arw15.md)

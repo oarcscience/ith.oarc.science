@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch41) 
-[Next](pch43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch41.md) 
+[Next](pch43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -23,42 +23,42 @@ religions of antiquity, in Greece, Egypt, and Greek-speaking Asia, was
 the dramatic representation of the central episodes in the stories of
 the suffering and dying Gods and Goddesses. Herodotus has been charged
 with pretending to knowledge that he did not possess; but there is no
-reason to doubt his assertion <span id="fr_998"></span>[3](#fn_998) that
+reason to doubt his assertion <span id="fr_998"></span>[3](#fn_998.md) that
 on the artificial circular lake at Sais the Egyptians were wont to give
 by night—presumably once a year—representations of the sufferings of a
 certain one whom he will not name, which representations they called
 mysteries. The certain one in question we know must have been the God
-Osiris; <span id="fr_999"></span>[4](#fn_999) and that the sufferings
+Osiris; <span id="fr_999"></span>[4](#fn_999.md) and that the sufferings
 and death of Osiris
 
 <span id="page_195">p. 195</span>
 
 were dramatically represented, modern Egyptology has freshly established
-from hieroglyphic documents. <span id="fr_1000"></span>[1](#fn_1000) We,
+from hieroglyphic documents. <span id="fr_1000"></span>[1](#fn_1000.md) We,
 know, too, from the concluding rubric of the "Lamentations of Isis and
 Nephthys for Osiris that those Goddesses were personated in the ritual
-by two beautiful women. <span id="fr_1001"></span>[2](#fn_1001)
+by two beautiful women. <span id="fr_1001"></span>[2](#fn_1001.md)
 
 In the worships of Adonis and of Attis there was certainly a dramatic
 representation of the dead God by effigy, and of his resurrection; <span
-id="fr_1002"></span>[3](#fn_1002) and in the mysteries of Mithra, as
+id="fr_1002"></span>[3](#fn_1002.md) and in the mysteries of Mithra, as
 given among the Greeks, there appears to have been included a
 representation of the burial of a stone effigy of the God, in a rock
-tomb, and of his resurrection. <span id="fr_1003"></span>[4](#fn_1003)
+tomb, and of his resurrection. <span id="fr_1003"></span>[4](#fn_1003.md)
 So, in the great cult of Dionysos, with whose worship were connected the
 beginnings of tragedy among the Greeks, there was a symbolic
 representation of the dismemberment of the young God by the Titans, this
 being part of the sacrament of his body and blood; <span
-id="fr_1004"></span>[5](#fn_1004) and in the special centres of the
+id="fr_1004"></span>[5](#fn_1004.md) and in the special centres of the
 worship of Herakles, or at least at one of them, Tarsus, there was
 annually erected in his worship a funeral pyre, on which his effigy—but
-sometimes a man—was burned. <span id="fr_1005"></span>[6](#fn_1005) The
+sometimes a man—was burned. <span id="fr_1005"></span>[6](#fn_1005.md) The
 same motive is worked out in the *Trachiniæ* of Sophocles. Among the
 Greeks, again, a dramatic representation of the myth of the loss of
 Persephonê, the mourning of her mother Dêmêtêr, and her restoration, was
 the central attraction in the Eleusinian mysteries; and the return of
 Persephonê was separately dramatised. <span
-id="fr_1006"></span>[7](#fn_1006)
+id="fr_1006"></span>[7](#fn_1006.md)
 
 Of all those mysteries the mythological explanation is doubtless the
 same: they mostly originated in primitive sacrificial rituals to
@@ -74,7 +74,7 @@ origin of the usage. For our purpose it suffices
 
 us to know that such rites were rites of "salvation," and that they were
 the most popular in ancient religion. <span
-id="fr_1007"></span>[1](#fn_1007)
+id="fr_1007"></span>[1](#fn_1007.md)
 
 As Christism first became popular by the development or adaptation of
 myths and ritual usages like those of the popular pagan systems, notably
@@ -82,11 +82,11 @@ the Birth-myth, the Holy Supper, and the Resurrection, it might be
 expected that it should imitate paganism in the matter of dramatic
 mysteries. The mere Supper ritual, indeed, is itself dramatic, the
 celebrant personating the God as Attis was personated by his
-priest; <span id="fr_1008"></span>[2](#fn_1008) and in the remarkable
+priest; <span id="fr_1008"></span>[2](#fn_1008.md) and in the remarkable
 expression in the Pauline epistle to the Galatians (iii, 1)—"before
 whose eyes Jesus Christ was openly set forth crucified"—we have probably
 a record of an early fashion of imaging the crucifixion. <span
-id="fr_1009"></span>[3](#fn_1009) In the same document (vi, 17) is the
+id="fr_1009"></span>[3](#fn_1009) In the same document (vi, 17.md) is the
 phrase, "I bear in my body the marks of the Lord Jesus"; and various
 other expressions in the epistles, describing the devotee as mystically
 crucified and as having become one with the crucified Lord, suggest that
@@ -94,14 +94,14 @@ in the early stages of the cult it dramatically adopted the apparently
 dramatic teaching of the Egyptian Book of the Dead, wherein the saved
 and Osirified soul declares: "I clasp the sycamore tree; I myself am
 joined unto the sycamore tree, and its arms are opened unto me
-graciously"; <span id="fr_1010"></span>[4](#fn_1010) and again: "I have
+graciously"; <span id="fr_1010"></span>[4](#fn_1010.md) and again: "I have
 become a divine being by the side of the *birth-chamber* of Osiris; I am
 brought forth with him, I renew my youth." <span
-id="fr_1011"></span>[5](#fn_1011) In the fifth century, we know,
+id="fr_1011"></span>[5](#fn_1011.md) In the fifth century, we know,
 mystery-plays were performed either in or in connection with the
-churches; <span id="fr_1012"></span>[6](#fn_1012) and the identity
+churches; <span id="fr_1012"></span>[6](#fn_1012.md) and the identity
 between the birth-story and several pagan dramatic rituals is too close
-to be missed. <span id="fr_1013"></span>[7](#fn_1013) But apart from the
+to be missed. <span id="fr_1013"></span>[7](#fn_1013.md) But apart from the
 parallels above indicated the dramatic *origination* of the story of the
 Christ's Supper, Passion, Betrayal, Trial, and Crucifixion, as it now
 stands, has yet to be established. The proof, however, I submit, lies,
@@ -120,7 +120,7 @@ narrative is simply a presentment of *a dramatic action and dialogue;*
 and the events are huddled one upon another exactly as happens in all
 drama that is not framed with a special concern for plausibility. In
 many plays of Shakespeare, notably in *Measure for Measure*, <span
-id="fr_1014"></span>[1](#fn_1014) there occurs such a compression of
+id="fr_1014"></span>[1](#fn_1014.md) there occurs such a compression of
 incidents in time, the reason being precisely the nature of drama,
 which, whether or not it holds theoretically by the unities, must for
 practical reasons minimise change of scene and develop action rapidly.
@@ -178,7 +178,7 @@ his multitude, "while he \[Jesus\] yet spake." With an impossible
 continuity, the action goes on through the night, a thing quite
 unnecessary in any save a dramatic fiction, where unity of time—that is,
 the limitation of the action within twenty-four hours, or little more,
-as prescribed by Aristotle <span id="fr_1015"></span>[1](#fn_1015)—was
+as prescribed by Aristotle <span id="fr_1015"></span>[1](#fn_1015.md)—was
 for the ancients a ruling principle. Jesus is taken in the darkness to
 the house of the high-priest, "where the scribes and the elders were
 gathered together." The disciples meanwhile had "left him and fled," and
@@ -232,7 +232,7 @@ non-dramatic, as the work of an amplifying later narrator would
 naturally be. The words of Herod are not given; and the interpolation
 was doubtless the work of a late Gentile, bent on making Jewish and not
 Roman soldiers guilty of mocking the Lord. <span
-id="fr_1016"></span>[1](#fn_1016) In the first two gospels, even the
+id="fr_1016"></span>[1](#fn_1016.md) In the first two gospels, even the
 episode of the laying hold of Simon of Cyrene, to make him bear the
 cross, might have been introduced at this point on the stage, without
 involving the attempt—impossible in drama—to present the
@@ -294,10 +294,10 @@ setting down what he knew or had heard? Why should he not round off his
 narrative in the normal manner? The "higher criticism" has recognised
 that the story of the betrayal and the rest do not belong to the earlier
 matter of the gospels. The analysis of the school of Bernhard Weiss, as
-presented by Mr. A. J. Jolley, <span id="fr_1017"></span>[1](#fn_1017)
+presented by Mr. A. J. Jolley, <span id="fr_1017"></span>[1](#fn_1017.md)
 makes the "Primitive Gospel" end with the scene of the anointing. I hold
 that scene to have been also dramatic, and to have been first framed as
-a prologue to the Mystery-Play; <span id="fr_1018"></span>[2](#fn_1018)
+a prologue to the Mystery-Play; <span id="fr_1018"></span>[2](#fn_1018.md)
 but the essential point is that all that portion which I have above
 treated as the Mystery-Play is an addition to a previously existing
 document. Not that the play (in some form) was not older than the
@@ -342,7 +342,7 @@ speaking, it seems to do so, and it may conceivably proceed upon a
 dramatic text independently of the synoptics. On the ground, not of its
 dramatic form but of the occasional relative brevity and the general
 consistency of its narrative, it has even been argued <span
-id="fr_1019"></span>[1](#fn_1019) that its matter is earlier than the
+id="fr_1019"></span>[1](#fn_1019.md) that its matter is earlier than the
 version of the story in any of the gospels. With that problem we are not
 here concerned; but it is relevant to note that the dramatic action of
 the non-canonical gospel is not earlier but later than that preserved in
@@ -436,12 +436,12 @@ scientific, basis.
 
 ### Footnotes
 
-<span id="fn_998"></span>[194:3](pch42.htm#fr_998) B. i, c. 171.
+<span id="fn_998"></span>[194:3](pch42.htm#fr_998.md) B. i, c. 171.
 
-<span id="fn_999"></span>[194:4](pch42.htm#fr_999) Cp. Plutarch, *Isis
+<span id="fn_999"></span>[194:4](pch42.htm#fr_999.md) Cp. Plutarch, *Isis
 and Osiris*, cc. 25, 35, 39.
 
-<span id="fn_1000"></span>[195:1](pch42.htm#fr_1000) Budge, *Papyrus of
+<span id="fn_1000"></span>[195:1](pch42.htm#fr_1000.md) Budge, *Papyrus of
 Ani*, Introd., cxv-cxvi, citing Ledrain, *Monuments Egyptiens*, Pl. xxv.
 Cp. Brugsch, "Das Osiris-Mysterium von Tentyra," in *Zeitschrift für
 Aegyptische Sprache*, 1881; Wiedemann, *Rel. of the Anc. Egyptians*,
@@ -449,41 +449,41 @@ Eng. tr. p. 215; Prof. Erman, *Hdbk. of Eg. Rel.* Eng. tr. p. 249; Grant
 Allen, *Evolution of the Idea of God*, 1897, p. 399; and art. by Chabas,
 in *Révue Archéologique*, 15 Mai, 1857, p. 76.
 
-<span id="fn_1001"></span>[195:2](pch42.htm#fr_1001) *Records of the
+<span id="fn_1001"></span>[195:2](pch42.htm#fr_1001.md) *Records of the
 Past*, 1st ser. ii, p. 119. Cp. Brugsch, *Religion and Mythologie der
 alten Aegypter*, 1885-88, p. 623 *sq*.; and Chabas, *Révue
 Archéologique*, 15 Juillet, 1857, pp. 207-8.
 
-<span id="fn_1002"></span>[195:3](pch42.htm#fr_1002) The main
+<span id="fn_1002"></span>[195:3](pch42.htm#fr_1002.md) The main
 authorities are given by Dr. Frazer, *G. B.* 2nd ed. ii, 116, 131. Cp.
 Foucart, *Des Associations religieuses chez les Grecs*, 1873, p. 82.
 
-<span id="fn_1003"></span>[195:4](pch42.htm#fr_1003) Below, Part III, §
+<span id="fn_1003"></span>[195:4](pch42.htm#fr_1003.md) Below, Part III, §
 7. Cp. Firmicus Maternus, *De Errore*, c. 22 (23); and see *Christianity
 and Mythology*, 2nd ed. p. 381, note, as to the significance of the
 passage, which Dr. Frazer, as I think, misapplies to the cult of Attis.
 
-<span id="fn_1004"></span>[195:5](pch42.htm#fr_1004) Clemens Alex.
+<span id="fn_1004"></span>[195:5](pch42.htm#fr_1004.md) Clemens Alex.
 *Protrept.* ii.
 
-<span id="fn_1005"></span>[195:6](pch42.htm#fr_1005) Robertson Smith,
+<span id="fn_1005"></span>[195:6](pch42.htm#fr_1005.md) Robertson Smith,
 *Religion of the Semites*, p. 353. As to the resurrection of Herakles,
-see pp. 449-450. See also above, pp. [124](pch31.htm#page_124),
-[126](pch31.htm#page_126).
+see pp. 449-450. See also above, pp. [124](pch31.htm#page_124.md),
+[126](pch31.htm#page_126.md).
 
-<span id="fn_1006"></span>[195:7](pch42.htm#fr_1006) Cp. Newton, *Essays
+<span id="fn_1006"></span>[195:7](pch42.htm#fr_1006.md) Cp. Newton, *Essays
 on Art and Archæology*. 1880, p. 185.
 
-<span id="fn_1007"></span>[196:1](pch42.htm#fr_1007) Cp. Lactantius,
+<span id="fn_1007"></span>[196:1](pch42.htm#fr_1007.md) Cp. Lactantius,
 *Div. Inst.* v, 20; Cheetham, *The Mysteries, Pagan and Christian*,
 1897, p. 71.
 
-<span id="fn_1008"></span>[196:2](pch42.htm#fr_1008) This usage seems to
+<span id="fn_1008"></span>[196:2](pch42.htm#fr_1008.md) This usage seems to
 have been normal in Egypt (see Tiele, *Egyptian Religion*, p. 107) and
 common in primitive cults (J. G. Müller, *Amerikanische Urreligionen*,
 pp. 77, 493, 597).
 
-<span id="fn_1009"></span>[196:3](pch42.htm#fr_1009) Cp. 1 Cor. xi, 26,
+<span id="fn_1009"></span>[196:3](pch42.htm#fr_1009.md) Cp. 1 Cor. xi, 26,
 A.V. and margin. The expression in Galatians suggests either a
 *pictorial* setting forth or an effigy. Cp. Canon Cook's Comm. *in
 loc.;* and note the bearing of the doubtful passage in a rubric to ch.
@@ -496,7 +496,7 @@ dramatic representation in the case of the epistolary references. That
 was not the intention. His citation of Lightfoot's denial that the word
 προγὰφειν can mean "paint," I may add, does not meet the case.
 
-<span id="fn_1010"></span>[196:4](pch42.htm#fr_1010) Book of the Dead,
+<span id="fn_1010"></span>[196:4](pch42.htm#fr_1010.md) Book of the Dead,
 ch. lxiv, Budge's tr. p. 115. Cp. the rubric to ch. clxv (p. 296)
 describing a figure with the arms outstretched; and see also the account
 of the pillar, p. 46, as to which compare *Christianity and Mythology*,
@@ -506,19 +506,19 @@ wilder Jansenists, "une des dévotions les plus appréciées consistait à
 se faire crucifier comme le Christ" (A. Réville, *Prolégomènes de
 l’histoire de religion*, 3e édit. p. 173).
 
-<span id="fn_1011"></span>[196:5](pch42.htm#fr_1011) Book of the Dead,
+<span id="fn_1011"></span>[196:5](pch42.htm#fr_1011.md) Book of the Dead,
 ch. lxix, p. 125. Cp. p. 82, and p. 261 *note*.
 
-<span id="fn_1012"></span>[196:6](pch42.htm#fr_1012) See *Christianity
+<span id="fn_1012"></span>[196:6](pch42.htm#fr_1012.md) See *Christianity
 and Mythology*, pp. 218-23.
 
-<span id="fn_1013"></span>[196:7](pch42.htm#fr_1013) *Id*. Part II, §§
+<span id="fn_1013"></span>[196:7](pch42.htm#fr_1013.md) *Id*. Part II, §§
 11, 12, 13.
 
-<span id="fn_1014"></span>[197:1](pch42.htm#fr_1014) See the author's
+<span id="fn_1014"></span>[197:1](pch42.htm#fr_1014.md) See the author's
 essay, *The Upshot of Hamlet*.
 
-<span id="fn_1015"></span>[198:1](pch42.htm#fr_1015) *Poetics*, v. Mr.
+<span id="fn_1015"></span>[198:1](pch42.htm#fr_1015.md) *Poetics*, v. Mr.
 Chambers (*Med. Stage*, as cited), understanding that I suppose the
 mystery-play to have been "on classical lines," remarks that the
 narrative before us "cannot on the face of it be derived from a
@@ -526,20 +526,20 @@ classical drama." I entirely agree. It is a *non-literary* drama,
 "classical" only in regard to the unities. Mr. Chambers suggests as a
 type the Græco-Jewish Ἐξαγωγή of Ezechiel, 1st c. B.C.
 
-<span id="fn_1016"></span>[199:1](pch42.htm#fr_1016) Such a scene *may*
+<span id="fn_1016"></span>[199:1](pch42.htm#fr_1016.md) Such a scene *may*
 have been enacted in one version of the mystery-play; but it is not
 *transcribed* in Luke as the earlier play is in Matthew.
 
-<span id="fn_1017"></span>[201:1](pch42.htm#fr_1017) *The Synoptic
+<span id="fn_1017"></span>[201:1](pch42.htm#fr_1017.md) *The Synoptic
 Problem for English Readers*, Macmillan, 1893.
 
-<span id="fn_1018"></span>[201:2](pch42.htm#fr_1018) Cp. *Christianity
+<span id="fn_1018"></span>[201:2](pch42.htm#fr_1018.md) Cp. *Christianity
 and Mythology*, 2nd ed. pp. 337-8.
 
-<span id="fn_1019"></span>[202:1](pch42.htm#fr_1019) By C. B. Waite, in
+<span id="fn_1019"></span>[202:1](pch42.htm#fr_1019.md) By C. B. Waite, in
 his *History of the Christian Religion to the Year 200*, 3rd ed.
 Chicago, 1881, pp. 108-212.
 
 ------------------------------------------------------------------------
 
-[Next: § 16. The Mystery-Play and the Cultus](pch43)
+[Next: § 16. The Mystery-Play and the Cultus](pch43.md)

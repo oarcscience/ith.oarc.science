@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio11)  [Next](dio13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio11)  [Next](dio13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ incomprehensible greatness.
 <span id="ii.ii.ii.ix-p7"></span>But *little,* i.e. fine, is affirmed
 respecting Him,--that which leaves behind every mass and distance, and
 penetrates through all, without hindrance. Yet the little is
-Elemental <span id="fr_51"></span>[52](#fn_51) Cause of all, for nowhere
+Elemental <span id="fr_51"></span>[52](#fn_51.md) Cause of all, for nowhere
 will you find the idea of the little unparticipated. Thus then the
 little must be received as regards God as penetrating to all, and
 through all, without impediment; and operating, and piercing through, to
@@ -158,7 +158,7 @@ the same rank with none; as "different" even from everything, and, what
 is more paradoxical, says there is nothing that is similar to Him. Yet
 the expression is not contrary to the similarity towards Him, for the
 same things are both similar to God, and dissimilar--the former as
-regards the received imitation <span id="fr_52"></span>[53](#fn_52) of
+regards the received imitation <span id="fr_52"></span>[53](#fn_52.md) of
 the inimitable, the latter as regards the dependence of the things
 caused upon the cause, and their being inferior in degrees, endless and
 incalculable.
@@ -220,12 +220,12 @@ equality.
 
 ### Footnotes
 
-<span id="fn_51"></span>[103:52](dio12.htm#fr_51) <span
+<span id="fn_51"></span>[103:52](dio12.htm#fr_51.md) <span
 id="ii.ii.ii.ix-p7.1"></span>Atomic theory.
 
-<span id="fn_52"></span>[107:53](dio12.htm#fr_52) <span
+<span id="fn_52"></span>[107:53](dio12.htm#fr_52.md) <span
 id="ii.ii.ii.ix-p15.1"></span>Letter 2.
 
 ------------------------------------------------------------------------
 
-[Next: Caput X.](dio13)
+[Next: Caput X.](dio13.md)

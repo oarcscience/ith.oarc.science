@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb03)  [Next](vifb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb03)  [Next](vifb05.md) 
 
 </div>
 
@@ -159,6 +159,6 @@ beardless one remained behind to swallow his disappointment.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Three Wonderful Beggars](vifb05)
+[Next: The Story of Three Wonderful Beggars](vifb05.md)
 
 </div>

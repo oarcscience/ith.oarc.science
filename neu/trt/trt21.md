@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt20)  [Next](trt22) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt20)  [Next](trt22.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ Galahad.
 ------------------------------------------------------------------------
 
 [Next: XI: How Sir Galahad Found The Graal And Died Of That
-Finding](trt22)
+Finding](trt22.md)

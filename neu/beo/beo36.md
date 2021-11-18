@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo35)  [Next](beo37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo35)  [Next](beo37.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ my life and the lordship I long have held."
 
 ------------------------------------------------------------------------
 
-[Next: Part XXXVIII](beo37)
+[Next: Part XXXVIII](beo37.md)

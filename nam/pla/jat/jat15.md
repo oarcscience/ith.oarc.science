@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat14)  [Next](jat16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat14)  [Next](jat16.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ some time to pass it, he succeeded in getting ahead of it and shooting
 it. Before he killed it he said, "What shall I do with you who swallow
 people?" Killing it, he said, "This is what I do with bad people, I kill
 them." He did not go up to it nor did he cut it. <span
-id="fr_23"></span>[4](#fn_23)
+id="fr_23"></span>[4](#fn_23.md)
 
 "Now I will go and look for other bad things," Naiyenesgani said. "Wait
 for me, my friend." Then four of them started away toward the east. They
@@ -25,7 +25,7 @@ Naiyenesgani said, "There are no bad things. Now, we will go back. He
 <span id="page_207">p. 207</span>
 
 threw all the yucca stalks back of him, saying, "People will live on you
-right here." <span id="fr_24"></span>[1](#fn_24) The name of this
+right here." <span id="fr_24"></span>[1](#fn_24.md) The name of this
 mountain will be Balgai." Then they started back and taking only four
 steps, they reached Taos.
 
@@ -44,12 +44,12 @@ because I am not going to talk about them for you always."
 
 ### Footnotes
 
-<span id="fn_23"></span>[206:4](jat15.htm#fr_23) Mooney, (a), p. 208.
+<span id="fn_23"></span>[206:4](jat15.htm#fr_23) Mooney, (a.md), p. 208.
 Matthews has an incident differing in several particulars, p. 125.
 
-<span id="fn_24"></span>[207:1](jat15.htm#fr_24) This refers to the food
+<span id="fn_24"></span>[207:1](jat15.htm#fr_24.md) This refers to the food
 of the Mescalero as explained in the preceding myth.
 
 ------------------------------------------------------------------------
 
-[Next: 14. The Winning of Daylight](jat16)
+[Next: 14. The Winning of Daylight](jat16.md)

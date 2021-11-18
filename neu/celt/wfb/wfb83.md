@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb82)  [Next](wfb84) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb82)  [Next](wfb84.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ except that the dogs were not frightened by the real corpse.
 
 ------------------------------------------------------------------------
 
-[Next: A Phantom's Funeral](wfb84)
+[Next: A Phantom's Funeral](wfb84.md)

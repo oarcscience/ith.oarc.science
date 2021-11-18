@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo37)  [Next](hoo39) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo37)  [Next](hoo39.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,12 +18,12 @@ Lycorian Phœbus, fruitful source of wealth .
 Spermatic, golden-lyr'd, the field from thee 5  
 Receives it's constant, rich fertility.  
 Titanic, Grunian, Smynthian, thee I sing,  <span
-id="fr_91"></span>[7](#fn_91)  
+id="fr_91"></span>[7](#fn_91.md)  
 Python-destroying, hallow'd, Delphian king:  
 Rural, light-bearer, and the Muse's head,  
 Noble and lovely, arm'd with arrows dread: 10  
 Far-darting, Bacchian, two-fold, and divine,  <span
-id="fr_92"></span>[11](#fn_92)  
+id="fr_92"></span>[11](#fn_92.md)  
 Pow'r far diffused, and course oblique is thine.  
 O, Delian king, whose light-producing eye  
 Views all within, and all beneath the sky:
@@ -45,7 +45,7 @@ Thyself all the source and end divine:
 'Tis thine all Nature's music to inspire,  
 With various-sounding, harmonising lyre;  
 Now the last string thou tun'ft to sweet accord,  <span
-id="fr_93"></span>[29](#fn_93)  
+id="fr_93"></span>[29](#fn_93.md)  
 Divinely warbling now the highest chord; 30
 
 <span id="page_163">p. 163</span>
@@ -62,11 +62,11 @@ Summer and Winter in alternate dance;
 This claims the highest, that the lowest string,  
 The Dorian measure tunes the lovely spring .  
 Hence by mankind, Pan-royal, two-horn'd nam'd,  <span
-id="fr_94"></span>[39](#fn_94)  
+id="fr_94"></span>[39](#fn_94.md)  
 Emitting whistling winds thro' Syrinx fam'd; 40  <span
-id="fr_95"></span>[40](#fn_95)  
+id="fr_95"></span>[40](#fn_95.md)  
 Since to thy care, the figur'd seal's consign'd,  <span
-id="fr_96"></span>[41](#fn_96)  
+id="fr_96"></span>[41](#fn_96.md)  
 Which stamps the world with forms of ev'ry kind.
 
 <span id="page_165">p. 165</span>
@@ -78,18 +78,18 @@ And save thy mystics with a suppliant voice.
 
 ### Footnotes
 
-<span id="fn_91"></span>[161:7](hoo38.htm#fr_91) Ver. 7.\] *Grunian*.
+<span id="fn_91"></span>[161:7](hoo38.htm#fr_91.md) Ver. 7.\] *Grunian*.
 According to Strabo, lib. xiii. Grynæus is a town of Myrinæus: likewise,
 a temple of Apollo, and a most ancient oracle and temple, sumptuously
 built of white stone. Gyrald. Syntag. p. 237.
 
-<span id="fn_92"></span>[161:11](hoo38.htm#fr_92) Ver. 11.\]
+<span id="fn_92"></span>[161:11](hoo38.htm#fr_92.md) Ver. 11.\]
 *Far-darting*.ἑκατηϐελετησ Proclus, on Plato's Cratylus, informs us he
 is so called, ὅτι χορηγὸσ ὤς, καὶ εξερομενοσ ἐπὶ παντασ ποιεῖ τας
 ενεργείας. i. e, "because since he is the choragus or leader of the
 choir of the Muses, he produces energies in all things."
 
-<span id="fn_93"></span>[162:29](hoo38.htm#fr_93) Ver. 29.\] *Now the
+<span id="fn_93"></span>[162:29](hoo38.htm#fr_93.md) Ver. 29.\] *Now the
 last string*, &c. Gesner well observes, in his notes to this Hymn, that
 the comparison and conjunction of the musical and astronomical elements
 are most ancient; being derived from Orpheus and Pythagoras, to Plato.
@@ -135,10 +135,10 @@ Plut. de Mus. p. 1136. E. and consequently <span id="page_164">p.
 as placed between Summer and Winter; and gratefully tempering the
 fervent heat of the one, and the intense cold of the other.
 
-<span id="fn_94"></span>[164:39](hoo38.htm#fr_94) Ver. 39.\]
+<span id="fn_94"></span>[164:39](hoo38.htm#fr_94.md) Ver. 39.\]
 *Pan-royal*. See the notes to the Hymn to Pan, to Hercules, and the Sun.
 
-<span id="fn_95"></span>[164:40](hoo38.htm#fr_95) Ver. 40.\] *Emitting
+<span id="fn_95"></span>[164:40](hoo38.htm#fr_95.md) Ver. 40.\] *Emitting
 whistling winds*. Johannes Diaconus, in Allegorcis Theogoniæ Hesiodi,
 quotes the following lines from Orpheus.
 
@@ -151,7 +151,7 @@ whistling with the breathing winds and aerial voices." And this
 perfectly agrees with Apollo, considered as Jupiter, or the sun of the
 intelligible world.
 
-<span id="fn_96"></span>[164:41](hoo38.htm#fr_96) Ver. 41.\] *The
+<span id="fn_96"></span>[164:41](hoo38.htm#fr_96.md) Ver. 41.\] *The
 figur'd seal*. Since Apollo in the intelligible world is the demiurgus
 of the universe, and consequently comprehends in his essence the
 archetypal ideas of all sensible forms, he may with great propriety be
@@ -164,4 +164,4 @@ multitude, and material imperfection.
 
 ------------------------------------------------------------------------
 
-[Next: XXXIV: To Latona](hoo39)
+[Next: XXXIV: To Latona](hoo39.md)

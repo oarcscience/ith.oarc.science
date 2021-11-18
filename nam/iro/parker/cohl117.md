@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl116)  [Next](cohl118) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl116)  [Next](cohl118.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 "Now they revealed another.
 
 "The master of the house called out the names of two persons, saying,
-'Come here, my nephews,' <span id="fr_87"></span>[1](#fn_87) and
+'Come here, my nephews,' <span id="fr_87"></span>[1](#fn_87.md) and
 straightway they stood before him. Then said he, 'Commence an argument,
 you two, for you are the man and wife who in your earth-life were wont
 to
@@ -30,9 +30,9 @@ So they said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_87"></span>[72:1](cohl117.htm#fr_87) The Seneca term means
+<span id="fn_87"></span>[72:1](cohl117.htm#fr_87.md) The Seneca term means
 my sister's children," thus both nephews and nieces.
 
 ------------------------------------------------------------------------
 
-[Next: Section 107](cohl118)
+[Next: Section 107](cohl118.md)

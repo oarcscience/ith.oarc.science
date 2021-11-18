@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut15)  [Next](hut17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut15)  [Next](hut17.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XIII.
 
-### The Coming of White Men. <span id="fr_43"></span>[1](#fn_43)
+### The Coming of White Men. <span id="fr_43"></span>[1](#fn_43.md)
 
 <span id="page_199">p. 199</span>
 
@@ -34,7 +34,7 @@ otter-skins with blue beads. They went on this way up the river.
 
 ### Footnotes
 
-<span id="fn_43"></span>[198:1](hut16.htm#fr_43) Told at Hupa, July
+<span id="fn_43"></span>[198:1](hut16.htm#fr_43.md) Told at Hupa, July
 1902, by McCann, a white-haired old man who was born and has always
 lived at the northern end of the valley near the beginning, of the
 cañon. He said that he was at this time about as large as his grandson
@@ -43,4 +43,4 @@ years of age.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. The Coming of White Men](hut17)
+[Next: XIV. The Coming of White Men](hut17.md)

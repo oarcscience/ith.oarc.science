@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac21)  [Next](sac23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac21)  [Next](sac23.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ We learn from Cormac that the fires were generally double and that
 cattle were driven between them.
 
 Concerning this question of fire, both Mr. Frazer and the Rev. S.
-Baring-Gould <span id="fr_33"></span>[1](#fn_33) suggest that we are
+Baring-Gould <span id="fr_33"></span>[1](#fn_33.md) suggest that we are
 justified
 
 <span id="page_190">p. 190</span>
@@ -90,7 +90,7 @@ The same authority informs us that before Christianity was introduced
 into Ireland by St. Patrick there was a temple at Tara "where fire
 burned ever, and was on no account suffered to go out."
 
-Mr. Frazer, <span id="fr_34"></span>[1](#fn_34) quoting Cerbied, shows
+Mr. Frazer, <span id="fr_34"></span>[1](#fn_34.md) quoting Cerbied, shows
 that in the ancient religion of Armenia the new fire was kindled at the
 February festival of the May year, in honour of the fire-god Mihr. "A
 bonfire was made in a public place, and lamps kindled at it were kept
@@ -111,7 +111,7 @@ were not used for these purposes amongst others; whether indeed they
 were not primarily built for the living and not for the dead, and
 whether this will explain the finding of traces of fires and of hollowed
 stones in them, as well as some points in their structure. Mr.
-MacRitchie <span id="fr_35"></span>[1](#fn_35) has brought together
+MacRitchie <span id="fr_35"></span>[1](#fn_35.md) has brought together
 several of these points, among them fireplaces and flues for carrying
 away smoke.
 
@@ -184,7 +184,7 @@ the fire; and the whole was conducted with religious solemnity."
 
 [![FIG. 48.—The Carro, Florence. From Baring-Gould's &lt;i&gt;Strange
 Survivals&lt;/i&gt;.](tn/fig48.jpg)  
-Click to enlarge](img/fig48.jpg)  
+Click to enlarge](img/fig48.jpg.md)  
 FIG. 48.—The Carro, Florence. From Baring-Gould's *Strange Survivals*.  
 
 It will have been observed with reference to these fire festivals that
@@ -210,7 +210,7 @@ month; so that the first day of the first month of winter was also the
 first day of the year."
 
 That the November bonfire was recognised as heralding the dominion of
-the gods and spirits of darkness, <span id="fr_36"></span>[1](#fn_36)
+the gods and spirits of darkness, <span id="fr_36"></span>[1](#fn_36.md)
 that the old ideas surrounding Horus and Set in Egypt were not
 forgotten, is evidenced by the fact that when it was extinct the whole
 company round it would suddenly take to their heels, shouting at the top
@@ -241,7 +241,7 @@ festivals, in fact that the fire at one of the critical times of the May
 year at least was a sacrificial one.
 
 I will quote two cases given by Gomme <span
-id="fr_37"></span>[2](#fn_37) for May Day and All Souls’ Day
+id="fr_37"></span>[2](#fn_37.md) for May Day and All Souls’ Day
 respectively:—
 
 "At the village of Holne, situated on one of the spurs of Dartmoor, is a
@@ -320,11 +320,11 @@ through the flames; with which the ceremonies of the festival are
 closed."
 
 I may conclude this chapter by referring to similar practices in
-Brittany, where Baring-Gould <span id="fr_38"></span>[1](#fn_38) has so
+Brittany, where Baring-Gould <span id="fr_38"></span>[1](#fn_38.md) has so
 successfully studied them.
 
 The present remnants of the old cult in the different, parishes are now
-called "pardons"; <span id="fr_39"></span>[2](#fn_39) they are still
+called "pardons"; <span id="fr_39"></span>[2](#fn_39.md) they are still
 numerous. I give those for the May and August festivals. (p. 83).
 
 *May*.
@@ -377,28 +377,28 @@ same takes place at Carnac.
 
 ### Footnotes
 
-<span id="fn_33"></span>[189:1](sac22.htm#fr_33) *Strange Survivals*, p.
+<span id="fn_33"></span>[189:1](sac22.htm#fr_33.md) *Strange Survivals*, p.
 120 *et seq*.
 
-<span id="fn_34"></span>[191:1](sac22.htm#fr_34) *Golden Bough*, iii.
+<span id="fn_34"></span>[191:1](sac22.htm#fr_34.md) *Golden Bough*, iii.
 248.
 
-<span id="fn_35"></span>[192:1](sac22.htm#fr_35) *The Testimony of
+<span id="fn_35"></span>[192:1](sac22.htm#fr_35.md) *The Testimony of
 Tradition*.
 
-<span id="fn_36"></span>[195:1](sac22.htm#fr_36) *Hibbert Lectures*, p.
+<span id="fn_36"></span>[195:1](sac22.htm#fr_36.md) *Hibbert Lectures*, p.
 516; *Dawn of Astronomy*, p. 216.
 
-<span id="fn_37"></span>[195:2](sac22.htm#fr_37) *Ethnology in
+<span id="fn_37"></span>[195:2](sac22.htm#fr_37.md) *Ethnology in
 Folklore*, pp. 32 and 163.
 
-<span id="fn_38"></span>[198:1](sac22.htm#fr_38) *A Book of Brittany*.
+<span id="fn_38"></span>[198:1](sac22.htm#fr_38.md) *A Book of Brittany*.
 
-<span id="fn_39"></span>[198:2](sac22.htm#fr_39) These "pardons" run
+<span id="fn_39"></span>[198:2](sac22.htm#fr_39.md) These "pardons" run
 strangely parallel with the "Feast Days" in E. and W. Penrith, in
 Cornwall, where of 26 feasts, 13 occur around the chief days of the May
 year.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. Sacred Trees](sac23)
+[Next: Chapter XX. Sacred Trees](sac23.md)

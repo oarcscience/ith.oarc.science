@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr09)  [Next](ibr11) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr09)  [Next](ibr11.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ renewed, with every formality. Nothing could more clearly show the
 anxiety of the Iroquois rulers to maintain their national faith than
 this apology and reparation, so readily made by them, at the time when
 their people were at the height of their power and in the full flush of
-conquest. <span id="fr_50"></span>[1](#fn_50) These efforts, however, to
+conquest. <span id="fr_50"></span>[1](#fn_50.md) These efforts, however, to
 preserve the ancient amity proved unavailing. Through whose fault it was
 that the final outbreak occurred is a question on which the annalists of
 the two parties differ. But the events just recounted, and, indeed, all
@@ -162,7 +162,7 @@ and to refrain thenceforth from taking any part in war. In the
 expressive Indian phrase, they were "made women." This phrase did not
 even imply, according to Iroquois ideas, any serious humiliation; for
 among them, as the French missionaries tell us, women had much
-authority. <span id="fr_51"></span>[1](#fn_51) Their special office in
+authority. <span id="fr_51"></span>[1](#fn_51.md) Their special office in
 war was that of peace-makers. It was deemed to be their right and duty,
 when in their opinion the strife had lasted long enough, to interfere
 and bring about a reconciliation. The knowledge of this fact led the
@@ -176,7 +176,7 @@ while their nation was at the height of power, their ancestors were
 persuaded by the insidious wiles of the Iroquois to lay aside their
 arms, for the purpose of assuming the lofty position of universal
 mediators and arbiters among the Indian nations. <span
-id="fr_52"></span>[1](#fn_52) That this preposterous story should have
+id="fr_52"></span>[1](#fn_52.md) That this preposterous story should have
 found credence is surprising enough. A single fact suffices to disprove
 it, and to show the terms on which the Delawares stood with the great
 northern confederacy. Colden has preserved for us the official record of
@@ -206,7 +206,7 @@ We don't give you the liberty to think about it. We assign you two
 places to go, either to Wyoming or Shamokin. You may go to either of
 those places, and then we shall have you more under our eyes, and shall
 see how you behave. Don't deliberate, but remove away; and take this
-belt of wampum." <span id="fr_53"></span>[1](#fn_53)
+belt of wampum." <span id="fr_53"></span>[1](#fn_53.md)
 
 This imperious allocution, such as a Cinna or a Cornelius might have
 delivered to a crowd of trembling and sullen Greeks, shows plainly
@@ -276,7 +276,7 @@ have utterly perished, are greatly mistaken. It is absolutely certain
 that of the twelve thousand Indians who now, in the United States and
 Canada, preserve the Iroquois name, the greater portion derive their
 descent, in whole or in part, from those conquered nations. <span
-id="fr_54"></span>[1](#fn_54) No other Indian. community, so far as we
+id="fr_54"></span>[1](#fn_54.md) No other Indian. community, so far as we
 know' has ever pursued this policy of incorporation to anything near the
 same extent, or carried it out with anything like the same humanity.
 Even towards the most determined and the most savage of their foes, the
@@ -326,30 +326,30 @@ women to death for a difference of creed had not occurred to them. It
 may justly be affirmed that in the horrors of Smithfield and the Campo
 Santo, the innate barbarism of the Aryan, breaking through his thin
 varnish of civilization, was found far transcending the utmost barbarism
-of the Indian. <span id="fr_55"></span>[1](#fn_55)
+of the Indian. <span id="fr_55"></span>[1](#fn_55.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_50"></span>[90:1](ibr10.htm#fr_50) The Ojibway historian,
+<span id="fn_50"></span>[90:1](ibr10.htm#fr_50.md) The Ojibway historian,
 Copway, in his "*Traditional History of the Ojibway Nation*" (p. 84),
 gives the particulars of this event, as preserved by the Ojibways
 themselves. Even the strong national prejudice of the narrator, which
 has evidently colored his statement, leaves the evidence of the
 magnanimity and prudence of the Iroquois elders clearly apparent.
 
-<span id="fn_51"></span>[92:1](ibr10.htm#fr_51) "Les femmes ayant
+<span id="fn_51"></span>[92:1](ibr10.htm#fr_51.md) "Les femmes ayant
 beaucoup d'autorité parmi ces peuples, leur vertu y fait d'autant plus
 de fruit qu'autre part."--*Relation of* 1657, p. 48.
 
-<span id="fn_52"></span>[93:1](ibr10.htm#fr_52) Heckewelder's History of
+<span id="fn_52"></span>[93:1](ibr10.htm#fr_52.md) Heckewelder's History of
 the Indian Nations, p. 56.
 
-<span id="fn_53"></span>[94:1](ibr10.htm#fr_53) Colden: History of the
+<span id="fn_53"></span>[94:1](ibr10.htm#fr_53.md) Colden: History of the
 Five Nations, Vol. II, p. 36 (2d Edition).
 
-<span id="fn_54"></span>[96:1](ibr10.htm#fr_54) Ces victoires leur
+<span id="fn_54"></span>[96:1](ibr10.htm#fr_54.md) Ces victoires leur
 causant presque autant de perte qu'à leurs ennemis, elles ont tellement
 depeuplé leurs Bourgs, qu'on y compte plus d'Estrangers que de naturels
 du pays. Onnontaghé a sept nations differentes qui s'y sont venües
@@ -376,7 +376,7 @@ of defence to the English colonies, and a strong protection to the many
 broken bands of Indians which from every quarter clustered round the
 shadow of the "great pine tree" of Onondaga.
 
-<span id="fn_55"></span>[98:1](ibr10.htm#fr_55) The Aryans of Europe are
+<span id="fn_55"></span>[98:1](ibr10.htm#fr_55.md) The Aryans of Europe are
 undoubtedly superior in humanity, courage and independence, to those of
 Asia. It is possible that the finer qualities which distinguish the
 western branch of this stock may have been derived from admixture with
@@ -385,4 +385,4 @@ the aborigines of America. See Appendix, Note F.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: The Iroquois Language](ibr11)
+[Next: Chapter X: The Iroquois Language](ibr11.md)

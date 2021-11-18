@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe324)  [Next](prwe326) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe324)  [Next](prwe326.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ A similar story is told of a mayor of St Ives.
 
 ------------------------------------------------------------------------
 
-[Next: Thomasine, Bonaventure](prwe326)
+[Next: Thomasine, Bonaventure](prwe326.md)

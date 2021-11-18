@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca63)  [Next](fsca65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca63)  [Next](fsca65.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ supporter. In the ancient<span id="img_23700"></span>
 
 |                                                    |
 |----------------------------------------------------|
-| ![Dexter supporter of Baron Hawke.](img/23700.jpg) |
+| ![Dexter supporter of Baron Hawke.](img/23700.jpg.md) |
 
 mythology he was originally a mere symbol of the watery element, he
 afterwards became a distinct personality; the mighty ruler of the sea
@@ -93,4 +93,4 @@ two water-bougets of the second*.
 
 ------------------------------------------------------------------------
 
-[Next: Merman or Triton](fsca65)
+[Next: Merman or Triton](fsca65.md)

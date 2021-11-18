@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb32)  [Next](yefb34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb32)  [Next](yefb34.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_206">p. 206</span>
 
-THE SNOW-DAUGHTER AND THE FIRE-SON <span id="fr_24"></span>[1](#fn_24)
+THE SNOW-DAUGHTER AND THE FIRE-SON <span id="fr_24"></span>[1](#fn_24.md)
 
 There was once upon a time a man and his wife, and they had no children,
 which was a great grief to them.  One winter's day, when the sun was
@@ -135,13 +135,13 @@ And so ended the unhappy brother and sister.
 
 ### Footnotes
 
-<span id="fn_24"></span>[206:1](yefb33.htm#fr_24) From the *Bukowinaer*
+<span id="fn_24"></span>[206:1](yefb33.htm#fr_24.md) From the *Bukowinaer*
 *Tales and Legends*. Von Wliolocki.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Story of King Frost](yefb34)
+[Next: The Story of King Frost](yefb34.md)
 
 </div>

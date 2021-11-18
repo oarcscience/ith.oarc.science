@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt00)  [Next](hkt02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt00)  [Next](hkt02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -185,6 +185,6 @@ I read very plainly the interesting motto, "TESTIS SVM AGNI.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](hkt02)
+[Next: Contents](hkt02.md)
 
 </div>

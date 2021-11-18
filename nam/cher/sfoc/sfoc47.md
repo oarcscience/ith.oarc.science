@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc46)  [Next](sfoc48) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc46)  [Next](sfoc48.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ as generally used, to turn one's soul is equivalent to killing him.
 
 ------------------------------------------------------------------------
 
-[Next: To Fix the Affections](sfoc48)
+[Next: To Fix the Affections](sfoc48.md)

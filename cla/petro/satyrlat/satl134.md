@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat17.htm#CXXXIV) 
-[Previous](satl133)  [Next](satl135) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat17.htm#CXXXIV.md) 
+[Previous](satl133)  [Next](satl135.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ et rursus fluvios in summo vertice ponam."
 
 ------------------------------------------------------------------------
 
-[Next: CXXXV](satl135)
+[Next: CXXXV](satl135.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Icelandic](../index)  [Index](index) 
-[Previous](lax61)  [Next](lax63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Icelandic](../index)  [Index](index.md) 
+[Previous](lax61)  [Next](lax63.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ and so they did, and stayed there for a while.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXIII: The Description of his Enemies brought to
-Helgi](lax63)
+Helgi](lax63.md)

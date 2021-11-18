@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](oph07)  [Next](oph09) 
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](oph07)  [Next](oph09.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ basket, in which the sacred serpent was carried at the orgies of
 Bacchus. The whole legend relates to Ophiolatreia. In accordance with
 the general practice, the worshippers of Bacchus carried in their
 consecrated baskets or chests the Mystery of their God, together with
-the offerings."  <span id="fr_6"></span>[1](#fn_6)
+the offerings."  <span id="fr_6"></span>[1](#fn_6.md)
 
 At the banquets of the Bacchantes, or rather, after them, it was usual
 to carry round a cup, which was called the "cup of the good dæmon." The
@@ -176,8 +176,8 @@ imported into Constantinople.
 
 ### Footnotes
 
-<span id="fn_6"></span>[1](oph08.htm#fr_6) Deane.
+<span id="fn_6"></span>[1](oph08.htm#fr_6.md) Deane.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9](oph09)
+[Next: Chapter 9](oph09.md)

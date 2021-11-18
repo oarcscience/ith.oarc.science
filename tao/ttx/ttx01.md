@@ -1,10 +1,10 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx00) [Next](ttx02)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx00) [Next](ttx02.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_i">p. i</span>
 
-# INTRODUCTION.<span id="page_i_fr_*"></span>[\*](#page_i_note_*)
+# INTRODUCTION.<span id="page_i_fr_*"></span>[\*](#page_i_note_*.md)
 
 IT occasionally happens that a sudden ray of clear and valuable light is
 thrown upon a long-disputed subject from a source the very existence of
@@ -104,7 +104,7 @@ hues, gives one man red hair and another black, and, in a word, is the
 cause of every phenomenon we see, the main-spring of the huge machine of
 which we form a part? We, too, have failed to find a name for it, and so
 we call it N<span class="small">ATURE</span>.<span
-id="page_iii_fr_*"></span>[\*](#page_iii_note_*) This, I believe, is the
+id="page_iii_fr_*"></span>[\*](#page_iii_note_*.md) This, I believe, is the
 key to early Taoism. Translate T<span class="small">AO</span>, as used
 in this sense, by our common word Nature, or Principle of Nature, and
 nine-tenths of the difficulties attending the study of this beautiful
@@ -233,7 +233,7 @@ F. H. B.  
 
 ------------------------------------------------------------------------
 
-[Next](ttx02)
+[Next](ttx02.md)
 
 ------------------------------------------------------------------------
 
@@ -241,13 +241,13 @@ F. H. B.  
 
 <span id="footnotes_page_i">p. i</span>
 
-<span id="page_i_note_*"></span>[\*](#page_i_fr_*) Originally read
+<span id="page_i_note_*"></span>[\*](#page_i_fr_*.md) Originally read
 before the North-China Branch of the Royal Asiatic Society, on the 21st
 September, 1880.
 
 <span id="footnotes_page_iii">p. iii</span>
 
-<span id="page_iii_note_*"></span>[\*](#page_iii_fr_*) Compare Plänckner
+<span id="page_iii_note_*"></span>[\*](#page_iii_fr_*.md) Compare Plänckner
 and Hardwick, referred to in my *Chuang Tsze*, page VII. Nature, in the
 sense of an abstract cause, the initial Principle of life and order; the
 hypostatic quiddity which underlies all phenomena and of which they are

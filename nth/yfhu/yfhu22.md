@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](yfhu21)  [Next](yfhu23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](yfhu21)  [Next](yfhu23.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -177,4 +177,4 @@ higher, the greater and the better now. And we all can.
 
 ------------------------------------------------------------------------
 
-[Next: Dust Jacket Copy](yfhu23)
+[Next: Dust Jacket Copy](yfhu23.md)

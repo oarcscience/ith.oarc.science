@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic13)  [Next](tic15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic13)  [Next](tic15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ about the marvels our Lord works in it. I will describe some of them in
 my own way, also the state in which they leave the soul, and will use a
 suitable comparison to elucidate the matter, explaining that though we
 can take no active part in this work of God within us, <span
-id="fr_172"></span>[1](#fn_172) yet we may do much to prepare ourselves
+id="fr_172"></span>[1](#fn_172.md) yet we may do much to prepare ourselves
 to receive this grace. You have heard how wonderfully silk is made--in a
 way such as God alone could plan--how it all comes from an egg
 resembling a tiny pepper-corn. Not having seen it myself, I only know of
@@ -82,7 +82,7 @@ as I told you in the first part of this chapter, it begins to spin silk
 and to build the house wherein it must die. By this house, when speaking
 of the soul, I mean Christ. I think I read or heard somewhere, either
 that our life is hid in Christ, or in God (which means the same thing)
-or that Christ is our life. <span id="fr_173"></span>[2](#fn_173) It
+or that Christ is our life. <span id="fr_173"></span>[2](#fn_173.md) It
 makes little difference to my meaning which of these quotations is
 correct.
 
@@ -105,7 +105,7 @@ little cocoon. Let us renounce
 
 <span id="page_132">p. 132</span>
 
-self-love and self-will, <span id="fr_174"></span>[3](#fn_174) care for
+self-love and self-will, <span id="fr_174"></span>[3](#fn_174.md) care for
 nothing earthly, do penance, pray, mortify ourselves, be obedient, and
 perform all the other good works of which you know. Act up to your
 light; you have been taught your duties. Die! die as the silkworm does
@@ -117,15 +117,15 @@ manner described, in which He manifests Himself in this kind of union.
 6\. Now let us see what becomes of the 'silkworm,' for all I have been
 saying leads to this. As soon as, by means of this prayer, the soul has
 become entirely dead to the world, it comes forth like a lovely little
-white butterfly! <span id="fr_175"></span>[4](#fn_175) Oh, how great God
+white butterfly! <span id="fr_175"></span>[4](#fn_175.md) Oh, how great God
 is! How beautiful is the soul after having been immersed in God's
 grandeur and united closely to Him for but a short time! Indeed, I do
 not think it is ever as long as half an hour. <span
-id="fr_176"></span>[5](#fn_176) Truly, the spirit does not recognize
+id="fr_176"></span>[5](#fn_176.md) Truly, the spirit does not recognize
 itself, being as different from what it was as is the white butterfly
 from the repulsive caterpillar. It does not know how it can have merited
 so great a good, or rather, whence this grace came <span
-id="fr_177"></span>[6](#fn_177) which it well knows it merits not. The
+id="fr_177"></span>[6](#fn_177.md) which it well knows it merits not. The
 soul desires to praise our Lord God and longs to sacrifice itself and
 die a thousand deaths for Him. It feels an unconquerable desire for
 great
@@ -156,7 +156,7 @@ courage to forsake relations, friends, or possessions: neither its
 actions, its resolutions, nor separation from those it loved could
 detach the soul, but rather seemed to increase its fondness. Now it
 finds even their rightful claims a burden, <span
-id="fr_178"></span>[7](#fn_178) fearing contact with
+id="fr_178"></span>[7](#fn_178.md) fearing contact with
 
 <span id="page_134">p. 134</span>
 
@@ -170,7 +170,7 @@ things, seeks repose elsewhere. Where can the poor little creature go?
 It cannot return to whence it came, for as I told you, that is not in
 the soul's power, do what it will, but depends upon God's pleasure.
 Alas, what fresh trials begin to afflict the mind! Who would expect this
-after such a sublime grace? <span id="fr_179"></span>[8](#fn_179) In
+after such a sublime grace? <span id="fr_179"></span>[8](#fn_179.md) In
 fact in one way or another we must carry the cross all our lives. If
 people told me that ever since attaining to the prayer of union they had
 enjoyed constant peace and consolation, I should reply that they could
@@ -220,9 +220,9 @@ appears to cut the soul to pieces and grind it to powder through no
 action--even sometimes with no wish--of its own. What is this sorrow,
 then? Whence does it come? I will tell you. Have you not heard (I quoted
 the words to you just now, but did not apply to them this meaning) <span
-id="fr_180"></span>[9](#fn_180) how the Bride says that God 'brought her
+id="fr_180"></span>[9](#fn_180.md) how the Bride says that God 'brought her
 into the cellar of wine and set in order charity in her'? <span
-id="fr_181"></span>[10](#fn_181) This is what happens here. The soul has
+id="fr_181"></span>[10](#fn_181.md) This is what happens here. The soul has
 so entirely yielded itself into His hands and is so subdued by love for
 Him that it knows or cares for nothing but that God should dispose of it
 according to His will. I believe that He only bestows this grace on
@@ -245,7 +245,7 @@ Christ?
 
 <span class="contnote">\[paragraph continues\]</span> As He said at the
 Last Supper: 'With desire have I desired' <span
-id="fr_182"></span>[11](#fn_182) this. O Lord! does not that bitter
+id="fr_182"></span>[11](#fn_182.md) this. O Lord! does not that bitter
 death Thou art to undergo present itself before Thine eyes in all its
 pain and horror? 'No, for My ardent love and My desire to save souls are
 immeasurably stronger than the torments. This deeper sorrow I have
@@ -253,7 +253,7 @@ suffered and still suffer while living here on earth, makes other pain
 seem as nothing in comparison.'
 
 13\. I have often meditated on this and I know that the torture a friend
-of mine <span id="fr_183"></span>[12](#fn_183) has felt, and still
+of mine <span id="fr_183"></span>[12](#fn_183.md) has felt, and still
 feels, at seeing our Lord sinned against is so unbearable that she would
 far rather die than continue in such anguish. Then I thought that if a
 soul whose charity is so weak compared to that of Christ--indeed, in
@@ -283,45 +283,45 @@ destroyed not only His life but many more lives, had they been His.
 
 ### Footnotes
 
-<span id="fn_172"></span>[129:1](tic14.htm#fr_172) *Way of Perf.* ch.
+<span id="fn_172"></span>[129:1](tic14.htm#fr_172.md) *Way of Perf.* ch.
 xxv. 3.
 
-<span id="fn_173"></span>[131:2](tic14.htm#fr_173) Col. iii. 3: 'Vita
+<span id="fn_173"></span>[131:2](tic14.htm#fr_173.md) Col. iii. 3: 'Vita
 vestra est abscondita cum Christo in Deo.' Gal. ii. w: 'Vivo autem, jam
 on ego; vivit vero in me Christus.'
 
-<span id="fn_174"></span>[132:3](tic14.htm#fr_174) *Way of Perf.* ch.
+<span id="fn_174"></span>[132:3](tic14.htm#fr_174.md) *Way of Perf.* ch.
 xxxi. i 1.
 
-<span id="fn_175"></span>[132:4](tic14.htm#fr_175) St. Teresa must have
+<span id="fn_175"></span>[132:4](tic14.htm#fr_175.md) St. Teresa must have
 been thinking of this simile when she chose 'butterflies' as the
 pseudonym for her nuns in her letters at the time when she was obliged
 to be cautious on account of the troubles of the Reform.
 
-<span id="fn_176"></span>[132:5](tic14.htm#fr_176) *Life*, ch. xviii.
+<span id="fn_176"></span>[132:5](tic14.htm#fr_176.md) *Life*, ch. xviii.
 16.
 
-<span id="fn_177"></span>[132:6](tic14.htm#fr_177) *Life*, ch. xviii.
+<span id="fn_177"></span>[132:6](tic14.htm#fr_177.md) *Life*, ch. xviii.
 5-7.
 
-<span id="fn_178"></span>[133:7](tic14.htm#fr_178) *Rel*. ix, 11.
+<span id="fn_178"></span>[133:7](tic14.htm#fr_178.md) *Rel*. ix, 11.
 
-<span id="fn_179"></span>[134:8](tic14.htm#fr_179) *Way of Perf.* ch.
+<span id="fn_179"></span>[134:8](tic14.htm#fr_179.md) *Way of Perf.* ch.
 xviii. 1-4. *Castle*, M. vi ch. i. 3, *sqq*. M. vii. ch. iv. 7.
 
-<span id="fn_180"></span>[136:9](tic14.htm#fr_180) Fifth Mansions, ch.
+<span id="fn_180"></span>[136:9](tic14.htm#fr_180.md) Fifth Mansions, ch.
 i. 10.
 
-<span id="fn_181"></span>[136:10](tic14.htm#fr_181) *Cant*. ii. 4.
+<span id="fn_181"></span>[136:10](tic14.htm#fr_181.md) *Cant*. ii. 4.
 'Introduxit me in cellam vinariam, ordinavit in me caritatem.'
 
-<span id="fn_182"></span>[137:11](tic14.htm#fr_182) St. Luke xxii. 15:
+<span id="fn_182"></span>[137:11](tic14.htm#fr_182.md) St. Luke xxii. 15:
 'Desiderio desideravi hoc pascha manducare vobiscum, antequam patiar.'
 
-<span id="fn_183"></span>[137:12](tic14.htm#fr_183) This friend is, of
+<span id="fn_183"></span>[137:12](tic14.htm#fr_183.md) This friend is, of
 course, St. Teresa herself. See *Life*, ch. xiii. 14; xxxii. 9. *Way of
 Perf*. ch. i. 3. *Castle*, M. vii. ch. i. 5, 6. *Excl*. x. 9.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Cause of Union](tic15)
+[Next: Chapter III. Cause of Union](tic15.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](bfd03)  [Next](bfd05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](bfd03)  [Next](bfd05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402152167/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402152167/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Filial Duty*, by Ivan Chen, \[1908\], at Intangible Textual
 Heritage
 
@@ -47,9 +47,9 @@ want of his parents. The next is to serve his government loyally; and
 the last to establish a good name for himself.
 
 "So it is written in the *Ta Ya* <span
-id="fr_1"></span>[1](bfd05.htm#fn_1): "You must think of your ancestors
+id="fr_1"></span>[1](bfd05.htm#fn_1.md): "You must think of your ancestors
 and continue to cultivate the virtue which you inherit from them."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: The Filial Duty of an Emperor](bfd05)
+[Next: Chapter II: The Filial Duty of an Emperor](bfd05.md)

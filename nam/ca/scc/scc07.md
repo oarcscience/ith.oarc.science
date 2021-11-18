@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc06)  [Next](scc08) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc06)  [Next](scc08.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ some, he did not let them. He said: "You will be burned."
 
 ------------------------------------------------------------------------
 
-[Next: 6.--Rumsien Costanoan. Coyote With A Thorn In His Eye.](scc08)
+[Next: 6.--Rumsien Costanoan. Coyote With A Thorn In His Eye.](scc08.md)

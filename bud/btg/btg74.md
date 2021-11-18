@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg73)  [Next](btg75) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg73)  [Next](btg75.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ were attendants on the Buddha."
 
 ------------------------------------------------------------------------
 
-[Next: The Sower](btg75)
+[Next: The Sower](btg75.md)

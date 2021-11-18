@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb02)  [Next](wfb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb02)  [Next](wfb04.md) 
 
 ------------------------------------------------------------------------
 
@@ -263,4 +263,4 @@ centuries among their descendants.
 
 ------------------------------------------------------------------------
 
-[Next: Arthur in the Cave](wfb04)
+[Next: Arthur in the Cave](wfb04.md)

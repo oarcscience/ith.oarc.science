@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai08)  [Next](kwai10) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai08)  [Next](kwai10.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ Egg... And, simultaneously, the light went out.
 
 ------------------------------------------------------------------------
 
-[Next: Rokuro-Kubi](kwai10)
+[Next: Rokuro-Kubi](kwai10.md)

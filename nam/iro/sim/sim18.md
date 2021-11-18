@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim17)  [Next](sim19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim17)  [Next](sim19.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ aid. They flew at Muck-worm and pecked him to death.
 
 ------------------------------------------------------------------------
 
-[Next: The Thunder Boy](sim19)
+[Next: The Thunder Boy](sim19.md)

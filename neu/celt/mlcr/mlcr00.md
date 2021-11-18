@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](mlcr01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](mlcr01.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ living people of the blood, the instincts and the genius of the Celt.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: The Celts in Ancient History](mlcr01)
+[Next: Chapter I: The Celts in Ancient History](mlcr01.md)

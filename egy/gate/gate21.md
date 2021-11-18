@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate20)  [Next](gate22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate20)  [Next](gate22.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ SHETA-AB. These names mean "Right (or, true) of heart" and
  
 
 <span id="img_15900"></span> [![](tn/generic.jpg)  
-Click to view](img/15900.jpg)  
+Click to view](img/15900.jpg.md)  
 The Judgment Hall of Osiris. The Gate of the Serpent Set-em-maa-f.
 
  
@@ -50,7 +50,7 @@ drawn, which is intended to represent the roof of the shrine or canopy
 in which the god is seated, and on it rests a row of *kakheru*, i.e.,
 spear-head ornaments. From the inside of the roof hang, upside down,
 four heads of some kind of horned animal. These are called *Hahaiu*, and
-are supposed to be heads of gazelle <span id="fr_13"></span>[1](#fn_13)
+are supposed to be heads of gazelle <span id="fr_13"></span>[1](#fn_13.md)
 or oxen. In the space between the spear-head ornaments and the side of
 the Tuat is written
 
@@ -79,7 +79,7 @@ along by a dog-headed ape which flourishes a stick. In the top left-hand
 corner is a figure of Anubis, jackal-headed, and under the floor of the
 platform on which Osiris is seated are figures of the enemy of SAR, or
 Osiris. From the variant of this scene which is found on the sarcophagus
-of Tchehra at Paris, <span id="fr_14"></span>[1](#fn_14) as well as from
+of Tchehra at Paris, <span id="fr_14"></span>[1](#fn_14.md) as well as from
 the sarcophagus of Seti I., we may see that the pig in the
 
 <span id="page_162">p. 162</span>
@@ -91,10 +91,10 @@ Scales, probably with the view of destroying the deceased if the
 judgment of Osiris prove adverse to him.
 
 This inscription is in the so-called "enigmatic" writing, <span
-id="fr_15"></span>[1](#fn_15) a fact which was first noticed by
+id="fr_15"></span>[1](#fn_15.md) a fact which was first noticed by
 Champollion, but a transcript of it exists on the sarcophagus of Tchehra
 in characters which have the ordinary values, <span
-id="fr_16"></span>[2](#fn_16) and this reads as follows:--
+id="fr_16"></span>[2](#fn_16.md) and this reads as follows:--
 
 <span id="page_163">p. 163</span>
 
@@ -111,12 +111,12 @@ words, may he make to eat his father."
 Immediately over the boat is the short inscription which Goodwin renders
 by, "\[When\] this god entereth, he (i.e., the Ape) riseth and putteth
 under restraint AM-A (i.e., the Eater of the Arm)." <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 <span id="page_164">p. 164</span>
 
 Behind the pair of scales is the legend <span
-id="fr_18"></span>[1](#fn_18) which Mr. Goodwin renders, "The
+id="fr_18"></span>[1](#fn_18.md) which Mr. Goodwin renders, "The
 balance-bearer does homage; the blessed spirits in Amenti follow after
 him; the morning, star disperses the thick darkness; there is good will
 above, justice below. The god reposes himself, he gives bread to the
@@ -146,7 +146,7 @@ as above. Mr. Goodwin made an
 attempt to transcribe and translate a part of the texts, but as he
 considered them to form only one inscription we cannot accept his
 rendering. M. Lefébure has made translations of both texts, and they
-read <span id="fr_19"></span>[1](#fn_19):--
+read <span id="fr_19"></span>[1](#fn_19.md):--
 
 I. "They, they hide those which are in the state of the elect. They the
 country \[belonging to them, is Ameh in the land. Behold, these are they
@@ -172,31 +172,31 @@ sceptre of the god.
 
 ### Footnotes
 
-<span id="fn_13"></span>[160:1](gate21.htm#fr_13) "Têtes de gazelles"
+<span id="fn_13"></span>[160:1](gate21.htm#fr_13.md) "Têtes de gazelles"
 (Champollion, *Monuments*, tom. ii., p. 495).
 
-<span id="fn_14"></span>[161:1](gate21.htm#fr_14) Sharp, *Inscriptions*,
+<span id="fn_14"></span>[161:1](gate21.htm#fr_14.md) Sharp, *Inscriptions*,
 part ii., pl. 9.
 
-<span id="fn_15"></span>[162:1](gate21.htm#fr_15) See Goodwin, *Aeg.
+<span id="fn_15"></span>[162:1](gate21.htm#fr_15.md) See Goodwin, *Aeg.
 Zeit.*, 1873, p. 138; Renouf, *ibid*., 1874, p. 101; and Champollion,
 *Monuments*, pl. 272.
 
-<span id="fn_16"></span>[162:2](gate21.htm#fr_16) Lefébure renders, "O
+<span id="fn_16"></span>[162:2](gate21.htm#fr_16.md) Lefébure renders, "O
 ye who bring the word just or false to me, he, Thoth, examines the
 words" (*Records of the Past*, vol. x., p. 114).
 
-<span id="fn_17"></span>[163:1](gate21.htm#fr_17) The diver \[when\]
+<span id="fn_17"></span>[163:1](gate21.htm#fr_17.md) The diver \[when\]
 this god rises, he gives up \[the pig\] to the plagues" (Lefébure, *op.
 cit*., p. 114).
 
-<span id="fn_18"></span>[164:1](gate21.htm#fr_18) See also Champollion,
+<span id="fn_18"></span>[164:1](gate21.htm#fr_18.md) See also Champollion,
 *Monuments*, tom. ii., p. 490.
 
-<span id="fn_19"></span>[166:1](gate21.htm#fr_19) *Records of The Past*,
+<span id="fn_19"></span>[166:1](gate21.htm#fr_19.md) *Records of The Past*,
 vol. x., p. 114.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. The Gate Of Set-em-maat-f. The Sixth Division Of
-The Tuat--continued.](gate22)
+The Tuat--continued.](gate22.md)

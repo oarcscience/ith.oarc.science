@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth060)  [Next](toth062) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth060)  [Next](toth062.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 58. THE COYOTE AND THE TURTLES. <span id="fr_126"></span>[1](#fn_124)
+## 58. THE COYOTE AND THE TURTLES. <span id="fr_126"></span>[1](#fn_124.md)
 
 A long time ago the Turtles lived in a river called Blue River
 (Sakwábayu), somewhere south-east of Winslow (Homólovi) . The Coyote was
@@ -109,9 +109,9 @@ And the Turtles are living there in that water still.
 
 ### Footnotes
 
-<span id="fn_124"></span>[182:1](toth061.htm#fr_126) Told by Qöyáwaima
+<span id="fn_124"></span>[182:1](toth061.htm#fr_126.md) Told by Qöyáwaima
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 59. The Water Serpent and the Coyote](toth062)
+[Next: 59. The Water Serpent and the Coyote](toth062.md)

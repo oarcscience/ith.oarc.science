@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac34)  [Next](sac36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac34)  [Next](sac36.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,13 +44,13 @@ obtained.
 If for any reason it is found necessary or desirable to make
 observations of the azimuths independently of the Ordnance Survey, full
 instructions as to the method of procedure may be found in an
-inexpensive instruction book <span id="fr_132"></span>[1](#fn_132)
+inexpensive instruction book <span id="fr_132"></span>[1](#fn_132.md)
 issued by the Board of Education: The instructions given on p. 49, § 3,
 are most
 
 <span id="page_330">p. 330</span>
 
-generally applicable, and the form on [p. 76](sac11.htm#page_76) will be
+generally applicable, and the form on [p. 76](sac11.htm#page_76.md) will be
 found very handy for recording and reducing the observations.
 
 In making observations of the angular elevation of the horizon a good
@@ -89,7 +89,7 @@ Az. (from 25″ Ordnance Map). N. 66° 38´ E.
 
 Elevation of horizon (measured) 2° 10.´
 
-Reference to the May-Sun-curve, given on [p. 263](sac27.htm#page_263),
+Reference to the May-Sun-curve, given on [p. 263](sac27.htm#page_263.md),
 indicates that this is probably an alignment to the sunrise on May
 morning. Therefore, in determining the zenith distance, the correction
 for the sun's semi-diameter (16´) must be taken into account, allowing
@@ -123,7 +123,7 @@ from the *North* point.
 
 |       |                                                                                         |
 |-------|-----------------------------------------------------------------------------------------|
-| \(2\) | <span id="img_33102"></span> ![](img/33102.jpg)  <span id="fr_133"></span>[1](#fn_133), |
+| \(2\) | <span id="img_33102"></span> ![](img/33102.jpg)  <span id="fr_133"></span>[1](#fn_133.md), |
 
 where Δ is the N.P.D. of the celestial object, and *c* is the colatitude
 (90° - lat.) of the place of observation.
@@ -142,7 +142,7 @@ modification necessary in the process  of calculating the declination
 would have been . to omit the semi-diameter correction of 14´.
 
 Having obtained a declination, we must refer to the curves given on pp.
-[115](sac14.htm#page_115)-6 in order to see if, there is any star which,
+[115](sac14.htm#page_115.md)-6 in order to see if, there is any star which,
 fits it, and to find the date.
 
 <span id="page_332">p. 332</span>
@@ -153,9 +153,9 @@ the Tregeseal circle—
 Az. = N. 12° 8´ E.; hill=4° 0.´ lat.=50° 8´.
 
 This gives us a declination of 42° 33´ N., and a reference to the
-stellar-declination curves (p. [115](sac14.htm#page_115)-6) shows that
+stellar-declination curves (p. [115](sac14.htm#page_115)-6.md) shows that
 Arcturus had that declination in 2330 B.C. From the table given on [p.
-117](sac14.htm#page_117), we see that at that epoch Arcturus acted as
+117](sac14.htm#page_117.md), we see that at that epoch Arcturus acted as
 warning-star for the August sun.
 
 In cases where the elevation of the horizon is 30´, or in preliminary
@@ -175,13 +175,13 @@ where Δ and A have the same significance as before and λ is the
 
 ### Footnotes
 
-<span id="fn_132"></span>[329:1](sac35.htm#fr_132) *Demonstrations and
+<span id="fn_132"></span>[329:1](sac35.htm#fr_132.md) *Demonstrations and
 Practical Work in Astronomical Physics at the Royal: College of Science,
 South Kensington*. Wyman and Sons, 1*s*.
 
-<span id="fn_133"></span>[331:1](sac35.htm#fr_133) cos (c - θ) = cos -
+<span id="fn_133"></span>[331:1](sac35.htm#fr_133) cos (c - θ.md) = cos -
 (c - θ).
 
 ------------------------------------------------------------------------
 
-[Next: Index](sac36)
+[Next: Index](sac36.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc60)  [Next](mtc62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc60)  [Next](mtc62.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 #### (*Circa* A.D. *840*)
 
 <span class="smallcaps">When</span> Lo-t‘ien <span
-id="fr_35"></span>[1](#fn_33) was old, he fell ill of a palsy. So he
+id="fr_35"></span>[1](#fn_33.md) was old, he fell ill of a palsy. So he
 made a list of his possessions and examined his expenses, that he might
 reject whatever had become superfluous. He had in his employ a girl
 about twenty years old called Fan Su, whose postures delighted him when
@@ -41,7 +41,7 @@ done speaking her tears fell.
 
 When first I heard Su's words, I was too sad to speak and could not
 answer her. But in a little while I ordered the bridle to be turned and
-the sleeve reversed. <span id="fr_36"></span>[1](#fn_33) Then I gave her
+the sleeve reversed. <span id="fr_36"></span>[1](#fn_33.md) Then I gave her
 wine and drank a cup myself, and in my happiness sang
 
 <span id="page_95">p. 95</span>
@@ -72,7 +72,7 @@ Meekly he has borne the bit,
     Without shying, without bolting.  
 And I have served you for ten years,  
     Three thousand and six hundred days;  
-Patient carrier of towel and comb, <span id="fr_37"></span>[2](#fn_34)  
+Patient carrier of towel and comb, <span id="fr_37"></span>[2](#fn_34.md)  
     Without complaint, without loss.*
 
 <span id="page_96">p. 96</span>
@@ -102,7 +102,7 @@ For you shall go back to your stall;
 And you to the women's room.  
 For though I am ill indeed,  
 And though my years are at their close,  
-The doom of Hsiang Chi <span id="fr_38"></span>[3](#fn_35) has not
+The doom of Hsiang Chi <span id="fr_38"></span>[3](#fn_35.md) has not
 befallen me yet.*
 
 <span id="page_97">p. 97</span>
@@ -118,12 +118,12 @@ And take you with me to the Land of Drunkenness."*
 
 ### Footnotes
 
-<span id="fn_33"></span>[94:1](mtc61.htm#fr_36) I.e., Po Chü-i himself.
+<span id="fn_33"></span>[94:1](mtc61.htm#fr_36.md) I.e., Po Chü-i himself.
 
-<span id="fn_34"></span>[95:2](mtc61.htm#fr_37) I.e., performing the
+<span id="fn_34"></span>[95:2](mtc61.htm#fr_37.md) I.e., performing the
 functions of a wife.
 
-<span id="fn_35"></span>[96:3](mtc61.htm#fr_38) Who, surrounded at the
+<span id="fn_35"></span>[96:3](mtc61.htm#fr_38.md) Who, surrounded at the
 battle of Kai-hsia (202 B. C.), gave his horse to a boatman, lest it
 should fall into the hands of the enemy.
 
@@ -131,6 +131,6 @@ should fall into the hands of the enemy.
 
 ------------------------------------------------------------------------
 
-[Next: Illness](mtc62)
+[Next: Illness](mtc62.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Lagus, underwent the reverse of that denomination of Savior, which he
 then had. He also seized upon Jerusalem, and for that end made use of
 deceit and treachery; for as he came into the city on a sabbath day, as
 if he would offer sacrifices <span
-id="EndNote Ant 12.1a"></span>[(1)](#EndNote%20Ant%2012.1b) he, without
+id="EndNote Ant 12.1a"></span>[(1)](#EndNote%20Ant%2012.1b.md) he, without
 any trouble, gained the city, while the Jews did not oppose him, for
 they did not suspect him to be their enemy; and he gained it thus,
 because they were free from suspicion of him, and because on that day
@@ -45,7 +45,7 @@ This is what Agatharchides relates of our nation. But when Ptolemy had
 taken a great many captives, both from the mountainous parts of Judea,
 and from the places about Jerusalem and Samaria, and the places near
 Mount Gerizzim, he led them all into Egypt, <span
-id="EndNote Ant 12.2a"></span>[(2)](#EndNote%20Ant%2012.2b) and settled
+id="EndNote Ant 12.2a"></span>[(2)](#EndNote%20Ant%2012.2b.md) and settled
 them there. And as he knew that the people of Jerusalem were most
 faithful in the observation of oaths and covenants; and this from the
 answer they made to Alexander, when he sent an embassage to them, after
@@ -87,7 +87,7 @@ that there were many books of laws among the Jews worthy of inquiring
 after, and worthy of the king's library, but which, being written in
 characters and in a dialect of their own, will cause no small pains in
 getting them translated into the Greek tongue; <span
-id="EndNote Ant 12.3a"></span>[(3)](#EndNote%20Ant%2012.3b) that the
+id="EndNote Ant 12.3a"></span>[(3)](#EndNote%20Ant%2012.3b.md) that the
 character in which they are written seems to be like to that which is
 the proper character of the Syrians, and that its sound, when
 pronounced, is like theirs also; and that this sound appears to be
@@ -138,7 +138,7 @@ he ought to offer such a thank-offering as was worthy of his greatness
 of soul, to that God who had given him his kingdom. With this answer he
 was much pleased; and gave order, that when they paid the soldiers their
 wages, they should lay down \[a hundred and\] twenty drachmas <span
-id="EndNote Ant 12.4a"></span>[(4)](#EndNote%20Ant%2012.4b) for every
+id="EndNote Ant 12.4a"></span>[(4)](#EndNote%20Ant%2012.4b.md) for every
 one of the slaves? And he promised to publish a magnificent decree,
 about what they requested, which should confirm what Aristeus had
 proposed, and especially what God willed should be done; whereby he said
@@ -233,7 +233,7 @@ copy of the epistle which was written to Eleazar the high priest, who
 had obtained that dignity on the occasion following: When Onias the high
 priest was dead, his son Simon became his successor. He was called Simon
 the Just <span
-id="EndNote Ant 12.5a"></span>[(5)](#EndNote%20Ant%2012.5b) because of
+id="EndNote Ant 12.5a"></span>[(5)](#EndNote%20Ant%2012.5b.md) because of
 both his piety towards God, and his kind disposition to those of his own
 nation. When he was dead, and had left a young son, who was called
 Onias, Simon's brother Eleazar, of whom we are speaking, took the high
@@ -272,7 +272,7 @@ me."
 6\. When this epistle of the king was brought to Eleazar, he wrote an
 answer to it with all the respect possible: "Eleazar the high priest to
 king Ptolemy, sendeth greeting. If thou and thy queen Arsinoe, <span
-id="EndNote Ant 12.6a"></span>[(6)](#EndNote%20Ant%2012.6b) and thy
+id="EndNote Ant 12.6a"></span>[(6)](#EndNote%20Ant%2012.6b.md) and thy
 children, be well, we are entirely satisfied. When we received thy
 epistle, we greatly rejoiced at thy intentions; and when the multitude
 were gathered together, we read it to them, and thereby made them
@@ -450,7 +450,7 @@ waited for these that were sent by Eleazar; but as the old men came in
 with the presents, which the high priest had given them to bring to the
 king, and with the membranes, upon which they had their laws written in
 golden letters <span
-id="EndNote Ant 12.7a"></span>[(7)](#EndNote%20Ant%2012.7b) he put
+id="EndNote Ant 12.7a"></span>[(7)](#EndNote%20Ant%2012.7b.md) he put
 questions to them concerning those books; and when they had taken off
 the covers wherein they were wrapt up, they showed him the membranes. So
 the king stood admiring the thinness of those membranes, and the
@@ -498,7 +498,7 @@ cause he sent away their sacred heralds, and those that slew the
 sacrifices, and the rest that used to say grace; but called to one of
 those that were come to him, whose name was Eleazar, who w a priest, and
 desired him to say grace; <span
-id="EndNote Ant 12.8a"></span>[(8)](#EndNote%20Ant%2012.8b) who then
+id="EndNote Ant 12.8a"></span>[(8)](#EndNote%20Ant%2012.8b.md) who then
 stood in the midst of them, and prayed, that all prosperity might attend
 the king, and those that were his subjects. Upon which an acclamation
 was made by the whole company, with joy and a great noise; and when
@@ -507,7 +507,7 @@ of what was set before them. And at a little interval afterward, when
 the king thought a sufficient time had been interposed, he began to talk
 philosophically to them, and he asked every one of them a philosophical
 question <span
-id="EndNote Ant 12.9a"></span>[(9)](#EndNote%20Ant%2012.9b) and such a
+id="EndNote Ant 12.9a"></span>[(9)](#EndNote%20Ant%2012.9b.md) and such a
 one as might give light in those inquiries; and when they had explained
 all the problems that had been proposed by the king about every point,
 he was well-pleased with their answers. This took up the twelve days in
@@ -540,7 +540,7 @@ plenty: besides, Dorotheus, at the king's command, brought them a great
 deal of what was provided for the king himself. But in the morning they
 came to the court and saluted Ptolemy, and then went away to their
 former place, where, when they had washed their hands, <span
-id="EndNote Ant 12.10a"></span>[(10)](#EndNote%20Ant%2012.10b) and
+id="EndNote Ant 12.10a"></span>[(10)](#EndNote%20Ant%2012.10b.md) and
 purified themselves, they betook themselves to the interpretation of the
 laws. Now when the law was transcribed, and the labor of interpretation
 was over, which came to its conclusion in seventy-two days, Demetrius
@@ -621,7 +621,7 @@ the Macedonians and Greeks, who were the inhabitants, insomuch that
 these privileges continue to this very day: an argument for which you
 have in this, that whereas the Jews do not make use of oil prepared by
 foreigners, <span
-id="EndNote Ant 12.11a"></span>[(11)](#EndNote%20Ant%2012.11b) they
+id="EndNote Ant 12.11a"></span>[(11)](#EndNote%20Ant%2012.11b.md) they
 receive a certain sum of money from the proper officers belonging to
 their exercises as the value of that oil; which money, when the people
 of Antioch would have deprived them of, in the last war, Mucianus, who
@@ -631,7 +631,7 @@ and Titus his son governed the habitable earth, pray that these
 privileges of citizens might be taken away, they did not obtain their
 request. in which behavior any one may discern the equity and generosity
 of the Romans, <span
-id="EndNote Ant 12.12a"></span>[(12)](#EndNote%20Ant%2012.12b)
+id="EndNote Ant 12.12a"></span>[(12)](#EndNote%20Ant%2012.12b.md)
 especially of Vespasian and Titus, who, although they had been at a
 great deal of pains in the war against the Jews, and were exasperated
 against them, because they did not deliver up their weapons to them, but
@@ -824,7 +824,7 @@ among the people of Jerusalem, for gravity, prudence, and justice. His
 father's name was Tobias; and his mother was the sister of Onias the
 high priest, who informed him of the coming of the ambassador; for he
 was then sojourning at a village named Phicol, <span
-id="EndNote Ant 12.13a"></span>[(13)](#EndNote%20Ant%2012.13b) where he
+id="EndNote Ant 12.13a"></span>[(13)](#EndNote%20Ant%2012.13b.md) where he
 was born. Hereupon he came to the city \[Jerusalem\], and reproved Onias
 for not taking care of the preservation of his countrymen, but bringing
 the nation into dangers, by not paying this money. For which
@@ -1128,7 +1128,7 @@ the copy whereof here follows:
 "We have met with a certain writing, whereby we have discovered that
 both the Jews and the Lacedemonians are of one stock, and are derived
 from the kindred of Abraham <span
-id="EndNote Ant 12.14a"></span>[(14)](#EndNote%20Ant%2012.14b) It is but
+id="EndNote Ant 12.14a"></span>[(14)](#EndNote%20Ant%2012.14b.md) It is but
 just therefore that you, who are our brethren, should send to us about
 any of your concerns as you please. We will also do the same thing, and
 esteem your concerns as our own, and will look upon our concerns as in
@@ -1198,7 +1198,7 @@ Antiochus, and informed him that they were desirous to leave the laws of
 their country, and the Jewish way of living according to them, and to
 follow the king's laws, and the Grecian way of living. Wherefore they
 desired his permission to build them a Gymnasium at Jerusalem. <span
-id="EndNote Ant 12.15a"></span>[(15)](#EndNote%20Ant%2012.15b) And when
+id="EndNote Ant 12.15a"></span>[(15)](#EndNote%20Ant%2012.15b.md) And when
 he had given them leave, they also hid the circumcision of their
 genitals, that even when they were naked they might appear to be Greeks.
 Accordingly, they left off all the customs that belonged to their own
@@ -1221,7 +1221,7 @@ very briefly, and have therefore now thought it necessary to go over
 that history again, and that with great accuracy.
 
 3\. King Antiochus returning out of Egypt <span
-id="EndNote Ant 12.16a"></span>[(16)](#EndNote%20Ant%2012.16b) for fear
+id="EndNote Ant 12.16a"></span>[(16)](#EndNote%20Ant%2012.16b.md) for fear
 of the Romans, made an expedition against the city Jerusalem; and when
 he was there, in the hundred and forty-third year of the kingdom of the
 Seleucidse, he took the city without fighting, those of his own party
@@ -1252,7 +1252,7 @@ that the multitude of those captives that were taken alive amounted to
 about ten thousand. He also burnt down the finest buildings; and when he
 had overthrown the city walls, he built a citadel in the lower part of
 the city, <span
-id="EndNote Ant 12.17a"></span>[(17)](#EndNote%20Ant%2012.17b) for the
+id="EndNote Ant 12.17a"></span>[(17)](#EndNote%20Ant%2012.17b.md) for the
 place was high, and overlooked the temple; on which account he fortified
 it with high walls and towers, and put into it a garrison of
 Macedonians. However, in that citadel dwelt the impious and wicked part
@@ -1291,7 +1291,7 @@ are these: "To king Antiochus the god, Epiphanes, a memorial from the
 Sidonians, who live at Shechem. Our forefathers, upon certain frequent
 plagues, and as following a certain ancient superstition, had a custom
 of observing that day which by the Jews is called the Sabbath. <span
-id="EndNote Ant 12.18a"></span>[(18)](#EndNote%20Ant%2012.18b) And when
+id="EndNote Ant 12.18a"></span>[(18)](#EndNote%20Ant%2012.18b.md) And when
 they had erected a temple at the mountain called Gerrizzim, though
 without a name, they offered upon it the proper sacrifices. Now, upon
 the just treatment of these wicked Jews, those that manage their
@@ -1330,7 +1330,7 @@ at Modin, the son of John, the son of Simeon, the son of Asamoneus, a
 priest of the order of Joarib, and a citizen of Jerusalem. He had five
 sons; John, who was called Gaddis, and Simon, who was called Matthes,
 and Judas, who was called Maccabeus, <span
-id="EndNote Ant 12.19a"></span>[(19)](#EndNote%20Ant%2012.19b) and
+id="EndNote Ant 12.19a"></span>[(19)](#EndNote%20Ant%2012.19b.md) and
 Eleazar, who was called Auran, and Jonathan, who was called Apphus. Now
 this Mattathias lamented to his children the sad state of their affairs,
 and the ravage made in the city, and the plundering of the temple, and
@@ -1739,13 +1739,13 @@ down, and so obtained a way through it; and the multitude of those that
 were slain was so great, that they went over the dead bodies. So they
 came over Jordan, and arrived at the great plain, over against which is
 situate the city Bethshah, which is called by the Greeks Scythopolis.
-<span id="EndNote Ant 12.20a"></span>[(20)](#EndNote%20Ant%2012.20b) And
+<span id="EndNote Ant 12.20a"></span>[(20)](#EndNote%20Ant%2012.20b.md) And
 going away hastily from thence, they came into Judea, singing psalms and
 hymns as they went, and indulging such tokens of mirth as are usual in
 triumphs upon victory. They also offered thank-offerings, both for their
 good success, and for the preservation of their army, for not one of the
 Jews was slain in these battles.<span
-id="EndNote Ant 12.21a"></span>[(21)](#EndNote%20Ant%2012.21b)
+id="EndNote Ant 12.21a"></span>[(21)](#EndNote%20Ant%2012.21b.md)
 
 6\. But as to Joseph, the son of Zacharias, and Azarias, whom Judas left
 generals \[of the rest of his forces\] at the same time when Simon was
@@ -1755,7 +1755,7 @@ affect the glory of being courageous generals in war, in order whereto
 they took the army that was under their command, and came to Jamnia.
 There Gorgias, the general of the forces of Jamnia, met them; and upon
 joining battle with him, they lost two thousand of their army, <span
-id="EndNote Ant 12.22a"></span>[(22)](#EndNote%20Ant%2012.22b) and fled
+id="EndNote Ant 12.22a"></span>[(22)](#EndNote%20Ant%2012.22b.md) and fled
 away, and were pursued to the very borders of Judea. And this misfortune
 befell them by their disobedience to what injunctions Judas had given
 them, not to fight with any one before his return. For besides the rest
@@ -1802,7 +1802,7 @@ when he had said this, he gave up the ghost. Whence one may wonder at
 Polybius of Megalopolis, who, though otherwise a good man, yet saith
 that "Antiochus died because he had a purpose to plunder the temple of
 Diana in Persia;" for the purposing to do a thing, <span
-id="EndNote Ant 12.23a"></span>[(23)](#EndNote%20Ant%2012.23b) but not
+id="EndNote Ant 12.23a"></span>[(23)](#EndNote%20Ant%2012.23b.md) but not
 actually doing it, is not worthy of punishment. But if Polybius could
 think that Antiochus thus lost his life on that account, it is much more
 probable that this king died on account of his sacrilegious plundering
@@ -1815,7 +1815,7 @@ of his companions, and made him the guardian of his kingdom; and gave
 him his diadem, and his garment, and his ring, and charged him to carry
 them, and deliver them to his son Antiochus; and desired him to take
 care of his education, and to preserve the kingdom for him. <span
-id="EndNote Ant 12.24a"></span>[(24)](#EndNote%20Ant%2012.24b) This
+id="EndNote Ant 12.24a"></span>[(24)](#EndNote%20Ant%2012.24b.md) This
 Antiochus died in the hundred forty and ninth year; but it was Lysias
 that declared his death to the multitude, and appointed his son
 Antiochus to be king, (of whom at present he had the care,) and called
@@ -1973,7 +1973,7 @@ and know from him what mischief Judas's party had done.
 
 2\. At this Demetrius was very angry, and sent Bacchides, a friend of
 Antiochus Epiphanes, <span
-id="EndNote Ant 12.25a"></span>[(25)](#EndNote%20Ant%2012.25b) a good
+id="EndNote Ant 12.25a"></span>[(25)](#EndNote%20Ant%2012.25b.md) a good
 man, and one that had been intrusted with all Mesopotamia, and gave him
 an army, and committed Alcimus the high priest to his care; and gave him
 charge to slay Judas, and those that were with him. So Bacchides made
@@ -2040,7 +2040,7 @@ upon this discovery of his purpose, and of the snares laid for Judas,
 Nicanor determined to make open war with him, and gathered his army
 together, and prepared for fighting him; and upon joining battle with
 him at a certain village called Capharsalama, he beat Judas, <span
-id="EndNote Ant 12.26a"></span>[(26)](#EndNote%20Ant%2012.26b) and
+id="EndNote Ant 12.26a"></span>[(26)](#EndNote%20Ant%2012.26b.md) and
 forced him to fly to that citadel which was at Jerusalem.
 
 5\. And when Nicanor came down from the citadel unto the temple, some of
@@ -2080,7 +2080,7 @@ former state of wars and hazards.
 wall of the sanctuary, which had been there of old time, and had been
 built by the holy prophets, he was smitten suddenly by God, and fell
 down. <span
-id="EndNote Ant 12.27a"></span>[(27)](#EndNote%20Ant%2012.27b) This
+id="EndNote Ant 12.27a"></span>[(27)](#EndNote%20Ant%2012.27b.md) This
 stroke made him fall down speechless upon the ground; and undergoing
 torments for many days, he at length died, when he had been high priest
 four years. And when he was dead, the people bestowed the high
@@ -2108,7 +2108,7 @@ to, or to take away any thing from, this league of assistance, that
 shall be done with the common consent of the Romans. And whatsoever
 addition shall thus be made, it shall be of force." This decree was
 written by Eupolemus the son of John, and by Jason the son of Eleazar,
-<span id="EndNote Ant 12.28a"></span>[(28)](#EndNote%20Ant%2012.28b)
+<span id="EndNote Ant 12.28a"></span>[(28)](#EndNote%20Ant%2012.28b.md)
 when Judas was high priest of the nation, and Simon his brother was
 general of the army. And this was the first league that the Romans made
 with the Jews, and was managed after this manner.
@@ -2128,7 +2128,7 @@ And when he had learned that Judas had pitched his camp at a certain
 village whose name was Bethzetho, he led his army against him: they were
 twenty thousand foot-men, and two thousand horsemen. Now Judas had no
 more soldiers than one thousand. <span
-id="EndNote Ant 12.29a"></span>[(29)](#EndNote%20Ant%2012.29b) When
+id="EndNote Ant 12.29a"></span>[(29)](#EndNote%20Ant%2012.29b.md) When
 these saw the multitude of Bacchides's men, they were afraid, and left
 their camp, and fled all away, excepting eight hundred. Now when Judas
 was deserted by his own soldiers, and the enemy pressed upon him, and
@@ -2185,12 +2185,12 @@ years, he died.
 
 ENDNOTE
 
-<span id="EndNote Ant 12.1b"></span>[(1)](#EndNote%20Ant%2012.1a) Here
+<span id="EndNote Ant 12.1b"></span>[(1)](#EndNote%20Ant%2012.1a.md) Here
 Josephus uses the very word koinopltagia, "eating things common," for
 "eating things unclean;" as does our New Testament, Acts 10:14, 15, 28;
 11:8, 9; Romans 14:14,
 
-<span id="EndNote Ant 12.2b"></span>[(2)](#EndNote%20Ant%2012.2a) The
+<span id="EndNote Ant 12.2b"></span>[(2)](#EndNote%20Ant%2012.2a.md) The
 great number of these Jews and Samaritans that were formerly carried
 into Egypt by Alexander, and now by Ptolemy the son of Lagus, appear
 afterwards in the vast multitude who as we shall see presently, were
@@ -2207,7 +2207,7 @@ that those who have a great synagogue at Cairo, as also those whom the
 Arabic geographer speaks of as having seized on an island in the Red
 Sea, are remains of them at this very day, as the notes here inform us.
 
-<span id="EndNote Ant 12.3b"></span>[(3)](#EndNote%20Ant%2012.3a) Of the
+<span id="EndNote Ant 12.3b"></span>[(3)](#EndNote%20Ant%2012.3a.md) Of the
 translation of the other parts of the Old Testament by seventy Egyptian
 Jews, in the reigns of Ptolemy the son of Lagus, and Philadelphus; as
 also of the translation of the Pentateuch by seventy-two Jerusalem Jews,
@@ -2216,7 +2216,7 @@ account of by Aristeus, and thence by Philo and Josephus, with a
 vindication of Aristeus's history; see the Appendix to Lit. Accorap. of
 Proph. at large, p. 117--152.
 
-<span id="EndNote Ant 12.4b"></span>[(4)](#EndNote%20Ant%2012.4a)
+<span id="EndNote Ant 12.4b"></span>[(4)](#EndNote%20Ant%2012.4a.md)
 Although this number one hundred and twenty drachmee \[of Alexandria, or
 sixty Jewish shekels\] be here three times repeated, and that in all
 Josephus's copies, Greek and Latin; yet since all the copies of
@@ -2232,12 +2232,12 @@ of these Jewish slaves, and those so very numerous, Philadelphus would
 rather redeem them at a cheaper than at a dearer rate; — there is great
 reason to prefer here Aristeus's copies before Josephus's.
 
-<span id="EndNote Ant 12.5b"></span>[(5)](#EndNote%20Ant%2012.5a) We
+<span id="EndNote Ant 12.5b"></span>[(5)](#EndNote%20Ant%2012.5a.md) We
 have a very great encomium of this Simon the Just, the son of Onias, in
 the fiftieth chapter of the Ecclesiasticus, through the whole chapter.
 Nor is it improper to consult that chapter itself upon this occasion.
 
-<span id="EndNote Ant 12.6b"></span>[(6)](#EndNote%20Ant%2012.6a) When
+<span id="EndNote Ant 12.6b"></span>[(6)](#EndNote%20Ant%2012.6a.md) When
 we have here and presently mention made of Philadelphus's queen and
 sister Arsinoe, we are to remember, with Spanheim, that Arsinoe was both
 his sister and his wife, according to the old custom of Persia, and of
@@ -2245,12 +2245,12 @@ Egypt at this very time; nay, of the Assyrians long afterwards. See
 Antiq. B. XX. ch. 2. sect. 1. Whence we have, upon the coins of
 Philadelphus, this known inscription, "The divine brother and sister."
 
-<span id="EndNote Ant 12.7b"></span>[(7)](#EndNote%20Ant%2012.7a) The
+<span id="EndNote Ant 12.7b"></span>[(7)](#EndNote%20Ant%2012.7a.md) The
 Talmudists say, that it is not lawful to write the law in letters of
 gold, contrary to this certain and very ancient example. See Hudson's
 and Reland's notes here.
 
-<span id="EndNote Ant 12.8b"></span>[(8)](#EndNote%20Ant%2012.8a) This
+<span id="EndNote Ant 12.8b"></span>[(8)](#EndNote%20Ant%2012.8a.md) This
 is the most ancient example I have met with of a grace, or short prayer,
 or thanksgiving before meat; which, as it is used to be said by a
 heathen priest, was now said by Eleazar, a Jewish priest, who was one of
@@ -2262,11 +2262,11 @@ Christians, at the end of the fifth book of the Apostolical
 Constitutions, which seems to have been intended for both times, both
 before and after meat.
 
-<span id="EndNote Ant 12.9b"></span>[(9)](#EndNote%20Ant%2012.9a) They
+<span id="EndNote Ant 12.9b"></span>[(9)](#EndNote%20Ant%2012.9a.md) They
 were rather political questions and answers, tending to the good and
 religious government of mankind.
 
-<span id="EndNote Ant 12.10b"></span>[(10)](#EndNote%20Ant%2012.10a)
+<span id="EndNote Ant 12.10b"></span>[(10)](#EndNote%20Ant%2012.10a.md)
 This purification of the interpreters, by washing in the sea, before
 they prayed to God every morning, and before they set about translating,
 may be compared with the like practice of Peter the apostle, in the
@@ -2275,7 +2275,7 @@ places of the Proseuchre, or of prayer, which were sometimes built near
 the sea or rivers also; of which matter see Antiq. B. XIV. ch. 10. sect.
 9,3; Acts 16:13. 16.
 
-<span id="EndNote Ant 12.11b"></span>[(11)](#EndNote%20Ant%2012.11a) The
+<span id="EndNote Ant 12.11b"></span>[(11)](#EndNote%20Ant%2012.11a.md) The
 use of oil was much greater, and the donatives of it much more valuable,
 in Judea, and the neighboring countries, than it is amongst us. It was
 also, in the days of Josephus, thought unlawful for Jews to make use of
@@ -2285,7 +2285,7 @@ therefore the heathens were to make them a donative of oil,: they paid
 them money instead of it. See Of the War, B. II. ch. 21. sect. 2; the
 Life of Josephus, sect. 13; and Hudson's note on the place before us.
 
-<span id="EndNote Ant 12.12b"></span>[(12)](#EndNote%20Ant%2012.12a)
+<span id="EndNote Ant 12.12b"></span>[(12)](#EndNote%20Ant%2012.12a.md)
 This, and the like great and just characters, of the justice, and
 equity. and generosity of the old Romans, both to the Jews and other
 conquered nations, affords us a very good reason why Almighty God, upon
@@ -2294,13 +2294,13 @@ people, and first established Christianity in that empire; of which
 matter see Josephus here, sect. 2; as also Antiq. B. XIV. ch. 10. sect.
 22, 23; B. XVI. ch. 2. sect. 4.
 
-<span id="EndNote Ant 12.13b"></span>[(13)](#EndNote%20Ant%2012.13a) The
+<span id="EndNote Ant 12.13b"></span>[(13)](#EndNote%20Ant%2012.13a.md) The
 name of this place, Phicol, is the very same with that of the chief
 captain of Abimelech's host, in the days of Abraham, Genesis 21:22, and
 might possibly be the place of that Phicol's nativity or abode, for it
 seems to have been in the south part of Palestine, as that was.
 
-<span id="EndNote Ant 12.14b"></span>[(14)](#EndNote%20Ant%2012.14a)
+<span id="EndNote Ant 12.14b"></span>[(14)](#EndNote%20Ant%2012.14a.md)
 Whence it comes that these Lacedemonians declare themselves here to be
 of kin to the Jews, as derived from the same ancestor, Abraham, I cannot
 tell, unless, as Grotius supposes, they were derived from Dores, that
@@ -2321,7 +2321,7 @@ Chorenensis, in his history of the Armenians, informs us, that the
 nation of the Parthians was also derived from Abraham by Keturah and her
 children.
 
-<span id="EndNote Ant 12.15b"></span>[(15)](#EndNote%20Ant%2012.15a)
+<span id="EndNote Ant 12.15b"></span>[(15)](#EndNote%20Ant%2012.15a.md)
 This word" Gymnasium" properly denotes a place where the exercises were
 performed naked, which because it would naturally distinguish
 circumcised Jews from uncircumcised Gentiles, these Jewish apostates
@@ -2329,7 +2329,7 @@ endeavored to appear uncircumcised, by means of a surgical operation,
 hinted at by St. Paul, 1 Corinthians 7:18, and described by Celsus, B.
 VII. ch. 25., as Dr. Hudson here informs us.
 
-<span id="EndNote Ant 12.16b"></span>[(16)](#EndNote%20Ant%2012.16a)
+<span id="EndNote Ant 12.16b"></span>[(16)](#EndNote%20Ant%2012.16a.md)
 Hereabout Josephus begins to follow the First Book of the Maccabees, a
 most excellent and most authentic history; and accordingly it is here,
 with great fidelity and exactness, abridged by him; between whose
@@ -2338,7 +2338,7 @@ sacred Hebrew book of the Old Testament whatsoever, (for this book also
 was originally written in Hebrew,) which is very natural, because it was
 written so much nearer to the times of Josephus than the rest were.
 
-<span id="EndNote Ant 12.17b"></span>[(17)](#EndNote%20Ant%2012.17a)
+<span id="EndNote Ant 12.17b"></span>[(17)](#EndNote%20Ant%2012.17a.md)
 This citadel, of which we have such frequent mention in the following
 history, both in the Maccabees and Josephus, seems to have been a castle
 built on a hill, lower than Mount Zion, though upon its skirts, and
@@ -2350,13 +2350,13 @@ their enemies might no more recover it, and might thence overlook the
 temple itself, and do them such mischief as they had long undergone from
 it, Antiq. B. XIII. ch. 6. sect. 6.
 
-<span id="EndNote Ant 12.18b"></span>[(18)](#EndNote%20Ant%2012.18a)
+<span id="EndNote Ant 12.18b"></span>[(18)](#EndNote%20Ant%2012.18a.md)
 This allegation of the Samaritans is remarkable, that though they were
 not Jews, yet did they, from ancient times, observe the Sabbath day,
 and, as they elsewhere pretend, the Sabbatic year also, Antiq. B. XI.
 ch. 8. sect. 6.
 
-<span id="EndNote Ant 12.19b"></span>[(19)](#EndNote%20Ant%2012.19a)
+<span id="EndNote Ant 12.19b"></span>[(19)](#EndNote%20Ant%2012.19a.md)
 That this appellation of Maccabee was not first of all given to Judas
 Maccabeus, nor was derived from any initial letters of the Hebrew words
 on his banner, "Mi Kamoka Be Elire, Jehovah?" ("Who is like unto thee
@@ -2366,21 +2366,21 @@ way, that the original name of these Maccabees, and their posterity, was
 Asamoneans; which was derived from Asamoneus, the great-grandfather of
 Mattathias, as Josephus here informs us.
 
-<span id="EndNote Ant 12.20b"></span>[(20)](#EndNote%20Ant%2012.20a) The
+<span id="EndNote Ant 12.20b"></span>[(20)](#EndNote%20Ant%2012.20a.md) The
 reason why Bethshah was called Scythopolis is well known from Herodotus,
 B. I. p. 105, and Syncellus, p. 214, that the Scythians, when they
 overran Asia, in the days of Josiah, seized on this city, and kept it as
 long as they continued in Asia, from which time it retained the name of
 Scythopolis, or the City of the Scythians.
 
-<span id="EndNote Ant 12.21b"></span>[(21)](#EndNote%20Ant%2012.21a)
+<span id="EndNote Ant 12.21b"></span>[(21)](#EndNote%20Ant%2012.21a.md)
 This most providential preservation of all the religious Jews in this
 expedition, which was according to the will of God, is observable often
 among God's people, the Jews; and somewhat very like it in the changes
 of the four monarchies, which were also providential. See Prideaux at
 the years 331, 333, and 334.
 
-<span id="EndNote Ant 12.22b"></span>[(22)](#EndNote%20Ant%2012.22a)
+<span id="EndNote Ant 12.22b"></span>[(22)](#EndNote%20Ant%2012.22a.md)
 Here is another great instance of Providence, that when, even at the
 very time that Simon, and Judas, and Jonathan were so miraculously
 preserved and blessed, in the just defense of their laws and religion,
@@ -2389,7 +2389,7 @@ vain-glorious way, and without any commission from God, or the family he
 had raised up to deliver them, were miserably disappointed and defeated.
 See 1 Macc. 5:61, 62.
 
-<span id="EndNote Ant 12.23b"></span>[(23)](#EndNote%20Ant%2012.23a)
+<span id="EndNote Ant 12.23b"></span>[(23)](#EndNote%20Ant%2012.23a.md)
 Since St. Paul, a Pharisee, confesses that he had not known
 concupiscence, or desires, to be sinful, had not the tenth commandment
 said, "Thou shalt not covet," Romans 7:7, the case seems to have been
@@ -2400,12 +2400,12 @@ punishment of death, which is not intended by any law, either of God or
 man, for the bare intention, his words need not to be strained to mean,
 that sins intended, but not executed, were no sins at all.
 
-<span id="EndNote Ant 12.24b"></span>[(24)](#EndNote%20Ant%2012.24a) No
+<span id="EndNote Ant 12.24b"></span>[(24)](#EndNote%20Ant%2012.24a.md) No
 wonder that Josephus here describes Antiochus Eupator as young, and
 wanting tuition, when he came to the crown, since Appian informs us
 (Syriac. p. 177) that he was then but nine years old.
 
-<span id="EndNote Ant 12.25b"></span>[(25)](#EndNote%20Ant%2012.25a) It
+<span id="EndNote Ant 12.25b"></span>[(25)](#EndNote%20Ant%2012.25a.md) It
 is no way probable that Josephus would call Bacchidoa, that bitter and
 bloody enemy of the Jews, as our present copies have it, a man good, or
 kind, and gentle, What the author of the First Book of Maccabees, whom
@@ -2413,7 +2413,7 @@ Josephus here follows, instead of that character, says of him, is, that
 he was a great man in the kingdom, and faithful to his king; which was
 very probably Josephus's meaning also.
 
-<span id="EndNote Ant 12.26b"></span>[(26)](#EndNote%20Ant%2012.26a)
+<span id="EndNote Ant 12.26b"></span>[(26)](#EndNote%20Ant%2012.26a.md)
 Josephus's copies must have been corrupted when they here give victory
 to Nicanor, contrary to the words following, which imply that he who was
 beaten fled into the citadel, which for certain belonged to the city of
@@ -2422,7 +2422,7 @@ garrison, and not of Judas's. As also it is contrary to the express
 words of Josephus's original author, 1 Macc. 7:32, who says that Nicanor
 lost about five thousand men, and fled to the city of David.
 
-<span id="EndNote Ant 12.27b"></span>[(27)](#EndNote%20Ant%2012.27a)
+<span id="EndNote Ant 12.27b"></span>[(27)](#EndNote%20Ant%2012.27a.md)
 This account of the miserable death of Alcimus, or Jac-mus, the wicked
 high priest, (the first that was not of the family of the high priests,
 and made by a vile heathen, Lysias,) before the death of Judas, and of
@@ -2435,14 +2435,14 @@ time, see the notes in Havercamp's edition; only that the number of the
 senators of Rome was then just three hundred and twenty, is, I think,
 only known from 1 Macc. 8:15.
 
-<span id="EndNote Ant 12.28b"></span>[(28)](#EndNote%20Ant%2012.28a)
+<span id="EndNote Ant 12.28b"></span>[(28)](#EndNote%20Ant%2012.28a.md)
 This subscription is wanting 1 Macc. 8:17, 29, and must be the words of
 Josephus, who by mistake thought, as we have just now seen, that Judas
 was at this time high priest, and accordingly then reckoned his brother
 Jonathan to be the general of the army, which yet he seems not to have
 been till after the death of Judas.
 
-<span id="EndNote Ant 12.29b"></span>[(29)](#EndNote%20Ant%2012.29a)
+<span id="EndNote Ant 12.29b"></span>[(29)](#EndNote%20Ant%2012.29a.md)
 That this copy of Josephus, as he wrote it, had here not one thousand,
 but three thousand, with 1 Macc 9:5, is very plain, because though the
 main part ran away at first, even in Josephus, as well as in 1 Macc.
@@ -2450,4 +2450,4 @@ main part ran away at first, even in Josephus, as well as in 1 Macc.
 with Judas, which would be absurd, if the whole number had been no more
 than one thousand.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg74)  [Next](btg76) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg74)  [Next](btg76.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ Gotama ploughs a ploughing that bears the fruit of immortality."
 
 ------------------------------------------------------------------------
 
-[Next: The Outcast](btg76)
+[Next: The Outcast](btg76.md)

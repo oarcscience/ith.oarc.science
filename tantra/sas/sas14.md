@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas13)  [Next](sas15)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas13)  [Next](sas15.md)  
 
 ------------------------------------------------------------------------
 
@@ -1043,4 +1043,4 @@ the Self-Illumining Pure Super-Consciousness or Cit.
 ------------------------------------------------------------------------
 
 Next: [Chapter Fifteen: Maya-Shakti (The Psycho-Physical Aspect of the
-Universe)](sas15)
+Universe)](sas15.md)

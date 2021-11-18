@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs57)  [Next](sfs59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs57)  [Next](sfs59.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -103,7 +103,7 @@ poverty-stricken spectres, as dry as ghosts, and began to suck the
 bones. Then he asked the master of the house: 'What's this, brother,
 behind the stove?' He replied: 'Those, brother, are my father and
 mother; just as if they were fettered to this world, they
-[will](errata.htm#0)
+[will](errata.htm#0.md)
 
 <span id="page_234">p. 234</span>
 
@@ -165,7 +165,7 @@ noise began, and out of the noise was heard a voice: 'Fate! Fate! so
 many souls have been born to-day; assign them what you will.' Then Fate
 arose, opened the chest, and began to scatter behind him nothing but
 bits of rag, and here and there a day-labourer's wage-penny, <span
-id="fr_15"></span>[\*](#fn_15) shouting: 'As to me to-day, so to them
+id="fr_15"></span>[\*](#fn_15.md) shouting: 'As to me to-day, so to them
 for life.' When he
 
 <span id="page_236">p. 236</span>
@@ -222,7 +222,7 @@ slaughter the worst animals; but if you slaughter the best you have, all
 your cattle will be productive.' When he heard this, he said to him:
 'Stay, brother, with us; it isn't three days to my name-day, and, if it
 is really true, I will give you an apple.' <span
-id="fr_16"></span>[\*](#fn_16) He stayed till the name-day. When the
+id="fr_16"></span>[\*](#fn_16.md) He stayed till the name-day. When the
 name-day arrived, the householder slaughtered his best ox, and from that
 time forth his cattle became productive. After this, the householder
 presented him with five head of cattle. He thanked him, and proceeded on
@@ -264,12 +264,12 @@ remained lucky with Militza.
 
 ### Footnotes
 
-<span id="fn_15"></span>[235:\*](sfs58.htm#fr_15) A 'marjush,' a small
+<span id="fn_15"></span>[235:\*](sfs58.htm#fr_15.md) A 'marjush,' a small
 coin with the image of the Virgin Mary on it.
 
-<span id="fn_16"></span>[237:\*](sfs58.htm#fr_16) *I.e.*, a good
+<span id="fn_16"></span>[237:\*](sfs58.htm#fr_16.md) *I.e.*, a good
 present.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sfs59)
+[Next: Introduction](sfs59.md)

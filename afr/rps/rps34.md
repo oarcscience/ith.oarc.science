@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps33)  [Next](rps35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps33)  [Next](rps35.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ THE POTENTATE
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 33. Ethiopia's School, College & University](rps35)
+[Next: Chapter 33. Ethiopia's School, College & University](rps35.md)

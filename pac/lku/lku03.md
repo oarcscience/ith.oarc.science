@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku02)  [Next](lku04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku02)  [Next](lku04.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,7 +174,7 @@ So the gods may enter, but not man.
          (*Impomea batatas*).  
 Man by Waiololi, woman by Waiolola,  
 The Hauliuli was born and lived in the sea;  
-Guarded by the Uhi <span id="fr_0"></span>[1](#fn_0) that grew in the
+Guarded by the Uhi <span id="fr_0"></span>[1](#fn_0.md) that grew in the
 forest.  
 A night of flight by noises  
 Through a channel; water is life to fish;  
@@ -245,9 +245,9 @@ The east is still in darkness of night,
 
 ### Footnotes
 
-<span id="fn_0"></span>[10:1](lku03.htm#fr_0) There are four varieties
+<span id="fn_0"></span>[10:1](lku03.htm#fr_0.md) There are four varieties
 known to me--the Aura, Clisle, Pia, Manalo.
 
 ------------------------------------------------------------------------
 
-[Next: The Third Era](lku04)
+[Next: The Third Era](lku04.md)

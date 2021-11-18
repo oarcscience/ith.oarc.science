@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt27)  [Next](crt29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt27)  [Next](crt29.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_22000"></span>
 
 [![Sir Tristram assaults King Mark](tn/22000.jpg)  
-Click to enlarge](img/22000.jpg)  
+Click to enlarge](img/22000.jpg.md)  
 Sir Tristram assaults King Mark  
 
 <span id="page_221">p. 221</span>
@@ -447,4 +447,4 @@ notable adventure therein.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Second](crt29)
+[Next: Chapter Second](crt29.md)

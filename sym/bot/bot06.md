@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot05) 
-[Next](bot07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot05.md) 
+[Next](bot07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ controls meetings both in public and in the various lodges of secret
 societies. Formerly it was also universally worn as a talisman of
 powerful efficacy to protect its wearer from diseases of an inflammatory
 nature and against bites of serpents and other venomous reptiles (see
-Illustration No. 19, [Plate I](bot05.htm#img_pl01)). Moses,
+Illustration No. 19, [Plate I](bot05.htm#img_pl01).md). Moses,
 
 <span id="page_24">p. 24</span>
 
@@ -120,7 +120,7 @@ The signification of the invocation <span class="smallcaps">AUM MA NI
 PAD ME HŪM</span> (<span class="smallcaps">AUM</span>! the Jewel in the
 Lotus <span class="smallcaps">HŪM</span>) is therefore very important,
 and accounts for the great veneration in which it is held (see
-Illustration No. 12a, [Plate I](bot05.htm#img_pl01)), and in *Buddhism
+Illustration No. 12a, [Plate I](bot05.htm#img_pl01).md), and in *Buddhism
 in Thibet*, by Waddell, we note that it is stated in the <span
 class="smallcaps">MANI KAHBUM</span> that this charm will bring the
 greatest happiness, prosperity, all knowledge, and the
@@ -239,14 +239,14 @@ is represented with four arms holding respectively a Lotus, a Shell, a
 Goad or Club, and the Discus or Wheel, and the rotundity of his body is
 symbolic of his high importance and good standing, and not, as might be
 supposed, intended as evidence of good living (see Illustration No. 28,
-[Plate II](#img_pl02)).
+[Plate II](#img_pl02).md).
 
 <span class="smallcaps">Hanuman</span>, the Monkey god, is the most
 popular
 
 <span id="img_pl02"></span> <span align="CENTER"> [![PLATE 2. INDIAN AND
 THIBETAN TALISMANS.](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 PLATE 2. INDIAN AND THIBETAN TALISMANS.  
 </span>
 
@@ -262,7 +262,7 @@ for Rama, who was an incarnation of Vishnu, performing on his behalf
 prodigious feats of valour. On one occasion, whilst fighting against
 Ravana the King of Demons, his enemies greased his enormous tail and set
 it on fire, but only to their own discomfiture, for with it Hanuman
-burnt down Lankā, their capital city (see [Plate 2](#img_pl02), No. 29).
+burnt down Lankā, their capital city (see [Plate 2](#img_pl02), No. 29.md).
 The eight glorious emblems of Buddha are all used as Talismans; they
 consist of the Wheel of the Law, the Conch Shell, the Golden Fish, the
 Lucky Diagram, the Lotus, the Umbrella, the Vase, and the Trumpet of
@@ -282,11 +282,11 @@ is worn as a wheel of fortune, so that
 misfortunes may roll by and good fortune come uppermost. The wheel was
 also used to explain the vision seen by a disciple on other spheres, the
 five spokes divided the Hells, the place of Animals, Ghosts, or evil
-spirits, Gods, and men (illustrated [Plate II](#img_pl02), No. 34).
+spirits, Gods, and men (illustrated [Plate II](#img_pl02), No. 34.md).
 
 <span class="smallcaps">The Conch Shell</span> was taken from a demon of
 the sea by Krishna, who used it for a horn (see Illustration No. 35,
-[Plate II](#img_pl02)), and is prized as a Talisman for oratory and
+[Plate II](#img_pl02).md), and is prized as a Talisman for oratory and
 learning, as well as a bringer of wealth, the latter being no doubt
 suggested by the fact that shells were the current coin of primitive
 people.
@@ -295,11 +295,11 @@ people.
 incarnation of Vishnu, who in this form saved Manu from the Flood to
 become the progenitor of the new race. Because of its fertility it is
 used as a Talisman for increase of riches, and is illustrated on [Plate
-II](#img_pl02), No. 32.
+II](#img_pl02.md), No. 32.
 
 <span class="smallcaps">The Lucky Diagram</span> is very common in
 Thibet, and is worn as a Talisman for Longevity (see Illustration No.
-30, [Plate II](#img_pl02)).
+30, [Plate II](#img_pl02).md).
 
 <span class="smallcaps">The Lotus</span> expresses the idea of
 superhuman origin, as it grows from the body of the water without
@@ -312,7 +312,7 @@ Lakshmi, the consort of Vishnu, who is the goddess
 of Fortune and of Beauty; it is worn as a Talisman of Good Luck and Good
 Fortune, and as Lakshmi is particularly favourable for children it is
 worn to avert all childish diseases and accidents, as well as to protect
-from the Evil Eye (see Illustration No. 33, [Plate II](#img_pl02)).
+from the Evil Eye (see Illustration No. 33, [Plate II](#img_pl02).md).
 
 Frogs made of amber or gilded metal are also frequently worn as amulets
 by children in Burmah, that they may not decline in health through the
@@ -324,7 +324,7 @@ tied to the heads and tails of fine cart-horses on their way to the fair
 or horse show.
 
 <span class="smallcaps">The Three Gems</span> Talisman (Illustrated on
-[Plate II](#img_pl02), No. 31) is to be met with wherever Buddhism is
+[Plate II](#img_pl02), No. 31.md) is to be met with wherever Buddhism is
 established, and symbolises Buddha His Word, and the Church; it is worn
 to promote the three virtues, Endurance, Courage, and Obedience, the
 Buddhist Law.
@@ -333,6 +333,6 @@ Buddhist Law.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](bot07)
+[Next: Chapter IV](bot07.md)
 
 </div>

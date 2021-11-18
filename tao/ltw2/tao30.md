@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao30)   
-[Previous](tao29)  [Next](tao31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao30.md)   
+[Previous](tao29)  [Next](tao31.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ soon pass away.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 31](tao31)
+[Next: Chapter 31](tao31.md)

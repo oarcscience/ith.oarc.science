@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat05)  [Next](jat07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat05)  [Next](jat07.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,9 +26,9 @@ mine." Naiyenesgani skinned it and took the hide. He also chopped off
 
 one of the horns. He filled two of the blood vessels with blood and
 spread out the hide in the sun until it was dry. <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
-He started away toward the eagle. <span id="fr_11"></span>[2](#fn_11)
+He started away toward the eagle. <span id="fr_11"></span>[2](#fn_11.md)
 When he came to him he wrapped the elk hide about himself and went out
 into an open place. The eagle, when he swooped down, attempted to drive
 his talons into him but could not penetrate the hide. He flew up without
@@ -92,7 +92,7 @@ good. You will not have a shirt."
 He went again where there was something bad. When he came among the
 people there they said to him, "If you have supernatural power, take out
 our people from the marsh where they have sunk." <span
-id="fr_12"></span>[1](#fn_12) "Very well," he said, "I will take them
+id="fr_12"></span>[1](#fn_12.md) "Very well," he said, "I will take them
 out for you." When he came to the place he stood first at the east, then
 at the south, then at the west, and finally at the north. Then the water
 disappeared of itself and he went to the entrance and went in. "I have
@@ -131,7 +131,7 @@ where they remain forever.
 
 ### Footnotes
 
-<span id="fn_10"></span>[198:1](jat06.htm#fr_10) Mooney gives this
+<span id="fn_10"></span>[198:1](jat06.htm#fr_10.md) Mooney gives this
 incident with greater detail, (a), p. 204. The one who assisted was
 Gopher, who made four tunnels one above the other in which Naiyenesgani
 hid in succession. In Russell's version Lizard plays a part, (a), p.
@@ -139,14 +139,14 @@ hid in succession. In Russell's version Lizard plays a part, (a), p.
 
 The Navajo call the monster Teelget, Matthews, l. c., p. 117.
 
-<span id="fn_11"></span>[198:2](jat06.htm#fr_11) Mooney's account is
+<span id="fn_11"></span>[198:2](jat06.htm#fr_11.md) Mooney's account is
 similar, (a), pp. 205-8, as is also that of Russell, (a), pp. 257-8. The
 Navajo also have this story, Matthews, pp. 119-121.
 
-<span id="fn_12"></span>[199:1](jat06.htm#fr_12) Mooney has a similar
+<span id="fn_12"></span>[199:1](jat06.htm#fr_12.md) Mooney has a similar
 account, (a), p. 20:3. The other Apache and the Navajo seem not to have
 such a monster.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Naiyenesgani Rescues the Taos Indians](jat07)
+[Next: 5. Naiyenesgani Rescues the Taos Indians](jat07.md)

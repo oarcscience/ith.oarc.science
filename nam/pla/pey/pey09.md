@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pey08)  [Next](pey10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pey08)  [Next](pey10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ trips to Oklahoma. According to the verbal account he gave, which
 differs in some respects from the account he subsequently dictated on
 the particular visit which resulted in his first eating the peyote, he
 was in a most distressed and unhappy condition of mind owing to the loss
-of his wife and children. <span id="fr_4"></span>[5](#fn_4) He went away
+of his wife and children. <span id="fr_4"></span>[5](#fn_4.md) He went away
 from Winnebago with the intention of staying away as long as possible
 from the scene of his loss.
 
@@ -162,7 +162,7 @@ members, especially by those who read English.
 
 In 1911 there was no unification of the ideas of Rave and Hensley. Since
 then, strange to say, although Hensley's attempt to set up his own
-religion failed utterly, his ideas and [Christian](errata.htm#1)
+religion failed utterly, his ideas and [Christian](errata.htm#1.md)
 innovations seemed to have triumphed completely. This, however, has gone
 hand in hand with a marked dropping off of enthusiasm. It appears now as
 if the Peyote cult has run its course. Some of the members have recently
@@ -192,7 +192,7 @@ Winnebago background.
 
 ### Footnotes
 
-<span id="fn_4"></span>[371:5](pey09.htm#fr_4) In the account Rave
+<span id="fn_4"></span>[371:5](pey09.htm#fr_4.md) In the account Rave
 himself gives he speaks of seeing his wife and children. As his verbal
 statement was corroborated by other people, we are inclined to believe
 that in his dictated account of his conversion he had forgotten the
@@ -202,4 +202,4 @@ play him false.
 
 ------------------------------------------------------------------------
 
-[Next: Dissemination of the Doctrine](pey10)
+[Next: Dissemination of the Doctrine](pey10.md)

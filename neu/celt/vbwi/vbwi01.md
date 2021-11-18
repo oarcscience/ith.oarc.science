@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi00)  [Next](vbwi02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi00)  [Next](vbwi02.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ Coole, February 1916
 
 ------------------------------------------------------------------------
 
-[Next: Sea Stories](vbwi02)
+[Next: Sea Stories](vbwi02.md)

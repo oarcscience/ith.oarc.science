@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](pre01)  [Next](pre03) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](pre01)  [Next](pre03.md) 
 
 ------------------------------------------------------------------------
 
@@ -458,4 +458,4 @@ Cambridge, Massachusetts.
 
 ------------------------------------------------------------------------
 
-[Next: Prologue](pre03)
+[Next: Prologue](pre03.md)

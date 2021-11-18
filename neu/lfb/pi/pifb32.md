@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb31)  [Next](pifb33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb31)  [Next](pifb33.md) 
 
 </div>
 
@@ -262,6 +262,6 @@ and they would always be his faithful subjects.
 
 ------------------------------------------------------------------------
 
-[Next: The Troll's Daughter](pifb33)
+[Next: The Troll's Daughter](pifb33.md)
 
 </div>

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa02)  [Next](spa04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa02)  [Next](spa04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ necessary to explain to him; although Oriental scholars may be supposed
 to be sufficiently familiar with the subject.
 
 The Muḥammadan writers state, that these enthusiasts are co-existent
-with their religion; and, [probably](errata.htm#0), their rapturous zeal
+with their religion; and, [probably](errata.htm#0.md), their rapturous zeal
 may have greatly contributed to the first establishment of Islāmism; but
 they have since been considered its greatest enemies, and it is avouched
 that their doctrines have, for a long time, been even undermining
@@ -61,7 +61,7 @@ The tenets of the Ṣūfi doctrines appear to have been most widely
 diffused over Persia; and, indeed, the great reputation acquired by one
 of the priests of the sect, enabled his descendants, for above two
 centuries, under the name of the Ṣafawīan dynasty, to occupy the throne
-of that country. <span id="fr_1"></span>[\*](#fn_1)
+of that country. <span id="fr_1"></span>[\*](#fn_1.md)
 
 The general name by which this sect of enthusiasts is known, is Ṣūfi,
 implying *pure*, a term probably derived from the Arabic word <span
@@ -96,7 +96,7 @@ ancient Greece, and in those of modern Europe.
 
 The Ṣūfis affirm, that their creed is adverse to superstition,
 scepticism, and error; but "it exists by the active propagation of all
-three." <span id="fr_2"></span>[\*](#fn_2) The doctrines of their
+three." <span id="fr_2"></span>[\*](#fn_2.md) The doctrines of their
 teachers are given to their disciples in place of the outward forms and
 observances of the faith they profess. They are invited to embark upon
 the ocean of doubt, piloted by a sacred teacher, or spiritual guide,
@@ -105,7 +105,7 @@ of the most pious and spiritual confidence—in fact, of almost adoration
 itself. They are devoted to the search after <span
 class="smallcaps">Truth</span>, and are constantly occupied in adoration
 of the Deity. He, according to their belief, is diffused throughout all
-created things; <span id="fr_3"></span>[†](#fn_3) and they consider,
+created things; <span id="fr_3"></span>[†](#fn_3.md) and they consider,
 that the soul of man, and the principle of existence, is *of* God (part
 of Him), not *from* Him. Hence their doctrine teaches that the soul of
 man is an exile from its Creator, who is its home and source; that the
@@ -121,7 +121,7 @@ memory of the past, but can only vaguely recall it; and Sūfi-ism
 undertakes, by a long course of education, and moral discipline, to lead
 the soul onward, from stage to stage, until, at length, it reaches the
 goal of perfect knowledge, truth, and peace." <span
-id="fr_4"></span>[\*](#fn_4)
+id="fr_4"></span>[\*](#fn_4.md)
 
 According to this mysterious doctrine, there are four stages through
 which it is necessary man should pass, prior to attaining unto the
@@ -195,7 +195,7 @@ merit of all ranks of Ṣūfis, is complete devotion to their teacher. When
 he dies, he leaves his *<u>kh</u>īrkah*, or patched garment, and worldly
 wealth, to the disciple he considers the most worthy to succeed him; and
 when the latter dons the holy mantle, he is invested with the power of
-his predecessor. <span id="fr_5"></span>[\*](#fn_5)
+his predecessor. <span id="fr_5"></span>[\*](#fn_5.md)
 
 The most celebrated Ṣūfi teachers have been alike famed for their
 devotion and their learning, in Persia as well as in other countries;
@@ -216,7 +216,7 @@ reached the highest degree of perfection; but it will be discovered,
 from the following pages, that Ṣūfi-ism has produced, amongst the rough
 and hardy Af<u>gh</u>āns, conceptions equally as sublime. "Human speech,
 however," to quote the words of a writer already mentioned, <span
-id="fr_6"></span>[†](#fn_6)"is too weak and imperfect to convey these
+id="fr_6"></span>[†](#fn_6.md)"is too weak and imperfect to convey these
 lofty experiences of the
 
 <span id="page_xv">p. xv</span>
@@ -238,7 +238,7 @@ woes of temporal separation, they disguise the dark riddle of human
 life, and the celestial banishment, which lies behind the threshold of
 existence; and, under the joys of revelry and inebriation, they figure
 mystical transports, and ecstatic raptures. <span
-id="fr_7"></span>[\*](#fn_7) Still, we must not censure it severely, and
+id="fr_7"></span>[\*](#fn_7.md) Still, we must not censure it severely, and
 must allow it to be natural, though a warm imagination may carry it
 beyond the bounds of sober reason; "for," to quote the same author, "an
 ardently grateful piety is congenial to the undepraved nature of man,
@@ -349,12 +349,12 @@ seek the sublime object of its desire.
  Love rules the camp, the court, the grove,  
  And men below, and saints above;  
  For Love is heaven, and heaven is love."</span> <span
-id="fr_8"></span>[\*](#fn_8)
+id="fr_8"></span>[\*](#fn_8.md)
 
 </div>
 
 Sir William Jones, in his "Essay on the Mystical Poetry of the Persians
-and Hindūs," <span id="fr_9"></span>[†](#fn_9) has given an excellent
+and Hindūs," <span id="fr_9"></span>[†](#fn_9.md) has given an excellent
 description of the Ṣūfis and their doctrine; and I cannot do better here
 than extract therefrom such portions as may elucidate my present
 subject. "The Ṣūfis," he says, "concur in believing that the souls of
@@ -410,7 +410,7 @@ this primeval compact), and "<span class="smallcaps">Balā</span>," or
 "*Yea!*" occur continually in these mystical compositions of Muḥammadan
 poets, whether Persians, Turks, or Af<u>gh</u>āns. "Music, poetry, and
 the arts," again to quote the words of a modern writer, <span
-id="fr_10"></span>[\*](#fn_10) "are the unconscious aspirations of the
+id="fr_10"></span>[\*](#fn_10.md) "are the unconscious aspirations of the
 soul, as it hurries along in its restless impulses through the world,
 stung by the echo of "<span class="smallcaps">Alasto</span>," yet
 ringing in their ears, but with no visible object to claim the
@@ -446,10 +446,10 @@ of other poems on the same subject—is, indisputably, built on true
 history, yet avowedly allegorical and mysterious; for the introduction
 to it is a continued rapture on *Divine love;* and the name of <span
 class="smallcaps">Laylā</span> seems to be used in the *Masnawī* <span
-id="fr_11"></span>[\*](#fn_11) and the odes of Ḥāfiz̤, for the
+id="fr_11"></span>[\*](#fn_11.md) and the odes of Ḥāfiz̤, for the
 omnipresent Spirit of God." If reference is here made to the first of
 the poems of the Af<u>gh</u>ān monarch, Aḥmad <u>Sh</u>āh, at page
-[294](spa17.htm#page_294), the force of the words of Sir William Jones
+[294](spa17.htm#page_294.md), the force of the words of Sir William Jones
 will be more fully seen.
 
 According to the interpretation given to these mystical poems, by the
@@ -483,7 +483,7 @@ allowed, that " the mystical allegory, which, like metaphors and
 comparisons, should be general only, not minutely exact, is greatly
 diminished, if not wholly destroyed, by any attempt at particular and
 distinct resemblances; and that this style of composition is open to
-dangerous misinterpretation." <span id="fr_12"></span>[\*](#fn_12)
+dangerous misinterpretation." <span id="fr_12"></span>[\*](#fn_12.md)
 
 The following ode, by a Ṣūfi of Bo<u>kh</u>ārā, is such an extraordinary
 specimen of the mysterious doctrine of the sect, although some of the
@@ -595,10 +595,10 @@ sect fully employed, though sitting in retirement; their feet are of
 earth, but their breath is like flame. With a single shout they could
 rend a mountain from its base; with a single cry they could throw a city
 into commotion. Like the wind, they are gone, and more
-[swiftly](errata.htm#1); like stone, they are silent, yet utter God's
+[swiftly](errata.htm#1.md); like stone, they are silent, yet utter God's
 praises. At the dawn of day, their tears flow so copiously, as to wash
 from their eyes the black antimony of sleep; <span
-id="fr_13"></span>[\*](#fn_13) though the fleet steed of their
+id="fr_13"></span>[\*](#fn_13.md) though the fleet steed of their
 conception ran so swiftly all night; yet the morning finds them left, in
 disorder, behind. Night and day they are plunged in an ocean of ardent
 desire, until they are, through astonishment, unable to distinguish the
@@ -635,7 +635,7 @@ understanding, which is that quality by which we are enabled to
 distinguish between things, becomes wholly extinguished; and as 'error
 passeth away on the appearance of Truth,' so is the power of
 discriminating, between the perishable and the imperishable, at once
-removed." <span id="fr_14"></span>[\*](#fn_14)
+removed." <span id="fr_14"></span>[\*](#fn_14.md)
 
 Few orthodox Muḥammadans give a literal construction to the
 
@@ -666,7 +666,7 @@ poet Ḥāfiz̤—
 <div style="margin-left: 32px">
 
 <span class="small">"My destiny hath been allotted to the tavern <span
-id="fr_15"></span>[\*](#fn_15) by the Almighty:  
+id="fr_15"></span>[\*](#fn_15.md) by the Almighty:  
  Then tell me, O teacher! where lieth my crime."</span>
 
 </div>
@@ -678,7 +678,7 @@ revellers, all devoted to the pleasure of the hour—"effusions bright,
 indeed, with all the gorgeous hues of Eastern colouring, like unto the
 skies over their heads, or the gardens around them, but yet transient as
 the summer's roses, or the nightingale's notes which welcomed
-them." <span id="fr_16"></span>[†](#fn_16)
+them." <span id="fr_16"></span>[†](#fn_16.md)
 
 This may be correct as to the outward form of Eastern poetry in general;
 but most Asiatic poets are Ṣūfis, and if we would attempt to read their
@@ -704,7 +704,7 @@ mystery within mystery:
 
 Sāhil-ibn-Æabd-ullah, of <u>Sh</u>ustar, a celebrated Sūfi teacher,
 states, "That the soul's secret was first revealed when Faræawn <span
-id="fr_17"></span>[\*](#fn_17) declared himself a god:" and another,
+id="fr_17"></span>[\*](#fn_17.md) declared himself a god:" and another,
 <u>Sh</u>ai<u>kh</u> Muhī-ud-dīn, writes, "That the mighty host of the
 Egyptian monarch was not overwhelmed in the sea of error, but of
 knowledge:" and in another place, "That the Christians are not infidels
@@ -721,7 +721,7 @@ sensual paradise of Muḥammad holds out, thus revolting at a literal
 translation of the on that subject.
 
 Another Persian Author, of high reputation <span
-id="fr_18"></span>[†](#fn_18) for his piety and judgment, has given a
+id="fr_18"></span>[†](#fn_18.md) for his piety and judgment, has given a
 good account of the Ṣūfis and their doctrines. He conceives, with
 several other Muḥammadan writers, that some of the principal Muḥammadan
 saints were of the Ṣūfi belief; but
@@ -735,7 +735,7 @@ still kept within the pale of revealed religion; and those wild devotees
 who, abandoning themselves to the frenzied wanderings of a heated
 imagination, fancied they should draw nearer unto God by departing from
 every thing deemed rational among men. <span
-id="fr_19"></span>[\*](#fn_19)
+id="fr_19"></span>[\*](#fn_19.md)
 
 In another passage, this author states, "The Almighty, after his
 prophets and holy teachers, esteems none more than the pure Ṣūfis,
@@ -750,7 +750,7 @@ and Awliyā, or *holy men*, who, in endeavouring to reach a state of
 beatitude, have abandoned the world. These are also *men of science;*
 but as, through Divine grace, they have attained to a state of
 perfection, their fears are believed to be less than those of others who
-remain in worldly occupations. <span id="fr_20"></span>[†](#fn_20) Thus
+remain in worldly occupations. <span id="fr_20"></span>[†](#fn_20.md) Thus
 they are more exalted, and nearer to the rich inheritance of the Prophet
 than other men. No doubt there are imminent dangers along the path:
 there are many false teachers,
@@ -817,7 +817,7 @@ from meeting with evils of their own creation, should give way to
 disappointment and grief; and, by expelling from their minds that ardent
 fervour which belongs to true zeal, should disqualify themselves for the
 most glorious of all human pursuits." <span
-id="fr_21"></span>[\*](#fn_21)
+id="fr_21"></span>[\*](#fn_21.md)
 
 The Ṣūfis are divided into innumerable sects, as must be expected
 regarding a doctrine, which may be called an ideal belief. It will not
@@ -856,7 +856,7 @@ and the manner of his death, present us with a close parallel to what is
 related of many eminent Ṣūfi teachers, and may lead to a supposition
 that there must be something similar, in the state of knowledge and of
 society, where the same causes produce the same effects." <span
-id="fr_22"></span>[\*](#fn_22)
+id="fr_22"></span>[\*](#fn_22.md)
 
 <span id="page_xxxii">p. xxxii</span>
 
@@ -870,14 +870,14 @@ deep meaning that lies beneath.
 
 ### Footnotes
 
-<span id="fn_1"></span>[x:\*](spa03.htm#fr_1) Ismāæīl the First ascended
+<span id="fn_1"></span>[x:\*](spa03.htm#fr_1.md) Ismāæīl the First ascended
 the throne <span class="smallcaps">a.d.</span> 1500, and his family was
 subverted by Nādir, <span class="smallcaps">a.d.</span> 1736.
 
-<span id="fn_2"></span>[xi:\*](spa03.htm#fr_2) <span
+<span id="fn_2"></span>[xi:\*](spa03.htm#fr_2.md) <span
 class="smallcaps">Malcolm's History of Persia</span>.
 
-<span id="fn_3"></span>[xi:†](spa03.htm#fr_3) "The creation proceeded at
+<span id="fn_3"></span>[xi:†](spa03.htm#fr_3.md) "The creation proceeded at
 once from the splendour of God, who poured his spirit upon the universe,
 as the general diffusion of light is poured over the earth by the rising
 sun; and as the absence of that luminary creates total darkness, so the
@@ -887,72 +887,72 @@ is like unto the small particles discernible in the sun's rays, which
 vanish the moment it ceases to shine."—<span class="smallcaps">Persian
 MS.</span>
 
-<span id="fn_4"></span>[xii:\*](spa03.htm#fr_4) <span
+<span id="fn_4"></span>[xii:\*](spa03.htm#fr_4.md) <span
 class="smallcaps">E. B. Cowell, M.A.</span>: "<span
 class="smallcaps">Oxford Essays</span>."
 
-<span id="fn_5"></span>[xiv:\*](spa03.htm#fr_5) See 2 <span
+<span id="fn_5"></span>[xiv:\*](spa03.htm#fr_5.md) See 2 <span
 class="smallcaps">Kings</span>, chap ii., where Elisha dons the mantle
 of Elijah.
 
-<span id="fn_6"></span>[xiv:†](spa03.htm#fr_6) <span
+<span id="fn_6"></span>[xiv:†](spa03.htm#fr_6.md) <span
 class="smallcaps">E. B. Cowell</span>.
 
-<span id="fn_7"></span>[xv:\*](spa03.htm#fr_7) <span
+<span id="fn_7"></span>[xv:\*](spa03.htm#fr_7.md) <span
 class="smallcaps">E. B. Cowell</span>.
 
-<span id="fn_8"></span>[xviii:\*](spa03.htm#fr_8) <span
+<span id="fn_8"></span>[xviii:\*](spa03.htm#fr_8.md) <span
 class="smallcaps">Scott</span>.
 
-<span id="fn_9"></span>[xviii:†](spa03.htm#fr_9) <span
+<span id="fn_9"></span>[xviii:†](spa03.htm#fr_9.md) <span
 class="smallcaps">Asiatic Researches</span>, Vol. III.
 
-<span id="fn_10"></span>[xx:\*](spa03.htm#fr_10) <span
+<span id="fn_10"></span>[xx:\*](spa03.htm#fr_10.md) <span
 class="smallcaps">E. B. Cowell</span>.
 
-<span id="fn_11"></span>[xxi:\*](spa03.htm#fr_11) A collection of poems,
+<span id="fn_11"></span>[xxi:\*](spa03.htm#fr_11.md) A collection of poems,
 by <span class="smallcaps">Mowlāna Nūr-ud-dīn, Jāmī</span>.
 
-<span id="fn_12"></span>[xxii:\*](spa03.htm#fr_12) <span
+<span id="fn_12"></span>[xxii:\*](spa03.htm#fr_12.md) <span
 class="smallcaps">Sir W. Jones</span>.
 
-<span id="fn_13"></span>[xxiv:\*](spa03.htm#fr_13) See note at page
-[39](spa05.htm#page_39).
+<span id="fn_13"></span>[xxiv:\*](spa03.htm#fr_13.md) See note at page
+[39](spa05.htm#page_39.md).
 
-<span id="fn_14"></span>[xxv:\*](spa03.htm#fr_14) <span
+<span id="fn_14"></span>[xxv:\*](spa03.htm#fr_14.md) <span
 class="smallcaps">Captain W. N. Lees</span>’ Biographical Sketch of the
 Mystic Philosopher and Poet, Jāmī. Calcutta, 1859.
 
-<span id="fn_15"></span>[xxvi:\*](spa03.htm#fr_15) The sinful world is
+<span id="fn_15"></span>[xxvi:\*](spa03.htm#fr_15.md) The sinful world is
 here referred to.
 
-<span id="fn_16"></span>[xxvi:†](spa03.htm#fr_16) <span
+<span id="fn_16"></span>[xxvi:†](spa03.htm#fr_16.md) <span
 class="smallcaps">E. B. Cowell</span>.
 
-<span id="fn_17"></span>[xxvii:\*](spa03.htm#fr_17) <span
+<span id="fn_17"></span>[xxvii:\*](spa03.htm#fr_17.md) <span
 class="smallcaps">Pharaoh</span>.
 
-<span id="fn_18"></span>[xxvii:†](spa03.htm#fr_18) Ḳāzī Nūr-ullah of
+<span id="fn_18"></span>[xxvii:†](spa03.htm#fr_18.md) Ḳāzī Nūr-ullah of
 <u>Sh</u>ustar.
 
-<span id="fn_19"></span>[xxviii:\*](spa03.htm#fr_19) <span
+<span id="fn_19"></span>[xxviii:\*](spa03.htm#fr_19.md) <span
 class="smallcaps">Malcolm: History of Persia</span>. Some Christians in
 the extreme west of England have preached such doctrines, but practised
 the contrary.
 
-<span id="fn_20"></span>[xxviii:†](spa03.htm#fr_20) It is related that
+<span id="fn_20"></span>[xxviii:†](spa03.htm#fr_20.md) It is related that
 the disciple of a celebrated Ṣūfi, having some money in his pocket when
 travelling, began to express his fears. "Cast away thy fear," said the
 old man. "How can I cast away a feeling?" he replied. "By casting away
 that which excites it," was the answer. He cast his money away, and,
 having nothing to lose, felt no fear.
 
-<span id="fn_21"></span>[xxx:\*](spa03.htm#fr_21) <span
+<span id="fn_21"></span>[xxx:\*](spa03.htm#fr_21.md) <span
 class="smallcaps">Malcolm</span>.
 
-<span id="fn_22"></span>[xxxi:\*](spa03.htm#fr_22) <span
+<span id="fn_22"></span>[xxxi:\*](spa03.htm#fr_22.md) <span
 class="smallcaps">Malcolm</span>.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](spa04)
+[Next: Introduction](spa04.md)

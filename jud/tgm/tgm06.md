@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm05)  [Next](tgm07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm05)  [Next](tgm07.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ breathing heavily, he fell to the ground.
 <span id="img_02000"></span>
 
 [![](tn/02000.jpg)  
-Click to enlarge](img/02000.jpg)
+Click to enlarge](img/02000.jpg.md)
 
  
 
@@ -100,4 +100,4 @@ Eliezer!
 
 ------------------------------------------------------------------------
 
-[Next: 4. Fight For Right](tgm07)
+[Next: 4. Fight For Right](tgm07.md)

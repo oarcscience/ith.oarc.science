@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy19.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 |                     |
 |---------------------|
-| ![L](img/10701.jpg) |
+| ![L](img/10701.jpg.md) |
 
 ONG after all about Brodar Merune and the tricks of the buggane had been
 forgotten and faded from the memory of the Manx people, some worthy and
@@ -117,7 +117,7 @@ Now here is my home till I die.
 To thrive and to flourish with ease;  
   For good laws he made,  
   And taught the folks trade,  
-And founded the old house of Keys. <span id="fr_4"></span>[1](#fn_4)  
+And founded the old house of Keys. <span id="fr_4"></span>[1](#fn_4.md)  
   Of Keys, of Keys,  
   And founded the old House of Keys.
 
@@ -145,7 +145,7 @@ stitching away like a patent sewing machine.
 <span id="img_11100"></span>
 
 [![TIM MYLREA AND THE BUGGANE.](tn/11100.jpg)  
-Click to enlarge](img/11100.jpg)  
+Click to enlarge](img/11100.jpg.md)  
 TIM MYLREA AND THE BUGGANE.  
 
  
@@ -251,7 +251,7 @@ roofless church of Saint Trinion as wide a berth as possible.
 <span id="img_11400"></span>
 
 [![THE BUGGANE'S LAST SHOT](tn/11400.jpg)  
-Click to enlarge](img/11400.jpg)  
+Click to enlarge](img/11400.jpg.md)  
 THE BUGGANE'S LAST SHOT  
 
 A long discussion ensued among the heads of the parish as to what had
@@ -294,7 +294,7 @@ Ellan Vannin.
 
 ### Footnotes
 
-<span id="fn_4"></span>[110:1](phy20.htm#fr_4) The House of Keys is the
+<span id="fn_4"></span>[110:1](phy20.htm#fr_4.md) The House of Keys is the
 name of the Manx Parliament, which was originally founded by King Orry
 the Dane.
 

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla08)  [Next](mla10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla08)  [Next](mla10.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ flood-a flood of golden sunlight.
 
 ------------------------------------------------------------------------
 
-[Next: How the Stars Were Made: Rolla-Mano and the Evening Star](mla10)
+[Next: How the Stars Were Made: Rolla-Mano and the Evening Star](mla10.md)

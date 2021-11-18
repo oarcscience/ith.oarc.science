@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](msj11) 
-[Next](msj13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](msj11.md) 
+[Next](msj13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master-Singers of Japan*, by Clara A. Walsh, \[1914\], at
 Intangible Textual Heritage
 
@@ -123,7 +123,7 @@ Standing, her beauty holds,
 The peony's white loveliness;  
 Seated, her robe enfolds  
 Charms that surpass in graciousness  
-The Botan <span id="fr_3"></span>[\*](#fn_3) in its pride;  
+The Botan <span id="fr_3"></span>[\*](#fn_3.md) in its pride;  
 And when she walks in silk array,  
 Abashed the fragile poppies sway  
 In slender grace outvied.
@@ -150,12 +150,12 @@ And snow-like drifting on the surface shows.
 
 ### Footnotes
 
-<span id="fn_3"></span>[69:\*](msj12.htm#fr_3) Tree Peony.
+<span id="fn_3"></span>[69:\*](msj12.htm#fr_3.md) Tree Peony.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XII.](msj13)
+[Next: XII.](msj13.md)
 
 </div>

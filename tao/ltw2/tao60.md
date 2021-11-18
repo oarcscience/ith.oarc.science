@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao60)   
-[Previous](tao59)  [Next](tao61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao60.md)   
+[Previous](tao59)  [Next](tao61.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ in tranquillity.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 61](tao61)
+[Next: Chapter 61](tao61.md)

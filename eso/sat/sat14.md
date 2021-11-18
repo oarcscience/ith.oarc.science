@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat13)  [Next](sat15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat13)  [Next](sat15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -163,7 +163,7 @@ outward essentiality shut up in death might again glow, as a fire that
 falls into tinder: Afterwards he withdrew his outward food from the
 outward body, and brought it into the desert, and let it hunger, and
 then the spark enkindled from the fire of God must imagine into
-God, <span id="fr_186"></span>[1](#fn_186) and eat manna of divine
+God, <span id="fr_186"></span>[1](#fn_186.md) and eat manna of divine
 essentiality forty days, of which Israel was a type in the wilderness of
 Sinai with their manna: The essence of eternity must overcome the
 essence of time, therefore it is called a temptation of the devil; for
@@ -235,7 +235,7 @@ their will, and take into them the love's property: They must take in
 the will of the nothing, that their will be a nothing, and then it can
 subsist in the wrath of the fire, and there is no further turba therein;
 for so long as the desire of the wrath is in the form, it is adverse and
-opposite to the second form, <span id="fr_187"></span>[1](#fn_187) and
+opposite to the second form, <span id="fr_187"></span>[1](#fn_187.md) and
 inflames the second form with its wrathful property, that is, it strikes
 the signature of the second, and awakens it in the wrath, and then the
 voice or sound of the second enkindles the first form's property in
@@ -452,7 +452,7 @@ rule and domineer in Adam.
 39\. For the centre of wrath, viz. the dark world's property, was
 manifest in him, in a poisonful death's property, as the Mercury in man
 is yet to this day so poisonful, and of a venomous source; whereas
-indeed he is changed in the vital <span id="fr_188"></span>[1](#fn_188)
+indeed he is changed in the vital <span id="fr_188"></span>[1](#fn_188.md)
 light into a solar property, but yet the poison and property of death
 hangs to it, and it is his root; as we plainly see, that as soon as the
 ready instrument of his martial fiery property's signature or form is a
@@ -506,11 +506,11 @@ will.
 helps to act and drive on the play in the wrath, viz. in the darkness:
 He is the instrument and actor in the wrath of the eternal nature, which
 has its effects and achievements with him and in him, <span
-id="fr_189"></span>[1](#fn_189) as its instrument: The like also must
+id="fr_189"></span>[1](#fn_189.md) as its instrument: The like also must
 the wicked man do, as Saint Paul speaks thereof; "The holy man is unto
 God a sweet savour unto life, and the wicked a sweet savour unto death."
 All whatever does live and move must enter <span
-id="fr_190"></span>[2](#fn_190) into the glory of God; one works in his
+id="fr_190"></span>[2](#fn_190.md) into the glory of God; one works in his
 love, the other in his anger: All is generated and created in the
 infinite being to the manifestation of the infinite great God; out of
 all the properties of evil and good, creatures were brought forth
@@ -530,7 +530,7 @@ inclination to anything, but only to the *speaking;* in which figure
 they stand as an image or platform of the expressing, as a spoken word,
 wherewith the speaking word beholds itself in its own likeness, whereby
 it there manifests the eternal knowledge of the eternal mind, and sets
-the Spirit's will into a form, <span id="fr_191"></span>[1](#fn_191) and
+the Spirit's will into a form, <span id="fr_191"></span>[1](#fn_191.md) and
 plays therewith.
 
 44\. As a limner that pourtrays his own image, and does thereby behold
@@ -542,7 +542,7 @@ life's Mercury, wherewith his vital Mercury does rejoice and delight
 itself.
 
 45\. Thus likewise God created us to his love-consort <span
-id="fr_192"></span>[2](#fn_192) to his joy and glory, whereby he exalts
+id="fr_192"></span>[2](#fn_192.md) to his joy and glory, whereby he exalts
 his speaking eternal word, or plays in the same with us as with his
 instrument.
 
@@ -650,7 +650,7 @@ of him? In deed and in truth I must needs laugh at such folly: If thou
 wilt keep a corrupt black devil, how dost thou think to turn the earth
 by the devil to heaven? Is not God the creator of all beings? Thou must
 eat of God's bread, if thou wilt transmute <span
-id="fr_193"></span>[1](#fn_193) thy body out of the earthly property
+id="fr_193"></span>[1](#fn_193.md) thy body out of the earthly property
 into the heavenly.
 
 55\. Christ said, "He that eateth not the flesh of the Son of Man hath
@@ -690,7 +690,7 @@ a potent prince \[in all the properties of the anger\].
 58\. The properties in Sulphur were tempted with the likeness of the
 Sulphur; in the Sulphur, or from the sulphureous property, the
 temptation did come and arise, and its forms are <span
-id="fr_194"></span>[1](#fn_194) three, as one in the impression, which
+id="fr_194"></span>[1](#fn_194.md) three, as one in the impression, which
 the philosophers call Saturn, which the human spirit or will should open
 in the property of Venus, and therewith satiate or feed its hunger, viz.
 the fire; the other property was, that he should live in his own
@@ -760,7 +760,7 @@ man; but he is a man, and not a woman, and has the virgin's heart.
 64\. Now he must be tempted, whether or no he will live in virgin-like
 chastity, and in full resignation of his will to God, for he must be a
 valiant champion, and destroy the devil's fortress <span
-id="fr_195"></span>[1](#fn_195) of prey (which he has in his mother) in
+id="fr_195"></span>[1](#fn_195) of prey (which he has in his mother.md) in
 seven kingdoms; then let the devil set his mother's house on fire with
 his wrath, and tempt him, he will now well enough defend himself with
 Christ against the devil.
@@ -780,7 +780,7 @@ the devil which has tempted him must depart.
 66\. Let the artist well observe this, and pack away the devil, and
 suffer the young man with his virgin-like heart to lie in his bed, and
 eat his former food, for he is now become a physician of his
-sisters <span id="fr_196"></span>[2](#fn_196) in his mother's house; he
+sisters <span id="fr_196"></span>[2](#fn_196.md) in his mother's house; he
 will do great wonders in all the seven kingdoms of his mother (which are
 the seven forms of life) as Christ has done.
 
@@ -793,7 +793,7 @@ heart, the form or signature in his mother's womb, whence she has
 brought forth him and all her children, and enkindle it with the
 virgin's and his love-desire: This is effected and done in the Sulphur
 of Saturn in the young man's own personal <span
-id="fr_197"></span>[3](#fn_197) property, and in his mother; for before
+id="fr_197"></span>[3](#fn_197.md) property, and in his mother; for before
 the espousing of the virgin the heavenly essence of the young man lies
 shut up in death: For when God cursed the earth, then the heavenly
 paradisical body disappeared, and the impression of Saturn took it in
@@ -803,7 +803,7 @@ possession, till the restitution,
 
 where God shall restore that which is hidden, that paradise does again
 spring forth afresh in the expressed word, or that the artist does open
-the same in a part <span id="fr_198"></span>[1](#fn_198) by God's
+the same in a part <span id="fr_198"></span>[1](#fn_198.md) by God's
 permission.
 
 68\. In the second kingdom of the mother, viz. in Luna, he shall also do
@@ -812,7 +812,7 @@ this is the working in the essentiality or corporality. He turned water
 to wine: These and the like do all belong to the lunar property, where
 the champion with his virgin opens paradise, and feeds the body, where
 nothing is, where the outward Mercury has not laboured and wrought: Thus
-the forms <span id="fr_199"></span>[2](#fn_199) in the lunar property
+the forms <span id="fr_199"></span>[2](#fn_199.md) in the lunar property
 open themselves as if they are paradisical, even then the artist thinks
 I am nigh unto it; but he is yet far off from the end.
 
@@ -832,7 +832,7 @@ what it is, or how it happens, and yet does also exceedingly rejoice
 that he sees the divine power to spring forth before his eyes in a half
 dead essence, and that in the curse of God: He sees all the four
 elements, each apart, and sees how the wisdom of God represents <span
-id="fr_200"></span>[3](#fn_200) itself therein, as an harmony of joy,
+id="fr_200"></span>[3](#fn_200.md) itself therein, as an harmony of joy,
 and sees all colours, and the rainbow upon which Christ sits in judgment
 in the expressed Mercury.
 
@@ -847,7 +847,7 @@ knowing in divine, real, heavenly jovial understanding and knowledge.
 
 <span id="page_126">p. 126</span>
 
-is the mercurial in the wheel <span id="fr_201"></span>[1](#fn_201) of
+is the mercurial in the wheel <span id="fr_201"></span>[1](#fn_201.md) of
 the nature of life, Christ made "the deaf to hear, the dumb to speak,
 and cleansed the lepers" from the poison of Mercury: All apoplexies, the
 French or poisonful pox and sores arise from the saturnine water in
@@ -882,7 +882,7 @@ Christ: And when they perceived that the king was come that should
 deprive self-will of its might and dominion, and destroy the devil's
 kingdom; then they cried out, and said, "We have no king but Cæsar;"
 they took him in the dark night into their power, bound him, and brought
-him before their council, <span id="fr_202"></span>[2](#fn_202) mocked
+him before their council, <span id="fr_202"></span>[2](#fn_202.md) mocked
 him, whipped him, and beat him, stripped him of clothes, and hung him on
 the cross.
 
@@ -901,7 +901,7 @@ have him, we will keep him well enough. Thus he also thinks, it is
 finished, and receives the child; and when he beholds it in the trial,
 then he has Venus, a woman, and not the virgin with the tincture of the
 fire and light, and is deceived by the woman. <span
-id="fr_203"></span>[1](#fn_203)
+id="fr_203"></span>[1](#fn_203.md)
 
 78\. Now observe right, What do the properties, viz. Saturn, Mars, and
 Mercury, when they see the child, viz. the champion in royal colour, and
@@ -911,7 +911,7 @@ fire-might? They will not suffer him.
 
 79\. For Saturn signifies the worldly dominion, and Mercury the
 spiritual dominion, viz. the Pharisees, <span
-id="fr_204"></span>[2](#fn_204) and Mars signifies the devil; these
+id="fr_204"></span>[2](#fn_204.md) and Mars signifies the devil; these
 three would not endure Christ among them; for he said that he was a king
 of love, and the Son of God, and was come to deliver his people from
 sin: Then thought the devil, sure this rhimes not well, thou wilt lose
@@ -953,53 +953,53 @@ worthy of God for the work.
 
 ### Footnotes
 
-<span id="fn_186"></span>[111:1](sat14.htm#fr_186) Put its desire,
+<span id="fn_186"></span>[111:1](sat14.htm#fr_186.md) Put its desire,
 hunger, and imagination into the nothing, the highest good or
 omnipotence, and eat of God's bread.
 
-<span id="fn_187"></span>[112:1](sat14.htm#fr_187) Or other forms.
+<span id="fn_187"></span>[112:1](sat14.htm#fr_187.md) Or other forms.
 
-<span id="fn_188"></span>[117:1](sat14.htm#fr_188) Or life's light.
+<span id="fn_188"></span>[117:1](sat14.htm#fr_188.md) Or life's light.
 
-<span id="fn_189"></span>[118:1](sat14.htm#fr_189) And all his legions
+<span id="fn_189"></span>[118:1](sat14.htm#fr_189.md) And all his legions
 of evil spirits.
 
-<span id="fn_190"></span>[118:2](sat14.htm#fr_190) Agree, or make for.
+<span id="fn_190"></span>[118:2](sat14.htm#fr_190.md) Agree, or make for.
 
-<span id="fn_191"></span>[119:1](sat14.htm#fr_191) Image, or likeness.
+<span id="fn_191"></span>[119:1](sat14.htm#fr_191.md) Image, or likeness.
 
-<span id="fn_192"></span>[119:2](sat14.htm#fr_192) Melody, harmony,
+<span id="fn_192"></span>[119:2](sat14.htm#fr_192.md) Melody, harmony,
 delight, or play.
 
-<span id="fn_193"></span>[121:1](sat14.htm#fr_193) Or change.
+<span id="fn_193"></span>[121:1](sat14.htm#fr_193.md) Or change.
 
-<span id="fn_194"></span>[122:1](sat14.htm#fr_194) Or were.
+<span id="fn_194"></span>[122:1](sat14.htm#fr_194.md) Or were.
 
-<span id="fn_195"></span>[124:1](sat14.htm#fr_195) Royal fort, fort
+<span id="fn_195"></span>[124:1](sat14.htm#fr_195.md) Royal fort, fort
 rampant.
 
-<span id="fn_196"></span>[124:2](sat14.htm#fr_196) Or kindred.
+<span id="fn_196"></span>[124:2](sat14.htm#fr_196.md) Or kindred.
 
-<span id="fn_197"></span>[124:3](sat14.htm#fr_197) Text, bodily.
+<span id="fn_197"></span>[124:3](sat14.htm#fr_197.md) Text, bodily.
 
-<span id="fn_198"></span>[125:1](sat14.htm#fr_198) By degrees.
+<span id="fn_198"></span>[125:1](sat14.htm#fr_198.md) By degrees.
 
-<span id="fn_199"></span>[125:2](sat14.htm#fr_199) Or signatures.
+<span id="fn_199"></span>[125:2](sat14.htm#fr_199.md) Or signatures.
 
-<span id="fn_200"></span>[125:3](sat14.htm#fr_200) Speculates, or
+<span id="fn_200"></span>[125:3](sat14.htm#fr_200.md) Speculates, or
 beholds.
 
-<span id="fn_201"></span>[126:1](sat14.htm#fr_201) Orb, rotation, or
+<span id="fn_201"></span>[126:1](sat14.htm#fr_201.md) Orb, rotation, or
 course.
 
-<span id="fn_202"></span>[126:2](sat14.htm#fr_202) Or judgment-seat.
+<span id="fn_202"></span>[126:2](sat14.htm#fr_202.md) Or judgment-seat.
 
-<span id="fn_203"></span>[127:1](sat14.htm#fr_203) Or lets the woman
+<span id="fn_203"></span>[127:1](sat14.htm#fr_203.md) Or lets the woman
 deceive him.
 
-<span id="fn_204"></span>[127:2](sat14.htm#fr_204) Or priests who call
+<span id="fn_204"></span>[127:2](sat14.htm#fr_204.md) Or priests who call
 themselves the ministers of Christ, but are not.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](sat15)
+[Next: Chapter XI](sat15.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ami03)  [Next](ami05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ami03)  [Next](ami05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Amitabha, A Story of Buddhist Theology*, by Paul Carus, \[1906\], at
 Intangible Textual Heritage
 
@@ -176,7 +176,7 @@ set free that land-sighting bird. This bird flies in an easterly
 direction, in a southerly direction, in a westerly direction, and in a
 northerly direction, and to the intermediate quarters, and if it sees
 land anywhere it flies thither, but if it does not see land it returns
-to [the](errata.htm#0) ship. In exactly the same way, O priest, when you
+to [the](errata.htm#0.md) ship. In exactly the same way, O priest, when you
 had searched as far as the Brahma world and found no answer to your
 question you returned to the place whence you came. The question, O
 priest, ought never to have been put thus: Where do these four states of
@@ -222,8 +222,8 @@ is Nirvâna, we must follow
 
 the Blessed One, the Teacher of gods and men; and like him we must by
 our own effort become lamps unto ourselves and resolutely walk upon the
-noble eightfold path."[10](ami16.htm#an_10)
+noble eightfold path."[10](ami16.htm#an_10.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Confession](ami05)
+[Next: The Confession](ami05.md)

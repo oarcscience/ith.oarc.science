@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar118) [Next](gbar120)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar118) [Next](gbar120.md)
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ which is worse—of things which I cannot talk of without shame.
 
 ------------------------------------------------------------------------
 
-[Next](gbar120)
+[Next](gbar120.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [The
-Pacific](../index) [Index](index) [Previous](lww00) [Next](lww1)
+[Sacred-Texts](../../index.md) [The
+Pacific](../index) [Index](index) [Previous](lww00) [Next](lww1.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ assist by recalling matters that the lecturer might omit, and also to
 supplement the story from their own knowledge. It was also decided that
 the lectures should be written down, a work that was undertaken by two
 young men named H. T. Whatahoro<span
-id="page_i_fr_*"></span>[\*](#page_i_note_*) and Aporo Te Kumeroa,<span
-id="page_i_fr_dagger"></span>[†](#page_i_note_dagger) who had been
+id="page_i_fr_*"></span>[\*](#page_i_note_*.md) and Aporo Te Kumeroa,<span
+id="page_i_fr_dagger"></span>[†](#page_i_note_dagger.md) who had been
 educuted at the Mission schools.
 
    Much matter was written down at that time; but it was amplified
@@ -43,7 +43,7 @@ building was erected in which the teaching took place, and where the
 matter taught was written down.
 
    The old priest Te Matorohanga died in 1884, and Nepia Pohuhu in
-1882,<span id="page_i_fr_ddagger"></span>[‡](#page_i_note_ddagger) both
+1882,<span id="page_i_fr_ddagger"></span>[‡](#page_i_note_ddagger.md) both
 being at the time of their deaths about eighty years <span
 id="page_ii">p. ii</span> old. It will thus be seen that they had been
 taught in the Maori College long before the influences of Christianity
@@ -168,7 +168,7 @@ their language. But it may be suggested as a tentative theory that these
 Caucasian Polynesians are an early branch of the Proto-Aryan migration
 into India, and, it is thought, the matter in this volume, and in that
 to follow, will afford support to that theory.<span
-id="page_iv_fr_*"></span>[\*](#page_iv_note_*) It is certain that many
+id="page_iv_fr_*"></span>[\*](#page_iv_note_*.md) It is certain that many
 of the Polynesian Myths and Traditions find their counterpart in those
 of the Scandinavian, Celtic, Indian, and other branches of the Aryan
 race; and it is suggested that in the Polynesian versions we are
@@ -248,7 +248,7 @@ power of the originals.
 
    It will be observed how frequently the number twelve enters into
 these myths; there are twelve heavens<span
-id="page_vi_fr_*"></span>[\*](#page_vi_note_*), seventy gods (there are
+id="page_vi_fr_*"></span>[\*](#page_vi_note_*.md), seventy gods (there are
 indications that the number was seventy-two originally), the offspring
 of Heaven and Earth, and in many other cases also this appears to be a
 favourite or sacred number. When we consider also the thread of
@@ -472,7 +472,7 @@ the doctrines of Rangi and Papa, the knowledge of whose doings was the
 property of all, high and low. This, it is suggested, is a matter worthy
 of further consideration by those who have the time to study the
 question with the light that other ancient beliefs may throw on it.<span
-id="page_xi_fr_*"></span>[\*](#page_xi_note_*)
+id="page_xi_fr_*"></span>[\*](#page_xi_note_*.md)
 
    It will be noticed in what follows that the souls, or spirits, of the
 dead on their arrival at Hawaiki, the temple situated in the Fatherland,
@@ -557,7 +557,7 @@ Zealand *circa* 1350, and still remains a venerated and sacred property
 of the Nga-Rauru tribe of the West Coast. No white man has been allowed
 to see it—it is far too sacred—but it is known by description to differ
 much in shape and material from the ordinary axe.<span
-id="page_xiii_fr_*"></span>[\*](#page_xiii_note_*) The 'heavenly origin'
+id="page_xiii_fr_*"></span>[\*](#page_xiii_note_*.md) The 'heavenly origin'
 of these sacred axes may possibly be translated as expressing the fact
 that they were brought away from the Fatherland when the people first
 migrated from there, and have accompanied them on their wanderings for
@@ -661,7 +661,7 @@ the under-world and the heavens above. With Whiro in his function of god
 of Hades, was associated Whakaru-au-moko, the seventieth and youngest
 son of the Sky-father and Earth-mother, who was god of volcanic force,
 eruptions, earthquakes,<span
-id="page_xvi_fr_*"></span>[\*](#page_xvi_note_*) etc.; and as goddess of
+id="page_xvi_fr_*"></span>[\*](#page_xvi_note_*.md) etc.; and as goddess of
 those regions was Hine-nui-te-Pō—Great-lady-of-night—(the daughter of
 the god Tāne), who 'drags men down to death.' The functions of the other
 gods forming the Whanau-a-Rangi (the family of the Sky-father) will be
@@ -723,7 +723,7 @@ brackets—\[   \].
 
 ------------------------------------------------------------------------
 
-[Next](lww1)
+[Next](lww1.md)
 
 ------------------------------------------------------------------------
 
@@ -731,31 +731,31 @@ brackets—\[   \].
 
 <span id="footnotes_page_i">p. i</span>
 
-<span id="page_i_note_*"></span>[\*](#page_i_fr_*) A member of the
+<span id="page_i_note_*"></span>[\*](#page_i_fr_*.md) A member of the
 Polynesian Society. Still hale and hearty at the age of 72.
 
-<span id="page_i_note_dagger"></span>[†](#page_i_fr_dagger) A member of
+<span id="page_i_note_dagger"></span>[†](#page_i_fr_dagger.md) A member of
 the Polynesian Society. Died 1911.
 
-<span id="page_i_note_ddagger"></span>[‡](#page_i_fr_ddagger) These
+<span id="page_i_note_ddagger"></span>[‡](#page_i_fr_ddagger.md) These
 teachers will be referred to generally in what follows: as 'the Sage';
 and H. T. Whatahoro as 'the Scribe.'
 
 <span id="footnotes_page_iv">p. iv</span>
 
-<span id="page_iv_note_*"></span>[\*](#page_iv_fr_*) See the
+<span id="page_iv_note_*"></span>[\*](#page_iv_fr_*.md) See the
 Translator's views on this question in "Hawaiki, the original home of
 the Maori," 3rd Edition, Whitcombe and Tombs, Christchurch, N.Z., 1910.
 
 <span id="footnotes_page_vi">p. vi</span>
 
-<span id="page_vi_note_*"></span>[\*](#page_vi_fr_*) It should be noted
+<span id="page_vi_note_*"></span>[\*](#page_vi_fr_*.md) It should be noted
 that with other tribes of New Zealand and Polynesia the heavens are ten
 in number.
 
 <span id="footnotes_page_xi">p. xi</span>
 
-<span id="page_xi_note_*"></span>[\*](#page_xi_fr_*) In this connection
+<span id="page_xi_note_*"></span>[\*](#page_xi_fr_*.md) In this connection
 it is worth while studying what Prof. Gustav Oppert says in his work,
 "The Original Inhabitants of Bharatavarsa or India," where he deduces
 the Hindu belief in one Supreme God, from the ancient belief in a large
@@ -764,12 +764,12 @@ one Supreme God, who is in many of his attributes very similar to Io.
 
 <span id="footnotes_page_xiii">p. xiii</span>
 
-<span id="page_xiii_note_*"></span>[\*](#page_xiii_fr_*) See 'Journal
+<span id="page_xiii_note_*"></span>[\*](#page_xiii_fr_*.md) See 'Journal
 Polynesian Society,' Vol. IX., p. 229, for full account of this axe.
 
 <span id="footnotes_page_xvi">p. xvi</span>
 
-<span id="page_xvi_note_*"></span>[\*](#page_xvi_fr_*) In one place the
+<span id="page_xvi_note_*"></span>[\*](#page_xvi_fr_*.md) In one place the
 Sage includes Mataaho, as a god of the under-world, after whom is named
 the 'overturning of the world,' but he is not one of the 'family of the
 Sky-father.'

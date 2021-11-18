@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp35)  [Next](dmp37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp35)  [Next](dmp37.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ at its end.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. V](dmp37)
+[Next: Verso Col. V](dmp37.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml09)  [Next](cml11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml09)  [Next](cml11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ his forces, and inflicted such a slaughter upon the people of Nemed
 that, out of the sixteen thousand who had assembled for the storming of
 the tower, only thirty survived. And these returned whence they came, or
 died--the two acts being, mythologically speaking, the same. <span
-id="fr_94"></span>[1](#fn_94)
+id="fr_94"></span>[1](#fn_94.md)
 
 One cannot help seeing a good deal of similarity between the stories of
 these two mythical invasions of Ireland. Especially noticeable is the
@@ -96,7 +96,7 @@ the epidemic which destroyed all Partholon's people and nearly all of
 Nemed's. Hence it has been held that the two legends are duplicates, and
 that there was at first only one, which has been adapted somewhat
 differently by two races, the Iberians and the Gaels. Professor Rhys
-considers <span id="fr_95"></span>[1](#fn_95) the account of Nemed to
+considers <span id="fr_95"></span>[1](#fn_95.md) the account of Nemed to
 have been the original Celtic one, and the Partholon story, the version
 of it which the native races made to please themselves. The name
 "Partholon", with its initial *p*, is entirely foreign to the genius of
@@ -109,7 +109,7 @@ Iberians, or "Fir Bolgs".
 These "Fir Bolgs" are found in myth as the next colonizers of Ireland.
 Varying traditions say that they came from Greece, or from
 "Spain"--which was a post-Christian euphemism for the Celtic
-Hades. <span id="fr_96"></span>[2](#fn_96) They consisted of three
+Hades. <span id="fr_96"></span>[2](#fn_96.md) They consisted of three
 tribes, called the "Fir Domnann" or "Men of Domnu", the "Fir Gaillion"
 or "Men of Gaillion", and the "Fir Bolg" or "Men of Bolg"; but, in spite
 of the fact that the first-named tribe was the most important, they are
@@ -130,7 +130,7 @@ believed, in early times, to mark the exact centre of Ireland. They held
 the country from the departure of the people of Nemed to the coming of
 the people of the goddess Danu, and during this period they had nine
 supreme kings. At the time of the arrival of the gods, their king's name
-was Eochaid <span id="fr_97"></span>[1](#fn_97) son of Erc, surnamed
+was Eochaid <span id="fr_97"></span>[1](#fn_97.md) son of Erc, surnamed
 "The Proud".
 
 We have practically no other details regarding their life in Ireland. It
@@ -138,7 +138,7 @@ is obvious, however, that they were not really gods, but the pre-Aryan
 race which the Gaels, when they landed in Ireland, found already in
 occupation. There are many instances of peoples at a certain stage of
 culture regarding tribes in a somewhat lower one as semi-divine, or,
-rather, half-diabolical. <span id="fr_98"></span>[2](#fn_98) The
+rather, half-diabolical. <span id="fr_98"></span>[2](#fn_98.md) The
 suspicion and fear with which the early Celts must have regarded the
 savage aborigines made them seem "larger than human". They feared them
 for the weird magical rites which they practised in their inaccessible
@@ -152,7 +152,7 @@ the dark. Their tribal names seem to have been, in several instances,
 founded upon this idea. There were the *Corca-Oidce* ("People of
 Darkness") and the *Corca-Duibhne* ("People of the Night"). The
 territory of the western tribe of the *Hi Dorchaide* ("Sons of Dark")
-was called the "Night Country". <span id="fr_99"></span>[1](#fn_99) The
+was called the "Night Country". <span id="fr_99"></span>[1](#fn_99.md) The
 Celts, who held their own gods to have preceded them into Ireland, would
 not believe that even the Tuatha Dé Danann could have wrested the land
 from these magic-skilled Iberians without battle.
@@ -169,7 +169,7 @@ bitter enemies as the Fir Domnann of Munster and the Fir Gaillion of
 Leinster. A few scholars would even see in the later death-struggle
 between the High King of Ireland and his rebellious Fenians the last
 historic or mythological adumbration of racial war. <span
-id="fr_100"></span>[2](#fn_100)
+id="fr_100"></span>[2](#fn_100.md)
 
 The enemies alike of Fir Bolg and Fomor, the
 
@@ -197,7 +197,7 @@ come to Scotland from Ireland, Irish legend should also declare that it
 was taken from Ireland to Scotland. This would sound like conclusive
 evidence, but it is none the less held by leading modern
 archæologists--including Dr. W. F. Skene, who has published a monograph
-on the subject <span id="fr_101"></span>[1](#fn_101)--that the Stone of
+on the subject <span id="fr_101"></span>[1](#fn_101.md)--that the Stone of
 Scone and the Stone of
 
 <span id="page_72">p. 72</span>
@@ -207,13 +207,13 @@ the same. Dr. Petrie identifies the real *Lia Fáil* with a stone which
 has always remained in Ireland, and which was removed from its original
 position on Tara Hill, in 1798, to mark the tomb of the rebels buried
 close by under a mound now known as "the Croppies' grave". <span
-id="fr_102"></span>[1](#fn_102)
+id="fr_102"></span>[1](#fn_102.md)
 
 Whether the Tuatha Dé Danann came from earth or heaven, they landed in a
 dense cloud upon the coast of Ireland on the mystic first of May without
 having been opposed, or even noticed by the people whom it will be
 convenient to follow the manuscript authorities in calling the "Fir
-Bolgs". <span id="fr_103"></span>[2](#fn_103) That those might still be
+Bolgs". <span id="fr_103"></span>[2](#fn_103.md) That those might still be
 ignorant of their coming, the Morrígú, helped by Badb and Macha, made
 use of the magic they had learned in Findias, Gorias, Murias, and
 Falias. They spread "druidically-formed showers and fog-sustaining
@@ -253,7 +253,7 @@ impressed by the sight of the Fir Bolgs' weapons. They decided to secure
 a more advantageous position, and, retreating farther west into
 Connaught, to a plain then called Nia, but now Moytura, near the present
 village of Cong, they drew up their line at its extreme end, in front of
-the pass of Balgatan <span id="fr_104"></span>[1](#fn_104), which
+the pass of Balgatan <span id="fr_104"></span>[1](#fn_104.md), which
 offered a retreat in case of defeat.
 
 <span id="page_74">p. 74</span>
@@ -322,10 +322,10 @@ of the second battle) are many circles and tumuli. These circles are
 especially numerous near the village itself; and it is said that there
 were formerly others, which have been used for making walls and dykes.
 Large cairns of stones, too, are scattered over what was certainly once
-the scene of a great battle. <span id="fr_105"></span>[1](#fn_105) These
+the scene of a great battle. <span id="fr_105"></span>[1](#fn_105.md) These
 various prehistoric monuments each have their still-told story; and Sir
 William Wilde, as he relates in his *Lough Corrib*, <span
-id="fr_106"></span>[2](#fn_106) was so impressed by the unexpected
+id="fr_106"></span>[2](#fn_106.md) was so impressed by the unexpected
 agreement between the details of the legendary battle, as he read them
 in the ancient manuscript, and the traditions still attaching to the
 mounds, circles, and cairns, that he tells us he could not help coming
@@ -350,7 +350,7 @@ whole story of the war between the gods and the Fir Bolgs is an
 invention of comparatively late times. In the earliest documents there
 is only one battle of Moytura, fought between the people of the goddess
 Danu and the Fomors. The idea of doubling it seems to date from after
-the eleventh century; <span id="fr_107"></span>[1](#fn_107) and its
+the eleventh century; <span id="fr_107"></span>[1](#fn_107.md) and its
 inventor may very well have used the legends concerning this
 battle-field, where two unknown armies had fought in days gone by, in
 compiling his story. It never belonged to the same genuine mythological
@@ -362,56 +362,56 @@ Iberians.
 
 ### Footnotes
 
-<span id="fn_94"></span>[67:1](cml10.htm#fr_94) De Jubainville: *Cycle
+<span id="fn_94"></span>[67:1](cml10.htm#fr_94.md) De Jubainville: *Cycle
 Mythologique*, chap. V.
 
-<span id="fn_95"></span>[68:1](cml10.htm#fr_95) Rhys: "The
+<span id="fn_95"></span>[68:1](cml10.htm#fr_95.md) Rhys: "The
 Mythographical Treatment of Celtic Ethnology", *Scottish Review*, Oct.
 1890.
 
-<span id="fn_96"></span>[68:2](cml10.htm#fr_96) De Jubainville: *Cycle
+<span id="fn_96"></span>[68:2](cml10.htm#fr_96.md) De Jubainville: *Cycle
 Mythologique*, chap. v. Rhys: *Hibbert Lectures*, pp. 90, 91.
 
-<span id="fn_97"></span>[69:1](cml10.htm#fr_97) Pronounced *Ecca* or
+<span id="fn_97"></span>[69:1](cml10.htm#fr_97.md) Pronounced *Ecca* or
 *Eohee*.
 
-<span id="fn_98"></span>[69:2](cml10.htm#fr_98) Gomme: *Ethnology in
+<span id="fn_98"></span>[69:2](cml10.htm#fr_98.md) Gomme: *Ethnology in
 Folklore*, chap. III--"The Mythic Influence of a Conquered Race"
 
-<span id="fn_99"></span>[70:1](cml10.htm#fr_99) Elton: *Origins of
+<span id="fn_99"></span>[70:1](cml10.htm#fr_99.md) Elton: *Origins of
 English History*, note to p. 136.
 
-<span id="fn_100"></span>[70:2](cml10.htm#fr_100) It has been contended
+<span id="fn_100"></span>[70:2](cml10.htm#fr_100.md) It has been contended
 that the Fenians were originally the gods or heroes of an aboriginal
 people in Ireland, the myths about them representing the pre-Celtic and
 pre-Aryan ideal, as the sagas of the Red Branch of Ulster embodied that
 of the Celtic Aryans. The question, however, is as yet far from being
 satisfactorily solved.
 
-<span id="fn_101"></span>[71:1](cml10.htm#fr_101) *The Coronation
+<span id="fn_101"></span>[71:1](cml10.htm#fr_101.md) *The Coronation
 Stone*, by William Forbes Skene.
 
-<span id="fn_102"></span>[72:1](cml10.htm#fr_102) See *History and
+<span id="fn_102"></span>[72:1](cml10.htm#fr_102.md) See *History and
 Antiquities of Tara Hill*.
 
-<span id="fn_103"></span>[72:2](cml10.htm#fr_103) Our authorities for
+<span id="fn_103"></span>[72:2](cml10.htm#fr_103.md) Our authorities for
 the details of this war between the Tuatha Dé Danann and the Fir Bolgs
 are the opening verses of the Harleian MS. 5280, as translated by Stokes
 and De Jubainville, and Eugene O’Curry's translations, in his *MS.
 Materials of Ancient Irish History* and his *Manners and Customs of the
 Ancient Irish*, from a manuscript preserved at Trinity College, Dublin.
 
-<span id="fn_104"></span>[73:1](cml10.htm#fr_104) Now called Benlevi.
+<span id="fn_104"></span>[73:1](cml10.htm#fr_104.md) Now called Benlevi.
 
-<span id="fn_105"></span>[76:1](cml10.htm#fr_105) See Dr. James
+<span id="fn_105"></span>[76:1](cml10.htm#fr_105.md) See Dr. James
 Fergusson: *Rude Stone Monuments*, pp. 177-180.
 
-<span id="fn_106"></span>[76:2](cml10.htm#fr_106) *Lough Corrib, Its
+<span id="fn_106"></span>[76:2](cml10.htm#fr_106.md) *Lough Corrib, Its
 Shores and Islands*, by Sir William R. Wilde, chap. VIII.
 
-<span id="fn_107"></span>[77:1](cml10.htm#fr_107) De Jubainville: *Cycle
+<span id="fn_107"></span>[77:1](cml10.htm#fr_107.md) De Jubainville: *Cycle
 Mythologique Irlandais*, p. 156.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Rise of the Sun-God](cml11)
+[Next: Chapter VII. The Rise of the Sun-God](cml11.md)

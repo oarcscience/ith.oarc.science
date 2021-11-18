@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](lots344)  [Next](lots346) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](lots344)  [Next](lots346.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001CL82NS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001CL82NS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Lives of the Saints*, by Alban Butler, Benziger Bros. ed. \[1894\], at
 Intangible Textual Heritage
 
@@ -49,6 +49,6 @@ it is, like fire, insatiable. See if this spirit be in you!
 
 ------------------------------------------------------------------------
 
-[Next: 8. The Feast of the Holy Relics](lots346)
+[Next: 8. The Feast of the Holy Relics](lots346.md)
 
 </div>

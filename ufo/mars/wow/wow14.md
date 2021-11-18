@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow13)  [Next](wow15) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow13)  [Next](wow15.md) 
 
 ------------------------------------------------------------------------
 
@@ -398,4 +398,4 @@ altogether--into his pockets, and went out again into the streets.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fifteen: What Had Happened In Surrey](wow15)
+[Next: Chapter Fifteen: What Had Happened In Surrey](wow15.md)

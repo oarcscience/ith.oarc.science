@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb32)  [Next](olb34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb32)  [Next](olb34.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -21,7 +21,7 @@ book in the same way as my mother has spoken it.
 After the Magy was killed and Fryasburgt was restored, a mother had to
 be chosen. The mother had not named her successor, and her will was
 nowhere to be found. Seven months later a general assembly was called at
-Grênegâ (Groningen) <span id="fr_47"></span>[\*](#fn_47), because it was
+Grênegâ (Groningen) <span id="fr_47"></span>[\*](#fn_47.md), because it was
 on the boundary of Saxamarken. My mother was chosen, but she would not
 be the mother. She had saved my father's life, in consequence of which
 they had fallen in love with each other, and she wished to marry. Many
@@ -36,7 +36,7 @@ restraint. From what follows you will understand Liudgert, the king who
 had lately died, had been chosen in the lifetime of the mother, and
 seemingly with the love and confidence of all the states. It was his
 turn to live at the great court of Dokhem <span
-id="fr_48"></span>[†](#fn_48), and in the lifetime of the mother great
+id="fr_48"></span>[†](#fn_48.md), and in the lifetime of the mother great
 honour was done to him there, as there were more messengers and knights
 there than had ever been seen there before. But now he was lonely and
 forsaken,
@@ -69,7 +69,7 @@ brother Adelbrost was found murdered on the wharf, his skull fractured
 and his limbs torn asunder. My father, who lay ill, died of fright. Then
 my younger brother, Apol, sailed from here to the west side of
 Schoonland. There he built a citadel named Lindasburgt <span
-id="fr_49"></span>[\*](#fn_49), in order there to avenge our wrong.
+id="fr_49"></span>[\*](#fn_49.md), in order there to avenge our wrong.
 Wr-alda accorded him many years for that. He had five sons, who all
 caused fear
 
@@ -134,13 +134,13 @@ messenger.
 
 ### Footnotes
 
-<span id="fn_47"></span>[123:\*](olb33.htm#fr_47) Grênegâ is Groningen.
+<span id="fn_47"></span>[123:\*](olb33.htm#fr_47.md) Grênegâ is Groningen.
 
-<span id="fn_48"></span>[123:†](olb33.htm#fr_48) Dokhem is Dokkum.
+<span id="fn_48"></span>[123:†](olb33.htm#fr_48.md) Dokhem is Dokkum.
 
-<span id="fn_49"></span>[125:\*](olb33.htm#fr_49) Lindasburch, on Cape
+<span id="fn_49"></span>[125:\*](olb33.htm#fr_49.md) Lindasburch, on Cape
 Lindanaes, Norway.
 
 ------------------------------------------------------------------------
 
-[Next: The Second Writing](olb34)
+[Next: The Second Writing](olb34.md)

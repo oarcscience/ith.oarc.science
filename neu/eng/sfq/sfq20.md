@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq19)  [Next](sfq21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq19)  [Next](sfq21.md) 
 
 ------------------------------------------------------------------------
 
@@ -147,4 +147,4 @@ fell.
 
 ------------------------------------------------------------------------
 
-[Next: The City of the Great King](sfq21)
+[Next: The City of the Great King](sfq21.md)

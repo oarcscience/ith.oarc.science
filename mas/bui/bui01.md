@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui00)  [Next](bui02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui00)  [Next](bui02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ J. F. N.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](bui02)
+[Next: Table of Contents](bui02.md)

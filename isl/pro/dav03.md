@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dav02)  [Next](dav04) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dav02)  [Next](dav04.md) 
 
 ------------------------------------------------------------------------
 
@@ -170,4 +170,4 @@ God ends our lives with their love and loyality for them, Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Mutation of Israelites](dav04)
+[Next: Mutation of Israelites](dav04.md)

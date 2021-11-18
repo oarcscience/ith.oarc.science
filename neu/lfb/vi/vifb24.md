@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb23)  [Next](vifb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb23)  [Next](vifb25.md) 
 
 </div>
 
@@ -474,6 +474,6 @@ from the bondage of fear, and had slain the Nunda.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Hassebu](vifb25)
+[Next: The Story of Hassebu](vifb25.md)
 
 </div>

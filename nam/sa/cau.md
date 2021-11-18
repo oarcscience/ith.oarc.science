@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Native American](../index) [South
-American](index)
+[Sacred-Texts](../../index) [Native American](../index.md) [South
+American](index.md)
 
 ------------------------------------------------------------------------
 
@@ -51,5 +51,5 @@ Press, 1976, p. 28; no further source given\]</span>
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Native American](../index) [South
-American](index)
+[Sacred-Texts](../../index) [Native American](../index.md) [South
+American](index.md)

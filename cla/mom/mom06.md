@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mom05)  [Next](mom07) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mom05)  [Next](mom07.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ the liturgy of the Phrygian goddess, was encouraged, probably
 <span id="page_87">p. 87</span>
 
 from the period of Marcus Aurelius (161-180 A.D.), by grants of civil
-immunities. <span id="fr_31"></span>[1](#fn_31) True, we are still in
+immunities. <span id="fr_31"></span>[1](#fn_31.md) True, we are still in
 doubt whether this association of the two deities was officially
 confirmed by the senate or the prince. Had this been done, the foreign
 god would at once have acquired the rights of Italian citizenship and
@@ -103,7 +103,7 @@ only sentiments of sympathy with the god that was regarded as identical
 with the one whom he caused his pontiffs to worship. In the year 307
 A.D., Diocletian, Galerius, and Licinius, at their conference in
 Carnuntum, dedicated with one accord a temple to Mithra *fautori imperii
-sui* (Figure [19](#img_19)), and the last pagan that occupied the throne
+sui* (Figure [19](#img_19).md), and the last pagan that occupied the throne
 of the Cæsars, Julian the Apostate, was an ardent votary of this tutelar
 god, whom he caused to be worshipped in Constantinople.
 
@@ -475,9 +475,9 @@ destined to resound even "to the last syllable of recorded time."
 
 ### Footnotes
 
-<span id="fn_31"></span>[87:1](mom06.htm#fr_31) See the Chapter "Mithra
+<span id="fn_31"></span>[87:1](mom06.htm#fr_31.md) See the Chapter "Mithra
 and the Religions of the Empire."
 
 ------------------------------------------------------------------------
 
-[Next: The Doctrine of the Mithraic Mysteries](mom07)
+[Next: The Doctrine of the Mithraic Mysteries](mom07.md)

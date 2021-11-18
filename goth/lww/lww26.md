@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww25)  [Next](lww27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww25)  [Next](lww27.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ which had not, in her state of mental perturbation, occurred to her.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII--On the Turret Roof](lww27)
+[Next: Chapter XXVII--On the Turret Roof](lww27.md)

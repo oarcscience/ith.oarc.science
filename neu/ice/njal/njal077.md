@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal076)  [Next](njal078) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal076)  [Next](njal078.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ After that they go home to Lithend.
 
 ------------------------------------------------------------------------
 
-[Next: 78. Gunnar Of Lithend Avenged](njal078)
+[Next: 78. Gunnar Of Lithend Avenged](njal078.md)

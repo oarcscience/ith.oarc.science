@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi163)  [Next](mtsi165) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi163)  [Next](mtsi165.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ destroyed.
 
 ------------------------------------------------------------------------
 
-[Next: 29. Adventures With Supernatural Beings](mtsi165)
+[Next: 29. Adventures With Supernatural Beings](mtsi165.md)

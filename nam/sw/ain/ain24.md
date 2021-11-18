@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain23)  [Next](ain25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain23)  [Next](ain25.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ are the Pima who killed me years ago.' Louis then recognized him as the
 man to whom he had dealt a heavy blow with a warclub, and then left him
 for dead on the battle-field."
 
-Is there any connection between [the](errata.htm#19) fact that when
+Is there any connection between [the](errata.htm#19.md) fact that when
 Nooee wore a nose-ring of turquoise the earth looked green, and that
 when he wore a nose-ring of glittering she'll the earth looked dry to
 him?
@@ -32,4 +32,4 @@ Could this whole story have been a myth of some great drouth?
 
 ------------------------------------------------------------------------
 
-[Next: Ee-Ee-Toy's Resurrection and Speech to Juhwerta Mahkai](ain25)
+[Next: Ee-Ee-Toy's Resurrection and Speech to Juhwerta Mahkai](ain25.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm27)  [Next](rrm29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm27)  [Next](rrm29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -303,4 +303,4 @@ strangely and mysteriously to call the 'signatures of things'.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIV: The Beliefs of the Rosicrucians--Meaning of Lights
-and of Commemorative Flambeaux in All Worship](rrm29)
+and of Commemorative Flambeaux in All Worship](rrm29.md)

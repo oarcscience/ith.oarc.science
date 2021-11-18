@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml20)  [Next](eml22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml20)  [Next](eml22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -37,6 +37,6 @@ Bahari (By courtesy of Mr. William Waldorf Astor)
 
 ------------------------------------------------------------------------
 
-[Next: Plate V: Luring the Doom Serpent](eml22)
+[Next: Plate V: Luring the Doom Serpent](eml22.md)
 
 </div>

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](trw15)  [Next](trw17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](trw15)  [Next](trw17.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *The Revealing Word*, by Charles Fillmore, \[1959\], at Intangible
 Textual Heritage
 
@@ -165,4 +165,4 @@ expressed oversoul of this planet.
 
 ------------------------------------------------------------------------
 
-[Next: P](trw17)
+[Next: P](trw17.md)

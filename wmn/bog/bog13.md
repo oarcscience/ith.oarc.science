@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog12)  [Next](bog14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog12)  [Next](bog14.md) 
 
 ------------------------------------------------------------------------
 
@@ -284,4 +284,4 @@ Thou fair moon of the seasons.
 
 ------------------------------------------------------------------------
 
-[Next: Gaia](bog14)
+[Next: Gaia](bog14.md)

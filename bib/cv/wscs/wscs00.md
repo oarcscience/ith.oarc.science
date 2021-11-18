@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Next](wscs01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Next](wscs01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 
 ###### OR
 
-<span id="img_t00"></span> ![Christianity Before Christ](img/t00.jpg)
+<span id="img_t00"></span> ![Christianity Before Christ](img/t00.jpg.md)
 
 ###### CONTAINING
 
@@ -50,15 +50,15 @@ and can be used for any purpose.
 <span id="img_front"></span>
 
 [![Frontispiece: Portrait of Kersey Graves](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
   
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 ------------------------------------------------------------------------
 
-[Next: Preface](wscs01)
+[Next: Preface](wscs01.md)

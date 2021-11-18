@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb03)  [Next](orfb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb03)  [Next](orfb05.md) 
 
 </div>
 
@@ -254,6 +254,6 @@ have in their possession Sipao, the Magic Mirror.
 
 ------------------------------------------------------------------------
 
-[Next: Story of the King Who Would See Paradise](orfb05)
+[Next: Story of the King Who Would See Paradise](orfb05.md)
 
 </div>

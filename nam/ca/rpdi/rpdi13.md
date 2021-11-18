@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi12)  [Next](rpdi14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi12)  [Next](rpdi14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ grunted and stamped with the right foot. The assistant then repeated his
 cry, and all stamped again. On a third repetition of the cry, all
 grunted and stamped three times. Then the assistant, exclaiming
 "a-ha-ha-ha a-ha-ha-ha," ran out of the house, and entering the
-dance-ground from the north side, <span id="fr_86"></span>[81](#fn_86)
+dance-ground from the north side, <span id="fr_86"></span>[81](#fn_86.md)
 ran half way around its circumference. Then he halted and dropped on one
 knee, facing the sun. He carried a stick in each hand. These he held up
 toward the sun as if to protect himself from a blow (pl. 27, fig. 1).
@@ -35,20 +35,20 @@ After a momentary pause
 the dancer also appeared on a run, entered the dance-ground from the
 north, encircled it once in a clockwise direction, and halted at the
 point of entry. He also carried two short, smooth sticks ([pl. 26, fig.
-3](rpdi27.htm#img_pl26)). When he halted he touched these two sticks to
-the ground and leaned upon them ([pl. 27, fig. 2](rpdi27.htm#img_pl27)).
+3](rpdi27.htm#img_pl26).md). When he halted he touched these two sticks to
+the ground and leaned upon them ([pl. 27, fig. 2](rpdi27.htm#img_pl27).md).
 The costume as shown in this figure consisted of a skirt or kilt of long
 eagle-feathers, yipexai, mounted on milkweed-fibre network. <span
-id="fr_87"></span>[82](#fn_87) In connection with this was worn a
+id="fr_87"></span>[82](#fn_87.md) In connection with this was worn a
 head-band of split owl-feathers, tsekwirp ([pl. 22, fig.
-4](rpdi27.htm#img_pl22)), mounted on a circlet of mescal or other fibre.
-His body was painted ([pl. 26, fig. 3](rpdi27.htm#img_pl26), [pl. 27,
-fig. 3](rpdi27.htm#img_pl27)) in broad stripes of white paint. This is
+4](rpdi27.htm#img_pl22).md), mounted on a circlet of mescal or other fibre.
+His body was painted ([pl. 26, fig. 3](rpdi27.htm#img_pl26.md), [pl. 27,
+fig. 3](rpdi27.htm#img_pl27).md) in broad stripes of white paint. This is
 made of powdered soapstone mixed with water. This costume seems to be
 the ancient ceremonial dress of the Diegueño and their neighbors, the
 Luiseño, since Boscana, writing in the early years of Spanish influence,
 describes practically the same dress. <span
-id="fr_88"></span>[82a](#fn_88)
+id="fr_88"></span>[82a](#fn_88.md)
 
 An old man with a rattle took his stand close by the dancer, and the two
 conversed in a very low tone. This was always done whenever the dance
@@ -121,7 +121,7 @@ instead. Finally he began to turn as he skipped, hopping or skipping on
 one foot between every half-turn. At times he changed his step in the
 midst of a song from the plain turn to the skipping turn. He also paused
 for an instant at frequent intervals to squat three times ([pl. 27, fig.
-4](rpdi27.htm#img_pl27)), facing in a different direction each time.
+4](rpdi27.htm#img_pl27).md), facing in a different direction each time.
 Three or four songs always completed the dance, and the performer then
 ran back whence he came.
 
@@ -130,7 +130,7 @@ no apparent regard to order.
 
 <div style="margin-left: 32px">
 
-itca yumitci itca yumitci <span id="fr_90"></span>[84](#fn_90)  
+itca yumitci itca yumitci <span id="fr_90"></span>[84](#fn_90.md)  
 yumpeni yumno yumpeni yumpte<span class="it">r</span>o  
 hai-i-i-wano  
 aweni maitero  
@@ -145,7 +145,7 @@ kemipa mumpeno
 kepai no<span class="it">v</span>ita  
 ke<span class="it">r</span>uwi, etc.
 
-pohyom nipa pohyom nipa <span id="fr_91"></span>[85](#fn_91)  
+pohyom nipa pohyom nipa <span id="fr_91"></span>[85](#fn_91.md)  
 nipampowow nipampo <span class="it">r</span>o<span
 class="it">r</span>owi  
 witcaxa wipneyau  
@@ -155,7 +155,7 @@ penomo apa
 penema <span class="it">r</span>o<span class="it">r</span>owi, etc.
 
 saha<span class="it">v</span>i peno<span class="it">v</span>i <span
-id="fr_92"></span>[86](#fn_92)  
+id="fr_92"></span>[86](#fn_92.md)  
 xeho<span class="it">r</span>a mokikai  
 peno<span class="it">v</span>i meyoi<span class="it">v</span>i
 
@@ -165,29 +165,29 @@ peno<span class="it">v</span>i meyoi<span class="it">v</span>i
 
 ### Footnotes
 
-<span id="fn_86"></span>[308:81](rpdi13.htm#fr_86) East is the
+<span id="fn_86"></span>[308:81](rpdi13.htm#fr_86.md) East is the
 ceremonial direction among the Diegueño. This detail may indicate a
 Luiseño origin for this rite.
 
-<span id="fn_87"></span>[309:82](rpdi13.htm#fr_87) For this type of
+<span id="fn_87"></span>[309:82](rpdi13.htm#fr_87.md) For this type of
 skirt, see DuBois, op. cit., plate 18.
 
-<span id="fn_88"></span>[309:82a](rpdi13.htm#fr_88) Boscana,
+<span id="fn_88"></span>[309:82a](rpdi13.htm#fr_88.md) Boscana,
 "Chinigchinich," in Robinson's "Life in California," New York, Wiley and
 Putnam, 1846.
 
-<span id="fn_89"></span>[309:83](rpdi13.htm#fr_89) The words of this and
+<span id="fn_89"></span>[309:83](rpdi13.htm#fr_89.md) The words of this and
 the following song are Shoshonean.
 
-<span id="fn_90"></span>[310:84](rpdi13.htm#fr_90) This and the two
+<span id="fn_90"></span>[310:84](rpdi13.htm#fr_90.md) This and the two
 following are said to be in the Cahuilla language.
 
-<span id="fn_91"></span>[310:85](rpdi13.htm#fr_91) University of
+<span id="fn_91"></span>[310:85](rpdi13.htm#fr_91.md) University of
 California phonograph record 689(<sup>4</sup>).
 
-<span id="fn_92"></span>[310:86](rpdi13.htm#fr_92) *Ibid*.,
+<span id="fn_92"></span>[310:86](rpdi13.htm#fr_92.md) *Ibid*.,
 689(<sup>2</sup>).
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion of the Feather Ceremony](rpdi14)
+[Next: Conclusion of the Feather Ceremony](rpdi14.md)

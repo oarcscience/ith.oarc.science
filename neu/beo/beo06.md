@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo05)  [Next](beo07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo05)  [Next](beo07.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ gold on the walls and roofs of a hall.
 
 ------------------------------------------------------------------------
 
-[Next: Part VI](beo07)
+[Next: Part VI](beo07.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu29)  [Next](cbu31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu29)  [Next](cbu31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -76,11 +76,11 @@ method:—
 | Upâsaka                              | *U-pa-sa-ka*                                           | Yeu-po-so-kia                           |
 | Viharapala                           | *Bi-ha-la-pa-la*                                       | Pi-ho-lo-po-lo                          |
 | Bodhiruchi                           | *Bo-di-lu-chi*                                         | P‘u-t‘i-lieu-chï                        |
-| Paramiti                             | *Pat-la-mit-ti* <span id="fr_140"></span>[1](#fn_140)  | Po-le-mi-ti                             |
+| Paramiti                             | *Pat-la-mit-ti* <span id="fr_140"></span>[1](#fn_140.md)  | Po-le-mi-ti                             |
 | Mahêshwara                           | *Ma-hi-shu-la*                                         | Mo-hi-sheu-lo                           |
 | Shanaishchara                        | *Sha-nai-shat-chat-la*                                 | She-na-yi-shï-che-lo                    |
 | Prasenajit                           | *Pat-la-si-na-ji-ta*                                   | Po-lo-sï-na-shï-to                      |
-| Mahapadma                            | *Ma-ha-pa-de-ma* <span id="fr_141"></span>[2](#fn_141) | Mo-ho-po-t‘e-mo                         |
+| Mahapadma                            | *Ma-ha-pa-de-ma* <span id="fr_141"></span>[2](#fn_141.md) | Mo-ho-po-t‘e-mo                         |
 | Udyâna                               | *U-dyung-na*                                           | U-chang-na                              |
 | Sangadeva                            | *Seng-ga-de-ba*                                        | Seng-k‘ia-t‘i-p‘o                       |
 | Achârya                              | *A-cha-li-ya*                                          | O-che-li-ye                             |
@@ -391,18 +391,18 @@ A muttered charm is called "dharani," or, in Chinese, *cheu*.
 
 ### Footnotes
 
-<span id="fn_140"></span>[399:1](cbu30.htm#fr_140) S. Julien is wrong in
+<span id="fn_140"></span>[399:1](cbu30.htm#fr_140.md) S. Julien is wrong in
 making the first of these four characters end in *n*. It is *pat* in old
 Chinese; but *pat* was often *par*. See p. 201 of my *Introduction to
 the Study of the Chinese Characters*. Thus the famous word *karma*,
 "cause," "fate," was transliterated *kat-ma*, the *t* being heard as
 *r*.
 
-<span id="fn_141"></span>[399:2](cbu30.htm#fr_141) The character *de*
+<span id="fn_141"></span>[399:2](cbu30.htm#fr_141.md) The character *de*
 should be transliterated *dek*. That the *k* was then lost is shown by
 its use in this case. The loss of *k* final was beginning.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVI. Books and Papers That May be Consulted for the
-Study of Chinese Buddhism](cbu31)
+Study of Chinese Buddhism](cbu31.md)

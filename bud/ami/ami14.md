@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ami13)  [Next](ami15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ami13)  [Next](ami15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Amitabha, A Story of Buddhist Theology*, by Paul Carus, \[1906\], at
 Intangible Textual Heritage
 
@@ -77,7 +77,7 @@ all-comprehensive, and he who
 <span id="page_113">p. 113</span>
 
 takes refuge in Him will cease to bicker, and to contend, and to
-quarrel."[23](ami16.htm#an_23)
+quarrel."[23](ami16.htm#an_23.md)
 
 \*        \*        \*
 
@@ -106,10 +106,10 @@ Tathâgata:
 "Commit no wrong, but good deeds do,  
  And let thy heart be pure.  
  All Buddhas teach this doctrine true  
- Which will for aye endure."[24](ami16.htm#an_24)
+ Which will for aye endure."[24](ami16.htm#an_24.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[Next: The Double Wedding](ami15)
+[Next: The Double Wedding](ami15.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](biblio) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](biblio.md) 
 
 ------------------------------------------------------------------------
 

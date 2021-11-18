@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb26)  [Next](blfb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb26)  [Next](blfb28.md) 
 
 </div>
 
@@ -248,6 +248,6 @@ both reigned over the kingdom in peace and happiness.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Toads And Diamonds](blfb28)
+[Next: Toads And Diamonds](blfb28.md)
 
 </div>

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](tot14)  [Next](tot16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](tot14)  [Next](tot16.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Talks on Truth*, by Charles Fillmore, \[1912\], at Intangible Textual
 Heritage
 
@@ -544,4 +544,4 @@ him, and we will come unto him, and make our abode with him."
 
 ------------------------------------------------------------------------
 
-[Next: Question Helps](tot16)
+[Next: Question Helps](tot16.md)

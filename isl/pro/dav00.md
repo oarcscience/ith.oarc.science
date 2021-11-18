@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](grp04)  [Next](dav01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](grp04)  [Next](dav01.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ faithful and wise with passion.
 
 ------------------------------------------------------------------------
 
-[Next: The Awaited Manifesto](dav01)
+[Next: The Awaited Manifesto](dav01.md)

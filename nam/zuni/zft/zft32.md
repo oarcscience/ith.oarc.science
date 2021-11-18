@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft31)  [Next](zft33) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft31)  [Next](zft33.md) 
 
 ------------------------------------------------------------------------
 
@@ -437,4 +437,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: The Cock And The Mouse](zft33)
+[Next: The Cock And The Mouse](zft33.md)

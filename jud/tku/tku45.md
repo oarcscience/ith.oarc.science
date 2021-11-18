@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku44)  [Next](tku46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku44)  [Next](tku46.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ conformation called, like as in the Holy Ancient One.
 868\. "But because that path which goeth forth in the third disposition
 beneath the two nostrils is filled with short and rigid hairs; hence
 because of that path these conformations are not called 'bearing
-iniquity and passing over [transgression](errata.htm#7);' but these are
+iniquity and passing over [transgression](errata.htm#7.md);' but these are
 collected together in another place.
 
 869\. "Also we have learned in Barietha that three hundred and
@@ -59,7 +59,7 @@ over; for a double reason.
 unto the commencement of the mouth.
 
 878\. "But concerning this it is written, Cant. v. 13: 'His lips like
-roses <span id="fr_154"></span>[1](#fn_153) (that is, red as roses),
+roses <span id="fr_154"></span>[1](#fn_153) (that is, red as roses.md),
 dropping sweet-smelling myrrh while passing over;' which denoteth
 notable redness.
 
@@ -71,7 +71,7 @@ with his hand."
 
 ### Footnotes
 
-<span id="fn_153"></span>[220:1](tku45.htm#fr_154) The English version
+<span id="fn_153"></span>[220:1](tku45.htm#fr_154.md) The English version
 of this passage readers it, "His lips like lilies, dropping
 sweet-smelling myrrh." The word here translated roses by Knorr de
 Rosenroth is ShVShNIM, *Shoshanim*, which I think should undoubtedly be
@@ -81,4 +81,4 @@ chapter is very difficult and obscure.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXVIII: Concerning the Seven Last Portions of the Beard
-of Microprosopus](tku46)
+of Microprosopus](tku46.md)

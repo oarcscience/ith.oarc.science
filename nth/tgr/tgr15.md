@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tgr14)  [Next](tgr16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tgr14)  [Next](tgr16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Think and Grow Rich*, by Napoleon Hill \[1938\], at Intangible Textual
 Heritage
 
@@ -337,4 +337,4 @@ are shy and timid. They have to be "attracted."
 ------------------------------------------------------------------------
 
 [Next: Chapter 11. The Mystery of Sex Transmutation (The Tenth Step
-toward Riches)](tgr16)
+toward Riches)](tgr16.md)

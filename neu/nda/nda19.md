@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda18)  [Next](nda20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda18)  [Next](nda20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ Brattahlid, but Leif repaired to the ship, and his comrades
 <span id="page_201">p. 201</span>
 
 with him, thirty-five men. There was a southern <span
-id="fr_22"></span>[1](#fn_22) on the voyage, who Tyrker hight (named).
+id="fr_22"></span>[1](#fn_22) on the voyage, who Tyrker hight (named.md).
 *Now prepared they their ship, and sailed out into the sea when they
 were ready, and then found that land first which Bjarne had found last*.
 There sailed they to the land, and cast anchor, and put off boats, and
@@ -60,7 +60,7 @@ and found another land; they sailed again to the land, and cast anchor,
 then put off boats and went on shore. This land was flat, and covered
 with wood, and white sands were far around where they went, and the
 shore was low. Then said Leif, "This land shall be named after its
-qualities, and called Markland <span id="fr_23"></span>[2](#fn_23)
+qualities, and called Markland <span id="fr_23"></span>[2](#fn_23.md)
 (woodland.)" They then immediately returned to the ship. Now sailed they
 thence into the open sea, with a northeast wind, and were two days at
 sea before they saw land, and they sailed
@@ -68,7 +68,7 @@ sea before they saw land, and they sailed
 <span id="page_202">p. 202</span>
 
 thither and came to an island (Nantucket?) which lay to the eastward of
-the land, <span id="fr_24"></span>[1](#fn_24) and went up there, and
+the land, <span id="fr_24"></span>[1](#fn_24.md) and went up there, and
 looked round them in good weather, and observed that there was dew upon
 the grass; and it so happened that they touched the dew with their
 hands, and raised the fingers to the mouth, and they thought that they
@@ -86,7 +86,7 @@ once on shore, at a place where a river flows out of a lake; but so,
 soon as the waters rose up under the ship, then took they boats, and
 rowed to the ship, and floated it up to the river, and thence into the
 lake, and there cast anchor, and brought up from the ship their skin
-cots, <span id="fr_25"></span>[2](#fn_25) and made their booths.
+cots, <span id="fr_25"></span>[2](#fn_25.md) and made their booths.
 
 After this took they counsel, and formed the resolution of remaining
 there for the winter, and built there large houses. There was no want of
@@ -95,7 +95,7 @@ had
 
 <span id="img_20300"></span> <span align="CENTER"> [![NORSEMEN
 CELEBRATING THEIR DISCOVERY.](tn/20300.jpg)  
-Click to enlarge](img/20300.jpg)  
+Click to enlarge](img/20300.jpg.md)  
 NORSEMEN CELEBRATING THEIR DISCOVERY.  
 </span>
 
@@ -326,7 +326,7 @@ the wife of Thorstein the Black, died. But when she was dead, then went
 Thorstein out of the room, after a plank to lay the body upon. Then said
 Gudrid: "Stay not long away, my Thorstein!" he answered that so it
 should be. Then said Thorstein Erikson: "Strangely now is our
-house-mother <span id="fr_26"></span>[1](#fn_26) going on,
+house-mother <span id="fr_26"></span>[1](#fn_26.md) going on,
 
 <span id="page_211">p. 211</span>
 
@@ -405,12 +405,12 @@ Greenland, namely the priests.
 
 ### Footnotes
 
-<span id="fn_22"></span>[201:1](nda19.htm#fr_22) Sudrmadr, supposed to
+<span id="fn_22"></span>[201:1](nda19.htm#fr_22.md) Sudrmadr, supposed to
 mean a German, as the terms Sudrmenn and Thydverskirmenn are used
 promiscuously to distinguish the natives of Germany, by old northern
 writers.
 
-<span id="fn_23"></span>[201:2](nda19.htm#fr_23) "The land about the
+<span id="fn_23"></span>[201:2](nda19.htm#fr_23.md) "The land about the
 Harbour of Halifax, and a little to the southward of it, is, in
 appearance, rugged and rocky, and has on it, in several places, scrubby
 withered wood. Although it seems bold, yet it is not high." Columbian
@@ -425,11 +425,11 @@ point into Barrington Bay, is a *low woody* island, at the S. E.
 extremity of a range of *sandy cliffs*, which are very remarkable at a
 considerable distance in the offing."
 
-<span id="fn_24"></span>[202:1](nda19.htm#fr_24) Literally "northward of
+<span id="fn_24"></span>[202:1](nda19.htm#fr_24.md) Literally "northward of
 the land," but the Editor shows that the Northmen placed this point of
 the compass nearly in the position of our east."
 
-<span id="fn_25"></span>[202:2](nda19.htm#fr_25) *Hudfot*, from *hud*,
+<span id="fn_25"></span>[202:2](nda19.htm#fr_25.md) *Hudfot*, from *hud*,
 skin, and *fat*, a case or covering, being strictly speaking, a skin bag
 or pouch, in which the ancients were accustomed to keep their clothes
 and other articles on a journey; the same was used for a bed on
@@ -437,8 +437,8 @@ ship-board, as appears in the Laxdæla Saga, p. 116, where Thurid says,
 "she went to the couch, where Geirmund slept." It thus answers to the
 *uter* of the Romans.
 
-<span id="fn_26"></span>[210:1](nda19.htm#fr_26) Husfreyju.
+<span id="fn_26"></span>[210:1](nda19.htm#fr_26.md) Husfreyju.
 
 ------------------------------------------------------------------------
 
-[Next: Saga of Thorfinn Karlsefne](nda20)
+[Next: Saga of Thorfinn Karlsefne](nda20.md)

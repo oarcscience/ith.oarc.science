@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb33)  [Next](wfb35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb33)  [Next](wfb35.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ and towers has died very soon after.
 
 ------------------------------------------------------------------------
 
-[Next: Owen Goes A-Wooing](wfb35)
+[Next: Owen Goes A-Wooing](wfb35.md)

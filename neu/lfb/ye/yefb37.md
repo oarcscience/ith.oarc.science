@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb36)  [Next](yefb38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb36)  [Next](yefb38.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_222">p. 222</span>
 
-THE HAZEL-NUT CHILD <span id="fr_28"></span>[1](#fn_28)
+THE HAZEL-NUT CHILD <span id="fr_28"></span>[1](#fn_28.md)
 
 There was once upon a time a couple who had no children, and they prayed
 Heaven every day to send them a child, though it were no bigger than a
@@ -127,13 +127,13 @@ after this till they died.
 
 ### Footnotes
 
-<span id="fn_28"></span>[222:1](yefb37.htm#fr_28) From the *Bukowniaer*.
+<span id="fn_28"></span>[222:1](yefb37.htm#fr_28.md) From the *Bukowniaer*.
 Van Wliolocki.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Big Klaus and Little Klaus](yefb38)
+[Next: The Story of Big Klaus and Little Klaus](yefb38.md)
 
 </div>

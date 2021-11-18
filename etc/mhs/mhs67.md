@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs66)  [Next](mhs68) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs66)  [Next](mhs68.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ ages and throughout the world.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Number Seven](mhs68)
+[Next: III. The Number Seven](mhs68.md)

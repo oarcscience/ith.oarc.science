@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp05) [Next](onp07)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp05) [Next](onp07.md)
 
 ------------------------------------------------------------------------
 
@@ -161,7 +161,7 @@ on my body both will batten now.”<br />
 
 ------------------------------------------------------------------------
 
-[Next](onp07)
+[Next](onp07.md)
 
 ------------------------------------------------------------------------
 
@@ -169,10 +169,10 @@ on my body both will batten now.”<br />
 
 <span id="footnotes_page_27">p. 27</span>
 
-<span id="note_1"></span>[1](#fr_1) Between Uppsala and the present
+<span id="note_1"></span>[1](#fr_1.md) Between Uppsala and the present
 Stockholm.
 
-<span id="note_2"></span>[2](#fr_2) This is a low flat point south of
+<span id="note_2"></span>[2](#fr_2.md) This is a low flat point south of
 the present Stockholm.
 
  

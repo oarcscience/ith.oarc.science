@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs25)  [Next](pifs27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs25)  [Next](pifs27.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,7 +189,7 @@ then north and south, and sprang nimbly to the bank. At that very
 instant the water rushed out harder than it had ever done. All the
 people and cattle along the river came to the banks and drank and
 revived. They began to irrigate their fields again, and the dying crops
-grew green. <span id="fr_83"></span>[1](#fn_82) When Good got back to
+grew green. <span id="fr_83"></span>[1](#fn_82.md) When Good got back to
 the pueblo, half of all the grain and money
 
 <span id="page_167">p. 167</span>
@@ -264,7 +264,7 @@ undone them, without mercy puffed him to the place where devils live.
 
 ### Footnotes
 
-<span id="fn_82"></span>[166:1](pifs26.htm#fr_83) Here, as in several
+<span id="fn_82"></span>[166:1](pifs26.htm#fr_83.md) Here, as in several
 other stories in this volume, is a touch of the and character of the
 Southwest. The country is always so dry that irrigation is necessary in
 farming, and in very bad years the streams have not water even for that.
@@ -276,4 +276,4 @@ of which they wrote.
 
 ------------------------------------------------------------------------
 
-[Next: XXIV. The Brave Bobtails](pifs27)
+[Next: XXIV. The Brave Bobtails](pifs27.md)

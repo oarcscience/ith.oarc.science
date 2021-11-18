@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb38)  [Next](ptb40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb38)  [Next](ptb40.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ Each of the planets, when fully exercising its own separate and distinct
 influence, will properly produce the peculiar effects above ascribed to
 it; but should it be combined with others, whether by configuration, by
 familiarity arising from the sign in which it may be posited, <span
-id="fr_106"></span>[1](#fn_106) or by
+id="fr_106"></span>[1](#fn_106.md) or by
 
 <span id="page_61">p. 61</span>
 
@@ -192,17 +192,17 @@ of the angles may be in opposition to that existing during the eclipse.
 With respect to these coincidences, the partile agreement, or
 opposition, of the ecliptical place of the luminaries to the place of
 either luminary in a nativity, produces an effect at least capable of
-being guarded against. <span id="fr_107"></span>[1](#fn_107)
+being guarded against. <span id="fr_107"></span>[1](#fn_107.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_106"></span>[60:1](ptb39.htm#fr_106) That is to say
+<span id="fn_106"></span>[60:1](ptb39.htm#fr_106.md) That is to say
 (technically speaking), by reception, or by being posited in a sign in
 which another planet has a certain dignity or prerogative.
 
-<span id="fn_107"></span>[61:1](ptb39.htm#fr_107) In conformity to the
+<span id="fn_107"></span>[61:1](ptb39.htm#fr_107.md) In conformity to the
 rule laid down in Chap. VI of this Book, those individuals whose
 nativities may thus resemble the position of the heavens at the time of
 an eclipse, and who are here stated to be chiefly liable to the effects
@@ -222,9 +222,9 @@ his death was always sickly: and this observation is wonderful in the
 changes of the times and weather; for this principle Ptolemy adhered to
 in the Almagest, lib. VIII, cap. 4; and this doctrine he also mentions
 in the 2nd Book of Judgments, in the chapter on the Nature of
-Events."--(Cooper's [Translation](errata.htm#7), p. 272.)
+Events."--(Cooper's [Translation](errata.htm#7), p. 272..md)
 
 ------------------------------------------------------------------------
 
 [Next: Chapter X. Colours in Eclipses; Comets, and Similar
-Phenomena](ptb40)
+Phenomena](ptb40.md)

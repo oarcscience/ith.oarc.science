@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](pell10)  [Next](pell12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](pell10)  [Next](pell12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88C8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88C8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pellucidar*, by Edgar Rice Burroughs, \[1915\], at Intangible Textual
 Heritage
 
@@ -394,4 +394,4 @@ no larger than a saucer. How Juag ever had hit it I could not guess.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Escape](pell12)
+[Next: Chapter XI. Escape](pell12.md)

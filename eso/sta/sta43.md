@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta42)  [Next](sta44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta42)  [Next](sta44.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ language and figures of speech; by *logic* he is trained
 <span id="img_17300"></span>
 
 [![THE MYSTERY OF THE MACROCOSM.](tn/17300.jpg)  
-Click to enlarge](img/17300.jpg)  
+Click to enlarge](img/17300.jpg.md)  
 THE MYSTERY OF THE MACROCOSM.  
 
 Redrawn from *Cesariano's Edition of Vitruvius*.
@@ -371,7 +371,7 @@ of Solomon, and one of the most important of their symbols was the Seal
 of Solomon--two interlaced triangles. This motif is frequently seen in
 conspicuous parts of Mohammedan mosques. The Knights Templars--who were
 suspected of anything and everything--are believed to have contacted
-these [Dionysiac](errata.htm#14) artificers and to have introduced many
+these [Dionysiac](errata.htm#14.md) artificers and to have introduced many
 of their symbols and doctrines into mediæval Europe. But Freemasonry
 most of all owes to the Dionysiac cult the great mass of its symbols and
 rituals which are related to the science of architecture. From these
@@ -443,7 +443,7 @@ The *Soul*ar Temple is the true Everlasting House, and he who can
 <span id="img_17500"></span>
 
 [![THE MYSTERY OF THE MICROCOSM.](tn/17500.jpg)  
-Click to enlarge](img/17500.jpg)  
+Click to enlarge](img/17500.jpg.md)  
 THE MYSTERY OF THE MICROCOSM.  
 
 Redrawn from *Cesariano's Edition of Vitruvius*.
@@ -655,4 +655,4 @@ illumined hierophants of days long past.
 
 ------------------------------------------------------------------------
 
-[Next: Mystic Christianity](sta44)
+[Next: Mystic Christianity](sta44.md)

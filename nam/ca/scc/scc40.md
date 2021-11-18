@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc39)  [Next](scc41) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc39)  [Next](scc41.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ have to die."
 ------------------------------------------------------------------------
 
 [Next: 39.--Yauelmani Yokuts. Coyote's Adventures And The Prairie
-Falcon's Blindness.](scc41)
+Falcon's Blindness.](scc41.md)

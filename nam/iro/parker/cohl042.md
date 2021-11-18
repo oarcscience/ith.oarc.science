@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl041)  [Next](cohl043) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl041)  [Next](cohl043.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 "'The Creator has sanctioned four dances for producing a joyful spirit
 and he has placed them in the keeping of Honon'diont <span
-id="fr_39"></span>[2](#fn_39) who have authority over them. The Creator
+id="fr_39"></span>[2](#fn_39.md) who have authority over them. The Creator
 has ordered that on certain times and occasions there should be
 thanksgiving ceremonies. At such times all must thank the Creator that
 they live. After that, let the chiefs thank him for the ground and the
@@ -39,11 +39,11 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_39"></span>[41:2](cohl042.htm#fr_39) *Honon'diont*,
+<span id="fn_39"></span>[41:2](cohl042.htm#fr_39.md) *Honon'diont*,
 *overseers* or *keepers of ceremonies*, more often women than men. The
 word means *They are mountains*. (Hodi'ont is mas. sing.; Godi'ont, fem.
 sing.).
 
 ------------------------------------------------------------------------
 
-[Next: Section 32](cohl043)
+[Next: Section 32](cohl043.md)

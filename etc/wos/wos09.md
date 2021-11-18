@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](wos08)  [Next](wos10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](wos08)  [Next](wos10.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ of Pagan idolatry, these superstitions, originally independent, became
 so closely interwoven, that from their union sprung up a new kind of
 idolatry, and a new god, who, partaking of the attributes of the SUN and
 of the SERPENT, united their *names*, and was worshipped as APOLLO <span
-id="fr_504"></span>[1](#fn_503). The union of the two religions is, not
+id="fr_504"></span>[1](#fn_503.md). The union of the two religions is, not
 obscurely, intimated in the legend of Apollo Pythius; in which this
 deity is represented as taking possession of a temple which
 
@@ -50,8 +50,8 @@ as a pillar, in remembrance of his celebrated dream, and, consecrating
 it to God, calls the name of the place *Bethel*. In process of time the
 stone itself was called *Bethel*, and similar pillars were hence named
 βαιτύλια, and supposed to be animated with the presence of the
-deity <span id="fr_505"></span>[1](#fn_504). The Ophites called them
-*Abadir* <span id="fr_506"></span>[2](#fn_505), from the name of the
+deity <span id="fr_505"></span>[1](#fn_504.md). The Ophites called them
+*Abadir* <span id="fr_506"></span>[2](#fn_505.md), from the name of the
 serpent-solar god: and they were *conical*, as representing *a ray of
 the sun*.
 
@@ -69,16 +69,16 @@ sun, at Emesa.
 
 In the Caaba of Mecca there is also a black stone, said to have fallen
 from heaven. The Mahometans generally hold it in great veneration <span
-id="fr_507"></span>[1](#fn_506). This was, probably, of the same kind as
+id="fr_507"></span>[1](#fn_506.md). This was, probably, of the same kind as
 the Heliogabalus of Emesa--a probability which is strengthened by the
 name of the temple--*Caaba*: for this word may be a corruption of
 *Ca-ab-ir*, which means "*the temple of* ABIR," *the solar
-serpent* <span id="fr_508"></span>[2](#fn_507).
+serpent* <span id="fr_508"></span>[2](#fn_507.md).
 
 PYRAMIDS were obelisks of the most magnificent order; but it is supposed
 by Bryant that the obelisk originally represented the *deity*, of whom
 the pyramid, in times of improved architecture, was *the temple* <span
-id="fr_509"></span>[3](#fn_508). As the obelisk was an improvement upon
+id="fr_509"></span>[3](#fn_508.md). As the obelisk was an improvement upon
 the original Baitulia, it preserved the pointed form of these sacred
 stones in its apex--every obelisk terminating in a small pyramidal
 figure, which, like the Baitulia, was intended to be the representation
@@ -87,7 +87,7 @@ of a
 <span id="page_363">p. 363</span>
 
 *sun's ray*. The word *pyramid* itself means "*a ray of the sun* <span
-id="fr_510"></span>[1](#fn_509)," from the Coptic *Pi-ra-mu-e*.
+id="fr_510"></span>[1](#fn_509.md)," from the Coptic *Pi-ra-mu-e*.
 
 2\. AN AGGREGATE of BAITULIA formed the first temples which were
 erected: and these temples were generally built *in the figures of the
@@ -168,7 +168,7 @@ of the DRAGON.
 
 The DRACONTIA of the Solar-Ophites were of various forms, embracing
 every figure of the Ophite hierogram <span
-id="fr_511"></span>[1](#fn_510). Some were straight--others were formed
+id="fr_511"></span>[1](#fn_510.md). Some were straight--others were formed
 by *one* serpent passing through the circle; and others again consisted
 of a circle and *two* issuing serpents.
 
@@ -180,7 +180,7 @@ The temples of *Merivale* on Dartmoor; *Abury* in Wiltshire; and
 <span id="img_36700"></span>
 
 [![](tn/36700.jpg)  
-Click to enlarge](img/36700.jpg)
+Click to enlarge](img/36700.jpg.md)
 
 The left half of this plate (facing p. 367) was torn off in the copy of
 the book I scanned. I would appreciate any help locating a complete
@@ -244,7 +244,7 @@ From *p* to *q* are only a few scattered stones. From *q* to *r* the
 parallelitha are preserved; from *r* to *s* broken.
 
 From Kerlescant to the end the Dracontium is perfect <span
-id="fr_512"></span>[1](#fn_511).
+id="fr_512"></span>[1](#fn_511.md).
 
 The labour of its erection may be imagined from the fact, that it
 originally consisted of *eleven rows of stones*, about *ten thousand* in
@@ -368,7 +368,7 @@ Moines was a dracontium sacred to the Ophite deity AB.
 <span id="img_37400"></span>
 
 [![](tn/37400.jpg)  
-Click to enlarge](img/37400.jpg)
+Click to enlarge](img/37400.jpg.md)
 
 <span id="page_375">p. 375</span>
 
@@ -411,7 +411,7 @@ itself encompassed by a mound and moat. The head of the serpent was
 formed of two concentric ovals, and rested on an eminence called Overton
 Hill. This part of the temple, as long as it stood, was traditionally
 named in the neighbourhood, *the sanctuary*. It was destroyed <span
-id="fr_513"></span>[1](#fn_512) in
+id="fr_513"></span>[1](#fn_512.md) in
 
 <span id="page_377">p. 377</span>
 
@@ -428,7 +428,7 @@ compound word, which, in the British language, bore that
 signification--*Hak*, a snake; and *Pen*, the head. This conjecture he
 illustrates by the pertinent remark, that to this day, in Yorkshire, the
 peasants call snakes, *hags* and *hagworms* <span
-id="fr_514"></span>[1](#fn_513)."
+id="fr_514"></span>[1](#fn_513.md)."
 
 The tail of the serpent terminated in a valley towards Beckhampton; and
 the whole figure was so contrived, as to have the appearance of a vast
@@ -492,7 +492,7 @@ single stone remains.
 
 Of the Beckhampton avenue, only two stones retain their original
 position; and these are in the middle of the avenue <span
-id="fr_515"></span>[1](#fn_514). I had not time to look for the *loci*
+id="fr_515"></span>[1](#fn_514.md). I had not time to look for the *loci*
 of the others; and I therefore refer the reader to the elaborate
 descriptions of Dr. Stukeley and Sir R. C. Hoare, with them lamenting,
 that in a country like this such barbarism should have been permitted as
@@ -534,7 +534,7 @@ with the circular sanctuaries, that is, of the temples of the Ophite and
 <span id="img_38200"></span>
 
 [![British Dracontia](tn/38200.jpg)  
-Click to enlarge](img/38200.jpg)  
+Click to enlarge](img/38200.jpg.md)  
 British Dracontia  
 
 <span id="page_383">p. 383</span>
@@ -544,7 +544,7 @@ expressive than AUBUR, or ABUR, "*the serpent of the sun?*" The present
 name of the village is Avebury, which the first describer of the temple
 (Mr. Aubrey, who lived in the seventeenth century) says, should have
 been written *Aubury*; and this reading he found in the legierbook of
-Malmesbury Abbey <span id="fr_516"></span>[1](#fn_515).
+Malmesbury Abbey <span id="fr_516"></span>[1](#fn_515.md).
 
  
 
@@ -769,7 +769,7 @@ course, although sinuosity as we have before observed, is not
 <span id="img_39200"></span>
 
 [![](tn/39200.jpg)  
-Click to enlarge](img/39200.jpg)
+Click to enlarge](img/39200.jpg.md)
 
 <span id="page_393">p. 393</span>
 
@@ -810,7 +810,7 @@ Many may deem these notions crude and extravagant; but I confess that
 the impression which they leave upon my mind is great; neither can I
 consent to efface it until other explanations, more satisfactory than
 any hitherto advanced, supply me with a better theory <span
-id="fr_517"></span>[1](#fn_516).
+id="fr_517"></span>[1](#fn_516.md).
 
  
 
@@ -846,12 +846,12 @@ thinks, was the TITYUS of Virgil, who covered nine acres of ground.
 <span id="page_396">p. 396</span>
 
 we may observe that Homer describes Apollo as building a temple <span
-id="fr_518"></span>[1](#fn_517) *on the spot where he had slain Python*.
+id="fr_518"></span>[1](#fn_517.md) *on the spot where he had slain Python*.
 The stones of which it was composed were "*broad and very long*." He was
 assisted by *Trophonius*, who laid "the threshold-stone;" and a
 multitude of labourers built the temple . Its figure was *circular* in
 this part; for such I take to be the meaning of the word Ἀμφὶ, in the
-line which describes the labour <span id="fr_519"></span>[2](#fn_518).
+line which describes the labour <span id="fr_519"></span>[2](#fn_518.md).
 For it can hardly mean that they built the temple "*round*" the
 "*threshold*." This, then, was the *sanctum*, and may have corresponded
 with *the great circle* of Abury.
@@ -861,9 +861,9 @@ makes a transition from the temple to the *serpent* who was slain there
 by Apollo, and at his command putrefied *upon the spot* by the sun. But
 in a few lines afterwards Apollo is described as meditating what sort of
 men he shall put as priests into his "STONY PYTHO <span
-id="fr_520"></span>[3](#fn_519)." By the same epithet he describes Pytho
+id="fr_520"></span>[3](#fn_519.md)." By the same epithet he describes Pytho
 in other parts of his works; and Pinder <span
-id="fr_521"></span>[4](#fn_520) makes use of the same designation. It is
+id="fr_521"></span>[4](#fn_520.md) makes use of the same designation. It is
 true
 
 <span id="page_397">p. 397</span>
@@ -902,7 +902,7 @@ passage,
 
 "Æoliam Pitanem lævâ de parte reliquit,  
 FACTAQUE DE SAXO LONGI SIMULACHRA DRACONIS <span
-id="fr_522"></span>[1](#fn_521)."
+id="fr_522"></span>[1](#fn_521.md)."
 
 When we consider that the word *Pitane* may be immediately derived from
 פתן, serpens, we have a presumptive evidence that the serpent was
@@ -923,13 +923,13 @@ distances.
 
 Cadmus and Harmonia were changed into serpents at Enchelia, in Illyria,
 where "*stones* and a *temple*" were erected to their memory. Scylax
-Caryandensis, cited by Bryant <span id="fr_523"></span>[1](#fn_522),
+Caryandensis, cited by Bryant <span id="fr_523"></span>[1](#fn_522.md),
 says,
 
 Κάδμου καὶ Ἁρμονίας οἱ λίθοι εἰσὶν ἐνταῦθα, καὶ ἱερόν
 
 The situation of this temple is "half a day's sail from the river
-Arion <span id="fr_524"></span>[2](#fn_523)." No such river occurs in
+Arion <span id="fr_524"></span>[2](#fn_523.md)." No such river occurs in
 the maps of the country; and Vossius corrects it into "Drylo:" but
 Scylax, who notices so few things, and only the most remarkable, in his
 brief memoranda, could hardly have been mistaken in so important a
@@ -943,7 +943,7 @@ people to believe
 <span id="page_400">p. 400</span>
 
 that there were in these temples *serpents petrified* <span
-id="fr_525"></span>[1](#fn_524). It is possible that in later times the
+id="fr_525"></span>[1](#fn_524.md). It is possible that in later times the
 deity may have been worshipped under this form; whence it might be truly
 said of Cadmus and Harmonia, that they would one day be exhibited in
 stone." Bryant here refers to Nonnus *Dionusiac*. l. xliv. p. 1144, who
@@ -982,7 +982,7 @@ edifices, and at the same time held sacred. They were termed *Tarchon*,
 like Tarchonium in Hetruria, which, by a corruption, was in latter times
 rendered *Trachon* . . . . . . . The term *Trachon* seems to have been
 still further sophisticated by the Greeks, and expressed Δράκων <span
-id="fr_526"></span>[1](#fn_525)." . . . . . . . . "When the Greeks
+id="fr_526"></span>[1](#fn_525.md)." . . . . . . . . "When the Greeks
 understood that in these temples the people worshipped a serpent deity,
 they concluded that
 
@@ -990,16 +990,16 @@ they concluded that
 
 \[paragraph continues\] *Trachon* was *a serpent*; and hence came the
 name of DRACO to be appropriated to such an animal <span
-id="fr_527"></span>[1](#fn_526)."
+id="fr_527"></span>[1](#fn_526.md)."
 
 How much more simple and probable is the inference of Dr. Stukeley, who
 reasons from a *fact?* Verbal coincidences can never be put in
 competition with historical facts; but in the case before us, these
 coincidences are strained, and the fact of the existence of a serpentine
 temple at Abury placed beyond all doubt <span
-id="fr_528"></span>[2](#fn_527). This error of Bryant leads him into
+id="fr_528"></span>[2](#fn_527.md). This error of Bryant leads him into
 another, when he talks about the "*windows* <span
-id="fr_529"></span>[3](#fn_528)" of a dracontium. We should be startled
+id="fr_529"></span>[3](#fn_528.md)" of a dracontium. We should be startled
 at a theory founded upon the *windows* of Abury, or Stonehenge.
 
 That the conjecture of Bryant, in deriving the legends of the
@@ -1012,7 +1012,7 @@ that of Stukeley. In the road between
 
 \[paragraph continues\] Thebes and Glisas, you may see a place
 *encircled by select stones*, which the Thebans call THE SERPENT'S
-HEAD <span id="fr_530"></span>[1](#fn_529)."
+HEAD <span id="fr_530"></span>[1](#fn_529.md)."
 
 Dr. Stukeley also cites this remarkable passage, to illustrate his
 observations upon the. HEAD of the Abury serpent, which rested upon a
@@ -1020,7 +1020,7 @@ promontory, called, in like manner, SNAKES-HEAD. (*Hakpen*.) This was
 also "*a place encircled by select stones*." And to complete the
 resemblance, there is near this Theban temple, a lofty hill
 corresponding to *Silbury*, upon which a temple was erected to
-Jupiter <span id="fr_531"></span>[2](#fn_530).
+Jupiter <span id="fr_531"></span>[2](#fn_530.md).
 
 But, though the premises of Bryant were conjectural, his conclusions
 were for the most part correct, and his illustrations ingenious. I
@@ -1029,7 +1029,7 @@ proceed to subjoin some of them as equally applicable to our theory.
 "Iphicrates related that in Mauritania there were dragons of such extent
 that grass grew upon their backs. What can be meant under this
 representation but a dracontium, within whose precincts they encouraged
-verdure <span id="fr_532"></span>[3](#fn_531)?"
+verdure <span id="fr_532"></span>[3](#fn_531.md)?"
 
 Again: "It is said (by Maximus Tyrius, Dissert. 8, c. vi. p. 85,) that
 Taxiles, a mighty prince of India, carried Alexander the Great to
@@ -1060,10 +1060,10 @@ Indian
 dragon above mentioned seems to have been of the same nature. It was,
 probably, a temple and its environs, where a society of priests resided,
 who were maintained by the public, and who worshipped the deity under
-the semblance of a serpent <span id="fr_533"></span>[1](#fn_532)."
+the semblance of a serpent <span id="fr_533"></span>[1](#fn_532.md)."
 
 Besides these Ophite temples, Bryant discovered a legend of two others
-in the neighbourhood of Damascus <span id="fr_534"></span>[2](#fn_533).
+in the neighbourhood of Damascus <span id="fr_534"></span>[2](#fn_533.md).
 These *dragons*, according to Nonnus, were overcome by the hero
 Damascenus, an earthborn giant. "One of the monsters with which he
 fought is described of an enormous size--a serpent, *in extent of fifty
@@ -1082,7 +1082,7 @@ river *Ophis*. This
 
 river was so named from a body of people, who settled upon its banks,
 and were said to be con-ducted by a serpent <span
-id="fr_535"></span>[1](#fn_534).
+id="fr_535"></span>[1](#fn_534.md).
 
 An attentive perusal of Diodorus Siculus, lib. iv. s. 47, will perhaps
 incline the reader to acquiesce in the conclusion of Bryant respecting
@@ -1098,7 +1098,7 @@ compelled them to the yoke, and ploughed up the ground; in which, like
 Cadmus, *he sowed serpents' teeth*. These teeth, becoming animated in
 the form of armed men, fought together and destroyed one another. He
 then lulled the dragon, and bore away the fleece <span
-id="fr_536"></span>[2](#fn_535).
+id="fr_536"></span>[2](#fn_535.md).
 
 The explanation of Diodorus is simple, and
 
@@ -1111,7 +1111,7 @@ the Chaldee טור, a tower, mistaken by Greeks, who were ignorant of the
 language of the country, for תור, *a bull*. Hence the whole error. The
 "bulls" were *towers*--perhaps fortified lighthouses; and the light
 which burned in them gave occasion to the fable of "*fire breathing
-bulls* <span id="fr_537"></span>[1](#fn_536)."
+bulls* <span id="fr_537"></span>[1](#fn_536.md)."
 
 Having resolved the "bulls" into "towers," we may reasonably conjecture
 that the "dragon" was *stone*. The temple will thus become a dracontium.
@@ -1163,7 +1163,7 @@ midst of a dance.
 
 Another Druids' temple, in Cumberland, is called "*Long Meg and her
 daughters*" from a similar tradition <span
-id="fr_538"></span>[1](#fn_537).
+id="fr_538"></span>[1](#fn_537.md).
 
 if these coincidences prove nothing else, they prove that "*the stones
 of Amphion*," and "*Orpheus*," were circular temples of the druidical
@@ -1172,7 +1172,7 @@ structure. The stones of *Amphion* were probably a temple of the sun;
 
 <span id="page_410">p. 410</span>
 
-nothing more than AM-PHI-ON <span id="fr_539"></span>[1](#fn_538), "*the
+nothing more than AM-PHI-ON <span id="fr_539"></span>[1](#fn_538.md), "*the
 oracle of Ham the sun:*" and ORPHEUS itself may be resolved into a
 similar meaning--OR-PHI, "*solis oraculum*."
 
@@ -1180,7 +1180,7 @@ The frequent mention of the serpent-deity Ops, in connexion with STONES,
 is a remarkable feature in remote mythology. It was OPS who deceived
 Saturn with the stone *Abadir*; and "the heathen philosophers explained
 OPS as the divine power pervading mountains and *stony places* <span
-id="fr_540"></span>[2](#fn_539)." Might not this connexion have arisen
+id="fr_540"></span>[2](#fn_539.md)." Might not this connexion have arisen
 from the peculiar construction of the Ophite temples?
 
 These circumstances may appear trivial; but trifles not unfrequently
@@ -1195,40 +1195,40 @@ mythology, which shall act as a conductor to scriptural truth.
 
 ### Footnotes
 
-<span id="fn_503"></span>[359:1](wos09.htm#fr_504) Ἀπόλλων may be
+<span id="fn_503"></span>[359:1](wos09.htm#fr_504.md) Ἀπόλλων may be
 decomposed into AP, or AB, *serpent*; EL, *deus*; and ON, *sol*: so that
 *serpens-deus-sol* is the name of the deity, whose other title, PHŒBUS,
 (*Phi-oub*) denotes the *oracular* serpent.
 
-<span id="fn_504"></span>[361:1](wos09.htm#fr_505) See Bochart. Geog.
+<span id="fn_504"></span>[361:1](wos09.htm#fr_505.md) See Bochart. Geog.
 Sacr. 1. i. p. 38; also Maurice, Ind. Antiq. ii. 347. Sanchoniathon in
 his Cosmogony has the following passage: "Moreover they say that the god
 Ouranus invented the Baitulia, having made stones which were
 *animated*." It is possible that the *rocking stones* of the Druids may
 have been erected to perpetuate the same superstition.
 
-<span id="fn_505"></span>[361:2](wos09.htm#fr_506) Bryant, Anal. i. 60,
+<span id="fn_505"></span>[361:2](wos09.htm#fr_506.md) Bryant, Anal. i. 60,
 and ii. 201.
 
-<span id="fn_506"></span>[362:1](wos09.htm#fr_507) Sale's Prelim. Disc.
+<span id="fn_506"></span>[362:1](wos09.htm#fr_507.md) Sale's Prelim. Disc.
 to the Koran, p. 156.
 
-<span id="fn_507"></span>[362:2](wos09.htm#fr_508) See Ch. iii. s. 2,
+<span id="fn_507"></span>[362:2](wos09.htm#fr_508.md) See Ch. iii. s. 2,
 "Ophiolatreia in Samothrace."
 
-<span id="fn_508"></span>[362:3](wos09.htm#fr_509) Pyramids were
+<span id="fn_508"></span>[362:3](wos09.htm#fr_509.md) Pyramids were
 however, frequently used as sepulchres. The Mexican temples which were
 pyramidal, united both the templar and sepulchral character.
 
-<span id="fn_509"></span>[363:1](wos09.htm#fr_510) Jablonski Panth.
+<span id="fn_509"></span>[363:1](wos09.htm#fr_510.md) Jablonski Panth.
 Ægyp. Prolegom. 82.
 
-<span id="fn_510"></span>[366:1](wos09.htm#fr_511) See plate 1.
+<span id="fn_510"></span>[366:1](wos09.htm#fr_511.md) See plate 1.
 
-<span id="fn_511"></span>[369:1](wos09.htm#fr_512) For a more detailed
+<span id="fn_511"></span>[369:1](wos09.htm#fr_512.md) For a more detailed
 description, see Archæol. vol. xxv.
 
-<span id="fn_512"></span>[376:1](wos09.htm#fr_513) The following extract
+<span id="fn_512"></span>[376:1](wos09.htm#fr_513.md) The following extract
 from Pepys's Diary, proves that the <span id="page_377">p. 377</span>
 *sanctuary* was perfect in 1688. "In the afternoon came to Abury, where
 *seeing great stones* like those of Stonehenge standing up, I stopped,
@@ -1253,75 +1253,75 @@ stones pitched round--like that of Stonehenge*," which the traveller saw
 reached "the stones in the valley," was the *sanctuary* upon Overton
 hill.
 
-<span id="fn_513"></span>[378:1](wos09.htm#fr_514) Stukeley, Abury, 32.
+<span id="fn_513"></span>[378:1](wos09.htm#fr_514.md) Stukeley, Abury, 32.
 
-<span id="fn_514"></span>[381:1](wos09.htm#fr_515) Sir. R. C. Hoare,
+<span id="fn_514"></span>[381:1](wos09.htm#fr_515.md) Sir. R. C. Hoare,
 Ancient North Wilts, p. 78.
 
-<span id="fn_515"></span>[383:1](wos09.htm#fr_516) See Mr. Aubrey's
+<span id="fn_515"></span>[383:1](wos09.htm#fr_516.md) See Mr. Aubrey's
 interesting account in Sir R. C. Hoare's "Ancient Wiltshire."
 
-<span id="fn_516"></span>[394:1](wos09.htm#fr_517) This theory was first
+<span id="fn_516"></span>[394:1](wos09.htm#fr_517.md) This theory was first
 suggested to me by my friend P. C. Delagarde, Esq. of Exeter: to whose
 kindness and ingenuity I am indebted for many improvements in this
 edition.
 
-<span id="fn_517"></span>[396:1](wos09.htm#fr_518) Hymn to Apollo, 294.
+<span id="fn_517"></span>[396:1](wos09.htm#fr_518.md) Hymn to Apollo, 294.
 
-<span id="fn_518"></span>[396:2](wos09.htm#fr_519) Ἀμφὶ δὲ νηὸν ἔνασσαν.
+<span id="fn_518"></span>[396:2](wos09.htm#fr_519.md) Ἀμφὶ δὲ νηὸν ἔνασσαν.
 
-<span id="fn_519"></span>[396:3](wos09.htm#fr_520) Πυθοῖ ἐνὶ πετρηέσσῃ.
+<span id="fn_519"></span>[396:3](wos09.htm#fr_520.md) Πυθοῖ ἐνὶ πετρηέσσῃ.
 l. 390.
 
-<span id="fn_520"></span>[396:4](wos09.htm#fr_521) Olymp. Ode 6.
+<span id="fn_520"></span>[396:4](wos09.htm#fr_521.md) Olymp. Ode 6.
 
-<span id="fn_521"></span>[398:1](wos09.htm#fr_522) Ovid. Met. vii. 357.
+<span id="fn_521"></span>[398:1](wos09.htm#fr_522.md) Ovid. Met. vii. 357.
 
-<span id="fn_522"></span>[399:1](wos09.htm#fr_523) Anal. ii. 471.
+<span id="fn_522"></span>[399:1](wos09.htm#fr_523.md) Anal. ii. 471.
 
-<span id="fn_523"></span>[399:2](wos09.htm#fr_524) Scylax, Periplus. p.
+<span id="fn_523"></span>[399:2](wos09.htm#fr_524.md) Scylax, Periplus. p.
 9. cum notis Vossii.
 
-<span id="fn_524"></span>[400:1](wos09.htm#fr_525) This notion was
+<span id="fn_524"></span>[400:1](wos09.htm#fr_525.md) This notion was
 derived from the *serpentine figures* of the temples themselves.
 
-<span id="fn_525"></span>[401:1](wos09.htm#fr_526) Anal. ii. 132.
+<span id="fn_525"></span>[401:1](wos09.htm#fr_526.md) Anal. ii. 132.
 
-<span id="fn_526"></span>[402:1](wos09.htm#fr_527) Anal. ii. 141.
+<span id="fn_526"></span>[402:1](wos09.htm#fr_527.md) Anal. ii. 141.
 
-<span id="fn_527"></span>[402:2](wos09.htm#fr_528) The real meaning of
+<span id="fn_527"></span>[402:2](wos09.htm#fr_528.md) The real meaning of
 the word *dracontium* is, probably, "*an avenue of the sun*," as I have
 before stated.
 
-<span id="fn_528"></span>[402:3](wos09.htm#fr_529) Anal. ii. 148.
+<span id="fn_528"></span>[402:3](wos09.htm#fr_529.md) Anal. ii. 148.
 
-<span id="fn_529"></span>[403:1](wos09.htm#fr_530) Paus. 570.
+<span id="fn_529"></span>[403:1](wos09.htm#fr_530.md) Paus. 570.
 
-<span id="fn_530"></span>[403:2](wos09.htm#fr_531) 570.
+<span id="fn_530"></span>[403:2](wos09.htm#fr_531.md) 570.
 
-<span id="fn_531"></span>[403:3](wos09.htm#fr_532) Anal. ii. 135.
+<span id="fn_531"></span>[403:3](wos09.htm#fr_532.md) Anal. ii. 135.
 
-<span id="fn_532"></span>[405:1](wos09.htm#fr_533) Bryant. Anal. ii.
+<span id="fn_532"></span>[405:1](wos09.htm#fr_533.md) Bryant. Anal. ii.
 105, &c.
 
-<span id="fn_533"></span>[405:2](wos09.htm#fr_534) Ibid. 142.
+<span id="fn_533"></span>[405:2](wos09.htm#fr_534.md) Ibid. 142.
 
-<span id="fn_534"></span>[406:1](wos09.htm#fr_535) Bryant, Anal. ii,
+<span id="fn_534"></span>[406:1](wos09.htm#fr_535.md) Bryant, Anal. ii,
 208.
 
-<span id="fn_535"></span>[406:2](wos09.htm#fr_536) Ovid Met. 7.
+<span id="fn_535"></span>[406:2](wos09.htm#fr_536.md) Ovid Met. 7.
 
-<span id="fn_536"></span>[407:1](wos09.htm#fr_537) Bryant, Anal. ii.
+<span id="fn_536"></span>[407:1](wos09.htm#fr_537.md) Bryant, Anal. ii.
 106.
 
-<span id="fn_537"></span>[409:1](wos09.htm#fr_538) Stukeley, Abury, 83.
+<span id="fn_537"></span>[409:1](wos09.htm#fr_538.md) Stukeley, Abury, 83.
 
-<span id="fn_538"></span>[410:1](wos09.htm#fr_539) See Bryant on the
+<span id="fn_538"></span>[410:1](wos09.htm#fr_539.md) See Bryant on the
 word "*Amphi*." Anal. i. 316.
 
-<span id="fn_539"></span>[410:2](wos09.htm#fr_540) Euseb. Præp. Evang.
+<span id="fn_539"></span>[410:2](wos09.htm#fr_540.md) Euseb. Præp. Evang.
 109.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Decline of Serpent Worship](wos10)
+[Next: Chapter VII. The Decline of Serpent Worship](wos10.md)

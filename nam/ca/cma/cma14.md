@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [California](../index)  [Index](index) 
-[Previous](cma13)  [Next](cma15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [California](../index)  [Index](index.md) 
+[Previous](cma13)  [Next](cma15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Creation Myths of Primitive America*, by Jeremiah Curtin, \[1898\], at
 Intangible Textual Heritage
 
@@ -392,4 +392,4 @@ He was taken into it. and now he stays there.
 
 ------------------------------------------------------------------------
 
-[Next: Hitchinna](cma15)
+[Next: Hitchinna](cma15.md)

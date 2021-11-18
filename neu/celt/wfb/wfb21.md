@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb20)  [Next](wfb22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb20)  [Next](wfb22.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ have fallen headlong had he moved but a foot or two further.
 
 ------------------------------------------------------------------------
 
-[Next: The Stray Cow](wfb22)
+[Next: The Stray Cow](wfb22.md)

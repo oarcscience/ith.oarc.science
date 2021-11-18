@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat09.htm#LI)  [Previous](satl050) 
-[Next](satl052) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat09.htm#LI)  [Previous](satl050.md) 
+[Next](satl052.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ si scitum esset, aurum pro luto haberemus.
 
 ------------------------------------------------------------------------
 
-[Next: LII](satl052)
+[Next: LII](satl052.md)

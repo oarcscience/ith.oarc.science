@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst000)  [Next](inst002) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst000)  [Next](inst002.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ appointed in the Queries maiesties injunctions.
 
 ------------------------------------------------------------------------
 
-[Next: PREFACE TO THE ELECTRONIC EDITION.](inst002)
+[Next: PREFACE TO THE ELECTRONIC EDITION.](inst002.md)

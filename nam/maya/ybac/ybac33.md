@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac32)  [Next](ybac34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac32)  [Next](ybac34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ id="img_05002"></span>
 
 For defense they had shields made of split and woven reeds, and covered
 with deer hide. They wore protective jackets of cotton, quilted in
-double thicknesses, <span id="fr_29"></span>[\*](#fn_29) which were very
+double thicknesses, <span id="fr_29"></span>[\*](#fn_29.md) which were very
 strong. Some of the chiefs and captains wore helmets of wood, but these
 were not common. With these arms they went to war, adorned with
 feathers, and with skins of tigers and lions, when they possessed them.
@@ -71,7 +71,7 @@ id="img_05004"></span>
 | ![](img/05004.jpg) |
 
 falls on the 12th of May; and during a war he commanded the second corps
-of the army. <span id="fr_30"></span>[†](#fn_30)
+of the army. <span id="fr_30"></span>[†](#fn_30.md)
 
 This captain was called nacon; during these three years he was forbidden
 to hold converse with women, even with his wife, or to eat met. They
@@ -120,12 +120,12 @@ killing some captain or chief he was greatly honored and feted.
 
 ### Footnotes
 
-<span id="fn_29"></span>[50:\*](ybac33.htm#fr_29) Landa here again makes
+<span id="fn_29"></span>[50:\*](ybac33.htm#fr_29.md) Landa here again makes
 the curious mistake before noted, of stating that they wore strong
 quilted coats of cotton and *salt*, in two layers. (See page
-[16](ybac12.htm#page_16).)
+[16](ybac12.htm#page_16)..md)
 
-<span id="fn_30"></span>[50:†](ybac33.htm#fr_30) The illustration of a
+<span id="fn_30"></span>[50:†](ybac33.htm#fr_30.md) The illustration of a
 copper axe on the preceding page is from the Landa manuscript itself.
 The axes in the margin above are from Aztec and shown to have been of
 copper both by the <span id="page_51">p. 51</span> distinctive color,
@@ -138,4 +138,4 @@ war-god putting fire and sword to a building.
 
 [Next: XXX. Penalties and Punishments for Adulterers, Homicides and
 Thieves. Education of the Young Men. Custom of Flattening the Heads of
-Children](ybac34)
+Children](ybac34.md)

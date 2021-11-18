@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Next](pray001) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Next](pray001.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ assurance of faith, sec. 50–52.
 
 ------------------------------------------------------------------------
 
-[Next: Outline](pray001)
+[Next: Outline](pray001.md)

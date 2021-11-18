@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml16)  [Next](yml18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml16)  [Next](yml18.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ Sawali Wiikit, the walking stone. It ends here.
 
 ------------------------------------------------------------------------
 
-[Next: Sun and Moon](yml18)
+[Next: Sun and Moon](yml18.md)

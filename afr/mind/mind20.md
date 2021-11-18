@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mind19)  [Next](mind21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mind19)  [Next](mind21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *At the Back of the Black Man's Mind*, by Richard Edward Dennett,
 \[1906\], at Intangible Textual Heritage
 
@@ -425,6 +425,6 @@ sufficient wealth to succeed to his father's honours.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 21. Traces of Nkici-ism Among the Bini](mind21)
+[Next: Chapter 21. Traces of Nkici-ism Among the Bini](mind21.md)
 
 </div>

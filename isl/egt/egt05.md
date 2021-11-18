@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt04)  [Next](egt06) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt04)  [Next](egt06.md) 
 
 ------------------------------------------------------------------------
 
@@ -187,4 +187,4 @@ sallamahu Allâhu ta\`âla*."
 
 ------------------------------------------------------------------------
 
-[Next: III.--History of the Text.](egt06)
+[Next: III.--History of the Text.](egt06.md)

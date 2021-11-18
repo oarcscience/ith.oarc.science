@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba11)  [Next](mba13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba11)  [Next](mba13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -96,7 +96,7 @@ The capital of the Elamites was the city of Susa, where excavations have
 revealed traces of an independent civilization which reaches back to an
 early period in the Late Stone Age. Susa is referred to in the Old
 Testament--"The words of Nehemiah . . . I was in Shushan the
-palace". <span id="fr_144"></span>[1](#fn_143) An Assyrian plan of the
+palace". <span id="fr_144"></span>[1](#fn_143.md) An Assyrian plan of the
 city shows it occupying a strategic position at a bend of the Shawur
 river, which afforded protection against Sumerian attacks from the west,
 while a canal curved round its northern and eastern sides, so that Susa
@@ -108,7 +108,7 @@ and Mordecai, is made evident by the Biblical references to the gorgeous
 palace, which had "white, green, and blue hangings, fastened with cords
 of fine linen and purple to silver rings and pillars of marble; the beds
 were of gold and silver, upon a pavement of red, and blue, and white,
-and black marble". <span id="fr_145"></span>[2](#fn_144) Beyond Elam
+and black marble". <span id="fr_145"></span>[2](#fn_144.md) Beyond Elam
 were the plains, plateaus, and grassy steppes occupied by the Medes and
 other
 
@@ -190,7 +190,7 @@ shall the shepherds make their fold there. But wild beasts of the desert
 shall lie there; and their houses shall be full of doleful creatures;
 and owls shall dwell there, and satyrs shall dance there. And the wild
 beasts of the islands shall cry in their desolate houses and dragons in
-their pleasant palaces." <span id="fr_146"></span>[1](#fn_145)
+their pleasant palaces." <span id="fr_146"></span>[1](#fn_145.md)
 
 The curtain rises, as has been indicated, after civilization had been
 well advanced. To begin with, our interests abide with Akkad, and during
@@ -281,12 +281,12 @@ Eridu and
 <span id="img_11600"></span> <span align="CENTER"> [![PLAQUE OF
 UR-NINA&lt;br&gt; &lt;i&gt;In Limestone. From the original in the
 Louvre, Paris&lt;/i&gt;.](tn/11600.jpg)  
-Click to enlarge](img/11600.jpg)  
+Click to enlarge](img/11600.jpg.md)  
 PLAQUE OF UR-NINA  
 *In Limestone. From the original in the Louvre, Paris*.  
 </span>
 
-(*See pages [117](#page_117), [118](#page_118)*)
+(*See pages [117](#page_117), [118](#page_118)*.md)
 
  
 
@@ -424,12 +424,12 @@ a reference to
 
 <span id="img_12000"></span> <span align="CENTER"> [![SILVER VASE
 DEDICATED TO THE GOD NIN-GIRSU BY ENTEMENA](tn/12000.jpg)  
-Click to enlarge](img/12000.jpg)  
+Click to enlarge](img/12000.jpg.md)  
 SILVER VASE DEDICATED TO THE GOD NIN-GIRSU BY ENTEMENA  
 </span>
 
 The finest example extant of Sumerian metal work. (See page
-[120](#page_120))
+[120](#page_120).md)
 
 *Reproduced by permission from "Découvertes en Chaldée" (E. Leroux,
 Paris)*
@@ -623,7 +623,7 @@ reached the Ganges, and it was borne by that river to the country of
 Anga, where the child was rescued by a woman and afterwards reared by
 her and her husband, a charioteer. In time Karna became a great warrior,
 and was crowned King of Anga by the Kaurava warriors. <span
-id="fr_147"></span>[1](#fn_146)
+id="fr_147"></span>[1](#fn_146.md)
 
 Before he became king, Sargon of Akkad, the Sharrukin of the texts, was,
 according to tradition, a gardener and watchman attached to the temple
@@ -669,7 +669,7 @@ Elamites and discovered at Susa, show that at this early period (about
 <span id="page_128">p. 128</span>
 
 conquering monarch considered it advisable to observe existing land
-laws. Urumush, <span id="fr_148"></span>[1](#fn_147) the next ruler,
+laws. Urumush, <span id="fr_148"></span>[1](#fn_147.md) the next ruler,
 also achieved successes in Elam and elsewhere, but his life was cut
 short by a palace revolution.
 
@@ -702,7 +702,7 @@ two most prominent were the Gutium, or men of Kutu, and the Lulubu.
 
 <span id="img_12800"></span> <span align="CENTER"> [![STELE OF NARAM
 SIN&lt;br&gt; (&lt;i&gt;Louvre, Paris&lt;/i&gt;)](tn/12800.jpg)  
-Click to enlarge](img/12800.jpg)  
+Click to enlarge](img/12800.jpg.md)  
 STELE OF NARAM SIN  
 (*Louvre, Paris*)  
 </span>
@@ -777,7 +777,7 @@ reign, Dungi, the conqueror, was installed as high priest at Eridu. It
 <span id="img_13000"></span> <span align="CENTER"> [![STATUE OF
 GUDEA&lt;br&gt; (&lt;i&gt;Louvre, Paris&lt;/i&gt;)&lt;br&gt; Photo.
 Mansell](tn/13000.jpg)  
-Click to enlarge](img/13000.jpg)  
+Click to enlarge](img/13000.jpg.md)  
 STATUE OF GUDEA  
 (*Louvre, Paris*)  
 Photo. Mansell  
@@ -812,7 +812,7 @@ Abraham sojourned in Egypt during its Twelfth Dynasty, which, according
 to the Berlin system of minimum dating, extended from about 2000 B.C.
 till 1780 B.C. The Hebrew patriarch may therefore have been a
 contemporary of Hammurabi's, who is identified with Amraphel, king of
-Shinar (Sumer) in the Bible. <span id="fr_149"></span>[1](#fn_148)
+Shinar (Sumer) in the Bible. <span id="fr_149"></span>[1](#fn_148.md)
 
 But after the decline of Ur's ascendancy, and long before Babylon's
 great monarch came to the throne, the centre of power in Sumeria was
@@ -882,7 +882,7 @@ Hammurabi. Rim Sin was an Elamite.
 Afterwards the old order of things passed away. Babylon became the
 metropolis, the names of Sumer and Akkad dropped out of use, and the
 whole country between the rivers was called Babylonia. <span
-id="fr_150"></span>[1](#fn_149) The various systems of
+id="fr_150"></span>[1](#fn_149.md) The various systems of
 
 <span id="page_134">p. 134</span>
 
@@ -892,8 +892,8 @@ his sway to displace the patesis and kings. A new national pantheon of
 representative character was also formed, over which Merodach (Marduk),
 the city god of Babylon, presided. How this younger deity was supposed
 to rise to power is related in the Babylonian legend of Creation, which
-is dealt with in the [next chapter](mba13.htm#an_ch-07). <span
-id="fr_151"></span>[1](#fn_150) In framing this myth from the fragments
+is dealt with in the [next chapter](mba13.htm#an_ch-07.md). <span
+id="fr_151"></span>[1](#fn_150.md) In framing this myth from the fragments
 of older myths, divine sanction was given to the supremacy achieved by
 Merodach's city. The allegiance of future generations was thus secured,
 not only by the strong arm of the law, but also by the combined
@@ -909,7 +909,7 @@ were sometimes square and sometimes pointed.
 
 At what period the Sumerian deities were given human shape it is
 impossible to determine. As has been shown ([Chapters
-II](mba08.htm#an_ch-02) and [III](mba09.htm#an_ch-03)) all the chief
+II](mba08.htm#an_ch-02) and [III](mba09.htm#an_ch-03).md) all the chief
 gods and goddesses had animal forms and composite monster forms before
 they became anthropomorphic deities. Ea had evidently a fish shape ere
 he was clad in the skin of a fish, as an Egyptian god was simply a bull
@@ -998,27 +998,27 @@ Ancient Egypt.
 
 ### Footnotes
 
-<span id="fn_143"></span>[111:1](mba12.htm#fr_144) *Nehemiah*, i, 1
+<span id="fn_143"></span>[111:1](mba12.htm#fr_144.md) *Nehemiah*, i, 1
 
-<span id="fn_144"></span>[111:2](mba12.htm#fr_145) *Esther*, i, 6.
+<span id="fn_144"></span>[111:2](mba12.htm#fr_145.md) *Esther*, i, 6.
 
-<span id="fn_145"></span>[114:1](mba12.htm#fr_146) *Isaiah*, iii, 19-22.
+<span id="fn_145"></span>[114:1](mba12.htm#fr_146.md) *Isaiah*, iii, 19-22.
 
-<span id="fn_146"></span>[126:1](mba12.htm#fr_147) *Indian Myth and
+<span id="fn_146"></span>[126:1](mba12.htm#fr_147.md) *Indian Myth and
 Legend*, pp. 173-175 and 192-194.
 
-<span id="fn_147"></span>[128:1](mba12.htm#fr_148) Or Rimush.
+<span id="fn_147"></span>[128:1](mba12.htm#fr_148.md) Or Rimush.
 
-<span id="fn_148"></span>[131:1](mba12.htm#fr_149) *Genesis*, xiv.
+<span id="fn_148"></span>[131:1](mba12.htm#fr_149.md) *Genesis*, xiv.
 
-<span id="fn_149"></span>[133:1](mba12.htm#fr_150) That is, the
+<span id="fn_149"></span>[133:1](mba12.htm#fr_150.md) That is, the
 equivalent of Babylonia. During the Kassite period the name was
 Karduniash.
 
-<span id="fn_150"></span>[134:1](mba12.htm#fr_151) The narrative follows
+<span id="fn_150"></span>[134:1](mba12.htm#fr_151.md) The narrative follows
 *The Seven Tablets of Creation* and other fragments, while the account
 given by Berosus is also drawn upon.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Creation Legend: Merodach the Dragon Slayer](mba13)
+[Next: Chapter VII. Creation Legend: Merodach the Dragon Slayer](mba13.md)

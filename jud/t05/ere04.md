@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](ere03)  [Next](ere05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](ere03)  [Next](ere05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -27,7 +27,7 @@ friend of theirs, a philosopher--R. Jehoshua asked Rabban Gamaliel if he
 would like to go and see their friend the philosopher, and he answered
 he would not. On the next morning, however, he asked him again, and he
 said he would. They then went, and R. Jehoshua knocked at the door of
-the philosopher, and at once the [philosopher](errata.htm#13) concluded
+the philosopher, and at once the [philosopher](errata.htm#13.md) concluded
 that this must be the manner of a wise man. When he knocked again, the
 philosopher arose and washed his face, hands, and feet. When he knocked
 the third time, the philosopher opened the door, and saw that the sages
@@ -62,4 +62,4 @@ he would R. Gamaliel.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI.](ere05)
+[Next: Chapter VI.](ere05.md)

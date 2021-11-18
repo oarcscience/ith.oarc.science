@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes06)  [Next](mes08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes06)  [Next](mes08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -447,4 +447,4 @@ buried by the side of Jelāl's father, Sultan Bahā Veled the Elder.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](mes08)
+[Next: Chapter V](mes08.md)

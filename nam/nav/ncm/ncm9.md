@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](ncm8)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](ncm8.md)
 
 ------------------------------------------------------------------------
 
@@ -1578,9 +1578,9 @@ Thin-Icy-Sheet. Name for January.
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index.md)
 
  
 

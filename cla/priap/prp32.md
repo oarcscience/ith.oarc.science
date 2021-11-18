@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp31)  [Next](prp33) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp31)  [Next](prp33.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ of a lantern for hardness and dryness in coition.\]
 ------------------------------------------------------------------------
 
 [Next: 33. Wont the Priapi of old were to have both Naiads and
-Dryads](prp33)
+Dryads](prp33.md)

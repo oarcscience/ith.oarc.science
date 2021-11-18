@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj55) 
-[Next](npj57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj55.md) 
+[Next](npj57.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Shōgunate must perish with it, and fled to Shizuoka where the fallen
 Shōgun was living in retreat.
 
 Minoru alone remained behind, built himself a theatre <span
-id="fr_219"></span>[1](#fn_217) (1869-70) and "manned his lonely
+id="fr_219"></span>[1](#fn_217) (1869-70.md) and "manned his lonely
 rampart." When confidence was re-established the other "troupes" soon
 returned, so that henceforward five theatres existed, the four of
 earlier days and that of Umewaka as a fifth. Minoru was succeeded by his
@@ -315,9 +315,9 @@ which the slow first part was a preparation.
 
 ### Footnotes
 
-<span id="fn_217"></span>[262:1](npj56.htm#fr_219) Or, according to
+<span id="fn_217"></span>[262:1](npj56.htm#fr_219.md) Or, according to
 Fenollosa, bought a stage belonging to an ex-daimyō.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix II](npj57)
+[Next: Appendix II](npj57.md)

@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat12)  [Next](sat14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat12)  [Next](sat14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -42,11 +42,11 @@ therefore God has appointed six days for man to work, and the seventh
 day is the perfection wherein the six do rest; it is the centre to which
 the desire of the six days tend; therefore God calls it the Sabbath or
 resting-day, for therein the six forms of the working power rest: It is
-the divine sound <span id="fr_161"></span>[1](#fn_161) in the power, or
+the divine sound <span id="fr_161"></span>[1](#fn_161.md) in the power, or
 the kingdom of joy, wherein all the other forms are manifest; for it is
 the formed world, or divine corporality, by which all things are
 generated and come forth to a being. <span
-id="fr_162"></span>[2](#fn_162)
+id="fr_162"></span>[2](#fn_162.md)
 
 3\. This formed world has manifested itself with the motion of all forms
 with this visible world, as with a visible likeness, so that the
@@ -79,7 +79,7 @@ thee whole," and they arose: And thus likewise it is here, each form
 hungers after the centre, and the centre is the voice of life, viz. the
 Mercury, the same is the faber or former of the power; if this voice
 gives itself into the hunger of the meanest form in the strong
-combat <span id="fr_163"></span>[1](#fn_163) then it lifts up its
+combat <span id="fr_163"></span>[1](#fn_163.md) then it lifts up its
 property (understand the property of that form), and thus its desire or
 faith has saved it; for in the desire Mercury lifts up \[or sublimes\]
 itself; and thus it was in Christ's patients.
@@ -98,7 +98,7 @@ which thou hast introduced into me) "hath saved thee."
 the contrary, the evil over the good, as came to pass in Lucifer and
 Adam, and still daily comes to pass: And thus everything is signed; that
 form which is chief receives the taste, and also the sound in Mercury,
-and figures <span id="fr_164"></span>[2](#fn_164) the body after its
+and figures <span id="fr_164"></span>[2](#fn_164.md) the body after its
 property; the other forms hang to it as co-helpers, and also give their
 signature thereto, but very weakly.
 
@@ -123,7 +123,7 @@ cold, and dark, and causes the Sulphur, viz. the vital spirit,
 understand the moving vital spirit, viz. the natural; and the free lubet
 makes the impression to long to be freed from the dark astringent
 hardness, and it is very rightly called Jupiter, being a desire of the
-understanding <span id="fr_165"></span>[1](#fn_165) which opens the
+understanding <span id="fr_165"></span>[1](#fn_165.md) which opens the
 darkness, and manifests another will therein.
 
 10\. In these two properties is pourtrayed and exactly deciphered God's
@@ -165,8 +165,8 @@ Mars; and there the free lubet, which has sharpened itself in the
 impression, in the property of Mars, in the consuming anguish, and in
 the hardness of Saturn, displays, or powerfully puts itself forth in
 Jupiter, as a sharpness of the liberty, and an original of the nothing,
-and also of the sense; <span id="fr_166"></span>[1](#fn_166) and the
-effluence <span id="fr_167"></span>[2](#fn_167) from the heat and
+and also of the sense; <span id="fr_166"></span>[1](#fn_166.md) and the
+effluence <span id="fr_167"></span>[2](#fn_167.md) from the heat and
 anguish of Mars, and from Saturn's hardness is the shining of the light
 in nature, which gives the understanding in Saturn, Jupiter, and Mars,
 viz. a spirit, which knows what itself is in its properties, which
@@ -244,14 +244,14 @@ sound in the spirit, understand, the separator of the sound, viz. of the
 tone; also of all pronunciations of speeches, and all the several cries
 and notes; all whatever sounds is distinguished by his might; Venus and
 Saturn carry his lute, and he is the lutanist, he strikes <span
-id="fr_168"></span>[1](#fn_168) upon Venus and Saturn, and Mars gives
+id="fr_168"></span>[1](#fn_168.md) upon Venus and Saturn, and Mars gives
 him the sound from the fire; and thus Jupiter rejoices in Sol.
 
 <span id="page_96">p. 96</span>
 
 21\. Here lies the pearl, dear brethren: Mercury makes the understanding
 in Jupiter, for he separates the thoughts, <span
-id="fr_169"></span>[1](#fn_169) and makes them act and move; he takes
+id="fr_169"></span>[1](#fn_169.md) and makes them act and move; he takes
 the infinity of the thoughts into his desire, and makes them essential;
 this he does in Sulphur, and his essence is the manifold power of the
 smell and taste, and Saturn gives his sharpness thereinto, so that it is
@@ -259,7 +259,7 @@ salt.
 
 22\. But I understand here the virtual salt in the vegetable life:
 Saturn makes the common salt in the water: He <span
-id="fr_170"></span>[2](#fn_170) is an heavenly and an earthly labourer,
+id="fr_170"></span>[2](#fn_170.md) is an heavenly and an earthly labourer,
 and labours in each form according to the property of the form; as it is
 written, "With the holy thou art holy, and with the perverse thou art
 perverse." In the holy angels the heavenly Mercury is holy and divine,
@@ -272,7 +272,7 @@ poisonful enmity.
 
 23\. Thus likewise it is to be understood in men and all creatures, in
 all whatever lives and moves; for the outward Mercury is the outward
-word in the outward world: He <span id="fr_171"></span>[3](#fn_171) is
+word in the outward world: He <span id="fr_171"></span>[3](#fn_171.md) is
 the outward verbum, and Saturn with the impression is his fiat, which
 makes his word corporeal; and in the inward kingdom of the divine power
 he is the eternal word of the Father, whereby he has made all things in
@@ -305,7 +305,7 @@ itself.
 
 26\. It is heavenly and earthly, and rules the vegetative life; it has
 the menstruum, viz. the matrix of Venus in it; all whatever is corporeal
-does congeal <span id="fr_172"></span>[1](#fn_172) in its property;
+does congeal <span id="fr_172"></span>[1](#fn_172.md) in its property;
 Saturn is its fiat, and Mercury is its husband, which impregnates it,
 and Mars is its vegetable soul, and the sun is its centre in the hunger,
 and yet not wholly in the property; for it receives only the white
@@ -362,7 +362,7 @@ rest; on one part most nigh to the earthly corporality, and on the other
 part nearest the heavenly; and next Mercury Luna is on the earthly part
 wholly earthly, and on the heavenly part wholly heavenly; it carries an
 earthly and heavenly face towards all things; <span
-id="fr_173"></span>[1](#fn_173) to the evil it is evil, and to the good
+id="fr_173"></span>[1](#fn_173.md) to the evil it is evil, and to the good
 it is good; to a pleasant creature it gives its best in the taste, and
 to a bad creature it gives the curse of the corrupted earth.
 
@@ -374,8 +374,8 @@ also.
 33\. If the saturnine property be predominant, and chief in a thing,
 then it is of a black, greyish colour, hard and spare, sharp, sour, or
 salt in taste; it gets a long lean body, <span
-id="fr_174"></span>[2](#fn_174) grey in the eyes, <span
-id="fr_175"></span>[3](#fn_175) of a dark blue, of a very slender body,
+id="fr_174"></span>[2](#fn_174.md) grey in the eyes, <span
+id="fr_175"></span>[3](#fn_175.md) of a dark blue, of a very slender body,
 but of a hard touch, though the property of Saturn is very seldom alone
 master in a thing; for he soon awakens Mars with his hard impression,
 who makes his property bending and crooked, full of knots, and hinders
@@ -383,7 +383,7 @@ the body from growing high, but is full of branches and rugged, as is to
 be seen in oak-shrubs, and the like trees.
 
 34\. But if Venus be next to Saturn <span
-id="fr_176"></span>[4](#fn_176) in any place in the sude or seething of
+id="fr_176"></span>[4](#fn_176.md) in any place in the sude or seething of
 the earth, then the sude in the Sulphur of Saturn causes a tall strong
 body; for it gives its sweetness into Saturn's impression, whereby
 Saturn becomes strong and lusty, and if Venus be not hindered by Mars,
@@ -489,7 +489,7 @@ of joy.
 <span id="page_101">p. 101</span>
 
 diseases, not cold without heat, else he enkindles Mars in the wrath,
-and stirs <span id="fr_177"></span>[1](#fn_177) up Mercury in the hard
+and stirs <span id="fr_177"></span>[1](#fn_177.md) up Mercury in the hard
 impression in the property of death; Mars belongs to the cure of every
 Mars-like sickness, which is of heat, and pricking pangs: But let the
 physician know, that he must first correct and qualify Mars, which he
@@ -506,7 +506,7 @@ But yet the physician must have a care that he administers not in an hot
 disease the raw undigested hot Mars, in which Mercury is wholly inflamed
 and burning; for he enkindles the fire more vehemently in the body; he
 must first mollify Mars and Mercury, and put them into joy, <span
-id="fr_178"></span>[2](#fn_178) and then it is right and good.
+id="fr_178"></span>[2](#fn_178.md) and then it is right and good.
 
 46\. The hotter an herb is, the better it is hereunto; yet its wrathful
 fire must be changed into love, and then he can also change the wrath in
@@ -569,7 +569,7 @@ of a white, weak, and effeminate nature.
 5i. There are three special salts which may be used to cure, which
 belong to the vegetable life, viz. Jupiter, Mars, and Mercury; these are
 the working life, in which the sun is the right spirit which makes these
-salts operative. <span id="fr_179"></span>[1](#fn_179)
+salts operative. <span id="fr_179"></span>[1](#fn_179.md)
 
 52\. The salt or power of Jupiter is of a pleasant good smell and taste
 from the inward original \[of the property\] of the liberty of the
@@ -580,7 +580,7 @@ sufficient power in nature; for the outward
 <span id="page_103">p. 103</span>
 
 nature consists in fire and anguish, viz. in poison, and Jupiter's
-power <span id="fr_180"></span>[1](#fn_180) is opposed to the fiery
+power <span id="fr_180"></span>[1](#fn_180.md) is opposed to the fiery
 poison life, which makes a temperature in the poisonful nature, viz. a
 desire of meekness out of the enmity.
 
@@ -704,7 +704,7 @@ stand in poison and strife, and shall yet be turned to nothing, and then
 I am wholly perfect: Now in this same life, wherein yet I find my
 selfhood, is sin and death, and these likewise shall be brought to
 nothing: In that life, which God is in me, I hate <span
-id="fr_181"></span>[1](#fn_181) sin and death; and according to that
+id="fr_181"></span>[1](#fn_181.md) sin and death; and according to that
 life which yet is in my selfhood, I hate the nothing, viz. the Deity:
 Thus one life fights against the other, and there is a continual contest
 in me; but seeing Christ is born again in me, and lives in my
@@ -748,7 +748,7 @@ devil and his servants, that it effectually works and burns in the
 outward body, and even then the inward love-fire goes out in the outward
 man, as a red-hot iron is quenched in the water; yet not so soon in the
 internal, but in the external \[man\], unless the outward man continues
-lying in the mire <span id="fr_182"></span>[1](#fn_182) of sin; so that
+lying in the mire <span id="fr_182"></span>[1](#fn_182.md) of sin; so that
 the soul, which had given itself into the nothing, viz. into the
 liberty, into the life of God, does enter again with its desire into the
 outward sinful man, then it loses the inward sun; for it goes again out
@@ -758,15 +758,15 @@ of the nothing into the something, viz. into the source.
 the inward man yet lives in God, yet whereas the soul has imagined into
 the outward wrath, so that the divine tincturation is no longer in the
 outward man, the outward Mercury, viz. the expressed <span
-id="fr_183"></span>[2](#fn_183) word, must have a tincturation
+id="fr_183"></span>[2](#fn_183.md) word, must have a tincturation
 
 <span id="page_107">p. 107</span>
 
 from the outward expressed love and light, unless the will-spirit of the
 soul does wholly re-enter into the inward hidden man, and be again
-transmuted; <span id="fr_184"></span>[1](#fn_184) and then the cure may
+transmuted; <span id="fr_184"></span>[1](#fn_184.md) and then the cure may
 be again introduced into the outward man, being the thorough-shining
-love of God in the light, <span id="fr_185"></span>[2](#fn_185) which is
+love of God in the light, <span id="fr_185"></span>[2](#fn_185.md) which is
 exceeding precious.
 
 70\. But now this herb is rarely to be found upon the earth; for men eat
@@ -802,64 +802,64 @@ creation, into the essence, out of which it went and departed with Adam.
 
 ### Footnotes
 
-<span id="fn_161"></span>[91:1](sat13.htm#fr_161) Voice, or harmony.
+<span id="fn_161"></span>[91:1](sat13.htm#fr_161.md) Voice, or harmony.
 
-<span id="fn_162"></span>[91:2](sat13.htm#fr_162) Or essence.
+<span id="fn_162"></span>[91:2](sat13.htm#fr_162.md) Or essence.
 
-<span id="fn_163"></span>[92:1](sat13.htm#fr_163) Text, wrestling power.
+<span id="fn_163"></span>[92:1](sat13.htm#fr_163.md) Text, wrestling power.
 
-<span id="fn_164"></span>[92:2](sat13.htm#fr_164) Or shapes.
+<span id="fn_164"></span>[92:2](sat13.htm#fr_164.md) Or shapes.
 
-<span id="fn_165"></span>[93:1](sat13.htm#fr_165) Or original.
+<span id="fn_165"></span>[93:1](sat13.htm#fr_165.md) Or original.
 
-<span id="fn_166"></span>[94:1](sat13.htm#fr_166) Perception, or
+<span id="fn_166"></span>[94:1](sat13.htm#fr_166.md) Perception, or
 sensation.
 
-<span id="fn_167"></span>[94:2](sat13.htm#fr_167) Or breathing forth.
+<span id="fn_167"></span>[94:2](sat13.htm#fr_167.md) Or breathing forth.
 
-<span id="fn_168"></span>[95:1](sat13.htm#fr_168) Or plays.
+<span id="fn_168"></span>[95:1](sat13.htm#fr_168.md) Or plays.
 
-<span id="fn_169"></span>[96:1](sat13.htm#fr_169) Or distinguishes the
+<span id="fn_169"></span>[96:1](sat13.htm#fr_169.md) Or distinguishes the
 senses.
 
-<span id="fn_170"></span>[96:2](sat13.htm#fr_170) Viz. the Mercury.
+<span id="fn_170"></span>[96:2](sat13.htm#fr_170.md) Viz. the Mercury.
 
-<span id="fn_171"></span>[96:3](sat13.htm#fr_171) Viz. Mercury.
+<span id="fn_171"></span>[96:3](sat13.htm#fr_171.md) Viz. Mercury.
 
-<span id="fn_172"></span>[97:1](sat13.htm#fr_172) Thicken, or curdle.
+<span id="fn_172"></span>[97:1](sat13.htm#fr_172.md) Thicken, or curdle.
 
-<span id="fn_173"></span>[98:1](sat13.htm#fr_173) It gives a cursing or
+<span id="fn_173"></span>[98:1](sat13.htm#fr_173.md) It gives a cursing or
 a blessing aspect.
 
-<span id="fn_174"></span>[98:2](sat13.htm#fr_174) Stalk, or blossom.
+<span id="fn_174"></span>[98:2](sat13.htm#fr_174.md) Stalk, or blossom.
 
-<span id="fn_175"></span>[98:3](sat13.htm#fr_175) Or of whitish buds in
+<span id="fn_175"></span>[98:3](sat13.htm#fr_175.md) Or of whitish buds in
 vegetables.
 
-<span id="fn_176"></span>[98:4](sat13.htm#fr_176) In conjunction with
+<span id="fn_176"></span>[98:4](sat13.htm#fr_176.md) In conjunction with
 Saturn.
 
-<span id="fn_177"></span>[101:1](sat13.htm#fr_177) Text, that he stirs.
+<span id="fn_177"></span>[101:1](sat13.htm#fr_177.md) Text, that he stirs.
 
-<span id="fn_178"></span>[101:2](sat13.htm#fr_178) Sublime them.
+<span id="fn_178"></span>[101:2](sat13.htm#fr_178.md) Sublime them.
 
-<span id="fn_179"></span>[102:1](sat13.htm#fr_179) Working, powerful, or
+<span id="fn_179"></span>[102:1](sat13.htm#fr_179.md) Working, powerful, or
 virtual.
 
-<span id="fn_180"></span>[103:1](sat13.htm#fr_180) The jovial virtue.
+<span id="fn_180"></span>[103:1](sat13.htm#fr_180.md) The jovial virtue.
 
-<span id="fn_181"></span>[105:1](sat13.htm#fr_181) Or I am an enemy to.
+<span id="fn_181"></span>[105:1](sat13.htm#fr_181.md) Or I am an enemy to.
 
-<span id="fn_182"></span>[106:1](sat13.htm#fr_182) Or water.
+<span id="fn_182"></span>[106:1](sat13.htm#fr_182.md) Or water.
 
-<span id="fn_183"></span>[106:2](sat13.htm#fr_183) Outspoken.
+<span id="fn_183"></span>[106:2](sat13.htm#fr_183.md) Outspoken.
 
-<span id="fn_184"></span>[107:1](sat13.htm#fr_184) Transformed.
+<span id="fn_184"></span>[107:1](sat13.htm#fr_184.md) Transformed.
 
-<span id="fn_185"></span>[107:2](sat13.htm#fr_185) The transforming
+<span id="fn_185"></span>[107:2](sat13.htm#fr_185.md) The transforming
 light of God in the dark soul, such as shined in Enoch, Elijah, Paul,
 etc.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](sat14)
+[Next: Chapter X](sat14.md)

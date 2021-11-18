@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk18)  [Next](htk20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk18)  [Next](htk20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -25,14 +25,14 @@ at Intangible Textual Heritage
 
 ### VERSE 15
 
-HE, O Mahākālī, <span id="fr_113"></span>[1](#fn_113) who in the
+HE, O Mahākālī, <span id="fr_113"></span>[1](#fn_113.md) who in the
 cremation-ground, naked, and with disheveled hair, intently <span
-id="fr_114"></span>[2](#fn_114) meditates upon Thee <span
-id="fr_115"></span>[3](#fn_115) and recites Thy *mantra*, and with each
+id="fr_114"></span>[2](#fn_114.md) meditates upon Thee <span
+id="fr_115"></span>[3](#fn_115.md) and recites Thy *mantra*, and with each
 recitation makes offering to Thee of a thousand *Ākaṇda* flowers <span
-id="fr_116"></span>[4](#fn_116) with seed, <span
-id="fr_117"></span>[5](#fn_117) becomes without any effort a Lord of the
-earth. <span id="fr_118"></span>[6](#fn_118)
+id="fr_116"></span>[4](#fn_116.md) with seed, <span
+id="fr_117"></span>[5](#fn_117.md) becomes without any effort a Lord of the
+earth. <span id="fr_118"></span>[6](#fn_118.md)
 
 COMMENTARY
 
@@ -96,19 +96,19 @@ indicated.
 
 ### Footnotes
 
-<span id="fn_113"></span>[78:1](htk19.htm#fr_113) <span id="page_79">p.
+<span id="fn_113"></span>[78:1](htk19.htm#fr_113.md) <span id="page_79">p.
 79</span> *Mahākālī*, *Śakti* of *Mahākāla*.
 
-<span id="fn_114"></span>[78:2](htk19.htm#fr_114) *Susthah*: with
+<span id="fn_114"></span>[78:2](htk19.htm#fr_114.md) *Susthah*: with
 undistracted mind. (V)
 
-<span id="fn_115"></span>[78:3](htk19.htm#fr_115) *Tava dhyāna-niratah*,
+<span id="fn_115"></span>[78:3](htk19.htm#fr_115.md) *Tava dhyāna-niratah*,
 that is, Upon Thy form. (V)
 
-<span id="fn_116"></span>[78:4](htk19.htm#fr_116) *Arka* = Sun flowers
+<span id="fn_116"></span>[78:4](htk19.htm#fr_116.md) *Arka* = Sun flowers
 known as *Ākaṇda* (V) not the flower so called in English.
 
-<span id="fn_117"></span>[78:5](htk19.htm#fr_117) *Nija-galita-vīryeṇa
+<span id="fn_117"></span>[78:5](htk19.htm#fr_117.md) *Nija-galita-vīryeṇa
 kusumaṁ*. Thus the offering is not only of the flowers of the *Ākaṇda*
 plant, *yatah sādhakah devyai sva-vīrya-miśri-tārkapuṣpāni samarpayati*.
 Durgārāma-Siddhāntavāgīśa cites the Mahākālasaṁhitā as saying that the
@@ -121,7 +121,7 @@ with tranquil mind, should offer a thousand sunflowers with seed
 reciting the while his *Mantra*. After meditating and worshipping with
 great devotion he should recite the Hymn' (V).
 
-<span id="fn_118"></span>[78:6](htk19.htm#fr_118) That is, a king or
+<span id="fn_118"></span>[78:6](htk19.htm#fr_118.md) That is, a king or
 *rājā*. So the Phetkāriṇī-Tantra says that wealth, strength, eloquence,
 intelligence, and the love of women (*Sarvayoṣitpriyah*) is gained.
 
@@ -129,6 +129,6 @@ intelligence, and the love of women (*Sarvayoṣitpriyah*) is gained.
 
 ------------------------------------------------------------------------
 
-[Next: Verse 16](htk20)
+[Next: Verse 16](htk20.md)
 
 </div>

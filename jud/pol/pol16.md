@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol15)  [Next](pol17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol15)  [Next](pol17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -104,7 +104,7 @@ stream, and a proneness to
 
 self-deification seemed taking such hold of me, that I desire now at
 once to consecrate my hair unto the Lord, through the Nazarean
-vow." <span id="fr_6"></span>[1](#fn_6)
+vow." <span id="fr_6"></span>[1](#fn_6.md)
 
 Simon kissed the young shepherd, and said to him:
 
@@ -145,9 +145,9 @@ on the people, and by the High Priest on the Day of Atonement.
 
 ### Footnotes
 
-<span id="fn_6"></span>[212:1](pol16.htm#fr_6) The law concerning this
+<span id="fn_6"></span>[212:1](pol16.htm#fr_6.md) The law concerning this
 may be found in Numbers 6.
 
 ------------------------------------------------------------------------
 
-[Next: Rabbi Ishmael, the High Priest](pol17)
+[Next: Rabbi Ishmael, the High Priest](pol17.md)

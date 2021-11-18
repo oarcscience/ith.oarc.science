@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr07) 
-[Next](frr09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr07.md) 
+[Next](frr09.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,16 +37,16 @@ scholar who has
 <span id="page_50">p. 50</span>
 
 seen 'women, at the door of their houses, weeping for Adonis <span
-id="fr_67"></span>[1](#fn_67).'
+id="fr_67"></span>[1](#fn_67.md).'
 
 For evidence of the widespread character of Medieval and Modern
 survivals we have only to consult the epoch-making works of Mannhardt,
 *Wald und Feld-Kulte*, and Frazer, *The Golden Bough* <span
-id="fr_68"></span>[2](#fn_68); in the pages of these volumes we shall
+id="fr_68"></span>[2](#fn_68.md); in the pages of these volumes we shall
 find more than sufficient for our purpose. From the wealth of
 illustration with which these works abound I have selected merely such
 instances as seem to apply more directly to the subject of our
-investigation <span id="fr_69"></span>[3](#fn_69).
+investigation <span id="fr_69"></span>[3](#fn_69.md).
 
 Thus, in many places, it is still the custom to carry a figure
 representing the Vegetation Spirit on a bier, attended by mourning
@@ -56,10 +56,10 @@ rejoicing, back to the town. Thus in the Lechrain a man in black women's
 clothes is borne on a bier, followed by men dressed as professional
 women mourners making lamentation, thrown on the village dung-heap,
 drenched with water, and buried in straw <span
-id="fr_70"></span>[4](#fn_70).
+id="fr_70"></span>[4](#fn_70.md).
 
 In Russia the Vegetation or Year Spirit is known as Yarilo <span
-id="fr_71"></span>[5](#fn_71), and is represented by a doll with phallic
+id="fr_71"></span>[5](#fn_71.md), and is represented by a doll with phallic
 attributes, which is enclosed in a coffin, and carried through the
 streets to the accompaniment of lamentation by women whose emotions have
 been excited by drink. Mannhardt gives the lament as follows: "Wessen
@@ -70,7 +70,7 @@ sollen wir uns von Dir trennen? Was ist das Leben wenn
 
 \[paragraph continues\] Du nicht mehr da bist? Erhebe Dich, wenn auch
 nur auf ein Stündchen! Aber Er steht nicht auf, Er steht nicht auf <span
-id="fr_72"></span>[1](#fn_72)!"
+id="fr_72"></span>[1](#fn_72.md)!"
 
 In other forms of the ritual, we find distinct traces of the
 resuscitation of the Vegetation Deity, occasionally accompanied by
@@ -81,7 +81,7 @@ effigy to pieces, hang the shirt on a young and flourishing tree,
 "schöne Wald-Baum," which they proceed to cut down, and carry home with
 every sign of rejoicing. Here evidently the young tree is regarded as a
 rejuvenation of the person represented in the first instance by the
-straw figure <span id="fr_73"></span>[2](#fn_73).
+straw figure <span id="fr_73"></span>[2](#fn_73.md).
 
 In many parts of Europe to-day the corresponding ceremonies, very
 generally held at Whitsuntide, include the mock execution of the
@@ -93,7 +93,7 @@ start, and is then pursued by the armed attendants. If he is not
 overtaken he holds office for a year, but if overtaken, he suffers a
 mock decapitation, head-dress, or crown, being struck off, and the
 pretended corpse is then borne on a bier to the next village <span
-id="fr_74"></span>[3](#fn_74).
+id="fr_74"></span>[3](#fn_74.md).
 
 Mannhardt, discussing this point, remarks that in the mock execution we
 must recognize "Ein verbreiteter und jedenfalls uralter Gebrauch." He
@@ -104,7 +104,7 @@ primarily represents a rain charm), is the form
 
 <span id="page_52">p. 52</span>
 
-adopted <span id="fr_75"></span>[1](#fn_75). He then goes on to remark
+adopted <span id="fr_75"></span>[1](#fn_75.md). He then goes on to remark
 that this ceremonial death must have been generally followed by
 resuscitation, as in Thuringia, where the 'Wild Man,' as the central
 figure is there named, is brought to life again by the Doctor, while the
@@ -116,7 +116,7 @@ That Mannhardt was not mistaken is proved by the evidence of the kindred
 Dances, a subject we shall consider later; there we shall find the
 Doctor playing his old-time *rôle*, and restoring to life the slain
 representative of the Vegetation Spirit <span
-id="fr_76"></span>[2](#fn_76). The character of the Doctor, or Medicine
+id="fr_76"></span>[2](#fn_76.md). The character of the Doctor, or Medicine
 Man, formed, as I believe, at one time, no unimportant link in the chain
 which connects these practices with the Grail tradition.
 
@@ -133,7 +133,7 @@ called the Old Man, the villagers dance round the May-Pole, and he
 suggests that the 'Old Man' represents the defunct Vegetation Spirit,
 the May Tree, that Spirit resuscitated, and refers in this connection to
 the "durchaus verwandten Asiatischen Gebrauchen des Attis, und
-Adonis-Kultus <span id="fr_77"></span>[3](#fn_77)."
+Adonis-Kultus <span id="fr_77"></span>[3](#fn_77.md)."
 
 <span id="page_53">p. 53</span>
 
@@ -160,7 +160,7 @@ described with such fulness of detail by Mannhardt. Especially is this
 the case with the Whitsuntide procession at Värdegötzen, in Hanover,
 where we find the group of phallic and fertility demons, who, on Prof.
 von Schroeder's hypothesis, figure in the song, in concrete, and actual
-form <span id="fr_78"></span>[1](#fn_78). The Vegetation Spirit appears
+form <span id="fr_78"></span>[1](#fn_78.md). The Vegetation Spirit appears
 in the song as an Old Man, while his female counterpart, an Old Woman,
 is described as 'filling the hand-mill.' Prof. von Schroeder points out
 that in some
@@ -195,7 +195,7 @@ prosperity depended. "Their observance made the earth fruitful, produced
 abundance and prosperity, and kept both the king and his land from
 misfortune. The Kings were divinities on whom depended fruitfulness and
 plenty, and who must therefore submit to obey their '*geasa* <span
-id="fr_79"></span>[1](#fn_79).'"
+id="fr_79"></span>[1](#fn_79.md).'"
 
 The same idea seems to have prevailed in early Greece; Mr A. B. Cook, in
 his studies on *The European Sky-God*,
@@ -214,11 +214,11 @@ sea yieldeth fish by reason of his good rule, and the folk prosper
 beneath him.' The king who is without blemish has a flourishing kingdom,
 the king who is maimed has a kingdom diseased like himself, thus the
 Spartans were warned by an oracle to beware of a 'lame reign <span
-id="fr_80"></span>[1](#fn_80).'"
+id="fr_80"></span>[1](#fn_80.md).'"
 
 A most remarkable modern survival of this idea is recorded by Dr Frazer
 in the latest edition of *The Golden Bough* <span
-id="fr_81"></span>[2](#fn_81), and is so complete and suggestive that I
+id="fr_81"></span>[2](#fn_81.md), and is so complete and suggestive that I
 make no apology for transcribing it at some length. The Shilluk, an
 African tribe, inhabit the banks of the White Nile, their territory
 extending on the west bank from Kaka in the north, to Lake No in the
@@ -253,7 +253,7 @@ At one time he might be attacked and slain by a rival, either of his own
 family, or of that of one of the previous Kings, of whom there are many,
 but this has long been superseded by the ceremonial slaying of the
 monarch who after his death is revered as Nyakang <span
-id="fr_82"></span>[1](#fn_82).
+id="fr_82"></span>[1](#fn_82.md).
 
 This survival is of extraordinary interest; it presents us with a
 curiously close parallel to the situation which, on the evidence of the
@@ -319,7 +319,7 @@ Gaston Paris.--"Je professe absolument et sans réserve cette doctrine,
 que la science n'a d'autre objet que la vérité, et la vérité pour
 elle-même, sans aucun souci des conséquences, bonnes ou mauvaises,
 regrettables ou heureuses, que cette vérité pourrait avoir dans la
-pratique <span id="fr_83"></span>[1](#fn_83)." When we further consider
+pratique <span id="fr_83"></span>[1](#fn_83.md)." When we further consider
 that behind these three main parallels, linking them together, there
 lies a continuous chain of evidence, expressed alike in classical
 literature, and surviving Folk practice, I would submit that there is no
@@ -426,41 +426,41 @@ an office exist, but that it is by no means an unpopular post.
 
 ### Footnotes
 
-<span id="fn_67"></span>[50:1](frr08.htm#fr_67) *Ancient Greek Religion,
+<span id="fn_67"></span>[50:1](frr08.htm#fr_67.md) *Ancient Greek Religion,
 and Modern Greek Folk-Lore*, J. C. Lawson, gives some most interesting
 evidence as to modern survivals of mythological beliefs.
 
-<span id="fn_68"></span>[50:2](frr08.htm#fr_68) *Wald und Feld-Kulte*,
+<span id="fn_68"></span>[50:2](frr08.htm#fr_68.md) *Wald und Feld-Kulte*,
 2nd edition, 2 vols., Berlin, 1904. Cf. Vol. II. p. 286. *The Golden
 Bough*, 3rd edition, 5 vols.
 
-<span id="fn_69"></span>[50:3](frr08.htm#fr_69) I cite from Mannhardt,
+<span id="fn_69"></span>[50:3](frr08.htm#fr_69.md) I cite from Mannhardt,
 as the two works overlap in the particular line of research we are
 following: the same instances are given in both, but the honour of
 priority belongs to the German scholar.
 
-<span id="fn_70"></span>[50:4](frr08.htm#fr_70) *Op. cit.* Vol. I. p.
+<span id="fn_70"></span>[50:4](frr08.htm#fr_70.md) *Op. cit.* Vol. I. p.
 411.
 
-<span id="fn_71"></span>[50:5](frr08.htm#fr_71) See G. Calderon,
+<span id="fn_71"></span>[50:5](frr08.htm#fr_71.md) See G. Calderon,
 'Slavonic Elements in Greek religion,' *Classical Review*, 1918, p. 79.
 
-<span id="fn_72"></span>[51:1](frr08.htm#fr_72) *Op. cit.* p. 416.
+<span id="fn_72"></span>[51:1](frr08.htm#fr_72.md) *Op. cit.* p. 416.
 
-<span id="fn_73"></span>[51:2](frr08.htm#fr_73) *Op. cit.* pp. 155 and
+<span id="fn_73"></span>[51:2](frr08.htm#fr_73.md) *Op. cit.* pp. 155 and
 312.
 
-<span id="fn_74"></span>[51:3](frr08.htm#fr_74) *Op. cit.* p. 353.
+<span id="fn_74"></span>[51:3](frr08.htm#fr_74.md) *Op. cit.* p. 353.
 
-<span id="fn_75"></span>[52:1](frr08.htm#fr_75) *Op. cit.* p. 358.
+<span id="fn_75"></span>[52:1](frr08.htm#fr_75.md) *Op. cit.* p. 358.
 
-<span id="fn_76"></span>[52:2](frr08.htm#fr_76) *Op. cit.* p. 358.
+<span id="fn_76"></span>[52:2](frr08.htm#fr_76.md) *Op. cit.* p. 358.
 
-<span id="fn_77"></span>[52:3](frr08.htm#fr_77) *Op. cit.* p. 359. Cf.
+<span id="fn_77"></span>[52:3](frr08.htm#fr_77.md) *Op. cit.* p. 359. Cf.
 the Lausitz custom given *supra*, which Mannhardt seems to have
 overlooked.
 
-<span id="fn_78"></span>[53:1](frr08.htm#fr_78) In the poem, besides the
+<span id="fn_78"></span>[53:1](frr08.htm#fr_78.md) In the poem, besides the
 ordinary figures of the Vegetation Deity, his female counterpart, and
 the Doctor, common to all such processions, Laubfrosch, combining the
 two first, and Horse. Cf. Mannhardt, *Mythol. Forsch.* pp. 142-43;
@@ -470,23 +470,23 @@ of a 'harmless little hymn'--doubtless the poem is harmless; until Prof.
 von Schroeder pointed out its close affinity with the Fertility
 processions it was also meaningless.
 
-<span id="fn_79"></span>[54:1](frr08.htm#fr_79) *Op. cit.* Chap. 17, p.
+<span id="fn_79"></span>[54:1](frr08.htm#fr_79.md) *Op. cit.* Chap. 17, p.
 253.
 
-<span id="fn_80"></span>[55:1](frr08.htm#fr_80) Cf. *Folk-Lore*, Vol.
+<span id="fn_80"></span>[55:1](frr08.htm#fr_80.md) Cf. *Folk-Lore*, Vol.
 XV. p. 374.
 
-<span id="fn_81"></span>[55:2](frr08.htm#fr_81) *Op. cit.* Vol. V. *The
+<span id="fn_81"></span>[55:2](frr08.htm#fr_81.md) *Op. cit.* Vol. V. *The
 Dying God*, pp. 17 *et seq*.
 
-<span id="fn_82"></span>[56:1](frr08.htm#fr_82) See Dr Seligmann's
+<span id="fn_82"></span>[56:1](frr08.htm#fr_82.md) See Dr Seligmann's
 study, *The Cult of Nyakang and the Divine Kings of the Shilluk* in the
 Fourth Report of the Wellcome Research Laboratories, Kkartum, 1911, Vol.
 B.
 
-<span id="fn_83"></span>[57:1](frr08.htm#fr_83) Cf. Address on reception
+<span id="fn_83"></span>[57:1](frr08.htm#fr_83.md) Cf. Address on reception
 into the Academy when M. Paris succeeded to Pasteur's *fauteuil*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Symbols](frr09)
+[Next: Chapter VI. The Symbols](frr09.md)

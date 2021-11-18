@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm08)  [Next](tgm10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm08)  [Next](tgm10.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ tomorrow."
 <span id="img_03700"></span>
 
 [![](tn/03700.jpg)  
-Click to enlarge](img/03700.jpg)
+Click to enlarge](img/03700.jpg.md)
 
  
 
@@ -114,4 +114,4 @@ Some years later Hillel became the head of this very school.
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Bet](tgm10)
+[Next: 7. The Bet](tgm10.md)

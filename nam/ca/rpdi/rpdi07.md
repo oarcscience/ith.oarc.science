@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi06)  [Next](rpdi08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi06)  [Next](rpdi08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ American](../../index)  [California](../index)  [Index](index) 
 ### BOYS’ ADOLESCENCE CEREMONY.
 
 The boys’ puberty or toloache ceremony among the Diegueño is similar to
-the corresponding ceremony <span id="fr_56"></span>[52a](#fn_56)
+the corresponding ceremony <span id="fr_56"></span>[52a](#fn_56.md)
 performed by the Luiseño. The songs are partly sung in the Luiseño
 language. The accounts of the Diegueño ceremony obtained by the present
 writer differ from each other in a number of minor details. They also
@@ -56,7 +56,7 @@ good many—five or six. These men go at night to the house, kwusitcnyawa,
 where the ceremonial objects are kept. A quantity of jimson-weed root
 has already been gathered and dried for use in this rite. They break
 some of this root up, and put it in a small ceremonial mortar, kalmo
-([pl. 21, fig. 2](rpdi27.htm#img_pl21)), which is kept for the purpose.
+([pl. 21, fig. 2](rpdi27.htm#img_pl21).md), which is kept for the purpose.
 This kalmo is said to have been freshly painted each time in vertical
 red and black stripes. The red used was the iron rust, or oxide of iron,
 precipitated by the iron springs of the region. The black seems from the
@@ -71,7 +71,7 @@ he strikes, the others chant:
 
 |                                              |                                                                               |
 |----------------------------------------------|-------------------------------------------------------------------------------|
-| <span class="small">tcoki-a! tcoki-a!</span> | <span class="small">pound! pound! <span id="fr_57"></span>[53](#fn_57)</span> |
+| <span class="small">tcoki-a! tcoki-a!</span> | <span class="small">pound! pound! <span id="fr_57"></span>[53](#fn_57.md)</span> |
 
 </div>
 
@@ -109,7 +109,7 @@ for awhile to steep. Then the young boys were brought in and allowed to
 drink directly from the mortar. One of the kaponai<span
 class="sc">l</span> slipped his hand under each boy's forehead and
 pulled his head up when he seemed to have taken enough. One informant at
-Santa Ysabel <span id="fr_58"></span>[54](#fn_58) told the writer that
+Santa Ysabel <span id="fr_58"></span>[54](#fn_58.md) told the writer that
 they boiled the powder in a small jar of pottery, and strained the juice
 into basketry cups. As cups they used the close-woven basketry caps,
 npu<span class="sc">r</span><span class="sc">l</span>. In the southern
@@ -144,7 +144,7 @@ is as follows:
 
 <div style="margin-left: 32px">
 
-<span class="small">hayompa hayom <span id="fr_59"></span>[55](#fn_59)  
+<span class="small">hayompa hayom <span id="fr_59"></span>[55](#fn_59.md)  
 hayompa hayom</span>
 
 </div>
@@ -204,7 +204,7 @@ After this experience, the man took this song for his own. The grouse
 was thereafter "his" bird to the extent that he would never kill one or
 injure one of the species. The feeling is so vague, however, that the
 words "totemism" or "fetishism" cannot properly be used in connection
-with it. <span id="fr_60"></span>[56](#fn_60) After all the initiates
+with it. <span id="fr_60"></span>[56](#fn_60.md) After all the initiates
 have "fallen about" helpless from the effects of the drug and been
 carried outside, the grown people continue to dance the War dance till
 daybreak.
@@ -214,17 +214,17 @@ consciousness until late the next morning. The first precaution on their
 awakening is to give them large draughts of warm water to free their
 systems of the drug. Otherwise they "swell up" and are in danger of
 dying. Even grown men have died from the effects of the ceremony. <span
-id="fr_61"></span>[57](#fn_61) Each boy is then given a bath or a swim.
+id="fr_61"></span>[57](#fn_61.md) Each boy is then given a bath or a swim.
 They are then painted black from head to foot with straw charcoal. Some
 of the men thereupon chew
 
 <span id="page_297">p. 297</span>
 
 white clay (soapstone?) and blow the powder over the boys, making them
-part white. <span id="fr_62"></span>[58](#fn_62) This painting is
+part white. <span id="fr_62"></span>[58](#fn_62.md) This painting is
 expected to make them live long, or, as another informant said, to keep
 the east wind from making them cold after the drugging. <span
-id="fr_63"></span>[59](#fn_63)
+id="fr_63"></span>[59](#fn_63.md)
 
 For one day after the administration of the kusī they are allowed no
 food of any sort. At the close of that period a bowl of sage-seed mush,
@@ -233,7 +233,7 @@ it, however, the kaponai<span class="sc">l</span> yell, "awi! awi!"
 (rattlesnake! rattlesnake!) and jerk the bowl away. If the boy is quick
 enough he grabs a handful or two. Otherwise he gets nothing at all. For
 six days after the drugging they are given no meat, and but very little
-mush. <span id="fr_64"></span>[59a](#fn_64)
+mush. <span id="fr_64"></span>[59a](#fn_64.md)
 
 To ease the pangs of actual starvation during this period, they are
 given belts, inyip, made of tule. These are about four inches wide and
@@ -264,7 +264,7 @@ following chant:
 
 <div style="margin-left: 32px">
 
-<span class="small">kwisi maimoni <span id="fr_65"></span>[60](#fn_65)  
+<span class="small">kwisi maimoni <span id="fr_65"></span>[60](#fn_65.md)  
 maino kaiko<span class="it">v</span>i<span class="it">r</span>a  
 nizo kwaikora</span>
 
@@ -293,7 +293,7 @@ good deal of intercourse between the two peoples.
 After the first three days the boys are painted with broad stripes of
 white powdered soapstone. These stripes cross on the breast, pass over
 each shoulder, and meet on the back. [Pl. 26, fig.
-2](rpdi27.htm#img_pl26), representing a man prepared for the Whirligig
+2](rpdi27.htm#img_pl26.md), representing a man prepared for the Whirligig
 dance or Tapakwirp, shows the general appearance of this white paint.
 One side of the face in the case of the boys is painted white, the other
 red. The feet during about the first week are striped transversely in
@@ -306,7 +306,7 @@ to day after the first three days. It consists exclusively, however, of
 unsalted acorn or sage-seed mush. At the end of a mouth the initiates
 are taken to some creek about a mile away from the village. Here the
 head of each candidate is carefully freed of lice. <span
-id="fr_66"></span>[61](#fn_66) The tule hunger-belts are then removed,
+id="fr_66"></span>[61](#fn_66.md) The tule hunger-belts are then removed,
 sunk in the creek, and weighted down with rocks. In the course of time a
 certain bush, ipewi, it is said, grows up out of these belts, in the
 water. Under ordinary circumstances this bush grows, it is thought, only
@@ -331,7 +331,7 @@ that a painted stick to carry in the dances. This stick is flat, pointed
 at one end, and sometimes inlaid with abalone shell. It is similar to
 the "hechicero" stick, kotat, Luiseño paviut, carried by the old
 dancers, but has no "medicine-stone" or flint fastened in the end. Figs.
-[1](#img_fig01) and [2](rpdi08.htm#img_fig02) show such hechicero
+[1](#img_fig01) and [2](rpdi08.htm#img_fig02.md) show such hechicero
 sticks. This stick is sometimes decorated with yellowhammer feathers and
 eagle down. The following song is sung by the women when the boys are
 given the feather plumes and painted sticks:
@@ -353,7 +353,7 @@ the ground.
 ceremonial wands is possession of Mr. E. H. Davis. Nos. 1, 2, from a
 cave in the desert. Painted red. Inlay lost from No. 1. No. 3, Diegueño
 from Mesa Grande. No. 4, Luiseño from La Jolla.](tn/fig01.jpg)  
-Click to enlarge](img/fig01.jpg)  
+Click to enlarge](img/fig01.jpg.md)  
 Figure 1.—Four ceremonial wands is possession of Mr. E. H. Davis. Nos.
 1, 2, from a cave in the desert. Painted red. Inlay lost from No. 1. No.
 3, Diegueño from Mesa Grande. No. 4, Luiseño from La Jolla.  
@@ -363,45 +363,45 @@ Figure 1.—Four ceremonial wands is possession of Mr. E. H. Davis. Nos.
 
 ### Footnotes
 
-<span id="fn_56"></span>[293:52a](rpdi07.htm#fr_56) *Ibid*., pp. 77,
+<span id="fn_56"></span>[293:52a](rpdi07.htm#fr_56.md) *Ibid*., pp. 77,
 176; Sparkman, p. 221.
 
-<span id="fn_57"></span>[294:53](rpdi07.htm#fr_57) University of
+<span id="fn_57"></span>[294:53](rpdi07.htm#fr_57.md) University of
 California phonograph record 739. Cf. DuBois, op. cit., p. 78, note 12.
 
-<span id="fn_58"></span>[295:54](rpdi07.htm#fr_58) Manuel Lachuso.
+<span id="fn_58"></span>[295:54](rpdi07.htm#fr_58.md) Manuel Lachuso.
 
-<span id="fn_59"></span>[295:55](rpdi07.htm#fr_59) University of
+<span id="fn_59"></span>[295:55](rpdi07.htm#fr_59.md) University of
 California phonograph record 740(<sup>1</sup>). Said by a Luiseño, when
 the record was played for him, to be in the language of the north, San
 Gabriel, like most his own people's songs connected with the toloache
 cult.
 
-<span id="fn_60"></span>[296:56](rpdi07.htm#fr_60) See below under the
+<span id="fn_60"></span>[296:56](rpdi07.htm#fr_60.md) See below under the
 account of the Tapakwirp.
 
-<span id="fn_61"></span>[296:57](rpdi07.htm#fr_61) Grown men who had
+<span id="fn_61"></span>[296:57](rpdi07.htm#fr_61.md) Grown men who had
 never taken the drug were sometimes initiated.
 
-<span id="fn_62"></span>[297:58](rpdi07.htm#fr_62) Similarly the Mohave
+<span id="fn_62"></span>[297:58](rpdi07.htm#fr_62.md) Similarly the Mohave
 medicine-men blow frothy saliva over their patients.
 
-<span id="fn_63"></span>[297:59](rpdi07.htm#fr_63) Manuel Lachuso at
+<span id="fn_63"></span>[297:59](rpdi07.htm#fr_63.md) Manuel Lachuso at
 Santa Ysabel is the authority for the statement that the painting was
 done by young women especially chosen for the purpose. If true at Santa
 Ysabel, it seems not to have been the case elsewhere.
 
-<span id="fn_64"></span>[297:59a](rpdi07.htm#fr_64) The corresponding
+<span id="fn_64"></span>[297:59a](rpdi07.htm#fr_64.md) The corresponding
 ceremony among the Luiseño has been called mani. This root *mani* means
 to abstain.
 
-<span id="fn_65"></span>[298:60](rpdi07.htm#fr_65) University of
+<span id="fn_65"></span>[298:60](rpdi07.htm#fr_65.md) University of
 California phonograph record 740(<sup>2</sup>). Compare the song given
-on page [295](#page_295).
+on page [295](#page_295.md).
 
-<span id="fn_66"></span>[299:61](rpdi07.htm#fr_66) See above, in the
+<span id="fn_66"></span>[299:61](rpdi07.htm#fr_66.md) See above, in the
 Introduction.
 
 ------------------------------------------------------------------------
 
-[Next: The Ground-Painting](rpdi08)
+[Next: The Ground-Painting](rpdi08.md)

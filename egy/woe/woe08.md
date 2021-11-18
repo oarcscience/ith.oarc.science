@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](woe07)  [Next](woe09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](woe07)  [Next](woe09.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ favor from a god had no chance of succeeding except by laying hands on
 the deity, and this arrest could only be effected by means of a certain
 number of rites, sacrifices, prayers, and chants, which the god himself
 had revealed and which obliged him to do what was demanded of
-him." <span id="fr_50"></span>[1](#fn_50) Then we find Dr. Budge stating
+him." <span id="fr_50"></span>[1](#fn_50.md) Then we find Dr. Budge stating
 that in the religious texts and works we see how magic is made to be the
 handmaiden of religion, and that whereas non-Egyptian races directed
 their art against the powers of darkness, and invoked a class of
@@ -361,7 +361,7 @@ Certain amulets not only were worn during life, but were even attached
 to the dead body. They are described in the following notes
 
 The *Crux Ansata*, or *Ankh* (see Illustrations Nos. 1, 2, 3, Plate
-[I](#img_I)), was known as the symbol of life, the loop at the top of
+[I](#img_I).md), was known as the symbol of life, the loop at the top of
 the cross consisting of the
 
  
@@ -389,7 +389,7 @@ spiritual life for it was from the Crux Ansata, or Ankh, that the symbol
 of Venus originated, the circle over the cross being the triumph of
 spirit, represented by the circle, over matter, shown by the cross.
 
-The *Menat* (Illustrations Nos. 4, 7, Plate [I](#img_I)), were specially
+The *Menat* (Illustrations Nos. 4, 7, Plate [I](#img_I).md), were specially
 dedicated to Hathor, who was a type of Isis, and was worn for conjugal
 happiness, as it gave power and strength to the organs of reproduction,
 promoting health and fruitfulness. It frequently formed a part of a
@@ -401,23 +401,23 @@ is a good specimen, the cow being an emblem of the maternal qualities
 which were the attributes of the goddess, who stood for all that is good
 and true in wife, mother, and daughter.
 
-The *Two Plumes* (Illustration No. 5, Plate [I](#img_I)), are sun
+The *Two Plumes* (Illustration No. 5, Plate [I](#img_I).md), are sun
 amulets and the symbols of Ra and Thoth, the two feathers being typical
 of the two lives, spiritual and material. This was worn to promote
 uprightness in dealing, enlightenment, and morality, being symbolical of
 the great gods of light and air.
 
-The *Single Plume* (Illustration No. 6, Plate [I](#img_I)), was an
+The *Single Plume* (Illustration No. 6, Plate [I](#img_I).md), was an
 emblem of Maat, the female counterpart of Thoth, who wears on her head
 the feather characteristic of the phonetic value of her name; she was
 the personification of integrity, righteousness, and truth.
 
-Illustrations Nos. 8, 9, 10, Plate [I](#img_I), show three forms of the
+Illustrations Nos. 8, 9, 10, Plate [I](#img_I.md), show three forms of the
 *Nefer*, a symbol of good luck, worn to attract success, happiness,
 vitality, and friends.
 
 The *Cartouche*, or *Name Amulet* (Illustration No. 15, Plate
-[I](#img_I)), was worn to secure favor, recognition, and remembrance,
+[I](#img_I).md), was worn to secure favor, recognition, and remembrance,
 and to prevent the name of its wearer being blotted out in the next
 world. This is a very important amulet, as the name was believed to be
 an integral part of the man, without
@@ -431,7 +431,7 @@ an end," the loss of the name meaning the total annihilation of the
 individual.
 
 The amulets of the *Angles* (see Illustrations Nos. 12, 13, Plate
-[I](#img_I)) and the *Plummet* (No. 60 on the same Plate), were symbols
+[I](#img_I)) and the *Plummet* (No. 60 on the same Plate.md), were symbols
 of the god Thoth, and were worn for moral integrity, wisdom, knowledge,
 order, and truth. Thoth was the personification of law and order, being
 the god who worked out the creation as decreed by the god Ra. He knew
@@ -439,7 +439,7 @@ all the words of power and the secrets of all hearts, and may be
 regarded as the chief recording angel; he was also the inventor of all
 arts and sciences.
 
-Bes, shown in Illustration No. 11, Plate [I](#img_I), was a very popular
+Bes, shown in Illustration No. 11, Plate [I](#img_I.md), was a very popular
 talisman, being the god of laughter, merry-making, and good luck; by
 some authorities he is considered to be a foreign importation from
 pre-dynastic times, and he has been identified with Horus and regarded
@@ -449,11 +449,11 @@ Billiken.
 
 <span id="page_248">p. 248</span>
 
-Illustrations Nos. 15, 19, Plate [II](#img_II), are examples of the
+Illustrations Nos. 15, 19, Plate [II](#img_II.md), are examples of the
 *Aper*, which symbolised providence and was worn for steadfastness,
 stability, and alertness.
 
-The *Tat* (Illustrations Nos. 16, 17, 18, Plate [II](#img_II)) held a
+The *Tat* (Illustrations Nos. 16, 17, 18, Plate [II](#img_II).md) held a
 very important place in the religious services of the Egyptians, and
 formed the centre of the annual ceremony of the setting-up of the Tat, a
 service held to commemorate the death and resurrection of Osiris, this
@@ -463,7 +463,7 @@ themselves with Osiris, through whose sufferings and death they hoped to
 rise glorified and immortal, and secure everlasting happiness. The four
 cross-bars symbolise the four cardinal points, and the four elements of
 earth, air, fire and water, and were often very elaborately ornamented
-(see Illustration No. 17, Plate [II](#img_II), taken from an example at
+(see Illustration No. 17, Plate [II](#img_II.md), taken from an example at
 the British Museum). It was worn as a talisman for stability and
 strength, and for protection from enemies; also that all doors--or
 opportunities--might be open both in this life and the next. Moreover, a
@@ -484,7 +484,7 @@ on his journey through the underworld and assist him in triumphing over
 his foes, that he might become perfect for ever and ever.
 
 The *Heart* was believed to be the seat of the soul, and Illustrations
-Nos. 20, 21, 22, Plate [II](#img_II), are examples of these talismans
+Nos. 20, 21, 22, Plate [II](#img_II.md), are examples of these talismans
 worn to prevent black magicians from bewitching the soul out of the
 body. The importance of these charms will be realized from the belief
 that if the soul left the heart, the body would quickly fade away and
@@ -553,7 +553,7 @@ of scarabs to commemorate historical events; one in the British
 
 \[paragraph continues\] Museum records the slaughter of one hundred and
 two fierce lions by Amenhetep III, with his own hand (see Illustrations
-Nos. 27, 28, Plate [III](#img_III)).
+Nos. 27, 28, Plate [III](#img_III).md).
 
 Next to the scarab, the ancient Egyptians attached much importance to
 the *Eye Amulet*, which, from the earliest astral mythology, was first
@@ -595,7 +595,7 @@ to cause sickness, decay, and death; horses were thought particularly
 liable to this injurious influence, and talismans to avert such a
 misfortune to them were hung on their foreheads, or over the left eye.
 
-Examples of eye amulets are illustrated on Plate [III](#img_III), Nos.
+Examples of eye amulets are illustrated on Plate [III](#img_III.md), Nos.
 32, 33, and 34.
 
 When two eyes are used together the right eye is symbolic of Ra, or
@@ -609,7 +609,7 @@ The talisman of the *Two Fingers* (Illustration
 
 <span id="page_254">p. 254</span>
 
-\[paragraph continues\] No. 35, Plate [III](#img_III)) was symbolical of
+\[paragraph continues\] No. 35, Plate [III](#img_III).md) was symbolical of
 help, assistance, and benediction, typified by the two fingers extended
 by Horus to assist his father in mounting the ladder suspended between
 this world and the next. This amulet was frequently placed in the
@@ -626,7 +626,7 @@ the ring was first placed on the thumb, as typical of man's allegiance
 to God, and lastly on the third finger of his bride to show that next to
 God in the trinity, a man's life should be devoted to his wife.
 
-The *Collar Amulet* (Illustrations Nos. 36, 37, Plate [III](#img_III))
+The *Collar Amulet* (Illustrations Nos. 36, 37, Plate [III](#img_III).md)
 was a symbol of Isis, and was worn to procure her protection and the
 strength of her son Horus. In both examples the head of the hawk
 
@@ -636,7 +636,7 @@ appears, this bird being attributed to Horus as well as to Ra. This
 collar, which was made of gold, was engraved with words of power and
 seems to have been chiefly used as a funeral amulet.
 
-The *Sma* (Illustration No. 38, Plate [III](#img_III)) was a favorite
+The *Sma* (Illustration No. 38, Plate [III](#img_III).md) was a favorite
 amulet from the dawn of Egyptian history, and is frequently used in
 various forms of decorated art. It was symbolical of union and stability
 of affection, and was worn to strengthen love and friendship and ensure
@@ -651,9 +651,9 @@ From the pyramid texts it seems there were two stages of ascent to the
 upper paradise, represented by two ladders, one being the ladder of Sut,
 forming the ladder of ascent from the land of darkness, and the other
 the ladder of Horus reaching the land of light (Illustration No. 39,
-Plate [III](#img_III)).
+Plate [III](#img_III).md).
 
-'The *Steps* (Illustrations Nos. 40, 41, Plate [III](#img_III)) are a
+'The *Steps* (Illustrations Nos. 40, 41, Plate [III](#img_III).md) are a
 symbol of Osiris, who is described as the god
 
 <span id="page_256">p. 256</span>
@@ -661,7 +661,7 @@ symbol of Osiris, who is described as the god
 of the staircase, through whom it was hoped the deceased might reach the
 heaven world and attain everlasting bliss.
 
-The Snake's Head talisman (Illustration No. 42, Plate [III](#img_III))
+The Snake's Head talisman (Illustration No. 42, Plate [III](#img_III).md)
 was worn to protect its wearer from the attacks of Rerek, or Apep, the
 servant of Set, who was typified as a terrible serpent, which when
 killed had the power of rising in new forms and who obstructed the
@@ -684,13 +684,13 @@ folk at the present day there is a popular belief that a serpent will
 not die until the sun goes down.
 
 The *Sun's Disk* talismans (Illustrations No. 43, 45, Plate
-[IV](#img_IV)) are symbols of the god Ra, No. 45 being appropriately
+[IV](#img_IV).md) are symbols of the god Ra, No. 45 being appropriately
 placed upon the head of a ram, the symbol of the zodiacal house Aries,
 in which sign the sun is exalted. It was worn for power and renown, and
 to obtain the favors of the great ones, being also an emblem of new
 birth and resurrection.
 
-The *Frog* talisman (Illustration No. 44, Plate [IV](#img_IV)) was
+The *Frog* talisman (Illustration No. 44, Plate [IV](#img_IV).md) was
 highly esteemed, and is an attribute of Isis, being worn to attract her
 favors and for fruitfulness. Because of its fertility its hieroglyphic
 meaning was an immense number. It was also used as a symbol of Ptah, as
@@ -699,12 +699,12 @@ it typified strength from weakness, and was worn for recovery from
 disease, also for health and long life, taking the place sometimes of
 the Crux Ansata or Ankh, as a symbol of life.
 
-The *Pillow* (Illustration No. 46, Plate [IV](#img_IV)) was used for
+The *Pillow* (Illustration No. 46, Plate [IV](#img_IV).md) was used for
 preservation from sickness and against pain and suffering; it was also
 worn for the favor of Horns, and was placed with the dead as a
 protection and to prevent violation of the tomb.
 
-The *Lotus* (Illustrations No. 47, 48, Plate [IV](#img_IV))
+The *Lotus* (Illustrations No. 47, 48, Plate [IV](#img_IV).md)
 
 <span id="page_258">p. 258</span>
 
@@ -716,13 +716,13 @@ who is sometimes alluded to as "the white virgin." It became typical of
 virginity and purity, and having the double virtue of chastity and
 fecundity it was alike prized for maiden- and motherhood.
 
-The *Fish* talisman (Illustrations Nos. 49, 50, Plate [IV](#img_IV)) is
+The *Fish* talisman (Illustrations Nos. 49, 50, Plate [IV](#img_IV).md) is
 a symbol of Hathor--who controlled the rising of the Nile--as well as an
 amulet under the influence of Isis and Horus. It typified the primeval
 creative principle and was worn for domestic felicity, abundance, and
 general prosperity.
 
-The *Vulture* talisman (Illustration No. 51, Plate [IV](#img_IV)) was
+The *Vulture* talisman (Illustration No. 51, Plate [IV](#img_IV).md) was
 worn to protect from the bites of scorpions, and to attract motherly
 love and protection of Isis, who, it was believed, assumed the form of a
 vulture when searching for her son Horus, who, in her absence, had been
@@ -789,7 +789,7 @@ The Almighty was known as Abraxas, which signifies in Coptic "the
 Blessed Name," and was symbolized by a figure, the head of which is that
 of a cock, the body that of a man, with serpents forming the legs; in
 his right hand he holds a whip, and on his left arm is a shield. This
-talisman (see Illustrations Nos. 55, 56, Plate [IV](#img_IV)) is a
+talisman (see Illustrations Nos. 55, 56, Plate [IV](#img_IV).md) is a
 combination of the five emanations mentioned above: *Nous* and *Logos*
 are expressed by the two serpents, symbols
 
@@ -805,18 +805,18 @@ when engraved on stones as talismans; also in magical symbols derived
 principally from the Kabala.
 
 One of the most popular inscriptions was *Iaw* (Jehovah), and in
-Illustration No. 52, Plate [IV](#img_IV), this is shown surrounded by
+Illustration No. 52, Plate [IV](#img_IV.md), this is shown surrounded by
 the serpent *Khnoubis*, taken from the Egyptian philosophy, representing
 the creative principles, and was worn for vitality, understanding, and
 protection. The seven Greek vowels (Illustration No. 53, Plate
-[IV](#img_IV)) symbolized the seven heavens, or planets, whose harmony
+[IV](#img_IV).md) symbolized the seven heavens, or planets, whose harmony
 keeps the universe in existence, each vowel having seven different
 methods of expression corresponding with a certain force, the correct
 utterance of these letters and comprehension of the forces typified
 being believed to confer supreme power, bringing success in all
 enterprises and giving complete control over all the powers of darkness.
 
-Illustration No. 54, Plate [IV](#img_IV), is an example of
+Illustration No. 54, Plate [IV](#img_IV.md), is an example of
 
 <span id="page_262">p. 262</span>
 
@@ -845,9 +845,9 @@ qualities mentioned in the previous chapter.
 
 ### Footnotes
 
-<span id="fn_50"></span>[231:1](woe08.htm#fr_50) "Etudes de Mythologie
+<span id="fn_50"></span>[231:1](woe08.htm#fr_50.md) "Etudes de Mythologie
 et d'Archéologie Egyptienne;" Paris, 1893.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: The Vision of Hermes](woe09)
+[Next: Chapter VII: The Vision of Hermes](woe09.md)

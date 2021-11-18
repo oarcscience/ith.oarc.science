@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm13)  [Next](pnm15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm13)  [Next](pnm15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -110,4 +110,4 @@ that can restore and preserve us.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. Of the Wonderful Natures of Water, Air and
-Winds](pnm15)
+Winds](pnm15.md)

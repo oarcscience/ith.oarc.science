@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](hec33)  [Next](hec35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](hec33)  [Next](hec35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Eastern Church*, by J.M. Neale, \[1884\], at Intangible
 Textual Heritage
 
@@ -60,4 +60,4 @@ Seer." (p. 98.)</span>
 
 ------------------------------------------------------------------------
 
-[Next: S. Thomas's Sunday, Ode V](hec35)
+[Next: S. Thomas's Sunday, Ode V](hec35.md)

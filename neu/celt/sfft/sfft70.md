@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft69)  [Next](sfft71) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft69)  [Next](sfft71.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE FARMER'S WIFE OF DELORAINE. <span id="fr_108"></span>[2](#fn_108)
+### THE FARMER'S WIFE OF DELORAINE. <span id="fr_108"></span>[2](#fn_108.md)
 
 WITCHCRAFT is not named in the next story, but we can scarcely be wrong
 in assuming it to be the agent at work in it. We must premise that it
@@ -65,9 +65,9 @@ and kale.
 
 ### Footnotes
 
-<span id="fn_108"></span>[232:2](sfft70.htm#fr_108) W. Henderson,
+<span id="fn_108"></span>[232:2](sfft70.htm#fr_108.md) W. Henderson,
 *Folk-Lore of the Northern Counties*.
 
 ------------------------------------------------------------------------
 
-[Next: Laird Harry Gilles](sfft71)
+[Next: Laird Harry Gilles](sfft71.md)

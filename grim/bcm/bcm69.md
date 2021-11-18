@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm68)  [Next](bcm70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm68)  [Next](bcm70.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ of St. Catherine, and by all the Saints.
 
 ------------------------------------------------------------------------
 
-[Next: Conjurations For Each Day of the Week](bcm70)
+[Next: Conjurations For Each Day of the Week](bcm70.md)

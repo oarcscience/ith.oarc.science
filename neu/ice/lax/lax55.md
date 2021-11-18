@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Icelandic](../index)  [Index](index) 
-[Previous](lax54)  [Next](lax56) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Icelandic](../index)  [Index](index.md) 
+[Previous](lax54)  [Next](lax56.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -131,4 +131,4 @@ talking with them for a while, and then she turned back.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LVI: Bolli Bollison is born, A.D. 1006-7](lax56)
+[Next: Chapter LVI: Bolli Bollison is born, A.D. 1006-7](lax56.md)

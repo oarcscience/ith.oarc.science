@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj39)  [Next](atfj41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj39)  [Next](atfj41.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_44"></span> <span align="CENTER"> [![44. Mamikiko Tastes
 the White Sake](tn/44.jpg)  
-Click to enlarge](img/44.jpg)  
+Click to enlarge](img/44.jpg.md)  
 44. Mamikiko Tastes the White Sake  
 </span>
 
@@ -186,6 +186,6 @@ living beyond my fifty-fifth year.
 
 ------------------------------------------------------------------------
 
-[Next: XXXIX. The Blind Beauty](atfj41)
+[Next: XXXIX. The Blind Beauty](atfj41.md)
 
 </div>

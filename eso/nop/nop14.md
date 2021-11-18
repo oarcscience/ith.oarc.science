@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](nop13)  [Next](nop15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](nop13)  [Next](nop15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Numbers, Their Occult Power and Mystic Virtues*, by W. Wynn Westcott,
 \[1911\], at Intangible Textual Heritage
 
@@ -366,7 +366,7 @@ Our physical senses known as 5, are an incomplete set, there are indeed
 7 forms or modes of perception, as appears in the highest developments
 of the "Chabrat zereh aur bokher," and as described in the oldest
 Sanskrit occult science of the Upanishads:—smell, taste, sight, touch,
-hearing—and 6th, Mental [perception](errata.htm#0), with 7th, spiritual
+hearing—and 6th, Mental [perception](errata.htm#0.md), with 7th, spiritual
 understanding: the two latter were not dwarfed and materialized into
 noticeable organs in this fifth Race of beings, to which Man now
 belongs. For a fuller explanation see the "Secret Doctrine" of H. P.
@@ -638,6 +638,6 @@ volume of the "Secret Doctrine" was published in 1897, after her death.
 
 ------------------------------------------------------------------------
 
-[Next: The Ogdoad. 8.](nop15)
+[Next: The Ogdoad. 8.](nop15.md)
 
 </div>

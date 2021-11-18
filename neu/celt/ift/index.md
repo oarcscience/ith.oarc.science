@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,13 +21,13 @@ Legends](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](ift00)  
-[The Story of Tuan Mac Cairill](ift01)  
-[The Boyhood of Fionn](ift02)  
-[The Birth of Bran](ift03)  
-[Oisin's Mother](ift04)  
-[The Wooing of Becfola](ift05)  
-[The Little Brawl at Allen](ift06)  
-[The Carl of the Drab Coat](ift07)  
-[The Enchanted Cave of Cesh Corran](ift08)  
-[Mongan's Frenzy](ift09)  
+[Title Page](ift00.md)  
+[The Story of Tuan Mac Cairill](ift01.md)  
+[The Boyhood of Fionn](ift02.md)  
+[The Birth of Bran](ift03.md)  
+[Oisin's Mother](ift04.md)  
+[The Wooing of Becfola](ift05.md)  
+[The Little Brawl at Allen](ift06.md)  
+[The Carl of the Drab Coat](ift07.md)  
+[The Enchanted Cave of Cesh Corran](ift08.md)  
+[Mongan's Frenzy](ift09.md)  

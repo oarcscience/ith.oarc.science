@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg74)  [Next](cdg76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg74)  [Next](cdg76.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,9 +21,9 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
 
 "And now I know this mystery, that sinners will alter and pervert the
 words of righteousness in many ways, and will speak wicked words, and
-lie, and practise great deceits, <span id="fr_224"></span>[\*](#fn_224)
+lie, and practise great deceits, <span id="fr_224"></span>[\*](#fn_224.md)
 and write books concerning their words. <span
-id="fr_225"></span>[†](#fn_225)
+id="fr_225"></span>[†](#fn_225.md)
 
 But when they write down truthfully all my words in their languages, and
 do not change or minish ought from my words but write them all down
@@ -42,7 +42,7 @@ guides, and a recompense over the whole earth.
 
 For I and My Son will be united with them for ever in the paths of
 uprightness in their lives; and ye shall have peace: rejoice, ye
-children of uprightness. <span id="fr_226"></span>[‡](#fn_226) Amen."
+children of uprightness. <span id="fr_226"></span>[‡](#fn_226.md) Amen."
 <span class="small">R. H. CHARLES, D.LITT., D.D., TRANSLATION OF THE
 BOOK OF ENOCH, CHAPTERS civ, 10-13, cv.</span>
 
@@ -50,16 +50,16 @@ BOOK OF ENOCH, CHAPTERS civ, 10-13, cv.</span>
 
 ### Footnotes
 
-<span id="fn_224"></span>[317:\*](cdg75.htm#fr_224) "*Create a great
+<span id="fn_224"></span>[317:\*](cdg75.htm#fr_224.md) "*Create a great
 creation*."
 
-<span id="fn_225"></span>[317:†](cdg75.htm#fr_225) "*And compose books
+<span id="fn_225"></span>[317:†](cdg75.htm#fr_225.md) "*And compose books
 in their own words*."
 
-<span id="fn_226"></span>[317:‡](cdg75.htm#fr_226) "*Rejoice, children
+<span id="fn_226"></span>[317:‡](cdg75.htm#fr_226.md) "*Rejoice, children
 of integrity, in the truth*."
 
 ------------------------------------------------------------------------
 
 [Next: Fourth Prophecy. Micah's Prophecy of World Peace and Freedom of
-Religion](cdg76)
+Religion](cdg76.md)

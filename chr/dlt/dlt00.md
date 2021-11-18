@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Next](dlt01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Next](dlt01.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](dlt01)
+[Next: Contents](dlt01.md)

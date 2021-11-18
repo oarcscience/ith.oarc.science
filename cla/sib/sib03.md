@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib02)  [Next](sib04) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib02)  [Next](sib04.md) 
 
 ------------------------------------------------------------------------
 
@@ -772,4 +772,4 @@ Each other, in their breasts receiving wrath
 
 ------------------------------------------------------------------------
 
-[Next: Book II.](sib04)
+[Next: Book II.](sib04.md)

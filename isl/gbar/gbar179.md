@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar178) [Next](gbar180)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar178) [Next](gbar180.md)
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ one answered: 'So be it, Lord.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar180)
+[Next](gbar180.md)

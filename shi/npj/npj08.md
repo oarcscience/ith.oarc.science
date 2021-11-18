@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj07) 
-[Next](npj09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj07.md) 
+[Next](npj09.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,13 +58,13 @@ Homeward, for it is dusk.
 
 REAPERS (*together*).
 
-Short is the way that leads <span id="fr_10"></span>[1](#fn_10)  
+Short is the way that leads <span id="fr_10"></span>[1](#fn_10.md)  
 From the sea of Suma back to my home.  
 This little journey, up to the hill  
 And down to the shore again, and up to the hill,--  
 This is my life, and the sum of hateful tasks.  
 If one should ask me  
-I too <span id="fr_11"></span>[2](#fn_11) would answer  
+I too <span id="fr_11"></span>[2](#fn_11.md) would answer  
 That on the shores of Suma  
 I live in sadness.  
 Yet if any guessed my name,  
@@ -253,7 +253,7 @@ And that my prayers should save you . . .
 ATSUMORI.
 
 This too must spring <span id="page_41">p. 41</span>  
-From kindness of a former life. <span id="fr_12"></span>[1](#fn_12)
+From kindness of a former life. <span id="fr_12"></span>[1](#fn_12.md)
 
 PRIEST.
 
@@ -282,7 +282,7 @@ is still dark.
 
 CHORUS.
 
-He <span id="fr_13"></span>[2](#fn_13) bids the flowers of Spring  
+He <span id="fr_13"></span>[2](#fn_13.md) bids the flowers of Spring  
 Mount the tree-top that men may raise their eyes  
 And walk on upward paths;  
 He bids the moon in autumn waves be drowned  
@@ -298,7 +298,7 @@ CHORUS.
 
 Yet their prosperity lasted but for a day;  
 It was like the flower of the convolvulus.  
-There was none to tell them <span id="fr_14"></span>[3](#fn_14) <span
+There was none to tell them <span id="fr_14"></span>[3](#fn_14.md) <span
 id="page_42">p. 42</span>
 
 That glory flashes like sparks from flint-stone,  
@@ -312,7 +312,7 @@ When they were rich they were reckless in pride.
 And so for twenty years and more  
 They ruled this land.  
 But truly a generation passes like the space of a dream.  
-The leaves of the autumn of Juyei <span id="fr_15"></span>[1](#fn_15)  
+The leaves of the autumn of Juyei <span id="fr_15"></span>[1](#fn_15.md)  
 Were tossed by the four winds;  
 Scattered, scattered (like leaves too) floated their ships.  
 And they, asleep on the heaving sea, not even in dream  
@@ -323,7 +323,7 @@ As they fly to southward on their doubtful journey.
 So days and months went by; Spring came again  
 And for a little while  
 Here dwelt they on the shore of Suma  
-At the first valley. <span id="fr_16"></span>[2](#fn_16)  
+At the first valley. <span id="fr_16"></span>[2](#fn_16.md)  
 From the mountain behind us the winds blew down  
 Till the fields grew wintry again.  
 Our ships lay by the shore, where night and day  
@@ -333,7 +333,7 @@ On pillows of sand.
 We knew none but the people of Suma.  
 And when among the pine-trees  
 The evening smoke was rising,  
-Brushwood, as they call it, <span id="fr_17"></span>[3](#fn_17)  
+Brushwood, as they call it, <span id="fr_17"></span>[3](#fn_17.md)  
 Brushwood we gathered  
 And spread for carpet.  
 Sorrowful we lived  
@@ -387,7 +387,7 @@ First comes the Royal Boat.
 CHORUS.
 
 The whole clan has put its boats to sea.  
-He <span id="fr_18"></span>[1](#fn_18) will not be left behind;  
+He <span id="fr_18"></span>[1](#fn_18.md) will not be left behind;  
 He runs to the shore.  
 But the Royal Boat and the soldiers' boats  
 Have sailed far away.
@@ -428,33 +428,33 @@ Pray for me again, oh pray for me again."
 
 ### Footnotes
 
-<span id="fn_10"></span>[37:1](npj08.htm#fr_10) See [p.
-224](npj40.htm#page_224).
+<span id="fn_10"></span>[37:1](npj08.htm#fr_10.md) See [p.
+224](npj40.htm#page_224.md).
 
-<span id="fn_11"></span>[37:2](npj08.htm#fr_11) like Yukihira; see [p.
-225](npj40.htm#page_225).
+<span id="fn_11"></span>[37:2](npj08.htm#fr_11.md) like Yukihira; see [p.
+225](npj40.htm#page_225.md).
 
-<span id="fn_12"></span>[41:1](npj08.htm#fr_12) Atsumori must have done
+<span id="fn_12"></span>[41:1](npj08.htm#fr_12.md) Atsumori must have done
 Kumagai some kindness in a former incarnation. This would account for
 Kumagai's remorse.
 
-<span id="fn_13"></span>[41:2](npj08.htm#fr_13) Buddha.
+<span id="fn_13"></span>[41:2](npj08.htm#fr_13.md) Buddha.
 
-<span id="fn_14"></span>[41:3](npj08.htm#fr_14) I have omitted a line
+<span id="fn_14"></span>[41:3](npj08.htm#fr_14.md) I have omitted a line
 the force of which depends upon a play on words.
 
-<span id="fn_15"></span>[42:1](npj08.htm#fr_15) The Taira evacuated the
+<span id="fn_15"></span>[42:1](npj08.htm#fr_15.md) The Taira evacuated the
 Capital in the second year of Juyei, 1188.
 
-<span id="fn_16"></span>[42:2](npj08.htm#fr_16) Ichi no-Tani means
+<span id="fn_16"></span>[42:2](npj08.htm#fr_16.md) Ichi no-Tani means
 "First Valley."
 
-<span id="fn_17"></span>[42:3](npj08.htm#fr_17) The name of so humble a
+<span id="fn_17"></span>[42:3](npj08.htm#fr_17.md) The name of so humble a
 thing was unfamiliar to the Taira lords.
 
-<span id="fn_18"></span>[43:1](npj08.htm#fr_18) Atsumori. This passage
+<span id="fn_18"></span>[43:1](npj08.htm#fr_18.md) Atsumori. This passage
 is mimed throughout.
 
 ------------------------------------------------------------------------
 
-[Next: Ikuta](npj09)
+[Next: Ikuta](npj09.md)

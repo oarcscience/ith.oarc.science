@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ihas05)  [Next](ihas07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ihas05)  [Next](ihas07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Initiation, Human and Solar*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -259,4 +259,4 @@ responsibility of ascertaining for himself their falsity or truth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Founding of the Hierarchy](ihas07)
+[Next: Chapter IV. The Founding of the Hierarchy](ihas07.md)

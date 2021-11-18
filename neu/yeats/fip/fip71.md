@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip70)  [Next](fip72) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip70)  [Next](fip72.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
 
 # Kings, Queens, Princesses, Earls, Robbers
 
-### THE TWELVE WILD GEESE. <span id="fr_64"></span>[1](#fn_64)
+### THE TWELVE WILD GEESE. <span id="fr_64"></span>[1](#fn_64.md)
 
 PATRICK KENNEDY.
 
@@ -225,9 +225,9 @@ horses, they richly deserved it.
 
 ### Footnotes
 
-<span id="fn_64"></span>[280:1](fip71.htm#fr_64) *The Fireside Stories
+<span id="fn_64"></span>[280:1](fip71.htm#fr_64.md) *The Fireside Stories
 of Ireland* (Gill & Sons, Dublin).
 
 ------------------------------------------------------------------------
 
-[Next: The Lazy Beauty and Her Aunts, by Patrick Kennedy](fip72)
+[Next: The Lazy Beauty and Her Aunts, by Patrick Kennedy](fip72.md)

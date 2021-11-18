@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg65)  [Next](btg67) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg65)  [Next](btg67.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ little by little, must the minds of men be trained for higher truths.
 
 ------------------------------------------------------------------------
 
-[Next: The Giddy Fish](btg67)
+[Next: The Giddy Fish](btg67.md)

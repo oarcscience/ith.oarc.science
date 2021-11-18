@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov12)  [Next](hlov14) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov12)  [Next](hlov14.md) 
 
 ------------------------------------------------------------------------
 
@@ -278,4 +278,4 @@ himself.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Pele and the Snow-Goddess](hlov14)
+[Next: IX. Pele and the Snow-Goddess](hlov14.md)

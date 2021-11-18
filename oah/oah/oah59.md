@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah58)  [Next](oah60) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah58)  [Next](oah60.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ Jehovih's sons and daughters in the high heavens draweth near.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](oah60)
+[Next: Chapter III](oah60.md)

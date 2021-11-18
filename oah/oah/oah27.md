@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah26)  [Next](oah28) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah26)  [Next](oah28.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ the vessel of fire sped over the water, high above the clouds that cover
 the ocean. Onward to the west, bleak and desolate, through the spirit
 sea, unseen by mortals. On the far-off borders where the lands come to
 the waters' <span id="page_30">p. 30</span> edge, the Lord of the land
-of Thouri <span id="fr_6"></span>[\*](#fn_6) stood, stationed in a ship,
+of Thouri <span id="fr_6"></span>[\*](#fn_6.md) stood, stationed in a ship,
 to welcome God to the great west lands.
 
 3\. And this was the land called by the angels in aftertime North
@@ -102,8 +102,8 @@ announcing the time of his coming. And he then set sail therefor.
 
 ### Footnotes
 
-<span id="fn_6"></span>[30:\*](oah27.htm#fr_6) America
+<span id="fn_6"></span>[30:\*](oah27.htm#fr_6.md) America
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](oah28)
+[Next: Chapter XII](oah28.md)

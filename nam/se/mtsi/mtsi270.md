@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi269)  [Next](mtsi271) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi269)  [Next](mtsi271.md) 
 
 ------------------------------------------------------------------------
 
@@ -209,22 +209,22 @@ back."
 After their father had started off the larger boy began thinking over
 what had happened, and he made something to follow his father. This is
 called wå'gu~~l~~ (in Natchez), and it was round and flat. <span
-id="fr_72"></span>[1](#fn_71) When he had made it he threw it after his
+id="fr_72"></span>[1](#fn_71.md) When he had made it he threw it after his
 father and said, "What is father saying?" The thing followed their
 father and when it had overtaken him struck him first on the heel and
 then on the knee. He looked around in surprise, stood still for a time,
 and then went back to his boys, and said, "I am sorry for you, but you
 have wasted what we had to live on. We can not live any more on that,
-and we will go westward." <span id="fr_73"></span>[2](#fn_72)
+and we will go westward." <span id="fr_73"></span>[2](#fn_72.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_71"></span>[226:1](mtsi270.htm#fr_72) It was evidently a
+<span id="fn_71"></span>[226:1](mtsi270.htm#fr_72.md) It was evidently a
 chunk stone.
 
-<span id="fn_72"></span>[226:2](mtsi270.htm#fr_73) Creek Sam, the father
+<span id="fn_72"></span>[226:2](mtsi270.htm#fr_73.md) Creek Sam, the father
 of my informant, interpreted this to mean that the Natchez had been
 obliged to migrate westward to the place they now occupy, but that as
 some animals were left in the mountain some hope was still left for the
@@ -232,4 +232,4 @@ Natchez.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Lodge Boy and Thrown-Away](mtsi271)
+[Next: 6. Lodge Boy and Thrown-Away](mtsi271.md)

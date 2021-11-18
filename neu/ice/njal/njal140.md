@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal139)  [Next](njal141) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal139)  [Next](njal141.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,4 +129,4 @@ suits.
 
 ------------------------------------------------------------------------
 
-[Next: 141. Now Men Go To The Courts](njal141)
+[Next: 141. Now Men Go To The Courts](njal141.md)

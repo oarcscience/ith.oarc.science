@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](ktl03)  [Next](ktl05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](ktl03)  [Next](ktl05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Keep a True Lent*, by Charles Fillmore, \[1953\], at Intangible Textual
 Heritage
 
@@ -154,4 +154,4 @@ joined, and the Son of God will be revealed in you.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](ktl05)
+[Next: Chapter 3](ktl05.md)

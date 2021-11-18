@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index) 
-[Siberian](../../../asia/index.htm#siberia) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index.md) 
+[Siberian](../../../asia/index.htm#siberia.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,8 +28,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](eos00)    [Page
-Index](pageidx)    [Text \[Zipped\]](eos.txt.gz)
+[Contents](#contents)    [Start Reading](eos00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](eos.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ Index](pageidx)    [Text \[Zipped\]](eos.txt.gz)
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
 This book is part of the same series (*The Jessup North Pacific
-Expedition*) as [*Chukchee Mythology*](../../../asia/cm/index), which
+Expedition*) as [*Chukchee Mythology*](../../../asia/cm/index.md), which
 was posted earlier at Intangible Textual Heritage. All of the notes on
 that index page apply to this text as well. Also, Part III — Text is not
 presented here as it is printed in the original language with only
@@ -46,30 +46,30 @@ interlinear translation. This amounts to about 3pp. of deleted material.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](eos00)  
-[CONTENTS.](eos01)  
+<span id="contents"></span> [Title Page](eos00.md)  
+[CONTENTS.](eos01.md)  
 <span id="section_000"></span>
 
 ### I. Folk-Tales
 
-[1. The Dead Bride.](eos02)  
-[2. The Carrier of Seaweed.](eos03)  
-[3. The One without Arms.](eos04)  
-[4. The Girl who watched in the Night-Time.](eos05)  
-[5. Creation of the World.](eos06)  
-[6. The Girl in the Iron Box.](eos07)  
-[7. The Eagle-Boy.](eos08)  
-[8. The Old Woman and the Wild Beasts.](eos09)  
-[9. The Brothers held Captive on an Island.](eos10)  
-[10. The Man who used Magic against the Storm.](eos11)  
-[11. The Hare frees the Sun.](eos12)  
-[12. Raven swallows Blubber.](eos13)  
-[13. The Woman and the Doer of Violence.](eos14)  
-[14. Creation of St. Lawrence Island.](eos15)  
-[15. The Contest between the Giant and the Plover.](eos16)  
-[16. The Shaman A´bla.](eos17)  
+[1. The Dead Bride.](eos02.md)  
+[2. The Carrier of Seaweed.](eos03.md)  
+[3. The One without Arms.](eos04.md)  
+[4. The Girl who watched in the Night-Time.](eos05.md)  
+[5. Creation of the World.](eos06.md)  
+[6. The Girl in the Iron Box.](eos07.md)  
+[7. The Eagle-Boy.](eos08.md)  
+[8. The Old Woman and the Wild Beasts.](eos09.md)  
+[9. The Brothers held Captive on an Island.](eos10.md)  
+[10. The Man who used Magic against the Storm.](eos11.md)  
+[11. The Hare frees the Sun.](eos12.md)  
+[12. Raven swallows Blubber.](eos13.md)  
+[13. The Woman and the Doer of Violence.](eos14.md)  
+[14. Creation of St. Lawrence Island.](eos15.md)  
+[15. The Contest between the Giant and the Plover.](eos16.md)  
+[16. The Shaman A´bla.](eos17.md)  
 
  
 
-[II. — SONGS.](eos18)  
-[NOTE.](eos19)  
+[II. — SONGS.](eos18.md)  
+[NOTE.](eos19.md)  

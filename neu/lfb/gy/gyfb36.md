@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb35)  [Next](gyfb37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb35)  [Next](gyfb37.md) 
 
 </div>
 
@@ -402,6 +402,6 @@ went away to seek their fortunes, and for all I know are seeking still.
 
 ------------------------------------------------------------------------
 
-[Next: Prunella](gyfb37)
+[Next: Prunella](gyfb37.md)
 
 </div>

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](tmc07) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](tmc07.md) 
 
 ------------------------------------------------------------------------
 

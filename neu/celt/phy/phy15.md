@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy14)  [Next](phy16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy14)  [Next](phy16.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 |                     |
 |---------------------|
-| ![E](img/07701.jpg) |
+| ![E](img/07701.jpg.md) |
 
 AOCH'S extraordinary execution, with the particulars of King Olave's
 steadfast courage and escape, soon became the topic of conversation far
@@ -114,4 +114,4 @@ the smithy at Drontheim before the king.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](phy16)
+[Next: Chapter IV](phy16.md)

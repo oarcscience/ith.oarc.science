@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas_02)  [Next](jas001) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas_02)  [Next](jas001.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,4 +7,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: 1. Tying Tiger.](jas001)
+[Next: 1. Tying Tiger.](jas001.md)

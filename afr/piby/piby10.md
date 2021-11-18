@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby09)  [Next](piby11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby09)  [Next](piby11.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ their reward in the kingdom of heaven.
 
 Blessed are those who seek the Lord and by actual work prove to the
 nations that they have found him; for the power of God shall be as two
-kings feeling [in](errata.htm#2) darkness for an electric switch and he
+kings feeling [in](errata.htm#2.md) darkness for an electric switch and he
 that found it immediately there was light throughout his palace and all
 the people rejoiced because of its splendor, but in the palace of him
 that found it not, there was no light, therefore his people wandered and
@@ -121,4 +121,4 @@ shall enjoy the fruits of their colleges.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6. Solemnity Feast](piby11)
+[Next: Chapter 6. Solemnity Feast](piby11.md)

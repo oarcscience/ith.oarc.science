@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist070) 
-[Next](hist072) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist070.md) 
+[Next](hist072.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ the priest, in whose case and through whom the same was wrought.
 ------------------------------------------------------------------------
 
 [Next: XVI. How the same Aidan, by his prayers, saved the royal city
-when it was fired by the enemy. \[Before 651 A.D.\]](hist072)
+when it was fired by the enemy. \[Before 651 A.D.\]](hist072.md)

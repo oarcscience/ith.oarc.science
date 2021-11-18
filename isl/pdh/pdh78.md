@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](pdh77)  [Next](pdh79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](pdh77)  [Next](pdh79.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ stones, see Note to Stanza 3 of poem XXXIII.
 
 ------------------------------------------------------------------------
 
-[Next: XLIII](pdh79)
+[Next: XLIII](pdh79.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp51)  [Next](dmp53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp51)  [Next](dmp53.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ papyrus).
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XXI](dmp53)
+[Next: Verso Col. XXI](dmp53.md)

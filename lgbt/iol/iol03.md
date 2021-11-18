@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](iol02) 
-[Next](iol04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](iol02.md) 
+[Next](iol04.md) 
 
 ------------------------------------------------------------------------
 
@@ -637,7 +637,7 @@ best attack him. He also gave an oracular saying concerning Chariton. .
 
 'Blessed indeed was Chariton and Melanippus,  
 Pioneers of Godhead, and of mortals the one most <span
-id="fr_0"></span>[1](#fn_0) beloved.'"
+id="fr_0"></span>[1](#fn_0.md) beloved.'"
 
 Epaminondas, the great Theban general and statesman, so we are told by
 the same author, had
@@ -728,7 +728,7 @@ of the
 tyranny. Meanwhile Hipparchus made another attempt; he had no better
 success, and thereupon he determined, not indeed to take any violent
 step, but to insult Harmodius in some underhand manner, so that his
-motive could not be suspected. <span id="fr_1"></span>[1](#fn_1) ...
+motive could not be suspected. <span id="fr_1"></span>[1](#fn_1.md) ...
 
 "When Hipparchus found his advances repelled by Harmodius he carried out
 his intention of insulting him. There was a young sister of his whom
@@ -817,7 +817,7 @@ so faithful a friendship towards each other, that when Dionysius of
 Syracuse intended to execute one of them, and he had obtained permission
 from the tyrant to return home and arrange his affairs before his death,
 the other did not hesitate to give himself up as a pledge of his
-friend's return. <span id="fr_2"></span>[1](#fn_2) He whose neck had
+friend's return. <span id="fr_2"></span>[1](#fn_2.md) He whose neck had
 been in danger was now free; and he who might have lived in safety was
 now in danger of death. So everybody, and especially Dionysius, were
 wondering what would be the upshot of this novel and dubious affair. At
@@ -846,16 +846,16 @@ hearts of men as it were the shrines consecrated by some holy spirit."
 
 ### Footnotes
 
-<span id="fn_0"></span>[26:1](iol03.htm#fr_0) This curious oracle seems
+<span id="fn_0"></span>[26:1](iol03.htm#fr_0.md) This curious oracle seems
 purposely to confuse the singular and plural.
 
-<span id="fn_1"></span>[30:1](iol03.htm#fr_1) Digression in praise of
+<span id="fn_1"></span>[30:1](iol03.htm#fr_1.md) Digression in praise of
 the political administration of the Pisistratidæ.
 
-<span id="fn_2"></span>[33:1](iol03.htm#fr_2) "For the two men lived
+<span id="fn_2"></span>[33:1](iol03.htm#fr_2.md) "For the two men lived
 together, and had their possessions in common." *Iamblichus, de Vita
 Pythagoræ* bk. i. ch. 33.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Place of Friendship in Greek Life and Thought](iol04)
+[Next: II. The Place of Friendship in Greek Life and Thought](iol04.md)

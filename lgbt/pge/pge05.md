@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge04) 
-[Next](pge06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge04.md) 
+[Next](pge06.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,15 +37,15 @@ friendship. Even Æschines, in the place above quoted, lays stress upon
 the mutual loyalty of Achilles and Patroclus as the strongest bond of
 their affection: "regarding, I suppose, their loyalty and mutual
 goodwill as the most touching feature of their love." <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](pge05.htm#fr_0) Compare the fine rhetorical
+<span id="fn_0"></span>[3:1](pge05.htm#fr_0.md) Compare the fine rhetorical
 passage in Max. Tyr., *Dissert*., xxiv. 8, ed. Didot, 1842.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The heroic ideal of masculine love](pge06)
+[Next: IV. The heroic ideal of masculine love](pge06.md)

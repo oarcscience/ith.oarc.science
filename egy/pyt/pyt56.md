@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt55)  [Next](pyt57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt55)  [Next](pyt57.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ with a salutation.
 
 ------------------------------------------------------------------------
 
-[Next: 54. Texts of Miscellaneous Contents, Utterances 677-683](pyt57)
+[Next: 54. Texts of Miscellaneous Contents, Utterances 677-683](pyt57.md)

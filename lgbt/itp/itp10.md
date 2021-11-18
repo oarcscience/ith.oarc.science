@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](itp09)  [Next](itp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](itp09)  [Next](itp11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ the Doric race, to find that in this matter of love between an elder
 warrior and a younger it was not the epithet καλός which was the coveted
 one, but ἀγαθός--not to be "beautiful" or "handsome," but to be
 "worthy," "brave," "efficient." This last was the decisive thing. <span
-id="fr_77"></span>[1](#fn_77) The Athenian and other peoples, with
+id="fr_77"></span>[1](#fn_77.md) The Athenian and other peoples, with
 greater refinement and artistic sense, might worship beauty and indulge
 in a kind of luxurious contemplation of it; καλὸς ὁ πᾶις, "fair, fair is
 the youth," is their constant refrain in epigram and inscription; but to
@@ -99,7 +99,7 @@ throws disgrace especially on his lovers when he is discovered in any
 dishonour."
 
 J. Addington Symonds has a very interesting essay, <span
-id="fr_78"></span>[1](#fn_78) in which he compares the love-ideal of
+id="fr_78"></span>[1](#fn_78.md) in which he compares the love-ideal of
 mediæval and feudal Europe with that of ancient Greece. Both loves
 became recognised and accepted institutions, and both had the same
 social purpose, namely the formation of the perfect knight-the
@@ -134,7 +134,7 @@ Thus it was largely for the purpose of spreading
 a high standard of public honour, bravery, and efficiency, that military
 comradeship was encouraged among the Dorians. It worked powerfully among
 the boys and youths, who aspired to become men, and especially to be
-loved by some heroic warrior; <span id="fr_79"></span>[1](#fn_79) and it
+loved by some heroic warrior; <span id="fr_79"></span>[1](#fn_79.md) and it
 had a deep influence on the men, who (referring again to the extract
 from Strabo) would be well received by the boy's relations if of good
 name and fame, but rejected if "unworthy." Remembering that the Dorian
@@ -162,7 +162,7 @@ immigration settled not only in various parts of Greece, but in the
 islands of the Ægean and in Crete. One of these islands was Thera (or
 Santorin), and it became an important centre--a holy place and resort of
 the Dorian tribes, with temples and dancing and running grounds. <span
-id="fr_80"></span>[1](#fn_80) At some early period it had been occupied
+id="fr_80"></span>[1](#fn_80.md) At some early period it had been occupied
 by the Phoenicians; but Strabo calls it "a colony of the Lacedæmonians,
 and the mother-city of the Cyrenians;" and there seems little doubt that
 it was colonised from Sparta, and that afterwards it sent out a colony
@@ -177,16 +177,16 @@ the Dorian athletic exercises
 
 <span id="page_124">p. 124</span>
 
-and dances of youths." <span id="fr_81"></span>[1](#fn_81) Less than a
+and dances of youths." <span id="fr_81"></span>[1](#fn_81.md) Less than a
 stone's throw from these, on the side of the sacred mountain itself, are
 (as Hiller found and copied) a quantity of very archaic inscriptions, at
 least as old as the 7th century, B.C., deeply chiselled in the rock (as
 it were for all time) in letters four to six inches long, and
 celebrating the names and the betrothals of comrades. <span
-id="fr_82"></span>[2](#fn_82) We are accustomed, in the modern world, to
+id="fr_82"></span>[2](#fn_82.md) We are accustomed, in the modern world, to
 see love-inscriptions on trees and even rocks, of feminine names; but
 here we have the names of youths and men. Let us give Hiller's own
-words: <span id="fr_83"></span>[3](#fn_83)--"At first we find the simple
+words: <span id="fr_83"></span>[3](#fn_83.md)--"At first we find the simple
 names, like Aglon, Maisiadas, Kikinnios, Arasimandros, Biaios,
 Euryteles, Tharres, and many another. But soon we find the same with
 additions: 'Moniadas is the first'--'Ainesis was brought up by the
@@ -216,14 +216,14 @@ Among the examples referred to are for instance 536, saying that
 Pheidippidas was united to Timagoras, or 537 (also quoted by Bethe),
 saying: "Here in these sacred precincts, with invocation of the
 Delphinian, Krimon was united to the son of Bathycles." <span
-id="fr_84"></span>[1](#fn_84) In the latter, the solemn appeal to the
+id="fr_84"></span>[1](#fn_84.md) In the latter, the solemn appeal to the
 Delphinian Apollo (ναι τον Δελπhινιον) assures us of the religious
 character of the betrothal; and others of the inscriptions contain
 similar dedications. Hiller himself says:--"Of the various lovers
 
 <span id="page_126">p. 126</span>
 
-one invokes Apollo, <span id="fr_85"></span>[1](#fn_85) another
+one invokes Apollo, <span id="fr_85"></span>[1](#fn_85.md) another
 Delphinios--that is Apollo again--as witness that he has fulfilled his
 proper duty."
 
@@ -245,7 +245,7 @@ detail, the church ceremonial
 <span id="page_127">p. 127</span>
 
 attending the brotherhood-union of two men. And Dr. p. Naecke,
-reporting <span id="fr_86"></span>[1](#fn_86) information received from
+reporting <span id="fr_86"></span>[1](#fn_86.md) information received from
 Albania, says:--"The Skipetars (North Albanians) entertain for handsome
 youths a quite enthusiastic love. Their passion and jealousy is so
 strong that even to-day sometimes a case of suicide on that account will
@@ -272,7 +272,7 @@ over to Islam because his beloved had promised, on this condition, to be
 subject to him.
 
 Here then, it would seem, at Thera there was a celebrated holy place and
-*rendezvous* of the Doric race, <span id="fr_87"></span>[1](#fn_87) and
+*rendezvous* of the Doric race, <span id="fr_87"></span>[1](#fn_87.md) and
 hither, at festival periods, crowds would come;--comrade-pairs would
 ratify their alliances in the temple-precincts, and lovers would
 inscribe the names of their beloved on the rocks.
@@ -280,7 +280,7 @@ inscribe the names of their beloved on the rocks.
 If this was the case at Thera, would there not be other places, we may
 ask, where similar ceremonies took place? And Professor Bethe, with
 great plausibility, suggests that there were. "I do not doubt," he
-says, <span id="fr_88"></span>[2](#fn_88) "that starting from the above
+says, <span id="fr_88"></span>[2](#fn_88.md) "that starting from the above
 solid evidence we can also interpret that
 
 <span id="page_129">p. 129</span>
@@ -288,7 +288,7 @@ solid evidence we can also interpret that
 custom of the Thebans which lingered still in Aristotle's time, and
 attracted his attention. 'On the grave of the hero Ioläus,' he wrote,
 'lovers and their beloved youths still pledge their troth with one
-another;' <span id="fr_89"></span>[1](#fn_89) and Plutarch adds:
+another;' <span id="fr_89"></span>[1](#fn_89.md) and Plutarch adds:
 'because Ioläus was the favorite of Heracles, and for that reason took
 part in his battles as his squire.' In Thebes no doubt at that time folk
 would be satisfied with a festal symbolical ceremony, corresponding to
@@ -381,14 +381,14 @@ watch over the influx of
 <span id="page_133">p. 133</span>
 
 the semen, and to the other gods to nourish the fœtus, etc. <span
-id="fr_90"></span>[1](#fn_90) How far all this seems from the modern
+id="fr_90"></span>[1](#fn_90.md) How far all this seems from the modern
 mind, how alien, how profane!
 
 Yet the gross details of physical union were obviously not unclean to
 the writers of this and similar passages in the Upanishads. There is
 indeed, for instance, not a little reason for thinking that many of the
 early peoples regarded the semen as the vehicle and special condensation
-of the soul. <span id="fr_91"></span>[2](#fn_91) The soul was
+of the soul. <span id="fr_91"></span>[2](#fn_91.md) The soul was
 transferred to the woman, perhaps for re-embodiment in the child,
 perhaps for union with and reinforcement of *her* soul.
 
@@ -437,7 +437,7 @@ on this very ground--of the communication of character, virtue, ἀρετή.
 For a valiant warrior *not* to have a youth attached to him as squire or
 favorite was disgraceful, or even punishable, because so the contagion
 and inheritance of his valour would be lost. <span
-id="fr_92"></span>[1](#fn_92) We have seen above, in the account of
+id="fr_92"></span>[1](#fn_92.md) We have seen above, in the account of
 Ephorus in Strabo, that the relatives would enquire most closely about
 the honour and bravery of such a lover before surrendering their boy to
 him. On the other hand, Plutarch, in his *Lycurgus* (c. 18), says:--"It
@@ -476,35 +476,35 @@ crudeness and barbarism as are certainly to be found among them.
 
 ### Footnotes
 
-<span id="fn_77"></span>[117:1](itp10.htm#fr_77) See the quotation above
+<span id="fn_77"></span>[117:1](itp10.htm#fr_77.md) See the quotation above
 (ch. v., p. 94) from Strabo: "They do not regard as an object of
 affection a youth exceedingly handsome, but him who is distinguished for
 courage and decorum (ἀνδρέιᾳ καὶ κοσμιότητι)."
 
-<span id="fn_78"></span>[120:1](itp10.htm#fr_78) *The Dantesque and
+<span id="fn_78"></span>[120:1](itp10.htm#fr_78.md) *The Dantesque and
 Platonic Ideals of Love*, in the Key of Blue (John Lane, 1893).
 
-<span id="fn_79"></span>[122:1](itp10.htm#fr_79) See Aelian 7, iii.,
+<span id="fn_79"></span>[122:1](itp10.htm#fr_79.md) See Aelian 7, iii.,
 12--who says that the Spartan boys would beg a man ἐισπνε̃ιν ἀυτο̃ις.
 
-<span id="fn_80"></span>[123:1](itp10.htm#fr_80) See *Thera*, by Hiller
+<span id="fn_80"></span>[123:1](itp10.htm#fr_80.md) See *Thera*, by Hiller
 von Gaertringen (3 vols., Berlin, 1899).
 
-<span id="fn_81"></span>[124:1](itp10.htm#fr_81) Bethe, p. 450.
+<span id="fn_81"></span>[124:1](itp10.htm#fr_81.md) Bethe, p. 450.
 
-<span id="fn_82"></span>[124:2](itp10.htm#fr_82) See for these, H. von
+<span id="fn_82"></span>[124:2](itp10.htm#fr_82.md) See for these, H. von
 Gaertringen, I. G., xii., 3, 536-601, etc.
 
-<span id="fn_83"></span>[124:3](itp10.htm#fr_83) *Thera*, vol. iii., p.
+<span id="fn_83"></span>[124:3](itp10.htm#fr_83.md) *Thera*, vol. iii., p.
 67 *et seq*.
 
-<span id="fn_84"></span>[125:1](itp10.htm#fr_84) Πhειδιππιδας ωιπhε
+<span id="fn_84"></span>[125:1](itp10.htm#fr_84.md) Πhειδιππιδας ωιπhε
 Τιμαγορας, and Ναι τον Δελπhινιον hο Κρίμων τειδε ωιπhε παιδα Βαθυκλεος.
 These inscriptions are in an archaic script which cannot exactly be
 reproduced here, but the readings given are as near as available in the
 later alphabet--a modern "h" being used for the old Greek aspirate.
 
-<span id="fn_85"></span>[126:1](itp10.htm#fr_85) With regard to this
+<span id="fn_85"></span>[126:1](itp10.htm#fr_85.md) With regard to this
 invocation of Apollo, see above, ch. i., page 27. Apollo was the special
 god of comradeship; as Delphinios he was the source of divination; as
 Karneios he links on to the Syrian Ashteroth Karnaim, the feminine
@@ -512,10 +512,10 @@ principle. Nor must it be forgotten that Thera had already been at an
 earlier date a Phœnician or Syrian colony, and that here was a point of
 contact between the Dorian and the Syrian festivals.
 
-<span id="fn_86"></span>[127:1](itp10.htm#fr_86) In the *Jahrbuch für
+<span id="fn_86"></span>[127:1](itp10.htm#fr_86.md) In the *Jahrbuch für
 Sexuelle Zwischenstufen*, vol. ix., p. 328.
 
-<span id="fn_87"></span>[128:1](itp10.htm#fr_87) Thera, in fact,
+<span id="fn_87"></span>[128:1](itp10.htm#fr_87.md) Thera, in fact,
 occupied for the Dorian Greeks much the same position as Delos did for
 the Ionians: of which Mr. H. B. Cotterill (*Ancient Greece*, p. 152)
 says, "This island, lying in the midst of the Cyclades, which offer easy
@@ -532,20 +532,20 @@ the fair-girdled women, the swift ships, and riches of every kind.'
 These festivals seem to have been accompanied by contests in music and
 poetry."
 
-<span id="fn_88"></span>[128:2](itp10.htm#fr_88) Bethe, *op. cit.* p.
+<span id="fn_88"></span>[128:2](itp10.htm#fr_88.md) Bethe, *op. cit.* p.
 450.
 
-<span id="fn_89"></span>[129:1](itp10.htm#fr_89) See Plutarch's
+<span id="fn_89"></span>[129:1](itp10.htm#fr_89.md) See Plutarch's
 *Pelopidas*, ch. xviii.
 
-<span id="fn_90"></span>[133:1](itp10.htm#fr_90) See *Love's Coming of
+<span id="fn_90"></span>[133:1](itp10.htm#fr_90.md) See *Love's Coming of
 Age*, by E. Carpenter, p. 17.
 
-<span id="fn_91"></span>[133:2](itp10.htm#fr_91) See Bethe, *op. cit.*,
+<span id="fn_91"></span>[133:2](itp10.htm#fr_91.md) See Bethe, *op. cit.*,
 p. 464 *et seq*.
 
-<span id="fn_92"></span>[135:1](itp10.htm#fr_92) See Aelian 8, iii. 10.
+<span id="fn_92"></span>[135:1](itp10.htm#fr_92.md) See Aelian 8, iii. 10.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Samurai of Japan: and their Ideal](itp11)
+[Next: Chapter VIII. The Samurai of Japan: and their Ideal](itp11.md)

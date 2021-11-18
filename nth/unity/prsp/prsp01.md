@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](prsp00)  [Next](prsp02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](prsp00)  [Next](prsp02.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Prosperity*, by Charles Fillmore, \[1936\], at Intangible Textual
 Heritage
 
@@ -111,4 +111,4 @@ supermind and the cosmic ray that automatically flows from it.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](prsp02)
+[Next: Contents](prsp02.md)

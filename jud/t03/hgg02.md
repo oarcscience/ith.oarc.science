@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](hgg01)  [Next](hgg03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](hgg01)  [Next](hgg03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ REGULATIONS CONCERNING THE HOLOCAUST, AND THE APPOINTED TIME FOR THE
 PEACE-OFFERING.
 
 MISHNA: All are bound in the case of a holocaust <span
-id="fr_0"></span>[1](#fn_0) except a deaf man, a fool, a minor, and one
+id="fr_0"></span>[1](#fn_0.md) except a deaf man, a fool, a minor, and one
 of doubtful sex (ατμητος) and one of double sex (androginos), and women
 and bondsmen, the lame, the blind, the sick, the old, and he who is not
 able to go upon his feet. What is a minor? Every one who is unable to
@@ -29,7 +29,7 @@ mountain of the Temple. So is the decree of the School of Shammai. But
 the School of Hillel say: Every one who is unable to take hold of his
 father's hand, and to go up from Jerusalem to the mountain of the
 Temple, as it is said \[Ex. xxiii. 14\], "Three times," <span
-id="fr_1"></span>[2](#fn_1) etc. The School of Shammai say: The
+id="fr_1"></span>[2](#fn_1.md) etc. The School of Shammai say: The
 holocaust involves two silver coins (one-third of a gold dinar), and the
 feast-offering one meah (one-sixth of a dinar). But the School of Hillel
 say the contrary.
@@ -92,7 +92,7 @@ in also, shook their heads, and muttered with their lips; and Rabbi
 prayed mercy for them and they were healed; and it was found that they
 were well versed on Halakha, and on the whole six sections of the
 Mishna? Said Mar Zutra: Read in the Bible: They may teach <span
-id="fr_2"></span>[1](#fn_2) (not "learn"), and who cannot speak cannot
+id="fr_2"></span>[1](#fn_2) (not "learn".md), and who cannot speak cannot
 teach. Said R. Ashi. Assuredly, it must be so, because if learning is
 meant it could be deduced from the words, "and they may hear," and he
 who cannot hear cannot learn.
@@ -133,7 +133,7 @@ He also lectured on the verse Deut. xxvi. 17. (See Berachoth.)
 
 <span class="contnote">\[paragraph continues\]</span> The same lectured
 again: It is written \[Eccl. xii. 2\]: "The words of the wise are like
-goads, and like nails planted <span id="fr_3"></span>[1](#fn_3) are the
+goads, and like nails planted <span id="fr_3"></span>[1](#fn_3.md) are the
 words of the men of the assemblies which are given by one shepherd." As
 the goad keeps the animal which ploughs (to make it straight) furrows,
 so as to produce sustenance for the world, so also the words of the Law
@@ -266,7 +266,7 @@ uncircumcised shall be equal to the unclean ones"?
 The rabbis taught: R. Johanan b. Dahabai said in the name of R. Jehudah:
 A man blind in one eye is exempt from the holocaust, because it is
 written \[Deut. xvi. 16\]: "Shall appear," <span
-id="fr_4"></span>[1](#fn_4) as if one comes to see, it is with both
+id="fr_4"></span>[1](#fn_4.md) as if one comes to see, it is with both
 eyes; so if he appears, he must be with both eyes. R. Huna, when he came
 to the verse above cited, used to weep and say: That a slave whose
 master exhorts him to come to see him should be debarred from seeing
@@ -307,7 +307,7 @@ hosts." He said: After so much will have been done, it will still be
 
 R. Joseph, when he came to the verse \[Prov. xiii. 23\]: "But there are
 many who are taken away without justice," <span
-id="fr_5"></span>[1](#fn_5) cried. R. Johanan, when he came to the
+id="fr_5"></span>[1](#fn_5.md) cried. R. Johanan, when he came to the
 following passage \[Job ii. 3\]: "And thou hast incited him against me
 to destroy him without cause," he cried. He said: If a slave persuades
 his master, and the master is persuaded, what cure can there be? Also,
@@ -408,7 +408,7 @@ corrupt?" And this must be interpreted: When the children of God love
 their adviser the wisdom of their adversaries becomes corrupt. \[And if
 you wish, we can infer it from the following passage (Gen. xxxiii. 12):
 11 Let us depart and move farther, and I will travel near <span
-id="fr_6"></span>[1](#fn_6) thee," which means we will be always equal
+id="fr_6"></span>[1](#fn_6.md) thee," which means we will be always equal
 to those against us.\]
 
 R. Ula, when ascending the steps of the house of Rabba bar Shila, heard
@@ -425,7 +425,7 @@ with tears, because the flock of the Lord is driven
 <span id="page_11">p. 11</span>
 
 away captive." Said R. Elazar: What signify the three tears? <span
-id="fr_7"></span>[1](#fn_7) One over the first, one over the second
+id="fr_7"></span>[1](#fn_7.md) One over the first, one over the second
 Temple, and one over the exile of Israel from their land.
 
 The rabbis taught: For the following three things the Holy One, blessed
@@ -482,7 +482,7 @@ father, he is no longer a minor. To defend the teaching of the School of
 Hillel, Rabbi replied thus: It is written in 1 Sam. i. 22: Hannah said:
 "So soon as the child shall be weaned, I will bring him." Why did she
 let him wait till he would be weaned, since the father could have
-carried him? Said Abayi <span id="fr_8"></span>[1](#fn_8) to him:
+carried him? Said Abayi <span id="fr_8"></span>[1](#fn_8.md) to him:
 According to your question, why did Hannah herself fail to go, since she
 was bound to rejoice? It must be said, that because of the too delicate
 condition of the child (which his mother noticed in him) she did not
@@ -706,7 +706,7 @@ Zuz, but if for eleven, he must pay two.
 Elijah said to Ben Hei Hei, according to others to R. Elazar: It is
 written \[Is. xlviii. 10\]: "Behold, I have refined thee, though not
 into silver: I have approved thee in the crucible of affliction." <span
-id="fr_9"></span>[1](#fn_9) Infer from this when the Holy One, blessed
+id="fr_9"></span>[1](#fn_9.md) Infer from this when the Holy One, blessed
 be He, looked for merits given to Israel, he found only poverty. Said
 Samuel, and according to others R. Joseph: This is what people say:
 Poverty becomes Israel as a red leather trapping a white horse.
@@ -759,7 +759,7 @@ surely not understand it.
 
 MISHNA: The laws about the dissolving of vows hang in the air, and have
 no basis (in the Bible). The Halakhath concerning Sabbath,
-feast-offerings, and [trespasses](errata.htm#11) are as mountains
+feast-offerings, and [trespasses](errata.htm#11.md) are as mountains
 suspended by a hair, because the verses of the Bible concerning this are
 very few, and the Halakhath are very many. The jurisprudence, the Temple
 services, and the purification, and uncleanness, and the cases of
@@ -860,44 +860,44 @@ parts? and the former not? Say, they are also.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](hgg02.htm#fr_0) The Hebrew term is ‏ראיה‎
+<span id="fn_0"></span>[1:1](hgg02.htm#fr_0.md) The Hebrew term is ‏ראיה‎
 which means "appearing" \[*vide* Deut. xvi. 16\], and because of the
 statement \[ibid.\], "And no one shall appear before the Lord empty," it
 is construed to mean the sacrifice; *i.e.*, the holocaust.
 
-<span id="fn_1"></span>[1:2](hgg02.htm#fr_1) The Hebrew expression for
+<span id="fn_1"></span>[1:2](hgg02.htm#fr_1.md) The Hebrew expression for
 "times" is "Regalim," the singular of which is "Regel," and means "a
 foot" also, hence the meaning "if the minor can go with his feet."
 
-<span id="fn_2"></span>[3:1](hgg02.htm#fr_2) The expression "Ylmdu,"
+<span id="fn_2"></span>[3:1](hgg02.htm#fr_2.md) The expression "Ylmdu,"
 which means "to learn" and Mar Zutra said it should be read "Yelamedu,"
 which means "to teach."
 
-<span id="fn_3"></span>[4:1](hgg02.htm#fr_3) *Netuim*, "planted" or
+<span id="fn_3"></span>[4:1](hgg02.htm#fr_3.md) *Netuim*, "planted" or
 "fastened."
 
-<span id="fn_4"></span>[7:1](hgg02.htm#fr_4) The Hebrew expression is
+<span id="fn_4"></span>[7:1](hgg02.htm#fr_4.md) The Hebrew expression is
 ‏יֵרָאֶה‎ which means "shall be seen the same letters with following
 punctuation ‏יִרְאֶה‎ would be "shall see," hence the analogy.
 
-<span id="fn_5"></span>[8:1](hgg02.htm#fr_5) Here is a legend of what
+<span id="fn_5"></span>[8:1](hgg02.htm#fr_5.md) Here is a legend of what
 happened to R. Bibi bar Abayi with the Angel of Death, who killed a man
 prematurely, which is omitted according to our method. This, however,
 can be found in the translation of Mr. Streane.
 
-<span id="fn_6"></span>[10:1](hgg02.htm#fr_6) *Lnegdecho* and *Neged*
+<span id="fn_6"></span>[10:1](hgg02.htm#fr_6.md) *Lnegdecho* and *Neged*
 mean "against."
 
-<span id="fn_7"></span>[11:1](hgg02.htm#fr_7) In this verse in the
+<span id="fn_7"></span>[11:1](hgg02.htm#fr_7.md) In this verse in the
 Hebrew "tears" is mentioned three times.
 
-<span id="fn_8"></span>[12:1](hgg02.htm#fr_8) This must be Abayi the
+<span id="fn_8"></span>[12:1](hgg02.htm#fr_8.md) This must be Abayi the
 Elder, who lived at that time.
 
-<span id="fn_9"></span>[17:1](hgg02.htm#fr_9) *Oni* is translated
+<span id="fn_9"></span>[17:1](hgg02.htm#fr_9.md) *Oni* is translated
 "affliction," but by the Talmud "poverty."
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II: Regulations Concerning Public Lectures: Which Are And
-Which Are Not Allowed.](hgg03)
+Which Are Not Allowed.](hgg03.md)

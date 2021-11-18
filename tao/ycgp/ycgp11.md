@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp10) [Next](ycgp12)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp10) [Next](ycgp12.md)
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ how can you be anxious lest our life should end too soon?"
 
 ------------------------------------------------------------------------
 
-[Next](ycgp12)
+[Next](ycgp12.md)
 
  
 

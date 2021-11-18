@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar31)  [Next](gar33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar31)  [Next](gar33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ upon a cerulean Scythian jasper. Whether this promise be true or not,
 marvellous has been the vitality of the symbol itself; for reduced to a
 double **S S** upon a bar, it became a favourite device in the times of
 chivalry, being taken as the rebus upon the word *Fermesse* <span
-id="fr_130"></span>[\*](#fn_129) (SS *fermées*) and the emblem of
+id="fr_130"></span>[\*](#fn_129) (SS *fermées*.md) and the emblem of
 constancy. Hence comes it that this ancient Egyptian symbol now adorns
 
 <span id="page_220">p. 220</span>
@@ -134,7 +134,7 @@ Commandment, which allows the wearing of any sort of design cut in
 <span id="page_222">p. 222</span>
 
 The choice of the green *jasper* (now called *plasma* <span
-id="fr_131"></span>[\*](#fn_130)) for the Agathodæmon sigils was
+id="fr_131"></span>[\*](#fn_130).md) for the Agathodæmon sigils was
 probably dictated by the resemblance of its colour to that of the sacred
 Asp--green banded with brown. As for the figure itself, a very ancient
 testimony as to its nature and signification is afforded by the
@@ -283,7 +283,7 @@ two serpents entwined round torches.
 
 ### Footnotes
 
-<span id="fn_129"></span>[219:\*](gar32.htm#fr_130) This sigla in its
+<span id="fn_129"></span>[219:\*](gar32.htm#fr_130.md) This sigla in its
 simplest form, <span id="img_21900"></span> ![](img/21900.jpg), makes
 its appearance in profusion over all the buildings of Henri IV., where
 it is popularly explained <span id="page_220">p. 220</span> as relating
@@ -302,10 +302,10 @@ Le désir inconstant froisse et brise tes nœuds,
 Ce pendant quo les mains ta *fermesse* figurent."  
         ’Lovs Papon,’ 16th century.
 
-<span id="fn_130"></span>[222:\*](gar32.htm#fr_131) The green *jasper*
+<span id="fn_130"></span>[222:\*](gar32.htm#fr_131.md) The green *jasper*
 of the moderns was the molochites or molochas of the ancients, for Pliny
 describes it as *opaque*, dark-green, and specially used for amulets.
 
 ------------------------------------------------------------------------
 
-[Next: I. Abraxaster, or Borrowed Types](gar33)
+[Next: I. Abraxaster, or Borrowed Types](gar33.md)

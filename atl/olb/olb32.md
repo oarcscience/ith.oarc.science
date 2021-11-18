@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb31)  [Next](olb33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb31)  [Next](olb33.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -55,7 +55,7 @@ fled found their death in the marshes of the Krylinger wood.
 When the sailors were in the creek, there was a wag from Stavoren among
 them, who said, Medea may well laugh if we rescue her from her citadel.
 Upon this, the maidens gave to the creek the name Medea mêilakkia <span
-id="fr_46"></span>[\*](#fn_46) (Lake of Medea). The occurrences that
+id="fr_46"></span>[\*](#fn_46) (Lake of Medea.md). The occurrences that
 happened after this everybody can remember. The maidens ought to relate
 it in their own way, and have it well inscribed. We consider that our
 task is fulfilled. Hail!
@@ -76,9 +76,9 @@ task is fulfilled. Hail!
 
 ### Footnotes
 
-<span id="fn_46"></span>[121:\*](olb32.htm#fr_46) Medemi lacus, Lake of
+<span id="fn_46"></span>[121:\*](olb32.htm#fr_46.md) Medemi lacus, Lake of
 Medea's laughter.
 
 ------------------------------------------------------------------------
 
-[Next: The Writings of Adelbrost and Apollonia](olb33)
+[Next: The Writings of Adelbrost and Apollonia](olb33.md)

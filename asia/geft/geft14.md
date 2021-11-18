@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft13)  [Next](geft15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft13)  [Next](geft15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 
 ### XII
 
-### Asphurtzela <span id="fr_9"></span>[1](#fn_9)
+### Asphurtzela <span id="fr_9"></span>[1](#fn_9.md)
 
 THERE was, and there was not at all (of God's best may it be!), there
 was once a woman. This woman's husband had died young, and left her four
@@ -121,8 +121,8 @@ you eaters of bone or eaters of flesh?' They answered: 'What have we to
 do with flesh? Bones are good enough for us.' The *devi* filled his
 mouth, tore off the flesh, and threw the bones to the three brothers.
 Then he again inquired: 'Will you drink out of a *doki* <span
-id="fr_10"></span>[1](#fn_10) or out of a *qantsi*?' <span
-id="fr_11"></span>[2](#fn_11) 'From a *qantsi*,' replied the brothers.
+id="fr_10"></span>[1](#fn_10.md) or out of a *qantsi*?' <span
+id="fr_11"></span>[2](#fn_11.md) 'From a *qantsi*,' replied the brothers.
 The *devi* poured out a *doki* of wine for himself, while he filled the
 *qantsi* for them.
 
@@ -160,9 +160,9 @@ son, and called him by the name of Asphurtzela. Asphurtzela grew as much
 in a day as other children grow in a year.
 
 Once when Asphurtzela was playing with a group of little boys, a woman
-passed by with a *coca* <span id="fr_12"></span>[1](#fn_12) full of
+passed by with a *coca* <span id="fr_12"></span>[1](#fn_12.md) full of
 water on her shoulder. Just then Asphurtzela threw his *codchi*; <span
-id="fr_13"></span>[2](#fn_13) the *codchi* whirled through the air,
+id="fr_13"></span>[2](#fn_13.md) the *codchi* whirled through the air,
 struck the woman's *coca* and broke it. The woman was angry, and called
 out: 'Mayst thou be cursed! But how can I curse thee, only son of thy
 mother? For this trick may thy brothers and sister never be delivered
@@ -333,7 +333,7 @@ hares. He let both the hares away, and then caught both again.
 Asphurtzela gazed and gazed at the man, and then said: 'Man, what art
 thou doing? how canst thou catch these hares?' 'Asphurtzela killed the
 hundred-headed *devi*, what is there remarkable in catching two hares?'
-said the hare-catcher. <span id="fr_14"></span>[1](#fn_14) 'Why, this is
+said the hare-catcher. <span id="fr_14"></span>[1](#fn_14.md) 'Why, this is
 Asphurtzela, and he will be as a brother to thee, if thou wilt,' said
 the clod-swallower. So they all went on together.
 
@@ -404,7 +404,7 @@ happened to him. Then came Asphurtzela's turn.
 
 He said to his companions: 'When I call out "I burn, I burn," let me
 down lower into the hole.' He called out many times: 'I burn,' but his
-companions only lowered him farther. <span id="fr_15"></span>[1](#fn_15)
+companions only lowered him farther. <span id="fr_15"></span>[1](#fn_15.md)
 
 He went down the hole and saw the maidens, each excelled the other, but
 the youngest was certainly the most beautiful of all. He took the
@@ -441,7 +441,7 @@ to the well,' said Asphurtzela.
 The woman prayed him not to go, but he would not hear her. The old woman
 arose, and brought him vessels. Asphurtzela broke up these small
 water-jars, and said: 'Hast thou no *kvevris*? <span
-id="fr_16"></span>[1](#fn_16) bring them to me.' The old woman showed
+id="fr_16"></span>[1](#fn_16.md) bring them to me.' The old woman showed
 him where the *kvevris* were. Asphurtzela took them and went away.
 
 When he came to the edge of the stream, he saw a richly
@@ -456,7 +456,7 @@ maiden's lap, and fell asleep.
 The dragon soon appeared. The maiden was afraid to wake Asphurtzela, and
 she wept more than ever. One of her tears fell on Asphurtzela's cheek,
 and he woke. When he saw the dragon he rose up, shot an arrow, and cut
-it in pieces. <span id="fr_17"></span>[1](#fn_17) The maiden, overjoyed,
+it in pieces. <span id="fr_17"></span>[1](#fn_17.md) The maiden, overjoyed,
 immediately hastened home to her father, and said: 'Thus and thus has it
 come to pass, the dragon is dead.' The king at first would not believe
 this, but when others put faith in the story, he sent to seek the youth.
@@ -520,44 +520,44 @@ his bow and arrow, and called out: 'Were the men or the women to blame?'
 'The youngest sister replied: 'How could it be the women's fault? It was
 the men's.' Asphurtzela shot his arrow and killed his two companions.
 Then he took the beautiful maidens with him, married the youngest, and
-gave the two elder to his brothers. <span id="fr_18"></span>[1](#fn_18)
+gave the two elder to his brothers. <span id="fr_18"></span>[1](#fn_18.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_9"></span>[68:1](geft14.htm#fr_9) Asphurtzela = hundred
+<span id="fn_9"></span>[68:1](geft14.htm#fr_9.md) Asphurtzela = hundred
 leaves: this name refers to the manner of his birth.
 
-<span id="fn_10"></span>[71:1](geft14.htm#fr_10) *Doki* = an Imeretian
+<span id="fn_10"></span>[71:1](geft14.htm#fr_10.md) *Doki* = an Imeretian
 measure for wine, holding 5 bottles.
 
-<span id="fn_11"></span>[71:2](geft14.htm#fr_11) *Qantsi* = a
+<span id="fn_11"></span>[71:2](geft14.htm#fr_11.md) *Qantsi* = a
 drinking-horn.
 
-<span id="fn_12"></span>[72:1](geft14.htm#fr_12) *Coca* = a large
+<span id="fn_12"></span>[72:1](geft14.htm#fr_12.md) *Coca* = a large
 measure for water or wine (about 25 bottles).
 
-<span id="fn_13"></span>[72:2](geft14.htm#fr_13) *Codchi* =
+<span id="fn_13"></span>[72:2](geft14.htm#fr_13.md) *Codchi* =
 knuckle-bones, with which children play.
 
-<span id="fn_14"></span>[77:1](geft14.htm#fr_14) This obscure incident
+<span id="fn_14"></span>[77:1](geft14.htm#fr_14.md) This obscure incident
 will be better understood by referring to p. 50 of Carnoy et Nicolaides
 (*Traditions de l’Asie Mineure*).
 
-<span id="fn_15"></span>[79:1](geft14.htm#fr_15) Cf. Carnoy et
+<span id="fn_15"></span>[79:1](geft14.htm#fr_15.md) Cf. Carnoy et
 Nicolaides, p. 77.
 
-<span id="fn_16"></span>[80:1](geft14.htm#fr_16) *Kvevri* = a large
+<span id="fn_16"></span>[80:1](geft14.htm#fr_16.md) *Kvevri* = a large
 wine-jar which is kept buried in the earth up to the neck.
 
-<span id="fn_17"></span>[81:1](geft14.htm#fr_17) Cf. Carnoy et
+<span id="fn_17"></span>[81:1](geft14.htm#fr_17.md) Cf. Carnoy et
 Nicolaïdes, p. 81.
 
-<span id="fn_18"></span>[83:1](geft14.htm#fr_18) Cf. Carnoy et
+<span id="fn_18"></span>[83:1](geft14.htm#fr_18.md) Cf. Carnoy et
 Nicolaides: *Traditions de l'Asie Mineure*, p. 43, 'Le Fils du
 Laboureur,' and p. 75, 'Les trois Robes.'
 
 ------------------------------------------------------------------------
 
-[Next: XIII. The Shepherd and the Child of Fortune](geft15)
+[Next: XIII. The Shepherd and the Child of Fortune](geft15.md)

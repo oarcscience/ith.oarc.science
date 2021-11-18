@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa13)  [Next](awa15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa13)  [Next](awa15.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ degrading superstitions.
 
 ------------------------------------------------------------------------
 
-[Next: Funerals](awa15)
+[Next: Funerals](awa15.md)

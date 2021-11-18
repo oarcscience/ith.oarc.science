@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr26.md) 
 
 ------------------------------------------------------------------------
 

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](bata02)  [Next](bata04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](bata02)  [Next](bata04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Talmud in Selection*, by Leo Auerbach, \[1944\], at
 Intangible Textual Heritage
 
@@ -576,7 +576,7 @@ the slaughter house, and never has pollution come upon the High Priest
 <span id="page_42">p. 42</span>
 
 on the day of Atonement, and the rains have not
-[extinguished](errata.htm#1) the fires of the fuel pile, and no wind has
+[extinguished](errata.htm#1.md) the fires of the fuel pile, and no wind has
 prevailed against the pillar of smoke, no defect was found in the Omer
 or in the two loaves of bread. People stood together yet prostrated
 themselves in comfort. And no snake or scorpion ever stung anyone in
@@ -730,6 +730,6 @@ Ben He-He says: The reward is commensurate with the effort.
 
 ------------------------------------------------------------------------
 
-[Next: The Portion of the Poor (Tractate Peah)](bata04)
+[Next: The Portion of the Poor (Tractate Peah)](bata04.md)
 
 </div>

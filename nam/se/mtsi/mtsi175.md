@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi174)  [Next](mtsi176) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi174)  [Next](mtsi176.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ use of this you can kill anything," he said.
 
 ------------------------------------------------------------------------
 
-[Next: 40. The Big Lizard (Hanabia Tcoba)](mtsi176)
+[Next: 40. The Big Lizard (Hanabia Tcoba)](mtsi176.md)

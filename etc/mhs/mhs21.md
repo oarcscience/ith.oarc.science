@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs20)  [Next](mhs22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs20)  [Next](mhs22.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,4 +185,4 @@ existed before the Christian era.
 
 ------------------------------------------------------------------------
 
-[Next: XIX. Horse-shoe Legendary Lore](mhs22)
+[Next: XIX. Horse-shoe Legendary Lore](mhs22.md)

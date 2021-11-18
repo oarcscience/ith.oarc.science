@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob05) 
-[Next](sob07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob05.md) 
+[Next](sob07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Science of Breath*, by Yogi Ramacharaka, pseud. William Atkinson,
 \[1904\], at Intangible Textual Heritage
 
@@ -73,7 +73,7 @@ the emerging nerves are like the private wires connecting therewith.
 
 The Sympathetic Nervous System consists of a double chain of Ganglia on
 the side of the Spinal column, and scattered ganglia in the head, neck,
-chest and abdomen. (A ganglion is a mass of [nervous](errata.htm#3)
+chest and abdomen. (A ganglion is a mass of [nervous](errata.htm#3.md)
 matter including nerve cells.) These ganglia are connected with each
 other by filaments, and are also connected with the Cerebro Spinal
 System by motor and sensory nerves. From these ganglia numerous fibers
@@ -132,4 +132,4 @@ occupies in their text-books and teachings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Nostril-Breathing vs. Mouth-Breathing](sob07)
+[Next: Chapter VI. Nostril-Breathing vs. Mouth-Breathing](sob07.md)

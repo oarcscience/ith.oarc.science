@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal21)  [Next](goal23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal21)  [Next](goal23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -283,7 +283,7 @@ as a woman in childbirth, and he saw taking shape in the brain, by the
 working of the muscles, a diminutive human form, being shaped from the
 head down to the feet, and when the feet were formed, the little
 spirit-form took flight, and his whole being rested. <span
-id="fr_13"></span>[\*](#fn_13) In his own language, he was impregnated
+id="fr_13"></span>[\*](#fn_13.md) In his own language, he was impregnated
 by the life emanations from this woman's head and he brought forth a
 child, a spirit-form, through the action of his brain.
 
@@ -417,10 +417,10 @@ class="smallcaps">Yahveh</span> Elohim, and a oneness with him.
 
 ### Footnotes
 
-<span id="fn_13"></span>[228:\*](goal22.htm#fr_13) Was not this the
+<span id="fn_13"></span>[228:\*](goal22.htm#fr_13.md) Was not this the
 creative Word, or Word of God?
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIX. The Likeness of God: Man Becoming Yahveh
-Elohim](goal23)
+Elohim](goal23.md)

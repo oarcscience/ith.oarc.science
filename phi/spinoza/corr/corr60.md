@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr59)  [Next](corr61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr59)  [Next](corr61.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,14 +18,14 @@ Textual Heritage
 
 ### LETTER LXII. (LVIII.)
 
-#### SPINOZA TO \* \* \* \* \* <span id="fr_63"></span>[2](#fn_62) (The Hague, October, 1674).
+#### SPINOZA TO \* \* \* \* \* <span id="fr_63"></span>[2](#fn_62) (The Hague, October, 1674.md).
 
 \[*Spinoza gives his opinions on liberty and necessity*.\]
 
 <span class="smallcaps">Sir</span>,—Our friend, J. R. <span
-id="fr_64"></span>[3](#fn_63) has sent me the letter which you have been
+id="fr_64"></span>[3](#fn_63.md) has sent me the letter which you have been
 kind enough to write to me, and also the judgment of your friend <span
-id="fr_65"></span>[4](#fn_64) as to the opinions of Descartes and myself
+id="fr_65"></span>[4](#fn_64.md) as to the opinions of Descartes and myself
 regarding free will. Both enclosures were very welcome to me. Though I
 am, at present, much occupied with other matters, not to mention my
 delicate health, your singular courtesy, or, to name the chief motive,
@@ -39,7 +39,7 @@ know not. What he adds, that *when one of two disputants affirms
 something which the other denies*, both may be right, is true, if he
 means that the two, though using the same terms, are thinking of
 different things. I once sent several examples of this to our friend J.
-R., <span id="fr_66"></span>[1](#fn_65) and am now writing to tell him
+R., <span id="fr_66"></span>[1](#fn_65.md) and am now writing to tell him
 to communicate them to you.
 
 I, therefore, pass on to that definition of liberty, which he says is my
@@ -154,17 +154,17 @@ will see that it is quite consistent, &c.
 
 ### Footnotes
 
-<span id="fn_62"></span>[389:2](corr60.htm#fr_63) This letter is
+<span id="fn_62"></span>[389:2](corr60.htm#fr_63.md) This letter is
 addressed to G. H. Schaller, who had sent on Letter LXI. to Spinoza.
 
-<span id="fn_63"></span>[389:3](corr60.htm#fr_64) John Rieuwerts, a
+<span id="fn_63"></span>[389:3](corr60.htm#fr_64.md) John Rieuwerts, a
 bookseller of Amsterdam.
 
-<span id="fn_64"></span>[389:4](corr60.htm#fr_65) Tschirnhausen; the
+<span id="fn_64"></span>[389:4](corr60.htm#fr_65.md) Tschirnhausen; the
 "judgment" is Letter LXI.
 
-<span id="fn_65"></span>[390:1](corr60.htm#fr_66) John Rieuwerts.
+<span id="fn_65"></span>[390:1](corr60.htm#fr_66.md) John Rieuwerts.
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXIII. From Anon. \[Tschirnhausen\]](corr61)
+[Next: Letter LXIII. From Anon. \[Tschirnhausen\]](corr61.md)

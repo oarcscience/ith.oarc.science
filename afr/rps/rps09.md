@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps08)  [Next](rps10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps08)  [Next](rps10.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ This pole is Black Supremacy, King Alpha and Queen Omega.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8. Perfect Baptism Under Water](rps10)
+[Next: Chapter 8. Perfect Baptism Under Water](rps10.md)

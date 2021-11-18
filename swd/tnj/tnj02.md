@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](tnj01)  [Next](tnj03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](tnj01)  [Next](tnj03.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ relate to the spiritual state and life are called knowledges, consisting
 principally of doctrinals (n. 9945). Man ought to be imbued with
 sciences and knowledges, since by these he learns to think, then to
 understand what is true and good, and finally to be wise, that is to
-live according to them <span id="fr_0"></span>[51-1](#fn_0) (n. 129,
+live according to them <span id="fr_0"></span>[51-1](#fn_0.md) (n. 129,
 1450, 1451, 1453, 1548, 1802). Scientifics and knowledges are the first
 things, on which is built and founded the civil, moral, and spiritual
 life of man; but they are to be learned for the sake of the use of life
@@ -871,10 +871,10 @@ good.
 
 ### Footnotes
 
-<span id="fn_0"></span>[51-1](tnj02.htm#fr_0) The translator omitted the
+<span id="fn_0"></span>[51-1](tnj02.htm#fr_0.md) The translator omitted the
 clause which reads: ", and finally to be wise, that is to live according
 to them". We have inserted it.
 
 ------------------------------------------------------------------------
 
-[Next: 101-150](tnj03)
+[Next: 101-150](tnj03.md)

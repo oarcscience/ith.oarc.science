@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Next](olb01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Next](olb01.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -46,16 +46,16 @@ was published prior to 1923.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_olb048"></span> <span align="CENTER"> [![Page 48 of the
 Oera Linda manuscript, showing the alphabet in use](tn/olb048.jpg)  
-Click to enlarge](img/olb048.jpg)  
+Click to enlarge](img/olb048.jpg.md)  
 Page 48 of the Oera Linda manuscript, showing the alphabet in use  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Translator's Preface](olb01)
+[Next: Translator's Preface](olb01.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](fol06)  [Next](fol08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](fol06)  [Next](fol08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Feast of Lanterns*, by L. Cranmer-Byng, \[1916\], at Intangible
 Textual Heritage
 
@@ -142,4 +142,4 @@ immortality on some faint celestial shadow or fading hill-side ghost.
 
 ------------------------------------------------------------------------
 
-[Next: Chinese Verse Form](fol08)
+[Next: Chinese Verse Form](fol08.md)

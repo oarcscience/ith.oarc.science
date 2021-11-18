@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat18.htm#CXXXIX) 
-[Previous](satl138)  [Next](satl140) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat18.htm#CXXXIX.md) 
+[Previous](satl138)  [Next](satl140.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ vix enim posse fieri, ut rabies irascentis sine verbere consideret.
 
 ------------------------------------------------------------------------
 
-[Next: CXL](satl140)
+[Next: CXL](satl140.md)

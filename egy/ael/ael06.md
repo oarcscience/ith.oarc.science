@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index) 
-[Index](index)  [Previous](ael05)  [Next](ael07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index.md) 
+[Index](index)  [Previous](ael05)  [Next](ael07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Egyptian Legends*, by M. A. Murray, \[1920\], at Intangible
 Textual Heritage
 
@@ -137,4 +137,4 @@ the Great House. And upon her was the favour of Amon-Ra for ever.
 
 ------------------------------------------------------------------------
 
-[Next: IV: The Book of Thoth](ael07)
+[Next: IV: The Book of Thoth](ael07.md)

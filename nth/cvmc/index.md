@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cvmc00)
+[Contents](#contents)    [Start Reading](cvmc00.md)
 
 ------------------------------------------------------------------------
 
@@ -40,29 +40,29 @@ health problems, while not disregarding orthodox western medicine. Much
 of the advice in this book would today probably be regarded by many
 medical professionals as sensible, and at the very least, not harmful.
 Nonetheless, please observe the caveat in the site [terms of
-service](../../tos) about 'medical advice,' and consult with a doctor
+service](../../tos.md) about 'medical advice,' and consult with a doctor
 before using any of the treatments in this text.
 
 Another progressive reform used in this book, 'simplified spelling'
 (e.g. *tho,* *fixt,* *possest*) has not fared as well in the interim. As
 usual, I have left original spelling intact except where it is an actual
 typographical error, in which case it is corrected and linked to the
-[errata page](errata).
+[errata page](errata.md).
 
 --J.B. Hare, 10/9/2006
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cvmc00)  
-[Contents](cvmc01)  
-[Introduction](cvmc02)  
-[I. The Mind](cvmc03)  
-[II. The Brain](cvmc04)  
-[III. The Nervous System](cvmc05)  
-[IV. The Emotions](cvmc06)  
-[V. The Imagination](cvmc07)  
-[VI. The Attention](cvmc08)  
-[VII. The Nature of Pain](cvmc09)  
-[VIII. The Environment](cvmc10)  
-[Conclusion](cvmc11)  
-[A Few Practical Applications](cvmc12)  
+<span id="contents"></span> [Title Page](cvmc00.md)  
+[Contents](cvmc01.md)  
+[Introduction](cvmc02.md)  
+[I. The Mind](cvmc03.md)  
+[II. The Brain](cvmc04.md)  
+[III. The Nervous System](cvmc05.md)  
+[IV. The Emotions](cvmc06.md)  
+[V. The Imagination](cvmc07.md)  
+[VI. The Attention](cvmc08.md)  
+[VII. The Nature of Pain](cvmc09.md)  
+[VIII. The Environment](cvmc10.md)  
+[Conclusion](cvmc11.md)  
+[A Few Practical Applications](cvmc12.md)  

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal110)  [Next](njal112) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal110)  [Next](njal112.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ Now Njal's sons fare home.
 
 ------------------------------------------------------------------------
 
-[Next: 112. The Pedigree Of Gudmund The Powerful](njal112)
+[Next: 112. The Pedigree Of Gudmund The Powerful](njal112.md)

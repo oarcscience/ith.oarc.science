@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp51)  [Next](dtp53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp51)  [Next](dtp53.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -85,4 +85,4 @@ decades.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: The Transfiguration](dtp53)
+[Next: Chapter VII: The Transfiguration](dtp53.md)

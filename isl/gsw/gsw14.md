@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw13)  [Next](gsw15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw13)  [Next](gsw15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_161">p. 161</span>
 
-<span id="img_16100"></span> ![HAFIZ. (Persian text)](img/16100.jpg)
+<span id="img_16100"></span> ![HAFIZ. (Persian text)](img/16100.jpg.md)
 
 ### CHAPTER X
 
@@ -184,7 +184,7 @@ Iranis are, as a rule, very liberal,
 
 <span id="img_16700"></span> <span align="CENTER"> [![MAHMUD
 KHAN](tn/16700.jpg)  
-Click to enlarge](img/16700.jpg)  
+Click to enlarge](img/16700.jpg.md)  
 MAHMUD KHAN  
 </span>
 
@@ -396,7 +396,7 @@ little leisure left before the actual day of starting.
  
 
 <span id="img_17600"></span> ![DETAIL FROM A KERMAN
-CARPET](img/17600.jpg)
+CARPET](img/17600.jpg.md)
 
  
 
@@ -404,4 +404,4 @@ CARPET](img/17600.jpg)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Yezd, the Prison of Alexander](gsw15)
+[Next: Chapter XI. Yezd, the Prison of Alexander](gsw15.md)

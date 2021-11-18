@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod07)  [Next](hod09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod07)  [Next](hod09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ Israelites were always inclined to resort
 
 <span id="img_06800"></span> <span align="CENTER"> [![SAUL AND THE WITCH
 OF ENDOR. (After Schnorr von Carolsfeld.)](tn/generic.jpg)  
-Click to view](img/06800.jpg)  
+Click to view](img/06800.jpg.md)  
 SAUL AND THE WITCH OF ENDOR. (After Schnorr von Carolsfeld.)  
 </span>
 
@@ -145,7 +145,7 @@ say whether these various demons of the Hebrews
 
 <span id="img_06900"></span> <span align="CENTER"> [![ASSYRIAN GOAT
 DEMONS. (Carvings on a boulder. After Lenormant.)](tn/generic.jpg)  
-Click to view](img/06900.jpg)  
+Click to view](img/06900.jpg.md)  
 ASSYRIAN GOAT DEMONS. (Carvings on a boulder. After Lenormant.)  
 </span>
 
@@ -161,7 +161,7 @@ Apparently the rise of a purer religion was slow and
 
 the habits of a savage age were long-lingering. The vestiges of
 devil-worship with several of its most bestial rites and even human
-sacrifices <span id="fr_33"></span>[1](#fn_33) continued to exist even
+sacrifices <span id="fr_33"></span>[1](#fn_33.md) continued to exist even
 when a more radiant light began to shine in the world.
 
 *Satan*.
@@ -235,7 +235,7 @@ placed in the monster's arms to be consumed by the heat of the idol. The
 cries of the victims were drowned by drums, from which ("toph," meaning
 drum) the place was called "Tophet." Even the king, Manasseh, long after
 David, made his son pass through the fire of Moloch (2 Kings
-xxi.). <span id="fr_34"></span>[1](#fn_34) Josiah endeavored to make an
+xxi.). <span id="fr_34"></span>[1](#fn_34.md) Josiah endeavored to make an
 end of this terrible practice by defiling Tophet, in the valley of the
 children of Hinnom (2 Kings xxxiii 10).
 
@@ -268,7 +268,7 @@ fragment only of the old religious literature.</span>
 
 <span id="img_07300"></span> <span align="CENTER"> [![THE SEVEN-ARMED
 CANDLESTICK SHOWING THE MONSTERS OF THE DEEP.](tn/generic.jpg)  
-Click to view](img/07300.jpg)  
+Click to view](img/07300.jpg.md)  
 THE SEVEN-ARMED CANDLESTICK SHOWING THE MONSTERS OF THE DEEP.  
 </span>
 
@@ -280,7 +280,7 @@ poet that portrays Yahveh's oppression of humanity (Job xl. et seq.; ix.
 people with pictures of Yahveh's omnipotence (Am. ix.); he that arouses
 the people languishing under a foreign dominion (Isaiah li. 9 et seq.):
 all make direct reference to Yahveh's power even over the dragon." <span
-id="fr_35"></span>[1](#fn_35)
+id="fr_35"></span>[1](#fn_35.md)
 
 It is noteworthy that the seven-armed candlestick of the arch of Titus
 contains on its base figures of dragons, which we may justly assume to
@@ -290,10 +290,10 @@ be Leviathan, Behemoth, and Rahab, the mythological monsters of Israel.
 
 ### Footnotes
 
-<span id="fn_33"></span>[70:1](hod08.htm#fr_33) See pp. 10-12 of this
+<span id="fn_33"></span>[70:1](hod08.htm#fr_33.md) See pp. 10-12 of this
 book.
 
-<span id="fn_34"></span>[72:1](hod08.htm#fr_34) There is no reason to
+<span id="fn_34"></span>[72:1](hod08.htm#fr_34.md) There is no reason to
 doubt the Biblical reports concerning Moloch, for Diodorus (20, 14)
 describes the cult of the national god of Carthage, whom be identifies
 with the Greek "Kronos," in the same way; so that in consideration of
@@ -301,7 +301,7 @@ the fact that Carthage is a Phoenician colony, we have good reasons to
 believe this Kronos to be the same deity as the Ammonite Moloch, who was
 satiated by the same horrible sacrifices.
 
-<span id="fn_35"></span>[73:1](hod08.htm#fr_35) It may be added that the
+<span id="fn_35"></span>[73:1](hod08.htm#fr_35.md) It may be added that the
 references in the passages in question are absolutely unintelligible
 unless interpreted by some such light as that given by Gunkel. To the
 reader without a commentary they are sealed utterances, for the mere
@@ -309,4 +309,4 @@ translation in our Bible offers no help to their understanding.
 
 ------------------------------------------------------------------------
 
-[Next: Brahmanism and Hinduism](hod09)
+[Next: Brahmanism and Hinduism](hod09.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp05)  [Next](orrp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp05)  [Next](orrp07.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ other cases perpetuated a preexisting condition and maintained a unity
 previously established. By imposing her speech upon the inhabitants of
 Ireland and Germany, Christian Rome simply continued the work of
 assimilation in the barbarian provinces subject to her influence that
-she had begun while pagan. [2\_1](orrp15.htm#xref_2_1)
+she had begun while pagan. [2\_1](orrp15.htm#xref_2_1.md)
 
 In the Orient, however, the churches that are separate from the Greek
 orthodoxy use, even to-day, a variety of dialects calling to mind the
@@ -56,14 +56,14 @@ great diversity of races formerly subject to Rome. In those times twenty
 varieties of speech translated the religious thought of the peoples
 joined under the dominion of the Cæsars. At the beginning of our era
 Hellenism had not yet conquered the uplands of
-Anatolia [2\_2](orrp15.htm#xref_2_2) nor central Syria, nor the
+Anatolia [2\_2](orrp15.htm#xref_2_2.md) nor central Syria, nor the
 divisions of Egypt. Annexation to the empire might retard and in certain
 regions weaken the power of expansion of Greek civilization,
 
 <span id="page_22">p. 22</span>
 
 but it could not substitute Latin culture for
-it [2\_3](orrp15.htm#xref_2_3) except around the camps of the legions
+it [2\_3](orrp15.htm#xref_2_3.md) except around the camps of the legions
 guarding the frontier and in a very few colonies. It especially
 benefitted the individuality of each region. The native religions
 retained all their prestige and independence. In their ancient
@@ -149,7 +149,7 @@ These reflections, which could be developed at some length, surely show
 the way in which the Oriental religions spread. It is certain that the
 merchants acted as missionaries in the seaports and places of commerce,
 the soldiers on the frontiers and in the capital, the slaves in the city
-homes, [2\_4](orrp15.htm#xref_2_4) in the rural districts and in public
+homes, [2\_4](orrp15.htm#xref_2_4.md) in the rural districts and in public
 affairs. But while this acquaints us with the means and the agents of
 the diffusion of those religions,
 
@@ -161,7 +161,7 @@ imperfect is our understanding of the reasons for the difference between
 the Orient and the Occident pointed out above.
 
 An example will make my meaning clear. A Celtic divinity,
-Epona, [2\_5](orrp15.htm#xref_2_5) was held in particular honor as the
+Epona, [2\_5](orrp15.htm#xref_2_5.md) was held in particular honor as the
 protectress of horses, as we all know. The Gallic horsemen worshiped her
 wherever they were cantoned; her monuments have been found scattered
 from Scotland to Transylvania. And yet, although this goddess enjoyed
@@ -194,7 +194,7 @@ evolution of beliefs the triumph of the Orient denoted a regression
 toward barbarism, a return to the remote origins of faith and to the
 worship of natural forces. This is a brief outline of explanations
 recently proposed and received with some
-favor. [2\_6](orrp15.htm#xref_2_6)
+favor. [2\_6](orrp15.htm#xref_2_6.md)
 
 It cannot be denied that souls and morals appear to have become coarser
 during the Roman decline. Society as a whole was deplorably lacking in
@@ -231,7 +231,7 @@ more often from indifference, by those exacting gods who demanded a
 surrender of the entire person, a *devotion* in the etymological meaning
 of the word. The consecration to Isis of the hero of Apuleius was the
 result of a call, of an appeal, by the goddess who wanted the neophyte
-to enlist in her sacred militia. [2\_7](orrp15.htm#xref_2_7)
+to enlist in her sacred militia. [2\_7](orrp15.htm#xref_2_7.md)
 
 If it is true that every conversion involves a psychological crisis, a
 transformation of the intimate personality of the individual, this is
@@ -242,7 +242,7 @@ bond that formerly kept devotion centered upon the city or the tribe,
 upon the *gens* or the family, was broken. In place of the ancient
 social groups communities of initiates came into existence, who
 considered themselves brothers no matter where they came
-from. [2\_8](orrp15.htm#xref_2_8) A god, conceived of as being
+from. [2\_8](orrp15.htm#xref_2_8.md) A god, conceived of as being
 universal, received every mortal as his child. Whenever these religions
 had any relation to the state they were no longer called upon to support
 old municipal or social institutions, but to lend their strength to the
@@ -286,7 +286,7 @@ appropriate practices. It entered into a contract with the celestial
 powers from which mutual obligations arose: sacrifices on one side,
 favors on the other. The pontiffs, who were also magistrates, regulated
 the religious practices with the exact precision of
-jurists; [2\_9](orrp15.htm#xref_2_9) as far as we know the prayers were
+jurists; [2\_9](orrp15.htm#xref_2_9.md) as far as we know the prayers were
 all couched in formulas as dry and verbose as notarial instruments. The
 liturgy reminds one of the ancient civil law on account of the
 minuteness of its prescriptions. This religion looked suspiciously at
@@ -297,7 +297,7 @@ the relations of a *civis Romanus* with a god. The Jews had the same
 scrupulous respect as the Romans for a religious code and formulas of
 the past, "but in spite of their dry and minute practices, the legalism
 of the Pharisees stirred the heart more strongly than did Roman
-formalism." [2\_10](orrp15.htm#xref_2_10)
+formalism." [2\_10](orrp15.htm#xref_2_10.md)
 
 Lacking the recognized authority of official creeds, the Oriental
 religions had to appeal to the passions of the individual in order to
@@ -315,7 +315,7 @@ and lost itself in raptures. They led to ecstasy either by means of
 nervous tension resulting from continued maceration and fervent
 contemplation or by more material means like the stimulation of
 vertiginous dances and dizzy music, or even by the absorption of
-fermented liquors after a long abstinence, [2\_11](orrp15.htm#xref_2_11)
+fermented liquors after a long abstinence, [2\_11](orrp15.htm#xref_2_11.md)
 as in the case of the priests of the Great Mother. In mysticism it is
 easy to descend from the sublime to the vile.
 
@@ -325,7 +325,7 @@ sensual than those of the Occident. The latter had that quietude of soul
 in which the philosophic morality of the Greeks saw a privilege of the
 sage; in the serenity of Olympus they enjoyed perpetual youth; they were
 Immortals. The divinities of the Orient, on the contrary, suffered and
-died, but only to revive again. [2\_12](orrp15.htm#xref_2_12) Osiris,
+died, but only to revive again. [2\_12](orrp15.htm#xref_2_12.md) Osiris,
 Attis and Adonis were mourned like mortals by wife or mistress, Isis,
 Cybele or Astarte. With them the mystics moaned for their deceased god
 and later, after he had revived, celebrated with exultation his birth to
@@ -377,7 +377,7 @@ and
 
 \[paragraph continues\] Manetho, a priest from Heliopolis, were
 considered deeply versed in all intellectual disciplines as late as the
-time of Strabo. [2\_13](orrp15.htm#xref_2_13)
+time of Strabo. [2\_13](orrp15.htm#xref_2_13.md)
 
 This state of affairs proved detrimental to the progress of science.
 Researches were conducted according to preconceived ideas and were
@@ -393,7 +393,7 @@ universe kept transforming the modes of belief. Faith presumed to
 enslave both physics and metaphysics. The credit of every discovery was
 given to the gods. Thoth in Egypt and Bel in Chaldea were the revealers
 not only of theology and the ritual, but of all human
-knowledge. [2\_14](orrp15.htm#xref_2_14) The names of the Oriental
+knowledge. [2\_14](orrp15.htm#xref_2_14.md) The names of the Oriental
 Hipparchi and Euclids who solved the first problems of astronomy and
 geometry were unknown; but a confused and grotesque literature made use
 of the name and authority of Hermes Trismegistus. The doctrines of the
@@ -417,7 +417,7 @@ which preserved heat, fertility and life. The dogmas of the mysteries of
 Mithra were, to a certain extent, the religious expression of Roman
 physics and astronomy. In all forms of pantheism the knowledge of nature
 appears to be inseparable from that of
-God. [2\_15](orrp15.htm#xref_2_15) Art itself complied more and more
+God. [2\_15](orrp15.htm#xref_2_15.md) Art itself complied more and more
 with the tendency to express erudite ideas by subtle symbolism, and it
 represented in allegorical figures the relations of divine powers and
 cosmic forces, like the sky, the earth, the ocean, the planets, the
@@ -425,7 +425,7 @@ constellations and the winds. The sculptors engraved on stone everything
 man thought and taught. In a general way the belief prevailed that
 redemption and salvation depended on the revelation of certain truths,
 on a knowledge of the gods, of the world and of our person, and piety
-became gnosis. [2\_16](orrp15.htm#xref_2_16)
+became gnosis. [2\_16](orrp15.htm#xref_2_16.md)
 
 But, you will say, since in the classic age philosophy also claimed to
 lead to morality through instruction and to acquaint man with the
@@ -484,7 +484,7 @@ that could rouse and divide her were those having a direct application
 to life, like the doctrine of grace.
 
 The old religion of the Romans had to respond to this demand of their
-genius. Its poverty was honest. [2\_17](orrp15.htm#xref_2_17) Its
+genius. Its poverty was honest. [2\_17](orrp15.htm#xref_2_17.md) Its
 mythology did not possess the poetic charm of that of Greece, nor did
 its gods have the imperishable beauty of the Olympians, but they were
 more moral, or at least pretended to be. A large number were simply
@@ -500,7 +500,7 @@ superfluous or obnoxious those of the philosophers and the exegetists,
 <span id="page_36">p. 36</span>
 
 and reserved all his favors for those of the statesmen, as the only ones
-fit for the people. [2\_18](orrp15.htm#xref_2_18) These were the ones
+fit for the people. [2\_18](orrp15.htm#xref_2_18.md) These were the ones
 protecting the old customs, traditions and frequently even the old
 privileges. But in the perpetual flux of things conservatism ever
 carries with it a germ of death. just as the law failed to maintain the
@@ -524,7 +524,7 @@ superstitions of the country districts of Latium continued to live in
 the pontifical code of the Roman people. If a lamb with two heads or a
 colt with five legs was born, solemn supplications were prescribed to
 avert the misfortunes foreboded by those terrifying
-prodigies. [2\_19](orrp15.htm#xref_2_19)
+prodigies. [2\_19](orrp15.htm#xref_2_19.md)
 
 All these puerile and monstrous beliefs that burdened
 
@@ -552,7 +552,7 @@ uncertain, doubtful and contradictory. Everybody knows Juvenal's famous
 lines: "That there are manes, a subterranean kingdom, a ferryman with a
 long pole, and black frogs in the whirlpools of the Styx; that so many
 thousand men could cross the waves in a single boat, to-day even
-children refuse to believe." [2\_20](orrp15.htm#xref_2_20)
+children refuse to believe." [2\_20](orrp15.htm#xref_2_20.md)
 
 After the fall of the republic indifference spread, the temples were
 abandoned and threatened to tumble into ruins, the clergy found it
@@ -564,7 +564,7 @@ into desuetude, and
 \[paragraph continues\] Varro, at the beginning of his *Antiquities*,
 expressed his fear lest "the gods might perish, not from the blows of
 foreign enemies, but from very neglect on the part of the
-citizens." [2\_21](orrp15.htm#xref_2_21) It is well known that Augustus,
+citizens." [2\_21](orrp15.htm#xref_2_21.md) It is well known that Augustus,
 prompted by political rather than by religious reasons, attempted to
 revive the dying religion. His religious reforms stood in close relation
 to his moral legislation and the establishment of the imperial dignity.
@@ -586,7 +586,7 @@ tendency of Cæsarism toward absolute monarchy made it lean more and more
 upon the Oriental clergy. True to the traditions of the Achemenides and
 the Pharaohs, those priests preached doctrines tending to elevate the
 sovereign above humanity, and they supplied the emperors with dogmatic
-justification for their despotism. [2\_22](orrp15.htm#xref_2_22)
+justification for their despotism. [2\_22](orrp15.htm#xref_2_22.md)
 
 It is a noteworthy fact that the rulers who most loudly proclaimed their
 autocratic pretentions, like Domitian
@@ -613,10 +613,10 @@ the value of the individual. Two new things, in particular, were brought
 to Italy by the Oriental priests: mysterious methods of purification, by
 which they claimed to wash away the impurities of the soul, and the
 assurance that a blessed immortality would be the reward of
-piety. [2\_23](orrp15.htm#xref_2_23)
+piety. [2\_23](orrp15.htm#xref_2_23.md)
 
 These religions pretended to restore lost
-purity [2\_24](orrp15.htm#xref_2_24) to the soul either through the
+purity [2\_24](orrp15.htm#xref_2_24.md) to the soul either through the
 performance of ritual ceremonies or through mortifications and penance.
 They had a series of ablutions and lustrations supposed to restore
 original innocence to the mystic. He had to wash himself in the sacred
@@ -630,14 +630,14 @@ evil spirits that had caused pollution. The votary, again, might drink
 or besprinkle himself with the blood of a slaughtered victim or of the
 priests themselves, in which case the prevailing idea was that the
 liquid circulating in the veins was a vivifying principle capable of
-imparting a new existence. [2\_25](orrp15.htm#xref_2_25) These and
-similar rites [2\_26](orrp15.htm#xref_2_26) used in the mysteries were
-supposed to regenerate the [initiated](errata.htm#0) person and to
+imparting a new existence. [2\_25](orrp15.htm#xref_2_25.md) These and
+similar rites [2\_26](orrp15.htm#xref_2_26.md) used in the mysteries were
+supposed to regenerate the [initiated](errata.htm#0.md) person and to
 restore him to an immaculate and incorruptible
-life. [2\_27](orrp15.htm#xref_2_27)
+life. [2\_27](orrp15.htm#xref_2_27.md)
 
 Purgation of the soul was not. effected solely by liturgic acts but also
-by self-denial and suffering. [2\_28](orrp15.htm#xref_2_28) The meaning
+by self-denial and suffering. [2\_28](orrp15.htm#xref_2_28.md) The meaning
 of the term *expiatio* changed. Expiation, or atonement, was no longer
 accomplished by the exact performance of certain ceremonies pleasing to
 the gods and required by a sacred code like a penalty for damages, but
@@ -645,16 +645,16 @@ by privation and personal suffering. Abstinence, which prevented the
 introduction of deadly elements into the system, and chastity, which
 preserved man from pollution and debility, became means of getting rid
 of the domination of the evil Powers and of regaining heavenly
-favor. [2\_29](orrp15.htm#xref_2_29) Macerations, laborious pilgrimages,
+favor. [2\_29](orrp15.htm#xref_2_29.md) Macerations, laborious pilgrimages,
 public confessions, sometimes flagellations and mutilations, in fact all
 forms of penance and mortifications uplifted the fallen man and brought
 him nearer to the gods. In Phrygia a sinner would write his sin and the
 punishment he suffered upon a stela for every one to see and would
 return thanks to heaven that his prayer of repentance had been
-heard. [2\_30](orrp15.htm#xref_2_30) The Syrian, who had offended his
+heard. [2\_30](orrp15.htm#xref_2_30.md) The Syrian, who had offended his
 goddess by eating her sacred fish, dressed in sordid rags, covered
 himself with a sack and sat in the public highway humbly to proclaim his
-misdeed in order to obtain forgiveness. [2\_31](orrp15.htm#xref_2_31)
+misdeed in order to obtain forgiveness. [2\_31](orrp15.htm#xref_2_31.md)
 
 <span id="page_41">p. 41</span>
 
@@ -663,7 +663,7 @@ Juvenal, "the devotee of Isis will dive into the chilly waters of the
 Tiber, and shivering with cold, will drag herself around the temple upon
 her bleeding knees; if the goddess commands, she will go to the
 outskirts of Egypt to take water from the Nile and empty it within the
-sanctuary." [2\_32](orrp15.htm#xref_2_32) This shows the introduction
+sanctuary." [2\_32](orrp15.htm#xref_2_32.md) This shows the introduction
 into Europe of Oriental asceticism.
 
 But there were impious acts and impure passions that contaminated and
@@ -680,12 +680,12 @@ attacks of evil spirits. He knew how to quiet remorse and scruples, and
 to restore the sinner to spiritual calm. Being versed in sacred
 knowledge, he had the power of reconciling the gods. Frequent sacred
 repasts maintained a spirit of fellowship among the mystics of Cybele,
-Mithra or the Baals, [2\_33](orrp15.htm#xref_2_33) and a daily service
+Mithra or the Baals, [2\_33](orrp15.htm#xref_2_33.md) and a daily service
 unceasingly revived the faith of the Isis worshipers. In consequence,
 the clergy were entirely absorbed in their holy office and lived only
 for and by their temples. Unlike the sacerdotal colleges of Rome in
 which the secular and religious functions were not yet clearly
-differentiated, [2\_34](orrp15.htm#xref_2_34) they were not an
+differentiated, [2\_34](orrp15.htm#xref_2_34.md) they were not an
 
 <span id="page_42">p. 42</span>
 
@@ -694,7 +694,7 @@ the supervision of the senate; they formed what might almost be called a
 caste of recluses distinguished from ordinary men by their insignia,
 garb, habits and food, and constituting an independent body with a
 hierarchy, formulary and even councils of their
-own. [2\_35](orrp15.htm#xref_2_35) They did not return to every-day
+own. [2\_35](orrp15.htm#xref_2_35.md) They did not return to every-day
 duties as private citizens or to the direction of public affairs as
 magistrates as the ancient pontiffs had done after the solemn festival
 service.
@@ -721,16 +721,16 @@ immortality. Participation in the occult ceremonies of the sect was a
 
 <span id="page_43">p. 43</span>
 
-chief means of salvation. [2\_36](orrp15.htm#xref_2_36) The vague and
+chief means of salvation. [2\_36](orrp15.htm#xref_2_36.md) The vague and
 disheartening beliefs of ancient paganism in regard to life after death
 were transformed into the firm hope of a well-defined form of
-happiness. [2\_37](orrp15.htm#xref_2_37)
+happiness. [2\_37](orrp15.htm#xref_2_37.md)
 
 This faith in a personal survival of the soul and even of the body was
 based upon a strong instinct of human nature, the instinct of
 self-preservation. Social and moral conditions in the empire during its
 decline gave it greater strength than it had ever possessed
-before. [2\_38](orrp15.htm#xref_2_38) The third century saw so much
+before. [2\_38](orrp15.htm#xref_2_38.md) The third century saw so much
 suffering, anguish and violence, so much unnecessary ruin and so many
 unpunished crimes, that the Roman world took refuge in the expectation
 of a better existence in which all the iniquity of this world would be
@@ -740,7 +740,7 @@ stagnated and revealed no more unknown truths. Growing poverty
 discouraged the spirit of enterprise. The idea gained ground that
 humanity was afflicted with incurable decay, that nature was approaching
 her doom and that the end of world was
-near. [2\_39](orrp15.htm#xref_2_39) We must remember all these causes of
+near. [2\_39](orrp15.htm#xref_2_39.md) We must remember all these causes of
 discouragement and despondency to understand the power of the idea,
 expressed so frequently, that the spirit animating man was forced by
 bitter necessity to imprison itself in matter and that it was delivered
@@ -763,7 +763,7 @@ progressive revelation of ancient wisdom, inherited from the old and
 distant Orient, captivated the cultured mind. The emotions excited by
 these religions and the consolations offered strongly attracted the
 women, who were the most fervent and generous followers and most
-passionate propagandists [2\_40](orrp15.htm#xref_2_40) of the religions
+passionate propagandists [2\_40](orrp15.htm#xref_2_40.md) of the religions
 of Isis and Cybele. Mithra was worshiped almost exclusively by men, whom
 he subjected to a rigid moral discipline. Thus souls were gained by the
 promise of spiritual purification and the prospect of eternal happiness.
@@ -793,4 +793,4 @@ was born.
 
 ------------------------------------------------------------------------
 
-[Next: III. Asia Minor](orrp07)
+[Next: III. Asia Minor](orrp07.md)

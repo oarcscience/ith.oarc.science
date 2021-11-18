@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](tpt02)  [Next](tpt04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](tpt02)  [Next](tpt04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -519,4 +519,4 @@ about the assurance of prophets I will treat of in the next chapter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II.—Of Prophets.](tpt04)
+[Next: Chapter II.—Of Prophets.](tpt04.md)

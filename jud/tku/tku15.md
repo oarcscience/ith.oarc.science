@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku14)  [Next](tku16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku14)  [Next](tku16.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ beyond another lock, nor one hair before another.
 <span id="page_120">p. 120</span>
 
 of hair, according unto the number of the word, QDVSh, *Qadosch*,
-Holy. <span id="fr_20"></span>[1](#fn_19)
+Holy. <span id="fr_20"></span>[1](#fn_19.md)
 
 67\. But these hairs, all and singular, radiate into four hundred and
 ten worlds.
@@ -75,7 +75,7 @@ the skull; (*they are*) about His face, and through them commenceth the
 division of the hair.
 
 81\. There is no left in that Ancient Concealed One, but all is
-right. <span id="fr_21"></span>[1](#fn_20)
+right. <span id="fr_21"></span>[1](#fn_20.md)
 
 82\. He appeareth, and He appeareth not; He is concealed, and He is not
 concealed; and that is in His conformation much more so than in Himself.
@@ -113,19 +113,19 @@ Tetragrammaton are mercy and truth," &c.
 
 ### Footnotes
 
-<span id="fn_18"></span>[119:1](tku14.htm#fr_19) Which are the
+<span id="fn_18"></span>[119:1](tku14.htm#fr_19.md) Which are the
 thirty-two paths of the *Sepher Yetzirah*, or Book of Formation;
 symbolised by the ten numbers; and twenty-two letters of the Hebrew
 alphabet.
 
-<span id="fn_19"></span>[120:1](tku15.htm#fr_20) For by Gematria Q + D +
+<span id="fn_19"></span>[120:1](tku15.htm#fr_20.md) For by Gematria Q + D +
 V + Sh = 100 + 4 + 6 + 300 = 410.
 
-<span id="fn_20"></span>[121:1](tku15.htm#fr_21) Meaning there is no
+<span id="fn_20"></span>[121:1](tku15.htm#fr_21.md) Meaning there is no
 evil in Him. but all is good. So that, in the symbolic language of the
 Zohar, Macroprosopus is represented by a profile countenance, wherein
 one side is not seen. rather than by a full face, as in Microprosopus.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: Concerning the Forehead of Macroprosopus](tku16)
+[Next: Chapter VIII: Concerning the Forehead of Macroprosopus](tku16.md)

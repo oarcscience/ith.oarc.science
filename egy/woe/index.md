@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,15 +11,15 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](woe00)  
-[Introduction](woe01)  
-[Contents](woe02)  
-[Chapter I: The Story of Egypt](woe03)  
-[Chapter II: Religion of Ancient Egypt](woe04)  
+[Title Page](woe00.md)  
+[Introduction](woe01.md)  
+[Contents](woe02.md)  
+[Chapter I: The Story of Egypt](woe03.md)  
+[Chapter II: Religion of Ancient Egypt](woe04.md)  
 [Chapter III: The Ptah-Hotep And The Ke'gemni: The Oldest Books In The
-World](woe05)  
-[Chapter IV: The Book of the Dead](woe06)  
-[Chapter V: Hermes Trismegistus](woe07)  
-[Chapter VI: Egyptian Magic](woe08)  
-[Chapter VII: The Vision of Hermes](woe09)  
-[Chapter VIII: The Story of the Book of Thoth](woe10)  
+World](woe05.md)  
+[Chapter IV: The Book of the Dead](woe06.md)  
+[Chapter V: Hermes Trismegistus](woe07.md)  
+[Chapter VI: Egyptian Magic](woe08.md)  
+[Chapter VII: The Vision of Hermes](woe09.md)  
+[Chapter VIII: The Story of the Book of Thoth](woe10.md)  

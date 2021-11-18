@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv30)  [Next](rsv32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv30)  [Next](rsv32.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ his grasp. The unopened bud also tends to last longer than other
 flowers, and it has the capacity to bloom when placed in water and left
 before the altar.
 
-[Incidentally](errata.htm#38), there are at least five varieties of the
+[Incidentally](errata.htm#38.md), there are at least five varieties of the
 Lotus with the water lily being included, even if not always accepted as
 a true Lotus; but the Thai people refer to the two types as "string
 Lotus" and "stalk Lotus" with several types of "string Lotus" with
@@ -80,4 +80,4 @@ adding lovely colors in unexpected places.
 
 ------------------------------------------------------------------------
 
-[Next: The Meaning and Importance of TET](rsv32)
+[Next: The Meaning and Importance of TET](rsv32.md)

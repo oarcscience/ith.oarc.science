@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Baha'i](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](sog07) 
-[Next](sog09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Baha'i](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](sog07.md) 
+[Next](sog09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Splendour of God*, by Eric Hammond, \[1909\], at Intangible Textual
 Heritage
 
@@ -77,6 +77,6 @@ union.'
 
 ------------------------------------------------------------------------
 
-[Next: The First Valley: The Valley of Search](sog09)
+[Next: The First Valley: The Valley of Search](sog09.md)
 
 </div>

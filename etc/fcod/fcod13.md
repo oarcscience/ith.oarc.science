@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod12)  [Next](fcod14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod12)  [Next](fcod14.md) 
 
 ------------------------------------------------------------------------
 
@@ -287,4 +287,4 @@ the spot where many thousands of victims of the plague lay buried.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: State and Public Funerals](fcod14)
+[Next: Chapter XI: State and Public Funerals](fcod14.md)

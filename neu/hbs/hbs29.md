@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs28) [Next](hbs30)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs28) [Next](hbs30.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ And their three packs of treasure to his mother he bore away:
 
 ------------------------------------------------------------------------
 
-[Next](hbs30)
+[Next](hbs30.md)
 
  
 

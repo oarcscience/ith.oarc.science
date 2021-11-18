@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc055) 
-[Next](motc057) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc055.md) 
+[Next](motc057.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ and was gone.
 
 ------------------------------------------------------------------------
 
-[Next: 57. The Snake Man](motc057)
+[Next: 57. The Snake Man](motc057.md)

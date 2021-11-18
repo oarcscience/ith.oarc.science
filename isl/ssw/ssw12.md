@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](ssw11) 
-[Next](ssw13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](ssw11.md) 
+[Next](ssw13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sadi's Scroll of Wisdom*, by Arthur N. Wollaston, \[1906\], at
 Intangible Textual Heritage
 
@@ -40,6 +40,6 @@ For thine affairs will be settled by knowledge.
 
 ------------------------------------------------------------------------
 
-[Next: As Regards Avoiding the Society of the Ignorant](ssw13)
+[Next: As Regards Avoiding the Society of the Ignorant](ssw13.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi074)  [Next](mtsi076) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi074)  [Next](mtsi076.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ escaped.
 
 ------------------------------------------------------------------------
 
-[Next: 74. Rabbit Rides Wolf (Third Version)](mtsi076)
+[Next: 74. Rabbit Rides Wolf (Third Version)](mtsi076.md)

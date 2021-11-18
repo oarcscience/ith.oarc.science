@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo22)  [Next](sdo24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo22)  [Next](sdo24.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ the formalities of the second holy day.
 
 ------------------------------------------------------------------------
 
-[Next: The Procession of Sex](sdo24)
+[Next: The Procession of Sex](sdo24.md)

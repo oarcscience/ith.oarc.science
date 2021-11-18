@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](ody21)  [Next](ody23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](ody21)  [Next](ody23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE798E/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE798E/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Odyssey of Homer*, by Samuel Butler, \[1900\], at Intangible
 Textual Heritage
 
@@ -437,6 +437,6 @@ for he remembered every one of them.
 
 ------------------------------------------------------------------------
 
-[Next: Book XXIII.](ody23)
+[Next: Book XXIII.](ody23.md)
 
 </div>

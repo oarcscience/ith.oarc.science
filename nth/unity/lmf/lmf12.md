@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](lmf11)  [Next](lmf13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](lmf11)  [Next](lmf13.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Letters of Myrtle Fillmore.*, by Myrtle Fillmore, \[1936\], at
 Intangible Textual Heritage
 
@@ -204,4 +204,4 @@ temporal ability and success!
 
 ------------------------------------------------------------------------
 
-[Next: The Subconsciousness](lmf13)
+[Next: The Subconsciousness](lmf13.md)

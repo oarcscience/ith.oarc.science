@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](area51-3)  [Next](blackair) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](area51-3)  [Next](blackair.md) 
 
 ### Flying Saucers: The Bible Connection
 
@@ -134,4 +134,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: Black Aircraft](blackair)
+[Next: Black Aircraft](blackair.md)

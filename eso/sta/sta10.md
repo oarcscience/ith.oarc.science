@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta09)  [Next](sta11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta09)  [Next](sta11.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,7 +134,7 @@ but in disappointment
 <span id="img_04500"></span>
 
 [![ISIS, QUEEN OF HEAVEN.](tn/04500.jpg)  
-Click to enlarge](img/04500.jpg)  
+Click to enlarge](img/04500.jpg.md)  
 ISIS, QUEEN OF HEAVEN.  
 
 From Mosaize *Historie der Hebreeuwse Kerke*.
@@ -303,7 +303,7 @@ its fire, and its vitalizing force from the sun. Isis was
 <span id="img_04600"></span>
 
 [![THE SISTRUM.](tn/04600.jpg)  
-Click to enlarge](img/04600.jpg)  
+Click to enlarge](img/04600.jpg.md)  
 THE SISTRUM.  
 
 "The sistrum is designed \* \* \* to represent to us, that every thing
@@ -484,7 +484,7 @@ justice, because Nature is eternally consistent.
 <span id="img_04700"></span>
 
 [![THOTH, THE DOG-HEADED.](tn/04700.jpg)  
-Click to enlarge](img/04700.jpg)  
+Click to enlarge](img/04700.jpg.md)  
 THOTH, THE DOG-HEADED.  
 
 From Lenoir's *La Franche-Maconnerie*.
@@ -501,7 +501,7 @@ the gods.
 <span id="img_04701"></span>
 
 [![THE EGYPTIAN MADONNA.](tn/04701.jpg)  
-Click to enlarge](img/04701.jpg)  
+Click to enlarge](img/04701.jpg.md)  
 THE EGYPTIAN MADONNA.  
 
 From Lenoir's *La Franche-Maconnerie*.
@@ -665,7 +665,7 @@ Egyptian Underworld.
 <span id="img_04800"></span>
 
 [![OSIRIS, KING OF THE UNDERWORLD.](tn/04800.jpg)  
-Click to enlarge](img/04800.jpg)  
+Click to enlarge](img/04800.jpg.md)  
 OSIRIS, KING OF THE UNDERWORLD.  
 
 Osiris is often represented with the lower par, of his body enclosed in
@@ -694,4 +694,4 @@ blackness of Osiris, who was generally symbolized as being of ebony hue.
 
 ------------------------------------------------------------------------
 
-[Next: The Sun, A Universal Deity](sta11)
+[Next: The Sun, A Universal Deity](sta11.md)

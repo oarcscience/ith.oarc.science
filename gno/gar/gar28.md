@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar27)  [Next](gar29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar27)  [Next](gar29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -78,7 +78,7 @@ with a cover set round with jewels. A little gold heart that had been a
 pendant with jewels set in it; a buckle of gold with six gems of
 different kinds set in it, also twenty-four other buckles of gold of
 various patterns with little gems set in them; furthermore, forty-eight
-rings and *hoops* <span id="fr_97"></span>[\*](#fn_96) of gold of
+rings and *hoops* <span id="fr_97"></span>[\*](#fn_96.md) of gold of
 different shapes, one of them in red hone, and various gems. A mouse in
 "chelidonia," a reddish quartz, is also specified by Suecius \[which
 must be the next item\], also three little animals in *red bone*; also
@@ -99,7 +99,7 @@ almond shape. Another little necklace of gold wire folded up
 (*raccolto*), but broken into four pieces. Two small buttons in gold;
 fourteen little gold-wire rings like those of a coat of mail; three more
 crosses with some emeralds, and a round gold plate 'like an Agnus
-Dei, <span id="fr_98"></span>[\*](#fn_97) with these words upon it,
+Dei, <span id="fr_98"></span>[\*](#fn_97.md) with these words upon it,
 **STILICHO VIVAT**. Two bracelets (*maniche*) of gold, set with certain
 red and green stones. Two large pins or *stiletti* for the hair, one in
 gold nearly a palm (nine inches) long inscribed with these words,
@@ -163,10 +163,10 @@ they were melted down along with the rest of the booty!
 
  
 
-<span id="img_fig09"></span> ![FIG. 9.](img/fig09.jpg)  
+<span id="img_fig09"></span> ![FIG. 9.](img/fig09.jpg.md)  
 FIG. 9.
 
-[(\*)](gar71.htm#an_fig09)
+[(\*)](gar71.htm#an_fig09.md)
 
  
 
@@ -174,13 +174,13 @@ FIG. 9.
 
 ### Footnotes
 
-<span id="fn_96"></span>[192:\*](gar28.htm#fr_97) *Verghe:* "verga,"
+<span id="fn_96"></span>[192:\*](gar28.htm#fr_97.md) *Verghe:* "verga,"
 like the French verge, signifies a plain gold wire forming a ring having
 no head.
 
-<span id="fn_97"></span>[193:\*](gar28.htm#fr_98) A disk of stamped wax
+<span id="fn_97"></span>[193:\*](gar28.htm#fr_98.md) A disk of stamped wax
 about three inches in diameter.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Evil Eye](gar29)
+[Next: I. The Evil Eye](gar29.md)

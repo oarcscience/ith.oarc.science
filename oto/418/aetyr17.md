@@ -1,84 +1,84 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 17th Aethyr,  
-Which is Called TAN**[**1**](#1)
+Which is Called TAN**[**1**](#1.md)
 
 Into the stone there first cometh the head of a dragon, and then the
-Angel Madimi[**2**](#2). She is not the mere elemental that one would
+Angel Madimi[**2**](#2.md). She is not the mere elemental that one would
 suppose from the account of Casaubon. I enquire why her form is
 different.
 
 She says: Since all things are God, in all things thou seest just so
-much of God as thy capacity affordeth thee[**3**](#3). But behold! Thou
+much of God as thy capacity affordeth thee[**3**](#3.md). But behold! Thou
 must pierce deeply into this Aethyr before true images
-appear[**4**](#4). For TAN is that which transformeth judgment into
-justice[**5**](#5). BAL is the sword, and TAN the balances[**6**](#6).
+appear[**4**](#4.md). For TAN is that which transformeth judgment into
+justice[**5**](#5). BAL is the sword, and TAN the balances[**6**](#6.md).
 
 A pair of balances appears in the stone, and on the bar of the balance
-is written: Motion about a point is iniquity[**7**](#7).
+is written: Motion about a point is iniquity[**7**](#7.md).
 
-And behind the balances is a plume, luminous, azure[**8**](#8). And
+And behind the balances is a plume, luminous, azure[**8**](#8.md). And
 somehow connected with the plume, but I cannot divine how, are these
-words: Breath is iniquity[**9**](#9). (That is, any wind must stir the
+words: Breath is iniquity[**9**](#9.md). (That is, any wind must stir the
 feather of truth.)
 
 And behind the plume is a shining filament of quartz, suspended
-vertically from the abyss to the abyss[**10**](#10). And in the midst is
-a winged disk[**11**](#11) of some extremely delicate, translucent
+vertically from the abyss to the abyss[**10**](#10.md). And in the midst is
+a winged disk[**11**](#11.md) of some extremely delicate, translucent
 substance, on which is written in the "dagger" alphabet: Torsion is
-iniquity[**12**](#12). (This means, that the Rashith Ha-Gilgalim is the
-first appearance of evil.[**13**](#13))
+iniquity[**12**](#12.md). (This means, that the Rashith Ha-Gilgalim is the
+first appearance of evil.[**13**](#13).md)
 
 And now an Angel appears, like as he were carven in black diamonds. And
 he cries: Woe unto the Second, whom all nations of men call the
-First[**14**](#14). Woe unto the First, whom all grades of Adepts call
-the First[**15**](#15). Woe unto me, for I, even as they, have
-worshipped him. But she is whose paps are the galaxies[**16**](#16), and
-he that never shall be known[**17**](#17), in them is no motion. For the
-infinite Without filleth all and moveth not[**18**](#18), and the
-infinite Within goeth indeed[**19**](#19); but it is no odds, else were
-the space-marks confounded[**20**](#20).
+First[**14**](#14.md). Woe unto the First, whom all grades of Adepts call
+the First[**15**](#15.md). Woe unto me, for I, even as they, have
+worshipped him. But she is whose paps are the galaxies[**16**](#16.md), and
+he that never shall be known[**17**](#17.md), in them is no motion. For the
+infinite Without filleth all and moveth not[**18**](#18.md), and the
+infinite Within goeth indeed[**19**](#19.md); but it is no odds, else were
+the space-marks confounded[**20**](#20.md).
 
 And now the Angel is but a shining speck of blackness in the midst of a
 tremendous sphere of liquid and vibrating light, at first gold, then
-becoming green, and lastly pure blue[**21**](#21). And I see that the
+becoming green, and lastly pure blue[**21**](#21.md). And I see that the
 green of Libra is made up of the yellow of air and the blue of water,
-swords and cups, judgment and mercy[**22**](#22). And this word TAN
-meaneth mercy[**23**](#23). And the feather of Maat is blue because the
-truth of justice is mercy[**24**](#24). And a voice cometh, as it were
+swords and cups, judgment and mercy[**22**](#22.md). And this word TAN
+meaneth mercy[**23**](#23.md). And the feather of Maat is blue because the
+truth of justice is mercy[**24**](#24.md). And a voice cometh, as it were
 the music of the ripples of the surface of the sphere: Truth is delight
-[**25**](#25). (This means that the Truth of the universe is delight.)
+[**25**](#25). (This means that the Truth of the universe is delight..md)
 
 Another voice cometh; it is the voice of a mighty Angel, all in silver;
 the scales of his armour and the plumes of his wings are like
-mother-of-pearl in a framework of silver[**26**](#26). And he sayeth:
+mother-of-pearl in a framework of silver[**26**](#26.md). And he sayeth:
 Justice is the equity that ye have made for yourselves between truth and
 falsehood. But in Truth there is nothing of this, for there is only
 Truth. Your falsehood is but a little falser than your
-truth[**27**](#27). Yet by your truth shall ye come to Truth. Your truth
-is your troth with Adonai the Beloved one[**28**](#28). And the Chymical
+truth[**27**](#27.md). Yet by your truth shall ye come to Truth. Your truth
+is your troth with Adonai the Beloved one[**28**](#28.md). And the Chymical
 Marriage of the Alchemists beginneth with a Weighing, and he that is not
 found wanting hath within him one spark of fire, so dense and so intense
 that it cannot be moved, through all the winds of heaven should clamour
 against it, and all the waters of the abyss surge against it, and all
 the multitude of the earths heap themselves upon it to smother it. Nay,
-it shall not be moved[**29**](#29).
+it shall not be moved[**29**](#29.md).
 
 And this is the fire of which it is written: "Hear thou the voice of
 fire!" And the voice of fire is in the second chapter of *The Book of
-the Law*[**30**](#30), that is revealed unto him that is a score and
+the Law*[**30**](#30.md), that is revealed unto him that is a score and
 half a score and three that are scores, and six, by Aiwass, that is his
 guardian, the mighty Angel that extendeth from the first unto the last,
 and maketh known the mysteries that are beyond. And the method and the
 form of invocation whereby a man shall attain to the knowledge and
 conversation of his Holy Guardian Angel shall be given unto thee in the
-proper place[**31**](#31), and seeing that the word is deadlier than
+proper place[**31**](#31.md), and seeing that the word is deadlier than
 lightning, do thou meditate straitly thereupon, solitary, in a place
 where is no living thing visible, but only the light of the sun. And thy
-head shall be bare[**32**](#32). Thus mayest thou become fitted to
+head shall be bare[**32**](#32.md). Thus mayest thou become fitted to
 receive this, the holiest of the Mysteries. And it is the holiest of the
 Mysteries because it is the Next Step. And those Mysteries which lie
 beyond, though they be holier, are not holy unto thee, but only remote.
@@ -93,21 +93,21 @@ Now the Angel is spread completely over the globe, a dewy film of silver
 upon that luminous blue.
 
 And a great voice cries: Behold the Queen of Heaven, how she hath woven
-her robes from the loom of justice[**33**](#33). For as that straight
+her robes from the loom of justice[**33**](#33.md). For as that straight
 path of the Arrow cleaving the Rainbow became righteousness in her that
-sitteth in the hall of double truth[**34**](#34), so at last is she
+sitteth in the hall of double truth[**34**](#34.md), so at last is she
 exalted unto the throne of the High Priestess, the Priestess of the
-Silver Star, wherein also is thine Angel made manifest[**35**](#35). And
+Silver Star, wherein also is thine Angel made manifest[**35**](#35.md). And
 this is the mystery of the camel that is ten days in the desert, and is
 not athirst, because he hath within him that water which is the dew
-distilled from the the night of Nuit[**36**](#36). Triple is the cord of
+distilled from the the night of Nuit[**36**](#36.md). Triple is the cord of
 silver, that it may be not loosed; and three score and half a score and
-three is the number of the name of my name[**37**](#37), for that the
+three is the number of the name of my name[**37**](#37.md), for that the
 ineffable wisdom, that also is of the sphere of the stars, informeth
-me[**38**](#38). Thus am I crowned with the triangle that is about the
-eye, and therefore is my number three[**39**](#39). And in me there is
+me[**38**](#38.md). Thus am I crowned with the triangle that is about the
+eye, and therefore is my number three[**39**](#39.md). And in me there is
 no imperfection, because through me descendeth the influence of
-TARO[**40**](#40). And that is also the number of Aiwass the mighty
+TARO[**40**](#40.md). And that is also the number of Aiwass the mighty
 Angel, the Minister of Silence.
 
 And even as the shew-stone burneth thy forehead with its intolerable
@@ -127,7 +127,7 @@ thee that the path shall be open henceforth for evermore.
 
 There is a clash of a myriad silver cymbals, and silence. And then three
 times a note is struck upon a bell, which sounds like my holy Tibetan
-bell, that is made of electrum magicum[**41**](#41).
+bell, that is made of electrum magicum[**41**](#41.md).
 
 I am happily returned unto the earth.
 
@@ -156,7 +156,7 @@ December 2, 1909. 12:15 - 2 a.m.
     title of *The Book of the Law* ) which expresses the universe in its
     phases, 0 and 2.
 6.  <span id="6"></span>The Enochian word for Justice used at the end of
-    the Call of the [30 Aethyrs](aetyr30) is BALATANU, (the 2nd A and
+    the Call of the [30 Aethyrs](aetyr30.md) is BALATANU, (the 2nd A and
     the U merely support their constonants L and N). Bal is Hebrew for
     Lord, i.e. the phallus. See previous note.
 7.  <span id="7"></span>It disturbs the simplicity, introducing a new

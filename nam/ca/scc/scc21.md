@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc20)  [Next](scc22) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc20)  [Next](scc22.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ live in, but the deer hides in the brush.
 
 ------------------------------------------------------------------------
 
-[Next: 20.--Tachi Yokuts. The Pleiades.](scc22)
+[Next: 20.--Tachi Yokuts. The Pleiades.](scc22.md)

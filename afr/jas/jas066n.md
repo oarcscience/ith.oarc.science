@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas065n)  [Next](jas067n)   
- \[[66. Simon Tootoos.](jas066)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas065n)  [Next](jas067n.md)   
+ \[[66. Simon Tootoos.](jas066.md)\]
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ to the dialogue of two different stories.
 
 ------------------------------------------------------------------------
 
-[Next: Note 67. The Tree-wife.](jas067n)
+[Next: Note 67. The Tree-wife.](jas067n.md)

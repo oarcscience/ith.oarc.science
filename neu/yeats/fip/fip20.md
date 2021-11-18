@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip19)  [Next](fip21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip19)  [Next](fip21.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ always red.
 
 ------------------------------------------------------------------------
 
-[Next: The Soul Cages, by T. Crofton Croker](fip21)
+[Next: The Soul Cages, by T. Crofton Croker](fip21.md)

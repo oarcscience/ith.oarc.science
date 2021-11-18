@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma25)  [Next](fmma27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma25)  [Next](fmma27.md) 
 
 ------------------------------------------------------------------------
 
@@ -197,4 +197,4 @@ Turks.
 
 ------------------------------------------------------------------------
 
-[Next: Robert Bruce. King From 1306-1329](fmma27)
+[Next: Robert Bruce. King From 1306-1329](fmma27.md)

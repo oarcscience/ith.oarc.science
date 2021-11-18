@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar52)  [Next](gar54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar52)  [Next](gar54.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ tetrameters, and may be read thus:
 
 9\. καὶ τοὺς μετὰ Κτησίου ἅπαντας.
 
-10\. καταδῶ. <span id="fr_216"></span>[\*](#fn_214)
+10\. καταδῶ. <span id="fr_216"></span>[\*](#fn_214.md)
 
 "Infernal Hermes, imprisoning Earth, and also Persephone! I lay a spell
 upon Dexias before all these deities, also upon Cleophrades, Naubates,
@@ -201,7 +201,7 @@ figures of Gnostic iconology, together with others of a novel character,
 all touched in with a free and bold graver with the fewest possible
 strokes. The purport of the writing underneath may be conjectured, on
 the authority of the 'Litany of the Dead' <span
-id="fr_217"></span>[\*](#fn_215) and the 'Diagramma of the Ophites,' to
+id="fr_217"></span>[\*](#fn_215.md) and the 'Diagramma of the Ophites,' to
 be the prayers addressed by the ascending soul to these particular
 deities, each in his turn. The very number of the pages, *seven* in all,
 comes to support this explanation. The Astral Presidents to be
@@ -298,7 +298,7 @@ though in much the same lettering as the Kircherian copy, fill only
 pages having pictures alone.
 
 Now to describe these pictures, which seem in better drawing than those
-of the former set. <span id="fr_218"></span>[\*](#fn_216) Page 1. Man,
+of the former set. <span id="fr_218"></span>[\*](#fn_216.md) Page 1. Man,
 nude, standing up. 2. Female fully draped, walking. 3. The same figure,
 extending one hand. 4. Anubis in a short mantle. 5. The usual figure of
 the Abraxas god. 6. Bird-headed man surrounded with rays (Phre?). 7.
@@ -389,7 +389,7 @@ the inscription carved over the tunic in semi-cursive letters:
 busts in the other scrolls is the letter **Ω**, repeated *seven* times
 in a line: reminding one of the "Names," the interpretation whereof has
 been already given from the *Pistis-Sophia* ([p.
-16](gar05.htm#page_16)). Very remarkable also is the line of characters,
+16](gar05.htm#page_16).md). Very remarkable also is the line of characters,
 apparently Palmyrene, upon the legs of the first Anubis. As for the
 figure of the *serpent*, supposing these talismans to emanate not from
 the Isiac but the newer Ophite
@@ -421,7 +421,7 @@ that certain of their forms, expressing peculiarly sacred ideas (as the
 should retain a mystic, perhaps thaumaturgic, value in the practice of
 the Magi long after their original meaning was forgotten. And these very
 Magi were the teachers of the talisman-makers of Gnostic times. <span
-id="fr_219"></span>[\*](#fn_217) This explanation is strongly supported
+id="fr_219"></span>[\*](#fn_217.md) This explanation is strongly supported
 by the recent discovery, that in the Assyrian inscriptions every deity
 has a certain *numeral* assigned him, which said numeral frequently
 stands in the place of his full name. For example, the numeral for *Anu*
@@ -517,11 +517,11 @@ therein, has led us far away from the proper object of this
 chapter--sepulchral scrolls. Their use was carried on by the Christians
 down to comparatively recent times. Fauno describes amongst the
 innumerable *bijoux* of all kinds deposited in the coffin <span
-id="fr_220"></span>[\*](#fn_218) of the infant imperial bride Maria
+id="fr_220"></span>[\*](#fn_218.md) of the infant imperial bride Maria
 Honorii "a small plate of gold on which were written, or rather
 scratched, the words, in Greek, Michael, Gabriel, Raphael, Uriel." And
 the Abbé Cochet has figured in his very interesting researches <span
-id="fr_221"></span>[†](#fn_219) in the old Norman cemeteries many leaden
+id="fr_221"></span>[†](#fn_219.md) in the old Norman cemeteries many leaden
 plates, cross-shaped, inscribed with prayers, placed regularly upon the
 breast of the buried body. Out of four examples found in the old
 cemetery of Bouteilles, Dieppe, the most complete formula, written in a
@@ -596,10 +596,10 @@ down--
 
  
 
-<span id="img_fig17"></span> ![FIG. 17](img/fig17.jpg)  
+<span id="img_fig17"></span> ![FIG. 17](img/fig17.jpg.md)  
 FIG. 17
 
-[(\*)](gar71.htm#an_fig17)
+[(\*)](gar71.htm#an_fig17.md)
 
  
 
@@ -607,11 +607,11 @@ FIG. 17
 
 ### Footnotes
 
-<span id="fn_214"></span>[359:\*](gar53.htm#fr_216) κατάδεσις κατάδεσμος
+<span id="fn_214"></span>[359:\*](gar53.htm#fr_216.md) κατάδεσις κατάδεσμος
 are used by Plato for witchcraft: and the Hebrew "Chabar," *to bewitch*,
 properly signifies *to bind*.
 
-<span id="fn_215"></span>[363:\*](gar53.htm#fr_217) In the pictures to
+<span id="fn_215"></span>[363:\*](gar53.htm#fr_217.md) In the pictures to
 which the disembodied spirit "before his journey addresses his prayers
 to the various gods, and then enters upon his labours. He attacks with
 spear in hand the crocodiles, lizards, scorpions and snakes which beset
@@ -623,10 +623,10 @@ phoenix, his own soul in the form of a bird with a human head, and the
 goddess Isis as a serpent of goodness. The soul then returns to the
 mummy and puts life into its mouth."--(Sharpe, 'Egypt. Mythol.,' p. 65.)
 
-<span id="fn_216"></span>[365:\*](gar53.htm#fr_218) The improvement is
+<span id="fn_216"></span>[365:\*](gar53.htm#fr_218.md) The improvement is
 probably only due to the French copyist.
 
-<span id="fn_217"></span>[368:\*](gar53.htm#fr_219) This conjecture of
+<span id="fn_217"></span>[368:\*](gar53.htm#fr_219.md) This conjecture of
 mine has at last been verified by that high authority in Assyrian
 literature, Professor Sayce. He finds in the assemblage of siglæ on the
 back of the Mithraic gem (Pl. Ll. 1) the regular cuneiform characters,
@@ -635,14 +635,14 @@ he recognises at least three out of the Cypriote syllabary; some of the
 rest remind him of the cypher alphabets of the East as given by that old
 author Ibn Wahaby, of which Von Hammer has made a translation.
 
-<span id="fn_218"></span>[371:\*](gar53.htm#fr_220) Discovered Feb.,
+<span id="fn_218"></span>[371:\*](gar53.htm#fr_220.md) Discovered Feb.,
 1544, in digging the foundations of the Chapel of the Kings of France,
 in St. Peter's, Rome; and fully described by M. L. Fauno in his
 'Antichità di Roma,' p. 151 published 1553.
 
-<span id="fn_219"></span>[371:†](gar53.htm#fr_221) 'Sépultures
+<span id="fn_219"></span>[371:†](gar53.htm#fr_221.md) 'Sépultures
 Gauloises,' chap. xiii.
 
 ------------------------------------------------------------------------
 
-[Next: Masonic Origins](gar54)
+[Next: Masonic Origins](gar54.md)

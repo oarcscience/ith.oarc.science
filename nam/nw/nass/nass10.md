@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass09)  [Next](nass11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass09)  [Next](nass11.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,15 +113,15 @@ to his own town, and there he stayed with her.
 <span id="page_101">p. 101</span>
 
 They had a boy. When he was grown up, his father, Rotten-feathers, named
-him. Then he went . . . . <span id="fr_5"></span>[1](#fn_5)
+him. Then he went . . . . <span id="fr_5"></span>[1](#fn_5.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_5"></span>[101:1](nass10.htm#fr_5) For continuation, see
-page [234](nass25.htm#page_234).
+<span id="fn_5"></span>[101:1](nass10.htm#fr_5.md) For continuation, see
+page [234](nass25.htm#page_234.md).
 
 ------------------------------------------------------------------------
 
-[Next: K\*?ēLku](nass11)
+[Next: K\*?ēLku](nass11.md)

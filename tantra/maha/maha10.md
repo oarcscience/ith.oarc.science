@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha09)  [Next](maha11) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha09)  [Next](maha11.md) 
 
 ------------------------------------------------------------------------
 
@@ -794,6 +794,6 @@ Shraddha, Funeral Rites, and Purnabhisheka."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11 - The Account of Expiatory Rites](maha11)
+[Next: Chapter 11 - The Account of Expiatory Rites](maha11.md)
 
   

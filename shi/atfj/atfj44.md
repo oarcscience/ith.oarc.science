@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj43)  [Next](atfj45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj43)  [Next](atfj45.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_48"></span> <span align="CENTER"> [![48. XLII. The Spirit
 of the Lotus Lily](tn/48.jpg)  
-Click to enlarge](img/48.jpg)  
+Click to enlarge](img/48.jpg.md)  
 48. XLII. The Spirit of the Lotus Lily  
 </span>
 
@@ -73,7 +73,7 @@ because you have put up no defence against impure and evil spirits. This
 castle is the centre of administration for the whole of the surrounding
 country, and it was unwise to allow it to remain un-fortified against
 impure and evil spirits. The saints of old <span
-id="fr_43"></span>[1](#fn_43) have always told us to plant the lotus
+id="fr_43"></span>[1](#fn_43.md) have always told us to plant the lotus
 lily, not only
 
 <span id="page_269">p. 269</span>
@@ -222,12 +222,12 @@ were seen.
 
 ### Footnotes
 
-<span id="fn_43"></span>[268:1](atfj44.htm#fr_43) Rakkan.
+<span id="fn_43"></span>[268:1](atfj44.htm#fr_43.md) Rakkan.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XLIII. The Temple of the Awabi](atfj45)
+[Next: XLIII. The Temple of the Awabi](atfj45.md)
 
 </div>

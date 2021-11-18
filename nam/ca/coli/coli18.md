@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](coli17)  [Next](coli19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](coli17)  [Next](coli19.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Culture of the Luiseño Indians*, by Philip Stedman Sparkman,
 \[1908\], at Intangible Textual Heritage
 
@@ -75,4 +75,4 @@ keep herself with a fire in a close house.
 
 ------------------------------------------------------------------------
 
-[Next: Government](coli19)
+[Next: Government](coli19.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl029)  [Next](cohl031) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl029)  [Next](cohl031.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 "'Now the Creator of mankind ordained that people should live to an old
 age. He appointed that when a woman becomes old she should be without
 strength and unable to work. <span
-id="fr_30"></span>[1](cohl031.htm#fn_30) Now the Creator says that it is
+id="fr_30"></span>[1](cohl031.htm#fn_30.md) Now the Creator says that it is
 a great wrong to be unkind to our grandmothers. The Creator forbids
 unkindness to the old. We, the messengers, say it. The Creator appointed
 this way: he designed that an old woman should be as a child again and
@@ -25,4 +25,4 @@ So they said and he said. Eniaiehuk.
 
 ------------------------------------------------------------------------
 
-[Next: Section 20](cohl031)
+[Next: Section 20](cohl031.md)

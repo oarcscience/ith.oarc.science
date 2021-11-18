@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte)
 
 #### \[1851\]
 
-[Start Reading](dpr00)
+[Start Reading](dpr00.md)
 
 ------------------------------------------------------------------------
 
@@ -26,14 +26,14 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte)
 |---------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
-<span id="contents"></span> [Title Page](dpr00)  
-[CONTENTS](dpr01)  
-[TRANSLATOR'S PREFACE](dpr02)  
-[THE TRANSLATION](dpr03)  
-[1-50](dpr04)  
-[51-100](dpr05)  
-[101-150](dpr06)  
-[151-200](dpr07)  
-[201-250](dpr08)  
-[251-300](dpr09)  
-[301-350](dpr10)  
+<span id="contents"></span> [Title Page](dpr00.md)  
+[CONTENTS](dpr01.md)  
+[TRANSLATOR'S PREFACE](dpr02.md)  
+[THE TRANSLATION](dpr03.md)  
+[1-50](dpr04.md)  
+[51-100](dpr05.md)  
+[101-150](dpr06.md)  
+[151-200](dpr07.md)  
+[201-250](dpr08.md)  
+[251-300](dpr09.md)  
+[301-350](dpr10.md)  

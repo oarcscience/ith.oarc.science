@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce40)  [Next](jce42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce40)  [Next](jce42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -108,7 +108,7 @@ subterranean regions, a new son of Neptune, watching this countless herd
 of mastodons.
 
 Immanis pecoris custos, immanior ipse.  <span
-id="fr_15"></span>[16](#fn_15)
+id="fr_15"></span>[16](#fn_15.md)
 
 Yes, truly, huger still himself. It was no longer a fossil being like
 him whose dried remains we had easily lifted up in the field of bones;
@@ -259,10 +259,10 @@ everywhere!"
 
 ### Footnotes
 
-<span id="fn_15"></span>[16](jce41.htm#fr_15) "The shepherd of gigantic
+<span id="fn_15"></span>[16](jce41.htm#fr_15.md) "The shepherd of gigantic
 herds, and huger still himself."
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XL. Preparations for Blasting a Passage to the Centre of
-the Earth](jce42)
+the Earth](jce42.md)

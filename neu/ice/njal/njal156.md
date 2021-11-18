@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal155)  [Next](njal157) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal155)  [Next](njal157.md) 
 
 ------------------------------------------------------------------------
 
@@ -321,4 +321,4 @@ pilgrimage to Rome if St. Peter helped him out of this strait.
 
 ------------------------------------------------------------------------
 
-[Next: 157. The Slaying Of Kol Thorstein's Son](njal157)
+[Next: 157. The Slaying Of Kol Thorstein's Son](njal157.md)

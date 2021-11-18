@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi212)  [Next](mtsi214) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi212)  [Next](mtsi214.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ with you." But the brother shot him through with an arrow.
 
 ------------------------------------------------------------------------
 
-[Next: 14. The Wicked Mother-in-law](mtsi214)
+[Next: 14. The Wicked Mother-in-law](mtsi214.md)

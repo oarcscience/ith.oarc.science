@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb11)  [Next](wfb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb11)  [Next](wfb13.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ and departed to their homes.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventures of Three Farmers](wfb13)
+[Next: The Adventures of Three Farmers](wfb13.md)

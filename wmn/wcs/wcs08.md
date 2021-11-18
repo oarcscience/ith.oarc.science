@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wcs07)  [Next](wcs09) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wcs07)  [Next](wcs09.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ wife the veritable slave of the husband, who held power even over her
 life. Neither did it possess the civil formality of "Coemptio" under
 which the bride purchased entrance into the marriage duties and her
 husband's household by the payment of three pieces of copper.<span
-id="fr_1"></span>[1](#fn_1) "Coemptio" like "Confarreatio" gave the
+id="fr_1"></span>[1](#fn_1.md) "Coemptio" like "Confarreatio" gave the
 husband entire power over the person and property of the wife, while
 "Usus," a form of simple consent, left the wife practically free,
 keeping her own name and property. The real origin of this form of
@@ -26,7 +26,7 @@ older than the Twelve Tables, under which woman possessed the right to
 repudiation in marriage. These laws, a compilation of still older ones,
 were afterwards incorporated into statutes by a woman of Athens, and
 were received by the Romans as extremely pure natural laws.<span
-id="fr_2"></span>[2](#fn_2) Plato
+id="fr_2"></span>[2](#fn_2.md) Plato
 
 <span id="page_296">p. 296</span>
 
@@ -38,7 +38,7 @@ becoming more fully recognized. The explorations of the "Challenger,"
 the "Dolphin," the "Gazelle," and the discoveries of Le Plongeon in
 Yucatan, at later date, confirming olden tradition. Maine thus ascribes
 a much older origin to "Usus" than Gibbon, who attributes it to the
-effect of the Punic triumphs.<span id="fr_3"></span>[3](#fn_3) In
+effect of the Punic triumphs.<span id="fr_3"></span>[3](#fn_3.md) In
 reality "Usus" seems to have been a reminiscence of the Matriarchate,
 incorporated into the law of the Twelve Tables, and accepted by Rome as
 a more just form of the marriage relation for women than the religious
@@ -56,10 +56,10 @@ towards a republican form of government, "Usus" again became general. It
 was impossible for patrician women not to see the greater freedom of
 plebeian wives under "Usus," a form that while equally binding in the
 essentials of the union did not make the wife a marital slave,<span
-id="fr_4"></span>[4](#fn_4) and "Usus" eventually became the basis of
+id="fr_4"></span>[4](#fn_4.md) and "Usus" eventually became the basis of
 Roman legal conception of marriage, against which Christianity from the
 first waged a warfare of ever increasing fierceness,<span
-id="fr_5"></span>[5](#fn_5) the very foundation of that religion being
+id="fr_5"></span>[5](#fn_5.md) the very foundation of that religion being
 the subordination of woman in every relation of life. Under "Usus" the
 mere fact of two persons living together as husband and wife was
 regarded as a marriage. If during each year the wife remained away from
@@ -83,19 +83,19 @@ kiss from her husband upon his return home, betraying her, nor could her
 infant daughter be exposed or murdered at the pleasure of her husband
 who as inexorable master was frequently wont to refuse her pleadings for
 the life of her babe, calling her prayers naught but the scruples of a
-foolish woman.<span id="fr_6"></span>[6](#fn_6)
+foolish woman.<span id="fr_6"></span>[6](#fn_6.md)
 
     Thus under "Usus" human life became more sacred, and woman endowed
 with a greater sense of personal security. It affected an entire change
 for the better, in the moral sentiments of the Roman empire.<span
-id="fr_7"></span>[7](#fn_7) A complete revolution had thus passed over
+id="fr_7"></span>[7](#fn_7.md) A complete revolution had thus passed over
 the constitution of the family. This must have been the period, says
 Maine, when a juriconsulist of the empire defined marriage as a life
 long fellowship of all divine and human rights.
 
     Not alone Maine, but also Reeves, failed not to see that the
 disruption of the Roman Empire was very unfavorable to the personal and
-proprietory rights of woman.<span id="fr_8"></span>[8](#fn_8) The
+proprietory rights of woman.<span id="fr_8"></span>[8](#fn_8.md) The
 practical effect of the common Roman form of marriage being the absolute
 legal independence of the wife, under which a large proportion of Roman
 property fell into the hands of women, the
@@ -123,11 +123,11 @@ her children also falling under his entire control, the mother
 possessing no authority over them. From that period down to the
 twentieth century of christianity, under all changing civil laws, woman
 has ever felt the oppressions of ecclesiasticism in this relation.<span
-id="fr_9"></span>[9](#fn_9)
+id="fr_9"></span>[9](#fn_9.md)
 
     Guizot strangely declares that woman's present, and what he terms,
 superior, position in the household to-day, is due to feudalism.<span
-id="fr_10"></span>[10](#fn_10) The isolation and
+id="fr_10"></span>[10](#fn_10.md) The isolation and
 
 <span id="page_300">p. 300</span>
 
@@ -147,7 +147,7 @@ eagle, perched upon some inaccessible rock, add to-day an element of
 picturesque beauty to the Rhine and other rivers of Europe, but owe
 their elevated and isolated positions to the evil character of their
 owners, the banditti of the middle ages.<span
-id="fr_11"></span>[11](#fn_11) When not engaged with their king in
+id="fr_11"></span>[11](#fn_11.md) When not engaged with their king in
 warfare, they made the despoiling of serfs and the betrayal of wives and
 daughters their chief diversion, the robbery of burghers and travelers
 their business; churchmen equally with laymen living by the same means.
@@ -164,7 +164,7 @@ the soldiers of Christian Europe found pleasure in torture for its own
 sake, chiefly selecting women as their victims. In mediæval England the
 condition of woman was one of deep degradation. Wives were bought and
 daughters sold for many hundred years after the introduction of
-Christianity.<span id="fr_12"></span>[12](#fn_12) Although England was
+Christianity.<span id="fr_12"></span>[12](#fn_12.md) Although England was
 christianized in the fourth century, it was not until the tenth that the
 christian wife of a christian husband acquired the right of eating at
 table with him, nor until the same century did a daughter gain the right
@@ -197,9 +197,9 @@ place, even though all celibate men were looked upon as libertines of
 especially impure life. Warnings against matrimony were the ordinary
 topics of conversation, while virtue in women was held so little sacred
 that no nearness of relationship was security for either a married or a
-single woman.<span id="fr_14"></span>[14](#fn_14) Husbands trafficked in
+single woman.<span id="fr_14"></span>[14](#fn_14.md) Husbands trafficked in
 the honor of their wives, fathers sold their daughters,<span
-id="fr_15"></span>[15](#fn_15) yet if under temptation, a woman
+id="fr_15"></span>[15](#fn_15.md) yet if under temptation, a woman
 
 <span id="page_303">p. 303</span>
 
@@ -207,7 +207,7 @@ fell, outside of such sale, her punishment was most severe. To a husband
 was accorded the power of life and death over his household, and either
 personally or by means of a hired assassin he not unfrequently assigned
 his wife to death or to a punishment more atrocious and barbarous.<span
-id="fr_16"></span>[16](#fn_16) Disraeli says:
+id="fr_16"></span>[16](#fn_16.md) Disraeli says:
 
     If in these ages of romance and romances the fair sex were scarcely
 approached without the devotion of idolatry, whenever "the course of
@@ -218,18 +218,18 @@ when autocratical man became the executioner of his own decree.
 
     The English christian husband of that age is paralleled by certain
 North American Indians of the present day.<span
-id="fr_17"></span>[17](#fn_17) The horizon of woman's life was bounded
+id="fr_17"></span>[17](#fn_17.md) The horizon of woman's life was bounded
 by the wishes of her father or husband. Single, she was regarded as a
 more or less valuable piece of property<span
-id="fr_18"></span>[18](#fn_18) for whose sale the owner was entitled to
+id="fr_18"></span>[18](#fn_18.md) for whose sale the owner was entitled to
 make as good a bargain as possible. It was as a bride that the greatest
-sum was secured.<span id="fr_19"></span>[19](#fn_19) Prominent among
+sum was secured.<span id="fr_19"></span>[19](#fn_19.md) Prominent among
 
 <span id="page_304">p. 304</span>
 
 the laws of the first Christian king of Kent, were provisions for the
 transfer of money or cattle in exchange for the bride.<span
-id="fr_20"></span>[20](#fn_20) The theory of woman's ownership by man
+id="fr_20"></span>[20](#fn_20.md) The theory of woman's ownership by man
 was everywhere carried into practice, and with great severity in case
 the wife proved unfaithful to her enforced vows. The facts that her
 consent to the marriage had not been asked, that mayhap the man she was
@@ -238,7 +238,7 @@ already have been bestowed, that she was transferred like a piece of
 goods with no voice upon the question, were not taken into
 consideration, and did the husband not choose to kill his derelict
 spouse, the question still remained one of property,<span
-id="fr_21"></span>[21](#fn_21) and a new bride was demanded of the lover
+id="fr_21"></span>[21](#fn_21.md) and a new bride was demanded of the lover
 in place of the wife whose love he had gained.
 
     A husband, attracted by a new face, more wealth, greater political
@@ -247,7 +247,7 @@ regarded as justifiable in hiring an assassin to strangle her, or if
 walking by a river-brink, of himself pushing her into the water where
 her cries for help were disregarded. Those in whose hearts pity rose,
 were prevented from giving aid, by such remarks as, "It is nothing, only
-a woman being drowned."<span id="fr_22"></span>[22](#fn_22) A horse or
+a woman being drowned."<span id="fr_22"></span>[22](#fn_22.md) A horse or
 other domestic animal
 
 <span id="page_305">p. 305</span>
@@ -259,7 +259,7 @@ the evil fame of christendom reached distant lands. Its hypocrisy and
 baseness were known by those very Saracens from whom the Crusaders
 attempted to wrest the Holy Sepulchre. To Sir John Mandeville the Sultan
 of Egypt mercilessly criticised the Christianity of England<span
-id="fr_23"></span>[23](#fn_23) and the christian method of serving God;
+id="fr_23"></span>[23](#fn_23.md) and the christian method of serving God;
 the total disregard of chastity, the sale of daughters, sisters and
 wives. We cannot agree with Disraeli in his doubts if there was a single
 christian in all christendom at this period. To the contrary, it may be
@@ -269,7 +269,7 @@ the Old and the New Testament regarding women. From Moses to Paul, the
 Bible everywhere speaks of her as a being made for man, secondary to
 man, and under his authority by direct command of the Almighty; the
 state, as coadjutor and servant of the church, basing her codes of
-law<span id="fr_24"></span>[24](#fn_24) upon its teachings. Under these
+law<span id="fr_24"></span>[24](#fn_24.md) upon its teachings. Under these
 codes woman has not only been looked upon as naturally unchaste, but
 also regarded as a liar, the state demanding the testimony of two or
 three, and in some instances of seven women to invalidate that
@@ -307,13 +307,13 @@ impaired the validity of the
 
 <span id="page_307">p. 307</span>
 
-marriage.<span id="fr_35"></span>[35](#fn_35) A girl was simply a piece
+marriage.<span id="fr_35"></span>[35](#fn_35.md) A girl was simply a piece
 of family property to be disposed of as the family thought best.
 Although wives were simply the slaves of husbands, yet the condition of
 an unmarried woman was even more deplorable. Deprived of the society of
 young persons of her own sex, not allowed speech with any man outside of
 her own family, she was fortunate if she escaped personal<span
-id="fr_36"></span>[36](#fn_36) ill-treatment in her father's house. Not
+id="fr_36"></span>[36](#fn_36.md) ill-treatment in her father's house. Not
 permitted to sit in the presence of either her father or her mother,
 continually found fault with, the laws constraining her to marry while
 giving her no preference as to a husband, and marriage still more fully
@@ -345,7 +345,7 @@ views did not pertain in Rome, yet speaks of males as "the worthier of
 blood." Such views were not held by pre-christian Britain. Under common
 law, before that country accepted christianity, property was equally
 divided between sisters, and only by special custom, between
-brothers.<span id="fr_31"></span>[31](#fn_31) But as early as Henry II,
+brothers.<span id="fr_31"></span>[31](#fn_31.md) But as early as Henry II,
 it was the general rule that a woman could not share an inheritance with
 a man. An exception sometimes existed in a particular city where such
 custom had long prevailed.
@@ -428,7 +428,7 @@ the United States; while in many European countries, marriages are
 arranged by friends, or through a broker, entirely without the girl's
 consent, who is frequently taken from a convent or school to be thus
 sold to some wealthy and perhaps octogenarian wooer, who covets the
-youth or beauty of the victim.<span id="fr_28"></span>[28](#fn_28)
+youth or beauty of the victim.<span id="fr_28"></span>[28](#fn_28.md)
 
     The burning of twenty missionaries in a portion of savage Africa, a
 few years since, filled the civilized world with horror. But for several
@@ -436,13 +436,13 @@ hundred years after the introduction of christianity into Great Britain,
 the penalty for simple theft by a woman slave was burning alive, and all
 the other women slaves were compelled to assist at her *auto-de-fé*.
 Upon such an occasion mentioned by Pike, eighty other women each brought
-a log of wood for the burning.<span id="fr_29"></span>[29](#fn_29) By
+a log of wood for the burning.<span id="fr_29"></span>[29](#fn_29.md) By
 the old Roman Code, burning alive as a punishment was forbidden because
 of its barbarity, but christianity reintroduced it, and for long
 centuries after the destruction of the Roman Empire, that other land
 aspiring to control of the sea, which proudly boasts that the sun never
 sets on her possessions., kept it in her criminal code for the
-punishment of helpless women.<span id="fr_30"></span>[30](#fn_30) So
+punishment of helpless women.<span id="fr_30"></span>[30](#fn_30.md) So
 
 <span id="page_311">p. 311</span>
 
@@ -450,7 +450,7 @@ rigorous was woman's slavery that the friendships of women with each
 other, or with men, were strictly prohibited; yet the deep affection of
 one man for another to whom he consecrated his life and fortune, and of
 whom he spoke with that deep tenderness, was highly commended.<span
-id="fr_31"></span>[31](#fn_31) The despotic, irresponsible power of
+id="fr_31"></span>[31](#fn_31.md) The despotic, irresponsible power of
 husbands in christian England at this period is shown by the diverse
 manner in which the murder of a wife by a husband, or a husband by a
 wife, was regarded. For a husband to murder a wife either by his own
@@ -459,7 +459,7 @@ she was his slave over whom he had power of life and death, this was
 looked upon as a trivial affair. But under the laws of both church and
 state, the murder of a husband by a wife was regarded as petty treason,
 to be punished with the utmost severity, burning alive being a not
-uncommon form.<span id="fr_32"></span>[32](#fn_32)
+uncommon form.<span id="fr_32"></span>[32](#fn_32.md)
 
     Under christian legislation not alone the wife's person but her
 property so fully became her husband's that her use of any portion of it
@@ -520,8 +520,8 @@ submission to him as the direct representative of the deity. For the
 woman who protested against this annihilation of her individuality, a
 flogging was the customary form of punishment and so common was the use
 of the whip that its size was regulated by law.<span
-id="fr_33"></span>[33](#fn_33) The punishment of petit treason<span
-id="fr_34"></span>[34](#fn_34) was more severe for woman than for man
+id="fr_33"></span>[33](#fn_33.md) The punishment of petit treason<span
+id="fr_34"></span>[34](#fn_34.md) was more severe for woman than for man
 because her crime was regarded as of a more heinous character. She was
 dragged on the ground or pavement to the place of execution then burned
 alive; a man was drawn and hanged. It was long after the conquest before
@@ -535,12 +535,12 @@ on the ground or pavement. In case of a woman the wounds and lacerations
 thus received must have greatly added to her intensity of suffering, yet
 so blinded was he through those laws, that he calls her punishment of
 burning, a tribute to the 'decency due to the sex.'<span
-id="fr_35"></span>[35](#fn_35)
+id="fr_35"></span>[35](#fn_35.md)
 
     During a portion of the christian era the wife has not been looked
 upon as related to her husband. The residuum of this disbelief in the
 relationship of husband and wife, occasionally shows itself to the
-present day.<span id="fr_36"></span>[36](#fn_36) She was his slave under
+present day.<span id="fr_36"></span>[36](#fn_36.md) She was his slave under
 both religious and civil law, holding the same relations to him as the
 subject did to the king, and liable to punishments similar to those
 inflicted upon unruly slaves, or disloyal subjects. Rebellion against
@@ -562,7 +562,7 @@ after our declaration of independence. This same code was operative in
 the colonies; the last woman thus punished in this country, being a
 slave in 1755, who had murdered her master, America having twenty-nine
 years precedence in the abolition of this penalty.<span
-id="fr_37"></span>[37](#fn_37)
+id="fr_37"></span>[37](#fn_37.md)
 
     A cablegram from Europe, September 1892, proves the continued
 existence in this last decade of the nineteenth century of the crime of
@@ -594,7 +594,7 @@ accused of stealing from him belonged to her. Under the laws of most
 christian states, a woman is robbed of herself and all of her
 possessions by the simple fact of her marriage. Under christian law, the
 services of the wife in the marital relation are all due to the
-husband,<span id="fr_38"></span>[38](#fn_38) her earnings all belong to
+husband,<span id="fr_38"></span>[38](#fn_38.md) her earnings all belong to
 him; she is a slave owning nothing and with no rights in the property
 her husband calls his own. This wife's crime was provoked by
 pre-existing criminal legislation of the christian church and state.
@@ -604,7 +604,7 @@ appointed master to whom she owed more than human allegiance: she was a
 criminal so great that the punishment of severing her hand and head were
 deemed entirely inadequate, and her body fastened to a stake was covered
 with inflammable material and burned to ashes.<span
-id="fr_39"></span>[39](#fn_39)
+id="fr_39"></span>[39](#fn_39.md)
 
 <span id="page_318">p. 318</span>
 
@@ -638,7 +638,7 @@ Manning, the former basing
 his opposition and his letter of remonstrance to the cardinal upon the
 ground of the admitted legal right of a husband, under English law, to
 ordain the form of his wife's religion.<span
-id="fr_40"></span>[40](#fn_40) Nor do we find material difference in the
+id="fr_40"></span>[40](#fn_40.md) Nor do we find material difference in the
 United States. In Virginia, in the winter of 1891, a wife, despite the
 opposition of her husband, caused her infant to be baptized by an
 Episcopal clergyman into that church, the husband openly expressing his
@@ -654,7 +654,7 @@ naming of a child was settled by law. The father and mother each filed a
 certificate with the registrar; the father employing a lawyer who to the
 satisfaction of the city solicitor proved his client's prior right, and
 an order was issued to the registrar in favor of the father's choice of
-name.<span id="fr_41"></span>[41](#fn_41) The claim of the Christian
+name.<span id="fr_41"></span>[41](#fn_41.md) The claim of the Christian
 husband in each of these instances was that of his supreme and prior
 right, on the church theory incorporated into law, that both wife and
 child belong to the husband. The celebrated Agar-Ellis case in England
@@ -723,7 +723,7 @@ those of the women of England. A famous suit was tried in Ohio, 1879,
 known as the "Lucy Walker Case," a former wife sueing the present wife
 for alienating her husband's affections. Great attention was called to
 this suit from the high position of the parties; Judge Seney, former
-husband of one, and present husband<span id="fr_42"></span>[42](#fn_42)
+husband of one, and present husband<span id="fr_42"></span>[42](#fn_42.md)
 of
 
 <span id="page_322">p. 322</span>
@@ -1057,12 +1057,12 @@ scratched, and she was badly bruised on her back and arms. Mr. justice
 Day practically told the jury to acquit. He said the case ought not to
 have come before them, and he suggested that the prisoner had been
 merely exercising that control over his wife which was still sanctioned
-by the law of England.<span id="fr_43"></span>[43](#fn_43) The jury
-acquitted promptly, as directed.<span id="fr_44"></span>[44](#fn_44)
+by the law of England.<span id="fr_43"></span>[43](#fn_43.md) The jury
+acquitted promptly, as directed.<span id="fr_44"></span>[44](#fn_44.md)
 
     To such extent is this abuse of woman under law as to have called
 forth a vigorous article in the "Westminster Review,"<span
-id="fr_45"></span>[45](#fn_45) under head of "The Law in Relation to
+id="fr_45"></span>[45](#fn_45.md) under head of "The Law in Relation to
 Woman."
 
     There is another cruel injustice to woman, which is so notorious as
@@ -1092,7 +1092,7 @@ it is necessary that it should be punished with greater severity than
 cruelty, we rejoice that the argument applies quite as forcibly to
 wife-beating. which, unfortunately is as common an offence as can be
 found among a certain class of society.<span
-id="fr_46"></span>[46](#fn_46)
+id="fr_46"></span>[46](#fn_46.md)
 
     The comparison here shown between the penalty of criminally
 assaulting and wounding women, not alone the man's wife but also her
@@ -1149,15 +1149,15 @@ brutal wife beating in that "Athens of America," every week. So common
 this form of assault that a bill was introduced in the Massachusetts
 lower House for the punishment of wife beaters, by a public whipping of
 not less than ten or more than thirty lashes.<span
-id="fr_47"></span>[47](#fn_47) For those refractory wives of mediæval
+id="fr_47"></span>[47](#fn_47.md) For those refractory wives of mediæval
 christian England, whom whippings failed to subdue, other punishments
 were invented; such as the "Ducking Stool," the "Scold's Bridle,"
-etc.<span id="fr_48"></span>[48](#fn_48) The Scold's Bridle, also known
+etc.<span id="fr_48"></span>[48](#fn_48.md) The Scold's Bridle, also known
 as the Witches Bridle and the Brank, was an extremely painful method of
 torture, although not as absolutely dangerous to life as the Ducking
 Stool, yet fastened in the mouth, its sharp edges pressing down upon the
 tongue, if the "Brawling Woman" attempted to speak her tongue was cut
-and the torture great.<span id="fr_49"></span>[49](#fn_49) An American
+and the torture great.<span id="fr_49"></span>[49](#fn_49.md) An American
 clergyman describing in a public lecture an "ancient machine" seen by
 him in christian England,
 
@@ -1168,9 +1168,9 @@ clerical intimation that it could now be made by an ordinary blacksmith.
 Two curved plates of bronze conformed to the shape of the head, were
 delicately hinged and provided with hooks to place in the corners of the
 mouth. When adjusted, the machine was buckled back of the head.<span
-id="fr_50"></span>[50](#fn_50)
+id="fr_50"></span>[50](#fn_50.md)
 
-The Ducking Stool<span id="fr_51"></span>[51](#fn_51) consisted of a
+The Ducking Stool<span id="fr_51"></span>[51](#fn_51.md) consisted of a
 chair securely fastened upon a long plank balanced upon upright
 standards, and so arranged that the victim could be launched sixteen or
 eighteen feet into the pond or stream, while the executioner of the
@@ -1189,7 +1189,7 @@ Ducking Stool, still preserved, was used in 1809, by order of the
 magistrates, upon a woman named Jane Corran, who received her punishment
 near Kenwater, Bridge. As late as 1817 Sarah Leeke was wheeled around
 town in this chair, although the lowness of the stream prevented the
-ducking<span id="fr_52"></span>[52](#fn_52) she would otherwise have
+ducking<span id="fr_52"></span>[52](#fn_52.md) she would otherwise have
 received. Railing and scolding or "answering back," were deemed crimes
 on the part of the wife, who, "commanded to be under obedience," was
 expected silently to submit to oppression of every kind. That she did
@@ -1244,7 +1244,7 @@ that all such persons convicted before any court or magistrate that hath
 proper cognizance of the case, shall be gagged, set in a ducking stool
 and dipped over bead and ears three times, in some convenient place of
 fresh or salt water, as the court or magistrate shall judge meet.<span
-id="fr_53"></span>[53](#fn_53)
+id="fr_53"></span>[53](#fn_53.md)
 
     Nor must we believe that the punishment of women
 
@@ -1254,7 +1254,7 @@ for use of the tongue, is of past ages. Even in the United States, women
 are to this day sometimes arraigned for free speaking. Laws to punish
 "babbling women" enacted in colonial days are still in force. It is but
 a few years since a women of St. Louis was arrested and brought before a
-magistrate as a common scold.<span id="fr_54"></span>[54](#fn_54) In the
+magistrate as a common scold.<span id="fr_54"></span>[54](#fn_54.md) In the
 State of New Jersey, 1884, a woman was brought before the courts,
 convicted, on the old grounds of being a "common scold" and fined $25,
 and costs. Death not infrequently accompanied the use of the ducking
@@ -1310,7 +1310,7 @@ the man who bought her
 escaped without punishment or censure. The judge in quoting the tenth
 commandment, graded the wife with the ox and the ass in the belongings
 of a man; the decision thus ranking her with the cattle of the
-stable.<span id="fr_53"></span>[53](#fn_53) To add to the infamy of this
+stable.<span id="fr_53"></span>[53](#fn_53.md) To add to the infamy of this
 trial, it was the occasion of much unseemly jesting and laughter. It
 took place at the Liverpool Assizes before Justice Denham. His judgment
 paralleled the decision of the
@@ -1318,14 +1318,14 @@ paralleled the decision of the
 <span id="page_341">p. 341</span>
 
 "Seney Trial" in Ohio, 1879. The selling a wife as a cow<span
-id="fr_56"></span>[56](#fn_56) in the market place was by no means
+id="fr_56"></span>[56](#fn_56.md) in the market place was by no means
 uncommon during the early part of the century in England. Ashton<span
-id="fr_57"></span>[57](#fn_57) gives numerous instances of such sales.
+id="fr_57"></span>[57](#fn_57.md) gives numerous instances of such sales.
 
 The laws of England are those of Christianity based upon the theological
 teaching of man's superiority over woman; she is his servant,
 subordinate to him in all things, a condition except where removed by
-special statute, existing to-day.<span id="fr_58"></span>[58](#fn_58)
+special statute, existing to-day.<span id="fr_58"></span>[58](#fn_58.md)
 Returned missionaries who refer to the wife as waiting upon the husband
 at table in heathen countries not eating until he is satisfied, as proof
 of the different customs brought about by christianity, should inform
@@ -1378,7 +1378,7 @@ disfranchised by the XLIX. Congress of the United States because of the
 polygamy of a portion of the Mormon men; all women of that territory
 were deprived of their vested rights, rights that had been in existence
 for seventeen years, because of the crimes of men.<span
-id="fr_59"></span>[59](#fn_59) Against this injustice, the Woman
+id="fr_59"></span>[59](#fn_59.md) Against this injustice, the Woman
 Suffragists of the country protested through means of a committee in a
 
     MEMORIAL.
@@ -1464,7 +1464,7 @@ borrowed, was the outgrowth of Christianity, based upon a belief in
 man's superiority and woman's subordination to him as entering every
 relation of life. All legislation was class; the line was sex. During
 the early and middle ages man exhibited an antagonism towards
-woman,<span id="fr_60"></span>[60](#fn_60) which if not wholly created
+woman,<span id="fr_60"></span>[60](#fn_60.md) which if not wholly created
 by religious belief was strenuously
 
 <span id="page_346">p. 346</span>
@@ -1484,7 +1484,7 @@ churchmen and laymen passed unreproved, but an heiress forfeited her
 possessions by unchastity, and wily plans were laid to thus gain
 possession of her property, the betrayer receiving payment from the
 guardian, whose tool he was, for his perfidy.<span
-id="fr_61"></span>[61](#fn_61) To this moral code we trace the present
+id="fr_61"></span>[61](#fn_61.md) To this moral code we trace the present
 legal condition of girls, daughters having no status in the courts in
 case of betrayal. The father alone, as master and owner, can sue for
 loss of her services, while the injury to herself is passed by, even
@@ -1506,7 +1506,7 @@ estate which she possessed, also became his. Thus her property went to
 the enrichment of another family. Her home was, no longer with her own
 people, but where her husband chose to make it. Salic law derived its
 name from Sala, a house. Salic land, said Montesquieu, was the land
-belonging to the house.<span id="fr_62"></span>[62](#fn_62) At time of
+belonging to the house.<span id="fr_62"></span>[62](#fn_62.md) At time of
 its adoption the line of descent was male. Under it during the middle
 ages when a daughter married, she received merely a chaplet of roses.
 Thenceforth, her interests were elsewhere, and her children became part
@@ -1533,7 +1533,7 @@ amount of property he had received with his wife. This was kept as a
 separate fund, the survivor taking the whole. Hallum designated the
 contest between Phillippa and Edward as in every way remarkable, but
 especially on account of its result in the exclusion of woman from the
-succession,<span id="fr_62"></span>[62](#fn_62) then first suggested. It
+succession,<span id="fr_62"></span>[62](#fn_62.md) then first suggested. It
 was the Latin races rather than the Scandinavian or Teutonic that first
 essentially degraded woman. The Riparian Franks, pre-eminent as lovers
 of liberty, were the first who broke away from the rule of this law.
@@ -1580,7 +1580,7 @@ her husband, and she thus became a component part of another family. She
 no longer belonged to the family of her birth, but to that of her
 purchaser. The Franks were the first to break Salic customs and to
 permit a father to settle an estate upon his daughter and her
-children.<span id="fr_64"></span>[64](#fn_64) Under the law of Gavelkind
+children.<span id="fr_64"></span>[64](#fn_64.md) Under the law of Gavelkind
 as it existed in Great Britain, daughters never inherited, although
 
 <span id="page_350">p. 350</span>
@@ -1608,7 +1608,7 @@ in case there were sons, began to be excluded from the real estate.
 These laws, so essentially Salic, it can readily be seen, originated in
 the mundium. Passing as a mund woman, into another family, the
 succession of property to her under this slave<span
-id="fr_45"></span>[45](#fn_45) condition, was contrary to sound domestic
+id="fr_45"></span>[45](#fn_45.md) condition, was contrary to sound domestic
 policy. To bestow property upon a daughter
 
 <span id="page_351">p. 351</span>
@@ -1623,7 +1623,7 @@ possession of property has ever made. This difference especially
 noticeable during Feudalism in case of an heiress with fiefs, is no less
 so, at the present day. It is a mark of an unripe civilization that the
 rights of property have ever been regarded before those of person.
-Walker<span id="fr_66"></span>[66](#fn_66) over sixty years since,
+Walker<span id="fr_66"></span>[66](#fn_66.md) over sixty years since,
 recognized the power of property in ameliorating woman's condition, then
 declaring that the first step toward an acknowledgment of her equality,
 must be a recognition of her rights of property; his broad knowledge of
@@ -1640,7 +1640,7 @@ affecting humanity, and is one in which woman is most deeply concerned.
 At close of the civil war Frederick Douglas advised colored men to get
 property. He had not failed to learn the connection between property and
 personal rights. Since Mississippi, in 1839,<span
-id="fr_67"></span>[67](#fn_67)
+id="fr_67"></span>[67](#fn_67.md)
 
 <span id="page_352">p. 352</span>
 
@@ -1678,10 +1678,10 @@ or indirectly traceable to
 
 <span id="page_353">p. 353</span>
 
-their influence.<span id="fr_68"></span>[68](#fn_68) Our Anglo Saxon
+their influence.<span id="fr_68"></span>[68](#fn_68.md) Our Anglo Saxon
 forefathers were early amenable to religious authority and for a period
 of many hundred years clerical influence was exceedingly powerful over
-them.<span id="fr_69"></span>[69](#fn_69) The church is responsible for
+them.<span id="fr_69"></span>[69](#fn_69.md) The church is responsible for
 the severity with which the simplest infraction, of law was visited upon
 the most humble and helpless classes, and the greater penalty awarded to
 those least capable of resistance. It was for the free man of low
@@ -1691,14 +1691,14 @@ drowned, which Pike regards as the origin of dragging witches through a
 pond. If the thief was a slave and stole from any but her own master,
 she was condemned to be burnt alive, and her fellow slaves were
 compelled to assist at the incineration.<span
-id="fr_70"></span>[70](#fn_70) None dared to speak a good word for women
+id="fr_70"></span>[70](#fn_70.md) None dared to speak a good word for women
 in opposition to church teachings. All her instincts were held as evil.
 As the law and the father robbed the daughter, so the law and the church
 alike robbed the family. By ancient English law, as before noted, every
 person who made a will was bound to remember his lord with the best
 thing he possessed, and afterwards the church with the next best thing,
 but as the church gained power it took supreme place in the
-testament.<span id="fr_71"></span>[71](#fn_71) The peasant was looked
+testament.<span id="fr_71"></span>[71](#fn_71.md) The peasant was looked
 upon as but slightly above the cattle he cared for. A certain degree of
 sameness in material and intellectual conditions everywhere existed. The
 masses over christendom were alike under bondage of thought
@@ -1730,14 +1730,14 @@ Catholic Church. It is but a few decades since these prohibitions
 commencing with "a man shall not marry his grand-mother;" "a woman shall
 not marry her grand-father;" and extending down to remote
 cousinship,--were to be found printed upon the fly leaves of every New
-Testament.<span id="fr_78"></span>[78](#fn_78)
+Testament.<span id="fr_78"></span>[78](#fn_78.md)
 
 <span id="page_355">p. 355</span>
 
     For a long period after the reformation, English women were not
 permitted to read the Bible, a statute of the Eighth Henry prohibiting
 "women and others of low degree," from its use.<span
-id="fr_73"></span>[73](#fn_73) Apparently for the purpose of preventing
+id="fr_73"></span>[73](#fn_73.md) Apparently for the purpose of preventing
 conversation among women regarding the tyranny under which they were
 kept, a law was passed forbidding the residence of more than one woman
 in a cottage, and this after the Protestant religion had been confirmed
@@ -1747,7 +1747,7 @@ homeless sister. The especial criminality of thus "harboring" one's
 female relatives lay in the fact of their being "masterless." As late as
 the XVI. century the law still entered houses, and magistrates bound out
 to servile labor all women between eleven and forty years of age.<span
-id="fr_74"></span>[74](#fn_74) The degradation of women under the
+id="fr_74"></span>[74](#fn_74.md) The degradation of women under the
 reformation was still more gross than under catholicism. The worship of
 the Virgin Mary, and the canonization of many women as saints in the
 Romish Calendar, threw a certain halo about womankind that is impossible
@@ -1779,7 +1779,7 @@ the celibate condition, has influenced thought in many singular
 directions. England's married women under the combined influence of
 church and state, deprecate the claim Of suffrage for themselves,
 although asking it for single women and widows.<span
-id="fr_75"></span>[75](#fn_75)
+id="fr_75"></span>[75](#fn_75.md)
 
     The bill referred to in the Memorial, 49 Vic, extended Parliamentary
 franchise to single women alone.
@@ -1795,7 +1795,7 @@ elections.
 
     The word "coverture" expresses a married woman's subordinate
 condition, both civilly and religiously.<span
-id="fr_76"></span>[76](#fn_76) It means, under the power of the husband;
+id="fr_76"></span>[76](#fn_76.md) It means, under the power of the husband;
 controlled by the husband; possessing neither personal nor individual
 rights; a being not allowed to use her own judgment unless such judgment
 is ratified by the husband. Under coverture, the wife can make no
@@ -1806,7 +1806,7 @@ they ask for single women, they practically endorse the judgment of
 church and state in favor of celibacy. When married women thus ignore
 their equality with single women, they practically condemn that
 relation, practically affirm the superior purity of a celibate
-condition.<span id="fr_77"></span>[77](#fn_77) The low estimate of women
+condition.<span id="fr_77"></span>[77](#fn_77.md) The low estimate of women
 in England as late as the seventeenth and eighteenth centuries is shown
 in its literature, especially that emanating from its great
 universities. The betrayal of women formed the basis of story and song;
@@ -1840,7 +1840,7 @@ state.
 
     There have ever been many severities connected with dower in
 England. By old law if a widow married within a year from the death of
-her husband she forfeited her dower.<span id="fr_78"></span>[78](#fn_78)
+her husband she forfeited her dower.<span id="fr_78"></span>[78](#fn_78.md)
 This law accounts for the
 
 <span id="page_359">p. 359</span>
@@ -1853,7 +1853,7 @@ while under the most ancient law of Christian Europe, the widow lost her
 dower if she married again, the Turks recognizing the greater freedom of
 a widow, pay her who re-marries, a sum for parting with her liberty.
 
-    The general rule of dower<span id="fr_79"></span>[79](#fn_79) held
+    The general rule of dower<span id="fr_79"></span>[79](#fn_79.md) held
 that when arranged at time of marriage, although the husband then
 possessed but a small portion of freehold and afterwards made great
 acquisitions, if no mention of new purchases was made at time of such
@@ -1875,7 +1875,7 @@ right in personal property can be aliened by the husband in the United
 States. During the wife's lifetime he may give, sell, or in any way
 dispose of the whole of his personal property absolutely, and the wife
 has no redress; she is not held as having any right, title or interest
-in it as long as her husband lives.<span id="fr_80"></span>[80](#fn_80)
+in it as long as her husband lives.<span id="fr_80"></span>[80](#fn_80.md)
 The husband can also alien his real estate, subject only to his wife's
 dower right in case she survive him; should she decease before him she
 has no power over it. The law in England, as laid down by Glanville, was
@@ -1915,7 +1915,7 @@ have sufficient command of her purse or of her future actions wherewith
 to procure materials for making a contract. The legal presumption then
 is, that she did not intend to make one, and therefore the allegation
 that she did make a contract would imply on the face of it a fraud.<span
-id="fr_81"></span>[81](#fn_81)
+id="fr_81"></span>[81](#fn_81.md)
 
     The legal presumption that the wife has neither sufficient command
 of her purse or of her future actions to guarantee an intent of making a
@@ -1939,8 +1939,8 @@ husband might not otherwise have been so disposed.
     As "masterless women," widows in England have received similar
 contemptuous treatment as accorded single women, to whom that country
 long showed such barbarity. It is curiously noted by Alexander<span
-id="fr_82"></span>[82](#fn_82) that Moses placed widows in the same rank
-as harlots and profane women.<span id="fr_83"></span>[83](#fn_83) The
+id="fr_82"></span>[82](#fn_82.md) that Moses placed widows in the same rank
+as harlots and profane women.<span id="fr_83"></span>[83](#fn_83.md) The
 law of tenancy by courtesy, which gives a husband rights in the separate
 property of a wife, is very unjust when compared with the dower rights
 of a wife. In such case, provided she has borne a living child, even
@@ -1987,7 +1987,7 @@ accompanied it, the woman giving free consent equally with the man. This
 marriage was looked upon as a contract between equals. The property of
 the wife did not revert to the husband. She retained its control,
 loaning it and receiving interest entirely free from the interference of
-her husband.<span id="fr_84"></span>[84](#fn_84) Ancient Irish law, also
+her husband.<span id="fr_84"></span>[84](#fn_84.md) Ancient Irish law, also
 secured to the mother equal authority with the father over the children
 of the marriage. There is no trace of that arbitrary control over both
 wife and
@@ -1995,7 +1995,7 @@ wife and
 <span id="page_364">p. 364</span>
 
 children with which Christianity endowed the father.<span
-id="fr_85"></span>[85](#fn_85) The daughter was held to be more closely
+id="fr_85"></span>[85](#fn_85.md) The daughter was held to be more closely
 related to the father; a son to the mother, this belief contributing an
 equality of right between the sexes. These laws were authoritative over
 the whole of Ireland until the invasion of the Danes, in the eight
@@ -2008,7 +2008,7 @@ the son was held as more nearly related to his mother, this ancient code
 provided that in case his parents were poor and he had not wealth enough
 to support both father and mother, he was to leave the latter to die in
 the ditch, but was to carry his father back to his own home.<span
-id="fr_86"></span>[86](#fn_86) Tradition ascribes this code to St.
+id="fr_86"></span>[86](#fn_86.md) Tradition ascribes this code to St.
 Patrick in the fifth century. Under modern christian law, the legal
 obligation of a son to support his father is greater than it is to
 support his mother, quite in opposition to the old Scandinavian (pagan)
@@ -2033,13 +2033,13 @@ into Wales, innumerable disputes arose upon this ground, the Welsh woman
 being persistent in her determination to cling to her old rights, and
 for nearly two hundred years her will upon this subject was stronger
 than the will of English legislators, as proven by legal records.<span
-id="fr_87"></span>[87](#fn_87) In other respects the ancient law of
+id="fr_87"></span>[87](#fn_87.md) In other respects the ancient law of
 Wales favored woman. A husband's fetid breath was held as good cause for
 divorce on part of the wife, who in such case took with her the whole of
 her property. While still living with her husband, the Welsh wife
 possessed the right to three kinds of property, cowyll, gowyn, and
 sarand, known as her three peculiars.<span
-id="fr_88"></span>[88](#fn_88) Old Welsh law was unique in that it
+id="fr_88"></span>[88](#fn_88.md) Old Welsh law was unique in that it
 forbade both satisfaction and vengeance for
 
 <span id="page_366">p. 366</span>
@@ -2047,15 +2047,15 @@ forbade both satisfaction and vengeance for
 the same wrong. Even if detecting his wife in adultery, for which he
 should chastise her, the husband was forbidden any satisfaction besides
 that. In case of an illegitimate birth the law provided that the man
-should wholly maintain the child,<span id="fr_89"></span>[89](#fn_89) a
+should wholly maintain the child,<span id="fr_89"></span>[89](#fn_89.md) a
 species of justice not found under Christianity. The laws of "Howell the
 Good," enacted at a later date under the supervision of the church<span
-id="fr_90"></span>[90](#fn_90) favored the man at the woman's expense.
+id="fr_90"></span>[90](#fn_90.md) favored the man at the woman's expense.
 Under these laws if a husband and wife separated, the father took
 two-thirds of the children, the oldest and the youngest falling to his
 share, while the middle one fell to the mother A woman was not admitted
 as surety, or as a witness in matters concerning a man.<span
-id="fr_91"></span>[91](#fn_91) In the division of property the daughters
+id="fr_91"></span>[91](#fn_91.md) In the division of property the daughters
 received only one half the amount given to the sons.
 
     Under the christian laws of England, by which the property of a
@@ -2124,7 +2124,7 @@ place but once in fifty births. Thus forty-nine per cent of Parisian
 children under the Code Napoleon, theoretically come into the world
 without fathers--they are born fatherless. A still more heinous
 provision of this Code, forbids all research into paternity.<span
-id="fr_97"></span>[97](#fn_97) The father of an illegitimate
+id="fr_97"></span>[97](#fn_97.md) The father of an illegitimate
 child--rendered illegitimate by church canons--is held as both morally
 and legally irresponsible for his fatherhood. Under this Code, upon the
 mother falls all the contumely associated
@@ -2137,7 +2137,7 @@ resulting from such unjust legislation, and for which the church is
 directly responsible. In the whole history of French jurisprudence, not
 a single case can be found where the father of an illegitimate child has
 been compelled to acknowledge his offspring.<span
-id="fr_91"></span>[91](#fn_91) Under French law, woman is a perpetual
+id="fr_91"></span>[91](#fn_91.md) Under French law, woman is a perpetual
 minor under the guardianship of her own, or that of her husband's
 family. Only in case of the birth of an illegitimate child is she
 treated as a responsible being, and then only that discomfort and
@@ -2168,11 +2168,11 @@ Jauioz,, we find the Breton farmer whose wife has given birth to a
 daughter, still saying, "my wife has had a miscarriage." Question an
 ordinary French peasant in. regard to his family and if the father of
 girls alone, he will reply, "I have no children, sir I have only
-daughters."<span id="fr_94"></span>[94](#fn_94)
+daughters."<span id="fr_94"></span>[94](#fn_94.md)
 
 During the feudal period parents gave themselves up to merry-making and
 rejoicing upon the marriage of the last of their daughters.<span
-id="fr_95"></span>[95](#fn_95) Even yet, in some countries, the birth of
+id="fr_95"></span>[95](#fn_95.md) Even yet, in some countries, the birth of
 a boy is announced by a servant wearing a white apron and carrying two
 bouquets in her hand; if a girl she carries but one; in some countries
 the father of a boy annually received the gift of two loads of wood from
@@ -2180,7 +2180,7 @@ the state; but a single one if the child was a girl. Even in the United
 States we yet see this contempt of the feminine variously manifested,
 although the kindness and affection of girls to their parents, is
 usually more notable, than that of boys.<span
-id="fr_96"></span>[96](#fn_96) Family regard is usually manifested
+id="fr_96"></span>[96](#fn_96.md) Family regard is usually manifested
 
 <span id="page_371">p. 371</span>
 
@@ -2203,7 +2203,7 @@ these laws were a dead letter, so many instances of loose connections
 are recorded in the Iceland Sagas. It is, however, a question of fact
 that these illegal relations, according to the same Sagas were much more
 frequent after the introduction of christianity than before.<span
-id="fr_97"></span>[97](#fn_97) Roman law presumed that no woman went
+id="fr_97"></span>[97](#fn_97.md) Roman law presumed that no woman went
 astray without the seduction and arts of the other sex, upon whom alone
 the punishment fell. Under old Saxon, Gothic and Scandinavian law, rape
 was punished by death. Under the Conqueror,
@@ -2232,7 +2232,7 @@ drudge, upon whom falls all the most severe portion of work. Equally in
 Germany as in other christian lands, is the wife looked upon as the
 servant of the husband, to whom she bears children that are his alone,
 and to whom greater deference is paid by the mother when a large number
-of little ones call him father.<span id="fr_98"></span>[98](#fn_98)
+of little ones call him father.<span id="fr_98"></span>[98](#fn_98.md)
 
 <span id="page_373">p. 373</span>
 
@@ -2252,7 +2252,7 @@ perpetual minor. It matters not if the family property all came through
 the wife, or was accumulated by her labor, she is still held as not of
 sufficient judgment for its control. In Prussia, woman is still
 forbidden to take part in political or other public meetings.<span
-id="fr_99"></span>[99](#fn_99)
+id="fr_99"></span>[99](#fn_99.md)
 
 <span id="page_374">p. 374</span>
 
@@ -2287,7 +2287,7 @@ Europe, and to some extent of the United States. Queen Victoria herself
 did not escape criticism, notwithstanding the prudery for which she is
 famed, because of her entertaining the Grand Duke at Windsor soon after
 this marriage unaccompanied by his wife,<span
-id="fr_100"></span>[100](#fn_100) for the purpose, it was intimated, of
+id="fr_100"></span>[100](#fn_100.md) for the purpose, it was intimated, of
 placing him under the influence of Princess Beatrice. The very fact of
 such suggestion, whether true or not, as well as the fact that Queen
 Victoria universally conceded a prude in reference to infractions of the
@@ -2319,28 +2319,28 @@ character falls upon the girl of this class who becomes a mother outside
 of legal prevision, but such motherhood upon the contrary is looked upon
 as the means of a higher position and greater wages as nurse. As *amme*
 in a rich or noble family she becomes a person of arrogance, part of the
-pomp and show of the house.<span id="fr_101"></span>[101](#fn_101)
+pomp and show of the house.<span id="fr_101"></span>[101](#fn_101.md)
 
     Despite these wrongs of the ages towards woman, of late so vividly
 presented, we still find both Church and State opposing a free
 discussion of the question. Within the last decade two northern European
 countries have strangely exhibited such hostility, the opposition coming
 upon ground of woman's surpassing sinfulness.<span
-id="fr_102"></span>[102](#fn_102)
+id="fr_102"></span>[102](#fn_102.md)
 
 <span id="page_377">p. 377</span>
 
     But the most notable opposition has been against the works of two
 eminent literary men. "The Doll's House"<span
-id="fr_103"></span>[103](#fn_103) by Ibsen, the dramatic poet of Norway,
+id="fr_103"></span>[103](#fn_103.md) by Ibsen, the dramatic poet of Norway,
 attacking the irresponsible position of the wife under present marriage
 law, brought about the social ostracism of its author.<span
-id="fr_104"></span>[104](#fn_104) Sweden's supremely great thinker of
+id="fr_104"></span>[104](#fn_104.md) Sweden's supremely great thinker of
 the present century, August Strindberg, recently published a work
 entitled "Giftas" (to marry), which incidentally treated of the
 influence of religion upon this relation.<span
-id="fr_105"></span>[105](#fn_105) The State authorities at once ordered
-its confiscation.<span id="fr_106"></span>[106](#fn_106) Instead of a
+id="fr_105"></span>[105](#fn_105.md) The State authorities at once ordered
+its confiscation.<span id="fr_106"></span>[106](#fn_106.md) Instead of a
 Papal *Librorum Prohibitorum*, it fell under the censure and prohibition
 of a Protestant State. But no more ready method for increasing its
 circulation could have been devised; so rapidly was the first edition of
@@ -2376,7 +2376,7 @@ resistance from the church. The only opponent of Mr. Berner's Bill,
 1882, for permitting women to take the first two degrees in the
 University, those of Arts and Philosophy, was from a **clergyman**. The
 bill passed the Odelstling, one of the two Chambers of the Storthing,
-with only his dissentent voice.<span id="fr_107"></span>[107](#fn_107)
+with only his dissentent voice.<span id="fr_107"></span>[107](#fn_107.md)
 It received the unanimous vote of the other house, the Sagthing, April
 21, becoming a law June 15 of that year.
 
@@ -2427,9 +2427,9 @@ through that, of the family. Nor are we to regard this as strange
 inasmuch as every form of christianity regards woman as an inferior
 being, the creator of original sin, rendering the sacrifice of a God
 necessary in order to re-establish the equilibrium overthrown by
-her.<span id="fr_108"></span>[108](#fn_108) Edmond Noble, in tracing the
+her.<span id="fr_108"></span>[108](#fn_108.md) Edmond Noble, in tracing the
 cause of the present social upheaval in that empire, says:<span
-id="fr_109"></span>[109](#fn_109)
+id="fr_109"></span>[109](#fn_109.md)
 
     Scarcely had the priests of the Greek Church begun their teaching of
 the new faith when change began to unsettle the position of woman and
@@ -2462,7 +2462,7 @@ it husbands were given almost unlimited power over wives, who were not
 even permitted to attend church without the husband's consent. The
 prominent ideas regarding woman under Byzantine Christianity have been
 her uncleanliness, her sinfulness and the small value of her life.<span
-id="fr_110"></span>[110](#fn_110) She is regarded as a being of lower
+id="fr_110"></span>[110](#fn_110.md) She is regarded as a being of lower
 order than man, and as looked upon in a different light by God.
 
     Where marriage is wholly or partly under church control, its very
@@ -2534,7 +2534,7 @@ probably terminate in the same manner.
 relation. The wife of a son living with his father, is looked upon as an
 additional animal to be urged to the utmost exertion. She is treated
 almost like a slave and with less consideration than a horse or cow.
-Lady Varney,<span id="fr_111"></span>[111](#fn_111) gives the chorus of
+Lady Varney,<span id="fr_111"></span>[111](#fn_111.md) gives the chorus of
 a song in the "Lament of a Young Russian Bride," which portrays the
 father-in-law's part.
 
@@ -2554,7 +2554,7 @@ bind themselves to the same purity; and aside from wife-beating, the
 husband's infidelities form the general subject of songs. Peter the
 Great, severely beat his Empress Catherine, but while demanding marital
 fidelity from her, was notorious for his liaisons with women of low
-rank.<span id="fr_112"></span>[112](#fn_112) Women were not counted in
+rank.<span id="fr_112"></span>[112](#fn_112.md) Women were not counted in
 the census of Russia until the reign of this monarch. So many "souls" no
 woman named. So long continued has been this treatment of woman, that
 the poet Nekrasof says:
@@ -2577,7 +2577,7 @@ Church, but under slightly different aspects. The worship of saints is
 an important part of the Byzantine religion There are two saints, to
 whom if a person prays as he goes out to commit a crime, however
 heinous, he takes his pardon with him.<span
-id="fr_113"></span>[113](#fn_113) The present condition of Russian
+id="fr_113"></span>[113](#fn_113.md) The present condition of Russian
 affairs is ascribed by Edmond Noble, to a long felt revolt in the minds
 of the people, against the social, political and religious system of
 that country. While the peasant implicitly obeys the czar, regarding his
@@ -2653,7 +2653,7 @@ jail. Her newly born babe deprived of its mother's care sickened and
 died; and this is part of Christian civilization for woman, in nearly
 the two thousandth year of its existence.
 
-    Booth's "Darkest England"<span id="fr_114"></span>[114](#fn_114)
+    Booth's "Darkest England"<span id="fr_114"></span>[114](#fn_114.md)
 relates a somewhat parallel case, parallel in so far as it shows the
 enslaved condition of the English wife under present christian laws.
 
@@ -2719,7 +2719,7 @@ Massachusetts, an action for cruelty on part of a husband came before a
 court, the charge being that he came home one night in February, when
 the thermometer was ten degrees below zero, and turned his wife and
 little child, with his wife's mother of eighty, out of the house.<span
-id="fr_115"></span>[115](#fn_115) While the wife was giving testimony,
+id="fr_115"></span>[115](#fn_115.md) While the wife was giving testimony,
 the judge interrupted, saying:
 
     "The husband had a right to do so, there was a quarrel between the
@@ -2754,7 +2754,7 @@ it could be proven that her life was in danger without such aid. The
 husband was held to possess vested rights in the wife, not only as
 against herself, but as against the world, and it is not half a decade
 since the notice below, appeared in a Kansas paper,<span
-id="fr_116"></span>[116](#fn_116) accompanied by the cut of a fleeing
+id="fr_116"></span>[116](#fn_116.md) accompanied by the cut of a fleeing
 woman.
 
     A $50 CAPTURE.
@@ -2805,7 +2805,7 @@ of the husband's right of forcible detention, was declared by him to be
 upon ground that English law virtually considered the wife as being
 under the guardianship of the husband, not a person in her own right,
 and this distinctly upon the ground of her perpetual infancy;<span
-id="fr_117"></span>[117](#fn_117) she must be restored to her husband.
+id="fr_117"></span>[117](#fn_117.md) she must be restored to her husband.
 As late at 1886, the "Personal Rights Journal" of England called
 attention to the suit of a clergyman for the "restitution of conjugal
 rights" and custody of child. The wife not being able to live in
@@ -2986,7 +2986,7 @@ which its church has so long condemned her.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Polygamy.](wcs09)
+[Next: Chapter VII. Polygamy.](wcs09.md)
 
 ------------------------------------------------------------------------
 
@@ -2994,12 +2994,12 @@ which its church has so long condemned her.
 
 <span id="fn_page_295">p. 295</span>  
 
-<span id="fn_1"></span>[1.](#fr_1)  He bought his bride of her parents
+<span id="fn_1"></span>[1.](#fr_1.md)  He bought his bride of her parents
 according to the custom of antiquity, and she followed the coemption by
 purchasing with *three* pieces of copper a just introduction to his
 treasury and household duties. Gibbon.--*Rome*, 4; 395.
 
-<span id="fn_2"></span>[2.](#fr_2)  By the law of the Twelve Tables
+<span id="fn_2"></span>[2.](#fr_2.md)  By the law of the Twelve Tables
 woman possessed the right of repudiation in marriage. These tables were
 a compilation of still older laws or customs, a <span
 id="fn_page_296">p. 296</span> species of common law incorporated into
@@ -3010,7 +3010,7 @@ than in all the volumes of Popinanus. H. S. Maine.--*Ancient Law*.
 
 <span id="fn_page_296">p. 296</span>  
 
-<span id="fn_3"></span>[3.](#fr_3)  After the Punic triumphs the matrons
+<span id="fn_3"></span>[3.](#fr_3.md)  After the Punic triumphs the matrons
 of Rome aspired to the common benefits of a free and opulent republic.
 \* \* \* They declined the solemnities of the old nuptials; defeated the
 annual prescription by an absence of three days, and without losing
@@ -3026,7 +3026,7 @@ dissolved. Gibbon.--*Rome*, 4; 347.
 
 <span id="fn_page_297">p. 297</span>  
 
-<span id="fn_4"></span>[4.](#fr_4)  Uses or Usucapion, was a form of
+<span id="fn_4"></span>[4.](#fr_4.md)  Uses or Usucapion, was a form of
 civil marriage securing the wife more freedom than the form which held
 her "under his thumb" as his daughter. It was as old or even older than
 the Twelve Tables, and although for many centuries not considered quite
@@ -3035,19 +3035,19 @@ husband's slave with divorce impossible, it eventually grew to be the
 customary form of Roman marriage. Maine.--*Early History of Ancient p.
 Institutions*. 517.
 
-<span id="fn_5"></span>[5.](#fr_5)  It was with the state of conjugal
+<span id="fn_5"></span>[5.](#fr_5.md)  It was with the state of conjugal
 relations thus produced that the growing Christianity of the Roman world
 waged a war ever increasing in fierceness, yet it remained to the last
 the basis of the Roman legal conception of marriage.--Ibid.
 
 <span id="fn_page_298">p. 298</span>  
 
-<span id="fn_6"></span>[6.](#fr_6)  When the Chremes of Terence
+<span id="fn_6"></span>[6.](#fr_6.md)  When the Chremes of Terence
 reproaches his wife for not obeying his orders and exposing their
 infant, he speaks like a father and master, and silences the scruples of
 a foolish woman. Milman--*Note to Gibbons Rome*.
 
-<span id="fn_7"></span>[7.](#fr_7)  "Usus, had the very important
+<span id="fn_7"></span>[7.](#fr_7.md)  "Usus, had the very important
 consequence that the woman so married remained in the eye of the law in
 the family of her father, and was under his guardianship and not that of
 her husband. A complete revolution had thus passed over the constitution
@@ -3055,16 +3055,16 @@ of the family. This must have been the period when a jurisconsult of the
 empire defined marriage as a life-long fellowship of all divine and
 human rights."
 
-<span id="fn_8"></span>[8.](#fr_8)  Reeves.--*Hist. Eng. Law*, p. 337.
+<span id="fn_8"></span>[8.](#fr_8.md)  Reeves.--*Hist. Eng. Law*, p. 337.
 
 <span id="fn_page_299">p. 299</span>  
 
-<span id="fn_9"></span>[9.](#fr_9)  Maine says: No society which
+<span id="fn_9"></span>[9.](#fr_9.md)  Maine says: No society which
 preserves any tincture of Christian Institutions is likely to restore to
 married women the personal liberty conferred on them by middle Roman
 laws.--*Ancient Law*.
 
-<span id="fn_10"></span>[10.](#fr_10)  Reeves says, while many great
+<span id="fn_10"></span>[10.](#fr_10.md)  Reeves says, while many great
 minds, as Lord Chief justice Hale, Lord <span id="fn_page_200">p.
 200</span> John Somers, Henry Spellman, Dr. Brady and Sir Martin Wright
 think feudalism came in with the conqueror, others, as Coke, Seldon,
@@ -3076,7 +3076,7 @@ instituted before the conquest.--History of English Law, Vol. I., p.
 
 <span id="fn_page_300">p. 300</span>  
 
-<span id="fn_11"></span>[11.](#fr_11)  A certain bishop, wishing a
+<span id="fn_11"></span>[11.](#fr_11.md)  A certain bishop, wishing a
 person to take charge of his castle during his absence, the latter asked
 how he should support himself. For answer the bishop pointed to a
 procession of tradesmen with their goods then crossing the valley at
@@ -3084,18 +3084,18 @@ their feet.
 
 <span id="fn_page_301">p. 301</span>  
 
-<span id="fn_12"></span>[12.](#fr_12)  Wives were bought in England from
+<span id="fn_12"></span>[12.](#fr_12.md)  Wives were bought in England from
 the fifth to the eleventh century. Herbert Spencer.--*Descriptive
 Sociology of England*.
 
-<span id="fn_13"></span>[13.](#fr_13)  There was another law even more
+<span id="fn_13"></span>[13.](#fr_13.md)  There was another law even more
 odious than Marquette; the father's right to the price of mundium, in
 other words, the price of his daughter. Legouvè.--*Hist. Morales des
 Femmes*, p. 104.
 
 <span id="fn_page_302">p. 302</span>  
 
-<span id="fn_14"></span>[14.](#fr_14)  Murder under the name of war, the
+<span id="fn_14"></span>[14.](#fr_14.md)  Murder under the name of war, the
 ruin of women under the name of gallantry, were the chief occupations of
 the nobility Pike.--*Hist. of Crime in England*.
 
@@ -3109,7 +3109,7 @@ was that the husband frequently set a price upon his wife's virtue, and
 made a profit out of his own dishonor. Fathers were ready to sell their
 daughters.--*Ibid*.
 
-<span id="fn_15"></span>[15.](#fr_15)  Both married and single found
+<span id="fn_15"></span>[15.](#fr_15.md)  Both married and single found
 their worst foes in their nearest friends. The traffic in women was none
 the less real in Christian England than it is now in the slave marts of
 Stamboul or Constantinople.--*Ibid*.
@@ -3134,38 +3134,38 @@ countries.
 
 <span id="fn_page_303">p. 303</span>  
 
-<span id="fn_16"></span>[16.](#fr_16)  A husband upon his return from
+<span id="fn_16"></span>[16.](#fr_16.md)  A husband upon his return from
 the Crusades, finding his wife had been untrue, imprisoned her in a room
 so small she could neither stand erect nor lie at full length; her only
 window looking out upon the dead body of her lover swinging in chains.
 
-<span id="fn_17"></span>[17.](#fr_17)  The Shoshone Indian who hires his
+<span id="fn_17"></span>[17.](#fr_17.md)  The Shoshone Indian who hires his
 wife out as a harlot, inflicts capital Punishment on her if she goes
 with another without his knowledge. Bancroft--*Native Races*, I; 436.
 
-<span id="fn_18"></span>[18.](#fr_18)  Therefore a single woman for whom
+<span id="fn_18"></span>[18.](#fr_18.md)  Therefore a single woman for whom
 no bid was offered, an "old maid" was looked upon with contempt as a
 being of no value in the eyes of men.
 
-<span id="fn_19"></span>[19.](#fr_19)  *Hist, of Crime in England*, Vol.
+<span id="fn_19"></span>[19.](#fr_19.md)  *Hist, of Crime in England*, Vol.
 I, p. 90.
 
 <span id="fn_page_304">p. 304</span>  
 
-<span id="fn_20"></span>[20.](#fr_20)  By the laws of the king of
+<span id="fn_20"></span>[20.](#fr_20.md)  By the laws of the king of
 Wessex, who lived at the end of the VIII. century, the purchase of wives
 is deliberately sanctioned; in the preface it is stated that the
 compilation was drawn up with the assistance of the Bishop of Winchester
 and a large assemblage of God's servants.--*Ibid*.
 
-<span id="fn_21"></span>[21.](#fr_21)  Nothing, says Pike, was
+<span id="fn_21"></span>[21.](#fr_21.md)  Nothing, says Pike, was
 considered but the market value of the woman, and the adulterer was
 compelled to expend the equivalent of her original price on the purchase
 of a new bride, whom he formally delivered to the injured husband. Nor
 were these laws merely secular, they were enacted and enforced by all
 the dread power of the church.--*Ibid*.
 
-<span id="fn_22"></span>[22.](#fr_22)  In the 14th century either the
+<span id="fn_22"></span>[22.](#fr_22.md)  In the 14th century either the
 female character was utterly dissolute, or the tyranny of husbands
 utterly reckless, when we find that it was no uncommon circumstance that
 women were strangled by masked assassins, or walking by the river side
@@ -3179,11 +3179,11 @@ Disraeli.--*Amenities of Literature*, Vol. I., p. 95.
 
 <span id="fn_page_305">p. 305</span>  
 
-<span id="fn_23"></span>[23.](#fr_23)  "And they were so covetous that
+<span id="fn_23"></span>[23.](#fr_23.md)  "And they were so covetous that
 for a little silver they sellen 'ein daughters, 'ein sisters and 'ein
 own wives, to putten 'ein to lechery."
 
-<span id="fn_24"></span>[24.](#fr_24)  The Church from the earliest
+<span id="fn_24"></span>[24.](#fr_24.md)  The Church from the earliest
 period furnished its full portion to the codes of our simple
 forefathers, that of the first Christian king being that for the
 property of God and the Church (if stolen) twelve-fold compensation was
@@ -3191,10 +3191,10 @@ to be made. Thorpe.--*Ancient Laws and Institutions of England*.
 
 <span id="fn_page_307">p. 307</span>  
 
-<span id="fn_2s"></span>[2s.](#fr_2s)  *Journal of Jurisprudence*, Vol.
+<span id="fn_2s"></span>[2s.](#fr_2s.md)  *Journal of Jurisprudence*, Vol.
 XVI., Edinburg, 1872.
 
-<span id="fn_26"></span>[26.](#fr_26)  Until the maiden was wedded she
+<span id="fn_26"></span>[26.](#fr_26.md)  Until the maiden was wedded she
 was kept strictly under control, and the kind of discipline which was
 enforced is well illustrated by a letter written late in the reign of
 Henry V1. The writer was the widow of a landholder, and she Was
@@ -3208,12 +3208,12 @@ in two or three places. Pike.--*History of Crime in England*.
 
 <span id="fn_page_308">p. 308</span>  
 
-<span id="fn_27"></span>[27.](#fr_27)  Britton.--*Introduction*. p. 39.
+<span id="fn_27"></span>[27.](#fr_27.md)  Britton.--*Introduction*. p. 39.
 Glanville.--*De Legibius Anglica*, p. 158.
 
 <span id="fn_page_311">p. 311</span>  
 
-<span id="fn_28"></span>[28.](#fr_28)  Doubtless in all ages marriages
+<span id="fn_28"></span>[28.](#fr_28.md)  Doubtless in all ages marriages
 were by far oftener determined by pecuniary considerations than by love
 or affection, but proofs are wanting to show that marriage was formerly
 made an object of speculation and exchange in the open market with
@@ -3224,13 +3224,13 @@ the sacredness of marriage, that some people never tire of repeating,
 the emptiest mockery. August Bebel.--*Woman in the Past, Present and
 Future*.
 
-<span id="fn_29"></span>[29.](#fr_29)  To make women the special objects
+<span id="fn_29"></span>[29.](#fr_29.md)  To make women the special objects
 of this torture, to teach them hardness of heart in the office of
 executioners, was refinement of atrocity. \* \* \* It was for slaves and
 women that the greatest atrocities were reserved.--*Hist. of Crime in
 England*.
 
-<span id="fn_30"></span>[30.](#fr_30)  Women in England had burned women
+<span id="fn_30"></span>[30.](#fr_30.md)  Women in England had burned women
 to death in the 10th century; they had been set on the stool of filth to
 be mocked as brewers of bad ale in the 11th; on the stool of filth they
 had been jeered as common scolds from time immemorial; they were legally
@@ -3239,7 +3239,7 @@ beaten by their husbands down to a comparatively recent period. In the
 muscle but hard of heart, more fit to be mothers of brigands than to
 rear gentle daughters or honest sons.--*Ibid*.
 
-<span id="fn_31"></span>[31.](#fr_31)  The elder Disraeli says: "Warton,
+<span id="fn_31"></span>[31.](#fr_31.md)  The elder Disraeli says: "Warton,
 too, has observed that the style of friendship between males in the
 reign of Elizabeth would not be tolerated at the present day." Disraeli
 himself declares that "a male friend, whose life and fortunes were
@@ -3248,18 +3248,18 @@ of him with excessive tenderness, appears to us nothing less than a
 chimerical and monstrous lover."--*Amenities of Literature*, Vol. II.,
 p. 105.
 
-<span id="fn_32"></span>[32.](#fr_32)  Poisoning or otherwise murdering
+<span id="fn_32"></span>[32.](#fr_32.md)  Poisoning or otherwise murdering
 husbands was a crime visited with peculiar severity in almost all codes.
 Lea.--*Superstition and Force*.
 
 <span id="fn_page_314">p. 314</span>  
 
-<span id="fn_33"></span>[33.](#fr_33)  Blackstone says it was to be no
+<span id="fn_33"></span>[33.](#fr_33.md)  Blackstone says it was to be no
 thicker than a man's thumb, thus an instrument of ever varying size.
 According to palmistry the thumb of a self-willed or obstinate man, a
 cruel man, or of a murderer, is very large at the upper portion or ball.
 
-<span id="fn_34"></span>[34.](#fr_34)  Petit treason may happen in three
+<span id="fn_34"></span>[34.](#fr_34.md)  Petit treason may happen in three
 ways: By a servant killing his master; a wife her husband, or an
 ecclesiastical person (either secular or regular) his superior, to whom
 he owes faith and obedience. The punishment of petit treason in a man is
@@ -3268,13 +3268,13 @@ burnt.--*Commentaries*, Vol. IV., p. 203-4.
 
 <span id="fn_page_315">p. 315</span>  
 
-<span id="fn_35"></span>[35.](#fr_35)  But in treason of every kind the
+<span id="fn_35"></span>[35.](#fr_35.md)  But in treason of every kind the
 punishment of women is the same and different from men. For as the
 decency due to the sex forbids the exposing and publicly mangling their
 bodies. their sentence is to be drawn (dragged) to the gallows and there
 be burnt alive.--*Ibid*, IV., p. 92.
 
-<span id="fn_36"></span>[36.](#fr_36)  The daily press, in its min-ate
+<span id="fn_36"></span>[36.](#fr_36.md)  The daily press, in its min-ate
 record of events, all unwittingly furnishes many a little item, whose
 primal reason only the student of history can read. The Syracuse, N. Y.,
 "Daily Standard," of February 22, 1884, published from its exchanges the
@@ -3287,7 +3287,7 @@ refused, saying: "She warn't no blood relation of mine."
 
 <span id="fn_page_316">p. 316</span>  
 
-<span id="fn_37"></span>[37.](#fr_37)  But now by the statute 30, George
+<span id="fn_37"></span>[37.](#fr_37.md)  But now by the statute 30, George
 3 c., 48, women convicted in all cases of treason shall receive judgment
 to be drawn to the place of execution, and there to be hanged by the
 neck till dead. Before this humane statute women ware sentenced to be
@@ -3295,10 +3295,10 @@ burnt alive for every species of treason.--*Commentaries*, p. 97.
 
 <span id="fn_page_317">p. 317</span>  
 
-<span id="fn_38"></span>[38.](#fr_38)  See decision *New York Court of
+<span id="fn_38"></span>[38.](#fr_38.md)  See decision *New York Court of
 Appeals*, January, 1892.
 
-<span id="fn_39"></span>[39.](#fr_39)  ST. PETERSBURG, September 22--In
+<span id="fn_39"></span>[39.](#fr_39.md)  ST. PETERSBURG, September 22--In
 April last Mrs. Aina Sainio, wife of a professor in the State College at
 Travasteheuse, Finland, was found guilty of poisoning her husband, and
 in accordance with the mediæval law, which is still in force there, she
@@ -3318,15 +3318,15 @@ inflammable material and set on fire.
 
 <span id="fn_page_319">p. 319</span>  
 
-<span id="fn_40"></span>[40.](#fr_40)  Reported In the "London
+<span id="fn_40"></span>[40.](#fr_40.md)  Reported In the "London
 Telegraph.
 
-<span id="fn_41"></span>[41.](#fr_41)  *Telegraphic Report* from
+<span id="fn_41"></span>[41.](#fr_41.md)  *Telegraphic Report* from
 Providence, R. I., September 24. 1892.
 
 <span id="fn_page_321">p. 321</span>  
 
-<span id="fn_42"></span>[42.](#fr_42)  Mrs. Judge Seney's trouble.--A
+<span id="fn_42"></span>[42.](#fr_42.md)  Mrs. Judge Seney's trouble.--A
 deserted wife suing the woman who enticed her husband away from her.
 
 TIFFIN, O., February 14-Judge Dodge gave his decision yesterday in the
@@ -3345,7 +3345,7 @@ husband.--"New York Sun."
 
 <span id="fn_page_331">p. 331</span>  
 
-<span id="fn_43"></span>[43.](#fr_43)  James Howard, thirty-five years
+<span id="fn_43"></span>[43.](#fr_43.md)  James Howard, thirty-five years
 old. was taken from jail at Texarkana, Ark., on Wednesday night by a mob
 and lynched. He was under arrest for horrible cruelty to his
 fourteen-year-old wife. The woman says that he frequently tied her feet
@@ -3356,14 +3356,14 @@ branding iron, used to brand live stock, and heating it red hot branded
 a large letter "H" on his wife's person in two places while she was tied
 to a bed.
 
-<span id="fn_44"></span>[44.](#fr_44)  "Pall Mall Gazette," 683.
+<span id="fn_44"></span>[44.](#fr_44.md)  "Pall Mall Gazette," 683.
 
-<span id="fn_45"></span>[45.](#fr_45)  "Westminster Review," September.
+<span id="fn_45"></span>[45.](#fr_45.md)  "Westminster Review," September.
 1887.
 
 <span id="fn_page_332">p. 332</span>  
 
-<span id="fn_46"></span>[46.](#fr_46)  Cato, the Roman (pagan), censor
+<span id="fn_46"></span>[46.](#fr_46)  Cato, the Roman (pagan.md), censor
 three centuries before the Christian era, said: "They who beat their
 wives or children lay sacrilegious hands on the most sacred things in
 the world. For myself, I prefer the character of a good husband to that
@@ -3371,26 +3371,26 @@ of a great senator."
 
 <span id="fn_page_334">p. 334</span>  
 
-<span id="fn_47"></span>[47.](#fr_47)  The bill failed of passing upon
+<span id="fn_47"></span>[47.](#fr_47.md)  The bill failed of passing upon
 the ground that the lash belonged to the dark ages, degrading a man by
 its infliction.
 
-<span id="fn_48"></span>[48.](#fr_48)  An English lady, *Mrs. Margaret
+<span id="fn_48"></span>[48.](#fr_48.md)  An English lady, *Mrs. Margaret
 Bright Lucus*, in writing a description of this implement said: "This
 country has even now but little to boast in her laws regarding woman,
 and your country is burdened with similar evil laws; the Franchise is
 most important."
 
-<span id="fn_49"></span>[49.](#fr_49)  The Museum at Reading, England,
+<span id="fn_49"></span>[49.](#fr_49.md)  The Museum at Reading, England,
 contains among its curiosities a bridle formerly used to stop the mouths
 of scolding women in that town.
 
 <span id="fn_page_335">p. 335</span>  
 
-<span id="fn_50"></span>[50.](#fr_50)  Sometimes called Timbrel, or Gum
+<span id="fn_50"></span>[50.](#fr_50.md)  Sometimes called Timbrel, or Gum
 Stole.
 
-<span id="fn_51"></span>[51.](#fr_51)  "It would seem that almost every
+<span id="fn_51"></span>[51.](#fr_51.md)  "It would seem that almost every
 English town of any importance had its ducking-stool for scolds. In 1741
 old Rugby paid 2s 4d for a chair for the ducking stool. The parish of
 Southam, in Warwickshire, got a beautiful stool built in 1713 at an
@@ -3413,16 +3413,16 @@ this institution was kept up all over the country.--London Graphic."
 
 <span id="fn_page_336">p. 336</span>  
 
-<span id="fn_52"></span>[52.](#fr_52)  John Dillon,--*Colonial
+<span id="fn_52"></span>[52.](#fr_52.md)  John Dillon,--*Colonial
 Legislation of America*.
 
 <span id="fn_page_337">p. 337</span>  
 
-<span id="fn_53"></span>[53.](#fr_53)  *Ibid*.
+<span id="fn_53"></span>[53.](#fr_53.md)  *Ibid*.
 
 <span id="fn_page_338">p. 338</span>  
 
-<span id="fn_54"></span>[54.](#fr_54)  JERSEY CITY, N. J., July 23,
+<span id="fn_54"></span>[54.](#fr_54.md)  JERSEY CITY, N. J., July 23,
 I887--Mrs. Mary Brody, convicted a few days ago of being a common scold,
 was to-day sentenced to pay a fine of $25 and costs.
 
@@ -3443,7 +3443,7 @@ devils laying hold of scolds, etc.--"St. Louis Republican."
 
 <span id="fn_page_340">p. 340</span>  
 
-<span id="fn_53"></span>[53.](#fr_53)  If it is a crime to buy and sell
+<span id="fn_53"></span>[53.](#fr_53.md)  If it is a crime to buy and sell
 wives, let the men who do such things be punished; if there is no crime
 in the transaction, why should the wife who is sold be punished.
 Unfortunately this is not a solitary instance of law made or
@@ -3502,7 +3502,7 @@ Times*," Bismarck, N.D.
 
 <span id="fn_page_341">p. 341</span>  
 
-<span id="fn_56"></span>[56.](#fr_56)  In "The Doncaster Gazette" of
+<span id="fn_56"></span>[56.](#fr_56.md)  In "The Doncaster Gazette" of
 March 25, 1803, a sale is thus described: "A fellow sold his wife, as a
 cow, in Sheffield market place a few days ago. The lady was put into the
 hands of a butcher, who held her by a halter fastened around her waist.
@@ -3511,7 +3511,7 @@ husband. 'Done,' cried the other, and immediately led away his bargain.
 We understand that the purchaser and his 'cow' live very happily
 together." Ashton.--*The Progress of Women*.
 
-<span id="fn_57"></span>[57.](#fr_57)  "Morning Herald," March 11,
+<span id="fn_57"></span>[57.](#fr_57.md)  "Morning Herald," March 11,
 1802.--On the 11th of last month a person sold at the market cross, in
 Chapel en la Frith, a wife, a child, and as much furniture as would set
 up a beggar, for eleven shillings.
@@ -3534,7 +3534,7 @@ Knaresborough. Owing to some jealousy, or other family difference, a man
 brought his wife, equipped in the usual style, and sold her at the
 market cross for 6d and a quid of tobacco.--*Ibid*.
 
-<span id="fn_58"></span>[58.](#fr_58)  Our laws are based on the
+<span id="fn_58"></span>[58.](#fr_58.md)  Our laws are based on the
 all-sufficiency of man's rights; society. exists for men only; for
 women, merely in so far as they are represented by some man, are in the
 *mundt*, or keeping of some man. Herbert Spencer.-*Descriptive
@@ -3542,14 +3542,14 @@ Sociology, England*.
 
 <span id="fn_page_343">p. 343</span>  
 
-<span id="fn_59"></span>[59.](#fr_59)  A committee appointed by the
+<span id="fn_59"></span>[59.](#fr_59.md)  A committee appointed by the
 National Woman Suffrage Association, at that time in convention
 assembled in Washington, waited upon President Cleveland with the
 memorial.
 
 <span id="fn_page_345">p. 345</span>  
 
-<span id="fn_60"></span>[60.](#fr_60)  Mediaeval Christian husbands
+<span id="fn_60"></span>[60.](#fr_60.md)  Mediaeval Christian husbands
 imprisoned erring wives in cages so small they could neither stand
 upright nor lie down at full length. Mediaeval Christian priests boiled
 living infants in osier baskets in presence of helpless heretical
@@ -3560,19 +3560,19 @@ pleasure to see women whipped at Bridewell.
 
 <span id="fn_page_346">p. 346</span>  
 
-<span id="fn_61"></span>[61.](#fr_61)  Seduction was connived at that
+<span id="fn_61"></span>[61.](#fr_61.md)  Seduction was connived at that
 the guardian might secure the estate of the ward.--*Ibid*.
 
 <span id="fn_page_347">p. 347</span>  
 
-<span id="fn_62"></span>[62.](#fr_62)  The Salic law had not preference
+<span id="fn_62"></span>[62.](#fr_62.md)  The Salic law had not preference
 to one sex over the other--purely economical law which gave houses and
 lands to males who should dwell there, and consequently to whom it would
 be of most service.--*Spirit of the Laws*.
 
 <span id="fn_page_348">p. 348</span>  
 
-<span id="fn_63"></span>[63.](#fr_63)  in order to give color to the
+<span id="fn_63"></span>[63.](#fr_63.md)  in order to give color to the
 usurpation (for it was nothing better), the lawyers cited an obscure
 article from the code of the barbarous Salians, which, as they pretended
 had always been the acknowledged law of the French monarchy. \* \* \*
@@ -3582,12 +3582,12 @@ France*, p. 19.
 
 <span id="fn_page_349">p. 349</span>  
 
-<span id="fn_64"></span>[64.](#fr_64)  Montesquieu.--*Spirit of the
+<span id="fn_64"></span>[64.](#fr_64.md)  Montesquieu.--*Spirit of the
 Laws*.
 
 <span id="fn_page_350">p. 350</span>  
 
-<span id="fn_65"></span>[65.](#fr_65)  Women in England were for more
+<span id="fn_65"></span>[65.](#fr_65.md)  Women in England were for more
 than a thousand years legislated for as slaves. Crimes committed by men
 which could be atoned for by a fine, were by women punished with burning
 alive. The period is not very distant when she was distinctly legislated
@@ -3596,14 +3596,14 @@ in England*.
 
 <span id="fn_page_351">p. 351</span>  
 
-<span id="fn_66"></span>[66.](#fr_66)  *American Law*, 1829.
+<span id="fn_66"></span>[66.](#fr_66.md)  *American Law*, 1829.
 
-<span id="fn_67"></span>[67.](#fr_67)  Through the influence of
+<span id="fn_67"></span>[67.](#fr_67.md)  Through the influence of
 *Governor McNutt*, instituted many reforms.
 
 <span id="fn_page_353">p. 353</span>  
 
-<span id="fn_68"></span>[68.](#fr_68)  There was no distinction between
+<span id="fn_68"></span>[68.](#fr_68.md)  There was no distinction between
 offenses against the church on one hand, and offenses against the state
 or individual on the other. Cases of theft and sorcery, like those of
 witchcraft, could be tried in the church. From the position of the
@@ -3611,20 +3611,20 @@ clergy as law-givers, it follows not only that the secular laws had the
 sanction of religion, but that religious observance were enforced by the
 secular arm.
 
-<span id="fn_69"></span>[69.](#fr_69)  From 499 to 1066. Herbert
+<span id="fn_69"></span>[69.](#fr_69.md)  From 499 to 1066. Herbert
 Spencer.--*Descriptive Sociology*.
 
-<span id="fn_70"></span>[70.](#fr_70)  To women were still applied those
+<span id="fn_70"></span>[70.](#fr_70.md)  To women were still applied those
 punishments, which had been instituted by the men whose practice it was
 to buy their wives and sell their daughters. Pike.--*Hist. Crime in
 Eng*.
 
-<span id="fn_71"></span>[71.](#fr_71)  Bracton.--*De Legibus Angliæ* I,
+<span id="fn_71"></span>[71.](#fr_71.md)  Bracton.--*De Legibus Angliæ* I,
 479
 
 <span id="fn_page_354">p. 354</span>  
 
-<span id="fn_72"></span>[72.](#fr_72)  "The reformation altered, but did
+<span id="fn_72"></span>[72.](#fr_72.md)  "The reformation altered, but did
 not better the condition of woman. Socially it rescued her from the
 priest to make her the chattel of the husband, <span id="fn_page_355">p.
 355</span> and doctrinally it expunged her altogether. Martin Luther
@@ -3635,7 +3635,7 @@ they were thrown into the river."
 
 <span id="fn_page_355">p. 355</span>  
 
-<span id="fn_73"></span>[73.](#fr_73)  "The forefathers of *Benjamin
+<span id="fn_73"></span>[73.](#fr_73.md)  "The forefathers of *Benjamin
 Franklin* used a Bible kept fastened under the seat of a four-legged
 stool, the leaves held in place by pack-threads. When the family
 assembled to hear it read, one of the number was posted as sentinel some
@@ -3643,12 +3643,12 @@ distance from the house to give warning of any stranger's approach, in
 which case the stool was hurriedly replaced upon its legs, and some one
 seated upon it for more effectual concealment of the book."
 
-<span id="fn_74"></span>[74.](#fr_74)  Herbert Spencer.--*Descriptive
+<span id="fn_74"></span>[74.](#fr_74.md)  Herbert Spencer.--*Descriptive
 Sociology, England*.
 
 <span id="fn_page_356">p. 356</span>  
 
-<span id="fn_75"></span>[75.](#fr_75)  *The English Women's Suffrage
+<span id="fn_75"></span>[75.](#fr_75.md)  *The English Women's Suffrage
 Journal*, November, 1886, reported: "Mrs. ------ rose to move a
 resolution. After reading a memorial, she said: 'Now, when I was asked
 to add a few words of support to the memorial I have just read, my first
@@ -3658,11 +3658,11 @@ disqualified," etc.
 
 <span id="fn_page_357">p. 357</span>  
 
-<span id="fn_76"></span>[76.](#fr_76)  The coverture of a woman disables
+<span id="fn_76"></span>[76.](#fr_76.md)  The coverture of a woman disables
 her from making contracts to the prejudice of herself or her husband
 without his allowance or confirmation.
 
-<span id="fn_77"></span>[77.](#fr_77)  I have arrived at conclusions
+<span id="fn_77"></span>[77.](#fr_77.md)  I have arrived at conclusions
 which I keep to myself as yet, and only utter as Greek *phogagta
 sunetotsi* principle of which is, that there will never be a good world
 for women till the last monk, and therewith the last remnant of the
@@ -3677,7 +3677,7 @@ in *Life and Letters*.
 
 <span id="fn_page_358">p. 358</span>  
 
-<span id="fn_78"></span>[78.](#fr_78)  Dowers were first introduced into
+<span id="fn_78"></span>[78.](#fr_78.md)  Dowers were first introduced into
 England by the Danish king, Cnut or Canute, and into Denmark by Swein,
 father of Canute, who bestowed it upon Danish ladies in grateful
 acknowledgment of their having parted with their jewels to ransom him
@@ -3698,32 +3698,32 @@ possession. These were the keys of the store-room, chest, and cupboard.
 
 <span id="fn_page_359">p. 359</span>  
 
-<span id="fn_79"></span>[79.](#fr_79)  The law of dower was less
+<span id="fn_79"></span>[79.](#fr_79.md)  The law of dower was less
 favorable to the wife in the 13th century than It became later.
 
 <span id="fn_page_360">p. 360</span>  
 
-<span id="fn_80"></span>[80.](#fr_80)  See *Reeves*, p. p. 156-6.
+<span id="fn_80"></span>[80.](#fr_80.md)  See *Reeves*, p. p. 156-6.
 
 <span id="fn_page_361">p. 361</span>  
 
-<span id="fn_81"></span>[81.](#fr_81)  Sheldon Amos.--*Science of Law*.
+<span id="fn_81"></span>[81.](#fr_81.md)  Sheldon Amos.--*Science of Law*.
 
 <span id="fn_page_362">p. 362</span>  
 
-<span id="fn_82"></span>[82.](#fr_82)  *History of Women*, 1779.
+<span id="fn_82"></span>[82.](#fr_82.md)  *History of Women*, 1779.
 
-<span id="fn_83"></span>[83.](#fr_83)  Higgins says the word widow comes
+<span id="fn_83"></span>[83.](#fr_83.md)  Higgins says the word widow comes
 from Vidya, to know.
 
 <span id="fn_page_363">p. 363</span>  
 
-<span id="fn_84"></span>[84.](#fr_84)  *Ancient Laws of Ireland; Sanchus
+<span id="fn_84"></span>[84.](#fr_84.md)  *Ancient Laws of Ireland; Sanchus
 Mor*. p. p. 347-51.
 
 <span id="fn_page_364">p. 364</span>  
 
-<span id="fn_85"></span>[85.](#fr_85)  At a time when the English law of
+<span id="fn_85"></span>[85.](#fr_85.md)  At a time when the English law of
 husband and wife, which now for three centuries, has been substituted
 for the Irish law in this country, has been condemned by a committee of
 the House of Commons, as unjust towards the-wife, and when the most
@@ -3734,14 +3734,14 @@ ancient Irish, the recognition of the principle on which efforts are
 being made to base our legislation on this subject. Preface to *Sanchus
 Mor*. Vol. 2
 
-<span id="fn_86"></span>[86.](#fr_86)  Vol. 3, p. 35--Ibid.
+<span id="fn_86"></span>[86.](#fr_86.md)  Vol. 3, p. 35--Ibid.
 
 <span id="fn_page_365">p. 365</span>  
 
-<span id="fn_87"></span>[87.](#fr_87)  *Rambles and studies in Old South
+<span id="fn_87"></span>[87.](#fr_87.md)  *Rambles and studies in Old South
 Wales*.--Wirt Sikes.
 
-<span id="fn_88"></span>[88.](#fr_88)  The three peculiars of a woman
+<span id="fn_88"></span>[88.](#fr_88.md)  The three peculiars of a woman
 are her cowyll, her gowyn, and her sarand; the reason these three are
 called three peculiars, is because they are the three properties of a
 woman and cannot be taken from her for any cause; her cowyll is what she
@@ -3759,25 +3759,25 @@ belongs to her. *Acurin Owen*, Professor of Welsh Law.
 
 <span id="fn_page_366">p. 366</span>  
 
-<span id="fn_89"></span>[89.](#fr_89)  The law enacts that she ought not
+<span id="fn_89"></span>[89.](#fr_89.md)  The law enacts that she ought not
 to suffer loss on account of the Man, since she received no benefit from
 him, and therefore he is to rear the child. *Ancient Laws and
 Institutions of Wales*.
 
-<span id="fn_90"></span>[90.](#fr_90)  The Welsh laws of Howell the Good
+<span id="fn_90"></span>[90.](#fr_90.md)  The Welsh laws of Howell the Good
 were enacted by four laics and two clerks who were summoned lest the
 laws should ordain anything contrary to scripture. *Ibid*.
 
-<span id="fn_91"></span>[91.](#fr_91)  A woman **cannot** be admitted as
+<span id="fn_91"></span>[91.](#fr_91.md)  A woman **cannot** be admitted as
 surety or as a witness concerning man. *Ibid*.
 
 <span id="fn_page_368">p. 368</span>  
 
-<span id="fn_92"></span>[92.](#fr_92)  *Civil Code*. Art 340.
+<span id="fn_92"></span>[92.](#fr_92.md)  *Civil Code*. Art 340.
 
 <span id="fn_page_369">p. 369</span>  
 
-<span id="fn_93"></span>[93.](#fr_93)  *The Woman Question in
+<span id="fn_93"></span>[93.](#fr_93.md)  *The Woman Question in
 Europe*.--T. Stanton. This law of France differs greatly from the old
 Welsh pre-christian law, which threw the support of an illegitimate
 child upon the father. Notwithstanding the responsibility thus thrown
@@ -3786,14 +3786,14 @@ never attains the sense of a boy of fourteen."
 
 <span id="fn_page_370">p. 370</span>  
 
-<span id="fn_94"></span>[94.](#fr_94)  It was no mere accident that the
+<span id="fn_94"></span>[94.](#fr_94.md)  It was no mere accident that the
 French language only possessed one word, l'homme, for man, and human
 being. French law only recognizes man as a human being.--*August Bebel*.
 
-<span id="fn_95"></span>[95.](#fr_95)  Legouvè.--*History of Morals of
+<span id="fn_95"></span>[95.](#fr_95.md)  Legouvè.--*History of Morals of
 Women*.
 
-<span id="fn_96"></span>[96.](#fr_96)  The baby was born in the next
+<span id="fn_96"></span>[96.](#fr_96.md)  The baby was born in the next
 house, and of course I was interested, how can one not be interested
 when one of these little angels becomes imprisoned in the earth form and
 begins a career that makes one tremble to think of? Meeting the father a
@@ -3813,11 +3813,11 @@ worth a dozen gals."
 
 <span id="fn_page_371">p. 371</span>  
 
-<span id="fn_97"></span>[97.](#fr_97)  See *Scandinavian Jurisprudence*.
+<span id="fn_97"></span>[97.](#fr_97.md)  See *Scandinavian Jurisprudence*.
 
 <span id="fn_page_372">p. 372</span>  
 
-<span id="fn_98"></span>[98.](#fr_98)  A story is told by an American
+<span id="fn_98"></span>[98.](#fr_98.md)  A story is told by an American
 traveller, of a party met upon the cars, the mother a delicate little
 personage, the father stout and strong. Upon leaving the train he walked
 off incommoded by a single traveling impedimenta, while the wife was
@@ -3827,7 +3827,7 @@ What, and he the father of a family?' was the surprised answer.
 
 <span id="fn_page_373">p. 373</span>  
 
-<span id="fn_99"></span>[99.](#fr_99)  It is unnecessary to let the
+<span id="fn_99"></span>[99.](#fr_99.md)  It is unnecessary to let the
 whole many-colored map of German common law pass in review: a few
 specimens will suffice. According to German common law woman is
 everywhere in the position of a minor with regard to man; her husband is
@@ -3871,12 +3871,12 @@ again.--August Bebel.--*Woman in the Past, Present and Future*.
 
 <span id="fn_page_375">p. 375</span>  
 
-<span id="fn_100"></span>[100.](#fr_100)  Who, indeed, would not have
+<span id="fn_100"></span>[100.](#fr_100.md)  Who, indeed, would not have
 been received by the queen.
 
 <span id="fn_page_376">p. 376</span>  
 
-<span id="fn_101"></span>[101.](#fr_101)  A German girl continues to be
+<span id="fn_101"></span>[101.](#fr_101.md)  A German girl continues to be
 a maid-of-all-work until circumstances elevate her to a higher position.
 She becomes a mother, and this opens a fresh career to her as an *amme*
 or wet nurse. Her lines thenceforward fall in pleasant places. An *amme*
@@ -3891,7 +3891,7 @@ only a means to an end. Marriage among the lower orders in Germany is
 cumbered about with so many restrictions and conditions, that it has
 come to be looked upon as almost an impossibility.
 
-<span id="fn_102"></span>[102.](#fr_102)  When Miss. *Aarta Hansteen*, a
+<span id="fn_102"></span>[102.](#fr_102.md)  When Miss. *Aarta Hansteen*, a
 Norwegian lady announced her purpose <span id="fn_page_377">p.
 377</span> of lecturing on woman's natural equality with man; she met
 little or no support, the church strenuously opposing on ground of
@@ -3899,21 +3899,21 @@ woman's original curse.
 
 <span id="fn_page_377">p. 377</span>  
 
-<span id="fn_103"></span>[103.](#fr_103)  Translated into English under
+<span id="fn_103"></span>[103.](#fr_103.md)  Translated into English under
 title of "Nora," by Miss. Frances Lord.
 
-<span id="fn_104"></span>[104.](#fr_104)  So profound was its effect
+<span id="fn_104"></span>[104.](#fr_104.md)  So profound was its effect
 that visiting invitations were coupled with the request not to speak of
 the work.
 
-<span id="fn_105"></span>[105.](#fr_105)  *Marian Brown Shipley*, an
+<span id="fn_105"></span>[105.](#fr_105.md)  *Marian Brown Shipley*, an
 American lady, long a resident of Sweden and thoroughly conversant with
 its literature and tone of thought, said of it, "A more glorious thing
 has not been done in Sweden for centuries, Strindberg has defied church
 and state, striking both to their foundations with his merciless satire,
 and rallied the Swedish people at a single stroke."
 
-<span id="fn_106"></span>[106.](#fr_106)  Bjornsen said, "The
+<span id="fn_106"></span>[106.](#fr_106.md)  Bjornsen said, "The
 confiscating of August Strindberg's book *Giftas*, is the greatest
 literary scandal in the North in my time. It is worse than when one
 wished to put me in, the house of correction on account of the King; or
@@ -3922,35 +3922,35 @@ thrust out Ibsen from the society of honorable people for gjengungerd
 
 <span id="fn_page_378">p. 378</span>  
 
-<span id="fn_107"></span>[107.](#fr_107)  March 30, 1882.
+<span id="fn_107"></span>[107.](#fr_107.md)  March 30, 1882.
 
 <span id="fn_page_380">p. 380</span>  
 
-<span id="fn_108"></span>[108.](#fr_108)  *Russian Revolt*.
+<span id="fn_108"></span>[108.](#fr_108.md)  *Russian Revolt*.
 
-<span id="fn_109"></span>[109.](#fr_109)  A Russian writer of the 17th
+<span id="fn_109"></span>[109.](#fr_109.md)  A Russian writer of the 17th
 century said: "As Eve did wrong, so the whole race or women become
 sinful and the cause of evil."
 
 <span id="fn_page_381">p. 381</span>  
 
-<span id="fn_110"></span>[110.](#fr_110)  She was spoken of as a "Vanity
+<span id="fn_110"></span>[110.](#fr_110.md)  She was spoken of as a "Vanity
 itself," "A storm in the home," "A flood that swells everything," "A
 serpent nourished in the bosom," "A spear penetrating the heart," "A
 constantly flying arrow."
 
 <span id="fn_page_383">p. 383</span>  
 
-<span id="fn_111"></span>[111.](#fr_111)  *Rural Life in Russia.--The
+<span id="fn_111"></span>[111.](#fr_111.md)  *Rural Life in Russia.--The
 Nineteenth Century*.
 
 <span id="fn_page_384">p. 384</span>  
 
-<span id="fn_112"></span>[112.](#fr_112)  See Chap. 4. p. 161.
+<span id="fn_112"></span>[112.](#fr_112.md)  See Chap. 4. p. 161.
 
 <span id="fn_page_385">p. 385</span>  
 
-<span id="fn_113"></span>[113.](#fr_113)  I myself am the happy
+<span id="fn_113"></span>[113.](#fr_113.md)  I myself am the happy
 possessor of a little rude wooden bas-relief, framed and glazed, of two
 saints, whose names I have ungratefully forgotten, to whom if you pray
 as you go out to commit a crime, however heinous, you take your pardon
@@ -3958,18 +3958,18 @@ with you.--*Rural Life in Russia*.
 
 <span id="fn_page_387">p. 387</span>  
 
-<span id="fn_114"></span>[114.](#fr_114)  See Chap. 4. p. 182.
+<span id="fn_114"></span>[114.](#fr_114.md)  See Chap. 4. p. 182.
 
 <span id="fn_page_389">p. 389</span>  
 
-<span id="fn_115"></span>[115.](#fr_115)  Reported by *Mrs. Livermore*.
+<span id="fn_115"></span>[115.](#fr_115.md)  Reported by *Mrs. Livermore*.
 
 <span id="fn_page_390">p. 390</span>  
 
-<span id="fn_116"></span>[116.](#fr_116)  *Leavenworth Standard*, Dec.
+<span id="fn_116"></span>[116.](#fr_116.md)  *Leavenworth Standard*, Dec.
 21, 1886.
 
 <span id="fn_page_392">p. 392</span>  
 
-<span id="fn_117"></span>[117.](#fr_117)  under common law a woman is
+<span id="fn_117"></span>[117.](#fr_117.md)  under common law a woman is
 classified with lunatics, idiots, infants and minors.

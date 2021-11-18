@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ebm02)  [Next](ebm04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ebm02)  [Next](ebm04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eleusinian and Bacchic Mysteries*, by Thomas Taylor, \[1891\], at
 Intangible Textual Heritage
 
@@ -12,12 +12,12 @@ Intangible Textual Heritage
 
 <span id="page_8">p. 8</span>
 
-<span id="img_00801"></span> ![Eleusinian Mysteries.](img/00801.png)  
+<span id="img_00801"></span> ![Eleusinian Mysteries.](img/00801.png.md)  
 Eleusinian Mysteries.
 
 <span id="page_9">p. 9</span>
 
-<span id="img_00901"></span> ![Bacchus.](img/00901.png)  
+<span id="img_00901"></span> ![Bacchus.](img/00901.png.md)  
 Bacchus.
 
 <div style="margin-left: 32px">
@@ -51,9 +51,9 @@ Piccolomini*, Act. ii. Scene 4.</span>
 
 <span id="page_10">p. 10</span>
 
-<span id="img_01001"></span> ![Apollo and Muses.](img/01001.png)  
+<span id="img_01001"></span> ![Apollo and Muses.](img/01001.png.md)  
 Apollo and Muses.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](ebm04)
+[Next: Introduction](ebm04.md)

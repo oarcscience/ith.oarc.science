@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dlw03)  [Next](dlw05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dlw03)  [Next](dlw05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406804029/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406804029/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -866,4 +866,4 @@ same time forces are also perfect according to degrees.
 
 ------------------------------------------------------------------------
 
-[Next: 201-250](dlw05)
+[Next: 201-250](dlw05.md)

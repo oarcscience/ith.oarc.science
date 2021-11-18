@@ -1,11 +1,11 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp16) [Next](onp18)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp16) [Next](onp18.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_85">p. 85</span>
 
-## THE RIDDLES OF KING HEITHREK<span id="fr_1"></span>[1](#note_1) <span class="small">\[HEITHREKSGÁTUR\]</span>
+## THE RIDDLES OF KING HEITHREK<span id="fr_1"></span>[1](#note_1.md) <span class="small">\[HEITHREKSGÁTUR\]</span>
 
 R<span class="small">IDDLES</span> belong to the popular amusements of
 probably all races endowed with sufficient intellectual vivacity and
@@ -52,7 +52,7 @@ mother and the wisdom of his father. When king, he makes the vow “that,
 however much a man had wronged him, he should have the chance of trial
 by his councillors, and that he should go scotfree, if he could propound
 any riddle the king could not solve, or else lose his head.” A certain
-thane of Heithrek’s, Gestumblindi,<span id="fr_2"></span>[2](#note_2)
+thane of Heithrek’s, Gestumblindi,<span id="fr_2"></span>[2](#note_2.md)
 had incurred the wrath of the king. In his distress he sacrificed to
 Óthin. One night a man came to Gestumblindi, so like him that no one
 could tell them apart. They exchanged garments and the stranger went up
@@ -103,7 +103,7 @@ GESTUMBLINDI said:
 
 “What drink was it I drank yesterday?  
     ’twas neither wine nor water,  
-neither mead nor ale, nor meat,<span id="fr_3"></span>[3](#note_3)
+neither mead nor ale, nor meat,<span id="fr_3"></span>[3](#note_3.md)
 either;  
     yet went I thirstless thence.  
 Aright guess now this riddle, Heithrek!”  
@@ -123,7 +123,7 @@ GESTUMBLINDI said:
 
 “Harshly he clangs, on hard paths treading  
     which he has fared before.  
-Two mouths<span id="fr_4"></span>[4](#note_4) he has, and mightily
+Two mouths<span id="fr_4"></span>[4](#note_4.md) he has, and mightily
 kisses,  
     and on gold alone he goes.  
 Aright guess now this riddle, Heithrek!”  
@@ -201,7 +201,7 @@ GESTUMBLINDI said:
 8
 
 “What marvel is it which without I saw,  
-    before Delling’s-door,<span id="fr_5"></span>[5](#note_5)  
+    before Delling’s-door,<span id="fr_5"></span>[5](#note_5.md)  
 with his head ever Hel-ward turning,  
     with his feet seeking the sun.  
 Aright guess now this riddle, Heithrek!”  
@@ -212,7 +212,7 @@ HEITHREK said:
 
 “Good is thy riddle, Gestumblindi,  
     and guessed it is:  
-That is the leek: its head<span id="fr_6"></span>[6](#note_6) turns into
+That is the leek: its head<span id="fr_6"></span>[6](#note_6.md) turns into
 the earth, but the leaves, upward.”  
 
 GESTUMBLINDI said:  
@@ -222,7 +222,7 @@ GESTUMBLINDI said:
 “What marvel is it which without I saw,  
     before Delling’s-door?  
 Were twain briskly, and breathless withal.  
-    boiling a wand-of-wounds.<span id="fr_7"></span>[7](#note_7)  
+    boiling a wand-of-wounds.<span id="fr_7"></span>[7](#note_7.md)  
 Aright guess now this riddle, Heithrek!”  
 
 HEITHREK said:  
@@ -253,7 +253,7 @@ HEITHREK said:
     and guessed it is:  
 they are hail and rain; because the hail beats on the flags, but the
 rain drops sink in the sand and go into the ground.”<span
-id="fr_8"></span>[8](#note_8)  
+id="fr_8"></span>[8](#note_8.md)  
 
 GESTUMBLINDI said:  
 
@@ -301,7 +301,7 @@ GESTUMBLINDI said:
     before Delling’s-door?  
 <span id="page_91">p. 91</span> Upward it flies with eagle’s voice,  
     and hard grip its claws the helmet.<span
-id="fr_9"></span>[9](#note_9)  
+id="fr_9"></span>[9](#note_9.md)  
 Aright guess now this riddle, Heithrek!”  
 
 HEITHREK said:  
@@ -337,7 +337,7 @@ GESTUMBLINDI said:
 “What marvel is it which without I saw,  
     before Delling’s-door?  
 It lights for men, and swallows up lights,<span
-id="fr_10"></span>[10](#note_10)  
+id="fr_10"></span>[10](#note_10.md)  
     and wolves seek ever to win it.  
 Aright guess now this riddle, Heithrek!”  
 
@@ -349,7 +349,7 @@ HEITHREK said:
     and guessed it is:  
 that is the Sun. He lights all the world and shines on all men; but
 there are two wolves, hight Skalli and Hatti, one of whom goes before,
-and the other follows, the sun.”<span id="fr_11"></span>[11](#note_11)  
+and the other follows, the sun.”<span id="fr_11"></span>[11](#note_11.md)  
 
 <span id="page_92">p. 92</span>  
 
@@ -360,9 +360,9 @@ GESTUMBLINDI said:
 “What marvel is it which without I saw,  
     before Delling’s-door?  
 Harder than horn, blacker than Hel,<span
-id="fr_12"></span>[12](#note_12)  
+id="fr_12"></span>[12](#note_12.md)  
 whiter than shell of egg,<span
-id="fr_13"></span>[13](#note_13) straighter than shaft of spear.  
+id="fr_13"></span>[13](#note_13.md) straighter than shaft of spear.  
 Aright guess now this riddle, Heithrek!”  
 
 HEITHREK said:  
@@ -380,7 +380,7 @@ GESTUMBLINDI said:
 “Two brides did bear, white-blond their locks,  
 and house-maids were they— ale-casks homeward;  
 were they not shaped by hand nor by hammers wrought;  
-yet upright<span id="fr_14"></span>[14](#note_14) sate he on the isles,
+yet upright<span id="fr_14"></span>[14](#note_14.md) sate he on the isles,
 who made them.  
 Aright guess now this riddle, Heithrek!”  
 
@@ -413,7 +413,7 @@ HEITHREK said:
 “Good is thy riddle, Gestumblindi,  
     and guessed it is:  
 they are two angelica stalks standing together, with a shoot<span
-id="fr_15"></span>[15](#note_15) coming up between them.”  
+id="fr_15"></span>[15](#note_15.md) coming up between them.”  
 
 GESTUMBLINDI said:  
 
@@ -423,7 +423,7 @@ GESTUMBLINDI said:
     for their king kill each other?  
 Every day the dark ones shield him,  
     but the fair ones aye go forth.<span
-id="fr_16"></span>[16](#note_16)  
+id="fr_16"></span>[16](#note_16.md)  
 Aright guess now this riddle, Heithrek!”  
 
 HEITHREK said:  
@@ -434,15 +434,15 @@ HEITHREK said:
     and guessed it is:  
 That is the game of *hneftafl*: weaponless, the figures slay each other
 for the sake of their king. The red ones<span
-id="fr_17"></span>[17](#note_17) are his followers.<span
-id="fr_18"></span>[18](#note_18)  
+id="fr_17"></span>[17](#note_17.md) are his followers.<span
+id="fr_18"></span>[18](#note_18.md)  
 
 GESTUMBLINDI said:  
 
 20
 
 “Who be the playmates that pass over the lands,  
-    seeming fair<span id="fr_19"></span>[19](#note_19) to their
+    seeming fair<span id="fr_19"></span>[19](#note_19.md) to their
 father?  
 A white shield they show in winter,  
     and a swart one in summer.  
@@ -474,7 +474,7 @@ HEITHREK said:
 “Good is thy riddle, Gestumblindi,  
     and guessed it is:  
 They are the billows. They are called the maids of Ægir.”<span
-id="fr_20"></span>[20](#note_20)  
+id="fr_20"></span>[20](#note_20.md)  
 
 GESTUMBLINDI said:  
 
@@ -538,10 +538,10 @@ GESTUMBLINDI said:
 25
 
 “I saw traveling a soil’s-earth-dweller,<span
-id="fr_21"></span>[21](#note_21)  
+id="fr_21"></span>[21](#note_21.md)  
     a corpse sate on a corpse;  
 one blind rode a blind thing to the billows’-road,<span
-id="fr_22"></span>[22](#note_22)  
+id="fr_22"></span>[22](#note_22.md)  
     and no life was in the nag.  
 Aright guess now this riddle, Heithrek!”  
 
@@ -572,7 +572,7 @@ HEITHREK said:
 
 “Good is thy riddle, Gestumblindi,  
     and guessed it is:  
-that is the *húnn*<span id="fr_23"></span>[23](#note_23) on the
+that is the *húnn*<span id="fr_23"></span>[23](#note_23.md) on the
 checkerboard. It shares its name with the bear, and it runs as soon as
 it is overthrown.”  
 
@@ -602,9 +602,9 @@ GESTUMBLINDI said:
 “Greatly had grown a goose with big neb,  
 had brought timber together, for goslings eager.  
 Gave shelter to her the sheaves’-bite-swords;<span
-id="fr_24"></span>[24](#note_24)  
+id="fr_24"></span>[24](#note_24.md)  
 but above it lay the drink’s- dinful-rockcave,<span
-id="fr_25"></span>[25](#note_25)  
+id="fr_25"></span>[25](#note_25.md)  
 Aright guess now this riddle, Heithrek!”  
 
 <span id="page_97">p. 97</span>  
@@ -661,7 +661,7 @@ GESTUMBLINDI said:
 “A stallion stood bestriding a mare;  
 he put buttock ’neath belly and bobbed with his tail.  
 Draw it out and in, work at it long!<span
-id="fr_26"></span>[26](#note_26)  
+id="fr_26"></span>[26](#note_26.md)  
 Aright guess now this riddle, Heithrek!”  
 
 <span id="page_98">p. 98</span>  
@@ -673,8 +673,8 @@ HEITHREK said:
 “Good is thy riddle, Gestumblindi,  
     and guessed it is:  
 that horse is a piece of linen on the loom. His mare<span
-id="fr_27"></span>[27](#note_27) is the weaver’s reed, and up and down
-is the web to be shaken.”<span id="fr_28"></span>[28](#note_28)  
+id="fr_27"></span>[27](#note_27.md) is the weaver’s reed, and up and down
+is the web to be shaken.”<span id="fr_28"></span>[28](#note_28.md)  
 
 GESTUMBLINDI said:  
 
@@ -692,7 +692,7 @@ HEITHREK said:
 
 “Good is thy riddle, Gestumblindi,  
     and guessed it is:  
-they are Itrek and Andath<span id="fr_29"></span>[29](#note_29) sitting
+they are Itrek and Andath<span id="fr_29"></span>[29](#note_29.md) sitting
 on their checkerboard.”  
 
 GESTUMBLINDI said:  
@@ -739,7 +739,7 @@ GESTUMBLINDI said:
 
 “On a sail I sate and saw dead men  
 who a blood-vein bore to the bark of a tree.<span
-id="fr_30"></span>[30](#note_30)  
+id="fr_30"></span>[30](#note_30.md)  
 Aright guess now this riddle, Heithrek!”  
 
 HEITHREK said:  
@@ -765,7 +765,7 @@ HEITHREK said:
 “Good is thy riddle, Gestumblindi,  
     and guessed it is:  
 that is Óthin riding on Sleipnir.”<span
-id="fr_31"></span>[31](#note_31)  
+id="fr_31"></span>[31](#note_31.md)  
 
 <span id="page_100">p. 100</span>  
 
@@ -774,10 +774,10 @@ id="fr_31"></span>[31](#note_31)
 
 Then Gestumblindi said:  
 “Guess one more riddle, since wiser thou seemest  
-    than any other wight:<span id="fr_32"></span>[32](#note_32)  
+    than any other wight:<span id="fr_32"></span>[32](#note_32.md)  
 what said Óthin in Baldr’s ear  
     before he was borne to the fire?”<span
-id="fr_33"></span>[33](#note_33)  
+id="fr_33"></span>[33](#note_33.md)  
 
  
 
@@ -786,7 +786,7 @@ The king answered:
     I ween that it was:  
 the words thou spakest no wight knoweth  
     but thou, ill and unclean wight.”<span
-id="fr_34"></span>[34](#note_34)  
+id="fr_34"></span>[34](#note_34.md)  
 
 Then the king drew the sword Tyrfing and struck at Gestumblindi, but he
 changed himself into a hawk and flew out through the opening of the
@@ -797,7 +797,7 @@ killed with Tyrfing (by thralls who sought revenge and their freedom).
 
 ------------------------------------------------------------------------
 
-[Next](onp18)
+[Next](onp18.md)
 
 ------------------------------------------------------------------------
 
@@ -805,95 +805,95 @@ killed with Tyrfing (by thralls who sought revenge and their freedom).
 
 <span id="footnotes_page_85">p. 85</span>
 
-<span id="note_1"></span>[1](#fr_1) More properly, they are to be solved
+<span id="note_1"></span>[1](#fr_1.md) More properly, they are to be solved
 by him.
 
 <span id="footnotes_page_86">p. 86</span>
 
-<span id="note_2"></span>[2](#fr_2) *I.e.,* probably, *Gest hinn
+<span id="note_2"></span>[2](#fr_2.md) *I.e.,* probably, *Gest hinn
 blindi,* “Gest the blind.” This name, of course, properly belongs to
 Óthin himself.
 
 <span id="footnotes_page_87">p. 87</span>
 
-<span id="note_3"></span>[3](#fr_3) In the sense of food in general.
+<span id="note_3"></span>[3](#fr_3.md) In the sense of food in general.
 
-<span id="note_4"></span>[4](#fr_4) In the Old Norse conception, the
+<span id="note_4"></span>[4](#fr_4.md) In the Old Norse conception, the
 edges of a tool are called “mouths.”
 
 <span id="footnotes_page_89">p. 89</span>
 
-<span id="note_5"></span>[5](#fr_5) Possibly, a kenning for “dawn.”
+<span id="note_5"></span>[5](#fr_5.md) Possibly, a kenning for “dawn.”
 
-<span id="note_6"></span>[6](#fr_6) To be sure, only according to the
+<span id="note_6"></span>[6](#fr_6.md) To be sure, only according to the
 Old Norse figure.
 
-<span id="note_7"></span>[7](#fr_7) Kenning for “sword.” It is “boiled,”
+<span id="note_7"></span>[7](#fr_7.md) Kenning for “sword.” It is “boiled,”
 *i.e.*. the metal for it is melted by the bellows fanning the fire.
 
 <span id="footnotes_page_90">p. 90</span>
 
-<span id="note_8"></span>[8](#fr_8) The solution would seem to be,
+<span id="note_8"></span>[8](#fr_8.md) The solution would seem to be,
 rather, “melting hail.”
 
 <span id="footnotes_page_91">p. 91</span>
 
-<span id="note_9"></span>[9](#fr_9) The translation of this half-stanza
+<span id="note_9"></span>[9](#fr_9.md) The translation of this half-stanza
 is conjectural.
 
-<span id="note_10"></span>[10](#fr_10) The text is uncertain; possibly,
+<span id="note_10"></span>[10](#fr_10.md) The text is uncertain; possibly,
 “water (fog) swallows it.”
 
-<span id="note_11"></span>[11](#fr_11) Cf. *Grímnismól,* 39; where they
+<span id="note_11"></span>[11](#fr_11.md) Cf. *Grímnismól,* 39; where they
 are called Skoll and Hati.
 
 <span id="footnotes_page_92">p. 92</span>
 
-<span id="note_12"></span>[12](#fr_12) In the original: “than the
+<span id="note_12"></span>[12](#fr_12.md) In the original: “than the
 raven.” In Old Norse, volcanic glass—exceedingly common in Iceland—is
 called “raven-flint.”
 
-<span id="note_13"></span>[13](#fr_13) Or rather, than the inner
+<span id="note_13"></span>[13](#fr_13.md) Or rather, than the inner
 membrane of the egg.
 
-<span id="note_14"></span>[14](#fr_14) Or “eager.” Both in *malam
+<span id="note_14"></span>[14](#fr_14.md) Or “eager.” Both in *malam
 partem*.
 
 <span id="footnotes_page_93">p. 93</span>
 
-<span id="note_15"></span>[15](#fr_15) In Old Norse this is called the
+<span id="note_15"></span>[15](#fr_15.md) In Old Norse this is called the
 “young” of the (Arch)angelica plant, much prized in Scandinavia as a
 delicacy.
 
-<span id="note_16"></span>[16](#fr_16) *I.e.,* to assail him.
+<span id="note_16"></span>[16](#fr_16.md) *I.e.,* to assail him.
 
-<span id="note_17"></span>[17](#fr_17) *I.e.,* the “dark ones.”
+<span id="note_17"></span>[17](#fr_17.md) *I.e.,* the “dark ones.”
 
-<span id="note_18"></span>[18](#fr_18) This game was played on a
+<span id="note_18"></span>[18](#fr_18.md) This game was played on a
 checkerboard, with hemispherical figures of bone or glass, 12 against
 13, the one party white, the other dark. The game turned on one main
 figure (hnefi) belonging to the dark party. The turns were decided by
 dice.
 
-<span id="note_19"></span>[19](#fr_19) I follow Kock’s suggestion for
+<span id="note_19"></span>[19](#fr_19.md) I follow Kock’s suggestion for
 the translation of this formula.
 
 <span id="footnotes_page_94">p. 94</span>
 
-<span id="note_20"></span>[20](#fr_20) The god of the sea. This and the
+<span id="note_20"></span>[20](#fr_20.md) The god of the sea. This and the
 following riddles closely resemble the one in *Baldr’s Dreams*, 12,
 which there brings the dénouement. The billows “weep,” casting their
 kerchief-corners to the sky—a figure easily interpreted.
 
 <span id="footnotes_page_95">p. 95</span>
 
-<span id="note_21"></span>[21](#fr_21) Kenning for “worm” or “snake.”
+<span id="note_21"></span>[21](#fr_21.md) Kenning for “worm” or “snake.”
 
-<span id="note_22"></span>[22](#fr_22) Kenning for “sea.”
+<span id="note_22"></span>[22](#fr_22.md) Kenning for “sea.”
 
 <span id="footnotes_page_96">p. 96</span>
 
-<span id="note_23"></span>[23](#fr_23) “She-bear.” The game here
+<span id="note_23"></span>[23](#fr_23.md) “She-bear.” The game here
 referred to may have had some resemblance to “Hound and Hare.” The
 figures are imagined as cattle killed by a bear. The *húnn* must have
 had the shape of a die since it is said to have eight corners (Old Norse
@@ -901,32 +901,32 @@ horn may mean both “horn” and “corner”). One such figure was found in
 Iceland together with twenty-four others of which half were red and
 half, white. Bugge, *Norröne Skritter at Sagnhistorisk Indhold,* p. 358.
 
-<span id="note_24"></span>[24](#fr_24) Literally: “the
+<span id="note_24"></span>[24](#fr_24.md) Literally: “the
 biting-blades-of-the-straw”: Kenning for the “jaws” of an ox.
 
-<span id="note_25"></span>[25](#fr_25) Kenning for “skull”: the skull
+<span id="note_25"></span>[25](#fr_25.md) Kenning for “skull”: the skull
 bones are compared to a passage, through stones, or a “cave,” for drink.
 
 <span id="footnotes_page_97">p. 97</span>
 
-<span id="note_26"></span>[26](#fr_26) Conjectural. The whole stanza of
+<span id="note_26"></span>[26](#fr_26.md) Conjectural. The whole stanza of
 course *in malam partem*.
 
 <span id="footnotes_page_98">p. 98</span>
 
-<span id="note_27"></span>[27](#fr_27) Obviously, the two are
+<span id="note_27"></span>[27](#fr_27.md) Obviously, the two are
 interchanged.
 
-<span id="note_28"></span>[28](#fr_28) That is, the yarn of the woof
+<span id="note_28"></span>[28](#fr_28.md) That is, the yarn of the woof
 must be alternately lifted up and pressed down with the help of the
 crosspiece. Bugge, *loc. cit.,* p. 360.
 
-<span id="note_29"></span>[29](#fr_29) These are the names of the kings
+<span id="note_29"></span>[29](#fr_29.md) These are the names of the kings
 in a modification of chess.
 
 <span id="footnotes_page_99">p. 99</span>
 
-<span id="note_30"></span>[30](#fr_30) This is a good example of the
+<span id="note_30"></span>[30](#fr_30.md) This is a good example of the
 homonym riddle. Says Bugge, *ibid*., p. 361: “The words that are to be
 guessed have two, altogether different, meanings in the original.
 Instead of these words, the riddle has expressions which may be said to
@@ -938,21 +938,21 @@ according to Egilsson, *segl* “sail” is set for *væggr* “wall,” which
 word may also mean “wedge”—the shape of the triangular sail. The last
 line has so far defied explanation.
 
-<span id="note_31"></span>[31](#fr_31) Óthin’s steed which has eight
+<span id="note_31"></span>[31](#fr_31.md) Óthin’s steed which has eight
 legs; cf. *Grímnismól,* 44. Óthin himself has but one eye, having
 pledged the other to Mimir; cf. *Voluspó,* 21. This riddle properly
 leads to the next, and the dénouement.
 
 <span id="footnotes_page_100">p. 100</span>
 
-<span id="note_32"></span>[32](#fr_32) Prose in the original, but
+<span id="note_32"></span>[32](#fr_32.md) Prose in the original, but
 probably representing a half-stanza. Restored here after Bugge’s
 suggestion.
 
-<span id="note_33"></span>[33](#fr_33) The same, insoluble, question—and
+<span id="note_33"></span>[33](#fr_33.md) The same, insoluble, question—and
 thus not really a riddle—is propounded in *Vafthrúthnismól,* 55.
 
-<span id="note_34"></span>[34](#fr_34) This stanza, likewise, is in the
+<span id="note_34"></span>[34](#fr_34.md) This stanza, likewise, is in the
 best MSS resolved into prose. Cf. the similar situation at the end of
 *Grímnismól*.
 

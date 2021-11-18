@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had32)  [Next](had34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had32)  [Next](had34.md) 
 
 ------------------------------------------------------------------------
 
@@ -672,4 +672,4 @@ law of Islām.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXI: The State (Al-Imārah)](had34)
+[Next: Chapter XXXI: The State (Al-Imārah)](had34.md)

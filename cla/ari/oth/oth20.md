@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth19)  [Next](oth21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth19)  [Next](oth21.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ the immobility of the other.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9](oth21)
+[Next: Chapter 9](oth21.md)

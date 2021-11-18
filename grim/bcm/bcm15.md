@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm14)  [Next](bcm16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm14)  [Next](bcm16.md) 
 
 ------------------------------------------------------------------------
 
@@ -245,4 +245,4 @@ further preface.
 
 ------------------------------------------------------------------------
 
-[Next: Section 4: The Almadel](bcm16)
+[Next: Section 4: The Almadel](bcm16.md)

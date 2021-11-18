@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm00)  [Next](tgm02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm00)  [Next](tgm02.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ EMANUEL GAMORAN
 
 ------------------------------------------------------------------------
 
-[Next: Note to Fourteenth Printing, Revised](tgm02)
+[Next: Note to Fourteenth Printing, Revised](tgm02.md)

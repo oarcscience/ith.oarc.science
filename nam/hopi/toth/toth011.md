@@ -1,25 +1,25 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth010)  [Next](toth012) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth010)  [Next](toth012.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 8. THE WANDERINGS OF THE BEAR CLAN (HON-ÑAMU). <span id="fr_27"></span>[1](#fn_27)
+## 8. THE WANDERINGS OF THE BEAR CLAN (HON-ÑAMU). <span id="fr_27"></span>[1](#fn_27.md)
 
 After we had left the sípahpuni the Bear people separated and went ahead
-of the others. <span id="fr_28"></span>[2](#fn_28) First they came
+of the others. <span id="fr_28"></span>[2](#fn_28.md) First they came
 somewhere near the present
 
 <span id="page_37">p. 37</span>
@@ -48,7 +48,7 @@ this time the bones of the bear were bleached already. They took the
 skull, tied yucca leaves to it and carried it along as a drinking vessel
 in the manner in which the chief's or priest's jugs (móngwikurus) are
 carried at the present time, and from this. that party was called the
-jug (Wíkurzh) clan. <span id="fr_29"></span>[1](#fn_29) Finally a
+jug (Wíkurzh) clan. <span id="fr_29"></span>[1](#fn_29.md) Finally a
 seventh party came along and found the place where the bear had been
 killed swarming with ants, so they were called the Ant (Án-ñamu) clan.
 
@@ -56,7 +56,7 @@ These seven clans have derived their names from the same origin, and are
 now considered as being related to one another. The Bear clan is also
 said to have halted at various places along the Little Colorado River.
 From there they moved eastward, stopping for some time at a place called
-Badger Spring (Honánva). <span id="fr_30"></span>[2](#fn_30)
+Badger Spring (Honánva). <span id="fr_30"></span>[2](#fn_30.md)
 
 From this place they again moved eastward, stopped at a place called
 Mákwutavi, and from here they finally moved to Matö'ví, a large spring a
@@ -81,9 +81,9 @@ the Blue Flute cult. When they stopped and planted anywhere they would
 perform the Blue Flute ceremony and sing the songs, and their crop would
 then grow and mature very quickly, so that they would have something to
 eat. They also brought with them the Hû Katcina, the Bear (Hon) Katcina,
-the Â'ototo <span id="fr_31"></span>[1](#fn_31) Natácka, his wife Cóoyok
+the Â'ototo <span id="fr_31"></span>[1](#fn_31.md) Natácka, his wife Cóoyok
 Wuhti, and finally the Cóoyoko Táhaam. <span
-id="fr_32"></span>[2](#fn_32)
+id="fr_32"></span>[2](#fn_32.md)
 
 Later on other clan and migrating parties arrived at Shongópavi asking
 of the Bear clan admission to the village. If proper arrangements could
@@ -96,10 +96,10 @@ where they made stays of shorter or longer duration.
 
 ### Footnotes
 
-<span id="fn_27"></span>[36:1](toth011.htm#fr_27) Told by Lomavântiwa
+<span id="fn_27"></span>[36:1](toth011.htm#fr_27.md) Told by Lomavântiwa
 (Shupaúlavi).
 
-<span id="fn_28"></span>[36:2](toth011.htm#fr_28) The Hopi agree in
+<span id="fn_28"></span>[36:2](toth011.htm#fr_28.md) The Hopi agree in
 their different tales that after leaving the sípahpuni, not only the
 different nationalities scattered and took different routes towards the
 East, but also those people whom they considered their forefathers,
@@ -113,20 +113,20 @@ tale of the experiences of the Bear clan as given by one of the
 principal men in Shupaúlavi, a member of different secret orders, and
 one of the best story tellers and singers.
 
-<span id="fn_29"></span>[37:1](toth011.htm#fr_29) According to others
+<span id="fn_29"></span>[37:1](toth011.htm#fr_29.md) According to others
 Wíkorzh from *wíhu*, fat, and *koro*, cavity, because they say the eyes
 in the cadaver had disappeared from their cavities, some dried fat or
 fatty meat still adhering to the socket walls. This latter explanation
 is very likely correct. Compare tale No. 9.
 
-<span id="fn_30"></span>[37:2](toth011.htm#fr_30) My informant was
+<span id="fn_30"></span>[37:2](toth011.htm#fr_30.md) My informant was
 unable to explain why this spring was called by that name and not after
 Bear Clan.
 
-<span id="fn_31"></span>[38:1](toth011.htm#fr_31) Meaning obscure but
+<span id="fn_31"></span>[38:1](toth011.htm#fr_31.md) Meaning obscure but
 perhaps referring to the rattle with the antelope scapulas.
 
-<span id="fn_32"></span>[38:2](toth011.htm#fr_32) The meaning of these
+<span id="fn_32"></span>[38:2](toth011.htm#fr_32.md) The meaning of these
 last three names is also obscure. Lomavântiwa claims that he has
 information as to whether these Katcinas performed any dances or rites
 while the clan was still migrating. He says that his information about
@@ -135,4 +135,4 @@ lived in the villages and the Katcina clans came.
 
 ------------------------------------------------------------------------
 
-[Next: 9. The Wanderings of the Spider Clan (Kohk'ang-ñamu)](toth012)
+[Next: 9. The Wanderings of the Spider Clan (Kohk'ang-ñamu)](toth012.md)

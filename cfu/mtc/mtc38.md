@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc37)  [Next](mtc39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc37)  [Next](mtc39.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -16,7 +16,7 @@ Intangible Textual Heritage
 
 <span id="page_68">p. 68</span>
 
-### \[37\] INVITATION TO HSIAO CHÜ-SHIH <span id="fr_26"></span>[1](#fn_24)
+### \[37\] INVITATION TO HSIAO CHÜ-SHIH <span id="fr_26"></span>[1](#fn_24.md)
 
 #### *(Written when Governor of Chung-Chou)*
 
@@ -42,7 +42,7 @@ And find your way to the parlour of the Government House.
 
 ### Footnotes
 
-<span id="fn_24"></span>[68:1](mtc38.htm#fr_26) Nos. 37, 38, 39, and 40
+<span id="fn_24"></span>[68:1](mtc38.htm#fr_26.md) Nos. 37, 38, 39, and 40
 were written when the poet was Governor of a remote part of Szechuan,—in
 the extreme west of China.
 
@@ -50,6 +50,6 @@ the extreme west of China.
 
 ------------------------------------------------------------------------
 
-[Next: To Li Chien](mtc39)
+[Next: To Li Chien](mtc39.md)
 
 </div>

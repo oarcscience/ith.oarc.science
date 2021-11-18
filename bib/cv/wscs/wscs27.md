@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs26) 
-[Next](wscs28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs26.md) 
+[Next](wscs28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -465,4 +465,4 @@ agonizing hours of alarm and despair.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII: The Divine “Word” of Oriental Origin](wscs28)
+[Next: Chapter XXIII: The Divine “Word” of Oriental Origin](wscs28.md)

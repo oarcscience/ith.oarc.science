@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn39)  [Next](rmn41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn39)  [Next](rmn41.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,7 +76,7 @@ These, rather, urged beneath the tender fray,
 All fruit prohibit; since the genial share  
 Oft turn they from the furrow as it holds  
 Its course direct, and break the impinging shock.' <span
-id="fr_43"></span>[1](#fn_43)
+id="fr_43"></span>[1](#fn_43.md)
 
 This fresco has been recently discovered. The drawing is not very
 correct: it may especially be remarked that the arms of the principal
@@ -86,9 +86,9 @@ actor are out of all proportion to the other parts of his body.
 
 ### Footnotes
 
-<span id="fn_43"></span>[81:1](rmn40.htm#fr_43) DE RERUM NATURA, iv.
+<span id="fn_43"></span>[81:1](rmn40.htm#fr_43.md) DE RERUM NATURA, iv.
 *Dr. Mason Good's Translation*.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XL: An Hermaphrodite](rmn41)
+[Next: Plate XL: An Hermaphrodite](rmn41.md)

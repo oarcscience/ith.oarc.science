@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo46)  [Next](sdo48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo46)  [Next](sdo48.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ observed the performance of this ceremony on several occasions and was
 permitted to be present with an interpreter and take notes at one of the
 more elaborate performances. The following is a description of the
 ceremony as it was given at that time, with explanations of some of the
-rites as made by the interpreter. <span id="fr_3"></span>[1](#fn_3)
+rites as made by the interpreter. <span id="fr_3"></span>[1](#fn_3.md)
 
 Museum. In the main, the procedure was the same as stated here, but a
 few points of difference deserve notice. When the altar square was
@@ -530,11 +530,11 @@ music of the Lakota.
 
 ### Footnotes
 
-<span id="fn_3"></span>[141:1](sdo47.htm#fr_3) in 1902 the Editor was
+<span id="fn_3"></span>[141:1](sdo47.htm#fr_3.md) in 1902 the Editor was
 present at a ceremony performed by a different Shaman in which there
 were two girls. The essential equipment for the ceremony was secured for
 the footnote p. 142
 
 ------------------------------------------------------------------------
 
-[Next: Translations of Texts](sdo48)
+[Next: Translations of Texts](sdo48.md)

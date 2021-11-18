@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst024)  [Next](inst026) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst024)  [Next](inst026.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,14 +116,14 @@ rejects, he immediately adds, “Thou shalt not make unto thee any graven
 image, or any likeness of any thing that is in heaven above, or in the
 earth beneath, or in the water under the earth,” (<span
 id="iv.i.xii-p20.1"></span>[Exod.
-20:4](../../../bib/kjv/exo020.htm#004)<span
+20:4](../../../bib/kjv/exo020.htm#004.md)<span
 id="iv.i.xii-p20.1"></span>). By these words he curbs any licentious
 attempt we might make to represent him by a visible shape, and briefly
 enumerates all the forms by which superstition had begun, even long
 before, to turn his truth into a lie. For we know that the Sun was
 worshipped by the Persian. As many stars as the foolish nations saw in
 the sky, so many gods they imagined them to be. Then to the Egyptians,
-every animal was a figure of God.8  <span id="fr_73"></span>[74](#fn_73)
+every animal was a figure of God.8  <span id="fr_73"></span>[74](#fn_73.md)
 The Greeks, again, plumed themselves on their superior wisdom in
 worshipping God under the human form (Maximum Tyrius Platonic. Serm.
 38). But God makes no comparison between images, as if one were more,
@@ -134,7 +134,7 @@ can bring him near to them.
 <span id="iv.i.xii-p22"></span>2. This may easily be inferred from the
 reasons which he annexes to his prohibition. First, it is said in the
 books of Moses (<span id="iv.i.xii-p22.1"></span>[Deut.
-4:15](../../../bib/kjv/deu004.htm#015)<span
+4:15](../../../bib/kjv/deu004.htm#015.md)<span
 id="iv.i.xii-p22.1"></span>), “Take ye therefore good heed unto
 yourselves; for ye saw no manner of similitude in the day that the Lord
 spake unto you in Horeb, out of the midst of the fire, lest ye corrupt
@@ -144,7 +144,7 @@ aware that all longing after such visible shapes is rebellion against
 him. Of the prophets, it will be sufficient to mention Isaiah, who is
 the most copious on this subjects (<span
 id="iv.i.xii-p22.2"></span>[Isaiah
-40:18](../../../bib/kjv/isa040.htm#018)<span
+40:18](../../../bib/kjv/isa040.htm#018.md)<span
 id="iv.i.xii-p22.2"></span>; 41:7, 29; 45:9; 46:5), in order to show how
 the majesty of God is defiled by an absurd and indecorous fiction, when
 he who is incorporeal is assimilated to corporeal matter; he who is
@@ -154,7 +154,7 @@ Paul, too, reasons in the same way, “Forasmuch, then, as we are the
 offspring of God, we ought not to think that the Godhead is like unto
 gold, or silver, or stone, graven by art and man’s device,” (<span
 id="iv.i.xii-p22.3"></span>[Acts
-17:29](../../../bib/kjv/act017.htm#029)<span
+17:29](../../../bib/kjv/act017.htm#029.md)<span
 id="iv.i.xii-p22.3"></span>). Hence it is manifest, that whatever
 statues are set up or pictures painted to represent God, are utterly
 displeasing to him, as a kind of insults to his majesty. And is it
@@ -181,14 +181,14 @@ with the scheme of doctrine, and, at the same time, gave plain
 intimation of his incomprehensible essence. For the cloud, and smoke,
 and flame, though they were symbols of heavenly glory (<span
 id="iv.i.xii-p23.1"></span>[Deut.
-4:11](../../../bib/kjv/deu004.htm#011)<span
+4:11](../../../bib/kjv/deu004.htm#011.md)<span
 id="iv.i.xii-p23.1"></span>), curbed men’s minds as with a bridle, that
 they might not attempt to penetrate farther. Therefore, even Moses (to
 whom, of all men, God manifested himself most familiarly) was not
 permitted though he prayed for it, to behold that face, but received for
 answer, that the refulgence was too great for man (<span
 id="iv.i.xii-p23.2"></span>[Exod.
-33:20](../../../bib/kjv/exo033.htm#020)<span
+33:20](../../../bib/kjv/exo033.htm#020.md)<span
 id="iv.i.xii-p23.2"></span>). The Holy Spirit appeared under the form of
 a dove, but as it instantly vanished, who does not see that in this
 symbol of a moment, the faithful were admonished to regard the Spirit as
@@ -198,9 +198,9 @@ this was in anticipation of the future revelation in Christ, and,
 therefore, did not give the Jews the least pretext for setting up a
 symbol of Deity under the human form. The mercy-seat, also (<span
 id="iv.i.xii-p23.3"></span>[Exod.
-25:17](../../../bib/kjv/exo025.htm#017),
-[18](../../../bib/kjv/exo025.htm#018),
-[21](../../../bib/kjv/exo025.htm#021)<span id="iv.i.xii-p23.3"></span>),
+25:17](../../../bib/kjv/exo025.htm#017.md),
+[18](../../../bib/kjv/exo025.htm#018.md),
+[21](../../../bib/kjv/exo025.htm#021)<span id="iv.i.xii-p23.3"></span>.md),
 where, under the Law, God exhibited the presence of his power, was so
 framed, as to intimate that God is best seen when the mind rises in
 admiration above itself: the Cherubim with outstretched wings shaded,
@@ -235,8 +235,8 @@ sinful enticements to sleep the sleep of death.
 
 <span id="iv.i.xii-p24"></span>4. To the same effect are the words of
 the Psalmist (<span id="iv.i.xii-p24.1"></span>[Ps.
-115:4](../../../bib/kjv/psa115.htm#004),
-[135](../../../bib/kjv/psa115.htm#135)<span
+115:4](../../../bib/kjv/psa115.htm#004.md),
+[135](../../../bib/kjv/psa115.htm#135.md)<span
 id="iv.i.xii-p24.1"></span>:15), “Their idols are silver and gold, the
 works of men’s hands.” From the materials of which they are made, he
 infers that they are not gods, taking it for granted that every human
@@ -260,7 +260,7 @@ when he speaks of the extreme infatuation of those who take a piece of
 wood to kindle a fire to warm themselves, bake bread, roast or boil
 flesh, and out of the residue make a god, before which they prostrate
 themselves as suppliants (<span id="iv.i.xii-p24.2"></span>[Isaiah
-44:16](../../../bib/kjv/isa044.htm#016)<span
+44:16](../../../bib/kjv/isa044.htm#016.md)<span
 id="iv.i.xii-p24.2"></span>). Hence, the same prophet, in another place,
 not only charges idolaters as guilty in the eye of the law, but upbraids
 them for not learning from the foundations of the earth, nothing being
@@ -270,17 +270,17 @@ monstrous proceeding, though palpably repugnant to the order of nature,
 is natural to man. It is, moreover, to be observed, that by the mode of
 expression which is employed, every form of superstition is denounced.
 Being works of men, they have no authority from God (<span
-id="iv.i.xii-p24.3"></span>[Isa. 2:8](../../../bib/kjv/isa002.htm#008),
-[31](../../../bib/kjv/isa002.htm#031)<span
+id="iv.i.xii-p24.3"></span>[Isa. 2:8](../../../bib/kjv/isa002.htm#008.md),
+[31](../../../bib/kjv/isa002.htm#031.md)<span
 id="iv.i.xii-p24.3"></span>:7; <span id="iv.i.xii-p24.4"></span>[Hos.
-14:3](../../../bib/kjv/hos014.htm#003)<span id="iv.i.xii-p24.4"></span>;
+14:3](../../../bib/kjv/hos014.htm#003.md)<span id="iv.i.xii-p24.4"></span>;
 <span id="iv.i.xii-p24.5"></span>[Mic.
-5:13](../../../bib/kjv/mic005.htm#013)<span
+5:13](../../../bib/kjv/mic005.htm#013.md)<span
 id="iv.i.xii-p24.5"></span>); and, therefore, it must be regarded as a
 fixed principle, that all modes of worship devised by man are
 detestable. The infatuation is placed in a still stronger light by the
 Psalmist (<span id="iv.i.xii-p24.6"></span>[Psalm
-115:8](../../../bib/kjv/psa115.htm#008)<span
+115:8](../../../bib/kjv/psa115.htm#008.md)<span
 id="iv.i.xii-p24.6"></span>), when he shows how aid is implored from
 dead and senseless objects, by beings who have been endued with
 intelligence for the very purpose of enabling them to know that the
@@ -288,7 +288,7 @@ whole universe is governed by Divine energy alone. But as the corruption
 of nature hurries away all mankind collectively and individually into
 this madness, the Spirit at length thunders forth a dreadful
 imprecation, “They that make them are like unto them, so is every one
-that trusteth in them.”8  <span id="fr_74"></span>[75](#fn_74) And it is
+that trusteth in them.”8  <span id="fr_74"></span>[75](#fn_74.md) And it is
 to be observed, that the thing forbidden is *likeness*, whether
 sculptured or otherwise. This disposes of the frivolous precaution taken
 by the Greek Church. They think they do admirably, because they have no
@@ -301,12 +301,12 @@ majesty.
 <span id="iv.i.xii-p26"></span>5. I am not ignorant, indeed, of the
 assertion, which is now more than threadbare, “that images are the books
 of the unlearned.” So said Gregory:8  <span
-id="fr_75"></span>[76](#fn_75) a but the Holy Spirit goes a very
+id="fr_75"></span>[76](#fn_75.md) a but the Holy Spirit goes a very
 different decision; and had Gregory got his lesson in this matter in the
 Spirit’s school, he never would have spoken as he did. For when Jeremiah
 declares that “the stock is a doctrine of vanities,” (<span
 id="iv.i.xii-p27.3"></span>[Jer.
-10:8](../../../bib/kjv/jer010.htm#008)<span
+10:8](../../../bib/kjv/jer010.htm#008.md)<span
 id="iv.i.xii-p27.3"></span>), and Habakkuk, “that the molten image” is
 “a teacher of lies,” the general doctrine to be inferred certainly is,
 that every thing respecting God which is learned from images is futile
@@ -328,8 +328,8 @@ vanity and lies, we do nothing more than state *verbatim* what the
 prophets taught.
 
 <span id="iv.i.xii-p28"></span>6. Moreover, let Lactantius and Eusebius8
- <span id="fr_76"></span>[77](#fn_76) be read on this subject.8  <span
-id="fr_77"></span>[78](#fn_77) These writers assume it as an
+ <span id="fr_76"></span>[77](#fn_76.md) be read on this subject.8  <span
+id="fr_77"></span>[78](#fn_77.md) These writers assume it as an
 indisputable fact, that all the beings whose images were erected were
 originally men. In like manner, Augustine distinctly declares, that it
 is unlawful not only to worship images, but to dedicate them. And in
@@ -352,7 +352,7 @@ God did not originate with images, but increased with them, as if new
 fuel had been added. Afterwards, he explains how the fear of God was
 thereby extinguished or impaired, his presence being brought into
 contempt by foolish, and childish, and absurd representations.8  <span
-id="fr_78"></span>[79](#fn_78) The truth of this latter remark I wish we
+id="fr_78"></span>[79](#fn_78.md) The truth of this latter remark I wish we
 did not so thoroughly experience. Whosoever, therefore, is desirous of
 being instructed in the true knowledge of God must apply to some other
 teacher than images.
@@ -390,7 +390,7 @@ office of teaching to idols was, because they themselves were dumb. Paul
 declares, that by the true preaching of the gospel Christ is portrayed
 and in a manner crucified before our eyes (<span
 id="iv.i.xii-p32.1"></span>[Gal.
-3:1](../../../bib/kjv/gal003.htm#001)<span id="iv.i.xii-p32.1"></span>).
+3:1](../../../bib/kjv/gal003.htm#001)<span id="iv.i.xii-p32.1"></span>.md).
 Of what use, then, were the erection in churches of so many crosses of
 wood and stone, silver and gold, if this doctrine were faithfully and
 honestly preached—viz. Christ died that he might bear our curse upon the
@@ -412,7 +412,7 @@ that it was the first origin of the practice. That idols were in use
 before the prevalence of that ambitious consecration of the images of
 the dead, frequently adverted to by profane writers, is evident from the
 words of Moses (<span id="iv.i.xii-p33.1"></span>[Gen.
-31:19](../../../bib/kjv/gen031.htm#019)<span
+31:19](../../../bib/kjv/gen031.htm#019.md)<span
 id="iv.i.xii-p33.1"></span>). When he relates that Rachel stole her
 father’s images, he speaks of the use of idols as a common vice. Hence
 we may infer, that the human mind is, so to speak, a perpetual forge of
@@ -423,7 +423,7 @@ given to idolatry: so that he must with his own eyes, not without the
 deepest grief, have seen the earth polluted with idols—that earth whose
 iniquities God had lately purged with so fearful a Judgment. For Joshua
 testifies (<span id="iv.i.xii-p33.2"></span>[Josh.
-24:2](../../../bib/kjv/jos024.htm#002)<span
+24:2](../../../bib/kjv/jos024.htm#002.md)<span
 id="iv.i.xii-p33.2"></span>), that Torah and Nachor, even before the
 birth of Abraham, were the worshipers of false gods. The progeny of Shem
 having so speedily revolted, what are we to think of the posterity of
@@ -440,7 +440,7 @@ exhibited, appears from the example of the Israelites: “Up,” said they,
 “make us gods, which shall go before us; for as for this Moses, the man
 that brought us up out of the land of Egypt, we wet not what is become
 of him,” (<span id="iv.i.xii-p33.3"></span>[Exod.
-22:1](../../../bib/kjv/exo022.htm#001)<span
+22:1](../../../bib/kjv/exo022.htm#001.md)<span
 id="iv.i.xii-p33.3"></span>). They knew, indeed, that there was a God
 whose mighty power they had experienced in so many miracles, but they
 had no confidence of his being near to them, if they did not with their
@@ -489,7 +489,7 @@ deliverer, provided they saw him going before them in the calf. Nor are
 the heathen to be deemed to have been so stupid as not to understand
 that God was something else than wood and stone. For they changed the
 images at pleasure, but always retained the same gods in their minds;8
- <span id="fr_79"></span>[80](#fn_79) besides, they daily consecrated
+ <span id="fr_79"></span>[80](#fn_79.md) besides, they daily consecrated
 new images without thinking they were making new gods. Read the excuses
 which Augustine tells us were employed by the idolaters of his time
 (*August. in Ps.* 113). The vulgar, when accused, replied that they did
@@ -503,7 +503,7 @@ contented with spiritual understanding, they thought that images would
 give them a surer and nearer impression. When once this preposterous
 representation of God was adopted, there was no limit until, deluded
 every now and then by new impostures, they came to think that God
-exerted his power in images.8  <span id="fr_80"></span>[81](#fn_80)
+exerted his power in images.8  <span id="fr_80"></span>[81](#fn_80.md)
 Still the Jews were persuaded, that under such images they worshipped
 the eternal God, the one true Lord of heaven and earth; and the
 Gentiles, also, in worshipping their own false gods, supposed them to
@@ -514,7 +514,7 @@ that the thing which was thus anciently done is also done in our day.
 For why do men prostrate themselves before images? Why, when in the act
 of praying, do they turn towards them as to the ears of God? It is
 indeed true, as Augustine says (in <span id="iv.i.xii-p38.1"></span>[Ps.
-113](../../../bib/kjv/psa113.htm#000)<span id="iv.i.xii-p38.1"></span>),
+113](../../../bib/kjv/psa113.htm#000)<span id="iv.i.xii-p38.1"></span>.md),
 that no person thus prays or worships, looking at an image, without
 being impressed with the idea that he is heard by it, or without hoping
 that what he wishes will be performed by it. Why are such distinctions
@@ -522,7 +522,7 @@ made between different images of the same God, that while one is passed
 by, or receives only common honour, another is worshipped with the
 highest solemnities? Why do they fatigue themselves with votive
 pilgrimages to images while they have many similar ones at home?8  <span
-id="fr_81"></span>[82](#fn_81) Why at the present time do they fight for
+id="fr_81"></span>[82](#fn_81.md) Why at the present time do they fight for
 them to blood and slaughter, as for their altars and hearths, showing
 more willingness to part with the one God than with their idols? And yet
 I am not now detailing the gross errors of the vulgar—errors almost
@@ -618,7 +618,7 @@ who are praying or sacrificing, though they have neither sense nor life,
 yet from appearing as if they had both, they affect weak minds just as
 if they lived and breathed,” &c. And again, in another passage (in <span
 id="iv.i.xii-p42.2"></span>[Ps.
-112](../../../bib/kjv/psa112.htm#000)<span id="iv.i.xii-p42.2"></span>)
+112](../../../bib/kjv/psa112.htm#000)<span id="iv.i.xii-p42.2"></span>.md)
 he says, “The effect produced, and in a manner extorted, by the bodily
 shape, is, that the mind, being itself in a body, imagines that a body
 which is so like its oven must be similarly affected,” &c. A little
@@ -626,7 +626,7 @@ farther on he says, “Images are more capable of giving a wrong bent to
 an unhappy soul, from having mouth, eyes, ears, and feet, than of
 correcting it, as they neither speak, nor see, nor hear, nor walk.” This
 undoubtedly is the reason why John (<span id="iv.i.xii-p42.3"></span>[1
-John 5:21](../../../bib/kjv/jo1005.htm#021)<span
+John 5:21](../../../bib/kjv/jo1005.htm#021.md)<span
 id="iv.i.xii-p42.3"></span>) enjoins us to beware, not only of the
 worship of idols, but also of idols themselves. And from the fearful
 infatuation under which the world has hitherto laboured, almost to the
@@ -643,14 +643,14 @@ steadily fixed, and more vividly impressed, than to require the aid of
 any images which the wit of man may devise. Such, then, is the
 incomparable blessing of images—a blessing, the want of which, if we
 believe the Papists, cannot possibly be compensated!8  <span
-id="fr_82"></span>[83](#fn_82)
+id="fr_82"></span>[83](#fn_82.md)
 
 <span id="iv.i.xii-p44"></span>14. Enough, I believe, would have been
 said on this subject, were I not in a manner arrested by the Council of
 Nice; not the celebrated Council which Constantine the Great assembled,
 but one which was held eight hundred years ago by the orders and under
 the auspices of the Empress Irene.9  <span
-id="fr_83"></span>[84](#fn_83) This Council decreed not only that images
+id="fr_83"></span>[84](#fn_83.md) This Council decreed not only that images
 were to be used in churches, but also that they were to be worshipped.
 Every thing, therefore, that I have said, is in danger of suffering
 great prejudice from the authority of this Synod. To confess the truth,
@@ -702,7 +702,7 @@ childishly, or wresting it so shamefully and profanely.
 <span id="iv.i.xii-p47"></span>16. I come now to monstrous impieties,
 which it is strange they ventured to utter, and twice strange that all
 men did not protest against with the utmost detestation.9  <span
-id="fr_84"></span>[85](#fn_84) It is right to expose this frantic and
+id="fr_84"></span>[85](#fn_84.md) It is right to expose this frantic and
 flagitious extravagance, and thereby deprive the worship of images of
 that gloss of antiquity in which Papists seek to deck it. Theodosius
 Bishop of Amora fires oft an anathema at all who object to the worship
@@ -726,26 +726,26 @@ the whole thus concludes, “Rejoice and exult, ye who, having the image
 of Christ, offer sacrifice to it.” Where is now the distinction of
 λατρια and δυλια with which they would throw dust in all eyes, human and
 divine? The Council unreservedly relies as much on images as on the
-living God.9  <span id="fr_85"></span>[86](#fn_85)
+living God.9  <span id="fr_85"></span>[86](#fn_85.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_73"></span>[74](inst025.htm#fr_73) <span
+<span id="fn_73"></span>[74](inst025.htm#fr_73.md) <span
 id="iv.i.xii-p20.2"></span>
 
 <span id="iv.i.xii-p21"></span> 80 The French adds, “voire jusques aux
 oignons et porreaux;”—they have gone even to onions and leeks.
 
-<span id="fn_74"></span>[75](inst025.htm#fr_74) <span
+<span id="fn_74"></span>[75](inst025.htm#fr_74.md) <span
 id="iv.i.xii-p24.7"></span>
 
 <span id="iv.i.xii-p25"></span>1 81 Calvin translates the words of the
 Psalmist as an imprecation, “Similes illis fiant qui faciunt ea;”—Let
 those who make them be like unto them.
 
-<span id="fn_75"></span>[76](inst025.htm#fr_75) <span
+<span id="fn_75"></span>[76](inst025.htm#fr_75.md) <span
 id="iv.i.xii-p26.1"></span>
 
 <span id="iv.i.xii-p27"></span>2 82 See Gregory, Ep. ad Serenum
@@ -754,21 +754,21 @@ id="iv.i.xii-p27.1"></span>. lib. 7; and <span
 id="iv.i.xii-p27.2"></span>Ep. 9<span id="iv.i.xii-p27.2"></span> lib.
 9; images, rather accuses it.
 
-<span id="fn_76"></span>[77](inst025.htm#fr_76) <span
+<span id="fn_76"></span>[77](inst025.htm#fr_76.md) <span
 id="iv.i.xii-p28.1"></span>
 
 <span id="iv.i.xii-p29"></span>3 83 The French adds, “deux des plus
 anciens Docteurs de l’Eglise;”—two of the most ancient Doctors of the
 Church.
 
-<span id="fn_77"></span>[78](inst025.htm#fr_77) <span
+<span id="fn_77"></span>[78](inst025.htm#fr_77.md) <span
 id="iv.i.xii-p29.1"></span>
 
 <span id="iv.i.xii-p30"></span>4 84 Lact. Inst. Div. lib. 1 c. 15;
 Euseb. Præf. Evang. lib. 3 c. 3, 4; also August. De Civitate Dei, lib. 4
 c. 9, 31.
 
-<span id="fn_78"></span>[79](inst025.htm#fr_78) <span
+<span id="fn_78"></span>[79](inst025.htm#fr_78.md) <span
 id="iv.i.xii-p30.1"></span>
 
 <span id="iv.i.xii-p31"></span>5 85 The French is “Pourceque la gloire
@@ -776,21 +776,21 @@ de sa Divinite est vilipendée en une chose si sotte et lourde comme est
 un marmouset;”—because the glory of his Divinity is degraded into an
 object so silly and stupid as a marmoset.
 
-<span id="fn_79"></span>[80](inst025.htm#fr_79) <span
+<span id="fn_79"></span>[80](inst025.htm#fr_79.md) <span
 id="iv.i.xii-p35.1"></span>
 
 <span id="iv.i.xii-p36"></span>6 86 The French is “Neantmoins ils ne
 disoyent point pour cela au’un Dieu fut divisé;”—nevertheless, they did
 not therefore say that the unity of God was divided.
 
-<span id="fn_80"></span>[81](inst025.htm#fr_80) <span
+<span id="fn_80"></span>[81](inst025.htm#fr_80.md) <span
 id="iv.i.xii-p36.1"></span>
 
 <span id="iv.i.xii-p37"></span>7 87 French, “Ne vouloit monstrer sa
 vertu que sous les images;”—would only show his power under the form of
 images.
 
-<span id="fn_81"></span>[82](inst025.htm#fr_81) <span
+<span id="fn_81"></span>[82](inst025.htm#fr_81.md) <span
 id="iv.i.xii-p38.2"></span>
 
 <span id="iv.i.xii-p39"></span>8 88 The two last sentences in French
@@ -803,7 +803,7 @@ great account of them, they pay their devotion to another. Why is it
 that they trot so far on a pilgrimage to see a marmoset, when they have
 one like it at their door?
 
-<span id="fn_82"></span>[83](inst025.htm#fr_82) <span
+<span id="fn_82"></span>[83](inst025.htm#fr_82.md) <span
 id="iv.i.xii-p42.4"></span>
 
 <span id="iv.i.xii-p43"></span>9 89 The French is “qu’il n’y ait nulle
@@ -811,20 +811,20 @@ recompense qui vaille un marmouset guignant à travers et faisant la mine
 tortue;”—that no compensation can equal the value of a marmoset looking
 askance and twisting its face.
 
-<span id="fn_83"></span>[84](inst025.htm#fr_83) <span
+<span id="fn_83"></span>[84](inst025.htm#fr_83.md) <span
 id="iv.i.xii-p44.1"></span>
 
 <span id="iv.i.xii-p45"></span> 90 The French is “une mechante
 Proserpine nommée Irene;”—a wicked Proserpine named Irene.
 
-<span id="fn_84"></span>[85](inst025.htm#fr_84) <span
+<span id="fn_84"></span>[85](inst025.htm#fr_84.md) <span
 id="iv.i.xii-p47.1"></span>
 
 <span id="iv.i.xii-p48"></span>1 91 The French adds, “et qu’il ne se
 soit trouvé gens qui leur crachassent au visage;”—and that people were
 not found to spit in their face.
 
-<span id="fn_85"></span>[86](inst025.htm#fr_85) <span
+<span id="fn_85"></span>[86](inst025.htm#fr_85.md) <span
 id="iv.i.xii-p48.1"></span>
 
 <span id="iv.i.xii-p49"></span>2 92 See Calvin, De Vitandis
@@ -834,4 +834,4 @@ Nicidenitas. See also Calvin, De Fugiendis Illicitis Sacris.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 12. - GOD DISTINGUISHED FROM IDOLS, THAT HE MAY BE THE
-EXCLUSIVE OBJECT OF WORSHIP.](inst026)
+EXCLUSIVE OBJECT OF WORSHIP.](inst026.md)

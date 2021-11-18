@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](ecl02) 
-[Previous](ecll01)  [Next](ecll03) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](ecl02.md) 
+[Previous](ecll01)  [Next](ecll03.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ invenies alium, si te hic fastidit, Alexin.'
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue III.--Palaemon](ecll03)
+[Next: Eclogue III.--Palaemon](ecll03.md)

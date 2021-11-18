@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor18)  [Next](sor20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor18)  [Next](sor20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -108,7 +108,7 @@ element, and diverted the spectators with many a ludicrous interlude.
 Accordingly the opening ceremony of the "Sabbath," the world-old scene,
 coarse and realistic, of the pretended fecundation of the Chief
 Sorceress by Satan (in former days by Priapus), was followed by another
-travesty, a *lavabo*, <span id="fr_63"></span>[1](#fn_63) a cold
+travesty, a *lavabo*, <span id="fr_63"></span>[1](#fn_63.md) a cold
 purification (to chill and sterilise), which she received not without
 grimaces expressive of shuddering and mortal chill, the whole forming a
 broad farce in which the Sorceress usually substituted an
@@ -210,7 +210,7 @@ cunningly adopts the form of said father, and returning night after
 night to the convent, enjoys her favours, deceiving her so thoroughly
 that she declares herself to have been had by him—she had kept
 count—four hundred and thirty-four times. <span
-id="fr_64"></span>[2](#fn_64) . . ." Her subsequent repentance met with
+id="fr_64"></span>[2](#fn_64.md) . . ." Her subsequent repentance met with
 no little compassion, and she was speedily relieved from the agonies of
 shame, a good walled dungeon being at once provided for her in the near
 neighbourhood, at the Castle of Selles, where she expired in a few days,
@@ -331,7 +331,7 @@ Convent of the Ursuline Sisters of Marseilles.
 
 ### Footnotes
 
-<span id="fn_63"></span>[161:1](sor19.htm#fr_63) The instrument employed
+<span id="fn_63"></span>[161:1](sor19.htm#fr_63.md) The instrument employed
 is thus described by Boguet (p. 69): it is cold, hard, very slender, a
 little longer than a finger,—evidently a *canula*. In Lancre (pp. 224,
 225, 226) it is much improved, less liable to inflict injury; it is an
@@ -340,9 +340,9 @@ Satan, on the Basque borders, midway between two great monarchies, is
 well posted in the progress of this art, already very fashionable among
 the fine ladies of the sixteenth century.
 
-<span id="fn_64"></span>[164:2](sor19.htm#fr_64) Massée, *Chronique du
+<span id="fn_64"></span>[164:2](sor19.htm#fr_64.md) Massée, *Chronique du
 Monde* (1540), and the Chronicles of Hainault, Vinchant, etc.
 
 ------------------------------------------------------------------------
 
-[Next: 18. Gauffridi (1610)](sor20)
+[Next: 18. Gauffridi (1610)](sor20.md)

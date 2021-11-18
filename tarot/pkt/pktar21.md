@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar00)  [Next](pkt0203) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar00)  [Next](pkt0203.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The World
 
 <span id="img_ar21"></span> <span align="CENTER"> [![](tn/ar21.jpg)  
-Click to enlarge](img/ar21.jpg)</span>
+Click to enlarge](img/ar21.jpg.md)</span>
 
 As this final message of the Major Trumps is unchanged--and indeed
 unchangeable--in respect of its design, it has been partly described
@@ -45,4 +45,4 @@ seventeenth card. Lastly, it has been called the Crown of the Magi.
 
 ------------------------------------------------------------------------
 
-[Next: Section 3: Conclusion as to the Greater Keys](pkt0203)
+[Next: Section 3: Conclusion as to the Greater Keys](pkt0203.md)

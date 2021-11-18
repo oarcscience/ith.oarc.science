@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar20)  [Next](pktar21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar20)  [Next](pktar21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Fool
 
 <span id="img_ar00"></span> <span align="CENTER"> [![](tn/ar00.jpg)  
-Click to enlarge](img/ar00.jpg)</span>
+Click to enlarge](img/ar00.jpg.md)</span>
 
 With light step, as if earth and its trammels had little power to
 restrain him, a young man in gorgeous vestments pauses at the brink of a
@@ -57,4 +57,4 @@ folly at the most insensate stage.
 
 ------------------------------------------------------------------------
 
-[Next: XXI. The World](pktar21)
+[Next: XXI. The World](pktar21.md)

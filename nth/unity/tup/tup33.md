@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](tup32)  [Next](tup34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](tup32)  [Next](tup34.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Teach Us to Pray*, by Charles Fillmore, \[1941\], at Intangible Textual
 Heritage
 
@@ -328,4 +328,4 @@ take God into partnership with you and you will demonstrate abundance.
 
 ------------------------------------------------------------------------
 
-[Next: The Sevenfold Cleansing](tup34)
+[Next: The Sevenfold Cleansing](tup34.md)

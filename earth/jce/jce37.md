@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce36)  [Next](jce38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce36)  [Next](jce38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -101,7 +101,7 @@ end of each lock of loose flowing hair is tipped with little luminous
 radiations. This frightful mask of electric sparks suggests to me, even
 in this dizzy excitement, a comparison with preadamite man, the
 contemporary of the ichthyosaurus and the megatherium.  <span
-id="fr_12"></span>[13](#fn_12)
+id="fr_12"></span>[13](#fn_12.md)
 
 The mast yet holds firm. The sail stretches tight like a bubble ready to
 burst. The raft flies at a rate that I cannot reckon, but not so fast as
@@ -245,9 +245,9 @@ But then . . . .
 
 ### Footnotes
 
-<span id="fn_12"></span>[13](jce37.htm#fr_12) Rather of the mammoth and
+<span id="fn_12"></span>[13](jce37.htm#fr_12.md) Rather of the mammoth and
 the mastodon. (Trans.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVI. Calm Philosophic Discussions](jce38)
+[Next: Chapter XXXVI. Calm Philosophic Discussions](jce38.md)

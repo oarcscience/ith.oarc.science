@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq55)  [Next](sfq57) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq55)  [Next](sfq57.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ when a fitting time
 <span id="img_25800"></span>
 
 [![](tn/25800.jpg)  
-Click to enlarge](img/25800.jpg)
+Click to enlarge](img/25800.jpg.md)
 
 came, he had to depart on his quest. Poor Britomart would scarcely let
 him go, though he faithfully promised to return directly he had achieved
@@ -129,4 +129,4 @@ adventures that befell her after she parted from Britomart.
 
 ------------------------------------------------------------------------
 
-[Next: The Giant with Flaming Eyes](sfq57)
+[Next: The Giant with Flaming Eyes](sfq57.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca47)  [Next](fsca49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca47)  [Next](fsca49.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -44,17 +44,17 @@ id="img_20000"></span>
 
 |                                     |
 |-------------------------------------|
-| ![Panther incensed.](img/20000.jpg) |
+| ![Panther incensed.](img/20000.jpg.md) |
 
 hide their heads, and when they have trained other beasts within their
 reach by their sweet savour, they fall upon them and worry them." <span
-id="fr_22"></span>[\*](#fn_22) And again, Sir William Segar, Garter
+id="fr_22"></span>[\*](#fn_22.md) And again, Sir William Segar, Garter
 King-of-Arms, following the same credulous historian, says: "The panther
 is admired of all other beasts for the beauty of his skyn, being spotted
 with variable colours, and beloved of them for the sweetness of his
 breath that streameth forth of his nostrils and ears like smoke which
 our paynters mistaking, corruptly do make fire." <span
-id="fr_23"></span>[†](#fn_23)
+id="fr_23"></span>[†](#fn_23.md)
 
 It is, however, more probable that the creature was represented emitting
 flame and smoke to denote and give characteristic expression to the
@@ -117,18 +117,18 @@ sibi conscia facti" ("The mind conscious to itself of the deed"), the
 panther signifying foresight (providence) from the number of eyes in his
 coat. Others said he wished to imply that he knew how to manage for
 himself in the various changes of his capricious fortune. <span
-id="fr_24"></span>[\*](#fn_24)
+id="fr_24"></span>[\*](#fn_24.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_22"></span>[200:\*](fsca48.htm#fr_22) Bk. viii. ch. 17.
+<span id="fn_22"></span>[200:\*](fsca48.htm#fr_22.md) Bk. viii. ch. 17.
 
-<span id="fn_23"></span>[200:†](fsca48.htm#fr_23) Harl. MSS. 6085.
+<span id="fn_23"></span>[200:†](fsca48.htm#fr_23.md) Harl. MSS. 6085.
 
-<span id="fn_24"></span>[202:\*](fsca48.htm#fr_24) Hist. Dev. 260.
+<span id="fn_24"></span>[202:\*](fsca48.htm#fr_24.md) Hist. Dev. 260.
 
 ------------------------------------------------------------------------
 
-[Next: The Lynx](fsca49)
+[Next: The Lynx](fsca49.md)

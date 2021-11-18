@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](nfnw00)  [Next](nfnw02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](nfnw00)  [Next](nfnw02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ does.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: A Morning Bath](nfnw02)
+[Next: Chapter II: A Morning Bath](nfnw02.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe11)  [Next](spe13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe11)  [Next](spe13.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,10 +33,10 @@ theatrical exhibitions in London, in the twelfth century, were called
 Miracles, because they consisted of sacred plays, or representations of
 the miracles wrought by the holy confessors, and the sufferings by which
 the perseverance of the martyrs was manifested. <span
-id="fr_505"></span>[1](#fn_505) Such subjects were certainly very
+id="fr_505"></span>[1](#fn_505.md) Such subjects were certainly very
 properly chosen, because the church was usually the theatre wherein
 these pious dramas were performed, and the actors were the ecclesiastics
-or their scholars. <span id="fr_506"></span>[2](#fn_506) The first play
+or their scholars. <span id="fr_506"></span>[2](#fn_506.md) The first play
 of this kind specified by name, is that of St Katherine, *Ludus de St
 Katharine*. According to Matthew Paris, it was written by Geoffrey, a
 Norman, afterwards abbot of St Albans: he was sent over into England by
@@ -76,7 +76,7 @@ Lent, and sometimes a sequel of Scripture histories was carried on for
 several days. In the reign of Richard II. (1391 the parish clerks of
 London put forth a play at Skinners Wells, near Smithfield, which
 continued three days; the king, queen, and many of the nobility, being
-present at the performance. <span id="fr_507"></span>[1](#fn_507) In the
+present at the performance. <span id="fr_507"></span>[1](#fn_507.md) In the
 succeeding reign, 10 Henry IV. A.D. 1409, another play was acted by them
 at the same place, and lasted eight days; this drama began with the
 creation of the world, and contained the greater part of the history of
@@ -121,7 +121,7 @@ THE COVENTRY PLAY.--The best known of °these mysteries is that entitled
 Corpus Christi, or *Ludus Coventrie*, the Coventry Play; transcripts of
 this play, nearly if not altogether coeval with the time of its
 representation, are yet in existence; one in particular is preserved in
-the Cotton Library. <span id="fr_508"></span>[1](#fn_508) The prologue
+the Cotton Library. <span id="fr_508"></span>[1](#fn_508.md) The prologue
 to this curious drama is delivered by three persons, who speak
 alternately, and are called vexillators; it contains the argument of the
 several pageants, or acts, that constitute the piece, and they amount to
@@ -153,13 +153,13 @@ Customs of the English People*, with long extracts, and from several
 others nearly equal in antiquity, to which the reader is referred. This
 play was acted by the Friars Minors, or Mendicant Friars, of Coventry;
 and commenced on Corpus Christi day, whence it received its title. <span
-id="fr_509"></span>[2](#fn_509)
+id="fr_509"></span>[2](#fn_509.md)
 
 <span id="page_133">p. 133</span>
 
 MYSTERIES DESCRIBED.--The mysteries often consisted of single subjects,
 and made but one performance. In the Bodleian Library at Oxford <span
-id="fr_510"></span>[1](#fn_510) I met with two mysteries that to the
+id="fr_510"></span>[1](#fn_510.md) I met with two mysteries that to the
 best of my knowledge have not been mentioned: the subject of one is the
 conversion of Saint Paul, and of the other the casting out of the devils
 from Mary Magdalene; they are both very old and imperfect, especially
@@ -187,7 +187,7 @@ are in general much shorter than the modern plays. Beelzebub seems to
 have been the principal comic actor, assisted by his merry troop of
 under-devils, who, with variety of noises, strange gestures, and
 contortions of the body, excited the laughter of the populace. <span
-id="fr_511"></span>[2](#fn_511)
+id="fr_511"></span>[2](#fn_511.md)
 
 \* In towns such as York, Chester, and Coventry, where the cycle of
 plays was divided into a number of pageants or acts that extended over
@@ -221,7 +221,7 @@ Mayor, and so to every streete, and soe every streete had a pagiante
 playing before them at one time, till all the pagiantes for the day
 appointed were played, and when one pagiant was neere ended, worde was
 brought from streete to streete, that soe they might come in place
-thereof, exceedinge orderly." <span id="fr_512"></span>[1](#fn_512)
+thereof, exceedinge orderly." <span id="fr_512"></span>[1](#fn_512.md)
 
 CORNISH MIRACLE PLAYS.--In Cornwall the miracle plays were differently
 represented: they were not performed in the churches, nor under any kind
@@ -236,7 +236,7 @@ hear and see it, for they have therein devils and devices to delight as
 well the eye as the Bare. The players conne not their parts without
 booke, but are prompted by one called the ordinary, who followeth at
 their backs with the book in his hand, and telleth them what to
-say." <span id="fr_513"></span>[2](#fn_513) In the Harleian Library is
+say." <span id="fr_513"></span>[2](#fn_513.md) In the Harleian Library is
 preserved a miracle play of this kind in the Cornish language, written
 by William Gordon, A.D. 1611, accompanied with an English translation by
 John Keygwyn, A.D. 1693. It begins with the creation and ends with
@@ -247,7 +247,7 @@ play on the redemption of man; and then speaking to the musicians, says,
 the sport." This species of amusement continued to be exhibited in
 Cornwall long after the abolition of the miracles and moralities in the
 other parts of the kingdom, and when the establishment of regular plays
-had taken place. <span id="fr_514"></span>[3](#fn_514)
+had taken place. <span id="fr_514"></span>[3](#fn_514.md)
 
 MORALITIES DESCRIBED.--When the mysteries ceased to be played, the
 subjects for the drama were not taken from historical facts, but
@@ -343,7 +343,7 @@ INTERLUDES.--The interludes, which, I presume, formed a material part of
 the performances exhibited by the secular players, were certainly of a
 jocular nature, consisting probably of facetious or satirical dialogues,
 calculated to promote mirth, and therefore they are censured by Matthew
-Paris <span id="fr_515"></span>[1](#fn_515) as "vain pastimes."
+Paris <span id="fr_515"></span>[1](#fn_515.md) as "vain pastimes."
 Something of this kind was the representation made before king Henry
 VIII. at Greenwich, in 1528, thus related by Hall: "Two persons plaied a
 dialogue, the effect whereof was, whether riches were better than love;
@@ -384,7 +384,7 @@ Tragedy is to tel a certayne story,
 As olde bokes maken memory,  
 Of them that stode in great prosperite,  
 And be fallen out of hye degre  
-Into misery and ended wretchedly. <span id="fr_516"></span>[1](#fn_516)
+Into misery and ended wretchedly. <span id="fr_516"></span>[1](#fn_516.md)
 
 PLAYS ON HOLY DAYS.--A short poem in the Harleian Collection, *temp*.
 Henry VI., which is a quaint amalgam of English and Latin, shows that
@@ -395,7 +395,7 @@ Ingland goith to noughte, *plus fecit horn viciosus*,
 To lust man is brought, *nimis est homo deliciosus*;  
 Goddis halidays *non observantur honeste*,  
 For unthryfty pleyis *in eis regnant manifeste*. <span
-id="fr_517"></span>[2](#fn_517)
+id="fr_517"></span>[2](#fn_517.md)
 
 \* The households of Henry VI. and of Edward IV. included twelve
 minstrels who were permanently engaged; possibly they occasionally
@@ -405,7 +405,7 @@ enterludes" from its enactments. In the Rolls of Winchester College for
 Meke cithariste*. The Household Book of the duke of Norfolk, from 1483
 to 1501, contains entries of payments to the players of the duke of
 Gloucester (afterwards Richard III.), and to the players of Cocksale,
-Chelmsford, and Lavenham. <span id="fr_518"></span>[3](#fn_518)
+Chelmsford, and Lavenham. <span id="fr_518"></span>[3](#fn_518.md)
 
 \* ROYAL COMPANIES OF PLAYERS.--Dramatic performances were frequent
 throughout England in the reign of Henry VII. The king had two distinct
@@ -416,7 +416,7 @@ books from 1492 to 1509 show that the players of the duke of Buckingham
 and of the earls of Oxford and Northumberland performed at court; and
 that separate companies of players were attached to London, Coventry,
 Wycombe, Mile-End, Wimborne Minster, and Kingston. <span
-id="fr_519"></span>[4](#fn_519)
+id="fr_519"></span>[4](#fn_519.md)
 
 \* On the accession of Henry VIII. every form of court amusement was at
 
@@ -479,7 +479,7 @@ novelty, which admits of the
 <span id="img_pl19"></span>
 
 [![Mummeries](tn/pl19.jpg)  
-Click to enlarge](img/pl19.jpg)  
+Click to enlarge](img/pl19.jpg.md)  
 Mummeries  
 
  
@@ -490,7 +490,7 @@ supposition that they were still more ancient. From the numeration of
 the dresses appropriated in 1348 to one of these plays, which consisted
 of various kinds of disguisements, they seem to have merited rather the
 denomination of mummeries than of theatrical divertisements. <span
-id="fr_520"></span>[1](#fn_520) The king then kept his Christmas at his
+id="fr_520"></span>[1](#fn_520.md) The king then kept his Christmas at his
 castle at Guildford; the dresses are said to be *ad faciendum ludos
 domini regis*, and consisted of eighty tunics of buckram of various
 colours; forty-two visors of different similitudes, namely, fourteen of
@@ -500,7 +500,7 @@ heads of dragons; fourteen white tunics wrought with the heads and wings
 of peacocks; fourteen with the heads of swans with wings; fourteen
 tunics painted with the eyes of peacocks; fourteen tunics of English
 linen painted; and fourteen other tunics embroidered with stars of
-gold. <span id="fr_521"></span>[2](#fn_521) How far these plays were
+gold. <span id="fr_521"></span>[2](#fn_521.md) How far these plays were
 enlivened by dialogues, or interlocutory eloquence is not known; but
 probably they partook more of the feats of pantomime than of colloquial
 excellency, and were better calculated to amuse the sight than to
@@ -515,13 +515,13 @@ exaggerated oddity of the visors, and by the singularity and splendour
 of the dresses; every thing was out of nature and propriety. Frequently
 the masque was attended with an exhibition of gorgeous machinery,
 resembling the wonders of a modern pantomime." <span
-id="fr_522"></span>[3](#fn_522)
+id="fr_522"></span>[3](#fn_522.md)
 
 The reader may form some judgment of the appearance the actors made upon
 these occasions, from the masquerade figures at the top and bottom of
-[plate nineteen](#img_pl19), which are taken from a beautiful manuscript
+[plate nineteen](#img_pl19.md), which are taken from a beautiful manuscript
 in the Bodleian written and illuminated in the reign of Edward
-III. <span id="fr_523"></span>[4](#fn_523)
+III. <span id="fr_523"></span>[4](#fn_523.md)
 
 The performance seems to have consisted chiefly in dancing, and the
 mummers are usually attended by the minstrels playing upon different
@@ -535,7 +535,7 @@ castle with ladies; the second a ship in full sail, that cast anchor
 near the castle; and the third a mountain with several armed knights
 upon it, who stormed the castle, and obliged the ladies to surrender.
 The show ended in a dance, and the pageantry disappeared. <span
-id="fr_524"></span>[5](#fn_524)
+id="fr_524"></span>[5](#fn_524.md)
 
 <span id="page_140">p. 140</span>
 
@@ -545,8 +545,8 @@ the king of France, there was exhibited in the great hall at Greenwich,
 "a rock full of al maner of stones very artificially made, and on the
 top stood five trees: the first was an olive tree, on which hanged a
 shield of the armes of the church of Rome; the second was a pyne aple
-tree, <span id="fr_525"></span>[1](#fn_525) with the arms of the
-emperor; the third was a rosyer, <span id="fr_526"></span>[2](#fn_526)
+tree, <span id="fr_525"></span>[1](#fn_525.md) with the arms of the
+emperor; the third was a rosyer, <span id="fr_526"></span>[2](#fn_526.md)
 with the armes of England; the fourth a braunche of lylies, bearing the
 armes of France; and the fifth a pomegranet tree, bearing the armes of
 Spayn; in token that all these five potentates were joined together in
@@ -556,8 +556,8 @@ dolphin in her lap. In this rock were ladies and gentlemen appareled, in
 crimosyn sattyn, covered over with floures of purple satyn, embroudered
 with wrethes of gold knit together with golden laces, and on every
 floure a hart of gold moving. The ladies' tyer <span
-id="fr_527"></span>[3](#fn_527) was after the fashion of Inde, with
-kerchiefes of pleasaunce <span id="fr_528"></span>[4](#fn_528) hached
+id="fr_527"></span>[3](#fn_527.md) was after the fashion of Inde, with
+kerchiefes of pleasaunce <span id="fr_528"></span>[4](#fn_528.md) hached
 with fyne gold, and set with letters of Greeke in gold of bullion, and
 the edges of their kerchiefes were garnished with hanging perle. These
 gentlemen and ladyes sate on the neyther part of the rock, and out of a
@@ -569,7 +569,7 @@ imediately closed agayn. Then entred a person called report, appareled
 in crymosyn satin full of tongues, sitting on a flying horse with wynges
 and feete of gold called Pegasus; this person in Frenche declared the
 meaning of the rocks, the trees, and the tourney." <span
-id="fr_529"></span>[5](#fn_529)
+id="fr_529"></span>[5](#fn_529.md)
 
 PLAY OF HOCK-TUESDAY.--Among the pastimes exhibited for the
 entertainment of queen Elizabeth during her stay at Kenilworth Castle,
@@ -586,7 +586,7 @@ custom; but that it was suppressed soon after the Reformation, at the
 instance of some of their preachers, whose good intention the
 towns-people did not deny, but complained of their severity; urging in
 behalf of the show, that it was "without ill example of manners,
-papistry, or any superstition." <span id="fr_530"></span>[6](#fn_530)
+papistry, or any superstition." <span id="fr_530"></span>[6](#fn_530.md)
 The rhimes originally belonging to the play, I presume, were omitted
 upon the abovementioned
 
@@ -606,7 +606,7 @@ many of them led captive for triumph by our English women." Her majesty
 was much pleased with this performance, "whereat," says my author," she
 laughed well," and rewarded the actors with two bucks, and five marks in
 money; and with this munificence they were highly satisfied. <span
-id="fr_531"></span>[1](#fn_531)
+id="fr_531"></span>[1](#fn_531.md)
 
 DECLINE OF SECULAR PLAYS.--The secular plays, as we have seen, consisted
 of a medley of different performances, calculated chiefly to promote
@@ -633,7 +633,7 @@ occupations.
 such local companies came greatly into favour in certain districts. The
 extracts recently published from the Household Books of Sir Miles
 Stapleton, of Carlton, Yorkshire, afford various interesting particulars
-of this character. <span id="fr_532"></span>[2](#fn_532)
+of this character. <span id="fr_532"></span>[2](#fn_532.md)
 
 \* Sir Miles was ever ready to encourage local or itinerant players and
 musicians to entertain the household at Carlton. In Easter week, 1661,
@@ -770,7 +770,7 @@ beginning of service. At Blythburgh, the Jack has also been removed from
 the tower to the body of the church; in this case the somewhat mutilated
 figure, which is about four feet high, is also clad in plate armour, but
 with the addition of a flowing beard. <span
-id="fr_533"></span>[1](#fn_533)
+id="fr_533"></span>[1](#fn_533.md)
 
 NATURE OF PERFORMANCES BY PUPPETS.--From such figures as these
 originated the more modern heroes of the puppet-show. The puppet-shows
@@ -782,15 +782,15 @@ become unpopular, and are frequented only by children. It is, however,
 certain, that the puppet-shows attracted the notice of the public at the
 commencement of the last century, and rivalled in some degree the more
 pompous exhibitions of the larger theatres. <span
-id="fr_534"></span>[2](#fn_534) Powel, a famous puppet-show man, is
+id="fr_534"></span>[2](#fn_534.md) Powel, a famous puppet-show man, is
 mentioned in one of the early papers of the *Spectator*, <span
-id="fr_535"></span>[3](#fn_535) and his performances are humorously
+id="fr_535"></span>[3](#fn_535.md) and his performances are humorously
 contrasted with those of the Opera House. At the same time there was
 another motion-master, who also appears to have been of some celebrity,
 named Crawley; I have before me two bills of his exhibition, one for
 Bartholomew Fair, and the other for Southwark Fair. These are preserved
 in a miscellaneous collection of advertisements and title-pages among
-the Harleian MSS. <span id="fr_536"></span>[4](#fn_536) The first of
+the Harleian MSS. <span id="fr_536"></span>[4](#fn_536.md) The first of
 these bills runs thus: "At Crawley's Booth, over against the Crown
 Tavern in Smithfield, during the time of Bartholomew Fair, will be
 presented a little opera, called the Old Creation of the World, yet
@@ -815,7 +815,7 @@ performed by a Child of eight years of age." In the second bill, we find
 the addition of "the Ball of little Dogs"; it is also added, that these
 celebrated performers had danced before the queen (Anne) and most of the
 quality of England, and amazed everybody. <span
-id="fr_537"></span>[1](#fn_537)
+id="fr_537"></span>[1](#fn_537.md)
 
 GIANTS AND OTHER PUPPET CHARACTERS.--The subjects of the puppet-dramas
 were formerly taken from some well-known and popular stories, with the
@@ -836,7 +836,7 @@ In the reign of James II. there was a noted merry-andrew named Philips.
 which capacity he held many a dialogue with Punch, in much the same
 strain as he did after-wards with the mountebank doctor, his master upon
 the stage. This zany, being regularly educated, had confessedly the
-advantage of his brethren." <span id="fr_538"></span>[2](#fn_538)
+advantage of his brethren." <span id="fr_538"></span>[2](#fn_538.md)
 
 PUPPET-PLAYS SUPERSEDED BY PANTOMIMES.--The introduction, or rather the
 revival of pantomimes, which indeed have long disgraced the superior
@@ -864,7 +864,7 @@ when comic operas, harlequinades, and other pieces were represented by
 puppets. It was a fashionable entertainment, for the tickets were 5s.
 and 2s. 6d. "The room," say the advertisements, "is neatly fitted up,
 kept warm, and will be illuminated with wax." <span
-id="fr_539"></span>[1](#fn_539)
+id="fr_539"></span>[1](#fn_539.md)
 
 In the present day (1801) the puppet-show man travels about the streets
 when the weather will permit, and carries his motions, with the theatre
@@ -920,10 +920,10 @@ descended and ascended with a slow motion to the sound of music.
 
 ### Footnotes
 
-<span id="fn_505"></span>[130:1](spe12.htm#fr_505) Fitzstephen's
+<span id="fn_505"></span>[130:1](spe12.htm#fr_505.md) Fitzstephen's
 *Description of London*.
 
-<span id="fn_506"></span>[130:2](spe12.htm#fr_506) \* Dr A. W. Ward, in
+<span id="fn_506"></span>[130:2](spe12.htm#fr_506.md) \* Dr A. W. Ward, in
 his *English Dramatic Literature* (1899), vol. i. chap. i, has pointed
 out how the dramatic illustration of the liturgy of the Church, such as
 the Office of the Shepherds after the *Te Deum* on Christmas Day, or the
@@ -933,12 +933,12 @@ mystery plays.
 See, too, the opening chapter of *The English Religious Drama*, by K. L.
 Bates, 1893.
 
-<span id="fn_507"></span>[131:1](spe12.htm#fr_507) Stow's *Survey of
+<span id="fn_507"></span>[131:1](spe12.htm#fr_507.md) Stow's *Survey of
 London*, p. 76.
 
-<span id="fn_508"></span>[132:1](spe12.htm#fr_508) *Vesp. D.* viii.
+<span id="fn_508"></span>[132:1](spe12.htm#fr_508.md) *Vesp. D.* viii.
 
-<span id="fn_509"></span>[132:2](spe12.htm#fr_509) \* It is thought best
+<span id="fn_509"></span>[132:2](spe12.htm#fr_509.md) \* It is thought best
 to leave Strutt's brief account of the Coventry Play and his subsequent
 reference to the two plays of St Paul and St Mary Magdalene just as they
 were issued in 1801. To attempt to deal with this great subject in a
@@ -952,9 +952,9 @@ cycles of plays of Chester, Coventry, Woodkirk, and York are extant, and
 many have been separately edited. There is a good bibliography at the
 end of Miss Bates's book.
 
-<span id="fn_510"></span>[133:1](spe12.htm#fr_510) Digby, 113.
+<span id="fn_510"></span>[133:1](spe12.htm#fr_510.md) Digby, 113.
 
-<span id="fn_511"></span>[133:2](spe12.htm#fr_511) "Dr Ward, in his
+<span id="fn_511"></span>[133:2](spe12.htm#fr_511.md) "Dr Ward, in his
 discussion of the literary features of these mystery plays (*English
 Dramatic Literature*, vol. i. PP. 63, 64), has some admirable remarks on
 the homeliness and vigour of their style, from which the following
@@ -966,89 +966,89 @@ irreverence towards its holy theme, any more than a grotesque head
 disfigured the columns in a church of which it diversified the
 ornamentation,"
 
-<span id="fn_512"></span>[134:1](spe12.htm#fr_512) See Wright's *Introd.
+<span id="fn_512"></span>[134:1](spe12.htm#fr_512.md) See Wright's *Introd.
 to Chester Plays*, xix. xx.
 
-<span id="fn_513"></span>[134:2](spe12.htm#fr_513) *Survey of Cornwall*,
+<span id="fn_513"></span>[134:2](spe12.htm#fr_513.md) *Survey of Cornwall*,
 Lond. 1602, p. 71.
 
-<span id="fn_514"></span>[134:3](spe12.htm#fr_514) \* Three of these
+<span id="fn_514"></span>[134:3](spe12.htm#fr_514.md) \* Three of these
 Cornish miracle plays, in the native Cymric dialect, were edited and
 translated by Mr Edward Norris, in two volumes, in 1859, under the
 title, *The Ancient Cornish Drama*. He considers their date to be
 fifteenth century, but the language used shows their origin to belong to
 a period earlier than the fourteenth.
 
-<span id="fn_515"></span>[136:1](spe12.htm#fr_515) *Vitæ Abbatum*, p. 6.
+<span id="fn_515"></span>[136:1](spe12.htm#fr_515.md) *Vitæ Abbatum*, p. 6.
 
-<span id="fn_516"></span>[137:1](spe12.htm#fr_516) Prologue to the
+<span id="fn_516"></span>[137:1](spe12.htm#fr_516.md) Prologue to the
 Monk's Tale, which consists of seventeen short stories or tragedies, of
 which, he tells us, he had an hundred in his cell.
 
-<span id="fn_517"></span>[137:2](spe12.htm#fr_517) There were two
+<span id="fn_517"></span>[137:2](spe12.htm#fr_517.md) There were two
 copies, Nos. 536 and 941.
 
-<span id="fn_518"></span>[137:3](spe12.htm#fr_518) Collier's *Hist. of
+<span id="fn_518"></span>[137:3](spe12.htm#fr_518.md) Collier's *Hist. of
 Dramatic Poetry*, i. 34-37.
 
-<span id="fn_519"></span>[137:4](spe12.htm#fr_519) Collier's *Hist. of
+<span id="fn_519"></span>[137:4](spe12.htm#fr_519.md) Collier's *Hist. of
 Dramatic Poetry*, i. 43.64.
 
-<span id="fn_520"></span>[139:1](spe12.htm#fr_520) Wardrobe Roll of
+<span id="fn_520"></span>[139:1](spe12.htm#fr_520.md) Wardrobe Roll of
 Edward III.
 
-<span id="fn_521"></span>[139:2](spe12.htm#fr_521) Warton's *Hist. Eng.
+<span id="fn_521"></span>[139:2](spe12.htm#fr_521.md) Warton's *Hist. Eng.
 Poet.* vol. i. p. 238.
 
-<span id="fn_522"></span>[139:3](spe12.htm#fr_522) Warton, vol. iii. p.
+<span id="fn_522"></span>[139:3](spe12.htm#fr_522.md) Warton, vol. iii. p.
 156. See also Henry's *Hist. Brit.* vol. vi. book vi. chap. 7.
 
-<span id="fn_523"></span>[139:4](spe12.htm#fr_523) No. 264. This MS. was
+<span id="fn_523"></span>[139:4](spe12.htm#fr_523.md) No. 264. This MS. was
 completed in the year 1343.
 
-<span id="fn_524"></span>[139:5](spe12.htm#fr_524) Harl. MS. 69, p. 31.
+<span id="fn_524"></span>[139:5](spe12.htm#fr_524.md) Harl. MS. 69, p. 31.
 
-<span id="fn_525"></span>[140:1](spe12.htm#fr_525) Pine-apple.
+<span id="fn_525"></span>[140:1](spe12.htm#fr_525.md) Pine-apple.
 
-<span id="fn_526"></span>[140:2](spe12.htm#fr_526) A rose tree.
+<span id="fn_526"></span>[140:2](spe12.htm#fr_526.md) A rose tree.
 
-<span id="fn_527"></span>[140:3](spe12.htm#fr_527) Head-dress.
+<span id="fn_527"></span>[140:3](spe12.htm#fr_527.md) Head-dress.
 
-<span id="fn_528"></span>[140:4](spe12.htm#fr_528) Pleasaunce was a fine
+<span id="fn_528"></span>[140:4](spe12.htm#fr_528.md) Pleasaunce was a fine
 thin species of gauze, which was striped with gold.
 
-<span id="fn_529"></span>[140:5](spe12.htm#fr_529) Hall, *ut sup.* fol.
+<span id="fn_529"></span>[140:5](spe12.htm#fr_529.md) Hall, *ut sup.* fol.
 59.
 
-<span id="fn_530"></span>[140:6](spe12.htm#fr_530) Laneham's account of
+<span id="fn_530"></span>[140:6](spe12.htm#fr_530.md) Laneham's account of
 the sports at Kenilworth Castle, in Nichols' *Progresses of Queen
 Elizabeth*, vol. i. p. 22.
 
-<span id="fn_531"></span>[141:1](spe12.htm#fr_531) Laneham, *ut supra*,
+<span id="fn_531"></span>[141:1](spe12.htm#fr_531.md) Laneham, *ut supra*,
 p. 24.
 
-<span id="fn_532"></span>[141:2](spe12.htm#fr_532) See papers of Rev. Dr
+<span id="fn_532"></span>[141:2](spe12.htm#fr_532.md) See papers of Rev. Dr
 Cox in *Ancestor*, Nos. 2 and 3, 1902.
 
-<span id="fn_533"></span>[144:1](spe12.htm#fr_533) In vol. xxv. of the
+<span id="fn_533"></span>[144:1](spe12.htm#fr_533.md) In vol. xxv. of the
 *Journal of Brit. Arch. Assoc.* there is an article on this subject.
 
-<span id="fn_534"></span>[144:2](spe12.htm#fr_534) See the Introduction.
+<span id="fn_534"></span>[144:2](spe12.htm#fr_534.md) See the Introduction.
 
-<span id="fn_535"></span>[144:3](spe12.htm#fr_535) No. xiv. vol. i.
+<span id="fn_535"></span>[144:3](spe12.htm#fr_535.md) No. xiv. vol. i.
 first published in 1711.
 
-<span id="fn_536"></span>[144:4](spe12.htm#fr_536) No. 5931.
+<span id="fn_536"></span>[144:4](spe12.htm#fr_536.md) No. 5931.
 
-<span id="fn_537"></span>[145:1](spe12.htm#fr_537) \* See H. Morley's
+<span id="fn_537"></span>[145:1](spe12.htm#fr_537.md) \* See H. Morley's
 *Memoirs of Bartholomew's Fair*, first issued in 1859.
 
-<span id="fn_538"></span>[145:2](spe12.htm#fr_538) *Biogr. Hist.* vol.
+<span id="fn_538"></span>[145:2](spe12.htm#fr_538.md) *Biogr. Hist.* vol.
 iv. p. 350.
 
-<span id="fn_539"></span>[146:1](spe12.htm#fr_539) *Notes and Queries*,
+<span id="fn_539"></span>[146:1](spe12.htm#fr_539.md) *Notes and Queries*,
 Ser. III. v. 52.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](spe13)
+[Next: Chapter III](spe13.md)

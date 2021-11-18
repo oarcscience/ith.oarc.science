@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal150)  [Next](njal152) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal150)  [Next](njal152.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ them.
 
 ------------------------------------------------------------------------
 
-[Next: 152. Flosi Goes Abroad](njal152)
+[Next: 152. Flosi Goes Abroad](njal152.md)

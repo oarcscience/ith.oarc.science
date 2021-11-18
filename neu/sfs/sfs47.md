@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs46)  [Next](sfs48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs46)  [Next](sfs48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -49,16 +49,16 @@ The Bulgarian tales themselves are curious, and some of them very
 beautiful, as are also the songs, to which considerable space is devoted
 by Mr. Morfill in his 'Slavonic Literature' (pp. 125-144). There are old
 traditions as to the world and its inhabitants, apparently of heathen
-origin ([No. 35](sfs48.htm#an_35)) a singular fusion of the history of
+origin ([No. 35](sfs48.htm#an_35).md) a singular fusion of the history of
 Abraham and Isaac with some other, probably heathen, tradition ([No.
-36](sfs49.htm#an_36)); a version of 'Cinderella' ([No.
-37](sfs50.htm#an_37)), which, involving as it does the transmigration of
+36](sfs49.htm#an_36).md); a version of 'Cinderella' ([No.
+37](sfs50.htm#an_37).md), which, involving as it does the transmigration of
 souls, clearly exhibits an Indian origin; a beautiful story ([No.
-38](sfs51.htm#an_38)), the latter part of which is a variant of the
+38](sfs51.htm#an_38).md), the latter part of which is a variant of the
 latter part of the Russian tale of 'Marya Morevna' (Ralston, p. 85), and
-[No. 39](sfs52.htm#an_39), in the latter part of which many people will
+[No. 39](sfs52.htm#an_39.md), in the latter part of which many people will
 recognise a variant of an old acquaintance.
 
 ------------------------------------------------------------------------
 
-[Next: XXXV. The Lord God as an Old Man](sfs48)
+[Next: XXXV. The Lord God as an Old Man](sfs48.md)

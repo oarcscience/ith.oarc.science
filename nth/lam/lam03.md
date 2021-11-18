@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam02)  [Next](lam04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam02)  [Next](lam04.md) 
 
 ------------------------------------------------------------------------
 
@@ -232,4 +232,4 @@ many times in spirit that it may attain perfection.
 
 ------------------------------------------------------------------------
 
-[Next: II. Mind](lam04)
+[Next: II. Mind](lam04.md)

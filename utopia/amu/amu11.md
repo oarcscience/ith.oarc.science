@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](amu10)  [Next](amu12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](amu10)  [Next](amu12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -312,4 +312,4 @@ accidents, its accidents above all, and ourselves, are one.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Nine](amu12)
+[Next: Chapter Nine](amu12.md)

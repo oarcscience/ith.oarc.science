@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Miscellaneous](../../index)  [Christmas](../index)  [Index](index) 
-[Previous](acc02)  [Next](acc04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Miscellaneous](../../index)  [Christmas](../index)  [Index](index.md) 
+[Previous](acc02)  [Next](acc04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -315,7 +315,7 @@ or body to the multitude," returned the gentleman, "a few of us are
 endeavouring to raise a fund to buy the Poor some meat and drink, and
 means of warmth. We choose this time, because it is a time, of all
 others, when Want is keenly felt, and Abundance rejoices. What shall I
-put you down for?[”](errata.htm#0)
+put you down for?[”](errata.htm#0.md)
 
 "Nothing!" Scrooge replied.
 
@@ -569,7 +569,7 @@ The cellar-door flew open with a booming sound,
 
 <span id="img_02500"></span> <span align="CENTER"> [![Marley's
 Ghost](tn/02500.jpg)  
-Click to enlarge](img/02500.jpg)  
+Click to enlarge](img/02500.jpg.md)  
 Marley's Ghost  
 </span>
 
@@ -887,7 +887,7 @@ was, clearly, that they sought to interfere, for good, in human matters,
 and had lost the power for ever.
 
 <span id="img_03700"></span> <span align="CENTER"> [![](tn/03700.jpg)  
-Click to enlarge](img/03700.jpg)</span>
+Click to enlarge](img/03700.jpg.md)</span>
 
 <span id="page_38">p. 38</span>
 
@@ -906,4 +906,4 @@ the instant.
 
 ------------------------------------------------------------------------
 
-[Next: Stave Two. The First of the Three Spirits](acc04)
+[Next: Stave Two. The First of the Three Spirits](acc04.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat05)  [Next](sat07) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat05)  [Next](sat07.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ troubles, we proceed to make a careful toilette, and bid Giton, who had
 always hitherto been very ready to act as servant, to attend us at the
 bath.
 
-\[XXVII <span id="XXVII"></span>[(Latin)](../satyrlat/satl027) \]
+\[XXVII <span id="XXVII"></span>[(Latin)](../satyrlat/satl027.md) \]
 Meantime in our gala dresses, we began to stroll about, or rather to
 amuse ourselves by approaching the different groups of ball-players.
 Amongst these we all of a sudden catch sight of a bald-headed old man in
@@ -47,7 +47,7 @@ the eunuch held out the chamber-pot for him, without his ever stopping
 play. After easing his bladder, he called for water, and having dipped
 his hands momentarily in the bowl, dried them on one of the lads' hair.
 
-\[XXVIII <span id="XXVIII"></span>[(Latin)](../satyrlat/satl028) \]
+\[XXVIII <span id="XXVIII"></span>[(Latin)](../satyrlat/satl028.md) \]
 There was no time to notice every detail; so we entered the bath, and
 after stewing in the sweating-room, passed instantly into the cold
 chamber. Trimalchio, after being drenched with unguent, was being rubbed
@@ -77,7 +77,7 @@ cherry-colored sash, busy picking peas in a silver dish. Over the
 threshold hung a gold cage with a black and white magpie in it, which
 greeted visitors on their entrance.
 
-\[XXIX <span id="XXIX"></span>[(Latin)](../satyrlat/satl029) \] But as I
+\[XXIX <span id="XXIX"></span>[(Latin)](../satyrlat/satl029.md) \] But as I
 was staring open-eyed at all these fine sights, I came near tumbling
 backwards and breaking my legs. For to the left hand as you entered, and
 not far from the porter's lodge, a huge chained dog was depicted on the
@@ -103,7 +103,7 @@ the subjects of the frescoes in the atrium itself? "The Iliad and
 Odyssey," he replied, "and on your left the combat of gladiators given
 under Laenas."
 
-\[XXX <span id="XXX"></span>[(Latin)](../satyrlat/satl030) \] We had no
+\[XXX <span id="XXX"></span>[(Latin)](../satyrlat/satl030.md) \] We had no
 opportunity of examining the numerous paintings more minutely, having by
 this time reached the banquet-hall, at the outer door of which the
 house-steward sat receiving accounts. But the thing that surprised me
@@ -143,7 +143,7 @@ He has lost my dinner robes, which a client gave me on my
 birthday,--genuine Tyrian purple, I assure you, though only once dipped.
 But there! I will pardon the delinquent at your request."
 
-\[XXXI <span id="XXXI"></span>[(Latin)](../satyrlat/satl031) \] Deeply
+\[XXXI <span id="XXXI"></span>[(Latin)](../satyrlat/satl031.md) \] Deeply
 grateful for so signal a favor, we now returned to the banquet-hall,
 where we were met by the same slave for whom we had interceded, who to
 our astonishment overwhelmed us with a perfect storm of kisses, thanking
@@ -173,7 +173,7 @@ form of miniature bridges were dormice seasoned with honey and
 poppy-seed. There were sausages, too, smoking hot on a silver grill, and
 underneath (to imitate coals) Syrian plums and pomegranate seeds.
 
-\[XXXII <span id="XXXII"></span>[(Latin)](../satyrlat/satl032) \] We
+\[XXXII <span id="XXXII"></span>[(Latin)](../satyrlat/satl032.md) \] We
 were in the middle of these elegant trifles when Trimalchio himself was
 carried in to the sound of music, and was bolstered up among a host of
 tiny cushions, a sight that set one or two indiscreet guests laughing.
@@ -187,7 +187,7 @@ ornaments of steel. Nay! to show this was not the whole of his
 magnificence, his left arm was bare, and displayed a gold bracelet and
 an ivory circlet with a sparkling clasp to put it on.
 
-\[XXIII <span id="XXIII"></span>[(Latin)](../satyrlat/satl023) \] After
+\[XXIII <span id="XXIII"></span>[(Latin)](../satyrlat/satl023.md) \] After
 picking his teeth with a silver toothpick, "My friends," he began, "I
 was far from desirous of coming to table just yet, but that I might not
 keep you waiting by my own absence, I have sadly interfered with my own
@@ -212,7 +212,7 @@ inside. But when I overheard a veteran guest saying, "There should be
 something good here!" I further investigated the shell, and found a very
 fine fat beccafico swimming in yolk of egg flavored with pepper.
 
-\[XXXIV <span id="XXXIV"></span>[(Latin)](../satyrlat/satl034) \]
+\[XXXIV <span id="XXXIV"></span>[(Latin)](../satyrlat/satl034.md) \]
 Trimalchio had by this time stopped his game and been helped to all the
 dishes before us. He had just announced in a loud voice that any of us
 who wanted a second supply of honeyed wine had only to ask for it, when
@@ -259,4 +259,4 @@ What this is now, we all shall be;
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Six](sat07)
+[Next: Chapter Six](sat07.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb51)  [Next](wfb53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb51)  [Next](wfb53.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ from Ireland that night.
 
 ------------------------------------------------------------------------
 
-[Next: The Man with the Green Weeds](wfb53)
+[Next: The Man with the Green Weeds](wfb53.md)

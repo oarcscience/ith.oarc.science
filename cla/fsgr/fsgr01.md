@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](fsgr00)  [Next](fsgr02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](fsgr00)  [Next](fsgr02.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Five Stages of Greek Religion*, by Gilbert Murray, \[1925\], at
 Intangible Textual Heritage
 
@@ -150,6 +150,6 @@ G. M.
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the Second Edition](fsgr02)
+[Next: Preface to the Second Edition](fsgr02.md)
 
 </div>

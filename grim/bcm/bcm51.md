@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm50)  [Next](bcm52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm50)  [Next](bcm52.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,7 +77,7 @@ solar race, who are wiser,
 <span id="page_186">p. 186</span>
 
 better and more friendly than the rest. <span
-id="fr_159"></span>[1](#fn_158) The character must be worn upon the
+id="fr_159"></span>[1](#fn_158.md) The character must be worn upon the
 person; in the case of a male, it should be placed in the right pocket,
 but a female must carry it between the breasts, towards the left side,
 like a reliquary. It should be graven or written on the day and in the
@@ -100,7 +100,7 @@ that this kind of Magic is presumably post-Columbian.
 The *Grand Grimoire* does not distribute the six subordinate spirits
 among three rulers, but enumerates them somewhat differently, together
 with their dignities, as follows: <span
-id="fr_160"></span>[2](#fn_159)--
+id="fr_160"></span>[2](#fn_159.md)--
 
 <span id="page_187">p. 187</span>
 
@@ -121,26 +121,26 @@ represented in the light of a standing army, yet their interference in
 earthly matters is not of a military kind. LUCIFUGE ROFOCALE has the
 control, with which Lucifer has invested him, over all the wealth and
 treasures of the world. His subordinates are *Baal*, <span
-id="fr_161"></span>[1](#fn_160) *Agares* <span
-id="fr_162"></span>[2](#fn_161) and Marbas. <span
-id="fr_163"></span>[3](#fn_162) The grand SATANACHIA has the power of
+id="fr_161"></span>[1](#fn_160.md) *Agares* <span
+id="fr_162"></span>[2](#fn_161.md) and Marbas. <span
+id="fr_163"></span>[3](#fn_162.md) The grand SATANACHIA has the power of
 subjecting all wives and maidens to his wishes, and of doing with them
 as he wills. His subordinates are *Pruslas*, *Aamon* <span
-id="fr_164"></span>[4](#fn_163) and *Barbatos*. <span
-id="fr_165"></span>[5](#fn_164) AGALIAREPT has the faculty of
+id="fr_164"></span>[4](#fn_163.md) and *Barbatos*. <span
+id="fr_165"></span>[5](#fn_164.md) AGALIAREPT has the faculty of
 discovering arcane secrets in all the courts and council-chambers of the
 world; he also unveils the most sublime mysteries. He commands the
 Second Legion of Spirits, and his subordinates are *Buer*, <span
-id="fr_166"></span>[6](#fn_165) *Gusoyn* <span
-id="fr_167"></span>[7](#fn_166) and *Botis*. <span
-id="fr_168"></span>[8](#fn_167) FLEURETY has the power to perform any
+id="fr_166"></span>[6](#fn_165.md) *Gusoyn* <span
+id="fr_167"></span>[7](#fn_166.md) and *Botis*. <span
+id="fr_168"></span>[8](#fn_167.md) FLEURETY has the power to perform any
 labour during the night and to cause hailstones
 
 <span id="page_188">p. 188</span>
 
 in any required place. He controls a prodigious army of spirits, and has
-*Bathsin* <span id="fr_169"></span>[1](#fn_168) (or *Bathim*), *Pursan*
-and *Eligor* <span id="fr_170"></span>[2](#fn_169) as his subordinates.
+*Bathsin* <span id="fr_169"></span>[1](#fn_168) (or *Bathim*.md), *Pursan*
+and *Eligor* <span id="fr_170"></span>[2](#fn_169.md) as his subordinates.
 SARGATANAS has the power to make any person invisible, to transport him
 anywhere, to open all locks, to reveal whatsoever is taking place in
 private houses, to teach all the arts of the shepherds. He commands
@@ -165,7 +165,7 @@ six great leaders mentioned above, but there is little unanimity among
 makers of magical rituals, whether white or black.
 
 <span id="img_18800"></span> [![](tn/generic.jpg)  
-Click to view](img/18800.jpg)  
+Click to view](img/18800.jpg.md)  
 CHARACTER OF CLAUNECK
 
 CLAUNECK has power over goods and riches; he can discover hidden
@@ -178,14 +178,14 @@ loved by Lucifer. He brings money from a distance. Obey him, and he will
 obey thee.
 
 <span id="img_18900"></span> [![](tn/generic.jpg)  
-Click to view](img/18900.jpg)  
+Click to view](img/18900.jpg.md)  
 CHARACTER OF MUSISIN
 
 MUSISIN has power over great lords; he instructs them in all that passes
 in the Republics and the realms of the Allies.
 
 <span id="img_18901"></span> [![](tn/generic.jpg)  
-Click to view](img/18901.jpg)  
+Click to view](img/18901.jpg.md)  
 CHARACTER OF BECHARD
 
 BECHARD has power over winds and tempests, over lightning, hail and
@@ -193,20 +193,20 @@ rain, by means of a charm with toads and other things of this nature,
 &c.
 
 <span id="img_18902"></span> [![](tn/generic.jpg)  
-Click to view](img/18902.jpg)  
+Click to view](img/18902.jpg.md)  
 CHARACTER OF FRIMOST
 
 FRIMOST has power over wives and maids, and will help thee to enjoy
 them.
 
 <span id="img_18903"></span> [![](tn/generic.jpg)  
-Click to view](img/18903.jpg)  
+Click to view](img/18903.jpg.md)  
 CHARACTER OF KHIL
 
 KHIL occasions great earthquakes.
 
 <span id="img_18904"></span> [![](tn/generic.jpg)  
-Click to view](img/18904.jpg)  
+Click to view](img/18904.jpg.md)  
 CHARACTER OF MERSILDE
 
 MERSILDE can transport thee instantaneously wheresoever may be desired.
@@ -214,33 +214,33 @@ MERSILDE can transport thee instantaneously wheresoever may be desired.
 <span id="page_190">p. 190</span>
 
 <span id="img_19000"></span> [![](tn/generic.jpg)  
-Click to view](img/19000.jpg)  
+Click to view](img/19000.jpg.md)  
 CHARACTER OF CLISTHERET
 
 CLISTHERET makes day or night about thee at pleasure.
 
 <span id="img_19001"></span> [![](tn/generic.jpg)  
-Click to view](img/19001.jpg)  
+Click to view](img/19001.jpg.md)  
 CHARACTER OF SIRCHADE
 
 SIRCHADE has power to shew thee all kinds of animals, of whatsoever
 nature they may be.
 
 <span id="img_19002"></span> [![](tn/generic.jpg)  
-Click to view](img/19002.jpg)  
+Click to view](img/19002.jpg.md)  
 CHARACTER OF SEGAL
 
 SEGAL causes all manner of prodigies visibly, both natural and
 supernatural.
 
 <span id="img_19003"></span> [![](tn/generic.jpg)  
-Click to view](img/19003.jpg)  
+Click to view](img/19003.jpg.md)  
 CHARACTER OF HIEPACTH
 
 HIEPACTH will bring thee a distant person in an instant.
 
 <span id="img_19004"></span> [![](tn/generic.jpg)  
-Click to view](img/19004.jpg)  
+Click to view](img/19004.jpg.md)  
 CHARACTER OF HUMOTS
 
 HUMOTS can transport all manner of books for thy pleasure.
@@ -248,25 +248,25 @@ HUMOTS can transport all manner of books for thy pleasure.
 <span id="page_191">p. 191</span>
 
 <span id="img_19100"></span> [![](tn/generic.jpg)  
-Click to view](img/19100.jpg)  
+Click to view](img/19100.jpg.md)  
 CHARACTER OF FRUCISSIERE
 
 FRUCISSIERE brings the dead to life.
 
 <span id="img_19101"></span> [![](tn/generic.jpg)  
-Click to view](img/19101.jpg)  
+Click to view](img/19101.jpg.md)  
 CHARACTER OF GULAND
 
 GULAND can cause all varieties of disease.
 
 <span id="img_19102"></span> [![](tn/generic.jpg)  
-Click to view](img/19102.jpg)  
+Click to view](img/19102.jpg.md)  
 CHARACTER OF SURGAT
 
 SURGAT opens all locks.
 
 <span id="img_19103"></span> [![](tn/generic.jpg)  
-Click to view](img/19103.jpg)  
+Click to view](img/19103.jpg.md)  
 CHARACTER OF MORAIL
 
 MORAIL has the power to make everything in the world invisible.
@@ -274,13 +274,13 @@ MORAIL has the power to make everything in the world invisible.
 <span id="page_192">p. 192</span>
 
 <span id="img_19200"></span> [![](tn/generic.jpg)  
-Click to view](img/19200.jpg)  
+Click to view](img/19200.jpg.md)  
 CHARACTER OF FRUTIMIERE
 
 FRUTIMIERE dights thee all kinds of festivals.
 
 <span id="img_19201"></span> [![](tn/generic.jpg)  
-Click to view](img/19201.jpg)  
+Click to view](img/19201.jpg.md)  
 CHARACTER OF HUICTIIGARA
 
 HUICTIIGARA occasions sleep and waking in some, and afflicts others with
@@ -329,12 +329,12 @@ between the two sexes.
 
 ### Footnotes
 
-<span id="fn_158"></span>[186:1](bcm51.htm#fr_159) The attribution is
+<span id="fn_158"></span>[186:1](bcm51.htm#fr_159.md) The attribution is
 somewhat confused; the ruby is a solar stone, but Albertus Parvus
 attributes the emerald to the Moon, which would establish its connection
 with evocation.
 
-<span id="fn_159"></span>[186:2](bcm51.htm#fr_160) The Hierarchy
+<span id="fn_159"></span>[186:2](bcm51.htm#fr_160.md) The Hierarchy
 according to Wierus is at variance with both the Rituals, and may be
 worth quoting on account of its curious details:--
 
@@ -360,37 +360,37 @@ Pantler. *Mullin*, First Gentleman of the Bedchamber. MASTERS OF THE
 REVELS.--*Kobal*, Stage Manager. *Asmodeus*, Superintendent of Casinos.
 *Nybbas*, Chief Mimic. *Antichrist*, juggler and Mimic.
 
-<span id="fn_160"></span>[187:1](bcm51.htm#fr_161) Baal is the first
+<span id="fn_160"></span>[187:1](bcm51.htm#fr_161.md) Baal is the first
 Spirit of the *Lemegeton*, and a King ruling in the East.
 
-<span id="fn_161"></span>[187:2](bcm51.htm#fr_162) The second Spirit of
+<span id="fn_161"></span>[187:2](bcm51.htm#fr_162.md) The second Spirit of
 the *Lemegeton*.
 
-<span id="fn_162"></span>[187:3](bcm51.htm#fr_163) The fifth Spirit of
+<span id="fn_162"></span>[187:3](bcm51.htm#fr_163.md) The fifth Spirit of
 the *Lemegeton*.
 
-<span id="fn_163"></span>[187:4](bcm51.htm#fr_164) Possibly *Paimon*,
+<span id="fn_163"></span>[187:4](bcm51.htm#fr_164.md) Possibly *Paimon*,
 ninth Spirit of the *Lemegeton*.
 
-<span id="fn_164"></span>[187:5](bcm51.htm#fr_165) The eighth Spirit of
+<span id="fn_164"></span>[187:5](bcm51.htm#fr_165.md) The eighth Spirit of
 the *Lemegeton*.
 
-<span id="fn_165"></span>[187:6](bcm51.htm#fr_166) The tenth Spirit of
+<span id="fn_165"></span>[187:6](bcm51.htm#fr_166.md) The tenth Spirit of
 the *Lemegeton*.
 
-<span id="fn_166"></span>[187:7](bcm51.htm#fr_167) Eleventh Spirit of
+<span id="fn_166"></span>[187:7](bcm51.htm#fr_167.md) Eleventh Spirit of
 the *Lemegeton*.
 
-<span id="fn_167"></span>[187:8](bcm51.htm#fr_168) The seventeenth
+<span id="fn_167"></span>[187:8](bcm51.htm#fr_168.md) The seventeenth
 Spirit of the *Lemegeton*.
 
-<span id="fn_168"></span>[188:1](bcm51.htm#fr_169) The eighteenth Spirit
+<span id="fn_168"></span>[188:1](bcm51.htm#fr_169.md) The eighteenth Spirit
 of the *Lemegeton*.
 
-<span id="fn_169"></span>[188:2](bcm51.htm#fr_170) The fifteenth Spirit
+<span id="fn_169"></span>[188:2](bcm51.htm#fr_170.md) The fifteenth Spirit
 of the *Lemegeton*.
 
 ------------------------------------------------------------------------
 
 [Next: Section 2: Concerning the Forms of Infernal Spirits in their
-Manifestations](bcm52)
+Manifestations](bcm52.md)

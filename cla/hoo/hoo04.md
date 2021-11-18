@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo03)  [Next](hoo05) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo03)  [Next](hoo05.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,11 +11,11 @@ BUT it is now time to speak of the following Hymns, of which, as we have
 before observed, Onomacritus is the reputed author. And first, with
 regard to the dialect of these Hymns, Gesner well observes it ought to
 be no objection to their antiquity. For though, according to  <span
-id="fr_23"></span>[x](#fn_23) Iamblichus, the Thracian Orpheus, who is
+id="fr_23"></span>[x](#fn_23.md) Iamblichus, the Thracian Orpheus, who is
 more ancient than those noble poets Homer and Hesiod, used the Doric
 dialect; yet the Athenian Onomacritus, who, agreeable to the general
 opinion of antiquity, is the author of all the works now extant,
-ascribed to Orpheus  <span id="fr_24"></span>[y](#fn_24), might
+ascribed to Orpheus  <span id="fr_24"></span>[y](#fn_24.md), might
 
 <span id="page_86">p. 86</span>
 
@@ -36,9 +36,9 @@ of the present works, than the Pelasgic letters, which Orpheus used
 according to Diodorus Siculus.
 
 The hymns of Orpheus are not only mentioned by Plato in his Eighth Book
-of Laws, but also by Pausanias  <span id="fr_25"></span>[a](#fn_25),
+of Laws, but also by Pausanias  <span id="fr_25"></span>[a](#fn_25.md),
 whose words are translated as follows by the author of the Letters on
-Mythology  <span id="fr_26"></span>[b](#fn_26). "The Thracian Orpheus
+Mythology  <span id="fr_26"></span>[b](#fn_26.md). "The Thracian Orpheus
 (says Pausanias) was represented on mount Helicon, with ΤΕΛΕΤΗ
 (initiation or religion) by his side, and the wild beasts of the woods,
 some in marble, some in bronze, standing round him. His hymns are known
@@ -54,7 +54,7 @@ religion has adopted the hymns of Orpheus, and has not done the same
 honour to the hymns of Homer." To the testimony of Pausanias may be
 added that of Suidas, who, among the writings of the Libethrian Orpheus
 mentions τελεται, or initiations, which he says are by some ascribed to
-Onomacritus  <span id="fr_27"></span>[c](#fn_27). And Scaliger well
+Onomacritus  <span id="fr_27"></span>[c](#fn_27.md). And Scaliger well
 observes, in his notes co these hymns, that they ought rather to be
 called initiations, because they contain only invocations of the Gods,
 
@@ -65,10 +65,10 @@ not celebrate the nativities, actions, &c. of the divinities, as it is
 usual in hymns. It is on this account we have entitled them mystical
 initiations, which is doubtless their proper appellations. The author
 too of the Allegories in the Theogony of Hesiod  <span
-id="fr_28"></span>[d](#fn_28), relating the powers of the planets on
+id="fr_28"></span>[d](#fn_28.md), relating the powers of the planets on
 things inferior, expressly mentions these hymns, or rather initiations,
 and many of the compound epithets with which they abound  <span
-id="fr_29"></span>[e](#fn_29). From all which it is evident that the
+id="fr_29"></span>[e](#fn_29.md). From all which it is evident that the
 following Hymns were written by the Athenian Onomacritus, and are the
 same with those so much celebrated by antiquity. Indeed it is not
 probable they Should be the invention of any writer more
@@ -84,7 +84,7 @@ derive all our information concerning the Orphic theology, from the
 writings of the Platonists; not indeed without reason. For this sublime
 theology descended from Orpheus to Pythagoras, and from Pythagoras to
 Plato; as the following testimonies evince. "Timæus (says Proclus)
- <span id="fr_30"></span>[f](#fn_30) being a Pythagorean, follows the
+ <span id="fr_30"></span>[f](#fn_30.md) being a Pythagorean, follows the
 Pythagoric principles, and these are the Orphic traditions; for what
 Orpheus delivered mystically in secret discourses, these Pythagoras
 learned
@@ -95,11 +95,11 @@ when he was initiated by Aglaophemus in the Orphic mysteries." Syrianus
 too makes the Orphic and Pythagoric principles to be one and the same;
 and, according to Suidas, the same Syrianus composed a book, entitled
 the Harmony of Orpheus, Pythagoras and Plato  <span
-id="fr_31"></span>[g](#fn_31). And again Proclus  <span
-id="fr_32"></span>[h](#fn_32): it is Pythagorical to follow the Orphic
+id="fr_31"></span>[g](#fn_31.md). And again Proclus  <span
+id="fr_32"></span>[h](#fn_32.md): it is Pythagorical to follow the Orphic
 genealogies; for from the Orphic tradition downward by Pythagoras, the
 science concerning the Gods was derived to the Greeks." And elsewhere
- <span id="fr_33"></span>[i](#fn_33), "All the theology of the Greeks is
+ <span id="fr_33"></span>[i](#fn_33.md), "All the theology of the Greeks is
 the progeny of the sacred initiations (μυσαγωγιαι) of Orpheus. For
 Pythagoras first learned the orgies of the Gods from Aglaophemus; but
 Plato was the second who received a
@@ -143,12 +143,12 @@ immortal
 Jove. In that to Love πυρίδρομος, or wandering fire, which is likewise
 found in the hymn, to the Sun. In the hymn to Love, that deity is
 celebrated as having the keys of all things  <span
-id="fr_34"></span>[k](#fn_34); viz. of æther, heaven, the deep, the
+id="fr_34"></span>[k](#fn_34.md); viz. of æther, heaven, the deep, the
 earth, &c. And Proteus is invoked as possessing the keys of the deep
- <span id="fr_35"></span>[l](#fn_35). Again, Vesta, in the Orphic hymns,
+ <span id="fr_35"></span>[l](#fn_35.md). Again, Vesta, in the Orphic hymns,
 is the same with the mother of the Gods; and the mother of the Gods is
 celebrated as "always governing rivers and every sea  <span
-id="fr_36"></span>[m](#fn_36); which perfectly agrees with the
+id="fr_36"></span>[m](#fn_36.md); which perfectly agrees with the
 appellations given both to Love and Proteus. Again, among the various
 epithets ascribed to the duad, or number two, are, Phanes, Nature,
 Justice, Rhea,
@@ -174,7 +174,7 @@ divinity. Besides this, he celebrates Venus as governing the three
 Fates; ϗαμπ ηρατέεισ τρισσῶν μοιρῶν. And lastly he says of Love, after
 representing that Deity as invested with the keys of all things thou
 alone rulest the governments of all these  <span
-id="fr_37"></span>[n](#fn_37); which he likewise affirms of Death in the
+id="fr_37"></span>[n](#fn_37.md); which he likewise affirms of Death in the
 same words. And thus much for the duad. The triad, or number three, they
 denominated Juno, Latona, Thetis, Hecate or Diana, Pluto, Tritogenia or
 Minerva, &c. Now Latona and Thetis, are each of them called in these
@@ -240,7 +240,7 @@ this Dissertation, I must beg leave to acquaint the reader with another
 discovery which I have made respecting these hymns, equally curious with
 the former.
 
-Ficinus, on Plato's Theology  <span id="fr_38"></span>[a](#fn_38), has
+Ficinus, on Plato's Theology  <span id="fr_38"></span>[a](#fn_38.md), has
 the following remarkable passage, translated, most likely from some
 manuscript work of Proclus, as I conjecture from its conclusion; for,
 unfortunately, he does not acquaint us with the author. "Those
@@ -251,7 +251,7 @@ who profess, says he, the Orphic theology, consider a two-fold power in
 souls and in the celestial orbs: the one consisting in knowledge, the
 other in vivifying and governing the orb with which that power is
 connected. Thus in the orb of the earth, they call the nostic power
-Pluto, the other Proserpine  <span id="fr_39"></span>[b](#fn_39). In
+Pluto, the other Proserpine  <span id="fr_39"></span>[b](#fn_39.md). In
 water, the former power Ocean, and the latter Thetis. In air, that
 thundering Jove, and this Juno. In fire, that Phanes, and this Aurora.
 In the soul of the lunar sphere, they call the nostic power Licnitan
@@ -300,7 +300,7 @@ expressly called ὐι\# (<span id="img_10400"></span> ![](img/10400.jpg))
 Κρονυ, son of Saturn. And Amphietus is celebrated as moving in concert
 with the circling hours, Ἐυάζων κινῶν τε χορῦσ ἐνὶ κυκλάσιν ὥραις which
 corresponds with Saturn, who is called in these Hymns , or the Sun
- <span id="fr_40"></span>[c](#fn_40). And lastly, Dionysius who is
+ <span id="fr_40"></span>[c](#fn_40.md). And lastly, Dionysius who is
 called
 
 <span id="page_105">p. 105</span>
@@ -312,7 +312,7 @@ an introductory Dissertation. What farther light we have been able to.
 throw on these mysterious remains of antiquity, will appear in our
 following Notes. If the valuable Commentary of Proclus on the Cratylus
 of Plato was once published, I am persuaded we should find them full of
-the most recondite antiquity  <span id="fr_41"></span>[d](#fn_41): but
+the most recondite antiquity  <span id="fr_41"></span>[d](#fn_41.md): but
 as
 
 <span id="page_106">p. 106</span>
@@ -327,10 +327,10 @@ mind, as a small spark in profound darkness is to the corporeal sight.
 
 ### Footnotes
 
-<span id="fn_23"></span>[85:x](hoo04.htm#fr_23) De Vita Pythag. c. 34.
+<span id="fn_23"></span>[85:x](hoo04.htm#fr_23.md) De Vita Pythag. c. 34.
 p. 169. Kuft.
 
-<span id="fn_24"></span>[85:y](hoo04.htm#fr_24) Philoponus observes, in
+<span id="fn_24"></span>[85:y](hoo04.htm#fr_24.md) Philoponus observes, in
 his Commentary on Aristotle's books of the Soul, that Aristotle calls
 <span id="page_86">p. 86</span> the Orphic verses reputed, because they
 appear not to have been written by Orpheus himself, as Aristotle affirms
@@ -338,57 +338,57 @@ in his book concerning philosophy. For the Dogmata contained in them
 were indeed his,, but Onomacritus is reported to have put them into
 verse.
 
-<span id="fn_25"></span>[87:a](hoo04.htm#fr_25) In Boeoticis p. 770
+<span id="fn_25"></span>[87:a](hoo04.htm#fr_25.md) In Boeoticis p. 770
 
-<span id="fn_26"></span>[87:b](hoo04.htm#fr_26) Page 167.
+<span id="fn_26"></span>[87:b](hoo04.htm#fr_26.md) Page 167.
 
-<span id="fn_27"></span>[88:c](hoo04.htm#fr_27) It is remarkable that
+<span id="fn_27"></span>[88:c](hoo04.htm#fr_27.md) It is remarkable that
 Sextus Empiricus more than once mentions Onomacritus in the Orphics.
 Οιομάκρίλ\# (<span id="img_08800"></span> ![](img/08800.jpg)) ἒν τοῖσ
 Ορφικοῖσ.
 
-<span id="fn_28"></span>[89:d](hoo04.htm#fr_28) Page 267.
+<span id="fn_28"></span>[89:d](hoo04.htm#fr_28.md) Page 267.
 
-<span id="fn_29"></span>[89:e](hoo04.htm#fr_29) Vide Fabric. Bib. p.
+<span id="fn_29"></span>[89:e](hoo04.htm#fr_29.md) Vide Fabric. Bib. p.
 124.
 
-<span id="fn_30"></span>[90:f](hoo04.htm#fr_30) In Timæum p. 291.
+<span id="fn_30"></span>[90:f](hoo04.htm#fr_30.md) In Timæum p. 291.
 
-<span id="fn_31"></span>[91:g](hoo04.htm#fr_31) Συμφωνία Ορφέωσ,
+<span id="fn_31"></span>[91:g](hoo04.htm#fr_31.md) Συμφωνία Ορφέωσ,
 Πυθαγορυ, καὶ πλατονοσ.
 
-<span id="fn_32"></span>[91:h](hoo04.htm#fr_32) In Tim. p. 289.
+<span id="fn_32"></span>[91:h](hoo04.htm#fr_32.md) In Tim. p. 289.
 
-<span id="fn_33"></span>[91:i](hoo04.htm#fr_33) In Theol. Plat. p 13.
+<span id="fn_33"></span>[91:i](hoo04.htm#fr_33.md) In Theol. Plat. p 13.
 
-<span id="fn_34"></span>[94:k](hoo04.htm#fr_34)
+<span id="fn_34"></span>[94:k](hoo04.htm#fr_34.md)
 
 πάντων κληΐδα ἒχοντας,  
 Αιθέρ\# (<span id="img_09400"></span> ![](img/09400.jpg)),ερανισ, κ.λ.
 
-<span id="fn_35"></span>[94:l](hoo04.htm#fr_35) πόντυ κληΐδασ ἒχοντα.
+<span id="fn_35"></span>[94:l](hoo04.htm#fr_35.md) πόντυ κληΐδασ ἒχοντα.
 
-<span id="fn_36"></span>[94:m](hoo04.htm#fr_36) Σοὶ ποτκμοὶ κροσοται ἀεὶ
+<span id="fn_36"></span>[94:m](hoo04.htm#fr_36.md) Σοὶ ποτκμοὶ κροσοται ἀεὶ
 κ πᾶσα ϑάλασσα.
 
-<span id="fn_37"></span>[96:n](hoo04.htm#fr_37) In the hymn to Love
+<span id="fn_37"></span>[96:n](hoo04.htm#fr_37.md) In the hymn to Love
 Μῦν\# (<span id="img_09601"></span> ![](img/09601.jpg)) γὰρ τύτων πάνων
 οἲηκα κρατύνεις. And in that to Death οἴ πάντων ϑητῶν οἴηκα κρατύνωεις.
 
-<span id="fn_38"></span>[100:a](hoo04.htm#fr_38) Lib. iv. p, 128.
+<span id="fn_38"></span>[100:a](hoo04.htm#fr_38.md) Lib. iv. p, 128.
 
-<span id="fn_39"></span>[101:b](hoo04.htm#fr_39) The reader may observe
+<span id="fn_39"></span>[101:b](hoo04.htm#fr_39.md) The reader may observe
 that this two-fold power is divided into male and female; the reason of
 which distribution we have already assigned from Proclus.
 
-<span id="fn_40"></span>[104:c](hoo04.htm#fr_40) I have omitted a
+<span id="fn_40"></span>[104:c](hoo04.htm#fr_40.md) I have omitted a
 comparison between the eighth sphere and Pericionius from necessity,
 because there is no hymn among the following to that <span
 id="page_105">p. 105</span> orb. And I have not contrasted Licnitan
 Bacchus with the lunar Sphere, because the resemblance is not apparent;
 though doubtless there is a concealed similitude.
 
-<span id="fn_41"></span>[105:d](hoo04.htm#fr_41) This is evident from
+<span id="fn_41"></span>[105:d](hoo04.htm#fr_41.md) This is evident from
 the following epistle of Lucas Holstenius to P. Lambecius, preserved by
 Fabricius in that excellent work, his Bibliotheca Græca, tom, i. p. 117
 . Habeo et Orphei exemplar <span id="page_106">p. 106</span> non
@@ -402,4 +402,4 @@ quid de cæteris, quos apud me habeo, Platonicis nunc dicam, in quibus
 
 ------------------------------------------------------------------------
 
-[Next: To Musæus](hoo05)
+[Next: To Musæus](hoo05.md)

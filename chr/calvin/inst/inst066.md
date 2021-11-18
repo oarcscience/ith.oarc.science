@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst065)  [Next](inst067) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst065)  [Next](inst067.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,13 +58,13 @@ us in Christ, was to demonstrate his own righteousness. The nature of
 this demonstration he immediately subjoins—viz. “that he might be just,
 and the justifier of him which believeth in Jesus,” (<span
 id="iv.iii.xiv-p9.1"></span>[Rom.
-3:25](../../../bib/kjv/rom003.htm#025)<span
+3:25](../../../bib/kjv/rom003.htm#025.md)<span
 id="iv.iii.xiv-p9.1"></span>). Observe, that the righteousness of God is
 not sufficiently displayed, unless He alone is held to be righteous, and
 freely communicates righteousness to the undeserving. For this reason it
 is his will, that “every mouth may be stopped, and all the world may
 become guilty before God,” (<span id="iv.iii.xiv-p9.2"></span>[Rom.
-3:19](../../../bib/kjv/rom003.htm#019)<span
+3:19](../../../bib/kjv/rom003.htm#019.md)<span
 id="iv.iii.xiv-p9.2"></span>). For so long as a man has any thing,
 however small, to say in his own defense, so long he deducts somewhat
 from the glory of God. Thus we are taught in Ezekiel how much we glorify
@@ -75,8 +75,8 @@ committed. And ye shall know that I am the Lord, when I have wrought
 with you for my name’s sake, not according to your wicked ways, nor
 according to your corrupt doings,” (<span
 id="iv.iii.xiv-p9.3"></span>[Ezek.
-20:43](../../../bib/kjv/eze020.htm#043),
-[44](../../../bib/kjv/eze020.htm#044)<span
+20:43](../../../bib/kjv/eze020.htm#043.md),
+[44](../../../bib/kjv/eze020.htm#044.md)<span
 id="iv.iii.xiv-p9.3"></span>). If part of the true knowledge of God
 consists in being oppressed by a consciousness of our own iniquity, and
 in recognizing him as doing good to those who are unworthy of it, why do
@@ -86,14 +86,14 @@ Jeremiah exclaims, “Let not the wise man glory in his wisdom, neither
 let the mighty man glory in his might, let not the rich man glory in his
 riches: but let him that glorieth glory” in the Lord (<span
 id="iv.iii.xiv-p9.4"></span>[Jer.
-9:23](../../../bib/kjv/jer009.htm#023),
-[24](../../../bib/kjv/jer009.htm#024)<span
+9:23](../../../bib/kjv/jer009.htm#023.md),
+[24](../../../bib/kjv/jer009.htm#024.md)<span
 id="iv.iii.xiv-p9.4"></span>), does he not intimate, that the glory of
 the Lord is infringed when man glories in himself? To this purpose,
 indeed, Paul accommodates the words when he says, that all the parts of
 our salvation are treasured up with Christ, that we may glory only in
 the Lord (<span id="iv.iii.xiv-p9.5"></span>[1 Cor.
-1:29](../../../bib/kjv/co1001.htm#029)<span
+1:29](../../../bib/kjv/co1001.htm#029.md)<span
 id="iv.iii.xiv-p9.5"></span>). For he intimates, that whosoever imagines
 he has any thing of his own, rebels against God, and obscures his glory.
 
@@ -103,11 +103,11 @@ therefore, be regarded as an universal proposition, that whoso glories
 in himself glories against God. Paul indeed considers, that the whole
 world is not made subject to God until every ground of glorying has been
 withdrawn from men (<span id="iv.iii.xiv-p10.1"></span>[Rom.
-3:19](../../../bib/kjv/rom003.htm#019)<span
+3:19](../../../bib/kjv/rom003.htm#019.md)<span
 id="iv.iii.xiv-p10.1"></span>). Accordingly, Isaiah, when he declares
 that “in the Lord shall all the seed of Israel be justified” adds, “and
 shall glory” (<span id="iv.iii.xiv-p10.2"></span>[Isa.
-45:25](../../../bib/kjv/isa045.htm#025)<span
+45:25](../../../bib/kjv/isa045.htm#025.md)<span
 id="iv.iii.xiv-p10.2"></span> ), as if he had said that the elect are
 justified by the Lord, in order that they may glory in him, and in none
 else. The way in which we are to glory in the Lord he had explained in
@@ -126,21 +126,21 @@ Apostle declares, it was in demonstration of his own righteousness that
 he shed his favor upon us; it was “that he might be just, and the
 justifier of him which believeth in Jesus,” (<span
 id="iv.iii.xiv-p10.3"></span>[Rom.
-3:26](../../../bib/kjv/rom003.htm#026)<span
+3:26](../../../bib/kjv/rom003.htm#026.md)<span
 id="iv.iii.xiv-p10.3"></span>). Hence, in another passage, having said
 that the Lord conferred salvation upon us, in order that he might show
 forth the glory of his name (<span id="iv.iii.xiv-p10.4"></span>[Eph.
-1:6](../../../bib/kjv/eph001.htm#006)<span
+1:6](../../../bib/kjv/eph001.htm#006.md)<span
 id="iv.iii.xiv-p10.4"></span>), he afterwards, as if repeating the same
 thing, adds, “By grace are ye saved through faith; and that not of
 yourselves: it is the gift of God: not of works, lest any man should
 boast,” (<span id="iv.iii.xiv-p10.5"></span>[Eph.
-2:8](../../../bib/kjv/eph002.htm#008)<span
+2:8](../../../bib/kjv/eph002.htm#008.md)<span
 id="iv.iii.xiv-p10.5"></span>). And Peter, when he reminds us that we
 are called to the hope of salvation, “that ye should show forth the
 praises of him who has called you out of darkness into his marvelous
 light,” (<span id="iv.iii.xiv-p10.6"></span>[1 Pet.
-2:9](../../../bib/kjv/pe1002.htm#009)<span
+2:9](../../../bib/kjv/pe1002.htm#009.md)<span
 id="iv.iii.xiv-p10.6"></span>), doubtless intends thus to proclaim in
 the ears of believers only the praises of God, that they may bury in
 profound silence all arrogance of the flesh. The sum is, that man cannot
@@ -153,7 +153,7 @@ only way is by having righteousness bestowed upon us freely by the gift
 of God. Let us always remember the words of Solomon, “Who can say I have
 made my heart clean, I am free from my sin?” (<span
 id="iv.iii.xiv-p11.1"></span>[Prov.
-20:9](../../../bib/kjv/pro020.htm#009)<span
+20:9](../../../bib/kjv/pro020.htm#009.md)<span
 id="iv.iii.xiv-p11.1"></span>). Undoubtedly there is not one man who is
 not covered with infinite pollutions. Let the most perfect man descend
 into his own conscience, and bring his actions to account, and what will
@@ -172,7 +172,7 @@ Apostle insists on this matter. I prefer giving it in his words rather
 than my own: “If they which are of the law be heirs, faith is made void,
 and the promise made of no effect,” (<span
 id="iv.iii.xiv-p11.2"></span>[Rom.
-4:14](../../../bib/kjv/rom004.htm#014)<span
+4:14](../../../bib/kjv/rom004.htm#014.md)<span
 id="iv.iii.xiv-p11.2"></span>). He first infers that faith is made void
 if the promise of righteousness has respect to the merit of our works,
 or depends on the observance of the law. Never could any one rest
@@ -185,7 +185,7 @@ indulge so securely as, without hesitations to oppose their flattery to
 the judgment of God, as if they were relieving him from his office as
 judge. Very different is the anxiety which fills the breasts of
 believers, who sincerely examine themselves.42  <span
-id="fr_416"></span>[417](#fn_416) Every mind, therefore, would first
+id="fr_416"></span>[417](#fn_416.md) Every mind, therefore, would first
 begin to hesitate, and at length to despair, while each determined for
 itself with how great a load of debt it was still oppressed, and how far
 it was from coming up to the enjoined condition. Thus, then, faith would
@@ -203,7 +203,7 @@ put faith in it. Faith therefore failing, no power will remain in the
 promise. “Therefore it is of faith, that it might be by grace, to the
 end the promise might be sure to all the seed,” (<span
 id="iv.iii.xiv-p13.1"></span>[Rom.
-4:16](../../../bib/kjv/rom004.htm#016)<span
+4:16](../../../bib/kjv/rom004.htm#016.md)<span
 id="iv.iii.xiv-p13.1"></span>). It was abundantly confirmed when made to
 rest on the mercy of God alone, for mercy and truth are united by an
 indissoluble tie; that is, whatever God has mercifully promised he
@@ -211,7 +211,7 @@ faithfully performs. Thus David, before he asks salvation according to
 the word of God, first places the source of it in his mercy. “Let, I
 pray thee, thy merciful kindness be for my comfort, according to thy
 word unto thy servant,” (<span id="iv.iii.xiv-p13.2"></span>[Ps.
-119:76](../../../bib/kjv/psa119.htm#076)<span
+119:76](../../../bib/kjv/psa119.htm#076.md)<span
 id="iv.iii.xiv-p13.2"></span>). And justly, for nothing but mere mercy
 induces God to promise. Here, then, we must place, and, as it were,
 firmly fix our whole hope, paying no respect to our works, and asking no
@@ -223,17 +223,17 @@ Therefore, as the promise stands firm, not in respect of our merits, but
 in respect of his mercy, no one ought to tremble in announcing that of
 which he cannot doubt,” (August. in <span
 id="iv.iii.xiv-p13.3"></span>[Ps.
-88](../../../bib/kjv/psa088.htm#000)<span id="iv.iii.xiv-p13.3"></span>,
+88](../../../bib/kjv/psa088.htm#000.md)<span id="iv.iii.xiv-p13.3"></span>,
 Tract. 50). Thus Bernard also, “Who can be saved? ask the disciples of
 Christ. He replies, With men it is impossible, but not with God. This is
 our whole confidence, this our only consolation; this the whole ground
 of our hope: but being assured of the possibility, what are we to say as
 to his willingness? Who knows whether he is deserving of love or hatred?
 (<span id="iv.iii.xiv-p13.4"></span>[Eccles.
-9:1](../../../bib/kjv/ecc009.htm#001)<span
+9:1](../../../bib/kjv/ecc009.htm#001.md)<span
 id="iv.iii.xiv-p13.4"></span>). ‘Who has known the mind of the Lord that
 he may instruct him?’ (<span id="iv.iii.xiv-p13.5"></span>[1 Cor.
-2:16](../../../bib/kjv/co1002.htm#016)<span
+2:16](../../../bib/kjv/co1002.htm#016.md)<span
 id="iv.iii.xiv-p13.5"></span>). Here it is plain, faith must come to our
 aid: here we must have the assistance of truth, in order that the secret
 purpose of the Father respecting us may be revealed by the Spirit, and
@@ -254,8 +254,8 @@ of Zechariah: “I will remove the iniquity of that land in one day. In
 that day, saith the Lord of hosts, shall ye call every man his neighbor
 under the vine, and under the fig-tree,” (<span
 id="iv.iii.xiv-p13.6"></span>[Zech.
-3:9](../../../bib/kjv/zac003.htm#009),
-[10](../../../bib/kjv/zac003.htm#010)<span
+3:9](../../../bib/kjv/zac003.htm#009.md),
+[10](../../../bib/kjv/zac003.htm#010.md)<span
 id="iv.iii.xiv-p13.6"></span>). Here the prophet intimates that the only
 way in which believers can enjoy true peace, is by obtaining the
 remission of their sins. For we must attend to this peculiarity in the
@@ -263,9 +263,9 @@ prophets, that when they discourse of the kingdom of Christ, they set
 forth the external mercies of God as types of spiritual blessings. Hence
 Christ is called *the Prince of Peace, and our peace*, <span
 id="iv.iii.xiv-p13.7"></span>[Isaiah
-9:6](../../../bib/kjv/isa009.htm#006)<span
+9:6](../../../bib/kjv/isa009.htm#006.md)<span
 id="iv.iii.xiv-p13.7"></span>; <span id="iv.iii.xiv-p13.8"></span>[Eph.
-2:14](../../../bib/kjv/eph002.htm#014)<span
+2:14](../../../bib/kjv/eph002.htm#014.md)<span
 id="iv.iii.xiv-p13.8"></span>), because he calms all the agitations of
 conscience. If the method is asked, we must come to the sacrifice by
 which God was appeased, for no man will ever cease to tremble, until he
@@ -279,18 +279,18 @@ or quiet joy until it is held for certain that we are justified by
 faith. And he at the same time declares whence this certainty is
 derived—viz. when “the love of God is shed abroad in our hearts by the
 Holy Ghost,” (<span id="iv.iii.xiv-p14.1"></span>[Rom.
-5:5](../../../bib/kjv/rom005.htm#005)<span
+5:5](../../../bib/kjv/rom005.htm#005.md)<span
 id="iv.iii.xiv-p14.1"></span>); as if he had said that our Souls cannot
 have peace until we are fully assured that we are pleasing to God. Hence
 he elsewhere exclaims in the person of believers in general, “Who shall
 separate us from the love of Christ?” (<span
 id="iv.iii.xiv-p14.2"></span>[Rom.
-8:35](../../../bib/kjv/rom008.htm#035)<span
+8:35](../../../bib/kjv/rom008.htm#035.md)<span
 id="iv.iii.xiv-p14.2"></span>). Until we have reached that haven, the
 slightest breeze will make us tremble, but so long as the Lord is our
 Shepherd, we shall walk without fear in the valley of the shadow of
 death (<span id="iv.iii.xiv-p14.3"></span>[Ps.
-23](../../../bib/kjv/psa023.htm#000)<span
+23](../../../bib/kjv/psa023.htm#000.md)<span
 id="iv.iii.xiv-p14.3"></span>). Thus those who pretend that
 justification by faith consists in being regenerated and made just, by
 living spiritually, have never tasted the sweetness of grace in trusting
@@ -301,7 +301,7 @@ delightful name of Father; nay, unless it open our mouths and enable us
 freely to cry, Abba, Father. This he expresses more clearly in another
 passage, “In whom we have boldness and access with confidence by the
 faith of him,” (<span id="iv.iii.xiv-p14.4"></span>[Eph.
-3:12](../../../bib/kjv/eph003.htm#012)<span
+3:12](../../../bib/kjv/eph003.htm#012.md)<span
 id="iv.iii.xiv-p14.4"></span>). This, certainly, is not obtained by the
 gift of regeneration, which, as it is always defective in the present
 state, contains within it many grounds of doubt. Wherefore, we must have
@@ -315,7 +315,7 @@ favor of God, but receiving from Christ every thing that we want.
 
 ### Footnotes
 
-<span id="fn_416"></span>[417](inst066.htm#fr_416) <span
+<span id="fn_416"></span>[417](inst066.htm#fr_416.md) <span
 id="iv.iii.xiv-p11.3"></span>
 
 <span id="iv.iii.xiv-p12"></span>23 423 The two previous sentences are
@@ -324,4 +324,4 @@ ommited in the French.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 14. - THE BEGINNING OF JUSTIFICATION. IN WHAT SENSE
-PROGRESSIVE.](inst067)
+PROGRESSIVE.](inst067.md)

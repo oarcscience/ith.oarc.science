@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Index](index)  [Previous](two00)  [Next](two02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Index](index)  [Previous](two00)  [Next](two02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Worm Ouroboros*, by E. R. Eddison, \[1922\], at Intangible Textual
 Heritage
 
@@ -38,4 +38,4 @@ E. R. E.
 
 ------------------------------------------------------------------------
 
-[Next: Thomas the Rhymer](two02)
+[Next: Thomas the Rhymer](two02.md)

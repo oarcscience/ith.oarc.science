@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal020)  [Next](njal022) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal020)  [Next](njal022.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ follows:--
 
 ------------------------------------------------------------------------
 
-[Next: 22. Njal's Advice](njal022)
+[Next: 22. Njal's Advice](njal022.md)

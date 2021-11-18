@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob12) 
-[Next](tob14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob12.md) 
+[Next](tob14.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ In this case we will, as usual, resort to those eminent authors who have
 treated these questions from different points of view, and the agreement
 between their teachings will give us new light to illuminate our path.
 
-The Pole HŒNÉ WRONSKI, <span id="fr_49"></span>[1](#fn_49) who died of
+The Pole HŒNÉ WRONSKI, <span id="fr_49"></span>[1](#fn_49.md) who died of
 hunger in the suburbs of Paris, was perhaps one of the most powerful
 intellects produced by the 19th century. He asserted that he had
 discovered the formula of the absolute, and his works are unquestionably
@@ -68,7 +68,7 @@ of Reality, and, consequently, of all the systems of creation. We must
 remember these conclusions.
 
 FABRE D'OLIVET, in his researches upon the first principles which direct
-everything, <span id="fr_50"></span>[1](#fn_50) determines the existence
+everything, <span id="fr_50"></span>[1](#fn_50.md) determines the existence
 of three elements, which he names Providence, Destiny, and Human Will.
 
 Providence is the principle of ABSOLUTE LIBERTY, of the creation of
@@ -128,17 +128,17 @@ and all the Greek philosophers assert the division of the Great All into
 THREE ENTITIES OR WORLDS.
 
 In less remote ages *Guillaume Postel* <span
-id="fr_51"></span>[1](#fn_51) gives the key of the Tarot without
+id="fr_51"></span>[1](#fn_51.md) gives the key of the Tarot without
 explaining it, and the basis of this key is formed by this mysterious
 entity--
 
 DEUS, HOMO, ROTA.
 
 Trithemie and his pupil *Cornelius Agrippa* <span
-id="fr_52"></span>[2](#fn_52) also give us this fecund and sublime
+id="fr_52"></span>[2](#fn_52.md) also give us this fecund and sublime
 trinity in all their analogical figures.
 
-The Jesuit *Kircher* <span id="fr_53"></span>[3](#fn_53) describes this
+The Jesuit *Kircher* <span id="fr_53"></span>[3](#fn_53.md) describes this
 division into three worlds as the basis of the Egyptian mysteries.
 
 Lastly, *Claude de Saint-Martin* has written a book entirely based upon
@@ -161,7 +161,7 @@ OSIRIS, ISIS, HORUS.
 
 The founder of *Greek Cosmogony*, the disciple of the science of Egypt,
 *Hesiod*, also transmits this law to us, and they all confirm Louis
-Lucas when he states: <span id="fr_54"></span>[1](#fn_54) "I feel that
+Lucas when he states: <span id="fr_54"></span>[1](#fn_54.md) "I feel that
 hidden beneath this mystical formula of the Trinity is one of the most
 important scientific laws that man has ever discovered."
 
@@ -177,22 +177,22 @@ through the whole Tarot.
 
 ### Footnotes
 
-<span id="fn_49"></span>[100:1](tob13.htm#fr_49) See l'Occultisme
+<span id="fn_49"></span>[100:1](tob13.htm#fr_49.md) See l'Occultisme
 Contemporain (M. Carré).
 
-<span id="fn_50"></span>[101:1](tob13.htm#fr_50) See *The Golden Verses*
+<span id="fn_50"></span>[101:1](tob13.htm#fr_50.md) See *The Golden Verses*
 of Pythagoras, and the *Histoire Philosophique du Genre Humain*.
 
-<span id="fn_51"></span>[103:1](tob13.htm#fr_51) Clavis.
+<span id="fn_51"></span>[103:1](tob13.htm#fr_51.md) Clavis.
 
-<span id="fn_52"></span>[103:2](tob13.htm#fr_52) *La Philosophie
+<span id="fn_52"></span>[103:2](tob13.htm#fr_52.md) *La Philosophie
 Occulte* (La Haye).
 
-<span id="fn_53"></span>[103:3](tob13.htm#fr_53) *Œdipus Ægyptiacus*.
+<span id="fn_53"></span>[103:3](tob13.htm#fr_53.md) *Œdipus Ægyptiacus*.
 
-<span id="fn_54"></span>[104:1](tob13.htm#fr_54) See Le Roman
+<span id="fn_54"></span>[104:1](tob13.htm#fr_54.md) See Le Roman
 Alchimique.
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Juggler](tob14)
+[Next: 1. The Juggler](tob14.md)

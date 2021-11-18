@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb61)  [Next](ptb63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb61)  [Next](ptb63.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ others, which regard the mere sensitive faculties, and are independent
 of reason, are considered rather by other luminaries of a less subtle
 constitution and more ponderous body; for instance, by the Moon and such
 stars as she may be configurated with, as well by separation, <span
-id="fr_209"></span>[1](#fn_209) as by application.
+id="fr_209"></span>[1](#fn_209.md) as by application.
 
 Now the mind is liable to impulse in a multiplicity of directions, and
 the investigation of them cannot be summarily nor hastily performed, but
@@ -42,7 +42,7 @@ astronomy and divination.
 Bicorporeal signs render the mind variable, versatile, not easy to be
 understood, volatile, and unsteady; inclined to duplicity, amorous,
 wily, fond of music, careless, full of expedients, and regretful. <span
-id="fr_210"></span>[1](#fn_210)
+id="fr_210"></span>[1](#fn_210.md)
 
 Fixed signs make the mind just, uncompromising, constant, firm of
 purpose, prudent, patient, industrious, strict, chaste, mindful of
@@ -50,7 +50,7 @@ in-juries, steady in pursuing its object, contentious, desirous of
 honour, seditious, avaricious, and pertinacious.
 
 Oriental positions, and those in the ascendant, especially if made by
-planets in their proper faces, <span id="fr_211"></span>[2](#fn_211)
+planets in their proper faces, <span id="fr_211"></span>[2](#fn_211.md)
 make men liberal, frank, self-confident, brave, ingenious, unreserved,
 yet acute. Oriental stations, and positions on the mid-heaven, or
 culminations, make men reflective, constant, of good memory, firm,
@@ -94,7 +94,7 @@ But, should a contrary condition impede and govern that familiarity, the
 impulse will be frustrated, and the culprits will be easily overtaken,
 and undergo punishment. In like manner, persons endowed with goodness
 and virtue, by the familiarity between the benefits and the
-before-mentioned places, <span id="fr_212"></span>[1](#fn_212) and when
+before-mentioned places, <span id="fr_212"></span>[1](#fn_212.md) and when
 no contrary influence in elevation may interpose, will exert themselves
 with cheerfulness and alacrity in performing good actions, will be
 subject to no injustice, but enjoy the advantages of their honesty and
@@ -111,8 +111,8 @@ dominion of each, remain to be treated of.
 The planet Saturn, therefore, when alone possessing dominion of the
 mind, and governing Mercury and the Moon, and if posited in glory, both
 cosmically and with respect to the angles, <span
-id="fr_213"></span>[2](#fn_213) will make men careful of their
-bodies, <span id="fr_214"></span>[3](#fn_214) strong and profound in
+id="fr_213"></span>[2](#fn_213.md) will make men careful of their
+bodies, <span id="fr_214"></span>[3](#fn_214.md) strong and profound in
 opinion, austere, singular in their modes of thinking, laborious,
 imperious, hostile to crime, avaricious, parsimonious, accumulators of
 wealth, violent, and envious: but, if he be not in glory, cosmically,
@@ -121,7 +121,7 @@ pusillanimous, ill-disposed, indiscriminating, malignant, timorous,
 slanderous, fond of solitude, repining, incapable of shame, bigoted,
 fond of labour, void of natural affection, treacherous in friendship and
 in family connections, incapable of enjoyment, and regardless of the
-body. <span id="fr_215"></span>[4](#fn_215) Connected with Jupiter in
+body. <span id="fr_215"></span>[4](#fn_215.md) Connected with Jupiter in
 the mode before-mentioned, being also situated in glory,
 
 <span id="page_110">p. 110</span>
@@ -243,7 +243,7 @@ renders the mind cheerful, docile, friendly, complacent, joyous,
 playful, frank, delighting in songs and dancing, amorous, fond of the
 arts, and of dramatic personation, voluptuous, brave, libidinous in
 desire, sensible, cautious, and discreet; disposed to free sexual
-intercourse, <span id="fr_216"></span>[1](#fn_216) quick in anger,
+intercourse, <span id="fr_216"></span>[1](#fn_216.md) quick in anger,
 extravagant in expense, and jealous: but, if he have an inglorious
 position when thus conciliated, he makes men overbearing, lascivious,
 sordid, opprobious, adulterous, mischievous, liars, fabricators of
@@ -285,12 +285,12 @@ fitted for various arts, intelligent, not misled by error, quick in
 learning, self-teaching, emulous of worth, followers of virtue, copious
 and agreeable in speech, serene and sincere in manner, delighting in
 exercise, honest, judicious, high-minded, and continent in desire as
-regards women <span id="fr_217"></span>[1](#fn_217); but, when so
+regards women <span id="fr_217"></span>[1](#fn_217.md); but, when so
 conciliated and posited adversely, she will make men oppressive, fit for
 various arts, evil-tongued, unsteady, malevolent, fraudulent, turbulent,
 liars, calumniators, faithless, crafty, insidious, practised in evil,
 uncourteous, debauchers of women, corrupters of youth, <span
-id="fr_218"></span>[2](#fn_218) fond of personal adornment, dissolute,
+id="fr_218"></span>[2](#fn_218.md) fond of personal adornment, dissolute,
 infamous, notoriously offensive and publicly complained of, yet striving
 after all things.
 
@@ -307,7 +307,7 @@ predisposed to error.
 
 To these influences and their effects, as above detailed, the Moon also
 contributes: for, should she be in the bends of her southern or northern
-boundary, <span id="fr_219"></span>[3](#fn_219) she will render the
+boundary, <span id="fr_219"></span>[3](#fn_219.md) she will render the
 properties of the mind more various, more versatile in art, and more
 susceptible of change: if she be in her nodes, she will make them more
 acute, more practical, and more active. Also, when in the ascendant, and
@@ -326,42 +326,42 @@ cruelty, obstinacy, moroseness, and all other evil qualities.
 
 ### Footnotes
 
-<span id="fn_209"></span>[107:1](ptb62.htm#fr_209) That is to say, in
+<span id="fn_209"></span>[107:1](ptb62.htm#fr_209.md) That is to say, in
 the commencement of her separation from the aspect or conjunction of
 such stars.
 
-<span id="fn_210"></span>[108:1](ptb62.htm#fr_210) The Greek is
+<span id="fn_210"></span>[108:1](ptb62.htm#fr_210.md) The Greek is
 μεταμελητικους, which means "penitent," or "prone to repentance," or "to
 subsequent regret." It is difficult to convey its precise meaning in the
 text.
 
-<span id="fn_211"></span>[108:2](ptb62.htm#fr_211) Vide Chapter XXVI,
+<span id="fn_211"></span>[108:2](ptb62.htm#fr_211.md) Vide Chapter XXVI,
 Book I.
 
-<span id="fn_212"></span>[109:1](ptb62.htm#fr_212) That of Mercury, and
+<span id="fn_212"></span>[109:1](ptb62.htm#fr_212.md) That of Mercury, and
 that of the Moon.
 
-<span id="fn_213"></span>[109:2](ptb62.htm#fr_213) This seems to imply,
+<span id="fn_213"></span>[109:2](ptb62.htm#fr_213.md) This seems to imply,
 if well placed in elevation; as, in the mid-heaven, for instance, or in
 a conspicuous situation; and in possession of dignities.
 
-<span id="fn_214"></span>[109:3](ptb62.htm#fr_214) Or, persons: the
+<span id="fn_214"></span>[109:3](ptb62.htm#fr_214.md) Or, persons: the
 Greek is φιλοσωματους.
 
-<span id="fn_215"></span>[109:4](ptb62.htm#fr_215) Or, persons:
+<span id="fn_215"></span>[109:4](ptb62.htm#fr_215.md) Or, persons:
 μισοσωματους.
 
-<span id="fn_216"></span>[112:1](ptb62.htm#fr_216) Προς μιξιν θηλειων
+<span id="fn_216"></span>[112:1](ptb62.htm#fr_216.md) Προς μιξιν θηλειων
 και αρρενων διακειμενους.
 
-<span id="fn_217"></span>[113:1](ptb62.htm#fr_217) Προς αρρενας δε
+<span id="fn_217"></span>[113:1](ptb62.htm#fr_217.md) Προς αρρενας δε
 κεκιννημενους και ζηλοτυπους.
 
-<span id="fn_218"></span>[113:2](ptb62.htm#fr_218) Παιδων διαφθορεας.
+<span id="fn_218"></span>[113:2](ptb62.htm#fr_218.md) Παιδων διαφθορεας.
 
-<span id="fn_219"></span>[113:3](ptb62.htm#fr_219) That is to say, in
+<span id="fn_219"></span>[113:3](ptb62.htm#fr_219.md) That is to say, in
 her extreme latitude, whether south or north.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. The Diseases of the Mind](ptb63)
+[Next: Chapter XIX. The Diseases of the Mind](ptb63.md)

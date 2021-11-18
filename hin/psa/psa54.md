@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa53)  [Next](psa55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa53)  [Next](psa55.md) 
 
 ------------------------------------------------------------------------
 
@@ -220,7 +220,7 @@ the Raja Bheekmuk, "O great king! I have given the marks to the Raja
 Sissoopal, and he is coming to the marriage in splendid procession:
 arrange your plans accordingly."
 
-Raja [Bheekmuk](errata.htm#9) was at first very sad, when he heard these
+Raja [Bheekmuk](errata.htm#9.md) was at first very sad, when he heard these
 words: afterwards, having reflected and thought upon the matter, he went
 into his palace and mentioned the subject to his wife, who immediately
 sent for musicians, and invited all her female relations; and gave a
@@ -386,4 +386,4 @@ occupied with anxious thoughts of Rookmunee.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LIV](psa55)
+[Next: Chapter LIV](psa55.md)

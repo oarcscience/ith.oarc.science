@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta45)  [Next](sta47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta45)  [Next](sta47.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,7 +131,7 @@ In his Restored New Testament, James Morgan Pryse traces the
 <span id="img_18500"></span>
 
 [![THE THRONE OF GOD AND OF THE LAMB.](tn/18500.jpg)  
-Click to enlarge](img/18500.jpg)  
+Click to enlarge](img/18500.jpg.md)  
 THE THRONE OF GOD AND OF THE LAMB.  
 
 From Jacob Behmen's Works.
@@ -247,7 +247,7 @@ represents that purification
 <span id="img_18600"></span>
 
 [![EPISODES FROM THE MYSTERIES OF THE APOCALYPSE.](tn/18600.jpg)  
-Click to enlarge](img/18600.jpg)  
+Click to enlarge](img/18600.jpg.md)  
 EPISODES FROM THE MYSTERIES OF THE APOCALYPSE.  
 
 From Klauber's *Historiae Biblicae Veteris et Novi Testamenti*.
@@ -379,7 +379,7 @@ predestined by the gods to slay the
 <span id="img_18700"></span>
 
 [![JOHN'S VISION OF THE NEW JERUSALEM.](tn/18700.jpg)  
-Click to enlarge](img/18700.jpg)  
+Click to enlarge](img/18700.jpg.md)  
 JOHN'S VISION OF THE NEW JERUSALEM.  
 
 From Klauber's *Historiae Biblicae Veteris et Novi Testamenti*.
@@ -566,7 +566,7 @@ our Lord Jesus Christ be with you all. Amen."
 <span id="img_18800"></span>
 
 [![THE FOUR HORSEMEN OF THE APOCALYPSE.](tn/18800.jpg)  
-Click to enlarge](img/18800.jpg)  
+Click to enlarge](img/18800.jpg.md)  
 THE FOUR HORSEMEN OF THE APOCALYPSE.  
 
 From *Solis' Biblische Figuren*.
@@ -584,4 +584,4 @@ elements which serve as media for its expression.
 
 ------------------------------------------------------------------------
 
-[Next: The Faith of Islam](sta47)
+[Next: The Faith of Islam](sta47.md)

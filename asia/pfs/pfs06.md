@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pfs05)  [Next](pfs07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pfs05)  [Next](pfs07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/141914135X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/141914135X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ And he must cry it forever.
 
 ------------------------------------------------------------------------
 
-[Next: The Light of the Fly](pfs07)
+[Next: The Light of the Fly](pfs07.md)

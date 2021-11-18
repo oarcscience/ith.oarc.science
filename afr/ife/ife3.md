@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife2) [Next](ife4)
+[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife2) [Next](ife4.md)
 
 ------------------------------------------------------------------------
 
@@ -206,7 +206,7 @@ The words of Odudúwa and Orísha.</td>
 
 ------------------------------------------------------------------------
 
-[Next](ife4)
+[Next](ife4.md)
 
 ------------------------------------------------------------------------
 
@@ -214,32 +214,32 @@ The words of Odudúwa and Orísha.</td>
 
 <span id="footnotes_page_15">p. 15</span>
 
-<span id="page_15_note_1"></span>[1](#page_15_fr_1) [See Note
-I](ife9.htm#I) on the Creation of the Earth.
+<span id="page_15_note_1"></span>[1](#page_15_fr_1.md) [See Note
+I](ife9.htm#I.md) on the Creation of the Earth.
 
 <span id="footnotes_page_16">p. 16</span>
 
-<span id="page_16_note_1"></span>[1](#page_16_fr_1) [See Note
-IV](ife9.htm#IV) on the Creation of Man.
+<span id="page_16_note_1"></span>[1](#page_16_fr_1.md) [See Note
+IV](ife9.htm#IV.md) on the Creation of Man.
 
 <span id="footnotes_page_17">p. 17</span>
 
-<span id="page_17_note_1"></span>[1](#page_17_fr_1) [See Note
-I](ife9.htm#I) on the Creation.
+<span id="page_17_note_1"></span>[1](#page_17_fr_1.md) [See Note
+I](ife9.htm#I.md) on the Creation.
 
-<span id="page_17_note_2"></span>[2](#page_17_fr_2) The Goddess of the
+<span id="page_17_note_2"></span>[2](#page_17_fr_2.md) The Goddess of the
 Sea.
 
 <span id="footnotes_page_18">p. 18</span>
 
-<span id="page_18_note_1"></span>[1](#page_18_fr_1) [See Note
-II](ife9.htm#II) on Odúm’la, the first Órní of Ílè.
+<span id="page_18_note_1"></span>[1](#page_18_fr_1.md) [See Note
+II](ife9.htm#II.md) on Odúm’la, the first Órní of Ílè.
 
-<span id="page_18_note_2"></span>[2](#page_18_fr_2) The River which
+<span id="page_18_note_2"></span>[2](#page_18_fr_2.md) The River which
 separates this World from the next.
 
-<span id="page_18_note_3"></span>[3](#page_18_fr_3) The Messenger of the
-Gods. [See Note XII](ife9.htm#XII) on his divination.
+<span id="page_18_note_3"></span>[3](#page_18_fr_3.md) The Messenger of the
+Gods. [See Note XII](ife9.htm#XII.md) on his divination.
 
  
 

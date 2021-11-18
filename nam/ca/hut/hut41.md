@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut40)  [Next](hut42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut40)  [Next](hut42.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXXVIII.
 
-### Formula of Woman's Love Medicine. <span id="fr_83"></span>[1](#fn_83)
+### Formula of Woman's Love Medicine. <span id="fr_83"></span>[1](#fn_83.md)
 
 <span id="page_308">p. 308</span>
 
@@ -66,10 +66,10 @@ discarded her.
 
 ### Footnotes
 
-<span id="fn_83"></span>[305:1](hut41.htm#fr_83) Told at Hupa, December
+<span id="fn_83"></span>[305:1](hut41.htm#fr_83.md) Told at Hupa, December
 1901, by Emma Lewis.
 
 ------------------------------------------------------------------------
 
 [Next: XXXIX. Formula of Medicine to Shorten Period of Exclusion after
-Menstruation](hut42)
+Menstruation](hut42.md)

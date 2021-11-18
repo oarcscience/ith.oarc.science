@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli28)  [Next](roli30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli28)  [Next](roli30.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ they met at the appointed place to play in turn.
 Coyote was artful enough to compose his tune with many pauses in the
 measure; and at each pause he would secretly draw his breath. So he won
 in every contest, till it came to be the turn of the Lizard, and he had
-[carefully](errata.htm#1) watched all the time to see how Coyote did it.
+[carefully](errata.htm#1.md) watched all the time to see how Coyote did it.
 So when they had a contest, Lizard did just the same, pausing and
 secretly drawing his breath, as Coyote did; till at last Coyote forgot
 to do this and stopped, and Lizard beat him in the contest.
@@ -39,4 +39,4 @@ to do this and stopped, and Lizard beat him in the contest.
 ------------------------------------------------------------------------
 
 [Next: Appendix I. Games, Arts, And Industries Of The Diegueños And
-Luiseños](roli30)
+Luiseños](roli30.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma01)  [Next](sma03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma01)  [Next](sma03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -265,7 +265,7 @@ might be averted. The nocturnal assemblies for the celebration of these
 mysteries were but too often scenes of vice and debauchery, and they
 were discountenanced by all good governments. It is to these last, and
 not to the Eleusinian mysteries, that the severe strictures of the
-fathers of the church apply. <span id="fr_0"></span>[\*](#fn_0)
+fathers of the church apply. <span id="fr_0"></span>[\*](#fn_0.md)
 
 The history of Pythagoras and his doctrines is
 
@@ -371,7 +371,7 @@ present day; and,
 finally, the Secret Tribunals of Westphalia, in Germany, concerning
 which all our information has hitherto been derived from the incorrect
 statements of dramatists and romancers. <span
-id="fr_1"></span>[\*](#fn_1)
+id="fr_1"></span>[\*](#fn_1.md)
 
 It is the simplicity of truth, and not the excitement of romance, that
 the reader is to expect to find in the following pages,--pictures of
@@ -383,13 +383,13 @@ consistent with truth and instruction.
 
 ### Footnotes
 
-<span id="fn_0"></span>[8:\*](sma02.htm#fr_0) See Lobeck's excellent
+<span id="fn_0"></span>[8:\*](sma02.htm#fr_0.md) See Lobeck's excellent
 work "Aglaophamus."
 
-<span id="fn_1"></span>[12:\*](sma02.htm#fr_1) Since the present work
+<span id="fn_1"></span>[12:\*](sma02.htm#fr_1.md) Since the present work
 was prepared, a translation of Von Hammer's History of the Assassins has
 been published by Dr. Oswald Charles Wood.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](sma03)
+[Next: Chapter I](sma03.md)

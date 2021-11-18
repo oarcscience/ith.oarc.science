@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc118) 
-[Next](motc120) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc118.md) 
+[Next](motc120.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ it a bow or a (meal) sifter?" or, "Is it ballsticks or bread?"
 
 ------------------------------------------------------------------------
 
-[Next: 120. The Raven Mocker](motc120)
+[Next: 120. The Raven Mocker](motc120.md)

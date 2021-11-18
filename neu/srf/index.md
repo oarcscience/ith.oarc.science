@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,14 +27,14 @@ world depicted in this book was about to come crashing down.
 
 ------------------------------------------------------------------------
 
-[Title Page](srf00)  
-[Contents](srf01)  
-[List of Plates](srf02)  
-[Introduction](srf03)  
-[The Test of War](srf04)  
-[The Lady of Moscow](srf05)  
-[Mikhail the Kringel Seller](srf06)  
-[How Little Ivan Became a Tsar](srf07)  
-[Tsar Ivan and the Scots Soldiers](srf08)  
-[The Man Who Fought the Wolves](srf09)  
-[The Old Order and the New](srf10)  
+[Title Page](srf00.md)  
+[Contents](srf01.md)  
+[List of Plates](srf02.md)  
+[Introduction](srf03.md)  
+[The Test of War](srf04.md)  
+[The Lady of Moscow](srf05.md)  
+[Mikhail the Kringel Seller](srf06.md)  
+[How Little Ivan Became a Tsar](srf07.md)  
+[Tsar Ivan and the Scots Soldiers](srf08.md)  
+[The Man Who Fought the Wolves](srf09.md)  
+[The Old Order and the New](srf10.md)  

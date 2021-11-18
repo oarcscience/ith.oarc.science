@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat12.htm#LXXXV) 
-[Previous](satl084)  [Next](satl086) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat12.htm#LXXXV.md) 
+[Previous](satl084)  [Next](satl086.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ columbarum attuli expectanti ac me voto exsolvi.
 
 ------------------------------------------------------------------------
 
-[Next: LXXXVI](satl086)
+[Next: LXXXVI](satl086.md)

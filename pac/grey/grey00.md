@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Next](grey01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Next](grey01.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ Late Governor-in-Chief of New Zealand
 
 ------------------------------------------------------------------------
 
-[Next: Preface](grey01)
+[Next: Preface](grey01.md)

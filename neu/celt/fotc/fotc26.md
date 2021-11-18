@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fotc25)  [Next](fotc27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fotc25)  [Next](fotc27.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Feuds of the Clans*, by Alexander MacGregor, \[1907\], at
 Intangible Textual Heritage
 
@@ -118,4 +118,4 @@ of Sutherland.
 
 ------------------------------------------------------------------------
 
-[Next: The Troubles Between the Earls of Huntly and Moray.](fotc27)
+[Next: The Troubles Between the Earls of Huntly and Moray.](fotc27.md)

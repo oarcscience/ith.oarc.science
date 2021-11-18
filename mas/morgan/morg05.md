@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](morg04)  [Next](morg06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](morg04)  [Next](morg06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Illustrations of Masonry*, by William Morgan, \[1827\], at Intangible
 Textual Heritage
 
@@ -240,4 +240,4 @@ called "*the shock*."
 
 ------------------------------------------------------------------------
 
-[Next: First Section of the Lecture on the First Degree](morg06)
+[Next: First Section of the Lecture on the First Degree](morg06.md)

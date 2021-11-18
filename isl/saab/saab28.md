@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab27)  [Next](saab29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab27)  [Next](saab29.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -66,4 +66,4 @@ Eternal Love, he let the Mortal go.
 
 ------------------------------------------------------------------------
 
-[Next: XXVII](saab29)
+[Next: XXVII](saab29.md)

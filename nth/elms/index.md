@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 </div>
 
@@ -24,29 +24,29 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](elms00)    [Page
-Index](pageidx)    [Text \[Zipped\]](elms.txt.gz)
+[Contents](#contents)    [Start Reading](elms00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](elms.txt.gz.md)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](elms00)  
-[Foreword](elms01)  
-[Contents](elms02)  
-[I.—Spirit and Matter](elms03)  
-[II.—The Higher Mode of Intelligence Controls the Lower](elms04)  
-[III.—The Unity of the Spirit](elms05)  
-[IV.—Subjective and Objective Mind](elms06)  
+<span id="contents"></span> [Title Page](elms00.md)  
+[Foreword](elms01.md)  
+[Contents](elms02.md)  
+[I.—Spirit and Matter](elms03.md)  
+[II.—The Higher Mode of Intelligence Controls the Lower](elms04.md)  
+[III.—The Unity of the Spirit](elms05.md)  
+[IV.—Subjective and Objective Mind](elms06.md)  
 [V.—Further Considerations Regarding Subjective and Objective
-Mind](elms07)  
-[VI.—The Law of Growth](elms08)  
-[VII.—Receptivity](elms09)  
+Mind](elms07.md)  
+[VI.—The Law of Growth](elms08.md)  
+[VII.—Receptivity](elms09.md)  
 [VIII.—Reciprocal Action of the Universal and Individual
-Minds](elms10)  
-[IX.—Causes and Conditions](elms11)  
-[X.—Intuition](elms12)  
-[XI.—Healing](elms13)  
-[XII.—The Will](elms14)  
-[XIII.—In Touch With Subconscious Mind](elms15)  
-[XIV.—The Body](elms16)  
-[XV.—The Soul](elms17)  
-[XVI.—The Spirit](elms18)  
+Minds](elms10.md)  
+[IX.—Causes and Conditions](elms11.md)  
+[X.—Intuition](elms12.md)  
+[XI.—Healing](elms13.md)  
+[XII.—The Will](elms14.md)  
+[XIII.—In Touch With Subconscious Mind](elms15.md)  
+[XIV.—The Body](elms16.md)  
+[XV.—The Soul](elms17.md)  
+[XVI.—The Spirit](elms18.md)  

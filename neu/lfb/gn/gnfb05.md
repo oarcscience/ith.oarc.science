@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb04)  [Next](gnfb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb04)  [Next](gnfb06.md) 
 
 </div>
 
@@ -426,6 +426,6 @@ the door of Princess Screech Owl.
 
 ------------------------------------------------------------------------
 
-[Next: The Enchanted Watch](gnfb06)
+[Next: The Enchanted Watch](gnfb06.md)
 
 </div>

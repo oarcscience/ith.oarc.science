@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc65)  [Next](mtc67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc65)  [Next](mtc67.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ Intangible Textual Heritage
 <span class="smallcaps">Miss Li</span>, ennobled with the title "Lady of
 Ch‘ien-kuo," was once a prostitute in Ch‘ang-an. The devotion of her
 conduct was so remarkable that I have thought it worth while to record
-her story. In the T‘ien-pao era <span id="fr_50"></span>[1](#fn_47)
+her story. In the T‘ien-pao era <span id="fr_50"></span>[1](#fn_47.md)
 there was a certain nobleman, Governor of Ch‘ang-chou and Lord of
 Jung-yang, whose name and surname I will omit. He was a man of great
 wealth and highly esteemed by all. He had passed his fiftieth year and
@@ -46,7 +46,7 @@ may pursue your career free from all anxiety." The young man was also
 quite confident and saw himself getting the first place as clearly as he
 saw the palm of his own hand.
 
-Starting from P‘i-ling <span id="fr_51"></span>[2](#fn_48) he reached
+Starting from P‘i-ling <span id="fr_51"></span>[2](#fn_48.md) he reached
 Ch‘ang-an in a few weeks and took a house in the Pu-chēng quarter. One
 day he was coming back from a visit to the Eastern Market. He
 
@@ -329,7 +329,7 @@ his throat and began his tune with an air of great diffidence.
 <span id="page_134">p. 134</span>
 
 He sang the dirge "Dew on the Garlic." <span
-id="fr_52"></span>[3](#fn_49) His voice rose so shrill and clear that
+id="fr_52"></span>[3](#fn_49.md) His voice rose so shrill and clear that
 "its echoes shook the forest trees." Before he had finished the first
 verse, all who heard were sobbing and hiding their tears.
 
@@ -540,7 +540,7 @@ The young man burst into tears and threatened to kill himself if she
 left him, but she obstinately refused to go with him. He begged her
 passionately not to desert him, and she at last consented to go with him
 across the river as far as Chien-mēn. <span
-id="fr_53"></span>[4](#fn_50) "There," she said, "you must part with
+id="fr_53"></span>[4](#fn_50.md) "There," she said, "you must part with
 me." The young man consented and in a few weeks they reached Chien-mên.
 Before he had started out again, a proclamation arrived announcing that
 the young man's father, who had been Governor of Ch‘ang-chou, had been
@@ -571,7 +571,7 @@ competent housekeeper, and was beloved by all her relations.
 Some years later both the young man's parents died, and in his mourning
 observances he showed unusual piety. As a mark of divine favour, magic
 toadstools grew on the roof of his mourning-hut, <span
-id="fr_54"></span>[5](#fn_51) each stem bearing three plants. The report
+id="fr_54"></span>[5](#fn_51.md) each stem bearing three plants. The report
 of his virtue reached even the Emperor's ears. Moreover a number of
 white swallows nested in the beams of his roof, an omen which so
 impressed the Emperor that he raised his rank immediately.
@@ -599,8 +599,8 @@ Ministry of Finance and became Inspector of Waterways, and finally
 Inspector of Roads. In all these three offices he had Miss Li's husband
 as his colleague, so that her story was well known to him in every
 particular. During the Chēng-yüan period <span
-id="fr_55"></span>[6](#fn_52) I was sitting one day with Li
-Kung-tso <span id="fr_56"></span>[7](#fn_53) of Lung-hai; we fell to
+id="fr_55"></span>[6](#fn_52.md) I was sitting one day with Li
+Kung-tso <span id="fr_56"></span>[7](#fn_53.md) of Lung-hai; we fell to
 talking of wives who had distinguished themselves by remarkable conduct.
 I told him the story of Miss Li. He listened with rapt attention, and
 when it was over, asked me to write it down for him. So I took up my
@@ -613,30 +613,30 @@ by Po-Hsing-chien of T‘ai-yüan.*
 
 ### Footnotes
 
-<span id="fn_47"></span>[123:1](mtc66.htm#fr_50) A. D. 742-56.
+<span id="fn_47"></span>[123:1](mtc66.htm#fr_50.md) A. D. 742-56.
 
-<span id="fn_48"></span>[123:2](mtc66.htm#fr_51) In Kiang-su, near
+<span id="fn_48"></span>[123:2](mtc66.htm#fr_51.md) In Kiang-su, near
 Ch‘ang-chou.
 
-<span id="fn_49"></span>[134:3](mtc66.htm#fr_52) See p. 58, "170 Chinese
+<span id="fn_49"></span>[134:3](mtc66.htm#fr_52.md) See p. 58, "170 Chinese
 Poems," Alfred A. Knopf, 1919.
 
-<span id="fn_50"></span>[141:4](mtc66.htm#fr_53) The "Sword-gate":
+<span id="fn_50"></span>[141:4](mtc66.htm#fr_53.md) The "Sword-gate":
 commanding the pass which leads into Szechuan from the north.
 
-<span id="fn_51"></span>[142:5](mtc66.htm#fr_54) See "Book of Rites,"
+<span id="fn_51"></span>[142:5](mtc66.htm#fr_54.md) See "Book of Rites,"
 xxxii, 3. On returning from his father's burial a son must not enter the
 house; he should live in an "outhouse," mourning for his father's
 absence.
 
-<span id="fn_52"></span>[143:6](mtc66.htm#fr_55) A. D. 785-805.
+<span id="fn_52"></span>[143:6](mtc66.htm#fr_55.md) A. D. 785-805.
 
-<span id="fn_53"></span>[143:7](mtc66.htm#fr_56) A writer.
+<span id="fn_53"></span>[143:7](mtc66.htm#fr_56.md) A writer.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Hearing That His Friend Was Coming Back From the War](mtc67)
+[Next: Hearing That His Friend Was Coming Back From the War](mtc67.md)
 
 </div>

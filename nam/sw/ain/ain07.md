@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain06)  [Next](ain08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain06)  [Next](ain08.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,7 +98,7 @@ young man, feeling him ever coming nearer, and her father kept on
 reassuring her, telling her it would be all right, but at last, out of
 pity for her fears & tears, he told her to go and get him the little
 tuft of the finest thorns on the top of the white cactus, the
-*haht-sahn-kahm*, <span id="fr_1"></span>[1](#fn_1) and bring to him.
+*haht-sahn-kahm*, <span id="fr_1"></span>[1](#fn_1.md) and bring to him.
 
 And her father took the cactus-tuft which she had brought him, and took
 hair from her head and wound about one end of it, and told her if she
@@ -232,7 +232,7 @@ And when Quotaveech was warm he quit crying.
 
 And then the little birds sang, for they had power to make the water go
 down by singing, and as they sang the waters gradually
-[receded](errata.htm#5).
+[receded](errata.htm#5.md).
 
 But the others still floated around.
 
@@ -276,7 +276,7 @@ brothers, and they called
 
 him younger brother. And this dispute continued till Ee-ee-toy again got
 the best of it, and although really the younger brother was admitted by
-[the](errata.htm#6) others to be Seeurhuh, or the elder.
+[the](errata.htm#6.md) others to be Seeurhuh, or the elder.
 
 And the birds came down from the sky and again there was a dispute about
 the relationship, but Ee-ee-toy again got the best of them all.
@@ -430,7 +430,7 @@ between the mountains which are there now.
 
 ### Footnotes
 
-<span id="fn_1"></span>[39:1](ain07.htm#fr_1) What the Pimas call the
+<span id="fn_1"></span>[39:1](ain07.htm#fr_1.md) What the Pimas call the
 *haht-sahn-kahm* is the wickedest cactus in Arizona. The tops of the
 branches fall off, and lie on the ground, and if stepped on the thorns
 will go thru ordinary shoe leather and seem to hold with the tenacity of
@@ -438,4 +438,4 @@ fish-hooks, so that it is almost impossible to draw them out.
 
 ------------------------------------------------------------------------
 
-[Next: Songs](ain08)
+[Next: Songs](ain08.md)

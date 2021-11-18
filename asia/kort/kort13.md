@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort12)  [Next](kort14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort12)  [Next](kort14.md) 
 
 ------------------------------------------------------------------------
 
-# 9. How Eme'mqut became a Cannibal. <span id="fr_24"></span>[1](#fn_24)
+# 9. How Eme'mqut became a Cannibal. <span id="fr_24"></span>[1](#fn_24.md)
 
 Big-Raven lived with his people. Eme'mqut married
 
@@ -79,9 +79,9 @@ is all.
 
 ### Footnotes
 
-<span id="fn_24"></span>[53:1](kort13.htm#fr_24) Compare W. Jochelson,
+<span id="fn_24"></span>[53:1](kort13.htm#fr_24.md) Compare W. Jochelson,
 The Koryak, *l. c.*, No. 108. p. 295.
 
 ------------------------------------------------------------------------
 
-[Next: 10. Eme'mqut and Fox-Woman](kort14)
+[Next: 10. Eme'mqut and Fox-Woman](kort14.md)

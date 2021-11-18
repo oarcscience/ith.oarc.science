@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aar07)  [Next](aar09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aar07)  [Next](aar09.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ Apollo
 
 \[paragraph continues\] Belvedere is in the Vatican at Rome, but is
 readily accessible in casts or photographs. The outlines given in [Figs.
-5](#img_fig05) and [6](#img_fig06) can of course only serve to recall
+5](#img_fig05) and [6](#img_fig06.md) can of course only serve to recall
 subject-matter and design.
 
  
@@ -105,7 +105,7 @@ But the procession lives on, has even taken to itself
 <span id="img_fig03"></span>
 
 [![Panathenaic Procession. FIG. 3.](tn/fig03.jpg)  
-Click to enlarge](img/fig03.jpg)  
+Click to enlarge](img/fig03.jpg.md)  
 Panathenaic Procession. FIG. 3.  
 
 new life. It is a means of bringing masses of people together, of
@@ -122,12 +122,12 @@ house. Nowadays it is to collect pence; once it was to
 <span id="img_fig04"></span>
 
 [![Panathenaic Procession. FIG. 4.](tn/fig04.jpg)  
-Click to enlarge](img/fig04.jpg)  
+Click to enlarge](img/fig04.jpg.md)  
 Panathenaic Procession. FIG. 4.  
 
 diffuse "grace" and increase. We remember the procession of the holy
 Bull at Magnesia and the holy Bear at Saghalien (pp.
-[92](aar06.htm#page_92)-100).
+[92](aar06.htm#page_92)-100.md).
 
 <span id="page_176">p. 176</span>
 
@@ -136,11 +136,11 @@ as its name indicates, a procession that brought all Athens together.
 Its object was social and political, to express the unity of Athens.
 Ritual in primitive times is always social, collective.
 
-The arrangement of the procession is shown in [Figs. 3](#img_fig03) and
-[4](#img_fig04) (pp. [174](#page_174), [175](#page_175)). In [Fig.
-3](#img_fig03) we see the procession as it were in real life, just as it
+The arrangement of the procession is shown in [Figs. 3](#img_fig03.md) and
+[4](#img_fig04) (pp. [174](#page_174), [175](#page_175).md). In [Fig.
+3](#img_fig03.md) we see the procession as it were in real life, just as it
 is about to enter the temple and the presence of the Twelve Gods. These
-gods are shaded black because in reality invisible. [Fig. 4](#img_fig04)
+gods are shaded black because in reality invisible. [Fig. 4](#img_fig04.md)
 is a diagram showing the position of the various parts of the procession
 in the sculptural frieze. At the west end of the temple the procession
 begins to form: the youths of Athens are mounting their horses. It
@@ -181,7 +181,7 @@ an element of recreation. It is interesting
 
 to note that to the Greek mind religion was specially connected with the
 notion rather of a festival than a fast. Thucydides <span
-id="fr_42"></span>[1](#fn_42) is assuredly by nature no reveller, yet
+id="fr_42"></span>[1](#fn_42.md) is assuredly by nature no reveller, yet
 religion is to him mainly a "rest from toil." He makes Perikles say:
 "Moreover, we have provided for our spirit by many opportunities of
 recreation, by the celebration of games and sacrifices throughout the
@@ -204,7 +204,7 @@ but--and this is important--for a special purpose, more
 
 primitive than any great political or social union. Happily this purpose
 is clear; it is depicted in the central slab of the east end of the
-frieze ([Fig. 5](#img_fig05)). A priest is there represented receiving
+frieze ([Fig. 5](#img_fig05).md). A priest is there represented receiving
 from the hands of a boy a great *peplos* or robe. It is the sacred robe
 of Athena woven for her and embroidered by young Athenian maidens and
 offered to her
@@ -212,7 +212,7 @@ offered to her
 <span id="img_fig05"></span>
 
 [![FIG. 5.](tn/fig05.jpg)  
-Click to enlarge](img/fig05.jpg)  
+Click to enlarge](img/fig05.jpg.md)  
 FIG. 5.  
 
 every five years. The great gold and ivory statue in the Parthenon
@@ -238,7 +238,7 @@ image. The life of the year died out each year and had to be renewed. To
 make a new image was expensive and inconvenient, so, with primitive
 economy it was decided that the life and luck of the image should be
 renewed by re-dressing it, by offering to it each year a new robe. We
-remember ([p. 60](aar05.htm#page_60)) how in Thuringia the new puppet
+remember ([p. 60](aar05.htm#page_60).md) how in Thuringia the new puppet
 wore the shirt of the old and thereby new life was passed from one to
 the other. But behind the old image we can get to a stage still earlier,
 when there was at the Panathenaia no image at all, only a yearly
@@ -251,7 +251,7 @@ tree of Athens, called the *Moria* or Fate Tree. It was bound about with
 fillets and hung with fruit and nuts and, in the festival of the
 Panathenaia, they carried it up to the Acropolis to give to Athena
 *Polias*, "Her-of-the-City," and as they went they sang the old
-Eiresione song ([p. 114](aar06.htm#page_114)). *Polias* is but the city,
+Eiresione song ([p. 114](aar06.htm#page_114).md). *Polias* is but the city,
 the *Polis* incarnate.
 
 This *Moria*, or Fate Tree, was the very life of Athens; the life of the
@@ -259,14 +259,14 @@ olive which fed her and lighted her was the very life of the city. When
 the Persian host sacked the Acropolis they burnt the holy olive, and it
 seemed that all was over. But next day it put forth a new shoot and the
 people knew that the city's life still lived. Sophocles <span
-id="fr_43"></span>[1](#fn_43) sang of the glory of the wondrous life
+id="fr_43"></span>[1](#fn_43.md) sang of the glory of the wondrous life
 tree of Athens:
 
 "The untended, the self-planted, self-defended from the foe,  
 Sea-gray, children-nurturing olive tree that here delights to grow,  
 None may take nor touch nor harm it, headstrong youth nor age grown
 bold. <span id="page_182">p. 182</span>  
-For the round of Morian[,](errata.htm#0) Zeus has been its watcher from
+For the round of Morian[,](errata.htm#0.md) Zeus has been its watcher from
 of old;  
 He beholds it, and, Athene, thy own sea-gray eyes behold."
 
@@ -297,7 +297,7 @@ to a monument.
  
 
 Passing over a long space of time we come to our next illustration, the
-Apollo Belvedere ([Fig. 6](#img_fig06)).
+Apollo Belvedere ([Fig. 6](#img_fig06).md).
 
 It might seem that here at last we have nothing primitive; here we have
 art pure and simple, ideal art utterly cut loose from ritual, "art for
@@ -319,7 +319,7 @@ about to fly rather than to run.
 <span id="img_fig06"></span>
 
 [![THE APOLLO BELVEDERE&lt;br&gt; FIG. 6.](tn/fig06.jpg)  
-Click to enlarge](img/fig06.jpg)  
+Click to enlarge](img/fig06.jpg.md)  
 THE APOLLO BELVEDERE  
 FIG. 6.  
 
@@ -373,7 +373,7 @@ of a rite,
 <span id="page_187">p. 187</span>
 
 a rite of Laurel-Bearing--a *Daphnephoria*. We have not got clear of
-ritual yet. When Pausanias, <span id="fr_44"></span>[1](#fn_44) the
+ritual yet. When Pausanias, <span id="fr_44"></span>[1](#fn_44.md) the
 ancient traveller, whose notebook is our chief source about these early
 festivals, came to Thebes he saw a hill sacred to Apollo, and after
 describing the temple on the hill he says:
@@ -389,7 +389,7 @@ Kings of the Year, the Spirits of the Year, May-Kings,
 Jacks-o’-the-Green. The name given to the boy is enough to show he
 carried a laurel branch, though Pausanias only mentions a wreath.
 Another ancient writer gives us more details. <span
-id="fr_45"></span>[2](#fn_45) He says in describing the festival of the
+id="fr_45"></span>[2](#fn_45.md) He says in describing the festival of the
 Laurel-Bearing:
 
 "They wreathe a pole of olive wood with laurel and various flowers. On
@@ -459,7 +459,7 @@ re-born.
 Apollo then, was, like Dionysos, King of the May and--saving his
 presence--Jack-in-the-Green. The god manifestly arose out of the rite.
 For a moment let us see *how* he arose. It will be remembered that in a
-previous chapter ([p. 70](aar05.htm#page_70)) we spoke of
+previous chapter ([p. 70](aar05.htm#page_70).md) we spoke of
 "personification."
 
 <span id="page_191">p. 191</span>
@@ -468,7 +468,7 @@ We think of the god Apollo as an abstraction, an unreal thing, perhaps
 as a "false god." The god Apollo does not, and never did, exist. He is
 an idea--a thing made by the imagination. But primitive man does not
 deal with abstractions, does not worship them. What happens is, as we
-saw ([p. 71](aar05.htm#page_71)), something like this: Year by year a
+saw ([p. 71](aar05.htm#page_71).md), something like this: Year by year a
 boy is chosen to carry the laurel, to bring in the May, and later year
 by year a puppet is made. It is a different boy each year, carrying a
 different laurel branch. And yet in a sense it is the same boy; he is
@@ -495,7 +495,7 @@ We see now why in the history of all ages and every place art is what is
 called the "hand-maid of religion." She is not really the "handmaid" at
 all. She springs straight out of the rite, and her first outward leap is
 the image of the god. Primitive art in Greece, in Egypt, in
-Assyria, <span id="fr_46"></span>[1](#fn_46) represents either rites,
+Assyria, <span id="fr_46"></span>[1](#fn_46.md) represents either rites,
 processions, sacrifices, magical ceremonies, embodied prayers; or else
 it represents the images of the gods who spring from those rites. Track
 any god right home, and you will find him lurking in a ritual sheath,
@@ -545,7 +545,7 @@ But to the Greek the god and the dance were never quite sundered. It
 almost seems as if in the minds of Greek poets and philosophers there
 lingered some dim half-conscious remembrance that some of these gods at
 least actually came out of the ritual dance. Thus, Plato, <span
-id="fr_47"></span>[1](#fn_47) in treating of the importance of rhythm in
+id="fr_47"></span>[1](#fn_47.md) in treating of the importance of rhythm in
 education says: "The gods, pitying the toilsome race of men, have
 appointed the sequence of religious festivals to give them times of
 rest, and have given them the Muses and Apollo, the Muse-Leader, as
@@ -590,14 +590,14 @@ told to give a cause or reason. The whole natural process is inverted.
 And last, as already seen, the god, the first work of art, the thing
 unseen, imagined out of the ritual of the dance, is cast back into the
 visible world and fixed in space. Can we wonder that a classical
-writer <span id="fr_48"></span>[1](#fn_48) should say "the statues of
+writer <span id="fr_48"></span>[1](#fn_48.md) should say "the statues of
 the craftsmen of old times are the relics of ancient dancing." That is
 just what they are, rites caught and fixed and frozen. "Drawing," says a
 modern
 
 <span id="page_197">p. 197</span>
 
-critic, <span id="fr_49"></span>[1](#fn_49) "is at bottom, like all the
+critic, <span id="fr_49"></span>[1](#fn_49.md) "is at bottom, like all the
 arts, a kind of gesture, a method of dancing on paper." Sculpture,
 drawing, all the arts save music are imitative; so was the dance from
 which they sprang. But imitation is not all, or even first. "The dance
@@ -671,7 +671,7 @@ is in a moral without a creed, tension or ambush of the dark, threat of
 ominous gloom, the relenting and tender return or overwhelming outburst
 of light, the pageantry of clouds above a world turned quaker, the
 monstrous weeds of trees outside the town, the sea that is obstinately
-epic still." <span id="fr_50"></span>[1](#fn_50)
+epic still." <span id="fr_50"></span>[1](#fn_50.md)
 
  
 
@@ -705,7 +705,7 @@ whose name is not on the bills. They come to warn us by the nervous
 check and hurry of their gossip of the approach of that background
 power. Omen after omen announces him, the talk starts and drops at his
 approach, a door shuts and the thrill of his passage is the play." <span
-id="fr_51"></span>[1](#fn_51)
+id="fr_51"></span>[1](#fn_51.md)
 
 <span id="page_202">p. 202</span>
 
@@ -726,7 +726,7 @@ itself, but all the natural background and setting of life. The statues
 of the Greek gods are Olympian in spirit as well as subject. They are
 like the gods of Epicurus, cut loose alike from the affairs of men, and
 even the ordered ways of Nature. So Lucretius <span
-id="fr_52"></span>[1](#fn_52) pictures them:
+id="fr_52"></span>[1](#fn_52.md) pictures them:
 
 <span id="page_203">p. 203</span>
 
@@ -751,17 +751,17 @@ spectral.
 
 ### Footnotes
 
-<span id="fn_42"></span>[178:1](aar08.htm#fr_42) II, 38.
+<span id="fn_42"></span>[178:1](aar08.htm#fr_42.md) II, 38.
 
-<span id="fn_43"></span>[181:1](aar08.htm#fr_43) *Oed. Col.* 694, trans.
+<span id="fn_43"></span>[181:1](aar08.htm#fr_43.md) *Oed. Col.* 694, trans.
 D. S. MacColl.
 
-<span id="fn_44"></span>[187:1](aar08.htm#fr_44) IX, 10, 4.
+<span id="fn_44"></span>[187:1](aar08.htm#fr_44.md) IX, 10, 4.
 
-<span id="fn_45"></span>[187:2](aar08.htm#fr_45) See my *Themis*, p.
+<span id="fn_45"></span>[187:2](aar08.htm#fr_45.md) See my *Themis*, p.
 438.
 
-<span id="fn_46"></span>[192:1](aar08.htm#fr_46) It is now held by some
+<span id="fn_46"></span>[192:1](aar08.htm#fr_46.md) It is now held by some
 and good authorities that the prehistoric paintings of cave-dwelling man
 had also a ritual origin; that is, that the representations of animals
 were intended to act magically, to increase the "supply of the animal or
@@ -769,22 +769,22 @@ help the hunter to catch him." But, as this question is still pending, I
 prefer, tempting though they are, not to use prehistoric paintings as
 material for my argument.
 
-<span id="fn_47"></span>[194:1](aar08.htm#fr_47) *Laws*, 653.
+<span id="fn_47"></span>[194:1](aar08.htm#fr_47.md) *Laws*, 653.
 
-<span id="fn_48"></span>[196:1](aar08.htm#fr_48) *Athen*. XIV, 26, p.
+<span id="fn_48"></span>[196:1](aar08.htm#fr_48.md) *Athen*. XIV, 26, p.
 629.
 
-<span id="fn_49"></span>[197:1](aar08.htm#fr_49) D. S. MacColl, "A Year
+<span id="fn_49"></span>[197:1](aar08.htm#fr_49.md) D. S. MacColl, "A Year
 of Post-Impressionism" *Nineteenth Century*, p. 29. (1912.)
 
-<span id="fn_50"></span>[200:1](aar08.htm#fr_50) D. S. MacColl,
+<span id="fn_50"></span>[200:1](aar08.htm#fr_50.md) D. S. MacColl,
 *Nineteenth Century Art*, p. 20. (1902.)
 
-<span id="fn_51"></span>[201:1](aar08.htm#fr_51) D. S. MacColl, *op.
+<span id="fn_51"></span>[201:1](aar08.htm#fr_51.md) D. S. MacColl, *op.
 cit.*, p. 18.
 
-<span id="fn_52"></span>[202:1](aar08.htm#fr_52) II, 18.
+<span id="fn_52"></span>[202:1](aar08.htm#fr_52.md) II, 18.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Ritual, Art and Life](aar09)
+[Next: Chapter VII. Ritual, Art and Life](aar09.md)

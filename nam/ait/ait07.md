@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait06)  [Next](ait08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait06)  [Next](ait08.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ id="page_29">p. 29</span>
 
 |                     |
 |---------------------|
-| ![O](img/02900.jpg) |
+| ![O](img/02900.jpg.md) |
 
 NCE upon a time the Indians owned all the land around the Big Sea Water.
 The Good Spirit had smoked the pipe of peace at the Red-stone quarry and
@@ -65,7 +65,7 @@ was in the sandstone caverns, but it had never been seen to alight.
 <span id="img_03100"></span>
 
 [![“Pounced upon him, and lifted him into the air.”](tn/03100.jpg)  
-Click to enlarge](img/03100.jpg)  
+Click to enlarge](img/03100.jpg.md)  
 “Pounced upon him, and lifted him into the air.”  
 
 One day in the winter, Mad Buffalo set out in search of food for his
@@ -199,4 +199,4 @@ deed of Mad Buffalo.
 
 ------------------------------------------------------------------------
 
-[Next: The Red Swan](ait08)
+[Next: The Red Swan](ait08.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg12) [Next](aflg14)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg12) [Next](aflg14.md)
 
 ------------------------------------------------------------------------
 
@@ -8,26 +8,26 @@ American](../index) [Index](index) [Previous](aflg12) [Next](aflg14)
 ## C<span class="small">HAPTER</span> XIII THE SPIRITS OF THE SKY
 
    <span class="small">The Sun, male: Greeted of a morning
-(*[195](#pp_195)*); eclipsed (*[196](#pp_196)*); origin of his warmth
-and heat (*[197](#pp_197)*). The Moon, also male: Cause of the "spots"
-(*[198](#pp_198)*); beliefs concerning the "new" moon
-(*[199](#pp_199)*); when eclipsed, a transformation of animals occurs
-(*[200](#pp_200)*); causes of eclipse (*[201](#pp_201)-202*). Comets
-(*[203](#pp_203)*). Stars: Morning and Evening, etc. (*[204](#pp_204)*);
-the Milky Way (*[205](#pp_205)*); Southern Cross (*[206](#pp_206)*);
-Babracote and Camudi (*[207](#pp_207)*); Pleiades—their story told by
-Arawaks (*[208](#pp_208)*), Akawais (*[209](#pp_209)*), Warraus
-(*[210](#pp_210)*), Caribs (*[211](#pp_211)*); Orion's Belt
-(*[211A](#pp_211A)*). Other Sky Spirits derived from man
-(*[212](#pp_212)*). The Woman of the Dawn (*[212A](#pp_212A)*). Rain:
-Can be made as required (*[213](#pp_213)*); punishment for infringement
-of taboo (*[214](#pp_214)*); can be stopped (*[215](#pp_215)*); Rainbow
-(*[216](#pp_216)*). Weather-forecasting (*[217](#pp_217)*). Thunder and
-Thunderbolts (*[218](#pp_218)*). Storms generally
-(*[219](#pp_219)*).</span>
+(*[195](#pp_195)*); eclipsed (*[196](#pp_196)*.md); origin of his warmth
+and heat (*[197](#pp_197)*.md). The Moon, also male: Cause of the "spots"
+(*[198](#pp_198)*.md); beliefs concerning the "new" moon
+(*[199](#pp_199)*.md); when eclipsed, a transformation of animals occurs
+(*[200](#pp_200)*); causes of eclipse (*[201](#pp_201)-202*.md). Comets
+(*[203](#pp_203)*). Stars: Morning and Evening, etc. (*[204](#pp_204)*.md);
+the Milky Way (*[205](#pp_205)*); Southern Cross (*[206](#pp_206)*.md);
+Babracote and Camudi (*[207](#pp_207)*.md); Pleiades—their story told by
+Arawaks (*[208](#pp_208)*), Akawais (*[209](#pp_209)*.md), Warraus
+(*[210](#pp_210)*), Caribs (*[211](#pp_211)*.md); Orion's Belt
+(*[211A](#pp_211A)*.md). Other Sky Spirits derived from man
+(*[212](#pp_212)*). The Woman of the Dawn (*[212A](#pp_212A)*.md). Rain:
+Can be made as required (*[213](#pp_213)*.md); punishment for infringement
+of taboo (*[214](#pp_214)*); can be stopped (*[215](#pp_215)*.md); Rainbow
+(*[216](#pp_216)*). Weather-forecasting (*[217](#pp_217)*.md). Thunder and
+Thunderbolts (*[218](#pp_218)*.md). Storms generally
+(*[219](#pp_219)*.md).</span>
 
-   <span id="pp_195"></span>**195.**[\*](#pp_195) The Sun seems to have
-been regarded invariably as a male ([Sect. *29*](aflg02.htm#pp_29)): The
+   <span id="pp_195"></span>**195.**[\*](#pp_195.md) The Sun seems to have
+been regarded invariably as a male ([Sect. *29*](aflg02.htm#pp_29).md): The
 Salibas of the Orinoco—certainly a section of the tribe—claimed to be
 his children (G, <span class="small">I</span>, 113). At Enamouta
 Village, on a branch of the Ireng, it would appear to be the usual
@@ -49,17 +49,17 @@ his barbarous music (Cou, <span class="small">II</span>, 268). With the
 Island Caribs the flute is ordinarily played in the morning when they
 rise (RoP, 509).
 
-   <span id="pp_196"></span>**196.**[\*](#pp_196) It is said by im Thurn
+   <span id="pp_196"></span>**196.**[\*](#pp_196.md) It is said by im Thurn
 that on one occasion, during an eclipse of the sun, the Arawak men among
 whom he happened to be rushed from their houses with loud shouts and
 yells: they explained that a fight was going on between the Sun and the
 Moon, and they shouted to frighten and so part the combatants (IT, 364).
 Brett speaks of Oroan,<span
-id="page_254_fr_1"></span>[1](#page_254_note_1) the great Demon of
+id="page_254_fr_1"></span>[1](#page_254_note_1.md) the great Demon of
 Darkness, who causes eclipses; he seizes <span id="page_255">p.
 255</span> the Sun and strives to quench the fire, till scorched and
 blackened, he retires, only to return another time ([BrB,
-189](../lmbg/lmbg5b.htm#page_189)). In Cayenne, eclipses of the Sun and
+189](../lmbg/lmbg5b.htm#page_189).md). In Cayenne, eclipses of the Sun and
 Moon upset the Indians a good deal: they think some frightful monster
 has come to "devour these heavenly bodies. If the eclipse is total or of
 short duration, they consider it a fatal thing for them: they make a
@@ -74,9 +74,9 @@ Stars, being no longer warmed by the Sun's rays and light, are very ill"
  
 
 <span id="story_89"></span><span
-id="pp_197"></span>**197.**[\*](#pp_197) T<span class="small">HE</span>
+id="pp_197"></span>**197.**[\*](#pp_197.md) T<span class="small">HE</span>
 S<span class="small">TORY OF</span> O<span class="small">KOÓ-HI</span>
-(W)<span id="page_255_fr_1"></span>[1](#page_255_note_1)
+(W)<span id="page_255_fr_1"></span>[1](#page_255_note_1.md)
 
 >    Waiamari was the name of a young fellow staying at the house of his
 > uncle. One day he went down to the water-side to bathe. When in the
@@ -105,14 +105,14 @@ S<span class="small">TORY OF</span> O<span class="small">KOÓ-HI</span>
 > \[canoe\], as he proposed leaving next morning. So Waiamari went down
 > to the water-side and painted the sign of the Sun on the bows of the
 > boat, while at the stern he painted a man and a moon.<span
-> id="page_255_fr_2"></span>[2](#page_255_note_2) Next morning the two
+> id="page_255_fr_2"></span>[2](#page_255_note_2.md) Next morning the two
 > got away, the nephew paddling in the bow and the uncle steering: it
 > was a big sea that they were crossing, and as the paddle-blades swept
 > along one could hear the water singing *Wau-u! Wau-u! Wau-u!*<span
-> id="page_255_fr_3"></span>[3](#page_255_note_3) At last they crossed
+> id="page_255_fr_3"></span>[3](#page_255_note_3.md) At last they crossed
 > this big sea and reached the opposite shore, where they landed, and
 > then they went up to a house near by, where they met a pretty woman,
-> Assawako.<span id="page_255_fr_4"></span>[4](#page_255_note_4) After
+> Assawako.<span id="page_255_fr_4"></span>[4](#page_255_note_4.md) After
 > greeting Okohi, and telling him to be seated, she asked him to let his
 > nephew accompany her to the field, and, this permission being granted,
 > the young couple started off. When they reached there Assawako told
@@ -123,15 +123,15 @@ S<span class="small">TORY OF</span> O<span class="small">KOÓ-HI</span>
 > way back, she asked him whether he was a good hunter: he said never a
 > word but stepped aside into the bush, and soon rejoined her with a
 > quakeful of armadillo flesh. She was indeed proud of him, and resumed
-> her place behind.<span id="page_256_fr_1"></span>[1](#page_256_note_1)
+> her place behind.<span id="page_256_fr_1"></span>[1](#page_256_note_1.md)
 > Just before reaching home, she said: "We are going to have drink when
 > we get in. Can you play the *kahabassa*?"<span
-> id="page_256_fr_2"></span>[2](#page_256_note_2) "Yes, I can play it a
+> id="page_256_fr_2"></span>[2](#page_256_note_2.md) "Yes, I can play it a
 > little," was the reply. When they got back to her place Assawako gave
 > him a whole jugful of drink all for himself, and this primed him for
 > playing the music; and he played beautifully, making the kahabassa
 > sing *Waru-huru-téa*.<span
-> id="page_256_fr_3"></span>[3](#page_256_note_3) They sported all
+> id="page_256_fr_3"></span>[3](#page_256_note_3.md) They sported all
 > night, and next morning Okohi made ready to leave. Of course poor
 > Assawako wanted Waiamari to remain with her, but he said: "No! I can
 > not leave my uncle. He has been good to me, and he is an old man now."
@@ -148,7 +148,7 @@ S<span class="small">TORY OF</span> O<span class="small">KOÓ-HI</span>
 > but I am old now, and this is my last journey." So saying, his head
 > "burst," and out of it there came the Sun's warmth and heat.
 
-   <span id="pp_198"></span>**198.**[\*](#pp_198) The Moon also is
+   <span id="pp_198"></span>**198.**[\*](#pp_198.md) The Moon also is
 clothed with male attributes, and among the tribes here dealt with, as
 is the case with many another savage race, is held responsible for
 certain conditions met with during the child-bearing period of woman's
@@ -157,7 +157,7 @@ Warraus:
 
  
 
-<span id="story_90"></span>[\*](#story_90)H<span class="small">OW
+<span id="story_90"></span>[\*](#story_90.md)H<span class="small">OW
 THE</span> M<span class="small">OON</span> G<span class="small">OT
 HIS</span> D<span class="small">IRTY</span> F<span
 class="small">ACE</span>
@@ -169,7 +169,7 @@ class="small">ACE</span>
 > never find out. She therefore blackened her hands one day with the
 > soot from the bottom of the pepper-pot, and when her lover came that
 > evening, she smeared her hands over his face.<span
-> id="page_256_fr_4"></span>[4](#page_256_note_4) When day dawned she
+> id="page_256_fr_4"></span>[4](#page_256_note_4.md) When day dawned she
 > thus came learn that it was her own brother who had taken advantage of
 > her. She was extremly angry, abused him roundly, and told the
 > neighbors, who in turn spread the story of his conduct far and wide.
@@ -182,13 +182,13 @@ class="small">ACE</span>
 > the wane, there will always be found somewhere a female who is in such
 > a physiological condition as will preclude all possibility of the moon
 > wishing to pay her a visit.<span
-> id="page_256_fr_5"></span>[5](#page_256_note_5)
+> id="page_256_fr_5"></span>[5](#page_256_note_5.md)
 
 <span id="page_257">p. 257</span>
 
-   <span id="pp_199"></span>**199.**[\*](#pp_199) A peculiar custom
+   <span id="pp_199"></span>**199.**[\*](#pp_199.md) A peculiar custom
 among the Makusis, practised as soon as the new moon is visible ([Sect.
-*227*](aflg14.htm#pp_227)), is that of all the men standing before the
+*227*](aflg14.htm#pp_227).md), is that of all the men standing before the
 doors of their huts, and drawing their arms backward and forward in its
 direction at short intervals: by this means they are strengthened for
 the chase (ScR, <span class="small">II</span>, 328). "As soon as the new
@@ -199,9 +199,9 @@ while looking at the moon. This is very good for the sight" (BBR, 228).
 The first night of the incoming moon was considered the proper occasion
 for obtaining clay for the manufacture of pots and other utensils which,
 it was believed, would not speedily be broken ([Sect.
-*258*](aflg15.htm#pp_258)).
+*258*](aflg15.htm#pp_258).md).
 
-   <span id="pp_200"></span>**200.**[\*](#pp_200) With regard to the
+   <span id="pp_200"></span>**200.**[\*](#pp_200.md) With regard to the
 explanations given as to the nature of the eclipse of the moon, I have
 obtained the following at first-hand from the Pomeroon Arawaks. The
 phenomenon is due to its traveling along the Sun's path, falling asleep,
@@ -211,7 +211,7 @@ shells, and make a big noise generally, whenever the eclipse takes
 place. They must also keep themselves lively and active, and during the
 whole night must eat absolutely nothing; were they to break the fast,
 they would change into whatever animal or plant they might be eating
-([Sect. *248*](aflg15.htm#pp_248)). Indeed, it is a common belief among
+([Sect. *248*](aflg15.htm#pp_248).md). Indeed, it is a common belief among
 these people that, at the time of an eclipse, there is a constant change
 or transformation-scene taking place on Nature's stage, in both animal
 and vegetable kingdoms, owing to this cause. The transformation is not
@@ -222,7 +222,7 @@ on the second, at the time of an eclipse, he finds the snake changed
 into a tapir; and on the third he sees it swimming in the water as a
 manati.
 
-   <span id="pp_201"></span>**201.**[\*](#pp_201) As to the Orinoco
+   <span id="pp_201"></span>**201.**[\*](#pp_201.md) As to the Orinoco
 Indian tribes, Gumilla has left us some very interesting records
 concerning the eclipse of the moon. Some of these nations believed that
 it was about to die: others that it was angry with them, and that it
@@ -277,18 +277,18 @@ clear as before—for doing which they earn their husbands' gratitude.
 According to their idea it is the female voices that move the Moon to
 take compassion on them, and save them from extinction.
 
-   <span id="pp_202"></span>**202.**[\*](#pp_202) The Uaupes River (Rio
+   <span id="pp_202"></span>**202.**[\*](#pp_202.md) The Uaupes River (Rio
 Negro) Indians believe that at an eclipse, Jurupari ([Sect.
-*101*](aflg08.htm#pp_101)) is killing the Moon; they make all the noise
+*101*](aflg08.htm#pp_101).md) is killing the Moon; they make all the noise
 they can to frighten him away (ARW, 348). So again, the Island Caribs
-say that Maboya ([Sect. *84*](aflg05.htm#pp_84)) is eating the Moon on
+say that Maboya ([Sect. *84*](aflg05.htm#pp_84).md) is eating the Moon on
 such an occasion: they dance all night, and rattle their calabashes with
 <span id="page_259">p. 259</span> little pebbles inside (RoP, 461).
 Schomburgk points out the curious fact that the Taruma word for a moon
 eclipse is *piwa-toto*, the literal translation of which is 'Moon-Earth'
 (ScR, <span class="small">II</span>, 469).
 
-   <span id="pp_203"></span>**203.**[\*](#pp_203) Any reference to
+   <span id="pp_203"></span>**203.**[\*](#pp_203.md) Any reference to
 comets in the Indian literature is extremely scarce. With regard to the
 one that was seen by Schomburgk in the early forties, the Arekunas and
 Makusis regarded it as a sign of pestilence, famine, and disaster. One
@@ -305,14 +305,14 @@ furnish concerning it. Among the Island Caribs, Limacani is a comet sent
 by Coualina, the "boss" of the Chemeens \[i. e., Familiar Spirits\] to
 cause evil when he is vexed (BBR, 231).
 
-   <span id="pp_203A"></span>**203A.**[\*](#pp_203A) In the Makusi
+   <span id="pp_203A"></span>**203A.**[\*](#pp_203A.md) In the Makusi
 legend of Murapa-yeng (lit. Bat Mountain, one of the Pakaraima Range)
 the phenomenon is ascribed to an old woman carrying a fire-stick under
 somewhat pathetic circumstances: Schomburgk tells the story.
 
  
 
-<span id="story_91"></span>[\*](#story_91)T<span class="small">HE</span>
+<span id="story_91"></span>[\*](#story_91.md)T<span class="small">HE</span>
 L<span class="small">EGEND OF</span> B<span class="small">AT</span>
 M<span class="small">OUNTAIN</span>
 
@@ -347,7 +347,7 @@ M<span class="small">OUNTAIN</span>
 
 <span id="page_260">p. 260</span>
 
-   <span id="pp_204"></span>**204.**[\*](#pp_204) Arawaks, Warraus, in
+   <span id="pp_204"></span>**204.**[\*](#pp_204.md) Arawaks, Warraus, in
 fact all the Indian tribes of whom we have reliable accounts, possess
 myths and legends indicative of more or less animistic conception of the
 stars and constellations.
@@ -360,7 +360,7 @@ on the other hand, gives the Arawak name for Venus as Warakoma
 e. the star of brightness). The Warraus here on the Pomeroon call the
 Morning Star Okona-kura. She it was who stuck in the hole when her
 people first came down from above the skies to populate the earth
-([Sect. *51*](aflg04.htm#pp_51)). The Makusis speak of the Evening Star
+([Sect. *51*](aflg04.htm#pp_51).md). The Makusis speak of the Evening Star
 as Kai-wono, wife of the Moon, because she is to be seen in his near
 neighborhood, and also on account of her shining more brightly than all
 the other stars (ScR, <span class="small">II</span>, 328). According to
@@ -383,7 +383,7 @@ star, causes light rain and strong winds. Couroumon (a Carib), also a
 star, causes the heavy sea waves, and upsets canoes; he is also the
 cause of flood and ebb." (BBR, 229.)
 
-   <span id="pp_205"></span>**205.**[\*](#pp_205) Arawaks speak of the
+   <span id="pp_205"></span>**205.**[\*](#pp_205.md) Arawaks speak of the
 Milky Way under two names, one of which signifies the Path of the
 Maipuri (Tapir), and the other is the Path of the Bearers of Wai-é, a
 species of white clay of which their vessels are made. The nebulous
@@ -398,7 +398,7 @@ also to the sea.
 
 <span id="page_261">p. 261</span>
 
-   <span id="pp_206"></span>**206.**[\*](#pp_206) With regard to the
+   <span id="pp_206"></span>**206.**[\*](#pp_206.md) With regard to the
 Southern Cross, Dance talks of it as being the great White Crane, and
 gives a legend relative to it (Da, 296). Arawaks and Warraus, however,
 have told me that this represents the powis (*Crax* sp.), the nearer
@@ -407,10 +407,10 @@ farther one indicating his companion with a fire-stick running up
 behind. This constellation serves also as an indication for the hunting
 of the bird, Schomburgk recording (ScT, 23) how, when the Cross stands
 erect, the powis commences its low moan ([Sect.
-*98*](aflg08.htm#pp_98)). The Makusis apparently regard the Southern
+*98*](aflg08.htm#pp_98).md). The Makusis apparently regard the Southern
 Cross as the home of the Spirit of this bird.
 
-   <span id="pp_207"></span>**207.**[\*](#pp_207) There are two groups
+   <span id="pp_207"></span>**207.**[\*](#pp_207.md) There are two groups
 of stars described by the Arawaks and certain of the Warraus, as the
 Babracote and the Camudi: four bright stars (Pegasus) with four
 imaginary connecting lines constitute the square frame of the former,
@@ -419,7 +419,7 @@ Arawak story:
 
  
 
-<span id="story_92"></span>[\*](#story_92)T<span class="small">HE</span>
+<span id="story_92"></span>[\*](#story_92.md)T<span class="small">HE</span>
 B<span class="small">ABRACOTE AND</span> C<span
 class="small">AMUDI</span> (A)
 
@@ -473,7 +473,7 @@ class="small">AMUDI</span> (A)
 > out the camudi with its swollen belly, due to the younger brother
 > being inside.
 
-   <span id="pp_208"></span>**208.**[\*](#pp_208) The Pleiades, the
+   <span id="pp_208"></span>**208.**[\*](#pp_208.md) The Pleiades, the
 Seven Stars, bore a very important rôle in the daily life of the Guiana
 Indians in that, among several other reasons, their rising from the east
 marked the commencement of their new year: this measurement of time was
@@ -489,13 +489,13 @@ stepmother, whom he loved, cut off one of his own legs, and wrapping it
 up in leaves, presented it to her as veritable game; and then ascended
 into the heavens as Mabukuli (Ibbeh-pughn) or one-legged."
 
-   <span id="pp_209"></span>**209.**[\*](#pp_209) The Legend of the
+   <span id="pp_209"></span>**209.**[\*](#pp_209.md) The Legend of the
 Tumong, or Seven Stars, as told by Dance (296), apparently from Akawai
 sources, is this:
 
  
 
-<span id="story_93"></span>[\*](#story_93)T<span class="small">HE</span>
+<span id="story_93"></span>[\*](#story_93.md)T<span class="small">HE</span>
 L<span class="small">EGEND OF THE</span> S<span
 class="small">EVEN</span> S<span class="small">TARS</span>
 
@@ -535,10 +535,10 @@ class="small">EVEN</span> S<span class="small">TARS</span>
  
 
 <span id="story_94"></span><span
-id="pp_210"></span>**210.**[\*](#pp_210) T<span class="small">HE</span>
+id="pp_210"></span>**210.**[\*](#pp_210.md) T<span class="small">HE</span>
 S<span class="small">TORY OF</span> N<span
 class="small">OHI-ABASSI</span> (W)<span
-id="page_263_fr_1"></span>[1](#page_263_note_1)
+id="page_263_fr_1"></span>[1](#page_263_note_1.md)
 
 >    There were once two brothers: the elder, a celebrated hunter, was
 > called Nohi-abassi; I do not know the name of the younger one. Every
@@ -549,7 +549,7 @@ id="page_263_fr_1"></span>[1](#page_263_note_1)
 > the tree and noticed that every time she put her hand into the water
 > she drew out two fish: one of these fish she put into her mouth; the
 > other she put into her basket. She was a very big woman, Nahakoboni by
-> name.<span id="page_263_fr_2"></span>[2](#page_263_note_2) She was
+> name.<span id="page_263_fr_2"></span>[2](#page_263_note_2.md) She was
 > carrying a calabash upside down, like a cap, upon her head, and would
 > every now and again toss it into the water; as she jerked it in, she
 > made it swirl round and round like a top, and there she would stand a
@@ -588,7 +588,7 @@ id="page_263_fr_1"></span>[1](#page_263_note_1)
 > the sound and looking up, recognized not only him who was just over
 > her head, but also Nohi-abassi, who was on the other tree some few
 > yards distant. Furious at being ridiculed \[see Sects.
-> [*59*](aflg04.htm#pp_59), [*125*](aflg08.htm#pp_125)\], she ordered
+> [*59*](aflg04.htm#pp_59), [*125*](aflg08.htm#pp_125.md)\], she ordered
 > the former to come down, but he would not. So she sent the "yackman"
 > ants \[*Eciton* sp.\] up the tree; and when they reached him, they bit
 > him, and stung him so hard that he had to pitch himself into the
@@ -637,11 +637,11 @@ id="page_263_fr_1"></span>[1](#page_263_note_1)
 > told his wife as usual to inform her mother that he had brought home a
 > load of fish in the corial, and that she must go down to the
 > water-side for it.<span
-> id="page_264_fr_1"></span>[1](#page_264_note_1) So old Nahakoboni went
+> id="page_264_fr_1"></span>[1](#page_264_note_1.md) So old Nahakoboni went
 > down the pathway, reached the creek, and went into the water to haul
 > in the corial with the load of fish, but as soon as she reached the
 > deep part of the stream, the shark seized and devoured her.<span
-> id="page_264_fr_2"></span>[2](#page_264_note_2) In the meantime, our
+> id="page_264_fr_2"></span>[2](#page_264_note_2.md) In the meantime, our
 > hero and the younger daughter made preparation for their journey, but
 > the elder one, beginning to feel anxious about her mother staying away
 > so long, went down to the water-side to seek the cause, which she was
@@ -660,7 +660,7 @@ id="page_263_fr_1"></span>[1](#page_263_note_1)
 > managed to cut off a portion of his leg, which stuck upon one of the
 > branches. This leg makes a noise like the "maam"—it is in fact the
 > mother or spirit of the maam \[*Tinamus* sp.\] \[[Sect.
-> *98*](aflg08.htm#pp_98)\] and when people are out shooting this bird,
+> *98*](aflg08.htm#pp_98.md)\] and when people are out shooting this bird,
 > it is this same leg which occasionlly falls down and kills the
 > hunters. We can still see Nohi-abassi's wife climbing the <span
 > id="page_265">p. 265</span> tree: she is what we call Kura Moku-moku
@@ -668,15 +668,15 @@ id="page_263_fr_1"></span>[1](#page_263_note_1)
 > himself \[the Hyades\], and farther back is his cut-off leg \[Orion's
 > Belt\].
 
-   <span id="pp_211"></span>**211.**[\*](#pp_211) Brett's account ([BrB,
-191](../lmbg/lmbg5b.htm#page_191)) is of interest in comparison with the
+   <span id="pp_211"></span>**211.**[\*](#pp_211.md) Brett's account ([BrB,
+191](../lmbg/lmbg5b.htm#page_191).md) is of interest in comparison with the
 Warrau story, and I accordingly adapt it here from the metrical version.
 Before doing so, however, I can but express the probability that the
 idea of making Aldebaran (the Bull's-eye in our constellation Taurus)
 the organ of vision for the Tapir—making, in fact, the Tapir correspond
 with the Bull—is the result of contact with African or European
 influences. Brett calls the myth the Legend of Sirikoai, and from
-internal evidence (cf. [Sect. *38*](aflg02.htm#pp_28)) I am inclined to
+internal evidence (cf. [Sect. *38*](aflg02.htm#pp_28).md) I am inclined to
 think that he must have received it from Carib sources. Sirikio is the
 Carib name for a star, Wailya for a watchman, and Wawa (cf. Wawaiya) for
 a sister or a wife: on the other hand, Sahtai is the Akawai name for an
@@ -684,7 +684,7 @@ ax.
 
  
 
-<span id="story_95"></span>[\*](#story_95)T<span class="small">HE</span>
+<span id="story_95"></span>[\*](#story_95.md)T<span class="small">HE</span>
 L<span class="small">EGEND OF</span> S<span class="small">ERIKOAI</span>
 
 >    Wawaiya, the lately-made bride of Serikoai, was one day off to her
@@ -733,31 +733,31 @@ L<span class="small">EGEND OF</span> S<span class="small">ERIKOAI</span>
 > indicating the upper part of the sound limb\] farther back—all three
 > in pursuit.
 
-   <span id="pp_211A"></span>**211A.**[\*](#pp_211A) Orion's Belt is
-part of the leg of a woman ([Sect. *98*](aflg08.htm#pp_98))—of Mabukuli
-([Sect. *208*](aflg13.htm#pp_208)), of Nohi-abassi ([Sect.
-*210*](aflg13.htm#pp_210)), of Makunaima ([Sect.
-*38*](aflg02.htm#pp_38))—and the arm of the murdered husband ([Sect.
-*209*](aflg13.htm#pp_209)).
+   <span id="pp_211A"></span>**211A.**[\*](#pp_211A.md) Orion's Belt is
+part of the leg of a woman ([Sect. *98*](aflg08.htm#pp_98).md)—of Mabukuli
+([Sect. *208*](aflg13.htm#pp_208).md), of Nohi-abassi ([Sect.
+*210*](aflg13.htm#pp_210).md), of Makunaima ([Sect.
+*38*](aflg02.htm#pp_38).md)—and the arm of the murdered husband ([Sect.
+*209*](aflg13.htm#pp_209).md).
 
-   <span id="pp_212"></span>**212.**[\*](#pp_212) As has been already
+   <span id="pp_212"></span>**212.**[\*](#pp_212.md) As has been already
 mentioned, the Spirits of people departed may wander upward to join
-other Spirits in Sky-land ([Sect. *81*](aflg05.htm#pp_81)). Some of
+other Spirits in Sky-land ([Sect. *81*](aflg05.htm#pp_81).md). Some of
 these may pass their existence happily, and harm no one, or in the
-course of their transformation ([Sect. *69*](aflg05.htm#pp_69)) they may
+course of their transformation ([Sect. *69*](aflg05.htm#pp_69).md) they may
 become changed into birds—perhaps into birds of ill omen sometimes—and
 so have their place in the heavens. Again, the Spirits of good
 medicine-men travel upward to Cloud-land, and may be invoked by their
 surviving professional brethren with the aid of the rattle and tobacco
-([Sect. *309*](aflg17.htm#pp_309)). There are a few other Spirits of the
+([Sect. *309*](aflg17.htm#pp_309).md). There are a few other Spirits of the
 Sky who are essentially bad-minded in the sense of bringing sickness
 into the world: these also are referred to elsewhere ([Sect.
-*309*](aflg17.htm#pp_309)).
+*309*](aflg17.htm#pp_309).md).
 
  
 
 <span id="story_96"></span><span
-id="pp_212A"></span>**212A.**[\*](#pp_212A) T<span
+id="pp_212A"></span>**212A.**[\*](#pp_212A.md) T<span
 class="small">HE</span> W<span class="small">OMAN OF THE</span> D<span
 class="small">AWN</span> (W)
 
@@ -786,8 +786,8 @@ class="small">AWN</span> (W)
 > she wants," And when he asked her what she wanted, She told him how
 > her father had sent her to fetch some daylight. \[Extrahens suum
 > clavem, incepit arcam intrare\], but the key<span
-> id="page_266_fr_1"></span>[1](#page_266_note_1) would not fit, the
-> lock<span id="page_266_fr_1"></span>[1](#page_266_note_1) having been
+> id="page_266_fr_1"></span>[1](#page_266_note_1.md) would not fit, the
+> lock<span id="page_266_fr_1"></span>[1](#page_266_note_1.md) having been
 > tampered with, and he therefore sent her home again. When she got
 > back, empty handed the younger sister said, "I will try to get some
 > daylight," and although her father told her she was too young to go,
@@ -805,7 +805,7 @@ class="small">AWN</span> (W)
 >    \[Among the Paressi (Peru) there is a vaginal origin ascribed to
 > both organic and inorganic nature (PE, 33).\].
 
-   <span id="pp_213"></span>**213.**[\*](#pp_213) Rain can be produced
+   <span id="pp_213"></span>**213.**[\*](#pp_213.md) Rain can be produced
 as well as stopped by human, animal, or spirit agency, but at the same
 time would appear to have an independent existence. To make rain on the
 Pomeroon, one of the authorized methods consists in plunging into water
@@ -826,20 +826,20 @@ their cutlasses into it, with the avowed purpose of making the woman
 vexed, and so causing the rain to fall. Rain can also be made to fall in
 this district by cursing the black kurri-kurri bird as mentioned in the
 story of the Medicine-man and the Carrion Crows ([Sect.
-*303*](aflg17.htm#pp_303)). On the upper Mazaruni it is a large eagle
+*303*](aflg17.htm#pp_303).md). On the upper Mazaruni it is a large eagle
 and a camudi that can cause the rain to fall (Bro, 399); frogs are
 reputed to be able to do the same thing ([Sect.
-*46*](aflg03.htm#pp_46)).
+*46*](aflg03.htm#pp_46).md).
 
-   <span id="pp_214"></span>**214.**[\*](#pp_214) The infringement of
+   <span id="pp_214"></span>**214.**[\*](#pp_214.md) The infringement of
 certain taboos can also entail a downpour of rain. For instance, when
 traveling on the sea or any other large sheet of water, as a big river,
 the Indians (Arawaks, Warraus, etc.) have to be very careful as to what
 they do with the pot-spoon, the *haráro* of the Arawaks ([Sect.
-*193*](aflg12.htm#pp_193)). After use they must wash it in the traveling
+*193*](aflg12.htm#pp_193).md). After use they must wash it in the traveling
 boat or wait until they get on land, but never wash it in the river or
 sea: otherwise, big squalls and storms will arise. Nor must any fresh
-water be spilt in the traveling boat ([Sect. *219*](aflg13.htm#pp_219)).
+water be spilt in the traveling boat ([Sect. *219*](aflg13.htm#pp_219).md).
 Near the Chichi Falls, upper Mazaruni, on giving the Indians rice to
 cook that evening, the men told them to wash it first by dipping the
 earthen pot into water, but to this they demurred, saying that if they
@@ -849,7 +849,7 @@ advises his fellow-servant not to wash the inside of the pot (Cr, 276).
 
 <span id="page_268">p. 268</span>
 
-   <span id="pp_215"></span>**215.**[\*](#pp_215) Conversely, the rain
+   <span id="pp_215"></span>**215.**[\*](#pp_215.md) Conversely, the rain
 can be stopped. Near Mora Village, on the upper Rupununi, there was a
 hill close by on which, the Indian said, a "Spirit at the approach of
 the end of the rainy season, made a noise like the report of a gun to
@@ -877,7 +877,7 @@ Uni, the Rain, and Shidu, a term applied to any chief or boss. As first
 recorded by Bancroft (312), it is noteworthy that if it rains at the
 time, the medicine-man will postpone his incantations.
 
-   <span id="pp_216"></span>**216.**[\*](#pp_216) The Arawaks speak of
+   <span id="pp_216"></span>**216.**[\*](#pp_216.md) The Arawaks speak of
 the Rainbow as Yawarri (*Didelphys* sp.), the reddish color of its fur
 bearing some fancied resemblance to the coloration of the bow. These
 same people (certainly in the Pomeroon District) hold that white people
@@ -885,7 +885,7 @@ are coming from the direction where they see a rainbow: On inquiry, I
 learn that the connection between this natural phenomenon and the
 European lies in the high arched forehead of the latter. The Island
 Caribs more or less personified it as Joulouca \[? another form of the
-word Yurokon, [Sect. *94*](aflg08.htm#pp_94)\], the Rainbow Spirit,
+word Yurokon, [Sect. *94*](aflg08.htm#pp_94.md)\], the Rainbow Spirit,
 which lives on fish, lizards, pigeons, and humming birds, and is covered
 with fine feathers of all colors, especially on the head. He is the
 rain-bow which we see: the clouds prevent us from seeing the rest of the
@@ -897,7 +897,7 @@ which seeks to kill somebody" (BBR, 231).
 
 <span id="page_269">p. 269</span>
 
-   <span id="pp_217"></span>**217.**[\*](#pp_217) As will be seen from
+   <span id="pp_217"></span>**217.**[\*](#pp_217.md) As will be seen from
 the following list, weather forecasting must be somewhat easy for the
 Indians. Unfortunately I have been unable to discover at first hand, the
 connection, if any, between the sign and the event, that is, whether it
@@ -932,7 +932,7 @@ the dara ("bell-bird," *Chasmarhynchus*), because the Arawaks have
 taught me that they indicate the coming of plenty of sunshine. Some
 Indians enjoy the same prospect when they hear the baboon howling.
 
-   <span id="pp_218"></span>**218.**[\*](#pp_218) The Cayenne Indians
+   <span id="pp_218"></span>**218.**[\*](#pp_218.md) The Cayenne Indians
 are not so much afraid of thunder as of an eclipse; they believe the
 former is caused by piai who, climbing up into the skies, makes this
 frightful noise (PBa, 233). As soon as they recognize the approaching
@@ -941,27 +941,27 @@ make for their houses, and stepping into the kitchen, seat themselves on
 their little stools close to the fire. Here, hiding their faces, and
 resting their heads upon their hands and knees, they commence to cry,
 bewailing in their gibberish that Maboya ([Sect.
-*84*](aflg05.htm#pp_84)) is much angered with them. They do the same
+*84*](aflg05.htm#pp_84).md) is much angered with them. They do the same
 thing when there is a hurricane on (RoP, 486). The Uaupes <span
 id="page_270">p. 270</span> River Indians blame their corresponding
 spirit, the Jurupari, for the thunderstorms; it is at these times that
 he is angry with them (ARW, 348). The Kobéuas believe that at death
 separation of spirit from body is taking place (KG, <span
 class="small">II</span>, 152). Warraus believe thunder to be the roar of
-Black Tiger ([Sect. *148*](aflg09.htm#pp_148)). The Surinam negroes
+Black Tiger ([Sect. *148*](aflg09.htm#pp_148).md). The Surinam negroes
 regard the old-time Indian stone weapons as thunderbolts, and look on
 them as talismans with which they part only with reluctace (WJ, 71).
 Many people \[? Indians, ? Spaniards\] at Caracas and elsewhere wear
 them on their necks as amulets for protection against lightning and
 thunder (AR, 461).
 
-   <span id="pp_219"></span>**219.**[\*](#pp_219) With regard to storms
+   <span id="pp_219"></span>**219.**[\*](#pp_219.md) With regard to storms
 generally, the Carib lslanders—
 
 >    When they have to cross over sea to go to another island—like St.
 > Alousi or St. Vincent . . . no pure water is drunk, and they are very
 > careful not to spill any in the canoe or in the sea ([Sect.
-> *193*](aflg12.htm#pp_193)); it would cause the sea to swell and make
+> *193*](aflg12.htm#pp_193).md); it would cause the sea to swell and make
 > rain and bad weather come. . . . They cannot pass certain places at
 > sea without throwing over food: it is for some Caribs who have
 > perished there, and now have their huts at the bottom of the sea. They
@@ -969,7 +969,7 @@ generally, the Carib lslanders—
 > cloud is seen, they all blow in the air and drive it away with their
 > hands to turn the rain in another direction. To make the sea calm, and
 > allay a storm, they chew cassava, then spit it in the air and sea to
-> appease the *Chemeen* ([Sect. *89*](aflg07.htm#pp_89)) who is perhaps
+> appease the *Chemeen* ([Sect. *89*](aflg07.htm#pp_89).md) who is perhaps
 > angry because he is hungry. If they have an unfavorable wind, an old
 > man out of the crowd takes an arrow and hits the hydrant of the canoe,
 > which is supposed to let the canoe go as straight as an arrow: if a
@@ -978,7 +978,7 @@ generally, the Carib lslanders—
 
 ------------------------------------------------------------------------
 
-[Next](aflg14)
+[Next](aflg14.md)
 
 ------------------------------------------------------------------------
 
@@ -986,75 +986,75 @@ generally, the Carib lslanders—
 
 <span id="footnotes_page_254">p. 254</span>
 
-<span id="page_254_note_1"></span>[1](#page_254_fr_1) Warraus tell me
+<span id="page_254_note_1"></span>[1](#page_254_fr_1.md) Warraus tell me
 that this word is a form of Yurokon, the name of the Carib Bush
 Spirit.—W. E. R.
 
 <span id="footnotes_page_255">p. 255</span>
 
-<span id="page_255_note_1"></span>[1](#page_255_fr_1) This word *okóhi*
+<span id="page_255_note_1"></span>[1](#page_255_fr_1.md) This word *okóhi*
 smong the Warraus means the hottest part of the day; it refers to the
 warmth and heat of the sun as distinguished from its power of producing
 light.
 
-<span id="page_255_note_2"></span>[2](#page_255_fr_2) Even up to very
+<span id="page_255_note_2"></span>[2](#page_255_fr_2.md) Even up to very
 recent times the Indians' canoes were thus decorated with Sun and Moon.
 
-<span id="page_255_note_3"></span>[3](#page_255_fr_3) This sound would
+<span id="page_255_note_3"></span>[3](#page_255_fr_3.md) This sound would
 correspond with the English "Swish! Swish! Swish!"
 
-<span id="page_255_note_4"></span>[4](#page_255_fr_4) This is the Warrau
+<span id="page_255_note_4"></span>[4](#page_255_fr_4.md) This is the Warrau
 term for any smart, sensible female.
 
 <span id="footnotes_page_256">p. 256</span>
 
-<span id="page_256_note_1"></span>[1](#page_256_fr_1) On the march the
+<span id="page_256_note_1"></span>[1](#page_256_fr_1.md) On the march the
 Indians always walk in file, the men leading.
 
-<span id="page_256_note_2"></span>[2](#page_256_fr_2) This is the name
+<span id="page_256_note_2"></span>[2](#page_256_fr_2.md) This is the name
 of an obsolete form of musical instrument, which none of my Warrau
 friends have ever seen, but have only heard of, and hence can not
 furnish me with particulars. From indirect evidence, however, I am
 inclined to believe that it was some form or the "crow-skull"
 gourd-flute—the Warrau *bure-akwa*.—W. E. R.
 
-<span id="page_256_note_3"></span>[3](#page_256_fr_3) This sound would
+<span id="page_256_note_3"></span>[3](#page_256_fr_3.md) This sound would
 correspond with our hootiti-tootiti, etc.
 
-<span id="page_256_note_4"></span>[4](#page_256_fr_4) This is the Arawak
+<span id="page_256_note_4"></span>[4](#page_256_fr_4.md) This is the Arawak
 version. The Warraus say that, instead of soot, she used the *humatuba*,
 the blue paint of the Caribs.
 
-<span id="page_256_note_5"></span>[5](#page_256_fr_5) Ehrenreich (37)
+<span id="page_256_note_5"></span>[5](#page_256_fr_5) Ehrenreich (37.md)
 cites a somewhat similar story of incest and subsequent discovery, in
 which the girl, however, becomes the Moon, given by Barboza Rodriguez,
 from the Rio Jamunda.
 
 <span id="footnotes_page_263">p. 263</span>
 
-<span id="page_263_note_1"></span>[1](#page_263_fr_1) This name (lit.
+<span id="page_263_note_1"></span>[1](#page_263_fr_1.md) This name (lit.
 "Leg-half") is Warrau; its signification here will be seen below.
 
-<span id="page_263_note_2"></span>[2](#page_263_fr_2) This female was
+<span id="page_263_note_2"></span>[2](#page_263_fr_2.md) This female was
 really a Bush Spirit, or Hebu, and though of the same name has nothing
 whatever to do with the old man mentioned in the story in [Sect.
-*29*](aflg02.htm#pp_29).
+*29*](aflg02.htm#pp_29.md).
 
 <span id="footnotes_page_264">p. 264</span>
 
-<span id="page_264_note_1"></span>[1](#page_264_fr_1) He could not, of
+<span id="page_264_note_1"></span>[1](#page_264_fr_1.md) He could not, of
 course, speak to the old woman directly, she being his mother-in-law; he
 himself was precluded from bringing the fish up to the house, as this
-procedure would spoil his luck ([Sect. *244*](aflg15.htm#pp_244)).
+procedure would spoil his luck ([Sect. *244*](aflg15.htm#pp_244).md).
 
-<span id="page_264_note_2"></span>[2](#page_264_fr_2) In another Warrau
+<span id="page_264_note_2"></span>[2](#page_264_fr_2.md) In another Warrau
 version of the same story, Nohi-abassi sets a big cage-trap for the
 fish, and asks an alligator to remain alongside, for the same purpose
 and with similar results.
 
 <span id="footnotes_page_266">p. 266</span>
 
-<span id="page_266_note_1"></span>[1](#page_266_fr_1) When I reminded
+<span id="page_266_note_1"></span>[1](#page_266_fr_1.md) When I reminded
 the old Warrau informant that Indians had no looks and keys, she told me
 that the story as told above is just as she heard it, and that old time
 people do not like to mention bad (i. e. indecent) things.—W. E. R.

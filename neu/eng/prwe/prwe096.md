@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe095)  [Next](prwe097) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe095)  [Next](prwe097.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ dying bonfire, for good luck, be a vestige of the same ritual?
 
 ------------------------------------------------------------------------
 
-[Next: Fire Ordeal for the Cure of Disease](prwe097)
+[Next: Fire Ordeal for the Cure of Disease](prwe097.md)

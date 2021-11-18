@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft10)  [Next](ftft12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft10)  [Next](ftft12.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_64">p. 64</span>
 
-<span id="img_06400"></span> ![The Fish-Peri](img/06400.jpg)
+<span id="img_06400"></span> ![The Fish-Peri](img/06400.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a fisherman of the name of Mahomet, who made a living by
 catching fish and selling them. One day, being seriously ill and having
@@ -91,7 +91,7 @@ instantly, and determined to marry her. <span id="img_06600"></span>
 
 |                                                                   |
 |-------------------------------------------------------------------|
-| ![Some plates of food fell out of the coffee-mill](img/06600.jpg) |
+| ![Some plates of food fell out of the coffee-mill](img/06600.jpg.md) |
 
 Therefore he sent for the youth, and said to him: "If in forty days you
 can build me a palace of gold and diamonds in the middle of the sea, I
@@ -123,7 +123,7 @@ fulfilled.<span id="img_06700"></span>
 
 |                                                      |
 |------------------------------------------------------|
-| ![Out of the egg sprang a great mule](img/06700.jpg) |
+| ![Out of the egg sprang a great mule](img/06700.jpg.md) |
 
 As a third test, the Padishah now demanded that the youth should prepare
 such a feast that every one in the land might eat thereof and yet
@@ -155,7 +155,7 @@ id="img_06800"></span>
 
 |                                                    |
 |----------------------------------------------------|
-| ![The child struck him on the face](img/06800.jpg) |
+| ![The child struck him on the face](img/06800.jpg.md) |
 
 "You ought to have been more careful," said the maiden, "but as it is
 done it can't be helped." The youth carried the eggs to the Padishah,
@@ -201,4 +201,4 @@ third to the storyteller. Which belongs to me?
 
 ------------------------------------------------------------------------
 
-[Next: The Horse-Dew and the Witch](ftft12)
+[Next: The Horse-Dew and the Witch](ftft12.md)

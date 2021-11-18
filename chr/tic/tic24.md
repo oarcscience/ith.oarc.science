@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic23)  [Next](tic25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic23)  [Next](tic25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ grieve us any more. Doubtless we feel this pain more at one time than at
 another and it is of a different kind. A soul so advanced as that we
 speak of does not think of the punishment threatening its offences but
 of its great ingratitude towards Him to Whom it owes so much <span
-id="fr_328"></span>[1](#fn_328) and Who so justly deserves that it
+id="fr_328"></span>[1](#fn_328.md) and Who so justly deserves that it
 should serve Him, for the sublime mysteries revealed have taught it much
 about the greatness of God.
 
@@ -68,7 +68,7 @@ Yet the sins remain like the mire in the river bed and dwell constantly
 in the memory, making a heavy cross to bear.
 
 3\. I know some one who, though she had ceased to wish for death in
-order to see God, <span id="fr_329"></span>[2](#fn_329) yet desired it
+order to see God, <span id="fr_329"></span>[2](#fn_329.md) yet desired it
 that she might be freed from her continual regret for her past
 ingratitude towards Him to Whom she owed, and always would owe, so much.
 She thought no one's guilt could be compared to her own, for she felt
@@ -97,7 +97,7 @@ mortal body. This pain is not lessened by reflecting that our Lord has
 already forgiven and forgotten our faults; our grief is rather increased
 at seeing such kindness and favours bestowed on one who deserves nothing
 but hell. I think St. Paul and the Magdalen must thus have suffered a
-cruel martyrdom; <span id="fr_330"></span>[3](#fn_330) their love was
+cruel martyrdom; <span id="fr_330"></span>[3](#fn_330.md) their love was
 intense, they had received many mercies and realized the greatness and
 the majesty of God and so must have found it very hard to bear the
 remembrance
@@ -109,7 +109,7 @@ of their sins, which they must have regretted with a most tender sorrow.
 6\. You may fancy that one who has enjoyed such high favours need not
 meditate on the mysteries of the most sacred Humanity of our Lord Jesus
 Christ but will be wholly absorbed in love. I have written fully about
-this elsewhere. <span id="fr_331"></span>[4](#fn_331) I have been
+this elsewhere. <span id="fr_331"></span>[4](#fn_331.md) I have been
 contradicted and told that I was wrong and did not understand the
 matter; that our Lord guides souls in such a way that after having made
 progress it is best to exercise oneself in matters concerning the
@@ -120,7 +120,7 @@ that this latter is a good way.
 the devil was trying to lead me astray in this manner. Having been
 warned by experience in this respell, I have decided to speak again
 about it here although I have very often done so elsewhere. <span
-id="fr_332"></span>[5](#fn_332) Be most cautious on the subject; attend
+id="fr_332"></span>[5](#fn_332.md) Be most cautious on the subject; attend
 to what I venture to say about it and do not believe any one who tells
 you the contrary. I will endeavour to explain myself more clearly than I
 did before. If the person who undertook to write on the matter had
@@ -133,7 +133,7 @@ lives greatly
 
 <span id="page_220">p. 220</span>
 
-benefits and strengthens us. <span id="fr_333"></span>[6](#fn_333) I
+benefits and strengthens us. <span id="fr_333"></span>[6](#fn_333.md) I
 cannot think what such persons are to meditate upon, for to withdraw the
 thoughts from all corporeal things like the angelic spirits who are
 always inflamed with love, is not possible for us while in this mortal
@@ -149,7 +149,7 @@ way and it will be much if they have stayed safely in the former
 mansions. Our Lord Himself tells us that He is 'the Way'; He also says
 that He is 'the Light'; that no man cometh to the Father but by Him; and
 that 'He that seeth Me, seeth the Father also.' <span
-id="fr_334"></span>[7](#fn_334)
+id="fr_334"></span>[7](#fn_334.md)
 
 <span id="page_221">p. 221</span>
 
@@ -171,7 +171,7 @@ the intellect.
 love, this generous faculty would, if it could, cease to make use of the
 reason. This would be well, were it not impossible, especially before
 the soul has reached the last two mansions. <span
-id="fr_335"></span>[8](#fn_335) Time spent in prayer would thus be lost
+id="fr_335"></span>[8](#fn_335.md) Time spent in prayer would thus be lost
 as the will often needs the use of the understanding to rekindle its
 love. Notice this point, sisters, which as it is important I will
 explain more fully. Such a soul
@@ -183,7 +183,7 @@ else; but it cannot succeed, for though the will is not dead yet the
 flame which kindled it is dying out and the spark needs fanning into a
 glow. Ought the soul to remain quiescent in this aridity, waiting like
 our father Elias for fire to descend from heaven <span
-id="fr_336"></span>[9](#fn_336) to consume the sacrifice which it makes
+id="fr_336"></span>[9](#fn_336.md) to consume the sacrifice which it makes
 of itself to God? Certainly not; it is not right to expect miracles; God
 will work them for this soul when He chooses. As I have told you already
 and shall do again, His Majesty wishes us to hold ourselves unworthy of
@@ -196,17 +196,17 @@ admits into the seventh mansion rarely or never need thus to help their
 fervour, for the reason I will tell you of; if I recollect it when I
 come to write of this room where, in a wonderful manner, souls are
 constantly in the company of Christ our Lord both in His Humanity and
-His Divinity. <span id="fr_337"></span>[10](#fn_337) Thus, when the fire
+His Divinity. <span id="fr_337"></span>[10](#fn_337.md) Thus, when the fire
 in our hearts, of which I spoke does not burn in the will, nor do we
 feel the presence of God, we must search for Him as He would have us do,
-like the Bride in the Canticles, <span id="fr_338"></span>[11](#fn_338)
+like the Bride in the Canticles, <span id="fr_338"></span>[11](#fn_338.md)
 and must ask all creatures 'who it was that made them;' as St. Augustine
 (either in his *Soliloquies* or his
 
 <span id="page_223">p. 223</span>
 
 <span class="contnote">\[paragraph continues\]</span> *Confessions*)
-tells us that he did. <span id="fr_339"></span>[12](#fn_339) Thus we
+tells us that he did. <span id="fr_339"></span>[12](#fn_339.md) Thus we
 shall not stand like blockheads, wasting our time in waiting for what we
 before enjoyed. At first, it may be that our Lord will not renew His
 gift again for a year or even for many years; His Majesty knows the
@@ -236,7 +236,7 @@ Christ's apprehension and dwell on this mystery, considering in detail
 the points to be pondered and thought over, such as the treachery of
 Judas, the flight of the Apostles, and all that followed. This is an
 admirable and very meritorious kind of prayer. <span
-id="fr_340"></span>[13](#fn_340)
+id="fr_340"></span>[13](#fn_340.md)
 
 14\. Souls led by God in supernatural ways and raised to perfect
 contemplation are right in declaring they cannot practise this kind of
@@ -290,7 +290,7 @@ how He bore His trials, and even to take example by His Apostles and
 saints if we would bear our own trials perfectly. Our good Jesus and His
 most blessed Mother are too good company to be left and He is well
 pleased if we grieve at His pains, even though sometimes at the cost of
-our own consolations and joys. <span id="fr_341"></span>[14](#fn_341)
+our own consolations and joys. <span id="fr_341"></span>[14](#fn_341.md)
 Besides, daughters, consolations are not so frequent in prayer that we
 have no time for this as well. If any one should tell me she continually
 enjoys them, and that she is one of those who can never meditate on the
@@ -311,7 +311,7 @@ soul.
 
 17\. People allege, in defence, that our Lord told His disciples that it
 was expedient for them that He should go from them. <span
-id="fr_342"></span>[15](#fn_342) This I cannot admit. He did not say so
+id="fr_342"></span>[15](#fn_342.md) This I cannot admit. He did not say so
 to His blessed Mother, for her faith was firm. She knew He was both God
 and man; and although she loved Him more dearly than did His disciples,
 it was in so perfect a way that His bodily presence was a help to her.
@@ -320,7 +320,7 @@ and than ours has reason to be. I assure you, daughters, that I consider
 this a most dangerous idea whereby the devil might end by robbing us of
 our devotion to the most blessed Sacrament.
 
-18\. The mistake I formerly made <span id="fr_343"></span>[16](#fn_343)
+18\. The mistake I formerly made <span id="fr_343"></span>[16](#fn_343.md)
 did not lead me as far as this, but I did not care so much about
 meditating on our Lord Jesus Christ, preferring to remain absorbed,
 awaiting spiritual consolations. I recognized clearly that I was going
@@ -346,23 +346,23 @@ praised! Amen.
 
 ### Footnotes
 
-<span id="fn_328"></span>[217:1](tic24.htm#fr_328) *Life*, ch. vi. 7.
+<span id="fn_328"></span>[217:1](tic24.htm#fr_328.md) *Life*, ch. vi. 7.
 
-<span id="fn_329"></span>[217:2](tic24.htm#fr_329) *Excl*. vi. 4, 5.
+<span id="fn_329"></span>[217:2](tic24.htm#fr_329.md) *Excl*. vi. 4, 5.
 *Supra*, M. v. ch. ii, 5. *Poems* 2, 3, 4. *Minor Works*.
 
-<span id="fn_330"></span>[218:3](tic24.htm#fr_330) *Life*, ch. xxi, 9.
+<span id="fn_330"></span>[218:3](tic24.htm#fr_330.md) *Life*, ch. xxi, 9.
 All editions have 'Peter'. St. Teresa only wrote 'P<sup>o</sup>' but the
 parallel passage proves she meant Pablo, and not Pedro. See also M. i.
 ch. i. 5.
 
-<span id="fn_331"></span>[219:4](tic24.htm#fr_331) *Life*, ch. xxii.
+<span id="fn_331"></span>[219:4](tic24.htm#fr_331.md) *Life*, ch. xxii.
 9-11.
 
-<span id="fn_332"></span>[219:5](tic24.htm#fr_332) *Ibid*. ch. xxii. i;
+<span id="fn_332"></span>[219:5](tic24.htm#fr_332.md) *Ibid*. ch. xxii. i;
 xxiii. 18; xxiv. 2.
 
-<span id="fn_333"></span>[220:6](tic24.htm#fr_333) 'Deliberate
+<span id="fn_333"></span>[220:6](tic24.htm#fr_333.md) 'Deliberate
 forgetfulness and rejection of all knowledge and of form must never be
 extended to Christ and His sacred Humanity. Sometimes, indeed, in the
 height of contemplation and pure intuition of the Divinity the soul does
@@ -377,10 +377,10 @@ Who for our salvation became man, is not to be accounted among them, for
 He is the truth, the door, and the way, and our guide to all good.' (St.
 John of the Cross *Ascent of Mount Carmel*, bk. iii. ch. i. 12-14.
 
-<span id="fn_334"></span>[220:7](tic24.htm#fr_334) St. John viii. 12;
+<span id="fn_334"></span>[220:7](tic24.htm#fr_334.md) St. John viii. 12;
 xiv. 6, 9.
 
-<span id="fn_335"></span>[221:8](tic24.htm#fr_335) *Life*, ch. xv. 20.
+<span id="fn_335"></span>[221:8](tic24.htm#fr_335.md) *Life*, ch. xv. 20.
 St. John of the Cross treats the subject most carefully. He shows how
 and when meditation becomes impossible: *Ascent of Mount Carmel*, bk.
 ii. ch. xii. (*circa finem*) ch. xiii. (*per totum*). *Living Flame of
@@ -389,18 +389,18 @@ viii. That it should be procured whenever possible: *Ibid*. bk. i. ch.
 x. (*in fine*); that it should be resumed; *Ascent of Mount Carmel*; bk.
 ii, ch. xv.
 
-<span id="fn_336"></span>[222:9](tic24.htm#fr_336) III Reg. xviii.
+<span id="fn_336"></span>[222:9](tic24.htm#fr_336.md) III Reg. xviii.
 30-39.
 
-<span id="fn_337"></span>[222:10](tic24.htm#fr_337) Continual sense of
+<span id="fn_337"></span>[222:10](tic24.htm#fr_337.md) Continual sense of
 the presence of God: *Life*, ch. xxvii. 6. *Rel*. xi. 3: 'The
 intellectual vision of the Three Persons and of the Sacred Humanity
 seems ever present.' *Castle*, M. vii. ch. iv. 15.
 
-<span id="fn_338"></span>[222:11](tic24.htm#fr_338) Cant, iii. 3; 'Num
+<span id="fn_338"></span>[222:11](tic24.htm#fr_338.md) Cant, iii. 3; 'Num
 quem diligit anima mea, vidistis?'
 
-<span id="fn_339"></span>[223:12](tic24.htm#fr_339) 'I asked the earth,
+<span id="fn_339"></span>[223:12](tic24.htm#fr_339.md) 'I asked the earth,
 and it answered me: 'I am not He'; and whatsoever it contains confessed
 the same. I asked the sea and the depths, and the living, creeping
 things, and they answered: 'We are not thy God, seek above us.' I asked
@@ -414,28 +414,28 @@ By my thought of them I questioned them, and their beauty gave their
 answer.' (*St. Augustine's Confessions*, bk. x. ch. 6.)
 
 St. Teresa may have read this in St. Augustine's *Confessions*, (see
-above, [p. 78](tic09.htm#page_78)), or in the *Soliloquies*, a
+above, [p. 78](tic09.htm#page_78).md), or in the *Soliloquies*, a
 collection of extracts from St. Augustine, St. Bernard, St. Anselm,
 etc., which was printed in Latin at Venice in 1512, translated into
 Spanish and brought out at Valladolid in 1515, and again at Medina del
 Campo in 15 53, and at Toledo in 1565. The words quoted by St. Teresa
 occur in chapter xxxi. See *Life*, ch. xl. 10.
 
-<span id="fn_340"></span>[224:13](tic24.htm#fr_340) *Life*, ch. xiii.
+<span id="fn_340"></span>[224:13](tic24.htm#fr_340.md) *Life*, ch. xiii.
 17-23.
 
-<span id="fn_341"></span>[226:14](tic24.htm#fr_341) *Way of Perf*. ch.
+<span id="fn_341"></span>[226:14](tic24.htm#fr_341.md) *Way of Perf*. ch.
 xxv. 7.
 
-<span id="fn_342"></span>[227:15](tic24.htm#fr_342) St. John xvi. 7:
+<span id="fn_342"></span>[227:15](tic24.htm#fr_342.md) St. John xvi. 7:
 'Expedit vobis ut ego vadam; si enim non abiero, Paraclitus non veniet
 ad vos.' *Life*, ch. xxii. 1, 2 and note.
 
-<span id="fn_343"></span>[227:16](tic24.htm#fr_343) *Life*, ch. xxii.
+<span id="fn_343"></span>[227:16](tic24.htm#fr_343.md) *Life*, ch. xxii.
 11. Although the Saint defends herself against the charge of
 self-contradiction, there can be no doubt from this avowal that she too
 was at one time mistaken on this point.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Intellectual Visions](tic25)
+[Next: Chapter VIII. Intellectual Visions](tic25.md)

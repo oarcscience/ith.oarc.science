@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc250)  [Next](ffcc270) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc250)  [Next](ffcc270.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ Intangible Textual Heritage
 
 ## CHAPTER VI
 
-### CELTIC OTHERWORLD <span id="fr_352"></span>[1](#fn_321)
+### CELTIC OTHERWORLD <span id="fr_352"></span>[1](#fn_321.md)
 
 In Ireland this world and the world we go to after death are not far
 apart.'--W. B. YEATS.
@@ -70,7 +70,7 @@ men.
 
 More frequently, in the old Irish manuscripts, the Celtic Otherworld was
 located in the midst of the Western Ocean, as though it were the
-'double' of the lost Atlantis; <span id="fr_353"></span>[1](#fn_322) and
+'double' of the lost Atlantis; <span id="fr_353"></span>[1](#fn_322.md) and
 Manannan Mac Lir, the Son of the Sea--perhaps himself the 'double' of an
 ancient Atlantean king--was one of the divine rulers of its fairy
 inhabitants, and his palace, for he was one of the Tuatha De Danann, was
@@ -104,7 +104,7 @@ as musicians, the Three Birds of Rhiannon, which were said to sing the
 dead back to life and the living into death;--but the birds were not in
 Harlech, they were out over the sea in the atmosphere of Rhiannon's
 realm in the bosom of Cardigan Bay. <span
-id="fr_354"></span>[1](#fn_323) And though we might say of that
+id="fr_354"></span>[1](#fn_323.md) And though we might say of that
 Otherworld, as we learn from these Three Birds of Rhiannon, and as
 Socrates would say, that its inhabitants are come from the living and
 the living in our world from the dead there, yet, as has already been
@@ -133,7 +133,7 @@ seems to surround and interpenetrate this planet even as the X-rays
 interpenetrate matter, it can have no other limits than those of the
 Universe itself. And that it is not an exclusive realm is certain from
 what our old Irish manuscripts record concerning the Fomorian
-races. <span id="fr_355"></span>[1](#fn_324) These, when they met defeat
+races. <span id="fr_355"></span>[1](#fn_324.md) These, when they met defeat
 on the battle-field of Moytura at the hands of the Tuatha De Danann,
 retired altogether from Ireland, their overthrow being final, and
 returned to their own invisible country--a mysterious land beyond the
@@ -150,11 +150,11 @@ your ancestors, in the midst of those who know and love you.' And with
 the fairy spell upon him the young prince entered the glass boat of the
 fairy woman, and his father the king, in great tribulation and wonder,
 beheld them disappear across the waters never to return. <span
-id="fr_356"></span>[1](#fn_324)
+id="fr_356"></span>[1](#fn_324.md)
 
 <span id="page_336">p. 336</span>
 
-### THE SILVER BRANCH <span id="fr_357"></span>[1](#fn_325) AND THE GOLDEN BOUGH
+### THE SILVER BRANCH <span id="fr_357"></span>[1](#fn_325.md) AND THE GOLDEN BOUGH
 
 To enter the Otherworld before the appointed hour marked by death, a
 passport was often necessary, and this was usually a silver branch of
@@ -193,14 +193,14 @@ In Virgil's classic poem the Sibyl commanded the plucking of the sacred
 bough to be carried by Aeneas when he entered the underworld; for
 without such a bough plucked near the entrance to Avernus from the
 wondrous tree sacred to Infernal Juno (i. e. Proserpine) none could
-enter Pluto's realm. <span id="fr_358"></span>[1](#fn_326) And when
+enter Pluto's realm. <span id="fr_358"></span>[1](#fn_326.md) And when
 Charon refused to ferry Aeneas across the Stygian lake until the
 Sibyl-woman drew forth the Golden Bough from her bosom, where she had
 hidden it, it becomes clearly enough a passport to Hades, just as the
 Silver Branch borne by the fairy woman is a passport to *Tír N-aill;*
 and the Sibyl-woman who guided Aeneas to the Greek and Roman Otherworld
 takes the place of the fairy woman who leads mortals like Bran to the
-Celtic Other-world. <span id="fr_359"></span>[2](#fn_327)
+Celtic Other-world. <span id="fr_359"></span>[2](#fn_327.md)
 
 ### THE OTHERWORLD IDEA LITERALLY INTERPRETED
 
@@ -209,14 +209,14 @@ Ancients seemingly established, we may leave poetical images and seek a
 literal interpretation for the animistic idea about those realms. The
 Rites of Proserpine as conducted in the Mysteries of Antiquity furnish
 us with the means; and in what Servius has written we have the material
-ready. <span id="fr_360"></span>[3](#fn_328) Taking the letter Υ, which
+ready. <span id="fr_360"></span>[3](#fn_328.md) Taking the letter Υ, which
 Pythagoras said is like life with its dividing ways of good and evil, as
 the mystic symbol of the branch which all initiates like Aeneas offered
 to Proserpine in the subjective world while there out of the physical
 body, he says of the initiatory rites:--'He (the poet) could not join
 the Rites of Proserpine without having the branch to hold up. And by
 "*going to the shades*" *he* (the poet) *means celebrating the Rites of
-Proserpine*.' <span id="fr_361"></span>[3](#fn_328) This passage is
+Proserpine*.' <span id="fr_361"></span>[3](#fn_328.md) This passage is
 certainly capable of but one meaning; and
 
 <span id="page_338">p. 338</span>
@@ -253,7 +253,7 @@ heroes, and god-men, are said to have made to Avalon, or the Land of the
 Living, through the invitation of a fairy woman or else of the god
 Manannan himself; and probably the most famous is that of the *Voyage of
 Bran*, *Son of Febal*, as so admirably translated from the original old
-Irish saga by Dr. Kuno Meyer. <span id="fr_362"></span>[1](#fn_329)
+Irish saga by Dr. Kuno Meyer. <span id="fr_362"></span>[1](#fn_329.md)
 Perhaps in all Celtic
 
 <span id="page_339">p. 339</span>
@@ -315,7 +315,7 @@ beginning until that time. And he wrote these quatrains in Ogam, and
 then bade them farewell. And from that hour his wanderings are not
 known.'
 
-### CORMAC'S ADVENTURE IN THE LAND OF PROMISE <span id="fr_363"></span>[1](#fn_330)
+### CORMAC'S ADVENTURE IN THE LAND OF PROMISE <span id="fr_363"></span>[1](#fn_330.md)
 
 In *Cormac's Adventure in the Land of Promise*, there is again a magic
 silver branch with three golden apples on it:--'One day, at dawn in
@@ -361,7 +361,7 @@ water. Nine hazels of Buan grow over the well. The purple hazels drop
 their nuts into the fountain, and the five salmon which are in the
 fountain sever them, and send their husks floating down the streams. Now
 the sound of the falling of those streams is more melodious than any
-music that \[men\] sing.' <span id="fr_364"></span>[1](#fn_331)
+music that \[men\] sing.' <span id="fr_364"></span>[1](#fn_331.md)
 
 <span id="page_342">p. 342</span>
 
@@ -394,7 +394,7 @@ green of Tara, with his wife and his son and daughter, and having his
 Branch and his Cup. Now that was afterwards \[called\] "Cormac's Cup",
 and it used to distinguish between truth and falsehood with the Gael.
 Howbeit, as had been promised him \[by Manannan\], it remained not after
-Cormac's death.' <span id="fr_365"></span>[1](#fn_332)
+Cormac's death.' <span id="fr_365"></span>[1](#fn_332.md)
 
 This beautiful tale evidently echoes in an extremely poetical and
 symbolical manner a very ancient Celtic initiation of a king and his
@@ -422,7 +422,7 @@ Manannan of the Tuatha De Danann, as a god-messenger from the invisible
 realm bearing the apple-branch of silver, is in externals, though not in
 other ways, like Hermes, the god-messenger from the realm of the gods
 bearing his wand of two intertwined serpents. <span
-id="fr_366"></span>[1](#fn_333) In modern fairy-lore this divine branch
+id="fr_366"></span>[1](#fn_333.md) In modern fairy-lore this divine branch
 or wand is the magic wand of fairies; or where messengers like old men
 guide mortals to an underworld it is a staff or cane with which they
 strike the rock hiding the secret entrance.
@@ -440,18 +440,18 @@ examples, beginning with the ancient Irish bards who were associated
 with the Druids. A wand in the form of a symbolic branch, like a little
 spike or crescent with gently tinkling bells upon it, was borne by them;
 and in the piece called *Mesca Ulad* or 'Inebriety of the
-Ultonians' <span id="fr_367"></span>[1](#fn_334) it is said of the chief
+Ultonians' <span id="fr_367"></span>[1](#fn_334.md) it is said of the chief
 bard of Ulster, Sencha, that in the midst of a bloody fray he 'waved the
 peaceful branch of Sencha, and all the men of Ulster were silent,
 quiet'. In *Agallamh an dá Shuadh* or the 'Dialogue of the two
-Sages', <span id="fr_368"></span>[2](#fn_335) the mystic symbol used by
+Sages', <span id="fr_368"></span>[2](#fn_335.md) the mystic symbol used by
 gods, fairies, magicians, and by all initiates who know the mystery of
 life and death, is thus described as a Druid symbol:--'Neidhe' (a young
 bard who aspired to succeed his father as chief poet of Ulster), 'made
 his journey with a silver branch over him. The *Anradhs*, or poets of
 the second order, carried a silver branch, but the *Ollamhs*, or chief
 poets, carried a branch of gold; all other poets bore a branch of
-bronze.' <span id="fr_369"></span>[3](#fn_336) Modern and ancient
+bronze.' <span id="fr_369"></span>[3](#fn_336.md) Modern and ancient
 parallels are world-wide, among the most civilized as among the least
 civilized peoples, and in civil or religious life among ourselves. Thus,
 it was with a magic rod that Moses struck the rock and pure water gushed
@@ -467,7 +467,7 @@ medicine-men.
 ### THE SICK-BED OF CUCHULAINN
 
 We turn now to the story of the *Sick-Bed of Cuchulainn*. <span
-id="fr_370"></span>[1](#fn_337) And this is how the great hero of Ulster
+id="fr_370"></span>[1](#fn_337.md) And this is how the great hero of Ulster
 was fairy-struck. Manannan Mac Lir, tiring of his wife Fand, had
 deserted her, and so she, wishing to marry Cuchulainn, went to Ireland
 with her sister Liban. Taking the form of two birds bound together by a
@@ -520,9 +520,9 @@ again. And thus it was that the Sidhe-women failed to steal away the
 great Cuchulainn. The magic of the Druids and the power of the Tuatha De
 Danann king triumphed; and the Champion of Ulster did not go to the
 Otherworld until he met a natural death in that last great fight. <span
-id="fr_371"></span>[1](#fn_338)
+id="fr_371"></span>[1](#fn_338.md)
 
-### OSSIAN'S RETURN FROM FAIRYLAND <span id="fr_372"></span>[2](#fn_339)
+### OSSIAN'S RETURN FROM FAIRYLAND <span id="fr_372"></span>[2](#fn_339.md)
 
 Ossian too, like Cuchulainn, was enticed into Fairyland by a fairy
 woman:--She carries him away on a white horse, across the Western Ocean;
@@ -553,7 +553,7 @@ some other men are lying. 'Ossian's assistance is asked, and he
 generously gives it. But in leaning over his horse, to take up the stone
 with one hand, the girth breaks, and he falls. Straightway the white
 horse fled away on his way home, and Ossian became aged, decrepit, and
-blind.' <span id="fr_373"></span>[1](#fn_340)
+blind.' <span id="fr_373"></span>[1](#fn_340.md)
 
 ### THE GOING OF LANVAL TO AVALON
 
@@ -566,7 +566,7 @@ like Cuchulainn and Ossian, fell under the power of fairy women or
 
 <span class="contnote">\[paragraph continues\]</span> Arthur, they
 include Sir Lancelot, Sir Gawayne, Ogier, Guingemor and Lanval (see pp.
-[325](ffcc250.htm#page_325)-6). The story of Lanval is told by Marie de
+[325](ffcc250.htm#page_325)-6.md). The story of Lanval is told by Marie de
 France in one of her *Lais*, and is so famous a one that we shall
 briefly outline it:--
 
@@ -581,7 +581,7 @@ With full rush Lanval jumped.
 With her he goes away into Avalon,  
 According to what the Briton tells us,  
 Into an isle, which is very beautiful. <span
-id="fr_374"></span>[1](#fn_341)
+id="fr_374"></span>[1](#fn_341.md)
 
  
 
@@ -590,7 +590,7 @@ id="fr_374"></span>[1](#fn_341)
 There is another type of *imram* in which through adventure rather than
 through invitation from one of the fairy beings, men enter the
 Otherworld; as illustrated by the *Voyage of Mael-Duin*, <span
-id="fr_375"></span>[2](#fn_342) and by the still more beautiful *Voyage
+id="fr_375"></span>[2](#fn_342.md) and by the still more beautiful *Voyage
 of Teigue, Son of Cian*. This last old Irish story summarizes many of
 the Otherworld elements we have so far considered, and (though it shows
 Christian influences) gives us a very clear picture of the Land of Youth
@@ -682,7 +682,7 @@ astern, but 'they saw
 <span id="page_351">p. 351</span>
 
 not the land from which they came, for incontinently an obscuring magic
-veil was drawn over it'. <span id="fr_376"></span>[1](#fn_343)
+veil was drawn over it'. <span id="fr_376"></span>[1](#fn_343.md)
 
 ### THE ADVENTURES OF ART, SON OF CONN
 
@@ -704,7 +704,7 @@ evil woman whom they had banished. The Druids of all Ireland being
 called together, declared that to appease the Tuatha De Danann 'the son
 of a sinless couple should be brought to Ireland and slain before Tara,
 and his blood mingled with the soil of Tara' (cf. [p.
-436](ffcc309.htm#page_436)). It was Conn himself who set out for the
+436](ffcc309.htm#page_436).md). It was Conn himself who set out for the
 Otherworld and found there the sinless boy, the son of the queen of that
 world, and he brought him back to Tara. A strange event saves the
 youth:--'Just then they (the assembly of people and Druids, with Conn,
@@ -744,7 +744,7 @@ her breast, and long, fair, very golden hair. She had dark-black
 eyebrows, and flashing grey eyes in her head, and a snowy-white body.'
 And upon seeing the chaste and noble Delbchaem with Art, Bécuma, the
 banished woman of the Tuatha Dc Danann, lamenting, departs from Tara for
-ever. <span id="fr_377"></span>[1](#fn_344)
+ever. <span id="fr_377"></span>[1](#fn_344.md)
 
 OTHERWORLD QUESTS OF CUCHULAINN AND OF ARTHUR
 
@@ -758,7 +758,7 @@ poem in the *Book* 
 of the Dun Cow describing an expedition led by Cuchulainn to the
 stronghold of Scáth in the land of Scáth, or, as the name means, land of
 Shades, where the hero gains the king's cauldron. <span
-id="fr_378"></span>[1](#fn_345) And the poem suggests why so few who
+id="fr_378"></span>[1](#fn_345.md) And the poem suggests why so few who
 invaded that Hades world ever returned--perhaps why, mystically
 speaking, so few men could escape either through Initiation or re-birth
 the natural confusion and forgetfulness arising out of death.
@@ -775,7 +775,7 @@ reached like the Gaelic Land of Promise by sea. Annwn is also called
 Caer Sidi, which in another poem of the *Book of Taliessin* (No. XIV) is
 thought of as an island of immortal youth amid 'the streams of the
 ocean' where there is a food-giving fountain. <span
-id="fr_379"></span>[2](#fn_346)
+id="fr_379"></span>[2](#fn_346.md)
 
 ### LITERARY EVOLUTION OF THE HAPPY OTHERWORLD IDEA
 
@@ -788,21 +788,21 @@ former--in which great heroes go on some mysterious quest. Sometimes
 this Hades world is inseparable from the underground palaces or world of
 the Tuatha De Danann. Again, it may be an underlake fairy-realm like
 that entered by Laeghaire and his fifty companions (see [p.
-302](ffcc240.htm#page_302)); or, as in
+302](ffcc240.htm#page_302).md); or, as in
 
 <span id="page_354">p. 354</span>
 
 <span class="contnote">\[paragraph continues\]</span> *Gilla
-Decair*, <span id="fr_380"></span>[1](#fn_347) of late composition, it
+Decair*, <span id="fr_380"></span>[1](#fn_347.md) of late composition, it
 is an under-well land wherein Dermot has adventures. And, in a similar
 tale, Murough, on the invitation of a mysterious stranger who comes out
 of a lake and then disappears 'like the mist of a winter fog or the
 whiff of a March wind', dives beneath the lake's waters, and is escorted
 to the palace of King Under-Wave, wherein he sees the stranger as the
 water-king himself sitting on a golden throne (cf. pp.
-[63](ffcc121.htm#page_63)-4). In continual feasting there Murough passes
+[63](ffcc121.htm#page_63)-4.md). In continual feasting there Murough passes
 a day and a year, thinking the time only a few days. <span
-id="fr_381"></span>[2](#fn_348)
+id="fr_381"></span>[2](#fn_348.md)
 
 As a rule the Hades world, or underground and under-wave world, is
 unlike Manannan's peaceful ocean realm, being often described as a place
@@ -817,16 +817,16 @@ Bran, Maelduin, and Connla, all of which may go back to the early eighth
 century as compositions, the christianizing influence is already clearly
 begun; and in the *Voyage of Snedgus and of Mac Riagla*, of the late
 ninth century, this influence predominates. <span
-id="fr_382"></span>[3](#fn_349) Purely Christian texts of about the same
+id="fr_382"></span>[3](#fn_349.md) Purely Christian texts of about the same
 period or later describe the Christian heaven as though it were the
 pagan Otherworld. Some of these, like the Latin version of the tale of
 *St. Brandan's Voyage*, greatly influenced European literature, and
 probably contributed to the discovery of the New World. <span
-id="fr_383"></span>[3](#fn_349)
+id="fr_383"></span>[3](#fn_349.md)
 
 The combination of Christian and pagan Celtic ideas is well shown in the
 *Voyage of the Húi Corra* <span
-id="fr_384"></span>[4](#fn_350):--'Thereafter
+id="fr_384"></span>[4](#fn_350.md):--'Thereafter
 
 <span id="page_355">p. 355</span>
 
@@ -854,7 +854,7 @@ boat, in search of that mysterious country; after some days, the waves
 drive him back rebuffed and discouraged upon the seashore. An angel
 opens his eyes: the land of eternal peace and of eternal youth is that
 which Christianity promises to its elect.' <span
-id="fr_385"></span>[1](#fn_351)
+id="fr_385"></span>[1](#fn_351.md)
 
 Not only was the Celtic Otherworld gradually changed into a Christian
 Heaven, or Hell, from the eighth century onward, but its divine
@@ -875,7 +875,7 @@ six thousand years ago with Adam.
 
 A few of the pagan legends, however, met very fair treatment at the
 hands of poetical and patriotic Christian transcribers. Thus in
-*Adamnan's Vision*, <span id="fr_386"></span>[1](#fn_352) though the
+*Adamnan's Vision*, <span id="fr_386"></span>[1](#fn_352.md) though the
 Celtic Otherworld has become 'the Land of the Saints', its primal
 character is clearly discernible: to reach it a sea voyage is necessary;
 and it is a land where there is no pride, falsehood, envy, disease or
@@ -893,7 +893,7 @@ left her on the seashore to look for a boat in which to embark for the
 her. But the Oxford version of the same tale doubts whether the maiden
 was drowned, for it suggests, 'Or maybe it (the wave) was Manannan
 himself that was carrying her off.' <span
-id="fr_387"></span>[2](#fn_353) Thus the scribe understood that to go to
+id="fr_387"></span>[2](#fn_353.md) Thus the scribe understood that to go to
 Manannan's world literally meant entering a sleep or trance state, or,
 what is equivalent in the case of the maiden whom Manannan summoned, the
 passage through death from the physical body. And still, to-day, the
@@ -909,11 +909,11 @@ We have frequently emphasized how truly the modern Celtic peasant in
 certain non-commercialized localities has kept to the faith of his pagan
 ancestors, while the learned Christian scribes have often departed
 widely from it. The story of the voyage of Fionn to the
-Otherworld, <span id="fr_388"></span>[1](#fn_354) which Campbell found
+Otherworld, <span id="fr_388"></span>[1](#fn_354.md) which Campbell found
 living among Scotch peasants as late as the last century, adds a
 striking proof of this assertion. So does Michael Comyn's peasant
 version of Ossian in the 'Land of Youth' (as outlined above, [p.
-346](#page_346)), which, though dating from about 1749, has all the
+346](#page_346).md), which, though dating from about 1749, has all the
 natural character of the best ancient tales, like those about Bran and
 Cormac. We are inclined, therefore, to attach a value even higher than
 we have already done to the testimony of the living Fairy-Faith which
@@ -925,7 +925,7 @@ point to some mountain and tell you that some famous hero or beauty
 lived and sorrowed there, or he will tell you that Tir-na-nog, the
 Country of the Young, the old Celtic paradise--the Land of the Living
 Heart, as it used to be called--is all about him.' <span
-id="fr_389"></span>[2](#fn_355)
+id="fr_389"></span>[2](#fn_355.md)
 
 At the end of his long and careful study of the Celtic Otherworld,
 Alfred Nutt arrived at the tentative conclusion which coincides with our
@@ -933,13 +933,13 @@ own, that 'The vision of a Happy Otherworld found in Irish mythic
 romances of the eighth and following centuries is substantially
 pre-Christian', that its closest analogues are in Hellenic myth, and
 that with these 'it forms the most archaic Aryan presentation of the
-divine and happy land we possess'. <span id="fr_390"></span>[3](#fn_356)
+divine and happy land we possess'. <span id="fr_390"></span>[3](#fn_356.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_321"></span>[332:1](ffcc260.htm#fr_352) Chief general
+<span id="fn_321"></span>[332:1](ffcc260.htm#fr_352.md) Chief general
 references: H. D'Arbois de Jubainville, *L'Epopée celtique en Irlande*,
 *Le Cycle Mythologique Irlandais*; Kuno Meyer and Alfred Nutt, *The
 Happy Otherworld and the Celtic Doctrine of Re-birth*. Chief sources:
@@ -950,7 +950,7 @@ century); the *Yellow Book of Lecan* (fifteenth century); the *Book of
 Lismore* (fifteenth century); the *Book of Fermoy* (fifteenth century);
 the *Four Ancient Books of Wales* (twelfth to fifteenth century).
 
-<span id="fn_322"></span>[333:1](ffcc260.htm#fr_353) One of the
+<span id="fn_322"></span>[333:1](ffcc260.htm#fr_353.md) One of the
 commonest legends among all Celtic peoples is about some lost city like
 the Breton Is, or some lost land or island (cf. Rhy^s, *Arth. Leg.*, c.
 xv, and *Celtic Folk-Lore*, c. vii); and we can be quite sure that if,
@@ -970,20 +970,20 @@ mankind in all stages of culture, throughout the two Americas and
 Polynesia as well as throughout Europe, Asia, and Africa. (Cf. Tylor,
 *Prim. Cult.*,<sup>4</sup> ii. 62, 48, &c.)
 
-<span id="fn_323"></span>[334:1](ffcc260.htm#fr_354) *White Book of
+<span id="fn_323"></span>[334:1](ffcc260.htm#fr_354.md) *White Book of
 Rhyderch*, folio 291a; cf. Rhy^s, *Arth. Leg.*, pp. 268-9.
 
-<span id="fn_324"></span>[335:1](ffcc260.htm#fr_356) From *Echtra
+<span id="fn_324"></span>[335:1](ffcc260.htm#fr_356.md) From *Echtra
 Condla*, in the *Leabhar na h-Uidhre*. Cf. *Le Cycle Myth. Irl.*, pp.
 192-3.
 
-<span id="fn_325"></span>[336:1](ffcc260.htm#fr_357) Cf. Eleanor Hull,
+<span id="fn_325"></span>[336:1](ffcc260.htm#fr_357.md) Cf. Eleanor Hull,
 *The Silver Bough in Irish Legend*, in *Folk-Lore*, xii.
 
-<span id="fn_326"></span>[337:1](ffcc260.htm#fr_358) Cf. Eleanor Hull,
+<span id="fn_326"></span>[337:1](ffcc260.htm#fr_358.md) Cf. Eleanor Hull,
 op. cit., p. 431.
 
-<span id="fn_327"></span>[337:2](ffcc260.htm#fr_359) Classical parallels
+<span id="fn_327"></span>[337:2](ffcc260.htm#fr_359.md) Classical parallels
 to the Celtic Otherworld journeys exist in the descent of Dionysus to
 bring back Semele, of Orpheus to recover his beloved Eurydike, of
 Herakles at the command of his master Eurystheus to fetch up the
@@ -992,30 +992,30 @@ three-headed Kerberos--as mentioned first in Homers *Iliad* (cf. Tylor,
 Odysseus across the deep-flowing Ocean to the land of the departed
 (Homer, *Odyss*. xi).
 
-<span id="fn_328"></span>[337:3](ffcc260.htm#fr_361) Servius, *ad Aen.*,
+<span id="fn_328"></span>[337:3](ffcc260.htm#fr_361.md) Servius, *ad Aen.*,
 vi. 136 ff.
 
-<span id="fn_329"></span>[338:1](ffcc260.htm#fr_362) *Voy. of Bran*, i,
+<span id="fn_329"></span>[338:1](ffcc260.htm#fr_362.md) *Voy. of Bran*, i,
 pp. 2 ff. The tale is based on seven manuscripts ranging in age from the
 *Leabhar na h-Uidhre* of about A.D. 1100 to six others belonging to the
 fourteenth, fifteenth, and sixteenth centuries (cf. ib., p. xvi).
 
-<span id="fn_330"></span>[340:1](ffcc260.htm#fr_363) This tale exists in
+<span id="fn_330"></span>[340:1](ffcc260.htm#fr_363.md) This tale exists in
 several manuscripts of the fourteenth and fifteenth centuries; i. e.
 *Book of Ballymote*, and *Yellow Book of Lecan*, as edited and
 translated by Stokes, in *Irische Texts*, III. i. 183-229; cf. *Voy. of
 Bran*, i*.* 190 ff.; cf. *Le Cycle Myth. Irl.*, pp. 326-33.
 
-<span id="fn_331"></span>[341:1](ffcc260.htm#fr_364) The fountain is a
+<span id="fn_331"></span>[341:1](ffcc260.htm#fr_364.md) The fountain is a
 sacred fountain containing the sacred salmon; and the nine hazels are
 the sacred hazels of inspiration and poetry. These passages are among
 the most mystical in Irish literature. Cf. pp.
-[432](ffcc309.htm#page_432)+-3.
+[432](ffcc309.htm#page_432.md)+-3.
 
-<span id="fn_332"></span>[342:1](ffcc260.htm#fr_365) Cf. Stokes's trans.
+<span id="fn_332"></span>[342:1](ffcc260.htm#fr_365.md) Cf. Stokes's trans.
 in *Irische Text*. (Leipzig, 1891), III. i. 211-16.
 
-<span id="fn_333"></span>[343:1](ffcc260.htm#fr_366) The Greeks saw in
+<span id="fn_333"></span>[343:1](ffcc260.htm#fr_366.md) The Greeks saw in
 Hermes the symbol of the Logos. Like Manannan, he conducted the souls of
 men to the Otherworld of the gods, and then brought them back to the
 human world. Hermes holds a rod in his hands, beautiful, golden,
@@ -1031,33 +1031,33 @@ figured forth the serpentine power in man, and the path whereby it would
 carry the "man" aloft to the height, if he would but cause the "Waters
 of the Jordan" to "flow upwards".'--G. R. S. Mead. ib., p. 185.
 
-<span id="fn_334"></span>[344:1](ffcc260.htm#fr_367) Cf. Hennessy's ed.
+<span id="fn_334"></span>[344:1](ffcc260.htm#fr_367.md) Cf. Hennessy's ed.
 in *Todd Lectures*, ser. I. i. 9.
 
-<span id="fn_335"></span>[344:2](ffcc260.htm#fr_368) Among the early
+<span id="fn_335"></span>[344:2](ffcc260.htm#fr_368.md) Among the early
 ecclesiastical manuscripts of the so-called *Prophecies*. See E.
 O'Curry, *Lectures*, p. 383.
 
-<span id="fn_336"></span>[344:3](ffcc260.htm#fr_369) Cf. Eleanor Hull,
+<span id="fn_336"></span>[344:3](ffcc260.htm#fr_369.md) Cf. Eleanor Hull,
 op. cit., pp. 439-40.
 
-<span id="fn_337"></span>[345:1](ffcc260.htm#fr_370) Now in three
+<span id="fn_337"></span>[345:1](ffcc260.htm#fr_370.md) Now in three
 versions based on the *L. U.* MS. Our version is collated from O'Curry's
 translation in *Atlantis*, i. 362-92, ii. 98-124, as revised by Kuno
 Meyer, *Voy. of Bran*, i. 152 ff.; and from Jubainville's translation in
 *L'Ép. celt. en Irl.*, pp. 170-216.
 
-<span id="fn_338"></span>[346:1](ffcc260.htm#fr_371) As Alfred Nutt
+<span id="fn_338"></span>[346:1](ffcc260.htm#fr_371.md) As Alfred Nutt
 pointed out, 'There is no parallel to the position or to the sentiments
 of Fand in the post-classic literature of Western Europe until we come
 to Guinevere and Isolt, Ninian and Orgueilleuse' *(Voy. of Bran*, i.
 156n.).
 
-<span id="fn_339"></span>[346:2](ffcc260.htm#fr_372) See poem *Tír na
+<span id="fn_339"></span>[346:2](ffcc260.htm#fr_372.md) See poem *Tír na
 nog* (Land of Youth), by Michael Comyn, composed or collected about the
 year 1749. Ed. by Bryan O'Looney, in *Trans. Ossianic Soc.*, iv. 234-70.
 
-<span id="fn_340"></span>[347:1](ffcc260.htm#fr_373) Laeghaire, who also
+<span id="fn_340"></span>[347:1](ffcc260.htm#fr_373.md) Laeghaire, who also
 came back from Fairyland on a fairy horse, and fifty warriors with him
 each likewise mounted, to say good-bye for ever to the king and people
 of Connaught, were warned as they set out for this world not to dismount
@@ -1065,67 +1065,67 @@ if they wished to return to their fairy wives. The warning was strictly
 observed, and thus they were able to go back to the *Sidhe*-world (see
 p. 295).
 
-<span id="fn_341"></span>[348:1](ffcc260.htm#fr_374) Cf. *Bibliotheca
+<span id="fn_341"></span>[348:1](ffcc260.htm#fr_374.md) Cf. *Bibliotheca
 Normannica*, iii, *Die Lais der Marie de France*, pp. 86-112.
 
-<span id="fn_342"></span>[348:2](ffcc260.htm#fr_375) Cf. Stokes's
+<span id="fn_342"></span>[348:2](ffcc260.htm#fr_375.md) Cf. Stokes's
 trans., in *Rev. Celt.*, ix. 453-95, x. 50-95. Most of the tale comes
-[from](errata.htm#0) the *L. U.* MS.; cf. *L'Ép. celt. en Irl.*, pp.
+[from](errata.htm#0.md) the *L. U.* MS.; cf. *L'Ép. celt. en Irl.*, pp.
 449-500.
 
-<span id="fn_343"></span>[351:1](ffcc260.htm#fr_376) *Silva Gadelica*,
+<span id="fn_343"></span>[351:1](ffcc260.htm#fr_376.md) *Silva Gadelica*,
 ii. 385-401. The MS. Text, *Echtra Thaidg mheic Chéin* or 'The Adventure
 of Cian's son Teigue', is found in the *Book of Lismore*.
 
-<span id="fn_344"></span>[352:1](ffcc260.htm#fr_377) Summarized and
+<span id="fn_344"></span>[352:1](ffcc260.htm#fr_377.md) Summarized and
 quoted from translation by R. I. Best, in *Ériu*, iii. 150-73. The text
 is found in *the Book of Fermoy* (pp*.* 139--45), a fifteenth-century
 codex in the Royal Irish Academy.
 
-<span id="fn_345"></span>[353:1](ffcc260.htm#fr_378) Folios 113-15*,*
+<span id="fn_345"></span>[353:1](ffcc260.htm#fr_378.md) Folios 113-15*,*
 trans. O'Beirne Crow, *Journ. Kilkenny Archae. Soc.* (1870-1), pp.
 371-448; cf. Rhy^s, *Hib. Lect.*, pp. 260-1.
 
-<span id="fn_346"></span>[353:2](ffcc260.htm#fr_379) Cf. Skene, *Four
+<span id="fn_346"></span>[353:2](ffcc260.htm#fr_379.md) Cf. Skene, *Four
 Ancient Books of Wales*, i*.* 264-6, 276, &c.
 
-<span id="fn_347"></span>[354:1](ffcc260.htm#fr_380) Cf. *Silva
+<span id="fn_347"></span>[354:1](ffcc260.htm#fr_380.md) Cf. *Silva
 Gadelica*, ii. 301 ff., from Additional MS. 34119, dating from 1765, in
 British Museum.
 
-<span id="fn_348"></span>[354:2](ffcc260.htm#fr_381) *Giolla an
+<span id="fn_348"></span>[354:2](ffcc260.htm#fr_381.md) *Giolla an
 Fhiugha*, or 'The Lad of the Ferrule', trans. by Douglas Hyde, in *Irish
 Texts Society*, London, 1899.
 
-<span id="fn_349"></span>[354:3](ffcc260.htm#fr_383) Cf. Meyer and Nutt,
+<span id="fn_349"></span>[354:3](ffcc260.htm#fr_383.md) Cf. Meyer and Nutt,
 *Voy. of Bran*, i. 147, 228, 230, 235; 161.
 
-<span id="fn_350"></span>[354:4](ffcc260.htm#fr_384) The bulk of the
+<span id="fn_350"></span>[354:4](ffcc260.htm#fr_384.md) The bulk of the
 text comes from the *Book of Fermoy*. Cf. Stokes's trans. in *Rev.
 Celt.*, xiv. 59, 49, 53, &c.
 
-<span id="fn_351"></span>[355:1](ffcc260.htm#fr_385) J. Loth,
+<span id="fn_351"></span>[355:1](ffcc260.htm#fr_385.md) J. Loth,
 *L'Émigration bretonne en Armorique* (Paris, 1883), pp. 139-40.
 
-<span id="fn_352"></span>[356:1](ffcc260.htm#fr_386) Ed. and trans. by
+<span id="fn_352"></span>[356:1](ffcc260.htm#fr_386.md) Ed. and trans. by
 W. Stokes, Calcutta, 1866. This *Vision* has been erroneously ascribed
 to the celebrated Abbot of Iona, who died in 703*;* but Professor Zimmer
 has regarded it as a ninth-century composition; cf. *Voy. of Bran*, i.
 219 ff.
 
-<span id="fn_353"></span>[356:2](ffcc260.htm#fr_387) Cf. *Voy. of Bran,*
+<span id="fn_353"></span>[356:2](ffcc260.htm#fr_387.md) Cf. *Voy. of Bran,*
 i. 195 ff.
 
-<span id="fn_354"></span>[357:1](ffcc260.htm#fr_388) See J. G. Campbell,
+<span id="fn_354"></span>[357:1](ffcc260.htm#fr_388.md) See J. G. Campbell,
 *The Fians*, pp. 260-7.
 
-<span id="fn_355"></span>[357:2](ffcc260.htm#fr_389) *The Literary
+<span id="fn_355"></span>[357:2](ffcc260.htm#fr_389.md) *The Literary
 Movement in Ireland*, in *Ideals in Ireland*, ed. by Lady Gregory
 (London, 1901), p. 95.
 
-<span id="fn_356"></span>[357:3](ffcc260.htm#fr_390) Cf. *Voy. of Bran*,
+<span id="fn_356"></span>[357:3](ffcc260.htm#fr_390.md) Cf. *Voy. of Bran*,
 i. 331.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Celtic Doctrine of Rebirth](ffcc270)
+[Next: Chapter VII. The Celtic Doctrine of Rebirth](ffcc270.md)

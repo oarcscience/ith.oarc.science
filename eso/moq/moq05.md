@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](moq04)  [Next](moq06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](moq04)  [Next](moq06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysteries of the Qabalah*, by Elias Gewurz, \[1922\], at Intangible
 Textual Heritage
 
@@ -33,7 +33,7 @@ but rather as a central movement given to matter, a hidden spring acting
 in the depths of things.
 
 The self-seeking elements within man, the blind passions common to us
-all in our early stages of evolution are the [offspring](errata.htm#2)
+all in our early stages of evolution are the [offspring](errata.htm#2.md)
 of this snake—<span class="smallcaps">Nachash</span>. This word stands
 
 <span id="page_22">p. 22</span>
@@ -61,4 +61,4 @@ to obey the law of love, the first dictate of which is self-sacrifice.
 
 ------------------------------------------------------------------------
 
-[Next: The Brotherhood of the White Lodge](moq06)
+[Next: The Brotherhood of the White Lodge](moq06.md)

@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama208) 
-[Next](kama210) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama208.md) 
+[Next](kama210.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ those that are disguised as females. Eunuchs disguised as females
 imitate their dress, speech, gestures, tenderness, timidity, simplicity,
 softness and bashfulness. The acts that are done on the jaghana or
 middle parts of women, are done in the mouths of these eunuchs, and this
-is called Auparishtaka. <span id="fr_35"></span>[1](kama101.htm#fn_0)
+is called Auparishtaka. <span id="fr_35"></span>[1](kama101.htm#fn_0.md)
 These eunuchs derive their imaginable pleasure, and their livelihood
 from this kind of congress, and they lead the life of courtesans. So
 much concerning eunuchs disguised as females.
@@ -169,7 +169,7 @@ particular time and for any particular purpose.
 
 ### Footnotes
 
-<span id="fn_35"></span>[1](#fr_-1) This practice appears to have been
+<span id="fn_35"></span>[1](#fr_-1.md) This practice appears to have been
 prevalent in some parts of India from a very ancient time. The Shustruta
 , a work on medicine some two thousand years old, describes the wounding
 of the lingam with the teeth as one of the causes of a disease treated
@@ -185,4 +185,4 @@ practice of sodomy, introduced since the Mahomedan period.
 ------------------------------------------------------------------------
 
 [Next: Chapter X. How to Begin and How to End the Congress. Different
-Kinds of Congress, and Love Quarrels](kama210)
+Kinds of Congress, and Love Quarrels](kama210.md)

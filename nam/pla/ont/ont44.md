@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont43)  [Next](ont45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont43)  [Next](ont45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 
 ### APPENDIX II
 
-*Page* [15](ont04.htm#page_15)<span id="an_15"></span>.—"This region
+*Page* [15](ont04.htm#page_15.md)<span id="an_15"></span>.—"This region
 should be reserved as a National Park and Game Preserve."
 
 There is a Bill before Congress which proposes to create this tract of
@@ -95,9 +95,9 @@ which in many features is unlike, and which in its beauty and
 opportunities for wholesome pleasure will fitly supplement those which
 we already have."
 
-*Page* [29](ont05.htm#page_29)<span id="an_29"></span>,
-[30](ont05.htm#page_30)<span id="an_30"></span>,
-[35](ont05.htm#page_35)<span id="an_35"></span>.—"Sacred bundle of the
+*Page* [29](ont05.htm#page_29.md)<span id="an_29"></span>,
+[30](ont05.htm#page_30.md)<span id="an_30"></span>,
+[35](ont05.htm#page_35.md)<span id="an_35"></span>.—"Sacred bundle of the
 Beaver Medicine"—"Medicine Pipe" and "Medicine Bonnet."
 
 The word "medicine," when used as a noun by itself, means something
@@ -111,11 +111,11 @@ handed down from generation
 <span id="page_518">p. 518</span>
 
 to generation. (See legend of its origin in Chapter 6.) It was only
-opened upon an important religious occasion, [accompanied](errata.htm#5)
+opened upon an important religious occasion, [accompanied](errata.htm#5.md)
 by a ceremonial. For more extended comments on the significance and use
 of the word "Medicine" see Chapter XI.
 
-*Page* [50](ont06.htm#page_50)<span id="an_50"></span>.—"Parfleches." A
+*Page* [50](ont06.htm#page_50.md)<span id="an_50"></span>.—"Parfleches." A
 raw-hide case used for packing in horse transportation and also as a
 trunk or receptacle for use inside the tipi. The "parfleches" and
 "pemmican bags" were a necessity for a nomadic people. Both were
@@ -123,15 +123,15 @@ favourite objects for decoration to gratify their sense of the
 beautiful. They ordinarily used conventional designs of triangles
 combined in quadrangular forms and painted in red, blue and yellow.
 
-*Page* [53](ont06.htm#page_53)<span id="an_53"></span>.—"Their lodge
+*Page* [53](ont06.htm#page_53.md)<span id="an_53"></span>.—"Their lodge
 poles were worn too short." When changing camp, the small ends of the
 lodge poles were fastened to the horses’ sides, the large ends dragging
 behind upon the ground. The Blackfeet changed camp so frequently that
 their poles were soon worn too short for the lodges, requiring a new set
 of lodge poles every year.
 
-*Page* [152](ont12.htm#page_152)<span id="an_152"></span>,
-[504](ont41.htm#page_504)<span id="an_504"></span>.—"When Wakes-up-last
+*Page* [152](ont12.htm#page_152.md)<span id="an_152"></span>,
+[504](ont41.htm#page_504.md)<span id="an_504"></span>.—"When Wakes-up-last
 murdered all of his children." The murder of Brings-down-the-Sun's
 daughter (Pretty Blanket) and her three children, and Wakes-up-last's
 suicide, was the result of the sale of bad whiskey, consisting largely
@@ -141,7 +141,7 @@ because of the superstitious dread of touching the dead, until Menake
 prepared them for burial. Although the sale of whiskey to Indians is
 prohibited by United States Law the saloon-keepers escaped punishment.
 
-*Page* [157](ont13.htm#page_157)<span id="an_157"></span>.—Father De
+*Page* [157](ont13.htm#page_157.md)<span id="an_157"></span>.—Father De
 Smet was a Jesuit priest noted in his day for his influence with the
 Indian tribes in the North-West. His diary records that in 1841 he
 secured 30 brave Pend d’Oreilles to accompany him through the country of
@@ -150,8 +150,8 @@ they never gave them any quarter. Later, in 1846, while living among the
 Blackfeet, he reported them equal in hospitality with other Indian
 tribes.
 
-*Page* [137](ont11.htm#page_137)<span id="an_137"></span>,
-[193](ont17.htm#page_193)<span id="an_193"></span>.—"Travois." A horse
+*Page* [137](ont11.htm#page_137.md)<span id="an_137"></span>,
+[193](ont17.htm#page_193.md)<span id="an_193"></span>.—"Travois." A horse
 litter made of poles. Two poles were fastened like shafts to the sides
 of a horse, the small ends crossing above and in front of the horse's
 head, while the large ends dragged behind on the ground. A cross-framing
@@ -160,7 +160,7 @@ device young children, the aged and sick were transported, also
 provisions and camp equipage. Sometimes a canopy, constructed of bent
 branches and a skin covering, was used for protection from sun and rain.
 
-*Page* [283](ont23.htm#page_283)<span id="an_283"></span>.—"Indian music
+*Page* [283](ont23.htm#page_283.md)<span id="an_283"></span>.—"Indian music
 should be preserved."
 
 Deeply impressed with the great possibilities of Indian music, I
@@ -170,7 +170,7 @@ persuaded Arthur Nevin, an American composer, to go with me to
 
 the camps of the Blackfeet. During his stay in my Indian tipi, I
 proposed his composing an opera founded on the story of Poïa. (page
-[491](ont41.htm#page_491)), the most ancient tradition of the Blackfeet,
+[491](ont41.htm#page_491).md), the most ancient tradition of the Blackfeet,
 using an Indian environment and Indian musical themes. The opera, which
 was named "Poïa," was completed by Mr. Nevin in the spring of 1906. Mr.
 Randolph Hartley of New York wrote the libretto. The music was played
@@ -182,7 +182,7 @@ staged, both as to scenery and costumes, and was sung by a strong cast
 of the Berlin Royal Opera. The second performance was attended by the
 Crown Prince and Crown Princess and other members of the Royal Family.
 
-*Page* [307](ont25.htm#page_307)<span id="an_307"></span>.—"Counting
+*Page* [307](ont25.htm#page_307.md)<span id="an_307"></span>.—"Counting
 Coups."
 
 To "count coups" is to narrate deeds of valour. The bravest coup was to
@@ -190,14 +190,14 @@ strike, or even touch an enemy before killing him. It was also counted
 as a coup to capture a weapon or article of clothing such as a shield,
 war shirt, or war bonnet.
 
-*Page* [312](ont26.htm#page_312)<span id="an_312"></span>.—"Bull Child
+*Page* [312](ont26.htm#page_312.md)<span id="an_312"></span>.—"Bull Child
 wore a robe famous among the Blackfeet." This robe was purchased by Dr.
 Clark Wissler for the American Museum of Natural History, New York City,
 and is exhibited in their collection from the Blackfeet. Its design and
 the instructions as to how it should be made, were given to
 Brings-Down-the Sun in a dream (page 430).
 
-*Page* [425](ont34.htm#page_425)<span id="an_425"></span>.—"We call the
+*Page* [425](ont34.htm#page_425.md)<span id="an_425"></span>.—"We call the
 thunder Isis-a-kummi (Thunder-bird)." Nearly all of the widely spread
 tribes of the Algonquian stock, as well as other ethnical divisions of
 the Red Indians, had a myth concerning the awe-inspiring mystery of
@@ -251,7 +251,7 @@ ceremonials. Its symbol was also painted on shields, weapons and war
 clothes for inspiring courage, and on tipis for invoking protection in
 behalf of the family.
 
-*Page* [437](ont36.htm#page_437)<span id="an_437"></span>.—"Piskun:" A
+*Page* [437](ont36.htm#page_437.md)<span id="an_437"></span>.—"Piskun:" A
 natural trap, usually a perpendicular cliff or cut-bank, used for
 capturing game on a large scale and requiring the co-operation of many
 Indians. This method of killing buffalo by frightening and rushing them
@@ -275,7 +275,7 @@ piskuns are still easily recognised by the darker green of the grass,
 showing the soil-enrichment from animal slaughter. Numerous flint
 arrowheads and other relics of the chase are also found there.
 
-*Page* [465](ont38.htm#page_465)<span id="an_465"></span>.—Tribal
+*Page* [465](ont38.htm#page_465.md)<span id="an_465"></span>.—Tribal
 regulations for hunting buffalo were not characteristic of the Blackfeet
 alone, but were used by the other plains-tribes as a necessary
 protection for their common interests. According to the journal of
@@ -291,7 +291,7 @@ finally joined with the white hunter in a blind and reckless slaughter
 of the vast herds of buffalo, until they became practically extinct in
 1883.
 
-*Page* [478](ont39.htm#page_478)<span id="an_478"></span>.—"I see the
+*Page* [478](ont39.htm#page_478.md)<span id="an_478"></span>.—"I see the
 Last Brother is pointing downwards towards the prairie." The pointing of
 the "Last Brother" furnished the Blackfeet with their night-sky clock.
 This method of telling time in the night is well known to shepherds and
@@ -311,13 +311,13 @@ they never had need for other than an approximate record of time, that
 being the one thing they had more of than they knew what to do with."
 (Dr. J. A. Brashear.)
 
-*Page* [487](ont40.htm#page_487)<span id="an_487a"></span>.—"When the
+*Page* [487](ont40.htm#page_487.md)<span id="an_487a"></span>.—"When the
 Akatsis (Lariat, or Rainbow) appears in the sky." The rainbow symbol is
 sometimes used in Indian decoration to represent the Thunder-bird. Other
 tribes call it "The Rain's Hat," "The Great Spirit's Fish Line," and
 "Strong-medicine-to-drive-away-rain."
 
-*Page* [487](ont40.htm#page_487)<span id="an_487b"></span>.—"When the
+*Page* [487](ont40.htm#page_487.md)<span id="an_487b"></span>.—"When the
 fires of the Northmen (Aurora Borealis) flash in the winter sky."
 
 <span id="page_522">p. 522</span>
@@ -328,7 +328,7 @@ Mysterious Fire of the North." The Indians of Vancouver Island believe
 that the light is caused by the fires of a tribe of Indian manikin, who
 live near the North Pole and boil out their blubber on the ice.
 
-*Page* [487](ont40.htm#page_487)<span id="an_487c"></span>.—"When the
+*Page* [487](ont40.htm#page_487.md)<span id="an_487c"></span>.—"When the
 sun paints both his cheeks, that is, when the Sun-dogs (Ick ski)
 appear." The concept, used in Indian sign-language to represent
 Sun-dogs, is "Fires to warm the Sun." The Shoshones' name for the
@@ -339,7 +339,7 @@ say that 'the Sun has kindled a fire.' When the Sun is eclipsed, they
 say it 'faints or dies.' The Sun 'travels' while the ground is
 motionless." (Rev. J. O. Dorsey.)
 
-*Page* [487](ont40.htm#page_487)<span id="an_487d"></span>.—"When I see
+*Page* [487](ont40.htm#page_487.md)<span id="an_487d"></span>.—"When I see
 a star feeding (Blackfeet name for comet)." "Comets have been regarded
 among all nations from the earliest ages as portents of evil. It is
 therefore not surprising that this superstition should be found among
@@ -360,7 +360,7 @@ most refined instruments. Sir Robert Ball has well said, The effect
 could not be greater than the contact of a rhinoceros with a cobweb.'"
 (Dr. J. A. Brashear.)
 
-*Page* [487](ont40.htm#page_487)<span id="an_487e"></span>.—"When the
+*Page* [487](ont40.htm#page_487.md)<span id="an_487e"></span>.—"When the
 sun hides his face."
 
 "A total eclipse of the sun is commonly regarded as the forerunner of
@@ -374,7 +374,7 @@ sun."
 
 (Dr. J. A. Brashear.)
 
-*Page* [487](ont40.htm#page_487)<span id="an_487f"></span>.—"Day Star."
+*Page* [487](ont40.htm#page_487.md)<span id="an_487f"></span>.—"Day Star."
 In general the plains-tribes had more
 
 <span id="page_523">p. 523</span>
@@ -389,7 +389,7 @@ several weeks, but varies slightly from year to year."
 
 (Dr. J. A. Brashear.)
 
-*Page* [488](ont40.htm#page_488)<span id="an_488"></span>.—"'The Seven
+*Page* [488](ont40.htm#page_488.md)<span id="an_488"></span>.—"'The Seven
 Brothers' (Great Bear), also known in England as the 'Plough' and
 'Wain.'" According to a Sioux legend, "the four stars of the bowl of the
 dipper are called the 'bier.' It is borne by four men, behind whom comes
@@ -399,13 +399,13 @@ with her young one weeping'" (following the bier).
 
 (Rev. J. O. Dorsey.)
 
-*Page* [489](ont40.htm#page_489)<span id="an_489"></span>.—"The Little
+*Page* [489](ont40.htm#page_489.md)<span id="an_489"></span>.—"The Little
 Sister" star is the smaller one of the two stars, at the bend in the
 handle of the dipper. In the older astronomy the brighter star is called
 "Mizar," and its companion "Alcor." Mizar itself is a double star, one
 of the most beautiful visible to the naked eye.
 
-*Page* [490](ont40.htm#page_490)<span id="an_490"></span>.—"There is
+*Page* [490](ont40.htm#page_490.md)<span id="an_490"></span>.—"There is
 also a family of six small stars we call the 'Lost Children'
 (Pleiades)." "This beautiful and brilliant group of seven stars,
 bringing its name Pleiades down from the ancients, has always been the
@@ -421,7 +421,7 @@ brighter stars are surrounded with vast fields of nebulous matter."
 
 (Dr. J. A. Brashear.)
 
-*Page* [491](ont41.htm#page_491)<span id="an_491"></span>.—"Morning Star
+*Page* [491](ont41.htm#page_491.md)<span id="an_491"></span>.—"Morning Star
 and Young Morning Star or Legend of Star Boy (Later Scarface, or Poïa)."
 "The conjunction of two planets, that is their near approach to each
 other, has always been of deep significance to the untutored nations of
@@ -461,7 +461,7 @@ closest just before sunrise."
 
 (Dr. J. A. Brashear.)
 
-*Page* [499](ont41.htm#page_499)<span id="an_499"></span>.—"The Star
+*Page* [499](ont41.htm#page_499.md)<span id="an_499"></span>.—"The Star
 that stands still." "The North Star has a motion around the true pole at
 this epoch of one and one-third degrees, or in other words, it is nearly
 three times the diameter of the Moon away from the true pole of the
@@ -473,4 +473,4 @@ satisfy all demands of the tutored as well as the untutored observers."
 
 ------------------------------------------------------------------------
 
-[Next: Appendix II (continued): Catalog of Botanical Collection](ont45)
+[Next: Appendix II (continued): Catalog of Botanical Collection](ont45.md)

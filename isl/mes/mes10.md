@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes09)  [Next](mes11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes09)  [Next](mes11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -22,7 +22,7 @@ Textual Heritage
 
 *The Sultan of them who attain to the Truth, in whom are manifested the
 mysteries of Positive Knowledge, Bahā’u-’l-Haqqiwa-’d-Dīn,* <span
-id="fr_33"></span>[1](#fn_32) *El Veled*.
+id="fr_33"></span>[1](#fn_32.md) *El Veled*.
 
 #### 1.
 
@@ -163,9 +163,9 @@ or nine summers.
 
 ### Footnotes
 
-<span id="fn_32"></span>[122:1](mes10.htm#fr_33) The Beauty of the Truth
+<span id="fn_32"></span>[122:1](mes10.htm#fr_33.md) The Beauty of the Truth
 and of the Religion (of Islām).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](mes11)
+[Next: Chapter VIII](mes11.md)

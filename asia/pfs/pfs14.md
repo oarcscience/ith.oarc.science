@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pfs13)  [Next](pfs15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pfs13)  [Next](pfs15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/141914135X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/141914135X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ For God has more power than the fierce Tic-balan.
 
 ------------------------------------------------------------------------
 
-[Next: The Anting-Anting of Manuelito](pfs15)
+[Next: The Anting-Anting of Manuelito](pfs15.md)

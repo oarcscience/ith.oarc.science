@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](trs00)  [Next](trs02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](trs00)  [Next](trs02.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,12 +16,12 @@ Heritage
 [![THE ROSETTA STONE, inscribed with a decree of the priests of Memphis,
 offering divine honours on Ptolemy V., Epiphanes, King of Egypt, B.C.
 193.](tn/rosetta.jpg)  
-Click to enlarge](img/rosetta.jpg)  
+Click to enlarge](img/rosetta.jpg.md)  
 THE ROSETTA STONE, inscribed with a decree of the priests of Memphis,
 offering divine honours on Ptolemy V., Epiphanes, King of Egypt, B.C.
 193.  
 
-### THE ROSETTA STONE <span id="fr_0"></span>[1](#fn_0) AND THE STELE OF CANOPUS.
+### THE ROSETTA STONE <span id="fr_0"></span>[1](#fn_0.md) AND THE STELE OF CANOPUS.
 
 The following remarks upon the decipherment of the Egyptian
 hieroglyphics may be fitly introduced by a description of the remarkable
@@ -79,8 +79,8 @@ life."
 on the Rosetta Stone form a version of a decree of the priesthood
 assembled at Memphis in honour of **Ptolemy V., Epiphanes**, King of
 Egypt, B.C. 195, written in hieroglyphics, demotic and Greek. A
-facsimile <span id="fr_1"></span>[1](#fn_1) of them was published by the
-Society of Antiquaries <span id="fr_2"></span>[2](#fn_2) in 1802, and
+facsimile <span id="fr_1"></span>[1](#fn_1.md) of them was published by the
+Society of Antiquaries <span id="fr_2"></span>[2](#fn_2.md) in 1802, and
 copies were distributed among the scholars who were anxious to undertake
 the investigation of the texts. <span class="margnote">Principal works
 on the Rosetta Stone.</span>The hieroglyphic text has been translated by
@@ -162,7 +162,7 @@ Egyptian hieroglyphics clings. For many hundreds of years the interest
 of the learned of all countries has been excited by the hieroglyphic
 inscriptions of Egypt, and the theories propounded as to their contents
 were legion. Speaking broadly, the references to this subject by
-classical authors <span id="fr_3"></span>[1](#fn_3) are not very
+classical authors <span id="fr_3"></span>[1](#fn_3.md) are not very
 satisfactory; still there are some remarkable exceptions which will be
 referred to presently. Inasmuch as the names of Roman emperors, as late
 as the time of Decius<span class="margnote">Late use of
@@ -173,7 +173,7 @@ the Ptolemies began to reign, the Egyptian hieroglyphics appear to have
 been commonly used, and the Egyptians were not prohibited from making
 use, so far as it seemed requisite, according to ritual or otherwise
 appropriate, of the native language and of its time-hallowed written
-signs." <span id="fr_4"></span>[2](#fn_4) Little by little, however, the
+signs." <span id="fr_4"></span>[2](#fn_4.md) Little by little, however, the
 Greek language displaced
 
 <span id="page_112">p. 112</span>
@@ -192,26 +192,26 @@ value.
 
 ### Footnotes
 
-<span id="fn_0"></span>[108:1](trs01.htm#fr_0) A cast of the Rosetta
+<span id="fn_0"></span>[108:1](trs01.htm#fr_0.md) A cast of the Rosetta
 Stone is exhibited in the Fitzwilliam Museum.
 
-<span id="fn_1"></span>[109:1](trs01.htm#fr_1) Other facsimiles are
+<span id="fn_1"></span>[109:1](trs01.htm#fr_1.md) Other facsimiles are
 given in Lepsius, *Auswahl*, Bl. 18, and in Arundale and Bonomi,
 *Gallery of Antiquities*, pl. 49, p. 114.
 
-<span id="fn_2"></span>[109:2](trs01.htm#fr_2) The Greek version of the
+<span id="fn_2"></span>[109:2](trs01.htm#fr_2.md) The Greek version of the
 decree of the Egyptian Priests in honour of *Ptolemy the Fifth*,
 surnamed *Epiphanes*, from the stone inscribed in the sacred and vulgar
 Egyptian and the Greek characters, taken from the French at the
 surrender of Alexandria. London, 1802. Nichols.
 
-<span id="fn_3"></span>[111:1](trs01.htm#fr_3) See Gutschmid,
+<span id="fn_3"></span>[111:1](trs01.htm#fr_3.md) See Gutschmid,
 *Scriptorum rerum Aegyptiacarum Series,* in *Philologus*, Bd. X.,
 Göttingen, 1855, ss. 712 ff.
 
-<span id="fn_4"></span>[111:2](trs01.htm#fr_4) Mommsen, *Provinces of
+<span id="fn_4"></span>[111:2](trs01.htm#fr_4.md) Mommsen, *Provinces of
 the Roman Empire*, Vol. II. p. 243.
 
 ------------------------------------------------------------------------
 
-[Next: Ancient writings about Hieroglyphics](trs02)
+[Next: Ancient writings about Hieroglyphics](trs02.md)

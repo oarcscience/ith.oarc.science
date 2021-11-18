@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](odpr16)  [Next](odpr18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](odpr16)  [Next](odpr18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,11 +18,11 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
 
 ### APPENDIX F
 
-### EXHORTATIONS AND PRAYERS BY AL-SAYYID ‘ABDULLĀH AL-[TANŪKHI](errata.htm#0) <span id="fr_219"></span>[1](#fn_219)
+### EXHORTATIONS AND PRAYERS BY AL-SAYYID ‘ABDULLĀH AL-[TANŪKHI](errata.htm#0) <span id="fr_219"></span>[1](#fn_219.md)
 
 #### I
 
-#### EXHORTATION TO THE *‘ĀQIL* <span id="fr_220"></span>[2](#fn_220)
+#### EXHORTATION TO THE *‘ĀQIL* <span id="fr_220"></span>[2](#fn_220.md)
 
 It is incumbent upon the *‘Āqil* that he should direct his energy only
 to the next world, preparing for it the provisions of piety, and not
@@ -47,7 +47,7 @@ part of
 <span id="page_72">p. 72</span>
 
 the souls; and if the light of Unity and gnosis <span
-id="fr_221"></span>[1](#fn_221) should shine upon it, then all
+id="fr_221"></span>[1](#fn_221.md) should shine upon it, then all
 wickedness therein is destroyed, extinguished and exterminated—just as
 when the light of the sun shines, the light of the planets is eclipsed
 and entirely put out. Although the planets’ light is extinguished in
@@ -85,7 +85,7 @@ strive, and I shall give thee success;
 <span id="page_73">p. 73</span>
 
 beseech, and I shall respond; be content, and I shall enrich thee; ask
-and I shall give." <span id="fr_222"></span>[1](#fn_222)
+and I shall give." <span id="fr_222"></span>[1](#fn_222.md)
 
 #### III
 
@@ -130,29 +130,29 @@ his own permission? He knoweth what hath been before them and what shall
 be after them; yet naught of his knowledge shall they grasp, save what
 he willeth. His throne reacheth over the heavens and the earth, and the
 upholding of both burdeneth him not—and he is the high, the
-great!" <span id="fr_223"></span>[1](#fn_223)
+great!" <span id="fr_223"></span>[1](#fn_223.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_219"></span>[71:1](odpr17.htm#fr_219) Al-Sayyid ‘Abdullāh,
+<span id="fn_219"></span>[71:1](odpr17.htm#fr_219.md) Al-Sayyid ‘Abdullāh,
 the last great commentator of the Druze religion, died in 1480 A.D.; and
 his tomb in ‘Abayh, Lebanon, is annually visited by thousands of
 believers.
 
-<span id="fn_220"></span>[71:2](odpr17.htm#fr_220) Singular of *‘Uqqāl*
+<span id="fn_220"></span>[71:2](odpr17.htm#fr_220.md) Singular of *‘Uqqāl*
 = enlightened, initiated, wise. See *supra*, [p.
-42](odpr09.htm#page_42).
+42](odpr09.htm#page_42.md).
 
-<span id="fn_221"></span>[72:1](odpr17.htm#fr_221) Arabic *ma‘rifah* =
+<span id="fn_221"></span>[72:1](odpr17.htm#fr_221.md) Arabic *ma‘rifah* =
 knowledge.
 
-<span id="fn_222"></span>[73:1](odpr17.htm#fr_222) This extract and the
+<span id="fn_222"></span>[73:1](odpr17.htm#fr_222.md) This extract and the
 following prayers suggest Moslem Ṣūfi origin.
 
-<span id="fn_223"></span>[74:1](odpr17.htm#fr_223) Koran 2: 256.
+<span id="fn_223"></span>[74:1](odpr17.htm#fr_223.md) Koran 2: 256.
 
 ------------------------------------------------------------------------
 
-[Next: Index](odpr18)
+[Next: Index](odpr18.md)

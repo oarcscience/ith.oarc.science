@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](rufo02)  [Next](rufo04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](rufo02)  [Next](rufo04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Report on Unidentified Flying Objects*, by Edward J. Ruppelt,
 \[1956\], at Intangible Textual Heritage
 
@@ -791,4 +791,4 @@ did a lot of people I briefed—but this is the story.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two. The Era of Confusion Begins](rufo04)
+[Next: Chapter Two. The Era of Confusion Begins](rufo04.md)

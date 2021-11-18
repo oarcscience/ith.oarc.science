@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](eci01)  [Next](eci03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](eci01)  [Next](eci03.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ethnography of the Cahuilla Indians*, by A. L. Kroeber, \[1908\], at
 Intangible Textual Heritage
 
@@ -129,7 +129,7 @@ between Indio and Salton were another branch of the Cahuilla.
 In a previous publication dealing with the geography of the Shoshoneans
 of California the territorial relations of the Serrano and Cahuilla in
 their region of contact have been discussed. <span
-id="fr_0"></span>[1](#fn_0) The published evidence on this point is
+id="fr_0"></span>[1](#fn_0.md) The published evidence on this point is
 conflicting, several authors having included San Bernardino valley in
 the former habitat of the Cahuilla. The conclusion was however arrived
 at that this valley was held by the Serrano, and that the westernmost
@@ -206,29 +206,29 @@ Serrano names of places are:
 | Yukaipat                                       | Yucaipa, east of Redlands.                                                                                      |
 | A<sup>r</sup>’hangk                            | a small hill west of Colton.                                                                                    |
 | Hunguvat                                       | hills southeast of Colton, across the river, probably Box Springs mountains and the hills farther north.        |
-| Hikavanü’t <span id="fr_1"></span>[2](#fn_1)   | a large hill west of Colton, probably Jurupa mountain.                                                          |
+| Hikavanü’t <span id="fr_1"></span>[2](#fn_1.md)   | a large hill west of Colton, probably Jurupa mountain.                                                          |
 | Mu<sup>r</sup>kat                              | mountains south or southwest of Colton, probably the Sierra Santa Ana.                                          |
 | Kukamonat                                      | Cucamonga.                                                                                                      |
 | Wahinut                                        | Cajon canyon.                                                                                                   |
-| Kwiria-kaich <span id="fr_2"></span>[3](#fn_2) | San Gorgonio mountain.                                                                                          |
+| Kwiria-kaich <span id="fr_2"></span>[3](#fn_2.md) | San Gorgonio mountain.                                                                                          |
 | Kayakhpiat                                     | Bear like.                                                                                                      |
 | Achavat                                        | a lake to the north of the last.                                                                                |
 | Atanpat                                        | a sierra to the north.                                                                                          |
 | Padjüdjüt                                      | (warm water), the stream flowing north from Little Bear valley, the upper Mohave river.                         |
 | Nanamüvyat                                     | six large stones, "goddesses," in or near Little Bear valley.                                                   |
-| Kotainat <span id="fr_3"></span>[4](#fn_3)     | Santa Ana river near Highland.                                                                                  |
+| Kotainat <span id="fr_3"></span>[4](#fn_3.md)     | Santa Ana river near Highland.                                                                                  |
 | Mara                                           | Twenty-nine Palms. <span id="page_35">p. 35</span>                                                              |
-| Maronga <span id="fr_4"></span>[5](#fn_4)      | Morongo valley or Mission Creek. The above, except Mu<sup>r</sup>kat, are all in Serrano territory.             |
+| Maronga <span id="fr_4"></span>[5](#fn_4.md)      | Morongo valley or Mission Creek. The above, except Mu<sup>r</sup>kat, are all in Serrano territory.             |
 | Savova                                         | San Jacinto reservation.                                                                                        |
 | Luvus                                          | place or tribe south, in vicinity of Cahuilla reservation. This does not have the appearance of a Serrano word. |
-| Aya-kaich [3](#fn_2)                           | San Jacinto mountain.                                                                                           |
-| Akavat <span id="fr_5"></span>[6](#fn_5)       | San Timoteo and Banning, the country of the Wanupiapayum Cahuilla.                                              |
+| Aya-kaich [3](#fn_2.md)                           | San Jacinto mountain.                                                                                           |
+| Akavat <span id="fr_5"></span>[6](#fn_5.md)       | San Timoteo and Banning, the country of the Wanupiapayum Cahuilla.                                              |
 | Kawishmu                                       | a small hill east of White Water, marking the boundary between the Wanupiapayum and the desert Cahuilla.        |
 
 The "Paiuches" and Chemehuevi are called Yoaka-yam, from yoaka, perhaps
 the term for a high mountain or range. This word was applied by a
 Vanyume or "Möhineyam" Serrano of Mohave river to the Chemehuevi. <span
-id="fr_6"></span>[7](#fn_6) It appears to be the Serrano term for the
+id="fr_6"></span>[7](#fn_6.md) It appears to be the Serrano term for the
 Ute-Chemehuevi in general. The desert Cahuilla are Kitanemun-um, those
 of San Gorgonio pass Wanupiapay-um. The former word resembles Gitanemuk,
 the name of the Serrano of Tejon. For themselves, the Serrano perhaps
@@ -295,7 +295,7 @@ Cahuilla reservation in the drainage of the Santa Margarita river, and
 at Santa Rosa and San Ignacio in the lost drainage of Coyote valley.
 This habitat is on the more favored side of the San Jacinto range. The
 desert Indians state that the dialect of the mountain Cahuilla is
-identical with their own. <span id="fr_7"></span>[7a](#fn_7)
+identical with their own. <span id="fr_7"></span>[7a](#fn_7.md)
 
 Twenty-nine Palms in the Mohave desert north of Indio, formerly in
 Serrano territory, is now held chiefly by Chemehuevi. Within the past
@@ -362,15 +362,15 @@ are said to refer appear to be incorrectly given.
 | Pimu         | Santa Catalina island.                                                                                                           |
 | Kingki       | (evidently San Clemente island.)                                                                                                 |
 | Chauvi       | in vicinity of San Pedro (Reid, Chowi-gna, Palos Verdes). <span id="page_39">p. 39</span>                                        |
-| Ungövi-pit   | Salinas, *i.e.*, Redondo, previously given as Ongoving. <span id="fr_8"></span>[8](eci03.htm#fn_8)                               |
-| Wenot        | Los Angeles. <span id="fr_9"></span>[9](eci03.htm#fn_9)                                                                          |
+| Ungövi-pit   | Salinas, *i.e.*, Redondo, previously given as Ongoving. <span id="fr_8"></span>[8](eci03.htm#fn_8.md)                               |
+| Wenot        | Los Angeles. <span id="fr_9"></span>[9](eci03.htm#fn_9.md)                                                                          |
 | Wach-bit     | San Bernardino.                                                                                                                  |
 | Yukaipa      | Yucaipa.                                                                                                                         |
 | Ashuksha-vit | given as La Puente, but evidently Azuza, Reid's Asuksa-gna.                                                                      |
 | Shua-vit     | given as a place on the coast near Palos Verdes or Cerritos: evidently Reid's Sua-ngna, Suanga.                                  |
-| Akura-nga    | San Gabriel; Akura-gna is given by Reid <span id="fr_10"></span>[10](eci03.htm#fn_10) for La Presa, and San Gabriel is Siba-gna. |
+| Akura-nga    | San Gabriel; Akura-gna is given by Reid <span id="fr_10"></span>[10](eci03.htm#fn_10.md) for La Presa, and San Gabriel is Siba-gna. |
 | Apachia-ng   | a small lake near San Gabriel.                                                                                                   |
-| Kukamo-nga   | Cucamonga; Reid, <span id="fr_11"></span>[10](eci03.htm#fn_10) Kukomo-gna.                                                       |
+| Kukamo-nga   | Cucamonga; Reid, <span id="fr_11"></span>[10](eci03.htm#fn_10.md) Kukomo-gna.                                                       |
 | Pashina-nga  | Chino; Reid Pasino-gna.                                                                                                          |
 | Khurupa      | Jurupa.                                                                                                                          |
 | Toibi        | San Jose; Reid Toibi-pet.                                                                                                        |
@@ -380,28 +380,28 @@ are said to refer appear to be incorrectly given.
 
 ### Footnotes
 
-<span id="fn_0"></span>[32:1](eci02.htm#fr_0) Shoshonean Dialects of
+<span id="fn_0"></span>[32:1](eci02.htm#fr_0.md) Shoshonean Dialects of
 California, present series, IV, 132, 1907.
 
-<span id="fn_1"></span>[34:2](eci02.htm#fr_1) Or Yikavanü’t.
+<span id="fn_1"></span>[34:2](eci02.htm#fr_1.md) Or Yikavanü’t.
 
-<span id="fn_2"></span>[34:3](eci02.htm#fr_2) Qaitc, mountain.
+<span id="fn_2"></span>[34:3](eci02.htm#fr_2.md) Qaitc, mountain.
 
-<span id="fn_3"></span>[34:4](eci02.htm#fr_3) Qotainat.
+<span id="fn_3"></span>[34:4](eci02.htm#fr_3.md) Qotainat.
 
-<span id="fn_4"></span>[35:5](eci02.htm#fr_4) "The largest village"
+<span id="fn_4"></span>[35:5](eci02.htm#fr_4.md) "The largest village"
 according to the Highland informant.
 
-<span id="fn_5"></span>[35:6](eci02.htm#fr_5) Aqavat. The frequent -at
+<span id="fn_5"></span>[35:6](eci02.htm#fr_5.md) Aqavat. The frequent -at
 of these names is perhaps a locative suffix.
 
-<span id="fn_6"></span>[35:7](eci02.htm#fr_6) Present series, II, 140.
+<span id="fn_6"></span>[35:7](eci02.htm#fr_6.md) Present series, II, 140.
 
-<span id="fn_7"></span>[37:7a](eci02.htm#fr_7) Cahuilla Indians from
+<span id="fn_7"></span>[37:7a](eci02.htm#fr_7.md) Cahuilla Indians from
 Cahuilla reservation, seen at the Indian conference in Riverside, April,
 1908, stated that there were slight differences between their speech and
 that of the desert Cahuilla.
 
 ------------------------------------------------------------------------
 
-[Next: Culture](eci03)
+[Next: Culture](eci03.md)

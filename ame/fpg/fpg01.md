@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](fpg00)  [Next](fpg02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](fpg00)  [Next](fpg02.md) 
 
 ------------------------------------------------------------------------
 
@@ -337,7 +337,7 @@ So also with the planting of vegetables, etc. Peas, beans, and other
 plants growing as vines are planted when the horns of the moon are
 turned up, so that they may grow vigorously. If planted when the horns
 of the moon are turned down, they will remain low and stunted. <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 Potatoes are planted in the new moon, so that they will have sufficient
 light and all strike root; "the sign of the moon must be in the feet"
@@ -360,11 +360,11 @@ but the description is not clear.
 A curious belief is still extant in Lehigh County respecting the
 transplanting of parsley, Should any one obtain one or more plants, and
 replant them in his own garden, it is believed that such person's death
-will soon follow. <span id="fr_2"></span>[2](#fn_2)
+will soon follow. <span id="fr_2"></span>[2](#fn_2.md)
 
 It is but a few years ago that hogs were slaughtered during the waxing
 of the moon, as at any other time the meat would shrink and not be as
-good. <span id="fr_3"></span>[3](#fn_3)
+good. <span id="fr_3"></span>[3](#fn_3.md)
 
 It is still confidently asserted, in many localities, that the cattle
 kneel and low at midnight before Christmas.
@@ -479,7 +479,7 @@ where the custom was known to prevail, "that the
 
 female being in bed with a man, or different men, was not conclusive
 evidence as to her want of chastity;" and, on appeal, the decision was
-sustained. <span id="fr_4"></span>[1](#fn_4)
+sustained. <span id="fr_4"></span>[1](#fn_4.md)
 
 Another case, tried at Allentown, resulted in favor of the defendant,
 for the reason shown in the following extract from "The Pennsylvania Law
@@ -490,7 +490,7 @@ seduction, according to a *custom* which prevailed in the part of the
 country where they resided (known as bundling), and with the knowledge
 of the plaintiff: Held, that the knowledge of the plaintiff amounted to
 connivance, and he could not therefore recover damages." <span
-id="fr_5"></span>[2](#fn_5)
+id="fr_5"></span>[2](#fn_5.md)
 
 Thirty years ago it was common, at church, to see all the marriageable
 girls--or at least those who had lovers--wearing white scarfs or
@@ -516,7 +516,7 @@ It was the custom for the bride to furnish the household linen, bedding,
 etc., the husband being supposed to have secured a house and plat of
 ground, either by purchase or renting. The habit was never to take an
 old broom into a new house, as bad luck was sure to follow. <span
-id="fr_6"></span>[3](#fn_6) It must be a new broom, and first carried
+id="fr_6"></span>[3](#fn_6.md) It must be a new broom, and first carried
 across the meadow, to avert any evil consequences.
 
 <span id="page_134">p. 134</span>
@@ -524,7 +524,7 @@ across the meadow, to avert any evil consequences.
 Both at wedding feasts and upon other occasions it was usual, when
 dancing to "dance for flax;" that is, the higher the feet were raised
 from the floor, the higher would be the host's crop of flax at the next
-harvest. <span id="fr_7"></span>[1](#fn_7)
+harvest. <span id="fr_7"></span>[1](#fn_7.md)
 
 The young, wife, in the absence of farm help, often lent a helping hand
 in the heavy work of farming, such as plowing, threshing grain, clearing
@@ -596,10 +596,10 @@ W. J. Hoffman, M. D.
 
 ### Footnotes
 
-<span id="fn_0"></span>[126:1](fpg01.htm#fr_0) Of two brothers, one
+<span id="fn_0"></span>[126:1](fpg01.htm#fr_0.md) Of two brothers, one
 retained the original form, another changed to *Jaeger*.
 
-<span id="fn_1"></span>[130:1](fpg01.htm#fr_1) That a similar belief
+<span id="fn_1"></span>[130:1](fpg01.htm#fr_1.md) That a similar belief
 obtained in Great Britain is observed from the following passage in
 Tusser's *Poems* (printed 1744), quoted by Mr. Folkard in his *Plant
 Lore, Legends, and Lyrics* (London, 1884), p. 168, viz.: "It must be
@@ -609,27 +609,27 @@ Pease and Beans may be one instance; for Pease and Beans sown during the
 increase do run more to hawm and straw, and during the declension more
 to cod, according to the common consent of countrymen."
 
-<span id="fn_2"></span>[130:2](fpg01.htm#fr_2) A similar belief obtains
+<span id="fn_2"></span>[130:2](fpg01.htm#fr_2.md) A similar belief obtains
 in Devonshire, England. Parsley was regarded by the Greeks as a funeral
 herb, and. they frequently strewed the tombs of their dead with it.
 
-<span id="fn_3"></span>[130:3](fpg01.htm#fr_3) "Do not kill your pig
+<span id="fn_3"></span>[130:3](fpg01.htm#fr_3.md) "Do not kill your pig
 until full moon, or the pork will be ruined," is a West Sussex
 superstition. *The Folk-Lore Record*, 1878, i. II.
 
-<span id="fn_4"></span>[133:1](fpg01.htm#fr_4) This information, not
+<span id="fn_4"></span>[133:1](fpg01.htm#fr_4.md) This information, not
 published in the Reports *in extenso*, was given to the writer by a
 gentleman present at the trial and practising before the court.
 
-<span id="fn_5"></span>[133:2](fpg01.htm#fr_5) Hollis v. Wells, opinion
+<span id="fn_5"></span>[133:2](fpg01.htm#fr_5.md) Hollis v. Wells, opinion
 by Judge Banks, Common Pleas of Lehigh County, August Term, 1845.
 
-<span id="fn_6"></span>[133:3](fpg01.htm#fr_6) A New England saying,
+<span id="fn_6"></span>[133:3](fpg01.htm#fr_6.md) A New England saying,
 noted in the *London Folk-Lore Journal* (1884, ii. 24), is, "He who
 proposes moving into a new house must send in beforehand bread and a new
 broom."
 
-<span id="fn_7"></span>[134:1](fpg01.htm#fr_7) In one part of Germany it
+<span id="fn_7"></span>[134:1](fpg01.htm#fr_7.md) In one part of Germany it
 is customary "for the bride to place flax in her shoes, that she may
 never come to want" (*Flowers and Flower-Lore*, by Hilderic Friend, i.
 134). Another custom, from the same authority, is to the effect that a
@@ -641,4 +641,4 @@ des Plantes*, by Count A. de Gubernatis, ii. 199).
 
 ------------------------------------------------------------------------
 
-[Next: Part II](fpg02)
+[Next: Part II](fpg02.md)

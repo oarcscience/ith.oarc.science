@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim58)  [Next](sim60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim58)  [Next](sim60.md) 
 
 ------------------------------------------------------------------------
 
@@ -285,4 +285,4 @@ and Cold Weather, and he also kills the Thunder Family.
 
 ------------------------------------------------------------------------
 
-[Next: Gáqga´ and Skagédi](sim60)
+[Next: Gáqga´ and Skagédi](sim60.md)

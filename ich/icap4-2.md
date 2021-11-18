@@ -1,12 +1,12 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](icap4-1)  [Next](icap5) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](icap4-1)  [Next](icap5.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_418">p. 418</span>
 
-# SECTION II: KHWĂN <span id="fr_285"></span>[1](#fn_285)
+# SECTION II: KHWĂN <span id="fr_285"></span>[1](#fn_285.md)
 
 Chapter I. 1. (What is indicated by) Khwăn is most gentle and weak, but,
 when put in motion, is
@@ -85,15 +85,15 @@ Heaven's (colour) is azure and earth's is yellow.
 
 ### Footnotes
 
-<span id="fn_285"></span>[421:1](icap4-2.htm#fr_285) The hexagram Khwăn
+<span id="fn_285"></span>[421:1](icap4-2.htm#fr_285.md) The hexagram Khwăn
 is dealt with in Section ii, and much wore briefly than *Kh*ien in
 Section i. Much less distinct, moreover, is the attempt in it to show
 how the attributes of the hexagram are to be understood of the
 principles of human nature. The most important portion of the Section,
 perhaps, is paragraph 5, the first of chapter II, and I have spoken of
-it in the Introduction, pages [47](icintr03.htm#page_47) and
-[48](icintr03.htm#page_48).
+it in the Introduction, pages [47](icintr03.htm#page_47.md) and
+[48](icintr03.htm#page_48.md).
 
 ------------------------------------------------------------------------
 
-[Next: Appendix V: Treatise of Remarks on the Trigrams](icap5)
+[Next: Appendix V: Treatise of Remarks on the Trigrams](icap5.md)

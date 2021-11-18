@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto04) 
-[Next](aoto06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto04.md) 
+[Next](aoto06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -73,10 +73,10 @@ understands the story much better if he will study the plan of the house
 here given with some attention.
 
 I have read what Prof. Jebb has written on this subject, <span
-id="fr_6"></span>[\*](#fn_6) as also Mr. Andrew Lang's Note 18 at the
+id="fr_6"></span>[\*](#fn_6.md) as also Mr. Andrew Lang's Note 18 at the
 end of Messrs. Butcher and Lang's translation of the "Odyssey." I have
 also read Mr. Arthur Platt's article on the slaying of the
-suitors, <span id="fr_7"></span>[†](#fn_7) and find myself in far closer
+suitors, <span id="fr_7"></span>[†](#fn_7.md) and find myself in far closer
 agreement with Mr. Lang than with either of the other writers whom I
 have named. The only points on which I differ from Mr. Lang are in
 respect of the inner court, which he sees as a roofed hall, but which I
@@ -132,7 +132,7 @@ shoot the suitors;
 
 <span id="img_01700"></span> <span align="CENTER"> [![THE HOUSE OF
 ULYSSES](tn/01700.jpg)  
-Click to enlarge](img/01700.jpg)  
+Click to enlarge](img/01700.jpg.md)  
 THE HOUSE OF ULYSSES  
 </span>
 
@@ -211,13 +211,13 @@ suitors.
 
 ### Footnotes
 
-<span id="fn_6"></span>[15:\*](aoto05.htm#fr_6) *Journal of Hellenic
+<span id="fn_6"></span>[15:\*](aoto05.htm#fr_6.md) *Journal of Hellenic
 Studies*, Vol. VII. 170-88, and *Introduction to Homer*, 3rd ed. 1888,
 pp. 57-62, and Appendix, note 1.
 
-<span id="fn_7"></span>[15:†](aoto05.htm#fr_7) *Journal of Philology*,
+<span id="fn_7"></span>[15:†](aoto05.htm#fr_7.md) *Journal of Philology*,
 Vol. xxiv. p. 39, &c.
 
 ------------------------------------------------------------------------
 
-[Next: Book I. The Council of the Gods](aoto06)
+[Next: Book I. The Council of the Gods](aoto06.md)

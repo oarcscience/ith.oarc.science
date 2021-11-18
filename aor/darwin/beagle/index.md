@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014043268X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014043268X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014043268X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](vob00)
+[Contents](#contents)    [Start Reading](vob00.md)
 
 ------------------------------------------------------------------------
 
@@ -39,27 +39,27 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014043268X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Title Page](vob00)  
-[Prefatory Notice to the Illustrated Edition](vob01)  
-[Author's Preface](vob02)  
-[Chapter I](vob03)  
-[Chapter II](vob04)  
-[Chapter III](vob05)  
-[Chapter IV](vob06)  
-[Chapter V](vob07)  
-[Chapter VI](vob08)  
-[Chapter VII](vob09)  
-[Chapter VIII](vob10)  
-[Chapter IX](vob11)  
-[Chapter X](vob12)  
-[Chapter XI](vob13)  
-[Chapter XII](vob14)  
-[Chapter XIII](vob15)  
-[Chapter XIV](vob16)  
-[Chapter XV](vob17)  
-[Chapter XVI](vob18)  
-[Chapter XVII](vob19)  
-[Chapter XVIII](vob20)  
-[Chapter XIX](vob21)  
-[Chapter XX](vob22)  
-[Chapter XXI](vob23)  
+[Title Page](vob00.md)  
+[Prefatory Notice to the Illustrated Edition](vob01.md)  
+[Author's Preface](vob02.md)  
+[Chapter I](vob03.md)  
+[Chapter II](vob04.md)  
+[Chapter III](vob05.md)  
+[Chapter IV](vob06.md)  
+[Chapter V](vob07.md)  
+[Chapter VI](vob08.md)  
+[Chapter VII](vob09.md)  
+[Chapter VIII](vob10.md)  
+[Chapter IX](vob11.md)  
+[Chapter X](vob12.md)  
+[Chapter XI](vob13.md)  
+[Chapter XII](vob14.md)  
+[Chapter XIII](vob15.md)  
+[Chapter XIV](vob16.md)  
+[Chapter XV](vob17.md)  
+[Chapter XVI](vob18.md)  
+[Chapter XVII](vob19.md)  
+[Chapter XVIII](vob20.md)  
+[Chapter XIX](vob21.md)  
+[Chapter XX](vob22.md)  
+[Chapter XXI](vob23.md)  

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc092) 
-[Next](motc094) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc092.md) 
+[Next](motc094.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ manuscript.
 
 ------------------------------------------------------------------------
 
-[Next: 94. Hatcinoñdoñ's Escape From The Cherokee](motc094)
+[Next: 94. Hatcinoñdoñ's Escape From The Cherokee](motc094.md)

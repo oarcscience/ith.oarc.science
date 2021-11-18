@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Enochian](index) 
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Enochian](index.md) 
 
 ------------------------------------------------------------------------
 

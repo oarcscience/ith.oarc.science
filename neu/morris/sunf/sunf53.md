@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf52)  [Next](sunf54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf52)  [Next](sunf54.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -177,6 +177,6 @@ the Dale and Wethermel drew him to them without ceasing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LII. The Meeting of Osberne and Elfhild](sunf54)
+[Next: Chapter LII. The Meeting of Osberne and Elfhild](sunf54.md)
 
 </div>

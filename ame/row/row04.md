@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](row03)  [Next](row05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](row03)  [Next](row05.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ time of need?
 
 ------------------------------------------------------------------------
 
-[Next: Charms and Trinkets Are Revered by Many of our People](row05)
+[Next: Charms and Trinkets Are Revered by Many of our People](row05.md)

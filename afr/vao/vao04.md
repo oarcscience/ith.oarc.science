@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [African](../index) 
-[Index](index)  [Previous](vao03)  [Next](vao05) 
+[Intangible Textual Heritage](../../index)  [African](../index.md) 
+[Index](index)  [Previous](vao03)  [Next](vao05.md) 
 
 ------------------------------------------------------------------------
 
@@ -1516,4 +1516,4 @@ and Spanish."\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Voodoo in Haiti](vao05)
+[Next: Chapter III: Voodoo in Haiti](vao05.md)

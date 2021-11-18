@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc08)  [Next](ogc10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc08)  [Next](ogc10.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ thinkers say they occur.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10](ogc10)
+[Next: Chapter 10](ogc10.md)

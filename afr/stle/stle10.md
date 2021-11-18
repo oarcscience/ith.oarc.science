@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Egypt](../../egy/index)  [Index](index)  [Previous](stle09) 
-[Next](stle11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Egypt](../../egy/index)  [Index](index)  [Previous](stle09.md) 
+[Next](stle11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stolen Legacy*, by George G. M. James, \[1954\], at Intangible Textual
 Heritage
 
@@ -418,7 +418,7 @@ derived from the Pythagoreans:*
 
 Since doctrines (a), (b), (c) and (d) originated from the Pythagoreans,
 and since the Pythagoreans derived them from the Egyptians, then their
-Egyptian origin, [directly](errata.htm#4) or indirectly becomes evident.
+Egyptian origin, [directly](errata.htm#4.md) or indirectly becomes evident.
 
 (Roger's Hist. of Phil. p. 29 and 60; Turner's Hist. of Phil. p. 41 and
 48; Plato's Phaedo).
@@ -905,7 +905,7 @@ Godhead, called the Ennead.
 
 N.B.
 
-*Magic is the key to the [interpretation](errata.htm#5) of ancient
+*Magic is the key to the [interpretation](errata.htm#5.md) of ancient
 religions and philosophy*.
 
 \(a\) Part (III) tells of the specific powers of Ptah, which Atum
@@ -1223,7 +1223,7 @@ credited as its author.
 The following sketch of the military history of the Greeks shows that
 the chariot was not used by them, nor was it their culture pattern:—
 
-A. *[External](errata.htm#6) wars or wars with the Persians*.
+A. *[External](errata.htm#6.md) wars or wars with the Persians*.
 
 <div style="margin-left: 32px">
 
@@ -1231,7 +1231,7 @@ A. *[External](errata.htm#6) wars or wars with the Persians*.
 climaxed in a naval engagement at Lade, where the Ionian fleet was
 defeated.
 
-\(b\) *The [battle](errata.htm#7) of Marathon,* 490 *B.C.*
+\(b\) *The [battle](errata.htm#7.md) of Marathon,* 490 *B.C.*
 
 During the summer of 490 B.C., the Greeks met the Persians at the bay of
 Marathon, and after a brief fight with bows and arrows, both
@@ -2140,7 +2140,7 @@ incredible.
 war booty:*—
 
 When a victorious army takes possession of a country, it is customary
-for special companies to search for and [seize](errata.htm#8) war booty,
+for special companies to search for and [seize](errata.htm#8.md) war booty,
 i.e., to help themselves to everything that is considered valuable. The
 Greeks, among all the surrounding nations, were the most anxious to
 obtain the valuable secrets of the Egyptians, in the Ancient Sciences,
@@ -2154,4 +2154,4 @@ ceremonial vessels were made.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII: The Curriculum of the Egyptian Mystery
-System](stle11)
+System](stle11.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa20)  [Next](zfa22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa20)  [Next](zfa22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Heritage
 
 <span id="page_189">p. 189</span>
 
-### THE SACRIFICE FOR A STANZA <span id="fr_41"></span>[1](#fn_41)
+### THE SACRIFICE FOR A STANZA <span id="fr_41"></span>[1](#fn_41.md)
 
 IN one of his many previous births on this earth, Buddha appeared as a
 son of a Hindu prince. Desirous to gain spiritual insight into the
@@ -132,12 +132,12 @@ resounded with divine music.
 
 ### Footnotes
 
-<span id="fn_41"></span>[189:1](zfa21.htm#fr_41) From the *Mahânirvâna
+<span id="fn_41"></span>[189:1](zfa21.htm#fr_41.md) From the *Mahânirvâna
 Sutra* (Nanjo's Catalogue, No. 1113). This story was told to explain the
 miraculous origin of the famous stanza beginning with "Anicca vata
 sankhâra." See the sermon "The Phenomenal and the Supra-phenomenal."
-(See [p. 111](zfa12.htm#page_111).)
+(See [p. 111](zfa12.htm#page_111)..md)
 
 ------------------------------------------------------------------------
 
-[Next: Buddhist View of War](zfa22)
+[Next: Buddhist View of War](zfa22.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb53)  [Next](ptb55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb53)  [Next](ptb55.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ Should the configuration, made between the malefic planet and the
 luminaries, not exist precisely in the mode just mentioned; that is to
 say, should the said planet not be equally distant from both luminaries,
 so as to form the point of junction of two equal sides of a
-[triangle](errata.htm#9); yet should it then happen that the rays of two
+[triangle](errata.htm#9.md); yet should it then happen that the rays of two
 malefics may nearly approach the places of the two luminaries, casting
 an injurious influence either on both, or only one of them, and if both
 the said malefics be together succedent, or in opposition, to the
@@ -72,7 +72,7 @@ Nevertheless, if the luminaries should be separating from, or be
 otherwise configurated with benefic planets, whose rays may be projected
 to parts preceding the said luminaries, the child will then live as many
 days, or hours, as there are degrees, numbered between the
-prorogator <span id="fr_152"></span>[1](#fn_152) and the nearest
+prorogator <span id="fr_152"></span>[1](#fn_152.md) and the nearest
 malefic.
 
 If malefics should cast their rays to parts preceding the luminaries,
@@ -102,7 +102,7 @@ nurture, or their life will be of the shortest span.
 
 ### Footnotes
 
-<span id="fn_152"></span>[87:1](ptb54.htm#fr_152) A prorogator is either
+<span id="fn_152"></span>[87:1](ptb54.htm#fr_152.md) A prorogator is either
 a luminary, planet, or a certain degree of the zodiac, which determines
 the duration of life, or the time of the accomplishment of any event: it
 is hereafter fully treated of in the 13th Chapter of this Book; which
@@ -111,4 +111,4 @@ either in the ascendant, or in the mid-heaven.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Duration of Life](ptb55)
+[Next: Chapter XI. The Duration of Life](ptb55.md)

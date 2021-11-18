@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](tpt23)  [Next](tpt25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](tpt23)  [Next](tpt25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -323,7 +323,7 @@ laws are bound to show no respect of persons, but to account all men
 equal, and to defend every man's right equally, neither envying the rich
 nor despising the poor.
 
-\[16:6\](75) The men of two states become allies, when for the sake of
+\[16:6\](75.md) The men of two states become allies, when for the sake of
 avoiding war, or for some other advantage, they covenant to do each
 other no hurt, but on the contrary, to assist each other if necessity
 arises, each retaining his independence. (76) Such a covenant is valid
@@ -503,4 +503,4 @@ have already mentioned.
 ------------------------------------------------------------------------
 
 [Next: Chapter XVII.—It Is Shown That No One Can, Or Need, Transfer All
-His Rights To The Sovereign Power...](tpt25)
+His Rights To The Sovereign Power...](tpt25.md)

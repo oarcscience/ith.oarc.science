@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tfc11)  [Next](tfc13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tfc11)  [Next](tfc13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales from Chaucer*, by Charles Cowden Clarke, \[1833\], at Intangible
 Textual Heritage
 
@@ -21,7 +21,7 @@ Textual Heritage
 ### The Nun's Priest's Tale
 
 OUR host next called out, with a rough familiarity, to the Nun's Priest,
-"Now, Parson! draw near, Sir John, <span id="fr_26"></span>[\*](#fn_26)
+"Now, Parson! draw near, Sir John, <span id="fr_26"></span>[\*](#fn_26.md)
 and tell us something to gladden our hearts. Although you do still ride
 upon a jade, man, and your beast is poor and lean; so long as he serves
 your turn, no matter. See that you keep a merry heart, that is the chief
@@ -67,7 +67,7 @@ lady; conducting herself withal so fairly that since the day she was a
 week old she had held fast imprisoned the heart of Sir Chanticleer. What
 a pleasure it was to hear them singing, in sweet accord, as the bright
 sun began to arise: "My love, my joy, is far in land." <span
-id="fr_27"></span>[\*](#fn_27) For, in those days, I
+id="fr_27"></span>[\*](#fn_27.md) For, in those days, I
 
 <span id="page_138">p. 138</span>
 
@@ -121,7 +121,7 @@ comes out in his strength that you do not become full of hot humours;
 else I lay a wager that you will be laid up with an ague or tertian
 fever. For a day or two, I would recommend your eating some worms by way
 of digestive before you take your alteratives <span
-id="fr_28"></span>[\*](#fn_28) of laureola, centaury, or fumetery, of
+id="fr_28"></span>[\*](#fn_28.md) of laureola, centaury, or fumetery, of
 hellebore, spurge, or dog-wood berries, or ground-ivy, that is growing
 in the yard. Pick them where they grow, and eat them. Come, be merry, my
 dear husband! for the sake of your father's kindred do not be afraid of
@@ -137,7 +137,7 @@ very reverse of his opinion is a matter of well founded experience; for
 that dreams are warnings both of the joys and tribulations that people
 are to endure in this life. The thing needs no argument; indeed the
 proof of it carries conviction. One of the greatest authors <span
-id="fr_29"></span>[\*](#fn_29) we read of relates that formerly two men
+id="fr_29"></span>[\*](#fn_29.md) we read of relates that formerly two men
 went forth upon a pilgrimage, and it happened that they came into a town
 where there was such a congregation of people, and the lodging so
 scanty, that they could not find so much as a cottage in which they
@@ -209,7 +209,7 @@ Partlet, so happy am I when I look upon the beauty of your face—you have
 so fine a scarlet round your eyes, that it banishes all my fear, for
 truly may we say, *In principio mulier est hominis confusio* (madam, the
 meaning of this Latin is, 'Woman is man's joy and delight,' <span
-id="fr_30"></span>[\*](#fn_30)), for when I feel by night your soft
+id="fr_30"></span>[\*](#fn_30).md), for when I feel by night your soft
 side, as we are seated upon our narrow perch, I am so full of comfort
 and happiness that I defy all dreams and augury."
 
@@ -276,7 +276,7 @@ mother too, in her gentility, have both
 
 <span id="img_14400"></span> <span align="CENTER"> [![The Nun's
 Priest](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 The Nun's Priest  
 </span>
 
@@ -290,7 +290,7 @@ strength he would strive so that it made him wink his eyes with the
 loudness of his note, standing too upon tiptoe and stretching forth his
 long small neck. And then he had such judgment that no man anywhere
 could surpass him either in song or wisdom. I have read in the verses of
-Dan <span id="fr_31"></span>[\*](#fn_31) Burnel the ass, of a cock that,
+Dan <span id="fr_31"></span>[\*](#fn_31.md) Burnel the ass, of a cock that,
 because a priest's son gave him a knock upon his leg, he contrived to
 make him lose his benefice: but certainly there is no comparison betwixt
 the wisdom and discretion of your father and his subtlety. Now then,
@@ -305,7 +305,7 @@ treachery of such dependants.
 
 Our Chanticleer, standing high upon his toes, stretching his neck, and
 holding close his eyes, began to crow with all his might. Up starts Dan
-Russell <span id="fr_32"></span>[†](#fn_32) and catches him by the
+Russell <span id="fr_32"></span>[†](#fn_32.md) and catches him by the
 gorge, bearing him off on his back toward the wood, for as yet there was
 no one to follow him.
 
@@ -315,7 +315,7 @@ all this mischance.
 
 <span id="page_146">p. 146</span>
 
-O Geoffrey, <span id="fr_33"></span>[\*](#fn_33) dear sovereign master
+O Geoffrey, <span id="fr_33"></span>[\*](#fn_33.md) dear sovereign master
 of the poetic art, who, when thy worthy King Richard was slain, so
 sorely bewailed his death, why have I not thy learning to chide as thou
 didst this same unlucky day (for on a Friday also was he killed)? Then
@@ -385,7 +385,7 @@ AND HERE BEGINS
 
 ### Footnotes
 
-<span id="fn_26"></span>[136:\*](tfc12.htm#fr_26) Sir John. I know not
+<span id="fn_26"></span>[136:\*](tfc12.htm#fr_26.md) Sir John. I know not
 how it has happened that in the principal modern languages, John (or its
 equivalent) is a name of contempt, or at least of slight. So the
 Italians use *Gianni*, from whence *Zani;* the Spaniards *Juan*, as
@@ -400,14 +400,14 @@ or contemptuous sense, that of Sir must also be understood as an
 additional piece of rudeness, because of its affectation of courtesy and
 respect.
 
-<span id="fn_27"></span>[137:\*](tfc12.htm#fr_27) The first words of a
+<span id="fn_27"></span>[137:\*](tfc12.htm#fr_27.md) The first words of a
 song most probably familiar to the poet's readers.
 
-<span id="fn_28"></span>[139:\*](tfc12.htm#fr_28) Alterative medicines
+<span id="fn_28"></span>[139:\*](tfc12.htm#fr_28.md) Alterative medicines
 are those which, unperceived, restore the body from indisposition to
 clear health.
 
-<span id="fn_29"></span>[140:\*](tfc12.htm#fr_29) Cicero \[*De
+<span id="fn_29"></span>[140:\*](tfc12.htm#fr_29.md) Cicero \[*De
 Divinitate*, B. l, c. 27\] relates this and the following story, but in
 a contrary order, and with so many other differences, that one might be
 led to suspect that he was here quoted at second hand, if it were not
@@ -415,20 +415,20 @@ usual with Chaucer, in these stories of familiar life, to throw in a
 number of natural circumstances not to be found in his original
 authors.—Note to Tyrwhitt's Edition.
 
-<span id="fn_30"></span>[142:\*](tfc12.htm#fr_30) The impudent wag! he
+<span id="fn_30"></span>[142:\*](tfc12.htm#fr_30.md) The impudent wag! he
 knew that Dame Partlet was no scholar, or she would have told him that
 the translation of the saying was, "In the beginning woman was man's
 confusion."
 
-<span id="fn_31"></span>[145:\*](tfc12.htm#fr_31) Dan was formerly a
+<span id="fn_31"></span>[145:\*](tfc12.htm#fr_31.md) Dan was formerly a
 title of distinction commonly given to monks.
 
-<span id="fn_32"></span>[145:†](tfc12.htm#fr_32) Chaucer possibly calls
+<span id="fn_32"></span>[145:†](tfc12.htm#fr_32.md) Chaucer possibly calls
 the fox Russell, from his red, or russet colour.
 
-<span id="fn_33"></span>[146:\*](tfc12.htm#fr_33) Geoffrey de Vinsauf,
+<span id="fn_33"></span>[146:\*](tfc12.htm#fr_33.md) Geoffrey de Vinsauf,
 author of a poem on the death of Richard the First.
 
 ------------------------------------------------------------------------
 
-[Next: The Cook's Tale of Gamelin](tfc13)
+[Next: The Cook's Tale of Gamelin](tfc13.md)

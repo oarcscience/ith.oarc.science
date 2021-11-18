@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb08)  [Next](blfb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb08)  [Next](blfb10.md) 
 
 </div>
 
@@ -459,6 +459,6 @@ of kings.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: The Tale of a Youth Who Set Out to Learn What Fear Was](blfb10)
+[Next: The Tale of a Youth Who Set Out to Learn What Fear Was](blfb10.md)
 
 </div>

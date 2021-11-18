@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](coli20)  [Next](coli22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](coli20)  [Next](coli22.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Culture of the Luiseño Indians*, by Philip Stedman Sparkman,
 \[1908\], at Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ old people.
 The ceremonies held with the object of propitiating the raven have given
 rise to the belief that Changichnish is a deity, whereas it is really
 the raven, and instead of being worshiped, the ceremonies are performed
-with the object of propitiating it. <span id="fr_7"></span>[5](#fn_6)
+with the object of propitiating it. <span id="fr_7"></span>[5](#fn_6.md)
 Father Geronimo Boscana, of the mission of San Juan Capistrano, appears
 to be responsible for this error, as he wrote an account of these
 ceremonies which was afterwards published by Alfred Robinson in 1846, in
@@ -48,7 +48,7 @@ these "arrows."
 
 ### Footnotes
 
-<span id="fn_6"></span>[218:5](coli21.htm#fr_7) Mr. Sparkman's statement
+<span id="fn_6"></span>[218:5](coli21.htm#fr_7.md) Mr. Sparkman's statement
 on this point conflicts not only with those of Boscana but of Miss
 DuBois and other independent investigators. It would seem that his
 expression is stronger than he would have allowed it to remain had he
@@ -62,4 +62,4 @@ belief.
 
 ------------------------------------------------------------------------
 
-[Next: Spirits and Monsters](coli22)
+[Next: Spirits and Monsters](coli22.md)

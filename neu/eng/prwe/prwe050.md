@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe049)  [Next](prwe051) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe049)  [Next](prwe051.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ convulsion fit. \[b\]
 
 ------------------------------------------------------------------------
 
-[Next: The Piksie Threshers](prwe051)
+[Next: The Piksie Threshers](prwe051.md)

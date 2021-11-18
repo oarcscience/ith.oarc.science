@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb00)  [Next](lrb02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb00)  [Next](lrb02.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ L. S.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](lrb02)
+[Next: Contents](lrb02.md)

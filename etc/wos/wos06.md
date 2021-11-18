@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](wos05)  [Next](wos07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](wos05)  [Next](wos07.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,10 +11,10 @@
 ### SERPENT-WORSHIP IN EUROPE.
 
 I. GREECE.--Whether the learned and ingenious Bryant <span
-id="fr_252"></span>[1](#fn_251) be correct or not, in deriving the very
+id="fr_252"></span>[1](#fn_251.md) be correct or not, in deriving the very
 name of EUROPE from אור־אב (AUR-AB), the *solar serpent*, it is certain
 that Ophiolatreia prevailed in this quarter of the globe at the earliest
-period of idolatry <span id="fr_253"></span>[2](#fn_252).
+period of idolatry <span id="fr_253"></span>[2](#fn_252.md).
 
 Of the countries of Europe, Greece was first colonized by Ophites, but
 at separate times, both from Egypt and Phœnicia; and it is a question of
@@ -64,7 +64,7 @@ son of Phœnix*), when he went in search of his sister, followed a cow.
 This latter colony is said to have settled in Eubœa; to which they gave
 the name of their tutelary deity, AUB; for *Eubœa* is, according to
 Bryant, AUB-AIA, "the land of AUB <span
-id="fr_254"></span>[1](#fn_253)."
+id="fr_254"></span>[1](#fn_253.md)."
 
 The history of Cadmus is full of fables about serpents. He slew a
 dragon, planted its teeth, and hence arose armed men, who destroyed
@@ -89,19 +89,19 @@ the guidance of CECROPS. These took possession of Attica, and founded
 Athens, whose first name was, in consequence, CECROPIA. In this word,
 also, we trace the involution of the name OB, or OPS, the serpent-god of
 antiquity; and accordingly, Cecrops <span
-id="fr_255"></span>[1](#fn_254) himself is said to
+id="fr_255"></span>[1](#fn_254.md) himself is said to
 
 <span id="page_187">p. 187</span>
 
 have been of twofold form, *human* and *serpentine* <span
-id="fr_256"></span>[1](#fn_255). It was also said, that from a serpent
-he was changed into a man <span id="fr_257"></span>[2](#fn_256). We read
+id="fr_256"></span>[1](#fn_255.md). It was also said, that from a serpent
+he was changed into a man <span id="fr_257"></span>[2](#fn_256.md). We read
 too of DRACO (Δράκων, *a dragon*) being the first king of Athens. All
 these relate to the introduction of serpent-worship from Egypt into
 Attica, the leader of which colony, by a fabulous metonyme, was called a
 "*dragon*," or *serpent*. The *first* altar erected by Cecrops at
 Athens, was to OPS, the serpent-deity <span
-id="fr_258"></span>[3](#fn_257); a circumstance which confirms the
+id="fr_258"></span>[3](#fn_257.md); a circumstance which confirms the
 inference deduced by Bryant; namely, that he introduced Ophiolatreia
 into Attica. Cecrops and Draco were probably the same person.
 
@@ -113,21 +113,21 @@ all their gods.
 
 Παρὰ παντὶ τῶν νομιζομένων παῤ ὕμῖν θεῶν Ὄφις  
 σύμβολον μέγα καὶ μυστήριον ἀναγράφεται  <span
-id="fr_259"></span>[1](#fn_258)
+id="fr_259"></span>[1](#fn_258.md)
 
 \[paragraph continues\] This was especially true in regard to the
 mysteries of Bacchus. The people who assisted at them were crowned with
 serpents, and carried them in their hands, brandishing them over their
 heads, and shouting with great vehemence, ευια, ευια <span
-id="fr_260"></span>[2](#fn_259); "which being roughly aspirated,"
+id="fr_260"></span>[2](#fn_259.md); "which being roughly aspirated,"
 remarks Clemens Alexandrinus, "will denote the female serpent <span
-id="fr_261"></span>[3](#fn_260)." A consecrated serpent was a sign of
-the Bacchic orgies <span id="fr_262"></span>[4](#fn_261); a very
+id="fr_261"></span>[3](#fn_260.md)." A consecrated serpent was a sign of
+the Bacchic orgies <span id="fr_262"></span>[4](#fn_261.md); a very
 important part of which consisted in a procession of noble virgins,
 carrying in their hands golden baskets, which contained sesamum, *small
 pyramids*, wool, *honey-cakes*, (having raised lumps upon them like
 *navels*), grains of salt, and A SERPENT <span
-id="fr_263"></span>[5](#fn_262).
+id="fr_263"></span>[5](#fn_262.md).
 
 Three ingredients in these baskets are remarkable,
 
@@ -137,7 +137,7 @@ as connected with THE WORSHIP OF THE SOLAR SERPENT.
 
 1\. The pyramids, which were intended as representations of the sun's
 rays, and are sometimes seen in the hands of priests kneeling before the
-sacred serpent of Egypt <span id="fr_264"></span>[1](#fn_263). The
+sacred serpent of Egypt <span id="fr_264"></span>[1](#fn_263.md). The
 supplicating minister of the god offers a pyramid in his left hand,
 while the right is field up in adoration. On his head is the deadly asp.
 
@@ -145,9 +145,9 @@ while the right is field up in adoration. On his head is the deadly asp.
 offerings made at the shrine of the sacred serpent; for we read in
 Herodotus, that in the Acropolis at Athens was kept a serpent who was
 considered the guardian of the city. He was fed on cakes of honey once a
-month <span id="fr_265"></span>[2](#fn_264). The serpent of Metele was
+month <span id="fr_265"></span>[2](#fn_264.md). The serpent of Metele was
 presented with the same food or offering <span
-id="fr_266"></span>[3](#fn_265).
+id="fr_266"></span>[3](#fn_265.md).
 
 Medicated cakes, in which honey was a chief ingredient, were at once the
 food and the offering to the dragon of the Hesperides--
@@ -169,7 +169,7 @@ Objicit ----------
 
 \[paragraph continues\] *Honey cakes* were also carried by the initiated
 into the cave of Trophonius to appease the guardian serpents <span
-id="fr_267"></span>[1](#fn_266). So that this offering was universally
+id="fr_267"></span>[1](#fn_266.md). So that this offering was universally
 peculiar to Ophiolatreia.
 
 The honey-cake, however, when properly pre-pared, was marked with the
@@ -186,7 +186,7 @@ may have been originally designed to represent
 
 *a coiled serpent*, I will not pretend to determine; though such a
 meaning has been affixed to it by an ingenious writer <span
-id="fr_268"></span>[1](#fn_267) upon the antiquities of New Grange in
+id="fr_268"></span>[1](#fn_267.md) upon the antiquities of New Grange in
 Ireland. In describing similar lines upon some rude stones discovered at
 this place, he tells us, "they appear to be the representations of
 serpents coiled up, and probably were symbols of the Divine being."
@@ -198,7 +198,7 @@ Whatever may have been the meaning of this spiral line, which Quintus
 Curtius calls a *navel*, one thing is evident, that the *omphalos*,
 *umbilicus*, or *navel*, was *sacred to the serpent-god*: for it not
 only occurs in the mystic baskets of the Bacchic orgies, but was also
-kept at DELPHI <span id="fr_269"></span>[2](#fn_268), "*because*," says
+kept at DELPHI <span id="fr_269"></span>[2](#fn_268.md), "*because*," says
 Pausanias, "*this was the middle of the earth*." The absurdity of this
 notion at once refers us to some better reason; but absurd as it is, the
 same idea seems to have
@@ -207,7 +207,7 @@ same idea seems to have
 
 prevailed generally; for we read of an omphalos of the Peloponnesus at
 Phlius, in Achaia: "*if it be as they say*," adds the incredulous
-topographer <span id="fr_270"></span>[1](#fn_269).
+topographer <span id="fr_270"></span>[1](#fn_269.md).
 
 Near the latter omphalos was a temple of BACCHUS, another of APOLLO, and
 another of ISIS, to each of which deities the serpent was sacred. The
@@ -217,12 +217,12 @@ originally intended to represent a *coiled serpent as symbolical of
 divinity*.
 
 The esoteric tradition of the omphalos, according to Diodorus <span
-id="fr_271"></span>[2](#fn_270), is, that when the infant Jupiter was
+id="fr_271"></span>[2](#fn_270.md), is, that when the infant Jupiter was
 nursed by the Curetes, his *navel* fell at the river Triton in Crete;
 whence that territory was called *Omphalos*. But this legend is
 evidently invented from the ambiguity of the word. Bryant derives
 *omphalos* from OMPHIEL, "*the oracle of the sun* <span
-id="fr_272"></span>[3](#fn_271)." Such an oracle would not be unaptly
+id="fr_272"></span>[3](#fn_271.md)." Such an oracle would not be unaptly
 represented by a coiled serpent, a serpent being the most popular emblem
 of the sun, and also of an oracle.
 
@@ -260,7 +260,7 @@ especially *the serpent*. Archbishop Potter says as much: "In these
 consisted *the most mysterious part of the solemnity*;" but he adds,
 inconsiderately, "*and therefore to amuse the common people* (!)
 serpents were put into them, which sometimes crawling out of their
-places, astonished the beholders <span id="fr_273"></span>[1](#fn_272)."
+places, astonished the beholders <span id="fr_273"></span>[1](#fn_272.md)."
 Whatever might have been the astonishment of the beholders, that of the
 priests would not have been little, to have been told that their sacred
 serpent, the of σύμβολον μέγα καὶ μυστήριον, was nothing more than a
@@ -275,7 +275,7 @@ So great was the veneration of the Cretans for their Bacchic baskets,
 that they frequently stamped the figures of them upon their coins. Nor
 were these baskets confined to the orgies of Bacchus. They were employed
 also in the mysteries of Ceres, Isis, and Osiris <span
-id="fr_274"></span>[2](#fn_273).
+id="fr_274"></span>[2](#fn_273.md).
 
 <span id="page_195">p. 195</span>
 
@@ -284,12 +284,12 @@ Ophiolatreia. After the banquet, they were accustomed to carry round a
 cup, which they called "the cup of the good dæmon." "Ingenti clamore
 BONUM DEUM invocant venerantes Bacchum, cujus quoque in memoriam
 POCULUM, sublatis mensis, circumferunt, quod poculum BONI DÆMONIS
-appellant <span id="fr_275"></span>[1](#fn_274)."
+appellant <span id="fr_275"></span>[1](#fn_274.md)."
 
 The symbol of the "good dæmon" was a serpent, as may be proved from a
 medal of the town of Dionysopolis, in Thrace. On one side of the coin
 were the heads of Gordian and Serapis, on the other a *coiled
-serpent* <span id="fr_276"></span>[2](#fn_275). Dionysopolis was named
+serpent* <span id="fr_276"></span>[2](#fn_275.md). Dionysopolis was named
 from Dionusus, a name which was borne by the Indian Bacchus, who in his
 own country was called *Deonaush*.
 
@@ -319,7 +319,7 @@ The serpent entered into the symbolical worship of many others of the
 Grecian deities.
 
 Minerva was sometimes represented with a dragon; her statues by Phidias
-were decorated with this emblem <span id="fr_277"></span>[1](#fn_276).
+were decorated with this emblem <span id="fr_277"></span>[1](#fn_276.md).
 In plate, p. 85, vol. i. of Montfaucon, are several medals of Minerva;
 in one of them she holds a *caduceus* in the right hand; in another, a
 staff, round which a serpent is twisted; in a third, a large serpent
@@ -339,30 +339,30 @@ and in the Acropolis was kept a live serpent, who was generally
 considered as the guardian of the place. The emperor Hadrian built a
 temple at Athens to Jupiter Olympius, and "placed in it a dragon which
 he caused to be brought from India <span
-id="fr_278"></span>[1](#fn_277)." Upon the walls of Athens was
+id="fr_278"></span>[1](#fn_277.md)." Upon the walls of Athens was
 sculptured a Medusa's head, whose hair was *intertwined with snakes*. In
 the temple of Minerva, at Tegea, there was a similar sculpture, which
 was said to have been given by the goddess herself, to preserve that
-city from being taken in war <span id="fr_279"></span>[2](#fn_278). The
+city from being taken in war <span id="fr_279"></span>[2](#fn_278.md). The
 virtue supposed to reside in this head was of a talismanic power, to
 preserve or destroy.
 
 <span id="page_198">p. 198</span>
 
-The same author <span id="fr_280"></span>[1](#fn_279) who records the
+The same author <span id="fr_280"></span>[1](#fn_279.md) who records the
 preceding fact, tells us of a priestess, who, going into a sanctuary of
 Minerva in the dead of the night, saw a vision of that goddess, who held
 up her mantle, upon which was impressed a Medusa's head. The sight of
 this fearful talisman instantaneously converted the intruder into
 *stone*. The same Gorgon or Medusa's head, was on the aegis and
-breastplate of the goddess <span id="fr_281"></span>[2](#fn_280), to
+breastplate of the goddess <span id="fr_281"></span>[2](#fn_280.md), to
 induce a terrific aspect in the field of battle. The *terror* resided in
 the *snakes*; for the face of Medusa was "*mild* and *beautiful* <span
-id="fr_282"></span>[3](#fn_281)." From some such notion of a talismanic
+id="fr_282"></span>[3](#fn_281.md)." From some such notion of a talismanic
 power, perhaps, the Argives, Athenians, and Ionians, after the taking of
 Tanagra from the Lacedæmonians, erected a statue of victory in the grove
 of Jupiter Olympius, on whose shield was engraved *a Medusa's
-head* <span id="fr_283"></span>[4](#fn_282). The same symbolical figure
+head* <span id="fr_283"></span>[4](#fn_282.md). The same symbolical figure
 may be frequently seen on sepulchral urns. This general impression of a
 powerful charm inherent in the Gorgon, must be attributed to some
 forgotten tradition respecting the *serpents* in the hair; for all agree
@@ -376,7 +376,7 @@ talisman was no other than the still more celebrated emblem of
 consecration, the CIRCLE, WINGS, and SERPENT; whose history, use, and
 probable origin we considered in the first chapter of this treatise. In
 the plate in Montfaucon, above referred to <span
-id="fr_284"></span>[1](#fn_283), are representations of Medusa's head,
+id="fr_284"></span>[1](#fn_283.md), are representations of Medusa's head,
 from either side of whose forehead proceeds a WING; and TWO SERPENTS,
 intersecting one another below the chin in a *nodes Herculis*, appear
 *over* the forehead, looking at each other.
@@ -399,7 +399,7 @@ statue of victory at Tanagra with a Gorgon-shield, were descendants of
 This celebrated hierogram of the Ophites was painted on the shield of
 Perseus, an *Argive*, who was distinguished by the device of "Medusa's
 head." And Hippomedon, *an Argive also*, one of the seven chiefs before
-Thebes <span id="fr_285"></span>[1](#fn_284), bore the same hierogram,
+Thebes <span id="fr_285"></span>[1](#fn_284.md), bore the same hierogram,
 if 1 rightly understand these lines of Æschylus:--
 
 Ὄφεων δὲ πλεκτάναισὶ περίδρομον κύτος  
@@ -418,7 +418,7 @@ of the shield. In this cavity
 
 \[paragraph continues\] (*towards the lower part of it*) were folded
 serpents--which would accurately describe the ophite hierogram <span
-id="fr_286"></span>[1](#fn_285); the raised part of the shield
+id="fr_286"></span>[1](#fn_285.md); the raised part of the shield
 representing the mystic circle or globe--for we must observe, that the
 shield was "*hollow-bellied*;" i.e. *concave to the bearer*; and,
 consequently, *convex* to the enemy.
@@ -429,11 +429,11 @@ until Apis came from Egypt and settled in it. To him they attribute the
 blessing of having their country freed from this evil; but the brood
 came from the very quarter from whence Apis was supposed to have come.
 They were certainly Hivites from Egypt <span
-id="fr_287"></span>[2](#fn_286)."
+id="fr_287"></span>[2](#fn_286.md)."
 
 The breastplate and baldrick of Agamemnon, king of Argos, exhibited the
 device of a *triple-headed serpent* <span
-id="fr_288"></span>[3](#fn_287). His brother Menelaus, king of Sparta,
+id="fr_288"></span>[3](#fn_287.md). His brother Menelaus, king of Sparta,
 was similarly distinguished by a serpent upon his shield. The Spartans,
 as well as the Athenians, believed in their serpentine origin, and
 called themselves *ophiogenæ*.
@@ -442,18 +442,18 @@ called themselves *ophiogenæ*.
 
 In Argolis, moreover, was the town of Epidaurus, famous for the temple
 of Æsculapius, where that god was worshipped under the symbol of a
-serpent. We read in Pausanias <span id="fr_289"></span>[1](#fn_288) that
+serpent. We read in Pausanias <span id="fr_289"></span>[1](#fn_288.md) that
 live serpents were kept here, and fed regularly by servants, who laid
 their food upon the floor, but dared not approach the sacred reptiles.
 This must have been only through *religious* awe; for the serpents of
 Epidaurus were said to be *harmless* <span
-id="fr_290"></span>[2](#fn_289). The statue of Æsculapius at this
+id="fr_290"></span>[2](#fn_289.md). The statue of Æsculapius at this
 temple, represented him leaning upon a staff, and resting one hand upon
-the head of a serpent <span id="fr_291"></span>[3](#fn_290). His sister,
+the head of a serpent <span id="fr_291"></span>[3](#fn_290.md). His sister,
 the goddess Hygeia, was represented with a large serpent twisted about
 her, and drinking out of a chalice in her hand. Sometimes it was coiled
 up in her lap; at others, held in the hand <span
-id="fr_292"></span>[4](#fn_291).
+id="fr_292"></span>[4](#fn_291.md).
 
 The serpent was sacred to Æsculapius and Hygeia, as a symbol of
 *health*; but *how* he came to be a symbol of health is not very
@@ -466,7 +466,7 @@ of his consecration to "health." Others again inform us, that the
 serpent changes his skin periodically, and thus becomes an emblem of
 renewed vigour in a sick man. These, however, can only be considered as
 the surmises of a warm imagination <span
-id="fr_293"></span>[1](#fn_292). The use of animals of the reptile kind
+id="fr_293"></span>[1](#fn_292.md). The use of animals of the reptile kind
 in medicine was not confined to the serpent; or, if it were, from whence
 could *the idea itself* originate, that the serpent's flesh was
 sanatory? The changing of his skin being *periodical*, can scarcely
@@ -491,7 +491,7 @@ Egyptian superstition owes its beginning to any incident in Israelitish
 history.
 
 A tradition is recorded by Pausanias <span
-id="fr_294"></span>[1](#fn_293) of one Nicagora, the wife of Echetimus,
+id="fr_294"></span>[1](#fn_293.md) of one Nicagora, the wife of Echetimus,
 who conveyed the god Æsculapius to Sicyon under the form of a serpent.
 The Sicyonians erected statues to him; one of which represented a woman
 sitting upon a serpent. An anecdote of the deportation of Æsculapius to
@@ -563,7 +563,7 @@ The incarnation of deity in a serpent was not an uncommon event in
 Grecian mythology. We read of Olympias, Nicotelea, and Aristodamia,
 mothers, of Alexander, Aristomenes, and Aratus, respectively, by some
 god who had changed himself into the form of a serpent <span
-id="fr_295"></span>[1](#fn_294). The conversion of Jupiter and Rhea into
+id="fr_295"></span>[1](#fn_294.md). The conversion of Jupiter and Rhea into
 snakes, gave occasion to a fable respecting the origin of the Caduceus;
 which is so far pertinent to our theory, that it implies the *divine
 character* of those sacred serpents, which formed in that talisman the
@@ -582,7 +582,7 @@ mother of the gods,
 <span id="page_208">p. 208</span>
 
 as we may see in the engravings of Montfaucon <span
-id="fr_296"></span>[1](#fn_295).
+id="fr_296"></span>[1](#fn_295.md).
 
 Of all the places in Greece, Bœotia seems to have been the most
 favourite residence of the Ophites. The Thebans boasted themselves to be
@@ -591,12 +591,12 @@ by Cadmus. "The history of this country," says Bryant, "had continual
 reference to serpents and dragons; they seem to have been the national
 insigne at least of Thebes. Hence we find upon the tomb of Epaminondas,
 the figure of a serpent, to signify that he was an Ophite or
-Theban <span id="fr_297"></span>[2](#fn_296)." In like manner the Theban
+Theban <span id="fr_297"></span>[2](#fn_296.md)." In like manner the Theban
 Hercules bore upon his shield the sacred hierogram by which the warriors
 of the Cadmian family were distinguished--"As he went, his adamantine
 shield sounded . . . . . . . . *in a* CIRCLE TWO DRAGONS *were
 suspended, lifting up their heads* <span
-id="fr_298"></span>[3](#fn_297)."
+id="fr_298"></span>[3](#fn_297.md)."
 
 At Thespiæ, in Bœotia, they worshipped Jupiter Saotas; the origin of
 whose worship is thus related: When A DRAGON had once laid waste the
@@ -609,7 +609,7 @@ The lot fell at length on Cleostrus, when his friend, Menestratus,
 having made a brazen breastplate and studded it with hooks, put it on,
 and presented himself to the dragon. Thus they both perished together.
 From that time the Thespians erected an altar to Jupiter Saotas <span
-id="fr_299"></span>[1](#fn_298)."
+id="fr_299"></span>[1](#fn_298.md)."
 
 But the most celebrated seat of Ophiolatreia in Greece was at DELPHI.
 The original name of this place, according to Strabo, was PYTHO;
@@ -618,25 +618,25 @@ The connexion of such a legend with the place, and the derivation of its
 original name from the serpent Python, which is thought to be the PETHEN
 of the Hebrews, might well induce the learned Heinsius to conclude that
 "the god Apollo was first worshipped at Delphi, under the symbol of a
-serpent." Hyginus <span id="fr_300"></span>[2](#fn_299) says, that the
+serpent." Hyginus <span id="fr_300"></span>[2](#fn_299.md) says, that the
 dragon Python formerly *gave oracles* in Mount Parnassus--"PYTHON, Terræ
 filius, draco ingens. Hic ante Apollinem *ex oraculo* in motile Parnasso
 *responsa dare* solitus erat." The same says
 
 <span id="page_210">p. 210</span>
 
-\[paragraph continues\] Ælian <span id="fr_301"></span>[1](#fn_300); and
-Plutarch <span id="fr_302"></span>[2](#fn_301) affirms, that the contest
+\[paragraph continues\] Ælian <span id="fr_301"></span>[1](#fn_300.md); and
+Plutarch <span id="fr_302"></span>[2](#fn_301.md) affirms, that the contest
 between Apollo and Python was respecting *the oracle*. Python was,
 therefore, in reality, the deity of the place <span
-id="fr_303"></span>[3](#fn_302)."
+id="fr_303"></span>[3](#fn_302.md)."
 
 The public assemblies at Delphi were called *Pythia*. These were
 doubtless, originally intended for the adoration of Python <span
-id="fr_304"></span>[4](#fn_303). *Seven days* after the victory of
+id="fr_304"></span>[4](#fn_303.md). *Seven days* after the victory of
 Apollo over Python, the Pythian games were instituted, on the *seventh
 day* of which, an hymn called Paean was sung to Apollo in honour of his
-victory <span id="fr_305"></span>[5](#fn_304). Hence the expression of
+victory <span id="fr_305"></span>[5](#fn_304.md). Hence the expression of
 Hesiod--ἕβδομον ἱερὸν ἦμαρ--which so singularly corresponds with our
 Sabbath.
 
@@ -652,10 +652,10 @@ folded in circles growing wider and wider towards the ground, formed a
 *conical column*. The *cone*, it should be remembered was sacred to the
 solar deity. The three heads were disposed triangularly, in order to
 sustain the three feet of the tripod, which was of gold. Herodotus <span
-id="fr_306"></span>[1](#fn_305) tells us, that it was consecrated to
+id="fr_306"></span>[1](#fn_305.md) tells us, that it was consecrated to
 Apollo by the Greeks, out of the spoils of the Persians after the battle
 of Plata a. He describes it accurately. Pausanias <span
-id="fr_307"></span>[2](#fn_306), who mentions it also, omits the fact of
+id="fr_307"></span>[2](#fn_306.md), who mentions it also, omits the fact of
 the three heads. He records a tradition of a *more ancient* tripod,
 which was carried off by the Tyrinthian Hercules, but restored by the
 son of Amphitryon. An engraving of the serpentine column of the Delphic
@@ -669,17 +669,17 @@ Athena us calls this tripod, "*the tripod of* 
 
 <span id="page_212">p. 212</span>
 
-*truth* <span id="fr_308"></span>[1](#fn_307),"--a most singular
+*truth* <span id="fr_308"></span>[1](#fn_307.md),"--a most singular
 perversion of the fact upon which the oracle was founded--the
 conversation of the serpent in Paradise.
 
 According to Gibbon, the serpentine column was transported from Delphi
 to Constantinople, by the founder of the latter city, and set up on a
-pillar in the Hippodrome <span id="fr_309"></span>[2](#fn_308). He cites
+pillar in the Hippodrome <span id="fr_309"></span>[2](#fn_308.md). He cites
 Zosimus, who is also cited by Montfaucon on the same subject: but the
 latter thinks that Constantine only caused a *similar* column to be
 made, and did not remove the original from Delphi. It is most probable,
-however, that Gibbon is right <span id="fr_310"></span>[3](#fn_309).
+however, that Gibbon is right <span id="fr_310"></span>[3](#fn_309.md).
 
 This celebrated relic of Ophiolatreia is still to be seen in the same
 place, where it was set up by Constantine; but one of the serpents'
@@ -700,7 +700,7 @@ happened that there were no serpents in the city*. Wherefore that column
 remains to this day. And although, *in consequence of the lower jaw of
 the brazen serpent being struck of', some serpents do come into the
 city,* YET *they do no harm to any one* <span
-id="fr_311"></span>[1](#fn_310)."
+id="fr_311"></span>[1](#fn_310.md)."
 
 This traditionary legend, preserved by Leunclavius, marks the strong
 hold which Ophiolatreia must have taken upon the minds of the people of
@@ -724,10 +724,10 @@ antiquity that adorned Byzantium, or were imported into Constantinople.
 There is another kind of serpentine tripod, which is supposed to have
 belonged to Delphi, usually represented on medals. This is a vase
 supported on three brazen legs, round one of which is twined a
-serpent <span id="fr_312"></span>[1](#fn_311).
+serpent <span id="fr_312"></span>[1](#fn_311.md).
 
-Lucian <span id="fr_313"></span>[2](#fn_312) says, that "*the dragon
-under the tripod spoke* <span id="fr_314"></span>[3](#fn_313)." This
+Lucian <span id="fr_313"></span>[2](#fn_312.md) says, that "*the dragon
+under the tripod spoke* <span id="fr_314"></span>[3](#fn_313.md)." This
 was, very probably, the
 
 <span id="page_215">p. 215</span>
@@ -739,16 +739,16 @@ of the Pythian priestess, as she sat upon the tripod, over the serpent.
 
 That THE SERPENT was the original god of Delphi, may be further argued
 from the circumstance that *live serpents were kept in the adytum of the
-temple* <span id="fr_315"></span>[1](#fn_314). A story is related by
+temple* <span id="fr_315"></span>[1](#fn_314.md). A story is related by
 Diogenes Laertius, lib. v. c. 91, of a Pythian priestess, who was
 accidentally killed by treading upon one of these reptiles, which
 immediately stung her.
 
 At DELOS, the next place in rank after Del-phi for an oracle of Apollo,
 there was an image erected to him "*in the shape of a dragon* <span
-id="fr_316"></span>[2](#fn_315)." Here there was likewise an oracular
+id="fr_316"></span>[2](#fn_315.md)." Here there was likewise an oracular
 fountain, called Inopus. "This word," remarks Bryant <span
-id="fr_317"></span>[3](#fn_316), is compounded of Ain-opus.; i.e. *Fons
+id="fr_317"></span>[3](#fn_316.md), is compounded of Ain-opus.; i.e. *Fons
 Pythonis*:" dedicated to the serpent-god Oph. Fountains sacred to this
 deity were not uncommon.
 
@@ -758,7 +758,7 @@ deity were not uncommon.
 "the serpent's fountain;" and there was a celebrated stream at Colophon,
 in Ionia, which communicated prophetic inspiration to the priest of
 Apollo, who presided over it. Colophon, is col-oph-on; that is, "*collis
-serpentis solis* <span id="fr_318"></span>[1](#fn_317)."
+serpentis solis* <span id="fr_318"></span>[1](#fn_317.md)."
 
 In Pausanias (lib. ix. 557) we read of a fountain near the river Ismenus
 at Thebes, which was placed under the guardianship of a *dragon*. Near
@@ -769,7 +769,7 @@ fountain was sacred to *the serpent-god*, called *Mars* in this place,
 because of the conflict between the Ophiogenes. A conclusion the more
 probable from the fact, that the Ismenian hill was dedicated to Apollo.
 The whole territory was (we may say) the patrimony of Oph--all the local
-legends confirm it <span id="fr_319"></span>[2](#fn_318).
+legends confirm it <span id="fr_319"></span>[2](#fn_318.md).
 
 There were many other oracles of Apollo besides those of Delphi and
 Delos, but of inferior
@@ -789,7 +789,7 @@ following considerations. In the grove of Trophonius, near Lebadea in
 Phocis, was a cave, in which were two figures, male and female, holding
 in their hands secptres encircled by *serpents*. They were said to be
 the images of Æsculapius and Hygeia; but Pausanias <span
-id="fr_320"></span>[1](#fn_319) conjectures that they belonged rather to
+id="fr_320"></span>[1](#fn_319.md) conjectures that they belonged rather to
 Trophonius the god of the place, and Hercyna, the female who discovered
 the cave; for he says, "*the serpent was not more sacred to Æsculapius
 than to Trophonius*." Trophonius was an oracular god, and his attributes
@@ -798,7 +798,7 @@ and name indicate the solar serpent OPH. TROPHON is,
 <span id="page_218">p. 218</span>
 
 most probably, TOR-OPH-ON, *the temple of the solar serpent* <span
-id="fr_321"></span>[1](#fn_320). The later Greeks, with their usual
+id="fr_321"></span>[1](#fn_320.md). The later Greeks, with their usual
 mythological confusion of places and persons, conjectured the name of
 the *temple* to be that of the *god*; and so converted "Tor-oph-on" into
 "Trophonius."
@@ -841,15 +841,15 @@ the* STUPOR *occasioned by the* 
 
 <span id="page_220">p. 220</span>
 
-*serpents* <span id="fr_322"></span>[1](#fn_321)! The same expression is
+*serpents* <span id="fr_322"></span>[1](#fn_321.md)! The same expression is
 employed by Plutarch, in describing the effect produced by the
 Bacchanalian serpents upon the spectators of the mysteries--ἐξέπληττον
-τοὺς ἄνδρας <span id="fr_323"></span>[2](#fn_322):--which must mean that
+τοὺς ἄνδρας <span id="fr_323"></span>[2](#fn_322.md):--which must mean that
 they inspired the beholders with *religious awe*; for it can scarcely
 mean "*frightened*," because he is speaking of the processions of
 Olympias, at *Pella*, where serpents were so familiar that they lived in
 the dwellings of the inhabitants, among their children <span
-id="fr_324"></span>[3](#fn_323), and therefore could, under no ordinary
+id="fr_324"></span>[3](#fn_323.md), and therefore could, under no ordinary
 circumstances, become an object of terror. Hence it was, probably, a
 *religious dread* which seized the spectators, both at the orgies of
 Bacchus, and in the cave of Trophonius.
@@ -886,22 +886,22 @@ land of his first resting-place
 <span id="page_222">p. 222</span>
 
 after the flood. PELOPS is P’-EL-OPS, *the serpent-god* <span
-id="fr_325"></span>[1](#fn_324).
+id="fr_325"></span>[1](#fn_324.md).
 
 We have already seen that the Argives and Spartans were Ophites, and
 that from the celebrated temple of Æsculapius, at Epidaurus, the sacred
 serpent was conveyed to Sicyon. In addition to these facts, we learn
 from Pausanias that Antinoe, the foundress of Mantinea, was guided to
 that place by a serpent, from whom the river, which was near the town,
-was called Ophis <span id="fr_326"></span>[2](#fn_325).
+was called Ophis <span id="fr_326"></span>[2](#fn_325.md).
 
 The first prophet of Messene was said to have been Ophioneus; from which
 we may infer, that the first colony which introduced religious rites
 into Messenia was Ophite. A similar colony was established at Epidaurus
 Limera, in Laconia, under the auspices of a sacred serpent brought from
-Epidaurus, in Argolis <span id="fr_327"></span>[3](#fn_326).
+Epidaurus, in Argolis <span id="fr_327"></span>[3](#fn_326.md).
 
-Statius <span id="fr_328"></span>[4](#fn_327) describes a serpent, the
+Statius <span id="fr_328"></span>[4](#fn_327.md) describes a serpent, the
 object of religious reverence at Nemæa:--
 
 <span id="page_223">p. 223</span>
@@ -921,7 +921,7 @@ scene described by the poet took place. It was in search of food that
 the serpent sallied from the sacred grove when he saw and slew the
 sleeping child.
 
-Bryant <span id="fr_329"></span>[1](#fn_328) assures us that Opheltes,
+Bryant <span id="fr_329"></span>[1](#fn_328.md) assures us that Opheltes,
 or rather *Opheltin*, is the name of a place, and not of any person: and
 that this place was nothing more nor less than an inclosure sacred to
 the god OPHEL, the serpent-solar deity. Hence the legend respecting the
@@ -938,14 +938,14 @@ frequently formed *in the shape of a serpent*. If such was the form of
 colonized Delos, Tenos, Cos, and Seriphus, in such numbers as to mark
 their abode by traditions. The oracle of Delos we have ascertained to
 have been Dracontian. Tenos was called *Ophiusa* <span
-id="fr_330"></span>[1](#fn_329), as also Cythnus. A coin of Cos presents
+id="fr_330"></span>[1](#fn_329.md), as also Cythnus. A coin of Cos presents
 the figure of a serpent, with the word ΣΩΤΗΡ inscribed. The same figure
 and inscription appear on the coins of Epidaurus <span
-id="fr_331"></span>[2](#fn_330): and we find that there was a temple of
-Æsculapius at Cos <span id="fr_332"></span>[3](#fn_331). *Seriphus* is,
+id="fr_331"></span>[2](#fn_330.md): and we find that there was a temple of
+Æsculapius at Cos <span id="fr_332"></span>[3](#fn_331.md). *Seriphus* is,
 according to Bryant, *Sar-Iph* (*petra Pythons*,) "the serpent's rock."
 Here was a legend of Perseus bringing Medusa's head, and turning the
-inhabitants into stone <span id="fr_333"></span>[4](#fn_332). The island
+inhabitants into stone <span id="fr_333"></span>[4](#fn_332.md). The island
 was called *Saxum Seriphium* by the Romans; and by Virgil,
 "*serpentifera*." Natural ruggedness is not peculiar to Seriphus; it
 seems to be characteristic of the greater number of the Grecian islands;
@@ -958,7 +958,7 @@ were once settled in Seriphus, and had
 a temple there of the *dracontic kind*, whose upright columns of stone
 may have given rise to the tradition that the inhabitants of the island
 were petrified by the *talismanic serpents* <span
-id="fr_334"></span>[1](#fn_333) of Perseus. Such a tradition was not
+id="fr_334"></span>[1](#fn_333.md) of Perseus. Such a tradition was not
 unfrequently attached to these Ophite temples. Stonehenge was thus
 called "*Chorea Gigantum*;" and a Druids' circle in Cumberland, "*Long
 Meg and her Daughters*," from a belief that the giants and the fairies
@@ -987,7 +987,7 @@ serpents*. In the middle of the temple, a lighted altar.
 
 The inhabitants of Crete are also said to have worshipped the Pythian
 Apollo. They had a *Pythium*; and the inhabitants were called
-*Pythians* <span id="fr_335"></span>[1](#fn_334).
+*Pythians* <span id="fr_335"></span>[1](#fn_334.md).
 
 6\. We see, then, that serpent-worship very generally prevailed through
 Greece and its dependencies. Memorials of it have been preserved in many
@@ -1002,7 +1002,7 @@ interesting testimony to the worship of the serpent. Engravings of three
 
 <span id="page_227">p. 227</span>
 
-are preserved by Fabretti <span id="fr_336"></span>[1](#fn_335), which
+are preserved by Fabretti <span id="fr_336"></span>[1](#fn_335.md), which
 are worthy of attention.
 
 No. 1 represents a TREE encircled by a SERPENT; an altar appears in
@@ -1039,7 +1039,7 @@ resorted to by the Greeks, but was more common among the Romans: both of
 them borrowed it from earlier nations. For, the same word in Hebrew,
 Arabic, and Greek, which denotes "*divination*," denotes "*a serpent*."
 "Nachash"--"alahat <span
-id="fr_337"></span>[1](#fn_336)"--οἰωνίζεσθαι--have the same double
+id="fr_337"></span>[1](#fn_336.md)"--οἰωνίζεσθαι--have the same double
 significations. The Greek word, according to Hesychius, is derived from
 οἰωνὸς, a snake; "because they divined by means of a snake, which they
 called οἰωνός."
@@ -1061,7 +1061,7 @@ hecatomb to the gods for the success of their enterprise, on a sudden a
 great sign--μέγα σῆμα--appeared. A serpent gliding from the base of an
 altar ascended the tree, and devouring a sparrow and her eight young
 ones, came down again, and was converted into stone <span
-id="fr_338"></span>[1](#fn_337). The omen was interpreted to mean a nine
+id="fr_338"></span>[1](#fn_337.md). The omen was interpreted to mean a nine
 years' continuance of the war, and victory in the tenth.
 
 In mentioning this anecdote we may remark, that the scene of the
@@ -1074,7 +1074,7 @@ god.
 
 II\. EPIRUS.--l. Following the Ophites from Greece into Epirus, we find
 that their traces, though few, are decisive. In this country, we are
-informed by Ælian <span id="fr_339"></span>[2](#fn_338), there was a
+informed by Ælian <span id="fr_339"></span>[2](#fn_338.md), there was a
 circular grove of Apollo enclosed within a wall, where *sacred serpents*
 were kept. At the great annual
 
@@ -1104,18 +1104,18 @@ votaries.
 
 <span id="page_231">p. 231</span>
 
-\[paragraph continues\] Of them <span id="fr_340"></span>[1](#fn_339),
+\[paragraph continues\] Of them <span id="fr_340"></span>[1](#fn_339.md),
 it is said that they kept domestic serpents, which were brought up among
 their children, and frequently nursed together with them, by the
 Macedonian mothers. The coins of Pella bore the impress of a
-serpent <span id="fr_341"></span>[2](#fn_340).
+serpent <span id="fr_341"></span>[2](#fn_340.md).
 
 The idea of *divine incarnation* in a serpent must have appeared
 reasonable in that country to enable Olympias to invent the story of her
 son Alexander's dracontic origin. The queen was extravagantly fond of
 the Bacchanalian mysteries, at which she officiated in the character of
 a Bacchans. It is said by Plutarch <span
-id="fr_342"></span>[3](#fn_341), that she and her husband were initiated
+id="fr_342"></span>[3](#fn_341.md), that she and her husband were initiated
 into them at Samothrace, when very young; and that she imitated the
 frantic gestures of the Edonian women in traversing the wilds of Mount
 Hæmus. When Olympias celebrated the orgies of Dionusus, attendants
@@ -1139,10 +1139,10 @@ singular is to be found in "CABIR."
 
 Now CABIR is probably a compound word, whose component parts may be
 CA-AB-IR. If so, the interpretation is easy, CA-AB-IR resolving itself
-at once into CA or CHA, *domus* <span id="fr_343"></span>[1](#fn_342);
+at once into CA or CHA, *domus* <span id="fr_343"></span>[1](#fn_342.md);
 AB or AUB, *Pythonis*; IR or UR, *Lucis vel Solis*. "CABIR" will
 therefore mean "*the temple of the serpent of the sun* <span
-id="fr_344"></span>[2](#fn_343);" and "CABIRI" will bear the same
+id="fr_344"></span>[2](#fn_343.md);" and "CABIRI" will bear the same
 signification, either as denoting more than one such temple, or a temple
 dedicated to two deities, AUB and the SUN.
 
@@ -1154,7 +1154,7 @@ written CAABIR. Here we find the chief object of idolatry to have been a
 image of a sun's ray. Another temple of this dedication was at Abury in
 Wiltshire, whose name, "Abury," is evidently "Abiri," or "Ab-ir,"
 expressed in the plural number; the only difference <span
-id="fr_345"></span>[1](#fn_344) being, that in the name of this place
+id="fr_345"></span>[1](#fn_344.md) being, that in the name of this place
 the adjunct "ca" signifying "the temple," was dropped, and the names of
 the deity alone retained--ABIR, *quasi*, "SERPENS SOLIS." This temple we
 shall see hereafter was formed IN THE SHAPE OF A SERPENT. The
@@ -1177,7 +1177,7 @@ to support our conjecture on the etymology of "Cabiri." But we learn
 further, that the Orphic CURES, *the chief of the* CABIRI, assumed *a
 dracontic form*; and that the Orphic CRONUS and HERCULES are also
 described either as compounded of a man, a lion, and *a serpent*; or,
-simply, as *a winding snake* <span id="fr_346"></span>[1](#fn_345). It
+simply, as *a winding snake* <span id="fr_346"></span>[1](#fn_345.md). It
 was a common opinion among the Greeks that *Ceres*, *Proserpine*, and
 *Bacchus* were the Cabiri. To each of these deities, it is to be
 observed, the serpent was sacred, and formed a prominent feature in
@@ -1203,7 +1203,7 @@ same appeared on the medals of Pantalia, another city in Thrace; upon
 which Spanheim remarks, "Istud vero ex iis nummis colligas, in
 Macedoniâ, *Thraciâ*, Paphlagoniâ, Ponto, Bithyniâ, Ciliciâ, et vicinis
 regionibus, haud alios *locorum genios et custodes* gratiores, id genus
-draconibus extitisse <span id="fr_347"></span>[1](#fn_346)."
+draconibus extitisse <span id="fr_347"></span>[1](#fn_346.md)."
 
 The priestesses of the superstition of Dionusus were no longer
 *Pythonesses* or *Oubs*, but *Bacchantes*: and many other innovations
@@ -1219,21 +1219,21 @@ III\. ITALY.--We come now to the traces of Ophiolatreia in Italy.
 In this country the principal colony of Ophites settled in Campania, and
 were called Opici or Ophici, from the object of their idolatry, Ὀφικοὶ
 ἀπὸ τῶν ὄφεων, say Stephanus Byzantinus <span
-id="fr_348"></span>[1](#fn_347). The same people were called *Pitanatæ*,
-as testified by Strabo <span id="fr_349"></span>[2](#fn_348).
+id="fr_348"></span>[1](#fn_347.md). The same people were called *Pitanatæ*,
+as testified by Strabo <span id="fr_349"></span>[2](#fn_348.md).
 "*Pitanatæ*," remarks Bryant, "is a term of the same import as *Opici*,
 and relates to the votaries of *Pitan*, the serpent-deity, which was
 adored by the people. Menelaus was, of old, styled *Pitanates*, as we
 learn from Hesychius; and the reason of it may be known from his being a
 Spartan, by which was intimated one of the *Serpentigentæ*, or Ophites.
 Hence he was represented with *a serpent* on his shield <span
-id="fr_350"></span>[3](#fn_349)." This word *Pitan* is derived from the
+id="fr_350"></span>[3](#fn_349.md)." This word *Pitan* is derived from the
 same root as *Python*: namely, the Hebrew פתן *serpens*, vel, *aspis*.
 
 Many representations of warriors with the serpent on their shields, may
 be seen on the Etruscan vases, discovered on the estate of Canino in
 Etruria, which is supposed to have been the ancient Vitulonia <span
-id="fr_351"></span>[4](#fn_350).
+id="fr_351"></span>[4](#fn_350.md).
 
 Jerome Colonna attributes the name of Opici to the people of Campania,
 from a former king
@@ -1241,16 +1241,16 @@ from a former king
 <span id="page_237">p. 237</span>
 
 bearing upon his standard the figure of a serpent <span
-id="fr_352"></span>[1](#fn_351). But this would be the necessary
+id="fr_352"></span>[1](#fn_351.md). But this would be the necessary
 con-sequence of his being an Ophite; for the military ensigns of most
 ancient nations were usually the images of the gods whom they
 worshipped. Thus a brigade of infantry among the Greeks was called
-πιτανάτης <span id="fr_353"></span>[2](#fn_352); and the Romans, in the
+πιτανάτης <span id="fr_353"></span>[2](#fn_352.md); and the Romans, in the
 age of Marcus Aurelius, had a *dragon* standard at the head of each
 cohort, ten in every legion. The legion marched under *the eagle* <span
-id="fr_354"></span>[3](#fn_353). These dragons were not woven upon any
+id="fr_354"></span>[3](#fn_353.md). These dragons were not woven upon any
 fabric of cloth, but were real *images* carried on poles <span
-id="fr_355"></span>[4](#fn_354). Some say (as *Casaubon not. in Vopis.
+id="fr_355"></span>[4](#fn_354.md). Some say (as *Casaubon not. in Vopis.
 Hist. Aug.* 231.) that the Romans borrowed the dragon standard from the
 Parthians: but their vicinity to the Opici of Campania may perhaps
 suggest a more probable origin. The use of them by the Parthians may
@@ -1293,7 +1293,7 @@ and established the chief seat of their religion at Lanuvium. The medals
 of this city bore the figure of a dragon or a large serpent; which,
 according to Spanheim, would denote that this animal represented the
 tutelary god of the place: an opinion which is proved correct by the
-following extracts from Ælian <span id="fr_356"></span>[1](#fn_355) and
+following extracts from Ælian <span id="fr_356"></span>[1](#fn_355.md) and
 Propertius. From the former we learn, that at Lanuvium is a large and
 dark grove, and near it a temple of the Argive Juno. In the same place
 is a large deep cave, the den of a *great serpent*. To this grove the
@@ -1316,7 +1316,7 @@ Ille sibi admotas a virgine corripit escas;
    Virginis in palmis ipsa canistra tremunt.  
 Si fuerint castæ, redeunt in colla parentum,  
    Clamantque agricolæ "fertilis annus erit <span
-id="fr_357"></span>[1](#fn_356)!"
+id="fr_357"></span>[1](#fn_356.md)!"
 
 \[paragraph continues\] There is great similarity between the above
 scene, and that mentioned in a former part of this chapter, as taking
@@ -1327,13 +1327,13 @@ The Ophites who settled in Campania and Lanuvium, left a colony also in
 Crotona, and at Lilybæum in Sicily: for both these places were
 remarkable for the dracontic medal, which generally denoted the
 consecration of a city to the serpent-god <span
-id="fr_358"></span>[2](#fn_357).
+id="fr_358"></span>[2](#fn_357.md).
 
 The Marsi who settled at the lake Fucinus are said by Virgil, Æn. vii.
 750. to have been "charmers of serpents," which is tantamount to calling
 them Ophites.
 
-Montfaucon <span id="fr_359"></span>[3](#fn_358) has an engraving from a
+Montfaucon <span id="fr_359"></span>[3](#fn_358.md) has an engraving from a
 silver medal of Lepidus, on which is a tripod:--"A serpent of vast
 length raises itself over the vase, twisting his body into a great many
 folds and
@@ -1348,9 +1348,9 @@ a serpent."
 Ophiomancy prevailed among the Romans, when Ophiolatreia had decreased
 through the influence of time and civilization. The accidental sight of
 a serpent was sometimes esteemed a good <span
-id="fr_360"></span>[1](#fn_359), and sometimes a bad omen. The death of
+id="fr_360"></span>[1](#fn_359.md), and sometimes a bad omen. The death of
 Tiberius Gracchus was denoted by a serpent found in his house <span
-id="fr_361"></span>[2](#fn_360). Sylla was more fortunate in his
+id="fr_361"></span>[2](#fn_360.md). Sylla was more fortunate in his
 divination from a serpent which glided from beneath an altar, while he
 was sacrificing at Nola: as also was Roscius, whose future successful
 career was foretold, from his being found, when an infant, sleeping in
@@ -1368,7 +1368,7 @@ Rumpat et serpens iter institutum,
 Si per obliquum, similis sagittæ,  
        Terruit Mannos.
 
-Terence <span id="fr_362"></span>[1](#fn_361) also considers it in the
+Terence <span id="fr_362"></span>[1](#fn_361.md) also considers it in the
 same light--
 
 Monstra evenerunt mihi:  
@@ -1399,16 +1399,16 @@ sufficient notices to assure us that THE WORSHIP OF THE SERPENT was
 their primitive idolatry. To this conclusion we are, indeed, led by the
 few fragments of tradition in the classical writers who have noticed the
 religion of the remote Hyperboreans. These people were devoted to the
-solar superstition <span id="fr_363"></span>[1](#fn_362), of which the
+solar superstition <span id="fr_363"></span>[1](#fn_362.md), of which the
 most ancient and most general symbol was the serpent. We may therefore
 expect to find traces of the pure serpent-worship, also, in their
 religion. They had a priestess called *Opis*, who came with another
 priestess (*Argis*) to Delos, bringing offerings to Lucina, in gratitude
 for the safe delivery of some distinguished females of their own
-country <span id="fr_364"></span>[2](#fn_363). These, according to
-Faber <span id="fr_365"></span>[3](#fn_364), were priestesses of OPH and
+country <span id="fr_364"></span>[2](#fn_363.md). These, according to
+Faber <span id="fr_365"></span>[3](#fn_364.md), were priestesses of OPH and
 ARG (the deified personification of the ARK.) Bryant <span
-id="fr_366"></span>[4](#fn_365) also cites a line from Callimachus,
+id="fr_366"></span>[4](#fn_365.md) also cites a line from Callimachus,
 
 <span id="page_244">p. 244</span>
 
@@ -1419,11 +1419,11 @@ superstitions--the simple and primitive serpent-worship, and the worship
 of the solar serpent. Other obscure, though not altogether uncertain,
 notices are to be found in Diodorus Siculus, Hecateus, &c. which lead to
 the conclusion that the Ophite religion was once prevalent in the north
-of Europe <span id="fr_367"></span>[2](#fn_367). These inferences are
+of Europe <span id="fr_367"></span>[2](#fn_367.md). These inferences are
 corroborated by indisputable facts of modern discovery, which I now
 proceed to detail.
 
-1\. SARMATIA. From Ouzel <span id="fr_368"></span>[1](#fn_366) we learn
+1\. SARMATIA. From Ouzel <span id="fr_368"></span>[1](#fn_366.md) we learn
 that the serpent was one of the earliest objects of worship in Sarmatia.
 He cites Erasmus Stella *de Antiq. Borussiæ*. "For some time," says this
 author, "they had no sacred rites; at length they arrived at such a
@@ -1444,14 +1444,14 @@ have no hesitation in affirming my belief that THE PARADISIACAL SERPENT,
 and THE TREE OF KNOWLEDGE, are the prototypes of the idolatry.
 
 The Samogitæ (Muscovites) partook of the same superstition <span
-id="fr_369"></span>[1](#fn_368). They worshipped the serpent as A GOD;
+id="fr_369"></span>[1](#fn_368.md). They worshipped the serpent as A GOD;
 and if any adversity befell them, concluded that their *domestic
 serpents* (which, like the people of Pella, they kept in their houses,)
 had been negligently served.
 
 From Muscovy we may follow the same superstition into Lithuania, the
 modern Poland. These people, we are informed by Guaguin <span
-id="fr_370"></span>[2](#fn_369),
+id="fr_370"></span>[2](#fn_369.md),
 
 <span id="page_246">p. 246</span>
 
@@ -1473,7 +1473,7 @@ for this purpose, one was found larger than the rest, which, though
 often thrown into the fire, could not be consumed."
 
 The serpent-worship of the Lithuanians is also noticed by Cromer <span
-id="fr_371"></span>[1](#fn_370) who charges the Prussians likewise with
+id="fr_371"></span>[1](#fn_370.md) who charges the Prussians likewise with
 the same idolatry. Guaguin relates an anecdote of a serpent worshipper
 
 <span id="page_247">p. 247</span>
@@ -1483,19 +1483,19 @@ subsequently losing all his bees, (by whose labour he subsisted,)
 attributed the calamity to his apostacy, and relapsed into his former
 superstition. The scene of this anecdote was a village near Troki, six
 miles from Vilna; upon which Masius <span
-id="fr_372"></span>[1](#fn_371) remarks, "Est quatuor a Vilna
+id="fr_372"></span>[1](#fn_371.md) remarks, "Est quatuor a Vilna
 miliaribus, Lavariski, villa regia; *in quâ a multis* ADHUC *serpentes
 coluntur*."
 
 The Lithuanians were the last of the Europeans who were converted to
 Christianity; an event which did not take place until the fourteenth
 century. Jagello, the last heathen duke, was baptized anno 1386 <span
-id="fr_373"></span>[2](#fn_372).
+id="fr_373"></span>[2](#fn_372.md).
 
 The inhabitants of Livonia were also addicted to this gross idolatry,
 and carried it to a barbarous length. It is said that they were
 accustomed to sacrifice the most beautiful of their captives to their
-dragon-gods <span id="fr_374"></span>[3](#fn_373). The same custom we
+dragon-gods <span id="fr_374"></span>[3](#fn_373.md). The same custom we
 have observed to exist at Whidah.
 
 2\. SCANDINAVIA. The second great northern
@@ -1509,7 +1509,7 @@ consanguinity but religion. These were well addicted to the worship of
 the serpent; and some of them retained in their traditionary mythology,
 traces, not obscure, of the fall of man.
 
-We are informed by Olaus Magnus <span id="fr_375"></span>[1](#fn_374),
+We are informed by Olaus Magnus <span id="fr_375"></span>[1](#fn_374.md),
 that domestic serpents were considered as *penates* in the extreme parts
 of the north of Europe; and that they were fed on cows' milk, or that of
 sheep, together with the children. They played freely in the houses, and
@@ -1517,7 +1517,7 @@ it was an offence of the first magnitude to hurt them.
 
 Among the Ophites of the north, the most conspicuous were the Danes, who
 exhibited the sacred dragon upon their royal standard. Pontanus <span
-id="fr_376"></span>[2](#fn_375) alluding to it, expresses himself
+id="fr_376"></span>[2](#fn_375.md) alluding to it, expresses himself
 thus:--
 
 Hinc rigidos Sclavos effert pernicibus alis,  
@@ -1539,7 +1539,7 @@ interpreter of the Celtic faith, as it respected the tradition of the
 fall of man, and an eloquent index to the religion of the Druids.
 
 This relic of idolatry is the celebrated horn found by a female peasant,
-near Tundera <span id="fr_377"></span>[1](#fn_376), in Denmark, in the
+near Tundera <span id="fr_377"></span>[1](#fn_376.md), in Denmark, in the
 year, 1639. It is of gold, and embossed in parallel circles, of rude
 workmanship. These circular compartments are seven in number, and in
 five out of the seven circles, the figure of a serpent is seen in
@@ -1580,7 +1580,7 @@ seems to point to this event.
 Koch considers the hieroglyphics as explanatory of the ancient practice
 of the country, which devoted human victims to serpent-gods. "Nos exinde
 conjecimus, a tenerâ ætate infantes serpentibus vovisse, superstitiosos
-veteres <span id="fr_378"></span>[1](#fn_377)." Olaus Wormius is of
+veteres <span id="fr_378"></span>[1](#fn_377.md)." Olaus Wormius is of
 opinion that *the serpent* referred to the serpent-tempter and
 destroyer.
 
@@ -1608,10 +1608,10 @@ The Vandals worshipped their principal deity under the form of a *flying
 dragon*; and, like the rest of their northern brethren, kept domestic
 serpents. It is said that their women also kept snakes in hollow oaks,
 to whom they made offerings of milk <span
-id="fr_379"></span>[1](#fn_378), and whom they adored with the most
+id="fr_379"></span>[1](#fn_378.md), and whom they adored with the most
 abject humility. They prayed to them for blessings, for the health of
 their husbands, and family, &c. <span
-id="fr_380"></span>[2](#fn_379)--in a word, adored them as gods.
+id="fr_380"></span>[2](#fn_379.md)--in a word, adored them as gods.
 
 The Lombards also cherished the same superstition,
 
@@ -1623,7 +1623,7 @@ inhabitants, who were Lombards, *worshipped a golden viper* and a
 *tree*, on which the skin of a wild beast was hung." He suppressed this
 idolatry, and being made Bishop of Benevento, cut down the tree, and
 melted the golden viper for a sacramental chalice <span
-id="fr_382"></span>[1](#fn_381).
+id="fr_382"></span>[1](#fn_381.md).
 
  
 
@@ -1634,8 +1634,8 @@ Druids, were not only worshippers of the solar deity, symbolized by the
 serpent, but held the serpent, independent of his relation to the sun,
 in peculiar veneration. Cut off from all intimate intercourse with the
 civilized world, partly by their remoteness <span
-id="fr_383"></span>[2](#fn_382), and partly by their national
-character <span id="fr_384"></span>[3](#fn_383), the Britons retained
+id="fr_383"></span>[2](#fn_382.md), and partly by their national
+character <span id="fr_384"></span>[3](#fn_383.md), the Britons retained
 their primitive idolatry long after it had yielded in the neighbouring
 countries to the polytheistic corruptions of Greece and Egypt. In
 process of time, however, the
@@ -1645,11 +1645,11 @@ process of time, however, the
 gods of the Gaulish Druids penetrated into the sacred mythology of the
 British, and furnished personifications for the different attributes of
 the dracontic god HU. This deity was called "THE DRAGON RULER OF THE
-WORLD <span id="fr_385"></span>[1](#fn_384)," and his car was drawn by
-SERPENTS <span id="fr_386"></span>[2](#fn_385). His priests, in
+WORLD <span id="fr_385"></span>[1](#fn_384.md)," and his car was drawn by
+SERPENTS <span id="fr_386"></span>[2](#fn_385.md). His priests, in
 accommodation with the general custom of the ministers of the Ophite
 god, were called after him, ADDERS <span
-id="fr_387"></span>[3](#fn_386).
+id="fr_387"></span>[3](#fn_386.md).
 
 In a poem of Taliessin, translated by Davies, in his Appendix, No. 6, is
 the following enumeration of a Druid's titles:
@@ -1674,7 +1674,7 @@ the latter by the Greeks and Romans. The Druids of Gaul had among them
 many divinities corresponding with those of Greece and Rome. They
 worshipped OGMIUS, (a compound deity between Hercules and Mercury,) and,
 after him, *Apollo*, *Mars*, *Jupiter*, and *Minerva*, or deities
-resembling them <span id="fr_388"></span>[1](#fn_387). Of these they
+resembling them <span id="fr_388"></span>[1](#fn_387.md). Of these they
 made images; whereas hitherto the only image in the British worship was
 the great wicker idol, into which they thrust HUMAN VICTIMS designed to
 be burnt as AN EXPIATORY SACRIFICE for the sins of some chieftain. The
@@ -1694,7 +1694,7 @@ Egypt. The poem is entitled,
 Uther, "The Dragon's Head;" and it is not a little remarkable that the
 word "Draig" in the British language, signifies, at the same time, "*a
 fiery serpent*, *a dragon*, and THE SUPREME GOD <span
-id="fr_389"></span>[1](#fn_388)."
+id="fr_389"></span>[1](#fn_388.md)."
 
 In the second part of this poem is the following description of the
 sacrificial rites of Uther Pendragon.
@@ -1729,7 +1729,7 @@ the serpent in the Isiac mysteries passed about the sacred vessels
 containing the offerings:
 
 "Pigraque labatur circa donaria serpens <span
-id="fr_390"></span>[1](#fn_389)."
+id="fr_390"></span>[1](#fn_389.md)."
 
 The GOLDEN HORNS, which contained the drink offerings, were very
 probably of the same kind as that found in Tundera, in Denmark, and
@@ -1742,7 +1742,7 @@ prominent character.
 <span id="page_258">p. 258</span>
 
 If we refer to the description of the horn of Tundera <span
-id="fr_391"></span>[1](#fn_390) we shall find upon it precisely the same
+id="fr_391"></span>[1](#fn_390.md) we shall find upon it precisely the same
 impressed history which was pictured "upon the veil that covered the
 huge stones." The dragon, "the gliding king," is seen in the same
 attitude of pursuing a naked figure, which might be mistaken, from the
@@ -1771,7 +1771,7 @@ public and solemn festival, whilst the sanctuary, or assembly of priests
 and votaries, invoke the dragon king. The place of consecration is on
 the sacred mound, within the stone circle and mount which represent the
 world, and near the consecrated lakes <span
-id="fr_393"></span>[1](#fn_392). At this time
+id="fr_393"></span>[1](#fn_392.md). At this time
 
 <span id="page_260">p. 260</span>
 
@@ -1779,7 +1779,7 @@ the huge stones of the temple were covered with a veil, on which was
 delineated the history of the dragon king. There seems also to have been
 *a living serpent as a symbol of the god*, who is gliding from place to
 place, and tasting the drink-offerings in the sacred vessels <span
-id="fr_394"></span>[1](#fn_393)."
+id="fr_394"></span>[1](#fn_393.md)."
 
 The sanctity of the serpent showed itself in another very curious part
 of the superstition of the British Druids, namely, in that which related
@@ -1790,7 +1790,7 @@ were called by the Britons. Sir Richard Colt Hoare
 <span id="page_261">p. 261</span>
 
 gives an engraving of one in his "Modern Wiltshire, Hundred of
-Amesbury," p. 56. "This is a [bead](errata.htm#1) of imperfect
+Amesbury," p. 56. "This is a [bead](errata.htm#1.md) of imperfect
 vitrification, representing two circular lines of opaque skyblue and
 white, which seem to represent a snake twined round a centre which is
 perforated." Many beads of this kind have been found in various parts of
@@ -1799,7 +1799,7 @@ thus describes them in a letter to Ralph Thoresby:--"I am fully
 satisfied that they were amulets of the Druids. . . . . . . I have seen
 one of them that had nine small snakes upon it. . . . . . . . There are
 others that have one or two or more snakes <span
-id="fr_395"></span>[1](#fn_394)."
+id="fr_395"></span>[1](#fn_394.md)."
 
 These, we are informed by the Roman naturalist, were worn about the neck
 as charms, and were deemed efficacious in rendering their possessors
@@ -1844,10 +1844,10 @@ breathing upon a hazel wand, produce a stone ring of a blue colour, in
 which there appears the yellow figure of a snake; and that beasts bit
 and envenomed, being given some of the water to drink wherein this stone
 has been infused, will perfectly recover of the poison <span
-id="fr_396"></span>[1](#fn_395)."
+id="fr_396"></span>[1](#fn_395.md)."
 
 These charms were usually called "*glains*;" and, according to
-Davies <span id="fr_397"></span>[2](#fn_396), "were some blue, some
+Davies <span id="fr_397"></span>[2](#fn_396.md), "were some blue, some
 white, a third sort green, and a fourth variegated with all these
 colours, but still preserving the appearance of glass. Others again were
 made of earth, and only glazed over."
@@ -1860,7 +1860,7 @@ real glain being either a circle or a lunette: the latter referring
 probably to the lunar deity, or according to Davies, to the arkite
 worship, the ark being sometimes described under the form of a lunette.
 These stones have been frequently found in Wales, Northamptonshire <span
-id="fr_398"></span>[1](#fn_397), and in many other parts of England. Dr.
+id="fr_398"></span>[1](#fn_397.md), and in many other parts of England. Dr.
 Stukeley, in his description of the Druidical temple of Abury in
 Wiltshire, mentions having bought two British beads of the inhabitants,
 "one large, of a light blue, and ribbed; and the other less, of a dark
@@ -1886,17 +1886,17 @@ estimation by the eastern kings. "It must be cut out of the brain of a
 living serpent, where it grows; for if the serpent die, the stone
 dissolves. The natives, therefore, first charm the serpent to sleep with
 herbs; and when he is lulled, make a sudden incision in his head, and
-cut out the stone <span id="fr_399"></span>[1](#fn_398)."
+cut out the stone <span id="fr_399"></span>[1](#fn_398.md)."
 
 The superstition of the anguinum prevailed also in Scandinavia, as we
 learn from Olaus Magnus: "Creduntur (*sc. serpentes*) veterum relatione,
-lapidem flatu suo gignere <span id="fr_400"></span>[2](#fn_399)."
+lapidem flatu suo gignere <span id="fr_400"></span>[2](#fn_399.md)."
 
 Between the religion of the Druids and that of the Scandinavians there
 was a strong similarity, though not in every respect an identity. The
 same sacrificial rites to the dracontic god, and the same circular
 temples, may be observed in Britain and the Scandinavian countries <span
-id="fr_401"></span>[3](#fn_400); and a branch of the same idolatry
+id="fr_401"></span>[3](#fn_400.md); and a branch of the same idolatry
 flourished
 
 <span id="page_266">p. 266</span>
@@ -1946,7 +1946,7 @@ forest, attacked the monster. The dragon fled before
 him, but was overtaken and slain upon the spot where the obelisk above
 mentioned now stands to record the deed. The track through which the
 dragon and his pursuer passed is called "*the den of Bal Dragon* <span
-id="fr_402"></span>[1](#fn_401)."
+id="fr_402"></span>[1](#fn_401.md)."
 
 It is possible that this story may also allude to the destruction of an
 Ophite temple.
@@ -1993,7 +1993,7 @@ of "*no quarter*."
 
 In camp this standard was planted in the front of the king's pavilion,
 to the right of the other ensigns, and was kept unfurled day and
-night <span id="fr_403"></span>[1](#fn_402).
+night <span id="fr_403"></span>[1](#fn_402.md).
 
 The dragon was introduced by Henry the Seventh, as a supporter of the
 royal arms. He brought it from Wales, and it is still the king's crest
@@ -2024,7 +2024,7 @@ stones, on which mystical figures, like spiral lines, or coiled
 serpents, rudely carved, have been observed. "These lines," says Mr.
 Beauford, who describes the cavern, "appear to be the representation of
 serpents coiled up, and were probably symbols of the Divine Being <span
-id="fr_404"></span>[1](#fn_403)." The relation of these relics to the
+id="fr_404"></span>[1](#fn_403.md)." The relation of these relics to the
 celebrated Omphalos we have considered in a former part of this volume,
 to which, therefore, the reader is referred.
 
@@ -2044,7 +2044,7 @@ serpents in the Grecian Archipelago and Peloponnesus; and I see no
 reason why a similar line of argument should not be adopted in regard to
 the achievements of St. Patrick in Ireland. Such fables are general in
 Christian countries which were ever devoted to Ophiolatreia <span
-id="fr_405"></span>[1](#fn_404).
+id="fr_405"></span>[1](#fn_404.md).
 
  
 
@@ -2062,15 +2062,15 @@ but at what period or through what channel, is involved in mystery.
 \[paragraph continues\] The well-known figures of Gallic deities,
 decorated with the caduceus of Hermes, are monuments of the fact. This
 god was probably the Theutates of Celtic mythology, the Theuth or Thoth
-of the Egyptian <span id="fr_406"></span>[1](#fn_405); and identical
-with the Gothic Teut or Tuisto <span id="fr_407"></span>[2](#fn_406).
+of the Egyptian <span id="fr_406"></span>[1](#fn_405.md); and identical
+with the Gothic Teut or Tuisto <span id="fr_407"></span>[2](#fn_406.md).
 The name *Tat*, *Tath*, or *Tait*," remarks Faber, "was well known to
 the ancient Irish," (whose priests we have observed were probably of the
 Gallic tribe of Druids.) "By this word they designated the first day of
 the month August, that being the month of harvest, and Tait being the
 god who presided over agriculture. The month which among the Egyptians
 corresponded with August was called by the name of the god Thoth <span
-id="fr_408"></span>[3](#fn_407)."
+id="fr_408"></span>[3](#fn_407.md)."
 
 This remark of Faber brings to mind the singular connexion of the sacred
 serpent with *agriculture*, in the mythology of the Greeks. There we
@@ -2096,7 +2096,7 @@ For, independently of the connexion of the serpent-tempter with the
 preserved throughout the world, one of the immediate consequences of the
 serpent's success in seducing our first parents, was *a general
 deterioration of the properties of the earth* <span
-id="fr_409"></span>[1](#fn_408). Hence, in the confusion of truth and
+id="fr_409"></span>[1](#fn_408.md). Hence, in the confusion of truth and
 error, of which heathen mythology is almost entirely composed, would
 naturally arise the opinion that the serpent was in some mysterious
 manner influential upon agriculture: and the genius of superstition
@@ -2111,7 +2111,7 @@ To Teutates, or Mercury, the Druids of Gaul were accustomed to immolate
 human victims. There is nothing peculiar in this sacrificial observance,
 except its connexion with a singular opinion which borders so closely
 upon the doctrine of THE ATONEMENT, that I cannot pass it by. It is thus
-expressed by Cæsar <span id="fr_410"></span>[1](#fn_409):--"PRO VITA
+expressed by Cæsar <span id="fr_410"></span>[1](#fn_409.md):--"PRO VITA
 HOMINIS NISI VITA HOMINIS REDDATUR, NON POSSE ALTIER DEORUM IMMORTALIUM
 NUMEN PLACARI, ARBITRANTUR." The sacrifice of human victims was at one
 time universal, but in no religion has been preserved so clear a
@@ -2137,12 +2137,12 @@ Gaul; for "there is a mixed symbolic image at Arles, the principal part
 of which is that of a human person clothed with a veil, on which are
 wrought in relievo, the figures of the zodiac. Round this person THE
 DRAGON SERPENT winds his flexile course <span
-id="fr_411"></span>[1](#fn_410)." . . . . . . .
+id="fr_411"></span>[1](#fn_410.md)." . . . . . . .
 
 But the most curious relic of the religion of the Gauls has been
 preserved in a piece of sculpture on the front of a temple at
 Montmorillon in Poitou, of which Montfaucon has given us an
-engraving <span id="fr_412"></span>[2](#fn_411). It is thus described by
+engraving <span id="fr_412"></span>[2](#fn_411.md). It is thus described by
 this ingenious antiquary--"Over the gate of the temple are eight human
 figures of rude workmanship, which are probably deities. Of these eight
 there are six images of men placed in two
@@ -2178,11 +2178,11 @@ Egypt and Greece may have been partially transmitted to Gaul. To
 strengthen such a conjecture, Cæsar informs us, that the Druids of Gaul
 were acquainted with the Greek language, or at least the Greek alphabet:
 publicis privatisque rationibus GRÆCIS LITERIS utuntur <span
-id="fr_413"></span>[1](#fn_412)."
+id="fr_413"></span>[1](#fn_412.md)."
 
 The chief seat of the Druidical religion, however, was Britain, as the
 same writer assures us; to which country the young Druids of Gaul were
-sent for their education <span id="fr_414"></span>[2](#fn_413).
+sent for their education <span id="fr_414"></span>[2](#fn_413.md).
 
  
 
@@ -2199,7 +2199,7 @@ churches, of which that of Landevan is a curious example; as if they had
 been carved by the early Christians upon the exterior of their
 sanctuaries, to invite the hesitating Ophite to enter the portals of a
 *consecrated* building; *serpents upon the wall* being the sign of
-*consecration* <span id="fr_415"></span>[1](#fn_414).
+*consecration* <span id="fr_415"></span>[1](#fn_414.md).
 
 But whether this was really the case or not, it is certain that the
 first inhabitants of Britany were worshippers of the god BEL, whose name
@@ -2236,7 +2236,7 @@ bourg of Sérent in the Morbihan, before the French Revolution, which
 seems to have been the relic of an Ophite ceremony. This was a
 procession of the villagers, in which they carried a *Gwiber* or snake,
 crying as they advanced, "*Let him beware who will of the Gwiber
-Draig* <span id="fr_416"></span>[1](#fn_415), *peace to Molac!*" The
+Draig* <span id="fr_416"></span>[1](#fn_415.md), *peace to Molac!*" The
 tradition of the
 
 <span id="page_281">p. 281</span>
@@ -2269,7 +2269,7 @@ they were of oriental descent, and upon adopting the customs of Europe,
 removed their *turbans* from the head to the waist, without laying aside
 their forms or names. Other indications of an eastern origin are
 strongly marked among the peasantry of Lower Britany <span
-id="fr_417"></span>[1](#fn_416). It is therefore not improbable that the
+id="fr_417"></span>[1](#fn_416.md). It is therefore not improbable that the
 Moloch of the Ammonites might also have had an altar at Sérent.
 
 But the most indisputable memorial of the dragon," is to be found in
@@ -2337,7 +2337,7 @@ are we to understand these things," ingeniously demands M. de Penhouët,
 "if we do not look upon them as a transparent veil through which we
 perceive the *efficacy of baptism administered to the followers of
 serpent-worship, who upon their conversion were plunged into the
-water* <span id="fr_418"></span>[1](#fn_417)?"
+water* <span id="fr_418"></span>[1](#fn_417.md)?"
 
 It is extremely probable that these and all similar traditions relate
 solely to the success of the first Christian missionaries over the
@@ -2426,7 +2426,7 @@ knowledge of the Breton language, would throw much light upon the
 ancient religion of that interesting country, which I cannot but think,
 was, at the least, a modification of that Ophiolatreia which, in almost
 every region of the world, had its altars, its dragon temples, and its
-human victims <span id="fr_419"></span>[1](#fn_418).
+human victims <span id="fr_419"></span>[1](#fn_418.md).
 
 A longer stay in Britany might have enabled me to bring forward many
 more proofs of its aboriginal worship of the serpent: but the temple of
@@ -2445,17 +2445,17 @@ militate, that it was truly a DRACONTIUM--a temple of the SOLAR SERPENT.
 
 ### Footnotes
 
-<span id="fn_251"></span>[183:1](wos06.htm#fr_252) Faber approves this
+<span id="fn_251"></span>[183:1](wos06.htm#fr_252.md) Faber approves this
 derivation.--*Cabiri*, vol. i. 180.
 
-<span id="fn_252"></span>[183:2](wos06.htm#fr_253) The first inhabitants
+<span id="fn_252"></span>[183:2](wos06.htm#fr_253.md) The first inhabitants
 of Europe are said to have been the offspring of a woman, partly of the
 human, and partly of the dracontic figure, a tradition which alludes to
 their Ophite origin.
 
-<span id="fn_253"></span>[185:1](wos06.htm#fr_254) Anal. ii. 206.
+<span id="fn_253"></span>[185:1](wos06.htm#fr_254.md) Anal. ii. 206.
 
-<span id="fn_254"></span>[186:1](wos06.htm#fr_255) Allwood, Lit. Antiq.
+<span id="fn_254"></span>[186:1](wos06.htm#fr_255.md) Allwood, Lit. Antiq.
 of Greece, p. 259, derives the name Cecrops from *Ca-cur-ups*, "*The
 Temple of the Supreme* <span id="page_187">p. 187</span> OPS."
 *Ca-cur-ops*, with the use of the Attic dialect, and by contraction
@@ -2463,161 +2463,161 @@ would become *Ce-c’r-ops*. From the temple he thinks originated the
 legend of Cecrops, through the common transmutation of temples into
 deities, in mythological history.
 
-<span id="fn_255"></span>[187:1](wos06.htm#fr_256) Bryant, ii. 210,
+<span id="fn_255"></span>[187:1](wos06.htm#fr_256.md) Bryant, ii. 210,
 citing Apollodorus.
 
-<span id="fn_256"></span>[187:2](wos06.htm#fr_257) Ibid. p. 211, citing
+<span id="fn_256"></span>[187:2](wos06.htm#fr_257.md) Ibid. p. 211, citing
 Eustathius.
 
-<span id="fn_257"></span>[187:3](wos06.htm#fr_258) Macrob. Saturnal.
+<span id="fn_257"></span>[187:3](wos06.htm#fr_258.md) Macrob. Saturnal.
 lib. i. c, x. p. 162.
 
-<span id="fn_258"></span>[188:1](wos06.htm#fr_259) Apolog. lib. i. p.
+<span id="fn_258"></span>[188:1](wos06.htm#fr_259.md) Apolog. lib. i. p.
 60.
 
-<span id="fn_259"></span>[188:2](wos06.htm#fr_260) Some of the ancient
+<span id="fn_259"></span>[188:2](wos06.htm#fr_260.md) Some of the ancient
 fathers supposed that the word ευια was an ejaculation of the name EVE;
 and (the serpent being simultaneously held up) that the whole of the
 orgies were a celebration of the fall of the first woman.
 
-<span id="fn_260"></span>[188:3](wos06.htm#fr_261) Apud. Euseb. P. E.
+<span id="fn_260"></span>[188:3](wos06.htm#fr_261.md) Apud. Euseb. P. E.
 64.
 
-<span id="fn_261"></span>[188:4](wos06.htm#fr_262) Ibid. 62.
+<span id="fn_261"></span>[188:4](wos06.htm#fr_262.md) Ibid. 62.
 
-<span id="fn_262"></span>[188:5](wos06.htm#fr_263) Clemens Alex. cited
+<span id="fn_262"></span>[188:5](wos06.htm#fr_263.md) Clemens Alex. cited
 by Castellan, aped Gronov. 643.
 
-<span id="fn_263"></span>[189:1](wos06.htm#fr_264) No. 4. room ix.
+<span id="fn_263"></span>[189:1](wos06.htm#fr_264.md) No. 4. room ix.
 Egypt. Antiq. in the British Museum.
 
-<span id="fn_264"></span>[189:2](wos06.htm#fr_265) viii. 41.
+<span id="fn_264"></span>[189:2](wos06.htm#fr_265.md) viii. 41.
 
-<span id="fn_265"></span>[189:3](wos06.htm#fr_266) See "Ophiolatreia in
+<span id="fn_265"></span>[189:3](wos06.htm#fr_266.md) See "Ophiolatreia in
 Egypt."
 
-<span id="fn_266"></span>[190:1](wos06.htm#fr_267) Philostratus, Vita
+<span id="fn_266"></span>[190:1](wos06.htm#fr_267.md) Philostratus, Vita
 Apollon. l. viii. c. 15.
 
-<span id="fn_267"></span>[191:1](wos06.htm#fr_268) *Beauford* in
+<span id="fn_267"></span>[191:1](wos06.htm#fr_268.md) *Beauford* in
 Vallancey's Collectan. de reb. Hibern. vol. ii. p. 174.
 
-<span id="fn_268"></span>[191:2](wos06.htm#fr_269) Strabo, lib. vi.
+<span id="fn_268"></span>[191:2](wos06.htm#fr_269.md) Strabo, lib. vi.
 Pausan. lib. 10. Pindar, Pyth. Ode iv. and vi.
 
-<span id="fn_269"></span>[192:1](wos06.htm#fr_270) Pausan. lib. ii. p.
+<span id="fn_269"></span>[192:1](wos06.htm#fr_270.md) Pausan. lib. ii. p.
 109.
 
-<span id="fn_270"></span>[192:2](wos06.htm#fr_271) Lib. v. s. 70.
+<span id="fn_270"></span>[192:2](wos06.htm#fr_271.md) Lib. v. s. 70.
 
-<span id="fn_271"></span>[192:3](wos06.htm#fr_272)  Anal. i. 307.
+<span id="fn_271"></span>[192:3](wos06.htm#fr_272.md)  Anal. i. 307.
 
-<span id="fn_272"></span>[194:1](wos06.htm#fr_273) Archæol. Græc. ii.
+<span id="fn_272"></span>[194:1](wos06.htm#fr_273.md) Archæol. Græc. ii.
 383. 9th *Edit*.
 
-<span id="fn_273"></span>[194:2](wos06.htm#fr_274) Montfaucon, i. 164.
+<span id="fn_273"></span>[194:2](wos06.htm#fr_274.md) Montfaucon, i. 164.
 
-<span id="fn_274"></span>[195:1](wos06.htm#fr_275) Nicol de ritu Bacch.
+<span id="fn_274"></span>[195:1](wos06.htm#fr_275.md) Nicol de ritu Bacch.
 apud Gronov. vii. 186.
 
-<span id="fn_275"></span>[195:2](wos06.htm#fr_276) Ibid.
+<span id="fn_275"></span>[195:2](wos06.htm#fr_276.md) Ibid.
 
-<span id="fn_276"></span>[196:1](wos06.htm#fr_277) Gesner, Hist. Anim.
+<span id="fn_276"></span>[196:1](wos06.htm#fr_277.md) Gesner, Hist. Anim.
 lib. v. p. 84.
 
-<span id="fn_277"></span>[197:1](wos06.htm#fr_278) Xiphilin. Rom. Hist.
+<span id="fn_277"></span>[197:1](wos06.htm#fr_278.md) Xiphilin. Rom. Hist.
 Script. iii. 358.
 
-<span id="fn_278"></span>[197:2](wos06.htm#fr_279) Pausan. lib. viii. p.
+<span id="fn_278"></span>[197:2](wos06.htm#fr_279.md) Pausan. lib. viii. p.
 531. Edit. Hanoviæ 1613.
 
-<span id="fn_279"></span>[198:1](wos06.htm#fr_280) Paus. lib. ix. p.
+<span id="fn_279"></span>[198:1](wos06.htm#fr_280.md) Paus. lib. ix. p.
 593.
 
-<span id="fn_280"></span>[198:2](wos06.htm#fr_281) Virgil, viii. 435.
+<span id="fn_280"></span>[198:2](wos06.htm#fr_281.md) Virgil, viii. 435.
 
-<span id="fn_281"></span>[198:3](wos06.htm#fr_282) Montfaucon, i, 88.
+<span id="fn_281"></span>[198:3](wos06.htm#fr_282.md) Montfaucon, i, 88.
 
-<span id="fn_282"></span>[198:4](wos06.htm#fr_283) Paus. lib. v. 304.
+<span id="fn_282"></span>[198:4](wos06.htm#fr_283.md) Paus. lib. v. 304.
 
-<span id="fn_283"></span>[199:1](wos06.htm#fr_284) Montf. i. 88.
+<span id="fn_283"></span>[199:1](wos06.htm#fr_284.md) Montf. i. 88.
 
-<span id="fn_284"></span>[200:1](wos06.htm#fr_285) Alcmaon also, who was
+<span id="fn_284"></span>[200:1](wos06.htm#fr_285.md) Alcmaon also, who was
 present at this siege, was distinguished by the cognizance of a serpent
 upon his shield.--*Pindar Pythia*, 8.
 
-<span id="fn_285"></span>[201:1](wos06.htm#fr_286) See ch. i.
+<span id="fn_285"></span>[201:1](wos06.htm#fr_286.md) See ch. i.
 "Ophiolatreia in Persia." *Plate*.
 
-<span id="fn_286"></span>[201:2](wos06.htm#fr_287) Bryant, Anal. ii.
+<span id="fn_286"></span>[201:2](wos06.htm#fr_287.md) Bryant, Anal. ii.
 212.
 
-<span id="fn_287"></span>[201:3](wos06.htm#fr_288) Homer, Iliad, A. 38.
+<span id="fn_287"></span>[201:3](wos06.htm#fr_288.md) Homer, Iliad, A. 38.
 
-<span id="fn_288"></span>[202:1](wos06.htm#fr_289) Paus. lib. ii. 106.
+<span id="fn_288"></span>[202:1](wos06.htm#fr_289.md) Paus. lib. ii. 106.
 
-<span id="fn_289"></span>[202:2](wos06.htm#fr_290) Pausan. lib. ii. 136.
+<span id="fn_289"></span>[202:2](wos06.htm#fr_290.md) Pausan. lib. ii. 136.
 
-<span id="fn_290"></span>[202:3](wos06.htm#fr_291) Montf. i. 180.
+<span id="fn_290"></span>[202:3](wos06.htm#fr_291.md) Montf. i. 180.
 
-<span id="fn_291"></span>[202:4](wos06.htm#fr_292) Ibid. 181.
+<span id="fn_291"></span>[202:4](wos06.htm#fr_292.md) Ibid. 181.
 
-<span id="fn_292"></span>[203:1](wos06.htm#fr_293) It must be confessed,
+<span id="fn_292"></span>[203:1](wos06.htm#fr_293.md) It must be confessed,
 however, that this notion made a very strong impression upon
 antiquity--for "to eat snakes" became a proverb, denoting a man's
 feeding on what renewed his vigour.
 
-<span id="fn_293"></span>[204:1](wos06.htm#fr_294) Paus. lib. ii. 103.
+<span id="fn_293"></span>[204:1](wos06.htm#fr_294.md) Paus. lib. ii. 103.
 
-<span id="fn_294"></span>[207:1](wos06.htm#fr_295) Pausan. lib. iv. 243.
+<span id="fn_294"></span>[207:1](wos06.htm#fr_295.md) Pausan. lib. iv. 243.
 
-<span id="fn_295"></span>[208:1](wos06.htm#fr_296) Vol. i.
+<span id="fn_295"></span>[208:1](wos06.htm#fr_296.md) Vol. i.
 
-<span id="fn_296"></span>[208:2](wos06.htm#fr_297) Anal. ii. 465, citing
+<span id="fn_296"></span>[208:2](wos06.htm#fr_297.md) Anal. ii. 465, citing
 Pausanias.
 
-<span id="fn_297"></span>[208:3](wos06.htm#fr_298) Hesiod, cited by
+<span id="fn_297"></span>[208:3](wos06.htm#fr_298.md) Hesiod, cited by
 Stukeley, *Abury*, 69.
 
-<span id="fn_298"></span>[209:1](wos06.htm#fr_299) Hoffman, Lexicon.
+<span id="fn_298"></span>[209:1](wos06.htm#fr_299.md) Hoffman, Lexicon.
 
-<span id="fn_299"></span>[209:2](wos06.htm#fr_300) Fab. 140.
+<span id="fn_299"></span>[209:2](wos06.htm#fr_300.md) Fab. 140.
 
-<span id="fn_300"></span>[210:1](wos06.htm#fr_301) Var. Hist. lib. iii.
+<span id="fn_300"></span>[210:1](wos06.htm#fr_301.md) Var. Hist. lib. iii.
 c, 1.
 
-<span id="fn_301"></span>[210:2](wos06.htm#fr_302) De defectu Orac. i.
+<span id="fn_301"></span>[210:2](wos06.htm#fr_302.md) De defectu Orac. i.
 417.
 
-<span id="fn_302"></span>[210:3](wos06.htm#fr_303) Bryant, ii. 147. The
+<span id="fn_302"></span>[210:3](wos06.htm#fr_303.md) Bryant, ii. 147. The
 same is intimated by Hyginus (Introd. Fab.) when he calls Python,
 "*Draco divinus*."
 
-<span id="fn_303"></span>[210:4](wos06.htm#fr_304) Euseb. P. E. 72.
+<span id="fn_303"></span>[210:4](wos06.htm#fr_304.md) Euseb. P. E. 72.
 
-<span id="fn_304"></span>[210:5](wos06.htm#fr_305) Stukeley, Abury, 69,
+<span id="fn_304"></span>[210:5](wos06.htm#fr_305.md) Stukeley, Abury, 69,
 citing Proleg. to Pindar. Pyth.
 
-<span id="fn_305"></span>[211:1](wos06.htm#fr_306) ix. 81.
+<span id="fn_305"></span>[211:1](wos06.htm#fr_306.md) ix. 81.
 
-<span id="fn_306"></span>[211:2](wos06.htm#fr_307) Lib. x. p. 633.
+<span id="fn_306"></span>[211:2](wos06.htm#fr_307.md) Lib. x. p. 633.
 
-<span id="fn_307"></span>[212:1](wos06.htm#fr_308) Montf. ii. 86.
+<span id="fn_307"></span>[212:1](wos06.htm#fr_308.md) Montf. ii. 86.
 
-<span id="fn_308"></span>[212:2](wos06.htm#fr_309) Decline and Fall of
+<span id="fn_308"></span>[212:2](wos06.htm#fr_309.md) Decline and Fall of
 the Rom. Emp. iii. 21.
 
-<span id="fn_309"></span>[212:3](wos06.htm#fr_310) See Gibbon's *note*.
+<span id="fn_309"></span>[212:3](wos06.htm#fr_310.md) See Gibbon's *note*.
 
-<span id="fn_310"></span>[213:1](wos06.htm#fr_311) Annales Turcici, s.
+<span id="fn_310"></span>[213:1](wos06.htm#fr_311.md) Annales Turcici, s.
 130.
 
-<span id="fn_311"></span>[214:1](wos06.htm#fr_312) Montf. ii. 86.
+<span id="fn_311"></span>[214:1](wos06.htm#fr_312.md) Montf. ii. 86.
 
-<span id="fn_312"></span>[214:2](wos06.htm#fr_313) *De Astrolog*. cited
+<span id="fn_312"></span>[214:2](wos06.htm#fr_313.md) *De Astrolog*. cited
 by Bulenger de Orac. apud Gronov. vii. 15.
 
-<span id="fn_313"></span>[214:3](wos06.htm#fr_314) The words of Lucian
+<span id="fn_313"></span>[214:3](wos06.htm#fr_314.md) The words of Lucian
 are, "At Delphi a virgin delivers the oracle, being a symbol of the
 constellation VIRGO; and *a dragon speaks from under the tripod*,
 because the constellation DRACO appears among the stars." (De Astrolog.
@@ -2628,231 +2628,231 @@ Septuagint. For the <span id="page_215">p. 215</span> reason assigned by
 Lucian, we see a *caduceus* in the hand of the personified constellation
 *Virgo*, in Hygin. Poet. Astron.
 
-<span id="fn_314"></span>[215:1](wos06.htm#fr_315) Bulenger, ut supra.
+<span id="fn_314"></span>[215:1](wos06.htm#fr_315.md) Bulenger, ut supra.
 
-<span id="fn_315"></span>[215:2](wos06.htm#fr_316) Potter, Archæol.
+<span id="fn_315"></span>[215:2](wos06.htm#fr_316.md) Potter, Archæol.
 Græc. ii. 283.
 
-<span id="fn_316"></span>[215:3](wos06.htm#fr_317) Bryant, i. 257.
+<span id="fn_316"></span>[215:3](wos06.htm#fr_317.md) Bryant, i. 257.
 
-<span id="fn_317"></span>[216:1](wos06.htm#fr_318) Bryant, i. 256.
+<span id="fn_317"></span>[216:1](wos06.htm#fr_318.md) Bryant, i. 256.
 
-<span id="fn_318"></span>[216:2](wos06.htm#fr_319) See Pausanias *in
+<span id="fn_318"></span>[216:2](wos06.htm#fr_319.md) See Pausanias *in
 loc*.
 
-<span id="fn_319"></span>[217:1](wos06.htm#fr_320) Page 602. Edit.
+<span id="fn_319"></span>[217:1](wos06.htm#fr_320.md) Page 602. Edit.
 Hanoviæ, 1613.
 
-<span id="fn_320"></span>[218:1](wos06.htm#fr_321) Bryant, ii. 162.
+<span id="fn_320"></span>[218:1](wos06.htm#fr_321.md) Bryant, ii. 162.
 
-<span id="fn_321"></span>[220:1](wos06.htm#fr_322) Bulenger de Orac.
+<span id="fn_321"></span>[220:1](wos06.htm#fr_322.md) Bulenger de Orac.
 apud Gronov. vii. 44.
 
-<span id="fn_322"></span>[220:2](wos06.htm#fr_323) Alexander, 665.
+<span id="fn_322"></span>[220:2](wos06.htm#fr_323.md) Alexander, 665.
 
-<span id="fn_323"></span>[220:3](wos06.htm#fr_324) Lucian's Alexander
+<span id="fn_323"></span>[220:3](wos06.htm#fr_324.md) Lucian's Alexander
 the Impostor.
 
-<span id="fn_324"></span>[222:1](wos06.htm#fr_325) Allwood, *Lit. Antiq.
+<span id="fn_324"></span>[222:1](wos06.htm#fr_325.md) Allwood, *Lit. Antiq.
 of Greece*, p. 182, and Faber, *Cabiri*, ii. p. 212.
 
-<span id="fn_325"></span>[222:2](wos06.htm#fr_326) Paus. 469.
+<span id="fn_325"></span>[222:2](wos06.htm#fr_326.md) Paus. 469.
 
-<span id="fn_326"></span>[222:3](wos06.htm#fr_327) Paus. 208.
+<span id="fn_326"></span>[222:3](wos06.htm#fr_327.md) Paus. 208.
 
-<span id="fn_327"></span>[222:4](wos06.htm#fr_328) Thebaid, v. p. 239,
+<span id="fn_327"></span>[222:4](wos06.htm#fr_328.md) Thebaid, v. p. 239,
 Edit. Paris, 1618.
 
-<span id="fn_328"></span>[223:1](wos06.htm#fr_329) ii. 185, also i. 117.
+<span id="fn_328"></span>[223:1](wos06.htm#fr_329.md) ii. 185, also i. 117.
 
-<span id="fn_329"></span>[224:1](wos06.htm#fr_330) Bryant, Anal. ii.
+<span id="fn_329"></span>[224:1](wos06.htm#fr_330.md) Bryant, Anal. ii.
 215.
 
-<span id="fn_330"></span>[224:2](wos06.htm#fr_331) Spanheim, 212.
+<span id="fn_330"></span>[224:2](wos06.htm#fr_331.md) Spanheim, 212.
 
-<span id="fn_331"></span>[224:3](wos06.htm#fr_332) Strabo, 657.
+<span id="fn_331"></span>[224:3](wos06.htm#fr_332.md) Strabo, 657.
 
-<span id="fn_332"></span>[224:4](wos06.htm#fr_333) Ibid. 746.
+<span id="fn_332"></span>[224:4](wos06.htm#fr_333.md) Ibid. 746.
 
-<span id="fn_333"></span>[225:1](wos06.htm#fr_334) See article on the
+<span id="fn_333"></span>[225:1](wos06.htm#fr_334.md) See article on the
 CADUCEUS in the preceding chapter.
 
-<span id="fn_334"></span>[226:1](wos06.htm#fr_335) Gesner, Hist. Anim.
+<span id="fn_334"></span>[226:1](wos06.htm#fr_335.md) Gesner, Hist. Anim.
 lib. v. p. 59.
 
-<span id="fn_335"></span>[227:1](wos06.htm#fr_336) Inscript. Antiq. p.
+<span id="fn_335"></span>[227:1](wos06.htm#fr_336.md) Inscript. Antiq. p.
 61, &c.
 
-<span id="fn_336"></span>[228:1](wos06.htm#fr_337) Dickinson, *Delph.
+<span id="fn_336"></span>[228:1](wos06.htm#fr_337.md) Dickinson, *Delph.
 Phœnic*.
 
-<span id="fn_337"></span>[229:1](wos06.htm#fr_338) Homer, Iliad, β. 308,
+<span id="fn_337"></span>[229:1](wos06.htm#fr_338.md) Homer, Iliad, β. 308,
 &c.
 
-<span id="fn_338"></span>[229:2](wos06.htm#fr_339) Hist. Anim. lib. xi.
+<span id="fn_338"></span>[229:2](wos06.htm#fr_339.md) Hist. Anim. lib. xi.
 2.
 
-<span id="fn_339"></span>[231:1](wos06.htm#fr_340) Lucian. *Alexander
+<span id="fn_339"></span>[231:1](wos06.htm#fr_340.md) Lucian. *Alexander
 Pseudomant*.
 
-<span id="fn_340"></span>[231:2](wos06.htm#fr_341) Spanheim, 221.
+<span id="fn_340"></span>[231:2](wos06.htm#fr_341.md) Spanheim, 221.
 
-<span id="fn_341"></span>[231:3](wos06.htm#fr_342) Alex. 665.
+<span id="fn_341"></span>[231:3](wos06.htm#fr_342.md) Alex. 665.
 
-<span id="fn_342"></span>[232:1](wos06.htm#fr_343) Bryant, Anal. i. 122.
+<span id="fn_342"></span>[232:1](wos06.htm#fr_343.md) Bryant, Anal. i. 122.
 
-<span id="fn_343"></span>[232:2](wos06.htm#fr_344) The first syllable
+<span id="fn_343"></span>[232:2](wos06.htm#fr_344.md) The first syllable
 may possibly be "*ca*" or "*ga*," illustrious. (*Faber on the Cabiri*,
 i. p. 28; who does not, however, apply any other meaning to the word
 "cabiri" than "the mighty ones.") In this case "cabiri" would be "*the
 illustrious* ABIRI."
 
-<span id="fn_344"></span>[233:1](wos06.htm#fr_345) "*Abury*, so called
+<span id="fn_344"></span>[233:1](wos06.htm#fr_345.md) "*Abury*, so called
 from being dedicated to the *Abiri*, who were *the same us the Cabiri*."
 Faber on the Cabiri, i. 210.
 
-<span id="fn_345"></span>[234:1](wos06.htm#fr_346) Faber, Pagan Idol. i.
+<span id="fn_345"></span>[234:1](wos06.htm#fr_346.md) Faber, Pagan Idol. i.
 453.
 
-<span id="fn_346"></span>[235:1](wos06.htm#fr_347) Page 221.
+<span id="fn_346"></span>[235:1](wos06.htm#fr_347.md) Page 221.
 
-<span id="fn_347"></span>[236:1](wos06.htm#fr_348) Cited by Bryant, ii.
+<span id="fn_347"></span>[236:1](wos06.htm#fr_348.md) Cited by Bryant, ii.
 214.
 
-<span id="fn_348"></span>[236:2](wos06.htm#fr_349) 383.
+<span id="fn_348"></span>[236:2](wos06.htm#fr_349.md) 383.
 
-<span id="fn_349"></span>[236:3](wos06.htm#fr_350) Bryant, Anal. ii.
+<span id="fn_349"></span>[236:3](wos06.htm#fr_350.md) Bryant, Anal. ii.
 216.
 
-<span id="fn_350"></span>[236:4](wos06.htm#fr_351) Archæol. vol. xxiii.
+<span id="fn_350"></span>[236:4](wos06.htm#fr_351.md) Archæol. vol. xxiii.
 
-<span id="fn_351"></span>[237:1](wos06.htm#fr_352) Ennii Vita, xv.
+<span id="fn_351"></span>[237:1](wos06.htm#fr_352.md) Ennii Vita, xv.
 
-<span id="fn_352"></span>[237:2](wos06.htm#fr_353) Hesychius.
+<span id="fn_352"></span>[237:2](wos06.htm#fr_353.md) Hesychius.
 
-<span id="fn_353"></span>[237:3](wos06.htm#fr_354) Salmasius, *Not.* in
+<span id="fn_353"></span>[237:3](wos06.htm#fr_354.md) Salmasius, *Not.* in
 Jul. Capitol. Hist. August. Script. 95.
 
-<span id="fn_354"></span>[237:4](wos06.htm#fr_355) See Description in
+<span id="fn_354"></span>[237:4](wos06.htm#fr_355.md) See Description in
 Ammianus Marcellinus, lib. xv.
 
-<span id="fn_355"></span>[239:1](wos06.htm#fr_356) Var. Hist. lib. ix.
+<span id="fn_355"></span>[239:1](wos06.htm#fr_356.md) Var. Hist. lib. ix.
 16.
 
-<span id="fn_356"></span>[240:1](wos06.htm#fr_357) Eleg. viii. lib. 4.
+<span id="fn_356"></span>[240:1](wos06.htm#fr_357.md) Eleg. viii. lib. 4.
 
-<span id="fn_357"></span>[240:2](wos06.htm#fr_358) Spanheim 212.
+<span id="fn_357"></span>[240:2](wos06.htm#fr_358.md) Spanheim 212.
 
-<span id="fn_358"></span>[240:3](wos06.htm#fr_359) Suppl. vol. i. 162.
+<span id="fn_358"></span>[240:3](wos06.htm#fr_359.md) Suppl. vol. i. 162.
 
-<span id="fn_359"></span>[241:1](wos06.htm#fr_360) Val. Max. lib. i. c.
+<span id="fn_359"></span>[241:1](wos06.htm#fr_360.md) Val. Max. lib. i. c.
 6.
 
-<span id="fn_360"></span>[241:2](wos06.htm#fr_361) Cicero de Divin. lib.
+<span id="fn_360"></span>[241:2](wos06.htm#fr_361.md) Cicero de Divin. lib.
 i.
 
-<span id="fn_361"></span>[242:1](wos06.htm#fr_362) Phormio, Act. iv.
+<span id="fn_361"></span>[242:1](wos06.htm#fr_362.md) Phormio, Act. iv.
 seen. 4, 24.
 
-<span id="fn_362"></span>[243:1](wos06.htm#fr_363) See Bryant on the
+<span id="fn_362"></span>[243:1](wos06.htm#fr_363.md) See Bryant on the
 Amazonians and Hyperboreans, *Anal*. vol. v. These were the same people.
 
-<span id="fn_363"></span>[243:2](wos06.htm#fr_364) Herod. lib. iv. c.
+<span id="fn_363"></span>[243:2](wos06.htm#fr_364.md) Herod. lib. iv. c.
 35.
 
-<span id="fn_364"></span>[243:3](wos06.htm#fr_365) Cabiri, i. 208.
+<span id="fn_364"></span>[243:3](wos06.htm#fr_365.md) Cabiri, i. 208.
 
-<span id="fn_365"></span>[243:4](wos06.htm#fr_366) Anal. ii. 206.
+<span id="fn_365"></span>[243:4](wos06.htm#fr_366.md) Anal. ii. 206.
 
-<span id="fn_366"></span>[244:1](wos06.htm#fr_368) Not. in Minuc. Fel.
+<span id="fn_366"></span>[244:1](wos06.htm#fr_368.md) Not. in Minuc. Fel.
 p. 267.
 
-<span id="fn_367"></span>[244:2](wos06.htm#fr_367) The story of Abaris,
+<span id="fn_367"></span>[244:2](wos06.htm#fr_367.md) The story of Abaris,
 the Hyperboreans, who made the Palladium of Troy from the bones of
 *Pelops*, is that of an *Ophite* priest. *Abaris* is probably a compound
 of AB, and AUR.
 
-<span id="fn_368"></span>[245:1](wos06.htm#fr_369) Ouzel, *ut supra*,
+<span id="fn_368"></span>[245:1](wos06.htm#fr_369.md) Ouzel, *ut supra*,
 citing Sigismund Liber. *Comment. in Muscov*.
 
-<span id="fn_369"></span>[245:2](wos06.htm#fr_370) Ouzel, *ut supra*.
+<span id="fn_369"></span>[245:2](wos06.htm#fr_370.md) Ouzel, *ut supra*.
 
-<span id="fn_370"></span>[246:1](wos06.htm#fr_371) De reb. Polon. lib.
+<span id="fn_370"></span>[246:1](wos06.htm#fr_371.md) De reb. Polon. lib.
 iii, p. 43.
 
-<span id="fn_371"></span>[247:1](wos06.htm#fr_372) De Diis German. c.
+<span id="fn_371"></span>[247:1](wos06.htm#fr_372.md) De Diis German. c.
 29.
 
-<span id="fn_372"></span>[247:2](wos06.htm#fr_373) Mosheim, Ecc. Hist.
+<span id="fn_372"></span>[247:2](wos06.htm#fr_373.md) Mosheim, Ecc. Hist.
 ii. 449.
 
-<span id="fn_373"></span>[247:3](wos06.htm#fr_374) Koch, c. 39, citing
+<span id="fn_373"></span>[247:3](wos06.htm#fr_374.md) Koch, c. 39, citing
 Trot. Arnkiel. *Cymbrische Heiden. Rel*. p. 123.
 
-<span id="fn_374"></span>[248:1](wos06.htm#fr_375) Hist. Gent.
+<span id="fn_374"></span>[248:1](wos06.htm#fr_375.md) Hist. Gent.
 Septentrion. lib. xxi. c. 48.
 
-<span id="fn_375"></span>[248:2](wos06.htm#fr_376) Cited by Koch, 39.
+<span id="fn_375"></span>[248:2](wos06.htm#fr_376.md) Cited by Koch, 39.
 
-<span id="fn_376"></span>[249:1](wos06.htm#fr_377) Perhaps *Tonder* in
+<span id="fn_376"></span>[249:1](wos06.htm#fr_377.md) Perhaps *Tonder* in
 the Duchy of Sleswick.
 
-<span id="fn_377"></span>[251:1](wos06.htm#fr_378) Page 50.
+<span id="fn_377"></span>[251:1](wos06.htm#fr_378.md) Page 50.
 
-<span id="fn_378"></span>[252:1](wos06.htm#fr_379) Milk was frequently
+<span id="fn_378"></span>[252:1](wos06.htm#fr_379.md) Milk was frequently
 offered in libations to the heathen gods <span
-id="fr_381"></span>[\*](#fn_380). Apollo had for one of his titles
+id="fr_381"></span>[\*](#fn_380.md). Apollo had for one of his titles
 *Galaxius*, "the milky." A festival called Galaxia was held to him, in
 which the votaries partook of a feast of barley pulse, boiled in milk.
 Quære--might not the Romish practice of eating frumenty in Lent have
 arisen from this custom?
 
-<span id="fn_379"></span>[252:2](wos06.htm#fr_380) Koch, citing Olaus
+<span id="fn_379"></span>[252:2](wos06.htm#fr_380.md) Koch, citing Olaus
 Magnus, lib. ii. c. 24; and Hartnochius *de reb. Pruss*.
 
-<span id="fn_380"></span>[252:\*](wos06.htm#fr_381) Potter. Arch. Græc.
+<span id="fn_380"></span>[252:\*](wos06.htm#fr_381.md) Potter. Arch. Græc.
 i. 213; and ii. 236.
 
-<span id="fn_381"></span>[253:1](wos06.htm#fr_382) Milner, Hist. of the
+<span id="fn_381"></span>[253:1](wos06.htm#fr_382.md) Milner, Hist. of the
 Church, iii. 113.
 
-<span id="fn_382"></span>[253:2](wos06.htm#fr_383) "Et penitus tote
+<span id="fn_382"></span>[253:2](wos06.htm#fr_383.md) "Et penitus tote
 divisos orbe Britannos."--*Virg*.
 
-<span id="fn_383"></span>[253:3](wos06.htm#fr_384) "Britannos hospitibus
+<span id="fn_383"></span>[253:3](wos06.htm#fr_384.md) "Britannos hospitibus
 feros."--Hor.
 
-<span id="fn_384"></span>[254:1](wos06.htm#fr_385) Davies' Mythol. of
+<span id="fn_384"></span>[254:1](wos06.htm#fr_385.md) Davies' Mythol. of
 the Druids, p. 116.
 
-<span id="fn_385"></span>[254:2](wos06.htm#fr_386) Ibid. p. 122.
+<span id="fn_385"></span>[254:2](wos06.htm#fr_386.md) Ibid. p. 122.
 
-<span id="fn_386"></span>[254:3](wos06.htm#fr_387) Ibid. p.210.
+<span id="fn_386"></span>[254:3](wos06.htm#fr_387.md) Ibid. p.210.
 
-<span id="fn_387"></span>[255:1](wos06.htm#fr_388) Cæsar. Comment. de
+<span id="fn_387"></span>[255:1](wos06.htm#fr_388.md) Cæsar. Comment. de
 Bello Gallico, lib. v. c. 17.
 
-<span id="fn_388"></span>[256:1](wos06.htm#fr_389) Owen's Dict. Art.
+<span id="fn_388"></span>[256:1](wos06.htm#fr_389.md) Owen's Dict. Art.
 *Draig*.
 
-<span id="fn_389"></span>[257:1](wos06.htm#fr_390) Ovid. Amor. lib. ii.
+<span id="fn_389"></span>[257:1](wos06.htm#fr_390.md) Ovid. Amor. lib. ii.
 Eleg. 13.
 
-<span id="fn_390"></span>[258:1](wos06.htm#fr_391) This horn, now a
+<span id="fn_390"></span>[258:1](wos06.htm#fr_391.md) This horn, now a
 drinking cup, is said to have been originally a musical instrument: but
 it will still illustrate my theory, for *horns* are supposed to have
 been used by the Scalds or Runic priests to call together the
 congregation to sacrifice. Such horns would probably bear upon them
 devices appertaining to their religion. Horns were sometimes used for
 both purposes, being furnished with a cap, and so convertible into
-drinking cups <span id="fr_392"></span>[\*](#fn_391). The "golden horns
+drinking cups <span id="fr_392"></span>[\*](#fn_391.md). The "golden horns
 which contained the drink offerings" above described, might thus have
 been used also as sacrificial trumpets.
 
-<span id="fn_391"></span>[258:\*](wos06.htm#fr_392) Pegge on Charter
+<span id="fn_391"></span>[258:\*](wos06.htm#fr_392.md) Pegge on Charter
 Horns. Archæol. v. 3.
 
-<span id="fn_392"></span>[259:1](wos06.htm#fr_393) The scene of these
+<span id="fn_392"></span>[259:1](wos06.htm#fr_393.md) The scene of these
 rites might have been STONEHENGE, which is said by tradition to have
 been erected in honour of Uther Pendragon. The only difficulty in this
 conjecture is the mention of "lakes" near the temple. But an attentive
@@ -2870,84 +2870,84 @@ on the disputed question--"whence, and how came these stones to
 Stonehenge?" I believe that they came from the valley of the Grey
 Wethers, near Abury.
 
-<span id="fn_393"></span>[260:1](wos06.htm#fr_394) Davies' Myth. of the
+<span id="fn_393"></span>[260:1](wos06.htm#fr_394.md) Davies' Myth. of the
 Brit. Druids, Appendix, No. 11.
 
-<span id="fn_394"></span>[261:1](wos06.htm#fr_395) Thoresby's
+<span id="fn_394"></span>[261:1](wos06.htm#fr_395.md) Thoresby's
 Correspondence, i. 413.
 
-<span id="fn_395"></span>[263:1](wos06.htm#fr_396) Borlase, Antiq. of
+<span id="fn_395"></span>[263:1](wos06.htm#fr_396.md) Borlase, Antiq. of
 Cornwall, 137.
 
-<span id="fn_396"></span>[263:2](wos06.htm#fr_397) Davies' Myth. of
+<span id="fn_396"></span>[263:2](wos06.htm#fr_397.md) Davies' Myth. of
 Druids, 211.
 
-<span id="fn_397"></span>[264:1](wos06.htm#fr_398) Morton, Nat. Hist. of
+<span id="fn_397"></span>[264:1](wos06.htm#fr_398.md) Morton, Nat. Hist. of
 North. c. x.
 
-<span id="fn_398"></span>[265:1](wos06.htm#fr_399) Gesner. Hist. Anim.
+<span id="fn_398"></span>[265:1](wos06.htm#fr_399.md) Gesner. Hist. Anim.
 lib. iii. p. 85.
 
-<span id="fn_399"></span>[265:2](wos06.htm#fr_400) Hist. Gent. Septent.
+<span id="fn_399"></span>[265:2](wos06.htm#fr_400.md) Hist. Gent. Septent.
 lib. xxi. c. 48.
 
-<span id="fn_400"></span>[265:3](wos06.htm#fr_401) See Ohms Wormius, *de
+<span id="fn_400"></span>[265:3](wos06.htm#fr_401.md) See Ohms Wormius, *de
 Mon. Danor*.
 
-<span id="fn_401"></span>[268:1](wos06.htm#fr_402) Pinkerton, Lit.
+<span id="fn_401"></span>[268:1](wos06.htm#fr_402.md) Pinkerton, Lit.
 Corresp. ii. 426.
 
-<span id="fn_402"></span>[270:1](wos06.htm#fr_403) Du Fresne.
+<span id="fn_402"></span>[270:1](wos06.htm#fr_403.md) Du Fresne.
 
-<span id="fn_403"></span>[271:1](wos06.htm#fr_404) Vallancey, Collect.
+<span id="fn_403"></span>[271:1](wos06.htm#fr_404.md) Vallancey, Collect.
 de reb. Hibern. vol. ii. 174.
 
-<span id="fn_404"></span>[272:1](wos06.htm#fr_405) See *infra*,
+<span id="fn_404"></span>[272:1](wos06.htm#fr_405.md) See *infra*,
 "Britany."
 
-<span id="fn_405"></span>[273:1](wos06.htm#fr_406) Vossius in Cæsar.
+<span id="fn_405"></span>[273:1](wos06.htm#fr_406.md) Vossius in Cæsar.
 Comment. lib. vi. p. 223.
 
-<span id="fn_406"></span>[273:2](wos06.htm#fr_407) Faber, Pagan Idol.
+<span id="fn_406"></span>[273:2](wos06.htm#fr_407.md) Faber, Pagan Idol.
 ii. 362.
 
-<span id="fn_407"></span>[273:3](wos06.htm#fr_408) Ibid. 365.
+<span id="fn_407"></span>[273:3](wos06.htm#fr_408.md) Ibid. 365.
 
-<span id="fn_408"></span>[274:1](wos06.htm#fr_409) Gen. iii. 17, 18.
+<span id="fn_408"></span>[274:1](wos06.htm#fr_409.md) Gen. iii. 17, 18.
 
-<span id="fn_409"></span>[275:1](wos06.htm#fr_410) De Bello Gall. lib.
+<span id="fn_409"></span>[275:1](wos06.htm#fr_410.md) De Bello Gall. lib.
 vi. s. 16.
 
-<span id="fn_410"></span>[276:1](wos06.htm#fr_411) Cradock's Literary
+<span id="fn_410"></span>[276:1](wos06.htm#fr_411.md) Cradock's Literary
 Memoirs, ii. 163. The Ophite hierogram also has been recognized in Gaul.
 A sculpture of the *circle*, *wings*, and *two serpents*, exhibiting a
 Medusa's face, was found by Simeoni in the sixteenth century, at
 Clermont, in Auvergne.--*Marcel, Hist. des Gaules*.
 
-<span id="fn_411"></span>[276:2](wos06.htm#fr_412) Suppl. to vol. ii.
+<span id="fn_411"></span>[276:2](wos06.htm#fr_412.md) Suppl. to vol. ii.
 249.
 
-<span id="fn_412"></span>[278:1](wos06.htm#fr_413) Comm. lib. vi. s.
+<span id="fn_412"></span>[278:1](wos06.htm#fr_413.md) Comm. lib. vi. s.
 xiv. p. 219.
 
-<span id="fn_413"></span>[278:2](wos06.htm#fr_414) Lib. vi, p. 218.
+<span id="fn_413"></span>[278:2](wos06.htm#fr_414.md) Lib. vi, p. 218.
 
-<span id="fn_414"></span>[279:1](wos06.htm#fr_415) Persius, Sat. i. i
+<span id="fn_414"></span>[279:1](wos06.htm#fr_415.md) Persius, Sat. i. i
 13.
 
-<span id="fn_415"></span>[280:1](wos06.htm#fr_416) *Gwiber Draig*; i.e.
+<span id="fn_415"></span>[280:1](wos06.htm#fr_416.md) *Gwiber Draig*; i.e.
 *serpent-dragon*.
 
-<span id="fn_416"></span>[282:1](wos06.htm#fr_417) See Penhouët Archéol.
+<span id="fn_416"></span>[282:1](wos06.htm#fr_417.md) See Penhouët Archéol.
 Armoric. *passim*.
 
-<span id="fn_417"></span>[285:1](wos06.htm#fr_418) Arch. Armoric.
+<span id="fn_417"></span>[285:1](wos06.htm#fr_418.md) Arch. Armoric.
 
-<span id="fn_418"></span>[289:1](wos06.htm#fr_419) For a description of
+<span id="fn_418"></span>[289:1](wos06.htm#fr_419.md) For a description of
 the sacrificial altar of the temple of Carnac, and for proofs of the
 barbarous custom of human sacrifices in Britany, I beg to refer the
 reader to my paper on Dracontia, in the 25th vol. of the Archæologia.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Serpent-Worship in America](wos07)
+[Next: Chapter IV. Serpent-Worship in America](wos07.md)

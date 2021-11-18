@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi188)  [Next](mtsi190) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi188)  [Next](mtsi190.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ be red.
 
 ------------------------------------------------------------------------
 
-[Next: 54. Rabbit And Big Man-eater](mtsi190)
+[Next: 54. Rabbit And Big Man-eater](mtsi190.md)

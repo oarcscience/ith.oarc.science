@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly58)  [Next](lly60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly58)  [Next](lly60.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ husband.
 
 ------------------------------------------------------------------------
 
-[Next: Children](lly60)
+[Next: Children](lly60.md)

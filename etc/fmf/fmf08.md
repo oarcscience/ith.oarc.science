@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf07)  [Next](fmf09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf07)  [Next](fmf09.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ MORAL: Only One in a Thousand ever strikes the Happy Medium.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Bureau of Public Comfort and The Man in
-Charge](fmf09)
+Charge](fmf09.md)

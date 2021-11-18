@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre12)  [Next](gre14) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre12)  [Next](gre14.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ father of Ellida-Grim, the father of Asgrim Ellida-Grimson.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](gre14)
+[Next: Chapter IX](gre14.md)

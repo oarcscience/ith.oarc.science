@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos11)  [Next](pos13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos11)  [Next](pos13.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ emancipated my heart from all dependence on the Āsavas.' Thus resolving,
 she incited her intellectual grasp, and gradually clarifying insight as
 she progressed along the Paths, she attained Arahantship, together with
 the power of intuition and thorough grasp of the Norm. Thus
-contemplating nineteen subjects [<sup>289</sup>](pos12.htm#95-1) in
+contemplating nineteen subjects [<sup>289</sup>](pos12.htm#95-1.md) in
 succession, with the consciousness that 'Now have I done what herein I
 had to do,' she uttered in her happiness the verses given above, and
 stretched her limbs. And when the dawn arose, and night brightened into
@@ -73,8 +73,8 @@ day, she sought the Therī's presence, and repeated her verses.
 
 <span id="94-1"></span>
 
-> <sup>287</sup> See [Ps. xlvii.](pos10.htm#XLVII),
-> [xlviii.](pos10.htm#XLVIII)
+> <sup>287</sup> See [Ps. xlvii.](pos10.htm#XLVII.md),
+> [xlviii.](pos10.htm#XLVIII.md)
 
 <span id="94-2"></span>
 
@@ -93,9 +93,9 @@ day, she sought the Therī's presence, and repeated her verses.
 She, too, having made her resolve under former Buddhas, and heaping up
 good of age-enduring efficacy in subsequent rebirths, was, in this
 Buddha-era, reborn in Magadha, at the village of Nālaka,
-[<sup>290</sup>](pos12.htm#96-1) the child of Surūpasārī, the Brahminee.
+[<sup>290</sup>](pos12.htm#96-1.md) the child of Surūpasārī, the Brahminee.
 And on her name-giving day they called her Cālā.
-[<sup>291</sup>](pos12.htm#96-2) Her younger sister was Upacālā, and the
+[<sup>291</sup>](pos12.htm#96-2.md) Her younger sister was Upacālā, and the
 youngest Sīsūpacālā, and all three were junior to their brother
 Sāriputta, Captain of the Norm. Now, when the three heard that their
 brother had left the world for the Order, they said: 'This can be no
@@ -175,7 +175,7 @@ Here, O Destroyer! shalt thou not prevail. (188)</p></td>
 > <sup>291</sup> These three Sisters are all included in the
 > Bhikkhunī-Saŋyutta as having been tempted by Māra; but there Cālā's
 > reply is put into Sīsupacālā's mouth, Upacālā's is given to Cālā, and
-> Sīsupacālā's is given to Upacālā. See [Appendix](pos22.htm#APPENDIX).
+> Sīsupacālā's is given to Upacālā. See [Appendix](pos22.htm#APPENDIX.md).
 
 <span id="97-1"></span>
 
@@ -192,12 +192,12 @@ Here, O Destroyer! shalt thou not prevail. (188)</p></td>
 
 <span id="98-1"></span>
 
-> <sup>294</sup> *Cf.* [Ps. xxiv.](pos07.htm#XXIV)
+> <sup>294</sup> *Cf.* [Ps. xxiv.](pos07.htm#XXIV.md)
 
 <span id="98-2"></span>
 
-> <sup>295</sup> *Cf.* [Pss. xxxv.](pos08.htm#XXXV),
-> [xxxvi.](pos08.htm#XXXVI)
+> <sup>295</sup> *Cf.* [Pss. xxxv.](pos08.htm#XXXV.md),
+> [xxxvi.](pos08.htm#XXXVI.md)
 
 ------------------------------------------------------------------------
 
@@ -255,12 +255,12 @@ Here, O Destroyer! may'st thou not prevail. (195)</span></p></td>
 
 <span id="98-3"></span>
 
-> <sup>296</sup> *Cf.* [Appendix](pos22.htm#APPENDIX), where this is
+> <sup>296</sup> *Cf.* [Appendix](pos22.htm#APPENDIX.md), where this is
 > spoken to Cālā.
 
 <span id="98-4"></span>
 
-> <sup>297</sup> =[Ps. xxxv.](pos08.htm#XXXV)
+> <sup>297</sup> =[Ps. xxxv.](pos08.htm#XXXV.md)
 
 <span id="99-1"></span>
 
@@ -270,4 +270,4 @@ Here, O Destroyer! may'st thou not prevail. (195)</span></p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto VIII. Psalms of Eight Verses](pos13)
+[Next: Canto VIII. Psalms of Eight Verses](pos13.md)

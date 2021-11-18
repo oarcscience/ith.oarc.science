@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth25)  [Next](doth27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth25)  [Next](doth27.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -28,6 +28,6 @@ banishes pride; and this is humility.
 
 ------------------------------------------------------------------------
 
-[Next: Humility, True and False](doth27)
+[Next: Humility, True and False](doth27.md)
 
 </div>

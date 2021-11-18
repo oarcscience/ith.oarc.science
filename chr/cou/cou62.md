@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](cou61)  [Next](cou63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](cou61)  [Next](cou63.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cloud of Unknowing*, ed. by Evelyn Underhill, \[1922\], at
 Intangible Textual Heritage
 
@@ -73,4 +73,4 @@ id="page_257">p. 257</span> <span id="an_lxiii-Page_257"></span>
 
 [Next: Chapter 58: That a man shall not take ensample of Saint Martin
 and of Saint Stephen, for to strain his imagination bodily upwards in
-the time of his prayer](cou63)
+the time of his prayer](cou63.md)

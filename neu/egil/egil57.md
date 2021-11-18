@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil56)  [Next](egil58) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil56)  [Next](egil58.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ them went Egil.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LVII. Suit between Egil and Onund.](egil58)
+[Next: CHAPTER LVII. Suit between Egil and Onund.](egil58.md)

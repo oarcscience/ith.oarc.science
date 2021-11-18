@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm20)  [Next](rrm22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm20)  [Next](rrm22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
 <span id="img_15600"></span>
 
 [![Fig. 24-30](tn/15600.jpg)  
-Click to enlarge](img/15600.jpg)  
+Click to enlarge](img/15600.jpg.md)  
 Fig. 24-30  
 
 ### CHAPTER THE SEVENTEENTH
@@ -38,7 +38,7 @@ Gnostics and their Remains*, p. 72.
 <span id="img_15700"></span>
 
 [![Fig. 31](tn/15700.jpg)  
-Click to enlarge](img/15700.jpg)  
+Click to enlarge](img/15700.jpg.md)  
 Fig. 31  
 
 The famous 'Stone of Cabar', Kaaba, Cabir, or Kebir, at Mecca, which is
@@ -139,7 +139,7 @@ the emblem of
 the Moon-god; and it is perpetuated in that mystically magnificent badge
 of France, the female 'Lily', or 'Lis'. All the proofs of this lie
 concealed in our Genealogy of the Fleur-de-Lis ([p.
-47](rrm12.htm#page_47) and following pages, also *post*), and the
+47](rrm12.htm#page_47) and following pages, also *post*.md), and the
 'Flowers-de-Luce', or the 'Fleurs-de-Lis', *passim*. It means
 'generation', or the vaunt realized of the Turkish Soldan, '*Donec totum
 impleat orbem*'. The 'Prince of Wales’s Feathers', we believe to be, and
@@ -177,4 +177,4 @@ figures *post*), for all the phenomena of the world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII: Prismatic Investiture of the Microcosm](rrm22)
+[Next: Chapter XVIII: Prismatic Investiture of the Microcosm](rrm22.md)

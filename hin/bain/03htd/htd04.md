@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd03)  [Next](htd05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd03)  [Next](htd05.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ wandered on the steps that went down into the pool, in which all the
 lotuses were preparing to welcome their lover, as he rose from behind
 the eastern mountain. And as he looked through the trees, suddenly he
 saw coming towards him with twinkling feet along the edge of the pool, a
-*chétí* <span id="fr_14"></span>[a](#fn_14), resembling an incarnation
+*chétí* <span id="fr_14"></span>[a](#fn_14.md), resembling an incarnation
 of the night of new moon, for like it, she was clothed in dark blue, and
 she carried in her hand a mango blossom, as it carries the digit
 
@@ -74,7 +74,7 @@ thine is the folly. Dost thou accuse me of folly, in bewailing the fall
 of a leaf, who forsakest life for the death of a woman, a thing in all
 respects exactly the same? For what is the death of a mortal woman, but
 the fall of a leaf from the tree of humanity <span
-id="fr_15"></span>[b](#fn_15)? And what, O King, is thy folly, in
+id="fr_15"></span>[b](#fn_15.md)? And what, O King, is thy folly, in
 forsaking all, for the sake of the fickleness of a woman? Are not women
 by nature more fickle than the very leaves of the bamboo? And wilt thou
 plunge into the sea of infinite sorrow, because, after its kind, the
@@ -102,16 +102,16 @@ mourn through the day, till the coming of night.
 
 ### Footnotes
 
-<span id="fn_14"></span>[13:a](htd04.htm#fr_14) In all Hindoo love
+<span id="fn_14"></span>[13:a](htd04.htm#fr_14.md) In all Hindoo love
 stories, the *chétí* or *sakhí*, a hand-maiden, or female confidante, is
 a *sine quâ non*. All messages, all business, and even all conversation,
 is transacted through her, for the heroine never even speaks for
 herself, but requires a mouthpiece: being prevented from speaking by
 bashfulness, timidity, custom, and her own agitation.
 
-<span id="fn_15"></span>[16:b](htd04.htm#fr_15) οἵν περ φύλλων γενέη,
+<span id="fn_15"></span>[16:b](htd04.htm#fr_15.md) οἵν περ φύλλων γενέη,
 τοίηδε καὶ ἄνδρων.
 
 ------------------------------------------------------------------------
 
-[Next: Pátalí](htd05)
+[Next: Pátalí](htd05.md)

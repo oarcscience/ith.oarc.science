@@ -5,8 +5,8 @@ title: "Sikh Texts"
 <span class="p-small2"> </span>
 
   
-[OCRT: Sikhism](https://www.religioustolerance.org/sikhism)  
-[Hinduism](../hin/index)  [Islam](../isl/index)  
+[OCRT: Sikhism](https://www.religioustolerance.org/sikhism.md)  
+[Hinduism](../hin/index)  [Islam](../isl/index.md)  
 
 ------------------------------------------------------------------------
 
@@ -17,19 +17,19 @@ title: "Sikh Texts"
 ------------------------------------------------------------------------
 
 <span class="c_e"> <span class="c_t">[The Sikh Religion, Volume
-1](tsr1/index)</span>  
+1](tsr1/index.md)</span>  
 <span class="p-small2"> by <span class="c_a">Max Arthur
 MacAuliffe</span> \[<span class="c_d">1909</span>\]   <span
 class="c_b">Detailed information on the historical and philosophical
 background of Sikhism.</span> </span> </span>
 
 <span class="c_e"> <span class="c_t">[The Religion of the
-Sikhs](rosi/index)</span>   by <span class="c_a">Dorothy Field</span>
+Sikhs](rosi/index.md)</span>   by <span class="c_a">Dorothy Field</span>
 \[<span class="c_d">1914</span>\]   <span class="c_b">A short guide to
 the Sikh religion.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Shri Guru Granth
-Sahib](granth/index)</span>   <span class="c_b">The sacred text of the
+Sahib](granth/index.md)</span>   <span class="c_b">The sacred text of the
 Sikhs</span> </span>
 
 <span class="p-small2"> </span>

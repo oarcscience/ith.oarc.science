@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl14)  [Next](hhl16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl14)  [Next](hhl16.md) 
 
 ------------------------------------------------------------------------
 
@@ -384,4 +384,4 @@ islands.
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Ivory of Oahu](hhl16)
+[Next: XII. The Ivory of Oahu](hhl16.md)

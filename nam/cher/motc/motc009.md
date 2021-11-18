@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc008) 
-[Next](motc010) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc008.md) 
+[Next](motc010.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ they were stars.
 
 ------------------------------------------------------------------------
 
-[Next: 10. Origin Of The Pleiades And The Pine](motc010)
+[Next: 10. Origin Of The Pleiades And The Pine](motc010.md)

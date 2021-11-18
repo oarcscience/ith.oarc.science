@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb25)  [Next](gyfb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb25)  [Next](gyfb27.md) 
 
 </div>
 
@@ -184,6 +184,6 @@ content.
 
 ------------------------------------------------------------------------
 
-[Next: The Daughter of Buk Ettemsuch](gyfb27)
+[Next: The Daughter of Buk Ettemsuch](gyfb27.md)
 
 </div>

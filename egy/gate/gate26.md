@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate25)  [Next](gate27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate25)  [Next](gate27.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ The monster serpent which
  
 
 <span id="img_26000"></span> [![](tn/generic.jpg)  
-Click to view](img/26000.jpg)  
+Click to view](img/26000.jpg.md)  
 The Boat of Af-Ra in the Tenth Division of the Tuat.
 
  
@@ -49,7 +49,7 @@ into the hidden abode.' This gate closeth after the great god hath
  
 
 <span id="img_26100"></span> [![](tn/generic.jpg)  
-Click to view](img/26100.jpg)  
+Click to view](img/26100.jpg.md)  
 The Gate of the Serpent Sethu.
 
  
@@ -148,7 +148,7 @@ Of the winged serpent SEMI it is said:--
  
 
 <span id="img_26600"></span> [![](tn/generic.jpg)  
-Click to view](img/26600.jpg)  
+Click to view](img/26600.jpg.md)  
 Gods of Light and Fire.     Star-gods.     Face of the Disk.     Semi.
 
  
@@ -182,7 +182,7 @@ of heaven! Hail, come thou into being, O Ra!
  
 
 <span id="img_26700"></span> [![](tn/generic.jpg)  
-Click to view](img/26700.jpg)  
+Click to view](img/26700.jpg.md)  
 Besi.     Ankhi.     The goddesses who hail the god.     Mehen and
 Horus-Set.
 
@@ -210,7 +210,7 @@ head; they are armed with weapons similar to those of the ANTIU gods.
  
 
 <span id="img_26800"></span> [![](tn/generic.jpg)  
-Click to view](img/26800.jpg)  
+Click to view](img/26800.jpg.md)  
 The Antiu and Henatiu Gods attacking Apep.
 
  
@@ -244,7 +244,7 @@ White Crown and the *menat*, and holding the sceptre in his two hands.
  
 
 <span id="img_27100"></span> [![](tn/generic.jpg)  
-Click to view](img/27100.jpg)  
+Click to view](img/27100.jpg.md)  
 The Setefiu and other gods holding Apep in restraint.
 
  
@@ -272,7 +272,7 @@ towards the region
  
 
 <span id="img_27200"></span> [![](tn/generic.jpg)  
-Click to view](img/27200.jpg)  
+Click to view](img/27200.jpg.md)  
 Seb and the Children of Horus holding Apep and his sons in restraint.
 
  
@@ -328,7 +328,7 @@ sceptre.
  
 
 <span id="img_27400"></span> [![](tn/generic.jpg)  
-Click to view](img/27400.jpg)  
+Click to view](img/27400.jpg.md)  
 The Twelve Akhemu-Seku Gods with their Paddles.
 
  
@@ -380,7 +380,7 @@ and years for him who is among you.'"
  
 
 <span id="img_27700"></span> [![](tn/generic.jpg)  
-Click to view](img/27700.jpg)  
+Click to view](img/27700.jpg.md)  
 The Twelve Goddesses of the Hours.
 
  
@@ -408,7 +408,7 @@ Rameses VI. M. Lefébure adds the two
  
 
 <span id="img_27800"></span> [![](tn/generic.jpg)  
-Click to view](img/27800.jpg)  
+Click to view](img/27800.jpg.md)  
 (*Left to Right*) Banti. Seshsha. Ka-Amenti. Renen-sbau. Neter-Rethen.
 Eye of Ra. Her-nest-f.
 
@@ -425,4 +425,4 @@ position, and doth not go on his way with Ra."
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. The Gate Of Am-netu-f. The Eleventh Division of the
-Tuat.](gate27)
+Tuat.](gate27.md)

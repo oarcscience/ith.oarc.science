@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb29)  [Next](vifb31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb29)  [Next](vifb31.md) 
 
 </div>
 
@@ -350,6 +350,6 @@ badly.
 
 ------------------------------------------------------------------------
 
-[Next: The Frog](vifb31)
+[Next: The Frog](vifb31.md)
 
 </div>

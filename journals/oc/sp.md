@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Judaica
-Articles](../../jud/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Judaica
+Articles](../../jud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ that the barometer shows Gerizim to be but 2848 feet above the sea,
 while despised Ebal, directly opposite, is 3076. It is the oldest of
 mountains, too; and the Eternal Mountain. For it the Samaritans have
 twice seven holy names,<span
-id="page_197_fr_*"></span>[\*](#page_197_note_*) and with it they
+id="page_197_fr_*"></span>[\*](#page_197_note_*.md) and with it they
 connect the sacrifice of Isaac, the erection of the Altar and the Law,
 and almost every sacred rite from the beginning of Hebrew history to the
 present time. Jerusalem is to them a modern innovation, and <span
@@ -183,7 +183,7 @@ the camp, where each of the forty tents was smeared with the blood. The
 photograph shows the blood on the door posts; it was smeared also on the
 lintel. A bunch of hyssop was used in this service, and the whole
 proceeding was as commanded in [Exodus xii.
-22](../../bib/kjv/exo.htm#12:22): "And ye shall take a bunch of hyssop,
+22](../../bib/kjv/exo.htm#12:22.md): "And ye shall take a bunch of hyssop,
 and dip it in the blood that is in the bason, and strike the lintel and
 the two side posts with the blood that is in the bason."
 
@@ -191,7 +191,7 @@ the two side posts with the blood that is in the bason."
 killed. Not one of them made a sound. They were led as lambs to the
 slaughter, and they opened not their mouth. The Samaritans do not
 recognize the Hebrew prophets, but the visitor was forcibly reminded of
-[Isaiah liii. 7](../../bib/kjv/isa.htm#53:7): "He was oppressed, and he
+[Isaiah liii. 7](../../bib/kjv/isa.htm#53:7.md): "He was oppressed, and he
 was afflicted, yet he opened not his mouth: he is brought as a lamb to
 the slaughter, and as a sheep before her shearers is dumb, so he openeth
 not his mouth."
@@ -216,7 +216,7 @@ were 87 men and boys at this service. In the earlier service Dr. Wright
 was able to count only 70. All the boys over 4 years of age were
 present, and apparently every man except Shafek, the eldest son of the
 High Priest, who was ill, and who remained in his tent, where Dr. Wright
-gave him medicine.<span id="page_202_fr_*"></span>[\*](#page_202_note_*)
+gave him medicine.<span id="page_202_fr_*"></span>[\*](#page_202_note_*.md)
 
 <span id="page_203">p. 203</span>
 
@@ -467,7 +467,7 @@ much that time has effaced and left for conjecture.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Judaica Articles](../../jud/etc/index)
+[Journals](../index) [Judaica Articles](../../jud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -475,22 +475,22 @@ much that time has effaced and left for conjecture.
 
 <span id="footnotes_page_197">p. 197</span>
 
-<span id="page_197_note_*"></span>[\*](#page_197_fr_*) The names are: 1.
+<span id="page_197_note_*"></span>[\*](#page_197_fr_*.md) The names are: 1.
 The Ancient Mountain. 2. Beth-El = The House of the Almighty. 3.
 Beth-Elohim = The House of Angels. 4. The Gate of Heaven ([Gen. xxviii.
-17](../../bib/kjv/gen.htm#28:17)). 5. Luzah = "To God is this place"
-([Gen. xxviii. 19](../../bib/kjv/gen.htm#28:19)). 6. Sanctuary. 7. The
+17](../../bib/kjv/gen.htm#28:17).md). 5. Luzah = "To God is this place"
+([Gen. xxviii. 19](../../bib/kjv/gen.htm#28:19).md). 6. Sanctuary. 7. The
 Mount of Blessing. 8. Beth-YHWH ([Ex. xxiii.
-19](../../bib/kjv/exo.htm#23:19)). 9. The Beautiful Mountain ([Deut.
-iii. 25](../../bib/kjv/deu.htm#3:25)). 10. The Chosen Place. 11. The
+19](../../bib/kjv/exo.htm#23:19).md). 9. The Beautiful Mountain ([Deut.
+iii. 25](../../bib/kjv/deu.htm#3:25).md). 10. The Chosen Place. 11. The
 Highest in the World. 12. The First of Mountains. 13. God is seen ([Gen.
-xxii. 14](../../bib/kjv/gen.htm#22:14)). 14. The Mountain of the
+xxii. 14](../../bib/kjv/gen.htm#22:14).md). 14. The Mountain of the
 Inheritance of the Shekinah. See article in the *Bibliotheca Sacra* for
 July, 1907.
 
 <span id="footnotes_page_202">p. 202</span>
 
-<span id="page_202_note_*"></span>[\*](#page_202_fr_*) A letter from the
+<span id="page_202_note_*"></span>[\*](#page_202_fr_*.md) A letter from the
 High Priest, dated Dec. 12, 1907, confirmed the news which had already
 come to me of the death of this son, whom I knew personally through
 purchases made from him in his home, and by manuscripts in his

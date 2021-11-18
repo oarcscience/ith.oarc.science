@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm15) 
-[Next](cdm17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm15.md) 
+[Next](cdm17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Dragon Myth*, by J.F. Campbell, \[1911\], at Intangible
 Textual Heritage
 
@@ -19,17 +19,17 @@ Textual Heritage
 
 <span id="page_149">p. 149</span>
 
-### NA TRÌ RATHAIDEAN MÓRA <span id="fr_90"></span>[1](#fn_89)
+### NA TRÌ RATHAIDEAN MÓRA <span id="fr_90"></span>[1](#fn_89.md)
 
 Bha duine bochd ann roimhe so agus bha trì gillean aige. Smaointich iad
-gum <span id="fr_91"></span>[2](#fn_90) fàgadh iad an athair agus gum
+gum <span id="fr_91"></span>[2](#fn_90.md) fàgadh iad an athair agus gum
 falbhadh iad a dh’iarraidh an fhortain. Dh’fhalbh an triùir comhla air
 an aon rathad mhór. Bha iad a’ falbh gos an d’thainig iad gu rathad mór
 a bha sgaoileadh ’na thrì miaran. Thuirt iad ri cheile an uair a
 chunnaic iad na trì rathaidean móra gon gabhadh gach fear aca rathad
 rathad mór air leth.
 
-Ghabh am fear a bu <span id="fr_92"></span>[3](#fn_91) shine an rathad a
+Ghabh am fear a bu <span id="fr_92"></span>[3](#fn_91.md) shine an rathad a
 bha dol an ear, ’s ghabh am fear miadhonach an rathad a bha dol an iar,
 agus ghabh am fear òg an rathad miadhon. Air dha’n fhear a b’òige ’bhith
 treis air falbh choinnich leomhann is calman is radan e, ’s iad a’
@@ -45,7 +45,7 @@ leomhann agus thuirt e ris, "Na bi ann an càs a choidhch nach cuimhnich
 thu ormsa." Thuirt an radan ris: "De’m beachd a th’agad orm-sa ’bhith
 ’na leithid so do dh’àite?" "Chan eil beachd agam fhìn," ars’ esan, "ach
 gor h-ann a bu choir duit a bhith a’ cruinneachadh còs <span
-id="fr_93"></span>[1](#fn_92) an los e ’bhith agad a’ feitheamh air a’
+id="fr_93"></span>[1](#fn_92.md) an los e ’bhith agad a’ feitheamh air a’
 gheamhradh." Chòrd so ris an radan agus thuirt e ris, "Na bi ann an càs
 a choidhch nach cuimhnich thu orm-sa."
 
@@ -55,8 +55,8 @@ duit a bhith feadh gheugan is bhruthaichean is chreag," ars’ esan. Chòrd
 so ris a’ chalman ’s thuirt e ris: "Na bi ann an càs a choidhch nach
 cuimhnich thu orm-sa."
 
-Dh’fhalbh e, ’s bha e a’ falbh gun <span id="fr_94"></span>[2](#fn_93)
-tamh gun fhois gu <span id="fr_95"></span>[3](#fn_94) bial na h-oidhche;
+Dh’fhalbh e, ’s bha e a’ falbh gun <span id="fr_94"></span>[2](#fn_93.md)
+tamh gun fhois gu <span id="fr_95"></span>[3](#fn_94.md) bial na h-oidhche;
 ’s am bial na h-oidhche choinnich caisteal mór ris. Chaidh e stigh do’n
 chaisteal. Cha robh duin’ a stigh ’sa chidsin an sin ach aona
 chòcaire—seana chòcaire mór—agus ’s e’n còcaire mór a’ theireadh iad
@@ -114,10 +114,10 @@ e a’ toirt ’a ionnsuidh chionn gun robh e smaointeachadh nam biodh i
 aige gun rachadh am blàr leis.
 
 De ’rinn na gillean ach falbh ’s a h-uile h-aon riamh dhiubh ruisgte gun
-traoidht <span id="fr_96"></span>[1](#fn_95) umpa. Dh’fhalbh an còcaire
+traoidht <span id="fr_96"></span>[1](#fn_95.md) umpa. Dh’fhalbh an còcaire
 beag ’na chalman ’s ràinig e’n tigh rompa ’s dh’innis e do nighean an
 rìgh mar a bha ’m blàr a’ dol. Thug e leis an deise chruadhach. An uair
-a bha àdsan <span id="fr_97"></span>[2](#fn_96) gos a bhith dhachaidh,
+a bha àdsan <span id="fr_97"></span>[2](#fn_96.md) gos a bhith dhachaidh,
 de bha esan ach an deise chruadhach leis.
 
 Thug e’n deise chruadhach thun an righ; agus de bha’m blàr ach a’ dol
@@ -129,17 +129,17 @@ e’m blàr leis an rìgh.
 <span id="page_153">p. 153</span>
 
 An uair a chaidh am blàr leis an righ de ’bha ach an còcaire mór a’ ràdh
-gur <span id="fr_98"></span>[1](#fn_97) h-e fhìn <span
-id="fr_99"></span>[2](#fn_98) a chuir am blàr. De bha’n oidhche sin ach
+gur <span id="fr_98"></span>[1](#fn_97.md) h-e fhìn <span
+id="fr_99"></span>[2](#fn_98.md) a chuir am blàr. De bha’n oidhche sin ach
 reite gu bhith aig nighean an righ ’s aig a chòcaire mhór. Chruinnich a
-h-uile duine ’s an rìgheachd <span id="fr_100"></span>[3](#fn_99) thun
+h-uile duine ’s an rìgheachd <span id="fr_100"></span>[3](#fn_99.md) thun
 na reite.
 
 Mu’n do thòisich an reite de dh’ iarr an righ orr’ ach dol a
-dhianamh <span id="fr_101"></span>[4](#fn_100) chleasan.
+dhianamh <span id="fr_101"></span>[4](#fn_100.md) chleasan.
 
 "Gad a theannainn fhìn ri dol a dhianamh chleasan chan eil fhios
-’am <span id="fr_102"></span>[5](#fn_101) nach gabhadh sibh eagal," ars
+’am <span id="fr_102"></span>[5](#fn_101.md) nach gabhadh sibh eagal," ars
 an còcaire beag.
 
 Bha làn an tighe stighe de mhnathan uaisle ’s de dhaoin uaisle aig an
@@ -149,7 +149,7 @@ Dh’fhalbh e’n uair sin agus de a smaointich e ach a bhith ’na radan, ’s
 chaidh e ’na radan. … Smaointich e sin air a bhith ’na chalman ’s chaidh
 e ’na chalman; is thòisich e le bun a sgeith ris an t-solusd ’s ri bhith
 cur as an t-soluisd. Thòisich na mnathan uaisle ri ceol ’s ri spòrs a
-ghabhail daibh fhìn <span id="fr_103"></span>[6](#fn_102) an uair a
+ghabhail daibh fhìn <span id="fr_103"></span>[6](#fn_102.md) an uair a
 chunnaic iad duin’ a’ dol ’na chalman ’s ’na radan. Chaidh esan an sin
 ’na leòmhann feadh an tighe, a’ fosgladh a bhial airson a h-uile duin’
 itheadh; ’s ma bha spòrs is ceòl aig na mnathan uaisle roimhid bha iad a
@@ -171,40 +171,40 @@ duin’ a’ fochaid air; is phòs an còcaire beag agus nighean an rìgh.
 
 ### Footnotes
 
-<span id="fn_89"></span>[149:1](cdm16.htm#fr_90) From Margaret
+<span id="fn_89"></span>[149:1](cdm16.htm#fr_90.md) From Margaret
 Mackinnon, Berneray, who learnt it from John Morrison, Rusgary,
 Berneray, now a tenant in North Uist. August, 1859.
 
-<span id="fn_90"></span>[149:2](cdm16.htm#fr_91) eud gom. The pronoun
+<span id="fn_90"></span>[149:2](cdm16.htm#fr_91.md) eud gom. The pronoun
 3rd pl. is *eud*, *ead* throughout.
 
-<span id="fn_91"></span>[149:3](cdm16.htm#fr_92) MS. bo.
+<span id="fn_91"></span>[149:3](cdm16.htm#fr_92.md) MS. bo.
 
-<span id="fn_92"></span>[150:1](cdm16.htm#fr_93) Porous material for
+<span id="fn_92"></span>[150:1](cdm16.htm#fr_93.md) Porous material for
 fire.
 
-<span id="fn_93"></span>[150:2](cdm16.htm#fr_94) gon.
+<span id="fn_93"></span>[150:2](cdm16.htm#fr_94.md) gon.
 
-<span id="fn_94"></span>[150:3](cdm16.htm#fr_95) go.
+<span id="fn_94"></span>[150:3](cdm16.htm#fr_95.md) go.
 
-<span id="fn_95"></span>[152:1](cdm16.htm#fr_96) Probably a corruption
+<span id="fn_95"></span>[152:1](cdm16.htm#fr_96.md) Probably a corruption
 of "thread," says Hector Maclean. Other variants are, *trìd*, *trait*,
 *tròidht*.
 
-<span id="fn_96"></span>[152:2](cdm16.htm#fr_97) For *iad-san*.
+<span id="fn_96"></span>[152:2](cdm16.htm#fr_97.md) For *iad-san*.
 
-<span id="fn_97"></span>[153:1](cdm16.htm#fr_98) gor.
+<span id="fn_97"></span>[153:1](cdm16.htm#fr_98.md) gor.
 
-<span id="fn_98"></span>[153:2](cdm16.htm#fr_99) Dialectal.
+<span id="fn_98"></span>[153:2](cdm16.htm#fr_99.md) Dialectal.
 
-<span id="fn_99"></span>[153:3](cdm16.htm#fr_100) MS. rìghreachd.
+<span id="fn_99"></span>[153:3](cdm16.htm#fr_100.md) MS. rìghreachd.
 
-<span id="fn_100"></span>[153:4](cdm16.htm#fr_101) MS. has dhianadh.
+<span id="fn_100"></span>[153:4](cdm16.htm#fr_101.md) MS. has dhianadh.
 
-<span id="fn_101"></span>[153:5](cdm16.htm#fr_102) Short for *agam*.
+<span id="fn_101"></span>[153:5](cdm16.htm#fr_102.md) Short for *agam*.
 
-<span id="fn_102"></span>[153:6](cdm16.htm#fr_103) Dialectal.
+<span id="fn_102"></span>[153:6](cdm16.htm#fr_103.md) Dialectal.
 
 ------------------------------------------------------------------------
 
-[Next: An t-Iasgair (The Three Ways) \[Gaelic\]](cdm17)
+[Next: An t-Iasgair (The Three Ways) \[Gaelic\]](cdm17.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](csg09)  [Next](csg11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](csg09)  [Next](csg11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -172,4 +172,4 @@ and that the Gazette has purposely said what it has. . . .
 ------------------------------------------------------------------------
 
 [Next: Appendix II. Correspondence Between The Duc De Choiseul And The
-Comte D’Affry...](csg11)
+Comte D’Affry...](csg11.md)

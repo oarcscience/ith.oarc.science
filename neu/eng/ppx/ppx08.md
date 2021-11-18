@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](ppx07)  [Next](ppx09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](ppx07)  [Next](ppx09.md) 
 
 ------------------------------------------------------------------------
 
 # Fontina; or, The Pixies' Bath
 
 <span id="img_07"></span> [![](tn/07.jpg)  
-Click to enlarge](img/07.jpg)  
+Click to enlarge](img/07.jpg.md)  
 THE PIXIES BATH
 
 ### PART I
@@ -800,4 +800,4 @@ vestige of it was destroyed.
 
 ------------------------------------------------------------------------
 
-[Next: The Lady of the Silver Bell](ppx09)
+[Next: The Lady of the Silver Bell](ppx09.md)

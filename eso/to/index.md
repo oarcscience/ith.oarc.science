@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NIFS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NIFS/internetsacredte.md)
 
 </div>
 
@@ -31,8 +31,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NIFS/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](to00)    [Page
-Index](pageidx)    [Text \[Zipped\]](to.txt.gz)
+[Contents](#contents)    [Start Reading](to00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](to.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -58,36 +58,36 @@ holographic universe hypothesis (the latter of which he prefigures in
 this book).
 
 Also available by Ouspensky at this site is a shorter text, [The
-Symbolism of the Tarot](../../tarot/sot/index).
+Symbolism of the Tarot](../../tarot/sot/index.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](to00)  
-[Contents](to01)  
-[Author's Preface to the Second Edition](to02)  
-[Introduction to the English Translation](to03)  
-[Chapter I](to04)  
-[Chapter II](to05)  
-[Chapter III](to06)  
-[Chapter IV](to07)  
-[Chapter V](to08)  
-[Chapter VI](to09)  
-[Chapter VII](to10)  
-[Chapter VIII](to11)  
-[Chapter IX](to12)  
-[Chapter X](to13)  
-[Chapter XI](to14)  
-[Chapter XII](to15)  
-[Chapter XIII](to16)  
-[Chapter XIV](to17)  
-[Chapter XV](to18)  
-[Chapter XVI](to19)  
-[Chapter XVII](to20)  
-[Chapter XVIII](to21)  
-[Chapter XIX](to22)  
-[Chapter XX](to23)  
-[Chapter XXI](to24)  
-[Chapter XXII](to25)  
-[Chapter XXIII](to26)  
-[Conclusion](to27)  
-[Table of the Four Forms of the Manifestation of Consciousness](to28)  
+<span id="contents"></span> [Title Page](to00.md)  
+[Contents](to01.md)  
+[Author's Preface to the Second Edition](to02.md)  
+[Introduction to the English Translation](to03.md)  
+[Chapter I](to04.md)  
+[Chapter II](to05.md)  
+[Chapter III](to06.md)  
+[Chapter IV](to07.md)  
+[Chapter V](to08.md)  
+[Chapter VI](to09.md)  
+[Chapter VII](to10.md)  
+[Chapter VIII](to11.md)  
+[Chapter IX](to12.md)  
+[Chapter X](to13.md)  
+[Chapter XI](to14.md)  
+[Chapter XII](to15.md)  
+[Chapter XIII](to16.md)  
+[Chapter XIV](to17.md)  
+[Chapter XV](to18.md)  
+[Chapter XVI](to19.md)  
+[Chapter XVII](to20.md)  
+[Chapter XVIII](to21.md)  
+[Chapter XIX](to22.md)  
+[Chapter XX](to23.md)  
+[Chapter XXI](to24.md)  
+[Chapter XXII](to25.md)  
+[Chapter XXIII](to26.md)  
+[Conclusion](to27.md)  
+[Table of the Four Forms of the Manifestation of Consciousness](to28.md)  

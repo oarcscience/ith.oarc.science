@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](woe02)  [Next](woe04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](woe02)  [Next](woe04.md) 
 
 ------------------------------------------------------------------------
 
@@ -740,7 +740,7 @@ together with a list of one hundred and nineteen conquered towns.
 
 This monarch lived before the time of Joshua, and therefore the records
 of his conquests present us with the ancient Canaanite nomenclature of
-places in Palestine [between](errata.htm#1) the times of the patriarchs
+places in Palestine [between](errata.htm#1.md) the times of the patriarchs
 and the conquest of the land by the Israelites under Joshua. Thothmes
 set out with his army from Tanis, that is Zoan; and after taking Gaza,
 he proceeded, by way of the plain of Sharon, to the more northern parts
@@ -1029,7 +1029,7 @@ did any turn
 <span id="page_33">p. 33</span>
 
 round. Each fell, and none raised himself up again." <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 Rameses fought with and conquered the Amorites, Canaanites, and other
 tribes of Palestine and Syria. His public works are also very numerous;
@@ -1071,7 +1071,7 @@ shrine or adytum, supported by four piers with Osirid figures, but
 otherwise as richly adorned as the outer apartment. Behind the adytum.
 are small rooms for the priests who served in the temple. It is the
 façade of the work which constitutes its main beauty. <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 "The largest of the rock temples at Ipsambul," says Mr. Fergusson, "*is
 the finest of its class known*
@@ -1118,12 +1118,12 @@ on innocent persons the severest pain and suffering."
 
 ### Footnotes
 
-<span id="fn_0"></span>[33:1](woe03.htm#fr_0) Brugsch, "History of
+<span id="fn_0"></span>[33:1](woe03.htm#fr_0.md) Brugsch, "History of
 Egypt," Vol. II, p. <sub>5</sub>U, 1st ed.
 
-<span id="fn_1"></span>[34:1](woe03.htm#fr_1) Rawlinson's "Ancient
+<span id="fn_1"></span>[34:1](woe03.htm#fr_1.md) Rawlinson's "Ancient
 Egypt," Vol. I, p. 318.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Religion of Ancient Egypt](woe04)
+[Next: Chapter II: Religion of Ancient Egypt](woe04.md)

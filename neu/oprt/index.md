@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,8 +31,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](oprt00)    [Page
-Index](pageidx)    [Text \[Zipped\]](oprt.txt.gz)
+[Contents](#contents)    [Start Reading](oprt00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](oprt.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -48,32 +48,32 @@ spent time in Russia during World War I as a journalist for a radical
 British newspaper, the Daily News, meeting among others, Lenin and
 Trotsky. However, that was after he wrote this book. He was a member of
 the London bohemian artistic scene, and knew Pamela Coleman Smith, the
-artist behind the [Rider-Waite](../../tarot/pkt/index) Tarot deck.
+artist behind the [Rider-Waite](../../tarot/pkt/index.md) Tarot deck.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](oprt00)  
-[Note](oprt01)  
-[Contents](oprt02)  
-[The Hut in the Forest](oprt03)  
-[The Tale of the Silver Saucer and the Transparent Apple](oprt04)  
-[Sadko](oprt05)  
-[Frost](oprt06)  
-[The Fool of the World and the Flying Ship](oprt07)  
-[Baba Yaga](oprt08)  
-[The Cat Who Became Head-Forester](oprt09)  
-[Spring in the Forest](oprt10)  
-[The Little Daughter of the Snow](oprt11)  
+<span id="contents"></span> [Title Page](oprt00.md)  
+[Note](oprt01.md)  
+[Contents](oprt02.md)  
+[The Hut in the Forest](oprt03.md)  
+[The Tale of the Silver Saucer and the Transparent Apple](oprt04.md)  
+[Sadko](oprt05.md)  
+[Frost](oprt06.md)  
+[The Fool of the World and the Flying Ship](oprt07.md)  
+[Baba Yaga](oprt08.md)  
+[The Cat Who Became Head-Forester](oprt09.md)  
+[Spring in the Forest](oprt10.md)  
+[The Little Daughter of the Snow](oprt11.md)  
 [Prince Ivan, the Witch Baby, and the Little Sister of the
-Sun](oprt12)  
+Sun](oprt12.md)  
 [The Stolen Turnips, the Magic Tablecloth, the Sneezing Goat, and the
-Wooden Whistle](oprt13)  
-[Little Master Misery](oprt14)  
-[A Chapter of Fish](oprt15)  
-[The Golden Fish](oprt16)  
-[Who Lived in the Skull?](oprt17)  
-[Alenoushka and her Brother](oprt18)  
+Wooden Whistle](oprt13.md)  
+[Little Master Misery](oprt14.md)  
+[A Chapter of Fish](oprt15.md)  
+[The Golden Fish](oprt16.md)  
+[Who Lived in the Skull?](oprt17.md)  
+[Alenoushka and her Brother](oprt18.md)  
 [The Fire-Bird, the Horse of Power, and the Princess
-Vasilissa](oprt19)  
-[The Hunter and His Wife](oprt20)  
-[The Three Men of Power--Evening, Midnight, and Sunrise](oprt21)  
+Vasilissa](oprt19.md)  
+[The Hunter and His Wife](oprt20.md)  
+[The Three Men of Power--Evening, Midnight, and Sunrise](oprt21.md)  

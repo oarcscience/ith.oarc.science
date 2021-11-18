@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu08)  [Next](gpu10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu08)  [Next](gpu10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -211,13 +211,13 @@ make one image of Nārāyaṇa from them, O King.
 "Dress it with a pair of yellow cloths, put on it various ornaments,
 bathe it in many waters,--and placing it, you should worship thus.
 
-51-56. "Place Śrīdhara <span id="fr_60"></span>[1](#fn_59) to the east
-of it, Madhusūdana <span id="fr_61"></span>[2](#fn_60) to the south, to
-the west Vāmanadeva <span id="fr_62"></span>[3](#fn_61), to the north
-Gadādhara, <span id="fr_63"></span>[4](#fn_62)
+51-56. "Place Śrīdhara <span id="fr_60"></span>[1](#fn_59.md) to the east
+of it, Madhusūdana <span id="fr_61"></span>[2](#fn_60.md) to the south, to
+the west Vāmanadeva <span id="fr_62"></span>[3](#fn_61.md), to the north
+Gadādhara, <span id="fr_63"></span>[4](#fn_62.md)
 
-"In the middle Pitāmaha <span id="fr_64"></span>[5](#fn_63) and also
-Maheśwara. <span id="fr_65"></span>[5](#fn_63) Worship these in turn
+"In the middle Pitāmaha <span id="fr_64"></span>[5](#fn_63.md) and also
+Maheśwara. <span id="fr_65"></span>[5](#fn_63.md) Worship these in turn
 with sandal-paste and flowers, according to the rite.
 
 "Then, having gone round them, make offerings in the fire to these
@@ -250,8 +250,8 @@ all evil. In all the worlds it is difficult to obtain this dissipator of
 evil conditions.
 
 "Having prepared a pot of refined gold, consecrated it to Brahmā,
-Īśa <span id="fr_66"></span>[1](#fn_64) and Keśava <span
-id="fr_67"></span>[2](#fn_65), and all the guardians of the quarters,
+Īśa <span id="fr_66"></span>[1](#fn_64.md) and Keśava <span
+id="fr_67"></span>[2](#fn_65.md), and all the guardians of the quarters,
 filled it with clarified butter and worshipped before it with devotion,
 give it to a twice-born. What good are a hundred other gifts from you?
 
@@ -295,25 +295,25 @@ sinfully.
 
 ### Footnotes
 
-<span id="fn_59"></span>[58:1](gpu09.htm#fr_60) Viṣṇu, a form of.
+<span id="fn_59"></span>[58:1](gpu09.htm#fr_60.md) Viṣṇu, a form of.
 
-<span id="fn_60"></span>[58:2](gpu09.htm#fr_61) Another form of Viṣṇu,
+<span id="fn_60"></span>[58:2](gpu09.htm#fr_61.md) Another form of Viṣṇu,
 slayer of the demon Madhu.
 
-<span id="fn_61"></span>[58:3](gpu09.htm#fr_62) The divine dwarf Viṣṇu.
+<span id="fn_61"></span>[58:3](gpu09.htm#fr_62.md) The divine dwarf Viṣṇu.
 
-<span id="fn_62"></span>[58:4](gpu09.htm#fr_63) The club-bearing Viṣṇu.
+<span id="fn_62"></span>[58:4](gpu09.htm#fr_63.md) The club-bearing Viṣṇu.
 
-<span id="fn_63"></span>[58:5](gpu09.htm#fr_65) A name for Śiva.
+<span id="fn_63"></span>[58:5](gpu09.htm#fr_65.md) A name for Śiva.
 
-<span id="fn_64"></span>[59:1](gpu09.htm#fr_66) Śiva.
+<span id="fn_64"></span>[59:1](gpu09.htm#fr_66.md) Śiva.
 
-<span id="fn_65"></span>[59:2](gpu09.htm#fr_67) Viṣṇu.
+<span id="fn_65"></span>[59:2](gpu09.htm#fr_67.md) Viṣṇu.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. An Account of the Gifts for the Dying](gpu10)
+[Next: Chapter VIII. An Account of the Gifts for the Dying](gpu10.md)
 
 </div>

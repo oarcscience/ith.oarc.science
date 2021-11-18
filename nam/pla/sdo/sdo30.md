@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo29)  [Next](sdo31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo29)  [Next](sdo31.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ their enthusiasm.
 
 ------------------------------------------------------------------------
 
-[Next: The Sun-Gaze Dance](sdo31)
+[Next: The Sun-Gaze Dance](sdo31.md)

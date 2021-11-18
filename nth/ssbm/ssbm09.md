@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssbm08)  [Next](ssbm10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssbm08)  [Next](ssbm10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Science Behind Miracles*, by Max Freedom Long, \[1948\], at
 Intangible Textual Heritage
 
@@ -634,4 +634,4 @@ substance in its relation to ectoplasm.)
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. The Significance of Seeing into the Future in the
-Psychometric Phenomena and in Dreams](ssbm10)
+Psychometric Phenomena and in Dreams](ssbm10.md)

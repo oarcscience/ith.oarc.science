@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](row00)  [Next](row02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](row00)  [Next](row02.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ learned, too!
 ------------------------------------------------------------------------
 
 [Next: Witchcraft And Beliefs In Evil Spirits Came To America Long
-Ago](row02)
+Ago](row02.md)

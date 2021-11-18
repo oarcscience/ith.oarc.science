@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](atawintr)  [Next](ataw100) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](atawintr)  [Next](ataw100.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233715/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233715/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -283,4 +283,4 @@ Croixside Press, c1982. xii, 333 p. : ill. ; 28 cm.
 
 ------------------------------------------------------------------------
 
-[Title Page](ataw100)
+[Title Page](ataw100.md)

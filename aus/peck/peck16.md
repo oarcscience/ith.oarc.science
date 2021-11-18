@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck15)  [Next](peck17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck15)  [Next](peck17.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ plant best for the weaving of baskets and mats.
 
 ------------------------------------------------------------------------
 
-[Next: How The Pistils of the Waratah Became Firm](peck17)
+[Next: How The Pistils of the Waratah Became Firm](peck17.md)

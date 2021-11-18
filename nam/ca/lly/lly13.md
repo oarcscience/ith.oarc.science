@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly12)  [Next](lly14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly12)  [Next](lly14.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ more unthinking architecture of nature.
 
 ------------------------------------------------------------------------
 
-[Next: Sentinel Rock](lly14)
+[Next: Sentinel Rock](lly14.md)

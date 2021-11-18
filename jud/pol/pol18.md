@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol17)  [Next](pol19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol17)  [Next](pol19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -56,7 +56,7 @@ The bear followed the fox, but being bulky he was captured and punished.
 Angry thereat he designed to tear the fox to pieces, under the pretence
 that the forefathers of the fox had once stolen his food; wherein occurs
 the first saying, 'The fathers have eaten sour grapes, and the
-[children's](errata.htm#3) teeth are set on edge.'
+[children's](errata.htm#3.md) teeth are set on edge.'
 
 "' Nay,' said the fox, 'come with me, my good friend; let us not
 quarrel; I will lead thee to another place where we shall surely find
@@ -192,4 +192,4 @@ repine."
 
 ------------------------------------------------------------------------
 
-[Next: Hillel Hannasi.](pol19)
+[Next: Hillel Hannasi.](pol19.md)

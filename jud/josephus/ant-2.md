@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ wicked in the sight of God, and impious before men, even though they
 should kill one not related to them; but much more flagitious and
 detestable to appear to have slain their own brother, by which act the
 father must be treated unjustly in the son's slaughter, and the mother
-<span id="EndNote Ant 2.1a"></span>[(1)](#EndNote%20Ant%202.1b) also be
+<span id="EndNote Ant 2.1a"></span>[(1)](#EndNote%20Ant%202.1b.md) also be
 in perplexity while she laments that her son is taken away from her, and
 this not in a natural way neither. So he entreated them to have a regard
 to their own consciences, and wisely to consider what mischief would
@@ -199,7 +199,7 @@ for if he should die among strangers a great way off*,* they should be
 freed from this barbarous action. This, therefore, was resolved on; so
 they drew Joseph up out of the pit, and sold him to the merchants for
 twenty pounds <span
-id="EndNote Ant 2.2a"></span>[(2)](#EndNote%20Ant%202.2b) He was now
+id="EndNote Ant 2.2a"></span>[(2)](#EndNote%20Ant%202.2b.md) He was now
 seventeen years old. But Reubel, coming in the night-time to the pit,
 resolved to save Joseph, without the privity of his brethren; and when,
 upon his calling to him, he made no answer, he was afraid that they had
@@ -525,7 +525,7 @@ prove the best overseer of it. But Joseph having this power given him by
 the king, with leave to make use of his seal, and to wear purple, drove
 in his chariot through all the land of Egypt, and took the corn of the
 husbandmen, <span
-id="EndNote Ant 2.3a"></span>[(3)](#EndNote%20Ant%202.3b) allotting as
+id="EndNote Ant 2.3a"></span>[(3)](#EndNote%20Ant%202.3b.md) allotting as
 much to every one as would be sufficient for seed, and for food, but
 without discovering to any one the reason why he did so.
 
@@ -539,7 +539,7 @@ honors from the king, who called him Psothom Phanech, out of regard to
 his prodigious degree of wisdom; for that name denotes *the revealer of
 secrets.* He also married a wife of very high quality; for he married
 the daughter of Petephres, <span
-id="EndNote Ant 2.4a"></span>[(4)](#EndNote%20Ant%202.4b) one of the
+id="EndNote Ant 2.4a"></span>[(4)](#EndNote%20Ant%202.4b.md) one of the
 priests of Heliopolis; she was a virgin, and her name was Asenath. By
 her he had children before the scarcity came on; Manasseh, the elder,
 which signifies *forgetful,* because his present happiness made him
@@ -549,7 +549,7 @@ Now after Egypt had happily passed over seven years, according to
 Joseph's interpretation of the dreams, the famine came upon them in the
 eighth year; and because this misfortune fell upon them when they had no
 sense of it beforehand, <span
-id="EndNote Ant 2.5a"></span>[(5)](#EndNote%20Ant%202.5b) they were all
+id="EndNote Ant 2.5a"></span>[(5)](#EndNote%20Ant%202.5b.md) they were all
 sorely afflicted by it, and came running to the king's gates; and he
 called upon Joseph, who sold the corn to them, being become confessedly
 a savior to the whole multitude of the Egyptians. Nor did he open this
@@ -636,7 +636,7 @@ for which they judged they were justly punished by God. Now when Joseph
 saw that they were in this distress, he was so affected at it that he
 fell into tears, and not being willing that they should take notice of
 him, he retired; and after a while came to them again, and taking Symeon
-<span id="EndNote Ant 2.6a"></span>[(6)](#EndNote%20Ant%202.6b) in order
+<span id="EndNote Ant 2.6a"></span>[(6)](#EndNote%20Ant%202.6b.md) in order
 to his being a pledge for his brethren's return, he bid them take the
 corn they had bought, and go their way. He also commanded his steward
 privily to put the money which they had brought with them for the
@@ -661,7 +661,7 @@ accident that still disturbed them more, - the money that was found
 hidden in their sacks of corn. Yet when the corn they had brought failed
 them, and when the famine still afflicted them, and necessity forced
 them, Jacob did <span
-id="EndNote Ant 2.7a"></span>[(7)](#EndNote%20Ant%202.7b) \[not\] still
+id="EndNote Ant 2.7a"></span>[(7)](#EndNote%20Ant%202.7b.md) \[not\] still
 resolve to send Benjamin with his brethren, although there was no
 returning into Egypt unless they came with what they had promised. Now
 the misery growing every day worse, and his sons begging it of him, he
@@ -680,7 +680,7 @@ son back to him safe, or, together with his, lose his own life." So that
 Jacob was at length persuaded, and delivered Benjamin to them, with the
 price of the corn doubled; he also sent presents to Joseph of the fruits
 of the land of Canaan, balsam and rosin, as also turpentine and honey.
-<span id="EndNote Ant 2.8a"></span>[(8)](#EndNote%20Ant%202.8b) Now
+<span id="EndNote Ant 2.8a"></span>[(8)](#EndNote%20Ant%202.8b.md) Now
 their father shed many tears at the departure of his sons, as well as
 themselves. His concern was, that he might receive them back again safe
 after their journey; and their concern was, that they might find their
@@ -797,7 +797,7 @@ and were able to say nothing on this sad occasion. But Judas, who had
 persuaded their father to send the lad from him, being otherwise also a
 very bold and active man, determined to hazard himself for the
 preservation of his brother. "It is true," <span
-id="EndNote Ant 2.9a"></span>[(9)](#EndNote%20Ant%202.9b) said he, "O
+id="EndNote Ant 2.9a"></span>[(9)](#EndNote%20Ant%202.9b.md) said he, "O
 governor, that we have been very wicked with regard to thee, and on that
 account deserved punishment; even all of us may justly be punished,
 although the theft were not committed by all, but only by one of us, and
@@ -903,7 +903,7 @@ slay him, I desire thou wilt slay me in his stead, and send him back to
 his father; or if thou pleasest to retain him with thee as a slave, I am
 fitter to labor for thy advantage in that capacity, and, as thou seest,
 am better prepared for either of those sufferings. <span
-id="EndNote Ant 2.10a"></span>[(10)](#EndNote%20Ant%202.10b) So Judas,
+id="EndNote Ant 2.10a"></span>[(10)](#EndNote%20Ant%202.10b.md) So Judas,
 being very willing to undergo any thing whatever for the deliverance of
 his brother, cast himself down at Joseph's feet, and earnestly labored
 to assuage and pacify his anger. All his brethren also fell down before
@@ -1022,7 +1022,7 @@ Saphoniah, Augis, Sunis, Azabon, Aerin, Erocd, Ariel. Aser had a
 daughter, Sarah, and six male children, whose names were Jomne, Isus,
 Isoui, Baris, Abar and Melchiel. If we add these, which are sixteen, to
 the fifty-four, the forementioned number \[70\] is completed <span
-id="EndNote Ant 2.11a"></span>[(11)](#EndNote%20Ant%202.11b) Jacob not
+id="EndNote Ant 2.11a"></span>[(11)](#EndNote%20Ant%202.11b.md) Jacob not
 being himself included in that number.
 
 5\. When Joseph understood that his father was coming, for Judas his
@@ -1043,7 +1043,7 @@ and take care of their father; as also hereby he provided, that they
 might be acceptable to the Egyptians, by doing nothing that would be
 common to them with the Egyptians; for the Egyptians are prohibited to
 meddle with feeding of sheep. <span
-id="EndNote Ant 2.12a"></span>[(12)](#EndNote%20Ant%202.12b)
+id="EndNote Ant 2.12a"></span>[(12)](#EndNote%20Ant%202.12b.md)
 
 6\. When Jacob was come to the king, and saluted him, and wished all
 prosperity to his government, Pharaoh asked him how old he now was; upon
@@ -1057,7 +1057,7 @@ shepherds had their pasturage.
 judgment grew more oppressive to them, because neither did the river
 overflow the ground, for it did not rise to its former height, nor did
 God send rain upon it; <span
-id="EndNote Ant 2.13a"></span>[(13)](#EndNote%20Ant%202.13b) nor did
+id="EndNote Ant 2.13a"></span>[(13)](#EndNote%20Ant%202.13b.md) nor did
 they indeed make the least provision for themselves, so ignorant were
 they what was to be done; but Joseph sold them corn for their money. But
 when their money failed them, they bought corn with their cattle and
@@ -1077,7 +1077,7 @@ have possessed alone, and alone enjoyed the fruits of it. He also
 exhorted them to look on it as every one's own possession, and to fall
 to their husbandry with cheerfulness, and to pay as a tribute to the
 king, the fifth part <span
-id="EndNote Ant 2.14a"></span>[(14)](#EndNote%20Ant%202.14b) of the
+id="EndNote Ant 2.14a"></span>[(14)](#EndNote%20Ant%202.14b.md) of the
 fruits for the land which the king, when it was his own, restored to
 them. These men rejoiced upon their becoming unexpectedly owners of
 their lands, and diligently observed what was enjoined them; and by this
@@ -1096,7 +1096,7 @@ prayers for their enjoying prosperity, and till he had foretold to them
 prophetically how every one of them was to dwell in the land of Canaan.
 But this happened many years afterward. He also enlarged upon the
 praises of Joseph <span
-id="EndNote Ant 2.15a"></span>[(15)](#EndNote%20Ant%202.15b) how he had
+id="EndNote Ant 2.15a"></span>[(15)](#EndNote%20Ant%202.15b.md) how he had
 not remembered the evil doings of his brethren to their disadvantage;
 nay, on the contrary, was kind to them, bestowing upon them so many
 benefits, as seldom are bestowed on men's own benefactors. He then
@@ -1136,7 +1136,7 @@ CHAPTER 9.
 
 **CONCERNING THE AFFLICTIONS THAT BEFELL THE HEBREWS IN EGYPT, DURING
 FOUR HUNDRED YEARS. <span
-id="EndNote Ant 2.16a"></span>[(16)](#EndNote%20Ant%202.16b)**
+id="EndNote Ant 2.16a"></span>[(16)](#EndNote%20Ant%202.16b.md)**
 
 1\. NOW it happened that the Egyptians grew delicate and lazy, as to
 pains-taking, and gave themselves up to other pleasures, and in
@@ -1153,7 +1153,7 @@ cut a great number of channels for the river, and to build walls for
 their cities and ramparts, that they might restrain the river, and
 hinder its waters from stagnating, upon its running over its own banks:
 they set them also to build pyramids, <span
-id="EndNote Ant 2.17a"></span>[(17)](#EndNote%20Ant%202.17b) and by all
+id="EndNote Ant 2.17a"></span>[(17)](#EndNote%20Ant%202.17b.md) and by all
 this wore them out; and forced them to learn all sorts of mechanical
 arts, and to accustom themselves to hard labor. And four hundred years
 did they spend under these afflictions; for they strove one against the
@@ -1165,7 +1165,7 @@ to the end under them.
 this occasion offered itself to the Egyptians, which made them more
 solicitous for the extinction of our nation. One of those sacred
 scribes, <span
-id="EndNote Ant 2.18a"></span>[(18)](#EndNote%20Ant%202.18b) who are
+id="EndNote Ant 2.18a"></span>[(18)](#EndNote%20Ant%202.18b.md) who are
 very sagacious in foretelling future events truly, told the king, that
 about this time there would a child be born to the Israelites, who, if
 he were reared, would bring the Egyptian dominion low, and would raise
@@ -1175,13 +1175,13 @@ feared by the king, that, according to this man's opinion, he commanded
 that they should cast every male child, which was born to the
 Israelites, into the river, and destroy it; that besides this, the
 Egyptian midwives <span
-id="EndNote Ant 2.19a"></span>[(19)](#EndNote%20Ant%202.19b) should
+id="EndNote Ant 2.19a"></span>[(19)](#EndNote%20Ant%202.19b.md) should
 watch the labors of the Hebrew women, and observe what is born, for
 those were the women who were enjoined to do the office of midwives to
 them; and by reason of their relation to the king, would not transgress
 his commands. He enjoined also, that if any parents should disobey him,
 and venture to save their male children alive, <span
-id="EndNote Ant 2.20a"></span>[(20)](#EndNote%20Ant%202.20b) they and
+id="EndNote Ant 2.20a"></span>[(20)](#EndNote%20Ant%202.20b.md) they and
 their families should be destroyed. This was a severe affliction indeed
 to those that suffered it, not only as they were deprived of their sons,
 and while they were the parents themselves, they were obliged to be
@@ -1323,7 +1323,7 @@ had carried Moses to her father, she showed him to him, and said she
 thought to make him her successor, if it should please God she should
 have no legitimate child of her own; and to him, "I have brought up a
 child who is of a divine form, <span
-id="EndNote Ant 2.21a"></span>[(21)](#EndNote%20Ant%202.21b) and of a
+id="EndNote Ant 2.21a"></span>[(21)](#EndNote%20Ant%202.21b.md) and of a
 generous mind; and as I have received him from the bounty of the river,
 in , I thought proper to adopt him my son, and the heir of thy kingdom."
 And she had said this, she put the infant into her father's hands: so he
@@ -1375,7 +1375,7 @@ themselves to their oracles and prophecies; and when God had given them
 this counsel, to make use of Moses the Hebrew, and take his assistance,
 the king commanded his daughter to produce him, that he might be the
 general <span
-id="EndNote Ant 2.22a"></span>[(22)](#EndNote%20Ant%202.22b) of their
+id="EndNote Ant 2.22a"></span>[(22)](#EndNote%20Ant%202.22b.md) of their
 army. Upon which, when she had made him swear he would do him no harm,
 she delivered him to the king, and supposed his assistance would be of
 great advantage to them. She withal reproached the priest, who, when
@@ -1400,7 +1400,7 @@ of the ground unseen, and also fly in the air, and so come upon men at
 unawares, and do them a mischief,) Moses invented a wonderful stratagem
 to preserve the army safe, and without hurt; for he made baskets, like
 unto arks, of sedge, and filled them with ibes, <span
-id="EndNote Ant 2.23a"></span>[(23)](#EndNote%20Ant%202.23b) and carried
+id="EndNote Ant 2.23a"></span>[(23)](#EndNote%20Ant%202.23b.md) and carried
 them along with them; which animal is the greatest enemy to serpents
 imaginable, for they fly from them when they come near them; and as they
 fly they are caught and devoured by them, as if it were done by the
@@ -1580,7 +1580,7 @@ name, that when he offered sacrifice he might invoke him by such his
 name in his oblations. Whereupon God declared to him his holy name,
 which had never been discovered to men before; concerning which it is
 not lawful for me to say any more <span
-id="EndNote Ant 2.24a"></span>[(24)](#EndNote%20Ant%202.24b) Now these
+id="EndNote Ant 2.24a"></span>[(24)](#EndNote%20Ant%202.24b.md) Now these
 signs accompanied Moses, not then only, but always when he prayed for
 them: of all which signs he attributed the firmest assent to the fire in
 the bush; and believing that God would be a gracious supporter to him,
@@ -1717,7 +1717,7 @@ forgot the cause of it, and retained the Hebrews; and, as though he had
 a mind to try the nature of more such judgments, he would not yet suffer
 Moses and his people to depart, having granted that liberty rather out
 of fear than out of any good consideration. <span
-id="EndNote Ant 2.25a"></span>[(25)](#EndNote%20Ant%202.25b)
+id="EndNote Ant 2.25a"></span>[(25)](#EndNote%20Ant%202.25b.md)
 
 3\. Accordingly, God punished his falseness with another plague, added
 to the former; for there arose out of the bodies of the Egyptians an
@@ -1751,7 +1751,7 @@ perished in this manner. But when the king was not brought to reason by
 this plague, hail was sent down from heaven; and such hail it was*,* as
 the climate of Egypt had never suffered before, nor was it like to that
 which falls in other climates in winter time, <span
-id="EndNote Ant 2.26a"></span>[(26)](#EndNote%20Ant%202.26b) but was
+id="EndNote Ant 2.26a"></span>[(26)](#EndNote%20Ant%202.26b.md) but was
 larger than that which falls in the middle of spring to those that dwell
 in the northern and north-western regions. This hail broke down their
 boughs laden with fruit. After this a tribe of locusts consumed the seed
@@ -1805,7 +1805,7 @@ Hebrews go. Accordingly he called for Moses, and bid them be gone; as
 supposing, that if once the Hebrews were gone out of the country, Egypt
 should be freed from its miseries. They also honored the Hebrews with
 gifts; <span
-id="EndNote Ant 2.27a"></span>[(27)](#EndNote%20Ant%202.27b) some, in
+id="EndNote Ant 2.27a"></span>[(27)](#EndNote%20Ant%202.27b.md) some, in
 order to get them to depart quickly, and others on account of their
 neighborhood, and the friendship they had with them.
 
@@ -1834,7 +1834,7 @@ for war, were six hundred thousand.
 lunar month; four hundred and thirty years after our forefather Abraham
 came into Canaan, but two hundred and fifteen years only after Jacob
 removed into Egypt. <span
-id="EndNote Ant 2.28a"></span>[(28)](#EndNote%20Ant%202.28b) It was the
+id="EndNote Ant 2.28a"></span>[(28)](#EndNote%20Ant%202.28b.md) It was the
 eightieth year of the age of Moses, and of that of Aaron three more.
 They also carried out the bones of Joesph with them, as he had charged
 his sons to do.
@@ -1868,7 +1868,7 @@ pursued after them was six hundred chariots, with fifty thousand
 horsemen, and two hundred thousand foot-men, all armed. They also seized
 on the passages by which they imagined the Hebrews might fly, shutting
 them up <span
-id="EndNote Ant 2.29a"></span>[(29)](#EndNote%20Ant%202.29b) between
+id="EndNote Ant 2.29a"></span>[(29)](#EndNote%20Ant%202.29b.md) between
 inaccessible precipices and the sea; for there was \[on each side\] a
 \[ridge of\] mountains that terminated at the sea, which were impassable
 by reason of their roughness, and obstructed their flight; wherefore
@@ -1973,7 +1973,7 @@ made for the deliverance of those in danger, but not for those that were
 earnest to make use of it for the others' destruction. As soon,
 therefore, as ever the whole Egyptian army was within it, the sea flowed
 to its own place, and came down with a torrent raised by storms of wind,
-<span id="EndNote Ant 2.30a"></span>[(30)](#EndNote%20Ant%202.30b) and
+<span id="EndNote Ant 2.30a"></span>[(30)](#EndNote%20Ant%202.30b.md) and
 encompassed the Egyptians. Showers of rain also came down from the sky,
 and dreadful thunders and lightning, with flashes of fire. Thunderbolts
 also were darted upon them. Nor was there any thing which used to be
@@ -1991,10 +1991,10 @@ danger they were in, after this manner, and besides that, seeing their
 enemies punished in such a way as is never recorded of any other men
 whomsoever, were all the night employed in singing of hymns, and in
 mirth. <span
-id="EndNote Ant 2.31a"></span>[(31)](#EndNote%20Ant%202.31b) Moses also
+id="EndNote Ant 2.31a"></span>[(31)](#EndNote%20Ant%202.31b.md) Moses also
 composed a song unto God, containing his praises, and a thanksgiving for
 his kindness, in hexameter verse. <span
-id="EndNote Ant 2.32a"></span>[(32)](#EndNote%20Ant%202.32b)
+id="EndNote Ant 2.32a"></span>[(32)](#EndNote%20Ant%202.32b.md)
 
 5\. As for myself, I have delivered every part of this history as I
 found it in the sacred books; nor let any one wonder at the strangeness
@@ -2004,7 +2004,7 @@ the will of God or whether it happened of its own accord; - while, for
 the sake of those that accompanied Alexander, king of Macedonia, who yet
 lived, comparatively but a little while ago, the Pamphylian Sea retired
 and afforded them a passage <span
-id="EndNote Ant 2.33a"></span>[(33)](#EndNote%20Ant%202.33b) through
+id="EndNote Ant 2.33a"></span>[(33)](#EndNote%20Ant%202.33b.md) through
 itself, had no other way to go; I mean, when it was the will of God to
 destroy the monarchy of the Persians: and this is confessed to be true
 by all that have written about the actions of Alexander. But as to these
@@ -2023,7 +2023,7 @@ multitude, as he was charged to do beforehand.
 
 ENDNOTES
 
-<span id="EndNote Ant 2.1b"></span>[(1)](#EndNote%20Ant%202.1a) We may
+<span id="EndNote Ant 2.1b"></span>[(1)](#EndNote%20Ant%202.1a.md) We may
 here observe, that in correspondence to Joseph's second dream, which
 implied that his mother, who was then alive, as well as his father,
 should come and bow down to him, Josephus represents her here as still
@@ -2031,15 +2031,15 @@ alive after she was dead, for the decorum of the dream that foretold it,
 as the interpretation of the dream does also in all our copies, Genesis
 37:10.
 
-<span id="EndNote Ant 2.2b"></span>[(2)](#EndNote%20Ant%202.2a) The
+<span id="EndNote Ant 2.2b"></span>[(2)](#EndNote%20Ant%202.2a.md) The
 Septuagint have twenty pieces of gold; the Testament of Gad thirty; the
 Hebrew and Samaritan twenty of silver; and the vulgar Latin thirty. What
 was the true number and true sum cannot therefore now be known.
 
-<span id="EndNote Ant 2.3b"></span>[(3)](#EndNote%20Ant%202.3a) That is,
+<span id="EndNote Ant 2.3b"></span>[(3)](#EndNote%20Ant%202.3a.md) That is,
 bought it for Pharaoh at a very low price.
 
-<span id="EndNote Ant 2.4b"></span>[(4)](#EndNote%20Ant%202.4a) This
+<span id="EndNote Ant 2.4b"></span>[(4)](#EndNote%20Ant%202.4a.md) This
 Potiphar, or, as Josephus, Petephres, who was now a priest of On, or
 Heliopolis, is the same name in Josephus, and perhaps in Moses also,
 with him who is before called head cook or captain of the guard, and to
@@ -2051,27 +2051,27 @@ Bernard confesses, note on Antiq. B. II. ch. 4. sect. 1, common to
 Josephus, to the Septuagint interpreters, and to other learned Jews of
 old time.
 
-<span id="EndNote Ant 2.5b"></span>[(5)](#EndNote%20Ant%202.5a) This
+<span id="EndNote Ant 2.5b"></span>[(5)](#EndNote%20Ant%202.5a.md) This
 entire ignorance of the Egyptians of these years of famine before they
 came, told us before, as well as here, ch. 5. sect. 7, by Josephus,
 seems to me almost incredible. It is in no other copy that I know of.
 
-<span id="EndNote Ant 2.6b"></span>[(6)](#EndNote%20Ant%202.6a) The
+<span id="EndNote Ant 2.6b"></span>[(6)](#EndNote%20Ant%202.6a.md) The
 reason why Symeon might be selected out of the rest for Joseph's
 prisoner, is plain in the Testament of Symeon, viz. that he was one of
 the bitterest of all Joseph's brethren against him, sect. 2; which
 appears also in part by the Testament of Zabulon, sect. 3.
 
-<span id="EndNote Ant 2.7b"></span>[(7)](#EndNote%20Ant%202.7a) The
+<span id="EndNote Ant 2.7b"></span>[(7)](#EndNote%20Ant%202.7a.md) The
 coherence seems to me to show that the negative particle is here
 wanting, which I have supplied in brackets, and I wonder none have
 hitherto suspected that it ought to be supplied.
 
-<span id="EndNote Ant 2.8b"></span>[(8)](#EndNote%20Ant%202.8a) Of the
+<span id="EndNote Ant 2.8b"></span>[(8)](#EndNote%20Ant%202.8a.md) Of the
 precious balsam of Judea, and the turpentine, see the note on Antiq. B.
 VIII. ch. 6. sect. 6.
 
-<span id="EndNote Ant 2.9b"></span>[(9)](#EndNote%20Ant%202.9a) This
+<span id="EndNote Ant 2.9b"></span>[(9)](#EndNote%20Ant%202.9a.md) This
 oration seems to me too large, and too unusual a digression, to have
 been composed by Judas on this occasion. It seems to me a speech or
 declamation composed formerly, in the person of Judas, and in the way of
@@ -2079,12 +2079,12 @@ oratory, that lay by him. and which he thought fit to insert on this
 occasion. See two more such speeches or declamations, Antiq. B. VI. ch.
 14. sect. 4
 
-<span id="EndNote Ant 2.10b"></span>[(10)](#EndNote%20Ant%202.10a) In
+<span id="EndNote Ant 2.10b"></span>[(10)](#EndNote%20Ant%202.10a.md) In
 all this speech of Judas we may observe, that Josephus still supposed
 that death was the punishment of theft in Egypt, in the days of Joseph,
 though it never was so among the Jews, by the law of Moses.
 
-<span id="EndNote Ant 2.11b"></span>[(11)](#EndNote%20Ant%202.11a) All
+<span id="EndNote Ant 2.11b"></span>[(11)](#EndNote%20Ant%202.11a.md) All
 the Greek copies of Josephus have the negative particle here, that Jacob
 himself was not reckoned one of the 70 souls that came into Egypt; but
 the old Latin copies want it, and directly assure us he was one of them.
@@ -2093,14 +2093,14 @@ reading, since the number 70 is made up without him, if we reckon Leah
 for one; but if she be not reckoned, Jacob must himself be one, to
 complete the number.
 
-<span id="EndNote Ant 2.12b"></span>[(12)](#EndNote%20Ant%202.12a)
+<span id="EndNote Ant 2.12b"></span>[(12)](#EndNote%20Ant%202.12a.md)
 Josephus thought that the Egyptians hated or despised the employment of
 a shepherd in the days of Joseph; whereas Bishop Cumberland has shown
 that they rather hated such Poehnician or Canaanite shepherds that had
 long enslaved the Egyptians of old time. See his Sanchoniatho, p. 361,
 362.
 
-<span id="EndNote Ant 2.13b"></span>[(13)](#EndNote%20Ant%202.13a)
+<span id="EndNote Ant 2.13b"></span>[(13)](#EndNote%20Ant%202.13a.md)
 Reland here puts the question, how Josephus could complain of its not
 raining in Egypt during this famine, while the ancients affirm that it
 never does naturally rain there. His answer is, that when the ancients
@@ -2110,7 +2110,7 @@ Delta \[and by consequence in the Lower Egypt adjoining to it\] it did
 of old, and still does, rain sometimes. See the note on Antiq. B. III.
 ch. 1. sect. 6.
 
-<span id="EndNote Ant 2.14b"></span>[(14)](#EndNote%20Ant%202.14a)
+<span id="EndNote Ant 2.14b"></span>[(14)](#EndNote%20Ant%202.14a.md)
 Josephus supposes that Joseph now restored the Egyptians their lands
 again. upon the payment of a fifth part as tribute. It seems to me
 rather that the land was now considered as Pharaoh's land, and this
@@ -2119,20 +2119,20 @@ they his tenants; and that the lands were not properly restored, and
 this fifth part reserved as tribute only, till the days of Sesostris.
 See Essay on the Old Testament, Append. 148, 149.
 
-<span id="EndNote Ant 2.15b"></span>[(15)](#EndNote%20Ant%202.15a) As to
+<span id="EndNote Ant 2.15b"></span>[(15)](#EndNote%20Ant%202.15a.md) As to
 this encomium upon Joseph, as preparatory to Jacob's adopting Ephraim
 and Manasses into his own family, and to be admitted for two tribes,
 which Josephus here mentions, all our copies of Genesis omit it, ch.
 48.; nor do we know whence he took it, or whether it be not his own
 embellishment only.
 
-<span id="EndNote Ant 2.16b"></span>[(16)](#EndNote%20Ant%202.16a) As to
+<span id="EndNote Ant 2.16b"></span>[(16)](#EndNote%20Ant%202.16a.md) As to
 the affliction of Abraham's posterity for 400 years, see Antiq. B. I.
 ch. 10. sect. 3; and as to what cities they built in Egypt, under
 Pharaoh Sesostris. and of Pharaoh Sesostris's drowning in the Red Sea,
 see Essay on the Old Testament, Append. p. 132-162.
 
-<span id="EndNote Ant 2.17b"></span>[(17)](#EndNote%20Ant%202.17a) Of
+<span id="EndNote Ant 2.17b"></span>[(17)](#EndNote%20Ant%202.17a.md) Of
 this building of the pyramids of Egypt by the Israelites, see Perizonius
 Orig. Aegyptiac, ch. 21. It is not impossible they might build one or
 more of the small ones; but the larger ones seem much later. Only, if
@@ -2140,7 +2140,7 @@ they be all built of stone, this does not so well agree with the
 Israelites' labors, which are said to have been in brick, and not in
 stone, as Mr. Sandys observes in his Travels. p. 127, 128.
 
-<span id="EndNote Ant 2.18b"></span>[(18)](#EndNote%20Ant%202.18a) Dr.
+<span id="EndNote Ant 2.18b"></span>[(18)](#EndNote%20Ant%202.18a.md) Dr.
 Bernard informs us here, that instead of this single priest or prophet
 of the Egyptians, without a name in Josephus, the Targum of Jonathan
 names the two famous antagonists of Moses, Jannes and Jambres. Nor is it
@@ -2148,7 +2148,7 @@ at all unlikely that it might be one of these who foreboded so much
 misery to the Egyptians, and so much happiness to the Israelites, from
 the rearing of Moses.
 
-<span id="EndNote Ant 2.19b"></span>[(19)](#EndNote%20Ant%202.19a)
+<span id="EndNote Ant 2.19b"></span>[(19)](#EndNote%20Ant%202.19a.md)
 Josephus is clear that these midwives were Egyptians, and not
 Israelites, as in our other copies: which is very probable, it being not
 easily to be supposed that Pharaoh could trust the Israelite midwives to
@@ -2159,18 +2159,18 @@ Pentateuch, or other authentic records now lost, about the birth and
 actions of Moses, than either our Hebrew, Samaritan, or Greek Bibles
 afford us, which enabled him to be so large and particular about him.
 
-<span id="EndNote Ant 2.20b"></span>[(20)](#EndNote%20Ant%202.20a) Of
+<span id="EndNote Ant 2.20b"></span>[(20)](#EndNote%20Ant%202.20a.md) Of
 this grandfather of Sesostris, Ramestes the Great, who slew the
 Israelite infants, and of the inscription on his obelisk, containing, in
 my opinion, one of the oldest records of mankind, see Essay on the Old
 Test. Append. p. 139, 145, 147, 217-220.
 
-<span id="EndNote Ant 2.21b"></span>[(21)](#EndNote%20Ant%202.21a) What
+<span id="EndNote Ant 2.21b"></span>[(21)](#EndNote%20Ant%202.21a.md) What
 Josephus here says of the beauty of Moses, that he was of a divine form,
 is very like what St. Stephen says of the same beauty; that Moses was
 beautiful in the sight of Acts 7:20.
 
-<span id="EndNote Ant 2.22b"></span>[(22)](#EndNote%20Ant%202.22a) This
+<span id="EndNote Ant 2.22b"></span>[(22)](#EndNote%20Ant%202.22a.md) This
 history of Moses, as general of the Egyptians against the Ethiopians, is
 wholly omitted in our Bibles; but is thus by Irenaeus, from Josephus,
 and that soon after his own age: — "Josephus says, that when Moses was
@@ -2183,13 +2183,13 @@ before he was sent by God to the Israelites, that he was not only
 learned in all the wisdom of the Egyptians, but was also mighty in words
 and in deeds, Acts 7:22.
 
-<span id="EndNote Ant 2.23b"></span>[(23)](#EndNote%20Ant%202.23a) Pliny
+<span id="EndNote Ant 2.23b"></span>[(23)](#EndNote%20Ant%202.23a.md) Pliny
 speaks of these birds called ibes; and says, "The Egyptians invoked them
 against the serpents," Hist. Nat. B. X. ch. 28. Strabo speaks of this
 island Meroe, and these rivers Astapus and Astaboras, B. XVI. p. 771,
 786; and B XVII. p. 82\].
 
-<span id="EndNote Ant 2.24b"></span>[(24)](#EndNote%20Ant%202.24a) This
+<span id="EndNote Ant 2.24b"></span>[(24)](#EndNote%20Ant%202.24a.md) This
 superstitious fear of discovering the name with four letters, which of
 late we have been used falsely to pronounce Jehovah, but seems to have
 been originally pronounced Jahoh, or Jao, is never, I think, heard of
@@ -2203,16 +2203,16 @@ the Rabbins. It is, however, no doubt but both these cautious
 concealments were taught Josephus by the Pharisees, a body of men at
 once very wicked and very superstitious.
 
-<span id="EndNote Ant 2.25b"></span>[(25)](#EndNote%20Ant%202.25a) Of
+<span id="EndNote Ant 2.25b"></span>[(25)](#EndNote%20Ant%202.25a.md) Of
 this judicial hardening the hearts and blinding the eyes of wicked men,
 or infatuating them, as a just punishment for their other willful sins,
 to their own destruction, see the note on Antiq. B. VII. ch. 9. sect. 6.
 
-<span id="EndNote Ant 2.26b"></span>[(26)](#EndNote%20Ant%202.26a) As to
+<span id="EndNote Ant 2.26b"></span>[(26)](#EndNote%20Ant%202.26a.md) As to
 this winter or spring hail near Egypt and Judea, see the like on thunder
 and lightning there, in the note on Antiq. B. VI. ch. 5. sect. 6.
 
-<span id="EndNote Ant 2.27b"></span>[(27)](#EndNote%20Ant%202.27a) These
+<span id="EndNote Ant 2.27b"></span>[(27)](#EndNote%20Ant%202.27a.md) These
 large presents made to the Israelites, of vessels of and vessels of
 gold, and raiment, were, as Josephus truly calls them, gifts really
 given them; not lent them, as our English falsely renders them. They
@@ -2227,7 +2227,7 @@ men, as they themselves confess, ch. 12. 33. Nor was there any sense in
 borrowing or lending, when the Israelites were finally departing out of
 the land for ever.
 
-<span id="EndNote Ant 2.28b"></span>[(28)](#EndNote%20Ant%202.28a) Why
+<span id="EndNote Ant 2.28b"></span>[(28)](#EndNote%20Ant%202.28a.md) Why
 our Masorete copy so groundlessly abridges this account in Exodus 12:40,
 as to ascribe 430 years to the sole peregrination of the Israelites in
 Egypt, when it is clear even by that Masorete chronology elsewhere, as
@@ -2237,7 +2237,7 @@ consequence, the other half of their peregrination was in the land of
 Canaan, before they came into Egypt, — is hard to say. See Essay on the
 Old Testament, p. 62, 63.
 
-<span id="EndNote Ant 2.29b"></span>[(29)](#EndNote%20Ant%202.29a) Take
+<span id="EndNote Ant 2.29b"></span>[(29)](#EndNote%20Ant%202.29a.md) Take
 the main part of Reland's excellent note here, which greatly illustrates
 Josephus, and the Scripture, in this history, as follows: "\[A
 traveller, says Reland, whose name was\] Eneman, when he returned out of
@@ -2263,13 +2263,13 @@ the old Canaanite or Phoenician shepherds, and their retiring out of
 Egypt into Canaan or Phoenicia, long before the days of Moses.
 Sanchoniatho, p. 374, &c.
 
-<span id="EndNote Ant 2.30b"></span>[(30)](#EndNote%20Ant%202.30a) Of
+<span id="EndNote Ant 2.30b"></span>[(30)](#EndNote%20Ant%202.30a.md) Of
 these storms of wind, thunder, and lightning, at this drowning of
 Pharaoh's army, almost wanting in our copies of Exodus, but fully extant
 in that of David, Psalm 77:16-18, and in that of Josephus here, see
 Essay on the Old Test. Append. p. 15,1, 155.
 
-<span id="EndNote Ant 2.31b"></span>[(31)](#EndNote%20Ant%202.31a) What
+<span id="EndNote Ant 2.31b"></span>[(31)](#EndNote%20Ant%202.31a.md) What
 some have here objected against this passage of the Israelites over the
 Red Sea, in this one night, from the common maps, viz. that this sea
 being here about thirty miles broad, so great an army conld not pass
@@ -2300,7 +2300,7 @@ sceptics and unbelievers, and so certainly do thorough inquiries and
 authentic evidence disprove and confute such evasions and subterfuges
 upon all occasions.
 
-<span id="EndNote Ant 2.32b"></span>[(32)](#EndNote%20Ant%202.32a) What
+<span id="EndNote Ant 2.32b"></span>[(32)](#EndNote%20Ant%202.32a.md) What
 that hexameter verse, in which Moses's triumphant song is here said to
 be written, distinctly means, our present ignorance of the old Hebrew
 metre or measure will not let us determine. Nor does it appear to me
@@ -2308,7 +2308,7 @@ certain that even Josephus himself had a distinct notion of it, though
 he speaks of several sort of that metre or measure, both here and
 elsewhere. Antiq. B. IV. ch. 8. sect. 44; and B. VII. ch. 12. sect. 3.
 
-<span id="EndNote Ant 2.33b"></span>[(33)](#EndNote%20Ant%202.33a) Take
+<span id="EndNote Ant 2.33b"></span>[(33)](#EndNote%20Ant%202.33a.md) Take
 here the original passages of the four old authors that still remain, as
 to this transit of Alexander the Great over the Pamphylian Sea: I mean,
 of Callisthenes, Strabu, Arrian, and Appian. As to Callisthenes, who
@@ -2358,4 +2358,4 @@ sort also. So that whatever the moderns may think of the thing itself,
 there is hence not the least color for finding fault with Josephus: he
 would rather have been much to blame had he omitted these quotations.*
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

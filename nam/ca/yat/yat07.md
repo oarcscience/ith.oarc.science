@@ -1,27 +1,27 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat06)  [Next](yat08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat06)  [Next](yat08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### V. THE CREATION OF THE YANA. <span id="fr_42"></span>[111](#fn_40)
+### V. THE CREATION OF THE YANA. <span id="fr_42"></span>[111](#fn_40.md)
 
 <span id="page_76">p. 76</span>
 
 "Where is your father?" said Lizard to Cottontail Rabbit. "I have no
 father." "So! It seems that neither of us have any father. <span
-id="fr_43"></span>[112](#fn_41) There are no people here. Let us make
+id="fr_43"></span>[112](#fn_41.md) There are no people here. Let us make
 people!" They marked out a ring on the ground with a stick. "Wherewith
 are we going to make people?" they said to each other. (Cottontail
 Rabbit said,) "Put sticks down on the ground." He put small sticks down
@@ -50,13 +50,13 @@ in the south and again returned. He placed sticks across the mountains
 in the west, he placed sticks off in the north. "Let us put down bad
 sticks in the center. There are no more good sticks here." "Yes," said
 those two persons talking to each other. <span
-id="fr_44"></span>[113](#fn_42)
+id="fr_44"></span>[113](#fn_42.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_40"></span>[74:111](yat07.htm#fr_42) This and the following
+<span id="fn_40"></span>[74:111](yat07.htm#fr_42.md) This and the following
 are the only incidents of the creation myth that could be procured. Of a
 creation from out of a primeval watery waste, referred to by Dixon in
 his "Northern Maidu," p. 339, as possessed in common by the Maidu,
@@ -70,14 +70,14 @@ Lizard and Cottontail Rabbit (p. 483). The scene of this myth is laid at
 Wamā'rawi, an Indian village at the cone north of Battle creek and
 several miles west of the present Shingletown.
 
-<span id="fn_41"></span>[76:112](yat07.htm#fr_43) This curious prelude
+<span id="fn_41"></span>[76:112](yat07.htm#fr_43.md) This curious prelude
 is probably intended to show that no one had as yet been born.
 
-<span id="fn_42"></span>[77:113](yat07.htm#fr_44) The meaning of this is
+<span id="fn_42"></span>[77:113](yat07.htm#fr_44.md) The meaning of this is
 that the Yanas were made of shorter stature than the surrounding tribes.
 Cf. Powers Tribes of California, pp. 275, 276, for a confirmation of
 this opinion.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Origin of Sex, Hands, and Death](yat08)
+[Next: VI. Origin of Sex, Hands, and Death](yat08.md)

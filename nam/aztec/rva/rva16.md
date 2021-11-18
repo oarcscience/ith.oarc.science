@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva15)  [Next](rva17) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva15)  [Next](rva17.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### XVI. Chicomecoatl icuic.
 
-[English](#english)
+[English](#english.md)
 
 ![](rva02.jpg)
 
@@ -59,4 +59,4 @@ of. about twelve years old.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Hymn to the Gods of Wine.](rva17) 
+[Next: XVII. Hymn to the Gods of Wine.](rva17.md) 

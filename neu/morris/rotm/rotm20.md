@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm19)  [Next](rotm21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm19)  [Next](rotm21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -550,6 +550,6 @@ her that I bid her remember that To-morrow is a new day.'
 ------------------------------------------------------------------------
 
 [Next: Chapter XX. Those Two Together Hold the Ring of the
-Earth-God](rotm21)
+Earth-God](rotm21.md)
 
 </div>

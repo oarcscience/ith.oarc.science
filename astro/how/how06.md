@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](how05)  [Next](how07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](how05)  [Next](how07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
 
 ------------------------------------------------------------------------
 
-### 5. IN THE RATIOS OF THE PLANETARY MOVEMENTS WHICH ARE APPARENT AS IT WERE TO SPECTATORS AT THE SUN, HAVE BEEN EXPRESSED THE PITCHES OF THE SYSTEM, OR NOTES OF THE MUSICAL SCALE, AND THE MODES OF SONG \[GENERA CANTUS\], THE MAJOR AND THE MINOR <span id="fr_6"></span>[3](#fn_6)
+### 5. IN THE RATIOS OF THE PLANETARY MOVEMENTS WHICH ARE APPARENT AS IT WERE TO SPECTATORS AT THE SUN, HAVE BEEN EXPRESSED THE PITCHES OF THE SYSTEM, OR NOTES OF THE MUSICAL SCALE, AND THE MODES OF SONG \[GENERA CANTUS\], THE MAJOR AND THE MINOR <span id="fr_6"></span>[3](#fn_6.md)
 
 Therefore by now I have proved by means of numbers gotten on one side
 from astronomy and on the other side from harmonics that, taken in every
@@ -46,7 +46,7 @@ dissonances should exist. For example, if someone had set up a major
 sixth between the first and the second term, and likewise a major third
 between the second and the third term, without taking the first into
 account, then he would admit a dissonance and the discordant interval 12
-: 25 [between](errata.htm#4) the first and third.
+: 25 [between](errata.htm#4.md) the first and third.
 
 But come now, let us see whether that which we have already inferred by
 reasoning is really found in this way. \[291\] But let me premise some
@@ -59,7 +59,7 @@ sameness of consonance in all the octaves.
 
 Accordingly the numbers wherein all the pitches or clefs \[*loca seu
 claves*\] of the octave system are expressed have been set out in a
-table in Book III, Chapter 7 <span id="fr_7"></span>[1](#fn_7),
+table in Book III, Chapter 7 <span id="fr_7"></span>[1](#fn_7.md),
 
 <span id="page_1036">p. 1036</span>
 
@@ -72,7 +72,7 @@ continuously halved. Therefore
 <span id="img_103600"></span>
 
 [![](tn/103600.jpg)  
-Click to enlarge](img/103600.jpg)
+Click to enlarge](img/103600.jpg.md)
 
 Now the aphelial movement of Saturn at its slowest—*i.e.*, the slowest
 movement—marks *G*, the lowest pitch in the system with the number
@@ -119,7 +119,7 @@ the table.
 <span id="img_103700"></span>
 
 [![](tn/103700.jpg)  
-Click to enlarge](img/103700.jpg)
+Click to enlarge](img/103700.jpg.md)
 
 On the other hand, if the beginning of the scale is made at 2´15″, the
 aphelial movement of Saturn, and we must express the note *G* in those
@@ -141,7 +141,7 @@ previously omitted, as you see in the table.
 <span id="img_103701"></span>
 
 [![](tn/103701.jpg)  
-Click to enlarge](img/103701.jpg)
+Click to enlarge](img/103701.jpg.md)
 
 Previously, however, *f* sharp was marked and *a* omitted; now *a* is
 marked, *f* sharp is omitted; for the harmonic division in Chapter 2
@@ -149,7 +149,7 @@ also omitted the note *f*.
 
 Accordingly, the musical scale or system of one octave with all its
 pitches, by means of which natural song <span
-id="fr_8"></span>[1](#fn_8) is transposed in music, has been expressed
+id="fr_8"></span>[1](#fn_8.md) is transposed in music, has been expressed
 in the heavens by a twofold way and in two as it were modes of song.
 There is this sole difference: in our harmonic sectionings both ways
 start together from one and the same terminus *G*; but here, in the
@@ -161,7 +161,7 @@ the minor mode.
 <span id="img_103800"></span>
 
 [![](tn/103800.jpg)  
-Click to enlarge](img/103800.jpg)
+Click to enlarge](img/103800.jpg.md)
 
 For as in music 2160 : 1800, or 6 : 5, so in that system which the
 heavens express, 1728 : 1440, namely, also 6 : 5; and so for most of the
@@ -234,20 +234,20 @@ the very least discord.
 
 ### Footnotes
 
-<span id="fn_6"></span>[1034:3](how06.htm#fr_6) See note to Intervals
+<span id="fn_6"></span>[1034:3](how06.htm#fr_6.md) See note to Intervals
 Compared with Harmonic Ratios, p. 1026.
 
-<span id="fn_7"></span>[1035:1](how06.htm#fr_7) The table is as follows:
+<span id="fn_7"></span>[1035:1](how06.htm#fr_7.md) The table is as follows:
 
 <span id="img_103500"></span>
 
 [![](tn/103500.jpg)  
-Click to enlarge](img/103500.jpg)
+Click to enlarge](img/103500.jpg.md)
 
-<span id="fn_8"></span>[1037:1](how06.htm#fr_8) Natural song: music in
+<span id="fn_8"></span>[1037:1](how06.htm#fr_8.md) Natural song: music in
 the basic major or minor system without accidentals. E. C., Jr.
 
 ------------------------------------------------------------------------
 
 [Next: 6. In The Extreme Planetary Movements the Musical Modes or Tones
-Have Somehow Been Expressed](how07)
+Have Somehow Been Expressed](how07.md)

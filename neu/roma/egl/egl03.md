@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Roma](../index)  [Index](index) 
-[Previous](egl02)  [Next](egl04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Roma](../index)  [Index](index.md) 
+[Previous](egl02)  [Next](egl04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ magic or other, the oracle before-mentioned.
 
 And I, answering said—
 
-“So you all call it *patteran*?”  [24](egl13.htm#xref_24)
+“So you all call it *patteran*?”  [24](egl13.htm#xref_24.md)
 
 “No; very few of us know that name. We do it without calling it
 anything.”
@@ -91,7 +91,7 @@ that Shiva, the Destroyer, bore a trident, the tri-çûla in Sanscrit, the
 *trisūl* of Mahadeva in Hindustani, and that in coming to Europe the
 resemblance of its shape to that of the Cross impressed them, so that
 they gave to the Christian symbol the name of the sacred triple spear.
- [26](egl13.htm#xref_26) For if you turn up a little the two arms of a
+ [26](egl13.htm#xref_26.md) For if you turn up a little the two arms of a
 cross, you change the emblem of suffering and innocence at once into one
 of murder—just as ever so little a deviation from goodness will lead
 you, my dear boy, into any amount of devilry.
@@ -240,7 +240,7 @@ oak?”
 
 “Dui hundred besh a hatchin, dui hundred besh nasherin his chuckko, dui
 hundred besh ’pré he mullers, and then he nashers sār his ratt and he’s
-kekoomi kushto.”  [30](egl13.htm#xref_30)
+kekoomi kushto.”  [30](egl13.htm#xref_30.md)
 
 “That is good, too. There are a great many men who would like to live as
 long.”
@@ -259,7 +259,7 @@ again.”
 “Do snails live as long as lizards?”
 
 “Not when I find ’em rya—if I am hungry. Snails are good eating.
- [32](egl13.htm#xref_32) You can find plenty on the hedges. When they’re
+ [32](egl13.htm#xref_32.md) You can find plenty on the hedges. When they’re
 going about in the fields or (are found) under wood, they are not good
 eating. The best are those which are kept, or live through (literally
 *sleep*) the winter. Take ’em and wash ’em and throw ’em into the
@@ -294,7 +294,7 @@ tchurro, “a ball, or anything round,” when he suggested—
 
 “Ryá—I should say that as a *churro* is round, and a *curro* or cup is
 round, and they both sound alike and look alike, it must be all werry
-much the same thing.”  [33](egl13.htm#xref_33)
+much the same thing.”  [33](egl13.htm#xref_33.md)
 
 “Can you tell me anything more about snails?” I asked, reverting to a
 topic which, by the way, I have observed is like that of the hedgehog, a
@@ -311,13 +311,13 @@ him), and stick it on the thorn of a blackthorn in a hedge, and as the
 snail dies, one day after the other, for four or five days, the wart
 will die away. Many a time I’ve told that to Gorgios, and Gorgios have
 done it, and the warts have gone away (literally, cleaned away) from
-their hands.”  [34](egl13.htm#xref_34)
+their hands.”  [34](egl13.htm#xref_34.md)
 
 Here the Gipsy began to inquire very politely if smoking were offensive
 to me; and as I assured him that it was not, he took out his pipe. And
 knowing by experience that nothing is more conducive to sociability, be
 it among Chippeways or Gipsies, than that smoking which is among our
-Indians, literally a burnt-offering,  [35](egl13.htm#xref_35) I produced
+Indians, literally a burnt-offering,  [35](egl13.htm#xref_35.md) I produced
 a small clay pipe of the time of Charles the Second, given to me by a
 gentleman who has the amiable taste to collect such curiosities, and
 give them to his friends under the express condition that they shall be
@@ -350,4 +350,4 @@ the beng.”
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Gipsy Tinker](egl04)
+[Next: Chapter III. The Gipsy Tinker](egl04.md)

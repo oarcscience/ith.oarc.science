@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma22)  [Next](fmma24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma22)  [Next](fmma24.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,4 +199,4 @@ in France and within its walls passed the rest of his life.
 
 ------------------------------------------------------------------------
 
-[Next: Frederick Barbarossa. Emperor From 1152-1190](fmma24)
+[Next: Frederick Barbarossa. Emperor From 1152-1190](fmma24.md)

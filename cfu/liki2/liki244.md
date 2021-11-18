@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki243)  [Next](liki245) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki243)  [Next](liki245.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,6 +109,6 @@ text.
 ------------------------------------------------------------------------
 
 [Next: XLV. Phing Î or The Meaning of the Interchange of Missions
-Between Different Courts](liki245)
+Between Different Courts](liki245.md)
 
   

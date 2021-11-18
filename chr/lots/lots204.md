@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](lots203)  [Next](lots205) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](lots203)  [Next](lots205.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001CL82NS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001CL82NS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Lives of the Saints*, by Alban Butler, Benziger Bros. ed. \[1894\], at
 Intangible Textual Heritage
 
@@ -57,6 +57,6 @@ remedy, and converted their tribulations into the greatest advantages.
 
 ------------------------------------------------------------------------
 
-[Next: 28. St. Irenæus, Bishop, Martyr](lots205)
+[Next: 28. St. Irenæus, Bishop, Martyr](lots205.md)
 
 </div>

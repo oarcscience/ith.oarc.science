@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Next](more01) 
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Next](more01.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ Edition of Cassell & Co. \[1901\]
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](more01)
+[Next: Introduction](more01.md)

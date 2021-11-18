@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss11)  [Next](oss13) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss11)  [Next](oss13.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,7 +108,7 @@ battle in his rage. But now my eyes behold him not. I met him one day on
 the hill; his cheek was pale: his brow was dark. The sigh was frequent
 in his breast: his steps were towards the desert. But now he is not in
 the crowd of my chiefs, when the sounds of my shields arise. Dwells he
-in the narrow house, <span id="fr_47"></span>[1](#fn_47) the chief of
+in the narrow house, <span id="fr_47"></span>[1](#fn_47.md) the chief of
 high Carmora?
 
 Cronnan! said Ullin of other times, raise the song of Shilric! when he
@@ -310,7 +310,7 @@ the blood of the vanquished it never pierced a fallen foe. Let thy
 people rejoice by their native Streams. Let the maid of thy love be
 glad. Why shouldst thou fall in thy youth, king of streamy Sora?"
 Frothal heard the words of Fingal, and saw the rising maid: they  <span
-id="fr_48"></span>[1](#fn_48) stood in silence, in their beauty, like
+id="fr_48"></span>[1](#fn_48.md) stood in silence, in their beauty, like
 two young trees of the plain, when the shower of spring is on their
 leaves, and the loud winds are laid.
 
@@ -445,10 +445,10 @@ his form were not forgotten! he still feared the hand of the king!
 
 ### Footnotes
 
-<span id="fn_47"></span>[211:1](oss12.htm#fr_47) The grave.
+<span id="fn_47"></span>[211:1](oss12.htm#fr_47.md) The grave.
 
-<span id="fn_48"></span>[217:1](oss12.htm#fr_48) They: Frothal and Utha.
+<span id="fn_48"></span>[217:1](oss12.htm#fr_48.md) They: Frothal and Utha.
 
 ------------------------------------------------------------------------
 
-[Next: Carthon](oss13)
+[Next: Carthon](oss13.md)

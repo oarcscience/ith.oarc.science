@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos20)  [Next](pos22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos20)  [Next](pos22.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,12 +18,12 @@ the merit of that act, she was reborn in the heaven of the
 Three-and-Thirty. After a glorious period there, she arose once more
 among the Yāma gods, then among the Blissful gods, then among the Happy
 Creators, then among the Disposers of others' creations,
-[<sup>410</sup>](pos21.htm#164-1) and there became Queen of the King of
+[<sup>410</sup>](pos21.htm#164-1.md) and there became Queen of the King of
 the gods. Reborn thereafter, when Kassapa was Buddha, as the daughter of
 a wealthy citizen, she acquired splendid merit as a lay-believer,
 winning another rebirth among the gods of the Three-and-Thirty. Finally
 reborn, in this Buddha-age, at the city of Mantāvatī, as the daughter of
-King Koñca, [<sup>411</sup>](pos21.htm#164-2) she was named Sumedhā. And
+King Koñca, [<sup>411</sup>](pos21.htm#164-2.md) she was named Sumedhā. And
 when she was come to years of discretion, her mother and father agreed
 to let Anikaratta, the Rāja of Vāraṇavatī, see her. But she from her
 childhood had been in the habit of going with Princesses of her own age
@@ -39,7 +39,7 @@ shall I gain permission to leave the world,' laid hold of her purpose,
 and cut off her own hair. Then using her hair in accordance with what
 she had heard from the Bhikkhunīs of their methods, she concentrated her
 attention on repugnance to physical attraction, and calling up the idea
-of 'Foul Things,' [<sup>412</sup>](pos21.htm#165-1) then and there
+of 'Foul Things,' [<sup>412</sup>](pos21.htm#165-1.md) then and there
 attained First Jhāna. And when she was thus rapt, her parents came to
 her apartments in order to give her away. But she made them first and
 all their retinue and all the Raja's people believers in religion, and
@@ -424,7 +424,7 @@ Dhammapāla, residing at the Padara-Tittha-Vihāra.
 
 <span id="164-1"></span>
 
-> <sup>410</sup> See [Ps. lxi.](pos13.htm#LXI), *n.*
+> <sup>410</sup> See [Ps. lxi.](pos13.htm#LXI.md), *n.*
 
 <span id="164-2"></span>
 
@@ -434,7 +434,7 @@ Dhammapāla, residing at the Padara-Tittha-Vihāra.
 
 <span id="165-1"></span>
 
-> <sup>412</sup> *Cf.* [Ps xli.](pos10.htm#XLI) In the Commentary, p.
+> <sup>412</sup> *Cf.* [Ps xli.](pos10.htm#XLI.md) In the Commentary, p.
 > 273, read, for *patikulamanasikāraŋ*, *paṭikkūla°*.
 
 <span id="165-2"></span>
@@ -445,8 +445,8 @@ Dhammapāla, residing at the Padara-Tittha-Vihāra.
 
 <span id="166-1"></span>
 
-> <sup>414</sup> See [note](pos20.htm#162-1), verse
-> [436](pos20.htm#436).
+> <sup>414</sup> See [note](pos20.htm#162-1.md), verse
+> [436](pos20.htm#436.md).
 
 <span id="166-2"></span>
 
@@ -476,7 +476,7 @@ Dhammapāla, residing at the Padara-Tittha-Vihāra.
 > of *kali* in *Jātaka*, v. 134 (=*khela*, spittle, froth), because of
 > the juxtaposition of *asāra*=pithless, without essence (*cf. Saŋy.
 > Nik.*, iii. 140), in preference to the more usual association of
-> *kali* with gambling. See ver. [501](pos21.htm#501).
+> *kali* with gambling. See ver. [501](pos21.htm#501.md).
 
 <span id="168-1"></span>
 
@@ -494,8 +494,8 @@ Dhammapāla, residing at the Padara-Tittha-Vihāra.
 
 <span id="169-1"></span>
 
-> <sup>422</sup> *Yoniso aruciŋ*. *Cf.* Pss. [xxx](pos08.htm#XXX).,
-> [xxxviii](pos10.htm#XXXVIII)., [lvii](pos11.htm#LVII).
+> <sup>422</sup> *Yoniso aruciŋ*. *Cf.* Pss. [xxx](pos08.htm#XXX.md).,
+> [xxxviii](pos10.htm#XXXVIII)., [lvii](pos11.htm#LVII.md).
 
 <span id="169-2"></span>
 
@@ -560,11 +560,11 @@ Dhammapāla, residing at the Padara-Tittha-Vihāra.
 > these in India have yet been identified (Rhys Davids, *Buddhist
 > India*, 37).  
 >   
-> The repetition in verses [496](pos21.htm#496), [497](pos21.htm#497) is
+> The repetition in verses [496](pos21.htm#496), [497](pos21.htm#497.md) is
 > curious in a work where redundancy is so severely repressed. Either it
 > goes to strengthen the symptoms that the last two Psalms are by a
 > different and later hand, or else two versions have here been
-> incorporated. In [496](pos21.htm#496) Sumedhā first speaks to all her
+> incorporated. In [496](pos21.htm#496.md) Sumedhā first speaks to all her
 > three chief hearers: 'Call ye to mind' (*saratha*); the following
 > admonitions are to the Prince only: 'bear in mind' and 'remember'
 > (*sarāhi, sara*).
@@ -658,7 +658,7 @@ Dhammapāla, residing at the Padara-Tittha-Vihāra.
 > <sup>444</sup> *Asambādhaŋ*. The Commentary takes this figuratively:
 > 'from the absence of the crowd of corruptions' (or torments,
 > *kilesā*.). In view of the cardinal importance in the Vinaya of
-> cultivating solitude (*cf.* Dhammadinnā in [Ps. xii.](pos06.htm#XII)),
+> cultivating solitude (*cf.* Dhammadinnā in [Ps. xii.](pos06.htm#XII).md),
 > because, too, of its being the path of the minority, and because of
 > the Suttanta phrase calling the lay life *sambādha*, and the religious
 > life *abbhokāsa*, free as air, I incline to take it literally.
@@ -675,7 +675,7 @@ Dhammapāla, residing at the Padara-Tittha-Vihāra.
 <span id="177-2"></span>
 
 > <sup>447</sup> The two friends are said to have been Khemā ([Ps.
-> lii.](pos11.htm#LII)) and Dhanañjānī, a brahminee convert (*Saŋ.
+> lii.](pos11.htm#LII).md) and Dhanañjānī, a brahminee convert (*Saŋ.
 > Nik.*, i. 160).
 
 <span id="177-3"></span>
@@ -699,7 +699,7 @@ Dhammapāla, residing at the Padara-Tittha-Vihāra.
 
 > <sup>452</sup> This line expands the Pali word *virajjati*, according
 > to the commentary, which supplements 'purified' by 'set free.' On the
-> metre of the whole Psalm, see [Introduction.](pos04.htm#INTRODUCTION)
+> metre of the whole Psalm, see [Introduction.](pos04.htm#INTRODUCTION.md)
 
 <span id="178-4"></span>
 
@@ -707,4 +707,4 @@ Dhammapāla, residing at the Padara-Tittha-Vihāra.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](pos22)
+[Next: Appendix](pos22.md)

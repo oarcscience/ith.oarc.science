@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](qar01)  [Next](qar03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](qar01)  [Next](qar03.md) 
 
 ------------------------------------------------------------------------
 
@@ -162,4 +162,4 @@ given the knowledge of the apparent the hidden things.
 
 ------------------------------------------------------------------------
 
-[Next: Alexander and Al-Khidhr Were Born in The Same Day](qar03)
+[Next: Alexander and Al-Khidhr Were Born in The Same Day](qar03.md)

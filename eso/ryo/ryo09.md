@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo08) 
-[Next](ryo10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo08.md) 
+[Next](ryo10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Raja Yoga*, by Yogi Ramacharaka (William Walker Atkinson), \[1906\], at
 Intangible Textual Heritage
 
@@ -225,7 +225,7 @@ conscious only of thoughts of that body and the outside world. It
 "knows," but not being conscious of mental operations, or of the
 existence of its mind, it does not "know that it knows." This form of
 consciousness, while infinitely above the mentation of the non-conscious
-plane of "[sensation](errata.htm#3)," is like a different world of
+plane of "[sensation](errata.htm#3.md)," is like a different world of
 thought from the consciousness of the highly developed intellectual man
 of our age and race.
 
@@ -687,4 +687,4 @@ my aim. I am a manifestation of REALITY. I *AM*.
 
 ------------------------------------------------------------------------
 
-[Next: Lesson VIII. The Highlands and Lowlands of Mind](ryo10)
+[Next: Lesson VIII. The Highlands and Lowlands of Mind](ryo10.md)

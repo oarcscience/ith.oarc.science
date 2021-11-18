@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc26.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 

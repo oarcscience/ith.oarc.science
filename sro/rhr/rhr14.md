@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr13)  [Next](rhr15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr13)  [Next](rhr15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -196,7 +196,7 @@ square. Upon one side stood these two verses writ in great letters--
 <div style="margin-left: 32px">
 
 O. BLI. TO. BIT. MI. LI.  
-KANT. I. <span id="fr_53"></span>[1](#fn_53) VOLT. BIT. TO. GOLT.
+KANT. I. <span id="fr_53"></span>[1](#fn_53.md) VOLT. BIT. TO. GOLT.
 
 </div>
 
@@ -546,9 +546,9 @@ class="margnote">Somnium prolixum.</span>
 
 ### Footnotes
 
-<span id="fn_53"></span>[176:1](rhr14.htm#fr_53) This letter is omitted
+<span id="fn_53"></span>[176:1](rhr14.htm#fr_53.md) This letter is omitted
 in one of the German editions.
 
 ------------------------------------------------------------------------
 
-[Next: The Seventh Day](rhr15)
+[Next: The Seventh Day](rhr15.md)

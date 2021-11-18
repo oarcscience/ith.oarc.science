@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](bkt03) [Next](bkt05)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](bkt03) [Next](bkt05.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
    T<span class="small">HE</span> most authentic records of antiquity
 which have come down to us state that Adam was created on Friday
 afternoon, at the hour of Assr.<span
-id="page_19_fr_*"></span>[\*](#page_19_note_*)
+id="page_19_fr_*"></span>[\*](#page_19_note_*.md)
 
    The four most exalted angels, Gabriel, Michael, Israfil, and Israil,
 were commanded to bring from the four corners of the earth the dust out
@@ -22,7 +22,7 @@ of which Allah formed the body of Adam, all save the head and heart. For
 these He employed exclusively the sacred earth of Mecca and Medina, from
 the very spots on which, in later times, the holy Kaaba and the
 sepulchre of Mohammed were erected.<span
-id="page_19_fr_dagger"></span>[†](#page_19_note_dagger)
+id="page_19_fr_dagger"></span>[†](#page_19_note_dagger.md)
 
 <span id="page_20">p. 20</span>
 
@@ -61,9 +61,9 @@ pointing with one hand toward it, while he shaded his eyes with the
 other, he inquired, "O Allah! what flames are those?" "It is the light
 of a prophet who shall descend from thee and appear on earth in the
 latter times. By my glory, only for his sake have I created thee and the
-whole world.<span id="page_21_fr_*"></span>[\*](#page_21_note_*) In
+whole world.<span id="page_21_fr_*"></span>[\*](#page_21_note_*.md) In
 heaven his name is Ahmed,<span
-id="page_21_fr_dagger"></span>[†](#page_21_note_dagger) but he shall be
+id="page_21_fr_dagger"></span>[†](#page_21_note_dagger.md) but he shall be
 called Mohammed on earth, and he shall restore mankind from vice and
 falsehood to the path of virtue and truth."
 
@@ -87,7 +87,7 @@ him, in praise of His omnipotence and the wonders of His universe; and
 on this occasion he manifested to the angels that he far surpassed them
 in wisdom, and more especially in the knowledge of languages, for he
 knew the name of every created thing in seventy different tongues.<span
-id="page_22_fr_*"></span>[\*](#page_22_note_*)
+id="page_22_fr_*"></span>[\*](#page_22_note_*.md)
 
 <span id="page_23">p. 23</span>
 
@@ -116,7 +116,7 @@ indulgence and kindness. The marriage gift which he requires of thee is,
 that thou shouldst pray twenty times for Mohammed, his beloved, whose
 body shall one day be formed out of thy flesh and blood, but whose soul
 has dwelt in Allah's presence many thousand years before the creation of
-the world."<span id="page_24_fr_*"></span>[\*](#page_24_note_*)
+the world."<span id="page_24_fr_*"></span>[\*](#page_24_note_*.md)
 
    Ridwhan, the guardian of Eden, came leading Meimun, the winged horse,
 and a fleet she-camel. The one he presented to Adam, the other to Eve.
@@ -200,7 +200,7 @@ various hues. Her hair was soft like that of a noble virgin; and her
 form resembled the stately camel; her breath was sweet like musk and
 amber, and all her words were songs of praise. She fed on saffron, and
 her resting-places were on the blooming borders of the beautiful
-Cantharus.<span id="page_27_fr_*"></span>[\*](#page_27_note_*) She was
+Cantharus.<span id="page_27_fr_*"></span>[\*](#page_27_note_*.md) She was
 created a thousand years before Adam, and destined to be the playmate of
 Eve.
 
@@ -530,13 +530,13 @@ prophet's turn, to whom was originally assigned a lifetime of only
 thirty years, Adam inquired, "How many years are appointed to me?"
 
    "One thousand," was the answer.<span
-id="page_39_fr_*"></span>[\*](#page_39_note_*)
+id="page_39_fr_*"></span>[\*](#page_39_note_*.md)
 
    "I will renounce seventy if thou wilt add them to the life of David!"
 
    Allah consented; but, aware of Adam's forgetfulness, directed this
 grant to be recorded on a parchment, which Gabriel and Michael signed as
-witnesses.<span id="page_39_fr_dagger"></span>[†](#page_39_note_dagger)
+witnesses.<span id="page_39_fr_dagger"></span>[†](#page_39_note_dagger.md)
 
 <span id="page_40">p. 40</span>
 
@@ -607,7 +607,7 @@ offered a fatted ram, and fire came down from heaven and consumed it;
 but Cain brought some fruits, which remained untouched upon the altar.
 He was thereupon filled with envy and hatred toward his brother, but
 knew not how he might destroy his life.<span
-id="page_43_fr_*"></span>[\*](#page_43_note_*)
+id="page_43_fr_*"></span>[\*](#page_43_note_*.md)
 
    One day Iblis placed himself in Cain's way as he walked with Abel in
 the field, and seizing a stone, shattered therewith the head of an
@@ -617,7 +617,7 @@ then assumed the shape of a raven, and having killed another raven, dug
 a hole in the earth with his bill, and laying the dead one into it,
 covered it with the earth which he had dug up. Cain did the same with
 his brother,<span
-id="page_43_fr_dagger"></span>[†](#page_43_note_dagger) so that Adam was
+id="page_43_fr_dagger"></span>[†](#page_43_note_dagger.md) so that Adam was
 <span id="page_44">p. 44</span> long in ignorance of the fate of his
 son, and shrunk together through care and sorrow. It was not until he
 had fully learned what had befallen Abel that he resigned himself to the
@@ -700,7 +700,7 @@ Jerusalem. Allah alone is omniscient.
 
 ------------------------------------------------------------------------
 
-[Next](bkt05)
+[Next](bkt05.md)
 
 ------------------------------------------------------------------------
 
@@ -708,11 +708,11 @@ Jerusalem. Allah alone is omniscient.
 
 <span id="footnotes_page_19">p. 19</span>
 
-   <span id="page_19_note_*"></span>[\*](#page_19_fr_*) The hour of Assr
+   <span id="page_19_note_*"></span>[\*](#page_19_fr_*.md) The hour of Assr
 is between noon and evening, and is set apart by the Mussulman for the
 performance of his third daily prayer.
 
-   <span id="page_19_note_dagger"></span>[†](#page_19_fr_dagger)
+   <span id="page_19_note_dagger"></span>[†](#page_19_fr_dagger.md)
 Mohammed, the founder of Islam, was born in 571 A.D., at Mecca, where
 the Kaaba, then an ancient temple, was held in great veneration. In 622
 the idolaters of Mecca compelled him to emigrate to Medina, where he
@@ -721,18 +721,18 @@ und seine Lehre*, &c. Stuttgart, 1843, 8vo.
 
 <span id="footnotes_page_21">p. 21</span>
 
-   <span id="page_21_note_*"></span>[\*](#page_21_fr_*) The Midrash
+   <span id="page_21_note_*"></span>[\*](#page_21_fr_*.md) The Midrash
 Jalkut (Frankfort on the O., 5469), says Rabbi Juda, teaches that the
 world was created on account of the merits of Israel. R. Hosia says it
 was created on account of the Thora (the Law); and R. Barachia, on
 account of the merits of Moses.
 
-   <span id="page_21_note_dagger"></span>[†](#page_21_fr_dagger) The
+   <span id="page_21_note_dagger"></span>[†](#page_21_fr_dagger.md) The
 much-praised One.
 
 <span id="footnotes_page_22">p. 22</span>
 
-   <span id="page_22_note_*"></span>[\*](#page_22_fr_*) When the Lord
+   <span id="page_22_note_*"></span>[\*](#page_22_fr_*.md) When the Lord
 intended to create man, he consulted with the angels, and said to them,
 "We will create man after our image." <span id="footnotes_page_23">p.
 23</span> But they replied, "What is man, that thou art mindful of him?
@@ -746,7 +746,7 @@ aufgenommen, p. 99, &c.)
 
 <span id="footnotes_page_24">p. 24</span>
 
-   <span id="page_24_note_*"></span>[\*](#page_24_fr_*) The idea that
+   <span id="page_24_note_*"></span>[\*](#page_24_fr_*.md) The idea that
 many things existed before the creation of the world is purely Jewish.
 The Mussulmans adopted it. Some of them maintained that the Koran had
 existed before the world, which assertion excited many bloody contests
@@ -759,15 +759,15 @@ world.
 
 <span id="footnotes_page_27">p. 27</span>
 
-   <span id="page_27_note_*"></span>[\*](#page_27_fr_*) One of the
+   <span id="page_27_note_*"></span>[\*](#page_27_fr_*.md) One of the
 rivers of Paradise.
 
 <span id="footnotes_page_39">p. 39</span>
 
-   <span id="page_39_note_*"></span>[\*](#page_39_fr_*) Nine hundred and
+   <span id="page_39_note_*"></span>[\*](#page_39_fr_*.md) Nine hundred and
 thirty years was the lifetime of Adam, according to Gen., v., 3.
 
-   <span id="page_39_note_dagger"></span>[†](#page_39_fr_dagger) The
+   <span id="page_39_note_dagger"></span>[†](#page_39_fr_dagger.md) The
 Lord showed to Adam every future generation, with their heads, sages,
 and scribes. He saw that David was destined <span
 id="footnotes_page_40">p. 40</span> to live only three hours, and said,
@@ -792,7 +792,7 @@ it, and the same was done by the Lord and Metatron.—*Midrash Jalkut*, p.
 
 <span id="footnotes_page_43">p. 43</span>
 
-   <span id="page_43_note_*"></span>[\*](#page_43_fr_*) Cain and Abel
+   <span id="page_43_note_*"></span>[\*](#page_43_fr_*.md) Cain and Abel
 divided the world between them, the one taking possession of the
 movable, and the other of the immovable property. Cain said to his
 brother, "The earth on which thou standest is mine; then betake thyself
@@ -802,7 +802,7 @@ in Abel's death. R. Huna teaches, They contended for a twin sister of
 Abel's: the latter claimed her because she was born with him; but Cain
 pleaded his right of primogeniture.—*Midrash*, p. 11.
 
-   <span id="page_43_note_dagger"></span>[†](#page_43_fr_dagger) The dog
+   <span id="page_43_note_dagger"></span>[†](#page_43_fr_dagger.md) The dog
 which had watched Abel's flocks guarded also his corpse, protecting it
 against the beasts and birds of prey. Adam and Eve sat beside it, and
 wept, not knowing what to do. But a raven, whose friend had died, said,

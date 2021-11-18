@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe350)  [Next](prwe352) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe350)  [Next](prwe352.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ Echoes of Old Cornwall
 
 ------------------------------------------------------------------------
 
-[Next: Millington of Pengerswick](prwe352)
+[Next: Millington of Pengerswick](prwe352.md)

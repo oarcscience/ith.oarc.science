@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp21) 
-[Next](alp23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp21.md) 
+[Next](alp23.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,12 +22,12 @@
 SWEET slumber now creeps o’er thee slow,  
 Sweet breezes rock thee to and fro:  
 My baby sleeps, so soft and low  
-With sweetest songs I'll sing *oror*. <span id="fr_4"></span>[1](#fn_4)
+With sweetest songs I'll sing *oror*. <span id="fr_4"></span>[1](#fn_4.md)
 
 *Baby*
 
 O Mother dear, thou art unkind  
-My sleepless eyes so long to bind. <span id="fr_5"></span>[2](#fn_5)  
+My sleepless eyes so long to bind. <span id="fr_5"></span>[2](#fn_5.md)  
 Anon I'll rest, and sleep resigned;--  
 Release me now, sing not *oror*.
 
@@ -81,12 +81,12 @@ All night, all night sing me *oror!* 
 
 ### Footnotes
 
-<span id="fn_4"></span>[21:1](alp22.htm#fr_4) *Oror*--lullaby.
+<span id="fn_4"></span>[21:1](alp22.htm#fr_4.md) *Oror*--lullaby.
 
-<span id="fn_5"></span>[21:2](alp22.htm#fr_5) Armenian babies have their
+<span id="fn_5"></span>[21:2](alp22.htm#fr_5.md) Armenian babies have their
 eyes bandaged when they are put to sleep, and they are tied into their
 cradles.
 
 ------------------------------------------------------------------------
 
-[Next: Ara and Semiramis](alp23)
+[Next: Ara and Semiramis](alp23.md)

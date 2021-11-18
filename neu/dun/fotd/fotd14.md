@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lord Dunsany](../index)  [Index](index) 
-[Previous](fotd13)  [Next](fotd15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lord Dunsany](../index)  [Index](index.md) 
+[Previous](fotd13)  [Next](fotd15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SWBC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SWBC/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fifty-one Tales*, by Lord Dunsany, \[1915\], at Intangible Textual
 Heritage
 
@@ -42,6 +42,6 @@ sick and too long had troubled the fields was sore in need of him.
 
 ------------------------------------------------------------------------
 
-[Next: The Little City](fotd15)
+[Next: The Little City](fotd15.md)
 
 </div>

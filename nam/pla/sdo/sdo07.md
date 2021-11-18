@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo06)  [Next](sdo08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo06)  [Next](sdo08.md) 
 
 ------------------------------------------------------------------------
 
@@ -333,4 +333,4 @@ camp for dancing the Sun Dance.
 
 ------------------------------------------------------------------------
 
-[Next: Secret Instructions for a Shaman](sdo08)
+[Next: Secret Instructions for a Shaman](sdo08.md)

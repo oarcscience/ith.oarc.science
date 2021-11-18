@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste06)  [Next](ste08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste06)  [Next](ste08.md) 
 
 ------------------------------------------------------------------------
 
@@ -604,4 +604,4 @@ proceed to the Second which is more particular.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](ste08)
+[Next: Chapter V](ste08.md)

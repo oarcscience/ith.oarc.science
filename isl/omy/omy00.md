@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](omy01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](omy01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -57,16 +57,16 @@ Reprint of the First edition 1969 \[This etext.\]
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](omy01)
+[Next: Dedication](omy01.md)

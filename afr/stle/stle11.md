@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Egypt](../../egy/index)  [Index](index)  [Previous](stle10) 
-[Next](stle12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Egypt](../../egy/index)  [Index](index)  [Previous](stle10.md) 
+[Next](stle12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stolen Legacy*, by George G. M. James, \[1954\], at Intangible Textual
 Heritage
 
@@ -34,7 +34,7 @@ First comes the Singer Odus, bearing an instrument of music. He has to
 know by heart two of the books of Hermes; one containing the hymns of
 the Gods, and the other, the allotment of the king's life. Next comes
 the Horoscopus, carrying in his hand a horologium or sun-dial, and a
-palm branch; the symbols of [Astronomy](errata.htm#9). He has to know
+palm branch; the symbols of [Astronomy](errata.htm#9.md). He has to know
 four of the books of Hermes, which deal with Astronomy.
 
 Next comes the Hierogrammat, with feathers on his head, and a book in
@@ -227,10 +227,10 @@ myths and parables.
 The Priests of Egypt were also Lawyers, Judges, officials of government,
 Business Men and Sailors and Captains. Hence, they must have been
 trained in Economics, Civics, Law, Government, Statistics,
-[census](errata.htm#10) taking, navigation, ship building, military
+[census](errata.htm#10.md) taking, navigation, ship building, military
 science, the manufacture of chariots and horse breeding.
 
-If we compare 3A [with](errata.htm#11) 3B which immediately follows, we
+If we compare 3A [with](errata.htm#11.md) 3B which immediately follows, we
 would discover that the curriculum of the Egyptian Mystery System
 covered a much wider range of scientific subjects than those of
 Aristotle's list, which it includes.
@@ -289,4 +289,4 @@ System.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII: The Memphite Theology is the Basis of all Important
-Doctrines in Greek Philosophy](stle12)
+Doctrines in Greek Philosophy](stle12.md)

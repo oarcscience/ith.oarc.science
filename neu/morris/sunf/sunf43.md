@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf42)  [Next](sunf44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf42)  [Next](sunf44.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -110,6 +110,6 @@ they guested in a fair thorp in good enough welcome.
 ------------------------------------------------------------------------
 
 [Next: Chapter XLII. They Deliver the Thorp-Dwellers from the Black
-Skinners](sunf44)
+Skinners](sunf44.md)
 
 </div>

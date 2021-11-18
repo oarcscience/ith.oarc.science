@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](yom12)  [Next](yom14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](yom12)  [Next](yom14.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -340,7 +340,7 @@ R. Mnashia b. Ta'hlipha said in the name of R. Amram, quoting Rabha
 bar bar Hana, R. Eleazar was asked, an Elder, who sat in the college,
 has he to receive permission from the Nassi to declare the firstlings
 which have got blemishes fit for slaughtering for personal use, or
-not? <span id="fr_26"></span>[1](#fn_26) \[What was the point of the
+not? <span id="fr_26"></span>[1](#fn_26.md) \[What was the point of the
 question the schoolmen have propounded? (Why is the question only about
 the firstlings? If he has license to decide Halakhas, those about
 firstlings are included?) The point of the question was this: R. Idda b.
@@ -850,7 +850,7 @@ breathing, no further examination is needed, as it is written \[Gen.
 vii. 22\]: "All in whose nostrils was the breath of life." It happened
 long ago that R. Ishmael, R. Aqiba, and R. Eliezer b. Azariah were on
 the road; and Levi, the Sadar, or Sarad, <span
-id="fr_27"></span>[1](#fn_27) and R. Ishmael the son of R. Eliezer b.
+id="fr_27"></span>[1](#fn_27.md) and R. Ishmael the son of R. Eliezer b.
 Azariah followed them. They were asked the following question: How is it
 known that, when life is in danger, Sabbath may be violated? R. Ishmael
 answered: It is written \[Ex. xxii. 2\]: "If a thief be found while
@@ -949,7 +949,7 @@ clear of sins," how is it to be understood? That is as we have learned
 in the following Boraitha: R. Elazar said: We cannot say it means, He
 clears of sins, because it is written further, "by no means" does He
 clear. We cannot say, He does not, because it is written "clear of
-sins." <span id="fr_28"></span>[1](#fn_28) We must therefore
+sins." <span id="fr_28"></span>[1](#fn_28.md) We must therefore
 
 <span id="page_134">p. 134</span>
 
@@ -1025,7 +1025,7 @@ R. Jehudah finds a contradiction: In these verses it is written,
 become your husband and will take you." It presents no difficulty.
 Children they are called, when they do penance out of love or fear; and
 otherwise, when they do it through suffering. <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 R. Levi said. Penitence is great. It reaches the throne of His glory, as
 it is written \[Hosea xiv. 2\]: "Return, O Israel, even unto the Lord
@@ -1073,7 +1073,7 @@ voluntarily."
 We have learned in a Boraitha: R. Meir used to say: Repentance is great:
 when an individual repents, the whole world is pardoned, as it is
 written: "I will heal their backsliding, I will love them freely; for my
-anger is turned away from them." <span id="fr_30"></span>[1](#fn_30) It
+anger is turned away from them." <span id="fr_30"></span>[1](#fn_30.md) It
 is not said from them, but from us, from all of us.
 
 What is a penitent man? Said R. Jehudah: When he had an opportunity to
@@ -1292,7 +1292,7 @@ as prayers the seven benedictions, and confess. The same one does in the
 morning, and also in the additional prayer, the seven benedictions, and
 confessions; the same in the "concluding prayer": but in the evening one
 shall say as prayers seven of the eighteen week-day benedictions. <span
-id="fr_31"></span>[1](#fn_31) R. Hanina b.
+id="fr_31"></span>[1](#fn_31.md) R. Hanina b.
 
 <span id="page_142">p. 142</span>
 
@@ -1315,7 +1315,7 @@ END OF TRACT YOMAH.
 
 ### Footnotes
 
-<span id="fn_26"></span>[119:1](yom13.htm#fr_26) The law of firstlings,
+<span id="fn_26"></span>[119:1](yom13.htm#fr_26.md) The law of firstlings,
 after the destruction of the Temple, is as follows: The firstling must
 be given to a priest, who has to keep it until it gets a blemish. And as
 he was suspected of making a blemish intentionally, it could not be
@@ -1323,21 +1323,21 @@ slaughtered unless examined by the rabbi of the city. The latter,
 however, has no right to decide such a question unless he gets
 permission from the Nassi.
 
-<span id="fn_27"></span>[131:1](yom13.htm#fr_27) According to one
+<span id="fn_27"></span>[131:1](yom13.htm#fr_27.md) According to one
 "Aruch," it is the maker of the clothes of service (Bigde S'rad).
 
-<span id="fn_28"></span>[133:1](yom13.htm#fr_28) The literal translation
+<span id="fn_28"></span>[133:1](yom13.htm#fr_28.md) The literal translation
 is: "And clear he will not clear."
 
-<span id="fn_29"></span>[135:1](yom13.htm#fr_29) The passage is
+<span id="fn_29"></span>[135:1](yom13.htm#fr_29.md) The passage is
 difficult, and Rashi is also uncertain.
 
-<span id="fn_30"></span>[136:1](yom13.htm#fr_30) The Hebrew for "from
+<span id="fn_30"></span>[136:1](yom13.htm#fr_30.md) The Hebrew for "from
 them" is "Mehem," but here "Mimenu" ("from us") is used.
 
-<span id="fn_31"></span>[141:1](yom13.htm#fr_31) What the seven of the
+<span id="fn_31"></span>[141:1](yom13.htm#fr_31.md) What the seven of the
 eighteen are, will be explained in Tract Berachoth.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](yom14)
+[Next: Appendix](yom14.md)

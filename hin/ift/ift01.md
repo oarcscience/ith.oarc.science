@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift00) 
-[Next](ift02) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift00.md) 
+[Next](ift02.md) 
 
 ------------------------------------------------------------------------
 
@@ -130,4 +130,4 @@ JOSEPH JACOBS.
 
 ------------------------------------------------------------------------
 
-[Next: The Lion and the Crane](ift02)
+[Next: The Lion and the Crane](ift02.md)

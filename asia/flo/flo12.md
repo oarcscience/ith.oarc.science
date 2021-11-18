@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flo11)  [Next](flo13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flo11)  [Next](flo13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859581994/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859581994/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folklore and Legends: Oriental*, by Charles John Tibbitts, \[1889\], at
 Intangible Textual Heritage
 
@@ -91,7 +91,7 @@ and the time was approaching in this country when the fields were
 watered, but the crocodiles prevented this. The crocodiles frequented a
 marsh at the source of the river, and would not allow the water to
 stream forth until such times as a Son of the Tiger-year <span
-id="fr_1"></span>[1](#fn_1) had been offered to them as food. After a
+id="fr_1"></span>[1](#fn_1.md) had been offered to them as food. After a
 time it happened
 
 <span id="page_92">p. 92</span>
@@ -230,10 +230,10 @@ Thus Ssidi's fifth relation treats of Sunshine and his brother.
 
 ### Footnotes
 
-<span id="fn_1"></span>[91:1](flo12.htm#fr_1) Among the Calmucs every
+<span id="fn_1"></span>[91:1](flo12.htm#fr_1.md) Among the Calmucs every
 year has its peculiar name, and persons born in any year are called the
 children of that year.
 
 ------------------------------------------------------------------------
 
-[Next: The Wonderful Man Who Overcame the Chan](flo13)
+[Next: The Wonderful Man Who Overcame the Chan](flo13.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg92)  [Next](btg94) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg92)  [Next](btg94.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ edification, he rose from his seat and departed thence.
 
 ------------------------------------------------------------------------
 
-[Next: The Buddha's Farewell](btg94)
+[Next: The Buddha's Farewell](btg94.md)

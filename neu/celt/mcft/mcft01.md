@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mcft00)  [Next](mcft02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mcft00)  [Next](mcft02.md) 
 
 ------------------------------------------------------------------------
 
@@ -317,4 +317,4 @@ were written in runes. And that is the fate of the children of Lir.
 
 ------------------------------------------------------------------------
 
-[Next: Jack the Cunning Thief](mcft02)
+[Next: Jack the Cunning Thief](mcft02.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa75)  [Next](psa77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa75)  [Next](psa77.md) 
 
 ------------------------------------------------------------------------
 
@@ -145,7 +145,7 @@ death."
 O great king! having thus spoken, all the Rajas seizing their weapons,
 rose up and rushed towards Sissoopal to kill him. Shree Krishnù Chund,
 the root of joy, then prevented them, and said, "Do not use your
-[arms](errata.htm#21) against him, stand here and look on, he will bring
+[arms](errata.htm#21.md) against him, stand here and look on, he will bring
 destruction on himself presently, I will tolerate a hundred offences in
 him, because I have agreed to do so; but I will not tolerate more than a
 hundred, and therefore I have been drawing these lines."
@@ -219,4 +219,4 @@ joy was diffused throughout the city.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXVI](psa77)
+[Next: Chapter LXXVI](psa77.md)

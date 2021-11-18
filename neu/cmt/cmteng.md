@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index)  [Sagas and Legends](../index) 
+[Sacred-Texts](../../index)  [Sagas and Legends](../index.md) 
 
 ------------------------------------------------------------------------
 

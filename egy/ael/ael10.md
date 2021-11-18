@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index) 
-[Index](index)  [Previous](ael09)  [Next](ael11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index.md) 
+[Index](index)  [Previous](ael09)  [Next](ael11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Egyptian Legends*, by M. A. Murray, \[1920\], at Intangible
 Textual Heritage
 
@@ -81,4 +81,4 @@ Horus the earth blossomed, and thunderclouds and rain were blotted out.
 
 ------------------------------------------------------------------------
 
-[Next: VIII: The Battles of Horus](ael11)
+[Next: VIII: The Battles of Horus](ael11.md)

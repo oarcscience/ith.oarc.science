@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tsoa10)  [Next](tsoa12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tsoa10)  [Next](tsoa12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Ages*, by Robert Collier, \[1926\], at Intangible
 Textual Heritage
 
@@ -111,4 +111,4 @@ PAGE
 
 ------------------------------------------------------------------------
 
-[Next: V. Aladdin & Company](tsoa12)
+[Next: V. Aladdin & Company](tsoa12.md)

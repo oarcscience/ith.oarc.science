@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Next](tes01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Next](tes01.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](tes01)
+[Next: Introduction](tes01.md)

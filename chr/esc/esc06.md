@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc05)  [Next](esc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc05)  [Next](esc07.md) 
 
 ------------------------------------------------------------------------
 
@@ -612,4 +612,4 @@ revelation of God,) that that day shall overtake you as a thief." 
 
 ------------------------------------------------------------------------
 
-[Next: Lecture V. Pagan Rome Numbered](esc07)
+[Next: Lecture V. Pagan Rome Numbered](esc07.md)

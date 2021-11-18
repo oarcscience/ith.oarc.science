@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp40)  [Next](dtp42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp40)  [Next](dtp42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ that soul of love, Jesus. Indifference, sloth, despair, these can have
 no room in a soul which scans so absorbing a vista as that open to Mol
 Lang, yet so loving a soul that, like Jesus and Gautama, perfect
 willingness existed to turn from such sublime reward in order that they
-might lead their least [brethren](errata.htm#22) thither also. You may
+might lead their least [brethren](errata.htm#22.md) thither also. You may
 say that such love as this is not animal when I say it is not human.
 Right. But it is spiritual; it is that love which only those know who
 have begun to tread the Path, knowing within the soul the advent of the
@@ -56,7 +56,7 @@ shall give him a half-hour's amusement; such is not my aim. This book is
 a work of love, done for a sacred purpose. The second coming of Christ
 is upon the world, not only as a time simultaneously arriving for all,
 but also unto each human soul as it becomes ready to receive Him in the
-heart, and do His work. <span id="fr_25"></span>[1](#fn_25) He is at
+heart, and do His work. <span id="fr_25"></span>[1](#fn_25.md) He is at
 hand now in the sense that if you will open your soul to receive His
 spirit, He is there to enter in. Truly, of the moment He comes to His
 own no man can tell the day or the hour; yet I say, tarry not for Him as
@@ -67,7 +67,7 @@ rule of life; and as the Christ and Father are One, so therefore shall
 you that hear and attend be glorified, and presently arise, depart from
 tide world, and go unto the Life. Who hath ears to hear, let him hear.
 Likewise He shall come as a person at the last. <span
-id="fr_26"></span>[2](#fn_26)
+id="fr_26"></span>[2](#fn_26.md)
 
 I certainly have strange things to relate, but nothing weird, unreal or
 sensational. That which I say is from my Father, and can lead the
@@ -315,7 +315,7 @@ and to sin which the ordinary man meets distributed through many, many
 incarnations, covering ages, aye, aeonian time. In the one case the
 Father giveth sufficient of the daily bread of strength unto men to
 enable them to progress very slowly, but with certitude. In the other,
-all the splendid reserve of [resistant](errata.htm#23) force of a
+all the splendid reserve of [resistant](errata.htm#23.md) force of a
 
 <span id="page_329">p. 329</span>
 
@@ -334,7 +334,7 @@ the utmost and did not fail, therefore their victory was greater than
 Lucifer's failure, and when thou shalt come to a trial like his, thou'lt
 doubtless succeed; though, again, thou mayest fail. There is but *one*
 Guide; follow and win; *follow* not, and fail. <span
-id="fr_27"></span>[1](#fn_27) It is a new conception to thee to learn
+id="fr_27"></span>[1](#fn_27.md) It is a new conception to thee to learn
 there is an animating ego, a world spirit, inmateriated in each star,
 each planet, every stellar body, just as there is an individual soul in
 each human, animal or plant body. Yet this is true. True also it is that
@@ -348,7 +348,7 @@ existence is a state of Being which no human mind could understand,
 except inferentially it do so through the knowledge that that state is
 to Life as the senior to the junior. But ere then is the *trial of
 transfiguration*; to it my father hath come, I have not. If we fail,
-then that is the second death, <span id="fr_28"></span>[2](#fn_28) but
+then that is the second death, <span id="fr_28"></span>[2](#fn_28.md) but
 meet it we must, humanity must. But it is long ere then, for it cometh
 not until the essaying soul be perfect, and be ready to leave the
 pupaceous state of Human Life,
@@ -363,7 +363,7 @@ only to lose it again. None the less I was eager to have him go on,
 fancying I understood, just as every Person you or I know is fond of
 thinking his or her comprehension of abstruse subjects perfect. Sohma
 smiled and said in reply that, when he was done, all that I would have
-gained would be the [psychic](errata.htm#24) bent favoring my progress,
+gained would be the [psychic](errata.htm#24.md) bent favoring my progress,
 for I was destined to forget the very ideas I fancied I was gaining. But
 he continued, observing that a favorable prejudice was a worthy thing,
 calling for his best effort for me.
@@ -381,7 +381,7 @@ will be gathered into the sum of force, the 'Fire' element, that which
 is sum of all lesser force forms, out of which springeth life, heat and
 vibration. But this will not be until the erring one hath passed from
 his soul into his spirit. So the 'second death' <span
-id="fr_29"></span>[1](#fn_29) is not of the sinner; it is the cutting
+id="fr_29"></span>[1](#fn_29.md) is not of the sinner; it is the cutting
 off of all his, or her, spoiled work, and a chance to begin again, to
 build better; our Father damneth not His child, but only the imperfect
 work, the sinning soul. In our library thou canst see a book brought
@@ -631,7 +631,7 @@ planted seeds, and then, completing the symbol, the flames rose above
 the area sown.
 
 "Behold, Phylos! If I have but the seed, the herb shall come forth after
-its kind. <span id="fr_30"></span>[1](#fn_30) But if I have not the
+its kind. <span id="fr_30"></span>[1](#fn_30.md) But if I have not the
 seed, my poor, human soul wisdom could not make that herb grow. Mol Lang
 could, being transfigured. Having seed, I can bring God's Viviant Fire
 to aid its germination--see! it sprouts; and again watch it--it grows
@@ -658,18 +658,18 @@ the Spirit, for no man knoweth the day nor hour thereof.
 
 ### Footnotes
 
-<span id="fn_25"></span>[322:1](dtp41.htm#fr_25) Luke xxi; 34, 35, 36.
+<span id="fn_25"></span>[322:1](dtp41.htm#fr_25.md) Luke xxi; 34, 35, 36.
 
-<span id="fn_26"></span>[322:2](dtp41.htm#fr_26) Mark xiii, 26.
+<span id="fn_26"></span>[322:2](dtp41.htm#fr_26.md) Mark xiii, 26.
 
-<span id="fn_27"></span>[329:1](dtp41.htm#fr_27) John xvi; 13.
+<span id="fn_27"></span>[329:1](dtp41.htm#fr_27.md) John xvi; 13.
 
-<span id="fn_28"></span>[329:2](dtp41.htm#fr_28) Rev. xx; 13, 15.
+<span id="fn_28"></span>[329:2](dtp41.htm#fr_28.md) Rev. xx; 13, 15.
 
-<span id="fn_29"></span>[330:1](dtp41.htm#fr_29) Rev. xx, 13-15.
+<span id="fn_29"></span>[330:1](dtp41.htm#fr_29.md) Rev. xx, 13-15.
 
-<span id="fn_30"></span>[337:1](dtp41.htm#fr_30) Genesis, i, 12.
+<span id="fn_30"></span>[337:1](dtp41.htm#fr_30.md) Genesis, i, 12.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: The Desert Is Before Thy Feet](dtp42)
+[Next: Chapter VII: The Desert Is Before Thy Feet](dtp42.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl003)  [Next](cohl005) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl003)  [Next](cohl005.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ That is the answer; it is a thing of the heart--who can change it?
 ------------------------------------------------------------------------
 
 [Next: How the White Race Came to America and why The Gaiwiio Became a
-Necessity](cohl005)
+Necessity](cohl005.md)

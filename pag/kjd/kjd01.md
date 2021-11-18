@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Wicca and
-Paganism](../index)  [Index](index)  [Previous](kjd00)  [Next](kjd02) 
+[Intangible Textual Heritage](../../index.md)  [Wicca and
+Paganism](../index)  [Index](index)  [Previous](kjd00)  [Next](kjd02.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ G. B. HARRISON.
 
 ------------------------------------------------------------------------
 
-[Next: Dæmonologie - Original Title Page](kjd02)
+[Next: Dæmonologie - Original Title Page](kjd02.md)

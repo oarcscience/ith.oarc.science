@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs18)  [Next](abs20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs18)  [Next](abs20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -232,15 +232,15 @@ three are displayed among the photographs.\] These I have numbered Figs.
 published by Prof. Teizo Ogawa of Tokyo University; the third was
 photographed by I do not know whom.
 
-[Fig. 2](abs04.htm#img_pl02) has rather broadly flattened metacarpals.
+[Fig. 2](abs04.htm#img_pl02.md) has rather broadly flattened metacarpals.
 The thumb is complete; the 2nd finger has only the basal phalange; the
 3rd finger is complete; the 4th and 5th fingers are missing.
 
-[Fig. 4](abs04.htm#img_pl04) has the thumb complete; the 2nd and 3rd
+[Fig. 4](abs04.htm#img_pl04.md) has the thumb complete; the 2nd and 3rd
 fingers complete; the 4th with a small basal piece of the first phalange
 only; and a complete 5th finger.
 
-[Fig. 3](abs04.htm#img_pl03) has a complete thumb; \[possibly\] two
+[Fig. 3](abs04.htm#img_pl03.md) has a complete thumb; \[possibly\] two
 joints on the 2nd finger; a complete 3rd finger; and apparently no
 phalanges at all on the 4th and 5th.
 
@@ -260,12 +260,12 @@ hominid hands. The most notable is
 <span id="page_335">p. 335</span>
 
 <span class="contnote">\[paragraph continues\]</span> [Fig.
-1](abs04.htm#img_pl01), in which the metacarpals do, indeed, seem to be
+1](abs04.htm#img_pl01.md), in which the metacarpals do, indeed, seem to be
 very wide and flattened.
 
 5\. Scalps are preserved at places usually written Pangboche,
 Namche-Bazar, and Khumjung. There may be another at Thyangboche. <span
-id="fr_46"></span>[\*](#fn_45) As of the time of writing, that from
+id="fr_46"></span>[\*](#fn_45.md) As of the time of writing, that from
 Khumjung has been demonstrated by both blood and hair analysis to have
 been made from the shoulder-patch of a hoofed animal of the goat family
 known as the Himalayan Serow (*Capricornis sumatrensis thar*). Sir
@@ -390,7 +390,7 @@ a fowl, and then ate the rest raw.
 The Californian droppings are an altogether different matter, and I
 express myself this way advisedly. First, the individual piles of
 droppings are of enormous size, some (as that shown in [Figures
-10](abs04.htm#img_pl10) and [11](abs04.htm#img_pl11)) being, as the
+10](abs04.htm#img_pl10) and [11](abs04.htm#img_pl11).md) being, as the
 ruler indicates, over 2 feet long. This was not an accumulation, all its
 parts being obviously of the same age. \[Porcupines sometimes create
 toilets that they visit regularly and add to for long periods.\] Their
@@ -579,7 +579,7 @@ some sense if these creatures really exist and are sub-hominids. One of
 the most terrible ordeals to have to undergo is to live with the nice
 little Pigmies of the Ituri Forests of the Congo Uele. They give off a
 smell that amounts to an overpowering stench and which is, to us,
-absolutely nauseating. <span id="fr_47"></span>[\*](#fn_46) After many
+absolutely nauseating. <span id="fr_47"></span>[\*](#fn_46.md) After many
 years of collecting wild animals and living with them, both in their
 native haunts and in captivity, I can tell quite a number of them down
 even to species, and blindfolded, simply by passing by their cage and
@@ -850,11 +850,11 @@ unearth.
 
 ### Footnotes
 
-<span id="fn_45"></span>[335:\*](abs19.htm#fr_46) The correct
+<span id="fn_45"></span>[335:\*](abs19.htm#fr_46.md) The correct
 transliteration of these is Bhang-Bodzhei, Namdzhei-Bazaar,
 Khumh-Dzhungh, and Dhyangh-Bodzhei.
 
-<span id="fn_46"></span>[343:\*](abs19.htm#fr_47) This they do not
+<span id="fn_46"></span>[343:\*](abs19.htm#fr_47.md) This they do not
 "mean" to do; and it is really no discredit to them. Negroes say that
 Whites smell like boiled, not too fresh, rabbit; some Whites say that
 Negroes smell awful, even to the fourth generation; and peoples who eat
@@ -867,4 +867,4 @@ animals stink.
 
 ------------------------------------------------------------------------
 
-[Next: 16. Our Revered Ancestors](abs20)
+[Next: 16. Our Revered Ancestors](abs20.md)

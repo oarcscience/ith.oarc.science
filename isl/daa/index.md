@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766106071/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766106071/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766106071/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](daa00)    [Page
-Index](pageidx)    [Text \[Zipped\]](daa.txt.gz)
+[Contents](#contents)    [Start Reading](daa00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](daa.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -55,10 +55,10 @@ Necessity.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](daa00)  
-[Dedication](daa01)  
-[Table of Contents](daa02)  
-[Editorial Note](daa03)  
-[Introduction to the Diwan](daa04)  
-[The Diwan of Abu’l-Ala](daa05)  
-[Appendix](daa06)  
+<span id="contents"></span> [Title Page](daa00.md)  
+[Dedication](daa01.md)  
+[Table of Contents](daa02.md)  
+[Editorial Note](daa03.md)  
+[Introduction to the Diwan](daa04.md)  
+[The Diwan of Abu’l-Ala](daa05.md)  
+[Appendix](daa06.md)  

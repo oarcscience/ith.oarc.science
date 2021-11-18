@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs23)  [Next](abs25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs23)  [Next](abs25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -354,7 +354,7 @@ noticeable among those who have written of the Himalayan region. Almost
 everyone who has been there has reported something concrete and definite
 about ABSMs, be they geographers like Ronald Kaulbach, mountaineers like
 Eric Shipton and Sir Edmund Hillary, <span
-id="fr_56"></span>[\*](#fn_53) doctors, anthropologists, political and
+id="fr_56"></span>[\*](#fn_53.md) doctors, anthropologists, political and
 forestry officers, and all manner of other specialists such as have
 already been mentioned. At this juncture, I should point out that few of
 the scientific "skeptics" have ever been within sight of the Himalayas
@@ -566,9 +566,9 @@ of a book, and all I ask now is that you draw your own conclusions.
 
 ### Footnotes
 
-<span id="fn_53"></span>[444:\*](abs24.htm#fr_56) Hillary's early
+<span id="fn_53"></span>[444:\*](abs24.htm#fr_56.md) Hillary's early
 reports, that is.
 
 ------------------------------------------------------------------------
 
-[Next: Contents of Appendices](abs25)
+[Next: Contents of Appendices](abs25.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob36) 
-[Next](tob38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob36.md) 
+[Next](tob38.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob36) 
 
 <span id="img_wiar19"></span>
 
-![THE SUN.](img/wiar19.jpg)  
+![THE SUN.](img/wiar19.jpg.md)  
 THE SUN.
 
    <span id="img_msar19"></span>
 
-![THE SUN.](img/msar19.jpg)  
+![THE SUN.](img/msar19.jpg.md)  
 THE SUN.
 
 19\. ק
@@ -113,4 +113,4 @@ The Sun.
 
 ------------------------------------------------------------------------
 
-[Next: 20. The Judgement](tob38)
+[Next: 20. The Judgement](tob38.md)

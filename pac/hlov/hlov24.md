@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov23)  [Next](hlov25) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov23)  [Next](hlov25.md) 
 
 ------------------------------------------------------------------------
 
@@ -156,4 +156,4 @@ eruption ceased in a day or so.
 
 ------------------------------------------------------------------------
 
-[Next: XX. Kapiolani and Pele](hlov25)
+[Next: XX. Kapiolani and Pele](hlov25.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub33) 
-[Next](jub35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub33.md) 
+[Next](jub35.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ year in the life of Abram.
 ------------------------------------------------------------------------
 
 [Next: The Feast of First-fruits Circumcision instituted. The Promise of
-Isaac's Birth. Circumcision ordained for all Israel (xv. 1-34)](jub35)
+Isaac's Birth. Circumcision ordained for all Israel (xv. 1-34)](jub35.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/twt)  [Previous](../twn/twn) 
-[Next](../vaa/vaa) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/twt)  [Previous](../twn/twn.md) 
+[Next](../vaa/vaa.md) 
 
 ------------------------------------------------------------------------
 
@@ -4654,4 +4654,4 @@ Index](../index)  [First Folio](../ff/twt)  [Previous](../twn/twn) 
 
 ------------------------------------------------------------------------
 
-[Next: Venus and Adonis](../vaa/vaa) 
+[Next: Venus and Adonis](../vaa/vaa.md) 

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml18)  [Next](iml20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml18)  [Next](iml20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ city of Indra, and it was
 
 <span id="page_225">p. 225</span>
 
-called Indra-prastha. <span id="fr_246"></span>[1](#fn_245) High walls,
+called Indra-prastha. <span id="fr_246"></span>[1](#fn_245.md) High walls,
 which resembled the Mandara mountains, were built round about, and these
 were surrounded by a deep moat wide as the sea.
 
@@ -90,7 +90,7 @@ power to render himself invisible in water. A child was born unto them,
 and he was named Iravat.
 
 Thereafterwards Arjuna went southwards until he came to the Mahendra
-mountain. <span id="fr_247"></span>[1](#fn_246) He was received there by
+mountain. <span id="fr_247"></span>[1](#fn_246.md) He was received there by
 Parasu Rama, the Brahman hero, who gave him gifts of powerful weapons,
 and imparted to him the secret of using them.
 
@@ -105,7 +105,7 @@ was named Chitrangada. Thereafter Arjuna set out on his wanderings once
 more.
 
 He passed through many strange lands, travelling westward, and at length
-he reached the city of Prabhása <span id="fr_248"></span>[2](#fn_247),
+he reached the city of Prabhása <span id="fr_248"></span>[2](#fn_247.md),
 which is nigh to Dwáraká, on the southern sea, the capital of his
 kinsman Krishna, rajah of the Yádhavas.
 
@@ -118,7 +118,7 @@ palace. Then he gave a great feast on
 
 [![ARJUNA AND THE RIVER NYMPH&lt;br&gt; &lt;i&gt;From the painting by
 Warwick Goble&lt;/i&gt;.](tn/22600.jpg)  
-Click to enlarge](img/22600.jpg)  
+Click to enlarge](img/22600.jpg.md)  
 ARJUNA AND THE RIVER NYMPH  
 *From the painting by Warwick Goble*.  
 
@@ -128,7 +128,7 @@ ARJUNA AND THE RIVER NYMPH
 
 the holy mountain of Raivataka, which lasted for two days. Arjuna looked
 with love upon Krishna's fair sister, Subhadra <span
-id="fr_249"></span>[1](#fn_248), a girl of sweet smiles, and desired her
+id="fr_249"></span>[1](#fn_248.md), a girl of sweet smiles, and desired her
 for a bride.
 
 Now it was the wish of Balarama that Subhadra should he given unto
@@ -149,7 +149,7 @@ sister unto him without my consent. But let the deed be upon his own
 head, for I will pursue him and slay him and his brethren, one and all."
 
 Said Krishna: "Arjuna is our kinsman <span
-id="fr_250"></span>[2](#fn_249) and of noble birth, and is a worthy
+id="fr_250"></span>[2](#fn_249.md) and of noble birth, and is a worthy
 husband for Subhadra. If thou wilt pursue him and bring back our sister,
 no one else will marry her now because that she hath been in the house
 of another. Better were it that we should send messengers after Arjuna
@@ -186,7 +186,7 @@ Pritha both were very dear.
 
 Now Draupadi became the mother of five sons to her five husbands; and
 Subhadra had one son only, and his name was Abhimanyu <span
-id="fr_251"></span>[1](#fn_250), who in the years that followed was an
+id="fr_251"></span>[1](#fn_250.md), who in the years that followed was an
 illustrious warrior.
 
 As time went on, the Pandavas grew more and more powerful. They waged
@@ -206,14 +206,14 @@ he hath slaughtered those who were our kinsmen dear."
 Now this rajah was of great valour and matchless strength. His body was
 invulnerable against weapons; not even the gods could wound him with
 mace or sword or with arrow. He was also of miraculous birth, for he was
-born of two mothers <span id="fr_252"></span>[1](#fn_251) who had eaten
+born of two mothers <span id="fr_252"></span>[1](#fn_251.md) who had eaten
 of a mantra-charmed mango which fell into the lap of his sire when that
 he was childless and was undergoing penances to obtain offspring. Nor
 did the babe come to life after birth until he was united by a Rakshasa
 woman, named Jara, the goddess of the household, who, because she was
 worshipped in the palace, performed some good each day in return. <span
-id="fr_253"></span>[2](#fn_252) So the child was called Jarasandha <span
-id="fr_254"></span>[3](#fn_253), which signifies "united by Jara", and
+id="fr_253"></span>[2](#fn_252.md) So the child was called Jarasandha <span
+id="fr_254"></span>[3](#fn_253.md), which signifies "united by Jara", and
 he increased daily like to the moon in its first phase.
 
 Krishna said unto Yudhishthira: "This monarch of Magadha cannot be
@@ -288,7 +288,7 @@ installed him as Rajah of Magadha.
 
 When the great Yudhishthira came to know that Jarasandha had been slain,
 he sent forth his four brethren with great armies to collect tribute
-from every rajah in the world. <span id="fr_255"></span>[1](#fn_254)
+from every rajah in the world. <span id="fr_255"></span>[1](#fn_254.md)
 Some there were among the kings who welcomed them; others had to be
 conquered in battle. But when they had sworn allegiance to Yudhishthira,
 they joined the Pandava force and assisted in achieving further
@@ -315,8 +315,8 @@ Proud Duryodhana and his brethren came also, professing friendship, and
 Karna came with bow and spear and mace. Drona and his son, and their
 enemies Drupada and his son, were there also, and Balarama, Krishna's
 brother, and their father Vasudeva. And among many others were jealous
-Sishupala <span id="fr_256"></span>[1](#fn_255), King of Chedi <span
-id="fr_257"></span>[2](#fn_256), and his son, and both wore bright
+Sishupala <span id="fr_256"></span>[1](#fn_255.md), King of Chedi <span
+id="fr_257"></span>[2](#fn_256.md), and his son, and both wore bright
 golden armour.
 
 Many Brahmans assembled at Indra-prastha, and Krishna honoured them and
@@ -328,7 +328,7 @@ heard continuously on every hand.
 Now there were deep and smouldering jealousies among the assembled
 rajahs, and when the time came to honour him who was regarded as the
 greatest among them by presenting the Arghya <span
-id="fr_258"></span>[3](#fn_257), their passions were set ablaze. First
+id="fr_258"></span>[3](#fn_257.md), their passions were set ablaze. First
 Bhishma spake forth and said that the honour was due to Krishna, the
 pious one, who was the noblest and greatest among them all. "Krishna,"
 he
@@ -390,7 +390,7 @@ to a cliff struck by the thunderbolt. Then the assembled rajahs beheld a
 great wonder, for the passion-cleansed soul of Sishupala issued from his
 body, beautiful as the sun in heaven, and went towards Krishna. Its eyes
 were like to lotus blooms, and its form like to a flame; and it adored
-Krishna and entered into his body. <span id="fr_259"></span>[1](#fn_258)
+Krishna and entered into his body. <span id="fr_259"></span>[1](#fn_258.md)
 
 The rajahs all looked on, silent and amazed, while thunder bellowed out
 of heaven, and lightning flashed, and rain poured down in torrents. Some
@@ -452,48 +452,48 @@ his hands.
 
 ### Footnotes
 
-<span id="fn_245"></span>[225:1](iml19.htm#fr_246) *Pron*.
+<span id="fn_245"></span>[225:1](iml19.htm#fr_246.md) *Pron*.
 indra-prast´ha.
 
-<span id="fn_246"></span>[226:1](iml19.htm#fr_247) In Ganjam district,
+<span id="fn_246"></span>[226:1](iml19.htm#fr_247.md) In Ganjam district,
 Madras.
 
-<span id="fn_247"></span>[226:2](iml19.htm#fr_248) *Pron*. pra-bha´sa.
+<span id="fn_247"></span>[226:2](iml19.htm#fr_248.md) *Pron*. pra-bha´sa.
 
-<span id="fn_248"></span>[227:1](iml19.htm#fr_249) *Pron*. soo-bhad´ra.
+<span id="fn_248"></span>[227:1](iml19.htm#fr_249.md) *Pron*. soo-bhad´ra.
 
-<span id="fn_249"></span>[227:2](iml19.htm#fr_250) Krishna's father,
+<span id="fn_249"></span>[227:2](iml19.htm#fr_250.md) Krishna's father,
 Vasudeva, was the brother of Pritha, mother of Arjuna.
 
-<span id="fn_250"></span>[228:1](iml19.htm#fr_251) *Pron*. ab-hi-mun´yoo
+<span id="fn_250"></span>[228:1](iml19.htm#fr_251.md) *Pron*. ab-hi-mun´yoo
 ("u" as in "bun").
 
-<span id="fn_251"></span>[229:1](iml19.htm#fr_252) In one of the
+<span id="fn_251"></span>[229:1](iml19.htm#fr_252.md) In one of the
 Egyptian temple chants Osiris is called "the progeny of the two cows
 Isis and Nepthys".
 
-<span id="fn_252"></span>[229:2](iml19.htm#fr_253) Like the European
+<span id="fn_252"></span>[229:2](iml19.htm#fr_253.md) Like the European
 household elves and fairies.
 
-<span id="fn_253"></span>[229:3](iml19.htm#fr_254) *Pron*.
+<span id="fn_253"></span>[229:3](iml19.htm#fr_254.md) *Pron*.
 ja-ra-sund´ha.
 
-<span id="fn_254"></span>[231:1](iml19.htm#fr_255) That is, in Northern
+<span id="fn_254"></span>[231:1](iml19.htm#fr_255.md) That is, in Northern
 India.
 
-<span id="fn_255"></span>[232:1](iml19.htm#fr_256) *Pron*.
+<span id="fn_255"></span>[232:1](iml19.htm#fr_256.md) *Pron*.
 sish-oo-pah´la.
 
-<span id="fn_256"></span>[232:2](iml19.htm#fr_257) *Pron*. chay´dee.
+<span id="fn_256"></span>[232:2](iml19.htm#fr_257.md) *Pron*. chay´dee.
 
-<span id="fn_257"></span>[232:3](iml19.htm#fr_258) A gift of fruit or
+<span id="fn_257"></span>[232:3](iml19.htm#fr_258.md) A gift of fruit or
 flowers, like an offering to the image of a god.
 
-<span id="fn_258"></span>[234:1](iml19.htm#fr_259) Krishna represented
+<span id="fn_258"></span>[234:1](iml19.htm#fr_259.md) Krishna represented
 the worshippers of Vishnu, of whom he was an incarnation. Sishupala, who
 was reputed to have been born with three eyes, was an incarnation of
 Shiva. Rukmini was an incarnation of Lakshmi.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. The Great Gambling Match](iml20)
+[Next: Chapter XV. The Great Gambling Match](iml20.md)

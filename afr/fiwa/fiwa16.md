@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa15)  [Next](fiwa17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa15)  [Next](fiwa17.md) 
 
 ------------------------------------------------------------------------
 
@@ -835,4 +835,4 @@ sorts of abambo-is under His control, but He does not often exercise it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: Fetichism--Some of its Practical Effects](fiwa17)
+[Next: Chapter XV: Fetichism--Some of its Practical Effects](fiwa17.md)

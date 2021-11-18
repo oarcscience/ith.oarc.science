@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](awa00)
+[Contents](#contents)    [Start Reading](awa00.md)
 
 ------------------------------------------------------------------------
 
@@ -45,24 +45,24 @@ the original.--JBH
 
 ------------------------------------------------------------------------
 
-[Title Page](awa00)  
-[Preface](awa01)  
-[Introduction](awa02)  
-[Languages](awa03)  
-[Early Accounts](awa04)  
-[Contemporary Accounts](awa05)  
-[Laws of Marriage](awa06)  
-[Land Ownership](awa07)  
-[Law](awa08)  
-[Women](awa09)  
-[Hunting and Gathering](awa10)  
-[Physical Strength](awa11)  
-[Childhood](awa12)  
-[Music](awa13)  
-[Religion and Mythology](awa14)  
-[Funerals](awa15)  
-[Old Testament Parallels](awa16)  
-[Boomerangs](awa17)  
-[Humor](awa18)  
-[Protection of Aborigines](awa19)  
-[Conclusion](awa20)  
+[Title Page](awa00.md)  
+[Preface](awa01.md)  
+[Introduction](awa02.md)  
+[Languages](awa03.md)  
+[Early Accounts](awa04.md)  
+[Contemporary Accounts](awa05.md)  
+[Laws of Marriage](awa06.md)  
+[Land Ownership](awa07.md)  
+[Law](awa08.md)  
+[Women](awa09.md)  
+[Hunting and Gathering](awa10.md)  
+[Physical Strength](awa11.md)  
+[Childhood](awa12.md)  
+[Music](awa13.md)  
+[Religion and Mythology](awa14.md)  
+[Funerals](awa15.md)  
+[Old Testament Parallels](awa16.md)  
+[Boomerangs](awa17.md)  
+[Humor](awa18.md)  
+[Protection of Aborigines](awa19.md)  
+[Conclusion](awa20.md)  

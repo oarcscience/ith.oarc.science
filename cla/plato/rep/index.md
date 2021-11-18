@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plato](../index) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plato](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,61 +11,61 @@
 
 ------------------------------------------------------------------------
 
-[THE INTRODUCTION](rep0000)  
+[THE INTRODUCTION](rep0000.md)  
 
-[ARGUMENT](rep0001)  
-[CHARACTERS](rep0002)  
+[ARGUMENT](rep0001.md)  
+[CHARACTERS](rep0002.md)  
 
-[BOOK I](rep0100)  
+[BOOK I](rep0100.md)  
 
-[SOCRATES - POLEMARCHUS - GLAUCON - ADEIMANTUS](rep0101)  
-[GLAUCON - CEPHALUS - SOCRATES](rep0102)  
-[CEPHALUS - SOCRATES - POLEMARCHUS](rep0103)  
-[SOCRATES - POLEMARCHUS](rep0104)  
-[SOCRATES - POLEMARCHUS - THRASYMACHUS](rep0105)  
-[SOCRATES - THRASYMACHUS - GLAUCON](rep0106)  
-[SOCRATES - CLEITOPHON - POLEMARCHUS - THRASYMACHUS](rep0107)  
-[SOCRATES - THRASYMACHUS](rep0108)  
-[SOCRATES - GLAUCON](rep0109)  
-[SOCRATES - GLAUCON - THRASYMACHUS](rep0110)  
+[SOCRATES - POLEMARCHUS - GLAUCON - ADEIMANTUS](rep0101.md)  
+[GLAUCON - CEPHALUS - SOCRATES](rep0102.md)  
+[CEPHALUS - SOCRATES - POLEMARCHUS](rep0103.md)  
+[SOCRATES - POLEMARCHUS](rep0104.md)  
+[SOCRATES - POLEMARCHUS - THRASYMACHUS](rep0105.md)  
+[SOCRATES - THRASYMACHUS - GLAUCON](rep0106.md)  
+[SOCRATES - CLEITOPHON - POLEMARCHUS - THRASYMACHUS](rep0107.md)  
+[SOCRATES - THRASYMACHUS](rep0108.md)  
+[SOCRATES - GLAUCON](rep0109.md)  
+[SOCRATES - GLAUCON - THRASYMACHUS](rep0110.md)  
 
-[BOOK II](rep0200)  
+[BOOK II](rep0200.md)  
 
-[GLAUCON](rep0201)  
-[SOCRATES - GLAUCON](rep0202)  
-[ADEIMANTUS -SOCRATES](rep0203)  
-[ADEIMANTUS](rep0204)  
-[SOCRATES - ADEIMANTUS](rep0205)  
-[SOCRATES - GLAUCON](rep0206)  
-[SOCRATES - ADEIMANTUS](rep0207)  
+[GLAUCON](rep0201.md)  
+[SOCRATES - GLAUCON](rep0202.md)  
+[ADEIMANTUS -SOCRATES](rep0203.md)  
+[ADEIMANTUS](rep0204.md)  
+[SOCRATES - ADEIMANTUS](rep0205.md)  
+[SOCRATES - GLAUCON](rep0206.md)  
+[SOCRATES - ADEIMANTUS](rep0207.md)  
 
-[BOOK III](rep0300)  
+[BOOK III](rep0300.md)  
 
-[SOCRATES - GLAUCON](rep0301)  
+[SOCRATES - GLAUCON](rep0301.md)  
 
-[BOOK IV](rep0400)  
+[BOOK IV](rep0400.md)  
 
-[SOCRATES - GLAUCON](rep0401)  
+[SOCRATES - GLAUCON](rep0401.md)  
 
-[BOOK V](rep0500)  
+[BOOK V](rep0500.md)  
 
-[SOCRATES - ADEIMANTUS - GLAUCON - THRASYMACHUS](rep0501)  
+[SOCRATES - ADEIMANTUS - GLAUCON - THRASYMACHUS](rep0501.md)  
 
-[BOOK VI](rep0600)  
+[BOOK VI](rep0600.md)  
 
-[SOCRATES - ADEIMANTUS](rep0601)  
-[GLAUCON - SOCRATES](rep0602)  
+[SOCRATES - ADEIMANTUS](rep0601.md)  
+[GLAUCON - SOCRATES](rep0602.md)  
 
-[BOOK VII](rep0700)  
+[BOOK VII](rep0700.md)  
 
-[BOOK VIII](rep0800)  
+[BOOK VIII](rep0800.md)  
 
-[SOCRATES - ADEIMANTUS](rep0801)  
+[SOCRATES - ADEIMANTUS](rep0801.md)  
 
-[BOOK IX](rep0900)  
+[BOOK IX](rep0900.md)  
 
-[SOCRATES - GLAUCON](rep0901)  
+[SOCRATES - GLAUCON](rep0901.md)  
 
-[BOOK X](rep1000)  
+[BOOK X](rep1000.md)  
 
-[SOCRATES](rep1001)  
+[SOCRATES](rep1001.md)  

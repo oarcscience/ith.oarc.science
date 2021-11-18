@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pgr01)  [Next](pgr03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pgr01)  [Next](pgr03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691015147/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691015147/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 The First Two Chapters of *Prolegomena to the Study of Greek Religion*,
 by Jane Ellen Harrison, \[1922\], at Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ art. The 'Dian' fleece, not the 'fleece of Zeus' but the fleece of
 magical purification. Examination of the Attic calendar. The names of
 festivals not connected with the names of Olympian divinities. The
 ritual of these festivals belongs to a more primitive stratum than that
-of the Olympians, pp. [1](pgr03.htm#page_1)-[31](pgr03.htm#page_31).
+of the Olympians, pp. [1](pgr03.htm#page_1)-[31](pgr03.htm#page_31.md).
 
 ### CHAPTER II.
 
@@ -56,7 +56,7 @@ victim sacrificed and eaten, with σφάγιον, the victim sacrificed and
 'devoted.' The σφάγια in use for the taking of oaths, for purification,
 for omens, for sacrifice to winds and other underworld powers. Elements
 of 'tendance' in the ritual of 'aversion,' pp.
-[32](pgr04.htm#page_32)-[76](pgr04.htm#page_76).
+[32](pgr04.htm#page_32)-[76](pgr04.htm#page_76.md).
 
 <span id="page_xviii">p. xviii</span>
 
@@ -287,4 +287,4 @@ divinities of Orphism are demons rather than gods. Orphism resumed, pp.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Olympian and Chthonic Ritual](pgr03)
+[Next: Chapter I. Olympian and Chthonic Ritual](pgr03.md)

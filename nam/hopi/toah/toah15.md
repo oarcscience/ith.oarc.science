@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah14)  [Next](toah16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah14)  [Next](toah16.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ American](../../index)  [Hopi](../index)  [Index](index) 
 WHILE the Shipaulovi hostiles were living over at Shung-opovi they were
 very much stronger against the school. The agent would send out
 policemen every once in awhile to try to get their leader,
-Tawahonganiwa. [39](toah24.htm#xref_39) Of course those policemen did
+Tawahonganiwa. [39](toah24.htm#xref_39.md) Of course those policemen did
 not have much authority, so they could not take him. He would put up a
 big fight and his sons were the ones who would do the fighting. These
 policemen were mostly Navajos.
@@ -36,7 +36,7 @@ bid and said he would not go. He said if they wanted to take him they
 would have to kill him, so he called all his followers, women and all,
 to one house. Whoever was an officer or priest of some kind in some of
 the societies would take in an image or emblem to put in the
-house. [40](toah24.htm#xref_40) One of these families happened to have
+house. [40](toah24.htm#xref_40.md) One of these families happened to have
 the image of the war god, Piakonghoya. This little image was put up by
 the door, for they thought he might have some power to help them. When
 the soldiers came up on top of the mesa they were lined up about
@@ -102,7 +102,7 @@ people were always fighting one another. So again the hostile leader
 decided to leave. From there Tawahonganiwa and twenty-five to thirty men
 and women moved to Oraibi. By this time Lololama was dead and his
 nephew, Tewaquoptiwa was then chief of Oraibi, but Youkioma was stronger
-at this time. [41](toah24.htm#xref_41) When they got to the mesa top at
+at this time. [41](toah24.htm#xref_41.md) When they got to the mesa top at
 Oraibi, Youkioma's men met them. These men sprinkled sacred cornmeal on
 the path that the Shung-opovi people followed to the village. Of course
 this was not the proper thing to do, for Youkioma was usurping the
@@ -114,7 +114,7 @@ in by Youkioma, and Youkioma always said that he had as much right to do
 this as the chief. It was his "theory" that he was going to follow out
 what his great-uncles had taught him of their traditions. This tradition
 told him that he was to destroy Oraibi or be destroyed himself. He
-belonged to the Fire or Masauwu Clan. [42](toah24.htm#xref_42) This gave
+belonged to the Fire or Masauwu Clan. [42](toah24.htm#xref_42.md) This gave
 him the idea that his clan ancestor had the power to do almost anything.
 This clan has the idea that Masauwu can hypnotize people, so he always
 had said that if any expedition is sent against him all he has to do is
@@ -122,9 +122,9 @@ to take out a handful of ashes and blow them on the army and they would
 fall to pieces. Chief Tewaquoptiwa wanted to send these people back to
 Shung-opovi, but Youkioma, of course, was standing up for them and if
 Tewaquoptiwa wanted to move them he would have had to move him
-too. [43](toah24.htm#xref_43) He said that he had already had a site
+too. [43](toah24.htm#xref_43.md) He said that he had already had a site
 picked out somewhere in the north called Kawishtima (a ruin in a canyon
-near Navajo Mountain). [44](toah24.htm#xref_44)
+near Navajo Mountain). [44](toah24.htm#xref_44.md)
 
 As long as he had this site already picked out Tewaquoptiwa wanted to
 send him there, but Tewaquoptiwa was in doubt that Youkioma would go
@@ -147,7 +147,7 @@ be a fight, so they tried to collect as many weapons as possible-bows
 and arrows and guns, and to get them ready. Come to find out,
 Tewaquoptiwa did not have enough men and the hostiles were about three
 or four times as many as his people. So he called on the
-Moenkopi [45](toah24.htm#xref_45) people for help and all the other
+Moenkopi [45](toah24.htm#xref_45.md) people for help and all the other
 villages of Second Mesa.
 
 The night before the fight both parties stayed up all night for their
@@ -203,7 +203,7 @@ out with his burros and when he got out there the hostile people ripped
 up the sacks and helped themselves. Again Chief Tewaquoptiwa went out
 and asked them if they were ready to move on. Youkioma said he would not
 move unless Tewaquoptiwa could push him across the line which he had
-drawn on the flat rock of the mesa top. [46](toah24.htm#xref_46) So here
+drawn on the flat rock of the mesa top. [46](toah24.htm#xref_46.md) So here
 they had to put up another fight again, to put Youkioma across the line.
 When the chief was ready to go against them, the hostile men gathered
 about Youkioma, intending to hold him so that the other side could not
@@ -245,8 +245,8 @@ were crying.
 Just about sundown they were already to move on-all their burros were
 loaded and they were pretty well packed themselves. Youkioma took the
 lead and off they went to the north. They got to Hotevilla just about
-dark and there they made camp. [47](toah24.htm#xref_47),
- [48](toah24.htm#xref_48),  [49](toah24.htm#xref_49)
+dark and there they made camp. [47](toah24.htm#xref_47.md),
+ [48](toah24.htm#xref_48),  [49](toah24.htm#xref_49.md)
 
 <span id="img_06800"></span> ![](img/06800.jpg)
 
@@ -254,4 +254,4 @@ dark and there they made camp. [47](toah24.htm#xref_47),
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Youkioma](toah16)
+[Next: Chapter XIV. Youkioma](toah16.md)

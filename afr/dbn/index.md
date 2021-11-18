@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte.md)
 
 </div>
 
@@ -29,8 +29,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](dbn00)    [Page
-Index](pageidx)    [Text \[Zipped\]](dbn.txt.gz)
+[Contents](#contents)    [Start Reading](dbn00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](dbn.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -54,19 +54,19 @@ Black history in the Caribbean and the United States.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](dbn00)  
-[Contents](dbn01)  
-[Preface](dbn02)  
-[I. Africa](dbn03)  
-[II. The Coming of Black Men](dbn04)  
-[III. Ethiopia and Egypt](dbn05)  
-[IV. The Niger and Islam](dbn06)  
-[V. Guinea and Congo](dbn07)  
-[VI. The Great Lakes and Zymbabwe](dbn08)  
-[VII. The War of Races at Land's End](dbn09)  
-[VIII. African Culture](dbn10)  
-[IX. The Trade in Men](dbn11)  
-[X. The West Indies and Latin America](dbn12)  
-[XI. The Negro in the United States](dbn13)  
-[XII. The Negro Problems](dbn14)  
-[Suggestions For Further Reading](dbn15)  
+<span id="contents"></span> [Title Page](dbn00.md)  
+[Contents](dbn01.md)  
+[Preface](dbn02.md)  
+[I. Africa](dbn03.md)  
+[II. The Coming of Black Men](dbn04.md)  
+[III. Ethiopia and Egypt](dbn05.md)  
+[IV. The Niger and Islam](dbn06.md)  
+[V. Guinea and Congo](dbn07.md)  
+[VI. The Great Lakes and Zymbabwe](dbn08.md)  
+[VII. The War of Races at Land's End](dbn09.md)  
+[VIII. African Culture](dbn10.md)  
+[IX. The Trade in Men](dbn11.md)  
+[X. The West Indies and Latin America](dbn12.md)  
+[XI. The Negro in the United States](dbn13.md)  
+[XII. The Negro Problems](dbn14.md)  
+[Suggestions For Further Reading](dbn15.md)  

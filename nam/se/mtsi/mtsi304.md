@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi303)  [Next](mtsi305) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi303)  [Next](mtsi305.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ up into a ball and brought the sled home.
 
 ------------------------------------------------------------------------
 
-[Next: 40. The Twelve Irishmen](mtsi305)
+[Next: 40. The Twelve Irishmen](mtsi305.md)

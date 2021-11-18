@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo17)  [Next](aoo19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo17)  [Next](aoo19.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ Patroklos in the armour of Achilles.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX](aoo19)
+[Next: Chapter XIX](aoo19.md)

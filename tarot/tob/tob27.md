@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob26) 
-[Next](tob28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob26.md) 
+[Next](tob28.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,10 +12,10 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob26) 
 CONSTITUTION OF MAN.
 
 <span id="img_15500"></span> [![](tn/15500.jpg)  
-Click to enlarge](img/15500.jpg)
+Click to enlarge](img/15500.jpg.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Key to the Third Septenary](tob28)
+[Next: Key to the Third Septenary](tob28.md)

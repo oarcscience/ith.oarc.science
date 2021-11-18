@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgl6) [Next](tgl8)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgl6) [Next](tgl8.md)
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ No more shall cut his master."</td>
 DISSERTATION ON  
 GENERALSHIP AND PREVENTION OF ANARCHY
 
-{[notes](tgln1.htm#7)\|[elucidations and analyses](tgln2.htm#7)}
+{[notes](tgln1.htm#7)\|[elucidations and analyses](tgln2.htm#7.md)}
 
    *Kao Yu's explanation of the title Ping Lueh (\#\#\#) is: Military
 functions are for defence against incipient anarchy (nip it in the bud),
@@ -114,7 +114,7 @@ past. Huang Ti, once upon a time, warred
 against Yen Ti, in the deserts of Cho Lu. Chuen Hsü made war on Kung
 Kung. Yao fought against the unrighteous king on the banks of the Tan
 river. Yao punished the Three Aborigines.<span
-id="fr_1"></span>[1](tgln1.htm#7_note_1) Ch‛i fought Yu Hu. From the era
+id="fr_1"></span>[1](tgln1.htm#7_note_1.md) Ch‛i fought Yu Hu. From the era
 of the Five Emperors, the land has not been free from the clash of arms,
 especially in times of decay and degeneration.
 
@@ -226,7 +226,7 @@ allegiance of the people, who will open their doors to the invading army
 and await its coming. Tribute will be willingly given in grain and
 goods. The people's only fear will be lest it should not come. Such were
 the principles by which Tang and Wu won the kingship, and the method by
-which Duke Huan<span id="fr_2"></span>[2](tgln1.htm#7_note_2) of Ch‛i
+which Duke Huan<span id="fr_2"></span>[2](tgln1.htm#7_note_2.md) of Ch‛i
 became the leader of the hegemony and autocrats.
 
    We thus clearly see that when a king is without the Tao, his subjects
@@ -270,13 +270,13 @@ he will be proficient. If a country is imbued with the Tao, it will
 abide: if it loses the Tao, it will perish.
 
    What is meant by the Tao? To embody the Round and<span
-id="fr_3"></span>[3](tgln1.htm#7_note_3) imitate the Square.<span
-id="fr_4"></span>[4](tgln1.htm#7_note_4) It carries the Yin and embraces
+id="fr_3"></span>[3](tgln1.htm#7_note_3.md) imitate the Square.<span
+id="fr_4"></span>[4](tgln1.htm#7_note_4.md) It carries the Yin and embraces
 the Yang: Its left is soft, its right hard. Its base is dark, its crown
 is light. Its transformations are irregular (inconstant). It possesses
 the root of the Unity in order to satisfy the whole creation.<span
-id="fr_5"></span>[5](tgln1.htm#7_note_5) This is Enlightenment!<span
-id="fr_6"></span>[6](tgln1.htm#7_note_6) By "Round" is meant Heaven, and
+id="fr_5"></span>[5](tgln1.htm#7_note_5.md) This is Enlightenment!<span
+id="fr_6"></span>[6](tgln1.htm#7_note_6.md) By "Round" is meant Heaven, and
 by "Square," Earth. There is no beginning point in the rotundity of
 Heaven; there is no boundary to the squareness of Earth, hence it is not
 possible to peer in through its doors. Heaven revolves, bringing
@@ -302,7 +302,7 @@ not to have destruction,—to have no war. Therefore the superior soldier
 is not harmful, being in line with the Divine afflatus. The tools of war
 are not sharpened, yet no enemy dare attack. The great drum is not
 brought out from the armoury<span
-id="fr_7"></span>[7](tgln1.htm#7_note_7) and there is not one of the
+id="fr_7"></span>[7](tgln1.htm#7_note_7.md) and there is not one of the
 feudal lords but trembles and shows the white feather. They stand in awe
 and dare not lift their heads towards the place. Hence he who fights
 without going from the temple is the Emperor. He whose virtue is felt
@@ -352,7 +352,7 @@ failure to obtain victory,
 does not happen from any error on the day the drum is sounded, but from
 faults of long standing. The preparatory days have been wanting in
 discipline. Therefore, the soldiers that are imbued with the Tao,<span
-id="fr_8"></span>[8](tgln1.htm#7_note_8) need never send the war chariot
+id="fr_8"></span>[8](tgln1.htm#7_note_8.md) need never send the war chariot
 forth; the edge of the sword never need reek with blood; the horse need
 not be saddled, nor need the drum have the dust fall from it when
 struck, nor the flag be unfurled: the arrows need not leave the quiver;
@@ -414,7 +414,7 @@ concert; <span id="page_190">p. 190</span> high and low, all of one
 mind. King and minister must co-operate in their energies, the Feudal
 Lords respect such majestic force, and all parts of the empire must
 cherish splendid virtue. When such conduct as the above is cultivated in
-the Temple,<span id="fr_9"></span>[9](tgln1.htm#7_note_9) even the
+the Temple,<span id="fr_9"></span>[9](tgln1.htm#7_note_9.md) even the
 distant parts will bend and point to such high examples, and the whole
 empire will be responsive. (b) The next step in excellence is this.
 
@@ -492,7 +492,7 @@ and knowledge of his soldiers and finding out his situation, is the work
 of the Scout Master. To find out the conditions of the road for quick
 marching and spots where are convenient wells for cooking, are the
 duties of the Ssû Kung officers.<span
-id="fr_10"></span>[10](tgln1.htm#7_note_10) The care of the commissariat
+id="fr_10"></span>[10](tgln1.htm#7_note_10.md) The care of the commissariat
 so that nothing is abandoned in moving camp; the supervision of
 conveyances so that there shall be enough without any
 
@@ -578,14 +578,14 @@ had to leave his lares and penates and become the slave of the mightier
 Ts‛in. His soldiers were captured, his lands were appropriated, and he
 died in servitude and never returned home.
 
-   Hu Hai,<span id="fr_11"></span>[11](tgln1.htm#7_note_11) Ch‛in Shih
+   Hu Hai,<span id="fr_11"></span>[11](tgln1.htm#7_note_11.md) Ch‛in Shih
 Huang, the second, held the imperial power of the world. His kingdom was
 most wealthy. Where the foot of man went, no spot on which oars plied
 the boats but was embraced within his rule. In the pursuit of his
 extravagancies and his lusts of eye and ear he exhausted every art. He
 never heeded the hunger, poverty and cold of the people. He built myriad
 chariots and the famous palace of Ao Fang.<span
-id="fr_12"></span>[12](tgln1.htm#7_note_12) He conscripted the youths of
+id="fr_12"></span>[12](tgln1.htm#7_note_12.md) He conscripted the youths of
 the villages, sending them to disant parts as indentured soldiers. He
 exacted taxes, amounting to more than half the nation's wealth. He
 drafted people from afar into his service and punished mercilessly any
@@ -594,7 +594,7 @@ many myriads died daily I do not know. Discontent prevailed throughout
 the land. The people had no peace; they were giddy with heat and bent
 with hard labour. There was no mutual help between officials and the
 common people. Mutual suspicion filled every breast. A rustic, named
-Ch‛en Sheng,<span id="fr_13"></span>[13](tgln1.htm#7_note_13) in Ta Tze,
+Ch‛en Sheng,<span id="fr_13"></span>[13](tgln1.htm#7_note_13.md) in Ta Tze,
 appeared in rebellion, with bared shoulders, proclaiming that he was
 establishing the Great Ts‛u. He called, and the whole nation responded
 to his call. He had no well-furnished armoury nor trained soldiers with
@@ -611,7 +611,7 @@ whole land to his cause, which responded to his call, because the hearts
 of the people were full of anger and resentment.
 
    Another example:—When King Wu undertook the chastisement of
-Chou,<span id="fr_14"></span>[14](tgln1.htm#7_note_14) he met with
+Chou,<span id="fr_14"></span>[14](tgln1.htm#7_note_14.md) he met with
 discouraging omens in his enterprise, such as great rains, when he came
 to Fan: the head of the Kung mountain collapsed into the river when he
 came near. A comet appeared, with its tail pointing to the east, which
@@ -625,7 +625,7 @@ victory that wrested the empire from the hands of Chou. Therefore, we
 learn that he who governs well need never fear an enemy: and he who wars
 well, on high moral principles, will have no battles to wage. He who is
 clear on the doctrine of prohibitions and permissions,<span
-id="fr_15"></span>[15](tgln1.htm#7_note_15) on what to open and on what
+id="fr_15"></span>[15](tgln1.htm#7_note_15.md) on what to open and on what
 to close taking the right opportunity and following the popular wish,
 wins that day. Therefore, he who would govern well, accumulates virtue.
 He is a good general who arouses the spirit of his soldiers. The people
@@ -651,7 +651,7 @@ Undisciplined troops go headlong into war and expect victory simply by
 an engagement of arms.
 
    Given equality of virtue<span
-id="fr_16"></span>[16](tgln1.htm#7_note_16) in the contending parties,
+id="fr_16"></span>[16](tgln1.htm#7_note_16.md) in the contending parties,
 the victory will lie with the party with most soldiers. Armament
 
 |                         |
@@ -661,7 +661,7 @@ the victory will lie with the party with most soldiers. Armament
 being equal, the clever will overcome the stupid: and the man of plans
 will beat the man without them. He who would employ troops must
 beforehand win his battles in the Sacred Fane.<span
-id="fr_17"></span>[17](tgln1.htm#7_note_17) It is from here that victory
+id="fr_17"></span>[17](tgln1.htm#7_note_17.md) It is from here that victory
 is got. Here it is the King weighs whether he or his enemy is the
 worthier, and which side has the abler General; whose people is the more
 loyal to his sovereign: which of the two has the better rule; which has
@@ -678,7 +678,7 @@ But he who is apt in these visible things does not stake his all on
 them. What he esteems still more is the *tao*. He esteems this because
 of its formlessness. Being without material form it cannot be imposed
 upon, it cannot be fathomed.<span
-id="fr_18"></span>[18](tgln1.htm#7_note_18) Skill may be met by skill;
+id="fr_18"></span>[18](tgln1.htm#7_note_18.md) Skill may be met by skill;
 the form visible can be met with opposition; the appearance of the whole
 army may be concealed with ambush; the appearance of arms will be met by
 preparation in arms. Movements,
@@ -879,7 +879,7 @@ motion. The soldiers are massed in order and not scattered about. The
 army must never go forth and return without good results. If it does not
 move, well! But if it *does* advance, it must do go in a stupendous way.
 It must astonish heaven and shake the earth: it must sustain
-Taishan<span id="fr_19"></span>[19](tgln1.htm#7_note_19) and startle the
+Taishan<span id="fr_19"></span>[19](tgln1.htm#7_note_19.md) and startle the
 whole world: even the demons must shuffle out of the way: birds and
 beasts must be petrified with fear. Thus, stupendously powerful, there
 will be no battlefield; for the enemy will not come near. The cities of
@@ -938,7 +938,7 @@ can penetrate through the minutest pores, (like water through the pores
 of blotting-paper) and infiltrate metal and stone and reach to the
 utmost distances, and place themselves above the ninth heaven, or
 wreathe themselves underground<span
-id="fr_21"></span>[21](tgln1.htm#7_note_21) can only do so by *wu
+id="fr_21"></span>[21](tgln1.htm#7_note_21.md) can only do so by *wu
 hsing*, the formless.
 
    A general, able in handling soldiers, should attack the enemy in
@@ -948,7 +948,7 @@ against flags that stand upright and float proudly.
 
    When the outlook regarding the enemy is not clear, then is the time
 to consider the star of destiny<span
-id="fr_22a"></span>[22a](tgln1.htm#7_note_22a) in
+id="fr_22a"></span>[22a](tgln1.htm#7_note_22a.md) in
 
 |                                  |
 |----------------------------------|
@@ -976,7 +976,7 @@ commander should have his soldiers animated by the same spirit, and by
 concentration increase their strength. The brave must not advance alone,
 nor the apprehensive retreat without support. When the soldiers halt, it
 must be as one, and they must show the firmness of the Ch‛iu<span
-id="fr_22"></span>[22](tgln1.htm#7_note_22) mountain. They must deploy
+id="fr_22"></span>[22](tgln1.htm#7_note_22.md) mountain. They must deploy
 like the wind and rain, simultaneously and vigorously. With such a front
 no enemy can stand against them. There is nothing that will not be
 broken up by them. On the march and in halting the action must be as of
@@ -1038,15 +1038,15 @@ benevolent may be gulled, the man of faith is easily deceived, the
 economical man may be easily hoodwinked. Now if a commander of hosts has
 all these virtues but should he show any one of them, men will take him
 in their schemes. From this we may gather that the soldier must rely on
-the tao law<span id="fr_23"></span>[23](tgln1.htm#7_note_23) to control
+the tao law<span id="fr_23"></span>[23](tgln1.htm#7_note_23.md) to control
 victory, and not on human talents. This is naturally evident. Therefore,
 the long tailed deer may be caught in the land net: the fish and lobster
 will be caught in the sea net: the swan and the heron may be shot at by
 the bow: since all these are visible objects.<span
-id="fr_24"></span>[24](tgln1.htm#7_note_24) What can't be got at are the
+id="fr_24"></span>[24](tgln1.htm#7_note_24.md) What can't be got at are the
 invisible things: there is no way of dealing with these. Hence the sage
 secretes himself in the 'no source'<span
-id="fr_25"></span>[25](tgln1.htm#7_note_25) (even before the pullulating
+id="fr_25"></span>[25](tgln1.htm#7_note_25.md) (even before the pullulating
 of visibility): so his will and mind cannot be known. His movements are
 in the incorporeal, so his paths are not fathomed and made use of.
 Without rules <span id="page_205">p. 205</span> and models, when things
@@ -1128,7 +1128,7 @@ try to master them?
 
    What is meant by astrology is to have the star *Ching Lung* on the
 left and *Pai Hu* on the right, the star *Chu Chiao* in front and *Hsuan
-Wu* behind.<span id="fr_26"></span>[26](tgln1.htm#7_note_26) What is
+Wu* behind.<span id="fr_26"></span>[26](tgln1.htm#7_note_26.md) What is
 meant by a favourable position is to have rising ground behind and flat
 terrain in front: to have a mountain on the left and <span
 id="page_207">p. 207</span> deep water or valley, on the right. What is
@@ -1141,7 +1141,7 @@ should be with celerity.
 but these are not born of tradition but by reason of change according to
 times and seasons. Therefore the hour and season may be known from the
 shadow in the Ming Tang, Ancestral<span
-id="fr_27"></span>[27](tgln1.htm#7_note_27) fane. The cold and heat of
+id="fr_27"></span>[27](tgln1.htm#7_note_27.md) fane. The cold and heat of
 the country is indicated by the level of water in the bottle. But the
 interactions of these things are very trifling. Only the Sage can see
 their furthest import. The drum is not one of the five tones, but it is
@@ -1542,7 +1542,7 @@ drum and the flags of war. The king enters the temple gate and stands
 facing west. The commander enters the temple, and proceeding with arms
 akimbo (a sign of respect) to a place below the hall, stands facing
 north. The king takes the great hammer<span
-id="fr_31"></span>[{31}](tgln1.htm#7_note_31) and holds it by the head
+id="fr_31"></span>[{31}](tgln1.htm#7_note_31.md) and holds it by the head
 and gives the handle to the commander saying: "From henceforth, the
 commander of our armies controls all, even up to Heaven above," again
 taking the smaller hammer by the head he gives the handle to the
@@ -1556,10 +1556,10 @@ commander, having received control as herein expressed, and I, having
 received the authority of the drums, the hammers, will not seek
 instructions again. May the king no more give any word of instruction to
 me. If the king does not agree to this compact I will not dare to
-act.<span id="fr_32"></span>[32](tgln1.htm#7_note_32) If the king
+act.<span id="fr_32"></span>[32](tgln1.htm#7_note_32.md) If the king
 agrees, then I bid goodbye and go to pare my nails,<span
-id="fr_33"></span>[33](tgln1.htm#7_note_33) and prepare my shroud. I go
-out by the dread door."<span id="fr_34"></span>[34](tgln1.htm#7_note_34)
+id="fr_33"></span>[33](tgln1.htm#7_note_33.md) and prepare my shroud. I go
+out by the dread door."<span id="fr_34"></span>[34](tgln1.htm#7_note_34.md)
 Mounting the commander's chariot and loading the drum, flags, with the
 two hammers, he departs, weighted with great responsibility. When the
 commander gets near the enemy, he engages in battle, regardless of
@@ -1596,7 +1596,7 @@ When it returns to the country, the commander will furl his flags to
 enter the gate, and surrender the hammer and the halberd and inform the
 prince of the end of the war, saying, "The army has no control after
 this. I go to put on calico garments and into retirement,<span
-id="fr_35"></span>[35](tgln1.htm#7_note_35) please define my guilt." The
+id="fr_35"></span>[35](tgln1.htm#7_note_35.md) please define my guilt." The
 prince will say: "Forgiveness is granted. Go and put on silk clothes."
 After a great victory, the commander returns home after a residence of
 three years in the palace, two years residence after a moderate victory,
@@ -1610,11 +1610,11 @@ commander will not have an untimely death: the crops will be luxuriant:
 the wind and rains will fall seasonably. A victory in foreign parts will
 ensure great prosperity at home. And so renown is secure and there will
 be no excess of calamity afterwards.<span
-id="fr_36"></span>[36](tgln1.htm#7_note_36)
+id="fr_36"></span>[36](tgln1.htm#7_note_36.md)
 
 ------------------------------------------------------------------------
 
-[Next](tgl8)
+[Next](tgl8.md)
 
  
 

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp83) 
-[Next](alp85) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp83.md) 
+[Next](alp85.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,7 +133,7 @@ of Armenia.
 
 ### Footnotes
 
-<span id="fn_36"></span>[151:1](alp83.htm#fr_36) Translations of Moses
+<span id="fn_36"></span>[151:1](alp83.htm#fr_36.md) Translations of Moses
 of Khorene: *Latin* (with Armenian text), Whiston (G. & G.), *London*,
 1736; *Italian*, Cappelletti (G.), Venice, 1841; Tommaseo (H.), Venice,
 1849-50; *German*, Lauer (M.), Regensburg, 1869; *French* (with Armenian
@@ -142,4 +142,4 @@ Langlois’ Collection, vol. ii.; *Russian*, M. Emin, Moscow.
 
 ------------------------------------------------------------------------
 
-[Next: Golden Age of Armenian Literature](alp85)
+[Next: Golden Age of Armenian Literature](alp85.md)

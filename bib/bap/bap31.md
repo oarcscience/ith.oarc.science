@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap30) 
-[Next](bap32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap30.md) 
+[Next](bap32.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ stars, or as weapons can conquer the lightnings, or the fowls of the air
 put out the thunder, so can these men resist the Lord. For they saw how
 that as they went up the lightnings of the stars shone and the thunders
 followed, sounding with them. 3. And these are the names of the
-men: <span id="fr_74"></span>[3](#fn_74) Chaleb the son of
+men: <span id="fr_74"></span>[3](#fn_74.md) Chaleb the son of
 
 <span id="page_119">p. 119</span>
 
@@ -74,10 +74,10 @@ mercy suffer us unto the end, and thy pity for the length of days.
 
 ### Footnotes
 
-<span id="fn_74"></span>[118:3](bap31.htm#fr_74) XV. 3. The names in the
+<span id="fn_74"></span>[118:3](bap31.htm#fr_74.md) XV. 3. The names in the
 pedigrees of Caleb and Joshua are not easily reconciled with those in 1
 Chron. 2, 7:23 *sqq*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI](bap32)
+[Next: Chapter XVI](bap32.md)

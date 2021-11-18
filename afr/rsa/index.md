@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [African](../index)
+[Sacred-Texts](../../index) [African](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -27,28 +27,28 @@ REV. HENRY CALLAWAY</td>
 
 ------------------------------------------------------------------------
 
-[<span class="small">note to the hypertext transcription</span>](note)  
-[Title Page](rsa00)  
+[<span class="small">note to the hypertext transcription</span>](note.md)  
+[Title Page](rsa00.md)  
    
 
-Part I: [UNKULUNKULU](rsa01) <span class="small">(OR, THE TRADITION OF
+Part I: [UNKULUNKULU](rsa01.md) <span class="small">(OR, THE TRADITION OF
 CREATION AS EXISTING AMONG THE AMAZULU AND OTHER TRIBES OF SOUTH
 AFRICA.)  
- [APPENDIX. ADDITIONAL NOTES.](rsa02)  
- [UTIKXO.](rsa03)  
- [THE LORD OF HEAVEN.](rsa04)  
- [NOTE.](rsa05)</span>  
+ [APPENDIX. ADDITIONAL NOTES.](rsa02.md)  
+ [UTIKXO.](rsa03.md)  
+ [THE LORD OF HEAVEN.](rsa04.md)  
+ [NOTE.](rsa05.md)</span>  
    
 
-Part II: [AMATONGO](rsa06) <span class="small">(OR, ANCESTOR WORSHIP.)  
- [DREAMS, &c.](rsa07)  
- [INKOSAZANA.](rsa08)</span>  
+Part II: [AMATONGO](rsa06) <span class="small">(OR, ANCESTOR WORSHIP..md)  
+ [DREAMS, &c.](rsa07.md)  
+ [INKOSAZANA.](rsa08.md)</span>  
    
 
-Part III: [IZINYANGA ZOKUBULA](rsa09) <span class="small">(OR,
+Part III: [IZINYANGA ZOKUBULA](rsa09.md) <span class="small">(OR,
 DIVINERS.)  
- [HEAVEN-DOCTORS, &c.](rsa10)</span>  
+ [HEAVEN-DOCTORS, &c.](rsa10.md)</span>  
    
 
-Part IV: [ABATAKATI](rsa11) <span class="small">(OR, MEDICAL MAGIC, AND
+Part IV: [ABATAKATI](rsa11.md) <span class="small">(OR, MEDICAL MAGIC, AND
 WITCHCRAFT.)</span>  

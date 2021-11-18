@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](edu03)  [Next](edu05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](edu03)  [Next](edu05.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 # CHAPTER IV.
 
 MISHNA *I*.: In the following cases the decisions of
-[Beth](errata.htm#16) Shamai are lenient, and those of Beth Hillel
+[Beth](errata.htm#16.md) Shamai are lenient, and those of Beth Hillel
 rigorous. An egg laid on a holiday is, according to Beth Shamai, allowed
 to eat on that day, but is not so according to Beth Hillel. Regarding
 the removal of leaven (before Passover) Beth Shamai hold it must be of
@@ -121,4 +121,4 @@ side does transfer the uncleanness (as roofing). (Oheloth, Chapter XI.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V.](edu05)
+[Next: Chapter V.](edu05.md)

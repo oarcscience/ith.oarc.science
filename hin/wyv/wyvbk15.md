@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvbk14)  [Next](wyvbk16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvbk14)  [Next](wyvbk16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ thee for Pravrit. Vivrit art thou, thee for Vivrit. Savrit
 art thou, thee for Savrit. Thou art attack, thee for attack.  
 Thou art concurrence, thee for concurrence. Thou art  
 ascent, thee for ascent. Thou art upstriding, thee for  
-upstriding. With Energy as [over-lord](errata.htm#6) quicken  
+upstriding. With Energy as [over-lord](errata.htm#6.md) quicken  
 food-essence.  
 10 Thou art the Queen, the Eastern region. The bright Vasus  
 are thine overlords. Agni is thy warder-off of hostile  
@@ -308,4 +308,4 @@ worth a thousand. Thee for a thousand.
 
 ------------------------------------------------------------------------
 
-[Next: Book XVI](wyvbk16)
+[Next: Book XVI](wyvbk16.md)

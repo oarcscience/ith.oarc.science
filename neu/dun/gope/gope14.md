@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](gope13)  [Next](gope15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](gope13)  [Next](gope15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SXVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SXVG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gods of Pegana*, by Lord Dunsany, \[1905\], at Intangible Textual
 Heritage
 
@@ -53,6 +53,6 @@ true, none knoweth saving only MANA-YOOD-SUSHAI, who hath not spoken.
 
 ------------------------------------------------------------------------
 
-[Next: Of Roon, the God of Going, and the Thousand Home Gods](gope15)
+[Next: Of Roon, the God of Going, and the Thousand Home Gods](gope15.md)
 
 </div>

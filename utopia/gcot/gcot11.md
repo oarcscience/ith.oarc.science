@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](gcot10)  [Next](gcot12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](gcot10)  [Next](gcot12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -170,7 +170,7 @@ tract of land obtained under concession from the Mexican Government. One
 principle adopted by Mr. Owen was that 'all employment must be through
 the Department for the Diversity of Home Industries. One member cannot
 directly employ another member, and only members can be employed through
-the settlement.' <span id="fr_22"></span>[1](#fn_22) In other words, if
+the settlement.' <span id="fr_22"></span>[1](#fn_22.md) In other words, if
 A. and B. were dissatisfied with the management,
 
 <span id="page_116">p. 116</span>
@@ -236,9 +236,9 @@ to be fitted together.
 
 ### Footnotes
 
-<span id="fn_22"></span>[115:1](gcot11.htm#fr_22) A. K. Owen, *Integral
+<span id="fn_22"></span>[115:1](gcot11.htm#fr_22.md) A. K. Owen, *Integral
 Co-operation at Work* (U.S. Book Co., 150 Worth St., N.Y., 1885).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Ten. A Unique Combination of Proposals](gcot12)
+[Next: Chapter Ten. A Unique Combination of Proposals](gcot12.md)

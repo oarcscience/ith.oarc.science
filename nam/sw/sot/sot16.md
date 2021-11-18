@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](sot15)  [Next](sot17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](sot15)  [Next](sot17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Songs of the Tewa*, by Herbert Joseph Spinden, \[1933\], at Intangible
 Textual Heritage
 
@@ -33,6 +33,6 @@ So that is why you leave us!
 
 ------------------------------------------------------------------------
 
-[Next: XIV. When the War Party Sets Out](sot17)
+[Next: XIV. When the War Party Sets Out](sot17.md)
 
 </div>

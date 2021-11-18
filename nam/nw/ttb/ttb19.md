@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb18)  [Next](ttb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb18)  [Next](ttb20.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_32">p. 32</span>
 
-<span id="img_03200"></span> ![Wolalee, The Salmon](img/03200.jpg)
+<span id="img_03200"></span> ![Wolalee, The Salmon](img/03200.jpg.md)
 
 ### Wolalee, THE SALMON
 
@@ -64,4 +64,4 @@ propagate their kind.
 
 ------------------------------------------------------------------------
 
-[Next: Chet-Woot, The Bear](ttb20)
+[Next: Chet-Woot, The Bear](ttb20.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp64)  [Next](dmp66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp64)  [Next](dmp66.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ the words to him.
 
 ------------------------------------------------------------------------
 
-[Next: Correspondence of Columns](dmp66)
+[Next: Correspondence of Columns](dmp66.md)

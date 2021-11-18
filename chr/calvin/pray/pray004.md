@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray003)  [Next](pray005) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray003)  [Next](pray005.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ both able and willing to make the best provision for us.
 
 ------------------------------------------------------------------------
 
-[Next: 3.](pray005)
+[Next: 3.](pray005.md)

@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](tbow15)  [Next](tbow17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](tbow15)  [Next](tbow17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3TLAI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3TLAI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Wonder*, by Lord Dunsany, \[1912\], at Intangible Textual
 Heritage
 
@@ -207,6 +207,6 @@ any rumour at all of Golden Dragon City.
 
 ------------------------------------------------------------------------
 
-[Next: Epilogue](tbow17)
+[Next: Epilogue](tbow17.md)
 
 </div>

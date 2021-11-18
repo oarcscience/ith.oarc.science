@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr08) 
-[Next](idr10) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr08.md) 
+[Next](idr10.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ in Manx is *Magician*.
 
 ------------------------------------------------------------------------
 
-[Next: French Druidism](idr10)
+[Next: French Druidism](idr10.md)

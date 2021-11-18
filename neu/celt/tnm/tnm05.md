@@ -1,8 +1,8 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index) 
-[Iceland](../../ice/index)  [Index](index)  [Previous](tnm04) 
-[Next](tnm06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index.md) 
+[Iceland](../../ice/index)  [Index](index)  [Previous](tnm04.md) 
+[Next](tnm06.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 [![PLATE III.&lt;br&gt; FIG. 1.                                        
 FIG. 2.&lt;br&gt; RUMUND CROSS, MICHAEL.](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 PLATE III.  
 FIG. 1.                                         FIG. 2.  
 RUMUND CROSS, MICHAEL.  
@@ -18,12 +18,12 @@ RUMUND CROSS, MICHAEL.
 <span id="img_pl04"></span>
 
 [![PLATE IV. GRIM'S CROSS, MICHAEL.](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 PLATE IV. GRIM'S CROSS, MICHAEL.  
 
 ### III.--VIEW OF VALHALLA.
 
-Two fragments of a cross at Michael ([pl. III.](#img_pl03)) erected by
+Two fragments of a cross at Michael ([pl. III.](#img_pl03).md) erected by
 Grim to Rumund (Hrómund), give us a view of Odin in Valhall, and of the
 sports and pastimes there of the champions, *Einherja*.
 
@@ -39,7 +39,7 @@ Below may be seen a large fish--the great Fish in the stream which runs
 through Valhalla.
 
 At the other side (left) of the shaft is the figure of a Boar
-([Sæhrimner](errata.htm#1)), who affords the champions sport by day and
+([Sæhrimner](errata.htm#1).md), who affords the champions sport by day and
 food at night. Above are two bird-headed figures, one feet uppermost,
 having in his hand a pointed sword, the other in the act of sheathing
 his. These represent the noted champions, bird-headed as being now one
@@ -55,7 +55,7 @@ But what is this figure immediately under the head of the cross?
 Long-robed, his hands clasping in front of him a crutch-headed or
 tau-shaped Staff, under his left arm a Book, around his head a Nimbus of
 peculiar design, with fringes, as in the case of the Christ on [Grim's
-cross, Michael](#img_pl04), and upon one of the Virgin Mary on Roolwer's
+cross, Michael](#img_pl04.md), and upon one of the Virgin Mary on Roolwer's
 cross, Maughold. Like these also it bears three small crosslets,
 reminding one of the nimbus in the Book of Kells. This, I think, is
 intended for Christ, and signifies that now He and not Odin is King of
@@ -64,4 +64,4 @@ Tree of Life, Odin's steed, Christ's palfry!
 
 ------------------------------------------------------------------------
 
-[Next: IV.--Valkyrie](tnm06)
+[Next: IV.--Valkyrie](tnm06.md)

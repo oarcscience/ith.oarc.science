@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](more01)  [Next](more03) 
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](more01)  [Next](more03.md) 
 
 ------------------------------------------------------------------------
 
@@ -1155,4 +1155,4 @@ despatch it all in one day.
 
 ------------------------------------------------------------------------
 
-[Next: Of Their Towns, Particularly Of Amaurot](more03)
+[Next: Of Their Towns, Particularly Of Amaurot](more03.md)

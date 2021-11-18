@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](syma44)  [Next](syma46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](syma44)  [Next](syma46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symbolical Masonry*, by H.L. Haywood, \[1923\], at Intangible Textual
 Heritage
 
@@ -98,7 +98,7 @@ How did the letter G ever come to stand for Deity? It is almost
 impossible to answer this question with any degree of certainty, because
 the available evidence is so slender, but it is thought by some that an
 explanation may be found in the connection between Freemasonry and
-Kabbalism (see [p. 28](syma04.htm#page_28)), for it is believed that
+Kabbalism (see [p. 28](syma04.htm#page_28).md), for it is believed that
 some of the non-operatives "accepted" by the lodges in the seventeenth
 century brought a certain amount of Kabbalistic lore with them.
 
@@ -166,4 +166,4 @@ learned the secret of the letter G.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLII. An Introduction to the Third Step](syma46)
+[Next: Chapter XLII. An Introduction to the Third Step](syma46.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc19)  [Next](sfoc21) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc19)  [Next](sfoc21.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ transforms it into a lizard, frog, or sharpened stick.
 
 ------------------------------------------------------------------------
 
-[Next: The Pay of the Shaman](sfoc21)
+[Next: The Pay of the Shaman](sfoc21.md)

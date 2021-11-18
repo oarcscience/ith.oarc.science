@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi259)  [Next](mtsi261) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi259)  [Next](mtsi261.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ said, "All of the people have gone." The two of them ate what was left.
 
 ------------------------------------------------------------------------
 
-[Next: 61. The Bungling Host](mtsi261)
+[Next: 61. The Bungling Host](mtsi261.md)

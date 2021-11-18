@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml04)  [Next](tml06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml04)  [Next](tml06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -154,7 +154,7 @@ great poet's inspiration.
 This "history" is indispensable to students of Scandinavian religion.
 Rydberg, the poet and folklorist of Sweden, is the author of a
 monumental work on *Teutonic Mythology*, <span
-id="fr_0"></span>[1](#fn_0) in which he made exhaustive and critical
+id="fr_0"></span>[1](#fn_0.md) in which he made exhaustive and critical
 examination of the tales embedded in Saxo's works, showing their
 relation to the Eddas and Sagas and existing oral poems of the north,
 and making masterly endeavour by their aid to reconstruct the great
@@ -169,7 +169,7 @@ their early years, unlike Rydberg's, were not passed in its strange
 atmosphere. The theorist is never as reliable as he who was aforetime a
 faithful believer in giants and elves, spirit voices and awesome omens.
 
-"No one," wrote Frederick York Powell, <span id="fr_1"></span>[2](#fn_1)
+"No one," wrote Frederick York Powell, <span id="fr_1"></span>[2](#fn_1.md)
 "has
 
 <span id="page_xxii">p. xxii</span>
@@ -196,7 +196,7 @@ Edda became associated in Iceland with the technical rules of verse.
 so it may be that among a mingled people the "great grandmother" was an
 imported Muse of a Matriarchal tribe. Saga, we know, was individualized
 as a maiden, and was wooed by Odin. A recent theory <span
-id="fr_2"></span>[1](#fn_2) is that Edda is derived from "Oddi", the
+id="fr_2"></span>[1](#fn_2.md) is that Edda is derived from "Oddi", the
 place where Saemund preached and Snorri studied.
 
 The Eddas are, of course, the collected folk-songs and folk-tales of the
@@ -536,7 +536,7 @@ that settled
 in the fertile districts of these islands and of Scandinavia, and have
 been traced through mid-Europe. These are the Mountain -giants. In the
 neglected archaic lore of Scotland they are called Fomors <span
-id="fr_3"></span>[1](#fn_3), but they are not the Fomors of Ireland, nor
+id="fr_3"></span>[1](#fn_3.md), but they are not the Fomors of Ireland, nor
 have they a necessary connection with the sea or with darkness. As
 river-goddesses in flight are personifications of rivers, so do these
 Fomors personify the hills they inhabit. Scottish mountain-giants never
@@ -548,7 +548,7 @@ appear to be of hallowed antiquity. These giants sleep at night and
 share men's terrors in darkness. Three friendly Inverness giants throw
 from one to the other, each morning, a stone hammer to signify that all
 is well. Greater than the males are their mothers, the Hags <span
-id="fr_4"></span>[2](#fn_4), who also fight with boulders, but have
+id="fr_4"></span>[2](#fn_4.md), who also fight with boulders, but have
 power to change their shapes. There are also Thunder-cloud hags who
 throw fireballs, tempest-hags, firebrand-hags, sea-hags, &c. They
 invariably wrestle with human beings like the giants of Cornwall.
@@ -557,7 +557,7 @@ Another class of Scottish giants inhabit caves, and some of them are
 many-headed. They hoard and guard treasure. Heroes who fight against
 them are invariably assisted by dogs (dogs "which have their day"), and
 they are instructed by indispensable wise women <span
-id="fr_5"></span>[3](#fn_5) who possess magic wands. What appears to be
+id="fr_5"></span>[3](#fn_5.md) who possess magic wands. What appears to be
 the oldest Thor story belongs to this class. When Thor sets out to visit
 Geirrod
 
@@ -583,7 +583,7 @@ when Brute and the first men arrived.
 Beyond the realms of Gaul, beneath the sunset  
 Lieth an island, girt about by ocean,  
 Guarded by ocean--*erst the haunt of giants*. <span
-id="fr_6"></span>[1](#fn_6)  
+id="fr_6"></span>[1](#fn_6.md)  
                                             *S. Evans's Trans*.
 
 It would appear that archaic giant-lore is pre-Celtic and pre-Teutonic,
@@ -668,12 +668,12 @@ Mythology, in which Ivalde and his sons predominate. The "Milky Way" is
 story, is "the ruling god It is also Bil's way (Bil is Ivalde's
 daughter), and as "Bil-rost", according to Rydberg, is the original of
 Bif-rost. The Anglo-Saxons called the "Milky Way" "Watling
-Street". <span id="fr_7"></span>[1](#fn_7)
+Street". <span id="fr_7"></span>[1](#fn_7.md)
 
 Volund's brother Egil, the archer, is associated with the clouds and the
 sea. Sleet and rain are his arrows; his arrows are also "herrings that
 leap from the hands of Egil", and herrings are "arrows of the
-sea". <span id="fr_8"></span>[2](#fn_8) Egil's son, the Iceland Hamlet,
+sea". <span id="fr_8"></span>[2](#fn_8.md) Egil's son, the Iceland Hamlet,
 is the guardian of the World-Mill; his son Svipdag, with shining sword,
 resembles a light-hero.
 
@@ -774,7 +774,7 @@ beasts, which grew into our Grendel and dragon stories by the process of
 exaggeration. . . . I have myself heard, in the nineteenth century, from
 the lips of an ancient mariner, a passably truthful and not very
 imaginative man, an amazing yarn about a sea serpent which I have no
-doubt had some foundation in fact." <span id="fr_9"></span>[1](#fn_9)
+doubt had some foundation in fact." <span id="fr_9"></span>[1](#fn_9.md)
 
 To the audiences who heard the *Beowulf* poem sung, Grendel was as real
 as the hero; and no doubt there were, in those ancient days, many
@@ -833,7 +833,7 @@ were coloured by the civilizations in which they developed.
 
 How floating myths and legends gathered round the memory of a popular
 hero is clearly shown in the lays of the Dietrich cycle. Dietrich Von
-Bern is Theoderic the Great. <span id="fr_10"></span>[1](#fn_10)
+Bern is Theoderic the Great. <span id="fr_10"></span>[1](#fn_10.md)
 Although he was born two years after the death of Attila, Emperor of the
 Huns, he is found at his Court in the Nibelungenlied. Ermenerich
 (Hermanric) was Emperor of the Ostrogoths, and, when an old man, his
@@ -871,7 +871,7 @@ father-and-son conflict theme, and the myths of Thunor (Thor) the
 thunder-god, the slayer of giants and dwarfs. But even Thor has his
 human side. He may have been originally a tribal hero who was identified
 both with an oak-deity and the central figure of a Nature-myth. <span
-id="fr_11"></span>[1](#fn_11) He remains "the friend of man" even when
+id="fr_11"></span>[1](#fn_11.md) He remains "the friend of man" even when
 elevated to Asgard. All the heroes of the minstrels of Europe link one
 with another as the fictional descendants of an ancient deified
 personage, or a
@@ -895,7 +895,7 @@ main argument rests on one very remarkable coincidence. The "Seven
 Sleepers" of Ephesus were Christians who were condemned to death by the
 Emperor Decius. They were given time to renounce their faith, but
 concealed themselves in a cave, where they lay wrapped in sleep "for 360
-years". <span id="fr_12"></span>[1](#fn_12) During the reign of
+years". <span id="fr_12"></span>[1](#fn_12.md) During the reign of
 Theodosius, the Roman Emperor, a shepherd entered the cave, and the
 sleepers were awakened. Rydberg notes that Decius fell in battle with
 the Goths "who a few years later invaded Asia Minor and captured Ephesus
@@ -920,7 +920,7 @@ others who have dealt with the legend were unfortunately unacquainted.
 The sleepers are found in Craig-a-howe, Black Isle; Ossian's Cave,
 Glencoe; and Smith's Rock, in Skye. In each case they are Fians
 (Fingalians), and beside Finn-mac-Coul lies his dog Bran. <span
-id="fr_13"></span>[1](#fn_13) In Tomnahurich, Inverness, the chief
+id="fr_13"></span>[1](#fn_13.md) In Tomnahurich, Inverness, the chief
 steeper is Thomas the Rhymer, who also reposes under the Eildon hills.
 
 In the Scottish caves a horn hangs from the roof When it is blown three
@@ -938,7 +938,7 @@ If this Highland story was imported by the Norsemen, why should the
 Arabian dog be a "sleeper" also? It is possible that in Arabia and in
 the Highlands the tale is found in its most archaic form, and that it is
 part of the floating material from which Teutonic Mythology was
-constructed. <span id="fr_14"></span>[2](#fn_14)
+constructed. <span id="fr_14"></span>[2](#fn_14.md)
 
 What appears to be a very old version of the legend
 
@@ -1002,57 +1002,57 @@ with earlier inhabitants and later "broad-heads" from Asia.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xxi:1](tml05.htm#fr_0) An English translation by
+<span id="fn_0"></span>[xxi:1](tml05.htm#fr_0.md) An English translation by
 R. B. Anderson was published in London in 1889, but is out of print.
 
-<span id="fn_1"></span>[xxi:2](tml05.htm#fr_1) Introduction to English
+<span id="fn_1"></span>[xxi:2](tml05.htm#fr_1.md) Introduction to English
 translation of Saxo Grammaticus.--Nutt.
 
-<span id="fn_2"></span>[xxii:1](tml05.htm#fr_2) Eirikr Magnusson's.
+<span id="fn_2"></span>[xxii:1](tml05.htm#fr_2.md) Eirikr Magnusson's.
 
-<span id="fn_3"></span>[xxxiii:1](tml05.htm#fr_3) In Scottish Gaelic,
+<span id="fn_3"></span>[xxxiii:1](tml05.htm#fr_3.md) In Scottish Gaelic,
 Fomhair and Famhair, pronounced "foo-ar" and "faa-har". The Fomorib (men
 of the sea) theory has long been abandoned by Prof. Rhys.
 
-<span id="fn_4"></span>[xxxiii:2](tml05.htm#fr_4) In Gaelic, Cailleach
+<span id="fn_4"></span>[xxxiii:2](tml05.htm#fr_4.md) In Gaelic, Cailleach
 Mor.
 
-<span id="fn_5"></span>[xxxiii:3](tml05.htm#fr_5) In pre-Christian times
+<span id="fn_5"></span>[xxxiii:3](tml05.htm#fr_5.md) In pre-Christian times
 witches were the friends of man, and helped him to combat against hags
 and giants.
 
-<span id="fn_6"></span>[xxxiv:1](tml05.htm#fr_6) In Old English the
+<span id="fn_6"></span>[xxxiv:1](tml05.htm#fr_6.md) In Old English the
 giants are "eotens".
 
-<span id="fn_7"></span>[xxxvii:1](tml05.htm#fr_7) In Ireland the "Milky
+<span id="fn_7"></span>[xxxvii:1](tml05.htm#fr_7.md) In Ireland the "Milky
 Way" is "Lugh's chain". Lugh is the dawn-god, and grandson of the
 night-god.
 
-<span id="fn_8"></span>[xxxvii:2](tml05.htm#fr_8) Saga Library, Morris
+<span id="fn_8"></span>[xxxvii:2](tml05.htm#fr_8.md) Saga Library, Morris
 and Magnusson, Vol. I, 339.
 
-<span id="fn_9"></span>[xl:1](tml05.htm#fr_9) *Beowulf*, Clark Hall,
+<span id="fn_9"></span>[xl:1](tml05.htm#fr_9.md) *Beowulf*, Clark Hall,
 Introduction, lix-lx.
 
-<span id="fn_10"></span>[xlii:1](tml05.htm#fr_10) Dietrich is the High
+<span id="fn_10"></span>[xlii:1](tml05.htm#fr_10.md) Dietrich is the High
 German equivalent of Theoderic. Bern is Verona.
 
-<span id="fn_11"></span>[xliii:1](tml05.htm#fr_11) The western Hittites
+<span id="fn_11"></span>[xliii:1](tml05.htm#fr_11.md) The western Hittites
 had a storm-god, named Tarku, at the head of their pantheon. The eastern
 Hittites called him Teshup. This god is a warrior who holds in one hand
 a hammer, and in the other three wriggling flashes of lightning. The
 hammer is the symbol of fertility. Thor brings his goats back to life by
 waving his hammer over them.
 
-<span id="fn_12"></span>[xliv:1](tml05.htm#fr_12) This calculation is
+<span id="fn_12"></span>[xliv:1](tml05.htm#fr_12.md) This calculation is
 according to the legends.
 
-<span id="fn_13"></span>[xlv:1](tml05.htm#fr_13) See *Finn and His
+<span id="fn_13"></span>[xlv:1](tml05.htm#fr_13.md) See *Finn and His
 Warrior Band*.
 
-<span id="fn_14"></span>[xlv:2](tml05.htm#fr_14) The dog also figures in
+<span id="fn_14"></span>[xlv:2](tml05.htm#fr_14.md) The dog also figures in
 a "Seven Sleepers" legend in North Afghanistan.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Story of Creation](tml06)
+[Next: Chapter I. Story of Creation](tml06.md)

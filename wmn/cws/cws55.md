@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws54)  [Next](cws56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws54)  [Next](cws56.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ FOR INITIATES OF HIGH GRADE
 
 ------------------------------------------------------------------------
 
-[Next: ''I AM''](cws56)
+[Next: ''I AM''](cws56.md)

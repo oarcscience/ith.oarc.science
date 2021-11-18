@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah14)  [Next](mah16) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah14)  [Next](mah16.md) 
 
 ------------------------------------------------------------------------
 
@@ -220,4 +220,4 @@ of the real things beyond.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: Music An Expression Of The Father](mah16)
+[Next: Chapter XIII: Music An Expression Of The Father](mah16.md)

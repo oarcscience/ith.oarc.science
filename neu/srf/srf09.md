@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srf08)  [Next](srf10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srf08)  [Next](srf10.md) 
 
 ------------------------------------------------------------------------
 
@@ -327,7 +327,7 @@ rather hear about the
 <span id="img_14500"></span>
 
 [![PETRUSHKA AND MARYA START ON THE JOURNEY TO MOSCOW](tn/14500.jpg)  
-Click to enlarge](img/14500.jpg)  
+Click to enlarge](img/14500.jpg.md)  
 PETRUSHKA AND MARYA START ON THE JOURNEY TO MOSCOW  
 
  
@@ -860,7 +860,7 @@ back to his seat.
 <span id="img_16000"></span>
 
 [![''JUMP IN!'' SHOUTED THE DRIVER TO PETRUSHKA](tn/16000.jpg)  
-Click to enlarge](img/16000.jpg)  
+Click to enlarge](img/16000.jpg.md)  
 ''JUMP IN!'' SHOUTED THE DRIVER TO PETRUSHKA  
 
  
@@ -1076,4 +1076,4 @@ himself doing his duty, like a true Russian and a true Christian."
 
 ------------------------------------------------------------------------
 
-[Next: The Old Order and the New](srf10)
+[Next: The Old Order and the New](srf10.md)

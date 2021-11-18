@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku19)  [Next](tku21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku19)  [Next](tku21.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ beginning of the hair.
 
 287\. "Also we have learned: No beard (*i.e.*, no part of this beard) is
 found which doth not (virtually) arise from the brain of the head (or
-from the heart). <span id="fr_40"></span>[1](#fn_39)
+from the heart). <span id="fr_40"></span>[1](#fn_39.md)
 
 288\. "But in this (last section) this (first part of the beard) is not
 considered as distinct (from the others). For in this chapter only this
@@ -44,13 +44,13 @@ one equal locks, extended even unto the beginning of the mouth.
 294\. "Those thirty and one equal locks, which exist in the first
 disposition (of the beard) are strong, in order that they may dispose
 the inferiors according to the number of AL, *El*. <span
-id="fr_41"></span>[1](#fn_40)
+id="fr_41"></span>[1](#fn_40.md)
 
 295\. "What is this AL, *El*? Mighty and Powerful One.
 
 296\. "And among those single locks are distributed one and thirty
 dominating worlds, so that they may be extended <span
-id="fr_42"></span>[2](#fn_41) (correctly) neither on this side nor on
+id="fr_42"></span>[2](#fn_41) (correctly.md) neither on this side nor on
 that.
 
 297\. "And out of each one of these worlds a partition is made into a
@@ -83,14 +83,14 @@ beard.
 
 304\. "The first world, which proceedeth from the first disposition,
 hath dominion over, and descendeth and ascendeth in a thousand times a
-thousand [myriads](errata.htm#4) of myriads of shield-bearers, and by it
+thousand [myriads](errata.htm#4.md) of myriads of shield-bearers, and by it
 are they comprehended under a great seal.
 
 305\. "The second world, which proceedeth from that disposition, hath
 dominion over and descendeth and ascendeth in fifty-seven thousand
 bodyguards, who are the lords of lamentations; and these are connected
 with it for the purpose of disposing the neck of the spine. <span
-id="fr_43"></span>[1](#fn_42)
+id="fr_43"></span>[1](#fn_42.md)
 
 306\. "The third world, which goeth forth from that arrangement, hath
 dominion over and descendeth and ascendeth in sixty-nine thousand
@@ -99,7 +99,7 @@ tongs (of the smith).
 
 307\. "And by that conformation all those are subjected, and mitigated
 in the bitterness of tears, which become sweet in the great sea. <span
-id="fr_44"></span>[2](#fn_43)
+id="fr_44"></span>[2](#fn_43.md)
 
 308\. "Who is he who beholdeth this conformation of the holy beard,
 excellent and venerable, who is not overcome with shame thereby?
@@ -112,17 +112,17 @@ down from Him, the Ancient One?
 310\. "He is set on the crown of crowns, which are the crowns of all
 crowns, and the crowns which are not comprehended in the other crowns; I
 say, of those crowns which are not as the other crowns, for the inferior
-crowns are comprehended by them. <span id="fr_45"></span>[1](#fn_44)
+crowns are comprehended by them. <span id="fr_45"></span>[1](#fn_44.md)
 
 311\. "And therefore are those forms (arranged in) such conformations,
 whereunto the inferior forms adhere; and they are the dispositions in
-which He <span id="fr_46"></span>[2](#fn_45) is disposed Who hath need
-that He may be blessed by Him, <span id="fr_47"></span>[3](#fn_46) and
+which He <span id="fr_46"></span>[2](#fn_45.md) is disposed Who hath need
+that He may be blessed by Him, <span id="fr_47"></span>[3](#fn_46.md) and
 Who desireth blessing.
 
 312\. "For whensoever the dispositions take the form of these, blessings
 are found beneath them; and It Is that which It Is. <span
-id="fr_48"></span>[4](#fn_47)
+id="fr_48"></span>[4](#fn_47.md)
 
 313\. "All things are comprehended in those dispositions; all things
 raise themselves up in order that they may receive these dispositions of
@@ -137,7 +137,7 @@ though they existed not.
 315\. "Also we have learned by tradition: how far do those conformations
 of the beard radiate splendour? Even unto the thirteen inferiors; and
 whensoever those thirteen are found, those shine. <span
-id="fr_49"></span>[5](#fn_48)
+id="fr_49"></span>[5](#fn_48.md)
 
 <span id="page_146">p. 146</span>
 
@@ -153,7 +153,7 @@ is not manifested.
 
 319\. "But what beard is manifested? The beard of the Great High Priest,
 and from that beard descendeth the influx unto the inferior beard of the
-inferior high priest. <span id="fr_50"></span>[1](#fn_49)
+inferior high priest. <span id="fr_50"></span>[1](#fn_49.md)
 
 320\. "How is the beard of the high priest disposed? The beard of the
 high priest is disposed in eight conformations. Because also the high
@@ -189,25 +189,25 @@ blessed be my lot with thee in the world to come."
 
 ### Footnotes
 
-<span id="fn_39"></span>[142:1](tku20.htm#fr_40) The heart being
+<span id="fn_39"></span>[142:1](tku20.htm#fr_40.md) The heart being
 considered as the central motor of the body.
 
-<span id="fn_40"></span>[143:1](tku20.htm#fr_41) AL, *El*, God, the
+<span id="fn_40"></span>[143:1](tku20.htm#fr_41.md) AL, *El*, God, the
 Mighty One, is equivalent by Gematria to the number 31; for A + L = 1+
 30 = 31.
 
-<span id="fn_41"></span>[143:2](tku20.htm#fr_42) For were they extended,
+<span id="fn_41"></span>[143:2](tku20.htm#fr_42.md) For were they extended,
 the number would be altered, and it would consequently no longer = AL.
 
-<span id="fn_42"></span>[144:1](tku20.htm#fr_43) This is of course
+<span id="fn_42"></span>[144:1](tku20.htm#fr_43.md) This is of course
 simply pursuing the symbolism involved in the idea of Macroprosopus,
 being typified by a vast countenance or head.
 
-<span id="fn_43"></span>[144:2](tku20.htm#fr_44) By the great sea.
+<span id="fn_43"></span>[144:2](tku20.htm#fr_44.md) By the great sea.
 Binah, the third Sephira, is probably meant. (See the "Book of Concealed
 Mystery," ch. i. § 28).
 
-<span id="fn_44"></span>[145:1](tku20.htm#fr_45) To comprehend the real
+<span id="fn_44"></span>[145:1](tku20.htm#fr_45.md) To comprehend the real
 meaning of section 310, the reader should have carefully studied that
 part of the introduction which refers to the Sephiroth, which are
 symbolised by crowns. In this sense the "crown of crowns" is Kether, the
@@ -218,21 +218,21 @@ crowns of the twenty-four elders in the Apocalypse, which latter is a
 purely qabalistical work, and is unintelligible without the qabalistical
 keys.
 
-<span id="fn_45"></span>[145:2](tku20.htm#fr_46) Microprosopus.
+<span id="fn_45"></span>[145:2](tku20.htm#fr_46.md) Microprosopus.
 
-<span id="fn_46"></span>[145:3](tku20.htm#fr_47) Macroprosopus.
+<span id="fn_46"></span>[145:3](tku20.htm#fr_47.md) Macroprosopus.
 
-<span id="fn_47"></span>[145:4](tku20.htm#fr_48) Cf. Exodus iii. 14.
+<span id="fn_47"></span>[145:4](tku20.htm#fr_48.md) Cf. Exodus iii. 14.
 
-<span id="fn_48"></span>[145:5](tku20.htm#fr_49) This section refers to
+<span id="fn_48"></span>[145:5](tku20.htm#fr_49.md) This section refers to
 the statement that Macroprosopus pours forth His splendour upon
 Microprosopus, so that the latter shines by reflected light.
 
-<span id="fn_49"></span>[146:1](tku20.htm#fr_50) The Great High Priest
+<span id="fn_49"></span>[146:1](tku20.htm#fr_50.md) The Great High Priest
 is the son, Microprosopus, symbolized on earth by the High Priest.
 Compare what St. Paul says about Christ being our Great High Priest.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII: Concerning the Second Part of the Beard of
-Macroprosopus](tku21)
+Macroprosopus](tku21.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Miscellaneous](../../index)  [Christmas](../index)  [Index](index) 
-[Previous](acc04)  [Next](acc06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Miscellaneous](../../index)  [Christmas](../index)  [Index](index.md) 
+[Previous](acc04)  [Next](acc06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -120,7 +120,7 @@ eaten up with rust.
 
 <span id="img_07800"></span> <span align="CENTER"> [![Scrooge's third
 Visitor](tn/07800.jpg)  
-Click to enlarge](img/07800.jpg)  
+Click to enlarge](img/07800.jpg.md)  
 Scrooge's third Visitor  
 </span>
 
@@ -1026,7 +1026,7 @@ those who tell it ye! Admit it for your factious purposes, and make it
 worse! And bide the end!"
 
 <span id="img_11900"></span> <span align="CENTER"> [![](tn/11900.jpg)  
-Click to enlarge](img/11900.jpg)</span>
+Click to enlarge](img/11900.jpg.md)</span>
 
 <span id="page_120">p. 120</span>
 
@@ -1044,4 +1044,4 @@ hooded, coming, like a mist along the ground, towards him.
 
 ------------------------------------------------------------------------
 
-[Next: Stave Four. The Last of the Spirits](acc06)
+[Next: Stave Four. The Last of the Spirits](acc06.md)

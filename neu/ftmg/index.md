@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ftmg00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ftmg.txt.gz)
+[Contents](#contents)    [Start Reading](ftmg00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ftmg.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -49,19 +49,19 @@ mythology.--J.B. Hare.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ftmg00)  
-[Contents](ftmg01)  
-[Illustrations](ftmg02)  
-[Foreword](ftmg03)  
-[I. The Fairy Hunter](ftmg04)  
-[II. Fairy Gardens](ftmg05)  
-[III. The Fairy Wife](ftmg06)  
-[IV. Fairies of the Waterfall](ftmg07)  
-[V. The Fairy Comb](ftmg08)  
-[VI. A Fairy Wedding](ftmg09)  
-[VII. The Fairy Ring](ftmg10)  
-[The Fairies’ Theft](ftmg11)  
-[IX. The Haunted Ship](ftmg12)  
-[X. The Wonder of Skoupa](ftmg13)  
-[XI. The First of May](ftmg14)  
-[XII. The Fairy Mother](ftmg15)  
+<span id="contents"></span> [Title Page](ftmg00.md)  
+[Contents](ftmg01.md)  
+[Illustrations](ftmg02.md)  
+[Foreword](ftmg03.md)  
+[I. The Fairy Hunter](ftmg04.md)  
+[II. Fairy Gardens](ftmg05.md)  
+[III. The Fairy Wife](ftmg06.md)  
+[IV. Fairies of the Waterfall](ftmg07.md)  
+[V. The Fairy Comb](ftmg08.md)  
+[VI. A Fairy Wedding](ftmg09.md)  
+[VII. The Fairy Ring](ftmg10.md)  
+[The Fairies’ Theft](ftmg11.md)  
+[IX. The Haunted Ship](ftmg12.md)  
+[X. The Wonder of Skoupa](ftmg13.md)  
+[XI. The First of May](ftmg14.md)  
+[XII. The Fairy Mother](ftmg15.md)  

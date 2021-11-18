@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ami04)  [Next](ami06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ami04)  [Next](ami06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Amitabha, A Story of Buddhist Theology*, by Paul Carus, \[1906\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="page_32">p. 32</span>
 
-### THE CONFESSION.[11](ami16.htm#an_11)
+### THE CONFESSION.[11](ami16.htm#an_11.md)
 
 <span class="smallcaps">The</span> young novice spent his days in study
 and his nights in doubt. He followed with interest the recitations of
@@ -196,7 +196,7 @@ that came to India and founded
 <span id="page_40">p. 40</span>
 
 the kingdom of Gandhâra. Yet he knows Brahman writings and is familiar
-with the philosophy of the Yavanas[12](ami16.htm#an_12) of the distant
+with the philosophy of the Yavanas[12](ami16.htm#an_12.md) of the distant
 West. I discoursed with him and understand that by God he means all that
 is right and good and true in the world and without whom there can be no
 enlightenment."
@@ -226,7 +226,7 @@ of an earnest temper. The difficulty which he encounters is not for us
 to judge him or to advise him about. But there is a philosopher living
 in the kingdom of Magadha, by the name of Açvaghosha. If there is any
 one in the world that can set an erring brother right, it is
-[Açvaghosha](errata.htm#1), whose wisdom is so great that since Buddha
+[Açvaghosha](errata.htm#1.md), whose wisdom is so great that since Buddha
 entered Nirvana there has been no man on earth who might have surpassed
 him either in knowledge or judgment." So Subhûti proposed to write a
 letter of introduction to Açvaghosha commending the brother Charaka to
@@ -296,4 +296,4 @@ to be a monk of our Lord the Buddha."
 
 ------------------------------------------------------------------------
 
-[Next: Gandhara](ami06)
+[Next: Gandhara](ami06.md)

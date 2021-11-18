@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs17) [Next](hbs19)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs17) [Next](hbs19.md)
 
 ------------------------------------------------------------------------
 
@@ -65,9 +65,9 @@ there.
 There were full three hundred ancient priests and twelve great bishops
 more,  
 And likewise at that season there came the patriarchs four;  
-In Pech<span id="page_107_fr_1"></span>[1](#page_107_note_1) the one was
+In Pech<span id="page_107_fr_1"></span>[1](#page_107_note_1.md) the one was
 ruler, and one of Tsárigrad,<span
-id="page_107_fr_2"></span>[2](#page_107_note_2)  
+id="page_107_fr_2"></span>[2](#page_107_note_2.md)  
 One in Jerusalem, and the last the earth for his province had.  
 And they put on the sacred robes with monks’ hats for the head,  
 And with them took the holy book, and mighty prayers they said.  
@@ -88,7 +88,7 @@ And because of it no wretched tears by the fatherless were shed.
 
 ------------------------------------------------------------------------
 
-[Next](hbs19)
+[Next](hbs19.md)
 
 ------------------------------------------------------------------------
 
@@ -96,9 +96,9 @@ And because of it no wretched tears by the fatherless were shed.
 
 <span id="footnotes_page_107">p. 107</span>
 
-<span id="page_107_note_1"></span>[1](#page_107_fr_1) Ipek.
+<span id="page_107_note_1"></span>[1](#page_107_fr_1.md) Ipek.
 
-<span id="page_107_note_2"></span>[2](#page_107_fr_2) The *tsar’s city*,
+<span id="page_107_note_2"></span>[2](#page_107_fr_2.md) The *tsar’s city*,
 Constantinople.
 
  

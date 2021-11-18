@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi213)  [Next](mtsi215) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi213)  [Next](mtsi215.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ hard that she was hurt. Letting her lie there, he went away.
 
 ------------------------------------------------------------------------
 
-[Next: 15. The Orphan Boy And Rabbit](mtsi215)
+[Next: 15. The Orphan Boy And Rabbit](mtsi215.md)

@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ Articles](../../bud/etc/index)
 
 <span id="page_485">p. 485</span>
 
-## THE CANONICAL ACCOUNT OF THE BIRTH OF GOTAMA THE BUDDHA.<span id="page_485_fr_1"></span>[<sup><span class="small">1</span></sup>](#page_485_note_1)
+## THE CANONICAL ACCOUNT OF THE BIRTH OF GOTAMA THE BUDDHA.<span id="page_485_fr_1"></span>[<sup><span class="small">1</span></sup>](#page_485_note_1.md)
 
 <span class="small">BY ALBERT J. EDMUNDS.</span>
 
@@ -54,7 +54,7 @@ PREFATORY NOTE.
 attending the birth of Gotama, viz., the *Nâlaka Sutta* in the Sutta
 Nipâta, which was translated by Dr. Fausböll in 1881 (*Sacred Books of
 the East*, Vol. X., part 2, [p.
-124](../../bud/sbe10/sbe1035.htm#sect_11)) and the Dialogue in the
+124](../../bud/sbe10/sbe1035.htm#sect_11).md) and the Dialogue in the
 Middling Collection, now translated for the first time. This was first
 pointed out by Oldenberg in 1881, in his *Life of Buddha*, where he gave
 us one or two details concerning it (Oldenberg's *Buddha*, English
@@ -69,10 +69,10 @@ distributed throughout the United States.
 commentary on our present text) is to be found in the Commentary on the
 Birth Stories. This account has been twice translated: by Rhys Davids in
 1880 (*Buddhist Birth Stories*), and by Henry C. Warren in 1896
-(*Buddhism in Translations*, [p. 38](../../bud/bits/bits004)). It is
+(*Buddhism in Translations*, [p. 38](../../bud/bits/bits004).md). It is
 based upon our present Sutta and the one in the Sutta Nipâta. The
 portion based upon the latter is given by Warren at [p.
-48](../../bud/bits/bits005). As in the case of the Haggadah of the
+48](../../bud/bits/bits005.md). As in the case of the Haggadah of the
 Hebrews, it was reckoned quite fair among the ancient Hindus, to add
 embellishments to a narrative in the form of commentary. It will be
 seen, however, that not even in the commentary do the Buddhists <span
@@ -84,9 +84,9 @@ familiar doctrine of transmigration.
    All other accounts of the Buddha's nativity, such as those translated
 from the Sanskrit or Chinese, of which we have a specimen in *Sacred
 Books of the East*, Vols. XIX. and
-[XLIX.](../../bud/sbe49/sbe4903),<span
+[XLIX.](../../bud/sbe49/sbe4903.md),<span
 id="page_486_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_486_note_1) are late patristic
+class="small">1</span></sup>](#page_486_note_1.md) are late patristic
 poems, on an entirely different footing from the canonical Pâli texts.
 There is no doubt that these last have come down to us from the men who
 knew Gotama. Our present Sutta is quoted in a work as old as the
@@ -107,7 +107,7 @@ conversation arose:
 
    "Wonderful, O brother! marvellous, O brother! is the occult power and
 magical might of the<span id="page_486_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_486_note_2) Tathâgata: when, for
+class="small">2</span></sup>](#page_486_note_2.md) Tathâgata: when, for
 instance, upon the decease of the former Buddha, who has broken down
 obstacles and avenues, exhausted his transmigrations and passed beyond
 all pain, the Tathâgata perceives: 'Such were the families of the
@@ -149,13 +149,13 @@ wonderful and marvellous quality of the Blessed One.*"
 
    2. "'Ânanda, the Bodhisat abode for a lifetime in the Tusita
 body.<span id="page_487_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_487_note_1)
+class="small">1</span></sup>](#page_487_note_1.md)
 
    3. "'*Ânanda, the Bodhisat is mindful and conscious when he leaves
 the Tusita body and descends into his mother's womb.* \[These words
 occur identically in the Pâli, in slightly different order, in the Book
 of the Great Decease III. 15. *Sacred Books of the East*, Vol. XI., [p.
-46](../../bud/sbe11/sbe1102.htm#page_46).\]
+46](../../bud/sbe11/sbe1102.htm#page_46.md).\]
 
    4. "'Ânanda, when the Bodhisat leaves the Tusita body and descends
 into his mother's womb, then in the world of the devas, together with
@@ -180,7 +180,7 @@ or the Bodhisat's mother!"
 
    6. "'Ânanda, when the Bodhisat is descending into his mother's womb,
 she is pure from sexuality,<span id="page_488_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_488_note_1) has abstained from
+class="small">1</span></sup>](#page_488_note_1.md) has abstained from
 taking life, from theft, from lusts, from evil conduct, from lying, and
 from all kinds of wine and strong drink, which are a cause of
 irreligion.
@@ -226,14 +226,14 @@ the first to receive him, and mortals afterwards.
 touch the ground: four sons of the devas stand before his mother and
 receive him. "Be thou a blessed goddess," they say: "unto thee is born
 an eminent son."<span id="page_489_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_489_note_1)
+class="small">1</span></sup>](#page_489_note_1.md)
 
    15. "'Ânanda, when the Bodhisat leaves his mother's womb, he leaves
 it quite clean, undefiled with matter or blood, but pure, clean, and
 undefiled by any impurity. As in the case of a gem or a jewel, Ânanda,
 laid in Benâres cloth, the gem or jewel does not defile the shining<span
 id="page_489_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_489_note_2) cloth at all, nor the
+class="small">2</span></sup>](#page_489_note_2.md) cloth at all, nor the
 Benâres cloth the jewel or the gem (and why?--because they both are
 pure): even so, Ânanda, when the Bodhisat leaves his mother's womb, he
 leaves it quite clean, undefiled with matter or blood, but pure, clean,
@@ -246,7 +246,7 @@ Bodhisat and his mother.
    17. "'Ânanda, the new-born Bodhisat stands sheer upright on his feet,
 walks northwards with a seven-paced stride, holding<span
 id="page_489_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_489_note_3) over himself a white
+class="small">3</span></sup>](#page_489_note_3.md) over himself a white
 canopy, and looking forth in all directions utters the bull-like speech:
 "I am the chief of the universe, I am the best in the universe, I am the
 eldest in the universe. This is my last existence: I shall now be born
@@ -262,7 +262,7 @@ in the sky, there too appears <span id="page_490">p. 490</span> the
 splendor limitless and eminent, surpassing the very might of the devas,
 so that beings who are born there consider<span
 id="page_490_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_490_note_1) among themselves by
+class="small">1</span></sup>](#page_490_note_1.md) among themselves by
 reason of that splendor: "Friend, indeed there are other beings born
 here, and this ten-thousand world-system rocks and quakes and
 tremendously trembles: a splendor limitless and eminent appears in the
@@ -304,7 +304,7 @@ THE ANTIQUITY OF THE BUDDHIST NATIVITY SUTTA.
 antiquity of this document, which I translated in *The Open Court* for
 August last. Pending a longer article, I will briefly say that the title
 of Sutta 61<span id="page_701_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_701_note_1) of the Majjhima Nikâya
+class="small">1</span></sup>](#page_701_note_1.md) of the Majjhima Nikâya
 is graven on the Bairât Rock in India, among other canonical titles.
 This inscription, by the Emperor Asoka, dates from the third century
 before Christ. Other inscriptions of the same date speak of reciters of
@@ -369,7 +369,7 @@ ALBERT J. EDMUNDS.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Buddhist Articles](../../bud/etc/index)
+[Journals](../index) [Buddhist Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -377,28 +377,28 @@ ALBERT J. EDMUNDS.
 
 <span id="footnotes_page_485">p. 485</span>
 
-<span id="page_485_note_1"></span>[1](#page_485_fr_1). Translated from
+<span id="page_485_note_1"></span>[1](#page_485_fr_1.md). Translated from
 the Pâli text of the Middling Collection of the Dialogues of Gotama.
 
 <span id="footnotes_page_486">p. 486</span>
 
-<span id="page_486_note_1"></span>[1](#page_486_fr_1). These two volumes
+<span id="page_486_note_1"></span>[1](#page_486_fr_1.md). These two volumes
 represent the same work, Vol. XIX. being translated from a Chinese
 version, Vol. XLIX. from the Sanskrit original.
 
-<span id="page_486_note_2"></span>[2](#page_486_fr_2). The indefinite
+<span id="page_486_note_2"></span>[2](#page_486_fr_2.md). The indefinite
 article may be read here with equal propriety.
 
 <span id="footnotes_page_487">p. 487</span>
 
-<span id="page_487_note_1"></span>[1](#page_487_fr_1). Repetitions
+<span id="page_487_note_1"></span>[1](#page_487_fr_1.md). Repetitions
 similar to those italicised in the above paragraph occur at the
 beginning and end of the eighteen statements which follow. They are here
 numbered for convenience.
 
 <span id="footnotes_page_488">p. 488</span>
 
-<span id="page_488_note_1"></span>[1](#page_488_fr_1). Cf. Diogenes
+<span id="page_488_note_1"></span>[1](#page_488_fr_1.md). Cf. Diogenes
 Laërtius on the birth of Plato: "Then he kept her pure of marriage until
 the birth." (*Lives of the Philosophers*, Bk. 3.)
 
@@ -414,26 +414,26 @@ known Rhys Davids in 1890.)
 
 <span id="footnotes_page_489">p. 489</span>
 
-<span id="page_489_note_1"></span>[1](#page_489_fr_1). Cf. [Luke i.
-28](../../bib/kjv/luk.htm#1:28).
+<span id="page_489_note_1"></span>[1](#page_489_fr_1.md). Cf. [Luke i.
+28](../../bib/kjv/luk.htm#1:28.md).
 
-<span id="page_489_note_2"></span>[2](#page_489_fr_2).The King of Siam
+<span id="page_489_note_2"></span>[2](#page_489_fr_2.md).The King of Siam
 repeats "Benâres cloth" here: *Kâsikavattha.m*, instead of *Kâsita.m
 vattha.m*.
 
-<span id="page_489_note_3"></span>[3](#page_489_fr_3). A participle in
+<span id="page_489_note_3"></span>[3](#page_489_fr_3.md). A participle in
 the Middle Voice. The commentary on the Birth Stories says that the god
 Brahma held it! *Canopy* appears to me a more dignified translation than
 "parasol" or "umbrella." It is an emblem of royalty.
 
 <span id="footnotes_page_490">p. 490</span>
 
-<span id="page_490_note_1"></span>[1](#page_490_fr_1). This is
+<span id="page_490_note_1"></span>[1](#page_490_fr_1.md). This is
 practically the only verbal difference in this stereotyped repetition.
 
 <span id="footnotes_page_701">p. 701</span>
 
-<span id="page_701_note_1"></span>[1](#page_701_fr_1). Misprinted 71 in
+<span id="page_701_note_1"></span>[1](#page_701_fr_1.md). Misprinted 71 in
 Rhys Davids' Manual, 1894.
 
  

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot38) 
-[Next](laot40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot38.md) 
+[Next](laot40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -112,4 +112,4 @@ endurance of the scourge.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 1-6](laot40)
+[Next: Chapters 1-6](laot40.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Sagas](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rac00)
+[Contents](#contents)    [Start Reading](rac00.md)
 
 ------------------------------------------------------------------------
 
@@ -66,31 +66,31 @@ February 7th, 2004
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](rac00)  
-[Preface](rac01)  
-[Contents](rac02)  
-[List Of Abbreviations](rac03)  
-[Chapter I. Introductory](rac04)  
-[Chapter II. The Celtic People](rac05)  
-[Chapter III. The Gods of Gaul and the Continental Celts](rac06)  
-[Chapter IV. The Irish Mythological Cycle](rac07)  
-[Chapter V. The Tuatha Dé Danann](rac08)  
-[Chapter VI. The Gods of the Brythons](rac09)  
-[Chapter VII. The Cúchulainn Cycle](rac10)  
-[Chapter VIII. The Fionn Saga](rac11)  
-[Chapter IX. Gods and Men](rac12)  
-[Chapter X. The Cult of the Dead](rac13)  
-[Chapter XI. Primitive Nature Worship](rac14)  
-[Chapter XII. River and Well Worship](rac15)  
-[Chapter XIII. Tree and Plant Worship](rac16)  
-[Chapter XIV. Animal Worship](rac17)  
-[Chapter XV. Cosmogony](rac18)  
-[Chapter XVI. Sacrifice, Prayer, and Divination](rac19)  
-[Chapter XVII. Tabu.](rac20)  
-[Chapter XVIII. Festivals.](rac21)  
-[Chapter XIX. Accessories of Cult](rac22)  
-[Chapter XX. The Druids](rac23)  
-[Chapter XXI. Magic.](rac24)  
-[Chapter XXII. The State of the Dead](rac25)  
-[Chapter XXIII. Rebirth and Transmigration](rac26)  
-[Chapter XXIV. Elysium](rac27)  
+<span id="contents"></span> [Title Page](rac00.md)  
+[Preface](rac01.md)  
+[Contents](rac02.md)  
+[List Of Abbreviations](rac03.md)  
+[Chapter I. Introductory](rac04.md)  
+[Chapter II. The Celtic People](rac05.md)  
+[Chapter III. The Gods of Gaul and the Continental Celts](rac06.md)  
+[Chapter IV. The Irish Mythological Cycle](rac07.md)  
+[Chapter V. The Tuatha Dé Danann](rac08.md)  
+[Chapter VI. The Gods of the Brythons](rac09.md)  
+[Chapter VII. The Cúchulainn Cycle](rac10.md)  
+[Chapter VIII. The Fionn Saga](rac11.md)  
+[Chapter IX. Gods and Men](rac12.md)  
+[Chapter X. The Cult of the Dead](rac13.md)  
+[Chapter XI. Primitive Nature Worship](rac14.md)  
+[Chapter XII. River and Well Worship](rac15.md)  
+[Chapter XIII. Tree and Plant Worship](rac16.md)  
+[Chapter XIV. Animal Worship](rac17.md)  
+[Chapter XV. Cosmogony](rac18.md)  
+[Chapter XVI. Sacrifice, Prayer, and Divination](rac19.md)  
+[Chapter XVII. Tabu.](rac20.md)  
+[Chapter XVIII. Festivals.](rac21.md)  
+[Chapter XIX. Accessories of Cult](rac22.md)  
+[Chapter XX. The Druids](rac23.md)  
+[Chapter XXI. Magic.](rac24.md)  
+[Chapter XXII. The State of the Dead](rac25.md)  
+[Chapter XXIII. Rebirth and Transmigration](rac26.md)  
+[Chapter XXIV. Elysium](rac27.md)  

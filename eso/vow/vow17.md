@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow16)  [Next](vow18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow16)  [Next](vow18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ words, I judge man to be happy in that he has obtained such felicity.
 Certes, he deserves admiration, being the greatest of all the Gods! For
 the race of the Gods is formed of the purest part of Nature, without
 admixture of other elements, and their visible signs are, as it were,
-only heads. <span id="fr_36"></span>[1](#fn_36) But the Gods which
+only heads. <span id="fr_36"></span>[1](#fn_36.md) But the Gods which
 mankind makes, possess two natures--one divine, which is the first and
 by far the purest, the other belonging to humanity, which is the matter
 of which these Gods are composed, so that they have not only heads, but
@@ -126,7 +126,7 @@ of men. The Soul, and all that belongs thereto--whether born mortal or
 able to attain eternal life--all those things which I have herein
 expounded to thee, will be but matters for ridicule, and will be
 esteemed foolishness. There will even be peril of death, believe me, for
-those who [remain](errata.htm#2) faithful to religion and intelligence.
+those who [remain](errata.htm#2.md) faithful to religion and intelligence.
 New rights will be instituted, new laws, nor will there be left one holy
 word, one sacred belief, religious and worthy of heaven and of celestial
 things. O lamentable separation between the Gods and men! Then there
@@ -208,7 +208,7 @@ But where are they now, Trismegistos?
 *Hermes*:
 
 They are established in a great city, upon the mountain of Lybia. Enough
-of this. <span id="fr_37"></span>[1](#fn_37)
+of this. <span id="fr_37"></span>[1](#fn_37.md)
 
 <span id="img_sep00"></span> ![](img/sep00.jpg)
 
@@ -216,16 +216,16 @@ of this. <span id="fr_37"></span>[1](#fn_37)
 
 ### Footnotes
 
-<span id="fn_36"></span>[70:1](vow17.htm#fr_36) Hermes speaks of the
+<span id="fn_36"></span>[70:1](vow17.htm#fr_36.md) Hermes speaks of the
 Stars, and of the Astral Powers, not of the Divine Intelligences. The
 whole of this discourse has a hidden and profound meaning, relating to
 the human organism, and to the elemental genii, which through man are
 individualised. A.K.
 
-<span id="fn_37"></span>[75:1](vow17.htm#fr_37) By "Egypt" is denoted
+<span id="fn_37"></span>[75:1](vow17.htm#fr_37.md) By "Egypt" is denoted
 not only the country of that name, but the physical system generally of
 the world, and especially--as in the Hebrew Scriptures--the human body.
 
 ------------------------------------------------------------------------
 
-[Next: Part X](vow18)
+[Next: Part X](vow18.md)

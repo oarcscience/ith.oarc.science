@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](chl14)  [Next](chl16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](chl14)  [Next](chl16.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Christian Healing: the science of being*, by Charles Fillmore,
 \[1926\], at Intangible Textual Heritage
 
@@ -624,4 +624,4 @@ and courage? Give an illustration from your own experience.
 
 ------------------------------------------------------------------------
 
-[Next: Index](chl16)
+[Next: Index](chl16.md)

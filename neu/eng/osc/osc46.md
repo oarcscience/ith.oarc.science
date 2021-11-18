@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc45)  [Next](osc47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc45)  [Next](osc47.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ delusive--sometimes dangerous.
 
 ------------------------------------------------------------------------
 
-[Next: (6) Astrology](osc47)
+[Next: (6) Astrology](osc47.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](arw42)  [Next](arw44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](arw42)  [Next](arw44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabian Wisdom*, by John Wortabet, \[1913\], at Intangible Textual
 Heritage
 
@@ -37,4 +37,4 @@ The head of an idle man is the workshop of Satan.
 
 ------------------------------------------------------------------------
 
-[Next: Avarice, Stinginess, Greed](arw44)
+[Next: Avarice, Stinginess, Greed](arw44.md)

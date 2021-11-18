@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](alt14)  [Next](alt16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](alt14)  [Next](alt16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXT10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXT10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Australian Legendary Tales*, by K. Langloh Parker, \[1897\], at
 Intangible Textual Heritage
 
@@ -57,4 +57,4 @@ And the place of the mayamah is on one of the mounts near Beemery.
 
 ------------------------------------------------------------------------
 
-[Next: The Bunbundoolooeys](alt16)
+[Next: The Bunbundoolooeys](alt16.md)

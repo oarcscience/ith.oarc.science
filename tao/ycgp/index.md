@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index)
+[Sacred-Texts](../../index) [Taoism](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ were not considered to be members of a single school in ancient times.
 In addition, the text that we still have which is attributed to Yang Chu
 is from a somewhat later period, preserved in the *Lieh Tzu* (other
 extracts of which are also available at Intangible Textual Heritage in
-the book [*Taoist Teachings*](../tt/index)), which did not reach its
+the book [*Taoist Teachings*](../tt/index).md), which did not reach its
 final form until perhaps 400 C.E. or so. In this text, Yang Chu is far
 from being a mystic, and is concerned mainly with enjoying life to its
 fullest, allowing a person's individual character the fullest expression
@@ -31,25 +31,25 @@ possible and not interfering with natural processes.
 
 ------------------------------------------------------------------------
 
-[Title Page](ycgp000)  
-[CONTENTS](ycgp001)  
-[INTRODUCTION](ycgp002)  
-[CHAPTER I THE VANITY OF FAME](ycgp01)  
-[CHAPTER II REAL AND FALSE GREATNESS](ycgp02)  
-[CHAPTER III THE BREVITY OF CONSCIOUS LIFE](ycgp03)  
-[CHAPTER IV DEATH THE EQUALISER](ycgp04)  
-[CHAPTER V FALSE VIRTUES](ycgp05)  
-[CHAPTER VI THE IDEAL LIFE](ycgp06)  
-[CHAPTER VII DUTY TO THE LIVING AND THE DEAD](ycgp07)  
-[CHAPTER VIII THE ART OF LIFE](ycgp08)  
-[CHAPTER IX THE HAPPY VOLUPTUARIES](ycgp09)  
-[CHAPTER X THE JOYOUS LIFE OF TUAN-MU-SHU](ycgp10)  
-[CHAPTER XI THE FOLLY OF DESIRE FOR LONG LIFE](ycgp11)  
-[CHAPTER XII SELF-SACRIFICE AND SELF-AGGRANDISEMENT](ycgp12)  
-[CHAPTER XIII THE VANITY OF REPUTATION](ycgp13)  
-[CHAPTER XIV DIFFICULTY AND EASE OF GOVERNMENT](ycgp14)  
-[CHAPTER XV ALL THINGS PASS](ycgp15)  
-[CHAPTER XVI THE NATURE OF MAN](ycgp16)  
-[CHAPTER XVII THE FOUR CHIMERAS](ycgp17)  
-[CHAPTER XVIII ALL PLEASURES ARE RELATIVE](ycgp18)  
-[CHAPTER XIX THE WISDOM OF CONTENTMENT](ycgp19)  
+[Title Page](ycgp000.md)  
+[CONTENTS](ycgp001.md)  
+[INTRODUCTION](ycgp002.md)  
+[CHAPTER I THE VANITY OF FAME](ycgp01.md)  
+[CHAPTER II REAL AND FALSE GREATNESS](ycgp02.md)  
+[CHAPTER III THE BREVITY OF CONSCIOUS LIFE](ycgp03.md)  
+[CHAPTER IV DEATH THE EQUALISER](ycgp04.md)  
+[CHAPTER V FALSE VIRTUES](ycgp05.md)  
+[CHAPTER VI THE IDEAL LIFE](ycgp06.md)  
+[CHAPTER VII DUTY TO THE LIVING AND THE DEAD](ycgp07.md)  
+[CHAPTER VIII THE ART OF LIFE](ycgp08.md)  
+[CHAPTER IX THE HAPPY VOLUPTUARIES](ycgp09.md)  
+[CHAPTER X THE JOYOUS LIFE OF TUAN-MU-SHU](ycgp10.md)  
+[CHAPTER XI THE FOLLY OF DESIRE FOR LONG LIFE](ycgp11.md)  
+[CHAPTER XII SELF-SACRIFICE AND SELF-AGGRANDISEMENT](ycgp12.md)  
+[CHAPTER XIII THE VANITY OF REPUTATION](ycgp13.md)  
+[CHAPTER XIV DIFFICULTY AND EASE OF GOVERNMENT](ycgp14.md)  
+[CHAPTER XV ALL THINGS PASS](ycgp15.md)  
+[CHAPTER XVI THE NATURE OF MAN](ycgp16.md)  
+[CHAPTER XVII THE FOUR CHIMERAS](ycgp17.md)  
+[CHAPTER XVIII ALL PLEASURES ARE RELATIVE](ycgp18.md)  
+[CHAPTER XIX THE WISDOM OF CONTENTMENT](ycgp19.md)  

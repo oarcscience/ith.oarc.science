@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd13)  [Next](smd15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd13)  [Next](smd15.md) 
 
 ------------------------------------------------------------------------
 
@@ -145,4 +145,4 @@ falls in this month.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Stories of the Days](smd15)
+[Next: Chapter XIII. Stories of the Days](smd15.md)

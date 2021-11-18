@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cob00)  [Next](cob02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cob00)  [Next](cob02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Buddha*, by Edmond Holmes, \[1919\], at Intangible Textual
 Heritage
 
@@ -20,7 +20,7 @@ Heritage
 ### PREFACE
 
 AS I do not know a word of Pâli or any other Eastern <span
-id="fr_0"></span>[1](#fn_0) language, I owe a debt of gratitude to those
+id="fr_0"></span>[1](#fn_0.md) language, I owe a debt of gratitude to those
 distinguished scholars whose translations of the Buddhist scriptures and
 expositions of the teaching of Buddhism have made it possible for me to
 attempt to interpret the creed of Buddha. If I have found their
@@ -116,10 +116,10 @@ hidden strength, and if Christendom is ever to understand Christianity.
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:1](cob01.htm#fr_0) Whenever I use the word
+<span id="fn_0"></span>[v:1](cob01.htm#fr_0.md) Whenever I use the word
 "East" or "Eastern," I am thinking of the Far East, *i.e.* of Eastern
 Asia.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](cob02)
+[Next: Contents](cob02.md)

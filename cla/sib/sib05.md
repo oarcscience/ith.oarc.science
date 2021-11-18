@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib04)  [Next](sib06) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib04)  [Next](sib06.md) 
 
 ------------------------------------------------------------------------
 
@@ -1722,4 +1722,4 @@ Isis.\]
 
 ------------------------------------------------------------------------
 
-[Next: Book IV.](sib06)
+[Next: Book IV.](sib06.md)

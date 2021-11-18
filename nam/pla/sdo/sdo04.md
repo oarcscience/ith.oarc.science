@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo03)  [Next](sdo05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo03)  [Next](sdo05.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ ceremony.
 
 ------------------------------------------------------------------------
 
-[Next: Invitations](sdo05)
+[Next: Invitations](sdo05.md)

@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Christian
-Articles](../../chr/etc/index)
+Heritage](../../index) [Journals](../index.md) [Christian
+Articles](../../chr/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -108,7 +108,7 @@ exuberance around the figure of the Crucified.
 they have conquered the enemy they enter in triumphal procession and
 celebrate their marriage feast. This is especially the case of Bel
 Marduk,<span id="page_450_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_450_note_1) the main mediator god of
+class="small">1</span></sup>](#page_450_note_1.md) the main mediator god of
 ancient Babylon, who in the faith of his worshipers bears, in many
 respects, a close resemblance to the Christ of Christianity.
 
@@ -117,14 +117,14 @@ the beginning, the marriage idea of Christ has been considerably dimmed,
 but it was not entirely lost sight of. Not only have we <span
 id="page_451">p. 451</span> references in the parables of Jesus which
 state that the kingdom of Heaven is like unto a marriage ([Matt. xxii.
-1](../../bib/kjv/mat.htm#22:1)-14) and men's expectancy of salvation is
+1](../../bib/kjv/mat.htm#22:1)-14.md) and men's expectancy of salvation is
 compared to the wisdom or folly of virgins who wait for the bridegroom
-([Matt. xxv. 1](../../bib/kjv/mat.htm#25:1)-13),<span
+([Matt. xxv. 1](../../bib/kjv/mat.htm#25:1)-13.md),<span
 id="page_451_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_451_note_2) but St. Paul calls the
+class="small">2</span></sup>](#page_451_note_2.md) but St. Paul calls the
 Church definitely the "Bride of Christ" ([2 Cor. xi.
-2](../../bib/kjv/co2.htm#11:2); [Eph. v.
-24](../../bib/kjv/eph.htm#5:24)-32), and St. John the Divine repeatedly
+2](../../bib/kjv/co2.htm#11:2.md); [Eph. v.
+24](../../bib/kjv/eph.htm#5:24)-32.md), and St. John the Divine repeatedly
 speaks of the bride and the marriage of the Lamb. The bride is Jerusalem
 representing the Church and the Lamb is Christ.
 
@@ -146,11 +146,11 @@ By Schnorr von Karolsfeld.</span></td>
    St. John the Baptist, when announcing Jesus, calls himself the friend
 of the bridegroom, but he is not the Christ. John declares "he that hath
 the bride is the bridegroom" ([John iii.
-29](../../bib/kjv/joh.htm#3:29)), implying therewith that Jesus and not
+29](../../bib/kjv/joh.htm#3:29).md), implying therewith that Jesus and not
 he himself is the Messiah, and Christ does not request his disciples to
 fast, as stated by Mark<span id="page_451_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_451_note_3) ([ii.
-19](../../bib/kjv/mar.htm#2:19)):
+class="small">3</span></sup>](#page_451_note_3.md) ([ii.
+19](../../bib/kjv/mar.htm#2:19).md):
 
    "And Jesus said unto them, Can the children of the bride-chamber
 
@@ -198,7 +198,7 @@ beloved Son of Ea, the God of Heaven, by whom he is addressed in these
 words: "My son, what is it that thou dost not <span id="page_455">p.
 455</span> know! What then could I still teach thee! What I know thou
 knowest also!"<span id="page_455_fr_4"></span>[<sup><span
-class="small">4</span></sup>](#page_455_note_4)
+class="small">4</span></sup>](#page_455_note_4.md)
 
    Marduk, the conquerer of Tiamat, the monster of the deep, is Ea's
 vicegerent on earth; he is king of gods and men, and he is the
@@ -222,7 +222,7 @@ der* \[*Toten*-\]*Klage*"), suggesting the assumption that his death was
 lamented in a similar way as the death of Adonis or other vegetation and
 solar deities. We further know from Greek sources<span
 id="page_456_fr_5"></span>[<sup><span
-class="small">5</span></sup>](#page_456_note_5) (Ctesias XXIX, 21 f.;
+class="small">5</span></sup>](#page_456_note_5.md) (Ctesias XXIX, 21 f.;
 Ælianus, *Var. Hist.*) that Xerxes opened and plundered the tomb of Bel,
 which can only mean the transference of the god's statue from Babylon to
 some other place, and proves that the temple of Bel contained the tomb
@@ -266,7 +266,7 @@ Christ replaced both.
 than the Gospels, and contains more reminiscences of ancient <span
 id="page_457">p. 457</span> Babylon (as Gunkel has proved) than any
 other book of the New Testamenent, we read of the marriage feast of the
-Lamb ([xix. 7](../../bib/kjv/rev.htm#19:7)-9):
+Lamb ([xix. 7](../../bib/kjv/rev.htm#19:7)-9.md):
 
    "Let us be glad and rejoice, and give honor to him: for the marriage
 of the Lamb is come, and his wife hath made herself ready. And to her
@@ -291,7 +291,7 @@ reverse.
    Further down the bride of the lamb is interpreted to be the new city
 of Jerusalem, which in Christianity again symbolizes the Church. We
 read<span id="page_457_fr_6"></span>[<sup><span
-class="small">6</span></sup>](#page_457_note_6):
+class="small">6</span></sup>](#page_457_note_6.md):
 
    "And I John saw the holy city, new Jerusalem, coming down from God
 out of heaven, prepared as a bride adorned for her husband."
@@ -463,8 +463,8 @@ revelation that it was hidden there.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Christian Articles](../../chr/etc/index) [St.
-Catharine of Alexandria](pc-sca1)
+[Journals](../index) [Christian Articles](../../chr/etc/index.md) [St.
+Catharine of Alexandria](pc-sca1.md)
 
 ------------------------------------------------------------------------
 
@@ -472,30 +472,30 @@ Catharine of Alexandria](pc-sca1)
 
 <span id="footnotes_page_450">p. 450</span>
 
-<span id="page_450_note_1"></span>[1](#page_450_fr_1) See Radau, "Bel,
+<span id="page_450_note_1"></span>[1](#page_450_fr_1.md) See Radau, "Bel,
 the Christ of Ancient Times" in *The Monist*, Vol. XIV, pp. 67-119.
 
 <span id="footnotes_page_451">p. 451</span>
 
-<span id="page_451_note_2"></span>[2](#page_451_fr_2) See also [Luke
-xii. 35](../../bib/kjv/luk.htm#12:35), 36.
+<span id="page_451_note_2"></span>[2](#page_451_fr_2.md) See also [Luke
+xii. 35](../../bib/kjv/luk.htm#12:35.md), 36.
 
-<span id="page_451_note_3"></span>[3](#page_451_fr_3) The parallel
-passages are [Matt. ix. 15](../../bib/kjv/mat.htm#9:15). and [Luke v.
-34](../../bib/kjv/luk.htm#5:34).
+<span id="page_451_note_3"></span>[3](#page_451_fr_3.md) The parallel
+passages are [Matt. ix. 15](../../bib/kjv/mat.htm#9:15.md). and [Luke v.
+34](../../bib/kjv/luk.htm#5:34.md).
 
 <span id="footnotes_page_455">p. 455</span>
 
-<span id="page_455_note_4"></span>[4](#page_455_fr_4) *Die
+<span id="page_455_note_4"></span>[4](#page_455_fr_4.md) *Die
 Keilinschriften und das Alte Testament*, pp. 374.
 
 <span id="footnotes_page_456">p. 456</span>
 
-<span id="page_456_note_5"></span>[5](#page_456_fr_5) Schrader, ibid.
+<span id="page_456_note_5"></span>[5](#page_456_fr_5.md) Schrader, ibid.
 
 <span id="footnotes_page_457">p. 457</span>
 
-<span id="page_457_note_6"></span>[6](#page_457_fr_6) Compare also
+<span id="page_457_note_6"></span>[6](#page_457_fr_6.md) Compare also
 verses 9 and 17.
 
  

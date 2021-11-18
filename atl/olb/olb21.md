@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb20)  [Next](olb22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb20)  [Next](olb22.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -52,9 +52,9 @@ settled to the east of Denmark were called Jutten, because often they
 did nothing else than look for amber (*jutten*) on the shore. Those who
 lived in the islands were called Letten, because they lived an isolated
 life. All those who lived between Denmark and the Sandval, now the
-Scheldt, were called Stuurlieden <span id="fr_10"></span>[\*](#fn_10)
-(pilots), Zeekampers <span id="fr_11"></span>[†](#fn_11) (naval men),
-and Angelaren <span id="fr_12"></span>[‡](#fn_12) (fishermen). The
+Scheldt, were called Stuurlieden <span id="fr_10"></span>[\*](#fn_10.md)
+(pilots), Zeekampers <span id="fr_11"></span>[†](#fn_11) (naval men.md),
+and Angelaren <span id="fr_12"></span>[‡](#fn_12) (fishermen.md). The
 Angelaren were men who fished in the sea, and were so named because they
 used lines and hooks instead of nets. From there to the nearest part of
 Krekaland the inhabitants were called Kadhemers, because they never went
@@ -67,25 +67,25 @@ the wild beasts and the savage Britons. Besides
 <span id="page_70">p. 70</span> <span id="page_71">p. 71</span>
 
 these we had the names Landzaten (natives of the land), Marzaten <span
-id="fr_13"></span>[\*](#fn_13) (natives of the fens), and Woud or Hout
+id="fr_13"></span>[\*](#fn_13) (natives of the fens.md), and Woud or Hout
 zaten (natives of the woods).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_10"></span>[69:\*](olb21.htm#fr_10) *Stjurar*, in Latin
+<span id="fn_10"></span>[69:\*](olb21.htm#fr_10.md) *Stjurar*, in Latin
 *Sturii*.
 
-<span id="fn_11"></span>[69:†](olb21.htm#fr_11) *Sêkâmpar*, in Latin
+<span id="fn_11"></span>[69:†](olb21.htm#fr_11.md) *Sêkâmpar*, in Latin
 *Sicambri*.
 
-<span id="fn_12"></span>[69:‡](olb21.htm#fr_12) *Angelara*, in Latin
+<span id="fn_12"></span>[69:‡](olb21.htm#fr_12.md) *Angelara*, in Latin
 *Angli*.
 
-<span id="fn_13"></span>[71:\*](olb21.htm#fr_13) *Mârsata*, in Latin
+<span id="fn_13"></span>[71:\*](olb21.htm#fr_13.md) *Mârsata*, in Latin
 *Marsacii*.
 
 ------------------------------------------------------------------------
 
-[Next: How the Bad Time came](olb22)
+[Next: How the Bad Time came](olb22.md)

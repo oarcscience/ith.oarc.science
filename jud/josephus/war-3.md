@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ the camp, and from his youth had been exercised in warlike exploits: he
 was also a man that had long ago pacified the west, and made it subject
 to the Romans, when it had been put into disorder by the Germans; he had
 also recovered to them Britain by his arms, which had been little known
-before <span id="EndNote War 3.1a"></span>[(1)](#EndNote%20War%203.1b)
+before <span id="EndNote War 3.1a"></span>[(1)](#EndNote%20War%203.1b.md)
 whereby he procured to his father Claudius to have a triumph bestowed on
 him without any sweat or labor of his own.
 
@@ -152,7 +152,7 @@ their commander for the time to come.
 4\. And now Vespasian took along with him his army from Antioch, (which
 is the metropolis of Syria, and without dispute deserves the place of
 the third city in the habitable earth that was under the Roman empire,
-<span id="EndNote War 3.2a"></span>[(2)](#EndNote%20War%203.2b) both in
+<span id="EndNote War 3.2a"></span>[(2)](#EndNote%20War%203.2b.md) both in
 magnitude, and other marks of prosperity,) where he found king Agrippa,
 with all his forces, waiting for his coming, and marched to Ptolemais.
 At this city also the inhabitants of Sepphoris of Galilee met him, who
@@ -350,7 +350,7 @@ nor do those that are in it take their places at random; but if it
 happens that the ground is uneven, it is first leveled: their camp is
 also four-square by measure, and carpenters are ready, in great numbers,
 with their tools, to erect their buildings for them. <span
-id="EndNote War 3.3a"></span>[(3)](#EndNote%20War%203.3b)
+id="EndNote War 3.3a"></span>[(3)](#EndNote%20War%203.3b.md)
 
 2\. As for what is within the camp, it is set apart for tents, but the
 outward circumference hath the resemblance to a wall, and is adorned
@@ -501,7 +501,7 @@ briskly when they least expected it, being both many in number, and
 prepared for fighting, and of great alacrity, as esteeming their
 country, their wives, and their children to be in danger, and easily put
 the Romans to flight, and wounded many of them, and slew seven of them;
-<span id="EndNote War 3.4a"></span>[(4)](#EndNote%20War%203.4b) because
+<span id="EndNote War 3.4a"></span>[(4)](#EndNote%20War%203.4b.md) because
 their retreat was not made in a disorderly manner, be-cause the strokes
 only touched the surface of their bodies, which were covered with their
 armor in all parts, and because the Jews did rather throw their weapons
@@ -1585,7 +1585,7 @@ their friends, he said, "Thou, O Vespasian, thinkest no more than that
 thou hast taken Josephus himself captive; but I come to thee as a
 messenger of greater tidings; for had not I been sent by God to thee, I
 knew what was the law of the Jews in this case? <span
-id="EndNote War 3.5a"></span>[(5)](#EndNote%20War%203.5b) and how it
+id="EndNote War 3.5a"></span>[(5)](#EndNote%20War%203.5b.md) and how it
 becomes generals to die. Dost thou send me to Nero? For why? Are Nero's
 successors till they come to thee still alive? Thou, O Vespasian, art
 Caesar and emperor, thou, and this thy son. Bind me now still faster,
@@ -1710,7 +1710,7 @@ with them, others for their kindred, others for their friends, and
 others for their brethren, but all mourned for Josephus; insomuch that
 the lamentation did not cease in the city before the thirtieth day; and
 a great many hired mourners, <span
-id="EndNote War 3.6a"></span>[(6)](#EndNote%20War%203.6b) with their
+id="EndNote War 3.6a"></span>[(6)](#EndNote%20War%203.6b.md) with their
 pipes, who should begin the melancholy ditties for them.
 
 6\. But as the truth came out in time, it appeared how the affairs of
@@ -1737,7 +1737,7 @@ affairs would enable him to do, and partly that he might, by their
 means, correct such things as were amiss in his government,) he removed
 from that Cesarea which was by the sea-side, and went to that which is
 called Cesarea Philippi <span
-id="EndNote War 3.7a"></span>[(7)](#EndNote%20War%203.7b) and there he
+id="EndNote War 3.7a"></span>[(7)](#EndNote%20War%203.7b.md) and there he
 refreshed his army for twenty days, and was himself feasted by king
 Agrippa, where he also returned public thanks to God for the good
 success he had had in his undertakings. But as soon as he was informed
@@ -2024,7 +2024,7 @@ one of them laid claim to this country; for it not only nourishes
 different sorts of autumnal fruit beyond men's expectation, but
 preserves them a great while; it supplies men with the principal fruits,
 with grapes and figs continually, during ten months of the year <span
-id="EndNote War 3.8a"></span>[(8)](#EndNote%20War%203.8b) and the rest
+id="EndNote War 3.8a"></span>[(8)](#EndNote%20War%203.8b.md) and the rest
 of the fruits as they become ripe together through the whole year; for
 besides the good temperature of the air, it is also watered from a most
 fertile fountain. The people of the country call it Capharnaum. Some
@@ -2089,7 +2089,7 @@ as they fled to fight against us, Vespasian acknowledged that they did
 not deserve to be saved, and that if they had leave given them to fly
 away, they would make use of it against those that gave them that leave.
 But still he considered with himself after what manner they should be
-slain <span id="EndNote War 3.9a"></span>[(9)](#EndNote%20War%203.9b)
+slain <span id="EndNote War 3.9a"></span>[(9)](#EndNote%20War%203.9b.md)
 for if he had them slain there, he suspected the people of the country
 would thereby become his enemies; for that to be sure they would never
 bear it, that so many that had been supplicants to him should be killed;
@@ -2120,7 +2120,7 @@ taken on the eighth day of the month Gorpiaeus \[Elul\].
 
 ENDNOTE
 
-<span id="EndNote War 3.1b"></span>[(1)](#EndNote%20War%203.1a) Take the
+<span id="EndNote War 3.1b"></span>[(1)](#EndNote%20War%203.1a.md) Take the
 confirmation of this in the words of Suetonius, here produced by Dr.
 Hudson: "In the reign of Claudius," says he, "Vespasian, for the sake of
 Narcissus, was sent as a lieutenant of a legion into Germany. Thence he
@@ -2129,12 +2129,12 @@ also here note from Josephus, that Claudius the emperor, who triumphed
 for the conquest of Britain, was enabled so to do by Vespasian's conduct
 and bravery, and that he is here styled "the father of Vespasian."
 
-<span id="EndNote War 3.2b"></span>[(2)](#EndNote%20War%203.2a) Spanheim
+<span id="EndNote War 3.2b"></span>[(2)](#EndNote%20War%203.2a.md) Spanheim
 and Reland both agree, that the two cities here esteemed greater than
 Antioch, the metropolis of Syria, were Rome and Alexandria; nor is there
 any occasion for doubt in so plain a case.
 
-<span id="EndNote War 3.3b"></span>[(3)](#EndNote%20War%203.3a) This
+<span id="EndNote War 3.3b"></span>[(3)](#EndNote%20War%203.3a.md) This
 description of the exact symmetry and regularity of the Roman army, and
 of the Roman encampments, with the sounding their trumpets, etc. and
 order of war, described in this and the next chapter, is so very like to
@@ -2146,7 +2146,7 @@ Moses. And it is thought by some skillful in these matters, that these
 accounts of Josephus, as to the Roman camp and armor, and conduct in
 war, are preferable to those in the Roman authors themselves.
 
-<span id="EndNote War 3.4b"></span>[(4)](#EndNote%20War%203.4a) I cannot
+<span id="EndNote War 3.4b"></span>[(4)](#EndNote%20War%203.4a.md) I cannot
 but here observe an Eastern way of speaking, frequent among them, but
 not usual among us, where the word "only" or "alone" is not set down,
 but perhaps some way supplied in the pronunciation. Thus Josephus here
@@ -2158,7 +2158,7 @@ more than seven. I have met with many the like examples in the
 Scriptures, in Josephus, etc.; but did not note down the particular
 places. This observation ought to be borne in mind upon many occasions.
 
-<span id="EndNote War 3.5b"></span>[(5)](#EndNote%20War%203.5a) I do not
+<span id="EndNote War 3.5b"></span>[(5)](#EndNote%20War%203.5a.md) I do not
 know where to find the law of Moses here mentioned by Josephus, and
 afterwards by Eleazar, 13. VII. ch. 8. sect. 7, and almost implied in B.
 I. ch. 13. sect. 10, by Josephus's commendation of Phasaelus for doing
@@ -2169,17 +2169,17 @@ rather some vain doctrine, or interpretation, of the rigid Pharisees, or
 Essens, or Herodiaus, than a just consequence from any law of God
 delivered by Moses.
 
-<span id="EndNote War 3.6b"></span>[(6)](#EndNote%20War%203.6a) These
+<span id="EndNote War 3.6b"></span>[(6)](#EndNote%20War%203.6a.md) These
 public mourners, hired upon the supposed death of Josephus, and the real
 death of many more, illustrate some passages in the Bible, which suppose
 the same custom, as Matthew 11:17, where the reader may consult the
 notes of Grotius.
 
-<span id="EndNote War 3.7b"></span>[(7)](#EndNote%20War%203.7a) Of this
+<span id="EndNote War 3.7b"></span>[(7)](#EndNote%20War%203.7a.md) Of this
 Cesarea Philippi (twice mentioned in our New Testament, Matthew 16:13;
 Mark 8;27) there are coins still extant, Spanheim here informs us.
 
-<span id="EndNote War 3.8b"></span>[(8)](#EndNote%20War%203.8a) It may
+<span id="EndNote War 3.8b"></span>[(8)](#EndNote%20War%203.8a.md) It may
 be worth our while to observe here, that near this lake of Gennesareth
 grapes and figs hang on the trees ten months of the year. We may observe
 also, that in Cyril of Jerusalem, Cateehes. 18. sect. 3, which was
@@ -2192,7 +2192,7 @@ true; nor were they therefore other than old leaves which our Savior
 saw, and old figs which he expected, and which even with us commonly
 hang on the trees all winter long.
 
-<span id="EndNote War 3.9b"></span>[(9)](#EndNote%20War%203.9a) This is
+<span id="EndNote War 3.9b"></span>[(9)](#EndNote%20War%203.9a.md) This is
 the most cruel and barbarous action that Vespasian ever did in this
 whole war, as he did it with great reluctance also. It was done both
 after public assurance given of sparing the prisoners' lives, and when
@@ -2208,4 +2208,4 @@ could be unjust that was done against Jews; and that when both cannot be
 consistent, advantage must prevail over justice. Admirable court
 doctrines these!
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

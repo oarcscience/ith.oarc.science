@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt12)  [Next](pyt14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt12)  [Next](pyt14.md) 
 
 ------------------------------------------------------------------------
 
@@ -186,4 +186,4 @@ and ever.
 
 ------------------------------------------------------------------------
 
-[Next: 11. Charms, Utterances 275-299](pyt14)
+[Next: 11. Charms, Utterances 275-299](pyt14.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml08)  [Next](eml10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml08)  [Next](eml10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -86,7 +86,7 @@ And silent as the soundless wilderness?
 O Memphis, mighty Memphis, hath the morn  
 Broken to find thee not?
 
-Memphis was named after King Pepi, <span id="fr_72"></span>[1](#fn_72)
+Memphis was named after King Pepi, <span id="fr_72"></span>[1](#fn_72.md)
 and is called Noph in the Old Testament. Its early Dynastic name
 
 <span id="page_79">p. 79</span>
@@ -140,7 +140,7 @@ chief of nine earth spirits (that is, eight and himself added) called
 Khnûmû, the modellers. Statuettes of these represent them as dwarfs,
 with muscular bodies, bent legs, long arms, big broad heads, and faces
 of intelligent and even benign expression. Some wear long
-moustaches, <span id="fr_73"></span>[1](#fn_73) so unlike the shaven or
+moustaches, <span id="fr_73"></span>[1](#fn_73.md) so unlike the shaven or
 glabrous Egyptians.
 
 At the beginning, according to Memphite belief, Ptah shaped the world
@@ -156,7 +156,7 @@ workman" of the Rig-Veda hymns and the
 
 "black dwarfs" of Teutonic mythology. A particular statuette of Ptah,
 wearing a tight-fitting cap, suggests the familiar "wonder smith" <span
-id="fr_74"></span>[1](#fn_74) of the Alpine "broad heads" who were
+id="fr_74"></span>[1](#fn_74.md) of the Alpine "broad heads" who were
 distributed along Asiatic and European mountain ranges from Hindu Kush
 to Brittany and the British isles and mingled with the archaic Hittites
 in Asia Minor. The Phœnician sailors carried figures of dwarfs in their
@@ -173,12 +173,12 @@ moon egg", and a bas-relief at Philæ shows him actively engaged at the
 work, using his potter's wheel.
 
 A higher and later conception of Ptah <span
-id="fr_75"></span>[2](#fn_75) represents him as a sublime creator god
+id="fr_75"></span>[2](#fn_75.md) represents him as a sublime creator god
 who has power to call into existence each thing he names. He is the
 embodiment of mind from which all things emerge, and his ideas take
 material shape when he gives them expression. In a philosophic poem a
 Memphite priest eulogizes the great deity as "the mind <span
-id="fr_76"></span>[3](#fn_76) and tongue of the gods", and even as the
+id="fr_76"></span>[3](#fn_76.md) and tongue of the gods", and even as the
 creator of other gods as well as of "all people, cattle, and reptiles",
 the sun, and the habitable world.
 
@@ -201,7 +201,7 @@ The Ptah worshippers were probably not the founders of Memphis. An
 earlier deity associated with the city is the dreaded Sokar (Seker). He
 was a god of the dead, and in the complex mythology of later times his
 habitation was located in the fifth hour-division of night. <span
-id="fr_77"></span>[1](#fn_77) When sun worship became general in the
+id="fr_77"></span>[1](#fn_77.md) When sun worship became general in the
 Nile valley Sokar was identified with the small winter sun, as Horus was
 with the large sun of summer. But the winged and three-headed monster
 god, with serpent body, suffers complete loss of physical identity when
@@ -209,7 +209,7 @@ merged with the elfin deity of Memphis. Ptah-Sokar is depicted as a
 dwarf and one of the Khnûmû. Another form of Sokar is a hawk, of
 different aspect to the Horus hawk, which appears perched on the Ra boat
 at night with a sun disk upon its head. <span
-id="fr_78"></span>[2](#fn_78)
+id="fr_78"></span>[2](#fn_78.md)
 
 Ptah-Sokar was in time merged with the agricultural
 
@@ -275,7 +275,7 @@ industrial, and religious life of the country was for the time centred
 there.
 
 Zoser's preference for Memphis had, perhaps, a political bearing. His
-mother, the wife of Khasekhemui, <span id="fr_79"></span>[1](#fn_79) the
+mother, the wife of Khasekhemui, <span id="fr_79"></span>[1](#fn_79.md) the
 last of the Thinite kings, was probably a daughter of
 
 <span id="page_85">p. 85</span>
@@ -323,36 +323,36 @@ for the protection of the bodies of dead monarchs.
 
 ### Footnotes
 
-<span id="fn_72"></span>[78:1](eml09.htm#fr_72) The Greek rendering of
+<span id="fn_72"></span>[78:1](eml09.htm#fr_72.md) The Greek rendering of
 "Men-nofer", the name of Pepi's pyramid. Another Egyptian name was
 Hiku-ptah, or, according to Budge, "Het-Ka-Ptah, 'House of the Double of
 Ptah', from which the Greek name of Egypt is derived".
 
-<span id="fn_73"></span>[80:1](eml09.htm#fr_73) The suggestion that
+<span id="fn_73"></span>[80:1](eml09.htm#fr_73.md) The suggestion that
 these represented serpents is not supported by anything we know about
 Ptah worship. There was a winged serpent goddess in the Delta named
 Uazit. The Greeks called her Buto, and identified her with their Leto.
 
-<span id="fn_74"></span>[81:1](eml09.htm#fr_74) Ptah has been compared
+<span id="fn_74"></span>[81:1](eml09.htm#fr_74.md) Ptah has been compared
 to the Greek Hephæstos (Vulcan). He was not a fire god. His consort
 Sekhet symbolized fire and sun heat, but his association with her was
 arbitrary.
 
-<span id="fn_75"></span>[81:2](eml09.htm#fr_75) Eighteenth Dynasty.
+<span id="fn_75"></span>[81:2](eml09.htm#fr_75.md) Eighteenth Dynasty.
 
-<span id="fn_76"></span>[81:3](eml09.htm#fr_76) The poet says "heart",
+<span id="fn_76"></span>[81:3](eml09.htm#fr_76.md) The poet says "heart",
 which was believed by the Egyptians to be the seat of intelligence. At
 the judgment of the dead the heart is weighed in the balance.
 
-<span id="fn_77"></span>[82:1](eml09.htm#fr_77) See Chapter I.
+<span id="fn_77"></span>[82:1](eml09.htm#fr_77.md) See Chapter I.
 
-<span id="fn_78"></span>[82:2](eml09.htm#fr_78) Osiris-Sokar is "the
+<span id="fn_78"></span>[82:2](eml09.htm#fr_78.md) Osiris-Sokar is "the
 brilliant one", "lord of great fear and trembling", "the mysterious one,
 he who is unknown to mankind", and "enlightener of those who are in the
 underworld".--*The Burden of Isis*, Dennis, p. 52-54 (Hymn to
 Osiris-Sokar).
 
-<span id="fn_79"></span>[84:1](eml09.htm#fr_79) This king's brick tomb
+<span id="fn_79"></span>[84:1](eml09.htm#fr_79.md) This king's brick tomb
 at Abydos contains a limestone chamber, which suggests the employment of
 the Memphite artisans.
 
@@ -360,6 +360,6 @@ the Memphite artisans.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Death and the Judgment](eml10)
+[Next: Chapter VII: Death and the Judgment](eml10.md)
 
 </div>

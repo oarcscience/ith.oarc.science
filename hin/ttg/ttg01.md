@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg00)  [Next](ttg02) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg00)  [Next](ttg02.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ King, to amuse the journey, I will tell you a story. Listen."
 ------------------------------------------------------------------------
 
 [Next: First Goblin: The Prince's Elopement. Whose fault was the
-resulting death of his parents-in-law?](ttg02)
+resulting death of his parents-in-law?](ttg02.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp18)  [Next](potp20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp18)  [Next](potp20.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ not grow on the earth, it must grow in the interior of the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Where and how are Icebergs Formed?](potp20)
+[Next: Chapter XVI. Where and how are Icebergs Formed?](potp20.md)

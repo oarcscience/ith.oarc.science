@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah13)  [Next](sah15) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah13)  [Next](sah15.md) 
 
 ------------------------------------------------------------------------
 
@@ -1160,4 +1160,4 @@ door, and no man can shut it.--REVELATION.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV - Genesis](sah15) 
+[Next: Chapter XV - Genesis](sah15.md) 

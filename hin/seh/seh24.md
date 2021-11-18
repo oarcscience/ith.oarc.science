@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh23)  [Next](seh25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh23)  [Next](seh25.md) 
 
 ------------------------------------------------------------------------
 
@@ -212,4 +212,4 @@ more throughout the ages of aid and fellowship between man and man.
 
 ------------------------------------------------------------------------
 
-[Next: The Kashmir Shawl](seh25)
+[Next: The Kashmir Shawl](seh25.md)

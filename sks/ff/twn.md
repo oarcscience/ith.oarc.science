@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../twn/twn) 
-[Previous](aww)  [Next](twt) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../twn/twn.md) 
+[Previous](aww)  [Next](twt.md) 
 
 ------------------------------------------------------------------------
 
@@ -3442,4 +3442,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Winters Tale](twt) 
+[Next: The Winters Tale](twt.md) 

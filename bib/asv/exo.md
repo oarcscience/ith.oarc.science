@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](gen)  [Next](lev) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](gen)  [Next](lev.md) 
 
 ------------------------------------------------------------------------
 
@@ -4722,4 +4722,4 @@ all the house of Israel, throughout all their journeys.
 
 ------------------------------------------------------------------------
 
-[Next: Leviticus](lev)
+[Next: Leviticus](lev.md)

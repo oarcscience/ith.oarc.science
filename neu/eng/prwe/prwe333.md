@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe332)  [Next](prwe334) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe332)  [Next](prwe334.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ Wilkinson, architect.
 
 ------------------------------------------------------------------------
 
-[Next: The Giant of Nancledry; and Trebiggan the Giant](prwe334)
+[Next: The Giant of Nancledry; and Trebiggan the Giant](prwe334.md)

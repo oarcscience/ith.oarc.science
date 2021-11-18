@@ -18,19 +18,19 @@ information is used for, and who it is shared with. These policies are
 subject to change. If we change them we will update this page.
 
 [There is a page for privacy issues specific to purchasing the Sacred
-Texts CD-ROM at this link.](cdshop/privacy)
+Texts CD-ROM at this link.](cdshop/privacy.md)
 
 ### Who runs this site?
 
 Intangible Textual Heritage is owned, maintained and funded by [and is
 not sponsored by, or affiliated with, any religious (or other)
 organization, corporation or academic
-institution.](https://ith.oarc.science/contact)
+institution.](https://ith.oarc.science/contact.md)
 
 ### What information is collected by this site?
 
 This site uses a standard web server provided by our ISP,
-[www.cruzio.com](https://www.cruzio.com), which monitors your IP
+[www.cruzio.com](https://www.cruzio.com.md), which monitors your IP
 address, the page you were referred by, which pages you visit at the
 site, the time you visited them, and other information about web traffic
 at this site. The server also logs incorrect URLs sent by browsers,

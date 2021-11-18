@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp15)  [Next](flwp17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp15)  [Next](flwp17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -23,13 +23,13 @@ consists, when in its proper place, either remains in
 <span id="page_52">p. 52</span>
 
 that place, or is moved in a circle; <span
-id="fr_44"></span>[\*](#fn_44) but when it is not in its own place, it
+id="fr_44"></span>[\*](#fn_44.md) but when it is not in its own place, it
 endeavours to arrive thither. If, therefore, the elements of the
 universe either remain in their proper place, or are moved in a circle;
 if they remain in the place which is natural to them, they are then in a
 natural condition of being; but if they are moved in a circle, they will
 neither have an end nor a beginning of their motion. <span
-id="fr_45"></span>[†](#fn_45) And this being the case, it is evident
+id="fr_45"></span>[†](#fn_45.md) And this being the case, it is evident
 that the universe is immutable, some things in it having places adapted
 to them according to nature, but others being moved without beginning
 and without end. For the natures in this sublunary region are changed,
@@ -52,10 +52,10 @@ adornment; all things subsisting in it in a similar manner, both now and
 formerly. But if the several natures which the universe contains were in
 foreign places, (for they were entirely in places, being bodies,) *they
 would require a transposition derived from an external cause*. <span
-id="fr_46"></span>[\*](#fn_46) Hence, there will be two principles, one
+id="fr_46"></span>[\*](#fn_46.md) Hence, there will be two principles, one
 of that which is preternatural, but the other of that which is according
 to nature; and *that which is preternatural will be prior to that which
-is according to nature;* <span id="fr_47"></span>[†](#fn_47) that which
+is according to nature;* <span id="fr_47"></span>[†](#fn_47.md) that which
 is preternatural being a
 
 <span id="page_54">p. 54</span>
@@ -83,7 +83,7 @@ in the world
 
 <span id="page_55">p. 55</span>
 
-alone. <span id="fr_48"></span>[\*](#fn_48) And if such a thing does not
+alone. <span id="fr_48"></span>[\*](#fn_48.md) And if such a thing does not
 always exist, the universe will be transformed, yet still will be
 perpetual. And as that preternatural subsistence is to what now exists,
 so is what is now preternatural to that. Both in that state of things
@@ -91,38 +91,38 @@ likewise, and in this, all things existed in their proper places; but
 differently at different times. Empedocles, likewise, wisely supposes
 the world to be made alternately, except that he supposes this to take
 place frequently; but we admit it to take place only twice. <span
-id="fr_49"></span>[†](#fn_49)
+id="fr_49"></span>[†](#fn_49.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_44"></span>[52:\*](flwp16.htm#fr_44) This was an axiom of
+<span id="fn_44"></span>[52:\*](flwp16.htm#fr_44.md) This was an axiom of
 Plotinus, and also of Ptolemy, which in the original is, παν σωμα απλουν
 εν τῳ οικειῳ τοπῳ ον, ακινητον μενει, ὴ κυκλῳ κινειται. Vid. Procl. in
 Tim. pp. 142 and 274.
 
-<span id="fn_45"></span>[52:†](flwp16.htm#fr_45) This is demonstrated by
+<span id="fn_45"></span>[52:†](flwp16.htm#fr_45.md) This is demonstrated by
 Aristotle, and by Proclus, in Lib. II. Element. Physic. Theorem. XVII.
 See my Translation of Aristotle's Treatise on the Heavens, Book II.
 Chap. 3.
 
-<span id="fn_46"></span>[53:\*](flwp16.htm#fr_46) The original in the
+<span id="fn_46"></span>[53:\*](flwp16.htm#fr_46.md) The original in the
 latter part of this sentence is defective, since from the version of
 Mahotius it appears, that after μεταθεσεως it is requisite to add εξωθεν
 προσδεωνται. For his version of this latter part is, "Transpositione
 aliunde indigebant."
 
-<span id="fn_47"></span>[53:†](flwp16.htm#fr_47) In the original, και
+<span id="fn_47"></span>[53:†](flwp16.htm#fr_47.md) In the original, και
 προτερον το παρα φυσιν του κατα φυσιν, which is doubtless the true
 reading; but Mahotius most erroneously translates this passage as
 follows: "Atque id quod est secundùm naturam, prius est eo, quod est
 contrà naturam."
 
-<span id="fn_48"></span>[55:\*](flwp16.htm#fr_48) *i.e.* A thing which
+<span id="fn_48"></span>[55:\*](flwp16.htm#fr_48.md) *i.e.* A thing which
 at different times has either a natural or a preternatural subsistence.
 
-<span id="fn_49"></span>[55:†](flwp16.htm#fr_49) Proclus, in asserting
+<span id="fn_49"></span>[55:†](flwp16.htm#fr_49.md) Proclus, in asserting
 that he admits the world to have been made only twice, doubtless alludes
 to what is said by Plato in the Timæus, viz. "That the Demiurgus,
 receiving every thing that was visible, and which was not in a state of
@@ -139,4 +139,4 @@ twofold fabrication admitted by Proclus.
 
 ------------------------------------------------------------------------
 
-[Next: Argument the Eleventh](flwp17)
+[Next: Argument the Eleventh](flwp17.md)

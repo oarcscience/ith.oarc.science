@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf29) [Next](bulf31) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf29) [Next](bulf31.md) 
 
 # CHAPTER XXXI.
 
@@ -289,4 +289,4 @@ it to the Sibyl.
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XXXII. The Infernal Regions- The Sibyl.](bulf31)
+Next: [CHAPTER XXXII. The Infernal Regions- The Sibyl.](bulf31.md)

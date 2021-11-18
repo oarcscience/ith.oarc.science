@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Next](aww01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Next](aww01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Art of Worldly Wisdom*, by Balthasar Gracian, tr. by Joseph Jacobs,
 \[1892\], at Intangible Textual Heritage
 
@@ -70,17 +70,17 @@ United States because it was published prior to 1923.
 
 <span id="img_cover"></span> <span align="CENTER">
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 </span>
 
-[Jump to start of text](aww10.htm#page_1)
+[Jump to start of text](aww10.htm#page_1.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[iii:1](#fr_0) Translation of the Goethe epigram,
+<span id="fn_0"></span>[iii:1](#fr_0.md) Translation of the Goethe epigram,
 above:
 
 <div style="margin-left: 32px">
@@ -99,4 +99,4 @@ Be the anvil or the hammer.
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](aww01)
+[Next: Dedication](aww01.md)

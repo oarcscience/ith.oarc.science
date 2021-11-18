@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg07)  [Next](ttg09) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg07)  [Next](ttg09.md) 
 
 ------------------------------------------------------------------------
 
@@ -233,4 +233,4 @@ have finished what they have begun.
 ------------------------------------------------------------------------
 
 [Next: Eighth Goblin: The Specialist in Food, the Specialist in Women,
-and the Specialist in Cotton. Which is the cleverest?](ttg09)
+and the Specialist in Cotton. Which is the cleverest?](ttg09.md)

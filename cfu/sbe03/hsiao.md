@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](sbe03175)  [Next](sbe03177) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](sbe03175)  [Next](sbe03177.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1](sbe03177)
+[Next: Chapter 1](sbe03177.md)

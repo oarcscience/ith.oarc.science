@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mcb05)  [Next](mcb07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mcb05)  [Next](mcb07.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 
 ETERNITY is, as a philosopher defines it, "an infinite extent of time,
 in which every event is future at one time, present at another, past at
-another." <span id="fr_98"></span>[1](#fn_98)
+another." <span id="fr_98"></span>[1](#fn_98.md)
 
 This is an interesting definition no doubt, but what is "infinity"? "No
 beginning and no end?" What is time that has no beginning and no end?
@@ -32,10 +32,10 @@ Like a great ring of pure and endless light,
   And round beneath it, Time, in hours, days, years  
 Driven by the spheres, <span id="page_94">p. 94</span>  
   Like a vast shadow moved, in which the world  
-And all her train were hurled. <span id="fr_99"></span>[2](#fn_99)
+And all her train were hurled. <span id="fr_99"></span>[2](#fn_99.md)
 
 Henry Vaughan's lines, as Bertrand Russell points out, <span
-id="fr_100"></span>[3](#fn_100) are evidently suggested by Plato's
+id="fr_100"></span>[3](#fn_100.md) are evidently suggested by Plato's
 *Timaeus* in which Plato states:
 
 Now the nature of the ideal being was everlasting, but to bestow this
@@ -45,7 +45,7 @@ order the heaven, he made this image eternal but moving according to
 number, while eternity itself rests in unity; and this image we call
 time, For there were no days and nights and months and years before the
 heaven was created, but when he constructed the heaven he created them
-also. <span id="fr_101"></span>[4](#fn_101)
+also. <span id="fr_101"></span>[4](#fn_101.md)
 
 Further, Plato goes on to say that the heaven and time are so closely
 knit together that if one should dissolve the other might also be
@@ -101,7 +101,7 @@ it is quite possible that the human mind should retain an enthusiasm for
 mere negations. . . . Eternity or the eternal is not merely the
 unlimited in time but the truest of all Being, the most real of all
 realities, the most certain of all knowledge, which we nevertheless only
-see through a glass darkly. <span id="fr_102"></span>[5](#fn_102)
+see through a glass darkly. <span id="fr_102"></span>[5](#fn_102.md)
 
 The enthusiasm Jowett here refers to is not "for mere negations" or for
 things which are "seen only through a glass darkly"; it cannot come out
@@ -127,7 +127,7 @@ Nothing is identical with itself,
 Nor is there any diversification; <span id="page_97">p. 97</span>  
 Nothing comes into existence,  
 Nor does anything go out of existence. <span
-id="fr_103"></span>[6](#fn_103)
+id="fr_103"></span>[6](#fn_103.md)
 
 What he aims at by negating everything that can be predicated of the
 *Dharma* (Ultimate Reality) is to bring out thereby what he terms the
@@ -215,7 +215,7 @@ darkening forever the light of eternity.
 
 "Living in the light of eternity" is to get into the oneness and allness
 of things and to live with it. This is what the Japanese call "seeing
-things *sono-mama*" <span id="fr_104"></span>[7](#fn_104) in their
+things *sono-mama*" <span id="fr_104"></span>[7](#fn_104.md) in their
 suchness, which in William Blake's terms is to "hold infinity in the
 palm of your hand, and eternity is an hour."
 
@@ -234,7 +234,7 @@ see them "evenly" or "uniformly" as Meister Eckhart tells us to do,
 which is also Spinoza's way, Blake's way, and other wise men's way, East
 and West. Tennyson must have been in a similar frame of consciousness
 when he plucked a wild flower out of the crannied wall and held it in
-his hand and contemplated it. <span id="fr_105"></span>[8](#fn_105)
+his hand and contemplated it. <span id="fr_105"></span>[8](#fn_105.md)
 
 ### III
 
@@ -244,7 +244,7 @@ transcend the temporal and relativistic point of view. It is then that
 we realize that life is worth living, and that death is not the end of
 all our strivings, and furthermore that what Buddhists call "thirst"
 (*tṛiṣṇā*) is more deeply rooted than we imagine, as it grows straight
-out of the root of *karuṇā*. <span id="fr_106"></span>[9](#fn_106)
+out of the root of *karuṇā*. <span id="fr_106"></span>[9](#fn_106.md)
 
 Let me cite a Japanese Haiku poet of the eighteenth century, Bashō. One
 of his seventeen-syllable poems reads:
@@ -330,7 +330,7 @@ not say a word about his inner feeling, every syllable
 <span id="page_103">p. 103</span>
 
 is objective except the last two syllables, "*kana*." <span
-id="fr_107"></span>[10](#fn_107) "*Kana*" is untranslatable into
+id="fr_107"></span>[10](#fn_107.md) "*Kana*" is untranslatable into
 English, perhaps except by an exclamation mark, which is the only sign
 betraying the poet's subjectivity. Of course, a Haiku being no more than
 a poem of seventeen syllables cannot express everything that went on in
@@ -364,7 +364,7 @@ You never enjoy the world aright, till the Sea itself floweth in your
 veins, till you are clothed with the heavens, and crowned with the
 stars: and perceive yourself to be the sole heir of the whole world, and
 more than so, because men are in it who are every one sole heirs as well
-as you. <span id="fr_108"></span>[11](#fn_108)
+as you. <span id="fr_108"></span>[11](#fn_108.md)
 
 Or this:
 
@@ -372,7 +372,7 @@ Your enjoyment of the world is never right, till every morning you awake
 in Heaven; see yourself in your Father's Palace; and look upon the
 skies, the earth, and the air as Celestial joys; having such a reverend
 esteem of all, as if you were among the Angels. <span
-id="fr_109"></span>[12](#fn_109)
+id="fr_109"></span>[12](#fn_109.md)
 
 Such feelings as these can never be comprehended so long as the sense of
 opposites is dominating your consciousness. The idea of participation or
@@ -470,7 +470,7 @@ this not a silly question?" Indeed, we are all apt to forget that every
 one of us is Buddha himself. In the Christian way of saying, this means
 that we are all made in the likeness of God or, in Eckhart's words, that
 "God's is-ness is my is-ness and neither more nor less." <span
-id="fr_110"></span>[13](#fn_110)
+id="fr_110"></span>[13](#fn_110.md)
 
 It may not be altogether unprofitable in this connection to give another
 Zen "case" where God's is-ness is made perceivable in the world of
@@ -480,7 +480,7 @@ absolute oneness. To us the case illustrates the Eckhartian knowledge
 "that I know God as He knows me, neither more nor less but always the
 same." This is knowing things as they are, loving them in their
 *sono-mama* state, or "loving justice for its own sake," <span
-id="fr_111"></span>[14](#fn_111) that is to say, "loving God without any
+id="fr_111"></span>[14](#fn_111.md) that is to say, "loving God without any
 reason for loving." Zen may look so remote and aloof from human affairs
 that between it and Eckhart some may be persuaded to see nothing of
 close relationship as I am trying to show here. But in reality Eckhart
@@ -532,7 +532,7 @@ even," says Eckhart. For "the just have no will at all: whatever God
 wants, it is all one to them."
 
 Now Hakuin introduces the following *mondo*: <span
-id="fr_112"></span>[15](#fn_112)
+id="fr_112"></span>[15](#fn_112.md)
 
 A monk asked Ho-un of Rosozan, a disciple of Nangaku Yejo (died 744),
 "How do we speak and not speak?" This is
@@ -544,7 +544,7 @@ the fundamental principle of thought is withheld, there will be no
 thinking of God as Eckhart tells us, "God \[who\] is in his own
 creature--not as he is conceived by anyone to be--nor yet as something
 yet to be achieved--but more as an 'is-ness,' as God really is." <span
-id="fr_113"></span>[16](#fn_113) What kind of God can this be?
+id="fr_113"></span>[16](#fn_113.md) What kind of God can this be?
 Evidently, God transcends all our thought. If so, how have we ever come
 to conceive of God? To say God is "this" or "that" is to deny God,
 according to Eckhart. He is above all predicates, either positive or
@@ -580,14 +580,14 @@ path of "everyday consciousness," "to eat when hungry and to rest when
 tired." In this spirit I interpret Eckhart's passage: "If I were
 perpetually doing God's will, then I would be a virgin in reality, as
 exempt from idea-handicaps as I was before I was born." <span
-id="fr_114"></span>[17](#fn_114) "Virginity" consists in not being
+id="fr_114"></span>[17](#fn_114.md) "Virginity" consists in not being
 burdened with any forms of intellection, in responding with "Yes, yes"
 when I am addressed by name. I meet a friend in the street, he says,
 "Good morning," and I respond, "Good morning." This will again
 correspond to the Christian way of thinking: "If God told an angel to go
 to a tree and pick off the caterpillar, the angel would be glad to do it
 and it would be bliss to him because it is God's will." <span
-id="fr_115"></span>[18](#fn_115)
+id="fr_115"></span>[18](#fn_115.md)
 
 A monk asked a Zen master, "I note an ancient wise man saying: 'I raise
 the screen and face the broad daylight; I move the chair and am greeted
@@ -617,7 +617,7 @@ which is no other than eternity itself:
 The now-moment in which God made the first man, and the now-moment in
 which the last man will disappear, and the now-moment in which I am
 speaking are all one in God, in whom there is only one now. <span
-id="fr_116"></span>[19](#fn_116)
+id="fr_116"></span>[19](#fn_116.md)
 
 I have been reading all day, confined to my room, and feel tired. I
 raise the screen and face the broad daylight. I move the chair on the
@@ -647,7 +647,7 @@ that inmost Source, I spring from the Holy Spirit and there is one
 
 life, one being, one action. All God's works are one and therefore He
 begets me as he does his Son and without distinction. <span
-id="fr_117"></span>[20](#fn_117)
+id="fr_117"></span>[20](#fn_117.md)
 
 Is this not a strong bold saying? But there is no denying its absolute
 truth. Yet we must not forget that the truth of Eckhart's sermon comes
@@ -678,35 +678,35 @@ Eternity is the absolute present and the absolute present is living a
 
 ### Footnotes
 
-<span id="fn_98"></span>[93:1](mcb06.htm#fr_98) *The Dictionary of
+<span id="fn_98"></span>[93:1](mcb06.htm#fr_98.md) *The Dictionary of
 Philosophy*, edited by Dagobert D. Runes (New York: Philosophical
 Library), p. 97.
 
-<span id="fn_99"></span>[94:2](mcb06.htm#fr_99) Henry Vaughan, "The
+<span id="fn_99"></span>[94:2](mcb06.htm#fr_99.md) Henry Vaughan, "The
 World."
 
-<span id="fn_100"></span>[94:3](mcb06.htm#fr_100) *History of Western
+<span id="fn_100"></span>[94:3](mcb06.htm#fr_100.md) *History of Western
 Philosophy*, p. 144.
 
-<span id="fn_101"></span>[94:4](mcb06.htm#fr_101) *Dialogues of Plato*,
+<span id="fn_101"></span>[94:4](mcb06.htm#fr_101.md) *Dialogues of Plato*,
 translated by B. Jowett (London: Oxford University Press), Vol. III, p.
 456. Published in the United States by Random House.
 
-<span id="fn_102"></span>[96:5](mcb06.htm#fr_102) *Ibid*., p. 398.
+<span id="fn_102"></span>[96:5](mcb06.htm#fr_102.md) *Ibid*., p. 398.
 
-<span id="fn_103"></span>[97:6](mcb06.htm#fr_103) The
+<span id="fn_103"></span>[97:6](mcb06.htm#fr_103.md) The
 *Mādhyamika-śāstra*, "Treatise on the Middle Way."
 
-<span id="fn_104"></span>[99:7](mcb06.htm#fr_104) In the "as-it-is-ness"
+<span id="fn_104"></span>[99:7](mcb06.htm#fr_104.md) In the "as-it-is-ness"
 of things.
 
-<span id="fn_105"></span>[100:8](mcb06.htm#fr_105) "Flower in the
+<span id="fn_105"></span>[100:8](mcb06.htm#fr_105.md) "Flower in the
 Crannied Wall."
 
-<span id="fn_106"></span>[100:9](mcb06.htm#fr_106) "Compassion." One may
+<span id="fn_106"></span>[100:9](mcb06.htm#fr_106.md) "Compassion." One may
 say it is the Buddhist equivalent of love.
 
-<span id="fn_107"></span>[103:10](mcb06.htm#fr_107)
+<span id="fn_107"></span>[103:10](mcb06.htm#fr_107.md)
 
 *Yoku mireba  
 Nazuna hana saku  
@@ -716,15 +716,15 @@ Kakine kana*!
 Nazuna in bloom,  
 The hedge!
 
-<span id="fn_108"></span>[104:11](mcb06.htm#fr_108) *Centuries of
+<span id="fn_108"></span>[104:11](mcb06.htm#fr_108.md) *Centuries of
 Meditations*, Thomas Traherne, 1636-1674 (London: P. J. & A. E. Dobell),
 p. 19.
 
-<span id="fn_109"></span>[104:12](mcb06.htm#fr_109) *Ibid*.
+<span id="fn_109"></span>[104:12](mcb06.htm#fr_109.md) *Ibid*.
 
-<span id="fn_110"></span>[107:13](mcb06.htm#fr_110) Blakney, p. 180.
+<span id="fn_110"></span>[107:13](mcb06.htm#fr_110.md) Blakney, p. 180.
 
-<span id="fn_111"></span>[107:14](mcb06.htm#fr_111) Eckhart's idea of
+<span id="fn_111"></span>[107:14](mcb06.htm#fr_111.md) Eckhart's idea of
 "justice" may be gleaned from the following passages from his "Sermon"
 18 (Blakney, pp. 178-82):
 
@@ -740,19 +740,19 @@ higher."
 "God and I: we are one. By knowing God I take him to myself. By loving
 God I penetrate him."
 
-<span id="fn_112"></span>[108:15](mcb06.htm#fr_112) "Question and
+<span id="fn_112"></span>[108:15](mcb06.htm#fr_112.md) "Question and
 answer."
 
-<span id="fn_113"></span>[109:16](mcb06.htm#fr_113) Blakney, p. 204.
+<span id="fn_113"></span>[109:16](mcb06.htm#fr_113.md) Blakney, p. 204.
 
-<span id="fn_114"></span>[110:17](mcb06.htm#fr_114) *Ibid*., p. 207.
+<span id="fn_114"></span>[110:17](mcb06.htm#fr_114.md) *Ibid*., p. 207.
 
-<span id="fn_115"></span>[110:18](mcb06.htm#fr_115) *Ibid*., p. 205.
+<span id="fn_115"></span>[110:18](mcb06.htm#fr_115.md) *Ibid*., p. 205.
 
-<span id="fn_116"></span>[111:19](mcb06.htm#fr_116) *Ibid*., p. 209.
+<span id="fn_116"></span>[111:19](mcb06.htm#fr_116.md) *Ibid*., p. 209.
 
-<span id="fn_117"></span>[112:20](mcb06.htm#fr_117) *Ibid*., p. 181.
+<span id="fn_117"></span>[112:20](mcb06.htm#fr_117.md) *Ibid*., p. 181.
 
 ------------------------------------------------------------------------
 
-[Next: V. Transmigration](mcb07)
+[Next: V. Transmigration](mcb07.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cms42)  [Next](cms44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cms42)  [Next](cms44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### DESTROY ALL [THOUGHTS](errata.htm#5) THAT WE DO NOT WISH TO EXPERIENCE.
+### DESTROY ALL [THOUGHTS](errata.htm#5.md) THAT WE DO NOT WISH TO EXPERIENCE.
 
 WE must resolutely set our faces to the rising consciousness of the Son
 of Truth; seeing only the One Power we must destroy the adversary and
@@ -49,4 +49,4 @@ fear," but always, "I trust, because 'I know in whom I have believed.'"
 
 ------------------------------------------------------------------------
 
-[Next: Direct Practice For Prosperity](cms44)
+[Next: Direct Practice For Prosperity](cms44.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes11)  [Next](mes13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes11)  [Next](mes13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -42,7 +42,7 @@ conquerors of Khurāsān during the caliphate of ‘Uthmān (Osmān), about
 <span class="smallcaps">a.h.</span> 25 (<span
 class="smallcaps">a.d.</span> 647), and to have settled at Balkh (the
 capital of the ancient Bactria), where his family flourished until after
-the birth of Jelālu-’d-Dīn. <span id="fr_35"></span>[1](#fn_34)
+the birth of Jelālu-’d-Dīn. <span id="fr_35"></span>[1](#fn_34.md)
 
 <span id="page_133">p. 133</span>
 
@@ -113,7 +113,7 @@ son of Abū-Tālib, the "Victorious Lion of God."
 ‘Alī communicated the mysteries to the Imām Hasan of Basra, who died in
 <span class="smallcaps">a.h.</span> 110 (<span
 class="smallcaps">a.d.</span> 728); Hasan taught them to Habīb the
-Persian, <span id="fr_36"></span>[1](#fn_35) who confided them to Dāwūd
+Persian, <span id="fr_36"></span>[1](#fn_35.md) who confided them to Dāwūd
 
 <span id="page_135">p. 135</span>
 
@@ -160,7 +160,7 @@ world over.
 
 ### Footnotes
 
-<span id="fn_34"></span>[132:1](mes12.htm#fr_35) A genealogy is given in
+<span id="fn_34"></span>[132:1](mes12.htm#fr_35.md) A genealogy is given in
 the Turkish preface to my copy of the Mesnevī, which traces the descent
 of Jelālu-’d-Dīn Mohammed from Abū-Bekr in ten degrees, as
 follows:—"Jelālu-’d-Dīn, son of Bahā’u-’d-Dīn, son of Huseyn, son of
@@ -177,11 +177,11 @@ next link. This alone suffices to show that the genealogy is not to be
 depended on. Supposing the names given to be true, many other links must
 be missing; as many, probably, as those given.
 
-<span id="fn_35"></span>[134:1](mes12.htm#fr_36) Habīb the Persian, a
+<span id="fn_35"></span>[134:1](mes12.htm#fr_36.md) Habīb the Persian, a
 wealthy man, converted to Islam by one word from Hasan of Basra, whose
 devoted disciple he became. He died <span class="smallcaps">a.h.</span>
 106 (<span class="smallcaps">a.d.</span> 724).
 
 ------------------------------------------------------------------------
 
-[Next: Title Page](mes13)
+[Next: Title Page](mes13.md)

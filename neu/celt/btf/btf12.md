@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf11)  [Next](btf13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf11)  [Next](btf13.md) 
 
 ------------------------------------------------------------------------
 
@@ -229,4 +229,4 @@ The Court of Crinnawn
 
 ------------------------------------------------------------------------
 
-[Next: Neil O'Carree](btf13)
+[Next: Neil O'Carree](btf13.md)

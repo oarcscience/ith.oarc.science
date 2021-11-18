@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst12)  [Next](mst14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst12)  [Next](mst14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Intangible Textual Heritage
 <span id="img_29300"></span> <span align="CENTER"> [![Ronsard, who
 celebrated the arrival of Nostradamus at court with verses in his
 honor.](tn/29300.jpg)  
-Click to enlarge](img/29300.jpg)  
+Click to enlarge](img/29300.jpg.md)  
 Ronsard, who celebrated the arrival of Nostradamus at court with verses
 in his honor.  
 </span>
@@ -1072,7 +1072,7 @@ IX-45
 
 <div style="margin-left: 32px">
 
-Never will [he be](errata.htm#13) without something more to ask for,  
+Never will [he be](errata.htm#13.md) without something more to ask for,  
 The great personage of Vendôme will obtain his empire (but), <span
 id="page_323">p. 323</span>  
 He will spend his time away from court, he will nullify the plans of
@@ -1270,4 +1270,4 @@ in the room and told her about it as a jest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two: Claude de Savoie](mst14)
+[Next: Chapter Two: Claude de Savoie](mst14.md)

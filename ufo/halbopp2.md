@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](halbopp1)  [Next](halbopp3) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](halbopp1)  [Next](halbopp3.md) 
 
 ### Comet Hale-Bopp and its 'Mysterious Unidentified Companions'
 
@@ -110,4 +110,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: Fraudulent Hale-Bopp Images](halbopp3)
+[Next: Fraudulent Hale-Bopp Images](halbopp3.md)

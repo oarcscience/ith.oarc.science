@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil02)  [Next](wil04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil02)  [Next](wil04.md) 
 
 ------------------------------------------------------------------------
 
@@ -527,4 +527,4 @@ Western, in the unfathomed depths of consolation of the World-Heart.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Eastern Mother](wil04)
+[Next: Chapter II. The Eastern Mother](wil04.md)

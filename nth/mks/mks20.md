@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](mks19)  [Next](mks21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](mks19)  [Next](mks21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master Key System*, by Charles F. Haanel, \[1919\], at Intangible
 Textual Heritage
 
@@ -442,4 +442,4 @@ thought to find its way into action.—Bovee.
 
 ------------------------------------------------------------------------
 
-[Next: Part Eighteen](mks21)
+[Next: Part Eighteen](mks21.md)

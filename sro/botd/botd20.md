@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](botd19)  [Next](botd21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](botd19)  [Next](botd21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Brother of the Third Degree*, by Will L. Garver, \[1894\], at
 Intangible Textual Heritage
 
@@ -114,7 +114,7 @@ then be permitted you to labor as an invisible or be reborn; now turn
 thy mind within."
 
 As he uttered this command a heavenly rapture filled my soul, it seeming
-to [expand until](errata.htm#7) all beings and creatures were included
+to [expand until](errata.htm#7.md) all beings and creatures were included
 in its wondrous love, and an unutterable peace took possession of me.
 Looking at St. Germain I saw that his face was radiant with light, and
 his features seemed angelic in their beauty as he gave the
@@ -453,4 +453,4 @@ you with our love.
 
 ------------------------------------------------------------------------
 
-[Next: Vocabulary](botd21)
+[Next: Vocabulary](botd21.md)

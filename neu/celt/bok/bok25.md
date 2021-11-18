@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bok24)  [Next](bok26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bok24)  [Next](bok26.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Kells*, by Edward Sullivan, \[1920\], at Intangible Textual
 Heritage
 
@@ -21,7 +21,7 @@ COMPOUND LETTERS.
 
 <span id="img_pl21"></span> <span align="CENTER"> [![Plate
 XXI](tn/pl21.jpg)  
-Click to enlarge](img/pl21.jpg)  
+Click to enlarge](img/pl21.jpg.md)  
 Plate XXI  
 </span>
 
@@ -45,6 +45,6 @@ B „
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXII. Compound Letters](bok26)
+[Next: Plate XXII. Compound Letters](bok26.md)
 
 </div>

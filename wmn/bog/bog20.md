@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog19)  [Next](bog21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog19)  [Next](bog21.md) 
 
 ------------------------------------------------------------------------
 
@@ -291,4 +291,4 @@ May we be blessed by Her tolerance and wisdom.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](bog21)
+[Next: Introduction](bog21.md)

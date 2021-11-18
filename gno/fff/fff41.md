@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff40)  [Next](fff42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff40)  [Next](fff42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -80,7 +80,7 @@ fashion. True that by this time the presentation of the Gnosis, from
 being of a most diverse nature, had become more settled in its main
 features, and perhaps Valentinus may have initiated this syntheticizing
 tendency, though it is far more probable that he developed and perfected
-it; [nevertheless](errata.htm#34) it was still enormously free and
+it; [nevertheless](errata.htm#34.md) it was still enormously free and
 independent in innumerable details of a very far-reaching character, and
 its adherents were imbued with that spirit of research, discovery, and
 adaptation which ever marks a period of spiritual and intellectual life.
@@ -275,7 +275,7 @@ probably formed part of the first book of Clement's lost work, *The
 Outlines*. These excerpts "have been dislocated and their original
 coherence broken up" in so violent a manner, and so interspersed with
 "counter-observations and independent discussions" by Clement
-[himself](errata.htm#35), that it is exceedingly difficult to form a
+[himself](errata.htm#35.md), that it is exceedingly difficult to form a
 judgment upon them. When, moreover, Lipsius assigns part of these
 extracts to the Oriental and part to the Occidental school, he
 practically bids us erase the superscription which
@@ -312,4 +312,4 @@ have been the greatest among the Gnostics.
 
 ------------------------------------------------------------------------
 
-[Next: Valentinus](fff42)
+[Next: Valentinus](fff42.md)

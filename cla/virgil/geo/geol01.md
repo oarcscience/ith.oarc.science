@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](geo01) 
-[Previous](geol00)  [Next](geol02) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](geo01.md) 
+[Previous](geol00)  [Next](geol02.md) 
 
 ------------------------------------------------------------------------
 
@@ -525,4 +525,4 @@ fertur equis auriga neque audit currus habenas.
 
 ------------------------------------------------------------------------
 
-[Next: Second Book](geol02)
+[Next: Second Book](geol02.md)

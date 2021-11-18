@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb16)  [Next](boeb18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb16)  [Next](boeb18.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,7 +139,7 @@ How he is gone to the wight yeomàn,
  
 
 <span id="img_11100"></span> [![](tn/11100.jpg)  
-Click to enlarge](img/11100.jpg)
+Click to enlarge](img/11100.jpg.md)
 
  
 
@@ -252,7 +252,7 @@ That he was never on woman born
  
 
 <span id="img_11400"></span> [![](tn/11400.jpg)  
-Click to enlarge](img/11400.jpg)
+Click to enlarge](img/11400.jpg.md)
 
  
 
@@ -350,4 +350,4 @@ But Little John with an arrowe soe broad
 
 ------------------------------------------------------------------------
 
-[Next: Robin Hood's Death and Burial](boeb18)
+[Next: Robin Hood's Death and Burial](boeb18.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits089) [Next](bits091)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits089) [Next](bits091.md)
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ Exudeth nasty, stinking smells.'"<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 91. Heaven Not the Highest Good](bits091)
+[Next: § 91. Heaven Not the Highest Good](bits091.md)
 
  
 

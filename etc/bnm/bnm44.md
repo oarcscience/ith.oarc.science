@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm43)  [Next](bnm45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm43)  [Next](bnm45.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ the island was."
 
 ------------------------------------------------------------------------
 
-[Next: Why The Water In Rivers Is Never Still.](bnm45)
+[Next: Why The Water In Rivers Is Never Still.](bnm45.md)

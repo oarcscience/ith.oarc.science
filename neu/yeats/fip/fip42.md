@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip41)  [Next](fip43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip41)  [Next](fip43.md) 
 
 ------------------------------------------------------------------------
 
@@ -232,4 +232,4 @@ desolate, and awful.
 
 ------------------------------------------------------------------------
 
-[Next: Witches, Fairy Doctors](fip43)
+[Next: Witches, Fairy Doctors](fip43.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim79)  [Next](sim81) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim79)  [Next](sim81.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ The nephew and uncle were racoons.
 
 ------------------------------------------------------------------------
 
-[Next: The Moose Woman](sim81)
+[Next: The Moose Woman](sim81.md)

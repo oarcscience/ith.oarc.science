@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico047) 
-[Next](nico049) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico047.md) 
+[Next](nico049.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ and similarly of the just and the unjust in general.
 ------------------------------------------------------------------------
 
 [Next: Chapter 6. Political justice and analogous kinds of
-justice](nico049)
+justice](nico049.md)

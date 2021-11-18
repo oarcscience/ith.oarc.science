@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat17.htm#CXXXV) 
-[Previous](satl134)  [Next](satl136) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat17.htm#CXXXV.md) 
+[Previous](satl134)  [Next](satl136.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ Baccineas veteres mirando tradidit aevo.
 
 ------------------------------------------------------------------------
 
-[Next: CXXXVI](satl136)
+[Next: CXXXVI](satl136.md)

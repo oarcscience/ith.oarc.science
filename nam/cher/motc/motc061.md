@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc060) 
-[Next](motc062) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc060.md) 
+[Next](motc062.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ house forever.
 
 ------------------------------------------------------------------------
 
-[Next: 62. The Katydid's Warning](motc062)
+[Next: 62. The Katydid's Warning](motc062.md)

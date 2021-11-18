@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw49)  [Next](omw51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw49)  [Next](omw51.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_15800"></span>
 
 [![Arawn and Havgan](tn/15800.jpg)  
-Click to enlarge](img/15800.jpg)  
+Click to enlarge](img/15800.jpg.md)  
 Arawn and Havgan  
 
 # WELSH
@@ -183,4 +183,4 @@ forward.
 ------------------------------------------------------------------------
 
 [Next: Math, the Son of Mathonwy: Part I. The Treachery of Gwydion and
-Gilvaethwy](omw51)
+Gilvaethwy](omw51.md)

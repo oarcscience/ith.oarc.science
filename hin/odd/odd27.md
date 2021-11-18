@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd26)  [Next](odd28) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd26)  [Next](odd28.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ THERE was once upon a time a very rich man who had a very beautiful
 wife, and this man's chief amusement used to be shooting with a bow and
 arrow, at which he was so clever, that every morning he would shoot
 through one of the pearls in his wife's nose-ring without hurting her at
-all.  <span id="fr_94"></span>[1](#fn_94) One fine day, that was a
+all.  <span id="fr_94"></span>[1](#fn_94.md) One fine day, that was a
 holiday, the Pearlshooter's brother-in-law came to take his sister to
 their father and mother's house to pay her own family a little visit;
 and when he saw her, he said, 'Why do you look so pale, and thin, and
@@ -70,7 +70,7 @@ before. He accosted the Wrestler and the Pearlshooter, and said to them,
 'are two clever men, who are travelling through the world to see if we
 can find a cleverer man than we; but who may you be, and where are you
 going? '--'I,' replied the third man, 'am a Pundit  <span
-id="fr_95"></span>[2](#fn_95) a man of memory, renowned for my good
+id="fr_95"></span>[2](#fn_95.md) a man of memory, renowned for my good
 head, a great thinker; and verily I thought there was not in the world a
 more wonderftil man than I; but having heard of two men in distant lands
 of very great cleverness, the one of whom is a Wrestler, and the other a
@@ -240,7 +240,7 @@ quite frightened at the Pundit's fierce words; 'mount on my back, and
 I'll take you there.' So the Pundit, the Wrestler, and the Pearlshooter
 all mounted the Demon, and he flew away with them, on, on, on, as fast
 as wings could cut the air, till they reached the great jungle where the
-durbar  <span id="fr_96"></span>[3](#fn_96) was to be held, and there he
+durbar  <span id="fr_96"></span>[3](#fn_96.md) was to be held, and there he
 placed them all on the top of a high tree just over the Demon Rajah's
 throne. In a few minutes the Pearlshooter, the Wrestler, and the Pundit
 heard a rushing noise, and thousands and thousands of Demons filled the
@@ -310,12 +310,12 @@ more.' And he never did.
 
 ### Footnotes
 
-<span id="fn_94"></span>[1](odd27.htm#fr_94) See Notes.
+<span id="fn_94"></span>[1](odd27.htm#fr_94.md) See Notes.
 
-<span id="fn_95"></span>[2](odd27.htm#fr_95) Wise man.
+<span id="fn_95"></span>[2](odd27.htm#fr_95.md) Wise man.
 
-<span id="fn_96"></span>[3](odd27.htm#fr_96) Council.
+<span id="fn_96"></span>[3](odd27.htm#fr_96.md) Council.
 
 ------------------------------------------------------------------------
 
-[Next: XXIV. The Alligator and the Jackal](odd28)
+[Next: XXIV. The Alligator and the Jackal](odd28.md)

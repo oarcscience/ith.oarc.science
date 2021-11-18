@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto37) 
-[Next](aoto39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto37.md) 
+[Next](aoto39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -318,7 +318,7 @@ I admit as I have already done that these arguments are not absolutely
 demonstrative, but it being, I may say, demonstrated that we must choose
 between Nausicaa and some other young woman of Trapani who lived in, or
 was very closely intimate with, the household of King
-[Alcinous](errata.htm#4), I have no hesitation in saying that I think
+[Alcinous](errata.htm#4.md), I have no hesitation in saying that I think
 Nausicaa herself more likely than this other unknown young woman to have
 been the writer we are seeking.
 
@@ -394,4 +394,4 @@ it. Nothing short of this is of the smallest use.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Date Of The Poem](aoto39)
+[Next: Chapter XII. The Date Of The Poem](aoto39.md)

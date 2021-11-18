@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mind17)  [Next](mind19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mind17)  [Next](mind19.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *At the Back of the Black Man's Mind*, by Richard Edward Dennett,
 \[1906\], at Intangible Textual Heritage
 
@@ -390,6 +390,6 @@ A BINI HOUSE (Pl. XVI)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 19. Bini Customs](mind19)
+[Next: Chapter 19. Bini Customs](mind19.md)
 
 </div>

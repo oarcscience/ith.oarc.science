@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat12)  [Next](jat14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat12)  [Next](jat14.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ way.
 
 ------------------------------------------------------------------------
 
-[Next: 12. Naiyenesgani Takes His Leave](jat14)
+[Next: 12. Naiyenesgani Takes His Leave](jat14.md)

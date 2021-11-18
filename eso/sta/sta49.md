@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta48)  [Next](sta50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta48)  [Next](sta50.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ of that city, this noble woman stands out from the
 <span id="img_19700"></span>
 
 [![THE TABLE OF CEBES.](tn/19700.jpg)  
-Click to enlarge](img/19700.jpg)  
+Click to enlarge](img/19700.jpg.md)  
 THE TABLE OF CEBES.  
 
 From Vænius' *Theatro Moral de la Vida Humana*.
@@ -436,7 +436,7 @@ Masonic affiliations. An example of this is the account appearing in
 <span id="img_19900"></span>
 
 [![THE ''DIVINE'' CAGLIOSTRO.](tn/19900.jpg)  
-Click to enlarge](img/19900.jpg)  
+Click to enlarge](img/19900.jpg.md)  
 THE ''DIVINE'' CAGLIOSTRO.  
 
 From Houdon's Bust of Cagliostro.
@@ -630,4 +630,4 @@ mankind as it did of old?
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](sta50)
+[Next: Conclusion](sta50.md)

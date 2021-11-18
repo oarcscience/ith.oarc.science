@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf01) [Next](bulf03) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf01) [Next](bulf03.md) 
 
 # CHAPTER III.
 
@@ -332,4 +332,4 @@ beginning thus:
 ------------------------------------------------------------------------
 
 Next: [CHAPTER IV. Juno And Her Rivals, Io And Callisto- Diana And
-Actaeon- Latona And The Rustics.](bulf03)
+Actaeon- Latona And The Rustics.](bulf03.md)

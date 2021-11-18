@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe18)  [Next](toe20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe18)  [Next](toe20.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ the first part of this work, concerning consolidation and mineral
 concretion from the fluid state of fusion.
 
 This author has perhaps properly exposed Woodward's Theory of
-Petrification in saying <span id="fr_39"></span>[33](#fn_39), "Son
+Petrification in saying <span id="fr_39"></span>[33](#fn_39.md), "Son
 erreur à cet égard vient de ce qu'il n'a point réfléchi sur la manière
 dont se fait la *pétrifaction*. Il ramollit d'abord les *pierres* pour y
 faire entrer les coquilles, sans bien connoître l'agent qu'il y employe;
@@ -141,7 +141,7 @@ regularly shooting from a basis which is the internal surface of the
 cavity, we find the other constituent substances of the granite also
 crystallised. I have those small cavities, in this rock, from the island
 of Arran, containing crystal, felt-spar, and mica, all crystallised in
-the same cavity <span id="fr_40"></span>[34](#fn_40). But this is
+the same cavity <span id="fr_40"></span>[34](#fn_40.md). But this is
 nothing to the *druzen* or crystalline concretions, which are found in a
 similar manner among metallic and mineral substances in the veins and
 mines; there, every species of mineral and metallic substance, with
@@ -169,7 +169,7 @@ calcareous earth; but the examples given by M. de Luc, of those bodies
 of lime-stone and agate petrified in the middle of strata of loose or
 sandy materials, are certainly inexplicable upon any other principle
 except the fusion of those substances with which the bodies are
-petrified <span id="fr_41"></span>[35](#fn_41).
+petrified <span id="fr_41"></span>[35](#fn_41.md).
 
 This subject deserves the strictest attention; I propose it as a
 touchstone for every theory of petrification or perfect consolidation.
@@ -184,7 +184,7 @@ spar, including within them the sand, but without having the sparry or
 calcareous crystallization disturbed by it. There are also other
 globular masses of the same kind, where the sparry crystallization is
 either not to be observed, or appears only partially <span
-id="fr_42"></span>[36](#fn_42): And now, lastly, In strata of
+id="fr_42"></span>[36](#fn_42.md): And now, lastly, In strata of
 shell-sand, there are found masses of consolidated lime-stone or marble.
 In all those cases, the consolidated bodies are perfectly insulated in
 the middle of strata, in which they must of necessity have been
@@ -371,7 +371,7 @@ geological theories upon a mere supposition or false analogy, they have
 even proceeded, upon that erroneous theory, to form a geological
 supposition for explaining the appearances of strata and other stony
 masses in employing a particular physical operation, which is, that of
-*crystallization* <span id="fr_43"></span>[37](#fn_43). Now
+*crystallization* <span id="fr_43"></span>[37](#fn_43.md). Now
 crystallization may be considered as a species of elective concretion,
 by which every particular substance, in passing from a fluid to a solid
 state, may assume a certain peculiar external shape and internal
@@ -387,7 +387,7 @@ did before;—we cannot, from that, say whether it be by the operation of
 solution or of fusion which had produced the perceived effect.
 
 M. de Carosi has wrote a treatise upon certain petrifactions <span
-id="fr_44"></span>[38](#fn_44). In the doctrine of this treatise there
+id="fr_44"></span>[38](#fn_44.md). In the doctrine of this treatise there
 is something new or extraordinary. It will therefore be proper to make
 some observations on it.
 
@@ -583,7 +583,7 @@ had been introduced into those cavities of the agate, and, as our author
 expresses it, *parsemée pour toute la substance?* Here are suppositions
 which are not only perfectly gratuitous, but are also inconsistent with
 any thing that we understand. This is not explaining nature; it is only
-feigning causes <span id="fr_45"></span>[39](#fn_45).
+feigning causes <span id="fr_45"></span>[39](#fn_45.md).
 
 The third section has for title, "*Generation du Silex et Quartz de la
 Pierre Puante*." Here we find an example worthy of being recorded, as
@@ -746,7 +746,7 @@ danger to science when men of sense and observation form suppositions
 for the explanation of appearances without that strict conformity with
 the principles of natural philosophy which is requited on all occasions.
 Both M. de Carosi, and also M. Macquart <span
-id="fr_46"></span>[40](#fn_46), to whom our author communicated his
+id="fr_46"></span>[40](#fn_46.md), to whom our author communicated his
 ideas and proper specimens, assert, that from their accurate experience,
 they find calcedony growing daily, not only in the solid body of gypsum,
 etc. while in the mine, but also in the solid stone when taken out of
@@ -763,7 +763,7 @@ that it is not easily distinguishable from the gypsum in which it is
 concreted; but that in having the humidity evaporated, by being taken
 out of the mine and exposed to the dry air, those portions of calcedony,
 which did not before appear, may be perceived by becoming more
-opaque <span id="fr_47"></span>[41](#fn_47).
+opaque <span id="fr_47"></span>[41](#fn_47.md).
 
 There is, however, a subject in which I can more freely accuse this
 author of being deceived. This naturalist says, that calcareous stones
@@ -983,7 +983,7 @@ sufficient to prove the metamorphosis, even were there not so strong a
 physical objection to it; for, it is by no means unusual for mineral
 bodies to graduate thus from one substance to another. However that be,
 this is not the principal object of the example <span
-id="fr_48"></span>[42](#fn_48).
+id="fr_48"></span>[42](#fn_48.md).
 
 After speculating upon the effect of the ancient ocean upon the
 mountains of that country, he proceeds as follows:
@@ -1174,7 +1174,7 @@ convert water into every thing, unless it were to confound human
 understanding? For, so far as human experience has been as yet able to
 reach, there would appear to be certain elementary substances; and among
 these is water, or the principles of that fluid <span
-id="fr_49"></span>[43](#fn_49). But because water is so generally found
+id="fr_49"></span>[43](#fn_49.md). But because water is so generally found
 in bodies, and so necessarily in most of the operations of this world,
 why convert it into every other thing? Surely, for no better reason than
 that there has not occurred to this mineralist any other way of
@@ -1273,7 +1273,7 @@ mixed of those two, more or less.
 
 Dr Black has been analysing the water; and he finds in it siliceous
 matter dissolved by an alkaline substance, in the manner of liquor
-silicum <span id="fr_50"></span>[44](#fn_50). My conjecture has thus
+silicum <span id="fr_50"></span>[44](#fn_50.md). My conjecture has thus
 been verified.
 
 It must not be alleged that nature may operate in the mineral regions,
@@ -1444,10 +1444,10 @@ and more confirmed as we come to examine particular mineral appearances.
 
 ### Footnotes
 
-<span id="fn_39"></span>[v1:33](toe19.htm#fr_39) Lettres Physiques et
+<span id="fn_39"></span>[v1:33](toe19.htm#fr_39.md) Lettres Physiques et
 Morales.
 
-<span id="fn_40"></span>[v1:34](toe19.htm#fr_40) The Chevalier Dolomieu
+<span id="fn_40"></span>[v1:34](toe19.htm#fr_40.md) The Chevalier Dolomieu
 makes the following observation. Journal de Physique, Juillet 1791.
 
 "J'ai été étonné de trouver au centre d'un énorme massif de granit, que
@@ -1471,20 +1471,20 @@ leaves the matter without any interpretation of his own. This however is
 what he has not done in the case of basaltes, or that which he mistakes
 for proper lavas, as I shall have occasion to show.
 
-<span id="fn_41"></span>[v1:35](toe19.htm#fr_41) Vid. Lettre 28 et
+<span id="fn_41"></span>[v1:35](toe19.htm#fr_41.md) Vid. Lettre 28 et
 Lettre 103. Lettres Physiques et Morales.
 
-<span id="fn_42"></span>[v1:36](toe19.htm#fr_42) Mem. de l'Académie
+<span id="fn_42"></span>[v1:36](toe19.htm#fr_42.md) Mem. de l'Académie
 Royale des Sciences, an. 1775.
 
-<span id="fn_43"></span>[v1:37](toe19.htm#fr_43) Journal de Physique;
+<span id="fn_43"></span>[v1:37](toe19.htm#fr_43.md) Journal de Physique;
 Avril 1753.
 
-<span id="fn_44"></span>[v1:38](toe19.htm#fr_44) Sur la Generation du
+<span id="fn_44"></span>[v1:38](toe19.htm#fr_44.md) Sur la Generation du
 Silex et du Quartz en partie. Observations faites en Pologne 1783, à
 Cracovie.
 
-<span id="fn_45"></span>[v1:39](toe19.htm#fr_45) The description of
+<span id="fn_45"></span>[v1:39](toe19.htm#fr_45.md) The description of
 those insulated siliceous bodies, containing in their closed cavities
 all the usual concretions of calcedony and crystals, as well as full of
 small pyrites floating in the solid flint, are extremely interesting to
@@ -1503,10 +1503,10 @@ nature of things as that which we have from this author, who examines
 nature very minutely, and who sees distinctly that the infiltrating
 theory is inapplicable for the explanation of those petrifactions.
 
-<span id="fn_46"></span>[v1:40](toe19.htm#fr_46) Vid. Essais de
+<span id="fn_46"></span>[v1:40](toe19.htm#fr_46.md) Vid. Essais de
 Minéralogie par M. Macquart.
 
-<span id="fn_47"></span>[v1:41](toe19.htm#fr_47) From the description
+<span id="fn_47"></span>[v1:41](toe19.htm#fr_47.md) From the description
 given in this treatise, and from the drawings both of M. de Carosi and
 M. Macquart, I find a very valuable inference to be made, so much the
 more interesting, as I have not found any example of the like before.
@@ -1531,7 +1531,7 @@ demonstrable upon a thousand occasions; and that thus is to be explained
 the petrification and consolidation of the porous and naturally
 incoherent strata of the earth.
 
-<span id="fn_48"></span>[v1:42](toe19.htm#fr_48) Here we have well
+<span id="fn_48"></span>[v1:42](toe19.htm#fr_48.md) Here we have well
 informed naturalists reasoning with all the light of our present
 mineralogy, and maintaining, on the one hand, that gypsum is transformed
 into calcedony, by the operation of the meteors, or some such cause;
@@ -1566,7 +1566,7 @@ another question. In the mean time, I am to avail myself of the
 testimony of those gentlemen of observation, by which the insufficiency
 at least of the received mineral system is acknowledged.
 
-<span id="fn_49"></span>[v1:43](toe19.htm#fr_49) Water is now considered
+<span id="fn_49"></span>[v1:43](toe19.htm#fr_49.md) Water is now considered
 by men of science, as a compound substance; this doctrine, which seems
 to follow so necessarily from the experiments of the French
 philosophers, must be tried by the growing light of chemical science. In
@@ -1584,9 +1584,9 @@ conclude, either that water were a compound substance, or that vital
 air, and inflammable vapour were compounds of water and the matter of
 light, or solar substance.
 
-<span id="fn_50"></span>[v1:44](toe19.htm#fr_50) See Trans. of the Edin.
+<span id="fn_50"></span>[v1:44](toe19.htm#fr_50.md) See Trans. of the Edin.
 Royal Society.
 
 ------------------------------------------------------------------------
 
-[Next: Section I. Purpose of this Inquiry](toe20)
+[Next: Section I. Purpose of this Inquiry](toe20.md)

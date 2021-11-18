@@ -1,1 +1,1 @@
-[Updated file!](index)
+[Updated file!](index.md)

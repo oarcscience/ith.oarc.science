@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi218)  [Next](mtsi220) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi218)  [Next](mtsi220.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ stingy of her. Then the person blew fire on him and burned him and made
 him run off. He pursued him round all of the four corners of the earth,
 blowing fire upon him. He burned him so that his bones were split and
 dropped down. Laigatonōhona ("dung roller"), <span
-id="fr_57"></span>[1](#fn_57) which was this person's name, picked them
+id="fr_57"></span>[1](#fn_57.md) which was this person's name, picked them
 up and made a feather headdress out of them. They are stuck on his head
 to this day. Thunder, however, disappeared in the east. This is all.
 
@@ -35,9 +35,9 @@ to this day. Thunder, however, disappeared in the east. This is all.
 
 ### Footnotes
 
-<span id="fn_57"></span>[184:1](mtsi219.htm#fr_57) An insect which rolls
+<span id="fn_57"></span>[184:1](mtsi219.htm#fr_57.md) An insect which rolls
 balls of cow manure about.
 
 ------------------------------------------------------------------------
 
-[Next: 20. Thunder](mtsi220)
+[Next: 20. Thunder](mtsi220.md)

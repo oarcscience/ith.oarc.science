@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](ody07)  [Next](ody09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](ody07)  [Next](ody09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE798E/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE798E/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Odyssey of Homer*, by Samuel Butler, \[1900\], at Intangible
 Textual Heritage
 
@@ -516,6 +516,6 @@ good friend is as dear to a man as his own brother?"
 
 ------------------------------------------------------------------------
 
-[Next: Book IX.](ody09)
+[Next: Book IX.](ody09.md)
 
 </div>

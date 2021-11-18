@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](eoc01)  [Next](eoc03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](eoc01)  [Next](eoc03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410203565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410203565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Ethics of Confucius*, by Miles Menander Dawson, \[1915\], at
 Intangible Textual Heritage
 
@@ -60,7 +60,7 @@ these teachings is, in my opinion, chiefly due to this: They are found
 in large volumes consisting of ancient Chinese classics which Confucius
 edited, of a collection of his sayings, of certain books by his
 disciples that purport to give his precepts accurately, in one book by
-his great apostle, Mencius, <span id="fr_0"></span>[1](#fn_0) who more
+his great apostle, Mencius, <span id="fr_0"></span>[1](#fn_0.md) who more
 than a century later led the revival of Confucian ethics which has
 continued to this day, and in certain books by later followers; and
 these books consist, in varying proportions, ranging from a minimum of
@@ -198,7 +198,7 @@ is given.
 
 ### Footnotes
 
-<span id="fn_0"></span>[viii:1](eoc02.htm#fr_0) Mencius said of himself:
+<span id="fn_0"></span>[viii:1](eoc02.htm#fr_0.md) Mencius said of himself:
 "Although I could not be a disciple of Confucius myself, I have
 endeavoured to cultivate my virtue by means of others who were." (Bk.
 iv., pt. ii., c. xxii., v. 2.)
@@ -206,4 +206,4 @@ iv., pt. ii., c. xxii., v. 2.)
 ------------------------------------------------------------------------
 
 [Next: The Works of Confucius, His Disciples, and Most Important
-Followers](eoc03)
+Followers](eoc03.md)

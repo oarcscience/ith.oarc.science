@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe105)  [Next](prwe107) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe105)  [Next](prwe107.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ to all generations.
 
 ------------------------------------------------------------------------
 
-[Next: The Haunted Widower](prwe107)
+[Next: The Haunted Widower](prwe107.md)

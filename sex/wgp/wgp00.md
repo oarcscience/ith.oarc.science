@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Next](wgp01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Next](wgp01.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ Sexuality](../index)  [Index](index)  [Next](wgp01) 
 
 ------------------------------------------------------------------------
 
-[Next: Antiquity](wgp01)
+[Next: Antiquity](wgp01.md)

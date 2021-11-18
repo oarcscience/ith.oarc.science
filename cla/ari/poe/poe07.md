@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe06)  [Next](poe08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe06)  [Next](poe08.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ on that of the poet.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Plot must be a Whole](poe08)
+[Next: VII. The Plot must be a Whole](poe08.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat15.htm#CXX)  [Previous](satl119) 
-[Next](satl121) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat15.htm#CXX)  [Previous](satl119.md) 
+[Next](satl121.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ extulit in lucem nutritas sanguine fruges.'
 
 ------------------------------------------------------------------------
 
-[Next: CXXI](satl121)
+[Next: CXXI](satl121.md)

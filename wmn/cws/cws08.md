@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws07)  [Next](cws09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws07)  [Next](cws09.md) 
 
 ------------------------------------------------------------------------
 
 ### No. IV
 
-#### CONCERNING REVELATION <span id="fr_51"></span>[1](#fn_51)
+#### CONCERNING REVELATION <span id="fr_51"></span>[1](#fn_51.md)
 
 ALL true and worthy illuminations are *reveilations*, or re-veilings.
 Mark the meaning of this word. There can be no true or worthy
@@ -96,11 +96,11 @@ unutterable, save by God to God.
 
 ### Footnotes
 
-<span id="fn_51"></span>[9:1](cws08.htm#fr_51) Home, November 27, 1885.
+<span id="fn_51"></span>[9:1](cws08.htm#fr_51.md) Home, November 27, 1885.
 Received in sleep. Referred to in *Life of Anna Kingsford*, vol. ii, p.
 246.
 
 ------------------------------------------------------------------------
 
 [Next: No. V: Concerning The Interpretation Of The Mystical
-Scriptures](cws09)
+Scriptures](cws09.md)

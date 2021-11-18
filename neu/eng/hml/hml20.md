@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml19)  [Next](hml21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml19)  [Next](hml21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -240,13 +240,13 @@ needed all his agility to escape the monster's terrible
 <span id="img_34000"></span>
 
 [![Alftruda](tn/34000.jpg)  
-Click to enlarge](img/34000.jpg)  
+Click to enlarge](img/34000.jpg.md)  
 Alftruda  
 
 <span id="img_34100"></span>
 
 [![Hereward and the Princess](tn/34100.jpg)  
-Click to enlarge](img/34100.jpg)  
+Click to enlarge](img/34100.jpg.md)  
 Hereward and the Princess  
 
  
@@ -514,7 +514,7 @@ go, and he lay down to sleep in the
 <span id="img_34800"></span>
 
 [![Hereward and Sigtryg](tn/34800.jpg)  
-Click to enlarge](img/34800.jpg)  
+Click to enlarge](img/34800.jpg.md)  
 Hereward and Sigtryg  
 
  
@@ -603,4 +603,4 @@ Champion of Women.
 
 ------------------------------------------------------------------------
 
-[Next: Glossary and Index](hml21)
+[Next: Glossary and Index](hml21.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](tmc00)  [Next](tmc02) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](tmc00)  [Next](tmc02.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ relate the myth accounting for their origin.
 
 ------------------------------------------------------------------------
 
-[Next: Myth of the Origin of Dsilyídje Qaçàl.](tmc02)
+[Next: Myth of the Origin of Dsilyídje Qaçàl.](tmc02.md)

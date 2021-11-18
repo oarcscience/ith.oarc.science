@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft00)  [Next](eft02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft00)  [Next](eft02.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ JOSEPH JACOBS
 
 ------------------------------------------------------------------------
 
-[Next: Tom Tit Tot](eft02)
+[Next: Tom Tit Tot](eft02.md)

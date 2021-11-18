@@ -1,11 +1,11 @@
-[Sacred-Texts](../index)  [Ancient Near East](index)
+[Sacred-Texts](../index)  [Ancient Near East](index.md)
 
 ------------------------------------------------------------------------
 
 ### ENUMA ELISH THE EPIC OF CREATION L.W. King Translator (from The Seven Tablets of Creation, London 1902) 
 
 A more complete etext of the Seven Tablets of Creation is also available
-[here.](stc/index)
+[here.](stc/index.md)
 
 THE FIRST TABLET  
   

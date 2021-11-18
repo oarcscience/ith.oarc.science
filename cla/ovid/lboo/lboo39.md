@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo38)  [Next](lboo40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo38)  [Next](lboo40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ nec nisi tu nostris cantabitur ulla libellis;<br />
 ------------------------------------------------------------------------
 
 [Next: Elegy XVIII: To Macer: To Whom He Excuses Himself For Giving
-Himself Up Wholly To Erotic Verse.](lboo40)
+Himself Up Wholly To Erotic Verse.](lboo40.md)

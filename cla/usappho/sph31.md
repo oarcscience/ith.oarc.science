@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph30)  [Next](sph32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph30)  [Next](sph32.md) 
 
 ------------------------------------------------------------------------
 
 # <span id="BM30">30</span>
 
 Μνάσεσθαί τινά φαμι καὶ ὔστερον
-ἀμμέων. [\[transcription\]](xlatall.htm#50)
+ἀμμέων. [\[transcription\]](xlatall.htm#50.md)
 
 I think men will remember us even hereafter.
 
@@ -16,4 +16,4 @@ said "with perfect beauty."
 
 ------------------------------------------------------------------------
 
-[Next: 31: I loved thee Atthis...](sph32)
+[Next: 31: I loved thee Atthis...](sph32.md)

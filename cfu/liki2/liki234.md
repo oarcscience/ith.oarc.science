@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki233)  [Next](liki235) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki233)  [Next](liki235.md) 
 
 ------------------------------------------------------------------------
 
@@ -162,6 +162,6 @@ were worn together.
 ------------------------------------------------------------------------
 
 [Next: XXXV. San Nien Wan or Questions About the Mourning for Three
-Years](liki235)
+Years](liki235.md)
 
   

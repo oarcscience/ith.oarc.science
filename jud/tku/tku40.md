@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku39)  [Next](tku41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku39)  [Next](tku41.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ diverse symbolism.
 
 <span id="page_193">p. 193</span>
 
-a smoke out of His nose, <span id="fr_116"></span>[1](#fn_115) and fire
+a smoke out of His nose, <span id="fr_116"></span>[1](#fn_115.md) and fire
 out of His mouth devoured; coals were kindled by it."
 
 663\. "There went up a smoke out of His nose." In this smoke are
@@ -27,11 +27,11 @@ nose.
 
 664\. Also we have learned that when these three things are associated
 together which are included in that smoke which issueth from the nose,
-the nose <span id="fr_117"></span>[2](#fn_116) is lengthened.
+the nose <span id="fr_117"></span>[2](#fn_116.md) is lengthened.
 
 665\. And therein are two colours, for the smoke bloweth and rusheth
 forth black and red; and they call it AP, <span
-id="fr_118"></span>[3](#fn_117) *Aph*, wrath; and ChIMH, *Chimah*,
+id="fr_118"></span>[3](#fn_117.md) *Aph*, wrath; and ChIMH, *Chimah*,
 fervour; and MShChITh, *Meshachith*, perdition.
 
 666\. And if thou sayest wrath and fervour, it is well, since it is
@@ -44,7 +44,7 @@ destroyed Sodom and Gomorrah." But the word ShChTh, *Shachith*, denoted
 perdition brought about by burning, kindled fire.
 
 668\. Also we have learned that there are five <span
-id="fr_119"></span>[4](#fn_118) GBVRAN, Geboran, severities in this
+id="fr_119"></span>[4](#fn_118.md) GBVRAN, Geboran, severities in this
 conformation of Microprosopus, and they ascend in one thousand and four
 hundred severities, GBVRAN; and they are extended in
 
@@ -58,7 +58,7 @@ GBVRVTh, *Geburoth*, powers of Tetragrammaton?"
 
 670\. Hence it is written, "powers" Geburoth (*in the plural number*);
 and it is written, 1 Chron. xxix. ii: "Thine! O Tetragrammaton, are
-Gedulah and Geburah," <span id="fr_120"></span>[1](#fn_119) in the
+Gedulah and Geburah," <span id="fr_120"></span>[1](#fn_119.md) in the
 singular (*number*).
 
 671\. Assuredly thus have we learned. When all those severities are
@@ -66,11 +66,11 @@ amalgamated into one, then are they called one Geburah, GBVRH.
 
 672\. And all those powers, Geboran, commence to descend from the nose.
 And from it depend a thousand times a thousand and four hundred myriads
-in their single (*form*). <span id="fr_121"></span>[2](#fn_120)
+in their single (*form*). <span id="fr_121"></span>[2](#fn_120.md)
 
 673\. And from that smoke which issueth from his nose depend a thousand
 times a thousand myriads, and four hundred and five which belong to this
-(*idea of*) Severity. <span id="fr_122"></span>[3](#fn_121) For all the
+(*idea of*) Severity. <span id="fr_122"></span>[3](#fn_121.md) For all the
 severities depend from this nose.
 
 674\. For it is written, Ps. cxlv. 4: "From generation unto generation
@@ -86,7 +86,7 @@ until they descend in the form of a swift, whirling fire-flaming sword
 676\. It is written, Gen. xix. 13: "For we will destroy this place."
 Also it is written, Gen. xiii. 10: "Before that Tetragrammaton destroyed
 Sodom and Gomorrah?" And again, Gen. xix. 24: "Tetragrammaton rained
-upon Sodom and [Gomorrah](errata.htm#5)."
+upon Sodom and [Gomorrah](errata.htm#5.md)."
 
 677\. Assuredly thus have we learned: There is no judge over the wicked,
 but they themselves convert the measure of Mercy into a measure of
@@ -103,7 +103,7 @@ mercies are found everywhere.
 are prepared; and in this manner, if it be permitted us to say so, Mercy
 becometh judgment; that is, the most Ancient One of all.
 
-681\. We have learned in Barietha <span id="fr_123"></span>[1](#fn_122):
+681\. We have learned in Barietha <span id="fr_123"></span>[1](#fn_122.md):
 "When the Ancient of the Ancient Ones uncovereth the benevolence of
 benevolences, all those lights which are called by a similar name shine,
 and Mercy is found in all things."
@@ -127,12 +127,12 @@ But the word
 <span id="page_196">p. 196</span>
 
 \[paragraph continues\] *HShMIM Ha-Shamayim, is equivalent to*) ASh
-VMIM, <span id="fr_124"></span>[1](#fn_123) *Ash Ve-Mim*, fire and
+VMIM, <span id="fr_124"></span>[1](#fn_123.md) *Ash Ve-Mim*, fire and
 water, Mercy and judgment, in the antithesis of that (condition) wherein
 no Judgment is found at all.
 
 686\. We have learned that this nose (*of Microprosopus*) is
-short, <span id="fr_125"></span>[2](#fn_124) and when the smoke
+short, <span id="fr_125"></span>[2](#fn_124.md) and when the smoke
 commenceth to issue therefrom, it departeth thence swiftly, and judgment
 is exercised.
 
@@ -142,7 +142,7 @@ others ARK APIM, *Arikh Aphim*, Long of Nose.
 
 688\. And this is the Arcanum which we have learned: Between the two
 words, IHVH, IHVH, Tetragrammaton, Tetragrammaton, an accent is
-interpolated <span id="fr_126"></span>[3](#fn_125) (*whensoever these
+interpolated <span id="fr_126"></span>[3](#fn_125.md) (*whensoever these
 two are found in juxtaposition in Scripture*).
 
 689\. For wheresoever an y name is repeated twice over, a distinction is
@@ -171,7 +171,7 @@ over him was the Schechinah at rest.
 
 692\. Also, now at this time was perfected in the earth the holy tree,
 similar unto the Supernal One, in having twelve limitations and seventy
-branches, <span id="fr_127"></span>[1](#fn_126) which were not hitherto
+branches, <span id="fr_127"></span>[1](#fn_126.md) which were not hitherto
 completed; and therefore the latter denoteth that which is perfect, and
 the former that which is not as yet perfect; whence the accent falleth
 between them.
@@ -239,26 +239,26 @@ Which are all to be understood concerning Zauir Anpin, or Microprosopus.
 
 ### Footnotes
 
-<span id="fn_114"></span>[192:1](tku39.htm#fr_115) Right and left exist
+<span id="fn_114"></span>[192:1](tku39.htm#fr_115.md) Right and left exist
 in Microprosopus, while in Macroprosopus all is right. The latter is
 rather to be symbolised by a profile, as I have before remarked, than by
 a full face, as in the case of the former.
 
-<span id="fn_115"></span>[193:1](tku40.htm#fr_116) The ordinary English
+<span id="fn_115"></span>[193:1](tku40.htm#fr_116.md) The ordinary English
 version renders it "nostrils" and not "nose," but in the Hebrew the word
 is singular.
 
-<span id="fn_116"></span>[193:2](tku40.htm#fr_117) Isa. xlviii. 9 is
+<span id="fn_116"></span>[193:2](tku40.htm#fr_117.md) Isa. xlviii. 9 is
 translated in the ordinary English version: "For my name's sake will I
 defer mine anger;" but Parkhurst in his Hebrew and Chaldee Lexicon, art.
 ChTM, says the correct rendering is "for my name's sake will I lengthen
 my nose." Knorr de Rosenroth, in his Latin version of § 664, renders it
 by, "corrugatur," which is hardly correct.
 
-<span id="fn_117"></span>[193:3](tku40.htm#fr_118) The word AP, Ath,
+<span id="fn_117"></span>[193:3](tku40.htm#fr_118.md) The word AP, Ath,
 stands alike for the words "nose" and "anger."
 
-<span id="fn_118"></span>[193:4](tku40.htm#fr_119) if we carefully
+<span id="fn_118"></span>[193:4](tku40.htm#fr_119.md) if we carefully
 examine this obscure passage, I think we shall find that the number five
 is the key to unlock its symbolism; for five is the fifth Sephira,
 *Geburah*, GBVRH, Strength or Severity, which operates <span
@@ -270,31 +270,31 @@ are the fivefold form of RP, *Raph*, which = the idea of terror. and RP
 are extended Into five parts of Macroprosopus--viz., nose, mouth, arms,
 hands, fingers. And the number 5 = H.
 
-<span id="fn_119"></span>[194:1](tku40.htm#fr_120) See Introduction.
+<span id="fn_119"></span>[194:1](tku40.htm#fr_120.md) See Introduction.
 GBVR (the root being GBR) = 211= IAR, a flood. This is of course by
 Gematria.
 
-<span id="fn_120"></span>[194:2](tku40.htm#fr_121) This formidable
+<span id="fn_120"></span>[194:2](tku40.htm#fr_121.md) This formidable
 sounding arrangement is only our previous 1,400 considered on another
 plane of operation, in the material world.
 
-<span id="fn_121"></span>[194:3](tku40.htm#fr_122) This is 1,400 again
+<span id="fn_121"></span>[194:3](tku40.htm#fr_122.md) This is 1,400 again
 in its most material forms in Asiah; the number five at the end in
 simply the number of the Sephira of Severity added to the other.
 
-<span id="fn_122"></span>[195:1](tku40.htm#fr_123) See *ante*, § 388 of
+<span id="fn_122"></span>[195:1](tku40.htm#fr_123.md) See *ante*, § 388 of
 this book.
 
-<span id="fn_123"></span>[196:1](tku40.htm#fr_124) In the "Sepher
+<span id="fn_123"></span>[196:1](tku40.htm#fr_124.md) In the "Sepher
 Yetzirah," to which work I have already had occasion to refer more than
 once, the letter Sh is aid to symbolize fire, and therefore ShMIM may be
 said to be fire and water.
 
-<span id="fn_124"></span>[196:2](tku40.htm#fr_125) In contradistinction
+<span id="fn_124"></span>[196:2](tku40.htm#fr_125.md) In contradistinction
 to that of Macroprosopus, who is called also Arikh Aphim, Long of Nose,
 as well as Arikh Anpin, Vast of Countenance.
 
-<span id="fn_125"></span>[196:3](tku40.htm#fr_126) This accent is called
+<span id="fn_125"></span>[196:3](tku40.htm#fr_126.md) This accent is called
 *Psiq*, and in the grammar of Gesenius is classed as the twentieth
 accent, or the fifth of the third series known as the "lesser
 distinctives." It is represented by a vertical line placed between the
@@ -305,7 +305,7 @@ longsuffering and abundant in goodness and truth." It is worthy of note
 that the word here translated "long-suffering" is ARK APIM, *Arikh
 Aphim*, Long of Nose.
 
-<span id="fn_126"></span>[197:1](tku40.htm#fr_127) That is, the *Autz
+<span id="fn_126"></span>[197:1](tku40.htm#fr_127.md) That is, the *Autz
 Chaiim*, or tree of life, composed of the Sephiroth and the
 Schemhamphorasch, the former being ten and the latter seventy-two. The
 twelve limitations are the twelve sons of Jacob, and the seventy
@@ -313,4 +313,4 @@ branches the total number of the combined families.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIII: Concerning the Ears of Microprosopus](tku41)
+[Next: Chapter XXXIII: Concerning the Ears of Microprosopus](tku41.md)

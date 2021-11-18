@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch07) 
-[Next](branch09) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch07.md) 
+[Next](branch09.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -165,5 +165,5 @@ wound and is still far from his healing.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-IX](branch09)  
+IX](branch09.md)  
 </span>

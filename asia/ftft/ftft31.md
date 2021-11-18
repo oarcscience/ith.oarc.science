@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft30)  [Next](ftft32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft30)  [Next](ftft32.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_238">p. 238</span>
 
-<span id="img_23800"></span> ![The Wizard and his Pupil](img/23800.jpg)
+<span id="img_23800"></span> ![The Wizard and his Pupil](img/23800.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a woman who had a son. To whatever school she sent him, he
 always ran away. Perplexed, the mother asked the boy "Where shall I send
@@ -85,7 +85,7 @@ to him. The woman was called, and when the wizard was about
 
 |                                                             |
 |-------------------------------------------------------------|
-| ![He showed her that he had plenty of money](img/24000.jpg) |
+| ![He showed her that he had plenty of money](img/24000.jpg.md) |
 
 to hand her the money she explained that she could not give up the key.
 Then the wizard said he would not pay unless he received it. He showed
@@ -134,7 +134,7 @@ and was changed into millet pulp. Quickly the wizard transformed himself
 into a cock and ate
 
 <span id="img_24100"></span> ![He picked up the cock and wrang its
-neck](img/24100.jpg)
+neck](img/24100.jpg.md)
 
 <span id="page_242">p. 242</span>
 
@@ -154,4 +154,4 @@ everybody lived happily ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The Padishah of the Thirty Peris](ftft32)
+[Next: The Padishah of the Thirty Peris](ftft32.md)

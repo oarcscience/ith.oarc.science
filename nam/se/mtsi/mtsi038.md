@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi037)  [Next](mtsi039) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi037)  [Next](mtsi039.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ any blood.
 
 ------------------------------------------------------------------------
 
-[Next: 37. Why the Opossum Has No Hair On His Tail](mtsi039)
+[Next: 37. Why the Opossum Has No Hair On His Tail](mtsi039.md)

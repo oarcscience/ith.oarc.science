@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm04)  [Next](wsm06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm04)  [Next](wsm06.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ All this happened up by Lida.
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of People (Smith Valley, Nevada. Shoshoni)](wsm06)
+[Next: The Origin of People (Smith Valley, Nevada. Shoshoni)](wsm06.md)

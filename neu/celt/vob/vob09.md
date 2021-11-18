@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vob08)  [Next](vob10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vob08)  [Next](vob10.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Welshman, with a stone. \[15\]
 
 ------------------------------------------------------------------------
 
-[Next: VII. Irische Texte iii. page 8](vob10)
+[Next: VII. Irische Texte iii. page 8](vob10.md)

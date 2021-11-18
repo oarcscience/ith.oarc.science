@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac06)  [Next](sac08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac06)  [Next](sac08.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ February.</p></td>
 
 </div>
 
-It will have been gathered from [Fig. 7](sac06.htm#img_fig07) that the
+It will have been gathered from [Fig. 7](sac06.htm#img_fig07.md) that the
 temples or cromlechs erected to watch the first sunrise of the
 May-November-May year could also perform the same office for the
 August-February-August year; and in a
@@ -231,7 +231,7 @@ the pyramid worship can still be traced in the modern Egyptian
 <span id="page_30">p. 30</span>
 
 calendar. The proof that this was an exotic <span
-id="fr_2"></span>[1](#fn_2) is established, I think, by the fact that no
+id="fr_2"></span>[1](#fn_2.md) is established, I think, by the fact that no
 important agricultural operations occur at this period in Egypt, while
 in May we have the harvest, in August and November sowing, going on.
 
@@ -330,7 +330,7 @@ Palenque and Chichén-Itzá that the solstitial and
 
 farmers’ years’ worships were provided for there. How did these worships
 and associated temples with naos and sphinxes <span
-id="fr_3"></span>[1](#fn_3) get from Egypt to Yucatan? The more we know
+id="fr_3"></span>[1](#fn_3.md) get from Egypt to Yucatan? The more we know
 of ancient travel the more we are convinced that it was coastwise, that
 is, from one point of visible land to the next. Are the cults as old as
 differences in the coast-lines which would most easily explain their
@@ -340,14 +340,14 @@ wide distribution?
 
 ### Footnotes
 
-<span id="fn_2"></span>[30:1](sac07.htm#fr_2) In Babylonia the spring
+<span id="fn_2"></span>[30:1](sac07.htm#fr_2.md) In Babylonia the spring
 equinox was the critical time of the year because the Tigris and
 Euphrates then began to rise.
 
-<span id="fn_3"></span>[33:1](sac07.htm#fr_3) See *Dawn of Astronomy*,
-Plate facing [p. 182](sac21.htm#page_182), for the lines of sphinxes at
+<span id="fn_3"></span>[33:1](sac07.htm#fr_3.md) See *Dawn of Astronomy*,
+Plate facing [p. 182](sac21.htm#page_182.md), for the lines of sphinxes at
 Karnak.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Conditions and Traditions at Stonehenge](sac08)
+[Next: Chapter V. Conditions and Traditions at Stonehenge](sac08.md)

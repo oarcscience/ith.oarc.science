@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](mect47)  [Next](mect49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](mect47)  [Next](mect49.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Canterbury Tales and Other Works of Chaucer (Middle English)*, by
 Geoffery Chaucer, \[14th cent.\], at Intangible Textual Heritage
 
@@ -67,4 +67,4 @@ regnat Deus per omnia secula. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: The Book of the Duchess](mect49)
+[Next: The Book of the Duchess](mect49.md)

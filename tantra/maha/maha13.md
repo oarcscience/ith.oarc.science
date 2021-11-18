@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha12)  [Next](maha14) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha12)  [Next](maha14.md) 
 
 ------------------------------------------------------------------------
 
@@ -1229,6 +1229,6 @@ Devata."
 ------------------------------------------------------------------------
 
 [Next: Chapter 14 - The Consecration of Shiva-linga and Description of
-the Four Classes of Avadhutas](maha14)
+the Four Classes of Avadhutas](maha14.md)
 
   

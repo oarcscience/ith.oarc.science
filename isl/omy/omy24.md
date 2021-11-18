@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -24,326 +24,326 @@ Heritage
 
 ### INDEX.
 
-*’Abdallah ibn ’Abbás*, [39](omy15.htm#page_39)
+*’Abdallah ibn ’Abbás*, [39](omy15.htm#page_39.md)
 
-*’Abúdiyat*, [66](omy22.htm#page_66)
+*’Abúdiyat*, [66](omy22.htm#page_66.md)
 
-*Abu Hanífa*, [10](omy06.htm#page_10), n.
+*Abu Hanífa*, [10](omy06.htm#page_10.md), n.
 
-Agencies, [31](omy13.htm#page_31)
+Agencies, [31](omy13.htm#page_31.md)
 
-Agents, [31](omy13.htm#page_31)
+Agents, [31](omy13.htm#page_31.md)
 
-Ahl i wahdat, [5](omy05.htm#page_5)
+Ahl i wahdat, [5](omy05.htm#page_5.md)
 
-Ajrat, [57](omy20.htm#page_57)
+Ajrat, [57](omy20.htm#page_57.md)
 
-Alexander the Great, Mirror of, [12](omy07.htm#page_12)
+Alexander the Great, Mirror of, [12](omy07.htm#page_12.md)
 
-’Alí, [51](omy18.htm#page_51)
+’Alí, [51](omy18.htm#page_51.md)
 
-*Allah*, Name of, [29](omy12.htm#page_29)
+*Allah*, Name of, [29](omy12.htm#page_29.md)
 
-Al Sháfi’ [1](omy04.htm#page_1), [10](omy06.htm#page_10), n.
+Al Sháfi’ [1](omy04.htm#page_1), [10](omy06.htm#page_10.md), n.
 
-Apostle, [59](omy21.htm#page_59)
+Apostle, [59](omy21.htm#page_59.md)
 
-Aquinas, St Thomas, verse quoted, [2](omy04.htm#page_2)
+Aquinas, St Thomas, verse quoted, [2](omy04.htm#page_2.md)
 
-Arabic Language, Pre-existence of, [28](omy12.htm#page_28)
+Arabic Language, Pre-existence of, [28](omy12.htm#page_28.md)
 
-*Ar Rahmán*, [29](omy12.htm#page_29)
+*Ar Rahmán*, [29](omy12.htm#page_29.md)
 
-Ascent, [65](omy22.htm#page_65)
+Ascent, [65](omy22.htm#page_65.md)
 
-Attraction, [19](omy09.htm#page_19)
+Attraction, [19](omy09.htm#page_19.md)
 
-*’Awárif al Ma’árif*, [20](omy09.htm#page_20)
-
- 
-
-Babis, sect of the, [44](omy16.htm#page_44)
-
-*Bayán*, [30](omy13.htm#page_30)
-
-Báyazíd Bístámí, [23](omy11.htm#page_23)
-
-Believer, [58](omy20.htm#page_58)
+*’Awárif al Ma’árif*, [20](omy09.htm#page_20.md)
 
  
 
-Chaos, [36](omy14.htm#page_36), n.
+Babis, sect of the, [44](omy16.htm#page_44.md)
 
-Christian Scriptures, Mohammedan beliefs about, [30](omy13.htm#page_30),
+*Bayán*, [30](omy13.htm#page_30.md)
+
+Báyazíd Bístámí, [23](omy11.htm#page_23.md)
+
+Believer, [58](omy20.htm#page_58.md)
+
+ 
+
+Chaos, [36](omy14.htm#page_36.md), n.
+
+Christian Scriptures, Mohammedan beliefs about, [30](omy13.htm#page_30.md),
 n.
 
-Christian Scriptures, quoted, [30](omy13.htm#page_30), n.
+Christian Scriptures, quoted, [30](omy13.htm#page_30.md), n.
 
-Counsel, [21](omy09.htm#page_21)
+Counsel, [21](omy09.htm#page_21.md)
 
-Corán, Pre-existence of, [28](omy12.htm#page_28)
+Corán, Pre-existence of, [28](omy12.htm#page_28.md)
 
-„ quoted, [4](omy05.htm#page_4), [5](omy05.htm#page_5),
-[6](omy05.htm#page_6), [8](omy06.htm#page_8), [9](omy06.htm#page_9),
-[12](omy07.htm#page_12), [54](omy19.htm#page_54),
-[15](omy08.htm#page_15), [23](omy11.htm#page_23),
-[24](omy11.htm#page_24), [26](omy11.htm#page_26),
-[27](omy11.htm#page_27), [29](omy12.htm#page_29),
-[30](omy13.htm#page_30), [33](omy13.htm#page_33),
-[34](omy14.htm#page_34), [35](omy14.htm#page_35),
-[36](omy14.htm#page_36), [37](omy14.htm#page_37),
-[38](omy14.htm#page_38), [39](omy15.htm#page_39),
-[44](omy16.htm#page_44), [51](omy18.htm#page_51),
-[55](omy19.htm#page_55), [56](omy20.htm#page_56),
-[63](omy21.htm#page_63), [64](omy21.htm#page_64)
+„ quoted, [4](omy05.htm#page_4), [5](omy05.htm#page_5.md),
+[6](omy05.htm#page_6), [8](omy06.htm#page_8), [9](omy06.htm#page_9.md),
+[12](omy07.htm#page_12), [54](omy19.htm#page_54.md),
+[15](omy08.htm#page_15), [23](omy11.htm#page_23.md),
+[24](omy11.htm#page_24), [26](omy11.htm#page_26.md),
+[27](omy11.htm#page_27), [29](omy12.htm#page_29.md),
+[30](omy13.htm#page_30), [33](omy13.htm#page_33.md),
+[34](omy14.htm#page_34), [35](omy14.htm#page_35.md),
+[36](omy14.htm#page_36), [37](omy14.htm#page_37.md),
+[38](omy14.htm#page_38), [39](omy15.htm#page_39.md),
+[44](omy16.htm#page_44), [51](omy18.htm#page_51.md),
+[55](omy19.htm#page_55), [56](omy20.htm#page_56.md),
+[63](omy21.htm#page_63), [64](omy21.htm#page_64.md)
 
-Cosmogony, Table of Mohammedan, [32](omy13.htm#page_32), n.
-
- 
-
-David, [5](omy05.htm#page_5), [39](omy15.htm#page_39)
-
-Descent, [65](omy22.htm#page_65)
-
-De Tassy, M. Garcin, [2](omy04.htm#page_2)
-
-Devils, [32](omy13.htm#page_32)
-
-Devotion, [19](omy09.htm#page_19)
-
-Doctrine, [7](omy05.htm#page_7)
-
-„ Marks and Practice of the Followers of, [9](omy06.htm#page_9)
+Cosmogony, Table of Mohammedan, [32](omy13.htm#page_32.md), n.
 
  
 
-Element, the Primal, [33](omy13.htm#page_33)
+David, [5](omy05.htm#page_5), [39](omy15.htm#page_39.md)
 
-„ Idea of, how originated, [35](omy14.htm#page_35) n.
+Descent, [65](omy22.htm#page_65.md)
 
-Emanations, [31](omy13.htm#page_31)
+De Tassy, M. Garcin, [2](omy04.htm#page_2.md)
 
-Eternity, [24](omy11.htm#page_24), [40](omy15.htm#page_40)
+Devils, [32](omy13.htm#page_32.md)
+
+Devotion, [19](omy09.htm#page_19.md)
+
+Doctrine, [7](omy05.htm#page_7.md)
+
+„ Marks and Practice of the Followers of, [9](omy06.htm#page_9.md)
 
  
 
-Faculties, the, [54](omy19.htm#page_54)
+Element, the Primal, [33](omy13.htm#page_33.md)
 
-Faith, Confession of, [17](omy08.htm#page_17)
+„ Idea of, how originated, [35](omy14.htm#page_35.md) n.
 
-*Faná*, [67](omy22.htm#page_67)
+Emanations, [31](omy13.htm#page_31.md)
+
+Eternity, [24](omy11.htm#page_24), [40](omy15.htm#page_40.md)
+
+ 
+
+Faculties, the, [54](omy19.htm#page_54.md)
+
+Faith, Confession of, [17](omy08.htm#page_17.md)
+
+*Faná*, [67](omy22.htm#page_67.md)
 
 <span id="page_83">p. 83</span>
 
-Fellowship, [14](omy07.htm#page_14)
+Fellowship, [14](omy07.htm#page_14.md)
 
-„ Rules to be observed in, [15](omy08.htm#page_15)
+„ Rules to be observed in, [15](omy08.htm#page_15.md)
 
-Firdausi Sháh-Náma quoted, [47](omy17.htm#page_47)
+Firdausi Sháh-Náma quoted, [47](omy17.htm#page_47.md)
 
-„ Satire of, [48](omy17.htm#page_48) n.
+„ Satire of, [48](omy17.htm#page_48.md) n.
 
-Fishes, Parable of the, [48](omy17.htm#page_48)
+Fishes, Parable of the, [48](omy17.htm#page_48.md)
 
-Fourfold Mothers, the, [36](omy14.htm#page_36), n.
+Fourfold Mothers, the, [36](omy14.htm#page_36.md), n.
 
-*Fusús el Hikam*, [55](omy19.htm#page_55)
-
- 
-
-Gabriel, the Holy Spirit, [31](omy13.htm#page_31)
-
-Genii, [32](omy13.htm#page_32)
-
-Goal, the, [4](omy05.htm#page_4)
+*Fusús el Hikam*, [55](omy19.htm#page_55.md)
 
  
 
-Hadís quoted, [5](omy05.htm#page_5), [7](omy05.htm#page_7),
-[13](omy07.htm#page_13), [18](omy08.htm#page_18),
-[31](omy13.htm#page_31), [43](omy16.htm#page_43),
-[57](omy20.htm#page_57)
+Gabriel, the Holy Spirit, [31](omy13.htm#page_31.md)
 
-Háfiz, [1](omy04.htm#page_1), [26](omy11.htm#page_26)
+Genii, [32](omy13.htm#page_32.md)
 
-„ Interpretation of, [67](omy22.htm#page_67)
-
-Hajji Khalfa, [20](omy09.htm#page_20), [27](omy11.htm#page_27)
-
-*Hakíkat*, [66](omy22.htm#page_66)
-
-*Hál*, [66](omy22.htm#page_66)
-
-Hanefite, [10](omy06.htm#page_10)
-
-Humanity, Spirit of, [55](omy19.htm#page_55)
+Goal, the, [4](omy05.htm#page_4.md)
 
  
 
-Iblís, [32](omy13.htm#page_32)
+Hadís quoted, [5](omy05.htm#page_5), [7](omy05.htm#page_7.md),
+[13](omy07.htm#page_13), [18](omy08.htm#page_18.md),
+[31](omy13.htm#page_31), [43](omy16.htm#page_43.md),
+[57](omy20.htm#page_57.md)
 
-Inclination, [19](omy09.htm#page_19)
+Háfiz, [1](omy04.htm#page_1), [26](omy11.htm#page_26.md)
 
-Intelligence, Primal, [35](omy14.htm#page_35)
+„ Interpretation of, [67](omy22.htm#page_67.md)
 
-*’Ishk*, [66](omy22.htm#page_66)
+Hajji Khalfa, [20](omy09.htm#page_20), [27](omy11.htm#page_27.md)
 
- 
+*Hakíkat*, [66](omy22.htm#page_66.md)
 
-*Jam’*, [67](omy22.htm#page_67)
+*Hál*, [66](omy22.htm#page_66.md)
 
-Jemshid, Cup of, [11](omy06.htm#page_11)
+Hanefite, [10](omy06.htm#page_10.md)
 
-*Káf* and *Nún*, Lord of, [28](omy12.htm#page_28)
-
-*Karr*, [30](omy13.htm#page_30)
-
-Kazem-Beg, Mirza, [44](omy16.htm#page_44)
-
-Khizar, [12](omy07.htm#page_12)
-
-"Know Thyself," [50](omy18.htm#page_50)
-
-*Kursí*, [32](omy13.htm#page_32), n.
+Humanity, Spirit of, [55](omy19.htm#page_55.md)
 
  
 
-Law, [7](omy05.htm#page_7)
+Iblís, [32](omy13.htm#page_32.md)
 
-Life, Elixir of, [63](omy21.htm#page_63)
+Inclination, [19](omy09.htm#page_19.md)
 
-Love, [19](omy09.htm#page_19)
+Intelligence, Primal, [35](omy14.htm#page_35.md)
 
- 
-
-*Maláïk Muhaymeh*, [31](omy13.htm#page_31)
-
-*Ma’rifat*, [66](omy22.htm#page_66)
-
-Mehdí, Last of the Imams, [44](omy16.htm#page_44)
-
-Muhiy-uddín ibn al Arabí, Sheikh, [55](omy19.htm#page_55)
-
-*Muríd*, [20](omy09.htm#page_20), n., [65](omy22.htm#page_65)
+*’Ishk*, [66](omy22.htm#page_66.md)
 
  
 
-"Pen, The," [34](omy14.htm#page_34)
+*Jam’*, [67](omy22.htm#page_67.md)
 
-Perfect Man, definition of the, [11](omy06.htm#page_11)
+Jemshid, Cup of, [11](omy06.htm#page_11.md)
 
-Perfectly Free Man, the, [13](omy07.htm#page_13)
+*Káf* and *Nún*, Lord of, [28](omy12.htm#page_28.md)
 
-Power, Night of, [36](omy14.htm#page_36)
+*Karr*, [30](omy13.htm#page_30.md)
 
-Powers, [32](omy13.htm#page_32)
+Kazem-Beg, Mirza, [44](omy16.htm#page_44.md)
 
-Prophet, [59](omy21.htm#page_59)
+Khizar, [12](omy07.htm#page_12.md)
 
-Prophetic Office defined, [43](omy16.htm#page_43)
+"Know Thyself," [50](omy18.htm#page_50.md)
 
-Proximity, [23](omy11.htm#page_23)
-
-Psalms, quoted, [34](omy14.htm#page_34)
+*Kursí*, [32](omy13.htm#page_32.md), n.
 
  
 
-Recluse, [59](omy21.htm#page_59)
+Law, [7](omy05.htm#page_7.md)
 
-Renunciation, [16](omy08.htm#page_16)
+Life, Elixir of, [63](omy21.htm#page_63.md)
 
-Road, The, [5](omy05.htm#page_5), [65](omy22.htm#page_65)
+Love, [19](omy09.htm#page_19.md)
 
  
 
-Sa’ad-ud-dín Hamawí, Sheikh, [27](omy11.htm#page_27),
-[43](omy16.htm#page_43)
+*Maláïk Muhaymeh*, [31](omy13.htm#page_31.md)
 
-Sa’adi, Quotation from Bústán of, [30](omy13.htm#page_30), n.
+*Ma’rifat*, [66](omy22.htm#page_66.md)
 
-Sadr-ud-dín Rúmí, Sheikh, [27](omy11.htm#page_27)
+Mehdí, Last of the Imams, [44](omy16.htm#page_44.md)
 
-Sáhibu ’zzemán, [44](omy16.htm#page_44)
+Muhiy-uddín ibn al Arabí, Sheikh, [55](omy19.htm#page_55.md)
 
-Saint, [59](omy21.htm#page_59)
+*Muríd*, [20](omy09.htm#page_20), n., [65](omy22.htm#page_65.md)
 
-Saintly Office defined, [43](omy16.htm#page_43)
+ 
 
-Saladin, [10](omy06.htm#page_10)
+"Pen, The," [34](omy14.htm#page_34.md)
 
-Sale's Corán, Preliminary Discourse to, [5](omy05.htm#page_5)
+Perfect Man, definition of the, [11](omy06.htm#page_11.md)
 
-„ Translation of, [26](omy11.htm#page_26), [33](omy13.htm#page_33),
-[52](omy19.htm#page_52)
+Perfectly Free Man, the, [13](omy07.htm#page_13.md)
 
-*Sálik*, [65](omy22.htm#page_65)
+Power, Night of, [36](omy14.htm#page_36.md)
 
-Seal, the, [59](omy21.htm#page_59)
+Powers, [32](omy13.htm#page_32.md)
 
-Senses, The, [53](omy19.htm#page_53)
+Prophet, [59](omy21.htm#page_59.md)
 
-Sevenfold Sires, The, [36](omy14.htm#page_36), n.
+Prophetic Office defined, [43](omy16.htm#page_43.md)
+
+Proximity, [23](omy11.htm#page_23.md)
+
+Psalms, quoted, [34](omy14.htm#page_34.md)
+
+ 
+
+Recluse, [59](omy21.htm#page_59.md)
+
+Renunciation, [16](omy08.htm#page_16.md)
+
+Road, The, [5](omy05.htm#page_5), [65](omy22.htm#page_65.md)
+
+ 
+
+Sa’ad-ud-dín Hamawí, Sheikh, [27](omy11.htm#page_27.md),
+[43](omy16.htm#page_43.md)
+
+Sa’adi, Quotation from Bústán of, [30](omy13.htm#page_30.md), n.
+
+Sadr-ud-dín Rúmí, Sheikh, [27](omy11.htm#page_27.md)
+
+Sáhibu ’zzemán, [44](omy16.htm#page_44.md)
+
+Saint, [59](omy21.htm#page_59.md)
+
+Saintly Office defined, [43](omy16.htm#page_43.md)
+
+Saladin, [10](omy06.htm#page_10.md)
+
+Sale's Corán, Preliminary Discourse to, [5](omy05.htm#page_5.md)
+
+„ Translation of, [26](omy11.htm#page_26), [33](omy13.htm#page_33.md),
+[52](omy19.htm#page_52.md)
+
+*Sálik*, [65](omy22.htm#page_65.md)
+
+Seal, the, [59](omy21.htm#page_59.md)
+
+Senses, The, [53](omy19.htm#page_53.md)
+
+Sevenfold Sires, The, [36](omy14.htm#page_36.md), n.
 
 <span id="page_84">p. 84</span>
 
-Shafiite, [10](omy06.htm#page_10)
+Shafiite, [10](omy06.htm#page_10.md)
 
-Sheháb-uddín, Sheikh, [20](omy09.htm#page_20)
+Sheháb-uddín, Sheikh, [20](omy09.htm#page_20.md)
 
-*Sirát al Mustakím*, [51](omy18.htm#page_51)
+*Sirát al Mustakím*, [51](omy18.htm#page_51.md)
 
-Solomon, [12](omy07.htm#page_12)
+Solomon, [12](omy07.htm#page_12.md)
 
-Soul, Destination of the, [59](omy21.htm#page_59)
+Soul, Destination of the, [59](omy21.htm#page_59.md)
 
-Sources, The Four Universal, [38](omy14.htm#page_38)
+Sources, The Four Universal, [38](omy14.htm#page_38.md)
 
-Spheres, The, [35](omy14.htm#page_35)
+Spheres, The, [35](omy14.htm#page_35.md)
 
-Spirit, Concomitant, [58](omy20.htm#page_58)
+Spirit, Concomitant, [58](omy20.htm#page_58.md)
 
-„ Constructive, [51](omy18.htm#page_51)
+„ Constructive, [51](omy18.htm#page_51.md)
 
-„ Instinctive, [63](omy21.htm#page_63)
+„ Instinctive, [63](omy21.htm#page_63.md)
 
-Stages, The, [5](omy05.htm#page_5), [65](omy22.htm#page_65)
+Stages, The, [5](omy05.htm#page_5), [65](omy22.htm#page_65.md)
 
-Sulúk, [65](omy22.htm#page_65)
+Sulúk, [65](omy22.htm#page_65.md)
 
  
 
-*Tálib*, [65](omy22.htm#page_65)
+*Tálib*, [65](omy22.htm#page_65.md)
 
-*Taríkat*, [65](omy22.htm#page_65)
+*Taríkat*, [65](omy22.htm#page_65.md)
 
-Tennyson's "In Memoriam," [61](omy21.htm#page_61)
+Tennyson's "In Memoriam," [61](omy21.htm#page_61.md)
 
-Threefold Offspring, [35](omy14.htm#page_35)
+Threefold Offspring, [35](omy14.htm#page_35.md)
 
-Traveller, Definition of the, [4](omy05.htm#page_4)
+Traveller, Definition of the, [4](omy05.htm#page_4.md)
 
-Truth, [7](omy05.htm#page_7)
+Truth, [7](omy05.htm#page_7.md)
 
-„ Marks and Practice of the Followers of, [10](omy06.htm#page_10)
+„ Marks and Practice of the Followers of, [10](omy06.htm#page_10.md)
 
  
 
 Unitarian. See Preface.
 
-Universe, Treasuries of the, [37](omy14.htm#page_37)
+Universe, Treasuries of the, [37](omy14.htm#page_37.md)
 
-Upward Progress, The, [52](omy19.htm#page_52)
+Upward Progress, The, [52](omy19.htm#page_52.md)
 
-„ „ of Man, [58](omy20.htm#page_58)
-
- 
-
-*Wasl*, [67](omy22.htm#page_67)
-
-*Wejd*, [66](omy22.htm#page_66)
-
-Worshipper, [68](omy23.htm#page_68)
+„ „ of Man, [58](omy20.htm#page_58.md)
 
  
 
-*Zuhd*, [66](omy22.htm#page_66)
+*Wasl*, [67](omy22.htm#page_67.md)
+
+*Wejd*, [66](omy22.htm#page_66.md)
+
+Worshipper, [68](omy23.htm#page_68.md)
+
+ 
+
+*Zuhd*, [66](omy22.htm#page_66.md)

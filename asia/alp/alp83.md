@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp82) 
-[Next](alp84) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp82.md) 
+[Next](alp84.md) 
 
 ------------------------------------------------------------------------
 
@@ -226,7 +226,7 @@ ancient books have been re-edited, we see
 <span id="page_151">p. 151</span>
 
 how easily the work before us may have been touched up by a later hand
-in the seventh century. <span id="fr_36"></span>[1](alp84.htm#fn_36)
+in the seventh century. <span id="fr_36"></span>[1](alp84.htm#fn_36.md)
 
 In concluding this account of Moses of Khorene, we must acknowledge that
 he has not only rendered much service to Armenian history, but that his
@@ -235,4 +235,4 @@ known, would take a high place among the masterpieces of the world.
 
 ------------------------------------------------------------------------
 
-[Next: Adoption of Christianity](alp84)
+[Next: Adoption of Christianity](alp84.md)

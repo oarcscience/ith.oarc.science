@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](itp02)  [Next](itp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](itp02)  [Next](itp04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ civilisations.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. As Prophet or Priest](itp04)
+[Next: Chapter I. As Prophet or Priest](itp04.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits031) [Next](bits033)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits031) [Next](bits033.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ that is indifferent sensation."
 
 ------------------------------------------------------------------------
 
-[Next: § 33. Desire](bits033)
+[Next: § 33. Desire](bits033.md)
 
  
 

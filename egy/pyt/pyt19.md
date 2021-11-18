@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt18)  [Next](pyt20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt18)  [Next](pyt20.md) 
 
 ------------------------------------------------------------------------
 
@@ -832,4 +832,4 @@ his forms from his enemies,
 
 ------------------------------------------------------------------------
 
-[Next: 17. Conjurations and Charms, Utterances 375-400](pyt20)
+[Next: 17. Conjurations and Charms, Utterances 375-400](pyt20.md)

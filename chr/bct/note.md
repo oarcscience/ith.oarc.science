@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ and some of it Mesopotamian. According to Budge--
 > trace the descent of Christ back to Adam, and to show that the
 > Christian Dispensation was foreshadowed in the history of the
 > Patriarchs and their successors the kings of Israel and Judah by means
-> of types and symbols. (Introduction, [pp. 33-34](bct03.htm#page_33))
+> of types and symbols. (Introduction, [pp. 33-34](bct03.htm#page_33).md)
 
 **Transcription standards and notes**: Underlines represent breve
 (short) markings over vowels, and dots under consonants, \` and ´
@@ -34,4 +34,4 @@ the transcriptions of names from the Syriac have been standardized.
 
 ------------------------------------------------------------------------
 
-[Return to Index](index)
+[Return to Index](index.md)

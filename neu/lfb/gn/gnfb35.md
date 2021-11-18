@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb34)  [Next](gnfb36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb34)  [Next](gnfb36.md) 
 
 </div>
 
@@ -142,6 +142,6 @@ Grimm.
 
 ------------------------------------------------------------------------
 
-[Next: Jack My Hedgehog](gnfb36)
+[Next: Jack My Hedgehog](gnfb36.md)
 
 </div>

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](xft06)  [Next](xft08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](xft06)  [Next](xft08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kaffir (Xhosa) Folk-Lore*, by George McCall Theal, \[1886\], at
 Intangible Textual Heritage
 
@@ -281,6 +281,6 @@ took her home to her husband.
 
 ------------------------------------------------------------------------
 
-[Next: Story Of The Girl Who Disregarded The Custom Of Ntonjane](xft08)
+[Next: Story Of The Girl Who Disregarded The Custom Of Ntonjane](xft08.md)
 
 </div>

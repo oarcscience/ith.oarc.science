@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](fol55)  [Next](fol57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](fol55)  [Next](fol57.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Feast of Lanterns*, by L. Cranmer-Byng, \[1916\], at Intangible
 Textual Heritage
 
@@ -47,4 +47,4 @@ But the monks' low droning echoed in the green gloom far and wide.
 
 ------------------------------------------------------------------------
 
-[Next: Night, Sorrow, and Song](fol57)
+[Next: Night, Sorrow, and Song](fol57.md)

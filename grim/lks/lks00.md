@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Next](lks01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Next](lks01.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ redactor.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](lks01)
+[Next: Preface](lks01.md)

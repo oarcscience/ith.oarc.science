@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw23)  [Next](sahw25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw23)  [Next](sahw25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -65,13 +65,13 @@ kept by other Jōdo Sects, is not kept officially by the Shinshu. No more
 are the Festivals in honour of S’akyamuni's Enlightenment and His
 Nirvana. Yakushi, the "master of medicines," who healed sickness, and
 had twelve Apostles, is not mentioned in Shinshu Theology. <span
-id="fr_115"></span>[\*](#fn_115)
+id="fr_115"></span>[\*](#fn_115.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_115"></span>[148:\*](sahw24.htm#fr_115) While the Eastern
+<span id="fn_115"></span>[148:\*](sahw24.htm#fr_115.md) While the Eastern
 Hongwanji has adopted the new calendar in its table of Fasts and
 Festivals, the Western Hongwanji retains the old lunar reckoning. Thus
 the commemoration of Shinran Shonin falls in one case in our November,
@@ -80,4 +80,4 @@ anniversary of Shinran, and the 700th of that of Honen's death.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII. Fasting.](sahw25)
+[Next: Chapter XXIII. Fasting.](sahw25.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb10)  [Next](gnfb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb10)  [Next](gnfb12.md) 
 
 </div>
 
@@ -521,6 +521,6 @@ Le Prince Muguet et la Princesse Zaza.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Little Pigs](gnfb12)
+[Next: The Three Little Pigs](gnfb12.md)
 
 </div>

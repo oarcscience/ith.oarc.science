@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -288,10 +288,10 @@ destruction" = *loka* from luñc; like the grammatical term *luk*?). This
 world is of two kinds: the world of the living, and the world of the
 lifeless (Dharmas. 89). The world of the living he knows according to
 the conditions of the twelvefold chain of causation ([v. 109
-ff.](#pp_109)); of the world of the lifeless: Earth, mountains, etc., he
+ff.](#pp_109).md); of the world of the lifeless: Earth, mountains, etc., he
 knows origin, conditions, place, etc. . . . "Teacher of gods and men"
 (is said), because these two are the highest (degrees of animate beings)
-or because they are vessels of the Noble Path ([v. 113](#pp_113)). . . .
+or because they are vessels of the Noble Path ([v. 113](#pp_113).md). . . .
 *Buddha* (*Sa"ns-rgyas*, "Wide awake") he is called, because he has a
 wide (comprehensive) mind, and therefore is like an opened (*rgyas*)
 lotus, and because he, waked from the sleep of ignorance, is like a man
@@ -318,12 +318,12 @@ frivolous talk, covetousness, malice, and must adhere to the right
 doctrine (cf. Dharmas. 56; also "Der Weise und der Thor," p. 13, 9 ff.,
 transl. p. 15 f.). Of these, three concern the body; four, speech; and
 three, the thoughts. Cf. M. Müller's Note to his translation of the
-Dhammapada (Sacred Books X.) [v. 96](../../bud/sbe10/sbe1009.htm#pp_96);
+Dhammapada (Sacred Books X.) [v. 96](../../bud/sbe10/sbe1009.htm#pp_96.md);
 also in Böhtlingk's Ind. Spr., the verse beginning kâyena kurute and
 1559 f.; Udânav. vii. 1 ff.) "Though the drinking of intoxicating
 liquors (*cha"n*) is a grave fault, it is not (to be reckoned) as a sin,
 and therefore is treated separately. There are three kinds of *cha"n*:
-from sugar-cane, from rice-meal, and from honey" (cf. [v. 33](#pp_33)).
+from sugar-cane, from rice-meal, and from honey" (cf. [v. 33](#pp_33).md).
 
    <span id="pp_6">6</span>. Knowing that riches are unstable and void
 (prop. "heartless"--*asâra*), give (of them) according to the moral
@@ -441,7 +441,7 @@ that go from darkness to light; of these do thou the first!
    <span class="small">By light is meant a happy rebirth (as god or man
 of high position); by darkness--an unhappy one (as an inhabitant of
 hell, animal, Preta, or man of low position): thus comm. (Cf. Mahâvastu,
-27, 28, and [v. 15](#pp_15) of this letter.)</span>
+27, 28, and [v. 15](#pp_15) of this letter..md)</span>
 
    <span id="pp_20">20</span>. Understand that men are like Âmra-fruits,
 some that are unripe look as if they were ripe, some ripe ones look
@@ -453,7 +453,7 @@ you see her, regard her, according to (her) age, like (your) mother,
 daughter, or sister; if you love (her?) then think purely even on the
 unclean (things).
 
-   *Comm*. points to [v. 25](#pp_25). (Cf. Divyâvadâna, 115, 5 f.)
+   *Comm*. points to [v. 25](#pp_25). (Cf. Divyâvadâna, 115, 5 f..md)
 
    <span id="pp_22">22</span>. Guard the fickle mind like (your) fame,
 like a son, like a treasure, like (your) life; and be afflicted or
@@ -463,7 +463,7 @@ poison (*dug*), a knife, and fire.
    *Comm*. The objects of the senses are hurtful (malicious) like a
 *snake*, because they do us and others harm; they kill like *poison*,
 because they destroy the virtuous works; they hurt like a *sword*,
-because they lead to the bad rebirths (cf. [v. 19](#pp_19)); they burn
+because they lead to the bad rebirths (cf. [v. 19](#pp_19).md); they burn
 like *fire*, because they produce remorse.
 
    <span id="pp_23">23</span>. Because the desires beget destruction,
@@ -494,7 +494,7 @@ ornaments view from (this) one side.
    <span id="pp_26">26</span>. As a leprous (man), infested by worms,
 even if he, to mitigate (his pain), keeps near the fire, will not find
 any rest, so know it to be also with those who are affected by desires.
-(Cf. [v. 22](#pp_22). Böhtl., Spr. 3272.)
+(Cf. [v. 22](#pp_22). Böhtl., Spr. 3272..md)
 
    <span id="pp_27">27</span>. In order to attain the highest aim
 (*paramârtha*), take these things to heart and meditate thereon; there
@@ -541,7 +541,7 @@ common and useless.
 and a *Bhikshu.nî*, a *Dge-slob*, a *Çranma.na* (*dge-sbyo.n*) and a
 *Çrama.nâ*, a *Çrama.nera* and a woman of that degree, and an *Upâsaka*
 (*bsñen-gnas*). "Shame" is the aversion to faults regarding one's-self,
-"carefulness" the same regarding others. (Cf. [v. 12](#pp_12). Udânav.
+"carefulness" the same regarding others. (Cf. [v. 12](#pp_12.md). Udânav.
 x. 1 ff.)
 
    <span id="pp_33">33</span>. Betting, looking out for crowds (as for
@@ -552,7 +552,7 @@ as the prevarications (*"nan-so"n = durgati?*), avoid.
    *Comm*. . . . "Wine" (*cha"n*) either is fabricated (*bcos-pa*) or
 only gathered (*sbyar-va*) *i.e.* pressed out of flowers (cf. *madhu* in
 the Pet. Wört., chiefly R. 5,60,9, quoted there, to which Böhtlingk
-calls my attention), etc. (Cf. [v. 5](#pp_5).)
+calls my attention), etc. (Cf. [v. 5](#pp_5)..md)
 
    <span id="pp_34">34</span>. The teacher of gods and men has
 pronounced that of all possessions contentedness is the best by far;
@@ -697,7 +697,7 @@ quietude constantly meditate.<sup><span class="small">\[1\]</span></sup>
 Then follows a lengthy explanation why the Aggregates do not arise from
 these different causes. But, "like seed, covered with dung and watered,
 buds up, so, covered with ignorance and watered by desire, existence
-(*bhava*) arises." (Cf. [v. 110 f.](#pp_110))
+(*bhava*) arises." (Cf. [v. 110 f.](#pp_110).md)
 
    <span id="pp_51">51</span>. Know that attachment to religious
 ceremonies (*çîlavrataparâmarça*), wrong views (*mithyad.rsh.ti*), and
@@ -719,7 +719,7 @@ companion, but, observing the holy doctrine (*çrutam*), morality
 "Manual of Hindu Pantheism," p. 48).\]
 
 <span id="page_17">p. 17</span> (*çîla*), and contemplation (*dhyâna*),
-apply yourself to the fourfold truth. (Cf. [v. 30](#pp_30).)
+apply yourself to the fourfold truth. (Cf. [v. 30](#pp_30)..md)
 
    <span id="pp_53">53</span>. Steadily instruct yourself (more and
 more) in the highest morality, the highest wisdom, and the highest
@@ -836,10 +836,10 @@ of death, illness, age, and many other pains, only hear a part of those
 evils.
 
    *Comm*. The evils of the orb are sevenfold: Uncertainty ([v.
-66](#pp_66)), Insatiability ([67](#pp_67)), Waste of bodies
-([68](#pp_68)), Continuous Conception ([68](#pp_68)), Continual Change
-between high and low position ([69 ff.](#pp_69)), Want of a companion
-([75](#pp_75)), and the six states of birth ([77 ff.](#pp_77)).
+66](#pp_66)), Insatiability ([67](#pp_67).md), Waste of bodies
+([68](#pp_68)), Continuous Conception ([68](#pp_68).md), Continual Change
+between high and low position ([69 ff.](#pp_69).md), Want of a companion
+([75](#pp_75)), and the six states of birth ([77 ff.](#pp_77).md).
 
    <span id="pp_66">66</span>. Since there is a (constant) change
 between (the conditions of) father and son, mother and wife, friend and
@@ -875,7 +875,7 @@ intolerable pains of grinding, cutting, and lacerating.
 
    *Comm*. The pain of grinding is to be endured in the hell
 *Sa.mghâta*, cutting in *Kâlasûtra*, and lacerating in *Tâpana* and
-*Pratâpana*. (S. [v. 77, 78](#pp_77).)
+*Pratâpana*. (S. [v. 77, 78](#pp_77)..md)
 
    <span id="pp_71">71</span>. After having dwelt for a long time on the
 summit of Meru, enjoying the pleasure of a ground that sinks and rises
@@ -914,7 +914,7 @@ world, again you will come into the utter darkness, where you will not
 even see your arm, if you stretch it out.
 
    *Comm*. The "utter darkness" is in the intermediate space of the
-worlds (*Lokântarika*). (Cf. the Comm. on [v. 50](#pp_50) about
+worlds (*Lokântarika*). (Cf. the Comm. on [v. 50](#pp_50.md) about
 *Îçvara*.)
 
    <span id="pp_76">76</span>. Since then you must die in this manner
@@ -923,9 +923,9 @@ give you light, for alone you must enter this endless darkness, which is
 untouched by sun and moon.
 
    *Comm*. The three kinds of merits (meritorious actions) are: those of
-body, speech, and thought ([v. 5](#pp_5)), or else: those arising from
+body, speech, and thought ([v. 5](#pp_5).md), or else: those arising from
 liberality, morality, and meditation (*i.e.*, the three *Çikshâ's*, [v.
-53](#pp_53)).
+53](#pp_53).md).
 
    <span id="pp_77">77</span>. Those living beings that have committed
 sinful actions, will have to endure continuous pain in the hells
@@ -1011,7 +1011,7 @@ fire.
 the hot fluid of melted bronze, and some are fixed on iron stakes,
 red-hot and pointed.
 
-   *Comm*. On the bank of the river Vaitara.nî (s.v. [73](#pp_73)) they
+   *Comm*. On the bank of the river Vaitara.nî (s.v. [73](#pp_73).md) they
 <span id="page_24">p. 24</span> have opened their mouth with hot
 pincers, and made to drink metal that, by a violent fire, has lost its
 consistency, and may be drawn out (*sra-va-las thal-te nal-nal-po ñid-du
@@ -1021,7 +1021,7 @@ gyur-pa*). The stakes are to be found in *Tâpana*.
 fangs, raise their hands to the sky (wailing, Comm.); others are seized
 by hawks with sharp iron bills, and ugly claws.
 
-   *Comm*. The dogs are in the wood with sword-leaves ([v. 72](#pp_72)),
+   *Comm*. The dogs are in the wood with sword-leaves ([v. 72](#pp_72).md),
 the hawks in the *Çalmali*-wood (cf. Pet. Wört. s.v.).
 
    <span id="pp_81">81</span>. Some bitten by different kinds of worms
@@ -1086,8 +1086,8 @@ another without pity.
 
    *Comm*. explains *zhi*(*-var*) *hgyur*(*-va*), what I translate
 "pacifying," by: *"nes-par hbyed-pai cha-da"n mthun-pa*, the same words
-that explain "contemplation" [v. 52](#pp_52), and "highest wisdom" [v.
-53](#pp_53) (one of the three Çikshâs), and says that *Nirvâ.na* is
+that explain "contemplation" [v. 52](#pp_52.md), and "highest wisdom" [v.
+53](#pp_53) (one of the three Çikshâs.md), and says that *Nirvâ.na* is
 attained thereby, and that by want of this virtue the brutes are so
 stupid (as to devour each other).
 
@@ -1158,7 +1158,7 @@ avarice and mean niggardliness. (s. Feer, ll. p. 303 f.)
    <span id="pp_98">98</span>. In *Heaven* also, though the pleasure to
 be enjoyed is great, the pain of dying is greater: thus thinking, noble
 (souls) do not wish for the perishable (joys of) heaven. (Cf. [v. 69
-ff.](#pp_69))
+ff.](#pp_69).md)
 
    <span id="pp_99">99</span>. The colour of the body becoming ugly,
 want of pleasure in (their) couches, decaying of flower-wreaths,
@@ -1177,7 +1177,7 @@ must irrevocably take their dwelling, according to their merit, among
 the Brutes, the Pretas, or in Hell.
 
    <span class="small">As god you cannot gain any merit ([v.
-64](#pp_64)). But the *Sarvâstivâdin's* taught the reverse, s. Rockhill,
+64](#pp_64).md). But the *Sarvâstivâdin's* taught the reverse, s. Rockhill,
 "Life of the Buddha," p. 191, better than Was. 247; cf. Feer, ll. p. 276
 ff.</span>
 
@@ -1195,7 +1195,7 @@ thoughts and (power of) execution incline to virtue, there is a great
 difference between the states of god and Asura or any other (lower). On
 the pains in the state of *man* he does <span id="page_28">p. 28</span>
 not enlarge here, because he alluded to this before in the words: O
-Noble one, etc. ([v. 65](#pp_65)), and because this (state) has been,
+Noble one, etc. ([v. 65](#pp_65)), and because this (state.md) has been,
 before this, blamed (*i.e.*, described as undesirable) by different men
 (*s"nar ya"n mi rnam-pa du-mas smad-pai phyir*).
 
@@ -1217,7 +1217,7 @@ water, fire, wind, sun, and moon.
    *Comm*. *Nirvâ.na* is twofold: with, and without, a rest of the
 Skandha's; the first "quiets" all pain, the second "subdues" the senses.
 (Cf. Childers 267 b. Oldenberg, Buddha, p. 432 (transl. p. 427) ff.; the
-three Çikshâs, s.v. [53](#pp_53), also Udânav. vi. 11.)
+three Çikshâs, s.v. [53](#pp_53), also Udânav. vi. 11..md)
 
    <span id="pp_106">106</span>. Recollection, investigation, energy,
 joy, calm, contemplation, equanimity, these seven members of knowledge
@@ -1274,7 +1274,7 @@ verse) they are meant by Action (*las* = *karman*), because this also is
 divided in the same three parts (cf. Child. 454 b. Oldenberg 247
 (transl. 241) ff.). By forming (lit. conforming) thoughts on the roots
 of these actions, *Consciousness* arises. This is sixfold (*i.e.*, the
-conception of the six senses, [v. 24](#pp_24); s. Was. p. 237 N). . . .
+conception of the six senses, [v. 24](#pp_24); s. Was. p. 237 N.md). . . .
 *Name and Form* is the condition of the (embryo) <span id="page_30">p.
 30</span> conceived in the womb as *Kalalam*, etc. (s. Was. p. 236),
 which not yet has any sensation, etc., and (on the other side) the
@@ -1290,10 +1290,10 @@ disagreeable (s. Dharm. 27); again it ("thirst") is, in the Sûtra,
 declared to be three-fold, according to its direction to the reign of
 pleasure, of form, or of the formless (s. Child. s.v. *ta.nhâ*). The
 "Clinging" is the violent desire (*hdun-pai hdod-chags*) of lust
-(*kâma*), etc. (s. Child. s.v. *upâdâna.m* and cf. [v. 51](#pp_51);
+(*kâma*), etc. (s. Child. s.v. *upâdâna.m* and cf. [v. 51](#pp_51.md);
 Oldenberg, p. 239 N. 1). . . . When the seed of Conformations is well
 watered with (the water of) Thirst and Clinging, the fruit of Being is
-produced (cf. [v. 50](#pp_50)). It is threefold like Thirst: (the Being)
+produced (cf. [v. 50](#pp_50)). It is threefold like Thirst: (the Being.md)
 of pleasure, etc. (s. Child. s.v. *bhava*). But here chiefly the past
 existence is understood. When any one is born at the end of (this)
 existence, he is subject, one after the other, to (the states) "Name and
@@ -1383,4 +1383,4 @@ finished.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Buddhist Articles](../../bud/etc/index)
+[Journals](../index) [Buddhist Articles](../../bud/etc/index.md)

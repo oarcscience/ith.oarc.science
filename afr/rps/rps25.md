@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps24)  [Next](rps26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps24)  [Next](rps26.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ A Love Banquet to The Glory of God.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 24. Government](rps26)
+[Next: Chapter 24. Government](rps26.md)

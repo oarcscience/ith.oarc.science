@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico109) 
-[Next](nico111) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico109.md) 
+[Next](nico111.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ the nature of the opposition between them.
 ------------------------------------------------------------------------
 
 [Next: Chapter 3. Discussion of the view that pleasure is wholly
-bad](nico111)
+bad](nico111.md)

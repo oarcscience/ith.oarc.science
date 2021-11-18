@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas029n)  [Next](jas031n)   
- \[[30. Dry-Head and Anansi.](jas030)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas029n)  [Next](jas031n.md)   
+ \[[30. Dry-Head and Anansi.](jas030.md)\]
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ rescuers.
 
 ------------------------------------------------------------------------
 
-[Next: Note 31. The Yam-hills.](jas031n)
+[Next: Note 31. The Yam-hills.](jas031n.md)

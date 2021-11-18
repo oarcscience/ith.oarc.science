@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](sbe03057)  [Next](sbe03059) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](sbe03057)  [Next](sbe03059.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Name and Contents of the Classic](sbe03059)
+[Next: Chapter I. The Name and Contents of the Classic](sbe03059.md)

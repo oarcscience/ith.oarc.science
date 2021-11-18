@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc03)  [Next](mlc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc03)  [Next](mlc05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -74,7 +74,7 @@ other peoples which demands brain-work of an active kind as the
 alternative of subjugation, inferiority, or extinction, and because, as
 we have already seen, the knowledge required of them was mainly the
 parrot-like repetition of the old instead of the thinking-out of the
-new  <span id="fr_0"></span>[1](#fn_0)—a state of things rendered
+new  <span id="fr_0"></span>[1](#fn_0.md)—a state of things rendered
 possible by the isolation just referred to. Confucius discountenanced
 discussion about the supernatural, and just as it is probable that the
 exhortations of Wên Wang, the virtual founder of the Chou dynasty
@@ -339,7 +339,7 @@ imperceptibly passes into the legendary period, and this again fades
 into the mythical, and as all this is assuredly believed by the masses
 of the people, it is obvious that in the national life of China there is
 no dearth of heroes whose deeds of prowess will command the rapt
-attention of the crowds who listen.”  <span id="fr_1"></span>[2](#fn_1)
+attention of the crowds who listen.”  <span id="fr_1"></span>[2](#fn_1.md)
 
 The soul in China is everywhere in evidence, and if myths have “first
 and foremost to do with the life of the soul” it would appear strange
@@ -418,7 +418,7 @@ It was Sung scholarship that gave the death-blow to Chinese mythology.
 
 <span id="img_p072"></span> <span align="CENTER"> [![Lao
 Tzu](tn/p072.jpg)  
-Click to enlarge](img/p072.jpg)  
+Click to enlarge](img/p072.jpg.md)  
 Lao Tzu  
 </span>
 
@@ -482,17 +482,17 @@ its last breath. <span id="page_76">p. 76</span>
 
 ### Footnotes
 
-<span id="fn_0"></span>[76:1](mlc04.htm#fr_0) The inventions of the
+<span id="fn_0"></span>[76:1](mlc04.htm#fr_0.md) The inventions of the
 Chinese during a period of four thousand years may be numbered on the
 fingers of one hand."
 
-<span id="fn_1"></span>[76:2](mlc04.htm#fr_1) *East of Asia Magazine*,
+<span id="fn_1"></span>[76:2](mlc04.htm#fr_1.md) *East of Asia Magazine*,
 i, 15–16.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Fashioner of the Universe](mlc05)
+[Next: Chapter III. The Fashioner of the Universe](mlc05.md)
 
 </div>

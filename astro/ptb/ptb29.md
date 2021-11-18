@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb28)  [Next](ptb30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb28)  [Next](ptb30.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Sun, or Moon, is similar to that which its own house bears to their
 houses: for example, Venus is in her proper face when making a sextile
 aspect to either luminary, provided she be occidental to the Sun, but
 oriental to the Moon, agreeably to the primary arrangement of her
-houses. <span id="fr_71"></span>[2](#fn_71)
+houses. <span id="fr_71"></span>[2](#fn_71.md)
 
 Each planet is also said to be in its proper chariot, or throne, or
 otherwise triumphantly situated, when it holds familiarity with the
@@ -46,7 +46,7 @@ which it is encompassed.
 
 ### Footnotes
 
-<span id="fn_71"></span>[37:2](ptb29.htm#fr_71) *Vide* Chapter xx. It of
+<span id="fn_71"></span>[37:2](ptb29.htm#fr_71.md) *Vide* Chapter xx. It of
 course follows that Saturn is in his proper face when he is five signs,
 or in quintile, after the Sun or before the Moon; that Jupiter is so
 when in trine; Mars when in quartile; Venus when in sextile; and Mercury
@@ -56,4 +56,4 @@ or before the Moon.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVII. Application, Separation, and Other
-Faculties](ptb30)
+Faculties](ptb30.md)

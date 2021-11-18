@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml25)  [Next](tml27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml25)  [Next](tml27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -65,7 +65,7 @@ whither he was wandering. In time he came to the dwelling of wood
 maidens. They called him "Hother", and he marvelled greatly thereat.
 When he asked them who they were, they told him that it was their lot to
 decide the issue of battle conflicts <span
-id="fr_43"></span>[1](#fn_43); invisible they fought in the fray,
+id="fr_43"></span>[1](#fn_43.md); invisible they fought in the fray,
 assisting those whom they favoured so that victory might be achieved.
 Hother wondered to hear. Then they told him that Balder had gazed with
 eyes of love upon Nanna while she bathed, and was possessed with burning
@@ -93,7 +93,7 @@ said that he feared greatly the wrath of Balder, if he came seeking for
 Nanna and were refused.
 
 "No weapon," Gewar said, "can do hurt to Balder save a certain
-sword <span id="fr_44"></span>[1](#fn_44) which is guarded in a cave by
+sword <span id="fr_44"></span>[1](#fn_44.md) which is guarded in a cave by
 Miming, the wood satyr. A wondrous ring doth he also possess, which hath
 power to increase the wealth of him who owns it. . . . But long and
 dangerous is the road which leads unto the satyr's lair," the king
@@ -247,7 +247,7 @@ name of Horsens; then he returned to Sweden.
 
 <span id="page_228">p. 228</span>
 
-Sad at heart was Hother <span id="fr_45"></span>[1](#fn_45); he was
+Sad at heart was Hother <span id="fr_45"></span>[1](#fn_45.md); he was
 weary of life and refused to be comforted, and he took farewell of all,
 and wandered alone through solitary places and trackless forests, for
 solitude is dear to the sick at heart. The people were angry with him
@@ -305,14 +305,14 @@ into the midst of the fray upon a stretcher, so that he might not meet
 with death in his tent.
 
 When night again fell Balder saw standing beside him the vision of
-Proserpine <span id="fr_46"></span>[1](#fn_46), and she told him that on
+Proserpine <span id="fr_46"></span>[1](#fn_46.md), and she told him that on
 the morrow she would have him for her guest. At the time appointed
 Balder died, and he was buried in a great grave mound with pomp and deep
 mourning.
 
-In after days Harold <span id="fr_47"></span>[2](#fn_47) and other men
+In after days Harold <span id="fr_47"></span>[2](#fn_47.md) and other men
 sought to rob Balder's mound of its treasure, but when they pierced it a
-great flood of water burst forth <span id="fr_48"></span>[3](#fn_48) and
+great flood of water burst forth <span id="fr_48"></span>[3](#fn_48.md) and
 they fled in confusion. So was terror implanted in the minds of
 
 <span id="page_230">p. 230</span>
@@ -370,7 +370,7 @@ was spread far among men. Then found he Boe, his son by Rinda, and him
 he constrained to go forth to avenge the death of Balder.
 
 Thus it came that Hother was slain by Rinda's son in a fierce battle,
-but Boe <span id="fr_49"></span>[1](#fn_49) was wounded unto death, so
+but Boe <span id="fr_49"></span>[1](#fn_49.md) was wounded unto death, so
 that he was borne from the field upon his shield. Next day he died, and
 the Ruthenian soldiers buried him in a stately mound, so that his memory
 might not perish in after days, but ever have renown among men.
@@ -381,25 +381,25 @@ After Hother's death his son Rorik became king.
 
 ### Footnotes
 
-<span id="fn_43"></span>[222:1](tml26.htm#fr_43) Valkyries.
+<span id="fn_43"></span>[222:1](tml26.htm#fr_43.md) Valkyries.
 
-<span id="fn_44"></span>[223:1](tml26.htm#fr_44) The Sword of Victory
+<span id="fn_44"></span>[223:1](tml26.htm#fr_44.md) The Sword of Victory
 concealed in Mimer's realm. Hother resembles Svipdag very closely. Gewar
 is the moon-god of the Ivalde myth.
 
-<span id="fn_45"></span>[228:1](tml26.htm#fr_45) Like King Hrethel in
+<span id="fn_45"></span>[228:1](tml26.htm#fr_45.md) Like King Hrethel in
 Beowulf.
 
-<span id="fn_46"></span>[229:1](tml26.htm#fr_46) Urd.
+<span id="fn_46"></span>[229:1](tml26.htm#fr_46.md) Urd.
 
-<span id="fn_47"></span>[229:2](tml26.htm#fr_47) Believed to be a
+<span id="fn_47"></span>[229:2](tml26.htm#fr_47.md) Believed to be a
 historical personage who lived in the twelfth century.
 
-<span id="fn_48"></span>[229:3](tml26.htm#fr_48) Balder is associated
+<span id="fn_48"></span>[229:3](tml26.htm#fr_48.md) Balder is associated
 with well worship. Wells sprang from his horse's hoofmarks, and he found
 water for his soldiers. Water defends his mound.
 
-<span id="fn_49"></span>[231:1](tml26.htm#fr_49) Vale, who in mythology
+<span id="fn_49"></span>[231:1](tml26.htm#fr_49.md) Vale, who in mythology
 is the slayer of the wolf, is thus Boe (Beowulf) in Saxo's Danish
 legend. He receives his deathwound when he slays Hother, who, as
 Svipdag, was a dragon guarding beneath a grey rock great treasure, which
@@ -414,4 +414,4 @@ infrequently develop into independent narratives.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. The Traditional Hamlet](tml27)
+[Next: Chapter XXII. The Traditional Hamlet](tml27.md)

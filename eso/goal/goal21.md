@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal20)  [Next](goal22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal20)  [Next](goal22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -284,7 +284,7 @@ was the substance of his being. He was able, therefore, absolutely to
 control the physical body, to inspire the Spirit of the Father, the Holy
 Spirit, and passing it through the brain-organs, he clothed the Spirit
 with the substance of the physical mind. <span
-id="fr_12"></span>[\*](#fn_12)
+id="fr_12"></span>[\*](#fn_12.md)
 
 In order to make the Spirit of God accessible to the vital currents and
 mentality of man, it became essential that a spiritual being clothe
@@ -381,10 +381,10 @@ us, or God in us, God manifest in the flesh—"The Likeness of God."
 
 ### Footnotes
 
-<span id="fn_12"></span>[215:\*](goal21.htm#fr_12) We know that the
+<span id="fn_12"></span>[215:\*](goal21.htm#fr_12.md) We know that the
 thoughts that we think partake of the qualities of the body, because
 thinking exhausts the body.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Likeness of God: Three Steps](goal22)
+[Next: Chapter VIII. The Likeness of God: Three Steps](goal22.md)

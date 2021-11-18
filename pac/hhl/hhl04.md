@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl03)  [Next](hhl05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl03)  [Next](hhl05.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ words.
 
 ------------------------------------------------------------------------
 
-[Next: I. Maui the Polynesian](hhl05)
+[Next: I. Maui the Polynesian](hhl05.md)

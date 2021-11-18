@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck08)  [Next](peck10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck08)  [Next](peck10.md) 
 
 ------------------------------------------------------------------------
 
@@ -339,4 +339,4 @@ blooming and all is gay.
 
 ------------------------------------------------------------------------
 
-[Next: What The Moon Is](peck10)
+[Next: What The Moon Is](peck10.md)

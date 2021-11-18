@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob13) 
-[Next](tob15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob13.md) 
+[Next](tob15.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob13) 
 
 <span id="img_wiar01"></span>
 
-![THE JUGGLER](img/wiar01.jpg)  
+![THE JUGGLER](img/wiar01.jpg.md)  
 THE JUGGLER
 
    <span id="img_msar01"></span>
 
-![THE JUGGLER](img/msar01.jpg)  
+![THE JUGGLER](img/msar01.jpg.md)  
 THE JUGGLER
 
 .
@@ -184,7 +184,7 @@ link between the worlds.
 But we must not anticipate, so we will return to our first arcanum.
 
 This symbol is the first of the whole Tarot, <span
-id="fr_55"></span>[1](#fn_55) and it bears the Unity as its
+id="fr_55"></span>[1](#fn_55.md) and it bears the Unity as its
 characteristic number.
 
 The Unity-principle, the origin of which is impenetrable to human
@@ -199,7 +199,7 @@ Levi--
 Prouvé par l'être même et par l'immensité,  
 *Ideál* SURHUMAIN de la philosophie,  
 Parfaite Intelligence et Suprême Bonté." <span
-id="fr_56"></span>[2](#fn_56)
+id="fr_56"></span>[2](#fn_56.md)
 
  
 
@@ -325,24 +325,24 @@ yod-yod</p></td>
 
 ### Footnotes
 
-<span id="fn_55"></span>[108:1](tob14.htm#fr_55) It is curious to
+<span id="fn_55"></span>[108:1](tob14.htm#fr_55.md) It is curious to
 notice, when examining the position of the hands of the personages in
 the Tarot of Marseilles, how often this position represents the
 alphabetical letter to which the figure corresponds, according to
 Barrois (system of dactylology or primitive language). The arcana 1, 2
 and 5 are especially noticeable in this respect.
 
-<span id="fn_56"></span>[108:2](tob14.htm#fr_56)
+<span id="fn_56"></span>[108:2](tob14.htm#fr_56.md)
 
 "I believe in *the unknown*, which God *personifies*,  
 Proved by existence itself and by immensity,  
 SUPERHUMAN *Ideal* of all philosophy,  
 Perfect Intelligence and Supreme Benignity."
 
-<span id="fn_57"></span>[111:1](tob14.htm#fr_57) According to Spinoza
+<span id="fn_57"></span>[111:1](tob14.htm#fr_57.md) According to Spinoza
 the only free cause and substance of all modes or phenomena, conscious
 and unconscious, past, present, and to come. \[A. P.M.\]
 
 ------------------------------------------------------------------------
 
-[Next: 2. The High Priestess](tob15)
+[Next: 2. The High Priestess](tob15.md)

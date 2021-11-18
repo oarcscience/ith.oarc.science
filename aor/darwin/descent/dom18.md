@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index)  [Index](index) 
-[Previous](dom17)  [Next](dom19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index)  [Index](index.md) 
+[Previous](dom17)  [Next](dom19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140436316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140436316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -852,4 +852,4 @@ the young and old.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Birds--concluded](dom19)
+[Next: Chapter XVI. Birds--concluded](dom19.md)

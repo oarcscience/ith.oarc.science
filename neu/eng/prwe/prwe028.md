@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe027)  [Next](prwe029) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe027)  [Next](prwe029.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ urging the horse to his utmost speed round and round one of his fields.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Tools, or Barker's Knee](prwe029)
+[Next: The Fairy Tools, or Barker's Knee](prwe029.md)

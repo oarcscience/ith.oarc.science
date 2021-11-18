@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ihas11)  [Next](ihas13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ihas11)  [Next](ihas13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Initiation, Human and Solar*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -225,7 +225,7 @@ of the World, Himself officiates. It is the first at which He contacts
 the initiate. Earlier it would not be possible. For the first two
 initiations the Hierophant is the Christ, the World-Teacher, the
 Firstborn among many brethren, one of the earliest of our humanity to
-take [initiation](errata.htm#0). Browning brings out this thought most
+take [initiation](errata.htm#0.md). Browning brings out this thought most
 beautifully in the words found in his poem "Saul":—
 
 <div style="margin-left: 32px">
@@ -435,4 +435,4 @@ sorrows, and yet he is not incapacitated thereby.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Universality of Initiation](ihas13)
+[Next: Chapter X. The Universality of Initiation](ihas13.md)

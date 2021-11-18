@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](ros05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](ros05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -42,7 +42,7 @@ the scroll (on which is written the) Book of Esther.
 ordained*," etc. The rabbis taught: Once it happened that New Year's Day
 fell on the Sabbath, and all the cities gathered together. Said R.
 Jo'hanan b. Zakkai to the Bne Bathera: <span
-id="fr_54"></span>[1](#fn_52) "Let us sound (the cornet)." "First," said
+id="fr_54"></span>[1](#fn_52) "Let us sound (the cornet.md)." "First," said
 they, "let us discuss." "Let us sound it," replied he, "and then we will
 discuss." After they had sounded (the cornet) they said to him: "Now let
 us discuss." He answered: "The cornet
@@ -156,7 +156,7 @@ on the Sabbath day because He rested!"
 
 What did the Levites sing when the additional sacrifices were being
 offered on the Sabbath? R. Hanan bar Rabha said in the name of Rabh: Six
-sections of Deut. xxxii. <span id="fr_55"></span>[1](#fn_53) R. Hanan
+sections of Deut. xxxii. <span id="fr_55"></span>[1](#fn_53.md) R. Hanan
 bar Rabha also said in the name of Rabh: "As these sections were divided
 (by the Levites), so they are divided for the reading of the law (on the
 Sabbath on which they are read)." What did they sing at the Sabbath
@@ -351,7 +351,7 @@ though it spoke of many.
 parts.) The first part can be used as two of the required passages, and
 the second as three, so said R. Jose; but R. Jehudah said: The first
 part can be used only for one, and the second for two. <span
-id="fr_56"></span>[1](#fn_54) So too \[Ps. xlvii. 7, 9\], "Sing praises
+id="fr_56"></span>[1](#fn_54.md) So too \[Ps. xlvii. 7, 9\], "Sing praises
 to God, sing praises, sing praises to our king, sing praises; for God is
 the
 
@@ -383,7 +383,7 @@ at all.
 from the Prophets last*." R. Jose said: "We should conclude with a
 passage from the Pentateuch, but if one concluded with a passage from
 the Prophets, one has done his duty." We have also learned: R. Elazar
-bar R. Jose says: "The Vathiqin <span id="fr_57"></span>[1](#fn_55) used
+bar R. Jose says: "The Vathiqin <span id="fr_57"></span>[1](#fn_55.md) used
 to conclude with a passage from the Pentateuch. It is correct as far as
 Zikhronoth and Shophroth are concerned, for there are many such
 passages; but as for the Malkhioth there are but three in the
@@ -450,7 +450,7 @@ MISHNA: The order of sounding the cornet is three times three. The
 length of a TEQIA is equal to that of three TERUOTH, and that of each
 Terua as three moans (YABABHOTH). If a person sounded a Teqia and
 prolonged it equal to two, it is only reckoned as one Teqia. <span
-id="fr_58"></span>[1](#fn_56) He who has just finished reading the
+id="fr_58"></span>[1](#fn_56.md) He who has just finished reading the
 benedictions (in the additional service for the New Year) and only at
 that time obtained a cornet, should then blow on the cornet the three
 sounds three times. As the Reader of the congregation is in duty bound
@@ -478,7 +478,7 @@ The Rabbis taught: Whence do we know (that one must sound) with a
 cornet? From the passage \[Lev. xxv. 9\], "Thou shalt cause *the cornet*
 . . . . to sound, etc." Whence do we know that (after the Terua) there
 should be one Teqia? Therefore it is said (later in the same verse), "Ye
-shall make the cornet sound." <span id="fr_59"></span>[2](#fn_57) But
+shall make the cornet sound." <span id="fr_59"></span>[2](#fn_57.md) But
 perhaps this only refers to the jubilee? Whence do we know that it
 refers also to New Year's Day? Therefore it is written (in the same
 verse) "in the seventh month." These
@@ -520,7 +520,7 @@ each Terua there are two Teqioth, we therefore learn that on New Year's
 Day must be sounded three Teruoth and six Tekioth.
 
 R. Abbahu enacted in Cæsarea that the order should be first a
-Teqia <span id="fr_60"></span>[1](#fn_58) then three single staccato
+Teqia <span id="fr_60"></span>[1](#fn_58.md) then three single staccato
 sounds, or Shebharim, then a
 
 <span id="page_73">p. 73</span>
@@ -635,31 +635,31 @@ people in a city must go (to the House of Prayer).
 
 ### Footnotes
 
-<span id="fn_52"></span>[61:1](ros06.htm#fr_54) A scholarly family of
+<span id="fn_52"></span>[61:1](ros06.htm#fr_54.md) A scholarly family of
 Babylonian descent, much favored by Herod.
 
-<span id="fn_53"></span>[64:1](ros06.htm#fr_55) i-vii.; viii-xiii.;
+<span id="fn_53"></span>[64:1](ros06.htm#fr_55.md) i-vii.; viii-xiii.;
 xiv.-xix.; xx.-xxvii.; xxviii.-xxxvi.; xxxvii.-xliv. These passages are
 called Hazyv Lakh because the initial letters are H, Z, V, V, L, KH.
 
-<span id="fn_54"></span>[68:1](ros06.htm#fr_56) He excludes the two
+<span id="fn_54"></span>[68:1](ros06.htm#fr_56.md) He excludes the two
 interrogative sentences, "Who is the king of glory?"
 
-<span id="fn_55"></span>[69:1](ros06.htm#fr_57) A sect similar to
+<span id="fn_55"></span>[69:1](ros06.htm#fr_57.md) A sect similar to
 Hasidim.
 
-<span id="fn_56"></span>[71:1](ros06.htm#fr_58) The cornet is sounded
+<span id="fn_56"></span>[71:1](ros06.htm#fr_58.md) The cornet is sounded
 three times, corresponding to the Malkhioth, Zikhronoth, and Shophroth.
 The order of the sounds is Teqia, Terua, Teqia; Teqia, Terua, Teqia,
 etc. The case here supposed is that the one who sounded the cornet
 sustained the second Teqia as long as two Teqioth, intending thereby to
 sound the second and third Teqioth. This, we see, is not permitted.
 
-<span id="fn_57"></span>[71:2](ros06.htm#fr_59) The Hebrew words
+<span id="fn_57"></span>[71:2](ros06.htm#fr_59.md) The Hebrew words
 UTHEQATEM TERUA are interpreted to mean that first a Teqia should be
 sounded. and then a Terua.
 
-<span id="fn_58"></span>[72:1](ros06.htm#fr_60) The Teqia is a long tone
+<span id="fn_58"></span>[72:1](ros06.htm#fr_60.md) The Teqia is a long tone
 produced by sounding the cornet. The Terua is a long tremulous sound.
 The Shebharim consists of three short staccato sounds.
 

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](kymf04)  [Next](kymf06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](kymf04)  [Next](kymf06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -395,4 +395,4 @@ be given out to the world and his work taught."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five. Life Energy Control](kymf06)
+[Next: Chapter Five. Life Energy Control](kymf06.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly25)  [Next](lly27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly25)  [Next](lly27.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ might be keen of sight. He was wrapped in the skin of the
 <span id="img_07000"></span> [![YO-SEM-I-TE FALLS (CHO-LACK) AND LOST
 ARROW (HUMMO)&lt;BR&gt; &lt;I&gt;Photo A. C.
 Pillsbury&lt;/I&gt;](tn/07000.jpg)  
-Click to enlarge](img/07000.jpg)  
+Click to enlarge](img/07000.jpg.md)  
 YO-SEM-I-TE FALLS (CHO-LACK) AND LOST ARROW (HUMMO)  
 *Photo A. C. Pillsbury*  
 
@@ -121,4 +121,4 @@ gone, to El-o-win, the happy land beyond the setting sun.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of the Lost Arrow](lly27)
+[Next: The Legend of the Lost Arrow](lly27.md)

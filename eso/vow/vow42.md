@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow41)  [Next](vow43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow41)  [Next](vow43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -46,13 +46,13 @@ independent of Destiny. Therefore, in following this higher and
 intelligent reason, ordained by the supreme God, the spirit is superior
 to the order of Nature over creatures; but the soul which attaches
 herself to these creatures participates in their destiny, though foreign
-to their nature. <span id="fr_51"></span>[1](#fn_51)
+to their nature. <span id="fr_51"></span>[1](#fn_51.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_51"></span>[150:1](vow42.htm#fr_51) In the above fragment
+<span id="fn_51"></span>[150:1](vow42.htm#fr_51.md) In the above fragment
 the power of the human will is clearly asserted as the only instrument
 by which Destiny may be controlled. By continued and ardent striving
 towards the purely spiritual and intelligent, the soul frees herself
@@ -70,4 +70,4 @@ A.K.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](vow43)
+[Next: Part II](vow43.md)

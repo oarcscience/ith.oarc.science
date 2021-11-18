@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg60)  [Next](cdg62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg60)  [Next](cdg62.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ Germanicus.
 ------------------------------------------------------------------------
 
 [Next: YY. Merlin's Prophecy of the Conquest of the Air and of Aerial
-and Submarine Warfare](cdg62)
+and Submarine Warfare](cdg62.md)

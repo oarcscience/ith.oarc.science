@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wos07)  [Next](wos09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wos07)  [Next](wos09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Select Works of Sri Sankaracharya*, tr. by S. Venkataramanan, \[1921\],
 at Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ light, like the sun when the clouds have disappeared. (4).
 
 Having purified, by repeated instruction, the soul that is turbid with
 ignorance, knowledge should efface itself, as the paste of the
-cleaning-nut does with water. <span id="fr_154"></span>[\*](#fn_148)
+cleaning-nut does with water. <span id="fr_154"></span>[\*](#fn_148.md)
 (5).
 
 The phenomenal world, abounding in desire, hatred, etc., is verily like
@@ -82,7 +82,7 @@ of past actions, is called the (dense) body. (12).
 The instrument of enjoyment, which is made up of the uncompounded
 elements and which consists of the five life-forces, the mind, the
 consciousness, and the ten senses <span
-id="fr_155"></span>[\*](#fn_149), is the subtle body. (13).
+id="fr_155"></span>[\*](#fn_149), is the subtle body. (13.md).
 
 The beginningless illusion that is indefinable is called the causal
 body. One should understand the self as other than these three bodies
@@ -117,7 +117,7 @@ depending on the sun's light. (20).
 
 Owing to indiscrimination, men attribute the qualities and activities of
 the body and the senses to the self that is pure existence and
-consciousness <span id="fr_156"></span>[\*](#fn_150), in the same way as
+consciousness <span id="fr_156"></span>[\*](#fn_150.md), in the same way as
 blue colour is attributed to the sky. (21).
 
 <span id="page_167">p. 167</span>
@@ -154,7 +154,7 @@ individual soul, but the Supreme Self," then he is free from fear. (27).
 
 The self alone illumines the consciousness; the senses, etc., as a light
 reveals the pot and other objects; (but) one's own self is not illumined
-by the illuminable objects. <span id="fr_157"></span>[\*](#fn_151) (28).
+by the illuminable objects. <span id="fr_157"></span>[\*](#fn_151) (28.md).
 
 The very nature of the self being knowledge, it does not depend, for a
 knowledge of itself, on any other knowledge, in the same way as a light
@@ -216,18 +216,18 @@ respect of the supreme self. Being sole consciousness and bliss, it
 shines by itself alone. (41).
 
 The flame of knowledge that arises by this constant churning of
-meditation on the wood <span id="fr_158"></span>[\*](#fn_152) of the
+meditation on the wood <span id="fr_158"></span>[\*](#fn_152.md) of the
 self, will completely burn away the fuel of ignorance. (42).
 
 When knowledge has destroyed ignorance, the self will manifest itself,
 in the same way as the sun rises as soon as the dawn <span
-id="fr_159"></span>[†](#fn_153) of day has dispelled darkness. (43).
+id="fr_159"></span>[†](#fn_153) of day has dispelled darkness. (43.md).
 
 <span id="page_174">p. 174</span>
 
 The self, that is ever with us, appears, by ignorance, as if it were
 unattained and, when that (ignorance) is destroyed, attained, like one's
-own necklace. <span id="fr_160"></span>[\*](#fn_154) (44).
+own necklace. <span id="fr_160"></span>[\*](#fn_154) (44.md).
 
 The condition of individual soul has been imposed on Brahman by
 illusion, as the form of a man on a post, but disappears when the true
@@ -235,7 +235,7 @@ nature of the individual soul is realised. (45).
 
 The knowledge that arises from the realisation of one's own true nature,
 directly destroys the illusion of "I" and "mine" which resembles the
-confusion of the directions. <span id="fr_161"></span>[†](#fn_155) (46).
+confusion of the directions. <span id="fr_161"></span>[†](#fn_155) (46.md).
 
 <span id="page_175">p. 175</span>
 
@@ -257,7 +257,7 @@ becomes the wasp. (49).
 Having crossed the ocean of ignorance and having slain the demons of
 likes and dislikes, etc., the seer, united to tranquillity, is supremely
 happy in the enjoyment of the bliss of his own self <span
-id="fr_162"></span>[\*](#fn_156). (50).
+id="fr_162"></span>[\*](#fn_156). (50.md).
 
 Leaving aside all attachments to external and transient pleasures, and
 happy in the bliss of the self, such a one, for ever, shines within,
@@ -278,7 +278,7 @@ no higher bliss, than knowing which there is no higher knowledge,—that
 should be understood as Brahman. (54).
 
 Seeing which naught else remains to be seen, becoming which there is no
-becoming <span id="fr_163"></span>[\*](#fn_157) again, knowing which
+becoming <span id="fr_163"></span>[\*](#fn_157.md) again, knowing which
 naught else remains to be known,—that should he understood as Brahman.
 (55).
 
@@ -299,7 +299,7 @@ which is uninterrupted bliss, become happy, each in his own degree, by
 possessing a particle of that bliss. (58).
 
 Every object (is such because. it) possesses that. All activity has
-consciousness running through it <span id="fr_164"></span>[\*](#fn_158).
+consciousness running through it <span id="fr_164"></span>[\*](#fn_158.md).
 The Supreme Self, therefore, pervades
 
 <span id="page_179">p. 179</span>
@@ -312,7 +312,7 @@ be understood as Brahman. (60).
 
 By whose light the sun, etc., shine, but which is not illumined by these
 that are illuminable, and by virtue of which all this (universe)
-shines <span id="fr_165"></span>[\*](#fn_159),—that should be understood
+shines <span id="fr_165"></span>[\*](#fn_159.md),—that should be understood
 as Brahman. (61).
 
 Pervading the whole universe, internally and externally, and illumining
@@ -364,46 +364,46 @@ Thus ends <span class="smallcaps">Knowledge of Self.</span>
 
 ### Footnotes
 
-<span id="fn_148"></span>[161:\*](wos08.htm#fr_154) The cleaning-nut,
+<span id="fn_148"></span>[161:\*](wos08.htm#fr_154.md) The cleaning-nut,
 rubbed into a paste and thrown into dirty water, clears the water and
 itself settles down along with the dirt as a sediment.
 
-<span id="fn_149"></span>[164:\*](wos08.htm#fr_155) The five senses of
+<span id="fn_149"></span>[164:\*](wos08.htm#fr_155.md) The five senses of
 perception and the five motor members of the body.
 
-<span id="fn_150"></span>[166:\*](wos08.htm#fr_156) The self is absolute
+<span id="fn_150"></span>[166:\*](wos08.htm#fr_156.md) The self is absolute
 consciousness as distinguished from *buddhi*, the individual
 consciousness.
 
-<span id="fn_151"></span>[169:\*](wos08.htm#fr_157) The mind, senses,
+<span id="fn_151"></span>[169:\*](wos08.htm#fr_157.md) The mind, senses,
 etc.
 
-<span id="fn_152"></span>[173:\*](wos08.htm#fr_158) Araṇi wood, used to
+<span id="fn_152"></span>[173:\*](wos08.htm#fr_158.md) Araṇi wood, used to
 kindle fire for sacrifices by churning it.
 
-<span id="fn_153"></span>[173:†](wos08.htm#fr_159) Aruṇa, the charioteer
+<span id="fn_153"></span>[173:†](wos08.htm#fr_159.md) Aruṇa, the charioteer
 of the sun; the dawn-god.
 
-<span id="fn_154"></span>[174:\*](wos08.htm#fr_160) One appears to
+<span id="fn_154"></span>[174:\*](wos08.htm#fr_160.md) One appears to
 search for his necklace and find it, although it has been on his neck
 all the time.
 
-<span id="fn_155"></span>[174:†](wos08.htm#fr_161) One who mistakes the
+<span id="fn_155"></span>[174:†](wos08.htm#fr_161.md) One who mistakes the
 directions, north, east, etc., corrects himself as soon as be clearly
 understands his own position.
 
-<span id="fn_156"></span>[176:\*](wos08.htm#fr_162) This an allegorical
+<span id="fn_156"></span>[176:\*](wos08.htm#fr_162.md) This an allegorical
 explanation, incidentally, of the story of the Râmâyaṇa.
 
-<span id="fn_157"></span>[177:\*](wos08.htm#fr_163) Birth.
+<span id="fn_157"></span>[177:\*](wos08.htm#fr_163.md) Birth.
 
-<span id="fn_158"></span>[178:\*](wos08.htm#fr_164) These are the *sat*
+<span id="fn_158"></span>[178:\*](wos08.htm#fr_164.md) These are the *sat*
 (being) and *chit* (consciousness) aspects of the self. The *ânanda*
 (bliss) aspect has been dealt with in the previous verse.
 
-<span id="fn_159"></span>[179:\*](wos08.htm#fr_165) Is manifest; is
+<span id="fn_159"></span>[179:\*](wos08.htm#fr_165.md) Is manifest; is
 perceived.
 
 ------------------------------------------------------------------------
 
-[Next: Commentary on the Text](wos09)
+[Next: Commentary on the Text](wos09.md)

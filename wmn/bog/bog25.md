@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog24)  [Next](bog26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog24)  [Next](bog26.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ of the Goddess. Blessed be."
 
 ------------------------------------------------------------------------
 
-[Next: Fifth Principle: Demeter](bog26)
+[Next: Fifth Principle: Demeter](bog26.md)

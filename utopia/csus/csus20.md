@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus19)  [Next](csus21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus19)  [Next](csus21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ the element of connection between the Church on earth
 
 and the Church in the heavens, and the power by which the kingdom of God
 is to be established and reign in the world." <span
-id="fr_23"></span>[\*](#fn_23)
+id="fr_23"></span>[\*](#fn_23.md)
 
 They assert, further, that "the Gospel provides for complete salvation
 from sin"—hence the name they assume of "Perfectionists." "Salvation
@@ -166,7 +166,7 @@ exclusiveness in regard to money would
 <span id="page_272">p. 272</span>
 
 abolish, if circumstances allowed full scope to it, exclusiveness in
-regard to women and children." <span id="fr_24"></span>[\*](#fn_24)
+regard to women and children." <span id="fr_24"></span>[\*](#fn_24.md)
 
 It is an extraordinary evidence of the capacity of mankind for various
 and extreme religious beliefs, that many men have brought their wives
@@ -360,7 +360,7 @@ middle classes are able to afford judicious moral and spiritual care,
 with the advantage of a liberal education. In this attempt twenty-four
 men and twenty women have been engaged, selected from among those who
 have most thoroughly practiced our social theory." <span
-id="fr_25"></span>[\*](#fn_25)
+id="fr_25"></span>[\*](#fn_25.md)
 
 Finally, they find in practice a strong tendency toward what they call
 "selfish love"—that is to say, the attachment
@@ -377,15 +377,15 @@ rigorously.
 
 ### Footnotes
 
-<span id="fn_23"></span>[269:\*](csus20.htm#fr_23) Statement in the
+<span id="fn_23"></span>[269:\*](csus20.htm#fr_23.md) Statement in the
 *Circular*.
 
-<span id="fn_24"></span>[272:\*](csus20.htm#fr_24) "History of American
+<span id="fn_24"></span>[272:\*](csus20.htm#fr_24.md) "History of American
 Socialisms," by J. H. Noyes, p. 625.
 
-<span id="fn_25"></span>[276:\*](csus20.htm#fr_25) "Essay on Scientific
+<span id="fn_25"></span>[276:\*](csus20.htm#fr_25.md) "Essay on Scientific
 Propagation," by John Humphrey Noyes.
 
 ------------------------------------------------------------------------
 
-[Next: III.—Daily Life And Business Administration.](csus21)
+[Next: III.—Daily Life And Business Administration.](csus21.md)

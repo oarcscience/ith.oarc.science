@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp31) 
-[Next](alp33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp31.md) 
+[Next](alp33.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ When seas of blood well in the heart.
 
 ------------------------------------------------------------------------
 
-[Next: The Lily of Shavarshan](alp33)
+[Next: The Lily of Shavarshan](alp33.md)

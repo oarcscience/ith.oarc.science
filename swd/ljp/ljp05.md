@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ljp04)  [Next](ljp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ljp04)  [Next](ljp06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -318,7 +318,7 @@ shrub, still less any tree; but sandy and rocky places.
 
 \[220\] Many of them said they were desirous of being instructed and
 thus of rejecting that faith, but in vain; <span
-id="fr_32"></span>[218-1](#fn_32) the inrooted faith clung to them
+id="fr_32"></span>[218-1](#fn_32.md) the inrooted faith clung to them
 because it had been the principle of their life. What is marvelous, the
 learned of that religion regard justification by faith alone as such a
 Divine mystery, that touching it is like touching the pupil of the eye;
@@ -342,7 +342,7 @@ acting. But it was shown them that no man, not even Adam, had freedom
 from himself, but only as if from himself; and that everyone has freedom
 to act from the Lord, thus to be led by the Lord: and that each one is
 in this freedom so far as he is led. <span
-id="fr_33"></span>[219-1](#fn_33)
+id="fr_33"></span>[219-1](#fn_33.md)
 
 <span class="margnote"><span id="220.">220.</span></span>
 
@@ -618,7 +618,7 @@ destroy heaven; and he was enflamed with hostility against all who were
 in the acknowledgment of the Lord. He was punished frequently, but in
 vain. If I should mention his deeds of malice, cunning, and crimes I
 would fill pages. In him I saw what the devil is, both in his own hell
-and with men (C. XII.). <span id="fr_34"></span>[234-1](#fn_34) Such men
+and with men (C. XII.). <span id="fr_34"></span>[234-1](#fn_34.md) Such men
 do not acknowledge God, but believe all are gods who are powerful; and
 they wish to become gods themselves, and be worshipped.
 
@@ -627,7 +627,7 @@ they wish to become gods themselves, and be worshipped.
 \[238\] There was once some conversation respecting the love of ruling,
 to the effect that many believe that those who worship the Lord in the
 world, although they are His enemies, \[will be saved and will rule over
-all in heaven\]. <span id="fr_35"></span>[235-1](#fn_35) And it was said
+all in heaven\]. <span id="fr_35"></span>[235-1](#fn_35.md) And it was said
 that a devil can be driven to worship the Lord, if only he be promised
 that he will be great, and still more if he would thereby become the
 greatest. It was then permitted that they should take from hell one of
@@ -654,7 +654,7 @@ work on The Earths in the Universe, all of which works may be adduced.
 \[240\] With those who are in the love of commanding, the interiors
 appear black, and this because they are closed against the influx of
 heaven; but their inferiors appear as it were misty because they are
-opened to the hells. <span id="fr_36"></span>[237-1](#fn_36) It is said
+opened to the hells. <span id="fr_36"></span>[237-1](#fn_36.md) It is said
 that with those who are in the love of ruling, the superiors, thus the
 interiors, can never be opened towards heaven.
 
@@ -684,7 +684,7 @@ brought low. One spirit who also wore the insignia of a nobleman
 confessed that as long as he wore that insignia he could not think as
 before, because he was interrupted by thought concerning himself; but
 whenever he was at home and put it off, he returned to his own judgment
-as before. <span id="fr_37"></span>[238-1](#fn_37) Diabolical spirits
+as before. <span id="fr_37"></span>[238-1](#fn_37.md) Diabolical spirits
 are skilled in the art of seducing the upright. They do this by turning
 their thoughts to themselves and their own proprium; by praising them in
 various ways; by placing themselves at their back and breathing into
@@ -692,7 +692,7 @@ them the love of self; and where they observe anything black, which is
 the proprium, they inquire what is there; they then infuse it with their
 own thought and pervert, yea lead him. Some look into the forehead and
 act in like manner; others proceed in a different way. <span
-id="fr_38"></span>[238-2](#fn_38) Wherever blackness appears, there is
+id="fr_38"></span>[238-2](#fn_38.md) Wherever blackness appears, there is
 the love of ruling, because this blackness is the proprium.
 
 <span class="margnote"><span id="239.">239.</span></span>
@@ -777,7 +777,7 @@ where his ruling love is, for this is the center of his other loves.
 <span class="margnote"><span id="245.">245.</span></span>
 
 \[248\] There was a certain man (Fr. G.) <span
-id="fr_39"></span>[245-1](#fn_39) who in his boyhood had cultivated
+id="fr_39"></span>[245-1](#fn_39.md) who in his boyhood had cultivated
 piety, and who remained therefrom in the acknowledgment of God even to
 the end of his life. And yet under the favoring influence of fortune he
 came into the love of commanding and hence into evils of every kind. He
@@ -808,7 +808,7 @@ closed they become stupid and like fools.
 \[250\] I once saw what kind of love to the Lord exists among Christians
 at this day. A number of them were let into their loves; and in phantasy
 it was granted them to see as it were the Lord. <span
-id="fr_40"></span>[247-1](#fn_40) And they then came into such fury that
+id="fr_40"></span>[247-1](#fn_40.md) And they then came into such fury that
 they wished to drag down and slay Him. They were all in faith alone,
 and, at the time, in the love of self. Thence it became evident that in
 the Christian world at this day they are against the Lord as were the
@@ -821,7 +821,7 @@ feel the Lord's Divine sphere.
 \[251\] THE JEWS. Before the Last Judgment, the Jews, for the most part,
 were at the left in the plane of the heel. I have often spoken with them
 there. They were then under the middle region where is the Christian
-world. <span id="fr_41"></span>[248-1](#fn_41) But after the Last
+world. <span id="fr_41"></span>[248-1](#fn_41.md) But after the Last
 Judgment they were driven away, and now being removed to the left, they
 dwell there in certain cities where the streets appear filled with filth
 and impurities, and where the houses are undergoing continual variation.
@@ -855,27 +855,27 @@ he may rule them according to their genius and disposition.
 
 ### Footnotes
 
-<span id="fn_32"></span>[218-1](ljp05.htm#fr_32) See SE 6023.
+<span id="fn_32"></span>[218-1](ljp05.htm#fr_32.md) See SE 6023.
 
-<span id="fn_33"></span>[219-1](ljp05.htm#fr_33) See SE 6024
+<span id="fn_33"></span>[219-1](ljp05.htm#fr_33.md) See SE 6024
 
-<span id="fn_34"></span>[234-1](ljp05.htm#fr_34) See SE 4748, 4884.
+<span id="fn_34"></span>[234-1](ljp05.htm#fr_34.md) See SE 4748, 4884.
 
-<span id="fn_35"></span>[235-1](ljp05.htm#fr_35) The words in brackets
+<span id="fn_35"></span>[235-1](ljp05.htm#fr_35.md) The words in brackets
 are supplied from a corresponding passage in SE 4817.
 
-<span id="fn_36"></span>[237-1](ljp05.htm#fr_36) See AC 1507.
+<span id="fn_36"></span>[237-1](ljp05.htm#fr_36.md) See AC 1507.
 
-<span id="fn_37"></span>[238-1](ljp05.htm#fr_37) See SE 5461 1/2.
+<span id="fn_37"></span>[238-1](ljp05.htm#fr_37.md) See SE 5461 1/2.
 
-<span id="fn_38"></span>[238-2](ljp05.htm#fr_38) See SE 5463.
+<span id="fn_38"></span>[238-2](ljp05.htm#fr_38.md) See SE 5463.
 
-<span id="fn_39"></span>[245-1](ljp05.htm#fr_39) See Se 5976, 5977.
+<span id="fn_39"></span>[245-1](ljp05.htm#fr_39.md) See Se 5976, 5977.
 
-<span id="fn_40"></span>[247-1](ljp05.htm#fr_40) See SE 4725.
+<span id="fn_40"></span>[247-1](ljp05.htm#fr_40.md) See SE 4725.
 
-<span id="fn_41"></span>[248-1](ljp05.htm#fr_41) See T 841.
+<span id="fn_41"></span>[248-1](ljp05.htm#fr_41.md) See T 841.
 
 ------------------------------------------------------------------------
 
-[Next: 251-300](ljp06)
+[Next: 251-300](ljp06.md)

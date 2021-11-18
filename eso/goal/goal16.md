@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal15)  [Next](goal17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal15)  [Next](goal17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -56,7 +56,7 @@ the injunction of the writer of the letter to the Hebrews: "Therefore
 leaving the first principles of the doctrine of Christ, let us go on
 unto perfection; not laying again the foundation of repentance from dead
 works, and of faith toward God, of the doctrine of baptisms, and of
-laying on of hands, and of [resurrection](errata.htm#14) of the dead,
+laying on of hands, and of [resurrection](errata.htm#14.md) of the dead,
 and of eternal judgment. And this we will do, if God permit." (Heb. vi.
 1-3).
 
@@ -580,4 +580,4 @@ active in nature.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Jesus of the Order of Melchisedek](goal17)
+[Next: Chapter XIII. Jesus of the Order of Melchisedek](goal17.md)

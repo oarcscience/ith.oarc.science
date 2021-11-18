@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe339)  [Next](prwe341) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe339)  [Next](prwe341.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ useful to the most curious and inquisitive part of mankind." \[a\]
 
 ------------------------------------------------------------------------
 
-[Next: The Bargest, or Spectre Hound](prwe341)
+[Next: The Bargest, or Spectre Hound](prwe341.md)

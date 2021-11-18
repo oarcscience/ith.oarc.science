@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Egypt](../../egy/index)  [Index](index)  [Previous](stle11) 
-[Next](stle13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Egypt](../../egy/index)  [Index](index)  [Previous](stle11.md) 
+[Next](stle13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stolen Legacy*, by George G. M. James, \[1954\], at Intangible Textual
 Heritage
 
@@ -426,7 +426,7 @@ Egyptians.
 Furthermore, the Greeks were unacquainted with the Egyptian language,
 during the period of the so-called Greek philosophy, dating from the
 sixth century B.C. and as a consequence transliterated Egyptian words
-into Greek without regard to their [Coptic](errata.htm#12) derivatives.
+into Greek without regard to their [Coptic](errata.htm#12.md) derivatives.
 The following Homeric stories verify the practice of the Greeks in the
 transliteration of Egyptian words and the plagiarism of their legends.
 (a) According to Homer, Proteus was a Maritime Divinity feeding his
@@ -533,4 +533,4 @@ the solution of the problem of universal unrest.
 ------------------------------------------------------------------------
 
 [Next: Social Reformation through the New Philosophy of African
-Redemption](stle13)
+Redemption](stle13.md)

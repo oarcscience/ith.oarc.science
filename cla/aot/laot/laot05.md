@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot04) 
-[Next](laot06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot04.md) 
+[Next](laot06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -262,7 +262,7 @@ I FOUND the following to be an account of the sage's stay in Babylon,
 and of all we need to know about Babylon. The fortifications of Babylon
 extend 480 stadia and form a complete circle, and its wall is three half
 *plethrons* high, but less than a *plethron* <span
-id="fr_1"></span>[1](#fn_1) in breadth. And it is cut asunder by the
+id="fr_1"></span>[1](#fn_1.md) in breadth. And it is cut asunder by the
 river Euphrates, into halves of similar shape; and there passes
 underneath the river an extraordinary bridge which joins together by an
 unseen passage the palaces on either bank. For it is said that a woman,
@@ -443,9 +443,9 @@ think the palace worth a glance.
 
 ### Footnotes
 
-<span id="fn_1"></span>[1:75:1](laot05.htm#fr_1) A *plethron* was equal
+<span id="fn_1"></span>[1:75:1](laot05.htm#fr_1.md) A *plethron* was equal
 to 101 English feet.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 31-40](laot06)
+[Next: Chapters 31-40](laot06.md)

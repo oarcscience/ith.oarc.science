@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Next](ebod01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Next](ebod01.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface](ebod01)
+[Next: Preface](ebod01.md)

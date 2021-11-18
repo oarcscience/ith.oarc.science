@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg18)  [Next](btg20) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg18)  [Next](btg20.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ and the Sangha.
 
 ------------------------------------------------------------------------
 
-[Next: Kassapa, The Fire-Worshiper](btg20)
+[Next: Kassapa, The Fire-Worshiper](btg20.md)

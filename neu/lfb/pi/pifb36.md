@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb35)  [Next](pifb37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb35)  [Next](pifb37.md) 
 
 </div>
 
@@ -256,6 +256,6 @@ while her brother became his prime minister.
 
 ------------------------------------------------------------------------
 
-[Next: The Merry Wives](pifb37)
+[Next: The Merry Wives](pifb37.md)
 
 </div>

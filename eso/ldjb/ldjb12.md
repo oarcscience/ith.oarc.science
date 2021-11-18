@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb11)  [Next](ldjb13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb11)  [Next](ldjb13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ class="smallcaps">Manu</span>.</span>
 <span class="smallcaps">God</span> evolves the centre of light from
 eternity to eternity within Himself, and likewise there is in the soul
 of man a desire to penetrate into the second principle and to live in
-the light of God. <span id="fr_105"></span>[1](#fn_105)
+the light of God. <span id="fr_105"></span>[1](#fn_105.md)
 
 "The soul in its substance is a magical gush of fire from the nature of
 God the Father. She is an ardent desire for the light. Thus, God the
@@ -86,7 +86,7 @@ which was the active life therein, became hidden." (*Grace*, vi. 2.)
 If the soul thus permits her true light and life to be extinguished,
 then it naturally follows that her opposite power, the principle of
 wrath, becomes perceptible (conscious) in her. <span
-id="fr_106"></span>[1](#fn_106)
+id="fr_106"></span>[1](#fn_106.md)
 
 "As the word or heart of God takes its origin in the light of the
 majesty, in the eternal fire-tincture of the
@@ -116,7 +116,7 @@ own will." (*Menschwerdung*, i. 2.)
 
 Thus has man, by his withdrawal from God, attracted unto himself the
 wrath of God and opened for himself the kingdom of hell, and he now
-forms in himself hellish figures. <span id="fr_107"></span>[1](#fn_107)
+forms in himself hellish figures. <span id="fr_107"></span>[1](#fn_107.md)
 
 "After Adam had lost the pure and beautiful image, his soul stood then
 only in the quality of the Father; that is to say, in eternal nature,
@@ -157,7 +157,7 @@ devil." (*Threefold Life*, xvii. 10.)
 
 God has, however, given to man protection, so that he may not so easily
 become a devil, and He did this by causing him to enter into external
-terrestrial life. <span id="fr_108"></span>[1](#fn_108)
+terrestrial life. <span id="fr_108"></span>[1](#fn_108.md)
 
 "God caused the soul to enter into flesh and blood, so that she may not
 so very easily become capable to receive the wrath. Thus (during her
@@ -196,7 +196,7 @@ the devil would have been triumphing over it." (*Threefold Life*, viii.
 As the soul of man became captured by the spirit of this world, and as
 she allowed its *tincture* to enter within herself, the terrestrial
 qualities necessarily arose (became pre-eminently active) in him. <span
-id="fr_109"></span>[1](#fn_109)
+id="fr_109"></span>[1](#fn_109.md)
 
 "The poor soul of Adam was made captive by the spirit and principle of
 this world, and allowed the tincture of this world to enter within her."
@@ -210,7 +210,7 @@ Therefore God commanded Adam, when he still was in Paradise, not to eat
 with his imagination from the tree of self-knowledge of good and evil,
 so that he should not sink into suffering and death and die to the
 kingdom of heaven, as has actually occurred." <span
-id="fr_110"></span>[1](#fn_110) (Baptism, i. 22.)
+id="fr_110"></span>[1](#fn_110) (Baptism, i. 22..md)
 
 "The terrestrial quality, which formerly was in Paradise in an
 unmanifested condition, manifested itself by means of the desire of the
@@ -242,12 +242,12 @@ fruit, her body's essence,
 <span id="page_186">p. 186</span>
 
 *i.e.*, the human essence, took in the essence in the tree." <span
-id="fr_111"></span>[1](#fn_111) (*Mysterium*, xx. 29.)
+id="fr_111"></span>[1](#fn_111) (*Mysterium*, xx. 29..md)
 
  
 
 Man hereby lost the life in eternity, and became subject to death. <span
-id="fr_112"></span>[2](#fn_112)
+id="fr_112"></span>[2](#fn_112.md)
 
 "We cannot say of man that in the beginning he was enclosed in time. In
 Paradise he was embraced in eternity. God created him in His image; but
@@ -261,14 +261,14 @@ therefore likewise." (*Signature*, v. 9.)
 "After the fall man with his interior body lived only in time; the
 precious gold of heavenly corporeity, which should tincture, penetrate
 and bless the external body, had lost its colour." <span
-id="fr_113"></span>[3](#fn_113) (*Signature*, v. 8.)
+id="fr_113"></span>[3](#fn_113) (*Signature*, v. 8..md)
 
  
 
 Moreover, the powers of animal life have gained so much room in man, and
 become preponderating in him to such an extent, that in his external
 essence he has become an animal himself. <span
-id="fr_114"></span>[4](#fn_114)
+id="fr_114"></span>[4](#fn_114.md)
 
 <span id="page_187">p. 187</span>
 
@@ -311,7 +311,7 @@ merely animal forms." (*Grace*, vii. 6.)
 
 The senses of man also became of an earthly and animal nature, so that
 he is no longer able to perceive God and that which is divine. <span
-id="fr_115"></span>[1](#fn_115)
+id="fr_115"></span>[1](#fn_115.md)
 
 "When man left the Paradise and entered into another generation, namely,
 into the spirit of this world, into the quality of the sun, the planets
@@ -325,7 +325,7 @@ Heaven, Paradise, and divinity became a mystery to him."
 "The serpent (of desire) said to Eve, 'You will not die; but your eyes
 will be opened, and you will be like God.' It is true that her earthly
 eyes became opened, but her celestial eyes became closed." <span
-id="fr_116"></span>[2](#fn_116) (*Stiefel*, i. 44.)
+id="fr_116"></span>[2](#fn_116) (*Stiefel*, i. 44..md)
 
  
 
@@ -357,7 +357,7 @@ directed towards that which is earthly and animal.
 senses, as we may plainly see at present, both thoughts and senses are
 shaped by an animal will, and it is very difficult for them to arrive at
 a state in which they love God and justice." (*Grace*, vii. 36.) <span
-id="fr_117"></span>[1](#fn_117)
+id="fr_117"></span>[1](#fn_117.md)
 
 "After the fall the creatures (elementals) obtained -power in man and
 arose in him. There are persons who live in the quality of a snake, and
@@ -365,7 +365,7 @@ are full of cunning and poisonous malice; others live in the quality of
 a toad or a dog, a bear or a wolf; or one may have in him the quality of
 some good and tame animal. All men are outwardly formed in the human
 image, but within the quality is seated an animal." <span
-id="fr_118"></span>[2](#fn_118) (*Grace*, vii. 3, 4.)
+id="fr_118"></span>[2](#fn_118) (*Grace*, vii. 3, 4..md)
 
 <span id="page_190">p. 190</span>
 
@@ -429,7 +429,7 @@ according to the law of eternity." (*Threefold Life*, xviii. 7.)
 
 These descendants of man would have issued one from the other, and one
 would have surpassed the other in his qualities and dignity before
-God. <span id="fr_119"></span>[1](#fn_119)
+God. <span id="fr_119"></span>[1](#fn_119.md)
 
 "It is unnecessary to know whether, if man had remained in his original
 state, all (future) individuals would have been the products of one
@@ -449,7 +449,7 @@ But now, after the generative powers, which were formerly
 united in man, appear in a state of separation in males and females,
 each sex seeks within the other the child that is to be generated, and
 strongly desires to unite with the other. <span
-id="fr_120"></span>[1](#fn_120)
+id="fr_120"></span>[1](#fn_120.md)
 
 "In the beginning of creation all was born from one being, and a
 separation of sex took place later on. Therefore each sex strongly
@@ -470,7 +470,7 @@ with each other." (*Three Principles*, viii. 42.)
 This desire, wherein the two sexes are burning in regard to each other,
 is an abomination before God; but if it is governed by faithfulness and
 orderly conjugal love, it is patiently tolerated by the Lord. <span
-id="fr_121"></span>[2](#fn_121)
+id="fr_121"></span>[2](#fn_121.md)
 
 "Conjugal sexual cohabitation is not sinful, because it is in accordance
 with man's human nature. It is incited by the power of nature, and
@@ -497,7 +497,7 @@ best aspect the performance is disgusting before the sanctity of that
 which is divine, it having been caused by sin in consequence of
 primordial man's degradation, but being patiently submitted to by that
 which is divine in man, because it is a necessity of his present animal
-state." <span id="fr_122"></span>[1](#fn_122) (*Stiefel*, ii. 396.)
+state." <span id="fr_122"></span>[1](#fn_122) (*Stiefel*, ii. 396..md)
 
  
 
@@ -505,13 +505,13 @@ It is an error to suppose that one person is a descendant from others
 merely as far as his corporeal form is concerned. The human soul is
 likewise generated in that manner. If the heart were absent even the
 body could not come into existence. <span
-id="fr_123"></span>[2](#fn_123)
+id="fr_123"></span>[2](#fn_123.md)
 
 "The soul is not every time created anew and breathed into the body, but
 she is reproduced according to human natural law, like a branch growing
 out of the trunk of a tree, or as a kernel or seed that is sown. Thus
 the soul is sown that it may grow to be a spirit and body." <span
-id="fr_124"></span>[3](#fn_124) (*Forty Questions*, x. 4.)
+id="fr_124"></span>[3](#fn_124) (*Forty Questions*, x. 4..md)
 
 <span id="page_194">p. 194</span>
 
@@ -532,7 +532,7 @@ Questions*, xi. 3.)
 
 In so far as by the connubial act a soul is generated, there is in it
 even something of a paradisiacal nature. <span
-id="fr_125"></span>[1](#fn_125)
+id="fr_125"></span>[1](#fn_125.md)
 
 "While Adam remained in the love of God, and the woman (the female
 principle) in him was a chaste virgin, the *tincture* of the fire (in
@@ -559,7 +559,7 @@ are full of desire for that true life, and when they again meet with
 each other in the unity of all being, they then awaken the true life to
 which their desire is directed. They want to be again that which they
 were in the image of God when Adam was man *and* woman." <span
-id="fr_126"></span>[1](#fn_126) (*Stiefel*, ii. 388.)
+id="fr_126"></span>[1](#fn_126) (*Stiefel*, ii. 388..md)
 
 "When the two tinctures are brought together into one, then the quality
 of the eternal kingdom of joy, the highest desire and its fulfilment,
@@ -572,8 +572,8 @@ disgust in the sight of true holiness." (*Stiefel*, ii. 402.)
 
 During the connubial act a divine interaction takes place; but there are
 also influences coming from the terrestrial and the satanic worlds. More
-[especially](errata.htm#1) is the nature of the child dependent on the
-quality of its parents. <span id="fr_127"></span>[2](#fn_127)
+[especially](errata.htm#1.md) is the nature of the child dependent on the
+quality of its parents. <span id="fr_127"></span>[2](#fn_127.md)
 
 <span id="page_196">p. 196</span>
 
@@ -600,7 +600,7 @@ image." (*Forty Questions*, v. 1.)
 the power of the devil, a soul inclined to evil will be sown. It would
 be well for parents to remember this fact. You are saving up money for
 your children, but if you would furnish them with a good soul, that
-would be more useful to them." <span id="fr_128"></span>[1](#fn_128)
+would be more useful to them." <span id="fr_128"></span>[1](#fn_128.md)
 (*Forty Questions*, x. 7–9.)
 
 <span id="page_197">p. 197</span>
@@ -614,7 +614,7 @@ Turba; for Christ says, 'A good tree cannot bring forth evil fruit.'"
 
 Each soul, however, is an individual being, and therefore a child born
 from bad parents can again turn to God, or the reverse of this may take
-place. <span id="fr_129"></span>[1](#fn_129)
+place. <span id="fr_129"></span>[1](#fn_129.md)
 
 "Although the soul is a branch from the tree, she is, nevertheless, an
 individual being. Therefore a child, after being born, has a life of its
@@ -626,25 +626,25 @@ Questions*, vi. 2.)
 means of its imagination, and enter into the *Word* of the Lord. This
 rarely takes place, but it is nevertheless possible. God throws no soul
 away, unless the soul throws herself away. Each soul judges
-herself." <span id="fr_130"></span>[2](#fn_130) (*Forty Questions*, x.
+herself." <span id="fr_130"></span>[2](#fn_130.md) (*Forty Questions*, x.
 6–8.)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_105"></span>[180:1](ldjb12.htm#fr_105) It is the principle
+<span id="fn_105"></span>[180:1](ldjb12.htm#fr_105.md) It is the principle
 of light in man that causes him to seek for the light, and to desire
 that it should become manifest. If man were something entirely different
 from God, and had consequently nothing divine in him, he would be an
 atheist, incapable of conceiving of justice or truth, and have neither
 any desire nor understanding for that which is divine.
 
-<span id="fn_106"></span>[181:1](ldjb12.htm#fr_106) In proportion as the
+<span id="fn_106"></span>[181:1](ldjb12.htm#fr_106.md) In proportion as the
 will of man is not controlled by reason, that will becomes unreasonable
 and follows its lower impulses.
 
-<span id="fn_107"></span>[182:1](ldjb12.htm#fr_107) To express this in
+<span id="fn_107"></span>[182:1](ldjb12.htm#fr_107.md) To express this in
 other words, we may say that the will of man ceased to act within his
 own higher nature, *i.e.*, the celestial virgin of divine wisdom,
 wherein his power was united to sweetness, and became active within the
@@ -652,7 +652,7 @@ lower and animal elements of his constitution, so that brute passion
 took the place of divine self-conscious will. This animal will produces
 corresponding animal images in his soul.
 
-<span id="fn_108"></span>[183:1](ldjb12.htm#fr_108) If man's imagination
+<span id="fn_108"></span>[183:1](ldjb12.htm#fr_108.md) If man's imagination
 were not excited by the pictorial representations which the objects of
 the surrounding world call forth in his mind by means of his external
 senses, but if his mental activity were restricted to forming images by
@@ -661,16 +661,16 @@ bride has departed, would cause him to become self-conscious in evil.
 For this reason asceticism without divine wisdom leads to the
 acquisition of the powers of black magic.
 
-<span id="fn_109"></span>[184:1](ldjb12.htm#fr_109) Man became an
+<span id="fn_109"></span>[184:1](ldjb12.htm#fr_109.md) Man became an
 organism wherein the powers of nature are acting, and in identifying
 himself with nature he began to enjoy and to suffer with her.
 
-<span id="fn_110"></span>[185:1](ldjb12.htm#fr_110) Man's constitution
+<span id="fn_110"></span>[185:1](ldjb12.htm#fr_110.md) Man's constitution
 resembles a garden, wherein all kinds of seeds, good and evil, are sown.
 Those which he cultivates or permits to glow will become predominant in
 him.
 
-<span id="fn_111"></span>[186:1](ldjb12.htm#fr_111) If "Eve" had not
+<span id="fn_111"></span>[186:1](ldjb12.htm#fr_111.md) If "Eve" had not
 plucked the fruit from the tree of knowledge for "Adam," that is to say,
 if he had not desired it merely in his imagination, but plucked the
 fruit himself by entering therein with his own fiery will, the
@@ -678,13 +678,13 @@ consequences would have been still more disastrous to him. The universal
 man (Adam) would then have become a devil, instead of a semi-animal
 human being.
 
-<span id="fn_112"></span>[186:2](ldjb12.htm#fr_112) This does not mean
+<span id="fn_112"></span>[186:2](ldjb12.htm#fr_112.md) This does not mean
 to say that the true divine and immortal man did lose his immortality;
 but man in his aspect as a human being became unconscious of his
 immortality, and is now seeking for external proof for the purpose of
 becoming convinced that there may be something immortal in him.
 
-<span id="fn_113"></span>[186:3](ldjb12.htm#fr_113) The more of man
+<span id="fn_113"></span>[186:3](ldjb12.htm#fr_113.md) The more of man
 identifies itself with the body and its lower principles, the more of
 him will die. That part of man which identifies itself with the immortal
 part within becomes immortal with the latter. Man should, therefore, not
@@ -692,7 +692,7 @@ identify himself in thought and will with the lower elements in his
 constitution, but employ the powers of the latter for the unfoldment of
 his spirituality.
 
-<span id="fn_114"></span>[186:4](ldjb12.htm#fr_114) As the whole of the
+<span id="fn_114"></span>[186:4](ldjb12.htm#fr_114.md) As the whole of the
 animal kingdom exists in macrocosmic man, likewise <span
 id="page_187">p. 187</span> the representative forms or germs of all
 animals exist in the animal soul of microcosmic man, and they grow and
@@ -700,24 +700,24 @@ become predominant in him according to his predominant animal tendencies
 or desires. They are the elementals which take possession of godless man
 and render him subservient to their will.
 
-<span id="fn_115"></span>[188:1](ldjb12.htm#fr_115) If man were truly to
+<span id="fn_115"></span>[188:1](ldjb12.htm#fr_115.md) If man were truly to
 realise his own divine state, there is no power that would retain him
 against his will in his semi-animal body. He would then be the god which
 in the course of ages he aspires to become.
 
-<span id="fn_116"></span>[188:2](ldjb12.htm#fr_116) In the same sense,
+<span id="fn_116"></span>[188:2](ldjb12.htm#fr_116.md) In the same sense,
 the more we cling to merely external pursuits, the more are we liable to
 lose the power of the true recognition of internal truth, and for this
 reason we usually find the least amount of spirituality and intuition
 among those that are very learned. The more we close our eyes and
 speculate, the less shall we become capable to see.
 
-<span id="fn_117"></span>[189:1](ldjb12.htm#fr_117) If the senses of man
+<span id="fn_117"></span>[189:1](ldjb12.htm#fr_117.md) If the senses of man
 were educated to love that which is true and divine, then would the
 inner realm become opened to their perception, and man would know
 "supersensual things."
 
-<span id="fn_118"></span>[189:2](ldjb12.htm#fr_118) Every character,
+<span id="fn_118"></span>[189:2](ldjb12.htm#fr_118.md) Every character,
 when it is to be expressed, finds its expression in a certain form. All
 the animals in this world are incarnations of certain characters, and
 likewise the qualities of animal man are expressed in his animal soul
@@ -731,21 +731,21 @@ born and grow. The conditions of these animal elementals in the
 constitution of man are some of those causes of his bodily ills of which
 modern medical science is entirely ignorant.
 
-<span id="fn_119"></span>[191:1](ldjb12.htm#fr_119) This is the way in
+<span id="fn_119"></span>[191:1](ldjb12.htm#fr_119.md) This is the way in
 which the "personalities" mentioned in the Book Genesis were "begotten."
 
-<span id="fn_120"></span>[192:1](ldjb12.htm#fr_120) Since the "woman"
+<span id="fn_120"></span>[192:1](ldjb12.htm#fr_120.md) Since the "woman"
 has issued from man, his manner of reproduction has necessarily become
 an external and animal one, and will continue to be so until the true
 divine marriage has taken place, by which the Will of man becomes again
 one with the goddess of wisdom.
 
-<span id="fn_121"></span>[192:2](ldjb12.htm#fr_121) Each sex seeks
+<span id="fn_121"></span>[192:2](ldjb12.htm#fr_121.md) Each sex seeks
 within the other that of which it is itself deficient, and therefore,
 seen from the spiritual point of view, all sexual "love" may be regarded
 as a manifestation of selfishness.
 
-<span id="fn_122"></span>[193:1](ldjb12.htm#fr_122) "Sin" is that which
+<span id="fn_122"></span>[193:1](ldjb12.htm#fr_122.md) "Sin" is that which
 constitutes a disobedience against the will of God, which is also the
 law of nature. He who resists the law of nature without being able to
 rise above his own animal nature commits a crime against nature, and
@@ -755,11 +755,11 @@ affected by the laws that govern that animal nature, and no resistance
 will be needed, as the desires of the flesh do not affect the spirit
 that is not identified with the flesh.
 
-<span id="fn_123"></span>[193:2](ldjb12.htm#fr_123) Here Jacob Boehme
+<span id="fn_123"></span>[193:2](ldjb12.htm#fr_123.md) Here Jacob Boehme
 evidently refers to the human soul, the *Manas*, and not to the
 *Buddhi*, or spiritual soul, which overshadows each new incarnation.
 
-<span id="fn_124"></span>[193:3](ldjb12.htm#fr_124) The spiritual soul
+<span id="fn_124"></span>[193:3](ldjb12.htm#fr_124.md) The spiritual soul
 in man has its origin in God, and its individual qualities are gathered
 from the efflorescence of its experiences in previous <span
 id="page_194">p. 194</span>incarnations; but the human and animal soul
@@ -767,7 +767,7 @@ are the products of the mental and astral influences acting through the
 bodies of the parents; while the visible material form is made of the
 elements of the earth.
 
-<span id="fn_125"></span>[194:1](ldjb12.htm#fr_125) The highest sensual
+<span id="fn_125"></span>[194:1](ldjb12.htm#fr_125.md) The highest sensual
 pleasure which human beings can possibly enjoy is experienced by them
 during the connubial act; but as this act constitutes the exercise of
 the highest power which is still within man's dominion, namely, the
@@ -775,7 +775,7 @@ power to create a being like unto himself, therefore this power should
 not be prostituted for baser motives, such as the gratification of
 sensual desire.
 
-<span id="fn_126"></span>[195:1](ldjb12.htm#fr_126) In the male is
+<span id="fn_126"></span>[195:1](ldjb12.htm#fr_126.md) In the male is
 represented especially the fiery essence (the will or obstinacy), in the
 female the essence of light (spirituality or gentleness). The sexual
 distinctions, however, do not belong to the external body exclusively,
@@ -787,7 +787,7 @@ meet with male persons apparently inhabited by a female soul with female
 tastes and tendencies, and vice versa; and in such persons there are
 sometimes manifest apparently inexplicable sexual perversities.
 
-<span id="fn_127"></span>[195:2](ldjb12.htm#fr_127) It should always be
+<span id="fn_127"></span>[195:2](ldjb12.htm#fr_127.md) It should always be
 remembered that man's constitution is not the <span id="page_196">p.
 196</span> result of the action of only one principle, but of three,
 manifesting themselves in the seven qualities of eternal nature, in
@@ -796,7 +796,7 @@ expression of only one principle, but of three. His spirit is from the
 innermost fountain, his soul from the internal world, his body from
 external nature.
 
-<span id="fn_128"></span>[196:1](ldjb12.htm#fr_128) The absence of words
+<span id="fn_128"></span>[196:1](ldjb12.htm#fr_128.md) The absence of words
 in modern languages for expressing internal facts in a comprehensible
 manner leads to a continual confusion of terms. Thus the term "soul"
 refers here not to the divine soul that originates directly from God,
@@ -807,7 +807,7 @@ we are always exposed to mistaking the leaves of the tree of life for
 the branches, and the branches for the trunk, and the trunk for the
 roots.
 
-<span id="fn_129"></span>[197:1](ldjb12.htm#fr_129) Each soul
+<span id="fn_129"></span>[197:1](ldjb12.htm#fr_129.md) Each soul
 constitutes an individual, but for all that not an independent, part of
 the tree of life. The trunk (Christ) remains, but the leaves (the
 personalities of men and women) drop off. The branches (the individual
@@ -820,7 +820,7 @@ leaves reappear upon the same tree, but the spirit of man (his higher
 personalities in whom is expressed the power which the spirit receives
 from God.
 
-<span id="fn_130"></span>[197:2](ldjb12.htm#fr_130) Each soul is
+<span id="fn_130"></span>[197:2](ldjb12.htm#fr_130.md) Each soul is
 receptive of good and evil influences, but especially to such as are
 predominant in her own nature. Whether or not a soul will inherit the
 desire or power to overcome the evil in her own constitution, or whether
@@ -831,6 +831,6 @@ by her in previous incarnations.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Christ](ldjb13)
+[Next: Chapter X. The Christ](ldjb13.md)
 
 </div>

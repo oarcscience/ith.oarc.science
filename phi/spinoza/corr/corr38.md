@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr37)  [Next](corr39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr37)  [Next](corr39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -90,4 +90,4 @@ Voorburg, 7 Jan., 1666.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XL. To Huyghens](corr39)
+[Next: Letter XL. To Huyghens](corr39.md)

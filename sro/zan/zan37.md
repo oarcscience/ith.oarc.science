@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](zan36)  [Next](zan38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](zan36)  [Next](zan38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Zanoni*, by Edward Bulwer Lytton, \[1842\], at Intangible Textual
 Heritage
 
@@ -216,4 +216,4 @@ Prince di—.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](zan38)
+[Next: Chapter XIV](zan38.md)

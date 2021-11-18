@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww00)  [Next](lww02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww00)  [Next](lww02.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ had better turn in now--I shall tell you the rest in the morning."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II--The Caswalls of Castra Regis](lww02)
+[Next: Chapter II--The Caswalls of Castra Regis](lww02.md)

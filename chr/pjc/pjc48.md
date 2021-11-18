@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc47)  [Next](pjc49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc47)  [Next](pjc49.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -127,4 +127,4 @@ veneration of the faithful.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXV. The fourth and fifth Falls of Jesus.--The Daughters
-of Jerusalem](pjc49)
+of Jerusalem](pjc49.md)

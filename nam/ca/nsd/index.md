@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,8 +22,8 @@ American](../../index)  [California](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](nsd00)    [Page
-Index](pageidx)    [Text \[Zipped\]](nsdtxt.zip)
+[Contents](#contents)    [Start Reading](nsd00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](nsdtxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -33,15 +33,15 @@ the dean of Native Californian linguistics.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](nsd00)  
-[Contents](nsd01)  
-[Introduction](nsd02)  
-[Cahuilla](nsd03)  
-[Agua Caliente](nsd04)  
-[San Juan Capistrano](nsd05)  
-[Gabrielino](nsd06)  
-[Serrano](nsd07)  
-[Chemehuevi](nsd08)  
-[Kern River](nsd09)  
-[Giamina](nsd10)  
-[General Comparisons](nsd11)  
+<span id="contents"></span> [Title Page](nsd00.md)  
+[Contents](nsd01.md)  
+[Introduction](nsd02.md)  
+[Cahuilla](nsd03.md)  
+[Agua Caliente](nsd04.md)  
+[San Juan Capistrano](nsd05.md)  
+[Gabrielino](nsd06.md)  
+[Serrano](nsd07.md)  
+[Chemehuevi](nsd08.md)  
+[Kern River](nsd09.md)  
+[Giamina](nsd10.md)  
+[General Comparisons](nsd11.md)  

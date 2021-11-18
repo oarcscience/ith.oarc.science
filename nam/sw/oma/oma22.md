@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma21)  [Next](oma23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma21)  [Next](oma23.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ katsina again. They found out who these mockers were; the War chief
 found out their names. He remembered how the katsina had come and beaten
 and killed the people when they had mocked them before, so he thought
 that the best way to punish these people was to dramatize this battle of
-the katsina. <span id="fr_159"></span>[60](#fn_159) So Country Chief
+the katsina. <span id="fr_159"></span>[60](#fn_159.md) So Country Chief
 called a council of all the people who knew about the katsina, Antelope
 Man, and the chaianyi. At this meeting Country Chief told them they were
 to do this even if it meant the lives of some of their relatives or
@@ -36,7 +36,7 @@ not run over them and not run against the staff. (The katsina must
 respect this staff. If a katsina touches a staff and another katsina
 sees him, the second katsina will jump at the first and beat him.)
 Antelope Man also made an i'chini' <span
-id="fr_160"></span>[61](#fn_160) (a wall made of skins of buffalo). This
+id="fr_160"></span>[61](#fn_160) (a wall made of skins of buffalo.md). This
 was to represent the pueblo. It was understood that the katsina were to
 whip this ichini and thus symbolically to whip the people. They were not
 actually to strike the people themselves at all. The ichini was to be
@@ -49,7 +49,7 @@ as these mockers were to be killed.
 The Corn clan was also asked to call all its members to help at this
 time. They were to carry the ichini, to set it up, and hold it. The ones
 who were to impersonate the katsina killed deer <span
-id="fr_161"></span>[62](#fn_161) and took some of the blood into the
+id="fr_161"></span>[62](#fn_161.md) and took some of the blood into the
 kiva and distributed it among the members who were to act as katsina.
 They filled with blood the intestine of a deer which they were to wear
 around the neck. (All this was planned in kiva.) The twins Masewi and
@@ -85,12 +85,12 @@ were to be buried with their masks on in the wilderness. (This fighting
 among the katsina as they approach the village is real; they work
 themselves up into a frenzy. Here grudges and personal disagreements are
 worked out and several are killed in this fighting. <span
-id="fr_162"></span>[63](#fn_162) Men who are killed are never mentioned
+id="fr_162"></span>[63](#fn_162.md) Men who are killed are never mentioned
 again by anyone. They are just forgotten. In the plaza only the heretics
 are killed, and while now and then a katsina gratifies a personal grudge
 against a heretic, these cases are exceptional.)
 
-(Every year, <span id="fr_163"></span>[64](#fn_163) at the season the
+(Every year, <span id="fr_163"></span>[64](#fn_163.md) at the season the
 katsina were killed, katsina are believed to die for three 10's (30
 days) and then come to life. At this time the Antelope clan set their
 altar on the 28th day and say prayers for the Katsina to come alive, and
@@ -104,10 +104,10 @@ morning they went further out into the country and all hid in one place
 (4 or 5 miles distant from the town). In the pueblo, too, the people
 were making preparations. They made prayer sticks and painted up, both
 men and women of the Antelope clan, and put feather down on their heads.
-They were painted "strawberry" <span id="fr_164"></span>[65](#fn_164)
+They were painted "strawberry" <span id="fr_164"></span>[65](#fn_164.md)
 all over but the face. Then the ichini was brought out. The women of
 Antelope clan were given each a staff (yapi) ([pl. 14, fig.
-1](oma47.htm#img_pl14a), *c*). Masewi blessed the ichini, giving it
+1](oma47.htm#img_pl14a), *c*.md). Masewi blessed the ichini, giving it
 power. When the time came they also called Shuracha, katsina of the Corn
 clan.
 
@@ -137,7 +137,7 @@ hard as they could to kill as many people as
 <span id="img_07300"></span>
 
 [![FIGURE 6.--Diagram of ichini and people in front.](tn/07300.jpg)  
-Click to enlarge](img/07300.jpg)  
+Click to enlarge](img/07300.jpg.md)  
 FIGURE 6.--Diagram of ichini and people in front.  
 
  
@@ -153,7 +153,7 @@ in front, holding the staffs to guard the village. (Men and women
 alternated.) Tsitsanits was ahead and was first to reach the ichini. The
 men in front lot him through and he leaned against the ichini and rubbed
 his back against it to gain strength and courage. (Compare pp.
-[41](oma14.htm#page_41), [63](oma18.htm#page_63).)
+[41](oma14.htm#page_41), [63](oma18.htm#page_63)..md)
 
 At first the men were in front. Then, after Tsitsanits came in, they
 fell back into the "wings," or lines of women. The katsina rushed up to
@@ -197,7 +197,7 @@ could not get at him. Masewi and Oyoyewi then attacked the katsina and
 cut their throats. Their heads sank down and they fell to earth
 blood-soaked, simulating death. While lying on the ground they prayed
 that the blood give new strength to the earth, <span
-id="fr_165"></span>[66](#fn_165) that the earth produce more.
+id="fr_165"></span>[66](#fn_165.md) that the earth produce more.
 
 After Masewi and Oyoyewi had killed all the katsina they took out their
 staff and arrowhead, the medicine Sun had given them and, going back to
@@ -215,55 +215,55 @@ the village. They buried them out in the desert. They did this to make
 the people believe more strictly in the katsina. The Antelope people
 then took down the ichini, took it apart, and put it away. The Shuracha,
 who were dancing all this time, were dismissed and left. <span
-id="fr_166"></span>[67](oma23.htm#fn_166)--This is the way they passed
+id="fr_166"></span>[67](oma23.htm#fn_166.md)--This is the way they passed
 their time at Washpashuka.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_155"></span>[70:56](oma21.htm#fr_155) Cf. White, 1932, p.
+<span id="fn_155"></span>[70:56](oma21.htm#fr_155.md) Cf. White, 1932, p.
 79; 1942.
 
-<span id="fn_156"></span>[70:57](oma21.htm#fr_156) Cf. White, 1922, pp.
+<span id="fn_156"></span>[70:57](oma21.htm#fr_156.md) Cf. White, 1922, pp.
 94-96, pl. 2, b.
 
-<span id="fn_157"></span>[70:58](oma21.htm#fr_157) For K’o·muDina, see
+<span id="fn_157"></span>[70:58](oma21.htm#fr_157.md) For K’o·muDina, see
 White, 1932, pp. 94-96.
 
-<span id="fn_158"></span>[70:59](oma21.htm#fr_158) The Keresan term is
+<span id="fn_158"></span>[70:59](oma21.htm#fr_158.md) The Keresan term is
 kokwi'mα. Gunn speaks of the Storoka as "koquima, or hermaphrodite"
 (Gunn, 1917,p.173). In the Kyanakwe ceremony of Zuñi, which has been
 equated with the Storoka, the kachina transvestite, Kothlama, appears.
 (See White, 1942.)
 
-<span id="fn_159"></span>[70:60](oma22.htm#fr_159) Cf. White, 1932, pp.
+<span id="fn_159"></span>[70:60](oma22.htm#fr_159.md) Cf. White, 1932, pp.
 88-94. No other Keresan pueblo has this ceremony so far as is known.
 
-<span id="fn_160"></span>[71:61](oma22.htm#fr_160) House. See [p.
-73](#page_73).
+<span id="fn_160"></span>[71:61](oma22.htm#fr_160.md) House. See [p.
+73](#page_73.md).
 
-<span id="fn_161"></span>[71:62](oma22.htm#fr_161) A sheep, today (see
+<span id="fn_161"></span>[71:62](oma22.htm#fr_161.md) A sheep, today (see
 White, 1932, p. 89).
 
-<span id="fn_162"></span>[72:63](oma22.htm#fr_162) I am reminded of the
+<span id="fn_162"></span>[72:63](oma22.htm#fr_162.md) I am reminded of the
 interbarrio or interhacienda fiesta fighting of Mexico or Ecuador.--E.
 C.
 
-<span id="fn_163"></span>[72:64](oma22.htm#fr_163) This ceremony was not
+<span id="fn_163"></span>[72:64](oma22.htm#fr_163.md) This ceremony was not
 held every year, but every 5 or 6 years (White, 1922, p. 88.)
 
-<span id="fn_164"></span>[72:65](oma22.htm#fr_164) The Antelope people
+<span id="fn_164"></span>[72:65](oma22.htm#fr_164.md) The Antelope people
 paint themselves pink all over their bodies; their faces are painted
 with ya‘katca (reddish brown) and with stcamu·n (black, sparkling) put
 on over the red under their eyes. The house of Antelope clan (or
 cacique's house) at Acoma is pink, too (White, 1932, pp. 42-43, 91).
 
-<span id="fn_165"></span>[74:66](oma22.htm#fr_165) "This \[blood\] is a
+<span id="fn_165"></span>[74:66](oma22.htm#fr_165.md) "This \[blood\] is a
 sacrifice to the earth" (White, 1932, p. 92). Compare the belief that
 rooster blood, spilled in the "chicken pull," is "good for rain" (White,
 1932, p. 106).
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part XIV](oma23)
+[Next: Wanderings, Part XIV](oma23.md)

@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw004) [Next](scw02)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw004) [Next](scw02.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -587,4 +587,4 @@ But do thou never ask me who my Mother is.<br />
 
 ------------------------------------------------------------------------
 
-[Next](scw02)
+[Next](scw02.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr41)  [Next](corr43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr41)  [Next](corr43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 ### LETTER XLII. (XXXVII.)
 
-#### SPINOZA TO I. B. <span id="fr_55"></span>[1](#fn_54)
+#### SPINOZA TO I. B. <span id="fr_55"></span>[1](#fn_54.md)
 
 \[*Concerning the best method, by which we may safely arrive at the
 knowledge of things*.\]
@@ -80,7 +80,7 @@ Voorburg, 10 June, 1666.
 
 ### Footnotes
 
-<span id="fn_54"></span>[360:1](corr42.htm#fr_55) I. B. has been
+<span id="fn_54"></span>[360:1](corr42.htm#fr_55.md) I. B. has been
 identified by some with John Bredenburg, a citizen of Rotterdam, who
 translated into Latin (1675) a Dutch attack on the Tractatus
 Theologico-Politicus, but the tone of the letter renders this
@@ -90,4 +90,4 @@ Philosophy."
 
 ------------------------------------------------------------------------
 
-[Next: Letter XLIII. To I. v. M. (omitted)](corr43)
+[Next: Letter XLIII. To I. v. M. (omitted)](corr43.md)

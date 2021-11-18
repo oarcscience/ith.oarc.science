@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Next](eci01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Next](eci01.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ethnography of the Cahuilla Indians*, by A. L. Kroeber, \[1908\], at
 Intangible Textual Heritage
 
@@ -37,4 +37,4 @@ because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](eci01)
+[Next: Contents](eci01.md)

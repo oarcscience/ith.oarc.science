@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](cou15)  [Next](cou17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](cou15)  [Next](cou17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cloud of Unknowing*, ed. by Evelyn Underhill, \[1922\], at
 Intangible Textual Heritage
 
@@ -48,4 +48,4 @@ id="an_xvii-Page_113"></span>
 ------------------------------------------------------------------------
 
 [Next: Chapter 12: That by Virtue of this word sin is not only
-destroyed, but also virtues begotten.](cou17)
+destroyed, but also virtues begotten.](cou17.md)

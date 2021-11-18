@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb05)  [Next](mlb07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb05)  [Next](mlb07.md) 
 
 ------------------------------------------------------------------------
 
@@ -578,4 +578,4 @@ some of which will be given in the next chapter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Mortals Who Have Ascended to Heaven](mlb07)
+[Next: Chapter V: Mortals Who Have Ascended to Heaven](mlb07.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda20)  [Next](nda22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda20)  [Next](nda22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Anderson, \[1906\], at Intangible Textual Heritage
 A. D. 1011.
 
 FREYDIS CAUSES THE BROTHERS TO BE KILLED. <span
-id="fr_34"></span>[1](#fn_34)
+id="fr_34"></span>[1](#fn_34.md)
 
 Now began people again to talk about expeditions to Vinland, for voyages
 thereto appeared both profitable and honourable. The same summer that
@@ -166,7 +166,7 @@ here.
 
 ### Footnotes
 
-<span id="fn_34"></span>[231:1](nda21.htm#fr_34) This narrative is
+<span id="fn_34"></span>[231:1](nda21.htm#fr_34.md) This narrative is
 contained in the Saga of Erik the Red (Antiq. Amer. p. 65, seq.) but has
 been transferred to this place, as well to make the chronological order
 of the various voyages more perspicuous, as on account of the further
@@ -174,4 +174,4 @@ particulars relating to Karlsefni and Gudrid, with which it concludes.
 
 ------------------------------------------------------------------------
 
-[Next: Geographical Notices in Ancient Icelandic Manuscripts](nda22)
+[Next: Geographical Notices in Ancient Icelandic Manuscripts](nda22.md)

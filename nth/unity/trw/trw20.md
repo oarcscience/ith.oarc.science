@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](trw19)  [Next](trw21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](trw19)  [Next](trw21.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *The Revealing Word*, by Charles Fillmore, \[1959\], at Intangible
 Textual Heritage
 
@@ -748,4 +748,4 @@ thought bred in us by tradition, education, and inheritance.
 
 ------------------------------------------------------------------------
 
-[Next: T](trw21)
+[Next: T](trw21.md)

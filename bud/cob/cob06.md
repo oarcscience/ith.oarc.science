@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cob05)  [Next](cob07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cob05)  [Next](cob07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Buddha*, by Edmond Holmes, \[1919\], at Intangible Textual
 Heritage
 
@@ -24,7 +24,7 @@ Heritage
 I N the Sixth Century before the birth of Christ, India, which had long
 been seething and fermenting with spiritual thought, gave to the world a
 great teacher. The son of an Indian chieftain, Gaudama Buddha <span
-id="fr_11"></span>[1](#fn_11) strove for many years to find that inward
+id="fr_11"></span>[1](#fn_11.md) strove for many years to find that inward
 illumination on "great matters," which was the cherished dream of every
 serious thinker in that remarkable era. After having followed, to no
 purpose, the paths of metaphysical speculation, of mental discipline,
@@ -89,7 +89,7 @@ also assume with confidence
 
 <span id="page_63">p. 63</span>
 
-that tradition has faithfully [preserved](errata.htm#1) that part of his
+that tradition has faithfully [preserved](errata.htm#1.md) that part of his
 teaching in which he gave reasons for the faith that was in him. It is
 certain that he urged men to enter and walk in the path in order that,
 by extinguishing all desire for earthly things, they might win
@@ -197,7 +197,7 @@ go, expelling it, separating oneself from it, giving it no room.
 extinction of suffering; it is this sacred, eightfold path, to wit,
 Right Faith, Right Resolve, Right Speech, Right Action, Right Living,
 Right Effort, Right Thought, Right Self-Concentration." <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 This is the Four-fold Truth, on which Buddha's whole scheme of life is
 hinged. Let us try to set it forth in other and fewer words:
@@ -269,13 +269,13 @@ turns therefrom, he becomes free from desire; by the cessation of desire
 he obtains deliverance; in the delivered there arises a consciousness of
 his deliverance; rebirth is extinct, holiness is completed, duty is
 accomplished; there is no more a return to this world, he knows." <span
-id="fr_13"></span>[1](#fn_13)
+id="fr_13"></span>[1](#fn_13.md)
 
  
 
 We now understand what the desire is that generates suffering, and why
 it generates it. It is the desire for what does not belong to
-"self"--the real self <span id="fr_14"></span>[2](#fn_14)--that
+"self"--the real self <span id="fr_14"></span>[2](#fn_14.md)--that
 generates suffering; and the
 
 <span id="page_69">p. 69</span>
@@ -589,7 +589,7 @@ not one that he passes or leaves aside, but regards them all with mind
 set free and deep-felt love." The exercise is then repeated,
 substituting each time for love, first pity, then sympathy, then
 equanimity. By this means the strength of the fifth fetter is gradually
-weakened, and at last destroyed. <span id="fr_15"></span>[1](#fn_15)
+weakened, and at last destroyed. <span id="fr_15"></span>[1](#fn_15.md)
 
  
 
@@ -639,7 +639,7 @@ When the last fetter has been broken, the disciple--the "Arahat" or
 
 <span id="page_81">p. 81</span>
 
-has attained to a state of perfect <span id="fr_16"></span>[1](#fn_16)
+has attained to a state of perfect <span id="fr_16"></span>[1](#fn_16.md)
 knowledge, perfect love, perfect peace, perfect bliss.
 
 There is something esoteric, one feels inclined to say, in this Path of
@@ -787,7 +787,7 @@ life to life, until they have exhausted their influence.
 
 "The Books say well, my Brother! each man's life  
 The outcome of his former living is." <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 </div>
 
@@ -808,7 +808,7 @@ and most suitable for its development.
 Was corn. The Silence and the Darkness knew!  
     So is a man's fate born.  
 "He cometh, reaper of the things he sowed, . . . " <span
-id="fr_18"></span>[1](#fn_17)
+id="fr_18"></span>[1](#fn_17.md)
 
 </div>
 
@@ -1012,11 +1012,11 @@ looked for. External penalties are not to be feared.
 
 <div style="margin-left: 32px">
 
-It <span id="fr_19"></span>[1](#fn_18) knows not wrath nor pardon; utter
+It <span id="fr_19"></span>[1](#fn_18.md) knows not wrath nor pardon; utter
 true  
 Its measures mete, its faultless balance weighs;  
 Times are as nought, to-morrow it will judge,  
-Or after many days. <span id="fr_20"></span>[2](#fn_19)
+Or after many days. <span id="fr_20"></span>[2](#fn_19.md)
 
 </div>
 
@@ -1032,7 +1032,7 @@ the erring steps must, *at whatever cost*, be retraced. *Must* be
 retraced,--for all the forces of Nature are making for the growth of the
 soul, as surely as in springtime all the forces of Nature are making for
 the outgrowth of flower and leaf. It is Nature <span
-id="fr_21"></span>[3](#fn_20) herself that, acting through his sense of
+id="fr_21"></span>[3](#fn_20.md) herself that, acting through his sense of
 right and wrong, constrains him who has left the Path to seek to regain
 it. But the Path is not to be regained, except by a steep and arduous
 ascent;
@@ -1078,13 +1078,13 @@ wife or child. The austere inwardness of his teaching had its
 counterpart, as we shall presently see, in a deep silence about what is
 ultimate and innermost, a silence which he must have imposed upon
 himself at the beginning of his long ministry, and which he never
-broke. <span id="fr_22"></span>[1](#fn_21)
+broke. <span id="fr_22"></span>[1](#fn_21.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_11"></span>[60:1](cob06.htm#fr_11) Gaudama (or Gotama), the
+<span id="fn_11"></span>[60:1](cob06.htm#fr_11) Gaudama (or Gotama.md), the
 Enlightened One. I ought, in strictness, to call this book "The Creed of
 Gaudama Buddha," just as I ought to have called my study of Christ's
 ideas "The Creed of Jesus Christ." My reason for speaking of the Founder
@@ -1097,22 +1097,22 @@ One, is commonly spoken of as Christ, so Gaudama, the Buddha or
 Enlightened One, is commonly spoken of, and may, without impropriety, be
 spoken of, as Buddha.
 
-<span id="fn_12"></span>[66:1](cob06.htm#fr_12) "Buddha," by Herman
+<span id="fn_12"></span>[66:1](cob06.htm#fr_12.md) "Buddha," by Herman
 Oldenberg. Translated by W. Hoey.
 
-<span id="fn_13"></span>[68:1](cob06.htm#fr_13) "Buddha," by Herman
+<span id="fn_13"></span>[68:1](cob06.htm#fr_13.md) "Buddha," by Herman
 Oldenberg. Translated by W. Hoey.
 
-<span id="fn_14"></span>[68:2](cob06.htm#fr_14) The distinction between
+<span id="fn_14"></span>[68:2](cob06.htm#fr_14.md) The distinction between
 the higher and the lower, the real and the apparent self, is at the root
 of Buddha's moral teaching, as it is of Christ's.
 
-<span id="fn_15"></span>[79:1](cob06.htm#fr_15) "Buddhism, Its History
+<span id="fn_15"></span>[79:1](cob06.htm#fr_15.md) "Buddhism, Its History
 and Literature," by T. W. Rhys Davids.
 
-<span id="fn_16"></span>[81:1](cob06.htm#fr_16) I use the word
+<span id="fn_16"></span>[81:1](cob06.htm#fr_16.md) I use the word
 *perfect*, in this and in similar passages, in a relative, not in an
-absolute sense. (See Footnote to P. [27](cob04.htm#page_27).) I am
+absolute sense. (See Footnote to P. [27](cob04.htm#page_27)..md) I am
 thinking, not of absolute perfection, whatever that may be but of the
 relative perfection which is reached when a process, such as that of
 soul-growth, has been *carried through* to its apparent conclusion,--to
@@ -1127,22 +1127,22 @@ but right that we should regard the peace of Nirvâna, as Buddhism has
 always regarded it, as the final end of our spiritual aspiration and
 effort.
 
-<span id="fn_17"></span>[86:1](cob06.htm#fr_18) "The Light of Asia," by
+<span id="fn_17"></span>[86:1](cob06.htm#fr_18.md) "The Light of Asia," by
 Sir Edwin Arnold.
 
-<span id="fn_18"></span>[94:1](cob06.htm#fr_19) The divine Power which
+<span id="fn_18"></span>[94:1](cob06.htm#fr_19.md) The divine Power which
 is at the heart of the Universe.
 
-<span id="fn_19"></span>[94:2](cob06.htm#fr_20) "The Light of Asia," by
+<span id="fn_19"></span>[94:2](cob06.htm#fr_20.md) "The Light of Asia," by
 Sir Edwin Arnold.
 
-<span id="fn_20"></span>[94:3](cob06.htm#fr_21) When we name the word
+<span id="fn_20"></span>[94:3](cob06.htm#fr_21.md) When we name the word
 Nature we get to the root of the whole matter. To walk in the Path is to
 ally oneself with the deeper forces of Nature. This is its reward. To
 depart from the Path is to fight against the deeper forces of Nature.
 This is its punishment.
 
-<span id="fn_21"></span>[96:1](cob06.htm#fr_22) In this brief exposition
+<span id="fn_21"></span>[96:1](cob06.htm#fr_22.md) In this brief exposition
 of the teaching of Buddha I have said nothing about the "Wheel of Life,"
 or "Chain of Causation." I have two reasons for ignoring it. The first
 is that it is doubtful, to say the least, if it was formulated by Buddha
@@ -1180,4 +1180,4 @@ misunderstanding, and would serve no useful purpose.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. A Misreading of Buddha](cob07)
+[Next: Chapter V. A Misreading of Buddha](cob07.md)

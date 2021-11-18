@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim11)  [Next](sim13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim11)  [Next](sim13.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ village.
 
 ------------------------------------------------------------------------
 
-[Next: A Bird in Search of a Mate](sim13)
+[Next: A Bird in Search of a Mate](sim13.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Next](hrl01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Next](hrl01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0394736656/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0394736656/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1. A Not Unnatural Enterprise](hrl01)
+[Next: Chapter 1. A Not Unnatural Enterprise](hrl01.md)

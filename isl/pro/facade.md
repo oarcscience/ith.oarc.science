@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](pro00)  [Next](intro) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](pro00)  [Next](intro.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ Kuwait
 
 ------------------------------------------------------------------------
 
-[Next: Introduction of The Book](intro)
+[Next: Introduction of The Book](intro.md)

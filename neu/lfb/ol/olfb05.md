@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb04)  [Next](olfb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb04)  [Next](olfb06.md) 
 
 </div>
 
@@ -398,6 +398,6 @@ people happy also.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Little King Loc](olfb06)
+[Next: The Story of Little King Loc](olfb06.md)
 
 </div>

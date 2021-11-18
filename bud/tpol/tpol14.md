@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](tpol13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](tpol13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path of Light*, by L.D. Barnett, \[1909\], at Intangible Textual
 Heritage
 
@@ -40,7 +40,7 @@ Therefore one should know its principles, and so be free from evil.
 <span id="page_104">p. 104</span>
 
 Surrender to all creatures thine own person <span
-id="fr_14"></span>[1](#fn_14) and thy pleasures, yea, and thy
+id="fr_14"></span>[1](#fn_14.md) and thy pleasures, yea, and thy
 righteousness too, in past, present, and future time; guard them, and
 increase thy holiness.
 
@@ -74,7 +74,7 @@ shall be broiled in all the hells, like fire hidden under ash.
 
 Therefore the Conqueror in the *Ratna-megha* has told in brief the holy
 rule: "Heedfully avoid that which gives displeasure to thy
-fellow-creatures." <span id="fr_15"></span>[1](#fn_15)
+fellow-creatures." <span id="fr_15"></span>[1](#fn_15.md)
 
 Thus to care for one's own person with medicines, clothing, and the
 like, if it be to indulge the lust of the flesh, leads to grievous
@@ -109,7 +109,7 @@ ponder upon the uncleanness of the flesh and the like.
 
 Understand how to make clean thy enjoyments, until thy soul be cleansed.
 Make thy merit pure by deeds full of the spirit of tenderness and the
-Void. <span id="fr_16"></span>[1](#fn_16)
+Void. <span id="fr_16"></span>[1](#fn_16.md)
 
 <span id="page_107">p. 107</span>
 
@@ -155,15 +155,15 @@ ENGLAND</span>
 
 ### Footnotes
 
-<span id="fn_14"></span>[104:1](tpol14.htm#fr_14) The word *ātma-bhāva*,
+<span id="fn_14"></span>[104:1](tpol14.htm#fr_14.md) The word *ātma-bhāva*,
 literally "condition of self," *i.e.* person or body, properly denotes
 the plexus of concepts which collectively form the idea of an individual
 being as conceived by himself.
 
-<span id="fn_15"></span>[105:1](tpol14.htm#fr_15) Or, that whereby
+<span id="fn_15"></span>[105:1](tpol14.htm#fr_15.md) Or, that whereby
 fellow creatures lose their faith."
 
-<span id="fn_16"></span>[106:1](tpol14.htm#fr_16) Acts are to be
+<span id="fn_16"></span>[106:1](tpol14.htm#fr_16.md) Acts are to be
 inspired by knowledge of the Void and brotherly love, These two
 requisites (*sambhāra*), the intellectual and the moral, are necessary
 for spiritual advancement; one is of no avail without the other.

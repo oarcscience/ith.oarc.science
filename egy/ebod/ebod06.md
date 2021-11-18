@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod05)  [Next](ebod07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod05)  [Next](ebod07.md) 
 
 ------------------------------------------------------------------------
 
@@ -416,4 +416,4 @@ position.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of Ra And Isis.](ebod07)
+[Next: The Legend Of Ra And Isis.](ebod07.md)

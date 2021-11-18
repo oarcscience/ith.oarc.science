@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw10)  [Next](rvw12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw10)  [Next](rvw12.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ abortion by a person who is not a physician as so defined.
 
 In Doe v. Bolton, post, p. 179, procedural requirements contained in one
 of the modern abortion statutes are considered. That opinion and this
-one, of course, are to be read together. [67](rvw13.htm#xref_67)
+one, of course, are to be read together. [67](rvw13.htm#xref_67.md)
 
 This holding, we feel, is consistent with the relative weights of the
 respective interests involved, with the lessons and examples of medical
@@ -56,4 +56,4 @@ the usual remedies, judicial and intra-professional, are available.
 
 ------------------------------------------------------------------------
 
-[Next: Section XII](rvw12)
+[Next: Section XII](rvw12.md)

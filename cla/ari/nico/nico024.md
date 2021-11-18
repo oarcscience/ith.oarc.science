@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico023) 
-[Next](nico025) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico023.md) 
+[Next](nico025.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ chosen before other things.
 ------------------------------------------------------------------------
 
 [Next: Chapter 3. The nature of deliberation and its objects: choice is
-the deliberate desire of things in our own power](nico025)
+the deliberate desire of things in our own power](nico025.md)

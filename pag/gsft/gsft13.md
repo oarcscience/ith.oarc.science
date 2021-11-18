@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft12) 
-[Next](gsft14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft12.md) 
+[Next](gsft14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gypsy Sorcery and Fortune Telling*, by Charles Godfrey Leland,
 \[1891\], at Intangible Textual Heritage
 
@@ -193,7 +193,7 @@ composition which the dream has to waking common sense. There are two
 things which I do not understand. One is, why composers of music make so
 little use of the suggestive Æolian harp; the second is, why decorative
 designers never employ the *folding mirror* <span
-id="fr_17"></span>[1](#fn_17) to produce designs. The one is an exact
+id="fr_17"></span>[1](#fn_17.md) to produce designs. The one is an exact
 counterpart of
 
 <span id="page_167">p. 167</span>
@@ -517,7 +517,7 @@ of ocean. He can catch these sounds and keep them for centuries. How
 long will it be before sights, scents, and tastes will be thus
 transferred, and the man sitting in London will see all things passing
 in Asia, or wherever it pleases him or an agent to turn a mirror on a
-view? It will be. <span id="fr_18"></span>[1](#fn_18) Or how long before
+view? It will be. <span id="fr_18"></span>[1](#fn_18.md) Or how long before
 the discovery of cheap and perfect aerial navigation will change all
 society and annihilate national distinctions? That, too, will be. These
 and a thousand stranger discoveries will during the ensuing century
@@ -863,7 +863,7 @@ hand on the top of the cover of the tube the *folletto* or *diavoletto*
 was made to rise or fall—from which the prediction was drawn. It will
 hardly be believed, but the unfortunate TORICELLI was actually arrested
 by the police and punished for "fortune-telling." <span
-id="fr_19"></span>[1](#fn_19) After this he took to trained canaries or
+id="fr_19"></span>[1](#fn_19.md) After this he took to trained canaries or
 parrakeets, which picked out printed fortunes, for a living. Whether the
 stern arm of British justice descended on him for this latter form of
 sorcery and crime I do not know.
@@ -948,13 +948,13 @@ balanced in the little as well as the great.
 
 ### Footnotes
 
-<span id="fn_17"></span>[166:1](gsft13.htm#fr_17) *Vide* "Drawing and
+<span id="fn_17"></span>[166:1](gsft13.htm#fr_17.md) *Vide* "Drawing and
 Designing." London: Whittaker & Co., 1888.
 
-<span id="fn_18"></span>[175:1](gsft13.htm#fr_18) This was written long
+<span id="fn_18"></span>[175:1](gsft13.htm#fr_18.md) This was written long
 before I heard that the same idea had occurred to others.
 
-<span id="fn_19"></span>[183:1](gsft13.htm#fr_19) Another Italian was
+<span id="fn_19"></span>[183:1](gsft13.htm#fr_19.md) Another Italian was
 fined or imprisoned for the same thing in London in July, 1890—*i.e.*,
 for telling penny fortunes by the same machine.
 
@@ -962,6 +962,6 @@ for telling penny fortunes by the same machine.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: Fortune-Telling (continued)](gsft14)
+[Next: Chapter XII: Fortune-Telling (continued)](gsft14.md)
 
 </div>

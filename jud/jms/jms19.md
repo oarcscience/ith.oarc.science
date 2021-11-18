@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms18)  [Next](jms20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms18)  [Next](jms20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ It not seldom happens that the same name is written in two or three
 different forms in one and the same recipe. Gaster noted that the
 copyist of the text of *The Sword of Moses* which he published, "gives
 in many places what are intended to be different
-readings";[1](jms38.htm#an_a1_1) the same is true of medieval
+readings";[1](jms38.htm#an_a1_1.md) the same is true of medieval
 manuscripts which I have examined. The lack of consistency in the names
 in a work like *Sefer Raziel* is exasperating—not only do varying forms
 of one name appear from page to page, but the same angel often bears so
@@ -62,7 +62,7 @@ the moon (*yeraḥ*); Kochbiel, who governs the stars (*kochab*), etc."
 According to a later writer, "The names of the angels change constantly
 to conform with the missions to which they have been temporarily
 assigned, for the particular mission determines the name at the
-time."[2](jms38.htm#an_a1_2)
+time."[2](jms38.htm#an_a1_2.md)
 
 2\. Another method widely employed involved the manipulation of
 traditionally received divine names or particles of these names: a. by
@@ -73,14 +73,14 @@ are merely jumbled together; c. by dropping letters from, or adding new
 ones to such names, like the ‏אני והו‎ mentioned in the Talmud, which
 some scholars take to be shortened forms of ‏אדני יהוה‎, or the
 Tetragrammaton plus inserted letters which may explain ‏יכה
-יוסה‎;[3](jms38.htm#an_a1_3) d. by transposing the letters of these
+יוסה‎;[3](jms38.htm#an_a1_3.md) d. by transposing the letters of these
 names, e.g. ‏אדני‎ may assume 24 forms: ‏דאני‎, ‏אנדי‎, etc.
 
 Other methods frequently applied were originally created to facilitate
 the allegorical and mystical interpretation of the Bible. According to
 the mystical view the entire *Torah* is made up of holy names which have
 been so skilfully secreted among the letters of the text that only an
-expert can ferret them out.[4](jms38.htm#an_a1_4) These systems provided
+expert can ferret them out.[4](jms38.htm#an_a1_4.md) These systems provided
 the means of educing new names from the text of the Bible by a series of
 permutations, combinations and substitutions.
 
@@ -90,14 +90,14 @@ might become ‏שתיברא‎ or ‏אשרבית‎, etc.; letters were lifted
 text; the words of a text were split up into three-letter units; words
 were read backwards, etc.
 
-4\. NOTARIKON[5](jms38.htm#an_a1_5)—originally this was employed as a
+4\. NOTARIKON[5](jms38.htm#an_a1_5.md)—originally this was employed as a
 method of abbreviation, to compose a word from the initial or final
 letters of several (*e.g.*, ‏שאו מרום עיניכם‎ \[Is. 40:20\]= ‏שמע‎, or
 ‏ברא אלהים לעשות‎ \[Gen. 2:3\]= ‏אמת‎), or to decompose one word into
 several (*e.g.*, ‏אדם‎ = ‏אדם דוד משיח‎, or ‏אפר דם מרה‎, ‏פרדם‎ = ‏פשט
 רמן דרוש סוד‎) for purposes of anagogic homiletics. This method was
 later used to create some of the most important names in the entire
-mystical catalogue. One of these names,[6](jms38.htm#an_a1_6) guaranteed
+mystical catalogue. One of these names,[6](jms38.htm#an_a1_6.md) guaranteed
 to protect its user against all weapons, is ‏יהמהיה‎, which on
 examination turns out to be nothing more than an acrostic of the
 concluding letters of the first six (Hebrew) words of Ex. 15:11, "Who is
@@ -115,7 +115,7 @@ letters, inscribed on wooden platters which were then believed to be
 capable of extinguishing fires, were read as the initials of
 "Allmächtiger Gott, lösch’ aus!" The interpretation, no doubt, varied
 with the use. One medieval Jewish writer traced this name to the initial
-letters of the four verses, Gen. 49:8-11.[7](jms38.htm#an_a1_7) Whether
+letters of the four verses, Gen. 49:8-11.[7](jms38.htm#an_a1_7.md) Whether
 so or not in this particular case, the method of joining letters from
 various verses was widely used. The book *Shimmush Tehillim*, which
 assigns magical potencies to the Psalms, created a host of fantastic
@@ -130,7 +130,7 @@ were, of course, unlimited. The most celebrated example of this method
 is the use to which Ex. 14:19-21 was put to form the 72-particle name of
 God.
 
-5\. GEMATRIA[8](jms38.htm#an_a1_8)—The letters of the Hebrew alphabet
+5\. GEMATRIA[8](jms38.htm#an_a1_8.md)—The letters of the Hebrew alphabet
 also serve as numerals: ‏א‎ = 1, ‏ב‎ = 2, ‏ג‎ = 3, etc. *Gematria* was a
 process of creating equivalences from the numerical values of words, and
 provided an ingenious method of reading novel and unexpected meanings
@@ -152,7 +152,7 @@ until it became an exercise in higher mathematics, which no
 doubt possessed intrinsic interest for its devotees in addition to its
 practical utility in interpreting the Bible—and in creating new names.
 Seven ways of figuring numerical values have been
-distinguished:[9](jms38.htm#an_a1_9) a. simple addition: ‏א‎, ‏ב‎, ‏ג‎ =
+distinguished:[9](jms38.htm#an_a1_9.md) a. simple addition: ‏א‎, ‏ב‎, ‏ג‎ =
 1, 2, 3 = 6; b. the sum of the letters plus, for the word: ‏אבג‎ =6 + 1;
 c. the sum of the letters plus the number of letters in the word: ‏אבג‎
 = 6 + 3. Sometimes b. and c. were joined, so that ‏אבג‎ =6 + 1 + 3; d.
@@ -173,7 +173,7 @@ their very obscurity and the "mystery" inherent in their character as
 epitomes of important Biblical statements could achieve the status of
 potent magical "names."
 
-6\. TEMURAH[10](jms38.htm#an_a1_10)—substitution or permutation,
+6\. TEMURAH[10](jms38.htm#an_a1_10.md)—substitution or permutation,
 transposing the letters of a word (as in 2. above) or more frequently,
 replacing them with artificial equivalents obtained from one or another
 of a group of formal anagrams. Six of these proved the most popular:
@@ -263,7 +263,7 @@ etc.
 
 While the above alphabetical permutations are those most frequently
 employed, they by no means exhaust the possibilities. The
-fourteenth-century manuscript *Sefer Gematriaot*[11](jms38.htm#an_a1_11)
+fourteenth-century manuscript *Sefer Gematriaot*[11](jms38.htm#an_a1_11.md)
 lists sixteen of them, and C. D. Ginsburg gives 24 in his work on the
 *Kabbalah*. Some Kabbalists went so far as to substitute for the letters
 of a word others resembling them in form, *e.g.*, ‏א‎ = ‏יוי‎, ‏ה‎ =
@@ -274,7 +274,7 @@ It should be noted that several of these alphabets were often applied to
 one word or sentence in conjunction, as when the name Shaddai (‏שדי‎)
 was derived from the first verse of Genesis as follows: the ‏שׁ‎ is the
 equivalent of ‏ב‎ (‏בראשית‎) by method a, the ‏ד‎ comes from ‏ה‎
-(‏אלהים‎) by f, the ‏י‎ from ‏ש‎ (‏השמים‎) by b.[12](jms38.htm#an_a1_12)
+(‏אלהים‎) by f, the ‏י‎ from ‏ש‎ (‏השמים‎) by b.[12](jms38.htm#an_a1_12.md)
 While this, of course, was a forced reading of the name into the verse,
 these alphabets were also used for creative purposes; the Tetragrammaton
 (‏יהוה‎) appears as ‏מצפץ‎ (a), or ‏כוזו‎ (f), or ‏שצפצ‎ (b), etc. The
@@ -291,4 +291,4 @@ this guise became potent tools in the magician's hands.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix II. Ms. *Sefer Gematriaot*, On Gems](jms20)
+[Next: Appendix II. Ms. *Sefer Gematriaot*, On Gems](jms20.md)

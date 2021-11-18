@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda21)  [Next](nda23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda21)  [Next](nda23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -45,7 +45,7 @@ called Europe.
 
 <span id="page_238">p. 238</span>
 
-### C. GRIPLA. <span id="fr_35"></span>[1](#fn_35)
+### C. GRIPLA. <span id="fr_35"></span>[1](#fn_35.md)
 
 Codex No. 115.
 
@@ -86,7 +86,7 @@ oceanum, and surrounds the whole earth \[*Hæc verbotenus Gripla*.\]
 
 ### Footnotes
 
-<span id="fn_35"></span>[238:1](nda22.htm#fr_35) This remarkable
+<span id="fn_35"></span>[238:1](nda22.htm#fr_35.md) This remarkable
 geographical fragment is contained in the celebrated Greenlandic
 collection of Bjorn Johnson, and was evidently written before the time
 of Columbus. The name is supposed to be derived from the word *gripa*,
@@ -95,4 +95,4 @@ Amer. pp. 280-1.
 
 ------------------------------------------------------------------------
 
-[Next: Monuments and Inscriptions](nda23)
+[Next: Monuments and Inscriptions](nda23.md)

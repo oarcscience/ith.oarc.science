@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg06)  [Next](adg08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg06)  [Next](adg08.md) 
 
 ------------------------------------------------------------------------
 
@@ -207,4 +207,4 @@ poor ones.
 
 ------------------------------------------------------------------------
 
-[Next: Adages of imam Ali (puh) about the human nature](adg08)
+[Next: Adages of imam Ali (puh) about the human nature](adg08.md)

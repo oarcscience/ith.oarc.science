@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](rtae12)  [Next](rtae14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](rtae12)  [Next](rtae14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Development of Religion and Thought in Ancient Egypt*, by James Henry
 Breasted, \[1912\], at Intangible Textual Heritage
 
@@ -26,11 +26,11 @@ made its impression upon religion as in the Pyramid Age the Egyptian
 state, the *political* realm had done. Both these were limited to the
 territory of Egypt. The Pyramid Age had gained a dim vision of the vast
 extent of the Sun-god's domain, and had once addressed him by the
-sounding title "Limitless." <span id="fr_819"></span>[1](#fn_819) But
+sounding title "Limitless." <span id="fr_819"></span>[1](#fn_819.md) But
 this remained, as it were, a momentary glimpse without effect upon the
 Solar theology as a whole. The Sun-god ruled only Egypt, and in the
 great Sun-hymn of the Pyramid Texts <span
-id="fr_820"></span>[2](#fn_820) he stands guardian on the Egyptian
+id="fr_820"></span>[2](#fn_820.md) he stands guardian on the Egyptian
 frontiers, where he builds the gates which restrain all outsiders from
 entering his inviolable domain. In the Pyramid Age, too, the Sun-god had
 already begun the process of absorbing the other gods of Egypt, a
@@ -66,9 +66,9 @@ This great military leader himself made the remark which we have quoted
 above regarding his god: "He seeth the whole earth hourly." If this was
 true it was because the sword of the Pharaoh had carried the power of
 Egypt's god to the limit of Egypt's Empire. <span
-id="fr_821"></span>[1](#fn_821) Fifty years earlier, indeed, Thutmose I
+id="fr_821"></span>[1](#fn_821.md) Fifty years earlier, indeed, Thutmose I
 proclaimed his kingdom as far as "the circuit of the sun." <span
-id="fr_822"></span>[2](#fn_822) In the Old Kingdom the Sun-god was
+id="fr_822"></span>[2](#fn_822.md) In the Old Kingdom the Sun-god was
 conceived as a Pharaoh, whose kingdom was Egypt. With the expansion of
 the Egyptian kingdom into a world-empire it was inevitable that the
 domain of the god
@@ -119,7 +119,7 @@ It is no accident, therefore, that about 1400 B.C., in the reign of
 Amenhotep III, the most splendid of the Egyptian emperors, we find the
 first of such impressions. Two architects, Suti and Hor, twin brothers,
 whom Amenhotep III was employing at Thebes, have left us a Sun-hymn on a
-stela now in the British Museum, <span id="fr_823"></span>[1](#fn_823)
+stela now in the British Museum, <span id="fr_823"></span>[1](#fn_823.md)
 which discloses the tendency of the age and the widening vision with
 which these men of the Empire were looking out upon the world and
 discerning the unlimited scope of the Sun-god's realm.
@@ -134,7 +134,7 @@ discerning the unlimited scope of the Sun-god's realm.
  It is not like thy brilliance.  
  Thou art a craftsman shaping thine own limbs;  
  Fashioner without being fashioned; <span
-id="fr_824"></span>[2](#fn_824)</span>
+id="fr_824"></span>[2](#fn_824.md)</span>
 
 </div>
 
@@ -147,7 +147,7 @@ continues\]</span> Unique in his qualities, traversing eternity;
 Over ways ⌈with⌉ millions under his guidance.  
 Thy brilliance is like the brilliance of the sky,  
 Thy colors gleam more than the hues of it. <span
-id="fr_825"></span>[1](#fn_825)  
+id="fr_825"></span>[1](#fn_825.md)  
 When thou sailest across the sky all men behold thee,  
 (Though) thy going is hidden from their sight.  
 When thou showest thyself at morning every day,  
@@ -237,7 +237,7 @@ movement of the Feudal Age. Such epithets applied to the Sun-god as
 <span id="page_318">p. 318</span>
 
 of course carry us back to the address of Ipuwer and his "shepherd of
-all men." <span id="fr_826"></span>[1](#fn_826) The other remarkable
+all men." <span id="fr_826"></span>[1](#fn_826.md) The other remarkable
 epithet,
 
 <div style="margin-left: 32px">
@@ -258,7 +258,7 @@ as Harakhte (Horus of the Horizon)"; that is to say, the hymn is
 addressed to Amon as Sun-god. Amon, the old obscure local god of Thebes,
 whose name is not to be found in the great religious documents of the
 earlier age like the Pyramid Texts, <span
-id="fr_827"></span>[2](#fn_827) had by this time gained the chief place
+id="fr_827"></span>[2](#fn_827.md) had by this time gained the chief place
 in the state theology, owing to the supreme position held by the ruling
 family of his native town in the Empire. Theologically, he had long
 succumbed to the ancient tendency which identified the old local gods
@@ -275,7 +275,7 @@ Amon actually received the first place among the gods. For the first
 time in the history of the country the great organizer, Thutmose III,
 seems to have merged the priesthoods of all the temples of the land into
 one great sacerdotal organization, at the head of which he placed the
-High Priest of Amon. <span id="fr_828"></span>[1](#fn_828) This is the
+High Priest of Amon. <span id="fr_828"></span>[1](#fn_828.md) This is the
 earliest national priesthood as yet known in the early East, and the
 first *pontifex maximus*. This Amonite papacy constituted a powerful
 political obstacle in the way of realizing the supremacy of the ancient
@@ -301,10 +301,10 @@ his disk. It occurs
 twice in the hymn of the two architects of Amenhotep III, translated
 above, and it had already gained some favor under this king, who named
 one of his royal barges "Aton-Gleams." <span
-id="fr_829"></span>[1](#fn_829) There was an effort made to make the
+id="fr_829"></span>[1](#fn_829.md) There was an effort made to make the
 name "Aton" equivalent in some of the old forms to the word "god"; thus
 the traditional term "divine offering" (lit. "god's offering") was now
-called "Aton offering." <span id="fr_830"></span>[2](#fn_830) Not only
+called "Aton offering." <span id="fr_830"></span>[2](#fn_830.md) Not only
 did the Sun-god receive a new name, but the young king now gave him a
 new symbol also. The most ancient symbol of the Sun-god, as we have
 seen, was a pyramid, and as a falcon the figure of that bird was also
@@ -316,7 +316,7 @@ power issuing from its celestial source, and putting its hand upon the
 world and the affairs of men. As far back as the Pyramid Texts the rays
 of the Sun-god had been likened to his arms and had been conceived as an
 agency on earth: "The arm of the sunbeams is lifted with king
-Unis," <span id="fr_831"></span>[3](#fn_831) raising him to the skies.
+Unis," <span id="fr_831"></span>[3](#fn_831.md) raising him to the skies.
 Such a symbol was suited to be understood throughout the world which the
 Pharaoh controlled. There was also some effort to define the Solar power
 thus symbolized. The full name of the Sun-god was "Harakhte
@@ -342,7 +342,7 @@ nevertheless most of the old lumber which made up the externals of the
 traditional theology was rejected. We look in vain for the sun-barques,
 and in the same way also later accretions, like the voyage through the
 subterranean caverns of the dead, are completely shorn away. <span
-id="fr_832"></span>[1](#fn_832)
+id="fr_832"></span>[1](#fn_832.md)
 
 To introduce the Aton faith into Thebes, Amenhotep IV erected there a
 sumptuous temple of the new god, which, of course, received liberal
@@ -352,19 +352,19 @@ soon broke out, culminating finally in the determination on the king's
 part to make Aton sole god of the Empire and to annihilate Amon. The
 effort to obliterate all trace of the existence of the upstart Amon
 resulted in the most extreme measures. The king changed his own name
-from "Amenhotep" ("Amen rests" [or](errata.htm#7) "is satisfied")
+from "Amenhotep" ("Amen rests" [or](errata.htm#7) "is satisfied".md)
 
 <span id="page_322">p. 322</span>
 
 to "Ikhnaton," which means "Aton is satisfied," and is a translation of
 the king's old name into a corresponding idea in the Aton faith. <span
-id="fr_833"></span>[1](#fn_833) The name of Amon, wherever it occurred
+id="fr_833"></span>[1](#fn_833.md) The name of Amon, wherever it occurred
 on the great monuments of Thebes, was expunged, and in doing so not even
 the name of the king's father, Amenhotep III, was respected. These
 erasures were not confined to the name of Amon. Even the word "gods" as
 a compromising plural was expunged wherever found, and the names of the
 other gods, too, were treated like that of Amon. <span
-id="fr_834"></span>[2](#fn_834)
+id="fr_834"></span>[2](#fn_834.md)
 
 Finding Thebes embarrassed with too many theological traditions, in
 spite of its prestige and its splendor, Ikhnaton forsook it and built a
@@ -373,7 +373,7 @@ commonly known as Tell el-Amarna. He called it Akhetaton, "Horizon of
 Aton." The name of the Sun-god is the only divine name found in the
 place, and it was evidently intended as a centre for the dissemination
 of Solar monotheism. Here several sanctuaries <span
-id="fr_835"></span>[3](#fn_835) of Aton were erected, and in the
+id="fr_835"></span>[3](#fn_835.md) of Aton were erected, and in the
 boundary landmarks, imposing stelæ which the king set up in the eastern
 and western cliffs, the place was formally devoted to his exclusive
 service. A similar Aton city was founded in Nubia, and in all likelihood
@@ -383,7 +383,7 @@ Egypt, Nubia, and Syria, were thus each given a centre
 <span id="page_323">p. 323</span>
 
 of the Aton faith. Besides these sanctuaries of Aton were also built at
-various other places in Egypt. <span id="fr_836"></span>[1](#fn_836)
+various other places in Egypt. <span id="fr_836"></span>[1](#fn_836.md)
 
 This was, of course, not accomplished without building up a powerful
 court party, which the king could oppose, to the evicted priesthoods,
@@ -394,7 +394,7 @@ new faith, and as preserved to us in the wall reliefs which fill the
 chapels of the cliff tombs, excavated by the king for his nobles in the
 face of the low cliffs of the eastern plateau behind the new city, it
 forms, perhaps, the most interesting and picturesque chapter in the
-story of the early East. <span id="fr_837"></span>[2](#fn_837) It is to
+story of the early East. <span id="fr_837"></span>[2](#fn_837.md) It is to
 the tombs of these partisans of the king that we owe our knowledge of
 the content of the remarkable teaching which he was now propagating.
 They contain a series of hymns in praise of the Sun-god, or of the
@@ -408,7 +408,7 @@ associates lifting up their eyes and endeavoring to discern God in the
 illimitable sweep of his power—God no longer of the Nile valley only,
 but of all men and of all the world. We can do no better at this
 juncture than to let these hymns speak for themselves. The longest and
-most important is as follows: <span id="fr_838"></span>[1](#fn_838)
+most important is as follows: <span id="fr_838"></span>[1](#fn_838.md)
 
 UNIVERSAL SPLENDOR AND POWER OF ATON
 
@@ -421,7 +421,7 @@ UNIVERSAL SPLENDOR AND POWER OF ATON
  Thou art beautiful, great, glittering, high above every land,  
  Thy rays, they encompass the lands, even all that thou hast made.  
  Thou art Re, and thou carriest them all away captive; <span
-id="fr_839"></span>[2](#fn_839)  
+id="fr_839"></span>[2](#fn_839.md)  
  Thou bindest them by thy love.  
  Though thou art far away, thy rays are upon earth;  
  Though thou art on high, thy ⌈footprints are the day⌉.
@@ -543,9 +543,9 @@ THE WHOLE CREATION
 <span class="small">"How manifold are thy works!  
  They are hidden from before (us),  
  O sole God, whose powers no other possesseth. <span
-id="fr_840"></span>[1](#fn_840)  
+id="fr_840"></span>[1](#fn_840.md)  
  Thou didst create the earth according to thy heart <span
-id="fr_841"></span>[2](#fn_841)  
+id="fr_841"></span>[2](#fn_841.md)  
  While thou wast alone:  
  Men, all cattle large and small,  
  All that are upon the earth,  
@@ -578,7 +578,7 @@ WATERING THE EARTH IN EGYPT AND ABROAD
 
 "Thou makest the Nile in the Nether World,  
  Thou bringest it as thou desirest,  
- To preserve alive the people. <span id="fr_842"></span>[1](#fn_842)  
+ To preserve alive the people. <span id="fr_842"></span>[1](#fn_842.md)  
  For thou hast made them for thyself,  
  The lord of them all, resting among them;  
  Thou lord of every land, who risest for them,  
@@ -603,7 +603,7 @@ THE SEASONS
 <div style="margin-left: 32px">
 
 <span class="small">"Thy rays nourish <span
-id="fr_843"></span>[2](#fn_843) every garden; When thou risest they
+id="fr_843"></span>[2](#fn_843.md) every garden; When thou risest they
 live,  
  They grow by thee.  
  Thou makest the seasons  
@@ -687,7 +687,7 @@ together in the form of a shorter hymn, which they then slavishly copied
 in whole or in part from tomb to tomb. Where the materials are so
 meagre, and the movement revealed so momentous, even the few new
 contributions furnished by the short hymn are of great value. <span
-id="fr_844"></span>[1](#fn_844) In four cases the hymn is attributed to
+id="fr_844"></span>[1](#fn_844.md) In four cases the hymn is attributed to
 the king himself; that is, he is represented as reciting it to Aton. The
 lines are as follows:
 
@@ -725,7 +725,7 @@ lines are as follows:
  Every land is in festivity:  
  Singing, music, and shoutings of joy  
  Are in the hall of the Benben <span
-id="fr_845"></span>[1](#fn_845)-house,  
+id="fr_845"></span>[1](#fn_845.md)-house,  
  Thy temple in Akhet-Aton, the seat of Truth,  
  Wherewith thou art satisfied.  
  Food and provision are offered therein;  
@@ -754,7 +754,7 @@ continues\]</span>  O living Aton, born in the sky every day.
  While thou vast alone.  
  Millions of life are in thee to make them live,  
  It is the breath of life in the nostrils to behold thy rays. <span
-id="fr_846"></span>[1](#fn_846)  
+id="fr_846"></span>[1](#fn_846.md)  
  All flowers live and what grows in the soil  
  Is made to grow because thou dawnest.  
  They are drunken before thee.  
@@ -762,7 +762,7 @@ id="fr_846"></span>[1](#fn_846)
  The birds in the marsh fly with joy,  
  Their wings that were folded are spread, Uplifted in adoration to the
 living Aton,  
- The maker . . ." <span id="fr_847"></span>[2](#fn_847)</span>
+ The maker . . ." <span id="fr_847"></span>[2](#fn_847.md)</span>
 
 </div>
 
@@ -773,7 +773,7 @@ universal, and that all men acknowledge his dominion. On the great
 boundary stela likewise he says of them, that Aton made them "for his
 own self; all lands, the Ægæans bear their dues, their tribute is upon
 their backs, for him who made their life, him by whose rays men live and
-breathe the air." <span id="fr_848"></span>[3](#fn_848)
+breathe the air." <span id="fr_848"></span>[3](#fn_848.md)
 
 <span id="page_332">p. 332</span>
 
@@ -794,7 +794,7 @@ But in the beginning of all, Aton called himself forth out of the
 eternal solitude, the author of his own being. The king calls him "My
 rampart of a million cubits, my reminder of eternity, my witness of the
 things of eternity, who himself fashioned himself with his own hands,
-whom no artificer knew." <span id="fr_849"></span>[1](#fn_849) In
+whom no artificer knew." <span id="fr_849"></span>[1](#fn_849.md) In
 harmony with this idea, the hymns love to reiterate the fact that the
 creation of the world which followed was done while the god was y*et
 al*one. The words "while thou wert alone" are almost a refrain in these
@@ -821,13 +821,13 @@ rays;" "It is the breath of life in the nostrils to behold thy rays;"
 fashion him (the king) out of thine own rays;" "Thy rays carry a million
 royal jubilees;" "When thou sendest forth thy rays, the Two Lands are in
 festivity;" "Thy rays embrace the lands, even all that thou hast
-made;" <span id="fr_850"></span>[1](#fn_850) "Whether he is in the sky
+made;" <span id="fr_850"></span>[1](#fn_850.md) "Whether he is in the sky
 or on earth, all eyes behold him without \[ceasing\]; he fills \[every
 land\] with his rays, and makes all men to live; with beholding whom may
 my eyes be satisfied daily, when he dawns in this house of Aton and
 fills it with his own self by his beams, beauteous in love, and lays
 them upon me in satisfying life for ever and ever." <span
-id="fr_851"></span>[2](#fn_851) In these last words the king himself
+id="fr_851"></span>[2](#fn_851.md) In these last words the king himself
 expresses his own consciousness of the god's presence, especially in the
 temple, by his rays. The obvious dependence of Egypt upon the Nile made
 it impossible to ignore this agency of life, and there is nothing which
@@ -886,7 +886,7 @@ and dimness, or perishing and passing away, entangled in drifting mist,
 or melted into melancholy air, but still—kindling or declining,
 sparkling or still—it is the living light, which breathes in its
 deepest, most entranced rest, which sleeps but never dies." <span
-id="fr_852"></span>[1](#fn_852) That is the loftiest modern
+id="fr_852"></span>[1](#fn_852.md) That is the loftiest modern
 interpretation of light, a veritable gospel of the beauty of light, of
 which the earliest disciple was this lonely idealist of the fourteenth
 century before Christ. To Ikhnaton, too, the eternal light might sleep,
@@ -953,7 +953,7 @@ in the hymns to his god. Outside of the hymns, however, there is a
 marked prominence of the ancient word "truth," or, as we have observed
 so often, "justice" or "righteousness." To the official name of the
 king, there is regularly appended the epithet, "living in truth," <span
-id="fr_853"></span>[1](#fn_853) and although it is difficult
+id="fr_853"></span>[1](#fn_853.md) and although it is difficult
 
 <span id="page_338">p. 338</span>
 
@@ -965,15 +965,15 @@ the "seat of truth" in the short hymn, and we frequently find the men of
 Ikhnaton's court glorifying truth. One of his leading partisans, Eye,
 says: "He (the king) put truth in my body and my abomination is lying. I
 know that Wanre (Ikhnaton) rejoices in it (truth)." <span
-id="fr_854"></span>[1](#fn_854) The same man affirms that the Sun-god is
+id="fr_854"></span>[1](#fn_854.md) The same man affirms that the Sun-god is
 one "(whose) heart is satisfied with truth, whose abomination is
-falsehood." <span id="fr_855"></span>[2](#fn_855) Another official
+falsehood." <span id="fr_855"></span>[2](#fn_855.md) Another official
 states in his Amarna tomb: "I will speak truth to his majesty, (for) I
 know that he lives therein. . . . I do not that which his majesty hates,
 (for) my abomination is lying in my body. . . . I have reported truth to
 his majesty, (for) I know that he lives therein. Thou art Re, begetter
 of truth. . . . I took not the reward of lying, nor expelled the truth
-for the violent." <span id="fr_856"></span>[3](#fn_856) Re was still the
+for the violent." <span id="fr_856"></span>[3](#fn_856.md) Re was still the
 author of truth or righteousness at Amarna as before, and if we hear of
 no judgment hereafter in the Amarna tombs, it was clearly only the
 rejection of the cloud of gods and demi-gods, with Osiris at their head,
@@ -990,7 +990,7 @@ magical agencies for insuring justification was also evidently repelled
 by Ikhnaton. The familiar heart scarab now no longer bears a charm to
 still the accusing voice of conscience, but a simple prayer, in the name
 of Aton, for long life, favor, and food. <span
-id="fr_857"></span>[1](#fn_857)
+id="fr_857"></span>[1](#fn_857.md)
 
 Such fundamental changes as these, on a moment's reflection, suggest
 what an overwhelming tide of inherited thought, custom, and tradition
@@ -1037,7 +1037,7 @@ have recalled them at Siut, now stood silent and empty; and every day as
 the funeral processions wound across the desert margin and up the
 plateau to the cemetery, the great comforter and friend, Osiris, the
 champion of the dead in every danger, was banished, and no man dared so
-much as utter his name. <span id="fr_858"></span>[1](#fn_858) Even in
+much as utter his name. <span id="fr_858"></span>[1](#fn_858.md) Even in
 their oaths, absorbed from childhood with their mothers' milk, the
 involuntary names must not
 
@@ -1125,17 +1125,17 @@ forth the Hebrew prophets.
 
 ### Footnotes
 
-<span id="fn_819"></span>[312:1](rtae13.htm#fr_819) Pyr. § 1434.
+<span id="fn_819"></span>[312:1](rtae13.htm#fr_819.md) Pyr. § 1434.
 
-<span id="fn_820"></span>[312:2](rtae13.htm#fr_820) See above, pp.
-[13](rtae05.htm#page_13)–[14](rtae05.htm#page_14).
+<span id="fn_820"></span>[312:2](rtae13.htm#fr_820.md) See above, pp.
+[13](rtae05.htm#page_13)–[14](rtae05.htm#page_14.md).
 
-<span id="fn_821"></span>[313:1](rtae13.htm#fr_821) See Thutmose III's
+<span id="fn_821"></span>[313:1](rtae13.htm#fr_821.md) See Thutmose III's
 Hymn of Victory, BAR, II, 655–662.
 
-<span id="fn_822"></span>[313:2](rtae13.htm#fr_822) BAR, II, 98.
+<span id="fn_822"></span>[313:2](rtae13.htm#fr_822.md) BAR, II, 98.
 
-<span id="fn_823"></span>[315:1](rtae13.htm#fr_823) British Museum
+<span id="fn_823"></span>[315:1](rtae13.htm#fr_823.md) British Museum
 Stela, No. 826. This important monument much needs an adequate
 publication. It is accessible only in two very incorrect copies,
 published by <span class="smallcaps">Birch</span>, *Trans. Soc. Bib.
@@ -1147,67 +1147,67 @@ Museum stelæ, and do not know whether it was included by him. The above
 translation could undoubtedly be corrected in parts on the basis of a
 better text.
 
-<span id="fn_824"></span>[315:2](rtae13.htm#fr_824) Or "Begetter without
+<span id="fn_824"></span>[315:2](rtae13.htm#fr_824.md) Or "Begetter without
 being born," as already in the Middle Kingdom; see above, [p.
-274](rtae12.htm#page_274).
+274](rtae12.htm#page_274.md).
 
-<span id="fn_825"></span>[316:1](rtae13.htm#fr_825) The word "hues" is
+<span id="fn_825"></span>[316:1](rtae13.htm#fr_825.md) The word "hues" is
 the word commonly meaning "skin." That it has the meaning "hue" or
 similar is shown by similar passages in <span
 class="smallcaps">Naville</span>, *Mythe d’Horus*, pl. xii, 1. 2;
 *Amarna Hymn of Tutu*, l. 2, and *Amarna Hymn of Api*, ll. 2–3.
 
-<span id="fn_826"></span>[318:1](rtae13.htm#fr_826) See above, [p.
-211](rtae11.htm#page_211).
+<span id="fn_826"></span>[318:1](rtae13.htm#fr_826.md) See above, [p.
+211](rtae11.htm#page_211.md).
 
-<span id="fn_827"></span>[318:2](rtae13.htm#fr_827) His name occurs four
+<span id="fn_827"></span>[318:2](rtae13.htm#fr_827.md) His name occurs four
 times in the Turin *Book of the Dead*, published by <span
 class="smallcaps">Lepsius</span>. It does not occur at all in the
 Pyramid Texts, unless the reference in Pyr. § 1095 is to him, which
 seems to me not entirely certain.
 
-<span id="fn_828"></span>[319:1](rtae13.htm#fr_828) Hapuseneb, the first
+<span id="fn_828"></span>[319:1](rtae13.htm#fr_828.md) Hapuseneb, the first
 High Priest of Amon, who occupied the position at the head of the new
 sacerdotal organization, was grand vizier under queen Hatshepsut, but it
 is more likely that her husband, Thutmose III, effected this
 organization than that she should have done it. However this may be, the
 evidence will be found in BAR, II, 388 *ff*.
 
-<span id="fn_829"></span>[320:1](rtae13.htm#fr_829) BAR, II, 869; see
+<span id="fn_829"></span>[320:1](rtae13.htm#fr_829.md) BAR, II, 869; see
 also the author's *History of Egypt*, p. 360.
 
-<span id="fn_830"></span>[320:2](rtae13.htm#fr_830) BAR, II, 987.
+<span id="fn_830"></span>[320:2](rtae13.htm#fr_830.md) BAR, II, 987.
 
-<span id="fn_831"></span>[320:3](rtae13.htm#fr_831) Pyr. § 334.
+<span id="fn_831"></span>[320:3](rtae13.htm#fr_831.md) Pyr. § 334.
 
-<span id="fn_832"></span>[321:1](rtae13.htm#fr_832) The decree for the
+<span id="fn_832"></span>[321:1](rtae13.htm#fr_832.md) The decree for the
 burial of the sacred bull of Heliopolis, Mnevis, at Amarna (<span
 class="smallcaps">Davies</span>, *Amarna*, V, p. 30) is clearly a
 compromise with the Heliopolitan priests, but of course does not mean
 "animal worship."
 
-<span id="fn_833"></span>[322:1](rtae13.htm#fr_833) See <span
+<span id="fn_833"></span>[322:1](rtae13.htm#fr_833.md) See <span
 class="smallcaps">Sethe</span>, *Zeitschr. für aegypt. Sprache*, 44,
 116–118, where this new rendering of the name is demonstrated. The
 rendering in the author's history, p. 364, is to be changed accordingly.
 
-<span id="fn_834"></span>[322:2](rtae13.htm#fr_834) It has been widely
+<span id="fn_834"></span>[322:2](rtae13.htm#fr_834.md) It has been widely
 stated that the hostility of Ikhnaton did not extend beyond his erasure
 of Amon; but this is an error. I found other gods expunged in Nubia. See
 also my remarks in *Zeitschr. für aegypt. Sprache*, 40, 109–110.
 
-<span id="fn_835"></span>[322:3](rtae13.htm#fr_835) There were at least
+<span id="fn_835"></span>[322:3](rtae13.htm#fr_835.md) There were at least
 four. The earlier Boundary Stelæ give five (<span
 class="smallcaps">Davies</span>, *Amarna*, V, p. 30), but one is
 evidently a dittography of the preceding in the ancient scribes copy.
 
-<span id="fn_836"></span>[323:1](rtae13.htm#fr_836) A list of the Aton
+<span id="fn_836"></span>[323:1](rtae13.htm#fr_836.md) A list of the Aton
 temples will be found in my essay in the *Zeitschr. für aegypt.
 Sprache*, 40, 106–113. The Nubian city of Ikhnaton was found in 1907 by
 the University of Chicago Expedition. See my *Monuments of Sudanese
 Nubia*, pp. 51–82.
 
-<span id="fn_837"></span>[323:2](rtae13.htm#fr_837) These tombs were
+<span id="fn_837"></span>[323:2](rtae13.htm#fr_837.md) These tombs were
 frequently visited and studied in the early days of Egyptology, and
 fragmentarily published. No complete publication, however, was issued
 until 1903–8, when <span class="smallcaps">N. de G. Davies</span>
@@ -1222,7 +1222,7 @@ discussion and description of the remarkable reliefs in the tombs will
 be found in the author's *Two Thousand Miles Up the Nile*, soon to be
 published.
 
-<span id="fn_838"></span>[324:1](rtae13.htm#fr_838) The best text is
+<span id="fn_838"></span>[324:1](rtae13.htm#fr_838.md) The best text is
 that of <span class="smallcaps">Davies</span>, *Amarna*, VI, pl. xxix.
 Full commentary will be found in my *De hymnis in solem sub rege
 Amenophide IV. conceptis*, Berlin, 1894, though unfortunately based on
@@ -1233,10 +1233,10 @@ further study of the document also. The division into strophes is not in
 the original, but is indicated here for the sake of clearness. The
 titles of the strophes I have inserted to aid the modern reader.
 
-<span id="fn_839"></span>[324:2](rtae13.htm#fr_839) There is a pun here
+<span id="fn_839"></span>[324:2](rtae13.htm#fr_839.md) There is a pun here
 on the word Re, which is the same as the word used for "all."
 
-<span id="fn_840"></span>[326:1](rtae13.htm#fr_840) The shorter hymns
+<span id="fn_840"></span>[326:1](rtae13.htm#fr_840.md) The shorter hymns
 follow the phrase "sole God," with the addition, "beside whom there is
 no other" (see <span class="smallcaps">Davies</span>, *Amarna*, I,
 XXXVI, l. 1, and III, XXIX, l. 1).
@@ -1247,49 +1247,49 @@ Great Hymn to Amon (1, 5), and similarly on the late statue of Hor
 (Louvre 88, <span class="smallcaps">Brugsch</span>, *Thes*., VI, 1251,
 l. 1).
 
-<span id="fn_841"></span>[326:2](rtae13.htm#fr_841) The word "heart" may
+<span id="fn_841"></span>[326:2](rtae13.htm#fr_841.md) The word "heart" may
 mean either "pleasure" or "understanding" here.
 
-<span id="fn_842"></span>[327:1](rtae13.htm#fr_842) The word is one used
+<span id="fn_842"></span>[327:1](rtae13.htm#fr_842.md) The word is one used
 only of the people of Egypt.
 
-<span id="fn_843"></span>[327:2](rtae13.htm#fr_843) The word used
+<span id="fn_843"></span>[327:2](rtae13.htm#fr_843.md) The word used
 implies the nourishment of a mother at the breast.
 
-<span id="fn_844"></span>[329:1](rtae13.htm#fr_844) The short hymn was
+<span id="fn_844"></span>[329:1](rtae13.htm#fr_844.md) The short hymn was
 put together in a composite text of all versions in the second
 (unpublished) portion of my De hymnis in solem, and this was later
 supplemented by my own copies. <span class="smallcaps">Davies</span> has
 also put together a composite text from five tombs in his Amarna, IV,
 pls. xxxii—xxxiii, The above translation is based on both sources.
 
-<span id="fn_845"></span>[330:1](rtae13.htm#fr_845) See above, [p.
-71](rtae07.htm#page_71).
+<span id="fn_845"></span>[330:1](rtae13.htm#fr_845.md) See above, [p.
+71](rtae07.htm#page_71.md).
 
-<span id="fn_846"></span>[331:1](rtae13.htm#fr_846) Variant: "Breath, it
+<span id="fn_846"></span>[331:1](rtae13.htm#fr_846.md) Variant: "Breath, it
 enters the nostrils when thou showest thyself to them."
 
-<span id="fn_847"></span>[331:2](rtae13.htm#fr_847) The remainder of the
+<span id="fn_847"></span>[331:2](rtae13.htm#fr_847.md) The remainder of the
 line is lost. Only one of the five texts Which exist from the beginning
 goes as far as this point. It also stopped at this place, so that only
 part of a line has been lost.
 
-<span id="fn_848"></span>[331:3](rtae13.htm#fr_848) Stela K, <span
+<span id="fn_848"></span>[331:3](rtae13.htm#fr_848.md) Stela K, <span
 class="smallcaps">Davies</span>, *Amarna*, V, pl. xxix, l. 7.
 
-<span id="fn_849"></span>[332:1](rtae13.htm#fr_849) Boundary Stela K,
+<span id="fn_849"></span>[332:1](rtae13.htm#fr_849.md) Boundary Stela K,
 *ibid.*, V, pl. xxix, l. 9.
 
-<span id="fn_850"></span>[333:1](rtae13.htm#fr_850) See my *De hymnis in
+<span id="fn_850"></span>[333:1](rtae13.htm#fr_850.md) See my *De hymnis in
 solem*, pp. 21–22.
 
-<span id="fn_851"></span>[333:2](rtae13.htm#fr_851) Boundary Stela K,
+<span id="fn_851"></span>[333:2](rtae13.htm#fr_851.md) Boundary Stela K,
 <span class="smallcaps">Davies</span>, *Amarna*, V, pl. xxix, ll. 10–11.
 
-<span id="fn_852"></span>[335:1](rtae13.htm#fr_852) <span
+<span id="fn_852"></span>[335:1](rtae13.htm#fr_852.md) <span
 class="smallcaps">Ruskin</span>, *Modern Painters*, vol. I, p. 250.
 
-<span id="fn_853"></span>[337:1](rtae13.htm#fr_853) It is difficult to
+<span id="fn_853"></span>[337:1](rtae13.htm#fr_853.md) It is difficult to
 define the exact meaning of this phrase. The Sun-god was the father of
 the goddess who personified Truth, and his close connection with truth
 is evident throughout. In the sixty-fifth chapter of the Book of the
@@ -1302,18 +1302,18 @@ is a magical charm to force the Sun-god to justify the deceased. It was
 doubtless such materialistic notions of ethical concepts which led the
 priests to employ magic in the realm of ethics and ethical values.
 
-<span id="fn_854"></span>[338:1](rtae13.htm#fr_854) BAR, II, 993, 1002.
+<span id="fn_854"></span>[338:1](rtae13.htm#fr_854.md) BAR, II, 993, 1002.
 
-<span id="fn_855"></span>[338:2](rtae13.htm#fr_855) BAR, II, 994.
+<span id="fn_855"></span>[338:2](rtae13.htm#fr_855.md) BAR, II, 994.
 
-<span id="fn_856"></span>[338:3](rtae13.htm#fr_856) BAR, II, 1013.
+<span id="fn_856"></span>[338:3](rtae13.htm#fr_856.md) BAR, II, 1013.
 
-<span id="fn_857"></span>[339:1](rtae13.htm#fr_857) See <span
+<span id="fn_857"></span>[339:1](rtae13.htm#fr_857.md) See <span
 class="smallcaps">Schaefer</span>, *Zeitschr. für aegypt. Sprache*, 48,
 45 *f*., and *Proceedings of the Soc. of Biblical Arch.*, XVII, 155, No.
 3.
 
-<span id="fn_858"></span>[340:1](rtae13.htm#fr_858) In mortuary
+<span id="fn_858"></span>[340:1](rtae13.htm#fr_858.md) In mortuary
 doctrines this Amarna movement was unable wholly to eradicate the old
 customs. The heart scarab is mentioned above; "ushebti" statuettes were
 also known. There is one in Zurich, see <span
@@ -1326,4 +1326,4 @@ Aton. Osiris is not named.
 ------------------------------------------------------------------------
 
 [Next: Lecture X. The Age of Personal Piety—Sacerdotalism and Final
-Decadence](rtae14)
+Decadence](rtae14.md)

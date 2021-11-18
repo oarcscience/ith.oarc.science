@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](ecc)  [Next](jer) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](ecc)  [Next](jer.md) 
 
 ------------------------------------------------------------------------
 
@@ -4935,4 +4935,4 @@ deres ild skal ikke slukkes, og de skal være en gru for alt kjød.
 
 ------------------------------------------------------------------------
 
-[Next: Jeremiah](jer)
+[Next: Jeremiah](jer.md)

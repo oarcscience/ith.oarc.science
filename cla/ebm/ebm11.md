@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ebm10)  [Next](ebm12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ebm10)  [Next](ebm12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eleusinian and Bacchic Mysteries*, by Thomas Taylor, \[1891\], at
 Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Intangible Textual Heritage
 
 <span id="page_241">p. 241</span>
 
-<span id="img_24101"></span> ![Nymphs and Centaurs.](img/24101.png)  
+<span id="img_24101"></span> ![Nymphs and Centaurs.](img/24101.png.md)  
 Nymphs and Centaurs.
 
 #### GLOSSARY.
@@ -314,9 +314,9 @@ the substance of goodness in truth.”
 human existence upon it.
 
 <span id="img_24701"></span> ![Eleusinian Priest and
-Assistants.](img/24701.png)  
+Assistants.](img/24701.png.md)  
 Eleusinian Priest and Assistants.
 
 ------------------------------------------------------------------------
 
-[Next: List of Illustrations](ebm12)
+[Next: List of Illustrations](ebm12.md)

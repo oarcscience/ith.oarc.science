@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz04)  [Next](krz06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz04)  [Next](krz06.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ In human touch!
 
 ------------------------------------------------------------------------
 
-[Next: Cleanness](krz06)
+[Next: Cleanness](krz06.md)

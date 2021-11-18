@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](how00)  [Next](how02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](how00)  [Next](how02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ and be acceptable to them in especial and, secondly, to you too*.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Concerning the Five Regular Solid Figures](how02)
+[Next: 1. Concerning the Five Regular Solid Figures](how02.md)

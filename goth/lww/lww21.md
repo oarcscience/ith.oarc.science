@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww20)  [Next](lww22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww20)  [Next](lww22.md) 
 
 ------------------------------------------------------------------------
 
@@ -265,4 +265,4 @@ they began to talk freely.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII--At Close Quarters](lww22)
+[Next: Chapter XXII--At Close Quarters](lww22.md)

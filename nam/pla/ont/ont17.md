@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont16)  [Next](ont18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont16)  [Next](ont18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -54,7 +54,7 @@ Creek. On the following morning, the occupants
 
 of the sacred tipi were astir before daybreak. All the labour of moving
 was performed by the chosen assistants of Gives-to-the-Sun. She sat
-apart, behind the sacred travois, <span id="fr_21"></span>[1](#fn_17) on
+apart, behind the sacred travois, <span id="fr_21"></span>[1](#fn_17.md) on
 a buffalo robe and a pillow stuffed with antelope hair. With head bowed
 in prayer, she faced towards the south, the direction in which they
 would move for the last camp. I heard Natokoma
@@ -62,7 +62,7 @@ would move for the last camp. I heard Natokoma
 <span id="img_19300"></span> <span align="CENTER"> [![“GIVES-TO-THE-SUN
 SAT APART, BEHIND THE SACRED TRAVOIS, HER HEAD BOWED IN
 PRAYER.”](tn/19300.jpg)  
-Click to enlarge](img/19300.jpg)  
+Click to enlarge](img/19300.jpg.md)  
 “GIVES-TO-THE-SUN SAT APART, BEHIND THE SACRED TRAVOIS, HER HEAD BOWED
 IN PRAYER.”  
 </span>
@@ -85,7 +85,7 @@ a prominent part in the
 
 <span id="img_19400"></span> <span align="CENTER"> [![GIVES-TO-THE-SUN
 MOUNTED ON THE TRAVOIS HORSE.](tn/19400.jpg)  
-Click to enlarge](img/19400.jpg)  
+Click to enlarge](img/19400.jpg.md)  
 GIVES-TO-THE-SUN MOUNTED ON THE TRAVOIS HORSE.  
 </span>
 
@@ -105,7 +105,7 @@ Then Mad Wolf slowly led the way,
 
 <span id="img_19500"></span> <span align="CENTER"> [![NATOKEMA AND
 GIVES-TO-THE-SUN WAITING WITH THE SACRED TRAVOIS.](tn/19500.jpg)  
-Click to enlarge](img/19500.jpg)  
+Click to enlarge](img/19500.jpg.md)  
 NATOKEMA AND GIVES-TO-THE-SUN WAITING WITH THE SACRED TRAVOIS.  
 </span>
 
@@ -147,7 +147,7 @@ from her shoulders,
 
 <span id="img_19600"></span> <span align="CENTER"> [![GIVES-TO-THE-SUN'S
 OWN HORSE WAS HITCHED TO THE SACRED TRAVOIS.](tn/19600.jpg)  
-Click to enlarge](img/19600.jpg)  
+Click to enlarge](img/19600.jpg.md)  
 GIVES-TO-THE-SUN'S OWN HORSE WAS HITCHED TO THE SACRED TRAVOIS.  
 </span>
 
@@ -169,7 +169,7 @@ horse, a raw-boned, old cripple,
 
 <span id="img_19700"></span> <span align="CENTER"> [![ANATAPSA AND
 DIVES-UNDER-WATER RODE ASTRIDE THE SAME HORSE.](tn/19700.jpg)  
-Click to enlarge](img/19700.jpg)  
+Click to enlarge](img/19700.jpg.md)  
 ANATAPSA AND DIVES-UNDER-WATER RODE ASTRIDE THE SAME HORSE.  
 </span>
 
@@ -190,7 +190,7 @@ Wolf and his
 <span id="img_19800"></span> <span align="CENTER"> [![“THE TWO NOBLE
 CHIEFS WERE IN THE LEAD AND WERE FOLLOWED BY THE MEDICINE WOMEN WITH THE
 SACRED TRAVOIS.”](tn/19800.jpg)  
-Click to enlarge](img/19800.jpg)  
+Click to enlarge](img/19800.jpg.md)  
 “THE TWO NOBLE CHIEFS WERE IN THE LEAD AND WERE FOLLOWED BY THE MEDICINE
 WOMEN WITH THE SACRED TRAVOIS.”  
 </span>
@@ -213,7 +213,7 @@ riders and around their horses’ necks
 
 <span id="img_19900"></span> <span align="CENTER"> [![THE THREE
 CHIEFS.](tn/19900.jpg)  
-Click to enlarge](img/19900.jpg)  
+Click to enlarge](img/19900.jpg.md)  
 THE THREE CHIEFS.  
 </span>
 
@@ -235,7 +235,7 @@ overtook the procession while it was stopping
 <span id="img_20000"></span> <span align="CENTER"> [![“THERE WAS A LONG
 LINE OF WARRIORS WITH RIFLES AND WAR-BONNETS AND BEARING THE SACRED
 SPEAR AND SHIELD.”](tn/20000.jpg)  
-Click to enlarge](img/20000.jpg)  
+Click to enlarge](img/20000.jpg.md)  
 “THERE WAS A LONG LINE OF WARRIORS WITH RIFLES AND WAR-BONNETS AND
 BEARING THE SACRED SPEAR AND SHIELD.”  
 </span>
@@ -310,7 +310,7 @@ that time his band
 
 <span id="img_20200"></span> <span align="CENTER"> [![PITCHING THE
 SACRED TIPI.](tn/20200.jpg)  
-Click to enlarge](img/20200.jpg)  
+Click to enlarge](img/20200.jpg.md)  
 PITCHING THE SACRED TIPI.  
 </span>
 
@@ -330,7 +330,7 @@ must not i)e disturbed. The medicine
 
 <span id="img_20300"></span> <span align="CENTER"> [![ARRIVAL OF RUNNING
 CRANE LEADING THE SOUTHERN DIVISION OF THE TRIBE.](tn/20300.jpg)  
-Click to enlarge](img/20300.jpg)  
+Click to enlarge](img/20300.jpg.md)  
 ARRIVAL OF RUNNING CRANE LEADING THE SOUTHERN DIVISION OF THE TRIBE.  
 </span>
 
@@ -339,7 +339,7 @@ branches, against the back of the lodge.
 
 <span id="img_20301"></span> <span align="CENTER"> [![TEARS-IN-HER-EYES
 IN HER BLACKFOOT CRADLE.](tn/20301.jpg)  
-Click to enlarge](img/20301.jpg)  
+Click to enlarge](img/20301.jpg.md)  
 TEARS-IN-HER-EYES IN HER BLACKFOOT CRADLE.  
 </span>
 
@@ -358,7 +358,7 @@ sympathetic squaws, but continued to waste
 
 <span id="img_20400"></span> <span align="CENTER"> [![CHIEF OF THE MAD
 DOGS.](tn/20400.jpg)  
-Click to enlarge](img/20400.jpg)  
+Click to enlarge](img/20400.jpg.md)  
 CHIEF OF THE MAD DOGS.  
 </span>
 
@@ -381,7 +381,7 @@ the Indians from the south. He
 
 <span id="img_20500"></span> <span align="CENTER"> [![MAD DOG LODGES
 (BLACKFEET POLICE).](tn/20500.jpg)  
-Click to enlarge](img/20500.jpg)  
+Click to enlarge](img/20500.jpg.md)  
 MAD DOG LODGES (BLACKFEET POLICE).  
 </span>
 
@@ -419,7 +419,7 @@ their dances, which took place both day and night.
 
 <span id="img_20600"></span> <span align="CENTER"> [![INNER CIRCLE OF
 PAINTED TIPIS](tn/20600.jpg)  
-Click to enlarge](img/20600.jpg)  
+Click to enlarge](img/20600.jpg.md)  
 INNER CIRCLE OF PAINTED TIPIS  
 </span>
 
@@ -427,9 +427,9 @@ INNER CIRCLE OF PAINTED TIPIS
 
 ### Footnotes
 
-<span id="fn_17"></span>[193:1](ont17.htm#fr_21) See
-[Appendix](ont44.htm#an_193).
+<span id="fn_17"></span>[193:1](ont17.htm#fr_21.md) See
+[Appendix](ont44.htm#an_193.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Painted Tipis](ont18)
+[Next: Chapter XV. Painted Tipis](ont18.md)

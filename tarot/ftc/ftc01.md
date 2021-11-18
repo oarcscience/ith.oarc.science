@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](ftc00)  [Next](ftc02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](ftc00)  [Next](ftc02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte.md)
 
 </div>
 
@@ -310,6 +310,6 @@ CHAPTER XIX</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](ftc02)
+[Next: Introduction](ftc02.md)
 
 </div>

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tsb00)  [Next](tsb02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tsb00)  [Next](tsb02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ used by permission of the Houghton Mifflin Company.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](tsb02)
+[Next: Contents](tsb02.md)

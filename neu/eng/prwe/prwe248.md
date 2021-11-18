@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe247)  [Next](prwe249) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe247)  [Next](prwe249.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ limbs.
 
 ------------------------------------------------------------------------
 
-[Next: A Cure for Rheumatism](prwe249)
+[Next: A Cure for Rheumatism](prwe249.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes07)  [Next](nes09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes07)  [Next](nes09.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![B](img/binit.jpg) |
+| ![B](img/binit.jpg.md) |
 
 OYS seem to fight at times for the fun of fighting, and it is not at all
 difficult to got up a fight at any time. One will say to his companion,
@@ -28,7 +28,7 @@ athegither," is the indignant answer. "Come on, Jock," shout two or
 three voices. Jock and his opponent meet, and look each other in the
 face. A third steps in between the two, holds out his arm between them
 and says, "The best man spit our that." <span
-id="fr_15"></span>[1](#fn_15) Jock spits. Then all cry, "Follow yir
+id="fr_15"></span>[1](#fn_15.md) Jock spits. Then all cry, "Follow yir
 spittle," and Jock rushes on his opponent, and the two fight till they
 are tired. Sometimes, when one wishes to get up a fight with a companion
 who does not wish to fight, he challenges him by striking him a blow,
@@ -171,8 +171,8 @@ boy who first speaks is entitled to the whole of the found property.
 
 ### Footnotes
 
-<span id="fn_15"></span>[21:1](nes08.htm#fr_15) Cf. Henderson, p. 32.
+<span id="fn_15"></span>[21:1](nes08.htm#fr_15.md) Cf. Henderson, p. 32.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. About the Human Body](nes09)
+[Next: Chapter VI. About the Human Body](nes09.md)

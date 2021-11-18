@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt85)  [Next](egt87) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt85)  [Next](egt87.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ secret of the Qur'ân.
 
 ------------------------------------------------------------------------
 
-[Next: IN THE RECITAL OF THE MIRACLE WROUGHT BY THE QUR'ÂN.](egt87)
+[Next: IN THE RECITAL OF THE MIRACLE WROUGHT BY THE QUR'ÂN.](egt87.md)

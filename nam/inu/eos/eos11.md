@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index) 
-[Siberian](../../../asia/index.htm#siberia)  [Index](index) 
-[Previous](eos10)  [Next](eos12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index.md) 
+[Siberian](../../../asia/index.htm#siberia)  [Index](index.md) 
+[Previous](eos10)  [Next](eos12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eskimo of Siberia*, by Waldemar Bogoras, \[1913\], at Intangible
 Textual Heritage
 
@@ -54,4 +54,4 @@ Indian Point, May, 1901.
 
 ------------------------------------------------------------------------
 
-[Next: 11. The Hare frees the Sun.](eos12)
+[Next: 11. The Hare frees the Sun.](eos12.md)

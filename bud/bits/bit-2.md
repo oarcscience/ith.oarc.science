@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-1) [Next](bit-3)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-1) [Next](bit-3.md)
 
 ------------------------------------------------------------------------
 
@@ -6,11 +6,11 @@
 
 CONTENTS
 
-{[Chapter I - The Buddha](#Chapter%20I)   [Chapter II - Sentient
-Existence](#Chapter%20II)  
-[Chapter III - Karma and Rebirth](#Chapter%20III)   [Chapter IV -
-Meditation and Nirvana](#Chapter%20IV)  
-[Chapter V - The Order](#Chapter%20V)   [Appendix](#Appendix)}
+{[Chapter I - The Buddha](#Chapter%20I.md)   [Chapter II - Sentient
+Existence](#Chapter%20II.md)  
+[Chapter III - Karma and Rebirth](#Chapter%20III.md)   [Chapter IV -
+Meditation and Nirvana](#Chapter%20IV.md)  
+[Chapter V - The Order](#Chapter%20V)   [Appendix](#Appendix.md)}
 
 ------------------------------------------------------------------------
 
@@ -731,7 +731,7 @@ Meditation and Nirvana](#Chapter%20IV)
 
 ------------------------------------------------------------------------
 
-[Next: Abbreviations](bit-3)
+[Next: Abbreviations](bit-3.md)
 
  
 

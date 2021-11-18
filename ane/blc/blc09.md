@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc08)  [Next](blc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc08)  [Next](blc10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ at Intangible Textual Heritage
 <span id="img_019"></span> <span align="CENTER"> [![Portion of a tablet
 inscribed in Assyrian with a text of the Second Tablet of the Creation
 Series. \[No. 40,559.\]](tn/019.png)  
-Click to enlarge](img/019.png)  
+Click to enlarge](img/019.png.md)  
 Portion of a tablet inscribed in Assyrian with a text of the Second
 Tablet of the Creation Series. \[No. 40,559.\]  
 </span>
@@ -57,7 +57,7 @@ without ceasing,
 
 18\. They set the battle in array, they uttered cries of defiance.
 
-19\. Ummu-Khubur, <span id="fr_28"></span>[29](blc17.htm#fn_28) who
+19\. Ummu-Khubur, <span id="fr_28"></span>[29](blc17.htm#fn_28.md) who
 fashioned all things,
 
 20\. Set up the unrivalled weapon, she spawned huge serpents
@@ -205,7 +205,7 @@ fragmentary to translate; line 85 reads:--
 100\. "Draw nigh and enter the presence of An-shar,
 
 101\. "Stand there \[with joy\], when he looketh upon thee he will be at
-rest." <span id="fr_29"></span>[30](blc17.htm#fn_29)
+rest." <span id="fr_29"></span>[30](blc17.htm#fn_29.md)
 
 113\. The Lord \[Marduk\] rejoiced at the word of his father,
 
@@ -217,7 +217,7 @@ rest." <span id="fr_29"></span>[30](blc17.htm#fn_29)
 fear was removed. \[Then Marduk said\]
 
 117\. "My father, let not the opening of thy mouth be closed, <span
-id="fr_30"></span>[31](blc17.htm#fn_30)
+id="fr_30"></span>[31](blc17.htm#fn_30.md)
 
 118\. "I will go, I will make to take place all that is in thy heart.
 
@@ -269,4 +269,4 @@ nought."
 
 ------------------------------------------------------------------------
 
-[Next: Third Tablet](blc10)
+[Next: Third Tablet](blc10.md)

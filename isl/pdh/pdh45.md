@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](pdh44)  [Next](pdh46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](pdh44)  [Next](pdh46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ From the world and life shall bid him come forth and arise!
 
 ------------------------------------------------------------------------
 
-[Next: I](pdh46)
+[Next: I](pdh46.md)

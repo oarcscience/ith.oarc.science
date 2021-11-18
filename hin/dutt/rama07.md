@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rama06)  [Next](rama08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rama06)  [Next](rama08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55Q4M/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55Q4M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Ramayana and Mahabharata*, by Romesh C. Dutt, \[1899\], at
 Intangible Textual Heritage
 
@@ -551,4 +551,4 @@ Utmost confines of the wide earth, home of Gods and Spirits blest!"
 
 ------------------------------------------------------------------------
 
-[Next: Book VIII: Sita Discovered](rama08)
+[Next: Book VIII: Sita Discovered](rama08.md)

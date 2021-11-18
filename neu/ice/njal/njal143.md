@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal142)  [Next](njal144) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal142)  [Next](njal144.md) 
 
 ------------------------------------------------------------------------
 
@@ -238,4 +238,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: 144. Battle At The Althing](njal144)
+[Next: 144. Battle At The Althing](njal144.md)

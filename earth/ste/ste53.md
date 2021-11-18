@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste52)  [Next](ste54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste52)  [Next](ste54.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,11 +112,11 @@ God*. And the like is promis’d to the Palm-bearing Company, *Chap*. 7.
 15. where they are admitted to the priviledges of the *New Jerusalem*.
 When our Saviour was incarnate, and vouchsafed to dwell amongst the
 Children of Men, the same phrase is us’d by this same Author, Joh. 1.
-14.  <span id="fr_20"></span>[1](#fn_20) *The Word was made flesh, and
+14.  <span id="fr_20"></span>[1](#fn_20.md) *The Word was made flesh, and
 Tabernacled amongst us: and we beheld his glory*, *&c*. We read it, *He
 dwelt amongst us*, but render’d more closely, it is, *He* set his
 *Tabernacle amongst us*. And that which the *Hebrews* call the
-*Shekinah*,  <span id="fr_21"></span>[2](#fn_21) or *divine presence*,
+*Shekinah*,  <span id="fr_21"></span>[2](#fn_21.md) or *divine presence*,
 comes from this very word. Therefore there will be a *Shekinah* in that
 kingdom of Christ; but as to the mode of it, I am very willing to
 confess my ignorance.
@@ -249,11 +249,11 @@ will obtain. Which is the next thing to be consider’d.
 
 ### Footnotes
 
-<span id="fn_20"></span>[354:1](ste53.htm#fr_20) ἐσκήγωση.
+<span id="fn_20"></span>[354:1](ste53.htm#fr_20.md) ἐσκήγωση.
 
-<span id="fn_21"></span>[354:2](ste53.htm#fr_21) שכינה  
+<span id="fn_21"></span>[354:2](ste53.htm#fr_21.md) שכינה  
 *Maimon. Mor. Nev*. *par*. 1. *c*. 25
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](ste54)
+[Next: Chapter VIII](ste54.md)

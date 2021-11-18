@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [African](../index) 
-[Index](index)  [Previous](vao00)  [Next](vao02) 
+[Intangible Textual Heritage](../../index)  [African](../index.md) 
+[Index](index)  [Previous](vao00)  [Next](vao02.md) 
 
 ------------------------------------------------------------------------
 
@@ -589,4 +589,4 @@ observations are now set forth in the following pages.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](vao02)
+[Next: Table of Contents](vao02.md)

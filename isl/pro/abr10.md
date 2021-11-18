@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](abr09)  [Next](abr11) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](abr09)  [Next](abr11.md) 
 
 ------------------------------------------------------------------------
 
@@ -164,7 +164,7 @@ somehow to translate\].
 
 ------------------------------------------------------------------------
 
-[Next: A Completion With The Ancestry of The Prophet (PUH)](abr11)
+[Next: A Completion With The Ancestry of The Prophet (PUH)](abr11.md)
 
 </div>
 

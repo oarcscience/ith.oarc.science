@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm15)  [Next](tdm17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm15)  [Next](tdm17.md) 
 
 ------------------------------------------------------------------------
 
@@ -620,4 +620,4 @@ distinguishable as a circular war-sandal!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV](tdm17)
+[Next: Chapter XV](tdm17.md)

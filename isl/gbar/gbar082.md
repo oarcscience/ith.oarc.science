@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar081) [Next](gbar083)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar081) [Next](gbar083.md)
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ that she had heard from Jesus.
 
 ------------------------------------------------------------------------
 
-[Next](gbar083)
+[Next](gbar083.md)

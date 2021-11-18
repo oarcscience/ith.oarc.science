@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz11)  [Next](krz13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz11)  [Next](krz13.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,7 +144,7 @@ the perfect result.
 
 At the end of an hour, not sooner, all discharges having long since
 passed and dried up, if you can again feel potent it will be safe to
-renew the attempt.  <span id="fr_1"></span>[2](#fn_1) Caress her for a
+renew the attempt.  <span id="fr_1"></span>[2](#fn_1.md) Caress her for a
 while, exactly as at first, and be sure her nectar-moisture and
 willingness are as at first. This is your sign of invitation - of her
 blissful welcome and Nature's chrism. If she is dry, you will hurt her.
@@ -189,11 +189,11 @@ earth.
 
 ### Footnotes
 
-<span id="fn_1"></span>[32:2](krz12.htm#fr_1) To facilitate this -
+<span id="fn_1"></span>[32:2](krz12.htm#fr_1.md) To facilitate this -
 immediately after the emission stroke, with a firm, gentle pressure,
 upward from the anus to the scrotum, thus aiding complete discharge, and
 thereafter soon urinate.
 
 ------------------------------------------------------------------------
 
-[Next: The Woman's Part in Karezza](krz13)
+[Next: The Woman's Part in Karezza](krz13.md)

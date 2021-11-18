@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp74)  [Next](prp76) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp74)  [Next](prp76.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ unserviceable wood, 'twill be of use if ye sacrifice at my altar.\[1\]
 ------------------------------------------------------------------------
 
 [Next: 76. Right through the middle of lads and of lasses a passage
-shall pierce](prp76)
+shall pierce](prp76.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil03)  [Next](wil05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil03)  [Next](wil05.md) 
 
 ------------------------------------------------------------------------
 
@@ -385,4 +385,4 @@ touches the stars.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Of the Hindu Woman as Wife](wil05)
+[Next: Chapter III. Of the Hindu Woman as Wife](wil05.md)

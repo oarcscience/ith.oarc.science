@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,18 +20,18 @@
 
 ------------------------------------------------------------------------
 
-[Title Page and Front Matter](tl00)  
-[Preface](tl01)  
-[Contents](tl02)  
-[Illustrations](tl03)  
-[The Story Told by the Keeper of the Pharos](tl04)  
-[Aeolus and the Tower of the Winds](tl05)  
-[The Moon That Shone on the Porcelain Pagoda](tl06)  
-[The Brahman's Star](tl07)  
-[The Dragon of Ghent](tl08)  
-[The Ox That Helped](tl09)  
-[The Raven of the Giralda](tl10)  
-[The Goblin of Giotto's Tower](tl11)  
-[The Leprechaun of Ardmore Tower](tl12)  
-[The Tower That Sings](tl13)  
-[Bibliography and Notes](tl14)  
+[Title Page and Front Matter](tl00.md)  
+[Preface](tl01.md)  
+[Contents](tl02.md)  
+[Illustrations](tl03.md)  
+[The Story Told by the Keeper of the Pharos](tl04.md)  
+[Aeolus and the Tower of the Winds](tl05.md)  
+[The Moon That Shone on the Porcelain Pagoda](tl06.md)  
+[The Brahman's Star](tl07.md)  
+[The Dragon of Ghent](tl08.md)  
+[The Ox That Helped](tl09.md)  
+[The Raven of the Giralda](tl10.md)  
+[The Goblin of Giotto's Tower](tl11.md)  
+[The Leprechaun of Ardmore Tower](tl12.md)  
+[The Tower That Sings](tl13.md)  
+[Bibliography and Notes](tl14.md)  

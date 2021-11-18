@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](pdh41)  [Next](pdh43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](pdh41)  [Next](pdh43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ And they will teach thee what to learn is sweet.
 
 ------------------------------------------------------------------------
 
-[Next: XLI. The days of Spring are here! the eglantine](pdh43)
+[Next: XLI. The days of Spring are here! the eglantine](pdh43.md)

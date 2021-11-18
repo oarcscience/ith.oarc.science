@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks29)  [Next](lks31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks29)  [Next](lks31.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ we doe alle!
 
 ------------------------------------------------------------------------
 
-[Next: Atte Ye Bathes Of Art](lks31)
+[Next: Atte Ye Bathes Of Art](lks31.md)

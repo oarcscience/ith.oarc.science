@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj16)  [Next](chj18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj16)  [Next](chj18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -25,12 +25,12 @@ Textual Heritage
 of the Mahāyāna, it behoves us to turn a glance to that great religious
 movement which began in the middle of the third century.
 
-Mani, or Manichæus, <span id="fr_193"></span>[1](#fn_192) to give him
+Mani, or Manichæus, <span id="fr_193"></span>[1](#fn_192.md) to give him
 the name by which he was generally known, was born in A D. 215, almost
 contemporaneously with the fall of the Han Dynasty. He was descended
 from a distinguished Persian family which had emigrated from Ecbatana in
 Persia, and had settled in Babylonia. His early days were spent amongst
-the Mugtasilahs, or Baptizers, <span id="fr_194"></span>[2](#fn_193) a
+the Mugtasilahs, or Baptizers, <span id="fr_194"></span>[2](#fn_193.md) a
 sect which his father, Fathak,
 
 <span id="page_146">p. 146</span>
@@ -54,7 +54,7 @@ their verdicts. I will give St. Cyril's own words, which are mainly
 taken from the Acta Archelai.
 
 "There was in Egypt one Scythianus, a Saracen <span
-id="fr_195"></span>[1](#fn_194) by birth, having nothing in common
+id="fr_195"></span>[1](#fn_194.md) by birth, having nothing in common
 either with Judaism or with Christianity. This man, who dwelt at
 Alexandria and imitated the life of Aristotle, composed four books—one
 called a Gospel which had not the Acts of Christ, but
@@ -65,14 +65,14 @@ the mere name only; and one other called the Book of Chapters; and a
 third of Mysteries; and a fourth, which they circulate now, the
 Treasure. This man had a disciple, Terebinthus by name. But when
 Scythianus purposed to come into Judæa <span
-id="fr_196"></span>[1](#fn_195) and make havoc of the land, the Lord
+id="fr_196"></span>[1](#fn_195.md) and make havoc of the land, the Lord
 smote him with a deadly disease, and stayed the pestilence. But
 Terebinthus, his disciple in this wicked error, inherited his money and
 books and heresy, and came to Palestine, and becoming known and
 condemned in Judæa, he resolved to pass into Persia; <span
-id="fr_197"></span>[2](#fn_196) but lest he should be recognized there
+id="fr_197"></span>[2](#fn_196.md) but lest he should be recognized there
 also by his name, he changed it and called himself Buddas. <span
-id="fr_198"></span>[3](#fn_197) However, he found adversaries there also
+id="fr_198"></span>[3](#fn_197.md) However, he found adversaries there also
 in the priests of Mithras; and being confuted in the discussion of many
 arguments and controversies, and at last hard pressed, he took refuge
 with a certain widow."
@@ -90,7 +90,7 @@ slave, grew up in the midst of the philosophers, and on the death of the
 widow inherited both the books and the money. Then, lest the name of
 slavery might be a reproach, instead of Cubricus he called himself
 Manes, which in the language of the Persians signifies
-'Discourse.'" <span id="fr_199"></span>[1](#fn_198)
+'Discourse.'" <span id="fr_199"></span>[1](#fn_198.md)
 
 In the year A.D. 242, at the coronation of King Sapor I., Manes, now
 twenty-four years of age, and fed upon the doctrines of the Baptizers,
@@ -146,10 +146,10 @@ simply proposed to
 <span id="page_150">p. 150</span>
 
 gratify man's craving for knowledge by explaining the very problem of
-his existence." <span id="fr_200"></span>[1](#fn_199) It had a phrase in
+his existence." <span id="fr_200"></span>[1](#fn_199.md) It had a phrase in
 China which well sums up its principal teaching—a word pronounced in
 Japanese as *Dai-un-Kōmyō*, "the Light on the Great Cloud." <span
-id="fr_201"></span>[2](#fn_200) It recognized two elements—the Light and
+id="fr_201"></span>[2](#fn_200.md) It recognized two elements—the Light and
 the Cloud; and the Light, which is all good, is God. The personality of
 God comprises five spiritual and five material sub-elements, a division
 clearly corresponding to the five Dhyāni Buddhas and Bodhisattvas. "But
@@ -178,7 +178,7 @@ sensual pleasure; Bodhisattvas and "Perfect" are alike forbidden
 to dig the earth, to build houses, to engage in industry or commerce.
 The Bodhisattva and the Perfect alike are forbidden to partake of the
 "five strong herbs," known in Japan as "Go Shin." <span
-id="fr_202"></span>[1](#fn_201)
+id="fr_202"></span>[1](#fn_201.md)
 
 It is impossible to deny the influence exercised upon the plastic
 Mahāyāna by Manichæism. From the middle of the third century onwards the
@@ -199,7 +199,7 @@ Buddhists of the fact of Christ.
 
 ### Footnotes
 
-<span id="fn_192"></span>[145:1](chj17.htm#fr_193) *Mani* means a
+<span id="fn_192"></span>[145:1](chj17.htm#fr_193.md) *Mani* means a
 painter. I have often wondered if there can be any connection between
 the name *Manichæus* and the famous Buddhist monastery of Manikyala. I
 draw my materials for this chapter mainly, though not entirely, from
@@ -207,7 +207,7 @@ Kessler's article on Mani in the "Schaff-Herzog Encyclopædia." It is
 probable that in the course of a few years our knowledge of Manichæism
 will be much increased as a result of recent finds in Central Asia.
 
-<span id="fn_193"></span>[145:2](chj17.htm#fr_194) The Mendæans or
+<span id="fn_193"></span>[145:2](chj17.htm#fr_194.md) The Mendæans or
 Mandæans still subsist, in a very small community, on the eastern banks
 of the Tigris. They are sometimes called the Christians of St. John, on
 account of the great veneration they pay to St. John the Baptist, whom
@@ -229,21 +229,21 @@ previous chapter, very similar to those of the Shingon *Kwanjo*. Like
 many Japanese Buddhists, they have a special veneration for the Polar
 Star (Jap. *myōken*), towards which they turn when praying.
 
-<span id="fn_194"></span>[146:1](chj17.htm#fr_195) I have already shown
+<span id="fn_194"></span>[146:1](chj17.htm#fr_195.md) I have already shown
 how widely, even in As’oka's days, was the expansion of Buddhism among
 non-Indian peoples.
 
-<span id="fn_195"></span>[147:1](chj17.htm#fr_196) In the "Acta
+<span id="fn_195"></span>[147:1](chj17.htm#fr_196.md) In the "Acta
 Archelai" we read, "Scythianus thought of making an excursion into
 Judaea, with the purpose of meeting all those that had a reputation
 there as teachers." And this is said to have been in the days of the
 Apostles. See my paper on the "Formative Elements of Japanese Buddhism,"
 in *Trans. As. Soc. Japan*, vol. xxxv.
 
-<span id="fn_196"></span>[147:2](chj17.htm#fr_197) In the "Acta
+<span id="fn_196"></span>[147:2](chj17.htm#fr_197.md) In the "Acta
 Archelai" it is "Babylon, a province which is now held by the Persians."
 
-<span id="fn_197"></span>[147:3](chj17.htm#fr_198) Does the name of some
+<span id="fn_197"></span>[147:3](chj17.htm#fr_198.md) Does the name of some
 great Mahāyānist doctor—for instance, Nāgārjuna—lurk behind Terebinthus?
 Nag is the name of a tree, "the *arjuna* tree sacred to the worship of
 the Nagas," and always appears in Japanese as *Ryū ju*, the "tree of the
@@ -257,16 +257,16 @@ and Nāgārjuna, like Terebinthus, was known amongst his contemporaries as
 "Buddha." The establishment of this conjectural identification would
 clear up many difficulties.
 
-<span id="fn_198"></span>[148:1](chj17.htm#fr_199) The name also means
+<span id="fn_198"></span>[148:1](chj17.htm#fr_199.md) The name also means
 "painter." The Greeks, not unnaturally perhaps, nicknamed him the
 Maniac.
 
-<span id="fn_199"></span>[150:1](chj17.htm#fr_200) Kessler, *l.c.*
+<span id="fn_199"></span>[150:1](chj17.htm#fr_200.md) Kessler, *l.c.*
 
-<span id="fn_200"></span>[150:2](chj17.htm#fr_201) See my "Shinran and
+<span id="fn_200"></span>[150:2](chj17.htm#fr_201.md) See my "Shinran and
 His Work," p. 166.
 
-<span id="fn_201"></span>[151:1](chj17.htm#fr_202) *Cf*. "Shinran and
+<span id="fn_201"></span>[151:1](chj17.htm#fr_202.md) *Cf*. "Shinran and
 His Work." The lower class of Manichæan disciples, the "Hearers,"
 corresponds, even philologically, with the S’ravakas of Buddhism. The
 distinction lies at the basis of the distinction, common in Japanese
@@ -275,4 +275,4 @@ sects, of *Shintai* and *Zokutai*.
 ------------------------------------------------------------------------
 
 [Next: Chapter XVI. China in the Third, Fourth, and Fifth
-Centuries](chj18)
+Centuries](chj18.md)

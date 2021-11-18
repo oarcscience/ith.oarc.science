@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](mac01)  [Next](mac03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](mac01)  [Next](mac03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -32,4 +32,4 @@ ROSH CHODESH SIVAN, 5663
 ------------------------------------------------------------------------
 
 [Next: Concluding Words To The Completion Of Sections Festival And
-Jurisprudence](mac03)
+Jurisprudence](mac03.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw08)  [Next](rvw10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw08)  [Next](rvw10.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ fetal development. If this suggestion of personhood is established, the
 appellant's case, of course, collapses, \[410 U.S. 113, 157\] for the
 fetus' right to life would then be guaranteed specifically by the
 Amendment. The appellant conceded as much on
-reargument. [51](rvw13.htm#xref_51) On the other hand, the appellee
-conceded on reargument [52](rvw13.htm#xref_52) that no case could be
+reargument. [51](rvw13.htm#xref_51.md) On the other hand, the appellee
+conceded on reargument [52](rvw13.htm#xref_52.md) that no case could be
 cited that holds that a fetus is a person within the meaning of the
 Fourteenth Amendment.
 
@@ -39,7 +39,7 @@ the United States." The word also appears both in the Due Process Clause
 and in the Equal Protection Clause. "Person" is used in other places in
 the Constitution: in the listing of qualifications for Representatives
 and Senators, Art. I, 2, cl. 2, and 3, cl. 3; in the Apportionment
-Clause, Art. I, 2, cl. 3; [53](rvw13.htm#xref_53) in the Migration and
+Clause, Art. I, 2, cl. 3; [53](rvw13.htm#xref_53.md) in the Migration and
 Importation provision, Art. I, 9, cl. 1; in the Emolument Clause, Art.
 I, 9, cl. 8; in the Electors provisions, Art. II, 1, cl. 2, and the
 superseded cl. 3; in the provision outlining qualifications for the
@@ -49,13 +49,13 @@ the Fifth, Twelfth, and Twenty-second Amendments, as well as in 2 and 3
 of the Fourteenth Amendment. But in nearly all these instances, the use
 of the word is such that it has application only postnatally. None
 indicates, with any assurance, that it has any possible pre-natal
-application. [54](rvw13.htm#xref_54) \[410 U.S. 113, 158\]
+application. [54](rvw13.htm#xref_54.md) \[410 U.S. 113, 158\]
 
 All this, together with our observation, supra, that throughout the
 major portion of the 19th century prevailing legal abortion practices
 were far freer than they are today, persuades us that the word "person,"
 as used in the Fourteenth Amendment, does not include the
-unborn. [55](rvw13.htm#xref_55) This is in accord with the results
+unborn. [55](rvw13.htm#xref_55.md) This is in accord with the results
 reached in those few cases where the issue has been squarely presented.
 McGarvey v. Magee-Womens Hospital, 340 F. Supp. 751 (WD Pa. 1972); Byrn
 v. New York City Health & Hospitals Corp., 31 N. Y. 2d 194, 286 N. E. 2d
@@ -100,27 +100,27 @@ in a position to speculate as to the answer. \[410 U.S. 113, 160\]
 It should be sufficient to note briefly the wide divergence of thinking
 on this most sensitive and difficult question. There has always been
 strong support for the view that life does not begin until live birth.
-This was the belief of the Stoics. [56](rvw13.htm#xref_56) It appears to
+This was the belief of the Stoics. [56](rvw13.htm#xref_56.md) It appears to
 be the predominant, though not the unanimous, attitude of the Jewish
-faith. [57](rvw13.htm#xref_57) It may be taken to represent also the
+faith. [57](rvw13.htm#xref_57.md) It may be taken to represent also the
 position of a large segment of the Protestant community, insofar as that
 can be ascertained; organized groups that have taken a formal position
 on the abortion issue have generally regarded abortion as a matter for
-the conscience of the individual and her family. [58](rvw13.htm#xref_58)
+the conscience of the individual and her family. [58](rvw13.htm#xref_58.md)
 As we have noted, the common law found greater significance in
 quickening. Physicians and their scientific colleagues have regarded
 that event with less interest and have tended to focus either upon
 conception, upon live birth, or upon the interim point at which the
 fetus becomes "viable," that is, potentially able to live outside the
-mother's womb, albeit with artificial aid. [59](rvw13.htm#xref_59)
+mother's womb, albeit with artificial aid. [59](rvw13.htm#xref_59.md)
 Viability is usually placed at about seven months (28 weeks) but may
-occur earlier, even at 24 weeks. [60](rvw13.htm#xref_60) The
+occur earlier, even at 24 weeks. [60](rvw13.htm#xref_60.md) The
 Aristotelian theory of "mediate animation," that held sway throughout
 the Middle Ages and the Renaissance in Europe, continued to be official
 Roman Catholic dogma until the 19th century, despite opposition to this
 "ensoulment" theory from those in the Church who would recognize the
 existence of life from \[410 U.S. 113, 161\] the moment of
-conception. [61](rvw13.htm#xref_61) The latter is now, of course, the
+conception. [61](rvw13.htm#xref_61.md) The latter is now, of course, the
 official belief of the Catholic Church. As one brief amicus discloses,
 this is a view strongly held by many non-Catholics as well, and by many
 physicians. Substantial problems for precise definition of this view are
@@ -128,7 +128,7 @@ posed, however, by new embryological data that purport to indicate that
 conception is a "process" over time, rather than an event, and by new
 medical techniques such as menstrual extraction, the "morning-after"
 pill, implantation of embryos, artificial insemination, and even
-artificial wombs. [62](rvw13.htm#xref_62)
+artificial wombs. [62](rvw13.htm#xref_62.md)
 
 In areas other than criminal abortion, the law has been reluctant to
 endorse any theory that life, as we recognize it, begins before live
@@ -136,24 +136,24 @@ birth or to accord legal rights to the unborn except in narrowly defined
 situations and except when the rights are contingent upon live birth.
 For example, the traditional rule of tort law denied recovery for
 prenatal injuries even though the child was born
-alive. [63](rvw13.htm#xref_63) That rule has been changed in almost
+alive. [63](rvw13.htm#xref_63.md) That rule has been changed in almost
 every jurisdiction. In most States, recovery is said to be permitted
 only if the fetus was viable, or at least quick, when the injuries were
 sustained, though few \[410 U.S. 113, 162\] courts have squarely so
-held. [64](rvw13.htm#xref_64) In a recent development, generally opposed
+held. [64](rvw13.htm#xref_64.md) In a recent development, generally opposed
 by the commentators, some States permit the parents of a stillborn child
 to maintain an action for wrongful death because of prenatal
-injuries. [65](rvw13.htm#xref_65) Such an action, however, would appear
+injuries. [65](rvw13.htm#xref_65.md) Such an action, however, would appear
 to be one to vindicate the parents' interest and is thus consistent with
 the view that the fetus, at most, represents only the potentiality of
 life. Similarly, unborn children have been recognized as acquiring
 rights or interests by way of inheritance or other devolution of
 property, and have been represented by guardians ad
-litem. [66](rvw13.htm#xref_66) Perfection of the interests involved,
+litem. [66](rvw13.htm#xref_66.md) Perfection of the interests involved,
 again, has generally been contingent upon live birth. In short, the
 unborn have never been recognized in the law as persons in the whole
 sense.
 
 ------------------------------------------------------------------------
 
-[Next: Section X](rvw10)
+[Next: Section X](rvw10.md)

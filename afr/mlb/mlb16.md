@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb15)  [Next](mlb17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb15)  [Next](mlb17.md) 
 
 ------------------------------------------------------------------------
 
@@ -625,4 +625,4 @@ separated the European stream of tradition from the African.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: Lightning, Thunder, Rain, and the Rainbow](mlb17)
+[Next: Chapter XV: Lightning, Thunder, Rain, and the Rainbow](mlb17.md)

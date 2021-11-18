@@ -1,17 +1,17 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
@@ -35,8 +35,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mlc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mlc.txt.gz)
+[Contents](#contents)    [Start Reading](mlc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mlc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -45,9 +45,9 @@ Index](pageidx)    [Text \[Zipped\]](mlc.txt.gz)
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
 This is the Chinese volume in the always reliable Myths and Legends
-series, e.g. [Babylonia](../../ane/mba/index),
-[British](../../neu/eng/hml/index), and
-[Celtic](../../neu/celt/mlcr/index). The author consulted mostly Chinese
+series, e.g. [Babylonia](../../ane/mba/index.md),
+[British](../../neu/eng/hml/index.md), and
+[Celtic](../../neu/celt/mlcr/index.md). The author consulted mostly Chinese
 sources to splice together this broad look at Chinese traditional
 folklore, related to all three of the main Chinese religions, Buddhism,
 Confucianism and Taoism. Werner covers such topics as the evolution of
@@ -57,24 +57,24 @@ lovers of Chinese lore.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mlc00)  
-[Preface](mlc01)  
-[Contents](mlc02)  
-[Chapter I. Racial Origin](mlc03)  
-[Chapter II. Mythology and Intellectual Progress](mlc04)  
-[Chapter III. The Fashioner of the Universe](mlc05)  
-[Chapter IV. The Birth of the Soul](mlc06)  
-[Chapter V. Myths of the Stars](mlc07)  
-[Chapter VI. Myths of Thunder, Lightning, Wind, and Rain](mlc08)  
-[Chapter VII. Myths of the Waters](mlc09)  
-[Chapter VIII. Myths of Fire](mlc10)  
-[Chapter IX. Myths of Epidemics, Medicine, Exorcism, Etc.](mlc11)  
-[Chapter X. The Goddess of Mercy](mlc12)  
-[Chapter XI. The Eight Immortals](mlc13)  
-[Chapter XII. The Guardian of the Gate of Heaven](mlc14)  
-[Chapter XIII. A Battle of the Gods](mlc15)  
-[Chapter XIV. How the Monkey Became a God](mlc16)  
-[Chapter XV. Fox Legends](mlc17)  
-[Chapter XVI. Miscellaneous Legends](mlc18)  
-[Glossary and Index](mlc19)  
-[Advertisements](mlc20)  
+<span id="contents"></span> [Title Page](mlc00.md)  
+[Preface](mlc01.md)  
+[Contents](mlc02.md)  
+[Chapter I. Racial Origin](mlc03.md)  
+[Chapter II. Mythology and Intellectual Progress](mlc04.md)  
+[Chapter III. The Fashioner of the Universe](mlc05.md)  
+[Chapter IV. The Birth of the Soul](mlc06.md)  
+[Chapter V. Myths of the Stars](mlc07.md)  
+[Chapter VI. Myths of Thunder, Lightning, Wind, and Rain](mlc08.md)  
+[Chapter VII. Myths of the Waters](mlc09.md)  
+[Chapter VIII. Myths of Fire](mlc10.md)  
+[Chapter IX. Myths of Epidemics, Medicine, Exorcism, Etc.](mlc11.md)  
+[Chapter X. The Goddess of Mercy](mlc12.md)  
+[Chapter XI. The Eight Immortals](mlc13.md)  
+[Chapter XII. The Guardian of the Gate of Heaven](mlc14.md)  
+[Chapter XIII. A Battle of the Gods](mlc15.md)  
+[Chapter XIV. How the Monkey Became a God](mlc16.md)  
+[Chapter XV. Fox Legends](mlc17.md)  
+[Chapter XVI. Miscellaneous Legends](mlc18.md)  
+[Glossary and Index](mlc19.md)  
+[Advertisements](mlc20.md)  

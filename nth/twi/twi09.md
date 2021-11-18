@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](twi08)  [Next](twi10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](twi08)  [Next](twi10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRL0Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Tune With the Infinite*, by Ralph Waldo Trine, \[1910\], at
 Intangible Textual Heritage
 
@@ -630,7 +630,7 @@ carrying out all reveal themselves
 to him clearly. In this way many plans are entered upon and brought to a
 successful culmination that otherwise would never be thought of, plans
 that seem, indeed, marvelous to the world at large. He is a man with a
-[sensitive](errata.htm#0) organism, his life in thorough harmony with
+[sensitive](errata.htm#0.md) organism, his life in thorough harmony with
 the higher laws, and given wholly and unreservedly to the work to which
 he has dedicated it. Just how and from what source these inspirations
 come he does not fully know. Possibly no one does, though each may have
@@ -779,4 +779,4 @@ he has first moved their way.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Realization of Perfect Peace](twi10)
+[Next: VII. The Realization of Perfect Peace](twi10.md)

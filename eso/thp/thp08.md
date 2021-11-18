@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](thp07) 
-[Next](thp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](thp07.md) 
+[Next](thp09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -188,4 +188,4 @@ glorious liberty of the sons of God."
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Principle of Guidance](thp09)
+[Next: VII. The Principle of Guidance](thp09.md)

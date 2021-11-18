@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE508/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE508/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE508/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](khw00)    [Page
-Index](pageidx)    [Text \[Zipped\]](khw.txt.gz)
+[Contents](#contents)    [Start Reading](khw00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](khw.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -51,20 +51,20 @@ legalities permitting.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](khw00)  
-[Table of Contents](khw01)  
-[Preface to the Edition of May 1918](khw02)  
-[Preface to the Sixth Edition](khw03)  
-[Preface to the Third Edition](khw04)  
-[I. How is Knowledge Of The Higher Worlds Attained?](khw05)  
-[II. The Stages of Initiation](khw06)  
-[III. Some Practical Aspects](khw07)  
-[IV. The Conditions of Esoteric Training](khw08)  
-[V. Some Results of Initiation](khw09)  
-[VI. The Transformation of Dream Life](khw10)  
-[VII. The Continuity of Consciousness](khw11)  
+<span id="contents"></span> [Title Page](khw00.md)  
+[Table of Contents](khw01.md)  
+[Preface to the Edition of May 1918](khw02.md)  
+[Preface to the Sixth Edition](khw03.md)  
+[Preface to the Third Edition](khw04.md)  
+[I. How is Knowledge Of The Higher Worlds Attained?](khw05.md)  
+[II. The Stages of Initiation](khw06.md)  
+[III. Some Practical Aspects](khw07.md)  
+[IV. The Conditions of Esoteric Training](khw08.md)  
+[V. Some Results of Initiation](khw09.md)  
+[VI. The Transformation of Dream Life](khw10.md)  
+[VII. The Continuity of Consciousness](khw11.md)  
 [VIII. The Splitting of the Human Personality during Spiritual
-Training](khw12)  
-[IX. The Guardian of the Threshold](khw13)  
-[X. Life and Death. The Greater Guardian of the Threshold](khw14)  
-[Appendix](khw15)  
+Training](khw12.md)  
+[IX. The Guardian of the Threshold](khw13.md)  
+[X. Life and Death. The Greater Guardian of the Threshold](khw14.md)  
+[Appendix](khw15.md)  

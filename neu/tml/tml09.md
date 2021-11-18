@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml08)  [Next](tml10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml08)  [Next](tml10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -338,7 +338,7 @@ irresistible god set forth and returned with him.
 "Thy head is mine," exclaimed Brok, who prepared to cut it off.
 
 "Thine indeed is the head, answered Loke, "but not the neck." <span
-id="fr_16"></span>[1](#fn_16)
+id="fr_16"></span>[1](#fn_16.md)
 
 Brok appealed to the gods, and they gave judgment that favoured Loke.
 They told Brok that he might take the head, but the neck he must not
@@ -585,9 +585,9 @@ But the pardon was vain, for his crimes soon again
 
 ### Footnotes
 
-<span id="fn_16"></span>[38:1](tml09.htm#fr_16) In like manner was
+<span id="fn_16"></span>[38:1](tml09.htm#fr_16.md) In like manner was
 Shylock thwarted when he demanded his pound of flesh.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Winter War](tml10)
+[Next: Chapter V. The Winter War](tml10.md)

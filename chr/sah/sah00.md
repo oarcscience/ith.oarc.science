@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Next](sah01) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Next](sah01.md) 
 
 ------------------------------------------------------------------------
 
@@ -220,4 +220,4 @@ MARY BAKER EDDY
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I - Prayer](sah01) 
+[Next: Chapter I - Prayer](sah01.md) 

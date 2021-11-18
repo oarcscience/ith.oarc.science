@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos12)  [Next](gbos14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos12)  [Next](gbos14.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ pronounced. Punishment should be the scourge, followed by a forfeit such
 as several fivefold kisses or something of this nature. The culprit must
 acknowledge the justice of the punishment by kissing hands and scourge
 on receiving sentence and again when thanking for punishment
-received. <span id="fr_0"></span>[1](#fn_0)
+received. <span id="fr_0"></span>[1](#fn_0.md)
 
 \[3\] The scourgings are 3, 7, 9 (thrice three), and 21 (thrice seven)
 40 in all. It is not meet to make offerings \[scourgings\] of less than
@@ -92,9 +92,9 @@ anointed.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](gbos13.htm#fr_0) Gardner appended this
+<span id="fn_0"></span>[1](gbos13.htm#fr_0.md) Gardner appended this
 paragraph to the Craft Laws in the early 1960s.
 
 ------------------------------------------------------------------------
 
-[Next: The Priestess and the Sword](gbos14)
+[Next: The Priestess and the Sword](gbos14.md)

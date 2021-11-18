@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml17)  [Next](hml19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml17)  [Next](hml19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -446,14 +446,14 @@ of Rymenhild, his dear love, and
 <span id="img_29800"></span>
 
 [![Horn kills the Saracen Leader](tn/29800.jpg)  
-Click to enlarge](img/29800.jpg)  
+Click to enlarge](img/29800.jpg.md)  
 Horn kills the Saracen Leader  
 
 <span id="img_29900"></span>
 
 [![''Now, in her misery, she set the dagger to her
 heart''](tn/29900.jpg)  
-Click to enlarge](img/29900.jpg)  
+Click to enlarge](img/29900.jpg.md)  
 ''Now, in her misery, she set the dagger to her heart''  
 
  
@@ -922,13 +922,13 @@ unhappy and pale. When Horn sang a lay of true love and happiness,
 <span id="img_31200"></span>
 
 [![Horn and his followers disguised as minstrels](tn/31200.jpg)  
-Click to enlarge](img/31200.jpg)  
+Click to enlarge](img/31200.jpg.md)  
 Horn and his followers disguised as minstrels  
 
 <span id="img_31300"></span>
 
 [![''Little John caught the horse by the bridle''](tn/31300.jpg)  
-Click to enlarge](img/31300.jpg)  
+Click to enlarge](img/31300.jpg.md)  
 ''Little John caught the horse by the bridle''  
 
  
@@ -964,4 +964,4 @@ lives' end
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Robin Hood](hml19)
+[Next: Chapter XV. Robin Hood](hml19.md)

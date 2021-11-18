@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft07)  [Next](zft09) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft07)  [Next](zft09.md) 
 
 ------------------------------------------------------------------------
 
@@ -949,4 +949,4 @@ care for them as if they were their own. Thus long is my story.
 
 ------------------------------------------------------------------------
 
-[Next: The Foster-Child Of The Deer](zft09)
+[Next: The Foster-Child Of The Deer](zft09.md)

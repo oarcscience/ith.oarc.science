@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Commentary](../index)  [Index](index)   
-[Philippians](phi)  [1 Thessalonians](th1)
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Commentary](../index)  [Index](index.md)   
+[Philippians](phi)  [1 Thessalonians](th1.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[Colossians Chapter 1](col001)  
-[Colossians Chapter 2](col002)  
-[Colossians Chapter 3](col003)  
-[Colossians Chapter 4](col004)  
+[Colossians Chapter 1](col001.md)  
+[Colossians Chapter 2](col002.md)  
+[Colossians Chapter 3](col003.md)  
+[Colossians Chapter 4](col004.md)  

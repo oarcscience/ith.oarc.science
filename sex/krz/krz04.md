@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz03)  [Next](krz05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz03)  [Next](krz05.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ Karezza better.
 
 Noyes' honor to the discovery has been disputed. Others, it is asserted,
 discovered it before him or independently since. <span
-id="fr_0"></span>[1](#fn_0) It is necessary to contest this. Various
+id="fr_0"></span>[1](#fn_0.md) It is necessary to contest this. Various
 Europeans and Asiatics probably discovered America before Columbus, but
 he first made it known and helpful to the world at large, therefore the
 honor is rightfully his. Exactly so with Noyes - he first made Karezza
@@ -388,7 +388,7 @@ inheritance and control in her own sphere and realm.
 
 ### Footnotes
 
-<span id="fn_0"></span>[8:1](krz04.htm#fr_0) Since writing the above I
+<span id="fn_0"></span>[8:1](krz04.htm#fr_0.md) Since writing the above I
 have become acquainted with a Dr. E. Elmer Keeler, of Syracuse, New
 York, who tells me that he made the independent discovery of Karezza, by
 his own sex-experiences in early manhood, and for years taught it in
@@ -403,4 +403,4 @@ Karezza as a term does.
 
 ------------------------------------------------------------------------
 
-[Next: Magnetation](krz05)
+[Next: Magnetation](krz05.md)

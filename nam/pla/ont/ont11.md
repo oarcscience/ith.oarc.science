@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont10)  [Next](ont12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont10)  [Next](ont12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -55,7 +55,7 @@ While reclining upon a thick carpet of moss and pine-needles, we watched
 
 <span id="img_12600"></span> <span align="CENTER"> [![DRAWING OUT TIMBER
 WITH HORSES.](tn/12600.jpg)  
-Click to enlarge](img/12600.jpg)  
+Click to enlarge](img/12600.jpg.md)  
 DRAWING OUT TIMBER WITH HORSES.  
 </span>
 
@@ -165,14 +165,14 @@ delightful haven of rest and comfort I had ever enjoyed. After finishing
 my supper, I lay on my blanket-bed listening to the wind whistling
 through the ropes and poles overhead. Above the roar of the storm, I
 heard faintly the bawling of frightened cattle, as they drifted
-[helplessly](errata.htm#1) before the driving wind and snow and bitter
+[helplessly](errata.htm#1.md) before the driving wind and snow and bitter
 cold.
 
 When I first wakened on the following morning the
 
 <span id="img_13000"></span> <span align="CENTER"> [![MY LODGE DURING
 THE BLIZZARD.](tn/13000.jpg)  
-Click to enlarge](img/13000.jpg)  
+Click to enlarge](img/13000.jpg.md)  
 MY LODGE DURING THE BLIZZARD.  
 </span>
 
@@ -195,7 +195,7 @@ following on
 
 <span id="img_13100"></span> <span align="CENTER"> [![BULL PLUME AND
 FAMILY COMING THROUGH THE BLIZZARD.](tn/13100.jpg)  
-Click to enlarge](img/13100.jpg)  
+Click to enlarge](img/13100.jpg.md)  
 BULL PLUME AND FAMILY COMING THROUGH THE BLIZZARD.  
 </span>
 
@@ -220,7 +220,7 @@ going into minute details
 
 <span id="img_13200"></span> <span align="CENTER"> [![SETTING THE EAR
 POLES FOR A CHANGE OF WIND.](tn/13200.jpg)  
-Click to enlarge](img/13200.jpg)  
+Click to enlarge](img/13200.jpg.md)  
 SETTING THE EAR POLES FOR A CHANGE OF WIND.  
 </span>
 
@@ -245,7 +245,7 @@ which
 
 <span id="img_13300"></span> <span align="CENTER"> [![SUNSET AFTER THE
 CHINOOK (WARM WIND).](tn/13300.jpg)  
-Click to enlarge](img/13300.jpg)  
+Click to enlarge](img/13300.jpg.md)  
 SUNSET AFTER THE CHINOOK (WARM WIND).  
 </span>
 
@@ -270,7 +270,7 @@ cloud it began spreading out and rolling over and over. Soon he saw
 
 <span id="img_13400"></span> <span align="CENTER"> [![SNOW
 TIPI.](tn/13400.jpg)  
-Click to enlarge](img/13400.jpg)  
+Click to enlarge](img/13400.jpg.md)  
 SNOW TIPI.  
 </span>
 
@@ -377,7 +377,7 @@ help.' Na-toia-mon had with him the mink-skin tobacco pouch and the
 black pipe given him by the North Man. When he was ready to open the
 pipe, he gave directions to wrap up the women and children as warmly as
 possible, and to place them upon the travois, <span
-id="fr_17"></span>[1](#fn_13) and told the men to go in advance, and
+id="fr_17"></span>[1](#fn_13.md) and told the men to go in advance, and
 break a trail through the
 
 <span id="page_138">p. 138</span>
@@ -417,9 +417,9 @@ the storms would not be given to him a second time."
 
 ### Footnotes
 
-<span id="fn_13"></span>[137:1](ont11.htm#fr_17) See
-[Appendix](ont44.htm#an_137).
+<span id="fn_13"></span>[137:1](ont11.htm#fr_17.md) See
+[Appendix](ont44.htm#an_137.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Ghost Stories](ont12)
+[Next: Chapter IX. Ghost Stories](ont12.md)

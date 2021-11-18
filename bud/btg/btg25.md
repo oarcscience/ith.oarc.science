@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg24)  [Next](btg26) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg24)  [Next](btg26.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ and help him in selecting a pleasant site for the vihara.
 
 ------------------------------------------------------------------------
 
-[Next: Jetavana, The Vihara](btg26)
+[Next: Jetavana, The Vihara](btg26.md)

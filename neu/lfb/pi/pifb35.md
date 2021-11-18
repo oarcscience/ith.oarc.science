@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb34)  [Next](pifb36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb34)  [Next](pifb36.md) 
 
 </div>
 
@@ -418,6 +418,6 @@ discover how much business had been got through in her absence.
 
 ------------------------------------------------------------------------
 
-[Next: Maiden Bright-eye](pifb36)
+[Next: Maiden Bright-eye](pifb36.md)
 
 </div>

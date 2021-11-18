@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai14)  [Next](kwai16) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai14)  [Next](kwai16.md) 
 
 ------------------------------------------------------------------------
 
@@ -218,4 +218,4 @@ found--embedded in clay--the dead body of a female ant.
 
 ------------------------------------------------------------------------
 
-[Next: Riki-Baka](kwai16)
+[Next: Riki-Baka](kwai16.md)

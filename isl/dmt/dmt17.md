@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt16)  [Next](dmt18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt16)  [Next](dmt18.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ where they occur.
 
 ------------------------------------------------------------------------
 
-[Next: I. Ash-Shahrastani on the Classification of Muslim Sects](dmt18)
+[Next: I. Ash-Shahrastani on the Classification of Muslim Sects](dmt18.md)

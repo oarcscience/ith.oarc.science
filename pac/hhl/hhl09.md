@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl08)  [Next](hhl10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl08)  [Next](hhl10.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ universally toward the west--the golden path of the setting sun.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Sons of Kii](hhl10)
+[Next: VI. The Sons of Kii](hhl10.md)

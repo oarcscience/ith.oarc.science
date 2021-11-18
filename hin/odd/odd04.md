@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd03)  [Next](odd05) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd03)  [Next](odd05.md) 
 
 ------------------------------------------------------------------------
 
 # THE NARRATOR'S NARRATIVE.
 
 <span id="img_05"></span> [![](tn/05.jpg)  
-Click to enlarge](img/05.jpg)
+Click to enlarge](img/05.jpg.md)
 
 MY grandfather's family were of the Lingaet caste, and lived in Calicut;
 but they went and settled near Goa at the time the English were there.
@@ -15,17 +15,17 @@ the family, became Christians at once, and when his father heard it he
 was very angry, and turned them all out of the house. There were very
 few Christians in those days. Now you see Christians everywhere, but
 then we were very proud to see one anywhere. My grandfather was Havildar
- <span id="fr_2"></span>[1](#fn_2) in the English army; and when the
+ <span id="fr_2"></span>[1](#fn_2.md) in the English army; and when the
 English fought against Tippo Sahib my grandmother followed him all
 through the war. She was a very tall, fine, handsome woman, and very
 strong; wherever the regiment marched she went, on, on, on, on, on
 ('great deal hard work that old woman done'). Plenty stories my granny
 used to tell about Tippo and how Tippo was killed, and about Wellesley
 Sahib, and Monro Sahib, and Malcolm Sahib, and Elphinstone Sahib  <span
-id="fr_3"></span>[2](#fn_3) Plenty things had that old woman heard and
+id="fr_3"></span>[2](#fn_3.md) Plenty things had that old woman heard and
 seen. Ah, he was a good man, Elphinstone Sahib! My granny used often to
 tell us how he would go down and say to the soldiers, 'Baba,  <span
-id="fr_4"></span>[3](#fn_4) Baba, fight well. Win the battles, and each
+id="fr_4"></span>[3](#fn_4.md) Baba, fight well. Win the battles, and each
 man shall have his cap full of money; and after the war is over I'll
 send every one of you to his own home.' (And he did do it.) Then we
 children 'plenty proud' when we heard what Elphinstone Sahib had said.
@@ -33,12 +33,12 @@ In those days the soldiers were not low-caste people like they are now.
 Many very high caste men, and come from very far, from Goa, and Calicut,
 and Malabar, to join the English.
 
-My father was a tent lascar,  <span id="fr_5"></span>[4](#fn_5) and when
+My father was a tent lascar,  <span id="fr_5"></span>[4](#fn_5.md) and when
 the war was over my grandfather had won five medals for all the good he
 had done, and my father had three; and my father was given charge of the
-Kirkee stores.  <span id="fr_6"></span>[5](#fn_6) My grandmother and
+Kirkee stores.  <span id="fr_6"></span>[5](#fn_6.md) My grandmother and
 mother, and all the family, were in those woods behind Poona at time of
-the battle at Kirkee  <span id="fr_7"></span>[6](#fn_7) I 've often
+the battle at Kirkee  <span id="fr_7"></span>[6](#fn_7.md) I 've often
 heard my father say how full the river was after the battle--baggage and
 bundles floating down, and men trying to swim across--and horses and all
 such a bustle. Many people got good things on that day. My father got a
@@ -49,7 +49,7 @@ all his trouble did him no good.
 We were poor people, but living was cheap, and we had 'plenty comfort.'
 
 In those days house rent did not cost more than half a rupee  <span
-id="fr_8"></span>[7](#fn_8) a month, and you could build a very
+id="fr_8"></span>[7](#fn_8.md) a month, and you could build a very
 comfortable house for a hundred rupees. Not such good houses as people
 now live in, but well enough for people like us. Then a whole family
 could live as comfortably on six or seven rupees a month as they can now
@@ -58,7 +58,7 @@ Common sugar, then one anna a pound, is now worth four annas a pound.
 Oil which then sold for six pice a bottle now costs four annas. Four
 annas' worth of salt, chillies, tamarinds, onions, and garlic, would
 then last a family a whole month, now the same money would not buy a
-week's supply. Such dungaree  <span id="fr_9"></span>[8](#fn_9) as you
+week's supply. Such dungaree  <span id="fr_9"></span>[8](#fn_9.md) as you
 now pay half rupee a yard for, you could then buy from twenty to forty
 yards of for the rupee. You could not get such good calico then as now,
 but the dungeree did very well. Beef then was a pice a pound, and the
@@ -69,7 +69,7 @@ would not do it under half a rupee or more. If the children came crying
 for fruit, a pie would get them as many guavas as they liked in the
 bazaar. Now you 'd have to pay that for each guava. This shows how much
 more money people need now than they did then.  <span
-id="fr_10"></span>[9](#fn_10)
+id="fr_10"></span>[9](#fn_10.md)
 
 The English fixed the rupee to the value of sixteen annas; in those days
 there were some big annas and some little ones, and you could sometimes
@@ -85,7 +85,7 @@ reading and writing does. My grandfather couldn't write, and my father
 couldn't write, and they did very well; but all's changed now.
 
 My father used to be out all day at his work, and my mother often went
-to do coolie-work,  <span id="fr_11"></span>[10](#fn_11) and she had to
+to do coolie-work,  <span id="fr_11"></span>[10](#fn_11.md) and she had to
 take my father his dinner (my mother did plenty work in the world); and
 when my granny was strong enough she used sometimes to go into the
 bazaar, if we wanted money, and grind rice for the shopkeepers, and they
@@ -105,7 +105,7 @@ make them last much longer, the different people telling their own
 stories from the beginning as often as possible; so that by the time
 she'd got to the end she had told the beginning over five or six times.
 And so she went on, talk, talk, talk, Mera Bap reh!  <span
-id="fr_12"></span>[11](#fn_12) Such a long time she'd go on for, till
+id="fr_12"></span>[11](#fn_12.md) Such a long time she'd go on for, till
 all the children got quite tired and fell asleep. Now there are plenty
 of schools to which to send the children, but there were no schools when
 I was a young girl; and the old women, who could do nothing else, used
@@ -127,16 +127,16 @@ animals, and trees, and flowers, and stars. There was nothing she did
 not know some tale about. On the bright cold-weather nights, when you
 can see more stars than at any other time of the year, we used to like
 to watch the sky, and she would show us the Hen and Chickens,  <span
-id="fr_13"></span>[12](#fn_13) and the Key,  <span
-id="fr_14"></span>[13](#fn_14) and the Scorpion, and the Snake, and the
+id="fr_13"></span>[12](#fn_13.md) and the Key,  <span
+id="fr_14"></span>[13](#fn_14.md) and the Scorpion, and the Snake, and the
 Three Thieves climbing up to rob the Ranee's silver bedstead, with their
 mother (that twinkling star far away) watching for her sons' return.
 Pit-a-pat, pit-a-pat, you can see how her heart beats, for she is always
 frightened, thinking, 'Perhaps they will be caught and hanged!'
 
-Then she would show us the Cross,  <span id="fr_15"></span>[14](#fn_15)
+Then she would show us the Cross,  <span id="fr_15"></span>[14](#fn_15.md)
 that reminds us of,our Saviour's, and the great pathway of light  <span
-id="fr_16"></span>[15](#fn_16) on which He went up to heaven. It is what
+id="fr_16"></span>[15](#fn_16.md) on which He went up to heaven. It is what
 you call the Milky Way. My granny usen't to call it that; she used to
 say that when our Lord returned up to heaven that was the way He went,
 and that ever since it has shone in memory of His ascension, so
@@ -191,11 +191,11 @@ daughter) sings very nicely and plays upon the guitar, and my son-in-law
 plays on the pianoforte and the fiddle (we've got two fiddles in our
 house now), but Mera Bap reh! how well my grandfather sang! Sometimes of
 an evening he would drink a little toddy,  <span
-id="fr_17"></span>[16](#fn_17) and be quite cheerful, and sing away; and
+id="fr_17"></span>[16](#fn_17.md) and be quite cheerful, and sing away; and
 all we children liked to hear him. I was very fond of singing. I had a
 good voice when I was young, and my father used to be so fond of making
 me sing, and I often sang to him that Calicut song about the ships
-sailing on the sea  <span id="fr_18"></span>[17](#fn_18) and the little
+sailing on the sea  <span id="fr_18"></span>[17](#fn_18.md) and the little
 wife watching for her husband to come back, and plenty more that I
 forget now; and thy father and brothers would be so pleased at my
 singing, and laugh and say, 'That girl can do anything.' But now my
@@ -291,7 +291,7 @@ lady took me into her service. When I went to my first place, I hardly
 knew a word of English (though I knew our Calicut language, and
 Portuguese, and Hindostani, and Mahratti well enough) and I could not
 hold a needle. I was so stupid, like a Coolie-woman;  <span
-id="fr_19"></span>[18](#fn_19) but my mistress was very kind to me, and
+id="fr_19"></span>[18](#fn_19.md) but my mistress was very kind to me, and
 I soon learnt; she did not mind the trouble of teaching me. I often
 think, 'Where find such good Christian people in these days?' To take a
 poor, stupid woman and her two children into the house--for I had them
@@ -311,7 +311,7 @@ good if all the little fishes eat my bones? I shall not rest with my old
 Father and Mother if I go '--so I told her I could not do it.
 
 My brother-in-law was valet at that time to Napier Sahib, <span
-id="fr_20"></span>[19](#fn_20) up in Sind. All the people and servants
+id="fr_20"></span>[19](#fn_20.md) up in Sind. All the people and servants
 were very fond of that Sahib. My brother-in-law was with him for ten
 years; and he wanted me to go up there to get place as ayah, and said,
 'You quick, sharp girl, and know English very well; you easily get good
@@ -322,9 +322,9 @@ for the children. But now what good? I know your language--What use? To
 blow the fire? I only a miserable woman, fit to go to cook-room and cook
 the dinner. So go down in the world, a poor woman: (not much good to
 have plenty in head, and empty pocket!) but if I'd been a man I might
-now be a Fouzdar.  <span id="fr_21"></span>[20](#fn_21)
+now be a Fouzdar.  <span id="fr_21"></span>[20](#fn_21.md)
 
-I was at Kolapore  <span id="fr_22"></span>[21](#fn_22) at the time of
+I was at Kolapore  <span id="fr_22"></span>[21](#fn_22.md) at the time of
 the mutiny, and we had to run away in the middle of the night; but I've
 told you before all about that. Then seven years ago my mother died (she
 was ninety when she died), and we came back to live at Poona.
@@ -374,29 +374,29 @@ GOVERNMENT HOUSE,
 PARELL, BOMBAY, 1866.
 
 <span id="img_06"></span> [![](tn/06.jpg)  
-Click to enlarge](img/06.jpg)
+Click to enlarge](img/06.jpg.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_2"></span>[1](odd04.htm#fr_2) Sergeant of native troops.
+<span id="fn_2"></span>[1](odd04.htm#fr_2.md) Sergeant of native troops.
 
-<span id="fn_3"></span>[2](odd04.htm#fr_3) The Duke of Wellington, Sir
+<span id="fn_3"></span>[2](odd04.htm#fr_3.md) The Duke of Wellington, Sir
 Thomas Monro. Sir John Malcolm, and Mr. Mountstuart Elphinstone.
 
-<span id="fn_4"></span>[3](odd04.htm#fr_4) My children.
+<span id="fn_4"></span>[3](odd04.htm#fr_4.md) My children.
 
-<span id="fn_5"></span>[4](odd04.htm#fr_5) Tent-pitcher.
+<span id="fn_5"></span>[4](odd04.htm#fr_5.md) Tent-pitcher.
 
-<span id="fn_6"></span>[5](odd04.htm#fr_6) The Field Arsenal at Kirkee
+<span id="fn_6"></span>[5](odd04.htm#fr_6.md) The Field Arsenal at Kirkee
 (near Poona).
 
-<span id="fn_7"></span>[6](odd04.htm#fr_7) The battle which decided the
+<span id="fn_7"></span>[6](odd04.htm#fr_7.md) The battle which decided the
 fate of the Deccan, and led to the downfall of Bajee Row, Peishwa, and
 extinction of Mahratta rule. Fought 13th November 1827. (See Note 1.)
 
-<span id="fn_8"></span>[7](odd04.htm#fr_8) The following shows the
+<span id="fn_8"></span>[7](odd04.htm#fr_8.md) The following shows the
 Narrator's calculation of currency
 
 1 Pie = 1/8 of an English penny.
@@ -407,39 +407,39 @@ Narrator's calculation of currency
 
 16 Annas = 1 Rupee =.2 shillings.
 
-<span id="fn_9"></span>[8](odd04.htm#fr_9) A coarse cotton cloth.
+<span id="fn_9"></span>[8](odd04.htm#fr_9.md) A coarse cotton cloth.
 
-<span id="fn_10"></span>[9](odd04.htm#fr_10) See Note 2.
+<span id="fn_10"></span>[9](odd04.htm#fr_10.md) See Note 2.
 
-<span id="fn_11"></span>[10](odd04.htm#fr_11) Such work as is done by
+<span id="fn_11"></span>[10](odd04.htm#fr_11.md) Such work as is done by
 the Coolie caste; chiefly fetching and carrying heavy loads.
 
-<span id="fn_12"></span>[11](odd04.htm#fr_12) O, my Father.
+<span id="fn_12"></span>[11](odd04.htm#fr_12.md) O, my Father.
 
-<span id="fn_13"></span>[12](odd04.htm#fr_13) The Pleiades.
+<span id="fn_13"></span>[12](odd04.htm#fr_13.md) The Pleiades.
 
-<span id="fn_14"></span>[13](odd04.htm#fr_14) The Great Bear.
+<span id="fn_14"></span>[13](odd04.htm#fr_14.md) The Great Bear.
 
-<span id="fn_15"></span>[14](odd04.htm#fr_15) The Southern Cross.
+<span id="fn_15"></span>[14](odd04.htm#fr_15.md) The Southern Cross.
 
-<span id="fn_16"></span>[15](odd04.htm#fr_16) The Milky Way. This is an
+<span id="fn_16"></span>[15](odd04.htm#fr_16.md) The Milky Way. This is an
 ancient Christian legend.
 
-<span id="fn_17"></span>[16](odd04.htm#fr_17) An intoxicating drink,
+<span id="fn_17"></span>[16](odd04.htm#fr_17.md) An intoxicating drink,
 made from the juice of the palm-tree.
 
-<span id="fn_18"></span>[17](odd04.htm#fr_18) See Note 3.
+<span id="fn_18"></span>[17](odd04.htm#fr_18.md) See Note 3.
 
-<span id="fn_19"></span>[18](odd04.htm#fr_19) A low caste; hewers of
+<span id="fn_19"></span>[18](odd04.htm#fr_19.md) A low caste; hewers of
 wood and drawers of water.
 
-<span id="fn_20"></span>[19](odd04.htm#fr_20) Sir Charles Napier.
+<span id="fn_20"></span>[19](odd04.htm#fr_20.md) Sir Charles Napier.
 
-<span id="fn_21"></span>[20](odd04.htm#fr_21) Chief Constable.
+<span id="fn_21"></span>[20](odd04.htm#fr_21.md) Chief Constable.
 
-<span id="fn_22"></span>[21](odd04.htm#fr_22) Capital of the Kolapore
+<span id="fn_22"></span>[21](odd04.htm#fr_22.md) Capital of the Kolapore
 State, in the Southern Mahratta country.
 
 ------------------------------------------------------------------------
 
-[Next: I. Punchkin](odd05)
+[Next: I. Punchkin](odd05.md)

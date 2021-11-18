@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr14)  [Next](arr16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr14)  [Next](arr16.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ is at length, by many industrious and prolonged preparations, exalted
 and raised up above the range of vegetable substances into mineral,
 above mineral into metallic, and above perfect metallic substances into
 a perpetual and divine Quintessence, including in itself the essence of
-all celestial and [terrestrial](errata.htm#0) creatures.'
+all celestial and [terrestrial](errata.htm#0.md) creatures.'
 
 <span id="page_99">p. 99</span>
 
@@ -136,4 +136,4 @@ principle.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Quintessence in Daily Life](arr16)
+[Next: Chapter IV: The Quintessence in Daily Life](arr16.md)

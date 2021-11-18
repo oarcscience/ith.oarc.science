@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](ftc10)  [Next](ftc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](ftc10)  [Next](ftc12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte.md)
 
 </div>
 
@@ -125,6 +125,6 @@ the letter all the same.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Grand Star](ftc12)
+[Next: Chapter X. The Grand Star](ftc12.md)
 
 </div>

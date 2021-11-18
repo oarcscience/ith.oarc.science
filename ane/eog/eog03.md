@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](eog02)  [Next](eog04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](eog02)  [Next](eog04.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,13 +21,13 @@ Intangible Textual Heritage
 
 (*The Argument*).
 
- <span id="fr_0"></span>[1](#fn_0)He who (the heart of) all matters hath
+ <span id="fr_0"></span>[1](#fn_0)He who (the heart of.md) all matters hath
 proven let him \[teach\] the nation,  
 \[He who all\] knowledge possesseth, therein shall he \[school\] all the
 people,  
 \[He shall his wisdom impart (?)\] and (so) shall they \]share it\]
 together.  
-\[Gilgamish(?)\] <span id="fr_1"></span>[2](#fn_1)—he was the \[Master\]
+\[Gilgamish(?)\] <span id="fr_1"></span>[2](#fn_1.md)—he was the \[Master\]
 of wisdom, with \[knowledge of all things,  
 <span class="margnote">5.</span>He ’twas discovered the secret concealed
 . . . . . . . . .  
@@ -38,7 +38,7 @@ travail.
                                           Of Erech, the high-wall’d,  
 He (it was) built up the ramparts; (and) he (it was) clamp’d the
 foundation,  
-Like unto brass, of \[E\]-Anna <span id="fr_2"></span>[3](#fn_2), the
+Like unto brass, of \[E\]-Anna <span id="fr_2"></span>[3](#fn_2.md), the
 sacred, the treasury hallow’d,  
 \[Strengthen’d\] its base to grant wayleave to no \[one\] . . . . . .  
 . . . . . the threshold which from \[of old (?)\] . . . . . .  
@@ -53,7 +53,7 @@ the beginning of the next Column*).
 *Column II*.
 
 Two-thirds of him are divine, and \[one-third of him human,\] <span
-id="fr_3"></span>[4](#fn_3) . . .
+id="fr_3"></span>[4](#fn_3.md) . . .
 
 The form of his body . . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . .
@@ -72,7 +72,7 @@ hath \[taken\],
 . . . . . . . . . (while) tow’reth \[his\] crest like an aurochs,  
 <span class="margnote">10.</span>Ne’er hath the shock of \[his\] weapons
 (its) \[peer\]; are driven \[his\] fellows  
-Into the toils <span id="fr_4"></span>[1](#fn_4), while cow’d are the
+Into the toils <span id="fr_4"></span>[1](#fn_4.md), while cow’d are the
 heroes of Erech un- . . . . .  
 Gilgamish leaveth no son to \[his\] father, \[his\] arrogance swelling  
 (Each) day and \[night\]; \[aye, he\] is the shepherd of Erech, the
@@ -85,7 +85,7 @@ high-\[wall’d\],
                                          (And so), to (th’ appeal of)
 their wailing  
 \[Gave ear th’ Immortals\]: the gods of high heaven address’d the god
-Anu\], <span id="fr_5"></span>[2](#fn_5)  
+Anu\], <span id="fr_5"></span>[2](#fn_5.md)  
 <span class="margnote">20.</span>(Him who was) Seigneur of Erech: "’Tis
 thou a son hast begotten,  
 (Aye, in sooth, all) tyrannous, \[while tow’reth his crest like an
@@ -93,7 +93,7 @@ aurochs\],
 Ne’er hath \[the shock of his weapons\] (its) peer; are driven \[his
 fellows\]  
 Into the toils, awhile cow’d are the heroes of Erech un- . . . .\] <span
-id="fr_6"></span>[2](#fn_5).  
+id="fr_6"></span>[2](#fn_5.md).  
 Gilgamish leaveth no son to his father, \[his arrogance swelling\]  
 (Each) day and night; aye, he is the shepherd of Erech, \[the
 high-wall’d\],  
@@ -103,8 +103,8 @@ Gilgamish leaveth no maid to \[her mother\], nor daughter to hero,
 (Nay), nor a spouse to a \[husband\]."  
                                       (And so), to (th’ appeal of) their
 wailing  
-30. \[Anu\] <span id="fr_7"></span>[2](#fn_5) gave ear, call’d the lady
-Aruru <span id="fr_8"></span>[3](#fn_6): "’Twas thou, O Aruru,  
+30. \[Anu\] <span id="fr_7"></span>[2](#fn_5.md) gave ear, call’d the lady
+Aruru <span id="fr_8"></span>[3](#fn_6.md): "’Twas thou, O Aruru,  
 Madest \[(primeval seed of) mankind(?)\]: do now make its fellow,  
 So that he \[happen on Gilgamish\], yea, on the day of his pleasure,  
 So that they strive with each other, and he unto Erech give
@@ -116,15 +116,15 @@ So when the goddess Aruru heard this, in her mind she imagined
 (Straightway, this) Concept of Anu, and, washing her hands, (then)
 Aruru  
 Finger’d some clay, on the desert she moulded <span
-id="fr_9"></span>[4](#fn_7) (it): \[(thus) on the desert\]  
+id="fr_9"></span>[4](#fn_7) (it): \[(thus.md) on the desert\]  
 <span class="margnote">35.</span>Enkidu made she, a warrior, (as he
 were) born (and) begotten,  
-(Yea), of Ninurta <span id="fr_10"></span>[5](#fn_8) the double, \[and
+(Yea), of Ninurta <span id="fr_10"></span>[5](#fn_8.md) the double, \[and
 put forth\] the whole of his body  
 Hair: in the way of a woman he snooded his locks (in a fillet);  
 Sprouted luxuriant growth of his hair-like (the awns of) the barley,  
 Nor knew he people nor land; he was clad in a garb like Sumuqan <span
-id="fr_11"></span>[6](#fn_9).
+id="fr_11"></span>[6](#fn_9.md).
 
 <span id="page_11">p. 11</span>
 
@@ -136,7 +136,7 @@ Drank he his fill, with the beasts did his heart delight at the water.
 
 (Then) did a hunter, a trapper, come face to face with this (fellow),  
 Came on him \[one\], two, three days, at the place where (the beasts)
-drank (their) water <span id="fr_12"></span>[1](#fn_10);  
+drank (their) water <span id="fr_12"></span>[1](#fn_10.md);  
 <span class="margnote">45.</span>(Sooth), when the hunter espied him,
 his face o’ermantled with terror,  
 He and his cattle went unto his steading, \[dismay’d\] (and)
@@ -161,7 +161,7 @@ the mountains, \[(and) ever\] with cattle
 \[So that I fear\] to approach him. The pits which I \[myself\]
 hollow’d  
 <span class="margnote">10.</span>\[(With mine own hands) <span
-id="fr_13"></span>[2](#fn_11) hath he fill’d in (again)\], (and) the
+id="fr_13"></span>[2](#fn_11) hath he fill’d in (again)\], (and.md) the
 traps of my \[setting\]  
 \[Torn up, (and) out of my clutches hath holpen escape\] (all) the
 cattle,  
@@ -172,19 +172,19 @@ me."
 hunter:  
 <span class="margnote">15.</span>"Gilgamish \[dwelleth\] in Erech, \[my
 son, whom no one\] hath vanquish’d,  
- <span id="fr_14"></span>[3](#fn_12)\[(Nay, but) ’tis his strength is
+ <span id="fr_14"></span>[3](#fn_12)\[(Nay, but.md) ’tis his strength is
 greatest (the length and breadth) of the country\]  
 \[Like to a double of Anu's own self\], his strength is \[enormous\],  
- <span id="fr_15"></span>[4](#fn_13)\[Go, set\] thy face \[towards
+ <span id="fr_15"></span>[4](#fn_13.md)\[Go, set\] thy face \[towards
 Erech: and when he hears of\] a monster,  
- <span id="fr_16"></span>[4](#fn_13)\[He will say 'Go, O hunter, a
+ <span id="fr_16"></span>[4](#fn_13.md)\[He will say 'Go, O hunter, a
 courtesan-girl, a hetaera\]
 
 <span id="page_12">p. 12</span>
 
 <span class="margnote">20.</span>Take \[with thee\] . . . . . . . like a
 strong one;  
- <span id="fr_17"></span>[1](#fn_14)\[When he the cattle shall gather
+ <span id="fr_17"></span>[1](#fn_14.md)\[When he the cattle shall gather
 again\] to the place of (their) drinking,  
 \[So shall she put off\] her \[mantle\] (the charm of) her beauty
 \[revealing\];  
@@ -198,7 +198,7 @@ deny him.'"
 
 <span class="margnote">25.</span>Unto the rede of his father the hunter
 \[hath hearken’d, (and straightway)\]  
-He will away \[unto Gilgamish\] <span id="fr_18"></span>[1](#fn_14).  
+He will away \[unto Gilgamish\] <span id="fr_18"></span>[1](#fn_14.md).  
                                             Taking the road towards
 Erech  
 Turn’d he \[his steps, and to\] Gilgamish \[came, his speech thus
@@ -229,7 +229,7 @@ So shall she put off her mantle, (the charm of her) beauty
 <span class="margnote">45.</span>(Then) shall he spy her, and (sooth)
 will embrace her, (and thenceforth) his cattle  
 Which in his very own deserts were rear’d will (straightway) deny
-him. <span id="fr_19"></span>[2](#fn_15)"
+him. <span id="fr_19"></span>[2](#fn_15.md)"
 
 (*The Seduction of Enkidu*).
 
@@ -251,7 +251,7 @@ Thither the animals came that their hearts might delight in the water,
 (Aye), there was Enkidu also, he whom the mountains had gender’d,  
 E’en with gazelles did he pasture on herbage, along with the cattle  
 <span class="margnote">5.</span>Drank he his fill <span
-id="fr_20"></span>[1](#fn_16), with the beasts did his heart delight at
+id="fr_20"></span>[1](#fn_16.md), with the beasts did his heart delight at
 the water,  
 So beheld him the courtesan-girl, the lusty great fellow,  
 (O but) a monster (all) savage from out of the depths of the desert!  
@@ -285,18 +285,18 @@ Sated at length with her charms, he turn’d his face to his cattle,
 O the gazelles, (how) they scamper’d away, as soon as they saw him!  
 <span class="margnote">25.</span>Him, yea, Enkidu,—fled from his
 presence the beasts of the desert!  
-Enkidu losing his innocence <span id="fr_21"></span>[2](#fn_17)—so, when
+Enkidu losing his innocence <span id="fr_21"></span>[2](#fn_17.md)—so, when
 the cattle fled from him,  
-Failed his knees, and he  <span id="fr_22"></span>[3](#fn_18)slack’d in
+Failed his knees, and he  <span id="fr_22"></span>[3](#fn_18.md)slack’d in
 his running, (not) as aforetime:  
 Natheless he (thus) hath attain’d his full growth and hath broaden’d
 (his) wisdom.  
 <span class="margnote">30.</span>Sat he again <span
-id="fr_23"></span>[4](#fn_19) at the feet of the woman, the woman his
-features <span id="fr_24"></span>[5](#fn_20)  
-Scanning, and, while she <span id="fr_25"></span>[6](#fn_21) was
+id="fr_23"></span>[4](#fn_19.md) at the feet of the woman, the woman his
+features <span id="fr_24"></span>[5](#fn_20.md)  
+Scanning, and, while she <span id="fr_25"></span>[6](#fn_21.md) was
 speaking, his ears heard (the words) she <span
-id="fr_26"></span>[7](#fn_22) was saying:  
+id="fr_26"></span>[7](#fn_22.md) was saying:  
 "Comely thou art, e’en like to a god, O Enkidu, shalt be,  
 <span class="margnote">35.</span>Why with the beasts (of the field) dost
 thou (ever) range over the desert?  
@@ -312,7 +312,7 @@ class="margnote">40.</span>Her counsel
 E’en as she spake it found favour, (for) conscious he was of his
 longing  
 Some companion to seek; so unto the courtesan spake he <span
-id="fr_27"></span>[1](#fn_23):  
+id="fr_27"></span>[1](#fn_23.md):  
 "Up, then, O girl, to the Temple, the holy (and) sacred, invite me,  
 45. Me, to the dwelling of Anu and Ishtar, where, highest in power,  
 Gilgamish is, and prevaileth o’er men like an aurochs—for I, too,
@@ -332,7 +332,7 @@ there be, that would I know."
 <span class="margnote">10.</span>\[Eunuch\]-priests \[clashing\] (their)
 cymbals, and \[dancing\]-girls . . . . .  
 . . . flown with their wantoning, gleeful, and keeping the nobles  
-Out of their beds <span id="fr_28"></span>[2](#fn_24)! (Nay), Enkidu,
+Out of their beds <span id="fr_28"></span>[2](#fn_24)! (Nay.md), Enkidu,
 \[joy\] in thy life (to its fullest)  
 \[Thou shalt\] taste—(forsooth) will I shew thee a man who is happy,  
 <span class="margnote">15.</span>Gilgamish! View him, O look on his
@@ -342,8 +342,8 @@ Brimming, \[his\] vigour is stronger than thine, (all) day and night
 restless!  
 <span class="margnote">20.</span>Enkidu, temper thine
 arrogance—Gilgamish, loveth him Shamash,  
-Anu, (and) Enlil <span id="fr_29"></span>[3](#fn_25), and Ea <span
-id="fr_30"></span>[4](#fn_26) have dower’d his wisdom with largesse.
+Anu, (and) Enlil <span id="fr_29"></span>[3](#fn_25.md), and Ea <span
+id="fr_30"></span>[4](#fn_26.md) have dower’d his wisdom with largesse.
 
 (*How Gilgamish dreamt of Enkidu*).
 
@@ -359,7 +359,7 @@ his grapple
 Loosed I, I was unable to shake him (from off me): (and now, all the
 meanwhile),  
 People from Erech were standing about \[him <span
-id="fr_31"></span>[5](#fn_27), the\] artisans \[pressing\].
+id="fr_31"></span>[5](#fn_27.md), the\] artisans \[pressing\].
 
 <span id="page_15">p. 15</span>
 
@@ -369,7 +369,7 @@ Kissing \[his\] feet; \[I, I to my breast\] like a woman did hold him,
 (Then) \[I\] presented him low at \[thy\] feet, \[that\] as mine own
 equal.  
 \[Thou\] might’st account him.'  
- <span id="fr_32"></span>[1](#fn_28)\[She\] who knoweth all wisdom
+ <span id="fr_32"></span>[1](#fn_28.md)\[She\] who knoweth all wisdom
 (thus) to her Seigneur she answer’d,  
 <span class="margnote">40.</span>\[She\] who knoweth all wisdom, to
 Gilgamish (thus) did she answer:  
@@ -424,7 +424,7 @@ country\],
 \[Gilgamish open’d his mouth, and\] addressing his mother, (thus spake
 he):  
 '\[Though\] great \[danger (?)\] befall, \[a friend (?)\] shall I have .
-. . <span id="fr_33"></span>[2](#fn_29)'"
+. . <span id="fr_33"></span>[2](#fn_29.md)'"
 
 <span id="page_16">p. 16</span>
 
@@ -440,96 +440,96 @@ story, repeating one or two details*).
 
 ### Footnotes
 
-<span id="fn_0"></span>[9:1](eog03.htm#fr_0) Assyrian Version.
+<span id="fn_0"></span>[9:1](eog03.htm#fr_0.md) Assyrian Version.
 
-<span id="fn_1"></span>[9:2](eog03.htm#fr_1) Possibly to be restored at
+<span id="fn_1"></span>[9:2](eog03.htm#fr_1.md) Possibly to be restored at
 the end of the line. It is obvious that the hero's name must be
 introduced before *l*. 5.
 
-<span id="fn_2"></span>[9:3](eog03.htm#fr_2) The great temple of Anu,
-the Sky-god, and Ishtar, the goddess [of](errata.htm#1) love, in Erech,
+<span id="fn_2"></span>[9:3](eog03.htm#fr_2.md) The great temple of Anu,
+the Sky-god, and Ishtar, the goddess [of](errata.htm#1.md) love, in Erech,
 where the worship of the latter was carried on by bevies of
 dancing-girls and hetaerae.
 
-<span id="fn_3"></span>[9:4](eog03.htm#fr_3) Restored from the Ninth
+<span id="fn_3"></span>[9:4](eog03.htm#fr_3.md) Restored from the Ninth
 Tablet.
 
-<span id="fn_4"></span>[10:1](eog03.htm#fr_4) i.e., captured and killed.
+<span id="fn_4"></span>[10:1](eog03.htm#fr_4.md) i.e., captured and killed.
 *cf*. the beginning of the Twelfth Tablet.
 
-<span id="fn_5"></span>[10:2](eog03.htm#fr_7) Uncertain restoration.
+<span id="fn_5"></span>[10:2](eog03.htm#fr_7.md) Uncertain restoration.
 
-<span id="fn_6"></span>[10:3](eog03.htm#fr_8) A goddess, form of
+<span id="fn_6"></span>[10:3](eog03.htm#fr_8.md) A goddess, form of
 Nin-makh, especially as protectress of children.
 
-<span id="fn_7"></span>[10:4](eog03.htm#fr_9) Or "cast."
+<span id="fn_7"></span>[10:4](eog03.htm#fr_9.md) Or "cast."
 
-<span id="fn_8"></span>[10:5](eog03.htm#fr_10) A god, son of Enlil,
+<span id="fn_8"></span>[10:5](eog03.htm#fr_10.md) A god, son of Enlil,
 patron of war and hunting.
 
-<span id="fn_9"></span>[10:6](eog03.htm#fr_11) God of cattle and
+<span id="fn_9"></span>[10:6](eog03.htm#fr_11.md) God of cattle and
 agriculture.
 
-<span id="fn_10"></span>[11:1](eog03.htm#fr_12) Literally "A certain
+<span id="fn_10"></span>[11:1](eog03.htm#fr_12.md) Literally "A certain
 hunter, a trapper, met him at the drinking-place, \[one\], two, three
 days at the drinking-place, ditto."
 
-<span id="fn_11"></span>[11:2](eog03.htm#fr_13) Probably supply *anaku*
+<span id="fn_11"></span>[11:2](eog03.htm#fr_13.md) Probably supply *anaku*
 at the end of the line "I myself."
 
-<span id="fn_12"></span>[11:3](eog03.htm#fr_14) It is doubtful whether
+<span id="fn_12"></span>[11:3](eog03.htm#fr_14.md) It is doubtful whether
 there is room for this line in the break.
 
-<span id="fn_13"></span>[11:4](eog03.htm#fr_16) Fairly probable
+<span id="fn_13"></span>[11:4](eog03.htm#fr_16.md) Fairly probable
 restoration.
 
-<span id="fn_14"></span>[12:1](eog03.htm#fr_18) Fairly probable
+<span id="fn_14"></span>[12:1](eog03.htm#fr_18.md) Fairly probable
 restoration
 
-<span id="fn_15"></span>[12:2](eog03.htm#fr_19) This belief in this loss
+<span id="fn_15"></span>[12:2](eog03.htm#fr_19.md) This belief in this loss
 of innocency has been common in the East since the days of Adam and Eve.
 The proper person to peer into the ink-pool magic is a little boy; few
 others are successful.
 
-<span id="fn_16"></span>[13:1](eog03.htm#fr_20) Or "of the
+<span id="fn_16"></span>[13:1](eog03.htm#fr_20.md) Or "of the
 drinking-place."
 
-<span id="fn_17"></span>[13:2](eog03.htm#fr_21) Lit. either "the
+<span id="fn_17"></span>[13:2](eog03.htm#fr_21.md) Lit. either "the
 innocence of his body," or, "the excellence of his bodily (strength)."
 
-<span id="fn_18"></span>[13:3](eog03.htm#fr_22) Lit. "Enkidu."
+<span id="fn_18"></span>[13:3](eog03.htm#fr_22.md) Lit. "Enkidu."
 
-<span id="fn_19"></span>[13:4](eog03.htm#fr_23) The word is curiously
+<span id="fn_19"></span>[13:4](eog03.htm#fr_23.md) The word is curiously
 spelt, if this is right.
 
-<span id="fn_20"></span>[13:5](eog03.htm#fr_24) Variant: "the woman, he
+<span id="fn_20"></span>[13:5](eog03.htm#fr_24.md) Variant: "the woman, he
 her features watching."
 
-<span id="fn_21"></span>[13:6](eog03.htm#fr_25) Lit. "\[The woman\]
+<span id="fn_21"></span>[13:6](eog03.htm#fr_25.md) Lit. "\[The woman\]
 spake unto him, yea, unto Enkidu."
 
-<span id="fn_22"></span>[13:7](eog03.htm#fr_26) Lit. "the woman"
+<span id="fn_22"></span>[13:7](eog03.htm#fr_26.md) Lit. "the woman"
 
-<span id="fn_23"></span>[14:1](eog03.htm#fr_27) Lit. "Enkidu."
+<span id="fn_23"></span>[14:1](eog03.htm#fr_27.md) Lit. "Enkidu."
 
-<span id="fn_24"></span>[14:2](eog03.htm#fr_28) The Text is mutilated
+<span id="fn_24"></span>[14:2](eog03.htm#fr_28.md) The Text is mutilated
 and the translation of these two lines may not be exact.
 
-<span id="fn_25"></span>[14:3](eog03.htm#fr_29) The god Bel.
+<span id="fn_25"></span>[14:3](eog03.htm#fr_29.md) The god Bel.
 
-<span id="fn_26"></span>[14:4](eog03.htm#fr_30) The god of the great
+<span id="fn_26"></span>[14:4](eog03.htm#fr_30.md) The god of the great
 waters.
 
-<span id="fn_27"></span>[14:5](eog03.htm#fr_31) Perhaps there is an
+<span id="fn_27"></span>[14:5](eog03.htm#fr_31.md) Perhaps there is an
 additional line to be supplied in the small gap which exists here "\[the
 people (all) thronging before him\]."
 
-<span id="fn_28"></span>[15:1](eog03.htm#fr_32) Or should the name of
+<span id="fn_28"></span>[15:1](eog03.htm#fr_32.md) Or should the name of
 Nin-sun, the mother of Gilgamish, be supplied in the break?
 
-<span id="fn_29"></span>[15:2](eog03.htm#fr_33) Of one more line the
+<span id="fn_29"></span>[15:2](eog03.htm#fr_33.md) Of one more line the
 traces are " . . . \[let me\] go (?), even me."
 
 ------------------------------------------------------------------------
 
-[Next: The Second Tablet: Of the Meeting of Gilgamish and Enkidu](eog04)
+[Next: The Second Tablet: Of the Meeting of Gilgamish and Enkidu](eog04.md)

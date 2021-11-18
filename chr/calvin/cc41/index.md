@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 #### \[1847-50\]
 
-[Start Reading](cc41000)
+[Start Reading](cc41000.md)
 
 ------------------------------------------------------------------------
 
@@ -20,69 +20,69 @@
 
 ### Commentary on Galatians, Ephesians
 
-[Commentary on Galatians, Ephesians](cc41000)  
+[Commentary on Galatians, Ephesians](cc41000.md)  
 <span id="section_001"></span>
 
 ### Translator's Preface
 
-[Translator's Preface](cc41001)  
+[Translator's Preface](cc41001.md)  
 <span id="section_002"></span>
 
 ### Commentary on Galatians
 
-[Commentary on Galatians](cc41002)  
-[Calvin's Dedication](cc41003)  
-[The Argument](cc41004)  
-[Chapter 1](cc41005)  
-[Chapter 2](cc41006)  
-[Chapter 3](cc41007)  
-[Chapter 4](cc41008)  
-[Chapter 5](cc41009)  
-[Chapter 6](cc41010)  
+[Commentary on Galatians](cc41002.md)  
+[Calvin's Dedication](cc41003.md)  
+[The Argument](cc41004.md)  
+[Chapter 1](cc41005.md)  
+[Chapter 2](cc41006.md)  
+[Chapter 3](cc41007.md)  
+[Chapter 4](cc41008.md)  
+[Chapter 5](cc41009.md)  
+[Chapter 6](cc41010.md)  
 <span id="section_003"></span>
 
 ### Commentary on Ephesians
 
-[Commentary on Ephesians](cc41011)  
-[The Argument](cc41012)  
-[Chapter 1](cc41013)  
-[Chapter 2](cc41014)  
-[Chapter 3](cc41015)  
-[Chapter 4](cc41016)  
-[Chapter 5](cc41017)  
-[Chapter 6](cc41018)  
+[Commentary on Ephesians](cc41011.md)  
+[The Argument](cc41012.md)  
+[Chapter 1](cc41013.md)  
+[Chapter 2](cc41014.md)  
+[Chapter 3](cc41015.md)  
+[Chapter 4](cc41016.md)  
+[Chapter 5](cc41017.md)  
+[Chapter 6](cc41018.md)  
 <span id="section_004"></span>
 
 ### A Translation of Calvin's Version of The Epistle To The Galatians
 
 [A Translation of Calvin's Version of The Epistle To The
-Galatians](cc41019)  
-[Chapter 1](cc41020)  
-[Chapter 2](cc41021)  
-[Chapter 3](cc41022)  
-[Chapter 4](cc41023)  
-[Chapter 5](cc41024)  
-[Chapter 6](cc41025)  
+Galatians](cc41019.md)  
+[Chapter 1](cc41020.md)  
+[Chapter 2](cc41021.md)  
+[Chapter 3](cc41022.md)  
+[Chapter 4](cc41023.md)  
+[Chapter 5](cc41024.md)  
+[Chapter 6](cc41025.md)  
 <span id="section_005"></span>
 
 ### A Translation of Calvin's Version of The Epistle To The Ephesians
 
 [A Translation of Calvin's Version of The Epistle To The
-Ephesians](cc41026)  
-[Chapter 1](cc41027)  
-[Chapter 2](cc41028)  
-[Chapter 3](cc41029)  
-[Chapter 4](cc41030)  
-[Chapter 5](cc41031)  
-[Chapter 6](cc41032)  
+Ephesians](cc41026.md)  
+[Chapter 1](cc41027.md)  
+[Chapter 2](cc41028.md)  
+[Chapter 3](cc41029.md)  
+[Chapter 4](cc41030.md)  
+[Chapter 5](cc41031.md)  
+[Chapter 6](cc41032.md)  
 <span id="section_006"></span>
 
 ### Indexes
 
-[Indexes](cc41033)  
-[Index of Scripture References](cc41034)  
-[Index of Scripture Commentary](cc41035)  
-[Greek Words and Phrases](cc41036)  
-[Hebrew Words and Phrases](cc41037)  
-[Latin Words and Phrases](cc41038)  
-[French Words and Phrases](cc41039)  
+[Indexes](cc41033.md)  
+[Index of Scripture References](cc41034.md)  
+[Index of Scripture Commentary](cc41035.md)  
+[Greek Words and Phrases](cc41036.md)  
+[Hebrew Words and Phrases](cc41037.md)  
+[Latin Words and Phrases](cc41038.md)  
+[French Words and Phrases](cc41039.md)  

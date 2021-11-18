@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob04)  [Next](lbob06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob04)  [Next](lbob06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -23,7 +23,7 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
 <span id="img_01700"></span> <span align="CENTER"> [![THE BIRTH OF THE
 VIRGIN. FROM A GREEK DIPYTCHON OF THE THIRTEENTH OR FOURTEENTH
 CENTURY](tn/01700.jpg)  
-Click to enlarge](img/01700.jpg)  
+Click to enlarge](img/01700.jpg.md)  
 THE BIRTH OF THE VIRGIN. FROM A GREEK DIPYTCHON OF THE THIRTEENTH OR
 FOURTEENTH CENTURY  
 </span>
@@ -104,7 +104,7 @@ favour of God, and the esteem of men, without any children.
 6 But they vowed, if God should favour them with any issue, they would
 devote it to the service of the Lord; on which account they went at
 every feast in the year to the temple of the Lord <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 7 ¶ And it came to pass, that when the feast of the dedication drew
 near, Joachim, with some others of his tribe, went up to Jerusalem, and
@@ -149,7 +149,7 @@ to him, endeavouring to compose him said:
 3 Be not afraid, Joachim, nor troubled at the sight of me, for I am an
 angel of the Lord sent by him to you, that I might inform you, that your
 prayers are heard, and your alms ascended in the sight of God. <span
-id="fr_1"></span>[2](#fn_1)
+id="fr_1"></span>[2](#fn_1.md)
 
 4 For he hath surely seen your shame, and heard you unjustly reproached
 for not having children: for God is the avenger of sin, and not of
@@ -162,18 +162,18 @@ which is born appear to be not the product of lust, but the gift of God.
 6 For the first mother of your nation Sarah, was she not barren even
 till her eightieth year: And yet even in the end of her old age brought
 forth Isaac, in whom the promise was made a blessing to all
-nations. <span id="fr_2"></span>[3](#fn_2)
+nations. <span id="fr_2"></span>[3](#fn_2.md)
 
 <span id="page_19">p. 19</span>
 
 7 Rachel also, so much in favour with God, and beloved so much by holy
 Jacob, continued barren for a long time, yet afterwards was the mot her
 of Joseph, who was not only governor of Egypt, but delivered many
-nations from perishing with hunger. <span id="fr_3"></span>[1](#fn_3)
+nations from perishing with hunger. <span id="fr_3"></span>[1](#fn_3.md)
 
 8 Who among the judges was more valiant than Samson, or more holy than
 Samuel? And yet both their mothers were barren. <span
-id="fr_4"></span>[2](#fn_4)
+id="fr_4"></span>[2](#fn_4.md)
 
 9 But if reason will not convince you of the truth of my words, that
 there are frequent conceptions in advanced years, and that those who
@@ -182,7 +182,7 @@ your wife shall bring you a daughter, and you shall call her name Mary;
 
 10 She shall, according to your vow, be devoted to the Lord from her
 infancy, and be filled with the Holy Ghost from her mother's womb; <span
-id="fr_5"></span>[3](#fn_5)
+id="fr_5"></span>[3](#fn_5.md)
 
 11 She shall neither eat nor drink anything which is unclean, nor shall
 her conversation be without among the common people, but in the temple
@@ -193,7 +193,7 @@ what is bad.
 manner born of one that was barren, so she shall, while yet a virgin, in
 a way unparalleled, bring forth the Son of the most High God, who shall,
 be called Jesus, and, according to the signification of his name, be the
-Saviour of all nations. <span id="fr_6"></span>[4](#fn_6)
+Saviour of all nations. <span id="fr_6"></span>[4](#fn_6.md)
 
 13 And this shall be a sign to you of the things which I declare,
 namely, when you come to the golden gate of Jerusalem, you shall there
@@ -212,12 +212,12 @@ meet and rejoice,* 10 *and praise the Lord.* 11 *Anna conceives, and
 brings forth a daughter called Mary*.</span>
 
 AFTERWARDS the angel appeared to Anna his wife saying: Fear not, neither
-think that which you see is a spirit. <span id="fr_7"></span>[5](#fn_7)
+think that which you see is a spirit. <span id="fr_7"></span>[5](#fn_7.md)
 
 2 For I am that angel who hath offered up your prayers and alms before
 God, and am now sent to you, that I may inform you, that a daughter will
 be born unto you, who shall be called Mary, and shall be blessed above
-all women. <span id="fr_8"></span>[6](#fn_8)
+all women. <span id="fr_8"></span>[6](#fn_8.md)
 
 3 She shall be, immediately upon her birth, full of the grace of the
 Lord, and shall continue during the three years of her weaning in her
@@ -226,7 +226,7 @@ Lord, shall not depart from the temple, till she arrives to years of
 discretion.
 
 4 In a word, she shall there serve the Lord night and day in fasting and
-prayer, <span id="fr_9"></span>[7](#fn_9) shall abstain from every
+prayer, <span id="fr_9"></span>[7](#fn_9.md) shall abstain from every
 unclean thing, and never know any man;
 
 5 But, being an unparalleled instance without any pollution or
@@ -271,7 +271,7 @@ AND when three years were expired, and the time of her weaning complete,
 they brought the Virgin to the temple of the Lord with offerings.
 
 2 And there were about the temple, according to the fifteen Psalms of
-degrees, <span id="fr_10"></span>[1](#fn_10) fifteen stairs to ascend.
+degrees, <span id="fr_10"></span>[1](#fn_10.md) fifteen stairs to ascend.
 
 3 For the temple being built in a mountain, the altar of burnt-offering,
 which was without, could not be come near but by stairs;
@@ -344,7 +344,7 @@ with a man.
 
 8 Seeing he durst neither on the one hand dissolve the vow, and disobey
 the Scripture, which says, Vow and pay, <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 9 Nor on the other hand introduce a custom, to which the people were
 strangers, commanded,
@@ -355,7 +355,7 @@ might have their advice, how he had best proceed in so difficult a case.
 
 11 When they were accordingly met, they unanimously agreed to seek the
 Lord, and ask counsel from him on this matter. <span
-id="fr_12"></span>[2](#fn_12)
+id="fr_12"></span>[2](#fn_12.md)
 
 12 And when they were all engaged in prayer, the high-priest, according
 to the usual way, went to consult God.
@@ -432,7 +432,7 @@ prodigious light, and in a most courteous manner saluting her, he said,
 3 Hail, Mary! Virgin of the Lord most acceptable! O Virgin full of
 Grace! The Lord is with you, you are blessed above all women, you are
 blessed above all men, that. have been hitherto born. <span
-id="fr_13"></span>[1](#fn_13)
+id="fr_13"></span>[1](#fn_13.md)
 
 4 But the Virgin, who had before been well acquainted with the
 countenances of angels, and to whom such light from heaven was no
@@ -443,7 +443,7 @@ the greatness of the light, but only troubled about the angel's words:
 
 6 And began to consider what so extraordinary a salutation should mean,
 what it did portend, or what sort of end it would have. <span
-id="fr_14"></span>[2](#fn_14)
+id="fr_14"></span>[2](#fn_14.md)
 
 7 To this thought the angel, divinely inspired, replies;
 
@@ -461,7 +461,7 @@ your choice.
 bring forth a son.
 
 11 He shall be great, because he shall reign from sea to sea, and from
-the rivers to the ends of the earth. <span id="fr_15"></span>[1](#fn_15)
+the rivers to the ends of the earth. <span id="fr_15"></span>[1](#fn_15.md)
 
 12 And he shall be called the Son of the Highest; for he who is born in
 a mean state on earth reigns in an exalted one in heaven.
@@ -496,7 +496,7 @@ of God.
 
 21 Then Mary stretching forth her hands, and lifting her eyes to heaven,
 said, Behold the handmaid of the Lord! Let it be unto me according to
-thy word. <span id="fr_16"></span>[2](#fn_16)
+thy word. <span id="fr_16"></span>[2](#fn_16.md)
 
 #### CHAP. VIII.
 
@@ -528,7 +528,7 @@ by the suspicion of being a whore, since he was a pious man.
 as privately to put her away.
 
 8 But while he was meditating these things, <span
-id="fr_17"></span>[3](#fn_17) behold the angel of the Lord appeared to
+id="fr_17"></span>[3](#fn_17.md) behold the angel of the Lord appeared to
 him in
 
 <span id="page_24">p. 24</span>
@@ -564,53 +564,53 @@ Holy Ghost, lives and reigns to everlasting ages.
 
 ### Footnotes
 
-<span id="fn_0"></span>[18:1](lbob05.htm#fr_0) Sam. i. 6, 7, &c.
+<span id="fn_0"></span>[18:1](lbob05.htm#fr_0.md) Sam. i. 6, 7, &c.
 
-<span id="fn_1"></span>[18:2](lbob05.htm#fr_1) Acts x. 4.
+<span id="fn_1"></span>[18:2](lbob05.htm#fr_1.md) Acts x. 4.
 
-<span id="fn_2"></span>[18:3](lbob05.htm#fr_2) Gen. xvi. 2, &c. and
+<span id="fn_2"></span>[18:3](lbob05.htm#fr_2.md) Gen. xvi. 2, &c. and
 xviii. 10, &c.
 
-<span id="fn_3"></span>[19:1](lbob05.htm#fr_3) Gen. xxx. 1-22, and xli.
+<span id="fn_3"></span>[19:1](lbob05.htm#fr_3.md) Gen. xxx. 1-22, and xli.
 1, &c.
 
-<span id="fn_4"></span>[19:2](lbob05.htm#fr_4) Judg. xiii. 2. and 1 Sam.
+<span id="fn_4"></span>[19:2](lbob05.htm#fr_4.md) Judg. xiii. 2. and 1 Sam.
 6, &c.
 
-<span id="fn_5"></span>[19:3](lbob05.htm#fr_5) Luke i. 15.
+<span id="fn_5"></span>[19:3](lbob05.htm#fr_5.md) Luke i. 15.
 
-<span id="fn_6"></span>[19:4](lbob05.htm#fr_6) Matth. i. 21.
+<span id="fn_6"></span>[19:4](lbob05.htm#fr_6.md) Matth. i. 21.
 
-<span id="fn_7"></span>[19:5](lbob05.htm#fr_7) Matth. xiv. 26.
+<span id="fn_7"></span>[19:5](lbob05.htm#fr_7.md) Matth. xiv. 26.
 
-<span id="fn_8"></span>[19:6](lbob05.htm#fr_8) Luke i. 28.
+<span id="fn_8"></span>[19:6](lbob05.htm#fr_8.md) Luke i. 28.
 
-<span id="fn_9"></span>[19:7](lbob05.htm#fr_9) Luke ii. 37.
+<span id="fn_9"></span>[19:7](lbob05.htm#fr_9.md) Luke ii. 37.
 
-<span id="fn_10"></span>[20:1](lbob05.htm#fr_10) Those Psalms are from
+<span id="fn_10"></span>[20:1](lbob05.htm#fr_10.md) Those Psalms are from
 the 120th to the 134th, including both.
 
-<span id="fn_11"></span>[21:1](lbob05.htm#fr_11) Eccles. v. 4, 5, 6; and
+<span id="fn_11"></span>[21:1](lbob05.htm#fr_11.md) Eccles. v. 4, 5, 6; and
 Psalm lxxvi. 11.
 
-<span id="fn_12"></span>[21:2](lbob05.htm#fr_12) Num. xxvii. 21,
+<span id="fn_12"></span>[21:2](lbob05.htm#fr_12.md) Num. xxvii. 21,
 compared with Exod. xxviii. 30; Lev. viii. 8; Deut. 8; Ezra ii. 63;
 Nehem. vii. 65.
 
-<span id="fn_13"></span>[22:1](lbob05.htm#fr_13) Luke i. 28.
+<span id="fn_13"></span>[22:1](lbob05.htm#fr_13.md) Luke i. 28.
 
-<span id="fn_14"></span>[22:2](lbob05.htm#fr_14) Luke i. 29.
+<span id="fn_14"></span>[22:2](lbob05.htm#fr_14.md) Luke i. 29.
 
-<span id="fn_15"></span>[23:1](lbob05.htm#fr_15) Luke i. 31, &c.
+<span id="fn_15"></span>[23:1](lbob05.htm#fr_15.md) Luke i. 31, &c.
 
-<span id="fn_16"></span>[23:2](lbob05.htm#fr_16) Luke i. 38.
+<span id="fn_16"></span>[23:2](lbob05.htm#fr_16.md) Luke i. 38.
 
-<span id="fn_17"></span>[23:3](lbob05.htm#fr_17) Matt. i. 19.
+<span id="fn_17"></span>[23:3](lbob05.htm#fr_17.md) Matt. i. 19.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Protevangelion](lbob06)
+[Next: The Protevangelion](lbob06.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar63)  [Next](gar65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar63)  [Next](gar65.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -66,7 +66,7 @@ Mark Masters;
 
 Royal Arch Masons;
 
-Knights Templar;  <span id="fr_39"></span>[\*](#fn_39)
+Knights Templar;  <span id="fr_39"></span>[\*](#fn_39.md)
 
 Music;
 
@@ -124,7 +124,7 @@ occasion, when the following or some other appropriate ODE is sung:
 
 <span id="img_28300"></span> <span align="CENTER">
 [![Music—&lt;i&gt;Rule Britannia&lt;/i&gt;.](tn/28300.jpg)  
-Click to enlarge](img/28300.jpg)  
+Click to enlarge](img/28300.jpg.md)  
 Music—*Rule Britannia*.  
 </span>
 
@@ -141,7 +141,7 @@ Established by <span id="page_284">p. 284</span> his strict command.
 
 <span id="img_28400"></span> <span align="CENTER"> [![Music,
 cont.](tn/28400.jpg)  
-Click to enlarge](img/28400.jpg)  
+Click to enlarge](img/28400.jpg.md)  
 Music, cont.  
 </span>
 
@@ -404,10 +404,10 @@ formalities.
 
 ### Footnotes
 
-<span id="fn_39"></span>[282:\*](gar64.htm#fr_39) Whenever Knights
+<span id="fn_39"></span>[282:\*](gar64.htm#fr_39.md) Whenever Knights
 Templar appear in a procession, they should act as an escort or guard of
 honor to the Grand Lodge.
 
 ------------------------------------------------------------------------
 
-[Next: Dedication of Masonic Halls](gar65)
+[Next: Dedication of Masonic Halls](gar65.md)

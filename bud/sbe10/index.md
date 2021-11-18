@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z6P6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z6P6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z6P6/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sbe1000)    [Text
-\[Zipped\]](sbe10.txt.gz)
+[Contents](#contents)    [Start Reading](sbe1000.md)    [Text
+\[Zipped\]](sbe10.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -42,45 +42,45 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z6P6/internetsacredte)
 
 ### The Dhammapada
 
-[Title Page](sbe1000)  
-[Contents](sbe1001)  
-[Introduction](sbe1002)  
-[Chapter I. The Twin-Verses.](sbe1003)  
-[Chapter II. On Earnestness.](sbe1004)  
-[Chapter III. Thought.](sbe1005)  
-[Chapter IV. Flowers.](sbe1006)  
-[Chapter V. The Fool.](sbe1007)  
-[Chapter VI. The Wise Man (Pandita).](sbe1008)  
-[Chapter VII. The Venerable (Arhat).](sbe1009)  
-[Chapter VIII. The Thousands.](sbe1010)  
-[Chapter IX. Evil.](sbe1011)  
-[Chapter X. Punishment.](sbe1012)  
-[Chapter XI. Old Age.](sbe1013)  
-[Chapter XII. Self.](sbe1014)  
-[Chapter XIII. The World.](sbe1015)  
-[Chapter XIV. The Buddha (The Awakened).](sbe1016)  
-[Chapter XV. Happiness.](sbe1017)  
-[Chapter XVI. Pleasure.](sbe1018)  
-[Chapter XVII. Anger.](sbe1019)  
-[Chapter XVIII. Impurity.](sbe1020)  
-[Chapter XIX. The Just.](sbe1021)  
-[Chapter XX. The Way.](sbe1022)  
-[Chapter XXI. Miscellaneous.](sbe1023)  
-[Chapter XXII. The Downward Course.](sbe1024)  
-[Chapter XXIII. The Elephant.](sbe1025)  
-[Chapter XXIV. Thirst.](sbe1026)  
-[Chapter XXV. The Bhikshu (Mendicant).](sbe1027)  
-[Chapter XXVI. The Brâhmana (Arhat).](sbe1028)  
+[Title Page](sbe1000.md)  
+[Contents](sbe1001.md)  
+[Introduction](sbe1002.md)  
+[Chapter I. The Twin-Verses.](sbe1003.md)  
+[Chapter II. On Earnestness.](sbe1004.md)  
+[Chapter III. Thought.](sbe1005.md)  
+[Chapter IV. Flowers.](sbe1006.md)  
+[Chapter V. The Fool.](sbe1007.md)  
+[Chapter VI. The Wise Man (Pandita).](sbe1008.md)  
+[Chapter VII. The Venerable (Arhat).](sbe1009.md)  
+[Chapter VIII. The Thousands.](sbe1010.md)  
+[Chapter IX. Evil.](sbe1011.md)  
+[Chapter X. Punishment.](sbe1012.md)  
+[Chapter XI. Old Age.](sbe1013.md)  
+[Chapter XII. Self.](sbe1014.md)  
+[Chapter XIII. The World.](sbe1015.md)  
+[Chapter XIV. The Buddha (The Awakened).](sbe1016.md)  
+[Chapter XV. Happiness.](sbe1017.md)  
+[Chapter XVI. Pleasure.](sbe1018.md)  
+[Chapter XVII. Anger.](sbe1019.md)  
+[Chapter XVIII. Impurity.](sbe1020.md)  
+[Chapter XIX. The Just.](sbe1021.md)  
+[Chapter XX. The Way.](sbe1022.md)  
+[Chapter XXI. Miscellaneous.](sbe1023.md)  
+[Chapter XXII. The Downward Course.](sbe1024.md)  
+[Chapter XXIII. The Elephant.](sbe1025.md)  
+[Chapter XXIV. Thirst.](sbe1026.md)  
+[Chapter XXV. The Bhikshu (Mendicant).](sbe1027.md)  
+[Chapter XXVI. The Brâhmana (Arhat).](sbe1028.md)  
 <span id="section_001"></span>
 
 ### The Sutta-Nipâta
 
-[Title Page](sbe1029)  
-[Contents](sbe1030)  
-[Glossary](sbe1031)  
-[Introduction](sbe1032)  
-[I. Uragavagga.](sbe1033)  
-[II. Kûlavagga.](sbe1034)  
-[III. Mahâvagga.](sbe1035)  
-[IV. Atthakavagga.](sbe1036)  
-[V. Pârâyanavagga.](sbe1037)  
+[Title Page](sbe1029.md)  
+[Contents](sbe1030.md)  
+[Glossary](sbe1031.md)  
+[Introduction](sbe1032.md)  
+[I. Uragavagga.](sbe1033.md)  
+[II. Kûlavagga.](sbe1034.md)  
+[III. Mahâvagga.](sbe1035.md)  
+[IV. Atthakavagga.](sbe1036.md)  
+[V. Pârâyanavagga.](sbe1037.md)  

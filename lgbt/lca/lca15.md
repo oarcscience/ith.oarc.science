@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca14) 
-[Next](lca16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca14.md) 
+[Next](lca16.md) 
 
 ------------------------------------------------------------------------
 
@@ -573,4 +573,4 @@ THE END.
 
 ------------------------------------------------------------------------
 
-[Next: Works by the Same Author](lca16)
+[Next: Works by the Same Author](lca16.md)

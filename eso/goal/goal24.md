@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal23)  [Next](goal25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal23)  [Next](goal25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -91,7 +91,7 @@ are called upon to supply their quota of energy for its accomplishment.
 
 Who has not realized while talking to a number of persons that there
 were certain persons in the audience that gave special
-[inspiration](errata.htm#16), that supplied
+[inspiration](errata.htm#16.md), that supplied
 
 <span id="page_252">p. 252</span>
 
@@ -225,7 +225,7 @@ provide for this dying race the new conditions which are an absolute
 necessity to its perpetuity. From the thought that we have presented, it
 is evident that, judging by the known capacity of men, we have in such a
 Body an aggregate mind and will, amply sufficient to lift civilization
-to a plane of action where it could go on [developing](errata.htm#17).
+to a plane of action where it could go on [developing](errata.htm#17.md).
 But how much more should we expect of such a Body when filled with the
 light of the Infinite Mind!
 
@@ -308,7 +308,7 @@ regeneration," a condition almost identical with that seen in the
 electric arc lamp; and after they have come into order it will not be
 long before nature's energies will cause their bodies to become luminous
 and bright as the body of an angel, "shining as the sun." <span
-id="fr_16"></span>[\*](#fn_16)
+id="fr_16"></span>[\*](#fn_16.md)
 
 <span id="page_260">p. 260</span>
 
@@ -445,7 +445,7 @@ it, and the lamp thereof is the Lamb."
 
 ### Footnotes
 
-<span id="fn_16"></span>[259:\*](goal24.htm#fr_16) The mere suggestion
+<span id="fn_16"></span>[259:\*](goal24.htm#fr_16.md) The mere suggestion
 of the final unity of man and woman opens the door to temptation and
 deception. When a man who is trying to live the regenerate life, to
 conquer the sex passions, comes into the presence of a good woman, it
@@ -473,4 +473,4 @@ everlasting burnings?"
 
 ------------------------------------------------------------------------
 
-[Next: The Personal Application](goal25)
+[Next: The Personal Application](goal25.md)

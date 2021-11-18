@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs01)  [Next](mhs03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs01)  [Next](mhs03.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ The Luck of Odd Numbers
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Of The Horse-shoe](mhs03)
+[Next: The Magic Of The Horse-shoe](mhs03.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge12) 
-[Next](pge14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge12.md) 
+[Next](pge14.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,25 +38,25 @@ otherwise, if you really care for me and the heart within you is loyal.
 But love me with a pure and honest soul, or openly disown and hate me;
 let the breach between us be avowed. He who hath a single tongue and a
 double mind is a bad comrade, Kurnus, better as a foe than a
-friend." <span id="fr_56"></span>[1](#fn_56)
+friend." <span id="fr_56"></span>[1](#fn_56.md)
 
 The bitter-sweet of love is well described in the following couplets:--
 
 "Harsh and sweet, alluring and repellent, until it be crowned with
 completion, is love for young men. If one brings it to perfection, then
 it is sweet; but if a man pursues and does not love, then it is of all
-things the most painful." <span id="fr_57"></span>[2](#fn_57)
+things the most painful." <span id="fr_57"></span>[2](#fn_57.md)
 
 The same strain is repeated in the lines which begin, "a boy's love is
-fair to keep, fair to lay aside." <span id="fr_58"></span>[3](#fn_58) At
+fair to keep, fair to lay aside." <span id="fr_58"></span>[3](#fn_58.md) At
 one time Theognis tells his friend that he has the changeable temper of
 a hawk, the skittishness of a pampered colt.} <span
-id="fr_59"></span>[4](#fn_59) At another he remarks that boys are more
+id="fr_59"></span>[4](#fn_59.md) At another he remarks that boys are more
 constant than women in their affection. <span
-id="fr_60"></span>[5](#fn_60) His passion rises to its noblest height in
+id="fr_60"></span>[5](#fn_60.md) His passion rises to its noblest height in
 a poem which deserves to rank with some of Shakespeare's sonnets, and
 which, like them, has fulfilled its own promise of immortality. <span
-id="fr_61"></span>[6](#fn_61) In order to appreciate the value of the
+id="fr_61"></span>[6](#fn_61.md) In order to appreciate the value of the
 fame conferred on Kurnus by Theognis and celebrated in such lofty
 strains, we must remember that these elegies were sung at banquets. "The
 fair young men," of whom the poet speaks, boy-lovers themselves,
@@ -68,24 +68,24 @@ guests. A subject to which Theognis more than once refers is calumny:--
 
 "Often will the folk speak vain things against thee in my ears, and
 against me in thine. Pay thou no heed to them." <span
-id="fr_62"></span>[1](#fn_62)
+id="fr_62"></span>[1](#fn_62.md)
 
 Again, he frequently reminds the boy he loves, whether it be Kurnus or
 some other, that the bloom of youth is passing, and that this is a
-reason for showing kindness. <span id="fr_63"></span>[2](#fn_63) This
+reason for showing kindness. <span id="fr_63"></span>[2](#fn_63.md) This
 argument is urged with what appears like coarseness in the following
 couplet:--
 
 "O boy, so long as thy chin remains smooth, never will I cease from
 fawning, no, not if it is doomed for me to die." <span
-id="fr_64"></span>[3](#fn_64)
+id="fr_64"></span>[3](#fn_64.md)
 
 A couplet, which is also attributed to Solon, shows that paiderastia at
 this time in Greece was associated with manly sports and pleasures:--
 
 "Blest is the man who loves brave steeds of war,  
 Fair boys, and hounds, and stranger guests from far <span
-id="fr_65"></span>[4](#fn_65)
+id="fr_65"></span>[4](#fn_65.md)
 
 \[paragraph continues\] Nor must the following be omitted:--
 
@@ -93,10 +93,10 @@ id="fr_65"></span>[4](#fn_65)
 Whereby his limbs are supple made and strong,  
 Retiring to his home, 'twixt sleep and song,  
 Sports with a fair boy on his breast all day." <span
-id="fr_66"></span>[5](#fn_66)
+id="fr_66"></span>[5](#fn_66.md)
 
 The following couplet is attributed to him by Plutarch, <span
-id="fr_67"></span>[6](#fn_67) nor does there seem any reason to doubt
+id="fr_67"></span>[6](#fn_67.md) nor does there seem any reason to doubt
 its genuineness. The text seems to be corrupt, but the meaning is pretty
 clear:--
 
@@ -121,7 +121,7 @@ idealised the very pains of passion.
 <span id="page_25">p. 25</span>
 
 Of Ibycus, who was celebrated among the ancients as the lyrist of
-paiderastia, <span id="fr_68"></span>[1](#fn_68) very little has been
+paiderastia, <span id="fr_68"></span>[1](#fn_68.md) very little has been
 preserved to us, but that little is sufficient to indicate the fervid
 and voluptuous style of his art. His imagery resembles that of Anacreon.
 The onset of love, for instance, in one fragment is compared to the
@@ -136,31 +136,31 @@ his language abounds in phrases indicative of sensuality. The following
 may be selected:--
 
 "Cleobulus I love, for Cleobulus I am mad, Cleobulus I watch and worship
-with my gaze." <span id="fr_69"></span>[2](#fn_69)
+with my gaze." <span id="fr_69"></span>[2](#fn_69.md)
 
 Again:--
 
 "O boy, with the maiden's eyes, I seek and follow thee, but thou heedest
 not, nor knowest that thou art my soul's charioteer."
 
-In another place he speaks of <span id="fr_70"></span>[3](#fn_70)--
+In another place he speaks of <span id="fr_70"></span>[3](#fn_70.md)--
 
 "Love, the virginal, gleaming and radiant with desire."
 
 Syneban (to pass the time of youth with friends) is a word which
 Anacreon may be said to have made current in Greek. It occurs twice in
-his fragments, <span id="fr_71"></span>[4](#fn_71) and exactly expresses
+his fragments, <span id="fr_71"></span>[4](#fn_71.md) and exactly expresses
 the luxurious enjoyment of youthful grace and beauty which appear to
 have been his ideal of love. We are very far here from the Achilleian
 friendship of the *Iliad*. Yet occasionally Anacreon uses images of
 great force to describe the attack of passion, as when he says that love
 has smitten him with a huge axe and plunged him in a wintry
-torrent.-- <span id="fr_72"></span>[5](#fn_72)
+torrent.-- <span id="fr_72"></span>[5](#fn_72.md)
 
 It must be remembered that both Anacreon and Ibycus were court poets,
 singing in the palaces of Polycrates and Hippias. The youths they
 celebrated were probably little better than the *exoleti* of a Roman
-Emperor. <span id="fr_73"></span>[6](#fn_73) This cannot
+Emperor. <span id="fr_73"></span>[6](#fn_73.md) This cannot
 
 <span id="page_26">p. 26</span>
 
@@ -169,15 +169,15 @@ remembered by Cicero and Horace. So little, however, is left of his
 erotic poems that no definite opinion can be formed about them. The
 authority of latter Greek authors justifies our placing him upon the
 list of those who helped to soften and emasculate the character of Greek
-love by their poems. <span id="fr_74"></span>[1](#fn_74)
+love by their poems. <span id="fr_74"></span>[1](#fn_74.md)
 
 Two Athenian drinking-songs preserved by Athenæus, <span
-id="fr_75"></span>[2](#fn_75) which seem to bear the stamp of the lyric
+id="fr_75"></span>[2](#fn_75.md) which seem to bear the stamp of the lyric
 age, may here be quoted. They serve to illustrate the kind of feeling to
 which expression was given in public by friends and boy-lovers --
 
 "Would I were a lovely heap of ivory. and that lovely boys carried me
-into the Dionysian chorus." <span id="fr_76"></span>[3](#fn_76)
+into the Dionysian chorus." <span id="fr_76"></span>[3](#fn_76.md)
 
 This is marked by a very delicate though naïf fancy. The next is no less
 eminent for its sustained, impassioned, simple, rhythmic feeling:--
@@ -189,7 +189,7 @@ The greatest poet of the lyric age, the lyrist *par excellence* Pindar,
 adds much to our conception of Greek love at this period. Not only is
 the poem to Theoxenos, whom he loved, and in whose arms he is said to
 have died in the theatre at Argos, one of the most splendid achievements
-of his art; <span id="fr_77"></span>[4](#fn_77) but its choice of
+of his art; <span id="fr_77"></span>[4](#fn_77.md) but its choice of
 phrase, and the curious parallel which it draws between the free love of
 boys and the servile love of women, help us to comprehend the serious
 intensity of this passion. "The flashing rays of his forehead" and "is
@@ -224,63 +224,63 @@ nature of Greek love.
 
 ### Footnotes
 
-<span id="fn_56"></span>[23:1](pge13.htm#fr_56) Bergk., *Poetæ Lyrica
+<span id="fn_56"></span>[23:1](pge13.htm#fr_56.md) Bergk., *Poetæ Lyrica
 Græci*, vol. ii. p. 490, line 87 of Theognis.
 
-<span id="fn_57"></span>[23:2](pge13.htm#fr_57) *Ibid*., line 1,353.
+<span id="fn_57"></span>[23:2](pge13.htm#fr_57.md) *Ibid*., line 1,353.
 
-<span id="fn_58"></span>[23:3](pge13.htm#fr_58) *Ibid*., line 1,369.
+<span id="fn_58"></span>[23:3](pge13.htm#fr_58.md) *Ibid*., line 1,369.
 
-<span id="fn_59"></span>[23:4](pge13.htm#fr_59) *Ibid*., lines
+<span id="fn_59"></span>[23:4](pge13.htm#fr_59.md) *Ibid*., lines
 1,259-1,270.
 
-<span id="fn_60"></span>[23:5](pge13.htm#fr_60) *Ibid*., line 1,267.
+<span id="fn_60"></span>[23:5](pge13.htm#fr_60.md) *Ibid*., line 1,267.
 
-<span id="fn_61"></span>[23:6](pge13.htm#fr_61) *Ibid*., lines 237-254.
+<span id="fn_61"></span>[23:6](pge13.htm#fr_61.md) *Ibid*., lines 237-254.
 Translated by me in *Vagabunduli Libellus*, p. 167.
 
-<span id="fn_62"></span>[24:1](pge13.htm#fr_62) Bergk., *Poetæ Lyrici
+<span id="fn_62"></span>[24:1](pge13.htm#fr_62.md) Bergk., *Poetæ Lyrici
 Græci*, vol. ii. line 1,239.
 
-<span id="fn_63"></span>[24:2](pge13.htm#fr_63) *Ibid*., line 1,304.
+<span id="fn_63"></span>[24:2](pge13.htm#fr_63.md) *Ibid*., line 1,304.
 
-<span id="fn_64"></span>[24:3](pge13.htm#fr_64) *Ibid*., line 1,327.
+<span id="fn_64"></span>[24:3](pge13.htm#fr_64.md) *Ibid*., line 1,327.
 
-<span id="fn_65"></span>[24:4](pge13.htm#fr_65) *Ibid*., line 1,253.
+<span id="fn_65"></span>[24:4](pge13.htm#fr_65.md) *Ibid*., line 1,253.
 
-<span id="fn_66"></span>[24:5](pge13.htm#fr_66) *Ibid*., line 1,335.
+<span id="fn_66"></span>[24:5](pge13.htm#fr_66.md) *Ibid*., line 1,335.
 
-<span id="fn_67"></span>[24:6](pge13.htm#fr_67) *Eroticus*, cap. v. p.
+<span id="fn_67"></span>[24:6](pge13.htm#fr_67.md) *Eroticus*, cap. v. p.
 751, 21. See Bergk., vol. ii. p. 430.
 
-<span id="fn_68"></span>[25:1](pge13.htm#fr_68) See Cic., *Tusc*., iv.
+<span id="fn_68"></span>[25:1](pge13.htm#fr_68.md) See Cic., *Tusc*., iv.
 33
 
-<span id="fn_69"></span>[25:2](pge13.htm#fr_69) Bergk., vol. iii. p.
+<span id="fn_69"></span>[25:2](pge13.htm#fr_69.md) Bergk., vol. iii. p.
 1,013.
 
-<span id="fn_70"></span>[25:3](pge13.htm#fr_70) *Ibid*., p. 1,045.
+<span id="fn_70"></span>[25:3](pge13.htm#fr_70.md) *Ibid*., p. 1,045.
 
-<span id="fn_71"></span>[25:4](pge13.htm#fr_71) *Ibid*., pp. 1,109,
+<span id="fn_71"></span>[25:4](pge13.htm#fr_71.md) *Ibid*., pp. 1,109,
 1,023; fr. 24,46.
 
-<span id="fn_72"></span>[25:5](pge13.htm#fr_72) *Ibid*., p. 1,023; fr.
+<span id="fn_72"></span>[25:5](pge13.htm#fr_72.md) *Ibid*., p. 1,023; fr.
 48.
 
-<span id="fn_73"></span>[25:6](pge13.htm#fr_73) Maximus Tyrius
+<span id="fn_73"></span>[25:6](pge13.htm#fr_73.md) Maximus Tyrius
 *Dissert*., xxvi., says that Smerdies was a Thracian, given, for his
 great beauty: by his Greek captors to Polycrates.
 
-<span id="fn_74"></span>[26:1](pge13.htm#fr_74) See what Agathon says in
+<span id="fn_74"></span>[26:1](pge13.htm#fr_74.md) See what Agathon says in
 the *Thesmophoriazuse* of Aristophanes.
 
-<span id="fn_75"></span>[26:2](pge13.htm#fr_75) xv. 695.
+<span id="fn_75"></span>[26:2](pge13.htm#fr_75.md) xv. 695.
 
-<span id="fn_76"></span>[26:3](pge13.htm#fr_76) Bergk., vol. iii. p.
+<span id="fn_76"></span>[26:3](pge13.htm#fr_76.md) Bergk., vol. iii. p.
 1,293.
 
-<span id="fn_77"></span>[26:4](pge13.htm#fr_77) *Ibid*., vol. i. p. 327.
+<span id="fn_77"></span>[26:4](pge13.htm#fr_77.md) *Ibid*., vol. i. p. 327.
 
 ------------------------------------------------------------------------
 
-[Next: XII. Paiderastia upon the Attic stage](pge14)
+[Next: XII. Paiderastia upon the Attic stage](pge14.md)

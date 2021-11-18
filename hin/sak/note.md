@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Hindu](../index) [Index](index)
+[Sacred-Texts](../../index) [Hindu](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ the original editor.
 
 ------------------------------------------------------------------------
 
-[Index](index)
+[Index](index.md)

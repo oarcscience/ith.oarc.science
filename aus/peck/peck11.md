@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck10)  [Next](peck12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck10)  [Next](peck12.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ Therefore there are not many white waratahs in New South Wales.
 
 ------------------------------------------------------------------------
 
-[Next: How The Sky Was Lifted Up](peck12)
+[Next: How The Sky Was Lifted Up](peck12.md)

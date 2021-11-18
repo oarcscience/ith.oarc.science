@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](isw13)  [Next](isw15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](isw13)  [Next](isw15.md) 
 
 ------------------------------------------------------------------------
 
@@ -1514,4 +1514,4 @@ ovens will be full; we will put our hands into the ovens. (They go out.)
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](isw15)
+[Next: Advertisements](isw15.md)

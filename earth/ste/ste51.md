@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste50)  [Next](ste52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste50)  [Next](ste52.md) 
 
 ------------------------------------------------------------------------
 
@@ -237,7 +237,7 @@ performance, when, without any condition exprest, he promises or
 prophesies good things to come. This would destroy all assurance of hope
 or faith. Lastly, This Prophecy concerning Pacifick times or a *Pacifick
 kingdom*, is in the 65*th* chap.<span class="margnote">*Isa*. 65.</span>
-subjoyn’d to the *Renovation of the [Heavens](errata.htm#5) and the
+subjoyn’d to the *Renovation of the [Heavens](errata.htm#5.md) and the
 Earth*, and several marks of a change in the Natural World; which things
 we know did not come to pass at the first coming of our Saviour: there
 was no change of Nature then, nor has been ever since. And therefore
@@ -328,7 +328,7 @@ Most of the Prophets, I say, from *Moses* to *Malachy*, have spoken of
 this *Restauration*. *Moses* in the 30*th*. of *Deut*. *ver*. 4, 5, 9.
 *David*, in many of those Psalms we have cited. *Isaiah*, besides the
 places foremention’d, treats amply of this subject, *Chap*. 51. and in
-several other places. <span id="fr_18"></span>[1](#fn_18) So likewise
+several other places. <span id="fr_18"></span>[1](#fn_18.md) So likewise
 the Prophet *Ezekiel*, *Daniel*, *Hosea*, *Joel*, *Amos*, *Obadiah*,
 *Micah*, *Zephany*, *Haggai*, *Zachary*, *Malachy*. All these have,
 either expresly, or under the types of *Jerusalem* and *Sion*, foretold
@@ -433,7 +433,7 @@ Church: and that there still *remains*, *according* to the words of St.
 
 ### Footnotes
 
-<span id="fn_18"></span>[344:1](ste51.htm#fr_18) *Isaiah* *ch*. 11,
+<span id="fn_18"></span>[344:1](ste51.htm#fr_18.md) *Isaiah* *ch*. 11,
 *ch*. 43. *ch*. 49. 13, *&c*. *ch*. 66. *Ezekiel*, *ch*. 28. *ch*. 37.
 *Hos*. *ch*. 3, & *ch*. 14. *Joel* 3. 18. *Amos*, *ch*. 9. *Obad*. ver.
 17, *&c*. *Mich*. *ch*. 4. *ch*. 5. *Zeph*. 3. 14, *&c*. *Haggai*, *ch*.
@@ -442,4 +442,4 @@ Church: and that there still *remains*, *according* to the words of St.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](ste52)
+[Next: Chapter VI](ste52.md)

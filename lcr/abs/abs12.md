@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs11)  [Next](abs13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs11)  [Next](abs13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -37,7 +37,7 @@ Royal D'Histoire Naturelle de Belgique, but resident in Paris, is the
 author of the only book that covers the ABSM problem world-wide. It
 covers also many other items of a crypto-zoological nature, and is
 entitled in its English version, *On the* *Track of Unknown
-Animals*. <span id="fr_16"></span>[\*](#fn_16) I shall be leaning very
+Animals*. <span id="fr_16"></span>[\*](#fn_16.md) I shall be leaning very
 heavily upon this work from now on, with its author's more than generous
 permission. Bernard and I have been on these tracks separately for many
 years now but, as we have constantly exchanged information and
@@ -64,7 +64,7 @@ I tackled ABSMery in North America. From now on, and especially in the
 tropics, it becomes the main theme of my story.
 
 At this point I have to revert to type and refer to [Map
-VI](#img_map06). I also have to ask the reader to plunge once again into
+VI](#img_map06.md). I also have to ask the reader to plunge once again into
 botanical geography. In addition to being all of the other unpleasant
 things that we have accused them of, people are very chauvinistic and,
 from a national point of view, frankly bucolic. This shows up in various
@@ -82,13 +82,13 @@ cannot really exonerate the other United Staters of this same
 continent—the United States of Mexico—from indulgence in the same
 idiocy. Their maps customarily run *up* to that same ridiculous line;
 above which a ghostly "Pais de los Gringos" may be seen—in strong
-light. <span id="fr_17"></span>[\*](#fn_17)
+light. <span id="fr_17"></span>[\*](#fn_17.md)
 
 <span id="page_150">p. 150</span>
 
 <span id="img_map05"></span> <span align="CENTER"> [![MAP V.
 GUATEMALA](tn/map05.jpg)  
-Click to enlarge](img/map05.jpg)  
+Click to enlarge](img/map05.jpg.md)  
 MAP V. GUATEMALA  
 </span>
 
@@ -217,7 +217,7 @@ any case only
 <span id="page_154">p. 154</span>
 
 just "North" American. The true dividing line between the two continents
-of *Erica* and *Columbia* (see [Map XV](abs22.htm#img_map15)) is a very
+of *Erica* and *Columbia* (see [Map XV](abs22.htm#img_map15).md) is a very
 complicated line that meanders about all over the place on its way from
 the Pacific to the Caribbean. Plants and animals respect this line
 mightily. In fact, you are hard put to it to catch one of the party in
@@ -243,7 +243,7 @@ tailing off to a sub-polar one. Then, there is the great Andean upland
 and mountain ridge that occupies its whole western side. Least
 understood of all, however, is the area which is occupied by Brazil.
 
-Looking at [Map VI](#img_map06), you will perceive that, in addition to
+Looking at [Map VI](#img_map06.md), you will perceive that, in addition to
 the two mountain blocks in Central America, and the three arbitrary
 divisions of the Andean ridge, there are three other upland massifs on
 this continent. These are the Guianese, the Matto Grosso, and the
@@ -321,7 +321,7 @@ would do a thorough job on the northern Central American Block before
 even going to South America at all, and this is just what I now propose
 to do.
 
-The limits of this last block are very clear on [Map VI](#img_map06),
+The limits of this last block are very clear on [Map VI](#img_map06.md),
 and are confined between the Isthmus of Tehuantepec on the west and the
 gutter filled by the great lakes of Nicaragua on the east. The smaller
 southern block, running from the latter line to the valley of the Atrato
@@ -435,7 +435,7 @@ roughly 20 kilometers\] to C. Sanché. Further than this, I would not
 want to speculate as to range of this alleged creature. I have coloured
 in a patch on the enclosed map which depicts the approximate range
 according to what the natives told me, which means it would range into
-the departmento of El Quiche. (See [Map V.](#img_map05))
+the departmento of El Quiche. (See [Map V.](#img_map05).md)
 
 Cubulco itself, at about 4200 feet, is really "tierra templada," and the
 area in question ranges up to "tierra fria." The vegetation is open pine
@@ -532,7 +532,7 @@ who have been captured by the Sisemite. The following incident is
 related by a woman who had it from her grandmother:
 
 A young couple, recently married, went to live in a hut in the woods on
-the edge of their milpa  <span id="fr_18"></span>[\*](#fn_18) in order
+the edge of their milpa  <span id="fr_18"></span>[\*](#fn_18.md) in order
 that they might harvest the maize. On the road Rosalia stepped on a
 thorn and next morning her foot was so sore that she was unable to help
 Felipe with the harvesting, so he went out alone, leaving one of their
@@ -765,7 +765,7 @@ unwarranted difficulties unless we once again resort to a map. I think
 the best way to contemplate South America is as if it were made up of a
 number of large islands comprising those blocks of territory today
 enclosed within the 500-meter contours. This gives us a picture like
-that shown on p. 168 (see [Map VI](#img_map06)) on which both the
+that shown on p. 168 (see [Map VI](#img_map06).md) on which both the
 200-meter and 500-meter \[1500-foot\] contours are shown, and from which
 it may be seen that the uplands consist of the continuous line of the
 Andes; the Guiana Massif; and the Brazilian Uplands (composed of those
@@ -792,7 +792,7 @@ Massif, from the Guiana Massif, and from the Matto Grosso. \[The
 Patagonian affair is, I believe, something quite else.\] I have some
 extremely funny reports from the Pacific side of the Colombian block
 but, while the strangest things have recently been found there  <span
-id="fr_19"></span>[\*](#fn_19) and monstrous foot-tracks have been
+id="fr_19"></span>[\*](#fn_19.md) and monstrous foot-tracks have been
 reported in the same area, there has not been any suggestion that any of
 the latter were humanoid. Colombian scientists have taken the matter of
 what they call "an ape" fairly seriously but all the talk has
@@ -808,7 +808,7 @@ surrounding peoples admit that
 
 <span id="img_map06"></span> <span align="CENTER"> [![MAP VI. CENTRAL
 AND SOUTH AMERICA](tn/map06.jpg)  
-Click to enlarge](img/map06.jpg)  
+Click to enlarge](img/map06.jpg.md)  
 MAP VI. CENTRAL AND SOUTH AMERICA  
 </span>
 
@@ -1240,7 +1240,7 @@ dashed rum things happened at that camp.
 The story of the *Didis* goes back to the first days of European
 exploration of the Guianas. Sir Walter Raleigh's chroniclers mentioned
 them; the early Spaniards said that the natives spoke of them; and in
-1769 Edward Bancroft  <span id="fr_20"></span>[\*](#fn_20) wrote of
+1769 Edward Bancroft  <span id="fr_20"></span>[\*](#fn_20.md) wrote of
 them, saying that the Indians said they were about 5 feet tall, erect,
 and clothed in black hair. Once again also, the redoubtable Bernard
 Heuvelmans has brought to light some specific statements on these
@@ -1283,7 +1283,7 @@ Giglioli and Ugo Ignesti, made an expedition to British Guiana, where
 one of their secondary objects was to attack the problem of Loys' ape.
 For in this area the fauna, flora, climate and indeed the whole
 ecological pattern—what is now called the "biotope"—are the same as in
-the Sierra de Perijaâ;  <span id="fr_21"></span>[\*](#fn_21) and Beccari
+the Sierra de Perijaâ;  <span id="fr_21"></span>[\*](#fn_21.md) and Beccari
 had read in Elisée Reclus's geographical encyclopedia that according to
 Indian legend the forests in British Guiana were haunted by fabulous
 hairy men called *di-di*, which all the Indians fear, although they have
@@ -1359,11 +1359,11 @@ This is the one theme that runs consistently through all ABSMery.
 
 ### Footnotes
 
-<span id="fn_16"></span>[148:\*](abs12.htm#fr_16) Published in England
+<span id="fn_16"></span>[148:\*](abs12.htm#fr_16.md) Published in England
 by Rupert Hart-Davis, 1958; published in the United States by Hill &
 Wang, 1959.
 
-<span id="fn_17"></span>[149:\*](abs12.htm#fr_17) Sometimes things get
+<span id="fn_17"></span>[149:\*](abs12.htm#fr_17.md) Sometimes things get
 much worse, as when Guatemala published a map of her country which
 included the whole of British Honduras, because they "claim" it; and
 then the Mexicans countered with a map of their southern states from the
@@ -1374,9 +1374,9 @@ issued a pamphlet which claimed all the cays and islands off British
 Honduras. (There are five United States in all America—ours, Mexico,
 Venezuela, Brazil, and the Argentine.
 
-<span id="fn_18"></span>[161:\*](abs12.htm#fr_18) Cornfield.
+<span id="fn_18"></span>[161:\*](abs12.htm#fr_18.md) Cornfield.
 
-<span id="fn_19"></span>[167:\*](abs12.htm#fr_19) I have for some years
+<span id="fn_19"></span>[167:\*](abs12.htm#fr_19.md) I have for some years
 been interested in the reported existence of giant Earthworms in this
 area, based upon some correspondence and some extraordinary bas-reliefs
 on ancient pottery from that country. In 1956 and again in 1957, Mrs.
@@ -1385,12 +1385,12 @@ obtained numbers of these-5 feet long when contracted, and over 2 inches
 in diameter. Preserved materials of them is lodged with the Smithsonian
 Institution but the animals do not as yet even have a generic name.
 
-<span id="fn_20"></span>[179:\*](abs12.htm#fr_20) Called himself Jacobus
+<span id="fn_20"></span>[179:\*](abs12.htm#fr_20.md) Called himself Jacobus
 Van Zandt, spied on Benjamin Franklin in Paris, and almost kept France
 from joining our War of Independence. He was a well-known botanist and
 naturalist, as well as a doctor!
 
-<span id="fn_21"></span>[180:\*](abs12.htm#fr_21) This statement is not
+<span id="fn_21"></span>[180:\*](abs12.htm#fr_21.md) This statement is not
 strictly true. There are most marked botanical and zoological
 differences between these two areas, while their forests are completely
 separated by a wide belt of orchard-bush and open savannahs which form a
@@ -1402,4 +1402,4 @@ peoples prefer not to do so.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Africa—the “Darkest”](abs13)
+[Next: 9. Africa—the “Darkest”](abs13.md)

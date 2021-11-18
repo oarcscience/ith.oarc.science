@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc11)  [Next](scc13) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc11)  [Next](scc13.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ were deer. They control snow and rain.\]
 
 ------------------------------------------------------------------------
 
-[Next: 11.--Gashowu Yokuts. The Beginning Of The World.](scc13)
+[Next: 11.--Gashowu Yokuts. The Beginning Of The World.](scc13.md)

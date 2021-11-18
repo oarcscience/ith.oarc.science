@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som54) 
-[Next](som56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som54.md) 
+[Next](som56.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -164,4 +164,4 @@ I shall not doubt nor fear, for the answer is swift and certain.
 
 ------------------------------------------------------------------------
 
-[Next: Inspiration](som56)
+[Next: Inspiration](som56.md)

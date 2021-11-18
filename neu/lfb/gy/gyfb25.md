@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb24)  [Next](gyfb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb24)  [Next](gyfb26.md) 
 
 </div>
 
@@ -187,6 +187,6 @@ wisely over their kingdom.
 
 ------------------------------------------------------------------------
 
-[Next: The Sunchild](gyfb26)
+[Next: The Sunchild](gyfb26.md)
 
 </div>

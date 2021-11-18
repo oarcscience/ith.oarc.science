@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](wsl06)  [Next](wsl08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](wsl06)  [Next](wsl08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NJRA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NJRA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Wanderer in the Sprit Lands*, by Franchezzo (A. Farnese), \[1896\],
 at Intangible Textual Heritage
 
@@ -190,4 +190,4 @@ had a different cause for his sins.
 
 [Next: Chapter VI.--Twilight Lands--Love's Gifts--The Valley of
 Selfishness--The Country of Unrest--The Miser's Land--The Gambler's
-Land](wsl08)
+Land](wsl08.md)

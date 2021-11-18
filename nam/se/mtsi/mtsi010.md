@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi009)  [Next](mtsi011) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi009)  [Next](mtsi011.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ corn.
 
 ------------------------------------------------------------------------
 
-[Next: 9. The Only Son and Rabbit](mtsi011)
+[Next: 9. The Only Son and Rabbit](mtsi011.md)

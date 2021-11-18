@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow11)  [Next](wow13) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow11)  [Next](wow13.md) 
 
 ------------------------------------------------------------------------
 
@@ -414,4 +414,4 @@ slowly, I realised that by a miracle I had escaped.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Thirteen: How I Fell In With The Curate](wow13)
+[Next: Chapter Thirteen: How I Fell In With The Curate](wow13.md)

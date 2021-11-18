@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt05)  [Next](egt07) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt05)  [Next](egt07.md) 
 
 ------------------------------------------------------------------------
 
@@ -347,4 +347,4 @@ them in the notes.
 
 ------------------------------------------------------------------------
 
-[Next: IV.--The Commentators.](egt07)
+[Next: IV.--The Commentators.](egt07.md)

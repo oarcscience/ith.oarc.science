@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis01)  [Next](kis03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis01)  [Next](kis03.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ began to watch for the three swans.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](kis03)
+[Next: Part III](kis03.md)

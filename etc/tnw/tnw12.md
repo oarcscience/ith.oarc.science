@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw11)  [Next](tnw13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw11)  [Next](tnw13.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Heritage
 Scientology (page image: see
 https://ith.oarc.science/etc/tnw/tnw12.htm\#page\_156 for
 text)](tn/15600.jpg)  
-Click to enlarge](img/15600.jpg)  
+Click to enlarge](img/15600.jpg.md)  
   
 
  
@@ -332,4 +332,4 @@ tendency.
 
 ------------------------------------------------------------------------
 
-[Next: 12. Logic: The Cipher](tnw13)
+[Next: 12. Logic: The Cipher](tnw13.md)

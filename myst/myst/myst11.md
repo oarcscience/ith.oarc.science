@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst10)  [Next](myst12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst10)  [Next](myst12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -39,6 +39,6 @@ id="an_iv-Page_167"></span>
 
 ------------------------------------------------------------------------
 
-[Next: I. Introductory](myst12)
+[Next: I. Introductory](myst12.md)
 
 </div>

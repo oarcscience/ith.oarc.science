@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap29) 
-[Next](bap31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap29.md) 
+[Next](bap31.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ only he numbered them that were upwards of 50 years, of whom the number
 was 47,300. Also he numbered them that were below 20 years, and the
 number of them was 850,850. And he looked over the tribe of Levi and the
 whole number of them was CXX. CCXD. DCXX. CC. DCCC. <span
-id="fr_71"></span>[1](#fn_71)
+id="fr_71"></span>[1](#fn_71.md)
 
 <span id="page_118">p. 118</span>
 
@@ -45,7 +45,7 @@ These are the words which I spake to their fathers in the land of Egypt,
 and appointed a number, even 210 years, unto all that saw my wonders.
 Now the number of them all was 9000 times 10,000, 200 times 95,000 men,
 besides women, and I put to death the whole multitude of them <span
-id="fr_72"></span>[1](#fn_72) <span id="fr_73"></span>[2](#fn_73)
+id="fr_72"></span>[1](#fn_72) <span id="fr_73"></span>[2](#fn_73.md)
 because they believed me not, and the 50th part of them I was left and I
 sanctified them unto me. Therefore do I command the generation of my
 people to give me tithes of their fruits, to be before me for a memorial
@@ -57,15 +57,15 @@ and abode in the desert two years.
 
 ### Footnotes
 
-<span id="fn_71"></span>[117:1](bap30.htm#fr_71) XIV. 3. The number at
+<span id="fn_71"></span>[117:1](bap30.htm#fr_71.md) XIV. 3. The number at
 the end of this verse is hopelessly corrupt.
 
-<span id="fn_72"></span>[118:1](bap30.htm#fr_72) *i.e.* 2,180,000.
+<span id="fn_72"></span>[118:1](bap30.htm#fr_72.md) *i.e.* 2,180,000.
 
-<span id="fn_73"></span>[118:2](bap30.htm#fr_73) 4. The number 2,180,000
+<span id="fn_73"></span>[118:2](bap30.htm#fr_73.md) 4. The number 2,180,000
 seems as if it ought to bear a relation to the 210 years spent in Egypt:
 *qu*. 2,100,000?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV](bap31)
+[Next: Chapter XV](bap31.md)

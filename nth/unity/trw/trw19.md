@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](trw18)  [Next](trw20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](trw18)  [Next](trw20.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *The Revealing Word*, by Charles Fillmore, \[1959\], at Intangible
 Textual Heritage
 
@@ -395,4 +395,4 @@ demonstration the way to eternal life was opened to humanity.
 
 ------------------------------------------------------------------------
 
-[Next: S](trw20)
+[Next: S](trw20.md)

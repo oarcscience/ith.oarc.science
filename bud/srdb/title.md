@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index) [Next](pref)
+Heritage](../../index) [Buddhism](../index) [Index](index) [Next](pref.md)
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ Heritage](../../index) [Buddhism](../index) [Index](index) [Next](pref)
 
 ------------------------------------------------------------------------
 
-[Next](pref)
+[Next](pref.md)

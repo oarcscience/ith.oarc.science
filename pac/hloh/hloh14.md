@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh13)  [Next](hloh15) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh13)  [Next](hloh15.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,4 +123,4 @@ mention other first men and women as ancestors of the Hawaiian people.
 
 ------------------------------------------------------------------------
 
-[Next: XI. The Chief With the Wonderful Servants](hloh15)
+[Next: XI. The Chief With the Wonderful Servants](hloh15.md)

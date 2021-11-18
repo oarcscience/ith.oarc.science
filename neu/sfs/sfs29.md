@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs28)  [Next](sfs30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs28)  [Next](sfs30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -47,12 +47,12 @@ The heroes 'Overturn-hill' (*Vertogor*) and 'Overturn-oak'
 <span id="page_132">p. 132</span>
 
 <span class="contnote">\[paragraph continues\]</span> (*Vertodub*), who
-appear in [No. 22](sfs31.htm#an_22), occur also in a story from the
+appear in [No. 22](sfs31.htm#an_22.md), occur also in a story from the
 Ukraine, given by Mr. Ralston (pp. 170-175). Several circumstances in
-[No. 22](sfs31.htm#an_22) are also similar to incidents in the Russian
+[No. 22](sfs31.htm#an_22.md) are also similar to incidents in the Russian
 tale of 'Ivan Popyalof' (Ralston, p. 66), but in spite of these
 similarities the stories are truly distinct.
 
 ------------------------------------------------------------------------
 
-[Next: XXI. The Frost, The Sun, and the Wind](sfs30)
+[Next: XXI. The Frost, The Sun, and the Wind](sfs30.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre16)  [Next](vre18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre16)  [Next](vre18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -76,7 +76,7 @@ of systematic pessimism proves. In this universalistic way of taking the
 ideal world, the essence of practical religion seems to me to evaporate.
 Both instinctively and for logical reasons, I find it hard to believe
 that principles can exist which make no difference in facts. <span
-id="fr_358"></span>[1](#fn_358) But all facts
+id="fr_358"></span>[1](#fn_358.md) But all facts
 
 <span id="page_512">p. 512</span>
 
@@ -100,7 +100,7 @@ verdict or platonic appreciation as it means in Vedantic or modern
 absolutist systems; it carries, on the contrary, *execution* with it, is
 *in rebus* as well as *post rem*, and operates "causally" as partial
 factor in the total fact. The universe becomes a gnosticism <span
-id="fr_359"></span>[1](#fn_359) pure and simple on any other terms. But
+id="fr_359"></span>[1](#fn_359.md) pure and simple on any other terms. But
 this view that judgment and execution
 
 <span id="page_513">p. 513</span>
@@ -192,10 +192,10 @@ a larger and more godlike self, of which the present self would then be
 but the mutilated expression, and the universe might conceivably be a
 collection of such selves, of different degrees of inclusiveness, with
 no absolute unity realized in it at all. <span
-id="fr_360"></span>[1](#fn_360) Thus would a sort of polytheism return
+id="fr_360"></span>[1](#fn_360.md) Thus would a sort of polytheism return
 upon us—a polytheism which I do not on this occasion defend, for my only
 aim at present is to keep the testimony of religious experience clearly
-within its proper bounds. \[Compare [p. 130](vre07.htm#page_130)
+within its proper bounds. \[Compare [p. 130](vre07.htm#page_130.md)
 above.\]
 
 Upholders of the monistic view will say to such a polytheism (which, by
@@ -209,7 +209,7 @@ protection, and our religious consolation would thus
 <span id="page_516">p. 516</span>
 
 fail to be complete. It goes back to what was said on pages
-[129](vre07.htm#page_129)-[131](vre07.htm#page_131), about the
+[129](vre07.htm#page_129)-[131](vre07.htm#page_131.md), about the
 possibility of there being portions of the universe that may
 irretrievably be lost. Common sense is less sweeping in its demands than
 philosophy or mysticism have been wont to be, and can suffer the notion
@@ -229,7 +229,7 @@ No fact in human nature is more characteristic than its willingness to
 live on a chance. The existence of the chance makes the difference, as
 Edmund Gurney says, between a life of which the keynote is resignation
 and a life of which the keynote is hope. <span
-id="fr_361"></span>[365](#fn_361) But all these statements are
+id="fr_361"></span>[365](#fn_361.md) But all these statements are
 unsatisfactory from their brevity, and I can only say that I hope to
 return to the same questions in another book.
 
@@ -237,7 +237,7 @@ return to the same questions in another book.
 
 ### Footnotes
 
-<span id="fn_358"></span>[511:1](vre17.htm#fr_358) Transcendental
+<span id="fn_358"></span>[511:1](vre17.htm#fr_358.md) Transcendental
 idealism, of course, insists that its ideal world makes *this*
 difference, that facts *exist*. We owe it to the Absolute that we have a
 world of fact at all. "A world" of fact!—that exactly is the trouble. An
@@ -254,17 +254,17 @@ can raise no particular weight whatever, who can help us with no private
 burden, and who is on the side of our enemies as much as he is on our
 own. Odd evolution from the God of David's psalms!
 
-<span id="fn_359"></span>[512:1](vre17.htm#fr_359) See my Will to
+<span id="fn_359"></span>[512:1](vre17.htm#fr_359.md) See my Will to
 Believe and other Essays in popular Philosophy. 1897, p. 165.
 
-<span id="fn_360"></span>[515:1](vre17.htm#fr_360) Such a notion is
+<span id="fn_360"></span>[515:1](vre17.htm#fr_360.md) Such a notion is
 suggested in my Ingersoll Lecture On Human Immortality, Boston and
 London, 1899.
 
-<span id="fn_361"></span>[516:365](vre17.htm#fr_361) Tertium Quid, 1887,
-p. 99. See also pp. [148](vre07.htm#page_148),
-[149](vre07.htm#page_149).
+<span id="fn_361"></span>[516:365](vre17.htm#fr_361.md) Tertium Quid, 1887,
+p. 99. See also pp. [148](vre07.htm#page_148.md),
+[149](vre07.htm#page_149.md).
 
 ------------------------------------------------------------------------
 
-[Next: Index](vre18)
+[Next: Index](vre18.md)

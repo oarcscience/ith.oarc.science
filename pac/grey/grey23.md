@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey22)  [Next](grey24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey22)  [Next](grey24.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ mother of Te Puni.
 
 ------------------------------------------------------------------------
 
-[Next: Stratagem of Puhihuia's Elopement with Te Ponga](grey24)
+[Next: Stratagem of Puhihuia's Elopement with Te Ponga](grey24.md)

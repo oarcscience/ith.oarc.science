@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi132)  [Next](mtsi134) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi132)  [Next](mtsi134.md) 
 
 ------------------------------------------------------------------------
 
-### 40. A WAR STORY <span id="fr_30"></span>[1](#fn_30)
+### 40. A WAR STORY <span id="fr_30"></span>[1](#fn_30.md)
 
 It is said that there was once a woman belonging to the Tcikote clan who
 dwelt at some distance from her town. At that time the Hitchiti were at
@@ -37,9 +37,9 @@ This is how the story goes.
 
 ### Footnotes
 
-<span id="fn_30"></span>[115:1](mtsi133.htm#fr_30) Recorded by Dr. A. S.
+<span id="fn_30"></span>[115:1](mtsi133.htm#fr_30.md) Recorded by Dr. A. S.
 Gatschet from Judge George W. Stidham.
 
 ------------------------------------------------------------------------
 
-[Next: 41. Walnut-Cracker](mtsi134)
+[Next: 41. Walnut-Cracker](mtsi134.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf07) [Next](bulf09) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf07) [Next](bulf09.md) 
 
 # CHAPTER IX.
 
@@ -248,4 +248,4 @@ Keats also, in "Endymion," says:
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER X. Vertumnus And Pomona.](bulf09)
+Next: [CHAPTER X. Vertumnus And Pomona.](bulf09.md)

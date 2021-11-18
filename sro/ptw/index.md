@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Rosicrucians](../../eso/ros/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Rosicrucians](../../eso/ros/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ptw00)
+[Contents](#contents)    [Start Reading](ptw00.md)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte)
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
 Franz Hartmann, who also wrote the esoteric novella [With the
-Adepts](../wta/index), published this short non-fiction summary of the
+Adepts](../wta/index.md), published this short non-fiction summary of the
 Rosicrucian question in 1890. He reviews the well-known history and
 literature of the Rosicrucians. In the last two chapters Hartmann
 presents what he believes to be the core doctrines of the 'true'
@@ -43,15 +43,15 @@ Rosicrucians.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ptw00)  
-[Contents](ptw01)  
-[Preface](ptw02)  
-[Chapter One. Introduction](ptw03)  
-[Chapter Two. The Hermetic Philosophy](ptw04)  
-[Chapter Three. Mediaeval Philosophers](ptw05)  
-[Chapter Four. Among the “Adepts.”](ptw06)  
-[Chapter Five. The Rosicrucian “Orders.”](ptw07)  
-[Chapter Six. Pseudo-Rosicrucians—Impostors And Fools](ptw08)  
+<span id="contents"></span> [Title Page](ptw00.md)  
+[Contents](ptw01.md)  
+[Preface](ptw02.md)  
+[Chapter One. Introduction](ptw03.md)  
+[Chapter Two. The Hermetic Philosophy](ptw04.md)  
+[Chapter Three. Mediaeval Philosophers](ptw05.md)  
+[Chapter Four. Among the “Adepts.”](ptw06.md)  
+[Chapter Five. The Rosicrucian “Orders.”](ptw07.md)  
+[Chapter Six. Pseudo-Rosicrucians—Impostors And Fools](ptw08.md)  
 [Appendix: The Principles of Yoga-Philosophy of the Rosicrucians and
-Alchemists](ptw09)  
-[Chapter Eight. Alchemy](ptw10)  
+Alchemists](ptw09.md)  
+[Chapter Eight. Alchemy](ptw10.md)  

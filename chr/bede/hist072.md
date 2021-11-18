@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist071) 
-[Next](hist073) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist071.md) 
+[Next](hist073.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ be protected by the hand of God.
 
 [Next: XVII. How a prop of the church on which Bishop Aidan was leaning
 when he died, could not be consumed when the rest of the Church was on
-fire; and concerning his inward life. \[651 A. D.\]](hist073)
+fire; and concerning his inward life. \[651 A. D.\]](hist073.md)

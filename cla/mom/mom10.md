@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mom09)  [Next](mom11) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mom09)  [Next](mom11.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_209">p. 209</span>
 
-# MITHRAIC ART  <span id="fr_65"></span>[1](#fn_65)
+# MITHRAIC ART  <span id="fr_65"></span>[1](#fn_65.md)
 
 THE monuments of Mithraism, which have been found in considerable
 numbers in the provinces of the Occident and even in the Orient,
@@ -30,15 +30,15 @@ of them,--hold a very honorable place in the multitude of sculptured
 works which the imperial period has left us, and are deserving of some
 consideration.
 
-It can be proved <span id="fr_66"></span>[1](#fn_66) that all our
+It can be proved <span id="fr_66"></span>[1](#fn_66.md) that all our
 representations of the tauroctonous Mithra, the hieratic figure of which
 was fixed before the propagation of the Mysteries in the Occident, are
 more or less faithful replicas of a type created by a sculptor of the
 school of Pergamon, in imitation of the sacrificing Victory which
 adorned the balustrade of the temple of Athena Nike on the Acropolis.
 Certain marbles discovered at Rome and at Ostia (see for example, Figs.
-[4](mom04.htm#img_4), [5](mom04.htm#img_5), [6](mom04.htm#img_6) and
-[10](mom05.htm#img_10)), which unquestionably go back to the beginning
+[4](mom04.htm#img_4), [5](mom04.htm#img_5), [6](mom04.htm#img_6.md) and
+[10](mom05.htm#img_10).md), which unquestionably go back to the beginning
 of the second century, still reflect the splendor of the powerful
 compositions of the Hellenistic epoch. After an ardent pursuit, the god
 captures the bull, which has fallen to the earth; with one knee on its
@@ -56,7 +56,7 @@ mixture of exaltation and remorse depicted in the countenance of its
 slayer, give prominence to the pathetic side of this sacred drama, and
 even to-day inspire in the heart of the spectator an emotion which the
 faithful of old experienced in all its living power. (See Fig.
-[44](mom09.htm#img_44) and also the cover-stamp of this book.)
+[44](mom09.htm#img_44) and also the cover-stamp of this book..md)
 
 The traditional type of torch-bearers, or *dadophori*, was not
 susceptible of a similar impassioned treatment. But one remarks,
@@ -66,8 +66,8 @@ the different emotions of hope and sadness portrayed on the countenances
 of the two young men. We possess a remarkable reproduction of this
 divine couple in the two statues discovered near the Tiber, which Zoëga
 attributed to the epoch of Hadrian and which were possibly imported from
-the Orient to Italy. <span id="fr_67"></span>[1](#fn_67) (See Figures
-[47](#img_47) and [48](#img_48).) It will be seen how their author
+the Orient to Italy. <span id="fr_67"></span>[1](#fn_67.md) (See Figures
+[47](#img_47) and [48](#img_48)..md) It will be seen how their author
 succeeded in offsetting the defective symmetry resulting from the fact
 that the two figures, which are intended as counterparts, have both
 their mantles fastened at the right shoulder and falling down at the
@@ -96,7 +96,7 @@ which appears to be
 
 <span id="page_213">p. 213</span>
 
-contemporaneous with the first. <span id="fr_68"></span>[1](#fn_68) The
+contemporaneous with the first. <span id="fr_68"></span>[1](#fn_68.md) The
 artist delighted in multiplying the folds of the garments
 
  
@@ -124,7 +124,7 @@ carved figures are almost entirely severed from their massive base, to
 which they are attached only by the thinnest supports. It is a piece of
 artistic braggadocio in which the sculptor parades his virtuosity by
 producing with a brittle material the same effects that are obtained by
-workers in ductile metals. <span id="fr_69"></span>[1](#fn_69)
+workers in ductile metals. <span id="fr_69"></span>[1](#fn_69.md)
 
 But these comparatively perfect compositions are rare in Italy and
 especially so in the provinces, and it has to be acknowledged that the
@@ -162,7 +162,7 @@ The manufacturers of this brummagem sculpture had no other thought than
 that of cheaply satisfying their clientage of devotees, whose artistic
 tastes were far from exacting. The ancient manufacturers turned out
 hundreds of smaller tauroctonous Mithras, <span
-id="fr_70"></span>[1](#fn_70) just as our image-makers multiply in
+id="fr_70"></span>[1](#fn_70.md) just as our image-makers multiply in
 profusion the very same type of crucifixes and the very same Virgin
 Mary. It was the religious imagery of the epoch, and it was not more
 æsthetic than is ours to-day.
@@ -171,7 +171,7 @@ These manufacturers did not restrict themselves to the unceasing
 production of replicas of the same traditional type; they sought to
 diversify their wares, in order to recommend them to all tastes and
 purses. Look only at the series of ex-votos found in the mithræum of
-Sarmizegetusa in Dacia. <span id="fr_71"></span>[2](#fn_71) We find here
+Sarmizegetusa in Dacia. <span id="fr_71"></span>[2](#fn_71.md) We find here
 specimens of all the models that the workshops of the place reproduced.
 High reliefs, which are difficult and costly, are avoided. At most, the
 marble was perforated in places, so as to show forth the group of the
@@ -199,18 +199,18 @@ relationship with art, they nevertheless furnish a valuable commentary
 upon the stone-hewing industry of antiquity. We have many proofs that a
 goodly portion of the sculptures intended for the provincial cities were
 executed during the imperial epoch at Rome. <span
-id="fr_72"></span>[1](#fn_72) This is probably the case with some of the
+id="fr_72"></span>[1](#fn_72.md) This is probably the case with some of the
 monuments discovered in Gaul, and also for those which adorned a
-mithræum in London. <span id="fr_73"></span>[2](#fn_73) On the other
+mithræum in London. <span id="fr_73"></span>[2](#fn_73.md) On the other
 hand, certain statues discovered in the capital were
 
 <span id="page_218">p. 218</span>
 
-presumably imported from Asia Minor. <span id="fr_74"></span>[1](#fn_74)
+presumably imported from Asia Minor. <span id="fr_74"></span>[1](#fn_74.md)
 The beautiful bas-reliefs of Virunum were likewise brought from abroad,
 probably by way of Aquileia. We know by the passion of the Four Crowned
 Ones the importance of the quarries of Pannonia in the third
-century, <span id="fr_75"></span>[2](#fn_75) where marble was not only
+century, <span id="fr_75"></span>[2](#fn_75.md) where marble was not only
 quarried but worked. These stone-yards appear to have been an important
 center for the manufacture of Mithraic votive offerings. In any event,
 there are several of them, exhumed in the temples of Germany, which were
@@ -264,7 +264,7 @@ brilliant polychromatic vesture. Vivid variety of coloring, moreover,
 was one of the traditions of Oriental art, and Lucian had already
 contrasted the simple and graceful forms of the Hellenic deities with
 the ostentatious gaudery of the gods imported from Asia. <span
-id="fr_76"></span>[1](#fn_76)
+id="fr_76"></span>[1](#fn_76.md)
 
 The most remarkable of these sculptures have been brought to light in
 the north of Gaul, or, more precisely, on the Rhenish frontier. It
@@ -321,7 +321,7 @@ its temples the models that had long since been made popular.
 
 On the other hand, one personage at least is a transformation of an
 Asiatic archetype; this is the leontocephalous, or lion-headed, Kronos.
-(See Figs. [20](mom07.htm#img_20)-[23](mom07.htm#img_23).) Like the
+(See Figs. [20](mom07.htm#img_20)-[23](mom07.htm#img_23)..md) Like the
 majority of his compeers, this animal-headed monster is a creation of
 the Oriental imagination. His genealogy would doubtless carry us back to
 
@@ -334,7 +334,7 @@ Fig. 49.
 MITHRAIC KRONOS, OR PERSONIFICATION OF INFINITE TIME.
 
 Surrounded by the signs of the Zodiac (see [p.
-121](mom07.htm#page_121)). In the corners the gods of the Winds. Here
+121](mom07.htm#page_121).md). In the corners the gods of the Winds. Here
 represented without the head of a lion, which appears on the breast of
 the figure. A Roman beautification of the horrific features of the
 Oriental god. (Bas-relief of Modena, *Rev. arch.*, 1902, I., p. 1.)
@@ -354,7 +354,7 @@ soften as much as possible the monstrous character of this barbaric
 personage, and thus gradually to humanize it. Ultimately they suppressed
 the lion's head, and contented themselves with representing this animal
 by its feet only, or with placing the head of the beast on the figure's
-breast. (See Fig. [49](#img_49))
+breast. (See Fig. [49](#img_49).md)
 
 The leontocephalous god of Eternity is the most original creation of
 Mithraic art, and if it is totally destitute of the charm of grace, its
@@ -386,9 +386,9 @@ From a Greek vase. (Baumeister.)
 
 adaptations is generally very slight. We have only to compare the
 lifeless group of Mithra issuing from the rock (Fig.
-[30](mom07.htm#img_30)) with the animated picture of the birth of
+[30](mom07.htm#img_30).md) with the animated picture of the birth of
 Erichthonios as it is portrayed on Greek vases (see, for example, Fig.
-[50](#img_50)) to note the superior artistic effect which the ancient
+[50](#img_50).md) to note the superior artistic effect which the ancient
 Hellenic ceramists could produce from a similar theme. The poverty
 
 <span id="page_226">p. 226</span>
@@ -426,7 +426,7 @@ tell its mission and to instruct,--faithful in this also to the
 traditions of the ancient Orient. The jumbled mass of personages and
 groups which are presented on some of the bas-reliefs, the host of
 attributes with which it surcharged the eternal Kronos, <span
-id="fr_77"></span>[1](#fn_77) show us that a new ideal was born with the
+id="fr_77"></span>[1](#fn_77.md) show us that a new ideal was born with the
 new religion. These uncouth and unappealing symbols, the manifold use of
 which our monuments exhibit, did not allure by their elegance or
 nobility; they fascinated the mind by the disquieting attractions of the
@@ -469,22 +469,22 @@ in the images of Samson rending the lion.
 
 ### Footnotes
 
-<span id="fn_65"></span>[209:1](mom10.htm#fr_65) In the original this
+<span id="fn_65"></span>[209:1](mom10.htm#fr_65.md) In the original this
 chapter appeared as an Appendix. We have given it an independent place
 in this edition.--*Tr*.
 
-<span id="fn_66"></span>[210:1](mom10.htm#fr_66) Compare my large work,
+<span id="fn_66"></span>[210:1](mom10.htm#fr_66.md) Compare my large work,
 *Textes et Monuments figurés relatifs aux Mystères de Mithra*, Vol. II.,
 pp. 180 *et seq*.
 
-<span id="fn_67"></span>[211:1](mom10.htm#fr_67) *T. et M.*, Mon. 27,
+<span id="fn_67"></span>[211:1](mom10.htm#fr_67.md) *T. et M.*, Mon. 27,
 Plate II, opposite p. 209, Vol. II. Conmut thinks these statues are
 prior to Hadrian.
 
-<span id="fn_68"></span>[213:1](mom10.htm#fr_68) *T. et M.* Mon. 79,
+<span id="fn_68"></span>[213:1](mom10.htm#fr_68.md) *T. et M.* Mon. 79,
 Fig. 67; and Mon. 38, Fig. 45.
 
-<span id="fn_69"></span>[214:1](mom10.htm#fr_69) M. von Schneider, *loc.
+<span id="fn_69"></span>[214:1](mom10.htm#fr_69.md) M. von Schneider, *loc.
 cit.*, Vol. II., p. 488, who sees in this composition "*ein
 verblüffendes technisches Geschick*," compares it with the relief on the
 base of the Antonine column (Brunn, *Denkmäler gr. u. röm. Skulptur*,
@@ -497,39 +497,39 @@ and are to-day to be found in the Museum at Brussels (*Catal. des
 antiquitées acquises par les musées royaux depuis le 1<sup>er</sup>
 janvier 1900*, Bruxelles, 1901, Nos. 110-111).
 
-<span id="fn_70"></span>[216:1](mom10.htm#fr_70) The absence of
+<span id="fn_70"></span>[216:1](mom10.htm#fr_70.md) The absence of
 machinery naturally excluded any absolute resemblance, but some of our
 bas-reliefs are certainly from the same hand or at least from the same
 workshop. Cf. *T. et M.*, Vol. II., Mon. 45 and 46; Figs. 85 and 95,
 Fig. 87; 192 and 192 *bis*; 194 and 195.
 
-<span id="fn_71"></span>[216:2](mom10.htm#fr_71) *T. et M.* Vol. II.,
+<span id="fn_71"></span>[216:2](mom10.htm#fr_71.md) *T. et M.* Vol. II.,
 Nos. 138 to 183.
 
-<span id="fn_72"></span>[217:1](mom10.htm#fr_72) Friedländer,
+<span id="fn_72"></span>[217:1](mom10.htm#fr_72.md) Friedländer,
 *Sittengeschichte*, Vol. III., p. 280.
 
-<span id="fn_73"></span>[217:2](mom10.htm#fr_73) *T. et M.*, Vol. II.,
+<span id="fn_73"></span>[217:2](mom10.htm#fr_73.md) *T. et M.*, Vol. II.,
 Mon. 267 and the note on p. 390.
 
-<span id="fn_74"></span>[218:1](mom10.htm#fr_74) *T. et M.*, Vol. II.,
+<span id="fn_74"></span>[218:1](mom10.htm#fr_74.md) *T. et M.*, Vol. II.,
 Mon. 235 and the note on p. 338. *Cf*. supra, [p.
-122](mom07.htm#page_122), Fig. [26](mom07.htm#img_26).
+122](mom07.htm#page_122), Fig. [26](mom07.htm#img_26.md).
 
-<span id="fn_75"></span>[218:2](mom10.htm#fr_75) Wattenbach, *Passio
+<span id="fn_75"></span>[218:2](mom10.htm#fr_75.md) Wattenbach, *Passio
 sanct, quatuor coronat*., with the notes of Benndorf and Max Büdinger,
 1870; cf. Friedländer, *op. cit.*, p. 282. A new text has been published
 by Wattenbach, *Sitzungsb. Akad.*, *Berlin*, XLVII., 1896, p. 1281 *et
 seq.* There still exists of this work an unpublished Greek translation;
 cf. *Analecta Bollandiana*, XVI., 1897, p. 337.
 
-<span id="fn_76"></span>[220:1](mom10.htm#fr_76) Lucian, *Jup. trag.*, §
+<span id="fn_76"></span>[220:1](mom10.htm#fr_76.md) Lucian, *Jup. trag.*, §
 8.
 
-<span id="fn_77"></span>[227:1](mom10.htm#fr_77) *Cf*. [p.
-139](mom07.htm#page_139), Fig. [35](mom07.htm#img_35), and [p.
-105](mom07.htm#page_105) *et seq*.
+<span id="fn_77"></span>[227:1](mom10.htm#fr_77.md) *Cf*. [p.
+139](mom07.htm#page_139), Fig. [35](mom07.htm#img_35.md), and [p.
+105](mom07.htm#page_105.md) *et seq*.
 
 ------------------------------------------------------------------------
 
-[Next: Index](mom11)
+[Next: Index](mom11.md)

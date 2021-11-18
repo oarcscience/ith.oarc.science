@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli30)  [Next](roli32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli30)  [Next](roli32.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ his father, nor his grandfather, lived at the San Luis Rey mission.
 Besides mourning ceremonies of various kinds—five are mentioned below,
 the Luiseño possessed puberty or initiation rites for both boys and
 girls. Those for girls have been described as follows: <span
-id="fr_327"></span>[310](#fn_321)
+id="fr_327"></span>[310](#fn_321.md)
 
 *Girls’ Puberty Ceremony*.
 
@@ -37,7 +37,7 @@ girls were laid on this on their backs. Two flat stones were heated and
 laid on their abdomens. Several girls, generally relatives, were usually
 put through the ceremony at once. They were called *as*, and the
 ceremony *weghenish*. The ceremony lasted four or five days. A headdress
-of a plant called *engwish* <span id="fr_328"></span>[311](#fn_322) was
+of a plant called *engwish* <span id="fr_328"></span>[311](#fn_322.md) was
 worn by the girls for several months after the ceremony. During this
 period they could neither eat meat nor fish. The duration of this
 restriction does not seem to have been altogether fixed. The longer it
@@ -55,7 +55,7 @@ boulders. These paintings, some of which can
 <span id="img_fig04"></span> <span align="CENTER"> [![Fig. 4.Remains of
 red rock-paintings made by girls after weghenish ceremony at Sheva, an
 old village site a mile from Rincon.](tn/fig04.jpg)  
-Click to enlarge](img/fig04.jpg)  
+Click to enlarge](img/fig04.jpg.md)  
 Fig. 4.—Remains of red rock-paintings made by girls after weghenish
 ceremony at Sheva, an old village site a mile from Rincon.  
 </span>
@@ -64,9 +64,9 @@ ceremony at Sheva, an old village site a mile from Rincon.
 
 still be seen, especially near the old village sites, consist of
 geometrical arrangements of red lines, usually in patterns forming
-vertical stripes several feet high. ([Fig. 4](#img_fig04).) After making
+vertical stripes several feet high. ([Fig. 4](#img_fig04)..md) After making
 her painting, a girl was again free to eat meat and salt. The paintings
-were called *yunish*. <span id="fr_329"></span>[312](#fn_323)
+were called *yunish*. <span id="fr_329"></span>[312](#fn_323.md)
 
 At one period, apparently at the beginning of the ceremony, the girls
 ate tobacco. Several small balls of this, it is said without admixture
@@ -119,7 +119,7 @@ ground-painting in the wamgush. The painting was made with red and
 yellow paint, paesul and navyot, ashes for white, and charcoal for
 black, on the ground which formed the background of the painting. The
 entire picture, which was circular and represented the world, was called
-torokhoish. ([Fig. 5](#img_fig05)). The circle was bisected from north
+torokhoish. ([Fig. 5](#img_fig05).md). The circle was bisected from north
 to south and from east to west. At each end of the two diameters were
 represented the bear and the rattlesnake. The four radii formed by the
 intersecting diameters, and pointing as it were to the cardinal
@@ -145,12 +145,12 @@ entire torokhoish
 <span id="page_178">p. 178</span>
 
 painting "filled the wamgush," being apparently about twelve or fifteen
-feet in diameter. <span id="fr_330"></span>[313](#fn_324)
+feet in diameter. <span id="fr_330"></span>[313](#fn_324.md)
 
 <span id="img_fig05"></span> <span align="CENTER"> [![Fig.
 5.Sand-painting, torokhoish, representing tamaiawot, the
 earth.](tn/fig05.jpg)  
-Click to enlarge](img/fig05.jpg)  
+Click to enlarge](img/fig05.jpg.md)  
 Fig. 5.—Sand-painting, torokhoish, representing tamaiawot, the earth.  
 </span>
 
@@ -194,7 +194,7 @@ lightly of the ceremony, the bear and the rattlesnake would kill him.
 Whether he went north or south or east or west he would be killed. In
 this way the old man instructed the boys.
 
-A short rope made of wish, <span id="fr_331"></span>[314](#fn_325) and
+A short rope made of wish, <span id="fr_331"></span>[314](#fn_325.md) and
 called wanawut or wanal, whereas an ordinary rope is wichit, was laid
 next to the hole in the center of the painting. The boys went to the
 wanaut and, holding their feet together, made three jumps along on it.
@@ -409,7 +409,7 @@ outside the house.
 After the birth of a child both the mother and the father remained
 quiet. They did not cook or work. They remained lying down for twenty,
 thirty, or forty days. They used medicine of a plant called
-hulvul, <span id="fr_332"></span>[315](#fn_326) boiled in water. They
+hulvul, <span id="fr_332"></span>[315](#fn_326.md) boiled in water. They
 ate no meat. All this was done for the health of the child. When the
 child's navel string was cut, it was tied over the navel. After the cord
 fell off, it was buried.
@@ -430,7 +430,7 @@ communication between parents-in-law and children-in-law.
 *Houses and Implements*.
 
 The house consisted of a framework of posts, rafters, and poles, with a
-thatching of shuikawat <span id="fr_333"></span>[316](#fn_327) plants.
+thatching of shuikawat <span id="fr_333"></span>[316](#fn_327.md) plants.
 The thatching was
 
 <span id="page_185">p. 185</span>
@@ -460,12 +460,12 @@ pounding end. The most common material is granite. A flat metate, malal,
 was also used.
 
 Head-bands of human hair, called yukish, <span
-id="fr_334"></span>[317](#fn_328) were made from hair cut off in
+id="fr_334"></span>[317](#fn_328.md) were made from hair cut off in
 mourning, and were worn by old men in dancing.
 
 Nothing corresponding to a drum is said to have been used in any
 ceremonies. Whistles, bakhal, of cane or reed, huikish, <span
-id="fr_335"></span>[318](#fn_329) and asphalt, shanat, were used at the
+id="fr_335"></span>[318](#fn_329.md) and asphalt, shanat, were used at the
 boys’ initiation, at the time when the boys were buried and covered with
 ants. The pumalum or initiated men danced in a circle on this occasion,
 blowing these whistles and singing in slow broken syllables. The chief
@@ -502,35 +502,35 @@ tips.
 
 ### Footnotes
 
-<span id="fn_321"></span>[174:310](roli31.htm#fr_327) Am. Anthr., n. s.
+<span id="fn_321"></span>[174:310](roli31.htm#fr_327.md) Am. Anthr., n. s.
 VIII, 32, 1906.
 
-<span id="fn_322"></span>[174:311](roli31.htm#fr_328) Enwish,
+<span id="fn_322"></span>[174:311](roli31.htm#fr_328.md) Enwish,
 *Echinocystis macrocarpa*.—S.
 
-<span id="fn_323"></span>[176:312](roli31.htm#fr_329) Yuninish, the
-girls’ puberty ceremony.—S. Cf. note [34](roli08.htm#fn_34).
+<span id="fn_323"></span>[176:312](roli31.htm#fr_329.md) Yuninish, the
+girls’ puberty ceremony.—S. Cf. note [34](roli08.htm#fn_34.md).
 
-<span id="fn_324"></span>[178:313](roli31.htm#fr_330) Compare the native
+<span id="fn_324"></span>[178:313](roli31.htm#fr_330.md) Compare the native
 drawing in Journ. Am. Folk-Lore, XIX, 312, 1906.
 
-<span id="fn_325"></span>[179:314](roli31.htm#fr_331) Objective case of
+<span id="fn_325"></span>[179:314](roli31.htm#fr_331.md) Objective case of
 wicha, given by Mr. Sparkman as *Apocynum cannabinum*, while Dr.
-Barrows, in his Ethno-botany of the Cahuilla [Indians](errata.htm#2),
+Barrows, in his Ethno-botany of the Cahuilla [Indians](errata.htm#2.md),
 makes Cahuilla wish the name of *Phragmites communis*.
 
-<span id="fn_326"></span>[184:315](roli31.htm#fr_332) Hulval, *Artemisia
+<span id="fn_326"></span>[184:315](roli31.htm#fr_332.md) Hulval, *Artemisia
 californica*.—S.
 
-<span id="fn_327"></span>[184:316](roli31.htm#fr_333) *Croton
+<span id="fn_327"></span>[184:316](roli31.htm#fr_333.md) *Croton
 californicum*.—S.
 
-<span id="fn_328"></span>[185:317](roli31.htm#fr_334) Yula, hair; yukut,
+<span id="fn_328"></span>[185:317](roli31.htm#fr_334.md) Yula, hair; yukut,
 hairy; yutush, the scalp, when detached.—S.
 
-<span id="fn_329"></span>[185:318](roli31.htm#fr_335) *Elymus
+<span id="fn_329"></span>[185:318](roli31.htm#fr_335.md) *Elymus
 condensatus*.—S.
 
 ------------------------------------------------------------------------
 
-[Next: Plates](roli32)
+[Next: Plates](roli32.md)

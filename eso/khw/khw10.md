@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](khw09)  [Next](khw11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](khw09)  [Next](khw11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE508/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE508/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Knowledge of the Higher Worlds and Its Attainment*, by Rudolf Steiner,
 \[1947\], at Intangible Textual Heritage
 
@@ -295,4 +295,4 @@ this stage of development, but must climb still higher from this point.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Continuity of Consciousness](khw11)
+[Next: VII. The Continuity of Consciousness](khw11.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb16)  [Next](refb18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb16)  [Next](refb18.md) 
 
 </div>
 
@@ -254,6 +254,6 @@ wide.\[12\]
 
 ------------------------------------------------------------------------
 
-[Next: The Voice of Death](refb18)
+[Next: The Voice of Death](refb18.md)
 
 </div>

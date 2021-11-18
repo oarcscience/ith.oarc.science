@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe179)  [Next](prwe181) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe179)  [Next](prwe181.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ witches.
 
 ------------------------------------------------------------------------
 
-[Next: Madgy Figgy's Chair](prwe181)
+[Next: Madgy Figgy's Chair](prwe181.md)

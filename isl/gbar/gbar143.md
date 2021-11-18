@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar142) [Next](gbar144)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar142) [Next](gbar144.md)
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ only the sick.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar144)
+[Next](gbar144.md)

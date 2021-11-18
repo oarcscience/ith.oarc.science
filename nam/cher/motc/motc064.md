@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc063) 
-[Next](motc065) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc063.md) 
+[Next](motc065.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ have never been seen since.
 
 ------------------------------------------------------------------------
 
-[Next: 65. The Hunter And The Tlä'nuwä](motc065)
+[Next: 65. The Hunter And The Tlä'nuwä](motc065.md)

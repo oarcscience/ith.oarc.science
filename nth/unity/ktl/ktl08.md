@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](ktl07)  [Next](ktl09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](ktl07)  [Next](ktl09.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Keep a True Lent*, by Charles Fillmore, \[1953\], at Intangible Textual
 Heritage
 
@@ -220,4 +220,4 @@ inherit the land."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7](ktl09)
+[Next: Chapter 7](ktl09.md)

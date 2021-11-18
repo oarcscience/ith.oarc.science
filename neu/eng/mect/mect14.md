@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](mect13)  [Next](mect15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](mect13)  [Next](mect15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Canterbury Tales and Other Works of Chaucer (Middle English)*, by
 Geoffery Chaucer, \[14th cent.\], at Intangible Textual Heritage
 
@@ -491,4 +491,4 @@ hente!
 
 ------------------------------------------------------------------------
 
-[Next: The Summoner's Prologue](mect15)
+[Next: The Summoner's Prologue](mect15.md)

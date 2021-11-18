@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft05)  [Next](tft07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft05)  [Next](tft07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -84,4 +84,4 @@ found in the company of the rat or his kind of people again."
 ------------------------------------------------------------------------
 
 [Next: Four: The Story of the Donkey and the Rock (A Black Tent
-Story)](tft07)
+Story)](tft07.md)

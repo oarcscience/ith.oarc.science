@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](htss05)  [Next](htss07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](htss05)  [Next](htss07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Tamil Saivite Saints*, by F. Kingsbury and G.P. Phillips,
 \[1921\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_08400"></span> <span align="CENTER"> [![MĀṆIKKA
 VĀSAHAR](tn/08400.jpg)  
-Click to enlarge](img/08400.jpg)  
+Click to enlarge](img/08400.jpg.md)  
 MĀṆIKKA VĀSAHAR  
 </span>
 
@@ -323,7 +323,7 @@ specimens of a few songs intended for women. The refrain of the first,
 The Grinding song, strangely enough, is used at funerals, as also is the
 'Antiphony.' The song of 'The Three Castles’ Destruction' is supposed to
 accompany play with a ball or a kind of shuttle called 'undī.' For the
-legend of the Three Castles, see page [7](htss02.htm#page_7). 'The
+legend of the Three Castles, see page [7](htss02.htm#page_7.md). 'The
 Shoulder-Play' is for some ancient game in which women grasped each
 other's shoulders.
 
@@ -915,6 +915,6 @@ And find His grace, the dancing God,
 
 ------------------------------------------------------------------------
 
-[Next: Appendix I. Shrines Mentioned in These Poems](htss07)
+[Next: Appendix I. Shrines Mentioned in These Poems](htss07.md)
 
 </div>

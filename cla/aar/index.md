@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,15 +21,15 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](aar00)  
-[Prefatory Note](aar01)  
-[Contents](aar02)  
-[Chapter I. Art and Ritual](aar03)  
-[Chapter II. Primitive Ritual: Pantomimic Dances](aar04)  
-[Chapter III. Seasonal Rites: The Spring Festival](aar05)  
-[Chapter IV. The Spring Festival in Greece](aar06)  
-[Chapter V. Transition From Ritual To Art](aar07)  
-[Chapter VI. Greek Sculpture](aar08)  
-[Chapter VII. Ritual, Art and Life](aar09)  
-[Bibliography](aar10)  
-[Index](aar11)  
+[Title Page](aar00.md)  
+[Prefatory Note](aar01.md)  
+[Contents](aar02.md)  
+[Chapter I. Art and Ritual](aar03.md)  
+[Chapter II. Primitive Ritual: Pantomimic Dances](aar04.md)  
+[Chapter III. Seasonal Rites: The Spring Festival](aar05.md)  
+[Chapter IV. The Spring Festival in Greece](aar06.md)  
+[Chapter V. Transition From Ritual To Art](aar07.md)  
+[Chapter VI. Greek Sculpture](aar08.md)  
+[Chapter VII. Ritual, Art and Life](aar09.md)  
+[Bibliography](aar10.md)  
+[Index](aar11.md)  

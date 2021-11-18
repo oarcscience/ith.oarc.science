@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc01)  [Next](lcc03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc01)  [Next](lcc03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ June, 1905
 
 ------------------------------------------------------------------------
 
-[Next: Preface](lcc03)
+[Next: Preface](lcc03.md)

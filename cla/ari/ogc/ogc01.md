@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc00)  [Next](ogc02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc00)  [Next](ogc02.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ nature.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](ogc02)
+[Next: Chapter 2](ogc02.md)

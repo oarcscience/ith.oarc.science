@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw45)  [Next](omw47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw45)  [Next](omw47.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_14100"></span>
 
 [![The Voyage of Bran](tn/14100.jpg)  
-Click to enlarge](img/14100.jpg)  
+Click to enlarge](img/14100.jpg.md)  
 The Voyage of Bran  
 
 # CELTIC
@@ -185,4 +185,4 @@ Slievenamon, where was Midir the Proud's fairy palace.
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Conaire Mór, the King of Ireland, Part I](omw47)
+[Next: The Death of Conaire Mór, the King of Ireland, Part I](omw47.md)

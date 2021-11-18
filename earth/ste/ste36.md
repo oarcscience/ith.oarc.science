@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste35)  [Next](ste37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste35)  [Next](ste37.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Eastern Philosophers have left us no account that I can call to mind,
 about the time of this fatality. They say when the *Phœnix* returns we
 must expect the Conflagration to follow; but the age of the *Phœnix*
 they make as various and uncertain, as they do the computation of their
-*Great Year*: <span id="fr_13"></span>[1](#fn_13) which two things are
+*Great Year*: <span id="fr_13"></span>[1](#fn_13.md) which two things are
 indeed one and the same in effect. Some of them, I confess, mention Six
 Thousand years for the whole age of the World: which being the famous
 Prophecy of the *Jews*, we shall speak to it largely hereafter: and
@@ -381,9 +381,9 @@ to run.
 
 ### Footnotes
 
-<span id="fn_13"></span>[258:1](ste36.htm#fr_13) Symbolum ἀποκαταζάσεως
+<span id="fn_13"></span>[258:1](ste36.htm#fr_13.md) Symbolum ἀποκαταζάσεως
 πολυχρονὶου, *Phœnix. Hor. Apol.* *l*. 2. *c*. 57.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Concerning the Causes of the Conflagration](ste37)
+[Next: Chapter VI. Concerning the Causes of the Conflagration](ste37.md)

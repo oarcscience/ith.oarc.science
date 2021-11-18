@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dpr03)  [Next](dpr05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dpr03)  [Next](dpr05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1330,4 +1330,4 @@ there, however, there is an appearance of time and space; see the work
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](dpr05)
+[Next: 51-100](dpr05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl66)  [Next](hpl68) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl66)  [Next](hpl68.md) 
 
 ------------------------------------------------------------------------
 
@@ -396,4 +396,4 @@ scarcely sleep in my small room at the "Y" as the night wore away.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](hpl68)
+[Next: Chapter II](hpl68.md)

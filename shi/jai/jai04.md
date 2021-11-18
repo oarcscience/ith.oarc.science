@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai03)  [Next](jai05) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai03)  [Next](jai05.md) 
 
 ------------------------------------------------------------------------
 
@@ -317,4 +317,4 @@ have been the rulers of the nation and--the shapers of its destinies.
 
 ------------------------------------------------------------------------
 
-[Next: The Religion of the Home](jai05)
+[Next: The Religion of the Home](jai05.md)

@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb22)  [Next](boeb24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb22)  [Next](boeb24.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_151">p. 151</span>
 
 <span id="img_15100"></span> [![](tn/15100.jpg)  
-Click to enlarge](img/15100.jpg)
+Click to enlarge](img/15100.jpg.md)
 
 <span id="img_15101"></span> ![](img/15101.jpg)
 
@@ -69,4 +69,4 @@ That e'en was coarse, the blast blew hoarse,
 
 ------------------------------------------------------------------------
 
-[Next: The Battle of Otterburn](boeb24)
+[Next: The Battle of Otterburn](boeb24.md)

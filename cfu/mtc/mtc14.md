@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc13)  [Next](mtc15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc13)  [Next](mtc15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -49,6 +49,6 @@ Such moods as this, how many men know?
 
 ------------------------------------------------------------------------
 
-[Next: Sick Leave](mtc15)
+[Next: Sick Leave](mtc15.md)
 
 </div>

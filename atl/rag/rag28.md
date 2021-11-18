@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag27)  [Next](rag29) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag27)  [Next](rag29.md) 
 
 ------------------------------------------------------------------------
 
@@ -902,4 +902,4 @@ of them. But is not the attempt worth making?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Scene Of Man's Survival](rag29)
+[Next: Chapter II. The Scene Of Man's Survival](rag29.md)

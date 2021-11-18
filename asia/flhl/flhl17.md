@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl16)  [Next](flhl18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl16)  [Next](flhl18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -61,7 +61,7 @@ to him in a dream, and was going to strangle him. In his terror he asked
 why? and was informed "that King David wanted to avenge his subjects."
 Having begged long and piteously to be spared, his life was granted, on
 condition that he left Jerusalem and the Holy Land at sunrise next
-morning. <span id="fr_43"></span>[1](#fn_43)
+morning. <span id="fr_43"></span>[1](#fn_43.md)
 
 Another Moslem Governor of Jerusalem, being on a visit to En Nebi Daûd
 greatly, desired to see the tomb itself. He therefore went into the room
@@ -84,7 +84,7 @@ the Jews believe to be "alive and
 
 <span id="page_92">p. 92</span>
 
-active." <span id="fr_44"></span>[1](#fn_44) He begged for three days'
+active." <span id="fr_44"></span>[1](#fn_44.md) He begged for three days'
 grace in which to find a person willing to undertake so desperate an
 adventure. On the third day a Jew volunteered for the task, in hopes to
 save the community.
@@ -129,25 +129,25 @@ that a noble-looking old man, clad in apparel as of shining lead, had
 straightway appeared to her, saying: "Fear not, but follow me." He had
 led her by a path that wound through the heart of the earth to a door
 which opened on a dunghill in the Meydân. <span
-id="fr_45"></span>[1](#fn_45) There he ordered her to go home at once
+id="fr_45"></span>[1](#fn_45.md) There he ordered her to go home at once
 and get to work, and on no account to publish what had happened to her.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_43"></span>[91:1](flhl17.htm#fr_43) Rabbi Schwartz, "Das
+<span id="fn_43"></span>[91:1](flhl17.htm#fr_43.md) Rabbi Schwartz, "Das
 Heilige Land," footnote, pp. 402-403.
 
-<span id="fn_44"></span>[92:1](flhl17.htm#fr_44) In the special prayer
+<span id="fn_44"></span>[92:1](flhl17.htm#fr_44.md) In the special prayer
 for the monthly blessing of the moon, these words occur: "David Melekh
 Israel khai va kayam" (David, King of Israel, is alive and active).
 
-<span id="fn_45"></span>[93:1](flhl17.htm#fr_45) The Meydân is in the
+<span id="fn_45"></span>[93:1](flhl17.htm#fr_45.md) The Meydân is in the
 Jewish quarter, on the north-eastern brow of the traditional Mount Zion.
 The exact spot where the washerwoman came out was, till the early part
 of 1905, marked by a large octagonal stone, which has now disappeared.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Bâb el Asbât](flhl18)
+[Next: IV. Bâb el Asbât](flhl18.md)

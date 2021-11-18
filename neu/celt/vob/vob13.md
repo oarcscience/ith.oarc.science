@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vob12)  [Next](vob14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vob12)  [Next](vob14.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,11 +29,11 @@ ag techt do d’ ḟech*ain* nime
 acht a cenn--mor in soc\[h\]ar--  
 fa cochall Coluim Cille.' \[15\]
 
-Muru (of Fothain <span id="fr_165"></span>[1](#fn_165)) cecinit
+Muru (of Fothain <span id="fr_165"></span>[1](#fn_165).md) cecinit
 
 The meeting of Mongan and beloved Colum  
 The son of Fedlimid, the noble saint,  
-At Carraic Eolairg <span id="fr_166"></span>[2](#fn_166) with fame  
+At Carraic Eolairg <span id="fr_166"></span>[2](#fn_166.md) with fame  
 Wise men sing in books. \[20\]
 
 On a Thursday without woe  
@@ -50,11 +50,11 @@ Under Cohan Cille's cowl.'
 
 ### Footnotes
 
-<span id="fn_165"></span>[87:1](vob13.htm#fr_165) Now Fahan, co.
+<span id="fn_165"></span>[87:1](vob13.htm#fr_165.md) Now Fahan, co.
 Donegal. Muru died about 650.
 
-<span id="fn_166"></span>[87:2](vob13.htm#fr_166) On Lough Foyle.
+<span id="fn_166"></span>[87:2](vob13.htm#fr_166.md) On Lough Foyle.
 
 ------------------------------------------------------------------------
 
-[Next: XI. From MS. Laud 615, p. 18.](vob14)
+[Next: XI. From MS. Laud 615, p. 18.](vob14.md)

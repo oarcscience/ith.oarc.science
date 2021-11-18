@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe304)  [Next](prwe306) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe304)  [Next](prwe306.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ warning to the wicked; and the tower has remained to this day silent.
 
 ------------------------------------------------------------------------
 
-[Next: The Tower of Minster Church](prwe306)
+[Next: The Tower of Minster Church](prwe306.md)

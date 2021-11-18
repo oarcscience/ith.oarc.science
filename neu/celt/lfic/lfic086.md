@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic085)  [Next](lfic087) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic085)  [Next](lfic087.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ Euxine with the Baltic.
 
 ------------------------------------------------------------------------
 
-[Next: The Bath of the White Cows](lfic087)
+[Next: The Bath of the White Cows](lfic087.md)

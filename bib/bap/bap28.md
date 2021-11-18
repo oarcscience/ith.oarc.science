@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap27) 
-[Next](bap29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap27.md) 
+[Next](bap29.md) 
 
 ------------------------------------------------------------------------
 
 ### CHAPTER XII.
 
-XII\.  <span id="fr_60"></span>[1](#fn_60) And Moses came down: and
+XII\.  <span id="fr_60"></span>[1](#fn_60.md) And Moses came down: and
 whereas he was covered with invisible light--for he had gone down into
 the place where is the light of the sun and moon,--the light of his face
 overcame the brightness of the sun and moon, and he knew it
@@ -63,7 +63,7 @@ And the men sought every one his wife, and they gave them straightway,
 and they put them in the fire and they were made into a figure, and
 there came out a molten calf.
 
-4. <span id="fr_61"></span>[1](#fn_61) And the Lord said to Moses: Make
+4. <span id="fr_61"></span>[1](#fn_61.md) And the Lord said to Moses: Make
 haste
 
 |          |
@@ -91,7 +91,7 @@ spittle. 5. And Moses hasted and came down and
 <span id="page_112">p. 112</span>
 
 saw the calf, and he looked upon the tables and saw that they were not
-written: <span id="fr_62"></span>[1](#fn_62) and he hasted and brake
+written: <span id="fr_62"></span>[1](#fn_62.md) and he hasted and brake
 them; and his hands were opened and he became like a woman travailing of
 her firstborn, which when she is taken in her pangs her hands are upon
 her bosom, and she shall have no strength to help her to bring forth. 6.
@@ -104,7 +104,7 @@ sinned, *yet* shall not these things be in vain that were
 |-----------|
 | Ex. 32:20 |
 
-declared unto me above. 7. <span id="fr_63"></span>[2](#fn_63) And he
+declared unto me above. 7. <span id="fr_63"></span>[2](#fn_63.md) And he
 arose and brake the calf and cast it into the water, and made the people
 drink. And it was so, if any man's will in his mind were that the calf
 should be made, his tongue was cut off, but if any had been constrained
@@ -122,10 +122,10 @@ to nourish it, neither thy throne to refresh that
 <span id="page_113">p. 113</span>
 
 thy vineyard which thou hast burned. 9. For thou art he that art all
-light, and hast adorned thy house <span id="fr_64"></span>[1](#fn_64)
+light, and hast adorned thy house <span id="fr_64"></span>[1](#fn_64.md)
 with precious stones and gold and perfumes and spices (*or* and jasper),
 and wood of balsam and cinnamon, and with roots of myrrh and
-costum <span id="fr_65"></span>[2](#fn_65) hast thou strewed thine
+costum <span id="fr_65"></span>[2](#fn_65.md) hast thou strewed thine
 house, and with divers meats and sweetness of many drinks hast thou
 satisfied it. If therefore thou have not pity upon thy vineyard, all
 these things are done in vain, Lord, and thou wilt have none to glorify
@@ -144,34 +144,34 @@ upon them again my judgements which were on the first.
 
 ### Footnotes
 
-<span id="fn_60"></span>[110:1](bap28.htm#fr_60) XII. 1. descended into
+<span id="fn_60"></span>[110:1](bap28.htm#fr_60.md) XII. 1. descended into
 the place where is the light of the suit and moon. Compare with this the
 Revelation vouchsafed to Moses which is related in Jerahmeel, c. 52, as
 reported by R. Joshua ben Levi.
 
-<span id="fn_61"></span>[111:1](bap28.htm#fr_61) 4. *even though they
+<span id="fn_61"></span>[111:1](bap28.htm#fr_61.md) 4. *even though they
 bear my judgements: etiam portans iudicium*; i.e. even though they carry
 with them the law I have given.
 
-<span id="fn_62"></span>[112:1](bap28.htm#fr_62) 5. *the writing
+<span id="fn_62"></span>[112:1](bap28.htm#fr_62.md) 5. *the writing
 vanishes from the tables*. Cf. XIX. 7. The *Pirke R. Eliezer*, c. 45
 (tr. Friedlander), says, "the writing fled from off the tables," and
 Cohn quotes the same story from other Midrashim.
 
-<span id="fn_63"></span>[112:2](bap28.htm#fr_63) 7. The common story is
+<span id="fn_63"></span>[112:2](bap28.htm#fr_63.md) 7. The common story is
 that the beards of those who had sinned appeared gilt (*Historia
 Scholastica*). This detail was occasionally embodied in mediæval
 pictures of the scene.
 
-<span id="fn_64"></span>[113:1](bap28.htm#fr_64) 9. <span
+<span id="fn_64"></span>[113:1](bap28.htm#fr_64.md) 9. <span
 id="page_112">p. 112</span> The house, which is described in terms
-somewhat resembling *Enoch* (see Introd., [p. 44](bap11.htm#page_44)),
+somewhat resembling *Enoch* (see Introd., [p. 44](bap11.htm#page_44).md),
 is Paradise.
 
-<span id="fn_65"></span>[113:2](bap28.htm#fr_65) 9. *costum*, for which
+<span id="fn_65"></span>[113:2](bap28.htm#fr_65.md) 9. *costum*, for which
 there is no English equivalent, occurs in *Jub*. 16:24, and fairly often
 in Latin literature.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](bap29)
+[Next: Chapter XIII](bap29.md)

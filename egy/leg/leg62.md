@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg61)  [Next](leg63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg61)  [Next](leg63.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ overcome. At this time the priests celebrate doleful rites, and they
 exhibit as a suitable representation of the grief of Isis a gilded ox
 covered with a fine black linen cloth. Now, the ox is regarded as the
 living image of Osiris. This ceremony is performed on the seventeenth
-and three following days, <span id="fr_342"></span>[1](#fn_340) and they
+and three following days, <span id="fr_342"></span>[1](#fn_340.md) and they
 mourn: 1. The falling of the Nile; 2. The cessation of the north winds;
 3. The decrease in the length of the days; 4. The desolate condition of
 the land. On the nineteenth of the month Pachons they march in
@@ -44,18 +44,18 @@ essence and power of water and earth.
 
 ### Footnotes
 
-<span id="fn_337"></span>[243:1](leg60.htm#fr_339) Plutarch seems to be
+<span id="fn_337"></span>[243:1](leg60.htm#fr_339.md) Plutarch seems to be
 confounding Osiris with Menu, the god of generation, who is generally
 represented in an ithyphallic form. The festival of the phallus survived
 in Egypt until quite recently.
 
-<span id="fn_338"></span>[243:2](leg61.htm#fr_340) The Egyptian ANPU.
+<span id="fn_338"></span>[243:2](leg61.htm#fr_340.md) The Egyptian ANPU.
 The texts make one form of him to be the son of Set and Nephthys.
 
-<span id="fn_339"></span>[243:3](leg61.htm#fr_341) Plutarch's
+<span id="fn_339"></span>[243:3](leg61.htm#fr_341.md) Plutarch's
 explanations in this chapter are unsupported by the texts.
 
-<span id="fn_340"></span>[244:1](leg62.htm#fr_342) The 17th day is very
+<span id="fn_340"></span>[244:1](leg62.htm#fr_342.md) The 17th day is very
 unlucky; the 18th is very lucky; the 19th and 20th are very unlucky. On
 the 17th day Isis and Nephthys made great lamentation for their brother
 Un-nefer at Saïs; on the 19th no man should leave the house; and the man
@@ -63,4 +63,4 @@ born on the 20th would die of the plague.
 
 ------------------------------------------------------------------------
 
-[Next: Section XL](leg63)
+[Next: Section XL](leg63.md)

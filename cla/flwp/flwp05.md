@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp04)  [Next](flwp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp04)  [Next](flwp06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ knowledge of providence should be above the knowledge of intellect. And
 thus it is also necessary that providence should know all things, by
 *the one* of itself, according to which one, it likewise benefits every
 thing intellective and non-intellective, vital and non-vital, beings and
-non-beings; <span id="fr_20"></span>[\*](#fn_20) impressing in all
+non-beings; <span id="fr_20"></span>[\*](#fn_20.md) impressing in all
 things a unity, as an
 
 <span id="page_32">p. 32</span>
@@ -48,21 +48,21 @@ knowledge of providence, is a knowledge of all divisible natures, in the
 same impartible one, and likewise of things the most indivisible, and of
 such as are most total. And as it gave subsistence to every thing by its
 own one, so by the same one, every thing is known by it. <span
-id="fr_21"></span>[\*](#fn_21)
+id="fr_21"></span>[\*](#fn_21.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_20"></span>[31:\*](flwp05.htm#fr_20) In the original,
+<span id="fn_20"></span>[31:\*](flwp05.htm#fr_20.md) In the original,
 immediately after καθο και αγαθυνει παντα τα νοουντα, it appears to me
 that the words και τα μη νοουντα, και ζωντα, are wanting. This defect I
 have supplied in the above translation.
 
-<span id="fn_21"></span>[32:\*](flwp05.htm#fr_21) This extract is to be
+<span id="fn_21"></span>[32:\*](flwp05.htm#fr_21.md) This extract is to be
 found in the Treatise of Philoponus against Proclus on the Eternity of
 the World.
 
 ------------------------------------------------------------------------
 
-[Next: From the Fifth Book of Proclus on the Timæus of Plato](flwp06)
+[Next: From the Fifth Book of Proclus on the Timæus of Plato](flwp06.md)

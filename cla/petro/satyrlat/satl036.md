@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat07.htm#XXXVI) 
-[Previous](satl035)  [Next](satl037) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat07.htm#XXXVI.md) 
+[Previous](satl035)  [Next](satl037.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ Ita quotiescumque dicit 'Carpe', eodem verbo et vocat et imperat".
 
 ------------------------------------------------------------------------
 
-[Next: XXXVII](satl037)
+[Next: XXXVII](satl037.md)

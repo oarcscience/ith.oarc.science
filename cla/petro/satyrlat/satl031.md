@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat06.htm#XXXI) 
-[Previous](satl030)  [Next](satl032) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat06.htm#XXXI.md) 
+[Previous](satl030)  [Next](satl032.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ Punici mali.
 
 ------------------------------------------------------------------------
 
-[Next: XXXII](satl032)
+[Next: XXXII](satl032.md)

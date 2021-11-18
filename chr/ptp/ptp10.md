@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp09)  [Next](ptp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp09)  [Next](ptp11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -443,4 +443,4 @@ to the floor of a cell at Fulda.
 
 ------------------------------------------------------------------------
 
-[Next: Eleventh Century](ptp11)
+[Next: Eleventh Century](ptp11.md)

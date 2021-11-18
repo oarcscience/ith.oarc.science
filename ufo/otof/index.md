@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,43 +57,43 @@ This book fell into the public domain in the US, because it was not
 renewed at the US copyright office in a timely fashion as required by
 law at the time. It is not currently in the public domain in any other
 country. For an independent report on the copyright registration and
-renewal status of this book, see [this PDF file](otofcr.pdf).
+renewal status of this book, see [this PDF file](otofcr.pdf.md).
 
 ------------------------------------------------------------------------
 
-[Title Page](otof00)  
-[Contents](otof01)  
-[Plates](otof02)  
-[Illustrations](otof03)  
-[Prologue](otof04)  
+[Title Page](otof00.md)  
+[Contents](otof01.md)  
+[Plates](otof02.md)  
+[Illustrations](otof03.md)  
+[Prologue](otof04.md)  
 <span id="section_000"></span>
 
 ### Book I. God Provided--Man Divided
 
-[Chapter 1. The Great Influx](otof05)  
-[Chapter 2. The Grand Man](otof06)  
-[Chapter 3. Magnetism: The Universal 'I Am'](otof07)  
+[Chapter 1. The Great Influx](otof05.md)  
+[Chapter 2. The Grand Man](otof06.md)  
+[Chapter 3. Magnetism: The Universal 'I Am'](otof07.md)  
 <span id="section_001"></span>
 
 ### Book II: Other Tongues
 
-[Chapter 1. The Solex-Mal](otof08)  
-[Chapter 2. Tracks on the Desert](otof09)  
-[Chapter 3: Maldek and Malona](otof10)  
+[Chapter 1. The Solex-Mal](otof08.md)  
+[Chapter 2. Tracks on the Desert](otof09.md)  
+[Chapter 3: Maldek and Malona](otof10.md)  
 <span id="section_002"></span>
 
 ### Book III. Other Flesh
 
-[Chapter 1. The Migrants](otof11)  
-[Chapter 2. The Wanderers](otof12)  
-[Chapter 3. The Prophets](otof13)  
-[Chapter 4. The Harvesters](otof14)  
-[Chapter 5. The Agents](otof15)  
-[Chapter 6. The Intruders](otof16)  
-[Chapter 7. The Guessers](otof17)  
-[Chapter 8. The Remnant](otof18)  
+[Chapter 1. The Migrants](otof11.md)  
+[Chapter 2. The Wanderers](otof12.md)  
+[Chapter 3. The Prophets](otof13.md)  
+[Chapter 4. The Harvesters](otof14.md)  
+[Chapter 5. The Agents](otof15.md)  
+[Chapter 6. The Intruders](otof16.md)  
+[Chapter 7. The Guessers](otof17.md)  
+[Chapter 8. The Remnant](otof18.md)  
 
  
 
-[Epilogue](otof19)  
-[Bibliography](otof20)  
+[Epilogue](otof19.md)  
+[Bibliography](otof20.md)  

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa30)  [Next](taa32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa30)  [Next](taa32.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -149,6 +149,6 @@ has no like, is presented to us by the world of breaths (\#\#\#).
 
 ------------------------------------------------------------------------
 
-[Next: XXIX](taa32)
+[Next: XXIX](taa32.md)
 
 </div>

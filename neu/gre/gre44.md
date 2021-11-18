@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre43)  [Next](gre45) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre43)  [Next](gre45.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ travels till he came east to Jadar.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XL: Of Grettir and Snækoll](gre45)
+[Next: Chapter XL: Of Grettir and Snækoll](gre45.md)

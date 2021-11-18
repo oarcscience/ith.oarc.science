@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Next](nop01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Next](nop01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Numbers, Their Occult Power and Mystic Virtues*, by W. Wynn Westcott,
 \[1911\], at Intangible Textual Heritage
 
@@ -40,6 +40,6 @@ because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](nop01)
+[Next: Contents](nop01.md)
 
 </div>

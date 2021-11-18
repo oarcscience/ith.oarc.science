@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](eci07)  [Next](eci09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](eci07)  [Next](eci09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ethnography of the Cahuilla Indians*, by A. L. Kroeber, \[1908\], at
 Intangible Textual Heritage
 
@@ -67,7 +67,7 @@ a certain way around the circumference of the hand. This practice is
 found among the Luiseño, the Yokuts, probably the Gabrielino, Serrano,
 and Chumash, and perhaps among other tribes.
 
-The accompanying [plate 13](eci12.htm#img_pl13) shows a number of shell
+The accompanying [plate 13](eci12.htm#img_pl13.md) shows a number of shell
 disk beads from various parts of California. In the upper left-hand
 corner are the Luiseño beads mentioned. It will be seen that the outline
 is much less regular than in any of the other specimens. To the right
@@ -92,4 +92,4 @@ southern form of bead.
 
 ------------------------------------------------------------------------
 
-[Next: Houses](eci09)
+[Next: Houses](eci09.md)

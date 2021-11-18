@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml04)  [Next](iml06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml04)  [Next](iml06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ shifted to some uncertain area beyond the Himalayan mountains.
 Max Müller, the distinguished Sanskrit authority, who in the words of an
 Indian scholar "devoted his life-time to the elucidation of the
 learning, literature, and religion of ancient India", <span
-id="fr_0"></span>[1](#fn_0) abandoned Bopp's patriotic term
+id="fr_0"></span>[1](#fn_0.md) abandoned Bopp's patriotic term
 "Indo-Germanic" and adopted Aryan, which he founded on the Sanskrit
 racial designation "Arya". At first he accepted the theory of an Aryan
 race and especially of an Aryan civilization which originated on the
@@ -148,7 +148,7 @@ Asian plains, which seemed quite reasonable. Trouble was occasionally
 caused by wolves and bears, or, mayhap, a stray lion, but these and
 other worries associated with the simple life might be compensated for
 by the fact that the primitive people, as one writer <span
-id="fr_1"></span>[1](#fn_1) put it, "understood the art of drinking".
+id="fr_1"></span>[1](#fn_1.md) put it, "understood the art of drinking".
 Mead, brewed from honey, was found to be "dear to the hearts of the
 ancient Aryans"; had the Brahman ever forgotten his "madhu", the
 Welsh-man his "medhu", or the Lithuanian his "medus"? Problems arose
@@ -171,7 +171,7 @@ that no racial
 
 centre could be located. Ultimately "Delbrück went so far," says
 Professor Ripley, "as to deny that any single parent language ever
-existed in fact". <span id="fr_2"></span>[1](#fn_2)
+existed in fact". <span id="fr_2"></span>[1](#fn_2.md)
 
 Meanwhile ethnologists and archæologists were engaged accumulating
 important data. It was found that Europe had been invaded at the close
@@ -212,7 +212,7 @@ all", has been proved to be no safe guide in racial matters. We must
 avoid, as Professor Ripley says, "the error of confusing community of
 language with identity of race. Nationality may often follow linguistic
 boundaries, but race bears no necessary relation whatever to
-them." <span id="fr_3"></span>[1](#fn_3)
+them." <span id="fr_3"></span>[1](#fn_3.md)
 
 By way of illustration, it may be pointed out in this connection that
 English is spoken at the present day by, among others, the Hong Kong
@@ -247,7 +247,7 @@ Hindus represent an earlier stage of Aryan speech and thought than the
 fairest Scandinavians. . . . To me an ethnologist who speaks of an Aryan
 race, Aryan blood, Aryan eyes and hair, is as great a sinner as a
 linguist who speaks of a dolichocephalic dictionary or a brachycephalic
-grammar." <span id="fr_4"></span>[1](#fn_4)
+grammar." <span id="fr_4"></span>[1](#fn_4.md)
 
 Aryan, however, has been found to be a convenient term, and even
 ethnologists do not scorn its use, although it has been applied "in a
@@ -258,7 +258,7 @@ rivals in "Afro-European", among those who connect the Aryan languages
 with North Africa, and "Afro-Eurasian", which may be regarded as
 universal in its racial application, especially if we accept Darwin's
 theory that the Garden of Eden was located somewhere in Africa. <span
-id="fr_5"></span>[2](#fn_5) We may think of the Aryans as we do of the
+id="fr_5"></span>[2](#fn_5.md) We may think of the Aryans as we do of the
 British when that term is used to include the peoples embraced by the
 British Empire.
 
@@ -276,9 +276,9 @@ however, was not always used in the sense that we have been accustomed
 to apply "Aryo-Indian". In one of the sacred books of the ancient people
 it is stated: "The colour of the Brahmans was white; that of the
 Kshatriyas red; that of the Vaisyas yellow; and that of the Sudras
-black". <span id="fr_6"></span>[1](#fn_6) This colour reference connects
+black". <span id="fr_6"></span>[1](#fn_6.md) This colour reference connects
 "caste" with the doctrine of yugas, or ages of the universe ([Chapter
-VI](iml11.htm#ch06)).
+VI](iml11.htm#ch06).md).
 
 Risley, dealing with "the leading castes and tribes in Northern India,
 from the Bay of Bengal to the frontiers of Afghanistan", concludes from
@@ -298,7 +298,7 @@ obliquely set in the head. . . .
 
 <span class="contnote">\[paragraph continues\]</span> This type . . .
 may be conveniently described as Mongoloid. . . ." <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
 According to Risley, the Aryan type is dolichocephalic (long-headed),
 "with straight, finely-cut (lepto-rhine) nose, a long, symmetrical
@@ -318,7 +318,7 @@ lower than that of the Aryan type: "the figure is squat and the limbs
 sturdy. The colour of the skin varies from very dark brown to a shade
 closely approaching black. . . . Between these extreme types", adds
 Risley, "we find a large number of intermediate groups." <span
-id="fr_8"></span>[2](#fn_8)
+id="fr_8"></span>[2](#fn_8.md)
 
 Of late years ethnologists have inclined to regard the lower types
 represented by hill and jungle tribes, the Veddas of Ceylon, &c., as
@@ -336,7 +336,7 @@ an infusion of Mongolian
 another brachycephalic element is pronounced in western India, but it is
 not Mongolian; possibly we have here evidences of a settlement of Alpine
 stock. According to Risley, these western broad heads are the
-descendants of invading Scythians, <span id="fr_9"></span>[1](#fn_9) but
+descendants of invading Scythians, <span id="fr_9"></span>[1](#fn_9.md) but
 this theory is not generally accepted.
 
 The Eur-Asian Alpine race of broad heads are a mountain people
@@ -356,7 +356,7 @@ Mediterranean race of the south.
 
 A slighter and long-headed brunet type is found south of Hindu Kush.
 Ripley has condensed a mass of evidence to show that it is akin to the
-Mediterranean race. <span id="fr_10"></span>[2](#fn_10) He refers to it
+Mediterranean race. <span id="fr_10"></span>[2](#fn_10.md) He refers to it
 as the "eastern branch", which includes Afghans and Hindus. "We are all
 familiar with the type," he says, "especially as it is emphasized by
 inbreeding and selection among the Brahmans. . . . There can be no doubt
@@ -367,7 +367,7 @@ Berbers, Greeks, Italians, and
 
 Spaniards. They are all members of the same race, at once the widest in
 its geographical extension, the most populous and the most primitive of
-our three European types." <span id="fr_11"></span>[1](#fn_11)
+our three European types." <span id="fr_11"></span>[1](#fn_11.md)
 
 Professor Elliot Smith supports Professor Ripley in this connection, and
 includes the Arabs with the southern Persians in the same group, but
@@ -400,7 +400,7 @@ The ancestors of this fair race are believed to have
 <span id="page_xxix">p. xxix</span>
 
 been originally distributed along the northern Eur-Asian plateaus;
-Keane's blonde long-headed Chudes <span id="fr_12"></span>[1](#fn_12)
+Keane's blonde long-headed Chudes <span id="fr_12"></span>[1](#fn_12.md)
 and the Wu-suns in Chinese Turkestan are classed as varieties of the
 ancient Northern stock. An interesting problem is presented in this
 connection by the fair types among the ancient Egyptians, the modern-day
@@ -422,7 +422,7 @@ great civilizations.
 It now remains for us to deal with the Aryan problem in India. Dr.
 Haddon considers that the invading Aryans were "perhaps associated with
 Turki tribes" when they settled in the Punjab. <span
-id="fr_13"></span>[2](#fn_13) Prior to this racial movement, the
+id="fr_13"></span>[2](#fn_13.md) Prior to this racial movement, the
 Kassites, whose origin is obscure, assisted by bands of Aryans,
 overthrew the Hammurabi dynasty in Babylon and established the Kassite
 dynasty between 2000 B.C. and 1700 B.C. At this period the domesticated
@@ -449,7 +449,7 @@ India they had chariots and swift steeds.
 
 There is no general agreement as to the date of settlement in the
 Punjab. Some authorities favour 2000 B.C., others 1700 B.C.; Professor
-Macdonell still adheres to 1200 B.C. <span id="fr_14"></span>[1](#fn_14)
+Macdonell still adheres to 1200 B.C. <span id="fr_14"></span>[1](#fn_14.md)
 It is possible that the infusion was at first a gradual one, and that it
 was propelled by successive folk-waves. The period from the earliest
 migrations until about 800 or 700 B.C. is usually referred to as the
@@ -482,13 +482,13 @@ The principal Aryan deities were Indra, god of thunder, and Agni, god of
 fire, to whom the greater number of hymns were addressed. From the
 earliest times, however, Aryan religion was of complex character. We can
 trace at least two sources of cultural influence from the earlier
-Iranian period. <span id="fr_15"></span>[1](#fn_15) The hymns bear
+Iranian period. <span id="fr_15"></span>[1](#fn_15.md) The hymns bear
 evidence of the declining splendour of the sublime deities Varuna and
 Mitra (Mithra). It is possible that the conflicts to which references
 are made in some of the hymns were not unconnected with racial or tribal
 religious rivalries.
 
-Indra, as we show ([Chapter I](iml06.htm#ch01)), bears resemblances to
+Indra, as we show ([Chapter I](iml06.htm#ch01).md), bears resemblances to
 other "hammer gods". He is the Indian Thor, the angry giant-killer, the
 god of war and conquests. That his name even did not originate in India
 is made evident by an inscription at Boghaz Koi, in Asia Minor,
@@ -521,7 +521,7 @@ considers that these burials referred to the disposal of the bones and
 ashes of the dead.
 
 Professor Macdonell and Dr. Keith, however, do not share Professor
-Oldenberg's view in this connection. <span id="fr_16"></span>[1](#fn_16)
+Oldenberg's view in this connection. <span id="fr_16"></span>[1](#fn_16.md)
 They hold that the epithet *Agni-dagdhah*, "burnt with fire", "applies
 to the dead who were burned on the funeral pyre"; the other custom being
 burial--*An-agni-dagdhah*, "not burnt with fire". They also refer to
@@ -544,7 +544,7 @@ The Persian fire-worshippers, on the other hand, did not cremate their
 dead, but exposed them on "towers of silence" to be devoured by
 vultures, like their modern-day representatives the Parsees, who
 migrated into India after displacement by the Mohammedans. In Persia the
-sacred fire was called Atar, <span id="fr_17"></span>[1](#fn_17) and was
+sacred fire was called Atar, <span id="fr_17"></span>[1](#fn_17.md) and was
 identified with the supreme deity Ahura-Mazda (Ormuzd).
 
 Agni of the Vedic Age is the messenger between gods and men; he conducts
@@ -554,7 +554,7 @@ Paradise; he is also the twin brother of Indra.
 Now, it is of interest to note, in considering the racial significance
 of burial rites, that cremation was not practised by the western
 representatives of the Brown race. In pre-Dynastic Egypt the dead were
-interred as in Babylon, <span id="fr_18"></span>[2](#fn_18) with food
+interred as in Babylon, <span id="fr_18"></span>[2](#fn_18.md) with food
 vessels, &c. Neolithic man in Europe also favoured crouched burials, and
 this practice obtained all through the Bronze Age.
 
@@ -564,9 +564,9 @@ still perpetuate ancient customs, which
 <span id="page_xxxiv">p. xxxiv</span>
 
 resemble those of the Vedic Aryans, for they not only practise cremation
-but also sacrifice the horse (see [Chap. V](iml10.htm#ch05)). In his
+but also sacrifice the horse (see [Chap. V](iml10.htm#ch05).md). In his
 important study of this remarkable people, Mr. Curtin says: <span
-id="fr_19"></span>[1](#fn_19) "The Buriats usually burn their dead;
+id="fr_19"></span>[1](#fn_19.md) "The Buriats usually burn their dead;
 occasionally, however, there is what is called a 'Russian burial', that
 is, the body is placed in a coffin and the coffin is put in the ground.
 But generally if a man dies in the Autumn or the Winter his body is
@@ -596,7 +596,7 @@ Cremation spread throughout Europe, as we have said,
 
 in the Bronze Age. It was not practised by the early folk-waves of the
 Alpine race which, according to Mosso, <span
-id="fr_20"></span>[1](#fn_20) began to arrive after copper came into
+id="fr_20"></span>[1](#fn_20.md) began to arrive after copper came into
 use. The two European Bronze Age burial customs, associated with urns of
 the "food vessel" and "drinking cup" types, have no connection with the
 practice of burning the dead. The Archæological Ages have not
@@ -609,7 +609,7 @@ cremated dead were "broad heads" or "long heads".
 "Dr. Sophus Müller of Copenhagen is of opinion that cremation was not
 practised long before the year 1000 B.C. though it appeared earlier in
 the south of Europe than in the north. On both points Professor Ridgeway
-of Cambridge agrees with him." <span id="fr_21"></span>[2](#fn_21)
+of Cambridge agrees with him." <span id="fr_21"></span>[2](#fn_21.md)
 
 The migration of the cremating people through Europe was westward and
 southward and northward; they even swept through the British Isles as
@@ -628,12 +628,12 @@ nation. The Normans
 <span id="page_xxxvi">p. xxxvi</span>
 
 who invaded these islands were Scandinavians <span
-id="fr_22"></span>[1](#fn_22); they settled in France, intermarried with
+id="fr_22"></span>[1](#fn_22.md); they settled in France, intermarried with
 the French, and found allies among the Breton chiefs. It is possible
 that the cremating people similarly formed military aristocracies when
 they settled in Hindustan, Mitanni, and in certain other European areas.
 "Nothing is commoner in the history of migratory peoples," says
-Professor Myres, <span id="fr_23"></span>[2](#fn_23)" than to find a
+Professor Myres, <span id="fr_23"></span>[2](#fn_23.md)" than to find a
 very small leaven of energetic intruders ruling and organizing large
 native populations, without either learning their subjects' language or
 imposing their own till considerably later, if at all." The
@@ -643,18 +643,18 @@ graves were discovered, just over half of which contained unburnt
 burials. Both methods of interment were contemporary in this district,
 "but it was noticed that the cremated burials were those of the
 wealthier class, or of the dominant race." <span
-id="fr_24"></span>[3](#fn_24) We find also that at Hallstatt "the bodies
+id="fr_24"></span>[3](#fn_24.md) We find also that at Hallstatt "the bodies
 of the wealthier class were reduced to ashes". <span
-id="fr_25"></span>[4](#fn_25) In some districts the older people may
+id="fr_25"></span>[4](#fn_25.md) In some districts the older people may
 have maintained their supremacy. At Watsch and St. Margaret in Carniola
 "a similar blending of the two rites was observed . . . the unburnt
 burials being the richer and more numerous". <span
-id="fr_26"></span>[5](#fn_26) The descent of the Achaens into Greece
+id="fr_26"></span>[5](#fn_26.md) The descent of the Achaens into Greece
 occurred at a date earlier than the rise of the great Hallstatt
 civilization. According to Homeric evidence they burned their dead;
 "though the body of Patroklos was cremated," however, "the lords of
 Mycenae were interred unburnt in richly furnished graves". <span
-id="fr_27"></span>[6](#fn_27) In Britain the cremating people mingled
+id="fr_27"></span>[6](#fn_27.md) In Britain the cremating people mingled
 with their predecessors perhaps more intimately
 
  
@@ -662,7 +662,7 @@ with their predecessors perhaps more intimately
 <span id="img__03600"></span>
 
 [![THE CREMATION GHAT, BENARES](tn/_03600.jpg)  
-Click to enlarge](img/_03600.jpg)  
+Click to enlarge](img/_03600.jpg.md)  
 THE CREMATION GHAT, BENARES  
 
  
@@ -684,15 +684,15 @@ remote period from his own, formed a part of the funeral rites of the
 Gaulish chiefs; and also states that the relatives of a deceased
 chieftain accused his wives of being accessory to his death, and often
 tortured them to death on that account." <span
-id="fr_28"></span>[1](#fn_28) If this is the explanation, the cremating
+id="fr_28"></span>[1](#fn_28.md) If this is the explanation, the cremating
 invaders constituted the lower classes in Gaul and Britain, which is
 doubtful. The practice of burning erring wives, however, apparently
 prevailed among the Mediterranean peoples. In an Egyptian folk-tale a
 Pharaoh ordered a faithless wife of a scribe to be burned at the
-stake. <span id="fr_29"></span>[2](#fn_29) One of the Ossianic folk
+stake. <span id="fr_29"></span>[2](#fn_29.md) One of the Ossianic folk
 tales of Scotland relates that Grainne, wife of Finn-mac-Coul, who
 eloped with Diarmid, was similarly dealt with. <span
-id="fr_30"></span>[3](#fn_30) The bulk of the archæological evidence
+id="fr_30"></span>[3](#fn_30.md) The bulk of the archæological evidence
 seems to point to the invaders, who are usually referred to as "Aryans"
 having introduced the cremation ceremony into Europe. Whence came they?
 The problem is greatly complicated by the evidence from Palestine, where
@@ -702,9 +702,9 @@ which were constructed about
 <span id="page_xxxviii">p. xxxviii</span>
 
 <span class="contnote">\[paragraph continues\]</span> 3000 B.C. <span
-id="fr_31"></span>[1](#fn_31) As cremation did not begin in Crete,
+id="fr_31"></span>[1](#fn_31.md) As cremation did not begin in Crete,
 however, until the end of period referred to as "Late Minoan Third"
-(1450-1200 B.C.) <span id="fr_32"></span>[2](#fn_32) it may be that the
+(1450-1200 B.C.) <span id="fr_32"></span>[2](#fn_32.md) it may be that the
 Palestinian burials are much later than the construction of the caves.
 
 It seems reasonable to suppose that the cremation rite originated among
@@ -765,7 +765,7 @@ military aristocracy of the "Middle Country" were late comers
 <span id="page_xl">p. xl</span>
 
 who arrived by a new route and thrust themselves between the groups of
-early settlers. <span id="fr_33"></span>[1](#fn_33) The Bharatas
+early settlers. <span id="fr_33"></span>[1](#fn_33.md) The Bharatas
 worshipped a goddess Bharati who was associated with the Saraswati river
 on the banks of which the tribe had for a period been located. Saraswati
 became the wife of Brahma, the supreme god, and it would seem that she
@@ -799,7 +799,7 @@ another form of Durga, was as vengeful and bloodthirsty
 
 [![KALI&lt;br&gt; &lt;i&gt;From a bronze in the Calcutta Art
 Gallery&lt;/i&gt;](tn/_04000.jpg)  
-Click to enlarge](img/_04000.jpg)  
+Click to enlarge](img/_04000.jpg.md)  
 KALI  
 *From a bronze in the Calcutta Art Gallery*  
 
@@ -809,8 +809,8 @@ KALI
 
 as the Scottish Cailleach, or the Egyptian Hathor, who, as the earlier
 Sekhet, rejoiced in accomplishing the slaughter of the enemies of
-Ra. <span id="fr_34"></span>[1](#fn_34) Kali, as we shall see ([Chapter
-VIII](iml13.htm#ch08)) replaced the Vedic king of the gods as a
+Ra. <span id="fr_34"></span>[1](#fn_34.md) Kali, as we shall see ([Chapter
+VIII](iml13.htm#ch08).md) replaced the Vedic king of the gods as a
 successful demon slayer. As the Egyptian Ra went forth to restrain
 Hathor, so did Shiva hasten to the battlefield, flooded by gore, to
 prevail upon his spouse Kali to spare the remnant of her enemies.
@@ -822,7 +822,7 @@ of the Brown race in India. The Dravidian brunet long heads were, as we
 have said, probably represented in the pre-Aryan, as well as the
 post-Vedic folk-waves, which mingled with pre-Dravidian stocks. Mr.
 Crooke inclines to the view that the Aryan conquest was more moral and
-intellectual than racial. <span id="fr_35"></span>[2](#fn_35) The
+intellectual than racial. <span id="fr_35"></span>[2](#fn_35.md) The
 decline of the patriarchal religion of the Vedic military aristocracy
 may thus be accounted for; the religious practices of the earlier people
 might ultimately have attained prominence in fusion with imported ideas.
@@ -855,7 +855,7 @@ claim to be largely Celtic like Cornwall, the folk-lore shows marked
 affinities with that of Ireland, Wales, and Scotland, suggesting the
 survival of ancient Mediterranean racial influence, for much of what we
 call Celtic links with what belongs to ancient Greece and the Egyptian
-Delta. Mr. Gomme has shown <span id="fr_36"></span>[1](#fn_36) in an
+Delta. Mr. Gomme has shown <span id="fr_36"></span>[1](#fn_36.md) in an
 interesting summary of recorded folk-practices that the "ram feast" of
 Devon resembles closely in essential details similar ceremonies in
 ancient Greece and modern India. At the beginning of May the people of
@@ -886,7 +886,7 @@ souls) and the conception of the yugas or ages of the universe.
 In *Rigveda* the soul of the dead proceeds at once, or at any rate after
 burial, towards the next world. In one passage only is it spoken of "as
 departing to the waters or the plants", and this reference, Professor
-Macdonell suggests, <span id="fr_37"></span>[1](#fn_37) "may contain the
+Macdonell suggests, <span id="fr_37"></span>[1](#fn_37.md) "may contain the
 germs of the theory" of transmigration. In the speculative prose
 treatises, the *Upanishads*, which were composed in the Middle Country,
 the doctrine of metempsychosis is fully expounded. It does not follow,
@@ -910,8 +910,8 @@ that it is restricted to those areas where definite racial influences
 must have been at work. The Greeks believed in transmigration. So did
 also a section of the Egyptian people as Herodotus has stated and as is
 proved by references in folk-tales, temple chants and
-inscriptions. <span id="fr_38"></span>[1](#fn_38) As we show ([Chapter
-VI](iml11.htm#ch06)), the Irish conception closely resembled the Indian,
+inscriptions. <span id="fr_38"></span>[1](#fn_38.md) As we show ([Chapter
+VI](iml11.htm#ch06).md), the Irish conception closely resembled the Indian,
 and it also obtained among the Gauls. There is no trace, however, that
 the Teutonic peoples were acquainted with the fully developed doctrine
 of metempsychosis; the souls of the dead departed immediately to Valhal,
@@ -919,7 +919,7 @@ Hela, or the loathsome Nifelhel.
 
 The doctrine of the world's ages is common to the Indian, Greek, and
 Irish mythologies, but is not found in Teutonic mythology either. <span
-id="fr_39"></span>[2](#fn_39) There are indications that it may have at
+id="fr_39"></span>[2](#fn_39.md) There are indications that it may have at
 one time obtained in Egypt, for there was an Age of Ra, then a deluge,
 an Age of Osiris, an Age of Set, &c.; but the doctrine, like other
 conceptions in Egypt, probably suffered from the process of priestly
@@ -940,7 +940,7 @@ period bears a close resemblance to Teutonic, while that of the
 post-Vedic period connects more intimately with Greek, Celtic, and
 Egyptian. Assuming that the Vedic people were influenced by what we
 recognize as Teutonic modes of thought, do we find here proof that the
-Aryans came from Europe? In [Chapter II](iml07.htm#ch02) it is shown
+Aryans came from Europe? In [Chapter II](iml07.htm#ch02.md) it is shown
 that the Norse Heimdal displays points of resemblance to Agni. The
 former, however, has been developed almost beyond recognition as a fire
 god, and it is evident that we find him in northern Europe in his latest
@@ -1057,7 +1057,7 @@ of something else"--we are looking on India with European eyes and with
 European prejudices. "There is always", said Stevenson, "a ruling spirit
 behind the code of rules, an attitude, a relation, a point of the
 compass, in virtue of which we conform or dissent." <span
-id="fr_40"></span>[1](#fn_40)
+id="fr_40"></span>[1](#fn_40.md)
 
 We are confident that our readers who peruse with sympathy and, we hope,
 with enjoyment, the chapters which follow, will feel themselves drawn
@@ -1071,7 +1071,7 @@ perfect women and exemplary lovers and wives.
 <span id="img__04800"></span>
 
 [![A VYASA, OR PUBLIC READER, RECITING THE MAHABHARATA](tn/_04800.jpg)  
-Click to enlarge](img/_04800.jpg)  
+Click to enlarge](img/_04800.jpg.md)  
 A VYASA, OR PUBLIC READER, RECITING THE MAHABHARATA  
 
  
@@ -1080,134 +1080,134 @@ A VYASA, OR PUBLIC READER, RECITING THE MAHABHARATA
 
 ### Footnotes
 
-<span id="fn_0"></span>[xx:1](iml05.htm#fr_0) Romesh C. Dutt's
+<span id="fn_0"></span>[xx:1](iml05.htm#fr_0.md) Romesh C. Dutt's
 *Ramáyana* dedication.
 
-<span id="fn_1"></span>[xxi:1](iml05.htm#fr_1) Rydberg's *Teutonic
+<span id="fn_1"></span>[xxi:1](iml05.htm#fr_1.md) Rydberg's *Teutonic
 Mythology*.
 
-<span id="fn_2"></span>[xxii:1](iml05.htm#fr_2) *The Races of Europe*,
+<span id="fn_2"></span>[xxii:1](iml05.htm#fr_2.md) *The Races of Europe*,
 W. Z. Ripley, p. 481.
 
-<span id="fn_3"></span>[xxiii:1](iml05.htm#fr_3) *The Races of Europe*,
+<span id="fn_3"></span>[xxiii:1](iml05.htm#fr_3.md) *The Races of Europe*,
 W. Z. Ripley, p. 17.
 
-<span id="fn_4"></span>[xxiv:1](iml05.htm#fr_4) *Biographies of Words
+<span id="fn_4"></span>[xxiv:1](iml05.htm#fr_4.md) *Biographies of Words
 and the Home of the Aryas*, pp. 120 and 245.
 
-<span id="fn_5"></span>[xxiv:2](iml05.htm#fr_5) *The Descent of Man*,
+<span id="fn_5"></span>[xxiv:2](iml05.htm#fr_5.md) *The Descent of Man*,
 Charles Darwin, chap. vi, p. 155 (1889 ed.), and *The Ancient
 Egyptians*, G. Elliot Smith, pp. 63, 64 (1911).
 
-<span id="fn_6"></span>[xxv:1](iml05.htm#fr_6) Muir's *Original Sanskrit
+<span id="fn_6"></span>[xxv:1](iml05.htm#fr_6.md) Muir's *Original Sanskrit
 Texts*, vol. 1, p. 140.
 
-<span id="fn_7"></span>[xxvi:1](iml05.htm#fr_7) *The Tribes and Castes
+<span id="fn_7"></span>[xxvi:1](iml05.htm#fr_7.md) *The Tribes and Castes
 of Bengal*, H. H. Risley, vol. 1, xxxi.
 
-<span id="fn_8"></span>[xxvi:2](iml05.htm#fr_8) *ibid*. xxxii-xxxiii.
+<span id="fn_8"></span>[xxvi:2](iml05.htm#fr_8.md) *ibid*. xxxii-xxxiii.
 
-<span id="fn_9"></span>[xxvii:1](iml05.htm#fr_9) *The People of India*,
+<span id="fn_9"></span>[xxvii:1](iml05.htm#fr_9.md) *The People of India*,
 H. H. Risley, p. 59.
 
-<span id="fn_10"></span>[xxvii:2](iml05.htm#fr_10) *The Races of
+<span id="fn_10"></span>[xxvii:2](iml05.htm#fr_10.md) *The Races of
 Europe,* W. Z. Ripley, 450 *et seq*.
 
-<span id="fn_11"></span>[xxviii:1](iml05.htm#fr_11) *The Races of
+<span id="fn_11"></span>[xxviii:1](iml05.htm#fr_11.md) *The Races of
 Europe*, W. Z. Ripley, p. 451.
 
-<span id="fn_12"></span>[xxix:1](iml05.htm#fr_12) *Man, Past and
+<span id="fn_12"></span>[xxix:1](iml05.htm#fr_12.md) *Man, Past and
 Present*, A. H. Keane, p. 270.
 
-<span id="fn_13"></span>[xxix:2](iml05.htm#fr_13) *The Wanderings of
+<span id="fn_13"></span>[xxix:2](iml05.htm#fr_13.md) *The Wanderings of
 Peoples*, A. C. Haddon, p. 21.
 
-<span id="fn_14"></span>[xxx:1](iml05.htm#fr_14) *Vedic Index of Names
+<span id="fn_14"></span>[xxx:1](iml05.htm#fr_14.md) *Vedic Index of Names
 and Subjects* (1912), p. viii.
 
-<span id="fn_15"></span>[xxxi:1](iml05.htm#fr_15) A convenient term to
+<span id="fn_15"></span>[xxxi:1](iml05.htm#fr_15.md) A convenient term to
 refer to the unknown area occupied by the Vedic Aryans before they
 invaded India.
 
-<span id="fn_16"></span>[xxxii:1](iml05.htm#fr_16) *Vedic Index of Names
+<span id="fn_16"></span>[xxxii:1](iml05.htm#fr_16.md) *Vedic Index of Names
 and Subjects*, A. A. Macdonell and A. B. Keith, Vol. I, pp. 8, 9 (1912).
 
-<span id="fn_17"></span>[xxxiii:1](iml05.htm#fr_17) Compared with the
+<span id="fn_17"></span>[xxxiii:1](iml05.htm#fr_17.md) Compared with the
 Latin atrium, "the room that contained the hearthfire". Agni is cognate
-with the Latin *ignis*, cf. [Lithuanian](errata.htm#0), *ugnis szwenta*,
+with the Latin *ignis*, cf. [Lithuanian](errata.htm#0.md), *ugnis szwenta*,
 "holy fire"--*Early Religious Poetry of Persia*, Professor Moulton, pp.
 38, 39.
 
-<span id="fn_18"></span>[xxxiii:2](iml05.htm#fr_18) The theory that
+<span id="fn_18"></span>[xxxiii:2](iml05.htm#fr_18.md) The theory that
 certain Babylonian graves show traces of cremation has been
 abandoned.--*A History of Sumer and Akkad*, L. W. King, pp. 20, 21
 (1910).
 
-<span id="fn_19"></span>[xxxiv:1](iml05.htm#fr_19) *A Journey in
+<span id="fn_19"></span>[xxxiv:1](iml05.htm#fr_19.md) *A Journey in
 Southern Siberia*, Jeremiah Curtin, p. 101.
 
-<span id="fn_20"></span>[xxxv:1](iml05.htm#fr_20) *The Dawn of
+<span id="fn_20"></span>[xxxv:1](iml05.htm#fr_20.md) *The Dawn of
 Mediterranean Civilization*, A. Mosso, London Trans., 1910.
 
-<span id="fn_21"></span>[xxxv:2](iml05.htm#fr_21) British Museum *Guide
+<span id="fn_21"></span>[xxxv:2](iml05.htm#fr_21.md) British Museum *Guide
 to the Antiquities of the Bronze Age*, pp. 23, 24.
 
-<span id="fn_22"></span>[xxxvi:1](iml05.htm#fr_22) Associated, some
+<span id="fn_22"></span>[xxxvi:1](iml05.htm#fr_22.md) Associated, some
 authorities urge, with Germans from the mouth of the Elbe.
 
-<span id="fn_23"></span>[xxxvi:2](iml05.htm#fr_23) *The Dawn of
+<span id="fn_23"></span>[xxxvi:2](iml05.htm#fr_23.md) *The Dawn of
 History*, J. L. Myres, p. 199.
 
-<span id="fn_24"></span>[xxxvi:3](iml05.htm#fr_24) British Museum *Guide
+<span id="fn_24"></span>[xxxvi:3](iml05.htm#fr_24.md) British Museum *Guide
 to the Antiquities of the Bronze Age*, p. 98.
 
-<span id="fn_25"></span>[xxxvi:4](iml05.htm#fr_25) British *Museum Guide
+<span id="fn_25"></span>[xxxvi:4](iml05.htm#fr_25.md) British *Museum Guide
 to the Antiquities of the Early Iron Age*, p. 8.
 
-<span id="fn_26"></span>[xxxvi:5](iml05.htm#fr_26) *ibid*. p. 6.
+<span id="fn_26"></span>[xxxvi:5](iml05.htm#fr_26.md) *ibid*. p. 6.
 
-<span id="fn_27"></span>[xxxvi:6](iml05.htm#fr_27) *ibid*. p. 8.
+<span id="fn_27"></span>[xxxvi:6](iml05.htm#fr_27.md) *ibid*. p. 8.
 
-<span id="fn_28"></span>[xxxvii:1](iml05.htm#fr_28) British Museum Guide
+<span id="fn_28"></span>[xxxvii:1](iml05.htm#fr_28.md) British Museum Guide
 to the *Antiquities of the Bronze Age*, pp. 16, 17.
 
-<span id="fn_29"></span>[xxxvii:2](iml05.htm#fr_29) *Egyptian Myth and
+<span id="fn_29"></span>[xxxvii:2](iml05.htm#fr_29.md) *Egyptian Myth and
 Legend*, p. 143.
 
-<span id="fn_30"></span>[xxxvii:3](iml05.htm#fr_30) Campbell's *West
+<span id="fn_30"></span>[xxxvii:3](iml05.htm#fr_30.md) Campbell's *West
 Highland Tales*, vol. iii, p. 55.
 
-<span id="fn_31"></span>[xxxviii:1](iml05.htm#fr_31) *A History of
+<span id="fn_31"></span>[xxxviii:1](iml05.htm#fr_31.md) *A History of
 Civilization in Palestine*, R. A. S. Macalister.
 
-<span id="fn_32"></span>[xxxviii:2](iml05.htm#fr_32) *The Discoveries in
+<span id="fn_32"></span>[xxxviii:2](iml05.htm#fr_32.md) *The Discoveries in
 Crete*, Professor R. M. Burrows, p. 100. Dating according to *Crete the
 Forerunner of Greece*, C. H. and H. B. Hawes, p. xiv.
 
-<span id="fn_33"></span>[xl:1](iml05.htm#fr_33) *Vedic Index of Names
+<span id="fn_33"></span>[xl:1](iml05.htm#fr_33.md) *Vedic Index of Names
 and Subjects*.
 
-<span id="fn_34"></span>[xli:1](iml05.htm#fr_34) See *Egyptian Myth and
+<span id="fn_34"></span>[xli:1](iml05.htm#fr_34.md) See *Egyptian Myth and
 Legend*.
 
-<span id="fn_35"></span>[xli:2](iml05.htm#fr_35) *The North-Western
+<span id="fn_35"></span>[xli:2](iml05.htm#fr_35.md) *The North-Western
 Provinces of India*, 1897, p. 60.
 
-<span id="fn_36"></span>[xlii:1](iml05.htm#fr_36) *Ethnology in
+<span id="fn_36"></span>[xlii:1](iml05.htm#fr_36.md) *Ethnology in
 Folklore*, George Lawrence Gomme, p. 34 *et seq*.
 
-<span id="fn_37"></span>[xliii:1](iml05.htm#fr_37) *A History of
+<span id="fn_37"></span>[xliii:1](iml05.htm#fr_37.md) *A History of
 Sanskrit Literature*, p.115.
 
-<span id="fn_38"></span>[xliv:1](iml05.htm#fr_38) See *Egyptian Myth and
+<span id="fn_38"></span>[xliv:1](iml05.htm#fr_38.md) See *Egyptian Myth and
 Legend*.
 
-<span id="fn_39"></span>[xliv:2](iml05.htm#fr_39) The "Golden Age" of
+<span id="fn_39"></span>[xliv:2](iml05.htm#fr_39.md) The "Golden Age" of
 the gods, and the regeneration of the world after Ragnarok, do not refer
 to the doctrine of the world's ages as found in other mythologies.
 
-<span id="fn_40"></span>[xlviii:1](iml05.htm#fr_40) Lay Morals.
+<span id="fn_40"></span>[xlviii:1](iml05.htm#fr_40.md) Lay Morals.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Indra, King of the Gods](iml06)
+[Next: Chapter I. Indra, King of the Gods](iml06.md)

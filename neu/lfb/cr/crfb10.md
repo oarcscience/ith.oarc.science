@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb09)  [Next](crfb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb09)  [Next](crfb11.md) 
 
 </div>
 
@@ -335,6 +335,6 @@ himself brave and faithful was fit to be king.
 
 ------------------------------------------------------------------------
 
-[Next: Little Wildrose](crfb11)
+[Next: Little Wildrose](crfb11.md)
 
 </div>

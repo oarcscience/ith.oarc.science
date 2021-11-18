@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf32) [Next](bulf34) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf32) [Next](bulf34.md) 
 
 # CHAPTER XXXIV.
 
@@ -476,4 +476,4 @@ says,
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XXXV. Origin Of Mythology- Statues Of Gods And Goddesses-
-Poets Of Mythology.](bulf34)
+Poets Of Mythology.](bulf34.md)

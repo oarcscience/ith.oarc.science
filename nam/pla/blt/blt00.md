@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Next](blt01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Next](blt01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ January 1st, 1923. These files may be used for any purpose.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](blt01)
+[Next: Contents](blt01.md)

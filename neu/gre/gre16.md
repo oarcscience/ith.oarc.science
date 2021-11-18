@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre15)  [Next](gre17) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre15)  [Next](gre17.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ With but curdled milk must stain."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](gre17)
+[Next: Chapter XII](gre17.md)

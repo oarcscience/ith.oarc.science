@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft04)  [Next](ftft06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft04)  [Next](ftft06.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_12">p. 12</span>
 
-<span id="img_01200"></span> ![Fear](img/01200.jpg)
+<span id="img_01200"></span> ![Fear](img/01200.jpg.md)
 
 <span id="img_oinit"></span>
 
 |                     |
 |---------------------|
-| ![O](img/oinit.jpg) |
+| ![O](img/oinit.jpg.md) |
 
 NCE a very long time ago there was a woman who had a son. Sitting . both
 together one evening, the mother said to her son: "Go, my child, and
@@ -59,7 +59,7 @@ and
 
 |                                                   |
 |---------------------------------------------------|
-| ![A hand reached out of the grave](img/01300.jpg) |
+| ![A hand reached out of the grave](img/01300.jpg.md) |
 
 having finished cooking the helwa the youth went back to the robbers.
 
@@ -104,7 +104,7 @@ The Jew and the youth then parted.
 
 |                                            |
 |--------------------------------------------|
-| ![''That is mine'' he said](img/01400.jpg) |
+| ![''That is mine'' he said](img/01400.jpg.md) |
 
 On reaching the coast, the boy saw a ship tossing to and fro out at sea,
 and heard fearful cries proceeding from it. He called out from the
@@ -141,7 +141,7 @@ nearly died. I drink his health."
 
 |                     |
 |---------------------|
-| ![H](img/hinit.jpg) |
+| ![H](img/hinit.jpg.md) |
 
 ARDLY had the speaker finished when the youth himself appeared and said:
 "I am that youth." All three maidens hastened to embrace him, and he
@@ -175,7 +175,7 @@ shouted the people. "But I am seeking fear; I will
 
 |                                   |
 |-----------------------------------|
-| ![A bird flew out](img/01600.jpg) |
+| ![A bird flew out](img/01600.jpg.md) |
 
 not be your Shah," replied he, resisting the efforts of the crowd to
 carry him off to the palace. His words were repeated to the widow of the
@@ -208,7 +208,7 @@ cried the Sultana. "That is fear."
 <span id="img_01700"></span>
 
 [![He observed that his coffin was being made](tn/01700.jpg)  
-Click to enlarge](img/01700.jpg)  
+Click to enlarge](img/01700.jpg.md)  
 He observed that his coffin was being made  
 
 <span id="page_18">p. 18</span>
@@ -224,4 +224,4 @@ lived happily ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Orange Peris](ftft06)
+[Next: The Three Orange Peris](ftft06.md)

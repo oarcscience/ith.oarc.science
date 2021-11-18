@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pkt0302)  [Next](pktwaqu) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pkt0302)  [Next](pktwaqu.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### King
 
 <span id="img_waki"></span> <span align="CENTER"> [![](tn/waki.jpg)  
-Click to enlarge](img/waki.jpg)</span>
+Click to enlarge](img/waki.jpg.md)</span>
 
 The physical and emotional nature to which this card is attributed is
 dark, ardent, lithe, animated, impassioned, noble. The King uplifts a
@@ -34,4 +34,4 @@ before very long. *Reversed*: Good, but severe; austere, yet tolerant.
 
 ------------------------------------------------------------------------
 
-[Next: Queen of Wands](pktwaqu)
+[Next: Queen of Wands](pktwaqu.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha02)  [Next](maha04) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha02)  [Next](maha04.md) 
 
 ------------------------------------------------------------------------
 
@@ -505,6 +505,6 @@ Supreme Brahman."
 ------------------------------------------------------------------------
 
 [Next: Chapter 4 - Introduction of the Worship of the Supreme
-Prakriti](maha04)
+Prakriti](maha04.md)
 
   

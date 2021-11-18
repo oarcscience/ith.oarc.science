@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb21)  [Next](boeb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb21)  [Next](boeb23.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ And made her lady o' ha's and bowers,
 
 ------------------------------------------------------------------------
 
-[Next: The Mermaid](boeb23)
+[Next: The Mermaid](boeb23.md)

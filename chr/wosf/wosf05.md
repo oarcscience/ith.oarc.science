@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](wosf04)  [Next](wosf06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](wosf04)  [Next](wosf06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,10 +27,10 @@ wit, those of Assisi, Liegnitz, Paris (both Mazarin MSS. and at lib. of
 Prot. theol. fac.), Rome (St. Antony's and St. Isidore's MS. 1/73), and
 Düsseldorf. In Wadding's edition of the *Opuscula* this instruction on
 the Blessed Sacrament is placed among the letters of St. Francis <span
-id="fr_137"></span>[1](#fn_137) (No. XIII), but the early codices do not
-give it in an epistolary form, <span id="fr_138"></span>[2](#fn_138) but
+id="fr_137"></span>[1](#fn_137) (No. XIII.md), but the early codices do not
+give it in an epistolary form, <span id="fr_138"></span>[2](#fn_138.md) but
 rather as it is printed here without address or salutation. For the
-present edition the Assisian codex <span id="fr_139"></span>[3](#fn_139)
+present edition the Assisian codex <span id="fr_139"></span>[3](#fn_139.md)
 has
 
 <span id="page_23">p. 23</span>
@@ -55,7 +55,7 @@ Lord Jesus Christ is sacrificed. And by many It is left in wretched
 places and carried by the way disrespectfully, received unworthily and
 administered to others indiscriminately. Again His Names and written
 words are sometimes trampled under foot, for the sensual man perceiveth
-not these things that are of God. <span id="fr_140"></span>[1](#fn_140)
+not these things that are of God. <span id="fr_140"></span>[1](#fn_140.md)
 Shall we not by all these things be moved with a sense of duty when the
 good Lord Himself places Himself in our hands and we handle Him and
 receive Him daily?
@@ -82,7 +82,7 @@ better observed, know that he is blessed by the Lord.
 
 ### Footnotes
 
-<span id="fn_137"></span>[22:1](wosf05.htm#fr_137) Wadding, following
+<span id="fn_137"></span>[22:1](wosf05.htm#fr_137.md) Wadding, following
 Mariano of Florence, prefaces the letter with the following Salutation:
 "To my reverend masters in Christ; to all the clerics who are in the
 world and live conformably to the rules of the Catholic faith: brother
@@ -95,18 +95,18 @@ remembrance of me and exhortation which I write briefly." Wadding also
 our Lord Jesus Christ fill all my masters with His holy grace and
 comfort them."
 
-<span id="fn_138"></span>[22:2](wosf05.htm#fr_138) Father Ubald
+<span id="fn_138"></span>[22:2](wosf05.htm#fr_138.md) Father Ubald
 d’Alençon (*Opuscules de Saint François*, p. 21) is inclined, with M.
 Sabatier, to regard this instruction as a kind of postscript to St.
 Francis’ letter to the General Chapter and to all the Friars. (See
 *Speculum Perfectionis*, ed. Sabatier, p. clxvi.)
 
-<span id="fn_139"></span>[22:3](wosf05.htm#fr_139) Mgr. Faloci has
+<span id="fn_139"></span>[22:3](wosf05.htm#fr_139.md) Mgr. Faloci has
 edited the Instruction after this codex; see *Misc. Francescana*, t. VI,
 p. 95.
 
-<span id="fn_140"></span>[23:1](wosf05.htm#fr_140) See I Cor. 2: 14.
+<span id="fn_140"></span>[23:1](wosf05.htm#fr_140.md) See I Cor. 2: 14.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Rules of the Friars Minor](wosf06)
+[Next: IV. Rules of the Friars Minor](wosf06.md)

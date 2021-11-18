@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa05)  [Next](psa07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa05)  [Next](psa07.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ violence, to put them to death.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](psa07)
+[Next: Chapter VI](psa07.md)

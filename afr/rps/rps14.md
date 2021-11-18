@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps13)  [Next](rps15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps13)  [Next](rps15.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ marriage Solemnization. Adam The Leper, and Abraham The Indomitable.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 13. Ceremony of the Mortals](rps15)
+[Next: Chapter 13. Ceremony of the Mortals](rps15.md)

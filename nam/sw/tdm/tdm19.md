@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm18)  [Next](tdm20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm18)  [Next](tdm20.md) 
 
 ------------------------------------------------------------------------
 
@@ -768,4 +768,4 @@ daybreak.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII](tdm20)
+[Next: Chapter XVIII](tdm20.md)

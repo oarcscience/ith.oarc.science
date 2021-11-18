@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/ta)  [Previous](../snt/snt) 
-[Next](../tac/tac) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/ta)  [Previous](../snt/snt.md) 
+[Next](../tac/tac.md) 
 
 ------------------------------------------------------------------------
 
@@ -3778,4 +3778,4 @@ Index](../index)  [First Folio](../ff/ta)  [Previous](../snt/snt) 
 
 ------------------------------------------------------------------------
 
-[Next: Troilus and Cressida](../tac/tac) 
+[Next: Troilus and Cressida](../tac/tac.md) 

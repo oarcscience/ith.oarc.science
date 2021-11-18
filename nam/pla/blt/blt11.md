@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt10)  [Next](blt12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt10)  [Next](blt12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -272,4 +272,4 @@ ghost disappeared, and they were troubled no more by the ghost woman.
 
 ------------------------------------------------------------------------
 
-[Next: The Wolf-Man](blt12)
+[Next: The Wolf-Man](blt12.md)

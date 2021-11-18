@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg10)  [Next](adg12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg10)  [Next](adg12.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ life.
 
 ------------------------------------------------------------------------
 
-[Next: Adages of imam Ali (puh) in calling for the after-life](adg12)
+[Next: Adages of imam Ali (puh) in calling for the after-life](adg12.md)

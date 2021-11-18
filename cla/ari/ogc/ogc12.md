@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc11)  [Next](ogc13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc11)  [Next](ogc13.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ hot and the moist. Hence these must be four.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](ogc13)
+[Next: Chapter 3](ogc13.md)

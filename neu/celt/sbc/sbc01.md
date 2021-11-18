@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sbc00)  [Next](sbc02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sbc00)  [Next](sbc02.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ GLASGOW, *May*, 1911.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sbc02)
+[Next: Contents](sbc02.md)

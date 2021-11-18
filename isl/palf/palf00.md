@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](palf01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](palf01.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Front matter](palf01)
+[Next: Front matter](palf01.md)

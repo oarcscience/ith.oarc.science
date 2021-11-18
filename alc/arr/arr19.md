@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr18)  [Next](arr20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr18)  [Next](arr20.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ of the phraseology is unique to Paracelsus himself.
 
 ------------------------------------------------------------------------
 
-[Next: Section I](arr20)
+[Next: Section I](arr20.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch48) 
-[Next](pch50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch48.md) 
+[Next](pch50.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -26,7 +26,7 @@ men at the first brush to turn with the more confidence to the concrete
 teachings put in the God's mouth in the other books. But if they
 continue critically to reflect, they find one cause after another to
 regard this concreteness as illusory. <span
-id="fr_1186"></span>[2](#fn_1186) Many
+id="fr_1186"></span>[2](#fn_1186.md) Many
 
 <span id="page_229">p. 229</span>
 
@@ -36,7 +36,7 @@ document; and vigilant attention to the differences of content in the
 synoptics sets up insoluble doubts as to their authority. Long ago it
 was pointed out, with no very clear view of the inference to be drawn,
 that the Sermon on the Mount is a patchwork from previous Jewish
-literature. <span id="fr_1187"></span>[1](#fn_1187) And at length the
+literature. <span id="fr_1187"></span>[1](#fn_1187.md) And at length the
 pressure of criticism has forced the more intelligent professional
 students of the New Testament to admit the insecurity of the old
 assumptions, and to attempt a restatement of the case for belief in the
@@ -60,7 +60,7 @@ sought for one in the quicksands of the Pentateuch. At length, in the
 name of professional exegesis, Professor Schmiedel sounds the retreat.
 There are no true "sources," no really primary and trustworthy documents
 in the gospel amalgam! There are only nine <span
-id="fr_1188"></span>[2](#fn_1188) "entirely credible" texts! One thinks
+id="fr_1188"></span>[2](#fn_1188.md) "entirely credible" texts! One thinks
 of Meredith's figure of the hosts upon hosts of charging waves, whose
 achievement is only
 
@@ -149,14 +149,14 @@ believe in the historic actuality of half the characters in fiction.
 
 ### Footnotes
 
-<span id="fn_1186"></span>[228:2](pch49.htm#fr_1186) See *Christianity
+<span id="fn_1186"></span>[228:2](pch49.htm#fr_1186.md) See *Christianity
 and Mythology*, Part III, Div. ii.
 
-<span id="fn_1187"></span>[229:1](pch49.htm#fr_1187) Cp. C. C. Hennell,
+<span id="fn_1187"></span>[229:1](pch49.htm#fr_1187.md) Cp. C. C. Hennell,
 *Inquiry Concerning the Origin of Christianity* (1838 and later), ch.
 xvii.
 
-<span id="fn_1188"></span>[229:2](pch49.htm#fr_1188) At first the
+<span id="fn_1188"></span>[229:2](pch49.htm#fr_1188.md) At first the
 Professor specifies five as "the foundation-pillars for a truly
 scientific life of Jesus," but he afterwards adds four. It is noteworthy
 that seven of the nine occur in Mark, six of them there only; and only
@@ -166,4 +166,4 @@ best appreciate the significance of such facts.
 
 ------------------------------------------------------------------------
 
-[Next: § 5. The Critical Problem](pch50)
+[Next: § 5. The Critical Problem](pch50.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico048) 
-[Next](nico050) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico048.md) 
+[Next](nico050.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ different from political justice.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7. Natural and legal justice](nico050)
+[Next: Chapter 7. Natural and legal justice](nico050.md)

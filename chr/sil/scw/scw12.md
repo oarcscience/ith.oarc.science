@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw11) [Next](scw13)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw11) [Next](scw13.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -367,4 +367,4 @@ With riches not the world can hold.<br />
 
 ------------------------------------------------------------------------
 
-[Next](scw13)
+[Next](scw13.md)

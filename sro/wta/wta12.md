@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](wta11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](wta11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540761/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540761/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *With the Adepts, An Adventure Among the Rosicrucians*, by Franz
 Hartmann \[1910\], at Intangible Textual Heritage
 
@@ -100,7 +100,7 @@ carried on as a social amusement, and where not even the meaning of the
 term "spirituality" seems to be known. Those who wish to find the true
 light must rise up and embrace it with their whole heart and their whole
 being; they have no time to dream or to amuse themselves with the
-illusory treasures of the [terrestrial](errata.htm#1) plane.
+illusory treasures of the [terrestrial](errata.htm#1.md) plane.
 
 It is often said that people with spiritual aspirations should remain in
 the world and teach others, and do all the good they can; but what good

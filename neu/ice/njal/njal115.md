@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal114)  [Next](njal116) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal114)  [Next](njal116.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ Titling; the mother of Thraslauga was Unna, the daughter of Eyvind Karf.
 
 ------------------------------------------------------------------------
 
-[Next: 116. Of Flosi And Mord And The Sons Of Sigfus](njal116)
+[Next: 116. Of Flosi And Mord And The Sons Of Sigfus](njal116.md)

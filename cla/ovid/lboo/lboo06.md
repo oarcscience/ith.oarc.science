@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lbooill)  [Next](lboo07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lbooill)  [Next](lboo07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ ut iam nulla tibi nos sit legisse voluptas,<br />
 ------------------------------------------------------------------------
 
 [Next: Elegy I: The Poet Explains How It Is He Comes To Sing Of Love
-Instead Of Battles](lboo07)
+Instead Of Battles](lboo07.md)

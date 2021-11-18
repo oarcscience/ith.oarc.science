@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](glg18)  [Next](glg20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](glg18)  [Next](glg20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3WHK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3WHK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gateless Gate*, by Ekai, called Mu-mon, tr. Nyogen Senzaki and Paul
 Reps \[1934\], at Intangible Textual Heritage
 
@@ -52,4 +52,4 @@ Any season is a good season for you*.
 
 ------------------------------------------------------------------------
 
-[Next: 20. The Enlightened Man](glg20)
+[Next: 20. The Enlightened Man](glg20.md)

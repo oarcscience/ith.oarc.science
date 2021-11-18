@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa40)  [Next](taa42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa40)  [Next](taa42.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 1\. The dearest place on God's earth to me after Ṭayba and Mecca and the
 Farther Temple is the city of Baghdán. <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 2\. How should I not love the (City of) Peace, since I have there an
 Imám who is the guide of my religion and my reason and my faith?
@@ -63,13 +63,13 @@ thee.' Hence 'the best gift' after beneficence is God's vision of thee.
 
 ### Footnotes
 
-<span id="fn_28"></span>[122:1](taa41.htm#fr_28) Baghdán is one of the
+<span id="fn_28"></span>[122:1](taa41.htm#fr_28.md) Baghdán is one of the
 seven various spellings of Baghdád.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XXXIX](taa42)
+[Next: XXXIX](taa42.md)
 
 </div>

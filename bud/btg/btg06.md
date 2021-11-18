@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg05)  [Next](btg07) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg05)  [Next](btg07.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ long to give peace to the world.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Woes](btg07)
+[Next: The Three Woes](btg07.md)

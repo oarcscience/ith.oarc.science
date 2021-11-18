@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](hoo01) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](hoo01.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Bond-street. 1792.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](hoo01)
+[Next: Preface](hoo01.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](gbt34)  [Next](gbt36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](gbt34)  [Next](gbt36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ itself.
 
 ------------------------------------------------------------------------
 
-[Next: Six of Wands](gbt36)
+[Next: Six of Wands](gbt36.md)

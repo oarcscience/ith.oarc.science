@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Next](gbos01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Next](gbos01.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ Sword or Athame, the first stroke being from the top down to the left.
 
 ------------------------------------------------------------------------
 
-[Next: Drawing Down the Moon](gbos01)
+[Next: Drawing Down the Moon](gbos01.md)

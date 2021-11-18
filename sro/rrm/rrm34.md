@@ -1,18 +1,18 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm33)  [Next](rrm35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm33)  [Next](rrm35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_280">p. 280</span>
 
 <span id="img_28000"></span> ![Vertical Arch: Early Norman (Temple
-Church)](img/28000.jpg)  
+Church)](img/28000.jpg.md)  
 Vertical Arch: Early Norman (Temple Church)
 
 ### CHAPTER THE FOURTH
@@ -108,7 +108,7 @@ The 'Cap of Liberty' (*Bonnet Rouge*), the Crista or
 <span id="img_28300"></span>
 
 [![Figs. 203-210](tn/28300.jpg)  
-Click to enlarge](img/28300.jpg)  
+Click to enlarge](img/28300.jpg.md)  
 Figs. 203-210  
 
 <div align="center">
@@ -141,7 +141,7 @@ consist in a *double* slip of cloth, which,
 <span id="img_28400"></span>
 
 [![Figs. 211-219](tn/28400.jpg)  
-Click to enlarge](img/28400.jpg)  
+Click to enlarge](img/28400.jpg.md)  
 Figs. 211-219  
 
 <div align="center">
@@ -186,7 +186,7 @@ took a garment'
 <span id="img_28500"></span>
 
 [![Figs. 220-225](tn/28500.jpg)  
-Click to enlarge](img/28500.jpg)  
+Click to enlarge](img/28500.jpg.md)  
 Figs. 220-225  
 
 <div align="center">
@@ -304,7 +304,7 @@ D’Anville's *Atlas*). The society bearing the name of the Rosicrucians
 monogram or jewel; or, as malicious And bigoted adversaries would say,
 their 'object of adoration' is a 'red rose on a cross'. Thus:
 
-<span id="img_28800"></span> ![Fig. 226](img/28800.jpg)  
+<span id="img_28800"></span> ![Fig. 226](img/28800.jpg.md)  
 Fig. 226
 
 When it can be done, it is surrounded with a glory, and placed on a
@@ -376,7 +376,7 @@ Knights of Malta wore black, with the eight-pointed white cross. The
 <span id="img_29000"></span>
 
 [![Fig. 227](tn/29000.jpg)  
-Click to enlarge](img/29000.jpg)  
+Click to enlarge](img/29000.jpg.md)  
 Fig. 227  
 
 foregoing obtained their Black and White from the Egyptians. The Knights
@@ -403,7 +403,7 @@ path of the sun. The sign of this
 <span id="img_29100"></span>
 
 [![Fig. 228: Hindoo Pagoda at Tanjore](tn/29100.jpg)  
-Click to enlarge](img/29100.jpg)  
+Click to enlarge](img/29100.jpg.md)  
 Fig. 228: Hindoo Pagoda at Tanjore  
 
 ring is serpentine, and is Σ; each man being considered--as far as his
@@ -425,7 +425,7 @@ peint, au solstice d’hiver, n’ayant plus *qu’un cheveu sur la tête*.'
 <span id="img_29200"></span>
 
 [![Fig. 229, 230](tn/29200.jpg)  
-Click to enlarge](img/29200.jpg)  
+Click to enlarge](img/29200.jpg.md)  
 Fig. 229, 230  
 
 <div align="center">
@@ -467,7 +467,7 @@ sound of our *w*,
 <span id="img_29300"></span>
 
 [![Fig. 231](tn/29300.jpg)  
-Click to enlarge](img/29300.jpg)  
+Click to enlarge](img/29300.jpg.md)  
 Fig. 231  
 
 and was often expressed by β or υ, and also γ. For this the figure of a
@@ -480,7 +480,7 @@ adopted the Digamma, which it generally
 
 <span id="img_29302"></span> ![Fylfot: Digamma (Dr. Valpy’s
 crest)&lt;br&gt; A notable Rosicrucian, Cabalistic, and Masonic
-emblem](img/29302.jpg)  
+emblem](img/29302.jpg.md)  
 Fylfot: Digamma (Dr. Valpy’s crest)  
 A notable Rosicrucian, Cabalistic, and Masonic emblem
 
@@ -524,4 +524,4 @@ Greek forms, or of the Eastern Church.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Connexion Between the Templars and Gnosticism](rrm35)
+[Next: Chapter V: Connexion Between the Templars and Gnosticism](rrm35.md)

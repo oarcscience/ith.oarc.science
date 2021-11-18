@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Hindu
-Articles](../../hin/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Hindu
+Articles](../../hin/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -228,4 +228,4 @@ case with Cha.n.dî Dâs.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Hindu Articles](../../hin/etc/index)
+[Journals](../index) [Hindu Articles](../../hin/etc/index.md)

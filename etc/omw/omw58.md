@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw57)  [Next](omw59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw57)  [Next](omw59.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ Yggdrasil from that vessel.
 
 ------------------------------------------------------------------------
 
-[Next: Baldr](omw59)
+[Next: Baldr](omw59.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar045) [Next](gbar047)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar045) [Next](gbar047.md)
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ against the holy ones of God.
 
 ------------------------------------------------------------------------
 
-[Next](gbar047)
+[Next](gbar047.md)

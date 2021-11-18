@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe348)  [Next](prwe350) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe348)  [Next](prwe350.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ Reference to the British Tin Trade," by George Smith, LL.D., F.A.S.
 
 ------------------------------------------------------------------------
 
-[Next: St Neot](prwe350)
+[Next: St Neot](prwe350.md)

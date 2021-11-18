@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian of Samosata](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian of Samosata](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Widely hailed as the first science fiction story, A True Story, by
 Lucian of Samosata is a voyage to the edges of the universe and reason.
 The title is the first clue that this will be a tall tale. As much a
 predecessor of [Douglas
-Adams](https://www.amazon.com/exec/obidos/ASIN/0517226952/internetsacredte)
+Adams](https://www.amazon.com/exec/obidos/ASIN/0517226952/internetsacredte.md)
 as Jules Verne, Lucian's fantasy explores not only outer space (where he
 brokers war and peace between the inhabitants of the sun and moon), but
 also the Elysian fields, the geography of the Odyssey, and the interior
@@ -42,14 +42,14 @@ has parallel Greek text on a page by page basis. Each of the two books
 is about 250 kilobytes, so they may take awhile to load on a slow
 connection. If you have trouble viewing the Greek text in your browser,
 you should refer to sacred-texts' [Unicode troubleshooting
-page](../../../unicode).
+page](../../../unicode.md).
 
 Lucian also wrote another proto-science-fictional piece, [Icaromenippus,
-an Aerial Expedition](../wl3/wl309), available at this site in the
+an Aerial Expedition](../wl3/wl309.md), available at this site in the
 Fowler and Fowler translation.
 
 ------------------------------------------------------------------------
 
-[Title Page](tru00)  
-[Book I](tru01)  
-[Book II](tru02)  
+[Title Page](tru00.md)  
+[Book I](tru01.md)  
+[Book II](tru02.md)  

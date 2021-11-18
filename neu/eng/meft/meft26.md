@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft25)  [Next](meft27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft25)  [Next](meft27.md) 
 
 ------------------------------------------------------------------------
 
 # The Children in the Wood
 
 <span id="img_024"></span> [![](tn/024.jpg)  
-Click to enlarge](img/024.jpg)
+Click to enlarge](img/024.jpg.md)
 
  
 
@@ -230,4 +230,4 @@ Your wicked minds requite.
 
 ------------------------------------------------------------------------
 
-[Next: The Hobyahs](meft27)
+[Next: The Hobyahs](meft27.md)

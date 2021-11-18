@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut18)  [Next](hut20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut18)  [Next](hut20.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XVI.
 
-### The Scabby Young Man. <span id="fr_46"></span>[1](#fn_46)
+### The Scabby Young Man. <span id="fr_46"></span>[1](#fn_46.md)
 
 <span id="page_212">p. 212</span>
 
@@ -25,16 +25,16 @@ the brother who was covered with scabs.
 They found ten men lying there a little way from each other. Right in
 the middle was hanging the blanket. The scabby brother stepping over
 them took the blanket down. The man lying on the outside first
-discovered what had [happened](errata.htm#4). "He has taken the blanket
+discovered what had [happened](errata.htm#4.md). "He has taken the blanket
 away from us," he cried. Then the scabby one in whose hand lies the
-arrow <span id="fr_47"></span>[1](#fn_47) threw himself with it. The
+arrow <span id="fr_47"></span>[1](#fn_47.md) threw himself with it. The
 arrow came down on the west side of the Trinity river south of Medildiñ.
 Those who were pursuing him came there. He threw himself with it again.
 This time it came down at Tsemita. Again he threw it landing opposite
 Miskût. From there he threw himself with it to Kainoñadiñ. Then he threw
 the arrow with himself back to Estciñ. Those who were following him fell
 behind. He threw it again coming down at Tseyediñ. The next time he
-threw it landed with him at [NiLûtkalai](errata.htm#5). Then without
+threw it landed with him at [NiLûtkalai](errata.htm#5.md). Then without
 special reason he threw it to Yidaxomiñwatciñ. Having succeeded in
 taking away the blanket he put it into a storage basket.
 
@@ -73,7 +73,7 @@ made ten bundles of it. They went back each carrying five bundles. When
 they were near the village they put the wood down. Having tied them all
 together, Mink lifted them all onto the back of the scabby man. "Put
 them down carefully wherever you take them," he said. <span
-id="fr_48"></span>[1](#fn_48)
+id="fr_48"></span>[1](#fn_48.md)
 
 Then the scabby fellow smoked himself. When he was through he went to
 the river to swim. He came to the surface of the water way down stream.
@@ -92,7 +92,7 @@ The next day Mink took the stranger along to the game and handed him a
 shinny stick. When the one who had been scabby pressed down on it to
 test it, it broke. Mink gave him another which broke also. "Well, let it
 go," said the guest and drew from his arm a shinny stick of
-blue-stone. <span id="fr_49"></span>[1](#fn_49) "They will make a wall
+blue-stone. <span id="fr_49"></span>[1](#fn_49.md) "They will make a wall
 come between you and the goal," his companion told him. He sent the
 balls right through the wall. They played until night. Having won, Mink
 and the man from Kintcū*w*h*w*ikût went home. "He will stay here,"
@@ -111,18 +111,18 @@ that."
 
 ### Footnotes
 
-<span id="fn_46"></span>[207:1](hut19.htm#fr_46) Told at Hupa, December
+<span id="fn_46"></span>[207:1](hut19.htm#fr_46.md) Told at Hupa, December
 1901, by McCann.
 
-<span id="fn_47"></span>[212:1](hut19.htm#fr_47) See [p.
-205](hut18.htm#page_205).
+<span id="fn_47"></span>[212:1](hut19.htm#fr_47.md) See [p.
+205](hut18.htm#page_205.md).
 
-<span id="fn_48"></span>[213:1](hut19.htm#fr_48) Compare [p.
-148](hut05.htm#page_148).
+<span id="fn_48"></span>[213:1](hut19.htm#fr_48.md) Compare [p.
+148](hut05.htm#page_148.md).
 
-<span id="fn_49"></span>[214:1](hut19.htm#fr_49) Compare pp.
-[147](hut05.htm#page_147) and [149](hut05.htm#page_149).
+<span id="fn_49"></span>[214:1](hut19.htm#fr_49.md) Compare pp.
+[147](hut05.htm#page_147) and [149](hut05.htm#page_149.md).
 
 ------------------------------------------------------------------------
 
-[Next: XVII. The Passing of the Kīxûnai](hut20)
+[Next: XVII. The Passing of the Kīxûnai](hut20.md)

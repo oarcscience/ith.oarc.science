@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](sym02) 
-[Next](sym04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](sym02.md) 
+[Next](sym04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symzonia; Voyage of Discovery*, by Adam Seaborn (pseud. John Cleves
 Symmes?), \[1820\], at Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Symmes?), \[1820\], at Intangible Textual Heritage
 
 <span id="page_viii">p. viii</span>
 
-<span id="img__00800"></span> ![CONTENTS.](img/_00800.jpg)
+<span id="img__00800"></span> ![CONTENTS.](img/_00800.jpg.md)
 
 <span id="img_sep00"></span> ![](img/sep00.jpg)
 
@@ -23,7 +23,7 @@ The Author's reasons for undertaking a voyage of discovery.—He builds a
 vessel for his purpose upon a new plan.—His departure from the United
 States.
 
-Page [13](sym04.htm#page_13)
+Page [13](sym04.htm#page_13.md)
 
 CHAPTER II.
 
@@ -32,7 +32,7 @@ and States harbour—Visits the city of the Gentoo Penguins on the Grand
 Jason—Gives some account of the polity and habits of those civilized
 amphibia—Sails for South Georgia.
 
-Page [21](sym05.htm#page_21)
+Page [21](sym05.htm#page_21.md)
 
 CHAPTER III.
 
@@ -48,7 +48,7 @@ discovery
 of a southern continent, which, at the unanimous and earnest
 solicitation of his officers and men, he names Seaborn's Land.
 
-Page [37](sym06.htm#page_37)
+Page [37](sym06.htm#page_37.md)
 
 CHAPTER IV.
 
@@ -59,7 +59,7 @@ eases, in the name and on behalf of the United States—Leaves a sealing
 party on one of the islands near the coast, and proceeds to the south,
 to extend his discoveries.
 
-Page [58](sym07.htm#page_58)
+Page [58](sym07.htm#page_58.md)
 
 CHAPTER V.
 
@@ -69,7 +69,7 @@ in which he obviated the difficulty occasioned thereby.—He enters the
 internal world: describes the phenomena which occur.—Discovers Token
 Island.—Occurrences at that Island.
 
-Page [76](sym08.htm#page_76)
+Page [76](sym08.htm#page_76.md)
 
 CHAPTER VI.
 
@@ -77,7 +77,7 @@ The Author departs from Token Island, in search of an internal
 continent.—Wind, weather, and other phenomena of the internal
 seas.—Great alarm of the crew.—Discovery of an inhabited country
 
-Page [89](sym09.htm#page_89)
+Page [89](sym09.htm#page_89.md)
 
 CHAPTER VII.
 
@@ -90,7 +90,7 @@ harbour.—His first interview with the Symzonian.—Sketch of their
 appearance.—He commences the study of the Symzonian language.—Wonderful
 powers of mind displayed by the natives.—Account of an aerial vessel.
 
-Page [99](sym10.htm#page_99)
+Page [99](sym10.htm#page_99.md)
 
 CHAPTER VIII.
 
@@ -102,7 +102,7 @@ externals.—Expulsion of the unworthy from Symzonia, to a place of exile
 near the north pole.—External world supposed to have been peopled by the
 outcasts.
 
-Page [117](sym11.htm#page_117)
+Page [117](sym11.htm#page_117.md)
 
 CHAPTER IX.
 
@@ -113,7 +113,7 @@ audience by the Best Man.—Account of the interview, and of his
 unfortunate efforts to exalt the character of the externals, by
 describing some of their splendid follies.
 
-Page [135](sym12.htm#page_135)
+Page [135](sym12.htm#page_135.md)
 
 CHAPTER X.
 
@@ -121,7 +121,7 @@ Containing some account of the strange rationality of the
 Symzonians.—Their simplicity of dress.—Manner of making
 cloth.—Circulating medium.—Taxes.
 
-Page [156](sym13.htm#page_156)
+Page [156](sym13.htm#page_156.md)
 
 <span id="page_xi">p. xi</span>
 
@@ -134,7 +134,7 @@ used.—Fultria the inventor's speech in defence of it.—Deliberations of
 the Council.—Termination of the war.—Sentiments of the people on the
 subject.
 
-Page [165](sym14.htm#page_165)
+Page [165](sym14.htm#page_165.md)
 
 CHAPTER XII.
 
@@ -142,7 +142,7 @@ Wonderful faculties of the Symzonians.—Translation of my books into
 their language.—Proposition of a Wise man to make slaves of the Author
 and his people.—The Author's remonstrance.—The Wise man disgraced.
 
-Page [176](sym15.htm#page_176)
+Page [176](sym15.htm#page_176.md)
 
 CHAPTER XIII.
 
@@ -150,7 +150,7 @@ Recreations of the Symzonians.—Wonderful provision of nature for
 supplying the internal world with light.—Character and employments of
 the women of Symzonia.
 
-Page [181](sym16.htm#page_181)
+Page [181](sym16.htm#page_181.md)
 
 CHAPTER XIV.
 
@@ -158,7 +158,7 @@ The Author examines the records of the Assembly.—Grounds of proposal for
 admittance to the order of Worthies.—Shell fish of Symzonia.—Great
 quantities of Pearls, and the use to which they are applied.
 
-Page [188](sym17.htm#page_188)
+Page [188](sym17.htm#page_188.md)
 
 CHAPTER XV.
 
@@ -170,7 +170,7 @@ for sending him away.—
 <span class="contnote">\[paragraph continues\]</span> His ineffectual
 efforts to obtain a place of rendezvous for purposes of trade.
 
-Page [195](sym18.htm#page_195)
+Page [195](sym18.htm#page_195.md)
 
 CHAPTER XVI.
 
@@ -179,7 +179,7 @@ officers—Determines to return to Seaborn's Land—Takes leave of
 Surui—Sails from Symzonia—Touches at Token Island—Arrives at Boneto's
 station.
 
-Page [205](sym19.htm#page_205)
+Page [205](sym19.htm#page_205.md)
 
 CHAPTER XVII.
 
@@ -188,20 +188,20 @@ Land—Discovers Albicore's Islands.—Transactions at those islands.—He
 determines to conceal his discoveries from the world.—His reasons for
 this determination, and measures to effect it.—Sails for Canton.
 
-Page [216](sym20.htm#page_216)
+Page [216](sym20.htm#page_216.md)
 
 CHAPTER XVIII.
 
 The Author arrives at Canton.—Transactions in China.—Sails for the
 United States.—Loss of manuscripts.—Difficulties with Mr. Slim.
 
-Page [222](sym21.htm#page_222)
+Page [222](sym21.htm#page_222.md)
 
 CHAPTER XIX.
 
 Hurricane off the Isle of France.—Its consequences.—Death of Mr. Slim.
 
-Page [229](sym22.htm#page_229)
+Page [229](sym22.htm#page_229.md)
 
 CHAPTER XX.
 
@@ -210,8 +210,8 @@ Slippery—Is reduced to poverty by the failure of Mr. Slippery.—His great
 distress.—Inducement to publish this brief account of his
 discoveries.—Conclusion.
 
-Page [235](sym23.htm#page_235)
+Page [235](sym23.htm#page_235.md)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](sym04)
+[Next: Chapter I](sym04.md)

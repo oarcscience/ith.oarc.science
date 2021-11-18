@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp47)  [Next](prp49) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp47)  [Next](prp49.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ gush forth spontaneously when my mind recalls a pathic girl
 ------------------------------------------------------------------------
 
 [Next: 49. Thou, who art 'customed to view around the walls of our
-temple](prp49)
+temple](prp49.md)

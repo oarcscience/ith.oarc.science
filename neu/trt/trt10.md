@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt09)  [Next](trt11) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt09)  [Next](trt11.md) 
 
 ------------------------------------------------------------------------
 
@@ -669,4 +669,4 @@ any man who was wedded should fight at that feast.
 
 ------------------------------------------------------------------------
 
-[Next: The Quest of the Holy Graal](trt11)
+[Next: The Quest of the Holy Graal](trt11.md)

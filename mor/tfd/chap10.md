@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap09) [Next](chap11)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap09) [Next](chap11.md)
 
 ------------------------------------------------------------------------
 
@@ -299,4 +299,4 @@ spilling of blood in the name of the Lord.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: The Creed That Caused the Deed](chap11)
+[Next: Chapter XI: The Creed That Caused the Deed](chap11.md)

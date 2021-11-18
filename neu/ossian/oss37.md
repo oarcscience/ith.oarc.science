@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss36)  [Next](oss38) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss36)  [Next](oss38.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ the mist away.
 hundred youths looked, from their waves, on Fingal's bossy shield. High
 on the mast it hung, and marked the dark-blue sea. But when night came
 down, I struck, at times, the warning boss: I struck, and looked on
-high, for fiery-haired Ul-erin.  <span id="fr_103"></span>[1](#fn_103)
+high, for fiery-haired Ul-erin.  <span id="fr_103"></span>[1](#fn_103.md)
 
 <span id="page_435">p. 435</span>
 
@@ -195,7 +195,7 @@ locks.
 
 His brother came to his dreams, half seen from his low-hung cloud. Joy
 rose darkly in his face. He had heard the song of Carril.  <span
-id="fr_104"></span>[1](#fn_104) A blast sustained his dark-skirted
+id="fr_104"></span>[1](#fn_104.md) A blast sustained his dark-skirted
 cloud: which he seized in the bosom of night, as he rose, with his fame,
 towards his airy hail. Half mixed with the noise of the stream, he
 poured his feeble words.
@@ -270,7 +270,7 @@ down. But straight he turns away. "This is no time, king of Atha, to
 awake thy secret soul. The battle is rolled before thee like a troubled
 stream."
 
-He struck that warning boss,  <span id="fr_105"></span>[1](#fn_105)
+He struck that warning boss,  <span id="fr_105"></span>[1](#fn_105.md)
 wherein dwelt the voice of war. Erin rose around him, like the sound of
 eagle wing. Sul-malla started from sleep, in her disordered locks. She
 seized the helmet from earth. She trembled in her place. "Why should
@@ -300,13 +300,13 @@ lonely in the midst of wo!
 
 ### Footnotes
 
-<span id="fn_103"></span>[434:1](oss37.htm#fr_103) Ul-erin, "the guide
+<span id="fn_103"></span>[434:1](oss37.htm#fr_103.md) Ul-erin, "the guide
 to Ireland," was a star known by that name in the days of Fingal.
 
-<span id="fn_104"></span>[439:1](oss37.htm#fr_104) The song of Carril:
+<span id="fn_104"></span>[439:1](oss37.htm#fr_104.md) The song of Carril:
 the funeral elegy at the tomb of Cairbar.
 
-<span id="fn_105"></span>[441:1](oss37.htm#fr_105) In order to
+<span id="fn_105"></span>[441:1](oss37.htm#fr_105.md) In order to
 understand this passage, it is necessary to look to the description of
 Cathmor's shield in the seventh book. This shield had seven principal
 bosses, the sound of each of which, when struck with a spear, conveyed a
@@ -315,4 +315,4 @@ as here, was the signal for the army to assemble.
 
 ------------------------------------------------------------------------
 
-[Next: Book V](oss38)
+[Next: Book V](oss38.md)

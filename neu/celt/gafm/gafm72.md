@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](gafm71)  [Next](gafm73) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](gafm71)  [Next](gafm73.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BH3EVC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BH3EVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gods and Fighting Men*, by Lady Gregory, \[1904\], at Intangible
 Textual Heritage
 
@@ -339,4 +339,4 @@ was after that; and he and his people went back to Almhuin of Leinster.
 
 ------------------------------------------------------------------------
 
-[Next: Part II Book VII: The Wood of Dubhros](gafm73)
+[Next: Part II Book VII: The Wood of Dubhros](gafm73.md)

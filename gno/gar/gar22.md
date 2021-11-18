@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar21)  [Next](gar23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar21)  [Next](gar23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -73,13 +73,13 @@ spoken to me, &c."
 
  
 
-<span id="img_fig06"></span> ![FIG. 6.](img/fig06.jpg)  
+<span id="img_fig06"></span> ![FIG. 6.](img/fig06.jpg.md)  
 FIG. 6.
 
-[(\*)](gar71.htm#an_fig06)
+[(\*)](gar71.htm#an_fig06.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: I. The Figured Representations of Serapis](gar23)
+[Next: I. The Figured Representations of Serapis](gar23.md)

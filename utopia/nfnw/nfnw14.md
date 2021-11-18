@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](nfnw13)  [Next](nfnw15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](nfnw13)  [Next](nfnw15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -219,4 +219,4 @@ garrulity?'
 ------------------------------------------------------------------------
 
 [Next: Chapter XV: On The Lack Of Incentive To Labour In A
-Communist](nfnw15)
+Communist](nfnw15.md)

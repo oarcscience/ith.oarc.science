@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Sexuality](../index) 
 ------------------------------------------------------------------------
 
 This work first appeared as the second half of the 1865 printing of [A
-Discourse on the Worship of Priapus](../dwp/index). Wright's extended
+Discourse on the Worship of Priapus](../dwp/index.md). Wright's extended
 essay on Phallic worship is distinguished by much better scholarship and
 writing than some of the other works of this genre. Along with the usual
 suspects (ancient and modern phallic objects, fertility rituals and so
@@ -37,20 +37,20 @@ of this etext.
 
 ------------------------------------------------------------------------
 
-[Title Page](wgp00)  
-[Antiquity](wgp01)  
-[Middle Ages and Renaissance](wgp02)  
-[Shelah-na-Gigs](wgp03)  
-[Priapus Worship](wgp04)  
-[Priapic Amulets](wgp05)  
-[The 'Fig'](wgp06)  
-[Sexual Demons](wgp07)  
-[Phallic Festivals](wgp08)  
-[May-day](wgp09)  
-[Midsummer Night](wgp10)  
-[Plants and Flowers](wgp11)  
-[Other Festivals](wgp12)  
-[Mediaeval Secret Societies](wgp13)  
-[The Knights Templar](wgp14)  
-[The Witches' Sabbath](wgp15)  
-[Inniskea](wgp16)  
+[Title Page](wgp00.md)  
+[Antiquity](wgp01.md)  
+[Middle Ages and Renaissance](wgp02.md)  
+[Shelah-na-Gigs](wgp03.md)  
+[Priapus Worship](wgp04.md)  
+[Priapic Amulets](wgp05.md)  
+[The 'Fig'](wgp06.md)  
+[Sexual Demons](wgp07.md)  
+[Phallic Festivals](wgp08.md)  
+[May-day](wgp09.md)  
+[Midsummer Night](wgp10.md)  
+[Plants and Flowers](wgp11.md)  
+[Other Festivals](wgp12.md)  
+[Mediaeval Secret Societies](wgp13.md)  
+[The Knights Templar](wgp14.md)  
+[The Witches' Sabbath](wgp15.md)  
+[Inniskea](wgp16.md)  

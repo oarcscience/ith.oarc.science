@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma29)  [Next](fmma31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma29)  [Next](fmma31.md) 
 
 ------------------------------------------------------------------------
 
@@ -162,4 +162,4 @@ Victory was theirs and the Cantons were free.
 
 ------------------------------------------------------------------------
 
-[Next: Tamerlane. Lived From 1333-1405](fmma31)
+[Next: Tamerlane. Lived From 1333-1405](fmma31.md)

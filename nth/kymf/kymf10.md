@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](kymf09)  [Next](kymf11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](kymf09)  [Next](kymf11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ like this one, don't you think it would be easy to help them?"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Ten. Fluid Accumulation.](kymf11)
+[Next: Chapter Ten. Fluid Accumulation.](kymf11.md)

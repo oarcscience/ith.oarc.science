@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt36)  [Next](blt38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt36)  [Next](blt38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -456,7 +456,7 @@ hereditary. Formerly each gens was governed by a chief, who was entitled
 to his office by virtue of his bravery and generosity. The head chief
 was chosen by the chiefs of the gentes from their own number, and was
 usually the one who could show the best record in war, as proved at the
-Medicine Lodge, <span id="fr_31"></span>[1](#fn_31) at which time he was
+Medicine Lodge, <span id="fr_31"></span>[1](#fn_31.md) at which time he was
 elected; and for the ensuing year he was invested with the supreme
 power. But no matter how brave a man might have been, or how successful
 in war, he could not hope to be the chief either of a gens or of the
@@ -661,7 +661,7 @@ The inner circle shows lodges of chiefs of certain bands of the
 <span id="img_22500"></span>
 
 [![](tn/22500.jpg)  
-Click to enlarge](img/22500.jpg)
+Click to enlarge](img/22500.jpg.md)
 
 GENTES OF THE PI-KUN´-I
 
@@ -682,9 +682,9 @@ Bearers. *f*. Braves. *g*. Mosquitoes. *h*. Soldiers. *i*. Doves.
 
 ### Footnotes
 
-<span id="fn_31"></span>[219:1](blt37.htm#fr_31) See chapter on
+<span id="fn_31"></span>[219:1](blt37.htm#fr_31.md) See chapter on
 Religion.
 
 ------------------------------------------------------------------------
 
-[Next: Hunting](blt38)
+[Next: Hunting](blt38.md)

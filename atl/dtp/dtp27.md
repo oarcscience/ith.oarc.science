@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp26)  [Next](dtp28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp26)  [Next](dtp28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -370,7 +370,7 @@ generator, with, lastly, my bedding and my own weight.
 
 That night I was far away, and the next evening found me over a hundred
 miles from the camp. As the sun sank low I found myself riding along the
-bottom of a deep arroyo. <span id="fr_12"></span>[1](#fn_12) At a
+bottom of a deep arroyo. <span id="fr_12"></span>[1](#fn_12.md) At a
 
 <span id="page_209">p. 209</span>
 
@@ -625,7 +625,7 @@ This time he came with changed manner. Now when he spoke, his first
 words were in mockery of my appeals to the great Father of Life.
 
 "Hal Much good may it do thee to cry unto Incal or any helper. God!
-There is no God. <span id="fr_13"></span>[1](#fn_13) Bah! how blind men
+There is no God. <span id="fr_13"></span>[1](#fn_13.md) Bah! how blind men
 are to pray to such empty ideals as their fancies name 'God!' Men of
 Poseid say Incal is God; men of Suernis say Yeovah, and they of Necropan
 say Osiris. What madness and idiocy!"
@@ -696,7 +696,7 @@ favoring Workers in the Dark. But enough. So much would I not tell thee
 were it not that thou wouldst not have much power thereby over me--ME,
 understand--wert thou alive instead of practically dead. Thinkest thou
 now I can have belief in a God? Bah! If God exists, I fear not; yet let
-Him punish!" <span id="fr_14"></span>[1](#fn_14)
+Him punish!" <span id="fr_14"></span>[1](#fn_14.md)
 
 And now a fearful, glorious and wonderful sight appeared. The night had
 come while Mainin thus confessed to me and gloried in his apical crimes,
@@ -802,23 +802,23 @@ is change, so that by me he shall be exalted above Death. Then shall men
 get them up, and mock me, being unbelievers, and shall crucify me, yet
 shall I, that am become Jesus the *Christ*, not be harmed, but mine
 earthly house only. And they shall be forgiven, for they will not know
-what they do. <span id="fr_15"></span>[1](#fn_15) Peace I give unto
+what they do. <span id="fr_15"></span>[1](#fn_15.md) Peace I give unto
 thee. Sleep!"
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_12"></span>[208:1](dtp27.htm#fr_12) NOTE.--A deep, narrow
+<span id="fn_12"></span>[208:1](dtp27.htm#fr_12.md) NOTE.--A deep, narrow
 ravine.
 
-<span id="fn_13"></span>[215:1](dtp27.htm#fr_13) Psalms lxiii, 1
+<span id="fn_13"></span>[215:1](dtp27.htm#fr_13.md) Psalms lxiii, 1
 
-<span id="fn_14"></span>[217:1](dtp27.htm#fr_14) NOTE.--"The fool hath
+<span id="fn_14"></span>[217:1](dtp27.htm#fr_14.md) NOTE.--"The fool hath
 said in his heart, 'There is no God.'"
 
-<span id="fn_15"></span>[220:1](dtp27.htm#fr_15) St. Matthew, xii, 23.
+<span id="fn_15"></span>[220:1](dtp27.htm#fr_15.md) St. Matthew, xii, 23.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV: Devachan](dtp28)
+[Next: Chapter XXIV: Devachan](dtp28.md)

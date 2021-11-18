@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](ssw22) 
-[Next](ssw24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](ssw22.md) 
+[Next](ssw24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sadi's Scroll of Wisdom*, by Arthur N. Wollaston, \[1906\], at
 Intangible Textual Heritage
 
@@ -38,6 +38,6 @@ For haste is the attribute of devils.
 
 ------------------------------------------------------------------------
 
-[Next: Description of Rectitude](ssw24)
+[Next: Description of Rectitude](ssw24.md)
 
 </div>

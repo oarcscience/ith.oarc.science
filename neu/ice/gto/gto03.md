@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto02)  [Next](gto04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto02)  [Next](gto04.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ Sagas](../../index)  [Iceland](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](gto04)
+[Next: Introduction](gto04.md)

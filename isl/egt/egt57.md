@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt56)  [Next](egt58) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt56)  [Next](egt58.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ plenty; the owl grows arrogant before the king.
 
 ------------------------------------------------------------------------
 
-[Next: ON DREAMS OF WILD ANIMALS.](egt58)
+[Next: ON DREAMS OF WILD ANIMALS.](egt58.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa57)  [Next](psa59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa57)  [Next](psa59.md) 
 
 ------------------------------------------------------------------------
 
@@ -242,7 +242,7 @@ perplexing thoughts, and shedding tears. The
 
 descendants of Judoo were very much alarmed at the intelligence they
 brought; and calling on the name of Shree Krishnù, and suffering great
-[affliction](errata.htm#13), they began to weep and lament; and there
+[affliction](errata.htm#13.md), they began to weep and lament; and there
 was mourning in all the female apartments. At length, all the women
 being much agitated, emaciated and in low spirits, went forth from the
 palace, and weeping violently came to a temple of Devee, distant about a
@@ -307,4 +307,4 @@ month of Bhadon, shall escape unblemished.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LVIII](psa59)
+[Next: Chapter LVIII](psa59.md)

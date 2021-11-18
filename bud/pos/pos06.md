@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos05)  [Next](pos07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos05)  [Next](pos07.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ How was she reborn?
 
 Long ago, a certain daughter of one of the clans became a fervent
 believer in the teaching of the Buddha Koṇāgamana,
-[<sup>78</sup>](pos06.htm#9-1) and entertained him hospitably. She had
+[<sup>78</sup>](pos06.htm#9-1.md) and entertained him hospitably. She had
 an arbour made with boughs, a draped ceiling, and a sanded floor, and
 did him honour with flowers and perfumes. And all her life doing
 meritorious acts, she was reborn among the gods, and then again among
@@ -47,7 +47,7 @@ the utter impermanence of all things. Thereby she was established in the
 Fruition of the Path of No-Return. Thenceforth she wore no more jewels
 and ornaments. When her husband asked her the reason, she told him how
 incapable she felt of living a domestic life. So he brought her, as
-Visākha brought Dhammadinnā,[<sup>79</sup>](pos06.htm#10-1) with a large
+Visākha brought Dhammadinnā,[<sup>79</sup>](pos06.htm#10-1.md) with a large
 following, to Great Pajāpatī the Gotamid, and said: 'Let the reverend
 Sisters give her ordination.' And Pajāpatī did so, and showed her the
 Master; and the Master, emphasizing, as was his custom, the visible
@@ -65,7 +65,7 @@ in her exultation, wherefore this verse became her verse.
 
 <span id="10-1"></span>
 
-> <sup>79</sup> See [Ps. xii.](pos06.htm#XII)
+> <sup>79</sup> See [Ps. xii.](pos06.htm#XII.md)
 
 ------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ Pajāpatī the Gotamid, and studied the exercises for ecstatic insight.
 Returning one day from her round for alms, she discharged her duties
 toward her seniors, and then going apart to rest, and seated out of
 sight, she began to concentrate herself. Then the Master, sitting in the
-'Fragrant Chamber'[<sup>83</sup>](pos06.htm#11-1) of the Vihāra, sent
+'Fragrant Chamber'[<sup>83</sup>](pos06.htm#11-1.md) of the Vihāra, sent
 forth glory, and revealing himself as if seated before her, uttered the
 verse above. And she, steadfast in that exhortation, not long after
 attained Arahantship, and so attaining, exulted in the words of that
@@ -130,11 +130,11 @@ uttered it, when about to pass away.
 ### <span id="III">III Puṇṇā.</span>
 
 The following verse is that of a student named
-Puṇṇā.[<sup>84</sup>](pos06.htm#11-2) She, heaping up good of
+Puṇṇā.[<sup>84</sup>](pos06.htm#11-2.md) She, heaping up good of
 age-enduring efficacy under former Buddhas in this and that state of
 becoming, was born–when the world was empty of a Saviour Buddha–as a
-fairy, by the River Candabhāgā.[<sup>85</sup>](pos06.htm#11-3) One day
-she worshipped a certain Silent [<sup>86</sup>](pos06.htm#11-4) Buddha
+fairy, by the River Candabhāgā.[<sup>85</sup>](pos06.htm#11-3.md) One day
+she worshipped a certain Silent [<sup>86</sup>](pos06.htm#11-4.md) Buddha
 with a wreath of reeds. Thereby gaining heaven, she was, in this
 Buddha-dispensation, reborn as the child of a leading burgess of
 Sāvatthi and named Puṇṇā. When she had so dwelt for twenty years, her
@@ -160,18 +160,18 @@ And scatter all the gloom of ignorance.<a href="pos06.htm#12-2"><sup>88</sup></a
 
 Hearing this, her insight grew, and she attained Arahantship. This verse
 is the expression of her exultation and the affirmation of her A<span
-class="small">ÑÑĀ</span>.[<sup>89</sup>](pos06.htm#12-3)
+class="small">ÑÑĀ</span>.[<sup>89</sup>](pos06.htm#12-3.md)
 
 ------------------------------------------------------------------------
 
 <span id="11-2"></span>
 
-> <sup>84</sup> *Cf.* [Ps. lxv.](pos17.htm#LXV), note.
+> <sup>84</sup> *Cf.* [Ps. lxv.](pos17.htm#LXV.md), note.
 
 <span id="11-3"></span>
 
 > <sup>85</sup> Ca=Cha. The word is equivalent to 'moonlight.' *Cf.*
-> [Ps. xxix.](pos08.htm#XXIX), [xxxii](pos08.htm#XXXII).
+> [Ps. xxix.](pos08.htm#XXIX), [xxxii](pos08.htm#XXXII.md).
 
 <span id="11-4"></span>
 
@@ -348,8 +348,8 @@ For thou hast vanquished Māra and his host. (10)</p></td>
 </table>
 
 Of all these six Sisters the story is similar to that of Tissā
-([IV.](pos06.htm#IV)), with this exception: Dhīrā, called '[another
-Sister Dhīrā](pos06.htm#VII),' had no glory-verse pronounced to her, but
+([IV.](pos06.htm#IV).md), with this exception: Dhīrā, called '[another
+Sister Dhīrā](pos06.htm#VII.md),' had no glory-verse pronounced to her, but
 was troubled in heart at the Master's teaching. Leaning on his words,
 she strove for insight, and when she had reached Arahantship, she
 declaimed her verse in exultation. All the others did the same.
@@ -367,8 +367,8 @@ declaimed her verse in exultation. All the others did the same.
 
 <span id="14-2"></span>
 
-> <sup>94</sup> Mittā='friend'; but see [note 2](pos07.htm#29-2) to [Ps.
-> xxv.](pos07.htm#XXV)
+> <sup>94</sup> Mittā='friend'; but see [note 2](pos07.htm#29-2.md) to [Ps.
+> xxv.](pos07.htm#XXV.md)
 
 <span id="14-3"></span>
 
@@ -396,7 +396,7 @@ declaimed her verse in exultation. All the others did the same.
 THRESHING RICE IN 'MORTAR,' BANDIPUR, KASHMIR.  
 <span class="small">To face p. 14.</span>
 
-### <span id="XI">XI Muttā</span>[<sup>99</sup>](pos06.htm#15-1)
+### <span id="XI">XI Muttā</span>[<sup>99</sup>](pos06.htm#15-1.md)
 
 Muttā, heaping up good under former Buddhas, was, in this
 Buddha-dispensation, born in the land of Kosala as the daughter of a
@@ -428,13 +428,13 @@ And all that dragged me back is hurled away. (11)</p></td>
 
 <span id="15-1"></span>
 
-> <sup>99</sup> *Cf.* [Ps. ii.](pos06.htm#II)
+> <sup>99</sup> *Cf.* [Ps. ii.](pos06.htm#II.md)
 
 <span id="15-2"></span>
 
 > <sup>100</sup> The Thera Sumangala also celebrates his release from
 > three crooked things–the sickle, the plough, and the spade. See [Ps.
-> xxi.](pos07.htm#XXI)
+> xxi.](pos07.htm#XXI.md)
 
 ------------------------------------------------------------------------
 
@@ -448,7 +448,7 @@ Then she worked merit by doubling the gift prescribed by her husband to
 the Master's half-brothers while they were staying in a servant's house.
 And when Kassapa was Buddha, she came to birth in the house of Kiki,
 King of Kāsī, as one of the Seven Sisters, his
-daughters,[<sup>101</sup>](pos06.htm#16-1) and for 20,000 years lived a
+daughters,[<sup>101</sup>](pos06.htm#16-1.md) and for 20,000 years lived a
 holy life. . . . Finally, in this Buddha-dispensation, she was reborn of
 a clansman's family at Rājagaha, and became the wife of Visākha, a
 leading citizen. Now one day her husband went to hear the Master
@@ -469,7 +469,7 @@ in a place of crowds; I would go into a village abode.' The Bhikkhunīs
 brought her thither, and while there, because in her past lives she had
 subjugated the complexities of thought, word, and deed, she soon
 attained Arahantship, together with thorough mastery of the form and
-meaning of the Dhamma.[<sup>102</sup>](pos06.htm#17-1) Thereupon she
+meaning of the Dhamma.[<sup>102</sup>](pos06.htm#17-1.md) Thereupon she
 thought: 'Now have I reached the summit. What shall I do here any
 longer? I will even go to Rājagaha and worship the Master, and many of
 my kinsfolk will, through me, acquire merit.' So she returned with her
@@ -478,7 +478,7 @@ came, interviewed her with questions on the Khandhas and the like. And
 Dhammadinnā answered every question as one might cut a lotus-stalk with
 a knife, and finally referred him to the Master. The Master praised her
 great wisdom, as it is told in the Lesser Vedalla (Miscellany)
-Sutta,[<sup>103</sup>](pos06.htm#17-2) and ranked her foremost among the
+Sutta,[<sup>103</sup>](pos06.htm#17-2.md) and ranked her foremost among the
 Sisters who could preach.
 
 But it was while she was dwelling in the country, and, while yet in the
@@ -506,7 +506,7 @@ Is held–B<span class="small">OUND</span> U<span class="small">PSTREAM</span>:�
 
 > <sup>101</sup> The seven most illustrious women of early Buddhism have
 > been grouped as these Seven Sisters in the Apadāna: Khemā,
-> Uppalavaṇṇā, Paṭācārā, Bhaddā ([Ps. xlvi.](pos10.htm#XLVI)),
+> Uppalavaṇṇā, Paṭācārā, Bhaddā ([Ps. xlvi.](pos10.htm#XLVI).md),
 > Kisāgotamī, Dhammadinnā, and Visākhā, the wealthy lay sister. On the
 > last see Warren, *Buddhism in Translations*, 451 ſ.
 
@@ -545,7 +545,7 @@ Is held–B<span class="small">OUND</span> U<span class="small">PSTREAM</span>:�
 ### <span id="XIII">XIII Visākhā.</span>
 
 Her story is similar to that of the Sister
-Dhīrā.[<sup>105</sup>](pos06.htm#18-1) After winning Arahantship she
+Dhīrā.[<sup>105</sup>](pos06.htm#18-1.md) After winning Arahantship she
 pondered on the bliss of emancipation, and thus announced A<span
 class="small">ÑÑĀ</span>:
 
@@ -570,18 +570,18 @@ Thus she admonished others to follow her example.
 
 <span id="18-1"></span>
 
-> <sup>105</sup> [Ps. vi.](pos06.htm#VI)
+> <sup>105</sup> [Ps. vi.](pos06.htm#VI.md)
 
 <span id="18-2"></span>
 
-> <sup>106</sup> *Cf.* [Ps. xlviii.](pos10.htm#XLVIII)
+> <sup>106</sup> *Cf.* [Ps. xlviii.](pos10.htm#XLVIII.md)
 
 ------------------------------------------------------------------------
 
 ### <span id="XIV">XIV Sumanā.</span>
 
 Her story is similar to that of Sister
-Tissā.[<sup>107</sup>](pos06.htm#18-3) Sending forth glory, the Master
+Tissā.[<sup>107</sup>](pos06.htm#18-3.md) Sending forth glory, the Master
 revealed himself as if seated in front of her, and spake:
 
 <table data-align="center">
@@ -603,14 +603,14 @@ So shalt thou go thy ways calm and serene. (14)</span></p></td>
 
 <span id="18-3"></span>
 
-> <sup>107</sup> [Ps. iv.](pos06.htm#IV)
+> <sup>107</sup> [Ps. iv.](pos06.htm#IV.md)
 
 ------------------------------------------------------------------------
 
 ### <span id="XV">XV Uttarā.</span>
 
 Her story is also similar to that of Sister
-Tissā.[<sup>108</sup>](pos06.htm#19-1) And it was the 'Glory-verse'
+Tissā.[<sup>108</sup>](pos06.htm#19-1.md) And it was the 'Glory-verse'
 through which she won Arahantship that she declaimed in exultation:
 
 <table data-align="center">
@@ -632,7 +632,7 @@ Cool am I now; I know Nibbana's peace. <a href="pos06.htm#19-4"><sup>111</sup></
 
 <span id="19-1"></span>
 
-> <sup>108</sup> [Ps. iv.](pos06.htm#IV)
+> <sup>108</sup> [Ps. iv.](pos06.htm#IV.md)
 
 <span id="19-2"></span>
 
@@ -648,7 +648,7 @@ Cool am I now; I know Nibbana's peace. <a href="pos06.htm#19-4"><sup>111</sup></
 <span id="19-4"></span>
 
 > <sup>111</sup> *Sītibhūt' amhi nibbutā*, lit., 'Become cool am I,
-> content,' or 'at peace.' See [Introduction.](pos04.htm#INTRODUCTION)
+> content,' or 'at peace.' See [Introduction.](pos04.htm#INTRODUCTION.md)
 > The phrase is an oft-recurring refrain, implying–whatever other
 > implications of peace, happiness, serenity went with it–the attainment
 > of Nibbana. 'Rapt and intent' (*samādhinā*) is the Commentary's
@@ -665,7 +665,7 @@ good in this life and in that, was, in this Buddha-dispensation, born at
 Sāvatthī as the sister of the King of Kosala. Hearing the Master preach
 the doctrine to the King Pasenadi in the discourse beginning, 'There are
 four young creatures, sire, who may not be disregarded,'
-[<sup>112</sup>](pos06.htm#19-5) she believed, and was established in
+[<sup>112</sup>](pos06.htm#19-5.md) she believed, and was established in
 the Refuges and the Precepts. Fain to leave the world, she put off doing
 so that she might take care of her grandmother as long as she lived.
 After the grandmother's death, Sumanā went, accompanied by the King, to
@@ -691,7 +691,7 @@ Cool art thou now, knowing Nibbana's peace. (16)</span></p></td>
 
 And when he had finished, she won Arahantship, together with thorough
 knowledge of the Norm in form and in meaning.
-[<sup>113</sup>](pos06.htm#20-1) In her exultation she uttered that same
+[<sup>113</sup>](pos06.htm#20-1.md) In her exultation she uttered that same
 verse, so that it became the announcement of her A<span
 class="small">ÑÑĀ</span>. Straightway she left the world for the Order.
 
@@ -707,7 +707,7 @@ class="small">ÑÑĀ</span>. Straightway she left the world for the Order.
 
 <span id="20-1"></span>
 
-> <sup>113</sup> See [p. 15, *n.* 1.](pos06.htm#15-1)
+> <sup>113</sup> See [p. 15, *n.* 1.](pos06.htm#15-1.md)
 
 ------------------------------------------------------------------------
 
@@ -721,7 +721,7 @@ leave the world, but her husband would not consent. So she waited till
 after his death, and then entered the Order. One day, returning to the
 Vihāra from seeking alms, she lost her balance and fell. Making just
 that her base of insight, she won Arahantship with thorough knowledge of
-the Norm in form and in meaning. [<sup>114</sup>](pos06.htm#21-1) And,
+the Norm in form and in meaning. [<sup>114</sup>](pos06.htm#21-1.md) And,
 triumphing, she uttered this verse:
 
 <table data-align="center">
@@ -746,7 +746,7 @@ The heart of me rose up in liberty. (17)</p></td>
 
 <span id="21-1"></span>
 
-> <sup>114</sup> See [p. 15, *n.* 1.](pos06.htm#15-1)
+> <sup>114</sup> See [p. 15, *n.* 1.](pos06.htm#15-1.md)
 
 <span id="21-2"></span>
 
@@ -759,7 +759,7 @@ The heart of me rose up in liberty. (17)</p></td>
 
 ### <span id="XVIII">XVIII Sanghā.</span>
 
-Her story is like that of Sister Dhīrā, [<sup>116</sup>](pos06.htm#21-3)
+Her story is like that of Sister Dhīrā, [<sup>116</sup>](pos06.htm#21-3.md)
 but her verse is as follows:
 
 <table data-align="center">
@@ -783,8 +783,8 @@ Cool am I now, knowing Nibbana's peace. (18)</span></p></td>
 
 <span id="21-3"></span>
 
-> <sup>116</sup> Presumably [Ps. vii.](pos06.htm#VII)
+> <sup>116</sup> Presumably [Ps. vii.](pos06.htm#VII.md)
 
 ------------------------------------------------------------------------
 
-[Next: Canto II. Psalms of Two Verses](pos07)
+[Next: Canto II. Psalms of Two Verses](pos07.md)

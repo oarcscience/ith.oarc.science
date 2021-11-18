@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf40)  [Next](sbf42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf40)  [Next](sbf42.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -35,6 +35,6 @@ him.
 
 ------------------------------------------------------------------------
 
-[Next: Doings Of The Springbok.](sbf42)
+[Next: Doings Of The Springbok.](sbf42.md)
 
 </div>

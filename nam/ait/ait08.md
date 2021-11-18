@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait07)  [Next](ait09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait07)  [Next](ait09.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ id="page_39">p. 39</span>
 
 |                     |
 |---------------------|
-| ![A](img/03900.jpg) |
+| ![A](img/03900.jpg.md) |
 
 GREAT chief, Red Thunder, was traveling with his wife and three children
 to a council of the nations. When they were near the place appointed for
@@ -206,7 +206,7 @@ cook supper for you. My kettle of water stands near the fire."
 Deep Voice had been looking about the fireplace, but had seen no kettle.
 Now there appeared a small earthen pot filled with water. The old man
 took one grain of corn and one whortleberry, dropped them into the
-[pot](errata.htm#0) and set it where it would boil. Deep Voice was
+[pot](errata.htm#0.md) and set it where it would boil. Deep Voice was
 hungry and thought to himself that there was small chance of a good
 supper.
 
@@ -283,7 +283,7 @@ Chief. The story was all a pretense; and when they got the cap they made
 fun of it and placed it on a pole for the birds to peck at, and the
 stranger to ridicule. The old man is not strong enough to get the cap
 back; but he has been told that a young warrior shall some day procure
-it for him. The Red Swan goes forth [in](errata.htm#1) the Moon of
+it for him. The Red Swan goes forth [in](errata.htm#1.md) the Moon of
 Falling Leaves to seek for this Brave, and she has promised to be the
 wife of him who is successful. My grandchild, many have followed her and
 have
@@ -365,7 +365,7 @@ away, they raised a great shout and ran after it,
 <span id="img_05300"></span>
 
 [![“He flew swiftly toward the magician's lodge.”](tn/05300.jpg)  
-Click to enlarge](img/05300.jpg)  
+Click to enlarge](img/05300.jpg.md)  
 “He flew swiftly toward the magician's lodge.”  
 
 shooting clouds of arrows as they went. The wind which blew the arrows
@@ -411,4 +411,4 @@ women of the tribe.
 
 ------------------------------------------------------------------------
 
-[Next: The Bended Rocks](ait09)
+[Next: The Bended Rocks](ait09.md)

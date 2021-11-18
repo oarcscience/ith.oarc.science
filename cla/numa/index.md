@@ -1,9 +1,9 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
-[<img src="jupiter.jpg" height="300" alt="Jupiter and Semele by Gustave Moreau, 1895" />](jupiter2.jpg)  
+[<img src="jupiter.jpg" height="300" alt="Jupiter and Semele by Gustave Moreau, 1895" />](jupiter2.jpg.md)  
 Jupiter and Semele by Gustave Moreau, 1895 (click to enlarge)
 
 # The Religion of Numa
@@ -25,11 +25,11 @@ Augustus.
 
 ------------------------------------------------------------------------
 
-[Title Page](numa00)  
-[Preface](numa01)  
-[Contents](numa02)  
-[The Religion of Numa](numa03)  
-[The Reorganisation of Servius](numa04)  
-[The Coming of the Sibyl](numa05)  
-[The Decline of Faith](numa06)  
-[The Augustan Renaissance](numa07)  
+[Title Page](numa00.md)  
+[Preface](numa01.md)  
+[Contents](numa02.md)  
+[The Religion of Numa](numa03.md)  
+[The Reorganisation of Servius](numa04.md)  
+[The Coming of the Sibyl](numa05.md)  
+[The Decline of Faith](numa06.md)  
+[The Augustan Renaissance](numa07.md)  

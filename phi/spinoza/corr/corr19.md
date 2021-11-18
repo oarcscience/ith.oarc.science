@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr18)  [Next](corr20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr18)  [Next](corr20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -60,15 +60,15 @@ acknowledge in the uncreated mind and supreme Deity a science and power
 capable of fathoming, and bringing to pass events, whose reason and
 manner can neither be brought home nor explained to us poor human
 pigmies? "We are men;" it appears, that we must " think everything human
-akin to ourselves." <span id="fr_16"></span>[1](#fn_16)
+akin to ourselves." <span id="fr_16"></span>[1](#fn_16.md)
 
 Again, when you say that you cannot understand that God really took upon
 Himself human nature, it becomes allowable to ask you, how you
 understand the texts in the Gospel and the Epistle to the Hebrews,
 whereof the first says, "The Word was made flesh," <span
-id="fr_17"></span>[2](#fn_17) and the other, "For verily he took not on
+id="fr_17"></span>[2](#fn_17.md) and the other, "For verily he took not on
 him the nature of angels; but he took on him the seed of Abraham." <span
-id="fr_18"></span>[3](#fn_18) Moreover, the whole tenor of the Gospel
+id="fr_18"></span>[3](#fn_18.md) Moreover, the whole tenor of the Gospel
 infers, as I think, that the only begotten Son of God, the Word (who
 both was God and was with God), showed Himself in human nature, and by
 His passion and
@@ -92,13 +92,13 @@ London, 16 Dec., 1675.
 
 ### Footnotes
 
-<span id="fn_16"></span>[300:1](corr19.htm#fr_16) Terence, Heaut. I. i.
+<span id="fn_16"></span>[300:1](corr19.htm#fr_16.md) Terence, Heaut. I. i.
 25.
 
-<span id="fn_17"></span>[300:2](corr19.htm#fr_17) John i. 14.
+<span id="fn_17"></span>[300:2](corr19.htm#fr_17.md) John i. 14.
 
-<span id="fn_18"></span>[300:3](corr19.htm#fr_18) Heb. ii. 16.
+<span id="fn_18"></span>[300:3](corr19.htm#fr_18.md) Heb. ii. 16.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXIII. To Oldenburg](corr20)
+[Next: Letter XXIII. To Oldenburg](corr20.md)

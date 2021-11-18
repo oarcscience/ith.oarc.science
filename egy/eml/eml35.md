@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml34)  [Next](eml36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml34)  [Next](eml36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -93,7 +93,7 @@ The dinner consisted of many courses. These Eighteenth-Dynasty guests
 ate the flesh of the ox, the wild goat, or the gazelle, and certain
 fish, but never the tabooed eel, and they partook of geese and ducks and
 other birds in season; pork and mutton were rigidly excluded. <span
-id="fr_132"></span>[1](#fn_132) A variety of vegetables, and fruit and
+id="fr_132"></span>[1](#fn_132.md) A variety of vegetables, and fruit and
 pastries., were included in the menu. In fact all classes feasted well.
 It is not surprising to find that when the Israelites were starving in
 the deserts of Arabia they sighed for the food of Egypt, and said: "Who
@@ -125,7 +125,7 @@ carrying home their masters in various stages of intoxication. Nor were
 the women guiltless in this respect. In the Empire tomb scenes at Thebes
 tipsy ladies are seen supported by servants or attended with bowls when
 they turn sick and their embroidered robes slip from their
-shoulders. <span id="fr_133"></span>[1](#fn_133)
+shoulders. <span id="fr_133"></span>[1](#fn_133.md)
 
 A temperance advocate in ancient Egypt, who lamented the customs of his
 age, addressed his friends as follows: "Do not drink beer to excess. . .
@@ -202,11 +202,11 @@ these deities briefly under review.
 
 Baal signifies "the god the lord", or "the owner and was a term applied
 to the chief or ruler of one of the primitive groups of nameless
-deities <span id="fr_134"></span>[1](#fn_134); his spouse was called
+deities <span id="fr_134"></span>[1](#fn_134.md); his spouse was called
 "Baalath", "the lady". The Baal of Tyre was Melkarth; the Baal of Harran
 was Sin, the moon god; the Baal of Tarsus was an atmospheric or wind
 god; the Baal of Heaven was the sun god. <span
-id="fr_135"></span>[2](#fn_135) There were as many Baals in Asia as
+id="fr_135"></span>[2](#fn_135.md) There were as many Baals in Asia as
 there were Horuses in Egypt.
 
 Sutekh and Baal were generic terms. As we have indicated, Sutekh was the
@@ -259,10 +259,10 @@ not in the fire; and after the fire a still small voice (*1 Kings*, xix,
 11-12).
 
 Baal was thus "the lord" of wind, earthquake, and fire. "In Egypt", says
-Wiedemann, <span id="fr_136"></span>[1](#fn_136) "Baal was regarded as a
+Wiedemann, <span id="fr_136"></span>[1](#fn_136.md) "Baal was regarded as a
 god of the sky--a conception which fairly corresponds to his original
 nature--and as a great but essentially a destructive deity." He was "a
-personification", says Budge, <span id="fr_137"></span>[2](#fn_137) "of
+personification", says Budge, <span id="fr_137"></span>[2](#fn_137.md) "of
 the burning and destroying sun heat and the blazing desert wind".
 Similarly Shu, "the uplifter", was identified with the hot desert winds,
 while his consort Tefnut symbolized the blazing sunlight, and was the
@@ -288,7 +288,7 @@ III at Thebes.
 Sutekh is shown on a scarab with wings and a horned cap, standing upon
 the back of a lion. He was respected by the Egyptians because he
 represented the Hittite power; he was the giver of victory and
-territory. <span id="fr_138"></span>[1](#fn_138) As Set he was despised
+territory. <span id="fr_138"></span>[1](#fn_138.md) As Set he was despised
 in Egypt during the period that he represented a repulsed and powerless
 enemy.
 
@@ -420,7 +420,7 @@ monarchs on their monuments, was also used as an amulet-evidently to
 prevent the demons from devouring the name of the dead.
 
 Among the numerous charms were the "Horus eyes", <span
-id="fr_139"></span>[1](#fn_139) which were ever vigilant to detect evil
+id="fr_139"></span>[1](#fn_139.md) which were ever vigilant to detect evil
 influences. The right eye was the sun and the left the moon, so that
 protection was secured by day and by night.
 
@@ -461,41 +461,41 @@ expended in performing the last material services to the departed.
 
 ### Footnotes
 
-<span id="fn_132"></span>[304:1](eml35.htm#fr_132) Sheep and pigs were
+<span id="fn_132"></span>[304:1](eml35.htm#fr_132.md) Sheep and pigs were
 "taboo" because they were sacred animals which were eaten sacrificially
 only. Shepherds appear to have been shunned like swineherds. Joseph
 informed his brethren that "every shepherd is an abomination unto the
 Egyptians" (*Genesis*. xlvi, 34). (See Chapter V.)
 
-<span id="fn_133"></span>[305:1](eml35.htm#fr_133) Hebrew women were
+<span id="fn_133"></span>[305:1](eml35.htm#fr_133.md) Hebrew women were
 also addicted to drinking. "Now Hannah, she spake in her heart; only her
 lips moved, but her voice was not heard; therefore Eli thought she had
 been drunken." Eli said: "Put away thy wine from thee" (*1 Samuel*, i,
 13-14).
 
-<span id="fn_134"></span>[307:1](eml35.htm#fr_134) Nameless deities are
+<span id="fn_134"></span>[307:1](eml35.htm#fr_134.md) Nameless deities are
 the oldest.
 
-<span id="fn_135"></span>[307:2](eml35.htm#fr_135) Philo of Byblius.
+<span id="fn_135"></span>[307:2](eml35.htm#fr_135.md) Philo of Byblius.
 
-<span id="fn_136"></span>[309:1](eml35.htm#fr_136) *Religion of the
+<span id="fn_136"></span>[309:1](eml35.htm#fr_136.md) *Religion of the
 Ancient Egyptians*.
 
-<span id="fn_137"></span>[309:2](eml35.htm#fr_137) *Gods of the
+<span id="fn_137"></span>[309:2](eml35.htm#fr_137.md) *Gods of the
 Egyptians*.
 
-<span id="fn_138"></span>[310:1](eml35.htm#fr_138) This belief is
+<span id="fn_138"></span>[310:1](eml35.htm#fr_138.md) This belief is
 emphasized in *Judges*, xi, 24: "Wilt not thou possess that which
 Chemosh thy god giveth thee to possess?" Chemosh was the god of the
 Moabitus.
 
-<span id="fn_139"></span>[314:1](eml35.htm#fr_139) These are still on
+<span id="fn_139"></span>[314:1](eml35.htm#fr_139.md) These are still on
 sale in the East.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV: Amenhotep the Magnificent and Queen Tiy](eml36)
+[Next: Chapter XXV: Amenhotep the Magnificent and Queen Tiy](eml36.md)
 
 </div>

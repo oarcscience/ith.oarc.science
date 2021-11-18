@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb24)  [Next](blfb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb24)  [Next](blfb26.md) 
 
 </div>
 
@@ -272,6 +272,6 @@ may make himself a large fur cap out of it.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Snow-White and Rose-Red](blfb26)
+[Next: Snow-White and Rose-Red](blfb26.md)
 
 </div>

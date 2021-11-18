@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](thow23)  [Next](thow25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](thow23)  [Next](thow25.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Wolfings*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -231,6 +231,6 @@ he might wrap the safeguard of the Hauberk round Thiodolf's body.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV—The Goths are Overthrown by the Romans](thow25)
+[Next: Chapter XXIV—The Goths are Overthrown by the Romans](thow25.md)
 
 </div>

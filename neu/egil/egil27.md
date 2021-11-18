@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil26)  [Next](egil28) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil26)  [Next](egil28.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ now a good wind and bright weather, and being in merry mood.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXVII. Slaying of Hallvard and Sigtrygg.](egil28)
+[Next: CHAPTER XXVII. Slaying of Hallvard and Sigtrygg.](egil28.md)

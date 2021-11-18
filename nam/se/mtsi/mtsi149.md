@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi148)  [Next](mtsi150) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi148)  [Next](mtsi150.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ Man-eater threw him down. But he got up and they wrestled again. After
 they had done this for a while she threw him down again. He stood up
 again and when in wrestling around they got close to the basket, the man
 threw the Big Man-eater down, seized the club, killed her, and cut her
-head off. <span id="fr_33"></span>[1](#fn_33) But when Big Man-eater
+head off. <span id="fr_33"></span>[1](#fn_33.md) But when Big Man-eater
 said "Come together," it reunited with the body. When he cut it off
 again, she said, "Come together," and it reunited. It kept on reuniting
 every time, but the fourth time he cut the head off it remained that
@@ -94,7 +94,7 @@ asked. "We throw them over there under that tree," he answered. "Go and
 point out the place." So he guided him and he went there. He reached the
 place and said "Here it is," and there were many human bones piled under
 that tree. Then the youth shot an arrow up and when it came down said,
-"Look out! It will stick into you." <span id="fr_34"></span>[2](#fn_34)
+"Look out! It will stick into you." <span id="fr_34"></span>[2](#fn_34.md)
 "Ofhaha," said the dead man, and awoke and sat down. He shot above the
 next in the same manner and when the arrow descended he awoke and sat
 down. It went on that way until all came to life.
@@ -117,14 +117,14 @@ returned to his place.
 
 ### Footnotes
 
-<span id="fn_33"></span>[130:1](mtsi149.htm#fr_33) According to another
+<span id="fn_33"></span>[130:1](mtsi149.htm#fr_33.md) According to another
 version the cannibal woman struck at him with her war club before he
 reached the ground but he dodged to the other side of the trunk and her
 club stuck fast in it. Afterwards he killed her by means of a stick.
 
-<span id="fn_34"></span>[130:2](mtsi149.htm#fr_34) According to another
+<span id="fn_34"></span>[130:2](mtsi149.htm#fr_34.md) According to another
 version he first fitted the bones together.
 
 ------------------------------------------------------------------------
 
-[Next: 14. The Obstacle Flight](mtsi150)
+[Next: 14. The Obstacle Flight](mtsi150.md)

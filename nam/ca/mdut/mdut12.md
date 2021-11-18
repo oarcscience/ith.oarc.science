@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut11)  [Next](mdut13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut11)  [Next](mdut13.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ thereafter they remained there in the olden time. That is all, they say.
 
 ------------------------------------------------------------------------
 
-[Next: 11. Rolling Skull](mdut13)
+[Next: 11. Rolling Skull](mdut13.md)

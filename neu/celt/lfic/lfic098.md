@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic097)  [Next](lfic099) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic097)  [Next](lfic099.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ its Maker.
 
 ------------------------------------------------------------------------
 
-[Next: The Vision of St Brigid](lfic099)
+[Next: The Vision of St Brigid](lfic099.md)

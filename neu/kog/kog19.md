@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog18)  [Next](kog20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog18)  [Next](kog20.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ And so they drove home again, and he was king and she queen again.
 
 ------------------------------------------------------------------------
 
-[Next: 17. The Soldier and the Devil](kog20)
+[Next: 17. The Soldier and the Devil](kog20.md)

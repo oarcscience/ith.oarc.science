@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits067) [Next](bits069)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits067) [Next](bits069.md)
 
 ------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ Who thus bath nobly trained his mind?"<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 69. World-Cycles](bits069)
+[Next: § 69. World-Cycles](bits069.md)
 
  
 

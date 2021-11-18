@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe183)  [Next](prwe185) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe183)  [Next](prwe185.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ disappeared.
 
 ------------------------------------------------------------------------
 
-[Next: How Mr Lenine gave up Courting](prwe185)
+[Next: How Mr Lenine gave up Courting](prwe185.md)

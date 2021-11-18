@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Next](fotc01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Next](fotc01.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Feuds of the Clans*, by Alexander MacGregor, \[1907\], at
 Intangible Textual Heritage
 
@@ -52,4 +52,4 @@ because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Note](fotc01)
+[Next: Note](fotc01.md)

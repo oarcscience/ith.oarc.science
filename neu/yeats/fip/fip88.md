@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip87)  [Next](fip89) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip87)  [Next](fip89.md) 
 
 ------------------------------------------------------------------------
 
-### T'YEER-NA-N-OGE.--Page [200](fip52.htm#page_200).
+### T'YEER-NA-N-OGE.--Page [200](fip52.htm#page_200.md).
 
 "*Tír-na-n-óg*," Mr. Douglas Hyde writes, "'The Country of the Young',
 is the place where the Irish peasant will tell you *geabhaedh tu an
@@ -20,4 +20,4 @@ carelessness."
 
 ------------------------------------------------------------------------
 
-[Next: The Ganconer or Gancanagh](fip89)
+[Next: The Ganconer or Gancanagh](fip89.md)

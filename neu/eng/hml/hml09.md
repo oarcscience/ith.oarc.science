@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml08)  [Next](hml10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml08)  [Next](hml10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -343,13 +343,13 @@ his basket
 <span id="img_08200"></span>
 
 [![''Havelok again overthrew the porters''](tn/08200.jpg)  
-Click to enlarge](img/08200.jpg)  
+Click to enlarge](img/08200.jpg.md)  
 ''Havelok again overthrew the porters''  
 
 <span id="img_08300"></span>
 
 [!['''Welcome, dear lord!'''](tn/08300.jpg)  
-Click to enlarge](img/08300.jpg)  
+Click to enlarge](img/08300.jpg.md)  
 '''Welcome, dear lord!'''  
 
  
@@ -556,13 +556,13 @@ attacked the inn not one remained alive.
 <span id="img_08800"></span>
 
 [![''With great joy they fell on their knees''](tn/08800.jpg)  
-Click to enlarge](img/08800.jpg)  
+Click to enlarge](img/08800.jpg.md)  
 ''With great joy they fell on their knees''  
 
 <span id="img_08900"></span>
 
 [![''On a miserable jade with his face to the tail''](tn/08900.jpg)  
-Click to enlarge](img/08900.jpg)  
+Click to enlarge](img/08900.jpg.md)  
 ''On a miserable jade with his face to the tail''  
 
  
@@ -766,4 +766,4 @@ queens.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Howard the Halt](hml10)
+[Next: Chapter VI. Howard the Halt](hml10.md)

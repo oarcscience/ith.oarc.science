@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim16)  [Next](anim18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim16)  [Next](anim18.md) 
 
 ------------------------------------------------------------------------
 
@@ -290,4 +290,4 @@ different field from that we now cultivate.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Residua of Animism](anim18)
+[Next: Chapter XVI. Residua of Animism](anim18.md)

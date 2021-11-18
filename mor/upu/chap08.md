@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap07) [Next](chap09)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap07) [Next](chap09.md)
 
 ------------------------------------------------------------------------
 
@@ -519,4 +519,4 @@ government instead of primates of a religious faith.
 
 ------------------------------------------------------------------------
 
-[Next: IX At the Crossways](chap09)
+[Next: IX At the Crossways](chap09.md)

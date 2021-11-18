@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -92,7 +92,7 @@ In the Cotton Library is a manuscript written at the commencement of the
 reign of Henry the Eighth, entitled "A description of the Form and
 Manner, how, and by what Orders and Customs the State of the
 Fellowshyppe of the Myddil Temple is maintained, and what ways they have
-to attaine unto Learning." <span id="fr_590"></span>[\*](#fn_589) It
+to attaine unto Learning." <span id="fr_590"></span>[\*](#fn_589.md) It
 contains a great deal of curious information concerning the government
 of the house, the readings, mot-yngs, boltings, and other exercises
 formerly performed for the advancement
@@ -128,7 +128,7 @@ About the cross-legged knights their hosts."</span>
 the first masse doth begin at seaven of the clock, or thereabouts. On
 festivall days they have mattens and masse solemnly sung; and during the
 matyns singing they have three masses said." <span
-id="fr_591"></span>[\*](#fn_590)
+id="fr_591"></span>[\*](#fn_590.md)
 
 At the commencement of the reign of Henry VIII. a wall was built between
 the Temple Garden and the river; the Inner Temple Hall was "seeled,"
@@ -164,7 +164,7 @@ lodging, reception, and education of the professors and students of the
 laws of England, the said Benchers yielding and paying to the said king,
 his heirs, and successors, ten pounds yearly for the mansion called the
 Inner Temple, and ten pounds yearly for the Middle Temple. <span
-id="fr_592"></span>[\*](#fn_591)
+id="fr_592"></span>[\*](#fn_591.md)
 
 In grateful acknowledgment of this donation, the two societies caused to
 be made, at their mutual cost, "a stately cup of pure gold, weighinge
@@ -189,7 +189,7 @@ fashioned like a pyramid, whereon standeth the statue of a military
 person leaning, with the left hand upon a Roman-fashioned shield or
 target, the which cup his excellent majestie, whilst he lived, esteemed
 for one of his roialest and richest jewells," <span
-id="fr_593"></span>[\*](#fn_592)
+id="fr_593"></span>[\*](#fn_592.md)
 
 Some of the antient orders and regulations for the government of the two
 societies are not unworthy of attention.
@@ -202,7 +202,7 @@ Bench*, and were worthyly expulsed the fellowshyppe of the house, since
 which tyme, upon their humble suite and submission unto the said
 Benchers of the said house, it is agreed that they shall be readmitted
 into the fellowshyppe, and into commons again, without payeing any
-ffine." <span id="fr_594"></span>[†](#fn_593)
+ffine." <span id="fr_594"></span>[†](#fn_593.md)
 
 <span id="page_378">p. 378</span>
 
@@ -230,7 +230,7 @@ feathers or ribbens on their caps! That no attorney should be admitted
 into either of the houses, and that, in all admissions from thenceforth,
 it should be an implied condition, that if the party admitted "should
 practyse any attorneyship," he was *ipso facto* dismissed. <span
-id="fr_595"></span>[\*](#fn_594)
+id="fr_595"></span>[\*](#fn_594.md)
 
 In 1 Jac. I., it was ordered, in obedience to the commands of the king,
 that no one should be admitted a member of either society who was not *a
@@ -255,7 +255,7 @@ boots shall come into our presence."
 The modern Templars for a long period fully maintained the antient
 character and reputation of the Temple for sumptuous and magnificent
 hospitality, although the venison from the royal forests, and the wine
-from the king's cellars, <span id="fr_596"></span>[\*](#fn_595) no
+from the king's cellars, <span id="fr_596"></span>[\*](#fn_595.md) no
 longer made its periodical appearance within the walls of the old
 convent. Sir John Fortescue alludes to the revels and pastimes of the
 Temple in the reign of Henry VI., and several antient writers speak of
@@ -297,7 +297,7 @@ was generally greatly exceeded: "there be few summer readers," we are
 informed in an old MS. account of the readers’ feasts, "who, in half the
 time that heretofore a reading was wont to continue, spent so little as
 threescore bucks, besides red deer; some have spent fourscore, some a
-hundred . . . . . <span id="fr_597"></span>[\*](#fn_596)" The lawyers in
+hundred . . . . . <span id="fr_597"></span>[\*](#fn_596.md)" The lawyers in
 that golden age breakfasted on "brawn and malmsey," and supped on
 "venison pasties and roasted hens!" Among the viands at dinner were
 "faire and large bores’ heads served upon silver platters, with
@@ -399,17 +399,17 @@ tewned their stroke."
 After dinner, prizes were prepared for "tilt and turney, and such
 knighteley pastime, and for their solace they masked with bewtie's dames
 with such heauenly armonie as if Apollo and Orpheus had shewed their
-cunning." <span id="fr_598"></span>[\*](#fn_597)
+cunning." <span id="fr_598"></span>[\*](#fn_597.md)
 
 Masques, revels, plays, and eating and drinking, seem to have been as
 much attended to in the Temple in those days as the grave study of the
 law. Sir Christopher Hatton, a member of the Inner Temple, gained the
 favour of Queen Elizabeth, for his grace and activity in a *masque*
 which was acted before her majesty. He was made vice-chamberlain, and
-afterwards lord chancellor! <span id="fr_599"></span>[†](#fn_598) In
+afterwards lord chancellor! <span id="fr_599"></span>[†](#fn_598.md) In
 A.D. 1568, the tragedy of Tancred and Gismand, the joint production of
 five students of the Inner Temple, was acted at the Temple before queen
-Elizabeth and her court. <span id="fr_600"></span>[‡](#fn_599)
+Elizabeth and her court. <span id="fr_600"></span>[‡](#fn_599.md)
 
 <span id="page_384">p. 384</span>
 
@@ -420,7 +420,7 @@ after, twenty Templars were appointed barristers there inhon our of
 prince Charles, who had lately become prince of Wales, "the chardges
 thereof being defrayed by a contribution of xxxs. from each bencher,
 xvs. from euery barister of seauen years' standing, and xs. a peice from
-all other gentlemen in commons." <span id="fr_601"></span>[\*](#fn_600)
+all other gentlemen in commons." <span id="fr_601"></span>[\*](#fn_600.md)
 
 Of all the pageants prepared for the entertainment of the sovereigns of
 England, the most famous one was that splendid masque, which cost
@@ -493,7 +493,7 @@ musick, and singing," that she desired to see the whole thing *acted
 over again!* whereupon the lord mayor invited their majesties and all
 the Inns of Court men into the city, and entertained them with great
 state and magnificence at Merchant Taylor's Hall. <span
-id="fr_602"></span>[\*](#fn_601)
+id="fr_602"></span>[\*](#fn_601.md)
 
 Many of the Templars who were the foremost in these festive scenes
 afterwards took up arms against their sovereign. Whitelock himself
@@ -550,7 +550,7 @@ secretary of state, were admitted members of
 <span id="page_388">p. 388</span>
 
 the society of the Inner Temple, the duke of York being called to the
-bar and bench. <span id="fr_603"></span>[\*](#fn_602)
+bar and bench. <span id="fr_603"></span>[\*](#fn_602.md)
 
 In 8 Car. II., A.D. 1668, Sir William Turner, lord mayor of London, came
 to the readers’ feast in the Inner Temple with his sword and mace and
@@ -607,7 +607,7 @@ On the 4th of November, 14 Car. II., his highness Rupert prince
 palatine, Thomas earl of Cleveland, Jocelyn lord Percy, John lord
 Berkeley of Stratton, with Henry and Bernard Howard of Norfolk, were
 admitted members of the fellowship of the Inner Temple. <span
-id="fr_604"></span>[\*](#fn_603)
+id="fr_604"></span>[\*](#fn_603.md)
 
 We must now close our remarks on the Temple, with a short account of the
 quarrel with Dr. Micklethwaite, the *custos* or guardian of the Temple
@@ -662,7 +662,7 @@ chaplains, and Edward the Sixth consequently, after the decease of
 William Ermsted, conveyed the lodgings, previously appropriated to the
 officiating ministers, to a Mr. Keilway and his heirs, after which the
 custos and clergymen had no longer *of right* any lodgings at all in the
-Temple. <span id="fr_605"></span>[\*](#fn_604)
+Temple. <span id="fr_605"></span>[\*](#fn_604.md)
 
 From the period of the dissolution of the order of Saint John, down to
 the present time, the *custos*, or, as he is now incorrectly styled,
@@ -709,7 +709,7 @@ drink of the priests, is none; for they are found by my lord of Saint
 John's, and they that are of the fellowshyppe of the house are chardged
 with nothing to the priests, saving that they have eighteen offring days
 in the yeare, so that the chardge of each of them is xviii*d*." <span
-id="fr_606"></span>[\*](#fn_605)
+id="fr_606"></span>[\*](#fn_605.md)
 
 In the reign of James the First, the *custos*, Dr. Micklethwaite, put
 forward certain unheard-of claims and pretensions, which led to a
@@ -755,7 +755,7 @@ well for him that the masters of the benches no longer exercised the
 despotic power of the antient master and chapter, or he would certainly
 have been condemned to the penitential cell in the church, and would not
 have been the first *custos* placed in that unenviable retreat. <span
-id="fr_607"></span>[\*](#fn_606)
+id="fr_607"></span>[\*](#fn_606.md)
 
 The petition was referred to the lords of the council, and afterwards to
 Noy, the attorney-general, and in the mean time the
@@ -808,7 +808,7 @@ highness chiefly in the first.
 I shall call on your servant for it.
 
 "For the honourable Henry Scobell, esq., theise." <span
-id="fr_608"></span>[\*](#fn_607)
+id="fr_608"></span>[\*](#fn_607.md)
 
 During the late repair of the Temple Church, A.D. 1830, the workmen
 discovered an antient seal of the order of the Hospital, which was
@@ -843,65 +843,65 @@ PRINTED BY G. J. PALMER, SAVOY STREET, STRAND.</span>
 
 ### Footnotes
 
-<span id="fn_589"></span>[374:\*](hkt16.htm#fr_590) MS. *Bib. Cotton*.
+<span id="fn_589"></span>[374:\*](hkt16.htm#fr_590.md) MS. *Bib. Cotton*.
 Vitellius, c. 9, fol. 320, a.
 
-<span id="fn_590"></span>[375:\*](hkt16.htm#fr_591) MS. *Bib. Cotton*,
+<span id="fn_590"></span>[375:\*](hkt16.htm#fr_591.md) MS. *Bib. Cotton*,
 c. 9, fol. 320, a.
 
-<span id="fn_591"></span>[376:\*](hkt16.htm#fr_592) *Hargrave*, MS. No.
+<span id="fn_591"></span>[376:\*](hkt16.htm#fr_592.md) *Hargrave*, MS. No.
 19, 81. f. 5. fol. 46.
 
-<span id="fn_592"></span>[377:\*](hkt16.htm#fr_593) MS. in Bib. In.
+<span id="fn_592"></span>[377:\*](hkt16.htm#fr_593.md) MS. in Bib. In.
 Temp., No. 19, fol.
 
-<span id="fn_593"></span>[377:†](hkt16.htm#fr_594) In. Temp. Ad.
+<span id="fn_593"></span>[377:†](hkt16.htm#fr_594.md) In. Temp. Ad.
 Parliament, ibm. XV. die Novembris Anno Philippi et Mariæ tertio et
 quarto, coram Johe Baker Milite, Nicho Hare Milite, Thoma Whyte Milite,
 et al. MS. Bib. In. Tem. Div. 9, shelf 5, vol. xvii. fol. 393.
 
-<span id="fn_594"></span>[378:\*](hkt16.htm#fr_595) Ex registr. In.
+<span id="fn_594"></span>[378:\*](hkt16.htm#fr_595.md) Ex registr. In.
 Temp., f. 112, 119, b. Med. Temp., f. 24, a. *Dugd*., Orig. Jurid., p.
 310, 311.
 
-<span id="fn_595"></span>[379:\*](hkt16.htm#fr_596) Ante, [p.
-180](hkt10.htm#page_180).
+<span id="fn_595"></span>[379:\*](hkt16.htm#fr_596.md) Ante, [p.
+180](hkt10.htm#page_180.md).
 
-<span id="fn_596"></span>[380:\*](hkt16.htm#fr_597) *Dugd*. Orig. Jurid.
+<span id="fn_596"></span>[380:\*](hkt16.htm#fr_597.md) *Dugd*. Orig. Jurid.
 p. 316. *Herbert* Antiq., p. 223 to 272.
 
-<span id="fn_597"></span>[383:\*](hkt16.htm#fr_598) *Leigh's* Armorie,
+<span id="fn_597"></span>[383:\*](hkt16.htm#fr_598.md) *Leigh's* Armorie,
 fol. 119. ed. 1576.
 
-<span id="fn_598"></span>[383:†](hkt16.htm#fr_599) *Naunton's* Fragmenta
+<span id="fn_598"></span>[383:†](hkt16.htm#fr_599.md) *Naunton's* Fragmenta
 Regalia, p. 248.
 
-<span id="fn_599"></span>[383:‡](hkt16.htm#fr_600) *Chalmer's* Dict.
+<span id="fn_599"></span>[383:‡](hkt16.htm#fr_600.md) *Chalmer's* Dict.
 Biograph., vol. xvii. p. 227.
 
-<span id="fn_600"></span>[384:\*](hkt16.htm#fr_601) *Dugd*. Orig.
+<span id="fn_600"></span>[384:\*](hkt16.htm#fr_601.md) *Dugd*. Orig.
 Jurid., p. 150. Ex registro Hosp. In. Temp. f. 123.
 
-<span id="fn_601"></span>[386:\*](hkt16.htm#fr_602) *Whitelock's*
+<span id="fn_601"></span>[386:\*](hkt16.htm#fr_602.md) *Whitelock's*
 Memorials, p. 18-22. Ed. 1732.
 
-<span id="fn_602"></span>[388:\*](hkt16.htm#fr_603) *Dugd*. Orig. p.
+<span id="fn_602"></span>[388:\*](hkt16.htm#fr_603.md) *Dugd*. Orig. p.
 157. *Biog. Brit.* vol. xiv. p. 305.
 
-<span id="fn_603"></span>[389:\*](hkt16.htm#fr_604) Dugd. Orig. p. 158.
+<span id="fn_603"></span>[389:\*](hkt16.htm#fr_604.md) Dugd. Orig. p. 158.
 
-<span id="fn_604"></span>[391:\*](hkt16.htm#fr_605) Harleian MS., No.
+<span id="fn_604"></span>[391:\*](hkt16.htm#fr_605.md) Harleian MS., No.
 830.
 
-<span id="fn_605"></span>[392:\*](hkt16.htm#fr_606) MS. Bib. Cotton.
+<span id="fn_605"></span>[392:\*](hkt16.htm#fr_606.md) MS. Bib. Cotton.
 Vitellius, c. 9. fol. 320 a.
 
-<span id="fn_606"></span>[393:\*](hkt16.htm#fr_607) See the examination
+<span id="fn_606"></span>[393:\*](hkt16.htm#fr_607.md) See the examination
 of Brother Radulph de Barton, priest of the order of the Temple, and
 *custos* of the Temple Church, before the papal inquisitors at
 London.--*Concil. Mag. Brit.*, tom. ii. p. 335, 337, ante, p. 221, 222.
 
-<span id="fn_607"></span>[395:\*](hkt16.htm#fr_608) *Peck*, Desiderata
+<span id="fn_607"></span>[395:\*](hkt16.htm#fr_608.md) *Peck*, Desiderata
 Curiosa, lib. xiii. p. 504, 505. Ed. 1779.
 
  

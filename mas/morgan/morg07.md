@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](morg06)  [Next](morg08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](morg06)  [Next](morg08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Illustrations of Masonry*, by William Morgan, \[1827\], at Intangible
 Textual Heritage
 
@@ -26,7 +26,7 @@ qualifications that recommend a man to Masonry."
 "A second reason?"
 
 Ans. "There was neither the sound of an axe, hammer, or any other metal
-tool heard at the building of King [Solomon's](errata.htm#3) temple."
+tool heard at the building of King [Solomon's](errata.htm#3.md) temple."
 
 "How could so stupendous a fabric be erected without the sound of axe,
 hammer, or any other metal tool?"
@@ -191,4 +191,4 @@ Masonic edifice upon."
 
 ------------------------------------------------------------------------
 
-[Next: Third Section of the Lecture on the First Degree](morg08)
+[Next: Third Section of the Lecture on the First Degree](morg08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi079)  [Next](mtsi081) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi079)  [Next](mtsi081.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ live with the dead snake," they said. "You are corrupt like him."
 
 ------------------------------------------------------------------------
 
-[Next: 79. The Flight to the Tree](mtsi081)
+[Next: 79. The Flight to the Tree](mtsi081.md)

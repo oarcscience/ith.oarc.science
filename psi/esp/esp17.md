@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp16)  [Next](esp18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp16)  [Next](esp18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -198,7 +198,7 @@ inapplicable by the distance data. All radiant energy declines in
 intensity with the square of the distance from the source. We should
 then find that other things being equal, distance would bring about a
 sharp decline in P.T. scoring. Turning to Tables
-[XXXVI](esp15.htm#an_tab36) and [XXXVII](esp15.htm#an_tab37) in Chapter
+[XXXVI](esp15.htm#an_tab36) and [XXXVII](esp15.htm#an_tab37.md) in Chapter
 8, we see that this is not the case with P.T. In fact, it is just the
 opposite, distance-P.T. giving higher scores than did P.T. in the same
 room with the agent. In view of the large number of trials, 3,300 in the
@@ -379,14 +379,14 @@ regarded conservatively but the facts seem to compel us rather in that
 direction.
 
 The D.T. curves under discussion may be seen in [Graph No.
-1](#img_gr01).
+1](#img_gr01.md).
 
 <span id="img_gr01"></span> <span align="CENTER"> [![Graph No. 1. This
 shows the success in scoring in D.T. as distributed over the average run
 (of 25), indicated for each 5 cards down through the pack. Curve A
 represents 3,350 trials in D.T. by Miss Ownbey. Curve B represents 4,225
 trials in D.T. by Pearce, Stuart, Cooper, and Linzmayer.](tn/gr01.jpg)  
-Click to enlarge](img/gr01.jpg)  
+Click to enlarge](img/gr01.jpg.md)  
 Graph No. 1. This shows the success in scoring in D.T. as distributed
 over the average run (of 25), indicated for each 5 cards down through
 the pack. Curve A represents 3,350 trials in D.T. by Miss Ownbey. Curve
@@ -411,14 +411,14 @@ divided and plotted, it gives two curves of this form, almost identical.
 The individuals whose results are drawn up in Curve A do not all have
 the same rate of scoring. They differ quite widely. Also they have
 different low points. But they all agree in being higher in the top and
-bottom fives, and lowest in the middle fifteen. [Graph No. 2](#img_gr02)
+bottom fives, and lowest in the middle fifteen. [Graph No. 2](#img_gr02.md)
 will show their individual curves.
 
 <span id="img_gr02"></span> <span align="CENTER"> [![Graph No. 2. Same
 as Graph No. 1 in principle, with curves as follows: Curve 1 represents
 1,500 trials by Pearce; Curve 2, 1,200 by Cooper; Curve 3, 1,000 by
 Linzmayer; Curve 4, 1,000 by Stuart.](tn/gr02.jpg)  
-Click to enlarge](img/gr02.jpg)  
+Click to enlarge](img/gr02.jpg.md)  
 Graph No. 2. Same as Graph No. 1 in principle, with curves as follows:
 Curve 1 represents 1,500 trials by Pearce; Curve 2, 1,200 by Cooper;
 Curve 3, 1,000 by Linzmayer; Curve 4, 1,000 by Stuart.  
@@ -427,4 +427,4 @@ Curve 3, 1,000 by Linzmayer; Curve 4, 1,000 by Stuart.
 ------------------------------------------------------------------------
 
 [Next: Chapter 11. Some Physiological Conditions Affecting
-E.S.P.](esp18)
+E.S.P.](esp18.md)

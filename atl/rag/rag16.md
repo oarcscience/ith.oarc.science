@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag15)  [Next](rag17) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag15)  [Next](rag17.md) 
 
 ------------------------------------------------------------------------
 
@@ -387,4 +387,4 @@ civilized.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Legends Of The Coming Of The Comet](rag17)
+[Next: Chapter III. Legends Of The Coming Of The Comet](rag17.md)

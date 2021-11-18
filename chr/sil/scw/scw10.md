@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw09) [Next](scw11)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw09) [Next](scw11.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -627,4 +627,4 @@ She perished of the cold, for all men passed her by.<br />
 
 ------------------------------------------------------------------------
 
-[Next](scw11)
+[Next](scw11.md)

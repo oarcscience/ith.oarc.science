@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor00)  [Next](sor02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor00)  [Next](sor02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -363,4 +363,4 @@ Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sor02)
+[Next: Introduction](sor02.md)

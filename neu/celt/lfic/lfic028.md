@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic027)  [Next](lfic029) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic027)  [Next](lfic029.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ terror.
 
 ------------------------------------------------------------------------
 
-[Next: The Pooka of Murroe](lfic029)
+[Next: The Pooka of Murroe](lfic029.md)

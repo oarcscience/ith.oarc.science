@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb34)  [Next](ttb36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb34)  [Next](ttb36.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_48">p. 48</span>
 
-<span id="img_04800"></span> ![Eh-Kolie, The Whale](img/04800.jpg)
+<span id="img_04800"></span> ![Eh-Kolie, The Whale](img/04800.jpg.md)
 
 ### Eh-Kolie, THE WHALE
 
@@ -66,4 +66,4 @@ and over: "Kaw-kaw, some people never know their luck."
 
 ------------------------------------------------------------------------
 
-[Next: The Young Raven](ttb36)
+[Next: The Young Raven](ttb36.md)

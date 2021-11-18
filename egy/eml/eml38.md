@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml37)  [Next](eml39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml37)  [Next](eml39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -92,7 +92,7 @@ of Set--not the old Egyptianized devil Set, but the Set who slew the
 Apep serpent, and was identified with Horus.
 
 The Set of Rameses II, son of Seti I, <span
-id="fr_153"></span>[1](#fn_153) wore a conical hat like a typical
+id="fr_153"></span>[1](#fn_153.md) wore a conical hat like a typical
 Hittite deity, arid from it was suspended a long rope or pigtail; he was
 also winged like the Horus sun disk. On a small plaque of glazed
 steatite this "wonderful deity" is depicted "piercing a serpent with a
@@ -112,7 +112,7 @@ the Osirian legends there is no reason why he should have considered. it
 necessary to preserve eternal silence.
 
 In a particular type of the dragon-slaying stories of Europe, <span
-id="fr_154"></span>[2](#fn_154) which may have gone north from Asia
+id="fr_154"></span>[2](#fn_154.md) which may have gone north from Asia
 Minor
 
 <span id="page_341">p. 341</span>
@@ -122,13 +122,13 @@ deity--places his finger in his mouth for a significant reason. After
 Siegfried killed the dragon he roasted its heart, and when he tasted it
 he immediately understood the language of birds. Sigurd, the Norse
 dragon slayer, is depicted with his thumb in his mouth after slaying
-Fafher. <span id="fr_155"></span>[1](#fn_155) The Highland Finn, the
+Fafher. <span id="fr_155"></span>[1](#fn_155.md) The Highland Finn, the
 slayer of Black Arky, discovered that he had a tooth of knowledge when
 he roasted a salmon, and similarly thrust his burnt finger into his
-mouth. <span id="fr_156"></span>[2](#fn_156) In the Nineteenth-Dynasty
+mouth. <span id="fr_156"></span>[2](#fn_156.md) In the Nineteenth-Dynasty
 fragmentary Egyptian folktale, "Setna and the Magic Book", which has
 been partially reconstructed by Professor Petrie, <span
-id="fr_157"></span>[1](#fn_155) Ahura relates: "He gave the book into my
+id="fr_157"></span>[1](#fn_155.md) Ahura relates: "He gave the book into my
 hands; and when I read a page of the spells in it, I also enchanted
 heaven and earth, the mountains and the sea; I also knew what the birds
 of the sky, the fishes of the deep, and the beasts of the hill all
@@ -145,10 +145,10 @@ with him a second time; but he came to life again, and took a third
 form. He then cut him in two parts, and put sand between the parts, that
 he should not appear again" (Petrie). Dietrich von Bern experienced a
 similar difficulty in slaying Hilde, the giantess, so as to rescue
-Hildebrand from her clutches, <span id="fr_158"></span>[1](#fn_157) and
+Hildebrand from her clutches, <span id="fr_158"></span>[1](#fn_157.md) and
 Hercules was unable to put an end to the Hydra until Iolaus came to his
 assistance with a torch to prevent the growth of heads after
-decapitation. <span id="fr_159"></span>[2](#fn_158) Hercules buried the
+decapitation. <span id="fr_159"></span>[2](#fn_158.md) Hercules buried the
 last head in the ground, thus imitating Ahura, who "put sand between the
 parts" of the "deathless snake". All these versions of a well-developed
 tale appear to be offshoots of the great Cilician legend of "The War of
@@ -163,7 +163,7 @@ southward through Palestine and were even threatening the Egyptian
 frontier. Indeed, large numbers of their colonists appear to have
 effected settlement at Tanis, where Sutekh and Astarte had become
 prominent deities. Rameses I arranged a peace treaty <span
-id="fr_160"></span>[3](#fn_159) with their king, Sapalul (Shubiluliuma),
+id="fr_160"></span>[3](#fn_159) with their king, Sapalul (Shubiluliuma.md),
 although he never fought a battle, which suggests that the two men were
 on friendly terms. The mother of Seti may have been a Hittite or Mitanni
 princess, the daughter or grandchild
@@ -291,7 +291,7 @@ won for Egypt. In the end he had to content himself with the
 overlordship of Palestine and part of Phœnicia. Mutalla, the Hittite
 king, had to deal with a revolt among his allies, especially the
 Aramæans, and was killed, and his brother Khattusil II, <span
-id="fr_161"></span>[1](#fn_160) who succeeded him, entered into an
+id="fr_161"></span>[1](#fn_160.md) who succeeded him, entered into an
 offensive and defensive alliance with Rameses, probably against Assyria,
 which had grown powerful and aggressive. The treaty, which was drawn up
 in 1271 B.C., made reference to previous agreements, but these,
@@ -402,7 +402,7 @@ MUMMY HEADS OF NOTABLE PHARAOHS
  
 
 run the island kingdom. Included among them were the Shardana <span
-id="fr_162"></span>[1](#fn_161) and Danauna (? the "Danaoi" of Homer)
+id="fr_162"></span>[1](#fn_161) and Danauna (? the "Danaoi" of Homer.md)
 who were represented among the mercenaries of Pharaoh's army, the
 Akhaivasha, the Shakalsha, and the Tursha. It is believed that the
 Akhaivasha were the Achæans, the big, blonde, grey-eyed warriors
@@ -445,7 +445,7 @@ It is evident that the great raid was well organized and under the
 supreme command of an experienced leader. A land force moved down the
 coast of Palestine to co-operate with the fleet, and with it came the
 raiders' wives and children and their goods and chattels conveyed in
-wheel carts. <span id="fr_163"></span>[1](#fn_162) Rameses III was
+wheel carts. <span id="fr_163"></span>[1](#fn_162.md) Rameses III was
 prepared for the invasion. A land force guarded his Delta frontier and
 his fleet awaited the coming of the sea raiders. The first naval battle
 in history was fought within sight of the Egyptian coast, and the
@@ -474,7 +474,7 @@ set sail in a fleet of sixty ships, and besieged the city of Troy. This
 war of succession became the subject of Homer's great epic, the *Iliad*,
 which deals with a civilization of the "Chalkosideric" period--the
 interval between the Bronze and Iron Ages. <span
-id="fr_164"></span>[1](#fn_163)
+id="fr_164"></span>[1](#fn_163.md)
 
 Meanwhile Egypt had rest from its enemies. Rameses reigned for over
 thirty years. He had curbed the Libyans and the Nubians as well as the
@@ -492,11 +492,11 @@ from within.
 
 ### Footnotes
 
-<span id="fn_153"></span>[340:1](eml38.htm#fr_153) Griffiths in
+<span id="fn_153"></span>[340:1](eml38.htm#fr_153.md) Griffiths in
 *Proceedings of the Society of Biblical Archæology*, Volume XVI, pp.
 88-9.
 
-<span id="fn_154"></span>[340:2](eml38.htm#fr_154) One must distinguish
+<span id="fn_154"></span>[340:2](eml38.htm#fr_154.md) One must distinguish
 between the various kinds of mythical monsters slumped as "dragons". The
 "fiery flying serpent" may resemble the "fire drake", but both <span
 id="page_341">p. 341</span> differ from the "cave dragon" which does not
@@ -507,41 +507,41 @@ the water "beast" order; the dragon which causes the hero's death is a
 "fire drake". Egypt has also its flood and fire monsters. Thor slew the
 Midgard serpent at the battle of the "Dusk of the Gods".
 
-<span id="fn_155"></span>[341:1](eml38.htm#fr_157) *Teutonic Myth and
+<span id="fn_155"></span>[341:1](eml38.htm#fr_157.md) *Teutonic Myth and
 Legend*.
 
-<span id="fn_156"></span>[341:2](eml38.htm#fr_156) *Finn and his Warrior
+<span id="fn_156"></span>[341:2](eml38.htm#fr_156.md) *Finn and his Warrior
 Band*. The salmon is associated with the water "dragon"; the "essence",
 or soul, of the demon was in the fish, as the "essence" of Osiris was in
 Amon. It would appear that the various forms of the monster had to be
 slain to complete its destruction. This conception is allied to the
 belief in transmigration of souls.
 
-<span id="fn_157"></span>[342:1](eml38.htm#fr_158) *Teutonic Myth and
+<span id="fn_157"></span>[342:1](eml38.htm#fr_158.md) *Teutonic Myth and
 Legend*. In Swedish and Gaelic stories similar incidents occur.
 
-<span id="fn_158"></span>[342:2](eml38.htm#fr_159) *Classic Myth and
+<span id="fn_158"></span>[342:2](eml38.htm#fr_159.md) *Classic Myth and
 Legend*. The colourless character of the Egyptian legend suggests that
 it was imported, like Sutekh; its significance evidently faded in the
 new geographical setting.
 
-<span id="fn_159"></span>[342:3](eml38.htm#fr_160) It is referred to in
+<span id="fn_159"></span>[342:3](eml38.htm#fr_160.md) It is referred to in
 the subsequent treaty between Rameses II and the Hittite king.
 
-<span id="fn_160"></span>[346:1](eml38.htm#fr_161) Known to the
+<span id="fn_160"></span>[346:1](eml38.htm#fr_161.md) Known to the
 Egyptians as Khetasar.
 
-<span id="fn_161"></span>[349:1](eml38.htm#fr_162) The old Cretans, the
+<span id="fn_161"></span>[349:1](eml38.htm#fr_162.md) The old Cretans, the
 "Keftiu", are not referred to by the Egyptians after the reign of
 Amenhotep III. These newcomers were evidently the destroyers of the
 great palace at Knossos.
 
-<span id="fn_162"></span>[350:1](eml38.htm#fr_163) When the Philistines
+<span id="fn_162"></span>[350:1](eml38.htm#fr_163.md) When the Philistines
 were advised by their priests to return the ark to the Israelites it was
 commanded: "Now, therefore make a new cart and take two milch kine and
 tie the kine to the cart".--(*1 Samuel* vi, 7).
 
-<span id="fn_163"></span>[351:1](eml38.htm#fr_164) The Cuchullin saga of
+<span id="fn_163"></span>[351:1](eml38.htm#fr_164.md) The Cuchullin saga of
 Ireland belongs to the same archæological period; bronze and iron
 weapons were used. Cuchullin is the Celtic Achilles; to both heroes were
 attached the attributes of some old tribal god. The spot on the heel of
@@ -551,6 +551,6 @@ Achilles is shared by the more primitive Diarmid of the Ossianic saga.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII: Egypt and the Hebrew Monarchy](eml39)
+[Next: Chapter XXVIII: Egypt and the Hebrew Monarchy](eml39.md)
 
 </div>

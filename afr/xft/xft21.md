@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](xft20)  [Next](xft22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](xft20)  [Next](xft22.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kaffir (Xhosa) Folk-Lore*, by George McCall Theal, \[1886\], at
 Intangible Textual Heritage
 
@@ -54,6 +54,6 @@ stomach. His stomach was given to him, and then he went home.
 
 ------------------------------------------------------------------------
 
-[Next: Story Of The Wonderful Horns](xft22)
+[Next: Story Of The Wonderful Horns](xft22.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce18)  [Next](sce20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce18)  [Next](sce20.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ was ripe for the Grave.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10](sce20)
+[Next: Chapter 10](sce20.md)

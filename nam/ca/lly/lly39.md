@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly38)  [Next](lly40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly38)  [Next](lly40.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ as the boiled domestic onion of today.
 
 ------------------------------------------------------------------------
 
-[Next: Berries and Nuts](lly40)
+[Next: Berries and Nuts](lly40.md)

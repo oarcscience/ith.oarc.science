@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](nsd09)  [Next](nsd11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](nsd09)  [Next](nsd11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Notes on the Shoshonean Dialects of Southern California*, by A. L.
 Kroeber, \[1909\], at Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Kroeber, \[1909\], at Intangible Textual Heritage
 
 ### GIAMINA.
 
-The Giamina have been described <span id="fr_19"></span>[18](#fn_18) as
+The Giamina have been described <span id="fr_19"></span>[18](#fn_18.md) as
 a tribe in the San Joaquin valley, near Poso creek, and of doubtful
 affiliation. A short vocabulary of about twenty words purporting to be
 of the Giamina language was obtained from an old man unable to give
@@ -107,7 +107,7 @@ priori* not so unlikely as might seem. Besides the quite fundamentally
 divergent and isolated Kern River branch, the region adjacent to the
 southernmost Sierra Nevada contains the specialized Shikaviyam dialect,
 and the also specialized Kawaiisu offshoot of the Ute-Chemehuevi group.
-Among the Yokuts, the Paleuyami, <span id="fr_20"></span>[19](#fn_19)
+Among the Yokuts, the Paleuyami, <span id="fr_20"></span>[19](#fn_19.md)
 whose dialect is certainly much distorted from ordinary
 
 <span id="page_265">p. 265</span>
@@ -115,7 +115,7 @@ whose dialect is certainly much distorted from ordinary
 <span class="contnote">\[paragraph continues\]</span> Yokuts, occupied
 Poso creek, the same stream to which the Giamina are attributed. A short
 distance to the north, on the upper San Joaquin, were the
-Toltichi, <span id="fr_21"></span>[20](#fn_20) whose relation to the
+Toltichi, <span id="fr_21"></span>[20](#fn_20.md) whose relation to the
 Yokuts, according to the present state of knowledge, was parallel to
 that which the Giamina bear to the Shoshonean family. The region is
 therefore one in which the crowding together of distinct languages, or
@@ -129,13 +129,13 @@ between the Kern River and Southern California branches of Shoshonean.
 
 ### Footnotes
 
-<span id="fn_18"></span>[263:18](nsd10.htm#fr_19) *Ibid*., 126.
+<span id="fn_18"></span>[263:18](nsd10.htm#fr_19.md) *Ibid*., 126.
 
-<span id="fn_19"></span>[264:19](nsd10.htm#fr_20) Present series, II,
+<span id="fn_19"></span>[264:19](nsd10.htm#fr_20.md) Present series, II,
 313, 347.
 
-<span id="fn_20"></span>[265:20](nsd10.htm#fr_21) *Ibid*., II, 354.
+<span id="fn_20"></span>[265:20](nsd10.htm#fr_21.md) *Ibid*., II, 354.
 
 ------------------------------------------------------------------------
 
-[Next: General Comparisons](nsd11)
+[Next: General Comparisons](nsd11.md)

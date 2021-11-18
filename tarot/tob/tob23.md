@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob22) 
-[Next](tob24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob22.md) 
+[Next](tob24.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob22) 
 
 <span id="img_wiar09"></span>
 
-![THE HERMIT.](img/wiar09.jpg)  
+![THE HERMIT.](img/wiar09.jpg.md)  
 THE HERMIT.
 
    <span id="img_msar09"></span>
 
-![THE HERMIT.](img/msar09.jpg)  
+![THE HERMIT.](img/msar09.jpg.md)  
 THE HERMIT.
 
 9\. ט
@@ -140,4 +140,4 @@ following ternary.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The Wheel of Fortune](tob24)
+[Next: 10. The Wheel of Fortune](tob24.md)

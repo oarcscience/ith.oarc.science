@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw26)  [Next](omw28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw26)  [Next](omw28.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_04100"></span>
 
 [![Jamshīd the Resplendent](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)  
+Click to enlarge](img/04100.jpg.md)  
 Jamshīd the Resplendent  
 
 # PERSIAN
@@ -393,4 +393,4 @@ will begin for men as was in the time of Jamshīd the Resplendent.
 
 ------------------------------------------------------------------------
 
-[Next: The Angels and the Creation and Fall of Man](omw28)
+[Next: The Angels and the Creation and Fall of Man](omw28.md)

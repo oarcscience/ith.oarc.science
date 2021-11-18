@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng45)  [Next](vlsng47) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng45)  [Next](vlsng47.md) 
 
 ------------------------------------------------------------------------
 
@@ -300,4 +300,4 @@ battle, and Helgi had given peace to, and taken oaths of Dag.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix II: Part Of The Lay Of Sigrdrifa](vlsng47)
+[Next: Appendix II: Part Of The Lay Of Sigrdrifa](vlsng47.md)

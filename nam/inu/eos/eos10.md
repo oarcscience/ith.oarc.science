@@ -1,23 +1,23 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index) 
-[Siberian](../../../asia/index.htm#siberia)  [Index](index) 
-[Previous](eos09)  [Next](eos11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index.md) 
+[Siberian](../../../asia/index.htm#siberia)  [Index](index.md) 
+[Previous](eos09)  [Next](eos11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eskimo of Siberia*, by Waldemar Bogoras, \[1913\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-### 9. The Brothers held Captive on an Island. <span id="fr_5"></span>[1](#fn_5)
+### 9. The Brothers held Captive on an Island. <span id="fr_5"></span>[1](#fn_5.md)
 
    Two brothers were carried away by a gale, and came to an island in
 the ocean. The islanders captured them. The younger brother set off in
@@ -48,10 +48,10 @@ Indian Point, May, 1901.
 
 ### Footnotes
 
-<span id="fn_5"></span>[430:1](eos10.htm#fr_5) The narrator indicated
+<span id="fn_5"></span>[430:1](eos10.htm#fr_5.md) The narrator indicated
 that the island in question was the larger one of the Diomede Islands in
 Bering Strait.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The Man who used Magic against the Storm.](eos11)
+[Next: 10. The Man who used Magic against the Storm.](eos11.md)

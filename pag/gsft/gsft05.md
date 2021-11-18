@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft04) 
-[Next](gsft06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft04.md) 
+[Next](gsft06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gypsy Sorcery and Fortune Telling*, by Charles Godfrey Leland,
 \[1891\], at Intangible Textual Heritage
 
@@ -211,7 +211,7 @@ effective way of becoming the last note in an octave, than by awaiting
 the slow processes of being begotten or born, inasmuch as they boldly
 declare themselves to be sevenths, which I am assured answers every
 purpose, as nobody ever asks to see their certificates of baptism any
-more than of marriage. <span id="fr_6"></span>[1](#fn_6)
+more than of marriage. <span id="fr_6"></span>[1](#fn_6.md)
 
 Most of these witch-wives—also known in Hungary as *cohalyi*, or "wise
 women," or *gule romni*, "sweet" or "charming women"—are trained up from
@@ -542,7 +542,7 @@ form of names in gardens. If it grows well the one who plants it will
 win the love of the person indicated.
 
 As regards the use of coals in incantations, MARCELLUS
-BURDIGALENSIS, <span id="fr_7"></span>[1](#fn_7) a Latin physician of
+BURDIGALENSIS, <span id="fr_7"></span>[1](#fn_7.md) a Latin physician of
 the third century, who has left us a collection of Latin and Gaelic
 charms, recommends for a cure for toothache: "Salis granum, panis micam,
 carbonem mortuum in phœnicio alligabis," *i.e.*, to carry a grain of
@@ -581,7 +581,7 @@ and ceremonies are had recourse to. This incantation indicates, like
 many others, a constant dwelling in lonely places, by wood and stream,
 as gypsies wont to do, and sweet familiarity with Nature, until one
 hears sermons in stones, books in the running brooks, and voices in the
-wind. <span id="fr_8"></span>[1](#fn_8) Civilized people who read about
+wind. <span id="fr_8"></span>[1](#fn_8.md) Civilized people who read about
 Red Indian sorcerers and gypsy witches very promptly conclude that they
 are mere humbugs or lunatics—they do not realize how these people, who
 pass half their lives in wild places watching waving grass and falling
@@ -917,7 +917,7 @@ have the very oldest form of witchcraft known, that is incarnate disease
 in numbers allied to child-stealing. This spell of the Tresevica. is
 attributed, says Dr. GASTER, to Pope JEREMIA, the founder of Bogomilism
 (the great Oriental Slavonian heresy which spread over Europe in the
-Middle Ages and prepared the way for [Protestantism](errata.htm#1).
+Middle Ages and prepared the way for [Protestantism](errata.htm#1.md).
 "There is no doubt, therefore, that the spell is derived from the East,
 and I have else
 
@@ -957,7 +957,7 @@ that of the Herodias of the New Testament.
 
 ### Footnotes
 
-<span id="fn_6"></span>[46:1](gsft05.htm#fr_6) Of the seventh son,
+<span id="fn_6"></span>[46:1](gsft05.htm#fr_6.md) Of the seventh son,
 PIPERNUS remarks in his book, "De Effectibus Magicis" (1647): "Est ne
 sanandi superstitiosus modus eorum, qui orti sunt die Parasceves, et
 quotquot nullo fœmines sexu intercedente, ac ab ortu septimi masculi
@@ -965,7 +965,7 @@ legitimo thoro sunt nati? memorat VAIRUS, I. de fascinatione; II. DEL
 RIUS, lib. i., part 21. GARZONIUS nel Serraglio. J. CÆSAR BARICELLUS
 secundus scriptor in hort. genialé."
 
-<span id="fn_7"></span>[54:1](gsft05.htm#fr_7) "Uber Marcellus
+<span id="fn_7"></span>[54:1](gsft05.htm#fr_7.md) "Uber Marcellus
 Burdigalensis, von Jacob Grimm. Gelesen in der Academie der
 Wisscnschaften," 28 Juni, 1847 (Berlin. DUMMLER). In this work, as well
 as in the German Mythology, by the same author, and in RUDOLF ROTH'S
@@ -973,7 +973,7 @@ as in the German Mythology, by the same author, and in RUDOLF ROTH'S
 find, as also in the works of the elder CATO and PLINY, numbers of these
 incantations.
 
-<span id="fn_8"></span>[55:1](gsft05.htm#fr_8) The divination by the
+<span id="fn_8"></span>[55:1](gsft05.htm#fr_8.md) The divination by the
 running brook has been known in other lands. The Highlanders when they
 consulted an oracle took their seer, wrapped him in the hide of a
 newly-killed ox or sheep, and left him in some wild ravine by a roaring
@@ -988,6 +988,6 @@ Charles G. Leland).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: South Slavonian and other Gypsy Witch-lore](gsft06)
+[Next: Chapter IV: South Slavonian and other Gypsy Witch-lore](gsft06.md)
 
 </div>

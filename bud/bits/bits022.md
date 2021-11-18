@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits021) [Next](bits023)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits021) [Next](bits023.md)
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ of an awl, or for a painting in the sky.
 
 ------------------------------------------------------------------------
 
-[Next: § 23. The Origin and Cessation of the Human Being](bits023)
+[Next: § 23. The Origin and Cessation of the Human Being](bits023.md)
 
  
 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe190)  [Next](prwe192) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe190)  [Next](prwe192.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ Legends](../../index)  [English Folklore](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Christmas-Eve in the Mines](prwe192)
+[Next: Christmas-Eve in the Mines](prwe192.md)

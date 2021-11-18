@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb17)  [Next](refb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb17)  [Next](refb19.md) 
 
 </div>
 
@@ -155,6 +155,6 @@ like ordinary mortals all the world over.\[13\]
 
 ------------------------------------------------------------------------
 
-[Next: The Six Sillies](refb19)
+[Next: The Six Sillies](refb19.md)
 
 </div>

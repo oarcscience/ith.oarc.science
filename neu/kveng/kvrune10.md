@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)   
-[Finnish](../kvfin/10)   
-[Previous](kvrune09)  [Next](kvrune11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index.md)   
+[Finnish](../kvfin/10.md)   
+[Previous](kvrune09)  [Next](kvrune11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Kalevala*, by John Martin Crawford, \[1888\], at Intangible Textual
 Heritage
 
@@ -607,4 +607,4 @@ I have not the Bride of Beauty."
 
 ------------------------------------------------------------------------
 
-[Next: Rune XI. Lemminkainen's Lament.](kvrune11)
+[Next: Rune XI. Lemminkainen's Lament.](kvrune11.md)

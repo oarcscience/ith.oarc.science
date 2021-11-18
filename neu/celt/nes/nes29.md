@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes28)  [Next](nes30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes28)  [Next](nes30.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 new boat was always launched to a flowing tide, sometimes prow foremost
 and sometimes stern foremost. When it was fairly in the water, whisky in
@@ -119,7 +119,7 @@ When the word "kirk" had to be used, and there was often occasion to do
 so, from several of the churches being used as land-marks, the word
 "bell-hoose" or "bell-’oose" was substituted. The minister was called
 "the man wi’ the black quyte." A minister in a boat at sea was looked
-upon with much misgiving. <span id="fr_152"></span>[1](#fn_152) He might
+upon with much misgiving. <span id="fr_152"></span>[1](#fn_152.md) He might
 be another Jonah.
 
 As it was the belief among the agricultural population that cows' milk
@@ -255,9 +255,9 @@ or kill, so that they might have blood shed.
 
 ### Footnotes
 
-<span id="fn_152"></span>[199:1](nes29.htm#fr_152) *Choice Notes*, p.
+<span id="fn_152"></span>[199:1](nes29.htm#fr_152.md) *Choice Notes*, p.
 60.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII. Death](nes30)
+[Next: Chapter XXVII. Death](nes30.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](ody05)  [Next](ody07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](ody05)  [Next](ody07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE798E/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE798E/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Odyssey of Homer*, by Samuel Butler, \[1900\], at Intangible
 Textual Heritage
 
@@ -314,6 +314,6 @@ still furious in his endeavors to prevent Ulysses from getting home.
 
 ------------------------------------------------------------------------
 
-[Next: Book VII.](ody07)
+[Next: Book VII.](ody07.md)
 
 </div>

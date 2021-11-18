@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](eog01)  [Next](eog03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](eog01)  [Next](eog03.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ P. 51, *l*. 87, for "2" read "3."
 ------------------------------------------------------------------------
 
 [Next: The First Tablet: Of the Tyranny of Gilgamish, and the Creation
-of Enkidu](eog03)
+of Enkidu](eog03.md)

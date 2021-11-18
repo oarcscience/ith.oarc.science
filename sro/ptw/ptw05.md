@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw04) 
-[Next](ptw06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw04.md) 
+[Next](ptw06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -204,7 +204,7 @@ experience, than by intellectual reasoning.
 
 God created man in His own image. The universe is the image of God and
 man is the image of nature. Man is therefore, so to say, the . image of
-the image; in other words a [*Microcosmos*](errata.htm#5), or little
+the image; in other words a [*Microcosmos*](errata.htm#5.md), or little
 world. The world is a reasonable, living, and immortal being; man is
 equally reasonable, but he is mortal, or at least divisible. *Hermes
 Trismegistus* says that the world is immortal, because no part of it is
@@ -566,4 +566,4 @@ latter will have sunk into the oblivion which they deserve.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four. Among the “Adepts.”](ptw06)
+[Next: Chapter Four. Among the “Adepts.”](ptw06.md)

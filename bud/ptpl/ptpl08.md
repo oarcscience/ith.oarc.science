@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ptpl07)  [Next](ptpl09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ptpl07)  [Next](ptpl09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Principal Teachings of The True Sect of Pure Land*, by Yejitsu Okusa,
 \[1915\], at Intangible Textual Heritage
 
@@ -52,7 +52,7 @@ effulgence of Amitābha (the Infinite Light) that we have at all grown
 conscious of the darkness existing in our hearts and awakened an
 aspiration after a land of eternal light. Amida who has brought up our
 minds to this state while we were altogether unaware of his
-[existence](errata.htm#12), is now beckoning us, saying: "Hear my name
+[existence](errata.htm#12.md), is now beckoning us, saying: "Hear my name
 of truth and goodness, awaken your consciousness of the impurity and
 falsehood darkening your hearts, and have your destiny absolutely
 entrusted into my hands that will save you from sin and ignorance."
@@ -123,4 +123,4 @@ called the True Sect of Pure Land, or briefly the True Sect.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Salvation](ptpl09)
+[Next: IV. Salvation](ptpl09.md)

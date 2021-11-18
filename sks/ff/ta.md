@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../ta/ta) 
-[Previous](cor)  [Next](raj) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../ta/ta.md) 
+[Previous](cor)  [Next](raj.md) 
 
 ------------------------------------------------------------------------
 
@@ -3315,4 +3315,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Tragedie of Romeo and Juliet](raj) 
+[Next: The Tragedie of Romeo and Juliet](raj.md) 

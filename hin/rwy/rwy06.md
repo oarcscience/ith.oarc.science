@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](rwy05)  [Next](rwy07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](rwy05)  [Next](rwy07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/054808047X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/054808047X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Relax With Yoga*, by Arthur Liebers, \[1960\], at Intangible Textual
 Heritage
 
@@ -54,7 +54,7 @@ by coldness of the hands and feet, chronic fatigue and often
 constipation. The Yoga Institute in Bombay has traced varied disorders
 of the digestive and pelvic organs and even functional defects of the
 heart and lungs directly to poor posture habits. Persons who had been
-[approaching](errata.htm#0) invalidity as a result of posture habits are
+[approaching](errata.htm#0.md) invalidity as a result of posture habits are
 said to have been cured after a few weeks of training. Persons in normal
 health have gained markedly, physically and mentally, from a short, but
 regular, corrective posture program.
@@ -113,7 +113,7 @@ relief from
 
 <span id="img_03200"></span> <span align="CENTER">
 [![Stitha-Prarthanasana, or Prayer Pose](tn/03200.jpg)  
-Click to enlarge](img/03200.jpg)  
+Click to enlarge](img/03200.jpg.md)  
 Stitha-Prarthanasana, or Prayer Pose  
 </span>
 
@@ -144,7 +144,7 @@ If you experience the fear of falling, stand and practice near a wall or
 window sill or other support. After you have attained sufficient
 steadiness on one leg, adjust the raised leg by pressing the heel
 tightly against the opposite groin, with the sole of the foot against
-the opposite thigh. Study the illustration (page [34](#img_03400)) for
+the opposite thigh. Study the illustration (page [34](#img_03400).md) for
 details of this pose.
 
 Steadiness, or nerve control and coordination between muscular and
@@ -156,7 +156,7 @@ some support to maintain
 
 <span id="img_03400"></span> <span align="CENTER"> [![Ekapadasana, or
 One-Leg Pose](tn/03400.jpg)  
-Click to enlarge](img/03400.jpg)  
+Click to enlarge](img/03400.jpg.md)  
 Ekapadasana, or One-Leg Pose  
 </span>
 
@@ -203,13 +203,13 @@ lie.
 
 <span id="img_03600"></span> <span align="CENTER"> [![Padmasana, or
 Lotus Pose](tn/03600.jpg)  
-Click to enlarge](img/03600.jpg)  
+Click to enlarge](img/03600.jpg.md)  
 Padmasana, or Lotus Pose  
 </span>
 
 <span id="img_03601"></span> <span align="CENTER"> [![Ardha-Padmasana,
 or Semi-Lotus Pose](tn/03601.jpg)  
-Click to enlarge](img/03601.jpg)  
+Click to enlarge](img/03601.jpg.md)  
 Ardha-Padmasana, or Semi-Lotus Pose  
 </span>
 
@@ -281,7 +281,7 @@ seconds and then release the tension of the stretch
 
 <span id="img_03900"></span> <span align="CENTER"> [![Yastikasana, or
 Stick Pose](tn/03900.jpg)  
-Click to enlarge](img/03900.jpg)  
+Click to enlarge](img/03900.jpg.md)  
 Yastikasana, or Stick Pose  
 </span>
 
@@ -310,7 +310,7 @@ stretching.
 
 <span id="img_04000"></span> <span align="CENTER"> [![Parvatasana, or
 Mountain Pose](tn/04000.jpg)  
-Click to enlarge](img/04000.jpg)  
+Click to enlarge](img/04000.jpg.md)  
 Parvatasana, or Mountain Pose  
 </span>
 
@@ -366,7 +366,7 @@ the variations is to provide additional
 
 <span id="img_04200"></span> <span align="CENTER"> [![Variations of the
 Parvatasana Pose: forward, backward, right and left.](tn/04200.jpg)  
-Click to enlarge](img/04200.jpg)  
+Click to enlarge](img/04200.jpg.md)  
 Variations of the Parvatasana Pose: forward, backward, right and left.  
 </span>
 
@@ -407,7 +407,7 @@ jerks or sudden
 
 <span id="img_04400"></span> <span align="CENTER"> [![Trikonasana, or
 Triangle Pose](tn/04400.jpg)  
-Click to enlarge](img/04400.jpg)  
+Click to enlarge](img/04400.jpg.md)  
 Trikonasana, or Triangle Pose  
 </span>
 
@@ -437,7 +437,7 @@ moderation, for about ten seconds at one time.
 
 <span id="img_04500"></span> <span align="CENTER"> [![Variations of the
 Triangle Pose](tn/04500.jpg)  
-Click to enlarge](img/04500.jpg)  
+Click to enlarge](img/04500.jpg.md)  
 Variations of the Triangle Pose  
 </span>
 
@@ -452,7 +452,7 @@ twisting of the extremities may be accomplished through the Garudasana.
 
 <span id="img_04600"></span> <span align="CENTER"> [![Garudasana, or
 Eagle Pose](tn/04600.jpg)  
-Click to enlarge](img/04600.jpg)  
+Click to enlarge](img/04600.jpg.md)  
 Garudasana, or Eagle Pose  
 </span>
 
@@ -475,7 +475,7 @@ hands from the wrists and press the palms against each other. Try to
 keep
 
 <span id="img_04700"></span> <span align="CENTER"> [![](tn/04700.jpg)  
-Click to enlarge](img/04700.jpg)</span>
+Click to enlarge](img/04700.jpg.md)</span>
 
 <span id="page_48">p. 48</span>
 
@@ -496,4 +496,4 @@ by gradual stages before attempting to follow the full exercise.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Specific Asanas For Weight Reduction](rwy07)
+[Next: 6. Specific Asanas For Weight Reduction](rwy07.md)

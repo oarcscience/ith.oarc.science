@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](choc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](choc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Occultism*, by Paul Carus, \[1907\], at Intangible Textual
 Heritage
 
@@ -33,7 +33,7 @@ in the West down to modern times.
 
 <span id="img_08200"></span> <span align="CENTER"> [![GREAT CELESTIAL
 GLOBE OF THE PEKING OBSERVATORY](tn/08200.jpg)  
-Click to enlarge](img/08200.jpg)  
+Click to enlarge](img/08200.jpg.md)  
 GREAT CELESTIAL GLOBE OF THE PEKING OBSERVATORY  
 </span>
 

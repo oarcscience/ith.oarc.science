@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps51)  [Next](rps53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps51)  [Next](rps53.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ Also all soundly thinking Human Beings on the Train of Time.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 49. Psalm 50 by the Monarch Pettersburgh](rps53)
+[Next: Chapter 49. Psalm 50 by the Monarch Pettersburgh](rps53.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor21)  [Next](sor23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor21)  [Next](sor23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -29,7 +29,7 @@ this, the history of events at Louviers, more instructive than anything
 told us about Aix or Loudun, proves that confessors, although possessing
 in *Illuminism* a new instrument of corruption, by no means neglected
 the old tricks of Sorcery, diabolic apparitions, angelic visitations,
-and the like. <span id="fr_73"></span>[1](#fn_73)
+and the like. <span id="fr_73"></span>[1](#fn_73.md)
 
 Of three successive Directors of the Convent of Loudun,
 
@@ -44,7 +44,7 @@ The great authority on the whole affair is a book entitled, *Histoire de
 Magdelaine Bavent, Religieuse de Louviers, avec son interrogatoir*, etc.
 (History of Madeleine Bavent, a Nun of Louviers, together with her
 Examination, etc.), 4to: Rouen, 1652. <span
-id="fr_74"></span>[2](#fn_74) The date of this work accounts for the
+id="fr_74"></span>[2](#fn_74.md) The date of this work accounts for the
 perfect freedom with which it is written. During the "Fronde," a
 stout-hearted priest, an Oratorian, having found the nun in question in
 the prisons of Rouen, conceived the bold idea of writing down at her
@@ -75,7 +75,7 @@ convent, a poor place gloomily situated, and established under such
 tragic circumstances, seemed a fit place for the austere life. David
 himself was known by a strange, violent book he had composed against the
 abuses that disgraced the Religious Houses, the *Fouet des Paillards* (A
-Whip for Wantons), as it was called. <span id="fr_75"></span>[3](#fn_75)
+Whip for Wantons), as it was called. <span id="fr_75"></span>[3](#fn_75.md)
 Nevertheless, this stern moralist had some very curious notions as to
 what constituted purity. He was an *Adamite*, preaching the nudity Adam
 practised in his innocence. Obedient to his teaching, the Sisters of the
@@ -105,7 +105,7 @@ etc. The nuns, saturated with these doctrines, and unobtrusively putting
 them in practice among themselves, appalled Madeleine with their
 abominable doings. She withdrew and kept apart from the rest, living in
 the outer purlieus of the convent, having secured the post of
-*tourière*. <span id="fr_76"></span>[4](#fn_76)
+*tourière*. <span id="fr_76"></span>[4](#fn_76.md)
 
  
 
@@ -506,7 +506,7 @@ Rouen.
 
 ### Footnotes
 
-<span id="fn_73"></span>[207:1](sor22.htm#fr_73) It was only too easy to
+<span id="fn_73"></span>[207:1](sor22.htm#fr_73.md) It was only too easy to
 deceive women who wished to be cajoled. Celibacy was now more difficult
 than in the Middle Ages, the monastic fastings and bleedings being
 largely discontinued. Many died of a life so cruelly inactive and so
@@ -528,7 +528,7 @@ The people called them in mockery "the Sanctified" (Lestoile). This was
 a matter of very serious conviction in convents (see the Capuchin Esprit
 de Bosroger, ch. xi. p. 156).
 
-<span id="fn_74"></span>[208:2](sor22.htm#fr_74) I do not know a more
+<span id="fn_74"></span>[208:2](sor22.htm#fr_74.md) I do not know a more
 important, a more terrible book, or one better deserving to be reprinted
 (*Bibliothèque Z, ancien 1016*). It is the most striking of all such
 histories. Another work, *La Piété affligée* (Piety Afflicted), by the
@@ -545,13 +545,13 @@ labelled *Éloges de Richelieu* (Letter x. 550). A duplicate of the
 *Apologie* occurs also in the volume numbered Z 899 in the same
 collection.
 
-<span id="fn_75"></span>[209:3](sor22.htm#fr_75) See Floquet, *Parl. de
+<span id="fn_75"></span>[209:3](sor22.htm#fr_75.md) See Floquet, *Parl. de
 Normandie*, vol. v. p. 636.
 
-<span id="fn_76"></span>[210:4](sor22.htm#fr_76) *I.e.*, the nun who
+<span id="fn_76"></span>[210:4](sor22.htm#fr_76.md) *I.e.*, the nun who
 attends to the turning-box of a convent, by means of which communication
 is kept up with the outside world.
 
 ------------------------------------------------------------------------
 
-[Next: 21. Satan Triumphant in the Seventeenth Century](sor23)
+[Next: 21. Satan Triumphant in the Seventeenth Century](sor23.md)

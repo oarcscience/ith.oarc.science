@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw32) 
-[Next](wbw34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw32.md) 
+[Next](wbw34.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -65,6 +65,6 @@ wisdom or valiancy."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIV: Now Cometh The Maid To The King](wbw34)
+[Next: Chapter XXXIV: Now Cometh The Maid To The King](wbw34.md)
 
 </div>

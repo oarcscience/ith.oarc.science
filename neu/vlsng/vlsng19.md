@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng18)  [Next](vlsng20) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng18)  [Next](vlsng20.md) 
 
 ------------------------------------------------------------------------
 
@@ -160,4 +160,4 @@ lady.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII: Of the Slaying of the Worm Fafnir.](vlsng20)
+[Next: Chapter XVIII: Of the Slaying of the Worm Fafnir.](vlsng20.md)

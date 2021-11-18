@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh14) 
-[Next](iggh16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh14.md) 
+[Next](iggh16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 ### XII. The Wind and the Leaves
 
 <span class="smallcaps">Then</span> said Indra: O lady with a smile like
-the opening of a *bakula* <span id="fr_28"></span>[t](#fn_28) blossom,
+the opening of a *bakula* <span id="fr_28"></span>[t](#fn_28.md) blossom,
 even if thou wert thyself deserving of excuse for falling victim to the
 innocence and tenderness of thy own maiden and unsophisticated heart,
 yet canst thou not exculpate thy husband, for coming like a thief at
@@ -73,10 +73,10 @@ sun, for turning black night to rosy dawn?
 
 ### Footnotes
 
-<span id="fn_28"></span>[51:t](iggh15.htm#fr_28) *Mimusops Elengi:* a
+<span id="fn_28"></span>[51:t](iggh15.htm#fr_28.md) *Mimusops Elengi:* a
 very fragrant flower celebrated in Hindoo stories. *Bakuli* being a
 favourite name for a princess or heroine.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. A King and Queen](iggh16)
+[Next: XIII. A King and Queen](iggh16.md)

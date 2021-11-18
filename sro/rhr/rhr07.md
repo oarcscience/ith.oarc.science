@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr06)  [Next](rhr08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr06)  [Next](rhr08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -308,7 +308,7 @@ have made for ourselves a new language, in which the nature of things is
 expressed, so that it is no wonder that we are not so eloquent in other
 tongues, least of all in this Latin, which we know to be by no means in
 agreement with that of Adam and of Enoch, but to have been contaminated
-by the confusion of Babel. <span id="fr_50"></span>[1](#fn_50)
+by the confusion of Babel. <span id="fr_50"></span>[1](#fn_50.md)
 
 CHAPTER X.
 
@@ -440,9 +440,9 @@ FRATERNITAS R. C.
 
 ### Footnotes
 
-<span id="fn_50"></span>[94:1](rhr07.htm#fr_50) The original reads
+<span id="fn_50"></span>[94:1](rhr07.htm#fr_50.md) The original reads
 *Babylonis confusione*, "by the confusion of Babylon."
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](rhr08)
+[Next: Introduction](rhr08.md)

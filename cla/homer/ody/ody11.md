@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](ody10)  [Next](ody12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](ody10)  [Next](ody12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE798E/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE798E/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Odyssey of Homer*, by Samuel Butler, \[1900\], at Intangible
 Textual Heritage
 
@@ -539,6 +539,6 @@ row at first, but presently a fair wind sprang up.
 
 ------------------------------------------------------------------------
 
-[Next: Book XII.](ody12)
+[Next: Book XII.](ody12.md)
 
 </div>

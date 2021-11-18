@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mind09)  [Next](mind11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mind09)  [Next](mind11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *At the Back of the Black Man's Mind*, by Richard Edward Dennett,
 \[1906\], at Intangible Textual Heritage
 
@@ -454,6 +454,6 @@ to the categories are here set out in tabular form:-
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11. Bibila, the Philosophy of the Groves](mind11)
+[Next: Chapter 11. Bibila, the Philosophy of the Groves](mind11.md)
 
 </div>

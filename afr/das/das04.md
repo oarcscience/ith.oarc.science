@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das03)  [Next](das05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das03)  [Next](das05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -72,6 +72,6 @@ investigation.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](das05)
+[Next: Introduction](das05.md)
 
 </div>

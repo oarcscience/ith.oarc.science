@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bok03)  [Next](bok05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bok03)  [Next](bok05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Kells*, by Edward Sullivan, \[1920\], at Intangible Textual
 Heritage
 
@@ -168,7 +168,7 @@ missing for many years.
 <span class="margnote">Kells in the 9th and 10th centuries.</span>The
 history of Kells and its Abbey from late in the ninth century to the end
 of the tenth is a tale of continuous struggle against foreign and
-domestic aggression. <span id="fr_0"></span>[\*](#fn_0) In 899 the Abbey
+domestic aggression. <span id="fr_0"></span>[\*](#fn_0.md) In 899 the Abbey
 was sacked and pillaged. In 918 the Danes plundered Kells, and laid the
 church level with the ground. Rebuilt, it was again spoiled and pillaged
 by the Danes in 946. Three years later, Godfrey, son of Sitric,
@@ -186,7 +186,7 @@ Manuscript itself, "the large Gospel of Colum Cille" in its cover of
 gold studded with precious stones, "the chief relic of the western
 world," was stolen by night from the greater church at Kells, and found,
 after a lapse of some months, concealed under sods, destitute of its
-gold-covered binding. <span id="fr_1"></span>[†](#fn_1) It is not
+gold-covered binding. <span id="fr_1"></span>[†](#fn_1.md) It is not
 unlikely that most of the leaves now missing from the Manuscript
 disappeared at the same time.
 
@@ -205,13 +205,13 @@ contents go, might have been the Book of
 <span id="page_5">p. 5</span>
 
 <span class="contnote">\[paragraph continues\]</span> Kells. He lavishes
-the highest praise on its [brilliant](errata.htm#0) colouring, on the
+the highest praise on its [brilliant](errata.htm#0.md) colouring, on the
 endless variety of its figures, on the elaborate intricacies of its
 interlaced ornamentation—all of which, as he tells us, one would be
 ready to pronounce the work of angelic, and not human skill. Going into
 minuter detail, he continues: "On one page you see the face of God,
 drawn in godlike fashion—in another, the forms of the Evangelists with
-either six, four, or two wings." <span id="fr_2"></span>[\*](#fn_2) When
+either six, four, or two wings." <span id="fr_2"></span>[\*](#fn_2.md) When
 it is remembered that Giraldus spent many years, early and late in life,
 as a student at the University of Paris, where it is probable he had
 become acquainted with a more modern type of illuminated miniatures, it
@@ -219,7 +219,7 @@ seems difficult to believe that he could have been alluding in the last
 quoted passage to the more or less crude figure representations of the
 Saviour contained in the Book of Kells. Besides, there are no "forms of
 the Evangelists" to be found in the Manuscript as it exists to-day that
-have either six or four wings; <span id="fr_3"></span>[†](#fn_3) nor,
+have either six or four wings; <span id="fr_3"></span>[†](#fn_3.md) nor,
 indeed, is there any convincing reason suggested why the Book of Kells
 should have been found at Kildare. It is perfectly obvious, too, from
 intrinsic evidence that the Kells Manuscript was produced at a period
@@ -260,7 +260,7 @@ dated 27th August, 1568, purports to give the number of the leaves then
 in the volume; but under these words Bishop Usher has written: "August
 24, 1621. I reckoned the leaves of this booke and found them to be in
 number 344. He who reckoned before me counted six score to the hundred.
-Ja Ussher, Midensis elect." <span id="fr_4"></span>[\*](#fn_4)
+Ja Ussher, Midensis elect." <span id="fr_4"></span>[\*](#fn_4.md)
 
 <span class="margnote">The MS. comes to Dublin University</span>Ussher,
 who was commissioned by James I. to collect antiquities relating to the
@@ -289,8 +289,8 @@ nor lest than 17, the space occupied by the
 
 writing being 10 by 7 inches. On a few of the pages the writing is in a
 peculiar semi-cursive hand, but as a rule it is of the fine, clear
-character shown in Plates [III.](bok07.htm#img_pl03) and
-[X](bok14.htm#img_pl10).
+character shown in Plates [III.](bok07.htm#img_pl03.md) and
+[X](bok14.htm#img_pl10.md).
 
 The first leaf—too rubbed to furnish a reproduction of a
 satisfactory<span class="margnote">The Evangelical Symbols.</span>
@@ -322,7 +322,7 @@ modem Bibles. The method of interpreting the lettering in these Canons,
 dependent as it is on certain sectional divisions of the Gospels
 specially devised by the author, is too intricate to go into here.
 
-As will be seen in [Plate I.](bok05.htm#img_pl01), the Eusebian Canons
+As will be seen in [Plate I.](bok05.htm#img_pl01.md), the Eusebian Canons
 are written in narrow columns, framed as it were by decorative pillars
 on which a considerable amount of characteristic ornament has been
 lavished. The open spaces above the pillars contain the Evangelical
@@ -351,8 +351,8 @@ invasion.
 
 <span class="margnote">Portrait of Virgin and Child.</span>Fol. 7 V.,
 which follows, contains the full-page illustration of the Virgin and
-Child ([Plate II.](bok06.htm#img_pl02)), on which Professor Westwood
-remarks <span id="fr_5"></span>[\*](#fn_5):—
+Child ([Plate II.](bok06.htm#img_pl02).md), on which Professor Westwood
+remarks <span id="fr_5"></span>[\*](#fn_5.md):—
 
 "This singular composition is interesting from the proof it affords of
 the veneration of the Virgin Mary in the early Irish Church; the large
@@ -362,7 +362,7 @@ high respect with which the Mother of Christ was regarded. The infant
 Saviour, it will be observed, is destitute of the nimbus; the chair or
 throne on which the Virgin is seated is not devoid of elegance,
 terminating above in the dog's head with an immensely elongated
-interlaced tongue. <span id="fr_6"></span>[†](#fn_6) The drawing of the
+interlaced tongue. <span id="fr_6"></span>[†](#fn_6.md) The drawing of the
 whole is entirely puerile, whilst the ingenuity displayed in the
 intricate patterns of the sides and upper part of the drawing is quite
 remarkable. This singular interlacing of the limbs of human figures is
@@ -407,7 +407,7 @@ of Kells. It was from him that the volume passed into the possession of
 Archbishop Usher, from whom, as already mentioned, it came to the
 library of Trinity College, Dublin.
 
-Fol. 19 V. depicted in [Plate III.](bok07.htm#img_pl03), contains a
+Fol. 19 V. depicted in [Plate III.](bok07.htm#img_pl03.md), contains a
 portion of the "Argument" to the Gospel of St. John. This page, which
 contains some characteristic peculiarities common to early Irish
 manuscripts, reads as follows:—
@@ -460,7 +460,7 @@ distinguished by any special excellence.
 Following the twentieth leaf (misplaced as some maintain) are two grants
 of land, in Irish, for a consideration of three ounces of gold. After
 these come the Evangelical Symbols again, as reproduced in [Plate
-IV.](bok08.htm#img_pl04) (fol. 27 V.). The central and some of the other
+IV.](bok08.htm#img_pl04) (fol. 27 V..md). The central and some of the other
 panels in
 
 <span id="page_11">p. 11</span>
@@ -470,7 +470,7 @@ perfection.
 
 St. Matthew's portrait with its surrounding border fills the back
 of<span class="margnote">Portrait of St. Matthew.</span> the next leaf
-([Plate V.](bok09.htm#img_pl05)). As will be seen in the illustration,
+([Plate V.](bok09.htm#img_pl05).md). As will be seen in the illustration,
 the Lion symbol of St. Mark shows its head at each side of the back of
 the throne; while the heads of the Calf and Eagle of St. Luke and St.
 John appear behind the extremities of the seat. The spreading ornaments
@@ -481,7 +481,7 @@ purpose of keeping flies from the altar.
 The opening words of St. Matthew's Gospel, "Liber generationis,"<span
 class="margnote">The "Liber generationis" page.</span> one of the most
 notable instances of illumination in the Manuscript, fill the recto of
-folio 29 ([Plate VI.](bok10.htm#img_pl06)). The spiral ornamentation and
+folio 29 ([Plate VI.](bok10.htm#img_pl06).md). The spiral ornamentation and
 the general colour harmony of this very beautiful page are particularly
 striking. Note, too, the curious and rarely relied on effect produced by
 the alteration of the colours in which the ground and the letters of the
@@ -527,8 +527,8 @@ being added round a central lozenge, a couple of small illuminated
 initials being also introduced. There are other instances here and there
 through the Kells Manuscript of pages being left in an incomplete
 condition. Obvious examples are to be found in the upper portion of the
-large L in [Plate VI.](bok10.htm#img_pl06), as already mentioned, and
-again in [Plate VII.](bok11.htm#img_pl07), where the blank spandrels to
+large L in [Plate VI.](bok10.htm#img_pl06.md), as already mentioned, and
+again in [Plate VII.](bok11.htm#img_pl07.md), where the blank spandrels to
 right and left of the head of the central figure strike a note strong
 discord amidst the colour harmony of their rich surroundings. Again, in
 the case of the Eusebian Canons, at fol. 4 V., the spandrels of the
@@ -549,7 +549,7 @@ actual date of the Manuscript.
 
 <span class="margnote">The misnamed Doubtful Portrait.</span>The
 so-called "Doubtful Portrait" on fol. 32 V. ([Plate
-VII.](bok11.htm#img_pl07)) following the Genealogy is, according to
+VII.](bok11.htm#img_pl07).md) following the Genealogy is, according to
 Westwood, "evidently misplaced, and is intended for one of the two
 Evangelists whose portraits are wanting," that is, St. Mark or St. Luke.
 The principal figure, as may be seen in the illustration, sits on a
@@ -569,7 +569,7 @@ spandrels to the right and left of the head of the figure. The writing
 has since been removed, heaving the white spaces somewhat staringly
 vacant, but no doubt in the very condition they were in when the
 illumination was interrupted. The presence of the cross above, as the
-Rev. Mr. Stanford Robinson remarks, <span id="fr_7"></span>[\*](#fn_7)
+Rev. Mr. Stanford Robinson remarks, <span id="fr_7"></span>[\*](#fn_7.md)
 together with the colour of the vestments, the chalice-like cups, the
 vine, the peacock, and the four angelic beings, most of which are
 introduced into the decoration of the page, give grounds for Gerald
@@ -586,16 +586,16 @@ additional and valid reasons, which seem to have been overlooked till
 now, may be suggested to show that the central figure is intended for
 either St. Mark or St. Luke, but certainly not for Christ.
 
-The figure on fol. 32 V. ([Plate VII.](bok11.htm#img_pl07)) is obviously
+The figure on fol. 32 V. ([Plate VII.](bok11.htm#img_pl07).md) is obviously
 one of a series<span class="margnote">Portrait of the Gospel
 writers.</span> of four portraits of the Evangelists, which, judging by
 the surviving three, are all clearly stamped with a similarity of
 artistic treatment. In each case the Evangelist holds a book in his
 hand, and occupies a chair or throne in a sitting position. In both
-Plate [V.](bok09.htm#img_pl05) and [VII.](bok11.htm#img_pl07) the
+Plate [V.](bok09.htm#img_pl05) and [VII.](bok11.htm#img_pl07.md) the
 framework surrounding the portrait is identical in the matter of outline
 of design and general composition. St. John's picture ([Plate
-XVIII.](bok22.htm#img_pl18)), though its frame differs somewhat from the
+XVIII.](bok22.htm#img_pl18).md), though its frame differs somewhat from the
 other two, is, by reason of certain features which are common to all
 three, sufficiently allied to the others to justify its inclusion in the
 series. The fact, too, that the head
@@ -603,7 +603,7 @@ series. The fact, too, that the head
 <span id="page_14">p. 14</span>
 
 of the latter portrait is surrounded by so magnificent a nimbus, while
-that of [Plate VII.](bok11.htm#img_pl07) is distinguished by only a very
+that of [Plate VII.](bok11.htm#img_pl07.md) is distinguished by only a very
 small cross, would seem to preclude the possibility of the latter being
 intended as a portrait of the Saviour. The presence of the two peacocks,
 the chalices (if they be such, which is very questionable), and the
@@ -629,18 +629,18 @@ filled in. Although the three are themselves more or less of the same
 design and colour tone, they are all utterly out of harmony with the
 first, and form a distinct blot on this most beautifully illuminated
 page. Look, then, at the four corner-pieces of the consort portrait
-([Plate V.](bok09.htm#img_pl05)) and see how harmoniously they are
+([Plate V.](bok09.htm#img_pl05).md) and see how harmoniously they are
 executed, both in colour and design, and it will be at once understood
 that the three inconsistent and badly-executed corners of [Plate
-VII.](bok11.htm#img_pl07) must have been left by the greater artist as
+VII.](bok11.htm#img_pl07.md) must have been left by the greater artist as
 blank as the spandrel spaces themselves. Further than this, I am
 strongly inclined to think that the discs which touch the feet of the
 main figure have also been filled in by the later and inferior artist A
 comparison with the similarly situated discs in [Plate
-V.](bok09.htm#img_pl05), which contain some very fine work, will go far,
+V.](bok09.htm#img_pl05.md), which contain some very fine work, will go far,
 I think, to justify such a conclusion. The outer trivialities in the way
 of decoration which are to be seen beyond the corner-pieces in [Plate
-VII.](bok11.htm#img_pl07), are only too obviously the work of an
+VII.](bok11.htm#img_pl07.md), are only too obviously the work of an
 inferior hand. Is it, then, in all the circumstances conceivable that,
 if this were a
 
@@ -651,11 +651,11 @@ imagine that in its manifestly patched condition it would have been
 used, as Petrie thought it was, as "the frontispiece of the Book of
 Kells"?
 
-[Plate VIII](bok12.htm#img_pl08), shows the<span class="margnote">The
+[Plate VIII](bok12.htm#img_pl08.md), shows the<span class="margnote">The
 eight-circled cross.</span> eight-circled cross, a superb example of the
 most intricate and delicate ornamentation. It is the only specimen of
 this type of design in the Kells Manuscript, but it has its counterpart
-in the Book of Lindisfarne, <span id="fr_8"></span>[\*](#fn_8) the
+in the Book of Lindisfarne, <span id="fr_8"></span>[\*](#fn_8.md) the
 Celtic illuminations of which can alone of all Irish or Anglo-Irish MSS.
 be compared for beauty, design, or execution, with the pages of the Book
 of Kells. Westwood thinks that each of the Kells Gospels was preceded by
@@ -663,7 +663,7 @@ a similarly ornamented leaf, which has disappeared.
 
 Facing this eight-circled cross is what is known as the Monogram<span
 class="margnote">The Monogram page.</span> page ([Plate
-IX.](bok13.htm#img_pl09)), containing the three opening words of St.
+IX.](bok13.htm#img_pl09).md), containing the three opening words of St.
 Matthew i. 18, "XPI \[Christi\] autem generatio"—the whole forming, as
 Professor Westwood rightly remarks, the most elaborate specimen of
 calligraphy which was perhaps ever executed. The late Rev. Dr. Todd has
@@ -723,10 +723,10 @@ monogram page of the Book of Kells was, if not beyond his powers, at
 least too long and serious an affair to be duly brought to completion.
 We are indebted to Miss Margaret Stokes, the accomplished writer on
 Celtic antiques, for possessing at last, a copy <span
-id="fr_9"></span>[\*](#fn_9) perfectly finished and worthy of an
+id="fr_9"></span>[\*](#fn_9.md) perfectly finished and worthy of an
 original which the same author, in a brilliant passage referring to its
 unique variety of design, has signalised as 'an epitome of Irish
-art.'" <span id="fr_10"></span>[†](#fn_10)
+art.'" <span id="fr_10"></span>[†](#fn_10.md)
 
 The text of the Gospel according to St. Matthew follows in large uncial
 and minuscule combined, initial letters of a highly ornamental
@@ -742,7 +742,7 @@ vos scan" \[dalum, etc.\]. These words have been written in again in a
 later hand (now a good deal rubbed), as if they had been found difficult
 to read in their illuminated form.
 
-[Plate X.](bok14.htm#img_pl10), fol. 104 R., furnishes an excellent
+[Plate X.](bok14.htm#img_pl10.md), fol. 104 R., furnishes an excellent
 example of the general<span class="margnote">A page of the text of St.
 Mark.</span> run of the written text, with such small illuminated
 initials and added decorative curiosities as occur so frequently
@@ -801,7 +801,7 @@ of the MS.
 <span id="page_18">p. 18</span>
 
 <span class="margnote">The "Tunc crucifixerant" page.</span>[Plate
-XI.](bok15.htm#img_pl11), fol. 124 R., exhibits the commencement of
+XI.](bok15.htm#img_pl11.md), fol. 124 R., exhibits the commencement of
 verse 38 of the 27th chapter of St. Matthew, "Tunc crucifixerant XPI cum
 eo duos latrones" ("Then were there two thieves crucified with him").
 The "XPI," which seems to belong to the sentence, is, as pointed out by
@@ -815,7 +815,7 @@ be made Tatar on to some more important variations existing between the
 two texts.
 
 The Evangelical Symbols again occupy a prominent place at the opening of
-St. Mark's Gospel, fol. 129 V. ([Plate XII.](bok16.htm#img_pl12)), their
+St. Mark's Gospel, fol. 129 V. ([Plate XII.](bok16.htm#img_pl12).md), their
 decorative treatment differing completely from the corresponding page in
 the previous Gospel. Each of the figures here is famished with a kind of
 sceptre. The whole is a most admirably balanced piece of artistic work,
@@ -828,12 +828,12 @@ Manuscript.
 
 <span class="margnote">The "Initium Evangelic "page.</span>The first
 words of this Gospel, "Initium evangelii Ihu Xpi" (fol. 130 R.), [Plate
-XIII.](bok17.htm#img_pl13), fill a whole page, the bold magnificence of
+XIII.](bok17.htm#img_pl13.md), fill a whole page, the bold magnificence of
 the three letters INI being especially remarkable. The entire design is
 filled with the most characteristic details of Celtic ornament, but
 arranged with extraordinary originality. A studied comparison between it
 and the "Christi autem generatio," or monogram page ([Plate
-IX.](bok13.htm#img_pl09)), will show the astounding artistry of both,
+IX.](bok13.htm#img_pl09).md), will show the astounding artistry of both,
 and at the same time exemplify the wide differences which lie between
 them The Rev. Mr. Robinson points out the features of the "Initium"
 design which specially call for notice, and draws attention to "the
@@ -854,21 +854,21 @@ observations later on this very characteristic feature of
 robe-decoration in the Book of Kells. For the present I suggest strongly
 that the figure, so far from being grotesque, is intended for the
 Evangelist St. Mark himself, in just the same way as the other small
-figures similarly introduced in Plates [VI](bok10.htm#img_pl06), and
-[XIX.](bok23.htm#img_pl19) are intended for the respective authors of
+figures similarly introduced in Plates [VI](bok10.htm#img_pl06.md), and
+[XIX.](bok23.htm#img_pl19.md) are intended for the respective authors of
 the illuminated words with which they are surrounded. As to the
 "dragon," in the grasp of which the figure in [Plate
-XIII.](bok17.htm#img_pl13) is stated to be held, I do not think it is a
+XIII.](bok17.htm#img_pl13.md) is stated to be held, I do not think it is a
 dragon. I believe it to be an animal much more appropriate to the
 surroundings, the symbolical lion of St. Mark himself. A close
 examination of the plate will show that the saint is assisting the lion
 in its efforts to devour the red serpent. <span
-id="fr_11"></span>[\*](#fn_11) The very same contest, omitting the human
+id="fr_11"></span>[\*](#fn_11.md) The very same contest, omitting the human
 figure, is depicted in the large illuminated T of the word "Tunc" in
-[Plate XI](bok15.htm#img_pl11). The lion's head is the same in both
+[Plate XI](bok15.htm#img_pl11.md). The lion's head is the same in both
 cases, and so are the claws. The claws also correspond exactly with
 those on the lion in the Evangelical Symbols in Plates
-[IV.](bok08.htm#img_pl04) and [XII](bok16.htm#img_pl12). The very
+[IV.](bok08.htm#img_pl04) and [XII](bok16.htm#img_pl12.md). The very
 unusual form of the G in "Evangelii" should be noticed.
 
 Another full-page illumination (though not amongst those illustrated
@@ -884,7 +884,7 @@ the open side spaces.
 St. Luke's Gospel opens with a very striking example of
 illumination<span class="margnote">The "Quoniam" page.</span> in which
 the word "Quoniam" fills the whole of fol. 188 R. ([Plate
-XIV.](bok18.htm#img_pl14)). Some critics, and amongst them Professor
+XIV.](bok18.htm#img_pl14).md). Some critics, and amongst them Professor
 Westwood, have suggested that the word is given here in a contracted
 form, viz., "Qniam"; but the u and o are both to be seen in the central
 diamond, the former as a v, and the o as a Greek w, though somewhat
@@ -903,11 +903,11 @@ first word of the Gospel.
 
 <span class="margnote">The "Qui fuit "pages.</span>Five pages are then
 occupied with the Genealogy of Christ, each line beginning with, "Qui
-fuit" as illustrated in Plates [XV.](bok19.htm#img_pl15),
-[XVI](bok20.htm#img_pl16), and [XVII](bok21.htm#img_pl17). The initials
+fuit" as illustrated in Plates [XV.](bok19.htm#img_pl15.md),
+[XVI](bok20.htm#img_pl16), and [XVII](bok21.htm#img_pl17.md). The initials
 are all through interlaced with birds, dragons, beasts and snakes. At
-the bottom of one of these pages ([Plate XV.](bok19.htm#img_pl15)) "is,"
-as Westwood observes, <span id="fr_12"></span>[\*](#fn_12) "an Irish
+the bottom of one of these pages ([Plate XV.](bok19.htm#img_pl15).md) "is,"
+as Westwood observes, <span id="fr_12"></span>[\*](#fn_12.md) "an Irish
 warrior of the sixth century, having in his hand a little round shield
 (not a long pointed shield like that which the Norman warriors carried,
 reaching down to their feet) holding a long \[?\] spear with a spike at
@@ -922,8 +922,8 @@ distinctly humorous note amidst the stained-glass window solemnity
 attaching to the figure painting of the Manuscript—the same note that is
 supplied by gargoyles in the architecture of some centuries later. This
 page of the Genealogy, which in a general way resembles the pages
-reproduced in Plates [XV.](bok19.htm#img_pl15),
-[XVI.](bok20.htm#img_pl16) and [XVII.](bok21.htm#img_pl17), contains a
+reproduced in Plates [XV.](bok19.htm#img_pl15.md),
+[XVI.](bok20.htm#img_pl16) and [XVII.](bok21.htm#img_pl17.md), contains a
 string of Q's with which are intertwined a number of droll and impish
 figures in various grotesque positions, with legs tucked under their
 arms, and tongues protruding. They pull each other's hair from behind,
@@ -969,7 +969,7 @@ Speaking of the Gospels generally, Professor Westwood has drawn
 attention to an un-Irish usage at the end of the Gospels in the Book of
 Kells. They do not here conclude with the word "Finit," the words at the
 end of St. Luke being "Explicit evangelium secundum lucam incipit
-evangelium secundum johannem." <span id="fr_13"></span>[\*](#fn_13)
+evangelium secundum johannem." <span id="fr_13"></span>[\*](#fn_13.md)
 
 Fol. 290 R. is occupied by seven widely-spread lines of orange-red<span
 class="margnote">St. John's Portrait.</span> minuscule, with some rough
@@ -981,7 +981,7 @@ Fol. 290 V. shows the Evangelical Symbols again, but is an altered form,
 at the beginning of St. John's Gospel, the rectilinear frame border
 being worked into a profusion of decorative interlacements. The
 following leaf bears the portrait of St. John ([Plate
-XVIII.](bok22.htm#img_pl18)) with
+XVIII.](bok22.htm#img_pl18).md) with
 
 <span id="page_22">p. 22</span>
 
@@ -994,14 +994,14 @@ shown to be a quill by the feather ending, and at his right foot is a
 conical ink-pot I shall have some further observations at a later stage
 on the writing and writing-materials made use of by the scribes who
 produced the Manuscript. The so-called "nail" in the right hand of the
-partially-concealed figure in [Plate XVIII.](bok22.htm#img_pl18) is, I
+partially-concealed figure in [Plate XVIII.](bok22.htm#img_pl18.md) is, I
 believe, a late addition, and resembles a lighted taper more than
 anything else. It will be observed that it is held in the hand and not
 driven through it as a nail would have been.
 
 <span class="margnote">The "In principio" page.</span>The opening words
 of St. John's Gospel, "In principio erat Verbum et Verbum" fill the
-recto of folio 292. [Plate XIX.](bok23.htm#img_pl19) shows the
+recto of folio 292. [Plate XIX.](bok23.htm#img_pl19.md) shows the
 splendidly decorative design into which they are thrown. The four-circle
 groups forming the terminal ornaments of the IN are instances of the
 unlimited originality of the artist's decorative skill; while the
@@ -1010,7 +1010,7 @@ are beyond all praise. It is possible that the combination of the C and
 I is intended to suggest a harper playing a harp: perhaps the fingers of
 the player, which seem to suggest the harp-strings, may have originated
 the idea. The figure at the top holding a book is, as in St. Matthew's
-case ([Plate VI.](bok10.htm#img_pl06)), plainly intended for the author
+case ([Plate VI.](bok10.htm#img_pl06).md), plainly intended for the author
 of the Gospel which begins on this page—St. John. The smaller figure, to
 the right, appears to be raising a conically-shaped cup to his lips.
 
@@ -1071,7 +1071,7 @@ than any other of the West-European communities. Amongst the changes
 which the Irish Church was slow to recognise was the adoption in the
 sixth century of St. Jerome's Latin translation of the Bible, commonly
 called the Vulgate, as the version authorised by the Church of
-Rome. <span id="fr_14"></span>[\*](#fn_14) The more ancient
+Rome. <span id="fr_14"></span>[\*](#fn_14.md) The more ancient
 
 <span id="page_24">p. 24</span>
 
@@ -1277,7 +1277,7 @@ states that foliageous ornament is absent in the earlier period of Irish
 
 <span id="page_28">p. 28</span>
 
-illumination, <span id="fr_16"></span>[\*](#fn_16) but he has only the
+illumination, <span id="fr_16"></span>[\*](#fn_16.md) but he has only the
 few surviving specimens on which to base his judgment. Hundreds of fine
 manuscripts must have been carried off, burnt, or otherwise destroyed
 when the Northmen were ravaging Ireland; and it is quite possible that
@@ -1330,7 +1330,7 @@ the subject of contractions in Latin manuscripts, but Ludwig Traube has
 been the first of our latest commentators to formulate anything in the
 nature of a law bearing on the date values to be extracted from such
 shortened forms as are found in early writings. In the case of the word
-*noster* he has conclusively shown <span id="fr_17"></span>[\*](#fn_17)
+*noster* he has conclusively shown <span id="fr_17"></span>[\*](#fn_17.md)
 that the forms n̄ī, n̄ō, and n̄m̄ (short for nostri, nostro, and nostrum)
 were introduced in the sixth century and predominated in the seventh and
 eighth; while the forms n̄r̄ī, n̄r̄ō, and n̄r̄m̄ appear in the eighth century
@@ -1343,18 +1343,18 @@ words, such as IHS for Jesus, d̶s for deus, sp̃s for spiritus, and other
 usual shortenings; but there are occasional instances of another kind.
 The letters ae, for example, are now and then abbreviated into e̬, a form
 of contraction that will be found three times on the page set out in
-[Plate X.](bok14.htm#img_pl10) and once in [Plate
-XV.](bok19.htm#img_pl15) (Mathathie̬). It is true that this abbreviation
+[Plate X.](bok14.htm#img_pl10.md) and once in [Plate
+XV.](bok19.htm#img_pl15) (Mathathie̬.md). It is true that this abbreviation
 occurs in other Irish manuscripts of an early date; but there is a
 variant of it in the Kells Manuscript which does not seem to have been
 observed, and one which I have not succeeded in finding elsewhere, viz.,
 â, in which the single-barbed arrow *above* the letter represents the e
 of the diphthong. It occurs, for instance, in fol. 124. V., where "vae"
 is written "uâ," and it will be seen in [Plate
-XVI.](bok20.htm#img_pl16), though in a slightly different position, in
+XVI.](bok20.htm#img_pl16.md), though in a slightly different position, in
 connection with the word "ressa" = ressæ. Similarly, in [Plate
-XV.](bok19.htm#img_pl15) "ianne" with same mark to right of the e =
-"iannæ." <span id="fr_18"></span>[†](#fn_18) The fact that this variant
+XV.](bok19.htm#img_pl15.md) "ianne" with same mark to right of the e =
+"iannæ." <span id="fr_18"></span>[†](#fn_18.md) The fact that this variant
 is a refinement, as it were,
 
 <span id="page_30">p. 30</span>
@@ -1371,8 +1371,8 @@ or small circles, in triangular groups. I find no reference to this
 feature in any of the writings on the Book of Kells, although the
 consistency with which it manifests itself seems to be full of strong
 suggestion. If, for obvious reasons, we except three Plates, viz.,
-[VIII.](bok12.htm#img_pl08), [XI.](bok13.htm#img_pl09), and
-[XIV.](bok18.htm#img_pl14), all the full-page illuminations reproduced
+[VIII.](bok12.htm#img_pl08), [XI.](bok13.htm#img_pl09.md), and
+[XIV.](bok18.htm#img_pl14.md), all the full-page illuminations reproduced
 here will be found to contain instances of its occurrence. The triangle
 was, as we know, symbolical of the Trinity, and so of Christianity
 generally, in mediæval times. For this reason perhaps it is that its use
@@ -1380,7 +1380,7 @@ in the Book of Kells is confined to the garments, symbols, or
 surroundings of only holy personages. It is not found, for instance, on
 the garments of the two Jews in the picture of the arrest of Christ; nor
 does it appear in connection with the six small half-figures in the
-border panel of [Plate II.](bok06.htm#img_pl02), all of whom have their
+border panel of [Plate II.](bok06.htm#img_pl02.md), all of whom have their
 backs turned to the Virgin and Child. Its occurrence may therefore be
 taken to indicate a badge of association with Christ and His teaching:
 its absence, to denote an anti-Christian attitude, unless there be
@@ -1474,7 +1474,7 @@ forms of S, for instance, are used, the round capital and the tall
 half-uncial. A preference is also shown for the capital R—obviously for
 greater clearness. Three forms of "a" are used; "b" and "l" are always
 bent; "d" is both with the perpendicular stroke (d) and with the stroke
-thrown back (ð). <span id="fr_19"></span>[\*](#fn_19) Other
+thrown back (ð). <span id="fr_19"></span>[\*](#fn_19.md) Other
 peculiarities may be noticed in the Plates of the text.
 
 <span class="margnote">More than one hand in the script.</span>It may
@@ -1571,10 +1571,10 @@ employment of extremely sharp metallic pens or reeds. Amongst the first
 to reject this belief was Dr. Keller, whose opinion—now very generally
 accepted—was that the early Irish pens were the quills of swans, geese,
 crows, and other birds. The representation of St. John in the Book of
-Kells ([Plate XVIII.](bok22.htm#img_pl18)) and some other more or less
+Kells ([Plate XVIII.](bok22.htm#img_pl18).md) and some other more or less
 contemporary pictures from ancient manuscripts were rightly relied on by
 him in support of his contention. The early monkish inkpot is also
-illustrated in the last-mentioned [Plate](bok22.htm#img_pl18): it was
+illustrated in the last-mentioned [Plate](bok22.htm#img_pl18.md): it was
 usually conical in shape, and attached either to the arm of the scribe's
 chair, or fastened to a stick let into the floor. The vellum, or
 parchment,
@@ -1731,10 +1731,10 @@ Each succeeding wave brought its own types of ornament, tribal or
 national as the case might be, changed perhaps in trivial respects from
 what they were originally, but sufficiently characteristic to form the
 basis of higher artistic developments when occasion arose for putting
-them to use. <span id="fr_20"></span>[\*](#fn_20)
+them to use. <span id="fr_20"></span>[\*](#fn_20.md)
 
 <span class="margnote">J. A. Brunn's views.</span>In the words of Johan
-A. Brunn, <span id="fr_21"></span>[†](#fn_21) whose name I have already
+A. Brunn, <span id="fr_21"></span>[†](#fn_21.md) whose name I have already
 mentioned: "The spiral design was no accidental feature in the pages of
 Celtic art, nor was it confined to such simple, uniform scrolls as those
 we find used as a kind of border ornament by several prehistoric
@@ -1747,7 +1747,7 @@ and gold—both as regards construction and decoration.
 
 "It has been suggested that, at least in some types, it was developed
 under the influence of floral or foliated schemes transplanted from
-classical ground. <span id="fr_22"></span>[‡](#fn_22) If so that might
+classical ground. <span id="fr_22"></span>[‡](#fn_22.md) If so that might
 account for part of its force and freedom, qualities so rare in an
 ornament of purely geometrical extraction; while, on the other hand, in
 case the opinion be correct, the Celtic pattern may be said to be the
@@ -1813,14 +1813,14 @@ extended lines for filling vacant spaces in a, large design, as is the
 Book of Lindisfarne. Their more usual employment in the Book of Kells is
 for the purpose of adding as it were a fringe to exterior lines. Their
 use is very frequently relied on in the case of the smaller initial.
-(*See* Plates [XX](bok24.htm#img_pl20) to [XXIV](bok28.htm#img_pl24))
+(*See* Plates [XX](bok24.htm#img_pl20) to [XXIV](bok28.htm#img_pl24).md)
 
 A somewhat curious distinction, in relation to this type of
 ornamentation, is to be found between the Book of Kells and the
 Lindisfarne Gospels. In the former the dots are almost always in single
 lines, while in the latter they are frequently used in-doable lines,
 producing a somewhat richer form of fringe. <span
-id="fr_23"></span>[\*](#fn_23)
+id="fr_23"></span>[\*](#fn_23.md)
 
  
 
@@ -2003,7 +2003,7 @@ in the drawing and colouring of the human figure . . . In moulding the
 type of the head the ever-present spiral was resorted to as a capital
 means of putting the face into the requisite shape, by regulating the
 troublesome curves of the nose, the mouth and the ears. <span
-id="fr_24"></span>[\*](#fn_24) This undoubtedly added to the regularity
+id="fr_24"></span>[\*](#fn_24.md) This undoubtedly added to the regularity
 of the type, but unfortunately not to its beauty."
 
 Again, in reference to animal forms, and the conventionalising of them,
@@ -2043,7 +2043,7 @@ figures of either Saviour, saint or man which meet us in the pages of
 the Book of Kells, not to mention other manuscripts, of about the same
 period, are, in reality, what might now be termed heraldic. Their being
 so gives them at once an artistic as well as a theological value. They
-are heraldic [because](errata.htm#1) no other form of pictorially
+are heraldic [because](errata.htm#1.md) no other form of pictorially
 personified humanity could be made to fit in with the decorative
 surroundings in which they are enshrined; while the deliberate avoidance
 of any real resemblance to humanity only intensifies the spirit of
@@ -2067,13 +2067,13 @@ subject, though the two manuals
 <span id="page_46">p. 46</span>
 
 are by no means unanimous all through. <span
-id="fr_25"></span>[\*](#fn_25) For example (amongst many that might be
+id="fr_25"></span>[\*](#fn_25.md) For example (amongst many that might be
 mentioned), in the case of the representation of St. John the
 Evangelist, the Eastern practice was to paint him as "an old man, bald,
 large, not very thick beard"; while the Irish painters were enjoined by
 both the Book of Ballymote and by the ancient Irish poem in the Codex
 Maelbrighte to depict him "without any beard." <span
-id="fr_26"></span>[†](#fn_26)
+id="fr_26"></span>[†](#fn_26.md)
 
 Celtic departures from the formalities prescribed by Eastern
 authority—and they are frequent—would seem to point to the existence of
@@ -2097,7 +2097,7 @@ the large illuminations, every verse of every chapter in the four
 Gospels commences with one of them. Their infinite variety shows an
 artistic originality of a perfectly bewildering nature. Their beauty of
 form and colour is reproduced with a rare fidelity in our illustrations
-(Plates [XX](bok24.htm#img_pl20) to [XXIV](bok28.htm#img_pl24)) which
+(Plates [XX](bok24.htm#img_pl20) to [XXIV](bok28.htm#img_pl24).md) which
 are taken from the copies made by the late Mrs. Helen Campbell D’Olier,
 of Dublin, a highly-gifted illuminator who devoted a great portion of
 her life to the work. There are no two of these letters the same
@@ -2166,96 +2166,96 @@ EDWARD SULLIVAN.
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:\*](bok04.htm#fr_0) Archdall's *Monasticon
+<span id="fn_0"></span>[4:\*](bok04.htm#fr_0.md) Archdall's *Monasticon
 Hibernicum*.
 
-<span id="fn_1"></span>[4:†](bok04.htm#fr_1) "Annals of Ulster," sub
+<span id="fn_1"></span>[4:†](bok04.htm#fr_1.md) "Annals of Ulster," sub
 anno 1006.
 
-<span id="fn_2"></span>[5:\*](bok04.htm#fr_2) Hic maiestatis vultum
+<span id="fn_2"></span>[5:\*](bok04.htm#fr_2.md) Hic maiestatis vultum
 videas divinitus impressum; hinc misticas evangelistarum formas, nunc
 senas, nunc quaternas, nunc binas alas habentes.
 
-<span id="fn_3"></span>[5:†](bok04.htm#fr_3) If the words
+<span id="fn_3"></span>[5:†](bok04.htm#fr_3.md) If the words
 "Evangelistarum formas" can be made to refer to the Evangelistic Symbols
 (and not to the representations of the Evangelists), it is true that
 some of them have what seem to be four wings. In no case do they appear
 with six.
 
-<span id="fn_4"></span>[6:\*](bok04.htm#fr_4) "National Manuscripts of
+<span id="fn_4"></span>[6:\*](bok04.htm#fr_4.md) "National Manuscripts of
 Ireland," J. T. Gilbert's introduction. The words *Midensis elect* refer
 to Ussher's recent election to the Bishopric of Meath.
 
-<span id="fn_5"></span>[8:\*](bok04.htm#fr_5) *Paleographia Sacra
+<span id="fn_5"></span>[8:\*](bok04.htm#fr_5.md) *Paleographia Sacra
 Pictoris*. Book of Kells.
 
-<span id="fn_6"></span>[8:†](bok04.htm#fr_6) It is difficult to think
+<span id="fn_6"></span>[8:†](bok04.htm#fr_6.md) It is difficult to think
 that Westwood (and the late Dr. Abbott, who took the same view) can here
 be right. The dog in the Bible had a notoriously evil reputation, being
 "unclean" under the Old Law, and would hardly have been selected as an
 ornament for the Virgin's throne. The head can surely be no other than
 that of the Lion, which also appears at the end of two of the columns in
-[Plate I.](bok05.htm#img_pl01), and is found as a border terminal in
-Plates [VI.](bok10.htm#img_pl06) and [XI.](bok15.htm#img_pl11), not to
+[Plate I.](bok05.htm#img_pl01.md), and is found as a border terminal in
+Plates [VI.](bok10.htm#img_pl06) and [XI.](bok15.htm#img_pl11.md), not to
 mention other places throughout the Manuscript. There may possibly be in
-[Plate II.](bok06.htm#img_pl02) an allusion to Solomon's throne (1 Kings
+[Plate II.](bok06.htm#img_pl02.md) an allusion to Solomon's throne (1 Kings
 x. 59), where two lions had a place beside the stays of the seat.
 
-<span id="fn_7"></span>[13:\*](bok04.htm#fr_7) "Celtic illuminated Art,"
+<span id="fn_7"></span>[13:\*](bok04.htm#fr_7.md) "Celtic illuminated Art,"
 Dublin, 1908.
 
-<span id="fn_8"></span>[15:\*](bok04.htm#fr_8) In the Cottonian Library,
+<span id="fn_8"></span>[15:\*](bok04.htm#fr_8.md) In the Cottonian Library,
 British Museum.
 
-<span id="fn_9"></span>[16:\*](bok04.htm#fr_9) Now deposited in the
+<span id="fn_9"></span>[16:\*](bok04.htm#fr_9.md) Now deposited in the
 National Museum of Ireland, Dublin. A chromo-lithographic reproduction,
 which, however, is somewhat defective in softness and harmony of colour,
 may be seen in *Vetusta Monumenta*.
 
-<span id="fn_10"></span>[16:†](bok04.htm#fr_10) Margaret Stokes, "Early
+<span id="fn_10"></span>[16:†](bok04.htm#fr_10.md) Margaret Stokes, "Early
 Christian Art in Ireland," London, 1887, p. 13.
 
-<span id="fn_11"></span>[19:\*](bok04.htm#fr_11) If a lens is used for
+<span id="fn_11"></span>[19:\*](bok04.htm#fr_11.md) If a lens is used for
 the purpose of examining the plates in the present volume it will be
 found that one of moderate capacity is more effectual than a strong
 magnifier.
 
-<span id="fn_12"></span>[20:\*](bok04.htm#fr_12) "The Book of Kells," an
+<span id="fn_12"></span>[20:\*](bok04.htm#fr_12.md) "The Book of Kells," an
 Oxford Lecture, 1886.
 
-<span id="fn_13"></span>[21:\*](bok04.htm#fr_13) Westwood has a misprint
+<span id="fn_13"></span>[21:\*](bok04.htm#fr_13.md) Westwood has a misprint
 here reading "explicit" for "incipit." (*Palæographia Sacra Pictoria*.)
 
-<span id="fn_14"></span>[23:\*](bok04.htm#fr_14) The Golden Gospels,
+<span id="fn_14"></span>[23:\*](bok04.htm#fr_14.md) The Golden Gospels,
 written on purple vellum for Ceolfrid, Abbot of Wearmouth, c. 700, were,
 as Quaritch states, the first Vulgate text seen in England ("Book
 Illumination during the Middle Ages," 1889).
 
-<span id="fn_15"></span>[26:\*](bok04.htm#fr_15) As will be seen, p. 24
+<span id="fn_15"></span>[26:\*](bok04.htm#fr_15.md) As will be seen, p. 24
 *ante*, Westwood misreads the contractions "dī" and "dō" as "divinus"
 and "domino" instead of "deus" and "deo."
 
-<span id="fn_16"></span>[28:\*](bok04.htm#fr_16) Miss Stokes, too, is
+<span id="fn_16"></span>[28:\*](bok04.htm#fr_16.md) Miss Stokes, too, is
 quite emphatic in reference to the Book of Durrow, which is admittedly
 one of the earliest Irish manuscripts: "There is no sign of any
 vegetable forms being used." Yet the illustration she gives, from the
 Book of Durrow ("Early Christian Art in Ireland," p. 17), seems to throw
 some doubt upon her assertion.
 
-<span id="fn_17"></span>[29:\*](bok04.htm#fr_17) Nomina Sacra. München,
+<span id="fn_17"></span>[29:\*](bok04.htm#fr_17.md) Nomina Sacra. München,
 1907.
 
-<span id="fn_18"></span>[29:†](bok04.htm#fr_18) If it be objected that
+<span id="fn_18"></span>[29:†](bok04.htm#fr_18.md) If it be objected that
 the arrow in the last two cases is a flourish and not a contraction
 marks, I would draw attention to the fact that the flourishes here are
 attached to the letter, while contraction marks are detached.
 
-<span id="fn_19"></span>[32:\*](bok04.htm#fr_19) Examples of almost all
+<span id="fn_19"></span>[32:\*](bok04.htm#fr_19.md) Examples of almost all
 these forms are to be seen in the text reproduced in [Plate
-X](bok14.htm#img_pl10). See [p. 17](#page_17) *ante* for an uncontracted
+X](bok14.htm#img_pl10). See [p. 17](#page_17.md) *ante* for an uncontracted
 reading of the whole.
 
-<span id="fn_20"></span>[38:\*](bok04.htm#fr_20) Mr. George Coffey ("The
+<span id="fn_20"></span>[38:\*](bok04.htm#fr_20.md) Mr. George Coffey ("The
 Bronze Age in Ireland," 1913) writes: "Ireland during the Bronze Age was
 not isolated, but stood in direct communication with the Continent.
 ægean and Scandinavian influences can be detected in the great tumuli of
@@ -2266,28 +2266,28 @@ gold." Mr. Coffey assumes that spirals were introduced from Scandinavia,
 where this motive had penetrated early from the Ægean along the amber
 route.
 
-<span id="fn_21"></span>[38:†](bok04.htm#fr_21) "An Enquiry into the Art
+<span id="fn_21"></span>[38:†](bok04.htm#fr_21.md) "An Enquiry into the Art
 of the Illuminated MSS. of the Middle Ages." Stockholm, 1897.
 
-<span id="fn_22"></span>[38:‡](bok04.htm#fr_22) Mr. George Coffey, for
+<span id="fn_22"></span>[38:‡](bok04.htm#fr_22.md) Mr. George Coffey, for
 instance, thinks that Celtic designs were (after 400 B.C.) influenced by
 classical anthemion and meander patterns, which were modified by the
 Celtic love of spiral and scroll.
 
-<span id="fn_23"></span>[40:\*](bok04.htm#fr_23) The double rows of red
+<span id="fn_23"></span>[40:\*](bok04.htm#fr_23.md) The double rows of red
 dots are also found in MacDurnan's Gospels (Lambeth Palace Library), but
 this manuscript is not regarded as earlier than the end of the ninth
 century.
 
-<span id="fn_24"></span>[44:\*](bok04.htm#fr_24) A singular example of
+<span id="fn_24"></span>[44:\*](bok04.htm#fr_24.md) A singular example of
 this artistic coercion will be seen in [Plate
-XVIII.](bok22.htm#img_pl18), where the top edge of a book is *rounded*
+XVIII.](bok22.htm#img_pl18.md), where the top edge of a book is *rounded*
 so as to be in proper alignment with the nimbus upon which it impinges.
 
-<span id="fn_25"></span>[46:\*](bok04.htm#fr_25) "Early Christian Art in
+<span id="fn_25"></span>[46:\*](bok04.htm#fr_25.md) "Early Christian Art in
 Ireland."
 
-<span id="fn_26"></span>[46:†](bok04.htm#fr_26) It is worthy of notice
+<span id="fn_26"></span>[46:†](bok04.htm#fr_26.md) It is worthy of notice
 that St. Doha in the Kells Manuscript has fair hair and a beard, while
 the St. John of the Book of Lindisfarne has no beard. The latter
 deviation is the more remarkable as the Lindisfarne portraits are
@@ -2297,6 +2297,6 @@ generally assumed to be more Byzantine than those in the Book of Kells.
 
 ------------------------------------------------------------------------
 
-[Next: Plate I. A Page of the Eusebian Canons. Fol. 5 R](bok05)
+[Next: Plate I. A Page of the Eusebian Canons. Fol. 5 R](bok05.md)
 
 </div>

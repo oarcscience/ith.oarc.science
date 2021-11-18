@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](teia09)  [Next](teia11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](teia09)  [Next](teia11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -77,7 +77,7 @@ I could here erect for you a castle,
 [![''Merlin, changed into the appearance of a fair young squire, by
 degrees made acquaintance with Vivian, who told him who she was.''--p.
 50](tn/05000.jpg)  
-Click to enlarge](img/05000.jpg)  
+Click to enlarge](img/05000.jpg.md)  
 ''Merlin, changed into the appearance of a fair young squire, by degrees
 made acquaintance with Vivian, who told him who she was.''--p. 50  
 
@@ -348,4 +348,4 @@ crystal, beneath a sunset sky.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Sir Lancelot of the Lake](teia11)
+[Next: VIII. Sir Lancelot of the Lake](teia11.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos15)  [Next](mos17) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos15)  [Next](mos17.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ so on of many clues.
 
 ------------------------------------------------------------------------
 
-[Next: Moses Only Wanted to Get Them Into The Holy Lands](mos17)
+[Next: Moses Only Wanted to Get Them Into The Holy Lands](mos17.md)

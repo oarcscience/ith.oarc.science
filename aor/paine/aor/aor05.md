@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Thomas Paine](../index)  [Index](index) 
-[Previous](aor04)  [Next](aor06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Thomas Paine](../index)  [Index](index.md) 
+[Previous](aor04)  [Next](aor06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595479104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595479104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ much forgotten, too much misunderstood, lost his life."—Editor.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Of The Bases of Christianity](aor06)
+[Next: Chapter IV. Of The Bases of Christianity](aor06.md)

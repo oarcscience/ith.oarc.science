@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal16)  [Next](goal18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal16)  [Next](goal18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -198,7 +198,7 @@ that will be called Elijah; for Jesus said concerning Elijah, "Elijah
 truly shall first come, and restore *all things*." Now mark you, he
 declared that Elijah should first come and restore all things, but he
 added in rather an equivocal way, "Elijah is come already, <span
-id="fr_10"></span>[\*](#fn_10) and they knew him not, but have done unto
+id="fr_10"></span>[\*](#fn_10.md) and they knew him not, but have done unto
 him whatsoever they listed"—they killed him (John the Baptist).
 
 It is generally thought that he referred to the reincarnation of Elijah,
@@ -331,9 +331,9 @@ path, so that nothing can deceive you.
 
 ### Footnotes
 
-<span id="fn_10"></span>[161:\*](goal17.htm#fr_10) Matt. xvii. 12, "An
+<span id="fn_10"></span>[161:\*](goal17.htm#fr_10.md) Matt. xvii. 12, "An
 Elijah has come already." (Rotherham's version.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. The Angels of God](goal18)
+[Next: Chapter XIV. The Angels of God](goal18.md)

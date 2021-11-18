@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Ssu-ma
-Chien](index) [Taoism](../../tao/index)
+[Intangible Textual Heritage](../../index.md) [Ssu-ma
+Chien](index) [Taoism](../../tao/index.md)
 
 ------------------------------------------------------------------------
 
@@ -83,5 +83,5 @@ will."
 
 ------------------------------------------------------------------------
 
-[Intangible Textual Heritage](../../index) [Ssu-ma
-Chien](index) [Taoism](../../tao/index)
+[Intangible Textual Heritage](../../index.md) [Ssu-ma
+Chien](index) [Taoism](../../tao/index.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta28)  [Next](sta30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta28)  [Next](sta30.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,7 +134,7 @@ Hindu Trimurti),
 <span id="img_12100"></span>
 
 [![THE FOUR SEPHIROTHIC TREES. ](tn/12100.jpg)  
-Click to enlarge](img/12100.jpg)  
+Click to enlarge](img/12100.jpg.md)  
 THE FOUR SEPHIROTHIC TREES.  
 
 The forty concentric circles shown in the large circular cut in the
@@ -208,7 +208,7 @@ the four elements. This is the divine Eve that is taken out
 <span id="img_12200"></span>
 
 [![A TABLE OF SEPHIROTHIC CORRESPONDENCES.](tn/12200.jpg)  
-Click to enlarge](img/12200.jpg)  
+Click to enlarge](img/12200.jpg.md)  
 A TABLE OF SEPHIROTHIC CORRESPONDENCES.  
 
 From Fludd's *Collectio Operum*.
@@ -228,7 +228,7 @@ Shakespeare, and the first Rosicrucian authors.
 <span id="img_12300"></span>
 
 [![THE SEPHIROTHIC TREE OF THE LATER QABBALISTS.](tn/12300.jpg)  
-Click to enlarge](img/12300.jpg)  
+Click to enlarge](img/12300.jpg.md)  
 THE SEPHIROTHIC TREE OF THE LATER QABBALISTS.  
 
 Translated from Kircher's *Œdipus Ægyptiacus*.
@@ -419,7 +419,7 @@ regard to the nature of God." (See *Morals and Dogma*.)
 <span id="img_12400"></span>
 
 [![THE SEPHIROTH IN THE FORM OF THE SOLAR SYSTEM.](tn/12400.jpg)  
-Click to enlarge](img/12400.jpg)  
+Click to enlarge](img/12400.jpg.md)  
 THE SEPHIROTH IN THE FORM OF THE SOLAR SYSTEM.  
 
 From Maurice's *Indian Antiquities*.
@@ -433,4 +433,4 @@ least importance.
 
 ------------------------------------------------------------------------
 
-[Next: Qabbalistic Keys to the Creation of Man](sta30)
+[Next: Qabbalistic Keys to the Creation of Man](sta30.md)

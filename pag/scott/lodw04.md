@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](lodw03)  [Next](lodw05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](lodw03)  [Next](lodw05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ studies, by his knowledge of that noble collection, are bound to name
 with gratitude), used to point out, amongst the ancient altars under his
 charge, one which is consecrated, *Diis* *campestribus,* and usually
 added, with a wink, "The fairies, ye ken." <span
-id="fr_21"></span>[22](#fn_21) This relic of antiquity was discovered
+id="fr_21"></span>[22](#fn_21.md) This relic of antiquity was discovered
 near Roxburgh Castle, and a vicinity more delightfully appropriate to
 the abode of the silvan deities can hardly be found. Two rivers of
 considerable size, made yet more remarkable by the fame which has
@@ -65,7 +65,7 @@ fancy.
       Dr. Leyden, who exhausted on this subject, as upon most others, a
 profusion of learning, found the first idea of the elfin people in the
 Northern opinions concerning the duergar, or dwarfs. <span
-id="fr_22"></span>[23](#fn_22) These were, however, it must be owned,
+id="fr_22"></span>[23](#fn_22.md) These were, however, it must be owned,
 spirits of a coarser sort, more laborious vocation, and more malignant
 temper, and in all respects less propitious to humanity, than the
 fairies (properly so called), which were the invention of the Celtic
@@ -124,7 +124,7 @@ themselves conjurers. He becomes a formidable opponent to Theodorick and
 his chivalry; but as he attempted by treachery to attain the victory, he
 is, when overcome, condemned to fill the dishonourable yet appropriate
 office of buffoon and juggler at the Court of Verona. <span
-id="fr_23"></span>[24](#fn_23)
+id="fr_23"></span>[24](#fn_23.md)
 
       Such possession of supernatural wisdom is still imputed by the
 natives of the Orkney and Zetland Islands to the people called *Drows*,
@@ -245,7 +245,7 @@ that he was then going on an unlawful business.
 story, even to having seen the butler raised into the air by the
 invisible beings who strove to carry him off. Only he did not bear
 witness to the passage which seems to call the purchase of cards an
-unlawful errand. <span id="fr_24"></span>[25](#fn_24)
+unlawful errand. <span id="fr_24"></span>[25](#fn_24.md)
 
       Individuals, whose lives had been engaged in intrigues of politics
 or stratagems of war, were sometimes surreptitiously carried off to
@@ -307,7 +307,7 @@ Celts and of the Goths on this subject. The great Scottish poet Dunbar
 has made a spirited description of this Hecate riding at the head of
 witches and good neighbours (fairies, namely), sorceresses and elves,
 indifferently, upon the ghostly eve of All-Hallow Mass. <span
-id="fr_25"></span>[26](#fn_25) In Italy we hear of the hags arraying
+id="fr_25"></span>[26](#fn_25.md) In Italy we hear of the hags arraying
 themselves under the orders of Diana (in her triple character of Hecate,
 doubtless) and Herodias, who were the joint leaders of their choir, But
 we return to the more simple fairy belief, as entertained by the Celts
@@ -332,7 +332,7 @@ sole survivor of the field, to throw his sword Excalibar into the lake
 hard by. Twice eluding the request, the esquire at last complied, and
 threw the far-famed weapon into the lonely mere. A hand and arm arose
 from the water and caught Excalibar by the hilt, flourished it thrice,
-and then sank into the lake. <span id="fr_26"></span>[27](#fn_26) The
+and then sank into the lake. <span id="fr_26"></span>[27](#fn_26.md) The
 astonished messenger returned to his master to tell him the marvels he
 had seen, but he only saw a boat at a distance push from the land, and
 heard shrieks of females in agony: --  
@@ -449,7 +449,7 @@ and enjoyed the fame of his predictions, several of which are current
 among the country people to this day. At length, as the prophet was
 entertaining the Earl of March in his dwelling, a cry of astonishment
 arose in the village, on the appearance of a hart and hind, <span
-id="fr_27"></span>[28](#fn_27) which left the forest and, contrary to
+id="fr_27"></span>[28](#fn_27.md) which left the forest and, contrary to
 their shy nature, came quietly onward, traversing the village towards
 the dwelling of Thomas. The prophet instantly rose from the board; and,
 acknowledging the prodigy as the summons of his fate, he accompanied the
@@ -517,8 +517,8 @@ upon my horse, and he on another milk-white east. After much travel I
 asked him where he dwelt and what his name was. He told me that his
 dwelling was a mile off, at a place called *Farran*, of which place I
 had never heard, though I knew all the country round about.  <span
-id="fr_28"></span>[29](#fn_28) He also told me that he himself was that
-person of the family of Learmonths <span id="fr_29"></span>[30](#fn_29)
+id="fr_28"></span>[29](#fn_28.md) He also told me that he himself was that
+person of the family of Learmonths <span id="fr_29"></span>[30](#fn_29.md)
 so much spoken of as a prophet. At which I began to be somewhat fearful,
 perceiving we were on a road which I never had been on before, which
 increased my fear and amazement more. Well, on we went till he brought
@@ -531,7 +531,7 @@ I first met him, and made a shift to get home by three in the morning.
 But the money I had received was just double of what I esteemed it when
 the woman paid me, of which at this instant I have several pieces to
 show, consisting of ninepennies, thirteen pence-halfpennies," &c. <span
-id="fr_30"></span>[31](#fn_30) It is a great pity that this
+id="fr_30"></span>[31](#fn_30.md) It is a great pity that this
 horse-dealer, having specimens of the fairy coin, of a quality more
 permanent than usual had not favoured us with an account of an impress s
 valuable to medalists. It is not the less edifying, as we are deprived
@@ -600,7 +600,7 @@ ourselves.
 
 ### Footnotes
 
-<span id="fn_21"></span>[22](lodw04.htm#fr_21) Another altar of elegant
+<span id="fn_21"></span>[22](lodw04.htm#fr_21.md) Another altar of elegant
 form and perfectly preserved, was, within these few weeks, dug up near
 the junction of the Leader and the Tweed, in the neighbourhood of the
 village of Newstead, to the east of Melrose. It was inscribed by Carrius
@@ -610,42 +610,42 @@ country disposed the feelings of the Romans to acknowledge the presence
 of the rural deities. The altar is preserved of Drygrange, the seat of
 Mr. Tod.
 
-<span id="fn_22"></span>[23](lodw04.htm#fr_22) See the essay on the
+<span id="fn_22"></span>[23](lodw04.htm#fr_22.md) See the essay on the
 Fairy Superstition, in the "Minstrelsy of the Scottish Border," of which
 many of the materials were contributed by Dr. Leyden, and the whole
 brought into its present form by the author.
 
-<span id="fn_23"></span>[24](lodw04.htm#fr_23) See an abstract, by the
+<span id="fn_23"></span>[24](lodw04.htm#fr_23.md) See an abstract, by the
 late learned Henry Weber, of "A Lay on this subject of King Laurin,"
 complied by Henry of Osterdingen. "Northern Antiquities," Edinburgh,
 1814.
 
-<span id="fn_24"></span>[25](lodw04.htm#fr_24) "Sadducismus
+<span id="fn_24"></span>[25](lodw04.htm#fr_24.md) "Sadducismus
 Triumphatus," by Joseph Glanville, p. 131. Edinburgh, 1790.
 
-<span id="fn_25"></span>[26](lodw04.htm#fr_25) See "Flyting of Dunbar
+<span id="fn_25"></span>[26](lodw04.htm#fr_25.md) See "Flyting of Dunbar
 and Kennedy."
 
-<span id="fn_26"></span>[27](lodw04.htm#fr_26) See "Percy's Reliques of
+<span id="fn_26"></span>[27](lodw04.htm#fr_26.md) See "Percy's Reliques of
 Ancient English Poetry."
 
-<span id="fn_27"></span>[28](lodw04.htm#fr_27) This last circumstance
+<span id="fn_27"></span>[28](lodw04.htm#fr_27.md) This last circumstance
 seems imitated from a passage in the "Life of Merlin" by Jeffrey of
 Monmouth. See Ellis's "Ancient Romances," Vol. i. p. 73.
 
-<span id="fn_28"></span>[29](lodw04.htm#fr_28) In this the author is in
+<span id="fn_28"></span>[29](lodw04.htm#fr_28.md) In this the author is in
 the same ignorance as his namesake Reginald, though having at least as
 many opportunities of information.
 
-<span id="fn_29"></span>[30](lodw04.htm#fr_29) In popular tradition, the
+<span id="fn_29"></span>[30](lodw04.htm#fr_29.md) In popular tradition, the
 name of Thomas Rhymer was always averred to be Learmonth, though he
 neither uses it himself, nor is described by his son other than Le
 Rymour. Learmonths Dairsie, Fife, claimed descent from prophet.
 
-<span id="fn_30"></span>[31](lodw04.htm#fr_30) "Discourse of Devils and
+<span id="fn_30"></span>[31](lodw04.htm#fr_30.md) "Discourse of Devils and
 Spirits appended to the Discovery of Witchcraft," by Reginald Scot,
 Esq., book ii. chap. 3, sec. 19.
 
 ------------------------------------------------------------------------
 
-[Next: Letter 5](lodw05)
+[Next: Letter 5](lodw05.md)

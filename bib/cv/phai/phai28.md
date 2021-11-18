@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai27) 
-[Next](phai29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai27.md) 
+[Next](phai29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -262,7 +262,7 @@ deposition. Augustus assented, banishing Archelaus to Vienne, and
 putting in his place a Roman procurator. Thenceforward Judæa continued
 under procurators, with the exception of a brief interval (41-44 A.D.),
 during which Herod Agrippa I. united under his sway all the dominions of
-his grandfather. <span id="fr_270"></span>[1](#fn_270)
+his grandfather. <span id="fr_270"></span>[1](#fn_270.md)
 
 The termination of the vassal kingship resulted in manifest advantage to
 the Sadducees. The high priest and synedrium again acquired political
@@ -484,7 +484,7 @@ the fall of Masada (April 73).
 
 ### Footnotes
 
-<span id="fn_270"></span>[533:1](phai28.htm#fr_270) Agrippa was the
+<span id="fn_270"></span>[533:1](phai28.htm#fr_270.md) Agrippa was the
 grandson of Mariamne through Aristobulus. Caligula, whose friendship he
 had secured in Rome, bestowed upon him in 37 the dominions of Philip
 with the title of king, and afterwards the tetrarchy of Antipas, whom he
@@ -499,4 +499,4 @@ some time an Armenian principality.
 
 ------------------------------------------------------------------------
 
-[Next: 15. The Rabbins.](phai29)
+[Next: 15. The Rabbins.](phai29.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift03) 
-[Next](ift05) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift03.md) 
+[Next](ift05.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ Whereupon he tore open Drumikin and gobbled up Lambikin.
 
 ------------------------------------------------------------------------
 
-[Next: Punchkin](ift05)
+[Next: Punchkin](ift05.md)

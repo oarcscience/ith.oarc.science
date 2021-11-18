@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](amu12)  [Next](amu14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](amu12)  [Next](amu14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ regards, etc. . . .
 Now one perceives in all these aggregatory ideas and rearrangements of
 the sympathies one of the chief vices of human thought, due to its
 obsession by classificatory suggestions.  <span
-id="fr_33"></span>[34](#fn_33) The necessity for marking our classes has
+id="fr_33"></span>[34](#fn_33.md) The necessity for marking our classes has
 brought with it a bias for false and excessive contrast, and we never
 invent a term but we are at once cramming it with implications beyond
 its legitimate content. There is no feat of irrelevance that people will
@@ -171,7 +171,7 @@ Swedish painting or American literature. And I will confess and point
 out that my own detachment from these delusions is so imperfect and
 discontinuous that in another passage I have committed myself to a short
 assertion of the exceptionally noble quality of the English imagination.
- <span id="fr_34"></span>[35](#fn_34) I am constantly gratified by
+ <span id="fr_34"></span>[35](#fn_34.md) I am constantly gratified by
 flattering untruths about English superiority which I should reject
 indignantly were the application bluntly personal, and I am ever ready
 to believe the scenery of England, the poetry of England, even the
@@ -251,7 +251,7 @@ forth. A book that has had enormous influence in this matter, because of
 its use in teaching, is J. R. Green's *Short History of the English
 People*, with its grotesque insistence upon Anglo-Saxonism. And just now
 the world is in a sort of delirium about race and the racial struggle.
-The Briton forgetting his Defoe,  <span id="fr_35"></span>[36](#fn_35)
+The Briton forgetting his Defoe,  <span id="fr_35"></span>[36](#fn_35.md)
 the Jew forgetting the very word proselyte, the German forgetting his
 anthropometric variations, and the Italian forgetting everything, are
 obsessed by the singular purity of their blood, and the danger of
@@ -302,7 +302,7 @@ again to power.
 anything of the sort—"scientists'" science, in fact. What science has to
 tell about "The Races of Man" will be found compactly set forth by
 Doctor J. Deinker, in the book published under that title.  <span
-id="fr_36"></span>[37](#fn_36) From that book one may learn the
+id="fr_36"></span>[37](#fn_36.md) From that book one may learn the
 beginnings of race charity. Save for a few isolated pools of savage
 humanity, there is probably no pure race in the whole world. The great
 continental populations are all complex mixtures of numerous and
@@ -397,7 +397,7 @@ tint, some trick of the tongue, or habit of gesture, or such-like
 superficiality. And after all there exists to-day available one kind at
 least of unbiased anthropological evidence. There are photographs. Let
 the reader turn over the pages of some such copiously illustrated work
-as *The Living Races of Mankind*,  <span id="fr_37"></span>[38](#fn_37)
+as *The Living Races of Mankind*,  <span id="fr_37"></span>[38](#fn_37.md)
 and look into the eyes of one alien face after another. Are they not
 very like the people one knows? For the most part, one finds it hard to
 believe that, with a common language and common social traditions, one
@@ -791,22 +791,22 @@ them long since and already passed them by.
 
 ### Footnotes
 
-<span id="fn_33"></span>[34](amu13.htm#fr_33) See Chapter One, Section
+<span id="fn_33"></span>[34](amu13.htm#fr_33.md) See Chapter One, Section
 5, and the Appendix.
 
-<span id="fn_34"></span>[35](amu13.htm#fr_34) Chapter Seven, Section 6.
+<span id="fn_34"></span>[35](amu13.htm#fr_34.md) Chapter Seven, Section 6.
 
-<span id="fn_35"></span>[36](amu13.htm#fr_35) *The True-born
+<span id="fn_35"></span>[36](amu13.htm#fr_35.md) *The True-born
 Englishman*.
 
-<span id="fn_36"></span>[37](amu13.htm#fr_36) See also an excellent
+<span id="fn_36"></span>[37](amu13.htm#fr_36.md) See also an excellent
 paper in the *American Journal of Sociology* for March, 1904, "The
 Psychology of Race Prejudice," by W. I. Thomas.
 
-<span id="fn_37"></span>[38](amu13.htm#fr_37) *The Living Races of
+<span id="fn_37"></span>[38](amu13.htm#fr_37.md) *The Living Races of
 Mankind*, by H. N. Hutchinson, J. W. Gregory, and R. Lydekker.
 (Hutchinson ).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eleven](amu14)
+[Next: Chapter Eleven](amu14.md)

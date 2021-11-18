@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap16) 
-[Next](chap18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap16.md) 
+[Next](chap18.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ them.
 ------------------------------------------------------------------------
 
 [Next: Chapter 18: Of Things that Take Away the Bad Smell from the
-Armpit and Sexual Parts of Women and Contract the Latter](chap18)
+Armpit and Sexual Parts of Women and Contract the Latter](chap18.md)

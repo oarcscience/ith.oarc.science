@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla07)  [Next](mla09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla07)  [Next](mla09.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ roams across the wild wastes of Australia.
 
 ------------------------------------------------------------------------
 
-[Next: A Legend of the Great Flood](mla09)
+[Next: A Legend of the Great Flood](mla09.md)

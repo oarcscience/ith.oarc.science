@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth20)  [Next](oth22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth20)  [Next](oth22.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ explained.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10](oth22)
+[Next: Chapter 10](oth22.md)

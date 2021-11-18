@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd23)  [Next](odd25) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd23)  [Next](odd25.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ said, and was very kind to the little Princess, and sent her secretly as
 much food as she could spare from her own dinner. But as they drove her
 from their door, the six wives of the elder brothers cried out, 'Go
 away, wicked girl, go away, and never let us see your face again until
-you marry Chundun Rajah!  <span id="fr_73"></span>[1](#fn_73) When you
+you marry Chundun Rajah!  <span id="fr_73"></span>[1](#fn_73.md) When you
 invite us to the wedding, and give us six eldest six common wooden
 stools to sit on, but the seventh sister (who always takes your part) a
 fine emerald chair, we will believe you innocent of all the evil deeds
@@ -148,7 +148,7 @@ Princess still here?'--.'Yes,' he answered; 'for she is weary with her
 journey, and she has no home to go to.' The Rajah said, 'Since she has
 neither home nor friends, if she be willing, you shall marry me to her,
 and she shall wander no further in search of shelter.' So the Brahman
-fetched his shastra  <span id="fr_74"></span>[2](#fn_74) and called all
+fetched his shastra  <span id="fr_74"></span>[2](#fn_74.md) and called all
 his family as witnesses, and married the Rajah to the little Princess,
 reading prayers over them, and scattering rice and flowers upon their
 heads. And there the Chundun Ranee lived for some time. She was very
@@ -164,7 +164,7 @@ death? and what it is that brings you to life each night at twelve
 o'clock?'
 
 'Yes,' he said, 'it is because I have lost my Chundun Har,  <span
-id="fr_75"></span>[3](#fn_75) the sacred necklace that held my soul. A
+id="fr_75"></span>[3](#fn_75.md) the sacred necklace that held my soul. A
 Pen stole it. I was in the palace garden one day, when many of those
 winged ladies flew over my head, and one of them, when she saw me, loved
 me, and asked me to marry her. But I said no, I would not; and at that
@@ -176,7 +176,7 @@ and she asks me to come away with her, and marry her, and she does not
 put on the necklace again for two or three hours, waiting to see if I
 will consent. During that time I live. But when she finds I will not,
 she puts on the necklace again, and flies away, and as soon as she puts
-it on, I die. <span id="fr_76"></span>[4](#fn_76)--' Cannot the Pen be
+it on, I die. <span id="fr_76"></span>[4](#fn_76.md)--' Cannot the Pen be
 caught?' asked the Chundun Ranee; but her husband answered, 'No, I have
 often tried to seize back my necklace--for if I could regain it I should
 come wholly to life again,--but the Pen can at will render herself
@@ -321,14 +321,14 @@ together in perfect peace and harmony unto their lives' end.
 
 ### Footnotes
 
-<span id="fn_73"></span>[1](odd24.htm#fr_73) King Sandalwood.
+<span id="fn_73"></span>[1](odd24.htm#fr_73.md) King Sandalwood.
 
-<span id="fn_74"></span>[2](odd24.htm#fr_74) Sacred books.
+<span id="fn_74"></span>[2](odd24.htm#fr_74.md) Sacred books.
 
-<span id="fn_75"></span>[3](odd24.htm#fr_75) Sandalwood necklace.
+<span id="fn_75"></span>[3](odd24.htm#fr_75.md) Sandalwood necklace.
 
-<span id="fn_76"></span>[4](odd24.htm#fr_76) See Notes.
+<span id="fn_76"></span>[4](odd24.htm#fr_76.md) See Notes.
 
 ------------------------------------------------------------------------
 
-[Next: XXI. Sodewa Bai](odd25)
+[Next: XXI. Sodewa Bai](odd25.md)

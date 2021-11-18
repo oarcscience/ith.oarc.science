@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ftmg07)  [Next](ftmg09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ftmg07)  [Next](ftmg09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fairy Tales of Modern Greece*, by Theodore P. Gianakoulis and Georgia
 H. MacPherson, \[1930\], at Intangible Textual Heritage
 
@@ -115,7 +115,7 @@ lily fingers.
 
 <span id="img_06100"></span> <span align="CENTER"> [![She shrieked and
 fled like a wild dart of light.](tn/06100.jpg)  
-Click to enlarge](img/06100.jpg)  
+Click to enlarge](img/06100.jpg.md)  
 She shrieked and fled like a wild dart of light.  
 </span>
 
@@ -199,4 +199,4 @@ companions. She hides in the cave and for her sin she weeps eternally.
 
 ------------------------------------------------------------------------
 
-[Next: VI. A Fairy Wedding](ftmg09)
+[Next: VI. A Fairy Wedding](ftmg09.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar139) [Next](gbar141)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar139) [Next](gbar141.md)
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ building of his life, because he looketh not to the foundation of death!
 
 ------------------------------------------------------------------------
 
-[Next](gbar141)
+[Next](gbar141.md)

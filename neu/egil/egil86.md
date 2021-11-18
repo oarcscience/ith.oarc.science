@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil85)  [Next](egil87) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil85)  [Next](egil87.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ Thrand took to sitting by the cattle night and day.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXXVI. Slaying of Thrand.](egil87)
+[Next: CHAPTER LXXXVI. Slaying of Thrand.](egil87.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc16) 
-[Next](dsc18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc16.md) 
+[Next](dsc18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Lessons for Developing Spiritual Consciousness*, by A.P. Mukerji,
 \[1911\], at Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ starting with sudden fright at their own shadows and conscious all the
 while as if the brand of Cain had burnt its mark on their brows. Many
 are even now undergoing the tortures of Hell in the fierce conflicts
 raging in their souls. Many close their eyes when the cold hands of
-Death have seized upon them with this [saddening](errata.htm#20) cry,
+Death have seized upon them with this [saddening](errata.htm#20.md) cry,
 "To what end have I lived? Alas! I die as ignorant as I was born. All my
 fond wishes have vanished into thin vapor, all my long cherished aims
 have been shattered into pieces." Such are the woes of Mankind—God's
@@ -43,7 +43,7 @@ children.
 #### <span class="smallcaps">why?</span>
 
 "Ignorance is the only soil where Evils can grow and germinate"—so says
-[Patanjali](errata.htm#21). The misdirection of
+[Patanjali](errata.htm#21.md). The misdirection of
 
 <span id="page_118">p. 118</span>
 
@@ -220,7 +220,7 @@ these cravings that the face portrays and that something is money. You
 are already a worshipper of the Golden Calf. You are praying to
 Plutus—the god of gold. This is pecuniomania. This thirst for gold to
 gratify the demands of your animal soul is a madness that dulls the
-eyes, [stupefies](errata.htm#22) the senses, coarsens the features and
+eyes, [stupefies](errata.htm#22.md) the senses, coarsens the features and
 dwarfs the intellects of the young and the middle-aged as well as the
 old; women as well as men. Well may such as these feel utterly taken
 aback when there comes among them a man who, although young, opens his
@@ -308,7 +308,7 @@ in the meantime you are starving your soul. The moment you feel the need
 for a higher plane of Development, you will pray. Plato advised those
 who prayed to remain silent in the presence of the divine ones, till
 they remove the cloud from the eyes and enabled them to see by the light
-which issued from themselves." [Apollonius](errata.htm#23) always
+which issued from themselves." [Apollonius](errata.htm#23.md) always
 isolated himself from men during the "conversation" he held with God and
 whenever he felt the necessity for divine contemplation and prayer, he
 wrapped himself head and all in the drapery of his white woolen mantle.
@@ -359,4 +359,4 @@ Activity. Lean on it for it is Strength—Invincible Strength.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Thought: Creative and Exhaustive](dsc18)
+[Next: Chapter XVI. Thought: Creative and Exhaustive](dsc18.md)

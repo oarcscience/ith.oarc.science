@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat10)  [Next](jat12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat10)  [Next](jat12.md) 
 
 ------------------------------------------------------------------------
 
-### 9. THE KILLING OF THE BEAR. <span id="fr_19"></span>[4](#fn_19)
+### 9. THE KILLING OF THE BEAR. <span id="fr_19"></span>[4](#fn_19.md)
 
 When some children were playing one of them said, "I will be a bear." He
 made a pile of dirt which the other children carried away in their hands
@@ -38,7 +38,7 @@ behind, fell dead.
 
 ### Footnotes
 
-<span id="fn_19"></span>[203:4](jat11.htm#fr_19) The story given by
+<span id="fn_19"></span>[203:4](jat11.htm#fr_19.md) The story given by
 Russell, (a), p. 262, agrees very well except that Fox (Coyote) is the
 hero; but the bears referred to by Mooney (a, p. 208) seem not the same
 in any particular. Matthews has the incident of the gradual
@@ -50,4 +50,4 @@ Gros Ventre, Kroeber, (a), p. 105.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The Traveling Rock](jat12)
+[Next: 10. The Traveling Rock](jat12.md)

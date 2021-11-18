@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida04)  [Next](ida06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida04)  [Next](ida06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -327,4 +327,4 @@ Morhange recited the Benedicite.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Towards Latitude 25](ida06)
+[Next: Chapter IV. Towards Latitude 25](ida06.md)

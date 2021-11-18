@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc08)  [Next](pjc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc08)  [Next](pjc10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -97,4 +97,4 @@ who were also to make their Pasch in the supper-room, came later.
 
 ------------------------------------------------------------------------
 
-[Next: Meditation VI. The Last Pasch](pjc10)
+[Next: Meditation VI. The Last Pasch](pjc10.md)

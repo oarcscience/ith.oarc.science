@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb14)  [Next](olb16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb14)  [Next](olb16.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -12,9 +12,9 @@ Textual Heritage
 
 ### <span class="smallcaps">From Minno's Writings.</span>
 
-When Nyhalennia <span id="fr_7"></span>[\*](#fn_7), whose real name was
+When Nyhalennia <span id="fr_7"></span>[\*](#fn_7.md), whose real name was
 Min-erva, was well established, and the Krekalanders <span
-id="fr_8"></span>[†](#fn_8) loved her as well as our own people did,
+id="fr_8"></span>[†](#fn_8.md) loved her as well as our own people did,
 there came some princes and priests to her citadel and asked Min-erva
 where her possessions lay. Hellenia answered, I carry my possessions in
 my own bosom. What I have inherited is the love of wisdom, justice, and
@@ -105,7 +105,7 @@ she had never given, and related miracles that she had never performed.
 They cunningly made themselves masters of our laws and customs, and by
 craft and subtlety were able to explain and spread them around. They
 appointed priestesses under their own care, who were apparently under
-the protection of Festa <span id="fr_9"></span>[\*](#fn_9), our first
+the protection of Festa <span id="fr_9"></span>[\*](#fn_9.md), our first
 Eeremoeder, to watch over the holy lamp; but that lamp they lit
 themselves, and instead of imbuing the priestesses with wisdom, and then
 sending them to watch the sick and educate the young, they made them
@@ -125,15 +125,15 @@ unholy.
 
 ### Footnotes
 
-<span id="fn_7"></span>[49:\*](olb15.htm#fr_7) *Nyhellenia* or
+<span id="fn_7"></span>[49:\*](olb15.htm#fr_7.md) *Nyhellenia* or
 *Nehalennia*.
 
-<span id="fn_8"></span>[49:†](olb15.htm#fr_8) *Krekaland*, the
+<span id="fn_8"></span>[49:†](olb15.htm#fr_8.md) *Krekaland*, the
 Krekenland means Magna Grecia as well as Greece.
 
-<span id="fn_9"></span>[55:\*](olb15.htm#fr_9) *Fâsta* is Vesta, or the
+<span id="fn_9"></span>[55:\*](olb15.htm#fr_9.md) *Fâsta* is Vesta, or the
 Vestal Virgins.
 
 ------------------------------------------------------------------------
 
-[Next: From the Writings of Minno](olb16)
+[Next: From the Writings of Minno](olb16.md)

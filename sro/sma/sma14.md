@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma13)  [Next](sma15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma13)  [Next](sma15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -262,7 +262,7 @@ popular song of the spring, beginning with these lines:--
 
 <span class="small">When the sun from the fish to the ram doth return,  
 Spring's banner waves high on the breeze of the morn. <span
-id="fr_65"></span>[\*](#fn_65)</span>
+id="fr_65"></span>[\*](#fn_65.md)</span>
 
 </div>
 
@@ -413,7 +413,7 @@ instructive chapter in that of the human race.
 
 ### Footnotes
 
-<span id="fn_65"></span>[163:\*](sma14.htm#fr_65)
+<span id="fn_65"></span>[163:\*](sma14.htm#fr_65.md)
 
 <div style="margin-left: 32px">
 
@@ -459,4 +459,4 @@ eternal circulation, and forming new combinations.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](sma15)
+[Next: Chapter I](sma15.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg09)   
-[Previous](bgs08)  [Next](bgs10) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg09.md)   
+[Previous](bgs08)  [Next](bgs10.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ mām evaiṣyasi yuktvaivam ātmānaṃ matparāyaṇaḥ
 
 ------------------------------------------------------------------------
 
-[Next: X. atha daśamodhyāyaḥ. (vibhūtiyogaḥ)](bgs10)
+[Next: X. atha daśamodhyāyaḥ. (vibhūtiyogaḥ)](bgs10.md)

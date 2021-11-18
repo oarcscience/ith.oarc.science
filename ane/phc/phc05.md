@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](phc04)  [Next](phc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](phc04)  [Next](phc06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philistines*, by R.A.S. Macalister, \[1913\], at Intangible Textual
 Heritage
 
@@ -133,7 +133,7 @@ resisting the aggression of the Hebrew tribe with the help of their iron
 chariots: the previous verse, which contradicts this, and which
 unhistorically claims that Judah captured the cities Gaza, Ashkelon, and
 Ekron, must necessarily be an interpolation. <span
-id="fr_63"></span>[1](#fn_63) In Judges iii. 3 we find an agreement with
+id="fr_63"></span>[1](#fn_63.md) In Judges iii. 3 we find an agreement with
 the passage just cited from Joshua—the five lords of the Philistines, as
 well as the 'Canaanites' (whatever may be exactly meant by the name in
 this connexion), the Phoenicians, and the Hi\[tt\]ites are enumerated as
@@ -160,8 +160,8 @@ of the country under foreign oppressors, the writer describes how
 travellers and caravans, from fear, abandoned the main thoroughfares and
 journeyed along the by-paths, of which the winding valleys of Palestine
 offer an endless choice. This was in the days of a certain Shamgar son
-of Anath <span id="fr_64"></span>[1](#fn_64) (Judges v. 6). The name has
-a foreign appearance <span id="fr_65"></span>[2](#fn_65): a Hittite
+of Anath <span id="fr_64"></span>[1](#fn_64) (Judges v. 6.md). The name has
+a foreign appearance <span id="fr_65"></span>[2](#fn_65.md): a Hittite
 analogy (Sangar) has been sought for it. We cannot, however, conclude
 that he was necessarily a foreigner, even though his progenitor is said
 to be Anath, which happens to be a well-known goddess-name. There is not
@@ -189,10 +189,10 @@ from another part of the book, in order to provide an explanation for
 the allusion in Deborah's Song.
 
 It is curious that the chief Greek MSS. read Δίναχ instead of 'Anath'
-here, but not in Deborah's Song. <span id="fr_66"></span>[3](#fn_66) A
+here, but not in Deborah's Song. <span id="fr_66"></span>[3](#fn_66.md) A
 number of Greek MSS. *repeat* the verse relating to Shamgar after xvi.
 31—i.e. immediately after the story of Samson. This seems a better place
-for it. <span id="fr_67"></span>[4](#fn_67)
+for it. <span id="fr_67"></span>[4](#fn_67.md)
 
 <span id="page_42">p. 42</span>
 
@@ -202,7 +202,7 @@ of David. A remarkable parallel to the exploit of Shamgar has been found
 in the deed of 'Shammah the Hararite'—a not dissimilar name—one of
 David's followers, who in some such rough and ready way defended a field
 of crops—barley or lentils—from Philistine marauders. <span
-id="fr_68"></span>[1](#fn_68)
+id="fr_68"></span>[1](#fn_68.md)
 
 But can the story be so summarily dismissed? Grant all the
 difficulties—that Shamgar's name has a foreign aspect, that the prose
@@ -250,7 +250,7 @@ with Dor, which figures so conspicuously in the report of Wen-Amon; but
 this passage has been suspected and various emendations suggested, chief
 of which is to read ‏לגליל‎ for ‏לגלגל‎ and to translate 'king of
 nations belonging to Galilee'. This is of course reminiscent of the
-famous 'Galilee of the Gentiles' <span id="fr_69"></span>[1](#fn_69);
+famous 'Galilee of the Gentiles' <span id="fr_69"></span>[1](#fn_69.md);
 but on the other hand we may compare ‏גלילות פלשת‎ 'the Galilees of
 Philistia' in Joshua xiii. 2 and Joel iii. 4 (= Hebrew iv. 4), which in
 the latter passage is mentioned immediately after the Philistine
@@ -314,13 +314,13 @@ gladly know.
 
 In discussing this remarkable series of episodes it is unnecessary to
 raise the question of their historicity. <span
-id="fr_70"></span>[1](#fn_70) Still more irrelevant would be a
+id="fr_70"></span>[1](#fn_70.md) Still more irrelevant would be a
 discussion of the pseudo-scientific hypothesis that Samson (like
 Achilles, Heracles, Max Müller, Gladstone, and other demonstrated
 characters of mythology) was a solar myth. It is sufficient for the
 purpose of our present discussion that the tale gives us an early
 tradition of the condition of affairs at the time indicated; and as I
-have said elsewhere, <span id="fr_71"></span>[2](#fn_71) it is probably
+have said elsewhere, <span id="fr_71"></span>[2](#fn_71.md) it is probably
 to be regarded as a prose epic concentrating into the person of a single
 ideal hero the various incidents of a guerrilla border-warfare.
 
@@ -382,7 +382,7 @@ Testament: although it is possible
 <span id="page_46">p. 46</span>
 
 that such an intermediary was sometimes used without the fact being
-specifically stated. <span id="fr_72"></span>[1](#fn_72) But probably in
+specifically stated. <span id="fr_72"></span>[1](#fn_72.md) But probably in
 ancient as in modern Palestine everybody who had any position at all to
 maintain could speak several languages. The officers of Hezekiah and
 Sennacherib, for instance, could understand each the other's tongue, and
@@ -458,7 +458,7 @@ the precious seed thus recovered. But in the Philistine experience the
 plague of rats had a yet more serious consequence. Not only did they
 'mar the land', but as we now know to be the natural course of events,
 the parasites of the mice communicated to the people the disease of
-bubonic plague. <span id="fr_73"></span>[1](#fn_73)
+bubonic plague. <span id="fr_73"></span>[1](#fn_73.md)
 
 The disease broke out first in Ashdod, and was naturally explained as
 due to the presence of the Ark. They therefore dispatched it to Gath,
@@ -484,7 +484,7 @@ The following chapter (vii) apparently represents a different strand of
 tradition. According to this the Ark was suffered to remain in
 Kiriath-Jearim no less than twenty years, until, probably, it was
 brought up to Jerusalem at the beginning of the reign of David. <span
-id="fr_74"></span>[1](#fn_74) Samuel held a reconciliation service, as
+id="fr_74"></span>[1](#fn_74.md) Samuel held a reconciliation service, as
 it might be called, in which Israel renounced the various strange gods
 they had adopted. The Philistines came up to plunder this peaceful
 assembly, but were driven back by an appalling thunderstorm. The people
@@ -540,7 +540,7 @@ testified to his election. From this programme we learn incidentally
 that the Philistines had a sort of *mudir* or governor at a place called
 Gibeah of God (probably to be identified with the modern village of Ram
 Allah about twelve miles north of Jerusalem). <span
-id="fr_75"></span>[1](#fn_75) This fact underlines, so to speak, what
+id="fr_75"></span>[1](#fn_75.md) This fact underlines, so to speak, what
 has already been said about the absence of Philistine aggressions after
 the battle of Beth-Car. With an outpost so far east as the spot
 indicated, the actual territory of the Philistines included all the
@@ -552,7 +552,7 @@ Gibeah, there seems to have been a Philistine *mudir*.
 
 The Philistines, rightly considering this a sign of revolt, came up to
 quell the insurrection. The Israelites were gathered together with Saul
-in Michmash, <span id="fr_76"></span>[2](#fn_76) but when they saw the
+in Michmash, <span id="fr_76"></span>[2](#fn_76.md) but when they saw the
 overpowering might of the
 
 <span id="page_50">p. 50</span>
@@ -618,7 +618,7 @@ of 'holiness'. But Achish, the dignified though simple-minded lord of
 Gath, was not a Semite, and had no such superstitions. He is almost
 modern in his protests—'If you see a madman, why do you bring him to me?
 I want no madmen about me, and I will not have him in my house!' <span
-id="fr_77"></span>[1](#fn_77) We almost hear an echo of the sarcasms of
+id="fr_77"></span>[1](#fn_77.md) We almost hear an echo of the sarcasms of
 Zakar-Baal.
 
 All through the story of David's outlawry raids of the Philistines run
@@ -657,7 +657,7 @@ Hebrews that were with the Philistines’ were not to be trusted when the
 battle went against their masters (1 Sam. xiv. 21). So Achish sent David
 away, with a dignified courtesy which contrasts pleasingly with the
 duplicity, not to say treachery, of his protégé. <span
-id="fr_78"></span>[1](#fn_78) David accordingly departed to his own
+id="fr_78"></span>[1](#fn_78.md) David accordingly departed to his own
 quarters, and while the battle of Gilboa was being won and lost he was
 kept busy in avenging the raid which during his absence the Bedawin had
 very naturally made on Ziklag.
@@ -668,7 +668,7 @@ close to the banks of the Jordan. This further corroborates the
 conclusion already indicated as to the wide extension of Philistine
 territory. For they would hardly have put the trophy where they could
 not reasonably have expected to retain it. <span
-id="fr_79"></span>[2](#fn_79)
+id="fr_79"></span>[2](#fn_79.md)
 
 For the seven years of David's reign in Hebron the Philistines gave him
 no trouble. No doubt he continued to acknowledge himself as vassal of
@@ -686,7 +686,7 @@ ever-vigilant foes, not being willing to tolerate so
 <span id="page_53">p. 53</span>
 
 large an increase in the strength of a subordinate, then came up against
-him. <span id="fr_80"></span>[1](#fn_80)
+him. <span id="fr_80"></span>[1](#fn_80.md)
 
 Three battles, disastrous to the Philistines, are recorded as taking
 place early in David's reign over the united kingdoms. But the accounts
@@ -698,7 +698,7 @@ A. *The Battle of Baal-Perazim*.
 
 And when the Philistines heard that they had anointed David king over
 Israel, all the Philistines went up to seek David; and David heard of
-it, and went down to the hold. <span id="fr_81"></span>[2](#fn_81) Now
+it, and went down to the hold. <span id="fr_81"></span>[2](#fn_81.md) Now
 the Philistines had come and spread themselves in the valley of Rephaim.
 And David inquired of Yahweh, saying, Shall I go up against the
 Philistines? Wilt thou deliver them into mine hand? And Yahweh said unto
@@ -843,7 +843,7 @@ without the *mater lectionis* which the emendation suggested requires.
 Noting that in the text in Samuel the name 'Gob' is in both places
 followed by a word beginning with the letter ‏ע‎, I would now suggest
 that a second ‏ע‎ has dropped out in both places, and that for Gob we
-are to read ‏גבע‎, Geba. <span id="fr_82"></span>[1](#fn_82) The
+are to read ‏גבע‎, Geba. <span id="fr_82"></span>[1](#fn_82.md) The
 advantage of this correction is, that it would make both the Samuel and
 Chronicles versions right, and would show us where to fit the fragment
 under discussion. For we can scarcely avoid connecting an incident, said
@@ -858,7 +858,7 @@ spelling of the champion's name is scarcely important: yet it is
 tempting to inquire whether the form in Chronicles, ‏ספי‎, is not to be
 preferred, and, further, whether it may not be that it actually finds an
 echo to this day in the commonplace Arabic name *Tell eṣ-Ṣāfi*, commonly
-rendered 'The clear mound', <span id="fr_83"></span>[2](#fn_83) whereby
+rendered 'The clear mound', <span id="fr_83"></span>[2](#fn_83.md) whereby
 the most probable site of ancient Gath is now known. Jair for
 Jaare-oregim is certainly right, the latter half of the name as given by
 Samuel being a dittography of the word 'weaver's beam' in the next line;
@@ -941,7 +941,7 @@ to the west of the plain (now crowned by the Greek Patriarch's summer
 residence Kat’êmôn); that is, down the picturesque valley in which
 stands the Convent of the Cross. Then crossing into the Wady el-Werd by
 the site of the modern village of Malhah, <span
-id="fr_84"></span>[1](#fn_84) they attacked the Philistines on the rear.
+id="fr_84"></span>[1](#fn_84.md) they attacked the Philistines on the rear.
 Finding their retreat (down the present Wady el-Werd and its western
 continuation, the Wady es-Surar) cut off; the Philistines fled
 northward, past Jerusalem, as far as the village of Geba, and then
@@ -964,14 +964,14 @@ all-powerful but a few years previously. W. Max Müller
 
 <span id="page_59">p. 59</span>
 
-attempts to account for it <span id="fr_85"></span>[1](#fn_85) by an
+attempts to account for it <span id="fr_85"></span>[1](#fn_85.md) by an
 unrecorded attack of the Egyptian king, whereby he possessed himself of
 the Philistine coastland: arguing that in a list of Sheshonk's conquests
 in his campaign
 
 <span id="img_05900"></span> <span align="CENTER"> [![Fig. 2. Sketch-map
 to illustrate the Battle of Geba.](tn/05900.jpg)  
-Click to enlarge](img/05900.jpg)  
+Click to enlarge](img/05900.jpg.md)  
 Fig. 2. Sketch-map to illustrate the Battle of Geba.  
 </span>
 
@@ -991,7 +991,7 @@ or similar text: Chronicles has 'Gath and her suburbs', which is
 probably a guess at a reading which should be at least intelligible. It
 cannot be right, for we find Gath still independent under its king
 Achish at the beginning of Solomon's reign (1 Kings ii. 39). <span
-id="fr_86"></span>[1](#fn_86) This, however, does not forbid our
+id="fr_86"></span>[1](#fn_86.md) This, however, does not forbid our
 supposing the decisive battle to have taken place at or near Gath: a
 very likely place for David to attack, as he was no doubt familiar with
 its fortifications. There certainly appears to have been a battle at
@@ -1016,7 +1016,7 @@ Hebron district, but a remnant was left in the Philistine towns, where
 no doubt they mingled with the western newcomers. The tall stature
 attributed to these 'champions'—a physical feature never ascribed in the
 history to the Philistines themselves <span
-id="fr_87"></span>[2](#fn_87)—
+id="fr_87"></span>[2](#fn_87.md)—
 
 <span id="page_61">p. 61</span>
 
@@ -1081,45 +1081,45 @@ Nehemiah vii. 55.
 
 ### Footnotes
 
-<span id="fn_63"></span>[40:1](phc05.htm#fr_63) See Moore's
+<span id="fn_63"></span>[40:1](phc05.htm#fr_63.md) See Moore's
 *Commentary*, p. 37.
 
-<span id="fn_64"></span>[41:1](phc05.htm#fr_64) The additional note of
+<span id="fn_64"></span>[41:1](phc05.htm#fr_64.md) The additional note of
 time, 'In the days of Jael', is generally rejected as a gloss.
 
-<span id="fn_65"></span>[41:2](phc05.htm#fr_65) See Moore's *Judges*,
+<span id="fn_65"></span>[41:2](phc05.htm#fr_65.md) See Moore's *Judges*,
 pp. 142, 143, and *Journal of American Oriental Society*, xix b, p. 159.
 
-<span id="fn_66"></span>[41:3](phc05.htm#fr_66) The name Shamgar is
+<span id="fn_66"></span>[41:3](phc05.htm#fr_66.md) The name Shamgar is
 given as Σαμεγαρ, Σαμαγαρ, Σεμεγαρ, Σεμαγαρ, Αμεγαθ, Σαμεγαθ, Μαιγαρ,
 Εμεγαρ. His father's name in Judges iii is given as Διναχ, Δειναχ, Αναθ,
 Εναχ, Αιμαθ, Λιναθ; in Judges v as Αναθ, Κεναθ, Εναθ, Εναθαμ, Ανεθεμ.
 
-<span id="fn_67"></span>[41:4](phc05.htm#fr_67) The verse as repeated
+<span id="fn_67"></span>[41:4](phc05.htm#fr_67.md) The verse as repeated
 says that 'Semegar (or Emegar) son of Anan (Ainan, Enan) arose after
 Samson, and slew of the Foreigners, 600 men without the cattle, and he
 also saved Israel'. Note the transformation of the ox-goad.
 
-<span id="fn_68"></span>[42:1](phc05.htm#fr_68) 2 Sam. xxiii. 11; 1
+<span id="fn_68"></span>[42:1](phc05.htm#fr_68.md) 2 Sam. xxiii. 11; 1
 Chron. xi. 13.
 
-<span id="fn_69"></span>[43:1](phc05.htm#fr_69) Isa. ix. 1 (= Hebrew
+<span id="fn_69"></span>[43:1](phc05.htm#fr_69.md) Isa. ix. 1 (= Hebrew
 viii. 23).
 
-<span id="fn_70"></span>[44:1](phc05.htm#fr_70) For a study (from a
+<span id="fn_70"></span>[44:1](phc05.htm#fr_70.md) For a study (from a
 conservative standpoint) of the historicity of the Samson narrative see
 Samson, eine Untersuchung des historischen Charakters von Richt.
 xiii–xvi, von Dr. Edmund Kalt, Freiburg i. Br., 1912. This brochure
 contains a very useful bibliography.
 
-<span id="fn_71"></span>[44:2](phc05.htm#fr_71) *A History of
+<span id="fn_71"></span>[44:2](phc05.htm#fr_71.md) *A History of
 Civilization in Palestine*, p. 54.
 
-<span id="fn_72"></span>[46:1](phc05.htm#fr_72) Thus, it is only by a
+<span id="fn_72"></span>[46:1](phc05.htm#fr_72.md) Thus, it is only by a
 foot-note, as it were, that we learn that Joseph employed an interpreter
 in conversing with his brethren.
 
-<span id="fn_73"></span>[47:1](phc05.htm#fr_73) Some commentators (e. g.
+<span id="fn_73"></span>[47:1](phc05.htm#fr_73.md) Some commentators (e. g.
 H. P. Smith in the *International Critical Commentary*), while
 recognizing that the disease was plague, have missed the essential
 significance of the mice, and would remove them altogether as 'late
@@ -1132,27 +1132,27 @@ bacteriology) should have introduced mice into the story at all. The
 distorted version of the plague which destroyed Sennacherib's army,
 recorded in Herodotus ii. 141, also introduces mice very conspicuously.
 
-<span id="fn_74"></span>[48:1](phc05.htm#fr_74) The data for the
+<span id="fn_74"></span>[48:1](phc05.htm#fr_74.md) The data for the
 chronology of Saul's reign are notoriously insufficient. Note that Eli's
 great-grandson was priest in Shiloh at the time of the battle of
 Michmash (1 Sam. xiv. 3).
 
-<span id="fn_75"></span>[49:1](phc05.htm#fr_75) In the English version
+<span id="fn_75"></span>[49:1](phc05.htm#fr_75.md) In the English version
 (1 Sam. x. 5) the word ‏נציב‎, which in 1 Kings iv. 19 and elsewhere
 means 'a prefect or officer', is translated, probably wrongly, 'camp'.
 
-<span id="fn_76"></span>[49:2](phc05.htm#fr_76) There are some
+<span id="fn_76"></span>[49:2](phc05.htm#fr_76.md) There are some
 difficulties of interpretation and other critical complications in the
 passage, on which see the standard commentators.
 
-<span id="fn_77"></span>[51:1](phc05.htm#fr_77) The notion of a
+<span id="fn_77"></span>[51:1](phc05.htm#fr_77.md) The notion of a
 commentator, that Achish's protest was due to his being already troubled
 with insanity in his family, deserves a place in the same cabinet of
 curiosities with the speculations of the ancient blockhead who supposed
 that when Our Lord wrote with His finger on the ground (John viii. 6) He
 was making a catalogue of the secret sins of the bystanders!
 
-<span id="fn_78"></span>[52:1](phc05.htm#fr_78) No doubt there was a
+<span id="fn_78"></span>[52:1](phc05.htm#fr_78.md) No doubt there was a
 certain element of policy in Achish's hospitality: David being the known
 rival of the Hebrew king, it probably seemed desirable to foment the
 division between them. Winckler (*Gesch. Isr.*, p. 224) says (*ex
@@ -1161,36 +1161,36 @@ Fabel'. This sort of negative credulity is just as bad science as the
 positive credulity which swallows whole all the fancies of historical
 myth-makers.
 
-<span id="fn_79"></span>[52:2](phc05.htm#fr_79) Unless, indeed, we are
+<span id="fn_79"></span>[52:2](phc05.htm#fr_79.md) Unless, indeed, we are
 to identify this Beth-Shan with the unknown 'Shen', mentioned in the
 corrupt passage 1 Sam. vii. 12.
 
-<span id="fn_80"></span>[53:1](phc05.htm#fr_80) For a discussion of the
+<span id="fn_80"></span>[53:1](phc05.htm#fr_80.md) For a discussion of the
 obscure period of the dual reign of David and Ish-baal, with special
 reference to the problem of the reconcilement of David's seven and a
 half years with Ish-bosheth's two years, see the important article by
 Kamphausen, *Philister and Hebräer zur Zeit Davids*, in *Zeitsch. f. d.
 alttest. Wissensch.* (1886, vi, p. 44.
 
-<span id="fn_81"></span>[53:2](phc05.htm#fr_81) Hardly Adullam, as some
+<span id="fn_81"></span>[53:2](phc05.htm#fr_81.md) Hardly Adullam, as some
 commentators have supposed. Did the Adullam life continue after David
 was anointed king on Hebron?
 
-<span id="fn_82"></span>[56:1](phc05.htm#fr_82) The Greek and Peshitta
+<span id="fn_82"></span>[56:1](phc05.htm#fr_82.md) The Greek and Peshitta
 versions read *Gath*.
 
-<span id="fn_83"></span>[56:2](phc05.htm#fr_83) But really meaning, if
+<span id="fn_83"></span>[56:2](phc05.htm#fr_83.md) But really meaning, if
 anything, 'The mound of the clear one.' 'The clear mound' would be
 *Et-tell eṣ-Ṣāfa*.
 
-<span id="fn_84"></span>[58:1](phc05.htm#fr_84) They must in this case
+<span id="fn_84"></span>[58:1](phc05.htm#fr_84.md) They must in this case
 have passed close by some ancient tumuli, which stand west of Malhah:
 possibly the sacred balsam-trees were associated with these.
 
-<span id="fn_85"></span>[59:1](phc05.htm#fr_85) *Asien and Europa*, pp.
+<span id="fn_85"></span>[59:1](phc05.htm#fr_85.md) *Asien and Europa*, pp.
 389, 390.
 
-<span id="fn_86"></span>[60:1](phc05.htm#fr_86) It is *possible* that
+<span id="fn_86"></span>[60:1](phc05.htm#fr_86.md) It is *possible* that
 David showed kindness to Achish, in return for the kindness he had
 received from him, and allowed him to continue in his kingdom under
 vassalage. But this is perhaps hardly probable: and evidently the
@@ -1198,7 +1198,7 @@ runaway servants of Shimei thought that they would be out of their
 master's reach in Gath, so that that town was most likely quite
 independent of Jerusalem.
 
-<span id="fn_87"></span>[60:2](phc05.htm#fr_87) I may quote from *The
+<span id="fn_87"></span>[60:2](phc05.htm#fr_87.md) I may quote from *The
 Excavation of Gezer*, vol. i, p. 64, the descriptions of the only bones
 that have yet been found in Palestine which can be called 'Philistine'
 with reasonable probability. They 'are comparable with the types of
@@ -1218,6 +1218,6 @@ prognathous. The lower teeth were also very oblique.'
 
 ------------------------------------------------------------------------
 
-[Next: III. Their Decline and Disappearance](phc06)
+[Next: III. Their Decline and Disappearance](phc06.md)
 
 </div>

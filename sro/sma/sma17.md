@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma16)  [Next](sma18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma16)  [Next](sma18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ IN the year 1129 Hugh de Payens, accompanied by 300 knights of the
 noblest families in Europe, who had become members of the order, and
 followed by a large train of pilgrims, returned to the Holy Land.
 Shortly after his arrival, the unlucky expedition to Damascus above
-narrated <span id="fr_73"></span>[\*](#fn_73), was undertaken, and the
+narrated <span id="fr_73"></span>[\*](#fn_73.md), was undertaken, and the
 Templars formed a portion of the troops which marched, as they fancied,
 to take possession of that city. As has been observed, this is the first
 occasion on which we find the Christians in alliance and connection with
@@ -156,7 +156,7 @@ commencement."
 The Templars and the Ismaïlites are mentioned together by history in
 only one more relation, that is, on occasion of the tribute paid to the
 former by the Syrian branch of the latter, and the murder of the
-Ismaïlite ambassador above related <span id="fr_74"></span>[\*](#fn_74).
+Ismaïlite ambassador above related <span id="fr_74"></span>[\*](#fn_74.md).
 As this act was very probably committed by order of the Master of the
 Temple, who, it might be, doubted the ability or the future inclination
 of the kin; to pay the 3000 byzants a year, it testifies but little for
@@ -271,7 +271,7 @@ Hospitaliers became in consequence greater than ever.
 <span id="page_207">p. 207</span>
 
 In fact, as an extremely judicious writer <span
-id="fr_75"></span>[\*](#fn_75) observes, valiantly as the knights of the
+id="fr_75"></span>[\*](#fn_75.md) observes, valiantly as the knights of the
 spiritual orders fought against the heathens, and great as was their
 undoubted merit in the defence of the helpless pilgrims, it cannot be
 denied that these knights were, if not the original promoters, at least
@@ -343,7 +343,7 @@ path which was the most agreeable was also the most honourable.
 
 In the mastership of Ado of St. Amando, the successor of Philip of
 Naploos, occurred the treacherous murder of the Ismaïlite envoy above
-narrated <span id="fr_76"></span>[\*](#fn_76)--an act which brought the
+narrated <span id="fr_76"></span>[\*](#fn_76.md)--an act which brought the
 Templars into great disrepute with pious Christians, as it was quite
 manifest that they preferred money to winning souls to Christ.
 
@@ -351,17 +351,17 @@ manifest that they preferred money to winning souls to Christ.
 
 ### Footnotes
 
-<span id="fn_73"></span>[199:\*](sma17.htm#fr_73) See [p.
-88](sma08.htm#page_88).
+<span id="fn_73"></span>[199:\*](sma17.htm#fr_73.md) See [p.
+88](sma08.htm#page_88.md).
 
-<span id="fn_74"></span>[203:\*](sma17.htm#fr_74) Page
-[116](sma11.htm#page_116).
+<span id="fn_74"></span>[203:\*](sma17.htm#fr_74.md) Page
+[116](sma11.htm#page_116.md).
 
-<span id="fn_75"></span>[207:\*](sma17.htm#fr_75) Wilken Geschichte der
+<span id="fn_75"></span>[207:\*](sma17.htm#fr_75.md) Wilken Geschichte der
 Kreuzzüge, Vol. iii. pt. ii. p. 39.
 
-<span id="fn_76"></span>[209:\*](sma17.htm#fr_76) Page 116.
+<span id="fn_76"></span>[209:\*](sma17.htm#fr_76.md) Page 116.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](sma18)
+[Next: Chapter IV](sma18.md)

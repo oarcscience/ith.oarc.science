@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft37)  [Next](efft39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft37)  [Next](efft39.md) 
 
 ------------------------------------------------------------------------
 
-# THE FAIRY THIEVES.  <span id="fr_44"></span>[1](#fn_44)
+# THE FAIRY THIEVES.  <span id="fr_44"></span>[1](#fn_44.md)
 
 A FARMER in Hampshire was sorely distressed by the unsettling of his
 barn. However straightly over-night he laid his sheaves on the
@@ -34,9 +34,9 @@ disturbed the barn any more.
 
 ### Footnotes
 
-<span id="fn_44"></span>[1](efft38.htm#fr_44) T . Keightley, *The Fairy
+<span id="fn_44"></span>[1](efft38.htm#fr_44.md) T . Keightley, *The Fairy
 Mythology*, p. 305, quoting the *Literary Gazette* for 1825.
 
 ------------------------------------------------------------------------
 
-[Next: The Boggart](efft39)
+[Next: The Boggart](efft39.md)

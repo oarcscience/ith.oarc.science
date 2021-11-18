@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm19)  [Next](pnm21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm19)  [Next](pnm21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -79,13 +79,13 @@ matter (*i. e.*), such things which have a greater resemblance of things
 separated, have more powerful virtues in operation, being like to the
 operation of a separated *Idea*. We see then that the situation and
 figure of Celestials is the cause of all those excellent Virtues that
-are in inferior species. <span id="fr_14"></span>[\*](#fn_14)
+are in inferior species. <span id="fr_14"></span>[\*](#fn_14.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_14"></span>[66:\*](pnm20.htm#fr_14) An Idea of a pure
+<span id="fn_14"></span>[66:\*](pnm20.htm#fr_14.md) An Idea of a pure
 Element, whether the element be of time, space or matter, is an idea
 that pertains exclusively to such element, correlating with it as
 perfectly as the idea is perfect. As such idea must be evolved in an
@@ -95,4 +95,4 @@ experiment.
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. How It Is That Particular Virtues Are Infused into
-Particular Individuals, even of the Same Species](pnm21)
+Particular Individuals, even of the Same Species](pnm21.md)

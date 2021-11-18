@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm02)  [Next](wsm04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm02)  [Next](wsm04.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ Rat scattered the fire all over the country.
 
 ------------------------------------------------------------------------
 
-[Next: The Theft of Fire (Panamint Valley, California. Shoshoni)](wsm04)
+[Next: The Theft of Fire (Panamint Valley, California. Shoshoni)](wsm04.md)

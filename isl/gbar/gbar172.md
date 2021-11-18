@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar171) [Next](gbar173)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar171) [Next](gbar173.md)
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ comparison of that which I will give thee in my paradise."'
 
 ------------------------------------------------------------------------
 
-[Next](gbar173)
+[Next](gbar173.md)

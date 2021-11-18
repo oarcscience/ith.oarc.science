@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico063) 
-[Next](nico065) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico063.md) 
+[Next](nico065.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ scientific truth; for we often call such grasping understanding.
 ------------------------------------------------------------------------
 
 [Next: Chapter 11. Judgement--right discrimination of the equitable: the
-place of intuition in morals](nico065)
+place of intuition in morals](nico065.md)

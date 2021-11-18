@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi290)  [Next](mtsi292) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi290)  [Next](mtsi292.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ everywhere else."
 
 ------------------------------------------------------------------------
 
-[Next: 27. The Owl and the Perch](mtsi292)
+[Next: 27. The Owl and the Perch](mtsi292.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt15)  [Next](crt17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt15)  [Next](crt17.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_10600"></span>
 
 [![Tristram succors the Lady Moeya.](tn/10600.jpg)  
-Click to enlarge](img/10600.jpg)  
+Click to enlarge](img/10600.jpg.md)  
 Tristram succors the Lady Moeya.  
 
 <span id="page_107">p. 107</span>
@@ -335,4 +335,4 @@ his life.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Second](crt17)
+[Next: Chapter Second](crt17.md)

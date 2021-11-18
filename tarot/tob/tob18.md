@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob17) 
-[Next](tob19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob17.md) 
+[Next](tob19.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob17) 
 
 <span id="img_wiar05"></span>
 
-![THE POPE.](img/wiar05.jpg)  
+![THE POPE.](img/wiar05.jpg.md)  
 THE POPE.
 
    <span id="img_msar05"></span>
 
-![THE POPE.](img/msar05.jpg)  
+![THE POPE.](img/msar05.jpg.md)  
 THE POPE.
 
 5\. ה
@@ -193,4 +193,4 @@ Their reciprocal action will give rise to the *universal attraction* or
 
 ------------------------------------------------------------------------
 
-[Next: 6. The Lovers](tob19)
+[Next: 6. The Lovers](tob19.md)

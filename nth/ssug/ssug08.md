@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssug07)  [Next](ssug09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssug07)  [Next](ssug09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Self-Suggestion and the New Huna Theory of Mesmerism and Hypnosis*, by
 Max Freedom Long, \[1958\], at Intangible Textual Heritage
 
@@ -106,7 +106,7 @@ up most of the vital force
 
 when they are put under a muscular strain, and when they tire and close,
 the type of relaxation that goes ahead of natural sleep
-[comes](errata.htm#3) easily. Looking with the eyes strained upward at a
+[comes](errata.htm#3.md) easily. Looking with the eyes strained upward at a
 bright point of light or at a whirling disk on which has been painted a
 spiral line, tires the eyes quickly and tends to cause relaxation in
 modern hypnotic practice.
@@ -287,4 +287,4 @@ at all times.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](ssug09)
+[Next: Chapter 8](ssug09.md)

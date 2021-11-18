@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj07)  [Next](chj09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj07)  [Next](chj09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -48,16 +48,16 @@ Dispersion, for whom he wrote quite as much
 
 as for the Jews of Palestine, early met with favour in the remote
 countries where the Mahāyāna took its birth. Pantænus of
-Alexandria <span id="fr_64"></span>[1](#fn_64) found it in India when he
+Alexandria <span id="fr_64"></span>[1](#fn_64.md) found it in India when he
 went to that country as a Christian missionary at the end of the second
 century, and the story of the visit of the Magian pilgrims to Bethlehem
 evidently had a vogue of its own in Central Asia. An expanded version of
 the story has but recently been recovered from a sand-buried ruin in
 Turkestan, and given to the world of students. <span
-id="fr_65"></span>[2](#fn_65) It is true, it may be argued, that the
+id="fr_65"></span>[2](#fn_65.md) It is true, it may be argued, that the
 Magi were Parthians, and that the Parthians have had but little
 proveable connection with Indian forms of religion; <span
-id="fr_66"></span>[3](#fn_66) but we know that there were Parthian
+id="fr_66"></span>[3](#fn_66.md) but we know that there were Parthian
 Buddhists, and must remember that, besides the great Parthian Empire
 with which the Romans of the period so often came into conflict, there
 were at the time the Indo-Parthian satrapies in the Indus Valley, which
@@ -80,13 +80,13 @@ evangelist, had served as head of that establishment must have had many
 opportunities of making the acquaintance of travellers front distant
 countries. The silk trade between Asia and Europe was in the vigour of
 its early development. Varro is the first Roman writer to mention the
-subject. As’vaghosha, <span id="fr_67"></span>[1](#fn_67) the first
+subject. As’vaghosha, <span id="fr_67"></span>[1](#fn_67.md) the first
 great teacher and inspirer of the Mahāyāna, is honoured in Japan as the
 patron saint of the silkworm culture, and it was the Jews <span
-id="fr_68"></span>[2](#fn_68) who were the active promoters of this
+id="fr_68"></span>[2](#fn_68.md) who were the active promoters of this
 trade all along the lines of the trade routes from Antioch and
 Alexandria to their outpost colony in Kaifongfu, <span
-id="fr_69"></span>[3](#fn_69) in the province of Honan. It is evident
+id="fr_69"></span>[3](#fn_69.md) in the province of Honan. It is evident
 that the tradal affinities of Galilee of the Gentiles lay much more with
 the East than the West, and the personal influence of the evangelist who
 sat at the receipt of customs at Capernaum must have tended to spread
@@ -99,7 +99,7 @@ amongst whom they dwelt.
 I find a third point of possible contact in St. John xii. 20. We are
 there told that the Feast of the Passover at Jerusalem was visited not
 only by Jews, but also by Greeks (Ἕλληνες, not Ἑλληνισταί), <span
-id="fr_70"></span>[1](#fn_70) and that, on the occasion of the great
+id="fr_70"></span>[1](#fn_70.md) and that, on the occasion of the great
 Passover which saw the consummation of Christ's work, some of these
 Greeks came to Philip with the request that they might see Jesus. We are
 not told that Jesus saw them, but St. John tells us how Jesus recognized
@@ -123,7 +123,7 @@ Empire. Nay, it is clear that the zeal of unofficial preachers of Christ
 outran the slower movements of the authorized evangelists, and that the
 good news reached the extreme West, Spain, Gaul, and Britain, long
 before the arrival of Christian missionaries. <span
-id="fr_71"></span>[2](#fn_71)
+id="fr_71"></span>[2](#fn_71.md)
 
 <span id="page_55">p. 55</span>
 
@@ -137,7 +137,7 @@ John tells us were of a different kind from the friends and abettors of
 Herod.
 
 We will call to mind the statement made by Irenæus <span
-id="fr_72"></span>[1](#fn_72) that the Gospel of St. John was written
+id="fr_72"></span>[1](#fn_72.md) that the Gospel of St. John was written
 for the purpose of combating the heresy of the Nicolaitans, and we will
 anticipate matters a little by stating that there is very good reason
 for believing that the Nicolaitans professed a form of Buddhism almost
@@ -145,9 +145,9 @@ identical with the still-existing Shingon sect of Japan, a sect which
 pins all its faith on the mercies of an abstract and eternal Buddha of
 the name of Vairoc’ana, and which, significantly enough, gives to
 S’akyamuni the title of the "Lord of this World." <span
-id="fr_73"></span>[2](#fn_73) We will also remind ourselves of the fact
+id="fr_73"></span>[2](#fn_73.md) We will also remind ourselves of the fact
 that there existed an Asiatic colony of Greeks <span
-id="fr_74"></span>[3](#fn_74) in the valley of the Indus,
+id="fr_74"></span>[3](#fn_74.md) in the valley of the Indus,
 
 <span id="page_56">p. 56</span>
 
@@ -204,13 +204,13 @@ surprised horror.
 
 ### Footnotes
 
-<span id="fn_64"></span>[52:1](chj08.htm#fr_64) *Cf*. Eusebius, "Eccl.
+<span id="fn_64"></span>[52:1](chj08.htm#fr_64.md) *Cf*. Eusebius, "Eccl.
 Hist.," V.
 
-<span id="fn_65"></span>[52:2](chj08.htm#fr_65) By Dr. Müller in the
+<span id="fn_65"></span>[52:2](chj08.htm#fr_65.md) By Dr. Müller in the
 *Transactions* of the Berlin Museum für Völkerkunde.
 
-<span id="fn_66"></span>[52:3](chj08.htm#fr_66) Amongst the Sūtras
+<span id="fn_66"></span>[52:3](chj08.htm#fr_66.md) Amongst the Sūtras
 translated into Chinese by the batch of Buddhist missionaries who
 arrived at Lōyang in A.D. 147 is one on Astrology, of which an English
 translation was given in the *Contemporary Review* for February, 1876
@@ -225,35 +225,35 @@ will be seen, there were some sects of Buddhism which allowed their
 followers to have recourse to the soothsayer. There are such in Japan
 to-day. But see what I have to say in my chapter on the Han translators.
 
-<span id="fn_67"></span>[53:1](chj08.htm#fr_67) "Bukkyō Mondō Shū," p.
+<span id="fn_67"></span>[53:1](chj08.htm#fr_67.md) "Bukkyō Mondō Shū," p.
 33 ff.
 
-<span id="fn_68"></span>[53:2](chj08.htm#fr_68) I believe it is Dr.
+<span id="fn_68"></span>[53:2](chj08.htm#fr_68.md) I believe it is Dr.
 Graetz, in his "Geschichte der Juden," who brings out this point. The
 Jewish Diaspora must have been a great means of spreading a knowledge of
 Christ in remote regions. Think how Arab traders carry Mahometanism in
 Africa.
 
-<span id="fn_69"></span>[53:3](chj08.htm#fr_69) This little colony of
+<span id="fn_69"></span>[53:3](chj08.htm#fr_69.md) This little colony of
 Chinese Jews still exists, though on the verge of extinction.
 
-<span id="fn_70"></span>[54:1](chj08.htm#fr_70) The Hellenists (Acts
+<span id="fn_70"></span>[54:1](chj08.htm#fr_70.md) The Hellenists (Acts
 vi.) were Jews who spoke Greek; the Hellenes were Gentiles not in
 connection with either Judaism or Christianity.
 
-<span id="fn_71"></span>[54:2](chj08.htm#fr_71) See J. W. Taylor, "The
+<span id="fn_71"></span>[54:2](chj08.htm#fr_71.md) See J. W. Taylor, "The
 Coming of the Saints."
 
-<span id="fn_72"></span>[55:1](chj08.htm#fr_72) See Irenæus, "Adv.
+<span id="fn_72"></span>[55:1](chj08.htm#fr_72.md) See Irenæus, "Adv.
 Hær.," iii. xi.
 
-<span id="fn_73"></span>[55:2](chj08.htm#fr_73) The Japanese Shingon
+<span id="fn_73"></span>[55:2](chj08.htm#fr_73.md) The Japanese Shingon
 hold that S’akyamuni was only a partial manifestation of Vairoc’ana, and
 that his value as a teacher of religion is entirely confined to the
 things of this world. For all higher truths, they say, we must have
 recourse to the Supreme Buddha Vairoc’ana. See next chapter.
 
-<span id="fn_74"></span>[55:3](chj08.htm#fr_74) These Greek
+<span id="fn_74"></span>[55:3](chj08.htm#fr_74.md) These Greek
 principalities were the remnants of the Greek kingdom of Bactria,
 established by Diodotus in B.C. 248, and recognized by Antiochus B.C.
 208. It was divided in B.C. 175, Eucratides retaining Bactria, and
@@ -269,4 +269,4 @@ Smith, "Early History of India."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Alexandria and Antioch at the Time of Christ](chj09)
+[Next: Chapter VII. Alexandria and Antioch at the Time of Christ](chj09.md)

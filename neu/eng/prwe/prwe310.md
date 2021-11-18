@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe309)  [Next](prwe311) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe309)  [Next](prwe311.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ Of such a vast transition.' "
 
 ------------------------------------------------------------------------
 
-[Next: Goldsithney Fair and the Glove](prwe311)
+[Next: Goldsithney Fair and the Glove](prwe311.md)

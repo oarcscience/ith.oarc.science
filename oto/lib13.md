@@ -1,5 +1,5 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Sacred texts](../index)  [Thelema](index) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Sacred texts](../index)  [Thelema](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 
 ## A.·. A.·. Publication in Class D
 
-[<img src="images/abiegnus.jpg" width="300" height="429" alt="The Slopes of Abiegnus" />](images/large-abiegnus.jpg)
+[<img src="images/abiegnus.jpg" width="300" height="429" alt="The Slopes of Abiegnus" />](images/large-abiegnus.jpg.md)
 
 51\. Let not the failure and the pain turn aside the worshippers. The
 foundations of the pyramid were hewn in the living rock ere sunset; did

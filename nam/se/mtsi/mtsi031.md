@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi030)  [Next](mtsi032) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi030)  [Next](mtsi032.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ trophy of his former valor.
 
 ------------------------------------------------------------------------
 
-[Next: 30. The Monster Turtle](mtsi032)
+[Next: 30. The Monster Turtle](mtsi032.md)

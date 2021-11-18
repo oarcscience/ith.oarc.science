@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste29)  [Next](ste31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste29)  [Next](ste31.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ would give them life, and make them appear present to the mind. Farewel.
 
 ------------------------------------------------------------------------
 
-[Next: Contents of the Chapters (Books 3 and 4)](ste31)
+[Next: Contents of the Chapters (Books 3 and 4)](ste31.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb24)  [Next](ttb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb24)  [Next](ttb26.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_38">p. 38</span>
 
-<span id="img_03800"></span> ![Shaman, the Medicine Man](img/03800.jpg)
+<span id="img_03800"></span> ![Shaman, the Medicine Man](img/03800.jpg.md)
 
 ### Shaman, THE MEDICINE MAN
 
@@ -60,4 +60,4 @@ over their people and generally were very **halo-klahowya** (wealthy).
 
 ------------------------------------------------------------------------
 
-[Next: Chak-Chak, the Eagle](ttb26)
+[Next: Chak-Chak, the Eagle](ttb26.md)

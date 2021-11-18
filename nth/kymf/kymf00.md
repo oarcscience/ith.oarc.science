@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Next](kymf01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Next](kymf01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ That man and mate would never want for more</em>.</p>
 
 ------------------------------------------------------------------------
 
-[Next: Contents](kymf01)
+[Next: Contents](kymf01.md)

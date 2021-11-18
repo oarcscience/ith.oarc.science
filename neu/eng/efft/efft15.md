@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft14)  [Next](efft16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft14)  [Next](efft16.md) 
 
 ------------------------------------------------------------------------
 
-# THE LAMBTON WORM.  <span id="fr_16"></span>[1](#fn_16)
+# THE LAMBTON WORM.  <span id="fr_16"></span>[1](#fn_16.md)
 
 <span id="img_01"></span> [![](tn/01.jpg)  
-Click to enlarge](img/01.jpg)  
+Click to enlarge](img/01.jpg.md)  
 "HE STRUCK A VIOLENT BLOW UPON THE MONSTER'S HEAD."
 
 THE park and manor-house of Lambton, belonging to a family of the same
@@ -162,9 +162,9 @@ house of Lambton for nine generations.
 
 ### Footnotes
 
-<span id="fn_16"></span>[1](efft15.htm#fr_16) Henderson's *Folk-Lore of
+<span id="fn_16"></span>[1](efft15.htm#fr_16.md) Henderson's *Folk-Lore of
 the Northern Countie*s, p. 287.
 
 ------------------------------------------------------------------------
 
-[Next: Bomere Pool](efft16)
+[Next: Bomere Pool](efft16.md)

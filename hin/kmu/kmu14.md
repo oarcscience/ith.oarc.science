@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](kmu13)  [Next](kmu15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](kmu13)  [Next](kmu15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kundalini, The Mother of the Universe*, by Rishi Singh Gherwal,
 \[1930\], at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ Sixty and not 'One Thousand'. The Ajna Chakra has two petals, according
 to Yoga, but Rev. Leadbeater claims he found Ninety-six petals in the
 Ajna Chakra. All his counts are opposite the Yogis' Chakras, except one.
 He claims he found Nine Hundred and Sixty and
-[Ninety-six](errata.htm#39).
+[Ninety-six](errata.htm#39.md).
 
 Every Yogi cannot help but laugh, because there are really no petals at
 all. I will explain here, the symbols these petals stand for.
@@ -70,7 +70,7 @@ centers represent a letter. In the first or Root Chakra, Yoga puts four
 petals, six in the second, ten in the third, twelve in the fourth,
 sixteen in the fifth and two in the sixth, between the eyes. That
 includes the occult symbol of the Sanskrit alphabet. By
-[repeating](errata.htm#40) all of the fifty alphabetical letters twenty
+[repeating](errata.htm#40.md) all of the fifty alphabetical letters twenty
 times we have One Thousand—the symbol of the 'Thousand-petals'. We would
 like to know just where Rev. Leadbeater gets his idea that there are
 only 960. Now is he not off the trail, reader?
@@ -184,7 +184,7 @@ too, questions Rev. Leadbeater's remarks.
 "We may here notice the account of a well-known "Theosophical" author
 (Mr. C. W. Leadbeater), regarding what he calls the "Force Centres" and
 the "Serpent Fire," of which he writes that he has had
-[personal](errata.htm#41) experience. Though Mr. Leadbeater also refers
+[personal](errata.htm#41.md) experience. Though Mr. Leadbeater also refers
 to the Yoga Shastra, it may perhaps exclude error if we here point out
 that his account does not profess to be a representation of the teaching
 of the Indian Yogis (whose competence for their own Yoga the author
@@ -192,26 +192,26 @@ somewhat disparages), but that it is put forward as the Author's own
 original explanation (fortified, as he conceives, by certain portions of
 Indian teaching) of the personal experience which (he writes) he himself
 has had. This experience appears to consist in the conscious arousing of
-the "Serpent Fire," <span id="fr_9"></span>[1](#fn_9) with the enhanced
+the "Serpent Fire," <span id="fr_9"></span>[1](#fn_9.md) with the enhanced
 "astral" and mental vision which he believes has shown him what he tells
-us. <span id="fr_10"></span>[2](#fn_10)
+us. <span id="fr_10"></span>[2](#fn_10.md)
 
 <span id="page_154">p. 154</span>
 
 <span class="contnote">\[paragraph continues\]</span> The centres, or
 Chakras, of the human body are by Mr. Leadbeater described to be
-vortices of "etheric" matter <span id="fr_11"></span>[3](#fn_11) into
-which rush from the "astral" <span id="fr_12"></span>[4](#fn_12) world,
+vortices of "etheric" matter <span id="fr_11"></span>[3](#fn_11.md) into
+which rush from the "astral" <span id="fr_12"></span>[4](#fn_12.md) world,
 and at right angles to the plane of the whirling disc, the sevenfold
 force of the Logos bringing "divine life" into the physical body. Though
 all these seven forces operate on all the centres, in each of them one
 form of the force is greatly predominant. These inrushing forces are
 alleged to set up on the surface of the "etheric double" <span
-id="fr_13"></span>[5a](#fn_13) secondary forces at right angles to
+id="fr_13"></span>[5a](#fn_13.md) secondary forces at right angles to
 themselves. The primary force on entrance into the vortex radiates again
 in straight lines, but at right angles. The number of these radiations
 of the primal force is said to determine the number of "petals" <span
-id="fr_14"></span>[6](#fn_14) (as the Hindus call them) which the
+id="fr_14"></span>[6](#fn_14) (as the Hindus call them.md) which the
 "Lotus" or vortex exhibits. The secondary force rushing round the vortex
 produces, it is said, the appearance of the petals of a flower, or,
 "perhaps more accurately, saucers or shallow vases of wavy iridescent
@@ -223,10 +223,10 @@ to an incoming
 force of the Logos—both the "Lotuses" described in the Hindu books and
 the number of their petals is accounted for by the author, who
 substitutes for the Svadhishthana centre a six-petalled lotus at the
-spleen, <span id="fr_15"></span>[5b](#fn_15) and corrects the number of
-petals of the lotus in [the](errata.htm#42) head, which he says is not a
+spleen, <span id="fr_15"></span>[5b](#fn_15.md) and corrects the number of
+petals of the lotus in [the](errata.htm#42.md) head, which he says is not a
 thousand, as the book of this Yoga say, "but exactly 960". <span
-id="fr_16"></span>[6a](#fn_16)
+id="fr_16"></span>[6a](#fn_16.md)
 
 "There are some resemblances between this account and the teaching of
 the Yoga Shastra, with which in a general way the author cited appears
@@ -245,7 +245,7 @@ Next there is the Force "the
 <span class="contnote">\[paragraph continues\]</span> Serpent Fire,"
 which the Hindus call Kundalini, in the lowest centre, the Muladhara.
 Lastly, the effect of the rousing of this force, which is accomplished
-by will power (Yogabala), <span id="fr_17"></span>[8](#fn_17) is said to
+by will power (Yogabala), <span id="fr_17"></span>[8](#fn_17.md) is said to
 exalt the physical consciousness through the ascending planes to the
 "heaven world". To use the Hindu expression, the object and aim of
 Shatchakrabheda is Yoga. This is ultimately union with the Supreme Self
@@ -268,9 +268,9 @@ necessity for the possession of health and strength, the thought, will,
 and morality, which it is proposed to subject to its influence must be
 first purified and strengthened before they are intensified by the
 vivifying influence of the aroused force. Further, as I have elsewhere
-pointed out, <span id="fr_18"></span>[9](#fn_18) the Yogis say that the
+pointed out, <span id="fr_18"></span>[9](#fn_18.md) the Yogis say that the
 piercing of the Brahmagranthi or "knot" <span
-id="fr_19"></span>[10](#fn_19) sometimes involves considerable pain,
+id="fr_19"></span>[10](#fn_19.md) sometimes involves considerable pain,
 physical disorder, and even disease, as is not unlikely to follow from
 concentration on such a centre as the navel (Nabhipadma).
 
@@ -285,7 +285,7 @@ the purpose of stimulating the sexual centre. Another author
 
 <span id="page_158">p. 158</span>
 
-says: <span id="fr_20"></span>[11](#fn_20) "The mere dabbler in the
+says: <span id="fr_20"></span>[11](#fn_20.md) "The mere dabbler in the
 pseudo-occult will only degrade his intellect with the puerilities of
 psychism, become the prey of the evil influence of the phantasmal world,
 or ruin his soul by the foul practices of phallic sorcery—as thousands
@@ -309,7 +309,7 @@ possibility does not come under consideration.
 practices this or any other kind of spiritual Yoga ordinarily does so
 not on account of a curious interest in occultism or with a desire to
 gain "astral" or similar experiences. <span
-id="fr_21"></span>[12](#fn_21) His attitude in this as in all other
+id="fr_21"></span>[12](#fn_21.md) His attitude in this as in all other
 matters is essentially a religious one, based on a firm faith in Brahman
 (Sthiranishtha), and inspired by a desire for union with It which is
 liberation.
@@ -356,7 +356,7 @@ the six Chakras which are dealt with in this account.
 
 "In the Indian system the total number of the petals corresponds with
 the number of the letters of the Sanskrit Alphabet, <span
-id="fr_22"></span>[13](#fn_22) and the number of the petals of any
+id="fr_22"></span>[13](#fn_22.md) and the number of the petals of any
 specific lotus is determined by the disposition of the subtile "nerves"
 Nadis around it. These petals, further, bear subtile sound-powers, and
 are fifty in number, as are the letters of the Sanskrit Alphabet.
@@ -367,7 +367,7 @@ character, such as long life, freedom from desire and sin, control of
 the senses, knowledge, power of speech, and fame. Some of these and
 other qualities are results common to concentration on more than one
 Chakra. Others are stated in connection with the contemplation upon one
-centre only. Such [statements](errata.htm#43)
+centre only. Such [statements](errata.htm#43.md)
 
 <span id="page_162">p. 162</span>
 
@@ -380,8 +380,8 @@ create the world.
 
 "It is also said that mastery of the centres may produce various Siddhis
 or powers in respect of the predominating elements there. And this is,
-in fact, alleged. <span id="fr_23"></span>[14](#fn_23) Pandit Ananta
-Shastri says: <span id="fr_24"></span>[15](#fn_24) "We can meet with
+in fact, alleged. <span id="fr_23"></span>[14](#fn_23.md) Pandit Ananta
+Shastri says: <span id="fr_24"></span>[15](#fn_24.md) "We can meet with
 several persons every day elbowing us in the streets or bazaars who in
 all sincerity attempted to reach the highest plane of bliss, but fell
 victims on the way to the illusions of the psychic world, and stopped at
@@ -405,7 +405,7 @@ commentator points out (v. 34), "This is but the highest Prashangsa-vada
 or Stutivada—that is, compliment—which in Sanskrit literature is as
 often void of reality as it is in our ordinary life. Though much is here
 gained, it is not until the Tattvas of this centre are also absorbed,
-and complete knowledge <span id="fr_25"></span>[16](#fn_25) of the
+and complete knowledge <span id="fr_25"></span>[16](#fn_25.md) of the
 Sahasrara is gained, that the Yogi attains that which is both his aim
 and the motive of his labour, cessation from rebirth which follows on
 the control and concentration of the Chitta on the Shivasthanam, the
@@ -422,7 +422,7 @@ that of the Indian schools. I may, however, add that the differences are
 not only as to details. The style of thought differs in a way not easy
 shortly to describe, but which will be quickly recognised by those who
 have some familiarity with the Indian Scriptures and mode of thought.
-The latter is ever disposed to interpret all [processes](errata.htm#45)
+The latter is ever disposed to interpret all [processes](errata.htm#45.md)
 and their results from a subjective standpoint, though for the purposes
 of Sadhana the objective aspect is not ignored. The Indian theory is
 highly philosophical. Thus, to take but one instance, whilst Mr.
@@ -435,7 +435,7 @@ the degree that
 <span id="page_165">p. 165</span>
 
 the Jiva realises that consciousness <span
-id="fr_26"></span>[17](#fn_26) he shares the powers inherent in the
+id="fr_26"></span>[17](#fn_26.md) he shares the powers inherent in the
 degree of his attainment.
 
 <span class="small">The above is an excerpt from Mr. Avalon's
@@ -450,80 +450,80 @@ should read it.</span>
 
 ### Footnotes
 
-<span id="fn_9"></span>[153:1](kmu14.htm#fr_9) This and the following
+<span id="fn_9"></span>[153:1](kmu14.htm#fr_9.md) This and the following
 notes compare his and the Indian theory. The Devi or Goddess is called
 Bhujangi or serpent because at the lowest centre (Muladhara) she lies
 "coiled" round the Linga. "Coiled"—at rest. The Cosmic Power in bodies
 is here at rest; when rouged it is felt as intense heat.
 
-<span id="fn_10"></span>[153:2](kmu14.htm#fr_10) Certain Siddhis or
+<span id="fn_10"></span>[153:2](kmu14.htm#fr_10.md) Certain Siddhis or
 occult powers are acquired at each center as the practitioner works his
 way upwards.
 
-<span id="fn_11"></span>[154:3](kmu14.htm#fr_11) The petals of the lotus
+<span id="fn_11"></span>[154:3](kmu14.htm#fr_11.md) The petals of the lotus
 are Pranashakti manifested by Pranavayu or vital force. Each lotus is a
 centre of a different form of "matter" (Bhuta) there predominant—A .A.
 
-<span id="fn_12"></span>[154:4](kmu14.htm#fr_12) This a Western term—A.
+<span id="fn_12"></span>[154:4](kmu14.htm#fr_12.md) This a Western term—A.
 A.
 
-<span id="fn_13"></span>[154:5a](kmu14.htm#fr_13) Not mentioned in the
+<span id="fn_13"></span>[154:5a](kmu14.htm#fr_13.md) Not mentioned in the
 account here given.—A. A.
 
-<span id="fn_14"></span>[154:6](kmu14.htm#fr_14) See last note but
+<span id="fn_14"></span>[154:6](kmu14.htm#fr_14.md) See last note but
 three.
 
-<span id="fn_15"></span>[155:5b](kmu14.htm#fr_15) Not mentioned in the
+<span id="fn_15"></span>[155:5b](kmu14.htm#fr_15.md) Not mentioned in the
 account here given.—A. A.
 
-<span id="fn_16"></span>[155:6a](kmu14.htm#fr_16) So little attention
+<span id="fn_16"></span>[155:6a](kmu14.htm#fr_16.md) So little attention
 seems to be given to exactitude in this matter that one of the letters
 is dropped in order to make 1,000 petals—that is 60 × 20. "Thousand" is,
 here only symbolic of magnitude.—A. A.
 
-<span id="fn_17"></span>[156:8](kmu14.htm#fr_17) With the aid of bodily
+<span id="fn_17"></span>[156:8](kmu14.htm#fr_17.md) With the aid of bodily
 purification, certain Asans and Mudras (v. poet).
 
-<span id="fn_18"></span>[157:9](kmu14.htm#fr_18)—In the first edition of
+<span id="fn_18"></span>[157:9](kmu14.htm#fr_18.md)—In the first edition of
 my Mahanirvana Tantra. CXXIV.
 
-<span id="fn_19"></span>[157:10](kmu14.htm#fr_19) There are three
+<span id="fn_19"></span>[157:10](kmu14.htm#fr_19.md) There are three
 'knots" which have to be pierced or centres where the force of Maya is
 particular, strong.
 
-<span id="fn_20"></span>[158:11](kmu14.htm#fr_20) "The Apocalypse
+<span id="fn_20"></span>[158:11](kmu14.htm#fr_20.md) "The Apocalypse
 Unsealed," p. 62.
 
-<span id="fn_21"></span>[159:12](kmu14.htm#fr_21) Those who do practise
+<span id="fn_21"></span>[159:12](kmu14.htm#fr_21.md) Those who do practise
 magic of the kind mentioned work only in the lowest centre, have
 recourse to the Prayoga, which leads to Mayika Shiddhi, whereby commerce
 is had with female spirits and the like. The process in this work
 described is one upon the path of liberation and has nothing to do with
 sexual black magic.
 
-<span id="fn_22"></span>[161:13](kmu14.htm#fr_22) Which are sometimes
+<span id="fn_22"></span>[161:13](kmu14.htm#fr_22.md) Which are sometimes
 given as 50 and sometimes as 51.
 
-<span id="fn_23"></span>[162:14](kmu14.htm#fr_23)—See Yogatattve
+<span id="fn_23"></span>[162:14](kmu14.htm#fr_23.md)—See Yogatattve
 Upanishad, where contemplation on the earth centre secures mastery over,
 etc. At the same time it points out that these "powers" are obstacles to
 liberation.
 
-<span id="fn_24"></span>[162:15](kmu14.htm#fr_24)—Anandalahari, p. 35.
+<span id="fn_24"></span>[162:15](kmu14.htm#fr_24.md)—Anandalahari, p. 35.
 
-<span id="fn_25"></span>[163:16](kmu14.htm#fr_25) This, it is obvious,
+<span id="fn_25"></span>[163:16](kmu14.htm#fr_25.md) This, it is obvious,
 comes only after long effort, and following on less complete experiences
 and results. According to Indian notions, success (Siddhi) in Yoga may
-be the fruit of experiences of many [preceding](errata.htm#44) lives.
+be the fruit of experiences of many [preceding](errata.htm#44.md) lives.
 Kundalini must be gradually raised from one centre to another until she
 reaches the Lotus in the cerebrum. The length of time required varies in
 the individual—it may be years ordinarily or in exceptional cased
 months.
 
-<span id="fn_26"></span>[165:17](kmu14.htm#fr_26) As this is by the
+<span id="fn_26"></span>[165:17](kmu14.htm#fr_26.md) As this is by the
 Devi's grace, She is called "the giver of the eight Siddhis"
 (Ishitvadyashtasiddhida). See Trishati, II. 47. She gives Aishvaryya.
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](kmu15)
+[Next: Advertisements](kmu15.md)

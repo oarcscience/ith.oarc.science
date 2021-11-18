@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Next](noa01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Next](noa01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486248593/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486248593/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ of attribution is left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Noa Noa](noa01)
+[Next: Noa Noa](noa01.md)

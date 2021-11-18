@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop15)  [Next](pop17) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop15)  [Next](pop17.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ overtaken thee.'
 
 ------------------------------------------------------------------------
 
-[Next: The Twelfth Figure](pop17)
+[Next: The Twelfth Figure](pop17.md)

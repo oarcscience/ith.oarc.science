@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs58)  [Next](mhs60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs58)  [Next](mhs60.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ wild animals.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Charms Against Animals](mhs60)
+[Next: IV. Charms Against Animals](mhs60.md)

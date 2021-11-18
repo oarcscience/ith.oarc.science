@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh15)  [Next](lsbh17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh15)  [Next](lsbh17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -128,7 +128,7 @@ him:—Behold, he shall see in a dream as if eighty rings \[set with\]
 hyacinthine stones were given to him." And when the king heard these
 words he marvelled and said, "Verily I have seen even as thou hast
 said;" and he gave him a thousand *dînârs* <span
-id="fr_89"></span>[1](#fn_89).
+id="fr_89"></span>[1](#fn_89.md).
 
 CCCXCVI\. Another magician who had at home a wife whose name was Zahrâh
 was once travelling alone in the desert. And having gotten concerning
@@ -156,7 +156,7 @@ interpret it for thee;" and the man replied, "If I had a *zûzâ* I would
 buy fish with it and fry them, and I would not fry dung."
 
 CCCXCVIII\. Another interpreter of dreams having gone from Taghrîth
-(Tekrît) <span id="fr_90"></span>[1](#fn_90) to Bâbêl (Babylon) it was
+(Tekrît) <span id="fr_90"></span>[1](#fn_90) to Bâbêl (Babylon.md) it was
 said to him, "In Tekrît there are many interpreters of dreams, but here
 we have none; why hast thou left thy native place?" And he replied, "The
 people of Tekrît will not allow even the gnats to sleep, therefore
@@ -166,7 +166,7 @@ people of Tekrît will not allow even the gnats to sleep, therefore
 they do not have many dreams; consequently there is no work for us."
 
 CCCXCIX\. Another magician saw a certain dead <span
-id="fr_91"></span>[1](#fn_91) thief in a dream, and he said to him,
+id="fr_91"></span>[1](#fn_91.md) thief in a dream, and he said to him,
 "What hath God done to thee?" He replied, "For every man whom I have
 killed He hath slain me ten times." But when on another night the
 magician saw the same dream again, and asked him the same question
@@ -178,7 +178,7 @@ resemble his father, either in his head, or in his voice, or in his
 gait."
 
 CCCCI\. Another magician saw a certain comic actor, who had been long
-dead <span id="fr_92"></span>[2](#fn_92), in a dream, and he said, "What
+dead <span id="fr_92"></span>[2](#fn_92.md), in a dream, and he said, "What
 hath God done to thee?" The actor replied to him, saying, "O fool, what
 dost thou imagine hath done to me? Thinkest thou that He hath a daughter
 to whom He hath married me? He hath done unto me that which He doeth
@@ -265,7 +265,7 @@ that a black cat went into my husband's belly, and that it brought forth
 something therefrom which it ate." He said to her, "If thy dream be
 really thus, in the coming night a certain black thief will break into
 thy husband's shop and will steal therefrom a hundred and fifteen
-*zûzê* <span id="fr_93"></span>[1](#fn_93)." And when that day was
+*zûzê* <span id="fr_93"></span>[1](#fn_93.md)." And when that day was
 passed and the night had come, the man's shop was broken into, and that
 exact sum of money was found to have been stolen. And when the man who
 heated the bath had captured the black man and beaten him, he confessed
@@ -275,7 +275,7 @@ things by divination?" he said, "The interpretation of cat is a thief,
 and the blackness thereof was an indication of the colour of the thief;
 the belly indicated a storehouse, and the number of the *zûzê* was
 indicated by the numerical values of the letters which form the word
-'cat' <span id="fr_94"></span>[2](#fn_94)."
+'cat' <span id="fr_94"></span>[2](#fn_94.md)."
 
 CCCCXI\. Dixit alius quidam somniorum interpreti, "Dormienti mihi vestes
 sanguine perfundi visi sunt quem cum in puteal expresseram, iterum
@@ -290,7 +290,7 @@ she replied, "He that distributeth nuts to the poor." Now when she
 repeated this to the interpreter he said to her, "Thou hast hidden
 treasure laid up under the ground, go and distribute it among the poor
 and needy, for nuts are symbolic of treasure, both by the similarity of
-their name <span id="fr_95"></span>[1](#fn_95) and also by the
+their name <span id="fr_95"></span>[1](#fn_95.md) and also by the
 similarity of action, for when a man draweth nigh to a nut it is noised
 abroad and cannot be hidden; even so also is it with treasure."
 
@@ -298,23 +298,23 @@ abroad and cannot be hidden; even so also is it with treasure."
 
 ### Footnotes
 
-<span id="fn_89"></span>[98:1](lsbh16.htm#fr_89) *I.e.*, about
+<span id="fn_89"></span>[98:1](lsbh16.htm#fr_89.md) *I.e.*, about
 twenty-five pounds sterling.
 
-<span id="fn_90"></span>[99:1](lsbh16.htm#fr_90) A city on the west bank
+<span id="fn_90"></span>[99:1](lsbh16.htm#fr_90.md) A city on the west bank
 of the Tigris about two days’ journey below Môṣul (Nineveh).
 
-<span id="fn_91"></span>[100:1](lsbh16.htm#fr_91) Read \#\#\#.
+<span id="fn_91"></span>[100:1](lsbh16.htm#fr_91.md) Read \#\#\#.
 
-<span id="fn_92"></span>[100:2](lsbh16.htm#fr_92) Read \#\#\#.
+<span id="fn_92"></span>[100:2](lsbh16.htm#fr_92.md) Read \#\#\#.
 
-<span id="fn_93"></span>[103:1](lsbh16.htm#fr_93) *I.e.*, about £2.17.6
+<span id="fn_93"></span>[103:1](lsbh16.htm#fr_93.md) *I.e.*, about £2.17.6
 of our money.
 
-<span id="fn_94"></span>[103:2](lsbh16.htm#fr_94) The Syriac word is
+<span id="fn_94"></span>[103:2](lsbh16.htm#fr_94.md) The Syriac word is
 \#\#\#, *i.e.*, \#\#\# = 100, \#\#\# = 9, and \#\#\# = 6: total 115.
 
-<span id="fn_95"></span>[104:1](lsbh16.htm#fr_95) *Gaiwzâ* = "nut", and
+<span id="fn_95"></span>[104:1](lsbh16.htm#fr_95.md) *Gaiwzâ* = "nut", and
 *gazzâ* "treasure".
 
 <div class="filenav">
@@ -322,6 +322,6 @@ of our money.
 ------------------------------------------------------------------------
 
 [Next: The Twelfth Chapter: Stories About Wealthy and Liberal and
-Generous Men](lsbh17)
+Generous Men](lsbh17.md)
 
 </div>

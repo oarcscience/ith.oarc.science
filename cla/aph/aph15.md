@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph14)  [Next](aph16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph14)  [Next](aph16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -231,4 +231,4 @@ moving litter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter One. The Arrival](aph16)
+[Next: Chapter One. The Arrival](aph16.md)

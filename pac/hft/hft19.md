@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hft18)  [Next](hft20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hft18)  [Next](hft20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hawaiian Folk Tales*, by Thomas G. Thrum, \[1907\], at Intangible
 Textual Heritage
 
@@ -159,4 +159,4 @@ with respect in the kupapau of Manele.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Ai Kanaka, A Legend of Molokai](hft20)
+[Next: XVII. Ai Kanaka, A Legend of Molokai](hft20.md)

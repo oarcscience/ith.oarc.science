@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe147)  [Next](prwe149) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe147)  [Next](prwe149.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,4 +155,4 @@ page 234, vol. ii.)
 
 ------------------------------------------------------------------------
 
-[Next: The Well of Altar-Nun](prwe149)
+[Next: The Well of Altar-Nun](prwe149.md)

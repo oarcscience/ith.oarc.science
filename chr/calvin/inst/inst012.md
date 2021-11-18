@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst011)  [Next](inst013) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst011)  [Next](inst013.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ Beveridge \[1845\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: BOOK FIRST. - OF THE KNOWLEDGE OF GOD THE CREATOR](inst013)
+[Next: BOOK FIRST. - OF THE KNOWLEDGE OF GOD THE CREATOR](inst013.md)

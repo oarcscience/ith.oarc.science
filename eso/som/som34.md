@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som33) 
-[Next](som35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som33.md) 
+[Next](som35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ not make us anything that we are not; for it is not possible to get out
 of a bag anything that the bag does not contain. We live because life is
 within us. Perhaps this is what Jesus meant when He said, "Which of you,
 by taking thought, can add one cubit to his stature?" <span
-id="fr_104"></span>[105](#fn_104)
+id="fr_104"></span>[105](#fn_104.md)
 
 We did not make Life and we cannot change It, but we can use It; and the
 use of Life is through the imagination; because
@@ -58,7 +58,7 @@ Self-Propelling.
 
 Imagination taps the very roots of Being and utilizes the same Power
 that brought the worlds forth from Chaos. "The worlds were framed by the
-word of God." <span id="fr_105"></span>[105](#fn_105) Imagination is the
+word of God." <span id="fr_105"></span>[105](#fn_105.md) Imagination is the
 power of the word, while will is the directive agency, denoting the
 purpose for which the word is spoken.
 
@@ -70,10 +70,10 @@ but it can be imagined, or imaged forth, into expression.
 
 ### Footnotes
 
-<span id="fn_104"></span>[286:105](som34.htm#fr_104) Matt 6:27.
+<span id="fn_104"></span>[286:105](som34.htm#fr_104.md) Matt 6:27.
 
-<span id="fn_105"></span>[287:105](som34.htm#fr_105) Heb. 11:3.
+<span id="fn_105"></span>[287:105](som34.htm#fr_105.md) Heb. 11:3.
 
 ------------------------------------------------------------------------
 
-[Next: How to Visualize](som35)
+[Next: How to Visualize](som35.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop01)  [Next](pop03) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop01)  [Next](pop03.md) 
 
 ------------------------------------------------------------------------
 
@@ -237,7 +237,7 @@ Paracelsus to the keen-visioned observer of reality, a wondrous viaduct
 resting upon the traverses of the new humanity, the Renascence. For upon
 this viaduct moved forward that reconstruction of the universe of which
 Paracelsus was one of the greatest architects.' <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 The poet Robert Browning made Paracelsus the subject of one of his
 finest poems, describing him as an idealist and student of Nature's
@@ -280,9 +280,9 @@ struggle with an incredulous or indifferent world!
 
 ### Footnotes
 
-<span id="fn_0"></span>[22:\*](pop02.htm#fr_0) Quoted in Stoddart's
+<span id="fn_0"></span>[22:\*](pop02.htm#fr_0.md) Quoted in Stoddart's
 *Life of Paracelsus*.
 
 ------------------------------------------------------------------------
 
-[Next: Introductory: II: On the Prophecies of Paracelsus](pop03)
+[Next: Introductory: II: On the Prophecies of Paracelsus](pop03.md)

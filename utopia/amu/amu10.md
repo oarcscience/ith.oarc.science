@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](amu09)  [Next](amu11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](amu09)  [Next](amu11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -130,7 +130,7 @@ farming done by tenant associations, by little democratic unlimited
 liability companies working under elected managers, and paying not a
 fixed rent but a share of the produce to the State. Such companies could
 reconstruct annually to weed out indolent members.  <span
-id="fr_29"></span>[30](#fn_29) A minimum standard of efficiency in
+id="fr_29"></span>[30](#fn_29.md) A minimum standard of efficiency in
 farming would be insured by fixing a minimum beneath which the rent must
 not fall, and perhaps by inspection. The general laws respecting the
 standard of life would, of course, apply to such associations. This type
@@ -789,10 +789,10 @@ further remark.
 
 ### Footnotes
 
-<span id="fn_29"></span>[30](amu10.htm#fr_29) Schemes for the
+<span id="fn_29"></span>[30](amu10.htm#fr_29.md) Schemes for the
 co-operative association of producers will be found in Dr. Hertzka's
 *Freeland*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eight](amu11)
+[Next: Chapter Eight](amu11.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah07)  [Next](toah09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah07)  [Next](toah09.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ question of the boundary line.
 About this time all the other villages were just beginning to be
 established, like Awatovi, and the others on the Jeddito, and it was
 found that the Awatovi people were speaking the same dialect as the
-Mishongnovi people. [18](toah24.htm#xref_18) Of course at that time
+Mishongnovi people. [18](toah24.htm#xref_18.md) Of course at that time
 there was nobody at Shipaulovi.
 
 <span id="img_03900"></span> ![](img/03900.jpg)
@@ -84,4 +84,4 @@ there was nobody at Shipaulovi.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. How a Family Quarrel Led to the Founding of
-Oraibi](toah09)
+Oraibi](toah09.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg72)  [Next](cdg74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg72)  [Next](cdg74.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ PLUTARCH, "ISIS AND OSIRIS," §47.</span>
 ------------------------------------------------------------------------
 
 [Next: Second Prophecy. The Sibylline Prophecy of World Peace and the
-Reign of Justice](cdg74)
+Reign of Justice](cdg74.md)

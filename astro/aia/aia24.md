@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia23)  [Next](aia25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia23)  [Next](aia25.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ light and nature, in this manner:--When the significators both of
 querent and quesited are separating from ☌, or ✶, or △ aspects of each
 other, and some other planet separates himself from one of the
 significators, of whom he is received, either by house, triplicity, or
-term, <span id="fr_56"></span>[1](#fn_56) and then this planet applies
+term, <span id="fr_56"></span>[1](#fn_56.md) and then this planet applies
 to the other significator by ☌ or aspect, before he meets with the ☌ or
 aspect of any other planets; he thus translates the force, influence,
 and virtue of the first significator to the other, and then this
@@ -197,10 +197,10 @@ ruled by, (which is all one thing), the significators.
 
 ### Footnotes
 
-<span id="fn_56"></span>[78:1](aia24.htm#fr_56) This means being in
+<span id="fn_56"></span>[78:1](aia24.htm#fr_56.md) This means being in
 these dignities of that significator.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXII. Questions Concerning the First House. If the
-Querent be Likely to Live Long--Yea or Not?](aia25)
+Querent be Likely to Live Long--Yea or Not?](aia25.md)

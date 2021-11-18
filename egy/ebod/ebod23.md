@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod22)  [Next](ebod24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod22)  [Next](ebod24.md) 
 
 ------------------------------------------------------------------------
 
@@ -239,4 +239,4 @@ heir of the great gods."
 
 ------------------------------------------------------------------------
 
-[Next: Plate XVII.](ebod24)
+[Next: Plate XVII.](ebod24.md)

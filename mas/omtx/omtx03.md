@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx02)  [Next](omtx04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx02)  [Next](omtx04.md) 
 
 ------------------------------------------------------------------------
 
@@ -212,4 +212,4 @@ politics, must be brought within the doors of the Lodge.
 
 ------------------------------------------------------------------------
 
-[Next: Entered Apprentice](omtx04)
+[Next: Entered Apprentice](omtx04.md)

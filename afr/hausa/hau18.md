@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](hau17)  [Next](hau19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](hau17)  [Next](hau19.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hausa Folk-Lore*, by Maalam Shaihua, tr. by R. Sutherland Rattray,
 \[1913\], at Intangible Textual Heritage
 
@@ -70,6 +70,6 @@ Off with the rat's head.
 ------------------------------------------------------------------------
 
 [Next: 15. A story of a great friendship and how it was put to the
-test](hau19)
+test](hau19.md)
 
 </div>

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](yom04)  [Next](yom06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](yom04)  [Next](yom06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -16,7 +16,7 @@ tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
 ###### OF
 
-#### VOLUME VI.-TRACT YOMAH. <span id="fr_5"></span>[1](#fn_5)
+#### VOLUME VI.-TRACT YOMAH. <span id="fr_5"></span>[1](#fn_5.md)
 
 ### CHAPTER I.
 
@@ -37,12 +37,12 @@ Whether the gates of the Temple needed Mezuzahs. Of what material was
 the girdle of the high-priest made, and whether it was the same as those
 of the common priests. How was the substitute of the high-priest
 recognized when the high-priest became unfit during the service,
-[1](yom06.htm#page_1)-[18](yom06.htm#page_18)
+[1](yom06.htm#page_1)-[18](yom06.htm#page_18.md)
 
 MISHNA II. What kind of experience did the high-priest have during the
 seven days? What shall he do first-trim the lamps or prepare the
 incense? On what altar and what corner must the blood be sprinkled,
-[18](yom06.htm#page_18)-[22](yom06.htm#page_22)
+[18](yom06.htm#page_18)-[22](yom06.htm#page_22.md)
 
 MISHNAS III. to V. What the elders of the Beth Din say to him. What he
 is free to eat during the seven days, and what on the eve of the Day of
@@ -54,7 +54,7 @@ occupied, and what was sung to him. How were the ashes cleared away
 every day and on the Day of Atonement? The miracles that occurred in the
 Temple. For the crowing of what cock shall one wait before going on the
 road any night? About the heavenly fire at the second Temple,
-[22](yom06.htm#page_22)-[29](yom06.htm#page_29)
+[22](yom06.htm#page_22)-[29](yom06.htm#page_29.md)
 
 <span id="page_xviii">p. xviii</span>
 
@@ -70,7 +70,7 @@ punishment. In what garments were the lots drawn? Were the lots drawn
 for each service separately? In what order the members of the sacrifice
 were offered. The daily sacrifices are offered by nine, ten, eleven,
 twelve priests. How so? A ram was offered by eleven, a bull by
-twenty-four, [30](yom07.htm#page_30)-[39](yom07.htm#page_39)
+twenty-four, [30](yom07.htm#page_30)-[39](yom07.htm#page_39.md)
 
 ### CHAPTER III.
 
@@ -83,7 +83,7 @@ meets an opportunity to perform a meritorious act. If he was an aged or
 delicate high-priest, what was then? Concerning the garments of the
 high-priest and their value. What happened to Hillel, to Eliezer b.
 Harsum, and Joseph the Upright,
-[40](yom08.htm#page_40)-[49](yom08.htm#page_49)
+[40](yom08.htm#page_40)-[49](yom08.htm#page_49.md)
 
 MISHNAS V. to VII. How did the high-priest confess? and what the people
 responded after him. Which of the officers were on his right and which
@@ -95,7 +95,7 @@ to R. Ishmael. Whence is it derived from the Pentateuch that when the
 names of the just are mentioned they must be blessed, and, *vice versa*
 those of the wicked? When a man sanctifies himself a little here below,
 he is sanctified much above,
-[49](yom08.htm#page_49)-[57](yom08.htm#page_57)
+[49](yom08.htm#page_49)-[57](yom08.htm#page_57.md)
 
 ### CHAPTER IV.
 
@@ -112,7 +112,7 @@ ceremony of sprinkling? The measure of the censer in which the coals for
 the incense were taken, and of what material it was made, and of what
 color it was on the Day of Atonement. There were seven kinds of gold.
 Whence is it deduced that a special fire was made that day,
-[58](yom09.htm#page_58)-[68](yom09.htm#page_68)
+[58](yom09.htm#page_58)-[68](yom09.htm#page_68.md)
 
 <span id="page_xix">p. xix</span>
 
@@ -139,7 +139,7 @@ this matter. Whether one is guilty when using the blood for his own
 purpose. How is the law if he performed the services in a wrong order,
 or in the wrong clothes? Whether the atonement for all sins includes the
 sin of uncleanness in the Temple or not,
-[69](yom10.htm#page_69)-[86](yom10.htm#page_86)
+[69](yom10.htm#page_69)-[86](yom10.htm#page_86.md)
 
 ### CHAPTER VI.
 
@@ -155,7 +155,7 @@ its signification. About the ten booths between Jerusalem and the Tsuk,
 and how at each booth the messenger was offered meat and drink. Whether
 the high priest was told when the he-goat reached its destination, or it
 was made known to him by a sign,
-[87](yom11.htm#page_87)-[97](yom11.htm#page_97)
+[87](yom11.htm#page_87)-[97](yom11.htm#page_97.md)
 
 ### CHAPTER VII.
 
@@ -182,7 +182,7 @@ table, who received them? About the priest who was anointed for war,
 his, garments, services, and descendants. How was the ceremony of
 inquiring the Urim and Tumim, and how the priest received the reply.
 Whence do we deduce that the inquiries are made for kings only
-[98](yom12.htm#page_98)-[111](yom12.htm#page_111)
+[98](yom12.htm#page_98)-[111](yom12.htm#page_111.md)
 
 ### CHAPTER VIII.
 
@@ -203,7 +203,7 @@ permitted to decide the question of a blemish of a firstling, and what
 R. Tzadok b. 'Haluqah answered. Whether children are to observe the
 afflictions? The quantity of food and beverage prohibited from partaking
 on the Day of Atonement,
-[112](yom13.htm#page_112)-[122](yom13.htm#page_122)
+[112](yom13.htm#page_112)-[122](yom13.htm#page_122.md)
 
 MISHNAS II. to V. What is the law regarding one who ate and drank
 through forgetfulness? At what age are children made to fast some hours
@@ -215,7 +215,7 @@ madness. What happened to R. Johanan and the matron; of Rome. How the
 Sabbath must be superseded when life is threatened. The question put to
 R. Ishmael, R. Aqiba, and R. Eliezer b. Azariah when on the road about
 the same, and what they answered,
-[122](yom13.htm#page_122)-[132](yom13.htm#page_132)
+[122](yom13.htm#page_122)-[132](yom13.htm#page_132.md)
 
 MISHNA VI. For what transgressions the Day of Atonement atones. Does the
 Day of Atonement atone him who says: I will sin and God will forgive me?
@@ -229,20 +229,20 @@ compared to a woman who has eaten fruit on the Sabbatical year, and
 David's to a woman who has really sinned. He who has provoked his
 neighbor, even by words, must appease him. At what place in the prayer
 should he confess? What the disciples of R. Ishmael taught,
-[132](yom13.htm#page_132)-[142](yom13.htm#page_142)
+[132](yom13.htm#page_132)-[142](yom13.htm#page_142.md)
 
 APPENDIX. The letter of a Gentile who has witnessed the ceremonies of
 Passover, and the procession of the high-priest to and from the Temple,
-[143](yom14.htm#page_143)-[147](yom14.htm#page_147)
+[143](yom14.htm#page_143)-[147](yom14.htm#page_147.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_5"></span>[xvii:1](yom05.htm#fr_5) See introduction to
+<span id="fn_5"></span>[xvii:1](yom05.htm#fr_5.md) See introduction to
 synopsis in Tract Sabbath, Vol. I., p. xxix.; also note at end of
 synopsis in Vol. V.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: The Preparations of the High Priest](yom06)
+[Next: Chapter I: The Preparations of the High Priest](yom06.md)

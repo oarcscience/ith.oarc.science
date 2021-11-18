@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd02)  [Next](htd04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd02)  [Next](htd04.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ eye, which could wither the God of Love with shooting flames, and yet
 open, to her confusion, with the tenderness of a flower on the bashful
 Párwatí, as she was endeavouring to rob him of the sight of her own
 beauty by placing her hands over the other two* <span
-id="fr_5"></span>[a](#fn_5)!
+id="fr_5"></span>[a](#fn_5.md)!
 
 THERE lived formerly, in another *kalpa*, a stupid king, who possessed
 two things, that like the edge of a sword kept him from sleeping: a
@@ -59,7 +59,7 @@ King could hardly keep himself alive for vexation and impatience. But at
 last, as he sat one day with his daughter beside him, there came in a
 doorkeeper who fell at his feet, and said: Thy envoy has returned, and
 now, what are the King's commands? And the King bade her <span
-id="fr_6"></span>[b](#fn_6) bring him in, without losing a moment. So
+id="fr_6"></span>[b](#fn_6.md) bring him in, without losing a moment. So
 the envoy came in, just as he was, dusty and travel-stained, and stood
 before him. And the King looked at him with red eyes, and said: What
 shall be done to the envoy who lingers on the King's errand, till his
@@ -76,7 +76,7 @@ thine that is to be, or not, according to thy pleasure. For some time
 ago, it happened, that returning from his army, which he had led away in
 person to subdue a vassal that had revolted, he entered his apartments,
 when nobody expected him, and saw his queen, for he had only one  <span
-id="fr_7"></span>[e](#fn_7), conversing with a man, whom she had
+id="fr_7"></span>[e](#fn_7.md), conversing with a man, whom she had
 conveyed into the palace in the clothes of a woman. And instantly there
 came over him a horror of the world and its delusions, but above all of
 women, so great, that, after banishing his queen, for he would not put
@@ -100,7 +100,7 @@ temple, and stood on the steps leading down into the pool. And he looked
 like a great ruby, for the sun's rays lit up the red bark garments in
 which he was dressed and edged them with a fringe of flame: and I was
 amazed at the sight of him, for he seemed like a King even among Kings.
-And he said to me, in deep tones <span id="fr_8"></span>[d](#fn_8): Go
+And he said to me, in deep tones <span id="fr_8"></span>[d](#fn_8.md): Go
 back to thy master, and tell him, that for the good of my kingdom and
 his own, I will accept his offer: and there shall be peace and
 friendship between us, and union cemented by the gift of his daughter:
@@ -120,7 +120,7 @@ grey hairs, thou understandest nothing, neither of men, nor of women,
 nor of policy, nor of me? Then the King said: My daughter, what are
 these words? And what dost *thou* understand, of men or of policy, or
 even of women and thyself, who art but fifteen <span
-id="fr_9"></span>[e](#fn_9) years old? Then his daughter said: Here, in
+id="fr_9"></span>[e](#fn_9.md) years old? Then his daughter said: Here, in
 this matter, all has gone well, and turned out according to thy wish;
 and yet thou art ready to throw away all the advantages to thy realm, by
 rejecting the proposal of my husband, which is as it should be. Then the
@@ -134,7 +134,7 @@ together, till her bangles
 <span id="page_7">p. 7</span>
 
 rang, and stamped her little foot on the ground, till it left a red
-print upon the inlaid floor <span id="fr_10"></span>[f](#fn_10) and her
+print upon the inlaid floor <span id="fr_10"></span>[f](#fn_10.md) and her
 anklets clashed; and her mouth curled like Kama's bow, as if to
 discharge the scornful arrows of her words. And she exclaimed: Didst
 thou understand policy, thou wouldst not abandon an advantageous
@@ -149,7 +149,7 @@ prevent him: and didst thou understand me, thou wouldst know that I will
 have this husband, and he shall have me, on any conditions whatever: and
 like a snake-charmer, I will soothe him and wile him by my jugglery and
 the cunning of my voice till he will dance <span
-id="fr_11"></span>[g](#fn_11) as I please. Out on her who cannot
+id="fr_11"></span>[g](#fn_11.md) as I please. Out on her who cannot
 
 <span id="page_8">p. 8</span>
 
@@ -158,7 +158,7 @@ a very pundit, and thy pretty head is full of the sciences, though how
 they got there at thy age, only the Creator can tell: none the less thou
 art still very young: and in this matter of husbands, and their
 management and cajolery, thou hast still to learn grammar <span
-id="fr_12"></span>[h](#fn_12). Then his daughter laughed. And she
+id="fr_12"></span>[h](#fn_12.md). Then his daughter laughed. And she
 exclaimed: O my father, art thou really my father? Dost thou think that
 the craft of a woman in the art which is her own comes to her by age and
 experience, which on the contrary rather take it away? Did the Creator
@@ -199,7 +199,7 @@ resembled the ruin of his own life, expecting and yet shunning the
 arrival of his queen.
 
 Then after a while came the last day of the dark fortnight, and the eve
-of the new moon <span id="fr_13"></span>[i](#fn_13); and with it came
+of the new moon <span id="fr_13"></span>[i](#fn_13.md); and with it came
 the King's daughter, with her retinue. And she pitched her camp outside
 the city, close to the wood in which stood the deserted temple, where
 the King her husband had fixed his abode.
@@ -208,38 +208,38 @@ the King her husband had fixed his abode.
 
 ### Footnotes
 
-<span id="fn_5"></span>[1:a](htd03.htm#fr_5) The details of this
+<span id="fn_5"></span>[1:a](htd03.htm#fr_5.md) The details of this
 conjugal episode between Shíwa and his wife may be found in the *Kumára
 Sambhawa*, the *chef d’œuvre* of Kálidás.
 
-<span id="fn_6"></span>[3:b](htd03.htm#fr_6) The doorkeeper
+<span id="fn_6"></span>[3:b](htd03.htm#fr_6.md) The doorkeeper
 (*pratihárí*) seems to have been, in old Hindoo courts, a woman; as were
 sometimes even the guards.
 
-<span id="fn_7"></span>[4:e](htd03.htm#fr_7) A proof of great and
+<span id="fn_7"></span>[4:e](htd03.htm#fr_7.md) A proof of great and
 unusual delicacy or self-control in an eastern potentate.
 
-<span id="fn_8"></span>[5:d](htd03.htm#fr_8) According to the Hindoos, a
+<span id="fn_8"></span>[5:d](htd03.htm#fr_8.md) According to the Hindoos, a
 deep-toned (*gambhíra*) voice is a special note of manliness and wisdom.
 
-<span id="fn_9"></span>[6:e](htd03.htm#fr_9) Women are women very early
+<span id="fn_9"></span>[6:e](htd03.htm#fr_9.md) Women are women very early
 in the East. But the number fifteen had formerly a significance
 analogous to that of our own 'sweet seventeen,' as is well observed by
 A. V. W. Jackson of the old Iranians. (*Avesta Reader*, p. 44.)
 
-<span id="fn_10"></span>[7:f](htd03.htm#fr_10) Because her feet were
+<span id="fn_10"></span>[7:f](htd03.htm#fr_10.md) Because her feet were
 reddened with lac.
 
-<span id="fn_11"></span>[7:g](htd03.htm#fr_11) The cobra sits up, dances
+<span id="fn_11"></span>[7:g](htd03.htm#fr_11.md) The cobra sits up, dances
 and bows its head, when the juggler plays to it.
 
-<span id="fn_12"></span>[8:h](htd03.htm#fr_12) Grammar was called, by
+<span id="fn_12"></span>[8:h](htd03.htm#fr_12.md) Grammar was called, by
 the old Hindoos, the *door* of all the sciences: and they studied it
 sometimes for years and often all their life long.
 
-<span id="fn_13"></span>[10:i](htd03.htm#fr_13) An important day among
+<span id="fn_13"></span>[10:i](htd03.htm#fr_13.md) An important day among
 the Hindoos, with a name of its own (*amáwasí*).
 
 ------------------------------------------------------------------------
 
-[Next: Mango](htd04)
+[Next: Mango](htd04.md)

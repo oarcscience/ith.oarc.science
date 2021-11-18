@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ the foregoing book and will now speak of what followed, and was
 connected with those histories; declaring, before we proceed, that we
 have nothing so much at heart as this, that we may omit no facts, either
 through ignorance or laziness; <span
-id="EndNote Ant 14.1a"></span>[(1)](#EndNote%20Ant%2014.1b) for we are
+id="EndNote Ant 14.1a"></span>[(1)](#EndNote%20Ant%2014.1b.md) for we are
 upon the history and explication of such things as the greatest part are
 unacquainted withal, because of their distance from our times; and we
 aim to do it with a proper beauty of style, so far as that is derived
@@ -62,7 +62,7 @@ his was to gratify Herod, who was his son, and who, by certain
 revolutions of fortune, came afterward to be king of the Jews, whose
 history we shall give you in its proper place hereafter. However, this
 Antipater was at first called Antipas, <span
-id="EndNote Ant 14.2a"></span>[(2)](#EndNote%20Ant%2014.2b) and that was
+id="EndNote Ant 14.2a"></span>[(2)](#EndNote%20Ant%2014.2b.md) and that was
 his father's name also; of whom they relate this: That king Alexander
 and his wife made him general of all Idumea, and that he made a league
 of friendship with those Arabians, and Gazites, and Ascalonites, that
@@ -199,7 +199,7 @@ DELIVER UP THE FORTRESSES WHEREOF HE WAS POSSESSED.**
 Celesyria; at which time there came ambassadors to him from all Syria,
 and Egypt, and out of Judea also, for Aristobulus had sent him a great
 present, which was a golden vine <span
-id="EndNote Ant 14.3a"></span>[(3)](#EndNote%20Ant%2014.3b) of the value
+id="EndNote Ant 14.3a"></span>[(3)](#EndNote%20Ant%2014.3b.md) of the value
 of five hundred talents. Now Strabo of Cappadocia mentions this present
 in these words: "There came also an embassage out of Egypt, and a crown
 of the value of four thousand pieces of gold; and out of Judea there
@@ -304,7 +304,7 @@ IN JUDEA.**
 tree grows, and that balsam which is an ointment of all the most
 precious, which upon any incision made in the wood with a sharp stone,
 distills out thence like a juice,) <span
-id="EndNote Ant 14.4a"></span>[(4)](#EndNote%20Ant%2014.4b) he marched
+id="EndNote Ant 14.4a"></span>[(4)](#EndNote%20Ant%2014.4b.md) he marched
 in the morning to Jerusalem. Hereupon Aristobulus repented of what he
 was doing, and came to Pompey, had \[promised to\] give him money, and
 received him into Jerusalem, and desired that he would leave off the
@@ -317,7 +317,7 @@ agreements to be executed. At this Pompey was very angry, and put
 Aristobulus into prison, and came himself to the city, which was strong
 on every side, excepting the north, which was not so well fortified, for
 there was a broad and deep ditch that encompassed the city <span
-id="EndNote Ant 14.5a"></span>[(5)](#EndNote%20Ant%2014.5b) and included
+id="EndNote Ant 14.5a"></span>[(5)](#EndNote%20Ant%2014.5b.md) and included
 within it the temple, which was itself encompassed about with a very
 strong stone wall.
 
@@ -365,7 +365,7 @@ hour, offer their sacrifices on the altar; nor did they omit those
 sacrifices, if any melancholy accident happened by the stones that were
 thrown among them; for although the city was taken on the third month,
 on the day of the fast, <span
-id="EndNote Ant 14.6a"></span>[(6)](#EndNote%20Ant%2014.6b) upon the
+id="EndNote Ant 14.6a"></span>[(6)](#EndNote%20Ant%2014.6b.md) upon the
 hundred and seventy-ninth olympiad, when Caius Antonius and Marcus
 Tullius Cicero were consuls, and the enemy then fell upon them, and cut
 the throats of those that were in the temple; yet could not those that
@@ -378,7 +378,7 @@ our piety that was false, but is the real truth, I appeal to those that
 have written of the acts of Pompey; and, among them, to Strabo and
 Nicolaus \[of Damascus\]; and besides these two, Titus Livius, the
 writer of the Roman History, who will bear witness to this thing. <span
-id="EndNote Ant 14.7a"></span>[(7)](#EndNote%20Ant%2014.7b)
+id="EndNote Ant 14.7a"></span>[(7)](#EndNote%20Ant%2014.7b.md)
 
 4\. But when the battering-engine was brought near, the greatest of the
 towers was shaken by it, and fell down, and broke down a part of the
@@ -401,7 +401,7 @@ that temple the golden table, the holy candlestick, and the pouring
 vessels, and a great quantity of spices; and besides these there were
 among the treasures two thousand talents of sacred money: yet did Pompey
 touch nothing of all this, <span
-id="EndNote Ant 14.8a"></span>[(8)](#EndNote%20Ant%2014.8b) on account
+id="EndNote Ant 14.8a"></span>[(8)](#EndNote%20Ant%2014.8b.md) on account
 of his regard to religion; and in this point also he acted in a manner
 that was worthy of his virtue. The next day he gave order to those that
 had the charge of the temple to cleanse it, and to bring what offerings
@@ -416,7 +416,7 @@ the inhabitants of Judea had subdued, and put them under the government
 of the Roman president, and confined the whole nation, which had
 elevated itself so high before, within its own bounds. Moreover, he
 rebuilt Gadara, <span
-id="EndNote Ant 14.9a"></span>[(9)](#EndNote%20Ant%2014.9b) which had
+id="EndNote Ant 14.9a"></span>[(9)](#EndNote%20Ant%2014.9b.md) which had
 been demolished a little before, to gratify Demetrius of Gadara, who was
 his freedman, and restored the rest of the cities, Hippos, and
 Scythopolis, and Pella, and Dios, and Samaria, as also Marissa, and
@@ -481,7 +481,7 @@ came to a pitched battle, in which the Romans slew of their enemies
 about three thousand, and took a like number alive.
 
 3\. At which time Gabinius <span
-id="EndNote Ant 14.10a"></span>[(10)](#EndNote%20Ant%2014.10b) came to
+id="EndNote Ant 14.10a"></span>[(10)](#EndNote%20Ant%2014.10b.md) came to
 Alexandrium, and invited those that were in it to deliver it up on
 certain conditions, and promised that then their former offenses should
 be forgiven. But as a great number of the enemy had pitched their camp
@@ -551,7 +551,7 @@ fortresses to him; and accordingly they then returned into Judea.
 2\. Now when Gabinius was making an expedition against the Parthians,
 and had already passed over Euphrates, he changed his mind, and resolved
 to return into Egypt, in order to restore Ptolemy to his kingdom. <span
-id="EndNote Ant 14.11a"></span>[(11)](#EndNote%20Ant%2014.11b) This hath
+id="EndNote Ant 14.11a"></span>[(11)](#EndNote%20Ant%2014.11b.md) This hath
 also been related elsewhere. However, Antipater supplied his army, which
 he sent against Archelaus, with corn, and weapons, and money. He also
 made those Jews who were above Pelusium his friends and confederates,
@@ -666,7 +666,7 @@ practices, and that by the persuasion of Antipater, who proved to have
 great interest in him, and was at that time in great repute with the
 Idumeans also: out of which nation he married a wife, who was the
 daughter of one of their eminent men, and her name was Cypros, <span
-id="EndNote Ant 14.12a"></span>[(12)](#EndNote%20Ant%2014.12b) by whom
+id="EndNote Ant 14.12a"></span>[(12)](#EndNote%20Ant%2014.12b.md) by whom
 he had four sons, Phasael, and Herod, who was afterwards made king, and
 Joseph, and Pheroras; and a daughter, named Salome. This Antipater
 cultivated also a friendship and mutual kindness with other potentates,
@@ -788,7 +788,7 @@ of Judea. He also gave Hyrcanus leave to raise up the walls of his own
 city, upon his asking that favor of him, for they had been demolished by
 Pompey. And this grant he sent to the consuls to Rome, to be engraven in
 the capitol. The decree of the senate was this that follows: <span
-id="EndNote Ant 14.13a"></span>[(13)](#EndNote%20Ant%2014.13b) "Lucius
+id="EndNote Ant 14.13a"></span>[(13)](#EndNote%20Ant%2014.13b.md) "Lucius
 Valerius, the son of Lucius the praetor, referred this to the senate,
 upon the Ides of December, in the temple of Concord. There were present
 at the writing of this decree Lucius Coponius, the son of Lucius of the
@@ -868,7 +868,7 @@ this country.
 Phasaelus, his eldest son, governor of Jerusalem, and of the places that
 were about it, but committed Galilee to Herod, his next son, who was
 then a very young man, for he was but fifteen years of age <span
-id="EndNote Ant 14.14a"></span>[(14)](#EndNote%20Ant%2014.14b) But that
+id="EndNote Ant 14.14a"></span>[(14)](#EndNote%20Ant%2014.14b.md) But that
 youth of his was no impediment to him; but as he was a youth of great
 mind, he presently met with an opportunity of signalizing his courage;
 for finding that there was one Hezekiah, a captain of a band of robbers,
@@ -916,7 +916,7 @@ hath slain Hezekiah, and those that were with him, and hath thereby
 transgressed our law, which hath forbidden to slay any man, even though
 he were a wicked man, unless he had been first condemned to suffer death
 by the Sanhedrim <span
-id="EndNote Ant 14.15a"></span>[(15)](#EndNote%20Ant%2014.15b) yet hath
+id="EndNote Ant 14.15a"></span>[(15)](#EndNote%20Ant%2014.15b.md) yet hath
 he been so insolent as to do this, and that without any authority from
 thee."
 
@@ -943,7 +943,7 @@ aftrighted them all, and no one of his former accusers durst after that
 bring any charge against him, but there was a deep silence, and nobody
 knew what was to be done. When affairs stood thus, one whose name was
 Sameas, <span
-id="EndNote Ant 14.16a"></span>[(16)](#EndNote%20Ant%2014.16b) a
+id="EndNote Ant 14.16a"></span>[(16)](#EndNote%20Ant%2014.16b.md) a
 righteous man he was, and for that reason above all fear, rose up, and
 said, "O you that are assessors with me, and O thou that art our king, I
 neither have ever myself known such a case, nor do I suppose that any
@@ -1049,7 +1049,7 @@ Whereas Hyrcanus, the son of Alexander the Jew, hath demonstrated his
 fidelity and diligence about our affairs, and this both now and in
 former times, both in peace and in war, as many of our generals have
 borne witness, and came to our assistance in the last Alexandrian war,
-<span id="EndNote Ant 14.17a"></span>[(17)](#EndNote%20Ant%2014.17b)
+<span id="EndNote Ant 14.17a"></span>[(17)](#EndNote%20Ant%2014.17b.md)
 with fifteen hundred soldiers; and when he was sent by me to
 Mithridates, showed himself superior in valor to all the rest of that
 army; - for these reasons I will that Hyrcanus, the son of Alexander,
@@ -1140,7 +1140,7 @@ after the decree of the senate is made about their affairs."
 fifth time, declared to be perpetual dictator, made this speech
 concerning the rights and privileges of Hyrcanus, the son of Alexander,
 the high priest and ethnarch of the Jews. Since those imperators <span
-id="EndNote Ant 14.18a"></span>[(18)](#EndNote%20Ant%2014.18b) that have
+id="EndNote Ant 14.18a"></span>[(18)](#EndNote%20Ant%2014.18b.md) that have
 been in the provinces before me have borne witness to Hyrcanus, the high
 priest of the Jews, and to the Jews themselves, and this before the
 senate and people of Rome, when the people and senate returned their
@@ -1378,7 +1378,7 @@ our people to him, and to exhort them to preserve and augment their
 friendship for us, and be ready to bestow other benefits upon us, as
 justly expecting to receive proper requitals from us; and desiring them
 to remember that our ancestors <span
-id="EndNote Ant 14.19a"></span>[(19)](#EndNote%20Ant%2014.19b) were
+id="EndNote Ant 14.19a"></span>[(19)](#EndNote%20Ant%2014.19b.md) were
 friendly to the Jews even in the days of Abraham, who was the father of
 all the Hebrews, as we have \[also\] found it set down in our public
 records."
@@ -1432,7 +1432,7 @@ according to their own laws."
 
 26\. Now there are many such decrees of the senate and imperators of the
 Romans <span
-id="EndNote Ant 14.20a"></span>[(20)](#EndNote%20Ant%2014.20b) and those
+id="EndNote Ant 14.20a"></span>[(20)](#EndNote%20Ant%2014.20b.md) and those
 different from these before us, which have been made in favor of
 Hyrcanus, and of our nation; as also, there have been more decrees of
 the cities, and rescripts of the praetors, to such epistles as concerned
@@ -1469,7 +1469,7 @@ with them, as calling to mind the kindnesses they had received from
 Caesar, and on that account he thought it but just to require punishment
 for him, and to take vengeance on the man that had murdered him. And as
 the war was drawn out into a great length, Marcus <span
-id="EndNote Ant 14.21a"></span>[(21)](#EndNote%20Ant%2014.21b) came from
+id="EndNote Ant 14.21a"></span>[(21)](#EndNote%20Ant%2014.21b.md) came from
 Rome to take Sextus's government upon him. But Caesar was slain by
 Cassius and Brutus in the senate-house, after he had retained the
 government three years and six months. This fact however, is related
@@ -1603,7 +1603,7 @@ ACCUSED HEROD: AND WHAT IT WAS THAT ANTONY WROTE TO THE TYRIANS IN
 BEHALF .**
 
 1\. NOW <span
-id="EndNote Ant 14.22a"></span>[(22)](#EndNote%20Ant%2014.22b) Ptolemy,
+id="EndNote Ant 14.22a"></span>[(22)](#EndNote%20Ant%2014.22b.md) Ptolemy,
 the son of Menneus, brought back into Judea Antigonus, the son of
 Aristobulus, who had already raised an army, and had, by money, made
 Fabius to be his friend, add this because he was of kin to him. Marion
@@ -1664,7 +1664,7 @@ them, but on account of all mankind in common, that we have taken
 vengeance on those who have been the authors of great injustice towards
 men, and of great wickedness towards the gods; for the sake of which we
 suppose it was that the sun turned away his light from us, <span
-id="EndNote Ant 14.23a"></span>[(23)](#EndNote%20Ant%2014.23b) as
+id="EndNote Ant 14.23a"></span>[(23)](#EndNote%20Ant%2014.23b.md) as
 unwilling to view the horrid crime they were guilty of in the case of
 Caesar. We have also overcome their conspiracies, which threatened the
 gods themselves, which Macedonia received, as it is a climate peculiarly
@@ -1756,7 +1756,7 @@ also a hundred of the most potent of the Jews to accuse Herod and those
 about him, and set the men of the greatest eloquence among them to
 speak. But Messala contradicted them, on behalf of the young men, and
 all this in the presence of Hyrcanus, who was Herod's father-in-law
-<span id="EndNote Ant 14.24a"></span>[(24)](#EndNote%20Ant%2014.24b)
+<span id="EndNote Ant 14.24a"></span>[(24)](#EndNote%20Ant%2014.24b.md)
 already. When Antony had heard both sides at Daphne, he asked Hyrcanus
 who they were that governed the nation best. He replied, Herod and his
 friends. Hereupon Antony, by reason of the old hospitable friendship he
@@ -1969,7 +1969,7 @@ the multitude, he cut off his ears, and thereby took care that the high
 priesthood should never come to him any more, because he was maimed,
 while the law required that this dignity should belong to none but such
 as had all their members entire <span
-id="EndNote Ant 14.25a"></span>[(25)](#EndNote%20Ant%2014.25b) But now
+id="EndNote Ant 14.25a"></span>[(25)](#EndNote%20Ant%2014.25b.md) But now
 one cannot but here admire the fortitude of Phasaelus, who, perceiving
 that he was to be put to death, did not think death any terrible thing
 at all; but to die thus by the means of his enemy, this he thought a
@@ -2055,7 +2055,7 @@ possible, to him, who was his hope and only succor at this time.
 
 4\. This account made Antony commiserate the change that had happened in
 Herod's condition; <span
-id="EndNote Ant 14.26a"></span>[(26)](#EndNote%20Ant%2014.26b) and
+id="EndNote Ant 14.26a"></span>[(26)](#EndNote%20Ant%2014.26b.md) and
 reasoning with himself that this was a common case among those that are
 placed in such great dignities, and that they are liable to the
 mutations that come from fortune, he was very ready to give him the
@@ -2099,7 +2099,7 @@ consul the second time, and Caius Asinius Pollio \[the first time\].
 
 6\. All this while Antigonus besieged those that were in Masada, who had
 plenty of all other necessaries, but were only in want of water <span
-id="EndNote Ant 14.27a"></span>[(27)](#EndNote%20Ant%2014.27b) insomuch
+id="EndNote Ant 14.27a"></span>[(27)](#EndNote%20Ant%2014.27b.md) insomuch
 that on this occasion Joseph, Herod's brother, was contriving to run
 away from it, with two hundred of his dependents, to the Arabians; for
 he had heard that Malchus repented of the offenses he had been guilty of
@@ -2172,7 +2172,7 @@ what Herod had caused to be proclaimed, and this before the Romans, and
 before Silo also, said that they would not do justly, if they gave the
 kingdom to Herod, who was no more than a private man, and an Idumean,
 i.e. a half Jew, <span
-id="EndNote Ant 14.28a"></span>[(28)](#EndNote%20Ant%2014.28b) whereas
+id="EndNote Ant 14.28a"></span>[(28)](#EndNote%20Ant%2014.28b.md) whereas
 they ought to bestow it on one of the royal family, as their custom was;
 for that in case they at present bear an ill-will to him, and had
 resolved to deprive him of the kingdom, as having received it from the
@@ -2437,7 +2437,7 @@ and joined battle with them, but he beat them in the fight; and in order
 to be revenged on them for the slaughter of his brother, he pursued them
 sharply, and killed them as they ran away; and as the houses were full
 of armed men, <span
-id="EndNote Ant 14.29a"></span>[(29)](#EndNote%20Ant%2014.29b) and many
+id="EndNote Ant 14.29a"></span>[(29)](#EndNote%20Ant%2014.29b.md) and many
 of them ran as far as the tops of the houses, he got them under his
 power, and pulled down the roofs of the houses, and saw the lower rooms
 full of soldiers that were caught, and lay all on a heap; so they threw
@@ -2582,7 +2582,7 @@ Sosius himself, till they all went away full of money.
 
 4\. This destruction befell the city of Jerusalem when Marcus Agrippa
 and Caninius Gallus were consuls of Rome <span
-id="EndNote Ant 14.30a"></span>[(30)](#EndNote%20Ant%2014.30b) on the
+id="EndNote Ant 14.30a"></span>[(30)](#EndNote%20Ant%2014.30b.md) on the
 hundred eighty and fifth olympiad, on the third month, on the solemnity
 of the fast, as if a periodical revolution of calamities had returned
 since that which befell the Jews under Pompey; for the Jews were taken
@@ -2610,7 +2610,7 @@ history tells us was the end of the Asamonean family.
 
 ENDNOTE
 
-<span id="EndNote Ant 14.1b"></span>[(1)](#EndNote%20Ant%2014.1a) Reland
+<span id="EndNote Ant 14.1b"></span>[(1)](#EndNote%20Ant%2014.1a.md) Reland
 takes notice here, very justly, how Josephus's declaration, that it was
 his great concern not only to write "an agreeable, an accurate," and "a
 true" history, but also distinctly not to omit any thing \[of
@@ -2618,13 +2618,13 @@ consequence\], either through "ignorance or laziness," implies that he
 could not, consistently with that resolution, omit the mention of \[so
 famous a person as\] "Jesus Christ."
 
-<span id="EndNote Ant 14.2b"></span>[(2)](#EndNote%20Ant%2014.2a) That
+<span id="EndNote Ant 14.2b"></span>[(2)](#EndNote%20Ant%2014.2a.md) That
 the famous Antipater's or Antipas's father was also Antipater or Antipas
 (which two may justly be esteemed one and the same frame, the former
 with a Greek or Gentile, the latter with a Hebrew or Jewish termination)
 Josephus here assures us, though Eusebias indeed says it was Herod.
 
-<span id="EndNote Ant 14.3b"></span>[(3)](#EndNote%20Ant%2014.3a) This
+<span id="EndNote Ant 14.3b"></span>[(3)](#EndNote%20Ant%2014.3a.md) This
 "golden vine," or "garden," seen by Strabo at Rome, has its inscription
 here as if it were the gift of Alexander, the father of Aristobulus, and
 not of Aristobulus himself, to whom yet Josephus ascribes it; and in
@@ -2642,7 +2642,7 @@ known any thing of them; nor would either the Jewish nation, or even
 Pompey himself, then have relished such a flagrant instance of
 sacrilege.
 
-<span id="EndNote Ant 14.4b"></span>[(4)](#EndNote%20Ant%2014.4a) These
+<span id="EndNote Ant 14.4b"></span>[(4)](#EndNote%20Ant%2014.4a.md) These
 express testimonies of Josephus here, and Antiq. B. VIII. ch. 6. sect.
 6, and B. XV. ch. 4. sect. 2, that the only balsam gardens, and the best
 palm trees, were, at least in his days, near Jericho and Kugaddi, about
@@ -2656,7 +2656,7 @@ were therein greatly mistaken: I mean this, unless that balsam, and the
 best palm trees, grew much more southward in Judea in the days of
 Eusebius and Jerom than they did in the days of Josephus.
 
-<span id="EndNote Ant 14.5b"></span>[(5)](#EndNote%20Ant%2014.5a) The
+<span id="EndNote Ant 14.5b"></span>[(5)](#EndNote%20Ant%2014.5a.md) The
 particular depth and breadth of this ditch, whence the stones for the
 wall about the temple were probably taken, are omitted in our copies of
 Josephus, but set down by Strabo, B. XVI. p. 763; from whom we learn
@@ -2666,12 +2666,12 @@ be immense, which exactly agrees to Strabo's description, and which
 numbers in Strabo are a strong confirmation of the truth of Josephus's
 description also.
 
-<span id="EndNote Ant 14.6b"></span>[(6)](#EndNote%20Ant%2014.6a) That
+<span id="EndNote Ant 14.6b"></span>[(6)](#EndNote%20Ant%2014.6a.md) That
 is, on the 23rd of Sivan, the annual fast for the defection and idolatry
 of Jeroboam, "who made Israel to sin;" or possibly some other fast might
 fall into that month, before and in the days of Josephus.
 
-<span id="EndNote Ant 14.7b"></span>[(7)](#EndNote%20Ant%2014.7a) It
+<span id="EndNote Ant 14.7b"></span>[(7)](#EndNote%20Ant%2014.7a.md) It
 deserves here to be noted, that this Pharisaical, superstitious notion,
 that offensive fighting was unlawful to Jews, even under the utmost
 necessity, on the Sabbath day, of which we hear nothing before the times
@@ -2684,34 +2684,34 @@ insisted on it, as is evident in many places in the New Testament,
 though he still intimated how pernicious that superstition might prove
 to them in their flight from the Romans, Matthew 25:20.
 
-<span id="EndNote Ant 14.8b"></span>[(8)](#EndNote%20Ant%2014.8a) This
+<span id="EndNote Ant 14.8b"></span>[(8)](#EndNote%20Ant%2014.8a.md) This
 is fully confirmed by the testimony of Cicero, who: says, in his oration
 for Flaecus, that "Cneius Pompeius, when he was conqueror, and had taken
 Jerusalem, did not touch any thing belonging to that temple."
 
-<span id="EndNote Ant 14.9b"></span>[(9)](#EndNote%20Ant%2014.9a) Of
+<span id="EndNote Ant 14.9b"></span>[(9)](#EndNote%20Ant%2014.9a.md) Of
 this destruction of Gadara here presupposed, and its restoration by
 Pompey, see the note on the War, B. I. ch. 7. sect. 7.
 
-<span id="EndNote Ant 14.10b"></span>[(10)](#EndNote%20Ant%2014.10a)
+<span id="EndNote Ant 14.10b"></span>[(10)](#EndNote%20Ant%2014.10a.md)
 Dean Prideaux well observes, "That notwithstanding the clamor against
 Gabinius at Rome, Josephus gives him a able character, as if he had
 acquitted himself with honor in the charge committed to him" \[in
 Judea\]. See at the year 55.
 
-<span id="EndNote Ant 14.11b"></span>[(11)](#EndNote%20Ant%2014.11a)
+<span id="EndNote Ant 14.11b"></span>[(11)](#EndNote%20Ant%2014.11a.md)
 This history is best illustrated by Dr. Hudson out of Livy, who says
 that "A. Gabinius, the proconsul, restored Ptolemy of Pompey and
 Gabinius against the Jews, while neither of them say any thing new which
 is not in the other to his kingdom of Egypt, and ejected Archelaus, whom
 they had set up for king," &c. See Prid. at the years 61 and 65.
 
-<span id="EndNote Ant 14.12b"></span>[(12)](#EndNote%20Ant%2014.12a) Dr.
+<span id="EndNote Ant 14.12b"></span>[(12)](#EndNote%20Ant%2014.12a.md) Dr.
 Hudson observes, that the name of this wife of Antipater in Josephus was
 Cypros, as a Hebrew termination, but not Cypris, the Greek name for
 Venus, as some critics were ready to correct it.
 
-<span id="EndNote Ant 14.13b"></span>[(13)](#EndNote%20Ant%2014.13a)
+<span id="EndNote Ant 14.13b"></span>[(13)](#EndNote%20Ant%2014.13a.md)
 Take Dr. Hudson's note upon this place, which I suppose to be the truth:
 "Here is some mistake in Josephus; for when he had promised us a decree
 for the restoration of Jerusalem he brings in a decree of far greater
@@ -2726,7 +2726,7 @@ little lower, in the collection of Raman decrees that concerned the Jews
 and is that dated when Caesar was consul the fifth time." See ch. 10.
 sect. 5.
 
-<span id="EndNote Ant 14.14b"></span>[(14)](#EndNote%20Ant%2014.14a)
+<span id="EndNote Ant 14.14b"></span>[(14)](#EndNote%20Ant%2014.14a.md)
 Those who will carefully observe the several occasional numbers and
 chronological characters in the life and death of this Herod, and of his
 children, hereafter noted, will see that twenty-five years, and not
@@ -2736,7 +2736,7 @@ and ch. 24. sect. 7; and particularly Antiq. B. XVII. ch. 8. sect. 1,
 where about forty-four years afterwards Herod dies an old man at about
 seventy.
 
-<span id="EndNote Ant 14.15b"></span>[(15)](#EndNote%20Ant%2014.15a) It
+<span id="EndNote Ant 14.15b"></span>[(15)](#EndNote%20Ant%2014.15a.md) It
 is here worth our while to remark, that none could be put to death in
 Judea but by the approbation of the Jewish Sanhedrim, there being an
 excellent provision in the law of Moses, that even in criminal causes,
@@ -2746,18 +2746,18 @@ seventy-one at Jerusalem; and that is exactly according to our Savior's
 words, when he says, "It could not be that a prophet should perish out
 of Jerusalem," Luke 13:33.
 
-<span id="EndNote Ant 14.16b"></span>[(16)](#EndNote%20Ant%2014.16a)
+<span id="EndNote Ant 14.16b"></span>[(16)](#EndNote%20Ant%2014.16a.md)
 This account, as Reland observes, is confirmed by the Talmudists, who
 call this Sameas, "Simeon, the son of Shetach."
 
-<span id="EndNote Ant 14.17b"></span>[(17)](#EndNote%20Ant%2014.17a)
+<span id="EndNote Ant 14.17b"></span>[(17)](#EndNote%20Ant%2014.17a.md)
 That Hyreanus was himself in Egypt, along with Antipater, at this time,
 to whom accordingly the bold and prudent actions of his deputy Antipater
 are here ascribed, as this decree of Julius Caesar supposes, we are
 further assured by the testimony of Strabo, already produced by
 Josephus, ch. 8. sect. 3.
 
-<span id="EndNote Ant 14.18b"></span>[(18)](#EndNote%20Ant%2014.18a) Dr.
+<span id="EndNote Ant 14.18b"></span>[(18)](#EndNote%20Ant%2014.18a.md) Dr.
 Hudson justly supposes that the Roman imperators, or generals of armies,
 meant both here and sect. 2, who gave testimony to Hyrcanus's and the
 Jews' faithfulness and goodwill to the Romans before the senate and
@@ -2765,7 +2765,7 @@ people of Rome, were principally Pompey, Scaurus, and Gabinius ;of all
 whom Josephus had already given us the history, so far as the Jews were
 concerned with them.
 
-<span id="EndNote Ant 14.19b"></span>[(19)](#EndNote%20Ant%2014.19a) We
+<span id="EndNote Ant 14.19b"></span>[(19)](#EndNote%20Ant%2014.19a.md) We
 have here a most remarkable and authentic attestation of the citizens of
 Pergamus, that Abraham was the father of all the Hebrews; that their own
 ancestors were, in the oldest times, the friends of those Hebrews; and
@@ -2783,7 +2783,7 @@ that Arsaces, who raised the Parthian empire, was of the :seed of
 Abraham by Chetura; and that thereby was accomplished that prediction
 which said, "Kings of nations shall proceed from thee," Genesis 17:6.
 
-<span id="EndNote Ant 14.20b"></span>[(20)](#EndNote%20Ant%2014.20a) If
+<span id="EndNote Ant 14.20b"></span>[(20)](#EndNote%20Ant%2014.20a.md) If
 we compare Josephus's promise in sect. 1, to produce all the public
 decrees of the Romans in favor of the Jews, with his excuse here for
 omitting many of them, we may observe, that when he came to transcribe
@@ -2795,13 +2795,13 @@ history, and give such great light to even the Roman antiquities
 themselves, that I believe the curious are not a little sorry for such
 his omissions.
 
-<span id="EndNote Ant 14.21b"></span>[(21)](#EndNote%20Ant%2014.21a) For
+<span id="EndNote Ant 14.21b"></span>[(21)](#EndNote%20Ant%2014.21a.md) For
 Marcus, this president of Syria, sent as successor to Sextus Caesar, the
 Roman historians require us to read "Marcus" in Josephus, and this
 perpetually, both in these Antiquities, and in his History of the Wars,
 as the learned generally agree.
 
-<span id="EndNote Ant 14.22b"></span>[(22)](#EndNote%20Ant%2014.22a) In
+<span id="EndNote Ant 14.22b"></span>[(22)](#EndNote%20Ant%2014.22a.md) In
 this and the following chapters the reader will easily remark, how truly
 Gronovius observes, in his notes on the Roman decrees in favor of the
 Jews, that their rights and privileges were commonly purchased of the
@@ -2813,37 +2813,37 @@ these notes. Accordingly, the chief captain confesses to St. Paul that
 Paul's ancestors, very probably, purchased the like freedom for their
 family by money, as the same author justly concludes also.
 
-<span id="EndNote Ant 14.23b"></span>[(23)](#EndNote%20Ant%2014.23a)
+<span id="EndNote Ant 14.23b"></span>[(23)](#EndNote%20Ant%2014.23a.md)
 This clause plainly alludes to that well-known but unusual and very long
 darkness of the sun which happened upon the :murder of Julius Cesar by
 Brutus and Cassius, which is greatly taken notice of by Virgil, Pliny,
 and other Roman authors. See Virgil's Georgics, B. I., just before the
 end; and Pliny's Nat. Hist. B. IL ch. 33.
 
-<span id="EndNote Ant 14.24b"></span>[(24)](#EndNote%20Ant%2014.24a) We
+<span id="EndNote Ant 14.24b"></span>[(24)](#EndNote%20Ant%2014.24a.md) We
 may here take notice that espousals alone were of old esteemed a
 sufficient foundation for affinity, Hyrcanus being here called
 father-in-law to Herod because his granddaughter Mariarune was betrothed
 to him, although the marriage was not completed till four years
 afterwards. See Matthew 1:16.
 
-<span id="EndNote Ant 14.25b"></span>[(25)](#EndNote%20Ant%2014.25a)
+<span id="EndNote Ant 14.25b"></span>[(25)](#EndNote%20Ant%2014.25a.md)
 This law of Moses, that the priests were to be "without blemish," as to
 all the parts of their bodies, is in Leviticus 21:17-24
 
-<span id="EndNote Ant 14.26b"></span>[(26)](#EndNote%20Ant%2014.26a)
+<span id="EndNote Ant 14.26b"></span>[(26)](#EndNote%20Ant%2014.26a.md)
 Concerning the chronology of Herod, and the time when he was first made
 king at Rome, and concerning the time when he began his second reign,
 without a rival, upon the conquest and slaughter of Antigonus, both
 principally derived from this and the two next chapters in Josephus, see
 the note on sect. 6, and ch. 15. sect. 10.
 
-<span id="EndNote Ant 14.27b"></span>[(27)](#EndNote%20Ant%2014.27a)
+<span id="EndNote Ant 14.27b"></span>[(27)](#EndNote%20Ant%2014.27a.md)
 This grievous want of water at Masada, till the place had like to have
 been taken by the Parthians, (mentioned both here, and Of the War, B. I.
 ch. 15. sect. 1,) is an indication that it was now summer time.
 
-<span id="EndNote Ant 14.28b"></span>[(28)](#EndNote%20Ant%2014.28a)
+<span id="EndNote Ant 14.28b"></span>[(28)](#EndNote%20Ant%2014.28a.md)
 This affirmation of Antigonus, spoken in the days of Herod, and in a
 manner to his face, that he was an Idumean, i.e. a half Jew, seems to me
 of much greater authority than that pretense of his favorite and
@@ -2855,7 +2855,7 @@ by birth a Jew, Antiq. B. XX. ch. 8. sect. 7; as indeed all such
 proselytes of justice, as the Idumeans, were in time esteemed the very
 same people with the Jews.
 
-<span id="EndNote Ant 14.29b"></span>[(29)](#EndNote%20Ant%2014.29a) It
+<span id="EndNote Ant 14.29b"></span>[(29)](#EndNote%20Ant%2014.29a.md) It
 may be worth our observation here, that these soldiers of Herod could
 not have gotten upon the tops of these houses which were full of
 enemies, in order to pull up the upper floors, and destroy them beneath,
@@ -2864,7 +2864,7 @@ New Testament, by which it appears that men used to ascend thither by
 ladders on the outsides. See Matthew 24:17; Mark 13:15; Luke 5:19;
 17:31.
 
-<span id="EndNote Ant 14.30b"></span>[(30)](#EndNote%20Ant%2014.30a)
+<span id="EndNote Ant 14.30b"></span>[(30)](#EndNote%20Ant%2014.30a.md)
 Note here, that Josephus fully and frequently assures us that there
 passed above three years between Herod's first obtaining the kingdom at
 Rome, and his second obtaining it upon the taking of Jerusalem and death
@@ -2894,4 +2894,4 @@ Jerusalem, they were not able to take it but by a siege of five months.
 All which put together, fully supplies what is wanting in Josephus, and
 secures the entire chronology of these times beyond contradiction.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

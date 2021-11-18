@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Next](jub01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Next](jub01.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ THE LITTLE GENESIS
 
 ------------------------------------------------------------------------
 
-[Next: Editors' Preface](jub01)
+[Next: Editors' Preface](jub01.md)

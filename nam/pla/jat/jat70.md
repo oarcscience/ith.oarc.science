@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat69)  [Next](jat71) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat69)  [Next](jat71.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ away to Cebolla and then to Tierra Amarilla.
 
 ------------------------------------------------------------------------
 
-[Next: 69. Deer Hunting in the Mescalero Country](jat71)
+[Next: 69. Deer Hunting in the Mescalero Country](jat71.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto32) 
-[Next](aoto34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto32.md) 
+[Next](aoto34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -212,7 +212,7 @@ courts.\]
 Passing over the fact that on such a great occasion as the marriage of
 his son and daughter, Menelaus would hardly expect his guests to bring
 their own provisions with them (though he might expect them, as Alcinous
-did, <span id="fr_59"></span>[\*](#fn_59) to do their own cooking) I
+did, <span id="fr_59"></span>[\*](#fn_59) to do their own cooking.md) I
 would ask the reader to note that the writer cannot keep the women out
 even from a mere cobble. A man might have told us that the guests
 brought meat and wine and bread, but his mind would not instinctively
@@ -366,7 +366,7 @@ fastened in the Odyssean manner.
 
 ### Footnotes
 
-<span id="fn_59"></span>[138:\*](aoto33.htm#fr_59) "Od." viii. 38-40,
+<span id="fn_59"></span>[138:\*](aoto33.htm#fr_59.md) "Od." viii. 38-40,
 *cf*. also 6i. It would seem that Alcinous found the provisions which
 the poorer guests cooked for themselves and ate outside in the court
 yards. The magnates ate in the covered cloister, and were no doubt
@@ -375,4 +375,4 @@ cooked for.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Further Indications That the Writer Is a Young,
-Headstrong, and Unmarried Woman](aoto34)
+Headstrong, and Unmarried Woman](aoto34.md)

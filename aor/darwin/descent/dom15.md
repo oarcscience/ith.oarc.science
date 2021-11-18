@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index)  [Index](index) 
-[Previous](dom14)  [Next](dom16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index)  [Index](index.md) 
+[Previous](dom14)  [Next](dom16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140436316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140436316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1017,4 +1017,4 @@ the females to danger during incubation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Secondary Sexual Characters of Birds](dom16)
+[Next: Chapter XIII. Secondary Sexual Characters of Birds](dom16.md)

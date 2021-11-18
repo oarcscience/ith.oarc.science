@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort07)  [Next](kort09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort07)  [Next](kort09.md) 
 
 ------------------------------------------------------------------------
 
-# 4. How a Small Kamak was transformed into a Harpoon-Line. <span id="fr_16"></span>[2](#fn_16)
+# 4. How a Small Kamak was transformed into a Harpoon-Line. <span id="fr_16"></span>[2](#fn_16.md)
 
 A small kamak said to his mother, "I am hungry." She said to him, "Go
 and eat something in the storeroom behind the sleeping-room!" He said,
@@ -33,7 +33,7 @@ house, and said, "O, Miti! dance in honor of (our) catch!" She began to
 dance, "We have a small kamak, we have a small kamak!" Big-Raven said,
 "You dance in a wrong way. Ġa'na, step forth and dance in honor of (our)
 catch!" She came out and began to dance, "We have a small ma'kak <span
-id="fr_17"></span>[1](#fn_17), we have a small ma'kak!" Big-Raven said,
+id="fr_17"></span>[1](#fn_17.md), we have a small ma'kak!" Big-Raven said,
 "Really this is right."
 
 They took him into the house. The house-master said, "What shall we make
@@ -80,7 +80,7 @@ unable to awaken them. "Oh, they are untying me already, they are
 carrying me away!" Indeed, they untied it and carried it away; they
 stole the line.
 
-The others woke up, but there was no line [whatever](errata.htm#1). It
+The others woke up, but there was no line [whatever](errata.htm#1.md). It
 had been taken away. Big-Raven said, "People living down the coast have
 committed this theft. Indeed, they took it, nobody else." Eme'mqut said,
 "A very good line was taken away, still we will bring it back." Eme'mqut
@@ -106,12 +106,12 @@ the inner room, so the others could not steal it. That is all.
 
 ### Footnotes
 
-<span id="fn_16"></span>[35:2](kort08.htm#fr_16) Compare W. Jochelson,
+<span id="fn_16"></span>[35:2](kort08.htm#fr_16.md) Compare W. Jochelson,
 The Koryak, *l. c.*, No. 98, p. 285.
 
-<span id="fn_17"></span>[37:1](kort08.htm#fr_17) Ġa'na mixes up the
+<span id="fn_17"></span>[37:1](kort08.htm#fr_17.md) Ġa'na mixes up the
 sounds of the word ka'mak. Still Big-Raven finds it quite right.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Big-Raven and the Kamaks](kort09)
+[Next: 5. Big-Raven and the Kamaks](kort09.md)

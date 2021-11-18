@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe124)  [Next](prwe126) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe124)  [Next](prwe126.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ other part of the fields through which the footpath passes.
 
 ------------------------------------------------------------------------
 
-[Next: The St Leven Stone](prwe126)
+[Next: The St Leven Stone](prwe126.md)

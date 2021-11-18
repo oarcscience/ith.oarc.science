@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app25)  [Next](app27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app25)  [Next](app27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ guide forth from my reverent lips a pure stream! I beseech thee also,
 much-wooed white-armed maiden Muse, convey (*to me*) such knowledge as
 divine law allows us creatures of a day to hear, driving the
 well-harnessed car from (*the realm of*) Piety! <span
-id="fr_34"></span>[1](#fn_30)
+id="fr_34"></span>[1](#fn_30.md)
 
 Nor shall the flowers of honour paid to fame by mortals force you at
 least to accept them on condition that you rashly say more than is
@@ -64,7 +64,7 @@ clear.
 4\. But it is of great concern to the lower orders to mistrust the
 powerful; however, as the trustworthy evidence of my Muse commands,
 grasp (*these things*), when my reasoned argument has been sifted in
-your innermost heart! <span id="fr_35"></span>[1](#fn_31)
+your innermost heart! <span id="fr_35"></span>[1](#fn_31.md)
 
 5\. To protect it within your silent bosom.
 
@@ -134,7 +134,7 @@ discourse, I shall tell you of a double process. At one time it
 increased so as to be a single One out of Many; at another time it grew
 apart so as to be Many out of One—Fire and Water and Earth and the
 boundless height of Air, and also execrable Hate apart from these, of
-equal weight in all directions, <span id="fr_36"></span>[1](#fn_32) and
+equal weight in all directions, <span id="fr_36"></span>[1](#fn_32.md) and
 Love in their midst, their equal in length and breadth. Observe her with
 your mind, and do not sit with
 
@@ -156,9 +156,9 @@ could it perish, since nothing is empty of these things? No, but these
 things alone exist, and running through one another they become
 different things at different times, and are ever continuously the same.
 
-18\. Love (*Philia*). <span id="fr_37"></span>[1](#fn_33)
+18\. Love (*Philia*). <span id="fr_37"></span>[1](#fn_33.md)
 
-19\. Adhesive Love (*Philotês*). <span id="fr_38"></span>[1](#fn_33)
+19\. Adhesive Love (*Philotês*). <span id="fr_38"></span>[1](#fn_33.md)
 
 20\. This process is clearly to be seen throughout the mass of mortal
 limbs: sometimes through Love all the limbs which the body has as its
@@ -193,7 +193,7 @@ those things which are more suitable for mixture are made like one
 another and united in affection by Aphrodite. But those things which
 differ most from one another in origin and mixture and the forms in
 which they are moulded are completely unaccustomed to combine, and are
-very baneful <span id="fr_39"></span>[1](#fn_34) because of the commands
+very baneful <span id="fr_39"></span>[1](#fn_34.md) because of the commands
 of Hate, in that Hate has wrought their origin.
 
 23\. As when painters decorate temple-offerings with colours—men who,
@@ -206,7 +206,7 @@ who are highest in honour; so let not Deception compel your mind (*to
 believe*) that there is any other source for mortals, as many as are to
 be seen existing in countless numbers. But know this for certain, since
 you have the account from a divinity. <span
-id="fr_40"></span>[2](#fn_35)
+id="fr_40"></span>[2](#fn_35.md)
 
 24\. . . . Touching on summit after summit, not to follow a single path
 of discourse to the end.
@@ -228,13 +228,13 @@ of Many, and again, when the One grows apart and Many are formed, in
 this sense they come into being and have no stable life; but in so far
 as they never cease their continuous exchange, in this sense they remain
 always unmoved (*unaltered*) as they follow the cyclic process. <span
-id="fr_41"></span>[1](#fn_36)
+id="fr_41"></span>[1](#fn_36.md)
 
 27\. (*The Sphere under the dominion of Love*): Therein are articulated
 neither the swift limbs of the sun, nor the shaggy might of Earth, nor
 the sea: so firmly is it (*the Whole*) fixed in a close-set secrecy, a
 rounded Sphere enjoying a circular solitude. <span
-id="fr_42"></span>[2](#fn_37)
+id="fr_42"></span>[2](#fn_37.md)
 
 27a. There is no strife nor unseemly war in his limbs.
 
@@ -268,8 +268,8 @@ from one quarter, others from another. And as they mixed,
 
 there poured forth countless races of mortals. But many things stand
 unmixed side by side with the things mixing—all those which Hate
-(*still*) aloft <span id="fr_43"></span>[1](#fn_38) checked, since it
-had not yet faultlessly <span id="fr_44"></span>[2](#fn_39) withdrawn
+(*still*) aloft <span id="fr_43"></span>[1](#fn_38.md) checked, since it
+had not yet faultlessly <span id="fr_44"></span>[2](#fn_39.md) withdrawn
 from the Whole to the outermost limits of the circle, but was remaining
 in some places, and in other places departing from the limbs (*of the
 Sphere*). But in so far as it went on quietly streaming out, to the same
@@ -285,7 +285,7 @@ races of mortals, equipped with forms of every sort, a marvel to behold.
 (*increases*) Aether.
 
 38\. Come now, I will first tell you of (*the sun*) <span
-id="fr_45"></span>[3](#fn_40) the beginning, (*the Elements*) from which
+id="fr_45"></span>[3](#fn_40) the beginning, (*the Elements*.md) from which
 all the things we now look upon came forth into view: Earth, and the sea
 with many waves, and damp Air, and the Titan Aether which clasps the
 circle all round.
@@ -359,7 +359,7 @@ offspring of cattle with the fronts of men, and again
 
 there arose offspring of men with heads of cattle; and (*creatures made
 of elements*) mixed in part from men, in part of female sex, furnished
-with hairy limbs. <span id="fr_46"></span>[1](#fn_41)
+with hairy limbs. <span id="fr_46"></span>[1](#fn_41.md)
 
 62\. Come now, hear how the Fire as it was separated sent up the
 night-produced shoots of men and much-lamenting women; for my tale is
@@ -373,7 +373,7 @@ proper to men.
 them*), part in the man's (*body and part in the woman's*).
 
 64\. Upon him comes Desire also, reminding <span
-id="fr_47"></span>[2](#fn_42) him through sight.
+id="fr_47"></span>[2](#fn_42.md) him through sight.
 
 65\. And they (*male and female seed*) were poured into the pure parts.
 Some of it forms women, (*namely*) that which has encountered Cold,
@@ -383,7 +383,7 @@ Some of it forms women, (*namely*) that which has encountered Cold,
 
 67\. For in the warmer part the stomach (*i.e.* *the womb*) is
 productive of the male, and for this reason men are swarthy and more
-powerfully built <span id="fr_48"></span>[3](#fn_43) and more shaggy.
+powerfully built <span id="fr_48"></span>[3](#fn_43.md) and more shaggy.
 
 68\. On the tenth day of the eighth month (*the blood*) becomes a white
 putrefaction (*milk*).
@@ -404,7 +404,7 @@ exist fitted together by Aphrodite . . .
 
 73\. And as at that time Cypris, when she had drenched earth with
 rain-water, busying herself in preparation of the forms, <span
-id="fr_49"></span>[1](#fn_44) gave them to swift Fire to strengthen them
+id="fr_49"></span>[1](#fn_44.md) gave them to swift Fire to strengthen them
 . . .
 
 74\. (*Aphrodite*): bringing the tuneless tribe of prolific fish.
@@ -425,7 +425,7 @@ composition*).
 79\. Thus eggs are borne, first by the tall olive trees . . .
 
 80\. . . .Which is the reason why pomegranates are late-ripening and
-apples remain juicy for so long(?). <span id="fr_50"></span>[2](#fn_45)
+apples remain juicy for so long(?). <span id="fr_50"></span>[2](#fn_45.md)
 
 81\. Wine is the water from the bark, after it has fermented in the
 wood.
@@ -446,7 +446,7 @@ in membranes and in fine
 
 <span id="page_61">p. 61</span>
 
-tissues, hide itself <span id="fr_51"></span>[1](#fn_46) in the round
+tissues, hide itself <span id="fr_51"></span>[1](#fn_46.md) in the round
 pupils; and these (*tissues*) were pierced throughout with marvellous
 passages. They kept out the deep reservoir of water surrounding the
 pupil, but let the Fire through (*from within*) outwards, since it was
@@ -476,7 +476,7 @@ the male and female seed are soft substances which when mixed produce a
 hard substance, as when*) brass is mixed with tin.
 
 93\. The berry of the grey elder mingles with the linen. <span
-id="fr_52"></span>[2](#fn_47)
+id="fr_52"></span>[2](#fn_47.md)
 
 94\. And the black colour in the bottom of a river arises from the
 shadow, and the same thing is seen in deep caves.
@@ -511,7 +511,7 @@ the blood while a free way is cut for the passage of the air. Thus, when
 the thin blood flows back from here, the air, bubbling, rushes in in a
 mighty wave; and when the blood leaps up (*to the surface*), there is an
 expiration of air. As when a girl, playing with a water-catcher <span
-id="fr_53"></span>[1](#fn_48) of shining brass—when, having placed the
+id="fr_53"></span>[1](#fn_48.md) of shining brass—when, having placed the
 mouth of the pipe on her well-shaped hand she dips the vessel into the
 yielding substance of silvery water, still the volume of air pressing
 from inside on the many holes keeps out the water, until she uncovers
@@ -520,7 +520,7 @@ the water flows in in an equal quantity. Similarly, when water occupies
 the depths of the brazen vessel, and the opening or passage is stopped
 by the human flesh (*hand*), and the air outside, striving to get in,
 checks the water, by controlling the surface at the entrance of the
-noisy strainer <span id="fr_54"></span>[2](#fn_49) until she lets go
+noisy strainer <span id="fr_54"></span>[2](#fn_49.md) until she lets go
 with her hand:
 
 <span id="page_63">p. 63</span>
@@ -533,7 +533,7 @@ flows up again, again there is a breathing-out in equal volume.
 
 101\. . . . Tracking down with its nostrils the portions of animal
 limbs, all those (*portions*) that, when living, they left behind from
-their feet on the tender grass. <span id="fr_55"></span>[1](#fn_50)
+their feet on the tender grass. <span id="fr_55"></span>[1](#fn_50.md)
 
 102\. Thus all (*creatures*) have a share of breathing and smell.
 
@@ -587,7 +587,7 @@ their blasts and lay waste the cultivated fields. And again, if you
 wish, you shall conduct the breezes back again. You shall create a
 seasonable dryness after the dark rain for mankind, and again you shall
 create after summer drought the streams that nourish the trees and
-\[which will flow in the sky\]. <span id="fr_56"></span>[1](#fn_51) And
+\[which will flow in the sky\]. <span id="fr_56"></span>[1](#fn_51.md) And
 you shall bring out of Hades a dead man restored to strength.
 
 #### KATHARMOI (PURIFICATIONS)
@@ -597,7 +597,7 @@ looking down on yellow Acragas, you who are occupied with good deeds,
 who are harbours (of refuge) treating foreigners with respect, and who
 are unacquainted with wickedness: greeting! I go about among you as an
 immortal god, no longer a mortal, held in honour by all, as I seem (to
-them to deserve), <span id="fr_57"></span>[2](#fn_52) crowned with
+them to deserve), <span id="fr_57"></span>[2](#fn_52.md) crowned with
 fillets and flowing garlands. When I come to them in their flourishing
 towns, to men and women, I am honoured; and they follow me in thousands,
 to inquire where is the path of advantage, some desiring oracles, while
@@ -642,7 +642,7 @@ escort the souls to Earth*).
 
 121\. . . . The joyless land where are Murder and Wrath and the tribes
 of other Dooms, and Wasting Diseases and Corruptions and the Works of
-Dissolution <span id="fr_58"></span>[1](#fn_53) wander over the Meadow
+Dissolution <span id="fr_58"></span>[1](#fn_53.md) wander over the Meadow
 of Disaster in the darkness.
 
 122\. Here were the Earth-Mother (Chthoniê) and the farseeing
@@ -705,13 +705,13 @@ Persuasion runs into the human mind.
 
 134\. For he is not equipped with a human head on his body, nor from his
 back do two branches start; (*he has*) no feet, no swift knees, <span
-id="fr_59"></span>[1](#fn_54) no hairy genital organs; but he is Mind,
+id="fr_59"></span>[1](#fn_54.md) no hairy genital organs; but he is Mind,
 holy and ineffable, and only Mind, which darts through the whole
 universe with its swift thoughts.
 
 135\. But that which is lawful for all extends continuously through the
 broad-ruling Air and through the boundless Light. <span
-id="fr_60"></span>[2](#fn_55)
+id="fr_60"></span>[2](#fn_55.md)
 
 136\. Will ye not cease from this harsh-sounding slaughter? Do you not
 see that you are devouring one another in the thoughtlessness of your
@@ -719,7 +719,7 @@ minds?
 
 137\. The father having lifted up the son slaughters him with a prayer,
 in his great folly. But they are troubled <span
-id="fr_61"></span>[3](#fn_56) at sacrificing one who begs for mercy. But
+id="fr_61"></span>[3](#fn_56.md) at sacrificing one who begs for mercy. But
 he, on the other hand, deaf to (*the victim's*) cries, slaughters him in
 his halls and prepares the evil feast. Likewise son takes father, and
 children their mother, and tearing out the life, eat the flesh of their
@@ -738,7 +738,7 @@ did not destroy me before I planned evil deeds of eating with my lips!'
 
 142\. Him will the roofed palace of aegis-bearing Zeus never receive,
 nor yet the roof of Hades and of the piteous voice. <span
-id="fr_62"></span>[1](#fn_57)
+id="fr_62"></span>[1](#fn_57.md)
 
 143\. (*Wash the hands*) cutting off (*water*) from five springs into
 (*a vessel of*) enduring bronze.
@@ -759,14 +759,14 @@ freed from the lot of human griefs, indestructible.
 
 149\. Cloud-gathering Air.
 
-150\. Full-blooded liver. <span id="fr_63"></span>[2](#fn_58)
+150\. Full-blooded liver. <span id="fr_63"></span>[2](#fn_58.md)
 
 151\. Life-giving Aphrodite.
 
 152\. (*Old age, the evening of life; evening, the old age of the day: a
 similar metaphor in Empedocles*)
 
-153\. Baubô. <span id="fr_64"></span>[3](#fn_59)
+153\. Baubô. <span id="fr_64"></span>[3](#fn_59.md)
 
 153a. In seven times seven days (*the unborn child is formed*).
 
@@ -810,72 +810,72 @@ Nature' is addressed*).
 
 ### Footnotes
 
-<span id="fn_30"></span>[51:1](app26.htm#fr_34) Others translate: 'Muse
+<span id="fn_30"></span>[51:1](app26.htm#fr_34.md) Others translate: 'Muse
 of such things as it is lawful for mortals to hear, escort me from the
 realms of Piety, driving my well-harnessed car!'
 
 Here there is probably a gap, where Empedocles takes up his address to
 Pausanias again.
 
-<span id="fn_31"></span>[52:1](app26.htm#fr_35) διασηθέντος (Diels),
+<span id="fn_31"></span>[52:1](app26.htm#fr_35) διασηθέντος (Diels.md),
 from διασήθω, 'sift'; but he translates: 'when my speech has passed
 through the sieve of your inward parts.' Clement read διατμηθέντος,
 which gives: 'when my argument has been analysed in your inner parts', a
 perfectly sound meaning.
 
-<span id="fn_32"></span>[53:1](app26.htm#fr_36) ἁπάντῃ (Sextus);
+<span id="fn_32"></span>[53:1](app26.htm#fr_36) ἁπάντῃ (Sextus.md);
 Simplicius read ἑκαστον, which has been emended to ἑκάστῳ
 (Panzerbieter): 'equal in weight to each' (of the Elements).
 
-<span id="fn_33"></span>[54:1](app26.htm#fr_38) Empedocles probably used
+<span id="fn_33"></span>[54:1](app26.htm#fr_38.md) Empedocles probably used
 *Philotês*, not *Philia*; both words mean Love in the widest sense, not
 merely *Eros*.
 
-<span id="fn_34"></span>[55:1](app26.htm#fr_39) λυγρά is usually
+<span id="fn_34"></span>[55:1](app26.htm#fr_39.md) λυγρά is usually
 translated 'sorry', 'grieved'; but cp. Odyssey IV. 230: φάρμακα λυγρά.
 
-<span id="fn_35"></span>[55:2](app26.htm#fr_40) The Muse.
+<span id="fn_35"></span>[55:2](app26.htm#fr_40.md) The Muse.
 
-<span id="fn_36"></span>[56:1](app26.htm#fr_41) Of this fragment, v. 3=
+<span id="fn_36"></span>[56:1](app26.htm#fr_41.md) Of this fragment, v. 3=
 B17, v. 34 and B21, v. 13; vv. 5, 6 = B17, vv. 7, 8; vv. 8-12 = B17, vv.
 9-13.
 
-<span id="fn_37"></span>[56:2](app26.htm#fr_42) *i.e.*, content with
+<span id="fn_37"></span>[56:2](app26.htm#fr_42.md) *i.e.*, content with
 these conditions, self-sufficient.
 
-<span id="fn_38"></span>[57:1](app26.htm#fr_43) *i.e.*, not yet fallen
+<span id="fn_38"></span>[57:1](app26.htm#fr_43.md) *i.e.*, not yet fallen
 to the bottom.
 
-<span id="fn_39"></span>[57:2](app26.htm#fr_44) *i.e.*, 'completely', so
+<span id="fn_39"></span>[57:2](app26.htm#fr_44.md) *i.e.*, 'completely', so
 that no fault could be found with the mixture.
 
-<span id="fn_40"></span>[57:3](app26.htm#fr_45) ἥλιον Clem.; corrupt.
+<span id="fn_40"></span>[57:3](app26.htm#fr_45.md) ἥλιον Clem.; corrupt.
 
-<span id="fn_41"></span>[59:1](app26.htm#fr_46) σκιεροῖς (Kranz); Diels
+<span id="fn_41"></span>[59:1](app26.htm#fr_46) σκιεροῖς (Kranz.md); Diels
 read στείροις ('sterile').
 
-<span id="fn_42"></span>[59:2](app26.htm#fr_47) ἀναμιμνήσκων, a dubious
+<span id="fn_42"></span>[59:2](app26.htm#fr_47.md) ἀναμιμνήσκων, a dubious
 emendation by Diels for ἀμμίσγων, 'mingling' (male and female).
 
-<span id="fn_43"></span>[59:3](app26.htm#fr_48) ἁδρομελέστεροι: Karsten
+<span id="fn_43"></span>[59:3](app26.htm#fr_48.md) ἁδρομελέστεροι: Karsten
 for MSS. ἀνδρωδέστεροι.
 
-<span id="fn_44"></span>[60:1](app26.htm#fr_49) εἴδεα. Diels read ἴδεα
+<span id="fn_44"></span>[60:1](app26.htm#fr_49.md) εἴδεα. Diels read ἴδεα
 from ἴδος (damp heat).
 
-<span id="fn_45"></span>[60:2](app26.htm#fr_50) Plutarch, who quotes
+<span id="fn_45"></span>[60:2](app26.htm#fr_50.md) Plutarch, who quotes
 this, did not know the meaning of ὑπέρφλοιον, but was told by scholars
 that φλοίειν is used to mean 'to be in its prime', 'to flourish', and as
 the apple is the fruit which best preserves its prime, the poet called
 it 'of surpassing or enduring ripeness'. Empedocles is explaining the
 effect of the sun on various fruits.
 
-<span id="fn_46"></span>[61:1](app26.htm#fr_51) λοχάζετο here is
+<span id="fn_46"></span>[61:1](app26.htm#fr_51.md) λοχάζετο here is
 intransitive. Burnet wrongly takes it as transitive and supplies 'she
 (Love)' as the subject. For the accusative κούρην cp. Hdt. v. 121,
 ἐλόχησαν ὁδόν 'occupied the road with an ambuscade'.
 
-<span id="fn_47"></span>[61:2](app26.htm#fr_52) This fragment concerns
+<span id="fn_47"></span>[61:2](app26.htm#fr_52.md) This fragment concerns
 dyeing, as illustrative of the power of assimilation of one substance by
 another. The MSS. read κρόκου or κρόκον, for which Diels substituted
 κόκκος, 'berry'; and ἀκρίς, for which Wilamowitz suggested ἀκτῆς, from
@@ -883,12 +883,12 @@ another. The MSS. read κρόκου or κρόκον, for which Diels substituted
 fragment can be more plausibly translated: 'The ray of bright(?) saffron
 mingles with the linen.' The emendations are ingenious but improbable.
 
-<span id="fn_48"></span>[62:1](app26.htm#fr_53) *Klepsydra:* not here
+<span id="fn_48"></span>[62:1](app26.htm#fr_53.md) *Klepsydra:* not here
 the water-clock, but a domestic vessel for picking up small quantities
 of liquid out of a larger vessel. See Hugh Last, *Class. Q.* XVIII
 (1924), pp. 169 *sqq*. for description and illustration.
 
-<span id="fn_49"></span>[62:2](app26.htm#fr_54) ἠθμοῖο, the base of the
+<span id="fn_49"></span>[62:2](app26.htm#fr_54.md) ἠθμοῖο, the base of the
 water-catcher, pierced with holes through which the liquid enters. This,
 the reading of a few less good MSS., is probably correct. Burnet prefers
 the commoner ἰσθμοῖο (the control-pipe at the top of the vessel),
@@ -898,48 +898,48 @@ described in Aristotle, *Probl*. 943. But this is not to the point here:
 the water-catcher was not turned upside down, but the flow of liquid was
 regulated by opening and shutting the upper entrance with the hand.
 
-<span id="fn_50"></span>[63:1](app26.htm#fr_55) The hunting-dog is
+<span id="fn_50"></span>[63:1](app26.htm#fr_55.md) The hunting-dog is
 referred to. Smell, an emanation from the animal, is given off only when
 it is alive; hence, when dead, it does not leave traces of interest to
 other animals.
 
-<span id="fn_51"></span>[64:1](app26.htm#fr_56) Reading corrupt.
+<span id="fn_51"></span>[64:1](app26.htm#fr_56.md) Reading corrupt.
 
-<span id="fn_52"></span>[64:2](app26.htm#fr_57) ὤσπερ ἔοικα. Diels
+<span id="fn_52"></span>[64:2](app26.htm#fr_57.md) ὤσπερ ἔοικα. Diels
 translated this 'as I deserve', which, as Kranz says, is impossible.
 Another reading is ἔοικε, 'as is proper'. See *Companion*, p. 178, note.
 
-<span id="fn_53"></span>[65:1](app26.htm#fr_58) ἔργα τε ῥευστά. Diels
+<span id="fn_53"></span>[65:1](app26.htm#fr_58.md) ἔργα τε ῥευστά. Diels
 (followed by Burnet) thought that this referred to floods; but bodily
 ailments are here in question. Bignone suggested 'works of dissolution'.
 Kranz translates 'the work of Rheuma', *i.e.* of diseases due to excess
 of the moist element, as opposed to fevers ('wasting diseases').
 
-<span id="fn_54"></span>[67:1](app26.htm#fr_59) vv. 1, 2, = B29, vv. 1,
+<span id="fn_54"></span>[67:1](app26.htm#fr_59.md) vv. 1, 2, = B29, vv. 1,
 2.
 
-<span id="fn_55"></span>[67:2](app26.htm#fr_60) Divine law as opposed to
+<span id="fn_55"></span>[67:2](app26.htm#fr_60.md) Divine law as opposed to
 human law; said to refer in particular to the prohibition of
 animal-slaughter.
 
-<span id="fn_56"></span>[67:3](app26.htm#fr_61) οἱ δ᾽ ἀπορεῦνται,
+<span id="fn_56"></span>[67:3](app26.htm#fr_61.md) οἱ δ᾽ ἀπορεῦνται,
 emendation of Diels, who takes 'they' as 'the attendants at the
 sacrifice'. If the MSS. reading of δὲ πορεῦνται λισσόεμνοι be retained,
 the meaning is: 'they (the victims) come up to beg for mercy'.
 
-<span id="fn_57"></span>[68:1](app26.htm#fr_62) An uncertain restoration
+<span id="fn_57"></span>[68:1](app26.htm#fr_62.md) An uncertain restoration
 by Diels of a passage quoted for grammatical reasons, from the
 Herculanean MSS.
 
-<span id="fn_58"></span>[68:2](app26.htm#fr_63) Quoted by Plutarch to
+<span id="fn_58"></span>[68:2](app26.htm#fr_63.md) Quoted by Plutarch to
 show that Empedocles does not use epithets idly for the sake of fine
 writing, but in order to bring out the exact nature or function of
 something.
 
-<span id="fn_59"></span>[68:3](app26.htm#fr_64) Connected with Demeter
+<span id="fn_59"></span>[68:3](app26.htm#fr_64.md) Connected with Demeter
 in Orphic mythology; said to have been used by Empedocles to mean
 'belly'.
 
 ------------------------------------------------------------------------
 
-[Next: 32. Menestôr of Sybaris](app27)
+[Next: 32. Menestôr of Sybaris](app27.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](land06)  [Next](land08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](land06)  [Next](land08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *New Lands*, by Charles Fort, \[1923\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -354,4 +354,4 @@ they do. See Proctor's *Old and New Astronomy*, p. 229.
 
 ------------------------------------------------------------------------
 
-[Next: 8](land08)
+[Next: 8](land08.md)

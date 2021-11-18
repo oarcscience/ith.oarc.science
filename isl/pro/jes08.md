@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jes07)  [Next](jes09) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jes07)  [Next](jes09.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ mentioned in the book of Al-Fâriq Bayn Al-Makhlooq W'Al-Khâliq.
 
 ------------------------------------------------------------------------
 
-[Next: Gospel of Luke](jes09)
+[Next: Gospel of Luke](jes09.md)

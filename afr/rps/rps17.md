@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps16)  [Next](rps18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps16)  [Next](rps18.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ BLACK SUPREMACY KING OF KINGS
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 16. Speaking in Divers Tongue](rps18)
+[Next: Chapter 16. Speaking in Divers Tongue](rps18.md)

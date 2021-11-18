@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](tigs01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](tigs01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *True Irish Ghost Stories*, by St. John D. Seymour and Harry L. Neligan,
 \[1914\], at Intangible Textual Heritage
 
@@ -36,4 +36,4 @@ THE COMPILERS</span>
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](tigs01)
+[Next: Foreword](tigs01.md)

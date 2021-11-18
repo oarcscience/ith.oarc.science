@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc12)  [Next](scc14) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc12)  [Next](scc14.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ the world.
 
 ------------------------------------------------------------------------
 
-[Next: 12.--Gashowu Yokuts. The Origin Of Death.](scc14)
+[Next: 12.--Gashowu Yokuts. The Origin Of Death.](scc14.md)

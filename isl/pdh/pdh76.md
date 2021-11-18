@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](pdh75)  [Next](pdh77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](pdh75)  [Next](pdh77.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ led them astray."
 
 ------------------------------------------------------------------------
 
-[Next: XL](pdh77)
+[Next: XL](pdh77.md)

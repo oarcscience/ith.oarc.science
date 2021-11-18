@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog17)  [Next](caog19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog17)  [Next](caog19.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -833,7 +833,7 @@ this opinion; it is possible that this individual was the gatekeeper or
 <span id="img_25700"></span> <span align="CENTER"> [![IZDUBAR, COMPOSITE
 FIGURES, AND HASISADRA (NOAH) IN THE ARK; FROM AN EARLY BABYLONIAN
 CYLINDER.](tn/25700.jpg)  
-Click to enlarge](img/25700.jpg)  
+Click to enlarge](img/25700.jpg.md)  
 IZDUBAR, COMPOSITE FIGURES, AND HASISADRA (NOAH) IN THE ARK; FROM AN
 EARLY BABYLONIAN CYLINDER.  
 </span>
@@ -1040,8 +1040,8 @@ in the first place it does not appear how Heabani was killed. My
 original idea, that he was killed by the poisonous insect *tambukku*, I
 find to be incorrect, and it now appears most likely either that he was
 killed in a quarrel with Izdubar, as seems suggested by the fragment in
-[p. 246](#page_246), or that he fell in an attempt to slay a lion, which
-is implied in the passage [p. 259](#page_259).
+[p. 246](#page_246.md), or that he fell in an attempt to slay a lion, which
+is implied in the passage [p. 259](#page_259.md).
 
 In the ninth tablet I am able to make a correction to my former
 translation; I find the monsters seen by Izdubar were composite beings,
@@ -1066,14 +1066,14 @@ the fragments appear to refer to some bird with magnificent
 
 <span id="img_26200"></span> <span align="CENTER"> [![COMPOSITE FIGURES
 (SCORPION MEN); FROM AN ASSYRIAN CYLINDER.](tn/26200.jpg)  
-Click to enlarge](img/26200.jpg)  
+Click to enlarge](img/26200.jpg.md)  
 COMPOSITE FIGURES (SCORPION MEN); FROM AN ASSYRIAN CYLINDER.  
 </span>
 
 feathers like precious stones, seen by Izdubar on his journey.
 
-I have altered my translation of the passage in pp. [255](#page_255),
-[256](#page_256), which I now believe to relate that Izdubar at the
+I have altered my translation of the passage in pp. [255](#page_255.md),
+[256](#page_256.md), which I now believe to relate that Izdubar at the
 direction of Urhamsi made a spear from one of the trees of the forest
 before going across the waters of death which separated the abode of
 Hasisadra from the world of mortals. I do not, however, understand the
@@ -1084,6 +1084,6 @@ appear what he attacked with it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. The Story of the Flood and Conclusion](caog19)
+[Next: Chapter XVI. The Story of the Flood and Conclusion](caog19.md)
 
 </div>

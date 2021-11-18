@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft13)  [Next](efft15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft13)  [Next](efft15.md) 
 
 ------------------------------------------------------------------------
 
-# THE PEDLAR OF SWAFFHAM.  <span id="fr_15"></span>[1](#fn_15)
+# THE PEDLAR OF SWAFFHAM.  <span id="fr_15"></span>[1](#fn_15.md)
 
 CONSTANT tradition says that there lived in former times in Soffham
 (Swaffham), *alias* Sopham, in Norfolk, a certain pedlar, who dreamed
@@ -43,9 +43,9 @@ unto this day.
 
 ### Footnotes
 
-<span id="fn_15"></span>[1](efft14.htm#fr_15) *Diary of Abraham dela
+<span id="fn_15"></span>[1](efft14.htm#fr_15.md) *Diary of Abraham dela
 Pryne* p. 220, under date 10 Nov. 1699 (Surtees Society.).
 
 ------------------------------------------------------------------------
 
-[Next: The Lampton Worm](efft15)
+[Next: The Lampton Worm](efft15.md)

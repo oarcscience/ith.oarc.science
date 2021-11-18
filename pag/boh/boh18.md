@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh17) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh17.md) 
 
 ------------------------------------------------------------------------
 

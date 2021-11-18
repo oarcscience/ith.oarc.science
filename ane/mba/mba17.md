@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba16)  [Next](mba18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba16)  [Next](mba18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -209,14 +209,14 @@ stated significantly that "the Canaanite and the Perizzite dwelled in
 the land". The two kinsmen found it necessary, therefore, to part
 company. Lot elected to go towards Sodom in the plain of Jordan, and
 Abraham then moved towards the plain of Mamre, the Amorite, in the
-Hebron district. <span id="fr_272"></span>[1](#fn_271) With Mamre, and
+Hebron district. <span id="fr_272"></span>[1](#fn_271.md) With Mamre, and
 his brothers, Eshcol and Aner, the
 
 <span id="page_246">p. 246</span>
 
 <span class="contnote">\[paragraph continues\]</span> Hebrew patriarch
 formed a confederacy for mutual protection. <span
-id="fr_273"></span>[1](#fn_272)
+id="fr_273"></span>[1](#fn_272.md)
 
 Other tribes which were in Palestine at this period included the
 Horites, the Rephaims, the Zuzims, the Zamzummims, and the Emims. These
@@ -224,13 +224,13 @@ were probably representatives of the older stocks. Like the Amorites,
 the Hittites or "children of Heth" were evidently "late corners", and
 conquerors. When Abraham purchased the burial cave at Hebron, the
 landowner with whom he had to deal was one Ephron, son of Zohar, the
-Hittite. <span id="fr_274"></span>[2](#fn_273) This illuminating
+Hittite. <span id="fr_274"></span>[2](#fn_273.md) This illuminating
 statement agrees with what we know regarding Hittite expansion about
 2000 B.C. The "Hatti" or "Khatti" had constituted military aristocracies
 throughout Syria and extended their influence by forming alliances. Many
 of their settlers were owners of estates, and traders who intermarried
 with the indigenous peoples and the Arabian invaders. As has been
-indicated ([Chapter 1](mba07.htm#an_ch-01)), the large-nosed Armenoid
+indicated ([Chapter 1](mba07.htm#an_ch-01).md), the large-nosed Armenoid
 section of the Hittite confederacy appear to have contributed to the
 racial blend known vaguely as the Semitic. Probably the particular group
 of Amorites with whom Abraham became associated had those pronounced
@@ -239,7 +239,7 @@ Hebrew people. Of special interest in this connection is Ezekiel's
 declaration regarding the ethnics of Jerusalem: "Thy birth and thy
 nativity", he said, "is of the land of Canaan; thy father was an
 Amorite, and thy mother an Hittite." <span
-id="fr_275"></span>[3](#fn_274)
+id="fr_275"></span>[3](#fn_274.md)
 
 It was during Abraham's residence in Hebron that the Western Land was
 raided by a confederacy of Babylonian and Elamite battle lords. The
@@ -258,7 +258,7 @@ Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of
 Zeboiim, and the king of Bela, which is Zoar. All these joined together
 in the vale of Siddim, which is the salt sea. Twelve years they served
 Chedor-laomer, and in the thirteenth year they rebelled." <span
-id="fr_276"></span>[1](#fn_275) Apparently the Elamites had conquered
+id="fr_276"></span>[1](#fn_275.md) Apparently the Elamites had conquered
 part of Syria after entering southern Babylonia.
 
 Chedor-laomer and his allies routed the Rephaims, the Zuzims, the Emims,
@@ -271,7 +271,7 @@ afterwards allotted to the Hebrew tribe of Dan. The surprise was
 complete; Abraham "smote" the enemy and "pursued them unto Hobah, which
 is on the left hand of Damascus. And he brought back all the goods, and
 also brought again his brother Lot, and his goods, and the women also,
-and the people." <span id="fr_277"></span>[2](#fn_276)
+and the people." <span id="fr_277"></span>[2](#fn_276.md)
 
 The identification of Hammurabi with Amraphel is now generally accepted.
 At first the guttural "h", which gives the English rendering
@@ -317,7 +317,7 @@ regarding the invasion of Syria and Palestine, that he styled himself
 RECEIVING THE ''CODE OF LAWS'' FROM THE SUN GOD&lt;br&gt;
 (&lt;i&gt;Louvre, Paris&lt;/i&gt;)&lt;br&gt; Photo.
 Giraudon](tn/24800.jpg)  
-Click to enlarge](img/24800.jpg)  
+Click to enlarge](img/24800.jpg.md)  
 HAMMURABI RECEIVING THE ''CODE OF LAWS'' FROM THE SUN GOD  
 (*Louvre, Paris*)  
 Photo. Giraudon  
@@ -370,7 +370,7 @@ brothers. By my wisdom I provided for them." He set up his stele, on
 which the legal code was inscribed, so "that the great should not
 oppress the weak" and "to counsel the widow and orphan", and "to succour
 the injured . . . The king that is gentle, king of the city, exalted am
-I." <span id="fr_278"></span>[1](#fn_277)
+I." <span id="fr_278"></span>[1](#fn_277.md)
 
 Hammurabi was no mere framer of laws but a practical administrator as
 well. He acted as supreme judge, and his subjects could appeal to him as
@@ -531,7 +531,7 @@ accepted sense of the term. As a German writer puts it, his despotism
 was a form of Patriarchal Absolutism. "When Marduk (Merodach)", as the
 great king recorded, "brought me to direct all people, and commissioned
 me to give judgment, I laid down justice and right in the provinces, I
-made all flesh to prosper." <span id="fr_279"></span>[1](#fn_278) That
+made all flesh to prosper." <span id="fr_279"></span>[1](#fn_278.md) That
 was the keynote of his long life; he regarded himself as the earthly
 representative of the Ruler of all--Merodach, "the lord god of right",
 who carried out the decrees of Anu, the sky god of Destiny.
@@ -559,7 +559,7 @@ their pioneers in agricultural pursuits. No doubt they were welcomed in
 that capacity, for owing to the continuous spread of culture and the
 development of commerce, rural labour had become scarce and dear.
 Farmers had a long-standing complaint, "The harvest truly is plenteous,
-but the labourers are few". <span id="fr_280"></span>[1](#fn_279)
+but the labourers are few". <span id="fr_280"></span>[1](#fn_279.md)
 "Despite the existence of slaves, who were for the most part domestic
 servants, there was", writes Mr. Johns, "considerable demand for free
 labour in ancient Babylonia. This is clear from the large number of
@@ -571,7 +571,7 @@ dearer than any other, because of its importance, the skill and exertion
 demanded, and the fact that so many were seeking for it at once." When a
 farm worker was engaged he received a shekel for "earnest money" or
 arles, and was penalized for non-appearance or late arrival. <span
-id="fr_281"></span>[2](#fn_280)
+id="fr_281"></span>[2](#fn_280.md)
 
 So great was the political upheaval caused by Rim-Sin and his allies and
 imitators in southern Babylonia, that it was not until the seventeenth
@@ -665,33 +665,33 @@ B.C.
 
 ### Footnotes
 
-<span id="fn_271"></span>[245:1](mba17.htm#fr_272) *Genesis*, xii and
+<span id="fn_271"></span>[245:1](mba17.htm#fr_272.md) *Genesis*, xii and
 xiii.
 
-<span id="fn_272"></span>[246:1](mba17.htm#fr_273) *Genesis*, xiv, 13.
+<span id="fn_272"></span>[246:1](mba17.htm#fr_273.md) *Genesis*, xiv, 13.
 
-<span id="fn_273"></span>[246:2](mba17.htm#fr_274) *Ibid*., xxiii.
+<span id="fn_273"></span>[246:2](mba17.htm#fr_274.md) *Ibid*., xxiii.
 
-<span id="fn_274"></span>[246:3](mba17.htm#fr_275) *Ezekiel*, xvi, 3.
+<span id="fn_274"></span>[246:3](mba17.htm#fr_275.md) *Ezekiel*, xvi, 3.
 
-<span id="fn_275"></span>[247:1](mba17.htm#fr_276) *Genesis*, xiv, 1-4.
+<span id="fn_275"></span>[247:1](mba17.htm#fr_276.md) *Genesis*, xiv, 1-4.
 
-<span id="fn_276"></span>[247:2](mba17.htm#fr_277) *Ibid*., 5-24.
+<span id="fn_276"></span>[247:2](mba17.htm#fr_277.md) *Ibid*., 5-24.
 
-<span id="fn_277"></span>[250:1](mba17.htm#fr_278) *Babylonian and
+<span id="fn_277"></span>[250:1](mba17.htm#fr_278.md) *Babylonian and
 Assyrian Laws, Contracts, and Letters*, C. H. W. Johns, pp. 392 *et
 seq*.
 
-<span id="fn_278"></span>[255:1](mba17.htm#fr_279) Translation by Johns
+<span id="fn_278"></span>[255:1](mba17.htm#fr_279.md) Translation by Johns
 in *Babylonian and Assyrian Laws, Contracts, and Letters*, pp. 390 *et
 seq*.
 
-<span id="fn_279"></span>[256:1](mba17.htm#fr_280) *Matthew*, ix, 37.
+<span id="fn_279"></span>[256:1](mba17.htm#fr_280.md) *Matthew*, ix, 37.
 
-<span id="fn_280"></span>[256:2](mba17.htm#fr_281) Johns's *Babylonian
+<span id="fn_280"></span>[256:2](mba17.htm#fr_281.md) Johns's *Babylonian
 and Assyrian Laws*, &c., pp. 371-2.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. Rise of the Hittites, Mitannians, Kassites, Hyksos,
-and Assyrians](mba18)
+and Assyrians](mba18.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt48)  [Next](egt50) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt48)  [Next](egt50.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ may with justice call to thee, "*To whom belongs the kingdom?*"
 
 ------------------------------------------------------------------------
 
-[Next: A STORY.](egt50)
+[Next: A STORY.](egt50.md)

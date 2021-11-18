@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb17)  [Next](mlb19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb17)  [Next](mlb19.md) 
 
 ------------------------------------------------------------------------
 
@@ -662,4 +662,4 @@ magic-black or white.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII: Brer Rabbit in Africa](mlb19)
+[Next: Chapter XVII: Brer Rabbit in Africa](mlb19.md)

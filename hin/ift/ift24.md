@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift23) 
-[Next](ift25) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift23.md) 
+[Next](ift25.md) 
 
 ------------------------------------------------------------------------
 
 # The Prince and the Fakir
 
 <span id="img_66"></span> [![](tn/66.jpg)  
-Click to enlarge](img/66.jpg)
+Click to enlarge](img/66.jpg.md)
 
 <span id="img_65"></span> ![](img/65.jpg)HERE was once upon a time a
 King who had no children. Now this King went and laid him down to rest
@@ -191,4 +191,4 @@ kingdom to you."
 
 ------------------------------------------------------------------------
 
-[Next: Why the Fish Laughed](ift25)
+[Next: Why the Fish Laughed](ift25.md)

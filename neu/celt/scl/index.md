@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,12 +22,12 @@ Legends](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](scl00)  
-[Introduction](scl01)  
-[Preface](scl02)  
-[Part I](scl03)  
-[Part II](scl04)  
-[Part III](scl05)  
-[Part IV](scl06)  
-[Part V](scl07)  
-[Part VI](scl08)  
+[Title Page](scl00.md)  
+[Introduction](scl01.md)  
+[Preface](scl02.md)  
+[Part I](scl03.md)  
+[Part II](scl04.md)  
+[Part III](scl05.md)  
+[Part IV](scl06.md)  
+[Part V](scl07.md)  
+[Part VI](scl08.md)  

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som52) 
-[Next](som54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som52.md) 
+[Next](som54.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -233,4 +233,4 @@ I speak the Word of freedom to all, and all shall receive it.
 
 ------------------------------------------------------------------------
 
-[Next: Harmony of Life](som54)
+[Next: Harmony of Life](som54.md)

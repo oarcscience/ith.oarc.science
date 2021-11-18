@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut31)  [Next](hut33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut31)  [Next](hut33.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXVIII.
 
-### Formula of the Rain-rock Medicine. <span id="fr_70"></span>[1](#fn_70)
+### Formula of the Rain-rock Medicine. <span id="fr_70"></span>[1](#fn_70.md)
 
 <span id="page_273">p. 273</span>
 
@@ -68,11 +68,11 @@ will melt. It will settle down. I brought it down."
 
 ### Footnotes
 
-<span id="fn_70"></span>[270:1](hut32.htm#fr_70) Told at Hupa, December
+<span id="fn_70"></span>[270:1](hut32.htm#fr_70.md) Told at Hupa, December
 1901, by Emma Lewis, whose father belonged to the southern division of
 the Hupa.
 
 ------------------------------------------------------------------------
 
 [Next: XXX. Formula of Medicine for Pregnant Women (Deer's
-Medicine.)](hut33)
+Medicine.)](hut33.md)

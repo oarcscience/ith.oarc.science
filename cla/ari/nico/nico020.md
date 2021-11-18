@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico019) 
-[Next](nico021) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico019.md) 
+[Next](nico021.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ similarly we shall treat also of the rational virtues.
 ------------------------------------------------------------------------
 
 [Next: Chapter 8. The extremes are opposed to each other and the
-mean](nico021)
+mean](nico021.md)

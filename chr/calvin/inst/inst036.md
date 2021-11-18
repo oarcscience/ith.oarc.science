@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst035)  [Next](inst037) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst035)  [Next](inst037.md) 
 
 ------------------------------------------------------------------------
 
@@ -182,7 +182,7 @@ treats the whole subject as if he had no concern in it. On the other
 hand, man cannot arrogate any thing, however minute, to himself, without
 robbing God of his honour, and through rash confidence subjecting
 himself to a fall. To keep free of both these rocks,15  <span
-id="fr_144"></span>[145](#fn_144) our proper course will be, first, to
+id="fr_144"></span>[145](#fn_144.md) our proper course will be, first, to
 show that man has no remaining good in himself, and is beset on every
 side by the most miserable destitution; and then teach him to aspire to
 the goodness of which he is devoid, and the liberty of which he has been
@@ -220,7 +220,7 @@ virtue is totally overthrown, in order that the power of God in man may
 be exalted, conceive an utter dislike to the whole subject, as if it
 were perilous, not to say superfluous, whereas it is manifestly both
 most necessary and most useful.15  <span
-id="fr_145"></span>[146](#fn_145)
+id="fr_145"></span>[146](#fn_145.md)
 
 <span id="iv.ii.iii-p34"></span>2. Having lately observed, that the
 faculties of the soul are seated in the mind and the heart, let us now
@@ -319,7 +319,7 @@ because they thought that they could not shake off our innate
 sluggishness unless they argued that we sin by ourselves alone. With
 what skill they have thus argued we shall afterwards see. Assuredly we
 shall soon be able to show that the sentiments just quoted are most
-inaccurate.15  <span id="fr_146"></span>[147](#fn_146) Moreover although
+inaccurate.15  <span id="fr_146"></span>[147](#fn_146.md) Moreover although
 the Greek Fathers, above others, and especially Chrysostom, have
 exceeded due bounds in extolling the powers of the human will, yet all
 ancient theologians, with the exception of Augustine, are so confused,
@@ -333,7 +333,7 @@ other, gone more widely astray, until the common dogma came to be, that
 man was corrupted only in the sensual part of his nature, that reason
 remained entire, and will was scarcely impaired. Still the expression
 was often on their lips, that man’s natural gifts were corrupted, and
-his supernatural15  <span id="fr_147"></span>[148](#fn_147) taken away.
+his supernatural15  <span id="fr_147"></span>[148](#fn_147.md) taken away.
 Of the thing implied by these words, however, scarcely one in a hundred
 had any distinct idea. Certainly, were I desirous clearly to express
 what the corruption of nature is, I would not seek for any other
@@ -353,7 +353,7 @@ it will be necessary, first to consider the meaning of the term, and
 afterwards ascertain, by a simple appeal to Scripture, what man’s
 natural power for good or evil is. The thing meant by free will, though
 constantly occurring in all writers, few have defined. Origin,15  <span
-id="fr_148"></span>[149](#fn_148) however, seems to have stated the
+id="fr_148"></span>[149](#fn_148.md) however, seems to have stated the
 common opinion when he said, It is a power of reason to discern between
 good and evil; of will, to choose the one or other. Nor does Augustine
 differ from him when he says, It is a power of reason and will to choose
@@ -383,7 +383,7 @@ under the free will of man only intermediate things—viz. those which
 pertain not to the kingdom of God, while they refer true righteousness
 to the special grace of God and spiritual regeneration. The author of
 the work, “De Vocatione Gentium,” (On the Calling of the Gentiles),15
- <span id="fr_149"></span>[150](#fn_149) wishing to show this, describes
+ <span id="fr_149"></span>[150](#fn_149.md) wishing to show this, describes
 the will as threefold—viz. sensitive, animal, and spiritual. The two
 former, he says, are free to man, but the last is the work of the Holy
 Spirit. What truth there is in this will be considered in its own place.
@@ -470,7 +470,7 @@ fatal confidence.
 weighs with us), they have the term constantly in their mouths; but
 they, at the same time, declare what extent of meaning they attach to
 it. In particular, Augustine hesitates not to call the will *a slave*.15
- <span id="fr_150"></span>[151](#fn_150) In another passages he is
+ <span id="fr_150"></span>[151](#fn_150.md) In another passages he is
 offended with those who deny free will; but his chief reason for this is
 explained when he says, “Only lest any one should presume so to deny
 freedom of will, from a desire to excuse sin.” It is certain he
@@ -494,17 +494,17 @@ made free, or on their strength after they are made free, they do not
 consider that, in the very expression *free will*, liberty is implied.
 ‘Where the Spirit of the Lord is, there is liberty,’ (<span
 id="iv.ii.iii-p47.1"></span>[2 Cor.
-3:17](../../../bib/kjv/co2003.htm#017)<span
+3:17](../../../bib/kjv/co2003.htm#017.md)<span
 id="iv.ii.iii-p47.1"></span>). If, therefore, they are the servants of
 sin, why do they boast of free will? He who has been vanquished is the
 servant of him who vanquished him. But if men have been made free, why
 do they boast of it as of their own work? Are they so free that they are
 unwilling to be the servants of Him who has said, ‘Without me ye can do
 nothing’?” (<span id="iv.ii.iii-p47.2"></span>[John
-15:5](../../../bib/kjv/joh015.htm#005)<span
+15:5](../../../bib/kjv/joh015.htm#005.md)<span
 id="iv.ii.iii-p47.2"></span>). In another passage he even seems to
 ridicule the word, when he says,15  <span
-id="fr_151"></span>[152](#fn_151) “That the will is indeed free, but not
+id="fr_151"></span>[152](#fn_151.md) “That the will is indeed free, but not
 freed—free of righteousness, but enslaved to sin.” The same idea he
 elsewhere repeats and explains, when he says, “That man is not free from
 righteousness save by the choice of his will, and is not made free from
@@ -534,11 +534,11 @@ express themselves, they hold human virtue in little or no account, and
 ascribe the whole merit of all that is good to the Holy Spirit. To make
 this more manifest, I may here quote some passages from them. What,
 then, is meant by Cyprian in the passage so often lauded by Augustine,15
- <span id="fr_152"></span>[153](#fn_152) “Let us glory in nothing,
+ <span id="fr_152"></span>[153](#fn_152.md) “Let us glory in nothing,
 because nothing is ours,” unless it be, that man being utterly
 destitute, considered in himself, should entirely depend on God? What is
 meant by Augustine and Eucherius,16  <span
-id="fr_153"></span>[154](#fn_153) when they expound that Christ is the
+id="fr_153"></span>[154](#fn_153.md) when they expound that Christ is the
 tree of life, and that whose puts forth his hand to it shall live; that
 the choice of the will is the tree of the knowledge of good and evil,
 and that he who, forsaking the grace of God, tastes of it shall die?
@@ -558,7 +558,7 @@ exposition of the truth in regard to the nature of man.
 
 <span id="iv.ii.iii-p52"></span>10. Here however, I must again repeat
 what I premised at the outset of this chapter,16  <span
-id="fr_154"></span>[155](#fn_154) that he who is most deeply abased and
+id="fr_154"></span>[155](#fn_154.md) that he who is most deeply abased and
 alarmed, by the consciousness of his disgrace, nakedness, want, and
 misery, has made the greatest progress in the knowledge of himself. Man
 is in no danger of taking too much from himself, provided he learns that
@@ -570,36 +570,36 @@ seized with a longing to possess a somewhat of our own, which may reside
 in us rather than in God, we may rest assured that the thought is
 suggested by no other counsellor than he who enticed our first parents
 to aspire to be like gods, knowing good and evil.16  <span
-id="fr_155"></span>[156](#fn_155) It is sweet, indeed, to have so much
+id="fr_155"></span>[156](#fn_155.md) It is sweet, indeed, to have so much
 virtue of our own as to be able to rest in ourselves; but let the many
 solemn passages by which our pride is sternly humbled, deter us from
 indulging this vain confidence: “Cursed be the man that trusteth in man,
 and maketh flesh his arm.” (<span id="iv.ii.iii-p54.1"></span>[Jer.
-17:5](../../../bib/kjv/jer017.htm#005)<span
+17:5](../../../bib/kjv/jer017.htm#005.md)<span
 id="iv.ii.iii-p54.1"></span>). “He delighteth not in the strength of the
 horse; he taketh not pleasure in the legs of a man. The Lord taketh
 pleasure in those that fear him, in those that hope in his mercy,”
 (<span id="iv.ii.iii-p54.2"></span>[Ps.
-147:10](../../../bib/kjv/psa147.htm#010),
-[11](../../../bib/kjv/psa147.htm#011)<span
+147:10](../../../bib/kjv/psa147.htm#010.md),
+[11](../../../bib/kjv/psa147.htm#011.md)<span
 id="iv.ii.iii-p54.2"></span>). “He giveth power to the faint; and to
 them that have no might he increaseth strength. Even the youths shall
 faint and be weary, and the young men shall utterly fall: But they that
 wait upon the Lord shall renew their strength,” (<span
 id="iv.ii.iii-p54.3"></span>[Is.
-40:29-31](../../../bib/kjv/isa040.htm#029)<span
+40:29-31](../../../bib/kjv/isa040.htm#029.md)<span
 id="iv.ii.iii-p54.3"></span>). The scope of all these passages is that
 we must not entertain any opinion whatever of our own strength, if we
 would enjoy the favour of God, who “resisteth the proud, but giveth
 grace unto the humble,” (<span id="iv.ii.iii-p54.4"></span>[James
-4:6](../../../bib/kjv/jam004.htm#006)<span
+4:6](../../../bib/kjv/jam004.htm#006.md)<span
 id="iv.ii.iii-p54.4"></span>). Then let us call to mind such promises as
 these, “I will pour water upon him that is thirsty, and floods upon the
 dry ground,” (<span id="iv.ii.iii-p54.5"></span>[Is.
-44:3](../../../bib/kjv/isa044.htm#003)<span
+44:3](../../../bib/kjv/isa044.htm#003.md)<span
 id="iv.ii.iii-p54.5"></span>); “Ho, every one that thirsteth, come ye to
 the waters,” (<span id="iv.ii.iii-p54.6"></span>[Is.
-55:1](../../../bib/kjv/isa055.htm#001)<span
+55:1](../../../bib/kjv/isa055.htm#001.md)<span
 id="iv.ii.iii-p54.6"></span>). These passages declare, that none are
 admitted to enjoy the blessings of God save those who are pining under a
 sense of their own poverty. Nor ought such passages as the following to
@@ -607,7 +607,7 @@ be omitted: “The sun shall no more be thy light by day; neither for
 brightness shall the moon give light unto thee: but the Lord shall be
 unto thee an everlasting light, and thy God thy glory,” (<span
 id="iv.ii.iii-p54.7"></span>[Is.
-60:19](../../../bib/kjv/isa060.htm#019)<span
+60:19](../../../bib/kjv/isa060.htm#019.md)<span
 id="iv.ii.iii-p54.7"></span>). The Lord certainly does not deprive his
 servants of the light of the sun or moon, but as he would alone appear
 glorious in them, he dissuades them from confidence even in those
@@ -615,16 +615,16 @@ objects which they deem most excellent.
 
 <span id="iv.ii.iii-p55"></span>11. I have always been exceedingly
 delighted with the words of Chrysostom, “The foundation of our
-philosophy is humility;”16  <span id="fr_156"></span>[157](#fn_156) and
+philosophy is humility;”16  <span id="fr_156"></span>[157](#fn_156.md) and
 still more with those of Augustine, “As the orator,16  <span
-id="fr_157"></span>[158](#fn_157) when asked, What is the first precept
+id="fr_157"></span>[158](#fn_157.md) when asked, What is the first precept
 in eloquence? answered, Delivery: What is the second? Delivery: What the
 third? Delivery: so, if you ask me in regard to the precepts of the
 Christian Religion, I will answer, first, second, and third, Humility.”
 By humility he means not when a man, with a consciousness of some
 virtue, refrains from pride, but when he truly feels that he has no
 refuge but in humility. This is clear from another passage,16  <span
-id="fr_158"></span>[159](#fn_158) “Let no man,” says he, “flatter
+id="fr_158"></span>[159](#fn_158.md) “Let no man,” says he, “flatter
 himself: of himself he is a devil: his happiness he owes entirely to
 God. What have you of your own but sin? Take your sin which is your own;
 for righteousness is of God.” Again, “Why presume so much on the
@@ -675,7 +675,7 @@ and by which he understands and judges, is a natural gift, it could not
 be entirely destroyed; but being partly weakened and partly corrupted, a
 shapeless ruin is all that remains. In this sense it is said (<span
 id="iv.ii.iii-p59.1"></span>[John
-1:5](../../../bib/kjv/joh001.htm#005)<span
+1:5](../../../bib/kjv/joh001.htm#005.md)<span
 id="iv.ii.iii-p59.1"></span>), that “the light shineth in darkness, and
 the darkness comprehended it not;” these words clearly expressing both
 points—viz. that in the perverted and degenerate nature of man there are
@@ -773,7 +773,7 @@ intelligence in some particular art. And this capacity extends not
 merely to the learning of the art, but to the devising of something new,
 or the improving of what had been previously learned. This led Plato to
 adopt the erroneous idea, that such knowledge was nothing but
-recollection.16  <span id="fr_159"></span>[160](#fn_159) So cogently
+recollection.16  <span id="fr_159"></span>[160](#fn_159.md) So cogently
 does it oblige us to acknowledge that its principle is naturally
 implanted in the human mind. But while these proofs openly attest the
 fact of a universal reason and intelligence naturally implanted, this
@@ -823,7 +823,7 @@ whom he will for the common benefit of mankind. For if the skill and
 knowledge required for the construction of the Tabernacle behaved to be
 imparted to Bezaleel and Aholiab, by the Spirit of God (<span
 id="iv.ii.iii-p65.1"></span>[Exod.
-31:2](../../../bib/kjv/exo031.htm#002)<span
+31:2](../../../bib/kjv/exo031.htm#002.md)<span
 id="iv.ii.iii-p65.1"></span>; 35:30), it is not strange that the
 knowledge of those things which are of the highest excellence in human
 life is said to be communicated to us by the Spirit. Nor is there any
@@ -871,22 +871,22 @@ individual is brought under particular influences according to his
 calling. Many examples of this occur in the Book of Judges, in which the
 Spirit of the Lord is said to have come upon those whom he called to
 govern his people (<span id="iv.ii.iii-p66.1"></span>[Judges
-6:34](../../../bib/kjv/jdg006.htm#034)<span
+6:34](../../../bib/kjv/jdg006.htm#034.md)<span
 id="iv.ii.iii-p66.1"></span>). In short, in every distinguished act
 there is a special inspiration. Thus it is said of Saul, that “there
 went with him a band of men whose hearts the Lord had touched,” (<span
 id="iv.ii.iii-p66.2"></span>[1 Sam.
-10:26](../../../bib/kjv/sa1010.htm#026)<span
+10:26](../../../bib/kjv/sa1010.htm#026.md)<span
 id="iv.ii.iii-p66.2"></span>). And when his inauguration to the kingdom
 is foretold, Samuel thus addresses him, “The Spirit of the Lord will
 come upon thee, and thou shalt prophesy with them, and shalt be turned
 into another man,” (<span id="iv.ii.iii-p66.3"></span>[1 Sam.
-10:6](../../../bib/kjv/sa1010.htm#006)<span
+10:6](../../../bib/kjv/sa1010.htm#006.md)<span
 id="iv.ii.iii-p66.3"></span>). This extends to the whole course of
 government, as it is afterwards said of David, “The Spirit of the Lord
 came upon David from that day forward,” (<span
 id="iv.ii.iii-p66.4"></span>[1 Sam.
-16:13](../../../bib/kjv/sa1016.htm#013)<span
+16:13](../../../bib/kjv/sa1016.htm#013.md)<span
 id="iv.ii.iii-p66.4"></span>). The same thing is elsewhere said with
 reference to particular movements. Nay, even in Homer, men are said to
 excel in genius, not only according as Jupiter has distributed to each,
@@ -897,7 +897,7 @@ control of God, who rules them every moment. Hence it is said, that “He
 poureth contempt upon princes, and causeth them to wander in the
 wilderness where there is no way,” (<span
 id="iv.ii.iii-p66.5"></span>[Ps.
-107:40](../../../bib/kjv/psa107.htm#040)<span
+107:40](../../../bib/kjv/psa107.htm#040.md)<span
 id="iv.ii.iii-p66.5"></span>). Still, in this diversity we can trace
 some remains of the divine image distinguishing the whole human race
 from other creatures.
@@ -938,8 +938,8 @@ Most admirable to this effect is the passage which I lately quoted from
 John, when he says, “In him was life; and the life was the light of men.
 And the light shineth in darkness; and the darkness comprehended it
 not,” (<span id="iv.ii.iii-p68.1"></span>[John
-1:4](../../../bib/kjv/joh001.htm#004),
-[5](../../../bib/kjv/joh001.htm#005)<span id="iv.ii.iii-p68.1"></span>).
+1:4](../../../bib/kjv/joh001.htm#004.md),
+[5](../../../bib/kjv/joh001.htm#005)<span id="iv.ii.iii-p68.1"></span>.md).
 He intimates that the human soul is indeed irradiated with a beam of
 divine light, so that it is never left utterly devoid of some small
 flame, or rather spark, though not such as to enable it to comprehend
@@ -949,13 +949,13 @@ of God, mere blindness. When the Spirit describes men under the term
 intelligence. For this reason, it is said that believers, in embracing
 Christ, are “born, not of blood, nor of the will of the flesh, nor of
 the will of man, but of God,” (<span id="iv.ii.iii-p68.2"></span>[John
-1:13](../../../bib/kjv/joh001.htm#013)<span
+1:13](../../../bib/kjv/joh001.htm#013.md)<span
 id="iv.ii.iii-p68.2"></span>); in other words, that the flesh has no
 capacity for such sublime wisdom as to apprehend God, and the things of
 God, unless illumined by His Spirit. In like manner our Saviour, when he
 was acknowledged by Peter, declared that it was by special revelation
 from the Father (<span id="iv.ii.iii-p68.3"></span>[Mt.
-16:17](../../../bib/kjv/mat016.htm#017)<span
+16:17](../../../bib/kjv/mat016.htm#017.md)<span
 id="iv.ii.iii-p68.3"></span>).
 
 <span id="iv.ii.iii-p69"></span>20. If we were persuaded of a truth
@@ -965,15 +965,15 @@ the Spirit of regeneration, there would be no room here for hesitation.
 For thus speaks the congregation of the faithful, by the mouth of the
 prophet: “With thee is the fountain of life: in thy light shall we see
 light,” (<span id="iv.ii.iii-p69.1"></span>[Ps.
-36:9](../../../bib/kjv/psa036.htm#009)<span
+36:9](../../../bib/kjv/psa036.htm#009.md)<span
 id="iv.ii.iii-p69.1"></span>). To the same effect is the testimony of
 the Apostle Paul, when he declares, that “no man can say that Jesus is
 the Lord, but by the Holy Ghost,” (<span id="iv.ii.iii-p69.2"></span>[1
-Cor. 12:3](../../../bib/kjv/co1012.htm#003)<span
+Cor. 12:3](../../../bib/kjv/co1012.htm#003.md)<span
 id="iv.ii.iii-p69.2"></span>). And John Baptist, on seeing the dullness
 of his disciples, exclaims, “A man can receive nothing, unless it be
 given him from heaven,” (<span id="iv.ii.iii-p69.3"></span>[John
-3:27](../../../bib/kjv/joh003.htm#027)<span
+3:27](../../../bib/kjv/joh003.htm#027.md)<span
 id="iv.ii.iii-p69.3"></span>). That the gift to which he here refers
 must be understood not of ordinary natural gifts, but of special
 illumination, appears from this—that he was complaining how little his
@@ -989,21 +989,21 @@ the great temptations which thine eyes have seen, the signs, and these
 great miracles: yet the Lord has not given you an heart to perceive, and
 eyes to see, and ears to hear, unto this, day,” (<span
 id="iv.ii.iii-p69.4"></span>[Deut.
-29:2](../../../bib/kjv/deu029.htm#002),
-[3](../../../bib/kjv/deu029.htm#003),
-[4](../../../bib/kjv/deu029.htm#004)<span id="iv.ii.iii-p69.4"></span>).
+29:2](../../../bib/kjv/deu029.htm#002.md),
+[3](../../../bib/kjv/deu029.htm#003.md),
+[4](../../../bib/kjv/deu029.htm#004)<span id="iv.ii.iii-p69.4"></span>.md).
 Would the expression have been stronger had he called us mere blocks in
 regard to the contemplation of divine things? Hence the Lord, by the
 mouth of the Prophet, promises to the Israelites as a singular favour,
 “I will give them an heart to know me,” (<span
 id="iv.ii.iii-p69.5"></span>[Jer.
-24:7](../../../bib/kjv/jer024.htm#007)<span
+24:7](../../../bib/kjv/jer024.htm#007.md)<span
 id="iv.ii.iii-p69.5"></span>); intimating, that in spiritual things the
 human mind is wise only in so far as he enlightens it. This was also
 clearly confirmed by our Saviour when he said, “No man can come to me,
 except the Father which has sent me draw him,” (<span
 id="iv.ii.iii-p69.6"></span>[John
-6:44](../../../bib/kjv/joh006.htm#044)<span
+6:44](../../../bib/kjv/joh006.htm#044.md)<span
 id="iv.ii.iii-p69.6"></span>). Nay, is not he himself the living image
 of his Father, in which the full brightness of his glory is manifested
 to us? Therefore, how far our faculty of knowing God extends could not
@@ -1020,7 +1020,7 @@ understand. Lest this should seem new, our Saviour refers to the
 prophecy of Isaiah, which contains a promise of the renovation of the
 Church. “For a small moment have I forsaken thee; but with great mercies
 will I gather thee,” (<span id="iv.ii.iii-p69.7"></span>[Is.
-54:7](../../../bib/kjv/isa054.htm#007)<span
+54:7](../../../bib/kjv/isa054.htm#007.md)<span
 id="iv.ii.iii-p69.7"></span>). If the Lord here predicts some special
 blessing to his elect, it is plain that the teaching to which he refers
 is not that which is common to them with the ungodly and profane.
@@ -1034,7 +1034,7 @@ declaring man’s utter destitution, thus concludes, “The natural man
 receiveth not the things of the Spirit of God: for they are foolishness
 unto him: neither can he know them, for they are spiritually discerned,”
 (<span id="iv.ii.iii-p70.1"></span>[1 Cor.
-2:14](../../../bib/kjv/co1002.htm#014)<span
+2:14](../../../bib/kjv/co1002.htm#014.md)<span
 id="iv.ii.iii-p70.1"></span>). Whom does he mean by the “natural man”?
 The man who trusts to the light of nature. Such a man has no
 understanding in the spiritual mysteries of God. Why so? Is it because
@@ -1048,11 +1048,11 @@ into the heart of man, the things which God has prepared for them that
 love him;” nay, that the wisdom of the world is a kind of veil by which
 the mind is prevented from beholding God (<span
 id="iv.ii.iii-p70.2"></span>[1 Cor.
-2:9](../../../bib/kjv/co1002.htm#009)<span
+2:9](../../../bib/kjv/co1002.htm#009.md)<span
 id="iv.ii.iii-p70.2"></span>). What would we more? The Apostle declares
 that God has “made foolish the wisdom of this world,” (<span
 id="iv.ii.iii-p70.3"></span>[1 Cor.
-1:20](../../../bib/kjv/co1001.htm#020)<span
+1:20](../../../bib/kjv/co1001.htm#020.md)<span
 id="iv.ii.iii-p70.3"></span>); and shall we attribute to it an acuteness
 capable of penetrating to God, and the hidden mysteries of his kingdom?
 Far from us be such presumption!
@@ -1062,14 +1062,14 @@ he, in another place, ascribes to God alone, when he prays, “that the
 God of our Lord Jesus Christ, the Father of glory, may give unto you the
 spirit of wisdom and revelation,” (<span
 id="iv.ii.iii-p71.1"></span>[Eph.
-1:17](../../../bib/kjv/eph001.htm#017)<span
+1:17](../../../bib/kjv/eph001.htm#017.md)<span
 id="iv.ii.iii-p71.1"></span>). You now hear that all wisdom and
 revelation is the gift of God. What follows? “The eyes of your
 understanding being enlightened.” Surely, if they require a new
 enlightening, they must in themselves be blind. The next words are,
 “that ye may know what is the hope of his calling,” (<span
 id="iv.ii.iii-p71.2"></span>[Eph.
-1:18](../../../bib/kjv/eph001.htm#018)<span
+1:18](../../../bib/kjv/eph001.htm#018.md)<span
 id="iv.ii.iii-p71.2"></span>). In other words, the minds of men have not
 capacity enough to know their calling. Let no prating Pelagian here
 allege that God obviates this rudeness or stupidity, when, by the
@@ -1078,20 +1078,20 @@ found without a guide. David had the law, comprehending in it all the
 wisdom that could be desired, and yet not contented with this, he prays,
 “Open thou mine eyes, that I may behold wondrous things out of thy law,”
 (<span id="iv.ii.iii-p71.3"></span>[Ps.
-119:18](../../../bib/kjv/psa119.htm#018)<span
+119:18](../../../bib/kjv/psa119.htm#018.md)<span
 id="iv.ii.iii-p71.3"></span>). By this expression, he certainly
 intimates, that it is like sunrise to the earth when the word of God
 shines forth; but that men do not derive much benefit from it until he
 himself, who is for this reason called the Father of lights (<span
 id="iv.ii.iii-p71.4"></span>[James
-1:17](../../../bib/kjv/jam001.htm#017)<span
+1:17](../../../bib/kjv/jam001.htm#017.md)<span
 id="iv.ii.iii-p71.4"></span>), either gives eyes or opens them; because,
 whatever is not illuminated by his Spirit is wholly darkness. The
 Apostles had been duly and amply instructed by the best of teachers.
 Still, as they wanted the Spirit of truth to complete their education in
 the very doctrine which they had previously heard, they were ordered to
 wait for him (<span id="iv.ii.iii-p71.5"></span>[John
-14:26](../../../bib/kjv/joh014.htm#026)<span
+14:26](../../../bib/kjv/joh014.htm#026.md)<span
 id="iv.ii.iii-p71.5"></span>). If we confess that what we ask of God is
 lacking to us, and He by the very thing promised intimates our want, no
 man can hesitate to acknowledge that he is able to understand the
@@ -1110,8 +1110,8 @@ themselves: which show the work of the law written in their hearts,
 their conscience also bearing witness, and their thoughts the meantime
 accusing or else excusing one another” (<span
 id="iv.ii.iii-p72.1"></span>[Rom.
-2:14](../../../bib/kjv/rom002.htm#014),
-[15](../../../bib/kjv/rom002.htm#015)<span
+2:14](../../../bib/kjv/rom002.htm#014.md),
+[15](../../../bib/kjv/rom002.htm#015.md)<span
 id="iv.ii.iii-p72.1"></span>). If the Gentiles have the righteousness of
 the law naturally engraven on their minds, we certainly cannot say that
 they are altogether blind as to the rule of life. Nothing, indeed is
@@ -1193,7 +1193,7 @@ spiritual worship, though they immediately pervert it by false devices:
 for it is impossible to persuade them that every thing which the law
 enjoins on the subject is true. Shall I then extol the discernment of a
 mind which can neither acquire wisdom by itself, nor listen to advice?16
- <span id="fr_160"></span>[161](#fn_160) As to the precepts of the
+ <span id="fr_160"></span>[161](#fn_160.md) As to the precepts of the
 Second Table, there is considerably more knowledge of them, inasmuch as
 they are more closely connected with the preservation of civil society.
 Even here, however, there is something defective. Every man of
@@ -1224,7 +1224,7 @@ direction. Of how little value it is in the sight of God, in regard to
 all the parts of life, Paul shows, when he says, that we are not
 “sufficient of ourselves to think any thing as of ourselves,” (<span
 id="iv.ii.iii-p76.1"></span>[2 Cor.
-3:5](../../../bib/kjv/co2003.htm#005)<span
+3:5](../../../bib/kjv/co2003.htm#005.md)<span
 id="iv.ii.iii-p76.1"></span>). He is not speaking of the will or
 affection; he denies us the power of thinking aright how any thing cam
 be duly performed. Is it, indeed, true, that all thought, intelligence,
@@ -1234,11 +1234,11 @@ scarcely bear to part with acuteness of intellect (in our estimation a
 most precious endowment), it seems hard to admit this, whereas it is
 regarded as most just by the Holy Spirit, who “knoweth the thoughts of
 man, that they are vanity,” (<span id="iv.ii.iii-p76.2"></span>[Ps.
-94:11](../../../bib/kjv/psa094.htm#011)<span
+94:11](../../../bib/kjv/psa094.htm#011.md)<span
 id="iv.ii.iii-p76.2"></span>), and distinctly declares, that “every
 imagination of the thoughts of his heart was only evil continually,”
 (<span id="iv.ii.iii-p76.3"></span>[Gen.
-6:5](../../../bib/kjv/gen006.htm#005)<span id="iv.ii.iii-p76.3"></span>;
+6:5](../../../bib/kjv/gen006.htm#005.md)<span id="iv.ii.iii-p76.3"></span>;
 8:21). If every thing which our mind conceives, meditates plans, and
 resolves, is always evil, how can it ever think of doing what is
 pleasing to God, to whom righteousness and holiness alone are
@@ -1246,7 +1246,7 @@ acceptable? It is thus plain, that our mind, in what direction soever it
 turns, is miserably exposed to vanity. David was conscious of its
 weakness when he prayed, “Give me understanding, and I shall keep thy
 law,” (<span id="iv.ii.iii-p76.4"></span>[Ps.
-119:34](../../../bib/kjv/psa119.htm#034)<span
+119:34](../../../bib/kjv/psa119.htm#034.md)<span
 id="iv.ii.iii-p76.4"></span>). By desiring to obtain a new
 understanding, he intimates that his own was by no means sufficient.
 This he does not once only, but in one psalm repeats the same prayer
@@ -1257,8 +1257,8 @@ since the day we heard it, do not cease to pray for you, and to desire
 that ye might be filled with the knowledge of his will, in all wisdom
 and spiritual understanding; that you might walk worthy of the Lord,”
 &c. (<span id="iv.ii.iii-p76.5"></span>[Col.
-1:9](../../../bib/kjv/col001.htm#009),
-[10](../../../bib/kjv/col001.htm#010)<span
+1:9](../../../bib/kjv/col001.htm#009.md),
+[10](../../../bib/kjv/col001.htm#010.md)<span
 id="iv.ii.iii-p76.5"></span>). Whenever he represents this as a blessing
 from God, we should remember that he at the same time testifies that it
 is not in the power of man. Accordingly, Augustine, in speaking of this
@@ -1274,15 +1274,15 @@ refers to continual progress and increase. David, too, expresses this
 distinctly in these words: “With my whole heart have I sought thee: O
 let me not wander from thy commandments,” (<span
 id="iv.ii.iii-p76.6"></span>[Ps.
-119:10](../../../bib/kjv/psa119.htm#010)<span
+119:10](../../../bib/kjv/psa119.htm#010.md)<span
 id="iv.ii.iii-p76.6"></span>). Though he had been regenerated, and so
 had made no ordinary progress in true piety, he confesses that he stood
 in need of direction every moment, in order that he might not decline
 from the knowledge with which he had been endued. Hence, he elsewhere
 prays for a renewal of a right spirit, which he had lost by his sin,16
- <span id="fr_161"></span>[162](#fn_161) (<span
+ <span id="fr_161"></span>[162](#fn_161.md) (<span
 id="iv.ii.iii-p77.1"></span>[Ps.
-51:12](../../../bib/kjv/psa051.htm#012)<span
+51:12](../../../bib/kjv/psa051.htm#012.md)<span
 id="iv.ii.iii-p77.1"></span>). For that which God gave at first, while
 temporarily withdrawn, it is equally his province to restore.
 
@@ -1337,8 +1337,8 @@ apostle:—“For that which I do I allow not: for what I would, that do I
 not; but what I hate, that do I.” “To will is present with me; but how
 to perform that which is good I find not,” (<span
 id="iv.ii.iii-p79.1"></span>[Rom.
-7:15](../../../bib/kjv/rom007.htm#015),
-[18](../../../bib/kjv/rom007.htm#018)<span
+7:15](../../../bib/kjv/rom007.htm#015.md),
+[18](../../../bib/kjv/rom007.htm#018.md)<span
 id="iv.ii.iii-p79.1"></span>). But, in this way, the whole scope of
 Paul’s discourse is inverted. He is speaking of the Christian struggle
 (touched on more briefly in the Epistle to the Galatians), which
@@ -1357,8 +1357,8 @@ tend towards what is good. The whole is made plain by the conclusion, “I
 delight in the law of God after the inward man: but I see another law in
 my members, warring against the law of my mind,” (<span
 id="iv.ii.iii-p79.2"></span>[Rom.
-7:22](../../../bib/kjv/rom007.htm#022),
-[23](../../../bib/kjv/rom007.htm#023)<span
+7:22](../../../bib/kjv/rom007.htm#022.md),
+[23](../../../bib/kjv/rom007.htm#023.md)<span
 id="iv.ii.iii-p79.2"></span>). Who has this struggle in himself, save
 those who, regenerated by the Spirit of God, bear about with them the
 remains of the flesh? Accordingly, Augustine, who had at one time
@@ -1368,17 +1368,17 @@ and inconsistent. And, indeed if we admit that men, without grace, have
 any motions to good, however feeble, what answer shall we give to the
 apostles who declares that “we are incapable of thinking a good
 thought?” (<span id="iv.ii.iii-p79.3"></span>[2 Cor.
-3:6](../../../bib/kjv/co2003.htm#006)<span
+3:6](../../../bib/kjv/co2003.htm#006.md)<span
 id="iv.ii.iii-p79.3"></span>). What answer shall we give to the Lord,
 who declares, by Moses, that “every imagination of man’s heart is only
 evil continually?” (<span id="iv.ii.iii-p79.4"></span>[Gen.
-8:21](../../../bib/kjv/gen008.htm#021)<span
+8:21](../../../bib/kjv/gen008.htm#021.md)<span
 id="iv.ii.iii-p79.4"></span>). Since the blunder has thus arisen from an
 erroneous view of a single passage, it seems unnecessary to dwell upon
 it. Let us rather give due weight to our Saviour’s words, “Whosoever
 committeth sin is the servant of sin,” (<span
 id="iv.ii.iii-p79.5"></span>[John
-8:34](../../../bib/kjv/joh008.htm#034)<span
+8:34](../../../bib/kjv/joh008.htm#034.md)<span
 id="iv.ii.iii-p79.5"></span>). We are all sinners by nature, therefore
 we are held under the yoke of sin. But if the whole man is subject to
 the dominion of sin, surely the will, which is its principal seat, must
@@ -1386,13 +1386,13 @@ be bound with the closest chains. And, indeed, if divine grace were
 preceded by any will of ours, Paul could not have said that “it is God
 which worketh in us both to will and to do” (<span
 id="iv.ii.iii-p79.6"></span>[Phil.
-2:13](../../../bib/kjv/phi002.htm#013)<span
+2:13](../../../bib/kjv/phi002.htm#013.md)<span
 id="iv.ii.iii-p79.6"></span>). Away, then, with all the absurd trifling
 which many have indulged in with regard to preparation. Although
 believers sometimes ask to have their heart trained to the obedience of
 the divine law, as David does in several passages (<span
 id="iv.ii.iii-p79.7"></span>[Ps.
-51:12](../../../bib/kjv/psa051.htm#012)<span
+51:12](../../../bib/kjv/psa051.htm#012.md)<span
 id="iv.ii.iii-p79.7"></span>), it is to be observed, that even this
 longing in prayer is from God. This is apparent from the language used.
 When he prays, “Create in me a clean heart,” he certainly does not
@@ -1407,7 +1407,7 @@ Shortly after he says “Of our own we have nothing but sin.”
 
 ### Footnotes
 
-<span id="fn_144"></span>[145](inst036.htm#fr_144) <span
+<span id="fn_144"></span>[145](inst036.htm#fr_144.md) <span
 id="iv.ii.iii-p31.1"></span>
 
 <span id="iv.ii.iii-p32"></span>51 151 See Calvin Adv. Theolog.
@@ -1415,7 +1415,7 @@ Parisienses, Art. 2. These two rocks are adverted to by Augustine, <span
 id="iv.ii.iii-p32.1"></span>Ep. 47<span id="iv.ii.iii-p32.1"></span>, et
 in Joannem, cap. 12.
 
-<span id="fn_145"></span>[146](inst036.htm#fr_145) <span
+<span id="fn_145"></span>[146](inst036.htm#fr_145.md) <span
 id="iv.ii.iii-p32.2"></span>
 
 <span id="iv.ii.iii-p33"></span>52 152 The French is, “Laquelle
@@ -1423,20 +1423,20 @@ toutefois nous cognoistrons etre très-utile et qui plue est, etre un des
 fondemens de la religion;”—which, however, we shall know to be very
 useful, and what is more, to be one of the fundamentals of religion.
 
-<span id="fn_146"></span>[147](inst036.htm#fr_146) <span
+<span id="fn_146"></span>[147](inst036.htm#fr_146.md) <span
 id="iv.ii.iii-p37.1"></span>
 
 <span id="iv.ii.iii-p38"></span>53 153 The French adds, “pour en dire
 franchement ce qu en est;”—to speak of them frankly as they deserve.
 
-<span id="fn_147"></span>[148](inst036.htm#fr_147) <span
+<span id="fn_147"></span>[148](inst036.htm#fr_147.md) <span
 id="iv.ii.iii-p38.1"></span>
 
 <span id="iv.ii.iii-p39"></span>54 154 The French adds the explanation,
 “Assavoir ceux qui concernoyent la vie celeste;”that is to say, those
 which concern the heavenly life.
 
-<span id="fn_148"></span>[149](inst036.htm#fr_148) <span
+<span id="fn_148"></span>[149](inst036.htm#fr_148.md) <span
 id="iv.ii.iii-p40.1"></span>
 
 <span id="iv.ii.iii-p41"></span>55 155 Orig. De Principiis, Lib. 3. It
@@ -1444,13 +1444,13 @@ is given by Lombard, Lib. 2 Dist 24 Bernard. de Grat. et Liber Arbit
 Anselm, Dialog. de Liber. Arbit. cap. 12, 13 Lombard, Lib. 2 Dist. 24
 sec. 5.
 
-<span id="fn_149"></span>[150](inst036.htm#fr_149) <span
+<span id="fn_149"></span>[150](inst036.htm#fr_149.md) <span
 id="iv.ii.iii-p42.1"></span>
 
 <span id="iv.ii.iii-p43"></span>56 156 The French adds (“qu’en attribue
 ˆ St Ambroise”);—which is attributed St. Ambrose.
 
-<span id="fn_150"></span>[151](inst036.htm#fr_150) <span
+<span id="fn_150"></span>[151](inst036.htm#fr_150.md) <span
 id="iv.ii.iii-p46.1"></span>
 
 <span id="iv.ii.iii-p47"></span>57 157 August. Lib. 1 cont. Julian. For
@@ -1459,33 +1459,33 @@ the subsequent quotations, see Homil. 53, in Joannem; Ad Anast. Epist.
 8; Ibid. c. 7; Idem ad Bonifac. Lib 1 c. 3; Ibid. Lib. 3 cap. 7; Idem.
 Lib. de Verbis Apost. Serm. 3; Lib. de Spiritu et Litera. cap. 30.
 
-<span id="fn_151"></span>[152](inst036.htm#fr_151) <span
+<span id="fn_151"></span>[152](inst036.htm#fr_151.md) <span
 id="iv.ii.iii-p47.3"></span>
 
 <span id="iv.ii.iii-p48"></span>58 158 See August. de Corrept. et Grat.
 cap. 13. Adv. Lib. Arbit. See also August. Epist. 107. Also the first
 and last parts of Bernard’s Treatise De Gratia et Libero Arbitrio.
 
-<span id="fn_152"></span>[153](inst036.htm#fr_152) <span
+<span id="fn_152"></span>[153](inst036.htm#fr_152.md) <span
 id="iv.ii.iii-p49.1"></span>
 
 <span id="iv.ii.iii-p50"></span>59 159 August. de Prædest. Sanct. Idem
 ad Bonifacum, Lib. 4 et alibi. Eucher. Lib in Genesin. Chrysost. Homil.
 in Adventu.
 
-<span id="fn_153"></span>[154](inst036.htm#fr_153) <span
+<span id="fn_153"></span>[154](inst036.htm#fr_153.md) <span
 id="iv.ii.iii-p50.1"></span>
 
 <span id="iv.ii.iii-p51"></span>60 160 The French adds, “Ancien evesque
 de Lion;” ancient bishop of Lyons.
 
-<span id="fn_154"></span>[155](inst036.htm#fr_154) <span
+<span id="fn_154"></span>[155](inst036.htm#fr_154.md) <span
 id="iv.ii.iii-p52.1"></span>
 
 <span id="iv.ii.iii-p53"></span>61 161 The French has, “Au commencement
 de ce traité;” at the commencment of this treatise.
 
-<span id="fn_155"></span>[156](inst036.htm#fr_155) <span
+<span id="fn_155"></span>[156](inst036.htm#fr_155.md) <span
 id="iv.ii.iii-p53.1"></span>
 
 <span id="iv.ii.iii-p54"></span>62 162 The French adds, “Si c’est parole
@@ -1494,36 +1494,36 @@ donner lieu, sinon que nous veuillins prendre conseli de nostre
 ennemi;”—if words which exalt man in himself are devilish, we must not
 give place to them unless we would take counsel of our enemy.
 
-<span id="fn_156"></span>[157](inst036.htm#fr_156) <span
+<span id="fn_156"></span>[157](inst036.htm#fr_156.md) <span
 id="iv.ii.iii-p55.1"></span>
 
 <span id="iv.ii.iii-p56"></span>63 163 Chrysost. Homil. de Perf. Evang.
 August. Epist. 56 ad Discur. As to true humility, see infra, chap. 7
 sec. 4, and lib. 3 c 12, sec. 6, 7.
 
-<span id="fn_157"></span>[158](inst036.htm#fr_157) <span
+<span id="fn_157"></span>[158](inst036.htm#fr_157.md) <span
 id="iv.ii.iii-p56.1"></span>
 
 <span id="iv.ii.iii-p57"></span>64 164 The French is, “Demosthene
 orateur Grec;”—the Greek orator Demosthenes.
 
-<span id="fn_158"></span>[159](inst036.htm#fr_158) <span
+<span id="fn_158"></span>[159](inst036.htm#fr_158.md) <span
 id="iv.ii.iii-p57.1"></span>
 
 <span id="iv.ii.iii-p58"></span>65 165 August. Homil. in Joann. 49, lib.
 de Natura et Gratia, cap. 52.; and in <span
 id="iv.ii.iii-p58.1"></span>[Psalms
-45](../../../bib/kjv/psa045.htm#000)<span id="iv.ii.iii-p58.1"></span>.
+45](../../../bib/kjv/psa045.htm#000.md)<span id="iv.ii.iii-p58.1"></span>.
 set 70
 
-<span id="fn_159"></span>[160](inst036.htm#fr_159) <span
+<span id="fn_159"></span>[160](inst036.htm#fr_159.md) <span
 id="iv.ii.iii-p62.1"></span>
 
 <span id="iv.ii.iii-p63"></span>66 166 The French adds, “de ce que l’ame
 savoit avant qu’etre mis dedlans le corps;”—of what the soul knew before
 it was placed within the body.
 
-<span id="fn_160"></span>[161](inst036.htm#fr_160) <span
+<span id="fn_160"></span>[161](inst036.htm#fr_160.md) <span
 id="iv.ii.iii-p74.1"></span>
 
 <span id="iv.ii.iii-p75"></span>67 167 The French adds, “Or
@@ -1531,7 +1531,7 @@ l’entendement humaiu a eté tel en cest endroit. Nous appercevons donques
 qu’il est du tout stupide;” now, the understanding has proved so in this
 matter. We see, therefore, that it is quite stupid.
 
-<span id="fn_161"></span>[162](inst036.htm#fr_161) <span
+<span id="fn_161"></span>[162](inst036.htm#fr_161.md) <span
 id="iv.ii.iii-p76.7"></span>
 
 <span id="iv.ii.iii-p77"></span>68 168 Calvin, in his Commentary on the
@@ -1540,4 +1540,4 @@ passage, says, “Lost in part or appearance, or deserved to lose.”
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 3. - EVERY THING PROCEEDING FROM THE CORRUPT NATURE OF
-MAN DAMNABLE.](inst037)
+MAN DAMNABLE.](inst037.md)

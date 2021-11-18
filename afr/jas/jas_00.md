@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Next](jas_01) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Next](jas_01.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ VOLUME XVII.
 
 ------------------------------------------------------------------------
 
-[Next: Contents.](jas_01)
+[Next: Contents.](jas_01.md)

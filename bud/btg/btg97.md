@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg96)  [Next](btg98) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg96)  [Next](btg98.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ known as Metteyya, which means 'he whose name is kindness.'"
 
 ------------------------------------------------------------------------
 
-[Next: Entering Into Nirvana](btg98)
+[Next: Entering Into Nirvana](btg98.md)

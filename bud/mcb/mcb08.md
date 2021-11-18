@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mcb07)  [Next](mcb09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mcb07)  [Next](mcb09.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ In Christianity crucifixion is needed, corporeality requires a violent
 death, and as soon as this is done, resurrection must take place in one
 form or another, for they go together. As Paul says, "If Christ be not
 risen, then is our preaching vain and your faith is also vain. . . . Ye
-are yet in sins." <span id="fr_119"></span>[1](#fn_119) The crucifixion
+are yet in sins." <span id="fr_119"></span>[1](#fn_119.md) The crucifixion
 in fact has a double sense: one individualistic and the other
 humanistic. In the first sense it symbolizes the destruction of the
 individual ego, while in the second it stands for the doctrine of
@@ -366,8 +366,8 @@ development of a sign of another nature.)
 
 ### Footnotes
 
-<span id="fn_119"></span>[132:1](mcb08.htm#fr_119) I Cor., 15:14-17.
+<span id="fn_119"></span>[132:1](mcb08.htm#fr_119.md) I Cor., 15:14-17.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Kono-mama (''I Am That I Am'')](mcb09)
+[Next: VII. Kono-mama (''I Am That I Am'')](mcb09.md)

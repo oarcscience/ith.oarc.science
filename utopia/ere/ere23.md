@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](ere22)  [Next](ere24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](ere22)  [Next](ere24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ hands, it will be said that what I have written about the relations
 between parents and children being seldom satisfactory is an infamous
 perversion of facts, and that in truth there are few young people who do
 not feel happier in the society of their nearest relations  <span
-id="fr_3"></span>[4](#fn_3) than in any other. Mr. Nosnibor would be
+id="fr_3"></span>[4](#fn_3.md) than in any other. Mr. Nosnibor would be
 sure to say this. Yet I cannot refrain from expressing an opinion that
 he would be a good deal embarrassed if his deceased parents were to
 reappear and propose to pay him a six months' visit. I doubt whether
@@ -250,9 +250,9 @@ Erewhonian mind.
 
 ### Footnotes
 
-<span id="fn_3"></span>[4](ere23.htm#fr_3) What a SAFE word "relation"
+<span id="fn_3"></span>[4](ere23.htm#fr_3.md) What a SAFE word "relation"
 is; how little it predicates! yet it has overgrown "kinsman."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI: The Colleges Of Unreason](ere24)
+[Next: Chapter XXI: The Colleges Of Unreason](ere24.md)

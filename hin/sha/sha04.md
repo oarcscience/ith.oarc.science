@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha03)  [Next](sha05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha03)  [Next](sha05.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ As the deer enticed the hero of our play.
 
 ------------------------------------------------------------------------
 
-[Next: Act I. The Hunt](sha05)
+[Next: Act I. The Hunt](sha05.md)

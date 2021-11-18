@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](lrs12)  [Next](lrs14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](lrs12)  [Next](lrs14.md) 
 
 ------------------------------------------------------------------------
 
@@ -449,7 +449,7 @@ which lies upon this enchanted hill be dissolved.
 
  
 
-Cleomades and Claremond  <span id="fr_53"></span>[\*](#fn_53)
+Cleomades and Claremond  <span id="fr_53"></span>[\*](#fn_53.md)
 
 The wonderful tale of *Cleomades and Claremond* is almost certainly of
 Moorish origin in a secondary sense. In his preface to Adene's' *Berte
@@ -1239,7 +1239,7 @@ of the magic carpet. The latter is merely an adaptation of the idea that
 a magician was able to trans-port himself through the air in a
 non-natural manner, and this ability he seems to have handed on to the
 witches of the Middle Ages, whose broomsticks were merely magical
-substitutes for the 'flying horse.'  <span id="fr_54"></span>[1](#fn_54)
+substitutes for the 'flying horse.'  <span id="fr_54"></span>[1](#fn_54.md)
 But the appearance of the carpet in such a tale makes it probable that
 it drew its inspiration from Persia, the land where carpets were first
 manufactured, as the wizards of more primitive folk adopted other and
@@ -2225,11 +2225,11 @@ later to end in political disaster.
 
 ### Footnotes
 
-<span id="fn_53"></span>[276:\*](lrs13.htm#fr_53) TRANSCRIBER’S NOTE:
+<span id="fn_53"></span>[276:\*](lrs13.htm#fr_53.md) TRANSCRIBER’S NOTE:
 This story bears a striking resemblance to the tale of the Ebony Horse
 in *The Arabian Nights*.
 
-<span id="fn_54"></span>[302:1](lrs13.htm#fr_54) The witch-cult in
+<span id="fn_54"></span>[302:1](lrs13.htm#fr_54.md) The witch-cult in
 Europe seems to me to have a connexion with the horse. Occasionally
 witches proceed to the sabbat on flying horses. One of the tests of a
 witch was to look in her eyes for the reflection of a horse. In Scotland
@@ -2238,4 +2238,4 @@ initiation and strange rites.
 
 ------------------------------------------------------------------------
 
-[Next: XII. Tales of Spanish Magic and Sorcery](lrs14)
+[Next: XII. Tales of Spanish Magic and Sorcery](lrs14.md)

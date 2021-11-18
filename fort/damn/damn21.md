@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](damn20)  [Next](damn22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](damn20)  [Next](damn22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of the Damned*, by Charles Fort, \[1919\], at Intangible
 Textual Heritage
 
@@ -430,4 +430,4 @@ a strong sulphurous odor.
 
 ------------------------------------------------------------------------
 
-[Next: 22](damn22)
+[Next: 22](damn22.md)

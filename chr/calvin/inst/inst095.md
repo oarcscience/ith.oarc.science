@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst094)  [Next](inst096) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst094)  [Next](inst096.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,23 +126,23 @@ insignia of their commander, having not attended to what was the
 principal thing in baptism; and this is, that we are to receive it in
 connection with the promise, “He that believeth and is baptised shall be
 saved” (<span id="iv.iv.xvi-p26.1"></span>[Mark
-16:16](../../../bib/kjv/mar016.htm#016)<span
+16:16](../../../bib/kjv/mar016.htm#016.md)<span
 id="iv.iv.xvi-p26.1"></span>).
 
 <span id="iv.iv.xvi-p27"></span>2. In this sense is to be understood the
 statement of Paul, that “Christ loved the Church, and gave himself for
 it, that he might sanctify and cleanse it with the washing of water by
 the word” (<span id="iv.iv.xvi-p27.1"></span>[Eph.
-5:25](../../../bib/kjv/eph005.htm#025),
-[26](../../../bib/kjv/eph005.htm#026)<span
+5:25](../../../bib/kjv/eph005.htm#025.md),
+[26](../../../bib/kjv/eph005.htm#026.md)<span
 id="iv.iv.xvi-p27.1"></span>); and again, “not by works of righteousness
 which we have done, but according to his mercy he saved us, by the
 washing of regeneration and renewing of the Holy Ghost” (<span
 id="iv.iv.xvi-p27.2"></span>[Titus
-3:5](../../../bib/kjv/tit003.htm#005)<span
+3:5](../../../bib/kjv/tit003.htm#005.md)<span
 id="iv.iv.xvi-p27.2"></span>). Peter also says that “baptism also doth
 now save us” (<span id="iv.iv.xvi-p27.3"></span>[1 Peter
-3:21](../../../bib/kjv/pe1003.htm#021)<span
+3:21](../../../bib/kjv/pe1003.htm#021.md)<span
 id="iv.iv.xvi-p27.3"></span>). For he did not mean to intimate that our
 ablution and salvation are perfected by water, or that water possesses
 in itself the virtue of purifying, regenerating, and renewing; nor does
@@ -188,7 +188,7 @@ they may have wherewith to support and console themselves, and not rush
 headlong into despair. Thus Paul says that Christ was made a
 propitiation for us for the remission of sins that are past (<span
 id="iv.iv.xvi-p28.1"></span>[Rom.
-3:25](../../../bib/kjv/rom003.htm#025)<span
+3:25](../../../bib/kjv/rom003.htm#025.md)<span
 id="iv.iv.xvi-p28.1"></span>). By this he denies not that constant and
 perpetual forgiveness of sins is thereby obtained even till death: he
 only intimates that it is designed by the Father for those poor sinners
@@ -226,8 +226,8 @@ it shows us our mortification in Christ and new life in him. “Know ye
 not,” says the apostle, “that as many of us as were baptised into Jesus
 Christ, were baptised into his death? Therefore we are buried with him
 by baptism into death,” that we “should walk in newness of life” (<span
-id="iv.iv.xvi-p30.1"></span>[Rom. 6:3](../../../bib/kjv/rom006.htm#003),
-[4](../../../bib/kjv/rom006.htm#004)<span id="iv.iv.xvi-p30.1"></span>).
+id="iv.iv.xvi-p30.1"></span>[Rom. 6:3](../../../bib/kjv/rom006.htm#003.md),
+[4](../../../bib/kjv/rom006.htm#004)<span id="iv.iv.xvi-p30.1"></span>.md).
 By these words, he not only exhorts us to imitation of Christ, as if he
 had said, that we are admonished by baptism, in like manner as Christ
 died, to die to our lusts, and as he rose, to rise to righteousness; but
@@ -241,11 +241,11 @@ exhortation, that if we are Christians we should be dead unto sin, and
 alive unto righteousness. He elsewhere uses the same argument—viz. that
 we are circumcised, and put off the old man, after we are buried in
 Christ by baptism (<span id="iv.iv.xvi-p30.2"></span>[Col.
-2:12](../../../bib/kjv/col002.htm#012)<span
+2:12](../../../bib/kjv/col002.htm#012.md)<span
 id="iv.iv.xvi-p30.2"></span>). And in this sense, in the passage which
 we formerly quoted, he calls it “the washing of regeneration, and
 renewing of the Holy Ghost” (<span id="iv.iv.xvi-p30.3"></span>[Tit.
-3:5](../../../bib/kjv/tit003.htm#005)<span
+3:5](../../../bib/kjv/tit003.htm#005.md)<span
 id="iv.iv.xvi-p30.3"></span>). We are promised, first, the free pardon
 of sins and imputation of righteousness; and, secondly, the grace of the
 Holy Spirit, to form us again to newness of life.
@@ -258,16 +258,16 @@ baptism in his own body, that he might have it in common with us as the
 firmest bond of union and fellowship which he deigned to form with us;
 and hence Paul proves us to be the sons of God, from the fact that we
 put on Christ in baptism (<span id="iv.iv.xvi-p31.1"></span>[Gal.
-3:27](../../../bib/kjv/gal003.htm#027)<span
+3:27](../../../bib/kjv/gal003.htm#027.md)<span
 id="iv.iv.xvi-p31.1"></span>). Thus we see the fulfilment of our baptism
 in Christ, whom for this reason we call the proper object of baptism.
 Hence it is not strange that the apostles are said to have baptised in
 the name of Christ, though they were enjoined to baptise in the name of
 the Father and Spirit also (<span id="iv.iv.xvi-p31.2"></span>[Acts
-8:16](../../../bib/kjv/act008.htm#016)<span
+8:16](../../../bib/kjv/act008.htm#016.md)<span
 id="iv.iv.xvi-p31.2"></span>; 19:5; <span
 id="iv.iv.xvi-p31.3"></span>[Mt.
-28:19](../../../bib/kjv/mat028.htm#019)<span
+28:19](../../../bib/kjv/mat028.htm#019.md)<span
 id="iv.iv.xvi-p31.3"></span>). For all the divine gifts held forth in
 baptism are found in Christ alone. And yet he who baptises into Christ
 cannot but at the same time invoke the name of the Father and the
@@ -292,7 +292,7 @@ doctrine. Both baptised unto repentance, both for remission of sins,
 both in the name of Christ, from whom repentance and remission of sins
 proceed. John pointed to him as the Lamb of God who taketh away the sins
 of the world (<span id="iv.iv.xvi-p32.1"></span>[John
-1:29](../../../bib/kjv/joh001.htm#029)<span
+1:29](../../../bib/kjv/joh001.htm#029.md)<span
 id="iv.iv.xvi-p32.1"></span>), thus describing him as the victim
 accepted of the Father, the propitiation of righteousness, and the
 author of salvation. What could the apostles add to this confession?
@@ -301,11 +301,11 @@ distinguish the one from the other. Their views ought not to be in such
 esteem with us as to shake the certainty of Scripture. For who would
 listen to Chrysostom denying that remission of sins was included in the
 baptism of John (Hom. in <span id="iv.iv.xvi-p32.2"></span>[Mt.
-1:14](../../../bib/kjv/mat001.htm#014)<span
+1:14](../../../bib/kjv/mat001.htm#014.md)<span
 id="iv.iv.xvi-p32.2"></span>), rather than to Luke asserting, on the
 contrary, that John preached “the baptism of repentance for the
 remission of sins?” (<span id="iv.iv.xvi-p32.3"></span>[Luke
-3:3](../../../bib/kjv/luk003.htm#003)<span
+3:3](../../../bib/kjv/luk003.htm#003.md)<span
 id="iv.iv.xvi-p32.3"></span>). Nor can we admit Augustine’s subtlety,
 that by the baptism of John sins were forgiven in hope, but by the
 baptism of Christ are forgiven in reality. For seeing the Evangelist
@@ -315,9 +315,9 @@ Should any one ask what difference the word of God makes, he will find
 it to be nothing more than that John baptised in the name of him who was
 to come, the apostles in the name of him who was already manifested
 (<span id="iv.iv.xvi-p32.4"></span>[Luke
-3:16](../../../bib/kjv/luk003.htm#016)<span
+3:16](../../../bib/kjv/luk003.htm#016.md)<span
 id="iv.iv.xvi-p32.4"></span>; <span id="iv.iv.xvi-p32.5"></span>[Acts
-19:4](../../../bib/kjv/act019.htm#004)<span
+19:4](../../../bib/kjv/act019.htm#004.md)<span
 id="iv.iv.xvi-p32.5"></span>).
 
 <span id="iv.iv.xvi-p33"></span>8. This fact, that the gifts of the
@@ -329,15 +329,15 @@ on it than on the baptism of John. Nay, not even after the ascension did
 the Samaritans receive the Spirit above the ordinary measure of former
 believers, till Peter and John were sent to lay hands on them (<span
 id="iv.iv.xvi-p33.1"></span>[Acts
-8:14-17](../../../bib/kjv/act008.htm#014)<span
+8:14-17](../../../bib/kjv/act008.htm#014.md)<span
 id="iv.iv.xvi-p33.1"></span>). I imagine that the thing which imposed on
 ancient writers, and made them say that the one baptism was only a
 preparative to the other, was, because they read that those who had
 received the baptism of John were again baptised by Paul (<span
 id="iv.iv.xvi-p33.2"></span>[Acts
-19:3-5](../../../bib/kjv/act019.htm#003)<span
+19:3-5](../../../bib/kjv/act019.htm#003.md)<span
 id="iv.iv.xvi-p33.2"></span>; <span id="iv.iv.xvi-p33.3"></span>[Mt.
-3:11](../../../bib/kjv/mat003.htm#011)<span
+3:11](../../../bib/kjv/mat003.htm#011.md)<span
 id="iv.iv.xvi-p33.3"></span>). How greatly they are mistaken in this
 will be most clearly explained in its own place. Why, then, did John say
 that he baptised with water, but there was one coming who would baptise
@@ -359,7 +359,7 @@ of mortification and ablution, were adumbrated among the people of
 Israel, who, for that reason, are described by the apostle as having
 been baptised in the cloud and in the sea (<span
 id="iv.iv.xvi-p34.1"></span>[1 Cor.
-10:2](../../../bib/kjv/co1010.htm#002)<span
+10:2](../../../bib/kjv/co1010.htm#002.md)<span
 id="iv.iv.xvi-p34.1"></span>). Mortification was figured when the Lord,
 vindicating them from the hand of Pharaoh and from cruel bondage, paved
 a way for them through the Red Sea, and drowned Pharaoh himself and
@@ -374,7 +374,7 @@ the terror of his look, though he could not hurt them, so our enemy
 still threatens, shows his arms and is felt, but cannot conquer. The
 cloud was a symbol of purification (<span
 id="iv.iv.xvi-p34.2"></span>[Num.
-9:18](../../../bib/kjv/num009.htm#018)<span
+9:18](../../../bib/kjv/num009.htm#018.md)<span
 id="iv.iv.xvi-p34.2"></span>). For as the Lord then covered them by an
 opposite cloud, and kept them cool, that they might not faint or pine
 away under the burning rays of the sun; so in baptism we perceive that
@@ -397,7 +397,7 @@ has been previously shown (Book 2 chap. 1 sec. 8), that original sin is
 the depravity and corruption of our nature, which first makes us liable
 to the wrath of God, and then produces in us works which Scripture terms
 *the works of the flesh* (<span id="iv.iv.xvi-p35.1"></span>[Gal.
-5:19](../../../bib/kjv/gal005.htm#019)<span
+5:19](../../../bib/kjv/gal005.htm#019.md)<span
 id="iv.iv.xvi-p35.1"></span>). The two things, therefore, must be
 distinctly observed—viz. that we are vitiated and perverted in all parts
 of our nature, and then, on account of this corruption, are justly held
@@ -471,14 +471,14 @@ unable to devote himself entirely to the obedience of the divine law.
 Hence he is forced to groan and exclaim, “O wretched man that I am! who
 shall deliver me from the body of this death?” (<span
 id="iv.iv.xvi-p37.1"></span>[Rom.
-7:24](../../../bib/kjv/rom007.htm#024)<span
+7:24](../../../bib/kjv/rom007.htm#024.md)<span
 id="iv.iv.xvi-p37.1"></span>). But if the children of God are kept
 captive in prison as long as they live, they must necessarily feel very
 anxious at the thought of their danger, unless their fears are allayed.
 For this single purpose, then, he subjoins the consolation, that there
 is “now no condemnation to them which are in Christ Jesus” (<span
 id="iv.iv.xvi-p37.2"></span>[Rom.
-8:1](../../../bib/kjv/rom008.htm#001)<span
+8:1](../../../bib/kjv/rom008.htm#001.md)<span
 id="iv.iv.xvi-p37.2"></span>). Hence he teaches that those whom the Lord
 has once admitted into favour, and ingrafted into communion with Christ,
 and received into the fellowship of the Church by baptism, are freed
@@ -486,7 +486,7 @@ from guilt and condemnation while they persevere in the faith of Christ,
 though they may be beset by sin and thus bear sin about with them. If
 this is the simple and genuine interpretation of Paul’s meaning, we
 cannot think that there is anything strange in the doctrine which he
-here delivers.59  <span id="fr_617"></span>[618](#fn_617)
+here delivers.59  <span id="fr_617"></span>[618](#fn_617.md)
 
 <span id="iv.iv.xvi-p39"></span>13. Baptism serves as our confession
 before men, inasmuch as it is a mark by which we openly declare that we
@@ -500,7 +500,7 @@ God, which ought everywhere to be displayed, and others are stimulated
 by our example to the same course. To this Paul referred when he asked
 the Corinthians whether or not they had been baptised in the name of
 Christ (<span id="iv.iv.xvi-p39.1"></span>[1 Cor.
-1:13](../../../bib/kjv/co1001.htm#013)<span
+1:13](../../../bib/kjv/co1001.htm#013.md)<span
 id="iv.iv.xvi-p39.1"></span>); intimating, that by the very circumstance
 of having been baptised in his name, they had devoted themselves to him,
 had sworn and bound themselves in allegiance to him before men, so that
@@ -536,7 +536,7 @@ a fuller forgiveness from baptism, but a surer exercise of faith; nay,
 an argument for assurance from a pledge. It will, perhaps, be objected,
 Why did Ananias say to Paul that he washed away his sins by baptism
 (<span id="iv.iv.xvi-p41.1"></span>[Acts
-22:16](../../../bib/kjv/act022.htm#016)<span
+22:16](../../../bib/kjv/act022.htm#016.md)<span
 id="iv.iv.xvi-p41.1"></span>), if sins are not washed away by the power
 of baptism? I answer, we are said to receive, procure, and obtain,
 whatever according to the perception of our faith is exhibited to us by
@@ -558,7 +558,7 @@ with one consent of faith and love we may live in concord with all
 believers. This last was Paul’s meaning, when he said that “by one
 Spirit are we all baptised into one body” (<span
 id="iv.iv.xvi-p41.2"></span>[1 Cor.
-12:13](../../../bib/kjv/co1012.htm#013)<span
+12:13](../../../bib/kjv/co1012.htm#013.md)<span
 id="iv.iv.xvi-p41.2"></span>).
 
 <span id="iv.iv.xvi-p42"></span>16. Moreover, if we have rightly
@@ -606,8 +606,8 @@ being blind and unbelieving, we for a long time did not hold the promise
 which was given us in baptism, but that still the promise, as it was of
 God, always remained fixed, and firm, and true. Although all men should
 be false and perfidious, yet God ceases not to be true (<span
-id="iv.iv.xvi-p43.1"></span>[Rom. 3:3](../../../bib/kjv/rom003.htm#003),
-[4](../../../bib/kjv/rom003.htm#004)<span id="iv.iv.xvi-p43.1"></span>);
+id="iv.iv.xvi-p43.1"></span>[Rom. 3:3](../../../bib/kjv/rom003.htm#003.md),
+[4](../../../bib/kjv/rom003.htm#004)<span id="iv.iv.xvi-p43.1"></span>.md);
 though all were lost, Christ remains safe. We acknowledge, therefore,
 that at that time baptism profited us nothing, since in us the offered
 promise, without which baptism is nothing, lay neglected. Now, when by
@@ -635,8 +635,8 @@ polluted and extinguished.
 which they brandish irresistible, when they allege that Paul rebaptised
 those who had been baptised with the baptism of John (<span
 id="iv.iv.xvi-p44.1"></span>[Acts
-19:3](../../../bib/kjv/act019.htm#003),
-[5](../../../bib/kjv/act019.htm#005)<span id="iv.iv.xvi-p44.1"></span>).
+19:3](../../../bib/kjv/act019.htm#003.md),
+[5](../../../bib/kjv/act019.htm#005)<span id="iv.iv.xvi-p44.1"></span>.md).
 For if, by our confession, the baptism of John was the same as ours,
 then, in like manner as those who had been improperly trained, when they
 learned the true faith, were rebaptised into it, ought that baptism
@@ -668,7 +668,7 @@ he saw these gifts poured out on Cornelius and his family and kindred.
 There is nothing repugnant to this interpretation in its being
 afterwards added, “When Paul had laid his hands upon them, the Holy
 Ghost came on them” (<span id="iv.iv.xvi-p44.2"></span>[Acts
-19:6](../../../bib/kjv/act019.htm#006)<span
+19:6](../../../bib/kjv/act019.htm#006.md)<span
 id="iv.iv.xvi-p44.2"></span>). For Luke does not narrate two different
 things, but follows the form of narrative common to the Hebrews, who
 first give the substance, and then explain more fully. This any one may
@@ -691,7 +691,7 @@ baptised with water, according to the precept of Christ, had been a
 contemptible thing, a benedicion, or rather incantation, was devised to
 pollute the true consecration of water. There was afterwards added the
 taper and chrism, while exorcism59  <span
-id="fr_618"></span>[619](#fn_618) was thought to open the door for
+id="fr_618"></span>[619](#fn_618.md) was thought to open the door for
 baptism. Though I am not unaware how ancient the origin of this
 adventitious farrago is, still it is lawful for me and all the godly to
 reject whatever men have presumed to add to the institution of Christ.
@@ -699,7 +699,7 @@ When Satan saw that by the foolish credulity of the world his impostures
 were received almost without objection at the commencement of the
 gospel, he proceeded to grosser mockery: hence spittle and other
 follies, to the open disgrace of baptism, were introduced with unbridled
-licence.60  <span id="fr_619"></span>[620](#fn_619) From our experience
+licence.60  <span id="fr_619"></span>[620](#fn_619.md) From our experience
 of them, let us learn that there is nothing holier, or better, or safer,
 than to be contented with the authority of Christ alone. How much
 better, therefore, is it to lay aside all theatrical pomp, which dazzles
@@ -718,8 +718,8 @@ sprinkled with water, is not of the least consequence: churches should
 be at liberty to adopt either, according to the diversity of climates,
 although it is evident that the term *baptise* means to immerse, and
 that this was the form used by the primitive Church.60  <span
-id="fr_620"></span>[621](#fn_620)  <span
-id="fr_621"></span>[622](#fn_621)
+id="fr_620"></span>[621](#fn_620.md)  <span
+id="fr_621"></span>[622](#fn_621.md)
 
 <span id="iv.iv.xvi-p50"></span>20. It is here also pertinent to
 observe, that it is improper for private individuals to take upon
@@ -776,13 +776,13 @@ mother of Christ, he makes no reservation.
 
 <span id="iv.iv.xvi-p52"></span>22. The example of Zipporah (<span
 id="iv.iv.xvi-p52.1"></span>[Exod.
-4:25](../../../bib/kjv/exo004.htm#025)<span
+4:25](../../../bib/kjv/exo004.htm#025.md)<span
 id="iv.iv.xvi-p52.1"></span>) is irrelevantly quoted. Because the angel
 of God was appeased after she took a stone and circumcised her son, it
 is erroneously inferred that her act was approved by God. Were it so, we
 must say that God was pleased with a worship which Gentiles brought from
 Assyria, and set up in Samaria.60  <span
-id="fr_622"></span>[623](#fn_622) But other valid reasons prove, that
+id="fr_622"></span>[623](#fn_622.md) But other valid reasons prove, that
 what a foolish woman did is ignorantly drawn into a precedent. Were I to
 say that there was something special in the case, making it unfit for a
 precedent—and especially as we nowhere read that the command to
@@ -790,18 +790,18 @@ circumcise was specially given to priests, the cases of baptism and
 circumcision are different—I should give a sufficient refutation. For
 the words of Christ are plain: “Go ye, therefore, and teach all nations,
 baptising them” (<span id="iv.iv.xvi-p53.1"></span>[Mt.
-28:19](../../../bib/kjv/mat028.htm#019)<span
+28:19](../../../bib/kjv/mat028.htm#019.md)<span
 id="iv.iv.xvi-p53.1"></span>). Since he appointed the same persons to be
 preachers of the Gospel, and dispensers of baptism—and in the Church,
 “no man taketh this honour unto himself,” as the apostle declares (<span
 id="iv.iv.xvi-p53.2"></span>[Heb.
-5:4](../../../bib/kjv/heb005.htm#004)<span
+5:4](../../../bib/kjv/heb005.htm#004.md)<span
 id="iv.iv.xvi-p53.2"></span>), “but he that is called of God, as was
 Aaron”—any one who baptises without a lawful call usurps another’s
 office. Paul declares, that whatever we attempt with a dubious
 conscience, even in the minutest matters, as in meat and drink, is sin
 (<span id="iv.iv.xvi-p53.3"></span>[Rom.
-14:23](../../../bib/kjv/rom014.htm#023)<span
+14:23](../../../bib/kjv/rom014.htm#023.md)<span
 id="iv.iv.xvi-p53.3"></span>). Therefore, in baptism by women, the sin
 is the greater, when it is plain that the rule delivered by Christ is
 violated, seeing we know it to be unlawful to put asunder what God has
@@ -843,7 +843,7 @@ word.
 
 ### Footnotes
 
-<span id="fn_617"></span>[618](inst095.htm#fr_617) <span
+<span id="fn_617"></span>[618](inst095.htm#fr_617.md) <span
 id="iv.iv.xvi-p37.3"></span>
 
 <span id="iv.iv.xvi-p38"></span>98 598 French, “Nous suivons donc de mot
@@ -854,13 +854,13 @@ the doctrine of St Paul, word for word, when we say that in Baptism, sin
 is forgiven as to the guilt, but that it always remains as to the matter
 in all Christians until death.
 
-<span id="fn_618"></span>[619](inst095.htm#fr_618) <span
+<span id="fn_618"></span>[619](inst095.htm#fr_618.md) <span
 id="iv.iv.xvi-p45.1"></span>
 
 <span id="iv.iv.xvi-p46"></span>99 599 Latin, “Exsufflatio.”—French, “Le
 souffle pour conjurer le diable.”
 
-<span id="fn_619"></span>[620](inst095.htm#fr_619) <span
+<span id="fn_619"></span>[620](inst095.htm#fr_619.md) <span
 id="iv.iv.xvi-p46.1"></span>
 
 <span id="iv.iv.xvi-p47"></span>00 600 Vid. Calv. in Epist. de Fugiendis
@@ -868,7 +868,7 @@ illicitis sacris. Item, Vera Ecclesia Reformandæ Ratio. See also infra,
 chap. 17 sec. 43. As to the form of baptism, see Cyprian, Lib. 4 <span
 id="iv.iv.xvi-p47.1"></span>Ep. 7<span id="iv.iv.xvi-p47.1"></span>.
 
-<span id="fn_620"></span>[621](inst095.htm#fr_620) <span
+<span id="fn_620"></span>[621](inst095.htm#fr_620.md) <span
 id="iv.iv.xvi-p47.2"></span>
 
 <span id="iv.iv.xvi-p48"></span>01 601 French, “Au reste, c’est une
@@ -886,7 +886,7 @@ represented in either. Although the mere term Baptise means to immerse
 entirely, and it is certain that the custom of thus entirely immersing
 was anciently observed in the Church.
 
-<span id="fn_621"></span>[622](inst095.htm#fr_621) <span
+<span id="fn_621"></span>[622](inst095.htm#fr_621.md) <span
 id="iv.iv.xvi-p48.1"></span>
 
 <span id="iv.iv.xvi-p49"></span>126 D126 In this sentence Calvin makes
@@ -942,7 +942,7 @@ Archaeology (Oxford: The Clarendon Press, 1903), and J.G. Davies’ work,
 The Architectural Setting of Baptism (London, Barrie and Rockliff,
 1962).
 
-<span id="fn_622"></span>[623](inst095.htm#fr_622) <span
+<span id="fn_622"></span>[623](inst095.htm#fr_622.md) <span
 id="iv.iv.xvi-p52.2"></span>
 
 <span id="iv.iv.xvi-p53"></span>02 602 French, “Car par une mesme raison
@@ -956,4 +956,4 @@ thereafter they were not molested by wild beasts.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 16. - PÆDOBAPTISM. ITS ACCORDANCE WITH THE INSTITUTION OF
-CHRIST, AND THE NATURE OF THE SIGN.](inst096)
+CHRIST, AND THE NATURE OF THE SIGN.](inst096.md)

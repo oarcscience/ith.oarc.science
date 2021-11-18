@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb03)  [Next](refb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb03)  [Next](refb05.md) 
 
 </div>
 
@@ -652,6 +652,6 @@ the previous misfortunes were quite forgotten.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Soria Moria Castle](refb05)
+[Next: Soria Moria Castle](refb05.md)
 
 </div>

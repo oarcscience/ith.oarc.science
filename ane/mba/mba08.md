@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba07)  [Next](mba09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba07)  [Next](mba09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ ANCIENT Babylonia was for over four thousand years the garden of Western
 Asia. In the days of Hezekiah and Isaiah, when it had come under the
 sway of the younger civilization of Assyria on the north, it was "a land
 of corn and wine, a land of bread and vineyards, a land of oil olive and
-of honey". <span id="fr_27"></span>[1](#fn_27) Herodotus found it still
+of honey". <span id="fr_27"></span>[1](#fn_27.md) Herodotus found it still
 flourishing and extremely fertile. "This territory", he wrote, "is of
 all that we know the best by far for producing grain; it is so good that
 it returns as much as two hundredfold for the average, and, when it
@@ -53,7 +53,7 @@ and from millet and sesame seed, how large a tree grows, I know myself,
 but shall not record, being well aware that even what has already been
 said relating to the crops produced has been enough to cause disbelief
 in those who have not visited Babylonia." <span
-id="fr_28"></span>[1](#fn_28) To-day great tracts of undulating
+id="fr_28"></span>[1](#fn_28.md) To-day great tracts of undulating
 moorland, which aforetime yielded two and three crops a year, are in
 summer partly barren wastes and partly jungle and reedy swamp. Bedouins
 camp beside sandy heaps which were once populous and thriving cities,
@@ -160,7 +160,7 @@ immemorial. "From one", writes a traveller, "flows hot water black with
 bitumen, while the other discharges intermittently bitumen, or, after a
 rainstorm, bitumen and cold water. . . . Where rocks crop out in the
 plain above Hit, they are full of seams of bitumen." <span
-id="fr_29"></span>[1](#fn_29) Present-day Arabs call it "kiyara", and
+id="fr_29"></span>[1](#fn_29.md) Present-day Arabs call it "kiyara", and
 export it for coating boats and roofs; they also use it as an
 antiseptic, and apply it to cure the skin diseases from which camels
 suffer.
@@ -216,7 +216,7 @@ sharply defined from the various spirit groups.
 
 A distinctive and characteristic Sumerian god was Ea, who was supreme at
 the ancient sea-deserted port of Eridu. He is identified with the Oannes
-of Berosus, <span id="fr_30"></span>[1](#fn_30) who referred to the
+of Berosus, <span id="fr_30"></span>[1](#fn_30.md) who referred to the
 deity as "a creature endowed with reason, with a body like that of a
 fish, with feet below like those of a man, with a fish's tail". This
 description recalls the familiar figures of Egyptian gods and priests
@@ -242,7 +242,7 @@ then to the river Ganges. In time the fish complained to Manu that the
 river was too small for it, so he carried it to the sea. For these
 services the god in fish form instructed Manu regarding the approaching
 flood, and afterwards piloted his ship through the weltering waters
-until it rested on a mountain top. <span id="fr_31"></span>[1](#fn_31)
+until it rested on a mountain top. <span id="fr_31"></span>[1](#fn_31.md)
 
 If this Indian myth is of Babylonian origin, as appears probable, it may
 be that the spirit of the river Euphrates, "the soul of the land", was
@@ -263,7 +263,7 @@ sometimes effected in another way by saying that the anthropomorphic
 deity was born from the water, as Aphrodite sprang from sea foam, or as
 Atargatis, in another form of the Euphrates legend, . . . was born of an
 egg which the sacred fishes found in the Euphrates and pushed
-ashore." <span id="fr_32"></span>[2](#fn_32)
+ashore." <span id="fr_32"></span>[2](#fn_32.md)
 
 As "Shar Apsi", Ea was the "King of the Watery
 
@@ -273,7 +273,7 @@ As "Shar Apsi", Ea was the "King of the Watery
 reference, however, according to Jastrow, "is not to the salt ocean, but
 the sweet waters flowing under the earth which feed the streams, and
 through streams and canals irrigate the fields". <span
-id="fr_33"></span>[1](#fn_33) As Babylonia was fertilized by its rivers,
+id="fr_33"></span>[1](#fn_33.md) As Babylonia was fertilized by its rivers,
 Ea, the fish god, was a fertilizing deity. In Egypt the "Mother of
 Mendes" is depicted carrying a fish upon her head; she links with Isis
 and Hathor; her husband is Ba-neb-Tettu, a form of Ptah, Osiris, and Ra,
@@ -297,7 +297,7 @@ They set prosperity upon thy banks,
 Within thee Ea, the King of the Deep, created his dwelling . . .  
 Thou judgest the cause of mankind!  
 O River, thou art mighty! O River, thou art supreme!  
-O River, thou art righteous! <span id="fr_34"></span>[2](#fn_34)</span>
+O River, thou art righteous! <span id="fr_34"></span>[2](#fn_34.md)</span>
 
 </div>
 
@@ -323,10 +323,10 @@ artisan god Ptah, and the linking deity Khnumu, Ea was the "potter or
 moulder of gods and man". Ptah moulded the first man on his potter's
 wheel: he also moulded the sun and moon; he shaped the universe and
 hammered out the copper sky. Ea built the world "as an architect builds
-a house". <span id="fr_35"></span>[1](#fn_35) Similarly the Vedic Indra,
+a house". <span id="fr_35"></span>[1](#fn_35.md) Similarly the Vedic Indra,
 who wielded a hammer like Ptah, fashioned the universe after the simple
 manner in which the Aryans made their wooden dwellings. <span
-id="fr_36"></span>[2](#fn_36)
+id="fr_36"></span>[2](#fn_36.md)
 
 Like Ptah, Ea also developed from an artisan god into a sublime Creator
 in the highest sense, not merely as a producer of crops. His word became
@@ -345,7 +345,7 @@ with Dagon, rather than Dagon with Jah; whilst another interesting name,
 Au-Aa, shows an identification of Jah with Aa, two names which have
 every appearance of being etymologically connected." Jah's name "is one
 of the words for 'god' in the Assyro-Babylonian language". <span
-id="fr_37"></span>[1](#fn_37)
+id="fr_37"></span>[1](#fn_37.md)
 
 Ea was "Enki", "lord of the world", or "lord of what is beneath";
 Amma-ana-ki, "lord of heaven and earth"; Sa-kalama, "ruler of the land",
@@ -364,7 +364,7 @@ Professor Pinches, "seems to speak of the Euphrates as being 'the
 boundary of Dagan', whom he calls his creator. In later inscriptions the
 form Daguna, which approaches nearer to the West Semitic form (Dagon of
 the Philistines), is found in a few personal names. <span
-id="fr_38"></span>[2](#fn_38)
+id="fr_38"></span>[2](#fn_38.md)
 
 It is possible that the Philistine deity Dagon was a
 
@@ -375,14 +375,14 @@ or was a sea god of more than one branch of the Mediterranean race. The
 authorities are at variance regarding the form and attributes of Dagan.
 Our know-ledge regarding him is derived mainly from the Bible. He was a
 national rather than a city god. There are references to a
-Beth-dagon <span id="fr_39"></span>[1](#fn_39), "house or city of
+Beth-dagon <span id="fr_39"></span>[1](#fn_39.md), "house or city of
 Dagon"; he had also a temple at Gaza, and Samson destroyed it by pulling
 down the two middle pillars which were its main support. <span
-id="fr_40"></span>[2](#fn_40) A third temple was situated in Ashdod.
+id="fr_40"></span>[2](#fn_40.md) A third temple was situated in Ashdod.
 When the captured ark of the Israelites was placed in it the image of
 Dagon "fell on his face", with the result that "the head of Dagon and
 both the palms of his hands were cut off upon the threshold; only the
-stump of Dagon was left". <span id="fr_41"></span>[3](#fn_41) A further
+stump of Dagon was left". <span id="fr_41"></span>[3](#fn_41.md) A further
 reference to "the threshold of Dagon" suggests that the god had feet
 like Ea-Oannes. Those who hold that Dagon had a fish form derive his
 name from the Semitic "dag = a fish", and suggest that after the idol
@@ -400,7 +400,7 @@ sky. The offering of golden mice representing "your mice that mar the
 
 <span id="page_33">p. 33</span>
 
-land", <span id="fr_42"></span>[1](#fn_42) made by the Philistines,
+land", <span id="fr_42"></span>[1](#fn_42.md) made by the Philistines,
 suggests that Dagon was the fertilizing harvest god, among other things,
 whose usefulness had been impaired, as they believed, by the mistake
 committed of placing the ark of Israel in the temple at Ashdod. The
@@ -451,7 +451,7 @@ Battening in heaven seven are they,
 Bred in the depths of ocean. . . .  
 Of these seven the first is the south wind,  
 The second a dragon with mouth agape. . . . <span
-id="fr_43"></span>[1](#fn_43)</span>
+id="fr_43"></span>[1](#fn_43.md)</span>
 
 </div>
 
@@ -472,7 +472,7 @@ They are referred to as
 <span class="small">Forcing their way with baneful windstorms,  
 Mighty destroyers, the deluge of the storm god,  
 Stalking at the right hand of the storm god. <span
-id="fr_44"></span>[2](#fn_44)</span>
+id="fr_44"></span>[2](#fn_44.md)</span>
 
 </div>
 
@@ -499,7 +499,7 @@ at Nippur has been translated as "mountain house", or "like a mountain",
 and the theory obtained for a time that the god must therefore have been
 imported by a people from the hills. But as the ideogram for "mountain"
 and "land" was used in the earliest times, as King shows, with reference
-to foreign countries, <span id="fr_45"></span>[1](#fn_45) it is more
+to foreign countries, <span id="fr_45"></span>[1](#fn_45.md) it is more
 probable that Enlil was exalted as a world god who had dominion over not
 only Sumer and Akkad, but also the territories occupied by the rivals
 and enemies of the early Babylonians.
@@ -532,7 +532,7 @@ Sumerians and the early Egyptians derived their primeval gods from some
 common but exceedingly ancient source", for he finds in the Babylonian
 and Nile valleys that there is a resemblance between two early groups
 which "seems to be too close to be accidental". <span
-id="fr_46"></span>[1](#fn_46)
+id="fr_46"></span>[1](#fn_46.md)
 
 The Egyptian group comprises four pairs of vague gods and goddesses--Nu
 and his consort Nut, Hehu and his consort Hehut, Kekui and his consort
@@ -549,7 +549,7 @@ of those who write the legends and the traditions of the gods. The gods
 of the oldest company in Egypt were, the writer believes, invented by
 people in whose households women held a high position, and among whom
 they possessed more power than is usually the case with Oriental
-peoples." <span id="fr_47"></span>[1](#fn_47)
+peoples." <span id="fr_47"></span>[1](#fn_47.md)
 
 We cannot say definitely what these various deities represent. Nu was
 the spirit of the primordial deep, and Nut of the waters above the
@@ -621,7 +621,7 @@ sacred tree or bush at Eridu. Professor Sayce has suggested that it is
 the Biblical "Tree of Life" in the Garden of Eden. His translations of
 certain vital words, however, is sharply questioned by Mr. R. Campbell
 Thompson of the British Museum, who does not accept the theory. <span
-id="fr_48"></span>[1](#fn_48) It may be that Ea's sacred bush or tree is
+id="fr_48"></span>[1](#fn_48.md) It may be that Ea's sacred bush or tree is
 a survival of tree and water worship.
 
 If Eridu was not the "cradle" of the Sumerian race, it was possibly the
@@ -635,69 +635,69 @@ their instructor and patron; he was Nadimmud, "god of everything".
 
 ### Footnotes
 
-<span id="fn_27"></span>[21:1](mba08.htm#fr_27) *2 Kings*, xviii, 32.
+<span id="fn_27"></span>[21:1](mba08.htm#fr_27.md) *2 Kings*, xviii, 32.
 
-<span id="fn_28"></span>[22:1](mba08.htm#fr_28) *Herodotus*, i, 193.
+<span id="fn_28"></span>[22:1](mba08.htm#fr_28.md) *Herodotus*, i, 193.
 
-<span id="fn_29"></span>[25:1](mba08.htm#fr_29) Peter's *Nippur*, i, p.
+<span id="fn_29"></span>[25:1](mba08.htm#fr_29.md) Peter's *Nippur*, i, p.
 160.
 
-<span id="fn_30"></span>[27:1](mba08.htm#fr_30) A Babylonian priest of
+<span id="fn_30"></span>[27:1](mba08.htm#fr_30.md) A Babylonian priest of
 Bel Merodach. In the third century B.C. he composed in Greek a history
 of his native land, which has perished. Extracts from it are given by
 Eusebius, Josephus, Apollodorus, and others.
 
-<span id="fn_31"></span>[28:1](mba08.htm#fr_31) *Indian Myth and
+<span id="fn_31"></span>[28:1](mba08.htm#fr_31.md) *Indian Myth and
 Legend*, pp. 140, 141.
 
-<span id="fn_32"></span>[28:2](mba08.htm#fr_32) *The Religion of the
+<span id="fn_32"></span>[28:2](mba08.htm#fr_32.md) *The Religion of the
 Semites*, pp. 159, 160.
 
-<span id="fn_33"></span>[29:1](mba08.htm#fr_33) *Religion of Babylonia
+<span id="fn_33"></span>[29:1](mba08.htm#fr_33.md) *Religion of Babylonia
 and Assyria*, M. Jastrow, p. 88.
 
-<span id="fn_34"></span>[29:2](mba08.htm#fr_34) *The Seven Tablets of
+<span id="fn_34"></span>[29:2](mba08.htm#fr_34.md) *The Seven Tablets of
 Creation*, L. W. King, vol. i, p. 129.
 
-<span id="fn_35"></span>[30:1](mba08.htm#fr_35) *Religious Belief in
+<span id="fn_35"></span>[30:1](mba08.htm#fr_35.md) *Religious Belief in
 Babylonia and Assyria*, M. Jastrow, p. 88.
 
-<span id="fn_36"></span>[30:2](mba08.htm#fr_36) *Cosmology of the
+<span id="fn_36"></span>[30:2](mba08.htm#fr_36.md) *Cosmology of the
 Rigveda*, Wallis, and *Indian Myth and Legend*, p. 10.
 
-<span id="fn_37"></span>[31:1](mba08.htm#fr_37) *The Old Testament in
+<span id="fn_37"></span>[31:1](mba08.htm#fr_37.md) *The Old Testament in
 the Light of the Historical Records and Legends of Assyria and
 Babylonia*, T. G. Pinches, pp. 59-61.
 
-<span id="fn_38"></span>[31:2](mba08.htm#fr_38) *The Religion of
+<span id="fn_38"></span>[31:2](mba08.htm#fr_38.md) *The Religion of
 Babylonia and Assyria*, T. G. Pinches, pp. 91, 92.
 
-<span id="fn_39"></span>[32:1](mba08.htm#fr_39) *Joshua*, xv, 41; xix,
+<span id="fn_39"></span>[32:1](mba08.htm#fr_39.md) *Joshua*, xv, 41; xix,
 27.
 
-<span id="fn_40"></span>[32:2](mba08.htm#fr_40) *Judges*, xvi, 1.
+<span id="fn_40"></span>[32:2](mba08.htm#fr_40.md) *Judges*, xvi, 1.
 
-<span id="fn_41"></span>[32:3](mba08.htm#fr_41) *1 Sam*., v, 1-9.
+<span id="fn_41"></span>[32:3](mba08.htm#fr_41.md) *1 Sam*., v, 1-9.
 
-<span id="fn_42"></span>[33:1](mba08.htm#fr_42) *1 Sam*., vi, 5.
+<span id="fn_42"></span>[33:1](mba08.htm#fr_42.md) *1 Sam*., vi, 5.
 
-<span id="fn_43"></span>[34:1](mba08.htm#fr_43) *The Devils and Evil
+<span id="fn_43"></span>[34:1](mba08.htm#fr_43.md) *The Devils and Evil
 Spirits of Babylonia*, R. Campbell Thompson, London, 1903, vol. i, p.
 xlii.
 
-<span id="fn_44"></span>[34:2](mba08.htm#fr_44) *The Devils and Evil
+<span id="fn_44"></span>[34:2](mba08.htm#fr_44.md) *The Devils and Evil
 Spirits of Babylonia*, R. C. Thompson, vol. i, p. xliii.
 
-<span id="fn_45"></span>[35:1](mba08.htm#fr_45) *A History of Sumer and
+<span id="fn_45"></span>[35:1](mba08.htm#fr_45.md) *A History of Sumer and
 Akkad*, L. W. King, p. 54.
 
-<span id="fn_46"></span>[36:1](mba08.htm#fr_46) *The Gods of the
+<span id="fn_46"></span>[36:1](mba08.htm#fr_46.md) *The Gods of the
 Egyptians*, E. Wallis Budge, vol. i, p. 290.
 
-<span id="fn_47"></span>[37:1](mba08.htm#fr_47) *The Gods of the
+<span id="fn_47"></span>[37:1](mba08.htm#fr_47.md) *The Gods of the
 Egyptians*, vol. i, p. 287.
 
-<span id="fn_48"></span>[39:1](mba08.htm#fr_48) *The Devils and Evil
+<span id="fn_48"></span>[39:1](mba08.htm#fr_48.md) *The Devils and Evil
 Spirits of Babylonia*, vol. i, Intro. See also Sayce's *The Religion of
 Ancient Egypt and Babylonia* (Gifford Lectures, 1902), p. 385, and
 Pinches' *The Old Testament in the Light of Historical Records*, &c., p.
@@ -705,4 +705,4 @@ Pinches' *The Old Testament in the Light of Historical Records*, &c., p.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Rival Pantheons and Representative Deities](mba09)
+[Next: Chapter III. Rival Pantheons and Representative Deities](mba09.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ttt09)  [Next](ttt11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ttt09)  [Next](ttt11.md) 
 
 ------------------------------------------------------------------------
 
@@ -1538,4 +1538,4 @@ TABOO
 
 ------------------------------------------------------------------------
 
-[Next: Words of Power](ttt11)
+[Next: Words of Power](ttt11.md)

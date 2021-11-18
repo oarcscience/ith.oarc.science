@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi184)  [Next](mtsi186) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi184)  [Next](mtsi186.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ they danced again until he died.
 
 ------------------------------------------------------------------------
 
-[Next: 50. Crane and Hummingbird Race](mtsi186)
+[Next: 50. Crane and Hummingbird Race](mtsi186.md)

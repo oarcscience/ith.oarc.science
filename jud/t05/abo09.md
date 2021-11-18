@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](abo08)  [Next](abo10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](abo08)  [Next](abo10.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -104,7 +104,7 @@ him, till He brought the deluge upon them.
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_69"></span>[1](#fn_68)"*Ten generations were there from
+ <span id="fr_69"></span>[1](#fn_68.md)"*Ten generations were there from
 Adam to Noah*." For what purpose was this stated? To teach that all
 these generations persisted in provoking the Lord, nevertheless He did
 not bring the flood on the world, for the sake of the upright and pious.
@@ -183,7 +183,7 @@ till Abraham our father came, and received the reward of them all.
 
 Tosephtha-Aboth of R. Nathan.
 
- <span id="fr_70"></span>[1](#fn_69)"Ten generations," etc. For what
+ <span id="fr_70"></span>[1](#fn_69.md)"Ten generations," etc. For what
 purpose was it necessary to state this? To teach that all these
 generations have provoked Him, and there was not one who walked in the
 way of the Holy One, blessed be He, till Abraham our father, as it is
@@ -242,8 +242,8 @@ written \[ibid.\]: "And he shot forth lightnings, and discomfited
 them"--lightning means sword, as it is written \[Ezek. xxi. 14, 15\]:
 "The sword, the sword is sharpened, and also polished: in order to make
 a thorough slaughter it is sharpened, in order that it may glitter <span
-id="fr_71"></span>[1](#fn_70) is it polished." <span
-id="fr_72"></span>[1](#fn_70) The Egyptians came armed with spears, so
+id="fr_71"></span>[1](#fn_70.md) is it polished." <span
+id="fr_72"></span>[1](#fn_70.md) The Egyptians came armed with spears, so
 also did the Lord, as it is written \[Habakkuk, iii. 11\]: "At the
 shining of the flaming glitter of thy spear." The Egyptians were proud
 of their shield and buckler; so was the Lord, as it is written \[Ps.
@@ -254,7 +254,7 @@ thick clouds passed away (with) hail-stones and coals of fire."
 
 When our fathers stood by the sea, Moses said to them: "Arise and pass
 through it!" and they rejoined: "We will not pass, till we see the sea
-become chips, chips." <span id="fr_73"></span>[2](#fn_71) Whereupon
+become chips, chips." <span id="fr_73"></span>[2](#fn_71.md) Whereupon
 Moses struck the sea with his staff, and it was converted into chips, as
 it is written \[Habakkuk, iii. 14\]: "Thou didst strike through with his
 own spears the chiefs of his villages." Again
@@ -273,7 +273,7 @@ not pass till the bottom becomes loamy." Whereupon Moses struck the sea
 with his staff, and the bottom became loamy, as it is written
 \[Habakkuk, iii. 15\]: "But (thou) didst pass along over the sea with
 thy horses, over the piled-up billows <span
-id="fr_74"></span>[1](#fn_72) of great waters." Again they refused to
+id="fr_74"></span>[1](#fn_72.md) of great waters." Again they refused to
 pass through, until the bottom of the sea should become a desert; and
 Moses caused it to be so, as it is written \[Ps. cvi. 9\]: "And he led
 them through the depths, as through the wilderness." They refused again
@@ -291,7 +291,7 @@ so, as it is written \[Ex. xiv. 22\]: "And the waters were a wall unto
 them, on their right hand, and on their left." They still refused till
 there should be bottles, and Moses complied again, as it is written
 \[ibid. xv. 8\]: "The flood stood upright as a wall." <span
-id="fr_75"></span>[2](#fn_73) And the infants were drinking oil and
+id="fr_75"></span>[2](#fn_73.md) And the infants were drinking oil and
 honey out of these bottles, as it is written \[Deut. xxxii. 13\]: "And
 he made him to suck honey out of the rock," etc. There are others who
 say: "Living water issued out of the sea, when they were between the
@@ -316,7 +316,7 @@ these ten times, and have not hearkened to my voice."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_76"></span>[1](#fn_74)"*By means of ten trials the Holy
+ <span id="fr_76"></span>[1](#fn_74.md)"*By means of ten trials the Holy
 One, blessed be He, tested our forefathers*," and they were found
 wanting in all of them. They are as follows: In the wilderness, in the
 plain, opposite Suph, between Paran and Thophel and Laban and Chazeroth
@@ -328,7 +328,7 @@ written \[ibid. xvii. 3\]: "And the people thirsted there for water."
 say: This has reference to Michah's graven image. "Between Paran"--where
 the incident of the spies occurred \[Numb. xiii. 3\]: "And Moses sent
 them out from the wilderness of Paran." "And Thophel" refers to the
-nonsense (slander) <span id="fr_77"></span>[2](#fn_75) they talked of
+nonsense (slander) <span id="fr_77"></span>[2](#fn_75.md) they talked of
 the manna. "And Laban"--this is the dissension of Korah. "And
 Chazeroth"--near which place the incident of the quails occurred. All
 these are seven, and somewhere else it is written \[Deut. ix. 22\]: "And
@@ -371,7 +371,7 @@ the latter is more beloved.
 
 It is said \[Ps. lxxx. 14\]: "The boar out of the forest doth gnaw at
 it." Is it not written *out of the river*? <span
-id="fr_78"></span>[1](#fn_76) The difference in the two words implies
+id="fr_78"></span>[1](#fn_76.md) The difference in the two words implies
 this: As long as Israel act contrary to the will of the Omnipotent, the
 idolaters are likened to them as a boar out of the forest, which kills
 the people, damages the cattle, and is an affliction to mankind.
@@ -522,7 +522,7 @@ were made.
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_79"></span>[1](#fn_77)Ten miracles were performed for our
+ <span id="fr_79"></span>[1](#fn_77.md)Ten miracles were performed for our
 forefathers in Jerusalem: The holy meat was never spoiled; no woman
 miscarried from the scent of the holy meat; no one was ever injured; no
 accident ever happened to any one; no one ever stumbled; no
@@ -640,7 +640,7 @@ assembled in it.
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_80"></span>[1](#fn_78)"*The men of Sodom*"--have no share
+ <span id="fr_80"></span>[1](#fn_78.md)"*The men of Sodom*"--have no share
 in the world to come, and they are not judged, as it is written \[Gen.
 xiii. 13\]: "But the men of Sodom were wicked and sinners before the
 Lord exceedingly." "Wicked"--one with another; "sinners"--in
@@ -693,7 +693,7 @@ bringeth down to the grave, and bringeth up' \[I Samuel, ii. 6\], have
 reference to them, because here is mentioned the grave, as it is written
 \[Numb. xvi. 33\]: 'And they went down, they and all they that
 appertained to them, alive into the pit.' <span
-id="fr_81"></span>[1](#fn_79) Also there it is mentioned. in both cases
+id="fr_81"></span>[1](#fn_79.md) Also there it is mentioned. in both cases
 the bringing up from the grave is included." Said R. Eliezer to him: "If
 so, how are we to understand, 'And the earth closed over them and they
 disappeared from the midst of the congregation'?" He answered: "We are
@@ -787,7 +787,7 @@ has no share in the world to come"; and R. Aqiba said: "Also those who
 do not serve the sages."
 
 MISHNA *I*. Seven things mark the clod, <span
-id="fr_82"></span>[1](#fn_80) and seven there are for the sage. The wise
+id="fr_82"></span>[1](#fn_80.md) and seven there are for the sage. The wise
 man does not speak before those who surpass him in wisdom and years; he
 does not interrupt another in his speech, he is not hasty in answering;
 he does not ask questions rashly; asks with propriety and to the point;
@@ -798,7 +798,7 @@ of these things mark the clod.
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_83"></span>[2](#fn_81)There are seven creations of as many
+ <span id="fr_83"></span>[2](#fn_81.md)There are seven creations of as many
 grades of importance. The sky is very important; but more important are
 the stars, because they light up the world. Of a higher grade than the
 stars are the trees, because they produce fruit, and the stars do not.
@@ -822,11 +822,11 @@ The evil spirits (Shedim; Deut. xxxii. 17) possess six qualifications
 three of which belong to man, and three to the angels; namely, they eat
 and drink, multiply, and die as men do; but they have wings, a knowledge
 of the future, and traverse from one end of the world to another, just
-as the angels do. <span id="fr_84"></span>[1](#fn_82) There are others
+as the angels do. <span id="fr_84"></span>[1](#fn_82.md) There are others
 who say: They also can assume any shape and form they like, and see but
 are not seen.
 
-The rabbis taught: <span id="fr_85"></span>[2](#fn_83) There are seven
+The rabbis taught: <span id="fr_85"></span>[2](#fn_83.md) There are seven
 sorts of hypocrites (who try to show themselves as if they were of the
 true Pharisees), and they are: Shichmi; Niqpi; Qoosai; Medukhia; "What
 more is my duty, and I will do it?"; Pharisee of love; and Pharisee of
@@ -988,7 +988,7 @@ dearth comes.
 
 MISHNA *K*. Pestilence comes unto the world for the capital crimes
 mentioned in the Torah, which are not to be brought before the
-tribunal, <span id="fr_86"></span>[1](#fn_84) and for the seventh-year
+tribunal, <span id="fr_86"></span>[1](#fn_84.md) and for the seventh-year
 fruits.
 
 MISHNA *L*. The sword comes upon the world for suppression or perversion
@@ -1009,7 +1009,7 @@ account of the largesses of the poor.
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_87"></span>[2](#fn_85)"*Seven kinds of chastisements*,"
+ <span id="fr_87"></span>[2](#fn_85.md)"*Seven kinds of chastisements*,"
 etc. Said R. Jose: Because of the sin of the first dough, there is no
 blessing in the fruit, and the people are delivered into the hands of
 their enemies, as it is written \[Lev. xxvi. 16\]: "And ye shall sow in
@@ -1102,7 +1102,7 @@ Sabbaths, all the days of its desolation."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_88"></span>[1](#fn_86)Five are not to be forgiven: The one
+ <span id="fr_88"></span>[1](#fn_86.md)Five are not to be forgiven: The one
 who sins relying that he will repent, and repents and sins again (and
 thus he sins too much and repents too much); the one who sins relying
 upon the forgiveness of the day of atonement; and the one who instigates
@@ -1153,7 +1153,7 @@ keep thine own," holds the common view. Some consider this the view of
 
 <span id="page_131">p. 131</span>
 
-the men of Sodom. <span id="fr_89"></span>[1](#fn_87) "Mine shall be
+the men of Sodom. <span id="fr_89"></span>[1](#fn_87.md) "Mine shall be
 thine, and thine shall be mine," thus say the ignorant. "Mine shall be
 thine, and thou shalt also keep thine own," thus says the magnanimous.
 "Thine shall be mine, and mine shall continue to be mine," are the words
@@ -1272,77 +1272,77 @@ affliction."
 
 ### Footnotes
 
-<span id="fn_68"></span>[106:1](abo09.htm#fr_69) Chapter XXXII. of the
+<span id="fn_68"></span>[106:1](abo09.htm#fr_69.md) Chapter XXXII. of the
 original.
 
-<span id="fn_69"></span>[108:1](abo09.htm#fr_70) Chapter XXXIII. of the
+<span id="fn_69"></span>[108:1](abo09.htm#fr_70.md) Chapter XXXIII. of the
 original.
 
-<span id="fn_70"></span>[109:1](abo09.htm#fr_72) The Hebrew term for
+<span id="fn_70"></span>[109:1](abo09.htm#fr_72.md) The Hebrew term for
 both "glitter" and "lightning" is ‏ברק‎.
 
-<span id="fn_71"></span>[109:2](abo09.htm#fr_73) The text reads
+<span id="fn_71"></span>[109:2](abo09.htm#fr_73.md) The text reads
 "nekabim," and the verse quoted begins with "nakab-tha" hence the
 supposition.
 
-<span id="fn_72"></span>[110:1](abo09.htm#fr_74) ‏חמר‎ means both "loam"
+<span id="fn_72"></span>[110:1](abo09.htm#fr_74.md) ‏חמר‎ means both "loam"
 and "billows."
 
-<span id="fn_73"></span>[110:2](abo09.htm#fr_75) ‏נד‎ is 'wall," ‏נאד‎
+<span id="fn_73"></span>[110:2](abo09.htm#fr_75.md) ‏נד‎ is 'wall," ‏נאד‎
 is "bottle," The Talmud plays on the similarity of the two words.
 
-<span id="fn_74"></span>[111:1](abo09.htm#fr_76) Chapter XXXIV. of the
+<span id="fn_74"></span>[111:1](abo09.htm#fr_76.md) Chapter XXXIV. of the
 original.
 
-<span id="fn_75"></span>[111:2](abo09.htm#fr_77) ‏תפל‎ in Hebrew means
+<span id="fn_75"></span>[111:2](abo09.htm#fr_77.md) ‏תפל‎ in Hebrew means
 also "nonsense."
 
-<span id="fn_76"></span>[112:1](abo09.htm#fr_78) ‏יאר‎ in Hebrew means a
+<span id="fn_76"></span>[112:1](abo09.htm#fr_78.md) ‏יאר‎ in Hebrew means a
 "river" and ‏יער‎ means a "forest"; in the verse quoted the latter word
 is used, but the Massorah says that the middle letter is suspended above
 the line, and the Talmud maintains that this shows that originally the
 first-mentioned word was used, but subsequently the middle letter was
 changed and the change indicated by the suspension.
 
-<span id="fn_77"></span>[116:1](abo09.htm#fr_79) Chapter XXXV. of the
+<span id="fn_77"></span>[116:1](abo09.htm#fr_79.md) Chapter XXXV. of the
 original.
 
-<span id="fn_78"></span>[119:1](abo09.htm#fr_80) Chapter XXXVI. of the
+<span id="fn_78"></span>[119:1](abo09.htm#fr_80.md) Chapter XXXVI. of the
 original.
 
-<span id="fn_79"></span>[120:1](abo09.htm#fr_81) The Hebrew term for
+<span id="fn_79"></span>[120:1](abo09.htm#fr_81.md) The Hebrew term for
 both "grave" and "pit" is *sheol*, hence the analogy.
 
-<span id="fn_80"></span>[122:1](abo09.htm#fr_82) According to
+<span id="fn_80"></span>[122:1](abo09.htm#fr_82.md) According to
 Maimonides.
 
-<span id="fn_81"></span>[122:2](abo09.htm#fr_83) Chapter XXXVII. of the
+<span id="fn_81"></span>[122:2](abo09.htm#fr_83.md) Chapter XXXVII. of the
 original.
 
-<span id="fn_82"></span>[123:1](abo09.htm#fr_84) See Section Moed, Vol.
+<span id="fn_82"></span>[123:1](abo09.htm#fr_84.md) See Section Moed, Vol.
 VI., Hagiga, 37. The repetition here is because of this addition.
 
-<span id="fn_83"></span>[123:2](abo09.htm#fr_85) Here is a statement
+<span id="fn_83"></span>[123:2](abo09.htm#fr_85.md) Here is a statement
 which is repeated in Tract Sota, 22*b*, under the heading: "The rabbis
 taught." As there it is more comprehensible, we prefer to give it here
 in that form.
 
-<span id="fn_84"></span>[127:1](abo09.htm#fr_86) According to Rashi, it
+<span id="fn_84"></span>[127:1](abo09.htm#fr_86.md) According to Rashi, it
 means when the Jewish tribunal ceased its existence during the last
 years of the Second Temple; and according to other commentaries it means
 Kareth and heavenly death, with which the earthly tribunals had nothing
 to do.
 
-<span id="fn_85"></span>[127:2](abo09.htm#fr_87) Chapter XXXVIII. of the
+<span id="fn_85"></span>[127:2](abo09.htm#fr_87.md) Chapter XXXVIII. of the
 original.
 
-<span id="fn_86"></span>[129:1](abo09.htm#fr_88) Chapter XXXIX. of the
+<span id="fn_86"></span>[129:1](abo09.htm#fr_88.md) Chapter XXXIX. of the
 original.
 
-<span id="fn_87"></span>[131:1](abo09.htm#fr_89) *i.e.*, "I do not wish
+<span id="fn_87"></span>[131:1](abo09.htm#fr_89.md) *i.e.*, "I do not wish
 to derive benefit from others, and no one shall derive benefit from me."
 This was the method of the Sodomites.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI.](abo10)
+[Next: Chapter VI.](abo10.md)

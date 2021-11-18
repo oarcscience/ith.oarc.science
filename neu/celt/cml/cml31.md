@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml30)  [Next](cml32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml30)  [Next](cml32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,4166 +14,4166 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
 
 # INDEX
 
-Aberffraw, marriage of Branwen at, [289](cml22.htm#page_289).
+Aberffraw, marriage of Branwen at, [289](cml22.htm#page_289.md).
 
-Abergeleu, sacred well at, [415](cml29.htm#page_415).
+Abergeleu, sacred well at, [415](cml29.htm#page_415.md).
 
-Achill Island, folk-tales preserved at, [233](cml19.htm#page_233).
+Achill Island, folk-tales preserved at, [233](cml19.htm#page_233.md).
 
-Achilles, the Irish, [158](cml16.htm#page_158).
+Achilles, the Irish, [158](cml16.htm#page_158.md).
 
-Achren, battle of, [305](cml24.htm#page_305), [306](cml24.htm#page_306);
-castle of, [320](cml25.htm#page_320).
+Achren, battle of, [305](cml24.htm#page_305), [306](cml24.htm#page_306.md);
+castle of, [320](cml25.htm#page_320.md).
 
-Acrisius, [236](cml19.htm#page_236).
+Acrisius, [236](cml19.htm#page_236.md).
 
-Adamnan's *Life of Saint Columba*, [401](cml29.htm#page_401),
-[417](cml29.htm#page_417).
+Adamnan's *Life of Saint Columba*, [401](cml29.htm#page_401.md),
+[417](cml29.htm#page_417.md).
 
-Advocates' Library at Edinburgh, [11](cml06.htm#page_11),
-[190](cml17.htm#page_190).
+Advocates' Library at Edinburgh, [11](cml06.htm#page_11.md),
+[190](cml17.htm#page_190.md).
 
-Aebh, wife of Lêr, [142](cml15.htm#page_142).
+Aebh, wife of Lêr, [142](cml15.htm#page_142.md).
 
-Aed, son of Lêr, [143](cml15.htm#page_143).
+Aed, son of Lêr, [143](cml15.htm#page_143.md).
 
-Aedh, son of Miodhchaoin, [105](cml12.htm#page_105).
+Aedh, son of Miodhchaoin, [105](cml12.htm#page_105.md).
 
-Aeife, wife of Lêr, [142](cml15.htm#page_142),
-[143](cml15.htm#page_143), [144](cml15.htm#page_144).
+Aeife, wife of Lêr, [142](cml15.htm#page_142.md),
+[143](cml15.htm#page_143), [144](cml15.htm#page_144.md).
 
-Aerfon, a title of the river Dee, [413](cml29.htm#page_413).
+Aerfon, a title of the river Dee, [413](cml29.htm#page_413.md).
 
 *Æs Sídhe*, the "folk of the mounds", the gods or fairies,
-[137](cml15.htm#page_137), [168](cml16.htm#page_168).
+[137](cml15.htm#page_137), [168](cml16.htm#page_168.md).
 
-Africa, [19](cml07.htm#page_19).[120](cml14.htm#page_120),
-[274](cml20.htm#page_274), [324](cml25.htm#page_324).
+Africa, [19](cml07.htm#page_19).[120](cml14.htm#page_120.md),
+[274](cml20.htm#page_274), [324](cml25.htm#page_324.md).
 
-Aganippus, king of the Franks, [382](cml28.htm#page_382),
-[383](cml28.htm#page_383).
+Aganippus, king of the Franks, [382](cml28.htm#page_382.md),
+[383](cml28.htm#page_383.md).
 
-Agriculture god of, British, [261](cml20.htm#page_261); a Gaulish,
-[274](cml20.htm#page_274).
+Agriculture god of, British, [261](cml20.htm#page_261.md); a Gaulish,
+[274](cml20.htm#page_274.md).
 
-Ailbhe, foster-daughter of Bodb the Red, [142](cml15.htm#page_142).
+Ailbhe, foster-daughter of Bodb the Red, [142](cml15.htm#page_142.md).
 
-Aileach, grave of Nuada at, [122](cml14.htm#page_122),
-[157](cml16.htm#page_157).
+Aileach, grave of Nuada at, [122](cml14.htm#page_122.md),
+[157](cml16.htm#page_157.md).
 
-Ailill, king of Connaught, [147](cml15.htm#page_147),
-[154](cml16.htm#page_154), [164](cml16.htm#page_164),
-[165](cml16.htm#page_165), [175](cml16.htm#page_175),
-[179](cml16.htm#page_179), [200](cml17.htm#page_200).
+Ailill, king of Connaught, [147](cml15.htm#page_147.md),
+[154](cml16.htm#page_154), [164](cml16.htm#page_164.md),
+[165](cml16.htm#page_165), [175](cml16.htm#page_175.md),
+[179](cml16.htm#page_179), [200](cml17.htm#page_200.md).
 
-Ailinn, love-story of, [188](cml17.htm#page_188),
-[189](cml17.htm#page_189).
+Ailinn, love-story of, [188](cml17.htm#page_188.md),
+[189](cml17.htm#page_189.md).
 
-Ailioll of Arran, [142](cml15.htm#page_142).
+Ailioll of Arran, [142](cml15.htm#page_142.md).
 
 Ainé, queen of the fairies of South Munster,
-[244](cml19.htm#page_244)-[246](cml19.htm#page_246).
+[244](cml19.htm#page_244)-[246](cml19.htm#page_246.md).
 
-Ainle, one of the sons of Usnach, [192](cml17.htm#page_192),
-[193](cml17.htm#page_193), [196](cml17.htm#page_196).
+Ainle, one of the sons of Usnach, [192](cml17.htm#page_192.md),
+[193](cml17.htm#page_193), [196](cml17.htm#page_196.md).
 
-Airceltrai, the *sídh* of Ogma, [136](cml15.htm#page_136),
-[157](cml16.htm#page_157).
+Airceltrai, the *sídh* of Ogma, [136](cml15.htm#page_136.md),
+[157](cml16.htm#page_157.md).
 
-Airem, Eochaid, high king of Ireland, [147](cml15.htm#page_147),
-[148](cml15.htm#page_148), [149](cml15.htm#page_149),
-[150](cml15.htm#page_150), [151](cml15.htm#page_151),
-[152](cml15.htm#page_152), [331](cml25.htm#page_331),
-[332](cml25.htm#page_332).
+Airem, Eochaid, high king of Ireland, [147](cml15.htm#page_147.md),
+[148](cml15.htm#page_148), [149](cml15.htm#page_149.md),
+[150](cml15.htm#page_150), [151](cml15.htm#page_151.md),
+[152](cml15.htm#page_152), [331](cml25.htm#page_331.md),
+[332](cml25.htm#page_332.md).
 
-*Airem*, meaning of the word, [149](cml15.htm#page_149),
-[333](cml25.htm#page_333).
+*Airem*, meaning of the word, [149](cml15.htm#page_149.md),
+[333](cml25.htm#page_333.md).
 
-Airmid, daughter of Diancecht, [80](cml11.htm#page_80),
-[81](cml11.htm#page_81), [82](cml11.htm#page_82),
-[110](cml13.htm#page_110).
+Airmid, daughter of Diancecht, [80](cml11.htm#page_80.md),
+[81](cml11.htm#page_81), [82](cml11.htm#page_82.md),
+[110](cml13.htm#page_110.md).
 
-Alator, a war-god worshipped in Britain, [275](cml20.htm#page_275).
+Alator, a war-god worshipped in Britain, [275](cml20.htm#page_275.md).
 
-Alaw, river in Anglesey, [294](cml22.htm#page_294),
-[295](cml22.htm#page_295).
+Alaw, river in Anglesey, [294](cml22.htm#page_294.md),
+[295](cml22.htm#page_295.md).
 
-Alba, [97](cml12.htm#page_97), [104](cml12.htm#page_104),
-[163](cml16.htm#page_163), [178](cml16.htm#page_178),
-[192](cml17.htm#page_192), [193](cml17.htm#page_193),
-[196](cml17.htm#page_196), [382](cml28.htm#page_382); Deirdre 's
-farewell to, [194](cml17.htm#page_194)-[195](cml17.htm#page_195).
+Alba, [97](cml12.htm#page_97), [104](cml12.htm#page_104.md),
+[163](cml16.htm#page_163), [178](cml16.htm#page_178.md),
+[192](cml17.htm#page_192), [193](cml17.htm#page_193.md),
+[196](cml17.htm#page_196), [382](cml28.htm#page_382.md); Deirdre 's
+farewell to, [194](cml17.htm#page_194)-[195](cml17.htm#page_195.md).
 
-Albania, a name for Alba, [382](cml28.htm#page_382).
+Albania, a name for Alba, [382](cml28.htm#page_382.md).
 
-Ale of Goibniu, [61](cml09.htm#page_61).
+Ale of Goibniu, [61](cml09.htm#page_61.md).
 
-Allobroges, [384](cml28.htm#page_384), [385](cml28.htm#page_385).
+Allobroges, [384](cml28.htm#page_384), [385](cml28.htm#page_385.md).
 
 Amaethon, son of Dôn, British god of Agriculture,
-[261](cml20.htm#page_261), [305](cml24.htm#page_305),
-[308](cml24.htm#page_308), [313](cml25.htm#page_313),
-[316](cml25.htm#page_316), [345](cml26.htm#page_345); fights against
+[261](cml20.htm#page_261), [305](cml24.htm#page_305.md),
+[308](cml24.htm#page_308), [313](cml25.htm#page_313.md),
+[316](cml25.htm#page_316), [345](cml26.htm#page_345.md); fights against
 Brân in the battle of Achren,
-[305](cml24.htm#page_305)-[308](cml24.htm#page_308); assists Kulhwch to
-win Olwen, [345](cml26.htm#page_345).
+[305](cml24.htm#page_305)-[308](cml24.htm#page_308.md); assists Kulhwch to
+win Olwen, [345](cml26.htm#page_345.md).
 
 Amergin, druid of the Milesians,
-[123](cml14.htm#page_123)-[130](cml14.htm#page_130).
+[123](cml14.htm#page_123)-[130](cml14.htm#page_130.md).
 
-Amesbury, "castle" of, [29](cml07.htm#page_29).
+Amesbury, "castle" of, [29](cml07.htm#page_29.md).
 
-Amlwch, stream of, [295](cml22.htm#page_295).
+Amlwch, stream of, [295](cml22.htm#page_295.md).
 
 Ana, see Anu.
 
 Ancient Britons, who were the,
-[18](cml07.htm#page_18)-[23](cml07.htm#page_23).
+[18](cml07.htm#page_18)-[23](cml07.htm#page_23.md).
 
-Aneurin, a sixth-century British bard. [11](cml06.htm#page_11),
-[295](cml22.htm#page_295), [372](cml28.htm#page_372).
+Aneurin, a sixth-century British bard. [11](cml06.htm#page_11.md),
+[295](cml22.htm#page_295), [372](cml28.htm#page_372.md).
 
-Aneurin, the Book of, [11](cml06.htm#page_11).
+Aneurin, the Book of, [11](cml06.htm#page_11.md).
 
-Anglesey, island of, [289](cml22.htm#page_289),
-[294](cml22.htm#page_294), [322](cml25.htm#page_322),
-[388](cml28.htm#page_388), [400](cml29.htm#page_400).
+Anglesey, island of, [289](cml22.htm#page_289.md),
+[294](cml22.htm#page_294), [322](cml25.htm#page_322.md),
+[388](cml28.htm#page_388), [400](cml29.htm#page_400.md).
 
-Anglo-Saxon, our descent not entirely, [3](cml05.htm#page_3).
+Anglo-Saxon, our descent not entirely, [3](cml05.htm#page_3.md).
 
-Anguish, Anguissance, king of Ireland, [357](cml27.htm#page_357).
+Anguish, Anguissance, king of Ireland, [357](cml27.htm#page_357.md).
 
-Angus, Gaelic god of love and beauty, [56](cml09.htm#page_56),
-[79](cml11.htm#page_79), [80](cml11.htm#page_80),
-[117](cml13.htm#page_117), [136](cml15.htm#page_136),
-[139](cml15.htm#page_139)-[142](cml15.htm#page_142),
-[147](cml15.htm#page_147), [156](cml16.htm#page_156),
-[157](cml16.htm#page_157), [205](cml18.htm#page_205),
-[211](cml18.htm#page_211)-[214](cml18.htm#page_214),
-[217](cml18.htm#page_217), [218](cml18.htm#page_218),
-[221](cml18.htm#page_221), [240](cml19.htm#page_240); his attributes,
-[56](cml09.htm#page_56); his wooing of Caer,
-[140](cml15.htm#page_140)-[142](cml15.htm#page_142); cheats his father,
-the Dagda, [139](cml15.htm#page_139); steals Etain from Mider,
-[147](cml15.htm#page_147); helps Diarmait and Grainne,
-[217](cml18.htm#page_217), [218](cml18.htm#page_218),
-[221](cml18.htm#page_221); matches his pigs against the Fenians,
-[213](cml18.htm#page_213)-[214](cml18.htm#page_214).
+Angus, Gaelic god of love and beauty, [56](cml09.htm#page_56.md),
+[79](cml11.htm#page_79), [80](cml11.htm#page_80.md),
+[117](cml13.htm#page_117), [136](cml15.htm#page_136.md),
+[139](cml15.htm#page_139)-[142](cml15.htm#page_142.md),
+[147](cml15.htm#page_147), [156](cml16.htm#page_156.md),
+[157](cml16.htm#page_157), [205](cml18.htm#page_205.md),
+[211](cml18.htm#page_211)-[214](cml18.htm#page_214.md),
+[217](cml18.htm#page_217), [218](cml18.htm#page_218.md),
+[221](cml18.htm#page_221), [240](cml19.htm#page_240.md); his attributes,
+[56](cml09.htm#page_56.md); his wooing of Caer,
+[140](cml15.htm#page_140)-[142](cml15.htm#page_142.md); cheats his father,
+the Dagda, [139](cml15.htm#page_139.md); steals Etain from Mider,
+[147](cml15.htm#page_147.md); helps Diarmait and Grainne,
+[217](cml18.htm#page_217), [218](cml18.htm#page_218.md),
+[221](cml18.htm#page_221.md); matches his pigs against the Fenians,
+[213](cml18.htm#page_213)-[214](cml18.htm#page_214.md).
 
-Anicetus, Sol Apollo, a Romano-British god, [275](cml20.htm#page_275).
+Anicetus, Sol Apollo, a Romano-British god, [275](cml20.htm#page_275.md).
 
-Animals, sacred, [406](cml29.htm#page_406), [416](cml29.htm#page_416),
-[417](cml29.htm#page_417); sacrifices of, [406](cml29.htm#page_406),
-[411](cml29.htm#page_411), [412](cml29.htm#page_412),
-[413](cml29.htm#page_413).
+Animals, sacred, [406](cml29.htm#page_406), [416](cml29.htm#page_416.md),
+[417](cml29.htm#page_417); sacrifices of, [406](cml29.htm#page_406.md),
+[411](cml29.htm#page_411), [412](cml29.htm#page_412.md),
+[413](cml29.htm#page_413.md).
 
-Anna, sister of Arthur, [323](cml25.htm#page_323).
+Anna, sister of Arthur, [323](cml25.htm#page_323.md).
 
-*Annals of the Four Masters*, [204](cml18.htm#page_204).
+*Annals of the Four Masters*, [204](cml18.htm#page_204.md).
 
-Annwn, the British Otherworld, [254](cml20.htm#page_254),
+Annwn, the British Otherworld, [254](cml20.htm#page_254.md),
 
 <span id="page_426">p. 426</span>
 
-[273](cml20.htm#page_273),
-[278](cml21.htm#page_278)-[282](cml21.htm#page_282),
-[303](cml23.htm#page_303), [308](cml24.htm#page_308),
-[309](cml24.htm#page_309), [318](cml25.htm#page_318),
-[319](cml25.htm#page_319) [321](cml25.htm#page_321),
-[390](cml28.htm#page_390), [391](cml28.htm#page_391).
+[273](cml20.htm#page_273.md),
+[278](cml21.htm#page_278)-[282](cml21.htm#page_282.md),
+[303](cml23.htm#page_303), [308](cml24.htm#page_308.md),
+[309](cml24.htm#page_309), [318](cml25.htm#page_318.md),
+[319](cml25.htm#page_319) [321](cml25.htm#page_321.md),
+[390](cml28.htm#page_390), [391](cml28.htm#page_391.md).
 
-*Annwn, the Spoiling of*, a poem by Taliesin, [305](cml24.htm#page_305),
-[306](cml24.htm#page_306), [317](cml25.htm#page_317),
-[366](cml27.htm#page_366).
+*Annwn, the Spoiling of*, a poem by Taliesin, [305](cml24.htm#page_305.md),
+[306](cml24.htm#page_306), [317](cml25.htm#page_317.md),
+[366](cml27.htm#page_366.md).
 
 Anu, or Ana, a Gaelic goddess o, prosperity and abundance,
-[50](cml09.htm#page_50); the "Paps of Ana", [50](cml09.htm#page_50);
-still living in folklore as Aynia and Ainé, [245](cml19.htm#page_245).
+[50](cml09.htm#page_50); the "Paps of Ana", [50](cml09.htm#page_50.md);
+still living in folklore as Aynia and Ainé, [245](cml19.htm#page_245.md).
 
 Aoibhinn, queen of the fairies of North Munster,
-[244](cml19.htm#page_244).
+[244](cml19.htm#page_244.md).
 
-Aoife, an Amazon defeated by Cuchulainn, [164](cml16.htm#page_164),
-[176](cml16.htm#page_176), [197](cml17.htm#page_197).
+Aoife, an Amazon defeated by Cuchulainn, [164](cml16.htm#page_164.md),
+[176](cml16.htm#page_176), [197](cml17.htm#page_197.md).
 
-Aphrodité, the British, [271](cml20.htm#page_271),
-[388](cml28.htm#page_388).
+Aphrodité, the British, [271](cml20.htm#page_271.md),
+[388](cml28.htm#page_388.md).
 
-Apollo, the Gaelic, [62](cml09.htm#page_62); the British,
-[262](cml20.htm#page_262); a temple of, in Britain,
-[42](cml08.htm#page_42), [325](cml25.htm#page_325).
+Apollo, the Gaelic, [62](cml09.htm#page_62.md); the British,
+[262](cml20.htm#page_262.md); a temple of, in Britain,
+[42](cml08.htm#page_42), [325](cml25.htm#page_325.md).
 
-Apples, of the Garden of the Hesperides, [98](cml12.htm#page_98),
-[99](cml12.htm#page_99), [102](cml12.htm#page_102); in the Celtic
-Elysium, [98](cml12.htm#page_98), [136](cml15.htm#page_136).
+Apples, of the Garden of the Hesperides, [98](cml12.htm#page_98.md),
+[99](cml12.htm#page_99), [102](cml12.htm#page_102.md); in the Celtic
+Elysium, [98](cml12.htm#page_98), [136](cml15.htm#page_136.md).
 
-Apple-tree of Ailenn, [189](cml17.htm#page_189).
+Apple-tree of Ailenn, [189](cml17.htm#page_189.md).
 
-Aquitani, [22](cml07.htm#page_22).
+Aquitani, [22](cml07.htm#page_22.md).
 
-Aranon, son of Milé, [123](cml14.htm#page_123).
+Aranon, son of Milé, [123](cml14.htm#page_123.md).
 
-Arawn, king of Annwn, [279](cml21.htm#page_279),
-[280](cml21.htm#page_280), [281](cml21.htm#page_281),
-[306](cml24.htm#page_306), [308](cml24.htm#page_308),
-[309](cml24.htm#page_309), [312](cml25.htm#page_312),
-[315](cml25.htm#page_315), [329](cml25.htm#page_329),
-[357](cml27.htm#page_357), [375](cml28.htm#page_375).
+Arawn, king of Annwn, [279](cml21.htm#page_279.md),
+[280](cml21.htm#page_280), [281](cml21.htm#page_281.md),
+[306](cml24.htm#page_306), [308](cml24.htm#page_308.md),
+[309](cml24.htm#page_309), [312](cml25.htm#page_312.md),
+[315](cml25.htm#page_315), [329](cml25.htm#page_329.md),
+[357](cml27.htm#page_357), [375](cml28.htm#page_375.md).
 
-Ardan, a son of Usnach, [192](cml17.htm#page_192),
-[193](cml17.htm#page_193), [196](cml17.htm#page_196).
+Ardan, a son of Usnach, [192](cml17.htm#page_192.md),
+[193](cml17.htm#page_193), [196](cml17.htm#page_196.md).
 
-Ard Chein, [93](cml12.htm#page_93).
+Ard Chein, [93](cml12.htm#page_93.md).
 
-Arddu, Black Stone of, [305](cml24.htm#page_305).
+Arddu, Black Stone of, [305](cml24.htm#page_305.md).
 
-Arês, [52](cml09.htm#page_52).
+Arês, [52](cml09.htm#page_52.md).
 
-*Argetlám*, [49](cml09.htm#page_49), [78](cml11.htm#page_78).
+*Argetlám*, [49](cml09.htm#page_49), [78](cml11.htm#page_78.md).
 
 Arianrod, a British goddess,
-[261](cml20.htm#page_261)-[265](cml20.htm#page_265),
-[313](cml25.htm#page_313), [317](cml25.htm#page_317),
-[322](cml25.htm#page_322), [364](cml27.htm#page_364),
-[371](cml28.htm#page_371); her place in later legend taken by Arthur's
-sister, [364](cml27.htm#page_364).
+[261](cml20.htm#page_261)-[265](cml20.htm#page_265.md),
+[313](cml25.htm#page_313), [317](cml25.htm#page_317.md),
+[322](cml25.htm#page_322), [364](cml27.htm#page_364.md),
+[371](cml28.htm#page_371.md); her place in later legend taken by Arthur's
+sister, [364](cml27.htm#page_364.md).
 
-Armagh, [136](cml15.htm#page_136), [158](cml16.htm#page_158).
+Armagh, [136](cml15.htm#page_136), [158](cml16.htm#page_158.md).
 
-Arnold, Matthew, [3](cml05.htm#page_3), [16](cml06.htm#page_16),
-[356](cml27.htm#page_356).
+Arnold, Matthew, [3](cml05.htm#page_3), [16](cml06.htm#page_16.md),
+[356](cml27.htm#page_356.md).
 
-Arran, Isle of, [60](cml09.htm#page_60), [142](cml15.htm#page_142),
-[415](cml29.htm#page_415).
+Arran, Isle of, [60](cml09.htm#page_60), [142](cml15.htm#page_142.md),
+[415](cml29.htm#page_415.md).
 
-Art, the "Lonely", king of Tara, [189](cml17.htm#page_189),
-[202](cml18.htm#page_202).
+Art, the "Lonely", king of Tara, [189](cml17.htm#page_189.md),
+[202](cml18.htm#page_202.md).
 
-Artaius, Mercurius, a Gaulish god, [274](cml20.htm#page_274).
+Artaius, Mercurius, a Gaulish god, [274](cml20.htm#page_274.md).
 
-Arthur, [6](cml05.htm#page_6), [8](cml06.htm#page_8),
-[14](cml06.htm#page_14), [155](cml16.htm#page_155),
-[202](cml18.htm#page_202), [222](cml18.htm#page_222),
-[246](cml19.htm#page_246), [258](cml20.htm#page_258),
-[259](cml20.htm#page_259), [271](cml20.htm#page_271),
-[273](cml20.htm#page_273), [274](cml20.htm#page_274),
-[276](cml20.htm#page_276), [296](cml22.htm#page_296),
-[304](cml23.htm#page_304), [306](cml24.htm#page_306),
-[311](cml24.htm#page_311),
-[312](cml25.htm#page_312)-[320](cml25.htm#page_320),
-[322](cml25.htm#page_322), [323](cml25.htm#page_323),
-[326](cml25.htm#page_326), [327](cml25.htm#page_327),
-[328](cml25.htm#page_328), [329](cml25.htm#page_329),
-[330](cml25.htm#page_330)-[343](cml26.htm#page_343),
-[348](cml26.htm#page_348), [349](cml26.htm#page_349),
-[351](cml26.htm#page_351)-[360](cml27.htm#page_360),
-[362](cml27.htm#page_362),
-[364](cml27.htm#page_364)-[366](cml27.htm#page_366),
-[368](cml27.htm#page_368), [371](cml28.htm#page_371),
-[374](cml28.htm#page_374)-[376](cml28.htm#page_376),
-[392](cml28.htm#page_392), [407](cml29.htm#page_407); the mythical and
-the historical, [313](cml25.htm#page_313), [314](cml25.htm#page_314);
-assumes the attributes of Gwydion, [316](cml25.htm#page_316); the
+Arthur, [6](cml05.htm#page_6), [8](cml06.htm#page_8.md),
+[14](cml06.htm#page_14), [155](cml16.htm#page_155.md),
+[202](cml18.htm#page_202), [222](cml18.htm#page_222.md),
+[246](cml19.htm#page_246), [258](cml20.htm#page_258.md),
+[259](cml20.htm#page_259), [271](cml20.htm#page_271.md),
+[273](cml20.htm#page_273), [274](cml20.htm#page_274.md),
+[276](cml20.htm#page_276), [296](cml22.htm#page_296.md),
+[304](cml23.htm#page_304), [306](cml24.htm#page_306.md),
+[311](cml24.htm#page_311.md),
+[312](cml25.htm#page_312)-[320](cml25.htm#page_320.md),
+[322](cml25.htm#page_322), [323](cml25.htm#page_323.md),
+[326](cml25.htm#page_326), [327](cml25.htm#page_327.md),
+[328](cml25.htm#page_328), [329](cml25.htm#page_329.md),
+[330](cml25.htm#page_330)-[343](cml26.htm#page_343.md),
+[348](cml26.htm#page_348), [349](cml26.htm#page_349.md),
+[351](cml26.htm#page_351)-[360](cml27.htm#page_360.md),
+[362](cml27.htm#page_362.md),
+[364](cml27.htm#page_364)-[366](cml27.htm#page_366.md),
+[368](cml27.htm#page_368), [371](cml28.htm#page_371.md),
+[374](cml28.htm#page_374)-[376](cml28.htm#page_376.md),
+[392](cml28.htm#page_392), [407](cml29.htm#page_407.md); the mythical and
+the historical, [313](cml25.htm#page_313), [314](cml25.htm#page_314.md);
+assumes the attributes of Gwydion, [316](cml25.htm#page_316.md); the
 Spoiling of Annwn by,
-[319](cml25.htm#page_319)-[322](cml25.htm#page_322); becomes head of the
-British Pantheon, [312](cml25.htm#page_312)-[313](cml25.htm#page_313);
+[319](cml25.htm#page_319)-[322](cml25.htm#page_322.md); becomes head of the
+British Pantheon, [312](cml25.htm#page_312)-[313](cml25.htm#page_313.md);
 wins Olwen for Kulhwch,
-[343](cml26.htm#page_343)-[353](cml26.htm#page_353); in Geoffrey of
-Monmouth's *History*, [374](cml28.htm#page_374),
-[375](cml28.htm#page_375); leads the Wild Hunt,
-[392](cml28.htm#page_392).
+[343](cml26.htm#page_343)-[353](cml26.htm#page_353.md); in Geoffrey of
+Monmouth's *History*, [374](cml28.htm#page_374.md),
+[375](cml28.htm#page_375.md); leads the Wild Hunt,
+[392](cml28.htm#page_392.md).
 
 *Arthurian Legend, Studies in the*, Professor Rhys's,
-[148](cml15.htm#page_148), [158](cml16.htm#page_158),
-[255](cml20.htm#page_255), [257](cml20.htm#page_257),
-[258](cml20.htm#page_258), [269](cml20.htm#page_269),
-[272](cml20.htm#page_272), [274](cml20.htm#page_274),
-[278](cml21.htm#page_278), [285](cml21.htm#page_285),
-[313](cml25.htm#page_313), [314](cml25.htm#page_314),
-[316](cml25.htm#page_316), [321](cml25.htm#page_321),
-[322](cml25.htm#page_322), [323](cml25.htm#page_323),
-[326](cml25.htm#page_326), [327](cml25.htm#page_327),
-[328](cml25.htm#page_328), [329](cml25.htm#page_329),
-[330](cml25.htm#page_330), [331](cml25.htm#page_331),
-[332](cml25.htm#page_332), [333](cml25.htm#page_333),
-[358](cml27.htm#page_358), [359](cml27.htm#page_359),
-[360](cml27.htm#page_360), [364](cml27.htm#page_364),
-[367](cml27.htm#page_367), [368](cml27.htm#page_368),
-[369](cml27.htm#page_369), [370](cml27.htm#page_370),
-[383](cml28.htm#page_383), [387](cml28.htm#page_387),
-[389](cml28.htm#page_389).
+[148](cml15.htm#page_148), [158](cml16.htm#page_158.md),
+[255](cml20.htm#page_255), [257](cml20.htm#page_257.md),
+[258](cml20.htm#page_258), [269](cml20.htm#page_269.md),
+[272](cml20.htm#page_272), [274](cml20.htm#page_274.md),
+[278](cml21.htm#page_278), [285](cml21.htm#page_285.md),
+[313](cml25.htm#page_313), [314](cml25.htm#page_314.md),
+[316](cml25.htm#page_316), [321](cml25.htm#page_321.md),
+[322](cml25.htm#page_322), [323](cml25.htm#page_323.md),
+[326](cml25.htm#page_326), [327](cml25.htm#page_327.md),
+[328](cml25.htm#page_328), [329](cml25.htm#page_329.md),
+[330](cml25.htm#page_330), [331](cml25.htm#page_331.md),
+[332](cml25.htm#page_332), [333](cml25.htm#page_333.md),
+[358](cml27.htm#page_358), [359](cml27.htm#page_359.md),
+[360](cml27.htm#page_360), [364](cml27.htm#page_364.md),
+[367](cml27.htm#page_367), [368](cml27.htm#page_368.md),
+[369](cml27.htm#page_369), [370](cml27.htm#page_370.md),
+[383](cml28.htm#page_383), [387](cml28.htm#page_387.md),
+[389](cml28.htm#page_389.md).
 
-Artur, son of Nemed, [274](cml20.htm#page_274).
+Artur, son of Nemed, [274](cml20.htm#page_274.md).
 
-Aryans, [21](cml07.htm#page_21), [31](cml08.htm#page_31),
-[32](cml08.htm#page_32), [247](cml19.htm#page_247); common traditions of
-the, [32](cml08.htm#page_32), [176](cml16.htm#page_176),
-[189](cml17.htm#page_189); Aryan languages, [21](cml07.htm#page_21).
+Aryans, [21](cml07.htm#page_21), [31](cml08.htm#page_31.md),
+[32](cml08.htm#page_32), [247](cml19.htm#page_247.md); common traditions of
+the, [32](cml08.htm#page_32), [176](cml16.htm#page_176.md),
+[189](cml17.htm#page_189); Aryan languages, [21](cml07.htm#page_21.md).
 
-Astarte, worshipped at Corbridge, [275](cml20.htm#page_275). Astolat,
-[362](cml27.htm#page_362).
+Astarte, worshipped at Corbridge, [275](cml20.htm#page_275.md). Astolat,
+[362](cml27.htm#page_362.md).
 
-Athens, [153](cml16.htm#page_153).
+Athens, [153](cml16.htm#page_153.md).
 
-Athlone, [175](cml16.htm#page_175), [216](cml18.htm#page_216).
+Athlone, [175](cml16.htm#page_175), [216](cml18.htm#page_216.md).
 
-Augusel, a king of Scotland, [375](cml28.htm#page_375).
+Augusel, a king of Scotland, [375](cml28.htm#page_375.md).
 
-Aurelius, a British king, [325](cml25.htm#page_325).
+Aurelius, a British king, [325](cml25.htm#page_325.md).
 
 Avallach, see Avallon.
 
-Avallon, a British god of the Under-world, [329](cml25.htm#page_329),
-[359](cml27.htm#page_359); Isle of, [394](cml28.htm#page_394), and see
+Avallon, a British god of the Under-world, [329](cml25.htm#page_329.md),
+[359](cml27.htm#page_359); Isle of, [394](cml28.htm#page_394.md), and see
 Avilion.
 
-Avebury, the "castle" of, [29](cml07.htm#page_29).
+Avebury, the "castle" of, [29](cml07.htm#page_29.md).
 
-Avilion, [133](cml15.htm#page_133), [315](cml25.htm#page_315),
-[329](cml25.htm#page_329), [332](cml25.htm#page_332),
-[334](cml25.htm#page_334), [335](cml25.htm#page_335),
-[390](cml28.htm#page_390), [394](cml28.htm#page_394).
+Avilion, [133](cml15.htm#page_133), [315](cml25.htm#page_315.md),
+[329](cml25.htm#page_329), [332](cml25.htm#page_332.md),
+[334](cml25.htm#page_334), [335](cml25.htm#page_335.md),
+[390](cml28.htm#page_390), [394](cml28.htm#page_394.md).
 
-Aynia, a fairy queen of Ulster, [245](cml19.htm#page_245).
+Aynia, a fairy queen of Ulster, [245](cml19.htm#page_245.md).
 
  
 
-Babylon, [178](cml16.htm#page_178).
+Babylon, [178](cml16.htm#page_178.md).
 
-Badb, a Gaelic war-goddess, [52](cml09.htm#page_52),
-[53](cml09.htm#page_53), [72](cml10.htm#page_72),
-[117](cml13.htm#page_117), [119](cml14.htm#page_119),
-[245](cml19.htm#page_245); the name often used generically,
-[53](cml09.htm#page_53); description of a, [53](cml09.htm#page_53).
+Badb, a Gaelic war-goddess, [52](cml09.htm#page_52.md),
+[53](cml09.htm#page_53), [72](cml10.htm#page_72.md),
+[117](cml13.htm#page_117), [119](cml14.htm#page_119.md),
+[245](cml19.htm#page_245.md); the name often used generically,
+[53](cml09.htm#page_53); description of a, [53](cml09.htm#page_53.md).
 
-"Badger in the bag", the game of, [285](cml21.htm#page_285),
-[303](cml23.htm#page_303).
+"Badger in the bag", the game of, [285](cml21.htm#page_285.md),
+[303](cml23.htm#page_303.md).
 
-Badon, battle of, [338](cml26.htm#page_338).
+Badon, battle of, [338](cml26.htm#page_338.md).
 
 Baile, love-story of,
-[188](cml17.htm#page_188)-[189](cml17.htm#page_189).
+[188](cml17.htm#page_188)-[189](cml17.htm#page_189.md).
 
-Baile's Strand, [186](cml17.htm#page_186), [188](cml17.htm#page_188).
+Baile's Strand, [186](cml17.htm#page_186), [188](cml17.htm#page_188.md).
 
-Bajocassus, Temple of the sun-god Belinus at, [276](cml20.htm#page_276).
+Bajocassus, Temple of the sun-god Belinus at, [276](cml20.htm#page_276.md).
 
-Bala lake, [265](cml20.htm#page_265).
+Bala lake, [265](cml20.htm#page_265.md).
 
-Balan, [276](cml20.htm#page_276), [357](cml27.htm#page_357),
-[364](cml27.htm#page_364).
+Balan, [276](cml20.htm#page_276), [357](cml27.htm#page_357.md),
+[364](cml27.htm#page_364.md).
 
-Balder, [33](cml08.htm#page_33).
+Balder, [33](cml08.htm#page_33.md).
 
-Balgatan, a mountain near Cong, [73](cml10.htm#page_73).
+Balgatan, a mountain near Cong, [73](cml10.htm#page_73.md).
 
-Balin, [276](cml20.htm#page_276), [357](cml27.htm#page_357),
-[358](cml27.htm#page_358), [364](cml27.htm#page_364).
+Balin, [276](cml20.htm#page_276), [357](cml27.htm#page_357.md),
+[358](cml27.htm#page_358), [364](cml27.htm#page_364.md).
 
-Ballymagauran, village of, [38](cml08.htm#page_38).
+Ballymagauran, village of, [38](cml08.htm#page_38.md).
 
-Ballymote, Book of, [10](cml06.htm#page_10), [38](cml08.htm#page_38),
-[123](cml14.htm#page_123), [138](cml15.htm#page_138),
-[229](cml19.htm#page_229), [231](cml19.htm#page_231).
+Ballymote, Book of, [10](cml06.htm#page_10), [38](cml08.htm#page_38.md),
+[123](cml14.htm#page_123), [138](cml15.htm#page_138.md),
+[229](cml19.htm#page_229), [231](cml19.htm#page_231.md).
 
-Ballysadare, [75](cml10.htm#page_75).
+Ballysadare, [75](cml10.htm#page_75.md).
 
 Balor, a king of the Fomors,
-[48](cml09.htm#page_48)-[49](cml09.htm#page_49),
-[50](cml09.htm#page_50), [79](cml11.htm#page_79),
-[83](cml11.htm#page_83), [84](cml11.htm#page_84),
-[90](cml12.htm#page_90), [112](cml13.htm#page_112),
-[113](cml13.htm#page_113), [120](cml14.htm#page_120),
-[233](cml19.htm#page_233)-[239](cml19.htm#page_239),
-[269](cml20.htm#page_269), [324](cml25.htm#page_324),
-[341](cml26.htm#page_341), [345](cml26.htm#page_345),
-[371](cml28.htm#page_371); his evil eye, [49](cml09.htm#page_49); kills
-Nuada and Macha, [112](cml13.htm#page_112); is blinded by Lugh,
-[112](cml13.htm#page_112); tales of, in modern folklore,
-[233](cml19.htm#page_233)-[239](cml19.htm#page_239).
+[48](cml09.htm#page_48)-[49](cml09.htm#page_49.md),
+[50](cml09.htm#page_50), [79](cml11.htm#page_79.md),
+[83](cml11.htm#page_83), [84](cml11.htm#page_84.md),
+[90](cml12.htm#page_90), [112](cml13.htm#page_112.md),
+[113](cml13.htm#page_113), [120](cml14.htm#page_120.md),
+[233](cml19.htm#page_233)-[239](cml19.htm#page_239.md),
+[269](cml20.htm#page_269), [324](cml25.htm#page_324.md),
+[341](cml26.htm#page_341), [345](cml26.htm#page_345.md),
+[371](cml28.htm#page_371); his evil eye, [49](cml09.htm#page_49.md); kills
+Nuada and Macha, [112](cml13.htm#page_112.md); is blinded by Lugh,
+[112](cml13.htm#page_112.md); tales of, in modern folklore,
+[233](cml19.htm#page_233)-[239](cml19.htm#page_239.md).
 
-"Balor's Hill", [69](cml10.htm#page_69), [90](cml12.htm#page_90).
+"Balor's Hill", [69](cml10.htm#page_69), [90](cml12.htm#page_90.md).
 
-Ban, king of Benwyk, [356](cml27.htm#page_356),
-[360](cml27.htm#page_360), [362](cml27.htm#page_362).
+Ban, king of Benwyk, [356](cml27.htm#page_356.md),
+[360](cml27.htm#page_360), [362](cml27.htm#page_362.md).
 
 <span id="page_427">p. 427</span>
 
-Banba, a goddess representing Ireland, [125](cml14.htm#page_125); an
-ancient name of Ireland, [126](cml14.htm#page_126),
-[153](cml16.htm#page_153).
+Banba, a goddess representing Ireland, [125](cml14.htm#page_125.md); an
+ancient name of Ireland, [126](cml14.htm#page_126.md),
+[153](cml16.htm#page_153.md).
 
-*Banshee*, meaning of the word, [137](cml15.htm#page_137).
+*Banshee*, meaning of the word, [137](cml15.htm#page_137.md).
 
-Baoisgne, Clann, [209](cml18.htm#page_209), [217](cml18.htm#page_217).
+Baoisgne, Clann, [209](cml18.htm#page_209), [217](cml18.htm#page_217.md).
 
-Bards, [32](cml08.htm#page_32), [42](cml08.htm#page_42).
+Bards, [32](cml08.htm#page_32), [42](cml08.htm#page_42.md).
 
-Bardsey Island, [326](cml25.htm#page_326).
+Bardsey Island, [326](cml25.htm#page_326.md).
 
-Barrow, river, how it got its name, [62](cml09.htm#page_62).
+Barrow, river, how it got its name, [62](cml09.htm#page_62.md).
 
-Barrule, South, [242](cml19.htm#page_242).
+Barrule, South, [242](cml19.htm#page_242.md).
 
-Barry, the, [246](cml19.htm#page_246).
+Barry, the, [246](cml19.htm#page_246.md).
 
-Basque race, [19](cml07.htm#page_19).
+Basque race, [19](cml07.htm#page_19.md).
 
-Bath, [228](cml19.htm#page_228), [275](cml20.htm#page_275),
-[276](cml20.htm#page_276), [338](cml26.htm#page_338),
-[381](cml28.htm#page_381).
+Bath, [228](cml19.htm#page_228), [275](cml20.htm#page_275.md),
+[276](cml20.htm#page_276), [338](cml26.htm#page_338.md),
+[381](cml28.htm#page_381.md).
 
 Bathurst's *Roman Antiquities in Lydney Park*,
-[254](cml20.htm#page_254).
+[254](cml20.htm#page_254.md).
 
-Battle of Achren, [305](cml24.htm#page_305); of Badon,
-[338](cml26.htm#page_338); of Camlan, [222](cml18.htm#page_222),
-[315](cml25.htm#page_315), [334](cml25.htm#page_334),
-[337](cml26.htm#page_337), [375](cml28.htm#page_375),
-[376](cml28.htm#page_376); of Clontarf, [53](cml09.htm#page_53); of
-Gabhra, [222](cml18.htm#page_222), [223](cml18.htm#page_223),
-[225](cml18.htm#page_225), [315](cml25.htm#page_315); of Mag Rath,
-[52](cml09.htm#page_52); of Moytura Northern,
-[107](cml13.htm#page_107)-[117](cml13.htm#page_117),
-[407](cml29.htm#page_407); of Moytura Southern,
-[72](cml10.htm#page_72)-[75](cml10.htm#page_75); of the Trees,
-[123](cml14.htm#page_123),
-[305](cml24.htm#page_305)-[308](cml24.htm#page_308).
+Battle of Achren, [305](cml24.htm#page_305.md); of Badon,
+[338](cml26.htm#page_338); of Camlan, [222](cml18.htm#page_222.md),
+[315](cml25.htm#page_315), [334](cml25.htm#page_334.md),
+[337](cml26.htm#page_337), [375](cml28.htm#page_375.md),
+[376](cml28.htm#page_376); of Clontarf, [53](cml09.htm#page_53.md); of
+Gabhra, [222](cml18.htm#page_222), [223](cml18.htm#page_223.md),
+[225](cml18.htm#page_225), [315](cml25.htm#page_315.md); of Mag Rath,
+[52](cml09.htm#page_52.md); of Moytura Northern,
+[107](cml13.htm#page_107)-[117](cml13.htm#page_117.md),
+[407](cml29.htm#page_407.md); of Moytura Southern,
+[72](cml10.htm#page_72)-[75](cml10.htm#page_75.md); of the Trees,
+[123](cml14.htm#page_123.md),
+[305](cml24.htm#page_305)-[308](cml24.htm#page_308.md).
 
-Bayeux, temple of Belinus at, [276](cml20.htm#page_276).
+Bayeux, temple of Belinus at, [276](cml20.htm#page_276.md).
 
-Bean, curious passage relating to the, [306](cml24.htm#page_306),
-[307](cml24.htm#page_307).
+Bean, curious passage relating to the, [306](cml24.htm#page_306.md),
+[307](cml24.htm#page_307.md).
 
-Becuma of the Fair Skin, [202](cml18.htm#page_202).
+Becuma of the Fair Skin, [202](cml18.htm#page_202.md).
 
-Bedivere, Sir, [6](cml05.htm#page_6).
+Bedivere, Sir, [6](cml05.htm#page_6.md).
 
-Bedwini, Arthur's bishop, [337](cml26.htm#page_337).
+Bedwini, Arthur's bishop, [337](cml26.htm#page_337.md).
 
-Bedwyr, a follower of Arthur, [343](cml26.htm#page_343),
-[344](cml26.htm#page_344), [349](cml26.htm#page_349).
+Bedwyr, a follower of Arthur, [343](cml26.htm#page_343.md),
+[344](cml26.htm#page_344), [349](cml26.htm#page_349.md).
 
-Belacatudor, a war-god worshipped in Britain, [275](cml20.htm#page_275).
+Belacatudor, a war-god worshipped in Britain, [275](cml20.htm#page_275.md).
 
-Belgæ, [23](cml07.htm#page_23), [76](cml10.htm#page_76).
+Belgæ, [23](cml07.htm#page_23), [76](cml10.htm#page_76.md).
 
-Beli, a British god, [120](cml14.htm#page_120),
-[252](cml20.htm#page_252), [260](cml20.htm#page_260),
-[268](cml20.htm#page_268), [295](cml22.htm#page_295),
-[313](cml25.htm#page_313), [335](cml25.htm#page_335),
-[376](cml28.htm#page_376).
+Beli, a British god, [120](cml14.htm#page_120.md),
+[252](cml20.htm#page_252), [260](cml20.htm#page_260.md),
+[268](cml20.htm#page_268), [295](cml22.htm#page_295.md),
+[313](cml25.htm#page_313), [335](cml25.htm#page_335.md),
+[376](cml28.htm#page_376.md).
 
-Belinus, a Celtic sun-god, [276](cml20.htm#page_276),
-[358](cml27.htm#page_358), [364](cml27.htm#page_364); as a king of
-Britain, [276](cml20.htm#page_276), [384](cml28.htm#page_384),
-[385](cml28.htm#page_385).
+Belinus, a Celtic sun-god, [276](cml20.htm#page_276.md),
+[358](cml27.htm#page_358), [364](cml27.htm#page_364.md); as a king of
+Britain, [276](cml20.htm#page_276), [384](cml28.htm#page_384.md),
+[385](cml28.htm#page_385.md).
 
-Belisama, the Latin name of the Ribble, [413](cml29.htm#page_413).
+Belisama, the Latin name of the Ribble, [413](cml29.htm#page_413.md).
 
-Beltaine, the Gaelic May-day, [41](cml08.htm#page_41),
-[65](cml10.htm#page_65), [287](cml21.htm#page_287),
-[406](cml29.htm#page_406), [408](cml29.htm#page_408),
-[409](cml29.htm#page_409), [410](cml29.htm#page_410).
+Beltaine, the Gaelic May-day, [41](cml08.htm#page_41.md),
+[65](cml10.htm#page_65), [287](cml21.htm#page_287.md),
+[406](cml29.htm#page_406), [408](cml29.htm#page_408.md),
+[409](cml29.htm#page_409), [410](cml29.htm#page_410.md).
 
-Berber race, [19](cml07.htm#page_19).
+Berber race, [19](cml07.htm#page_19.md).
 
-Beth, an Iberian god, [64](cml09.htm#page_64).
+Beth, an Iberian god, [64](cml09.htm#page_64.md).
 
-Bettws-y-coed, [7](cml05.htm#page_7).
+Bettws-y-coed, [7](cml05.htm#page_7.md).
 
-Beuno, Saint, sacrifices of cattle to, [413](cml29.htm#page_413).
+Beuno, Saint, sacrifices of cattle to, [413](cml29.htm#page_413.md).
 
-Big-Knife, Osla, [352](cml26.htm#page_352), [353](cml26.htm#page_353).
+Big-Knife, Osla, [352](cml26.htm#page_352), [353](cml26.htm#page_353.md).
 
-Bilé, father of the Gaelic gods and men, [51](cml09.htm#page_51),
-[65](cml10.htm#page_65), [120](cml14.htm#page_120),
-[121](cml14.htm#page_121), [122](cml14.htm#page_122),
-[252](cml20.htm#page_252).
+Bilé, father of the Gaelic gods and men, [51](cml09.htm#page_51.md),
+[65](cml10.htm#page_65), [120](cml14.htm#page_120.md),
+[121](cml14.htm#page_121), [122](cml14.htm#page_122.md),
+[252](cml20.htm#page_252.md).
 
-Billingsgate, origin of name, [385](cml28.htm#page_385).
+Billingsgate, origin of name, [385](cml28.htm#page_385.md).
 
-Birds, of Rhiannon, the, [273](cml20.htm#page_273),
-[294](cml22.htm#page_294), [296](cml22.htm#page_296); Dechtiré and her
-maidens changed into, [160](cml16.htm#page_160).
+Birds, of Rhiannon, the, [273](cml20.htm#page_273.md),
+[294](cml22.htm#page_294), [296](cml22.htm#page_296.md); Dechtiré and her
+maidens changed into, [160](cml16.htm#page_160.md).
 
-Black Book of Caermarthen, the, [11](cml06.htm#page_11),
-[255](cml20.htm#page_255), [311](cml24.htm#page_311),
-[312](cml25.htm#page_312), [335](cml25.htm#page_335).
+Black Book of Caermarthen, the, [11](cml06.htm#page_11.md),
+[255](cml20.htm#page_255), [311](cml24.htm#page_311.md),
+[312](cml25.htm#page_312), [335](cml25.htm#page_335.md).
 
-Bladud, mythical founder of Bath, [381](cml28.htm#page_381).
+Bladud, mythical founder of Bath, [381](cml28.htm#page_381.md).
 
-Blathnat, daughter of Mider, [55](cml09.htm#page_55),
-[179](cml16.htm#page_179).
+Blathnat, daughter of Mider, [55](cml09.htm#page_55.md),
+[179](cml16.htm#page_179.md).
 
-Bliant, Castle, [358](cml27.htm#page_358).
+Bliant, Castle, [358](cml27.htm#page_358.md).
 
-Blodeuwedd, wife of Lleu Llaw Gyffes [265](cml20.htm#page_265),
-[266](cml20.htm#page_266), [268](cml20.htm#page_268).
+Blodeuwedd, wife of Lleu Llaw Gyffes [265](cml20.htm#page_265.md),
+[266](cml20.htm#page_266), [268](cml20.htm#page_268.md).
 
-Blood-fines among the Celts, [30](cml07.htm#page_30); blood-fine paid
-for Cian, [94](cml12.htm#page_94)-[97](cml12.htm#page_97).
+Blood-fines among the Celts, [30](cml07.htm#page_30.md); blood-fine paid
+for Cian, [94](cml12.htm#page_94)-[97](cml12.htm#page_97.md).
 
-Boann, wife of the Dagda, [55](cml09.htm#page_55),
-[139](cml15.htm#page_139), [141](cml15.htm#page_141).
+Boann, wife of the Dagda, [55](cml09.htm#page_55.md),
+[139](cml15.htm#page_139), [141](cml15.htm#page_141.md).
 
-Boar, wild, of Bengulben, [221](cml18.htm#page_221); the Boar Trwyth,
-[347](cml26.htm#page_347)-[353](cml26.htm#page_353).
+Boar, wild, of Bengulben, [221](cml18.htm#page_221.md); the Boar Trwyth,
+[347](cml26.htm#page_347)-[353](cml26.htm#page_353.md).
 
-Bodb the Red, son of the Dagda, [60](cml09.htm#page_60),
-[133](cml15.htm#page_133), [140](cml15.htm#page_140),
-[141](cml15.htm#page_141)-[145](cml15.htm#page_145),
-[157](cml16.htm#page_157), [205](cml18.htm#page_205),
-[208](cml18.htm#page_208); is made king of the Tuatha Dé Danann,
-[140](cml15.htm#page_140); his swineherd, [164](cml16.htm#page_164);
-marries his daughter Sadb to Finn, [208](cml18.htm#page_208).
+Bodb the Red, son of the Dagda, [60](cml09.htm#page_60.md),
+[133](cml15.htm#page_133), [140](cml15.htm#page_140.md),
+[141](cml15.htm#page_141)-[145](cml15.htm#page_145.md),
+[157](cml16.htm#page_157), [205](cml18.htm#page_205.md),
+[208](cml18.htm#page_208.md); is made king of the Tuatha Dé Danann,
+[140](cml15.htm#page_140); his swineherd, [164](cml16.htm#page_164.md);
+marries his daughter Sadb to Finn, [208](cml18.htm#page_208.md).
 
-Bogies, [393](cml28.htm#page_393), [403](cml29.htm#page_403),
-[405](cml29.htm#page_405).
+Bogies, [393](cml28.htm#page_393), [403](cml29.htm#page_403.md),
+[405](cml29.htm#page_405.md).
 
 Bonfires in Celtic ritual,
-[409](cml29.htm#page_409)-[412](cml29.htm#page_412).
+[409](cml29.htm#page_409)-[412](cml29.htm#page_412.md).
 
-Bordeaux, Sir Huon of, [7](cml05.htm#page_7).
+Bordeaux, Sir Huon of, [7](cml05.htm#page_7.md).
 
-*Boreadæ*, [42](cml08.htm#page_42).
+*Boreadæ*, [42](cml08.htm#page_42.md).
 
-Borrach, [193](cml17.htm#page_193), [195](cml17.htm#page_195),
-[200](cml17.htm#page_200).
+Borrach, [193](cml17.htm#page_193), [195](cml17.htm#page_195.md),
+[200](cml17.htm#page_200.md).
 
-Bors, king of Gaul, [360](cml27.htm#page_360).
+Bors, king of Gaul, [360](cml27.htm#page_360.md).
 
-Bors, Sir, [368](cml27.htm#page_368), [369](cml27.htm#page_369).
+Bors, Sir, [368](cml27.htm#page_368), [369](cml27.htm#page_369.md).
 
-Boyne, river, [55](cml09.htm#page_55), [56](cml09.htm#page_56),
-[129](cml14.htm#page_129), [136](cml15.htm#page_136),
-[137](cml15.htm#page_137), [158](cml16.htm#page_158),
-[210](cml18.htm#page_210), [213](cml18.htm#page_213),
-[230](cml19.htm#page_230).
+Boyne, river, [55](cml09.htm#page_55), [56](cml09.htm#page_56.md),
+[129](cml14.htm#page_129), [136](cml15.htm#page_136.md),
+[137](cml15.htm#page_137), [158](cml16.htm#page_158.md),
+[210](cml18.htm#page_210), [213](cml18.htm#page_213.md),
+[230](cml19.htm#page_230.md).
 
-Brahmans, [32](cml08.htm#page_32).
+Brahmans, [32](cml08.htm#page_32.md).
 
-Bran, son of Febal, an Irish king, [134](cml15.htm#page_134),
-[135](cml15.htm#page_135), [224](cml18.htm#page_224).
+Bran, son of Febal, an Irish king, [134](cml15.htm#page_134.md),
+[135](cml15.htm#page_135), [224](cml18.htm#page_224.md).
 
-Bran, Finn's favourite hound, [213](cml18.htm#page_213).
+Bran, Finn's favourite hound, [213](cml18.htm#page_213.md).
 
-Brân, British god of the Underworld, [258](cml20.htm#page_258),
-[271](cml20.htm#page_271)-[272](cml20.htm#page_272),
-[276](cml20.htm#page_276),
-[289](cml22.htm#page_289)-[294](cml22.htm#page_294),
-[296](cml22.htm#page_296), [306](cml24.htm#page_306),
-[308](cml24.htm#page_308), [313](cml25.htm#page_313),
-[328](cml25.htm#page_328), [329](cml25.htm#page_329),
-[331](cml25.htm#page_331), [338](cml26.htm#page_338).
-[356](cml27.htm#page_356), [357](cml27.htm#page_357),
-[360](cml27.htm#page_360), [364](cml27.htm#page_364),
-[366](cml27.htm#page_366), [384](cml28.htm#page_384),
-[386](cml28.htm#page_386), [387](cml28.htm#page_387),
-[389](cml28.htm#page_389), [394](cml28.htm#page_394); fights the battle
-of Achren, [306](cml24.htm#page_306); becomes the "Wonderful Head",
-[296](cml22.htm#page_296); in Geoffrey of Monmouth's *History*,
-[384](cml28.htm#page_384), [385](cml28.htm#page_385); in the Morte
-Darthur, [356](cml27.htm#page_356), [357](cml27.htm#page_357);
-introduces Christianity into Britain, [386](cml28.htm#page_386).
+Brân, British god of the Underworld, [258](cml20.htm#page_258.md),
+[271](cml20.htm#page_271)-[272](cml20.htm#page_272.md),
+[276](cml20.htm#page_276.md),
+[289](cml22.htm#page_289)-[294](cml22.htm#page_294.md),
+[296](cml22.htm#page_296), [306](cml24.htm#page_306.md),
+[308](cml24.htm#page_308), [313](cml25.htm#page_313.md),
+[328](cml25.htm#page_328), [329](cml25.htm#page_329.md),
+[331](cml25.htm#page_331), [338](cml26.htm#page_338.md).
+[356](cml27.htm#page_356), [357](cml27.htm#page_357.md),
+[360](cml27.htm#page_360), [364](cml27.htm#page_364.md),
+[366](cml27.htm#page_366), [384](cml28.htm#page_384.md),
+[386](cml28.htm#page_386), [387](cml28.htm#page_387.md),
+[389](cml28.htm#page_389), [394](cml28.htm#page_394.md); fights the battle
+of Achren, [306](cml24.htm#page_306.md); becomes the "Wonderful Head",
+[296](cml22.htm#page_296.md); in Geoffrey of Monmouth's *History*,
+[384](cml28.htm#page_384), [385](cml28.htm#page_385.md); in the Morte
+Darthur, [356](cml27.htm#page_356), [357](cml27.htm#page_357.md);
+introduces Christianity into Britain, [386](cml28.htm#page_386.md).
 
-Brandegore, King, [272](cml20.htm#page_272), [356](cml27.htm#page_356).
+Brandegore, King, [272](cml20.htm#page_272), [356](cml27.htm#page_356.md).
 
-Brandegoris, King, [356](cml27.htm#page_356).
+Brandegoris, King, [356](cml27.htm#page_356.md).
 
-Brandel, Brandiles, Sir, [356](cml27.htm#page_356).
+Brandel, Brandiles, Sir, [356](cml27.htm#page_356.md).
 
-Branwen, British goddess of love, [271](cml20.htm#page_271),
-[289](cml22.htm#page_289)-[294](cml22.htm#page_294),
-[387](cml28.htm#page_387).
+Branwen, British goddess of love, [271](cml20.htm#page_271.md),
+[289](cml22.htm#page_289)-[294](cml22.htm#page_294.md),
+[387](cml28.htm#page_387.md).
 
-Brazil, [133](cml15.htm#page_133).
+Brazil, [133](cml15.htm#page_133.md).
 
-Brea, ford of, Finn killed at the, [222](cml18.htm#page_222).
+Brea, ford of, Finn killed at the, [222](cml18.htm#page_222.md).
 
-Breasal's Island, [133](cml15.htm#page_133).
+Breasal's Island, [133](cml15.htm#page_133.md).
 
-Brécilien, Forest of, [362](cml27.htm#page_362).
+Brécilien, Forest of, [362](cml27.htm#page_362.md).
 
-Bregon, [121](cml14.htm#page_121).
+Bregon, [121](cml14.htm#page_121.md).
 
-Brennius, a mythical British king, [5](cml05.htm#page_5),
-[276](cml20.htm#page_276), [384](cml28.htm#page_384),
-[385](cml28.htm#page_385).
+Brennius, a mythical British king, [5](cml05.htm#page_5.md),
+[276](cml20.htm#page_276), [384](cml28.htm#page_384.md),
+[385](cml28.htm#page_385.md).
 
 <span id="page_428">p. 428</span>
 
-Brennus, [385](cml28.htm#page_385).
+Brennus, [385](cml28.htm#page_385.md).
 
-Bress, son of Elathan, a Fomor, [50](cml09.htm#page_50),
-[78](cml11.htm#page_78)-[80](cml11.htm#page_80),
-[82](cml11.htm#page_82), [83](cml11.htm#page_83),
-[90](cml12.htm#page_90),
-[108](cml13.htm#page_108)-[111](cml13.htm#page_111),
-[115](cml13.htm#page_115)-[116](cml13.htm#page_116),
-[269](cml20.htm#page_269); his beauty, [50](cml09.htm#page_50); marries
+Bress, son of Elathan, a Fomor, [50](cml09.htm#page_50.md),
+[78](cml11.htm#page_78)-[80](cml11.htm#page_80.md),
+[82](cml11.htm#page_82), [83](cml11.htm#page_83.md),
+[90](cml12.htm#page_90.md),
+[108](cml13.htm#page_108)-[111](cml13.htm#page_111.md),
+[115](cml13.htm#page_115)-[116](cml13.htm#page_116.md),
+[269](cml20.htm#page_269); his beauty, [50](cml09.htm#page_50.md); marries
 Brigit, and is made king over the Tuatha Dé Danann,
-[78](cml11.htm#page_78); is forced to abdicate, [83](cml11.htm#page_83);
-makes war on the Tuatha Dé Danaan, [83](cml11.htm#page_83); is defeated
-and captured, [115](cml13.htm#page_115)-[116](cml13.htm#page_116).
+[78](cml11.htm#page_78); is forced to abdicate, [83](cml11.htm#page_83.md);
+makes war on the Tuatha Dé Danaan, [83](cml11.htm#page_83.md); is defeated
+and captured, [115](cml13.htm#page_115)-[116](cml13.htm#page_116.md).
 
-Brian, son of Tuirenn, [90](cml12.htm#page_90), [91](cml12.htm#page_91),
-[92](cml12.htm#page_92), [94](cml12.htm#page_94),
-[99](cml12.htm#page_99)-[102](cml12.htm#page_102),
-[103](cml12.htm#page_103), [105](cml12.htm#page_105),
-[106](cml12.htm#page_106).
+Brian, son of Tuirenn, [90](cml12.htm#page_90), [91](cml12.htm#page_91.md),
+[92](cml12.htm#page_92), [94](cml12.htm#page_94.md),
+[99](cml12.htm#page_99)-[102](cml12.htm#page_102.md),
+[103](cml12.htm#page_103), [105](cml12.htm#page_105.md),
+[106](cml12.htm#page_106.md).
 
-Briareus, [326](cml25.htm#page_326).
+Briareus, [326](cml25.htm#page_326.md).
 
-"Bridge of the Cliff", the, [163](cml16.htm#page_163).
+"Bridge of the Cliff", the, [163](cml16.htm#page_163.md).
 
-Bridget, Saint, [7](cml05.htm#page_7), [56](cml09.htm#page_56),
-[228](cml19.htm#page_228).
+Bridget, Saint, [7](cml05.htm#page_7), [56](cml09.htm#page_56.md),
+[228](cml19.htm#page_228.md).
 
-Brigantes, a North British tribe, [277](cml20.htm#page_277).
+Brigantes, a North British tribe, [277](cml20.htm#page_277.md).
 
-Brigantia, a British Minerva, [277](cml20.htm#page_277).
+Brigantia, a British Minerva, [277](cml20.htm#page_277.md).
 
-Brigindo, a Gaulish goddess, [277](cml20.htm#page_277).
+Brigindo, a Gaulish goddess, [277](cml20.htm#page_277.md).
 
 Brigit, Gaelic goddess of fire, poetry, and the hearth,
-[56](cml09.htm#page_56), [78](cml11.htm#page_78),
-[109](cml13.htm#page_109), [110](cml13.htm#page_110),
-[228](cml19.htm#page_228), [269](cml20.htm#page_269),
-[277](cml20.htm#page_277), [387](cml28.htm#page_387); is married to
-Bress, [78](cml11.htm#page_78); is canonized as Saint Bridget,
-[228](cml19.htm#page_228), [387](cml28.htm#page_387).
+[56](cml09.htm#page_56), [78](cml11.htm#page_78.md),
+[109](cml13.htm#page_109), [110](cml13.htm#page_110.md),
+[228](cml19.htm#page_228), [269](cml20.htm#page_269.md),
+[277](cml20.htm#page_277), [387](cml28.htm#page_387.md); is married to
+Bress, [78](cml11.htm#page_78.md); is canonized as Saint Bridget,
+[228](cml19.htm#page_228), [387](cml28.htm#page_387.md).
 
-Bri Leith, the *sídh* of Mider, [136](cml15.htm#page_136),
-[148](cml15.htm#page_148), [152](cml15.htm#page_152),
-[332](cml25.htm#page_332).
+Bri Leith, the *sídh* of Mider, [136](cml15.htm#page_136.md),
+[148](cml15.htm#page_148), [152](cml15.htm#page_152.md),
+[332](cml25.htm#page_332.md).
 
-Brindled ox, the, [320](cml25.htm#page_320).
+Brindled ox, the, [320](cml25.htm#page_320.md).
 
-Britain, ancient names of, [292](cml22.htm#page_292),
-[323](cml25.htm#page_323).
+Britain, ancient names of, [292](cml22.htm#page_292.md),
+[323](cml25.htm#page_323.md).
 
-*British Goblins*, Mr. Wirt Sikes', [389](cml28.htm#page_389),
-[393](cml28.htm#page_393), [415](cml29.htm#page_415).
+*British Goblins*, Mr. Wirt Sikes', [389](cml28.htm#page_389.md),
+[393](cml28.htm#page_393), [415](cml29.htm#page_415.md).
 
 Britons, ancient, who were the,
-[18](cml07.htm#page_18)-[23](cml07.htm#page_23).
+[18](cml07.htm#page_18)-[23](cml07.htm#page_23.md).
 
 *Britonum, Historia*. See Historia, Geoffrey, Nennius.
 
-Brittany, [24](cml07.htm#page_24).
+Brittany, [24](cml07.htm#page_24.md).
 
-Briun, son of Bethar, [113](cml13.htm#page_113).
+Briun, son of Bethar, [113](cml13.htm#page_113.md).
 
-Brownies, [248](cml19.htm#page_248), [393](cml28.htm#page_393)
-[403](cml29.htm#page_403).
+Brownies, [248](cml19.htm#page_248), [393](cml28.htm#page_393.md)
+[403](cml29.htm#page_403.md).
 
-Brude, king of the Picts, [401](cml29.htm#page_401).
+Brude, king of the Picts, [401](cml29.htm#page_401.md).
 
-Brugh-na-boyne, [136](cml15.htm#page_136), [139](cml15.htm#page_139),
-[160](cml16.htm#page_160), [213](cml18.htm#page_213),
-[214](cml18.htm#page_214).
+Brugh-na-boyne, [136](cml15.htm#page_136), [139](cml15.htm#page_139.md),
+[160](cml16.htm#page_160), [213](cml18.htm#page_213.md),
+[214](cml18.htm#page_214.md).
 
-Brutus, [121](cml14.htm#page_121), [374](cml28.htm#page_374).
+Brutus, [121](cml14.htm#page_121), [374](cml28.htm#page_374.md).
 
-Brython, [21](cml07.htm#page_21), [22](cml07.htm#page_22),
-[23](cml07.htm#page_23), [24](cml07.htm#page_24),
-[35](cml08.htm#page_35).
+Brython, [21](cml07.htm#page_21), [22](cml07.htm#page_22.md),
+[23](cml07.htm#page_23), [24](cml07.htm#page_24.md),
+[35](cml08.htm#page_35.md).
 
-Buarainech, father of Balor, [48](cml09.htm#page_48).
+Buarainech, father of Balor, [48](cml09.htm#page_48.md).
 
-Buinne, the Ruthless Red, son of Fergus, [193](cml17.htm#page_193),
-[196](cml17.htm#page_196), [197](cml17.htm#page_197).
+Buinne, the Ruthless Red, son of Fergus, [193](cml17.htm#page_193.md),
+[196](cml17.htm#page_196), [197](cml17.htm#page_197.md).
 
-Bull, the Brown, of Cualgne, [164](cml16.htm#page_164),
-[165](cml16.htm#page_165), [168](cml16.htm#page_168),
-[175](cml16.htm#page_175); the White-horned, of Connaught,
-[165](cml16.htm#page_165), [175](cml16.htm#page_175).
+Bull, the Brown, of Cualgne, [164](cml16.htm#page_164.md),
+[165](cml16.htm#page_165), [168](cml16.htm#page_168.md),
+[175](cml16.htm#page_175.md); the White-horned, of Connaught,
+[165](cml16.htm#page_165), [175](cml16.htm#page_175.md).
 
-Bwbachod, [393](cml28.htm#page_393).
+Bwbachod, [393](cml28.htm#page_393.md).
 
  
 
-Cadbury, the supposed site of Camelot, [335](cml25.htm#page_335).
+Cadbury, the supposed site of Camelot, [335](cml25.htm#page_335.md).
 
-Cader Idris, [305](cml24.htm#page_305).
+Cader Idris, [305](cml24.htm#page_305.md).
 
-Caemhoc, Saint, [146](cml15.htm#page_146).
+Caemhoc, Saint, [146](cml15.htm#page_146.md).
 
-Caer, daughter of Etal Ambuel, [141](cml15.htm#page_141).
+Caer, daughter of Etal Ambuel, [141](cml15.htm#page_141.md).
 
-Caer Arianrod, [252](cml20.htm#page_252), [264](cml20.htm#page_264).
+Caer Arianrod, [252](cml20.htm#page_252), [264](cml20.htm#page_264.md).
 
-Caer Badus, [381](cml28.htm#page_381).
+Caer Badus, [381](cml28.htm#page_381.md).
 
-Caer Bannawg, [367](cml27.htm#page_367).
+Caer Bannawg, [367](cml27.htm#page_367.md).
 
-Caer Colvin, [275](cml20.htm#page_275).
+Caer Colvin, [275](cml20.htm#page_275.md).
 
-Caer Dathyl, [308](cml24.htm#page_308), [310](cml24.htm#page_310).
+Caer Dathyl, [308](cml24.htm#page_308), [310](cml24.htm#page_310.md).
 
-Caer Golud, [320](cml25.htm#page_320).
+Caer Golud, [320](cml25.htm#page_320.md).
 
-Caer Llyr, [270](cml20.htm#page_270).
+Caer Llyr, [270](cml20.htm#page_270.md).
 
-Caer London, [376](cml28.htm#page_376).
+Caer London, [376](cml28.htm#page_376.md).
 
-Caer Myrddin, [324](cml25.htm#page_324).
+Caer Myrddin, [324](cml25.htm#page_324.md).
 
-Caer Ochren, [320](cml25.htm#page_320).
+Caer Ochren, [320](cml25.htm#page_320.md).
 
-Caer Pedryvan, [319](cml25.htm#page_319), [356](cml27.htm#page_356),
-[367](cml27.htm#page_367).
+Caer Pedryvan, [319](cml25.htm#page_319), [356](cml27.htm#page_356.md),
+[367](cml27.htm#page_367.md).
 
-Caer Rigor, [319](cml25.htm#page_319).
+Caer Rigor, [319](cml25.htm#page_319.md).
 
-Caer Sarrlog, [386](cml28.htm#page_386).
+Caer Sarrlog, [386](cml28.htm#page_386.md).
 
-Caer Sidi, [319](cml25.htm#page_319), [321](cml25.htm#page_321),
-[322](cml25.htm#page_322), [368](cml27.htm#page_368).
+Caer Sidi, [319](cml25.htm#page_319), [321](cml25.htm#page_321.md),
+[322](cml25.htm#page_322), [368](cml27.htm#page_368.md).
 
-Caer Vandwy, [257](cml20.htm#page_257), [320](cml25.htm#page_320).
+Caer Vandwy, [257](cml20.htm#page_257), [320](cml25.htm#page_320.md).
 
-Caer Vedwyd, [319](cml25.htm#page_319).
+Caer Vedwyd, [319](cml25.htm#page_319.md).
 
-Caer Wydyr, [320](cml25.htm#page_320).
+Caer Wydyr, [320](cml25.htm#page_320.md).
 
-Caesar, Julius, [5](cml05.htm#page_5), [8](cml06.htm#page_8),
-[18](cml07.htm#page_18), [22](cml07.htm#page_22),
-[23](cml07.htm#page_23), [25](cml07.htm#page_25),
-[27](cml07.htm#page_27), [30](cml07.htm#page_30),
-[35](cml08.htm#page_35), [38](cml08.htm#page_38),
-[119](cml14.htm#page_119), [204](cml18.htm#page_204),
-[376](cml28.htm#page_376), [399](cml29.htm#page_399),
-[412](cml29.htm#page_412), [417](cml29.htm#page_417).
+Caesar, Julius, [5](cml05.htm#page_5), [8](cml06.htm#page_8.md),
+[18](cml07.htm#page_18), [22](cml07.htm#page_22.md),
+[23](cml07.htm#page_23), [25](cml07.htm#page_25.md),
+[27](cml07.htm#page_27), [30](cml07.htm#page_30.md),
+[35](cml08.htm#page_35), [38](cml08.htm#page_38.md),
+[119](cml14.htm#page_119), [204](cml18.htm#page_204.md),
+[376](cml28.htm#page_376), [399](cml29.htm#page_399.md),
+[412](cml29.htm#page_412), [417](cml29.htm#page_417.md).
 
-Cairbré, son of Cormac, [206](cml18.htm#page_206),
-[222](cml18.htm#page_222), [315](cml25.htm#page_315).
+Cairbré, son of Cormac, [206](cml18.htm#page_206.md),
+[222](cml18.htm#page_222), [315](cml25.htm#page_315.md).
 
-Cairn of Octriallach, [110](cml13.htm#page_110).
+Cairn of Octriallach, [110](cml13.htm#page_110.md).
 
 Cairpré, son of Ogma, bard of the Tuatha Dé Danann,
-[58](cml09.htm#page_58), [82](cml11.htm#page_82),
-[83](cml11.htm#page_83), [87](cml11.htm#page_87),
-[139](cml15.htm#page_139).
+[58](cml09.htm#page_58), [82](cml11.htm#page_82.md),
+[83](cml11.htm#page_83), [87](cml11.htm#page_87.md),
+[139](cml15.htm#page_139.md).
 
-Calais, [383](cml28.htm#page_383).
+Calais, [383](cml28.htm#page_383.md).
 
-Calatin the wizard, [171](cml16.htm#page_171),
-[172](cml16.htm#page_172); daughters of Calatin,
-[178](cml16.htm#page_178)-[181](cml16.htm#page_181).
+Calatin the wizard, [171](cml16.htm#page_171.md),
+[172](cml16.htm#page_172.md); daughters of Calatin,
+[178](cml16.htm#page_178)-[181](cml16.htm#page_181.md).
 
-Caledonians, [22](cml07.htm#page_22).
+Caledonians, [22](cml07.htm#page_22.md).
 
-Camelot, [314](cml25.htm#page_314), [335](cml25.htm#page_335).
+Camelot, [314](cml25.htm#page_314), [335](cml25.htm#page_335.md).
 
-Camlan, battle of, [222](cml18.htm#page_222), [315](cml25.htm#page_315),
-[334](cml25.htm#page_334), [337](cml26.htm#page_337),
-[375](cml28.htm#page_375), [376](cml28.htm#page_376).
+Camlan, battle of, [222](cml18.htm#page_222), [315](cml25.htm#page_315.md),
+[334](cml25.htm#page_334), [337](cml26.htm#page_337.md),
+[375](cml28.htm#page_375), [376](cml28.htm#page_376.md).
 
-Camulodunum, the Roman name of Colchester, [276](cml20.htm#page_276).
+Camulodunum, the Roman name of Colchester, [276](cml20.htm#page_276.md).
 
-Camulus, a Gaulish god of war and the sky, [51](cml09.htm#page_51),
-[204](cml18.htm#page_204), [275](cml20.htm#page_275),
-[323](cml25.htm#page_323).
+Camulus, a Gaulish god of war and the sky, [51](cml09.htm#page_51.md),
+[204](cml18.htm#page_204), [275](cml20.htm#page_275.md),
+[323](cml25.htm#page_323.md).
 
-Caoilte, a Fenian hero, [63](cml09.htm#page_63),
-[146](cml15.htm#page_146), [208](cml18.htm#page_208),
-[212](cml18.htm#page_212), [217](cml18.htm#page_217),
-[222](cml18.htm#page_222), [227](cml19.htm#page_227),
-[246](cml19.htm#page_246).
+Caoilte, a Fenian hero, [63](cml09.htm#page_63.md),
+[146](cml15.htm#page_146), [208](cml18.htm#page_208.md),
+[212](cml18.htm#page_212), [217](cml18.htm#page_217.md),
+[222](cml18.htm#page_222), [227](cml19.htm#page_227.md),
+[246](cml19.htm#page_246.md).
 
-Caractacus, Caratacus, [271](cml20.htm#page_271),
-[386](cml28.htm#page_386), [387](cml28.htm#page_387).
+Caractacus, Caratacus, [271](cml20.htm#page_271.md),
+[386](cml28.htm#page_386), [387](cml28.htm#page_387.md).
 
-Caradawc of the Strong Arms, son of Brân, [271](cml20.htm#page_271),
-[291](cml22.htm#page_291), [295](cml22.htm#page_295),
-[338](cml26.htm#page_338), [386](cml28.htm#page_386),
-[389](cml28.htm#page_389).
+Caradawc of the Strong Arms, son of Brân, [271](cml20.htm#page_271.md),
+[291](cml22.htm#page_291), [295](cml22.htm#page_295.md),
+[338](cml26.htm#page_338), [386](cml28.htm#page_386.md),
+[389](cml28.htm#page_389.md).
 
-Carbonek, [357](cml27.htm#page_357), [367](cml27.htm#page_367).
+Carbonek, [357](cml27.htm#page_357), [367](cml27.htm#page_367.md).
 
-Carmarthen, [324](cml25.htm#page_324).
+Carmarthen, [324](cml25.htm#page_324.md).
 
-Carnac, [114](cml13.htm#page_114).
+Carnac, [114](cml13.htm#page_114.md).
 
-Carnarvon, [310](cml24.htm#page_310).
+Carnarvon, [310](cml24.htm#page_310.md).
 
-Carrowmore, [114](cml13.htm#page_114).
+Carrowmore, [114](cml13.htm#page_114.md).
 
-Cassibellawn, Cassivelaunus, [376](cml28.htm#page_376).
+Cassibellawn, Cassivelaunus, [376](cml28.htm#page_376.md).
 
-"Cassiopeia's Chair", [252](cml20.htm#page_252).
+"Cassiopeia's Chair", [252](cml20.htm#page_252.md).
 
-Castell y Moch, [310](cml24.htm#page_310).
+Castell y Moch, [310](cml24.htm#page_310.md).
 
-Castle of Arianrod, [252](cml20.htm#page_252),
-[264](cml20.htm#page_264).
+Castle of Arianrod, [252](cml20.htm#page_252.md),
+[264](cml20.htm#page_264.md).
 
-Castle Bliant, [358](cml27.htm#page_358).
+Castle Bliant, [358](cml27.htm#page_358.md).
 
-Castle of Gwydion, [253](cml20.htm#page_253).
+Castle of Gwydion, [253](cml20.htm#page_253.md).
 
-Castle Hacket, [244](cml19.htm#page_244).
+Castle Hacket, [244](cml19.htm#page_244.md).
 
-Castle of Revelry, [366](cml27.htm#page_366), [367](cml27.htm#page_367).
+Castle of Revelry, [366](cml27.htm#page_366), [367](cml27.htm#page_367.md).
 
-Castle of Riches, [367](cml27.htm#page_367).
+Castle of Riches, [367](cml27.htm#page_367.md).
 
 <span id="page_429">p. 429</span>
 
-"Castles", Celtic, [29](cml07.htm#page_29).
+"Castles", Celtic, [29](cml07.htm#page_29.md).
 
-Caswallawn, son of Bali, [295](cml22.htm#page_295).
+Caswallawn, son of Bali, [295](cml22.htm#page_295.md).
 
 *Cath Godeu*. See the "Battle of the Trees".
 
-Cathbad, druid of Emain Macha, [161](cml16.htm#page_161),
-[162](cml16.htm#page_162), [174](cml16.htm#page_174),
-[178](cml16.htm#page_178), [181](cml16.htm#page_181),
-[190](cml17.htm#page_190), [198](cml17.htm#page_198),
-[200](cml17.htm#page_200).
+Cathbad, druid of Emain Macha, [161](cml16.htm#page_161.md),
+[162](cml16.htm#page_162), [174](cml16.htm#page_174.md),
+[178](cml16.htm#page_178), [181](cml16.htm#page_181.md),
+[190](cml17.htm#page_190), [198](cml17.htm#page_198.md),
+[200](cml17.htm#page_200.md).
 
-Cathubodva, a Gaulish war-goddess, [276](cml20.htm#page_276).
+Cathubodva, a Gaulish war-goddess, [276](cml20.htm#page_276.md).
 
-Cauldrons in Celtic mythology; the Dagda's, [54](cml09.htm#page_54),
-[71](cml10.htm#page_71), [366](cml27.htm#page_366); of Ogyrvran the
-Giant, [366](cml27.htm#page_366); of Diwrnach the Gael,
-[346](cml26.htm#page_346), [349](cml26.htm#page_349); cauldron given by
-Brân to Matholwch, [290](cml22.htm#page_290), [293](cml22.htm#page_293),
-[366](cml27.htm#page_366); cauldron stolen from Mider by Cuchulainn,
-[176](cml16.htm#page_176), [366](cml27.htm#page_366); cauldron kept in
-Annwn by the chief of Hades, [273](cml20.htm#page_273),
-[319](cml25.htm#page_319), [366](cml27.htm#page_366); the legend of the
+Cauldrons in Celtic mythology; the Dagda's, [54](cml09.htm#page_54.md),
+[71](cml10.htm#page_71), [366](cml27.htm#page_366.md); of Ogyrvran the
+Giant, [366](cml27.htm#page_366.md); of Diwrnach the Gael,
+[346](cml26.htm#page_346), [349](cml26.htm#page_349.md); cauldron given by
+Brân to Matholwch, [290](cml22.htm#page_290), [293](cml22.htm#page_293.md),
+[366](cml27.htm#page_366.md); cauldron stolen from Mider by Cuchulainn,
+[176](cml16.htm#page_176), [366](cml27.htm#page_366.md); cauldron kept in
+Annwn by the chief of Hades, [273](cml20.htm#page_273.md),
+[319](cml25.htm#page_319), [366](cml27.htm#page_366.md); the legend of the
 Holy Grail founded upon Celtic myths of a cauldron of fertility and
-inspiration, [365](cml27.htm#page_365)-[370](cml27.htm#page_370).
+inspiration, [365](cml27.htm#page_365)-[370](cml27.htm#page_370.md).
 
-Celtæ, [22](cml07.htm#page_22).
+Celtæ, [22](cml07.htm#page_22.md).
 
 Celtic mythical literature the forerunner of mediæval romance,
-[184](cml17.htm#page_184)
+[184](cml17.htm#page_184.md)
 
-Celtic strain in modern Englishmen, [3](cml05.htm#page_3).
+Celtic strain in modern Englishmen, [3](cml05.htm#page_3.md).
 
-Celts, the, [19](cml07.htm#page_19), [20](cml07.htm#page_20),
-[21](cml07.htm#page_21),
-[25](cml07.htm#page_25)-[44](cml08.htm#page_44),
-[70](cml10.htm#page_70), [119](cml14.htm#page_119),
-[121](cml14.htm#page_121), [124](cml14.htm#page_124),
-[136](cml15.htm#page_136), [138](cml15.htm#page_138),
-[261](cml20.htm#page_261), [262](cml20.htm#page_262),
-[278](cml21.htm#page_278), [283](cml21.htm#page_283),
-[329](cml25.htm#page_329), [404](cml29.htm#page_404),
-[407](cml29.htm#page_407), [412](cml29.htm#page_412).
+Celts, the, [19](cml07.htm#page_19), [20](cml07.htm#page_20.md),
+[21](cml07.htm#page_21.md),
+[25](cml07.htm#page_25)-[44](cml08.htm#page_44.md),
+[70](cml10.htm#page_70), [119](cml14.htm#page_119.md),
+[121](cml14.htm#page_121), [124](cml14.htm#page_124.md),
+[136](cml15.htm#page_136), [138](cml15.htm#page_138.md),
+[261](cml20.htm#page_261), [262](cml20.htm#page_262.md),
+[278](cml21.htm#page_278), [283](cml21.htm#page_283.md),
+[329](cml25.htm#page_329), [404](cml29.htm#page_404.md),
+[407](cml29.htm#page_407), [412](cml29.htm#page_412.md).
 
-Cemmes, a parish in Pembrokeshire, [394](cml28.htm#page_394).
+Cemmes, a parish in Pembrokeshire, [394](cml28.htm#page_394.md).
 
-*Cenn Cruaich*, [41](cml08.htm#page_41).
+*Cenn Cruaich*, [41](cml08.htm#page_41.md).
 
 *Cermait*, *i.e.* "Honey-mouth", a title of Ogma,
-[57](cml09.htm#page_57).
+[57](cml09.htm#page_57.md).
 
-Cethé, son of Diancecht, [62](cml09.htm#page_62),
-[90](cml12.htm#page_90).
+Cethé, son of Diancecht, [62](cml09.htm#page_62.md),
+[90](cml12.htm#page_90.md).
 
-Cethlenn, wife of Balor, [90](cml12.htm#page_90).
+Cethlenn, wife of Balor, [90](cml12.htm#page_90.md).
 
-"Chain, Lugh's", [62](cml09.htm#page_62); "chiefs",
-[93](cml12.htm#page_93).
+"Chain, Lugh's", [62](cml09.htm#page_62.md); "chiefs",
+[93](cml12.htm#page_93.md).
 
-Champion of the Tuatha Dé Danann, [59](cml09.htm#page_59),
-[276](cml20.htm#page_276); Champions of the Red Branch, see Red Branch;
-"The Champion's Prophecy", [201](cml18.htm#page_201).
+Champion of the Tuatha Dé Danann, [59](cml09.htm#page_59.md),
+[276](cml20.htm#page_276.md); Champions of the Red Branch, see Red Branch;
+"The Champion's Prophecy", [201](cml18.htm#page_201.md).
 
-Chariots, war, of the Celts, [25](cml07.htm#page_25),
-[27](cml07.htm#page_27), [28](cml07.htm#page_28).
+Chariots, war, of the Celts, [25](cml07.htm#page_25.md),
+[27](cml07.htm#page_27), [28](cml07.htm#page_28.md).
 
-Charon, [403](cml29.htm#page_403).
+Charon, [403](cml29.htm#page_403.md).
 
-Chaucer, [2](cml05.htm#page_2), [12](cml06.htm#page_12).
+Chaucer, [2](cml05.htm#page_2), [12](cml06.htm#page_12.md).
 
-Chess, Mider's game with Eochaid Airem, [149](cml15.htm#page_149);
-Ossian's game with Finn, [220](cml18.htm#page_220).
+Chess, Mider's game with Eochaid Airem, [149](cml15.htm#page_149.md);
+Ossian's game with Finn, [220](cml18.htm#page_220.md).
 
-Children of Dôn, Nudd, and Llyr, [252](cml20.htm#page_252).
+Children of Dôn, Nudd, and Llyr, [252](cml20.htm#page_252.md).
 Christianity, introduced into Britain by Brân,
-[386](cml28.htm#page_386), [387](cml28.htm#page_387); conquers Druidism,
-[400](cml29.htm#page_400), [401](cml29.htm#page_401); adopts harmless
-heathen cults, [416](cml29.htm#page_416), [417](cml29.htm#page_417).
+[386](cml28.htm#page_386), [387](cml28.htm#page_387.md); conquers Druidism,
+[400](cml29.htm#page_400), [401](cml29.htm#page_401.md); adopts harmless
+heathen cults, [416](cml29.htm#page_416), [417](cml29.htm#page_417.md).
 
-Cian, son of Diancecht, [62](cml09.htm#page_62),
-[63](cml09.htm#page_63), [78](cml11.htm#page_78),
-[84](cml11.htm#page_84),
-[90](cml12.htm#page_90)-[94](cml12.htm#page_94),
-[106](cml12.htm#page_106),
-[235](cml19.htm#page_235)-[237](cml19.htm#page_237),
-[239](cml19.htm#page_239), [269](cml20.htm#page_269),
-[345](cml26.htm#page_345), [371](cml28.htm#page_371).
+Cian, son of Diancecht, [62](cml09.htm#page_62.md),
+[63](cml09.htm#page_63), [78](cml11.htm#page_78.md),
+[84](cml11.htm#page_84.md),
+[90](cml12.htm#page_90)-[94](cml12.htm#page_94.md),
+[106](cml12.htm#page_106.md),
+[235](cml19.htm#page_235)-[237](cml19.htm#page_237.md),
+[239](cml19.htm#page_239), [269](cml20.htm#page_269.md),
+[345](cml26.htm#page_345), [371](cml28.htm#page_371.md).
 
-Ciaran, Saint, [10](cml06.htm#page_10).
+Ciaran, Saint, [10](cml06.htm#page_10.md).
 
-Cichol the Footless, a Fomor, [66](cml10.htm#page_66).
+Cichol the Footless, a Fomor, [66](cml10.htm#page_66.md).
 
-Cilgwri, the Ousel of, [349](cml26.htm#page_349).
+Cilgwri, the Ousel of, [349](cml26.htm#page_349.md).
 
-Clann Baoisgne, [209](cml18.htm#page_209), [217](cml18.htm#page_217),
-[222](cml18.htm#page_222).
+Clann Baoisgne, [209](cml18.htm#page_209), [217](cml18.htm#page_217.md),
+[222](cml18.htm#page_222.md).
 
-Clan Chattan, [415](cml29.htm#page_415).
+Clan Chattan, [415](cml29.htm#page_415.md).
 
-Clann Morna, [209](cml18.htm#page_209), [211](cml18.htm#page_211),
-[218](cml18.htm#page_218), [232](cml19.htm#page_232).
+Clann Morna, [209](cml18.htm#page_209), [211](cml18.htm#page_211.md),
+[218](cml18.htm#page_218), [232](cml19.htm#page_232.md).
 
-Clann Neamhuinn, [216](cml18.htm#page_216), [218](cml18.htm#page_218).
+Clann Neamhuinn, [216](cml18.htm#page_216), [218](cml18.htm#page_218.md).
 
-Clann Ronan, [218](cml18.htm#page_218).
+Clann Ronan, [218](cml18.htm#page_218.md).
 
-*Clas Myrddin*, an old name for Britain, [323](cml25.htm#page_323).
+*Clas Myrddin*, an old name for Britain, [323](cml25.htm#page_323.md).
 
-Claudius, Roman emperor, [387](cml28.htm#page_387).
+Claudius, Roman emperor, [387](cml28.htm#page_387.md).
 
-Cliodna, fairy queen of Munster, [244](cml19.htm#page_244).
+Cliodna, fairy queen of Munster, [244](cml19.htm#page_244.md).
 
-Clontarf, battle of, [53](cml09.htm#page_53).
+Clontarf, battle of, [53](cml09.htm#page_53.md).
 
-Clûd, goddess of the river Clyde, [284](cml21.htm#page_284),
-[285](cml21.htm#page_285).
+Clûd, goddess of the river Clyde, [284](cml21.htm#page_284.md),
+[285](cml21.htm#page_285.md).
 
-Cluricanes, [248](cml19.htm#page_248).
+Cluricanes, [248](cml19.htm#page_248.md).
 
-*Cnoc Miodhchaoin*, [97](cml12.htm#page_97).
+*Cnoc Miodhchaoin*, [97](cml12.htm#page_97.md).
 
-Cnucha, battle of, [209](cml18.htm#page_209).
+Cnucha, battle of, [209](cml18.htm#page_209.md).
 
-Coblynau, [393](cml28.htm#page_393).
+Coblynau, [393](cml28.htm#page_393.md).
 
 Cocidius, a war-god worshipped by a Dacian colony in Cumberland,
-[275](cml20.htm#page_275).
+[275](cml20.htm#page_275.md).
 
-Coed Helen, [310](cml24.htm#page_310).
+Coed Helen, [310](cml24.htm#page_310.md).
 
-Coel, a mythical king of Britain, [275](cml20.htm#page_275),
-[323](cml25.htm#page_323).
+Coel, a mythical king of Britain, [275](cml20.htm#page_275.md),
+[323](cml25.htm#page_323.md).
 
 *Coir Anmann*, the "Choice of Names", an old Irish tract,
-[50](cml09.htm#page_50), [54](cml09.htm#page_54),
-[61](cml09.htm#page_61), [245](cml19.htm#page_245),
-[270](cml20.htm#page_270).
+[50](cml09.htm#page_50), [54](cml09.htm#page_54.md),
+[61](cml09.htm#page_61), [245](cml19.htm#page_245.md),
+[270](cml20.htm#page_270.md).
 
-Colchester, [276](cml20.htm#page_276).
+Colchester, [276](cml20.htm#page_276.md).
 
-"Cole, Old King", [276](cml20.htm#page_276).
+"Cole, Old King", [276](cml20.htm#page_276.md).
 
-Collen, Saint, [389](cml28.htm#page_389), [390](cml28.htm#page_390),
-[391](cml28.htm#page_391).
+Collen, Saint, [389](cml28.htm#page_389), [390](cml28.htm#page_390.md),
+[391](cml28.htm#page_391.md).
 
-Columba, Saint, [12](cml06.htm#page_12), [240](cml19.htm#page_240),
-[401](cml29.htm#page_401), [417](cml29.htm#page_417).
+Columba, Saint, [12](cml06.htm#page_12), [240](cml19.htm#page_240.md),
+[401](cml29.htm#page_401), [417](cml29.htm#page_417.md).
 
-*Comes Britanniæ*, [313](cml25.htm#page_313).
+*Comes Britanniæ*, [313](cml25.htm#page_313.md).
 
-*Comes Littoris Saxonici*, [314](cml25.htm#page_314).
+*Comes Littoris Saxonici*, [314](cml25.htm#page_314.md).
 
-Comyn, Michael, a Gaelic poet, [223](cml18.htm#page_223).
+Comyn, Michael, a Gaelic poet, [223](cml18.htm#page_223.md).
 
-Conairé the Great, high king of Ireland, [152](cml15.htm#page_152),
-[157](cml16.htm#page_157).
+Conairé the Great, high king of Ireland, [152](cml15.htm#page_152.md),
+[157](cml16.htm#page_157.md).
 
-Conall the Victorious, [163](cml16.htm#page_163),
-[177](cml16.htm#page_177), [183](cml16.htm#page_183),
-[192](cml17.htm#page_192), [193](cml17.htm#page_193),
-[197](cml17.htm#page_197), [198](cml17.htm#page_198).
+Conall the Victorious, [163](cml16.htm#page_163.md),
+[177](cml16.htm#page_177), [183](cml16.htm#page_183.md),
+[192](cml17.htm#page_192), [193](cml17.htm#page_193.md),
+[197](cml17.htm#page_197), [198](cml17.htm#page_198.md).
 
-Conan, a Fenian hero, [209](cml18.htm#page_209),
-[218](cml18.htm#page_218).
+Conan, a Fenian hero, [209](cml18.htm#page_209.md),
+[218](cml18.htm#page_218.md).
 
-Conann, son of Febar, a king of the Fomors, [67](cml10.htm#page_67).
+Conann, son of Febar, a king of the Fomors, [67](cml10.htm#page_67.md).
 
-Conchobar, king of Ulster, [29](cml07.htm#page_29),
-[147](cml15.htm#page_147),
-[154](cml16.htm#page_154)-[156](cml16.htm#page_156),
-[158](cml16.htm#page_158),
-[160](cml16.htm#page_160)-[162](cml16.htm#page_162),
-[166](cml16.htm#page_166)-[168](cml16.htm#page_168),
-[173](cml16.htm#page_173), [174](cml16.htm#page_174),
-[179](cml16.htm#page_179), [185](cml17.htm#page_185),
-[190](cml17.htm#page_190)-[192](cml17.htm#page_192),
-[193](cml17.htm#page_193),
-[195](cml17.htm#page_195)-[198](cml17.htm#page_198),
-[200](cml17.htm#page_200), [201](cml18.htm#page_201),
-[204](cml18.htm#page_204), [227](cml19.htm#page_227); his treachery
+Conchobar, king of Ulster, [29](cml07.htm#page_29.md),
+[147](cml15.htm#page_147.md),
+[154](cml16.htm#page_154)-[156](cml16.htm#page_156.md),
+[158](cml16.htm#page_158.md),
+[160](cml16.htm#page_160)-[162](cml16.htm#page_162.md),
+[166](cml16.htm#page_166)-[168](cml16.htm#page_168.md),
+[173](cml16.htm#page_173), [174](cml16.htm#page_174.md),
+[179](cml16.htm#page_179), [185](cml17.htm#page_185.md),
+[190](cml17.htm#page_190)-[192](cml17.htm#page_192.md),
+[193](cml17.htm#page_193.md),
+[195](cml17.htm#page_195)-[198](cml17.htm#page_198.md),
+[200](cml17.htm#page_200), [201](cml18.htm#page_201.md),
+[204](cml18.htm#page_204), [227](cml19.htm#page_227.md); his treachery
 towards the sons of Usnach,
-[192](cml17.htm#page_192)-[200](cml17.htm#page_200); his tragical death,
-[155](cml16.htm#page_155).
+[192](cml17.htm#page_192)-[200](cml17.htm#page_200.md); his tragical death,
+[155](cml16.htm#page_155.md).
 
-Condates, a war-god worshipped in Britain, [275](cml20.htm#page_275).
+Condates, a war-god worshipped in Britain, [275](cml20.htm#page_275.md).
 
-Cong, village of, [73](cml10.htm#page_73), [76](cml10.htm#page_76).
+Cong, village of, [73](cml10.htm#page_73), [76](cml10.htm#page_76.md).
 
-Conlaoch, son of Cuchulainn, [177](cml16.htm#page_177),
-[178](cml16.htm#page_178).
+Conlaoch, son of Cuchulainn, [177](cml16.htm#page_177.md),
+[178](cml16.htm#page_178.md).
 
-Conn the Hundred Fighter, [201](cml18.htm#page_201),
-[202](cml18.htm#page_202).
+Conn the Hundred Fighter, [201](cml18.htm#page_201.md),
+[202](cml18.htm#page_202.md).
 
-Conn, son of Lêr, [143](cml15.htm#page_143).
+Conn, son of Lêr, [143](cml15.htm#page_143.md).
 
 <span id="page_430">p. 430</span>
 
-Conn, son of Miodhchaoin, [105](cml12.htm#page_105).
+Conn, son of Miodhchaoin, [105](cml12.htm#page_105.md).
 
-Connaught, [73](cml10.htm#page_73), [75](cml10.htm#page_75),
-[76](cml10.htm#page_76), [165](cml16.htm#page_165),
-[168](cml16.htm#page_168).
+Connaught, [73](cml10.htm#page_73), [75](cml10.htm#page_75.md),
+[76](cml10.htm#page_76), [165](cml16.htm#page_165.md),
+[168](cml16.htm#page_168.md).
 
-Connla, son of Conn the Hundred Fighter, [202](cml18.htm#page_202).
+Connla, son of Conn the Hundred Fighter, [202](cml18.htm#page_202.md).
 
-*Contemporary Review*, the, [241](cml19.htm#page_241).
+*Contemporary Review*, the, [241](cml19.htm#page_241.md).
 
-Contrary Head, [242](cml19.htm#page_242).
+Contrary Head, [242](cml19.htm#page_242.md).
 
-Conway, river, [262](cml20.htm#page_262).
+Conway, river, [262](cml20.htm#page_262.md).
 
-Cooking-places of the Fenians, [206](cml18.htm#page_206).
+Cooking-places of the Fenians, [206](cml18.htm#page_206.md).
 
-Cooking-spits of the women of Fianchuivé, [96](cml12.htm#page_96); at
-Tara, [98](cml12.htm#page_98).
+Cooking-spits of the women of Fianchuivé, [96](cml12.htm#page_96.md); at
+Tara, [98](cml12.htm#page_98.md).
 
 Cooley, see Cualgne.
 
 Coranians, a mythical tribe of dwarfs,
-[377](cml28.htm#page_377)-[379](cml28.htm#page_379).
+[377](cml28.htm#page_377)-[379](cml28.htm#page_379.md).
 
-Corb, an Iberian god, [64](cml09.htm#page_64).
+Corb, an Iberian god, [64](cml09.htm#page_64.md).
 
-Corbridge, [275](cml20.htm#page_275).
+Corbridge, [275](cml20.htm#page_275.md).
 
-Core, son of Miodhchaoin, [105](cml12.htm#page_105).
+Core, son of Miodhchaoin, [105](cml12.htm#page_105.md).
 
-Corca-Duibhne, [70](cml10.htm#page_70).
+Corca-Duibhne, [70](cml10.htm#page_70.md).
 
-Corca-Oidce, [70](cml10.htm#page_70).
+Corca-Oidce, [70](cml10.htm#page_70.md).
 
 Cordeilla, daughter of Leir, in Geoffrey of Monmouth's *History*,
-[381](cml28.htm#page_381)-[383](cml28.htm#page_383).
+[381](cml28.htm#page_381)-[383](cml28.htm#page_383.md).
 
 Cordelia, daughter of Shakespeare's *King Lear*,
-[259](cml20.htm#page_259), [381](cml28.htm#page_381).
+[259](cml20.htm#page_259), [381](cml28.htm#page_381.md).
 
-Coritiacus, a war-god worshipped in Britain, [275](cml20.htm#page_275).
+Coritiacus, a war-god worshipped in Britain, [275](cml20.htm#page_275.md).
 
-Cormac, "the Magnificent", [201](cml18.htm#page_201),
-[202](cml18.htm#page_202), [203](cml18.htm#page_203),
-[206](cml18.htm#page_206), [215](cml18.htm#page_215),
-[222](cml18.htm#page_222), [315](cml25.htm#page_315).
+Cormac, "the Magnificent", [201](cml18.htm#page_201.md),
+[202](cml18.htm#page_202), [203](cml18.htm#page_203.md),
+[206](cml18.htm#page_206), [215](cml18.htm#page_215.md),
+[222](cml18.htm#page_222), [315](cml25.htm#page_315.md).
 
-Cornwall, [3](cml05.htm#page_3), [23](cml07.htm#page_23),
-[294](cml22.htm#page_294), [296](cml22.htm#page_296),
-[327](cml25.htm#page_327), [334](cml25.htm#page_334),
-[353](cml26.htm#page_353), [382](cml28.htm#page_382),
-[384](cml28.htm#page_384).
+Cornwall, [3](cml05.htm#page_3), [23](cml07.htm#page_23.md),
+[294](cml22.htm#page_294), [296](cml22.htm#page_296.md),
+[327](cml25.htm#page_327), [334](cml25.htm#page_334.md),
+[353](cml26.htm#page_353), [382](cml28.htm#page_382.md),
+[384](cml28.htm#page_384.md).
 
-Coronation Stone, the, [71](cml10.htm#page_71).
+Coronation Stone, the, [71](cml10.htm#page_71.md).
 
 Corrib, see Lough Corrib.
 
 Corspitium, see Corbridge.
 
-Corwenna, mother of Brennius and Belinus, [385](cml28.htm#page_385).
+Corwenna, mother of Brennius and Belinus, [385](cml28.htm#page_385.md).
 
-Count of Britain, [313](cml25.htm#page_313); of the Saxon Shore,
-[314](cml25.htm#page_314).
+Count of Britain, [313](cml25.htm#page_313.md); of the Saxon Shore,
+[314](cml25.htm#page_314.md).
 
-Court of Dôn, the, [252](cml20.htm#page_252), [317](cml25.htm#page_317).
+Court of Dôn, the, [252](cml20.htm#page_252), [317](cml25.htm#page_317.md).
 
-Cow, Balor's Gray, [235](cml19.htm#page_235), [236](cml19.htm#page_236),
-[237](cml19.htm#page_237), [240](cml19.htm#page_240); Mider's three
-cows, [57](cml09.htm#page_57), [176](cml16.htm#page_176).
+Cow, Balor's Gray, [235](cml19.htm#page_235), [236](cml19.htm#page_236.md),
+[237](cml19.htm#page_237), [240](cml19.htm#page_240.md); Mider's three
+cows, [57](cml09.htm#page_57), [176](cml16.htm#page_176.md).
 
-Cow, Book of the Dun, [10](cml06.htm#page_10), [12](cml06.htm#page_12),
-[14](cml06.htm#page_14), [37](cml08.htm#page_37),
-[156](cml16.htm#page_156), [164](cml16.htm#page_164),
-[175](cml16.htm#page_175), [184](cml17.htm#page_184),
-[202](cml18.htm#page_202), [227](cml19.htm#page_227).
+Cow, Book of the Dun, [10](cml06.htm#page_10), [12](cml06.htm#page_12.md),
+[14](cml06.htm#page_14), [37](cml08.htm#page_37.md),
+[156](cml16.htm#page_156), [164](cml16.htm#page_164.md),
+[175](cml16.htm#page_175), [184](cml17.htm#page_184.md),
+[202](cml18.htm#page_202), [227](cml19.htm#page_227.md).
 
 Credné, the bronze-worker of the Tuatha Dé Danann,
-[85](cml11.htm#page_85), [86](cml11.htm#page_86),
-[109](cml13.htm#page_109).
+[85](cml11.htm#page_85), [86](cml11.htm#page_86.md),
+[109](cml13.htm#page_109.md).
 
-Crete, [153](cml16.htm#page_153).
+Crete, [153](cml16.htm#page_153.md).
 
 Creudylad, daughter of the British sky-god Lludd,
-[256](cml20.htm#page_256), [258](cml20.htm#page_258),
-[259](cml20.htm#page_259), [332](cml25.htm#page_332),
-[348](cml26.htm#page_348), [381](cml28.htm#page_381),
-[407](cml29.htm#page_407).
+[256](cml20.htm#page_256), [258](cml20.htm#page_258.md),
+[259](cml20.htm#page_259), [332](cml25.htm#page_332.md),
+[348](cml26.htm#page_348), [381](cml28.htm#page_381.md),
+[407](cml29.htm#page_407.md).
 
-Criminal Resolutions of Britain, the Three, [334](cml25.htm#page_334).
+Criminal Resolutions of Britain, the Three, [334](cml25.htm#page_334.md).
 
-*Crom Croich*, [40](cml08.htm#page_40).
+*Crom Croich*, [40](cml08.htm#page_40.md).
 
-*Cromm Cruaich*, [38](cml08.htm#page_38), [39](cml08.htm#page_39),
-[41](cml08.htm#page_41), [154](cml16.htm#page_154),
-[402](cml29.htm#page_402).
+*Cromm Cruaich*, [38](cml08.htm#page_38), [39](cml08.htm#page_39.md),
+[41](cml08.htm#page_41), [154](cml16.htm#page_154.md),
+[402](cml29.htm#page_402.md).
 
-Cronos, [63](cml09.htm#page_63), [65](cml10.htm#page_65),
-[326](cml25.htm#page_326).
+Cronos, [63](cml09.htm#page_63), [65](cml10.htm#page_65.md),
+[326](cml25.htm#page_326.md).
 
-"Croppies' Grave", the, at Tara, [72](cml10.htm#page_72).
+"Croppies' Grave", the, at Tara, [72](cml10.htm#page_72.md).
 
-Cruind, the river, [165](cml16.htm#page_165).
+Cruind, the river, [165](cml16.htm#page_165.md).
 
-Cu, son of Diancecht, [62](cml09.htm#page_62), [90](cml12.htm#page_90).
+Cu, son of Diancecht, [62](cml09.htm#page_62), [90](cml12.htm#page_90.md).
 
-Cualgne, a province of Ulster, [264](cml20.htm#page_264),
-[165](cml16.htm#page_165) [175](cml16.htm#page_175).
+Cualgne, a province of Ulster, [264](cml20.htm#page_264.md),
+[165](cml16.htm#page_165) [175](cml16.htm#page_175.md).
 
-Cuan, head of the Munster Fenians, [218](cml18.htm#page_218).
+Cuan, head of the Munster Fenians, [218](cml18.htm#page_218.md).
 
-Cuchulainn, chief hero of the Ultonians, [10](cml06.htm#page_10),
-[11](cml06.htm#page_11), [14](cml06.htm#page_14),
-[27](cml07.htm#page_27), [154](cml16.htm#page_154),
-[155](cml16.htm#page_155), [156](cml16.htm#page_156),
-[158](cml16.htm#page_158)-[188](cml17.htm#page_188),
-[192](cml17.htm#page_192), [193](cml17.htm#page_193),
-[202](cml18.htm#page_202), [204](cml18.htm#page_204),
-[210](cml18.htm#page_210), [217](cml18.htm#page_217),
-[223](cml18.htm#page_223), [227](cml19.htm#page_227),
-[274](cml20.htm#page_274), [366](cml27.htm#page_366); is the son of
-Lugh, [159](cml16.htm#page_159)-[160](cml16.htm#page_160); obvious solar
-character of, [158](cml16.htm#page_158)-[159](cml16.htm#page_159); how
+Cuchulainn, chief hero of the Ultonians, [10](cml06.htm#page_10.md),
+[11](cml06.htm#page_11), [14](cml06.htm#page_14.md),
+[27](cml07.htm#page_27), [154](cml16.htm#page_154.md),
+[155](cml16.htm#page_155), [156](cml16.htm#page_156.md),
+[158](cml16.htm#page_158)-[188](cml17.htm#page_188.md),
+[192](cml17.htm#page_192), [193](cml17.htm#page_193.md),
+[202](cml18.htm#page_202), [204](cml18.htm#page_204.md),
+[210](cml18.htm#page_210), [217](cml18.htm#page_217.md),
+[223](cml18.htm#page_223), [227](cml19.htm#page_227.md),
+[274](cml20.htm#page_274), [366](cml27.htm#page_366.md); is the son of
+Lugh, [159](cml16.htm#page_159)-[160](cml16.htm#page_160.md); obvious solar
+character of, [158](cml16.htm#page_158)-[159](cml16.htm#page_159.md); how
 he obtained his name,
-[160](cml16.htm#page_160)-[161](cml16.htm#page_161); fights in the Táin
-Bó [Chuailgné](errata.htm#6),
-[164](cml16.htm#page_164)-[175](cml16.htm#page_175); his wooing of Emer,
-[184](cml17.htm#page_184)-[186](cml17.htm#page_186); his raid upon the
-Other World, [175](cml16.htm#page_175)-[176](cml16.htm#page_176); his
-death, [183](cml16.htm#page_183); is raised from the dead by Saint
-Patrick, [227](cml19.htm#page_227).
+[160](cml16.htm#page_160)-[161](cml16.htm#page_161.md); fights in the Táin
+Bó [Chuailgné](errata.htm#6.md),
+[164](cml16.htm#page_164)-[175](cml16.htm#page_175.md); his wooing of Emer,
+[184](cml17.htm#page_184)-[186](cml17.htm#page_186.md); his raid upon the
+Other World, [175](cml16.htm#page_175)-[176](cml16.htm#page_176.md); his
+death, [183](cml16.htm#page_183.md); is raised from the dead by Saint
+Patrick, [227](cml19.htm#page_227.md).
 
-Culann, chief smith of the Ultonians, [161](cml16.htm#page_161);
-"Culann's Hound", [161](cml16.htm#page_161), [166](cml16.htm#page_166).
+Culann, chief smith of the Ultonians, [161](cml16.htm#page_161.md);
+"Culann's Hound", [161](cml16.htm#page_161), [166](cml16.htm#page_166.md).
 
-"Culture-King", [153](cml16.htm#page_153).
+"Culture-King", [153](cml16.htm#page_153.md).
 
-Cumhal, father of Finn, [204](cml18.htm#page_204),
-[209](cml18.htm#page_209), [210](cml18.htm#page_210),
-[275](cml20.htm#page_275).
+Cumhal, father of Finn, [204](cml18.htm#page_204.md),
+[209](cml18.htm#page_209), [210](cml18.htm#page_210.md),
+[275](cml20.htm#page_275.md).
 
-Cunedda, a North British king, [373](cml28.htm#page_373). Cunobelinus,
-king of Britain, [387](cml28.htm#page_387). Curoi, king of Munster,
-[147](cml15.htm#page_147), [154](cml16.htm#page_154).
-[179](cml16.htm#page_179).
+Cunedda, a North British king, [373](cml28.htm#page_373.md). Cunobelinus,
+king of Britain, [387](cml28.htm#page_387.md). Curoi, king of Munster,
+[147](cml15.htm#page_147), [154](cml16.htm#page_154.md).
+[179](cml16.htm#page_179.md).
 
-Custennin, [343](cml26.htm#page_343), [344](cml26.htm#page_344).
+Custennin, [343](cml26.htm#page_343), [344](cml26.htm#page_344.md).
 
-Cuthbert, Saint, bulls sacrificed to, [413](cml29.htm#page_413).
+Cuthbert, Saint, bulls sacrificed to, [413](cml29.htm#page_413.md).
 
-Cwm Cawlwyd, the Owl of, [349](cml26.htm#page_349).
+Cwm Cawlwyd, the Owl of, [349](cml26.htm#page_349.md).
 
-Cwn Annwn, the "Hounds of Hell" [391](cml28.htm#page_391),
-[392](cml28.htm#page_392).
+Cwn Annwn, the "Hounds of Hell" [391](cml28.htm#page_391.md),
+[392](cml28.htm#page_392.md).
 
-Cwy, [320](cml25.htm#page_320).
+Cwy, [320](cml25.htm#page_320.md).
 
-Cymbeline, Shakespeare's, [387](cml28.htm#page_387).
+Cymbeline, Shakespeare's, [387](cml28.htm#page_387.md).
 
-Cymri, [255](cml20.htm#page_255), [373](cml28.htm#page_373).
+Cymri, [255](cml20.htm#page_255), [373](cml28.htm#page_373.md).
 
  
 
-Dagda, the, Gaelic god of the Earth, [54](cml09.htm#page_54),
-[78](cml11.htm#page_78), [79](cml11.htm#page_79),
-[87](cml11.htm#page_87), [98](cml12.htm#page_98),
-[107](cml13.htm#page_107)-[109](cml13.htm#page_109),
-[116](cml13.htm#page_116), [117](cml13.htm#page_117),
-[122](cml14.htm#page_122), [132](cml15.htm#page_132),
-[135](cml15.htm#page_135), [136](cml15.htm#page_136),
-[138](cml15.htm#page_138)-[141](cml15.htm#page_141),
-[156](cml16.htm#page_156), [157](cml16.htm#page_157),
-[211](cml18.htm#page_211), [213](cml18.htm#page_213),
-[228](cml19.htm#page_228), [230](cml19.htm#page_230),
-[240](cml19.htm#page_240), [243](cml19.htm#page_243),
-[269](cml20.htm#page_269), [346](cml26.htm#page_346),
-[366](cml27.htm#page_366); his dress, arms, and harp,
-[54](cml09.htm#page_54); his porridge-feast, [108](cml13.htm#page_108);
-is cheated by his son Angus, [139](cml15.htm#page_139); resigns the
-kingship of the Tuatha Dé Danann, [140](cml15.htm#page_140); his last
-appearance, [157](cml16.htm#page_157).
+Dagda, the, Gaelic god of the Earth, [54](cml09.htm#page_54.md),
+[78](cml11.htm#page_78), [79](cml11.htm#page_79.md),
+[87](cml11.htm#page_87), [98](cml12.htm#page_98.md),
+[107](cml13.htm#page_107)-[109](cml13.htm#page_109.md),
+[116](cml13.htm#page_116), [117](cml13.htm#page_117.md),
+[122](cml14.htm#page_122), [132](cml15.htm#page_132.md),
+[135](cml15.htm#page_135), [136](cml15.htm#page_136.md),
+[138](cml15.htm#page_138)-[141](cml15.htm#page_141.md),
+[156](cml16.htm#page_156), [157](cml16.htm#page_157.md),
+[211](cml18.htm#page_211), [213](cml18.htm#page_213.md),
+[228](cml19.htm#page_228), [230](cml19.htm#page_230.md),
+[240](cml19.htm#page_240), [243](cml19.htm#page_243.md),
+[269](cml20.htm#page_269), [346](cml26.htm#page_346.md),
+[366](cml27.htm#page_366.md); his dress, arms, and harp,
+[54](cml09.htm#page_54); his porridge-feast, [108](cml13.htm#page_108.md);
+is cheated by his son Angus, [139](cml15.htm#page_139.md); resigns the
+kingship of the Tuatha Dé Danann, [140](cml15.htm#page_140.md); his last
+appearance, [157](cml16.htm#page_157.md).
 
-Dairé of Cualgne, owner of the Brown Bull, [165](cml16.htm#page_165).
+Dairé of Cualgne, owner of the Brown Bull, [165](cml16.htm#page_165.md).
 
-Dalân, druid of Eochaid Airem, [392](cml28.htm#page_392).
+Dalân, druid of Eochaid Airem, [392](cml28.htm#page_392.md).
 
-Danes, the, [230](cml19.htm#page_230).
+Danes, the, [230](cml19.htm#page_230.md).
 
 Danu, the mother of the Gaelic gods, the same as Anu, *q.v.*,
-[44](cml08.htm#page_44), [50](cml09.htm#page_50),
-[51](cml09.htm#page_51), [74](cml10.htm#page_74)
-[245](cml19.htm#page_245), [252](cml20.htm#page_252),
-[407](cml29.htm#page_407).
+[44](cml08.htm#page_44), [50](cml09.htm#page_50.md),
+[51](cml09.htm#page_51), [74](cml10.htm#page_74.md)
+[245](cml19.htm#page_245), [252](cml20.htm#page_252.md),
+[407](cml29.htm#page_407.md).
 
-Dart, river, [414](cml29.htm#page_414).
+Dart, river, [414](cml29.htm#page_414.md).
 
-Dartmoor, [392](cml28.htm#page_392).
+Dartmoor, [392](cml28.htm#page_392.md).
 
-Darvha, Lake, [143](cml15.htm#page_143)-[145](cml15.htm#page_145).
+Darvha, Lake, [143](cml15.htm#page_143)-[145](cml15.htm#page_145.md).
 
 <span id="page_431">p. 431</span>
 
-Deaf Valley, the, [180](cml16.htm#page_180).
+Deaf Valley, the, [180](cml16.htm#page_180.md).
 
-Dechtiré, mother of Cuchulainn, [156](cml16.htm#page_156),
-[159](cml16.htm#page_159), [160](cml16.htm#page_160),
-[181](cml16.htm#page_181).
+Dechtiré, mother of Cuchulainn, [156](cml16.htm#page_156.md),
+[159](cml16.htm#page_159), [160](cml16.htm#page_160.md),
+[181](cml16.htm#page_181.md).
 
 Dé Danann, see Tuatha Dé Danann.
 
-Dee, river, [413](cml29.htm#page_413).
+Dee, river, [413](cml29.htm#page_413.md).
 
-Deimne, the first name of Finn, [210](cml18.htm#page_210).
+Deimne, the first name of Finn, [210](cml18.htm#page_210.md).
 
-Deirdre, [190](cml17.htm#page_190)-[100](cml12.htm#page_100); Deirdre's
-Farewell to Alba, [194](cml17.htm#page_194)-[195](cml17.htm#page_195);
+Deirdre, [190](cml17.htm#page_190)-[100](cml12.htm#page_100.md); Deirdre's
+Farewell to Alba, [194](cml17.htm#page_194)-[195](cml17.htm#page_195.md);
 Deirdre's Lament over the Sons of Usnach,
-[299](cml23.htm#page_299)-[200](cml17.htm#page_200).
+[299](cml23.htm#page_299)-[200](cml17.htm#page_200.md).
 
-Demetia, Roman province of, [273](cml20.htm#page_273),
-[278](cml21.htm#page_278).
+Demetia, Roman province of, [273](cml20.htm#page_273.md),
+[278](cml21.htm#page_278.md).
 
-Demetrius, an early traveller in Britain, [326](cml25.htm#page_326).
+Demetrius, an early traveller in Britain, [326](cml25.htm#page_326.md).
 
-"Demon of the air", Aeifé changed into a, [145](cml15.htm#page_145).
+"Demon of the air", Aeifé changed into a, [145](cml15.htm#page_145.md).
 
 Derivla, a sacred well in the island of Inniskea,
-[415](cml29.htm#page_415).
+[415](cml29.htm#page_415.md).
 
 Desmond, fourth Earl of, nicknamed "the Magician",
-[245](cml19.htm#page_245).
+[245](cml19.htm#page_245.md).
 
 "Destiny, laying a", a Celtic custom,
-[262](cml20.htm#page_262)-[265](cml20.htm#page_265),
-[340](cml26.htm#page_340). Devon, [312](cml25.htm#page_312),
-[392](cml28.htm#page_392).
+[262](cml20.htm#page_262)-[265](cml20.htm#page_265.md),
+[340](cml26.htm#page_340). Devon, [312](cml25.htm#page_312.md),
+[392](cml28.htm#page_392.md).
 
-Devwy, the dales of, [320](cml25.htm#page_320).
+Devwy, the dales of, [320](cml25.htm#page_320.md).
 
-*Dialogue of the Elders*, the, [205](cml18.htm#page_205),
-[222](cml18.htm#page_222), [404](cml29.htm#page_404); Dialogues of
-Patrick and Ossian, [226](cml18.htm#page_226)-[227](cml19.htm#page_227).
+*Dialogue of the Elders*, the, [205](cml18.htm#page_205.md),
+[222](cml18.htm#page_222), [404](cml29.htm#page_404.md); Dialogues of
+Patrick and Ossian, [226](cml18.htm#page_226)-[227](cml19.htm#page_227.md).
 
-Diancecht, the Gaelic god of medicine, [61](cml09.htm#page_61),
-[62](cml09.htm#page_62), [78](cml11.htm#page_78),
-[80](cml11.htm#page_80), [81](cml11.htm#page_81),
-[82](cml11.htm#page_82), [84](cml11.htm#page_84),
-[85](cml11.htm#page_85), [86](cml11.htm#page_86),
-[90](cml12.htm#page_90), [110](cml13.htm#page_110),
-[141](cml15.htm#page_141), [232](cml19.htm#page_232),
-[269](cml20.htm#page_269); makes a silver hand for Nuada,
-[78](cml11.htm#page_78); kills his son Miach,
-[81](cml11.htm#page_81)-[82](cml11.htm#page_82); presides over the
-"Spring of Health", [110](cml13.htm#page_110); prescriptions of
-Diancecht, [232](cml19.htm#page_232).
+Diancecht, the Gaelic god of medicine, [61](cml09.htm#page_61.md),
+[62](cml09.htm#page_62), [78](cml11.htm#page_78.md),
+[80](cml11.htm#page_80), [81](cml11.htm#page_81.md),
+[82](cml11.htm#page_82), [84](cml11.htm#page_84.md),
+[85](cml11.htm#page_85), [86](cml11.htm#page_86.md),
+[90](cml12.htm#page_90), [110](cml13.htm#page_110.md),
+[141](cml15.htm#page_141), [232](cml19.htm#page_232.md),
+[269](cml20.htm#page_269.md); makes a silver hand for Nuada,
+[78](cml11.htm#page_78.md); kills his son Miach,
+[81](cml11.htm#page_81)-[82](cml11.htm#page_82.md); presides over the
+"Spring of Health", [110](cml13.htm#page_110.md); prescriptions of
+Diancecht, [232](cml19.htm#page_232.md).
 
-Diarmait O’Duibhne, the Fenian Adonis, [209](cml18.htm#page_209),
-[212](cml18.htm#page_212),
-[215](cml18.htm#page_215)-[221](cml18.htm#page_221),
-[315](cml25.htm#page_315).
+Diarmait O’Duibhne, the Fenian Adonis, [209](cml18.htm#page_209.md),
+[212](cml18.htm#page_212.md),
+[215](cml18.htm#page_215)-[221](cml18.htm#page_221.md),
+[315](cml25.htm#page_315.md).
 
-Dinadan, Sir, [328](cml25.htm#page_328).
+Dinadan, Sir, [328](cml25.htm#page_328.md).
 
-Dinas Dinllev, [264](cml20.htm#page_264).
+Dinas Dinllev, [264](cml20.htm#page_264.md).
 
-Dings Emrys, [324](cml25.htm#page_324), [381](cml28.htm#page_381).
+Dings Emrys, [324](cml25.htm#page_324), [381](cml28.htm#page_381.md).
 
-Dingwall, Registers of the Presbytery of, [412](cml29.htm#page_412).
+Dingwall, Registers of the Presbytery of, [412](cml29.htm#page_412.md).
 
-*Dinnsenchus*, [38](cml08.htm#page_38), [40](cml08.htm#page_40),
-[132](cml15.htm#page_132), [154](cml16.htm#page_154).
+*Dinnsenchus*, [38](cml08.htm#page_38), [40](cml08.htm#page_40.md),
+[132](cml15.htm#page_132), [154](cml16.htm#page_154.md).
 
-Dio Cassius, [387](cml28.htm#page_387).
+Dio Cassius, [387](cml28.htm#page_387.md).
 
-Diodorus Siculus, [41](cml08.htm#page_41), [42](cml08.htm#page_42),
-[325](cml25.htm#page_325).
+Diodorus Siculus, [41](cml08.htm#page_41), [42](cml08.htm#page_42.md),
+[325](cml25.htm#page_325.md).
 
-Dionysus, rites of, [410](cml29.htm#page_410).
+Dionysus, rites of, [410](cml29.htm#page_410.md).
 
-Dis Pater, [51](cml09.htm#page_51), [120](cml14.htm#page_120),
-[252](cml20.htm#page_252), [383](cml28.htm#page_383).
+Dis Pater, [51](cml09.htm#page_51), [120](cml14.htm#page_120.md),
+[252](cml20.htm#page_252), [383](cml28.htm#page_383.md).
 
-Dissull the Giant, [348](cml26.htm#page_348)-[349](cml26.htm#page_349).
+Dissull the Giant, [348](cml26.htm#page_348)-[349](cml26.htm#page_349.md).
 
-Diwrnach the Gael, the cauldron of, [346](cml26.htm#page_346),
-[349](cml26.htm#page_349).
+Diwrnach the Gael, the cauldron of, [346](cml26.htm#page_346.md),
+[349](cml26.htm#page_349.md).
 
-Dobhar, king of Sicily, [96](cml12.htm#page_96),
-[98](cml12.htm#page_98), [202](cml18.htm#page_202),
-[103](cml12.htm#page_103).
+Dobhar, king of Sicily, [96](cml12.htm#page_96.md),
+[98](cml12.htm#page_98), [202](cml18.htm#page_202.md),
+[103](cml12.htm#page_103.md).
 
-Doctrine of the transmigration of souls, [36](cml08.htm#page_36),
-[37](cml08.htm#page_37).
+Doctrine of the transmigration of souls, [36](cml08.htm#page_36.md),
+[37](cml08.htm#page_37.md).
 
 Domnann, Fir, *i.e.* men of Domnu.
 
 See Fir Domnann.
 
-Domnu, a goddess, mother of the Fomors, [48](cml09.htm#page_48),
-[70](cml10.htm#page_70), [112](cml13.htm#page_112); meaning of the name,
-[48](cml09.htm#page_48); gods of Domnu, [48](cml09.htm#page_48),
-[70](cml10.htm#page_70); men of Domnu, [70](cml10.htm#page_70).
+Domnu, a goddess, mother of the Fomors, [48](cml09.htm#page_48.md),
+[70](cml10.htm#page_70), [112](cml13.htm#page_112.md); meaning of the name,
+[48](cml09.htm#page_48); gods of Domnu, [48](cml09.htm#page_48.md),
+[70](cml10.htm#page_70); men of Domnu, [70](cml10.htm#page_70.md).
 
-Dôn, the British equivalent of the Gaelic Danu, [44](cml08.htm#page_44),
-[252](cml20.htm#page_252), [260](cml20.htm#page_260),
-[268](cml20.htm#page_268), [269](cml20.htm#page_269),
-[273](cml20.htm#page_273), [295](cml22.htm#page_295),
-[308](cml24.htm#page_308), [310](cml24.htm#page_310),
-[316](cml25.htm#page_316); euhemerized into a king of Dublin,
-[372](cml28.htm#page_372)-[373](cml28.htm#page_373).
+Dôn, the British equivalent of the Gaelic Danu, [44](cml08.htm#page_44.md),
+[252](cml20.htm#page_252), [260](cml20.htm#page_260.md),
+[268](cml20.htm#page_268), [269](cml20.htm#page_269.md),
+[273](cml20.htm#page_273), [295](cml22.htm#page_295.md),
+[308](cml24.htm#page_308), [310](cml24.htm#page_310.md),
+[316](cml25.htm#page_316.md); euhemerized into a king of Dublin,
+[372](cml28.htm#page_372)-[373](cml28.htm#page_373.md).
 
-Donn, son of Milé, [126](cml14.htm#page_126)-[131](cml14.htm#page_131),
-[246](cml19.htm#page_246).
+Donn, son of Milé, [126](cml14.htm#page_126)-[131](cml14.htm#page_131.md),
+[246](cml19.htm#page_246.md).
 
-"Donn's House", [246](cml19.htm#page_246).
+"Donn's House", [246](cml19.htm#page_246.md).
 
-Dormarth, the hound of Gwyn son of Nudd, [257](cml20.htm#page_257).
+Dormarth, the hound of Gwyn son of Nudd, [257](cml20.htm#page_257.md).
 
-Dowth, [137](cml15.htm#page_137)-[138](cml15.htm#page_138).
+Dowth, [137](cml15.htm#page_137)-[138](cml15.htm#page_138.md).
 
-Dragon, Red, of Britain, [378](cml28.htm#page_378); White, of the
-Saxons, [378](cml28.htm#page_378).
+Dragon, Red, of Britain, [378](cml28.htm#page_378.md); White, of the
+Saxons, [378](cml28.htm#page_378.md).
 
-"Dragon-mouth", a lake called, [141](cml15.htm#page_141).
+"Dragon-mouth", a lake called, [141](cml15.htm#page_141.md).
 
-*Dream of Rhonabwy*, the, [260](cml20.htm#page_260),
-[312](cml25.htm#page_312), [337](cml26.htm#page_337),
-[338](cml26.htm#page_338).
+*Dream of Rhonabwy*, the, [260](cml20.htm#page_260.md),
+[312](cml25.htm#page_312), [337](cml26.htm#page_337.md),
+[338](cml26.htm#page_338.md).
 
-Drogheda, [137](cml15.htm#page_137).
+Drogheda, [137](cml15.htm#page_137.md).
 
-Drowes, river, [110](cml13.htm#page_110).
+Drowes, river, [110](cml13.htm#page_110.md).
 
-Drudwyn, the whelp of Greid the son of Eri, [347](cml26.htm#page_347).
+Drudwyn, the whelp of Greid the son of Eri, [347](cml26.htm#page_347.md).
 
-Druidism, the religion of the Celts, [35](cml08.htm#page_35),
-[43](cml08.htm#page_43); possibly non-Aryan in origin,
-[36](cml08.htm#page_36); in Gaul, [34](cml08.htm#page_34); derived from
-Britain, [35](cml08.htm#page_35); suppressed by the Romans,
-[399](cml29.htm#page_399), [400](cml29.htm#page_400).
+Druidism, the religion of the Celts, [35](cml08.htm#page_35.md),
+[43](cml08.htm#page_43.md); possibly non-Aryan in origin,
+[36](cml08.htm#page_36); in Gaul, [34](cml08.htm#page_34.md); derived from
+Britain, [35](cml08.htm#page_35.md); suppressed by the Romans,
+[399](cml29.htm#page_399), [400](cml29.htm#page_400.md).
 
-Druids, [18](cml07.htm#page_18),
-[33](cml08.htm#page_33)-[37](cml08.htm#page_37),
-[84](cml11.htm#page_84), [111](cml13.htm#page_111),
-[115](cml13.htm#page_115), [151](cml15.htm#page_151),
-[179](cml16.htm#page_179), [180](cml16.htm#page_180),
-[182](cml16.htm#page_182), [188](cml17.htm#page_188),
-[202](cml18.htm#page_202),
-[399](cml29.htm#page_399)-[401](cml29.htm#page_401),
-[411](cml29.htm#page_411), [412](cml29.htm#page_412),
-[417](cml29.htm#page_417); origin of the name, [33](cml08.htm#page_33);
-in Gaul, [34](cml08.htm#page_34); in Britain, [35](cml08.htm#page_35);
-human sacrifices of the druids, [37](cml08.htm#page_37),
-[412](cml29.htm#page_412); the druids of Brude, king of the Picts,
-[401](cml29.htm#page_401).
+Druids, [18](cml07.htm#page_18.md),
+[33](cml08.htm#page_33)-[37](cml08.htm#page_37.md),
+[84](cml11.htm#page_84), [111](cml13.htm#page_111.md),
+[115](cml13.htm#page_115), [151](cml15.htm#page_151.md),
+[179](cml16.htm#page_179), [180](cml16.htm#page_180.md),
+[182](cml16.htm#page_182), [188](cml17.htm#page_188.md),
+[202](cml18.htm#page_202.md),
+[399](cml29.htm#page_399)-[401](cml29.htm#page_401.md),
+[411](cml29.htm#page_411), [412](cml29.htm#page_412.md),
+[417](cml29.htm#page_417); origin of the name, [33](cml08.htm#page_33.md);
+in Gaul, [34](cml08.htm#page_34); in Britain, [35](cml08.htm#page_35.md);
+human sacrifices of the druids, [37](cml08.htm#page_37.md),
+[412](cml29.htm#page_412.md); the druids of Brude, king of the Picts,
+[401](cml29.htm#page_401.md).
 
-Drumcain, an old name for Tara, [126](cml14.htm#page_126).
+Drumcain, an old name for Tara, [126](cml14.htm#page_126.md).
 
-Dublin, [66](cml10.htm#page_66), [372](cml28.htm#page_372).
+Dublin, [66](cml10.htm#page_66), [372](cml28.htm#page_372.md).
 
-Duke of the Britains, the, [313](cml25.htm#page_313).
+Duke of the Britains, the, [313](cml25.htm#page_313.md).
 
-Dulachan, [247](cml19.htm#page_247), [248](cml19.htm#page_248).
+Dulachan, [247](cml19.htm#page_247), [248](cml19.htm#page_248.md).
 
-*Dul-dauna*, the, [237](cml19.htm#page_237).
+*Dul-dauna*, the, [237](cml19.htm#page_237.md).
 
 Dun Cow, Book of the. See Cow.
 
-Dundalk, [177](cml16.htm#page_177).
+Dundalk, [177](cml16.htm#page_177.md).
 
-Dundealgan, [177](cml16.htm#page_177), [181](cml16.htm#page_181),
-[188](cml17.htm#page_188), [189](cml17.htm#page_189).
+Dundealgan, [177](cml16.htm#page_177), [181](cml16.htm#page_181.md),
+[188](cml17.htm#page_188), [189](cml17.htm#page_189.md).
 
-Dún Scaith, [175](cml16.htm#page_175)-[176](cml16.htm#page_176).
+Dún Scaith, [175](cml16.htm#page_175)-[176](cml16.htm#page_176.md).
 
 *Dux Britanniarum*. See Duke of the Britain.
 
-Dwynwen, Saint, [388](cml28.htm#page_388).
+Dwynwen, Saint, [388](cml28.htm#page_388.md).
 
-Dyfan, Saint, [386](cml28.htm#page_386).
+Dyfan, Saint, [386](cml28.htm#page_386.md).
 
-Dyfed, or Demetia, a province of South Wales, [273](cml20.htm#page_273),
-[278](cml21.htm#page_278), [279](cml21.htm#page_279),
-[281](cml21.htm#page_281), [282](cml21.htm#page_282),
-[286](cml21.htm#page_286),
-[298](cml23.htm#page_298)-[301](cml23.htm#page_301),
-[303](cml23.htm#page_303), [304](cml23.htm#page_304),
-[309](cml24.htm#page_309), [310](cml24.htm#page_310),
-[394](cml28.htm#page_394).
+Dyfed, or Demetia, a province of South Wales, [273](cml20.htm#page_273.md),
+[278](cml21.htm#page_278), [279](cml21.htm#page_279.md),
+[281](cml21.htm#page_281), [282](cml21.htm#page_282.md),
+[286](cml21.htm#page_286.md),
+[298](cml23.htm#page_298)-[301](cml23.htm#page_301.md),
+[303](cml23.htm#page_303), [304](cml23.htm#page_304.md),
+[309](cml24.htm#page_309), [310](cml24.htm#page_310.md),
+[394](cml28.htm#page_394.md).
 
-Dylan, a British god, [261](cml20.htm#page_261),
-[262](cml20.htm#page_262), [322](cml25.htm#page_322),
-[335](cml25.htm#page_335), [360](cml27.htm#page_360),
-[364](cml27.htm#page_364), [371](cml28.htm#page_371).
+Dylan, a British god, [261](cml20.htm#page_261.md),
+[262](cml20.htm#page_262), [322](cml25.htm#page_322.md),
+[335](cml25.htm#page_335), [360](cml27.htm#page_360.md),
+[364](cml27.htm#page_364), [371](cml28.htm#page_371.md).
 
 <span id="page_432">p. 432</span>
 
-Eagle, of Gwern Abwy, [350](cml26.htm#page_350); Lleu changed into an,
-[266](cml20.htm#page_266)-[268](cml20.htm#page_268).
+Eagle, of Gwern Abwy, [350](cml26.htm#page_350.md); Lleu changed into an,
+[266](cml20.htm#page_266)-[268](cml20.htm#page_268.md).
 
-Earl Gerald, [245](cml19.htm#page_245).
+Earl Gerald, [245](cml19.htm#page_245.md).
 
-Easal, king of the Golden Pillars, [96](cml12.htm#page_96),
-[103](cml12.htm#page_103).
+Easal, king of the Golden Pillars, [96](cml12.htm#page_96.md),
+[103](cml12.htm#page_103.md).
 
-Eber, son of Milé, [129](cml14.htm#page_129)-[131](cml14.htm#page_131),
-[146](cml15.htm#page_146), [153](cml16.htm#page_153).
+Eber, son of Milé, [129](cml14.htm#page_129)-[131](cml14.htm#page_131.md),
+[146](cml15.htm#page_146), [153](cml16.htm#page_153.md).
 
-Eber Scot, [120](cml14.htm#page_120).
+Eber Scot, [120](cml14.htm#page_120.md).
 
-Eboracum, Roman name of York, [275](cml20.htm#page_275).
+Eboracum, Roman name of York, [275](cml20.htm#page_275.md).
 
-Edeyrn, son of Nudd, [260](cml20.htm#page_260).
+Edeyrn, son of Nudd, [260](cml20.htm#page_260.md).
 
-Edinburgh, the Advocates Library at, [11](cml06.htm#page_11).
+Edinburgh, the Advocates Library at, [11](cml06.htm#page_11.md).
 
-Eel, the Morrígú takes the shape of an, [169](cml16.htm#page_169);
+Eel, the Morrígú takes the shape of an, [169](cml16.htm#page_169.md);
 transformation of the rival swineherds into eels,
-[165](cml16.htm#page_165).
+[165](cml16.htm#page_165.md).
 
-Egypt, [120](cml14.htm#page_120).
+Egypt, [120](cml14.htm#page_120.md).
 
-Eigen, the first female saint in Britain, [386](cml28.htm#page_386).
+Eigen, the first female saint in Britain, [386](cml28.htm#page_386.md).
 
-Eildon Hills, Arthur living beneath the, [335](cml25.htm#page_335).
+Eildon Hills, Arthur living beneath the, [335](cml25.htm#page_335.md).
 
-Elaine, [362](cml27.htm#page_362).
+Elaine, [362](cml27.htm#page_362.md).
 
-Elathan, a king of the Fomors, [49](cml09.htm#page_49),
-[50](cml09.htm#page_50), [78](cml11.htm#page_78),
-[83](cml11.htm#page_83), [90](cml12.htm#page_90),
-[116](cml13.htm#page_116), [269](cml20.htm#page_269).
+Elathan, a king of the Fomors, [49](cml09.htm#page_49.md),
+[50](cml09.htm#page_50), [78](cml11.htm#page_78.md),
+[83](cml11.htm#page_83), [90](cml12.htm#page_90.md),
+[116](cml13.htm#page_116), [269](cml20.htm#page_269.md).
 
-Elayne, [358](cml27.htm#page_358).
+Elayne, [358](cml27.htm#page_358.md).
 
-Elberich, [392](cml28.htm#page_392).
+Elberich, [392](cml28.htm#page_392.md).
 
 *Elders, Dialogue of the*. See *Dialogue*.
 
-Elen Lwyddawg, wife of Myrddin, [323](cml25.htm#page_323),
-[362](cml27.htm#page_362).
+Elen Lwyddawg, wife of Myrddin, [323](cml25.htm#page_323.md),
+[362](cml27.htm#page_362.md).
 
-Eleutherius, Pope, [386](cml28.htm#page_386).
+Eleutherius, Pope, [386](cml28.htm#page_386.md).
 
-[Ellyllon](errata.htm#7), the Welsh elves, [393](cml28.htm#page_393).
+[Ellyllon](errata.htm#7), the Welsh elves, [393](cml28.htm#page_393.md).
 
-Elton's *Origins of English History*, [6](cml05.htm#page_6),
-[8](cml06.htm#page_8), [25](cml07.htm#page_25), [26](cml07.htm#page_26),
-[70](cml10.htm#page_70), [228](cml19.htm#page_228),
-[327](cml25.htm#page_327), [413](cml29.htm#page_413).
+Elton's *Origins of English History*, [6](cml05.htm#page_6.md),
+[8](cml06.htm#page_8), [25](cml07.htm#page_25), [26](cml07.htm#page_26.md),
+[70](cml10.htm#page_70), [228](cml19.htm#page_228.md),
+[327](cml25.htm#page_327), [413](cml29.htm#page_413.md).
 
-Elves, [393](cml28.htm#page_393).
+Elves, [393](cml28.htm#page_393.md).
 
 Elysium, Celtic. See Other World, Celtic.
 
-Entails Macha, the capital of ancient Ulster, [28](cml07.htm#page_28),
-[29](cml07.htm#page_29), [158](cml16.htm#page_158),
-[160](cml16.htm#page_160), [161](cml16.htm#page_161),
-[162](cml16.htm#page_162), [164](cml16.htm#page_164),
-[173](cml16.htm#page_173), [174](cml16.htm#page_174),
-[179](cml16.htm#page_179), [180](cml16.htm#page_180),
-[183](cml16.htm#page_183), [188](cml17.htm#page_188),
-[192](cml17.htm#page_192), [194](cml17.htm#page_194),
-[196](cml17.htm#page_196), [200](cml17.htm#page_200),
-[201](cml18.htm#page_201), [204](cml18.htm#page_204).
+Entails Macha, the capital of ancient Ulster, [28](cml07.htm#page_28.md),
+[29](cml07.htm#page_29), [158](cml16.htm#page_158.md),
+[160](cml16.htm#page_160), [161](cml16.htm#page_161.md),
+[162](cml16.htm#page_162), [164](cml16.htm#page_164.md),
+[173](cml16.htm#page_173), [174](cml16.htm#page_174.md),
+[179](cml16.htm#page_179), [180](cml16.htm#page_180.md),
+[183](cml16.htm#page_183), [188](cml17.htm#page_188.md),
+[192](cml17.htm#page_192), [194](cml17.htm#page_194.md),
+[196](cml17.htm#page_196), [200](cml17.htm#page_200.md),
+[201](cml18.htm#page_201), [204](cml18.htm#page_204.md).
 
-Emer, wife of Cuchulainn, [162](cml16.htm#page_162),
-[164](cml16.htm#page_164), [177](cml16.htm#page_177),
-[184](cml17.htm#page_184)-[188](cml17.htm#page_188).
+Emer, wife of Cuchulainn, [162](cml16.htm#page_162.md),
+[164](cml16.htm#page_164), [177](cml16.htm#page_177.md),
+[184](cml17.htm#page_184)-[188](cml17.htm#page_188.md).
 
-*Emer, the Wooing of*, an old Irish saga, [28](cml07.htm#page_28),
-[29](cml07.htm#page_29), [37](cml08.htm#page_37),
-[184](cml17.htm#page_184).
+*Emer, the Wooing of*, an old Irish saga, [28](cml07.htm#page_28.md),
+[29](cml07.htm#page_29), [37](cml08.htm#page_37.md),
+[184](cml17.htm#page_184.md).
 
 Emperor, a title given in Welsh legend to Arthur,
-[314](cml25.htm#page_314), [338](cml26.htm#page_338).
+[314](cml25.htm#page_314), [338](cml26.htm#page_338.md).
 
-Emrys, a title of Myrddin, [324](cml25.htm#page_324),
-[329](cml25.htm#page_329), [360](cml27.htm#page_360),
-[369](cml27.htm#page_369).
+Emrys, a title of Myrddin, [324](cml25.htm#page_324.md),
+[329](cml25.htm#page_329), [360](cml27.htm#page_360.md),
+[369](cml27.htm#page_369.md).
 
-Englishmen, Celtic strain in, [3](cml05.htm#page_3).
+Englishmen, Celtic strain in, [3](cml05.htm#page_3.md).
 
-"Entertaining of the Noble Head", the, [296](cml22.htm#page_296).
+"Entertaining of the Noble Head", the, [296](cml22.htm#page_296.md).
 
-Eochaid, son of Erc, king of the Fir Bolgs, [69](cml10.htm#page_69),
-[73](cml10.htm#page_73), [74](cml10.htm#page_74),
-[75](cml10.htm#page_75).
+Eochaid, son of Erc, king of the Fir Bolgs, [69](cml10.htm#page_69.md),
+[73](cml10.htm#page_73), [74](cml10.htm#page_74.md),
+[75](cml10.htm#page_75.md).
 
 Eochaid Airem, see Airem.
 
-Eochaid O’Flynn, an Irish poet, [231](cml19.htm#page_231).
+Eochaid O’Flynn, an Irish poet, [231](cml19.htm#page_231.md).
 
-Erc, king of Tara, [179](cml16.htm#page_179), [182](cml16.htm#page_182),
-[183](cml16.htm#page_183).
+Erc, king of Tara, [179](cml16.htm#page_179), [182](cml16.htm#page_182.md),
+[183](cml16.htm#page_183.md).
 
-Eremon, son of Mild, and first king of Ireland, [40](cml08.htm#page_40),
-[129](cml14.htm#page_129), [130](cml14.htm#page_130),
-[131](cml14.htm#page_131), [132](cml15.htm#page_132),
-[146](cml15.htm#page_146), [153](cml16.htm#page_153),
-[154](cml16.htm#page_154).
+Eremon, son of Mild, and first king of Ireland, [40](cml08.htm#page_40.md),
+[129](cml14.htm#page_129), [130](cml14.htm#page_130.md),
+[131](cml14.htm#page_131), [132](cml15.htm#page_132.md),
+[146](cml15.htm#page_146), [153](cml16.htm#page_153.md),
+[154](cml16.htm#page_154.md).
 
-Erin, [97](cml12.htm#page_97), [98](cml12.htm#page_98),
-[99](cml12.htm#page_99), [102](cml12.htm#page_102),
-[104](cml12.htm#page_104), [126](cml14.htm#page_126),
-[193](cml17.htm#page_193), [225](cml18.htm#page_225),
-[231](cml19.htm#page_231); meaning of the word,
-[126](cml14.htm#page_126).
+Erin, [97](cml12.htm#page_97), [98](cml12.htm#page_98.md),
+[99](cml12.htm#page_99), [102](cml12.htm#page_102.md),
+[104](cml12.htm#page_104), [126](cml14.htm#page_126.md),
+[193](cml17.htm#page_193), [225](cml18.htm#page_225.md),
+[231](cml19.htm#page_231.md); meaning of the word,
+[126](cml14.htm#page_126.md).
 
-Eriu, a goddess representing Ireland, [125](cml14.htm#page_125),
-[126](cml14.htm#page_126), [128](cml14.htm#page_128),
-[129](cml14.htm#page_129).
+Eriu, a goddess representing Ireland, [125](cml14.htm#page_125.md),
+[126](cml14.htm#page_126), [128](cml14.htm#page_128.md),
+[129](cml14.htm#page_129.md).
 
-Eros, the Gaelic, [56](cml09.htm#page_56), [140](cml15.htm#page_140).
+Eros, the Gaelic, [56](cml09.htm#page_56), [140](cml15.htm#page_140.md).
 See Angus.
 
 Essyllt, wife of March, or Mark. See Iseult.
 
-Etain, wife of Mider, [57](cml09.htm#page_57),
-[139](cml15.htm#page_139),
-[147](cml15.htm#page_147)-[152](cml15.htm#page_152),
-[154](cml16.htm#page_154), [224](cml18.htm#page_224),
-[331](cml25.htm#page_331)-[333](cml25.htm#page_333).
+Etain, wife of Mider, [57](cml09.htm#page_57.md),
+[139](cml15.htm#page_139.md),
+[147](cml15.htm#page_147)-[152](cml15.htm#page_152.md),
+[154](cml16.htm#page_154), [224](cml18.htm#page_224.md),
+[331](cml25.htm#page_331)-[333](cml25.htm#page_333.md).
 
-Etair, a vassal of King Conchobar, [147](cml15.htm#page_147).
+Etair, a vassal of King Conchobar, [147](cml15.htm#page_147.md).
 
-Etal Ambuel, father of Caer, [141](cml15.htm#page_141).
+Etal Ambuel, father of Caer, [141](cml15.htm#page_141.md).
 
-Etan, wife of Ogma, [62](cml09.htm#page_62), [87](cml11.htm#page_87),
-[239](cml19.htm#page_239).
+Etan, wife of Ogma, [62](cml09.htm#page_62), [87](cml11.htm#page_87.md),
+[239](cml19.htm#page_239.md).
 
-Ethnea, a name of Ethniu in modern folklore, [238](cml19.htm#page_238).
+Ethnea, a name of Ethniu in modern folklore, [238](cml19.htm#page_238.md).
 
-Ethniu, daughter of Balor, [62](cml09.htm#page_62),
-[79](cml11.htm#page_79), [84](cml11.htm#page_84),
-[90](cml12.htm#page_90), [269](cml20.htm#page_269),
-[371](cml28.htm#page_371).
+Ethniu, daughter of Balor, [62](cml09.htm#page_62.md),
+[79](cml11.htm#page_79), [84](cml11.htm#page_84.md),
+[90](cml12.htm#page_90), [269](cml20.htm#page_269.md),
+[371](cml28.htm#page_371.md).
 
-*Ethnology in Folklore*, Mr. G. L. Gomme's, [35](cml08.htm#page_35),
-[69](cml10.htm#page_69), [412](cml29.htm#page_412),
-[413](cml29.htm#page_413), [414](cml29.htm#page_414),
-[416](cml29.htm#page_416).
+*Ethnology in Folklore*, Mr. G. L. Gomme's, [35](cml08.htm#page_35.md),
+[69](cml10.htm#page_69), [412](cml29.htm#page_412.md),
+[413](cml29.htm#page_413), [414](cml29.htm#page_414.md),
+[416](cml29.htm#page_416.md).
 
-Etirun, "an idol of the Britons", [294](cml22.htm#page_294).
+Etirun, "an idol of the Britons", [294](cml22.htm#page_294.md).
 
-Etive, Loch, [193](cml17.htm#page_193).
+Etive, Loch, [193](cml17.htm#page_193.md).
 
-Etruscans, the, [20](cml07.htm#page_20); Etruscan mythology in modern
-Italian folklore, [403](cml29.htm#page_403).
+Etruscans, the, [20](cml07.htm#page_20.md); Etruscan mythology in modern
+Italian folklore, [403](cml29.htm#page_403.md).
 
-Ettard, [358](cml27.htm#page_358).
+Ettard, [358](cml27.htm#page_358.md).
 
-*Ettarre, Pelleas and*, Tennyson's idyll of, [358](cml27.htm#page_358).
+*Ettarre, Pelleas and*, Tennyson's idyll of, [358](cml27.htm#page_358.md).
 
 Euhemerism of Gaelic gods,
-[227](cml19.htm#page_227)-[230](cml19.htm#page_230); of British gods,
-[372](cml28.htm#page_372)-[389](cml28.htm#page_389).
+[227](cml19.htm#page_227)-[230](cml19.htm#page_230.md); of British gods,
+[372](cml28.htm#page_372)-[389](cml28.htm#page_389.md).
 
-Euskarian race, [19](cml07.htm#page_19).
+Euskarian race, [19](cml07.htm#page_19.md).
 
-Evelake, King, [359](cml27.htm#page_359).
+Evelake, King, [359](cml27.htm#page_359.md).
 
-Evnissyen, son of Penardun, [290](cml22.htm#page_290),
-[292](cml22.htm#page_292), [293](cml22.htm#page_293).
+Evnissyen, son of Penardun, [290](cml22.htm#page_290.md),
+[292](cml22.htm#page_292), [293](cml22.htm#page_293.md).
 
  
 
-Failinis, the hound of the king of Ioruaidhé, [96](cml12.htm#page_96),
-[97](cml12.htm#page_97), [104](cml12.htm#page_104).
+Failinis, the hound of the king of Ioruaidhé, [96](cml12.htm#page_96.md),
+[97](cml12.htm#page_97), [104](cml12.htm#page_104.md).
 
-*Fairie Queene*, Spenser 's, [7](cml05.htm#page_7),
-[389](cml28.htm#page_389).
+*Fairie Queene*, Spenser 's, [7](cml05.htm#page_7.md),
+[389](cml28.htm#page_389.md).
 
-Fairies, the, [4](cml05.htm#page_4), [137](cml15.htm#page_137),
-[242](cml19.htm#page_242)-[248](cml19.htm#page_248),
-[389](cml28.htm#page_389)-[393](cml28.htm#page_393),
-[403](cml29.htm#page_403), [404](cml29.htm#page_404),
-[409](cml29.htm#page_409), [418](cml29.htm#page_418); the old gods are
+Fairies, the, [4](cml05.htm#page_4), [137](cml15.htm#page_137.md),
+[242](cml19.htm#page_242)-[248](cml19.htm#page_248.md),
+[389](cml28.htm#page_389)-[393](cml28.htm#page_393.md),
+[403](cml29.htm#page_403), [404](cml29.htm#page_404.md),
+[409](cml29.htm#page_409), [418](cml29.htm#page_418.md); the old gods are
 remembered as "fairies",
-[243](cml19.htm#page_243)-[248](cml19.htm#page_248),
-[389](cml28.htm#page_389)-[393](cml28.htm#page_393); two varieties of
-fairy in folk-lore, [403](cml29.htm#page_403); Irish and Welsh fairies
-identical in nature, [404](cml29.htm#page_404); king of the Irish
-fairies, [136](cml15.htm#page_136); king of the Welsh fairies,
-[392](cml28.htm#page_392); size of the fairies,
-[404](cml29.htm#page_404); fairy money, [377](cml28.htm#page_377); fairy
-food, [391](cml28.htm#page_391); the "fairy hills",
-[135](cml15.htm#page_135)-[139](cml15.htm#page_139),
-[394](cml28.htm#page_394).
+[243](cml19.htm#page_243)-[248](cml19.htm#page_248.md),
+[389](cml28.htm#page_389)-[393](cml28.htm#page_393.md); two varieties of
+fairy in folk-lore, [403](cml29.htm#page_403.md); Irish and Welsh fairies
+identical in nature, [404](cml29.htm#page_404.md); king of the Irish
+fairies, [136](cml15.htm#page_136.md); king of the Welsh fairies,
+[392](cml28.htm#page_392.md); size of the fairies,
+[404](cml29.htm#page_404); fairy money, [377](cml28.htm#page_377.md); fairy
+food, [391](cml28.htm#page_391.md); the "fairy hills",
+[135](cml15.htm#page_135)-[139](cml15.htm#page_139.md),
+[394](cml28.htm#page_394.md).
 
 Fal, the stone of. See Stone of Destiny.
 
-"Falcon of May", [369](cml27.htm#page_369); "Falcon of Summer",
-[369](cml27.htm#page_369).
+"Falcon of May", [369](cml27.htm#page_369.md); "Falcon of Summer",
+[369](cml27.htm#page_369.md).
 
 <span id="page_433">p. 433</span>
 
-Falga, Isle of, [57](cml09.htm#page_57), [175](cml16.htm#page_175).
+Falga, Isle of, [57](cml09.htm#page_57), [175](cml16.htm#page_175.md).
 
-Falias, a city of the Tuatha Dé Danann, [71](cml10.htm#page_71),
-[72](cml10.htm#page_72).
+Falias, a city of the Tuatha Dé Danann, [71](cml10.htm#page_71.md),
+[72](cml10.htm#page_72.md).
 
 Fand, wife of Manannán son of Lêr,
-[186](cml17.htm#page_186)-[188](cml17.htm#page_188),
-[202](cml18.htm#page_202).
+[186](cml17.htm#page_186)-[188](cml17.htm#page_188.md),
+[202](cml18.htm#page_202.md).
 
 Faraday, Miss, her translation of the *Táin Bó Chuailgné*,
-[164](cml16.htm#page_164).
+[164](cml16.htm#page_164.md).
 
-Fata Morgana, [395](cml28.htm#page_395).
+Fata Morgana, [395](cml28.htm#page_395.md).
 
 Fate of the Children of Lêr,
-[142](cml15.htm#page_142)-[146](cml15.htm#page_146); of the Sons of
-Tuirenn, [90](cml12.htm#page_90)-[105](cml12.htm#page_105); of the Sons
-of Usnach, [190](cml17.htm#page_190)-[200](cml17.htm#page_200).
+[142](cml15.htm#page_142)-[146](cml15.htm#page_146.md); of the Sons of
+Tuirenn, [90](cml12.htm#page_90)-[105](cml12.htm#page_105.md); of the Sons
+of Usnach, [190](cml17.htm#page_190)-[200](cml17.htm#page_200.md).
 
-Fea, a war-goddess, wife of Nuada, [52](cml09.htm#page_52).
+Fea, a war-goddess, wife of Nuada, [52](cml09.htm#page_52.md).
 
-"Feast of Age", Manannán's, [61](cml09.htm#page_61),
-[98](cml12.htm#page_98), [143](cml15.htm#page_143).
+"Feast of Age", Manannán's, [61](cml09.htm#page_61.md),
+[98](cml12.htm#page_98), [143](cml15.htm#page_143.md).
 
 Feast of Lugh, see Lugnassad.
 
-Feast of St. John, [409](cml29.htm#page_409).
+Feast of St. John, [409](cml29.htm#page_409.md).
 
-Fec's Pool, on the Boyne, [210](cml18.htm#page_210).
+Fec's Pool, on the Boyne, [210](cml18.htm#page_210.md).
 
-Fedlimid, vassal to King Conchobar, [190](cml17.htm#page_190).
+Fedlimid, vassal to King Conchobar, [190](cml17.htm#page_190.md).
 
-Fenians, the, [11](cml06.htm#page_11), [17](cml06.htm#page_17),
-[155](cml16.htm#page_155), [201](cml18.htm#page_201),
-[203](cml18.htm#page_203)-[209](cml18.htm#page_209),
-[211](cml18.htm#page_211)-[215](cml18.htm#page_215),
-[217](cml18.htm#page_217)-[219](cml18.htm#page_219),
-[220](cml18.htm#page_220)-[223](cml18.htm#page_223),
-[225](cml18.htm#page_225), [226](cml18.htm#page_226),
-[314](cml25.htm#page_314), [315](cml25.htm#page_315); real or mythical,
-[203](cml18.htm#page_203)-[205](cml18.htm#page_205); origin of,
-[206](cml18.htm#page_206); duties of, [206](cml18.htm#page_206);
-accomplishments of, [207](cml18.htm#page_207); chief heroes of,
-[207](cml18.htm#page_207)-[209](cml18.htm#page_209); destruction of, at
-the battle of Gabhra, [222](cml18.htm#page_222); stories of,
-[209](cml18.htm#page_209)-[226](cml18.htm#page_226); the Fenian sagas
-possibly non-Aryan, [70](cml10.htm#page_70).
+Fenians, the, [11](cml06.htm#page_11), [17](cml06.htm#page_17.md),
+[155](cml16.htm#page_155), [201](cml18.htm#page_201.md),
+[203](cml18.htm#page_203)-[209](cml18.htm#page_209.md),
+[211](cml18.htm#page_211)-[215](cml18.htm#page_215.md),
+[217](cml18.htm#page_217)-[219](cml18.htm#page_219.md),
+[220](cml18.htm#page_220)-[223](cml18.htm#page_223.md),
+[225](cml18.htm#page_225), [226](cml18.htm#page_226.md),
+[314](cml25.htm#page_314), [315](cml25.htm#page_315.md); real or mythical,
+[203](cml18.htm#page_203)-[205](cml18.htm#page_205.md); origin of,
+[206](cml18.htm#page_206); duties of, [206](cml18.htm#page_206.md);
+accomplishments of, [207](cml18.htm#page_207.md); chief heroes of,
+[207](cml18.htm#page_207)-[209](cml18.htm#page_209.md); destruction of, at
+the battle of Gabhra, [222](cml18.htm#page_222.md); stories of,
+[209](cml18.htm#page_209)-[226](cml18.htm#page_226.md); the Fenian sagas
+possibly non-Aryan, [70](cml10.htm#page_70.md).
 
-Fenius Farsa, [120](cml14.htm#page_120).
+Fenius Farsa, [120](cml14.htm#page_120.md).
 
-Ferdiad, a warrior slain by Cuchulainn, [172](cml16.htm#page_172),
-[173](cml16.htm#page_173), [184](cml17.htm#page_184).
+Ferdiad, a warrior slain by Cuchulainn, [172](cml16.htm#page_172.md),
+[173](cml16.htm#page_173), [184](cml17.htm#page_184.md).
 
-Fergus, son of Finn, [208](cml18.htm#page_208).
+Fergus, son of Finn, [208](cml18.htm#page_208.md).
 
-Fergus, son of Roy, an Ulster hero, [14](cml06.htm#page_14),
-[166](cml16.htm#page_166), [167](cml16.htm#page_167),
-[170](cml16.htm#page_170), [171](cml16.htm#page_171),
-[175](cml16.htm#page_175),
-[192](cml17.htm#page_192)-[196](cml17.htm#page_196),
-[198](cml17.htm#page_198), [200](cml17.htm#page_200).
+Fergus, son of Roy, an Ulster hero, [14](cml06.htm#page_14.md),
+[166](cml16.htm#page_166), [167](cml16.htm#page_167.md),
+[170](cml16.htm#page_170), [171](cml16.htm#page_171.md),
+[175](cml16.htm#page_175.md),
+[192](cml17.htm#page_192)-[196](cml17.htm#page_196.md),
+[198](cml17.htm#page_198), [200](cml17.htm#page_200.md).
 
-Fergusson, Dr. James, [76](cml10.htm#page_76),
-[114](cml13.htm#page_114), [137](cml15.htm#page_137),
-[138](cml15.htm#page_138).
+Fergusson, Dr. James, [76](cml10.htm#page_76.md),
+[114](cml13.htm#page_114), [137](cml15.htm#page_137.md),
+[138](cml15.htm#page_138.md).
 
 Festivals, Celtic solar or agricultural,
-[405](cml29.htm#page_405)-[412](cml29.htm#page_412).
+[405](cml29.htm#page_405)-[412](cml29.htm#page_412.md).
 
-Ffordd Elen, [324](cml25.htm#page_324).
+Ffordd Elen, [324](cml25.htm#page_324.md).
 
-Fiacha, son of Conchobar, [197](cml17.htm#page_197),
-[198](cml17.htm#page_198).
+Fiacha, son of Conchobar, [197](cml17.htm#page_197.md),
+[198](cml17.htm#page_198.md).
 
-Fiachadh, king of Ireland, [206](cml18.htm#page_206).
+Fiachadh, king of Ireland, [206](cml18.htm#page_206.md).
 
-Fiachra, son of Lêr, [143](cml15.htm#page_143).
+Fiachra, son of Lêr, [143](cml15.htm#page_143.md).
 
-Fianchuivé, submarine island of, [97](cml12.htm#page_97),
-[104](cml12.htm#page_104).
+Fianchuivé, submarine island of, [97](cml12.htm#page_97.md),
+[104](cml12.htm#page_104.md).
 
 *Fianna Eirinn*, see Fenians.
 
 Figol, son of Mamos, druid of the Tuatha Dé Danann,
-[90](cml12.htm#page_90).
+[90](cml12.htm#page_90.md).
 
-Findabair, daughter of Medb, [168](cml16.htm#page_168).
+Findabair, daughter of Medb, [168](cml16.htm#page_168.md).
 
-Findias, a city of the Tuatha Dé Danann, [71](cml10.htm#page_71),
-[72](cml10.htm#page_72).
+Findias, a city of the Tuatha Dé Danann, [71](cml10.htm#page_71.md),
+[72](cml10.htm#page_72.md).
 
-Finn mac Coul (Cumhail), [4](cml05.htm#page_4), [11](cml06.htm#page_11),
-[16](cml06.htm#page_16), [37](cml08.htm#page_37),
-[146](cml15.htm#page_146), [155](cml16.htm#page_155),
-[201](cml18.htm#page_201), [203](cml18.htm#page_203),
-[204](cml18.htm#page_204), [206](cml18.htm#page_206),
-[207](cml18.htm#page_207), [208](cml18.htm#page_208),
-[209](cml18.htm#page_209),
-[210](cml18.htm#page_210)-[218](cml18.htm#page_218),
-[220](cml18.htm#page_220)-[222](cml18.htm#page_222),
-[224](cml18.htm#page_224), [226](cml18.htm#page_226),
-[246](cml19.htm#page_246), [254](cml20.htm#page_254),
-[274](cml20.htm#page_274), [314](cml25.htm#page_314),
-[315](cml25.htm#page_315); his upbringing and boy-feats,
-[209](cml18.htm#page_209)-[210](cml18.htm#page_210); reorganizes the
-Fenians, [211](cml18.htm#page_211); is killed at the Ford of Brea,
-[222](cml18.htm#page_222); is reborn as Mongan, an Ulster chief,
-[37](cml08.htm#page_37); is he historical or mythical,
-[204](cml18.htm#page_204); parallels between Finn and Arthur,
-[314](cml25.htm#page_314)-[315](cml25.htm#page_315).
+Finn mac Coul (Cumhail), [4](cml05.htm#page_4), [11](cml06.htm#page_11.md),
+[16](cml06.htm#page_16), [37](cml08.htm#page_37.md),
+[146](cml15.htm#page_146), [155](cml16.htm#page_155.md),
+[201](cml18.htm#page_201), [203](cml18.htm#page_203.md),
+[204](cml18.htm#page_204), [206](cml18.htm#page_206.md),
+[207](cml18.htm#page_207), [208](cml18.htm#page_208.md),
+[209](cml18.htm#page_209.md),
+[210](cml18.htm#page_210)-[218](cml18.htm#page_218.md),
+[220](cml18.htm#page_220)-[222](cml18.htm#page_222.md),
+[224](cml18.htm#page_224), [226](cml18.htm#page_226.md),
+[246](cml19.htm#page_246), [254](cml20.htm#page_254.md),
+[274](cml20.htm#page_274), [314](cml25.htm#page_314.md),
+[315](cml25.htm#page_315.md); his upbringing and boy-feats,
+[209](cml18.htm#page_209)-[210](cml18.htm#page_210.md); reorganizes the
+Fenians, [211](cml18.htm#page_211.md); is killed at the Ford of Brea,
+[222](cml18.htm#page_222.md); is reborn as Mongan, an Ulster chief,
+[37](cml08.htm#page_37.md); is he historical or mythical,
+[204](cml18.htm#page_204.md); parallels between Finn and Arthur,
+[314](cml25.htm#page_314)-[315](cml25.htm#page_315.md).
 
 Finn mac Gorman, compiler of the Book of Leinster,
-[10](cml06.htm#page_10).
+[10](cml06.htm#page_10.md).
 
-Finn the Seer, [210](cml18.htm#page_210).
+Finn the Seer, [210](cml18.htm#page_210.md).
 
-Finola, daughter of Lêr, [143](cml15.htm#page_143).
+Finola, daughter of Lêr, [143](cml15.htm#page_143.md).
 
-Finvarra, king of the Irish fairies, [243](cml19.htm#page_243),
-[244](cml19.htm#page_244), [405](cml29.htm#page_405).
+Finvarra, king of the Irish fairies, [243](cml19.htm#page_243.md),
+[244](cml19.htm#page_244), [405](cml29.htm#page_405.md).
 
-Fiona Macleod, Miss, [241](cml19.htm#page_241).
+Fiona Macleod, Miss, [241](cml19.htm#page_241.md).
 
 Fionn, see Finn.
 
-Fionnbharr, the *sídh* of Meadha assigned to, [136](cml15.htm#page_136);
-his appearance in the Fenian sagas, [212](cml18.htm#page_212); becomes
-fairy king of Ireland, [243](cml19.htm#page_243).
+Fionnbharr, the *sídh* of Meadha assigned to, [136](cml15.htm#page_136.md);
+his appearance in the Fenian sagas, [212](cml18.htm#page_212.md); becomes
+fairy king of Ireland, [243](cml19.htm#page_243.md).
 
 Fir Bolgs, an Iberian tribe,
-[68](cml10.htm#page_68)-[70](cml10.htm#page_70),
-[72](cml10.htm#page_72)-[78](cml11.htm#page_78),
-[114](cml13.htm#page_114), [125](cml14.htm#page_125),
-[229](cml19.htm#page_229), [230](cml19.htm#page_230),
-[407](cml29.htm#page_407).
+[68](cml10.htm#page_68)-[70](cml10.htm#page_70.md),
+[72](cml10.htm#page_72)-[78](cml11.htm#page_78.md),
+[114](cml13.htm#page_114), [125](cml14.htm#page_125.md),
+[229](cml19.htm#page_229), [230](cml19.htm#page_230.md),
+[407](cml29.htm#page_407.md).
 
 Fir Domnann, an Iberian tribe,
-[68](cml10.htm#page_68)-[70](cml10.htm#page_70),
-[76](cml10.htm#page_76), [172](cml16.htm#page_172).
+[68](cml10.htm#page_68)-[70](cml10.htm#page_70.md),
+[76](cml10.htm#page_76), [172](cml16.htm#page_172.md).
 
 Fir Gaillion, an Iberian tribe,
-[68](cml10.htm#page_68)-[70](cml10.htm#page_70),
-[76](cml10.htm#page_76).
+[68](cml10.htm#page_68)-[70](cml10.htm#page_70.md),
+[76](cml10.htm#page_76.md).
 
-Fish, sacred, [416](cml29.htm#page_416).
+Fish, sacred, [416](cml29.htm#page_416.md).
 
-Fly, Etain changed into a, [147](cml15.htm#page_147); Lugh takes the
-form of a, [159](cml16.htm#page_159); a sacred,
-[416](cml29.htm#page_416).
+Fly, Etain changed into a, [147](cml15.htm#page_147.md); Lugh takes the
+form of a, [159](cml16.htm#page_159.md); a sacred,
+[416](cml29.htm#page_416.md).
 
 *Folklore, Ethnology in*. See *Ethnology*.
 
-Folk-tales, Irish, [233](cml19.htm#page_233)-[240](cml19.htm#page_240);
-Welsh, [371](cml28.htm#page_371).
+Folk-tales, Irish, [233](cml19.htm#page_233)-[240](cml19.htm#page_240.md);
+Welsh, [371](cml28.htm#page_371.md).
 
 Fomors, Gaelic deities of Death, Darkness, and the Sea,
-[11](cml06.htm#page_11),
-[48](cml09.htm#page_48)-[50](cml09.htm#page_50),
-[67](cml10.htm#page_67), [70](cml10.htm#page_70),
-[76](cml10.htm#page_76), [83](cml11.htm#page_83),
-[86](cml11.htm#page_86), [88](cml11.htm#page_88),
-[89](cml12.htm#page_89), [90](cml12.htm#page_90),
-[98](cml12.htm#page_98),
-[107](cml13.htm#page_107)-[117](cml13.htm#page_117),
-[120](cml14.htm#page_120), [122](cml14.htm#page_122),
-[157](cml16.htm#page_157), [205](cml18.htm#page_205),
-[225](cml18.htm#page_225), [229](cml19.htm#page_229),
-[230](cml19.htm#page_230), [252](cml20.htm#page_252),
-[269](cml20.htm#page_269), [274](cml20.htm#page_274),
-[327](cml25.htm#page_327), [406](cml29.htm#page_406); meaning of the
-name, [48](cml09.htm#page_48); their war with the Tuatha Dé Danann,
-[107](cml13.htm#page_107)-[117](cml13.htm#page_117); are the Lochlannach
-in the Fenian sagas, [205](cml18.htm#page_205).
+[11](cml06.htm#page_11.md),
+[48](cml09.htm#page_48)-[50](cml09.htm#page_50.md),
+[67](cml10.htm#page_67), [70](cml10.htm#page_70.md),
+[76](cml10.htm#page_76), [83](cml11.htm#page_83.md),
+[86](cml11.htm#page_86), [88](cml11.htm#page_88.md),
+[89](cml12.htm#page_89), [90](cml12.htm#page_90.md),
+[98](cml12.htm#page_98.md),
+[107](cml13.htm#page_107)-[117](cml13.htm#page_117.md),
+[120](cml14.htm#page_120), [122](cml14.htm#page_122.md),
+[157](cml16.htm#page_157), [205](cml18.htm#page_205.md),
+[225](cml18.htm#page_225), [229](cml19.htm#page_229.md),
+[230](cml19.htm#page_230), [252](cml20.htm#page_252.md),
+[269](cml20.htm#page_269), [274](cml20.htm#page_274.md),
+[327](cml25.htm#page_327), [406](cml29.htm#page_406.md); meaning of the
+name, [48](cml09.htm#page_48.md); their war with the Tuatha Dé Danann,
+[107](cml13.htm#page_107)-[117](cml13.htm#page_117.md); are the Lochlannach
+in the Fenian sagas, [205](cml18.htm#page_205.md).
 
-Forgall the Wily, father of Emer, [162](cml16.htm#page_162),
-[163](cml16.htm#page_163), [164](cml16.htm#page_164),
-[184](cml17.htm#page_184).
+Forgall the Wily, father of Emer, [162](cml16.htm#page_162.md),
+[163](cml16.htm#page_163), [164](cml16.htm#page_164.md),
+[184](cml17.htm#page_184.md).
 
-Fotla, a goddess representing Ireland, [125](cml14.htm#page_125); an
-ancient name of Ireland, [126](cml14.htm#page_126).
+Fotla, a goddess representing Ireland, [125](cml14.htm#page_125.md); an
+ancient name of Ireland, [126](cml14.htm#page_126.md).
 
-"Four Ancient Books of Wales", the, [11](cml06.htm#page_11),
-[15](cml06.htm#page_15). See also Skene.
+"Four Ancient Books of Wales", the, [11](cml06.htm#page_11.md),
+[15](cml06.htm#page_15.md). See also Skene.
 
-"Four Branches of the Mabinogi", the, [14](cml06.htm#page_14),
-[15](cml06.htm#page_15), [251](cml20.htm#page_251),
-[278](cml21.htm#page_278), [289](cml22.htm#page_289),
-[312](cml25.htm#page_312), [355](cml27.htm#page_355).
+"Four Branches of the Mabinogi", the, [14](cml06.htm#page_14.md),
+[15](cml06.htm#page_15), [251](cml20.htm#page_251.md),
+[278](cml21.htm#page_278), [289](cml22.htm#page_289.md),
+[312](cml25.htm#page_312), [355](cml27.htm#page_355.md).
 
-"Four-cornered castle", the, [366](cml27.htm#page_366).
+"Four-cornered castle", the, [366](cml27.htm#page_366.md).
 
-Frazer's *Golden Bough*, [33](cml08.htm#page_33).
+Frazer's *Golden Bough*, [33](cml08.htm#page_33.md).
 
-"Frivolous Battles of Britain, The Three", [334](cml25.htm#page_334).
+"Frivolous Battles of Britain, The Three", [334](cml25.htm#page_334.md).
 
-Frogs, sacred, [416](cml29.htm#page_416).
+Frogs, sacred, [416](cml29.htm#page_416.md).
 
 Fury, Great, and Little Fury, two swords of Manannán,
-[60](cml09.htm#page_60), [217](cml18.htm#page_217).
+[60](cml09.htm#page_60), [217](cml18.htm#page_217.md).
 
 <span id="page_434">p. 434</span>
 
-Gabhra, battle of, [222](cml18.htm#page_222), [223](cml18.htm#page_223),
-[225](cml18.htm#page_225), [315](cml25.htm#page_315).
+Gabhra, battle of, [222](cml18.htm#page_222), [223](cml18.htm#page_223.md),
+[225](cml18.htm#page_225), [315](cml25.htm#page_315.md).
 
-Gabius, a Roman consul, [385](cml28.htm#page_385).
+Gabius, a Roman consul, [385](cml28.htm#page_385.md).
 
-Gabriel Hounds, the, [392](cml28.htm#page_392).
+Gabriel Hounds, the, [392](cml28.htm#page_392.md).
 
-*Gae bolg*, Cuchulainn's spear, [170](cml16.htm#page_170),
-[193](cml17.htm#page_193), [178](cml16.htm#page_178).
+*Gae bolg*, Cuchulainn's spear, [170](cml16.htm#page_170.md),
+[193](cml17.htm#page_193), [178](cml16.htm#page_178.md).
 
-Gaels, [68](cml10.htm#page_68), [69](cml10.htm#page_69),
-[70](cml10.htm#page_70), [71](cml10.htm#page_71),
-[76](cml10.htm#page_76), [93](cml12.htm#page_93),
-[108](cml13.htm#page_108), [119](cml14.htm#page_119),
-[124](cml14.htm#page_124), [149](cml15.htm#page_149),
-[183](cml16.htm#page_183), [203](cml18.htm#page_203),
-[204](cml18.htm#page_204), [230](cml19.htm#page_230),
-[357](cml27.htm#page_357).
+Gaels, [68](cml10.htm#page_68), [69](cml10.htm#page_69.md),
+[70](cml10.htm#page_70), [71](cml10.htm#page_71.md),
+[76](cml10.htm#page_76), [93](cml12.htm#page_93.md),
+[108](cml13.htm#page_108), [119](cml14.htm#page_119.md),
+[124](cml14.htm#page_124), [149](cml15.htm#page_149.md),
+[183](cml16.htm#page_183), [203](cml18.htm#page_203.md),
+[204](cml18.htm#page_204), [230](cml19.htm#page_230.md),
+[357](cml27.htm#page_357.md).
 
-Gaiar, son of Manannán, [202](cml18.htm#page_202).
+Gaiar, son of Manannán, [202](cml18.htm#page_202.md).
 
 Gaillion, Fir. See Fir Gaillion.
 
-Galahad, Sir, [362](cml27.htm#page_362), [368](cml27.htm#page_368),
-[369](cml27.htm#page_369).
+Galahad, Sir, [362](cml27.htm#page_362), [368](cml27.htm#page_368.md),
+[369](cml27.htm#page_369.md).
 
-*Galan-mai*, Welsh spring festival, [408](cml29.htm#page_408).
+*Galan-mai*, Welsh spring festival, [408](cml29.htm#page_408.md).
 
-*Gan Ceanach*, [247](cml19.htm#page_247).
+*Gan Ceanach*, [247](cml19.htm#page_247.md).
 
-Garden of the Hesperides, the, [95](cml12.htm#page_95),
-[98](cml12.htm#page_98), [99](cml12.htm#page_99).
+Garden of the Hesperides, the, [95](cml12.htm#page_95.md),
+[98](cml12.htm#page_98), [99](cml12.htm#page_99.md).
 
-Gargantua, Rabelais’, [386](cml28.htm#page_386).
+Gargantua, Rabelais’, [386](cml28.htm#page_386.md).
 
-Gast [Rhymhi's](errata.htm#8) cubs, [347](cml26.htm#page_347),
-[349](cml26.htm#page_349).
+Gast [Rhymhi's](errata.htm#8) cubs, [347](cml26.htm#page_347.md),
+[349](cml26.htm#page_349.md).
 
-Gaul, [22](cml07.htm#page_22), [274](cml20.htm#page_274),
-[276](cml20.htm#page_276), [383](cml28.htm#page_383),
-[384](cml28.htm#page_384), [385](cml28.htm#page_385).
+Gaul, [22](cml07.htm#page_22), [274](cml20.htm#page_274.md),
+[276](cml20.htm#page_276), [383](cml28.htm#page_383.md),
+[384](cml28.htm#page_384), [385](cml28.htm#page_385.md).
 
-Gauls, the, [22](cml07.htm#page_22), [23](cml07.htm#page_23),
-[119](cml14.htm#page_119), [230](cml19.htm#page_230).
+Gauls, the, [22](cml07.htm#page_22), [23](cml07.htm#page_23.md),
+[119](cml14.htm#page_119), [230](cml19.htm#page_230.md).
 
-Gavida, [238](cml19.htm#page_238), [239](cml19.htm#page_239).
+Gavida, [238](cml19.htm#page_238), [239](cml19.htm#page_239.md).
 
-Gavidjeen Go, [235](cml19.htm#page_235).
+Gavidjeen Go, [235](cml19.htm#page_235.md).
 
-Gawain, Sir, [360](cml27.htm#page_360), [363](cml27.htm#page_363),
-[364](cml27.htm#page_364), [369](cml27.htm#page_369),
-[375](cml28.htm#page_375).
+Gawain, Sir, [360](cml27.htm#page_360), [363](cml27.htm#page_363.md),
+[364](cml27.htm#page_364), [369](cml27.htm#page_369.md),
+[375](cml28.htm#page_375.md).
 
-*Geasa*, taboos among the Irish Celts, [177](cml16.htm#page_177),
-[195](cml17.htm#page_195), [216](cml18.htm#page_216).
+*Geasa*, taboos among the Irish Celts, [177](cml16.htm#page_177.md),
+[195](cml17.htm#page_195), [216](cml18.htm#page_216.md).
 
-*Genii locorum*, [43](cml08.htm#page_43).
+*Genii locorum*, [43](cml08.htm#page_43.md).
 
-Geoffrey of Monmouth, [9](cml06.htm#page_9), [121](cml14.htm#page_121),
-[251](cml20.htm#page_251), [254](cml20.htm#page_254),
-[259](cml20.htm#page_259), [276](cml20.htm#page_276),
-[323](cml25.htm#page_323), [324](cml25.htm#page_324),
-[330](cml25.htm#page_330), [336](cml26.htm#page_336),
-[372](cml28.htm#page_372),
-[373](cml28.htm#page_373)-[376](cml28.htm#page_376),
-[381](cml28.htm#page_381), [384](cml28.htm#page_384).
+Geoffrey of Monmouth, [9](cml06.htm#page_9), [121](cml14.htm#page_121.md),
+[251](cml20.htm#page_251), [254](cml20.htm#page_254.md),
+[259](cml20.htm#page_259), [276](cml20.htm#page_276.md),
+[323](cml25.htm#page_323), [324](cml25.htm#page_324.md),
+[330](cml25.htm#page_330), [336](cml26.htm#page_336.md),
+[372](cml28.htm#page_372.md),
+[373](cml28.htm#page_373)-[376](cml28.htm#page_376.md),
+[381](cml28.htm#page_381), [384](cml28.htm#page_384.md).
 
-George's Hill, Saint, [29](cml07.htm#page_29).
+George's Hill, Saint, [29](cml07.htm#page_29.md).
 
-Geraint, [312](cml25.htm#page_312), [387](cml28.htm#page_387).
+Geraint, [312](cml25.htm#page_312), [387](cml28.htm#page_387.md).
 
-Gildas, a British writer, [400](cml29.htm#page_400).
+Gildas, a British writer, [400](cml29.htm#page_400.md).
 
 "Glamour, the Realm of", an old name for Dyfed,
-[279](cml21.htm#page_279).
+[279](cml21.htm#page_279.md).
 
-Glamour put on Cuchulainn by Cath-bad, [178](cml16.htm#page_178); by the
-daughters of Calatin, [179](cml16.htm#page_179),
-[180](cml16.htm#page_180); put on the sons of Usnach,
-[198](cml17.htm#page_198); on Arianrod, [264](cml20.htm#page_264),
-[265](cml20.htm#page_265); on Dyfed, [298](cml23.htm#page_298).
+Glamour put on Cuchulainn by Cath-bad, [178](cml16.htm#page_178.md); by the
+daughters of Calatin, [179](cml16.htm#page_179.md),
+[180](cml16.htm#page_180.md); put on the sons of Usnach,
+[198](cml17.htm#page_198); on Arianrod, [264](cml20.htm#page_264.md),
+[265](cml20.htm#page_265); on Dyfed, [298](cml23.htm#page_298.md).
 
-Glass Castle, of the Fomors, [67](cml10.htm#page_67); a synonym for the
-other world, [320](cml25.htm#page_320), [367](cml27.htm#page_367).
+Glass Castle, of the Fomors, [67](cml10.htm#page_67.md); a synonym for the
+other world, [320](cml25.htm#page_320), [367](cml27.htm#page_367.md).
 
-Glastonbury, [260](cml20.htm#page_260), [329](cml25.htm#page_329).
+Glastonbury, [260](cml20.htm#page_260), [329](cml25.htm#page_329.md).
 
-Glastonbury Tor, [272](cml20.htm#page_272), [390](cml28.htm#page_390).
+Glastonbury Tor, [272](cml20.htm#page_272), [390](cml28.htm#page_390.md).
 
-Glenn Faisi, [130](cml14.htm#page_130).
+Glenn Faisi, [130](cml14.htm#page_130.md).
 
-Glora, Isle of, [144](cml15.htm#page_144), [145](cml15.htm#page_145),
-[146](cml15.htm#page_146).
+Glora, Isle of, [144](cml15.htm#page_144), [145](cml15.htm#page_145.md),
+[146](cml15.htm#page_146.md).
 
-Glyn Cûch, [279](cml21.htm#page_279), [281](cml21.htm#page_281).
+Glyn Cûch, [279](cml21.htm#page_279), [281](cml21.htm#page_281.md).
 
-Gobhan Saer, the, [232](cml19.htm#page_232), [235](cml19.htm#page_235),
-[240](cml19.htm#page_240).
+Gobhan Saer, the, [232](cml19.htm#page_232), [235](cml19.htm#page_235.md),
+[240](cml19.htm#page_240.md).
 
-Goibniu, Gaelic god of smithcraft, [61](cml09.htm#page_61),
-[84](cml11.htm#page_84), [86](cml11.htm#page_86),
-[98](cml12.htm#page_98), [109](cml13.htm#page_109),
-[110](cml13.htm#page_110), [141](cml15.htm#page_141),
-[231](cml19.htm#page_231), [232](cml19.htm#page_232),
-[238](cml19.htm#page_238), [239](cml19.htm#page_239),
-[261](cml20.htm#page_261), [371](cml28.htm#page_371); forges the weapons
-of the Tuatha Dé Danann, [61](cml09.htm#page_61), log; kills Ruadan,
-[110](cml13.htm#page_110); his ale, [61](cml09.htm#page_61); survives in
+Goibniu, Gaelic god of smithcraft, [61](cml09.htm#page_61.md),
+[84](cml11.htm#page_84), [86](cml11.htm#page_86.md),
+[98](cml12.htm#page_98), [109](cml13.htm#page_109.md),
+[110](cml13.htm#page_110), [141](cml15.htm#page_141.md),
+[231](cml19.htm#page_231), [232](cml19.htm#page_232.md),
+[238](cml19.htm#page_238), [239](cml19.htm#page_239.md),
+[261](cml20.htm#page_261), [371](cml28.htm#page_371.md); forges the weapons
+of the Tuatha Dé Danann, [61](cml09.htm#page_61.md), log; kills Ruadan,
+[110](cml13.htm#page_110); his ale, [61](cml09.htm#page_61.md); survives in
 tradition as the Gobhan Saer, *q.v.*; as a character in folk-tale,
-[232](cml19.htm#page_232)-[240](cml19.htm#page_240). See Gavida and
+[232](cml19.htm#page_232)-[240](cml19.htm#page_240.md). See Gavida and
 Gavidjeen Go. Goidel, a mythical ancestor of the Irish,
-[120](cml14.htm#page_120).
+[120](cml14.htm#page_120.md).
 
-Goidels, the, [21](cml07.htm#page_21), [22](cml07.htm#page_22),
-[23](cml07.htm#page_23), [24](cml07.htm#page_24),
-[35](cml08.htm#page_35).
+Goidels, the, [21](cml07.htm#page_21), [22](cml07.htm#page_22.md),
+[23](cml07.htm#page_23), [24](cml07.htm#page_24.md),
+[35](cml08.htm#page_35.md).
 
-Golden bough, the mistletoe the, [33](cml08.htm#page_33).
+Golden bough, the mistletoe the, [33](cml08.htm#page_33.md).
 
 Golden Pillars, king of the. See Easal.
 
-Goll, [209](cml18.htm#page_209), [211](cml18.htm#page_211),
-[222](cml18.htm#page_222).
+Goll, [209](cml18.htm#page_209), [211](cml18.htm#page_211.md),
+[222](cml18.htm#page_222.md).
 
-Gomme, Mr. G. L., [20](cml07.htm#page_20), [35](cml08.htm#page_35),
-[69](cml10.htm#page_69), [412](cml29.htm#page_412),
-[413](cml29.htm#page_413), [414](cml29.htm#page_414),
-[416](cml29.htm#page_416).
+Gomme, Mr. G. L., [20](cml07.htm#page_20), [35](cml08.htm#page_35.md),
+[69](cml10.htm#page_69), [412](cml29.htm#page_412.md),
+[413](cml29.htm#page_413), [414](cml29.htm#page_414.md),
+[416](cml29.htm#page_416.md).
 
-Gonorilla, daughter of Leir, [381](cml28.htm#page_381),
-[382](cml28.htm#page_382).
+Gonorilla, daughter of Leir, [381](cml28.htm#page_381.md),
+[382](cml28.htm#page_382.md).
 
-Gore, [357](cml27.htm#page_357). See Gower.
+Gore, [357](cml27.htm#page_357.md). See Gower.
 
-Goreu, Arthur's cousin, [317](cml25.htm#page_317),
-[338](cml26.htm#page_338).
+Goreu, Arthur's cousin, [317](cml25.htm#page_317.md),
+[338](cml26.htm#page_338.md).
 
-Gorias, a city of the Tuatha Dé Danann, [71](cml10.htm#page_71),
-[72](cml10.htm#page_72), [97](cml12.htm#page_97)-
+Gorias, a city of the Tuatha Dé Danann, [71](cml10.htm#page_71.md),
+[72](cml10.htm#page_72), [97](cml12.htm#page_97.md)-
 
 Govannan son of Dôn, British god of Smithcraft,
-[261](cml20.htm#page_261), [313](cml25.htm#page_313),
-[316](cml25.htm#page_316), [345](cml26.htm#page_345); kills his nephew
-Dylan, [261](cml20.htm#page_261); assists Kulhwch,
-[345](cml26.htm#page_345).
+[261](cml20.htm#page_261), [313](cml25.htm#page_313.md),
+[316](cml25.htm#page_316), [345](cml26.htm#page_345.md); kills his nephew
+Dylan, [261](cml20.htm#page_261.md); assists Kulhwch,
+[345](cml26.htm#page_345.md).
 
-Gower regarded as part of the other world, [272](cml20.htm#page_272),
-[356](cml27.htm#page_356), [357](cml27.htm#page_357),
-[373](cml28.htm#page_373).
+Gower regarded as part of the other world, [272](cml20.htm#page_272.md),
+[356](cml27.htm#page_356), [357](cml27.htm#page_357.md),
+[373](cml28.htm#page_373.md).
 
-Grail, the Holy, [2](cml05.htm#page_2), [7](cml05.htm#page_7),
-[273](cml20.htm#page_273),
-[357](cml27.htm#page_357)-[359](cml27.htm#page_359),
-[365](cml27.htm#page_365)-[370](cml27.htm#page_370).
+Grail, the Holy, [2](cml05.htm#page_2), [7](cml05.htm#page_7.md),
+[273](cml20.htm#page_273.md),
+[357](cml27.htm#page_357)-[359](cml27.htm#page_359.md),
+[365](cml27.htm#page_365)-[370](cml27.htm#page_370.md).
 
-Grainne, [209](cml18.htm#page_209),
-[215](cml18.htm#page_215)-[221](cml18.htm#page_221),
-[315](cml25.htm#page_315).
+Grainne, [209](cml18.htm#page_209.md),
+[215](cml18.htm#page_215)-[221](cml18.htm#page_221.md),
+[315](cml25.htm#page_315.md).
 
-*Graves of the Warriors, the Verses of the*, [272](cml20.htm#page_272),
-[311](cml24.htm#page_311), [334](cml25.htm#page_334).
+*Graves of the Warriors, the Verses of the*, [272](cml20.htm#page_272.md),
+[311](cml24.htm#page_311), [334](cml25.htm#page_334.md).
 
-Gray of Macha, Cuchulainn's horse, [174](cml16.htm#page_174),
-[181](cml16.htm#page_181), [182](cml16.htm#page_182),
-[183](cml16.htm#page_183).
+Gray of Macha, Cuchulainn's horse, [174](cml16.htm#page_174.md),
+[181](cml16.htm#page_181), [182](cml16.htm#page_182.md),
+[183](cml16.htm#page_183.md).
 
-Greece, [1](cml05.htm#page_1), [20](cml07.htm#page_20),
-[68](cml10.htm#page_68), [99](cml12.htm#page_99),
-[100](cml12.htm#page_100), [101](cml12.htm#page_101),
-[155](cml16.htm#page_155).
+Greece, [1](cml05.htm#page_1), [20](cml07.htm#page_20.md),
+[68](cml10.htm#page_68), [99](cml12.htm#page_99.md),
+[100](cml12.htm#page_100), [101](cml12.htm#page_101.md),
+[155](cml16.htm#page_155.md).
 
-Greek mythology, ancient, [1](cml05.htm#page_1), [2](cml05.htm#page_2),
-[4](cml05.htm#page_4); modern, [403](cml29.htm#page_403).
+Greek mythology, ancient, [1](cml05.htm#page_1), [2](cml05.htm#page_2.md),
+[4](cml05.htm#page_4); modern, [403](cml29.htm#page_403.md).
 
-"Green Meadows of Enchantment", the, [394](cml28.htm#page_394).
+"Green Meadows of Enchantment", the, [394](cml28.htm#page_394.md).
 
-Gregory, Lady, [159](cml16.htm#page_159), [201](cml18.htm#page_201).
+Gregory, Lady, [159](cml16.htm#page_159), [201](cml18.htm#page_201.md).
 
-Greid, the son of Ed, [347](cml26.htm#page_347),
-[350](cml26.htm#page_350),
+Greid, the son of Ed, [347](cml26.htm#page_347.md),
+[350](cml26.htm#page_350.md),
 
-Gresholm Island, [294](cml22.htm#page_294), [356](cml27.htm#page_356),
-[394](cml28.htm#page_394).
+Gresholm Island, [294](cml22.htm#page_294), [356](cml27.htm#page_356.md),
+[394](cml28.htm#page_394.md).
 
 *Grianainech*, the "sunny-faced", an epithet of Ogma,
-[59](cml09.htm#page_59).
+[59](cml09.htm#page_59.md).
 
 Grianan Aileach, grave of Nuada at. See Aileach.
 
-Gronw Pebyr, [265](cml20.htm#page_265), [266](cml20.htm#page_266),
-[268](cml20.htm#page_268).
+Gronw Pebyr, [265](cml20.htm#page_265), [266](cml20.htm#page_266.md),
+[268](cml20.htm#page_268.md).
 
-Guanius, Gwyn as a mythical king of the Huns, [375](cml28.htm#page_375).
+Guanius, Gwyn as a mythical king of the Huns, [375](cml28.htm#page_375.md).
 
-Guest, Lady Charlotte, [253](cml20.htm#page_253),
-[255](cml20.htm#page_255), [268](cml20.htm#page_268),
-[278](cml21.htm#page_278), [289](cml22.htm#page_289),
-[295](cml22.htm#page_295), [298](cml23.htm#page_298),
-[308](cml24.htm#page_308), [317](cml25.htm#page_317),
-[337](cml26.htm#page_337), [339](cml26.htm#page_339),
-[340](cml26.htm#page_340), [348](cml26.htm#page_348).
-[350](cml26.htm#page_350), [369](cml27.htm#page_369),
-[377](cml28.htm#page_377).
+Guest, Lady Charlotte, [253](cml20.htm#page_253.md),
+[255](cml20.htm#page_255), [268](cml20.htm#page_268.md),
+[278](cml21.htm#page_278), [289](cml22.htm#page_289.md),
+[295](cml22.htm#page_295), [298](cml23.htm#page_298.md),
+[308](cml24.htm#page_308), [317](cml25.htm#page_317.md),
+[337](cml26.htm#page_337), [339](cml26.htm#page_339.md),
+[340](cml26.htm#page_340), [348](cml26.htm#page_348.md).
+[350](cml26.htm#page_350), [369](cml27.htm#page_369.md),
+[377](cml28.htm#page_377.md).
 
-Guinevere, Arthur's queen, [315](cml25.htm#page_315),
-[334](cml25.htm#page_334), [357](cml27.htm#page_357),
-[359](cml27.htm#page_359). [365](cml27.htm#page_365),
-[375](cml28.htm#page_375), [407](cml29.htm#page_407).
+Guinevere, Arthur's queen, [315](cml25.htm#page_315.md),
+[334](cml25.htm#page_334), [357](cml27.htm#page_357.md),
+[359](cml27.htm#page_359). [365](cml27.htm#page_365.md),
+[375](cml28.htm#page_375), [407](cml29.htm#page_407.md).
 
-Gunvasius, king of the Orkneys, [376](cml28.htm#page_376).
+Gunvasius, king of the Orkneys, [376](cml28.htm#page_376.md).
 
-Gurgiunt Brabtruc, king of Britain, [385](cml28.htm#page_385).
+Gurgiunt Brabtruc, king of Britain, [385](cml28.htm#page_385.md).
 
-Guyon, Sir, in Spenser 's *Fairie Queene*, [7](cml05.htm#page_7),
-[389](cml28.htm#page_389).
+Guyon, Sir, in Spenser 's *Fairie Queene*, [7](cml05.htm#page_7.md),
+[389](cml28.htm#page_389.md).
 
 <span id="page_435">p. 435</span>
 
-Gwalchaved, [369](cml27.htm#page_369).
+Gwalchaved, [369](cml27.htm#page_369.md).
 
-Gwalchmei, [323](cml25.htm#page_323), [330](cml25.htm#page_330),
-[334](cml25.htm#page_334), [335](cml25.htm#page_335),
-[338](cml26.htm#page_338), [343](cml26.htm#page_343),
-[360](cml27.htm#page_360), [364](cml27.htm#page_364),
-[368](cml27.htm#page_368), [369](cml27.htm#page_369),
-[375](cml28.htm#page_375).
+Gwalchmei, [323](cml25.htm#page_323), [330](cml25.htm#page_330.md),
+[334](cml25.htm#page_334), [335](cml25.htm#page_335.md),
+[338](cml26.htm#page_338), [343](cml26.htm#page_343.md),
+[360](cml27.htm#page_360), [364](cml27.htm#page_364.md),
+[368](cml27.htm#page_368), [369](cml27.htm#page_369.md),
+[375](cml28.htm#page_375.md).
 
-Gwales, island of, [294](cml22.htm#page_294), [296](cml22.htm#page_296),
-[356](cml27.htm#page_356).
+Gwales, island of, [294](cml22.htm#page_294), [296](cml22.htm#page_296.md),
+[356](cml27.htm#page_356.md).
 
-Gwarthegyd, son of Kaw, [337](cml26.htm#page_337).
+Gwarthegyd, son of Kaw, [337](cml26.htm#page_337.md).
 
 Gwawl, son of Clod, Pwyll's rival for Rhiannon,
-[284](cml21.htm#page_284), [285](cml21.htm#page_285),
-[303](cml23.htm#page_303), [362](cml27.htm#page_362),
-[380](cml28.htm#page_380).
+[284](cml21.htm#page_284), [285](cml21.htm#page_285.md),
+[303](cml23.htm#page_303), [362](cml27.htm#page_362.md),
+[380](cml28.htm#page_380.md).
 
-Gweddw, owner of a magic horse, [347](cml26.htm#page_347).
+Gweddw, owner of a magic horse, [347](cml26.htm#page_347.md).
 
-Gweir, a form of the name Gwydion, *q.v.*, [319](cml25.htm#page_319),
-[321](cml25.htm#page_321), [322](cml25.htm#page_322).
+Gweir, a form of the name Gwydion, *q.v.*, [319](cml25.htm#page_319.md),
+[321](cml25.htm#page_321), [322](cml25.htm#page_322.md).
 
-Gwenbaus, Sir, [359](cml27.htm#page_359).
+Gwenbaus, Sir, [359](cml27.htm#page_359.md).
 
-Gwern, son of Matholwch and Branwen, [291](cml22.htm#page_291),
-[292](cml22.htm#page_292), [293](cml22.htm#page_293).
+Gwern, son of Matholwch and Branwen, [291](cml22.htm#page_291.md),
+[292](cml22.htm#page_292), [293](cml22.htm#page_293.md).
 
-Gwinas, Sir, [359](cml27.htm#page_359).
+Gwinas, Sir, [359](cml27.htm#page_359.md).
 
-Gwlgawd Gododin, the drinking-horn of, [346](cml26.htm#page_346).
+Gwlgawd Gododin, the drinking-horn of, [346](cml26.htm#page_346.md).
 
-Gwragedd Annwn, [393](cml28.htm#page_393).
+Gwragedd Annwn, [393](cml28.htm#page_393.md).
 
-Gwrhyr, a companion of Arthur, [343](cml26.htm#page_343),
-[349](cml26.htm#page_349), [350](cml26.htm#page_350),
-[351](cml26.htm#page_351).
+Gwrhyr, a companion of Arthur, [343](cml26.htm#page_343.md),
+[349](cml26.htm#page_349), [350](cml26.htm#page_350.md),
+[351](cml26.htm#page_351.md).
 
-Gwri of the Golden Hair, [287](cml21.htm#page_287).
+Gwri of the Golden Hair, [287](cml21.htm#page_287.md).
 
-Gwrnach the Giant, [346](cml26.htm#page_346), [348](cml26.htm#page_348).
+Gwrnach the Giant, [346](cml26.htm#page_346), [348](cml26.htm#page_348.md).
 
-Gwyar, wife of Lludd, [323](cml25.htm#page_323),
-[338](cml26.htm#page_338), [369](cml27.htm#page_369).
+Gwyar, wife of Lludd, [323](cml25.htm#page_323.md),
+[338](cml26.htm#page_338), [369](cml27.htm#page_369.md).
 
 Gwyddneu Garanhir, his dialogue with Gwyn,
-[255](cml20.htm#page_255)-[258](cml20.htm#page_258); his magic basket,
-[346](cml26.htm#page_346).
+[255](cml20.htm#page_255)-[258](cml20.htm#page_258.md); his magic basket,
+[346](cml26.htm#page_346.md).
 
-Gwyddolwyn Gorr, the magic bottles of, [346](cml26.htm#page_346).
+Gwyddolwyn Gorr, the magic bottles of, [346](cml26.htm#page_346.md).
 
 Gwydion son of Dôn, the British Mercury,
-[260](cml20.htm#page_260)-[268](cml20.htm#page_268),
-[305](cml24.htm#page_305), [306](cml24.htm#page_306),
-[308](cml24.htm#page_308)-[311](cml24.htm#page_311),
-[316](cml25.htm#page_316), [317](cml25.htm#page_317),
-[322](cml25.htm#page_322), [327](cml25.htm#page_327),
-[330](cml25.htm#page_330), [335](cml25.htm#page_335),
-[358](cml27.htm#page_358), [360](cml27.htm#page_360),
-[364](cml27.htm#page_364), [371](cml28.htm#page_371),
-[372](cml28.htm#page_372), [373](cml28.htm#page_373),
-[377](cml28.htm#page_377); druid of the gods, [260](cml20.htm#page_260);
-father of the sun-god, [261](cml20.htm#page_261); fights the" Battle of
-the Trees", [306](cml24.htm#page_306); is the British equivalent of the
-Teutonic Woden, [260](cml20.htm#page_260); his place taken in later myth
-by Arthur, [316](cml25.htm#page_316).
+[260](cml20.htm#page_260)-[268](cml20.htm#page_268.md),
+[305](cml24.htm#page_305), [306](cml24.htm#page_306.md),
+[308](cml24.htm#page_308)-[311](cml24.htm#page_311.md),
+[316](cml25.htm#page_316), [317](cml25.htm#page_317.md),
+[322](cml25.htm#page_322), [327](cml25.htm#page_327.md),
+[330](cml25.htm#page_330), [335](cml25.htm#page_335.md),
+[358](cml27.htm#page_358), [360](cml27.htm#page_360.md),
+[364](cml27.htm#page_364), [371](cml28.htm#page_371.md),
+[372](cml28.htm#page_372), [373](cml28.htm#page_373.md),
+[377](cml28.htm#page_377); druid of the gods, [260](cml20.htm#page_260.md);
+father of the sun-god, [261](cml20.htm#page_261.md); fights the" Battle of
+the Trees", [306](cml24.htm#page_306.md); is the British equivalent of the
+Teutonic Woden, [260](cml20.htm#page_260.md); his place taken in later myth
+by Arthur, [316](cml25.htm#page_316.md).
 
-*Gwyl Awst*, the Welsh August festival, [409](cml29.htm#page_409).
+*Gwyl Awst*, the Welsh August festival, [409](cml29.htm#page_409.md).
 
-Gwyllion, [393](cml28.htm#page_393).
+Gwyllion, [393](cml28.htm#page_393.md).
 
-Gwyn son of Nudd, British god of the Other World, [7](cml05.htm#page_7),
-[254](cml20.htm#page_254)-[259](cml20.htm#page_259),
-[272](cml20.htm#page_272), [313](cml25.htm#page_313),
-[315](cml25.htm#page_315), [329](cml25.htm#page_329).
-[332](cml25.htm#page_332), [348](cml26.htm#page_348),
-[359](cml27.htm#page_359). [365](cml27.htm#page_365),
-[371](cml28.htm#page_371), [372](cml28.htm#page_372),
-[376](cml28.htm#page_376),
-[389](cml28.htm#page_389)-[393](cml28.htm#page_393),
-[405](cml29.htm#page_405), [407](cml29.htm#page_407); attributes of,
-[255](cml20.htm#page_255); his dialogue with Gwyddneu Garanhir,
-[255](cml20.htm#page_255)-[258](cml20.htm#page_258); contends with Gwyn
-for Lludd's daughter Creudylad, [259](cml20.htm#page_259); is made
-warder of Hades, [254](cml20.htm#page_254)-[255](cml20.htm#page_255);
-prominent in the Arthur legend, [359](cml27.htm#page_359); becomes king
-of the Welsh fairies, [392](cml28.htm#page_392); his interview with
-Saint Collen, [389](cml28.htm#page_389)-[391](cml28.htm#page_391).
+Gwyn son of Nudd, British god of the Other World, [7](cml05.htm#page_7.md),
+[254](cml20.htm#page_254)-[259](cml20.htm#page_259.md),
+[272](cml20.htm#page_272), [313](cml25.htm#page_313.md),
+[315](cml25.htm#page_315), [329](cml25.htm#page_329.md).
+[332](cml25.htm#page_332), [348](cml26.htm#page_348.md),
+[359](cml27.htm#page_359). [365](cml27.htm#page_365.md),
+[371](cml28.htm#page_371), [372](cml28.htm#page_372.md),
+[376](cml28.htm#page_376.md),
+[389](cml28.htm#page_389)-[393](cml28.htm#page_393.md),
+[405](cml29.htm#page_405), [407](cml29.htm#page_407.md); attributes of,
+[255](cml20.htm#page_255.md); his dialogue with Gwyddneu Garanhir,
+[255](cml20.htm#page_255)-[258](cml20.htm#page_258.md); contends with Gwyn
+for Lludd's daughter Creudylad, [259](cml20.htm#page_259.md); is made
+warder of Hades, [254](cml20.htm#page_254)-[255](cml20.htm#page_255.md);
+prominent in the Arthur legend, [359](cml27.htm#page_359.md); becomes king
+of the Welsh fairies, [392](cml28.htm#page_392.md); his interview with
+Saint Collen, [389](cml28.htm#page_389)-[391](cml28.htm#page_391.md).
 
-Gwynas, Sir, [359](cml27.htm#page_359).
+Gwynas, Sir, [359](cml27.htm#page_359.md).
 
-Gwyngelli, a companion of Arthur, [352](cml26.htm#page_352).
+Gwyngelli, a companion of Arthur, [352](cml26.htm#page_352.md).
 
-Gwynhwyvar, [315](cml25.htm#page_315), [226](cml18.htm#page_226),
-[331](cml25.htm#page_331)-[333](cml25.htm#page_333),
-[334](cml25.htm#page_334), [364](cml27.htm#page_364). See Guinevere.
+Gwynhwyvar, [315](cml25.htm#page_315), [226](cml18.htm#page_226.md),
+[331](cml25.htm#page_331)-[333](cml25.htm#page_333.md),
+[334](cml25.htm#page_334), [364](cml27.htm#page_364.md). See Guinevere.
 
-Gwynn Mygddwn, the horse of Gweddw, [347](cml26.htm#page_347).
+Gwynn Mygddwn, the horse of Gweddw, [347](cml26.htm#page_347.md).
 
-Gwynwas, a form of the name Gwyn, *q.v.*, [332](cml25.htm#page_332),
-[359](cml27.htm#page_359).
+Gwynwas, a form of the name Gwyn, *q.v.*, [332](cml25.htm#page_332.md),
+[359](cml27.htm#page_359.md).
 
 Gwyrd Gwent, father of one of the three Gwynhwyvars,
-[331](cml25.htm#page_331).
+[331](cml25.htm#page_331.md).
 
 Gwyrthur, son of Greidawl, contends with Gwyn for Creudylad,
-[258](cml20.htm#page_258), [259](cml20.htm#page_259),
-[348](cml26.htm#page_348), [407](cml29.htm#page_407); father of one of
-the three Gwynhwyvars, [331](cml25.htm#page_331).
+[258](cml20.htm#page_258), [259](cml20.htm#page_259.md),
+[348](cml26.htm#page_348), [407](cml29.htm#page_407.md); father of one of
+the three Gwynhwyvars, [331](cml25.htm#page_331.md).
 
  
 
-Hacket, Castle, [244](cml19.htm#page_244).
+Hacket, Castle, [244](cml19.htm#page_244.md).
 
 Hades, the Celtic. See Other World, Celtic.
 
-Hades, the Greek god, [152](cml15.htm#page_152),
-[260](cml20.htm#page_260).
+Hades, the Greek god, [152](cml15.htm#page_152.md),
+[260](cml20.htm#page_260.md).
 
-"Hades, Head of", a name given to Pwyll, [278](cml21.htm#page_278),
-[282](cml21.htm#page_282).
+"Hades, Head of", a name given to Pwyll, [278](cml21.htm#page_278.md),
+[282](cml21.htm#page_282.md).
 
-Hallowe’en, [40](cml08.htm#page_40), [153](cml16.htm#page_153),
-[407](cml29.htm#page_407), [410](cml29.htm#page_410).
+Hallowe’en, [40](cml08.htm#page_40), [153](cml16.htm#page_153.md),
+[407](cml29.htm#page_407), [410](cml29.htm#page_410.md).
 
-Hamitic languages, [19](cml07.htm#page_19).
+Hamitic languages, [19](cml07.htm#page_19.md).
 
-"Happy Plain", the, [133](cml15.htm#page_133),
-[135](cml15.htm#page_135), [186](cml17.htm#page_186). See Mag Mell.
+"Happy Plain", the, [133](cml15.htm#page_133.md),
+[135](cml15.htm#page_135), [186](cml17.htm#page_186.md). See Mag Mell.
 
-Hare held sacred by the Ancient Britons, [417](cml29.htm#page_417).
+Hare held sacred by the Ancient Britons, [417](cml29.htm#page_417.md).
 
-Harlech, [289](cml22.htm#page_289), [294](cml22.htm#page_294),
-[295](cml22.htm#page_295), [296](cml22.htm#page_296).
+Harlech, [289](cml22.htm#page_289), [294](cml22.htm#page_294.md),
+[295](cml22.htm#page_295), [296](cml22.htm#page_296.md).
 
-Harp of the Dagda, [54](cml09.htm#page_54), [346](cml26.htm#page_346);
-of Angus, [56](cml09.htm#page_56); of Teirtu, [346](cml26.htm#page_346).
+Harp of the Dagda, [54](cml09.htm#page_54), [346](cml26.htm#page_346.md);
+of Angus, [56](cml09.htm#page_56); of Teirtu, [346](cml26.htm#page_346.md).
 
-Havgan, a king of Annwn, [279](cml21.htm#page_279),
-[281](cml21.htm#page_281).
+Havgan, a king of Annwn, [279](cml21.htm#page_279.md),
+[281](cml21.htm#page_281.md).
 
-Hawthorn, chief of Giants, father of Olwen, [340](cml26.htm#page_340),
-[341](cml26.htm#page_341),
-[343](cml26.htm#page_343)-[345](cml26.htm#page_345),
-[349](cml26.htm#page_349), [353](cml26.htm#page_353).
+Hawthorn, chief of Giants, father of Olwen, [340](cml26.htm#page_340.md),
+[341](cml26.htm#page_341.md),
+[343](cml26.htm#page_343)-[345](cml26.htm#page_345.md),
+[349](cml26.htm#page_349), [353](cml26.htm#page_353.md).
 
-Heifer, a black-maned, called "Ocean", [80](cml11.htm#page_80),
-[117](cml13.htm#page_117), [240](cml19.htm#page_240); the Morrígú takes
-the shape of a, [169](cml16.htm#page_169)-[170](cml16.htm#page_170).
+Heifer, a black-maned, called "Ocean", [80](cml11.htm#page_80.md),
+[117](cml13.htm#page_117), [240](cml19.htm#page_240.md); the Morrígú takes
+the shape of a, [169](cml16.htm#page_169)-[170](cml16.htm#page_170.md).
 
-Hengist, [325](cml25.htm#page_325).
+Hengist, [325](cml25.htm#page_325.md).
 
-Henuinus, Duke of Cornwall, [382](cml28.htm#page_382),
-[383](cml28.htm#page_383).
+Henuinus, Duke of Cornwall, [382](cml28.htm#page_382.md),
+[383](cml28.htm#page_383.md).
 
-Hephæstus, the Gaelic, [61](cml09.htm#page_61), [63](cml09.htm#page_63),
-[233](cml19.htm#page_233).
+Hephæstus, the Gaelic, [61](cml09.htm#page_61), [63](cml09.htm#page_63.md),
+[233](cml19.htm#page_233.md).
 
-Heracles, [158](cml16.htm#page_158), [276](cml20.htm#page_276).
+Heracles, [158](cml16.htm#page_158), [276](cml20.htm#page_276.md).
 
-Heré, [263](cml20.htm#page_263).
+Heré, [263](cml20.htm#page_263.md).
 
-Hereford, [299](cml23.htm#page_299).
+Hereford, [299](cml23.htm#page_299.md).
 
-Hergest, the Red Book of, [11](cml06.htm#page_11),
-[258](cml20.htm#page_258), [260](cml20.htm#page_260),
-[312](cml25.htm#page_312), [328](cml25.htm#page_328),
-[336](cml26.htm#page_336), [369](cml27.htm#page_369).
+Hergest, the Red Book of, [11](cml06.htm#page_11.md),
+[258](cml20.htm#page_258), [260](cml20.htm#page_260.md),
+[312](cml25.htm#page_312), [328](cml25.htm#page_328.md),
+[336](cml26.htm#page_336), [369](cml27.htm#page_369.md).
 
-Herimon, [40](cml08.htm#page_40). See Eremon.
+Herimon, [40](cml08.htm#page_40.md). See Eremon.
 
-"Hero-light", Cuchulainn's, [177](cml16.htm#page_177),
-[183](cml16.htm#page_183).
+"Hero-light", Cuchulainn's, [177](cml16.htm#page_177.md),
+[183](cml16.htm#page_183.md).
 
-"Hero's salmon-leap", Cuchulainn's, [163](cml16.htm#page_163).
+"Hero's salmon-leap", Cuchulainn's, [163](cml16.htm#page_163.md).
 
-Hesiod, [65](cml10.htm#page_65).
+Hesiod, [65](cml10.htm#page_65.md).
 
 Hesperides, garden of the. See Garden.
 
-Hesus, a Gaulish god, [52](cml09.htm#page_52).
+Hesus, a Gaulish god, [52](cml09.htm#page_52.md).
 
-[Hevyedd](errata.htm#9) the Ancient, father of Rhiannon,
-[283](cml21.htm#page_283), [285](cml21.htm#page_285).
+[Hevyedd](errata.htm#9.md) the Ancient, father of Rhiannon,
+[283](cml21.htm#page_283), [285](cml21.htm#page_285.md).
 
-Hi Dorchaide, [70](cml10.htm#page_70).
+Hi Dorchaide, [70](cml10.htm#page_70.md).
 
 <span id="page_436">p. 436</span>
 
-*Hibbert Lectures* (for [188](cml17.htm#page_188)[6](cml05.htm#page_6))
-on *Celtic Heathendom*, Professor Rhys's, [41](cml08.htm#page_41),
-[43](cml08.htm#page_43), [48](cml09.htm#page_48),
-[51](cml09.htm#page_51), [54](cml09.htm#page_54),
-[57](cml09.htm#page_57), [59](cml09.htm#page_59),
-[90](cml12.htm#page_90), [120](cml14.htm#page_120),
-[205](cml18.htm#page_205), [238](cml19.htm#page_238),
-[253](cml20.htm#page_253), [254](cml20.htm#page_254),
-[258](cml20.htm#page_258), [262](cml20.htm#page_262),
-[264](cml20.htm#page_264), [268](cml20.htm#page_268),
-[271](cml20.htm#page_271), [277](cml20.htm#page_277),
-[282](cml21.htm#page_282), [284](cml21.htm#page_284),
-[307](cml24.htm#page_307), [313](cml25.htm#page_313),
-[318](cml25.htm#page_318), [324](cml25.htm#page_324),
-[325](cml25.htm#page_325), [331](cml25.htm#page_331),
-[377](cml28.htm#page_377), [408](cml29.htm#page_408).
+*Hibbert Lectures* (for [188](cml17.htm#page_188)[6](cml05.htm#page_6).md)
+on *Celtic Heathendom*, Professor Rhys's, [41](cml08.htm#page_41.md),
+[43](cml08.htm#page_43), [48](cml09.htm#page_48.md),
+[51](cml09.htm#page_51), [54](cml09.htm#page_54.md),
+[57](cml09.htm#page_57), [59](cml09.htm#page_59.md),
+[90](cml12.htm#page_90), [120](cml14.htm#page_120.md),
+[205](cml18.htm#page_205), [238](cml19.htm#page_238.md),
+[253](cml20.htm#page_253), [254](cml20.htm#page_254.md),
+[258](cml20.htm#page_258), [262](cml20.htm#page_262.md),
+[264](cml20.htm#page_264), [268](cml20.htm#page_268.md),
+[271](cml20.htm#page_271), [277](cml20.htm#page_277.md),
+[282](cml21.htm#page_282), [284](cml21.htm#page_284.md),
+[307](cml24.htm#page_307), [313](cml25.htm#page_313.md),
+[318](cml25.htm#page_318), [324](cml25.htm#page_324.md),
+[325](cml25.htm#page_325), [331](cml25.htm#page_331.md),
+[377](cml28.htm#page_377), [408](cml29.htm#page_408.md).
 
-Hill of Uisnech, [69](cml10.htm#page_69), [324](cml25.htm#page_324).
+Hill of Uisnech, [69](cml10.htm#page_69), [324](cml25.htm#page_324.md).
 
-*Historia Britonum* of Nennius, [9](cml06.htm#page_9),
-[336](cml26.htm#page_336); of Geoffrey of Monmouth,
-[9](cml06.htm#page_9), [251](cml20.htm#page_251),
-[323](cml25.htm#page_323), [324](cml25.htm#page_324),
-[336](cml26.htm#page_336), [372](cml28.htm#page_372).
-[373](cml28.htm#page_373), [374](cml28.htm#page_374),
-[375](cml28.htm#page_375), [376](cml28.htm#page_376),
-[381](cml28.htm#page_381), [384](cml28.htm#page_384),
-[386](cml28.htm#page_386).
+*Historia Britonum* of Nennius, [9](cml06.htm#page_9.md),
+[336](cml26.htm#page_336.md); of Geoffrey of Monmouth,
+[9](cml06.htm#page_9), [251](cml20.htm#page_251.md),
+[323](cml25.htm#page_323), [324](cml25.htm#page_324.md),
+[336](cml26.htm#page_336), [372](cml28.htm#page_372.md).
+[373](cml28.htm#page_373), [374](cml28.htm#page_374.md),
+[375](cml28.htm#page_375), [376](cml28.htm#page_376.md),
+[381](cml28.htm#page_381), [384](cml28.htm#page_384.md),
+[386](cml28.htm#page_386.md).
 
-Hittites, the, [20](cml07.htm#page_20).
+Hittites, the, [20](cml07.htm#page_20.md).
 
-Holy Families of Britain, the Three Chief, [386](cml28.htm#page_386).
+Holy Families of Britain, the Three Chief, [386](cml28.htm#page_386.md).
 
 Holy Grail, the. See Grail.
 
-Holy wells, [414](cml29.htm#page_414)-[415](cml29.htm#page_415).
+Holy wells, [414](cml29.htm#page_414)-[415](cml29.htm#page_415.md).
 
-Homeric and Celtic civilization compared, [25](cml07.htm#page_25),
-[29](cml07.htm#page_29).
+Homeric and Celtic civilization compared, [25](cml07.htm#page_25.md),
+[29](cml07.htm#page_29.md).
 
-Hoodie-crow, [52](cml09.htm#page_52), [53](cml09.htm#page_53),
-[169](cml16.htm#page_169), [271](cml20.htm#page_271).
+Hoodie-crow, [52](cml09.htm#page_52), [53](cml09.htm#page_53.md),
+[169](cml16.htm#page_169), [271](cml20.htm#page_271.md).
 
-Horse of Manannán mac Lir, [60](cml09.htm#page_60),
-[88](cml11.htm#page_88), [98](cml12.htm#page_98); of Gweddw,
-[347](cml26.htm#page_347); of Gwyn son of Nudd,
-[255](cml20.htm#page_255), [256](cml20.htm#page_256),
-[348](cml26.htm#page_348).
+Horse of Manannán mac Lir, [60](cml09.htm#page_60.md),
+[88](cml11.htm#page_88), [98](cml12.htm#page_98.md); of Gweddw,
+[347](cml26.htm#page_347.md); of Gwyn son of Nudd,
+[255](cml20.htm#page_255), [256](cml20.htm#page_256.md),
+[348](cml26.htm#page_348.md).
 
-"Hound of Culann", the, [161](cml16.htm#page_161),
-[166](cml16.htm#page_166); hound of Lugh, [63](cml09.htm#page_63); of
-the king of Ioruaidhé, [104](cml12.htm#page_104); hounds of Finn mac
-Coul, [213](cml18.htm#page_213); hounds of Celtic myth,
-[225](cml18.htm#page_225), [280](cml21.htm#page_280),
-[391](cml28.htm#page_391), [392](cml28.htm#page_392).
+"Hound of Culann", the, [161](cml16.htm#page_161.md),
+[166](cml16.htm#page_166); hound of Lugh, [63](cml09.htm#page_63.md); of
+the king of Ioruaidhé, [104](cml12.htm#page_104.md); hounds of Finn mac
+Coul, [213](cml18.htm#page_213.md); hounds of Celtic myth,
+[225](cml18.htm#page_225), [280](cml21.htm#page_280.md),
+[391](cml28.htm#page_391), [392](cml28.htm#page_392.md).
 
-Hull, Miss Eleanor, her *Cuchullin Saga*, [155](cml16.htm#page_155),
-[156](cml16.htm#page_156), [159](cml16.htm#page_159),
-[184](cml17.htm#page_184), [190](cml17.htm#page_190),
-[199](cml17.htm#page_199), [227](cml19.htm#page_227).
+Hull, Miss Eleanor, her *Cuchullin Saga*, [155](cml16.htm#page_155.md),
+[156](cml16.htm#page_156), [159](cml16.htm#page_159.md),
+[184](cml17.htm#page_184), [190](cml17.htm#page_190.md),
+[199](cml17.htm#page_199), [227](cml19.htm#page_227.md).
 
-Human sacrifices of the Druids, [37](cml08.htm#page_37),
-[38](cml08.htm#page_38); to Cromm Cruaich, [38](cml08.htm#page_38),
-[39](cml08.htm#page_39), [40](cml08.htm#page_40),
-[400](cml29.htm#page_400); symbolical, [405](cml29.htm#page_405),
-[410](cml29.htm#page_410), [411](cml29.htm#page_411).
+Human sacrifices of the Druids, [37](cml08.htm#page_37.md),
+[38](cml08.htm#page_38); to Cromm Cruaich, [38](cml08.htm#page_38.md),
+[39](cml08.htm#page_39), [40](cml08.htm#page_40.md),
+[400](cml29.htm#page_400); symbolical, [405](cml29.htm#page_405.md),
+[410](cml29.htm#page_410), [411](cml29.htm#page_411.md).
 
-Huon of Bordeaux, Sir, [7](cml05.htm#page_7).
+Huon of Bordeaux, Sir, [7](cml05.htm#page_7.md).
 
-Huxley, Professor, [19](cml07.htm#page_19).
+Huxley, Professor, [19](cml07.htm#page_19.md).
 
-Hy-Breasail, [133](cml15.htm#page_133).
+Hy-Breasail, [133](cml15.htm#page_133.md).
 
  
 
-Iberians, the, [19](cml07.htm#page_19), [20](cml07.htm#page_20),
-[21](cml07.htm#page_21), [22](cml07.htm#page_22),
-[23](cml07.htm#page_23). [35](cml08.htm#page_35),
-[68](cml10.htm#page_68), [69](cml10.htm#page_69),
-[70](cml10.htm#page_70), [76](cml10.htm#page_76),
-[230](cml19.htm#page_230), [248](cml19.htm#page_248),
-[278](cml21.htm#page_278); their physique, [19](cml07.htm#page_19);
-language, [19](cml07.htm#page_19); original home,
-[19](cml07.htm#page_19); state of culture, [20](cml07.htm#page_20);
-gods, [43](cml08.htm#page_43). [44](cml08.htm#page_44),
-[64](cml09.htm#page_64).
+Iberians, the, [19](cml07.htm#page_19), [20](cml07.htm#page_20.md),
+[21](cml07.htm#page_21), [22](cml07.htm#page_22.md),
+[23](cml07.htm#page_23). [35](cml08.htm#page_35.md),
+[68](cml10.htm#page_68), [69](cml10.htm#page_69.md),
+[70](cml10.htm#page_70), [76](cml10.htm#page_76.md),
+[230](cml19.htm#page_230), [248](cml19.htm#page_248.md),
+[278](cml21.htm#page_278); their physique, [19](cml07.htm#page_19.md);
+language, [19](cml07.htm#page_19.md); original home,
+[19](cml07.htm#page_19); state of culture, [20](cml07.htm#page_20.md);
+gods, [43](cml08.htm#page_43). [44](cml08.htm#page_44.md),
+[64](cml09.htm#page_64.md).
 
-Iddawc, the Agitator of Britain, [337](cml26.htm#page_337),
-[338](cml26.htm#page_338).
+Iddawc, the Agitator of Britain, [337](cml26.htm#page_337.md),
+[338](cml26.htm#page_338.md).
 
-Ilbhreach, son of Manannán, [136](cml15.htm#page_136),
-[140](cml15.htm#page_140), [211](cml18.htm#page_211),
-[222](cml18.htm#page_222).
+Ilbhreach, son of Manannán, [136](cml15.htm#page_136.md),
+[140](cml15.htm#page_140), [211](cml18.htm#page_211.md),
+[222](cml18.htm#page_222.md).
 
-Iliad, the, [75](cml10.htm#page_75), [156](cml16.htm#page_156).
+Iliad, the, [75](cml10.htm#page_75), [156](cml16.htm#page_156.md).
 
-Illann the Fair, son of Fergus mac Roy, [193](cml17.htm#page_193),
-[196](cml17.htm#page_196)-[198](cml17.htm#page_198).
+Illann the Fair, son of Fergus mac Roy, [193](cml17.htm#page_193.md),
+[196](cml17.htm#page_196)-[198](cml17.htm#page_198.md).
 
 "Illusion, the Land of", an old name for Dyfed,
-[279](cml21.htm#page_279).
+[279](cml21.htm#page_279.md).
 
-Indech, son of Domnu, a king of the Fomors, [48](cml09.htm#page_48),
-[70](cml10.htm#page_70), [83](cml11.htm#page_83),
-[90](cml12.htm#page_90), [108](cml13.htm#page_108),
-[112](cml13.htm#page_112).
+Indech, son of Domnu, a king of the Fomors, [48](cml09.htm#page_48.md),
+[70](cml10.htm#page_70), [83](cml11.htm#page_83.md),
+[90](cml12.htm#page_90), [108](cml13.htm#page_108.md),
+[112](cml13.htm#page_112.md).
 
-Inniskea, the Lonely Crane of, [146](cml15.htm#page_146); stone worship
-in, [415](cml29.htm#page_415).
+Inniskea, the Lonely Crane of, [146](cml15.htm#page_146.md); stone worship
+in, [415](cml29.htm#page_415.md).
 
-*Invasions, the Book of*, [121](cml14.htm#page_121).
+*Invasions, the Book of*, [121](cml14.htm#page_121.md).
 
 *Ioldanach*, the "Master of All Arts", a title of Lugh,
-[63](cml09.htm#page_63), [85](cml11.htm#page_85),
-[237](cml19.htm#page_237), [239](cml19.htm#page_239).
+[63](cml09.htm#page_63), [85](cml11.htm#page_85.md),
+[237](cml19.htm#page_237), [239](cml19.htm#page_239.md).
 
 Iolo Morganwg, bardic name of Mr. Edward Williams,
-[372](cml28.htm#page_372).
+[372](cml28.htm#page_372.md).
 
-*Iolo MSS*., the, [269](cml20.htm#page_269), [270](cml20.htm#page_270),
-[372](cml28.htm#page_372), [373](cml28.htm#page_373),
-[387](cml28.htm#page_387), [388](cml28.htm#page_388),
-[389](cml28.htm#page_389).
+*Iolo MSS*., the, [269](cml20.htm#page_269), [270](cml20.htm#page_270.md),
+[372](cml28.htm#page_372), [373](cml28.htm#page_373.md),
+[387](cml28.htm#page_387), [388](cml28.htm#page_388.md),
+[389](cml28.htm#page_389.md).
 
-Iona, Adamnan, Abbot of, [401](cml29.htm#page_401).
+Iona, Adamnan, Abbot of, [401](cml29.htm#page_401.md).
 
-Ioruaidhe, [96](cml12.htm#page_96), [97](cml12.htm#page_97),
-[104](cml12.htm#page_104).
+Ioruaidhe, [96](cml12.htm#page_96), [97](cml12.htm#page_97.md),
+[104](cml12.htm#page_104.md).
 
-Ireland, old names of, [125](cml14.htm#page_125),
-[126](cml14.htm#page_126), [150](cml15.htm#page_150). See also Iweridd.
+Ireland, old names of, [125](cml14.htm#page_125.md),
+[126](cml14.htm#page_126), [150](cml15.htm#page_150.md). See also Iweridd.
 
-Iseult, wife of King Mark, [327](cml25.htm#page_327),
-[338](cml26.htm#page_338),
+Iseult, wife of King Mark, [327](cml25.htm#page_327.md),
+[338](cml26.htm#page_338.md),
 
-Island, submarine, [97](cml12.htm#page_97), [104](cml12.htm#page_104).
+Island, submarine, [97](cml12.htm#page_97), [104](cml12.htm#page_104.md).
 
 "Island of the Mighty", a bardic name for Britain,
-[292](cml22.htm#page_292).
+[292](cml22.htm#page_292.md).
 
-Islands, sacred, [326](cml25.htm#page_326).
+Islands, sacred, [326](cml25.htm#page_326.md).
 
-Ith, [121](cml14.htm#page_121), [122](cml14.htm#page_122); Ith's Plain,
-[66](cml10.htm#page_66), [122](cml14.htm#page_122).
+Ith, [121](cml14.htm#page_121), [122](cml14.htm#page_122.md); Ith's Plain,
+[66](cml10.htm#page_66), [122](cml14.htm#page_122.md).
 
 Iuchar, son of Tuirenn,
-[90](cml12.htm#page_90)-[106](cml12.htm#page_106).
+[90](cml12.htm#page_90)-[106](cml12.htm#page_106.md).
 
 Iucharba, son of Tuirenn,
-[90](cml12.htm#page_90)-[106](cml12.htm#page_106).
+[90](cml12.htm#page_90)-[106](cml12.htm#page_106.md).
 
 Iweridd, *i.e.* "Ireland", wife of the British sea-god Llyr,
-[258](cml20.htm#page_258), [270](cml20.htm#page_270),
-[271](cml20.htm#page_271).
+[258](cml20.htm#page_258), [270](cml20.htm#page_270.md),
+[271](cml20.htm#page_271.md).
 
  
 
-Janus, [383](cml28.htm#page_383).
+Janus, [383](cml28.htm#page_383.md).
 
-Javelin, Red, one of Manannán's spears, [60](cml09.htm#page_60),
-[217](cml18.htm#page_217).
+Javelin, Red, one of Manannán's spears, [60](cml09.htm#page_60.md),
+[217](cml18.htm#page_217.md).
 
-John, Feast of Saint, [245](cml19.htm#page_245),
-[407](cml29.htm#page_407), [411](cml29.htm#page_411).
+John, Feast of Saint, [245](cml19.htm#page_245.md),
+[407](cml29.htm#page_407), [411](cml29.htm#page_411.md).
 
-Jones, the Rev. Edward, on apparitions, [391](cml28.htm#page_391).
+Jones, the Rev. Edward, on apparitions, [391](cml28.htm#page_391.md).
 
-Joseph of Arimathea, [358](cml27.htm#page_358),
-[359](cml27.htm#page_359), [366](cml27.htm#page_366).
+Joseph of Arimathea, [358](cml27.htm#page_358.md),
+[359](cml27.htm#page_359), [366](cml27.htm#page_366.md).
 
-Jubainville, M. H. d’Arbois de, [25](cml07.htm#page_25),
-[34](cml08.htm#page_34), [37](cml08.htm#page_37),
-[48](cml09.htm#page_48), [54](cml09.htm#page_54),
-[67](cml10.htm#page_67), [68](cml10.htm#page_68),
-[72](cml10.htm#page_72), [77](cml10.htm#page_77),
-[78](cml11.htm#page_78), [107](cml13.htm#page_107),
-[120](cml14.htm#page_120), [124](cml14.htm#page_124),
-[128](cml14.htm#page_128), [132](cml15.htm#page_132),
-[158](cml16.htm#page_158), [188](cml17.htm#page_188),
-[202](cml18.htm#page_202).
+Jubainville, M. H. d’Arbois de, [25](cml07.htm#page_25.md),
+[34](cml08.htm#page_34), [37](cml08.htm#page_37.md),
+[48](cml09.htm#page_48), [54](cml09.htm#page_54.md),
+[67](cml10.htm#page_67), [68](cml10.htm#page_68.md),
+[72](cml10.htm#page_72), [77](cml10.htm#page_77.md),
+[78](cml11.htm#page_78), [107](cml13.htm#page_107.md),
+[120](cml14.htm#page_120), [124](cml14.htm#page_124.md),
+[128](cml14.htm#page_128), [132](cml15.htm#page_132.md),
+[158](cml16.htm#page_158), [188](cml17.htm#page_188.md),
+[202](cml18.htm#page_202.md).
 
-Judgment of Amergin, the, [127](cml14.htm#page_127).
+Judgment of Amergin, the, [127](cml14.htm#page_127.md).
 
 Julius Caesar, see Caesar.
 
  
 
-Kacmwri, the servant of Arthur, [352](cml26.htm#page_352),
-[353](cml26.htm#page_353).
+Kacmwri, the servant of Arthur, [352](cml26.htm#page_352.md),
+[353](cml26.htm#page_353.md).
 
-Kaerlud, [376](cml28.htm#page_376).
+Kaerlud, [376](cml28.htm#page_376.md).
 
-Kai, [326](cml25.htm#page_326), [327](cml25.htm#page_327),
-[338](cml26.htm#page_338), [343](cml26.htm#page_343),
-[348](cml26.htm#page_348), [349](cml26.htm#page_349),
-[350](cml26.htm#page_350). [351](cml26.htm#page_351).
+Kai, [326](cml25.htm#page_326), [327](cml25.htm#page_327.md),
+[338](cml26.htm#page_338), [343](cml26.htm#page_343.md),
+[348](cml26.htm#page_348), [349](cml26.htm#page_349.md),
+[350](cml26.htm#page_350). [351](cml26.htm#page_351.md).
 
 Karitia, see Calais.
 
-Kay, Sir, [6](cml05.htm#page_6), [326](cml25.htm#page_326).
+Kay, Sir, [6](cml05.htm#page_6), [326](cml25.htm#page_326.md).
 
-"Keening" invented, [110](cml13.htm#page_110).
+"Keening" invented, [110](cml13.htm#page_110.md).
 
-Kelli Wic, [334](cml25.htm#page_334).
+Kelli Wic, [334](cml25.htm#page_334.md).
 
-*Keltic Researches*, Mr. Nicholson's, [3](cml05.htm#page_3)
+*Keltic Researches*, Mr. Nicholson's, [3](cml05.htm#page_3.md)
 
-Kenmare, river, [121](cml14.htm#page_121).
+Kenmare, river, [121](cml14.htm#page_121.md).
 
 Kicva, wife of Pryderi,
-[289](cml22.htm#page_289)-[301](cml23.htm#page_301).
+[289](cml22.htm#page_289)-[301](cml23.htm#page_301.md).
 
-Kildare, shrine of St. Bridget at, [228](cml19.htm#page_228).
+Kildare, shrine of St. Bridget at, [228](cml19.htm#page_228.md).
 
-Killaraus, Mount, [324](cml25.htm#page_324).
+Killaraus, Mount, [324](cml25.htm#page_324.md).
 
-Killarney, Lake, [223](cml18.htm#page_223), [247](cml19.htm#page_247).
+Killarney, Lake, [223](cml18.htm#page_223), [247](cml19.htm#page_247.md).
 
 <span id="page_427">p. 427</span>
 
 "Kingly Castle", see Caer Rigor.
 
-Kirwans of Castle Hacket, the, [244](cml19.htm#page_244).
+Kirwans of Castle Hacket, the, [244](cml19.htm#page_244.md).
 
-Knights, King Arthur's, [6](cml05.htm#page_6), [7](cml05.htm#page_7),
-[8](cml06.htm#page_8), [155](cml16.htm#page_155),
-[251](cml20.htm#page_251), [274](cml20.htm#page_274),
-[358](cml27.htm#page_358), [371](cml28.htm#page_371).
+Knights, King Arthur's, [6](cml05.htm#page_6), [7](cml05.htm#page_7.md),
+[8](cml06.htm#page_8), [155](cml16.htm#page_155.md),
+[251](cml20.htm#page_251), [274](cml20.htm#page_274.md),
+[358](cml27.htm#page_358), [371](cml28.htm#page_371.md).
 
-Knockainy, [245](cml19.htm#page_245).
+Knockainy, [245](cml19.htm#page_245.md).
 
-Knockers, [393](cml28.htm#page_393), [403](cml29.htm#page_403).
+Knockers, [393](cml28.htm#page_393), [403](cml29.htm#page_403.md).
 
-Knockma, fairy hill of, [136](cml15.htm#page_136),
-[243](cml19.htm#page_243), [244](cml19.htm#page_244).
+Knockma, fairy hill of, [136](cml15.htm#page_136.md),
+[243](cml19.htm#page_243), [244](cml19.htm#page_244.md).
 
-Knockthierna, [247](cml19.htm#page_247).
+Knockthierna, [247](cml19.htm#page_247.md).
 
-Knowth, [137](cml15.htm#page_137), [138](cml15.htm#page_138).
+Knowth, [137](cml15.htm#page_137), [138](cml15.htm#page_138.md).
 
-Kulhwch, [340](cml26.htm#page_340), [341](cml26.htm#page_341),
-[343](cml26.htm#page_343), [344](cml26.htm#page_344).
-[345](cml26.htm#page_345), [347](cml26.htm#page_347).
-[353](cml26.htm#page_353).
+Kulhwch, [340](cml26.htm#page_340), [341](cml26.htm#page_341.md),
+[343](cml26.htm#page_343), [344](cml26.htm#page_344.md).
+[345](cml26.htm#page_345), [347](cml26.htm#page_347.md).
+[353](cml26.htm#page_353.md).
 
-*Kulhwch and Olwen*, the tale of, [258](cml20.htm#page_258),
-[259](cml20.htm#page_259), [260](cml20.htm#page_260),
-[313](cml25.htm#page_313), [321](cml25.htm#page_321).
-[327](cml25.htm#page_327), [339](cml26.htm#page_339),
-[340](cml26.htm#page_340)-[353](cml26.htm#page_353),
-[369](cml27.htm#page_369), [407](cml29.htm#page_407).
+*Kulhwch and Olwen*, the tale of, [258](cml20.htm#page_258.md),
+[259](cml20.htm#page_259), [260](cml20.htm#page_260.md),
+[313](cml25.htm#page_313), [321](cml25.htm#page_321.md).
+[327](cml25.htm#page_327), [339](cml26.htm#page_339.md),
+[340](cml26.htm#page_340)-[353](cml26.htm#page_353.md),
+[369](cml27.htm#page_369), [407](cml29.htm#page_407.md).
 
-Kyndellig, [343](cml26.htm#page_343).
+Kyndellig, [343](cml26.htm#page_343.md).
 
-Kynedyr Wyllt, [348](cml26.htm#page_348), [352](cml26.htm#page_352).
+Kynedyr Wyllt, [348](cml26.htm#page_348), [352](cml26.htm#page_352.md).
 
  
 
-Labhra, Mider's leech, [213](cml18.htm#page_213).
+Labhra, Mider's leech, [213](cml18.htm#page_213.md).
 
-Labraid of the Quick Hand on Sword, [202](cml18.htm#page_202).
+Labraid of the Quick Hand on Sword, [202](cml18.htm#page_202.md).
 
-Lady of the Lake, [361](cml27.htm#page_361).
+Lady of the Lake, [361](cml27.htm#page_361.md).
 
-Laeg, Cuchulainn's charioteer, [169](cml16.htm#page_169),
-[181](cml16.htm#page_181), [182](cml16.htm#page_182),
-[186](cml17.htm#page_186).
+Laeg, Cuchulainn's charioteer, [169](cml16.htm#page_169.md),
+[181](cml16.htm#page_181), [182](cml16.htm#page_182.md),
+[186](cml17.htm#page_186.md).
 
-Laegaire the Battle-winner, [163](cml16.htm#page_163).
+Laegaire the Battle-winner, [163](cml16.htm#page_163.md).
 
-Lakes, twelve chief, of Ireland, [88](cml11.htm#page_88).
+Lakes, twelve chief, of Ireland, [88](cml11.htm#page_88.md).
 
-Lamias, [403](cml29.htm#page_403).
+Lamias, [403](cml29.htm#page_403.md).
 
-Lammas, [407](cml29.htm#page_407).
+Lammas, [407](cml29.htm#page_407.md).
 
-Land of Illusion, [279](cml21.htm#page_279); of Happiness,
-[119](cml14.htm#page_119), [133](cml15.htm#page_133); of the Living,
-[133](cml15.htm#page_133), [335](cml25.htm#page_335); of Promise,
-[133](cml15.htm#page_133), [217](cml18.htm#page_217),
-[337](cml26.htm#page_337); of Summer, [119](cml14.htm#page_119),
-[329](cml25.htm#page_329); of the Young, [133](cml15.htm#page_133),
-[225](cml18.htm#page_225).
+Land of Illusion, [279](cml21.htm#page_279.md); of Happiness,
+[119](cml14.htm#page_119), [133](cml15.htm#page_133.md); of the Living,
+[133](cml15.htm#page_133), [335](cml25.htm#page_335.md); of Promise,
+[133](cml15.htm#page_133), [217](cml18.htm#page_217.md),
+[337](cml26.htm#page_337); of Summer, [119](cml14.htm#page_119.md),
+[329](cml25.htm#page_329); of the Young, [133](cml15.htm#page_133.md),
+[225](cml18.htm#page_225.md).
 
-Laon, [277](cml20.htm#page_277).
+Laon, [277](cml20.htm#page_277.md).
 
-Larminie, Mr. William, [233](cml19.htm#page_233).
+Larminie, Mr. William, [233](cml19.htm#page_233.md).
 
-Launcelot, Sir, [7](cml05.htm#page_7), [328](cml25.htm#page_328),
-[333](cml25.htm#page_333), [358](cml27.htm#page_358),
-[359](cml27.htm#page_359), [362](cml27.htm#page_362),
-[365](cml27.htm#page_365).
+Launcelot, Sir, [7](cml05.htm#page_7), [328](cml25.htm#page_328.md),
+[333](cml25.htm#page_333), [358](cml27.htm#page_358.md),
+[359](cml27.htm#page_359), [362](cml27.htm#page_362.md),
+[365](cml27.htm#page_365.md).
 
-*Lear, King*, Shakespeare's, [5](cml05.htm#page_5),
-[7](cml05.htm#page_7), [259](cml20.htm#page_259),
-[270](cml20.htm#page_270), [381](cml28.htm#page_381).
+*Lear, King*, Shakespeare's, [5](cml05.htm#page_5.md),
+[7](cml05.htm#page_7), [259](cml20.htm#page_259.md),
+[270](cml20.htm#page_270), [381](cml28.htm#page_381.md).
 
-Lecan, the Book of, [10](cml06.htm#page_10), [38](cml08.htm#page_38),
-[123](cml14.htm#page_123), [229](cml19.htm#page_229); the Yellow Book
-of, [10](cml06.htm#page_10), [164](cml16.htm#page_164).
+Lecan, the Book of, [10](cml06.htm#page_10), [38](cml08.htm#page_38.md),
+[123](cml14.htm#page_123), [229](cml19.htm#page_229.md); the Yellow Book
+of, [10](cml06.htm#page_10), [164](cml16.htm#page_164.md).
 
-Leicester, [270](cml20.htm#page_270), [383](cml28.htm#page_383).
+Leicester, [270](cml20.htm#page_270), [383](cml28.htm#page_383.md).
 
-Leinster, [179](cml16.htm#page_179), [189](cml17.htm#page_189).
+Leinster, [179](cml16.htm#page_179), [189](cml17.htm#page_189.md).
 
-Leinster, Mount, [140](cml15.htm#page_140), [211](cml18.htm#page_211),
-[212](cml18.htm#page_212).
+Leinster, Mount, [140](cml15.htm#page_140), [211](cml18.htm#page_211.md),
+[212](cml18.htm#page_212.md).
 
-Leinster, the Book of, [10](cml06.htm#page_10), [38](cml08.htm#page_38),
-[55](cml09.htm#page_55), [56](cml09.htm#page_56),
-[121](cml14.htm#page_121), [132](cml15.htm#page_132),
-[139](cml15.htm#page_139), [155](cml16.htm#page_155),
-[156](cml16.htm#page_156), [157](cml16.htm#page_157),
-[190](cml17.htm#page_190), [199](cml17.htm#page_199),
-[204](cml18.htm#page_204), [229](cml19.htm#page_229).
+Leinster, the Book of, [10](cml06.htm#page_10), [38](cml08.htm#page_38.md),
+[55](cml09.htm#page_55), [56](cml09.htm#page_56.md),
+[121](cml14.htm#page_121), [132](cml15.htm#page_132.md),
+[139](cml15.htm#page_139), [155](cml16.htm#page_155.md),
+[156](cml16.htm#page_156), [157](cml16.htm#page_157.md),
+[190](cml17.htm#page_190), [199](cml17.htm#page_199.md),
+[204](cml18.htm#page_204), [229](cml19.htm#page_229.md).
 
 Leir, Geoffrey of Monmouth's King,
-[381](cml28.htm#page_381)-[383](cml28.htm#page_383),
+[381](cml28.htm#page_381)-[383](cml28.htm#page_383.md),
 
-[Leodegrance](errata.htm#10), father of Guinevere,
-[357](cml27.htm#page_357).
+[Leodegrance](errata.htm#10.md), father of Guinevere,
+[357](cml27.htm#page_357.md).
 
-Leprechaun, [247](cml19.htm#page_247), [248](cml19.htm#page_248),
-[393](cml28.htm#page_393), [403](cml29.htm#page_403).
+Leprechaun, [247](cml19.htm#page_247), [248](cml19.htm#page_248.md),
+[393](cml28.htm#page_393), [403](cml29.htm#page_403.md).
 
-Lêr, the Gaelic sea-god, [60](cml09.htm#page_60),
-[140](cml15.htm#page_140),
-[142](cml15.htm#page_142)-[144](cml15.htm#page_144),
-[146](cml15.htm#page_146), [205](cml18.htm#page_205),
-[211](cml18.htm#page_211), [212](cml18.htm#page_212),
-[222](cml18.htm#page_222), [252](cml20.htm#page_252),
-[269](cml20.htm#page_269); his rebellion against Bodb the Red,
-[140](cml15.htm#page_140); their reconciliation,
-[142](cml15.htm#page_142); the fate of the children of,
-[142](cml15.htm#page_142)-[146](cml15.htm#page_146); is killed by the
-Fenian hero Caoilté, [146](cml15.htm#page_146),
-[222](cml18.htm#page_222).
+Lêr, the Gaelic sea-god, [60](cml09.htm#page_60.md),
+[140](cml15.htm#page_140.md),
+[142](cml15.htm#page_142)-[144](cml15.htm#page_144.md),
+[146](cml15.htm#page_146), [205](cml18.htm#page_205.md),
+[211](cml18.htm#page_211), [212](cml18.htm#page_212.md),
+[222](cml18.htm#page_222), [252](cml20.htm#page_252.md),
+[269](cml20.htm#page_269.md); his rebellion against Bodb the Red,
+[140](cml15.htm#page_140.md); their reconciliation,
+[142](cml15.htm#page_142.md); the fate of the children of,
+[142](cml15.htm#page_142)-[146](cml15.htm#page_146.md); is killed by the
+Fenian hero Caoilté, [146](cml15.htm#page_146.md),
+[222](cml18.htm#page_222.md).
 
-Levarcham, [196](cml17.htm#page_196).
+Levarcham, [196](cml17.htm#page_196.md).
 
-Leyden, [277](cml20.htm#page_277).
+Leyden, [277](cml20.htm#page_277.md).
 
 *Lia Fáil*, see Stone of Destiny.
 
-Liban, [186](cml17.htm#page_186), [202](cml18.htm#page_202).
+Liban, [186](cml17.htm#page_186), [202](cml18.htm#page_202.md).
 
-Lismore, the Book of, [10](cml06.htm#page_10).
+Lismore, the Book of, [10](cml06.htm#page_10.md).
 
-Lia Lluanys, the Manx August festival, [409](cml29.htm#page_409).
+Lia Lluanys, the Manx August festival, [409](cml29.htm#page_409.md).
 
-Llacheu, son of Arthur, [258](cml20.htm#page_258),
-[326](cml25.htm#page_326). Llandwynwyn, the church of Dwynwyn (Branwen),
-in Anglesey, [388](cml28.htm#page_388).
+Llacheu, son of Arthur, [258](cml20.htm#page_258.md),
+[326](cml25.htm#page_326). Llandwynwyn, the church of Dwynwyn (Branwen.md),
+in Anglesey, [388](cml28.htm#page_388.md).
 
-Lleminawg, [319](cml25.htm#page_319).
+Lleminawg, [319](cml25.htm#page_319.md).
 
 Lleu (Llew) Llaw Gyffes, the British sun-god,
-[261](cml20.htm#page_261)-[268](cml20.htm#page_268),
-[276](cml20.htm#page_276), [305](cml24.htm#page_305),
-[306](cml24.htm#page_306), [322](cml25.htm#page_322),
-[323](cml25.htm#page_323), [325](cml25.htm#page_325),
-[330](cml25.htm#page_330), [335](cml25.htm#page_335),
-[360](cml27.htm#page_360), [364](cml27.htm#page_364),
-[369](cml27.htm#page_369), [370](cml27.htm#page_370): his birth,
-[261](cml20.htm#page_261); and naming, [263](cml20.htm#page_263); takes
-part in the Battle of the Trees, [306](cml24.htm#page_306); is changed
-into an eagle, [266](cml20.htm#page_266); his place taken in later myth
-by Gwalchmei, [323](cml25.htm#page_323); and in the Arthurian legend by
-Sir Gawain, [360](cml27.htm#page_360).
+[261](cml20.htm#page_261)-[268](cml20.htm#page_268.md),
+[276](cml20.htm#page_276), [305](cml24.htm#page_305.md),
+[306](cml24.htm#page_306), [322](cml25.htm#page_322.md),
+[323](cml25.htm#page_323), [325](cml25.htm#page_325.md),
+[330](cml25.htm#page_330), [335](cml25.htm#page_335.md),
+[360](cml27.htm#page_360), [364](cml27.htm#page_364.md),
+[369](cml27.htm#page_369), [370](cml27.htm#page_370.md): his birth,
+[261](cml20.htm#page_261); and naming, [263](cml20.htm#page_263.md); takes
+part in the Battle of the Trees, [306](cml24.htm#page_306.md); is changed
+into an eagle, [266](cml20.htm#page_266.md); his place taken in later myth
+by Gwalchmei, [323](cml25.htm#page_323.md); and in the Arthurian legend by
+Sir Gawain, [360](cml27.htm#page_360.md).
 
-Llevelys, king of France, [378](cml28.htm#page_378).
+Llevelys, king of France, [378](cml28.htm#page_378.md).
 
-Lloegyr (Loegria), Saxon Britain, [258](cml20.htm#page_258),
-[299](cml23.htm#page_299), [300](cml23.htm#page_300),
-[384](cml28.htm#page_384).
+Lloegyr (Loegria), Saxon Britain, [258](cml20.htm#page_258.md),
+[299](cml23.htm#page_299), [300](cml23.htm#page_300.md),
+[384](cml28.htm#page_384.md).
 
-Lludd Llaw Ereint, the British Zeus, [252](cml20.htm#page_252),
-[253](cml20.htm#page_253), [254](cml20.htm#page_254),
-[259](cml20.htm#page_259), [312](cml25.htm#page_312),
-[315](cml25.htm#page_315), [323](cml25.htm#page_323),
-[329](cml25.htm#page_329), [332](cml25.htm#page_332),
-[350](cml26.htm#page_350), [359](cml27.htm#page_359),
-[364](cml27.htm#page_364),
-[375](cml28.htm#page_375)-[381](cml28.htm#page_381),
-[407](cml29.htm#page_407); his wife Gwyar, [323](cml25.htm#page_323);
+Lludd Llaw Ereint, the British Zeus, [252](cml20.htm#page_252.md),
+[253](cml20.htm#page_253), [254](cml20.htm#page_254.md),
+[259](cml20.htm#page_259), [312](cml25.htm#page_312.md),
+[315](cml25.htm#page_315), [323](cml25.htm#page_323.md),
+[329](cml25.htm#page_329), [332](cml25.htm#page_332.md),
+[350](cml26.htm#page_350), [359](cml27.htm#page_359.md),
+[364](cml27.htm#page_364.md),
+[375](cml28.htm#page_375)-[381](cml28.htm#page_381.md),
+[407](cml29.htm#page_407); his wife Gwyar, [323](cml25.htm#page_323.md);
 puts an end to the "Three Plagues of Britain",
-[377](cml28.htm#page_377)-[380](cml28.htm#page_380); founds London,
-[376](cml28.htm#page_376); appears in the Morte Darthur as King Lot of
-Orkney, [359](cml27.htm#page_359).
+[377](cml28.htm#page_377)-[380](cml28.htm#page_380.md); founds London,
+[376](cml28.htm#page_376.md); appears in the Morte Darthur as King Lot of
+Orkney, [359](cml27.htm#page_359.md).
 
 Llwyd, son of Kilcoed, avenges Gwawl, son of Clúd,
-[303](cml23.htm#page_303), [304](cml23.htm#page_304).
+[303](cml23.htm#page_303), [304](cml23.htm#page_304.md).
 
-Llwyr, son of Llwyrion, the magic vessel of, [346](cml26.htm#page_346).
+Llwyr, son of Llwyrion, the magic vessel of, [346](cml26.htm#page_346.md).
 
-Llyn Llyw, the salmon of, [350](cml26.htm#page_350).
+Llyn Llyw, the salmon of, [350](cml26.htm#page_350.md).
 
-Llyr, the British sea-god, [252](cml20.htm#page_252),
-[259](cml20.htm#page_259), [269](cml20.htm#page_269),
-[270](cml20.htm#page_270), [271](cml20.htm#page_271),
-[273](cml20.htm#page_273), [289](cml22.htm#page_289),
-[290](cml22.htm#page_290), [304](cml23.htm#page_304),
-[313](cml25.htm#page_313), [316](cml25.htm#page_316),
-[338](cml26.htm#page_338), [381](cml28.htm#page_381),
-[383](cml28.htm#page_383), [386](cml28.htm#page_386); possibly borrowed
-from the Gaels, [270](cml20.htm#page_270); becomes the "King Leir" of
-Geoffrey of Monmouth, [381](cml28.htm#page_381); and the "King Lear" of
-Shakespeare, [270](cml20.htm#page_270), [381](cml28.htm#page_381);
-founds a family of saints, [386](cml28.htm#page_386); his tomb of temple
-at Leicester, [383](cml28.htm#page_383).
+Llyr, the British sea-god, [252](cml20.htm#page_252.md),
+[259](cml20.htm#page_259), [269](cml20.htm#page_269.md),
+[270](cml20.htm#page_270), [271](cml20.htm#page_271.md),
+[273](cml20.htm#page_273), [289](cml22.htm#page_289.md),
+[290](cml22.htm#page_290), [304](cml23.htm#page_304.md),
+[313](cml25.htm#page_313), [316](cml25.htm#page_316.md),
+[338](cml26.htm#page_338), [381](cml28.htm#page_381.md),
+[383](cml28.htm#page_383), [386](cml28.htm#page_386.md); possibly borrowed
+from the Gaels, [270](cml20.htm#page_270.md); becomes the "King Leir" of
+Geoffrey of Monmouth, [381](cml28.htm#page_381.md); and the "King Lear" of
+Shakespeare, [270](cml20.htm#page_270), [381](cml28.htm#page_381.md);
+founds a family of saints, [386](cml28.htm#page_386.md); his tomb of temple
+at Leicester, [383](cml28.htm#page_383.md).
 
-Llyr-cestre, [270](cml20.htm#page_270), [283](cml21.htm#page_283).
+Llyr-cestre, [270](cml20.htm#page_270), [283](cml21.htm#page_283.md).
 
-*Llys Dôn*, [252](cml20.htm#page_252), [317](cml25.htm#page_317).
+*Llys Dôn*, [252](cml20.htm#page_252), [317](cml25.htm#page_317.md).
 
 <span id="page_438">p. 438</span>
 
-Llywarch Hen, a sixth-century British poet, [11](cml06.htm#page_11).
+Llywarch Hen, a sixth-century British poet, [11](cml06.htm#page_11.md).
 
 Loch, a warrior slain by Cuchulainn,
-[169](cml16.htm#page_169)-[170](cml16.htm#page_170).
+[169](cml16.htm#page_169)-[170](cml16.htm#page_170.md).
 
-Lochlann (Lochlin), [97](cml12.htm#page_97), [205](cml18.htm#page_205),
-[372](cml28.htm#page_372); Lochlannoch, the, [205](cml18.htm#page_205),
-[211](cml18.htm#page_211).
+Lochlann (Lochlin), [97](cml12.htm#page_97), [205](cml18.htm#page_205.md),
+[372](cml28.htm#page_372); Lochlannoch, the, [205](cml18.htm#page_205.md),
+[211](cml18.htm#page_211.md).
 
-London, [294](cml22.htm#page_294), [296](cml22.htm#page_296),
-[376](cml28.htm#page_376), [377](cml28.htm#page_377).
+London, [294](cml22.htm#page_294), [296](cml22.htm#page_296.md),
+[376](cml28.htm#page_376), [377](cml28.htm#page_377.md).
 
-Londres, [376](cml28.htm#page_376).
+Londres, [376](cml28.htm#page_376.md).
 
-Lot or Loth, king of Orkney, [359](cml27.htm#page_359),
-[364](cml27.htm#page_364), [375](cml28.htm#page_375).
+Lot or Loth, king of Orkney, [359](cml27.htm#page_359.md),
+[364](cml27.htm#page_364), [375](cml28.htm#page_375.md).
 
-Loucetius, a war-god worshipped in Britain, [275](cml20.htm#page_275).
+Loucetius, a war-god worshipped in Britain, [275](cml20.htm#page_275.md).
 
 *Lough Corrib*, its Shores and Islands, Sir William Wilde's,
-[76](cml10.htm#page_76).
+[76](cml10.htm#page_76.md).
 
-Lough Gur, [246](cml19.htm#page_246).
+Lough Gur, [246](cml19.htm#page_246.md).
 
-Lucan, the Roman poet, [52](cml09.htm#page_52).
+Lucan, the Roman poet, [52](cml09.htm#page_52.md).
 
 Luchtainé, the carpenter of the Tuatha Dé Danann,
-[61](cml09.htm#page_61), [84](cml11.htm#page_84),
-[86](cml11.htm#page_86), [115](cml13.htm#page_115)[9](cml06.htm#page_9).
+[61](cml09.htm#page_61), [84](cml11.htm#page_84.md),
+[86](cml11.htm#page_86), [115](cml13.htm#page_115)[9](cml06.htm#page_9.md).
 
-Lud, king of Britain, [5](cml05.htm#page_5), [7](cml05.htm#page_7),
-[376](cml28.htm#page_376)-[381](cml28.htm#page_381).
+Lud, king of Britain, [5](cml05.htm#page_5), [7](cml05.htm#page_7.md),
+[376](cml28.htm#page_376)-[381](cml28.htm#page_381.md).
 
-Ludesgata, Ludgate, [5](cml05.htm#page_5), [254](cml20.htm#page_254),
-[376](cml28.htm#page_376).
+Ludesgata, Ludgate, [5](cml05.htm#page_5), [254](cml20.htm#page_254.md),
+[376](cml28.htm#page_376.md).
 
-Lugaid, son of Curoi, [179](cml16.htm#page_179),
-[182](cml16.htm#page_182), [183](cml16.htm#page_183).
+Lugaid, son of Curoi, [179](cml16.htm#page_179.md),
+[182](cml16.htm#page_182), [183](cml16.htm#page_183.md).
 
 Lugh Lamhfada, the Gaelic sun-god,
-[62](cml09.htm#page_62)-[63](cml09.htm#page_63),
-[84](cml11.htm#page_84)-[90](cml12.htm#page_90),
-[93](cml12.htm#page_93)-[97](cml12.htm#page_97),
-[103](cml12.htm#page_103), [105](cml12.htm#page_105),
-[106](cml12.htm#page_106),
-[111](cml13.htm#page_111)-[113](cml13.htm#page_113),
-[115](cml13.htm#page_115)-[117](cml13.htm#page_117),
-[136](cml15.htm#page_136), [139](cml15.htm#page_139),
-[156](cml16.htm#page_156), [157](cml16.htm#page_157),
-[160](cml16.htm#page_160), [170](cml16.htm#page_170),
-[201](cml18.htm#page_201), [230](cml19.htm#page_230),
-[233](cml19.htm#page_233),
-[238](cml19.htm#page_238)-[240](cml19.htm#page_240),
-[262](cml20.htm#page_262), [276](cml20.htm#page_276),
-[325](cml25.htm#page_325), [339](cml26.htm#page_339),
-[344](cml26.htm#page_344), [345](cml26.htm#page_345),
-[370](cml27.htm#page_370), [371](cml28.htm#page_371); his spear,
-[63](cml09.htm#page_63), [71](cml10.htm#page_71),
-[97](cml12.htm#page_97); his hound, [63](cml09.htm#page_63),
-[97](cml12.htm#page_97); his rod-sling and chain,
-[62](cml09.htm#page_62); his first appearance at Tara,
-[84](cml11.htm#page_84); gains the title of Ioldanach,
-[85](cml11.htm#page_85); avenges his father's murder upon the sons of
-Tuirenn, [94](cml12.htm#page_94)-[106](cml12.htm#page_106); leads the
-Tuatha Dé Danann against the Fomors, [111](cml13.htm#page_111);
-prophecies to Conn the Hundred Fighter, [201](cml18.htm#page_201).
+[62](cml09.htm#page_62)-[63](cml09.htm#page_63.md),
+[84](cml11.htm#page_84)-[90](cml12.htm#page_90.md),
+[93](cml12.htm#page_93)-[97](cml12.htm#page_97.md),
+[103](cml12.htm#page_103), [105](cml12.htm#page_105.md),
+[106](cml12.htm#page_106.md),
+[111](cml13.htm#page_111)-[113](cml13.htm#page_113.md),
+[115](cml13.htm#page_115)-[117](cml13.htm#page_117.md),
+[136](cml15.htm#page_136), [139](cml15.htm#page_139.md),
+[156](cml16.htm#page_156), [157](cml16.htm#page_157.md),
+[160](cml16.htm#page_160), [170](cml16.htm#page_170.md),
+[201](cml18.htm#page_201), [230](cml19.htm#page_230.md),
+[233](cml19.htm#page_233.md),
+[238](cml19.htm#page_238)-[240](cml19.htm#page_240.md),
+[262](cml20.htm#page_262), [276](cml20.htm#page_276.md),
+[325](cml25.htm#page_325), [339](cml26.htm#page_339.md),
+[344](cml26.htm#page_344), [345](cml26.htm#page_345.md),
+[370](cml27.htm#page_370), [371](cml28.htm#page_371.md); his spear,
+[63](cml09.htm#page_63), [71](cml10.htm#page_71.md),
+[97](cml12.htm#page_97); his hound, [63](cml09.htm#page_63.md),
+[97](cml12.htm#page_97.md); his rod-sling and chain,
+[62](cml09.htm#page_62.md); his first appearance at Tara,
+[84](cml11.htm#page_84.md); gains the title of Ioldanach,
+[85](cml11.htm#page_85.md); avenges his father's murder upon the sons of
+Tuirenn, [94](cml12.htm#page_94)-[106](cml12.htm#page_106.md); leads the
+Tuatha Dé Danann against the Fomors, [111](cml13.htm#page_111.md);
+prophecies to Conn the Hundred Fighter, [201](cml18.htm#page_201.md).
 
-*Lugnassad*, "Lugh's Commemoration", [277](cml20.htm#page_277),
-[409](cml29.htm#page_409).
+*Lugnassad*, "Lugh's Commemoration", [277](cml20.htm#page_277.md),
+[409](cml29.htm#page_409.md).
 
-*Lugudunum*, "town of Lugus", [277](cml20.htm#page_277),
-[409](cml29.htm#page_409).
+*Lugudunum*, "town of Lugus", [277](cml20.htm#page_277.md),
+[409](cml29.htm#page_409.md).
 
-Lugus, the Gaulish sun-god, [42](cml08.htm#page_42),
-[276](cml20.htm#page_276), [409](cml29.htm#page_409).
+Lugus, the Gaulish sun-god, [42](cml08.htm#page_42.md),
+[276](cml20.htm#page_276), [409](cml29.htm#page_409.md).
 
-Lundy Island, [272](cml20.htm#page_272), [322](cml25.htm#page_322).
+Lundy Island, [272](cml20.htm#page_272), [322](cml25.htm#page_322.md).
 
-Lydney, temple of Nodens at, [254](cml20.htm#page_254); monograph upon
-it, [254](cml20.htm#page_254).
+Lydney, temple of Nodens at, [254](cml20.htm#page_254.md); monograph upon
+it, [254](cml20.htm#page_254.md).
 
-Lyons, [277](cml20.htm#page_277), [409](cml29.htm#page_409).
+Lyons, [277](cml20.htm#page_277), [409](cml29.htm#page_409.md).
 
  
 
-Mab, Queen, [246](cml19.htm#page_246).
+Mab, Queen, [246](cml19.htm#page_246.md).
 
-Mabinogi, the Four Branches of the, [14](cml06.htm#page_14),
-[15](cml06.htm#page_15), [355](cml27.htm#page_355).
+Mabinogi, the Four Branches of the, [14](cml06.htm#page_14.md),
+[15](cml06.htm#page_15), [355](cml27.htm#page_355.md).
 
-Mabinogion, [12](cml06.htm#page_12), [14](cml06.htm#page_14),
-[16](cml06.htm#page_16), [356](cml27.htm#page_356),
-[372](cml28.htm#page_372), [377](cml28.htm#page_377),
-[403](cml29.htm#page_403), [407](cml29.htm#page_407). See also Guest,
+Mabinogion, [12](cml06.htm#page_12), [14](cml06.htm#page_14.md),
+[16](cml06.htm#page_16), [356](cml27.htm#page_356.md),
+[372](cml28.htm#page_372), [377](cml28.htm#page_377.md),
+[403](cml29.htm#page_403), [407](cml29.htm#page_407.md). See also Guest,
 Lady Charlotte.
 
-Mabon, a British sun-god, [276](cml20.htm#page_276),
-[328](cml25.htm#page_328), [330](cml25.htm#page_330),
-[335](cml25.htm#page_335), [338](cml26.htm#page_338),
-[347](cml26.htm#page_347),
-[349](cml26.htm#page_349)-[352](cml26.htm#page_352),
-[387](cml28.htm#page_387).
+Mabon, a British sun-god, [276](cml20.htm#page_276.md),
+[328](cml25.htm#page_328), [330](cml25.htm#page_330.md),
+[335](cml25.htm#page_335), [338](cml26.htm#page_338.md),
+[347](cml26.htm#page_347.md),
+[349](cml26.htm#page_349)-[352](cml26.htm#page_352.md),
+[387](cml28.htm#page_387.md).
 
-Macaulay, [22](cml07.htm#page_22).
+Macaulay, [22](cml07.htm#page_22.md).
 
-Mac Cecht, a king of the Tuatha Dé Danann, [122](cml14.htm#page_122),
-[125](cml14.htm#page_125), [126](cml14.htm#page_126),
-[130](cml14.htm#page_130).
+Mac Cecht, a king of the Tuatha Dé Danann, [122](cml14.htm#page_122.md),
+[125](cml14.htm#page_125), [126](cml14.htm#page_126.md),
+[130](cml14.htm#page_130.md).
 
-Mac Cuill, a king of the Tuatha Dé Danann, [122](cml14.htm#page_122),
-[125](cml14.htm#page_125), [126](cml14.htm#page_126),
-[130](cml14.htm#page_130).
+Mac Cuill, a king of the Tuatha Dé Danann, [122](cml14.htm#page_122.md),
+[125](cml14.htm#page_125), [126](cml14.htm#page_126.md),
+[130](cml14.htm#page_130.md).
 
-Mac Gee, Thomas D'Arcy, [232](cml19.htm#page_232).
+Mac Gee, Thomas D'Arcy, [232](cml19.htm#page_232.md).
 
-Mac Greiné, a king of the Tuatha Dé Danann, [122](cml14.htm#page_122),
-[125](cml14.htm#page_125), [126](cml14.htm#page_126),
-[130](cml14.htm#page_130).
+Mac Greiné, a king of the Tuatha Dé Danann, [122](cml14.htm#page_122.md),
+[125](cml14.htm#page_125), [126](cml14.htm#page_126.md),
+[130](cml14.htm#page_130.md).
 
-Mac Kineely, [238](cml19.htm#page_238)-[239](cml19.htm#page_239).
+Mac Kineely, [238](cml19.htm#page_238)-[239](cml19.htm#page_239.md).
 
-Mac Moineanta, a king of the Irish fairies, [242](cml19.htm#page_242).
+Mac Moineanta, a king of the Irish fairies, [242](cml19.htm#page_242.md).
 
-Mac Nia, an old Irish poet, [138](cml15.htm#page_138).
+Mac Nia, an old Irish poet, [138](cml15.htm#page_138.md).
 
-*Mac Oc*, "Son of the Young", a title of Angus, [56](cml09.htm#page_56),
-[139](cml15.htm#page_139).
+*Mac Oc*, "Son of the Young", a title of Angus, [56](cml09.htm#page_56.md),
+[139](cml15.htm#page_139.md).
 
-[MacPherson's](errata.htm#11) *Ossian*, [203](cml18.htm#page_203).
+[MacPherson's](errata.htm#11) *Ossian*, [203](cml18.htm#page_203.md).
 
-Mac Samthainn, [238](cml19.htm#page_238).
+Mac Samthainn, [238](cml19.htm#page_238.md).
 
-Macha, a war-goddess of the Gaels, [52](cml09.htm#page_52),
-[72](cml10.htm#page_72), [112](cml13.htm#page_112); meaning of her name,
-[52](cml09.htm#page_52); "Macha's acorn-crop", [53](cml09.htm#page_53);
-is killed by Balor, [112](cml13.htm#page_112).
+Macha, a war-goddess of the Gaels, [52](cml09.htm#page_52.md),
+[72](cml10.htm#page_72), [112](cml13.htm#page_112.md); meaning of her name,
+[52](cml09.htm#page_52); "Macha's acorn-crop", [53](cml09.htm#page_53.md);
+is killed by Balor, [112](cml13.htm#page_112.md).
 
-Macleod, Miss Fiona, [241](cml19.htm#page_241).
+Macleod, Miss Fiona, [241](cml19.htm#page_241.md).
 
-Maelmuiri, scribe of the Book of the Dun Cow, [10](cml06.htm#page_10).
+Maelmuiri, scribe of the Book of the Dun Cow, [10](cml06.htm#page_10.md).
 
-Maelon, [388](cml28.htm#page_388).
+Maelon, [388](cml28.htm#page_388.md).
 
-Maenor Alun, [310](cml24.htm#page_310); Maenor Penarth
-[310](cml24.htm#page_310).
+Maenor Alun, [310](cml24.htm#page_310.md); Maenor Penarth
+[310](cml24.htm#page_310.md).
 
-Maen Tyriawc, the grave of Pryderi, [311](cml24.htm#page_311).
+Maen Tyriawc, the grave of Pryderi, [311](cml24.htm#page_311.md).
 
-Maglaunus, Duke of Albania, [382](cml28.htm#page_382),
-[383](cml28.htm#page_383).
+Maglaunus, Duke of Albania, [382](cml28.htm#page_382.md),
+[383](cml28.htm#page_383.md).
 
 *Mag Mell*, the "Happy Plain", a name for the Celtic Elysium,
-[133](cml15.htm#page_133), [135](cml15.htm#page_135).
+[133](cml15.htm#page_133), [135](cml15.htm#page_135.md).
 
 *Mag Mon*, the "Plain of Sports", a name for the Celtic Elysium,
-[134](cml15.htm#page_134).
+[134](cml15.htm#page_134.md).
 
 Mag Slecht, human sacrifices at,
-[38](cml08.htm#page_38)-[40](cml08.htm#page_40),
-[132](cml15.htm#page_132), [154](cml16.htm#page_154).
+[38](cml08.htm#page_38)-[40](cml08.htm#page_40.md),
+[132](cml15.htm#page_132), [154](cml16.htm#page_154.md).
 
 Mag Tuireadh, see Moytura.
 
-Magog, [229](cml19.htm#page_229).
+Magog, [229](cml19.htm#page_229.md).
 
-Malory, Sir Thomas, [323](cml25.htm#page_323),
-[328](cml25.htm#page_328), [330](cml25.htm#page_330),
-[333](cml25.htm#page_333),
-[354](cml27.htm#page_354)-[357](cml27.htm#page_357),
-[359](cml27.htm#page_359)-[364](cml27.htm#page_364),
-[367](cml27.htm#page_367), [368](cml27.htm#page_368).
+Malory, Sir Thomas, [323](cml25.htm#page_323.md),
+[328](cml25.htm#page_328), [330](cml25.htm#page_330.md),
+[333](cml25.htm#page_333.md),
+[354](cml27.htm#page_354)-[357](cml27.htm#page_357.md),
+[359](cml27.htm#page_359)-[364](cml27.htm#page_364.md),
+[367](cml27.htm#page_367), [368](cml27.htm#page_368.md).
 
-Malvasius, king of Iceland, [376](cml28.htm#page_376).
+Malvasius, king of Iceland, [376](cml28.htm#page_376.md).
 
-Man, Isle of, [23](cml07.htm#page_23), [24](cml07.htm#page_24),
-[57](cml09.htm#page_57), [60](cml09.htm#page_60),
-[175](cml16.htm#page_175), [241](cml19.htm#page_241),
-[261](cml20.htm#page_261), [272](cml20.htm#page_272),
-[273](cml20.htm#page_273), [408](cml29.htm#page_408),
-[409](cml29.htm#page_409).
+Man, Isle of, [23](cml07.htm#page_23), [24](cml07.htm#page_24.md),
+[57](cml09.htm#page_57), [60](cml09.htm#page_60.md),
+[175](cml16.htm#page_175), [241](cml19.htm#page_241.md),
+[261](cml20.htm#page_261), [272](cml20.htm#page_272.md),
+[273](cml20.htm#page_273), [408](cml29.htm#page_408.md),
+[409](cml29.htm#page_409.md).
 
 Manannán son of Lêr, a Gaelic god,
-[60](cml09.htm#page_60)-[61](cml09.htm#page_61),
-[89](cml12.htm#page_89), [98](cml12.htm#page_98),
-[129](cml14.htm#page_129), [134](cml15.htm#page_134),
-[136](cml15.htm#page_136), [140](cml15.htm#page_140),
-[143](cml15.htm#page_143), [157](cml16.htm#page_157),
-[186](cml17.htm#page_186), [188](cml17.htm#page_188),
-[199](cml17.htm#page_199), [202](cml18.htm#page_202),
-[203](cml18.htm#page_203), [205](cml18.htm#page_205),
-[217](cml18.htm#page_217), [224](cml18.htm#page_224),
-[233](cml19.htm#page_233),
-[235](cml19.htm#page_235)-[237](cml19.htm#page_237),
-[239](cml19.htm#page_239),
-[240](cml19.htm#page_240)-[242](cml19.htm#page_242),
-[270](cml20.htm#page_270), [371](cml28.htm#page_371),
-[405](cml29.htm#page_405); his armour, [60](cml09.htm#page_60),
-[88](cml11.htm#page_88); weapons, [60](cml09.htm#page_60),
-[217](cml18.htm#page_217); horse, [60](cml09.htm#page_60),
-[89](cml12.htm#page_89), [98](cml12.htm#page_98); mantle,
-[61](cml09.htm#page_61), [129](cml14.htm#page_129),
-[188](cml17.htm#page_188), [217](cml18.htm#page_217),
-[221](cml18.htm#page_221); pigs, [61](cml09.htm#page_61),
-[98](cml12.htm#page_98); his "Feast of Age", [61](cml09.htm#page_61),
-[143](cml15.htm#page_143); lord of the Celtic Paradise,
-[134](cml15.htm#page_134); his wife Fand in
+[60](cml09.htm#page_60)-[61](cml09.htm#page_61.md),
+[89](cml12.htm#page_89), [98](cml12.htm#page_98.md),
+[129](cml14.htm#page_129), [134](cml15.htm#page_134.md),
+[136](cml15.htm#page_136), [140](cml15.htm#page_140.md),
+[143](cml15.htm#page_143), [157](cml16.htm#page_157.md),
+[186](cml17.htm#page_186), [188](cml17.htm#page_188.md),
+[199](cml17.htm#page_199), [202](cml18.htm#page_202.md),
+[203](cml18.htm#page_203), [205](cml18.htm#page_205.md),
+[217](cml18.htm#page_217), [224](cml18.htm#page_224.md),
+[233](cml19.htm#page_233.md),
+[235](cml19.htm#page_235)-[237](cml19.htm#page_237.md),
+[239](cml19.htm#page_239.md),
+[240](cml19.htm#page_240)-[242](cml19.htm#page_242.md),
+[270](cml20.htm#page_270), [371](cml28.htm#page_371.md),
+[405](cml29.htm#page_405); his armour, [60](cml09.htm#page_60.md),
+[88](cml11.htm#page_88); weapons, [60](cml09.htm#page_60.md),
+[217](cml18.htm#page_217); horse, [60](cml09.htm#page_60.md),
+[89](cml12.htm#page_89), [98](cml12.htm#page_98.md); mantle,
+[61](cml09.htm#page_61), [129](cml14.htm#page_129.md),
+[188](cml17.htm#page_188), [217](cml18.htm#page_217.md),
+[221](cml18.htm#page_221); pigs, [61](cml09.htm#page_61.md),
+[98](cml12.htm#page_98); his "Feast of Age", [61](cml09.htm#page_61.md),
+[143](cml15.htm#page_143.md); lord of the Celtic Paradise,
+[134](cml15.htm#page_134.md); his wife Fand in
 
 <span id="page_439">p. 439</span>
 
 love with Cuchulainn,
-[186](cml17.htm#page_186)-[188](cml17.htm#page_188); his friendship with
-Cormac, king of Ireland, [203](cml18.htm#page_203); his message to Saint
-Columba, [240](cml19.htm#page_240)-[241](cml19.htm#page_241); his
-connection with the Isle of Man, [60](cml09.htm#page_60),
-[241](cml19.htm#page_241)-[242](cml19.htm#page_242).
+[186](cml17.htm#page_186)-[188](cml17.htm#page_188.md); his friendship with
+Cormac, king of Ireland, [203](cml18.htm#page_203.md); his message to Saint
+Columba, [240](cml19.htm#page_240)-[241](cml19.htm#page_241.md); his
+connection with the Isle of Man, [60](cml09.htm#page_60.md),
+[241](cml19.htm#page_241)-[242](cml19.htm#page_242.md).
 
-Manawyddan son of Llyr, his British analogue, [270](cml20.htm#page_270),
-[271](cml20.htm#page_271), [273](cml20.htm#page_273),
-[289](cml22.htm#page_289), [290](cml22.htm#page_290),
-[293](cml22.htm#page_293), [294](cml22.htm#page_294),
-[296](cml22.htm#page_296),
-[298](cml23.htm#page_298)-[304](cml23.htm#page_304),
-[313](cml25.htm#page_313), [315](cml25.htm#page_315),
-[317](cml25.htm#page_317), [321](cml25.htm#page_321),
-[338](cml26.htm#page_338), [352](cml26.htm#page_352),
-[373](cml28.htm#page_373); his attributes,
-[270](cml20.htm#page_270)-[271](cml20.htm#page_271)[1](cml05.htm#page_1)
+Manawyddan son of Llyr, his British analogue, [270](cml20.htm#page_270.md),
+[271](cml20.htm#page_271), [273](cml20.htm#page_273.md),
+[289](cml22.htm#page_289), [290](cml22.htm#page_290.md),
+[293](cml22.htm#page_293), [294](cml22.htm#page_294.md),
+[296](cml22.htm#page_296.md),
+[298](cml23.htm#page_298)-[304](cml23.htm#page_304.md),
+[313](cml25.htm#page_313), [315](cml25.htm#page_315.md),
+[317](cml25.htm#page_317), [321](cml25.htm#page_321.md),
+[338](cml26.htm#page_338), [352](cml26.htm#page_352.md),
+[373](cml28.htm#page_373.md); his attributes,
+[270](cml20.htm#page_270)-[271](cml20.htm#page_271)[1](cml05.htm#page_1.md)
 accompanies Brân to Ireland,
-[289](cml22.htm#page_289)-[294](cml22.htm#page_294); marries Rhiannon,
-[298](cml23.htm#page_298); defeats the magic of Llwyd, son of Kilcoed,
-[301](cml23.htm#page_301)-[304](cml23.htm#page_304); constructs the
-bone-prison of Oeth and Anoeth, [270](cml20.htm#page_270); helps Arthur
-in the chase of Twrch Trwyth, [352](cml26.htm#page_352).
+[289](cml22.htm#page_289)-[294](cml22.htm#page_294.md); marries Rhiannon,
+[298](cml23.htm#page_298.md); defeats the magic of Llwyd, son of Kilcoed,
+[301](cml23.htm#page_301)-[304](cml23.htm#page_304.md); constructs the
+bone-prison of Oeth and Anoeth, [270](cml20.htm#page_270.md); helps Arthur
+in the chase of Twrch Trwyth, [352](cml26.htm#page_352.md).
 
-Maponos, a Gallo-British sun-god, [276](cml20.htm#page_276),
-[328](cml25.htm#page_328).
+Maponos, a Gallo-British sun-god, [276](cml20.htm#page_276.md),
+[328](cml25.htm#page_328.md).
 
-March, a British god of the Under World, [316](cml25.htm#page_316),
-[327](cml25.htm#page_327), [329](cml25.htm#page_329),
-[335](cml25.htm#page_335), [338](cml26.htm#page_338).
+March, a British god of the Under World, [316](cml25.htm#page_316.md),
+[327](cml25.htm#page_327), [329](cml25.htm#page_329.md),
+[335](cml25.htm#page_335), [338](cml26.htm#page_338.md).
 
-Mark, King, [327](cml25.htm#page_327), [328](cml25.htm#page_328).
+Mark, King, [327](cml25.htm#page_327), [328](cml25.htm#page_328.md).
 
-Mars, [51](cml09.htm#page_51), [204](cml18.htm#page_204).
+Mars, [51](cml09.htm#page_51), [204](cml18.htm#page_204.md).
 
 "Master of All Arts", see *Ioldanach*.
 
-Mâth, a British god, brother to Dôn, [260](cml20.htm#page_260),
-[265](cml20.htm#page_265), [266](cml20.htm#page_266),
-[268](cml20.htm#page_268), [308](cml24.htm#page_308),
-[310](cml24.htm#page_310), [322](cml25.htm#page_322),
-[329](cml25.htm#page_329), [360](cml27.htm#page_360),
-[361](cml27.htm#page_361), [364](cml27.htm#page_364); meaning of his
-name, [260](cml20.htm#page_260); teaches magic to Gwydion,
-[260](cml20.htm#page_260); rules from Caer Dathyl,
-[308](cml24.htm#page_308); compared with Merlin,
-[360](cml27.htm#page_360), [361](cml27.htm#page_361),
-[362](cml27.htm#page_362).
+Mâth, a British god, brother to Dôn, [260](cml20.htm#page_260.md),
+[265](cml20.htm#page_265), [266](cml20.htm#page_266.md),
+[268](cml20.htm#page_268), [308](cml24.htm#page_308.md),
+[310](cml24.htm#page_310), [322](cml25.htm#page_322.md),
+[329](cml25.htm#page_329), [360](cml27.htm#page_360.md),
+[361](cml27.htm#page_361), [364](cml27.htm#page_364.md); meaning of his
+name, [260](cml20.htm#page_260.md); teaches magic to Gwydion,
+[260](cml20.htm#page_260.md); rules from Caer Dathyl,
+[308](cml24.htm#page_308.md); compared with Merlin,
+[360](cml27.htm#page_360), [361](cml27.htm#page_361.md),
+[362](cml27.htm#page_362.md).
 
 Matholwch, king of Ireland,
-[289](cml22.htm#page_289)-[293](cml22.htm#page_293).
+[289](cml22.htm#page_289)-[293](cml22.htm#page_293.md).
 
-Mâthonwy, father of Mâth, [260](cml20.htm#page_260),
-[308](cml24.htm#page_308).
+Mâthonwy, father of Mâth, [260](cml20.htm#page_260.md),
+[308](cml24.htm#page_308.md).
 
-*Matière de Bretagne*, the, [363](cml27.htm#page_363),
-[365](cml27.htm#page_365).
+*Matière de Bretagne*, the, [363](cml27.htm#page_363.md),
+[365](cml27.htm#page_365.md).
 
-Matthew Arnold, [3](cml05.htm#page_3), [16](cml06.htm#page_16),
-[356](cml27.htm#page_356).
+Matthew Arnold, [3](cml05.htm#page_3), [16](cml06.htm#page_16.md),
+[356](cml27.htm#page_356.md).
 
-May Day, [123](cml14.htm#page_123), [259](cml20.htm#page_259),
-[287](cml21.htm#page_287), [407](cml29.htm#page_407).
+May Day, [123](cml14.htm#page_123), [259](cml20.htm#page_259.md),
+[287](cml21.htm#page_287), [407](cml29.htm#page_407.md).
 
-May Eve, [377](cml28.htm#page_377), [407](cml29.htm#page_407).
+May Eve, [377](cml28.htm#page_377), [407](cml29.htm#page_407.md).
 
-Maypole, [408](cml29.htm#page_408).
+Maypole, [408](cml29.htm#page_408.md).
 
-Meadha, the *sídh* of, [136](cml15.htm#page_136),
-[212](cml18.htm#page_212), [243](cml19.htm#page_243).
+Meadha, the *sídh* of, [136](cml15.htm#page_136.md),
+[212](cml18.htm#page_212), [243](cml19.htm#page_243.md).
 
-Meath, [179](cml16.htm#page_179).
+Meath, [179](cml16.htm#page_179.md).
 
-Medb, queen of Connaught, [147](cml15.htm#page_147),
-[154](cml16.htm#page_154),
-[164](cml16.htm#page_164)-[168](cml16.htm#page_168),
-[170](cml16.htm#page_170), [171](cml16.htm#page_171),
-[172](cml16.htm#page_172), [175](cml16.htm#page_175),
-[178](cml16.htm#page_178), [179](cml16.htm#page_179),
-[183](cml16.htm#page_183), [200](cml17.htm#page_200),
-[246](cml19.htm#page_246); makes war on Ulster to get the Brown Bull of
-Cualgne, [165](cml16.htm#page_165)-[166](cml16.htm#page_166); becomes a
-fairy queen, [246](cml19.htm#page_246); is perhaps the original of
-"Queen Mab", [246](cml19.htm#page_246).
+Medb, queen of Connaught, [147](cml15.htm#page_147.md),
+[154](cml16.htm#page_154.md),
+[164](cml16.htm#page_164)-[168](cml16.htm#page_168.md),
+[170](cml16.htm#page_170), [171](cml16.htm#page_171.md),
+[172](cml16.htm#page_172), [175](cml16.htm#page_175.md),
+[178](cml16.htm#page_178), [179](cml16.htm#page_179.md),
+[183](cml16.htm#page_183), [200](cml17.htm#page_200.md),
+[246](cml19.htm#page_246.md); makes war on Ulster to get the Brown Bull of
+Cualgne, [165](cml16.htm#page_165)-[166](cml16.htm#page_166.md); becomes a
+fairy queen, [246](cml19.htm#page_246.md); is perhaps the original of
+"Queen Mab", [246](cml19.htm#page_246.md).
 
-Mediterranean race, [19](cml07.htm#page_19); *Mediterranean Race, The*,
-Prof. Sergi's, [20](cml07.htm#page_20).
+Mediterranean race, [19](cml07.htm#page_19.md); *Mediterranean Race, The*,
+Prof. Sergi's, [20](cml07.htm#page_20.md).
 
-Medrawt, [315](cml25.htm#page_315), [323](cml25.htm#page_323),
-[332](cml25.htm#page_332), [333](cml25.htm#page_333),
-[334](cml25.htm#page_334), [337](cml26.htm#page_337),
-[360](cml27.htm#page_360), [364](cml27.htm#page_364)
+Medrawt, [315](cml25.htm#page_315), [323](cml25.htm#page_323.md),
+[332](cml25.htm#page_332), [333](cml25.htm#page_333.md),
+[334](cml25.htm#page_334), [337](cml26.htm#page_337.md),
+[360](cml27.htm#page_360), [364](cml27.htm#page_364.md)
 
-Meleaus, or Melias, de Lile, Sir, [359](cml27.htm#page_359).
+Meleaus, or Melias, de Lile, Sir, [359](cml27.htm#page_359.md).
 
-Melga, king of the Picts, [375](cml28.htm#page_375).
+Melga, king of the Picts, [375](cml28.htm#page_375.md).
 
-Meliagaunce, or Meliagraunce, Sir, [359](cml27.htm#page_359),
-[365](cml27.htm#page_365), [407](cml29.htm#page_407).
+Meliagaunce, or Meliagraunce, Sir, [359](cml27.htm#page_359.md),
+[365](cml27.htm#page_365), [407](cml29.htm#page_407.md).
 
-Melwas, [329](cml25.htm#page_329), [332](cml25.htm#page_332),
-[359](cml27.htm#page_359), [365](cml27.htm#page_365),
-[407](cml29.htm#page_407).
+Melwas, [329](cml25.htm#page_329), [332](cml25.htm#page_332.md),
+[359](cml27.htm#page_359), [365](cml27.htm#page_365.md),
+[407](cml29.htm#page_407.md).
 
-Menai Straits, the, [262](cml20.htm#page_262),
-[264](cml20.htm#page_264).
+Menai Straits, the, [262](cml20.htm#page_262.md),
+[264](cml20.htm#page_264.md).
 
-Menw, [343](cml26.htm#page_343), [344](cml26.htm#page_344),
-[35](cml08.htm#page_35)x.
+Menw, [343](cml26.htm#page_343), [344](cml26.htm#page_344.md),
+[35](cml08.htm#page_35.md)x.
 
-Mercurius Artaius, a Gallo-Roman god, .[274](cml20.htm#page_274),
-[313](cml25.htm#page_313).
+Mercurius Artaius, a Gallo-Roman god, .[274](cml20.htm#page_274.md),
+[313](cml25.htm#page_313.md).
 
-Mercury, [274](cml20.htm#page_274), [313](cml25.htm#page_313).
+Mercury, [274](cml20.htm#page_274), [313](cml25.htm#page_313.md).
 
-Merlin, [324](cml25.htm#page_324), [325](cml25.htm#page_325),
-[339](cml26.htm#page_339), [360](cml27.htm#page_360),
-[361](cml27.htm#page_361), [364](cml27.htm#page_364). See Myrddin.
+Merlin, [324](cml25.htm#page_324), [325](cml25.htm#page_325.md),
+[339](cml26.htm#page_339), [360](cml27.htm#page_360.md),
+[361](cml27.htm#page_361), [364](cml27.htm#page_364.md). See Myrddin.
 
-Mesgegra, king of Leinster, [147](cml15.htm#page_147),
-[154](cml16.htm#page_154).
+Mesgegra, king of Leinster, [147](cml15.htm#page_147.md),
+[154](cml16.htm#page_154.md).
 
-Meyer, Dr. Kuno, [38](cml08.htm#page_38), [134](cml15.htm#page_134),
-[154](cml16.htm#page_154), [184](cml17.htm#page_184),
-[190](cml17.htm#page_190).
+Meyer, Dr. Kuno, [38](cml08.htm#page_38), [134](cml15.htm#page_134.md),
+[154](cml16.htm#page_154), [184](cml17.htm#page_184.md),
+[190](cml17.htm#page_190.md).
 
-Miach, son of Diancecht, [62](cml09.htm#page_62),
-[80](cml11.htm#page_80)-[82](cml11.htm#page_82),
-[232](cml19.htm#page_232).
+Miach, son of Diancecht, [62](cml09.htm#page_62.md),
+[80](cml11.htm#page_80)-[82](cml11.htm#page_82.md),
+[232](cml19.htm#page_232.md).
 
-Midas, the British, [328](cml25.htm#page_328).
+Midas, the British, [328](cml25.htm#page_328.md).
 
-Mider, Gaelic god of the Under World, [56](cml09.htm#page_56),
-[57](cml09.htm#page_57), [117](cml13.htm#page_117),
-[136](cml15.htm#page_136), [140](cml15.htm#page_140),
-[142](cml15.htm#page_142),
-[147](cml15.htm#page_147)-[151](cml15.htm#page_151),
-[154](cml16.htm#page_154), [157](cml16.htm#page_157),
-[175](cml16.htm#page_175), [179](cml16.htm#page_179),
-[205](cml18.htm#page_205),
-[211](cml18.htm#page_211)-[213](cml18.htm#page_213),
-[224](cml18.htm#page_224), [243](cml19.htm#page_243),
-[331](cml25.htm#page_331)-[333](cml25.htm#page_333); rebels against Bodb
-the Red, [140](cml15.htm#page_140); gambles with Eochaid Airem for
-possession of Etain, [149](cml15.htm#page_149); is besieged in his
+Mider, Gaelic god of the Under World, [56](cml09.htm#page_56.md),
+[57](cml09.htm#page_57), [117](cml13.htm#page_117.md),
+[136](cml15.htm#page_136), [140](cml15.htm#page_140.md),
+[142](cml15.htm#page_142.md),
+[147](cml15.htm#page_147)-[151](cml15.htm#page_151.md),
+[154](cml16.htm#page_154), [157](cml16.htm#page_157.md),
+[175](cml16.htm#page_175), [179](cml16.htm#page_179.md),
+[205](cml18.htm#page_205.md),
+[211](cml18.htm#page_211)-[213](cml18.htm#page_213.md),
+[224](cml18.htm#page_224), [243](cml19.htm#page_243.md),
+[331](cml25.htm#page_331)-[333](cml25.htm#page_333.md); rebels against Bodb
+the Red, [140](cml15.htm#page_140.md); gambles with Eochaid Airem for
+possession of Etain, [149](cml15.htm#page_149.md); is besieged in his
 *sídh*, and helped by the Fenians,
-[211](cml18.htm#page_211)-[213](cml18.htm#page_213).
+[211](cml18.htm#page_211)-[213](cml18.htm#page_213.md).
 
-Midsummer Day, [75](cml10.htm#page_75), [406](cml29.htm#page_406),
-[407](cml29.htm#page_407).
+Midsummer Day, [75](cml10.htm#page_75), [406](cml29.htm#page_406.md),
+[407](cml29.htm#page_407.md).
 
-Midsummer Eve, [242](cml19.htm#page_242).
+Midsummer Eve, [242](cml19.htm#page_242.md).
 
-Milé, the ancestor of the Gaels, [122](cml14.htm#page_122),
-[123](cml14.htm#page_123), [126](cml14.htm#page_126),
-[129](cml14.htm#page_129), [130](cml14.htm#page_130),
-[132](cml15.htm#page_132), [146](cml15.htm#page_146),
-[153](cml16.htm#page_153).
+Milé, the ancestor of the Gaels, [122](cml14.htm#page_122.md),
+[123](cml14.htm#page_123), [126](cml14.htm#page_126.md),
+[129](cml14.htm#page_129), [130](cml14.htm#page_130.md),
+[132](cml15.htm#page_132), [146](cml15.htm#page_146.md),
+[153](cml16.htm#page_153.md).
 
-Milesians, the, [76](cml10.htm#page_76),
-[125](cml14.htm#page_125)-[127](cml14.htm#page_127),
-[129](cml14.htm#page_129), [145](cml15.htm#page_145),
-[153](cml16.htm#page_153), [229](cml19.htm#page_229),
-[230](cml19.htm#page_230), [243](cml19.htm#page_243).
+Milesians, the, [76](cml10.htm#page_76.md),
+[125](cml14.htm#page_125)-[127](cml14.htm#page_127.md),
+[129](cml14.htm#page_129), [145](cml15.htm#page_145.md),
+[153](cml16.htm#page_153), [229](cml19.htm#page_229.md),
+[230](cml19.htm#page_230), [243](cml19.htm#page_243.md).
 
-"Milky Way", the, [62](cml09.htm#page_62), [253](cml20.htm#page_253),
-[268](cml20.htm#page_268).
+"Milky Way", the, [62](cml09.htm#page_62), [253](cml20.htm#page_253.md),
+[268](cml20.htm#page_268.md).
 
-Minerva, [275](cml20.htm#page_275), [277](cml20.htm#page_277),
-[413](cml29.htm#page_413).
+Minerva, [275](cml20.htm#page_275), [277](cml20.htm#page_277.md),
+[413](cml29.htm#page_413.md).
 
-Minos, [153](cml16.htm#page_153).
+Minos, [153](cml16.htm#page_153.md).
 
-Miodhchaoin, [97](cml12.htm#page_97), [105](cml12.htm#page_105),
-[106](cml12.htm#page_106).
+Miodhchaoin, [97](cml12.htm#page_97), [105](cml12.htm#page_105.md),
+[106](cml12.htm#page_106.md).
 
-Mistletoe, [18](cml07.htm#page_18), [33](cml08.htm#page_33).
+Mistletoe, [18](cml07.htm#page_18), [33](cml08.htm#page_33.md).
 
 Mithras, a Persian sun-god worshipped at York,
-[275](cml20.htm#page_275).
+[275](cml20.htm#page_275.md).
 
-Mochdrev, [310](cml24.htm#page_310).
+Mochdrev, [310](cml24.htm#page_310.md).
 
-Mochnant, [310](cml24.htm#page_310).
+Mochnant, [310](cml24.htm#page_310.md).
 
-Modron, wife of Urien and mother of Mabon, [328](cml25.htm#page_328),
-[338](cml26.htm#page_338).
+Modron, wife of Urien and mother of Mabon, [328](cml25.htm#page_328.md),
+[338](cml26.htm#page_338.md).
 
 Mona, see Anglesey.
 
 Mongan, an Ulster prince, a reincarnation of Finn mac Coul,
-[37](cml08.htm#page_37).
+[37](cml08.htm#page_37.md).
 
 Monmouth, Geoffrey of. See Geoffrey.
 
-Morc, son of Dela, a king of the Fomors, [67](cml10.htm#page_67),
-[327](cml25.htm#page_327).
+Morc, son of Dela, a king of the Fomors, [67](cml10.htm#page_67.md),
+[327](cml25.htm#page_327.md).
 
-Mordred, Sir, [315](cml25.htm#page_315), [334](cml25.htm#page_334),
-[360](cml27.htm#page_360), [364](cml27.htm#page_364),
-[374](cml28.htm#page_374), [375](cml28.htm#page_375).
+Mordred, Sir, [315](cml25.htm#page_315), [334](cml25.htm#page_334.md),
+[360](cml27.htm#page_360), [364](cml27.htm#page_364.md),
+[374](cml28.htm#page_374), [375](cml28.htm#page_375.md).
 
-Morgawse, sister to Arthur, [323](cml25.htm#page_323).
+Morgawse, sister to Arthur, [323](cml25.htm#page_323.md).
 
-Morrígú, the, Gaelic goddess of war, [52](cml09.htm#page_52),
-[53](cml09.htm#page_53), [72](cml10.htm#page_72),
-[87](cml11.htm#page_87), [98](cml12.htm#page_98),
-[107](cml13.htm#page_107), [113](cml13.htm#page_113),
-[117](cml13.htm#page_117), [139](cml15.htm#page_139),
-[157](cml16.htm#page_157),
-[168](cml16.htm#page_168)-[170](cml16.htm#page_170),
-[323](cml25.htm#page_323); description of, [52](cml09.htm#page_52); her
-dealings with Cuchulainn on the Táin Bó [Chuailgné](errata.htm#12),
-[168](cml16.htm#page_168)-[170](cml16.htm#page_170).
+Morrígú, the, Gaelic goddess of war, [52](cml09.htm#page_52.md),
+[53](cml09.htm#page_53), [72](cml10.htm#page_72.md),
+[87](cml11.htm#page_87), [98](cml12.htm#page_98.md),
+[107](cml13.htm#page_107), [113](cml13.htm#page_113.md),
+[117](cml13.htm#page_117), [139](cml15.htm#page_139.md),
+[157](cml16.htm#page_157.md),
+[168](cml16.htm#page_168)-[170](cml16.htm#page_170.md),
+[323](cml25.htm#page_323); description of, [52](cml09.htm#page_52.md); her
+dealings with Cuchulainn on the Táin Bó [Chuailgné](errata.htm#12.md),
+[168](cml16.htm#page_168)-[170](cml16.htm#page_170.md).
 
 <span id="page_440">p. 440</span>
 
-Morte Darthur, Sir Thomas Malory's, [7](cml05.htm#page_7),
-[272](cml20.htm#page_272), [276](cml20.htm#page_276),
-[323](cml25.htm#page_323), [328](cml25.htm#page_328),
-[334](cml25.htm#page_334), [354](cml27.htm#page_354),
-[362](cml27.htm#page_362).
-[364](cml27.htm#page_364)-[368](cml27.htm#page_368),
-[372](cml28.htm#page_372), [407](cml29.htm#page_407).
+Morte Darthur, Sir Thomas Malory's, [7](cml05.htm#page_7.md),
+[272](cml20.htm#page_272), [276](cml20.htm#page_276.md),
+[323](cml25.htm#page_323), [328](cml25.htm#page_328.md),
+[334](cml25.htm#page_334), [354](cml27.htm#page_354.md),
+[362](cml27.htm#page_362.md).
+[364](cml27.htm#page_364)-[368](cml27.htm#page_368.md),
+[372](cml28.htm#page_372), [407](cml29.htm#page_407.md).
 
-"Mound, Lord of the", [41](cml08.htm#page_41),
-[403](cml29.htm#page_403).
+"Mound, Lord of the", [41](cml08.htm#page_41.md),
+[403](cml29.htm#page_403.md).
 
-Mountains of Ireland, the twelve chief, [87](cml11.htm#page_87).
+Mountains of Ireland, the twelve chief, [87](cml11.htm#page_87.md).
 
-Mourie, "Saint", [413](cml29.htm#page_413).
+Mourie, "Saint", [413](cml29.htm#page_413.md).
 
 Mouse, Manawyddan and the,
-[301](cml23.htm#page_301)-[304](cml23.htm#page_304).
+[301](cml23.htm#page_301)-[304](cml23.htm#page_304.md).
 
-Moyle, Sea of, [144](cml15.htm#page_144), [145](cml15.htm#page_145).
+Moyle, Sea of, [144](cml15.htm#page_144), [145](cml15.htm#page_145.md).
 
-Moytura, Northern, Battle of, [11](cml06.htm#page_11),
-[107](cml13.htm#page_107)-[117](cml13.htm#page_117),
-[157](cml16.htm#page_157), [407](cml29.htm#page_407); Southern, Battle
-of, [72](cml10.htm#page_72)-[77](cml10.htm#page_77),
-[114](cml13.htm#page_114).
+Moytura, Northern, Battle of, [11](cml06.htm#page_11.md),
+[107](cml13.htm#page_107)-[117](cml13.htm#page_117.md),
+[157](cml16.htm#page_157), [407](cml29.htm#page_407.md); Southern, Battle
+of, [72](cml10.htm#page_72)-[77](cml10.htm#page_77.md),
+[114](cml13.htm#page_114.md).
 
-Muirthemne, [90](cml12.htm#page_90), [93](cml12.htm#page_93),
-[166](cml16.htm#page_166), [181](cml16.htm#page_181).
+Muirthemne, [90](cml12.htm#page_90), [93](cml12.htm#page_93.md),
+[166](cml16.htm#page_166), [181](cml16.htm#page_181.md).
 
-Munster, [69](cml10.htm#page_69), [264](cml20.htm#page_264),
-[218](cml18.htm#page_218), [244](cml19.htm#page_244),
-[245](cml19.htm#page_245).
+Munster, [69](cml10.htm#page_69), [264](cml20.htm#page_264.md),
+[218](cml18.htm#page_218), [244](cml19.htm#page_244.md),
+[245](cml19.htm#page_245.md).
 
-Murias, a city of the Tuatha Dé Danann, [71](cml10.htm#page_71),
-[72](cml10.htm#page_72).
+Murias, a city of the Tuatha Dé Danann, [71](cml10.htm#page_71.md),
+[72](cml10.htm#page_72.md).
 
-Mur y Castell, Lieu's palace near Bala Lake, [265](cml20.htm#page_265),
-[268](cml20.htm#page_268).
+Mur y Castell, Lieu's palace near Bala Lake, [265](cml20.htm#page_265.md),
+[268](cml20.htm#page_268.md).
 
 Myrddin, a British Zeus,
-[323](cml25.htm#page_323)-[325](cml25.htm#page_325),
-[329](cml25.htm#page_329), [360](cml27.htm#page_360),
-[362](cml27.htm#page_362), [369](cml27.htm#page_369); gave its first
-name to Britain, [323](cml25.htm#page_323); his wife Elen,
-[323](cml25.htm#page_323); his town Carmarthen,
-[324](cml25.htm#page_324); appears in Geoffrey of Monmouth and in the
+[323](cml25.htm#page_323)-[325](cml25.htm#page_325.md),
+[329](cml25.htm#page_329), [360](cml27.htm#page_360.md),
+[362](cml27.htm#page_362), [369](cml27.htm#page_369.md); gave its first
+name to Britain, [323](cml25.htm#page_323.md); his wife Elen,
+[323](cml25.htm#page_323.md); his town Carmarthen,
+[324](cml25.htm#page_324.md); appears in Geoffrey of Monmouth and in the
 Morte Darthur as Merlin, *q.v.* 
 
-Myrddin, a sixth-century British bard, [11](cml06.htm#page_11).
+Myrddin, a sixth-century British bard, [11](cml06.htm#page_11.md).
 
-Mythology, importance of, [1](cml05.htm#page_1); Greek,
-[1](cml05.htm#page_1), [2](cml05.htm#page_2), [4](cml05.htm#page_4),
-[403](cml29.htm#page_403); Scandinavian, [3](cml05.htm#page_3); Celtic,
-its influence on English literature, [6](cml05.htm#page_6),
-[7](cml05.htm#page_7); on mediæval chivalric romance,
-[184](cml17.htm#page_184).
+Mythology, importance of, [1](cml05.htm#page_1.md); Greek,
+[1](cml05.htm#page_1), [2](cml05.htm#page_2), [4](cml05.htm#page_4.md),
+[403](cml29.htm#page_403); Scandinavian, [3](cml05.htm#page_3.md); Celtic,
+its influence on English literature, [6](cml05.htm#page_6.md),
+[7](cml05.htm#page_7.md); on mediæval chivalric romance,
+[184](cml17.htm#page_184.md).
 
  
 
 Name, ancient British superstitions with regard to,
-[263](cml20.htm#page_263).
+[263](cml20.htm#page_263.md).
 
 *Names, Choice of*, The. See *Coir Anmann*.
 
-Names, early of Britain, [292](cml22.htm#page_292),
-[323](cml25.htm#page_323); of Ireland, [126](cml14.htm#page_126),
-[150](cml15.htm#page_150), [151](cml15.htm#page_151).
+Names, early of Britain, [292](cml22.htm#page_292.md),
+[323](cml25.htm#page_323); of Ireland, [126](cml14.htm#page_126.md),
+[150](cml15.htm#page_150), [151](cml15.htm#page_151.md).
 
-Nant Call, [310](cml24.htm#page_310).
+Nant Call, [310](cml24.htm#page_310.md).
 
-Nant y Llew, [267](cml20.htm#page_267).
+Nant y Llew, [267](cml20.htm#page_267.md).
 
 Naoise, son of Usnach,
-[191](cml17.htm#page_191)-[193](cml17.htm#page_193),
-[195](cml17.htm#page_195)-[198](cml17.htm#page_198).
+[191](cml17.htm#page_191)-[193](cml17.htm#page_193.md),
+[195](cml17.htm#page_195)-[198](cml17.htm#page_198.md).
 
-Narberth, [279](cml21.htm#page_279), [281](cml21.htm#page_281),
-[282](cml21.htm#page_282), [283](cml21.htm#page_283),
-[288](cml21.htm#page_288), [298](cml23.htm#page_298),
-[300](cml23.htm#page_300).
+Narberth, [279](cml21.htm#page_279), [281](cml21.htm#page_281.md),
+[282](cml21.htm#page_282), [283](cml21.htm#page_283.md),
+[288](cml21.htm#page_288), [298](cml23.htm#page_298.md),
+[300](cml23.htm#page_300.md).
 
-Navan Fort, [158](cml16.htm#page_158).
+Navan Fort, [158](cml16.htm#page_158.md).
 
-[Neamhuain](errata.htm#13), Clann, [216](cml18.htm#page_216),
-[218](cml18.htm#page_218).
+[Neamhuain](errata.htm#13), Clann, [216](cml18.htm#page_216.md),
+[218](cml18.htm#page_218.md).
 
-Neath, Vale of, [255](cml20.htm#page_255), [335](cml25.htm#page_335),
-[392](cml28.htm#page_392).
+Neath, Vale of, [255](cml20.htm#page_255), [335](cml25.htm#page_335.md),
+[392](cml28.htm#page_392.md).
 
-Nedd, river, [405](cml29.htm#page_405).
+Nedd, river, [405](cml29.htm#page_405.md).
 
-Neevougi, a stone worshipped at Inniskea, [415](cml29.htm#page_415).
+Neevougi, a stone worshipped at Inniskea, [415](cml29.htm#page_415.md).
 
-Nemed, [67](cml10.htm#page_67)-[69](cml10.htm#page_69),
-[274](cml20.htm#page_274); the race of, [229](cml19.htm#page_229),
-[230](cml19.htm#page_230), [327](cml25.htm#page_327),
-[406](cml29.htm#page_406).
+Nemed, [67](cml10.htm#page_67)-[69](cml10.htm#page_69.md),
+[274](cml20.htm#page_274); the race of, [229](cml19.htm#page_229.md),
+[230](cml19.htm#page_230), [327](cml25.htm#page_327.md),
+[406](cml29.htm#page_406.md).
 
-Nemetona, a war-goddess worshipped at Bath, [275](cml20.htm#page_275),
-[276](cml20.htm#page_276).
+Nemetona, a war-goddess worshipped at Bath, [275](cml20.htm#page_275.md),
+[276](cml20.htm#page_276.md).
 
-Nemon, a Gaelic war-goddess, wife of Nuada, [52](cml09.htm#page_52),
-[276](cml20.htm#page_276).
+Nemon, a Gaelic war-goddess, wife of Nuada, [52](cml09.htm#page_52.md),
+[276](cml20.htm#page_276.md).
 
-Nennius, his *History of the Britons*, [9](cml06.htm#page_9),
-[336](cml26.htm#page_336).
+Nennius, his *History of the Britons*, [9](cml06.htm#page_9.md),
+[336](cml26.htm#page_336.md).
 
-Nentres, King, [357](cml27.htm#page_357), [362](cml27.htm#page_362).
+Nentres, King, [357](cml27.htm#page_357), [362](cml27.htm#page_362.md).
 
-Nereids, [403](cml29.htm#page_403).
+Nereids, [403](cml29.htm#page_403.md).
 
-Nêt, an Iberian god, [64](cml09.htm#page_64)
+Nêt, an Iberian god, [64](cml09.htm#page_64.md)
 
-New Grange, [137](cml15.htm#page_137)-[139](cml15.htm#page_139).
+New Grange, [137](cml15.htm#page_137)-[139](cml15.htm#page_139.md).
 
-Nia, the Plain of, [73](cml10.htm#page_73).
+Nia, the Plain of, [73](cml10.htm#page_73.md).
 
 Niamh of the Golden Hair, daughter of Manannán,
-[223](cml18.htm#page_223)-[225](cml18.htm#page_225).
+[223](cml18.htm#page_223)-[225](cml18.htm#page_225.md).
 
-Nicholson's *Keltic Researches*, [3](cml05.htm#page_3).
+Nicholson's *Keltic Researches*, [3](cml05.htm#page_3.md).
 
-*Niebelungenlied*, [393](cml28.htm#page_393).
+*Niebelungenlied*, [393](cml28.htm#page_393.md).
 
-Nimue, [358](cml27.htm#page_358), [361](cml27.htm#page_361),
-[362](cml27.htm#page_362).
+Nimue, [358](cml27.htm#page_358), [361](cml27.htm#page_361.md),
+[362](cml27.htm#page_362.md).
 
-Nissyen, son of Penardun, [290](cml22.htm#page_290),
-[293](cml22.htm#page_293).
+Nissyen, son of Penardun, [290](cml22.htm#page_290.md),
+[293](cml22.htm#page_293.md).
 
-Niul, [120](cml14.htm#page_120).
+Niul, [120](cml14.htm#page_120.md).
 
 Noah, descent of the Gaelic gods and men from,
-[329](cml25.htm#page_329).
+[329](cml25.htm#page_329.md).
 
-Nodens, a temple to, at Lydney, [253](cml20.htm#page_253).
+Nodens, a temple to, at Lydney, [253](cml20.htm#page_253.md).
 
-"Northern Crown", constellation of the, [252](cml20.htm#page_252).
+"Northern Crown", constellation of the, [252](cml20.htm#page_252.md).
 
-*Nos galan-gaeof*, the Welsh winter festival, [408](cml29.htm#page_408).
+*Nos galan-gaeof*, the Welsh winter festival, [408](cml29.htm#page_408.md).
 
-Nuada of the Silver Hand, a Gaelic Zeus, [51](cml09.htm#page_51),
-[52](cml09.htm#page_52), [74](cml10.htm#page_74),
-[75](cml10.htm#page_75), [78](cml11.htm#page_78),
-[80](cml11.htm#page_80), [81](cml11.htm#page_81),
-[83](cml11.htm#page_83)-[86](cml11.htm#page_86),
-[93](cml12.htm#page_93), [94](cml12.htm#page_94),
-[105](cml12.htm#page_105), [122](cml14.htm#page_122),
-[157](cml16.htm#page_157), [230](cml19.htm#page_230),
-[253](cml20.htm#page_253), [276](cml20.htm#page_276),
-[323](cml25.htm#page_323); his sword, [51](cml09.htm#page_51),
-[71](cml10.htm#page_71); his wives, [52](cml09.htm#page_52); his hand
-cut off in battle, [75](cml10.htm#page_75); a silver hand made for him
-by Diancecht, [78](cml11.htm#page_78); his own hand renewed by Miach and
-Airmid, [81](cml11.htm#page_81); his death at the hands of Balor,
-[112](cml13.htm#page_112); his tomb at Grianan Aileach,
-[122](cml14.htm#page_122), [157](cml16.htm#page_157).
+Nuada of the Silver Hand, a Gaelic Zeus, [51](cml09.htm#page_51.md),
+[52](cml09.htm#page_52), [74](cml10.htm#page_74.md),
+[75](cml10.htm#page_75), [78](cml11.htm#page_78.md),
+[80](cml11.htm#page_80), [81](cml11.htm#page_81.md),
+[83](cml11.htm#page_83)-[86](cml11.htm#page_86.md),
+[93](cml12.htm#page_93), [94](cml12.htm#page_94.md),
+[105](cml12.htm#page_105), [122](cml14.htm#page_122.md),
+[157](cml16.htm#page_157), [230](cml19.htm#page_230.md),
+[253](cml20.htm#page_253), [276](cml20.htm#page_276.md),
+[323](cml25.htm#page_323); his sword, [51](cml09.htm#page_51.md),
+[71](cml10.htm#page_71); his wives, [52](cml09.htm#page_52.md); his hand
+cut off in battle, [75](cml10.htm#page_75.md); a silver hand made for him
+by Diancecht, [78](cml11.htm#page_78.md); his own hand renewed by Miach and
+Airmid, [81](cml11.htm#page_81.md); his death at the hands of Balor,
+[112](cml13.htm#page_112.md); his tomb at Grianan Aileach,
+[122](cml14.htm#page_122), [157](cml16.htm#page_157.md).
 
-Nudd, British god, [252](cml20.htm#page_252), [253](cml20.htm#page_253),
-[254](cml20.htm#page_254), [313](cml25.htm#page_313); to be identified
+Nudd, British god, [252](cml20.htm#page_252), [253](cml20.htm#page_253.md),
+[254](cml20.htm#page_254), [313](cml25.htm#page_313.md); to be identified
 with Lludd, *q.v.* 
 
-Nutt, Mr. Alfred, [12](cml06.htm#page_12), [37](cml08.htm#page_37),
-[38](cml08.htm#page_38), [134](cml15.htm#page_134),
-[154](cml16.htm#page_154), [158](cml16.htm#page_158),
-[164](cml16.htm#page_164), [318](cml25.htm#page_318),
-[348](cml26.htm#page_348).
+Nutt, Mr. Alfred, [12](cml06.htm#page_12), [37](cml08.htm#page_37.md),
+[38](cml08.htm#page_38), [134](cml15.htm#page_134.md),
+[154](cml16.htm#page_154), [158](cml16.htm#page_158.md),
+[164](cml16.htm#page_164), [318](cml25.htm#page_318.md),
+[348](cml26.htm#page_348.md).
 
-Nwyvre, [322](cml25.htm#page_322), [364](cml27.htm#page_364).
+Nwyvre, [322](cml25.htm#page_322), [364](cml27.htm#page_364.md).
 
-Nynniaw, son of Beli, [268](cml20.htm#page_268),
-[269](cml20.htm#page_269), [313](cml25.htm#page_313).
+Nynniaw, son of Beli, [268](cml20.htm#page_268.md),
+[269](cml20.htm#page_269), [313](cml25.htm#page_313.md).
 
  
 
-Oak, held sacred by the Druids, [33](cml08.htm#page_33).
+Oak, held sacred by the Druids, [33](cml08.htm#page_33.md).
 
-Oberon, [7](cml05.htm#page_7), [392](cml28.htm#page_392).
+Oberon, [7](cml05.htm#page_7), [392](cml28.htm#page_392.md).
 
-"Ocean", a black-maned heifer called, [80](cml11.htm#page_80),
-[240](cml19.htm#page_240).
+"Ocean", a black-maned heifer called, [80](cml11.htm#page_80.md),
+[240](cml19.htm#page_240.md).
 
-Ochall Ochne, king of the Sídhe of Connaught, [164](cml16.htm#page_164).
+Ochall Ochne, king of the Sídhe of Connaught, [164](cml16.htm#page_164.md).
 
-Ochren, battle of, [305](cml24.htm#page_305); Caer,
-[320](cml25.htm#page_320), see Achren.
+Ochren, battle of, [305](cml24.htm#page_305.md); Caer,
+[320](cml25.htm#page_320.md), see Achren.
 
-Octriallach, son of Indech, [110](cml13.htm#page_110); the "Cairn of
-Octriallach", [110](cml13.htm#page_110).
+Octriallach, son of Indech, [110](cml13.htm#page_110.md); the "Cairn of
+Octriallach", [110](cml13.htm#page_110.md).
 
-O’Curry, Eugene, [37](cml08.htm#page_37), [56](cml09.htm#page_56),
-[63](cml09.htm#page_63), [72](cml10.htm#page_72),
-[78](cml11.htm#page_78), [89](cml12.htm#page_89),
-[93](cml12.htm#page_93), [111](cml13.htm#page_111),
-[113](cml13.htm#page_113), [137](cml15.htm#page_137),
-[138](cml15.htm#page_138), [146](cml15.htm#page_146),
-[151](cml15.htm#page_151), [152](cml15.htm#page_152),
-[155](cml16.htm#page_155), [188](cml17.htm#page_188),
-[201](cml18.htm#page_201), [204](cml18.htm#page_204).
+O’Curry, Eugene, [37](cml08.htm#page_37), [56](cml09.htm#page_56.md),
+[63](cml09.htm#page_63), [72](cml10.htm#page_72.md),
+[78](cml11.htm#page_78), [89](cml12.htm#page_89.md),
+[93](cml12.htm#page_93), [111](cml13.htm#page_111.md),
+[113](cml13.htm#page_113), [137](cml15.htm#page_137.md),
+[138](cml15.htm#page_138), [146](cml15.htm#page_146.md),
+[151](cml15.htm#page_151), [152](cml15.htm#page_152.md),
+[155](cml16.htm#page_155), [188](cml17.htm#page_188.md),
+[201](cml18.htm#page_201), [204](cml18.htm#page_204.md).
 
 <span id="page_441">p. 441</span>
 
-Odin, [260](cml20.htm#page_260).
+Odin, [260](cml20.htm#page_260.md).
 
-O’Donaghue, the, [247](cml19.htm#page_247).
+O’Donaghue, the, [247](cml19.htm#page_247.md).
 
-O’Donovan, [238](cml19.htm#page_238).
+O’Donovan, [238](cml19.htm#page_238.md).
 
-Oeth and Anoeth, the Bone-prison of, [270](cml20.htm#page_270),
-[271](cml20.htm#page_271), [317](cml25.htm#page_317),
-[373](cml28.htm#page_373).
+Oeth and Anoeth, the Bone-prison of, [270](cml20.htm#page_270.md),
+[271](cml20.htm#page_271), [317](cml25.htm#page_317.md),
+[373](cml28.htm#page_373.md).
 
-O’Flynn, Eochaid, an old Irish poet, [231](cml19.htm#page_231).
+O’Flynn, Eochaid, an old Irish poet, [231](cml19.htm#page_231.md).
 
-Ogam, writings in, [58](cml09.htm#page_58), [93](cml12.htm#page_93),
-[151](cml15.htm#page_151), [189](cml17.htm#page_189).
+Ogam, writings in, [58](cml09.htm#page_58), [93](cml12.htm#page_93.md),
+[151](cml15.htm#page_151), [189](cml17.htm#page_189.md).
 
 Ogma, Gaelic god of Literature and Eloquence,
-[57](cml09.htm#page_57)-[60](cml09.htm#page_60),
-[79](cml11.htm#page_79), [80](cml11.htm#page_80),
-[82](cml11.htm#page_82), [84](cml11.htm#page_84),
-[85](cml11.htm#page_85), [112](cml13.htm#page_112),
-x,[6](cml05.htm#page_6), [117](cml13.htm#page_117),
-[122](cml14.htm#page_122), [136](cml15.htm#page_136),
-[139](cml15.htm#page_139), [157](cml16.htm#page_157),
-[276](cml20.htm#page_276); his wife and children,
-[57](cml09.htm#page_57); his epithets of "Cermait" and "Grianainech",
-[57](cml09.htm#page_57), [59](cml09.htm#page_59); his great strength,
-[59](cml09.htm#page_59); kills Indech in the battle of Moytura,
-[112](cml13.htm#page_112); inventor of the ogam alphabet,
-[58](cml09.htm#page_58).
+[57](cml09.htm#page_57)-[60](cml09.htm#page_60.md),
+[79](cml11.htm#page_79), [80](cml11.htm#page_80.md),
+[82](cml11.htm#page_82), [84](cml11.htm#page_84.md),
+[85](cml11.htm#page_85), [112](cml13.htm#page_112.md),
+x,[6](cml05.htm#page_6), [117](cml13.htm#page_117.md),
+[122](cml14.htm#page_122), [136](cml15.htm#page_136.md),
+[139](cml15.htm#page_139), [157](cml16.htm#page_157.md),
+[276](cml20.htm#page_276.md); his wife and children,
+[57](cml09.htm#page_57.md); his epithets of "Cermait" and "Grianainech",
+[57](cml09.htm#page_57), [59](cml09.htm#page_59.md); his great strength,
+[59](cml09.htm#page_59.md); kills Indech in the battle of Moytura,
+[112](cml13.htm#page_112.md); inventor of the ogam alphabet,
+[58](cml09.htm#page_58.md).
 
-Ogmios, a Gaulish god, [276](cml20.htm#page_276).
+Ogmios, a Gaulish god, [276](cml20.htm#page_276.md).
 
-O’Grady, Standish Hayes, Mr., [28](cml07.htm#page_28),
-[159](cml16.htm#page_159), [201](cml18.htm#page_201),
-[203](cml18.htm#page_203), [205](cml18.htm#page_205),
-[207](cml18.htm#page_207), [213](cml18.htm#page_213),
-[215](cml18.htm#page_215), [222](cml18.htm#page_222).
+O’Grady, Standish Hayes, Mr., [28](cml07.htm#page_28.md),
+[159](cml16.htm#page_159), [201](cml18.htm#page_201.md),
+[203](cml18.htm#page_203), [205](cml18.htm#page_205.md),
+[207](cml18.htm#page_207), [213](cml18.htm#page_213.md),
+[215](cml18.htm#page_215), [222](cml18.htm#page_222.md).
 
 Ogyrvran, a British god of the Under World, father of Gwynhwyvar,
-[329](cml25.htm#page_329)-[331](cml25.htm#page_331),
-[357](cml27.htm#page_357), [366](cml27.htm#page_366).
+[329](cml25.htm#page_329)-[331](cml25.htm#page_331.md),
+[357](cml27.htm#page_357), [366](cml27.htm#page_366.md).
 
-O’Herlebys, wooden idol of the, [413](cml29.htm#page_413).
+O’Herlebys, wooden idol of the, [413](cml29.htm#page_413.md).
 
-Old Plain, the, [66](cml10.htm#page_66).
+Old Plain, the, [66](cml10.htm#page_66.md).
 
-Old Sarum, [29](cml07.htm#page_29), [386](cml28.htm#page_386).
+Old Sarum, [29](cml07.htm#page_29), [386](cml28.htm#page_386.md).
 
-Olwen, [340](cml26.htm#page_340), [341](cml26.htm#page_341),
-[343](cml26.htm#page_343), [345](cml26.htm#page_345),
-[353](cml26.htm#page_353).
+Olwen, [340](cml26.htm#page_340), [341](cml26.htm#page_341.md),
+[343](cml26.htm#page_343), [345](cml26.htm#page_345.md),
+[353](cml26.htm#page_353.md).
 
-Onagh, queen of the Irish fairies, [243](cml19.htm#page_243),
-[244](cml19.htm#page_244).
+Onagh, queen of the Irish fairies, [243](cml19.htm#page_243.md),
+[244](cml19.htm#page_244.md).
 
-Origins of English History, Mr. Elton's, [6](cml05.htm#page_6),
-[8](cml06.htm#page_8), [25](cml07.htm#page_25), [26](cml07.htm#page_26),
-[70](cml10.htm#page_70), [228](cml19.htm#page_228),
-[327](cml25.htm#page_327), [413](cml29.htm#page_413).
+Origins of English History, Mr. Elton's, [6](cml05.htm#page_6.md),
+[8](cml06.htm#page_8), [25](cml07.htm#page_25), [26](cml07.htm#page_26.md),
+[70](cml10.htm#page_70), [228](cml19.htm#page_228.md),
+[327](cml25.htm#page_327), [413](cml29.htm#page_413.md).
 
-Orkneys, [386](cml28.htm#page_386); King Lot of Orkney,
-[359](cml27.htm#page_359).
+Orkneys, [386](cml28.htm#page_386.md); King Lot of Orkney,
+[359](cml27.htm#page_359.md).
 
-Oscar, son of Ossian, [208](cml18.htm#page_208),
-[212](cml18.htm#page_212), [217](cml18.htm#page_217),
-[222](cml18.htm#page_222), [246](cml19.htm#page_246),
-[315](cml25.htm#page_315).
+Oscar, son of Ossian, [208](cml18.htm#page_208.md),
+[212](cml18.htm#page_212), [217](cml18.htm#page_217.md),
+[222](cml18.htm#page_222), [246](cml19.htm#page_246.md),
+[315](cml25.htm#page_315.md).
 
-Osla Big-Knife, [352](cml26.htm#page_352), [353](cml26.htm#page_353).
+Osla Big-Knife, [352](cml26.htm#page_352), [353](cml26.htm#page_353.md).
 
-*Ossian*, MacPherson's, [203](cml18.htm#page_203).
+*Ossian*, MacPherson's, [203](cml18.htm#page_203.md).
 
-Ossian, son of Finn mac Coul, [11](cml06.htm#page_11),
-[208](cml18.htm#page_208), [212](cml18.htm#page_212),
-[214](cml18.htm#page_214), [215](cml18.htm#page_215),
-[217](cml18.htm#page_217), [220](cml18.htm#page_220),
-[223](cml18.htm#page_223)-[227](cml19.htm#page_227),
-[246](cml19.htm#page_246), [318](cml25.htm#page_318),
-[337](cml26.htm#page_337).
+Ossian, son of Finn mac Coul, [11](cml06.htm#page_11.md),
+[208](cml18.htm#page_208), [212](cml18.htm#page_212.md),
+[214](cml18.htm#page_214), [215](cml18.htm#page_215.md),
+[217](cml18.htm#page_217), [220](cml18.htm#page_220.md),
+[223](cml18.htm#page_223)-[227](cml19.htm#page_227.md),
+[246](cml19.htm#page_246), [318](cml25.htm#page_318.md),
+[337](cml26.htm#page_337.md).
 
-"Ossianic ballads", [205](cml18.htm#page_205),
-[208](cml18.htm#page_208), [213](cml18.htm#page_213); Ossianic Society,
+"Ossianic ballads", [205](cml18.htm#page_205.md),
+[208](cml18.htm#page_208), [213](cml18.htm#page_213.md); Ossianic Society,
 see *Transactions*.
 
-Other World, the Celtic, [65](cml10.htm#page_65),
-[68](cml10.htm#page_68), [71](cml10.htm#page_71),
-[98](cml12.htm#page_98), [119](cml14.htm#page_119),
-[121](cml14.htm#page_121),
-[133](cml15.htm#page_133)-[136](cml15.htm#page_136),
-[150](cml15.htm#page_150), [151](cml15.htm#page_151),
-[175](cml16.htm#page_175), [176](cml16.htm#page_176),
-[201](cml18.htm#page_201), [202](cml18.htm#page_202),
-[203](cml18.htm#page_203), [224](cml18.htm#page_224),
-[252](cml20.htm#page_252), [255](cml20.htm#page_255),
-[270](cml20.htm#page_270), [271](cml20.htm#page_271),
-[272](cml20.htm#page_272), [273](cml20.htm#page_273),
-[278](cml21.htm#page_278), [279](cml21.htm#page_279),
-[281](cml21.htm#page_281), [305](cml24.htm#page_305),
-[307](cml24.htm#page_307), [316](cml25.htm#page_316),
-[317](cml25.htm#page_317),
-[318](cml25.htm#page_318)-[322](cml25.htm#page_322),
-[329](cml25.htm#page_329), [334](cml25.htm#page_334),
-[336](cml26.htm#page_336), [366](cml27.htm#page_366),
-[387](cml28.htm#page_387), [389](cml28.htm#page_389),
-[395](cml28.htm#page_395); different names of,
-[133](cml15.htm#page_133),
-[318](cml25.htm#page_318)-[320](cml25.htm#page_320); descriptions of,
-[136](cml15.htm#page_136),
-[150](cml15.htm#page_150)-[151](cml15.htm#page_151),
-[224](cml18.htm#page_224); variously imagined as upon the sea,
-[202](cml18.htm#page_202), [224](cml18.htm#page_224),
-[272](cml20.htm#page_272), [394](cml28.htm#page_394); under the sea,
-[305](cml24.htm#page_305); under the earth,
-[135](cml15.htm#page_135)-[136](cml15.htm#page_136); upon earth,
-[271](cml20.htm#page_271), [272](cml20.htm#page_272),
-[273](cml20.htm#page_273), [278](cml21.htm#page_278),
-[279](cml21.htm#page_279); original abode of men,
-[119](cml14.htm#page_119); visited by Cuchulainn,
-[175](cml16.htm#page_175)-[176](cml16.htm#page_176),
-[186](cml17.htm#page_186); Conn, [201](cml18.htm#page_201); Connla,
-[202](cml18.htm#page_202), Ossian, [224](cml18.htm#page_224); Pwyll,
-[281](cml21.htm#page_281); Gwydion, [305](cml24.htm#page_305); Arthur,
-[317](cml25.htm#page_317)-[320](cml25.htm#page_320). See also Annwn,
+Other World, the Celtic, [65](cml10.htm#page_65.md),
+[68](cml10.htm#page_68), [71](cml10.htm#page_71.md),
+[98](cml12.htm#page_98), [119](cml14.htm#page_119.md),
+[121](cml14.htm#page_121.md),
+[133](cml15.htm#page_133)-[136](cml15.htm#page_136.md),
+[150](cml15.htm#page_150), [151](cml15.htm#page_151.md),
+[175](cml16.htm#page_175), [176](cml16.htm#page_176.md),
+[201](cml18.htm#page_201), [202](cml18.htm#page_202.md),
+[203](cml18.htm#page_203), [224](cml18.htm#page_224.md),
+[252](cml20.htm#page_252), [255](cml20.htm#page_255.md),
+[270](cml20.htm#page_270), [271](cml20.htm#page_271.md),
+[272](cml20.htm#page_272), [273](cml20.htm#page_273.md),
+[278](cml21.htm#page_278), [279](cml21.htm#page_279.md),
+[281](cml21.htm#page_281), [305](cml24.htm#page_305.md),
+[307](cml24.htm#page_307), [316](cml25.htm#page_316.md),
+[317](cml25.htm#page_317.md),
+[318](cml25.htm#page_318)-[322](cml25.htm#page_322.md),
+[329](cml25.htm#page_329), [334](cml25.htm#page_334.md),
+[336](cml26.htm#page_336), [366](cml27.htm#page_366.md),
+[387](cml28.htm#page_387), [389](cml28.htm#page_389.md),
+[395](cml28.htm#page_395.md); different names of,
+[133](cml15.htm#page_133.md),
+[318](cml25.htm#page_318)-[320](cml25.htm#page_320.md); descriptions of,
+[136](cml15.htm#page_136.md),
+[150](cml15.htm#page_150)-[151](cml15.htm#page_151.md),
+[224](cml18.htm#page_224.md); variously imagined as upon the sea,
+[202](cml18.htm#page_202), [224](cml18.htm#page_224.md),
+[272](cml20.htm#page_272), [394](cml28.htm#page_394.md); under the sea,
+[305](cml24.htm#page_305.md); under the earth,
+[135](cml15.htm#page_135)-[136](cml15.htm#page_136.md); upon earth,
+[271](cml20.htm#page_271), [272](cml20.htm#page_272.md),
+[273](cml20.htm#page_273), [278](cml21.htm#page_278.md),
+[279](cml21.htm#page_279.md); original abode of men,
+[119](cml14.htm#page_119.md); visited by Cuchulainn,
+[175](cml16.htm#page_175)-[176](cml16.htm#page_176.md),
+[186](cml17.htm#page_186); Conn, [201](cml18.htm#page_201.md); Connla,
+[202](cml18.htm#page_202), Ossian, [224](cml18.htm#page_224.md); Pwyll,
+[281](cml21.htm#page_281); Gwydion, [305](cml24.htm#page_305.md); Arthur,
+[317](cml25.htm#page_317)-[320](cml25.htm#page_320.md). See also Annwn,
 Avilion, Happy Plain, Mag Mell, Mag Mon, Land of Happiness, of the
 Living, of Promise, of Summer, of the Young.
 
-Ousel of Cilgwri, [349](cml26.htm#page_349).
+Ousel of Cilgwri, [349](cml26.htm#page_349.md).
 
-Ovid's *Metamorphoses*, [393](cml28.htm#page_393).
+Ovid's *Metamorphoses*, [393](cml28.htm#page_393.md).
 
-Owain, son of Urien, [328](cml25.htm#page_328),
-[330](cml25.htm#page_330); Sir Owain, [363](cml27.htm#page_363).
+Owain, son of Urien, [328](cml25.htm#page_328.md),
+[330](cml25.htm#page_330); Sir Owain, [363](cml27.htm#page_363.md).
 
-Owl, of Cwm Cawlwyd, [349](cml26.htm#page_349); Blodeuwedd changed into
-an, [268](cml20.htm#page_268).
+Owl, of Cwm Cawlwyd, [349](cml26.htm#page_349.md); Blodeuwedd changed into
+an, [268](cml20.htm#page_268.md).
 
-Ox, the brindled, [320](cml25.htm#page_320), [321](cml25.htm#page_321);
-oxen, magic, [345](cml26.htm#page_345).
+Ox, the brindled, [320](cml25.htm#page_320), [321](cml25.htm#page_321.md);
+oxen, magic, [345](cml26.htm#page_345.md).
 
-Oxford, [379](cml28.htm#page_379).
+Oxford, [379](cml28.htm#page_379.md).
 
  
 
 Paradise, the Celtic. See Other World, Celtic.
 
-Parthludd, [254](cml20.htm#page_254), [376](cml28.htm#page_376).
+Parthludd, [254](cml20.htm#page_254), [376](cml28.htm#page_376.md).
 
-Partholon, [65](cml10.htm#page_65)-[68](cml10.htm#page_68),
-[386](cml28.htm#page_386); race of, [229](cml19.htm#page_229),
-[230](cml19.htm#page_230), [406](cml29.htm#page_406).
+Partholon, [65](cml10.htm#page_65)-[68](cml10.htm#page_68.md),
+[386](cml28.htm#page_386); race of, [229](cml19.htm#page_229.md),
+[230](cml19.htm#page_230), [406](cml29.htm#page_406.md).
 
-Patrick, Saint, [8](cml06.htm#page_8), [40](cml08.htm#page_40),
-[41](cml08.htm#page_41), [132](cml15.htm#page_132),
-[145](cml15.htm#page_145), [222](cml18.htm#page_222),
-[225](cml18.htm#page_225), [226](cml18.htm#page_226),
-[227](cml19.htm#page_227), [242](cml19.htm#page_242),
-[401](cml29.htm#page_401), [402](cml29.htm#page_402).
+Patrick, Saint, [8](cml06.htm#page_8), [40](cml08.htm#page_40.md),
+[41](cml08.htm#page_41), [132](cml15.htm#page_132.md),
+[145](cml15.htm#page_145), [222](cml18.htm#page_222.md),
+[225](cml18.htm#page_225), [226](cml18.htm#page_226.md),
+[227](cml19.htm#page_227), [242](cml19.htm#page_242.md),
+[401](cml29.htm#page_401), [402](cml29.htm#page_402.md).
 
-Paul's Cathedral, Saint, [254](cml20.htm#page_254).
+Paul's Cathedral, Saint, [254](cml20.htm#page_254.md).
 
-Pausanias's *Description of Greece*, [36](cml08.htm#page_36).
+Pausanias's *Description of Greece*, [36](cml08.htm#page_36.md).
 
-Pedigree of the gods, [229](cml19.htm#page_229); of Finn mac Coul,
-[204](cml18.htm#page_204).
+Pedigree of the gods, [229](cml19.htm#page_229.md); of Finn mac Coul,
+[204](cml18.htm#page_204.md).
 
-Pedryvan, Caer, [319](cml25.htm#page_319), [356](cml27.htm#page_356),
-[367](cml27.htm#page_367).
+Pedryvan, Caer, [319](cml25.htm#page_319), [356](cml27.htm#page_356.md),
+[367](cml27.htm#page_367.md).
 
-Peel Castle, [242](cml19.htm#page_242).
+Peel Castle, [242](cml19.htm#page_242.md).
 
-Peibaw, son of Beli, [268](cml20.htm#page_268),
-[269](cml20.htm#page_269), [313](cml25.htm#page_313).
+Peibaw, son of Beli, [268](cml20.htm#page_268.md),
+[269](cml20.htm#page_269), [313](cml25.htm#page_313.md).
 
-Pelasgoi, [20](cml07.htm#page_20).
+Pelasgoi, [20](cml07.htm#page_20.md).
 
-Peleur, King, [368](cml27.htm#page_368).
+Peleur, King, [368](cml27.htm#page_368.md).
 
-Pellam, King, [358](cml27.htm#page_358), [364](cml27.htm#page_364).
+Pellam, King, [358](cml27.htm#page_358), [364](cml27.htm#page_364.md).
 
-Pellean, King, [358](cml27.htm#page_358).
+Pellean, King, [358](cml27.htm#page_358.md).
 
-Pelleas, Sir, [358](cml27.htm#page_358), [368](cml27.htm#page_368);
-*Pelleas and Ettarre*, Tennyson's Idyll of, [358](cml27.htm#page_358).
+Pelleas, Sir, [358](cml27.htm#page_358), [368](cml27.htm#page_368.md);
+*Pelleas and Ettarre*, Tennyson's Idyll of, [358](cml27.htm#page_358.md).
 
-Pelles, King, [357](cml27.htm#page_357), [362](cml27.htm#page_362),
-[367](cml27.htm#page_367).
+Pelles, King, [357](cml27.htm#page_357), [362](cml27.htm#page_362.md),
+[367](cml27.htm#page_367.md).
 
-Pellinore, King, [362](cml27.htm#page_362).
+Pellinore, King, [362](cml27.htm#page_362.md).
 
-*Pembroke, County Guardian*, the, [394](cml28.htm#page_394).
+*Pembroke, County Guardian*, the, [394](cml28.htm#page_394.md).
 
-Pembrokeshire, [273](cml20.htm#page_273), [278](cml21.htm#page_278),
-[394](cml28.htm#page_394)
+Pembrokeshire, [273](cml20.htm#page_273), [278](cml21.htm#page_278.md),
+[394](cml28.htm#page_394.md)
 
 *Pen Annwn*, the "Head of Hades", a title of Pwyll,
-[278](cml21.htm#page_278), [282](cml21.htm#page_282).
+[278](cml21.htm#page_278), [282](cml21.htm#page_282.md).
 
-Penardun, daughter rd. Beli and wife of Llyr, [269](cml20.htm#page_269),
-[270](cml20.htm#page_270), [289](cml22.htm#page_289),
-[290](cml22.htm#page_290), [293](cml22.htm#page_293).
+Penardun, daughter rd. Beli and wife of Llyr, [269](cml20.htm#page_269.md),
+[270](cml20.htm#page_270), [289](cml22.htm#page_289.md),
+[290](cml22.htm#page_290), [293](cml22.htm#page_293.md).
 
-Pendaran Dyfed, [288](cml21.htm#page_288), [295](cml22.htm#page_295).
+Pendaran Dyfed, [288](cml21.htm#page_288), [295](cml22.htm#page_295.md).
 
-Pendragon, meaning of the word, [330](cml25.htm#page_330).
+Pendragon, meaning of the word, [330](cml25.htm#page_330.md).
 
-Pennant, [409](cml29.htm#page_409).
+Pennant, [409](cml29.htm#page_409.md).
 
-Percivale, Sir, [359](cml27.htm#page_359), [363](cml27.htm#page_363),
-[368](cml27.htm#page_368), [369](cml27.htm#page_369).
+Percivale, Sir, [359](cml27.htm#page_359), [363](cml27.htm#page_363.md),
+[368](cml27.htm#page_368), [369](cml27.htm#page_369.md).
 
-Peredur, [330](cml25.htm#page_330), [368](cml27.htm#page_368),
-[369](cml27.htm#page_369).
+Peredur, [330](cml25.htm#page_330), [368](cml27.htm#page_368.md),
+[369](cml27.htm#page_369.md).
 
-Perilous glens, the, [163](cml16.htm#page_163).
+Perilous glens, the, [163](cml16.htm#page_163.md).
 
-Persephoné, the British, [259](cml20.htm#page_259),
-[260](cml20.htm#page_260).
+Persephoné, the British, [259](cml20.htm#page_259.md),
+[260](cml20.htm#page_260.md).
 
 <span id="page_443">p. 443</span>
 
-Persia, [274](cml20.htm#page_274); Pisear, king of,
-[96](cml12.htm#page_96), [97](cml12.htm#page_97),
-[101](cml12.htm#page_101)-[103](cml12.htm#page_103).
+Persia, [274](cml20.htm#page_274.md); Pisear, king of,
+[96](cml12.htm#page_96), [97](cml12.htm#page_97.md),
+[101](cml12.htm#page_101)-[103](cml12.htm#page_103.md).
 
-Petrie, Dr., [72](cml10.htm#page_72), [98](cml12.htm#page_98),
-[114](cml13.htm#page_114).
+Petrie, Dr., [72](cml10.htm#page_72), [98](cml12.htm#page_98.md),
+[114](cml13.htm#page_114.md).
 
-Picts, [23](cml07.htm#page_23), [230](cml19.htm#page_230),
-[401](cml29.htm#page_401), [417](cml29.htm#page_417).
+Picts, [23](cml07.htm#page_23), [230](cml19.htm#page_230.md),
+[401](cml29.htm#page_401), [417](cml29.htm#page_417.md).
 
-Pigs, in the Celtic Other World, [136](cml15.htm#page_136); of Manannán,
-[61](cml09.htm#page_61), [63](cml09.htm#page_63); of Easal, king of the
-Golden Pillars, [96](cml12.htm#page_96), [97](cml12.htm#page_97),
-[103](cml12.htm#page_103); of Pryderi, [308](cml24.htm#page_308),
-[316](cml25.htm#page_316), [327](cml25.htm#page_327); of March,
-[316](cml25.htm#page_316),
-[3](cml05.htm#page_3).[27](cml07.htm#page_27); of Angus,
-[214](cml18.htm#page_214); Cian changed into a pig,
-[91](cml12.htm#page_91).
+Pigs, in the Celtic Other World, [136](cml15.htm#page_136.md); of Manannán,
+[61](cml09.htm#page_61), [63](cml09.htm#page_63.md); of Easal, king of the
+Golden Pillars, [96](cml12.htm#page_96), [97](cml12.htm#page_97.md),
+[103](cml12.htm#page_103); of Pryderi, [308](cml24.htm#page_308.md),
+[316](cml25.htm#page_316), [327](cml25.htm#page_327.md); of March,
+[316](cml25.htm#page_316.md),
+[3](cml05.htm#page_3).[27](cml07.htm#page_27.md); of Angus,
+[214](cml18.htm#page_214.md); Cian changed into a pig,
+[91](cml12.htm#page_91.md).
 
-Pigskin of King Tuis, the, [96](cml12.htm#page_96),
-[99](cml12.htm#page_99), [100](cml12.htm#page_100).
+Pigskin of King Tuis, the, [96](cml12.htm#page_96.md),
+[99](cml12.htm#page_99), [100](cml12.htm#page_100.md).
 
 Pillars, king of the Golden. See Easal.
 
-Pisear, king of Persia, [96](cml12.htm#page_96),
-[97](cml12.htm#page_97),
-[101](cml12.htm#page_101)-[103](cml12.htm#page_103).
+Pisear, king of Persia, [96](cml12.htm#page_96.md),
+[97](cml12.htm#page_97.md),
+[101](cml12.htm#page_101)-[103](cml12.htm#page_103.md).
 
-Pixies, [393](cml28.htm#page_393).
+Pixies, [393](cml28.htm#page_393.md).
 
-Plain of Ill Luck, [163](cml16.htm#page_163); of the Sea,
-[72](cml10.htm#page_72); of Adoration, [38](cml08.htm#page_38); the Old,
-[66](cml10.htm#page_66).
+Plain of Ill Luck, [163](cml16.htm#page_163.md); of the Sea,
+[72](cml10.htm#page_72); of Adoration, [38](cml08.htm#page_38.md); the Old,
+[66](cml10.htm#page_66.md).
 
-Pliny, [33](cml08.htm#page_33), [35](cml08.htm#page_35),
-[400](cml29.htm#page_400).
+Pliny, [33](cml08.htm#page_33), [35](cml08.htm#page_35.md),
+[400](cml29.htm#page_400.md).
 
-Plutarch, [326](cml25.htm#page_326).
+Plutarch, [326](cml25.htm#page_326.md).
 
-Pluto, the Gaelic, [57](cml09.htm#page_57); the Cambrian,
-[260](cml20.htm#page_260).
+Pluto, the Gaelic, [57](cml09.htm#page_57.md); the Cambrian,
+[260](cml20.htm#page_260.md).
 
-Poetry, the Gaelic goddess of, [56](cml09.htm#page_56); cauldron of
-inspiration and, [365](cml27.htm#page_365)-[370](cml27.htm#page_370).
+Poetry, the Gaelic goddess of, [56](cml09.htm#page_56.md); cauldron of
+inspiration and, [365](cml27.htm#page_365)-[370](cml27.htm#page_370.md).
 
 Policy of the Christian Church towards objects of pagan worship,
-[417](cml29.htm#page_417).
+[417](cml29.htm#page_417.md).
 
-Pookas, [247](cml19.htm#page_247), [248](cml19.htm#page_248),
-[393](cml28.htm#page_393), [403](cml29.htm#page_403),
-[405](cml29.htm#page_405).
+Pookas, [247](cml19.htm#page_247), [248](cml19.htm#page_248.md),
+[393](cml28.htm#page_393), [403](cml29.htm#page_403.md),
+[405](cml29.htm#page_405.md).
 
-[Porsena](errata.htm#14), a Roman consul, [385](cml28.htm#page_385).
+[Porsena](errata.htm#14), a Roman consul, [385](cml28.htm#page_385.md).
 
-Poseidon, [52](cml09.htm#page_52), [260](cml20.htm#page_260); the
-Gaelic, [60](cml09.htm#page_60); the British, [269](cml20.htm#page_269).
+Poseidon, [52](cml09.htm#page_52), [260](cml20.htm#page_260.md); the
+Gaelic, [60](cml09.htm#page_60); the British, [269](cml20.htm#page_269.md).
 
-Posidonius, [26](cml07.htm#page_26).
+Posidonius, [26](cml07.htm#page_26.md).
 
-Prophecy of Badb, [117](cml13.htm#page_117)-[118](cml13.htm#page_118);
-of Eriu, [125](cml14.htm#page_125)-[126](cml14.htm#page_126); of the
-seeress to Queen Medb, [166](cml16.htm#page_166); of Lugh to Conn the
-Hundred-Fighter, [201](cml18.htm#page_201)-[202](cml18.htm#page_202); of
-Cathbad concerning Cuchulainn, [161](cml16.htm#page_161), concerning
-Deirdre, [190](cml17.htm#page_190)-[191](cml17.htm#page_191).
+Prophecy of Badb, [117](cml13.htm#page_117)-[118](cml13.htm#page_118.md);
+of Eriu, [125](cml14.htm#page_125)-[126](cml14.htm#page_126.md); of the
+seeress to Queen Medb, [166](cml16.htm#page_166.md); of Lugh to Conn the
+Hundred-Fighter, [201](cml18.htm#page_201)-[202](cml18.htm#page_202.md); of
+Cathbad concerning Cuchulainn, [161](cml16.htm#page_161.md), concerning
+Deirdre, [190](cml17.htm#page_190)-[191](cml17.htm#page_191.md).
 
-Pryderi, son of Pwyll and Rhiannon, [273](cml20.htm#page_273),
-[286](cml21.htm#page_286)-[288](cml21.htm#page_288),
-[289](cml22.htm#page_289), [294](cml22.htm#page_294),
-[295](cml22.htm#page_295),
-[298](cml23.htm#page_298)-[301](cml23.htm#page_301),
-[303](cml23.htm#page_303)-[305](cml24.htm#page_305),
-[308](cml24.htm#page_308),
-[309](cml24.htm#page_309)-[311](cml24.htm#page_311),
-[313](cml25.htm#page_313), [315](cml25.htm#page_315),
-[316](cml25.htm#page_316), [319](cml25.htm#page_319),
-[321](cml25.htm#page_321), [327](cml25.htm#page_327),
-[335](cml25.htm#page_335), [358](cml27.htm#page_358),
-[364](cml27.htm#page_364), [366](cml27.htm#page_366),
-[368](cml27.htm#page_368), [377](cml28.htm#page_377),
-[407](cml29.htm#page_407); is stolen at birth,
-[286](cml21.htm#page_286); meaning of his name,
-[288](cml21.htm#page_288); accompanies Brân to Ireland,
-[289](cml22.htm#page_289)-[294](cml22.htm#page_294); is spirited away by
+Pryderi, son of Pwyll and Rhiannon, [273](cml20.htm#page_273.md),
+[286](cml21.htm#page_286)-[288](cml21.htm#page_288.md),
+[289](cml22.htm#page_289), [294](cml22.htm#page_294.md),
+[295](cml22.htm#page_295.md),
+[298](cml23.htm#page_298)-[301](cml23.htm#page_301.md),
+[303](cml23.htm#page_303)-[305](cml24.htm#page_305.md),
+[308](cml24.htm#page_308.md),
+[309](cml24.htm#page_309)-[311](cml24.htm#page_311.md),
+[313](cml25.htm#page_313), [315](cml25.htm#page_315.md),
+[316](cml25.htm#page_316), [319](cml25.htm#page_319.md),
+[321](cml25.htm#page_321), [327](cml25.htm#page_327.md),
+[335](cml25.htm#page_335), [358](cml27.htm#page_358.md),
+[364](cml27.htm#page_364), [366](cml27.htm#page_366.md),
+[368](cml27.htm#page_368), [377](cml28.htm#page_377.md),
+[407](cml29.htm#page_407.md); is stolen at birth,
+[286](cml21.htm#page_286.md); meaning of his name,
+[288](cml21.htm#page_288.md); accompanies Brân to Ireland,
+[289](cml22.htm#page_289)-[294](cml22.htm#page_294.md); is spirited away by
 Llwyd and recovered by Manawyddan,
-[300](cml23.htm#page_300)-[304](cml23.htm#page_304); receives a present
-of pigs from Annwn, [308](cml24.htm#page_308); is killed by Gwydion,
-[311](cml24.htm#page_311); appears in Arthurian legend,
-[358](cml27.htm#page_358).
+[300](cml23.htm#page_300)-[304](cml23.htm#page_304.md); receives a present
+of pigs from Annwn, [308](cml24.htm#page_308.md); is killed by Gwydion,
+[311](cml24.htm#page_311.md); appears in Arthurian legend,
+[358](cml27.htm#page_358.md).
 
-Prydwen, Arthur's ship, [319](cml25.htm#page_319),
-[320](cml25.htm#page_320), [352](cml26.htm#page_352).
+Prydwen, Arthur's ship, [319](cml25.htm#page_319.md),
+[320](cml25.htm#page_320), [352](cml26.htm#page_352.md).
 
-Puck, [393](cml28.htm#page_393).
+Puck, [393](cml28.htm#page_393.md).
 
-Puffin Island, [322](cml25.htm#page_322).
+Puffin Island, [322](cml25.htm#page_322.md).
 
 *Pursuit of Diarmait and Grainne, The*,
-[215](cml18.htm#page_215)-[221](cml18.htm#page_221).
+[215](cml18.htm#page_215)-[221](cml18.htm#page_221.md).
 
-Pwccas, [393](cml28.htm#page_393).
+Pwccas, [393](cml28.htm#page_393.md).
 
-Pwyll, Prince of Dyfed and "Head of Annwn", [273](cml20.htm#page_273),
-[274](cml20.htm#page_274),
-[278](cml21.htm#page_278)-[288](cml21.htm#page_288),
-[298](cml23.htm#page_298), [303](cml23.htm#page_303),
-[304](cml23.htm#page_304), [305](cml24.htm#page_305),
-[308](cml24.htm#page_308), [316](cml25.htm#page_316),
-[319](cml25.htm#page_319), [329](cml25.htm#page_329),
-[357](cml27.htm#page_357)-[358](cml27.htm#page_358),
-[366](cml27.htm#page_366), [367](cml27.htm#page_367),
-[380](cml28.htm#page_380); changes shapes with Arawn, king of Annwn,
-[281](cml21.htm#page_281); his wooing of Rhiannon,
-[282](cml21.htm#page_282)-[286](cml21.htm#page_286); is owner of a magic
-cauldron in Hades [321](cml25.htm#page_321); and keeper of the Holy
+Pwyll, Prince of Dyfed and "Head of Annwn", [273](cml20.htm#page_273.md),
+[274](cml20.htm#page_274.md),
+[278](cml21.htm#page_278)-[288](cml21.htm#page_288.md),
+[298](cml23.htm#page_298), [303](cml23.htm#page_303.md),
+[304](cml23.htm#page_304), [305](cml24.htm#page_305.md),
+[308](cml24.htm#page_308), [316](cml25.htm#page_316.md),
+[319](cml25.htm#page_319), [329](cml25.htm#page_329.md),
+[357](cml27.htm#page_357)-[358](cml27.htm#page_358.md),
+[366](cml27.htm#page_366), [367](cml27.htm#page_367.md),
+[380](cml28.htm#page_380.md); changes shapes with Arawn, king of Annwn,
+[281](cml21.htm#page_281.md); his wooing of Rhiannon,
+[282](cml21.htm#page_282)-[286](cml21.htm#page_286.md); is owner of a magic
+cauldron in Hades [321](cml25.htm#page_321.md); and keeper of the Holy
 Grail in the Morte Darthur,
-[357](cml27.htm#page_357)-[358](cml27.htm#page_358).
+[357](cml27.htm#page_357)-[358](cml27.htm#page_358.md).
 
-Pwynt Maen Dulan, [262](cml20.htm#page_262).
-
- 
-
-Queen Guinevere, [315](cml25.htm#page_315), [334](cml25.htm#page_334),
-[357](cml27.htm#page_357), [359](cml27.htm#page_359),
-[365](cml27.htm#page_365), [375](cml28.htm#page_375),
-[407](cml29.htm#page_407).
-
-"Queen Mab", [246](cml19.htm#page_246).
-
-Queen of the Irish fairies, [243](cml19.htm#page_243),
-[244](cml19.htm#page_244); of the fairies of Munster,
-[244](cml19.htm#page_244); of the fairies of North Munster,
-[244](cml19.htm#page_244); of the fairies of South Munster,
-[244](cml19.htm#page_244).
-
-*Queene, The Fairie*, Spenser's, [7](cml05.htm#page_7)
-
-Quicken-tree, the magic, [219](cml18.htm#page_219).
+Pwynt Maen Dulan, [262](cml20.htm#page_262.md).
 
  
 
-Races of Britain, the, [19](cml07.htm#page_19)-[21](cml07.htm#page_21).
+Queen Guinevere, [315](cml25.htm#page_315), [334](cml25.htm#page_334.md),
+[357](cml27.htm#page_357), [359](cml27.htm#page_359.md),
+[365](cml27.htm#page_365), [375](cml28.htm#page_375.md),
+[407](cml29.htm#page_407.md).
 
-Rathconrath, [69](cml10.htm#page_69).
+"Queen Mab", [246](cml19.htm#page_246.md).
 
-"Realm of Glamour, The", a name for Dyfed, [279](cml21.htm#page_279).
+Queen of the Irish fairies, [243](cml19.htm#page_243.md),
+[244](cml19.htm#page_244.md); of the fairies of Munster,
+[244](cml19.htm#page_244.md); of the fairies of North Munster,
+[244](cml19.htm#page_244.md); of the fairies of South Munster,
+[244](cml19.htm#page_244.md).
 
-Re-birth of Cuchulainn, [37](cml08.htm#page_37); of Finn mac Coul,
-[37](cml08.htm#page_37).
+*Queene, The Fairie*, Spenser's, [7](cml05.htm#page_7.md)
+
+Quicken-tree, the magic, [219](cml18.htm#page_219.md).
+
+ 
+
+Races of Britain, the, [19](cml07.htm#page_19)-[21](cml07.htm#page_21.md).
+
+Rathconrath, [69](cml10.htm#page_69.md).
+
+"Realm of Glamour, The", a name for Dyfed, [279](cml21.htm#page_279.md).
+
+Re-birth of Cuchulainn, [37](cml08.htm#page_37.md); of Finn mac Coul,
+[37](cml08.htm#page_37.md).
 
 Red Book of Hergest, see Hergest.
 
-Red Branch Champions of Ulster, the, [4](cml05.htm#page_4),
-[147](cml15.htm#page_147), [157](cml16.htm#page_157),
-[167](cml16.htm#page_167), [183](cml16.htm#page_183),
-[191](cml17.htm#page_191), [192](cml17.htm#page_192),
-[204](cml18.htm#page_204), [227](cml19.htm#page_227),
-[314](cml25.htm#page_314)
+Red Branch Champions of Ulster, the, [4](cml05.htm#page_4.md),
+[147](cml15.htm#page_147), [157](cml16.htm#page_157.md),
+[167](cml16.htm#page_167), [183](cml16.htm#page_183.md),
+[191](cml17.htm#page_191), [192](cml17.htm#page_192.md),
+[204](cml18.htm#page_204), [227](cml19.htm#page_227.md),
+[314](cml25.htm#page_314.md)
 
-Red Branch House, the, [29](cml07.htm#page_29),
-[196](cml17.htm#page_196), [197](cml17.htm#page_197).
+Red Branch House, the, [29](cml07.htm#page_29.md),
+[196](cml17.htm#page_196), [197](cml17.htm#page_197.md).
 
-Red Dragon of Britain, the, [378](cml28.htm#page_378).
+Red Dragon of Britain, the, [378](cml28.htm#page_378.md).
 
-Redynvre, the stag of, [349](cml26.htm#page_349).
+Redynvre, the stag of, [349](cml26.htm#page_349.md).
 
-Regan, daughter of King Leir, [381](cml28.htm#page_381),
-[382](cml28.htm#page_382).
+Regan, daughter of King Leir, [381](cml28.htm#page_381.md),
+[382](cml28.htm#page_382.md).
 
-Religion, Aryan, [32](cml08.htm#page_32), [47](cml09.htm#page_47).
+Religion, Aryan, [32](cml08.htm#page_32), [47](cml09.htm#page_47.md).
 
-Retaliator, the, the sword of Manannán mac Lir, [60](cml09.htm#page_60),
-[198](cml17.htm#page_198).
+Retaliator, the, the sword of Manannán mac Lir, [60](cml09.htm#page_60.md),
+[198](cml17.htm#page_198.md).
 
-Revelry, the Castle of, [319](cml25.htm#page_319),
-[366](cml27.htm#page_366).
+Revelry, the Castle of, [319](cml25.htm#page_319.md),
+[366](cml27.htm#page_366.md).
 
-Revolving Castle, the, [319](cml25.htm#page_319),
-[366](cml27.htm#page_366).
+Revolving Castle, the, [319](cml25.htm#page_319.md),
+[366](cml27.htm#page_366.md).
 
-*Revue Celtique*, [40](cml08.htm#page_40), [53](cml09.htm#page_53),
-[78](cml11.htm#page_78), [107](cml13.htm#page_107),
-[117](cml13.htm#page_117). [142](cml15.htm#page_142),
-[158](cml16.htm#page_158), [184](cml17.htm#page_184),
-[190](cml17.htm#page_190), [201](cml18.htm#page_201),
-[241](cml19.htm#page_241), [246](cml19.htm#page_246).
+*Revue Celtique*, [40](cml08.htm#page_40), [53](cml09.htm#page_53.md),
+[78](cml11.htm#page_78), [107](cml13.htm#page_107.md),
+[117](cml13.htm#page_117). [142](cml15.htm#page_142.md),
+[158](cml16.htm#page_158), [184](cml17.htm#page_184.md),
+[190](cml17.htm#page_190), [201](cml18.htm#page_201.md),
+[241](cml19.htm#page_241), [246](cml19.htm#page_246.md).
 
-Rhiannon, a British goddess, [273](cml20.htm#page_273),
-[282](cml21.htm#page_282)-[288](cml21.htm#page_288),
-[298](cml23.htm#page_298), [300](cml23.htm#page_300),
-[301](cml23.htm#page_301), [303](cml23.htm#page_303),
-[304](cml23.htm#page_304), [358](cml27.htm#page_358),
-[361](cml27.htm#page_361), [362](cml27.htm#page_362),
-[407](cml29.htm#page_407); her three magic birds,
-[273](cml20.htm#page_273), [294](cml22.htm#page_294),
-[296](cml22.htm#page_296); her name afterwards corrupted into Nimue and
-Vivien, [358](cml27.htm#page_358), [361](cml27.htm#page_361).
+Rhiannon, a British goddess, [273](cml20.htm#page_273.md),
+[282](cml21.htm#page_282)-[288](cml21.htm#page_288.md),
+[298](cml23.htm#page_298), [300](cml23.htm#page_300.md),
+[301](cml23.htm#page_301), [303](cml23.htm#page_303.md),
+[304](cml23.htm#page_304), [358](cml27.htm#page_358.md),
+[361](cml27.htm#page_361), [362](cml27.htm#page_362.md),
+[407](cml29.htm#page_407.md); her three magic birds,
+[273](cml20.htm#page_273), [294](cml22.htm#page_294.md),
+[296](cml22.htm#page_296.md); her name afterwards corrupted into Nimue and
+Vivien, [358](cml27.htm#page_358), [361](cml27.htm#page_361.md).
 
-Rhinnon Rhin Barnawd, the magic bottles of, [346](cml26.htm#page_346).
+Rhinnon Rhin Barnawd, the magic bottles of, [346](cml26.htm#page_346.md).
 
 <span id="page_443">p. 443</span>
 
-Rhonabwy, [336](cml26.htm#page_336), [337](cml26.htm#page_337),
-[338](cml26.htm#page_338); *The Dream of Rhonabwy*,
-[312](cml25.htm#page_312), [337](cml26.htm#page_337),
-[338](cml26.htm#page_338).
+Rhonabwy, [336](cml26.htm#page_336), [337](cml26.htm#page_337.md),
+[338](cml26.htm#page_338.md); *The Dream of Rhonabwy*,
+[312](cml25.htm#page_312), [337](cml26.htm#page_337.md),
+[338](cml26.htm#page_338.md).
 
-Rhyd y Groes, a ford on the Severn, [337](cml26.htm#page_337).
+Rhyd y Groes, a ford on the Severn, [337](cml26.htm#page_337.md).
 
-Rhys, Professor, [22](cml07.htm#page_22), [23](cml07.htm#page_23),
-[35](cml08.htm#page_35), [41](cml08.htm#page_41),
-[44](cml08.htm#page_44), [64](cml09.htm#page_64),
-[68](cml10.htm#page_68), [158](cml16.htm#page_158),
-[205](cml18.htm#page_205), [254](cml20.htm#page_254),
-[256](cml20.htm#page_256), [262](cml20.htm#page_262),
-[282](cml21.htm#page_282), [289](cml22.htm#page_289),
-[307](cml24.htm#page_307), [313](cml25.htm#page_313),
-[316](cml25.htm#page_316), [318](cml25.htm#page_318),
-[319](cml25.htm#page_319), [324](cml25.htm#page_324),
-[331](cml25.htm#page_331), [335](cml25.htm#page_335),
-[352](cml26.htm#page_352), [363](cml27.htm#page_363),
-[370](cml27.htm#page_370), [395](cml28.htm#page_395),
-[404](cml29.htm#page_404), [413](cml29.htm#page_413),
-[414](cml29.htm#page_414). See also *Arthurian Legend* and *Hibbert
+Rhys, Professor, [22](cml07.htm#page_22), [23](cml07.htm#page_23.md),
+[35](cml08.htm#page_35), [41](cml08.htm#page_41.md),
+[44](cml08.htm#page_44), [64](cml09.htm#page_64.md),
+[68](cml10.htm#page_68), [158](cml16.htm#page_158.md),
+[205](cml18.htm#page_205), [254](cml20.htm#page_254.md),
+[256](cml20.htm#page_256), [262](cml20.htm#page_262.md),
+[282](cml21.htm#page_282), [289](cml22.htm#page_289.md),
+[307](cml24.htm#page_307), [313](cml25.htm#page_313.md),
+[316](cml25.htm#page_316), [318](cml25.htm#page_318.md),
+[319](cml25.htm#page_319), [324](cml25.htm#page_324.md),
+[331](cml25.htm#page_331), [335](cml25.htm#page_335.md),
+[352](cml26.htm#page_352), [363](cml27.htm#page_363.md),
+[370](cml27.htm#page_370), [395](cml28.htm#page_395.md),
+[404](cml29.htm#page_404), [413](cml29.htm#page_413.md),
+[414](cml29.htm#page_414.md). See also *Arthurian Legend* and *Hibbert
 Lectures*.
 
-Ri, Roi, an Iberian god, [64](cml09.htm#page_64).
+Ri, Roi, an Iberian god, [64](cml09.htm#page_64.md).
 
-Ribble, the river, [413](cml29.htm#page_413), [414](cml29.htm#page_414).
+Ribble, the river, [413](cml29.htm#page_413), [414](cml29.htm#page_414.md).
 
-Riches, the Castle of, [367](cml27.htm#page_367).
+Riches, the Castle of, [367](cml27.htm#page_367.md).
 
-Rience, King, [357](cml27.htm#page_357).
+Rience, King, [357](cml27.htm#page_357.md).
 
-Rigor, Caer, [319](cml25.htm#page_319).
+Rigor, Caer, [319](cml25.htm#page_319.md).
 
-[Rigisamos](errata.htm#15), a war-god worshipped in Britain,
-[275](cml20.htm#page_275).
+[Rigisamos](errata.htm#15.md), a war-god worshipped in Britain,
+[275](cml20.htm#page_275.md).
 
 Ritual, remains of Celtic,
-[405](cml29.htm#page_405)-[412](cml29.htm#page_412).
+[405](cml29.htm#page_405)-[412](cml29.htm#page_412.md).
 
-Rivers, the twelve chief, of Ireland, [88](cml11.htm#page_88).
+Rivers, the twelve chief, of Ireland, [88](cml11.htm#page_88.md).
 
-Rivers, the worship of, [413](cml29.htm#page_413),
-[414](cml29.htm#page_414).
+Rivers, the worship of, [413](cml29.htm#page_413.md),
+[414](cml29.htm#page_414.md).
 
-Rodrubân, the *sídh* of Lugh, [136](cml15.htm#page_136).
+Rodrubân, the *sídh* of Lugh, [136](cml15.htm#page_136.md).
 
-Romans, the, [23](cml07.htm#page_23), [24](cml07.htm#page_24),
-[25](cml07.htm#page_25), [373](cml28.htm#page_373),
-[385](cml28.htm#page_385), [386](cml28.htm#page_386),
-[399](cml29.htm#page_399), [413](cml29.htm#page_413).
+Romans, the, [23](cml07.htm#page_23), [24](cml07.htm#page_24.md),
+[25](cml07.htm#page_25), [373](cml28.htm#page_373.md),
+[385](cml28.htm#page_385), [386](cml28.htm#page_386.md),
+[399](cml29.htm#page_399), [413](cml29.htm#page_413.md).
 
-Rome, [5](cml05.htm#page_5), [155](cml16.htm#page_155),
-[274](cml20.htm#page_274), [315](cml25.htm#page_315),
-[317](cml25.htm#page_317).
+Rome, [5](cml05.htm#page_5), [155](cml16.htm#page_155.md),
+[274](cml20.htm#page_274), [315](cml25.htm#page_315.md),
+[317](cml25.htm#page_317.md).
 
-Ronan, Clann, [218](cml18.htm#page_218).
+Ronan, Clann, [218](cml18.htm#page_218.md).
 
-Round Table, King Arthur's, [6](cml05.htm#page_6),
-[314](cml25.htm#page_314).
+Round Table, King Arthur's, [6](cml05.htm#page_6.md),
+[314](cml25.htm#page_314.md).
 
-"Round Towers", the, attributed to Goibniu, [233](cml19.htm#page_233).
+"Round Towers", the, attributed to Goibniu, [233](cml19.htm#page_233.md).
 
-Rowan-tree, [219](cml18.htm#page_219), [410](cml29.htm#page_410).
+Rowan-tree, [219](cml18.htm#page_219), [410](cml29.htm#page_410.md).
 
 Ruadan, son of Bress and Brigit,
-[109](cml13.htm#page_109)-[110](cml13.htm#page_110).
+[109](cml13.htm#page_109)-[110](cml13.htm#page_110.md).
 
-*Rude Stone Monuments*, Fergusson's, [76](cml10.htm#page_76),
-[114](cml13.htm#page_114), [137](cml15.htm#page_137),
-[138](cml15.htm#page_138).
+*Rude Stone Monuments*, Fergusson's, [76](cml10.htm#page_76.md),
+[114](cml13.htm#page_114), [137](cml15.htm#page_137.md),
+[138](cml15.htm#page_138.md).
 
-Ryons, King, [357](cml27.htm#page_357).
+Ryons, King, [357](cml27.htm#page_357.md).
 
  
 
-Sacred animals, [406](cml29.htm#page_406), [416](cml29.htm#page_416),
-[417](cml29.htm#page_417); islands, [326](cml25.htm#page_326); fish,
-[416](cml29.htm#page_416); frogs, [416](cml29.htm#page_416); stones,
-[406](cml29.htm#page_406), [415](cml29.htm#page_415),
-[417](cml29.htm#page_417); trees, [406](cml29.htm#page_406),
-[415](cml29.htm#page_415); wells,
-[414](cml29.htm#page_414)-[416](cml29.htm#page_416).
+Sacred animals, [406](cml29.htm#page_406), [416](cml29.htm#page_416.md),
+[417](cml29.htm#page_417); islands, [326](cml25.htm#page_326.md); fish,
+[416](cml29.htm#page_416); frogs, [416](cml29.htm#page_416.md); stones,
+[406](cml29.htm#page_406), [415](cml29.htm#page_415.md),
+[417](cml29.htm#page_417); trees, [406](cml29.htm#page_406.md),
+[415](cml29.htm#page_415.md); wells,
+[414](cml29.htm#page_414)-[416](cml29.htm#page_416.md).
 
-Sacrifices of animals, [406](cml29.htm#page_406),
-[412](cml29.htm#page_412); human, [18](cml07.htm#page_18),
-[37](cml08.htm#page_37)-[40](cml08.htm#page_40),
-[399](cml29.htm#page_399); symbolical human sacrifices,
-[405](cml29.htm#page_405), [410](cml29.htm#page_410),
-[411](cml29.htm#page_411).
+Sacrifices of animals, [406](cml29.htm#page_406.md),
+[412](cml29.htm#page_412); human, [18](cml07.htm#page_18.md),
+[37](cml08.htm#page_37)-[40](cml08.htm#page_40.md),
+[399](cml29.htm#page_399.md); symbolical human sacrifices,
+[405](cml29.htm#page_405), [410](cml29.htm#page_410.md),
+[411](cml29.htm#page_411.md).
 
 Sadb, daughter of Bodb the Red, and mother of Ossian,
-[208](cml18.htm#page_208).
+[208](cml18.htm#page_208.md).
 
-"Sage's seat", the, [85](cml11.htm#page_85), [86](cml11.htm#page_86).
+"Sage's seat", the, [85](cml11.htm#page_85), [86](cml11.htm#page_86.md).
 
-St. Catherine's Hill, [29](cml07.htm#page_29); St. George's Hill,
-[29](cml07.htm#page_29).
+St. Catherine's Hill, [29](cml07.htm#page_29.md); St. George's Hill,
+[29](cml07.htm#page_29.md).
 
-St. Gall MS., the, [232](cml19.htm#page_232).
+St. Gall MS., the, [232](cml19.htm#page_232.md).
 
-Saints, transformation of Celtic gods into, [6](cml05.htm#page_6),
-[228](cml19.htm#page_228), [229](cml19.htm#page_229),
-[372](cml28.htm#page_372), [386](cml28.htm#page_386),
-[389](cml28.htm#page_389). Salisbury Plain, [325](cml25.htm#page_325).
+Saints, transformation of Celtic gods into, [6](cml05.htm#page_6.md),
+[228](cml19.htm#page_228), [229](cml19.htm#page_229.md),
+[372](cml28.htm#page_372), [386](cml28.htm#page_386.md),
+[389](cml28.htm#page_389). Salisbury Plain, [325](cml25.htm#page_325.md).
 
-Salmon of Knowledge, the, [55](cml09.htm#page_55),
-[210](cml18.htm#page_210); of Llyn Llyw, [350](cml26.htm#page_350).
+Salmon of Knowledge, the, [55](cml09.htm#page_55.md),
+[210](cml18.htm#page_210); of Llyn Llyw, [350](cml26.htm#page_350.md).
 
-Samhain, the Celtic winter festival, [40](cml08.htm#page_40),
-[42](cml08.htm#page_42), [67](cml10.htm#page_67),
-[107](cml13.htm#page_107), [108](cml13.htm#page_108),
-[286](cml21.htm#page_286), [406](cml29.htm#page_406),
-[407](cml29.htm#page_407), [408](cml29.htm#page_408),
-[410](cml29.htm#page_410), [411](cml29.htm#page_411).
+Samhain, the Celtic winter festival, [40](cml08.htm#page_40.md),
+[42](cml08.htm#page_42), [67](cml10.htm#page_67.md),
+[107](cml13.htm#page_107), [108](cml13.htm#page_108.md),
+[286](cml21.htm#page_286), [406](cml29.htm#page_406.md),
+[407](cml29.htm#page_407), [408](cml29.htm#page_408.md),
+[410](cml29.htm#page_410), [411](cml29.htm#page_411.md).
 
-*Samhanach*, [408](cml29.htm#page_408).
+*Samhanach*, [408](cml29.htm#page_408.md).
 
-Sarn Elen, [324](cml25.htm#page_324).
+Sarn Elen, [324](cml25.htm#page_324.md).
 
-Sarrlog, [386](cml28.htm#page_386); Caer Sarrlog,
-[386](cml28.htm#page_386).
+Sarrlog, [386](cml28.htm#page_386.md); Caer Sarrlog,
+[386](cml28.htm#page_386.md).
 
-Satires, magical, [83](cml11.htm#page_83), [87](cml11.htm#page_87),
-[172](cml16.htm#page_172), [182](cml16.htm#page_182). Scathach the
-Amazon, [163](cml16.htm#page_163), [164](cml16.htm#page_164),
-[172](cml16.htm#page_172), [173](cml16.htm#page_173),
-[176](cml16.htm#page_176).
+Satires, magical, [83](cml11.htm#page_83), [87](cml11.htm#page_87.md),
+[172](cml16.htm#page_172), [182](cml16.htm#page_182.md). Scathach the
+Amazon, [163](cml16.htm#page_163), [164](cml16.htm#page_164.md),
+[172](cml16.htm#page_172), [173](cml16.htm#page_173.md),
+[176](cml16.htm#page_176.md).
 
-Scêné, the river, [121](cml14.htm#page_121).
+Scêné, the river, [121](cml14.htm#page_121.md).
 
-Scot, Eber, a mythical ancestor of the Gaels, [120](cml14.htm#page_120).
+Scot, Eber, a mythical ancestor of the Gaels, [120](cml14.htm#page_120.md).
 
-[Scôta](errata.htm#16), [120](cml14.htm#page_120).
+[Scôta](errata.htm#16), [120](cml14.htm#page_120.md).
 
-Scotti, [357](cml27.htm#page_357).
+Scotti, [357](cml27.htm#page_357.md).
 
-Sea, Celtic ideas regarding the, [48](cml09.htm#page_48),
-[261](cml20.htm#page_261), [270](cml20.htm#page_270).
+Sea, Celtic ideas regarding the, [48](cml09.htm#page_48.md),
+[261](cml20.htm#page_261), [270](cml20.htm#page_270.md).
 
 *Second Battle of Moytura, The*, the Harleian MS. called,
-[50](cml09.htm#page_50), [54](cml09.htm#page_54),
-[72](cml10.htm#page_72),
-[78](cml11.htm#page_78),[107](cml13.htm#page_107).
+[50](cml09.htm#page_50), [54](cml09.htm#page_54.md),
+[72](cml10.htm#page_72.md),
+[78](cml11.htm#page_78),[107](cml13.htm#page_107.md).
 
-*Seint Greal*, the, [322](cml25.htm#page_322),
-[326](cml25.htm#page_326), [368](cml27.htm#page_368).
+*Seint Greal*, the, [322](cml25.htm#page_322.md),
+[326](cml25.htm#page_326), [368](cml27.htm#page_368.md).
 
-Senchan Torpeist, [14](cml06.htm#page_14).
+Senchan Torpeist, [14](cml06.htm#page_14.md).
 
 *Sen Mag*, see Old Plain.
 
-Serapis worshipped at York, [275](cml20.htm#page_275).
+Serapis worshipped at York, [275](cml20.htm#page_275.md).
 
-Setanta, original name of Cuchulainn, [160](cml16.htm#page_160),
-[161](cml16.htm#page_161).
+Setanta, original name of Cuchulainn, [160](cml16.htm#page_160.md),
+[161](cml16.htm#page_161.md).
 
-Severn, the river, [254](cml20.htm#page_254), [337](cml26.htm#page_337),
-[350](cml26.htm#page_350), [352](cml26.htm#page_352),
-[353](cml26.htm#page_353).
+Severn, the river, [254](cml20.htm#page_254), [337](cml26.htm#page_337.md),
+[350](cml26.htm#page_350), [352](cml26.htm#page_352.md),
+[353](cml26.htm#page_353.md).
 
-Sgeolan, one of Finn's hounds, [213](cml18.htm#page_213).
+Sgeolan, one of Finn's hounds, [213](cml18.htm#page_213.md).
 
-"Shadowy Town, or City", [175](cml16.htm#page_175),
-[366](cml27.htm#page_366).
+"Shadowy Town, or City", [175](cml16.htm#page_175.md),
+[366](cml27.htm#page_366.md).
 
-Shakespeare, [5](cml05.htm#page_5), [259](cml20.htm#page_259),
-[270](cml20.htm#page_270), [381](cml28.htm#page_381),
-[393](cml28.htm#page_393), [408](cml29.htm#page_408).
+Shakespeare, [5](cml05.htm#page_5), [259](cml20.htm#page_259.md),
+[270](cml20.htm#page_270), [381](cml28.htm#page_381.md),
+[393](cml28.htm#page_393), [408](cml29.htm#page_408.md).
 
-Shannon, the river, [88](cml11.htm#page_88), [165](cml16.htm#page_165),
-[292](cml22.htm#page_292).
+Shannon, the river, [88](cml11.htm#page_88), [165](cml16.htm#page_165.md),
+[292](cml22.htm#page_292.md).
 
-"Shape-shifting", [37](cml08.htm#page_37).
+"Shape-shifting", [37](cml08.htm#page_37.md).
 
-Sharvan the Surly, [219](cml18.htm#page_219).
+Sharvan the Surly, [219](cml18.htm#page_219.md).
 
-Shield, Conchobar's magic, [197](cml17.htm#page_197).
+Shield, Conchobar's magic, [197](cml17.htm#page_197.md).
 
-Shony, a Hebridean sea-god, [410](cml29.htm#page_410).
+Shony, a Hebridean sea-god, [410](cml29.htm#page_410.md).
 
-Shouts on a hill, the three, [94](cml12.htm#page_94),
-[97](cml12.htm#page_97), [105](cml12.htm#page_105),
-[106](cml12.htm#page_106).
+Shouts on a hill, the three, [94](cml12.htm#page_94.md),
+[97](cml12.htm#page_97), [105](cml12.htm#page_105.md),
+[106](cml12.htm#page_106.md).
 
-Sicily, [96](cml12.htm#page_96), [102](cml12.htm#page_102).
+Sicily, [96](cml12.htm#page_96), [102](cml12.htm#page_102.md).
 
-*Sídh* Airceltrai, [136](cml15.htm#page_136); Bodb,
-[136](cml15.htm#page_136); Eas Aedha Ruaidh, [136](cml15.htm#page_136);
-Fionnachaidh, [136](cml15.htm#page_136), [140](cml15.htm#page_140),
-[142](cml15.htm#page_142), [146](cml15.htm#page_146),
-[222](cml18.htm#page_222); Meadha, [136](cml15.htm#page_136),
-[243](cml19.htm#page_243); Rodrubân, [136](cml15.htm#page_136).
+*Sídh* Airceltrai, [136](cml15.htm#page_136.md); Bodb,
+[136](cml15.htm#page_136); Eas Aedha Ruaidh, [136](cml15.htm#page_136.md);
+Fionnachaidh, [136](cml15.htm#page_136), [140](cml15.htm#page_140.md),
+[142](cml15.htm#page_142), [146](cml15.htm#page_146.md),
+[222](cml18.htm#page_222); Meadha, [136](cml15.htm#page_136.md),
+[243](cml19.htm#page_243); Rodrubân, [136](cml15.htm#page_136.md).
 
-*Sídhe*, "fairy mounds", [135](cml15.htm#page_135),
-[136](cml15.htm#page_136), [139](cml15.htm#page_139),
-[181](cml16.htm#page_181).
+*Sídhe*, "fairy mounds", [135](cml15.htm#page_135.md),
+[136](cml15.htm#page_136), [139](cml15.htm#page_139.md),
+[181](cml16.htm#page_181.md).
 
-*Sídhe, The*, the Gaelic gods, or fairies, [136](cml15.htm#page_136),
-[223](cml18.htm#page_223), [244](cml19.htm#page_244),
-[246](cml19.htm#page_246).
+*Sídhe, The*, the Gaelic gods, or fairies, [136](cml15.htm#page_136.md),
+[223](cml18.htm#page_223), [244](cml19.htm#page_244.md),
+[246](cml19.htm#page_246.md).
 
-Sidi, Caer, [319](cml25.htm#page_319), [321](cml25.htm#page_321),
-[322](cml25.htm#page_322), [368](cml27.htm#page_368).
+Sidi, Caer, [319](cml25.htm#page_319), [321](cml25.htm#page_321.md),
+[322](cml25.htm#page_322), [368](cml27.htm#page_368.md).
 
-Silures, tribe of the, [22](cml07.htm#page_22).
+Silures, tribe of the, [22](cml07.htm#page_22.md).
 
-Silurian race, the, [19](cml07.htm#page_19).
+Silurian race, the, [19](cml07.htm#page_19.md).
 
-Silver Hand, Nuada's, [51](cml09.htm#page_51), [78](cml11.htm#page_78),
-[81](cml11.htm#page_81), [253](cml20.htm#page_253); Lludd's
-[253](cml20.htm#page_253).
+Silver Hand, Nuada's, [51](cml09.htm#page_51), [78](cml11.htm#page_78.md),
+[81](cml11.htm#page_81), [253](cml20.htm#page_253.md); Lludd's
+[253](cml20.htm#page_253.md).
 
-Sinann, goddess of the Shannon, [56](cml09.htm#page_56).
+Sinann, goddess of the Shannon, [56](cml09.htm#page_56.md).
 
-Skene, Dr. W. F., [71](cml10.htm#page_71), [123](cml14.htm#page_123),
-[256](cml20.htm#page_256), [258](cml20.htm#page_258)
-[311](cml24.htm#page_311), [312](cml25.htm#page_312),
-[316](cml25.htm#page_316), [317](cml25.htm#page_317),
-[319](cml25.htm#page_319), [328](cml25.htm#page_328),
-[334](cml25.htm#page_334).
+Skene, Dr. W. F., [71](cml10.htm#page_71), [123](cml14.htm#page_123.md),
+[256](cml20.htm#page_256), [258](cml20.htm#page_258.md)
+[311](cml24.htm#page_311), [312](cml25.htm#page_312.md),
+[316](cml25.htm#page_316), [317](cml25.htm#page_317.md),
+[319](cml25.htm#page_319), [328](cml25.htm#page_328.md),
+[334](cml25.htm#page_334.md).
 
 <span id="page_444">p. 444</span>
 
-Skye, Isle of, [163](cml16.htm#page_163).
+Skye, Isle of, [163](cml16.htm#page_163.md).
 
 Slecht, Mag. See Mag Slecht.
 
-Slieve Bloom, [209](cml18.htm#page_209); Slieve Fuad,
-[136](cml15.htm#page_136); Slieve Mish, [130](cml14.htm#page_130).
+Slieve Bloom, [209](cml18.htm#page_209.md); Slieve Fuad,
+[136](cml15.htm#page_136); Slieve Mish, [130](cml14.htm#page_130.md).
 
-Smallpox, goddess of the, [413](cml29.htm#page_413).
+Smallpox, goddess of the, [413](cml29.htm#page_413.md).
 
-Snowdon, [267](cml20.htm#page_267), [305](cml24.htm#page_305),
-[335](cml25.htm#page_335), [380](cml28.htm#page_380).
+Snowdon, [267](cml20.htm#page_267), [305](cml24.htm#page_305.md),
+[335](cml25.htm#page_335), [380](cml28.htm#page_380.md).
 
 Sol Apollo Anicetus, a sun-god worshipped at Bath,
-[275](cml20.htm#page_275).
+[275](cml20.htm#page_275.md).
 
-Solar festivals of the Celts, [41](cml08.htm#page_41),
-[405](cml29.htm#page_405)-[412](cml29.htm#page_412).
+Solar festivals of the Celts, [41](cml08.htm#page_41.md),
+[405](cml29.htm#page_405)-[412](cml29.htm#page_412.md).
 
-Solinus, Caius Julius, [228](cml19.htm#page_228).
+Solinus, Caius Julius, [228](cml19.htm#page_228.md).
 
-Somerset, [329](cml25.htm#page_329).
+Somerset, [329](cml25.htm#page_329.md).
 
 "Son of the Young", see Mac Oc.
 
-Sore, the river, [383](cml28.htm#page_383).
+Sore, the river, [383](cml28.htm#page_383.md).
 
-*Sorrowful Stories of Erin, The Three*, [106](cml12.htm#page_106).
+*Sorrowful Stories of Erin, The Three*, [106](cml12.htm#page_106.md).
 
-Spain, [22](cml07.htm#page_22), [121](cml14.htm#page_121); used as an
-euphemism for the Celtic Other World, [68](cml10.htm#page_68),
-[120](cml14.htm#page_120), [121](cml14.htm#page_121),
-[230](cml19.htm#page_230), [386](cml28.htm#page_386).
+Spain, [22](cml07.htm#page_22), [121](cml14.htm#page_121.md); used as an
+euphemism for the Celtic Other World, [68](cml10.htm#page_68.md),
+[120](cml14.htm#page_120), [121](cml14.htm#page_121.md),
+[230](cml19.htm#page_230), [386](cml28.htm#page_386.md).
 
-Spear of Lugh, [62](cml09.htm#page_62), [97](cml12.htm#page_97); of
-Pisear, king of Persia, [96](cml12.htm#page_96),
-[97](cml12.htm#page_97), [101](cml12.htm#page_101),
-[103](cml12.htm#page_103).
+Spear of Lugh, [62](cml09.htm#page_62), [97](cml12.htm#page_97.md); of
+Pisear, king of Persia, [96](cml12.htm#page_96.md),
+[97](cml12.htm#page_97), [101](cml12.htm#page_101.md),
+[103](cml12.htm#page_103.md).
 
-"Spearman with the Long Shaft", [369](cml27.htm#page_369).
+"Spearman with the Long Shaft", [369](cml27.htm#page_369.md).
 
-Speech, Aryan, [21](cml07.htm#page_21), [31](cml08.htm#page_31).
+Speech, Aryan, [21](cml07.htm#page_21), [31](cml08.htm#page_31.md).
 
-Spenser, [7](cml05.htm#page_7), [389](cml28.htm#page_389).
+Spenser, [7](cml05.htm#page_7), [389](cml28.htm#page_389.md).
 
-Spey, the river, [414](cml29.htm#page_414).
+Spey, the river, [414](cml29.htm#page_414.md).
 
-"Splendid Mane", the horse of Manannán mac Lir, [60](cml09.htm#page_60),
-[88](cml11.htm#page_88), [98](cml12.htm#page_98).
+"Splendid Mane", the horse of Manannán mac Lir, [60](cml09.htm#page_60.md),
+[88](cml11.htm#page_88), [98](cml12.htm#page_98.md).
 
-*Spoiling of Annwn, The*, a poem of Taliesin, [306](cml24.htm#page_306),
-[317](cml25.htm#page_317)-[321](cml25.htm#page_321),
-[366](cml27.htm#page_366).
+*Spoiling of Annwn, The*, a poem of Taliesin, [306](cml24.htm#page_306.md),
+[317](cml25.htm#page_317)-[321](cml25.htm#page_321.md),
+[366](cml27.htm#page_366.md).
 
-"Spring of Health", the, [110](cml13.htm#page_110).
+"Spring of Health", the, [110](cml13.htm#page_110.md).
 
-Sreng, a warrior of the Fir Bolgs, [75](cml10.htm#page_75).
+Sreng, a warrior of the Fir Bolgs, [75](cml10.htm#page_75.md).
 
-Stag of Redynvre, the, [349](cml26.htm#page_349).
+Stag of Redynvre, the, [349](cml26.htm#page_349.md).
 
-Stokes, Dr. Whitley, [40](cml08.htm#page_40), [50](cml09.htm#page_50),
-[72](cml10.htm#page_72), [78](cml11.htm#page_78),
-[107](cml13.htm#page_107), [152](cml15.htm#page_152),
-[190](cml17.htm#page_190), [203](cml18.htm#page_203),
-[417](cml29.htm#page_417).
+Stokes, Dr. Whitley, [40](cml08.htm#page_40), [50](cml09.htm#page_50.md),
+[72](cml10.htm#page_72), [78](cml11.htm#page_78.md),
+[107](cml13.htm#page_107), [152](cml15.htm#page_152.md),
+[190](cml17.htm#page_190), [203](cml18.htm#page_203.md),
+[417](cml29.htm#page_417.md).
 
-Stone, Black, of Arddhu, [305](cml24.htm#page_305); Coronation,
-[71](cml10.htm#page_71); of Destiny, [72](cml10.htm#page_72); of
-Kineely, [239](cml19.htm#page_239).
+Stone, Black, of Arddhu, [305](cml24.htm#page_305.md); Coronation,
+[71](cml10.htm#page_71); of Destiny, [72](cml10.htm#page_72.md); of
+Kineely, [239](cml19.htm#page_239.md).
 
-Stones, worship of, [406](cml29.htm#page_406),
-[415](cml29.htm#page_415). Stonehenge, [42](cml08.htm#page_42),
-[324](cml25.htm#page_324), [325](cml25.htm#page_325).
+Stones, worship of, [406](cml29.htm#page_406.md),
+[415](cml29.htm#page_415). Stonehenge, [42](cml08.htm#page_42.md),
+[324](cml25.htm#page_324), [325](cml25.htm#page_325.md).
 
-Strabo, [22](cml07.htm#page_22), [399](cml29.htm#page_399).
+Strabo, [22](cml07.htm#page_22), [399](cml29.htm#page_399.md).
 
-Strachey, Sir Edward, [356](cml27.htm#page_356).
+Strachey, Sir Edward, [356](cml27.htm#page_356.md).
 
-*Study of Celtic Literature*, Matthew Arnold's, [3](cml05.htm#page_3),
-[16](cml06.htm#page_16), [356](cml27.htm#page_356).
+*Study of Celtic Literature*, Matthew Arnold's, [3](cml05.htm#page_3.md),
+[16](cml06.htm#page_16), [356](cml27.htm#page_356.md).
 
-Sualtam, the mortal father of Cuchulainn, [159](cml16.htm#page_159),
-[160](cml16.htm#page_160), [173](cml16.htm#page_173),
-[174](cml16.htm#page_174).
+Sualtam, the mortal father of Cuchulainn, [159](cml16.htm#page_159.md),
+[160](cml16.htm#page_160), [173](cml16.htm#page_173.md),
+[174](cml16.htm#page_174.md).
 
-Suir, the river, [165](cml16.htm#page_165).
+Suir, the river, [165](cml16.htm#page_165.md).
 
-Sul, a goddess worshipped at Bath, [228](cml19.htm#page_228),
-[275](cml20.htm#page_275).
+Sul, a goddess worshipped at Bath, [228](cml19.htm#page_228.md),
+[275](cml20.htm#page_275.md).
 
 "Summer, the Land of", *i.e.* the Celtic Other World,
-[119](cml14.htm#page_119), [329](cml25.htm#page_329).
+[119](cml14.htm#page_119), [329](cml25.htm#page_329.md).
 
-Sun, worship of the, [41](cml08.htm#page_41), [42](cml08.htm#page_42);
+Sun, worship of the, [41](cml08.htm#page_41), [42](cml08.htm#page_42.md);
 Cuchulainn a personification of the,
-[158](cml16.htm#page_158)-[159](cml16.htm#page_159).
+[158](cml16.htm#page_158)-[159](cml16.htm#page_159.md).
 
 Swans, Caer and Angus take the forms of,
-[141](cml15.htm#page_141)-[142](cml15.htm#page_142); the children of Lêr
-changed into, [143](cml15.htm#page_143); Mider and Etain become,
-[151](cml15.htm#page_151).
+[141](cml15.htm#page_141)-[142](cml15.htm#page_142.md); the children of Lêr
+changed into, [143](cml15.htm#page_143.md); Mider and Etain become,
+[151](cml15.htm#page_151.md).
 
-Sword, of Manannán, [60](cml09.htm#page_60), [198](cml17.htm#page_198);
-of Nuada, [51](cml09.htm#page_51); of Gwrnach the Giant,
-[346](cml26.htm#page_346), [348](cml26.htm#page_348).
+Sword, of Manannán, [60](cml09.htm#page_60), [198](cml17.htm#page_198.md);
+of Nuada, [51](cml09.htm#page_51.md); of Gwrnach the Giant,
+[346](cml26.htm#page_346), [348](cml26.htm#page_348.md).
 
-Swinburne, [6](cml05.htm#page_6).
+Swinburne, [6](cml05.htm#page_6.md).
 
 Swineherds, the rival,
-[164](cml16.htm#page_164)-[165](cml16.htm#page_165).
+[164](cml16.htm#page_164)-[165](cml16.htm#page_165.md).
 
  
 
-Table Round, the, [6](cml05.htm#page_6), [354](cml27.htm#page_354),
-[371](cml28.htm#page_371).
+Table Round, the, [6](cml05.htm#page_6), [354](cml27.htm#page_354.md),
+[371](cml28.htm#page_371.md).
 
 Taboos, Celtic. See Destiny, *Geasa*.
 
-Tacitus, [22](cml07.htm#page_22), [24](cml07.htm#page_24),
-[387](cml28.htm#page_387), [400](cml29.htm#page_400).
+Tacitus, [22](cml07.htm#page_22), [24](cml07.htm#page_24.md),
+[387](cml28.htm#page_387), [400](cml29.htm#page_400.md).
 
 Tailtiu, the Gaelic gods defeated by the Milesians at,
-[130](cml14.htm#page_130).
+[130](cml14.htm#page_130.md).
 
-*Táin Bó Chuailgné*, [10](cml06.htm#page_10), [14](cml06.htm#page_14),
-[28](cml07.htm#page_28), [159](cml16.htm#page_159),
-[164](cml16.htm#page_164), [175](cml16.htm#page_175).
+*Táin Bó Chuailgné*, [10](cml06.htm#page_10), [14](cml06.htm#page_14.md),
+[28](cml07.htm#page_28), [159](cml16.htm#page_159.md),
+[164](cml16.htm#page_164), [175](cml16.htm#page_175.md).
 
-Taliesin, [11](cml06.htm#page_11), [123](cml14.htm#page_123),
-[124](cml14.htm#page_124), [261](cml20.htm#page_261),
-[271](cml20.htm#page_271), [273](cml20.htm#page_273),
-[294](cml22.htm#page_294), [296](cml22.htm#page_296),
-[306](cml24.htm#page_306), [317](cml25.htm#page_317),
-[318](cml25.htm#page_318), [320](cml25.htm#page_320),
-[321](cml25.htm#page_321), [328](cml25.htm#page_328),
-[356](cml27.htm#page_356), [366](cml27.htm#page_366),
-[367](cml27.htm#page_367).
+Taliesin, [11](cml06.htm#page_11), [123](cml14.htm#page_123.md),
+[124](cml14.htm#page_124), [261](cml20.htm#page_261.md),
+[271](cml20.htm#page_271), [273](cml20.htm#page_273.md),
+[294](cml22.htm#page_294), [296](cml22.htm#page_296.md),
+[306](cml24.htm#page_306), [317](cml25.htm#page_317.md),
+[318](cml25.htm#page_318), [320](cml25.htm#page_320.md),
+[321](cml25.htm#page_321), [328](cml25.htm#page_328.md),
+[356](cml27.htm#page_356), [366](cml27.htm#page_366.md),
+[367](cml27.htm#page_367.md).
 
-Taliesin, the Book of, [11](cml06.htm#page_11),
-[123](cml14.htm#page_123), [261](cml20.htm#page_261),
-[271](cml20.htm#page_271), [273](cml20.htm#page_273),
-[306](cml24.htm#page_306), [317](cml25.htm#page_317),
-[318](cml25.htm#page_318), [321](cml25.htm#page_321),
-[328](cml25.htm#page_328).
+Taliesin, the Book of, [11](cml06.htm#page_11.md),
+[123](cml14.htm#page_123), [261](cml20.htm#page_261.md),
+[271](cml20.htm#page_271), [273](cml20.htm#page_273.md),
+[306](cml24.htm#page_306), [317](cml25.htm#page_317.md),
+[318](cml25.htm#page_318), [321](cml25.htm#page_321.md),
+[328](cml25.htm#page_328.md).
 
-Tallacht, burial-place of Partholon's people, [66](cml10.htm#page_66).
+Tallacht, burial-place of Partholon's people, [66](cml10.htm#page_66.md).
 
-Tara, [29](cml07.htm#page_29), [72](cml10.htm#page_72),
-[84](cml11.htm#page_84), [93](cml12.htm#page_93),
-[98](cml12.htm#page_98), [105](cml12.htm#page_105),
-[125](cml14.htm#page_125), [126](cml14.htm#page_126),
-[129](cml14.htm#page_129), [147](cml15.htm#page_147),
-[153](cml16.htm#page_153), [189](cml17.htm#page_189),
-[190](cml17.htm#page_190), [216](cml18.htm#page_216),
-[230](cml19.htm#page_230).
+Tara, [29](cml07.htm#page_29), [72](cml10.htm#page_72.md),
+[84](cml11.htm#page_84), [93](cml12.htm#page_93.md),
+[98](cml12.htm#page_98), [105](cml12.htm#page_105.md),
+[125](cml14.htm#page_125), [126](cml14.htm#page_126.md),
+[129](cml14.htm#page_129), [147](cml15.htm#page_147.md),
+[153](cml16.htm#page_153), [189](cml17.htm#page_189.md),
+[190](cml17.htm#page_190), [216](cml18.htm#page_216.md),
+[230](cml19.htm#page_230.md).
 
-Taran, [294](cml22.htm#page_294).
+Taran, [294](cml22.htm#page_294.md).
 
-Taranis, [294](cml22.htm#page_294).
+Taranis, [294](cml22.htm#page_294.md).
 
-*Tathlum*, a sling-stone, [112](cml13.htm#page_112),
-[113](cml13.htm#page_113).
+*Tathlum*, a sling-stone, [112](cml13.htm#page_112.md),
+[113](cml13.htm#page_113.md).
 
 Tawë, a river in South Wales, sacred to Gwyn ap Nudd,
-[257](cml20.htm#page_257), [279](cml21.htm#page_279),
-[392](cml28.htm#page_392), [405](cml29.htm#page_405).
+[257](cml20.htm#page_257), [279](cml21.htm#page_279.md),
+[392](cml28.htm#page_392), [405](cml29.htm#page_405.md).
 
-Tegla's well, Saint, [415](cml29.htm#page_415).
+Tegla's well, Saint, [415](cml29.htm#page_415.md).
 
-Teirnyon Twryf Vliant, [287](cml21.htm#page_287),
-[288](cml21.htm#page_288), [358](cml27.htm#page_358),
-[407](cml29.htm#page_407).
+Teirnyon Twryf Vliant, [287](cml21.htm#page_287.md),
+[288](cml21.htm#page_288), [358](cml27.htm#page_358.md),
+[407](cml29.htm#page_407.md).
 
-Teirtu, the harp of, [346](cml26.htm#page_346).
+Teirtu, the harp of, [346](cml26.htm#page_346.md).
 
 Telltown, see Tailtiu.
 
 Temple of Nodens at Lydney,
-[253](cml20.htm#page_253)-[254](cml20.htm#page_254); St. Paul's
-cathedral occupying the site of a, [254](cml20.htm#page_254); sacrifices
-of cattle on the site of a, [413](cml29.htm#page_413); ancient British
-temples still standing in the sixth century, [400](cml29.htm#page_400).
+[253](cml20.htm#page_253)-[254](cml20.htm#page_254.md); St. Paul's
+cathedral occupying the site of a, [254](cml20.htm#page_254.md); sacrifices
+of cattle on the site of a, [413](cml29.htm#page_413.md); ancient British
+temples still standing in the sixth century, [400](cml29.htm#page_400.md).
 
-Tennyson, [6](cml05.htm#page_6), [133](cml15.htm#page_133),
-[260](cml20.htm#page_260), [274](cml20.htm#page_274),
-[297](cml22.htm#page_297), [312](cml25.htm#page_312),
-[354](cml27.htm#page_354), [355](cml27.htm#page_355),
-[358](cml27.htm#page_358), [361](cml27.htm#page_361),
-[362](cml27.htm#page_362).
+Tennyson, [6](cml05.htm#page_6), [133](cml15.htm#page_133.md),
+[260](cml20.htm#page_260), [274](cml20.htm#page_274.md),
+[297](cml22.htm#page_297), [312](cml25.htm#page_312.md),
+[354](cml27.htm#page_354), [355](cml27.htm#page_355.md),
+[358](cml27.htm#page_358), [361](cml27.htm#page_361.md),
+[362](cml27.htm#page_362.md).
 
-"Terrace cultivation", [20](cml07.htm#page_20).
+"Terrace cultivation", [20](cml07.htm#page_20.md).
 
-"Terrestrial gods and goddesses", [156](cml16.htm#page_156).
+"Terrestrial gods and goddesses", [156](cml16.htm#page_156.md).
 
 "Terrible Broom, The", name of the banner of Oscar's battalion,
-[209](cml18.htm#page_209).
+[209](cml18.htm#page_209.md).
 
-Tethra, a king of the Fomors, [83](cml11.htm#page_83),
-[90](cml12.htm#page_90).
+Tethra, a king of the Fomors, [83](cml11.htm#page_83.md),
+[90](cml12.htm#page_90.md).
 
-Teutates, a god of the Gauls, [51](cml09.htm#page_51),
-[52](cml09.htm#page_52).
+Teutates, a god of the Gauls, [51](cml09.htm#page_51.md),
+[52](cml09.htm#page_52.md).
 
-Thames, the river, [254](cml20.htm#page_254).
+Thames, the river, [254](cml20.htm#page_254.md).
 
-Theseus, [153](cml16.htm#page_153).
+Theseus, [153](cml16.htm#page_153.md).
 
-Thirteen Treasures of Britain, the, [313](cml25.htm#page_313),
-[326](cml25.htm#page_326), [339](cml26.htm#page_339),
-[340](cml26.htm#page_340).
+Thirteen Treasures of Britain, the, [313](cml25.htm#page_313.md),
+[326](cml25.htm#page_326), [339](cml26.htm#page_339.md),
+[340](cml26.htm#page_340.md).
 
 <span id="page_445">p. 445</span>
 
-Three Birds of Rhiannon, the, [273](cml20.htm#page_273),
-[294](cml22.htm#page_294), [296](cml22.htm#page_296).
+Three Birds of Rhiannon, the, [273](cml20.htm#page_273.md),
+[294](cml22.htm#page_294), [296](cml22.htm#page_296.md).
 
-Three Chief Holy Families of Britain, [386](cml28.htm#page_386).
+Three Chief Holy Families of Britain, [386](cml28.htm#page_386.md).
 
-Three Counselling Knights of Arthur, [312](cml25.htm#page_312).
+Three Counselling Knights of Arthur, [312](cml25.htm#page_312.md).
 
-Three Cows of Mider, [57](cml09.htm#page_57), [176](cml16.htm#page_176).
+Three Cows of Mider, [57](cml09.htm#page_57), [176](cml16.htm#page_176.md).
 
-Three Cranes of Denial and Churlishness, [57](cml09.htm#page_57).
+Three Cranes of Denial and Churlishness, [57](cml09.htm#page_57.md).
 
-Three Criminal Resolutions of Britain, [334](cml25.htm#page_334).
+Three Criminal Resolutions of Britain, [334](cml25.htm#page_334.md).
 
-Three Etains, [331](cml25.htm#page_331).
+Three Etains, [331](cml25.htm#page_331.md).
 
-Three Frivolous Battles of Britain, [334](cml25.htm#page_334).
+Three Frivolous Battles of Britain, [334](cml25.htm#page_334.md).
 
-Three Generous Heroes of Britain, [253](cml20.htm#page_253).
+Three Generous Heroes of Britain, [253](cml20.htm#page_253.md).
 
-Three Gwynhwyvars, [333](cml25.htm#page_333).
+Three Gwynhwyvars, [333](cml25.htm#page_333.md).
 
 Three Paramount Prisoners of Britain,
-[350](cml26.htm#page_350)-[351](cml26.htm#page_351).
+[350](cml26.htm#page_350)-[351](cml26.htm#page_351.md).
 
-Three Plagues of Britain, [253](cml20.htm#page_253),
-[377](cml28.htm#page_377)-[380](cml28.htm#page_380).
+Three Plagues of Britain, [253](cml20.htm#page_253.md),
+[377](cml28.htm#page_377)-[380](cml28.htm#page_380.md).
 
-Three shouts on a hill, [94](cml12.htm#page_94),
-[97](cml12.htm#page_97), [105](cml12.htm#page_105),
-[106](cml12.htm#page_106).
+Three shouts on a hill, [94](cml12.htm#page_94.md),
+[97](cml12.htm#page_97), [105](cml12.htm#page_105.md),
+[106](cml12.htm#page_106.md).
 
-Three Sorrowful Stories of Erin, [106](cml12.htm#page_106).
+Three Sorrowful Stories of Erin, [106](cml12.htm#page_106.md).
 
-Three War-knights of Arthur, [312](cml25.htm#page_312).
+Three War-knights of Arthur, [312](cml25.htm#page_312.md).
 
-Three Wicked Uncoverings of Britain, [297](cml22.htm#page_297).
+Three Wicked Uncoverings of Britain, [297](cml22.htm#page_297.md).
 
-Tiberius, the Emperor, [400](cml29.htm#page_400).
+Tiberius, the Emperor, [400](cml29.htm#page_400.md).
 
 Tigernmas, a mythical Irish king,
-[153](cml16.htm#page_153)-[154](cml16.htm#page_154).
+[153](cml16.htm#page_153)-[154](cml16.htm#page_154.md).
 
-Tighernach, an old Irish chronicler, [204](cml18.htm#page_204).
+Tighernach, an old Irish chronicler, [204](cml18.htm#page_204.md).
 
 *Tir nam beo*, see Land of the Living.
 
@@ -4181,300 +4181,300 @@ Tighernach, an old Irish chronicler, [204](cml18.htm#page_204).
 
 *Tir Tairngiré*, see Land of Promise.
 
-Titania, [393](cml28.htm#page_393).
+Titania, [393](cml28.htm#page_393.md).
 
-Tomb of the Dagda, [138](cml15.htm#page_138).
+Tomb of the Dagda, [138](cml15.htm#page_138.md).
 
 Tombs of the Tuatha Dé Danann,
-[138](cml15.htm#page_138)-[139](cml15.htm#page_139).
+[138](cml15.htm#page_138)-[139](cml15.htm#page_139.md).
 
 Torpeist, Senchan. See Senchan.
 
-Tory Island, [49](cml09.htm#page_49), [67](cml10.htm#page_67),
-[238](cml19.htm#page_238).
+Tory Island, [49](cml09.htm#page_49), [67](cml10.htm#page_67.md),
+[238](cml19.htm#page_238.md).
 
-Toutates, a war-god worshipped in Britain, [275](cml20.htm#page_275).
+Toutates, a war-god worshipped in Britain, [275](cml20.htm#page_275.md).
 
-Tower Hill, Erin's head buried at, [294](cml22.htm#page_294),
-[296](cml22.htm#page_296), [331](cml25.htm#page_331).
+Tower Hill, Erin's head buried at, [294](cml22.htm#page_294.md),
+[296](cml22.htm#page_296), [331](cml25.htm#page_331.md).
 
-*Transactions of the Ossianic Society*, [124](cml14.htm#page_124),
-[127](cml14.htm#page_127), [128](cml14.htm#page_128),
-[201](cml18.htm#page_201), [203](cml18.htm#page_203),
-[211](cml18.htm#page_211), [213](cml18.htm#page_213),
-[215](cml18.htm#page_215), [223](cml18.htm#page_223),
-[226](cml18.htm#page_226).
+*Transactions of the Ossianic Society*, [124](cml14.htm#page_124.md),
+[127](cml14.htm#page_127), [128](cml14.htm#page_128.md),
+[201](cml18.htm#page_201), [203](cml18.htm#page_203.md),
+[211](cml18.htm#page_211), [213](cml18.htm#page_213.md),
+[215](cml18.htm#page_215), [223](cml18.htm#page_223.md),
+[226](cml18.htm#page_226.md).
 
-Transmigration of souls, [36](cml08.htm#page_36); of the swineherds,
-[164](cml16.htm#page_164)-[165](cml16.htm#page_165).
+Transmigration of souls, [36](cml08.htm#page_36.md); of the swineherds,
+[164](cml16.htm#page_164)-[165](cml16.htm#page_165.md).
 
-Treasures of Britain, the Thirteen, [313](cml25.htm#page_313),
-[326](cml25.htm#page_326), [339](cml26.htm#page_339),
-[340](cml26.htm#page_340).
+Treasures of Britain, the Thirteen, [313](cml25.htm#page_313.md),
+[326](cml25.htm#page_326), [339](cml26.htm#page_339.md),
+[340](cml26.htm#page_340.md).
 
-Trees, the Battle of the, [123](cml14.htm#page_123),
-[305](cml24.htm#page_305)-[308](cml24.htm#page_308).
+Trees, the Battle of the, [123](cml14.htm#page_123.md),
+[305](cml24.htm#page_305)-[308](cml24.htm#page_308.md).
 
-Trees, worship of, [406](cml29.htm#page_406).
+Trees, worship of, [406](cml29.htm#page_406.md).
 
-Triads, [11](cml06.htm#page_11), [253](cml20.htm#page_253),
-[273](cml20.htm#page_273), [331](cml25.htm#page_331),
-[334](cml25.htm#page_334), [350](cml26.htm#page_350),
-[351](cml26.htm#page_351).
+Triads, [11](cml06.htm#page_11), [253](cml20.htm#page_253.md),
+[273](cml20.htm#page_273), [331](cml25.htm#page_331.md),
+[334](cml25.htm#page_334), [350](cml26.htm#page_350.md),
+[351](cml26.htm#page_351.md).
 
-Trim, [175](cml16.htm#page_175).
+Trim, [175](cml16.htm#page_175.md).
 
-Trinity Well, the source of the Boyne, [55](cml09.htm#page_55).
+Trinity Well, the source of the Boyne, [55](cml09.htm#page_55.md).
 
 Trinovantum, *i.e.* New Troy, a mythic name of London,
-[376](cml28.htm#page_376), [385](cml28.htm#page_385).
+[376](cml28.htm#page_376), [385](cml28.htm#page_385.md).
 
-Tristrem, Sir, [6](cml05.htm#page_6), [327](cml25.htm#page_327),
-[363](cml27.htm#page_363)-Trouveres, the, [363](cml27.htm#page_363).
+Tristrem, Sir, [6](cml05.htm#page_6), [327](cml25.htm#page_327.md),
+[363](cml27.htm#page_363)-Trouveres, the, [363](cml27.htm#page_363.md).
 
-Troy, [374](cml28.htm#page_374).
+Troy, [374](cml28.htm#page_374.md).
 
 Tuatha Dé Danann, the gods of the ancient Gaels,
-[11](cml06.htm#page_11), [17](cml06.htm#page_17),
-[48](cml09.htm#page_48), [50](cml09.htm#page_50),
-[51](cml09.htm#page_51), [58](cml09.htm#page_58),
-[59](cml09.htm#page_59), [60](cml09.htm#page_60),
-[65](cml10.htm#page_65),
-[70](cml10.htm#page_70)-[79](cml11.htm#page_79),
-[82](cml11.htm#page_82)-[86](cml11.htm#page_86),
-[91](cml12.htm#page_91), [95](cml12.htm#page_95),
-[97](cml12.htm#page_97), [104](cml12.htm#page_104),
-[108](cml13.htm#page_108)-[112](cml13.htm#page_112),
-[114](cml13.htm#page_114), [115](cml13.htm#page_115),
-[117](cml13.htm#page_117), [123](cml14.htm#page_123),
-[125](cml14.htm#page_125), [126](cml14.htm#page_126),
-[129](cml14.htm#page_129), [132](cml15.htm#page_132),
-[136](cml15.htm#page_136)-[138](cml15.htm#page_138),
-[140](cml15.htm#page_140), [141](cml15.htm#page_141),
-[145](cml15.htm#page_145), [153](cml16.htm#page_153),
-[154](cml16.htm#page_154), [156](cml16.htm#page_156),
-[157](cml16.htm#page_157), [205](cml18.htm#page_205),
-[211](cml18.htm#page_211), [214](cml18.htm#page_214),
-[217](cml18.htm#page_217), [219](cml18.htm#page_219),
-[222](cml18.htm#page_222), [225](cml18.htm#page_225),
-[228](cml19.htm#page_228),
-[229](cml19.htm#page_229)-[231](cml19.htm#page_231),
-[243](cml19.htm#page_243), [246](cml19.htm#page_246),
-[252](cml20.htm#page_252), [269](cml20.htm#page_269),
-[276](cml20.htm#page_276), [312](cml25.htm#page_312),
-[330](cml25.htm#page_330), [393](cml28.htm#page_393),
-[403](cml29.htm#page_403), [404](cml29.htm#page_404),
-[406](cml29.htm#page_406), [410](cml29.htm#page_410); their arrival in
-Ireland, [71](cml10.htm#page_71), [72](cml10.htm#page_72); their battle
-with the Fomors, [108](cml13.htm#page_108)-[117](cml13.htm#page_117);
-are conquered by the Milesians, [130](cml14.htm#page_130); retire into
-underground palaces, [135](cml15.htm#page_135),
-[136](cml15.htm#page_136); and become the fairies of Irish belief,
-[137](cml15.htm#page_137).
+[11](cml06.htm#page_11), [17](cml06.htm#page_17.md),
+[48](cml09.htm#page_48), [50](cml09.htm#page_50.md),
+[51](cml09.htm#page_51), [58](cml09.htm#page_58.md),
+[59](cml09.htm#page_59), [60](cml09.htm#page_60.md),
+[65](cml10.htm#page_65.md),
+[70](cml10.htm#page_70)-[79](cml11.htm#page_79.md),
+[82](cml11.htm#page_82)-[86](cml11.htm#page_86.md),
+[91](cml12.htm#page_91), [95](cml12.htm#page_95.md),
+[97](cml12.htm#page_97), [104](cml12.htm#page_104.md),
+[108](cml13.htm#page_108)-[112](cml13.htm#page_112.md),
+[114](cml13.htm#page_114), [115](cml13.htm#page_115.md),
+[117](cml13.htm#page_117), [123](cml14.htm#page_123.md),
+[125](cml14.htm#page_125), [126](cml14.htm#page_126.md),
+[129](cml14.htm#page_129), [132](cml15.htm#page_132.md),
+[136](cml15.htm#page_136)-[138](cml15.htm#page_138.md),
+[140](cml15.htm#page_140), [141](cml15.htm#page_141.md),
+[145](cml15.htm#page_145), [153](cml16.htm#page_153.md),
+[154](cml16.htm#page_154), [156](cml16.htm#page_156.md),
+[157](cml16.htm#page_157), [205](cml18.htm#page_205.md),
+[211](cml18.htm#page_211), [214](cml18.htm#page_214.md),
+[217](cml18.htm#page_217), [219](cml18.htm#page_219.md),
+[222](cml18.htm#page_222), [225](cml18.htm#page_225.md),
+[228](cml19.htm#page_228.md),
+[229](cml19.htm#page_229)-[231](cml19.htm#page_231.md),
+[243](cml19.htm#page_243), [246](cml19.htm#page_246.md),
+[252](cml20.htm#page_252), [269](cml20.htm#page_269.md),
+[276](cml20.htm#page_276), [312](cml25.htm#page_312.md),
+[330](cml25.htm#page_330), [393](cml28.htm#page_393.md),
+[403](cml29.htm#page_403), [404](cml29.htm#page_404.md),
+[406](cml29.htm#page_406), [410](cml29.htm#page_410.md); their arrival in
+Ireland, [71](cml10.htm#page_71), [72](cml10.htm#page_72.md); their battle
+with the Fomors, [108](cml13.htm#page_108)-[117](cml13.htm#page_117.md);
+are conquered by the Milesians, [130](cml14.htm#page_130.md); retire into
+underground palaces, [135](cml15.htm#page_135.md),
+[136](cml15.htm#page_136.md); and become the fairies of Irish belief,
+[137](cml15.htm#page_137.md).
 
-Tuirenn, son of Ogma, [57](cml09.htm#page_57), [90](cml12.htm#page_90),
-[106](cml12.htm#page_106).
+Tuirenn, son of Ogma, [57](cml09.htm#page_57), [90](cml12.htm#page_90.md),
+[106](cml12.htm#page_106.md).
 
 "Tuirenn, the Fate of the Sons of",
-[90](cml12.htm#page_90)-[106](cml12.htm#page_106).
+[90](cml12.htm#page_90)-[106](cml12.htm#page_106.md).
 
-Tuis, king of Greece, [96](cml12.htm#page_96), [98](cml12.htm#page_98),
-[102](cml12.htm#page_102).
+Tuis, king of Greece, [96](cml12.htm#page_96), [98](cml12.htm#page_98.md),
+[102](cml12.htm#page_102.md).
 
-"Turning Castle", [322](cml25.htm#page_322).
+"Turning Castle", [322](cml25.htm#page_322.md).
 
-Tweed, the river, [23](cml07.htm#page_23), [411](cml29.htm#page_411),
+Tweed, the river, [23](cml07.htm#page_23), [411](cml29.htm#page_411.md),
 
-Twr Branwen, [289](cml22.htm#page_289).
+Twr Branwen, [289](cml22.htm#page_289.md).
 
 Twrch Trwyth, the hunting of,
-[347](cml26.htm#page_347)-[353](cml26.htm#page_353).
+[347](cml26.htm#page_347)-[353](cml26.htm#page_353.md).
 
-*Tylwyth Teg*, the Welsh fairies, [255](cml20.htm#page_255).
+*Tylwyth Teg*, the Welsh fairies, [255](cml20.htm#page_255.md).
 
-Tynwald Hill, [412](cml29.htm#page_412).
+Tynwald Hill, [412](cml29.htm#page_412.md).
 
-Tyrian Hercules worshipped at Oxbridge, [275](cml20.htm#page_275).
+Tyrian Hercules worshipped at Oxbridge, [275](cml20.htm#page_275.md).
 
  
 
-Uaman, *sídh* of, [141](cml15.htm#page_141).
+Uaman, *sídh* of, [141](cml15.htm#page_141.md).
 
-Uaran Garad, spring of, [165](cml16.htm#page_165).
+Uaran Garad, spring of, [165](cml16.htm#page_165.md).
 
-Uffern, the "Cold Place", a name for Annwn, [319](cml25.htm#page_319).
+Uffern, the "Cold Place", a name for Annwn, [319](cml25.htm#page_319.md).
 
-Uisnech, the hill of, [69](cml10.htm#page_69),
-[324](cml25.htm#page_324).
+Uisnech, the hill of, [69](cml10.htm#page_69.md),
+[324](cml25.htm#page_324.md).
 
-Ulster, [29](cml07.htm#page_29), [57](cml09.htm#page_57),
-[64](cml09.htm#page_64), [69](cml10.htm#page_69),
-[76](cml10.htm#page_76), [158](cml16.htm#page_158),
-[164](cml16.htm#page_164), [165](cml16.htm#page_165),
-[166](cml16.htm#page_166), [171](cml16.htm#page_171),
-[174](cml16.htm#page_174), [175](cml16.htm#page_175),
-[189](cml17.htm#page_189), [183](cml16.htm#page_183),
-[188](cml17.htm#page_188), [189](cml17.htm#page_189),
-[190](cml17.htm#page_190), [191](cml17.htm#page_191),
-[192](cml17.htm#page_192), [217](cml18.htm#page_217),
-[245](cml19.htm#page_245),
+Ulster, [29](cml07.htm#page_29), [57](cml09.htm#page_57.md),
+[64](cml09.htm#page_64), [69](cml10.htm#page_69.md),
+[76](cml10.htm#page_76), [158](cml16.htm#page_158.md),
+[164](cml16.htm#page_164), [165](cml16.htm#page_165.md),
+[166](cml16.htm#page_166), [171](cml16.htm#page_171.md),
+[174](cml16.htm#page_174), [175](cml16.htm#page_175.md),
+[189](cml17.htm#page_189), [183](cml16.htm#page_183.md),
+[188](cml17.htm#page_188), [189](cml17.htm#page_189.md),
+[190](cml17.htm#page_190), [191](cml17.htm#page_191.md),
+[192](cml17.htm#page_192), [217](cml18.htm#page_217.md),
+[245](cml19.htm#page_245.md),
 
-"Undry", the name of the Dagda's cauldron, [54](cml09.htm#page_54),
-[366](cml27.htm#page_366).
+"Undry", the name of the Dagda's cauldron, [54](cml09.htm#page_54.md),
+[366](cml27.htm#page_366.md).
 
-Unius, the river, [107](cml13.htm#page_107).
+Unius, the river, [107](cml13.htm#page_107.md).
 
-Unsenn, the river, [112](cml13.htm#page_112).
+Unsenn, the river, [112](cml13.htm#page_112.md).
 
 *Urddawl Ben*, see Venerable Head.
 
-Urien, an [underworld](errata.htm#17) king, [328](cml25.htm#page_328),
-[329](cml25.htm#page_329), [357](cml27.htm#page_357),
-[376](cml28.htm#page_376); Uriens, Urience, King, in the Morte Darthur,
-[357](cml27.htm#page_357); Urianus, King, in Geoffrey of Monmouth'
-History, [376](cml28.htm#page_376).
+Urien, an [underworld](errata.htm#17) king, [328](cml25.htm#page_328.md),
+[329](cml25.htm#page_329), [357](cml27.htm#page_357.md),
+[376](cml28.htm#page_376.md); Uriens, Urience, King, in the Morte Darthur,
+[357](cml27.htm#page_357.md); Urianus, King, in Geoffrey of Monmouth'
+History, [376](cml28.htm#page_376.md).
 
 <span id="page_446">p. 446</span>
 
 Usnach, the sons of,
-[191](cml17.htm#page_191)-[200](cml17.htm#page_200).
+[191](cml17.htm#page_191)-[200](cml17.htm#page_200.md).
 
 *Uther Ben*, the "Wonderful Head", a name for Brân,
-[296](cml22.htm#page_296), [330](cml25.htm#page_330),
-[356](cml27.htm#page_356).
+[296](cml22.htm#page_296), [330](cml25.htm#page_330.md),
+[356](cml27.htm#page_356.md).
 
-Uther Pendragon, Arthur's father, [330](cml25.htm#page_330),
-[356](cml27.htm#page_356).
+Uther Pendragon, Arthur's father, [330](cml25.htm#page_330.md),
+[356](cml27.htm#page_356.md).
 
  
 
-Val des Fées, in the forest of Brécilien, [361](cml27.htm#page_361).
+Val des Fées, in the forest of Brécilien, [361](cml27.htm#page_361.md).
 
-Vandwy, Caer, [257](cml20.htm#page_257), [320](cml25.htm#page_320).
+Vandwy, Caer, [257](cml20.htm#page_257), [320](cml25.htm#page_320.md).
 
-Varro, [26](cml07.htm#page_26).
+Varro, [26](cml07.htm#page_26.md).
 
-Vedwyd, Caer, [319](cml25.htm#page_319).
+Vedwyd, Caer, [319](cml25.htm#page_319.md).
 
-"Venerable Head, The", [296](cml22.htm#page_296).
+"Venerable Head, The", [296](cml22.htm#page_296.md).
 
-*Verses of the Graves of the Warriors, The*, [272](cml20.htm#page_272),
-[311](cml24.htm#page_311), [334](cml25.htm#page_334).
+*Verses of the Graves of the Warriors, The*, [272](cml20.htm#page_272.md),
+[311](cml24.htm#page_311), [334](cml25.htm#page_334.md).
 
 "Victor, son of Scorcher". See Gwyrthur, son of Greidawl.
 
-*Vita Columbæ*, Adamnan's, [401](cml29.htm#page_401),
-[417](cml29.htm#page_417).
+*Vita Columbæ*, Adamnan's, [401](cml29.htm#page_401.md),
+[417](cml29.htm#page_417.md).
 
-Vivien, [358](cml27.htm#page_358), [361](cml27.htm#page_361).
+Vivien, [358](cml27.htm#page_358), [361](cml27.htm#page_361.md).
 
  
 
-Wales, the Four Ancient Books of, [11](cml06.htm#page_11),
-[15](cml06.htm#page_15). See Skene.
+Wales, the Four Ancient Books of, [11](cml06.htm#page_11.md),
+[15](cml06.htm#page_15.md). See Skene.
 
-Walgan, [375](cml28.htm#page_375).
+Walgan, [375](cml28.htm#page_375.md).
 
-Wall, Roman, [25](cml07.htm#page_25), [273](cml20.htm#page_273),
-[274](cml20.htm#page_274), [400](cml29.htm#page_400).
+Wall, Roman, [25](cml07.htm#page_25), [273](cml20.htm#page_273.md),
+[274](cml20.htm#page_274), [400](cml29.htm#page_400.md).
 
-War-chariots, [27](cml07.htm#page_27); Cuchulainn's,
-[28](cml07.htm#page_28).
+War-chariots, [27](cml07.htm#page_27.md); Cuchulainn's,
+[28](cml07.htm#page_28.md).
 
-Warrefield, [242](cml19.htm#page_242).
+Warrefield, [242](cml19.htm#page_242.md).
 
-"Water-dress", Brian's, [104](cml12.htm#page_104).
+"Water-dress", Brian's, [104](cml12.htm#page_104.md).
 
-Waves, the Four, of Britain, [261](cml20.htm#page_261).
+Waves, the Four, of Britain, [261](cml20.htm#page_261.md).
 
-"Wave-sweeper", Manannán's boat, [60](cml09.htm#page_60),
-[98](cml12.htm#page_98), [104](cml12.htm#page_104).
+"Wave-sweeper", Manannán's boat, [60](cml09.htm#page_60.md),
+[98](cml12.htm#page_98), [104](cml12.htm#page_104.md).
 
-Weapons of the Celts, [27](cml07.htm#page_27).
+Weapons of the Celts, [27](cml07.htm#page_27.md).
 
-Wells, worship of, [414](cml29.htm#page_414), [415](cml29.htm#page_415);
-holy, [414](cml29.htm#page_414).
+Wells, worship of, [414](cml29.htm#page_414), [415](cml29.htm#page_415.md);
+holy, [414](cml29.htm#page_414.md).
 
-Welsh fairies, [255](cml20.htm#page_255),
-[392](cml28.htm#page_392)-[394](cml28.htm#page_394).
+Welsh fairies, [255](cml20.htm#page_255.md),
+[392](cml28.htm#page_392)-[394](cml28.htm#page_394.md).
 
-Westminster, [407](cml29.htm#page_407); Westminster Abbey,
-[71](cml10.htm#page_71).
+Westminster, [407](cml29.htm#page_407.md); Westminster Abbey,
+[71](cml10.htm#page_71.md).
 
-White Dragon of the Saxons, [378](cml28.htm#page_378).
+White Dragon of the Saxons, [378](cml28.htm#page_378.md).
 
-White-horned Bull of Connaught, [165](cml16.htm#page_165),
-[175](cml16.htm#page_175).
+White-horned Bull of Connaught, [165](cml16.htm#page_165.md),
+[175](cml16.htm#page_175.md).
 
 White Mount in London, see Tower Hill.
 
-White-tusk, king of the Boars, [346](cml26.htm#page_346),
-[349](cml26.htm#page_349).
+White-tusk, king of the Boars, [346](cml26.htm#page_346.md),
+[349](cml26.htm#page_349.md).
 
-Wild Huntsman, the, [255](cml20.htm#page_255).
+Wild Huntsman, the, [255](cml20.htm#page_255.md).
 
-Wilde, Sir William, his *Lough Corrib*, [76](cml10.htm#page_76); Lady
-Wilde's *Ancient Legends of Ireland*, [243](cml19.htm#page_243),
-[409](cml29.htm#page_409).
+Wilde, Sir William, his *Lough Corrib*, [76](cml10.htm#page_76.md); Lady
+Wilde's *Ancient Legends of Ireland*, [243](cml19.htm#page_243.md),
+[409](cml29.htm#page_409.md).
 
 Williams, Mr. Edward. See Iolo Morganwg.
 
-Wish Hounds, the [392](cml28.htm#page_392).
+Wish Hounds, the [392](cml28.htm#page_392.md).
 
-Woden, [260](cml20.htm#page_260).
+Woden, [260](cml20.htm#page_260.md).
 
-Wolf, the Morrígú takes the shape of a, [170](cml16.htm#page_170).
+Wolf, the Morrígú takes the shape of a, [170](cml16.htm#page_170.md).
 
-Women, position of, among the Celts, [30](cml07.htm#page_30).
+Women, position of, among the Celts, [30](cml07.htm#page_30.md).
 
-"Wonderful Head", the, [296](cml22.htm#page_296),
-[330](cml25.htm#page_330).
+"Wonderful Head", the, [296](cml22.htm#page_296.md),
+[330](cml25.htm#page_330.md).
 
-"Wood of the Two Tents", the, [216](cml18.htm#page_216).
+"Wood of the Two Tents", the, [216](cml18.htm#page_216.md).
 
-Wordsworth, [4](cml05.htm#page_4), [5](cml05.htm#page_5).
+Wordsworth, [4](cml05.htm#page_4), [5](cml05.htm#page_5.md).
 
-Wren, Lleu and the, [263](cml20.htm#page_263); a bird of augury among
-the druids, [417](cml29.htm#page_417).
+Wren, Lleu and the, [263](cml20.htm#page_263.md); a bird of augury among
+the druids, [417](cml29.htm#page_417.md).
 
-Wydyr, Caer, [320](cml25.htm#page_320).
+Wydyr, Caer, [320](cml25.htm#page_320.md).
 
-Wye, the river, [352](cml26.htm#page_352).
+Wye, the river, [352](cml26.htm#page_352.md).
 
  
 
-Yeats’, Mr., *The Wanderings of Oisin*, [223](cml18.htm#page_223).
+Yeats’, Mr., *The Wanderings of Oisin*, [223](cml18.htm#page_223.md).
 
-Yell, or Yeth, Hounds, the, [392](cml28.htm#page_392).
+Yell, or Yeth, Hounds, the, [392](cml28.htm#page_392.md).
 
-Yellow Book of Lecan, the, [10](cml06.htm#page_10),
-[164](cml16.htm#page_164).
+Yellow Book of Lecan, the, [10](cml06.htm#page_10.md),
+[164](cml16.htm#page_164.md).
 
-"Yellow Shaft", one of Manannán's spears, [60](cml09.htm#page_60),
-[217](cml18.htm#page_217).
+"Yellow Shaft", one of Manannán's spears, [60](cml09.htm#page_60.md),
+[217](cml18.htm#page_217.md).
 
-Ynys Avallon, [329](cml25.htm#page_329). See Avilion, Glastonbury.
+Ynys Avallon, [329](cml25.htm#page_329.md). See Avilion, Glastonbury.
 
-Ynys Branwen, [295](cml22.htm#page_295).
+Ynys Branwen, [295](cml22.htm#page_295.md).
 
-Ynys Wair, [322](cml25.htm#page_322). See Lundy Island.
+Ynys Wair, [322](cml25.htm#page_322.md). See Lundy Island.
 
-York, [275](cml20.htm#page_275).
+York, [275](cml20.htm#page_275.md).
 
-Young, Land of the, [133](cml15.htm#page_133),
-[225](cml18.htm#page_225); Son of the, see Mac Oc.
+Young, Land of the, [133](cml15.htm#page_133.md),
+[225](cml18.htm#page_225.md); Son of the, see Mac Oc.
 
 Yspaddaden Penkawr, see Hawthorn, Chief of Giants.
 
  
 
-Zeus, [65](cml10.htm#page_65), [260](cml20.htm#page_260),
-[261](cml20.htm#page_261); the Gaelic, [41](cml08.htm#page_41),
-[51](cml09.htm#page_51), [253](cml20.htm#page_253); the British,
-[5](cml05.htm#page_5), [324](cml25.htm#page_324).
+Zeus, [65](cml10.htm#page_65), [260](cml20.htm#page_260.md),
+[261](cml20.htm#page_261); the Gaelic, [41](cml08.htm#page_41.md),
+[51](cml09.htm#page_51), [253](cml20.htm#page_253.md); the British,
+[5](cml05.htm#page_5), [324](cml25.htm#page_324.md).
 
-Zimmer, Professor, [152](cml15.htm#page_152).
+Zimmer, Professor, [152](cml15.htm#page_152.md).
 
 ------------------------------------------------------------------------
 
-[Next: Table of Pronunciation for the More Difficult Words](cml32)
+[Next: Table of Pronunciation for the More Difficult Words](cml32.md)

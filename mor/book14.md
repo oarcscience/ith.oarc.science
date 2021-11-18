@@ -1,6 +1,6 @@
-[Previous: Ether](book13)
+[Previous: Ether](book13.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow29)  [Next](dow31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow29)  [Next](dow31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -48,7 +48,7 @@ In places where he had put sticks of hard wood the people were strong
 and well and warm-blooded and could stand cold weather; but in places
 where he put poor wood the people were weak and sickly and could not
 stand cold weather. Here at Bodega Bay he left only sticks of
-*Po'-to-po'-to* the sage-herb, <span id="fr_16"></span>[17](#fn_16)
+*Po'-to-po'-to* the sage-herb, <span id="fr_16"></span>[17](#fn_16.md)
 which has a hollow stem and has no strength. That is the reason our
 people are tender and weak
 
@@ -61,9 +61,9 @@ came. We are hollow inside and can not stand cold.
 
 ### Footnotes
 
-<span id="fn_16"></span>[159:17](dow30.htm#fr_16) The sage-herb is a
+<span id="fn_16"></span>[159:17](dow30.htm#fr_16.md) The sage-herb is a
 form of *Artemisia ludoviciana*.
 
 ------------------------------------------------------------------------
 
-[Next: *Yel'-lo-kin* And *Oo-wel'-lin*, The Man-eating Giants](dow31)
+[Next: *Yel'-lo-kin* And *Oo-wel'-lin*, The Man-eating Giants](dow31.md)

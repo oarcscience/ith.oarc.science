@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr33)  [Next](ppr35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr33)  [Next](ppr35.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ Now I am very old.
 
 ------------------------------------------------------------------------
 
-[Next: Hymn to the Unknown God (Peruvian)](ppr35)
+[Next: Hymn to the Unknown God (Peruvian)](ppr35.md)

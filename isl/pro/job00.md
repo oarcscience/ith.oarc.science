@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](qar03)  [Next](job01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](qar03)  [Next](job01.md) 
 
 ------------------------------------------------------------------------
 
@@ -142,4 +142,4 @@ raise up his adversities and to be gifted from his Lord.
 
 ------------------------------------------------------------------------
 
-[Next: The Back of Gifts From God to Job (PUH)](job01)
+[Next: The Back of Gifts From God to Job (PUH)](job01.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index) 
-[Index](index)  [Previous](ael10)  [Next](ael12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index.md) 
+[Index](index)  [Previous](ael10)  [Next](ael12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Egyptian Legends*, by M. A. Murray, \[1920\], at Intangible
 Textual Heritage
 
@@ -427,4 +427,4 @@ Avenger!"
 
 ------------------------------------------------------------------------
 
-[Next: IX: The Beer of Heliopolis](ael12)
+[Next: IX: The Beer of Heliopolis](ael12.md)

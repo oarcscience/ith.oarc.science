@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn03)  [Next](rmn05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn03)  [Next](rmn05.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ exists in the park of Versailles.
 
 ------------------------------------------------------------------------
 
-[Next: Plate IV: Sarcophagus](rmn05)
+[Next: Plate IV: Sarcophagus](rmn05.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hft16)  [Next](hft18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hft16)  [Next](hft18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hawaiian Folk Tales*, by Thomas G. Thrum, \[1907\], at Intangible
 Textual Heritage
 
@@ -270,8 +270,8 @@ being called *uo*. They were then woven into the foundation netting
 previously made the exact shape and size wanted. The whole process of
 feather cloak making was laborious and intricate, and the making of a
 cloak took a great many years. And as to durability, let the cloak of
-[Kakaalaneo](errata.htm#2), now several centuries old, attest.
+[Kakaalaneo](errata.htm#2.md), now several centuries old, attest.
 
 ------------------------------------------------------------------------
 
-[Next: XV. Kaala and Kaaialii, A Legend of Lanai](hft18)
+[Next: XV. Kaala and Kaaialii, A Legend of Lanai](hft18.md)

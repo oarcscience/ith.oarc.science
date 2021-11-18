@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](ftc12)  [Next](ftc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](ftc12)  [Next](ftc14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte.md)
 
 </div>
 
@@ -254,6 +254,6 @@ loving "not wisely but too well"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. How They Tell Fortunes in Italy](ftc14)
+[Next: Chapter XII. How They Tell Fortunes in Italy](ftc14.md)
 
 </div>

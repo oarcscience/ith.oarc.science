@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe063)  [Next](prwe065) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe063)  [Next](prwe065.md) 
 
 ------------------------------------------------------------------------
 
@@ -654,4 +654,4 @@ Lizard, and in some of the coves near the Land's End.
 
 ------------------------------------------------------------------------
 
-[Next: Cromlech and Druid Stones](prwe065)
+[Next: Cromlech and Druid Stones](prwe065.md)

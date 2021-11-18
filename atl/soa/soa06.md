@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa05)  [Next](soa07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa05)  [Next](soa07.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ decorations are absolutely identical.
 
 ------------------------------------------------------------------------
 
-[Next: Testimony of Ancient Writers](soa07)
+[Next: Testimony of Ancient Writers](soa07.md)

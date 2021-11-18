@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot07) 
-[Next](sot09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot07.md) 
+[Next](sot09.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ me, and I prostrated myself and made obeisance to the Fiery Word.
 
 ------------------------------------------------------------------------
 
-[Next: Card XIX. The Sun](sot09)
+[Next: Card XIX. The Sun](sot09.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg19)  [Next](btg21) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg19)  [Next](btg21.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ the Sangha.
 
 ------------------------------------------------------------------------
 
-[Next: The Sermon At Rajagaha](btg21)
+[Next: The Sermon At Rajagaha](btg21.md)

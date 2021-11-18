@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow08)  [Next](wow10) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow08)  [Next](wow10.md) 
 
 ------------------------------------------------------------------------
 
@@ -232,4 +232,4 @@ overtook and passed the doctor between Woking and Send.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Ten: In The Storm](wow10)
+[Next: Chapter Ten: In The Storm](wow10.md)

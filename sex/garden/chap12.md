@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap11) 
-[Next](chap13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap11.md) 
+[Next](chap13.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ Here you have the worst specimens amongst women.'
 ------------------------------------------------------------------------
 
 [Next: Chapter 13: Concerning the Causes of Enjoyment in the Act of
-Generation](chap13)
+Generation](chap13.md)

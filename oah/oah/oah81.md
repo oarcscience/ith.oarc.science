@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah80)  [Next](oah82) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah80)  [Next](oah82.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,4 +199,4 @@ angels had taken the vows of the second resurrection.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](oah82)
+[Next: Chapter V](oah82.md)

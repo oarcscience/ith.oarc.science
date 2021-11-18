@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti43)  [Next](eti45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti43)  [Next](eti45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -88,4 +88,4 @@ straggler; nerve yourself, for his companions will soon surround us."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVIII. The Drunkards’ Den](eti45)
+[Next: Chapter XXXVIII. The Drunkards’ Den](eti45.md)

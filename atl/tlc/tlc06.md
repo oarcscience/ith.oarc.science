@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tlc05)  [Next](tlc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tlc05)  [Next](tlc07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Continent*, by Cutcliffe Hyne, \[1900\], at Intangible Textual
 Heritage
 
@@ -321,7 +321,7 @@ company (that are for the
 
 <span id="img_05400"></span> <span align="CENTER"> [![“TOB WITH HIS
 BLOODY AXE”](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)  
+Click to enlarge](img/05400.jpg.md)  
 “TOB WITH HIS BLOODY AXE”  
 </span>
 
@@ -390,4 +390,4 @@ indeed!"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Welcome of Phorenice](tlc07)
+[Next: Chapter IV. The Welcome of Phorenice](tlc07.md)

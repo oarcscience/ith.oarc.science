@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc14)  [Next](scc16) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc14)  [Next](scc16.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ It was the white owl that cured him.
 
 ------------------------------------------------------------------------
 
-[Next: 14.--Gashowu Yokuts. Coyote, The Hawk, And The Condor](scc16)
+[Next: 14.--Gashowu Yokuts. Coyote, The Hawk, And The Condor](scc16.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai02) 
-[Next](phai04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai02.md) 
+[Next](phai04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -146,7 +146,7 @@ call it after Leopold George and Wilhelm Vatke, who, independent alike
 of Reuss and of each other, were the first to give it literary currency.
 All three, again, are disciples of Martin Lebrecht de Wette, the
 epoch-making pioneer of historical criticism in this field. <span
-id="fr_0"></span>[1](#fn_0) He indeed did not himself succeed in
+id="fr_0"></span>[1](#fn_0.md) He indeed did not himself succeed in
 reaching a sure position, but he was the first
 
 <span id="page_5">p. 5</span>
@@ -206,7 +206,7 @@ urgent. They are intended to introduce it; but to solve it is by no
 means so easy. The question what is the historical place of the Law does
 not even admit of being put in these simple terms. For the Law, If by
 that word we understand the entire Pentateuch, is no literary unity, and
-no simple historical quantity. <span id="fr_1"></span>[1](#fn_1) Since
+no simple historical quantity. <span id="fr_1"></span>[1](#fn_1.md) Since
 the days of Peyrerius and Spinoza, criticism has acknowledged the
 complex character of that remarkable literary production, and from Jean
 Astruc onwards has laboured, not without success, at disentangling its
@@ -279,7 +279,7 @@ closely akin to the Jehovist;
 
 his document has come down to us as Nöldeke was the first to perceive,
 only in extracts embodied in the Jehovist narrative. <span
-id="fr_2"></span>[1](#fn_2) Thus, notwithstanding Hupfeld's discovery,
+id="fr_2"></span>[1](#fn_2.md) Thus, notwithstanding Hupfeld's discovery,
 the old division into two great sections continues to hold good, and
 there is every reason for adhering to this primary distinction as the
 basis of further historical research, in spite of the fact, which is
@@ -287,7 +287,7 @@ coming to be more and more clearly perceived, that not only the
 Jehovistic document, but the "main stock" as well, are complex products,
 and that alongside of them occur hybrid or posthumous elements which do
 not admit of being simply referred to either the one or the other
-formation. <span id="fr_3"></span>[2](#fn_3)
+formation. <span id="fr_3"></span>[2](#fn_3.md)
 
 Now the Law, whose historical position we have to determine, is the
 so-called "main stock," which, both by its contents and by its origin,
@@ -390,11 +390,11 @@ of the Priestly
 <span class="contnote">\[paragraph continues\]</span> Code, and then had
 no difficulty in deducing from the results which he had obtained with
 respect to the main legal portion similar consequences with regard to
-the narrative part in Genesis. <span id="fr_4"></span>[1](#fn_4)
+the narrative part in Genesis. <span id="fr_4"></span>[1](#fn_4.md)
 
 The foundations were now laid; it is Kuenen who has since done most for
 the further development of the hypothesis. <span
-id="fr_5"></span>[2](#fn_5)
+id="fr_5"></span>[2](#fn_5.md)
 
 The defenders of the prevailing opinion maintained their ground as well
 as they could, but from long possession had got somewhat settled on
@@ -507,7 +507,7 @@ acknowledge myself to have learnt best and most.
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:1](phai03.htm#fr_0) M. W. L. de Wette,
+<span id="fn_0"></span>[4:1](phai03.htm#fr_0.md) M. W. L. de Wette,
 *Beiträge zur Einleitung in das A. T.* (Bd. I. *Kritischer Versuch über
 die Glaubwürdigkeit der Bücher der Chronik;* Bd. II. *Kritik der
 Mosaischen Geschichte*, Halle, 1806-07); J. F. L. George, *Die älteren
@@ -554,16 +554,16 @@ tant s’en faut, la partie la plus récente de l’ouvrage entier. 12. Le
 rédacteur du Pentateuque se distingue clairement de l’ancien prophète
 Moyse."—*L’Histoire Sainte et la Loi*, Paris, 1879, pp. 23, 24.
 
-<span id="fn_1"></span>[6:1](phai03.htm#fr_1) Compare the article
+<span id="fn_1"></span>[6:1](phai03.htm#fr_1.md) Compare the article
 "Pentateuch" in the Ninth edition of the *Encyclopædia Britannica*, vol.
 xviii.
 
-<span id="fn_2"></span>[8:1](phai03.htm#fr_2) Hermann Hupfeld, *Die
+<span id="fn_2"></span>[8:1](phai03.htm#fr_2.md) Hermann Hupfeld, *Die
 Quellen der Genesis u. die Art ihrer Zusammersetzung*, Berlin, 1853;
 Theodor Nöldeke, *Die s. g. Grundschrift des Pentateuch*, in
 *Untersuchungen zur Kritik des Alten Testaments*, Kiel, 1869.
 
-<span id="fn_3"></span>[8:2](phai03.htm#fr_3) J. Wellhausen, *Die
+<span id="fn_3"></span>[8:2](phai03.htm#fr_3.md) J. Wellhausen, *Die
 Composition des Hexateuchs*, in *Jahrb. f. Deutsche Theologie*, 1876,
 pp. 392-450, 531-602; 1877, pp. 407-479. I do not insist on all the
 details, but, as regards the way in which the literary process which
@@ -587,7 +587,7 @@ symbolised by Q; for the "main stock" as a whole (as modified by an
 editorial process) the title of Priestly Code and the symbol RQ (Q and
 Revisers) are employed.
 
-<span id="fn_4"></span>[11:1](phai03.htm#fr_4) K. H. Graf, *Die s. g.
+<span id="fn_4"></span>[11:1](phai03.htm#fr_4.md) K. H. Graf, *Die s. g.
 Grundschrift des Pentateuchs*, in Merx's *Archiv* (1869), pp. 466-477.
 As early as 1866 he had already expressed himself in a letter to Kuenen
 November 12) as follows:—"Vous me faites pressentir une solution de
@@ -603,11 +603,11 @@ jéhoviste, et ne me rendant pas compte de la manière dont l’élément
 légal, dont je m’étais occupé exclusivement, serait venu se joindre à
 l’élément historique.
 
-<span id="fn_5"></span>[11:2](phai03.htm#fr_5) A. Kuenen, *Die
+<span id="fn_5"></span>[11:2](phai03.htm#fr_5.md) A. Kuenen, *Die
 Godsdienst van Israel*, Haarlem, 1869-70 (Eng. transl. *Religion of
 Israel*, 1874-5), and *De priesterlijke Bestanddeelen van Pentateuch en
 Josua*, in *Theol. Tijdschr.* (1870), pp. 391-426.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Place Of Worship.](phai04)
+[Next: Chapter I. The Place Of Worship.](phai04.md)

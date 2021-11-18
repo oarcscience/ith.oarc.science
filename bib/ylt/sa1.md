@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](rut)  [Next](sa2) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](rut)  [Next](sa2.md) 
 
 ------------------------------------------------------------------------
 
@@ -3454,4 +3454,4 @@ from the wall of Beth-Shan, and come in to Jabesh, and burn them there,
 
 ------------------------------------------------------------------------
 
-[Next: 2 Samuel](sa2)
+[Next: 2 Samuel](sa2.md)

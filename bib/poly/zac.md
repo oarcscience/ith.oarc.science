@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Haggai](hag)  [Malachi](mal)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Haggai](hag)  [Malachi](mal.md)
 
 ------------------------------------------------------------------------
 
@@ -9,30 +9,30 @@
 
 ------------------------------------------------------------------------
 
-[Zechariah 1](zac001)  
+[Zechariah 1](zac001.md)  
 
-[Zechariah 2](zac002)  
+[Zechariah 2](zac002.md)  
 
-[Zechariah 3](zac003)  
+[Zechariah 3](zac003.md)  
 
-[Zechariah 4](zac004)  
+[Zechariah 4](zac004.md)  
 
-[Zechariah 5](zac005)  
+[Zechariah 5](zac005.md)  
 
-[Zechariah 6](zac006)  
+[Zechariah 6](zac006.md)  
 
-[Zechariah 7](zac007)  
+[Zechariah 7](zac007.md)  
 
-[Zechariah 8](zac008)  
+[Zechariah 8](zac008.md)  
 
-[Zechariah 9](zac009)  
+[Zechariah 9](zac009.md)  
 
-[Zechariah 10](zac010)  
+[Zechariah 10](zac010.md)  
 
-[Zechariah 11](zac011)  
+[Zechariah 11](zac011.md)  
 
-[Zechariah 12](zac012)  
+[Zechariah 12](zac012.md)  
 
-[Zechariah 13](zac013)  
+[Zechariah 13](zac013.md)  
 
-[Zechariah 14](zac014)  
+[Zechariah 14](zac014.md)  

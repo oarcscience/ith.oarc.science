@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis05)  [Next](kis07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis05)  [Next](kis07.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ and that she would not be able to help him that day.
 
 ------------------------------------------------------------------------
 
-[Next: Part VII](kis07)
+[Next: Part VII](kis07.md)

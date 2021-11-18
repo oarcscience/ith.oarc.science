@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla04)  [Next](mla06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla04)  [Next](mla06.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ clear space in the bush where the trial of skill was to take place.
 
 ------------------------------------------------------------------------
 
-[Next: The Great Fight](mla06)
+[Next: The Great Fight](mla06.md)

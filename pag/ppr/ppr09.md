@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr08)  [Next](ppr10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr08)  [Next](ppr10.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ Spirit of Heaven, remember! Spirit of Earth, remember!
 
 ------------------------------------------------------------------------
 
-[Next: Prayer to the Sun (Chaldean)](ppr10)
+[Next: Prayer to the Sun (Chaldean)](ppr10.md)

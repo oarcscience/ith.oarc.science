@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai03)  [Next](iai05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai03)  [Next](iai05.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,11 +19,11 @@ And the hot tear-drops from his eyelids flow,
 And chanting now a mournful melody,  
 O'er Erech's fall, thus sang an elegy:
 
- <span id="fr_40"></span>[1](#fn_40)"How long, O Ishtar, will thy face
+ <span id="fr_40"></span>[1](#fn_40.md)"How long, O Ishtar, will thy face
 be turned,  
   While Erech desolate doth cry to thee?  
 Thy towers magnificent, oh, hast thou spurned?  
-  Her blood like water in Ul-bar, <span id="fr_41"></span>[2](#fn_41)
+  Her blood like water in Ul-bar, <span id="fr_41"></span>[2](#fn_41.md)
 oh, see!  
 The seat of thine own oracle behold!  
   The fire hath ravaged all thy cities grand,  
@@ -50,11 +50,11 @@ He comes! he comes! our hero Izdubar!"
 He grasps his harp inspired, again to wake  
 In song-the cry of battle now doth break.
 
-"Nin-a-rad, <span id="fr_42"></span>[3](#fn_42) servant of our great
-Nin <span id="fr_43"></span>[4](#fn_43)  
+"Nin-a-rad, <span id="fr_42"></span>[3](#fn_42.md) servant of our great
+Nin <span id="fr_43"></span>[4](#fn_43.md)  
   Shall lead our hosts to victory!  
 God of the chase and war, o'er him, oh, shine!  
-  Tar-u-ma-ni iz-zu sar-ri! <span id="fr_44"></span>[5](#fn_44)
+  Tar-u-ma-ni iz-zu sar-ri! <span id="fr_44"></span>[5](#fn_44.md)
 
 "Let Elam fall! the cause of Accad's woes,  
   Revenge of Erech, be the cry!  
@@ -103,7 +103,7 @@ A cloud of arrows flies from Accad's bows
 That hides the sun, and falls among their foes.  
 Now roars the thunder of great Accad's cars,  
 Their brazen chariots as blazing stars  
-Through Nuk-khu's <span id="fr_45"></span>[6](#fn_45) depths with
+Through Nuk-khu's <span id="fr_45"></span>[6](#fn_45.md) depths with
 streams of blazing fire,  
 Thus fall upon the foe with vengeful ire.  
 The smoking earth shakes underneath their wheels,  
@@ -117,12 +117,12 @@ While o'er the field fly the fierce gods of war.\[paragraph continues\]
 
 <span id="page_16">p. 16</span>
 
-Dark Nin-a-zu <span id="fr_46"></span>[7](#fn_46) her torch holds in her
+Dark Nin-a-zu <span id="fr_46"></span>[7](#fn_46.md) her torch holds in her
 hand.  
 With her fierce screams directs the gory brand;  
-And Mam-mit <span id="fr_47"></span>[8](#fn_47) urges her with furious
+And Mam-mit <span id="fr_47"></span>[8](#fn_47.md) urges her with furious
 hand,  
-And coiling dragons <span id="fr_48"></span>[9](#fn_48) poison all the
+And coiling dragons <span id="fr_48"></span>[9](#fn_48.md) poison all the
 land  
 With their black folds and pestilential breath,  
 In fierce delight thus ride the gods of death.
@@ -156,34 +156,34 @@ Then loud the cry of victory they raise.
 
 ### Footnotes
 
-<span id="fn_40"></span>[13:1](iai04.htm#fr_40) The above elegy is an
+<span id="fn_40"></span>[13:1](iai04.htm#fr_40.md) The above elegy is an
 Assyrian fragment remarkably similar to one of the psalms of the Jewish
 bible, and I believe it belongs to the Izdubar epic (W. A. I. IV. 19,
 No.; also see "Records of the Past" vol. xi. p. 160).
 
-<span id="fn_41"></span>[13:2](iai04.htm#fr_41) "Ul-bar," Bel's temple.
+<span id="fn_41"></span>[13:2](iai04.htm#fr_41.md) "Ul-bar," Bel's temple.
 
-<span id="fn_42"></span>[14:3](iai04.htm#fr_42) "Nin-a-rad," literally
+<span id="fn_42"></span>[14:3](iai04.htm#fr_42.md) "Nin-a-rad," literally
 "servant of Nin," or "Nin-mar-ad," "Lord of the city of Marad."
 
-<span id="fn_43"></span>[14:4](iai04.htm#fr_43) "Nin," the god of the
+<span id="fn_43"></span>[14:4](iai04.htm#fr_43.md) "Nin," the god of the
 chase and war, or lord.
 
-<span id="fn_44"></span>[14:5](iai04.htm#fr_44) "Tar-u-ma-ni izzu
+<span id="fn_44"></span>[14:5](iai04.htm#fr_44.md) "Tar-u-ma-ni izzu
 sar-ri," "son of the faith, the fire-king."
 
-<span id="fn_45"></span>[15:6](iai04.htm#fr_45) "Nuk-khu," darkness (god
+<span id="fn_45"></span>[15:6](iai04.htm#fr_45.md) "Nuk-khu," darkness (god
 of darkness).
 
-<span id="fn_46"></span>[16:7](iai04.htm#fr_46) "Nin-a-zu" god of fate
+<span id="fn_46"></span>[16:7](iai04.htm#fr_46.md) "Nin-a-zu" god of fate
 and death.
 
-<span id="fn_47"></span>[16:8](iai04.htm#fr_47) "Mam-mit," or
+<span id="fn_47"></span>[16:8](iai04.htm#fr_47.md) "Mam-mit," or
 "Mam-mi-tu," goddess of fate.
 
-<span id="fn_48"></span>[16:9](iai04.htm#fr_48) "Dragons," gods of chaos
+<span id="fn_48"></span>[16:9](iai04.htm#fr_48.md) "Dragons," gods of chaos
 and death.
 
 ------------------------------------------------------------------------
 
-[Next: Column IV. Coronation of Izdubar](iai05)
+[Next: Column IV. Coronation of Izdubar](iai05.md)

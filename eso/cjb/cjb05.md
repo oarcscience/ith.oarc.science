@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Mysticism](../../myst/index)  [Index](index)  [Previous](cjb04) 
-[Next](cjb06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Mysticism](../../myst/index)  [Index](index)  [Previous](cjb04.md) 
+[Next](cjb06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574NM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574NM/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Confessions of Jacob Boehme*, by Jacob Boehme, ed. W. Scott Palmer
 \[1920\], at Intangible Textual Heritage
 
@@ -367,6 +367,6 @@ kindles the wrath-fire which is otherwise at rest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](cjb06)
+[Next: Chapter IV](cjb06.md)
 
 </div>

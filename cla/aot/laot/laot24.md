@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot23) 
-[Next](laot25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot23.md) 
+[Next](laot25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -96,7 +96,7 @@ heard from the inhabitants of
 
 the city a story about Typho being bound on the spot and about fire
 rising from him, and this fire sends up the smoke <span
-id="fr_10"></span>[1](#fn_10) of Etna; but they themselves came to more
+id="fr_10"></span>[1](#fn_10.md) of Etna; but they themselves came to more
 plausible conclusions and more in keeping with philosophy. And they say
 that Apollonius began the discussion by asking his companions: "Is there
 such a thing as mythology?" "Yes, by Zeus," answered Menippus, "and I
@@ -139,7 +139,7 @@ and after being as it were nursed by them from babyhood, we acquire
 certain opinions of the several animals and think of some of them as
 royal animals, of others as silly, of others as witty, and others as
 innocent. And whereas the poet, after telling us that there are 'many
-forms of heavenly visitation' <span id="fr_11"></span>[1](#fn_11) or
+forms of heavenly visitation' <span id="fr_11"></span>[1](#fn_11.md) or
 something of the kind, dismisses his chorus and departs, Aesop adds an
 oracle to his story, and dismisses his hearers just as they reach the
 conclusion he wished to lead the up to.
@@ -300,7 +300,7 @@ go round the cities selling their gods. All they did was to export their
 own hands and their tools for working stone and ivory; others provided
 the raw materials, while they plied their handicraft in the temples
 themselves; but you are leading the gods into harbors and market places
-just as if they were wares <span id="fr_12"></span>[1](#fn_12) of the
+just as if they were wares <span id="fr_12"></span>[1](#fn_12.md) of the
 Hyrcanians and of the Scythians —far be it from me to name these—and so
 you think you are doing no impiety? It is true that there are babbling
 buffoons who hang upon their persons images of Demeter or Dionysus, and
@@ -315,15 +315,15 @@ on another ship.
 
 ### Footnotes
 
-<span id="fn_10"></span>[1:493:1](laot24.htm#fr_10) There is a pun in
+<span id="fn_10"></span>[1:493:1](laot24.htm#fr_10.md) There is a pun in
 the Greek between Typhô = Typhon and typho = to smoke.
 
-<span id="fn_11"></span>[1:495:1](laot24.htm#fr_11) Eurip. *Alcestis*,
+<span id="fn_11"></span>[1:495:1](laot24.htm#fr_11.md) Eurip. *Alcestis*,
 last line.
 
-<span id="fn_12"></span>[1:507:1](laot24.htm#fr_12) Probably temple
+<span id="fn_12"></span>[1:507:1](laot24.htm#fr_12.md) Probably temple
 slaves or prostitutes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 21-30](laot25)
+[Next: Chapters 21-30](laot25.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [The
-Pacific](../index) [Index](index) [Previous](lww1) [Next](lww3)
+[Sacred-Texts](../../index.md) [The
+Pacific](../index) [Index](index) [Previous](lww1) [Next](lww3.md)
 
 ------------------------------------------------------------------------
 
@@ -33,13 +33,13 @@ as the *karakia* \[invocations, etc.\], the meanings of which are now
 \[comparatively\] unknown. Because the *tapu* was all important—the
 first of all things; without it none of the powers of the gods were
 available, and without the aid of the gods all things are without
-authority and ineffectual;<span id="fr_1"></span>[1](#note_1) the \[mind
+authority and ineffectual;<span id="fr_1"></span>[1](#note_1.md) the \[mind
 of man\] is now in a state of confusion \[literally, like a whirlwind\],
 as are all his deeds; the land is the same. The Whare-wānangas, the
 *karakias*, the *tuāhus* \[altars\], the *pures* \[or sanctification\]
 of man of different kinds, baptism of men with water, are all abandoned.
 So also are the powers to <span id="page_105">p. 105</span> attract fish
-and birds,<span id="fr_2"></span>[2](#note_2) or to influence the growth
+and birds,<span id="fr_2"></span>[2](#note_2.md) or to influence the growth
 of food-plants. At the present time, different *karakias*, different
 methods, different *tapus*, even a different language prevails. Hence it
 is that the present teaching differs from that of the old priests, such
@@ -48,7 +48,7 @@ hence also it is that I impress on you the \[former\] aspect of these
 things, that you may be clear as to the descent of the *măna-atua*,
 \[the god-like powers\] even from Io \[the Supreme God\], and from the
 Whatu-kuras, Mareikuras, and the Apas of each separate heaven, down to
-the Patu-pai-arehe and Turehu.<span id="fr_3"></span>[3](#note_3) At the
+the Patu-pai-arehe and Turehu.<span id="fr_3"></span>[3](#note_3.md) At the
 present time those kinds of gods no longer exist; they have become
 degraded into reptiles, stones, and trees—such are the present gods. And
 the \[true, original\] reptile-gods, stone-gods, tree-gods no longer
@@ -72,7 +72,7 @@ and their younger brethren, the stars. All of these are worlds \[with
 their\] earth, waters, rocks, trees, mountains, open places and plains.
 \[On this earth\] the ocean and the rivers made the plains and open
 places which we see. It was the gods Mataaho and Whakaru-au-moko<span
-id="fr_4"></span>[4](#note_4) that <span id="page_106">p. 106</span>
+id="fr_4"></span>[4](#note_4.md) that <span id="page_106">p. 106</span>
 changed \[the surface of the earth\] and caused the present ill
 condition of the plains and rivers.
 
@@ -88,7 +88,7 @@ are worlds; earth, water and fire give them their form; and the same
 actuate all things.
 
    Now, the *hau*, or *hau-mapu*, the air, is the complement<span
-id="fr_5"></span>[5](#note_5) of all things, whether of the earth or the
+id="fr_5"></span>[5](#note_5.md) of all things, whether of the earth or the
 heavens, the sun, the moon, or the stars. It is this that continues, or
 holds, the life of all things—hence are there four in all. If there were
 the earth, the ocean, fire, or air alone, nothing would exist, nor have
@@ -139,7 +139,7 @@ stars, have their own form of life. Whatever there is in this world, or
 in the Rangi-tu-haha, all have the same \[i.e., their own special form
 and life\]. Everything, also, that has been mentioned above has a spirit
 \[*wairua*, spirit, soul\] of its own similar to itself, each one has a
-spirit.<span id="fr_6"></span>[6](#note_6)
+spirit.<span id="fr_6"></span>[6](#note_6.md)
 
    Io-te-wānanga \[Io-the-omnierudite\] of the heavens is the origin of
 all things. These are the things that Io-mata-ngaro
@@ -150,9 +150,9 @@ kind. Now this is clear to you.
    You must also be clear on this point: There is nothing made by the
 god Io that has not an end; everything has a termination, whether it be
 a drought, burning by fire, injury by water, by the wind, by earthly
-injuries,<span id="fr_7"></span>[7](#note_7) by the sun, or the moon,
+injuries,<span id="fr_7"></span>[7](#note_7.md) by the sun, or the moon,
 excepting always those forms that the god himself decreed should have an
-end in this world, or other worlds.<span id="fr_8"></span>[8](#note_8)
+end in this world, or other worlds.<span id="fr_8"></span>[8](#note_8.md)
 
    \[At this point one of the audience, Rihari Tohī, exclaimed, 'O Sir!
 How did the things you are teaching become known? Perhaps they <span
@@ -166,17 +166,17 @@ Rauroha—the great *pa* \[enclosure, a fort\] of the Whatu-kuras,
 Marei-kuras, and the innumerable hosts of the Rangi-tu-haha \[the twelve
 heavens\], from the temple Rangi-atea \[see introduction to Chapter I.\]
 where were suspended the *wānanga* of each world, of each heaven, of
-each 'plane'<span id="fr_9"></span>[9](#note_9) of the heavens and the
+each 'plane'<span id="fr_9"></span>[9](#note_9.md) of the heavens and the
 worlds. Tāne-nui-a-rangi begged \[of Io\] the delivery to him of the
 *wānanga* of Rangi-nui and Papa-tua-nuku \[the Sky-father and
 Earth-mother\]. This was assented to by Io-the-father; and this
 knowledge was then brought from Rauroha in heaven to Whare-kura<span
-id="fr_10"></span>[10](#note_10) on earth, and there deposited. Enough!
+id="fr_10"></span>[10](#note_10.md) on earth, and there deposited. Enough!
 This \[that I am teaching you\] is that same *wānanga* \[learning\],
 abstracted from the three 'baskets' \[divisions of knowledge\]. What
 would be the good of the teaching if these things were not contained
 therein, the *wānanga* would not be a valuable property—there would be
-no value in such a *wānanga*.<span id="fr_11"></span>[11](#note_11)
+no value in such a *wānanga*.<span id="fr_11"></span>[11](#note_11.md)
 
    O Son! Be strong! You have nearly completed the Kauwae-runga
 \[Celestial things\], and then we shall go to the Kauwae-raro
@@ -184,9 +184,9 @@ no value in such a *wānanga*.<span id="fr_11"></span>[11](#note_11)
 Now, my word to you is: Do not disclose these matters to strangers.
 Leave them as a 'strengthening knowledge' for you, your brethren, your
 children and your grand-children, to enable you to hold your own in the
-*marae*<span id="fr_12"></span>[12](#note_12) of strangers. For thou art
+*marae*<span id="fr_12"></span>[12](#note_12.md) of strangers. For thou art
 the descendant of Nuku-tama-roro, Nuku-te-moko-ta-hou<span
-id="fr_13"></span>[13](#note_13) as also am I that address thee. I would
+id="fr_13"></span>[13](#note_13.md) as also am I that address thee. I would
 not disclose to you all the precious things of the Whare-wānanga, had
 thou been quite a stranger; but I observe that thou art intelligent and
 quick to learn, and that thou wilt retain what is taught. I am much
@@ -201,7 +201,7 @@ in thy mind.
 
  
 
-### THE POU-TIRI-AO, OR GUARDIAN ANGELS<span id="fr_14"></span>[14](#note_14) OR SPIRITS.
+### THE POU-TIRI-AO, OR GUARDIAN ANGELS<span id="fr_14"></span>[14](#note_14.md) OR SPIRITS.
 
    Behold! At the time that the *wānanga* \[knowledge\] was brought down
 to Whare-kura \[the fifth temple, see introduction to Chapter I.\] by
@@ -213,7 +213,7 @@ winds, to the oceans, to Hades—that is, to Rarohenga at Te Muriwai-hou.
 . . . . . . .
 
    The Pou-tiri-ao, of the heavens and the planes of those heavens are
-eleven in number.<span id="fr_15"></span>[15](#note_15) They have been
+eleven in number.<span id="fr_15"></span>[15](#note_15.md) They have been
 appointed by the Whatu-kuras of Io to the heavens and planes, with all
 pertaining to them. Now, the following is obvious to the thoughts; the
 sun causes death, in that \[his rays\] kill growing things; it is not
@@ -303,7 +303,7 @@ parents; Io-mata-ngaro, he is never seen by man; Io-mata-putahi, he is a
 god of one word \[command\], not of two \[i.e., his single word is
 obeyed, is never altered\]; Io-mata-wai, he is a loving god;
 Io-te-hau-e-rangi, he presides over all the heavens<span
-id="fr_16"></span>[16](#note_16); Io-tamaua-take, nothing of his can be
+id="fr_16"></span>[16](#note_16.md); Io-tamaua-take, nothing of his can be
 changed from what has been decreed. This ends this subject.
 
    \[The name of Io was so sacred that it was rarely mentioned, and then
@@ -317,7 +317,7 @@ all gods of mankind, his own gods, all are gathered in his presence
 \[i.e., proceed from him\]. There is nothing outside or beyond him; with
 him is the power of life, of death, of godship. Enough of this.
 Everything that proceeds from other than Io and his commands, death is
-the collector of those.<span id="fr_17"></span>[17](#note_17) If all his
+the collector of those.<span id="fr_17"></span>[17](#note_17.md) If all his
 commands are obeyed and fulfilled by every one, safety and well-being
 result therefrom.
 
@@ -340,7 +340,7 @@ other worlds or other heavens, moons, or stars. But, let my word be
 thus: let the suns be left out of these my words; for it is the mirage
 or reflection of everything in the worlds; hence, is it said it is a
 *whatu* \[eye ? body\] only, without legs, or arms, or head; it is a
-body only.<span id="fr_18"></span>[18](#note_18)
+body only.<span id="fr_18"></span>[18](#note_18.md)
 
    \[From Pohuhu's teaching we take the following: "The Toi-o-nga-rangi
 \[the uppermost Heaven\] is unapproachable by the Apas \[messengers of
@@ -361,7 +361,7 @@ Io."\]
    Now, Hawaiki was the name of the house \[temple\] at
 Te-Hono-i-wai-rua \['the gathering place of spirits'—in the
 Fatherland\]. It had four doors, one facing the east, one the south, one
-the west, another the north.<span id="fr_19"></span>[19](#note_19) Now,
+the west, another the north.<span id="fr_19"></span>[19](#note_19.md) Now,
 commencing from the period of Rangi and Papa, the \[spirits\] of the
 people of this world, have always followed the four winds <span
 id="page_113">p. 113</span> named \[in their journey to spirit-land\],
@@ -385,7 +385,7 @@ doors. Those spirits which by their evil conduct on this earth, such as
 murderers and those guilty of treachery, left the temple by the
 Takeke-roa (or long rapid, descent) to Rarohenga, or Hades, presided
 over by the evil spirits, Whiro-te-tipua, Hine-nui-te-po<span
-id="fr_20"></span>[20](#note_20) \[Great-mother-of-Hades\], and
+id="fr_20"></span>[20](#note_20.md) \[Great-mother-of-Hades\], and
 Whakaru-ai-moko \[god of volcanic phenomena\]; whilst the others
 ascended the mountain Tawhiti-nui (not to be confounded with the island
 of that name, about which we shall learn later) sometimes called
@@ -449,7 +449,7 @@ assembled there—hence *tuatini*.\]
 
 ------------------------------------------------------------------------
 
-[Next](lww3)
+[Next](lww3.md)
 
 ------------------------------------------------------------------------
 
@@ -457,7 +457,7 @@ assembled there—hence *tuatini*.\]
 
 <span id="footnotes_page_104">p. 104</span>
 
-<span id="note_1"></span>[1](#fr_1). *Waimeha*, without *măna*,
+<span id="note_1"></span>[1](#fr_1.md). *Waimeha*, without *măna*,
 powerless. The Scribe says, although the words of the *karakias* are
 still known, they have lost their ancient power. As a matter of fact
 many hundred *karakias* have been reoorded, as witness the columns of
@@ -466,19 +466,19 @@ publications.
 
 <span id="footnotes_page_105">p. 105</span>
 
-<span id="note_2"></span>[2](#fr_2). Many interesting *karakias* are
+<span id="note_2"></span>[2](#fr_2.md). Many interesting *karakias* are
 still extant, the recitation of which with the proper ritual, were held
 to have power to attract fish to the bait, birds to the snares, and
 other things, in which the old-time Maori had the firmest belief.
 
-<span id="note_3"></span>[3](#fr_3). All knowledge of these matters was
+<span id="note_3"></span>[3](#fr_3.md). All knowledge of these matters was
 brought from the highest Heaven by the god Tāne, and through him beoame
 known to mankind, as will be described later on. The names mentioned are
 those of the male and female guardians, gods and goddesses of the
 various Heavens, the two last being the so-called Fairies, the Apsaras
 of Sanskrit Holy Writ.
 
-<span id="note_4"></span>[4](#fr_4). Mataaho: 'Te hurihanga-i-a-Mataaho'
+<span id="note_4"></span>[4](#fr_4.md). Mataaho: 'Te hurihanga-i-a-Mataaho'
 is the name given to some great terrestrial catastrophe that, acoording
 to the Maoris, changed the appearance of the surface of the earth, and
 left its former plains and pleasant places in hills and valleys. Some
@@ -489,41 +489,41 @@ Whakaru-au-moko is one of the fallen gods, relegated to Hades after the
 great Celestial war of 'Pae-rangi,' and is the author of all
 earthquakes, volcanic outbursts, thermal phenomena, etc.
 
-<span id="note_5"></span>[5](#fr_5). *Whakatutuki*, is the word in the
+<span id="note_5"></span>[5](#fr_5.md). *Whakatutuki*, is the word in the
 original. It ordinarily means 'to bring to a finish,' 'to effectually
 complete.'
 
 <span id="footnotes_page_107">p. 107</span>
 
-<span id="note_6"></span>[6](#fr_6). According to the Rarotongans, every
+<span id="note_6"></span>[6](#fr_6.md). According to the Rarotongans, every
 island known to them had a spirit and a body, developing into a
 spiritual and bodily name for each island; e.g., Tumu-te-varovaro is the
 spiritual name of Rarotonga itself. The people plainly distinguished
 these differences, as *ingoa-vairua* and *ingoa-kopapa*.
 
-<span id="note_7"></span>[7](#fr_7). ? Earthquakes, volcanoes, etc.
+<span id="note_7"></span>[7](#fr_7.md). ? Earthquakes, volcanoes, etc.
 
-<span id="note_8"></span>[8](#fr_8). This is not very clear. Probably,
+<span id="note_8"></span>[8](#fr_8.md). This is not very clear. Probably,
 the interruption following put the Sage off as he did not complete his
 explanation.
 
 <span id="footnotes_page_108">p. 108</span>
 
-<span id="note_9"></span>[9](#fr_9). Kauwhanga, the imaginery place that
+<span id="note_9"></span>[9](#fr_9.md). Kauwhanga, the imaginery place that
 divided the heavens from one another.
 
-<span id="note_10"></span>[10](#fr_10). See Whare-kura in introduction
+<span id="note_10"></span>[10](#fr_10.md). See Whare-kura in introduction
 to Chapter I.
 
-<span id="note_11"></span>[11](#fr_11). The Sage here expressed his
+<span id="note_11"></span>[11](#fr_11.md). The Sage here expressed his
 annoyance at such interruption, and said that but for the attention and
 perseverance of the Scribe, he would cease any further teaching. He went
 on to address the latter, as in the text.
 
-<span id="note_12"></span>[12](#fr_12). *Marae*, the court yard, or
+<span id="note_12"></span>[12](#fr_12.md). *Marae*, the court yard, or
 meeting place in a *pa*, where speeches and ceremonies were held.
 
-<span id="note_13"></span>[13](#fr_13). The first of these names is that
+<span id="note_13"></span>[13](#fr_13.md). The first of these names is that
 of the presiding priest in the Whare-wānaga, named Nga-mahanga \[see
 introduction to Chapter I.\]; the second is that of a very famous
 warrior and leader of the Wai-rarapa people, who was killed near where
@@ -531,7 +531,7 @@ Napier now is by being crushed under a canoe, somewhat about 1830-40.
 
 <span id="footnotes_page_109">p. 109</span>
 
-<span id="note_14"></span>[14](#fr_14). It is perhaps rather stretching
+<span id="note_14"></span>[14](#fr_14.md). It is perhaps rather stretching
 the term 'angel' to apply it in this case; but the Pou-tiri-ao were
 guardian spirits, a kind of minor gods, as we shall see. Pou means a
 pillar, a high-chief, and to appoint; *tiri*, is to scatter as seed;
@@ -539,12 +539,12 @@ pillar, a high-chief, and to appoint; *tiri*, is to scatter as seed;
 guardians, over different realms of nature, as in the case of Tāne, who
 was the special guardian of plants and all work connected with wood.
 
-<span id="note_15"></span>[15](#fr_15). The twelfth heaven: the abode of
+<span id="note_15"></span>[15](#fr_15.md). The twelfth heaven: the abode of
 Io is excluded.
 
 <span id="footnotes_page_111">p. 111</span>
 
-<span id="note_16"></span>[16](#fr_16). The Scribe informs me, the
+<span id="note_16"></span>[16](#fr_16.md). The Scribe informs me, the
 meaning of this is, that Io's presence is in all winds or air, the word
 *hau*, meaning wind, air; hence, perhaps, the name is better translated
 'all pervading,' 'omnipresent.' The idea of the Diety being present in
@@ -552,13 +552,13 @@ the wind is common to all old Maoris. I have often in former days heard
 them say as the wind blew through their hair, that the *atua* \[god\]
 was there.
 
-<span id="note_17"></span>[17](#fr_17). This sentence is somewhat
+<span id="note_17"></span>[17](#fr_17.md). This sentence is somewhat
 contradictory of the preceding; it is, however just as the original has
 it.
 
 <span id="footnotes_page_112">p. 112</span>
 
-<span id="note_18"></span>[18](#fr_18). The teaching here is obscure. It
+<span id="note_18"></span>[18](#fr_18.md). The teaching here is obscure. It
 depends greatly on the word *koroirangi*, translated as mirage, or
 reflection, or refraction, which is its ordinary meaning, and is held by
 the Scribe to be that of the word in the text. But, probably, the true
@@ -567,12 +567,12 @@ expression of Pohuhu's, where he says that the upper heaven is too
 *koroirangi* to be looked on by the eye, in which he means, 'too
 effulgent, too lustrous.'
 
-<span id="note_19"></span>[19](#fr_19). *Marangai*, usually the
+<span id="note_19"></span>[19](#fr_19.md). *Marangai*, usually the
 north-east, but the Scribe says it means north here.
 
 <span id="footnotes_page_113">p. 113</span>
 
-<span id="note_20"></span>[20](#fr_20). Later on we shall see the
+<span id="note_20"></span>[20](#fr_20.md). Later on we shall see the
 peculiar development of Hine-nui-te po. Whakaru-ai-moko is god of
 volcanic phenomena.
 

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls16)  [Next](rls18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls16)  [Next](rls18.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ were now removed by us.
 
 ------------------------------------------------------------------------
 
-[Next: Râmak*ri*sh*n*a's Wife](rls18)
+[Next: Râmak*ri*sh*n*a's Wife](rls18.md)

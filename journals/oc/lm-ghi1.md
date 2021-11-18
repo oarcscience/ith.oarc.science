@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Zoroastrian
-Articles](../../zor/etc/index)
+Heritage](../../index) [Journals](../index.md) [Zoroastrian
+Articles](../../zor/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ its origin at least; for, curiously enough, it expressed the same
 supervening ideas that we have in the Hebrew Yahveh which was later
 thought to mean "the being One," the "I am that I am."<span
 id="page_33_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_33_note_1) This is the very same
+class="small">1</span></sup>](#page_33_note_1.md) This is the very same
 concept which lives essentially and etymologically in Ahura; for He is
 the source and interior of being, *Ahu-ra*; and, so far as I can
 remember, this is the deepest epithet that has ever been prominently
@@ -68,7 +68,7 @@ applied to Deity. With this we have the other name Mazda, "the Great
 Creater," or with tradition the "Great Wise One." No words could be more
 impressive nor more interpenetrating.<span
 id="page_33_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_33_note_2)
+class="small">2</span></sup>](#page_33_note_2.md)
 
  
 
@@ -200,7 +200,7 @@ heavens, snake-like in figure;—again it was the friend of man on hearth
 and altar. Asha became its very synonym, and so from this its
 sacredness, from regularity; it was indeed "God's son."<span
 id="page_36_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_36_note_3) Then too the great ocean
+class="small">3</span></sup>](#page_36_note_3.md) Then too the great ocean
 tides, to recall again the waters, with their ever measurable ebb and
 flood, could not have been altogether unknown to them, our early
 forebears, through hearsay, though living inland:—so too the spring
@@ -239,13 +239,13 @@ that the Rita, Asha, became so exalted as the passionate honor of an
 Holy God in a sense supreme, a deity whose creature, the very foremost
 of all the other divine beings it was declared to be.<span
 id="page_37_fr_4"></span>[<sup><span
-class="small">4</span></sup>](#page_37_note_4) What an exaltation, let
+class="small">4</span></sup>](#page_37_note_4.md) What an exaltation, let
 me again assert it, for simple but awful justice, the first pure
 principle of all sane consciousness at least in man, and as we see, the
 first spiritual force in God. He is not an "infinite person," which
 could only be the language of inadvertence, for a "person cannot be
 infinite,"<span id="page_37_fr_5"></span>[<sup><span
-class="small">5</span></sup>](#page_37_note_5) but He is a *universal
+class="small">5</span></sup>](#page_37_note_5.md) but He is a *universal
 person* in whom we live and move; the Great Omnipotent, Omniscient,
 All-holy;—and He is *ashavan*, no liar.
 
@@ -333,7 +333,7 @@ it;—straightens the flagging lines. It is His Khshathra that brings on
 authority supports the well-won, or the long established, throne. God is
 everywhere supreme according to the doctrine, always as implied<span
 id="page_39_fr_6"></span>[<sup><span
-class="small">6</span></sup>](#page_39_note_6)—through this authority;
+class="small">6</span></sup>](#page_39_note_6.md)—through this authority;
 without His firm grasp all rules would be reversed.
 
  
@@ -348,7 +348,7 @@ eternal nerve indeed of holiness never for an instant left relaxed.
    The Ara-mind of the Truth and Love and Power,—first stirring the
 ploughshare in the mould,—to *ar* in *aratrum*,<span
 id="page_39_fr_7"></span>[<sup><span
-class="small">7</span></sup>](#page_39_note_7)—making fair life
+class="small">7</span></sup>](#page_39_note_7.md)—making fair life
 possible, displacing murder, theft and arson.
 
    It was in fact in the first keen idea of it, *holy work*,—and above
@@ -386,7 +386,7 @@ poorer, is the cause of famine.
 occupation and first of all for the one thing needful, bread, honest
 bread for the hungry, tilling the Holy Earth, herself the sacred
 Aramaiti.<span id="page_40_fr_8"></span>[<sup><span
-class="small">8</span></sup>](#page_40_note_8) This was the idea's
+class="small">8</span></sup>](#page_40_note_8.md) This was the idea's
 origin, as I think; and it was a worthy and noble one, becoming soon
 exalted even in that far-off day till it took its place upon the very
 brow of Deity among the Creator's attributes. Here too it gave the
@@ -497,13 +497,13 @@ first keen conception of them in the first department of the Gâtha;—and
 they are as I need hardly linger to re-asseverate, the sublimest
 conceptions of their particular kind that the world had till then ever
 seen,<span id="page_42_fr_9"></span>[<sup><span
-class="small">9</span></sup>](#page_42_note_9) for here they were
+class="small">9</span></sup>](#page_42_note_9.md) for here they were
 signally assembled for us,—and doubly re-consecrated, as the essence of
 all holiness in a pure God personified.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Zoroastrian Articles](../../zor/etc/index)
+[Journals](../index) [Zoroastrian Articles](../../zor/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -511,43 +511,43 @@ all holiness in a pure God personified.
 
 <span id="footnotes_page_33">p. 33</span>
 
-<span id="page_33_note_1"></span>[1](#page_33_fr_1) An unquestionably
+<span id="page_33_note_1"></span>[1](#page_33_fr_1.md) An unquestionably
 later interpolation of Exilic origin.
 
-<span id="page_33_note_2"></span>[2](#page_33_fr_2) Nor have any more
+<span id="page_33_note_2"></span>[2](#page_33_fr_2.md) Nor have any more
 impressively effective appeared in history.
 
 <span id="footnotes_page_36">p. 36</span>
 
-<span id="page_36_note_3"></span>[3](#page_36_fr_3) A frequent
+<span id="page_36_note_3"></span>[3](#page_36_fr_3.md) A frequent
 expression as applied to it in the late Avesta.
 
 <span id="footnotes_page_37">p. 37</span>
 
-<span id="page_37_note_4"></span>[4](#page_37_fr_4) Mithra, a noble God
+<span id="page_37_note_4"></span>[4](#page_37_fr_4.md) Mithra, a noble God
 indeed like the most exalted of our Archangels, whose cult rivaled
 Christianity for a long time.
 
-<span id="page_37_note_5"></span>[5](#page_37_fr_5) Definition implies
+<span id="page_37_note_5"></span>[5](#page_37_fr_5.md) Definition implies
 limit; see below.
 
 <span id="footnotes_page_39">p. 39</span>
 
-<span id="page_39_note_6"></span>[6](#page_39_fr_6) Here I treat once
+<span id="page_39_note_6"></span>[6](#page_39_fr_6.md) Here I treat once
 for an the mental forces implied everywhere;—seldom are these things
 actually expressed in Avesta as to their preciser point;—but everywhere
 *implied* in every line.
 
-<span id="page_39_note_7"></span>[7](#page_39_fr_7) This is my
+<span id="page_39_note_7"></span>[7](#page_39_fr_7.md) This is my
 suggestion.
 
 <span id="footnotes_page_40">p. 40</span>
 
-<span id="page_40_note_8"></span>[8](#page_40_fr_8) So too in Veda.
+<span id="page_40_note_8"></span>[8](#page_40_fr_8.md) So too in Veda.
 
 <span id="footnotes_page_42">p. 42</span>
 
-<span id="page_42_note_9"></span>[9](#page_42_fr_9) In such remarks I
+<span id="page_42_note_9"></span>[9](#page_42_fr_9.md) In such remarks I
 refer, as I always try to make it plain, to well certified written
 lores.
 

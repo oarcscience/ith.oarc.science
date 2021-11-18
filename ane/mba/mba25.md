@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba24)  [Next](mba26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba24)  [Next](mba26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ Tiglath-pilneser, and
 <span id="page_445">p. 445</span>
 
 <span class="contnote">\[paragraph continues\]</span>
-Tiglath-pileser. <span id="fr_504"></span>[1](#fn_502) He came to the
+Tiglath-pileser. <span id="fr_504"></span>[1](#fn_502.md) He came to the
 Assyrian throne towards the end of April in 745 B.C. and reigned until
 727 B.C. We know nothing regarding his origin, but it seems clear that
 he was not of royal descent. He appears to have been a popular leader of
@@ -121,7 +121,7 @@ garrison
 
 <span id="img_44600"></span> <span align="CENTER"> [![TIGLATH-PILESER IV
 IN HIS CHARIOT&lt;br&gt; Photo. Mansell](tn/44600.jpg)  
-Click to enlarge](img/44600.jpg)  
+Click to enlarge](img/44600.jpg.md)  
 TIGLATH-PILESER IV IN HIS CHARIOT  
 Photo. Mansell  
 </span>
@@ -132,7 +132,7 @@ Photo. Mansell
 
 was slaughtered. Well might Sharduris exclaim, in the words of the
 prophet, "Where is the king of Arpad? where are the gods of
-Arpad?" <span id="fr_505"></span>[1](#fn_503)
+Arpad?" <span id="fr_505"></span>[1](#fn_503.md)
 
 Leaving Arpad, Tiglath-pileser advanced to meet Sharduris, who was
 apparently hastening southward to attack the Assyrians in the rear.
@@ -204,7 +204,7 @@ their tents.
 
 Jehoash afterwards destroyed a large portion of the wall of Jerusalem
 and plundered the temple and palace, returning home to Samaria with rich
-booty and hostages. <span id="fr_506"></span>[1](#fn_504) Judah thus
+booty and hostages. <span id="fr_506"></span>[1](#fn_504.md) Judah thus
 remained a vassal state of Israel's.
 
 Jeroboam, son of Jehoash, had a long and prosperous reign. About 773
@@ -215,7 +215,7 @@ Azariah, son of Amaziah, king of Judah. Six months afterwards he was
 assassinated by Shallum. This usurper held sway at Samaria for only a
 month. "For Menahem the son of Gadi went up from Tirzah, and came to
 Samaria, and smote Shallum the son of Jabesh in Samaria, and slew him,
-and reigned in his stead." <span id="fr_507"></span>[2](#fn_505)
+and reigned in his stead." <span id="fr_507"></span>[2](#fn_505.md)
 
 Tiglath-pileser was operating successfully in middle Syria when he had
 dealings with, among others, "Menihimme (Menahem) of the city of the
@@ -228,7 +228,7 @@ of silver, that his hand might be with him to confirm the kingdom in his
 hand. And Menahem exacted the money of Israel, even of all the mighty
 men of wealth, of each man fifty shekels of silver, to give to the king
 of Assyria. So the king of Assyria turned back, and stayed not there in
-the land." <span id="fr_508"></span>[3](#fn_506) Rezin of Damascus,
+the land." <span id="fr_508"></span>[3](#fn_506.md) Rezin of Damascus,
 Hiram of Tyre, and Zabibi, queen of the Arabians, also sent gifts to
 Tiglath-pileser at this time (738 B.C.). Aramæan revolts on the borders
 of Elam were suppressed by
@@ -264,7 +264,7 @@ interest on account of its Biblical associations. Menahem, king of
 Israel, had died, and was succeeded by his son Pekahiah. "But Pekah the
 son of Remaliah, a captain of his, conspired against him and smote him
 in Samaria, in the palace of the king's house, . . . and he killed him,
-and reigned in his room." <span id="fr_509"></span>[1](#fn_507) When
+and reigned in his room." <span id="fr_509"></span>[1](#fn_507.md) When
 Pekah was on the throne, Ahaz began to reign over Judah.
 
 Judah had taken advantage of the disturbed conditions
@@ -287,7 +287,7 @@ Seek ye me and ye shall live. . . . Have ye offered unto me sacrifices
 and offerings in the wilderness forty years, O house of Israel? But ye
 have borne the tabernacle of your Moloch and Chiun your images, the star
 of your god, which ye made to yourselves. <span
-id="fr_510"></span>[1](#fn_508)</span>
+id="fr_510"></span>[1](#fn_508.md)</span>
 
 Pekah sought to extinguish the orthodox party's movement by subduing
 Judah. So he plotted with Rezin, king of Damascus. Amos prophesied,
@@ -299,7 +299,7 @@ into captivity unto Kir. . . . The remnant of the Philistines shall
 perish.</span>
 
 Tyre, Edom, and Ammon would also be punished. <span
-id="fr_511"></span>[2](#fn_509)
+id="fr_511"></span>[2](#fn_509.md)
 
 Judah was completely isolated by the allies who acknowledged the
 suzerainty of Damascus. Soon after Ahaz came to the throne he found
@@ -310,7 +310,7 @@ Jerusalem to war: and they besieged
 <span id="page_452">p. 452</span>
 
 <span class="contnote">\[paragraph continues\]</span> Ahaz, but could
-not overcome him." <span id="fr_512"></span>[1](#fn_510) Judah, however,
+not overcome him." <span id="fr_512"></span>[1](#fn_510.md) Judah, however,
 was overrun; the city of Elath was captured and restored to Edom, while
 the Philistines were liberated from the control of Jerusalem.
 
@@ -323,16 +323,16 @@ Syria, Ephraim, and the son of Remaliah, have taken evil counsel against
 thee, saying, Let us go up against Judah, and vex it, and let us make a
 breach therein for us, and set a king in the midst of it, even the son
 of Tabeal: Thus saith the Lord God, It shall not stand, neither shall it
-come to pass. <span id="fr_513"></span>[2](#fn_511)</span>
+come to pass. <span id="fr_513"></span>[2](#fn_511.md)</span>
 
 The unstable Ahaz had sought assistance from the Baal, and "made his son
 to pass through the fire, according to the abominations of the
-heathen". <span id="fr_514"></span>[3](#fn_512) Then he resolved to
+heathen". <span id="fr_514"></span>[3](#fn_512.md) Then he resolved to
 purchase the sympathy of one of the great Powers. There was no hope of
 assistance from "the fly that is in the uttermost part of the rivers of
 Egypt", for the Ethiopian Pharaohs had not yet conquered the Delta
 region, so he turned to "the bee that is in the land of Assyria". <span
-id="fr_515"></span>[4](#fn_513) Assyria was the last resource of the
+id="fr_515"></span>[4](#fn_513.md) Assyria was the last resource of the
 king of Judah.
 
 So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying, I am
@@ -344,8 +344,8 @@ the king of Assyria.
 
 And the king of Assyria hearkened unto him: for the king of Assyria went
 up against Damascus, and took it, and carried the people of it captive
-to Kir <span id="fr_516"></span>[5](#fn_514) and slew Rezin. <span
-id="fr_517"></span>[6](#fn_515)
+to Kir <span id="fr_516"></span>[5](#fn_514.md) and slew Rezin. <span
+id="fr_517"></span>[6](#fn_515.md)
 
 <span id="page_453">p. 453</span>
 
@@ -358,14 +358,14 @@ and Janoah and Kedesh, and Hazor, and Gilead, and Galilee, all the land
 of Naphtali, and carried them captive to Assyria. And Hoshea the son of
 Elah made a conspiracy against Pekah the son of Remaliah, and smote him,
 and slew him, and reigned in his stead. <span
-id="fr_518"></span>[1](#fn_516)</span>
+id="fr_518"></span>[1](#fn_516.md)</span>
 
 Tiglath-pileser recorded: "They overthrew Paqaha (Pekah), their king,
 and placed Ausi´a (Hoshea) over them". He swept through Israel "like a
 hurricane". The Philistines and the Arabians of the desert were also
 subdued. Tribute was sent to the Assyrian monarch by Phoenicia, Moab,
 Ammon, and Edom. It was a proud day for Ahaz when he paid a visit to
-Tiglath-pileser at Damascus. <span id="fr_519"></span>[2](#fn_517) An
+Tiglath-pileser at Damascus. <span id="fr_519"></span>[2](#fn_517.md) An
 Assyrian governor was appointed to rule over Syria and its subject
 states.
 
@@ -412,7 +412,7 @@ The Biblical account of the campaign is as follows: "Against him
 (Hoshea) came up Shalmaneser king of Assyria; and Hoshea became his
 servant, and gave him presents. And the king of Assyria found conspiracy
 in Hoshea: for he had sent messengers to So king of Egypt, <span
-id="fr_520"></span>[1](#fn_518) and brought no present to the king of
+id="fr_520"></span>[1](#fn_518.md) and brought no present to the king of
 Assyria,
 
 <span id="page_455">p. 455</span>
@@ -422,18 +422,18 @@ and bound him in prison.
 
 "Then the king of Assyria came up throughout all the land, and went up
 to Samaria, and besieged it three years." <span
-id="fr_521"></span>[1](#fn_519)
+id="fr_521"></span>[1](#fn_519.md)
 
 Shalmaneser died before Samaria was captured, and may have been
 assassinated. The next Assyrian monarch, Sargon II (722-705 B.C.), was
 not related to either of his two predecessors. He is referred to by
-Isaiah, <span id="fr_522"></span>[2](#fn_520) and is the Arkeanos of
+Isaiah, <span id="fr_522"></span>[2](#fn_520.md) and is the Arkeanos of
 Ptolemy. He was the Assyrian monarch who deported the "Lost Ten Tribes".
 
 "In the ninth year of Hoshea" (and the first of Sargon) "the king of
 Assyria took Samaria, and carried Israel away into Assyria, and placed
 them in Halah and in Habor by the river of Gozan, and in the cities of
-the Medes." <span id="fr_523"></span>[3](#fn_521) In all, according to
+the Medes." <span id="fr_523"></span>[3](#fn_521.md) In all, according to
 Sargon's record, "27,290 people dwelling in the midst of it (Samaria) I
 carried off".
 
@@ -464,12 +464,12 @@ Assyria ordered that a Samaritan priest should be sent to "teach them
 the manner of the God of the land". This man was evidently an orthodox
 Hebrew, for he taught them "how they should fear the Lord. . . . So they
 feared the Lord", but also "served their own gods . . . their graven
-images". <span id="fr_524"></span>[1](#fn_522)
+images". <span id="fr_524"></span>[1](#fn_522.md)
 
 There is no evidence to suggest that the "Ten Lost Tribes", "regarding
 whom so many nonsensical theories have been formed", were not ultimately
 absorbed by the peoples among whom they settled between Mesopotamia and
-the Median Highlands. <span id="fr_525"></span>[2](#fn_523) The various
+the Median Highlands. <span id="fr_525"></span>[2](#fn_523.md) The various
 sections must have soon lost touch with one another. They were not
 united like the Jews (the people of Judah), who were transported to
 Babylonia a century and a half later, by a common religious bond, for
@@ -491,7 +491,7 @@ injuries, did
 AND HUMAN-HEADED BULL AND MYTHOLOGICAL BEING&lt;br&gt; &lt;i&gt;From
 doorway in Palace of Sargon at Khorsabad: now in British
 Museum&lt;/i&gt;.&lt;br&gt; Photo. Mansell](tn/45600.jpg)  
-Click to enlarge](img/45600.jpg)  
+Click to enlarge](img/45600.jpg.md)  
 COLOSSAL WINGED AND HUMAN-HEADED BULL AND MYTHOLOGICAL BEING  
 *From doorway in Palace of Sargon at Khorsabad: now in British
 Museum*.  
@@ -510,7 +510,7 @@ stifle the revolt, or hold it in check until the arrival of
 reinforcements. Thanks to their help, the empire was consolidated and
 maintained without too many violent outbreaks in regions far removed
 from the capital, and beyond the immediate reach of the
-sovereign." <span id="fr_526"></span>[1](#fn_524)
+sovereign." <span id="fr_526"></span>[1](#fn_524.md)
 
 While Sargon was absent in the west, a revolt broke out in Babylonia. A
 Chaldæan king, Merodach Baladan III, had allied himself with the
@@ -543,7 +543,7 @@ matured their plans. He met the smith king of Hamath in battle at
 Qarqar, and, having defeated him, had him skinned alive. Then he marched
 southward. At Rapiki (Raphia) he routed an army of allies. Shabi (? So),
 the Tartan (commander-in-chief) of Pi´ru <span
-id="fr_527"></span>[1](#fn_525) (Pharaoh), King of Mutsri (an Arabian
+id="fr_527"></span>[1](#fn_525) (Pharaoh.md), King of Mutsri (an Arabian
 state confused, perhaps, with Misraim = Egypt), escaped "like to a
 shepherd whose sheep have been taken". Piru and other two southern
 kings, Samsi and Itamara, afterwards paid tribute to Sargon. Hanno of
@@ -582,12 +582,12 @@ Lord said, Like as my servant Isaiah hath walked naked and barefoot
 three years for a sign and wonder upon Egypt and upon Ethiopia; so shall
 the king of Assyria lead away the Egyptians prisoners. . . . And they
 (the allies) shall be afraid and ashamed of Ethiopia their expectation,
-and of Egypt their glory." <span id="fr_528"></span>[1](#fn_526)
+and of Egypt their glory." <span id="fr_528"></span>[1](#fn_526.md)
 
 Isaiah warned Ahaz against joining the league, "in the year that
-Tartan <span id="fr_529"></span>[2](#fn_527) came unto Ashdod (when
+Tartan <span id="fr_529"></span>[2](#fn_527.md) came unto Ashdod (when
 Sargon the king of Assyria sent him)". The Tartan "fought against Ashdod
-and took it". <span id="fr_530"></span>[3](#fn_528) According to
+and took it". <span id="fr_530"></span>[3](#fn_528.md) According to
 Sargon's record the Pretender of Ashdod fled to Arabia, where he was
 seized by an Arabian chief and delivered up to Assyria. The pro-Egyptian
 party in Palestine went under a cloud for a period thereafter.
@@ -726,7 +726,7 @@ Amedu . . .
 According to the oracle of the Kulummite(s) . . .  
 A soldier (entered) the camp of the king of Assyria (and killed him?),
 month Ab, day 12th, Sennacherib (sat on the throne). <span
-id="fr_531"></span>[1](#fn_529)</span>
+id="fr_531"></span>[1](#fn_529.md)</span>
 
 </div>
 
@@ -771,7 +771,7 @@ when the intelligence of Sargon's
 <span id="page_465">p. 465</span>
 
 death was bruited abroad. Egypt was concerned in it. Taharka (the
-Biblical Tirhakah <span id="fr_532"></span>[1](#fn_530)), the last
+Biblical Tirhakah <span id="fr_532"></span>[1](#fn_530).md), the last
 Pharaoh of the Ethiopian Dynasty, had dreams of re-establishing Egyptian
 supremacy in Palestine and Syria, and leagued himself with Luli, king of
 Tyre, Hezekiah, king of Judah, and others. Merodach Baladan, the
@@ -779,7 +779,7 @@ Chaldæan king, whom Sargon had deposed, supported by Elamites and
 Aramæans, was also a party to the conspiracy. "At that time Merodach
 Baladan, the son of Baladan, king of Babylon, sent letters and a present
 to Hezekiah . . . And Hezekiah was glad of them." <span
-id="fr_533"></span>[2](#fn_531)
+id="fr_533"></span>[2](#fn_531.md)
 
 Merodach Baladan again seized the throne of Babylon. Sargon's son, who
 had been appointed governor, was murdered and a pretender sat on the
@@ -821,7 +821,7 @@ people against Hezekiah. C1 He wrote also letters to rail on the Lord
 God of Israel, and to speak against him, saying, As the gods of the
 nations of other lands have not delivered their people out of mine hand,
 so shall not the God of Hezekiah deliver his people out of mine
-hand." <span id="fr_534"></span>[1](#fn_532)
+hand." <span id="fr_534"></span>[1](#fn_532.md)
 
 Hezekiah sent his servants to Isaiah, who was in Jerusalem at the time,
 and the prophet said to them:
@@ -831,7 +831,7 @@ Lord, Be not afraid of the words which thou hast heard, with which the
 servants of the king of Assyria have blasphemed me. Behold, I will send
 a blast upon him, and he shall hear a rumour, and shall return to his
 own land; and I will cause him to fall by the sword in his own
-land. <span id="fr_535"></span>[2](#fn_533)</span>
+land. <span id="fr_535"></span>[2](#fn_533.md)</span>
 
 According to Berosus, the Babylonian priestly historian, the camp of
 Sennacherib was visited in the night by swarms of field mice which ate
@@ -847,7 +847,7 @@ the Lord went out, and smote the camp of the Assyrians an hundred and
 four score and five thousand: and when they arose early in the morning,
 behold, they were all dead corpses. So Sennacherib king of Assyria
 departed, and went and returned and dwelt at Nineveh. <span
-id="fr_536"></span>[1](#fn_534)</span>
+id="fr_536"></span>[1](#fn_534.md)</span>
 
 A pestilence may have broken out in the camp, the infection, perhaps,
 having been carried by field mice. Byron's imagination was stirred by
@@ -923,7 +923,7 @@ CITY OF . . .ALAMMU (? JERUSALEM) BY THE ASSYRIANS UNDER
 SENNACHERIB&lt;br&gt; The besieging archers are protected by wicker
 screens&lt;br&gt; &lt;i&gt;Marble Slab from Kouyunjik (Nineveh): now in
 British Museum&lt;/i&gt;.&lt;br&gt; Photo. Mansell](tn/46800.jpg)  
-Click to enlarge](img/46800.jpg)  
+Click to enlarge](img/46800.jpg.md)  
 ASSAULT ON THE CITY OF . . .ALAMMU (? JERUSALEM) BY THE ASSYRIANS UNDER
 SENNACHERIB  
 The besieging archers are protected by wicker screens  
@@ -941,7 +941,7 @@ and its houses," Sennacherib recorded, "from foundation to roof; I
 destroyed them, I demolished them, I burned them with fire; walls,
 gateways, sacred chapels, and the towers of earth and tiles, I laid them
 low and cast them into the Arakhtu." <span
-id="fr_537"></span>[1](#fn_535)
+id="fr_537"></span>[1](#fn_535.md)
 
 "So thorough was Sennacherib's destruction of the city in 689 B.C.,"
 writes Mr. King, "that after several years of work, Dr. Koldewey
@@ -951,7 +951,7 @@ recognized, and contract-tablets have been found which date from the
 period of the First Dynasty. Moreover, a number of earlier pot-burials
 have been unearthed, but a careful examination of the greater part of
 the ruins has added little to our knowledge of this most famous city
-before the Neo-Babylonian period." <span id="fr_538"></span>[2](#fn_536)
+before the Neo-Babylonian period." <span id="fr_538"></span>[2](#fn_536.md)
 
 It is possible that Sennacherib desired to supplant Babylon as a
 commercial metropolis by Nineveh. He extended and fortified that city,
@@ -1045,7 +1045,7 @@ the nations delivered them which my fathers have destroyed, as Gozan,
 and Haran, and Rezeph, and the children of Eden which were in Telassar?
 Where is the king of Hamath, and the king of Arphad, and the king of the
 city of Sepharvaim, Hena, and Ivah?" <span
-id="fr_539"></span>[1](#fn_537) Sidon was a party to the pro-Egyptian
+id="fr_539"></span>[1](#fn_537.md) Sidon was a party to the pro-Egyptian
 league which had been formed in Palestine and Syria.
 
 Early in his reign Esarhaddon conducted military operations in the west,
@@ -1101,7 +1101,7 @@ the sight of the Lord, to provoke him to anger. And he set a graven
 image of the grove that he had made in the house, of which the Lord said
 to David, and to Solomon his son, In this house, and in Jerusalem, which
 I have chosen out of all tribes of Israel, will I put my name for
-ever. <span id="fr_540"></span>[1](#fn_538)</span>
+ever. <span id="fr_540"></span>[1](#fn_538.md)</span>
 
 <span id="page_474">p. 474</span>
 
@@ -1110,12 +1110,12 @@ to Rabbinic traditions he was seized by his enemies and enclosed in the
 hollow trunk of a tree, which was sawn through. Other orthodox teachers
 appear to have been slain also. "Manasseh shed innocent blood very much,
 till he had filled Jerusalem from one end to another." <span
-id="fr_541"></span>[1](#fn_539) It is possible that there is a reference
+id="fr_541"></span>[1](#fn_539.md) It is possible that there is a reference
 to Isaiah's fate in an early Christian lament regarding the persecutions
 of the faithful: "Others had trial of cruel mockings and scourgings,
 yea, moreover of bonds and imprisonment: they were stoned, *they were
 sawn asunder*, were tempted, were slain with the sword". <span
-id="fr_542"></span>[2](#fn_540) There is no Assyrian evidence regarding
+id="fr_542"></span>[2](#fn_540.md) There is no Assyrian evidence regarding
 the captivity of Manasseh. "Wherefore the Lord brought upon them (the
 people of Judah) the captains of the host of the king of Assyria, which
 took Manasseh among the thorns, and bound him with fetters, and carried
@@ -1123,7 +1123,7 @@ him to Babylon. And when he was in affliction, he besought the Lord his
 God, and humbled himself greatly before the God of his fathers, and
 prayed unto him: and he was intreated of him, and heard his
 supplication, and brought him again to Jerusalem into his
-kingdom." <span id="fr_543"></span>[3](#fn_541) It was, however, in
+kingdom." <span id="fr_543"></span>[3](#fn_541.md) It was, however, in
 keeping with the policy of Esarhaddon to deal in this manner with an
 erring vassal. The Assyrian records include Manasseh of Judah (Menasê of
 the city of Yaudu) with the kings of Edom, Moab, Ammon, Tyre, Ashdod,
@@ -1150,7 +1150,7 @@ kings, including Necho of Sais, had set over them Assyrian governors.
 Tyre was also captured.
 
 When he returned home Esarhaddon erected at the Syro-Cappadocian city of
-Singirli <span id="fr_544"></span>[1](#fn_542) a statue of victory,
+Singirli <span id="fr_544"></span>[1](#fn_542.md) a statue of victory,
 which is now in the Berlin museum. On this memorial the Assyrian "King
 of the kings of Egypt" is depicted as a giant. With one hand he pours
 out an oblation to a god; in the other he grasps his sceptre and two
@@ -1203,44 +1203,44 @@ His son Ashur-bani-pal was the last great Assyrian ruler.
 
 ### Footnotes
 
-<span id="fn_502"></span>[445:1](mba25.htm#fr_504) *2 Kings*, xv, 19 and
+<span id="fn_502"></span>[445:1](mba25.htm#fr_504.md) *2 Kings*, xv, 19 and
 29; *2 Chronicles*, xxviii, 20.
 
-<span id="fn_503"></span>[447:1](mba25.htm#fr_505) *2 Kings*, xviii, 34
+<span id="fn_503"></span>[447:1](mba25.htm#fr_505.md) *2 Kings*, xviii, 34
 and xix, 13.
 
-<span id="fn_504"></span>[449:1](mba25.htm#fr_506) *2 Kings*, xiv, 1-14.
+<span id="fn_504"></span>[449:1](mba25.htm#fr_506.md) *2 Kings*, xiv, 1-14.
 
-<span id="fn_505"></span>[449:2](mba25.htm#fr_507) *2 Kings*, xv, 1-14.
+<span id="fn_505"></span>[449:2](mba25.htm#fr_507.md) *2 Kings*, xv, 1-14.
 
-<span id="fn_506"></span>[449:3](mba25.htm#fr_508) *2 Kings*, xv, 19,
+<span id="fn_506"></span>[449:3](mba25.htm#fr_508.md) *2 Kings*, xv, 19,
 20.
 
-<span id="fn_507"></span>[450:1](mba25.htm#fr_509) *2 Kings*, xv, 25.
+<span id="fn_507"></span>[450:1](mba25.htm#fr_509.md) *2 Kings*, xv, 25.
 
-<span id="fn_508"></span>[451:1](mba25.htm#fr_510) *Amos*, v.
+<span id="fn_508"></span>[451:1](mba25.htm#fr_510.md) *Amos*, v.
 
-<span id="fn_509"></span>[451:2](mba25.htm#fr_511) *Amos*, i.
+<span id="fn_509"></span>[451:2](mba25.htm#fr_511.md) *Amos*, i.
 
-<span id="fn_510"></span>[452:1](mba25.htm#fr_512) *2 Kings*, xvi, 5.
+<span id="fn_510"></span>[452:1](mba25.htm#fr_512.md) *2 Kings*, xvi, 5.
 
-<span id="fn_511"></span>[452:2](mba25.htm#fr_513) *Isaiah*, vii, 3-7.
+<span id="fn_511"></span>[452:2](mba25.htm#fr_513.md) *Isaiah*, vii, 3-7.
 
-<span id="fn_512"></span>[452:3](mba25.htm#fr_514) *2 Kings*, xv, 3.
+<span id="fn_512"></span>[452:3](mba25.htm#fr_514.md) *2 Kings*, xv, 3.
 
-<span id="fn_513"></span>[452:4](mba25.htm#fr_515) *Isaiah*, vii, s 8.
+<span id="fn_513"></span>[452:4](mba25.htm#fr_515.md) *Isaiah*, vii, s 8.
 
-<span id="fn_514"></span>[452:5](mba25.htm#fr_516) Kir was probably on
+<span id="fn_514"></span>[452:5](mba25.htm#fr_516.md) Kir was probably on
 the borders of Elam.
 
-<span id="fn_515"></span>[452:6](mba25.htm#fr_517) *2 Kings*, xvi, 7-9.
+<span id="fn_515"></span>[452:6](mba25.htm#fr_517.md) *2 Kings*, xvi, 7-9.
 
-<span id="fn_516"></span>[453:1](mba25.htm#fr_518) *2 Kings*, xv, 29,
+<span id="fn_516"></span>[453:1](mba25.htm#fr_518.md) *2 Kings*, xv, 29,
 30.
 
-<span id="fn_517"></span>[453:2](mba25.htm#fr_519) *2 Kings*, xvi, 10.
+<span id="fn_517"></span>[453:2](mba25.htm#fr_519.md) *2 Kings*, xvi, 10.
 
-<span id="fn_518"></span>[454:1](mba25.htm#fr_520) In the Hebrew text
+<span id="fn_518"></span>[454:1](mba25.htm#fr_520.md) In the Hebrew text
 this monarch is called Sua, Seveh, and So, says Maspero. The Assyrian
 texts refer to him as Sebek, Shibahi, Shabè, &c. He has been identified
 with Pharaoh Shabaka of the Twenty-fifth Egyptian Dynasty; that monarch
@@ -1249,76 +1249,76 @@ is that he was Seve, <span id="page_455">p. 455</span> king of Mutsri,
 and still another that he was a petty king of an Egyptian state in the
 Delta and not Shabaka.
 
-<span id="fn_519"></span>[455:1](mba25.htm#fr_521) *2 Kings*, xvii, 3-5.
+<span id="fn_519"></span>[455:1](mba25.htm#fr_521.md) *2 Kings*, xvii, 3-5.
 
-<span id="fn_520"></span>[455:2](mba25.htm#fr_522) *Isaiah*, xx, 1.
+<span id="fn_520"></span>[455:2](mba25.htm#fr_522.md) *Isaiah*, xx, 1.
 
-<span id="fn_521"></span>[455:3](mba25.htm#fr_523) *2 Kings*, xvii, 6.
+<span id="fn_521"></span>[455:3](mba25.htm#fr_523.md) *2 Kings*, xvii, 6.
 
-<span id="fn_522"></span>[456:1](mba25.htm#fr_524) *2 Kings*, xvii,
+<span id="fn_522"></span>[456:1](mba25.htm#fr_524.md) *2 Kings*, xvii,
 16-41.
 
-<span id="fn_523"></span>[456:2](mba25.htm#fr_525) The people carried
+<span id="fn_523"></span>[456:2](mba25.htm#fr_525.md) The people carried
 away would not be the whole of the inhabitants--only, one would suppose,
 the more important personages, enough to make up the number 27,290 given
 above.
 
-<span id="fn_524"></span>[457:1](mba25.htm#fr_526) *Passing of the
+<span id="fn_524"></span>[457:1](mba25.htm#fr_526.md) *Passing of the
 Empires*, pp. 200-1.
 
-<span id="fn_525"></span>[458:1](mba25.htm#fr_527) Those who, like
+<span id="fn_525"></span>[458:1](mba25.htm#fr_527.md) Those who, like
 Breasted, identify "Piru of Mutsri" with "Pharaoh of Egypt" adopt the
 view that Bocchoris of Sais paid tribute to Sargon. Piru, however, is
 subsequently referred to with two Arabian kings as tribute payers to
 Sargon apparently after Lower Egypt had come under the sway of Shabaka,
 the first king of the Ethiopian or Twenty-fifth Dynasty.
 
-<span id="fn_526"></span>[459:1](mba25.htm#fr_528) *Isaiah*, xx, 2-5.
+<span id="fn_526"></span>[459:1](mba25.htm#fr_528.md) *Isaiah*, xx, 2-5.
 
-<span id="fn_527"></span>[459:2](mba25.htm#fr_529) Commander-in-chief.
+<span id="fn_527"></span>[459:2](mba25.htm#fr_529.md) Commander-in-chief.
 
-<span id="fn_528"></span>[459:3](mba25.htm#fr_530) *Isaiah*, xx, 1.
+<span id="fn_528"></span>[459:3](mba25.htm#fr_530.md) *Isaiah*, xx, 1.
 
-<span id="fn_529"></span>[463:1](mba25.htm#fr_531) *The Old Testament in
+<span id="fn_529"></span>[463:1](mba25.htm#fr_531.md) *The Old Testament in
 the Light of the Historical Records and Legends of Assyria and
 Babylonia*, T. G. Pinches, p. 392.
 
-<span id="fn_530"></span>[465:1](mba25.htm#fr_532) *Isaiah*, xxxvii, 9.
+<span id="fn_530"></span>[465:1](mba25.htm#fr_532.md) *Isaiah*, xxxvii, 9.
 
-<span id="fn_531"></span>[465:2](mba25.htm#fr_533) *Isaiah*, xxxix, 1,
+<span id="fn_531"></span>[465:2](mba25.htm#fr_533.md) *Isaiah*, xxxix, 1,
 2.
 
-<span id="fn_532"></span>[466:1](mba25.htm#fr_534) *2 Chronicles*,
+<span id="fn_532"></span>[466:1](mba25.htm#fr_534.md) *2 Chronicles*,
 xxxii, 9-17.
 
-<span id="fn_533"></span>[466:2](mba25.htm#fr_535) *2 Kings*, xix, 6, 7.
+<span id="fn_533"></span>[466:2](mba25.htm#fr_535.md) *2 Kings*, xix, 6, 7.
 
-<span id="fn_534"></span>[467:1](mba25.htm#fr_536) *2 Kings*, xix, 35,
+<span id="fn_534"></span>[467:1](mba25.htm#fr_536.md) *2 Kings*, xix, 35,
 36.
 
-<span id="fn_535"></span>[469:1](mba25.htm#fr_537) Smith-Sayce, *History
+<span id="fn_535"></span>[469:1](mba25.htm#fr_537.md) Smith-Sayce, *History
 of Sennacherib*, pp. 132-5.
 
-<span id="fn_536"></span>[469:2](mba25.htm#fr_538) *A History of Sumer
+<span id="fn_536"></span>[469:2](mba25.htm#fr_538.md) *A History of Sumer
 and Akkad*, p. 37.
 
-<span id="fn_537"></span>[472:1](mba25.htm#fr_539) *Isaiah*, xxxvii,
+<span id="fn_537"></span>[472:1](mba25.htm#fr_539.md) *Isaiah*, xxxvii,
 8-13.
 
-<span id="fn_538"></span>[473:1](mba25.htm#fr_540) *2 Kings*, xxi, 3-7.
+<span id="fn_538"></span>[473:1](mba25.htm#fr_540.md) *2 Kings*, xxi, 3-7.
 
-<span id="fn_539"></span>[474:1](mba25.htm#fr_541) *2 Kings*, xxi, 16.
+<span id="fn_539"></span>[474:1](mba25.htm#fr_541.md) *2 Kings*, xxi, 16.
 
-<span id="fn_540"></span>[474:2](mba25.htm#fr_542) *Hebrews*, xi, 36,
+<span id="fn_540"></span>[474:2](mba25.htm#fr_542.md) *Hebrews*, xi, 36,
 37.
 
-<span id="fn_541"></span>[474:3](mba25.htm#fr_543) *2 Chronicles*,
+<span id="fn_541"></span>[474:3](mba25.htm#fr_543.md) *2 Chronicles*,
 xxxiii, 11-3. It may be that Manasseh was taken to Babylon during
-Ashur-bani-pal's reign. See [next chapter](mba26.htm#an_ch-20).
+Ashur-bani-pal's reign. See [next chapter](mba26.htm#an_ch-20.md).
 
-<span id="fn_542"></span>[475:1](mba25.htm#fr_544) Pronounce *g* as in
+<span id="fn_542"></span>[475:1](mba25.htm#fr_544.md) Pronounce *g* as in
 *gem*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. The Last Days of Assyria and Babylonia](mba26)
+[Next: Chapter XX. The Last Days of Assyria and Babylonia](mba26.md)

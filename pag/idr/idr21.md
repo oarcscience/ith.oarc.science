@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr20) 
-[Next](idr22) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr20.md) 
+[Next](idr22.md) 
 
 ------------------------------------------------------------------------
 
@@ -785,4 +785,4 @@ snows of a glacial epoch."
 
 ------------------------------------------------------------------------
 
-[Next: Sun-Worship](idr22)
+[Next: Sun-Worship](idr22.md)

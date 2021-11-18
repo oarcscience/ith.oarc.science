@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat17)  [Next](aat19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat17)  [Next](aat19.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ stone. Next night this shaman's hair turned as white as snow.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Fish-Hawk and His Daughter](aat19)
+[Next: 5. Fish-Hawk and His Daughter](aat19.md)

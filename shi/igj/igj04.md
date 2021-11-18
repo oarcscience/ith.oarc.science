@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj03)  [Next](igj05) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj03)  [Next](igj05.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ the Katabira" (*Katabira-no-Tsuchi*).\]
 
 ------------------------------------------------------------------------
 
-[Next: Incense](igj05)
+[Next: Incense](igj05.md)

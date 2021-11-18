@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt02)  [Next](crt04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt02)  [Next](crt04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ id="page_17">p. 17</span> <span id="Page_17"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Introduction](crt04)
+[Next: Chapter I. Introduction](crt04.md)

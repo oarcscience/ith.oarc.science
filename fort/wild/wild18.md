@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[ESP](../../psi/index)  [Index](index)  [Previous](wild17) 
-[Next](wild19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[ESP](../../psi/index)  [Index](index)  [Previous](wild17.md) 
+[Next](wild19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Wild Talents*, by Charles Fort, \[1933\], at Intangible Textual
 Heritage
 
@@ -252,7 +252,7 @@ pre-natally marked, I'd like to hear his opinion of a story that I take
 from the *London Daily Express*, May 14, 1921. Kitten, born at Nice,
 France—white belly distinctly marked with the gray figures, *1921*—the
 mother cat had probably been looking intently at something, such as a
-[calendar](errata.htm#4), so dated. "Or reading a newspaper?" said
+[calendar](errata.htm#4.md), so dated. "Or reading a newspaper?" said
 scornful doctor would ask, pointing out that, if I think there are
 talking dogs, it is only a small "extension," as I'd call it, to think
 of educated cats keeping themselves informed upon current events.
@@ -425,7 +425,7 @@ Then the Abbé's conclusions:
 
 "Savants, though you may try your hardest to explain these facts by
 natural causes, you will not succeed." He thinks that the artillery of
-heaven had been directed [against](errata.htm#5) the impious Town
+heaven had been directed [against](errata.htm#5.md) the impious Town
 Council. However people with cabbages suffered more than people with
 impieties.
 
@@ -475,4 +475,4 @@ with the religious pictures on hailstones, is thinkable by me.
 
 ------------------------------------------------------------------------
 
-[Next: 19](wild19)
+[Next: 19](wild19.md)

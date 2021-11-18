@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Next](intro)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Next](intro.md)
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ experience.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](intro)
+[Next: Introduction](intro.md)

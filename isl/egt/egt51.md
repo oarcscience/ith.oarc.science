@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt50)  [Next](egt52) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt50)  [Next](egt52.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ braggart man shows but contemptibly.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE TRUST IN GOD SHOWN BY OLD WOMEN.](egt52)
+[Next: ON THE TRUST IN GOD SHOWN BY OLD WOMEN.](egt52.md)

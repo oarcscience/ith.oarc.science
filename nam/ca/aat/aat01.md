@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat00)  [Next](aat02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat00)  [Next](aat02.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ Snook, and among the latter Charley Green and "Old Wool."
 
 ------------------------------------------------------------------------
 
-[Next: 1. Creation Myth (Achomawi)](aat02)
+[Next: 1. Creation Myth (Achomawi)](aat02.md)

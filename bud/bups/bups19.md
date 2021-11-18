@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bups18)  [Next](bups20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bups18)  [Next](bups20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4KM0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4KM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Psalms*, by S. Yamabe and L. Adams Beck, \[1921\], at
 Intangible Textual Heritage
 
@@ -150,4 +150,4 @@ Buddha of Infinite Light.
 
 ------------------------------------------------------------------------
 
-[Next: In Praise of Prince Shotoku](bups20)
+[Next: In Praise of Prince Shotoku](bups20.md)

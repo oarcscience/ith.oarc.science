@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Next](mttm01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Next](mttm01.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,9 +21,9 @@ Scanned for Intangible Textual Heritage, November 2006. This text is in
 the public domain because it was not renewed at the US Copyright Office
 in a timely fashion as required by law.
 
-<span id="img_cover"></span> ![Front Cover](img/cover.jpg)  
+<span id="img_cover"></span> ![Front Cover](img/cover.jpg.md)  
 Front Cover
 
 ------------------------------------------------------------------------
 
-[Next: My Trip to Mars](mttm01)
+[Next: My Trip to Mars](mttm01.md)

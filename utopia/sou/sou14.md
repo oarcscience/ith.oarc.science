@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](sou13)  [Next](sou15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](sou13)  [Next](sou15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -844,4 +844,4 @@ mixing it with baser metals.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Twelve](sou15)
+[Next: Chapter Twelve](sou15.md)

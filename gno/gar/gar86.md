@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar85)  [Next](gar87) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar85)  [Next](gar87.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="img_pl_o"></span> <span align="CENTER"> [![Plate
 O](tn/pl_o.jpg)  
-Click to enlarge](img/pl_o.jpg)  
+Click to enlarge](img/pl_o.jpg.md)  
 Plate O  
 </span>
 
@@ -54,7 +54,7 @@ in them by the employment of different colours. Those figured here
 designate the followers of Vishnu.
 
 II\. These marks distinguish the votaries of Siva and his wife,
-[Parvati](errata.htm#33). The most obvious symbol of the Passive
+[Parvati](errata.htm#33.md). The most obvious symbol of the Passive
 Principle of Nature, the mystic *Yoni*, (and with which Sesostris
 branded the nations that had submitted to his arms without resistance)
 is decorously repressed in the general form of these marks, the two
@@ -112,4 +112,4 @@ belong, is still regularly followed.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliographical Appendix](gar87)
+[Next: Bibliographical Appendix](gar87.md)

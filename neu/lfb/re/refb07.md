@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb06)  [Next](refb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb06)  [Next](refb08.md) 
 
 </div>
 
@@ -486,6 +486,6 @@ the old King's death is not known.\[4\]
 
 ------------------------------------------------------------------------
 
-[Next: The Master Thief](refb08)
+[Next: The Master Thief](refb08.md)
 
 </div>

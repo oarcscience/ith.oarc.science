@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar207) [Next](gbar209)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar207) [Next](gbar209.md)
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ called apostles.
 
 ------------------------------------------------------------------------
 
-[Next](gbar209)
+[Next](gbar209.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj51) 
-[Next](npj53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj51.md) 
+[Next](npj53.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ Rokujō-kawara no In.
 
 ------------------------------------------------------------------------
 
-[Next: Mai-Guruma (The Dance Waggons)](npj53)
+[Next: Mai-Guruma (The Dance Waggons)](npj53.md)

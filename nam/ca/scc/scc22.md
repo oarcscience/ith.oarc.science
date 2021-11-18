@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc21)  [Next](scc23) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc21)  [Next](scc23.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ them.\]
 
 ------------------------------------------------------------------------
 
-[Next: 21.--Tachi Yokuts. The Wolf And The Crane.](scc23)
+[Next: 21.--Tachi Yokuts. The Wolf And The Crane.](scc23.md)

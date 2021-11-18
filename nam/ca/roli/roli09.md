@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli08)  [Next](roli10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli08)  [Next](roli10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
 #### WUKUNISH, THE GIRLS’ CEREMONY.
 
-The girls’ ceremony, Wukunish, <span id="fr_39"></span>[36](#fn_36) was
+The girls’ ceremony, Wukunish, <span id="fr_39"></span>[36](#fn_36.md) was
 the initiatory ceremony made for the girl upon her entrance into
 womanhood.
 
@@ -36,13 +36,13 @@ The girl, or girls, if several, would be seated upon the ground, and in
 front of her would be placed a big basket three feet or so in diameter,
 containing feather head-dresses, feather skirts, the sacred stones
 wiala, large quartz crystals, and possibly others. <span
-id="fr_40"></span>[37](#fn_37) The chief, taking some tobacco in his
+id="fr_40"></span>[37](#fn_37.md) The chief, taking some tobacco in his
 hand, would powder it in his fingers, at the same time rolling it into a
 ball; and kneeling in front of the candidate would make the
 indescribable sound of invocation with curious forward motions of arm
 and body three times repeated, the third time placing the ball of
 tobacco in the girl's mouth. Warm water was then administered in a
-basket, chilkwit. <span id="fr_41"></span>[38](#fn_38) If she should
+basket, chilkwit. <span id="fr_41"></span>[38](#fn_38.md) If she should
 vomit, it was taken as a sign that she had not been virtuous; but if she
 were good she would not vomit. This was a severe test.
 
@@ -51,7 +51,7 @@ a large hole that had been previously dug in the ground and heated by a
 fire and when sufficiently warm lined with green boughs and covered with
 brush. Two sacred plants were used for this purpose, nenaxel pachayel
 (double name), sumac and a kind of sedge. <span
-id="fr_42"></span>[39](#fn_39) The names of these two plants are always
+id="fr_42"></span>[39](#fn_39.md) The names of these two plants are always
 given together in a double term in the list of the First People.
 
 The girl is placed there for three days. Only her mother or the wife of
@@ -81,7 +81,7 @@ the women dance and sing songs different from those of the men. This
 will be kept up constantly for three days, a second village coming and
 continuing the ceremony, and so on. A men's ashish song is preserved on
 phonograph record 397 of the University of California. It begins: "No
-ash-wo, I am menstruating." <span id="fr_43"></span>[40](#fn_40) One man
+ash-wo, I am menstruating." <span id="fr_43"></span>[40](#fn_40.md) One man
 sings this while all the men dance. The song mentions the mountains that
 were First People: San Bernardino (Gray-head), the older brother; and
 San Jacinto, the younger brother; and all the other places, the hot
@@ -156,23 +156,23 @@ upon the rock at the time when it is first painted.
 
 ### Footnotes
 
-<span id="fn_36"></span>[93:36](roli09.htm#fr_39) Luiseño, ashish,
+<span id="fn_36"></span>[93:36](roli09.htm#fr_39.md) Luiseño, ashish,
 menses. Mr. Sparkman gives wekenish, girls’ puberty ceremony; ashish,
 song at this ceremony; ash-k, undergo first menstruation. The Diegueño
 call the ceremony A-kil.
 
-<span id="fn_37"></span>[94:37](roli09.htm#fr_40) See H. N. Rust, Amer.
+<span id="fn_37"></span>[94:37](roli09.htm#fr_40.md) See H. N. Rust, Amer.
 Anthrop., n.s., VIII, 28, 1906.
 
-<span id="fn_38"></span>[94:38](roli09.htm#fr_41) Chilkwut, basket hat,
+<span id="fn_38"></span>[94:38](roli09.htm#fr_41.md) Chilkwut, basket hat,
 also used as cup.—S.
 
-<span id="fn_39"></span>[94:39](roli09.htm#fr_42) Nenexyal (x German
+<span id="fn_39"></span>[94:39](roli09.htm#fr_42.md) Nenexyal (x German
 ch), tussock-grass; pachayat or pachayal, a coarse grass or sedge.—S.
 
-<span id="fn_40"></span>[95:40](roli09.htm#fr_43) Non ashk, or non
+<span id="fn_40"></span>[95:40](roli09.htm#fr_43.md) Non ashk, or non
 ashka, I am menstruating the first time.—S.
 
 ------------------------------------------------------------------------
 
-[Next: Sacred Chungichnish Objects](roli10)
+[Next: Sacred Chungichnish Objects](roli10.md)

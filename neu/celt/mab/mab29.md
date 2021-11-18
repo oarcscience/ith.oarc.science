@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab28)  [Next](mab30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab28)  [Next](mab30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 
 ### MAXEN WLEDIG.
 
-<span id="xref_443a">443a</span> *Page* [443](mab28.htm#page_443).
+<span id="xref_443a">443a</span> *Page* [443](mab28.htm#page_443.md).
 
 MAXIMUS, the Maxen of the present Tale, was invested by his army with
 the Imperial purple in the year 383. He was of low birth, and Spanish
@@ -148,4 +148,4 @@ translation of it has hitherto appeared.
 
 ------------------------------------------------------------------------
 
-[Next: Here is the Story of Lludd and Llevelys](mab30)
+[Next: Here is the Story of Lludd and Llevelys](mab30.md)

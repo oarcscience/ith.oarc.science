@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus03)  [Next](csus05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus03)  [Next](csus05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ prudence and success.
 
 ------------------------------------------------------------------------
 
-[Next: II.—Historical.](csus05)
+[Next: II.—Historical.](csus05.md)

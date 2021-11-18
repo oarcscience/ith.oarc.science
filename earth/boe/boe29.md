@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe28)  [Next](boe30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe28)  [Next](boe30.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ no more."
 In Hildegard's universe, the Earth was the centre, and spherical, around
 which were arranged concentric shells or zones. The inner zones are
 spherical, the outer oval or egg-shaped, and the outermost ([Fig.
-92](#img_fig092)) so formed as to suggest the acuminated sphere that
+92](#img_fig092).md) so formed as to suggest the acuminated sphere that
 symbolises the fifth element, quintessence of the other four. This point
 that tapers into outer space is in the East, which is the top of the
 diagram. One of her drawings shows, says Singer, that she believed the
@@ -70,7 +70,7 @@ folio 14 r.&lt;br&gt; (From ''The Scientific Views and Visions of Saint
 Hildegard,'' by Charles Singer; in &lt;i&gt;Studies in the History and
 Method of Science&lt;/i&gt;, ed. by Charles Singer, 1917. Vol. Fig.
 2.)](tn/fig092.jpg)  
-Click to enlarge](img/fig092.jpg)  
+Click to enlarge](img/fig092.jpg.md)  
 FIGURE 92. *Hildegard's first scheme of the Universe*. Slightly
 simplified from the Wiesbaden Codex B, folio 14 r.  
 (From ''The Scientific Views and Visions of Saint Hildegard,'' by
@@ -96,7 +96,7 @@ remain until subjected to the melting pot of the Lord Judgment, when
 they will emerge in a new and eternal harmony, no longer mixed as
 matter, but separate and pure, parts of a new heaven and a new Earth."
 
-Around this world, says Singer, <span id="fr_17"></span>[1](#fn_17) is
+Around this world, says Singer, <span id="fr_17"></span>[1](#fn_17.md) is
 spread the atmosphere, the *aer lucidus* or *alba pellis*, also
 circular. Through this *alba pellis* no Earth creature can penetrate.
 Later Hildegard seems to have divided this first zone of air into two,
@@ -116,7 +116,7 @@ Macrocosm with the Microcosm&lt;/i&gt;.&lt;br&gt; From ''The Scientific
 Views and Visions of Saint Hildegard,'' by Charles Singer. In
 &lt;i&gt;Studies in the History and Method of Science&lt;/i&gt;, ed. by
 Charles Singer, 1917, Vol. I, Plate VII.](tn/pl37.jpg)  
-Click to enlarge](img/pl37.jpg)  
+Click to enlarge](img/pl37.jpg.md)  
 PLATE XXXVII. *Nous pervaded by the Godhead embracing the Macrocosm with
 the Microcosm*.  
 From ''The Scientific Views and Visions of Saint Hildegard,'' by Charles
@@ -166,7 +166,7 @@ traced (*signavit*) all created things, and He held him in such love
 that He destined him for the place from which the fallen angel had been
 cast."
 
-[Plate XXXVII](#img_pl37) is an illustration from her *Liber Divinorum*
+[Plate XXXVII](#img_pl37.md) is an illustration from her *Liber Divinorum*
 representing her second vision, which shows Nous, the "world-spirit,"
 animated and controlled by the God-head, with arms outstretched
 embracing the macrocosm with the microcosm. Only the head and the feet
@@ -200,7 +200,7 @@ Singer quotes a passage from Hildegard's *Liber Divinorum* 
 <span id="page_223">p. 223</span>
 
 to illustrate all this, and most of it can be followed in [Plate
-XXXVII](#img_pl37), and in [Fig. 92](#img_fig092).
+XXXVII](#img_pl37), and in [Fig. 92](#img_fig092.md).
 
 "In the middle of the disk \[of the universe\] there appeared the form
 of a man, the crown of whose head and the soles of whose feet extended
@@ -262,7 +262,7 @@ to the Earth and infect men and beasts
 
 [![PLATE XXXVIII (From &lt;i&gt;Uriusque Cosmi&lt;/i&gt;; Robert Fludd,
 1621. Vol. I) ](tn/pl38.jpg)  
-Click to enlarge](img/pl38.jpg)  
+Click to enlarge](img/pl38.jpg.md)  
 PLATE XXXVIII (From *Uriusque Cosmi*; Robert Fludd, 1621. Vol. I)  
 
  
@@ -309,10 +309,10 @@ the fogs of her oceans and seas.
 
 ### Footnotes
 
-<span id="fn_17"></span>[220:1](boe29.htm#fr_17) "The Scientific Views
+<span id="fn_17"></span>[220:1](boe29.htm#fr_17.md) "The Scientific Views
 and Visions of Saint Hildegard;" Charles Singer: In *Studies in the
 History and Method of Science*, Vol. I, 1917, pp. 22-36.
 
 ------------------------------------------------------------------------
 
-[Next: The Earths in the Universe](boe30)
+[Next: The Earths in the Universe](boe30.md)

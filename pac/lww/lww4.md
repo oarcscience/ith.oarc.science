@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [The
-Pacific](../index) [Index](index) [Previous](lww3) [Next](lww5)
+[Sacred-Texts](../../index.md) [The
+Pacific](../index) [Index](index) [Previous](lww3) [Next](lww5.md)
 
 ------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ single thing was found suitable to take on the functions of a female
 similar to the female Apas of the conjoint heavens. All assembled
 again—none had found anything. Hence, is this episode known as: 'Tē
 kitea' (the not-seen), 'Tē rawea' (the not-acquired), 'Tē whiwhia' (the
-not-possessed).<span id="fr_1"></span>[1](#note_1) And this is the
+not-possessed).<span id="fr_1"></span>[1](#note_1.md) And this is the
 origin of these <span id="page_139">p. 139</span> words; so given in
 that form, that the circumstances may be remembered by the *tohungas*
 \[priests\], i.e., the commencement of the search for the female.
@@ -97,11 +97,11 @@ For all females of \[living\] things conceive; and an examination of
 their offspring was to be made. Some were found \[partly\] appropriate,
 some not. The reptiles have their particular issue in the form of eggs;
 they were not suitable on examination, and so were discarded. . . . . .
-.<span id="fr_2"></span>[2](#note_2) It was considered better that
+.<span id="fr_2"></span>[2](#note_2.md) It was considered better that
 something which produced after its own kind, or bodily shape, should be
 adopted—and, hence, offspring by eggs were at this time assigned to
 birds. It was now obvious that the \[kind of\] female required from
-which the *iho-tangata*<span id="fr_3"></span>[3](#note_3) \[the form or
+which the *iho-tangata*<span id="fr_3"></span>[3](#note_3.md) \[the form or
 likeness and attributes of man\] could be born, was not to be found.
 
    So the gods all assembled again in one place at Whare-kura to declare
@@ -117,7 +117,7 @@ there. For in that place is the female in a state of virginity and
 potentiality; she is sacred, for she contains the likeness of man."
 
    The gods then went off to seek that earth at Kura-waka.<span
-id="fr_4"></span>[4](#note_4) Here they formed a body \[in the likeness
+id="fr_4"></span>[4](#note_4.md) Here they formed a body \[in the likeness
 of a woman\], and completed the arrangement of the head, the arms, the
 bust, the legs, the back, and the front; and then the bones. Here ended
 the work of the elder brethren. Then followed the arrangements of the
@@ -128,7 +128,7 @@ ears—that was done. And then for the first time the breath of man came
 forth, the eyelids opened, the pupils saw, and the hot breath of the
 mouth burst forth, the nose sneezed. "Sneeze living heart to the world
 of light; \[thy\] offspring \[shall be\] a man, a female."<span
-id="fr_5"></span>[5](#note_5) After this the body was taken to the altar
+id="fr_5"></span>[5](#note_5.md) After this the body was taken to the altar
 at Muri-takina, where all the proceedings were voided \[i.e., where an
 evil influence of earthly origin were removed, and the first woman
 became a fit recipient for the germ of life.\]
@@ -148,7 +148,7 @@ together, and on completion it was said to be a human body. It was Io
 the thoughts and the living spirit.
 
    When Hine-hau-one had been completely formed after their own
-likeness,<span id="fr_6"></span>[6](#note_6) in no part different—except
+likeness,<span id="fr_6"></span>[6](#note_6.md) in no part different—except
 indeed her front alone, which did differ in that she had there the
 likeness of the female—it was said that an orifice should be made for
 the urine. This was done, it was open; and then one of the eye-pupils of
@@ -256,16 +256,16 @@ used to cause barren women to conceive and bear offspring—hence are they
    After the above two *karakias*, Hine was taken to the *ahu-rewa*, or
 altar, within the sacred house of Whare-kura and there purified—and
 after that to the Wai-o-Tahu-rangi \[the sacred waters from Heaven\] and
-there bathed.<span id="fr_7"></span>[7](#note_7) At this time she
+there bathed.<span id="fr_7"></span>[7](#note_7.md) At this time she
 received her \[full\] name, Hine-hau-one.<span
-id="fr_8"></span>[8](#note_8) Then she was taken to the *turuma*
+id="fr_8"></span>[8](#note_8.md) Then she was taken to the *turuma*
 \[latrine\] of Whare-kura \[the first earthly temple\] where by biting
 the rail all the effects of the *tapu* were removed. After this she was
 taken to the house that had been specially made for the female before
 the gods started out on their quest known as 'Te Kore-te-whiwhia,' etc.
-\[see [p. 138](#page_138) *ante*\]. It was for this purpose that house
+\[see [p. 138](#page_138.md) *ante*\]. It was for this purpose that house
 was built by Tāne-matua (68) and Tangaroa-a-mua (8),<span
-id="fr_9"></span>[9](#note_9) and named Hui-te-ana-nui. It was a carved
+id="fr_9"></span>[9](#note_9.md) and named Hui-te-ana-nui. It was a carved
 <span id="page_143">p. 143</span> house; the pillars, the ends of the
 rafters, the purlins, the ridge-pole, and battens at the end, the barge
 boards, the sill of the porch and all such other parts that should
@@ -279,7 +279,7 @@ Hine-titama; she was followed by Hine-manuhiri \[and others\].
 |-------------------------------------------------------|------------------:|:---:|---------------------|---------------------|
 |                                                       |      Hine-hau-one |  =  | Tāne-matua          |                     |
 | ┌────                                                 |     ──────┬────── | ─┴─ | ──────┬──────       | ────┐               |
-| 1\. Hine-titama<span id="fr_10"></span>[10](#note_10) | 2\. Hine-manuhiri |     | 3\. Hine-wai-rangi. | 4\. Hine-wai-ariki. |
+| 1\. Hine-titama<span id="fr_10"></span>[10](#note_10.md) | 2\. Hine-manuhiri |     | 3\. Hine-wai-rangi. | 4\. Hine-wai-ariki. |
 
    Those are the descendants of Hine-hau-one that came forth to the
 world.
@@ -356,7 +356,7 @@ children that they might sleep heavily, and another over Tāne so that he
 might have no strength to follow her, and then she fled.
 
    Hine-titama fled over the plain of Whiti-naunau<span
-id="fr_11"></span>[11](#note_11) towards the direction of Pou-tere-rangi
+id="fr_11"></span>[11](#note_11.md) towards the direction of Pou-tere-rangi
 \[the guard-house to Hades\]. When she reached the door she found there
 Te Ku-watawata (23) \[the guardian of the entrance\], who asked her,
 "Where art thou going?" She <span id="page_145">p. 145</span> replied,
@@ -364,7 +364,7 @@ Te Ku-watawata (23) \[the guardian of the entrance\], who asked her,
 "Thou art leaving behind thee the world of light and life!" Hine-titama
 then said, "Let me proceed to the descent to Muri-wai-hou in order that
 I may ever catch the living spirits of my children<span
-id="fr_12"></span>[12](#note_12) now in the 'everlasting light' \[a name
+id="fr_12"></span>[12](#note_12.md) now in the 'everlasting light' \[a name
 for this world\]."
 
    Now, hence arises the fact that the spirits return to this world \[as
@@ -376,7 +376,7 @@ approaching, shedding tears as he came along. Hine called out to him,
 cord of Hades remains with me \[for ever\]." And then \[by enchantment\]
 Hine-titama caused the Adam's apple to grow in Tāne's throat, and said,
 "Let that remain as a distinction between me \[woman\] and thee
-\[man\]."<span id="fr_13"></span>[13](#note_13) And then Hine turned
+\[man\]."<span id="fr_13"></span>[13](#note_13.md) And then Hine turned
 away into Pou-tere-rangi and descended into Rarohenga \[Hades\].
 
    Let me explain this part: Hine-titama was her name in this world, but
@@ -385,22 +385,22 @@ Afterwards she descended to Hades—to the dwelling place of her relative,
 Whakuru-au-moko (70) \[god of volcanic forces\]. And now from this time
 onward the flow of the 'current of death' of mankind to the 'everlasting
 night' became permanent. This was the second; the deaths at Te Paerangi
-\[the wars of the gods, see [p. 134](lww3.htm#page_134)\] being the
+\[the wars of the gods, see [p. 134](lww3.htm#page_134.md)\] being the
 first \[institution of the descent of spirits to Hades\],
 
    Now, when Māui-tikitiki-a-Taranga<span
-id="fr_14"></span>[14](#note_14) learnt of this law of death, he
+id="fr_14"></span>[14](#note_14.md) learnt of this law of death, he
 declared that he would end it \[and that man should live for ever\]. His
 brethren said, "It cannot be done; for Tāne has appointed the
 Pou-tiri-ao \[guardian spirits\] each to its separate sphere, its
 separate duties, as is known by the demarkation in the service of the
-altar."<span id="fr_15"></span>[15](#note_15) <span id="page_146">p.
+altar."<span id="fr_15"></span>[15](#note_15.md) <span id="page_146">p.
 146</span> But Māui would not listen. He then chose as companions the
 birds Tatahore, Miro, and Ti-waiwaka, saying, "Come! be my companions."
 They then took on the likeness of the sparrow-hawk, and all descended by
 Taheke-roa \[the descent into Hades\] until they came to the place named
 Kohurau, where they were seen by the family of Paketua \[see [p.
-128](lww3.htm#page_128) the mosquitoes and other stinging insects\], who
+128](lww3.htm#page_128.md) the mosquitoes and other stinging insects\], who
 at once went off to communicate the news to Hine-nui-te-po \[goddess of
 Hades\], to whom they said, "Here are some from the world-of-light \[the
 earth\], they are at Kohurau." Hine-nui-te-po at once understood that
@@ -430,7 +430,7 @@ of death to the world. Enough of that. The Adam's apple which Hine
 making her, his daughter, his wife\]; it has descended to all his
 \[male\] offspring alone. Her side \[the woman's\] has not got it, and
 that is the reason there is no Adam's apple in women, only in men.<span
-id="fr_16"></span>[16](#note_16)
+id="fr_16"></span>[16](#note_16.md)
 
 <span id="page_147">p. 147</span>
 
@@ -483,7 +483,7 @@ gravel is <span id="page_148">p. 148</span> filled into the ditch over
 the wood, and over that a coating of clay to cover the whole. This is
 what is called an *ahi-komau*. Notwithstanding that one goes away with a
 war or other party, on return the fire will be found to be alight.<span
-id="fr_17"></span>[17](#note_17)
+id="fr_17"></span>[17](#note_17.md)
 
    So Papa and her youngest child were capsized over to Rarohenga;
 hence, is the broken up appearance of the Earth at the present time—the
@@ -497,7 +497,7 @@ Io-mata-ngaro (Io-the-hidden-face) supplied the blood and fat,
 Tawhiri-matea (7) gave the lungs to Paia; the Apa-whatu-kuras the
 memory. The names given to these operations are, Rua-i-te-hiringa,
 Rua-i-te-pukenga, Rua-i-te-mahara, and Rua-i-te-wānanga<span
-id="fr_18"></span>[18](#note_18); of these three, one was from the
+id="fr_18"></span>[18](#note_18.md); of these three, one was from the
 Toi-o-nga-rangi (the Uppermost Heaven), and one from the eleven Apas,
 which has been explained as those that are dwelling in the eleven
 Heavens. One \[side\] was from the Earth, and the three portions were
@@ -530,7 +530,7 @@ this fire received the name of 'The Ancient Fire' (Te Ahi-tawhio.)
    \[Te Matorohenga continued:\] When Whiro-te-tipua (6) was defeated in
 the series of battles known as Te Paerangi (see *ante*), he departed
 \[from the presence of the other gods\] and descended by way of
-Taheke-roa<span id="fr_19"></span>[19](#note_19) to Muri-wai-hou, to
+Taheke-roa<span id="fr_19"></span>[19](#note_19.md) to Muri-wai-hou, to
 Rarohenga (Hades), and then arrived at the dwelling place of
 Whakaru-au-moko (70) and his wife Hine-nui-te-po \[former name
 Hine-titama\], to the places mentioned above. Now the thought grew in
@@ -563,7 +563,7 @@ Whiro towards mankind and all things\], and there he appointed
 destroy all things—the water, the blood, the flesh, and the breath.
 
    From within the temple of Hawaiki-nui,<span
-id="fr_20"></span>[20](#note_20) direct flows forth the current of
+id="fr_20"></span>[20](#note_20.md) direct flows forth the current of
 death, by the way of Taheke-roa; and then is renewed the warfare of
 Whiro against his enemies, which has existed even from that ancient time
 down to this day; the peace has never been made in the wars of
@@ -581,7 +581,7 @@ Plane,' he returns to the doings of the gods, as follow:—\]
 
    Let our story now return to certain other origins, and work them out,
 which will allow me time to think of some other genealogies relating to
-these 'slaves.'<span id="fr_21"></span>[21](#note_21) Let us commence
+these 'slaves.'<span id="fr_21"></span>[21](#note_21.md) Let us commence
 with the following:—
 
    Uru-te-ngangana (1) married Hine-tu-rama \[first wife, daughter of
@@ -590,7 +590,7 @@ Tāne by Hine-hau-one\] and they had:—
 |                                                     |                                                                                           |
 |-----------------------------------------------------|-------------------------------------------------------------------------------------------|
 | <span class="small">1. Kopu (Venus)</span>          | <span class="small">6. Whanui (? Vega)</span>                                             |
-| <span class="small">2. Puanga (Rigel)</span>        | <span class="small">7. Pare-a-rau (? Saturn<span id="fr_22"></span>[22](#note_22))</span> |
+| <span class="small">2. Puanga (Rigel)</span>        | <span class="small">7. Pare-a-rau (? Saturn<span id="fr_22"></span>[22](#note_22).md)</span> |
 | <span class="small">3. Tautoru (Orion)</span>       | <span class="small">8. Ika-roa (The Milky Way)</span>                                     |
 | <span class="small">4. Autahi (Aldebaran)   </span> | <span class="small">9. Kaitahi</span>                                                     |
 | <span class="small">5. Matariki (Pleiades)</span>   |                                                                                           |
@@ -621,9 +621,9 @@ brethren. It was subsequent to this that the wars of the gods at Te
 Paerangi \[see ante Chapter III.\] took place, and Whiro and his <span
 id="page_151">p. 151</span> faction fell; and his god-like power became
 vested in Tāne and the others. His powers over all things in this world
-ceased,<span id="fr_23"></span>[23](#note_23) when he and his companions
+ceased,<span id="fr_23"></span>[23](#note_23.md) when he and his companions
 descended to Raro-henga (Hades), in which place his *marae*<span
-id="fr_24"></span>[24](#note_24) is lost; it is there he occupied his
+id="fr_24"></span>[24](#note_24.md) is lost; it is there he occupied his
 time in devising contention amongst and against the descendants of all
 people and things in this world, and even up to the realm of the
 Sky-father, where it ends in Rangi-tamaku \[next Heaven above the
@@ -639,7 +639,7 @@ brethren and himself.
 
    \[There are eleven principal causes of trouble between Whiro and his
 brethren, of which seven have been mentioned in Chapter III., [pp. 124,
-125](lww3.htm#page_124). The Sage now numerates the others. He says:\]
+125](lww3.htm#page_124.md). The Sage now numerates the others. He says:\]
 
    After all the foregoing events the hatred of Whiro towards his
 brethren became permanent; these were the causes of it \[for one to
@@ -647,8 +647,8 @@ seven see pp. 124, 125\]:—
 
 |      |                                                                                                                                                                                                                                                                                                                                                                                     |
 |-----:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  8\. | The persistence of Tāne in ascending to the Uppermost Heaven to fetch the wānanga \[see [p. 126](lww3.htm#page_126)\].                                                                                                                                                                                                                                                              |
-|  9\. | The destruction of his (Whiro's) \[familiar spirits\] pets, and because some were made prisoners, as Tāne descended from highest Heaven \[see [p. 127](lww3.htm#page_127)\].                                                                                                                                                                                                        |
+|  8\. | The persistence of Tāne in ascending to the Uppermost Heaven to fetch the wānanga \[see [p. 126](lww3.htm#page_126.md)\].                                                                                                                                                                                                                                                              |
+|  9\. | The destruction of his (Whiro's) \[familiar spirits\] pets, and because some were made prisoners, as Tāne descended from highest Heaven \[see [p. 127](lww3.htm#page_127.md)\].                                                                                                                                                                                                        |
 | 10\. | Because Tāne would not consent that the direction of matters in connection with the three 'baskets' \[of knowledge\] and the two stones should be given to Uru-te-ngangana (1) and him, after these things had been given by Io to Tāne within his *pa* of Rau-roha, when taken from the treasure house Rangiatea—the house of the Whatukuras and Marei-kuras \[who guarded them\]. |
 | 11\. | The overturning of their Mother-Earth so that she faced Raro-henga (Hades), together with their youngest brother, Whakaru-au-moko (70); he was the one at that time feeding at the breast of their mother.                                                                                                                                                                          |
 
@@ -676,12 +676,12 @@ work by causing earthquakes and volcanic eruptions by aid of the
 *ahi-komau* \[volcanic fires\].
 
    At the time of the fall of Whiro at Te Paerangi \[see [p.
-134](lww3.htm#page_134)\], when he descended to Hades, he left his house
+134](lww3.htm#page_134.md)\], when he descended to Hades, he left his house
 named Tu-te-aniwaniwa \[where-stands-the-rainbow\]; and from it Tupai
 (69), Tangaroa (8), and Tu-mata-uenga (11) carried off the two axes
 named 'Te Awhio-rangi' and' Te Whiro-nui' and the two *whatu-kuras*
 \[sacred stones brought down from Heaven by Tāne\] which had there been
-deposited \[see *ante* [p. 130](lww3.htm#page_130)\], and suspended them
+deposited \[see *ante* [p. 130](lww3.htm#page_130.md)\], and suspended them
 in Whare-kura \[the first earthly temple\]. Whiro returned from Hades to
 fetch these things, but found them gone.
 
@@ -692,7 +692,7 @@ with Tāne-nui-a-rangi (68) and his faction; and hence were they
 appointed \[as god-guardians\] to the plane most suited to them, at
 Tara-puhi of Matangi-nui, of Matangi-naonao, of Matangi-puhi—hence are
 they to be found at Tiritiri-o-Mahurangi.<span
-id="fr_25"></span>[25](#note_25)
+id="fr_25"></span>[25](#note_25.md)
 
  
 
@@ -715,7 +715,7 @@ clothing for their father the Sky, and to shade Mother-Earth \[from the
 rays of the Sun\]. These are the clouds that stand above; they are due
 to the warmth of Hine-moana, Hine-wai, and Papa-tua-nuku \[the Earth\];
 hence the fogs and mists, the clonds and the rain.<span
-id="fr_26"></span>[26](#note_26)
+id="fr_26"></span>[26](#note_26.md)
 
  
 
@@ -738,7 +738,7 @@ mountains remain there, whilst those who show love to Whiro (6) are
 separated off to Te Muri-wai-hou and Raro-henga \[Hades\] that is, to
 the Reinga, \['jumping off place,' of which there is one in each home of
 the Polynesians\]. It is the bad and wicked spirits that are separated
-off to the Reinga;<span id="fr_27"></span>[27](#note_27) the good ones
+off to the Reinga;<span id="fr_27"></span>[27](#note_27.md) the good ones
 are those who go by the Ara-tiatia to the conjoint Heavens.
 
    Now, before ailing mankind expires, as they lie on their death-beds
@@ -747,7 +747,7 @@ bones, all gather at the heart, and there await dissolution; the water
 of the <span id="page_154">p. 154</span> body, of the kidneys, of the
 lungs dries up. At this point the spirit (*wairua*) goes away to visit
 its relatives; and after that proceeds to Hawaiki.<span
-id="fr_28"></span>[28](#note_28)
+id="fr_28"></span>[28](#note_28.md)
 
    Now, if Te Ku-watawata \[guardian of the entrance to Hades\] allows
 the spirit to proceed to the place assigned to it, the dying body will
@@ -791,7 +791,7 @@ under their charge\].
 
    We will now return to Tawhiri-matea (7) and his family that all went
 to escort Tāne-nui-a-rangi \[to the upper Heavens, see [p.
-128](lww3.htm#page_128)\]. These are that family, i.e., their pedigree:—
+128](lww3.htm#page_128.md)\]. These are that family, i.e., their pedigree:—
 
 <span id="page_155">p. 155</span>
 
@@ -799,7 +799,7 @@ to escort Tāne-nui-a-rangi \[to the upper Heavens, see [p.
 |-------------------------------------------------------------------------------|:----------------------------------------:|-------------------------------------------------------------------------|
 | <span class="small">Rangi-parauri</span>                                      | <span class="small">   married   </span> | <span class="small">Hine-kohurau</span>                                 |
 | <span class="small">┌─────</span>                                             |     <span class="small">───┘</span>      |                                                                         |
-| <span class="small">Rangi-tamaku<span id="fr_29"></span>[29](#note_29)</span> | <span class="small">   married   </span> | <span class="small">Whanui<span id="fr_30"></span>[30](#note_30)</span> |
+| <span class="small">Rangi-tamaku<span id="fr_29"></span>[29](#note_29)</span> | <span class="small">   married   </span> | <span class="small">Whanui<span id="fr_30"></span>[30](#note_30.md)</span> |
 | <span class="small">┌─────</span>                                             |     <span class="small">───┘</span>      |                                                                         |
 | <span class="small">Tapuhi-kura</span>                                        | <span class="small">   married   </span> | <span class="small">Noho-tauranga</span>                                |
 | <span class="small">┌─────</span>                                             |     <span class="small">───┘</span>      |                                                                         |
@@ -810,12 +810,12 @@ They are all names for various descriptions of snow, twelve in number\].
 These are all the children of Huru-te-ārangi and the god Te Iho-rangi
 (10); they are all various kinds of snow, and are the origin of the snow
 in this world. They dwell on the summits of Mahu-tonga,<span
-id="fr_31"></span>[31](#note_31) and frequently are driven up by the
+id="fr_31"></span>[31](#note_31.md) and frequently are driven up by the
 fierce south winds, but it is only their semblances that are sent here
 by the 'gale-family' of Tawhiri-matea (7), so that the hail-storms of
 winter may alight in the month of Marua-roa \[July—the winter
 solstice\], when Tai-ranga, Popo, Toro-huhu, Tara-pokaka, Pawhati, and
-Tuke-rangaranga<span id="fr_32"></span>[32](#note_32) work their evil on
+Tuke-rangaranga<span id="fr_32"></span>[32](#note_32.md) work their evil on
 trees, etc., leaving the forest clear.
 
    The following is the family of Tawhiri-matea (7) who dwelt with
@@ -853,7 +853,7 @@ one\] became heated by the Sun; they passed off in watery mists, and
 then became *retoretotia* \[i.e., overgrown with the oval-leafed
 water-plant called *retoreto*\]. It was then the following \[heavenly\]
 fish descended to Earth:—Tuna, the eel; Pāra, the barracuta; Ngoiro, the
-sea-eel; Tuere;<span id="fr_33"></span>[33](#note_33) Mangō, the shark;
+sea-eel; Tuere;<span id="fr_33"></span>[33](#note_33.md) Mangō, the shark;
 Piharau, the lamprey; and Inanga, the white-bait. Those are the names of
 the families that came down to Earth to search for cold water. After
 dwelling a long time here, Pāra, Mangō and Ngoiro turned upon the
@@ -888,19 +888,19 @@ more on this subject when we come to the story of Tawhaki.\]
 
    The Moko-kakariki, the green lizard; the Kumukumu \[the fish <span
 id="page_157">p. 157</span> *Trigla-kumu*<span
-id="fr_34"></span>[34](#note_34)\]; the Tua-tara, great lizard
+id="fr_34"></span>[34](#note_34.md)\]; the Tua-tara, great lizard
 \[*Sphenodon punctatus*\]; Tu-tangata-kino, a lizard \[or lizard-god,
 invoked in witchcraft\]; Moko-titi-a-toa, black and grey spider;
 Moko-papa, a lizard; and Moka-moka, an insect; the Whē, the
 catterpillar; the Pepe, the butterfly; Pu-rehurehu, a moth; and other
 insects of that sort, are all descendants of Peketua \[see story of Māui
-*ante* [p. 145](#page_145)\]. This is the pedigree:—
+*ante* [p. 145](#page_145.md)\]. This is the pedigree:—
 
 Peketua = Mihamiha
 
 and they had the family mentioned above.
 
-   Rangi-tamaku<span id="fr_35"></span>[35](#note_35) = Whanui (? the
+   Rangi-tamaku<span id="fr_35"></span>[35](#note_35.md) = Whanui (? the
 star Vega)
 
    Their family were all \[minor\] gods; they are:—
@@ -918,12 +918,12 @@ many of them. They are distributed in the inter-celestial spaces of the
 conjoint Heavens, in free companionship. None of their descendants came
 down to Earth.
 
-   Rangi-parauri<span id="fr_36"></span>[36](#note_36) married
+   Rangi-parauri<span id="fr_36"></span>[36](#note_36.md) married
 Hine-kohurau \[Lady of the many mists\] and they had:—
 
 |                               |                                                                               |                               |                                        |
 |------------------------------:|-------------------------------------------------------------------------------|------------------------------:|----------------------------------------|
-| <span class="small">1.</span> | <span class="small">Rangi tamaku<span id="fr_37"></span>[37](#note_37)</span> | <span class="small">2.</span> | <span class="small">Pae-kawa</span>    |
+| <span class="small">1.</span> | <span class="small">Rangi tamaku<span id="fr_37"></span>[37](#note_37.md)</span> | <span class="small">2.</span> | <span class="small">Pae-kawa</span>    |
 | <span class="small">3.</span> | <span class="small">Tapuhi-kura the 1st   </span>                             | <span class="small">4.</span> | <span class="small">Te Aho-riki</span> |
 
    It is said there is a very numerous family of these gods; they are
@@ -1013,7 +1013,7 @@ and whose descendants now live in New Zealand.\]
 |----------------------------------------------|--------------------------------|--------------------------------------------------------------------------------|:------------------------------:|-------------------------------------------------------------------------------|-----------------------------------------------|
 |                                              |                                | <span class="small">Tāne-nui-a-rangi (68)</span>                               | <span class="small"> = </span> | <span class="small">Hine-tupari-maunga</span>                                 |                                               |
 | <span class="small">┌──</span>               | <span class="small">───</span> | <span class="small">──────────────────</span>                                  | <span class="small">─┴─</span> | <span class="small">───────┬───────</span>                                    | <span class="small">──┐</span>                |
-| <span class="small">1. Putoto</span>         | <span class="small"> = </span> | <span class="small">Taka-aho (24)<span id="fr_38"></span>[38](#note_38)</span> |                                | <span class="small">2. Tua-matua<span id="fr_39"></span>[39](#note_39)</span> | <span class="small">3. Para-whenua-mea</span> |
+| <span class="small">1. Putoto</span>         | <span class="small"> = </span> | <span class="small">Taka-aho (24)<span id="fr_38"></span>[38](#note_38)</span> |                                | <span class="small">2. Tua-matua<span id="fr_39"></span>[39](#note_39.md)</span> | <span class="small">3. Para-whenua-mea</span> |
 | <span class="small">┌──</span>               | <span class="small">─┴─</span> | <span class="small">──────────────────</span>                                  | <span class="small">───</span> | <span class="small">───────┬───────</span>                                    | <span class="small">──┐</span>                |
 | <span class="small">1. Tua-rangaranga</span> | <span class="small"> = </span> | <span class="small">Tu-te-hurutea-a-Kopuwai</span>                             |                                | <span class="small">2. Tu-te-ahuru</span>                                     | <span class="small">3. Takoto-wai</span>      |
 
@@ -1033,7 +1033,7 @@ seen.
 p. 43 of original\]. These are all kinds of spiders; there are many more
 than named here.
 
-   Takoto-wai<span id="fr_40"></span>[40](#note_40) married Tua-matua
+   Takoto-wai<span id="fr_40"></span>[40](#note_40.md) married Tua-matua
 \[? the god No. 59\] and they had the following offspring, ten in number
 \[see p. 43 of original\], besides others; they are the origin of all
 the rocks and stones.
@@ -1055,7 +1055,7 @@ offspring \[as shown p. 43 of original\], seven in number.
    Rangahua \[one of the same family\] married Tu-maunga and they had
 the family of stones for grinding axes, etc., seven in number.
 
-   Para-whenua-mea<span id="fr_41"></span>[41](#note_41) married Kiwa
+   Para-whenua-mea<span id="fr_41"></span>[41](#note_41.md) married Kiwa
 (52), the ruler of the water. This was the first wife of Kiwa, and they
 made the waters which flow forth and make the ocean. His friend was
 Huru-te-arangi, who married Iho-rangi (10) \[see p. 40\], whose
@@ -1086,7 +1086,7 @@ Mininsters and Bishops.
 
 ------------------------------------------------------------------------
 
-[Next](lww5)
+[Next](lww5.md)
 
 ------------------------------------------------------------------------
 
@@ -1094,20 +1094,20 @@ Mininsters and Bishops.
 
 <span id="footnotes_page_138">p. 138</span>
 
-<span id="note_1"></span>[1](#fr_1). These expressions are frequently to
+<span id="note_1"></span>[1](#fr_1.md). These expressions are frequently to
 be found in their *karakias* (prayer spells, etc.)
 
 <span id="footnotes_page_139">p. 139</span>
 
-<span id="note_2"></span>[2](#fr_2). The sentence omitted is so obscure
+<span id="note_2"></span>[2](#fr_2.md). The sentence omitted is so obscure
 it cannot be translated.
 
-<span id="note_3"></span>[3](#fr_3). The Scribe says, this means the
+<span id="note_3"></span>[3](#fr_3.md). The Scribe says, this means the
 'form' of man; and embodies the idea of his descent partly from the
 gods, or Heaven, and partly from woman, or the Earth. *Iho* = umbilical
 cord, *tangata* = man.
 
-<span id="note_4"></span>[4](#fr_4). It is said that this earth was red
+<span id="note_4"></span>[4](#fr_4.md). It is said that this earth was red
 in colour. Adam was supposed to have been formed of red earth. Te
 Matorohanga says Kura-waka was in that part of the Earth between the
 legs—for, as already pointed out, the Earth was supposed to be shaped
@@ -1115,25 +1115,25 @@ like a woman.
 
 <span id="footnotes_page_140">p. 140</span>
 
-<span id="note_5"></span>[5](#fr_5). This is said to a child when it
+<span id="note_5"></span>[5](#fr_5.md). This is said to a child when it
 sneezes—we do somewhat the same on like occasions. The words are usually
 abreviated into *Tihe mauri ora*, Sneeze-living-heart.
 
-<span id="note_6"></span>[6](#fr_6). This statement is one of the few
+<span id="note_6"></span>[6](#fr_6.md). This statement is one of the few
 from which we may gather that the Maori idea of their gods, took the
 exact human form.
 
 <span id="footnotes_page_142">p. 142</span>
 
-<span id="note_7"></span>[7](#fr_7). These sacred waters, in this case,
+<span id="note_7"></span>[7](#fr_7.md). These sacred waters, in this case,
 were, according to tradition specially prayed for, when they descended
 from Heaven, and were thus quite pure—earthly water was not considered
 pure enough for the purpose of the purification of Hine-ahu-one.
 
-<span id="note_8"></span>[8](#fr_8). Hine-hau-one (or Hine-ahu-one)
+<span id="note_8"></span>[8](#fr_8). Hine-hau-one (or Hine-ahu-one.md)
 means, 'woman-created-from-earth.'
 
-<span id="note_9"></span>[9](#fr_9). Tangaroa-a-mua (number eight in
+<span id="note_9"></span>[9](#fr_9.md). Tangaroa-a-mua (number eight in
 list of gods, Chapter III.) was his original name as a god dwelling with
 his brethren after the separation of Heaven and Earth. But when he was
 appointed guardian of the ocean, with Kiwa, his name was changed to
@@ -1145,7 +1145,7 @@ other islands Tangaroa was the principal god of all.
 
 <span id="footnotes_page_143">p. 143</span>
 
-<span id="note_10"></span>[10](#fr_10). Hine-titama, the daughter of the
+<span id="note_10"></span>[10](#fr_10.md). Hine-titama, the daughter of the
 god Tāne and the Earth-formed woman, Hine-ahu-one, was looked upon as
 the first human being, born of woman. Her mother was completed as a
 woman through the work of the gods—all but the spirit and life, which
@@ -1156,20 +1156,20 @@ chapter the end of Hine-titama.
 
 <span id="footnotes_page_144">p. 144</span>
 
-<span id="note_11"></span>[11](#fr_11). A name which is emblematical for
+<span id="note_11"></span>[11](#fr_11.md). A name which is emblematical for
 wandering aimlessly about in a confused state of mind. It was in after
 generations applied to an island which is probably one of the Fiji
 group, and is well-known in Rarotongan and Maori traditions.
 
 <span id="footnotes_page_145">p. 145</span>
 
-<span id="note_12"></span>[12](#fr_12). Including all her descendants
+<span id="note_12"></span>[12](#fr_12.md). Including all her descendants
 down to this day—she refers to the spirits returned to earth, as in the
 case of trances or fainting.
 
-<span id="note_13"></span>[13](#fr_13). See the explanation *infra*.
+<span id="note_13"></span>[13](#fr_13.md). See the explanation *infra*.
 
-<span id="note_14"></span>[14](#fr_14). This Māui is the famous hero
+<span id="note_14"></span>[14](#fr_14.md). This Māui is the famous hero
 whose miraculous deeds have furnished after generations with abundant
 stories, a summary of which, or at least some of them, have been
 gathered into a volume—"Māui, the demi-god"—by W. D, Westervelt, of
@@ -1179,7 +1179,7 @@ the historical family of that name who flourished about fifty
 generations ago, when the Polynesians were dwelling in Indonesia. Māui
 is not a god.
 
-<span id="note_15"></span>[15](#fr_15). This is not at all clear, but no
+<span id="note_15"></span>[15](#fr_15.md). This is not at all clear, but no
 doubt means that it was impossible for Māui to alter the decrees of the
 gods; for he was not a god, but a hero, a semi-divine hero gifted with
 miraculous powers. One proof of this is—as the Scribe tells <span
@@ -1188,36 +1188,36 @@ prior to Māui, were never recited to the common people—they were too
 sacred, for they dwell with the gods and their more immediate
 descendants, the first of mankind.
 
-<span id="note_16"></span>[16](#fr_16). This incident of Māui's attempt
+<span id="note_16"></span>[16](#fr_16.md). This incident of Māui's attempt
 to end death, and thereby allow mankind to live for ever does not
 properly belong to this part, but is introduced merely to illustrate
 Hine-nui-te-po's character—we shall come across Māui later on.
 
 <span id="footnotes_page_148">p. 148</span>
 
-<span id="note_17"></span>[17](#fr_17). This description is of the
+<span id="note_17"></span>[17](#fr_17.md). This description is of the
 modern permanent fire (which is the meaning of the word), and used in
 ante-European days. But the original Ahi-komau is supposed to be the
 source of the volcanic fires. I am assured that such a fire will
 smoulder for at least three months.
 
-<span id="note_18"></span>[18](#fr_18). These names beginning with Rua
+<span id="note_18"></span>[18](#fr_18.md). These names beginning with Rua
 seem to mean the progressive stages of knowledge, thought, etc.
 
 <span id="footnotes_page_149">p. 149</span>
 
-<span id="note_19"></span>[19](#fr_19). The 'long descent' leading to
+<span id="note_19"></span>[19](#fr_19.md). The 'long descent' leading to
 Hades.
 
-<span id="note_20"></span>[20](#fr_20). The great temple with four doors
-at the meeting of spirits. See [note 18, p. 89](lww1.htm#note_18).
+<span id="note_20"></span>[20](#fr_20.md). The great temple with four doors
+at the meeting of spirits. See [note 18, p. 89](lww1.htm#note_18.md).
 
 <span id="footnotes_page_150">p. 150</span>
 
-<span id="note_21"></span>[21](#fr_21). Only used in a facetious vain,
+<span id="note_21"></span>[21](#fr_21.md). Only used in a facetious vain,
 referring to those on the many lines he had repeated.
 
-<span id="note_22"></span>[22](#fr_22). Pare-a-rau is said to be Saturn,
+<span id="note_22"></span>[22](#fr_22.md). Pare-a-rau is said to be Saturn,
 but it is most unlikely that such astute observers as were the Maoris,
 and with the knowledge they had of the stars and their motions, should
 confound a planet with a fixed star—probably, Pare-a-rau was in reality
@@ -1225,77 +1225,77 @@ one of the fixed stars.
 
 <span id="footnotes_page_151">p. 151</span>
 
-<span id="note_23"></span>[23](#fr_23). This requires explanation, for
+<span id="note_23"></span>[23](#fr_23.md). This requires explanation, for
 Whiro's powers of evil and dragging men down to death existed until
 Christianity was believed in.
 
-<span id="note_24"></span>[24](#fr_24). *Marae*, the open place in a
+<span id="note_24"></span>[24](#fr_24.md). *Marae*, the open place in a
 *pa*, where all matters of importance were discussed, many ceremonies
 held, speeches made, etc., etc.
 
 <span id="footnotes_page_152">p. 152</span>
 
-<span id="note_25"></span>[25](#fr_25). These are names of places in the
+<span id="note_25"></span>[25](#fr_25.md). These are names of places in the
 second Heaven from the summit, the home of the Heavenly winds.
 
 <span id="footnotes_page_153">p. 153</span>
 
-<span id="note_26"></span>[26](#fr_26). Thie statement illustrates the
+<span id="note_26"></span>[26](#fr_26.md). Thie statement illustrates the
 knowledge, due to a close study of nature, of the old time Maori.
 
-<span id="note_27"></span>[27](#fr_27). It is the treacherous people and
+<span id="note_27"></span>[27](#fr_27.md). It is the treacherous people and
 murderers that go to Whiro, says the Scribe.
 
 <span id="footnotes_page_154">p. 154</span>
 
-<span id="note_28"></span>[28](#fr_28). Physiologists may object to this
+<span id="note_28"></span>[28](#fr_28.md). Physiologists may object to this
 theory; but it is that of the old-time Maori, who, in his experience of
 death seems to have been acquainted with the premonition conveyed to
 distant relatives, of which we have heard of so many instances.
 
 <span id="footnotes_page_155">p. 155</span>
 
-<span id="note_29"></span>[29](#fr_29). The first Heaven above the
+<span id="note_29"></span>[29](#fr_29.md). The first Heaven above the
 visible Heavens.
 
-<span id="note_30"></span>[30](#fr_30). Means great space, a name for
+<span id="note_30"></span>[30](#fr_30.md). Means great space, a name for
 the star Vega.
 
-<span id="note_31"></span>[31](#fr_31). Mahu-tonga, emblematical for the
+<span id="note_31"></span>[31](#fr_31.md). Mahu-tonga, emblematical for the
 south, wherein the cold winds eminate.
 
-<span id="note_32"></span>[32](#fr_32). All these names are emblematical
+<span id="note_32"></span>[32](#fr_32.md). All these names are emblematical
 for rot, worm-eating and other affections of the forest trees.
 
 <span id="footnotes_page_156">p. 156</span>
 
-<span id="note_33"></span>[33](#fr_33). Tuere is a mythical fish, of the
+<span id="note_33"></span>[33](#fr_33.md). Tuere is a mythical fish, of the
 eel species.
 
 <span id="footnotes_page_157">p. 157</span>
 
-<span id="note_34"></span>[34](#fr_34). See the argument between him and
+<span id="note_34"></span>[34](#fr_34.md). See the argument between him and
 Tua-tara. Journal Polynesian Society, Vol. XX., p. 40.
 
-<span id="note_35"></span>[35](#fr_35). First heaven above the lowest.
+<span id="note_35"></span>[35](#fr_35.md). First heaven above the lowest.
 
-<span id="note_36"></span>[36](#fr_36). Tenth heaven from the summit.
+<span id="note_36"></span>[36](#fr_36.md). Tenth heaven from the summit.
 
-<span id="note_37"></span>[37](#fr_37). Eleventh heaven from the summit.
+<span id="note_37"></span>[37](#fr_37.md). Eleventh heaven from the summit.
 
 <span id="footnotes_page_158">p. 158</span>
 
-<span id="note_38"></span>[38](#fr_38). Brother of Tāne, see offspring
+<span id="note_38"></span>[38](#fr_38.md). Brother of Tāne, see offspring
 of Rangi and Papa, Chapter III.
 
-<span id="note_39"></span>[39](#fr_39). There is a god of that name, see
+<span id="note_39"></span>[39](#fr_39.md). There is a god of that name, see
 above list, No. 59, but he was a brother not a son of Tāne.
 
 <span id="footnotes_page_159">p. 159</span>
 
-<span id="note_40"></span>[40](#fr_40). Grandchild of Tāne, see above.
+<span id="note_40"></span>[40](#fr_40.md). Grandchild of Tāne, see above.
 
-<span id="note_41"></span>[41](#fr_41). Para-whenua-mea, is emblematical
+<span id="note_41"></span>[41](#fr_41.md). Para-whenua-mea, is emblematical
 for the traditional Deluge, and for the destruction of the face of
 nature caused thereby. She is also identical with the Hawaiian goddess
 Pele (which, through known letter changes, is the same as Para), goddess

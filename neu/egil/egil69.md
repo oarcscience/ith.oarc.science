@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil68)  [Next](egil70) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil68)  [Next](egil70.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ there for awhile.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXIX. Egil comes out to Iceland.](egil70)
+[Next: CHAPTER LXIX. Egil comes out to Iceland.](egil70.md)

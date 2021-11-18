@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog06)  [Next](kog08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog06)  [Next](kog08.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_05200"></span>
 
 [![](tn/05200.jpg)  
-Click to enlarge](img/05200.jpg)
+Click to enlarge](img/05200.jpg.md)
 
 <span id="page_53">p. 53</span>
 
@@ -156,4 +156,4 @@ Afterwards she gave them some money and went away with Jura.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Sleepy John](kog08)
+[Next: 5. Sleepy John](kog08.md)

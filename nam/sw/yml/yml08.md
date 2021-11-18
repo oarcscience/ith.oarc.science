@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml07)  [Next](yml09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml07)  [Next](yml09.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ And he died. The tale is finished here.
 
 ------------------------------------------------------------------------
 
-[Next: Tasi'o Sewa](yml09)
+[Next: Tasi'o Sewa](yml09.md)

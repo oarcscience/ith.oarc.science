@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Hindu](../index) [Index](index) [Previous](sak1) [Next](sak3)
+[Sacred-Texts](../../index) [Hindu](../index) [Index](index) [Previous](sak1) [Next](sak3.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ things\], he will tell, very diffusely, in the Second Book, how the
 creation is formed out of the Primal Principle. There, too, the nature
 of the products of Nature is to be declared fully, with a view to the
 very clear discrimination of Soul from these. Therefore, according to
-\[the verses\],<span id="page_184_fr_1"></span>[1](#page_184_note_1)
+\[the verses\],<span id="page_184_fr_1"></span>[1](#page_184_note_1.md)
 
    <span id="pp_0b"></span>*b*. 'Whoso rightly knows its changes, and
 the Primal Agent \[Nature\], and soul, the eternal, he, thirsting no
@@ -39,7 +39,7 @@ world:
 |----------------------------------------------------------|
 | <span class="small">*   The motive for creation.*</span> |
 
-   <span id="pp_1"></span>*Aph*. 1.[\*](#pp_1) Of Nature \[the agency,
+   <span id="pp_1"></span>*Aph*. 1.[\*](#pp_1.md) Of Nature \[the agency,
 or the being a maker, is\] for the emancipation of what is \[really,
 though not apparently,\] emancipated, or else for \[the removal of\]
 itself.
@@ -47,7 +47,7 @@ itself.
    <span id="pp_1a"></span>*a*. The expression 'the being a maker' is
 borrowed from the last aphorism of the preceding Book. Nature makes the
 world for the sake of removing the pain, which is \[really\] a shadow
-\[[Book I., § 58](sak1.htm#pp_58)\], belonging to the Soul, which is, in
+\[[Book I., § 58](sak1.htm#pp_58.md)\], belonging to the Soul, which is, in
 its very nature, free from the bonds of pain; or \[to explain it
 otherwise,\] for the sake of removing pain \[connected\] by means of but
 a shadowy link; or \[on the other hand,\] it is 'for the sake of
@@ -63,7 +63,7 @@ Emancipation alone is mentioned, inasmuch as it is the principal one.
    <span id="pp_1c"></span>*c*. But then, if creation were for the sake
 of Emancipation, then, since Emancipation might take place through
 creation once for all, there would not be creation again and again; to
-which he replies:<span id="page_186_fr_3"></span>[3](#page_186_note_3)
+which he replies:<span id="page_186_fr_3"></span>[3](#page_186_note_3.md)
 
  
 
@@ -71,7 +71,7 @@ which he replies:<span id="page_186_fr_3"></span>[3](#page_186_note_3)
 |----------------------------------------------------------|
 | <span class="small">*   Successive creation why.*</span> |
 
-   <span id="pp_2"></span>*Aph*. 2.[\*](#pp_2) Because this
+   <span id="pp_2"></span>*Aph*. 2.[\*](#pp_2.md) Because this
 \[Emancipation\] is \[only\] of him that is void of passion.
 
    <span id="pp_2a"></span>*a*. Emancipation does not take place through
@@ -91,9 +91,9 @@ not take place through creation once for all:
 |----------------------------------------------------------------|
 | <span class="small">*   Force of the foregoing reason.*</span> |
 
-   <span id="pp_3"></span>*Aph*. 3.[\*](#pp_3) It is not effected by the
+   <span id="pp_3"></span>*Aph*. 3.[\*](#pp_3.md) It is not effected by the
 mere hearing; because of the forcibleness of the impressions<span
-id="page_187_fr_4"></span>[4](#page_187_note_4) from eternity.
+id="page_187_fr_4"></span>[4](#page_187_note_4.md) from eternity.
 
    <span id="pp_3a"></span>*a*. Even the hearing \[of Scripture, in
 which the distinctness of Nature from Soul is enounced,\] comes \[not to
@@ -117,13 +117,13 @@ continuous flow of creation:
 |-------------------------------------------------------------------------|
 | <span class="small">*   Another reason for continuous creation.*</span> |
 
-   <span id="pp_4"></span>*Aph*. 4.[\*](#pp_4) Or as people have,
+   <span id="pp_4"></span>*Aph*. 4.[\*](#pp_4.md) Or as people have,
 severally, many dependants.
 
    <span id="pp_4a"></span>*a*. As householders have, severally, many
 who are dependent upon them, according to the distinctions of wife,
 children, &c., so, also, the Qualities, viz., Goodness, &c., \[[Book I.,
-§ 61. *b*.](sak1.htm#pp_61b)\] have to emancipate innumerable Souls,
+§ 61. *b*.](sak1.htm#pp_61b.md)\] have to emancipate innumerable Souls,
 severally. Therefore, however many Souls may have been emancipated, the
 onflow of creation takes place for the emancipation of other Souls; for
 Souls are \[in number,\] without end: such is the meaning. And so the
@@ -134,7 +134,7 @@ others besides him.'
 
    <span id="pp_4b"></span>*b*. But then why is it asserted that Nature
 alone creates, when, by the text, 'From that or this Soul proceeded the
-Ether,'<span id="page_189_fr_2"></span>[2](#page_189_note_2) &c., it is
+Ether,'<span id="page_189_fr_2"></span>[2](#page_189_note_2.md) &c., it is
 proved that *Soul*, also, creates? To this he replies:
 
  
@@ -143,7 +143,7 @@ proved that *Soul*, also, creates? To this he replies:
 |------------------------------------------------------------|
 | <span class="small">*   Nature, not Soul, creates.*</span> |
 
-   <span id="pp_5"></span>*Aph*. 5.[\*](#pp_5) And, since it \[the
+   <span id="pp_5"></span>*Aph*. 5.[\*](#pp_5.md) And, since it \[the
 character of creator,\] belongs, really, to Nature, it follows that it
 is fictitiously attributed to Soul.
 
@@ -164,12 +164,12 @@ To this he replies:
 |-----------------------------------------------------------------------|
 | <span class="small">*   The reality of Nature's creativeness.*</span> |
 
-   <span id="pp_6"></span>*Aph*. 6.[\*](#pp_6) Since it is proved from
+   <span id="pp_6"></span>*Aph*. 6.[\*](#pp_6.md) Since it is proved from
 the products.
 
    <span id="pp_6a"></span>*a*. That is to say: because the real
 creative character of Nature is established just 'from the products,'
-viz., by that evidence \[see [Book I., § 110](sak1.htm#pp_110),\] which
+viz., by that evidence \[see [Book I., § 110](sak1.htm#pp_110.md),\] which
 acquaints us with the subject \[in which the creative character
 inheres\]; for *products* are real, inasmuch as they produce impressions
 and exhibit acts. \[The reality of eternal things is established here,
@@ -184,7 +184,7 @@ proves the existence of the cause proves, at the same time, its creative
 character.\]
 
    <span id="pp_6b"></span>*b*. But then \[it may be said\], on the
-alternative \[see [§ 1](#pp_1)\] that Nature works for *herself*, she
+alternative \[see [§ 1](#pp_1.md)\] that Nature works for *herself*, she
 must energize with reference to the *emancipated* Soul, also. To this he
 replies:
 
@@ -194,7 +194,7 @@ replies:
 |----------------------------------------------------|
 | <span class="small">*   Who escape nature.*</span> |
 
-   <span id="pp_7"></span>*Aph*. 7.[\*](#pp_7) The rule is with
+   <span id="pp_7"></span>*Aph*. 7.[\*](#pp_7.md) The rule is with
 reference to one knowing; just as escape from a thorn.
 
    <span id="pp_7a"></span>*a*. The word *chetana* here means 'one
@@ -208,10 +208,10 @@ cause of pain: such is <span id="page_192">p. 192</span> the 'rule,'
 meaning, the distribution. Hence, also, of Nature, which is, by its own
 nature, bound \[inasmuch as it *consists* of bonds\], the
 self-emancipation is possible; so that it does not energize with
-reference to the emancipated Soul \[[§ 6. *b*.](#pp_6b)\].
+reference to the emancipated Soul \[[§ 6. *b*.](#pp_6b.md)\].
 
    <span id="pp_7b"></span>*b*. But then \[suggests some one\], what was
-said \[at [§ 5](#pp_5)\], that, in respect of Soul, the creative
+said \[at [§ 5](#pp_5.md)\], that, in respect of Soul, the creative
 character is only fictitiously attributed, this is not proper; because
 it is fitting, that, by the conjunction of Nature, *Soul*, also, should
 be modified into Mind, &c.; for a modification of wood, &c., resembling
@@ -226,7 +226,7 @@ replies:
 |---------------------------------------------------------------------------------------|
 | <span class="small">*   Soul not creative, though associated with what is so.*</span> |
 
-   <span id="pp_8"></span>*Aph*. 8.[\*](#pp_8) Even though there be
+   <span id="pp_8"></span>*Aph*. 8.[\*](#pp_8.md) Even though there be
 conjunction \[of Soul\] with the other \[viz., Nature\], this \[power of
 giving rise to products\] does not exist in it immediately; just like
 the burning action of iron.
@@ -247,7 +247,7 @@ crystal was changed.
 <span id="page_194">p. 194</span>
 
    <span id="pp_8b"></span>*b*. It has already been stated \[[§
-1](#pp_1)\] that the fruit of creation is emancipation. Now he states
+1](#pp_1.md)\] that the fruit of creation is emancipation. Now he states
 the principal occasional cause of creation:
 
  
@@ -256,19 +256,19 @@ the principal occasional cause of creation:
 |------------------------------------------------|
 | <span class="small">*   Creation when.*</span> |
 
-   <span id="pp_9"></span>*Aph*. 9.[\*](#pp_9) When there is passion, or
+   <span id="pp_9"></span>*Aph*. 9.[\*](#pp_9.md) When there is passion, or
 dispassion, there is concentration, \[in the latter case, and\]
 creation, \[in the former\].
 
    <span id="pp_9a"></span>*a*. When there is passion, there is
 creation; and, when there is dispassion, there is 'concentration,' i.e.,
 the abiding \[of Soul\] in its own nature \[see Yoga Aphorisms, Book I.,
-§ 3<span id="page_194_fr_2"></span>[2](#page_194_note_2)\]; in short,
+§ 3<span id="page_194_fr_2"></span>[2](#page_194_note_2.md)\]; in short,
 emancipation, or the hindering of the modifications of the thinking
 principle \[Yoga Aphorisms, Book I., § 2<span
-id="page_194_fr_2"></span>[2](#page_194_note_2)\]: such is the meaning.
+id="page_194_fr_2"></span>[2](#page_194_note_2.md)\]: such is the meaning.
 And so the import is, that Passion is the cause of creation; because of
-their being<span id="page_194_fr_3"></span>[3](#page_194_note_3)
+their being<span id="page_194_fr_3"></span>[3](#page_194_note_3.md)
 simultaneously present or absent.
 
    <span id="pp_9b"></span>*b*. After this he begins to state the manner
@@ -282,8 +282,8 @@ of creation:
 |----------------------------------------------------|
 | <span class="small">*   Order of creation.*</span> |
 
-   <span id="pp_10"></span>*Aph*. 10.[\*](#pp_10) In the order \[see [§
-12. *b*.](#pp_12b)\] of Mind, &c., \[is the creation\] of the five
+   <span id="pp_10"></span>*Aph*. 10.[\*](#pp_10.md) In the order \[see [§
+12. *b*.](#pp_12b.md)\] of Mind, &c., \[is the creation\] of the five
 elements, \[or of the material world\].
 
    <span id="pp_10a"></span>*a*. 'Creation' is supplied from the
@@ -298,7 +298,7 @@ these successively creative energies and the primal one\]:
 |-----------------------------------------------------------------------|
 | <span class="small">*   Nature's products not for themselves.*</span> |
 
-   <span id="pp_11"></span>*Aph*. 11.[\*](#pp_11) Since creation is for
+   <span id="pp_11"></span>*Aph*. 11.[\*](#pp_11.md) Since creation is for
 the sake of Soul the origination of these \[products of Nature\] is not
 for their own sake.
 
@@ -306,7 +306,7 @@ for their own sake.
 the creativeness is 'for the sake of Soul,' i.e., for the sake of the
 emancipation of Soul, the 'origination,' i.e., the creativeness, is not
 for the sake of themselves; since, inasmuch as they are perishable, they
-\[unlike Nature, (see [§ 1](#pp_1))\] are not susceptible of
+\[unlike Nature, (see [§ 1](#pp_1).md)\] are not susceptible of
 emancipation: such is the meaning.
 
    <span id="pp_11b"></span>*b*. He declares the creation of limited
@@ -320,7 +320,7 @@ space and time:
 |-----------------------------------------------------------------|
 | <span class="small">*   Relative time and space whence.*</span> |
 
-   <span id="pp_12"></span>*Aph*. 12.[\*](#pp_12) \[Relative\] Space and
+   <span id="pp_12"></span>*Aph*. 12.[\*](#pp_12.md) \[Relative\] Space and
 Time \[arise\] from the Ether, &c.
 
    <span id="pp_12a"></span>*a*. The Space and Time which are *eternal*
@@ -333,7 +333,7 @@ meant 'from the apprehending of this or that limiting object.'
 
    <span id="pp_12b"></span>*b*. Now he exhibits, in their order,
 through their nature and their habits, the things mentioned \[in [§
-10](#pp_10)\] as 'in the order of Mind, &c.':
+10](#pp_10.md)\] as 'in the order of Mind, &c.':
 
  
 
@@ -341,15 +341,15 @@ through their nature and their habits, the things mentioned \[in [§
 |------------------------------------------------------------|
 | <span class="small">*   Mind or Intellect defined.*</span> |
 
-   <span id="pp_13"></span>*Aph*. 13.[\*](#pp_13) Intellect is judgment.
+   <span id="pp_13"></span>*Aph*. 13.[\*](#pp_13.md) Intellect is judgment.
 
    <span id="pp_13a"></span>*a*. 'Intellect' is a synonym of 'the Great
-Principle' \[or Mind (see [Book I., § 71](sak1.htm#pp_71))\]; and
+Principle' \[or Mind (see [Book I., § 71](sak1.htm#pp_71).md)\]; and
 'judgment,' called \[also\] ascertainment, is its <span id="page_197">p.
 197</span> peculiar modification: such is the meaning. But they are set
 forth as identical, because a property and that of which it is the
 property are indivisible.<span
-id="page_197_fr_1"></span>[1](#page_197_note_1) And it is to be
+id="page_197_fr_1"></span>[1](#page_197_note_1.md) And it is to be
 understood, that this Intellect is 'Great,' because it pervades all
 effects other than itself, and because it is of great power.
 
@@ -362,7 +362,7 @@ the Great Principle:
 |--------------------------------------------------------|
 | <span class="small">*   Products of intellect.*</span> |
 
-   <span id="pp_14"></span>*Aph*. 14.[\*](#pp_14) Merit, &c., are
+   <span id="pp_14"></span>*Aph*. 14.[\*](#pp_14.md) Merit, &c., are
 products of it.
 
    <span id="pp_14a"></span>*a*. The meaning is, that Merit, Knowledge,
@@ -383,13 +383,13 @@ cattle, &c., be accounted for? To this he replies:
 |-----------------------------------------------------------------|
 | <span class="small">*   Opposite products of intellect.*</span> |
 
-   <span id="pp_15"></span>*Aph*. 15.[\*](#pp_15) The Great one
+   <span id="pp_15"></span>*Aph*. 15.[\*](#pp_15.md) The Great one
 \[intellect,\] becomes reversed through tincture.<span
-id="page_198_fr_2"></span>[2](#page_198_note_2)
+id="page_198_fr_2"></span>[2](#page_198_note_2.md)
 
    <span id="pp_15a"></span>*a*. That same 'Great one,' i.e., the Great
 Principle \[or intellect\], through being tinged with Passion and
-Darkness, also becomes 'reversed' \[see [§ 14. *a*.](#pp_14a)\], i.e.,
+Darkness, also becomes 'reversed' \[see [§ 14. *a*.](#pp_14a.md)\], i.e.,
 vile, with the properties of Demerit, Ignorance, Non-dispassion, and
 want of Supernatural Power: such is the meaning.
 
@@ -404,18 +404,18 @@ Principle, he defines its product, Self-consciousness:
 |-----------------------------------------------------|
 | <span class="small">*   Self-consciousness.*</span> |
 
-   <span id="pp_16"></span>*Aph*. 16.[\*](#pp_16) Self-consciousness is
+   <span id="pp_16"></span>*Aph*. 16.[\*](#pp_16.md) Self-consciousness is
 a conceit.
 
    <span id="pp_16a"></span>*a*. 'Self-consciousness' is what makes the
 Ego, as a potter \[makes a pot\]; the thing \[called\] the internal<span
-id="page_199_fr_*"></span>[\*](#page_199_note_*) instrument
+id="page_199_fr_*"></span>[\*](#page_199_note_*.md) instrument
 (*antaẖ-karaṉa*): and this, inasmuch as a property and that of which it
 is the property are indivisible, is spoken of as 'a conceit,'<span
-id="page_199_fr_1"></span>[1](#page_199_note_1) \[viz., of
+id="page_199_fr_1"></span>[1](#page_199_note_1.md) \[viz., of
 personality\], in order to acquaint us that this is its peculiar
 modification. Only when a thing has been determined by intellect \[i.e.,
-by an act of judgment (see [§ 13. *a*.](#pp_13a))\], do the making of an
+by an act of judgment (see [§ 13. *a*.](#pp_13a).md)\], do the making of an
 Ego and the making of a Meum take place.
 
    <span id="pp_16b"></span>*b*. He mentions the product of
@@ -427,7 +427,7 @@ Self-consciousness, which has arrived in order:
 |----------------------------------------------------------------|
 | <span class="small">*   Product of Self-consciousness.*</span> |
 
-   <span id="pp_17"></span>*Aph*. 17.[\*](#pp_17) The product of it
+   <span id="pp_17"></span>*Aph*. 17.[\*](#pp_17.md) The product of it
 \[viz., of Self-consciousness,\] is the eleven \[organs\], and the five
 Subtile Elements.
 
@@ -444,14 +444,14 @@ distinction:
 |--------------------------------------------------|
 | <span class="small">*   The Mind whence.*</span> |
 
-   <span id="pp_18"></span>*Aph*. 18.[\*](#pp_18) The eleventh,
+   <span id="pp_18"></span>*Aph*. 18.[\*](#pp_18.md) The eleventh,
 consisting of \[the principle of\] Purity, proceeds from modified
 Self-consciousness.
 
    <span id="pp_18a"></span>*a*. The 'eleventh,' i.e., the completer of
 the eleven, viz., Mind, \[or the 'internal organ,'—which is not to be
 confounded with 'the Great one,' called also Intellect and
-Mind,—alone,\] among the set consisting of sixteen \[[§ 17](#pp_17)\],
+Mind,—alone,\] among the set consisting of sixteen \[[§ 17](#pp_17.md)\],
 consists of Purity; therefore it is produced from Self-consciousness
 'modified,' i.e., pure: such is the meaning. And hence, too, it is to be
 reckoned that the ten organs are from the Passionate Self-consciousness;
@@ -467,7 +467,7 @@ and the Subtile Elements, from the Dark Self-consciousness.
 |------------------------------------------------|
 | <span class="small">*   Of the Organs.*</span> |
 
-   <span id="pp_19"></span>*Aph*. 19.[\*](#pp_19) Along with the organs
+   <span id="pp_19"></span>*Aph*. 19.[\*](#pp_19.md) Along with the organs
 of action and the organs of understanding another is the eleventh.
 
    <span id="pp_19a"></span>*a*. The organs of action are five, viz.,
@@ -486,7 +486,7 @@ are formed of the Elements:
 |----------------------------------------------------------|
 | <span class="small">*   The Nyáya view rejected.*</span> |
 
-   <span id="pp_20"></span>*Aph*. 20.[\*](#pp_20) They \[the organs,\]
+   <span id="pp_20"></span>*Aph*. 20.[\*](#pp_20.md) They \[the organs,\]
 are not formed of the Elements; because there is Scripture for \[their\]
 being formed of Self-consciousness.
 
@@ -502,7 +502,7 @@ being formed of Self-consciousness.
 |---------------------------------------------------|
 | <span class="small">*   A text explained.*</span> |
 
-   <span id="pp_21"></span>*Aph*. 21.[\*](#pp_21) The Scripture
+   <span id="pp_21"></span>*Aph*. 21.[\*](#pp_21.md) The Scripture
 regarding absorption into deities is not \[declaratory\] of an
 originator.
 
@@ -526,14 +526,14 @@ the organs, is eternal. He repels this:
 |---------------------------------------------------|
 | <span class="small">*   No organ eternal.*</span> |
 
-   <span id="pp_22"></span>*Aph*. 22.[\*](#pp_22) \[None of the organs
+   <span id="pp_22"></span>*Aph*. 22.[\*](#pp_22.md) \[None of the organs
 is eternal, as some hold the Mind to be;\] because we have Scripture for
 their beginning to be, and because we see their destruction.
 
    <span id="pp_22a"></span>*a*. All these organs, without exception,
 have a beginning; for the Scripture says, 'From this are produced the
 vital air, the mind, and all the organs;'<span
-id="page_203_fr_2"></span>[2](#page_203_note_2) &c., and because we are
+id="page_203_fr_2"></span>[2](#page_203_note_2.md) &c., and because we are
 certified of their destruction by the fact that, in the conditions of
 being aged, &c., the mind, also, like the sight and the rest, decays,
 &c.: such is the meaning.
@@ -549,7 +549,7 @@ the sense \[for example,\] is merely the set of eye-balls, \[&c.\]:
 |-------------------------------------------------------------------------------|
 | <span class="small">*   The Sense not to be confounded with its site.*</span> |
 
-   <span id="pp_23"></span>*Aph*. 23.[\*](#pp_23) The Sense is
+   <span id="pp_23"></span>*Aph*. 23.[\*](#pp_23.md) The Sense is
 supersensuous; \[it being the notion\] of mistaken persons \[that the
 Sense exists\] in \[identity with\] its site.
 
@@ -569,7 +569,7 @@ Sense, through diversity of powers, performs various offices:
 |-------------------------------------------------------------------|
 | <span class="small">*   All the organs are not one organ.*</span> |
 
-   <span id="pp_24"></span>*Aph*. 24.[\*](#pp_24) Moreover, a difference
+   <span id="pp_24"></span>*Aph*. 24.[\*](#pp_24.md) Moreover, a difference
 being established if a difference of *powers* be \[conceded\], there is
 not a oneness \[of the organs\].
 
@@ -590,7 +590,7 @@ from one single Self-consciousness. To this he replies:
 |--------------------------------------------------------------------------------|
 | <span class="small">*   Theoretical considerations cannot upset facts.*</span> |
 
-   <span id="pp_25"></span>*Aph*. 25.[\*](#pp_25) A theoretical
+   <span id="pp_25"></span>*Aph*. 25.[\*](#pp_25.md) A theoretical
 discordance is not \[of any weight,\] in the case of what is matter of
 ocular evidence.
 
@@ -607,7 +607,7 @@ organ, the Mind, the other ten are kinds of powers:
 |----------------------------------------------------------------|
 | <span class="small">*   Diversified operation of Mind.*</span> |
 
-   <span id="pp_26"></span>*Aph*. 26.[\*](#pp_26) The Mind identifies
+   <span id="pp_26"></span>*Aph*. 26.[\*](#pp_26.md) The Mind identifies
 itself with both
 
    <span id="pp_26a"></span>*a*. That is to say: the Mind identifies
@@ -622,7 +622,7 @@ meaning of the expression 'identifies itself with both:'
 |---------------------------------------------------|
 | <span class="small">*   How this happens.*</span> |
 
-   <span id="pp_27"></span>*Aph*. 27.[\*](#pp_27) By reason of the
+   <span id="pp_27"></span>*Aph*. 27.[\*](#pp_27.md) By reason of the
 varieties of transformation of \[which\] the Qualities \[are
 susceptible\], there is a diversity \[of their product, the Mind,\]
 according to circumstances.
@@ -649,7 +649,7 @@ intellection and of action:
 |------------------------------------------------------------|
 | <span class="small">*   What the organs deal with.*</span> |
 
-   <span id="pp_28"></span>*Aph*. 28.[\*](#pp_28) Of both \[sets of
+   <span id="pp_28"></span>*Aph*. 28.[\*](#pp_28.md) Of both \[sets of
 organs the object is that list of things\], beginning with Colour, and
 ending with the dirt of Taste.
 
@@ -669,7 +669,7 @@ us:
 |------------------------------------------------------------------|
 | <span class="small">*   The Organs and their possessors.*</span> |
 
-   <span id="pp_29"></span>*Aph*. 29.[\*](#pp_29) The being the seer,
+   <span id="pp_29"></span>*Aph*. 29.[\*](#pp_29.md) The being the seer,
 &c., belongs to the Soul; the instrumentality belongs to the Organs.
 
    <span id="pp_29a"></span>*a*. For, as a king, even without himself
@@ -689,13 +689,13 @@ modifications of the triad of internal organs:
 |--------------------------------------------------------------------|
 | <span class="small">*   Difference in the internal organs.*</span> |
 
-   <span id="pp_30"></span>*Aph*. 30.[\*](#pp_30) Of the three
+   <span id="pp_30"></span>*Aph*. 30.[\*](#pp_30.md) Of the three
 \[internal organs\] there is a diversity among themselves.
 
 <span id="page_209">p. 209</span>
 
    <span id="pp_30a"></span>*a*. The aspect of Intellect is
-attention<span id="page_209_fr_1"></span>[1](#page_209_note_1); of
+attention<span id="page_209_fr_1"></span>[1](#page_209_note_1.md); of
 Self-consciousness, conceit \[of personality\]; of the Mind, decision
 and doubt.
 
@@ -708,7 +708,7 @@ the three:
 |------------------------------------------------------------------|
 | <span class="small">*   A character common to the three.*</span> |
 
-   <span id="pp_31"></span>*Aph*. 31.[\*](#pp_31) The five airs, viz.,
+   <span id="pp_31"></span>*Aph*. 31.[\*](#pp_31.md) The five airs, viz.,
 Breath, &c., are the modifications, in common, of the \[three internal\]
 instruments.
 
@@ -729,7 +729,7 @@ simultaneously. So he says:
 |------------------------------------------------------------------------------------|
 | <span class="small">*   Sense-impressions, &c., not excusively successive.*</span> |
 
-   <span id="pp_32"></span>*Aph*. 32.[\*](#pp_32) The modifications of
+   <span id="pp_32"></span>*Aph*. 32.[\*](#pp_32.md) The modifications of
 the organs take place successively and simultaneously.
 
    <span id="pp_32a"></span>*a*. This is simple.
@@ -744,17 +744,17 @@ world, he, in the first place, exhibits \[them\]:
 |-----------------------------------------------------------------------|
 | <span class="small">*   The ideas which constitute the world.*</span> |
 
-   <span id="pp_33"></span>*Aph*. 33.[\*](#pp_33) The modifications \[of
+   <span id="pp_33"></span>*Aph*. 33.[\*](#pp_33.md) The modifications \[of
 the understanding, which are to be shown to be the cause of the world,
 and\] which are of five kinds, are \[some of them,\] painful and
 \[others,\] not painful.<span
-id="page_210_fr_4"></span>[4](#page_210_note_4)
+id="page_210_fr_4"></span>[4](#page_210_note_4.md)
 
 <span id="page_211">p. 211</span>
 
    <span id="pp_33a"></span>*a*. That the modifications are of five
 sorts is declared by Patanjali's aphorism, \[see Yoga Aphorisms, Book
-I., § 6<span id="page_211_fr_2"></span>[2](#page_211_note_2)\]
+I., § 6<span id="page_211_fr_2"></span>[2](#page_211_note_2.md)\]
 
    <span id="pp_33b"></span>*b*. He acquaints \[us\] with the nature of
 Soul:
@@ -765,9 +765,9 @@ Soul:
 |----------------------------------------------------------|
 | <span class="small">*   Soul's relation thereto.*</span> |
 
-   <span id="pp_34"></span>*Aph*. 34.[\*](#pp_34) On the cessation
+   <span id="pp_34"></span>*Aph*. 34.[\*](#pp_34.md) On the cessation
 thereof \[viz., of mundane influences\], its tincture<span
-id="page_211_fr_4"></span>[4](#page_211_note_4) ceasing, it \[Soul,\]
+id="page_211_fr_4"></span>[4](#page_211_note_4.md) ceasing, it \[Soul,\]
 abides in itself.
 
    <span id="pp_34a"></span>*a*. That is to say: during the state of
@@ -775,7 +775,7 @@ repose of these modifications, it \[the Soul\], the reflexion of these
 having ceased, is abiding in itself; being, at *other* times, also, as
 it were, in isolation, \[though seemingly not so\]. And to this effect
 there is a triad of Aphorisms of the Yoga, \[viz., Book I., §§ 2, 3, and
-4<span id="page_211_fr_6"></span>[6](#page_211_note_6)\].
+4<span id="page_211_fr_6"></span>[6](#page_211_note_6.md)\].
 
 <span id="page_212">p. 212</span>
 
@@ -787,7 +787,7 @@ there is a triad of Aphorisms of the Yoga, \[viz., Book I., §§ 2, 3, and
 |---------------------------------------------------|
 | <span class="small">*   This illustrated.*</span> |
 
-   <span id="pp_35"></span>*Aph*. 35.[\*](#pp_35) And as \[by\] a
+   <span id="pp_35"></span>*Aph*. 35.[\*](#pp_35.md) And as \[by\] a
 flower, the gem.
 
    <span id="pp_35a"></span>*a*. The 'and' implies that this is the
@@ -801,7 +801,7 @@ apparently tinged by the adjunction of the Qualities\].
    <span id="pp_35b"></span>*b*. But then \[it may be asked\], by whose
 *effort* does the aggregate of the organs come into operation; since
 Soul is motionless, and since it is denied<span
-id="page_212_fr_3"></span>[3](#page_212_note_3) that there is any Lord
+id="page_212_fr_3"></span>[3](#page_212_note_3.md) that there is any Lord
 \[or Demiurgus\]? To this he replies:
 
 <span id="page_213">p. 213</span>
@@ -812,7 +812,7 @@ id="page_212_fr_3"></span>[3](#page_212_note_3) that there is any Lord
 |-------------------------------------------------------------------|
 | <span class="small">*   What moves the Organs to operate.*</span> |
 
-   <span id="pp_36"></span>*Aph*. 36.[\*](#pp_36) The Organs also arise,
+   <span id="pp_36"></span>*Aph*. 36.[\*](#pp_36.md) The Organs also arise,
 for the sake of Soul from the development of *desert*.
 
    <span id="pp_36a"></span>*a*. The meaning is, that, just as Nature
@@ -831,7 +831,7 @@ spontaneously energizing for the sake of another:
 |--------------------------------------------------|
 | <span class="small">*   An illustration.*</span> |
 
-   <span id="pp_37"></span>*Aph*. 37.[\*](#pp_37) As the cow for the
+   <span id="pp_37"></span>*Aph*. 37.[\*](#pp_37.md) As the cow for the
 calf.
 
    <span id="pp_37a"></span>*a*. As the cow, for the sake of the calf,
@@ -850,7 +850,7 @@ many Organs there are, external and internal combined, he says:
 |-----------------------------------------------------------|
 | <span class="small">*   The number of the Organs.*</span> |
 
-   <span id="pp_38"></span>*Aph*. 38.[\*](#pp_38) Organ is of thirteen
+   <span id="pp_38"></span>*Aph*. 38.[\*](#pp_38.md) Organ is of thirteen
 sorts, through division of the subordinates.
 
    <span id="pp_38a"></span>*a*. The triad of internal organs, and the
@@ -868,7 +868,7 @@ than one.
 seems,\] alone is the principal instrument in furnishing its object \[of
 emancipation\] to Soul, and the instrumentality of the others is
 secondary, in this case what is \[meant by\] *secondariness*?<span
-id="page_215_fr_1"></span>[1](#page_215_note_1) \[Why are they said to
+id="page_215_fr_1"></span>[1](#page_215_note_1.md) \[Why are they said to
 be instrumental *at all*?\] In regard to this he says:
 
  
@@ -877,7 +877,7 @@ be instrumental *at all*?\] In regard to this he says:
 |------------------------------------------------------------------|
 | <span class="small">*   Efficiency of the Organs whence.*</span> |
 
-   <span id="pp_39"></span>*Aph*. 39.[\*](#pp_39) Because the quality of
+   <span id="pp_39"></span>*Aph*. 39.[\*](#pp_39.md) Because the quality of
 being most efficient is conjoined with the organs; as in the case of an
 axe.
 
@@ -896,7 +896,7 @@ yet the axe, also, is an efficient, because of its close proximity to
 the quality of being the principal efficient, so \[here, also\]: such is
 the meaning. He does not here say that Self-consciousness is secondarily
 efficient, meaning to imply that it is one with the internal organ.<span
-id="page_216_fr_*"></span>[\*](#page_216_note_*)
+id="page_216_fr_*"></span>[\*](#page_216_note_*.md)
 
    <span id="pp_39c"></span>*c*. Specifying the precise state of the
 case in regard to the condition of secondary and principal, he says:
@@ -907,7 +907,7 @@ case in regard to the condition of secondary and principal, he says:
 |----------------------------------------------------------------------------|
 | <span class="small">*   Preeminent efficiency of Mind illustrated.*</span> |
 
-   <span id="pp_40"></span>*Aph*. 40.[\*](#pp_40) Among the two \[the
+   <span id="pp_40"></span>*Aph*. 40.[\*](#pp_40.md) Among the two \[the
 external and the internal organs\], the principal is Mind; just as, in
 the world, among troops of dependants.
 
@@ -920,7 +920,7 @@ minister of the king; and the others, governors of towns, &c., are his
 subordinates: such is the meaning.
 
    <span id="pp_40b"></span>*b*. Here the word 'Mind' does not mean the
-third internal organ, \[([§ 30. *a*.](#pp_30a)) but Intellect, or 'the
+third internal organ, \[([§ 30. *a*.](#pp_30a).md) but Intellect, or 'the
 Great One.'\]
 
    <span id="pp_40c"></span>*c*. He tells, in three aphorisms, the
@@ -932,7 +932,7 @@ reasons why Intellect \[or understanding\] is the principal:
 |------------------------------------------------------------------------------|
 | <span class="small">*   A reason why Understanding is the principal.*</span> |
 
-   <span id="pp_41"></span>*Aph*. 41.[\*](#pp_41) \[And Intellect is the
+   <span id="pp_41"></span>*Aph*. 41.[\*](#pp_41.md) \[And Intellect is the
 principal, or immediate and direct, efficient in Soul's emancipation;\]
 because there is no wandering away.
 
@@ -946,7 +946,7 @@ organs; or because there is no result apart from it.
 |-------------------------------------------------|
 | <span class="small">*   Another reason.*</span> |
 
-   <span id="pp_42"></span>*Aph*. 42.[\*](#pp_42) So, too, because it
+   <span id="pp_42"></span>*Aph*. 42.[\*](#pp_42.md) So, too, because it
 \[the understanding,\] is the depository of all self-continuant
 impressions.
 
@@ -962,7 +962,7 @@ deaf, &c.
 |-------------------------------------------------|
 | <span class="small">*   Another reason.*</span> |
 
-   <span id="pp_43"></span>*Aph*. 43.[\*](#pp_43) And because we infer
+   <span id="pp_43"></span>*Aph*. 43.[\*](#pp_43.md) And because we infer
 this \[its preeminence\] by reason of its meditating.
 
    <span id="pp_43a"></span>*a*. That is to say: and because we infer
@@ -973,7 +973,7 @@ or pure Thought, whose blessedness, or state of emancipation, it is to
 have no *modification* at all\]; and the Understanding itself which, as
 being the depository thereof, is, further, named Thought \[*chitta*,
 from the <span id="page_219">p. 219</span> same root as *chintá*<span
-id="page_219_fr_1"></span>[1](#page_219_note_1)\], is nobler than the
+id="page_219_fr_1"></span>[1](#page_219_note_1.md)\], is nobler than the
 organs whose modifications are other than this: such is the meaning.
 
    <span id="pp_43b"></span>*b*. But then, suppose that the modification
@@ -986,7 +986,7 @@ he replies:
 |-------------------------------------------------------------------|
 | <span class="small">*   Meditation not essential to Soul.*</span> |
 
-   <span id="pp_44"></span>*Aph*. 44.[\*](#pp_44) It cannot be of its
+   <span id="pp_44"></span>*Aph*. 44.[\*](#pp_44.md) It cannot be of its
 own nature.
 
    <span id="pp_44a"></span>*a*. That is to say: meditation cannot
@@ -995,9 +995,9 @@ belong to Soul essentially; because of the immobility \[of Soul; whereas
 
    <span id="pp_44b"></span>*b*. But then, if thus the preeminence
 belongs to understanding alone, how was it said before \[at [§
-26](#pp_26),\] that it is the *Mind* that takes the nature of both
+26](#pp_26.md),\] that it is the *Mind* that takes the nature of both
 \[sets of organs, in <span id="page_220">p. 220</span> apparent
-contradiction to the view propounded at [§ 39](#pp_39)\]? To this he
+contradiction to the view propounded at [§ 39](#pp_39.md)\]? To this he
 replies:
 
  
@@ -1006,7 +1006,7 @@ replies:
 |---------------------------------------------------------------------------------------|
 | <span class="small">*   An organ may be, relatively, principal, or secondary.*</span> |
 
-   <span id="pp_45"></span>*Aph*. 45.[\*](#pp_45) The condition \[as
+   <span id="pp_45"></span>*Aph*. 45.[\*](#pp_45.md) The condition \[as
 regards Soul's instruments,\] of secondary and principal is relative;
 because of the difference of function.
 
@@ -1030,7 +1030,7 @@ reference to this, he says:
 |------------------------------------------------------------------|
 | <span class="small">*   Every one reaps as he has sowed.*</span> |
 
-   <span id="pp_46"></span>*Aph*. 46.[\*](#pp_46) The energizing \[of
+   <span id="pp_46"></span>*Aph*. 46.[\*](#pp_46.md) The energizing \[of
 this or that Intellect\] is for the sake of this \[or that Soul\];
 because of \[its\] having been purchased by the works \[or deserts\] of
 this \[or that Soul\]; just as in the world.
@@ -1044,7 +1044,7 @@ purchased by the act, e.g., of buying, by whatever man, the operation of
 that \[axe, or the like\], such as cleaving, is only for the sake of
 that man \[who purchased it\]: such is the meaning. The import is, that
 *therefrom* is the distributive allotment of instruments \[inquired
-about under [§ 45. *b*.](#pp_45b)\]
+about under [§ 45. *b*.](#pp_45b.md)\]
 
    <span id="pp_46b"></span>*b*. Although there is *no* act in Soul,
 because it is immovable, <span id="page_222">p. 222</span> still, since
@@ -1062,7 +1062,7 @@ Intellect, he sums up, \[as follows\]:
 |---------------------------------------------|
 | <span class="small">*   Summing up.*</span> |
 
-   <span id="pp_47"></span>*Aph*. 47.[\*](#pp_47) Admitting that they
+   <span id="pp_47"></span>*Aph*. 47.[\*](#pp_47.md) Admitting that they
 \[the various instruments of Soul, all\] equally act, the preeminence
 belongs to Intellect; just as in the world, just as in the world.
 
@@ -1087,7 +1087,7 @@ Declaration of the Sánkhya, composed by the venerable Vijnána Áchárya.
 
 ------------------------------------------------------------------------
 
-[Next](sak3)
+[Next](sak3.md)
 
 ------------------------------------------------------------------------
 
@@ -1095,7 +1095,7 @@ Declaration of the Sánkhya, composed by the venerable Vijnána Áchárya.
 
 <span id="footnotes_page_184">p. 184</span>
 
-<span id="page_184_note_1"></span>[1](#page_184_fr_1) Here add, 'in the
+<span id="page_184_note_1"></span>[1](#page_184_fr_1.md) Here add, 'in the
 *Moksha-dharma*, &c.'; and read, instead of 'we remark . . . .
 Emancipation,' 'there is the declaration that.'
 
@@ -1104,72 +1104,72 @@ Chap. ccxvi., in the Section entitled *Moksha-dharma*. *Ed*.
 
 <span id="footnotes_page_186">p. 186</span>
 
-<span id="page_186_note_3"></span>[3](#page_186_fr_3) For another
+<span id="page_186_note_3"></span>[3](#page_186_fr_3.md) For another
 rendering of the original of *a*., *b*., and *c*., see my translation of
 the *Rational Refutation*, &c., p. 62. *Ed*.
 
 <span id="footnotes_page_187">p. 187</span>
 
-<span id="page_187_note_4"></span>[4](#page_187_fr_4) *Vásaná*. *Vide
-supra*, [p. 29, note 2](sak1.htm#page_29_note_2). *Ed*.
+<span id="page_187_note_4"></span>[4](#page_187_fr_4.md) *Vásaná*. *Vide
+supra*, [p. 29, note 2](sak1.htm#page_29_note_2.md). *Ed*.
 
 <span id="footnotes_page_189">p. 189</span>
 
-<span id="page_189_note_2"></span>[2](#page_189_fr_2) *Taittiríya
+<span id="page_189_note_2"></span>[2](#page_189_fr_2.md) *Taittiríya
 Upanishad*, ii., 1. But read: 'From this, from this same self.' &c.
 *Ed*.
 
 <span id="footnotes_page_194">p. 194</span>
 
-<span id="page_194_note_2"></span>[2](#page_194_fr_2) *Vide infra*, [p.
-211, note 6](#page_211_note_6). *Ed*.
+<span id="page_194_note_2"></span>[2](#page_194_fr_2.md) *Vide infra*, [p.
+211, note 6](#page_211_note_6.md). *Ed*.
 
-<span id="page_194_note_3"></span>[3](#page_194_fr_3) 'Simultaneously,'
+<span id="page_194_note_3"></span>[3](#page_194_fr_3.md) 'Simultaneously,'
 &c., is to render *anwayavyatirekau*, on which vide supra, [p. 43, note
-2](sak1.htm#page_43_note_2). *Ed*.
+2](sak1.htm#page_43_note_2.md). *Ed*.
 
 <span id="footnotes_page_197">p. 197</span>
 
-<span id="page_197_note_1"></span>[1](#page_197_fr_1) See, for a
+<span id="page_197_note_1"></span>[1](#page_197_fr_1.md) See, for a
 different rendering, the *Rational Refutation*, &c., p. 45. *Ed*.
 
 <span id="footnotes_page_198">p. 198</span>
 
-<span id="page_198_note_2"></span>[2](#page_198_fr_2) I.e., 'influence.'
+<span id="page_198_note_2"></span>[2](#page_198_fr_2.md) I.e., 'influence.'
 *Ed*.
 
 <span id="footnotes_page_199">p. 199</span>
 
-<span id="page_199_note_1"></span>[1](#page_199_fr_1) For another
+<span id="page_199_note_1"></span>[1](#page_199_fr_1.md) For another
 version, see the *Rational Refutation*, &c., p. 45. *Ed*.
 
-<span id="page_199_note_*"></span>[\*](#page_199_fr_*) 'An internal' is
+<span id="page_199_note_*"></span>[\*](#page_199_fr_*.md) 'An internal' is
 better.
 
 <span id="footnotes_page_203">p. 203</span>
 
-<span id="page_203_note_2"></span>[2](#page_203_fr_2) *Muṇḍaka
+<span id="page_203_note_2"></span>[2](#page_203_fr_2.md) *Muṇḍaka
 Upanishad*, ii., i., 3. *Ed*.
 
 <span id="footnotes_page_209">p. 209</span>
 
-<span id="page_209_note_1"></span>[1](#page_209_fr_1) *Adkyavasáya*,
-rendered 'ascertainment' and 'judgment' at pp. [156](sak1.htm#page_156)
-and [196](#page_196), *supra*. Also see the *Rational Refutation*, &c.,
+<span id="page_209_note_1"></span>[1](#page_209_fr_1.md) *Adkyavasáya*,
+rendered 'ascertainment' and 'judgment' at pp. [156](sak1.htm#page_156.md)
+and [196](#page_196.md), *supra*. Also see the *Rational Refutation*, &c.,
 p. 46. *Ed*.
 
-<span id="page_210_note_4"></span>[4](#page_210_fr_4) Literally the same
+<span id="page_210_note_4"></span>[4](#page_210_fr_4.md) Literally the same
 words are found in the Yoga Aphorisms, Book I., § 5. *Ed*.
 
 <span id="footnotes_page_211">p. 211</span>
 
-<span id="page_211_note_2"></span>[2](#page_211_fr_2) Namely: 'Evidence,
+<span id="page_211_note_2"></span>[2](#page_211_fr_2.md) Namely: 'Evidence,
 misprision, chimera, unconsciousness, memory.' *Ed*.
 
-<span id="page_211_note_4"></span>[4](#page_211_fr_4) I.e., 'influence',
-as in [Aph. 15.](#pp_15) at p. 198, supra. *Ed*.
+<span id="page_211_note_4"></span>[4](#page_211_fr_4.md) I.e., 'influence',
+as in [Aph. 15.](#pp_15.md) at p. 198, supra. *Ed*.
 
-<span id="page_211_note_6"></span>[6](#page_211_fr_6) 'Concentration
+<span id="page_211_note_6"></span>[6](#page_211_fr_6.md) 'Concentration
 (*yoga*) is the hindering of the modifications of the thinking
 principle.' 'Then \[i.e., at the time of Concentration,\] <span
 id="footnotes_page_212">p. 212</span> it \[the Soul,\] abides in the
@@ -1178,25 +1178,25 @@ that of Concentration\] it \[the Soul,\] is in the same form as the
 modifications \[of the internal organ\].' Dr. Ballantyne's translation
 is here quoted. *Ed*.
 
-<span id="page_212_note_3"></span>[3](#page_212_fr_3) 'Demurred to' is
-preferable. *Vide supra*, [p. 112](sak1.htm#page_112). *Ed*.
+<span id="page_212_note_3"></span>[3](#page_212_fr_3.md) 'Demurred to' is
+preferable. *Vide supra*, [p. 112](sak1.htm#page_112.md). *Ed*.
 
 <span id="footnotes_page_215">p. 215</span>
 
-<span id="page_215_note_1"></span>[1](#page_215_fr_1) Instead of 'in
+<span id="page_215_note_1"></span>[1](#page_215_fr_1.md) Instead of 'in
 this case,' &c., read, 'what is the character of these \[i.e., organs\]?
 *Ed*.
 
 <span id="footnotes_page_215">p. 215</span>
 
-<span id="page_216_note_*"></span>[\*](#page_216_fr_*) Instead of 'it is
+<span id="page_216_note_*"></span>[\*](#page_216_fr_*.md) Instead of 'it is
 one with the internal organ,' read 'the internal organ is really one.'
 The implication is, that *buddhi*, *ahankára*, and *manas* really make
 one whole, called *manas*, in the wider sense of that term.
 
 <span id="footnotes_page_216">p. 216</span>
 
-<span id="page_219_note_1"></span>[1](#page_219_fr_1) The two words are,
+<span id="page_219_note_1"></span>[1](#page_219_fr_1.md) The two words are,
 respectively, from *chit* and *chint*, which are cognate. *Ed*.
 
  

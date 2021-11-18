@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index) [Index](index) [Next](nt1)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index) [Index](index) [Next](nt1.md)
 
 ------------------------------------------------------------------------
 
@@ -61,18 +61,18 @@ who lived at Shiprock, New Mexico, laid no claim to being a chanter. His
 power (for good) was however recognized by all in his own neighborhood
 and elsewhere. “No, he knows no chants, but his story is the best for it
 accounts for the Navajo much farther down<span
-id="page_6_fr_1"></span>[1](#page_6_note_1) than any of the others.”
+id="page_6_fr_1"></span>[1](#page_6_note_1.md) than any of the others.”
 These were remarks frequently made of the origin tale (pp. 9-57,
 127-147). Sandoval learned the stories from his maternal grandfather
-*ba’iłinkojε*<span id="page_6_fr_2"></span>[2](#page_6_note_2).
+*ba’iłinkojε*<span id="page_6_fr_2"></span>[2](#page_6_note_2.md).
 
  Besides, this version contains much that was heretofore not known of
 the Navajo as, for example, the orderly account of the months, the
 constellations which usher them in, the “soft feathers” belonging to
 them, and the activities which go on in those months. There are, of
 course, many incidents which are recorded by Matthews<span
-id="page_6_fr_3"></span>[3](#page_6_note_3) and the Franciscan
-Fathers,<span id="page_6_fr_4"></span>[4](#page_6_note_4) but the text
+id="page_6_fr_3"></span>[3](#page_6_note_3.md) and the Franciscan
+Fathers,<span id="page_6_fr_4"></span>[4](#page_6_note_4.md) but the text
 not only gives an entirely different impression of the thought and
 style, but furnishes details, the omission of which by Matthews was very
 annoying, especially since his references indicate that he knew details
@@ -100,7 +100,7 @@ of extreme potency. The notebook records a remark of Sandoval’s, “If
 people knew I knew this story they would call me a wizard.”
 
  Nothing could be more unfortunate for an individual.<span
-id="page_7_fr_1"></span>[1](#page_7_note_1) He is suspected, avoided,
+id="page_7_fr_1"></span>[1](#page_7_note_1.md) He is suspected, avoided,
 feared, but respected. The respect accorded him is not the same as that
 enjoyed by the learned Navajo, but rather honor induced by coercion
 based on fear and suspicion, respect of form for one’s own defense
@@ -115,17 +115,17 @@ the native, are most highly significant.
 
  “The Creation of the Horse” is a tiny bit illustrative of Navajo
 literary charm in a nutshell. It is comparable with a similar tale of
-the Mescalero Apache,<span id="page_7_fr_2"></span>[2](#page_7_note_2)
+the Mescalero Apache,<span id="page_7_fr_2"></span>[2](#page_7_note_2.md)
 but has a very different twist, particularly at the end.
 
  The last tale describes the origin and scattering of the people and
 sheds additional light on the possession of pets by the Navajo. Such
 possession has been interpreted as totemism by Matthews<span
-id="page_7_fr_3"></span>[3](#page_7_note_3) and Kroeber.<span
-id="page_7_fr_4"></span>[4](#page_7_note_4) The interpretation has been
+id="page_7_fr_3"></span>[3](#page_7_note_3.md) and Kroeber.<span
+id="page_7_fr_4"></span>[4](#page_7_note_4.md) The interpretation has been
 refuted by the Franciscan Fathers<span
-id="page_7_fr_5"></span>[5](#page_7_note_5) and by myself.<span
-id="page_7_fr_6"></span>[6](#page_7_note_6) This tale seems to me to
+id="page_7_fr_5"></span>[5](#page_7_note_5.md) and by myself.<span
+id="page_7_fr_6"></span>[6](#page_7_note_6.md) This tale seems to me to
 corroborate our interpretation. The pets, bear, panther, and snake, were
 protectors and saviors but were attached to indefinite groups before the
 scattering of the clans and there is no evidence of a specific kinship
@@ -152,7 +152,7 @@ class="small">EICHARD</span>.
 
 ------------------------------------------------------------------------
 
-[Next](nt1)
+[Next](nt1.md)
 
 ------------------------------------------------------------------------
 
@@ -160,39 +160,39 @@ class="small">EICHARD</span>.
 
 <span id="footnotes_page_6">p. 6</span>
 
-<span id="page_6_note_1"></span>[1](#page_6_fr_1) That is, in lower
+<span id="page_6_note_1"></span>[1](#page_6_fr_1.md) That is, in lower
 worlds.
 
-<span id="page_6_note_2"></span>[2](#page_6_fr_2) Reichard, Gladys A.,
+<span id="page_6_note_2"></span>[2](#page_6_fr_2.md) Reichard, Gladys A.,
 Social Life of the Navajo Indians (*Columbia University Contributions to
 Anthropology*, vol. 7, New York, 1928), Gen. I D, 557 who was highly
 respected for his knowledge.
 
-<span id="page_6_note_3"></span>[3](#page_6_fr_3) Navaho Legends
+<span id="page_6_note_3"></span>[3](#page_6_fr_3.md) Navaho Legends
 (*Memoirs, American Folk-Lore Society*, vol. 5, New York, 1897).
 
-<span id="page_6_note_4"></span>[4](#page_6_fr_4) *An Ethnologic
+<span id="page_6_note_4"></span>[4](#page_6_fr_4.md) *An Ethnologic
 Dictionary of the Navaho Language*. St. Michaels, Arizona, 1910.
 
 <span id="footnotes_page_7">p. 7</span>
 
-<span id="page_7_note_1"></span>[1](#page_7_fr_1) Cp. Reichard. *loc.
+<span id="page_7_note_1"></span>[1](#page_7_fr_1.md) Cp. Reichard. *loc.
 cit.*, 148.
 
-<span id="page_7_note_2"></span>[2](#page_7_fr_2) Notes of P. E.
+<span id="page_7_note_2"></span>[2](#page_7_fr_2.md) Notes of P. E.
 Goddard.
 
-<span id="page_7_note_3"></span>[3](#page_7_fr_3) The Gentile System of
+<span id="page_7_note_3"></span>[3](#page_7_fr_3.md) The Gentile System of
 the Navajo Indians (*Journal of American Folk-Lore*. vol. 3, pp. 89-110.
 1890), 106.
 
-<span id="page_7_note_4"></span>[4](#page_7_fr_4) This series, vol. 18,
+<span id="page_7_note_4"></span>[4](#page_7_fr_4.md) This series, vol. 18,
 148.
 
-<span id="page_7_note_5"></span>[5](#page_7_fr_5) *Ethnologic
+<span id="page_7_note_5"></span>[5](#page_7_fr_5.md) *Ethnologic
 Dictionary*, 424.
 
-<span id="page_7_note_6"></span>[6](#page_7_fr_6) *Social Life*, 33.
+<span id="page_7_note_6"></span>[6](#page_7_fr_6.md) *Social Life*, 33.
 
  
 

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tgr13)  [Next](tgr15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tgr13)  [Next](tgr15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Think and Grow Rich*, by Napoleon Hill \[1938\], at Intangible Textual
 Heritage
 
@@ -602,7 +602,7 @@ uttered lays are the thoughts I have of you.'"
 In these words would we pay tribute to the two people who, more than all
 others of modern times, have been the victims of criticism and the
 recipients of abuse, because they found Life's greatest treasure, and
-claimed it. <span id="fr_0"></span>[\*](#fn_0)
+claimed it. <span id="fr_0"></span>[\*](#fn_0.md)
 
 Most of the world will applaud the Duke of Windsor and Wallis Simpson,
 because of their PERSISTENCE in searching until they found life's
@@ -733,10 +733,10 @@ learning, the university."
 
 ### Footnotes
 
-<span id="fn_0"></span>[244:\*](tgr14.htm#fr_0) *Mrs. Simpson read and
+<span id="fn_0"></span>[244:\*](tgr14.htm#fr_0.md) *Mrs. Simpson read and
 approved this analysis*.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter 10. Power of the Master Mind (The Ninth Step toward
-Riches)](tgr15)
+Riches)](tgr15.md)

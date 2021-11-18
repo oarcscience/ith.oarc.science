@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm21)  [Next](wsm23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm21)  [Next](wsm23.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,7 +174,7 @@ Cottontail continued to come west. He came to where there were
 Rattlesnakes. He saw them, but went on past. Rattlesnakes tried to shoot
 him. Cottontail became angry and killed them. He roasted them in a fire,
 and said, "You will be rattlesnakes, out in the hills, but not in the
-valleys." <span id="fr_24"></span>[25](#fn_24)
+valleys." <span id="fr_24"></span>[25](#fn_24.md)
 
 Cottontail went on and found two boys camped by a creek. The boys said,
 "Here is our brother coming." They called him ăŋgatasump: \[ăŋga, "red,"
@@ -186,7 +186,7 @@ but it turned into ice. Cottontail shot it. They tried to get willow
 sugar (suhuviha), but the willows dropped on their heads. Cottontail
 remedied that. These boys were Hummingbirds. Cottontail said, "That is a
 good name they called me. It is the first time I have been spoken to
-pleasantly." <span id="fr_25"></span>[26](#fn_25)
+pleasantly." <span id="fr_25"></span>[26](#fn_25.md)
 
 Kaŋgwusi gweak: (Wood rat's tail, pulled off).
 
@@ -194,14 +194,14 @@ Kaŋgwusi gweak: (Wood rat's tail, pulled off).
 
 ### Footnotes
 
-<span id="fn_24"></span>[281:25](wsm22.htm#fr_24) B. G. said that he had
+<span id="fn_24"></span>[281:25](wsm22.htm#fr_24.md) B. G. said that he had
 probably omitted one or two episodes in this portion of the story.
 
-<span id="fn_25"></span>[281:26](wsm22.htm#fr_25) B. G. regarded this as
+<span id="fn_25"></span>[281:26](wsm22.htm#fr_25.md) B. G. regarded this as
 the Shoshoni classic, the one important myth that explained everything,
 the "Shoshoni bible."
 
 ------------------------------------------------------------------------
 
 [Next: The Length of Winter; Coyote is Bitten (Saline Valley,
-California. Shoshoni)](wsm23)
+California. Shoshoni)](wsm23.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot01)  [Next](lot03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot01)  [Next](lot03.md) 
 
 ------------------------------------------------------------------------
 
@@ -805,4 +805,4 @@ become Buddhas; rejoice!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](lot03)
+[Next: Chapter 3](lot03.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow39)  [Next](vow41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow39)  [Next](vow41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -72,7 +72,7 @@ therefore the animals are called brutes, because their soul is deprived
 of reason. The fourth species in soul, that possessed by inanimate
 creatures, is placed outside the bodies actuated. This soul moves in the
 divine form, and impels it passively. <span
-id="fr_50"></span>[1](#fn_50)
+id="fr_50"></span>[1](#fn_50.md)
 
 \[The
 
@@ -80,7 +80,7 @@ id="fr_50"></span>[1](#fn_50)
 
 ### Footnotes
 
-<span id="fn_50"></span>[147:1](vow40.htm#fr_50) The above fragment
+<span id="fn_50"></span>[147:1](vow40.htm#fr_50.md) The above fragment
 appears to me extremely obscure and unsatisfactory. I include it in the
 series of Hermetic writings because it is quoted as such by Stobæus, but
 it certainly needs much interpretation and explanation, if it be indeed
@@ -90,4 +90,4 @@ A.K.
 
 ------------------------------------------------------------------------
 
-[Next: Part VI](vow41)
+[Next: Part VI](vow41.md)

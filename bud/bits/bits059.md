@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits058) [Next](bits060)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits058) [Next](bits060.md)
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ the four grades of formless gods.
 
 ------------------------------------------------------------------------
 
-[Next: § 60. The Forty Subjects of Meditation](bits060)
+[Next: § 60. The Forty Subjects of Meditation](bits060.md)
 
  
 

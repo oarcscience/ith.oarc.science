@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp16)  [Next](orrp18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp16)  [Next](orrp18.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ Graec.*, XIV, 1034).
 
 <span id="xref_4_6">4\_6</span>. Kaibel, Epigr. 1028 = Abel, Orphica, p.
 295, etc.--See *supra*, ch. 1, n.
- [1\_14](orrp14.htm#xref_1_14).--According to recent opinion, M. de
+ [1\_14](orrp14.htm#xref_1_14.md).--According to recent opinion, M. de
 Wilamowitz was good enough to write me, the date of the Andros hymn
 cannot have been later than the period of Cicero, and it is very
 probably contemporary with Sulla.--See *supra*, ch. I, n. 14.--On other
@@ -240,7 +240,7 @@ Otto, *Priester und Tempel* II, p. 216; Schwartz in Pauly-Wissowa,
 
 <span id="xref_4_40">4\_40</span>. Doctrines of Plutarch: cf. Decharme,
 *Traditions religieuses chez les Grecs*, pp. 486 ff. and *supra*, ch. I,
-n.  [1\_20](orrp14.htm#xref_1_20).
+n.  [1\_20](orrp14.htm#xref_1_20.md).
 
 <span id="xref_4_41">4\_41</span>. I did not mention Hermetism, made
 prominent by the researches of Reitzenstein, because I believe its
@@ -379,7 +379,7 @@ When, by pouring water taken from the river, reality took the place of
 this fiction, the act was much more effective; see Juv. VII, 527.
 
 <span id="xref_4_65">4\_65</span>. This passage, together with a chapter
-from Apuleius (XI, 20), is the principal text we [have](errata.htm#8) in
+from Apuleius (XI, 20), is the principal text we [have](errata.htm#8.md) in
 connection with the ritual of those Isis matins. (*De Abstin.*, IV, 9):
 
 Ὥς που ἕτι καὶ νῦν ἐν τῇ ἀνοίξει τοῦ ἁγίου Σαράπιδος ἡ θεραπεία διὰ
@@ -470,7 +470,7 @@ pp. 40 ff.; Gruppe, *Griech. Mythol.*, p. 1574.
 <span id="xref_4_81">4\_81</span>. Cf. Erman, *op. cit.*, pp. 96-97.
 
 <span id="xref_4_82">4\_82</span>. Sufficient proof is contained in the
-bas-reliefs cited above (n.  [4\_20](orrp17.htm#xref_4_20)), where
+bas-reliefs cited above (n.  [4\_20](orrp17.htm#xref_4_20).md), where
 apotheosized death assumes the shape of Serapis.
 
 <span id="page_238">p. 238</span>
@@ -505,7 +505,7 @@ voluptate &lt;aspectu&gt; divini simulacri perfruebar."
 ἀπλήστως καὶ ποθούσαις τὸ φατὸν μηδὲ ῥητὸν ἀνθρώποις κάλλος.
 
 <span id="xref_4_88">4\_88</span>. Cf. *supra*, n.
- [4\_22](orrp17.htm#xref_4_22).
+ [4\_22](orrp17.htm#xref_4_22.md).
 
 <span id="xref_4_89">4\_89</span>. We find similar wishes on the
 Egyptian monuments, frequently at least since the Middle Empire.
@@ -524,7 +524,7 @@ hunger and thirst, and obtaining refreshment by the aid of the gods
 <span id="page_239">p. 239</span>
 
 \[paragraph continues\] 366 ff.).--On a tablet at Petilia (see *supra*,
-n.  [4\_22](orrp17.htm#xref_4_22)), the soul of the deceased is required
+n.  [4\_22](orrp17.htm#xref_4_22).md), the soul of the deceased is required
 to drink the fresh water (ψυχρὸν ὕδωρ) flowing from the lake of Memory
 in order to reign with the heroes. There is nothing to prevent our
 admitting with Foucart ("*Myst.* d'Eleusis," *Mém. Acad. des Inscr.*,
@@ -572,7 +572,7 @@ Synagogue, but the Jews themselves seem to have taken it from the
 Egyptians during the Hellenistic period, undoubtedly in the course of
 the second century (S. Reinach, *Cultes, mythes*, I, p. 325), just as
 they were indebted to the Egyptians for the idea of the "spring of life"
-(*supra*, n.  [4\_90](orrp17.htm#xref_4_90)). The formula in the
+(*supra*, n.  [4\_90](orrp17.htm#xref_4_90).md). The formula in the
 Christian inscriptions cited,
 
 ἀνάπαυσον τὴν ψυχὴν ἐν κόλποις Ἀβραὰμ καὶ Ἰσαάκ καὶ Ἰακώβ,
@@ -605,7 +605,7 @@ derived from the Egyptian religion, but this is more doubtful. Εὐψύχει
 is found in the epitaphs of initiates in the Alexandrian mysteries.
 Kaibel, *Inscr. gr.*, XIV, 1488, 1782 (Εὐψυχεῖ κυρία καὶ δοίη σοι ὁ
 Ὄσιρις τὸ ψυχρὸν ὕδωρ), 2098 (cf. *supra*, n.
- [4\_90](orrp17.htm#xref_4_90)). Possibly the twofold meaning of
+ [4\_90](orrp17.htm#xref_4_90).md). Possibly the twofold meaning of
 
 <span id="page_241">p. 241</span>
 
@@ -620,4 +620,4 @@ cf. Naville, *op. cit.*, p. 170.
 
 ------------------------------------------------------------------------
 
-[Next: V. Syria](orrp18)
+[Next: V. Syria](orrp18.md)

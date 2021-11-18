@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](hrl09)  [Next](hrl11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](hrl09)  [Next](hrl11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0394736656/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0394736656/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -529,4 +529,4 @@ land, joined hands with them and made our marriage vows.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11. Our Difficulties](hrl11)
+[Next: Chapter 11. Our Difficulties](hrl11.md)

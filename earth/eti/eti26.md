@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti25)  [Next](eti27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti25)  [Next](eti27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -59,7 +59,7 @@ uncertainty; otherwise I shall go no farther."
 
 <span id="img_12900"></span> <span align="CENTER"> [![AN ENDLESS
 VARIETY OF STONY FIGURES.](tn/12900.jpg)  
-Click to enlarge](img/12900.jpg)  
+Click to enlarge](img/12900.jpg.md)  
 “AN ENDLESS VARIETY OF STONY FIGURES.”  
 </span>
 
@@ -128,7 +128,7 @@ convulsions of nature, have been
 
 <span id="img_13100"></span> <span align="CENTER"> [![MONSTROUS CUBICAL
 CRYSTALS.](tn/13100.jpg)  
-Click to enlarge](img/13100.jpg)  
+Click to enlarge](img/13100.jpg.md)  
 “MONSTROUS CUBICAL CRYSTALS.”  
 </span>
 
@@ -148,4 +148,4 @@ until it reaches the earth's surface."
 ------------------------------------------------------------------------
 
 [Next: Chapter XX. My Unbidden Guest Proves His Statement and Refutes My
-Philosophy](eti27)
+Philosophy](eti27.md)

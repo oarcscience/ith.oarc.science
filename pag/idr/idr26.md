@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr25) 
-[Next](idr27) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr25.md) 
+[Next](idr27.md) 
 
 ------------------------------------------------------------------------
 
@@ -248,4 +248,4 @@ rise of Sirius the Dogstar.
 
 ------------------------------------------------------------------------
 
-[Next: Well-Worship](idr27)
+[Next: Well-Worship](idr27.md)

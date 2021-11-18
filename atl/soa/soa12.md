@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa11)  [Next](soa13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa11)  [Next](soa13.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ and the Sahara desert then formed part of the ocean floor.
 
 ------------------------------------------------------------------------
 
-[Next: The Manus](soa13)
+[Next: The Manus](soa13.md)

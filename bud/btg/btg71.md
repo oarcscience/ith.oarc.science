@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg70)  [Next](btg72) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg70)  [Next](btg72.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ have both the salvation from evil and a prolongation of life."
 
 ------------------------------------------------------------------------
 
-[Next: The Communication Of Bliss](btg72)
+[Next: The Communication Of Bliss](btg72.md)

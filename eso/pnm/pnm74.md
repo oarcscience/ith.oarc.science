@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm73)  [Next](pnm75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm73)  [Next](pnm75.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -94,4 +94,4 @@ religion, which things we shall now consider.
 
 [Next: Chapter LXVI. That The Passions Of The Mind Are Helped By A
 Celestial Season, And How Necessary The Constancy Of The Mind Is In
-Every Work](pnm75)
+Every Work](pnm75.md)

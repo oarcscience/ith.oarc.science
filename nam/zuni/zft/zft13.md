@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft12)  [Next](zft14) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft12)  [Next](zft14.md) 
 
 ------------------------------------------------------------------------
 
@@ -382,4 +382,4 @@ Thus shortens my story.
 ------------------------------------------------------------------------
 
 [Next: The Coyote Who Killed The Demon SÍuiuki: or Why Coyotes Run Their
-Noses Into Deadfalls](zft14)
+Noses Into Deadfalls](zft14.md)

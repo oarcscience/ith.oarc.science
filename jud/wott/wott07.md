@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](wott06)  [Next](wott08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](wott06)  [Next](wott08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of the Talmud*, by Ben Zion Bokser, \[1951\], at Intangible
 Textual Heritage
 
@@ -32,7 +32,7 @@ Talmud, and the reply is, "that the families of mankind shall not lord
 one over the other with the claim of being sprung from superior stock …
 that all men, saints and sinners alike, may recognize their common
 kinship in the collective human family."<span
-id="an_r_05_1"></span>[1](wott11.htm#an_n_05_1)
+id="an_r_05_1"></span>[1](wott11.htm#an_n_05_1.md)
 
 Human behavior may be infinitely varied, but human nature which
 underlies it, is essentially the same. Man is a creature of earth and at
@@ -47,7 +47,7 @@ probe sufficiently, one Talmudic maxim advises, you will discover that
 "even the greatest of sinners" abound in good deeds as a pomegranate
 abounds in seeds. On the other hand, the greatest of saints have their
 share of moral imperfection.<span
-id="an_r_05_2"></span>[2](wott11.htm#an_n_05_2) All human beings are, so
+id="an_r_05_2"></span>[2](wott11.htm#an_n_05_2.md) All human beings are, so
 to say, cut from the same cloth and there are no absolute distinctions
 between them.
 
@@ -74,7 +74,7 @@ early to his. As he cannot excel in my work, so I cannot excel in his
 work. But you may be tempted to say, 'I do great things and he small
 things!' We have learned that it matters not whether one does much or
 little, if only he directs his heart to serve the divine purpose."<span
-id="an_r_05_3"></span>[3](wott11.htm#an_n_05_3)
+id="an_r_05_3"></span>[3](wott11.htm#an_n_05_3.md)
 
 Deriving from this conception of man's place in the universe is the
 sense of the supreme sanctity of all human life. "He who destroys one
@@ -90,7 +90,7 @@ applied likewise to all
 
 other law. It is greater to serve one's fellow-man, one Talmudist
 expounded, than to preoccupy oneself with divine communion.<span
-id="an_r_05_4"></span>[4](wott11.htm#an_n_05_4)
+id="an_r_05_4"></span>[4](wott11.htm#an_n_05_4.md)
 
 The sanctity of life was intrinsic to the individual person and was not
 a derivative of national origin, religious affiliation, or social
@@ -106,7 +106,7 @@ to visit their sick even as we visit the Jewish sick; we are obligated
 to attend to the burial of their dead, even as we attend to the burial
 of Jewish dead." The rabbis base their demand on the ground that these
 are "the ways of peace."<span
-id="an_r_05_5"></span>[5](wott11.htm#an_n_05_5)
+id="an_r_05_5"></span>[5](wott11.htm#an_n_05_5.md)
 
 Nor was a person's worth a derivative of his status, whether political,
 social or cultural. In the sight of God the humble citizen is the equal
@@ -129,7 +129,7 @@ services but whose dignity and rights remained intact. And the Talmud
 condemned the man who was willing to accept personal bondage as a
 solution to his economic problem; for man was meant to serve only God
 and to recognize no other master beside Him.<span
-id="an_r_05_6"></span>[6](wott11.htm#an_n_05_6)
+id="an_r_05_6"></span>[6](wott11.htm#an_n_05_6.md)
 
 But the Talmud includes equally telling expressions of solicitude on
 behalf of the pagan slave. He was not to be exposed to ridicule or
@@ -137,7 +137,7 @@ humiliation. One Talmudist shared his meat and wine with his slave,
 explaining: "Did not He that made me in the womb make him also?" It was
 an old principle which the Pharisees had established that "slaves,
 unlike the ox or the ass, are human beings with minds and wills of their
-own."<span id="an_r_05_7"></span>[7](wott11.htm#an_n_05_7)
+own."<span id="an_r_05_7"></span>[7](wott11.htm#an_n_05_7.md)
 
 The Talmud speaks repeatedly of the dignity of free labor. Creative
 labor, no matter how humble, is always honorable and is a form of divine
@@ -150,7 +150,7 @@ academic work was a labor of love which offered no remuneration, pursued
 various handicrafts as well as farming and commerce to earn a
 livelihood. Among them were shoemakers, tailors, bakers, woodcutters, a
 night watchman and even a grave digger.<span
-id="an_r_05_8"></span>[8](wott11.htm#an_n_05_8)
+id="an_r_05_8"></span>[8](wott11.htm#an_n_05_8.md)
 
 Even he who had endangered social security in the commission of crime
 has not forfeited his inherent worth as a person. The Talmud ordained
@@ -159,7 +159,7 @@ law be given a fair trial, and before the law, all were to be
 scrupulously equal, whether a king or a pauper. One of two litigants was
 not to appear in court in expensive robes when the other came in
 tatters, lest there be a swaying of the juror-judges.<span
-id="an_r_05_9"></span>[9](wott11.htm#an_n_05_9)
+id="an_r_05_9"></span>[9](wott11.htm#an_n_05_9.md)
 
 <span id="page_107">p. 107</span>
 
@@ -182,7 +182,7 @@ agreed that any court that inflicts capital punishment once in seven
 years had exhibited brutality. The execution even of the most violent
 criminal is a cosmic tragedy. For he, too, was formed in the divine
 image and had been endowed with infinite possibilities for good.<span
-id="an_r_05_10"></span>[10](wott11.htm#an_n_05_10)
+id="an_r_05_10"></span>[10](wott11.htm#an_n_05_10.md)
 
 In the hierarchy of Jewish values the knowledge and practice of the
 Torah represented the apex, but the master of the Torah was not to hold
@@ -202,7 +202,7 @@ broaden the horizons of his neighbor's life
 and does not communicate them is robbing his neighbor of his due. The
 gifts of the spirit, like the gifts of substance, are a trust to be
 shared with others.<span
-id="an_r_05_11"></span>[11](wott11.htm#an_n_05_11)
+id="an_r_05_11"></span>[11](wott11.htm#an_n_05_11.md)
 
 #### CONSENT AND THE MAJESTY OF THE LAW
 
@@ -226,7 +226,7 @@ popular majority has, *ipso facto*, lost its validity and been rendered
 obsolete. Indeed, the Talmud even traced the authority of the Bible
 itself not so much to its divine source as to the consent of the people
 who fully agreed to live by it.<span
-id="an_r_05_12"></span>[12](wott11.htm#an_n_05_12)
+id="an_r_05_12"></span>[12](wott11.htm#an_n_05_12.md)
 
 Social stability frequently calls for disciplined behavior; and in the
 field of social and religious conduct, the Talmud called upon the
@@ -266,7 +266,7 @@ Bezalel, the son of Uri' (Exodus 35:30). The Holy One, blessed be He,
 asked Moses, 'Is Bezalel acceptable to you?' He replied, 'Sovereign of
 the universe, if he is acceptable to Thee, how much more so to me!' God
 said to him, 'Nevertheless go and consult the people …'"<span
-id="an_r_05_13"></span>[13](wott11.htm#an_n_05_13)
+id="an_r_05_13"></span>[13](wott11.htm#an_n_05_13.md)
 
 <span id="page_110">p. 110</span>
 
@@ -285,7 +285,7 @@ rates of profit. They held it was similarly the task of the community to
 provide other facilities for promoting the public welfare, such as
 public baths, competent medical services, and adequate educational
 facilities for all, at least on an elementary level.<span
-id="an_r_05_14"></span>[14](wott11.htm#an_n_05_14)
+id="an_r_05_14"></span>[14](wott11.htm#an_n_05_14.md)
 
 The poor had a claim upon the community for support in proportion to
 their accustomed standard of living. The more affluent individuals were
@@ -299,7 +299,7 @@ cope with immediate needs. For the poor traveler and the homeless,
 public inns were frequently built on the high roads. All these
 facilities were maintained from the proceeds of a general tax to which
 all residents of a community contributed.<span
-id="an_r_05_15"></span>[15](wott11.htm#an_n_05_15)
+id="an_r_05_15"></span>[15](wott11.htm#an_n_05_15.md)
 
 Perhaps the most interesting form of poor relief, from a modern
 standpoint, is a public works project for the assistance of the
@@ -313,7 +313,7 @@ above 18,000 and that they, receiving no wages, were in want … so they
 persuaded him (King Agrippa) to rebuild the eastern cloisters; … he
 denied the petitioners their request in the matter; but he did not
 obstruct them when they desired the city might be paved with white stone
-…"<span id="an_r_05_16"></span>[16](wott11.htm#an_n_05_16)
+…"<span id="an_r_05_16"></span>[16](wott11.htm#an_n_05_16.md)
 
 #### DEMOCRACY AND FAMILY LIFE
 
@@ -335,7 +335,7 @@ marriage on reaching maturity, and have it annulled without divorce. The
 man's choice, too, should be voluntary and an expression of considered
 choice. "A man should not marry a woman without knowing her lest he
 subsequently discover blemishes in her and come to hate her."<span
-id="an_r_05_17"></span>[17](wott11.htm#an_n_05_17)
+id="an_r_05_17"></span>[17](wott11.htm#an_n_05_17.md)
 
 As the more dominant partner in the family circle, the husband was
 exhorted to treat his wife with tenderness and sympathetic
@@ -347,7 +347,7 @@ thy tent is in
 
 peace.'" Before the children, father and mother were equals. They were
 both to be accorded the very same devotion and respect.<span
-id="an_r_05_18"></span>[18](wott11.htm#an_n_05_18)
+id="an_r_05_18"></span>[18](wott11.htm#an_n_05_18.md)
 
 The Talmud regards divorce as the greatest of all domestic tragedies.
 "Whoever divorces the wife of his youth, even the altar sheds tears on
@@ -368,7 +368,7 @@ lists the husband's impotence, failure of proper support, denial of
 conjugal rights, contraction of a loathsome illness, or engaging in a
 repugnant occupation. The divorced woman was protected by the Ketubah or
 marriage contract, which provided a financial settlement for her
-maintenance.<span id="an_r_05_19"></span>[19](wott11.htm#an_n_05_19)
+maintenance.<span id="an_r_05_19"></span>[19](wott11.htm#an_n_05_19.md)
 
 For the Talmudists, children are the noblest fulfillment of married
 life. For it is man's elemental duty to the continuity of life to bring
@@ -382,7 +382,7 @@ pregnant woman lest she have an abortion, and
 <span id="page_113">p. 113</span>
 
 a nursing mother because of the danger to her young infant."<span
-id="an_r_05_20"></span>[20](wott11.htm#an_n_05_20)
+id="an_r_05_20"></span>[20](wott11.htm#an_n_05_20.md)
 
 The Talmud offers detailed advice on how to bring up children. Parents
 must treat all children equally and avoid any display of favoritism
@@ -404,7 +404,7 @@ illustration, "There was a person who fed his father on fat poultry.
 Once his father asked him, 'My son, where do you get all this?' To which
 he replied, 'Old man, eat and be quiet, for dogs eat and are quiet.'
 Though he fed his father fat poultry, such a person will inherit
-Gehinnom."<span id="an_r_05_21"></span>[21](wott11.htm#an_n_05_21)
+Gehinnom."<span id="an_r_05_21"></span>[21](wott11.htm#an_n_05_21.md)
 
 #### EDUCATION AND THE COMMON MAN
 
@@ -445,7 +445,7 @@ saved. This admission fee was abolished after the destruction of the
 Temple and higher education became wholly free. In addition, lectures
 were offered in the evening which facilitated attendance for those who
 had to work for a livelihood during the day.<span
-id="an_r_05_22"></span>[22](wott11.htm#an_n_05_22)
+id="an_r_05_22"></span>[22](wott11.htm#an_n_05_22.md)
 
 Elementary education was originally left to the home, but in time this
 too was institutionalized. As the Talmud relates it: "Were it not for
@@ -501,7 +501,7 @@ commentator who then made this the theme of his oration before the
 public. The synagogues in every community, in addition to providing for
 religious worship also functioned as popular universities diffusing the
 knowledge of the Torah among the common people.<span
-id="an_r_05_23"></span>[23](wott11.htm#an_n_05_23)
+id="an_r_05_23"></span>[23](wott11.htm#an_n_05_23.md)
 
 #### THE NATION AND THE WORLD COMMUNITY
 
@@ -565,7 +565,7 @@ Israel's cry for justice will be vindicated in a
 universal fulfillment when the "kingdom of wickedness" shall pass away
 and all mankind join to form "one fellowship to do the divine will with
 a perfect heart" (from the liturgy of the New Year, composed by Abba
-Areka, d. 247).<span id="an_r_05_24"></span>[24](wott11.htm#an_n_05_24)
+Areka, d. 247).<span id="an_r_05_24"></span>[24](wott11.htm#an_n_05_24.md)
 
 #### THE DOCTRINE OF RESPONSIBILITY
 
@@ -608,8 +608,8 @@ values in Jewish tradition, the Jewish people were to meet their
 responsibilities to the larger human community of which they recognized
 themselves to be a part, and to whose service they saw themselves
 committed by the God who had made them a distinct people in
-civilization.<span id="an_r_05_25"></span>[25](wott11.htm#an_n_05_25)
+civilization.<span id="an_r_05_25"></span>[25](wott11.htm#an_n_05_25.md)
 
 ------------------------------------------------------------------------
 
-[Next: Personal Morality in the Talmud](wott08)
+[Next: Personal Morality in the Talmud](wott08.md)

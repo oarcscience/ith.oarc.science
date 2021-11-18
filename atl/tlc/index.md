@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tlc00)    [Page
-Index](pageidx)    [Text (Zipped)](tlc.txt.gz)
+[Contents](#contents)    [Start Reading](tlc00.md)    [Page
+Index](pageidx)    [Text (Zipped)](tlc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ This lively Victorian-era Atlantis story is one of the best of the
 genre, per Lin Carter, Sprague de Camp, and others. However, IMHO,
 naming the principal character Deucalion in an Atlantis story is sort of
 giving away the ending. Hyne's Atlantis is loosely based on [Donnelly's
-conception](../ataw/index), a continent in the middle of the Atlantic
+conception](../ataw/index.md), a continent in the middle of the Atlantic
 which disappears under the waves 'in a single day.' Hyne adds interest
 by setting the story in the last decadent years of Atlantis. The evil
 queen Phorenice is voracious and cruel, and Deucalion, ostensibly the
@@ -68,37 +68,37 @@ numerous other works, all in the adventure genre, but The Lost Continent
 was the high point of his career. The book version was published in
 1900, and apparently sold well; this edition is still in demand by
 collectors. The novel was reprinted in a highly abridged form in the
-[December 1944 issue of Famous Fantastic Mysteries](img/ffm4412.jpg). In
+[December 1944 issue of Famous Fantastic Mysteries](img/ffm4412.jpg.md). In
 1972 it was finally reprinted unabridged in the Ballantine Books Adult
 Fantasy line, with an introduction by Lin Carter, and Cutcliffe
-unfortunately mispelled as Cutliffe on [the cover](img/balltlc.jpg) and
+unfortunately mispelled as Cutliffe on [the cover](img/balltlc.jpg.md) and
 title page. This etext was scanned from a printing of the first, 1900
 edition.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](tlc00)  
-[Contents](tlc01)  
-[Illustrations](tlc02)  
-[Prefatory. The Legatees of Deucalion](tlc03)  
-[Chapter I. My Recall](tlc04)  
-[Chapter II. Back To Atlantis](tlc05)  
-[Chapter III. A Rival Navy](tlc06)  
-[Chapter IV. The Welcome of Phorenice](tlc07)  
-[Chapter V. Zaemon's Curse](tlc08)  
-[Chapter VI. The Biters of the City Walls](tlc09)  
-[Chapter VII. The Biters of the Walls (Further Account)](tlc10)  
-[Chapter VIII. The Preacher From the Mountains](tlc11)  
-[Chapter IX. Phorenice, Goddess](tlc12)  
-[Chapter X. A Wooing](tlc13)  
-[Chapter XI. An Affair With the Barbarous Fishers](tlc14)  
-[Chapter XII. The Drug of Our Lady the Moon](tlc15)  
-[Chapter XIII. The Burying Alive of Naïs](tlc16)  
-[Chapter XIV. Again the Gods Make Change](tlc17)  
-[Chapter XV. Zaemon's Summons](tlc18)  
-[Chapter XVI. Siege of the Sacred Mountain](tlc19)  
-[Chapter XVII. Naïs The Regained](tlc20)  
-[Chapter XVIII. Storm of the Sacred Mountain](tlc21)  
-[Chapter XIX. Destruction of Atlantis](tlc22)  
-[Chapter XX. On the Bosom of the Deep](tlc23)  
-[Advertisements](tlc24)  
+<span id="contents"></span> [Title Page](tlc00.md)  
+[Contents](tlc01.md)  
+[Illustrations](tlc02.md)  
+[Prefatory. The Legatees of Deucalion](tlc03.md)  
+[Chapter I. My Recall](tlc04.md)  
+[Chapter II. Back To Atlantis](tlc05.md)  
+[Chapter III. A Rival Navy](tlc06.md)  
+[Chapter IV. The Welcome of Phorenice](tlc07.md)  
+[Chapter V. Zaemon's Curse](tlc08.md)  
+[Chapter VI. The Biters of the City Walls](tlc09.md)  
+[Chapter VII. The Biters of the Walls (Further Account)](tlc10.md)  
+[Chapter VIII. The Preacher From the Mountains](tlc11.md)  
+[Chapter IX. Phorenice, Goddess](tlc12.md)  
+[Chapter X. A Wooing](tlc13.md)  
+[Chapter XI. An Affair With the Barbarous Fishers](tlc14.md)  
+[Chapter XII. The Drug of Our Lady the Moon](tlc15.md)  
+[Chapter XIII. The Burying Alive of Naïs](tlc16.md)  
+[Chapter XIV. Again the Gods Make Change](tlc17.md)  
+[Chapter XV. Zaemon's Summons](tlc18.md)  
+[Chapter XVI. Siege of the Sacred Mountain](tlc19.md)  
+[Chapter XVII. Naïs The Regained](tlc20.md)  
+[Chapter XVIII. Storm of the Sacred Mountain](tlc21.md)  
+[Chapter XIX. Destruction of Atlantis](tlc22.md)  
+[Chapter XX. On the Bosom of the Deep](tlc23.md)  
+[Advertisements](tlc24.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](bal06)  [Next](bal08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](bal06)  [Next](bal08.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ I received the invariable
 <span id="page_222">p. 222</span>
 
 answer, "*Baloma boge isaika* \[the *baloma* gave
-it\]." [66](bal09.htm#xref_66)
+it\]." [66](bal09.htm#xref_66.md)
 
 Of course, like all questions about the *u'ula*, this one has to be put
 with patience and discrimination, and it may at times remain unanswered.
@@ -76,7 +76,7 @@ it very often in concrete instances wherever any special case of
 pregnancy, past or present, was the subject of conversation.
 
 Specially interesting and crucial were the cases where the pregnant
-woman was not married. [67](bal09.htm#xref_67)
+woman was not married. [67](bal09.htm#xref_67.md)
 
 When I asked who was the father of an illegitimate child, there was only
 one answer, that there was no father, as the girl was not married. If,
@@ -147,7 +147,7 @@ asked my informants what would happen if a woman became pregnant in her
 husband's absence, they calmly agreed that such cases might occur, and
 that there would be no trouble at all. One of them (I have not noted his
 name, and I do not remember it), volunteered his own case as an instance
-in point. He went to Samarai [68](bal09.htm#xref_68) with his white
+in point. He went to Samarai [68](bal09.htm#xref_68.md) with his white
 master, and stayed there for a year, as he said, during which time his
 wife became pregnant and gave birth to a child. He returned from
 Samarai, found the child, and it was all right. On further questioning,
@@ -420,7 +420,7 @@ many or all of the lower race? Secondly: is this state of ignorance
 primitive, is it simply the absence of knowledge, due to insufficient
 observation and inference, or is it a secondary phenomenon, due to an
 obscuring of the primitive knowledge by superimposed animistic ideas?
- [69](bal09.htm#xref_69)
+ [69](bal09.htm#xref_69.md)
 
 I would not join in this controversy at all, if it were not that I
 desire to state some additional facts, partly derived from work done
@@ -439,7 +439,7 @@ Trobriands obtains among a wide
 range of the Papuo-Melanesians of New Guinea. Prof. Seligman writes
 about the Koita: "It is stated that a single sexual act is not
 sufficient to produce pregnancy, to ensure which cohabitation should be
-continued steadily for a month." [70](bal09.htm#xref_70) I have found a
+continued steadily for a month." [70](bal09.htm#xref_70.md) I have found a
 similar state of things among the Mailu on the south coast of New
 Guinea: ". . . The connection between cohabitation and conception seems
 to be known among the Mailu, but to direct inquiries as to the cause of
@@ -448,7 +448,7 @@ natives--of this I am positive--do not clearly grasp the idea of the
 connection between the two facts. . . . Like Prof. Seligman among the
 Koita, I found the firm belief that it is only continuous intercourse
 for a month or more that leads to pregnancy, and that one single act is
-not sufficient to produce the result." [71](bal09.htm#xref_71)
+not sufficient to produce the result." [71](bal09.htm#xref_71.md)
 
 Neither of these statements is very emphatic, and in fact they do not
 seem to imply a complete ignorance of physical fatherhood. Yet as
@@ -483,10 +483,10 @@ informants, yield similar results to the Kiriwinian data with regard to
 the ignorance of impregnation.
 
 All these natives, the Koita, the Southern Massim of Gadogado'a, and the
-Northern Massim of Kiriwina [72](bal09.htm#xref_72) are representative
+Northern Massim of Kiriwina [72](bal09.htm#xref_72.md) are representative
 of the Papuo-Melanesian stock of natives, the Kiriwinians being a very
 advanced branch of that stock; in fact, as far as our present knowledge
-goes, the most advanced. [74](bal09.htm#xref_74)
+goes, the most advanced. [74](bal09.htm#xref_74.md)
 
 The existence of complete ignorance, of the type discovered by Spencer
 and Gillen, among the most advanced Papuo-Melanesians, and its probable
@@ -496,7 +496,7 @@ higher stages of development than could be assumed hitherto. But it must
 be emphatically repeated that unless the inquiry be detailed, and
 especially unless the above-made distinction be observed, there is
 always the possibility of failure and of erroneous
-statement. [74](bal09.htm#xref_74)
+statement. [74](bal09.htm#xref_74.md)
 
 Passing to the second controversial point named above, whether the
 ignorance in question may not be the secondary result of some obscuring,
@@ -601,7 +601,7 @@ conditions, the natives would probably have discovered the causal
 connection, because the native mind works according to the same rules as
 ours: his powers of observation are keen, whenever he is interested, and
 the concept of cause and effect is not unknown to
-him. [75](bal09.htm#xref_75) But although cause and effect in the
+him. [75](bal09.htm#xref_75.md) But although cause and effect in the
 developed form of these conceptions are of the category of the regular,
 lawful, and ordinary, in their psychological origin they are undoubtedly
 of the category of the lawless, irregular, extraordinary, and singular.
@@ -630,4 +630,4 @@ theories are necessary to account for it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](bal08)
+[Next: Chapter VIII](bal08.md)

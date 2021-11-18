@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac29)  [Next](ybac31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac29)  [Next](ybac31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ even with a word meaning to be born anew or a second time, the same as
 the Latin *renascer*. Thus in the language of Yucatan **sihil** means
 'to be born anew,' or a second time, but only however in composition;
 thus **caput-sihil** means to be reborn. <span
-id="fr_22"></span>[\*](#fn_22) Its origin we have been unable to learn,
+id="fr_22"></span>[\*](#fn_22.md) Its origin we have been unable to learn,
 but it is something
 
 <span id="page_43">p. 43</span>
@@ -71,7 +71,7 @@ brought all the children who were to be baptized, and placed them in the
 patio or court of the house, all clean and scattered with fresh leaves;
 the boys together in a line, and the girls the same, with an aged woman
 as matron for the girls, and a man in charge of the boys. <span
-id="fr_23"></span>[\*](#fn_23)
+id="fr_23"></span>[\*](#fn_23.md)
 
 <span id="page_44">p. 44</span>
 
@@ -79,7 +79,7 @@ When this was done the priest proceeded to the purification of the
 house, expelling the demon. To do this they placed four benches in the
 four corners of the patio, on which the four **chacs** seated
 themselves, with a long cord tied from one to the other, in such fashion
-as that the children were [corralled](errata.htm#5) in the middle, after
+as that the children were [corralled](errata.htm#5.md) in the middle, after
 which those parents who had fasted stepped over the cord, into the
 circuit. Afterwards, or previously, they placed in the middle another
 bench on which the priest seated himself, with a brazier and a little
@@ -90,7 +90,7 @@ took up the brazier and the cord held by the chacs; they also threw a
 little wine in a vase and then gave it all to an Indian to carry away
 from the village, enjoining him not to drink the wine or to look behind
 him on his return; and in this manner they said that the demon had been
-exorcised. <span id="fr_24"></span>[\*](#fn_24)
+exorcised. <span id="fr_24"></span>[\*](#fn_24.md)
 
 After this they swept the patio and took away the leaves that were
 scattered at the beginning, which were of a tree called **sihom**, and
@@ -101,11 +101,11 @@ feathers pendant from the ends; on his head he wore a sort of miter of
 the same feathers, while beneath the tunic there hung to the ground
 strips of cotton like tails. He carried a hyssop made of a short, finely
 decorated stick, and the tails of certain serpents like
-rattlesnakes; <span id="fr_25"></span>[†](#fn_25) all this with neither
+rattlesnakes; <span id="fr_25"></span>[†](#fn_25.md) all this with neither
 more nor less gravity than that of a pope crowning an emperor, and a
 serenity that was a marvel to behold. The chacs then went to the
 children and placed on the heads of all white cloths which their mothers
-had brought for the purpose. <span id="fr_26"></span>[‡](#fn_26) They
+had brought for the purpose. <span id="fr_26"></span>[‡](#fn_26.md) They
 asked of the largest ones whether they had done any bad thing, or
 obscene conduct, and if any had done so, they confessed them and
 separated them from the others.
@@ -159,12 +159,12 @@ for yet other nine days; this they did inviolably.
 
 ### Footnotes
 
-<span id="fn_22"></span>[42:\*](ybac30.htm#fr_22) **Sihil** means 'to be
+<span id="fn_22"></span>[42:\*](ybac30.htm#fr_22.md) **Sihil** means 'to be
 born' simply; **caput-sihil** 'to be born a second time,' and is the
 specific term in Maya for baptism, being distinct from
 **caput-cuxtal**,' to come to life a second time.'
 
-<span id="fn_23"></span>[43:\*](ybac30.htm#fr_23) The marginal
+<span id="fn_23"></span>[43:\*](ybac30.htm#fr_23.md) The marginal
 illustration is from the Madrid Codex, in a clause where the act is
 repeated in like style in four illustrations, and obviously refers to
 child baptism, the only place in tither codex where the ceremony seems
@@ -177,19 +177,19 @@ other enough to show how much existed, and how full the civilization
 was, and how little we yet know of it—as it actually was, and how it was
 lived.
 
-<span id="fn_24"></span>[44:\*](ybac30.htm#fr_24) There is a confusion
+<span id="fn_24"></span>[44:\*](ybac30.htm#fr_24.md) There is a confusion
 in this section, between child and adult baptism, which latter having
 necessarily been of a different ceremonial nature, is not given by
 Landa.
 
-<span id="fn_25"></span>[44:†](ybac30.htm#fr_25) See illustration of
+<span id="fn_25"></span>[44:†](ybac30.htm#fr_25.md) See illustration of
 this aspersarium on page 79.
 
-<span id="fn_26"></span>[44:‡](ybac30.htm#fr_26) **Suhuy nok**, or
+<span id="fn_26"></span>[44:‡](ybac30.htm#fr_26.md) **Suhuy nok**, or
 'virgin cloth,' as still known in Yucatan.
 
 ------------------------------------------------------------------------
 
 [Next: XXVII. Kind of Confessions Among the Indians. Abstinences and
 Superstitions. Diversity and Abundance of Idols. Duties of the
-Priests](ybac31)
+Priests](ybac31.md)

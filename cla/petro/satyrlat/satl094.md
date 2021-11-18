@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat13.htm#XCIV) 
-[Previous](satl093)  [Next](satl095) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat13.htm#XCIV.md) 
+[Previous](satl093)  [Next](satl095.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ ferramentum expaverat, nec Eumolpus interpellaverat mimicam mortem.
 
 ------------------------------------------------------------------------
 
-[Next: XCV](satl095)
+[Next: XCV](satl095.md)

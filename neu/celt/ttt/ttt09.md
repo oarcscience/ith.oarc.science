@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ttt08)  [Next](ttt10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ttt08)  [Next](ttt10.md) 
 
 ------------------------------------------------------------------------
 
@@ -719,4 +719,4 @@ MAGIC THROUGH INTANGIBLE THINGS
 
 ------------------------------------------------------------------------
 
-[Next: Taboo](ttt10)
+[Next: Taboo](ttt10.md)

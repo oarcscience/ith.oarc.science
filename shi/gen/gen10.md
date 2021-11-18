@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen09)  [Next](gen11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen09)  [Next](gen11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -42,7 +42,7 @@ constrained herself to take part with her rival in the *fête*, in spite
 of her uneasiness at the recent promotion of that rival.
 
 When all the seats were taken the composing  <span
-id="fr_75"></span>[1](#fn_74) of poems, as was the custom, commenced,
+id="fr_75"></span>[1](#fn_74.md) of poems, as was the custom, commenced,
 and they began picking up the rhymes. The turn came in due course to
 Genji, who picked up the word spring. Next to Genji, Tô-no-Chiûjiô took
 his.
@@ -50,7 +50,7 @@ his.
 Many more followed them, including several aged professors, who had
 often been present on similar occasions, with faces wrinkled by time,
 and figures bowed by the weight of years. The movements and
-announcements <span id="fr_76"></span>[2](#fn_75) both of Genji and his
+announcements <span id="fr_76"></span>[2](#fn_75.md) both of Genji and his
 brother-in-law were elegant and graceful, as might be expected; but
 among those who followed there were not a few who showed awkwardness,
 this being more the case with scholars of ordinary accomplishments,
@@ -88,7 +88,7 @@ and no human voice was heard from within.
 "Such are occasions on which one often compromises one's self," thought
 he, and yet slowly approached the entrance. Just at that moment he heard
 a tender voice coming toward him, humming, "Nothing so sweet as the
-*oboro* <span id="fr_77"></span>[3](#fn_76) moon-night." Genji waited
+*oboro* <span id="fr_77"></span>[3](#fn_76.md) moon-night." Genji waited
 her approach, and caught her by the sleeve. It made her start. "Who are
 you?" she exclaimed. "Don't be alarmed," he replied, and gently led her
 back to the corridor. He then added, "Let us look out on the moonlight
@@ -142,7 +142,7 @@ youths were to be present, and which was to be succeeded by the Wistaria
 flower-feast. The height of the flower season was past, but there were
 two cherry-trees, besides the Wistaria in the gardens, which blossomed
 later. A new building in the ground, which had been decorated for the
-occasion of the Mogi <span id="fr_78"></span>[4](#fn_77) of the two
+occasion of the Mogi <span id="fr_78"></span>[4](#fn_77.md) of the two
 Princesses, was being beautifully arranged for this occasion.
 
 Genji also had been told one day at Court by Udaijin that
@@ -181,7 +181,7 @@ was not acquainted. He was certain that the one he wished to ascertain
 about was among them, but from the darkness of the advancing evening he
 was unable to distinguish her. He adopted a device for doing so. He
 hummed, as he looked vacantly around, the "Ishi-kawa," <span
-id="fr_79"></span>[5](#fn_78) but instead of the original line, "My belt
+id="fr_79"></span>[5](#fn_78.md) but instead of the original line, "My belt
 being taken," artfully, and in an arch tone, substituted the word "fan"
 for "belt."
 
@@ -194,7 +194,7 @@ her side.
 
 ### Footnotes
 
-<span id="fn_74"></span>[143:1](gen10.htm#fr_75) Composing poems in
+<span id="fn_74"></span>[143:1](gen10.htm#fr_75.md) Composing poems in
 Chinese was a principal part of the feast. The form of it is this, a
 Court scholar selects in obedience to Imperial command, the subject, and
 then writes different words on pieces of paper and places them on a
@@ -202,27 +202,27 @@ table in the gardens, folded up. Two of these are first picked out for
 the Emperor, and then each one after another, according to precedence,
 goes to the table, takes one, and these words form their rhymes.
 
-<span id="fn_75"></span>[143:2](gen10.htm#fr_76) It was also the custom,
+<span id="fn_75"></span>[143:2](gen10.htm#fr_76.md) It was also the custom,
 when each had taken his paper, to read it aloud, and also to announce
 his particular title or station.
 
-<span id="fn_76"></span>[144:3](gen10.htm#fr_77) "Oboro" is an adjective
+<span id="fn_76"></span>[144:3](gen10.htm#fr_77.md) "Oboro" is an adjective
 meaning calm, and little glaring, and is specially attributed to the
 moon in spring. The line is from an old ode.
 
-<span id="fn_77"></span>[145:4](gen10.htm#fr_78) The ceremony of girls
+<span id="fn_77"></span>[145:4](gen10.htm#fr_78.md) The ceremony of girls
 putting on dress marking the commencement of womanhood, corresponding to
 the Gembuk in the case of boys. These princesses were the daughters of
 the Niogo of Kokiden. It was the custom that royal children should be
 brought up at the home of the mother.
 
-<span id="fn_78"></span>[146:5](gen10.htm#fr_79) Name of a well-known
+<span id="fn_78"></span>[146:5](gen10.htm#fr_79.md) Name of a well-known
 ballad.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Hollyhock](gen11)
+[Next: Chapter IX: Hollyhock](gen11.md)
 
 </div>

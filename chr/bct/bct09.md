@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct08) [Next](bct10)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct08) [Next](bct10.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Jeremiah. And the children of Israel began the \[re\]building of the
 Temple in the days of Zerubbabel, and Joshua, the son of Yôzâdôk, and
 Ezra the scribe, and the building thereof was finished in six and forty
 years, even as it is written in the holy Gospel ([John ii.
-19](../../bib/kjv/joh.htm#2:19)).
+19](../../bib/kjv/joh.htm#2:19).md).
 
 <span id="page_194">p. 194</span>
 
@@ -230,10 +230,10 @@ David.
  
 
    **\[**NOTE.--An alternative genealogy is given in the *Book of the
-Bee* ([chapter xxxiii](../bb/bb33)), and reads: David begot Nathan,
+Bee* ([chapter xxxiii](../bb/bb33).md), and reads: David begot Nathan,
 Nathan begot Mattatha, Mattatha begot Mani, Mani begot Melea, Melea
 begot Eliakim, Eliakim begot Jonam, Jonam begot Levi. \[Add Joseph, Juda
-and Simeon from [Luke iii. 19](../../bib/kjv/luk.htm#3:19), 20.\] Levi
+and Simeon from [Luke iii. 19](../../bib/kjv/luk.htm#3:19.md), 20.\] Levi
 begot Mattîtha, Mattîtha begot Jorim, Jorim begot Eliezer, Eliezer begot
 Jose, Jose begot Er. Er begot Elmodad, Elmodad begot Cosam, Cosam begot
 Addi, Addi begot Melchi, Melchi begot Neri, Neri begot Salathiel,
@@ -342,7 +342,7 @@ the Magi as far as Palestine. . . . . . This was not an ordinary
 movement of the stars, but a <span id="page_206">p. 206</span> rational
 power. Moreover, it had no fixed path. It did not remain always in the
 height of heaven, but sometimes it came down, and sometimes it mounted
-up. *Book of the Bee* ([chapter xxxviii](../bb/bb38)).**\]**
+up. *Book of the Bee* ([chapter xxxviii](../bb/bb38).md).**\]**
 
  
 
@@ -456,7 +456,7 @@ up. *Book of the Bee* ([chapter xxxviii](../bb/bb38)).**\]**
 </tbody>
 </table>
 
-   (The sign ![cuneiform](cnf-star.jpg) placed before each name is the
+   (The sign ![cuneiform](cnf-star.jpg.md) placed before each name is the
 determinative for star.)
 
 <span class="small">Meaning of the name.</span>
@@ -473,7 +473,7 @@ Goat
 
 Nisannu
 
-![month 1](cnf-m01.jpg)
+![month 1](cnf-m01.jpg.md)
 
 2   
 
@@ -483,7 +483,7 @@ Bull
 
 Airu
 
-![month 2](cnf-m02.jpg)
+![month 2](cnf-m02.jpg.md)
 
 3   
 
@@ -493,7 +493,7 @@ Twins
 
 Simanu
 
-![month 3](cnf-m03.jpg)
+![month 3](cnf-m03.jpg.md)
 
 4   
 
@@ -503,7 +503,7 @@ Crab
 
 Duuzu
 
-![month 4](cnf-m04.jpg)
+![month 4](cnf-m04.jpg.md)
 
 5   
 
@@ -513,7 +513,7 @@ Lion
 
 Abu
 
-![month 5](cnf-m05.jpg)
+![month 5](cnf-m05.jpg.md)
 
 6   
 
@@ -523,7 +523,7 @@ Virgin
 
 Ululu
 
-![month 6](cnf-m06.jpg)
+![month 6](cnf-m06.jpg.md)
 
 7   
 
@@ -533,7 +533,7 @@ Scales
 
 Tashritum
 
-![month 7](cnf-m07.jpg)
+![month 7](cnf-m07.jpg.md)
 
 8   
 
@@ -543,7 +543,7 @@ Scorpion
 
 Ara<u>h</u> shamna
 
-![month 8](cnf-m08.jpg)
+![month 8](cnf-m08.jpg.md)
 
 9   
 
@@ -553,7 +553,7 @@ Bow
 
 Kislimu
 
-![month 9](cnf-m09.jpg)
+![month 9](cnf-m09.jpg.md)
 
 10   
 
@@ -563,7 +563,7 @@ Capricornus
 
 <u>T</u>ebetum
 
-![month 10](cnf-m10.jpg)
+![month 10](cnf-m10.jpg.md)
 
 11   
 
@@ -573,7 +573,7 @@ Water-Bearer
 
 Shabatu
 
-![month 11](cnf-m11.jpg)
+![month 11](cnf-m11.jpg.md)
 
 12   
 
@@ -583,7 +583,7 @@ The Fishes
 
 Addaru
 
-![month 12](cnf-m12.jpg)
+![month 12](cnf-m12.jpg.md)
 
    On the first Zodiac which was set up by Tiâmat, the Evil one, see
 *The Babylonian Legends of the Creation*, London, 1921, page 17 (British
@@ -627,7 +627,7 @@ kings:--
 
    **\[**NOTE.--In the *Book of Adam* (iv. 15) the kings are called Hor,
 king of Persia, Basantar, king of Saba, and Karsundas, king of the East.
-According to the *Book of the Bee* ([chapter xxxix](../bb/bb39)), the
+According to the *Book of the Bee* ([chapter xxxix](../bb/bb39).md), the
 Magi were twelve in number, and their names were:--  
       Zarwândâd, the son of Artabân.  
       Hôrmîzdâd, the son of Sî<u>t</u>ârû<u>k</u>
@@ -726,7 +726,7 @@ sent the thirty pieces to the Jewish treasury. The priests gave them to
 Judas Iscariot for betraying our Lord, but he repented and took them
 back to the priests. After Judas hanged himself the priests purchased a
 burial ground for strangers with the thirty pieces (*Book of the Bee*,
-[chapter xliv](../bb/bb44)) . Another legend says that Joseph had the
+[chapter xliv](../bb/bb44).md) . Another legend says that Joseph had the
 thirty pieces, and that with them he bought spices to embalm Jacob. They
 passed into the possession of the Queen of Sheba, who gave them to
 Solomon (Sandeys, *Christmas Carols*, London, 1883, page lxxxiii).**\]**
@@ -760,11 +760,11 @@ true. For when I was in the school of the Hebrews I read in \[the Book
 of\] Isaiah, and I found \[written\] therein thus: 'For unto us a child
 is born, and unto us a son hath been given. And His Name shall be called
 Wonderful, and Counsellor, and God, Giant of the Worlds'" ([Isa. ix.
-6](../../bib/kjv/isa.htm#9:6)). And it is written in another place,
+6](../../bib/kjv/isa.htm#9:6).md). And it is written in another place,
 "Behold, a virgin is with child, and she shall bring forth a son, and
 his name shall be called <span id="page_215">p. 215</span> 'Emmanuel,'
 which is, being interpreted, 'God with us'" ([Isa. vii.
-14](../../bib/kjv/isa.htm#7:14)). And because He became like a man, and
+14](../../bib/kjv/isa.htm#7:14).md). And because He became like a man, and
 the angels were coming down \[<span id="fol_42a2"></span>Fol. 42*a*,
 col. 2\] from heaven to Him, truly He is the Lord of angels and men. And
 all the Magi believed and said, "Truly this King is God. Kings are born
@@ -783,13 +783,13 @@ say, "Where was Christ when the children were massacred, for it is
 written that He was not found in the land of Judah?" It was because of
 this massacre that He fled to Egypt, so that there might be fulfilled
 that which is written \[<span id="fol_42b1"></span>Fol. 42*b*, col. 1\].
-"From Egypt I called my Son" ([Hos. xi. 1](../../bib/kjv/hos.htm#11:1)).
+"From Egypt I called my Son" ([Hos. xi. 1](../../bib/kjv/hos.htm#11:1).md).
 And know this also. When Christ entered Egypt all the idols therein were
 swept from their places, and fell down, and were broken, so that there
 might be fulfilled that which is written, "Behold, the <span
 id="page_216">p. 216</span> Lord rideth on a swift cloud, and entereth
 Egypt, and the idols of Egypt shall be broken before Him" ([Isa. xix.
-1](../../bib/kjv/isa.htm#19:1)).
+1](../../bib/kjv/isa.htm#19:1).md).
 
  
 
@@ -798,7 +798,7 @@ the city of Hermopolis, there were by the two buttresses of the gate two
 figures of brass that had been made by the sages and philosophers; and
 they spoke like men. When our Lord entered Egypt these two figures cried
 out with a loud voice, saying, "A great king has come into Egypt." *Book
-of the Bee* ([chapter xl.](../bb/bb40))**\]**
+of the Bee* ([chapter xl.](../bb/bb40).md)**\]**
 
  
 
@@ -822,7 +822,7 @@ was five hundred years old when he took Christ in his arms.
  
 
 \[The Flight into Egypt.<span id="page_217_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_217_note_1)\]
+class="small">1</span></sup>](#page_217_note_1.md)\]
 
    And straightway the angel said unto Joseph, "Arise, take the young
 Child and His mother, and flee into Egypt." And when the registration
@@ -880,7 +880,7 @@ and they cut off Bôzîyâ's head and gave it to her mother. The right hand
 with which Herodias took up John's head withered, and when she saw the
 heads of the saint and her daughter she became blind, and Satan entered
 her and bound her with fetters. See *Book of the Bee* (chapters
-[xxxix](../bb/bb39) and [xli](../bb/bb41)).**\]**
+[xxxix](../bb/bb39) and [xli](../bb/bb41).md).**\]**
 
  
 
@@ -952,7 +952,7 @@ he gave names to them as they bowed their heads before him. And at the
 second hour of Friday the Jews gathered themselves together against
 Christ, and they gnashed their teeth at Him, even as the blessed David
 said, "Many bulls have gathered together round about me, bulls of Bashan
-have beset me round" ([Ps. xxii. 12](../../bib/kjv/psa.htm#22:12)).
+have beset me round" ([Ps. xxii. 12](../../bib/kjv/psa.htm#22:12).md).
 
    At the <span class="small">THIRD HOUR</span> of Friday a crown of
 glory was placed on the head of Adam, and at the third hour of Friday
@@ -1040,10 +1040,10 @@ apparel, but only in the actual raiment of royalty, either purple or
 scarlet. By both of these it might be known that He was a king. For it
 is impossible for any other man to wear purple; only a king can do this.
 And one of the Evangelists hath said, "The soldiers put on Him a purple
-robe" ([Mark xv. 17](../../bib/kjv/mar.htm#15:17); [John xix.
-2](../../bib/kjv/joh.htm#19:2), 5), and this is a true word and is
+robe" ([Mark xv. 17](../../bib/kjv/mar.htm#15:17.md); [John xix.
+2](../../bib/kjv/joh.htm#19:2), 5.md), and this is a true word and is
 highly credible; and another Evangelist uses the word "scarlet "([Matt.
-xxvii. 28](../../bib/kjv/mat.htm#27:28)), and he proclaimed what was
+xxvii. 28](../../bib/kjv/mat.htm#27:28).md), and he proclaimed what was
 true. The scarlet garment indicateth to us blood, and the purple garment
 water; for the scarlet one was like unto blood, and the <span
 id="page_226">p. 226</span> purple one was like unto water. The scarlet
@@ -1054,7 +1054,7 @@ that scarlet proclaimeth life.
 
    Now the spies said prophetically to Rahab, the harlot, "thou shalt
 tie a thread of scarlet to the window" ([Joshua ii.
-18](../../bib/kjv/jos.htm#2:18)) when they descended having been
+18](../../bib/kjv/jos.htm#2:18).md) when they descended having been
 \[well\] entreated by her. And through her they prefigured a certain
 matter, for the window \[symbolized\] the side of our Lord Christ, and
 the thread of scarlet His precious blood which produced life.
@@ -1142,7 +1142,7 @@ concerning them had been fulfilled in them; for Moses said, "Your grapes
 are grapes of gall, your clusters are bitter. Your poison is the poison
 of the serpent, and their head is that of a malignant viper. These are
 the things which ye render unto the Lord" ([Deut. xxxii.
-32](../../bib/kjv/deu.htm#32:32), 33).
+32](../../bib/kjv/deu.htm#32:32), 33.md).
 
    Observe, O my brother Nemesius, that the blessed Moses with the eye
 of the Spirit foresaw the things which they were going to do to Christ
@@ -1184,7 +1184,7 @@ of the congregation was written, and the congregation became a thing
 cast aside, and it was stripped of its glorious raiment, even as in
 times of old \[<span id="fol_47b2"></span>Fol. 47*b*, col. 2\] David
 had, through the Holy Spirit, said and prophesied, saying, "Even unto
-the horns of the altar" ([Ps. cxviii. 22](../../bib/kjv/psa.htm#118:22)
+the horns of the altar" ([Ps. cxviii. 22](../../bib/kjv/psa.htm#118:22.md)
 ?)--to this pass were the festivals of the Jews brought. "Unto the horns
 of the altar" \[means\] to the crucifixion of Christ, that is to say:
 
@@ -1236,7 +1236,7 @@ have succeeded each other; from Adam to the Jews, and the Jews also from
 one \[generation\] to another until the Cross of Christ. From that time
 and onwards the festivals of the Jews have ceased, even as the blessed
 David saith concerning them: "Bind our festivals with chains even to the
-horns of the altar" ([Ps. cxviii. 27](../../bib/kjv/psa.htm#118:27)).
+horns of the altar" ([Ps. cxviii. 27](../../bib/kjv/psa.htm#118:27).md).
 The chains are the families which are linked each to the other, and the
 altar is the Cross of Christ. The festivals of the Jews succeeded each
 other until the Cross of Christ, in priesthood, and royalty, and
@@ -1247,7 +1247,7 @@ them a king, or a priest, or a prophet, or <span id="page_235">p.
 235</span> a Passover, even as Daniel prophesied concerning them,
 saying, "After two and sixty weeks Christ shall be slain, and the city
 of holiness shall be laid waste until the completion of things decreed"
-([Dan. ix. 26](../../bib/kjv/dan.htm#9:26)). That is to say, for ever
+([Dan. ix. 26](../../bib/kjv/dan.htm#9:26).md). That is to say, for ever
 and ever.
 
  
@@ -1293,7 +1293,7 @@ all the straps (or, ligatures) of the . . . . . . of Christ were joined
 together on the bearing poles of the Ark of the service of God and the
 covering of the sanctuary of propitiation. This was what God commanded
 Moses: to make a breast-plate of judgment <span id="page_237">p.
-237</span> ([Exod. xxviii. 15](../../bib/kjv/exo.htm#28:15)) and of
+237</span> ([Exod. xxviii. 15](../../bib/kjv/exo.htm#28:15).md) and of
 peace; of judgment for the Jews who crucified Him \[<span
 id="fol_49b1"></span>Fol. 49*b*, col. 1\], and of peace for the Gentiles
 who have believed in him. His Cross was made of the wood of the
@@ -1302,7 +1302,7 @@ Joshua, the son of Nôn, and the stone (or rock), which is Christ, had
 when in the desert given water to six hundred thousand people, and now
 it became an altar and gave life to all the Gentiles. And the saying of
 the Apostle, "that rock was Christ" ([I Cor. x.
-4](../../bib/kjv/co1.htm#10:4)) is true and well worthy of belief.
+4](../../bib/kjv/co1.htm#10:4).md) is true and well worthy of belief.
 Joseph was a councillor in Râmthâ, Nicodemus was a teacher of the Law in
 Jerusalem, and Cleophas was the recorder of the Hebrews in \`Amâôs.
 Nicodemus prepared everything which was required for the Passover in the
@@ -1410,7 +1410,7 @@ And to God be glory for ever!
 
 ------------------------------------------------------------------------
 
-[Next](bct10)
+[Next](bct10.md)
 
 ------------------------------------------------------------------------
 
@@ -1418,9 +1418,9 @@ And to God be glory for ever!
 
 <span id="footnotes_page_217"></span>p. 217
 
-<span id="page_217_note_1"></span>[1](#page_217_fr_1) This is the order
+<span id="page_217_note_1"></span>[1](#page_217_fr_1.md) This is the order
 in which this paragraph appears in the text, though in the "Genealogy of
-our Lord" (*see* below, [page 233](#page_233)) the circumcision and the
+our Lord" (*see* below, [page 233](#page_233).md) the circumcision and the
 presentation in the Temple precede the flight into Egypt.
 
  

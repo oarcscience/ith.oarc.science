@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng28)  [Next](nblng30) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng28)  [Next](nblng30.md) 
 
 ------------------------------------------------------------------------
 
@@ -254,4 +254,4 @@ brother, but in "Biterolf" and the "Rosengarten" he is her son.
 ------------------------------------------------------------------------
 
 [Next: Adventure XXVIII: How The Burgundians Came To Etzel's
-Castle.](nblng30)
+Castle.](nblng30.md)

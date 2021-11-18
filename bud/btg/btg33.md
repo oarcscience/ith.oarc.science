@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg32)  [Next](btg34) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg32)  [Next](btg34.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ receive the ordination as a bhikkhuni.
 
 ------------------------------------------------------------------------
 
-[Next: On Conduct Toward Women](btg34)
+[Next: On Conduct Toward Women](btg34.md)

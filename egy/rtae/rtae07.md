@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](rtae06)  [Next](rtae08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](rtae06)  [Next](rtae08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Development of Religion and Thought in Ancient Egypt*, by James Henry
 Breasted, \[1912\], at Intangible Textual Heritage
 
@@ -57,7 +57,7 @@ of his name in his Heliopolis monuments, he says:
 
 <span class="small">"My beauty shall be remembered in his house,  
  My name is the pyramidion and my name is the lake." <span
-id="fr_186"></span>[1](#fn_186)</span>
+id="fr_186"></span>[1](#fn_186.md)</span>
 
 </div>
 
@@ -69,14 +69,14 @@ fact that the obelisk is sacred to the sun, carries with it the
 demonstration that it is the *pyramid* surmounting the obelisk which is
 sacred to the Sun-god. Furthermore, the sanctuary at Heliopolis was
 early designated the "Benben-house," that is the
-"pyramidion-house." <span id="fr_187"></span>[2](#fn_187) The symbol,
+"pyramidion-house." <span id="fr_187"></span>[2](#fn_187.md) The symbol,
 then, by which the sanctuary of the Sun-temple at Heliopolis was
 designated was a pyramid. Moreover, there was in this same Sun-temple a
 pyramidal object called a "ben," presumably of stone standing in the
 "Phœnix-house"; and upon this pyramidal object the Sun-god in the form
 of a Phœnix had in the beginning first appeared. This object was already
 sacred as far back as the middle of the third millennium B.C., <span
-id="fr_188"></span>[3](#fn_188) and will doubtless have
+id="fr_188"></span>[3](#fn_188.md) and will doubtless have
 
 <span id="page_72">p. 72</span>
 
@@ -87,11 +87,11 @@ the Phœnix is represented as sitting upon this object, the form of which
 was a universally sacred symbol of the Sun-god. Hence it is that in the
 Pyramid Texts the king's pyramid tomb is placed under the protection of
 the *Sun-god* in two very clear chapters, <span
-id="fr_189"></span>[1](#fn_189) the second of which opens with a
+id="fr_189"></span>[1](#fn_189.md) the second of which opens with a
 reference to the fact that the Sun-god when he created the other gods
 was sitting aloft on the *ben* as a Phœnix, and hence it is that the
 king's pyramid is placed under his protection. (See pp.
-[76](#page_76)–[77](#page_77).)
+[76](#page_76)–[77](#page_77)..md)
 
 The pyramidal form of the king's tomb therefore was of the most sacred
 significance. The king was buried under the very symbol of the Sun-god
@@ -115,16 +115,16 @@ pyramidal block of polished granite, found lying at the base of
 Amenemhet III's pyramid at Dahshur, is, however, unquestionably the
 ancient apex of that monument, from which it has fallen down as a result
 of the quarrying by modern natives. <span
-id="fr_190"></span>[1](#fn_190)
+id="fr_190"></span>[1](#fn_190.md)
 
 On the side which undoubtedly faced the east appears a winged sun-disk,
 surmounting a pair of eyes, beneath which are the words "beauty of the
 sun," the eyes of course indicating the idea of beholding, which is to
 be understood with the words "beauty of the sun." Below is an
-inscription <span id="fr_191"></span>[2](#fn_191) of two lines
+inscription <span id="fr_191"></span>[2](#fn_191.md) of two lines
 beginning: "The face of king Amenemhet III is opened, that he may behold
 the Lord of the Horizon when he sails across the sky." <span
-id="fr_192"></span>[3](#fn_192)
+id="fr_192"></span>[3](#fn_192.md)
 
 Entirely in harmony with this interpretation of the significance of the
 pyramid form is its subsequent mortuary use. A large number of small
@@ -140,10 +140,10 @@ The larger museums of Europe possess numbers of these small monuments.
 In the selection of the pyramid, the greatest of the Solar symbols, as
 the form of the king's tomb, we must therefore recognize another
 evidence of the supremacy of the Solar faith at the court of the
-Pharaohs. <span id="fr_193"></span>[1](#fn_193) It is notable in this
+Pharaohs. <span id="fr_193"></span>[1](#fn_193.md) It is notable in this
 connection that it was chiefly against Osiris and the divinities of his
 cycle that protection was sought at the dedication of a royal pyramid
-tomb. <span id="fr_194"></span>[2](#fn_194)
+tomb. <span id="fr_194"></span>[2](#fn_194.md)
 
 The imposing complex of which the pyramid was the chief member has only
 been understood in recent years as a result of the excavations of the
@@ -168,7 +168,7 @@ pyramid and was probably within the walls of the royal residence city
 below. These temples were of course the home of the mortuary ritual
 maintained on behalf of the king, and were analogous in origin to the
 chapel of the noble's tomb already discussed ([p.
-62](rtae06.htm#page_62)). The whole group or complex, consisting of
+62](rtae06.htm#page_62).md). The whole group or complex, consisting of
 pyramid, temple, causeway, and town temple below, forms the most
 imposing architectural conception of this early age and its surviving
 remains have contributed in the last few years an entirely new chapter
@@ -196,11 +196,11 @@ addressing the building said: "When this king
 with his ka, comes, open thou thy arms to him." At the same time Horus
 is supposed to say: "Offer this pyramid and this temple to king Pepi and
 to his ka. That which this pyramid and this temple contain belongs to
-king Pepi and to his ka." <span id="fr_195"></span>[1](#fn_195) Besides
+king Pepi and to his ka." <span id="fr_195"></span>[1](#fn_195.md) Besides
 this the buildings were protected by doors with boukrania upon or over
 them, and "sealed with two evil eyes," and the great hall being "purer
 than the sky," the place was thus inviolable <span
-id="fr_196"></span>[2](#fn_196) even by the mortuary patron god Osiris
+id="fr_196"></span>[2](#fn_196.md) even by the mortuary patron god Osiris
 if he should come with malicious intent.
 
 Similarly the pyramid and temple were protected from decay for all time.
@@ -217,7 +217,7 @@ this building of king Pepi II they shall be equipped (or prepared), they
 shall be honored, they shall become souls, they shall become mighty; to
 them shall be given royal mortuary offerings, they shall receive divine
 offerings; to them shall joints be presented, to them shall oblations be
-made." <span id="fr_197"></span>[3](#fn_197)
+made." <span id="fr_197"></span>[3](#fn_197.md)
 
 Again the priest addresses the Sun-god under his earliest name, Atum,
 and recalls the time when the god sat high on the sacred *ben*, the
@@ -235,24 +235,24 @@ them. O Atum, put thou thy arms behind king Mernere, behind this
 building, and behind this pyramid, as a ka-arm, that the ka of king
 Mernere may be in it enduring for ever and ever. Ho, Atum! Protect thou
 this king Mernere, this his pyramid and this building of king
-Mernere." <span id="fr_198"></span>[1](#fn_198) The priest then commends
+Mernere." <span id="fr_198"></span>[1](#fn_198.md) The priest then commends
 the pyramid to the whole Ennead, and finally proceeds to another long
 Utterance, which takes up the names of all the gods of the Ennead one
 after the other, affirming that, "as the name of the god so-and-so is
 firm, so is firm the name of king Mernere; so are firm this his pyramid
 and this his building likewise for ever and ever." <span
-id="fr_199"></span>[2](#fn_199)
+id="fr_199"></span>[2](#fn_199.md)
 
 Resting beneath the pyramid, the king's wants were elaborately met by a
 sumptuous and magnificent ritual performed on his behalf in the temple
 before his tomb. Of this ritual we know nothing except such portions of
 it as have been preserved in the Pyramid Texts. These show that the
 usual calendar of feasts of the living was celebrated for the
-king, <span id="fr_200"></span>[3](#fn_200) though naturally on a more
+king, <span id="fr_200"></span>[3](#fn_200.md) though naturally on a more
 splendid scale. Evidently the observances consisted chiefly in the
 presentation of plentiful food, clothing, and the like. One hundred and
 seventy-eight formulæ or utterances, forming about one-twentieth of the
-bulk of the Pyramid Texts, <span id="fr_201"></span>[4](#fn_201) contain
+bulk of the Pyramid Texts, <span id="fr_201"></span>[4](#fn_201.md) contain
 the words spoken by the royal mortuary
 
 <span id="page_78">p. 78</span>
@@ -287,7 +287,7 @@ from thee
 
 <span id="page_79">p. 79</span>
 
-for ever and ever." <span id="fr_202"></span>[1](#fn_202) Again in
+for ever and ever." <span id="fr_202"></span>[1](#fn_202.md) Again in
 offering ointment the priest assuming the office of Horus says: "Horus
 comes filled with ointment. He has embraced his father Osiris. He found
 him (lying) upon his side in Gehesti. Osiris filled himself with the eye
@@ -299,19 +299,19 @@ sweat to the earth. Take its odor upon thee that thy odor may be sweet
 like (that of) Re, when he rises in the horizon, and the horizon-gods
 delight in him. Ho! This king Pepi II! The odor of the Horus-eye is on
 thee; the gods who follow Osiris delight In thee." <span
-id="fr_203"></span>[2](#fn_203)
+id="fr_203"></span>[2](#fn_203.md)
 
 The individual formulæ in the long offering-ritual are very brief. The
 prevailing form of offering is simply: "O king X! Handed to thee is the
 Horus-eye which was wrested from Set, rescued for thee, that thy mouth
 might be filled with it. Wine, a white jar." <span
-id="fr_204"></span>[3](#fn_204) The last words prescribe the offering
+id="fr_204"></span>[3](#fn_204.md) The last words prescribe the offering
 which the formula accompanies. Similarly the method of offering or the
 accompanying acts may be appended to the actual words employed by the
 priest. Thus through the lengthy ritual of six or eight score such
 utterances, besides some others scattered through the Pyramid Texts, the
 priest lays before the dead king those creature comforts which he had
-enjoyed in the flesh. <span id="fr_205"></span>[4](#fn_205) In doing so
+enjoyed in the flesh. <span id="fr_205"></span>[4](#fn_205.md) In doing so
 he entered the mysterious
 
 <span id="page_80">p. 80</span>
@@ -333,10 +333,10 @@ out for him. In order that none of these may be omitted, the priest
 summarizes them all in the promise to the king: "Given to thee are all
 offerings, all oblations, (even) thy desire, and that by which it is
 well for thee with the god forever." <span
-id="fr_206"></span>[1](#fn_206) Added to all this elaborate ritual of
+id="fr_206"></span>[1](#fn_206.md) Added to all this elaborate ritual of
 gifts there were also charms potent to banish hunger from the vitals of
 the king, and these, too, the priest from time to time recited for the
-Pharaoh's benefit. <span id="fr_207"></span>[2](#fn_207)
+Pharaoh's benefit. <span id="fr_207"></span>[2](#fn_207.md)
 
 The kings of the early Pyramid Age in the thirtieth century
 
@@ -351,7 +351,7 @@ thee mortuary offerings every day, at the (feast of the) month, at the
 (feast of the) half-month, at the (feast of) 'Putting-down-the-Lamp,' at
 the (feast of) Thoth, at the (feast of) Wag, at the period of thy years
 and thy months which thou livest as a god." <span
-id="fr_208"></span>[1](#fn_208) But would the posterity of an Oriental
+id="fr_208"></span>[1](#fn_208.md) But would the posterity of an Oriental
 sovereign never weary in giving him mortuary offerings every day? We
 shall see.
 
@@ -368,7 +368,7 @@ Snefru. But such endowments, accumulating as they did from generation to
 generation, must inevitably break down at last. In the thirtieth century
 B.C., Snefru himself had given to one of his nobles "one hundred loaves
 every day from the mortuary temple of the mother of the king's children,
-Nemaathap." <span id="fr_209"></span>[2](#fn_209) This queen had died at
+Nemaathap." <span id="fr_209"></span>[2](#fn_209.md) This queen had died at
 the close of the Second Dynasty, some
 
 <span id="page_82">p. 82</span>
@@ -379,7 +379,7 @@ at her tomb, in rewarding his partisans. In the same way Sahure,
 desiring to reward Persen, one of his favorite nobles, finds no other
 resources available and diverts to Persen's tomb an income of loaves and
 oil formerly paid to the queen Neferhotepes every day. <span
-id="fr_210"></span>[1](#fn_210) There is in these acts of Snefru and
+id="fr_210"></span>[1](#fn_210.md) There is in these acts of Snefru and
 Sahure a hint of one possible means of meeting the dilemma as the number
 of tomb endowments increased, viz., by supplying one tomb with
 food-offerings which had already served in another. Even so the
@@ -392,7 +392,7 @@ entrances and leave only the causeway as the entrance to the temple.
 They seem to have regarded this as a pious work, for they left the name
 of the particular phyle of priests who did it, on the masonry of the
 doorways which they thus closed up. <span
-id="fr_211"></span>[2](#fn_211) After this the accidentally acquired
+id="fr_211"></span>[2](#fn_211.md) After this the accidentally acquired
 sanctity of a figure of the goddess Sekhmet in the temple, a figure
 which enjoyed the local reverence and worship of the surrounding
 villages, and continued in their favor for centuries, resulted in the
@@ -425,7 +425,7 @@ they too ceased about 2500 B.C., four hundred years after Khufu laid out
 the Gizeh cemetery. Not long after 2500 B.C., indeed the whole
 sixty-mile line of Old Kingdom pyramids from Medûm on the south to Gizeh
 on the north had become a desert solitude. <span
-id="fr_212"></span>[1](#fn_212) This melancholy condition is discernible
+id="fr_212"></span>[1](#fn_212.md) This melancholy condition is discernible
 also in the reflections of the thoughtful in the Feudal Age five hundred
 years later as they contemplated the wreck of these massive tombs. (See
 pp. 181–4.)
@@ -466,7 +466,7 @@ it has been possible to
 <span id="page_85">p. 85</span>
 
 undertake the systematic study of these remarkable documents. <span
-id="fr_213"></span>[1](#fn_213)
+id="fr_213"></span>[1](#fn_213.md)
 
 Written in hieroglyphic they occupy the walls of the passages,
 galleries, and chambers in five of the pyramids of Sakkara: the
@@ -485,7 +485,7 @@ themselves refer to material then in existence which has not survived.
 We read in them of "the Chapter of Those Who Ascend," and the "Chapter
 of Those Who Raise Themselves Up," which purport to have been used on
 the occasion of various incidents in the myths. <span
-id="fr_214"></span>[2](#fn_214) They were thus regarded as older than
+id="fr_214"></span>[2](#fn_214.md) They were thus regarded as older than
 our Pyramid Texts. Such older material, therefore, existed, whether we
 possess any of it or not. We find conditions of civilization also in the
 Pyramid Texts which were far older than the Fifth and Sixth Dynasties.
@@ -494,12 +494,12 @@ In
 <span id="page_86">p. 86</span>
 
 summoning the dead to rise he is bidden: "Throw off the sand from thy
-face," <span id="fr_215"></span>[1](#fn_215) or "Remove thy
-earth." <span id="fr_216"></span>[2](#fn_216) Such passages as these
+face," <span id="fr_215"></span>[1](#fn_215.md) or "Remove thy
+earth." <span id="fr_216"></span>[2](#fn_216.md) Such passages as these
 must have arisen in a time when the king was buried in a primitive grave
 scooped out of the desert sand. Similarly when the king's tomb is opened
 for him that he may rise he is assured: "The brick are drawn for thee
-out of the great tomb," <span id="fr_217"></span>[3](#fn_217) a passage
+out of the great tomb," <span id="fr_217"></span>[3](#fn_217.md) a passage
 which must have come into use when the kings used brick tombs like those
 at Abydos in the First and Second Dynasties. Like the sand grave or the
 brick tomb, is the common representation of the king crossing the
@@ -513,32 +513,32 @@ when South and North were warring together for supremacy, that is before
 3400 B.C. We find a sycomore-goddess addressed thus: "Thou hast placed
 the terror of thee in the heart of the kings of Lower Egypt, dwelling in
 Buto" (the capital of the prehistoric Delta kingdom), <span
-id="fr_218"></span>[4](#fn_218) a passage evidently written from the
+id="fr_218"></span>[4](#fn_218.md) a passage evidently written from the
 point of view of the South in hostility toward the North. We read of
-Horus "who smote the Red Crowns"; <span id="fr_219"></span>[5](#fn_219)
+Horus "who smote the Red Crowns"; <span id="fr_219"></span>[5](#fn_219.md)
 again "the White (southern) Crown comes forth, it has devoured the Great
-(northern) Crown;" <span id="fr_220"></span>[6](#fn_220) or "the horizon
+(northern) Crown;" <span id="fr_220"></span>[6](#fn_220.md) or "the horizon
 burns incense to Horus of Nekhen (capital of the South), . . . the flood
 of its flame is against you, ye wearers of the Great (northern)
-Crown." <span id="fr_221"></span>[7](#fn_221) It is said of the king
+Crown." <span id="fr_221"></span>[7](#fn_221.md) It is said of the king
 that
 
 <span id="page_87">p. 87</span>
 
 <span class="contnote">\[paragraph continues\]</span> "he has eaten the
 Red (crown), he has swallowed the Green" (Buto goddess of the
-North); <span id="fr_222"></span>[1](#fn_222) and in the hereafter he is
+North); <span id="fr_222"></span>[1](#fn_222.md) and in the hereafter he is
 crowned with the White (southern) Crown. <span
-id="fr_223"></span>[2](#fn_223) There too he receives the southern
+id="fr_223"></span>[2](#fn_223.md) There too he receives the southern
 (Upper Egyptian) district of the blessed Field of Rushes, <span
-id="fr_224"></span>[3](#fn_224) and he descends to the southern district
-of the Field of Offerings. <span id="fr_225"></span>[4](#fn_225) As
+id="fr_224"></span>[3](#fn_224.md) and he descends to the southern district
+of the Field of Offerings. <span id="fr_225"></span>[4](#fn_225.md) As
 priest of Re in the hereafter the king has a libation jar "which
-purifies the Southland." <span id="fr_226"></span>[5](#fn_226) Finally,
+purifies the Southland." <span id="fr_226"></span>[5](#fn_226.md) Finally,
 "it is king Unis who binds with lilies the papyrus (the two flowers of
 North and South); it is king Unis who reconciles the Two Lands; it is
 king Unis who unites the Two Lands." <span
-id="fr_227"></span>[6](#fn_227) It is evident therefore that the Pyramid
+id="fr_227"></span>[6](#fn_227.md) It is evident therefore that the Pyramid
 Texts contain passages which date from before the union of the Two
 Lands, that is before the thirty-fourth century B.C.; and also others
 which belong to the early days of the union when the hostilities had not
@@ -547,7 +547,7 @@ control of the North and preserving the united kingdom. All these are
 written from the southern point of view. It should not be forgotten also
 that some of them were composed as late as the Old Kingdom itself, like
 the formulæ intended to protect the pyramid, <span
-id="fr_228"></span>[7](#fn_228) which of course are not earlier than the
+id="fr_228"></span>[7](#fn_228.md) which of course are not earlier than the
 rise of the pyramid-form in the thirtieth century B.C. Within the period
 of a century and a half covered by our five copies also, differences are
 noticeable. Evidences of editing in the later copies, which, however,
@@ -576,49 +576,49 @@ of which they are the reflection. While they are concerned chiefly with
 the fortunes of the king, these do not shut out the world around. Of the
 happiness of the king beyond the grave it is said: "This that thou hast
 heard in the houses and learned in the streets on this day when king
-Pepi was summoned to life." <span id="fr_229"></span>[1](#fn_229) Of
+Pepi was summoned to life." <span id="fr_229"></span>[1](#fn_229.md) Of
 this life in the houses and on the streets of five thousand years ago we
 catch fleeting glimpses: the swallows twittering on the wall, <span
-id="fr_230"></span>[2](#fn_230) the herdman wading the canal immersed to
+id="fr_230"></span>[2](#fn_230.md) the herdman wading the canal immersed to
 his middle and bearing across the helpless young of his flock, <span
-id="fr_231"></span>[3](#fn_231) the crooning of the mother to her
-nursing child at twilight, <span id="fr_232"></span>[4](#fn_232) "the
+id="fr_231"></span>[3](#fn_231.md) the crooning of the mother to her
+nursing child at twilight, <span id="fr_232"></span>[4](#fn_232.md) "the
 hawk seen in the evening traversing the sky," <span
-id="fr_233"></span>[5](#fn_233) the wild goose withdrawing her foot and
+id="fr_233"></span>[5](#fn_233.md) the wild goose withdrawing her foot and
 escaping the hand of the baffled fowler in the marsh, <span
-id="fr_234"></span>[6](#fn_234) the passenger at the ferry with nothing
+id="fr_234"></span>[6](#fn_234.md) the passenger at the ferry with nothing
 to offer the boatmen for a seat in the crowded ferry-boat, but who is
 allowed to embark and work his passage wearily bailing the leaky
-craft; <span id="fr_235"></span>[7](#fn_235)
+craft; <span id="fr_235"></span>[7](#fn_235.md)
 
 <span id="page_89">p. 89</span>
 
 the noble sitting by the pool in his garden beneath the shade of the
-reed booth; <span id="fr_236"></span>[1](#fn_236) these pictures and
+reed booth; <span id="fr_236"></span>[1](#fn_236.md) these pictures and
 many others are alive with the life of the Nile-dweller's world. The
 life of the palace is more fully and picturesquely reflected than that
 of the world outside and around it. We see the king in hours heavy with
 cares of state, his secretary at his side with writing kit and two pens,
 one for black and the other for the red of the rubrics; <span
-id="fr_237"></span>[2](#fn_237) again we discern him in moments of
+id="fr_237"></span>[2](#fn_237.md) again we discern him in moments of
 relaxation leaning familiarly on the shoulder of a trusted friend and
-counsellor, <span id="fr_238"></span>[3](#fn_238) or the two bathe
+counsellor, <span id="fr_238"></span>[3](#fn_238.md) or the two bathe
 together in the palace pool and royal chamberlains approach and dry
-their limbs. <span id="fr_239"></span>[4](#fn_239) Often we meet him
+their limbs. <span id="fr_239"></span>[4](#fn_239.md) Often we meet him
 heading a brilliant pageant as he passes through the streets of the
 residence with outrunners and heralds and messengers clearing the way
-before him; <span id="fr_240"></span>[5](#fn_240) when he ferries over
+before him; <span id="fr_240"></span>[5](#fn_240.md) when he ferries over
 to the other shore and steps out of the glittering royal barge, we see
 the populace throwing off their sandals, and then even their garments,
 as they dance in transports of joy at his coming; <span
-id="fr_241"></span>[6](#fn_241) again we find him surrounded by the pomp
+id="fr_241"></span>[6](#fn_241.md) again we find him surrounded by the pomp
 and splendor of his court at the palace gate, or seated on his gorgeous
 throne, adorned with lions’ heads and bulls’ feet. <span
-id="fr_242"></span>[7](#fn_242) In the palace-hall "he sits upon his
+id="fr_242"></span>[7](#fn_242.md) In the palace-hall "he sits upon his
 marvellous throne, his marvellous sceptre in his hand; he lifts his hand
 toward the children of their father and they rise before this king Pepi;
 he drops his hand toward them and they sit down (again)." <span
-id="fr_243"></span>[8](#fn_243) To be sure these are depicted as
+id="fr_243"></span>[8](#fn_243.md) To be sure these are depicted as
 incidents of the life beyond the grave, but the subject-matter and the
 colors with which it is portrayed are drawn from the life here and the
 experience here. It is the gods who cast off their sandals and their
@@ -673,39 +673,39 @@ darkness and silence from which none returns. The word death never
 occurs in the Pyramid Texts except in the negative or applied to a foe.
 Over and over again we hear the indomitable assurance that the dead
 lives. "King Teti has not died the death, he has become a glorious one
-in the horizon"; <span id="fr_244"></span>[1](#fn_244) "Ho! King Unis!
+in the horizon"; <span id="fr_244"></span>[1](#fn_244.md) "Ho! King Unis!
 Thou didst not depart dead, thou didst depart living"; <span
-id="fr_245"></span>[2](#fn_245) "Thou hast departed that thou mightest
+id="fr_245"></span>[2](#fn_245.md) "Thou hast departed that thou mightest
 live, thou hast not departed that thou mightest die"; <span
-id="fr_246"></span>[3](#fn_246) "Thou diest not"; <span
-id="fr_247"></span>[4](#fn_247) "This king Pepi dies not"; <span
-id="fr_248"></span>[5](#fn_248) "King Pepi dies not by reason of any
+id="fr_246"></span>[3](#fn_246.md) "Thou diest not"; <span
+id="fr_247"></span>[4](#fn_247.md) "This king Pepi dies not"; <span
+id="fr_248"></span>[5](#fn_248.md) "King Pepi dies not by reason of any
 king . . . (nor) by reason of any dead"; <span
-id="fr_249"></span>[6](#fn_249) "Have ye said that he would die? He dies
+id="fr_249"></span>[6](#fn_249.md) "Have ye said that he would die? He dies
 not; this king Pepi lives forever"; <span
-id="fr_250"></span>[7](#fn_250) "Live! Thou shalt not die"; <span
-id="fr_251"></span>[8](#fn_251) "If thou landest (euphemism for
-"diest"), thou livest (again)"; <span id="fr_252"></span>[9](#fn_252)
+id="fr_250"></span>[7](#fn_250.md) "Live! Thou shalt not die"; <span
+id="fr_251"></span>[8](#fn_251.md) "If thou landest (euphemism for
+"diest"), thou livest (again)"; <span id="fr_252"></span>[9](#fn_252.md)
 "This king Pepi has escaped his day of death"; <span
-id="fr_253"></span>[10](#fn_253)—such is the constant refrain of these
+id="fr_253"></span>[10](#fn_253.md)—such is the constant refrain of these
 texts. Not infrequently the utterance concludes with the assurance:
 "Thou livest, thou livest, raise thee up"; <span
-id="fr_254"></span>[11](#fn_254) or "Thou diest not, stand up,
+id="fr_254"></span>[11](#fn_254.md) or "Thou diest not, stand up,
 
 <span id="page_92">p. 92</span>
 
-raise thee up"; <span id="fr_255"></span>[1](#fn_255) or "Raise thee up,
-O this king Pepi, thou diest not"; <span id="fr_256"></span>[2](#fn_256)
+raise thee up"; <span id="fr_255"></span>[1](#fn_255.md) or "Raise thee up,
+O this king Pepi, thou diest not"; <span id="fr_256"></span>[2](#fn_256.md)
 or an appendix is added as a new utterance by itself: "O lofty one among
 the Imperishable Stars, thou perishest not eternally." <span
-id="fr_257"></span>[3](#fn_257) When the inexorable fact must be
+id="fr_257"></span>[3](#fn_257.md) When the inexorable fact must be
 referred to, death is called the "landing" or the "mooring" as we have
-seen it above, <span id="fr_258"></span>[4](#fn_258) or its opposite is
+seen it above, <span id="fr_258"></span>[4](#fn_258.md) or its opposite is
 preferred, and it is better to mention "not living" than to utter the
-fatal word; <span id="fr_259"></span>[5](#fn_259) or with wistful
+fatal word; <span id="fr_259"></span>[5](#fn_259.md) or with wistful
 reminiscence of lost felicity once enjoyed by men, these ancient texts
 recall the blessed age "before death came forth." <span
-id="fr_260"></span>[6](#fn_260)
+id="fr_260"></span>[6](#fn_260.md)
 
 While the supreme subject of the Pyramid Texts is life, eternal life for
 the king, they are a compilation from the most varied sources. Every
@@ -754,7 +754,7 @@ the five pyramids, that of Unis, contains two hundred and twenty-eight,
 while the others contain enough additional "Utterances" to make up a
 total of seven hundred and fourteen. In their modern published form,
 including the variants, they fill two quarto volumes containing together
-over a thousand pages of text. <span id="fr_261"></span>[1](#fn_261)
+over a thousand pages of text. <span id="fr_261"></span>[1](#fn_261.md)
 
 With the exception of the funerary and offering ritual, which is at the
 head of the collection, and with which we have already dealt in the
@@ -777,20 +777,20 @@ There can be no doubt that a considerable portion of the Pyramid Texts
 were intended to be employed as charms. Some of these were used by the
 mortuary priest at the interment; others were wielded by the deceased
 himself in self-defence. "King Pepi is a magician, King Pepi is one who
-is possessed of magic," <span id="fr_262"></span>[1](#fn_262) say the
+is possessed of magic," <span id="fr_262"></span>[1](#fn_262.md) say the
 texts. The dead are called "the glorious by reason of (or 'by means of')
-their equipped mouths," <span id="fr_263"></span>[2](#fn_263) meaning
+their equipped mouths," <span id="fr_263"></span>[2](#fn_263.md) meaning
 that their mouths are equipped with the charms, prayers, and ritual of
 the Pyramid Texts. It is evident that the dead king was supposed to
 employ magic power, and the agency of this power was the Pyramid Texts
 themselves. They are sometimes unequivocally called magical charms.
 "This charm that is in the belly of king Pepi is on him when he ascends
 and lifts himself to the sky" affirms one passage, <span
-id="fr_264"></span>[3](#fn_264) and the Utterance referred to is an
+id="fr_264"></span>[3](#fn_264.md) and the Utterance referred to is an
 accompanying list of the limbs of the king, which are thus protected.
 Again in a remarkable passage the ancient text insists: "It is not this
 king Pepi who says this against you, ye gods; it is the charm which says
-this against you, ye gods," <span id="fr_265"></span>[4](#fn_265) and
+this against you, ye gods," <span id="fr_265"></span>[4](#fn_265.md) and
 "this" is the text of the accompanying Utterance. The possession of such
 charms was vitally important, so that a special charm was included to
 prevent the departed
@@ -799,15 +799,15 @@ prevent the departed
 
 <span class="contnote">\[paragraph continues\]</span> Pharaoh from being
 deprived of his charm or his magical power. <span
-id="fr_266"></span>[1](#fn_266)
+id="fr_266"></span>[1](#fn_266.md)
 
 The distinction between a charm and a prayer in these texts is difficult
 for the reason that a text of a character originally in no way connected
 or identified with magical formula may be employed as such. We find a
-Sun-hymn <span id="fr_267"></span>[2](#fn_267) called a "charm" in the
+Sun-hymn <span id="fr_267"></span>[2](#fn_267.md) called a "charm" in the
 Pyramid Texts. Again the archaic hymn to Nut, <span
-id="fr_268"></span>[3](#fn_268) a fragment of ancient ritual, is later
-employed as a household charm. <span id="fr_269"></span>[4](#fn_269) The
+id="fr_268"></span>[3](#fn_268.md) a fragment of ancient ritual, is later
+employed as a household charm. <span id="fr_269"></span>[4](#fn_269.md) The
 question is not infrequently one of function rather than one of content.
 The serpent-charms are distinguishable as such in the Pyramid Texts at
 the first glance in most cases; but the question whether a hymn or a
@@ -837,14 +837,14 @@ besides the charms unquestionably present, there is then a large
 residuum of ancient religious literature, consisting of ritual of
 worship, religious hymns, fragments of old myths, and finally prayers on
 behalf of the dead (Nos 3, 4, 5, and 6, above). An Osirian Utterance in
-the Pyramid Texts <span id="fr_270"></span>[1](#fn_270) occurs over a
+the Pyramid Texts <span id="fr_270"></span>[1](#fn_270.md) occurs over a
 thousand years later as part of the ritual at Abydos on the wall of the
 Atum chapel in the Seti temple of Osiris. There can be little doubt that
 it was temple ritual also in the Pyramid Age. It is not unlikely that
 the religious hymns embedded in this compilation, like the impressive
-Sun-hymn in Utterance 456, <span id="fr_271"></span>[2](#fn_271) or the
-archaic hymn to the Sky-goddess, <span id="fr_272"></span>[3](#fn_272)
-or the hymn to Osiris as Nile, <span id="fr_273"></span>[4](#fn_273)
+Sun-hymn in Utterance 456, <span id="fr_271"></span>[2](#fn_271.md) or the
+archaic hymn to the Sky-goddess, <span id="fr_272"></span>[3](#fn_272.md)
+or the hymn to Osiris as Nile, <span id="fr_273"></span>[4](#fn_273.md)
 also belonged to temple rituals. In this case they fall in the same
 class with temple ritual and should not be made a class by themselves.
 In so far as the fragments of the old myths fall into poetic form they
@@ -879,7 +879,7 @@ there, though not frequently, some display of literary quality in
 thought and language. There is, for example, a fine touch of imagination
 in one of the many descriptions of the resurrection of Osiris: "Loose
 thy bandages! They are not bandages, they are the locks of
-Nephthys," <span id="fr_274"></span>[1](#fn_274) the weeping goddess
+Nephthys," <span id="fr_274"></span>[1](#fn_274.md) the weeping goddess
 hanging over the body of her dead brother. The ancient priest who wrote
 the line sees in the bandages that swathe the silent form the heavy
 locks of the goddess which fall and mingle with them. There is an
@@ -888,7 +888,7 @@ sympathetic emotion of the whole universe as the dread catastrophe of
 the king's death and the uncanny power of his coming among the gods of
 the sky are realized by the elements. "The sky weeps for thee, the earth
 trembles for thee" say the ancient mourners for the king, <span
-id="fr_275"></span>[2](#fn_275) or when they see him in imagination
+id="fr_275"></span>[2](#fn_275.md) or when they see him in imagination
 ascending the vault of the sky they say:
 
 <span id="page_98">p. 98</span>
@@ -901,7 +901,7 @@ ascending the vault of the sky they say:
  The bones of the hell-hounds tremble,  
  The \[porters\] are silent,  
  When they see king Unis,  
- Dawning as a soul." <span id="fr_276"></span>[1](#fn_276)</span>
+ Dawning as a soul." <span id="fr_276"></span>[1](#fn_276.md)</span>
 
 </div>
 
@@ -922,7 +922,7 @@ the old personal pronoun. It is evident that many of the charms were
 designed for use by the dead, as when a Sun-hymn is accompanied by
 directions stating that the king is to employ it as a charm, which, if
 he knows it, will secure him the friendship of the Sun-god. <span
-id="fr_277"></span>[2](#fn_277) When the whole collection was recited by
+id="fr_277"></span>[2](#fn_277.md) When the whole collection was recited by
 the priest he of course personified the king, in all passages where the
 king speaks in the first person, just as he personified so many of the
 gods who are depicted speaking and acting in these texts; but the fact
@@ -934,12 +934,12 @@ of texts address the dead king in the second person clearly shows that
 they were uttered by the priest or some one on the king's behalf. In one
 case the speaker is the living and still reigning king who offers
 eye-paint to his departed royal ancestor. <span
-id="fr_278"></span>[1](#fn_278)
+id="fr_278"></span>[1](#fn_278.md)
 
 On one other question in this connection there can be no doubt. These
 mortuary texts were all intended for the king's exclusive use, and as a
 whole contain beliefs which apply only to the king. <span
-id="fr_279"></span>[2](#fn_279) This is not to say, however, that some
+id="fr_279"></span>[2](#fn_279.md) This is not to say, however, that some
 archaic texts in use among the people have not here and there crept into
 the collection. To these may possibly belong the addresses to the dead
 as if buried in the desert sand, or a few others like simple serpent
@@ -961,29 +961,29 @@ been preserved here and there.
 <span class="contnote">\[paragraph continues\]</span> The oldest
 doubtless is contained in that designation of the dead which claims
 ignorance as to their whereabouts, and calls them "those whose places
-are hidden." <span id="fr_280"></span>[1](#fn_280) Another ancient
+are hidden." <span id="fr_280"></span>[1](#fn_280.md) Another ancient
 belief conceives the dead as somewhere in the distant "west," but this
 belief plays practically no part in the Pyramid Texts, and is
 discernible there only in an archaic title of the mortuary Anubis of
 Siut, who occasionally has appended to his name the words "First or Lord
-of the Westerners," <span id="fr_281"></span>[2](#fn_281) a designation
+of the Westerners," <span id="fr_281"></span>[2](#fn_281.md) a designation
 which served as the name of an old mortuary god at Abydos, who was later
 identified with Osiris, and his name appropriated by him also occurs a
 number of times in the Pyramid Texts. <span
-id="fr_282"></span>[3](#fn_282) But the "west" hardly attains even a
+id="fr_282"></span>[3](#fn_282.md) But the "west" hardly attains even a
 subordinate rôle in the beliefs which dominate the Pyramid Texts. We
 hear of it once as a means of gaining access to the Sun-god: "These thy
 four ways which are before the tomb of Horus, wherein one goes to the
 (Sun-) god, as soon as the sun goes down. He (the Sun-god) grasps thy
-arm. . . ." <span id="fr_283"></span>[4](#fn_283) In one passage, too,
+arm. . . ." <span id="fr_283"></span>[4](#fn_283.md) In one passage, too,
 the dead is adjured to go to the "west" in preference to the east, in
 order to join the Sun-god, but in this very passage he appears as one
-whose function was in the east. <span id="fr_284"></span>[5](#fn_284) An
+whose function was in the east. <span id="fr_284"></span>[5](#fn_284.md) An
 analogous passage affirms: "King Unis rests from life (dies) in the
 west, . . . King Unis dawns anew in the east." <span
-id="fr_285"></span>[6](#fn_285) The west is mentioned casually, also
+id="fr_285"></span>[6](#fn_285.md) The west is mentioned casually, also
 along with the other celestial regions where the Sun-god in his course
-finds the translated Pharaoh. <span id="fr_286"></span>[7](#fn_286) It
+finds the translated Pharaoh. <span id="fr_286"></span>[7](#fn_286.md) It
 is the east which with constant reiteration is affirmed to be the most
 sacred of all regions, and that to which the dead king
 
@@ -991,7 +991,7 @@ sacred of all regions, and that to which the dead king
 
 should fare. Indeed he is explicitly cautioned against the west: "Go not
 on those currents of the west; those who go thither, they return not
-(again)." <span id="fr_287"></span>[1](#fn_287) In the Pyramid Texts it
+(again)." <span id="fr_287"></span>[1](#fn_287.md) In the Pyramid Texts it
 may be fairly said that the old doctrine of the "west" as the permanent
 realm of the dead, a doctrine which is later so prominent, has been
 quite submerged by the pre-eminence of the east.
@@ -1009,19 +1009,19 @@ Pyramid Texts. In the cloudless sky of Egypt it was a not unnatural
 fancy which led the ancient Nile-dweller to see in the splendor of the
 nightly heavens the host of those who had preceded him; thither they had
 flown as birds, rising above all foes of the air, <span
-id="fr_288"></span>[2](#fn_288) and there they now swept across the sky
-as eternal stars. <span id="fr_289"></span>[3](#fn_289) It is especially
+id="fr_288"></span>[2](#fn_288.md) and there they now swept across the sky
+as eternal stars. <span id="fr_289"></span>[3](#fn_289.md) It is especially
 those stars which are called "the Imperishable Ones" in which the
 Egyptian saw the host of the dead. These are said to be in the north of
-the sky, <span id="fr_290"></span>[4](#fn_290) and the suggestion that
+the sky, <span id="fr_290"></span>[4](#fn_290.md) and the suggestion that
 the circumpolar stars, which never set or disappear, are the ones which
-are meant is a very probable one. <span id="fr_291"></span>[5](#fn_291)
+are meant is a very probable one. <span id="fr_291"></span>[5](#fn_291.md)
 While there are Utterances in the Pyramid Texts which define
 
 <span id="page_102">p. 102</span>
 
 the stellar notion of the hereafter without any reference to the Solar
-faith, <span id="fr_292"></span>[1](#fn_292) and which have doubtless
+faith, <span id="fr_292"></span>[1](#fn_292.md) and which have doubtless
 descended from a more ancient day when the stellar belief was
 independent of the Solar, it is evident that the stellar notion has been
 absorbed in the Solar. There is a trace of the process in the endeavor
@@ -1029,7 +1029,7 @@ to reconcile the northern station of the "Imperishables" with the "east"
 as the place of the dead in the Solar faith. We find provision made that
 the deceased king "may ferry over to Re, to the horizon . . . to his
 station on the east side of the sky, in its northern region among the
-Imperishable (Stars)." <span id="fr_293"></span>[2](#fn_293) Thus the
+Imperishable (Stars)." <span id="fr_293"></span>[2](#fn_293.md) Thus the
 stellar and the Solar elements were combined, though the Solar beliefs
 predominate so strongly that the Pyramid Texts as a whole and in the
 form in which they have reached us may be said to be of Solar origin.
@@ -1038,7 +1038,7 @@ The Solar destiny was perhaps suggested by the daily disappearance and
 reappearance of the sun. We find the texts assuring us, "This king Pepi
 lives as lives he (= the Sun-god) who has entered the west of the sky,
 when he rises in the east of the sky." <span
-id="fr_294"></span>[3](#fn_294) It should be noted that the place of
+id="fr_294"></span>[3](#fn_294.md) It should be noted that the place of
 living again is, however, the east, and it is not only the east, but
 explicitly the east of the sky. Death was on earth; life was to be had
 only in the sky.
@@ -1050,7 +1050,7 @@ only in the sky.
  Seize thou king Teti by his arm,  
  Take thou king Teti to the sky,  
  That he die not on earth,  
- Among men." <span id="fr_295"></span>[4](#fn_295)</span>
+ Among men." <span id="fr_295"></span>[4](#fn_295.md)</span>
 
 </div>
 
@@ -1086,42 +1086,42 @@ resuscitation from the sleep of death. It may be accomplished by
 libations or by bathing in the sacred lake in the blessed fields, with
 the gods even officiating at the royal bath with towels and raiment, or
 by the fumes of incense which penetrate the limbs of the royal
-dead. <span id="fr_296"></span>[1](#fn_296) Sometimes it is the water of
+dead. <span id="fr_296"></span>[1](#fn_296.md) Sometimes it is the water of
 the traditional Nile sources at Elephantine which, as especially sacred
-and pure, should be employed, <span id="fr_297"></span>[2](#fn_297) or
+and pure, should be employed, <span id="fr_297"></span>[2](#fn_297.md) or
 the dead king appears there and the goddess of the cataract, Satis,
 performs the ceremonies
 
 <span id="page_104">p. 104</span>
 
-of purification. <span id="fr_298"></span>[1](#fn_298) That this
+of purification. <span id="fr_298"></span>[1](#fn_298.md) That this
 purification might have moral aspects we shall later ([p.
-171](rtae10.htm#page_171)) see. But it was chiefly intended to produce
+171](rtae10.htm#page_171).md) see. But it was chiefly intended to produce
 ceremonial cleanness, and when this was attained the king was prepared
 to undertake the journey to the sky.
 
 We have already had occasion to remark that the region toward which he
 fared was the east of the sky, which in the Pyramid Texts is far more
-sacred than the west (pp. [100](#page_100)–[102](#page_102)). Not only
+sacred than the west (pp. [100](#page_100)–[102](#page_102).md). Not only
 was the Sun-god born there every day as we have seen, but also the other
 gods. Over there was "this field, where the gods were begotten, over
 which the gods rejoice on these their New Year's Days," <span
-id="fr_299"></span>[2](#fn_299) and there likewise they were born. <span
-id="fr_300"></span>[3](#fn_300) Similarly according to one view, not
+id="fr_299"></span>[2](#fn_299.md) and there likewise they were born. <span
+id="fr_300"></span>[3](#fn_300.md) Similarly according to one view, not
 infrequently occurring, the deceased king is born there. <span
-id="fr_301"></span>[4](#fn_301) It was there too that the eye of Horus
+id="fr_301"></span>[4](#fn_301.md) It was there too that the eye of Horus
 fell when it was wrenched out by Set. <span
-id="fr_302"></span>[5](#fn_302) In this sacred place are the doors of
-the sky, <span id="fr_303"></span>[6](#fn_303) before which stands "that
+id="fr_302"></span>[5](#fn_302.md) In this sacred place are the doors of
+the sky, <span id="fr_303"></span>[6](#fn_303.md) before which stands "that
 tall sycomore east of the sky whereon the gods sit." <span
-id="fr_304"></span>[7](#fn_304) Again we hear of "the two sycomores
+id="fr_304"></span>[7](#fn_304.md) Again we hear of "the two sycomores
 which are on yonder side of the sky," which the king seizes when "they
 ferry him over and set him on the east side of the sky." <span
-id="fr_305"></span>[8](#fn_305) Here in this sacred place too the dead
+id="fr_305"></span>[8](#fn_305.md) Here in this sacred place too the dead
 king finds the Sun-god, or is found by him, <span
-id="fr_306"></span>[9](#fn_306) here he ascends to the sky, <span
-id="fr_307"></span>[10](#fn_307) and here the ferry lands which has
-brought him over. <span id="fr_308"></span>[11](#fn_308)
+id="fr_306"></span>[9](#fn_306.md) here he ascends to the sky, <span
+id="fr_307"></span>[10](#fn_307.md) and here the ferry lands which has
+brought him over. <span id="fr_308"></span>[11](#fn_308.md)
 
 <span id="page_105">p. 105</span>
 
@@ -1130,15 +1130,15 @@ region he was confronted by a lake lying along the east which it was
 necessary for him to cross in order to reach the realm of the Sun-god.
 It was on the further, that is eastern, shore of this lake that the eye
 of Horus had fallen in his combat with Set. <span
-id="fr_309"></span>[1](#fn_309) It was called the "Lily-lake," and it
+id="fr_309"></span>[1](#fn_309.md) It was called the "Lily-lake," and it
 was long enough to possess "windings," <span
-id="fr_310"></span>[2](#fn_310) and must have stretched far to the north
+id="fr_310"></span>[2](#fn_310.md) and must have stretched far to the north
 and south along the eastern horizon. <span
-id="fr_311"></span>[3](#fn_311) Beyond it lay a strange wonder-land,
+id="fr_311"></span>[3](#fn_311.md) Beyond it lay a strange wonder-land,
 alive with uncanny forces on every hand. *All* was alive, whether it was
 the seat into which the king dropped, or the steering-oar to which he
-reached out his hand, <span id="fr_312"></span>[4](#fn_312) or the
-barque into which he stepped, <span id="fr_313"></span>[5](#fn_313) or
+reached out his hand, <span id="fr_312"></span>[4](#fn_312.md) or the
+barque into which he stepped, <span id="fr_313"></span>[5](#fn_313.md) or
 the gates through which he passed. To all these, or to anything which he
 found, he might speak; and these uncanny things might speak to him, like
 the swan-boat of Lohengrin. Indeed it was a wonder-world like that in
@@ -1150,7 +1150,7 @@ To the dweller along the Nile the most obvious way to cross the
 Lily-lake is to embark in a ferry-boat. We find it among the rushes of
 the lake-shore with the ferryman standing in the stern poling it rapidly
 along. To do so he faces backward, and is therefore called
-"Face-behind," or "Look-behind." <span id="fr_314"></span>[6](#fn_314)
+"Face-behind," or "Look-behind." <span id="fr_314"></span>[6](#fn_314.md)
 He rarely speaks, but stands in silence awaiting his passenger. Numerous
 are the pleas and the specious petitions by which the waiting Pharaoh
 
@@ -1158,15 +1158,15 @@ are the pleas and the specious petitions by which the waiting Pharaoh
 
 seeks to cajole this mysterious boatman with averted face. We hear him
 assured that "this king Pepi is the herdman of thy cattle who is over
-thy breeding-place," <span id="fr_315"></span>[1](#fn_315) and who must
+thy breeding-place," <span id="fr_315"></span>[1](#fn_315.md) and who must
 therefore be ferried over at once in the ferryman's own interests. Or
 the king brings with him a magic jar the power of which the boatman
-cannot resist, <span id="fr_316"></span>[2](#fn_316) or the ferryman is
+cannot resist, <span id="fr_316"></span>[2](#fn_316.md) or the ferryman is
 assured that the Pharaoh is "righteous in the sight of the sky and of
 the earth" and of the isle to which they go. <span
-id="fr_317"></span>[3](#fn_317) Again the king is the dwarf or pygmy of
+id="fr_317"></span>[3](#fn_317.md) Again the king is the dwarf or pygmy of
 the royal dances "who gladdens the (king's) heart before the great
-throne," <span id="fr_318"></span>[4](#fn_318) and he must therefore be
+throne," <span id="fr_318"></span>[4](#fn_318.md) and he must therefore be
 hastened across to the court of Re to gladden the Sun-god. Indeed this
 is matter of common knowledge, as the ferryman is now told: "This is
 what thou hast heard in the houses and learned in the streets on this
@@ -1174,44 +1174,44 @@ day when this king Pepi was summoned to life. . . . Lo, the two who are
 on the throne of the Great God (Re), they summon this king Pepi to life
 and satisfaction forever: they are Prosperity and Health. (Therefore)
 ferry over this king Pepi to the field of the good seat of the Great
-God." <span id="fr_319"></span>[5](#fn_319) We hear the boatman's
+God." <span id="fr_319"></span>[5](#fn_319.md) We hear the boatman's
 challenge of the new-corner: "Whence hast thou come?" and the dead king
-must prove his royal lineage. <span id="fr_320"></span>[6](#fn_320) Or
+must prove his royal lineage. <span id="fr_320"></span>[6](#fn_320.md) Or
 appeal may be made directly to Re: "O Re! Commend king Teti to
 'Look-behind' ferryman of the Lily-lake, that he may bring that
 ferry-boat of the Lily-lake, for king Teti, in which he ferries the gods
 to yonder side of the Lily-lake, that he may ferry king Teti to yonder
 side of the Lily-lake, to the east side of the sky." <span
-id="fr_321"></span>[7](#fn_321) If in spite of all the king's efforts
+id="fr_321"></span>[7](#fn_321.md) If in spite of all the king's efforts
 the shadowy boatman proves obdurate and refuses to bring his boat to the
 shore, then the king addresses the oar in the ferryman's hand: "Ho!
 
 <span id="page_107">p. 107</span>
 
 <span class="contnote">\[paragraph continues\]</span> Thou who art in
-the fist of the ferryman," <span id="fr_322"></span>[1](#fn_322) and if
+the fist of the ferryman," <span id="fr_322"></span>[1](#fn_322.md) and if
 his words are powerful enough, the oar brings in the boat for the king.
 Sometimes it is on the opposite shore in charge of four curly haired
 guardians. These four are peremptorily summoned to bring it over to the
 king: "If ye delay to ferry over the ferry-boat to this king Pepi, this
 king Pepi will tell this your name to the people, which he knows; <span
-id="fr_323"></span>[2](#fn_323) . . . king Pepi will pluck out these
+id="fr_323"></span>[2](#fn_323.md) . . . king Pepi will pluck out these
 locks that are in the middle of your heads like lotus flowers in the
-garden." <span id="fr_324"></span>[3](#fn_324)
+garden." <span id="fr_324"></span>[3](#fn_324.md)
 
 Again, as so frequently in these texts, an unknown speaker in the king's
 behalf stands forth and threatens the boatman: "If thou dost not ferry
 over king Unis, then he will place himself upon the wing of Thoth. He,
 (even) he will ferry over king Unis to yonder side of the
-horizon." <span id="fr_325"></span>[4](#fn_325) There is also another
+horizon." <span id="fr_325"></span>[4](#fn_325.md) There is also another
 ferryman of a boat bearing the remarkable name of "Eye of Khnum," <span
-id="fr_326"></span>[5](#fn_326) who may be called upon in emergency; and
+id="fr_326"></span>[5](#fn_326.md) who may be called upon in emergency; and
 should all other means fail the sceptres of the Imperishable Stars may
-serve as ferryman <span id="fr_327"></span>[6](#fn_327) or the two
+serve as ferryman <span id="fr_327"></span>[6](#fn_327.md) or the two
 sycomores in the east may be prevailed upon to perform the same office
-for the king. <span id="fr_328"></span>[7](#fn_328) Even Re himself is
+for the king. <span id="fr_328"></span>[7](#fn_328.md) Even Re himself is
 not unwilling to appear and ferry the dead king across. <span
-id="fr_329"></span>[8](#fn_329) In any case the dead cannot be left
+id="fr_329"></span>[8](#fn_329.md) In any case the dead cannot be left
 without a ship, for he possesses the cunning charm which brings them all
 together: "The knots are tied, the ferryboats are brought together for
 the son of Atum. The
@@ -1220,11 +1220,11 @@ the son of Atum. The
 
 son of Atum is not without a boat; king Mernere is with the son of Atum;
 the son of Atum is not without a boat." <span
-id="fr_330"></span>[1](#fn_330)
+id="fr_330"></span>[1](#fn_330.md)
 
 From the earliest days the prehistoric peasant might cross the Nile on
 two reed floats bound firmly together side by side like two huge
-cigars. <span id="fr_331"></span>[2](#fn_331) One of the earliest
+cigars. <span id="fr_331"></span>[2](#fn_331.md) One of the earliest
 folk-tales of the Sun-god's voyage depicted him as crossing the
 celestial waters on such a pair of floats, and however primitive they
 might be, their use by the Sun-god had become common and involuntary
@@ -1234,78 +1234,78 @@ of the Sun-god. Horus (who, we recall, is but another form of the
 Sun-god) ferries over to the east of the sky on the two floats and he
 commends the dead king to "these four youths who sit on the east side of
 the sky, these four youths who sit in the shade of the tower of
-Kati," <span id="fr_332"></span>[3](#fn_332) "these four youths who
+Kati," <span id="fr_332"></span>[3](#fn_332.md) "these four youths who
 stand on the east side of the sky . . . (and) who bind together the two
 floats for Re, . . ." will also "bind together the two floats for this
-king Pepi." <span id="fr_333"></span>[4](#fn_333) Thus just as "the two
+king Pepi." <span id="fr_333"></span>[4](#fn_333.md) Thus just as "the two
 floats of the sky are placed for Re that he may ferry over therewith to
 the horizon," so "the two floats of the sky are placed for
 
 <span id="page_109">p. 109</span>
 
 king Unis that he may ferry over therewith to the horizon to Re." <span
-id="fr_334"></span>[1](#fn_334)
+id="fr_334"></span>[1](#fn_334.md)
 
 But even these many devices for crossing the eastern sea might fail and
 then the king must commit himself to the air and make the ascent to the
 sky. "Thy two wings are spread out like a falcon with thick plumage,
 like the hawk seen in the evening traversing the sky, "says the
-mysterious speaker to the king. <span id="fr_335"></span>[2](#fn_335)
+mysterious speaker to the king. <span id="fr_335"></span>[2](#fn_335.md)
 "He flies who flies; this king Pepi flies away from you, ye mortals. He
 is not of the earth, he is of the sky. . . . This king Pepi flies as a
 cloud to the sky, like a masthead bird; this king Pepi kisses the sky
 like a falcon, this king Pepi reaches the sky like the Horizon-god
-(Harakhte)." <span id="fr_336"></span>[3](#fn_336) The variant text has
+(Harakhte)." <span id="fr_336"></span>[3](#fn_336.md) The variant text has
 like a grasshopper, and in accordance with this we find that the dead
 king was born with the back of a grasshopper. <span
-id="fr_337"></span>[4](#fn_337) As the Egyptian grasshopper flies like a
+id="fr_337"></span>[4](#fn_337.md) As the Egyptian grasshopper flies like a
 bird to vast heights, the back of a grasshopper was undoubtedly an
 appropriate adjunct to the royal anatomy. But it was the falcon, the
 sacred bird of the Sun-god, whose lofty flight was especially desired
 for the king. He is "the great falcon upon the battlements of the house
-of him of the hidden name." <span id="fr_338"></span>[5](#fn_338) "Thy
+of him of the hidden name." <span id="fr_338"></span>[5](#fn_338.md) "Thy
 bones are falconesses, goddesses dwelling in the sky," say they to the
-king; <span id="fr_339"></span>[6](#fn_339) or again, "Thou ascendest to
+king; <span id="fr_339"></span>[6](#fn_339.md) or again, "Thou ascendest to
 the sky as a falcon, thy feathers are (those of) geese." <span
-id="fr_340"></span>[7](#fn_340) The speaker also sees him escaping from
+id="fr_340"></span>[7](#fn_340.md) The speaker also sees him escaping from
 the hands of men as the wild goose escapes the hand of the fowler
 clutching his feet and flies away to the sky; <span
-id="fr_341"></span>[8](#fn_341) "the tips of his wings are those of the
+id="fr_341"></span>[8](#fn_341.md) "the tips of his wings are those of the
 
 <span id="page_110">p. 110</span>
 
-great goose." <span id="fr_342"></span>[1](#fn_342) Thus he "flies as a
-goose and flutters as a beetle." <span id="fr_343"></span>[2](#fn_343)
+great goose." <span id="fr_342"></span>[1](#fn_342.md) Thus he "flies as a
+goose and flutters as a beetle." <span id="fr_343"></span>[2](#fn_343.md)
 "His face is (that of) falcons and his wings are (those of)
-geese"; <span id="fr_344"></span>[3](#fn_344) "king Unis flaps his wings
-like a zeret-bird," <span id="fr_345"></span>[4](#fn_345) and the wind
+geese"; <span id="fr_344"></span>[3](#fn_344.md) "king Unis flaps his wings
+like a zeret-bird," <span id="fr_345"></span>[4](#fn_345.md) and the wind
 bears him on high. "King Unis goes to the sky, king Unis goes to the
-sky! On the wind! On the wind!" <span id="fr_346"></span>[5](#fn_346)
+sky! On the wind! On the wind!" <span id="fr_346"></span>[5](#fn_346.md)
 "The clouds of the sky have taken him away, they exalt king Unis to
-Re." <span id="fr_347"></span>[6](#fn_347) He "has ascended upon the
-rain-cloud." <span id="fr_348"></span>[7](#fn_348) Or the priest sees
+Re." <span id="fr_347"></span>[6](#fn_347.md) He "has ascended upon the
+rain-cloud." <span id="fr_348"></span>[7](#fn_348.md) Or the priest sees
 strange forms in the cloud of incense that soars above him and he cries:
 "He ascends upon the smoke of the great incense-burning." <span
-id="fr_349"></span>[8](#fn_349)
+id="fr_349"></span>[8](#fn_349.md)
 
 In the oblique rays of the sun also, shooting earthward through some
 opening in the clouds, they beheld a radiant stairway let down from the
 sky that the king might ascend. "King Pepi has put down this radiance as
 a stairway under his feet, whereon king Pepi ascended to this his
 mother, the living Uræus that is on the head of Re." <span
-id="fr_350"></span>[9](#fn_350) "Thou climbest, thou mountest the
-radiance, "says the speaker <span id="fr_351"></span>[10](#fn_351) as he
+id="fr_350"></span>[9](#fn_350.md) "Thou climbest, thou mountest the
+radiance, "says the speaker <span id="fr_351"></span>[10](#fn_351.md) as he
 beholds the king grasping the Solar rays. <span
-id="fr_352"></span>[11](#fn_352) Thus "stairs to the sky are laid for
+id="fr_352"></span>[11](#fn_352.md) Thus "stairs to the sky are laid for
 him that he may ascend thereon to the sky." <span
-id="fr_353"></span>[12](#fn_353) It is of course with the city of the
+id="fr_353"></span>[12](#fn_353.md) It is of course with the city of the
 sun that this stairway is associated: "The spirits of Heliopolis, they
 set up for him a stairway in order to reach the top." <span
-id="fr_354"></span>[13](#fn_354) Sometimes the Solar splendor seems
+id="fr_354"></span>[13](#fn_354.md) Sometimes the Solar splendor seems
 stretched out to him like vast arms, and the king "is a flame (moving)
 before the wind to the ends of the sky, to the ends of the earth when
 the arm of the sunbeams is lifted with king Unis." <span
-id="fr_355"></span>[14](#fn_355) Lest any portion of the king's body
+id="fr_355"></span>[14](#fn_355.md) Lest any portion of the king's body
 should fail to rise with him, all of his members, or at least the more
 important
 
@@ -1322,16 +1322,16 @@ this king Pepi who says this against you, it is the charm which says
 this against you, ye gods." On the other hand, "every god who shall lay
 steps for king Pepi when he ascends" is promised all offerings, and if
 he extends a helping hand to the king as he climbs up, this god's "ka
-shall be justified by Geb." <span id="fr_356"></span>[1](#fn_356)
+shall be justified by Geb." <span id="fr_356"></span>[1](#fn_356.md)
 
 Again the broad sunbeams slanting earthward seem like a ladder to the
 imagination of this remote people and they say, "King Unis ascends upon
 the ladder which his father Re (the Sun-god) made for him. " <span
-id="fr_357"></span>[2](#fn_357) Indeed we find the Sun-god making the
+id="fr_357"></span>[2](#fn_357.md) Indeed we find the Sun-god making the
 ladder: "Atum has done that which he said he would do for this king Pepi
 II, binding for him the rope-ladder, joining together the (wooden)
 ladder for this king Pepi II; (thus) this king is far from the
-abomination of men." <span id="fr_358"></span>[3](#fn_358) Again it is
+abomination of men." <span id="fr_358"></span>[3](#fn_358.md) Again it is
 the four sons of
 
 <span id="page_112">p. 112</span>
@@ -1345,12 +1345,12 @@ Gasuti, the Bull of the Sky (Saturn); the uprights at its sides are
 fastened with leather of ⌈—⌉, born of the Heset-cow; a great support is
 placed under it by 'Him-who-Binds-the-Great-One.' Lift ye up the ka of
 this king Pepi II; lead ye him to the two lions; make him ascend to
-Atum." <span id="fr_359"></span>[1](#fn_359) An old Solar legend places
+Atum." <span id="fr_359"></span>[1](#fn_359.md) An old Solar legend places
 the ladder in charge of Set, or at least associates it closely with him.
 We find it called the "ladder which carried the Ombite (Set)"; <span
-id="fr_360"></span>[2](#fn_360) but it also appears occasionally under
+id="fr_360"></span>[2](#fn_360.md) but it also appears occasionally under
 the guardianship of Kebehet, daughter of Anubis. <span
-id="fr_361"></span>[3](#fn_361) Sometimes the Sun-god summons all his
+id="fr_361"></span>[3](#fn_361.md) Sometimes the Sun-god summons all his
 divine subjects to assist in making the ladder. "It is done for this
 king Pepi by Atum as it was done for himself (Atum). He brings to this
 Pepi the gods belonging to the sky, he brings to him the gods belonging
@@ -1359,52 +1359,52 @@ to the earth. They place their
 <span id="page_113">p. 113</span>
 
 arms under him. They make a ladder for king Pepi that he may ascend upon
-it to the sky." <span id="fr_362"></span>[1](#fn_362) The spectacle of
+it to the sky." <span id="fr_362"></span>[1](#fn_362.md) The spectacle of
 the ascending king calls forth the admiration of the gods: "'How
 beautiful to see, how satisfying to behold,' say the gods, 'when this
 god (meaning the king) ascends to the sky. His fearfulness is on his
 head, his terror is at his side, his magical charms are before
-him.' <span id="fr_363"></span>[2](#fn_363) Geb has done for him as was
+him.' <span id="fr_363"></span>[2](#fn_363.md) Geb has done for him as was
 done for himself (Geb). The gods and souls of Buto, the gods and souls
 of Hierakonpolis, the gods in the sky and the gods on earth come to him.
 They make supports for king Unis on their arm(s). Thou ascendest, O king
 Unis, to the sky. Ascend upon it in this its name 'Ladder.'" <span
-id="fr_364"></span>[3](#fn_364)
+id="fr_364"></span>[3](#fn_364.md)
 
 Men and gods together are called upon in mighty charms to lift the king.
 "O men and gods! Your arms under king Pepi! Raise ye him, lift ye him to
 the sky, as the arms of Shu are under the sky and he raises it. To the
 sky! To the sky! To the great seat among the gods!" <span
-id="fr_365"></span>[4](#fn_365) Or the daughter of the ancient mortuary
+id="fr_365"></span>[4](#fn_365.md) Or the daughter of the ancient mortuary
 Anubis offers him her shoulder: "Kebehet places him on her shoulder, she
 puts him down among the gardens (like) the herdmen of the calves," <span
-id="fr_366"></span>[5](#fn_366) a picture which we often see in the
+id="fr_366"></span>[5](#fn_366.md) a picture which we often see in the
 mastaba reliefs, as the cowherd wades cautiously across the canal,
 immersed to the waist, with a calf borne tenderly upon his shoulders,
 while the solicitous mother beast follows anxiously behind licking the
 flanks of the calf. Should all other means fail, Isis and Nephthys will
 offer their hips upon which the king mounts, while his father Atum
 reaches down and seizes the arm of the Pharaoh; <span
-id="fr_367"></span>[6](#fn_367) or the earth itself may rise under the
+id="fr_367"></span>[6](#fn_367.md) or the earth itself may rise under the
 feet of the
 
 <span id="page_114">p. 114</span>
 
 waiting king and lift him to the sky, where Tefnut grasps his arm <span
-id="fr_368"></span>[1](#fn_368) and leads him into the celestial fields.
+id="fr_368"></span>[1](#fn_368.md) and leads him into the celestial fields.
 
 But the possibility remained that the gates of the celestial country
 might not be opened to the new-comer. Over and over again we find the
 assurance that the double doors of the sky are opened before the
 Pharaoh: "Opened are the double doors of the horizon; unlocked are its
-bolts" <span id="fr_369"></span>[2](#fn_369) is a constant refrain in
+bolts" <span id="fr_369"></span>[2](#fn_369.md) is a constant refrain in
 the Pyramid Texts. That art which opened the door for Ali Baba and the
 Forty Thieves had opened many a gate in the ancient East, thousands of
 years before the Arabian Nights made it familiar to us of the western
 world. The king faces the gates with these words: "O lofty one, (Gate)
 whom no one names! Gate of Nut! King Teti is Shu who came forth from
 Atum. O Nun! (the primeval waters) cause that this (gate) be opened for
-king Teti." <span id="fr_370"></span>[3](#fn_370) "He causes that those
+king Teti." <span id="fr_370"></span>[3](#fn_370.md) "He causes that those
 double doors of the sky be opened for king Teti (by the following
 charm):
 
@@ -1415,7 +1415,7 @@ charm):
  Seize thou king Teti by his arm;  
  Take thou king Teti to the sky,  
  That he die not on earth,  
- Among men.'" <span id="fr_371"></span>[4](#fn_371)</span>
+ Among men.'" <span id="fr_371"></span>[4](#fn_371.md)</span>
 
 </div>
 
@@ -1429,19 +1429,19 @@ king Pepi, the double doors of the
 <span id="page_115">p. 115</span>
 
 firmament are thrown open to this king Pepi." <span
-id="fr_372"></span>[1](#fn_372) In the same way the approaching king is
+id="fr_372"></span>[1](#fn_372.md) In the same way the approaching king is
 identified with the four eastern Horuses one after the other, after
 which Re may be appealed to as his father: "O father of king Pepi, O Re!
 Take thou this king Pepi with thee for life to thy mother Nut, who opens
 the double doors of the sky to this king Pepi, who throws open the
 double doors of the firmament to this king Pepi." <span
-id="fr_373"></span>[2](#fn_373)
+id="fr_373"></span>[2](#fn_373.md)
 
 The difficulty of the gates and the ascension might, however, be met by
 an appeal of men directly to the Sun-god: "'Ho Re,' say men, when they
 stand beside this king Pepi on earth while thou appearest in the east of
 the sky, 'give thy arm to king Pepi; take thou him with thee to the east
-side of the sky.'" <span id="fr_374"></span>[3](#fn_374)
+side of the sky.'" <span id="fr_374"></span>[3](#fn_374.md)
 
 It will be seen that in spite of the conviction of life, abounding life,
 with which the Pyramid Texts are filled, they likewise reveal the
@@ -1459,11 +1459,11 @@ gods themselves, confronts the celestial realm and addresses the
 
 <span class="contnote">\[paragraph continues\]</span> Sun-god: "I know
 thy name. I am not ignorant of thy name. <span
-id="fr_375"></span>[1](#fn_375) 'Limitless' is thy name. The name of thy
+id="fr_375"></span>[1](#fn_375.md) 'Limitless' is thy name. The name of thy
 father is 'Possessor-of-Greatness.' Thy mother is 'Satisfaction,' who
 bears thee every morning. The birth of 'Limitless' in the horizon shall
 be prevented, if thou preventest this king Pepi from coming to the place
-where thou art." <span id="fr_376"></span>[2](#fn_376) The king wielding
+where thou art." <span id="fr_376"></span>[2](#fn_376.md) The king wielding
 his magical power thus makes himself sovereign of the universe and will
 stop the very rising ("birth") of the sun if he is halted at the gate of
 the Sun-god's realm. Far less impressive is the king's threat directed
@@ -1472,18 +1472,18 @@ and every god who shall oppose his arm to this king Pepi, when he
 ascends to the sky on the ladder of the god, the earth shall not be hoed
 for him, an offering shall not be brought for him, he shall not ferry
 over to the evening meal in Heliopolis, he shall not ferry over to the
-morning meal in Heliopolis." <span id="fr_377"></span>[3](#fn_377)
+morning meal in Heliopolis." <span id="fr_377"></span>[3](#fn_377.md)
 Likewise Kebehet, the daughter of Anubis, perched on the two uprights of
 the ladder, is adjured to "open the way of king Unis, that king Unis may
 pass by," and in the same words the "Ostrich on the shore of the
 Lily-lake" and the "Bull of Re, having four horns," one toward each of
 the cardinal points, are warned to make way for him. <span
-id="fr_378"></span>[4](#fn_378)
+id="fr_378"></span>[4](#fn_378.md)
 
 And so at last the departed king draws near the eastern shore of the
-Lily-lake, <span id="fr_379"></span>[5](#fn_379) and "this king Pepi
+Lily-lake, <span id="fr_379"></span>[5](#fn_379.md) and "this king Pepi
 finds the glorious by reason of their equipped mouths, <span
-id="fr_380"></span>[6](#fn_380) sitting on
+id="fr_380"></span>[6](#fn_380.md) sitting on
 
 <span id="page_117">p. 117</span>
 
@@ -1494,11 +1494,11 @@ equipped mouth." "'How has this happened to thee,' say they to king
 Pepi, . . . 'that thou hast come to this place more august than any
 place?' 'Pepi has come to this place more august than any place, because
 the two floats of the sky were placed,' says the morning-barque, 'for
-Re'"; <span id="fr_381"></span>[1](#fn_381) and at the story of his
+Re'"; <span id="fr_381"></span>[1](#fn_381.md) and at the story of his
 successful crossing as Re had crossed, the celestials break out into
-jubilee. <span id="fr_382"></span>[2](#fn_382) Thereupon the Pharaoh
+jubilee. <span id="fr_382"></span>[2](#fn_382.md) Thereupon the Pharaoh
 lands, takes up their manner of life, and sits before the palace ruling
-them. <span id="fr_383"></span>[3](#fn_383) Again we hear a solitary
+them. <span id="fr_383"></span>[3](#fn_383.md) Again we hear a solitary
 voice issuing from the world of the dead and challenging the king as he
 ascends and passes through the gates of the sky, led by Geb: "Ho! Whence
 comest thou, son of my father?" And another voice answers: "He has come
@@ -1513,26 +1513,26 @@ question for the last time: "Ho! Whence comest thou, son of my father?"
 and hanging breasts, who are on the mountain of Sehseh. They draw their
 breasts over the mouth of king Pepi, but they do not wean him forever."
 Thereafter the challenging voice is silent <span
-id="fr_384"></span>[4](#fn_384) and the Pharaoh enters the kingdom of
+id="fr_384"></span>[4](#fn_384.md) and the Pharaoh enters the kingdom of
 the sky.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_186"></span>[71:1](rtae07.htm#fr_186) BAR, I, 503.
+<span id="fn_186"></span>[71:1](rtae07.htm#fr_186.md) BAR, I, 503.
 
-<span id="fn_187"></span>[71:2](rtae07.htm#fr_187) BAR, III, 16, l. 5;
+<span id="fn_187"></span>[71:2](rtae07.htm#fr_187.md) BAR, III, 16, l. 5;
 Cairo Hymn to Amon, V, ll. 1–2, VIII, ll. 3–4; Piankhi Stela, l. 105 =
 BAR, IV, 871.
 
-<span id="fn_188"></span>[71:3](rtae07.htm#fr_188) Pyr. § 1652.
+<span id="fn_188"></span>[71:3](rtae07.htm#fr_188.md) Pyr. § 1652.
 
-<span id="fn_189"></span>[72:1](rtae07.htm#fr_189) Ut. 599 and 600.
+<span id="fn_189"></span>[72:1](rtae07.htm#fr_189.md) Ut. 599 and 600.
 Their content with quotations is given below, pp.
-[76](#page_76)–[77](#page_77).
+[76](#page_76)–[77](#page_77.md).
 
-<span id="fn_190"></span>[73:1](rtae07.htm#fr_190) It was published,
+<span id="fn_190"></span>[73:1](rtae07.htm#fr_190.md) It was published,
 without indication of its original position, by <span
 class="smallcaps">Maspero</span>, *Annales du Service des antiquités*,
 III, pp. 206 *ff*. and plate; see <span
@@ -1540,18 +1540,18 @@ class="smallcaps">Schaefer</span>, *Zeitschrift für aegypt. Sprache*,
 41, 84, who demonstrates its original position. This had also been noted
 in the author's *History of Egypt*, Fig. 94.
 
-<span id="fn_191"></span>[73:2](rtae07.htm#fr_191) The same inscription
+<span id="fn_191"></span>[73:2](rtae07.htm#fr_191.md) The same inscription
 is found accompanying the eyes on the outside of the Middle Kingdom
 coffin of Sebek-o at Berlin. (See <span
 class="smallcaps">Steindorff</span>, *Grabfunde des Mittleren Reichs*,
 II, 5, 1.)
 
-<span id="fn_192"></span>[73:3](rtae07.htm#fr_192) It is evident that
+<span id="fn_192"></span>[73:3](rtae07.htm#fr_192.md) It is evident that
 the identification of Osiris with the pyramid and temple in Pyr. §§
 1657–8 is secondary and another evidence of his intrusion in the Solar
 faith of which the Pyr. Texts furnish so many examples.
 
-<span id="fn_193"></span>[74:1](rtae07.htm#fr_193) There is possibly
+<span id="fn_193"></span>[74:1](rtae07.htm#fr_193.md) There is possibly
 another connection in which the pyramid form may be discerned as
 belonging to the Sun-god. The triangle of zodiacal light which some have
 claimed to be able to discover in the east at sunrise at certain times,
@@ -1561,33 +1561,33 @@ as a Solar symbol. The architectural evolution of the form through the
 compound mastaba, the terraced structure, like the so-called "terraced
 pyramid" of Sakkara, has long been understood.
 
-<span id="fn_194"></span>[74:2](rtae07.htm#fr_194) Pyr. Ut. 534, all of
+<span id="fn_194"></span>[74:2](rtae07.htm#fr_194.md) Pyr. Ut. 534, all of
 which is a long prayer intended to prevent the appropriation of pyramid,
 temple, and their possessions by Osiris or the gods of his cycle. This
 important Utterance is taken up again in connection with the dedication
-of the pyramid, pp. [75](#page_75)–[76](#page_76).
+of the pyramid, pp. [75](#page_75)–[76](#page_76.md).
 
-<span id="fn_195"></span>[76:1](rtae07.htm#fr_195) Pyr. §§ 1276–7.
+<span id="fn_195"></span>[76:1](rtae07.htm#fr_195.md) Pyr. §§ 1276–7.
 
-<span id="fn_196"></span>[76:2](rtae07.htm#fr_196) Pyr. § 1266.
+<span id="fn_196"></span>[76:2](rtae07.htm#fr_196.md) Pyr. § 1266.
 
-<span id="fn_197"></span>[76:3](rtae07.htm#fr_197) Pyr. Ut. 599.
+<span id="fn_197"></span>[76:3](rtae07.htm#fr_197.md) Pyr. Ut. 599.
 
-<span id="fn_198"></span>[77:1](rtae07.htm#fr_198) Pyr. Ut. 600.
+<span id="fn_198"></span>[77:1](rtae07.htm#fr_198.md) Pyr. Ut. 600.
 
-<span id="fn_199"></span>[77:2](rtae07.htm#fr_199) Pyr. Ut. 601.
+<span id="fn_199"></span>[77:2](rtae07.htm#fr_199.md) Pyr. Ut. 601.
 
-<span id="fn_200"></span>[77:3](rtae07.htm#fr_200) Pyr. § 2117.
+<span id="fn_200"></span>[77:3](rtae07.htm#fr_200.md) Pyr. § 2117.
 
-<span id="fn_201"></span>[77:4](rtae07.htm#fr_201) Ut. 26–203.
+<span id="fn_201"></span>[77:4](rtae07.htm#fr_201.md) Ut. 26–203.
 
-<span id="fn_202"></span>[79:1](rtae07.htm#fr_202) Pyr. Ut. 453.
+<span id="fn_202"></span>[79:1](rtae07.htm#fr_202.md) Pyr. Ut. 453.
 
-<span id="fn_203"></span>[79:2](rtae07.htm#fr_203) Pyr. Ut. 637.
+<span id="fn_203"></span>[79:2](rtae07.htm#fr_203.md) Pyr. Ut. 637.
 
-<span id="fn_204"></span>[79:3](rtae07.htm#fr_204) Pyr. Ut. 54.
+<span id="fn_204"></span>[79:3](rtae07.htm#fr_204.md) Pyr. Ut. 54.
 
-<span id="fn_205"></span>[79:4](rtae07.htm#fr_205) The ritual of
+<span id="fn_205"></span>[79:4](rtae07.htm#fr_205.md) The ritual of
 offerings, properly so called, in the Pyramid Texts, begins at Ut. 26
 and continues to Ut. 203. This ritual as a whole has received an Osirian
 editing and only Ut. 44 and 50 are clearly Solar. Each *Spruch*, or
@@ -1604,26 +1604,26 @@ the tomb in most cases (*e.g.*, Ut. 413). There is a group of twelve
 Utterances on food (Ut. 338–349), and a larger group concerned chiefly
 with the physical necessities (Ut. 401–426).
 
-<span id="fn_206"></span>[80:1](rtae07.htm#fr_206) Pyr. §§ 101 c, d.
+<span id="fn_206"></span>[80:1](rtae07.htm#fr_206.md) Pyr. §§ 101 c, d.
 
-<span id="fn_207"></span>[80:2](rtae07.htm#fr_207) Pyr. § 204.
+<span id="fn_207"></span>[80:2](rtae07.htm#fr_207.md) Pyr. § 204.
 
-<span id="fn_208"></span>[81:1](rtae07.htm#fr_208) Pyr. §§ 2117–18,
+<span id="fn_208"></span>[81:1](rtae07.htm#fr_208.md) Pyr. §§ 2117–18,
 restored from Pap. Schmitt.
 
-<span id="fn_209"></span>[81:2](rtae07.htm#fr_209) BAR, I, 173.
+<span id="fn_209"></span>[81:2](rtae07.htm#fr_209.md) BAR, I, 173.
 
-<span id="fn_210"></span>[82:1](rtae07.htm#fr_210) BAR, I, 241.
+<span id="fn_210"></span>[82:1](rtae07.htm#fr_210.md) BAR, I, 241.
 
-<span id="fn_211"></span>[82:2](rtae07.htm#fr_211) <span
+<span id="fn_211"></span>[82:2](rtae07.htm#fr_211.md) <span
 class="smallcaps">Borchardt</span>, *Das Grabdenkmal des Koenigs
 Sahure*, pp. 94 *ff*.
 
-<span id="fn_212"></span>[83:1](rtae07.htm#fr_212) Confer <span
+<span id="fn_212"></span>[83:1](rtae07.htm#fr_212.md) Confer <span
 class="smallcaps">Reisner</span>, *Boston Mus. of Fine Arts Bulletin*,
 IX, 16.
 
-<span id="fn_213"></span>[85:1](rtae07.htm#fr_213) <span
+<span id="fn_213"></span>[85:1](rtae07.htm#fr_213.md) <span
 class="smallcaps">Maspero</span>'S edition appeared in his journal, the
 *Recueil*, in volumes 3, 4, 5, 7, 8, 9, 10, 11, 12, and 14; it later
 appeared in a single volume. <span class="smallcaps">Sethe's</span>
@@ -1633,146 +1633,146 @@ further volumes containing translation and discussion of the texts, and
 with palæographic material by H. <span
 class="smallcaps">Schaefer</span>.
 
-<span id="fn_214"></span>[85:2](rtae07.htm#fr_214) Pyr. § 1245; see also
+<span id="fn_214"></span>[85:2](rtae07.htm#fr_214.md) Pyr. § 1245; see also
 § 1251.
 
-<span id="fn_215"></span>[86:1](rtae07.htm#fr_215) Pyr. § 1878 b.
+<span id="fn_215"></span>[86:1](rtae07.htm#fr_215.md) Pyr. § 1878 b.
 
-<span id="fn_216"></span>[86:2](rtae07.htm#fr_216) Pyr. § 747, same in §
+<span id="fn_216"></span>[86:2](rtae07.htm#fr_216.md) Pyr. § 747, same in §
 1732.
 
-<span id="fn_217"></span>[86:3](rtae07.htm#fr_217) Pyr. § 572.
+<span id="fn_217"></span>[86:3](rtae07.htm#fr_217.md) Pyr. § 572.
 
-<span id="fn_218"></span>[86:4](rtae07.htm#fr_218) Pyr. § 1488; this
+<span id="fn_218"></span>[86:4](rtae07.htm#fr_218.md) Pyr. § 1488; this
 passage was first remarked by <span class="smallcaps">Sethe</span> as
 showing the early date of the document, *Zeitschr. für aegypt. Sprache*,
 38, 64.
 
-<span id="fn_219"></span>[86:5](rtae07.htm#fr_219) Pyr. § 2037.
+<span id="fn_219"></span>[86:5](rtae07.htm#fr_219.md) Pyr. § 2037.
 
-<span id="fn_220"></span>[86:6](rtae07.htm#fr_220) Pyr. § 239.
+<span id="fn_220"></span>[86:6](rtae07.htm#fr_220.md) Pyr. § 239.
 
-<span id="fn_221"></span>[86:7](rtae07.htm#fr_221) Pyr. § 295.
+<span id="fn_221"></span>[86:7](rtae07.htm#fr_221.md) Pyr. § 295.
 
-<span id="fn_222"></span>[87:1](rtae07.htm#fr_222) Pyr. § 410.
+<span id="fn_222"></span>[87:1](rtae07.htm#fr_222.md) Pyr. § 410.
 
-<span id="fn_223"></span>[87:2](rtae07.htm#fr_223) Pyr. Ut. 524.
+<span id="fn_223"></span>[87:2](rtae07.htm#fr_223.md) Pyr. Ut. 524.
 
-<span id="fn_224"></span>[87:3](rtae07.htm#fr_224) Pyr. § 1084.
+<span id="fn_224"></span>[87:3](rtae07.htm#fr_224.md) Pyr. § 1084.
 
-<span id="fn_225"></span>[87:4](rtae07.htm#fr_225) Pyr. § 1087.
+<span id="fn_225"></span>[87:4](rtae07.htm#fr_225.md) Pyr. § 1087.
 
-<span id="fn_226"></span>[87:5](rtae07.htm#fr_226) Pyr. § 1179.
+<span id="fn_226"></span>[87:5](rtae07.htm#fr_226.md) Pyr. § 1179.
 
-<span id="fn_227"></span>[87:6](rtae07.htm#fr_227) Pyr. § 388.
+<span id="fn_227"></span>[87:6](rtae07.htm#fr_227.md) Pyr. § 388.
 
-<span id="fn_228"></span>[87:7](rtae07.htm#fr_228) Pyr. Ut. 599–600; see
-*infra*, pp. [75](#page_75)–[76](#page_76).
+<span id="fn_228"></span>[87:7](rtae07.htm#fr_228.md) Pyr. Ut. 599–600; see
+*infra*, pp. [75](#page_75)–[76](#page_76.md).
 
-<span id="fn_229"></span>[88:1](rtae07.htm#fr_229) Pyr. § 1189.
+<span id="fn_229"></span>[88:1](rtae07.htm#fr_229.md) Pyr. § 1189.
 
-<span id="fn_230"></span>[88:2](rtae07.htm#fr_230) Pyr. § 1216.
+<span id="fn_230"></span>[88:2](rtae07.htm#fr_230.md) Pyr. § 1216.
 
-<span id="fn_231"></span>[88:3](rtae07.htm#fr_231) Pyr. § 1348.
+<span id="fn_231"></span>[88:3](rtae07.htm#fr_231.md) Pyr. § 1348.
 
-<span id="fn_232"></span>[88:4](rtae07.htm#fr_232) Pyr. § 912.
+<span id="fn_232"></span>[88:4](rtae07.htm#fr_232.md) Pyr. § 912.
 
-<span id="fn_233"></span>[88:5](rtae07.htm#fr_233) Pyr. § 1048.
+<span id="fn_233"></span>[88:5](rtae07.htm#fr_233.md) Pyr. § 1048.
 
-<span id="fn_234"></span>[88:6](rtae07.htm#fr_234) Pyr. § 1484.
+<span id="fn_234"></span>[88:6](rtae07.htm#fr_234.md) Pyr. § 1484.
 
-<span id="fn_235"></span>[88:7](rtae07.htm#fr_235) Pyr. § 335.
+<span id="fn_235"></span>[88:7](rtae07.htm#fr_235.md) Pyr. § 335.
 
-<span id="fn_236"></span>[89:1](rtae07.htm#fr_236) Pyr. § 130.
+<span id="fn_236"></span>[89:1](rtae07.htm#fr_236.md) Pyr. § 130.
 
-<span id="fn_237"></span>[89:2](rtae07.htm#fr_237) Pyr. § 954.
+<span id="fn_237"></span>[89:2](rtae07.htm#fr_237.md) Pyr. § 954.
 
-<span id="fn_238"></span>[89:3](rtae07.htm#fr_238) Pyr. § 730.
+<span id="fn_238"></span>[89:3](rtae07.htm#fr_238.md) Pyr. § 730.
 
-<span id="fn_239"></span>[89:4](rtae07.htm#fr_239) Pyr. Ut. 323.
+<span id="fn_239"></span>[89:4](rtae07.htm#fr_239.md) Pyr. Ut. 323.
 
-<span id="fn_240"></span>[89:5](rtae07.htm#fr_240) Pyr., *passim*.
+<span id="fn_240"></span>[89:5](rtae07.htm#fr_240.md) Pyr., *passim*.
 
-<span id="fn_241"></span>[89:6](rtae07.htm#fr_241) Pyr. § 1197.
+<span id="fn_241"></span>[89:6](rtae07.htm#fr_241.md) Pyr. § 1197.
 
-<span id="fn_242"></span>[89:7](rtae07.htm#fr_242) Pyr. § 1123.
+<span id="fn_242"></span>[89:7](rtae07.htm#fr_242.md) Pyr. § 1123.
 
-<span id="fn_243"></span>[89:8](rtae07.htm#fr_243) Pyr. § 1563.
+<span id="fn_243"></span>[89:8](rtae07.htm#fr_243.md) Pyr. § 1563.
 
-<span id="fn_244"></span>[91:1](rtae07.htm#fr_244) Pyr. § 350.
+<span id="fn_244"></span>[91:1](rtae07.htm#fr_244.md) Pyr. § 350.
 
-<span id="fn_245"></span>[91:2](rtae07.htm#fr_245) Pyr. § 134.
+<span id="fn_245"></span>[91:2](rtae07.htm#fr_245.md) Pyr. § 134.
 
-<span id="fn_246"></span>[91:3](rtae07.htm#fr_246) Pyr. § 833.
+<span id="fn_246"></span>[91:3](rtae07.htm#fr_246.md) Pyr. § 833.
 
-<span id="fn_247"></span>[91:4](rtae07.htm#fr_247) Pyr. § 775.
+<span id="fn_247"></span>[91:4](rtae07.htm#fr_247.md) Pyr. § 775.
 
-<span id="fn_248"></span>[91:5](rtae07.htm#fr_248) Pyr. § 1464 c.
+<span id="fn_248"></span>[91:5](rtae07.htm#fr_248.md) Pyr. § 1464 c.
 
-<span id="fn_249"></span>[91:6](rtae07.htm#fr_249) Pyr. § 1468 c–d.
+<span id="fn_249"></span>[91:6](rtae07.htm#fr_249.md) Pyr. § 1468 c–d.
 
-<span id="fn_250"></span>[91:7](rtae07.htm#fr_250) Pyr. § 1477 b.
+<span id="fn_250"></span>[91:7](rtae07.htm#fr_250.md) Pyr. § 1477 b.
 
-<span id="fn_251"></span>[91:8](rtae07.htm#fr_251) Pyr. § 2201 c.
+<span id="fn_251"></span>[91:8](rtae07.htm#fr_251.md) Pyr. § 2201 c.
 
-<span id="fn_252"></span>[91:9](rtae07.htm#fr_252) Pyr. § 1975 b.
+<span id="fn_252"></span>[91:9](rtae07.htm#fr_252.md) Pyr. § 1975 b.
 
-<span id="fn_253"></span>[91:10](rtae07.htm#fr_253) Pyr. § 1453 a–h.
+<span id="fn_253"></span>[91:10](rtae07.htm#fr_253.md) Pyr. § 1453 a–h.
 
-<span id="fn_254"></span>[91:11](rtae07.htm#fr_254) Pyr. § 1262.
+<span id="fn_254"></span>[91:11](rtae07.htm#fr_254.md) Pyr. § 1262.
 
-<span id="fn_255"></span>[92:1](rtae07.htm#fr_255) Pyr. § 867.
+<span id="fn_255"></span>[92:1](rtae07.htm#fr_255.md) Pyr. § 867.
 
-<span id="fn_256"></span>[92:2](rtae07.htm#fr_256) Pyr. § 875.
+<span id="fn_256"></span>[92:2](rtae07.htm#fr_256.md) Pyr. § 875.
 
-<span id="fn_257"></span>[92:3](rtae07.htm#fr_257) Pyr. Ut. 464.
+<span id="fn_257"></span>[92:3](rtae07.htm#fr_257.md) Pyr. Ut. 464.
 
-<span id="fn_258"></span>[92:4](rtae07.htm#fr_258) See also Pyr. § 1090.
+<span id="fn_258"></span>[92:4](rtae07.htm#fr_258.md) See also Pyr. § 1090.
 
-<span id="fn_259"></span>[92:5](rtae07.htm#fr_259) Pyr. § 1335.
+<span id="fn_259"></span>[92:5](rtae07.htm#fr_259.md) Pyr. § 1335.
 
-<span id="fn_260"></span>[92:6](rtae07.htm#fr_260) Pyr. § 1466 d.
+<span id="fn_260"></span>[92:6](rtae07.htm#fr_260.md) Pyr. § 1466 d.
 
-<span id="fn_261"></span>[93:1](rtae07.htm#fr_261) Exactly 1051.
+<span id="fn_261"></span>[93:1](rtae07.htm#fr_261.md) Exactly 1051.
 
-<span id="fn_262"></span>[94:1](rtae07.htm#fr_262) Pyr. § 924 b.
+<span id="fn_262"></span>[94:1](rtae07.htm#fr_262.md) Pyr. § 924 b.
 
-<span id="fn_263"></span>[94:2](rtae07.htm#fr_263) Pyr. § 930 a.
+<span id="fn_263"></span>[94:2](rtae07.htm#fr_263.md) Pyr. § 930 a.
 
-<span id="fn_264"></span>[94:3](rtae07.htm#fr_264) Pyr. § 1318 c.
+<span id="fn_264"></span>[94:3](rtae07.htm#fr_264.md) Pyr. § 1318 c.
 
-<span id="fn_265"></span>[94:4](rtae07.htm#fr_265) Pyr. § 1324.
+<span id="fn_265"></span>[94:4](rtae07.htm#fr_265.md) Pyr. § 1324.
 
-<span id="fn_266"></span>[95:1](rtae07.htm#fr_266) Pyr. Ut. 678.
+<span id="fn_266"></span>[95:1](rtae07.htm#fr_266.md) Pyr. Ut. 678.
 
-<span id="fn_267"></span>[95:2](rtae07.htm#fr_267) Pyr. Ut. 456.
+<span id="fn_267"></span>[95:2](rtae07.htm#fr_267.md) Pyr. Ut. 456.
 
-<span id="fn_268"></span>[95:3](rtae07.htm#fr_268) Pyr. Ut. 429–435.
+<span id="fn_268"></span>[95:3](rtae07.htm#fr_268.md) Pyr. Ut. 429–435.
 
-<span id="fn_269"></span>[95:4](rtae07.htm#fr_269) <span
+<span id="fn_269"></span>[95:4](rtae07.htm#fr_269.md) <span
 class="smallcaps">Erman</span>, *Zauberspr. für Mutter and Kind,* 5,
 8–6, 8.
 
-<span id="fn_270"></span>[96:1](rtae07.htm#fr_270) Pyr. Ut. 637.
+<span id="fn_270"></span>[96:1](rtae07.htm#fr_270.md) Pyr. Ut. 637.
 
-<span id="fn_271"></span>[96:2](rtae07.htm#fr_271) See above, pp.
-[13](rtae05.htm#page_13)–[14](rtae05.htm#page_14).
+<span id="fn_271"></span>[96:2](rtae07.htm#fr_271.md) See above, pp.
+[13](rtae05.htm#page_13)–[14](rtae05.htm#page_14.md).
 
-<span id="fn_272"></span>[96:3](rtae07.htm#fr_272) Pyr. Ut. 427–435.
+<span id="fn_272"></span>[96:3](rtae07.htm#fr_272.md) Pyr. Ut. 427–435.
 
-<span id="fn_273"></span>[96:4](rtae07.htm#fr_273) Pyr. Ut. 581.
+<span id="fn_273"></span>[96:4](rtae07.htm#fr_273.md) Pyr. Ut. 581.
 
-<span id="fn_274"></span>[97:1](rtae07.htm#fr_274) Pyr. § 1363.
+<span id="fn_274"></span>[97:1](rtae07.htm#fr_274.md) Pyr. § 1363.
 
-<span id="fn_275"></span>[97:2](rtae07.htm#fr_275) Pyr. § 1365.
+<span id="fn_275"></span>[97:2](rtae07.htm#fr_275.md) Pyr. § 1365.
 
-<span id="fn_276"></span>[98:1](rtae07.htm#fr_276) Pyr. § 393.
+<span id="fn_276"></span>[98:1](rtae07.htm#fr_276.md) Pyr. § 393.
 
-<span id="fn_277"></span>[98:2](rtae07.htm#fr_277) Pyr. Ut. 456.
+<span id="fn_277"></span>[98:2](rtae07.htm#fr_277.md) Pyr. Ut. 456.
 
-<span id="fn_278"></span>[99:1](rtae07.htm#fr_278) Pyr. Ut. 605.
+<span id="fn_278"></span>[99:1](rtae07.htm#fr_278.md) Pyr. Ut. 605.
 
-<span id="fn_279"></span>[99:2](rtae07.htm#fr_279) The presence of the
+<span id="fn_279"></span>[99:2](rtae07.htm#fr_279.md) The presence of the
 word "mn" = "so and so" instead of the king's name (Pyr. § 147) does not
 necessarily indicate the use of the passage by *any* one, but simply
 shows that the priestly copyist, when first recording this text in his
@@ -1781,74 +1781,74 @@ copying it on the wall the draughtsman by oversight transferred the "so
 and so" from his manuscript to the wall, instead of changing it to the
 king's name.
 
-<span id="fn_280"></span>[100:1](rtae07.htm#fr_280) Pyr. § 873 *et al*.
+<span id="fn_280"></span>[100:1](rtae07.htm#fr_280.md) Pyr. § 873 *et al*.
 
-<span id="fn_281"></span>[100:2](rtae07.htm#fr_281) Pyr. §§ 745 a, 1833,
+<span id="fn_281"></span>[100:2](rtae07.htm#fr_281.md) Pyr. §§ 745 a, 1833,
 2198 b.
 
-<span id="fn_282"></span>[100:3](rtae07.htm#fr_282) E. g., §§ 650, 759.
-See *infra*, [p. 38](rtae05.htm#page_38).
+<span id="fn_282"></span>[100:3](rtae07.htm#fr_282.md) E. g., §§ 650, 759.
+See *infra*, [p. 38](rtae05.htm#page_38.md).
 
-<span id="fn_283"></span>[100:4](rtae07.htm#fr_283) Pyr. § 1355.
+<span id="fn_283"></span>[100:4](rtae07.htm#fr_283.md) Pyr. § 1355.
 
-<span id="fn_284"></span>[100:5](rtae07.htm#fr_284) Pyr. §§ 1531–2; see
+<span id="fn_284"></span>[100:5](rtae07.htm#fr_284.md) Pyr. §§ 1531–2; see
 also § 1703, where, by total inversion of the myth, the king is born in
 the west. Similarly in § 470 it is the western horn of the sky-bull that
 is removed for the passage of the dead.
 
-<span id="fn_285"></span>[100:6](rtae07.htm#fr_285) Pyr. § 306.
+<span id="fn_285"></span>[100:6](rtae07.htm#fr_285.md) Pyr. § 306.
 
-<span id="fn_286"></span>[100:7](rtae07.htm#fr_286) Pyr. § 919.
+<span id="fn_286"></span>[100:7](rtae07.htm#fr_286.md) Pyr. § 919.
 
-<span id="fn_287"></span>[101:1](rtae07.htm#fr_287) Pyr. § 2175.
+<span id="fn_287"></span>[101:1](rtae07.htm#fr_287.md) Pyr. § 2175.
 
-<span id="fn_288"></span>[101:2](rtae07.htm#fr_288) Pyr. § 1216.
+<span id="fn_288"></span>[101:2](rtae07.htm#fr_288.md) Pyr. § 1216.
 
-<span id="fn_289"></span>[101:3](rtae07.htm#fr_289) See the author's
+<span id="fn_289"></span>[101:3](rtae07.htm#fr_289.md) See the author's
 *History of Egypt*, p. 64.
 
-<span id="fn_290"></span>[101:4](rtae07.htm#fr_290) Pyr. § 1080.
+<span id="fn_290"></span>[101:4](rtae07.htm#fr_290.md) Pyr. § 1080.
 
-<span id="fn_291"></span>[101:5](rtae07.htm#fr_291) <span
+<span id="fn_291"></span>[101:5](rtae07.htm#fr_291.md) <span
 class="smallcaps">Borchardt</span>, in <span
 class="smallcaps">Erman</span>, *Handbuch der aegypt. Rel.*, p. 107.
 
-<span id="fn_292"></span>[102:1](rtae07.htm#fr_292) Pyr. Ut. 328, 329,
+<span id="fn_292"></span>[102:1](rtae07.htm#fr_292.md) Pyr. Ut. 328, 329,
 503.
 
-<span id="fn_293"></span>[102:2](rtae07.htm#fr_293) Pyr. § 1000.
+<span id="fn_293"></span>[102:2](rtae07.htm#fr_293.md) Pyr. § 1000.
 
-<span id="fn_294"></span>[102:3](rtae07.htm#fr_294) Pyr. § 1469.
+<span id="fn_294"></span>[102:3](rtae07.htm#fr_294.md) Pyr. § 1469.
 
-<span id="fn_295"></span>[102:4](rtae07.htm#fr_295) Pyr. § 604.
+<span id="fn_295"></span>[102:4](rtae07.htm#fr_295.md) Pyr. § 604.
 
-<span id="fn_296"></span>[103:1](rtae07.htm#fr_296) Pyr. §§ 27–29, 275,
+<span id="fn_296"></span>[103:1](rtae07.htm#fr_296.md) Pyr. §§ 27–29, 275,
 920–1; Ut. 323.
 
-<span id="fn_297"></span>[103:2](rtae07.htm#fr_297) Pyr. § 864.
+<span id="fn_297"></span>[103:2](rtae07.htm#fr_297.md) Pyr. § 864.
 
-<span id="fn_298"></span>[104:1](rtae07.htm#fr_298) Pyr. § 1116.
+<span id="fn_298"></span>[104:1](rtae07.htm#fr_298.md) Pyr. § 1116.
 
-<span id="fn_299"></span>[104:2](rtae07.htm#fr_299) Pyr. § 1187.
+<span id="fn_299"></span>[104:2](rtae07.htm#fr_299.md) Pyr. § 1187.
 
-<span id="fn_300"></span>[104:3](rtae07.htm#fr_300) Pyr. § 928.
+<span id="fn_300"></span>[104:3](rtae07.htm#fr_300.md) Pyr. § 928.
 
-<span id="fn_301"></span>[104:4](rtae07.htm#fr_301) Pyr. § 607.
+<span id="fn_301"></span>[104:4](rtae07.htm#fr_301.md) Pyr. § 607.
 
-<span id="fn_302"></span>[104:5](rtae07.htm#fr_302) Pyr. §§ 594–6, 947.
+<span id="fn_302"></span>[104:5](rtae07.htm#fr_302.md) Pyr. §§ 594–6, 947.
 
-<span id="fn_303"></span>[104:6](rtae07.htm#fr_303) Pyr. §§ 1343, 1440.
+<span id="fn_303"></span>[104:6](rtae07.htm#fr_303.md) Pyr. §§ 1343, 1440.
 
-<span id="fn_304"></span>[104:7](rtae07.htm#fr_304) Pyr. § 916.
+<span id="fn_304"></span>[104:7](rtae07.htm#fr_304.md) Pyr. § 916.
 
-<span id="fn_305"></span>[104:8](rtae07.htm#fr_305) Pyr. § 1433.
+<span id="fn_305"></span>[104:8](rtae07.htm#fr_305.md) Pyr. § 1433.
 
-<span id="fn_306"></span>[104:9](rtae07.htm#fr_306) Pyr. § 919.
+<span id="fn_306"></span>[104:9](rtae07.htm#fr_306.md) Pyr. § 919.
 
-<span id="fn_307"></span>[104:10](rtae07.htm#fr_307) Pyr. §§ 326, 883,
+<span id="fn_307"></span>[104:10](rtae07.htm#fr_307.md) Pyr. §§ 326, 883,
 1530.
 
-<span id="fn_308"></span>[104:11](rtae07.htm#fr_308) Pyr. § 1541. The
+<span id="fn_308"></span>[104:11](rtae07.htm#fr_308.md) Pyr. § 1541. The
 supremacy of the east is such that even the Osirian Isis and Nephthys
 appear as "the great and mighty pair, who are in the east of the sky"
 (Pyr. § 2200). In spite of the fact that Osiris is "First of the
@@ -1857,60 +1857,60 @@ and Nephthys, carry the dead into the east (Pyr. Ut. 702). In Pyr. §§
 1496–8 the east combines with the south and "the middle of the sky" as
 places where the ascent to the sky may be made.
 
-<span id="fn_309"></span>[105:1](rtae07.htm#fr_309) Pyr. § 595 b.
+<span id="fn_309"></span>[105:1](rtae07.htm#fr_309.md) Pyr. § 595 b.
 
-<span id="fn_310"></span>[105:2](rtae07.htm#fr_310) Pyr. § 2061 c.
+<span id="fn_310"></span>[105:2](rtae07.htm#fr_310.md) Pyr. § 2061 c.
 
-<span id="fn_311"></span>[105:3](rtae07.htm#fr_311) Pyr. §§ 802, 1376–7.
+<span id="fn_311"></span>[105:3](rtae07.htm#fr_311.md) Pyr. §§ 802, 1376–7.
 On the eastern position of this lake see also Pyr. Ut. 359. The chief
 references on the subject are Pyr. §§ 469 a, 543 b. 802 a, 1102 d, 1138
 d, 1162 d, 1228 d, 1376 c, 1345 c, 1441 a, 1084 b; Ut. 359.
 
-<span id="fn_312"></span>[105:4](rtae07.htm#fr_312) Pyr. § 6021.
+<span id="fn_312"></span>[105:4](rtae07.htm#fr_312.md) Pyr. § 6021.
 
-<span id="fn_313"></span>[105:5](rtae07.htm#fr_313) Pyr. § 926.
+<span id="fn_313"></span>[105:5](rtae07.htm#fr_313.md) Pyr. § 926.
 
-<span id="fn_314"></span>[105:6](rtae07.htm#fr_314) Pyr. §§ 1201, 1227.
+<span id="fn_314"></span>[105:6](rtae07.htm#fr_314.md) Pyr. §§ 1201, 1227.
 
-<span id="fn_315"></span>[106:1](rtae07.htm#fr_315) Pyr. § 1183.
+<span id="fn_315"></span>[106:1](rtae07.htm#fr_315.md) Pyr. § 1183.
 
-<span id="fn_316"></span>[106:2](rtae07.htm#fr_316) Pyr. § 1185.
+<span id="fn_316"></span>[106:2](rtae07.htm#fr_316.md) Pyr. § 1185.
 
-<span id="fn_317"></span>[106:3](rtae07.htm#fr_317) Pyr. § 1188.
+<span id="fn_317"></span>[106:3](rtae07.htm#fr_317.md) Pyr. § 1188.
 
-<span id="fn_318"></span>[106:4](rtae07.htm#fr_318) Pyr. § 1189.
+<span id="fn_318"></span>[106:4](rtae07.htm#fr_318.md) Pyr. § 1189.
 
-<span id="fn_319"></span>[106:5](rtae07.htm#fr_319) Pyr. §§ 1189–91.
+<span id="fn_319"></span>[106:5](rtae07.htm#fr_319.md) Pyr. §§ 1189–91.
 
-<span id="fn_320"></span>[106:6](rtae07.htm#fr_320) Pyr. § 1091.
+<span id="fn_320"></span>[106:6](rtae07.htm#fr_320.md) Pyr. § 1091.
 
-<span id="fn_321"></span>[106:7](rtae07.htm#fr_321) Pyr. §§ 599–600.
+<span id="fn_321"></span>[106:7](rtae07.htm#fr_321.md) Pyr. §§ 599–600.
 
-<span id="fn_322"></span>[107:1](rtae07.htm#fr_322) Pyr. Ut. 616.
+<span id="fn_322"></span>[107:1](rtae07.htm#fr_322.md) Pyr. Ut. 616.
 
-<span id="fn_323"></span>[107:2](rtae07.htm#fr_323) To know the name of
+<span id="fn_323"></span>[107:2](rtae07.htm#fr_323.md) To know the name of
 a god is to be able to control him.
 
-<span id="fn_324"></span>[107:3](rtae07.htm#fr_324) Pyr. § 1223. See
+<span id="fn_324"></span>[107:3](rtae07.htm#fr_324.md) Pyr. § 1223. See
 also: Pyr. §§ 597, 599, 697, 925, 946, 999, 1091, 1441, 1769, 1429, and
 Ut. 310, 516–522, 616.
 
-<span id="fn_325"></span>[107:4](rtae07.htm#fr_325) Pyr. § 387; see also
+<span id="fn_325"></span>[107:4](rtae07.htm#fr_325.md) Pyr. § 387; see also
 §§ 595–7, 1489, 1175.
 
-<span id="fn_326"></span>[107:5](rtae07.htm#fr_326) This is of course
+<span id="fn_326"></span>[107:5](rtae07.htm#fr_326.md) This is of course
 parallel with the designation, "Eye of Horus," which may also be applied
 to the boat. See Pyr. §§ 946, 445, 1769.
 
-<span id="fn_327"></span>[107:6](rtae07.htm#fr_327) Pyr. § 1432.
+<span id="fn_327"></span>[107:6](rtae07.htm#fr_327.md) Pyr. § 1432.
 
-<span id="fn_328"></span>[107:7](rtae07.htm#fr_328) Pyr. § 1433.
+<span id="fn_328"></span>[107:7](rtae07.htm#fr_328.md) Pyr. § 1433.
 
-<span id="fn_329"></span>[107:8](rtae07.htm#fr_329) Pyr. § 363.
+<span id="fn_329"></span>[107:8](rtae07.htm#fr_329.md) Pyr. § 363.
 
-<span id="fn_330"></span>[108:1](rtae07.htm#fr_330) Pyr. § 1472.
+<span id="fn_330"></span>[108:1](rtae07.htm#fr_330.md) Pyr. § 1472.
 
-<span id="fn_331"></span>[108:2](rtae07.htm#fr_331) The writer was once,
+<span id="fn_331"></span>[108:2](rtae07.htm#fr_331.md) The writer was once,
 like the Pharaoh, without a boat in Nubia, and a native from a
 neighboring village at once hurried away and returned with a pair of
 such floats made of dried reeds from the Nile shores. On this somewhat
@@ -1922,58 +1922,58 @@ in daily use on the ancient river in far-off Nubia. There can be no
 doubt that this is the craft so often called the "two sḥnwy" (dual) in
 the Pyr. Texts.
 
-<span id="fn_332"></span>[108:3](rtae07.htm#fr_332) Pyr. § 1105.
+<span id="fn_332"></span>[108:3](rtae07.htm#fr_332.md) Pyr. § 1105.
 
-<span id="fn_333"></span>[108:4](rtae07.htm#fr_333) Pyr. § 1026.
+<span id="fn_333"></span>[108:4](rtae07.htm#fr_333.md) Pyr. § 1026.
 
-<span id="fn_334"></span>[109:1](rtae07.htm#fr_334) Pyr. § 337. The
+<span id="fn_334"></span>[109:1](rtae07.htm#fr_334.md) Pyr. § 337. The
 floats were a favorite means of crossing; they are found frequently in
 the Pyramid Texts. See besides the above passages also §§ 342, 351, 358,
 464, 926–7, 932–5, 999–1000, 1085–6, 1103, 1705.
 
-<span id="fn_335"></span>[109:2](rtae07.htm#fr_335) Pyr. § 1048.
+<span id="fn_335"></span>[109:2](rtae07.htm#fr_335.md) Pyr. § 1048.
 
-<span id="fn_336"></span>[109:3](rtae07.htm#fr_336) Pyr. §§ 890–1.
+<span id="fn_336"></span>[109:3](rtae07.htm#fr_336.md) Pyr. §§ 890–1.
 
-<span id="fn_337"></span>[109:4](rtae07.htm#fr_337) Pyr. § 1772.
+<span id="fn_337"></span>[109:4](rtae07.htm#fr_337.md) Pyr. § 1772.
 
-<span id="fn_338"></span>[109:5](rtae07.htm#fr_338) Pyr. § 1778.
+<span id="fn_338"></span>[109:5](rtae07.htm#fr_338.md) Pyr. § 1778.
 
-<span id="fn_339"></span>[109:6](rtae07.htm#fr_339) Pyr. § 137.
+<span id="fn_339"></span>[109:6](rtae07.htm#fr_339.md) Pyr. § 137.
 
-<span id="fn_340"></span>[109:7](rtae07.htm#fr_340) Pyr. § 913.
+<span id="fn_340"></span>[109:7](rtae07.htm#fr_340.md) Pyr. § 913.
 
-<span id="fn_341"></span>[109:8](rtae07.htm#fr_341) Pyr. § 1484.
+<span id="fn_341"></span>[109:8](rtae07.htm#fr_341.md) Pyr. § 1484.
 
-<span id="fn_342"></span>[110:1](rtae07.htm#fr_342) Pyr. § 1122.
+<span id="fn_342"></span>[110:1](rtae07.htm#fr_342.md) Pyr. § 1122.
 
-<span id="fn_343"></span>[110:2](rtae07.htm#fr_343) Pyr. § 366.
+<span id="fn_343"></span>[110:2](rtae07.htm#fr_343.md) Pyr. § 366.
 
-<span id="fn_344"></span>[110:3](rtae07.htm#fr_344) Pyr. § 461.
+<span id="fn_344"></span>[110:3](rtae07.htm#fr_344.md) Pyr. § 461.
 
-<span id="fn_345"></span>[110:4](rtae07.htm#fr_345) Pyr. § 463.
+<span id="fn_345"></span>[110:4](rtae07.htm#fr_345.md) Pyr. § 463.
 
-<span id="fn_346"></span>[110:5](rtae07.htm#fr_346) Pyr. § 309.
+<span id="fn_346"></span>[110:5](rtae07.htm#fr_346.md) Pyr. § 309.
 
-<span id="fn_347"></span>[110:6](rtae07.htm#fr_347) Pyr. § 336.
+<span id="fn_347"></span>[110:6](rtae07.htm#fr_347.md) Pyr. § 336.
 
-<span id="fn_348"></span>[110:7](rtae07.htm#fr_348) Pyr. § 1774.
+<span id="fn_348"></span>[110:7](rtae07.htm#fr_348.md) Pyr. § 1774.
 
-<span id="fn_349"></span>[110:8](rtae07.htm#fr_349) Pyr. § 365.
+<span id="fn_349"></span>[110:8](rtae07.htm#fr_349.md) Pyr. § 365.
 
-<span id="fn_350"></span>[110:9](rtae07.htm#fr_350) Pyr. § 1108.
+<span id="fn_350"></span>[110:9](rtae07.htm#fr_350.md) Pyr. § 1108.
 
-<span id="fn_351"></span>[110:10](rtae07.htm#fr_351) Pyr. § 751.
+<span id="fn_351"></span>[110:10](rtae07.htm#fr_351.md) Pyr. § 751.
 
-<span id="fn_352"></span>[110:11](rtae07.htm#fr_352) Pyr. § 547.
+<span id="fn_352"></span>[110:11](rtae07.htm#fr_352.md) Pyr. § 547.
 
-<span id="fn_353"></span>[110:12](rtae07.htm#fr_353) Pyr. § 365.
+<span id="fn_353"></span>[110:12](rtae07.htm#fr_353.md) Pyr. § 365.
 
-<span id="fn_354"></span>[110:13](rtae07.htm#fr_354) Pyr. § 1090.
+<span id="fn_354"></span>[110:13](rtae07.htm#fr_354.md) Pyr. § 1090.
 
-<span id="fn_355"></span>[110:14](rtae07.htm#fr_355) Pyr. § 324.
+<span id="fn_355"></span>[110:14](rtae07.htm#fr_355.md) Pyr. § 324.
 
-<span id="fn_356"></span>[111:1](rtae07.htm#fr_356) All the preceding
+<span id="fn_356"></span>[111:1](rtae07.htm#fr_356.md) All the preceding
 from Pyr. Ut. 539. It seems impossible to separate these primitive means
 of reaching the sky from the similar or identical means employed in
 later astral theology in the Mediterranean. They have survived in the
@@ -1984,12 +1984,12 @@ next paragraph was a common device in astral mortuary theology. (See
 <span class="smallcaps">Cumont</span>, *Astrology and Religion*, p.
 184.)
 
-<span id="fn_357"></span>[111:2](rtae07.htm#fr_357) Pyr. § 390;
+<span id="fn_357"></span>[111:2](rtae07.htm#fr_357.md) Pyr. § 390;
 similarly the ladder is associated with Heliopolis in Pyr. § 978.
 
-<span id="fn_358"></span>[111:3](rtae07.htm#fr_358) Pyr. § 2083.
+<span id="fn_358"></span>[111:3](rtae07.htm#fr_358.md) Pyr. § 2083.
 
-<span id="fn_359"></span>[112:1](rtae07.htm#fr_359) Pyr. §§ 2078–81. The
+<span id="fn_359"></span>[112:1](rtae07.htm#fr_359.md) Pyr. §§ 2078–81. The
 exhortation at the end is addressed to the four sons of Horus of
 Letopolis, Imset, Hapi, Dewamutef, and Kebehsenuf, who made the ladders.
 Some of the names and epithets are obscure; the two lions are Shu and
@@ -1997,81 +1997,81 @@ Tefnut, see § 696 c and parallels. The Solar character of the ladder is
 evident in this passage also, which is one of the indications that the
 four sons of Horus are of Solar origin. Even in Osirianized passages the
 Solar origin of the ladder is unequivocal. See especially Pyr. § 472;
-also § 971 and *infra*, [p. 153](rtae09.htm#page_153).
+also § 971 and *infra*, [p. 153](rtae09.htm#page_153.md).
 
-<span id="fn_360"></span>[112:2](rtae07.htm#fr_360) Pyr. § 1253. In §
+<span id="fn_360"></span>[112:2](rtae07.htm#fr_360.md) Pyr. § 1253. In §
 971 it is called "ladder of Set," though as a pendant to this it is also
 called "ladder of Horus." Throughout this Utterance (478), however, it
 is afterward called the "ladder of Set," and it is evidently regarded as
 his, even though Osiris climbs it. Is this another form of the tradition
 that Set was forced to carry Osiris?
 
-<span id="fn_361"></span>[112:3](rtae07.htm#fr_361) Pyr. § 468; besides
+<span id="fn_361"></span>[112:3](rtae07.htm#fr_361.md) Pyr. § 468; besides
 the preceding references see also Pyr. § 1431, where the ladder is
 called "Ascender to the sky."
 
-<span id="fn_362"></span>[113:1](rtae07.htm#fr_362) Pyr. §§ 1473–4.
+<span id="fn_362"></span>[113:1](rtae07.htm#fr_362.md) Pyr. §§ 1473–4.
 
-<span id="fn_363"></span>[113:2](rtae07.htm#fr_363) For the
-interpretation of this equipment, see [p. 61](rtae06.htm#page_61), note
-[3](rtae06.htm#fn_169).
+<span id="fn_363"></span>[113:2](rtae07.htm#fr_363.md) For the
+interpretation of this equipment, see [p. 61](rtae06.htm#page_61.md), note
+[3](rtae06.htm#fn_169.md).
 
-<span id="fn_364"></span>[113:3](rtae07.htm#fr_364) Pyr. §§ 476–9.
+<span id="fn_364"></span>[113:3](rtae07.htm#fr_364.md) Pyr. §§ 476–9.
 
-<span id="fn_365"></span>[113:4](rtae07.htm#fr_365) Pyr. § 1101.
+<span id="fn_365"></span>[113:4](rtae07.htm#fr_365.md) Pyr. § 1101.
 
-<span id="fn_366"></span>[113:5](rtae07.htm#fr_366) Pyr. § 1348.
+<span id="fn_366"></span>[113:5](rtae07.htm#fr_366.md) Pyr. § 1348.
 
-<span id="fn_367"></span>[113:6](rtae07.htm#fr_367) Pyr. §§ 379–380.
+<span id="fn_367"></span>[113:6](rtae07.htm#fr_367.md) Pyr. §§ 379–380.
 
-<span id="fn_368"></span>[114:1](rtae07.htm#fr_368) Pyr. § 990.
+<span id="fn_368"></span>[114:1](rtae07.htm#fr_368.md) Pyr. § 990.
 
-<span id="fn_369"></span>[114:2](rtae07.htm#fr_369) Pyr. § 194.
+<span id="fn_369"></span>[114:2](rtae07.htm#fr_369.md) Pyr. § 194.
 
-<span id="fn_370"></span>[114:3](rtae07.htm#fr_370) Pyr. § 603.
+<span id="fn_370"></span>[114:3](rtae07.htm#fr_370.md) Pyr. § 603.
 
-<span id="fn_371"></span>[114:4](rtae07.htm#fr_371) Pyr. § 604.
+<span id="fn_371"></span>[114:4](rtae07.htm#fr_371.md) Pyr. § 604.
 
-<span id="fn_372"></span>[115:1](rtae07.htm#fr_372) Pyr. § 1408.
+<span id="fn_372"></span>[115:1](rtae07.htm#fr_372.md) Pyr. § 1408.
 
-<span id="fn_373"></span>[115:2](rtae07.htm#fr_373) Pyr. §§ 1479–80.
+<span id="fn_373"></span>[115:2](rtae07.htm#fr_373.md) Pyr. §§ 1479–80.
 There are four Utterances which are built up on the four Horuses: 325,
 563, and 479, which are of the same general structure; and 573 of
 different structure, in which the identification of the king with the
 four Horuses perhaps takes place. On the latter see also *infra*, pp.
-[154](rtae09.htm#page_154)–6.
+[154](rtae09.htm#page_154.md)–6.
 
-<span id="fn_374"></span>[115:3](rtae07.htm#fr_374) Pyr. § 1496.
+<span id="fn_374"></span>[115:3](rtae07.htm#fr_374.md) Pyr. § 1496.
 
-<span id="fn_375"></span>[116:1](rtae07.htm#fr_375) To know the name of
+<span id="fn_375"></span>[116:1](rtae07.htm#fr_375.md) To know the name of
 a god was to hold sway over him.
 
-<span id="fn_376"></span>[116:2](rtae07.htm#fr_376) Pyr. §§ 1434–5.
+<span id="fn_376"></span>[116:2](rtae07.htm#fr_376.md) Pyr. §§ 1434–5.
 Compare similar threatening of the Sun-god, *infra*, [p.
-308](rtae12.htm#page_308).
+308](rtae12.htm#page_308.md).
 
-<span id="fn_377"></span>[116:3](rtae07.htm#fr_377) Pyr. § 978.
+<span id="fn_377"></span>[116:3](rtae07.htm#fr_377.md) Pyr. § 978.
 
-<span id="fn_378"></span>[116:4](rtae07.htm#fr_378) Pyr. §§ 468–471; see
+<span id="fn_378"></span>[116:4](rtae07.htm#fr_378.md) Pyr. §§ 468–471; see
 also §§ 504, 1432, and 914.
 
-<span id="fn_379"></span>[116:5](rtae07.htm#fr_379) This was the case
+<span id="fn_379"></span>[116:5](rtae07.htm#fr_379.md) This was the case
 whether he ferried over by boat or employed the ladder; for the latter
 was set up in the east, and the ascent was made there; *e.g.*, Pyr. §
 928.
 
-<span id="fn_380"></span>[116:6](rtae07.htm#fr_380) For the explanation
-of this term see [p. 94](#page_94).
+<span id="fn_380"></span>[116:6](rtae07.htm#fr_380.md) For the explanation
+of this term see [p. 94](#page_94.md).
 
-<span id="fn_381"></span>[117:1](rtae07.htm#fr_381) Pyr. §§ 930–2.
+<span id="fn_381"></span>[117:1](rtae07.htm#fr_381.md) Pyr. §§ 930–2.
 
-<span id="fn_382"></span>[117:2](rtae07.htm#fr_382) Pyr. § 935.
+<span id="fn_382"></span>[117:2](rtae07.htm#fr_382.md) Pyr. § 935.
 
-<span id="fn_383"></span>[117:3](rtae07.htm#fr_383) Pyr. §§ 936–8.
+<span id="fn_383"></span>[117:3](rtae07.htm#fr_383.md) Pyr. §§ 936–8.
 
-<span id="fn_384"></span>[117:4](rtae07.htm#fr_384) Pyr. §§ 1116–19.
+<span id="fn_384"></span>[117:4](rtae07.htm#fr_384.md) Pyr. §§ 1116–19.
 
 ------------------------------------------------------------------------
 
 [Next: Lecture IV. Realms of the Dead—The Earliest Celestial
-Hereafter](rtae08)
+Hereafter](rtae08.md)

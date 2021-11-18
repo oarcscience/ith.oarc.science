@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr29) 
-[Next](idr31) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr29.md) 
+[Next](idr31.md) 
 
 ------------------------------------------------------------------------
 
@@ -236,4 +236,4 @@ The Gael shall say, 'Our Fenians here
 
 ------------------------------------------------------------------------
 
-[Next: Round Tower Creed](idr31)
+[Next: Round Tower Creed](idr31.md)

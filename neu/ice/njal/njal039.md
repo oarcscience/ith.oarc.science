@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal038)  [Next](njal040) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal038)  [Next](njal040.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ said much ill would come of it, if she might have her way.
 
 ------------------------------------------------------------------------
 
-[Next: 40. Gunnar And Njal Make Peace About Brynjolf's Slaying](njal040)
+[Next: 40. Gunnar And Njal Make Peace About Brynjolf's Slaying](njal040.md)

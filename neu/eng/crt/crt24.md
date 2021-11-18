@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt23)  [Next](crt25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt23)  [Next](crt25.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_18400"></span>
 
 [![Sir Lamorack of Gales](tn/18400.jpg)  
-Click to enlarge](img/18400.jpg)  
+Click to enlarge](img/18400.jpg.md)  
 Sir Lamorack of Gales  
 
 <span id="page_185">p. 185</span>
@@ -198,7 +198,7 @@ of Sir Lamorack, and in that affair at arms twenty of the best knights,
 | *Sir Lamorack does famous battle*. |
 
 both of Cornwall and the countries circumadjacent, took
-[the](errata.htm#2) field to hold it against all comers. Of these
+[the](errata.htm#2.md) field to hold it against all comers. Of these
 knights, several were well-known champions, so that they maintained the
 field for a long while, to the great credit both of themselves and of
 Cornwall. But some while after the prime of day, there came Sir Lamorack
@@ -553,4 +553,4 @@ aforetold.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Second](crt25)
+[Next: Chapter Second](crt25.md)

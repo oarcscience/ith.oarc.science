@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh08)  [Next](boh10) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh08)  [Next](boh10.md) 
 
 ------------------------------------------------------------------------
 
@@ -502,4 +502,4 @@ And Niam calling: 'Away, come away.'"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: In Scotland and the Hebrides](boh10)
+[Next: Chapter VIII: In Scotland and the Hebrides](boh10.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb18)  [Next](mlb20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb18)  [Next](mlb20.md) 
 
 ------------------------------------------------------------------------
 
@@ -793,4 +793,4 @@ That was 'Harey's' epitaph.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII: Legends of the Tortoise](mlb20)
+[Next: Chapter XVIII: Legends of the Tortoise](mlb20.md)

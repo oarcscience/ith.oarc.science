@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai17)  [Next](iai19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai17)  [Next](iai19.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ The sounds of wild rejoicing now arise;
 "Heabani comes!" resound the joyful cries,  
 And through the gates of Erech Suburi  
 Now file the chieftains, Su-khu-li rubi. <span
-id="fr_162"></span>[1](#fn_162)  
+id="fr_162"></span>[1](#fn_162.md)  
 A festival in honor of their guest  
 The Sar proclaims, and Erech gaily drest,  
 Her welcome warm extends to the famed seer.  
@@ -62,14 +62,14 @@ To hear the seer explain their monarch's dream.
 Beside the royal throne he sits supreme  
 Among the seers, the Sar, his scribe commands  
 To read his dream recorded as it stands  
-In Erech's Gi; <span id="fr_163"></span>[2](#fn_163) who reads it to the
+In Erech's Gi; <span id="fr_163"></span>[2](#fn_163.md) who reads it to the
 seer,  
 Who answers thus:  
                        "In this there doth appear  
 A god, whose ardent love will lead to deeds  
 Of hate against thee, Sar; thy present needs  
 Are great, O king! as fire this love will burn  
-Until the wicked seven <span id="fr_164"></span>[3](#fn_164) on thee
+Until the wicked seven <span id="fr_164"></span>[3](#fn_164.md) on thee
 turn;  
 And blood, alone, will not their fury sate:  
 The gods will hurl upon thee some dread fate."  
@@ -80,7 +80,7 @@ Of Ishtar's love for him by man unseen;
 When she so wildly then proclaimed her love;  
 And now with hate his utmost soul doth move,  
 And her bright form to a black dal-khu <span
-id="fr_165"></span>[4](#fn_165) turned  
+id="fr_165"></span>[4](#fn_165.md) turned  
 And furious passions on his features burned.  
 And then of the first dream he thought, and light  
 Across his vision broke:  
@@ -107,19 +107,19 @@ Then to the waiting feast we all shall go."
 
 ### Footnotes
 
-<span id="fn_162"></span>[50:1](iai18.htm#fr_162) "Su-khu-li ru-bi,"
+<span id="fn_162"></span>[50:1](iai18.htm#fr_162.md) "Su-khu-li ru-bi,"
 attendants of the King.
 
-<span id="fn_163"></span>[51:2](iai18.htm#fr_163) "Gi," literally a
+<span id="fn_163"></span>[51:2](iai18.htm#fr_163.md) "Gi," literally a
 written tablet, a record.
 
-<span id="fn_164"></span>[51:3](iai18.htm#fr_164) The seven wicked
+<span id="fn_164"></span>[51:3](iai18.htm#fr_164.md) The seven wicked
 spirits of the earth, air, and ocean.
 
-<span id="fn_165"></span>[51:4](iai18.htm#fr_165) "Dal-khu," an evil
+<span id="fn_165"></span>[51:4](iai18.htm#fr_165.md) "Dal-khu," an evil
 spirit, a demon.
 
 ------------------------------------------------------------------------
 
 [Next: Column VI. Izdubar Slays The Midannu In The Festive Hall, And
-Heabani Declares Him To Be A God](iai19)
+Heabani Declares Him To Be A God](iai19.md)

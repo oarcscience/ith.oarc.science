@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre61)  [Next](gre63) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre61)  [Next](gre63.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ So in the autumn Grettir went south to the Marshes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LVIII: Grettir in Fairwood-fell](gre63)
+[Next: Chapter LVIII: Grettir in Fairwood-fell](gre63.md)

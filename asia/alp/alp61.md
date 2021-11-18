@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp60) 
-[Next](alp62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp60.md) 
+[Next](alp62.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ The Seven Wise Men's complaints told one by one!
 
 ------------------------------------------------------------------------
 
-[Next: The Lake of Van](alp62)
+[Next: The Lake of Van](alp62.md)

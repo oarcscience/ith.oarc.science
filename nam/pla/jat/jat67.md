@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat66)  [Next](jat68) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat66)  [Next](jat68.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ Cimarron with the meat. They set to work and made many arrows.
 
 ------------------------------------------------------------------------
 
-[Next: 66. A Successful Hunt](jat68)
+[Next: 66. A Successful Hunt](jat68.md)

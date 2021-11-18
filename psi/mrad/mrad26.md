@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad25)  [Next](mrad27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad25)  [Next](mrad27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -129,7 +129,7 @@ I think that if you will go back and look over those drawings as a
 whole, you must admit that the objects were as varied as the imagination
 could make them. I do not see how any one could choose a set of objects
 less likely to be guessed than the series which I have numbered from
-[5](mrad03.htm#img_fig005) to [12](mrad03.htm#img_fig012)—a bird's nest
+[5](mrad03.htm#img_fig005) to [12](mrad03.htm#img_fig012.md)—a bird's nest
 full of eggs and surrounded
 
 <span id="page_226">p. 226</span>
@@ -324,4 +324,4 @@ whole life has been based."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI](mrad27)
+[Next: Chapter XXVI](mrad27.md)

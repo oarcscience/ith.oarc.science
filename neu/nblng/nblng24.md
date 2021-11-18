@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng23)  [Next](nblng25) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng23)  [Next](nblng25.md) 
 
 ------------------------------------------------------------------------
 
@@ -234,4 +234,4 @@ known of him. See W. Grimm, "Heldensage", 103.
 ------------------------------------------------------------------------
 
 [Next: Adventure XXIII: How Kriemhild Thought To Avenge Her
-Wrongs.](nblng25)
+Wrongs.](nblng25.md)

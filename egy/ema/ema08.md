@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ema07)  [Next](ema09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ema07)  [Next](ema09.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,7 +86,7 @@ unguents and other materials employed in the process, and the words of
 power which were spoken as each bandage was laid in its place, we must
 have, recourse to a very interesting papyrus which has been edited and
 translated by M. Maspero under the title of *Le Rituel de
-l'Embaumement*. <span id="fr_130"></span>[1](#fn_130) The first part of
+l'Embaumement*. <span id="fr_130"></span>[1](#fn_130.md) The first part of
 the papyrus, which probably gave instructions for the evisceration of
 the body, is wanting, and only the section which refers to the bandaging
 is at all perfect. The text opens with an address to the deceased in
@@ -275,7 +275,7 @@ the deceased.
 
 <span id="page_193">p. 193</span>
 
-\(4\) *The Sa-mer-ef*, <span id="fr_131"></span>[1](#fn_131) or man who
+\(4\) *The Sa-mer-ef*, <span id="fr_131"></span>[1](#fn_131.md) or man who
 was either the son of the deceased or his representative. (5) The
 *Tcherau-ur*, or woman who represented Isis. (6) The *Tcherau-sheraut*,
 or woman who represented Nephthys. (7) The *Menhu*, or slaughterer. (8)
@@ -286,8 +286,8 @@ connexion with the burial of Osiris, with whom the deceased is now
 identified; the two women took the parts of the goddesses Isis and
 Nephthys, and the men those of the gods who helped them in the
 performance of their pious duties. From the scenes <span
-id="fr_132"></span>[2](#fn_132) which accompany the texts <span
-id="fr_133"></span>[3](#fn_133) relating to the ceremony of opening the
+id="fr_132"></span>[2](#fn_132.md) which accompany the texts <span
+id="fr_133"></span>[3](#fn_133.md) relating to the ceremony of opening the
 mouth and eyes we see that it began with the sprinkling of water round
 about the statue or mummy from four vessels, one for each quarter of the
 earth, and with the recital of addresses to the gods Horus, Set, Thoth,
@@ -305,11 +305,11 @@ couch pretended to be asleep; but he was roused up by the *Am-asi*
 priest in the presence of the *Kher-heb* and the *Am-khent* priest, and
 when the *Sem* priest had seated himself upon a seat, the four men
 together represented the four children of Horus, <span
-id="fr_134"></span>[1](#fn_134) or the gods with the heads of a hawk, an
+id="fr_134"></span>[1](#fn_134.md) or the gods with the heads of a hawk, an
 ape, a jackal, and a man respectively. The *Sem* priest then said, "I
 have seen my father in all his forms," which the other men in turn
 repeat. The meaning of this portion of the ceremony is hard to explain,
-but M. Maspero <span id="fr_135"></span>[2](#fn_135) thinks that it was
+but M. Maspero <span id="fr_135"></span>[2](#fn_135.md) thinks that it was
 intended to bring back to the body of the deceased its shadow
 (*khaibit*), which had departed from it when it died. The preliminary
 purifications being ended, and the shadow having been joined to the body
@@ -506,12 +506,12 @@ remain soft for all time, and so that the curative properties of the oil
 might heal the wounds which the mummifiers had made. A glance at the
 medical papyri of Egypt will shew that oil appears in scores of
 prescriptions, and it was no less useful to the magician <span
-id="fr_136"></span>[1](#fn_136) than to the physician in producing good
+id="fr_136"></span>[1](#fn_136.md) than to the physician in producing good
 or evil results. It seems to have been used with the idea of effecting
 transformations by the former, just as it was employed by the priest in
 the performance of certain important religious ceremonies, and a curious
 survival of this use is mentioned by Lucian, <span
-id="fr_137"></span>[2](#fn_137) who relates that a woman transformed
+id="fr_137"></span>[2](#fn_137.md) who relates that a woman transformed
 herself into a night-raven by its means. The woman first undressed
 herself, and going to a lamp threw two grains of incense into the flame
 and recited certain words; she then went to a large chest containing
@@ -525,7 +525,7 @@ night-raven,
 
 <span id="page_205">p. 205</span>
 
-disappeared through the window. <span id="fr_138"></span>[1](#fn_138) In
+disappeared through the window. <span id="fr_138"></span>[1](#fn_138.md) In
 connexion with the recital of certain Chapters of the Book of the Dead a
 number of interesting ceremonies were performed, but as they only
 illustrate the beliefs described above they need not be mentioned here.
@@ -534,34 +534,34 @@ illustrate the beliefs described above they need not be mentioned here.
 
 ### Footnotes
 
-<span id="fn_130"></span>[185:1](ema08.htm#fr_130) *In Mémoire sur
+<span id="fn_130"></span>[185:1](ema08.htm#fr_130.md) *In Mémoire sur
 quelques Papyrus du Louvre*, Paris, 1875.
 
-<span id="fn_131"></span>[193:1](ema08.htm#fr_131) *I.e.*, "the son who
+<span id="fn_131"></span>[193:1](ema08.htm#fr_131.md) *I.e.*, "the son who
 loveth him."
 
-<span id="fn_132"></span>[193:2](ema08.htm#fr_132) See Dümichen, *Der
+<span id="fn_132"></span>[193:2](ema08.htm#fr_132.md) See Dümichen, *Der
 Grabpalast des Patuamenap*, Leipzig, vol. i., 1884; vol. ii., 1885; vol.
 iii., 1891; and Champollion, *Monuments*, Paris, 1845, tom. iii., plates
 213-248.
 
-<span id="fn_133"></span>[193:3](ema08.htm#fr_133) See Schiaparelli, *Il
+<span id="fn_133"></span>[193:3](ema08.htm#fr_133.md) See Schiaparelli, *Il
 Libro dei Funerali degli antichi Egiziani*, Turin, 1882; see also
 Maspero, *Le Rituel du sacrifice funéraire* (*Revue de l'Histoire des
 Religions*, tom. xv., p. 159 ff.).
 
-<span id="fn_134"></span>[194:1](ema08.htm#fr_134) *I.e.*, Mestha, Hâpi,
+<span id="fn_134"></span>[194:1](ema08.htm#fr_134.md) *I.e.*, Mestha, Hâpi,
 Tuamutef and Qebhsennuf.
 
-<span id="fn_135"></span>[194:2](ema08.htm#fr_135) *Op. cit.*, p. 168.
+<span id="fn_135"></span>[194:2](ema08.htm#fr_135.md) *Op. cit.*, p. 168.
 
-<span id="fn_136"></span>[204:1](ema08.htm#fr_136) See the description
+<span id="fn_136"></span>[204:1](ema08.htm#fr_136.md) See the description
 of the ceremony of the beetle, p. 42.
 
-<span id="fn_137"></span>[204:2](ema08.htm#fr_137) *Lucius Sive Asinus*,
+<span id="fn_137"></span>[204:2](ema08.htm#fr_137.md) *Lucius Sive Asinus*,
 xlii., 12 (ed. Didot, p. 419). Compare also 54 (p. 466).
 
-<span id="fn_138"></span>[205:1](ema08.htm#fr_138) From the words,
+<span id="fn_138"></span>[205:1](ema08.htm#fr_138.md) From the words,
 Χρίσματι μεμαγευμένῳ ἐπαλείψασα ὄνον ποιήσειε {Greek *Xrísmati
 memageuménwj e?paleípsasa ó?non poih'seie*} (see Lucius sive Asinus,
 xlii., 54, ed. Didot, p. 466), it is clear that the person who is
@@ -572,4 +572,4 @@ the use of "bewitched oil."
 
 [Next: Chapter VII. Demoniacal Possession, Dreams, Ghosts, Lucky and
 Unlucky Days, Horoscopes, Prognostications, Transformations, and the
-Worship of Animals](ema09)
+Worship of Animals](ema09.md)

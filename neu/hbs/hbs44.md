@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs43) [Next](hbs45)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs43) [Next](hbs45.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Said Muyo: “The falcon took it.” But Áliya said, “Nay,
 
 They seated them ’neath a green fir to drink the wine apace,  
 And sleep and the wine o’ercame them. They were seen of three vilas<span
-id="page_254_fr_1"></span>[1](#page_254_note_1) white;  
+id="page_254_fr_1"></span>[1](#page_254_note_1.md) white;  
 
 |                        |                                         |
 |------------------------|-----------------------------------------|
@@ -45,7 +45,7 @@ When he looked, he saw the damsel; to his brother then he cried:
 “Arise now, Áliya, my brother! Let us hasten home away.”  
 Up leaped the Turk: “Nay, brother, now may a plague thee slay!  
 Now hast thou got two damsels, but there is none for me.”<span
-id="page_255_fr_1"></span>[1](#page_255_note_1)  
+id="page_255_fr_1"></span>[1](#page_255_note_1.md)  
  Muyo was grieved; forth from his belt he wrenched the dagger free,  
 And there smote Áliya to the heart. He fell on the green grass;  
 But Muyo seized the milk-white steed, and threw behind the lass;  
@@ -81,7 +81,7 @@ When he saw, he drew his dagger and thrust it through his heart.
 
 ------------------------------------------------------------------------
 
-[Next](hbs45)
+[Next](hbs45.md)
 
 ------------------------------------------------------------------------
 
@@ -89,13 +89,13 @@ When he saw, he drew his dagger and thrust it through his heart.
 
 <span id="footnotes_page_254">p. 254</span>
 
-<span id="page_254_note_1"></span>[1](#page_254_fr_1) See [note 2, p.
-15](hbs06.htm#page_15_note_2). But here the vilas seem to be really
+<span id="page_254_note_1"></span>[1](#page_254_fr_1.md) See [note 2, p.
+15](hbs06.htm#page_15_note_2.md). But here the vilas seem to be really
 malignant.
 
 <span id="footnotes_page_255">p. 255</span>
 
-<span id="page_255_note_1"></span>[1](#page_255_fr_1) “Muya must have
+<span id="page_255_note_1"></span>[1](#page_255_fr_1.md) “Muya must have
 been married—or did it seem to Áliya that two damsels were standing by
 Muyo?” (Note by Karájich.)
 

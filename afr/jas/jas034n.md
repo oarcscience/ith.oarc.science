@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas033n)  [Next](jas035n)   
- \[[34. But-but and Anansi.](jas034)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas033n)  [Next](jas035n.md)   
+ \[[34. But-but and Anansi.](jas034.md)\]
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ Compare Tremearne, 231.
 
 ------------------------------------------------------------------------
 
-[Next: Note 35. Tumble-bug and Anansi.](jas035n)
+[Next: Note 35. Tumble-bug and Anansi.](jas035n.md)

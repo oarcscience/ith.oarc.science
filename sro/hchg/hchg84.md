@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg83)  [Next](hchg85) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg83)  [Next](hchg85.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ tradition--The one testimony--An end of these pleadings--The colophon*.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Hermeneutics of the Holy Graal](hchg85)
+[Next: I. The Hermeneutics of the Holy Graal](hchg85.md)

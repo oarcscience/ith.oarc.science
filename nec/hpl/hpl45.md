@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl44)  [Next](hpl46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl44)  [Next](hpl46.md) 
 
 ------------------------------------------------------------------------
 
@@ -277,4 +277,4 @@ murdered.
 
 ------------------------------------------------------------------------
 
-[Next: The Quest of Iranon (1935)](hpl46)
+[Next: The Quest of Iranon (1935)](hpl46.md)

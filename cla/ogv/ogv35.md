@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv34)  [Next](ogv36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv34)  [Next](ogv36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -75,19 +75,19 @@ following Pythagoras, and I say it to you not only following Pythagoras
 and Plato, but following all the sages and all the theosophists of the
 world. Plato places in the superior and spiritual modification, composed
 of the *same*, that is to say of the indivisible substance of the
-universe, the *hegemonicon*, <span id="fr_525"></span>[a](#fn_524) or
+universe, the *hegemonicon*, <span id="fr_525"></span>[a](#fn_524.md) or
 the intellectual assent; in the inferior and material modification,
 composed of the *other* or the *diverse*, that is to say, of the
 divisible substance, the *physicon*, <span
-id="fr_526"></span>[b](#fn_525) or the physical sense perception; in the
+id="fr_526"></span>[b](#fn_525.md) or the physical sense perception; in the
 median modification or the soul, properly speaking, composed of essence,
 that is to say, of the most subtle parts of matter elaborated by the
-spirit, the *logicon*, <span id="fr_527"></span>[c](#fn_526) or the
+spirit, the *logicon*, <span id="fr_527"></span>[c](#fn_526.md) or the
 moral, logical, or reasonable sentiment. One finds in Plutarch the
 *résumé* of the doctrine of a philosopher named Sylla, who, admitting,
 as did Plato, that man is composed of spirit, soul, and body, said that
 the body drew its origin from the earth, the soul from the moon, and the
-spirit from the sun. <span id="fr_528"></span>[d](#fn_527) But without
+spirit from the sun. <span id="fr_528"></span>[d](#fn_527.md) But without
 disturbing ourselves for the present, with the origin of these three
 parts, since assuredly the earth, the moon, and the sun, which this
 philosopher has assigned them for principles, are things very difficult
@@ -133,29 +133,29 @@ distinction
 
 that he makes between these two kinds of virtues has been made by Plato,
 Aristotle, Galen, and many others of the philosophers of
-antiquity. <span id="fr_529"></span>[a](#fn_528) One of them, Macrobius,
+antiquity. <span id="fr_529"></span>[a](#fn_528.md) One of them, Macrobius,
 to whom we owe the knowledge and explanation of many of the mystic
 secrets, which, notwithstanding the extreme care exercised to conceal
 them, were rumoured outside of the sanctuaries, has made a comparison
 between the degrees of the initiation and those that one admits in the
 exercise of the virtues; and he enumerates four. <span
-id="fr_530"></span>[b](#fn_529) This number, which is related to the
+id="fr_530"></span>[b](#fn_529.md) This number, which is related to the
 universal Quaternary, has been the most constantly followed, although it
 may have varied, however, from three to seven. The number *three* was
 regarded by the ancients as the principle of nature, and the number
-*seven* as its end. <span id="fr_531"></span>[c](#fn_530) The principal
+*seven* as its end. <span id="fr_531"></span>[c](#fn_530.md) The principal
 degrees of initiation were, to the number of three, as the grades of the
 apprentice, companion, and master are in Free Masonry today. From this
 comes the epithet of Triple, given to the mysterious Hecate, and even to
 Mithra, considered as the emblem of mystic knowledge. <span
-id="fr_532"></span>[d](#fn_531) Sometimes three secondary degrees were
+id="fr_532"></span>[d](#fn_531.md) Sometimes three secondary degrees were
 added to the three principal ones and were terminated by an
 extraordinary revelation, which raising the initiate to the rank of
 *Epopt*, or seer *par excellence*, gave him the true signification of
 the degrees through which he had already passed <span
-id="fr_533"></span>[e](#fn_532); showed him nature unveiled, <span
-id="fr_534"></span>[f](#fn_533) and admitted him to the contemplation of
-divine knowledge. <span id="fr_535"></span>[g](#fn_534) It was for the
+id="fr_533"></span>[e](#fn_532.md); showed him nature unveiled, <span
+id="fr_534"></span>[f](#fn_533.md) and admitted him to the contemplation of
+divine knowledge. <span id="fr_535"></span>[g](#fn_534.md) It was for the
 Epopt alone that the last veil fell, and the sacred vestment which
 covered the statue of the
 
@@ -166,7 +166,7 @@ removed. This manifestation, called Epiphany, shed the most brilliant
 light upon the darkness which until then had surrounded the initiate. It
 was prepared, said the historians, by frightful tableaux with
 alternatives of both terror and hope. <span
-id="fr_536"></span>[a](#fn_535) The grade of Elect has replaced that of
+id="fr_536"></span>[a](#fn_535.md) The grade of Elect has replaced that of
 Epopt among the Free Masons, without in any sense offering the same
 results. The forms are indeed nearly preserved; but the substance has
 disappeared. The Epopt of Eleusis, Samothrace, or Hierapolis was
@@ -176,7 +176,7 @@ purer brightness; and the sublime virtue that he had acquired in the
 tests, more and more difficult, and the lessons more and more lofty,
 gave him the faculty of discerning good and evil, truth and error, and
 of making a free choice between them. <span
-id="fr_537"></span>[b](#fn_536)
+id="fr_537"></span>[b](#fn_536.md)
 
 But if the various grades of initiation expressed symbolically the
 different degrees of virtue to which men in general can attain, the
@@ -190,7 +190,7 @@ terror and of suffering, the temper of the soul and the claim of his
 right to the truth. It is known that Pythagoras owed to his extreme
 patience and to the courage with which he surmounted all the obstacles,
 his initiation into the Egyptian mysteries. <span
-id="fr_538"></span>[c](#fn_537) Those who attained as he did the last
+id="fr_538"></span>[c](#fn_537.md) Those who attained as he did the last
 degree of initiation were very rare; the greater number went no further
 than the second grade and very few attained the third. Lessons
 
@@ -212,7 +212,7 @@ which would have injured it. The Christian cult, raised upon the
 extinction of all enlightenment, nourished in the hearts of slaves and
 lowly citizens, sanctified in the course of time a precedent favourable
 to its growth. Those, however, among the Christians who were called
-gnostics, <span id="fr_539"></span>[a](#fn_538) on account of the
+gnostics, <span id="fr_539"></span>[a](#fn_538.md) on account of the
 particular knowledge that they possessed, and especially the
 Valentinians who boasted that they had preserved the knowledge of the
 initiation, wished to make a public dogma of the secret of the mysteries
@@ -220,7 +220,7 @@ in this respect, pretending that the corruption of men being only the
 effect of their ignorance and of their earthly attachment, it was only
 necessary in order to save them, to enlighten them regarding their
 condition and their original destination <span
-id="fr_540"></span>[b](#fn_539); but the orthodox ones, who felt the
+id="fr_540"></span>[b](#fn_539.md); but the orthodox ones, who felt the
 danger into which this doctrine was drawing them, condemned the authors
 as heretics.
 
@@ -238,14 +238,14 @@ Everywhere, four great established divisions under the name of Castes,
 recalled the four principal degrees of initiation and retraced upon
 humanity *en masse*, the Universal Quaternary. Egypt had, in this
 respect, in very ancient times, given example to Greece <span
-id="fr_541"></span>[a](#fn_540); for this Greece, so proud of her
+id="fr_541"></span>[a](#fn_540.md); for this Greece, so proud of her
 liberty, or rather of her turbulent anarchy, had been at first subjected
 to the common division, even as it is seen in Aristotle and
-Strabo. <span id="fr_542"></span>[b](#fn_541) The Chaldeans were,
+Strabo. <span id="fr_542"></span>[b](#fn_541.md) The Chaldeans were,
 relative to the peoples of Assyria, <span
-id="fr_543"></span>[c](#fn_542) only what the Magi were among the
-Persians, <span id="fr_544"></span>[d](#fn_543) the Druids among the
-Gauls, <span id="fr_545"></span>[e](#fn_544) and the Brahmans among the
+id="fr_543"></span>[c](#fn_542.md) only what the Magi were among the
+Persians, <span id="fr_544"></span>[d](#fn_543.md) the Druids among the
+Gauls, <span id="fr_545"></span>[e](#fn_544.md) and the Brahmans among the
 Indians. It is quite well known that this last people, the Brahmans,
 constitute the foremost and highest of the four castes of which the
 whole nation is composed. The allegorical origin that religion gives to
@@ -257,7 +257,7 @@ Soudras from his feet." It is said in another of these books containing
 the cosmogony of the Banians, that the first man, called Pourou, having
 had four sons named Brahma, Kshetri, Vaisa, and Souderi, God designated
 them to be chiefs of the four tribes which he himself instituted. <span
-id="fr_546"></span>[f](#fn_545) The sacred books of the Burmans, which
+id="fr_546"></span>[f](#fn_545.md) The sacred books of the Burmans, which
 appear
 
 <span id="page_224">p. 224</span>
@@ -269,7 +269,7 @@ that inequality among men is a necessary consequence of their past
 virtues or past vices, and that they are born in a nation more or less
 enlightened, in a caste, in a family, more or less illustrious,
 according to their previous conduct. <span
-id="fr_547"></span>[a](#fn_546) This is very close to the thought of
+id="fr_547"></span>[a](#fn_546.md) This is very close to the thought of
 Pythagoras; but no one has expressed it with greater force and clearness
 than Kong-Tse. I think I have no need to say that these two sages did
 not copy each other. The assent that they gave to the same idea had its
@@ -278,7 +278,7 @@ source elsewhere than in sterile imitation.
 The Chinese people, from time immemorial, have been divided into four
 great classes, relative to the rank that men occupy in society,
 following the functions that they execute therein, <span
-id="fr_548"></span>[b](#fn_547) very nearly as do the Indians: but this
+id="fr_548"></span>[b](#fn_547.md) very nearly as do the Indians: but this
 division, that long custom has rendered purely political, is looked upon
 very differently by the philosophers. Man, according to them,
 constitutes one of the three productive powers which compose the median
@@ -348,7 +348,7 @@ in their mode of life, like unto the sun and the moon, the heavens and
 the earth, they never cease their beneficent operations; they act by
 *intelligence* and as *spirits* see without being seen. This class, very
 few in number, can be called that of the Perfect ones, the Saints. <span
-id="fr_549"></span>[a](#fn_548)
+id="fr_549"></span>[a](#fn_548.md)
 
 I have transcribed what has just been read without changing a single
 word. If the reader has given to this extract the attention that it
@@ -363,7 +363,7 @@ establishment of critical philosophy. This right reason, being quite
 near to human virtues, is still very far from Wisdom which alone leads
 to Truth. Nevertheless it can reach there, for nothing is impossible for
 the Will of man, even as I have quite forcibly stated <span
-id="fr_550"></span>[b](#fn_549); but it would be necessary for that, to
+id="fr_550"></span>[b](#fn_549.md); but it would be necessary for that, to
 make acquisition of the divine virtues, and in the same manner that one
 is raised from instinct to understanding by purification, to pass from
 understanding to intelligence by perfection. Lysis offers the means: it
@@ -374,93 +374,93 @@ end; he assures it, he invokes the name of Pythagoras himself:
 
 ### Footnotes
 
-<span id="fn_524"></span>[218:a](ogv35.htm#fr_525) In Greek τὸ
+<span id="fn_524"></span>[218:a](ogv35.htm#fr_525.md) In Greek τὸ
 ἡγεμονικόν, that which dominates and rules, that which is intelligible.
 
-<span id="fn_525"></span>[218:b](ogv35.htm#fr_526) In Greek τὸ φυσικόν,
+<span id="fn_525"></span>[218:b](ogv35.htm#fr_526.md) In Greek τὸ φυσικόν,
 that which pertains to generative nature, that which is physical, and
 sentient.
 
-<span id="fn_526"></span>[218:c](ogv35.htm#fr_527) In Greek τὸ λογικόν,
+<span id="fn_526"></span>[218:c](ogv35.htm#fr_527.md) In Greek τὸ λογικόν,
 that which pertains to reasonable nature, that which is logical, the
 thing which proves that another thing is. *Voyez* Platon, *in Tim.*, et
 conférez avec Beausobre, *Hist. du Manich.*, t. ii., p. 174.
 
-<span id="fn_527"></span>[218:d](ogv35.htm#fr_528) Plutar., *de Facie in
+<span id="fn_527"></span>[218:d](ogv35.htm#fr_528.md) Plutar., *de Facie in
 Orb. lun.*, p. 943.
 
-<span id="fn_528"></span>[220:a](ogv35.htm#fr_529) The first kind of
+<span id="fn_528"></span>[220:a](ogv35.htm#fr_529.md) The first kind of
 virtue is called ἀνθωπίνη, human, and the second ἡρωικὴ καὶ δία, heroic
 and divine. Attention should be given to these epithets which are
 related to the three principal faculties of man. Aristot., *ad Nicom.*,
 I. vii., c. 1; Plato, *in Theætet.*; Gallien, in *Cognit et Curai. morb.
 anim.*, l. i., c. 3, et 6; Theod. Marcil, *in Aur. Carmin*.
 
-<span id="fn_529"></span>[220:b](ogv35.htm#fr_530) In *Somn. Scip.*, c.
+<span id="fn_529"></span>[220:b](ogv35.htm#fr_530.md) In *Somn. Scip.*, c.
 8.
 
-<span id="fn_530"></span>[220:c](ogv35.htm#fr_531) Aristot., *de Cælo et
+<span id="fn_530"></span>[220:c](ogv35.htm#fr_531.md) Aristot., *de Cælo et
 Mundo*, l. i.; Philo, *de Mund. opific.*
 
-<span id="fn_531"></span>[220:d](ogv35.htm#fr_532) Pausan., *in
+<span id="fn_531"></span>[220:d](ogv35.htm#fr_532.md) Pausan., *in
 Corinth.*, p. 72; Tzetz., *in Schol.*
 
-<span id="fn_532"></span>[220:e](ogv35.htm#fr_533) Suidas, in Εποπ;
+<span id="fn_532"></span>[220:e](ogv35.htm#fr_533.md) Suidas, in Εποπ;
 Harpocr., *ibid*.
 
-<span id="fn_533"></span>[220:f](ogv35.htm#fr_534) Clem. Alex., l. v.,
+<span id="fn_533"></span>[220:f](ogv35.htm#fr_534.md) Clem. Alex., l. v.,
 p. 582.
 
-<span id="fn_534"></span>[220:g](ogv35.htm#fr_535) Psellus, *Ad Oracul.
+<span id="fn_534"></span>[220:g](ogv35.htm#fr_535.md) Psellus, *Ad Oracul.
 Zoroastr.*
 
-<span id="fn_535"></span>[221:a](ogv35.htm#fr_536) Meurs. Eleus., c. 12;
+<span id="fn_535"></span>[221:a](ogv35.htm#fr_536.md) Meurs. Eleus., c. 12;
 Dion. Chrysost., *Orat.* xii.
 
-<span id="fn_536"></span>[221:b](ogv35.htm#fr_537) Sophocl. *apud*
+<span id="fn_536"></span>[221:b](ogv35.htm#fr_537.md) Sophocl. *apud*
 Plutar., *De Audiend. Poet. Schol.*; Aristoph., *De Pace*.
 
-<span id="fn_537"></span>[221:c](ogv35.htm#fr_538) Porphyr., *Vitâ
+<span id="fn_537"></span>[221:c](ogv35.htm#fr_538.md) Porphyr., *Vitâ
 Pythag.*, p. 5.
 
-<span id="fn_538"></span>[222:a](ogv35.htm#fr_539) γνῶσις, *savant*.
+<span id="fn_538"></span>[222:a](ogv35.htm#fr_539.md) γνῶσις, *savant*.
 
-<span id="fn_539"></span>[222:b](ogv35.htm#fr_540) Epiph., l. i.;
+<span id="fn_539"></span>[222:b](ogv35.htm#fr_540.md) Epiph., l. i.;
 Plucquet, *Dictionn. des Hérésies*, t. ii., p. 72.
 
-<span id="fn_540"></span>[223:a](ogv35.htm#fr_541) Diod. Sicul., l. i.;
+<span id="fn_540"></span>[223:a](ogv35.htm#fr_541.md) Diod. Sicul., l. i.;
 Herodot., l. ii.
 
-<span id="fn_541"></span>[223:b](ogv35.htm#fr_542) Aristot., *Polit.*,
+<span id="fn_541"></span>[223:b](ogv35.htm#fr_542.md) Aristot., *Polit.*,
 l. ii.; Strab., l. viii.
 
-<span id="fn_542"></span>[223:c](ogv35.htm#fr_543) *Voyez* DANIEL, et
+<span id="fn_542"></span>[223:c](ogv35.htm#fr_543.md) *Voyez* DANIEL, et
 conférez avec Court de Gébelin, *Monde primitif*, t. viii., p. 9.
 
-<span id="fn_543"></span>[223:d](ogv35.htm#fr_544) *Zend-Avesta*,
+<span id="fn_543"></span>[223:d](ogv35.htm#fr_544.md) *Zend-Avesta*,
 14<sup>e</sup> *hâ*, p. 127.
 
-<span id="fn_544"></span>[223:e](ogv35.htm#fr_545) Pomp. Mela, iii., c.
+<span id="fn_544"></span>[223:e](ogv35.htm#fr_545.md) Pomp. Mela, iii., c.
 2; César, l. vi., c. 14; Pelloutier, *Hist. des Celtes*, l. iv., ch. 1,
 § 27 et 30.
 
-<span id="fn_545"></span>[223:f](ogv35.htm#fr_546) The first *Shastra*
+<span id="fn_545"></span>[223:f](ogv35.htm#fr_546.md) The first *Shastra*
 is entitled *Djatimala*. I am ignorant of the title of the other, that I
 cite from Henry Lord: *Discovery of the Banian Religion*, in Church,
 *Collect*., vol. vi.
 
-<span id="fn_546"></span>[224:a](ogv35.htm#fr_547) *Asiat. Research.*,
+<span id="fn_546"></span>[224:a](ogv35.htm#fr_547.md) *Asiat. Research.*,
 tom. vi., p. 254.
 
-<span id="fn_547"></span>[224:b](ogv35.htm#fr_548) *Mémoir. concern. les
+<span id="fn_547"></span>[224:b](ogv35.htm#fr_548.md) *Mémoir. concern. les
 Chin.*, t. ii., p. 174 *et suiv*.
 
-<span id="fn_548"></span>[226:a](ogv35.htm#fr_549) *Vie de Kong-Tzée*,
+<span id="fn_548"></span>[226:a](ogv35.htm#fr_549.md) *Vie de Kong-Tzée*,
 p. 237 *et suiv*.
 
-<span id="fn_549"></span>[226:b](ogv35.htm#fr_550) *Voyez* le
+<span id="fn_549"></span>[226:b](ogv35.htm#fr_550.md) *Voyez* le
 12<sup>e</sup> Examen.
 
 ------------------------------------------------------------------------
 
-[Next: 25. The sacred Tetrad](ogv36)
+[Next: 25. The sacred Tetrad](ogv36.md)

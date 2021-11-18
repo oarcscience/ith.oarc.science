@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft00)  [Next](efft02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft00)  [Next](efft02.md) 
 
 ------------------------------------------------------------------------
 
-# JACK THE GIANT-KILLER.  <span id="fr_0"></span>[1](#fn_0)
+# JACK THE GIANT-KILLER.  <span id="fr_0"></span>[1](#fn_0.md)
 
 <span id="img_03"></span> [![](tn/03.jpg)  
-Click to enlarge](img/03.jpg)  
+Click to enlarge](img/03.jpg.md)  
 "HE BEHELD WITH TERROR A HUGE GIANT, DRAGGING ALONG A FAIR LADY AND A
 KNIGHT"
 
@@ -427,9 +427,9 @@ happiness all the rest of their days.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](efft01.htm#fr_0) Collated from sundry
+<span id="fn_0"></span>[1](efft01.htm#fr_0.md) Collated from sundry
 Chap-books. (Newcastle-on-Tyne, 1711-1835.)
 
 ------------------------------------------------------------------------
 
-[Next: The Princess of Canterbury](efft02)
+[Next: The Princess of Canterbury](efft02.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp48)  [Next](prp50) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp48)  [Next](prp50.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ mentule with raised eyebrow.
 
 ------------------------------------------------------------------------
 
-[Next: 50. A certain person, an thou please (Priapus!)](prp50)
+[Next: 50. A certain person, an thou please (Priapus!)](prp50.md)

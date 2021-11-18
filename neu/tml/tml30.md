@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml29)  [Next](tml31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml29)  [Next](tml31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ smithy a chain of seven hundred rings which could fetter the wind.
 
 In ancient England minstrels were wont to sing to Angles and Saxons of
 Volund, the wonder Smith, whom they called Weland. <span
-id="fr_89"></span>[1](#fn_89) He was a prince of the fairies. In other
+id="fr_89"></span>[1](#fn_89.md) He was a prince of the fairies. In other
 lands and in other tongues was the "Lay of Volund" sung also. Mimer was
 named Nithud, and called "King of Sweden".
 
@@ -240,7 +240,7 @@ Rerir became a greater monarch than Sige. He took for wife a noble lady,
 but as the years went on they fell to mourning, because that no child
 was born to them. So they prayed to the gods, and Freyja heard them with
 compassion. Then was one of her maids, who was a daughter of the giant,
-Hrimner <span id="fr_90"></span>[1](#fn_90), sent to earth in crow guise
+Hrimner <span id="fr_90"></span>[1](#fn_90.md), sent to earth in crow guise
 bearing an apple for the queen. Thus was the queen's desire fulfilled.
 But soon afterwards the king sickened and died. The child was not born
 until he was seven years old, and he was named Volsung.
@@ -354,7 +354,7 @@ the hour of vengeance.
 
 ### Footnotes
 
-<span id="fn_89"></span>[283:1](tml30.htm#fr_89) Beowulf had armour made
+<span id="fn_89"></span>[283:1](tml30.htm#fr_89.md) Beowulf had armour made
 by Weland. In Scott's Kenilworth, chap. xiii, he appears as "Wayland
 Smith ", whose fame "haunts the Vale of the Whitehorse" in Berkshire.
 The legend is associated with the burial place of a Danish chief.
@@ -362,9 +362,9 @@ The legend is associated with the burial place of a Danish chief.
 for him to do. His fee is sixpence. This fairy smith was also known in
 France.
 
-<span id="fn_90"></span>[288:1](tml30.htm#fr_90) Angerboda, the Hag of
+<span id="fn_90"></span>[288:1](tml30.htm#fr_90.md) Angerboda, the Hag of
 Ironwood, when she was a maid attendant to Freyja.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI. How Sigmund was Avenged](tml31)
+[Next: Chapter XXVI. How Sigmund was Avenged](tml31.md)

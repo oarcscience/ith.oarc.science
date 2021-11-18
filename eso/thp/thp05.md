@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](thp04) 
-[Next](thp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](thp04.md) 
+[Next](thp06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -126,4 +126,4 @@ Great All. The I AM is One.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Affirmative Power](thp06)
+[Next: IV. Affirmative Power](thp06.md)

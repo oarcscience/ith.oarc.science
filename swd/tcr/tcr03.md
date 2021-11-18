@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](tcr02)  [Next](tcr04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](tcr02)  [Next](tcr04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930985/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930985/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -2774,4 +2774,4 @@ cannot go beyond the effort, which, however, unceasingly continues.
 
 ------------------------------------------------------------------------
 
-[Next: 151-200](tcr04)
+[Next: 151-200](tcr04.md)

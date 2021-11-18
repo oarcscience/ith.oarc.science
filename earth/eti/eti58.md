@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti57)  [Next](eti59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti57)  [Next](eti59.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -103,7 +103,7 @@ implicitly
 
 <span id="img_34700"></span> <span align="CENTER"> [![SUSPENDED IN
 VACANCY, HE SEEMED TO FLOAT.](tn/34700.jpg)  
-Click to enlarge](img/34700.jpg)  
+Click to enlarge](img/34700.jpg.md)  
 “SUSPENDED IN VACANCY, HE SEEMED TO FLOAT.”  
 </span>
 
@@ -203,4 +203,4 @@ THE END OF EARTH.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LII. The Last Farewell](eti59)
+[Next: Chapter LII. The Last Farewell](eti59.md)

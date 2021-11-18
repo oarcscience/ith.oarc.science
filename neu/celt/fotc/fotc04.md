@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fotc03)  [Next](fotc05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fotc03)  [Next](fotc05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Feuds of the Clans*, by Alexander MacGregor, \[1907\], at
 Intangible Textual Heritage
 
@@ -40,4 +40,4 @@ language.
 
 ------------------------------------------------------------------------
 
-[Next: The Conflict of Drumilea](fotc05)
+[Next: The Conflict of Drumilea](fotc05.md)

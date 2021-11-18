@@ -9,21 +9,21 @@ categories: ' <BR>'
 |----------------------------------------------------------------------------------------|---------------------------------------------|
 | <img src="img/lgbtcoll.jpg" width="256" alt="Collage: Michelangelo/da Vinci/Sappho" /> | <span class="splashtitle">LGBT Texts</span> |
 
-[*About the collage...*](#aboutcoll)
+[*About the collage...*](#aboutcoll.md)
 
 ------------------------------------------------------------------------
 
-[Introduction](#intro) [The Ancient World](#ancient)
-[Hinduism](#hinduism)  
-[The Hebrew Bible](#bible)  [The New Testament](#NT)  
-[Gay Marriage in the Bible](#gaymarriage)  
-[The Qur'an](#quran)  [Other Religions](#otherrel)  [Other
-Texts](#othertext)   
-[Modern Texts](#modern)  [For Further Reading](#bibliography)
+[Introduction](#intro) [The Ancient World](#ancient.md)
+[Hinduism](#hinduism.md)  
+[The Hebrew Bible](#bible)  [The New Testament](#NT.md)  
+[Gay Marriage in the Bible](#gaymarriage.md)  
+[The Qur'an](#quran)  [Other Religions](#otherrel.md)  [Other
+Texts](#othertext.md)   
+[Modern Texts](#modern)  [For Further Reading](#bibliography.md)
 
 ------------------------------------------------------------------------
 
-*NEW!* [Abortion in the Bible](../wmn/abib/index)  
+*NEW!* [Abortion in the Bible](../wmn/abib/index.md)  
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ specifically with the subject of LGBT people in sacred texts. For an
 overview of the positions of various religions on this topic, including
 historical and current beliefs, refer to [this page at the Ontario
 Consultants for Religious Tolerance
-site](https://www.religioustolerance.org/homosexu) \[external site\].
+site](https://www.religioustolerance.org/homosexu.md) \[external site\].
 
 References to the scriptures are being used as the backbone of much of
 the heated discussion about gay people in a way that has not been seen
@@ -67,7 +67,7 @@ actual texts, and the context in which they were written. This page,
 which has taken months of research to write, provides all available
 scriptural quotes on this subject, with links into the full texts, also
 available at this site. Also included are the [complete text of several
-books on the subject](#modern), scanned specially to provide background
+books on the subject](#modern.md), scanned specially to provide background
 information for this page.
 
 ------------------------------------------------------------------------
@@ -101,7 +101,7 @@ a personality defect or mental illness.
 
 There will always be some that prefer not to accept the findings of
 science. For instance, there are a handful of Christians who believe
-that the [Earth is flat](../earth/index) because the Bible refers to the
+that the [Earth is flat](../earth/index.md) because the Bible refers to the
 'four corners of the Earth'. Some literalist Christians reject the
 Copernican solar system for similar scriptural reasons. However, many
 religions, even the most conservative, have shown a capability to
@@ -141,16 +141,16 @@ the myth of Tiresias, who changed his gender from male to female and
 back; Zeus, among his other loves, took Ganymede; the nymph
 Hermaphrodite was transformed from a woman into an intersex being.
 
-[Shamanism in Siberia](../sha/sis/index) from Aboriginal Siberia, by M.
+[Shamanism in Siberia](../sha/sis/index.md) from Aboriginal Siberia, by M.
 A. Czaplicka. \[1914\]  
 Both male and female Siberian Shamans, healers and spiritual leaders,
 took on the roles and dress of the opposite gender to enhance their
 magical power. This was also widespread through North America and
 Polynesia.
 
-[The Poems of Sappho](../cla/sappho/index)  
+[The Poems of Sappho](../cla/sappho/index.md)  
 *English and Transliterated Greek*  
-[The Poems of Sappho (Unicode)](../cla/usappho/index)  
+[The Poems of Sappho (Unicode)](../cla/usappho/index.md)  
 *English and Greek*  
 Sappho, called the 'Tenth Muse' by the ancients, left a huge body of
 amazing poetry, of which only fragments escaped the bonfires of the dark
@@ -160,19 +160,19 @@ have been a prism through which each generation has viewed same-gender
 love.
 
 <span id="plato_androgyne"></span> [The Symposium of
-Plato](../cla/plato/symposiu)  
+Plato](../cla/plato/symposiu.md)  
 In this colloquium on the nature of companionship, Plato proposed a
 theory of the origin of humanity in which Zeus created three genders:
 men, women and androgynes. The androgynes were split into two and since
 then each half has been searching for the other. This is actually not an
 unusual creation story.
 
-[The Syrian Goddess of Lucian of Samosata](../cla/luc/tsg/index)  
+[The Syrian Goddess of Lucian of Samosata](../cla/luc/tsg/index.md)  
 This is an account of the worship of Astarte in late antiquity, in what
 is now Turkey. It includes an account of her cross-dressing, transgender
 priests.
 
-[Mimes of the Courtesans](../cla/luc/motc/index)  
+[Mimes of the Courtesans](../cla/luc/motc/index.md)  
 This unexpurgated translation of Lucian's comic dialogues about the
 Hetaerae includes two pieces which illustrate late classical attitudes
 about LGBT people.
@@ -193,23 +193,23 @@ it can be expunged by a ritual bath.
 
 The ancient Hindu attitude was that sexuality should be fully integrated
 into the fabric of life, and nothing to be ashamed of. For instance, in
-the [Brihadaranyaka Upanishad, IV:4](../hin/sbe15/sbe15098), there is a
+the [Brihadaranyaka Upanishad, IV:4](../hin/sbe15/sbe15098.md), there is a
 passage about sex magic which was so explicit that Max Müller felt
 compelled to translate it into Latin.
 
 Homosexuality is discussed frankly and without condemnation in the
 ancient Hindu sexual treatises. In the Kama Sutra, in [Chapter
-VI](../sex/kama/kama506), lesbianism in harems is described, and in
-[Chapter IX](../sex/kama/kama209), male and female homosexuality in the
+VI](../sex/kama/kama506.md), lesbianism in harems is described, and in
+[Chapter IX](../sex/kama/kama209.md), male and female homosexuality in the
 context of a discussion of oral sex. To quote the Kama Sutra, Chapter
 IX: "...in all things connected with love, everybody should act
 according to the custom of his country and his own inclination."
 
 There are many accounts of beings who transformed their gender by
 supernatural means in the ancient Hindu epics and Puranas. One prominent
-example occurs in [the Mahabharata](../hin/index.htm#maha). A
+example occurs in [the Mahabharata](../hin/index.htm#maha.md). A
 transgender person, Sikhandin, plays a pivotal role in that ancient
-Hindu epic. In [book 5, Chapter 191-5](../hin/m05/m05191), the origin of
+Hindu epic. In [book 5, Chapter 191-5](../hin/m05/m05191.md), the origin of
 Sikhandin is related. Sikhandin was born as the daughter of King Drupada
 of the Panchalas, who had previously been childless. Druapada begged the
 God Mahadeva, to give him a son. He told him that "Thou shalt have a
@@ -242,7 +242,7 @@ exchange is permanent. Sikhandin grows into a mighty warrior.
 
 Sikhandin later plays an important role during the cataclysmic battle
 which is the central part of the Mahabharata. In the climax of [Book
-8](../hin/m08/index) of the Mahabharata, Bhishma, one of the chief
+8](../hin/m08/index.md) of the Mahabharata, Bhishma, one of the chief
 protagonists, is killed because he refuses to attack a charge which is
 led by Sikhandin, because Sikhandin was born female. This ends up being
 the turning point in the battle and the war.
@@ -293,7 +293,7 @@ turns up only once (very tangentially) in the NT.
 ### The King James Version
 
 King James I, who commissioned the [King James
-Version](../bib/kjv/index) translation, was undoubtedly homosexual. It
+Version](../bib/kjv/index.md) translation, was undoubtedly homosexual. It
 was whispered that "Elizabeth was King: Now James is Queen."
 
 James I was responsible for reaffirming the Buggery Act of 1533, which
@@ -316,15 +316,15 @@ bed's head could not be found between the master and his dog."
 
 Some esoteric Jewish traditions hold that God is hermaphroditic in
 nature, and that Adam was originally an hermaphrodite. This is based on
-a reading of [Genesis 1:27](../bib/kjv/gen001.htm#002): "So God created
+a reading of [Genesis 1:27](../bib/kjv/gen001.htm#002.md): "So God created
 man in his own image, in the image of God created he him; male and
 female created he them." This theme is developed with great detail in
 the Kabbalah; For instance see [this passage from the Kabbalah
-Unveiled](../jud/tku/tku74). Rabbi Samuel-bar-Nachman is quoted by
-[Carpenter](itp/itp07.htm#page_73) as saying "Adam, when God created
+Unveiled](../jud/tku/tku74.md). Rabbi Samuel-bar-Nachman is quoted by
+[Carpenter](itp/itp07.htm#page_73.md) as saying "Adam, when God created
 him, was a man-woman (androgyne)". Maimonides (*ibid*.) is quoted
 likewise: "Adam and Eve were created together, conjoined by their
-backs." This is similar to the [androgyne](#plato_androgyne) mentioned
+backs." This is similar to the [androgyne](#plato_androgyne.md) mentioned
 in Plato's *Symposium*.
 
 <span id="sodom"></span>
@@ -332,7 +332,7 @@ in Plato's *Symposium*.
 ##### The Sin of Sodom
 
 Then there is the story of the destruction of the city of Sodom,
-([Genesis 18:16-19:29](../bib/kjv/gen018.htm#016)). Sodom has given its
+([Genesis 18:16-19:29](../bib/kjv/gen018.htm#016).md). Sodom has given its
 name to the now somewhat quaint-sounding term 'Sodomy', which originally
 meant a specific male homosexual sex act. Eventually it was expanded to
 mean any form of sexual expression which happened to be illegal,
@@ -348,7 +348,7 @@ and old', attacks Lot's house and demands that Lot allow them to 'know'
 famous KJV circumlocution for having sexual intercourse.
 
 The next passage bears closer examination. Lot ([Gen
-19:8](../bib/kjv/gen019.htm#008)) asks the mob to *'do' his two virgin
+19:8](../bib/kjv/gen019.htm#008).md) asks the mob to *'do' his two virgin
 daughters instead*, but not the two guests, 'for ... they came under the
 shadow of my roof.' The rest of the story is well-known: divine wrath
 ensues, the mob is blinded, the cities of the plain are destroyed by
@@ -356,7 +356,7 @@ fire and brimstone while Lot and his family flee, Lot's wife is turned
 to a pillar of salt because she looks back, and only Lot and his
 daughters escape. In an often ignored coda to this story, Lot's
 daughters have incest with him by getting him intoxicated, ([Gen
-19:31](../bib/kjv/gen019.htm#031)), presumably to repopulate the
+19:31](../bib/kjv/gen019.htm#031).md), presumably to repopulate the
 country; a similar motif is found in the story of Noah. As in other
 Biblical narratives, even the heroes end up committing horrendous sins,
 driven by circumstances. But many ignore the entire context of the story
@@ -385,8 +385,8 @@ intervenes. A judge rules that he must pay his assailant for medical
 treatment! (Bleeding was considered a surgical procedure). Eliezar then
 hits the judge on the head, drawing blood, and tells the *judge* to pay
 his fine. See [Ginzburg's Legends of the
-Jews](../jud/loj/loj107.htm#the_cities_of_sin) and [Polano's The Talmud:
-Selections](../jud/pol/pol05.htm#page_45), for many more stories along
+Jews](../jud/loj/loj107.htm#the_cities_of_sin.md) and [Polano's The Talmud:
+Selections](../jud/pol/pol05.htm#page_45.md), for many more stories along
 the same lines. After reading these, I guarantee you'll be rooting for
 the Lord to rain down the brimstone on the cities of the plain...
 
@@ -394,7 +394,7 @@ There are also numerous Biblical passages warning about mistreating
 strangers, (with the story of Lot being implied), for instance this one
 in the NT: "Be not forgetful to entertain strangers: for thereby some
 have entertained angels unawares." \[[Heb.
-13:2](../bib/kjv/heb013.htm#001)\]
+13:2](../bib/kjv/heb013.htm#001.md)\]
 
 Between the original concept of a violation of the law of hospitality
 and the medieval focus on a particular sexual act, there is an
@@ -403,7 +403,7 @@ entirely. Where Sodom is mentioned in later books of the Tanach and in
 the New Testament, it is used as an example of a city which was
 corrupted by luxury, lacking in values such as charity and humility.
 Nowhere is this made clearer than in [Ezekiel
-16:48-50](../bib/kjv/eze016.htm#049), where Ezekiel, speaking for 'the
+16:48-50](../bib/kjv/eze016.htm#049.md), where Ezekiel, speaking for 'the
 Lord God', enumerates the sins of Sodom: "Saith the Lord GOD...Behold,
 this was the iniquity of ... Sodom, pride, fulness of bread, and
 abundance of idleness ... neither did she strengthen the hand of the
@@ -434,7 +434,7 @@ probably written by the author modern scholars call 'P'.
 
 Now when one hears the word 'Leviticus,' a red flag (or yellow card)
 should go up. Wellhausen, in his [Prolegomena to the History of Ancient
-Israel](../bib/cv/phai/index) proposed the 'Documentary Hypothesis.'
+Israel](../bib/cv/phai/index.md) proposed the 'Documentary Hypothesis.'
 Among other things, he presented evidence that there were four separate
 authors of the Tanach, the Old Testament. In a nutshell, the Levitical
 laws were added to the text of the Bible at a very late date, by an
@@ -447,22 +447,22 @@ simply became impossible to follow. Others were fossilized prohibitions
 from the time when Jews were striving to preserve their cultural
 identity in a sea of paganism.
 
-[Leviticus 18:22](../bib/kjv/lev018.htm#022) and [Leviticus
-20:13](../bib/kjv/lev020.htm#013) are the two Bible verses which are
+[Leviticus 18:22](../bib/kjv/lev018.htm#022.md) and [Leviticus
+20:13](../bib/kjv/lev020.htm#013.md) are the two Bible verses which are
 most often cited as support for scriptural condemnation of
 homosexuality; the latter verse even demands that such behavior be
 punished by death. Both verses refer specifically to male homosexuality,
 but not female.
 
 There is a condemnation of both male and female cross-dressing in
-[Deuteronomy 22:5](../bib/kjv/deu022.htm#005) as 'an abomination'.
+[Deuteronomy 22:5](../bib/kjv/deu022.htm#005.md) as 'an abomination'.
 However, no particular punishment is specified. By contrast, the same
 chapter specifies harsh punishments for other transgressions: death by
 stoning of [non-virgin brides \[Deu
-22:13-21\]](../bib/kjv/deu022.htm#013), likewise both participants in an
-act of [adultery \[Deu. 22:22\]](../bib/kjv/deu022.htm#022), and some
+22:13-21\]](../bib/kjv/deu022.htm#013.md), likewise both participants in an
+act of [adultery \[Deu. 22:22\]](../bib/kjv/deu022.htm#022.md), and some
 instances of [premarital intercourse \[Deu.
-22:23\]](../bib/kjv/deu022.htm#023).
+22:23\]](../bib/kjv/deu022.htm#023.md).
 
 The background of the condemnation of homosexuality in Leviticus is a
 fascinating subject. The Jews were in conflict with Pagans who also
@@ -474,23 +474,23 @@ and stone worship and some forms of divination.
 
 Pagan religions of the ancient Near East had male priests who, to honor
 a Goddess figure, emulated women. For a late classical description of
-this belief system, refer to [The Syrian Goddess](../cla/luc/tsg/index).
+this belief system, refer to [The Syrian Goddess](../cla/luc/tsg/index.md).
 These priests, called *Kedeshim* in the Tanach, like other
-[shamans](../sha/index) world-wide, cross-dressed, took on economic and
+[shamans](../sha/index.md) world-wide, cross-dressed, took on economic and
 social roles normally associated with females and in some cases even
 castrated themselves. They also enaged in sexual acts as part of their
-ceremonies, similar to the [Tantric](../tantra/index) practices. This
+ceremonies, similar to the [Tantric](../tantra/index.md) practices. This
 included sex with other men.
 
 In every case where 'Sodomite' is mentioned in the KJV outside of the
 context of the story of the downfall of Sodom in Genesis, this is a
-translation of the Hebrew word [*qâdêsh*](../bib/poly/h6945), which
+translation of the Hebrew word [*qâdêsh*](../bib/poly/h6945.md), which
 refers to the before-mentioned pagan priest. In fact, *qâdêsh* is
-derived from a primitive root [*qâdash*](../bib/poly/h6942), which
+derived from a primitive root [*qâdash*](../bib/poly/h6942.md), which
 means, among other things, 'consecrate, holy, dedicate, purify,
 sanctify.'
 
-For instance, in [1 Kings 14:24](../bib/kjv/kg1014.htm#014), the KJV has
+For instance, in [1 Kings 14:24](../bib/kjv/kg1014.htm#014.md), the KJV has
 'there were also sodomites in the land, and they did according to all
 the abominations of the nations which the LORD cast out before the
 children of Israel.' In addition, abomination in this instance could
@@ -511,16 +511,16 @@ standards of justice and human rights. Some other points of interest in
 Leviticus include:
 
 [the punishment for blasphemy is death by stoning \[Lev
-24:16\]](../bib/kjv/lev024.htm#016),  
+24:16\]](../bib/kjv/lev024.htm#016.md),  
 
 [likewise, a child who curses their parent will be put to death \[Lev
-20:9\]](../bib/kjv/lev020.htm#009),  
+20:9\]](../bib/kjv/lev020.htm#009.md),  
 
 [locusts, beetles and grasshoppers are permissible food \[Lev.
-11:21\]](../bib/kjv/lev011.htm#021) but not [shellfish or mollusks
-\[Lev. 11:10\]](../bib/kjv/lev011.htm#010).  
+11:21\]](../bib/kjv/lev011.htm#021.md) but not [shellfish or mollusks
+\[Lev. 11:10\]](../bib/kjv/lev011.htm#010.md).  
 
-[Leviticus 25:44-46](../bib/kjv/lev025.htm#044) was construed by slavery
+[Leviticus 25:44-46](../bib/kjv/lev025.htm#044.md) was construed by slavery
 apologists to be divine authorization for the buying, holding and
 bequeathing of human beings as property.
 
@@ -528,10 +528,10 @@ Most Christian and Jewish groups today hold that many of the rules in
 Leviticus and elsewhere in the Hebrew Bible should not be considered
 binding, or at worst, minor sins if transgressed, and that the harsh
 punishments are obsolete. For instance, there is an extensive debate in
-the Talmud ([Sanhedrin, Chapter VIII](../jud/t08/t0811)). as to whether
+the Talmud ([Sanhedrin, Chapter VIII](../jud/t08/t0811).md). as to whether
 putting a 'stubbon and rebellious' child to death is an appropriate
 punishment by *reductio ad adsurdum*. And Jesus is quoted ([see
-below](#NT)) as saying that the law should consist of two rules, namely
+below](#NT).md) as saying that the law should consist of two rules, namely
 love for God and love for one's neighbor; this is an implicit criticism
 of the complicated and often extreme regulations of Leviticus.
 
@@ -541,10 +541,10 @@ of the complicated and often extreme regulations of Leviticus.
 
 There is an extensive and very sympathetic description of a same-sex
 relationship in the Bible, the story of David and Jonathan, e.g.: [1
-Samuel 18:1-5](../bib/kjv/sa1018.htm#001), [1 Samuel
-19:1-7](../bib/kjv/sa1019.htm#001), [1 Samuel
-20:30-42](../bib/kjv/sa1020.htm#030), [2 Samuel
-1:25-6](../bib/kjv/sa2001.htm#025). While their bond is described as
+Samuel 18:1-5](../bib/kjv/sa1018.htm#001.md), [1 Samuel
+19:1-7](../bib/kjv/sa1019.htm#001.md), [1 Samuel
+20:30-42](../bib/kjv/sa1020.htm#030.md), [2 Samuel
+1:25-6](../bib/kjv/sa2001.htm#025.md). While their bond is described as
 non-sexual, it is difficult to characterize it as purely one of
 friendship.
 
@@ -557,11 +557,11 @@ back, as well as other gifts such as weapons.
 
 Later in the narrative, Jonathan successfully intercedes with Saul to
 spare David's life. At their last meeing, [1 Samuel
-20:41](../bib/kjv/sa1020.htm#030), they are described as kissing one
+20:41](../bib/kjv/sa1020.htm#030.md), they are described as kissing one
 another and weeping together. David's grief at Jonathan's death is
 profound and moving. In Davids lament for Jonathan he describes their
 friendship as '(sur)passing the love of women'. This elegy, [2 Samuel
-1:18-27](../bib/kjv/sa2001.htm#018). known as 'the Bow,' is one of the
+1:18-27](../bib/kjv/sa2001.htm#018.md). known as 'the Bow,' is one of the
 most beloved passages in the Hebrew Bible.
 
 This narrative far outweighs the two trivial aspersions against same-sex
@@ -578,7 +578,7 @@ In the four Gospels, Jesus is portrayed throughout with a message of
 love and tolerance. Not once does he condemn homosexuals, demand that
 they be put to death, etc., as do some of his modern followers. Such a
 pronouncement would be a profound departure from the rest of the text.
-For instance, in [Matthew 22:37](../bib/kjv/mat022.htm#037), Jesus is
+For instance, in [Matthew 22:37](../bib/kjv/mat022.htm#037.md), Jesus is
 quoted as saying:
 
 > 22:37 ...Thou shalt love the Lord thy God with all thy heart, and with
@@ -588,7 +588,7 @@ quoted as saying:
 > thyself.  
 > 22:40 On these two commandments hang all the law and the prophets.
 
-And in [John 13:34](../bib/kjv/joh013.htm#034), he is additionally
+And in [John 13:34](../bib/kjv/joh013.htm#034.md), he is additionally
 quoted as saying:
 
 > 13:34 A new commandment I give unto you, That ye love one another; as
@@ -602,12 +602,12 @@ character.
 ##### Paul
 
 Not so with the disciple Paul. In [Romans
-1:26-7](../bib/kjv/rom001.htm#026) Paul condemns both male and female
+1:26-7](../bib/kjv/rom001.htm#026.md) Paul condemns both male and female
 homosexuality as 'against nature' (hence the term 'unnatural act').
 Notably, this is the sole reference to female homosexuality in the
-entire Bible. In [1 Corinthians 6:9-11](../bib/kjv/co1006.htm#009) Paul
+entire Bible. In [1 Corinthians 6:9-11](../bib/kjv/co1006.htm#009.md) Paul
 says that the 'effeminate' shall '(not) inherit the Kingdom of God'. In
-[1 Timothy 1:8-11](../bib/kjv/ti1001.htm#008) Paul brands 'those who
+[1 Timothy 1:8-11](../bib/kjv/ti1001.htm#008.md) Paul brands 'those who
 defile themselves with mankind' as criminals, along with thieves and
 murderers. These passages in the Epistles are the only three places
 where homosexuality is mentioned in the NT. Scholars consider these
@@ -619,8 +619,8 @@ agendas related to political infighting or outright extortion. An early
 example of this was the Byzantine Emperor Constantine, who put in place
 discriminatory laws against homosexuals, and then proceeded to use those
 laws to blackmail and marginalize rivals. Refer to the [Secret History
-of Procopius](../cla/proc/shp/index), *e.g.* [Chapter XVI, p.
-163](../cla/proc/shp/shp19.htm#page_163).
+of Procopius](../cla/proc/shp/index.md), *e.g.* [Chapter XVI, p.
+163](../cla/proc/shp/shp19.htm#page_163.md).
 
 <span id="gaymarriage"></span>
 
@@ -630,7 +630,7 @@ of Procopius](../cla/proc/shp/index), *e.g.* [Chapter XVI, p.
 
 Actually this is kind of a trick topic. There is no mention of gay
 marriage in the Bible (except, possibly, the [account of the 'covenant'
-of David and Jonathan](#davidjonathan)). But neither is there any
+of David and Jonathan](#davidjonathan).md). But neither is there any
 mention of representative democracy, electricity, the Internet, or
 polyester clothing. For the vast majority of Christians and Jews (even
 those that believe in Biblical inerrancy), just because something
@@ -644,7 +644,7 @@ pinhole you look through, the Bible can be cited as both approving or
 forbidding polygamy, monogamy, divorce, and lifelong celibacy. So it is
 no wonder that there are quotes that can be manipulated in the same way
 to condemn gay marriage. For instance, the often quoted [Genesis
-2:23-4](../bib/kjv/gen002.htm#023):
+2:23-4](../bib/kjv/gen002.htm#023.md):
 
 2:23 And Adam said, This is now bone of my bones, and flesh of my flesh:
 she shall be called Woman, because she was taken out of Man.
@@ -657,14 +657,14 @@ another look, This passage does *not* say "'Thou shalt not let two men
 or two women get married, and get the same tax breaks and hospital
 visitation rights as heterosexuals." When a commandment or injunction
 occurs in the Bible it is stated explicitly, as throughout
-[Leviticus](#leviticus).
+[Leviticus](#leviticus.md).
 
-This passage also has [mystical overtones](#inthebeginning) which
+This passage also has [mystical overtones](#inthebeginning.md) which
 literalists are apt to completely miss or ignore. It implies that Adam
 was at one time united with Eve in the same body, and the reason that
 people seek companionship is because they are searching for their
 missing half. (This is similar to Plato's [theory of the
-androgyne](#plato_androgyne)). Also, both in the Tanach and the NT,
+androgyne](#plato_androgyne).md). Also, both in the Tanach and the NT,
 **marriage is used as a metaphor for the union of the soul with God**,
 which is obviously binary.
 
@@ -674,30 +674,30 @@ they were at the time. All of these types of marriage are today either
 illegal in most western countries or considered highly unusual, much
 more so than monogamous same sex unions.
 
-In [Genesis 16](../bib/kjv/gen016) Sarah, Abraham's wife, encourages
+In [Genesis 16](../bib/kjv/gen016.md) Sarah, Abraham's wife, encourages
 Abraham to impregnate her handmaid, Hagar, because she is barren
 (although Sarah miraculously later gives birth to Isaac). Later
-([Genesis 25](../bib/kjv/gen025)) Abraham takes yet another wife,
+([Genesis 25](../bib/kjv/gen025).md) Abraham takes yet another wife,
 Keturah, who is also described as a concubine. ![Jacob, Rachel and Leah:
-family tree](img/bfvnote.jpg)
+family tree](img/bfvnote.jpg.md)
 
-In [Genesis 29](../bib/kjv/gen029) Jacob marries the sisters Rachel and
+In [Genesis 29](../bib/kjv/gen029.md) Jacob marries the sisters Rachel and
 Leah, who are the daughters of Laban, his maternal uncle. In the [next
-chapter](../bib/kjv/gen030), Jacob has two sons by Bilhah, Rachel's
+chapter](../bib/kjv/gen030.md), Jacob has two sons by Bilhah, Rachel's
 handmaid, two sons by Zilpah, Leah's handmaid, then two sons by Leah,
 and finally Rachel bears Joseph.
 
-Six wives of David are named in [2 Sam. 3:2](../bib/kjv/sa2003.htm#002).
+Six wives of David are named in [2 Sam. 3:2](../bib/kjv/sa2003.htm#002.md).
 
 Solomon is described as having [seven hundred wives and three hundred
-concubines](../bib/kjv/kg1011). However, the Talmud ([Tractate
-Sanhedrin](../jud/t08/t0805.htm#page_54)) states that a king may have no
+concubines](../bib/kjv/kg1011.md). However, the Talmud ([Tractate
+Sanhedrin](../jud/t08/t0805.htm#page_54).md) states that a king may have no
 more than eighteen wives.
 
 Note that out of all of these arrangements, only marrying two sisters is
-explicitly forbidden in [Leviticus 18](../bib/kjv/lev018); however it is
+explicitly forbidden in [Leviticus 18](../bib/kjv/lev018.md); however it is
 permitted to [marry a deceased wife's
-sister](../bib/kjv/lev018.htm#018).
+sister](../bib/kjv/lev018.htm#018.md).
 
 So it is absolutely disingenuous to speak of 'traditional marriage' (as
 a codeword for heterosexual monogamy) as biblical. It is even more
@@ -707,7 +707,7 @@ should know better.
 #### The New Testament
 
 However, in at least one passage in the NT, marriage is defined as
-monogamous. In [Mark 10:2-12](../bib/kjv/mar010.htm#002)), Jesus is
+monogamous. In [Mark 10:2-12](../bib/kjv/mar010.htm#002).md), Jesus is
 quoted as saying:
 
 10:2 And the Pharisees came to him, and asked him, Is it lawful for a
@@ -749,7 +749,7 @@ asunder'. In 10:10-12, Jesus explains the concept again, *just in case
 we missed the point the first time around*. As usual, the language
 attributed to Jesus is very specific and transparent.
 
-Also of interest is [1 Timothy 4:1](../bib/kjv/ti1004.htm#001):
+Also of interest is [1 Timothy 4:1](../bib/kjv/ti1004.htm#001.md):
 
 4:1 Now the Spirit speaketh expressly, that in the latter times some
 shall depart from the faith, giving heed to seducing spirits, and
@@ -769,10 +769,10 @@ be received with thanksgiving:
 
 Here Paul disapproves of the prohibition of marriage, as well as the
 practise of vegetarianism. This is probably a reference to a
-[Gnostic](../gno/index) group, some of whom were vegetarians. A few
+[Gnostic](../gno/index.md) group, some of whom were vegetarians. A few
 Gnostics and early Christians were opposed to marriage in **any** form
 (including monogamous, heterosexual marriage). Marriage was considered a
-grave sin by some of the [early Church fathers](../chr/ecf/index), and
+grave sin by some of the [early Church fathers](../chr/ecf/index.md), and
 the only way into the kingdom of heaven to be the lifelong mortification
 of the flesh. This passage by Paul from the Epistles weighs in against
 this particular concept. On the other hand, some Gnostics and early
@@ -811,16 +811,16 @@ Male homosexuality is only implied in the Qur'an, and there is no
 mention of lesbians or transexuals.
 
 The story of Lot is repeated numerous times (e.g.,
-[26:165-6](../isl/quran/02609.htm#026:165),
-[27:55](../isl/quran/02704.htm#027:055), and
-[29:28-9](../isl/quran/02903.htm#029:028)).
+[26:165-6](../isl/quran/02609.htm#026:165.md),
+[27:55](../isl/quran/02704.htm#027:055.md), and
+[29:28-9](../isl/quran/02903.htm#029:028).md).
 
-The [Yusuf Ali translation of 26:165](../isl/quran/02609.htm#026:165)
+The [Yusuf Ali translation of 26:165](../isl/quran/02609.htm#026:165.md)
 runs: "Of all creatures in the world will ye approach males, and leave
 those whom God has created to be your mates, Nay ye are a people
 transgressing all limits"
 
-The [Palmer translation of 27:55](../isl/sbe09/027.htm#page_104) is:
+The [Palmer translation of 27:55](../isl/sbe09/027.htm#page_104.md) is:
 "And Lot ... said to his people: 'Do ye approach an abominable sin while
 ye can see? do ye indeed approach men lustfully rather than women? nay!
 ye are a people who are ignorant.'"
@@ -834,8 +834,8 @@ In context, the Qur'an mentions other cities which were destroyed, not
 just Sodom; including the legendary cities of 'Ad and Thamud. These have
 much different narratives. For instance, in Thamud "there were in the
 city nine persons who despoiled the land and did not right."
-([27:49](../isl/sbe09/027.htm#page_104)). In [Surah
-11](../isl/sbe06/011.htm#page_208) a parallel is drawn between the story
+([27:49](../isl/sbe09/027.htm#page_104).md). In [Surah
+11](../isl/sbe06/011.htm#page_208.md) a parallel is drawn between the story
 of Lot and the Biblical flood narrative of Noah. This is a constant
 theme that runs throughout the Qur'an. It draws freely from Biblical,
 Talmundic and traditional Arabic lore of civilizations overwhelmed by
@@ -848,15 +848,15 @@ creator and destroyer of all things. This is a much larger concern, on a
 cosmic scale, than what people do in their bedrooms.
 
 There is a *possible* mention of male homosexuality in Surah 4:16.
-[Yusuf Ali translates this as:](../isl/quran/00403.htm#004:016). "If two
+[Yusuf Ali translates this as:](../isl/quran/00403.htm#004:016.md). "If two
 men among you are guilty of lewdness, punish them both. If they repent
 and amend, *Leave them alone*; for God is oft-returning, Most Merciful"
 (emphasis inserted). [Palmer's translation of the same passage
-is](../isl/sbe06/004.htm#page_74): "And if two of you commit
+is](../isl/sbe06/004.htm#page_74.md): "And if two of you commit
 \[adultery\], then hurt them both; but if they turn again and amend,
 leave them alone, verily God is easily turned, compassionate". (Adultery
 is implied from the previous paragraph). [Palmer
-notes](../isl/sbe06/004.htm#fn_174): "the commentators are not agreed as
+notes](../isl/sbe06/004.htm#fn_174.md): "the commentators are not agreed as
 to the nature of the offence here referred to. The punishment to be
 inflicted is also the subject of dispute." This stands out here, because
 this Surah (The Women) codifies a number of laws and regulations about
@@ -864,7 +864,7 @@ sexual behavior, and in each case *except for this*, the text lays out
 specific punishments.
 
 There is also a cryptic passage in [Surah
-76](../isl/sbe09/076.htm#page_313): one of the rewards in Paradise is
+76](../isl/sbe09/076.htm#page_313.md): one of the rewards in Paradise is
 described as "eternal boys...\[like\] scattered pearls...and when thou
 seest them thou shalt see pleasure and a great estate." (Palmer).
 Whether these are supposed to simply be attendants or companions is left
@@ -873,7 +873,7 @@ to the imagination.
 There is, however, explicit condemnation of homosexuality in the Hadith,
 which are traditional sayings from early Islam which have acquired legal
 status. For instance, Williams in his anthology Islam, quotes the
-following Hadith ([p. 83](../isl/isl/isl13.htm#page_83)): Bukhārī . . .
+following Hadith ([p. 83](../isl/isl/isl13.htm#page_83).md): Bukhārī . . .
 from Ibn ‘Abbās: "The Prophet cursed men who act like women and women
 who act like men, and said, 'Drive them from your houses.' He expelled
 such people, and ‘Umar did it as well."
@@ -892,9 +892,9 @@ tangential.
 ## Other Religions
 
 [OCRT: The Baha'i Faith and
-Homosexuality](https://www.religioustolerance.org/hom_bah)  
+Homosexuality](https://www.religioustolerance.org/hom_bah.md)  
 [OCRT: The Zorosastrian Faith and
-Homosexuality](https://www.religioustolerance.org/hom_zor) \[External
+Homosexuality](https://www.religioustolerance.org/hom_zor.md) \[External
 Site\] A review of (mostly negative) Baha'i and Zoroastrian views on
 homosexuality, including quotes from their sacred texts and other
 scriptures.
@@ -903,17 +903,17 @@ scriptures.
 
 ## Other Texts
 
-[The Talmud: Baba Bathra Chapter IX](../jud/t07/t0718)  
-This part of the [Talmud](../jud/talmud) has a remarkably equitable
+[The Talmud: Baba Bathra Chapter IX](../jud/t07/t0718.md)  
+This part of the [Talmud](../jud/talmud.md) has a remarkably equitable
 discussion of the legal status of transgender people with regards to
 inheritance and parental support.
 
-[Kama Sutra of Vatsayayana](../sex/kama/index)  
+[Kama Sutra of Vatsayayana](../sex/kama/index.md)  
 translated by Sir Richard Burton \[1883\]  
 This work describes gay and lesbian sexual behavior non-judgementally in
 first millenium India, as part of a spectrum of sexual practices.
 
-[The Sufi Poets](../isl/index.htm#sufi)  
+[The Sufi Poets](../isl/index.htm#sufi.md)  
 Rumi, Hafiz and Sa'di, the Sufi poets, had a mystical view of love in
 which the relationship between the lover and the beloved mirrored
 humanity's relationship with God. This was not limited to heterosexual
@@ -924,34 +924,34 @@ love, but was a more universal concept, transcending gender.
 ## Modern Texts
 
 <span class="c_e"> <span class="c_t">[A Problem in Modern
-Ethics](pme/index)</span> By <span class="c_a">John Addington
+Ethics](pme/index.md)</span> By <span class="c_a">John Addington
 Symonds</span> \[<span class="c_d">1896</span>\]   <span class="c_b">One
 of the first sympathetic essays on gay rights written in the modern
 epoch.</span> Symonds later wrote *A Problem in Greek Ethics* (below).
 </span>
 
 <span class="c_e"> <span class="c_t">[A Problem in Greek
-Ethics](pge/index)</span> By <span class="c_a">John Addington
+Ethics](pge/index.md)</span> By <span class="c_a">John Addington
 Symonds</span> \[<span class="c_d">1901</span>\]   <span class="c_b">A
 study of Greek homosexuality. from the romantic and the erotic point of
 view</span>, centering on the institutionalized (and idealized) love of
 adolescent males by older men. </span>
 
 <span class="c_e"> <span class="c_t">[Love's Coming of
-Age](lca/index)</span> By <span class="c_a">Edward Carpenter</span>
+Age](lca/index.md)</span> By <span class="c_a">Edward Carpenter</span>
 \[<span class="c_d">1906</span>\]   <span class="c_b">A essay arguing a
 comprehensive vision of sexual liberation based on expansion of gender
 roles and women's liberation.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Intermediate Types Among Primitive
-Folk](itp/index)</span> by <span class="c_a">Edward Carpenter</span>
+Folk](itp/index.md)</span> by <span class="c_a">Edward Carpenter</span>
 \[<span class="c_d">1914</span>\]   <span class="c_b">Carpenter reviews
 the extensive literature of homosexuality in the ancient world, relating
 it to anthopological reports</span> about shamans and berdaches
 (transgender people) in tribal societies, and to institutionalized male
 same-sex relationships in feudal Japan. </span>
 
-<span class="c_e"> <span class="c_t">[Ioläus](iol/index)</span> by <span
+<span class="c_e"> <span class="c_t">[Ioläus](iol/index.md)</span> by <span
 class="c_a">Edward Carpenter</span> \[<span class="c_d">1918</span>\]  
 <span class="c_b">An anthology of literary quotes about (primarily) male
 friendship, from David and Jonathan to Walt Whitman, particularly those
@@ -969,32 +969,32 @@ Following is a short list of recommended recent books on this topic.
 (Links are to Amazon.com).
 
 [Christianity, Social Tolerance and
-Homosexuality](https://www.amazon.com/exec/obidos/ASIN/0226067114/internetsacredte)
+Homosexuality](https://www.amazon.com/exec/obidos/ASIN/0226067114/internetsacredte.md)
 by John Boswell  
 A ground-breaking academic study of the history of attitudes towards
 homosexuality by Christianity.  
 [Same Sex Unions in Premodern
-Europe](https://www.amazon.com/exec/obidos/ASIN/0679751645/internetsacredte),
+Europe](https://www.amazon.com/exec/obidos/ASIN/0679751645/internetsacredte.md),
 by John Boswell  
 Did the medieval Catholic and Eastern Orthodox church sanction same-sex
 unions? A respected scholar produces the evidence.  
 [Myths and Mysteries of Same-Sex
-Love](https://www.amazon.com/exec/obidos/ASIN/0826405266/internetsacredte),
+Love](https://www.amazon.com/exec/obidos/ASIN/0826405266/internetsacredte.md),
 by Christene Downing  
 Includes an extended study of same-sex love in the ancient world.  
 [The Invention of Sodomy in Christian
-Theology](https://www.amazon.com/exec/obidos/ASIN/0226410404/internetsacredte),
+Theology](https://www.amazon.com/exec/obidos/ASIN/0226410404/internetsacredte.md),
 by Mark D. Jordan  
 An academic study of the emergence of the term 'Sodomy' during the
 middle ages; the author found no instance of this usage before the 11th
 century.  
 [Islamic
-Homosexualities](https://www.amazon.com/exec/obidos/ASIN/0814774687/internetsacredte),
+Homosexualities](https://www.amazon.com/exec/obidos/ASIN/0814774687/internetsacredte.md),
 by Stephen O. Murray and Will Roscoe  
 A sociologist and a historian look at homosexuality in practice in the
 Islamic world.  
 [Homosexuality &
-Civilization](https://www.amazon.com/exec/obidos/ASIN/067401197X/internetsacredte)
+Civilization](https://www.amazon.com/exec/obidos/ASIN/067401197X/internetsacredte.md)
 by Louis Compton  
 A comprehensive study of gay history. Includes Japan and China.  
 

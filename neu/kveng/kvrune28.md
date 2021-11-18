@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)   
-[Finnish](../kvfin/28)   
-[Previous](kvrune27)  [Next](kvrune29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index.md)   
+[Finnish](../kvfin/28.md)   
+[Previous](kvrune27)  [Next](kvrune29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Kalevala*, by John Martin Crawford, \[1888\], at Intangible Textual
 Heritage
 
@@ -328,4 +328,4 @@ To my hero's place of resting."
 
 ------------------------------------------------------------------------
 
-[Next: Rune XXIX. The Isle of Refuge.](kvrune29)
+[Next: Rune XXIX. The Isle of Refuge.](kvrune29.md)

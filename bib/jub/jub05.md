@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub04) 
-[Next](jub06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub04.md) 
+[Next](jub06.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ happen to the children of men throughout their generations until the day
 of judgement; he saw and understood everything, and wrote his testimony,
 and placed the testimony on earth for all the children of men and for
 their generations*) forms an exact description of the "Dream-Visions" in
-1 Enoch lxxxiii.-xc. <span id="fr_7"></span>[1](#fn_7). There are also a
+1 Enoch lxxxiii.-xc. <span id="fr_7"></span>[1](#fn_7.md). There are also a
 number of parallels with the *Testaments of the XII Patriarchs*, but
 these are not sufficient to show dependence on either side; the
 phenomena rather suggest that both writers are using common sources: Cf.
@@ -74,7 +74,7 @@ chapters setting forth the story of the Creation (*Ma‘aseh Bereshith*).
 . . . The past is recalled and the future revealed. The nature of God,
 angels and man is unfolded. We read of sin and grace, repentance and
 atonement, good and evil, life and death, Paradise and Gehenna, Satan
-and Messiah." <span id="fr_8"></span>[1](#fn_8)
+and Messiah." <span id="fr_8"></span>[1](#fn_8.md)
 
 Numerous references to *Jubilees* occur in Christian literature
 (patristic period and later), where long extracts from the Book are
@@ -87,11 +87,11 @@ sufficient to establish any real or direct connexion.
 
 ### Footnotes
 
-<span id="fn_7"></span>[xiv:1](jub05.htm#fr_7) For further parallels see
+<span id="fn_7"></span>[xiv:1](jub05.htm#fr_7.md) For further parallels see
 Charles, Jubilees, pp. lxviii ff.
 
-<span id="fn_8"></span>[xv:1](jub05.htm#fr_8) *Op. cit.*, p. xxii.
+<span id="fn_8"></span>[xv:1](jub05.htm#fr_8.md) *Op. cit.*, p. xxii.
 
 ------------------------------------------------------------------------
 
-[Next: The Special Aims and General Character of the Book](jub06)
+[Next: The Special Aims and General Character of the Book](jub06.md)

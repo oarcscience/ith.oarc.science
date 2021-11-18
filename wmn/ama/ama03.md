@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](ama02)  [Next](ama04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](ama02)  [Next](ama04.md) 
 
 ------------------------------------------------------------------------
 
@@ -180,7 +180,7 @@ this
 <span id="img_02800"></span>
 
 [![PHIGALIAN FRIEZE, GREEKS AND AMAZONS. BRITISH MUSEUM](tn/02800.jpg)  
-Click to enlarge](img/02800.jpg)  
+Click to enlarge](img/02800.jpg.md)  
 PHIGALIAN FRIEZE, GREEKS AND AMAZONS. BRITISH MUSEUM  
 
  
@@ -302,7 +302,7 @@ been pushed back. Bellerophon gone, the bulwark against the restless
 <span id="img_03300"></span>
 
 [![FRIEZE OF MONSOLUS.](tn/03300.jpg)  
-Click to enlarge](img/03300.jpg)  
+Click to enlarge](img/03300.jpg.md)  
 FRIEZE OF MONSOLUS.  
 
  
@@ -747,4 +747,4 @@ sacrifice of life. And so the scene closes on a note of pity.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: The Amazons of Antiquity--(continued)](ama04)
+[Next: Chapter III: The Amazons of Antiquity--(continued)](ama04.md)

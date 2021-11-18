@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe186)  [Next](prwe188) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe186)  [Next](prwe188.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ boat into the sea.
 
 ------------------------------------------------------------------------
 
-[Next: Traditions of Tinners](prwe188)
+[Next: Traditions of Tinners](prwe188.md)

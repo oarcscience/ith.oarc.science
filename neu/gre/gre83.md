@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre82)  [Next](gre84) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre82)  [Next](gre84.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ season that come not into this story.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXXIX: Of the Talk at the Thing about Grettir's
-Outlawry](gre84)
+Outlawry](gre84.md)

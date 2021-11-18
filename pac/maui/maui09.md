@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](maui08)  [Next](maui10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](maui08)  [Next](maui10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHBQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHBQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Legends of Maui, A Demi-God of Polynesia*, by W. D. Westervelt,
 \[1910\], at Intangible Textual Heritage
 
@@ -299,4 +299,4 @@ that their fathers knew them before the white men sailed on the Pacific.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Maui and Tuna](maui10)
+[Next: VII. Maui and Tuna](maui10.md)

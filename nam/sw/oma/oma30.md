@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma29)  [Next](oma31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma29)  [Next](oma31.md) 
 
 ------------------------------------------------------------------------
 
-### KATSINA INITIATION <span id="fr_230"></span>[23](#fn_230)
+### KATSINA INITIATION <span id="fr_230"></span>[23](#fn_230.md)
 
 This initiation goes back in place to White House where the real katsina
 left and the katsina society was organized. Acoma people do it exactly
@@ -21,7 +21,7 @@ initiation is held. It is called the initiation of the children
 
 Country Chief asks Antelope Man if it is not time to initiate the
 children. (Girls and boys both are in this. This is initiation into the
-tribe.) <span id="fr_231"></span>[24](#fn_231) Antelope Man says, "Yes,
+tribe.) <span id="fr_231"></span>[24](#fn_231.md) Antelope Man says, "Yes,
 it is time." They keep watch for the sunrise from the east end of the
 mesa. There are different points on the east mesa, where the sun comes
 up. The sun is watched from a certain rock; the horizon is on the east
@@ -35,9 +35,9 @@ select someone to be a "father" to the child, to present him for
 initiation. The father makes up a prayer stick with which to approach
 the man he is going to ask to act as "father" to the child. Two days
 before the ceremony, the father goes to the house of the man he selects.
-Usually he selects a [friend](errata.htm#5) and he speaks to him as
+Usually he selects a [friend](errata.htm#5.md) and he speaks to him as
 "brother." He asks him if he will act as "father" to the child, naming
-him with clan name. <span id="fr_232"></span>[25](#fn_232) He brings
+him with clan name. <span id="fr_232"></span>[25](#fn_232.md) He brings
 also corn meal and ground up mixed food and cigarettes. The man says a
 prayer accepting the child. It is customary to bring a large amount of
 corn meal, as the person accepting must take some of it to all his
@@ -45,7 +45,7 @@ relatives because this child is to become a son of all of his clan, and
 each of his relatives (everyone, men, women and children) takes some of
 this corn meal and goes out and prays for the child. Country Chief
 appoints a man to represent Tsitsanits, the katsina chief, from
-hai'mata’ata <span id="fr_233"></span>[26](#fn_233) kiva. Country Chief
+hai'mata’ata <span id="fr_233"></span>[26](#fn_233.md) kiva. Country Chief
 also selects two Gomaiowish from the same kiva. (A man belongs in the
 kiva of his father.)
 
@@ -56,7 +56,7 @@ Country Chief then leaves, and guards the kiva. The Antelope clan nawai
 gets some of his clan members who know the songs and in the afternoon
 they are brought into Mauharo kiva. Later the two Gomaiowish come in,
 talking busily. They have come from the west. Antelope clan nawai waits
-for them in his office <span id="fr_234"></span>[27](#fn_234)
+for them in his office <span id="fr_234"></span>[27](#fn_234.md)
 
 <span id="page_110">p. 110</span>
 
@@ -166,15 +166,15 @@ the house of the child and brings the child to her house. They have
 there in the house, set in baskets, the outfit for the child: if a
 boy--bow and arrow, hunter stick, and clothes; if a girl--clothes and
 the rainbow head ornament (uaishtiakayani) <span
-id="fr_235"></span>[28](oma31.htm#fn_235) ([pl. 13, fig.
-1](oma46.htm#img_pl13a)). <span
-id="fr_236"></span>[29](oma31.htm#fn_236) When the children are brought
+id="fr_235"></span>[28](oma31.htm#fn_235.md) ([pl. 13, fig.
+1](oma46.htm#img_pl13a).md). <span
+id="fr_236"></span>[29](oma31.htm#fn_236.md) When the children are brought
 in, the "mother" uncovers the basket, saying, "This has been sent you by
 the katsina. The crows brought it from Wenimats." (Children seeing
 crows, look at them to see if they are carrying presents, The
 "stockings" of the katsina represent crow stockings. Parents point out
 the crows to the children, saying, "See, the katsina are going to
-come!" <span id="fr_237"></span>[30](oma31.htm#fn_237) Katsina presents
+come!" <span id="fr_237"></span>[30](oma31.htm#fn_237.md) Katsina presents
 are left outside the door, to get children up early, and parents will
 say, "See what your brother found! Let's see to whom it belongs." The
 children try on the different things to see for whom each thing is
@@ -195,14 +195,14 @@ relatives of the "father" will be considered relatives.
 
 ### Footnotes
 
-<span id="fn_229"></span>[108:22](oma29.htm#fr_229) According to White
+<span id="fn_229"></span>[108:22](oma29.htm#fr_229.md) According to White
 1932, p. 40, the two under war chiefs may refuse, but the first chief
 must drink it.
 
-<span id="fn_230"></span>[108:23](oma30.htm#fr_230) Cf. White, 1932, pp.
+<span id="fn_230"></span>[108:23](oma30.htm#fr_230.md) Cf. White, 1932, pp.
 71-75; 1942.
 
-<span id="fn_231"></span>[109:24](oma30.htm#fr_231) Women at Acoma are
+<span id="fn_231"></span>[109:24](oma30.htm#fr_231.md) Women at Acoma are
 not initiated into the *societies* (Informant). Although Acoma women are
 initiated to the Katsina society, they never wear masks (White, 1932, p.
 70). At Sia, according to Stevenson, women participate in masked dances,
@@ -218,17 +218,17 @@ ignorance of the fact that the katsina dancers are men (White, 1935, pp.
 in ignorance of the identity of the katsina dancers (Dumarest, 1919, pp.
 174-175; see also Goldfrank, 1927 pp. 44 104).
 
-<span id="fn_232"></span>[109:25](oma30.htm#fr_232) Does this imply that
+<span id="fn_232"></span>[109:25](oma30.htm#fr_232.md) Does this imply that
 the clan has a stock of personal names, like the Hopi clan? For
 Hopi-Acoma parallels, several drawn from this monograph, see Parsons
 1939, pp. 980-982.
 
-<span id="fn_233"></span>[109:26](oma30.htm#fr_233) Cf. White, 1932, p.
+<span id="fn_233"></span>[109:26](oma30.htm#fr_233.md) Cf. White, 1932, p.
 30.
 
-<span id="fn_234"></span>[109:27](oma30.htm#fr_234) The house of the
+<span id="fn_234"></span>[109:27](oma30.htm#fr_234.md) The house of the
 cacique who is Antelope clan nawai.
 
 ------------------------------------------------------------------------
 
-[Next: Koshari Initiation](oma31)
+[Next: Koshari Initiation](oma31.md)

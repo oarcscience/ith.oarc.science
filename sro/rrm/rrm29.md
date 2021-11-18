@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm28)  [Next](rrm30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm28)  [Next](rrm30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -394,7 +394,7 @@ by the finger of God (although to man they are ever rearranging), can be
 read by the competent as Fate Natural and supernatural, though one is
 only the reversed side of the other, as 'darkness is only the reversed
 side of light, and light is only the reversed side of darkness', <span
-id="fr_12"></span>[1](#fn_12) are mistaken by man for opposites,
+id="fr_12"></span>[1](#fn_12.md) are mistaken by man for opposites,
 although they are the same: man living in this state in darkness,
 although his world is light; and heaven in this state being darkness,
 although this state is light.
@@ -504,9 +504,9 @@ notwithstanding the insurmountable contradiction of the senses.
 
 ### Footnotes
 
-<span id="fn_12"></span>[221:1](rrm29.htm#fr_12) '*Comte de Gabalis*':
+<span id="fn_12"></span>[221:1](rrm29.htm#fr_12.md) '*Comte de Gabalis*':
 Rosicrucian.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV: The Great Pyramid](rrm30)
+[Next: Chapter XXV: The Great Pyramid](rrm30.md)

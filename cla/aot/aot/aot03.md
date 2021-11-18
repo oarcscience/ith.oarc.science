@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot02) 
-[Next](aot04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot02.md) 
+[Next](aot04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -121,7 +121,7 @@ we find Euripides putting the following words into the mouth of a chorus
 of Bacchic initiates: "Clad in white robes I speed me from the genesis
 of mortal men, and never more approach the vase of death, for I have
 done with eating food that ever housed a soul." <span
-id="fr_0"></span>[\*](#fn_0) Such words could well be put into the mouth
+id="fr_0"></span>[\*](#fn_0.md) Such words could well be put into the mouth
 of a Brahman or Buddhist ascetic, eager to escape from the bonds of
 Saṁsāra; and such men cannot therefore justly be classed together
 indiscriminately with ribald revellers—the general mind-picture of a
@@ -211,9 +211,9 @@ when Paul was beheaded!
 
 ### Footnotes
 
-<span id="fn_0"></span>[13:\*](aot03.htm#fr_0) From a fragment of The
+<span id="fn_0"></span>[13:\*](aot03.htm#fr_0.md) From a fragment of The
 Cretans. See Lobeck's Aglaophamus, p. 622.
 
 ------------------------------------------------------------------------
 
-[Next: Section III. India and Greece](aot04)
+[Next: Section III. India and Greece](aot04.md)

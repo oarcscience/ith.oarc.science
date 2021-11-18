@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -20,21 +20,21 @@ Here, said Hierocles, in terminating his commentaries, is the blissful
 end of all efforts: here, according to Plato, is the hope which
 enkindles, which sustains the ardour of him who fights in the career of
 virtue: here, the inestimable prize which awaits him. <span
-id="fr_670"></span>[b](#fn_669) It was the great object of the
+id="fr_670"></span>[b](#fn_669.md) It was the great object of the
 mysteries, and so to speak, the great work of initiation. <span
-id="fr_671"></span>[c](#fn_670) The initiate, said Sophocles, is not
+id="fr_671"></span>[c](#fn_670.md) The initiate, said Sophocles, is not
 only happy during his life, but even after his death he can promise
-himself an eternal felicity. <span id="fr_672"></span>[d](#fn_671) His
+himself an eternal felicity. <span id="fr_672"></span>[d](#fn_671.md) His
 soul purified by virtue, said Pindar, unfolds in those blessed regions
 where reigns an eternal springtime. <span
-id="fr_673"></span>[e](#fn_672) It goes on, said Socrates, attracted by
+id="fr_673"></span>[e](#fn_672.md) It goes on, said Socrates, attracted by
 the celestial
 
 <span id="page_277">p. 277</span>
 
 element which has the greatest affinity with its nature, to become
 united with the immortal Gods and to share their glory and their
-immortality. <span id="fr_674"></span>[a](#fn_673) This deification was,
+immortality. <span id="fr_674"></span>[a](#fn_673.md) This deification was,
 according to Pythagoras, the work of divine love; it was reserved for
 him who had acquired truth through his intellectual faculties, virtue
 through his animistic faculties, and purity through his instinctive
@@ -48,7 +48,7 @@ labour of his faculties. He called this body the subtle chariot of the
 soul, and said that the mortal body is only the gross exterior. He adds,
 "The care of the soul and its luminous body is, in practicing virtue, in
 embracing truth and abstaining from all impure things." <span
-id="fr_675"></span>[b](#fn_674)
+id="fr_675"></span>[b](#fn_674.md)
 
 This is the veritable aim of the symbolic abstinences that he
 prescribes, even as Lysis insinuates moreover quite clearly in the lines
@@ -86,21 +86,21 @@ Himself, fills unceasingly the Immensity.
 
 ### Footnotes
 
-<span id="fn_669"></span>[276:b](ogv48.htm#fr_670) Hierocl., *Aur.
+<span id="fn_669"></span>[276:b](ogv48.htm#fr_670.md) Hierocl., *Aur.
 Carm.*, v. 70.
 
-<span id="fn_670"></span>[276:c](ogv48.htm#fr_671) Prod., *In Tim.*, l.
+<span id="fn_670"></span>[276:c](ogv48.htm#fr_671.md) Prod., *In Tim.*, l.
 v., p. 330
 
-<span id="fn_671"></span>[276:d](ogv48.htm#fr_672) *Apud* Plutar., *De
+<span id="fn_671"></span>[276:d](ogv48.htm#fr_672.md) *Apud* Plutar., *De
 Audiend. Pætis*.
 
-<span id="fn_672"></span>[276:e](ogv48.htm#fr_673) Pind., *Olymp*.,
+<span id="fn_672"></span>[276:e](ogv48.htm#fr_673.md) Pind., *Olymp*.,
 iii.; *Apud*, Plutar., *Consol. ad Apoll*.
 
-<span id="fn_673"></span>[277:a](ogv48.htm#fr_674) Plat., *In Phædon*.
+<span id="fn_673"></span>[277:a](ogv48.htm#fr_674.md) Plat., *In Phædon*.
 
-<span id="fn_674"></span>[277:b](ogv48.htm#fr_675) Hiérocl., *Aur.
+<span id="fn_674"></span>[277:b](ogv48.htm#fr_675.md) Hiérocl., *Aur.
 Carm.*, v. 68.
 
  

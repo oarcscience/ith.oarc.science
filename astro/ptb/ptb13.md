@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb12)  [Next](ptb14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb12)  [Next](ptb14.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ sword, is like Mars and Mercury.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Constellations South of the Zodiac](ptb14)
+[Next: Chapter XI. Constellations South of the Zodiac](ptb14.md)

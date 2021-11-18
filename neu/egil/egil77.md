@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil76)  [Next](egil78) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil76)  [Next](egil78.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ friend to the earl.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXVII. Egil gathers tribute.](egil78)
+[Next: CHAPTER LXXVII. Egil gathers tribute.](egil78.md)

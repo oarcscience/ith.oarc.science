@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Next](rmn01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Next](rmn01.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](rmn01)
+[Next: Introduction](rmn01.md)

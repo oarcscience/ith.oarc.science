@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](kg1)  [Next](ch1) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](kg1)  [Next](ch1.md) 
 
 ------------------------------------------------------------------------
 
@@ -3067,4 +3067,4 @@ regular amount every day for the rest of his life.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Chronicles](ch1)
+[Next: 1 Chronicles](ch1.md)

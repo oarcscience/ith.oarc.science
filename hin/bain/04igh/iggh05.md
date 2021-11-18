@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh04) 
-[Next](iggh06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh04.md) 
+[Next](iggh06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -84,7 +84,7 @@ which it may be thou wilt never regain. But thou art my equal in
 also in spirit and soul. Wilt thou have me for a wife, as I am willing
 to choose thee for a husband, and carry me down by the rope by which
 thou didst bring thyself up? For I will choose thee for my husband, of
-my own free will <span id="fr_13"></span>[e](#fn_13), and share all thy
+my own free will <span id="fr_13"></span>[e](#fn_13.md), and share all thy
 poverty and evil fortune, and make it a blessing to thee. Swear to me
 only that thou wilt deal with me loyally and share with me, as with thy
 other self, all thy troubles and all thy
@@ -169,10 +169,10 @@ and a wanderer, and I have taken thee from thy relations and thy home.
 And she said: Is not the wife the child of her husband, and the husband
 the father and mother of his wife? And what home does she need who has
 taken refuge in the heart of her lord <span
-id="fr_14"></span>[f](#fn_14)? Then he put his left arm round her, and
+id="fr_14"></span>[f](#fn_14.md)? Then he put his left arm round her, and
 took her left hand in his right, and kissed it. And he said: What is thy
 name? And she said: I am called Wanawallarí <span
-id="fr_15"></span>[g](#fn_15). Then he said: Thou art well named, and
+id="fr_15"></span>[g](#fn_15.md). Then he said: Thou art well named, and
 now I will be the tree of thy life. Come, and I will find thee a room in
 this abandoned palace, that shall serve thee for a bridal chamber, and I
 will make thee a nuptial
@@ -180,27 +180,27 @@ will make thee a nuptial
 <span id="page_24">p. 24</span>
 
 couch, of hay and straw. For this is our wedding night, and see, yonder
-is the polar star <span id="fr_16"></span>[h](#fn_16).
+is the polar star <span id="fr_16"></span>[h](#fn_16.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_13"></span>[19:e](iggh05.htm#fr_13) This is the old
+<span id="fn_13"></span>[19:e](iggh05.htm#fr_13.md) This is the old
 *swayamwara*, a recognised privilege of kings’ daughters. The reader
 must not look at it with English eyes. An unceremonious marriage is a
 constant feature in old Hindoo tales: and it is none the less a
 marriage.
 
-<span id="fn_14"></span>[23:f](iggh05.htm#fr_14) So, in the *Katha Sarit
+<span id="fn_14"></span>[23:f](iggh05.htm#fr_14.md) So, in the *Katha Sarit
 Ságara*, speaks Rupashikhá.
 
-<span id="fn_15"></span>[23:g](iggh05.htm#fr_15) 'Wood-creeper:'
+<span id="fn_15"></span>[23:g](iggh05.htm#fr_15.md) 'Wood-creeper:'
 'forest-flower.' (Pronounce *wan*- as *nun*, and -*wall*- as *dull*.)
 
-<span id="fn_16"></span>[24:h](iggh05.htm#fr_16) The Pole Star is the
+<span id="fn_16"></span>[24:h](iggh05.htm#fr_16.md) The Pole Star is the
 symbol of marriage, and the emblem of a bride.
 
 ------------------------------------------------------------------------
 
-[Next: III. Water-Lily](iggh06)
+[Next: III. Water-Lily](iggh06.md)

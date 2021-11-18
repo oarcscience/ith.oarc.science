@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas109n)  [Next](jas111n)   
- \[[110. The Children and the Witch.](jas110)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas109n)  [Next](jas111n.md)   
+ \[[110. The Children and the Witch.](jas110.md)\]
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ See Grimm 15, Hansel and Gretel, Bolte u. Polívka 1:115-126. Numbers 83,
 
 ------------------------------------------------------------------------
 
-[Next: Note 111. The Boy and the Mermaid.](jas111n)
+[Next: Note 111. The Boy and the Mermaid.](jas111n.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw102)  [Next](ataw104) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw102)  [Next](ataw104.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -378,4 +378,4 @@ Let us then first address ourselves to that question.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Was Such a Catastrophe Possible?](ataw104)
+[Next: Chapter IV: Was Such a Catastrophe Possible?](ataw104.md)

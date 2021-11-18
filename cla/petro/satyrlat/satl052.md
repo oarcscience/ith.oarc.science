@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat09.htm#LII)  [Previous](satl051) 
-[Next](satl053) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat09.htm#LII)  [Previous](satl051.md) 
+[Next](satl053.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ nam modo Fortunatam suam &lt;verebatur&gt;, revertebat modo ad naturam.
 
 ------------------------------------------------------------------------
 
-[Next: LIII](satl053)
+[Next: LIII](satl053.md)

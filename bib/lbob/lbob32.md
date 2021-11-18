@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -168,7 +168,7 @@ Old Testament are marked thus \*.
 
 ### Footnotes
 
-<span id="fn_1432"></span>[292:†](lbob32.htm#fr_1440) The Papists
+<span id="fn_1432"></span>[292:†](lbob32.htm#fr_1440.md) The Papists
 generally place this Council before the Council of Nice.
 
  

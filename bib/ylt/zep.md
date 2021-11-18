@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](hab)  [Next](hag) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](hab)  [Next](hag.md) 
 
 ------------------------------------------------------------------------
 
@@ -226,4 +226,4 @@ before your eyes, said Jehovah!
 
 ------------------------------------------------------------------------
 
-[Next: Haggai](hag)
+[Next: Haggai](hag.md)

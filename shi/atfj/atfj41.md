@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj40)  [Next](atfj42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj40)  [Next](atfj42.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_45"></span> <span align="CENTER"> [![45. Kichijiro Finds
 Poor O Ima Blind](tn/45.jpg)  
-Click to enlarge](img/45.jpg)  
+Click to enlarge](img/45.jpg.md)  
 45. Kichijiro Finds Poor O Ima Blind  
 </span>
 
@@ -245,6 +245,6 @@ They say in Maidzuru that the memorial tombs still stand.
 
 ------------------------------------------------------------------------
 
-[Next: XL. The Secret of Iidamachi Pond](atfj42)
+[Next: XL. The Secret of Iidamachi Pond](atfj42.md)
 
 </div>

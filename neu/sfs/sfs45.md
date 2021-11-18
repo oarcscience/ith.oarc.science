@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs44)  [Next](sfs46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs44)  [Next](sfs46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -109,7 +109,7 @@ you want?" "All is excellent; I thank you for all; but is it impossible
 for me to be king myself?' The lime-tree began to try to persuade him.
 "Foolish man, for what are you asking? Consider what you were, and what
 you have become. From a cottager you have become a man of high rank and
-everything; but an emperor <span id="fr_11"></span>[\*](#fn_11) is
+everything; but an emperor <span id="fr_11"></span>[\*](#fn_11.md) is
 chosen by God." The lime-tree endeavoured to persuade him with all
 manner of arguments that he had better not make the request, but all in
 vain. The cottager would not budge, but insisted that it should make him
@@ -127,9 +127,9 @@ a little. If you desire much, you will lose what you have obtained.'
 
 ### Footnotes
 
-<span id="fn_11"></span>[167:\*](sfs45.htm#fr_11) Note the transition
+<span id="fn_11"></span>[167:\*](sfs45.htm#fr_11.md) Note the transition
 from king (*korol*) to emperor (*tzar*).
 
 ------------------------------------------------------------------------
 
-[Next: XXXIV. Ilya of Murom and Nightingale the Robber](sfs46)
+[Next: XXXIV. Ilya of Murom and Nightingale the Robber](sfs46.md)

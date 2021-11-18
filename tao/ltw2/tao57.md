@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao57)   
-[Previous](tao56)  [Next](tao58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao57.md)   
+[Previous](tao56)  [Next](tao58.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ and simple.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 58](tao58)
+[Next: Chapter 58](tao58.md)

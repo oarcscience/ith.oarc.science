@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar132) [Next](gbar134)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar132) [Next](gbar134.md)
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ waiteth for the world to repent.
 
 ------------------------------------------------------------------------
 
-[Next](gbar134)
+[Next](gbar134.md)

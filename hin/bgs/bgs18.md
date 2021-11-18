@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg18)   
-[Previous](bgs17) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg18.md)   
+[Previous](bgs17.md) 
 
 ------------------------------------------------------------------------
 

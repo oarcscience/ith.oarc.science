@@ -1,8 +1,8 @@
-[Previous: Mosiah](book07)
+[Previous: Mosiah](book07.md)
 
-[Next: Helaman](book09)
+[Next: Helaman](book09.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -12338,4 +12338,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Helaman](book09)
+[Next: Helaman](book09.md)

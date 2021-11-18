@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab11)  [Next](saab13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab11)  [Next](saab13.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -75,8 +75,8 @@ His Hand, and dropt the Skirt of Fortune.</span>
 </div>
 
 <span id="img_02200"></span> <span align="CENTER"> [![](tn/02200.jpg)  
-Click to enlarge](img/02200.jpg)</span>
+Click to enlarge](img/02200.jpg.md)</span>
 
 ------------------------------------------------------------------------
 
-[Next: XI](saab13)
+[Next: XI](saab13.md)

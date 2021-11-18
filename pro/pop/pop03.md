@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop02)  [Next](pop04) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop02)  [Next](pop04.md) 
 
 ------------------------------------------------------------------------
 
@@ -353,4 +353,4 @@ J. K.
 ------------------------------------------------------------------------
 
 [Next: Introductory: III. Eliphas Lévi's Preface to the
-Prognostications](pop04)
+Prognostications](pop04.md)

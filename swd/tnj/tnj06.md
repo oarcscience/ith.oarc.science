@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](tnj05)  [Next](tnj07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](tnj05)  [Next](tnj07.md) 
 
 ------------------------------------------------------------------------
 
@@ -1200,7 +1200,7 @@ conception. The Lord had the Divine from the Father (n. 4641, 4963,
 5041, 5157, 6716, 10125). The Lord alone had Divine seed (n. 1438). His
 soul was Jehovah (n. 1999, 2004, 2005, 2018, 2025). Thus the inmost of
 the Lord was the Divine itself, the covering <span
-id="fr_9"></span>[298-1](#fn_9) was from the mother (n. 5041). The
+id="fr_9"></span>[298-1](#fn_9) was from the mother (n. 5041.md). The
 Divine itself was the Lord's esse of life from which the human
 afterwards went forth, and became an existere from that esse (n. 3194,
 3210, 10270, 10372).
@@ -1238,9 +1238,9 @@ is to make Divine (n. 1603, 10053, 10828).
 
 ### Footnotes
 
-<span id="fn_9"></span>[298-1](tnj06.htm#fr_9) The original Latin has
+<span id="fn_9"></span>[298-1](tnj06.htm#fr_9.md) The original Latin has
 "inductis" for"induitio."
 
 ------------------------------------------------------------------------
 
-[Next: 301-350](tnj07)
+[Next: 301-350](tnj07.md)

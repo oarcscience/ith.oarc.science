@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](meg02)  [Next](meg04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](meg02)  [Next](meg04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -163,7 +163,7 @@ much in praise of God is uprooted from the world, as it is written
 man talk even till he be swallowed up?" R. Jehudah of the village
 Geboriah, according to others of Gibor-Hail, lectured: It is written
 \[Ps. lxv. 2\]: "For thee praise is silent." <span
-id="fr_40"></span>[1](#fn_30) Silence is the cure to everything: when R.
+id="fr_40"></span>[1](#fn_30.md) Silence is the cure to everything: when R.
 Dima came from Palestine, he said that in the West they say: "A word is
 worth a sela, and silence two."
 
@@ -232,7 +232,7 @@ rabbis did not understand the expression of the Mishna, ‏סירוגין‎ unt
 they beard that the servant-maid of Rabbi, when she saw that the rabbis
 came to Rabbi's house in small detached parties, at intervals, said to
 them Why do you come--Serugin, Serugin? <span
-id="fr_41"></span>[1](#fn_31) The rabbis taught If one made pauses in
+id="fr_41"></span>[1](#fn_31.md) The rabbis taught If one made pauses in
 his reading, he has fulfilled his duty; but if he read it irregularly,
 he has not; R. Muna says in the name of R. Jehudah: Even when one has
 made pauses he has done his duty, provided they were not long enough for
@@ -385,7 +385,7 @@ in public; but an individual may do so. The same says again in the name
 of the same authority: The law that, when the Holy Scrolls are stitched
 together, margins must be left at the top and at the bottom is a Halakha
 from Moses on Sinai. And those who heard him repudiated him, <span
-id="fr_42"></span>[1](#fn_32) saying: It is not a Halakha from Moses on
+id="fr_42"></span>[1](#fn_32.md) saying: It is not a Halakha from Moses on
 Sinai, but it has been ordered only that the parchment may not be torn.
 The same says again in the name of the same authority: If in the case
 where Moses and Elijah were, there had been a chink as narrow as a
@@ -445,7 +445,7 @@ GEMARA: Whence do we deduce this? It is written
 <span class="contnote">\[paragraph continues\]</span> \[Esther, ix.
 28\]: "And these days are remembered and celebrated." The days, and not
 the nights. Shall we assume that this is in contradiction to R. Joshua
-b. Levi, who said above ([p. 7](meg02.htm#page_7).) that one must read
+b. Levi, who said above ([p. 7](meg02.htm#page_7)..md) that one must read
 the Megilla in the evening, and repeat it on the day? What this Mishna
 teaches, that before sunrise the Megilla must not be read, refers to the
 second time, *i.e.*, the reading by day.
@@ -503,7 +503,7 @@ xxiii. 40\]: "And ye shall take unto yourselves on the first *day*."
 day of blowing of the cornet shall it be unto you." "And the additional
 offering," as it is written \[Lev. xxiii. 3 7\]: "Everything upon its
 day." And the prayer at the additional offering is like the offering
-itself. <span id="fr_43"></span>[1](#fn_33)
+itself. <span id="fr_43"></span>[1](#fn_33.md)
 
 "*This is the rule*," etc. What is it meant to include? The putting away
 of the spoon of frankincense, and the taking it away (because the old
@@ -519,14 +519,14 @@ Mena'hoth).
 
 ### Footnotes
 
-<span id="fn_30"></span>[48:1](meg03.htm#fr_40) So the Talmud
+<span id="fn_30"></span>[48:1](meg03.htm#fr_40.md) So the Talmud
 translates.
 
-<span id="fn_31"></span>[50:1](meg03.htm#fr_41) See Rosh-Hashana for
+<span id="fn_31"></span>[50:1](meg03.htm#fr_41.md) See Rosh-Hashana for
 other cases where the rabbis did not understand till they heard the
 explanation by Rabbi's maid.
 
-<span id="fn_32"></span>[53:1](meg03.htm#fr_42) Rashi explained this,
+<span id="fn_32"></span>[53:1](meg03.htm#fr_42.md) Rashi explained this,
 that not others objected, but he himself retracted his assertion. But
 this seems to us incorrect: firstly, as the word "repudiated," in the
 original, is in the plural; and secondly, when R. Hyya bar Abba said in
@@ -545,11 +545,11 @@ old ed., mentioned by us in our note, which means they struck the
 Halakha on its head. We fail to find any reason for this omission, as it
 seems to us very important that the quotation should occur.
 
-<span id="fn_33"></span>[56:1](meg03.htm#fr_43) The remaining laws of
+<span id="fn_33"></span>[56:1](meg03.htm#fr_43.md) The remaining laws of
 the Mishna are also deduced here from verses or from analogies of
 expression; but they are found in other and more proper places, and are
 therefore here omitted.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](meg04)
+[Next: Chapter III](meg04.md)

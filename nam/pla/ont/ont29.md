@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont28)  [Next](ont30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont28)  [Next](ont30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -59,7 +59,7 @@ because of his wonderful vitality, or
 
 <span id="img_35300"></span> <span align="CENTER"> [![ONESTA WITH THE
 BEAR SPEAR.](tn/35300.jpg)  
-Click to enlarge](img/35300.jpg)  
+Click to enlarge](img/35300.jpg.md)  
 ONESTA WITH THE BEAR SPEAR.  
 </span>
 
@@ -110,7 +110,7 @@ could recall having seen the dog during the
 <span id="img_35500"></span> <span align="CENTER"> [![ONESTA HOLDING UP
 PIPE WHILE PRAYING TO THE BEAR SPEAR, WHICH HANGS FROM THE
 TRIPOD.](tn/35500.jpg)  
-Click to enlarge](img/35500.jpg)  
+Click to enlarge](img/35500.jpg.md)  
 ONESTA HOLDING UP PIPE WHILE PRAYING TO THE BEAR SPEAR, WHICH HANGS FROM
 THE TRIPOD.  
 </span>
@@ -312,7 +312,7 @@ upon the prairie after my
 HOLDING CEREMONIAL WITH SACRED MOUNTAIN LION CLAW NECKLACE.&lt;br&gt;
 (Onesta is chanting while painting necklace. Nitana is praying with the
 Pipe.)](tn/36200.jpg)  
-Click to enlarge](img/36200.jpg)  
+Click to enlarge](img/36200.jpg.md)  
 ONESTA AND NITANA HOLDING CEREMONIAL WITH SACRED MOUNTAIN LION CLAW
 NECKLACE.  
 (Onesta is chanting while painting necklace. Nitana is praying with the
@@ -365,7 +365,7 @@ as a tonic for Kionama's weak stomach. Menake showed me a special
 collection she was taking as a present to Brings-down-the-Sun,
 containing plants he used in doctoring, but did not grow in the north
 country. When I started a botanical collection <span
-id="fr_37"></span>[1](#fn_33) of my own, the women were constantly on
+id="fr_37"></span>[1](#fn_33.md) of my own, the women were constantly on
 the look-out to aid me, pointing out the different varieties, telling
 their. Indian names, and explaining their different uses and methods of
 preparation. Our outfit was frequently halted to secure additional
@@ -395,7 +395,7 @@ with keen interest at everything about me,—the decorations on
 
 <span id="img_36500"></span> <span align="CENTER"> [![CAMP OF THE
 BLOODS.](tn/36500.jpg)  
-Click to enlarge](img/36500.jpg)  
+Click to enlarge](img/36500.jpg.md)  
 CAMP OF THE BLOODS.  
 </span>
 
@@ -454,9 +454,9 @@ promptly repaid by Menake and Nitana with tobacco, rice, flour and meat.
 
 ### Footnotes
 
-<span id="fn_33"></span>[364:1](ont29.htm#fr_37) See
-[Appendix](ont45.htm#an_364).
+<span id="fn_33"></span>[364:1](ont29.htm#fr_37.md) See
+[Appendix](ont45.htm#an_364.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII. Camp of the Bloods](ont30)
+[Next: Chapter XXVII. Camp of the Bloods](ont30.md)

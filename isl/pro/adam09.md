@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam08)  [Next](adam10) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam08)  [Next](adam10.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ oppressor of (His) bondmen.
 
 ------------------------------------------------------------------------
 
-[Next: Crying of Adam for paradise](adam10)
+[Next: Crying of Adam for paradise](adam10.md)

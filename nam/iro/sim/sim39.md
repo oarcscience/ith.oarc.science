@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim38)  [Next](sim40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim38)  [Next](sim40.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ forward, outran Stone Coat and cut off his head.
 
 ------------------------------------------------------------------------
 
-[Next: Rain Old Man and the Horned Snake (Lightning)](sim40)
+[Next: Rain Old Man and the Horned Snake (Lightning)](sim40.md)

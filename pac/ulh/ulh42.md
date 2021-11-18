@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh41)  [Next](ulh43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh41)  [Next](ulh43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -51,13 +51,13 @@ dance.
 
 Ke pohá nei; u’ína la!  
 Kani óle-oléi, hau-walaau!  
-Ke wawa Pu’u-hina-hina; <span id="fr_509"></span>[a](#fn_493)  
+Ke wawa Pu’u-hina-hina; <span id="fr_509"></span>[a](#fn_493.md)  
 Kani ka aka, he-hene na pali,  
-5 Na pali o Ka-iwi-ku’i. <span id="fr_510"></span>[b](#fn_494)  
-Hanohano, makana i ka Wai-opua. <span id="fr_511"></span>[c](#fn_495)  
+5 Na pali o Ka-iwi-ku’i. <span id="fr_510"></span>[b](#fn_494.md)  
+Hanohano, makana i ka Wai-opua. <span id="fr_511"></span>[c](#fn_495.md)  
 Malihini ka hale, ua hiki mai;  
 Kani ka pahu a Lohiau,  
-A Lohiau-ipo <span id="fr_512"></span>[d](#fn_496) i Haena la.  
+A Lohiau-ipo <span id="fr_512"></span>[d](#fn_496.md) i Haena la.  
 10 Enaena ke aloha, ke hiki mai;
 
 </div>
@@ -66,8 +66,8 @@ A Lohiau-ipo <span id="fr_512"></span>[d](#fn_496) i Haena la.
 
 <div style="margin-left: 32px">
 
-Auau i ka wai a Kanaloa <span id="fr_513"></span>[a](#fn_497)  
-Naná kaua ia Lima-huli, <span id="fr_514"></span>[b](#fn_498) e.  
+Auau i ka wai a Kanaloa <span id="fr_513"></span>[a](#fn_497.md)  
+Naná kaua ia Lima-huli, <span id="fr_514"></span>[b](#fn_498.md) e.  
 E huli oe a loaa pono  
 Ka ia nei o-niu.
 
@@ -111,28 +111,28 @@ her fire and consumed the man whom she had loved.
 
 ### Footnotes
 
-<span id="fn_493"></span>[248:a](ulh42.htm#fr_509) *Pu’u-hina-hina*. A
+<span id="fn_493"></span>[248:a](ulh42.htm#fr_509.md) *Pu’u-hina-hina*. A
 precipitous place on the coast near Haena.
 
-<span id="fn_494"></span>[248:b](ulh42.htm#fr_510) *Ka-iwi-ku’i*. A high
+<span id="fn_494"></span>[248:b](ulh42.htm#fr_510.md) *Ka-iwi-ku’i*. A high
 cliff against which the waves dash.
 
-<span id="fn_495"></span>[248:c](ulh42.htm#fr_511) *Wai-opua*. The name
+<span id="fn_495"></span>[248:c](ulh42.htm#fr_511.md) *Wai-opua*. The name
 of a pleasant breeze.
 
-<span id="fn_496"></span>[248:d](ulh42.htm#fr_512) *Lohiau-ipo*. The
+<span id="fn_496"></span>[248:d](ulh42.htm#fr_512.md) *Lohiau-ipo*. The
 epithet *ipo*, sweetheart, dear one, was often affixed to the name of
 Lohiau, in token, no doubt, of his being distinguished as the object of
 Pele's passionate regard.
 
-<span id="fn_497"></span>[249:a](ulh42.htm#fr_513) *Kanaloa*. There is a
+<span id="fn_497"></span>[249:a](ulh42.htm#fr_513.md) *Kanaloa*. There is a
 deep basin of clear water, almost fluorescent in its sparkle, in one of
 the arched caves of Haena, which is called the water of Kanaloa--the
 name of the great God. This is a favorite bathing place.
 
-<span id="fn_498"></span>[249:b](ulh42.htm#fr_514) *Limu-huli*. The name
+<span id="fn_498"></span>[249:b](ulh42.htm#fr_514.md) *Limu-huli*. The name
 of a beautiful valley that lies back of Haena.
 
 ------------------------------------------------------------------------
 
-[Next: XXXIX.--The Hula Ku’i](ulh43)
+[Next: XXXIX.--The Hula Ku’i](ulh43.md)

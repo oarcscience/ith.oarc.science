@@ -1,21 +1,21 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-### <span class="smallcaps">Second Appendix to Chapter 15</span> <span id="fr_103"></span>[1](#fn_103)
+### <span class="smallcaps">Second Appendix to Chapter 15</span> <span id="fr_103"></span>[1](#fn_103.md)
 
 Throughout this report the values of groups of data have been presented
 in the form X=D/p.e. In the beginning of the experiment this ratio was
@@ -26,9 +26,9 @@ differences between blocks of data and between the work of individuals.
 These X ratios may serve their original purpose as anti-chance ratios,
 however, if any reader still clings to the Chance Hypothesis.
 
-The following table ([Table XLIV](esp24.htm#an_tab44)) gives an
+The following table ([Table XLIV](esp24.htm#an_tab44).md) gives an
 approximation to the meaning in terms of chance probability of the X
-values listed in [Table XLIII](esp22.htm#an_tab43) \[10<sup>-14</sup>
+values listed in [Table XLIII](esp22.htm#an_tab43.md) \[10<sup>-14</sup>
 means 1 fourteen places to the right of the decimal point
 (.000 000 000 00001). This gives odds of 100 thousand billions to one
 against mere chance as an explanation. It is left to the reader to write
@@ -51,7 +51,7 @@ Chance Probability of X Valises
 
 The figures given are rough approximations computed by using only the
 coefficient of the series expansion for the probability integral. <span
-id="fr_104"></span>[2](#fn_104) As
+id="fr_104"></span>[2](#fn_104.md) As
 
 <span id="page_169">p. 169</span>
 
@@ -66,7 +66,7 @@ value of P may lie anywhere between 10<sup>-44.443</sup> and
 the error the difference between . (40 zeros)18 and . (40 zeros)36 is
 considerably less than the errors introduced by our using only two and
 three significant figures in the tabulation of the exponents. <span
-id="fr_105"></span>[1](#fn_105)
+id="fr_105"></span>[1](#fn_105.md)
 
 And a final word of warning to the mathematical enthusiast.
 Mathematically the difference between X = 20 and, let us say, X = 40, is
@@ -88,17 +88,17 @@ of the data whatever.
 
 ### Footnotes
 
-<span id="fn_103"></span>[168:1](esp24.htm#fr_103) I am indebted to Mr.
+<span id="fn_103"></span>[168:1](esp24.htm#fr_103.md) I am indebted to Mr.
 Charles E. Stuart, Graduate Assistant in Psychology, for this Appendix,
 as well as for much assistance in the earlier mathematics of the
 production. He has been, as mathematician, assistant, and subject, an
 extraordinarily useful and competent man.
 
-<span id="fn_104"></span>[168:2](esp24.htm#fr_104) The formula is given
+<span id="fn_104"></span>[168:2](esp24.htm#fr_104.md) The formula is given
 in Rietz, H. L.: *Handbook of Mathematical Statistics*. P. 15.
 
-<span id="fn_105"></span>[169:1](esp24.htm#fr_105) This paragraph may be
-regarded as primarily for [mathematicians](errata.htm#9) since it would
+<span id="fn_105"></span>[169:1](esp24.htm#fr_105.md) This paragraph may be
+regarded as primarily for [mathematicians](errata.htm#9.md) since it would
 require much space to make it clear to the layman. It simply justifies
 the approximation-method used in measuring the odds against chance
 implied by a given X-value. Since few men have ever required such odds

@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](maryprof)  [Next](mirror) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](maryprof)  [Next](mirror.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,6 +53,6 @@ testimony is true. Praise be to God for evermore.
 
 ------------------------------------------------------------------------
 
-[Next: The Mirror of Alchemy](mirror)
+[Next: The Mirror of Alchemy](mirror.md)
 
   

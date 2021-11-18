@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth01) 
-[Next](dth03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth01.md) 
+[Next](dth03.md) 
 
 ------------------------------------------------------------------------
 
@@ -216,7 +216,7 @@ tide, floating about helplessly, the sport of fate and the prey of
 outside circumstances, so long as this goes on, nothing unusual happens.
 But directly a start is made in an upward direction, then all kinds of
 psychic powers seem to be let loose, whose object
-[appears](errata.htm#0) to be to prevent the student from making any
+[appears](errata.htm#0.md) to be to prevent the student from making any
 progress in his new life.
 
 When a man realizes his own interior powers and understands the vastness
@@ -288,7 +288,7 @@ Strive to realize all that they mean and address the words to your
 **inner mind**. It is your submerged mind that you are influencing, so
 address the affirmation very earnestly to it. Do this for several
 minutes, and finish by making the affirmation into space. Hurl it out as
-a message to the Universe [and](errata.htm#1) by so doing you will come
+a message to the Universe [and](errata.htm#1.md) by so doing you will come
 into harmony with innumerable invisible forces, who will help and
 strengthen you.
 
@@ -338,7 +338,7 @@ yourself above the ordinary things of life, that
 
 you can breathe a rarer and purer atmosphere. Picture yourself as a new
 being, happier, healthier, brighter and more radiant than ever you have
-been even at your most [sublime](errata.htm#2) moments.
+been even at your most [sublime](errata.htm#2.md) moments.
 
 This will not be easy. It requires concentration and perseverance. You
 will find it difficult to see yourself as you wish to see yourself, or
@@ -359,7 +359,7 @@ concentration becomes comparatively
 
 easy, and this commands success. Therefore get interested in this
 problem of visualizing. Remember that all men of great
-[achievement](errata.htm#3) have had this power greatly developed,
+[achievement](errata.htm#3.md) have had this power greatly developed,
 therefore if you wish to be great and successful you must first develop
 this same faculty.
 
@@ -369,7 +369,7 @@ created in the unseen before it is manifested in the seen. When you, by
 dint of practice, can visualize clearly and distinctly, you will have
 developed creative power, not figuratively, but literally so.
 
-Whatever you [create](errata.htm#4) in your mental world by means of
+Whatever you [create](errata.htm#4.md) in your mental world by means of
 visualizing will in time be manifested in the outer physical world.
 **The outer world of matter is subservient to the inner world of mind**.
 This is a great occult truth which has been withheld from ordinary
@@ -459,7 +459,7 @@ thought-forces I am allied with and joined to the Infinite Principle of
 Good, and we have become one. Henceforth for me there is, and can be, no
 evil, only Infinite Good. All evil is now cast out of my life, because I
 am one with the Infinite Good. "No evil can come nigh my dwelling";
-"nothing can harm or destroy." Henceforth by [scientific](errata.htm#5)
+"nothing can harm or destroy." Henceforth by [scientific](errata.htm#5.md)
 thinking I control my life, for my life is the result or effect of my
 thoughts. When evil thoughts, or weak thoughts, or impure thoughts, or
 failure thoughts, or fear thoughts, or poverty thoughts, or hate
@@ -479,7 +479,7 @@ concentrate all your thoughts upon it. Not only grasp its meaning, but
 try and picture what it means. For instance: "My life is transformed."
 When you think upon these words, try and **see** your life being
 transformed, **see** your weaknesses falling away from you like an
-[old](errata.htm#6) garment, and instead, strength, success and noble
+[old](errata.htm#6.md) garment, and instead, strength, success and noble
 qualities being born in their place. Practice and concentrate and
 **FEEL** the power of this meditation.
 
@@ -502,7 +502,7 @@ You have entered a life, the power and possibilities of which you at
 present have no conception. If I described it now you would not
 understand. But, believe me, it is a life of Power to accomplish and
 Victory over all weaknesses. It is a life of Prosperity and true
-Success. It is a life of [transcendent](errata.htm#7) Joy. It is a life
+Success. It is a life of [transcendent](errata.htm#7.md) Joy. It is a life
 of peace and blessing to your fellows.
 
 **Look up**. **Keep looking up**. Keep on affirming. Keep on
@@ -558,7 +558,7 @@ Lastly, try always to maintain a cheerful frame of mind.
 It will be helpful for you to think of your subliminal Mind as another
 person, one who is always listening, listening, listening. He hears all
 that you say, and ACTS UPON all the thoughts that you let pass the
-[threshold](errata.htm#8) of the inner mind.
+[threshold](errata.htm#8.md) of the inner mind.
 
 "Hush! he is listening," should be the watch-word of your life. Let no
 thought of evil, of impurity, of weakness, of ill-health, of failure, of
@@ -595,4 +595,4 @@ Let "Hush! he is listening" be the watch-word of your life.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](dth03)
+[Next: Part II](dth03.md)

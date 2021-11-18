@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc04)  [Next](motc06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc04)  [Next](motc06.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ Click to enlarge</a></td>
 <span id="img_03200"></span>
 
 [![](tn/03200.jpg)  
-Click to enlarge](img/03200.jpg)
+Click to enlarge](img/03200.jpg.md)
 
 <span id="page_33">p. 33</span>
 
@@ -168,4 +168,4 @@ anything happens to his father.
 
 ------------------------------------------------------------------------
 
-[Next: The Mistake](motc06)
+[Next: The Mistake](motc06.md)

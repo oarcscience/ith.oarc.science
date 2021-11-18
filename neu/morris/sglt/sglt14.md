@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sglt13)  [Next](sglt15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sglt13)  [Next](sglt15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Story of the Glittering Plain*, by William Morris, \[1891\], at
 Intangible Textual Heritage
 
@@ -191,6 +191,6 @@ entrapped."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Hallblithe has Speech with the King Again](sglt15)
+[Next: Chapter XIV. Hallblithe has Speech with the King Again](sglt15.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft16)  [Next](geft18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft16)  [Next](geft18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -215,16 +215,16 @@ rememberest my goodness to thee? Well, since thou halt done thus, when I
 die you will all be cursed, and there will not remain a trace of you.'
 Some time after this the fox died. After his death, his word came to
 pass, and they were all destroyed. The wolf, the bear, and the eagle
-remained masters of the field. <span id="fr_21"></span>[1](#fn_20)
+remained masters of the field. <span id="fr_21"></span>[1](#fn_20.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_20"></span>[103:1](geft17.htm#fr_21) Cf. Carnoy et
+<span id="fn_20"></span>[103:1](geft17.htm#fr_21.md) Cf. Carnoy et
 Nicolaides: *Traditions Populaires de l’Asie Mineure*, p. 1, 'Le Roman
 du Renard.'
 
 ------------------------------------------------------------------------
 
-[Next: XVI. The King and the Apple](geft18)
+[Next: XVI. The King and the Apple](geft18.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](aww10)  [Next](aww12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](aww10)  [Next](aww12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Art of Worldly Wisdom*, by Balthasar Gracian, tr. by Joseph Jacobs,
 \[1892\], at Intangible Textual Heritage
 
@@ -87,7 +87,7 @@ would be master over others. You must pass through the circumference of
 time before arriving at the centre of opportunity. A wise reserve
 seasons the aims and matures the means. Time's crutch effects more than
 the iron club of Hercules. God Himself chasteneth not with a rod but
-with time. He <span id="fr_18"></span>[1](#fn_18) spake a great word who
+with time. He <span id="fr_18"></span>[1](#fn_18.md) spake a great word who
 said, "Time and I against any two."
 
 <span id="page_33">p. 33</span>
@@ -692,8 +692,8 @@ false and ill.
 
 ### Footnotes
 
-<span id="fn_18"></span>[32:1](aww11.htm#fr_18) Charles V.
+<span id="fn_18"></span>[32:1](aww11.htm#fr_18.md) Charles V.
 
 ------------------------------------------------------------------------
 
-[Next: 100-149](aww12)
+[Next: 100-149](aww12.md)

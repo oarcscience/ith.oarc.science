@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh17)  [Next](ulh19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh17)  [Next](ulh19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ The character of a hula was determined to some extent by the nature of
 the musical instrument that was its accompaniment. In the *hula puíli*
 it certainly seems as if one could discern the influence of the rude,
 but effective, instrument that was its musical adjunct. This instrument,
-the *puíli* ([fig. 1](#img_fig01)), consisted of a section of bamboo
+the *puíli* ([fig. 1](#img_fig01).md), consisted of a section of bamboo
 from which one node with its diaphragm had been removed and the hollow
 joint at that end split up for a considerable distance into fine
 divisions, which gave forth a breezy rustling when the instrument was
@@ -36,7 +36,7 @@ song. One division would sometimes shake and brandish their instruments,
 while the others remained quiet, or both divisions would perform
 
 <span id="img_fig01"></span> ![FIG. 1.--Puíli,
-bamboo-rattle.](img/fig01.jpg)  
+bamboo-rattle.](img/fig01.jpg.md)  
 FIG. 1.--Puíli, bamboo-rattle.
 
 at once, each individual clashing one puíli against the other one held
@@ -76,11 +76,11 @@ evidence of long use.
 
 Hiki mai, hiki mai ka La, e.  
 Aloha wale ka La e kau nei,  
-Aia malalo o Ka-wai-hoa, <span id="fr_250"></span>[a](#fn_246)  
+Aia malalo o Ka-wai-hoa, <span id="fr_250"></span>[a](#fn_246.md)  
 A ka lalo o Kauai, o Lehua.  
 5 A Kauai au, ike i ka pali;  
-A Milo-ili <span id="fr_251"></span>[b](#fn_247) pale ka pali loloa.  
-E kolo ana ka pali o Makua-iki; <span id="fr_252"></span>[c](#fn_248)  
+A Milo-ili <span id="fr_251"></span>[b](#fn_247.md) pale ka pali loloa.  
+E kolo ana ka pali o Makua-iki; <span id="fr_252"></span>[c](#fn_248.md)  
 Kolo o Pu-á, he keiki,  
 He keiki makua-ole ke uwe nei.
 
@@ -112,10 +112,10 @@ evidently added within a generation:
 
 <div style="margin-left: 32px">
 
-Malua, <span id="fr_253"></span>[d](#fn_249) ki’i wai ke aloha,  
+Malua, <span id="fr_253"></span>[d](#fn_249.md) ki’i wai ke aloha,  
 Hoopulu i ka liko mamane.  
 Ueuleu mai na manu,  
-Inu wai lehua o Panaewa, <span id="fr_254"></span>[e](#fn_250)  
+Inu wai lehua o Panaewa, <span id="fr_254"></span>[e](#fn_250.md)  
 5 E walea ana i ke onaona,  
 Ke one wali o Ohele.
 
@@ -129,7 +129,7 @@ Hele mai lei kou aloha
 A lalawe i ko’u nui kino,  
 Au i hookohu ai,  
 10 E kuko i ka manao.  
-Kuhi no paha oe no Hopoe <span id="fr_255"></span>[a](#fn_251)  
+Kuhi no paha oe no Hopoe <span id="fr_255"></span>[a](#fn_251.md)  
 Nei lehua au i ka hana ohi ai.
 
 </div>
@@ -172,31 +172,31 @@ whose bloom man was forbidden to pluck?"
 
 ### Footnotes
 
-<span id="fn_246"></span>[114:a](ulh18.htm#fr_250) *Kawaihoa*. The
+<span id="fn_246"></span>[114:a](ulh18.htm#fr_250.md) *Kawaihoa*. The
 southern point of Niihau. which is to the west of Kauai, the evident
 standpoint of the poet, and therefore "below" Kauai.
 
-<span id="fn_247"></span>[114:b](ulh18.htm#fr_251) *Milo-ili*. A valley
+<span id="fn_247"></span>[114:b](ulh18.htm#fr_251.md) *Milo-ili*. A valley
 on the northwestern angle of Kauai, a precipitous region, in which
 travel from one point to another by land is almost impossible.
 
-<span id="fn_248"></span>[114:c](ulh18.htm#fr_252) *Makua-iki*.
+<span id="fn_248"></span>[114:c](ulh18.htm#fr_252.md) *Makua-iki*.
 Literally "little father," a name given to an overhanging pali, where
 was provided a hanging ladder to make travel possible. The series of
 palis in this region comes to an end at Milo-lii.
 
-<span id="fn_249"></span>[114:d](ulh18.htm#fr_253) The *Malua* was a
+<span id="fn_249"></span>[114:d](ulh18.htm#fr_253.md) The *Malua* was a
 wind, often so dry that it sucked up the moisture from the land and
 destroyed the tender vegetation.
 
-<span id="fn_250"></span>[114:e](ulh18.htm#fr_254) Panaewa was a
+<span id="fn_250"></span>[114:e](ulh18.htm#fr_254.md) Panaewa was a
 woodland region much talked of in poetry and song.
 
-<span id="fn_251"></span>[115:a](ulh18.htm#fr_255) *Hopoe* was a
+<span id="fn_251"></span>[115:a](ulh18.htm#fr_255.md) *Hopoe* was a
 beautiful young woman, a friend of Hiiaka, and was persecuted by Pele,
 lowing to jealousy. One of the forms in which she as a divinity showed
 herself was as a lehua tree in full bloom.
 
 ------------------------------------------------------------------------
 
-[Next: XV.--The Hula Ka-laau](ulh19)
+[Next: XV.--The Hula Ka-laau](ulh19.md)

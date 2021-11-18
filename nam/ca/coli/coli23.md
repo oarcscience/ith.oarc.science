@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](coli22)  [Next](coli24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](coli22)  [Next](coli24.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Culture of the Luiseño Indians*, by Philip Stedman Sparkman,
 \[1908\], at Intangible Textual Heritage
 
@@ -15,7 +15,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 Puberty ceremonies were generally performed with several boys at once,
 always of the same clan. The feast-chief <span
-id="fr_9"></span>[7](#fn_8) of the clan to which the boys belonged never
+id="fr_9"></span>[7](#fn_8.md) of the clan to which the boys belonged never
 performed the rites himself, but employed another to do so. This was
 usually the feast-chief of another clan, though any one outside of his
 own clan who understood the rites might be employed.
@@ -40,8 +40,8 @@ facing the north. The outer circle represented the milky way, the middle
 one night, and the inner one blood. A small pit, representing "hell,"
 was made in the center of the treble circle, and figures of animals were
 made between this hole and the inner circle, as indicated in the
-illustration. ([Pl. 20](coli00.htm#img_pl20).) These figures were made
-by strewing sand on the ground. <span id="fr_10"></span>[8](#fn_9)
+illustration. ([Pl. 20](coli00.htm#img_pl20)..md) These figures were made
+by strewing sand on the ground. <span id="fr_10"></span>[8](#fn_9.md)
 
 A long lecture or counsel was then given to the youths by the person in
 charge of the ceremonies. They were told to respect
@@ -56,7 +56,7 @@ rabbit, and an old man should ask them for it, they should hand it to
 him without being angry. They were told to bathe on rising in the
 morning (which it was formerly customary to do), to eat but little, and
 not to eat hurriedly, even when hungry. Also not to eat chia, venison,
-and jackrabbit. <span id="fr_11"></span>[9](#fn_10) If they did not heed
+and jackrabbit. <span id="fr_11"></span>[9](#fn_10.md) If they did not heed
 the counsel given them, the bear and panther would kill them, the raven
 would shoot them with bow and arrow, if bitten by a rattlesnake in the
 field they would die right there, and they would also die if bitten by a
@@ -72,7 +72,7 @@ would be active, and they would win races. They might even on rising to
 the sky after death live again as one of the stars, which it was said
 were formerly people. Still other inducements were held out to them to
 obey the counsel given them, and they were told that their actions were
-seen by the earth and sky. <span id="fr_12"></span>[9](#fn_10)
+seen by the earth and sky. <span id="fr_12"></span>[9](#fn_10.md)
 
 At the close of the lecture they were given some flour of white sage
 seeds mixed with salt. This they were required to chew and eject from
@@ -179,17 +179,17 @@ And your spirit (heart) will not rise to the north, or your soul
 
 ### Footnotes
 
-<span id="fn_8"></span>[221:7](coli23.htm#fr_9) "Feast-chief" is
+<span id="fn_8"></span>[221:7](coli23.htm#fr_9.md) "Feast-chief" is
 probably a translation of "capitan de fiesta"; by this term must be
 understood a chief of ceremonies, the "religious chief" mentioned in the
 paragraphs concerning government.
 
-<span id="fn_9"></span>[221:8](coli23.htm#fr_10) This sentence was left
+<span id="fn_9"></span>[221:8](coli23.htm#fr_10.md) This sentence was left
 incomplete by the author, as if an addition had been intended.
 
-<span id="fn_10"></span>[222:9](coli23.htm#fr_12) These sentences were
+<span id="fn_10"></span>[222:9](coli23.htm#fr_12.md) These sentences were
 left incomplete by the author, as if additions had been intended.
 
 ------------------------------------------------------------------------
 
-[Next: Girls’ Puberty Ceremonies](coli24)
+[Next: Girls’ Puberty Ceremonies](coli24.md)

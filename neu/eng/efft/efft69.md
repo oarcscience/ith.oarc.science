@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft68)  [Next](efft70) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft68)  [Next](efft70.md) 
 
 ------------------------------------------------------------------------
 
-# THE MILLER AT THE PROFESSOR'S EXAMINATION  <span id="fr_82"></span>[1](#fn_82)
+# THE MILLER AT THE PROFESSOR'S EXAMINATION  <span id="fr_82"></span>[1](#fn_82.md)
 
 THERE once came to England a famous foreign professor, and before he
 came he gave notice that he would examine the students of all the
@@ -110,9 +110,9 @@ knock him down. And then he said I deserved the prize."
 
 ### Footnotes
 
-<span id="fn_82"></span>[1](efft69.htm#fr_82) *Folk-Lore Record*, vol.
+<span id="fn_82"></span>[1](efft69.htm#fr_82.md) *Folk-Lore Record*, vol.
 ii. p. 173.
 
 ------------------------------------------------------------------------
 
-[Next: Stupid's Mistaken Cries](efft70)
+[Next: Stupid's Mistaken Cries](efft70.md)

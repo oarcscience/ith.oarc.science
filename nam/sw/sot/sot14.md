@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](sot13)  [Next](sot15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](sot13)  [Next](sot15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Songs of the Tewa*, by Herbert Joseph Spinden, \[1933\], at Intangible
 Textual Heritage
 
@@ -72,6 +72,6 @@ No more will I remember. It is done.
 
 ------------------------------------------------------------------------
 
-[Next: XII. Rags Are Royal Raiment . . . . .](sot15)
+[Next: XII. Rags Are Royal Raiment . . . . .](sot15.md)
 
 </div>

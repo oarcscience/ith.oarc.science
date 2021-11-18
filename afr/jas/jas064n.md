@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas063n)  [Next](jas065n)   
- \[[64. Settling the Father's Debt.](jas064)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas063n)  [Next](jas065n.md)   
+ \[[64. Settling the Father's Debt.](jas064.md)\]
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ resembles the drolls from the Wye valley recorded in FL 16:178, 352.
 
 ------------------------------------------------------------------------
 
-[Next: Note 65. Mr. Lenaman's Corn-field.](jas065n)
+[Next: Note 65. Mr. Lenaman's Corn-field.](jas065n.md)

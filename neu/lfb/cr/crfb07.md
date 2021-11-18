@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb06)  [Next](crfb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb06)  [Next](crfb08.md) 
 
 </div>
 
@@ -494,6 +494,6 @@ wedding feast. And what a feast that was!
 
 ------------------------------------------------------------------------
 
-[Next: The Language of Beasts](crfb08)
+[Next: The Language of Beasts](crfb08.md)
 
 </div>

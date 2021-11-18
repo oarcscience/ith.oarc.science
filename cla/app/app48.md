@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app47)  [Next](app49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app47)  [Next](app49.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -27,4 +27,4 @@ They formed a Pythagorean 'cell' at Phlius; no writings are known.
 
 ------------------------------------------------------------------------
 
-[Next: 54. Prôrus of Cyrene, Amŷclas, Cleinias of Tarentum](app49)
+[Next: 54. Prôrus of Cyrene, Amŷclas, Cleinias of Tarentum](app49.md)

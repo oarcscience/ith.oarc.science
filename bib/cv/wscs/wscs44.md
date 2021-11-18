@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs43) 
-[Next](wscs45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs43.md) 
+[Next](wscs45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -497,4 +497,4 @@ man; and hence they usually described him as a man.
 ------------------------------------------------------------------------
 
 [Next: Chapter XL: A Metonymic View of the Divinity of Jesus
-Christ](wscs45)
+Christ](wscs45.md)

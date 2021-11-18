@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121505755/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121505755/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121505755/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](hyp00)
+[Contents](#contents)    [Start Reading](hyp00.md)
 
 ------------------------------------------------------------------------
 
@@ -57,10 +57,10 @@ and there is nothing we can do about it.--JBH
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](hyp00)  
-[Table of Contents](hyp01)  
-[Introduction](hyp02)  
-[Chapter 1. On Âsanas](hyp03)  
-[Chapter II. On Prâṇâyâma](hyp04)  
-[Chapter III. On Mudrâs](hyp05)  
-[Chapter IV. On Samâdhi.](hyp06)  
+<span id="contents"></span> [Title Page](hyp00.md)  
+[Table of Contents](hyp01.md)  
+[Introduction](hyp02.md)  
+[Chapter 1. On Âsanas](hyp03.md)  
+[Chapter II. On Prâṇâyâma](hyp04.md)  
+[Chapter III. On Mudrâs](hyp05.md)  
+[Chapter IV. On Samâdhi.](hyp06.md)  

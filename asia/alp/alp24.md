@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp23) 
-[Next](alp25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp23.md) 
+[Next](alp25.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ And, swallows, come and go until
 
 ------------------------------------------------------------------------
 
-[Next: The Song of the Stork](alp25)
+[Next: The Song of the Stork](alp25.md)

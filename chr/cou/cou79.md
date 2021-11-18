@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](cou78)  [Next](cou80) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](cou78)  [Next](cou80.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cloud of Unknowing*, ed. by Evelyn Underhill, \[1922\], at
 Intangible Textual Heritage
 
@@ -78,4 +78,4 @@ id="an_lxxx-Page_311"></span>
 ------------------------------------------------------------------------
 
 [Next: Chapter 75: Of some certain tokens by the which a man may prove
-whether he be called of God to work in this work](cou80)
+whether he be called of God to work in this work](cou80.md)

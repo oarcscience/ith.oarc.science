@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm07)  [Next](bcm09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm07)  [Next](bcm09.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ Supposing that it were an exact science, there would be
 <span id="page_25">p. 25</span>
 
 nothing in Practical Magic which interlinks, for example, with a true or
-with any Mystic Purpose. <span id="fr_10"></span>[1](#fn_10) Hence, by
+with any Mystic Purpose. <span id="fr_10"></span>[1](#fn_10.md) Hence, by
 Rituals of Transcendental Magic there must not be understood a
 collection of processes by which the Divine in Man is sought to be
 united with the Divine in the Universe. The works of St. John of the
@@ -69,7 +69,7 @@ processes which may obviously tend to produce in unwary operators the
 phenomena which characterise possession, there is scarcely a single
 process in any one of the Rituals--White or Black, Composite or
 Transcendental--which makes any pretence of relieving persons so
-afflicted. <span id="fr_11"></span>[1](#fn_11) There is, therefore, no
+afflicted. <span id="fr_11"></span>[1](#fn_11.md) There is, therefore, no
 reason to doubt on which side of hallucination the apparatus of the
 Rituals has been developed, and the sympathies of reasonable students
 will be with the honourable institution which condemned the practices
@@ -77,7 +77,7 @@ and sought to liberate the victims, leaving possession itself as an open
 question, and in this sense as a side issue.
 
 <span id="img_02600"></span> [![](tn/generic.jpg)  
-Click to view](img/02600.jpg)  
+Click to view](img/02600.jpg.md)  
 TALISMAN OF ARBATEL
 
 Even with the qualification which I have registered, the putative
@@ -97,14 +97,14 @@ authorship, and even its scope, there is, however, considerable mystery.
 Within my own knowledge, there are no copies in manuscript, or none at
 least which are prior to the end of the sixteenth century. It appeared
 in a tiny volume at Basle and bore the date 1575. <span
-id="fr_12"></span>[1](#fn_12) Back-dating and imputed authorship are the
+id="fr_12"></span>[1](#fn_12.md) Back-dating and imputed authorship are the
 two crying bibliographical sins of Grimoires and magical handbooks, and
 the antiquity of the *Arbatel* rests under a certain suspicion on
 account of its literary connections; at the same time it would require
 the knowledge of an expert in typography to pronounce certainly on the
 reliability of the date indicated. The text is in Latin, but there is a
 slender possibility in favour of its being the work of an Italian. <span
-id="fr_13"></span>[2](#fn_13) It makes a reference to Theophrastic
+id="fr_13"></span>[2](#fn_13.md) It makes a reference to Theophrastic
 Magic, which indicates the influence of Paracelsus, and, although it is
 difficult to speak with any certainty, seems to hint at an early period
 of that influence, the period, in fact, of *Benedictus Figulus*,
@@ -158,7 +158,7 @@ exalted of their kind, were it not for the art with which they are
 connected. The initial groups of these aphorisms serve to introduce the
 Ritual of the Olympic Spirits, dwelling in the firmament and in the
 stars of the firmament, between whom the government of the world is
-distributed. There are 196 <span id="fr_14"></span>[1](#fn_14) Olympic
+distributed. There are 196 <span id="fr_14"></span>[1](#fn_14.md) Olympic
 Provinces in the entire universe, so that *Aratron* has 49, *Bethor* 42,
 *Phaleg* 35, *Och* 28, *Hagith* 21, *Ophiel* 14, and *Phul* 7. These
 Provinces are termed visible, but even as the *Seven Septenaries of
@@ -182,7 +182,7 @@ makes gold in a moment by Magic. It is in this way
 <span id="page_30">p. 30</span>
 
 that Ceremonial Magic connects with while it assumes to transcend
-Hermetic Art. <span id="fr_15"></span>[1](#fn_15)
+Hermetic Art. <span id="fr_15"></span>[1](#fn_15.md)
 
 There is another curious instruction, with regard to the names and
 characters of the Spirits. In opposition to much of the traditional
@@ -205,7 +205,7 @@ to the *signatura rerum* of Paracelsus; fourthly, in Nature--that is to
 say, in a knowledge of the secret virtues of natural things, as, for
 example, herbs and precious stones; fifthly, but after a long interval,
 in the apostate spirits reserved to the last judgment; <span
-id="fr_16"></span>[2](#fn_16) sixthly, in the administers of punishment
+id="fr_16"></span>[2](#fn_16.md) sixthly, in the administers of punishment
 in hell, which seems to connect with the classical conception of
 avenging infernal gods; seventhly, in the people of the elements, that
 is, the Salamanders, Sylphs, Undines and Gnomes or Pigmies.
@@ -214,7 +214,7 @@ is, the Salamanders, Sylphs, Undines and Gnomes or Pigmies.
 
 The secrets deriving from these sources range from the highest
 achievements of reputed mystical science <span
-id="fr_17"></span>[1](#fn_17) to the bourgeois ambitions of daily life,
+id="fr_17"></span>[1](#fn_17.md) to the bourgeois ambitions of daily life,
 from the Regeneration of Enoch and the Knowledge of God, Christ and His
 Holy Spirit--wherein is the perfection of the Microcosm--to the
 attainment of honours and dignities, the ingathering, of much money, the
@@ -229,10 +229,10 @@ to the acquisition of Magical Art, together with great faith, strict
 taciturnity and even justice in the things of daily life. Finally, a
 true magician is brought forth as such from his mother's womb; others
 who assume the function will be unhappy. <span
-id="fr_18"></span>[2](#fn_18)
+id="fr_18"></span>[2](#fn_18.md)
 
 <span id="img_03100"></span> [![](tn/generic.jpg)  
-Click to view](img/03100.jpg)  
+Click to view](img/03100.jpg.md)  
 CHARACTER OF ARATRON
 
 The powers and offices of the Seven Olympic Spirits are as follows:
@@ -246,12 +246,12 @@ spirits to men; he teaches Alchemy, Magic and Medicine,
 
 imparts the secret of invisibility, makes the barren fruitful and,
 lastly, confers long life. He should be invoked on a Saturday, in the
-first hour of the day, <span id="fr_19"></span>[1](#fn_19) making use of
+first hour of the day, <span id="fr_19"></span>[1](#fn_19.md) making use of
 his character, given and confirmed by himself. <span
-id="fr_20"></span>[2](#fn_20)
+id="fr_20"></span>[2](#fn_20.md)
 
 <span id="img_03200"></span> [![](tn/generic.jpg)  
-Click to view](img/03200.jpg)  
+Click to view](img/03200.jpg.md)  
 THE CHARACTER OF BETHOR
 
 The affairs of Jupiter are administered by BETHOR, who responds quickly
@@ -266,7 +266,7 @@ qualification imparts an air of caution.
 <span id="page_33">p. 33</span>
 
 <span id="img_03300"></span> [![](tn/generic.jpg)  
-Click to view](img/03300.jpg)  
+Click to view](img/03300.jpg.md)  
 THE CHARACTER OF PHALEG
 
 PHALEG governs the things that are attributed to Mars. The person who
@@ -274,7 +274,7 @@ possesses his character is raised by him to great honour in military
 affairs.
 
 <span id="img_03301"></span> [![](tn/generic.jpg)  
-Click to view](img/03301.jpg)  
+Click to view](img/03301.jpg.md)  
 THE CHARACTER OF OCH
 
 Solar interests are administered by OCH, who prolongs life to six
@@ -287,7 +287,7 @@ possessor of his character to be worshipped as a god by the kings of the
 whole world.
 
 <span id="img_03302"></span> [![](tn/generic.jpg)  
-Click to view](img/03302.jpg)  
+Click to view](img/03302.jpg.md)  
 THE CHARACTER OF HAGITH
 
 The government of Venereal concerns is entrusted to HAGITH, and the
@@ -296,7 +296,7 @@ copper into gold in a moment and gold instantaneously into copper; he
 also gives faithful serving spirits.
 
 <span id="img_03303"></span> [![](tn/generic.jpg)  
-Click to view](img/03303.jpg)  
+Click to view](img/03303.jpg.md)  
 THE CHARACTER OF OPHIEL
 
 OPHIEL is the ruler of those things which are attributed to Mercury; he
@@ -307,7 +307,7 @@ Stone.
 <span id="page_34">p. 34</span>
 
 <span id="img_03400"></span> [![](tn/generic.jpg)  
-Click to view](img/03400.jpg)  
+Click to view](img/03400.jpg.md)  
 THE CHARACTER OF PHUL
 
 Lunary concerns are under the government of PHUL, who truly transmutes
@@ -327,7 +327,7 @@ PRAYER
 O Eternal and Omnipotent God, Who hast ordained the whole creation for
 Thy praise and Thy glory, as also for the salvation of man, I beseech
 Thee to send Thy Spirit N., of the Solar Race, <span
-id="fr_21"></span>[1](#fn_21)
+id="fr_21"></span>[1](#fn_21.md)
 
 that he may instruct me concerning those things about which I design to
 ask him \[or--that he may bring me medicine against the dropsy, &c.\].
@@ -357,7 +357,7 @@ words.*--Eccles. v. 3, 4.
 
 ### Footnotes
 
-<span id="fn_10"></span>[25:1](bcm08.htm#fr_10) By Practical Magic is
+<span id="fn_10"></span>[25:1](bcm08.htm#fr_10.md) By Practical Magic is
 here intended not certain forms of the putative: transcendent science
 said to be imparted by occult initiatiors, and to be totally distinct
 from childish attempts to discover hidden treasure, to obtain the ring
@@ -367,7 +367,7 @@ belongs to the deeps rather than the heights because it is phenomena,
 procedure, but the distinction--which I have discussed otherwise--is
 advisable to note here.
 
-<span id="fn_11"></span>[26:1](bcm08.htm#fr_11) There are, of course,
+<span id="fn_11"></span>[26:1](bcm08.htm#fr_11.md) There are, of course,
 innumerable processes for destroying spells and enchantments; among them
 one occasionally meets with an exorcism to be used in a case of
 possession. There is one in the edition of the *Grimoire of Honorius*
@@ -377,12 +377,12 @@ process, which prescribes holy water for aspersion, in the case of a
 human being, and, in that of an animal, salt exorcised with blood drawn
 from the bewitched creature. See also my remarks on Sloane MS. 3884.
 
-<span id="fn_12"></span>[27:1](bcm08.htm#fr_12) Arbatel, *De Magia
+<span id="fn_12"></span>[27:1](bcm08.htm#fr_12.md) Arbatel, *De Magia
 Veterum*, Basileæ, 1575. The mottoes on the title are *Summum Sapientiæ
 Studium* and *In omnibus consule Dominum, et nihil cogites, dicas,
 facias, quod tibi Deus non consuluerit*.
 
-<span id="fn_13"></span>[27:2](bcm08.htm#fr_13) The possibility is
+<span id="fn_13"></span>[27:2](bcm08.htm#fr_13.md) The possibility is
 warranted by references in the 30th and 31st Aphorisms to some obscure
 points of Italian history. It is said that by a judgment of the
 Magicians it was decreed that no Italian should reign over the kingdom
@@ -393,20 +393,20 @@ able to enforce this, and also the restitution of a certain Book, Jewel
 and Magic Horn, of which the Treasury Of Magic had been despoiled. The
 mastery of the whole world would pass into the hands of their possessor.
 
-<span id="fn_14"></span>[29:1](bcm08.htm#fr_14) The original edition of
+<span id="fn_14"></span>[29:1](bcm08.htm#fr_14.md) The original edition of
 the *Arbatel* reads 186, and ascribes 32 provinces to *Bethor*, which
 breaks the progression of the septenary and is probably a printer's
 mistake. It is followed, however, by the English and German translators.
 
-<span id="fn_15"></span>[30:1](bcm08.htm#fr_15) It was also by the
+<span id="fn_15"></span>[30:1](bcm08.htm#fr_15.md) It was also by the
 magical hypothesis a gift from heaven, brought down by the Angel Uriel.
 
-<span id="fn_16"></span>[30:2](bcm08.htm#fr_16) This reference, taken in
+<span id="fn_16"></span>[30:2](bcm08.htm#fr_16.md) This reference, taken in
 connection with the matters proposed to be treated in the seventh book,
 points conclusively to the intention of including the government of Evil
 Spirits in the scheme of the *Arbatel*.
 
-<span id="fn_17"></span>[31:1](bcm08.htm#fr_17) It should be observed
+<span id="fn_17"></span>[31:1](bcm08.htm#fr_17.md) It should be observed
 that the mystical achievements are barely mentioned, and that their
 attainment is imparted by a spirit possessing the office, which is
 conclusive, as I need not point out, respecting the use of the term. The
@@ -414,7 +414,7 @@ author of the *Arbatel*, however, considers it good enough Mysticism, as
 does Eliphas Lévi, to cause oneself "to be worshipped as a god," in
 virtue of the sigil of *Och*.
 
-<span id="fn_18"></span>[31:2](bcm08.htm#fr_18) When his highest
+<span id="fn_18"></span>[31:2](bcm08.htm#fr_18.md) When his highest
 authorities disagree, the occult student is liable to get at the truth,
 and will find occasionally that it is not at either end, nor yet in the
 middle. It is edifying to compare <span id="page_32">p. 32</span> this
@@ -441,17 +441,17 @@ hypothesi*. But such knowledge is not of Rituals or Grimoires, of
 practical in respect of an external procedure. That which is termed.
 Occultism is the art of desecrating the inmost Sanctuary.
 
-<span id="fn_19"></span>[32:1](bcm08.htm#fr_19) See Part ii. c. 6.
+<span id="fn_19"></span>[32:1](bcm08.htm#fr_19.md) See Part ii. c. 6.
 
-<span id="fn_20"></span>[32:2](bcm08.htm#fr_20) It should be understood
+<span id="fn_20"></span>[32:2](bcm08.htm#fr_20.md) It should be understood
 that the characters of the so-called Olympic Spirits are, so to speak,
 their official seals and are mot to be confused with the images
 attributed to the planets, These were of various kinds in correspondence
 with the variety of influences and were worn as talismans or charms.
 
-<span id="fn_21"></span>[34:1](bcm08.htm#fr_21) This is merely a typical
+<span id="fn_21"></span>[34:1](bcm08.htm#fr_21.md) This is merely a typical
 form subject to variations according to the spirit who is evoked.
 
 ------------------------------------------------------------------------
 
-[Next: Section 2: Theosophia Pneumatica](bcm09)
+[Next: Section 2: Theosophia Pneumatica](bcm09.md)

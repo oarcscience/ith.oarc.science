@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Next](mim01) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Next](mim01.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ scanned at Intangible Textual Heritage, May 2002
 
 ------------------------------------------------------------------------
 
-[Next: Contents](mim01)
+[Next: Contents](mim01.md)

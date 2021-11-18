@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Next](igj01) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Next](igj01.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 ------------------------------------------------------------------------
 
-![Frontispiece: The Mountain of Skulls](img/front.jpg)  
+![Frontispiece: The Mountain of Skulls](img/front.jpg.md)  
 THE MOUNTAIN OF SKULLS
 
 ------------------------------------------------------------------------
@@ -32,4 +32,4 @@ for Auld Lang Syne
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](igj01)
+[Next: Table of Contents](igj01.md)

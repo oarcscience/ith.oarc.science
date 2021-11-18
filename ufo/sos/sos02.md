@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](sos01)  [Next](sos03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](sos01)  [Next](sos03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Saucers*, by Orfeo M. Angelucci, \[1955\], at
 Intangible Textual Heritage
 
@@ -421,4 +421,4 @@ me.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Disk From Another World](sos03)
+[Next: Chapter I. The Disk From Another World](sos03.md)

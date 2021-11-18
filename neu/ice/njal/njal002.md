@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal001)  [Next](njal003) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal001)  [Next](njal003.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ to the Bay.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Hrut And Gunnhillda, King's Mother](njal003)
+[Next: 3. Hrut And Gunnhillda, King's Mother](njal003.md)

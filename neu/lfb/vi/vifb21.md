@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb20)  [Next](vifb22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb20)  [Next](vifb22.md) 
 
 </div>
 
@@ -405,6 +405,6 @@ he looked after the people as well as he herded the hares.
 
 ------------------------------------------------------------------------
 
-[Next: The Underground Workers](vifb22)
+[Next: The Underground Workers](vifb22.md)
 
 </div>

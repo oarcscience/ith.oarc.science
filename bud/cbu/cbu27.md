@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu26)  [Next](cbu28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu26)  [Next](cbu28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -19,7 +19,7 @@ Heritage
 
 ### CHAPTER XXII.
 
-#### BUDDHIST PHRASEOLOGY IN RELATION TO CHRISTIAN TEACHING. <span id="fr_134"></span>[1](#fn_134)
+#### BUDDHIST PHRASEOLOGY IN RELATION TO CHRISTIAN TEACHING. <span id="fr_134"></span>[1](#fn_134.md)
 
 <span class="small">Use of Buddhist terms in the Nestorian inscription,
 A.D. 781—*Mo*, "demon;" in Sanscrit, *mara*—*Ti-yü*, "hell," is
@@ -515,7 +515,7 @@ happiness."
 
 The effect of Buddhist doctrine on heaven and hell may be judged of
 partially by a statement in No. 480 <span
-id="fr_135"></span>[1](#fn_135) of the *Wan-kwo-kung pau*. An account is
+id="fr_135"></span>[1](#fn_135.md) of the *Wan-kwo-kung pau*. An account is
 there given by a convert of the Basel mission, in the district of
 Sin-an, near
 
@@ -664,14 +664,14 @@ expressions.
 
 ### Footnotes
 
-<span id="fn_134"></span>[353:1](cbu27.htm#fr_134) This paper was read
+<span id="fn_134"></span>[353:1](cbu27.htm#fr_134.md) This paper was read
 in the spring of 1878, before an association of missionaries resident in
 Peking.
 
-<span id="fn_135"></span>[366:1](cbu27.htm#fr_135) Published at
+<span id="fn_135"></span>[366:1](cbu27.htm#fr_135.md) Published at
 Shanghai, March 16th, 1878.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIII. Notice of the Wu-Wei-Kiau, a Reformed Buddhist
-Sect](cbu28)
+Sect](cbu28.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](sou05)  [Next](sou07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](sou05)  [Next](sou07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -639,4 +639,4 @@ should grow to the fullest stature of his species.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four](sou07)
+[Next: Chapter Four](sou07.md)

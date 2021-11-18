@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc014) 
-[Next](motc016) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc014.md) 
+[Next](motc016.md) 
 
 ------------------------------------------------------------------------
 
@@ -271,4 +271,4 @@ feigning death.)
 
 ------------------------------------------------------------------------
 
-[Next: 16. The Rabbit Goes Duck Hunting](motc016)
+[Next: 16. The Rabbit Goes Duck Hunting](motc016.md)

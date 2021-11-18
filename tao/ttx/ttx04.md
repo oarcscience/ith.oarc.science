@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx03) [Next](ttx05)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx03) [Next](ttx05.md)
 
 ------------------------------------------------------------------------
 
@@ -34,12 +34,12 @@ used without ever being exhausted."
 ## TEXT.
 
    *The Embryo is formed by the concretion of concealed Breath;*<span
-id="page_63_fr_*"></span>[\*](#page_63_note_*) *and the Embryo being
+id="page_63_fr_*"></span>[\*](#page_63_note_*.md) *and the Embryo being
 brought into existence, the Breath begins to move in Respiration.*
 
    The generative auræ of the Great Empyrean all constitute one Breath.
 The Great or Universal Spirit,<span
-id="page_63_fr_dagger"></span>[†](#page_63_note_dagger) lying in
+id="page_63_fr_dagger"></span>[†](#page_63_note_dagger.md) lying in
 readiness, becomes united with the embryo, and the embryo, being thus
 united with it, develops respiration. Then the embryo is like a flower,
 of which the navel is the peduncle; and as the umbilical cord is
@@ -145,7 +145,7 @@ one at night will do still more towards the nourishment of Life.
 
 ------------------------------------------------------------------------
 
-[Next](ttx05)
+[Next](ttx05.md)
 
 ------------------------------------------------------------------------
 
@@ -153,12 +153,12 @@ one at night will do still more towards the nourishment of Life.
 
 <span id="footnotes_page_63">p. 63</span>
 
-<span id="page_63_note_*"></span>[\*](#page_63_fr_*) This might perhaps
+<span id="page_63_note_*"></span>[\*](#page_63_fr_*.md) This might perhaps
 be rendered "by being *united with*, or *brought into conjunction with*,
 the concealed Breath." The character is \#\#\#, which may be elliptical
 for either \#\#\# or \#\#\#.
 
-<span id="page_63_note_dagger"></span>[†](#page_63_fr_dagger) Or, the
+<span id="page_63_note_dagger"></span>[†](#page_63_fr_dagger.md) Or, the
 Spirit of the Abyss, \#\#\#; apparently identical with the \#\#\# of the
 *Tao Tê Ching*.
 

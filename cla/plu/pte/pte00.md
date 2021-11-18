@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Next](pte01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Next](pte01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Plutarch's Morals: Theosophical Essays*, tr. by Charles William King,
 \[1908\], at Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
 
 ##### AUTHOR OF "THE GNOSTICS AND THEIR REMAINS."
 
-<span id="img__00300"></span> ![Diana of Ephesus](img/_00300.jpg)
+<span id="img__00300"></span> ![Diana of Ephesus](img/_00300.jpg.md)
 
 #### LONDON
 
@@ -60,19 +60,19 @@ formatter based on the authors’ 'Description of the Woodcuts.'—JBH.
 
 <span id="img_cover"></span> <span align="CENTER">
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
@@ -83,4 +83,4 @@ TOOKS COURT, CHANCERY LANE, LONDON.</span>
 
 ------------------------------------------------------------------------
 
-[Next: Preface](pte01)
+[Next: Preface](pte01.md)

@@ -1,13 +1,13 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Next](msg0000) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Next](msg0000.md) 
 
 ------------------------------------------------------------------------
 
 <span class="ad_bar"> <span class="google_search"> </span></span>
 
 sacred-texts \|  Web \| *Powered by*
-![Google](https://www.google.com/logos/Logo_25wht.gif)
+![Google](https://www.google.com/logos/Logo_25wht.gif.md)
 
 <span class="google_ads"> </span>
 
@@ -15,7 +15,7 @@ sacred-texts \|  Web \| *Powered by*
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Internet Book of Shadows*, (Various Authors), \[1999\], at Intangible
 Textual Heritage
 
@@ -447,4 +447,4 @@ Hear some of my songs at <https://www.witchesgathering.com/moss.html>.
 
 ------------------------------------------------------------------------
 
-[Next: How to power a magic spell by Black Cat](msg0000)
+[Next: How to power a magic spell by Black Cat](msg0000.md)

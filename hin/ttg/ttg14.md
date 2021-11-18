@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg13)  [Next](ttg15) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg13)  [Next](ttg15.md) 
 
 ------------------------------------------------------------------------
 
@@ -145,4 +145,4 @@ followed him to the sissoo tree.
 ------------------------------------------------------------------------
 
 [Next: Fourteenth Goblin: The Man who changed into a Woman at Will. Was
-his wife his or the other man's?](ttg15)
+his wife his or the other man's?](ttg15.md)

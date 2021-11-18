@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod02)  [Next](eod04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod02)  [Next](eod04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -30,16 +30,16 @@ Textual Heritage
 |------------------------|---------------------------------|
 | CHAPTER I.             |                                 |
 |                        | <span class="small">PAGE</span> |
-| INCENSE AND LIBATIONS  | [1](eod05.htm#page_1)           |
+| INCENSE AND LIBATIONS  | [1](eod05.htm#page_1.md)           |
 |                        |                                 |
 | CHAPTER II.            |                                 |
-| DRAGONS AND RAIN GODS  | [76](eod21.htm#page_76)         |
+| DRAGONS AND RAIN GODS  | [76](eod21.htm#page_76.md)         |
 |                        |                                 |
 | CHAPTER III.           |                                 |
-| THE BIRTH OF APHRODITE | [140](eod30.htm#page_140)       |
+| THE BIRTH OF APHRODITE | [140](eod30.htm#page_140.md)       |
 
 </div>
 
 ------------------------------------------------------------------------
 
-[Next: List of Illustrations](eod04)
+[Next: List of Illustrations](eod04.md)

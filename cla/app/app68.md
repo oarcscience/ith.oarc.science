@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app67)  [Next](app69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app67)  [Next](app69.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -116,15 +116,15 @@ Jewish persuasiveness and have accepted their arguments*).
 
 17\. (*The references in Agatharchus the historian to Hecataeus of
 Abdera belong to Hecataeus of Miletus*). <span
-id="fr_103"></span>[1](#fn_96)
+id="fr_103"></span>[1](#fn_96.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_96"></span>[123:1](app68.htm#fr_103) Müller, F.H.G. I., 14,
+<span id="fn_96"></span>[123:1](app68.htm#fr_103.md) Müller, F.H.G. I., 14,
 1, 13.
 
 ------------------------------------------------------------------------
 
-[Next: 74. Apollodôrus of Cyzicus](app69)
+[Next: 74. Apollodôrus of Cyzicus](app69.md)

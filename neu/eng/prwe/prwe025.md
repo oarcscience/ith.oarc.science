@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe024)  [Next](prwe026) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe024)  [Next](prwe026.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ period, I have heard it said that such afflicted children had been
 
 ------------------------------------------------------------------------
 
-[Next: The Lost Child](prwe026)
+[Next: The Lost Child](prwe026.md)

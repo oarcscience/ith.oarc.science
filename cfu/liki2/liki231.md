@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki230)  [Next](liki232) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki230)  [Next](liki232.md) 
 
 ------------------------------------------------------------------------
 
@@ -306,6 +306,6 @@ which five months' mourning was assigned.
 
 ------------------------------------------------------------------------
 
-[Next: XXXII. Wan Sang or Questions About Mourning Rites](liki232)
+[Next: XXXII. Wan Sang or Questions About Mourning Rites](liki232.md)
 
   

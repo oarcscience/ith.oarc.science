@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](botd09)  [Next](botd11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](botd09)  [Next](botd11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Brother of the Third Degree*, by Will L. Garver, \[1894\], at
 Intangible Textual Heritage
 
@@ -431,4 +431,4 @@ indissolubly united?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Tests](botd11)
+[Next: Chapter X. Tests](botd11.md)

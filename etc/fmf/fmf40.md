@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf39)  [Next](fmf41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf39)  [Next](fmf41.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,4 +155,4 @@ MORAL: Somewhere there is a Daisy waiting with a Battery up her Sleeve.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Skittish Widower Who Tried to Set Himself Back
-Some Thirty Tears](fmf41)
+Some Thirty Tears](fmf41.md)

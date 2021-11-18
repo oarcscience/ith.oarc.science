@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cvmc03)  [Next](cvmc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cvmc03)  [Next](cvmc05.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,14 +25,14 @@ they are weak and slow, the fire burns low--the body is sluggish.
 The brain, physiologically a mass of nervous tissue, delicate and
 sensitive, is divided into two main parts: the cerebrum, the larger and
 upper, the cerebellum, the smaller, situated below and behind ([Fig.
-1](#img_fig01)). The cerebrum consists of an outer zone, the cortex, or
+1](#img_fig01).md). The cerebrum consists of an outer zone, the cortex, or
 gray matter, wherein lie the nerve
 
 <span id="img_fig01"></span>
 
 [![FIG. I.--SIDE VIEW OF BRAIN AND UPPER PART OF SPINAL
 CORD.](tn/fig01.jpg)  
-Click to enlarge](img/fig01.jpg)  
+Click to enlarge](img/fig01.jpg.md)  
 FIG. I.--SIDE VIEW OF BRAIN AND UPPER PART OF SPINAL CORD.  
 
 1\. Cerebrum. 3. Medulla Oblongata.
@@ -43,7 +43,7 @@ FIG. I.--SIDE VIEW OF BRAIN AND UPPER PART OF SPINAL CORD.
 
 [![FIG. 2.--THE APPROXIMATE SITUATION OF THE VARIOUS
 AREAS.](tn/fig02.jpg)  
-Click to enlarge](img/fig02.jpg)  
+Click to enlarge](img/fig02.jpg.md)  
 FIG. 2.--THE APPROXIMATE SITUATION OF THE VARIOUS AREAS.  
 
 1\. Sensory Area. 2. Motor Area. 3. Higher Psychical Area.
@@ -58,12 +58,12 @@ the organ of the conscious mind. It must act before we can take note of
 what is passing on.
 
 Distributed over that portion of the cortex called the sensory area
-([Fig. 2](#img_fig02)) are the centers of sense-perception, which
+([Fig. 2](#img_fig02).md) are the centers of sense-perception, which
 receive, respectively, the impressions of sight, sound, touch, taste,
 and smell. Another portion is called the motor area ([Fig.
-2](#img_fig02)). Here are situated the motor centers which send out over
+2](#img_fig02).md). Here are situated the motor centers which send out over
 the nerves, stimuli for producing motion. The frontal portion is known
-as the higher psychical area ([Fig. 2](#img_fig02)). The nerve-cells
+as the higher psychical area ([Fig. 2](#img_fig02).md). The nerve-cells
 comprising these three divisions do not work independently, but are
 associated one with another. No cell
 
@@ -160,4 +160,4 @@ thistles.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Nervous System](cvmc05)
+[Next: III. The Nervous System](cvmc05.md)

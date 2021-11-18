@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku60)  [Next](tku62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku60)  [Next](tku62.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ form of Male and Female.
 becometh Male and Female.
 
 222\. ChKMH AB BINH AM, *Chokmah Ab Binah Am*: Chokmah <span
-id="fr_243"></span>[1](#fn_240) is the Father, and Binah is the Mother,
+id="fr_243"></span>[1](#fn_240.md) is the Father, and Binah is the Mother,
 and therein are Chokmah, Wisdom, and Binah, Understanding,
 counterbalanced together in most perfect equality of Male and Female.
 
@@ -50,7 +50,7 @@ mutually associated together.
 
 228\. Assuredly *Yod*, I, impregnateth the letter *He*, H, and produceth
 a Son, and She herself bringeth Him forth. <span
-id="fr_244"></span>[1](#fn_241)
+id="fr_244"></span>[1](#fn_241.md)
 
 229\. And therefore is it called BINH, as if (*it were a transposition
 of*) BINH, *Ben Yah*, Son of IH (*or I, Yod, H, He, and BN, the Son*).
@@ -88,7 +88,7 @@ may He be blessed!
 238\. And these, my sons, who are here present, know these things; for
 into these matters have they entered and therefrom have they departed;
 but neither yet into all (*the secrets of them*). <span
-id="fr_245"></span>[1](#fn_242)
+id="fr_245"></span>[1](#fn_242.md)
 
 239\. But now are these things illustrated in (*their*) perfection, even
 as it was necessary. Blessed be my portion with them in this world!
@@ -102,14 +102,14 @@ hath separation place.
 of the Ages.
 
 242\. Come, behold! This beginning which is called Father, <span
-id="fr_246"></span>[2](#fn_243) is comprehended in I, *Yod*, <span
-id="fr_247"></span>[3](#fn_244), which dependeth from the Holy
+id="fr_246"></span>[2](#fn_243.md) is comprehended in I, *Yod*, <span
+id="fr_247"></span>[3](#fn_244.md), which dependeth from the Holy
 Influence.
 
 <span id="page_284">p. 284</span>
 
 243\. And therefore is I, *Yod*, the Most Concealed of all the other
-letters. <span id="fr_248"></span>[1](#fn_245)
+letters. <span id="fr_248"></span>[1](#fn_245.md)
 
 244\. For I, *Yod*, is the beginning and the end of all things.
 
@@ -132,11 +132,11 @@ to water the garden."
 
 251\. In the teaching of the school of Rav Yeyeva the Elder thus is the
 tradition. Wherefore are VD, *Vau Daleth*, <span
-id="fr_249"></span>[2](#fn_246) comprehended in IVD, *Yod*? Assuredly
+id="fr_249"></span>[2](#fn_246.md) comprehended in IVD, *Yod*? Assuredly
 the planting of the garden is properly called V, *Vau*; and there is
 another garden which is D, *Daleth*, and by that Vau is Daleth watered,
 which is the symbol of the quaternary. <span
-id="fr_250"></span>[3](#fn_247)
+id="fr_250"></span>[3](#fn_247.md)
 
 252\. And an Arcanum is extended from this passage, where it is written:
 "And a river went forth out of Eden."
@@ -161,7 +161,7 @@ is the beginning and the end of all; like as it is written, Ps. civ. 24:
 258\. In His place He is not manifested, neither is He known; when He is
 associated with the Mother, BAMA, *Be-Ama*, then is He made known
 (otherwise, symbolized) in the Mother, BAIMA, *Be-Aima*. <span
-id="fr_251"></span>[1](#fn_248)
+id="fr_251"></span>[1](#fn_248.md)
 
 259\. And therefore is Aima known to be the consummation of all things,
 and She is signified to be the beginning and the end.
@@ -271,7 +271,7 @@ for you."
 
 <span id="page_288">p. 288</span>
 
-hallow the fiftieth year." <span id="fr_252"></span>[1](#fn_249) This
+hallow the fiftieth year." <span id="fr_252"></span>[1](#fn_249.md) This
 year is IVBL, *Yobel*, jubilee.
 
 286\. What is Yobel? As, it is written, Jer. xvii. 8: "VOL IVBL, *Va-El
@@ -310,7 +310,7 @@ Mother; and DOTh, Däath, *Knowledge*.
 
 <span id="page_289">p. 289</span>
 
-295\. Since that Son <span id="fr_253"></span>[1](#fn_250) assumeth the
+295\. Since that Son <span id="fr_253"></span>[1](#fn_250.md) assumeth the
 symbols of His Father and of His Mother, and is called DOTh, *Däath*,
 Knowledge, since He is the testimony of Them both.
 
@@ -321,18 +321,18 @@ Knowledge, since He is the testimony of Them both.
 offspring.
 
 298\. And when He increaseth, in His Crown appear three divisions. <span
-id="fr_254"></span>[2](#fn_251)
+id="fr_254"></span>[2](#fn_251.md)
 
 299\. But whether it be taken in this way or in that, there are as well
 two as three divisions herein, for all things are one; and so is it in
-this (*light*) or in that. <span id="fr_255"></span>[3](#fn_252)
+this (*light*) or in that. <span id="fr_255"></span>[3](#fn_252.md)
 
 300\. Nevertheless, He (*the Son*) receiveth the inheritance of His
 Father and of His Mother.
 
 301\. What is that inheritance? These two crowns, which are hidden
 within Them, which They pass on in succession to this Son. <span
-id="fr_256"></span>[4](#fn_253)
+id="fr_256"></span>[4](#fn_253.md)
 
 302\. From the side of the Father (*Chokmah*) there is one Crown
 concealed therein, which is called Chesed.
@@ -403,7 +403,7 @@ Chokmah.
 without shame will I enter in before His palace.
 
 321\. It is written, 1 Sam. ii. 3: "Since AL DOVTh, *El Daoth*, <span
-id="fr_257"></span>[1](#fn_254) is Tetragrammaton." Daoth, or of
+id="fr_257"></span>[1](#fn_254.md) is Tetragrammaton." Daoth, or of
 Knowledges (plural), properly speaking, for He acquireth Daoth by
 Inheritance.
 
@@ -418,7 +418,7 @@ Daoth is Tetragrammaton."
 
 325\. In the "Book of the Treatise" it is said concerning these words,
 "Since El Daoth is Tetragrammaton," read not DOVTh, Daoth, of
-knowledges, but ODVTh, <span id="fr_258"></span>[2](#fn_255) *Edoth*, of
+knowledges, but ODVTh, <span id="fr_258"></span>[2](#fn_255.md) *Edoth*, of
 *testimony*.
 
 326\. For HVA, *Hoa*, He Himself, is the testimony of all things, the
@@ -482,35 +482,35 @@ place where he was, much less him.
 
 ### Footnotes
 
-<span id="fn_240"></span>[381:1](tku61.htm#fr_243) Chokmah is the second
+<span id="fn_240"></span>[381:1](tku61.htm#fr_243.md) Chokmah is the second
 and Binah is the third of the Sephiroth. This section is a sufficient
 condemnation of all those who wish to make out that woman is inferior to
 man.
 
-<span id="fn_241"></span>[282:1](tku61.htm#fr_244) For Chokmah and Binah
+<span id="fn_241"></span>[282:1](tku61.htm#fr_244.md) For Chokmah and Binah
 in the Sephiroth answer unto I and H in the name IHVH, as has been
 already shown in the Introduction; and these bring forth Microprosopus
 the Son, the letter *Vau*, V, answering in numerical value to the number
 6, and to the fourth, fifth, sixth, seventh, eighth, and ninth
 Sephiroth.
 
-<span id="fn_242"></span>[283:1](tku61.htm#fr_245) This clause refers to
+<span id="fn_242"></span>[283:1](tku61.htm#fr_245.md) This clause refers to
 the "Unwritten Qabalah."
 
-<span id="fn_243"></span>[283:2](tku61.htm#fr_246) Chokmah, the second
+<span id="fn_243"></span>[283:2](tku61.htm#fr_246.md) Chokmah, the second
 Sephira. which, however, is as it were the repetition of Kether.
 
-<span id="fn_244"></span>[283:3](tku61.htm#fr_247) That is, the letter
+<span id="fn_244"></span>[283:3](tku61.htm#fr_247.md) That is, the letter
 I, *Yod*, in IHVH, which is said in the "Book of Concealed Mystery" to
 symbolize Macroprosopus only in its highest point.
 
-<span id="fn_245"></span>[284:1](tku61.htm#fr_248) See "Book of
+<span id="fn_245"></span>[284:1](tku61.htm#fr_248.md) See "Book of
 Concealed Mystery," ch. ii. § 37; ch. iv. § 11.
 
-<span id="fn_246"></span>[284:2](tku61.htm#fr_249) See "Book of
+<span id="fn_246"></span>[284:2](tku61.htm#fr_249.md) See "Book of
 Concealed Mystery," ch. ii. § 37.
 
-<span id="fn_247"></span>[284:3](tku61.htm#fr_250) The amount of occult
+<span id="fn_247"></span>[284:3](tku61.htm#fr_250.md) The amount of occult
 symbolism in this section is enormous, and the key of it is the name of
 the letter I, which is IVD, *Yod*. This is a trinity of letters, and
 their numerical value is I = 10, V = 6, D = 4, total 20, equivalent to
@@ -521,7 +521,7 @@ creation; V = 6 = Tiphereth, and Microprosopus the Son united to D = 4,
 the Cross. Here is the mystery of the crucifixion of the Son on the tree
 of life; and again the Qabalah agrees with Christian symbolism.
 
-<span id="fn_248"></span>[285:1](tku61.htm#fr_251) *Be Ama*, with the
+<span id="fn_248"></span>[285:1](tku61.htm#fr_251.md) *Be Ama*, with the
 Mother. Here *Ama*, AMA, Mother = 42. *Be Aima*, in the Mother. Here
 *Aima*, AIMA = 52 = BN, *Ben*, Son. This Gematria is most important,
 because, be it noted, Aima. AIMA, is the letter I, *Yod*, which we have
@@ -529,34 +529,34 @@ just been told represents Chokmah, joined to AMA, Mother, which is
 Binah, BINH, which again is BN IH, by Metathesis. *Ben Yod He*--*i.e.*,
 son of IH, eternally conjoined in Briah.
 
-<span id="fn_249"></span>[288:1](tku61.htm#fr_252) The number answering
+<span id="fn_249"></span>[288:1](tku61.htm#fr_252.md) The number answering
 to the "fifty gates of Binah." (See "Book of Concealed Mystery," ch. i.
 § 46.)
 
-<span id="fn_250"></span>[289:1](tku61.htm#fr_253) Compare this with the
+<span id="fn_250"></span>[289:1](tku61.htm#fr_253.md) Compare this with the
 Egyptian Horus. the son of Isis and Osiris. Also notice the interchange
 of symbols between Amen, Kneph, and Khem. The name of the great Egyptian
 God Amen is noticeable when we compare it with the qabalistic name AMN.
 
-<span id="fn_251"></span>[289:2](tku61.htm#fr_254) Compare with this the
+<span id="fn_251"></span>[289:2](tku61.htm#fr_254.md) Compare with this the
 alchemical symbolism of Duenech, the King of Earth, after being
 overwhelmed by the waters. rising again, glorified and crowned with the
 triple crown of silver. iron, and gold--Chesed, Geburah, and Tiphereth.
 in the alchemic Sephiroth of the metals.
 
-<span id="fn_252"></span>[289:3](tku61.htm#fr_255) The meaning is, that
+<span id="fn_252"></span>[289:3](tku61.htm#fr_255.md) The meaning is, that
 Father and Mother are contained in the Son; for these are the second.
 third, and sixth Sephiroth--*i.e.*, 2, 3, and 6; and both 2 and 3 are
 contained in 6, for 2 x 3 = 6.
 
-<span id="fn_253"></span>[289:4](tku61.htm#fr_256) The reflexive essence
+<span id="fn_253"></span>[289:4](tku61.htm#fr_256.md) The reflexive essence
 of Kether, the Crown. which operates in Chokmah and Binah.
 
-<span id="fn_254"></span>[291:1](tku61.htm#fr_257) Plural of Däath.
+<span id="fn_254"></span>[291:1](tku61.htm#fr_257.md) Plural of Däath.
 
-<span id="fn_255"></span>[291:2](tku61.htm#fr_258) By Metathesis.
+<span id="fn_255"></span>[291:2](tku61.htm#fr_258.md) By Metathesis.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IX: Concerning Microprosopus and His Bride In
-General](tku62)
+General](tku62.md)

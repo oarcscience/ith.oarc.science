@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo33)  [Next](aoo35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo33)  [Next](aoo35.md) 
 
 ------------------------------------------------------------------------
 
@@ -181,4 +181,4 @@ father, Odysseus.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](aoo35)
+[Next: Chapter XII](aoo35.md)

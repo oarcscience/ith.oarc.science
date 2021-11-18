@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](zan12)  [Next](zan14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](zan12)  [Next](zan14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Zanoni*, by Edward Bulwer Lytton, \[1842\], at Intangible Textual
 Heritage
 
@@ -212,4 +212,4 @@ sets not somewhere on the silenced music,—on the faded laurel!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](zan14)
+[Next: Chapter X](zan14.md)

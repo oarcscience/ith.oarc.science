@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb63)  [Next](wfb65) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb63)  [Next](wfb65.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ Cwm Cawlyd, and the oldest of them all is the Owl.
 
 ------------------------------------------------------------------------
 
-[Next: Nansi Llwyd and the Dog of Darkness](wfb65)
+[Next: Nansi Llwyd and the Dog of Darkness](wfb65.md)

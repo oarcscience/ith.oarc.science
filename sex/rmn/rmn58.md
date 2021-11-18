@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn57)  [Next](rmn59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn57)  [Next](rmn59.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ stories which gratitude had already exaggerated. This chase against
 birds, doubtless not very dangerous, became in their songs, and in the
 minds of the people, one of the labours of Hercules. It is said that,
 fleeing before this hero, they took shelter in an island of Pontus
-Axenus, <span id="fr_59"></span>[1](#fn_59) called Aretia, from Ἄρης,
+Axenus, <span id="fr_59"></span>[1](#fn_59.md) called Aretia, from Ἄρης,
 Mars, because the Amazons Otrera and Antiope had built a stone temple
 there in honour of the god; thenceforth the stymphalides
 
@@ -52,7 +52,7 @@ Here form'd of solid stone, and seen from far,
 Stands the rough temple of the god of war.  
 Two Amazonian queens, renown'd for arms,  
 Had raised the fane, when stunn'd with war's alarms." <span
-id="fr_60"></span>[1](#fn_60)
+id="fr_60"></span>[1](#fn_60.md)
 
 A little further on he adds:--
 
@@ -64,7 +64,7 @@ A winged monster of enormous might,
 Which toward the ship precipitates her flight.  
 Her wings she shook, and from her pinions flung  
 A dart-like quill, which on Oïleus hung." <span
-id="fr_61"></span>[1](#fn_60)
+id="fr_61"></span>[1](#fn_60.md)
 
 Timagnetes, a scholiast on Apollonius, writes on this subject: "These
 stymphalidian birds, whom Hercules drove away, had wings, beaks, and
@@ -76,22 +76,22 @@ Pliny says in his Natural History:--"Opposite to Pharnacea is
 Chalceritis, to which the Greeks have given the name of Aria, and
 consecrated it to Mars; here, they say, there were birds that used to
 attack strangers with blows of their wings." <span
-id="fr_62"></span>[2](#fn_61)
+id="fr_62"></span>[2](#fn_61.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_59"></span>[117:1](rmn58.htm#fr_59) *Pontus Axenus*,
+<span id="fn_59"></span>[117:1](rmn58.htm#fr_59.md) *Pontus Axenus*,
 inhospitable sea, afterwards, when the coast was settled by Grecian
 colonies, called *Pontus Euxinus*, hospitable sea.
 
-<span id="fn_60"></span>[118:1](rmn58.htm#fr_61) *Argonautics*, Book II.
+<span id="fn_60"></span>[118:1](rmn58.htm#fr_61.md) *Argonautics*, Book II.
 (Fawkes's Translation).
 
-<span id="fn_61"></span>[118:2](rmn58.htm#fr_62) Pliny's Natural
+<span id="fn_61"></span>[118:2](rmn58.htm#fr_62.md) Pliny's Natural
 History, Book VI.. chap. 12.
 
 ------------------------------------------------------------------------
 
-[Next: Plate LVIII: Bell-shaped Vase](rmn59)
+[Next: Plate LVIII: Bell-shaped Vase](rmn59.md)

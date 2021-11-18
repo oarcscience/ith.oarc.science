@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc42)  [Next](pjc44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc42)  [Next](pjc44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -254,4 +254,4 @@ The iniquitous sentence was given at about ten in the morning.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX. The Carriage of the Cross](pjc44)
+[Next: Chapter XXX. The Carriage of the Cross](pjc44.md)

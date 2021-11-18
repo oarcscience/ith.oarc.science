@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass22)  [Next](nass24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass22)  [Next](nass24.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ children went back with them to the town of the Grouses.
 
 ------------------------------------------------------------------------
 
-[Next: TsEgu'ksk<sup>u</sup>](nass24)
+[Next: TsEgu'ksk<sup>u</sup>](nass24.md)

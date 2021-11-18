@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml07)  [Next](eml09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml07)  [Next](eml09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -105,7 +105,7 @@ likewise a protective agency., like the serpent stone of the Gauls and
 the familiar "lucky pig" which is still worn as a charm.
 
 In certain parts of Egypt the crocodile was also worshipped, and was
-immune from attack; <span id="fr_62"></span>[1](#fn_62) in others it was
+immune from attack; <span id="fr_62"></span>[1](#fn_62.md) in others it was
 ruthlessly hunted down. As late as Roman times the people of one nome
 waged war against those of another because their sacred animals were
 being slain by the rival religious organization.
@@ -133,13 +133,13 @@ see all things that had been created. Ra delivered him a salutory lesson
 by saying: "Behold the black pig". Horus looked, and immediately one of
 his eyes (the sun) was destroyed by a whirlwind of fire. Ra said to the
 other gods: "The pig will be abominable to Horus". For that reason pigs
-were never sacrificed to him. <span id="fr_63"></span>[1](#fn_63) Ra
+were never sacrificed to him. <span id="fr_63"></span>[1](#fn_63.md) Ra
 restored the injured eye, and created for Horus two horizon brethren who
 would guard him against thunderstorms and rain.
 
 The Egyptians regarded the pig as an unclean animal. Herodotus relates
 that if they touched it casually, they at once plunged into water to
-purify themselves. <span id="fr_64"></span>[2](#fn_64) Swineherds lost
+purify themselves. <span id="fr_64"></span>[2](#fn_64.md) Swineherds lost
 caste, and were not admitted to the temples. Pork was never included
 among the meat offerings to the dead. In Syria the pig was also "taboo".
 In the Highlands, even in our own day, there survives a strong prejudice
@@ -155,7 +155,7 @@ become kings. The Scandinavian heroes in Valhal feast upon swine's
 flesh, and the boar was identified with Frey, the corn god. In the
 Celtic (Irish) Elysium presided over by Dagda, the corn god, as the
 Egyptian Paradise was presided over by Osiris, there was always "one pig
-alive and another ready roasted". <span id="fr_65"></span>[1](#fn_65)
+alive and another ready roasted". <span id="fr_65"></span>[1](#fn_65.md)
 Dagda's son, Angus, the love god, the Celtic Khonsu, had a herd of
 swine, and their chief was the inevitable black pig.
 
@@ -187,7 +187,7 @@ harvest the animal was possessed by the spirit of Set.
 This conclusion leads us back to the primitive conception of the Great
 Mother Deity. In the archaic Scottish folk tale, which is summarized in
 our Introduction, she is the enemy of mankind. <span
-id="fr_66"></span>[1](#fn_66) But her son, the lover of the spirit of
+id="fr_66"></span>[1](#fn_66.md) But her son, the lover of the spirit of
 summer--he is evidently the prototype of the later love god--is a
 beneficent giant; he fights against his mother, who separated him from
 his bride and sought to destroy all life. Ra similarly desired to slay
@@ -255,7 +255,7 @@ similarly its tall cut off. Once a year, on the ninth day of the month
 of Thoth, the Egyptians ate fried fish at their house doors: the priests
 offered up their share by burning them. Certain fish were not eaten by
 the ancient Britons. The eel is still abhorred in Scotland: it was
-sacred and tabooed in Egypt also. <span id="fr_67"></span>[1](#fn_67)
+sacred and tabooed in Egypt also. <span id="fr_67"></span>[1](#fn_67.md)
 
 Osiris was worshipped at Memphis in the form of the bull Apis, Egyptian
 *Hapi*, which was known to the Greeks as "Serapis", their rendering of
@@ -301,7 +301,7 @@ discovered the Eighteenth-Dynasty tombs of the Memphite bulls in 1851.
 The sarcophagi which enclosed the bodies weighed about 58 tons each. One
 tomb which he opened had been undisturbed since the time of the burial,
 and the footprints of the mourners were discoverable after a lapse of
-3000 years. <span id="fr_68"></span>[1](#fn_68)
+3000 years. <span id="fr_68"></span>[1](#fn_68.md)
 
 <span id="img_07000"></span> ![](img/07000.jpg)
 
@@ -374,7 +374,7 @@ Cruind in Cualgne in Ulster, where it was swallowed by a cow belonging
 to Daire of Cualgne; and the other into the spring of Uaran Garad, in
 Connaught, where it passed into the belly of a cow of Queen Medb's. Thus
 were born those two famous beasts, the Brown Bull of Ulster and the
-White-horned Bull of Connaught." <span id="fr_69"></span>[1](#fn_69) The
+White-horned Bull of Connaught." <span id="fr_69"></span>[1](#fn_69.md) The
 brown bull was victorious in the final conflict; it afterwards went mad,
 burst its heart with bellowing, and fell dead. In this myth we have the
 conflict between rival males, suggested in the Osiris-Set boar legend
@@ -397,10 +397,10 @@ the Egyptians appeared to be occupied with no thought but that of
 preserving their cats. These animals were prone to leap into the flames,
 and when a family lost a cat in such circumstances there was universal
 sorrow. A Roman soldier was once mobbed and slain because he killed a
-household cat. <span id="fr_70"></span>[1](#fn_70) The cat was
+household cat. <span id="fr_70"></span>[1](#fn_70.md) The cat was
 identified in France with the corn spirit: the last portion of grain
 which was reaped was called "the cat's tail". <span
-id="fr_71"></span>[2](#fn_71)
+id="fr_71"></span>[2](#fn_71.md)
 
 We have referred in the Introduction to the goose which laid the sun
 egg. Apparently this bird was at one time sacred. Although it was a
@@ -496,44 +496,44 @@ to kill one of these animals."
 
 ### Footnotes
 
-<span id="fn_62"></span>[64:1](eml08.htm#fr_62) Snake worshippers in
+<span id="fn_62"></span>[64:1](eml08.htm#fr_62.md) Snake worshippers in
 India are careful not to injure or offend a serpent, and believe that
 "the faithful" are never stung.
 
-<span id="fn_63"></span>[65:1](eml08.htm#fr_63) Evidently because the
+<span id="fn_63"></span>[65:1](eml08.htm#fr_63.md) Evidently because the
 sun cult was opposed to lunar rites which included the sacrifice of
 pigs.
 
-<span id="fn_64"></span>[65:2](eml08.htm#fr_64) Before the Greeks
+<span id="fn_64"></span>[65:2](eml08.htm#fr_64.md) Before the Greeks
 sacrificed a young pig, in connection with the mysteries of Demeter and
 Dionysos, they washed it and themselves in the sea. Plutarch: *Vit.
 Phoc.* xxviii.
 
-<span id="fn_65"></span>[66:1](eml08.htm#fr_65) *Celtic Myth and
+<span id="fn_65"></span>[66:1](eml08.htm#fr_65.md) *Celtic Myth and
 Legend*, p. 136. This is a tribal phase of pig worship, apparently, of
 different character to that which obtained in Egypt. It may be that the
 reverence for the good pig was greater than the hatred of the black and
 evil pig.
 
-<span id="fn_66"></span>[67:1](eml08.htm#fr_66) Ghosts also were
+<span id="fn_66"></span>[67:1](eml08.htm#fr_66.md) Ghosts also were
 enemies. A dead wife might cause her husband to be stricken with
 disease. Budge's *Osiris and the Egyptian Resurrection*, vol. ii, p.
 211.
 
-<span id="fn_67"></span>[69:1](eml08.htm#fr_67) The Egyptian sacred fish
+<span id="fn_67"></span>[69:1](eml08.htm#fr_67.md) The Egyptian sacred fish
 were the Oxyrhinchus, Lepidotus, Latus, and Phagrus.
 
-<span id="fn_68"></span>[70:1](eml08.htm#fr_68) Apis worship was of
+<span id="fn_68"></span>[70:1](eml08.htm#fr_68.md) Apis worship was of
 great antiquity. Reference is made to the Apis priests in the Fourth
 Dynasty.
 
-<span id="fn_69"></span>[72:1](eml08.htm#fr_69) *Celtic Myth and
+<span id="fn_69"></span>[72:1](eml08.htm#fr_69.md) *Celtic Myth and
 Legend*, pp. 164-5.
 
-<span id="fn_70"></span>[73:1](eml08.htm#fr_70) Similarly British
+<span id="fn_70"></span>[73:1](eml08.htm#fr_70.md) Similarly British
 soldiers got into trouble recently for shooting sacred pigeons.
 
-<span id="fn_71"></span>[73:2](eml08.htm#fr_71) In Ireland the cat deity
+<span id="fn_71"></span>[73:2](eml08.htm#fr_71.md) In Ireland the cat deity
 was the god Cairbre *cinn cait*, "of the cat's head". He was a god of
 the Fir Bolg, the enemies of the Gaulish Danann people.
 
@@ -541,6 +541,6 @@ the Fir Bolg, the enemies of the Gaulish Danann people.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: The City of the Elf God](eml09)
+[Next: Chapter VI: The City of the Elf God](eml09.md)
 
 </div>

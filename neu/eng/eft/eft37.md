@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft36)  [Next](eft38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft36)  [Next](eft38.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ very comfortably with it.
 comfortable nests have starlings.
 
 <span id="img_055"></span> [![](tn/055.jpg)  
-Click to enlarge](img/055.jpg)
+Click to enlarge](img/055.jpg.md)
 
 So it went on, every bird taking away some knowledge of how to build
 nests, but none of them waiting to the end. Meanwhile Madge Magpie went
@@ -68,4 +68,4 @@ different birds build their nests differently.
 
 ------------------------------------------------------------------------
 
-[Next: Kate Crackernuts](eft38)
+[Next: Kate Crackernuts](eft38.md)

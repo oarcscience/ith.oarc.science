@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](eoc05)  [Next](eoc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](eoc05)  [Next](eoc07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410203565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1410203565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Ethics of Confucius*, by Miles Menander Dawson, \[1915\], at
 Intangible Textual Heritage
 
@@ -60,7 +60,7 @@ his principles." (Analects, bk. xix., c. vii.)
 (Analects, bk. xiv., c. xxviii.)
 
 *Self-sufficiency:* "What the superior man seeks, is in himself; what
-the ordinary <span id="fr_1"></span>[1](#fn_1) man seeks, is in others."
+the ordinary <span id="fr_1"></span>[1](#fn_1.md) man seeks, is in others."
 (Analects, bk. xv., c. xx.)
 
 <span id="page_3">p. 3</span>
@@ -1364,7 +1364,7 @@ bk. vii., c. xv.)
 
 ### Footnotes
 
-<span id="fn_1"></span>[2:1](eoc06.htm#fr_1) I have been much concerned
+<span id="fn_1"></span>[2:1](eoc06.htm#fr_1.md) I have been much concerned
 about the word which should be given for the Chinese word appearing
 here. Legge renders it "mean," meaning thereby "average." I discard his
 word as ambiguous and choose "ordinary" as nearest to the idea, which is
@@ -1374,4 +1374,4 @@ seen, Confucius reverenced them, as in our age did Abraham Lincoln.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Self-Development](eoc07)
+[Next: Chapter II. Self-Development](eoc07.md)

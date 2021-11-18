@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou18)  [Next](hou20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou18)  [Next](hou20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ latter-day saints gathered in the valley of the Great Salt Lake at the
 close of the year 1852, less than one third came from Nauvoo; nearly
 seven thousand proselytes had arrived from various parts of Europe, and
 the remainder consisted principally of converts made in the United
-States. <span id="fr_562"></span>[1](#fn_562) As to the number of those
+States. <span id="fr_562"></span>[1](#fn_562.md) As to the number of those
 who
 
 <span id="page_398">p. 398</span>
@@ -66,7 +66,7 @@ district to district, with no other food than the roots which they dug
 near the wayside; many journeyed under the rays of a tropical sun, the
 water trickling from the rocks and the berries hanging from the bushes
 forming at times their only sustenance. <span
-id="fr_563"></span>[2](#fn_563)
+id="fr_563"></span>[2](#fn_563.md)
 
     The term of their labors had no certain limit, depending entirely on
 the will of the first presidency. For the more distant missions it was
@@ -93,12 +93,12 @@ miles through the snow, sometimes knee-deep, their food being corn bread
 and raw frozen pork. After a journey of 1,500 miles, occupying about
 four months, they reached Independence, having preached the gospel to
 thousands of the gentiles, baptizing and confirming many hundreds, and
-establishing several churches. <span id="fr_564"></span>[3](#fn_564)
+establishing several churches. <span id="fr_564"></span>[3](#fn_564.md)
 
 <span id="page_400">p. 400</span>
 
     For twenty-five years Parley labored at intervals as a missionary in
-various parts of the Union, <span id="fr_565"></span>[4](#fn_565) and in
+various parts of the Union, <span id="fr_565"></span>[4](#fn_565.md) and in
 1845 was appointed president of the churches in New England and the
 middle states. During his
 
@@ -111,7 +111,7 @@ seldom failed of success.
 Parley in 1838, "I find the city of New York to be the most difficult as
 to access to the minds or attention of the people. From July to January
 we preached, advertised, printed, published, <span
-id="fr_566"></span>[5](#fn_566) testified, visited, talked, prayed, and
+id="fr_566"></span>[5](#fn_566.md) testified, visited, talked, prayed, and
 wept in vain." Elijah Fordham was with him, and for several weeks only
 six proselytes were made, of whom two or three sometimes met in a small
 upper room in an obscure street.
@@ -130,7 +130,7 @@ preach. The room was crowded at the first meeting, and soon afterward
 the elders were ministering at fifteen different places throughout the
 city, all of which were crowded, sometimes preaching twice a day almost
 every day in the week, besides visiting from house to house. <span
-id="fr_567"></span>[6](#fn_567)
+id="fr_567"></span>[6](#fn_567.md)
 
     Mention has already been made of the labors of Brigham Young and
 other missionaries in various
@@ -140,7 +140,7 @@ other missionaries in various
 parts of the United States. To relate them in detail for each succeeding
 year would more than occupy the space alotted to this volume, and for
 further particulars I refer the reader to the note subjoined. <span
-id="fr_568"></span>[7](#fn_568) It
+id="fr_568"></span>[7](#fn_568.md) It
 
 <span id="page_403">p. 403</span>
 
@@ -151,10 +151,10 @@ especially in Great Britain and northern Europe.
  
 
     In the year 1833, Orson Pratt was sent as a missionary to southern
-Canada, and <span id="fr_569"></span>[8](#fn_569) about the same date
+Canada, and <span id="fr_569"></span>[8](#fn_569.md) about the same date
 Joseph Smith and Sidney Rigdon organized a church near Hamilton. In
 1836, Parley Pratt, brother to Orson, being then one of the twelve, was
-sent to Upper Canada <span id="fr_570"></span>[9](#fn_570) to preach and
+sent to Upper Canada <span id="fr_570"></span>[9](#fn_570.md) to preach and
 establish a church; and from this ministry it was foretold that the
 gospel should spread into England. With him went Brother Nickerson, who
 parted company at Hamilton. Left alone, knowing no one, having no money,
@@ -215,16 +215,16 @@ Parley into the country where he had promised to preach; at length, with
 Mrs Taylor, he was baptized. Thus was a shining light brought into the
 church, a branch of which was now established in Toronto, and was the
 forerunner of the mission work in Great Britain. <span
-id="fr_571"></span>[10](#fn_571)
+id="fr_571"></span>[10](#fn_571.md)
 
     During the year 1837, Heber C. Kimball and Orson Hyde, of the quorum
 of the twelve, accompanied by Willard Richards, were placed at the head
 of a mission to England, the members of which were drawn from elders of
 the church in Canada, and several of whom were English, or had friends
 in England. The elders chosen were Joseph Fielding, Isaac Russell, John
-Goodson, and John Snider. <span id="fr_572"></span>[11](#fn_572) Taking
+Goodson, and John Snider. <span id="fr_572"></span>[11](#fn_572.md) Taking
 ship for Liverpool, where they arrived on the 20th of July, <span
-id="fr_573"></span>[12](#fn_573) apostles Kimball, Hyde, and Willard
+id="fr_573"></span>[12](#fn_573.md) apostles Kimball, Hyde, and Willard
 Richards landed without the means of paying for their first night's
 lodging; but the remainder of the party furnishing the funds, all
 secured apartments in the same dwelling, and two days later took coach
@@ -236,15 +236,15 @@ origin of the church, and of the teachings of the book of Mormon.
 <span id="page_406">p. 406</span>
 
     The work prospered, and within a few months about 1,500 converts
-were made, <span id="fr_574"></span>[13](#fn_574) not only at Preston,
+were made, <span id="fr_574"></span>[13](#fn_574.md) not only at Preston,
 but also at Manchester, Leeds, Birmingham, and as we shall see later, in
 Glasgow and in the south of Wales. In April 1840, when was held, at
 Preston, the first council of the twelve in a foreign land, Brigham
 Young, who arrived in England during this year, <span
-id="fr_575"></span>[14](#fn_575) being elected their president, the
+id="fr_575"></span>[14](#fn_575.md) being elected their president, the
 church claimed in the British Islands nearly 2,000 proselytes, <span
-id="fr_576"></span>[15](#fn_576) in April 1841 more than 6,000, <span
-id="fr_577"></span>[16](#fn_577) and at the close of 1852 more than
+id="fr_576"></span>[15](#fn_576.md) in April 1841 more than 6,000, <span
+id="fr_577"></span>[16](#fn_577.md) and at the close of 1852 more than
 32,000. According to a statistical report of the church throughout the
 United Kingdom for the half-year ending December 31, 1852, there were at
 that date 742 branches, 17 of the quorum of seventies, 10 high-priests,
@@ -252,9 +252,9 @@ that date 742 branches, 17 of the quorum of seventies, 10 high-priests,
 
 <span id="page_407">p. 407</span>
 
-deacons. <span id="fr_578"></span>[17](#fn_578) It is worthy of note
+deacons. <span id="fr_578"></span>[17](#fn_578.md) It is worthy of note
 that the number of members at this date was about the same as is stated
-in the report dated June 1, 1851, <span id="fr_579"></span>[18](#fn_579)
+in the report dated June 1, 1851, <span id="fr_579"></span>[18](#fn_579.md)
 no interval of this length having previously occurred during which the
 number of proselytes was not largely increased. Meanwhile, however, the
 number of branches had increased by 100, and during the last half of the
@@ -278,7 +278,7 @@ and abiding impression is shown by the fact that their 32,000
 proselytes, nearly all of them being mechanics, laborers, or factory
 operatives, expended of their scant earnings nearly one dollar per
 capita a year for the purchase of Mormon books, periodicals, and
-insignia. <span id="fr_580"></span>[19](#fn_580)
+insignia. <span id="fr_580"></span>[19](#fn_580.md)
 
 <span id="page_408">p. 408</span>
 
@@ -290,15 +290,15 @@ mustering only 2,904, the number of branches having decreased to
 
 <span class="contnote">\[paragraph continues\]</span> 98, of priests to
 182, of elders to 521, of teachers to 105; and of deacons to 128. <span
-id="fr_581"></span>[20](#fn_581)
+id="fr_581"></span>[20](#fn_581.md)
 
     In Wales and Scotland the Mormons were at first no less successful,
 the number of proselytes at the close of 1852 being in the former
-country nearly 5,000, <span id="fr_582"></span>[21](#fn_582) and in the
-latter more than 3,000; <span id="fr_583"></span>[22](#fn_583) but in
+country nearly 5,000, <span id="fr_582"></span>[21](#fn_582.md) and in the
+latter more than 3,000; <span id="fr_583"></span>[22](#fn_583.md) but in
 these countries also a reaction occurred, the number of Welsh members at
 the close of 1878 having fallen to 325 and of Scotch to 351. <span
-id="fr_584"></span>[23](#fn_584) In Ireland, as in other catholic
+id="fr_584"></span>[23](#fn_584.md) In Ireland, as in other catholic
 countries, their missionaries were regarded with little favor, the
 converts mustering in 1852 only 245, though between 1846 and 1852
 Ireland was passing through the years of her sorest tribulation, and
@@ -307,12 +307,12 @@ those of her people who accepted Mormonism
 <span id="page_410">p. 410</span>
 
 had an opportunity, as we shall see later, of improving their
-condition. <span id="fr_585"></span>[24](#fn_585)
+condition. <span id="fr_585"></span>[24](#fn_585.md)
 
-    In British India, <span id="fr_586"></span>[25](#fn_586) Ceylon,
+    In British India, <span id="fr_586"></span>[25](#fn_586.md) Ceylon,
 British Guiana, at the cape of Good Hope, in the West Indies, <span
-id="fr_587"></span>[26](#fn_587) in Australia, Tasmania, New
-Zealand, <span id="fr_588"></span>[27](#fn_588) Malta, and Gibraltar,
+id="fr_587"></span>[26](#fn_587.md) in Australia, Tasmania, New
+Zealand, <span id="fr_588"></span>[27](#fn_588.md) Malta, and Gibraltar,
 there were also branches of the church, though in none of the British
 colonies were the missionaries received so cordially as in the mother
 country.
@@ -323,30 +323,30 @@ country.
 country there were, in June 1850, branches of the church at Paris,
 Boulogne, Calais, and Havre; but the total number of members was
 probably little more than a hundred. <span
-id="fr_589"></span>[28](#fn_589) In Germany the Mormons were even less
+id="fr_589"></span>[28](#fn_589.md) In Germany the Mormons were even less
 successful. In 1853 Elder Carn, who, two years before, had been
 imprisoned and afterward expelled from the confederation for preaching
 Mormonism, applied at Berlin for permission to hold meetings. The answer
 was that he must leave the city immediately under pain of
-transportation. <span id="fr_590"></span>[29](#fn_590) In Holland, <span
-id="fr_591"></span>[30](#fn_591) Denmark, <span
-id="fr_592"></span>[31](#fn_592) Scandinavia, <span
-id="fr_593"></span>[32](#fn_593)
+transportation. <span id="fr_590"></span>[29](#fn_590.md) In Holland, <span
+id="fr_591"></span>[30](#fn_591.md) Denmark, <span
+id="fr_592"></span>[31](#fn_592.md) Scandinavia, <span
+id="fr_593"></span>[32](#fn_593.md)
 
 <span id="page_412">p. 412</span>
 
 <span class="contnote">\[paragraph continues\]</span> Iceland, <span
-id="fr_594"></span>[33](#fn_594) where was published *The Voice of
-Joseph*, <span id="fr_595"></span>[34](#fn_595) in Italy,
-Switzerland, <span id="fr_596"></span>[35](#fn_596) in Mexico, <span
-id="fr_597"></span>[36](#fn_597) in Chili, in China, in Siam, <span
-id="fr_598"></span>[37](#fn_598) in the Sandwich and Society
-islands, <span id="fr_599"></span>[38](#fn_599)
+id="fr_594"></span>[33](#fn_594.md) where was published *The Voice of
+Joseph*, <span id="fr_595"></span>[34](#fn_595.md) in Italy,
+Switzerland, <span id="fr_596"></span>[35](#fn_596.md) in Mexico, <span
+id="fr_597"></span>[36](#fn_597.md) in Chili, in China, in Siam, <span
+id="fr_598"></span>[37](#fn_598.md) in the Sandwich and Society
+islands, <span id="fr_599"></span>[38](#fn_599.md)
 
 <span id="page_413">p. 413</span>
 
 and even in Jerusalem, was the Mormon gospel preached. <span
-id="fr_600"></span>[39](#fn_600)
+id="fr_600"></span>[39](#fn_600.md)
 
  
 
@@ -366,7 +366,7 @@ with the exception perhaps of Switzerland, the results have been meagre,
 and accomplished with great effort. The Scandinavian and British
 missions, the former including Denmark, claimed, at the close of 1878,
 nearly 8,000 members of the church; <span
-id="fr_601"></span>[40](#fn_601) and it is probable that in other parts
+id="fr_601"></span>[40](#fn_601.md) and it is probable that in other parts
 of Europe there could not be
 
 <span id="page_414">p. 414</span>
@@ -377,7 +377,7 @@ in British America, 3,000 in the Sandwich and Society islands, and
 perhaps 2,000 elsewhere in the world, we have a total of 35,000
 latter-day saints scattered among the gentiles; and estimating the
 population of Utah at 140,000, a total of 175,000 professing the Mormon
-faith. <span id="fr_602"></span>[41](#fn_602)
+faith. <span id="fr_602"></span>[41](#fn_602.md)
 
     Of the present population of Utah, about one third are of foreign
 birth, and at least another third of foreign parentage, converts having
@@ -385,14 +385,14 @@ been gathered to Zion as speedily as the means could be furnished, from
 the earliest days of Mormon evangelism.
 
     Between 1837 and 1851 about 17,000 proselytes set sail from
-England, <span id="fr_603"></span>[42](#fn_603) among them a
+England, <span id="fr_603"></span>[42](#fn_603.md) among them a
 considerable percentage belonging to other nationalities. In the latter
 year, not more than 3,000 persons arrived in the valley of the Great
 Salt Lake, including converts from the United States; although at this
 time it was published in American and copied in European papers that
 proselytes by the hundred thousand were on their way. In 1852
 immigration was on a somewhat larger scale. <span
-id="fr_604"></span>[43](#fn_604) During a single month 352 converts
+id="fr_604"></span>[43](#fn_604.md) During a single month 352 converts
 
 <span id="page_415">p. 415</span>
 
@@ -401,14 +401,14 @@ farmers, joiners, shoemakers, rope-makers, watch-makers, engine-makers,
 weavers, tailors, masons, butchers, bakers, painters, potters, dyers,
 iron-moulders, glass-cutters, nail-makers, basket-makers, sawyers,
 gun-makers, saddlers, miners, smiths, and shipwrights. <span
-id="fr_605"></span>[44](#fn_605) Of the total emigration between 1850
+id="fr_605"></span>[44](#fn_605.md) Of the total emigration between 1850
 and 1854, it was estimated that 28 per cent were laborers, 14 per cent
 miners, and about 27 per cent mechanics, among every two hundred being
 found one domestic servant, a shepherd, and a printer, and among every
 five hundred a schoolmaster, with here and there a university graduate,
 usually of no occupation, a dancing-master, a doctor, a dentist, and a
 retired or cashiered army officer. <span
-id="fr_606"></span>[45](#fn_606) For each emigrant as he arrived was
+id="fr_606"></span>[45](#fn_606.md) For each emigrant as he arrived was
 apportioned an allotment of ground, and thus all became landed
 proprietors; though few brought with them capital, save the ability to
 labor, and many had not the means wherewith to pay for their passage.
@@ -418,7 +418,7 @@ labor, and many had not the means wherewith to pay for their passage.
     On October 6, 1849, was organized at Salt Lake City the Perpetual
 Emigration Fund Company, for the purpose of aiding the poor to remove
 from Europe and the United States. <span
-id="fr_607"></span>[46](#fn_607) The company has continued
+id="fr_607"></span>[46](#fn_607.md) The company has continued
 
 <span id="page_416">p. 416</span>
 
@@ -427,7 +427,7 @@ persons have been assisted in removing to Utah. "The fund was gotten
 up," says Woodruff, "on the principle of perpetual succession, to
 continue increasing on condition of the people acting honestly, and in
 accordance with their covenants repaying the amounts…which had been
-advanced. <span id="fr_608"></span>[47](#fn_608) The sum thus loaned was
+advanced. <span id="fr_608"></span>[47](#fn_608.md) The sum thus loaned was
 usually refunded as soon as possible, for this obligation was held
 sacred by most of the saints, some working out their indebtedness at the
 public ateliers of the tithing office, and receiving meanwhile half the
@@ -436,7 +436,7 @@ however, who neglected or were unable to pay the advance, the amount due
 to the funds increasing gradually, until, in 1880, it had reached, with
 interest, $1,604,000. At the jubilee conference, held in April of this
 year, one half of the debt was remitted in favor of the most worthy and
-needy of the assisted emigrants. <span id="fr_609"></span>[48](#fn_609)
+needy of the assisted emigrants. <span id="fr_609"></span>[48](#fn_609.md)
 
  
 
@@ -470,13 +470,13 @@ promising to walk the entire way from St Louis to Salt Lake City, and to
 assist in hauling the provisions and baggage. To meet this demand, it
 was determined to despatch emigrants for the ensuing season at the low
 rate of £10 sterling per capita for the entire journey, <span
-id="fr_610"></span>[49](#fn_610) including provisions, and nearly one
+id="fr_610"></span>[49](#fn_610.md) including provisions, and nearly one
 thousand persons availed themselves of the opportunity. There were now
 four classes of emigrants: first, those assisted from the fund by order
 from Salt Lake City; second, assisted emigrants selected in Great
 Britain; third, the £10 emigrants; fourth, emigrants who paid all their
 own expenses and sent forward money to procure teams. <span
-id="fr_611"></span>[50](#fn_611) The entire outlay
+id="fr_611"></span>[50](#fn_611.md) The entire outlay
 
 <span id="page_418">p. 418</span>
 
@@ -510,14 +510,14 @@ and well worthy of imitation; and that from his observation of the
 slovenly and dirty habits of other classes of emigrants, it would not
 only conduce to their comfort and health, but would absolutely save the
 lives of many if similar regulations were introduced. <span
-id="fr_612"></span>[51](#fn_612)
+id="fr_612"></span>[51](#fn_612.md)
 
 <span id="page_419">p. 419</span>
 
     The Mormons objected to take passage in ships which carried other
 emigrants; or, if they embarked in such vessels, it was always arranged
 that a partition should be built to separate them from the gentiles. The
-dietary was on a scale <span id="fr_613"></span>[52](#fn_613) that gave
+dietary was on a scale <span id="fr_613"></span>[52](#fn_613.md) that gave
 to most of them better fare than that to which they had before been
 accustomed. Many of the vessels chartered for New Orleans were of large
 tonnage, some of them carrying as many as a thousand passengers. When on
@@ -525,7 +525,7 @@ board, the brethren were divided into wards, each with its bishop and
 two councillors, who were implicitly obeyed. The centre of the ship was
 occupied by married couples, single men being placed in the bow and
 single women in the stern. Strict discipline was enforced on the
-voyage. <span id="fr_614"></span>[53](#fn_614) Divine service was held
+voyage. <span id="fr_614"></span>[53](#fn_614.md) Divine service was held
 each day, morning and evening, when the weather was favorable, and on
 Sundays an awning was spread over the main deck, and spare spars so
 arranged as to furnish seats. Among many of the companies were excellent
@@ -536,7 +536,7 @@ captain and officers of the ship participated.
     After landing, the same organization was maintained. Remaining for a
 few days at New Orleans, the emigrants were conveyed in companies by
 steamer to St Louis, and thence proceeded to Council Bluffs. <span
-id="fr_615"></span>[54](#fn_615) Here
+id="fr_615"></span>[54](#fn_615.md) Here
 
 <span id="page_420">p. 420</span>
 
@@ -550,7 +550,7 @@ of march was the same as that adopted in 1848, during the migration from
 Nauvoo. For every party of ten, a wagon, two oxen, two milch cows, and a
 tent were provided. Each wagon was examined by one of the bishops, and
 none were allowed to start that did not contain the requisite quantity
-of provisions <span id="fr_616"></span>[55](#fn_616) and ammunition. All
+of provisions <span id="fr_616"></span>[55](#fn_616.md) and ammunition. All
 who were capable of bearing arms were required to carry a rifle or
 musket. Any surplus means that the members might possess was invested in
 breadstuffs, groceries, dry goods, clothing, cattle, seeds, or
@@ -566,7 +566,7 @@ motion almost from sunrise until even-fall, a halt being made for the
 mid-day meal, and in order to give the cattle time to graze. Many of the
 caravans consisted of several hundred wagons, some of them drawn by six
 or eight oxen, and with every company went large bands of
-live-stock. <span id="fr_617"></span>[56](#fn_617) The procession, as it
+live-stock. <span id="fr_617"></span>[56](#fn_617.md) The procession, as it
 moved
 
 <span id="page_421">p. 421</span>
@@ -586,7 +586,7 @@ the hardships and privations of the march, there was little strife or
 discord; and never did it happen, as was often the case with parties
 bound for the gold-fields, that a Mormon company broke up into fragments
 through the dissension of its members. <span
-id="fr_618"></span>[57](#fn_618)
+id="fr_618"></span>[57](#fn_618.md)
 
     Those who set forth early in the season—not later than the middle of
 June—seldom met with any serious disaster; and it was recommended that
@@ -622,7 +622,7 @@ bodies had been disinterred and half devoured by the wolves, and some of
 their persecutors in Illinois and Missouri, whose bones lay bleaching in
 the sun, a head-board with name, age, and date of decease being all that
 remained to mark their resting-place. <span
-id="fr_619"></span>[58](#fn_619)
+id="fr_619"></span>[58](#fn_619.md)
 
  
 
@@ -643,7 +643,7 @@ Brigham Young, September 30, 1855, and in a general epistle of the
 twelve, dated October 29th, a circular being published in Liverpool
 about four months later by the presidency of the British Isles, in which
 the rate of passage was fixed at £9 sterling per capita. <span
-id="fr_620"></span>[59](#fn_620) "The Lord, through his prophet, says of
+id="fr_620"></span>[59](#fn_620.md) "The Lord, through his prophet, says of
 the poor, 'Let them come on foot, with hand-carts or wheelbarrows; let
 them gird up their loins, and walk through, and nothing shall hinder
 them.'"
@@ -654,14 +654,14 @@ shafts being about five feet long and of hickory or oak, with
 cross-pieces, one of them serving for handle, forming the bed of the
 cart, under the centre of which was a wooden axle-tree, the wheels being
 also of wood, with a light iron band, and the entire weight of the
-vehicle about sixty pounds. <span id="fr_621"></span>[60](#fn_621)
+vehicle about sixty pounds. <span id="fr_621"></span>[60](#fn_621.md)
 Better carts were provided in subsequent years. When the hand-cart
 emigrants, about thirteen hundred in number, set forth from Liverpool,
 they were assured that everything would be provided for them on their
 arrival at Iowa City; but on reaching that point many of them were
 delayed for weeks until the carts were built. Three companies started
 early in the season and made the journey without mishap. <span
-id="fr_622"></span>[61](#fn_622) The next company, under Captain James
+id="fr_622"></span>[61](#fn_622.md) The next company, under Captain James
 G. Willie,
 
 <span id="page_424">p. 424</span>
@@ -705,7 +705,7 @@ burdens without frequent repairs. Some shod the axles of their carts
 with old leather, others with tin from the plates and kettles of their
 mess outfit; and for grease they used their allowance of bacon, and even
 their soap, of which they had but little. On reaching Wood River, the
-cattle stampeded, <span id="fr_623"></span>[62](#fn_623) and thirty head
+cattle stampeded, <span id="fr_623"></span>[62](#fn_623.md) and thirty head
 were lost, the remainder being only sufficient to allow one yoke to each
 wagon. The beef cattle, milk cows, and heifers were used as draught
 animals, but were of little service, and it was found necessary to place
@@ -823,7 +823,7 @@ being made with the bishops of wards to provide for those who had no
 relatives in the territory; and throughout the settlements, wherever it
 was known that a family had crossed the plains with the hand-cart
 companies, that alone was sufficient to insure for them substantial aid
-from the brethren. <span id="fr_624"></span>[63](#fn_624)
+from the brethren. <span id="fr_624"></span>[63](#fn_624.md)
 
 <span id="page_429">p. 429</span>
 
@@ -851,7 +851,7 @@ until at length relief came from Salt Lake City.
 sense to blame for this disaster, and that he spared no effort to
 prevent it. When tidings of the emigrants’ condition arrived in Salt
 Lake City, he at once suspended all other business, <span
-id="fr_625"></span>[64](#fn_625) and declared that nothing more should
+id="fr_625"></span>[64](#fn_625.md) and declared that nothing more should
 be done until every available team was sent to their relief. He himself
 set
 
@@ -868,14 +868,14 @@ grasshoppers.
     The catastrophe was due mainly to the error in starting so late in
 the season from Iowa City, and to the fact that the companies did not
 contain a sufficient number of able-bodied men in proportion to the
-infirm, the women, and children. <span id="fr_626"></span>[65](#fn_626)
+infirm, the women, and children. <span id="fr_626"></span>[65](#fn_626.md)
 Moreover, the winter was one of the earliest and most severe that has
 ever been known in Utah. The hand-cart scheme was perfectly feasible, if
 carried out under proper management, as was proved by the success of the
 first companies, and, in the spring of 1857, by a party of seventy-four
 missionaries, who accomplished the trip to the Missouri in forty-eight
 days, or less than half the time needed when the journey was made by
-wagon. <span id="fr_627"></span>[66](#fn_627)
+wagon. <span id="fr_627"></span>[66](#fn_627.md)
 
     After the hand-cart disaster, and perhaps partly on account of the
 reports sent home by the survivors, there was a gradual diminution in
@@ -888,12 +888,12 @@ the emigrants for the last of these years being of
 <span id="page_431">p. 431</span>
 
 British nationality, and 35 per cent Swedish, Norwegian, and
-Danish. <span id="fr_628"></span>[67](#fn_628) In the church records,
+Danish. <span id="fr_628"></span>[67](#fn_628.md) In the church records,
 the total emigration from foreign countries, between 1840 and 1883, is
 stated at 78,219 souls, or an average of nearly 2,000 a year, the
 proselytes taking passage in companies of from 12 to 800 in 243
 different vessels, all of which reached their destination in
-safety. <span id="fr_629"></span>[68](#fn_629) Probably the main cause
+safety. <span id="fr_629"></span>[68](#fn_629.md) Probably the main cause
 of the decrease in emigration during later years was the advance in the
 rate of fare, which in 1878 was fixed at £14-14, a sum for which passage
 could be secured to almost any portion of the world.
@@ -902,13 +902,13 @@ could be secured to almost any portion of the world.
 culmination, proselytes being gathered by the thousand to the promised
 land, and thousands more preparing to follow. The elders were exhorted
 to "thunder the word of the almighty to the saints to arise and come to
-Zion." <span id="fr_630"></span>[69](#fn_630) The brethren were
+Zion." <span id="fr_630"></span>[69](#fn_630.md) The brethren were
 commanded to shake from their feet the dust of Babylon and hasten to the
 holy city. "Every saint who does not come home," says the sixth general
-epistle of the twelve, <span id="fr_631"></span>[70](#fn_631) "will be
+epistle of the twelve, <span id="fr_631"></span>[70](#fn_631.md) "will be
 afflicted by the devil." "Every particle of our means that we use in
 Babylon," remarks Elder Erastus Snow, <span
-id="fr_632"></span>[71](#fn_632) "is a loss to ourselves; and it is so
+id="fr_632"></span>[71](#fn_632.md) "is a loss to ourselves; and it is so
 much means expended upon Babylon that shall perish." "O ye poor and
 oppressed saints!" writes Elder Samuel Richards, "and ye rich ones too,
 in these lands, do not your bosoms burn with the good spirit of God,
@@ -951,7 +951,7 @@ shall
 <span id="page_433">p. 433</span>
 
 come forth pools of living water; and the parched ground shall no longer
-be a thirsty land." <span id="fr_633"></span>[72](#fn_633)
+be a thirsty land." <span id="fr_633"></span>[72](#fn_633.md)
 
 <span id="page_434">p. 434</span>
 
@@ -967,7 +967,7 @@ be a thirsty land." <span id="fr_633"></span>[72](#fn_633)
 
 ### Footnotes
 
-<span id="fn_562"></span>[397:1](hou19.htm#fr_562) The pioneer band
+<span id="fn_562"></span>[397:1](hou19.htm#fr_562.md) The pioneer band
 included, as we have seen, 143 members. Parley Pratt's companies, which
 arrived in Sept. 1847, mustered 1,540. In August 1848 the inhabitants at
 Salt Lake City were estimated at nearly 1,800, and there were at this
@@ -988,10 +988,10 @@ reported in Linforth's tables, we have a total of 15,094. The remainder
 were not all converts from the U.S., for there was a considerable number
 of persons who were not Mormons, probably 500 in all.
 
-<span id="fn_563"></span>[398:2](hou19.htm#fr_563) Remy, *Jour. to
+<span id="fn_563"></span>[398:2](hou19.htm#fr_563.md) Remy, *Jour. to
 G. S. L. City*, ii. 199.
 
-<span id="fn_564"></span>[399:3](hou19.htm#fr_564) *The Autobiography of
+<span id="fn_564"></span>[399:3](hou19.htm#fr_564.md) *The Autobiography of
 Parley Parker Pratt, one of the Twelve Apostles of the Church of Jesus
 Christ of Latter-day Saints, embracing his Life, Ministry, and Travels,
 with Extracts, in Prose and Verse, from his Miscellaneous Writings,
@@ -1066,7 +1066,7 @@ father.' Instances might be multiplied. Scores of sick women and
 children in obedience to the command, 'In the name of Jesus Christ, be
 thou made whole,' arose and walked.
 
-<span id="fn_565"></span>[400:4](hou19.htm#fr_565) In 1831 among the
+<span id="fn_565"></span>[400:4](hou19.htm#fr_565.md) In 1831 among the
 Delawares; in 1832 in the states of Ohio, Indiana, Illinois, and
 Missouri; in 1833, after the exodus from Independence, in New York; in
 1835 in New England, N.Y., and Penn.; in 1837 and 1845 in N.Y. city,
@@ -1074,20 +1074,20 @@ where in the latter year he commenced the publication of *The Prophet*;
 and in 1856 in St Louis, Phil., N.Y., and elsewhere. *Autobiog*.,
 passim.
 
-<span id="fn_566"></span>[401:5](hou19.htm#fr_566) 'My first production
+<span id="fn_566"></span>[401:5](hou19.htm#fr_566.md) 'My first production
 in that city was a book of upwards of two hundred pages, entitled the
 *Voice of Warning*. The first edition of this work consisted of four
 thousand copies; it has since been published and republished in America
 and Europe till some forty or fifty thousand copies have not been
 sufficient to supply the demand.' *Id*., 184.
 
-<span id="fn_567"></span>[401:6](hou19.htm#fr_567) Branches of the
+<span id="fn_567"></span>[401:6](hou19.htm#fr_567.md) Branches of the
 church were formed during 1838 at Sing Sing and in New Jersey, also at
 Brooklyn and elsewhere on Long Island. *Id*., 188. In the *S. L.
 Herald*, June 16, 1877, is a sketch of the Mormon mission in New York at
 that date.
 
-<span id="fn_568"></span>[402:7](hou19.htm#fr_568) In Jan. 1838, B.
+<span id="fn_568"></span>[402:7](hou19.htm#fr_568.md) In Jan. 1838, B.
 Winchester left Ohio on a missionary tour, during which he preached in
 Md, Penn., and N.J. At this time Orson Pratt was in New York city, and
 L. Barnes and H. Sayers in the states of N.Y. and Penn. *Times and
@@ -1158,18 +1158,18 @@ Herald*, June 26, 1854, Feb. 9, June 4, 1855; in Or., *S. F. Alta*, Jan.
 21, 1858; *Sac. Union*, Aug. 12, 1857. In 1882 there were about 110
 Mormon missionaries in the United States. *Contributor*, iii. 128.
 
-<span id="fn_569"></span>[403:8](hou19.htm#fr_569) Preaching in Potten,
+<span id="fn_569"></span>[403:8](hou19.htm#fr_569.md) Preaching in Potten,
 Canada, north of Vermont, the first sermon, so far as is known, that was
 ever delivered in the British dominions. *Utah Pioneers, 33d Ann*., 25.
 
-<span id="fn_570"></span>[403:9](hou19.htm#fr_570) After retiring to
+<span id="fn_570"></span>[403:9](hou19.htm#fr_570.md) After retiring to
 rest on a certain evening in April 1835 he was aroused by Heber C.
 Kimball, who, being filled with the spirit of prophecy, said: 'Thou
 shalt go to Upper Canada, even to the city of Toronto, the capital, and
 there thou shalt find a people prepared for the fulness of the gospel,
 and they shall receive thee.' *Pratt's Autobiog*., 141-2.
 
-<span id="fn_571"></span>[405:10](hou19.htm#fr_571) After ministering at
+<span id="fn_571"></span>[405:10](hou19.htm#fr_571.md) After ministering at
 Toronto and its neighborhood for about two months, the apostle announced
 that he must return toKirtland, and, as he relates, on the eve of his
 departure several hundred dollars were placed in his hands, though he
@@ -1181,19 +1181,19 @@ preaching near Kingston. *Times and Seasons*, ii. 415. About two years
 later, Ben. Brown and Jesse W. Crosby preached in Montreal and Quebec.
 *Id*., vi. 766-7.
 
-<span id="fn_572"></span>[405:11](hou19.htm#fr_572) *Utah Pioneers, 33d
+<span id="fn_572"></span>[405:11](hou19.htm#fr_572.md) *Utah Pioneers, 33d
 Ann*., 26; *Pratt's Autobiog*., 183; *Times and Seasons*, iii. 879.
 
-<span id="fn_573"></span>[405:12](hou19.htm#fr_573) On board the
+<span id="fn_573"></span>[405:12](hou19.htm#fr_573.md) On board the
 *Garrick*.
 
-<span id="fn_574"></span>[406:13](hou19.htm#fr_574) *Smith, Rise,
+<span id="fn_574"></span>[406:13](hou19.htm#fr_574.md) *Smith, Rise,
 Progress, and Travels*, 30-1. In *Tullidge's Women*, 246, it is stated
 that 2,000 were baptized within eight months. This is probably
 exaggerated. The first converts, nine in number, were baptized in the
 Ribble, July 30, 1837. Names given in *Id*., 241.
 
-<span id="fn_575"></span>[406:14](hou19.htm#fr_575) On board the
+<span id="fn_575"></span>[406:14](hou19.htm#fr_575.md) On board the
 *Patrick Hearty*, together with Parley and Orson Pratt, Geo. A. Smith,
 Heber C. Kimball, and Reuben Hodlock. Brigham left his home in Montrose
 on Sept. 14, 1839. Being in feeble health, he was carried to the house
@@ -1222,24 +1222,24 @@ Wright, and Sam. Mulliner had arrived at Preston, and on Jan. 13, 1840,
 elders Wilford Woodruff, John Taylor, and Theodore Turley. *Id*., iii.
 884.
 
-<span id="fn_576"></span>[406:15](hou19.htm#fr_576) In the *Millennial
+<span id="fn_576"></span>[406:15](hou19.htm#fr_576.md) In the *Millennial
 Star*, i. 20, is a list of most of the towns in which branches were
 established, with the number of members in each.
 
-<span id="fn_577"></span>[406:16](hou19.htm#fr_577) In *Id*., i. 302,
+<span id="fn_577"></span>[406:16](hou19.htm#fr_577.md) In *Id*., i. 302,
 the number is given at 5,814, besides 800 who had emigrated to America
 during that season. These figures include the Welsh, Irish, Scotch, and
 Manx converts.
 
-<span id="fn_578"></span>[407:17](hou19.htm#fr_578) During that term
+<span id="fn_578"></span>[407:17](hou19.htm#fr_578.md) During that term
 3,400 persons had been baptized, 85 had emigrated, and 234 had died.
 *Id*., xv. 78.
 
-<span id="fn_579"></span>[407:18](hou19.htm#fr_579) A copy of which will
+<span id="fn_579"></span>[407:18](hou19.htm#fr_579.md) A copy of which will
 be found in *Id*., xiii. 207, and in condensed form in Mackay, *The
 Mormons*, 246-7.
 
-<span id="fn_580"></span>[407:19](hou19.htm#fr_580) In the *Millennial
+<span id="fn_580"></span>[407:19](hou19.htm#fr_580.md) In the *Millennial
 Star*, xiii. 208, it is stated that, between May 30 and June 16, 1851,
 £255–8–1 was received, or at the rate of about 80 cents *per capita* for
 that period. In *Ibid*. we have a list of £1,965–2–1¾ due from the
@@ -1313,10 +1313,10 @@ the songs composed by himself being 'The Upper California, O that's the
 land for me!' He also states that a marked feeling among the English was
 the desire to emigrate. *Reminiscences*, MS., 18-19.
 
-<span id="fn_581"></span>[409:20](hou19.htm#fr_581) *Millennial Star*,
+<span id="fn_581"></span>[409:20](hou19.htm#fr_581.md) *Millennial Star*,
 xli. 110.
 
-<span id="fn_582"></span>[409:21](hou19.htm#fr_582) *Millennial Star*,
+<span id="fn_582"></span>[409:21](hou19.htm#fr_582.md) *Millennial Star*,
 xv. 78. On July 6, 1840, Henry Royle and Frederick Cook were appointed
 to Flintshire, and on Oct. 3Oth a church of 32 members was established
 there. Jas Burnhaul reported front Wrexham on Dec. 23, 1840, that there
@@ -1333,7 +1333,7 @@ published at Merthyr Tydvil, and continued until emigration greatly
 reduced the numbers at the Welsh mission. *Richard,s' Bibliog. of Utah*,
 MS., 9.
 
-<span id="fn_583"></span>[409:22](hou19.htm#fr_583) Alexander Wright and
+<span id="fn_583"></span>[409:22](hou19.htm#fr_583.md) Alexander Wright and
 Samuel Mulliner were sent to Scotland in Dec. 1839, shortly after their
 arrival in England. At the beginning of March, they had baptized a few
 converts at Paisley. *Times and Seasons*, i. 110; *O. Pratt*, in *Utah
@@ -1351,10 +1351,10 @@ Edinburgh. *Millennial Star*, v. 182-3. In 1846 Franklin D. Richards was
 appointed to the presidency of the church in Scotland, assisted by his
 brother Samuel. *Richards’ Narr*., MS., 27.
 
-<span id="fn_584"></span>[409:23](hou19.htm#fr_584) *Millennial Star*,
+<span id="fn_584"></span>[409:23](hou19.htm#fr_584.md) *Millennial Star*,
 xli. 110.
 
-<span id="fn_585"></span>[410:24](hou19.htm#fr_585) On July 27, 1840,
+<span id="fn_585"></span>[410:24](hou19.htm#fr_585.md) On July 27, 1840,
 Apostle John Taylor, Elder McGaffe, and Priest Black sailed from
 Liverpool for Ireland, staying about a week at Newry and Lisburn. They
 were followed in Sept. by Elder Theodore Curtis. *Utah Pioneers, 33d
@@ -1369,7 +1369,7 @@ Liverpool on Jan. 8, 1841, and Blakeslee on Feb. 16th, leaving a
 membership of 70. *Times and Seasons*, ii. 484; *Millennial Star*, iv.
 147.
 
-<span id="fn_586"></span>[410:25](hou19.htm#fr_586) Wm Donaldson sailed
+<span id="fn_586"></span>[410:25](hou19.htm#fr_586.md) Wm Donaldson sailed
 from England for Calcutta early in August 1840. *Times and Seasons*, ii.
 229. Wm Willes landed in Calcutta Dec. 25, 1851, and during his sojourn
 baptized some 300 natives and established a church of about 40
@@ -1381,7 +1381,7 @@ and held a conference in April 1853. *Smith's Rise, Progress, and
 Travels*, 34-5. For further items, see *Deseret News*, May 14, 1853,
 Jan. 5, Oct. 19, 1854, March 8, 1855; *Sac. Union*, May 17, 1856.
 
-<span id="fn_587"></span>[410:26](hou19.htm#fr_587) Elders Aaron F.
+<span id="fn_587"></span>[410:26](hou19.htm#fr_587.md) Elders Aaron F.
 Farr, Darwin Richardson, Jesse Turpin, and A. B. Lambson landed at
 Jamaica Jan. 10, 1853. They called on the American consul, who told them
 that the law extended toleration to all religious sects, and soon
@@ -1391,7 +1391,7 @@ that the elders were polygamists. Two of the missionaries were shot at
 while making their escape from the island. *Smith's Rise, Progress, and
 Travels*, 36.
 
-<span id="fn_588"></span>[410:27](hou19.htm#fr_588) Wm Barrett was sent
+<span id="fn_588"></span>[410:27](hou19.htm#fr_588.md) Wm Barrett was sent
 to Australia from Burslem, England, by Geo. A. Smith in July 1840.
 *Smith's Rise, Progress, and Travels*, 34. In 1845 Andrew Anderson had
 organized a church of 9 members at Montipeer township. *Times and
@@ -1413,7 +1413,7 @@ were four Mormon missionaries at Christ Church, and one at Wellington,
 N.Z. There were also two or more at Hobart Town, Tasmania. *Id*., 379,
 509.
 
-<span id="fn_589"></span>[411:28](hou19.htm#fr_589) An Elder, name not
+<span id="fn_589"></span>[411:28](hou19.htm#fr_589.md) An Elder, name not
 given, was in France in 1845 and baptized two. *Times and Seasons*, vi.
 989. John Pack and Curtis E. Bolton left Salt Lake City in colnpany with
 Apostle Jno. Taylor, on Oct. 19, 1849, and arrived in Paris in June
@@ -1426,21 +1426,21 @@ be found in *Frontier Guardian*, Feb. 6, Aug. 21, 1850, June 13, Sept.
 presented to Napoleon III., asking for the privilege of preaching the
 gospel. *Millennial Star*, xxiii. 220-1.
 
-<span id="fn_590"></span>[411:29](hou19.htm#fr_590) For affairs in
+<span id="fn_590"></span>[411:29](hou19.htm#fr_590.md) For affairs in
 Germany and Prussia see *Deseret News*, Apr. 17, 1852, May 28, 1853,
 Aug. 14, 1867, Oct. 11, 1870; Spencer Orson, in *Taylor's Govt of God's
 Tracts*, no. 20; Bertrand, *Mem. Morm.*, 285-6. At the close of 1878 the
 German mission claimed 152 members of the church. *Millennial Star*,
 xli. 111.
 
-<span id="fn_591"></span>[411:30](hou19.htm#fr_591) After several
+<span id="fn_591"></span>[411:30](hou19.htm#fr_591.md) After several
 months’ labor, a church was organized at Amsterdam, numbering 14
 members. *Utah Pioneers, 33d Ann*., 28. In 1866 the Dutch mission was
 fairly prosperous. See letter of Elder Joseph Weiler, in *Deseret News*,
 Oct. 24, 1866. In 1877 there was 72 merebers of the church at Amsterdam.
 *Millenial Star*, xl. 91.
 
-<span id="fn_592"></span>[411:31](hou19.htm#fr_592) Apostle Erastus Snow
+<span id="fn_592"></span>[411:31](hou19.htm#fr_592.md) Apostle Erastus Snow
 and three elders, appointed by Salt Lake conference of Oct. 1849,
 arrived at Copenhagen June 1, 1850. For results of early Danish mission,
 see *Utah Pioneers, 33d Ann*., 27; *Smith's Rise, Progress, and
@@ -1454,7 +1454,7 @@ in *Utah Pioneers, 33d Ann*., 27. In July 1877 the first two chapters of
 *Joseph Smith the Prophet* were published in Danish, bringing his
 history up to the time of the first publication of the book of Mormon.
 
-<span id="fn_593"></span>[411:32](hou19.htm#fr_593) By order of Apostle
+<span id="fn_593"></span>[411:32](hou19.htm#fr_593.md) By order of Apostle
 Snow, who had charge of the Scandinavian mission, Elder John Forsgren
 proceeded to northern Sweden in 1850, where, at Geffie, he baptized 20
 persons, but was sent out of the country by the authorities. In 1851
@@ -1472,10 +1472,10 @@ established at Copenhagen, which 30 years later was still the organ of
 the Mormon church and was well supported. *Richards’ Bibliog. of Utah*,
 MS., 9.
 
-<span id="fn_594"></span>[412:33](hou19.htm#fr_594) *Utah Pioneers, 33d
+<span id="fn_594"></span>[412:33](hou19.htm#fr_594.md) *Utah Pioneers, 33d
 Ann*., 27; *Deseret News*, July 21, 1875, Sept. 20, 1876.
 
-<span id="fn_595"></span>[412:34](hou19.htm#fr_595) See letter of
+<span id="fn_595"></span>[412:34](hou19.htm#fr_595.md) See letter of
 Francois Stoudeman, in *Deseret News*, Oct. 16, 1852. Lorenzo Snow, with
 three elders, arrived at La Tour Sept. 19, 1820. For results, see *Id*.,
 27; *Millennial Star* xii. 370-4; *Smith's Rise, Progress, and Travels*,
@@ -1495,7 +1495,7 @@ California' is well presented. There is also an account of the
 missionary labors of the ciders in the United States, Canada, England,
 Wales, Scotland, and elsewhere.
 
-<span id="fn_596"></span>[412:35](hou19.htm#fr_596) Branches of the
+<span id="fn_596"></span>[412:35](hou19.htm#fr_596.md) Branches of the
 church were established in Switzerland, under the direction of Lorenzo
 Snow, about the year 1850. *Utah Pioneers, 33d Ann*., 28. Soon afterward
 Elder T. B. H. Stenhouse published at Geneva a volume, entitled *Le
@@ -1510,7 +1510,7 @@ mission, see *Deseret News*, Sept. 21, 1854, Aug. 14, 1867, Oct. 11,
 elders, and 494 members of the church, 127 baptisms being recorded
 during that year. *Millennial Star*, xli. 111.
 
-<span id="fn_597"></span>[412:36](hou19.htm#fr_597) letter from Elder D.
+<span id="fn_597"></span>[412:36](hou19.htm#fr_597.md) letter from Elder D.
 W. Jones, dated Concepcion, Chihuahua, Mex., Apr. 21, 1876, states that
 he and his fellow-missionaries were hard at work. About this time Jones
 preached at the theatre in the city of Chihuahua, but was ill received.
@@ -1518,11 +1518,11 @@ preached at the theatre in the city of Chihuahua, but was ill received.
 were translated into Spanish for the use of Mexicans, and entitled
 *Trozos Selectos del Libro de Mormon* (S. L. City, 1875).
 
-<span id="fn_598"></span>[412:37](hou19.htm#fr_598) *Smith's Rise,
+<span id="fn_598"></span>[412:37](hou19.htm#fr_598.md) *Smith's Rise,
 Progress, and Travels*, 33, 35. The Chinese mission was a failure. See
 *Deseret News*, Oct. 29. Dec. 22, 1853.
 
-<span id="fn_599"></span>[412:38](hou19.htm#fr_599) *Deseret News*, Nov.
+<span id="fn_599"></span>[412:38](hou19.htm#fr_599.md) *Deseret News*, Nov.
 29, 1851, May 1, 15, July 24, Nov. 27, 1852. In 1856 the book of Mormon
 was published in Hawaiian by George Q. Cannon. See *Honolulu Friend*. An
 account of Cannon's mission to the Sandwich Islands in 1853-4 is given
@@ -1545,7 +1545,7 @@ Hanks, and one Whittaker; but all were expelled by the French in 1851.
 *Smith's Rise, Progress, and Travels*, 31. See also *Utah Early
 Records*, MS., 35, 37, 84.
 
-<span id="fn_600"></span>[413:39](hou19.htm#fr_600) Orson Hyde was
+<span id="fn_600"></span>[413:39](hou19.htm#fr_600.md) Orson Hyde was
 appointed by a general conference held at Nauvoo Apr. 6, 1840, to a
 mission to the Jews in London, Amsterdam, Constantinople, and Jerusalem.
 He arrived in the last-mentioned city Oct. 24, 1841, and returned to
@@ -1560,10 +1560,10 @@ Miscell*., MS., 18. See also *Smith's Rise, Progress, and Travels*, 31;
 *Millennial Star*, ii. 166-9. For mission to Palestine in 1872, see
 *Corresp. of Pal. Tourists*, passim.
 
-<span id="fn_601"></span>[413:40](hou19.htm#fr_601) A statistical report
+<span id="fn_601"></span>[413:40](hou19.htm#fr_601.md) A statistical report
 is given in *Millennial Star*, xli, 110-11.
 
-<span id="fn_602"></span>[414:41](hou19.htm#fr_602) Remy, *Jour. to
+<span id="fn_602"></span>[414:41](hou19.htm#fr_602.md) Remy, *Jour. to
 G. S. L. City*, ii. 212-13, gives a table of the approximate number of
 Mormons in each country in 1859. The total is 186,000, of whom 80,000
 were in Utah, 40,000 in other states and territories, 32,000 in England
@@ -1579,29 +1579,29 @@ statement published in the *Deseret News*, in 1856, claiming 480,000
 members of the church in all parts of the world. See *American Almanac*,
 1858, 338.
 
-<span id="fn_603"></span>[414:42](hou19.htm#fr_603) Linforth gives the
+<span id="fn_603"></span>[414:42](hou19.htm#fr_603.md) Linforth gives the
 number despatched by the British agency between 1840 and 1852 at 11,296.
 *Route from Liverpool*, 15. The first vessel sent from England was the
 *North America*, which sailed TJune 16, 1840. The ship started on
 another voyage Sept. 8th of the same year. In *Burton's City of the
 Saints*, 361-2, is a list of vessels that sailed between 1851 and 1861.
 
-<span id="fn_604"></span>[414:43](hou19.htm#fr_604) Estimated by Ezra T.
+<span id="fn_604"></span>[414:43](hou19.htm#fr_604.md) Estimated by Ezra T.
 Benson at 10,000 souls. It was probably less than half that number. The
 census of 1850 places the population of the territory at a little over
 11,000; the reports of the bishops of wards at the Oct. conference in
 1853, as given in *Richards’ Hist. Incidents of Utah*, MS., 39, at
 18,206.
 
-<span id="fn_605"></span>[415:44](hou19.htm#fr_605) *Mayhew, The
+<span id="fn_605"></span>[415:44](hou19.htm#fr_605.md) *Mayhew, The
 Mormons*, 245; *Edinburgh Review*, Apr. 1854, 351. In *Linforth's Route
 from Liverpool*, 16-17, is a table showing the occupations of emigrants
 sent through the British agency between 1849 and 1854.
 
-<span id="fn_606"></span>[415:45](hou19.htm#fr_606) *Remy's Jour. to
+<span id="fn_606"></span>[415:45](hou19.htm#fr_606.md) *Remy's Jour. to
 S. L. City*, ii. 224-5.
 
-<span id="fn_607"></span>[415:46](hou19.htm#fr_607) *Utah Perpetual
+<span id="fn_607"></span>[415:46](hou19.htm#fr_607.md) *Utah Perpetual
 Emigrating Fund*, MS. On Sunday Sept. 9, 1849, it was voted that a
 perpetual fund be instituted in aid of the poor among the latter-day
 saints, and that Willard Snow, John D. Lee, Lorenzo Snow, Franklin D.
@@ -1627,7 +1627,7 @@ see *Snow's Voice of Joseph*, 16; *Frontier Guardian*, Apr. 3, 1856;
 B. Young*, MS.; *Linforth's Route from Liverpool*, 13; *Young's Jour. of
 Disc*., ii. 49-74; *Todd's Sunset Land*, 182-4.
 
-<span id="fn_608"></span>[416:47](hou19.htm#fr_608) *Utah Pioneers*,
+<span id="fn_608"></span>[416:47](hou19.htm#fr_608.md) *Utah Pioneers*,
 1880, p. 47. In a letter to Orson Hyde, Brigham says: 'When the saints
 thus helped arrive here, they will give their obligations to the church
 to refund the amount of what they have received as soon as circumstances
@@ -1635,11 +1635,11 @@ will admit,…the funds to be appropriated as a loan rather than a gift.'
 *Hist. B. Young*, MS., 1849, 152-3. Immigrants nearly all came to Salt
 Lake and were distributed from this point.
 
-<span id="fn_609"></span>[416:48](hou19.htm#fr_609) *Utah Emigrating
+<span id="fn_609"></span>[416:48](hou19.htm#fr_609.md) *Utah Emigrating
 Fund*, MS.; *Circular from the Twelve Apostles, in Mormon Pamphlets*,
 no. 3.
 
-<span id="fn_610"></span>[417:49](hou19.htm#fr_610) *Linforth's Route
+<span id="fn_610"></span>[417:49](hou19.htm#fr_610.md) *Linforth's Route
 from Liverpool*, 12. In the *Millennial Star*, xv. 618, is a notice that
 the first ship of the season would sail early in Jan. 1853. Each
 application must be accompanied by a statement of the name, age,
@@ -1648,11 +1648,11 @@ Parties were to provide their own bedding and cooking utensils.
 Richards, *Narr*., MS., 32, remarks that vessels from New Orleans could
 be chartered at low rates, as they could seldom obtain return freight.
 
-<span id="fn_611"></span>[417:50](hou19.htm#fr_611) At this date the
+<span id="fn_611"></span>[417:50](hou19.htm#fr_611.md) At this date the
 price of a team, including wagon, two yoke of oxen, and two milch cows,
 was about £40. *Linforth's Route from Liverpool*, 12.
 
-<span id="fn_612"></span>[418:51](hou19.htm#fr_612) *Mackay, The
+<span id="fn_612"></span>[418:51](hou19.htm#fr_612.md) *Mackay, The
 Mormons*, 270-3. 'The most scrupulous cleanliness was thought to be
 necessary; frequent fumigation and sprinkling with lime; and <span
 id="page_XXX">p. XXX</span> on warm days all sick persons, whether
@@ -1663,7 +1663,7 @@ between our people and the sailors.' *Richards’ Narr*., MS., 31. In 1855
 the line of route was changed to Philadelphia and New York, and thence
 to Cincinnati. *Richards’ Incidents in Utah Hist*., MS., 6.
 
-<span id="fn_613"></span>[419:52](hou19.htm#fr_613) For each adult,
+<span id="fn_613"></span>[419:52](hou19.htm#fr_613.md) For each adult,
 weekly, 2½ lbs bread or biscuit, 1 lb. wheat flour, 5 lbs oatmeal, 2 lbs
 rice, ½ lb. sugar, 2 oz. tea, 2 oz. salt. Three quarts of water were
 allowed per diem. *Linforth's Route from Liverpool*, 20. Twenty pounds
@@ -1671,22 +1671,22 @@ of breadstuffs per capita and an allowance of butter and cheese were
 provided by the Mormon superintendent. *Mackay, The Mormons*, 270. Meat
 was often issued in lieu of meal or bread.
 
-<span id="fn_614"></span>[419:53](hou19.htm#fr_614) All were required to
+<span id="fn_614"></span>[419:53](hou19.htm#fr_614.md) All were required to
 be in their berths at 8 o'clock, and before 7 the beds were made and the
 decks swept. *Mackay, The Mormons*, 272.
 
-<span id="fn_615"></span>[419:54](hou19.htm#fr_615) In the *Deseret
+<span id="fn_615"></span>[419:54](hou19.htm#fr_615.md) In the *Deseret
 News*, May 29, June 12, 1852, and the *Juvenile Instructor*, xiv. 143,
 is an account of a boiler explosion that occurred on board a steamer
 from St Louis, with a list of those who were killed by the accident.
 
-<span id="fn_616"></span>[420:55](hou19.htm#fr_616) For those assisted
+<span id="fn_616"></span>[420:55](hou19.htm#fr_616.md) For those assisted
 by the emigration fund in 1853 was supplied for each wagon 1,000 lbs of
 flour, 50 lbs each of sugar, rice, and bacon, 30 of beans, 20 of dried
 apples or peaches, 25 of salt, 5 of tea, a gallon of vinegar, and 10
 bars of soap. *Linforth's Route from Liverpool*, 19.
 
-<span id="fn_617"></span>[420:56](hou19.htm#fr_617) Describing one of
+<span id="fn_617"></span>[420:56](hou19.htm#fr_617.md) Describing one of
 these trains which he encountered in the valley of the Weber on Sept. 2,
 1850, Capt. Stunsbury says: 'Ninety-five wagons were met to-day
 containing the advance of the Mormon emigration to the Valley of the
@@ -1698,13 +1698,13 @@ cattle, and all in fine condition. The wagons swarmed with women and
 children, and I estimated the train at one thousand head of cattle, 100
 head of sheep, and 500 human souls.' *Exped. to G. S. Lake*, 223.
 
-<span id="fn_618"></span>[421:57](hou19.htm#fr_618) For letters and news
+<span id="fn_618"></span>[421:57](hou19.htm#fr_618.md) For letters and news
 from emigrants on their way across the plains and matters concerning the
 organization of emigrant bands, see *Frontier Guardian*, Dec. 16, 1849,
 June 12, July 10, 24, Sept. 4, Oct. 2, 1850, Jan. 22, March 21, July 11,
 Aug. 8, 1851.
 
-<span id="fn_619"></span>[422:58](hou19.htm#fr_619) In a letter dated
+<span id="fn_619"></span>[422:58](hou19.htm#fr_619.md) In a letter dated
 Muddy Fork—930 miles from Winter Quarters—Oct. 18, 1849, and published
 in the *Frontier Guardian*, Dec. 26th, of that year, George A. Smith
 writes: 'Among others we noticed at the South Pass of the Rocky
@@ -1716,23 +1716,23 @@ discernable of him. It is believed he was the same Dodd that took an
 active part, and a prominent mobocrat, in the murder of the saints at
 Haun's Mills, Mo. If so, it is a righteous retribution.'
 
-<span id="fn_620"></span>[423:59](hou19.htm#fr_620) The letter, epistle,
+<span id="fn_620"></span>[423:59](hou19.htm#fr_620.md) The letter, epistle,
 and circular will be found in the *Millennial Star*, xvii. 812-15,
 xviii. 49-55, 121-3.
 
-<span id="fn_621"></span>[423:60](hou19.htm#fr_621) *Stenhouse's Rocky
+<span id="fn_621"></span>[423:60](hou19.htm#fr_621.md) *Stenhouse's Rocky
 Mountain Saints*, 314. The construction of the cart will be seen in a
 cut facing this page.
 
-<span id="fn_622"></span>[423:61](hou19.htm#fr_622) The first arrived
+<span id="fn_622"></span>[423:61](hou19.htm#fr_622.md) The first arrived
 Sept. 26th, and were met by the first presidency and a large number of
 the citizens, with an escort of cavalry and the bands of the Nauvoo
 legion. *Deseret News*, Oct. 6, 1856.
 
-<span id="fn_623"></span>[425:62](hou19.htm#fr_623) At this point the
+<span id="fn_623"></span>[425:62](hou19.htm#fr_623.md) At this point the
 country was alive with buffaloes.
 
-<span id="fn_624"></span>[428:63](hou19.htm#fr_624) My account of the
+<span id="fn_624"></span>[428:63](hou19.htm#fr_624.md) My account of the
 hand-cart emigration is taken principally from Mr Chislett's narrative
 in *Stenhouse's Rocky Mountain Saints*, 312-338. The story as told in
 *Stenhouse's Tell It All*, 206-36, though it claims to have been written
@@ -1770,10 +1770,10 @@ Than wagon and ox-team.'
 
 </div>
 
-<span id="fn_625"></span>[429:64](hou19.htm#fr_625) The October
+<span id="fn_625"></span>[429:64](hou19.htm#fr_625.md) The October
 conference was then in session.
 
-<span id="fn_626"></span>[430:65](hou19.htm#fr_626) It was from Iowa
+<span id="fn_626"></span>[430:65](hou19.htm#fr_626.md) It was from Iowa
 City that the late start was made. Stenhouse and others delight in
 making out something horrible in the hand-cart business, and the leaders
 no better than the vilest criminals. It was an unfortunate affair, in
@@ -1782,32 +1782,32 @@ can be justly charged to any one. *Rocky Mountain Saints*, 341-2. A
 biographical notice of Spencer and his funeral sermon, delivered by
 Brigham, will be found in *S. Lake Tel*., Dec. 9, 10, 1868.
 
-<span id="fn_627"></span>[430:66](hou19.htm#fr_627) *Sloan's Utah
+<span id="fn_627"></span>[430:66](hou19.htm#fr_627.md) *Sloan's Utah
 Gazetteer*, 1884, 26. In the *Deseret News*, Apr. 29, 1857, it is stated
 that they hoped to make the trip in 40 days.
 
-<span id="fn_628"></span>[431:67](hou19.htm#fr_628) *Millennial Star*,
+<span id="fn_628"></span>[431:67](hou19.htm#fr_628.md) *Millennial Star*,
 xli. 680; *Deseret News*, Nov. 19, 1879. There were also 90 Swiss, 34
 Germans, and 8 of other nationalities.
 
-<span id="fn_629"></span>[431:68](hou19.htm#fr_629) Though some were
+<span id="fn_629"></span>[431:68](hou19.htm#fr_629.md) Though some were
 driven back to port, and one was dismasted on the voyage to New Orleans,
 *Richards’ Emigr. to Utah*, MS., 1.
 
-<span id="fn_630"></span>[431:69](hou19.htm#fr_630) *Millennial Star*,
+<span id="fn_630"></span>[431:69](hou19.htm#fr_630.md) *Millennial Star*,
 xiv. 201.
 
-<span id="fn_631"></span>[431:70](hou19.htm#fr_631) Published July 15.,
+<span id="fn_631"></span>[431:70](hou19.htm#fr_631.md) Published July 15.,
 1852, in *Id*., xiv. 20.
 
-<span id="fn_632"></span>[431:71](hou19.htm#fr_632) At a special
+<span id="fn_632"></span>[431:71](hou19.htm#fr_632.md) At a special
 council, held at 23 Ratcliffe Terrace, Islington, London, on the 6th,
 7th, 8th, and 9th of April. An account of the proceedings will be found
 in *Id*., xiv. 209-12, 225-8, 243-7. At the close of the conference a
 memorial was presented to Franklin D. Richards, who was then about to
 return to Salt Lake City.
 
-<span id="fn_633"></span>[433:72](hou19.htm#fr_633) *Revelation of
+<span id="fn_633"></span>[433:72](hou19.htm#fr_633.md) *Revelation of
 Joseph Smith,* in *Doctrine and Covenants,* 327.
 
     Among the Mormon works largely circulated throughout the British
@@ -2183,4 +2183,4 @@ Sentinel,* 1878, Jan. 13.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Utah As a Territory. 1849-1853.](hou20)
+[Next: Chapter XVII. Utah As a Territory. 1849-1853.](hou20.md)

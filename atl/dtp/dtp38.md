@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp37)  [Next](dtp39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp37)  [Next](dtp39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -170,7 +170,7 @@ simultaneously with its disappearance, a blinding flash of light seemed
 to dart from the ceiling overhead, striking the censer by his side. Then
 succeeded that inky blackness which follows the midnight flashing of the
 lightning of heaven; but it was not destined to last very long. Soon in
-the deep darkness there was a [noticeable](errata.htm#20) lightening
+the deep darkness there was a [noticeable](errata.htm#20.md) lightening
 which continued to increase until the whole interior of the Sagum was
 illumined by a lurid glow which rendered every object clearly visible.
 Like the other, it seemed not to emanate from any particular point, but
@@ -236,7 +236,7 @@ These states of mind are protracted with them, and in the quiescence
 which is theirs at such times, they find themselves en rapport with the
 architect of the world, and know His ways. Like Job are they then:
 hearing of Him by the hearing of the ear, their eyes also behold
-Him. <span id="fr_20"></span>[1](#fn_20) Some few of God's works they
+Him. <span id="fr_20"></span>[1](#fn_20.md) Some few of God's works they
 can do, many more of them they can understand, laying the line on the
 foundations of the earth; entering the springs of the sea, knowing where
 light hath its way, and the place of darkness and the bounds thereof;
@@ -663,7 +663,7 @@ again, to 'that bourne from whence no traveler returns.' Phylos, the
 sect known as 'Spiritualists' are in error when they speak of 'spirit
 communion' and regard it as they do, for no ego returns out of devachan
 except it be forced, and this is harmful and vastly unjust to the
-ego. <span id="fr_21"></span>[1](#fn_21) The astral soul and animal
+ego. <span id="fr_21"></span>[1](#fn_21.md) The astral soul and animal
 principle may thus return, but the I AM never. To the latter there is no
 past earth state; mind, I do not say for it, but to it. That is, it has
 no consciousness of anything earthly or of anything occurring on the
@@ -782,10 +782,10 @@ the door of the Sagum?
 
 ### Footnotes
 
-<span id="fn_20"></span>[281:1](dtp38.htm#fr_20) Job xiii.--5.
+<span id="fn_20"></span>[281:1](dtp38.htm#fr_20.md) Job xiii.--5.
 
-<span id="fn_21"></span>[292:1](dtp38.htm#fr_21) I Samuel xxviii, 14-15.
+<span id="fn_21"></span>[292:1](dtp38.htm#fr_21.md) I Samuel xxviii, 14-15.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Paying Life's Rewards](dtp39)
+[Next: Chapter IV: Paying Life's Rewards](dtp39.md)

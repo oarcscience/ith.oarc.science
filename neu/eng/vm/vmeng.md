@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](vmtitle)  [Next](vmlat) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](vmtitle)  [Next](vmlat.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Sagas](../../index)  [England](../index)  [Index](index) 
 
 I am preparing to sing the madness of the prophetic bard, and a humorous
 poem on Merlin; pray correct the song, Robert <span
-id="fr_0"></span>[1](#fn_0), glory of bishops, by restraining my pen. 
+id="fr_0"></span>[1](#fn_0.md), glory of bishops, by restraining my pen. 
 For we know that Philosophy has poured over you its divine nectar, and
 has made you famous in all things, that you might serve as an example, a
 leader and a teacher in the world.  Therefore may you favour my attempt,
@@ -22,7 +22,7 @@ and your usefulness to the position, and the clergy and the people all
 were seeking it for you, and from this circumstance happy Lincoln is
 just now exalted to the stars.  On this account I might wish you to be
 embraced in a fitting song, but I am not equal to the task, even though
-Orpheus, and Camerinus <span id="fr_1"></span>[2](#fn_1), and Macer, and
+Orpheus, and Camerinus <span id="fr_1"></span>[2](#fn_1.md), and Macer, and
 Marius, and mighty-voiced Rabirius were all to sing with my mouth and
 all the Muses were to accompany me.  But now, Sisters, accustomed to
 sing with me, let us sing the work proposed, and strike the cithara.
@@ -33,17 +33,17 @@ Well then, after many years had passed under many kings, Merlin the
 Briton was held famous in the world.  He was a king and prophet; to the
 proud people of the South Welsh he gave laws, and to the chieftains he
 prophesied the future.  Meanwhile it happened that a strife arose <span
-id="fr_2"></span>[3](#fn_2) between several of the chiefs of the
+id="fr_2"></span>[3](#fn_2.md) between several of the chiefs of the
 kingdom, and throughout the cities they wasted the innocent people with
-fierce war. <span id="fr_3"></span>[4](#fn_3)  Peredur, king of the
+fierce war. <span id="fr_3"></span>[4](#fn_3.md)  Peredur, king of the
 North Welsh, made war on Gwenddoleu, who ruled the realm of Scotland;
 and already the day fixed for the battle was at hand, and the leaders
 were ready in the field, and the troops were fighting, falling on both
 sides in a miserable slaughter.  Merlin had come to the war with Peredur
 and so had Rhydderch, king of the Cumbrians, <span
-id="fr_4"></span>[5](#fn_4) both savage men.  They slew the opposing
+id="fr_4"></span>[5](#fn_4.md) both savage men.  They slew the opposing
 enemy with their hateful swords, and three brothers of the prince <span
-id="fr_5"></span>[6](#fn_5) who had followed him through his wars,
+id="fr_5"></span>[6](#fn_5.md) who had followed him through his wars,
 always fighting, cut down and broke the battle lines.  Thence they
 rushed fiercely through the crowded ranks with such an attack that they
 soon fell killed.  At this sight, Merlin, you grieved and poured out sad
@@ -78,7 +78,7 @@ princes, but he would not be comforted nor put up with their beseeching
 words.  He had now lamented for three whole days and had refused food,
 so great was the grief that consumed him.  Then when he had filled the
 air with so many and so great complaints, new fury seized him <span
-id="fr_6"></span>[7](#fn_6) and he departed secretly, and fled to the
+id="fr_6"></span>[7](#fn_6.md) and he departed secretly, and fled to the
 woods not wishing to be seen as he fled.  He entered the wood and
 rejoiced to lie hidden under the ash trees; he marvelled at the wild
 beasts feeding on the grass of the glades; now he chased after them and
@@ -93,10 +93,10 @@ in a wretched voice.
 
  
 
-“Christ, God of heaven, <span id="fr_7"></span>[8](#fn_7) what shall I
+“Christ, God of heaven, <span id="fr_7"></span>[8](#fn_7.md) what shall I
 do?  In what part of the world can I stay, since I see nothing here I
 can live on, neither grass on the ground nor acorns on the trees?  Here
-once there stood nineteen apple trees <span id="fr_8"></span>[9](#fn_8)
+once there stood nineteen apple trees <span id="fr_8"></span>[9](#fn_8.md)
 bearing apples every year; now they are not standing.  Who has taken
 them away from me?  Whither have they gone all of a sudden?  Now I see
 them - now I do not!  Thus the fates fight against me and for me, since
@@ -135,7 +135,7 @@ toward the traveller and the latter at once went up to him and they fell
 into conversation; the one who had been sent to find Merlin asked if the
 other had seen him in the woods or the glades.  The latter admitted that
 he had seen such a man among the bushy glades of the Calidonian
-forest, <span id="fr_9"></span>[10](#fn_9) but, when he wished to speak
+forest, <span id="fr_9"></span>[10](#fn_9.md) but, when he wished to speak
 to him and sit down with him, the other had fled away swiftly among the
 oaks.  These things he told, and the messenger departed and entered the
 forest; he searched the deepest valleys and passed over the high
@@ -175,7 +175,7 @@ her soothing laments and incite to slumber.”
 
 The messenger heard the prophet and broke off his lament with cadences
 on the cither he had brought with him that with it he might attract and
-soften the madman. <span id="fr_10"></span>[11](#fn_10)  Therefore
+soften the madman. <span id="fr_10"></span>[11](#fn_10.md)  Therefore
 making plaintive sounds with his fingers and striking the strings in
 order, he lay hidden behind him and sang in a low voice, “O the dire
 groanings of mournful Guendoloena!  O the wretched tears of weeping
@@ -199,7 +199,7 @@ Not otherwise did Sidonian Dido grieve when the ships had weighed anchor
 and Aeneas was in haste to depart; so most wretched Phyllis groaned and
 wept when Demophoon did not come back at the appointed time; thus
 Briseis wept for the absent Achilles. <span
-id="fr_11"></span>[12](#fn_11)  Thus the sister and the wife grieve
+id="fr_11"></span>[12](#fn_11.md)  Thus the sister and the wife grieve
 together, and burn continually and completely with inward agonies.”
 
  
@@ -238,7 +238,7 @@ want to abide under the trees when he might hold a royal sceptre and
 rule over a warlike people.  After that he promised that he would give
 him many gifts, and he ordered people to bring him clothing and birds,
 dogs and swift horses, gold and shining gems, and cups that Wayland had
-engraved in the city of Segontium. <span id="fr_12"></span>[13](#fn_12) 
+engraved in the city of Segontium. <span id="fr_12"></span>[13](#fn_12.md) 
 Every one of these things Rydderch offered to the prophet and urged him
 to stay with him and leave the woods.
 
@@ -268,7 +268,7 @@ Meanwhile the queen was going through the hall looking for the king, and
 he, as was proper, greeted her as she came and took her by the hand and
 bade her sit down, and, embracing her, pressed her lips in a kiss.  In
 so doing he turned his face toward her and saw a leaf hanging in her
-hair; <span id="fr_13"></span>[14](#fn_13) he reached out his fingers,
+hair; <span id="fr_13"></span>[14](#fn_13.md) he reached out his fingers,
 took it and threw it on the ground, and jested joyfully with the woman
 he loved.  The prophet turned his eyes in that direction and smiled, and
 made the the men standing about look at him in wonder since he was not
@@ -316,7 +316,7 @@ you that he is crazy and has not spoken the truth.”
 There was in the hall a certain boy, one of many, and the ingenious
 woman catching sight of him straightway thought of a novel trick by
 which she might convict her brother of falsehood. <span
-id="fr_14"></span>[15](#fn_14)  So she ordered the boy to come in and
+id="fr_14"></span>[15](#fn_14.md)  So she ordered the boy to come in and
 asked her brother to predict by what death the lad should die.  He
 answered, “Dearest sister, he shall die, when a man, by falling from a
 high rock.”  Smiling at these words, she ordered the boy to go away and
@@ -435,7 +435,7 @@ of the stars, speaking to himself out in the open air.  “What does this
 ray of Mars mean?  Does its fresh redness mean that one king is dead and
 that there shall be another?  So I see it, for Constantine has died and
 his nephew Conan, through an evil fate and the murder of his uncle, has
-taken the crown and is king. <span id="fr_15"></span>[16](#fn_15)  And
+taken the crown and is king. <span id="fr_15"></span>[16](#fn_15.md)  And
 you, highest Venus, who slipping along within your ordered limits
 beneath the zodiac are accompanying the sun in his course, what about
 this double ray of yours that is cleaving the air?  Does not its
@@ -450,7 +450,7 @@ with my permission.  And when tomorrow’s sun shall shine I will go and
 take with me the gift I promised her when I left.”  So he spoke and went
 about all the woods and groves and collected a herd of stags in a single
 line, and the deer and she-goats likewise, and he himself mounted a
-stag. <span id="fr_16"></span>[17](#fn_16)  And when day dawned he came
+stag. <span id="fr_16"></span>[17](#fn_16.md)  And when day dawned he came
 quickly, driving the line before him to the place where Guendoloena was
 to be married.  When he arrived he forced the stags to stand patiently
 outside the gates while he cried aloud, “Guendoloena!  Guendoloena! 
@@ -492,7 +492,7 @@ seeing the novelties that were being sold there.
 After he had been taken out and was going away from the palace he saw
 before a door a servant of a poor appearance, the doorkeeper, asking
 with trembling lips of all the passers-by some money with which to get
-his clothes mended. <span id="fr_17"></span>[18](#fn_17)  The prophet
+his clothes mended. <span id="fr_17"></span>[18](#fn_17.md)  The prophet
 thereupon stood still and laughed, wondering at the poor man.  When he
 had gone on from here he saw a young man holding some new shoes and
 buying some pieces of leather to patch them with.  Then he laughed again
@@ -554,7 +554,7 @@ from the heavens by night, all of whom shall show me what is going to
 happen to the people of the kingdom.  And let the same number of scribes
 be at hand, trained to take my dictation, and let them be attentive to
 record my prophecy on their tablets. <span
-id="fr_18"></span>[19](#fn_18)  You too are to come often, dear sister,
+id="fr_18"></span>[19](#fn_18.md)  You too are to come often, dear sister,
 and then you can relieve my hunger with food and drink.”  After he had
 finished speaking he departed hastily for the woods.
 
@@ -577,25 +577,25 @@ pass.
  
 
 “O madness of the Britons whom a plenitude, always excessive, of riches
-exalts more than is seemly. <span id="fr_19"></span>[20](#fn_19)  They
+exalts more than is seemly. <span id="fr_19"></span>[20](#fn_19.md)  They
 do not wish to enjoy peace but are stirred up by the Fury’s goad.  They
 engage in civil wars and battles between relatives, and permit the
 church of the Lord to fall into ruin; the holy bishops they drive into
 remote lands.  The nephews of the Boar of Cornwall <span
-id="fr_20"></span>[21](#fn_20) cast everything into confusion, and
+id="fr_20"></span>[21](#fn_20.md) cast everything into confusion, and
 setting snares for each other engage in a mutual slaughter with their
 wicked swords.  They do not wish to wait to get possession of the
 kingdom lawfully, but seize the crown.  The fourth <span
-id="fr_21"></span>[22](#fn_21) from them shall be more cruel and more
+id="fr_21"></span>[22](#fn_21.md) from them shall be more cruel and more
 harsh still; him shall a wolf from the sea conquer in fight and shall
 drive defeated beyond the Severn through the kingdoms of the
 barbarians.  This latter shall besiege Cirencester with a blockade and
 with sparrows, and shall overthrow its walls to their very bases.  He
 shall seek the Gauls in his ship, but shall die beneath the weapon of a
-king.  Rhydderch shall die, <span id="fr_22"></span>[23](#fn_22) after
+king.  Rhydderch shall die, <span id="fr_22"></span>[23](#fn_22.md) after
 whom long discord shall hold the Scots and the Cumbrians for a long time
 until Cumbria shall be granted to his growing tusk.  The Welsh shall
-attack the men of Gwent, <span id="fr_23"></span>[24](#fn_23) and
+attack the men of Gwent, <span id="fr_23"></span>[24](#fn_23.md) and
 afterwards those of Cornwall and no law shall restrain them.  Wales
 shall rejoice in the shedding of blood; O people always hateful to God,
 why do you rejoice in bloodshed?  Wales shall compel brothers to fight
@@ -603,27 +603,27 @@ and to condemn their own relatives to a wicked death.  The troops of the
 Scots shall often cross the Humber and, putting aside all sentiment,
 shall kill those who oppose them.  Not with impunity, however, for the
 leader shall be killed; he shall have the name of a horse <span
-id="fr_24"></span>[25](#fn_24) and because of that fact shall be
+id="fr_24"></span>[25](#fn_24.md) and because of that fact shall be
 fierce.  His heir shall be expelled and shall depart from our
 territories.  Scots, sheathe your swords which you bare too readily;
 your strength shall be unequal to that of our fierce people.  The city
-of Dumbarton <span id="fr_25"></span>[26](#fn_25) shall be destroyed and
+of Dumbarton <span id="fr_25"></span>[26](#fn_25.md) shall be destroyed and
 no king shall repair it for an age until the Scot shall be subdued in
 war.  Carlisle, spoiled of its shepherd, shall lie vacant until the
 sceptre of the Lion shall restore its pastoral staff. <span
-id="fr_26"></span>[27](#fn_26)  Segontium and its towers and mighty
+id="fr_26"></span>[27](#fn_26.md)  Segontium and its towers and mighty
 palaces shall lament in ruins until the Welsh return to their former
-domains. <span id="fr_27"></span>[28](#fn_27)  Porchester shall see its
+domains. <span id="fr_27"></span>[28](#fn_27.md)  Porchester shall see its
 broken walls in its harbour until a rich man with the tooth of a wolf
 shall restore it.  The city of Richborough <span
-id="fr_28"></span>[29](#fn_28) shall lie spread out on the shore of its
-harbour and a man from Flanders <span id="fr_29"></span>[30](#fn_29)
+id="fr_28"></span>[29](#fn_28.md) shall lie spread out on the shore of its
+harbour and a man from Flanders <span id="fr_29"></span>[30](#fn_29.md)
 shall re-establish it with his crested ship.  The fifth from him shall
 rebuild the walls of St David’s and shall bring back to her  the pall
-lost for many years. <span id="fr_30"></span>[31](#fn_30)  The City of
-the Legions <span id="fr_31"></span>[32](#fn_31) shall fall into thy
+lost for many years. <span id="fr_30"></span>[31](#fn_30.md)  The City of
+the Legions <span id="fr_31"></span>[32](#fn_31.md) shall fall into thy
 bosom, O Severn, and shall lose her citizens for a long time, and these
-the Bear in the Lamb <span id="fr_32"></span>[33](#fn_32) shall restore
+the Bear in the Lamb <span id="fr_32"></span>[33](#fn_32.md) shall restore
 to her when he shall come.
 
  
@@ -631,9 +631,9 @@ to her when he shall come.
 Saxon kings shall expel the citizens and shall hold cities, country, and
 houses for a long time.  From among them thrice three dragons shall wear
 the crown.  Two hundred monks shall perish in Leicester <span
-id="fr_33"></span>[34](#fn_33) and the Saxon shall drive out her ruler
+id="fr_33"></span>[34](#fn_33.md) and the Saxon shall drive out her ruler
 and leave vacant her walls.  He who first among the Angles shall wear
-the diadem of Brutus <span id="fr_34"></span>[35](#fn_34) shall repair
+the diadem of Brutus <span id="fr_34"></span>[35](#fn_34.md) shall repair
 the city laid waste by slaughter.  A fierce people shall forbid the
 sacrament of confirmation throughout the country, and in the house of
 God shall place images of the gods.  Afterward Rome shall bring God back
@@ -648,16 +648,16 @@ Thunderer.  O wretched crime! that man whom the founder of the world
 created with liberty, deeming him worthy of heaven, should be sold like
 an ox and be dragged away with a rope.  You miserable man who turned
 traitor to your master when first you came to the throne, you shall
-yield to God.  The Danes <span id="fr_35"></span>[36](#fn_35) shall come
+yield to God.  The Danes <span id="fr_35"></span>[36](#fn_35.md) shall come
 upon \[you\] with their fleet and after subduing the people shall reign
 for a short time and shall then be defeated and retire.  Two shall rule
-over them <span id="fr_36"></span>[37](#fn_36) whom the serpent
+over them <span id="fr_36"></span>[37](#fn_36.md) whom the serpent
 forgetful of his treaty shall strike with the sting in his tail instead
 of with the garland of his sceptre.
 
  
 
-Then the Normans, <span id="fr_37"></span>[38](#fn_37) sailing over the
+Then the Normans, <span id="fr_37"></span>[38](#fn_37.md) sailing over the
 water in their wooden ships, bearing their faces in front and in back,
 shall fiercely attack the Angles with their iron tunics and their fierce
 swords, and shall destroy them and possess the field.  They shall
@@ -674,22 +674,22 @@ in holy ground, and they shall give to the soldiers what should belong
 to the needy.  Carried away by riches they shall run along on the path
 of worldly things and shall take from God what the holy bishop shall
 forbid.  Three shall wear the diadem <span
-id="fr_38"></span>[38](#fn_37) after whom shall be the favour of the
+id="fr_38"></span>[38](#fn_37.md) after whom shall be the favour of the
 newcomers.  A fourth shall be in authority whom awkward piety shall
 injure until he shall be clothed in his father, so that girded with
 boar’s teeth he shall cross the shadow of the helmeted man. <span
-id="fr_39"></span>[39](#fn_38)  Four shall be anointed, seeking in turn
+id="fr_39"></span>[39](#fn_38.md)  Four shall be anointed, seeking in turn
 the highest things, and two shall succeed who shall so wear the diadem
 that they shall induce the Gauls to make war on them.  The sixth shall
 overthrow the irish and their walls, and pious and prudent shall renew
 the people and the cities.  All these things I formerly predicted more
 at length to Vortigern in explaining to him the mystic war of the two
 dragons when we sat on the banks of the drained pool. <span
-id="fr_40"></span>[40](#fn_39)  But you, dear sister, go home to see the
+id="fr_40"></span>[40](#fn_39.md)  But you, dear sister, go home to see the
 king dying and bid Taliesin come, as I wish to talk over many things
 with him; for he has recently come from the land of Brittany where he
 learned sweet philosophy of Gildas the Wise.” <span
-id="fr_41"></span>[41](#fn_40)
+id="fr_41"></span>[41](#fn_40.md)
 
  
 
@@ -700,7 +700,7 @@ the death of Rhydderch and weep for a man such as our earth has not
 produced hitherto in our age so far as we know.  He was a lover of
 peace, for he so ruled a fierce people that no violence was done to any
 one by any one else.  He treated the holy priest with just
-moderation <span id="fr_42"></span>[42](#fn_41) and permitted the
+moderation <span id="fr_42"></span>[42](#fn_41.md) and permitted the
 highest and the lowest to be governed by law.  He was generous, for he
 gave away much and kept scarcely anything.  He was all things to all
 men, doing whatever was seemly; flower of knights, glory of kings,
@@ -729,7 +729,7 @@ joyful heart, clothed in a black mantle.”  So she spoke, giving her
 husband his due, and she inscribed on his tomb this verse, “Rhydderch
 the Generous, than whom there was no one more generous in the world, a
 great man rests in this small urn.” <span
-id="fr_43"></span>[42bis](#fn_42)
+id="fr_43"></span>[42bis](#fn_42.md)
 
  
 
@@ -743,7 +743,7 @@ illustrations under the guidance of Minerva his associate.
 “Out of nothing the Creator of the world produced four \[elements\] that
 they might be the prior cause as well as the material for creating all
 things when they were joined together in harmony: <span
-id="fr_44"></span>[43](#fn_43) the heaven which He adorned with stars
+id="fr_44"></span>[43](#fn_43.md) the heaven which He adorned with stars
 and which stands on high and embraces everything like the shell
 surrounding a nut; then He made the air, fir for forming sounds, through
 the medium of which day and night present the stars; the sea which girds
@@ -779,7 +779,7 @@ wise.  The space beyond the moon abounds in evil demons, who are skilled
 to cheat and deceive and tempt us; often they assume a body made of air
 and appear to us and many things often follow.  They even hold
 intercourse with women and make them pregnant, generating in an unholy
-manner. <span id="fr_45"></span>[44](#fn_44)  So therefore He made the
+manner. <span id="fr_45"></span>[44](#fn_44.md)  So therefore He made the
 heavens to be inhabited by three orders of spirits that each one might
 look out for something and renew the world from the renewed seed of
 things.
@@ -822,7 +822,7 @@ and healthful to the sick.
  
 
 For men say that the barbel restrains the heat of passion but makes
-blind those who eat it often. <span id="fr_46"></span>[45](#fn_45)  The
+blind those who eat it often. <span id="fr_46"></span>[45](#fn_45.md)  The
 thymallus, which has its name from the flower thyme, smells so that it
 betrays the fish that often eats of it until all the fishes in the river
 smell like itself.  They say the the muraenas, contrary to all laws, are
@@ -863,13 +863,13 @@ is in the habit of furnishing.  Besides all these it has fountains
 healthful because of their hot waters which nourish the sick and provide
 pleasing baths, which quickly send people away cured with their sickness
 driven out.  So Bladud established them when he held the sceptre of the
-kingdom, <span id="fr_47"></span>[46](#fn_46) and he gave them the name
+kingdom, <span id="fr_47"></span>[46](#fn_46.md) and he gave them the name
 of his consort Alaron.  These are of value to many sick because of the
 healing of their water, but most of all to women, as often the water has
 demonstrated.  Near to this island lies Thanet which abounds in many
 things but lacks the death-dealing serpent, and if any of its earth is
 drunk mixed with wine it takes away poison. <span
-id="fr_48"></span>[47](#fn_47)  Our ocean also divides the Orkneys from
+id="fr_48"></span>[47](#fn_47.md)  Our ocean also divides the Orkneys from
 us.  These are divided into thirty three islands by the sundering flood;
 twenty lack cultivation and the others are cultivated.  Thule receives
 its name “furthest” from the sun, because of the solstice which the
@@ -907,18 +907,18 @@ grain and grapes, and apple trees grow in its woods from the
 close-clipped grass.  The ground of its own accord produces everything
 instead of merely grass, and people live there a hundred years or more. 
 There nine sisters rule by a pleasing set of laws those who come to them
-from our country. <span id="fr_49"></span>[48](#fn_48)  She who is first
+from our country. <span id="fr_49"></span>[48](#fn_48.md)  She who is first
 of them is more skilled in the healing art, and excels her sisters in
 the beauty of her person.  Morgen is her name, and she has learned what
 useful properties all the herbs contain, so that she can cure sick
 bodies.  She also knows an art by which to change her shape, and to
 cleave the air on new wings like Daedalus; when she wishes she is at
-Brest, Chartres, or Pavia, <span id="fr_50"></span>[49](#fn_49)and when
+Brest, Chartres, or Pavia, <span id="fr_50"></span>[49](#fn_49.md)and when
 she will she slips down from the air onto your shores.  And men say that
 she has taught mathematics to her sisters, Moronoe, Mazoe, Gliten,
 Glitonea, Gliton, Tyronoe, Thitis; Thitis best known for her cither. 
 Thither after the battle of Camlan we took the wounded Arthur, guided by
-Barinthus <span id="fr_51"></span>[50](#fn_50) to whom the waters and
+Barinthus <span id="fr_51"></span>[50](#fn_50.md) to whom the waters and
 the stars of heaven were well known.  With him steering the ship we
 arrived there with the prince, and Morgen received is with fitting
 honour, and in her chamber she placed the king on a golden bed and with
@@ -951,11 +951,11 @@ and re-establish the citizens in their former peace.”
 have fixed their claws on our shores.  For at first they shall enslave
 our kingdom and our people and our cities, and shall dominate them with
 their forces for many years.  Nevertheless three <span
-id="fr_52"></span>[51](#fn_51) from among our people shall resist with
+id="fr_52"></span>[51](#fn_51.md) from among our people shall resist with
 much courage and shall kill many, and in the end shall overcome them. 
 But they shall not continue thus, for it is the will of the highest
 Judge that the Britons shall through weakness lose their noble kingdom
-for a long time, until Conan <span id="fr_53"></span>[52](#fn_52) shall
+for a long time, until Conan <span id="fr_53"></span>[52](#fn_52.md) shall
 come in his chariot from Brittany, and Cadwalader the venerated leader
 of the Welsh, who shall join together Scots and Cumbrians, Cornishmen
 and men of Brittany in a firm league, and shall return to their people
@@ -973,9 +973,9 @@ and of the barbarians who disturb everything.
 
 “And I remember the crime when Constans was betrayed and the small
 brothers Uther and Ambrosius fled across the water. <span
-id="fr_54"></span>[53](#fn_53)  At once wars began in the kingdom which
+id="fr_54"></span>[53](#fn_53.md)  At once wars began in the kingdom which
 now lacked a leader, for Vortigern of Gwent, <span
-id="fr_55"></span>[54](#fn_54) the consul, was leading his troops
+id="fr_55"></span>[54](#fn_54.md) the consul, was leading his troops
 against all the nations so that he might have the leadership of them,
 and was inflicting a wretched death upon the harmless peasants.  At
 length with sudden violence he seized the crown after putting to death
@@ -1012,7 +1012,7 @@ their fleet and with violence broke out and, led over the sea, they
 regained their own country in haste.  Therefore, since he had conquered
 the enemy in victorious war, Vortimer became a ruler to be respected in
 the world, and he treated his kingdom with just restraint.  But
-Hengist’s sister, Rowena, <span id="fr_56"></span>[55](#fn_55) seeing
+Hengist’s sister, Rowena, <span id="fr_56"></span>[55](#fn_55.md) seeing
 with indignation these successes, and protected by deceit, mixed poison,
 becoming on her brother’s account a malignant step-mother, and she gave
 it to Vortimer to drink, and killed him by the draught.  At once she
@@ -1079,7 +1079,7 @@ fleet.  He conquered the people of the Gauls after killing Frollo to
 whom the Roman power had given the care of that country; the Romans,
 too, who were seeking to make war on his country, he fought against and
 conquered, and killed the Procurator Hiberius Lucius <span
-id="fr_57"></span>[56](#fn_56) who was then a colleague of Legnis the
+id="fr_57"></span>[56](#fn_56.md) who was then a colleague of Legnis the
 general, and who by the command of the Senate had come to bring the
 territories of the Gauls under their power.  Meanwhile the faithless and
 foolish custodian Modred had commenced to subdue our kingdom to himself,
@@ -1119,7 +1119,7 @@ through the passages of bowels and stomach, settling the vapours within
 him, and at once he regained his reason and knew himself, and all his
 madness departed and the sense which had long remained torpid in him
 revived, and he remained what he had once been - sane and intact with
-his reason restored. <span id="fr_58"></span>[57](#fn_57)  Therefore,
+his reason restored. <span id="fr_58"></span>[57](#fn_57.md)  Therefore,
 praising God, he turned his face toward the stars and uttered devout
 words of praise.  “O King, through whom the machine of the starry
 heavens exists, through whom the sea and the land with its pleasing
@@ -1146,7 +1146,7 @@ though insane and beside myself?”
 Taliesin answered, “The opulent Regulator of things divided the rivers
 according to their kinds, and added moreover to each a power of its own,
 that they might often prove of benefit to the sick. <span
-id="fr_59"></span>[58](#fn_58)  For there are fountains and rivers and
+id="fr_59"></span>[58](#fn_58.md)  For there are fountains and rivers and
 lakes throughout the world which by their power cure many, and often do
 so.  At Rome, for instance, flows swift Albula, with its health-giving
 stream which men say cures wounds with its sure healing.  There is
@@ -1223,7 +1223,7 @@ already lived long enough, rejoicing in happy days while an abundance of
 great riches smiled profusely upon me.  In that wood there stands an oak
 in its hoary strength which old age, that consumes everything, has so
 wasted away that it lacks sap and is decaying inwardly. <span
-id="fr_60"></span>[58bis](#fn_59)  I saw this when it first began to
+id="fr_60"></span>[58bis](#fn_59.md)  I saw this when it first began to
 grow and I even saw the fall of the acorn from which it came, and a
 woodpecker standing over it and watching the branch.  Here I have seen
 it grow of its won accord, watching it all, and, fearing for it in these
@@ -1253,7 +1253,7 @@ days.
  
 
 “It is therefore the nature of the cranes, <span
-id="fr_61"></span>[59](#fn_60) as they go through the air, if many are
+id="fr_61"></span>[59](#fn_60.md) as they go through the air, if many are
 present, that we often see them in their flight form a figure in one way
 or another.  One, by calling, warns them to keep the formation as they
 fly, lest it break up and depart from the usual figure; when he becomes
@@ -1325,7 +1325,7 @@ get out and the whole neighbourhood resounds with his blows.”
  
 
 After he had finished speaking a certain madman came to them, either by
-accident or led there by fate; <span id="fr_62"></span>[60](#fn_61) he
+accident or led there by fate; <span id="fr_62"></span>[60](#fn_61.md) he
 filled the grove and the air with a terrific clamour and like a wild
 boar he foamed at the mouth and threatened to attack them.  They quickly
 captured him and made him sit down by them that his remarks might move
@@ -1337,7 +1337,7 @@ one distinguished by his nobility and his royal race.  Him and many
 others I had with me in the days of my wealth, and I was thought
 fortunate in having so many good companions, and I was.  It happened one
 time while we were hunting in the lofty mountains of Arwystli <span
-id="fr_63"></span>[61](#fn_62) that we came to an oak which rose in the
+id="fr_63"></span>[61](#fn_62.md) that we came to an oak which rose in the
 air with its broad branches.  A fountain flowed there, surrounded on all
 sides by green grass, whose waters were suitable for human consumption;
 we were all thirsty and we sat down by it and drank greedily of its pure
@@ -1405,17 +1405,17 @@ with the sun she uttered these doubtful words from her doubtful breast.
  
 
 “I see the city of Oxford filled with helmed men, <span
-id="fr_64"></span>[62](#fn_63) and the holy men and the holy bishops
+id="fr_64"></span>[62](#fn_63.md) and the holy men and the holy bishops
 bound in fetters by the advice of the Council, and men shall admire the
 shepherd’s tower reared on high, and he shall be forced to open it to no
 purpose and to his own injury.  I see Lincoln <span
-id="fr_65"></span>[63](#fn_64) walled in by savage soldiery and two men
+id="fr_65"></span>[63](#fn_64.md) walled in by savage soldiery and two men
 shut up in it, one of whom escapes to return with a savage tribe and
 their chief to the walls to conquer the cruel soldiers after capturing
 their leader.  O what a shame it is that the stars should capture the
 sun, under whom they sink down, compelled neither by force nor by war! 
 I see two moons in the air near Winchester <span
-id="fr_66"></span>[64](#fn_65) and two lions acting with too great
+id="fr_66"></span>[64](#fn_65.md) and two lions acting with too great
 ferocity, and one man looking at two and another at the same number, and
 preparing for battle and standing opposed.  The others rise up and
 attack the fourth fiercely and savagely but not one of them prevails,
@@ -1427,7 +1427,7 @@ portions of the fields.  The Boar of Brittany, protected by an aged oak,
 takes away the moon, brandishing swords behind her back.  I see two
 stars engaging in combat with wild beasts beneath the hill of Urien
 where the people of Gwent and those of Deira met in the reign of the
-great Coel. <span id="fr_67"></span>[65](#fn_66)  O with what sweat the
+great Coel. <span id="fr_67"></span>[65](#fn_66.md)  O with what sweat the
 men drip and with what blood the ground while wounds are being given to
 the foreigners!  One star collides with the other and falls into the
 shadow, hiding its light from the renewed light.  Alas what dire famine
@@ -1472,76 +1472,76 @@ The figures in brackets refer to lines of the Latin text.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](vmeng.htm#fr_0) (3)  Robert de Chesney,
+<span id="fn_0"></span>[1](vmeng.htm#fr_0) (3.md)  Robert de Chesney,
 fourth Bishop of Lincoln, was chosen toward the end of the year 1148
 after the death of Bishop Alexander, to whom Geoffrey had dedicated his
 version of the prophecies of Merlin.
 
-<span id="fn_1"></span>[2](vmeng.htm#fr_1) (14-15)  Camerinus, Macer,
+<span id="fn_1"></span>[2](vmeng.htm#fr_1) (14-15.md)  Camerinus, Macer,
 Marius, and Rabirius are all referred to within a few lines of one of
 Ovid’s *Epistles from Pontus* (IV, xvi).
 
-<span id="fn_2"></span>[3](vmeng.htm#fr_2) (23ff)  For this battle and
+<span id="fn_2"></span>[3](vmeng.htm#fr_2) (23ff.md)  For this battle and
 the persons concerned in it see the Introduction.
 
-<span id="fn_3"></span>[4](vmeng.htm#fr_3) (24-25)  This seems like a
+<span id="fn_3"></span>[4](vmeng.htm#fr_3) (24-25.md)  This seems like a
 reference to the pillaging expedition, which, according to the *Triads*,
 was made by Aeddan shortly before the battle of Arderydd.
 
-<span id="fn_4"></span>[5](vmeng.htm#fr_4) (32)  The name Cambri
+<span id="fn_4"></span>[5](vmeng.htm#fr_4) (32.md)  The name Cambri
 (Cymry), now applied to the Welsh, was formerly used of the Britons of
 Strathclyde and Cumberland - “Y Gogledd”.  The kingdom of Rhydderch was
 in this region.  Jocelyn of Furness in his *The Life of St Kentigern*
 (Chap xxxi) speaks of going “de Wallia ad Cambrian”.  See also *Y
 Cymmrodor*, XI, 98.
 
-<span id="fn_5"></span>[6](vmeng.htm#fr_5) (34)  The Welsh dialogue
+<span id="fn_5"></span>[6](vmeng.htm#fr_5) (34.md)  The Welsh dialogue
 between Myrddin and Taliesin speaks of the death in the battle of,
 “Three men of note whose esteem was great with Elgan.”  It speaks also
 of the prodigies of valour performed by the seven sons of Eliffer, of
 whom Peredur we know was one, and it may be three of these who are
 referred to.  See the Miscellany.
 
-<span id="fn_6"></span>[7](vmeng.htm#fr_6) (63ff)  The madness of
+<span id="fn_6"></span>[7](vmeng.htm#fr_6) (63ff.md)  The madness of
 Merlin, hardly intelligible here, is clear enough in the other versions
 where it comes as a punishment for his own misdeeds.  For parallels to
 this story see the Irish *Frenzy of Suibhne* and the other texts
 referred to in the Introduction.
 
-<span id="fn_7"></span>[8](vmeng.htm#fr_7) (87)  “Celi Duw” came to be a
+<span id="fn_7"></span>[8](vmeng.htm#fr_7) (87.md)  “Celi Duw” came to be a
 very common title of the Deity in Welsh, the “coeli” losing completely
 its original meaning and being considered quite equivalent to “God.”
 
-<span id="fn_8"></span>[9](vmeng.htm#fr_8) (90)  For references in Welsh
+<span id="fn_8"></span>[9](vmeng.htm#fr_8) (90.md)  For references in Welsh
 literature to Merlin’s apple trees see the *Afallennau* and the
 *Oianau*.
 
-<span id="fn_9"></span>[10](vmeng.htm#fr_9) (132)  Coed Celyddon or the
+<span id="fn_9"></span>[10](vmeng.htm#fr_9) (132.md)  Coed Celyddon or the
 Forest of Calidon originally stretched over the greater part of what is
 now southern Scotland.
 
-<span id="fn_10"></span>[11](vmeng.htm#fr_10) (165ff)  In the Irish
+<span id="fn_10"></span>[11](vmeng.htm#fr_10) (165ff.md)  In the Irish
 story of Suibhne his madness is softened in a very similar way by
 Loingreachan who played upon the harp and sang to him of his family, and
 finally persuaded him to return home.
 
-<span id="fn_11"></span>[12](vmeng.htm#fr_11) (191ff)  These lines show
+<span id="fn_11"></span>[12](vmeng.htm#fr_11) (191ff.md)  These lines show
 that Geoffrey was familiar with the *Heroides* of Ovid.
 
-<span id="fn_12"></span>[13](vmeng.htm#fr_12) (235)  Guilandus is
+<span id="fn_12"></span>[13](vmeng.htm#fr_12) (235.md)  Guilandus is
 probably, as San Marte suggests, Wayland Smith.  Urbs Sigenus is the old
 Welsh Kaer Sigont (now Caer Seiont), a name perhaps transferred to
 Carnarvon from the ruins of the Roman station of Segontium on the hill a
 short distance above the present city.
 
-<span id="fn_13"></span>[14](vmeng.htm#fr_13) (254ff)  This incident is
+<span id="fn_13"></span>[14](vmeng.htm#fr_13) (254ff.md)  This incident is
 contained in an expanded form in a fragment believed to be from a lost
 life of Kentigern, printed by Ward in *Romania*, xxii; there however the
 story is of Lailoken and the wife of Meldred, king of Dunmeller.  It
 bears some resemblance to the story told in Jocelyn’s *The Life of St
 Kentigern* of the adultery of Languoreth, wife of Rhydderch.
 
-<span id="fn_14"></span>[15](vmeng.htm#fr_14) (305ff)  This resembles
+<span id="fn_14"></span>[15](vmeng.htm#fr_14) (305ff.md)  This resembles
 closely another fragment printed by Ward in which Lailoken prophesies a
 similar threefold death, in this case, however, for himself.  Much the
 same incident has been preserved in by Welsh oral tradition in Glamorgan
@@ -1566,14 +1566,14 @@ The relation of such stories as these to similar incidents found earlier
 in the romances is a puzzling one, but probably relate to much earlier
 tales.
 
-<span id="fn_15"></span>[16](vmeng.htm#fr_15) (434-435)  These lines,
+<span id="fn_15"></span>[16](vmeng.htm#fr_15) (434-435.md)  These lines,
 backed up by lines 1133-1135, place the action of the poem in the reign
 of Aurelius Conan, which according to the *Historia* began about two
 years after the translation of Arthur and lasted for about two years. 
 As Geoffrey places the translation of Arthur in 542, he has made a
 mistake in dating, since the BAttle of Arderydd was fought about 577.
 
-<span id="fn_16"></span>[17](vmeng.htm#fr_16) (451)  In the Irish
+<span id="fn_16"></span>[17](vmeng.htm#fr_16) (451.md)  In the Irish
 version of the story Eorann, wife of Suibhne, takes a new mate in much
 the same fashion as Guendoloena does here.  In the same story we find
 Suibhne speaking of his herd of stags, to one of which he says,
@@ -1583,62 +1583,62 @@ to me across the glen,
 pleasant is the place for seats  
 on the top of they antler-points.”
 
-<span id="fn_17"></span>[18](vmeng.htm#fr_17) (481-532)  These two
+<span id="fn_17"></span>[18](vmeng.htm#fr_17) (481-532.md)  These two
 incidents are apparently of Oriental origin and quite possibly came to
 Geoffrey through some collection of exempla.  In the *Babylonian Talmud*
 there is a similar tale in which a daemon laughs at a man buying shoes
 and at a fortune-teller prophesying wealth for others.
 
-<span id="fn_18"></span>[19](vmeng.htm#fr_18) (560)  In the Irish
+<span id="fn_18"></span>[19](vmeng.htm#fr_18) (560.md)  In the Irish
 version the prophecies are taken down by St Molig; in the Scottish
 version by St Kentigern; in the Welsh poems Myrddin makes them to his
 sister.
 
-<span id="fn_19"></span>[20](vmeng.htm#fr_19) (580ff)  The following
+<span id="fn_19"></span>[20](vmeng.htm#fr_19) (580ff.md)  The following
 passage is a working over of the *Historia*, XI, vii-x.  The “Wolf of
 the Sea” refers to Gormund.
 
-<span id="fn_20"></span>[21](vmeng.htm#fr_20) (586)  The “Boar of
+<span id="fn_20"></span>[21](vmeng.htm#fr_20) (586.md)  The “Boar of
 Cornwall” is Geoffrey’s name for Arthur in the *Prophecies*; the
 “nephews” are apparently his grand-nephews, the sons of Modred. 
 (*Historia*, XI, iii).
 
-<span id="fn_21"></span>[22](vmeng.htm#fr_21) (590)  This evidently
+<span id="fn_21"></span>[22](vmeng.htm#fr_21) (590.md)  This evidently
 refers to Careticus of the *Historia*, the fourth after Arthur’s
 successor Constantine.
 
-<span id="fn_22"></span>[23](vmeng.htm#fr_22) (596-624)  For the greater
+<span id="fn_22"></span>[23](vmeng.htm#fr_22) (596-624.md)  For the greater
 part of this there are no specific explanations.  In Jocelyn’s
 *Kentigern* we find Lailoken predicting the death of Rhydderch, and in
 the Welsh poem of the Cyfoesi we find Myrddin doing the same.
 
-<span id="fn_23"></span>[24](vmeng.htm#fr_23) (599)  On the Gewissi, who
+<span id="fn_23"></span>[24](vmeng.htm#fr_23) (599.md)  On the Gewissi, who
 are probably intended here, see note 54 below.
 
-<span id="fn_24"></span>[25](vmeng.htm#fr_24) (608)  Men whose names are
+<span id="fn_24"></span>[25](vmeng.htm#fr_24) (608.md)  Men whose names are
 derived from horses, that one naturally thinks of, are Hengist, Horsus,
 and March, but none of these seems to fit here.
 
-<span id="fn_25"></span>[26](vmeng.htm#fr_25) (612)  Kaer Alclwyd, the
+<span id="fn_25"></span>[26](vmeng.htm#fr_25) (612.md)  Kaer Alclwyd, the
 modern Dumbarton, was destroyed by the Picts in 736, and by the Northmen
 in 870.
 
-<span id="fn_26"></span>[27](vmeng.htm#fr_26) (618)  Carlisle was
+<span id="fn_26"></span>[27](vmeng.htm#fr_26) (618.md)  Carlisle was
 destroyed by the Northmen and restored by William Rufus.  In 1133 Henry
 I (the “Lion of Justice” of the *Prophecies*) re-established its
 bishopric.
 
-<span id="fn_27"></span>[28](vmeng.htm#fr_27) (614)  Lot believes that
+<span id="fn_27"></span>[28](vmeng.htm#fr_27) (614.md)  Lot believes that
 this passage was inspired by the sight of the ruins of the old Roman
 station of Segontium on the hill above the modern city of Carnarvon.
 
-<span id="fn_28"></span>[29](vmeng.htm#fr_28) (620)  The old Roman port,
+<span id="fn_28"></span>[29](vmeng.htm#fr_28) (620.md)  The old Roman port,
 now Richborough on the Kent coast between Ramsgate and Deal.
 
-<span id="fn_29"></span>[30](vmeng.htm#fr_29) (621)  The Rutheni were,
+<span id="fn_29"></span>[30](vmeng.htm#fr_29) (621.md)  The Rutheni were,
 according to Alanus, the people of Flanders.
 
-<span id="fn_30"></span>[31](vmeng.htm#fr_30) (622-623)  This may refer
+<span id="fn_30"></span>[31](vmeng.htm#fr_30) (622-623.md)  This may refer
 to the passage in the *Historia* (VII, iii), “Menevia shall be robed in
 the pall of the City of the Legions,” but I think more probably it
 expresses the hope that a king should soon come who would re-establish
@@ -1649,31 +1649,31 @@ until the time of Samson, twenty fifth from Dewi or David, who fled to
 Dol in Brittany taking the pall with him.  (Giraldus Cambrensis, *De
 Menevensi Ecclesia Dialogus*).
 
-<span id="fn_31"></span>[32](vmeng.htm#fr_31) (624)  This is the city on
+<span id="fn_31"></span>[32](vmeng.htm#fr_31) (624.md)  This is the city on
 the Usk and not Chester, also called the City of the Legions, as the
 reference to the Severn shows.
 
-<span id="fn_32"></span>[33](vmeng.htm#fr_32) (626)  San Marte believes
+<span id="fn_32"></span>[33](vmeng.htm#fr_32) (626.md)  San Marte believes
 from what follows that this refers to the coming of Augustine.
 
-<span id="fn_33"></span>[34](vmeng.htm#fr_33) (630-631)  Clearly the
+<span id="fn_33"></span>[34](vmeng.htm#fr_33) (630-631.md)  Clearly the
 defeat of Brocmail and the slaughter of the monks at Leicester referred
 to in the *Historia* (XI, xiii), although the number does not agree with
 the printed texts; it does agree with the *Anglo-Saxon Chronicle*.
 
-<span id="fn_34"></span>[35](vmeng.htm#fr_34) (632)  Athelstan,
+<span id="fn_34"></span>[35](vmeng.htm#fr_34) (632.md)  Athelstan,
 according to *Historia*, XII, xix.
 
-<span id="fn_35"></span>[36](vmeng.htm#fr_35) (650-654)  Daci was
+<span id="fn_35"></span>[36](vmeng.htm#fr_35) (650-654.md)  Daci was
 commonly used for the Danes at this period, as Neustrenses was for the
 Normans.
 
-<span id="fn_36"></span>[37](vmeng.htm#fr_36) (652)  Possibly Canute and
+<span id="fn_36"></span>[37](vmeng.htm#fr_36) (652.md)  Possibly Canute and
 his son Harold.  San Marte evidently translates this passage
 differently, since his not explains that the “Lex Marsia” was used south
 of the Thames and the Danish laws north of it.
 
-<span id="fn_37"></span>[38](vmeng.htm#fr_38) (672-680)  This refers to
+<span id="fn_37"></span>[38](vmeng.htm#fr_38) (672-680.md)  This refers to
 the *Historia*, VII, iii, but its meaning remains unclear.  The “three”
 are the two Williams and Henry I, and the “fourth” Stephen.  San Marte
 takes the “four” to be William Rufus, Henry I, Stephen, and Henry II,
@@ -1707,24 +1707,24 @@ must have seemed to him good material to work over and put in the mouth
 of Merlin.  This would lead to the confusion about the later kings of
 Norman line as they do not quite follow the same pattern.
 
-<span id="fn_38"></span>[39](vmeng.htm#fr_39) (675)  Alanus explains
+<span id="fn_38"></span>[39](vmeng.htm#fr_39) (675.md)  Alanus explains
 that the “Helmeted Man” was the name given to one of the mountains of
 Scotland because of its shape.
 
-<span id="fn_39"></span>[40](vmeng.htm#fr_40) (681-683)  From the
+<span id="fn_39"></span>[40](vmeng.htm#fr_40) (681-683.md)  From the
 *Historia*, VII, iii.
 
-<span id="fn_40"></span>[41](vmeng.htm#fr_41) (687-688)  The *Life of
+<span id="fn_40"></span>[41](vmeng.htm#fr_41) (687-688.md)  The *Life of
 Gildas* by the Monk of Rhuys tells that after Gildas settled in Brittany
 people began to flock to him to entrust their sons for their instruction
 to his superintendence and teaching.
 
-<span id="fn_41"></span>[42](vmeng.htm#fr_42) (698) Apparently a
+<span id="fn_41"></span>[42](vmeng.htm#fr_42) (698.md) Apparently a
 reference to the fact told in the Scottish version but not mentioned by
 Geoffrey except here, that Rhydderch took St Kentigern under his
 protection after he had been driven out of his home in the north.
 
-<span id="fn_42"></span>[42bis](vmeng.htm#fr_43) Such Latin epitaphs on
+<span id="fn_42"></span>[42bis](vmeng.htm#fr_43.md) Such Latin epitaphs on
 early British tombs are by no means rare.  The grave of Rhydderch Hael
 has not been found, but at Warrior’s Rest, near Yarrow, in Selkirkshire,
 is an inscription to the sons of his cousin Nudd Hael.
@@ -1735,31 +1735,31 @@ DVMNOGENI. HIC IACENT IN TYMVLO. DVO FILII LIBERALIS
 According to Sir John Rhys the probable date of the stone is the latter
 part of the sixth century.
 
-<span id="fn_43"></span>[43](vmeng.htm#fr_44) (737-820)  Much of the
+<span id="fn_43"></span>[43](vmeng.htm#fr_44) (737-820.md)  Much of the
 material in this passage must have been taught in every school in
 Geoffrey’s time so that it is perhaps useless to expect to find an exact
 source for it.  Bede’s *De Natura Rerum* furnishes a fairly close
 parallel for much of it and must have been known to Geoffrey since it
 seems to have been taught in the Welsh Schools.
 
-<span id="fn_44"></span>[44](vmeng.htm#fr_45) (779-780)  For this same
+<span id="fn_44"></span>[44](vmeng.htm#fr_45) (779-780.md)  For this same
 material in the *Historia* Geoffrey refers us to the work of Apuleius on
 *The God of Socrates* but a number of other parallels exist.
 
-<span id="fn_45"></span>[45](vmeng.htm#fr_46) (827-854)  The whole
+<span id="fn_45"></span>[45](vmeng.htm#fr_46) (827-854.md)  The whole
 passage on fish follows closely Isidore of Seville’s *Etymologiae sive
 Origines*, XII, vi.
 
-<span id="fn_46"></span>[46](vmeng.htm#fr_47) (871)  The account of
+<span id="fn_46"></span>[46](vmeng.htm#fr_47) (871.md)  The account of
 Bladud is to be found in the *Historia*, II, x.  The name of Alaron is
 not recorded in Wales, but “Alarun” is recorded as a woman’s name in
 Brittany in 1152, which supports the reading of the manuscript in this
 passage.
 
-<span id="fn_47"></span>[47](vmeng.htm#fr_48) (875-909)  The account of
+<span id="fn_47"></span>[47](vmeng.htm#fr_48) (875-909.md)  The account of
 the islands is from Isidore, XIV, vi.
 
-<span id="fn_48"></span>[48](vmeng.htm#fr_49) (908ff)  The description
+<span id="fn_48"></span>[48](vmeng.htm#fr_49) (908ff.md)  The description
 of the Fortunate Isles comes largely from classical tradition (much of
 it is to be found in Isidore), but it seems also to be influenced by
 Celtic legends of the happy otherworld.  There is a significant passage
@@ -1782,27 +1782,27 @@ caused Dioneta, daughter of Gwrleis and Eigyr to be sent to the Isle of
 Avallach, and of all in her age she was the most skilled in the seven
 arts.
 
-<span id="fn_49"></span>[49](vmeng.htm#fr_50) (924)  Although these
+<span id="fn_49"></span>[49](vmeng.htm#fr_50) (924.md)  Although these
 three places are usually rendered Brest, Chartres, and Pavia, the last
 is sometimes translated as Paris.  R.S.Loomis has suggested that Bristi
 may be the locative of the Latin name for Bristol.
 
-<span id="fn_50"></span>[50](vmeng.htm#fr_51) (930)  Geoffrey may have
+<span id="fn_50"></span>[50](vmeng.htm#fr_51) (930.md)  Geoffrey may have
 got his Barinthus from an early tradition in which he was god of the sea
 and the otherworld rather than from the *Navigatio Brendani* as is
 sometimes suggested.
 
-<span id="fn_51"></span>[51](vmeng.htm#fr_52) (962)  On the basis of
+<span id="fn_51"></span>[51](vmeng.htm#fr_52) (962.md)  On the basis of
 Book XII of the *Historia*, the three are probably Cadvan, Cadwallo, and
 Cadwallader.
 
-<span id="fn_52"></span>[52](vmeng.htm#fr_53) (967-968)  For this
+<span id="fn_52"></span>[52](vmeng.htm#fr_53) (967-968.md)  For this
 prophecy among the Welsh before Geoffrey, see Introduction.
 
-<span id="fn_53"></span>[53](vmeng.htm#fr_54) (982ff)  More or less a
+<span id="fn_53"></span>[53](vmeng.htm#fr_54) (982ff.md)  More or less a
 summary of the *Historia*, VI, v-xix; VIII, i - XI, v.
 
-<span id="fn_54"></span>[54](vmeng.htm#fr_55) (986)  In spite of the
+<span id="fn_54"></span>[54](vmeng.htm#fr_55) (986.md)  In spite of the
 testimony of Bede that the Gewissi were a people of the West Saxons,
 J.J.Parry believes that Geoffrey was referring to a British people, and
 that his contemporaries would have understood this to be so.  Alanus,
@@ -1818,20 +1818,20 @@ was “Gwennwys” or “Gwenhwyson”, and there is a dialect of Welsh in that
 district known as “Gwenhwyseg.”  From some form of this word came the
 name “Gewissi”.
 
-<span id="fn_55"></span>[55](vmeng.htm#fr_56) (1033)  The Welsh form of
+<span id="fn_55"></span>[55](vmeng.htm#fr_56) (1033.md)  The Welsh form of
 this name is Ronwen (*Red Book* passim).
 
-<span id="fn_56"></span>[56](vmeng.htm#fr_57) (1104)  In the *Historia*
+<span id="fn_56"></span>[56](vmeng.htm#fr_57) (1104.md)  In the *Historia*
 this is “Lucio Tiberio”, although some of the manuscripts also read
 “Lucio Hybero”.  The weight of evidence is in favour of “Hybero”.
 
-<span id="fn_57"></span>[57](vmeng.htm#fr_58) (1136ff)  Such healing
+<span id="fn_57"></span>[57](vmeng.htm#fr_58) (1136ff.md)  Such healing
 fountains springing up suddenly are quite common in Celtic tales.
 
-<span id="fn_58"></span>[58](vmeng.htm#fr_59) (1179-1242)  These lines
+<span id="fn_58"></span>[58](vmeng.htm#fr_59) (1179-1242.md)  These lines
 on fountains follow closely after Isidore of Seville, XIII, xiii.
 
-<span id="fn_59"></span>[58bis](vmeng.htm#fr_60) The closest Welsh
+<span id="fn_59"></span>[58bis](vmeng.htm#fr_60.md) The closest Welsh
 parallel to this is to be found in the *Iolo Manuscripts* (Second
 edition, pp 189 and 601)
 
@@ -1848,16 +1848,16 @@ the Owl has been old since I first remember her.”
 The *Iolo Manuscript* is late, but early forms of this tale are known,
 see especially *Culhwch and Olwen*.
 
-<span id="fn_60"></span>[59](vmeng.htm#fr_61) (1301-1386)  The
+<span id="fn_60"></span>[59](vmeng.htm#fr_61) (1301-1386.md)  The
 description of the birds is from Isidore, XII, vii.
 
-<span id="fn_61"></span>[60](vmeng.htm#fr_62) (1386)  This incident may
+<span id="fn_61"></span>[60](vmeng.htm#fr_62) (1386.md)  This incident may
 be based on one in the Irish *Voyage of Maelduin*.
 
-<span id="fn_62"></span>[61](vmeng.htm#fr_63) (1402)  Argustli is the
+<span id="fn_62"></span>[61](vmeng.htm#fr_63) (1402.md)  Argustli is the
 modern Arwystli, a district in the central part of Wales.
 
-<span id="fn_63"></span>[62](vmeng.htm#fr_64) (1474)  The Welsh still
+<span id="fn_63"></span>[62](vmeng.htm#fr_64) (1474.md)  The Welsh still
 use the name Rhydychen or Oxen’s Ford for the city of Oxford.  This
 incident may relate either to the events of 24 June 1139, or to those of
 Easter Week, 1215.  In 1139, the Bishops Roger of Salisbury and
@@ -1870,7 +1870,7 @@ bursting with helms and tiaras.  The line “Pastor … reserare sui cogetur
 fictile dampni,” may well refer to the signing of the Magna Carta later
 in the year.
 
-<span id="fn_64"></span>[63](vmeng.htm#fr_65) (1479)  Again the
+<span id="fn_64"></span>[63](vmeng.htm#fr_65) (1479.md)  Again the
 possibility of two events being referred to is apparent.  The name
 Kaerloidcoit refers regularly to Lichfield, and an error of Geoffrey in
 the *Historia* has caused it to be attached to Lincoln.  It is
@@ -1883,14 +1883,14 @@ Robert of Gloucester and capture Stephen - the ‘sidera’ capturing the
 ‘sun’.  Alternatively it could refer to the capture of Lincoln in April
 of 1217.
 
-<span id="fn_65"></span>[64](vmeng.htm#fr_66) (1485)  Caerwent is the
+<span id="fn_65"></span>[64](vmeng.htm#fr_66) (1485.md)  Caerwent is the
 regular Welsh name for the City of Winchester.  Yet again there are two
 possible events referred to here.  On 14 September 1141, Queen Matilda
 and Empress Matilda (the two moons?) brought their rival forces to
 Winchester.  Winchester also hosted the events of 20 July 1213 when King
 John and Stephen Langton met.
 
-<span id="fn_66"></span>[65](vmeng.htm#fr_67) (1498)  The reference here
+<span id="fn_66"></span>[65](vmeng.htm#fr_67) (1498.md)  The reference here
 is probably to the battle of Coleshill in Flint fought in 1150, in which
 Madoc ab Maredudd and Randolf, Earl of Chester, were defeated with great
 slaughter by Owen Gwynedd, and were driven back out of Wales.  The
@@ -1898,4 +1898,4 @@ slaughter by Owen Gwynedd, and were driven back out of Wales.  The
 
 ------------------------------------------------------------------------
 
-[Next: Vita Merlini: Latin](vmlat)
+[Next: Vita Merlini: Latin](vmlat.md)

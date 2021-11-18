@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb17)  [Next](boeb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb17)  [Next](boeb19.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ And where this arrow is taken up,
  
 
 <span id="img_12200"></span> [![](tn/12200.jpg)  
-Click to enlarge](img/12200.jpg)
+Click to enlarge](img/12200.jpg.md)
 
  
 
@@ -129,4 +129,4 @@ And there they buried bold Robin Hood,
 
 ------------------------------------------------------------------------
 
-[Next: The Twa Corbies](boeb19)
+[Next: The Twa Corbies](boeb19.md)

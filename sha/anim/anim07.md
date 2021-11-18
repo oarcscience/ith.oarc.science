@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim06)  [Next](anim08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim06)  [Next](anim08.md) 
 
 ------------------------------------------------------------------------
 
@@ -770,4 +770,4 @@ snake may wed with mortals.\[81\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Belief in ''Free Spirits''](anim08)
+[Next: Chapter VI. Belief in ''Free Spirits''](anim08.md)

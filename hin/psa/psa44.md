@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa43)  [Next](psa45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa43)  [Next](psa45.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,4 +155,4 @@ that time, seated in their chariots, began to look down from the sky.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLIV](psa45)
+[Next: Chapter XLIV](psa45.md)

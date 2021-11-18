@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-10tx) [Next](dob-11tx)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-10tx) [Next](dob-11tx.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ interference by an outside power with the laws of nature. It was
 supposed that certain people, by reason of special (but quite natural)
 powers, could accomplish certain special acts beyond the power of
 ordinary men. These acts are eight in number: and as set forth in detail
-(above, [pp. 88, 89](dob-02tx.htm#p.%2088)) remind us of some (not of
+(above, [pp. 88, 89](dob-02tx.htm#p.%2088).md) remind us of some (not of
 all) the powers now attributed to mediums. The belief is not Buddhist.
 It is pre-Buddhistic, and common to all schools of thought in India.
 
@@ -43,7 +43,7 @@ have any craft or skill of the unconverted. But the eight powers
 referred to above are called the pothu*gg*anikâ- or
 puthu*gg*anikâ-iddhi{2} or âmisâ-iddhi{3}; that is, precisely
 
-{1. See for other instances above, [p. 206](dob-08in).
+{1. See for other instances above, [p. 206](dob-08in.md).
 
 2\. Vin. II, 183; *G*ât. I, 360.
 
@@ -92,7 +92,7 @@ Neumann, whose illustrations of Buddhist
 
 {1. Dhp. 175.
 
-2\. Above, [p. 88](dob-02tx.htm#p.%2088), and *G*ât. III, 454.
+2\. Above, [p. 88](dob-02tx.htm#p.%2088.md), and *G*ât. III, 454.
 
 3\. A. I, 145.
 
@@ -164,8 +164,8 @@ have the paramount importance they have to the thoughtless{1}.
 
 <span class="small">{1. On Vi*ññ*â*n*assa nirodho, see further Ud. VIII,
 9; S. III, 54-58; A. II, 45; and compare Asl. 350; A. IV, 39; and above.
-[p. 87](dob-02tx.htm#p.%2087).}</span>
+[p. 87](dob-02tx.htm#p.%2087.md).}</span>
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: XI. Kevaddha Sutta](dob-11tx)
+[Return to top](#top)   [Next: XI. Kevaddha Sutta](dob-11tx.md)

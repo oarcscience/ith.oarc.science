@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](tms05)  [Next](tms07) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](tms05)  [Next](tms07.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,11 +22,11 @@ think correctly.
 
 Note an example, taken from modern times, of such incorrect thinking.
 Andrew Lang is our informant. He writes: <span
-id="fr_347"></span>[1](#fn_347) " . . . the arrival of the French
+id="fr_347"></span>[1](#fn_347.md) " . . . the arrival of the French
 missionaries among the Hurons was coincident with certain unfortunate
 events; therefore it was argued that the advent of the missionaries was
 the cause of the misfortune." And one example taken from antiquity.
-Aulus Gellius <span id="fr_348"></span>[2](#fn_348) once attended a
+Aulus Gellius <span id="fr_348"></span>[2](#fn_348.md) once attended a
 dinner given by a poet friend at which shriveled oysters were served.
 The host thus explained: "The moon, you see, is now waning; oysters,
 therefore, like certain other things, are scrawny and juiceless." The
@@ -53,7 +53,7 @@ with State rites.
 On June first--a day known as the Kalends of the Beans--the pontiffs
 sacrificed to a somewhat obscure goddess of great antiquity, Carna, the
 "Flesh Goddess," in an ancient grove near the Tiber. <span
-id="fr_349"></span>[3](#fn_349) The goddess, it would seem, had in her
+id="fr_349"></span>[3](#fn_349.md) The goddess, it would seem, had in her
 care the vital organs of human beings, the heart, liver, and stomach.
 There was a shrine to Carna on the Caelian Hill which, as the tradition
 went, Marcus Junius Brutus, in fulfillment of a vow, dedicated to her
@@ -61,10 +61,10 @@ after the expulsion of Tarquin the Proud. Beans mixed with spelt were
 sacrificed to Carna because, as Macrobius says, "by these foods
 especially the powers of the human body are strengthened." The people
 ate this mixture and fat bacon, foods which, they believed, prevented
-stomach disorders. <span id="fr_350"></span>[4](#fn_350)
+stomach disorders. <span id="fr_350"></span>[4](#fn_350.md)
 
 We may dismiss, as W. Warde Fowler has done, <span
-id="fr_351"></span>[5](#fn_351) Ovid's identification of Carna with
+id="fr_351"></span>[5](#fn_351.md) Ovid's identification of Carna with
 Cardea, the goddess of the hinge; for quite obviously Ovid made the
 identification in order to introduce a racy story into his text.
 
@@ -74,7 +74,7 @@ the powers of a witch and could be invoked to keep off bloodsucking
 vampires which appeared in the form of screech owls. The rites of
 riddance, described by Ovid in the case of the infant Procas who became
 king of Alba Longa, are as follows: <span
-id="fr_352"></span>[6](#fn_352)
+id="fr_352"></span>[6](#fn_352.md)
 
 "Immediately she (Crane) touches the doorposts three times in succession
 with a spray of arbutus; three times she marks the threshold with an
@@ -96,7 +96,7 @@ the goddess Carna, are to be saved by the vicarious offering of a sow.
 The pig was frequently thus used. A similar substitution is to be seen
 in the ceremony of treaty-making, preserved in Livy, where the spokesman
 for the Roman side strikes a sacrificial pig, uttering these words the
-while: <span id="fr_353"></span>[7](#fn_353) "If (the Roman people)
+while: <span id="fr_353"></span>[7](#fn_353) "If (the Roman people.md)
 shall be the first to defect (from the terms of the treaty) . . . then
 do you, Diespiter, so strike the Roman people as I shall here to-day
 strike this pig."
@@ -108,11 +108,11 @@ sprinkling of purificatory waters, the striking of the door-post and the
 threshold with arbutus, and the placing of the spray of whitethorn in
 the window. The belief that whitethorn could keep off the spirits was
 common in antiquity. Ovid, in the rite which we have just described,
-says <span id="fr_354"></span>[8](#fn_354) that "by it she (the witch)
+says <span id="fr_354"></span>[8](#fn_354) that "by it she (the witch.md)
 could drive away sorrow-bringing harm from the doors." The Greeks had
-such a belief. <span id="fr_355"></span>[9](#fn_355) So, too, many
+such a belief. <span id="fr_355"></span>[9](#fn_355.md) So, too, many
 country people in our day use whitethorn to avert evils. <span
-id="fr_356"></span>[10](#fn_356) Striking and sweeping are universal
+id="fr_356"></span>[10](#fn_356.md) Striking and sweeping are universal
 methods of dispelling evil influences. Hence the witch swept the
 threshold and the window sill where the vampires would naturally seek
 entrance.
@@ -122,14 +122,14 @@ which Roman families concluded their rites in honor of the dead,
 occurred a curious bit of magic which was intended to silence an enemy.
 It had no official connection with the ritual of the day, but was
 appropriate perhaps because, as Frazer facetiously remarks, <span
-id="fr_357"></span>[11](#fn_357) "the dead . . . are notoriously
+id="fr_357"></span>[11](#fn_357.md) "the dead . . . are notoriously
 silent." The picture which Ovid draws  <span
-id="fr_358"></span>[12](#fn_358) is that of an old beldame, surrounded
+id="fr_358"></span>[12](#fn_358.md) is that of an old beldame, surrounded
 by a group of girls, performing magic rites to Tacita, the Silent
 Goddess. With three fingers she places three pinches of incense in a
 mouse's hole under the threshold, probably an offering to the spirits of
 the dead, which are commonly believed to haunt thresholds. <span
-id="fr_359"></span>[13](#fn_359) Then, as she utters a spell, she winds
+id="fr_359"></span>[13](#fn_359.md) Then, as she utters a spell, she winds
 woolen threads about a dark-colored lead image of the person whose
 slanderous tongue she is endeavoring to seal up. Meanwhile, she turns
 black beans in her mouth. She then takes a fish and smears its head with
@@ -153,10 +153,10 @@ It is interesting to know in this connection that the punishment meted
 out in hell by Minos to persons who had been talkative and betrayed
 secrets was that they should become fishes, that thus, in unending
 silence, they might atone for the wagging of their tongues. <span
-id="fr_360"></span>[14](#fn_360)
+id="fr_360"></span>[14](#fn_360.md)
 
 Whether there was actually a goddess Tacita is problematic. Plutarch
- <span id="fr_361"></span>[15](#fn_361) calls her one of the Muses and
+ <span id="fr_361"></span>[15](#fn_361.md) calls her one of the Muses and
 says that Numa instituted her worship in honor of the silence enjoined
 by Pythagoras upon his followers.
 
@@ -169,11 +169,11 @@ When Marcus Aurelius was leading his forces against the Quadi in 174
 A.D., a drought settled upon their country. According to one account,
 some Christians who happened to be serving under the Roman standards
 prayed for rain, and forthwith the heavens overflowed. <span
-id="fr_362"></span>[16](#fn_362) The pagan account of this rainstorm
+id="fr_362"></span>[16](#fn_362.md) The pagan account of this rainstorm
 says that an Egyptian magician procured it from Hermes. <span
-id="fr_363"></span>[17](#fn_363) We do not have to go to antiquity,
+id="fr_363"></span>[17](#fn_363.md) We do not have to go to antiquity,
 however, for evidence of supernatural rain-making. Frazer records  <span
-id="fr_364"></span>[18](#fn_364) a case of rain-making by immersing the
+id="fr_364"></span>[18](#fn_364.md) a case of rain-making by immersing the
 statue of a saint in water. He writes: "Beside the old priory of
 Commagny, a mile or two to the southwest of Moulins-Engilbert, there is
 a spring of St. Gervais, whither the inhabitants go in procession to
@@ -202,7 +202,7 @@ potent to produce rain.
 
 Outside the walls of Rome, in the vicinity of the temple of Mars,
 reposed such a stone, perhaps a hollow meteorite, called "the flowing
-stone" (lapis manalis). <span id="fr_365"></span>[19](#fn_365) When the
+stone" (lapis manalis). <span id="fr_365"></span>[19](#fn_365.md) When the
 crops were suffering from lack of rain, the pontiffs, accompanied by the
 magistrates and their lictors, dragged the stone into the city to the
 altar of Jupiter Elicius on the Aventine.
@@ -212,16 +212,16 @@ was hollow, filled it to overflowing--a rite calculated by sympathetic
 magic to cause the heavens to overflow. Ovid indicates the magic nature
 of the rite where he represents Picus and Faunus chanting spells to
 induce Jupiter to come down from the sky. <span
-id="fr_366"></span>[20](#fn_366) Petronius represents women, barefoot,
+id="fr_366"></span>[20](#fn_366.md) Petronius represents women, barefoot,
 with flowing hair, climbing up to the Capitol to petition Jupiter for
 rain. The god answered their plea, and the women went home as wet as
-drowned rats. <span id="fr_367"></span>[21](#fn_367) As the setting of
+drowned rats. <span id="fr_367"></span>[21](#fn_367.md) As the setting of
 the Satyricon is, for the most part, in southern Italy, a Greek rite may
 be intended. The "flowing stone" in this rite must not be confused with
 the stone of the same name which, according to Festus, <span
-id="fr_368"></span>[22](#fn_368) was the gateway to the underworld.
+id="fr_368"></span>[22](#fn_368.md) was the gateway to the underworld.
 Tertullian doubtless has the same or a similar rite in mind when he
-says: <span id="fr_369"></span>[23](#fn_369) "When the sky is paralyzed
+says: <span id="fr_369"></span>[23](#fn_369.md) "When the sky is paralyzed
 and the year is rainless, barefoot processions are declared. The
 magistrates lay aside the purple, reverse their fasces, offer prayer,
 and sacrifice a victim." The fact that the magistrates doffed their
@@ -244,7 +244,7 @@ application of the law of the association of ideas.
 
 On March sixteenth and seventeenth, a solemn procession made a circuit
 of twenty-seven chapels called "Argei" located in various parts of the
-city of Rome. <span id="fr_370"></span>[24](#fn_370) Rush puppets,
+city of Rome. <span id="fr_370"></span>[24](#fn_370.md) Rush puppets,
 bearing the same name, and resembling bound men, were made in the
 chapels, where they reposed until May fourteenth or fifteenth, when the
 pontiffs and the generals (praetores) carried them in procession to the
@@ -258,7 +258,7 @@ men, the practice of throwing puppets into the river began. Another
 account tells how the younger generation of Romans, in order to secure
 the voting privilege for themselves alone, threw all men who were over
 sixty years of age from certain bridges, probably--as we read in
-Festus, <span id="fr_371"></span>[25](#fn_371) who tells the same
+Festus, <span id="fr_371"></span>[25](#fn_371.md) who tells the same
 story--the bridges in the Plain of Mars over which the Romans passed
 when going to vote. This version, of course, cannot explain a rite which
 took place, not in the Plain of Mars, but on a bridge over the Tiber.
@@ -271,11 +271,11 @@ was his heir refused to carry out his master's request and threw a straw
 puppet into the river in place of his master.
 
 An attempt has been made in modern times to revive the ancient Roman
-explanation of this rite <span id="fr_372"></span>[26](#fn_372)--that
+explanation of this rite <span id="fr_372"></span>[26](#fn_372.md)--that
 the puppets represented, by substitution, a survival of the times when
 old men had actually been sacrificed and thrown into the Tiber, possibly
 to pacify the river god for the building of the bridge. We are disposed
-to follow Fowler, <span id="fr_373"></span>[27](#fn_373) who is
+to follow Fowler, <span id="fr_373"></span>[27](#fn_373.md) who is
 convinced that the rite is a case of sympathetic magic, the purpose of
 which is to produce rain and fertility for the crops. A comparative
 study of this rite with other magic rites among various peoples
@@ -285,7 +285,7 @@ The magic elements are clear: the straw puppets, made to look like men,
 were as good as men themselves in a magic rite, whether or not the rite
 originated in human sacrifice. Again, if the straw represented the
 products of the earth, the "corn spirit" as it is called, <span
-id="fr_374"></span>[28](#fn_374) the puppets, when drenched with water,
+id="fr_374"></span>[28](#fn_374.md) the puppets, when drenched with water,
 were sufficient to cause rain to fall, just as the "flowing stone" when
 drenched with water could cause the heavens to overflow. This view is
 strengthened by the prominent part taken in the rite by the Vestals,
@@ -295,7 +295,7 @@ possessed of magical powers. The procession involved purification, a
 magic rite in itself.
 
 On the twenty-fifth of April, at the Festival of Robigus  <span
-id="fr_375"></span>[29](#fn_375) (Robigalia), the spirit of the mildew,
+id="fr_375"></span>[29](#fn_375) (Robigalia.md), the spirit of the mildew,
 a suckling puppy and a sheep were slain in the city in the morning, and
 the entrails and the blood were carried in the afternoon by the priest
 of Mars, attended by worshipers clad in white, to the grove of Robigus
@@ -314,7 +314,7 @@ to Rome from Nomentum, witnessed the ceremonies of the Festival of the
 Mildew, and on inquiring their purpose, received answer from the
 sacrificing priest that the rites were intended to keep off the
 destructive heat of the Dog Star. Ovid writes: <span
-id="fr_376"></span>[30](#fn_376) "This dog is set on the altar instead
+id="fr_376"></span>[30](#fn_376.md) "This dog is set on the altar instead
 of the star dog, and its mere name is sufficient for it to perish." This
 statement is illuminating, for it clearly shows the same psychology in
 the sacrificing priest that we find in the savage performing a magic
@@ -322,18 +322,18 @@ rite. Because the star is called "Dog" a dog in sacrifice will drive
 away the star and its heat--a process of homoeopathic magic.
 
 It would seem that Robigus was a form of Mars. Tertullian connects the
-two in a passage  <span id="fr_377"></span>[31](#fn_377) in which he
+two in a passage  <span id="fr_377"></span>[31](#fn_377.md) in which he
 ascribes to Numa the institution of games to Mars and Robigus. We have
 seen that the priest of Mars officiated at the rites of the Robigalia.
 
 April fifteenth marked one of the most ancient rites of the Romans, the
 Festival of the Pregnant Cows (Fordicidia). <span
-id="fr_378"></span>[32](#fn_378) On this day, in historical times, the
+id="fr_378"></span>[32](#fn_378.md) On this day, in historical times, the
 pontiffs sacrificed pregnant cows (called fordae or hordae) to Earth.
 Some of the cows were slaughtered on the Capitol for the State, and
 thirty others in the thirty curiae, one for each curia. The Romans
 themselves believed that the sacrifice was to produce fertility for the
-crops. Ovid says:  <span id="fr_379"></span>[33](#fn_379) "Now the
+crops. Ovid says:  <span id="fr_379"></span>[33](#fn_379.md) "Now the
 cattle are heavy with young; the earth, too, is heavy with seed. To the
 full earth a full victim is given." The magic element underlying the
 sacrifice is simply this: the cows possessed fertility, and their
@@ -352,20 +352,20 @@ and crops, and to induce fertility. The Vestals distributed a portion of
 the mixture--known as suffimen--at the altar of Vesta as a fertility
 charm. The ashes of the calves, having come from a prolific mother, were
 believed to give creative strength to the men and women who used the
-mixture. <span id="fr_380"></span>[34](#fn_380) Other magic elements in
+mixture. <span id="fr_380"></span>[34](#fn_380.md) Other magic elements in
 this rite--leaping, bonfires--we shall discuss in a later chapter. <span
-id="fr_381"></span>[35](#fn_381)
+id="fr_381"></span>[35](#fn_381.md)
 
 At the Festival of Ceres (Cerealia) on April nineteenth, foxes were let
 loose in the Circus Maximus with torches tied to their backs. Ovid
-explains  <span id="fr_382"></span>[36](#fn_382) the custom by telling a
+explains  <span id="fr_382"></span>[36](#fn_382.md) the custom by telling a
 story which he had heard from the lips of a friend at Carseoli. It
 appears that a boy caught a vixen fox which had been playing havoc among
 the chickens on his father's farm. To punish the thief, the boy wrapped
 her in straw and hay and set her afire. The fox managed to escape, and
 soon flames had seized the crops and destroyed them. This rite has
 puzzled scholars, and many explanations have been forthcoming. The
-latest is that of Frazer. <span id="fr_383"></span>[37](#fn_383) He
+latest is that of Frazer. <span id="fr_383"></span>[37](#fn_383.md) He
 believes that the burning of the fox "was intended to serve as an awful
 warning to other foxes not to come and poach on the farmer's fields."
 Doubtless here the familiar principle of similarity offers an
@@ -382,118 +382,118 @@ in the rites of Roman religion.
 
 ### Footnotes
 
-<span id="fn_347"></span>[1](tms06.htm#fr_347) Andrew Lang, Myth, Ritual
+<span id="fn_347"></span>[1](tms06.htm#fr_347.md) Andrew Lang, Myth, Ritual
 and Religion, Vol. 1, pp. 94-95.
 
-<span id="fn_348"></span>[2](tms06.htm#fr_348) Noctes Atticae XX. 8; see
+<span id="fn_348"></span>[2](tms06.htm#fr_348.md) Noctes Atticae XX. 8; see
 also Pliny, Naturalis Historia II. 41, 109.
 
-<span id="fn_349"></span>[3](tms06.htm#fr_349) Ovid, Fasti VI. 101-106.
+<span id="fn_349"></span>[3](tms06.htm#fr_349.md) Ovid, Fasti VI. 101-106.
 
-<span id="fn_350"></span>[4](tms06.htm#fr_350) Macrobius, Saturnalia I.
+<span id="fn_350"></span>[4](tms06.htm#fr_350.md) Macrobius, Saturnalia I.
 12. 31-33.
 
-<span id="fn_351"></span>[5](tms06.htm#fr_351) The Roman Festivals, p.
+<span id="fn_351"></span>[5](tms06.htm#fr_351.md) The Roman Festivals, p.
 131.
 
-<span id="fn_352"></span>[6](tms06.htm#fr_352) Fasti VI. 155-162. I have
+<span id="fn_352"></span>[6](tms06.htm#fr_352.md) Fasti VI. 155-162. I have
 already made use of this excerpt in another connection; but its
 appropriateness for our present purpose compels me to repeat it here.
 
-<span id="fn_353"></span>[7](tms06.htm#fr_353) Livy I. 24, 8.
+<span id="fn_353"></span>[7](tms06.htm#fr_353.md) Livy I. 24, 8.
 
-<span id="fn_354"></span>[8](tms06.htm#fr_354) Fasti VI. 129-130.
+<span id="fn_354"></span>[8](tms06.htm#fr_354.md) Fasti VI. 129-130.
 
-<span id="fn_355"></span>[9](tms06.htm#fr_355) See Frazer, The Fasti of
+<span id="fn_355"></span>[9](tms06.htm#fr_355.md) See Frazer, The Fasti of
 Ovid, Vol. IV, p. 142.
 
-<span id="fn_356"></span>[10](tms06.htm#fr_356) Frazer, loc. cit.
+<span id="fn_356"></span>[10](tms06.htm#fr_356.md) Frazer, loc. cit.
 
-<span id="fn_357"></span>[11](tms06.htm#fr_357) Ibid., Vol. II, p. 446.
+<span id="fn_357"></span>[11](tms06.htm#fr_357.md) Ibid., Vol. II, p. 446.
 
-<span id="fn_358"></span>[12](tms06.htm#fr_358) Fasti II. 571-582.
+<span id="fn_358"></span>[12](tms06.htm#fr_358.md) Fasti II. 571-582.
 
-<span id="fn_359"></span>[13](tms06.htm#fr_359) See Frazer, The Fasti of
+<span id="fn_359"></span>[13](tms06.htm#fr_359.md) See Frazer, The Fasti of
 Ovid, Vol. II, pp. 447-448.
 
-<span id="fn_360"></span>[14](tms06.htm#fr_360) Claudius Claudianus, In
+<span id="fn_360"></span>[14](tms06.htm#fr_360.md) Claudius Claudianus, In
 Rufinum II. 488-490.
 
-<span id="fn_361"></span>[15](tms06.htm#fr_361) Numa VIII. 6.
+<span id="fn_361"></span>[15](tms06.htm#fr_361.md) Numa VIII. 6.
 
-<span id="fn_362"></span>[16](tms06.htm#fr_362) Tertullian, Apologeticus
+<span id="fn_362"></span>[16](tms06.htm#fr_362.md) Tertullian, Apologeticus
 adversus Gentes pro Cbristianis V; Julius Capitolinus, Marcus Antoninus
 XXIV. 4.
 
-<span id="fn_363"></span>[17](tms06.htm#fr_363) Dion Cassius LXXI. 8-10.
+<span id="fn_363"></span>[17](tms06.htm#fr_363.md) Dion Cassius LXXI. 8-10.
 
-<span id="fn_364"></span>[18](tms06.htm#fr_364) The Magic Art, P. 307.
+<span id="fn_364"></span>[18](tms06.htm#fr_364.md) The Magic Art, P. 307.
 
-<span id="fn_365"></span>[19](tms06.htm#fr_365) Ancient sources for this
+<span id="fn_365"></span>[19](tms06.htm#fr_365.md) Ancient sources for this
 rite are: Festus: Aquaelicium (Mueller's edition, p. 2); lbid.: Manalem
 lapidem (p. 128); Tertullian, Apologeticus XL; De Ieiunio XVI; Servius
 on Vergil's Aeneid III. 175; Varro, De Lingua Latina VI. 94; Livy I. 20,
 7; Ovid, Fasti III. 327-328; Arnobius V. I; Plutarch, Numa XV; Pliny,
 Naturalis Historia II. 140, XXVIII. 14.
 
-<span id="fn_366"></span>[20](tms06.htm#fr_366) Fasti III. 324-325. Note
+<span id="fn_366"></span>[20](tms06.htm#fr_366.md) Fasti III. 324-325. Note
 that Jupiter, i.e., rain, is to be brought down from heaven by sheer
 magic.
 
-<span id="fn_367"></span>[21](tms06.htm#fr_367) Satyricon XLIV.
+<span id="fn_367"></span>[21](tms06.htm#fr_367.md) Satyricon XLIV.
 
-<span id="fn_368"></span>[22](tms06.htm#fr_368) Manalem lapidem
+<span id="fn_368"></span>[22](tms06.htm#fr_368.md) Manalem lapidem
 (Mueller's edition, p. 128).
 
-<span id="fn_369"></span>[23](tms06.htm#fr_369) De Ieiunio XVI.
+<span id="fn_369"></span>[23](tms06.htm#fr_369.md) De Ieiunio XVI.
 
-<span id="fn_370"></span>[24](tms06.htm#fr_370) Ancient sources for this
+<span id="fn_370"></span>[24](tms06.htm#fr_370.md) Ancient sources for this
 rite are: Dionysius of Halicarnassus, Antiquitates Romanae I. 37, 3;
 Ovid, Fasti III. 791-792, V. 621-622; Varro, De Lingua Latina V. 45-54,
 VII. 44; Plutarch, Quaestiones Romanae XXXII; Festus: Sexagenarios
 (Mueller's edition, P. 334). The best summary of the views of modern
 scholars is contained in Frazer's note to Ovid, Fasti V. 621-622.
 
-<span id="fn_371"></span>[25](tms06.htm#fr_371) Loc. cit.
+<span id="fn_371"></span>[25](tms06.htm#fr_371.md) Loc. cit.
 
-<span id="fn_372"></span>[26](tms06.htm#fr_372) Georg Wissowa, Religion
+<span id="fn_372"></span>[26](tms06.htm#fr_372.md) Georg Wissowa, Religion
 und Kultus der Romer, p. 421.
 
-<span id="fn_373"></span>[27](tms06.htm#fr_373) The Roman Festivals, pp.
+<span id="fn_373"></span>[27](tms06.htm#fr_373.md) The Roman Festivals, pp.
 116-121.
 
-<span id="fn_374"></span>[28](tms06.htm#fr_374) See H. J. Rose,
+<span id="fn_374"></span>[28](tms06.htm#fr_374.md) See H. J. Rose,
 Primitive Culture in Italy, pp. 103-io4.
 
-<span id="fn_375"></span>[29](tms06.htm#fr_375) For this rite see:
+<span id="fn_375"></span>[29](tms06.htm#fr_375.md) For this rite see:
 Varro, Res Rusticae I. 1, 6, De Lingua Latina VI. 16; Ovid, Fasti IV.
 901-942; Servius on Vergil's Georgica I. 151; Columella, De Re Rustica
 X. 342; Tertullian, De Spectaculis XV; Lactantius I. 20, 17; Festus:
 Catularia (Mueller's edition, p. 45), Robigalia (p. 267) ; Pliny,
 Naturalis Historia XVIII. 14; C. I. L. I, pp. 231, 316.
 
-<span id="fn_376"></span>[30](tms06.htm#fr_376) Fasti IV. 941-942.
+<span id="fn_376"></span>[30](tms06.htm#fr_376.md) Fasti IV. 941-942.
 
-<span id="fn_377"></span>[31](tms06.htm#fr_377) De Spectaculis V.
+<span id="fn_377"></span>[31](tms06.htm#fr_377.md) De Spectaculis V.
 
-<span id="fn_378"></span>[32](tms06.htm#fr_378) For this rite see:
+<span id="fn_378"></span>[32](tms06.htm#fr_378.md) For this rite see:
 Festus: Horda (Mueller's edition, p. 102) Varro, Res Rusticae II. 5,
 6-7; De Lingua Latina VI. 15; Lydus, De Mensibus IV. 49 and 72; Ovid,
 Fasti IV. 629-672, 731-740.
 
-<span id="fn_379"></span>[33](tms06.htm#fr_379) Fasti IV. 633-634.
+<span id="fn_379"></span>[33](tms06.htm#fr_379.md) Fasti IV. 633-634.
 
-<span id="fn_380"></span>[34](tms06.htm#fr_380) See Joannes Lydus, De
+<span id="fn_380"></span>[34](tms06.htm#fr_380.md) See Joannes Lydus, De
 Mensibus IV. 72.
 
-<span id="fn_381"></span>[35](tms06.htm#fr_381) Chapter V.
+<span id="fn_381"></span>[35](tms06.htm#fr_381.md) Chapter V.
 
-<span id="fn_382"></span>[36](tms06.htm#fr_382) Fasti IV. 681-712.
+<span id="fn_382"></span>[36](tms06.htm#fr_382.md) Fasti IV. 681-712.
 
-<span id="fn_383"></span>[37](tms06.htm#fr_383) Frazer, The Fasti of
+<span id="fn_383"></span>[37](tms06.htm#fr_383.md) Frazer, The Fasti of
 Ovid, Vol. III, p. 331; see also Rose, Primitive Culture in Italy, pp.
 50-51.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Removing Evils by Magic Acts](tms07)
+[Next: Chapter V: Removing Evils by Magic Acts](tms07.md)

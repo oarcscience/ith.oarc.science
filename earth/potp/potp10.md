@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp09)  [Next](potp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp09)  [Next](potp11.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ would not
 Antarctic circles reflect the surface of the earth, water and ice,
 accurately. No great enterprise is undertaken without first consulting
 the water-sky.](tn/05500.jpg)  
-Click to enlarge](img/05500.jpg)  
+Click to enlarge](img/05500.jpg.md)  
 VIEW OF THE WATER-SKY.  
 The skies in the Arctic and Antarctic circles reflect the surface of the
 earth, water and ice, accurately. No great enterprise is undertaken
@@ -138,7 +138,7 @@ for hundreds of years people living there
 
 [![WATER-SKY.&lt;br&gt; Here is another view showing how the surface of
 the earth, water, and ice is reflected as in a mirror.](tn/06100.jpg)  
-Click to enlarge](img/06100.jpg)  
+Click to enlarge](img/06100.jpg.md)  
 WATER-SKY.  
 Here is another view showing how the surface of the earth, water, and
 ice is reflected as in a mirror.  
@@ -185,4 +185,4 @@ circles, and reflects the condition of the earth in the sky.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Aurora: Its Wonderful Variations](potp11)
+[Next: Chapter VII. The Aurora: Its Wonderful Variations](potp11.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah27)  [Next](oah29) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah27)  [Next](oah29.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ this throne, and it shall be thy house and the place of thy business.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](oah29)
+[Next: Chapter XIII](oah29.md)

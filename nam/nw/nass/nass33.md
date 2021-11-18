@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass32)  [Next](nass34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass32)  [Next](nass34.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ passage and escapes with the woman.
 
 ------------------------------------------------------------------------
 
-[Next: K\*?ēLku](nass34)
+[Next: K\*?ēLku](nass34.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot21) 
-[Next](sot23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot21.md) 
+[Next](sot23.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ happens to the mortal who beholds a Goddess!"
 
 ------------------------------------------------------------------------
 
-[Next: Card XII. The Hanged Man](sot23)
+[Next: Card XII. The Hanged Man](sot23.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto09)  [Next](gto11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto09)  [Next](gto11.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ So each of them went to his own home.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Gisli and Thorkel Part](gto11)
+[Next: Chapter VI. Gisli and Thorkel Part](gto11.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](arw25)  [Next](arw27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](arw25)  [Next](arw27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabian Wisdom*, by John Wortabet, \[1913\], at Intangible Textual
 Heritage
 
@@ -59,4 +59,4 @@ It is better to die a truthful man than to live the life of a liar.
 
 ------------------------------------------------------------------------
 
-[Next: Truthfulness to Promises](arw27)
+[Next: Truthfulness to Promises](arw27.md)

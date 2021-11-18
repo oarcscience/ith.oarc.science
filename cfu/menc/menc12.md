@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](menc11)  [Next](menc13) 
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](menc11)  [Next](menc13.md) 
 
 ------------------------------------------------------------------------
 

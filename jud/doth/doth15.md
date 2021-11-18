@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth14)  [Next](doth16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth14)  [Next](doth16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ The love of God, and the consequent acceptance of the yoke of duty in
 obedience to His will, is, in the Scripture passage that strikes the
 key-note of the faith of Israel, placed after the injunction to
 understand that the Creator exists, that the Eternal is God, and that He
-is One. (Hear and understand, <span id="fr_6"></span>[\*](#fn_5) O
+is One. (Hear and understand, <span id="fr_6"></span>[\*](#fn_5.md) O
 Israel, the Eternal is our God, the Eternal is One) (Deut. vi.).
 
 The unity of conduct, and the concentration of our love and striving
@@ -42,7 +42,7 @@ good.
 
 ### Footnotes
 
-<span id="fn_5"></span>[23:\*](doth15.htm#fr_6) Bachye is only following
+<span id="fn_5"></span>[23:\*](doth15.htm#fr_6.md) Bachye is only following
 many Hebraists, and not at all straining the sense, when he renders
 "Shemang," in this verse, "Understand," or hearken, instead of "hear."
 
@@ -50,6 +50,6 @@ many Hebraists, and not at all straining the sense, when he renders
 
 ------------------------------------------------------------------------
 
-[Next: The Only True Unity](doth16)
+[Next: The Only True Unity](doth16.md)
 
 </div>

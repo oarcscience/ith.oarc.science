@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](nfnw28)  [Next](nfnw30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](nfnw28)  [Next](nfnw30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -176,4 +176,4 @@ her hand to me. And so on we went up the Thames still—or whither?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX: The Journey's End](nfnw30)
+[Next: Chapter XXX: The Journey's End](nfnw30.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi24)  [Next](hpi26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi24)  [Next](hpi26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -191,7 +191,7 @@ tax-payers grow poor, and
 <span id="page_206">p. 206</span>
 
 their unnatural life makes them ill and miserable. <span
-id="fr_19"></span>[1](#fn_19) The old warlike customs have been refined
+id="fr_19"></span>[1](#fn_19.md) The old warlike customs have been refined
 away, so that people are no longer capable of defending themselves. The
 bond,--formed by a sense of belonging to one community, or the bond of
 Religion,--by the help of which the necessity and the will of the chief
@@ -262,7 +262,7 @@ or diplomatist to despair, had studied in our philosopher's school.
 
 ### Footnotes
 
-<span id="fn_19"></span>[206:1](hpi25.htm#fr_19) Ibn Khaldûn speaks only
+<span id="fn_19"></span>[206:1](hpi25.htm#fr_19.md) Ibn Khaldûn speaks only
 of rich people who have grown poor, and says nothing of the misery of
 the proletariate, and that which prevails in large cities, as we know
 it. He lived too in smaller cities, for the most part, and till late in
@@ -270,4 +270,4 @@ life admired Cairo from a distance.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Arabs and Scholasticism](hpi26)
+[Next: 2. The Arabs and Scholasticism](hpi26.md)

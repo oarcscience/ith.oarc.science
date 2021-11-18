@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos38)  [Next](kos40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos38)  [Next](kos40.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ Master; for thus only shall all things come to a successful issue.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. Concerning the Fasting, Care, And Things To Be
-Observed](kos40)
+Observed](kos40.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](str09)  [Next](str11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](str09)  [Next](str11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stonehenge, A Temple Restor'd to the British Druids*, by William
 Stukeley, \[1740\], at Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Stukeley, \[1740\], at Intangible Textual Heritage
 
 <span id="img_pl18"></span> <span align="CENTER"> [![Plate 18. A direct
 view of the Remains of the adytum of Stonehenge](tn/pl18.jpg)  
-Click to enlarge](img/pl18.jpg)  
+Click to enlarge](img/pl18.jpg.md)  
 Plate 18. A direct view of the Remains of the adytum of Stonehenge  
 </span>
 
@@ -153,7 +153,7 @@ suitable to that purpose. For it commands
 
 <span id="img_pl19"></span> <span align="CENTER"> [![Inward View of
 Stonehenge from the high altar. Aug. 1722.](tn/pl19.jpg)  
-Click to enlarge](img/pl19.jpg)  
+Click to enlarge](img/pl19.jpg.md)  
 Inward View of Stonehenge from the high altar. Aug. 1722.  
 </span>
 
@@ -179,7 +179,7 @@ a bank across the bottom of the valley, for the more easy passage of the
 religious ceremony, and this much corroborates my conjecture of the
 avenue reaching hither.
 
-*Plate* [XXIV.](str12.htm#img_pl24) explains all that I have last said
+*Plate* [XXIV.](str12.htm#img_pl24.md) explains all that I have last said
 about this avenue, and shews <span class="margnote">TAB. XXIV.</span>
 its direction to *Haradon* Hill, on the other side the river.
 
@@ -209,7 +209,7 @@ In order to have a just notion of this avenue, it is necessary to go to
 the neighbouring height of *Haradon* hill, on the other side the river.
 The largest barrow there, which I call *Hara*'s and which probably gave
 name to the hill, is in the line of the avenue; the ford of *Radfin*
-lying between, as we see in the [last](#img_pl19) *Plate*. I stood upon
+lying between, as we see in the [last](#img_pl19.md) *Plate*. I stood upon
 this hill *May* 11. 1724. during the total eclipse of the sun, of which
 I gave an account in my *Itinerarium*. Here is a most noble view of the
 work and country about *Stonehenge*. Whoever is upon the spot cannot
@@ -269,7 +269,7 @@ thereby names to things, that we may talk more intelligibly about them.
 
 We are next to advance down *Haradon*-hill in the same direction, nearer
 <span class="margnote">TAB. XXV.</span> *Radfin*, from whence I drew
-*Plate* [XXV](str13.htm#img_pl25). This valley leads us very gently to
+*Plate* [XXV](str13.htm#img_pl25.md). This valley leads us very gently to
 the river.
 
 <div style="margin-left: 32px">
@@ -282,7 +282,7 @@ Usque ad aquam*.--------------                     Virg.
 
 <span class="margnote">TAB XXVI.</span><span
 class="contnote">\[paragraph continues\]</span> This and the two views
-in *Plate* [XXVI.](str13.htm#img_pl26) give us a good notion of the
+in *Plate* [XXVI.](str13.htm#img_pl26.md) give us a good notion of the
 country on this side. There are seven barrows together, in the road from
 *Ambresbury* to *Radfin*, one great one and six little ones, which
 regard the *sacellum*, but cannot possibly to *Stonehenge*. This was a
@@ -291,7 +291,7 @@ at *Ambresbury*. These plates show us too, the avenue marching up the
 next hill, where the old and new seven kings barrows receive it again,
 as wings to it. This is shown more distinct in the <span
 class="margnote">TAB. XXVII.</span> next plate, [TAB.
-XXVII.](str13.htm#img_pl27) where the corn ground has began to encroach
+XXVII.](str13.htm#img_pl27.md) where the corn ground has began to encroach
 upon it. I could scarce forbear the wish,
 
 <div style="margin-left: 32px">
@@ -303,10 +303,10 @@ upon it. I could scarce forbear the wish,
 <span class="contnote">\[paragraph continues\]</span> When you are gone
 a little farther toward *Stonehenge*, and arriv’d at the top of <span
 class="margnote">TAB. XXIV.</span> the hill, if you turn back you have
-the view presented to you like that [TAB. XXIV.](str12.htm#img_pl24)
+the view presented to you like that [TAB. XXIV.](str12.htm#img_pl24.md)
 beyond A the beginning of the avenue, is *Radfin*, beyond that <span
 class="margnote">XXVIII.</span> *Haradon*. The prospect forward, toward
-*Stonehenge*, is shown [TAB. XXVIII.](str13.htm#img_pl28) There you see
+*Stonehenge*, is shown [TAB. XXVIII.](str13.htm#img_pl28.md) There you see
 the union of the two wings of the avenue, at the commencement of the
 strait part of it C. Again, you may observe the nature of the west wing
 of the avenue, going with a continued curve round the bottom of the
@@ -319,7 +319,7 @@ ascend the agreeable part
 view of Stonehenge from behind ye high Altar looking toward the grand
 entrance. A little oblique. Aug. 1722.&lt;br&gt; A the
 altar](tn/pl20.jpg)  
-Click to enlarge](img/pl20.jpg)  
+Click to enlarge](img/pl20.jpg.md)  
 Plate 20. An inward view of Stonehenge from behind ye high Altar looking
 toward the grand entrance. A little oblique. Aug. 1722.  
 A the altar  
@@ -359,7 +359,7 @@ pronunciation prefix’d, *Labrada*. So our Druids carried about a sharp
 brass instrument which we often find, call’d a celt, (I know not whence)
 with which they us’d to cut the *Misletoe*, at their great festival in
 midwinter. I have represented one hanging at our Druids girdle, in [TAB.
-I.](str03.htm#img_pl01) it <span class="margnote">TAB. I.</span> was to
+I.](str03.htm#img_pl01.md) it <span class="margnote">TAB. I.</span> was to
 be put into the slit at the end of his staff, when used. But of this
 hereafter. Now with the *Poet* in his celebrated *Ode*
 
@@ -374,11 +374,11 @@ Nec scire fas est omnia*---------                Horat.
 </div>
 
 being arriv’d again at *Stonehenge*, from the last print, [TAB.
-XXVIII.](str13.htm#img_pl28) though <span class="margnote">TAB.
+XXVIII.](str13.htm#img_pl28.md) though <span class="margnote">TAB.
 XXVIII.</span> small, we may see the beauty of the curve in the outer
 circle of that work, especially from the avenue, when the eye is below
 it. We observe the same in the grand front view. [TAB.
-V.](str04.htm#img_pl05)<span class="margnote">TAB. V.</span>
+V.](str04.htm#img_pl05.md)<span class="margnote">TAB. V.</span>
 
 And now we are return’d to the sacred fabric, we will discourse a little
 upon these temples in general, and so conclude this chapter.
@@ -470,4 +470,4 @@ confutation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](str11)
+[Next: Chapter IX](str11.md)

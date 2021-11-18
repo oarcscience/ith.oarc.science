@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen01)  [Next](gen03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen01)  [Next](gen03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ INTRODUCTION
 BY THE TRANSLATOR
 
 <span class="smallcaps">Genji Monogatari</span>, <span
-id="fr_0"></span>[1](#fn_0) the original of this translation, is one of
+id="fr_0"></span>[1](#fn_0.md) the original of this translation, is one of
 the standard works of Japanese, literature. It has been regarded for
 centuries as a national treasure. The title of the work is by no means
 unknown to those Europeans who take an interest in Japanese matters, for
@@ -315,13 +315,13 @@ assistance, for which I feel most thankful.
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](gen02.htm#fr_0) Which means, "The Romance
+<span id="fn_0"></span>[3:1](gen02.htm#fr_0.md) Which means, "The Romance
 of Genii."
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: The Chamber of Kiri](gen03)
+[Next: Chapter I: The Chamber of Kiri](gen03.md)
 
 </div>

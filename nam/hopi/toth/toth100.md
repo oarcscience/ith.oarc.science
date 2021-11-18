@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth099)  [Next](toth101) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth099)  [Next](toth101.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 97. THE GRASSHOPPERS AND THE ORAÍBI MAIDEN. <span id="fr_181"></span>[1](#fn_179)
+## 97. THE GRASSHOPPERS AND THE ORAÍBI MAIDEN. <span id="fr_181"></span>[1](#fn_179.md)
 
 At our village the people were living. At the place where now
 Shókhungioma and his wife, Síngösi, are living somebody lived and had a
@@ -52,7 +52,7 @@ finally said, "If you dance for me once more you can have one division
 of our corn-field and eat the corn." They then were willing to dance,
 bending. their front legs like arms, and swinging them lively back and
 forth, to which they sang the following song: <span
-id="fr_182"></span>[1](#fn_180)
+id="fr_182"></span>[1](#fn_180.md)
 
 Yayaaaaa shaolololo,  
 Yayaaaaa shaolololo,  
@@ -103,10 +103,10 @@ shall not be angry at you. That corn will sprout and grow again."
 
 ### Footnotes
 
-<span id="fn_179"></span>[236:1](toth100.htm#fr_181) Told by Qöyáwaima
+<span id="fn_179"></span>[236:1](toth100.htm#fr_181.md) Told by Qöyáwaima
 (Oraíbi).
 
-<span id="fn_180"></span>[237:1](toth100.htm#fr_182) The meaning of some
+<span id="fn_180"></span>[237:1](toth100.htm#fr_182.md) The meaning of some
 of the words only is known. The first word is probably derived from
 "yáyalawa" (damage), referring to the damage done by the Grasshoppers in
 the corn-field, "yamóshkiki" expresses such ideas as swarming, crowding
@@ -115,4 +115,4 @@ the wings by the Grasshoppers.
 
 ------------------------------------------------------------------------
 
-[Next: 98. How the Beetles Produced Pain](toth101)
+[Next: 98. How the Beetles Produced Pain](toth101.md)

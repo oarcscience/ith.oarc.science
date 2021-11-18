@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCSCQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCSCQ/internetsacredte.md)
 
 </div>
 
@@ -31,8 +31,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCSCQ/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](srg00)    [Page
-Index](pageidx)    [Text \[Zipped\]](srg.txt.gz)
+[Contents](#contents)    [Start Reading](srg00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](srg.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -48,23 +48,23 @@ God.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](srg00)  
-[Contents](srg01)  
-[Editorial Note](srg02)  
-[Introduction](srg03)  
-[Acknowledgment](srg04)  
-[Part I. The Perfect Face of the Beloved](srg05)  
-[Part II. Beauty](srg06)  
-[Part III. The Sea and its Pearls](srg07)  
-[Part IV. The Journey](srg08)  
-[Part V. Time and This Dream-World](srg09)  
-[Part VI. Reflections](srg10)  
-[Part VII. Divine Inebriation](srg11)  
-[Part VIII. Reason and Free-Will](srg12)  
-[Part IX. Man: His Capabilities and His Destiny](srg13)  
-[Part X. The One](srg14)  
-[Part XI. The Self](srg15)  
-[Part XII. Idols, Girdles, and Christianity](srg16)  
-[Part XIII. Thoughts](srg17)  
-[Part XIV. The Light Manifest](srg18)  
-[Epilogue](srg19)  
+<span id="contents"></span> [Title Page](srg00.md)  
+[Contents](srg01.md)  
+[Editorial Note](srg02.md)  
+[Introduction](srg03.md)  
+[Acknowledgment](srg04.md)  
+[Part I. The Perfect Face of the Beloved](srg05.md)  
+[Part II. Beauty](srg06.md)  
+[Part III. The Sea and its Pearls](srg07.md)  
+[Part IV. The Journey](srg08.md)  
+[Part V. Time and This Dream-World](srg09.md)  
+[Part VI. Reflections](srg10.md)  
+[Part VII. Divine Inebriation](srg11.md)  
+[Part VIII. Reason and Free-Will](srg12.md)  
+[Part IX. Man: His Capabilities and His Destiny](srg13.md)  
+[Part X. The One](srg14.md)  
+[Part XI. The Self](srg15.md)  
+[Part XII. Idols, Girdles, and Christianity](srg16.md)  
+[Part XIII. Thoughts](srg17.md)  
+[Part XIV. The Light Manifest](srg18.md)  
+[Epilogue](srg19.md)  

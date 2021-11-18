@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sie26)  [Next](sie28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sie26)  [Next](sie28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1854377299/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1854377299/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Songs of Innocence and of Experience*, by William Blake, \[1789-1794\],
 at Intangible Textual Heritage
 
@@ -44,4 +44,4 @@ Nor poverty the mind appall.
 
 ------------------------------------------------------------------------
 
-[Next: The Little Girl Lost; The Little Girl Found](sie28)
+[Next: The Little Girl Lost; The Little Girl Found](sie28.md)

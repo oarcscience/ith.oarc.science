@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt21)  [Next](pyt23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt21)  [Next](pyt23.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ livest for ever.
 ------------------------------------------------------------------------
 
 [Next: 20. Miscellaneous Texts--Some Largely Osirian, Utterances
-436-442](pyt23)
+436-442](pyt23.md)

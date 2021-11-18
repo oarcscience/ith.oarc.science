@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth005)  [Next](toth007) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth005)  [Next](toth007.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 5. THE ORIGIN OF SOME ORAÍBI CLANS. <span id="fr_21"></span>[1](#fn_21)
+## 5. THE ORIGIN OF SOME ORAÍBI CLANS. <span id="fr_21"></span>[1](#fn_21.md)
 
 Away down the sípapu in the under-world the people lived in the same
 manner as they do here. The wife of the chief of the Bear clan often
@@ -60,9 +60,9 @@ went northward.
 
 ### Footnotes
 
-<span id="fn_21"></span>[26:1](toth006.htm#fr_21) Told by Wikvaya
+<span id="fn_21"></span>[26:1](toth006.htm#fr_21.md) Told by Wikvaya
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: a. the Spider Clan](toth007)
+[Next: a. the Spider Clan](toth007.md)

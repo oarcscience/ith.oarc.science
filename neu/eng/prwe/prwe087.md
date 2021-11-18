@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe086)  [Next](prwe088) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe086)  [Next](prwe088.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ copper -- anything to do with these traditions?
 
 ------------------------------------------------------------------------
 
-[Next: St Michsel's Mount - The White Rock in the Wood](prwe088)
+[Next: St Michsel's Mount - The White Rock in the Wood](prwe088.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre55)  [Next](gre57) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre55)  [Next](gre57.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ But now men part and ride home from the Thing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LII: How Grettir was taken by the Icefirth Carles](gre57)
+[Next: Chapter LII: How Grettir was taken by the Icefirth Carles](gre57.md)

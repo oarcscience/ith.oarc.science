@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss08)  [Next](jss10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss08)  [Next](jss10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -98,19 +98,19 @@ At Olzoni there is an excellent post station. Tea was in order,
 
 <span id="img_05400"></span> <span align="CENTER"> [![V. HORSE
 SACRIFICE.](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)  
+Click to enlarge](img/05400.jpg.md)  
 V. HORSE SACRIFICE.  
 </span>
 
-*Page* [46](jss08.htm#page_46)
+*Page* [46](jss08.htm#page_46.md)
 
 <span id="img_05401"></span> <span align="CENTER"> [![VI. HORSE
 SACRIFICE.](tn/05401.jpg)  
-Click to enlarge](img/05401.jpg)  
+Click to enlarge](img/05401.jpg.md)  
 VI. HORSE SACRIFICE.  
 </span>
 
-*Page* [46](jss08.htm#page_46)
+*Page* [46](jss08.htm#page_46.md)
 
  
 
@@ -712,21 +712,21 @@ Amoorski was
 <span id="img_06800"></span> <span align="CENTER"> [![CONVICT PRISON AT
 A POST STATION.&lt;br&gt; What looks in this photograph to be a board
 fence is a square enclosure at least twelve feet high ](tn/06800.jpg)  
-Click to enlarge](img/06800.jpg)  
+Click to enlarge](img/06800.jpg.md)  
 CONVICT PRISON AT A POST STATION.  
 What looks in this photograph to be a board fence is a square enclosure
 at least twelve feet high  
 </span>
 
-*Page* [54](#page_54)
+*Page* [54](#page_54.md)
 
 <span id="img_06801"></span> <span align="CENTER"> [![BURIAT WOMEN IN
 FULL DRESS.](tn/06801.jpg)  
-Click to enlarge](img/06801.jpg)  
+Click to enlarge](img/06801.jpg.md)  
 BURIAT WOMEN IN FULL DRESS.  
 </span>
 
-*Page* [67](#page_67)
+*Page* [67](#page_67.md)
 
  
 
@@ -887,25 +887,25 @@ Vassya and Lazareff were to sleep under the shed, in their wagon.
 <span id="img_07200"></span> <span align="CENTER"> [![HOUSE WHERE WE
 BOARDED ON OLKHON ISLAND.&lt;br&gt; The building with the white sign is
 the Russian store](tn/07200.jpg)  
-Click to enlarge](img/07200.jpg)  
+Click to enlarge](img/07200.jpg.md)  
 HOUSE WHERE WE BOARDED ON OLKHON ISLAND.  
 The building with the white sign is the Russian store  
 </span>
 
-*Page* [72](#page_72)
+*Page* [72](#page_72.md)
 
 <span id="img_07201"></span> <span align="CENTER"> [![THE ONLY RUSSIAN
 CHURCH IN OLKHON.&lt;br&gt; The author spent three nights in the
 building](tn/07201.jpg)  
-Click to enlarge](img/07201.jpg)  
+Click to enlarge](img/07201.jpg.md)  
 THE ONLY RUSSIAN CHURCH IN OLKHON.  
 The author spent three nights in the building  
 </span>
 
-*Page* [73](jss10.htm#page_73)
+*Page* [73](jss10.htm#page_73.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Sojourn on the ''Sacred'' Island](jss10)
+[Next: Chapter VI. Sojourn on the ''Sacred'' Island](jss10.md)

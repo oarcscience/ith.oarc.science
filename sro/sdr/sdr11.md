@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sdr10)  [Next](sdr12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sdr10)  [Next](sdr12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Doctrine of the Rosicrucians*, by Magus Incognito, \[1918\],
 at Intangible Textual Heritage
 
@@ -79,14 +79,14 @@ doctrine
 of the ancient Egyptians, and was held in the highest regard by the
 great thinkers of the ancient Western world, such as Pythagoras,
 Empedocles, Plato, Virgil, and Ovid. Plato 's teachings were filled with
-the doctrine. [The](errata.htm#20) Hindu philosophies are based upon it.
+the doctrine. [The](errata.htm#20.md) Hindu philosophies are based upon it.
 The Persian Magi held implicitly to it. The ancient Druids, and the
 Priests of Gaul taught it. Traces of the doctrine are found in the
 records of the ancient races of the Aztecs, the Peruvians, and other old
 peoples of the New World. The Eleusinian Mysteries of Greece, the Roman
 Mysteries of the Temple, the Inner Doctrines of the Kabbala of the
 Hebrews, all were based upon the doctrine of Metempsychosis. The early
-Christian Fathers, the Gnostics and [Manicheans](errata.htm#21) and
+Christian Fathers, the Gnostics and [Manicheans](errata.htm#21.md) and
 other early Christian sects, believed in it. The great philosophers,
 ancient and modern, treated it with respect if indeed they did not fully
 accept it in many cases. The following quotations from modern
@@ -726,4 +726,4 @@ cyclic movement."
 
 ------------------------------------------------------------------------
 
-[Next: Part XI. The Soul's Progress](sdr12)
+[Next: Part XI. The Soul's Progress](sdr12.md)

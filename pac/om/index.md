@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,82 +20,82 @@
 
 ------------------------------------------------------------------------
 
-[Map of Pacific Cultural Areas](om44)
+[Map of Pacific Cultural Areas](om44.md)
 
 ------------------------------------------------------------------------
 
-[Title Page](om00)  
-[Author's Preface](om01)  
-[Contents](om02)  
-[Illustrations](om03)  
-[Introduction](om04)  
+[Title Page](om00.md)  
+[Author's Preface](om01.md)  
+[Contents](om02.md)  
+[Illustrations](om03.md)  
+[Introduction](om04.md)  
 <span id="section_000"></span>
 
 ### Part I. Polynesia
 
-[Part I. Polynesia](om05)  
-[Chapter I. Myths of Origins and the Deluge](om06)  
-[Chapter II. The Maui Cycle](om07)  
-[Chapter III. Miscellaneous Tales](om08)  
-[Chapter IV. Summary](om09)  
+[Part I. Polynesia](om05.md)  
+[Chapter I. Myths of Origins and the Deluge](om06.md)  
+[Chapter II. The Maui Cycle](om07.md)  
+[Chapter III. Miscellaneous Tales](om08.md)  
+[Chapter IV. Summary](om09.md)  
 <span id="section_001"></span>
 
 ### Part II. Melanesia
 
-[Part II. Melanesia](om10)  
-[Chapter I. Myths of Origins and the Deluge](om11)  
-[Chapter II. Culture Hero Tales](om12)  
-[Chapter III. Miscellaneous Tales](om13)  
-[Chapter IV. Summary](om14)  
+[Part II. Melanesia](om10.md)  
+[Chapter I. Myths of Origins and the Deluge](om11.md)  
+[Chapter II. Culture Hero Tales](om12.md)  
+[Chapter III. Miscellaneous Tales](om13.md)  
+[Chapter IV. Summary](om14.md)  
 <span id="section_002"></span>
 
 ### Part III. Indonesia
 
-[Part III. Indonesia](om15)  
-[Chapter I. Myths of Origins and the Deluge](om16)  
-[Chapter II. Trickster Tales](om17)  
-[Chapter III. Miscellaneous Tales](om18)  
-[Chapter IV. Summary](om19)  
+[Part III. Indonesia](om15.md)  
+[Chapter I. Myths of Origins and the Deluge](om16.md)  
+[Chapter II. Trickster Tales](om17.md)  
+[Chapter III. Miscellaneous Tales](om18.md)  
+[Chapter IV. Summary](om19.md)  
 <span id="section_003"></span>
 
 ### Part IV. Micronesia
 
-[Part IV. Micronesia](om20)  
-[Chapter I. Myths of Origins and the Deluge](om21)  
-[Chapter II. Miscellaneous Tales](om22)  
-[Chapter III. Summary](om23)  
+[Part IV. Micronesia](om20.md)  
+[Chapter I. Myths of Origins and the Deluge](om21.md)  
+[Chapter II. Miscellaneous Tales](om22.md)  
+[Chapter III. Summary](om23.md)  
 <span id="section_004"></span>
 
 ### Part V. Australia
 
-[Part V. Australia](om24)  
-[Chapter I. Myths of Origins and the Deluge](om25)  
-[Chapter II. Animal and Miscellaneous Tales](om26)  
-[Chapter III. Summary](om27)  
+[Part V. Australia](om24.md)  
+[Chapter I. Myths of Origins and the Deluge](om25.md)  
+[Chapter II. Animal and Miscellaneous Tales](om26.md)  
+[Chapter III. Summary](om27.md)  
 
  
 
-[Conclusion](om28)  
+[Conclusion](om28.md)  
 <span id="section_005"></span>
 
 ### Notes
 
-[Part I, Chapter I](om29)  
-[Part I, Chapter II](om30)  
-[Part I, Chapter III](om31)  
-[Part II, Chapter I](om32)  
-[Part II, Chapter II](om33)  
-[Part II, Chapter III](om34)  
-[Part III, Chapter I](om35)  
-[Part III, Chapter II](om36)  
-[Part III, Chapter III](om37)  
-[Part IV, Chapter I](om38)  
-[Part IV, Chapter II](om39)  
-[Part V](om40)  
-[Part V, Chapter I](om41)  
-[Part V, Chapter II](om42)  
+[Part I, Chapter I](om29.md)  
+[Part I, Chapter II](om30.md)  
+[Part I, Chapter III](om31.md)  
+[Part II, Chapter I](om32.md)  
+[Part II, Chapter II](om33.md)  
+[Part II, Chapter III](om34.md)  
+[Part III, Chapter I](om35.md)  
+[Part III, Chapter II](om36.md)  
+[Part III, Chapter III](om37.md)  
+[Part IV, Chapter I](om38.md)  
+[Part IV, Chapter II](om39.md)  
+[Part V](om40.md)  
+[Part V, Chapter I](om41.md)  
+[Part V, Chapter II](om42.md)  
 
  
 
-[Bibliography](om43)  
-[Map](om44)  
+[Bibliography](om43.md)  
+[Map](om44.md)  

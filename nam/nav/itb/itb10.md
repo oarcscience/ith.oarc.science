@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](itb09)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](itb09.md)
 
 ------------------------------------------------------------------------
 
@@ -137,9 +137,9 @@ Thompson, Stith
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index.md)
 
  
 

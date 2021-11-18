@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav16) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav16.md) 
 
 ------------------------------------------------------------------------
 

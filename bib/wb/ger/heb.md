@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](plm)  [Next](jam) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](plm)  [Next](jam.md) 
 
 ------------------------------------------------------------------------
 
@@ -1138,4 +1138,4 @@ Heiligen. Es grüßen euch die Brüder aus Italien.
 
 ------------------------------------------------------------------------
 
-[Next: James](jam)
+[Next: James](jam.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](csg14)  [Next](csg16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](csg14)  [Next](csg16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -359,7 +359,7 @@ Prussian Majesty answered that he heard the Count had found a way to
 insinuate himself into the good graces of the French King, whom he had
 amused with some experiments in Chemistry, and that the French King had
 made him a present of the *Château de Chambord*. <span
-id="fr_86"></span>[1](#fn_86)
+id="fr_86"></span>[1](#fn_86.md)
 
 A. MITCHELL.
 
@@ -389,10 +389,10 @@ A. MITCHELL.
 
 ### Footnotes
 
-<span id="fn_86"></span>[228:1](csg15.htm#fr_86) Compare with Appendix
+<span id="fn_86"></span>[228:1](csg15.htm#fr_86.md) Compare with Appendix
 I.
 
 ------------------------------------------------------------------------
 
 [Next: Appendix VII. Miscellaneous Papers From English Record
-Office](csg16)
+Office](csg16.md)

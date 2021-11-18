@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe150)  [Next](prwe152) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe150)  [Next](prwe152.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ distant." \[a\]
 
 ------------------------------------------------------------------------
 
-[Next: Rickety Children](prwe152)
+[Next: Rickety Children](prwe152.md)

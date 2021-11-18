@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -175,4 +175,4 @@ at all; it is also good, having sinned, to repent; as it is best to have
 health always, but it is a good thing to recover from a distemper. *To
 God be glory and dominion for ever and ever Amen.*
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

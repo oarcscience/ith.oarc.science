@@ -1,16 +1,16 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
 Flavius Josephus Against Apion <span
-id="EndNote Apion 1.1a"></span><sup>[(1)](#EndNote%20Apion%201.1b)</sup>
+id="EndNote Apion 1.1a"></span><sup>[(1)](#EndNote%20Apion%201.1b.md)</sup>
 
 BOOK 1
 
 1\. I SUPPOSE that by my books of the Antiquity of the Jews, most
 excellent Epaphroditus, <span
-id="EndNote Apion 1.2a"></span>[(2)](#EndNote%20Apion%201.2b) have made
+id="EndNote Apion 1.2a"></span>[(2)](#EndNote%20Apion%201.2b.md) have made
 it evident to those who peruse them, that our Jewish nation is of very
 great antiquity, and had a distinct subsistence of its own originally;
 as also, I have therein declared how we came to inhabit this country
@@ -79,7 +79,7 @@ confessed later than the siege of Troy; nay, the report goes, that even
 he did not leave his poems in writing, but that their memory was
 preserved in songs, and they were put together afterward, and that this
 is the reason of such a number of variations as are found in them. <span
-id="EndNote Apion 1.3a"></span>[(3)](#EndNote%20Apion%201.3b) As for
+id="EndNote Apion 1.3a"></span>[(3)](#EndNote%20Apion%201.3b.md) As for
 those who set themselves about writing their histories, I mean such as
 Cadmus of Miletus, and Acusilaus of Argos, and any others that may be
 mentioned as succeeding Acusilaus, they lived but a little while before
@@ -109,7 +109,7 @@ manner Ephorus demonstrates Hellanicus to have told lies in the greatest
 part of his history; as does Timeus in like manner as to Ephorus, and
 the succeeding writers do to Timeus, and all the later writers do to
 Herodotus <span
-id="EndNote Apion 1.3a"></span>[(3)](#EndNote%20Apion%201.3b) nor could
+id="EndNote Apion 1.3a"></span>[(3)](#EndNote%20Apion%201.3b.md) nor could
 Timeus agree with Antiochus and Philistius, or with Callias, about the
 Sicilian History, no more than do the several writers of the Athide
 follow one another about the Athenian affairs; nor do the historians the
@@ -120,7 +120,7 @@ and of the actions which were therein performed, there are so great
 differences? Nay, Thucydides himself is accused of some as writing what
 is false, although he seems to have given us the exactest history of the
 affairs of his own time. <span
-id="EndNote Apion 1.4a"></span>[(4)](#EndNote%20Apion%201.4b)
+id="EndNote Apion 1.4a"></span>[(4)](#EndNote%20Apion%201.4b.md)
 
 4\. As for the occasions of so great disagreement of theirs, there may
 be assigned many that are very probable, if any have a mind to make an
@@ -138,11 +138,11 @@ applied themselves to learning, there are no such records extant; nay,
 they say themselves that the laws of Draco concerning murders, which are
 now extant in writing, are the most ancient of their public records;
 which Draco yet lived but a little before the tyrant Pisistratus. <span
-id="EndNote Apion 1.5a"></span>[(5)](#EndNote%20Apion%201.5b) For as to
+id="EndNote Apion 1.5a"></span>[(5)](#EndNote%20Apion%201.5b.md) For as to
 the Arcadians, who make such boasts of their antiquity, what need I
 speak of them in particular, since it was still later before they got
 their letters, and learned them, and that with difficulty also. <span
-id="EndNote Apion 1.6a"></span>[(6)](#EndNote%20Apion%201.6b)
+id="EndNote Apion 1.6a"></span>[(6)](#EndNote%20Apion%201.6b.md)
 
 5\. There must therefore naturally arise great differences among
 writers, when they had no original records to lay for their foundation,
@@ -193,7 +193,7 @@ propagate of a wife of the same nation, without having any regard to
 money, or any other dignities; but he is to make a scrutiny, and take
 his wife's genealogy from the ancient tables, and procure many witnesses
 to it. <span
-id="EndNote Apion 1.7a"></span>[(7)](#EndNote%20Apion%201.7b) And this
+id="EndNote Apion 1.7a"></span>[(7)](#EndNote%20Apion%201.7b.md) And this
 is our practice not only in Judea, but wheresoever any body of men of
 our nation do live; and even there an exact catalogue of our priests'
 marriages is kept; I mean at Egypt and at Babylon, or in any other place
@@ -224,7 +224,7 @@ in a very distinct manner also.
 8\. For we have not an innumerable multitude of books among us,
 disagreeing from and contradicting one another, \[as the Greeks have,\]
 but only twenty-two books, <span
-id="EndNote Apion 1.8a"></span>[(8)](#EndNote%20Apion%201.8b) which
+id="EndNote Apion 1.8a"></span>[(8)](#EndNote%20Apion%201.8b.md) which
 contain the records of all the past times; which are justly believed to
 be divine; and of them five belong to Moses, which contain his laws and
 the traditions of the origin of mankind till his death. This interval of
@@ -462,19 +462,19 @@ wilderness, for Syria; but that as they were in fear of the Assyrians,
 who had then the dominion over Asia, they built a city in that country
 which is now called Judea, and that large enough to contain this great
 number of men, and called it Jerusalem. <span
-id="EndNote Apion 1.9a"></span>[(9)](#EndNote%20Apion%201.9b) Now
+id="EndNote Apion 1.9a"></span>[(9)](#EndNote%20Apion%201.9b.md) Now
 Manetho, in another book of his, says, "That this nation, thus called
 Shepherds, were also called Captives, in their sacred books." And this
 account of his is the truth; for feeding of sheep was the employment of
 our forefathers in the most ancient ages <span
-id="EndNote Apion 1.10a"></span>[(10)](#EndNote%20Apion%201.10b) and as
+id="EndNote Apion 1.10a"></span>[(10)](#EndNote%20Apion%201.10b.md) and as
 they led such a wandering life in feeding sheep, they were called
 Shepherds. Nor was it without reason that they were called Captives by
 the Egyptians, since one of our ancestors, Joseph, told the king of
 Egypt that he was a captive, and afterward sent for his brethren into
 Egypt by the king's permission. But as for these matters, I shall make a
 more exact inquiry about them elsewhere. <span
-id="EndNote Apion 1.11a"></span>[(11)](#EndNote%20Apion%201.11b)
+id="EndNote Apion 1.11a"></span>[(11)](#EndNote%20Apion%201.11b.md)
 
 15\. But now I shall produce the Egyptians as witnesses to the antiquity
 of our nation. I shall therefore here bring in Manetho again, and what
@@ -529,7 +529,7 @@ together, that these shepherds, as they are here called, who were no
 other than our forefathers, were delivered out of Egypt, and came
 thence, and inhabited this country, three hundred and ninety-three years
 before Danaus came to Argos; although the Argives look upon him <span
-id="EndNote Apion 1.12a"></span>[(12)](#EndNote%20Apion%201.12b) as
+id="EndNote Apion 1.12a"></span>[(12)](#EndNote%20Apion%201.12b.md) as
 their most ancient king Manetho, therefore, hears this testimony to two
 points of the greatest consequence to our purpose, and those from the
 Egyptian records themselves. In the first place, that we came out of
@@ -560,7 +560,7 @@ timber out of that mountain which is called Libanus, and sent it to him
 for adorning its roof. Solomon also not only made him many other
 presents, by way of requital, but gave him a country in Galilee also,
 that was called Chabulon. <span
-id="EndNote Apion 1.13a"></span>[(13)](#EndNote%20Apion%201.13b) But
+id="EndNote Apion 1.13a"></span>[(13)](#EndNote%20Apion%201.13b.md) But
 there was another passion, a philosophic inclination of theirs, which
 cemented the friendship that was betwixt them; for they sent mutual
 problems to one another, with a desire to have them unriddled by each
@@ -704,7 +704,7 @@ of a mountainous situation."
 he relates many other things about him also in the third book of his
 Chaldean History; wherein he complains of the Grecian writers for
 supposing, without any foundation, that Babylon was built by Semiramis,
-<span id="EndNote Apion 1.14a"></span>[(14)](#EndNote%20Apion%201.14b)
+<span id="EndNote Apion 1.14a"></span>[(14)](#EndNote%20Apion%201.14b.md)
 queen of Assyria, and for her false pretense to those wonderful edifices
 thereto buildings at Babylon, do no way contradict those ancient and
 relating, as if they were her own workmanship; as indeed in these
@@ -787,7 +787,7 @@ to all philosophers in wisdom and piety towards God. Now it is plain
 that he did not only know our doctrines, but was in very great measure a
 follower and admirer of them. There is not indeed extant any writing
 that is owned for his <span
-id="EndNote Apion 1.15a"></span>[(15)](#EndNote%20Apion%201.15b) but
+id="EndNote Apion 1.15a"></span>[(15)](#EndNote%20Apion%201.15b.md) but
 many there are who have written his history, of whom Hermippus is the
 most celebrated, who was a person very inquisitive into all sorts of
 history. Now this Hermippus, in his first book concerning Pythagoras,
@@ -824,7 +824,7 @@ Palestine are circumcised." But there are no inhabitants of Palestine
 that are circumcised excepting the Jews; and therefore it must be his
 knowledge of them that enabled him to speak so much concerning them.
 Cherilus also, a still ancienter writer, and a poet, <span
-id="EndNote Apion 1.16a"></span>[(16)](#EndNote%20Apion%201.16b) makes
+id="EndNote Apion 1.16a"></span>[(16)](#EndNote%20Apion%201.16b.md) makes
 mention of our nation, and informs us that it came to the assistance of
 king Xerxes, in his expedition against Greece. For in his enumeration of
 all those nations, he last of all inserts ours among the rest, when he
@@ -895,7 +895,7 @@ possession of the places in Syria after that battle at Gaza; and many,
 when they heard of Ptolemy's moderation and humanity, went along with
 him to Egypt, and were willing to assist him in his affairs; one of whom
 (Hecateus says) was Hezekiah <span
-id="EndNote Apion 1.17a"></span>[(17)](#EndNote%20Apion%201.17b) the
+id="EndNote Apion 1.17a"></span>[(17)](#EndNote%20Apion%201.17b.md) the
 high priest of the Jews; a man of about sixty-six years of age, and in
 great dignity among his own people. He was a very sensible man, and
 could speak very movingly, and was very skillful in the management of
@@ -927,7 +927,7 @@ of what they had on this account, till the king forgave them, and
 permitted them to live in quiet." He adds further, that "when the
 Macedonians came to them into that country, and demolished the \[old\]
 temples and the altars, they assisted them in demolishing them all <span
-id="EndNote Apion 1.18a"></span>[(18)](#EndNote%20Apion%201.18b) but
+id="EndNote Apion 1.18a"></span>[(18)](#EndNote%20Apion%201.18b.md) but
 \[for not assisting them in rebuilding them\] they either underwent
 losses, or sometimes obtained forgiveness." He adds further, that "these
 men deserve to be admired on that account." He also speaks of the mighty
@@ -938,7 +938,7 @@ Phoenicia, by reason of the sedition that was arisen in Syria." The same
 person takes notice in his history, how large the country is which we
 inhabit, as well as of its excellent character, and says, that "the land
 in which the Jews inhabit contains three millions of arourae, <span
-id="EndNote Apion 1.19a"></span>[(19)](#EndNote%20Apion%201.19b) and is
+id="EndNote Apion 1.19a"></span>[(19)](#EndNote%20Apion%201.19b.md) and is
 generally of a most excellent and most fruitful soil; nor is Judea of
 lesser dimensions." The same man describe our city Jerusalem also itself
 as of a most excellent structure, and very large, and inhabited from the
@@ -999,7 +999,7 @@ reported concerning us, and writes thus: "There are a people called
 Jews, and dwell in a city the strongest of all other cities, which the
 inhabitants call Jerusalem, and are accustomed to rest on every seventh
 day <span
-id="EndNote Apion 1.20a"></span>[(20)](#EndNote%20Apion%201.20b) on
+id="EndNote Apion 1.20a"></span>[(20)](#EndNote%20Apion%201.20b.md) on
 which times they make no use of their arms, nor meddle with husbandry,
 nor take care of any affairs of life, but spread out their hands in
 their holy places, and pray till the evening. Now it came to pass, that
@@ -1007,7 +1007,7 @@ when Ptolemy, the son of Lagus, came into this city with his army, that
 these men, in observing this mad custom of theirs, instead of guarding
 the city, suffered their country to submit itself to a bitter lord; and
 their law was openly proved to have commanded a foolish practice. <span
-id="EndNote Apion 1.21a"></span>[(21)](#EndNote%20Apion%201.21b) This
+id="EndNote Apion 1.21a"></span>[(21)](#EndNote%20Apion%201.21b.md) This
 accident taught all other men but the Jews to disregard such dreams as
 these were, and not to follow the like idle suggestions delivered as a
 law, when, in such uncertainty of human reasonings, they are at a loss
@@ -1092,7 +1092,7 @@ and yet were so blinded by their passions as not to discern it.
 26\. And now I will turn my discourse to one of their principal writers,
 whom I have a little before made use of as a witness to our antiquity; I
 mean Manetho. <span
-id="EndNote Apion 1.22a"></span>[(22)](#EndNote%20Apion%201.22b) He
+id="EndNote Apion 1.22a"></span>[(22)](#EndNote%20Apion%201.22b.md) He
 promised to interpret the Egyptian history out of their sacred writings,
 and premised this: that "our people had come into Egypt, many ten
 thousands in number, and subdued its inhabitants;" and when he had
@@ -1157,7 +1157,7 @@ highest esteem, but kill and destroy them all; that they should join
 themselves to nobody but to those that were of this confederacy. When he
 had made such laws as these, and many more such as were mainly opposite
 to the customs of the Egyptians, <span
-id="EndNote Apion 1.23a"></span>[(23)](#EndNote%20Apion%201.23b) he gave
+id="EndNote Apion 1.23a"></span>[(23)](#EndNote%20Apion%201.23b.md) he gave
 order that they should use the multitude of the hands they had in
 building walls about their City, and make themselves ready for a war
 with king Amenophis, while he did himself take into his friendship the
@@ -1436,7 +1436,7 @@ occasion of it. Manetho says that the person who foreshowed this
 purgation of Egypt to the king was Amenophis; but this man says it was
 Phritiphantes. As to the numbers of the multitude that were expelled,
 they agree exceedingly well <span
-id="EndNote Apion 1.24a"></span>[(24)](#EndNote%20Apion%201.24b) the
+id="EndNote Apion 1.24a"></span>[(24)](#EndNote%20Apion%201.24b.md) the
 former reckoning them eighty thousand, and the latter about two hundred
 and fifty thousand! Now, for Manetho, he describes those polluted
 persons as sent first to work in the quarries, and says that the city
@@ -1454,7 +1454,7 @@ who forged a dream from Isis about the leprous people, assigned the
 reason why the king would not bring them into Egypt. Moreover, Cheremon
 sets down Joseph as driven away at the same time with Moses, who yet
 died four generations <span
-id="EndNote Apion 1.25a"></span>[(25)](#EndNote%20Apion%201.25b) before
+id="EndNote Apion 1.25a"></span>[(25)](#EndNote%20Apion%201.25b.md) before
 Moses, which four generations make almost one hundred and seventy years.
 Besides all this, Ramesses, the son of Amenophis, by Manetho's account,
 was a young man, and assisted his father in his war, and left the
@@ -1550,7 +1550,7 @@ assistance of all men, this demonstrates a kind of mad conduct indeed;
 but not of the men themselves, but very greatly so of him that tells
 such lies about them. He hath also impudence enough to say that a name,
 implying "Robbers of the temples," <span
-id="EndNote Apion 1.26a"></span>[(26)](#EndNote%20Apion%201.26b) was
+id="EndNote Apion 1.26a"></span>[(26)](#EndNote%20Apion%201.26b.md) was
 given to their city, and that this name was afterward changed. The
 reason of which is plain, that the former name brought reproach and
 hatred upon them in the times of their posterity, while, it seems, those
@@ -1565,7 +1565,7 @@ what still remains to perfect my design in the following book.
 
 ENDNOTE
 
-<span id="EndNote Apion 1.1b"></span>[(1)](#EndNote%20Apion%201.1a) This
+<span id="EndNote Apion 1.1b"></span>[(1)](#EndNote%20Apion%201.1a.md) This
 first book has a wrong title. It is not written against Apion, as is the
 first part of the second book, but against those Greeks in general who
 would not believe Josephus's former accounts of the very ancient state
@@ -1593,7 +1593,7 @@ notes upon these books, when I met with plain indications that they were
 written not at Rome, but in Judea, and this after the third of Trajan,
 or A.D. 100.
 
-<span id="EndNote Apion 1.2b"></span>[(2)](#EndNote%20Apion%201.2a) Take
+<span id="EndNote Apion 1.2b"></span>[(2)](#EndNote%20Apion%201.2a.md) Take
 Dr. Hudson's note here, which as it justly contradicts the common
 opinion that Josephus either died under Domitian, or at least wrote
 nothing later than his days, so does it perfectly agree to my own
@@ -1610,7 +1610,7 @@ Domitian, after he had been for a good while in banishment; but another
 Epaphroditas, a freed-man, and procurator of Trajan, as says Grotius on
 Luke 1:3.
 
-<span id="EndNote Apion 1.3b"></span>[(3)](#EndNote%20Apion%201.3a) The
+<span id="EndNote Apion 1.3b"></span>[(3)](#EndNote%20Apion%201.3a.md) The
 preservation of Homer's Poems by memory, and not by his own writing them
 down, and that thence they were styled Rhapsodies, as sung by him, like
 ballads, by parts, and not composed and connected together in complete
@@ -1621,7 +1621,7 @@ were no ancienter writings among the Greeks than Homer's Poems, but that
 they did not fully own any ancienter writings pretending to such
 antiquity, which is trite.
 
-<span id="EndNote Apion 1.4b"></span>[(4)](#EndNote%20Apion%201.4a) It
+<span id="EndNote Apion 1.4b"></span>[(4)](#EndNote%20Apion%201.4a.md) It
 well deserves to be considered, that Josephus here says how all the
 following Greek historians looked on Herodotus as a fabulous author; and
 presently, sect. 14, how Manetho, the most authentic writer of the
@@ -1643,10 +1643,10 @@ false, (as Cteeias seems to have done,) but that he often wanted
 evidence, and sometimes preferred what was marvelous to what was best
 attested as really true.
 
-<span id="EndNote Apion 1.5b"></span>[(5)](#EndNote%20Apion%201.5a)
+<span id="EndNote Apion 1.5b"></span>[(5)](#EndNote%20Apion%201.5a.md)
 About the days of Cyrus and Daniel.
 
-<span id="EndNote Apion 1.6b"></span>[(6)](#EndNote%20Apion%201.6a) It
+<span id="EndNote Apion 1.6b"></span>[(6)](#EndNote%20Apion%201.6a.md) It
 is here well worth our observation, what the reasons are that such
 ancient authors as Herodotus, Josephus, and others have been read to so
 little purpose by many learned critics; viz. that their main aim has not
@@ -1666,14 +1666,14 @@ Thucydides, is therefore vastly greater; so is the most part of
 Thucydides, which belongs to his own times, and fell under his own
 observation, much the most certain.
 
-<span id="EndNote Apion 1.7b"></span>[(7)](#EndNote%20Apion%201.7a) Of
+<span id="EndNote Apion 1.7b"></span>[(7)](#EndNote%20Apion%201.7a.md) Of
 this accuracy of the Jews before and in our Savior's time, in carefully
 preserving their genealogies all along, particularly those of the
 priests, see Josephus's Life, sect. 1. This accuracy. seems to have
 ended at the destruction of Jerusalem by Titus, or, however, at that by
 Adrian.
 
-<span id="EndNote Apion 1.8b"></span>[(8)](#EndNote%20Apion%201.8a)
+<span id="EndNote Apion 1.8b"></span>[(8)](#EndNote%20Apion%201.8a.md)
 Which were these twenty-two sacred books of the. Old Testament, see the
 Supplement to the Essay of the Old Testament, p. 25-29, viz. those we
 call canonical, all excepting the Canticles; but still with this further
@@ -1682,22 +1682,22 @@ instead of our canonical Ezra, which seems to be no more than a later
 epitome of the other; which two books of Canticles and Ezra it no way
 appears that our Josephus ever saw.
 
-<span id="EndNote Apion 1.9b"></span>[(9)](#EndNote%20Apion%201.9a) Here
+<span id="EndNote Apion 1.9b"></span>[(9)](#EndNote%20Apion%201.9a.md) Here
 we have an account of the first building of the city of Jerusalem,
 according to Manetho, when the Phoenician shepherds were expelled out of
 Egypt about thirty-seven years before Abraham came out of Harsh.
 
-<span id="EndNote Apion 1.10b"></span>[(10)](#EndNote%20Apion%201.10a)
+<span id="EndNote Apion 1.10b"></span>[(10)](#EndNote%20Apion%201.10a.md)
 Genesis 46;32, 34; 47:3, 4.
 
-<span id="EndNote Apion 1.11b"></span>[(11)](#EndNote%20Apion%201.11a)
+<span id="EndNote Apion 1.11b"></span>[(11)](#EndNote%20Apion%201.11a.md)
 In our copies of the book of Genesis and of Joseph, this Joseph never
 calls himself "a captive," when he was with the king of Egypt, though he
 does call himself "a servant," "a slave," or "captive," many times in
 the Testament of the Twelve Patriarchs, under Joseph, sect. 1, 11,
 13-16.
 
-<span id="EndNote Apion 1.12b"></span>[(12)](#EndNote%20Apion%201.12a)
+<span id="EndNote Apion 1.12b"></span>[(12)](#EndNote%20Apion%201.12a.md)
 Of this Egyptian chronology of Manetho, as mistaken by Josephus, and of
 these Phoenician shepherds, as falsely supposed by him, and others after
 him, to have been the Israelites in Egypt, see Essay on the Old
@@ -1714,7 +1714,7 @@ always imply the "most ancient" of all without exception, but is
 sometimes to be rendered "very ancient" only, as is the case in the like
 superlative degrees of other words also.
 
-<span id="EndNote Apion 1.13b"></span>[(13)](#EndNote%20Apion%201.13a)
+<span id="EndNote Apion 1.13b"></span>[(13)](#EndNote%20Apion%201.13a.md)
 Authentic Records, Part II. p. 983, as Josephus could not but know very
 well; but that he was esteemed as very ancient by them, and that they
 knew they had been first of all denominated "Danai" from this very
@@ -1723,7 +1723,7 @@ ancient king Danaus. Nor does this superlative degree always imply the
 "very ancient" only, as is the case in the like superlative degrees of
 other words also.
 
-<span id="EndNote Apion 1.14b"></span>[(14)](#EndNote%20Apion%201.14a)
+<span id="EndNote Apion 1.14b"></span>[(14)](#EndNote%20Apion%201.14a.md)
 This number in Josephus, that Nebuchadnezzar destroyed the temple in the
 eighteenth year of his reign, is a mistake in the nicety of chronology;
 for it was in the nineteenth. The true number here for the year of
@@ -1735,14 +1735,14 @@ shows us that according to his copy of the Old Testament, after the
 second of Cyrus, that work was interrupted till the second of Darius,
 when in seven years it was finished in the ninth of Darius.
 
-<span id="EndNote Apion 1.15b"></span>[(15)](#EndNote%20Apion%201.15a)
+<span id="EndNote Apion 1.15b"></span>[(15)](#EndNote%20Apion%201.15a.md)
 This is a thing well known by the learned, that we are not secure that
 we have any genuine writings of Pythagoras; those Golden Verses, which
 are his best remains, being generally supposed to have been written not
 by himself, but by some of his scholars only, in agreement with what
 Josephus here affirms of him.
 
-<span id="EndNote Apion 1.16b"></span>[(16)](#EndNote%20Apion%201.16a)
+<span id="EndNote Apion 1.16b"></span>[(16)](#EndNote%20Apion%201.16a.md)
 Whether these verses of Cherilus, the heathen poet, in the days of
 Xerxes, belong to the Solymi in Pisidia, that were near a small lake, or
 to the Jews that dwelt on the Solymean or Jerusalem mountains, near the
@@ -1774,17 +1774,17 @@ satisfied, and not expect that they ever had an exact knowledge of all
 the circumstances of the Jewish affairs, which indeed it was almost
 always impossible for them to have. See sect. 23.
 
-<span id="EndNote Apion 1.17b"></span>[(17)](#EndNote%20Apion%201.17a)
+<span id="EndNote Apion 1.17b"></span>[(17)](#EndNote%20Apion%201.17a.md)
 This Hezekiah, who is here called a high priest, is not named in
 Josephus's catalogue; the real high priest at that time being rather
 Onias, as Archbishop Usher supposes. However, Josephus often uses the
 word high priests in the plural number, as living many at the same time.
 See the note on Antiq. B. XX. ch. 8. sect. 8.
 
-<span id="EndNote Apion 1.18b"></span>[(18)](#EndNote%20Apion%201.18a)
+<span id="EndNote Apion 1.18b"></span>[(18)](#EndNote%20Apion%201.18a.md)
 So I read the text with Havercamp, though the place be difficult.
 
-<span id="EndNote Apion 1.19b"></span>[(19)](#EndNote%20Apion%201.19a)
+<span id="EndNote Apion 1.19b"></span>[(19)](#EndNote%20Apion%201.19a.md)
 This number of arourae or Egyptian acres, 3,000,000, each aroura
 containing a square of 100 Egyptian cubits, (being about three quarters
 of an English acre, and just twice the area of the court of the Jewish
@@ -1812,16 +1812,16 @@ history in the general, and are most valuable attestations to those more
 authentic accounts we have in the Scriptures and Josephus concerning
 them.
 
-<span id="EndNote Apion 1.20b"></span>[(20)](#EndNote%20Apion%201.20a) A
+<span id="EndNote Apion 1.20b"></span>[(20)](#EndNote%20Apion%201.20a.md) A
 glorious testimony this of the observation of the sabbath by the Jews.
 See Antiq. B. XVI. ch. 2. sect. 4, and ch. 6. sect. 2; the Life, sect.
 54; and War, B. IV. ch. 9. sect. 12.
 
-<span id="EndNote Apion 1.21b"></span>[(21)](#EndNote%20Apion%201.21a)
+<span id="EndNote Apion 1.21b"></span>[(21)](#EndNote%20Apion%201.21a.md)
 Not their law, but the superstitious interpretation of their leaders
 which neither the Maccabees nor our blessed Savior did ever approve of.
 
-<span id="EndNote Apion 1.22b"></span>[(22)](#EndNote%20Apion%201.22a)
+<span id="EndNote Apion 1.22b"></span>[(22)](#EndNote%20Apion%201.22a.md)
 In reading this and the remaining sections of this book, and some parts
 of the next, one may easily perceive that our usually cool and candid
 author, Josephus, was too highly offended with the impudent calumnies of
@@ -1836,21 +1836,21 @@ than I do the rest of his writings, though I fully believe the
 reproaches cast on the Jews, which he here endeavors to confute and
 expose, were wholly groundless and unreasonable.
 
-<span id="EndNote Apion 1.23b"></span>[(23)](#EndNote%20Apion%201.23a)
+<span id="EndNote Apion 1.23b"></span>[(23)](#EndNote%20Apion%201.23a.md)
 This is a very valuable testimony of Manetho, that the laws of Osarsiph,
 or Moses, were not made in compliance with, but in opposition to, the
 customs of the Egyptians. See the note on Antiq. B. III. ch. 8. sect. 9.
 
-<span id="EndNote Apion 1.24b"></span>[(24)](#EndNote%20Apion%201.24a)
+<span id="EndNote Apion 1.24b"></span>[(24)](#EndNote%20Apion%201.24a.md)
 By way of irony, I suppose.
 
-<span id="EndNote Apion 1.25b"></span>[(25)](#EndNote%20Apion%201.25a)
+<span id="EndNote Apion 1.25b"></span>[(25)](#EndNote%20Apion%201.25a.md)
 Here we see that Josephus esteemed a generation between Joseph and Moses
 to be about forty-two or forty-three years; which, if taken between the
 earlier children, well agrees with the duration of human life in those
 ages. See Antheat. Rec. Part II. pages 966, 1019, 1020.
 
-<span id="EndNote Apion 1.26b"></span>[(26)](#EndNote%20Apion%201.26a)
+<span id="EndNote Apion 1.26b"></span>[(26)](#EndNote%20Apion%201.26a.md)
 That is the meaning of Hierosyla in Greek, not in Hebrew.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

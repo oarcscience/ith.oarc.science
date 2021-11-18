@@ -1,18 +1,18 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index) 
-[Iceland](../../ice/index)  [Index](index)  [Previous](tnm01) 
-[Next](tnm03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index.md) 
+[Iceland](../../ice/index)  [Index](index)  [Previous](tnm01.md) 
+[Next](tnm03.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_4">p. 4</span>
 
-### MYTHOLOGY <span id="fr_2"></span>[1](#fn_2)
+### MYTHOLOGY <span id="fr_2"></span>[1](#fn_2.md)
 
 As pointed out in the Corp. Poet. Bor., the old Norse mythology, with
 its very primitive conceptions of the origin of the universe--the earth
-the flesh of a mighty giant, <span id="fr_3"></span>[2](#fn_3) ocean his
+the flesh of a mighty giant, <span id="fr_3"></span>[2](#fn_3.md) ocean his
 blood, the rocks his bones, heaven made out of his skull, clouds out of
 his brains, and so on; its gods the personifications of natural forces
 or deified heroes; its belief in ghosts living in barrows--ancestor
@@ -27,7 +27,7 @@ all generations, who feast on (boiled) pork and mead, and spend the day
 in war-like sport, just as their earthly types did. Then there is a
 great Last Battle to be fought by the Warrior-Angels and the Elect
 against the Beast and the Dragon, and the Demons of Fire, an eschatology
-the origin of which is very plain." <span id="fr_4"></span>[3](#fn_4)
+the origin of which is very plain." <span id="fr_4"></span>[3](#fn_4.md)
 
 As the authors point out, however, this Wicking religion was never the
 accepted faith of the Norsemen, Danes,
@@ -102,19 +102,19 @@ sheaf,
 <span id="page_7">p. 7</span>
 
 and, of the *Laare-vane* (white horse), <span
-id="fr_5"></span>[1](#fn_5) as may be seen by comparison with similar
+id="fr_5"></span>[1](#fn_5.md) as may be seen by comparison with similar
 customs in the North of England and in Europe; for example, in Saxony,
 the last clump of standing corn is dedicated to Woden for his horse.
 
 In one or two Manks stories a *Hair rope* figures conspicuously. <span
-id="fr_6"></span>[2](#fn_6) Can this in any way refer to Odin? In
+id="fr_6"></span>[2](#fn_6.md) Can this in any way refer to Odin? In
 Ynglinga-tal the *halter* is described as "Hagbard's goat-hair rope,"
 and, elsewhere we read of Odin's horse-hair beard."
 
 From his name, Ygg (Awe), comes that of the World--Ash, *Ygg-drasil*,
 Odin's steed, because he hanged on the tree "himself to himself a
 sacrifice," when he sought wisdom at Mimi's burn. <span
-id="fr_7"></span>[3](#fn_7) (So, in English poetry, the Cross is
+id="fr_7"></span>[3](#fn_7.md) (So, in English poetry, the Cross is
 "Christ's palfry.") As lord of the gallows, all who die by hanging are
 thereby dedicated to Odin!
 
@@ -122,7 +122,7 @@ Under his name Hnikar, he is a water-god, and as such we commemorate him
 in the Nickey, a favourite rig of fishing boats. The term "Old Nick" of
 course refers to him. Mr. Quine points out an ancient
 place-name--"Nikkeson," a pool in Glen Roy, and another at Groudle, both
-having legends of a water sprite. <span id="fr_8"></span>[4](#fn_8)
+having legends of a water sprite. <span id="fr_8"></span>[4](#fn_8.md)
 
 In the oldest myths we hear of him in his "high-seat," looking out of
 the *Litho-skialf*--window in Heaven--whence all things can be seen. In
@@ -231,7 +231,7 @@ again is confused with Freya, and so with,
 <span id="page_11">p. 11</span>
 
 \[paragraph continues\] Frigga, is lord of love and fruitfulness, of
-fertility and peace. <span id="fr_9"></span>[1](#fn_9) His car is drawn
+fertility and peace. <span id="fr_9"></span>[1](#fn_9.md) His car is drawn
 by the boar *Gullinbursti*, whose "golden bristles" light up the night
 like day, who runs with the speed of a horse. His sword, which could put
 itself into motion against the brood of giants, he gave up for the fair
@@ -280,7 +280,7 @@ his face; but Sigyn, his wife, stands by him and holds a dish under the
 venom drops, which, when full, she empties; but while the venom drops on
 his face he is so racked that the whole earth shakes; "that call ye
 earthquake. There lieth he till the Doomsday of the gods." (*Pr. Ed.
-77*.) <span id="fr_10"></span>[1](#fn_10) In the end he breaks loose and
+77*.) <span id="fr_10"></span>[1](#fn_10.md) In the end he breaks loose and
 steers the ship *Naglfar* (Nail-board), made of dead men's nails, at
 Ragnarök, when he meets Heimdal, and they are each other's bane. Our
 folklore notion that all nail-cuttings should be carefully destroyed may
@@ -352,7 +352,7 @@ smoke over their corn fields, cattle, and habitations. . . . It is also
 the usage to put out the culinary fires on that day, and to re-kindle
 them with some of the sacred fire." He then refers to the mock
 engagements between Summer and Winter on May-day, *Laaboaldyn*; <span
-id="fr_11"></span>[1](#fn_11) also to the strewing of "primroses" and
+id="fr_11"></span>[1](#fn_11.md) also to the strewing of "primroses" and
 the crosses of mountain ash.
 
 <span id="page_15">p. 15</span>
@@ -371,8 +371,8 @@ Swedish and Gothic than Norwegian.
 Besides the Anses and the Vanir and the Elves (light and dark), we have
 the Giants, generally hostile to the gods, but sometimes friendly. They
 are the "hill-folk" or "cave-men," and live at
-[Jötunheim](errata.htm#0), on the edge of the Earth, which is imagined
-flat, and surrounded by the Ocean. <span id="fr_12"></span>[1](#fn_12)
+[Jötunheim](errata.htm#0.md), on the edge of the Earth, which is imagined
+flat, and surrounded by the Ocean. <span id="fr_12"></span>[1](#fn_12.md)
 Some of these appear in our carvings, and our folk-tales refer to
 others.
 
@@ -381,7 +381,7 @@ by four of these, named after the cardinal points of the compass. They
 live chiefly in rocks and caves underground, hence are gatherers and
 hoarders of precious stones and metals. Trolls, from which we get a
 place-name--Trollaby--seem to be between Giants and Monsters. <span
-id="fr_13"></span>[2](#fn_13) Our *Phynnodderee* and *Glashtin*, if of
+id="fr_13"></span>[2](#fn_13.md) Our *Phynnodderee* and *Glashtin*, if of
 Celtic
 
 <span id="page_16">p. 16</span>
@@ -407,38 +407,38 @@ our sculptured stones.
 
 ### Footnotes
 
-<span id="fn_2"></span>[4:1](tnm02.htm#fr_2) I draw this sketch from
+<span id="fn_2"></span>[4:1](tnm02.htm#fr_2.md) I draw this sketch from
 Snorri's "Prose Edda" (G. W. Dasent, Trans.); Grimm's "Teutonic
 Mythology"; Cleasby and Vigfusson's "Icelandic Dictionary"; and
 Vigfusson and York Powell's "Corpus Poeticum Boreale."
 
-<span id="fn_3"></span>[4:2](tnm02.htm#fr_3) Vafthrudnis-mal.
+<span id="fn_3"></span>[4:2](tnm02.htm#fr_3.md) Vafthrudnis-mal.
 
-<span id="fn_4"></span>[4:3](tnm02.htm#fr_4) "Corp. Poet. Bor." II. 459.
+<span id="fn_4"></span>[4:3](tnm02.htm#fr_4.md) "Corp. Poet. Bor." II. 459.
 But the Authors say "roast" pork!
 
-<span id="fn_5"></span>[7:1](tnm02.htm#fr_5) "Folklore of the Isle of
+<span id="fn_5"></span>[7:1](tnm02.htm#fr_5.md) "Folklore of the Isle of
 Man."--A. W. Moore, pp. 104, 122, 144.
 
-<span id="fn_6"></span>[7:2](tnm02.htm#fr_6) Thus Train relates how a
+<span id="fn_6"></span>[7:2](tnm02.htm#fr_6.md) Thus Train relates how a
 felon was cut down by the angry populace, and hanged again in a *hair
 halter!* There is also a story both at Ballaugh and S. John's of a lost
 skeleton of the Irish Elk, which the workmen endeavoured to haul out by
 a hair rope.
 
-<span id="fn_7"></span>[7:3](tnm02.htm#fr_7) "I mind me hanging on the
+<span id="fn_7"></span>[7:3](tnm02.htm#fr_7.md) "I mind me hanging on the
 gallows-tree nine whole nights, wounded with the spear, offered to Odin,
 myself to myself; on the Tree whose roots no man knoweth."--*Hava-mal*.
 
-<span id="fn_8"></span>[7:4](tnm02.htm#fr_8) "I.ioar Manninagh," III.,
+<span id="fn_8"></span>[7:4](tnm02.htm#fr_8.md) "I.ioar Manninagh," III.,
 p. 445.
 
-<span id="fn_9"></span>[11:1](tnm02.htm#fr_9) In fact, Frigga, Frey, and
+<span id="fn_9"></span>[11:1](tnm02.htm#fr_9.md) In fact, Frigga, Frey, and
 Freya were originally one deity, and their joint names survive in the
 word Friday; Freya as goddess of Love accounts for this assignment of
 the Day of Venus!
 
-<span id="fn_10"></span>[12:1](tnm02.htm#fr_10) Loki bound, with his
+<span id="fn_10"></span>[12:1](tnm02.htm#fr_10.md) Loki bound, with his
 faithful wife Sigyn catching the venom in a basin, is carved on the
 beautiful cross at Gosforth, near Whitehaven. Rev. W. S. Calverley,
 Crosses, &c., in the Diocese of Carlisle. I thought I recognised this
@@ -446,10 +446,10 @@ subject carved on a stone at Andreas (Saga Book, 1895-6), but now
 consider that it is intended for Gunnar in the Snake-pit! Our only other
 illustration of the bound Loki is that at Kirkby Stephen.
 
-<span id="fn_11"></span>[14:1](tnm02.htm#fr_11) See "Folklore of the
+<span id="fn_11"></span>[14:1](tnm02.htm#fr_11.md) See "Folklore of the
 Isle of Man."--A. W. Moore, pp. 112, 118, 146.
 
-<span id="fn_12"></span>[15:1](tnm02.htm#fr_12) As Carlyle puts
+<span id="fn_12"></span>[15:1](tnm02.htm#fr_12.md) As Carlyle puts
 it:--"The dark, hostile Powers of Nature they figure to themselves as
 Jötun's Giants--huge, shaggy beings of a demoniac character. Frost,
 Fire, Sea-tempest--these are Jötuns. The friendly Powers again--as
@@ -457,7 +457,7 @@ Summer-heat, the Sun--are Gods. The Empire of this Universe is divided
 between these two; they dwell apart, in perennial internecine
 feud."--*Heroes and Hero Worship*.
 
-<span id="fn_13"></span>[15:2](tnm02.htm#fr_13) "*Troll Kalla
+<span id="fn_13"></span>[15:2](tnm02.htm#fr_13.md) "*Troll Kalla
 mik*:"--"They call me Troll; Gnawer of the Moon, Giant of the
 Gale-blasts, Curse of the rain-hall, Companion of the Sibyl,
 Night-roaming hag, Swallower of the loaf of heaven. What is a Troll but
@@ -465,4 +465,4 @@ that?" From a 10th Century ditty.
 
 ------------------------------------------------------------------------
 
-[Next: I.--Origin of Poetry](tnm03)
+[Next: I.--Origin of Poetry](tnm03.md)

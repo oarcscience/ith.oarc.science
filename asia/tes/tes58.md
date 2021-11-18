@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes57)  [Next](tes59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes57)  [Next](tes59.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ Yaghishna. She came to the house and entered it. Then she took that boy
 by the nape of his neck. With her large knife she struck him on the
 head. The head jumped off and rolled away. Yaghishna went home. So they
 have lived till now, but get nothing good whatever. <span
-id="fr_89"></span>[1](#fn_89)The end.
+id="fr_89"></span>[1](#fn_89.md)The end.
 
 Told by Mary Shkuleff, a Russian creole girl, in the village of
 Pokhotsk, the Kolyma country, summer of 1895.
@@ -54,7 +54,7 @@ Pokhotsk, the Kolyma country, summer of 1895.
 
 ### Footnotes
 
-<span id="fn_89"></span>[115:1](tes58.htm#fr_89) One of the usual final
+<span id="fn_89"></span>[115:1](tes58.htm#fr_89.md) One of the usual final
 refrains of the Russian folk-stories. The most frequently used are:
 "They live and live and get much of the good." (Живутъ, поживаютъ, добра
 наживаютъ); "They lived and lived, and live till now." (Жить да быть, до
@@ -65,4 +65,4 @@ and get nothing good whatever." (Живутъ, поживаютъ, никако�
 
 ------------------------------------------------------------------------
 
-[Next: 5. Story of Five Brothers](tes59)
+[Next: 5. Story of Five Brothers](tes59.md)

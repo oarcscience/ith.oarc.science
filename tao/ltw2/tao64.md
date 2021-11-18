@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao64)   
-[Previous](tao63)  [Next](tao65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao64.md)   
+[Previous](tao63)  [Next](tao65.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ force their development.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 65](tao65)
+[Next: Chapter 65](tao65.md)

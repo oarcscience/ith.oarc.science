@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](wcwe04)  [Next](wcwe06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](wcwe04)  [Next](wcwe06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISAIM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISAIM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Witch-Cult in Western Europe*, by Margaret Alice Murray, \[1921\],
 at Intangible Textual Heritage
 
@@ -2060,4 +2060,4 @@ quhair first thai convenit, and cuist the kat to the Devill.'\[3\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Rites (continued)](wcwe06)
+[Next: Chapter VI. The Rites (continued)](wcwe06.md)

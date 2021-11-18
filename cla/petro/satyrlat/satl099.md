@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat13.htm#XCIX) 
-[Previous](satl098)  [Next](satl100) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat13.htm#XCIX.md) 
+[Previous](satl098)  [Next](satl100.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ quicquid erat in alutam compono, et adoratis sideribus intro navigium.
 
 ------------------------------------------------------------------------
 
-[Next: C](satl100)
+[Next: C](satl100.md)

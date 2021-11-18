@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal009)  [Next](njal011) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal009)  [Next](njal011.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ goods for Hallgerda's sake, so hold thy hand now."
 
 ------------------------------------------------------------------------
 
-[Next: 11. Thorwald's Slaying](njal011)
+[Next: 11. Thorwald's Slaying](njal011.md)

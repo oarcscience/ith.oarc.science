@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss30)  [Next](oss32) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss30)  [Next](oss32.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,7 +193,7 @@ Colla, 'it was not thus you have seen me in arms. It was not thus I
 strode to battle when the great Confaden fell. But ye are laden with
 grief. The darkness of age comes like the mist of the desert. My shield
 is worn with years! my sword is fixed in its place!  <span
-id="fr_87"></span>[1](#fn_87) I said to my soul, Thy evening shall be
+id="fr_87"></span>[1](#fn_87.md) I said to my soul, Thy evening shall be
 calm; thy departure like a fading light. But the storm has returned. I
 bend like an aged oak. My boughs are fallen on Seláma. I tremble in my
 place. Where art thou, with thy fallen heroes, O my beloved Truthil!
@@ -358,7 +358,7 @@ thee, or himself fall low!"
 
 We sat that night in Selma, round the strength of the shell. The wind
 was abroad in the oaks. The spirit of the mountain  <span
-id="fr_88"></span>[1](#fn_88) roared. The blast came rustling through
+id="fr_88"></span>[1](#fn_88.md) roared. The blast came rustling through
 the hall, and gently touched my harp. The sound was mournful and low,
 like the song of the tomb. Fingal heard it the first. The crowded sighs
 of his bosom rose. "Some of my heroes are low," said the gray-haired
@@ -445,16 +445,16 @@ fight with car-borne Cairbar!
 
 ### Footnotes
 
-<span id="fn_87"></span>[374:1](oss31.htm#fr_87) It was the custom of
+<span id="fn_87"></span>[374:1](oss31.htm#fr_87.md) It was the custom of
 ancient times, that every warrior, at a certain age, or when he became
 unfit for the field, fixed his arms in the great hall, where the tribes
 feasted upon joyful occasions. He was afterward never to appear in
 battle; and this stage of life was called "the time of fixing the arms."
 
-<span id="fn_88"></span>[379:1](oss31.htm#fr_88) By the spirit of the
+<span id="fn_88"></span>[379:1](oss31.htm#fr_88.md) By the spirit of the
 mountain, is meant that deep and melancholy sound which precedes a
 storm, well known to those who live in a high country.
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Cuthullin](oss32)
+[Next: The Death of Cuthullin](oss32.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Next](elms01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Next](elms01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Edinburgh Lectures on Mental Science*, by Thomas Troward, \[1909\],
 at Intangible Textual Heritage
 
@@ -34,6 +34,6 @@ THE WRITER AFFECTIONATELY DEDICATES THIS LITTLE VOLUME TO HIS WIFE
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](elms01)
+[Next: Foreword](elms01.md)
 
 </div>

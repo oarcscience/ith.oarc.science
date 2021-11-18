@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Roma](../index)  [Index](index) 
-[Previous](egl10)  [Next](egl12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Roma](../index)  [Index](index.md) 
+[Previous](egl10)  [Next](egl12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ follows:—
 
 “They are wanderers who live in tents, and are regarded with contempt
 even by the peasantry. Their women tell fortunes, tattoo,
- [189](egl13.htm#xref_189) and sell small-wares; the men work in iron
+ [189](egl13.htm#xref_189.md) and sell small-wares; the men work in iron
 (*quincaillerie*). They are all adroit thieves, and noted as such. The
 men may sometimes be seen going around the country with monkeys; in
 fact, they appear to be in all respects the same people as the Gipsies
@@ -308,4 +308,4 @@ not in the Persian dictionary which I used.
 
 ------------------------------------------------------------------------
 
-[Next: Rommani Gudli; or, Gipsy Stories and Fables](egl12)
+[Next: Rommani Gudli; or, Gipsy Stories and Fables](egl12.md)

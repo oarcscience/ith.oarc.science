@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](slaa10)  [Next](slaa12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](slaa10)  [Next](slaa12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sun Lore of All Ages*, by William Tyler Olcott, \[1914\], at Intangible
 Textual Heritage
 
@@ -85,7 +85,7 @@ takes place there December 21st, the sacrifice of the winter solstice.
 In our own time a number of Christian religious observances and
 festivals are of distinct solar origin. Notable among these feast days
 is Christmas. "The Roman winter solstice," says Tylor, <span
-id="fr_69"></span>[1](#fn_69) "as celebrated on December 25th (VIII Kal.
+id="fr_69"></span>[1](#fn_69.md) "as celebrated on December 25th (VIII Kal.
 Jan.) in connection with the worship of the Sun-God Mithra appears to
 have been instituted in this special form by Aurelian about A. D. 273,
 and to this festival the day owes its apposite name of 'Birthday of the
@@ -137,7 +137,7 @@ leaping through the flames, and rolling blazing wheels of fire from the
 summits of the hills, indicating the sun's descending course in the
 heavens.
 
-According to Tylor, <span id="fr_70"></span>[1](#fn_70) "These ancient
+According to Tylor, <span id="fr_70"></span>[1](#fn_70.md) "These ancient
 rites attached themselves in Christendom to St. John's eve. It seems as
 though the same train of symbolism which had adapted the midwinter
 festival to the nativity, may have suggested the dedication of the
@@ -179,7 +179,7 @@ voices in the general jubilee."
 There is a striking analogy between the St. John fire celebrations and
 the Vedic legend of Indra's fight with the midsummer demons.
 
-"In this legend," says Keary, <span id="fr_71"></span>[1](#fn_71) "the
+"In this legend," says Keary, <span id="fr_71"></span>[1](#fn_71.md) "the
 demon Vritra possessed himself of the sun wheel and the treasures of
 heaven, seized the women, kept them prisoners in his cavern, and laid a
 curse on the waters until Indra released the captives and took off the
@@ -268,7 +268,7 @@ at the winter solstice, he regains his life and mounts to greet them,
 they burn the yule log and hang lights on the fir-trees to illuminate
 his upward course.
 
-Frazer tells us <span id="fr_72"></span>[1](#fn_72) how the fern seed,
+Frazer tells us <span id="fr_72"></span>[1](#fn_72.md) how the fern seed,
 the oak, and the mistletoe are closely associated as symbols with the
 solar festivals celebrated at the winter and summer solstices:
 
@@ -318,7 +318,7 @@ superstitious people. In Saxony and Brandenburg the peasants still climb
 the hilltops before dawn on Easter day to witness the three joyful leaps
 of the Sun, as our English forefathers used to do.
 
-Tylor <span id="fr_73"></span>[1](#fn_73) tells us that "the solar rite
+Tylor <span id="fr_73"></span>[1](#fn_73.md) tells us that "the solar rite
 of the New Fire, adopted by the Roman Church as a Paschal ceremony, may
 still be witnessed in Europe with its solemn curfew on Easter Eve, and
 the ceremonial striking of the new holy fire."
@@ -476,7 +476,7 @@ The "need-fires," or "forced-fires" as they are sometimes called, were
 kindled at times of great epidemics among the cattle that threatened
 their total annihilation, and the custom of kindling these fires is
 still in vogue in certain countries. Keary <span
-id="fr_74"></span>[1](#fn_74) thus describes the custom:
+id="fr_74"></span>[1](#fn_74.md) thus describes the custom:
 
 "Wherever it can be traced among people of
 
@@ -547,7 +547,7 @@ for that body was regarded not only as a mass of heavenly fire, but also
 as the immediate source of the lightning. When black clouds concealed
 the sun, the early Aryans believed that its light was actually
 extinguished, and needed to be rekindled. Then the pramantha <span
-id="fr_75"></span>[1](#fn_75) was worked by some god in the cold wheel
+id="fr_75"></span>[1](#fn_75.md) was worked by some god in the cold wheel
 until it glowed again, but before this was finally accomplished the
 pramantha often shot out as a thunderbolt from the wheel, or was carried
 off by some fire robbers. The word 'thunderbolt' itself like its German
@@ -594,25 +594,25 @@ for evermore.
 
 ### Footnotes
 
-<span id="fn_69"></span>[229:1](slaa11.htm#fr_69) *Primitive Culture*,
+<span id="fn_69"></span>[229:1](slaa11.htm#fr_69.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_70"></span>[231:1](slaa11.htm#fr_70) *Primitive Culture*,
+<span id="fn_70"></span>[231:1](slaa11.htm#fr_70.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_71"></span>[233:1](slaa11.htm#fr_71) *Curiosities of
+<span id="fn_71"></span>[233:1](slaa11.htm#fr_71.md) *Curiosities of
 Folk-Lore*, C. F. Keary.
 
-<span id="fn_72"></span>[236:1](slaa11.htm#fr_72) The Golden Bough, J.
+<span id="fn_72"></span>[236:1](slaa11.htm#fr_72.md) The Golden Bough, J.
 G. Frazer.
 
-<span id="fn_73"></span>[238:1](slaa11.htm#fr_73) *Primitive Culture*,
+<span id="fn_73"></span>[238:1](slaa11.htm#fr_73.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_74"></span>[244:1](slaa11.htm#fr_74) *Curiosities of
+<span id="fn_74"></span>[244:1](slaa11.htm#fr_74.md) *Curiosities of
 Folk-Lore*, C. F. Keary.
 
-<span id="fn_75"></span>[247:1](slaa11.htm#fr_75) The pramantha was the
+<span id="fn_75"></span>[247:1](slaa11.htm#fr_75.md) The pramantha was the
 handle of the mythical hand-mill of Frodé, the regent of the Golden Age.
 This hand-mill was a flat circular stone which represented the sun's
 disk, its handle was used by Indra and the Aswins to kindle the
@@ -622,6 +622,6 @@ cloud-extinguished orb of day.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Solar Omens, Traditions, and Superstitions](slaa12)
+[Next: Chapter X. Solar Omens, Traditions, and Superstitions](slaa12.md)
 
 </div>

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](waws02)  [Next](waws04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](waws02)  [Next](waws04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -613,4 +613,4 @@ lifetimes to discover and demonstrate.
 
 ------------------------------------------------------------------------
 
-[Next: Part II. The Application](waws04)
+[Next: Part II. The Application](waws04.md)

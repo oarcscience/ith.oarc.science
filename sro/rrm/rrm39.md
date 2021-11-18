@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm38)  [Next](rrm40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm38)  [Next](rrm40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ the virgin
 
 [![ASTRO-THEOSOPHIC CHART (No. 1):&lt;br&gt; WESTERN OR ROMAN
 RITE](tn/34200.jpg)  
-Click to enlarge](img/34200.jpg)  
+Click to enlarge](img/34200.jpg.md)  
 ASTRO-THEOSOPHIC CHART (No. 1):  
 WESTERN OR ROMAN RITE  
 
@@ -155,7 +155,7 @@ WESTERN OR ROMAN RITE
 
 [![ASTRO-THEOSOPHIC CHART (No. 2)&lt;br&gt; EASTERN OR GREEK
 RITE](tn/34300.jpg)  
-Click to enlarge](img/34300.jpg)  
+Click to enlarge](img/34300.jpg.md)  
 ASTRO-THEOSOPHIC CHART (No. 2)  
 EASTERN OR GREEK RITE  
 
@@ -257,7 +257,7 @@ ejus humile facit, sed infligit injuriam moritura mentula, quum
 impregnationem efficit et uteri per novas menses tumorem profert.' This
 may explain the reason why the cube of the Phrygian Cap, in the ancient
 sculptures of the 'armed female', is worn in reverse, or at the back of
-the head, as shown in figs. 207 and 208, [p. 283](rrm34.htm#page_283).
+the head, as shown in figs. 207 and 208, [p. 283](rrm34.htm#page_283.md).
 
 <span id="page_347">p. 347</span>
 
@@ -331,7 +331,7 @@ impure--which it takes unassisted Nature ages, perhaps, to effect. The
 Alchemist is supposed to be superior to Nature to that extent, that he
 can pass through it (that is, through its appearances), and work on it,
 and in it, on the other side. It is here--in this true
-[*Anima*](errata.htm#8) *Mundi*, or 'Soul of the World'--that the
+[*Anima*](errata.htm#8.md) *Mundi*, or 'Soul of the World'--that the
 Alchemist, or Rosicrucian, regathers the light dispersed or shaken out
 of its old broken forms. Gold is the flux of the sunbeams, or of light,
 suffused invisibly and magically into the body of the world. Light is
@@ -469,4 +469,4 @@ of our book.
 ------------------------------------------------------------------------
 
 [Next: Chapter X. Rosicrucian 'Celestial' and 'Terrestrial' (Means of
-Intercommunication)](rrm40)
+Intercommunication)](rrm40.md)

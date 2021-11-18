@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp16)  [Next](ptp18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp16)  [Next](ptp18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -222,12 +222,12 @@ leadership of Cardinal Richelieu,
 
 <span id="img_28000"></span> <span align="CENTER"> [![Pope Innocent
 X](tn/28000.jpg)  
-Click to enlarge](img/28000.jpg)  
+Click to enlarge](img/28000.jpg.md)  
 Pope Innocent X  
 </span>
 
 <span class="small">His corpse lay unattended three days. See pages
-[284](#page_284)-5.</span>
+[284](#page_284.md)-5.</span>
 
 <span id="page_281">p. 281</span>
 
@@ -738,4 +738,4 @@ honored even by those who had incurred his censure.
 
 ------------------------------------------------------------------------
 
-[Next: Eighteenth Century](ptp18)
+[Next: Eighteenth Century](ptp18.md)

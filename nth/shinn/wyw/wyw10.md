@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Shinn](../index)  [Index](index) 
-[Previous](wyw09)  [Next](wyw11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Shinn](../index)  [Index](index.md) 
+[Previous](wyw09)  [Next](wyw11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ It will be restored or I receive its equivalent.
 
 ------------------------------------------------------------------------
 
-[Next: Debt](wyw11)
+[Next: Debt](wyw11.md)

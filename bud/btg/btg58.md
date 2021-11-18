@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg57)  [Next](btg59) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg57)  [Next](btg59.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ and took refuge in the Buddha, the Dharma, and the Sangha.
 
 ------------------------------------------------------------------------
 
-[Next: The Buddha Replies To The Deva](btg59)
+[Next: The Buddha Replies To The Deva](btg59.md)

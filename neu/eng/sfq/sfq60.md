@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq59)  [Next](sfq61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq59)  [Next](sfq61.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_28000"></span>
 
 [![](tn/28000.jpg)  
-Click to enlarge](img/28000.jpg)
+Click to enlarge](img/28000.jpg.md)
 
 # The Adventures of Sir Artegall
 
@@ -162,4 +162,4 @@ abides; therefore lead me thither."
 
 ------------------------------------------------------------------------
 
-[Next: The Adventure of the Saracen's Bridge](sfq61)
+[Next: The Adventure of the Saracen's Bridge](sfq61.md)

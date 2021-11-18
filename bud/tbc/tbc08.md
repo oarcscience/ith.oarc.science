@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](tbc07)  [Next](tbc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](tbc07)  [Next](tbc09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddhist Catechism*, by Henry S. Olcott \[1908\], at Intangible
 Textual Heritage
 
@@ -29,7 +29,7 @@ Textual Heritage
 
 ### THE LIFE OF THE BUDDHA.
 
-1\. *Question*. Of what religion <span id="fr_0"></span>[\*](#fn_0) are
+1\. *Question*. Of what religion <span id="fr_0"></span>[\*](#fn_0.md) are
 you?
 
 *Answer*. The Buddhist.
@@ -238,7 +238,7 @@ A. He was in his twenty-ninth year.
 34\. Q. *What finally determined him to leave all that men usually love
 so much and go to the jungle?*
 
-A. A *deva* <span id="fr_1"></span>[\*](#fn_1) appeared to him when
+A. A *deva* <span id="fr_1"></span>[\*](#fn_1.md) appeared to him when
 driving out in his chariot, under four impressive forms, on four
 different occasions.
 
@@ -318,7 +318,7 @@ of Magadha.
 
 46\. Q. *Who visited him there?*
 
-A. The King with his whole Court. <span id="fr_2"></span>[\*](#fn_2)
+A. The King with his whole Court. <span id="fr_2"></span>[\*](#fn_2.md)
 
 46*a*. Q. *Thence whither did he go?*
 
@@ -332,7 +332,7 @@ became, in the hope of finding the knowledge of which he was in search.
 48\. Q. *Of what religion were they?*
 
 A. The Hindu religion: they were Brâhmaṇas. <span
-id="fr_3"></span>[†](#fn_3)
+id="fr_3"></span>[†](#fn_3.md)
 
 49\. Q. *What did they teach?*
 
@@ -416,7 +416,7 @@ A. He determined not to leave the spot until he attained perfect wisdom.
 
 62\. Q. *At which side of the tree did he seat himself?*
 
-A. The side facing the east. <span id="fr_4"></span>[\*](#fn_4)
+A. The side facing the east. <span id="fr_4"></span>[\*](#fn_4.md)
 
 63\. Q. *What did he obtain that night?*
 
@@ -459,7 +459,7 @@ A. Because of its profound importance and sublimity. He feared that but
 few people would understand it.
 
 68\. Q. *What made him alter this view?* <span
-id="fr_5"></span>[\*](#fn_5)
+id="fr_5"></span>[\*](#fn_5.md)
 
 A. He saw that it was his duty to teach what he had learnt as clearly
 and simply as possible, and trust to the truth impressing itself upon
@@ -503,7 +503,7 @@ By the end of three months the disciples numbered sixty persons.
 A. The mother and wife of Yasa.
 
 75\. Q. *What did the Buddha do at that time?* <span
-id="fr_6"></span>[\*](#fn_6)
+id="fr_6"></span>[\*](#fn_6.md)
 
 A. He called the disciples together, gave them full instructions, and
 sent them out in all directions to preach his doctrine.
@@ -722,7 +722,7 @@ there was nothing to have prevented two or three of them, in succession
 to each other, to have covered the whole period between the death of the
 Buddha and the reign of Asoka, and thus to have enabled the latter to
 get from his contemporary every desired attestation of the fact of the
-Buddha's life. <span id="fr_7"></span>[\*](#fn_7)
+Buddha's life. <span id="fr_7"></span>[\*](#fn_7.md)
 
 \(8\) The "Mahâvansa," the best authenticated ancient history known to
 us, records the events of Sinhalese history to the reign of King Vijaya,
@@ -744,7 +744,7 @@ Being), etc.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:\*](tbc08.htm#fr_0) The word 'religion' is
+<span id="fn_0"></span>[1:\*](tbc08.htm#fr_0.md) The word 'religion' is
 most inappropriate to apply to Buddhism, which is not a religion, but a
 moral philosophy, as I have shown later on. But by common usage the word
 has been applied to all groups of people who profess a special moral
@@ -769,18 +769,18 @@ explanation, I continue to employ under protest the familiar word when
 speaking of Buddhistic philosophy, for the convenience of the ordinary
 reader.
 
-<span id="fn_1"></span>[8:\*](tbc08.htm#fr_1) See the definition of
+<span id="fn_1"></span>[8:\*](tbc08.htm#fr_1.md) See the definition of
 *deva* given later.
 
-<span id="fn_2"></span>[11:\*](tbc08.htm#fr_2) For an admirable account
+<span id="fn_2"></span>[11:\*](tbc08.htm#fr_2.md) For an admirable account
 of this interview consult Dr. Paul Carus’ *Gospel of Buddha*, page 20,
 *et seq*.
 
-<span id="fn_3"></span>[11:†](tbc08.htm#fr_3) The term Hindu, once a
+<span id="fn_3"></span>[11:†](tbc08.htm#fr_3.md) The term Hindu, once a
 contemptuous term, used by the Musalmâns to designate the people of
 Sindh, whom they conquered, is now used in an ecclesiastical sense.
 
-<span id="fn_4"></span>[14:\*](tbc08.htm#fr_4) No reason is given in the
+<span id="fn_4"></span>[14:\*](tbc08.htm#fr_4.md) No reason is given in the
 canonical books for the choice of this side of the tree, though an
 explanation is to be found in the popular legends upon which the books
 of Bishop Bigandet and other European commentators are based. There are
@@ -789,15 +789,15 @@ the sky. Sometimes the influence from one quarter will be best,
 sometimes that from another quarter. But the Buddha thought that the
 perfected man is superior to all extraneous influences.
 
-<span id="fn_5"></span>[16:\*](tbc08.htm#fr_5) The ancient story is that
+<span id="fn_5"></span>[16:\*](tbc08.htm#fr_5.md) The ancient story is that
 the god Brahma himself implored. him not to withhold the glorious truth.
 
-<span id="fn_6"></span>[17:\*](tbc08.htm#fr_6) Brahmanism not being
+<span id="fn_6"></span>[17:\*](tbc08.htm#fr_6.md) Brahmanism not being
 offered to non-Hindus, Buddhism is, consequently, the oldest missionary
 religion in the world. The early missionaries endured every hardship,
 cruelty and persecution with unfaltering courage.
 
-<span id="fn_7"></span>[25:\*](tbc08.htm#fr_7) At the Second Council
+<span id="fn_7"></span>[25:\*](tbc08.htm#fr_7.md) At the Second Council
 there were two pupils of A´nanda, consequently centenarians, while in
 Asoka's Council there were pupils of those pupils.
 
@@ -805,6 +805,6 @@ Asoka's Council there were pupils of those pupils.
 
 ------------------------------------------------------------------------
 
-[Next: Part II. The Dharma or Doctrine](tbc09)
+[Next: Part II. The Dharma or Doctrine](tbc09.md)
 
 </div>

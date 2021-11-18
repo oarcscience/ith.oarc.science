@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa78)  [Next](psa80) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa78)  [Next](psa80.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ O great king! on Soot Jee's not rising, Bulram Jee said to Sounuk and
 all the sages, and saints, "Who has made this fool a speaker, and given
 him the seat of Byas? A speaker should be religious, a man of
 discrimination and of wisdom; this man is without good
-[qualities](errata.htm#23), avaricious and proud; again, it is
+[qualities](errata.htm#23.md), avaricious and proud; again, it is
 necessary, that he should be free from covetousness, and be virtuous;
 this man is very greedy and selfish. The seat of Byas does not become
 one, who is devoid of intellect, and judgment. It would not much matter,
@@ -110,4 +110,4 @@ your sacrifice now, free from all anxiety."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXI](psa80)
+[Next: Chapter LXXI](psa80.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../kr2/kr2) 
-[Previous](kj)  [Next](kh41) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../kr2/kr2.md) 
+[Previous](kj)  [Next](kh41.md) 
 
 ------------------------------------------------------------------------
 
@@ -3457,4 +3457,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The First Part of Henry the Fourth](kh41) 
+[Next: The First Part of Henry the Fourth](kh41.md) 

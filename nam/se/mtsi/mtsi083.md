@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi082)  [Next](mtsi084) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi082)  [Next](mtsi084.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ fell over dead.
 
 ------------------------------------------------------------------------
 
-[Next: 82. The Origin of Races](mtsi084)
+[Next: 82. The Origin of Races](mtsi084.md)

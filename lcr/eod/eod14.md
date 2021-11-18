@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod13)  [Next](eod15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod13)  [Next](eod15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -41,7 +41,7 @@ discussion, for there can be no question of their essential homology
 with Hathor and Aphrodite. Moreover, from the beginning, all
 goddesses—and especially this most primitive stratum of fertility
 deities—were for obvious reasons intimately associated with the
-moon. <span id="fr_94"></span>[1](#fn_94) But the cyclical periodicity
+moon. <span id="fr_94"></span>[1](#fn_94.md) But the cyclical periodicity
 of the moon which suggested the analogy with the similar physiological
 periodicity of women merely explains the association of the moon with
 women. The influence of the moon upon dew and the tides, perhaps,
@@ -51,14 +51,14 @@ suggested. For reasons which have been explained already, water was
 associated more especially with fertilization by the male. Hence the
 symbolism of the moon came to include the control of both the male and
 the female processes of reproduction. <span
-id="fr_95"></span>[2](#fn_95)
+id="fr_95"></span>[2](#fn_95.md)
 
 The literature relating to the development of these ideas with reference
 
 <span id="page_57">p. 57</span>
 
 to the moon has been summarized by Professor Hutton Webster. <span
-id="fr_96"></span>[1](#fn_96) He shows that "there is good reason for
+id="fr_96"></span>[1](#fn_96.md) He shows that "there is good reason for
 believing that among many primitive peoples the moon, rather than the
 sun, the planets or any of the constellations, first excited the
 imagination and aroused feelings of superstitious awe or of religious
@@ -84,7 +84,7 @@ female reproductive functions of Hathor and Isis may explain 'how in
 some places the moon became a masculine deity, who, however, still
 retained his control over womankind, and caused the phenomena of
 menstruation by the exercise of his virile powers. <span
-id="fr_97"></span>[2](#fn_97) But the moon-god was also a measurer of
+id="fr_97"></span>[2](#fn_97.md) But the moon-god was also a measurer of
 time and in this aspect was specially personified in Thoth.
 
 The assimilation of the moon with these earth-deities was probably
@@ -117,7 +117,7 @@ worshippers on earth. Incense was not only "the perfume that deifies,"
 but also the means by which the deities and the dead could pass to their
 doubles in the newly invented sky-heaven. The sun-god Re was represented
 in his temple not by an anthropoid statue, but by an obelisk, <span
-id="fr_98"></span>[1](#fn_98) the gilded apex of which pointed to heaven
+id="fr_98"></span>[1](#fn_98.md) the gilded apex of which pointed to heaven
 and "drew down" the dazzling rays of the sun, reflected from its
 polished surface, so that all the worshippers could see the
 manifestations of the god in his temple.
@@ -127,7 +127,7 @@ sky-heaven, but possibly also for suggesting the idea that even a mere
 pillar of stone, whether carved or uncarved, upon which no attempt had
 been made to model the human form, could represent the deity, or rather
 could become the "body" to be animated by the god. <span
-id="fr_99"></span>[2](#fn_99) For once it was admitted, even in the home
+id="fr_99"></span>[2](#fn_99.md) For once it was admitted, even in the home
 of these ancient ideas concerning the animation of statues, that it was
 not essential for the idol to be shaped into human form, the way was
 opened for less cultured peoples, who had not acquired the technical
@@ -137,7 +137,7 @@ of stone or
 <span id="page_59">p. 59</span>
 
 wood for their gods to enter, when the appropriate ritual of animation
-was performed. <span id="fr_100"></span>[1](#fn_100)
+was performed. <span id="fr_100"></span>[1](#fn_100.md)
 
 This conception of the possibility of gods, men, or animals dwelling in
 stones spread in course of time throughout the world, but in every place
@@ -149,17 +149,17 @@ The complementary belief in the possibility of the petrifaction of men
 and animals has a similarly extensive geographical distribution. The
 history of this remarkable incident I shall explain in the lecture on
 "Dragons and Rain Gods" (Chapter II.). <span
-id="fr_101"></span>[2](#fn_101)
+id="fr_101"></span>[2](#fn_101.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_94"></span>[56:1](eod14.htm#fr_94) I am not concerned here
+<span id="fn_94"></span>[56:1](eod14.htm#fr_94.md) I am not concerned here
 with the explanation of the means by which their home became transferred
 to the planet Venus.
 
-<span id="fn_95"></span>[56:2](eod14.htm#fr_95) In his discussion of the
+<span id="fn_95"></span>[56:2](eod14.htm#fr_95.md) In his discussion of the
 functions of the Fravashis in the Iranian Yasht, the late Professor
 Moulton suggested the derivation of the word from the Avestan root
 *var*, "to impregnate," so that *fravaŝi* might mean "birth-promotion".
@@ -170,28 +170,28 @@ agents. This is seen in the Avestan Anahita, who was "the presiding
 genie of Fertility and more especially of the Waters" (W. J.
 Phythian-Adams, "Mithraism," 1915, p. 13).
 
-<span id="fn_96"></span>[57:1](eod14.htm#fr_96) "Rest Days," New York,
+<span id="fn_96"></span>[57:1](eod14.htm#fr_96.md) "Rest Days," New York,
 1916, pp. 124 *et seq*.
 
-<span id="fn_97"></span>[57:2](eod14.htm#fr_97) Wherever these deities
+<span id="fn_97"></span>[57:2](eod14.htm#fr_97.md) Wherever these deities
 of fertility are found, whether in Egypt, Babylonia, the Mediterranean
 Area, Eastern Asia, and America, illustrations of this confusion of sex
 are found. The explanation which Dr. Rendel Harris offers of this
 confusion in the case of Aphrodite seems to me not to give due
 recognition to its great antiquity and almost world-wide distribution.
 
-<span id="fn_98"></span>[58:1](eod14.htm#fr_98) L. Borchardt, "Das
+<span id="fn_98"></span>[58:1](eod14.htm#fr_98.md) L. Borchardt, "Das
 Re-heiligtum des Königs Ne-woser-re".
 
 For a good exposition of this matter see A. Moret, "Sanctuaires de
 l’ancien Empire Égyptien," *Annales du Musée Guimet*, 1912, p. 265.
 
-<span id="fn_99"></span>[58:2](eod14.htm#fr_99) It is possible that the
+<span id="fn_99"></span>[58:2](eod14.htm#fr_99.md) It is possible that the
 ceremony of erecting the *dad* columns may have played some part in the
 development of these beliefs. (On this see A. Moret, "Mystères
 Égyptiens," 1913, pp. 13-17.)
 
-<span id="fn_100"></span>[59:1](eod14.htm#fr_100) Many other factors
+<span id="fn_100"></span>[59:1](eod14.htm#fr_100.md) Many other factors
 played a part in the development of the stories of the birth of
 ancestors from stones. I have already referred to the origin of the idea
 of the cowry (or some other shell) as the parent of mankind. The place
@@ -214,7 +214,7 @@ ideas concerning the animation of statues; but if so the latter event
 would have strengthened and in some places become merged with the other
 story.
 
-<span id="fn_101"></span>[59:2](eod14.htm#fr_101) For an extensive
+<span id="fn_101"></span>[59:2](eod14.htm#fr_101.md) For an extensive
 collection of these remarkable petrifaction legends in almost every part
 of the world, see E. Sidney Hartland's "The Legend of Perseus,"
 especially Volumes I and III. These distinctive stories will be found to
@@ -222,4 +222,4 @@ be complexly interwoven with all the matters discussed in this address.
 
 ------------------------------------------------------------------------
 
-[Next: The Worship of the Cow](eod15)
+[Next: The Worship of the Cow](eod15.md)

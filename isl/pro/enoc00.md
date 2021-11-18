@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam15)  [Next](enoc01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam15)  [Next](enoc01.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ him Hermes the wise..and so on of what we mentioned before.
 
 ------------------------------------------------------------------------
 
-[Next: Some of what was mentioned in the books of Enoch PUH](enoc01)
+[Next: Some of what was mentioned in the books of Enoch PUH](enoc01.md)

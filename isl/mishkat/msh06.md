@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh05)  [Next](msh07) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh05)  [Next](msh07.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ so, what?
 
 ------------------------------------------------------------------------
 
-[Next: III. A Ghazzalian Philosophy Of Religion](msh07)
+[Next: III. A Ghazzalian Philosophy Of Religion](msh07.md)

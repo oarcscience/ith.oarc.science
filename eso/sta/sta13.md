@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta12)  [Next](sta14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta12)  [Next](sta14.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_bemb"></span>
 
 [![THE BEMBINE TABLE OF ISIS.](tn/bemb.jpg)  
-Click to enlarge](img/bemb.jpg)  
+Click to enlarge](img/bemb.jpg.md)  
 THE BEMBINE TABLE OF ISIS.  
 
 Concerning the theurgic or magic sense in which the Egyptian priests
@@ -212,7 +212,7 @@ Sepher Yerzirah, Cap. v., sec. 1.
 <span id="img_05700"></span>
 
 [![LEVI'S KEY TO THE BEMBINE TABLE.](tn/05700.jpg)  
-Click to enlarge](img/05700.jpg)  
+Click to enlarge](img/05700.jpg.md)  
 LEVI'S KEY TO THE BEMBINE TABLE.  
 
 From Levi's *History of Magic*.
@@ -585,7 +585,7 @@ light, and is located under the Moon, comprising
 <span id="img_05900"></span>
 
 [![WESTCOTT'S KEY TO THE BEMBINE TABLE.](tn/05900.jpg)  
-Click to enlarge](img/05900.jpg)  
+Click to enlarge](img/05900.jpg.md)  
 WESTCOTT'S KEY TO THE BEMBINE TABLE.  
 
 From Westcott's *The Isiac Tablet*.
@@ -779,4 +779,4 @@ believed she had conferred upon him."
 
 ------------------------------------------------------------------------
 
-[Next: Wonders of Antiquity](sta14)
+[Next: Wonders of Antiquity](sta14.md)

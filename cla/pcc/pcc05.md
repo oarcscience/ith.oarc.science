@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc04)  [Next](pcc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc04)  [Next](pcc06.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,10 +16,10 @@ some *animal*--or sometimes--also after some plant or tree or
 Nature-element, like fire or rain or thunder; but at best the subject is
 a difficult one for us moderns to understand. A careful study has been
 made of it by Salamon Reinach in his *Cultes, Mythes et
-Religions*, <span id="fr_55"></span>[1](#fn_55) where he formulates his
+Religions*, <span id="fr_55"></span>[1](#fn_55.md) where he formulates his
 conclusions in twelve statements or definitions; but even so--though his
 suggestions are helpful--he throws very little light on the real origin
-of the system. <span id="fr_56"></span>[2](#fn_56)
+of the system. <span id="fr_56"></span>[2](#fn_56.md)
 
 There are three main difficulties. The first is to understand why
 primitive Man should name his Tribe after an animal or object of nature
@@ -83,14 +83,14 @@ own; nor is it surprising that they should have expected their
 totems--that is to say, their natural allies--to forewarn them both of
 unsuspected dangers and of those provisions of nature, *wells*
 especially, which animals seem to scent by instinct." <span
-id="fr_57"></span>[1](#fn_57) And again, beyond all this, I have little
+id="fr_57"></span>[1](#fn_57.md) And again, beyond all this, I have little
 doubt that there are subconscious affinities which unite certain tribes
 to certain animals or plants, affinities whose origin we cannot now
 trace, though they are very real--the same affinities that we recognize
 as existing between individual *persons* and certain objects of nature.
 W. H. Hudson--himself in many respects having this deep and primitive
 relation to nature--speaks in a very interesting and autobiographical
-volume <span id="fr_58"></span>[2](#fn_58) of the extraordinary
+volume <span id="fr_58"></span>[2](#fn_58.md) of the extraordinary
 fascination exercised upon him as a boy, not only by a snake, but by
 certain trees, and especially by a particular flowering-plant "not more
 
@@ -114,7 +114,7 @@ it must be fenced round with regulations. It is out of this taboo or
 system of taboos that, according to Reinach, religion arose. "I propose
 (he says) to define religion as: *A sum of scruples (taboos) which
 impede the free exercise of our faculties*." <span
-id="fr_59"></span>[1](#fn_59) Obviously this definition is gravely
+id="fr_59"></span>[1](#fn_59.md) Obviously this definition is gravely
 deficient, simply because it is purely negative, and leaves out of
 account the positive aspect of the subject. In Man, the positive content
 of religion is the instinctive sense--w ether conscious or
@@ -147,7 +147,7 @@ hippopotamus, the fox, and the hyena, as well as certain birds which
 infest and damage the corn, some plants and trees, and such things as
 rain, fire, etc. "Each clan speaks of its totem as its ancestor, and
 refrains \[as a rule\] from injuring or eating it." <span
-id="fr_60"></span>[1](#fn_60) The members of the Crocodile clan call
+id="fr_60"></span>[1](#fn_60.md) The members of the Crocodile clan call
 themselves "brothers of the crocodile." The tribes of Bechuana-land have
 a very similar list of totem-names--the buffalo, the fish, the
 porcupine, the wild vine, etc. They too have a Crocodile clan, but they
@@ -160,7 +160,7 @@ that book (i, 57), speaking of the pre-Inca period, "An Indian (of Peru)
 was not considered honorable unless he was descended from a fountain,
 river or lake, or even from the sea, or from a wild animal, as a bear,
 lion, tiger, eagle, or the bird they call *cuntur* (condor), or some
-other bird of prey." <span id="fr_61"></span>[2](#fn_61) According
+other bird of prey." <span id="fr_61"></span>[2](#fn_61.md) According
 
 <span id="page_59">p. 59</span>
 
@@ -204,7 +204,7 @@ the holy emblem. And this custom, as the reader will perceive, became
 the origin of the Eucharists and Holy Communions of the later religions.
 
 Professor Robertson-Smith's celebrated *Camel* affords an instance of
-this. <span id="fr_62"></span>[1](#fn_62) It appears that St. Nilus
+this. <span id="fr_62"></span>[1](#fn_62.md) It appears that St. Nilus
 (fifth century) has left a detailed account of the occasional sacrifice
 in his time of a spotless white camel among the Arabs of the Sinai
 region, which closely resembles a totemic communion-feast. The uncooked
@@ -212,7 +212,7 @@ blood and flesh of the animal had to be entirely consumed by the
 faithful before daybreak. "The slaughter of the victim, the sacramental
 drinking of the blood, and devouring in wild haste of the pieces of
 still quivering flesh, recall the details of the Dionysiac and other
-festivals." <span id="fr_63"></span>[2](#fn_63) Robertson-Smith himself
+festivals." <span id="fr_63"></span>[2](#fn_63.md) Robertson-Smith himself
 says:--"The plain meaning is that the victim was devoured before its
 life had left the still warm blood and flesh . . . and that thus in the
 most literal way, all those who shared in the ceremony absorbed part of
@@ -258,7 +258,7 @@ bird which they like best to eat, namely, the fat and the eggs. Round
 this painting the men sit and sing. Afterwards performers wearing long
 head-dresses to represent the long neck and small head of the emu, mimic
 the appearance of the bird as it stands aimlessly peering about in all
-directions." <span id="fr_64"></span>[1](#fn_64)
+directions." <span id="fr_64"></span>[1](#fn_64.md)
 
 Thus blood sacrifice comes in; and--(whether this has ever actually
 happened in the case of the Central Australians
@@ -281,10 +281,10 @@ common life-blood. On your own individual responsibility you would never
 kill him; but for the common weal, on great occasions, and in a fashion
 conducted with scrupulous care, it is expedient that he die for his
 people, and that they feast upon his flesh." <span
-id="fr_65"></span>[1](#fn_65)
+id="fr_65"></span>[1](#fn_65.md)
 
 In her little book *Ancient Art and Ritual* <span
-id="fr_66"></span>[2](#fn_66) Jane Harrison describes the dedication of
+id="fr_66"></span>[2](#fn_66.md) Jane Harrison describes the dedication of
 a holy Bull, as conducted in Greece at Elis, and at Magnesia and other
 cities. "There at the annual fair year by year the stewards of the city
 bought a Bull 'the finest that could be got,' and at the new moon of the
@@ -339,7 +339,7 @@ brings a blessing too." Then he is led out and slain. A great feast
 takes place, the flesh is divided, cupfuls of the blood are drunk by the
 men; the tribe is united and strengthened, and the Bear-god blesses the
 ceremony--the ideal Bear that has given its life for the people. <span
-id="fr_67"></span>[1](#fn_67)
+id="fr_67"></span>[1](#fn_67.md)
 
 That the eating of the flesh of an animal or a man conveys to you some
 of the qualities, the life-force, the *mana*, of that animal or man, is
@@ -348,7 +348,7 @@ common tendency to eat enemy warriors slain in battle against your
 tribe. By doing so you absorb some of their valor and strength. Even the
 enemy scalps which an Apache Indian might hang from his belt were
 something magical to add to the Apache's power. As Gilbert Murray
-says, <span id="fr_68"></span>[2](#fn_68) "you devoured the holy animal
+says, <span id="fr_68"></span>[2](#fn_68.md) "you devoured the holy animal
 to get its mana, its swiftness, its strength, its great endurance, just
 as the savage now will eat his enemy's brain or heart or hands to get
 some particular quality residing there." Even--as he explains on the
@@ -359,7 +359,7 @@ nearly all the Christian Churches have a great belief in the virtue
 imparted by the ere 'laying on of hands.'
 
 In quite a different connection--we read <span
-id="fr_69"></span>[3](#fn_69) that among the Spartans a warrior-boy
+id="fr_69"></span>[3](#fn_69.md) that among the Spartans a warrior-boy
 would often beg for the love of the elder warrior whom he admired (i. e.
 the contact with
 
@@ -370,7 +370,7 @@ courage and prowess. That through the mediation of the lips one's spirit
 may be united to the spirit of another person is an idea not unfamiliar
 to the modern mind; while the exchange of blood, clothes, locks of hair,
 etc., by lovers is a custom known all over the world. <span
-id="fr_70"></span>[1](#fn_70)
+id="fr_70"></span>[1](#fn_70.md)
 
 To suppose that by eating another you absorb his or her soul is somewhat
 naïve certainly. Perhaps it *is* more native, more primitive. Yet there
@@ -384,7 +384,7 @@ Herbivora.
 To return to the rites of Dionysus, Gilbert Murray, speaking of
 Orphism--a great wave of religious reform which swept over Greece and
 South Italy in the sixth century B.C.--says: <span
-id="fr_71"></span>[2](#fn_71) "A curious relic of primitive superstition
+id="fr_71"></span>[2](#fn_71.md) "A curious relic of primitive superstition
 and cruelty remained firmly imbedded in Orphism, a doctrine irrational
 and unintelligible, and for that very reason wrapped in the deepest and
 most sacred mystery: a belief in the *sacrifice of Dionysus himself, and
@@ -396,7 +396,7 @@ across. . . . The Orphic congregations of later times, in their most
 holy gatherings, solemnly partook of the blood of a bull, which was by a
 mystery the blood of Dionysus-Zagreus himself, the Bull of God, slain in
 sacrifice for the purification of man." <span
-id="fr_72"></span>[3](#fn_72)
+id="fr_72"></span>[3](#fn_72.md)
 
 <span id="page_66">p. 66</span>
 
@@ -405,7 +405,7 @@ of confirming on the one hand the solidarity of the tribe, and on the
 other of bringing the tribe, by the shedding of the blood of a divine
 Victim into close relationship with the very source of its life, are
 plentiful to find. "The sacramental rite," says Professor
-Robertson-Smith, <span id="fr_73"></span>[1](#fn_73) "is also an atoning
+Robertson-Smith, <span id="fr_73"></span>[1](#fn_73.md) "is also an atoning
 rite, which brings the community again into harmony with its alienated
 god--atonement being simply an act of communion designed to wipe out all
 memory of previous estrangement." With this subject I shall deal more
@@ -422,18 +422,18 @@ Christians who went to Nepaul and Thibet, says in his *History of
 India*: "Their Grand Lama celebrates a species of sacrifice with *bread*
 and *wine*, in which, after taking a small quantity himself, he
 distributes the rest among the Lamas present at this ceremony." <span
-id="fr_74"></span>[2](#fn_74)
+id="fr_74"></span>[2](#fn_74.md)
 
 <span id="page_67">p. 67</span>
 
 \[paragraph continues\] "The old Egyptians celebrated the resurrection
 of Osiris by a sacrament, eating the sacred cake or wafer after it had
 been consecrated by the priest, and thereby becoming veritable flesh of
-his flesh." <span id="fr_75"></span>[1](#fn_75) As is well known, the
+his flesh." <span id="fr_75"></span>[1](#fn_75.md) As is well known, the
 eating of bread or dough sacramentally (sometimes mixed with blood or
 seed) as an emblem of community of life with the divinity, is an
 extremely ancient practice or ritual. Dr. Frazer <span
-id="fr_76"></span>[2](#fn_76) says of the Aztecs, that "twice a year, in
+id="fr_76"></span>[2](#fn_76.md) says of the Aztecs, that "twice a year, in
 May and December, an image of the great god Huitzilopochtli was made of
 dough, then broken in pieces and solemnly eaten by his worshipers." And
 Lord Kingsborough in his *Mexican Antiquities* (vol. vi, p. 220) gives a
@@ -444,14 +444,14 @@ high priest put into certain very clean vessels, and took a thorn of
 maguey which resembles a very thick needle, with which he took up with
 the utmost reverence single morsels, which he put into the mouth of each
 individual in the manner of a communion." Acosta <span
-id="fr_77"></span>[3](#fn_77) confirms this and similar accounts. The
+id="fr_77"></span>[3](#fn_77.md) confirms this and similar accounts. The
 Peruvians partook of a sacrament consisting of a pudding of coarsely
 ground maize, of which a portion had been smeared on the idol. The
 priest sprinkled it with the blood of the victim before distributing it
 to the people." Priest and people then all took their shares in turn,
 "with great care that no particle should be allowed to fall to the
 ground--this being looked upon as a great sin." <span
-id="fr_78"></span>[4](#fn_78)
+id="fr_78"></span>[4](#fn_78.md)
 
 Moving from Peru to China (instead of 'from China to Peru') we find that
 "the Chinese pour wine (a very
@@ -466,7 +466,7 @@ are blended in one rite.\] And of Tartary Father Grueber thus testifies:
 there, that although no European or Christian has ever been there, still
 in all essential things they agree so completely with the Roman Church,
 as even to celebrate the Host with bread and wine: *with my own eyes I
-have seen it*." <span id="fr_79"></span>[1](#fn_79) These few instances
+have seen it*." <span id="fr_79"></span>[1](#fn_79.md) These few instances
 are sufficient to show the extraordinarily wide diffusion of
 Totem-sacraments and Eucharistic rites all over the world.
 
@@ -474,66 +474,66 @@ Totem-sacraments and Eucharistic rites all over the world.
 
 ### Footnotes
 
-<span id="fn_55"></span>[54:1](pcc05.htm#fr_55) See English translation
+<span id="fn_55"></span>[54:1](pcc05.htm#fr_55.md) See English translation
 of certain chapters (published by David Nutt in 1912) entitled *Cults,
 Myths and Religions*, pp. 1-25. The French original is in three large
 volumes.
 
-<span id="fn_56"></span>[54:2](pcc05.htm#fr_56) The same may be said of
+<span id="fn_56"></span>[54:2](pcc05.htm#fr_56.md) The same may be said of
 the formulated statement of the subject in Morris Jastrow's *Handbooks
 of the History of Religion*, vol. iv.
 
-<span id="fn_57"></span>[56:1](pcc05.htm#fr_57) See Reinach, Eng.
+<span id="fn_57"></span>[56:1](pcc05.htm#fr_57.md) See Reinach, Eng.
 trans., *op. cit*., pp. 20, 21.
 
-<span id="fn_58"></span>[56:2](pcc05.htm#fr_58) *Far away and Long ago*
+<span id="fn_58"></span>[56:2](pcc05.htm#fr_58.md) *Far away and Long ago*
 (1918) chs. xvi and xvii.
 
-<span id="fn_59"></span>[57:1](pcc05.htm#fr_59) See *Orpheus* by S.
+<span id="fn_59"></span>[57:1](pcc05.htm#fr_59.md) See *Orpheus* by S.
 Reinach, p. 3.
 
-<span id="fn_60"></span>[58:1](pcc05.htm#fr_60) See *The Golden Bough*,
+<span id="fn_60"></span>[58:1](pcc05.htm#fr_60.md) See *The Golden Bough*,
 vol. iv, p. 31.
 
-<span id="fn_61"></span>[58:2](pcc05.htm#fr_61) See Andrew Lang, *Custom
+<span id="fn_61"></span>[58:2](pcc05.htm#fr_61.md) See Andrew Lang, *Custom
 and Myth*, p. 104, also *Myth, Ritual and Religion*, vol. i, pp. 71, 76,
 etc.
 
-<span id="fn_62"></span>[60:1](pcc05.htm#fr_62) See his *Religion of the
+<span id="fn_62"></span>[60:1](pcc05.htm#fr_62.md) See his *Religion of the
 Semites*, p. 320.
 
-<span id="fn_63"></span>[60:2](pcc05.htm#fr_63) They also recall the
+<span id="fn_63"></span>[60:2](pcc05.htm#fr_63.md) They also recall the
 rites of the Passover--though in this latter the blood was no longer
 drunk, nor the flesh eaten raw.
 
-<span id="fn_64"></span>[61:1](pcc05.htm#fr_64) *The Golden Bough* i,
+<span id="fn_64"></span>[61:1](pcc05.htm#fr_64.md) *The Golden Bough* i,
 85--with reference to Spencer and Gillen's *Native Tribes of Central
 Australia*, pp. 179, 189.
 
-<span id="fn_65"></span>[62:1](pcc05.htm#fr_65) *Themis*, p. 140.
+<span id="fn_65"></span>[62:1](pcc05.htm#fr_65.md) *Themis*, p. 140.
 
-<span id="fn_66"></span>[62:2](pcc05.htm#fr_66) Home University Library,
+<span id="fn_66"></span>[62:2](pcc05.htm#fr_66.md) Home University Library,
 p. 87.
 
-<span id="fn_67"></span>[64:1](pcc05.htm#fr_67) See *Art and Ritual*,
+<span id="fn_67"></span>[64:1](pcc05.htm#fr_67.md) See *Art and Ritual*,
 pp. 92-98; *The Golden Bough*, ii, 375 *seq.; Themis*, pp. 140, 141;
 etc.
 
-<span id="fn_68"></span>[64:2](pcc05.htm#fr_68) *Four Stages of Greek
+<span id="fn_68"></span>[64:2](pcc05.htm#fr_68.md) *Four Stages of Greek
 Religion*, p. 36.
 
-<span id="fn_69"></span>[64:3](pcc05.htm#fr_69) Aelian VII, iii, 12:
+<span id="fn_69"></span>[64:3](pcc05.htm#fr_69.md) Aelian VII, iii, 12:
 αὐτοῖ γοῦν (οἱ παῖδες) δέονται τῶν ἐραστῶν εἰσπνεῖν αὐτοῖς. See also E.
 Bethe on "Die Dorische Knabenliebe" in the *Rheinisches Museum*, vol.
 26, iii, 461.
 
-<span id="fn_70"></span>[65:1](pcc05.htm#fr_70) See Crawley's *Mystic
+<span id="fn_70"></span>[65:1](pcc05.htm#fr_70.md) See Crawley's *Mystic
 Rose*, pp. 238, 242.
 
-<span id="fn_71"></span>[65:2](pcc05.htm#fr_71) See Notes to his
+<span id="fn_71"></span>[65:2](pcc05.htm#fr_71.md) See Notes to his
 translation of the *Bacchæ* of Euripides.
 
-<span id="fn_72"></span>[65:3](pcc05.htm#fr_72) For a description of
+<span id="fn_72"></span>[65:3](pcc05.htm#fr_72.md) For a description of
 this orgy see Theocritus, Idyll xxvi; also <span id="page_66">p.
 66</span> for explanations of it, Lang's *Myth, Ritual and Religion*,
 vol. ii, pp. 241-260, on Dionysus. The *Encyclopædia Brit*., article
@@ -547,27 +547,27 @@ imagined that they consumed and assimilated the god represented by the
 victim, and thus became filled with the divine ecstasy." Compare also
 the Hindu doctrine of Prajápati, the dismembered Lord of Creation.
 
-<span id="fn_73"></span>[66:1](pcc05.htm#fr_73) *Religion of the
+<span id="fn_73"></span>[66:1](pcc05.htm#fr_73.md) *Religion of the
 Semites*, p. 302.
 
-<span id="fn_74"></span>[66:2](pcc05.htm#fr_74) See Doane's *Bible
+<span id="fn_74"></span>[66:2](pcc05.htm#fr_74.md) See Doane's *Bible
 Myths*, p. 306.
 
-<span id="fn_75"></span>[67:1](pcc05.htm#fr_75) From *The Great Law, of
+<span id="fn_75"></span>[67:1](pcc05.htm#fr_75.md) From *The Great Law, of
 religious origins*: by W. Williamson (1899), p. 177.
 
-<span id="fn_76"></span>[67:2](pcc05.htm#fr_76) *The Golden Bough*, vol.
+<span id="fn_76"></span>[67:2](pcc05.htm#fr_76.md) *The Golden Bough*, vol.
 ii, p. 79.
 
-<span id="fn_77"></span>[67:3](pcc05.htm#fr_77) *Natural and Moral
+<span id="fn_77"></span>[67:3](pcc05.htm#fr_77.md) *Natural and Moral
 History of the Indies*. London (1604).
 
-<span id="fn_78"></span>[67:4](pcc05.htm#fr_78) See Markham's *Rites and
+<span id="fn_78"></span>[67:4](pcc05.htm#fr_78.md) See Markham's *Rites and
 laws of the Incas*, p. 27.
 
-<span id="fn_79"></span>[68:1](pcc05.htm#fr_79) For these two quotations
+<span id="fn_79"></span>[68:1](pcc05.htm#fr_79.md) For these two quotations
 see Jevons' *Introduction to the History of Religion*, pp. 148 and 219.
 
 ------------------------------------------------------------------------
 
-[Next: V. Food And Vegetation Magic](pcc06)
+[Next: V. Food And Vegetation Magic](pcc06.md)

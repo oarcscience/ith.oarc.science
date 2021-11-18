@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](por04)  [Next](por06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](por04)  [Next](por06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path on the Rainbow*, edited by George W. Cronyn, \[1918\], at
 Intangible Textual Heritage
 
@@ -32,4 +32,4 @@ Heh-yeh! heh-yeh! heh-yeh! heh-yeh!
 
 ------------------------------------------------------------------------
 
-[Next: Iroquois Ritual](por06)
+[Next: Iroquois Ritual](por06.md)

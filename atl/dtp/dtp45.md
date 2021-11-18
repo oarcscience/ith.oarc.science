@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp44)  [Next](dtp46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp44)  [Next](dtp46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ No passion was in me, no prompting to be sentimental--no, that was gone
 with Earth's feverish dream.
 
 How familiar all things appeared when at last I was come home. For six
-Hesperian months <span id="fr_35"></span>[1](#fn_35) I did nothing but
+Hesperian months <span id="fr_35"></span>[1](#fn_35.md) I did nothing but
 wander in my psychic form in this Elysium, this stellar garden of the
 Hesperides. In the other time most of my visit was spent in the company
 of Sohma or Mol Lang. But now Sohma was otherwise engaged. Mol Lang,
@@ -90,7 +90,7 @@ But in passing that ordeal he passed from finite life to everlasting,
 and became a law unto himself. And then, free of karma, he returned to
 minister to those bound by circumstances. Mol, Lang was become more than
 man. He had taken of the Tree of Knowledge, also of the Tree of
-Life. <span id="fr_36"></span>[1](#fn_36) Such as he utilize the
+Life. <span id="fr_36"></span>[1](#fn_36.md) Such as he utilize the
 elementals, those non-human, non-embodied powers of the air. They find
 in mankind the tendency to sin, and use it, so that the erring ones
 mount the ladder on rungs, each of which is a conquered fault. The great
@@ -134,7 +134,7 @@ Soon I could leave the body at will. Other steps succeeded, and I grew
 with marvelous rapidity to know many of the minor things reserved by our
 Father for His aspiring children.
 
-With me now was abiding a Voice, <span id="fr_37"></span>[1](#fn_37) and
+With me now was abiding a Voice, <span id="fr_37"></span>[1](#fn_37.md) and
 as it demanded of me, I answered and knew. It said:
 
 "What is heredity?"
@@ -219,7 +219,7 @@ of Creation evil and good are evenly balanced. What disturbs, harmony
 with us, therefore, disturbs them by disadjustment of balance. Hence
 they seek not our harm. But Satan, know ye him? He was an Angel of
 Light, fallen, and come to so much the greater fall in that his height
-was so lofty. <span id="fr_38"></span>[1](#fn_38) He is a rebel, and out
+was so lofty. <span id="fr_38"></span>[1](#fn_38.md) He is a rebel, and out
 of harmony.
 
 "Life, Phylos, is limited, for it is but the action in the Mansion of
@@ -244,12 +244,12 @@ the well-organized, intelligent assault of those to whom evil has become
 natural, to Lucifer and his fellow-rebels.
 
 Of what nature is this Trial of the Crisis? <span
-id="fr_39"></span>[1](#fn_39) It is the deciding whether in the long
+id="fr_39"></span>[1](#fn_39.md) It is the deciding whether in the long
 series of incarnate lives the soul has improved its opportunities for
 good; if it, in the main, followed the Path which Jesus pointed. If so,
 it has or will have strength to cope with the best efforts of the
 Satanic foe. If not, it must fall and die the second death. <span
-id="fr_40"></span>[2](#fn_40) His incarnate life made the soul forgiving
+id="fr_40"></span>[2](#fn_40.md) His incarnate life made the soul forgiving
 of all wrongs, forgetful of selfish interests, helpful to those having
 less light, more gloom, misery and sin to encounter, a self-contained
 nature? Has it become like the Man of Sorrows, full of faith, hope and
@@ -258,7 +258,7 @@ soul is not like that, then, although it have the prophetic sight, and
 knoweth all things, though it have faith to removing mountains, yet
 shall it be only the more like Satan, and the worse its fate.
 
-"Go into the Holy Place." <span id="fr_41"></span>[3](#fn_41)
+"Go into the Holy Place." <span id="fr_41"></span>[3](#fn_41.md)
 
 And I, knowing obedience, went into a room built of stone, apart from
 the house. Then was I in the Presence where I had been as Zailm when
@@ -301,21 +301,21 @@ ages. Even the Spirit would be veiled in that ordeal.
 
 ### Footnotes
 
-<span id="fn_35"></span>[377:1](dtp45.htm#fr_35) About 112 terrestrial
+<span id="fn_35"></span>[377:1](dtp45.htm#fr_35.md) About 112 terrestrial
 days. The solar you of Venus is 224.7 earthly days.
 
-<span id="fn_36"></span>[378:1](dtp45.htm#fr_36) Revelations xxii; 14.
+<span id="fn_36"></span>[378:1](dtp45.htm#fr_36.md) Revelations xxii; 14.
 
-<span id="fn_37"></span>[379:1](dtp45.htm#fr_37) St. John xvi; 13.
+<span id="fn_37"></span>[379:1](dtp45.htm#fr_37.md) St. John xvi; 13.
 
-<span id="fn_38"></span>[381:1](dtp45.htm#fr_38) St. Lake xii; 48.
+<span id="fn_38"></span>[381:1](dtp45.htm#fr_38.md) St. Lake xii; 48.
 
-<span id="fn_39"></span>[382:1](dtp45.htm#fr_39) St. Luke: xx. 35-36.
+<span id="fn_39"></span>[382:1](dtp45.htm#fr_39.md) St. Luke: xx. 35-36.
 
-<span id="fn_40"></span>[382:2](dtp45.htm#fr_40) Rev.: xx. 15.
+<span id="fn_40"></span>[382:2](dtp45.htm#fr_40.md) Rev.: xx. 15.
 
-<span id="fn_41"></span>[382:3](dtp45.htm#fr_41) St. Luke: iv, 2.
+<span id="fn_41"></span>[382:3](dtp45.htm#fr_41.md) St. Luke: iv, 2.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: Text: St. Matthew IV](dtp46)
+[Next: Chapter XI: Text: St. Matthew IV](dtp46.md)

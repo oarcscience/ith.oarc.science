@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,8 +16,8 @@
 
 ------------------------------------------------------------------------
 
-[Tract Erubin](#eru)    [Tract Shekalim](#shk)    [Tract Rosh
-Hashana](#ros)   
+[Tract Erubin](#eru)    [Tract Shekalim](#shk.md)    [Tract Rosh
+Hashana](#ros.md)   
 
 ------------------------------------------------------------------------
 
@@ -25,22 +25,22 @@ Hashana](#ros)   
 
 ### Tract Erubin
 
-[Volume III. Title Page](eru00)  
-[Explanatory Remarks](eru01)  
-[Contents](eru02)  
-[Introduction to Tract Erubin](eru03)  
-[Synopsis of Tract Erubin](eru04)  
-[Chapter I: Size of Erubin](eru05)  
-[Chapter II: Use of Wells and Gardens on the Sabbath](eru06)  
-[Chapter III: Location of Erubin and Limits on Sabbath Travel.](eru07)  
-[Chapter IV: Sabbath Travel](eru08)  
-[Chapter V: Town Boundaries and Legal Limits](eru09)  
-[Chapter VI: Erubin of Courts and Partnerships](eru10)  
-[Chapter VII: Erubin in Courts and Alleys](eru11)  
+[Volume III. Title Page](eru00.md)  
+[Explanatory Remarks](eru01.md)  
+[Contents](eru02.md)  
+[Introduction to Tract Erubin](eru03.md)  
+[Synopsis of Tract Erubin](eru04.md)  
+[Chapter I: Size of Erubin](eru05.md)  
+[Chapter II: Use of Wells and Gardens on the Sabbath](eru06.md)  
+[Chapter III: Location of Erubin and Limits on Sabbath Travel.](eru07.md)  
+[Chapter IV: Sabbath Travel](eru08.md)  
+[Chapter V: Town Boundaries and Legal Limits](eru09.md)  
+[Chapter VI: Erubin of Courts and Partnerships](eru10.md)  
+[Chapter VII: Erubin in Courts and Alleys](eru11.md)  
 [Chapter VIII: Erubin of Limits, Food Required for Erubin, Erubin of
-Courts](eru12)  
-[Chapter IX: Combining of Roofs on Sabbath](eru13)  
-[Chapter X: Sundry Sabbath Regulations.](eru14)  
+Courts](eru12.md)  
+[Chapter IX: Combining of Roofs on Sabbath](eru13.md)  
+[Chapter X: Sundry Sabbath Regulations.](eru14.md)  
 
 ------------------------------------------------------------------------
 
@@ -48,19 +48,19 @@ Courts](eru12)
 
 ### Tract Shekalim
 
-[Volume IV. Title Page](shk00)  
-[Explanatory Remarks](shk01)  
-[Contents of Tract Shekalim](shk02)  
-[Preface to Tract Shekalim](shk03)  
-[Tract Shekalim: Synopsis of Subjects](shk04)  
-[Chapter I.](shk05)  
-[Chapter II.](shk06)  
-[Chapter III.](shk07)  
-[Chapter IV.](shk08)  
-[Chapter V.](shk09)  
-[Chapter VI.](shk10)  
-[Chapter VII.](shk11)  
-[Chapter VIII.](shk12)  
+[Volume IV. Title Page](shk00.md)  
+[Explanatory Remarks](shk01.md)  
+[Contents of Tract Shekalim](shk02.md)  
+[Preface to Tract Shekalim](shk03.md)  
+[Tract Shekalim: Synopsis of Subjects](shk04.md)  
+[Chapter I.](shk05.md)  
+[Chapter II.](shk06.md)  
+[Chapter III.](shk07.md)  
+[Chapter IV.](shk08.md)  
+[Chapter V.](shk09.md)  
+[Chapter VI.](shk10.md)  
+[Chapter VII.](shk11.md)  
+[Chapter VIII.](shk12.md)  
 
 ------------------------------------------------------------------------
 
@@ -68,10 +68,10 @@ Courts](eru12)
 
 ### Tract Rosh Hashana
 
-[Tract Rosh Hashana Contents](ros00)  
-[Introduction to Tract Rosh Hashana (New Year's Day)](ros01)  
-[Synopsis of Subjects of Tract Rosh Hashana](ros02)  
-[Chapter I.](ros03)  
-[Chapter II.](ros04)  
-[Chapter III.](ros05)  
-[Chapter IV.](ros06)  
+[Tract Rosh Hashana Contents](ros00.md)  
+[Introduction to Tract Rosh Hashana (New Year's Day)](ros01.md)  
+[Synopsis of Subjects of Tract Rosh Hashana](ros02.md)  
+[Chapter I.](ros03.md)  
+[Chapter II.](ros04.md)  
+[Chapter III.](ros05.md)  
+[Chapter IV.](ros06.md)  

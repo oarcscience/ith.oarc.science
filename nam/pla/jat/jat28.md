@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat27)  [Next](jat29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat27)  [Next](jat29.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [Plains](../index)  [Index](index) 
 
 # TALES.
 
-### 26. COYOTE STEALS A MAN'S WIFE. <span id="fr_47"></span>[1](#fn_47)
+### 26. COYOTE STEALS A MAN'S WIFE. <span id="fr_47"></span>[1](#fn_47.md)
 
 While a company was on a journey, a rock, on which a man happened to be,
 was raised to the sky. Coyote took the man's wife and moved away with
@@ -46,11 +46,11 @@ him they moved their camp toward the east.
 
 ### Footnotes
 
-<span id="fn_47"></span>[224:1](jat28.htm#fr_47) The San Carlos Apache
+<span id="fn_47"></span>[224:1](jat28.htm#fr_47.md) The San Carlos Apache
 have this story, Panther being the one whose wife is stolen and who
 afterward takes revenge. The Jicarilla informant insisted that it was
 not Panther but an ordinary Apache who played this part.
 
 ------------------------------------------------------------------------
 
-[Next: 27. Coyote Takes Arrows From Owl](jat29)
+[Next: 27. Coyote Takes Arrows From Owl](jat29.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](sws34)  [Next](sws36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](sws34)  [Next](sws36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Spider Woman*, by Gladys A. Reichard, \[1934\], at Intangible Textual
 Heritage
 
@@ -80,27 +80,27 @@ the faintest smile. She has a bad headache;
 
 <span id="img_24800"></span> <span align="CENTER"> [![TWO OF MY SISTERS
 AND MY GIRL CHILDREN](tn/24800.jpg)  
-Click to enlarge](img/24800.jpg)  
+Click to enlarge](img/24800.jpg.md)  
 TWO OF MY SISTERS AND MY GIRL CHILDREN  
 </span>
 
 <span id="img_24801"></span> <span align="CENTER"> [![A VERY LITTLE GIRL
 ON A VERY LARGE PLAY-&lt;br&gt; GROUND](tn/24801.jpg)  
-Click to enlarge](img/24801.jpg)  
+Click to enlarge](img/24801.jpg.md)  
 A VERY LITTLE GIRL ON A VERY LARGE PLAY-  
 GROUND  
 </span>
 
 <span id="img_24900"></span> <span align="CENTER"> [![HASTIN-GANI'S WIFE
 ATTACHES THE WARP&lt;br&gt; CURLS](tn/24900.jpg)  
-Click to enlarge](img/24900.jpg)  
+Click to enlarge](img/24900.jpg.md)  
 HASTIN-GANI'S WIFE ATTACHES THE WARP  
 CURLS  
 </span>
 
 <span id="img_24901"></span> <span align="CENTER"> [![THE FIFTEEN FOOT
 LOOM](tn/24901.jpg)  
-Click to enlarge](img/24901.jpg)  
+Click to enlarge](img/24901.jpg.md)  
 THE FIFTEEN FOOT LOOM  
 </span>
 
@@ -283,4 +283,4 @@ nights. He goes off to attend to his own duties.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIII: Death](sws36)
+[Next: Chapter XXXIII: Death](sws36.md)

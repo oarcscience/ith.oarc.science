@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe03)  [Next](spe05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe03)  [Next](spe05.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ and habits; so that the latter part of the British history exhibits to
 our view a slothful and effeminate race of men, totally divested of that
 martial disposition, and love of freedom, which so strongly marked the
 character of their pro-genitors; and their amusements, no doubt, partook
-of the same weakness and puerility. <span id="fr_1"></span>[1](#fn_1)
+of the same weakness and puerility. <span id="fr_1"></span>[1](#fn_1.md)
 
 THE SAXONS.--The arrival of the Saxons forms a new epoch in the annals
 of this country. These military mercenaries came professedly to assist
@@ -97,7 +97,7 @@ habits of the people.
 The sportive exercises and pastimes practised by the Saxons appear to
 have been such as were common among the ancient northern nations; and
 most of them consisted of robust exercises. In an old Chronicle of
-Norway, <span id="fr_2"></span>[2](#fn_2) we find it recorded of Olaf
+Norway, <span id="fr_2"></span>[2](#fn_2.md) we find it recorded of Olaf
 Tryggeson, a king of that country, that he was stronger and more nimble
 than any man in his dominions. He could climb up the rock Smalserhorn,
 and fix his shield upon the top of it; he could walk round the out-side
@@ -121,7 +121,7 @@ was Kolson, boasts of nine accomplishments in which he was well skilled:
 am expert at my book; I know how to handle the tools of the smith; I can
 traverse the snow on skates of wood; I excel in shooting with the bow; I
 use the oar with facility; I can sing to the harp; and I compose
-verses." <span id="fr_3"></span>[1](#fn_3) The reader will, I doubt not,
+verses." <span id="fr_3"></span>[1](#fn_3.md) The reader will, I doubt not,
 anticipate me in my observation, that the acquirements of Kolson
 indicate a much more liberal education than those of the Norwegian
 monarch; it must, however, be observed, that Kolson lived in an age
@@ -136,7 +136,7 @@ with paintings in the hands of his mother attracted his notice, and he
 expressed his desire to have it; she promised to comply with his request
 on condition that he learned to read it, which it seems he did; and this
 trifling incident laid the groundwork of his future scholarship. <span
-id="fr_4"></span>[2](#fn_4)
+id="fr_4"></span>[2](#fn_4.md)
 
 Indeed, it is not by any means surprising, under the Saxon government,
 when the times were generally very turbulent, and the existence of peace
@@ -160,7 +160,7 @@ Among the vices of the Anglo-Saxons may be reckoned their propensity to
 <span id="page_xviii">p. xviii</span>
 
 gaming, and especially with the dice, which they derived from their
-ancestors; for Tacitus <span id="fr_5"></span>[1](#fn_5) assures us that
+ancestors; for Tacitus <span id="fr_5"></span>[1](#fn_5.md) assures us that
 the ancient Germans would not only hazard all their wealth, but even
 stake their liberty, upon the turn of the dice; "and he who loses," says
 the author, "submits to servitude, though younger and stronger than his
@@ -173,7 +173,7 @@ sedentary amusements. In the reign of Canute the Dane, this practice was
 sanctioned by the example of royalty, and followed by the nobility.
 Bishop Ætheric, having obtained admission to Canute about midnight upon
 some urgent business, found the king engaged with his courtiers at play,
-some at dice, and some at chess. <span id="fr_6"></span>[2](#fn_6) The
+some at dice, and some at chess. <span id="fr_6"></span>[2](#fn_6.md) The
 clergy, however, were prohibited from playing at games of chance, by the
 ecclesiastical canons established in the reign of Edgar.
 
@@ -199,7 +199,7 @@ the ages of chivalry, were in high repute among the nobility of Europe,
 and produced in reality much of the pomp and gallantry that we find
 recorded with poetical exaggeration in the legends of knight-errantry. I
 met with a passage in a satirical poem among the Harleian MSS. of the
-thirteenth century, <span id="fr_7"></span>[3](#fn_7) which strongly
+thirteenth century, <span id="fr_7"></span>[3](#fn_7.md) which strongly
 marks the prevalence of this taste in the times alluded to. It may be
 thus rendered in English:
 
@@ -247,7 +247,7 @@ Roulyon, that she caused her three sons to be brought up in "all maner
 of good operacyons, vertues, and maners; and when in their adolescence
 they were somwhat comen to the age of strengthe, they," their tutors,
 "began to practyse them in shootinge with their bow and arbelstre, <span
-id="fr_8"></span>[1](#fn_8) to playe with the sword and buckeler, to
+id="fr_8"></span>[1](#fn_8.md) to playe with the sword and buckeler, to
 runne, to just, to playe with a poll-axe, and to wrestle; and they began
 to bear harneys, to runne horses, and to approve them, as desyringe to
 be good and faythful knightes to susteyne the faith of God." We are not,
@@ -298,7 +298,7 @@ Boke of Sir Tristram." In a succeeding part of the same romance, King
 Arthur thus addresses the knight: "For all manner of hunting thou
 bearest the prize; and of all measures of blowing thou art the beginner,
 and of all the termes of hunting and hawking thou art the
-beginner." <span id="fr_9"></span>[1](#fn_9) We are also informed that
+beginner." <span id="fr_9"></span>[1](#fn_9.md) We are also informed that
 Sir Tristram had previously learned the language of France, knew all the
 principles of courtly behaviour, and was skilful in the various
 requisites of knighthood.
@@ -310,8 +310,8 @@ every day was provyd in dauncyng and in songs that the ladies coulde
 think were convenable for a nobleman to conne; but in every thinge he
 passed all them that were there. The king for to assaie him, made justes
 and turnies; and no man did so well as he, in runnyng, playing at the
-pame, <span id="fr_10"></span>[1](#fn_10) shotyng, and castyng of the
-barre, ne found he his maister." <span id="fr_11"></span>[2](#fn_11)
+pame, <span id="fr_10"></span>[1](#fn_10.md) shotyng, and castyng of the
+barre, ne found he his maister." <span id="fr_11"></span>[2](#fn_11.md)
 
 ESQUIRESHIP.--The laws of chivalry required that every knight should
 pass through two offices: the first was a page; and, at the age of
@@ -320,7 +320,7 @@ of several departments; the esquire for the body, the esquire of the
 chamber, the esquire of the stable, and the carving esquire; the latter
 stood in the hall at dinner, carved the different dishes, and
 distributed them to the guests. Several of the inferior officers had
-also their respective esquires. <span id="fr_12"></span>[3](#fn_12)
+also their respective esquires. <span id="fr_12"></span>[3](#fn_12.md)
 Ipomydon, a king's son and heir, in the romance that bears his name,
 written probably at the commencement of the fourteenth century, is
 regularly taught the duties of an esquire, previous to his receiving the
@@ -341,12 +341,12 @@ After, he taught hym all; and same,
 In sea, in feld, and eke in ryvere;  
 In woode to chase the wild dere,  
 And in feld to ryde a stede;  
-That all men had joy of his dede." <span id="fr_13"></span>[4](#fn_13)
+That all men had joy of his dede." <span id="fr_13"></span>[4](#fn_13.md)
 
 Here we find reading mentioned; which, however, does not appear to have
 been of any great importance in the middle ages, and is left out in the
 *Geste of King Horne*, another metrical romance, <span
-id="fr_14"></span>[5](#fn_14) which seems to be rather more ancient than
+id="fr_14"></span>[5](#fn_14.md) which seems to be rather more ancient than
 the former. Young Horne is placed under the tuition of Athelbrus, the
 king's steward, who is commanded to teach him the mysteries of hawking
 and hunting, to play upon the harp,
@@ -365,7 +365,7 @@ instruct him in singing and music:
 
 And the manner in which the king's carver performed the duties of his
 office is well described in the poem denominated "The Squyer of Lowe
-Degree." <span id="fr_15"></span>[1](#fn_15)
+Degree." <span id="fr_15"></span>[1](#fn_15.md)
 
 "There he araied him in scarlet red,  
 And set a chaplet upon his hedde;  
@@ -468,7 +468,7 @@ ensuinge":--"In the first place; On the
 
 xxij<sup>th</sup> daye of Maie, there shall be a grene tree sett up in
 the lawnde of Grenwich parke; whereuppon shall hange, by a grene lace, a
-Vergescu <span id="fr_16"></span>[1](#fn_16) Blanke, in which white
+Vergescu <span id="fr_16"></span>[1](#fn_16.md) Blanke, in which white
 shield it shalbe lawfull for any gentleman that will annswear this
 chalenge ensewing to subscribe his name.--Secondly; The said two
 gentlemen, with their two aides, shalbe redye on the xxiij<sup>th</sup>
@@ -476,29 +476,29 @@ daie of Maie, being Thursdaye, and on Mondaye thence next ensewinge, and
 so everye Thursday and Monday untill the xx<sup>th</sup> daye of June,
 armed for the foote, to annswear all gentlemen commers, at the feate
 called the Barriers, with the Casting-speare, and the Targett, and with
-the bastard-sword, <span id="fr_17"></span>[2](#fn_17) after the manner
+the bastard-sword, <span id="fr_17"></span>[2](#fn_17.md) after the manner
 following, that is to saie, from vj of the clocke in the forenoone till
 sixt of the clocke in the afternoone during the tyme.--Thirdly; And the
 said two gentlemen, with their two aiders, or one of them, shall be
 there redye at the said place, the daye and dayes before rehearsed, to
 deliver any of the gentlemen answeares of one cast with the speare
-bedded with the morne, <span id="fr_18"></span>[3](#fn_18) and seven
+bedded with the morne, <span id="fr_18"></span>[3](#fn_18.md) and seven
 strokes with the sword, point and edge rebated, without close, or
 griping one another with handes, upon paine of punishment as the judges
 for the time being shall thinke requisite.--Fourthly; And it shall not
 be lawfull to the challengers, nor to the answearers, with the bastard
-sword to give or offer any foyne <span id="fr_19"></span>[4](#fn_19) to
+sword to give or offer any foyne <span id="fr_19"></span>[4](#fn_19.md) to
 his match, upon paine of like punishment.--Fifthly; The challengers
 shall bringe into the fielde, the said daies and tymes, all manner of
 weapons concerning the said feates, that is to saie, casting speares
 bedded with mornes, and bastard swords poynt and edge rebated, and the
-answerers to have the first choice." <span id="fr_20"></span>[5](#fn_20)
+answerers to have the first choice." <span id="fr_20"></span>[5](#fn_20.md)
 
 \* The Harleian MS. just cited contains accounts of the proclamation and
 articles of a tilting to be held at the palace of Richmond on the birth
 of the Princess Mary, daughter of Henry VIII.; of a joust at Grenwich in
 1516; and of a "Justinge, Tournay, and Fightinge at Barrier holden at
-the Palace of Westminster," in 1540. <span id="fr_21"></span>[6](#fn_21)
+the Palace of Westminster," in 1540. <span id="fr_21"></span>[6](#fn_21.md)
 
 MILITARY EXERCISES UNDER HENRY VIII.--Henry VIII. not only countenanced
 the practice of military pastimes by permitting them to be exercised
@@ -510,7 +510,7 @@ fighting at the barriers with swords, and battle-axes, and such like
 martial recreations, in most of which there were few that could excel
 him. His leisure time he spent in playing at the recorders, flute, and
 virginals, in setting of songs, singing and making of ballads. <span
-id="fr_22"></span>[7](#fn_22) He was also exceedingly fond of hunting,
+id="fr_22"></span>[7](#fn_22.md) He was also exceedingly fond of hunting,
 hawking, and other sports of the field; and indeed his example so far
 prevailed, that hunting, hawking, riding the
 
@@ -518,9 +518,9 @@ prevailed, that hunting, hawking, riding the
 
 great horse, charging dexterously with the lance at the tilt, leaping,
 and running, were necessary accomplishments of a man of fashion. <span
-id="fr_23"></span>[1](#fn_23) The pursuits and amusements of a nobleman
+id="fr_23"></span>[1](#fn_23.md) The pursuits and amusements of a nobleman
 are placed in a different point of view by an author of the succeeding
-century; <span id="fr_24"></span>[2](#fn_24) who, describing the person
+century; <span id="fr_24"></span>[2](#fn_24.md) who, describing the person
 and manners of Charles, Lord Mountjoy, regent of Ireland, in 1599, says,
 "He delighted in study, in gardens, in riding on a pad to take the aire,
 in playing at shovelboard, at cardes, and in reading of play-bookes for
@@ -599,7 +599,7 @@ endowments; such was the opinion of a person of high rank, who said to
 Richard Pace, secretary to King Henry VIII., "It is enough for the sons
 of noblemen to wind their horn and carry their hawke fair, and leave
 study and learning to the children of meaner people." <span
-id="fr_25"></span>[1](#fn_25) Many of the pastimes that had been
+id="fr_25"></span>[1](#fn_25.md) Many of the pastimes that had been
 countenanced by the nobility, and sanctioned by their example, in the
 middle ages, grew into disrepute in modern times, and were condemned as
 vulgar and unbecoming the notice of a gentleman. "Throwing the hammer
@@ -607,7 +607,7 @@ and wrestling," says Peacham, in his *Complete Gentleman*, published in
 1622, "I hold them exercises not so well beseeming nobility, but rather
 the soldiers in the camp and the prince's guard." On the contrary, Sir
 William Forest, in his *Poesye of Princelye Practice*, a MS. in the
-Royal Library, <span id="fr_26"></span>[2](#fn_26) written in the year
+Royal Library, <span id="fr_26"></span>[2](#fn_26.md) written in the year
 1548, laying down the rules for the education of an heir apparent to the
 crown, or prince of the blood royal, writes thus:
 
@@ -669,7 +669,7 @@ singing, masking, mumming, and stage-plays, are reasonable recreations,
 if in season; as are May-games, wakes, and Whitson-ales, if not at
 unseasonable hours, are justly permitted. Let them," that is, the common
 people, "freely feast, sing, dance, have puppet-plays, hobby-horses,
-tabers, crowds, <span id="fr_27"></span>[1](#fn_27) and bag-pipes": let
+tabers, crowds, <span id="fr_27"></span>[1](#fn_27.md) and bag-pipes": let
 them "play at ball and barley-brakes"; and afterwards, "Plays, masks,
 jesters, gladiators, tumblers, and jugglers, are to be winked at, lest
 the people should do worse than attend them."
@@ -703,7 +703,7 @@ their wasters and bucklers"; which in his day was exercised by the
 apprentices before the doors of their masters. The city damsels had also
 their recreations on the celebration of these festivals, according to
 the testimony of both the authors just mentioned. The first tells us
-that they played upon citherns, <span id="fr_28"></span>[1](#fn_28) and
+that they played upon citherns, <span id="fr_28"></span>[1](#fn_28.md) and
 danced to the music; and as this amusement probably did not take place
 before the close of the day, they were, it seems, occasionally permitted
 to continue it by moonlight. We learn from the other, who wrote at the
@@ -728,7 +728,7 @@ century
 <span id="page_xxix">p. xxix</span>
 
 occurs in Strype's edition of Stow's *Survey of London*, published in
-1720. <span id="fr_29"></span>[1](#fn_29) "The modern sports of the
+1720. <span id="fr_29"></span>[1](#fn_29.md) "The modern sports of the
 citizens," says the editor, "besides drinking, are cock-fighting,
 bowling upon greens, playing at tables, or backgammon, cards, dice, and
 billiards; also musical entertainments, dancing, masks, balls,
@@ -760,11 +760,11 @@ occasion, from which guns were frequently discharged." Captain Dover
 received permission from James I. to hold these sports; and he appeared
 at their celebration in the very clothes which that monarch had formerly
 worn, but with much more dignity in his air and aspect." <span
-id="fr_30"></span>[2](#fn_30) I do not mean to say that the Cotswold
+id="fr_30"></span>[2](#fn_30.md) I do not mean to say that the Cotswold
 games were invented, or even first established, by Captain Dover; on the
 contrary, they seem to be of much higher origin, and are evidently
 alluded to in the following lines by John Heywood the
-epigrammatist: <span id="fr_31"></span>[3](#fn_31)
+epigrammatist: <span id="fr_31"></span>[3](#fn_31.md)
 
 "He fometh like a bore, the beaste should seeme bolde,  
 For he is as fierce as a lyon of Cotswolde."
@@ -799,14 +799,14 @@ streets of his own capital, even in the times of peace, he had a
 standard borne before him. This standard was of the kind called by the
 Romans tufa, and by the English tuuf: it was made with feathers of
 various colours in the form of a globe, and fastened upon a pole. <span
-id="fr_32"></span>[1](#fn_32) It is unnecessary to multiply citations;
+id="fr_32"></span>[1](#fn_32.md) It is unnecessary to multiply citations;
 for which reason I shall only add another. Canute the Dane, who is said
 to have been the richest and most magnificent prince of his time in
 Europe, rarely appeared in public without being followed by a train of
 three thousand horsemen, well mounted and completely armed. These
 attendants, who were called house carls, formed a corps of body guards
 or household troops, and were appointed for the honour and safety of
-that prince's person. <span id="fr_33"></span>[2](#fn_33) The examples
+that prince's person. <span id="fr_33"></span>[2](#fn_33.md) The examples
 of royalty were followed by the nobility and persons of opulence.
 
 In the middle ages, the love of show was carried to an extravagant
@@ -820,7 +820,7 @@ always welcome to their masters' tables. The noblemen had their privy
 counsellors, treasurers, marshals, constables, stewards, secretaries,
 chaplains, heralds, pursuivants, pages, henchmen or guards, trumpeters,
 and all the other officers of the royal court. <span
-id="fr_34"></span>[3](#fn_34) To these may be added whole companies of
+id="fr_34"></span>[3](#fn_34.md) To these may be added whole companies of
 minstrels, mimics, jugglers, tumblers, rope-dancers, and players; and
 especially on days of public festivity, when, in every one of the
 apartments opened for the reception of the guests, were exhibited
@@ -829,7 +829,7 @@ which propriety had very little share; the whole forming a scene of
 pompous confusion, where feasting, drinking, music, dancing, tumbling,
 singing, and buffoonery, were jumbled together, and mirth excited too
 often at the expense of common decency. <span
-id="fr_35"></span>[4](#fn_35) If we turn to the third *Book of* 
+id="fr_35"></span>[4](#fn_35.md) If we turn to the third *Book of* 
 
 <span id="page_xxxi">p. xxxi</span>
 
@@ -844,7 +844,7 @@ seats below them, who mimicked their performances like apes to excite
 laughter; behind them, at a great distance, was a prodigious number of
 other minstrels, making a great sound with cornets, shaulms, flutes,
 horns, pipes of various kinds, and some of them made with green
-corn, <span id="fr_36"></span>[1](#fn_36) such as are used by shepherds'
+corn, <span id="fr_36"></span>[1](#fn_36.md) such as are used by shepherds'
 boys; there were also Dutch pipers to assist those who chose to dance
 either "love-dances, springs, or rayes," or any other new-devised
 measures. Apart from these were stationed the trumpeters and players on
@@ -900,7 +900,7 @@ them.
 
 Some faint traces of the processional parts of these exhibitions were
 retained at London in the lord mayor's show about twenty or thirty years
-ago; <span id="fr_37"></span>[1](#fn_37) but the pageants and orations
+ago; <span id="fr_37"></span>[1](#fn_37.md) but the pageants and orations
 have been long discontinued, and the show itself is so much contracted
 that it is in reality altogether unworthy of such an appellation.
 
@@ -1062,16 +1062,16 @@ pickle-butt by the naughty taverner. . . . Such exhibitions were usually
 known in England as 'the miracles,' or 'the marvels,' and occasionally
 'the mysteries'; we trace them wherever town records are preserved, and
 they penetrated even to the remotest manor-house and the most secluded
-village." <span id="fr_38"></span>[1](#fn_38)
+village." <span id="fr_38"></span>[1](#fn_38.md)
 
 SETTING OUT OF PAGEANTS.--In an old play, *The Historie of Promos and
 Cassandra*, by George Whetstone, printed in 1578, <span
-id="fr_39"></span>[2](#fn_39) a carpenter, and others, employed in
+id="fr_39"></span>[2](#fn_39.md) a carpenter, and others, employed in
 preparing the pageants for a royal procession, are introduced. In one
 part of the city the artificer is ordered "to set up the frames, and to
 space out the rooms, that the Nine Worthies may be so instauled as best
 to please the eye." The "Worthies" are thus named in an heraldical MS.
-in the Harleian Library: <span id="fr_40"></span>[3](#fn_40) "Duke
+in the Harleian Library: <span id="fr_40"></span>[3](#fn_40.md) "Duke
 Jossua; Hector of Troy; kyng David; emperour Alexander; Judas Machabyes;
 emperour Julyus Cæsar; kyng Arthur; emperour Charlemagne; and syr Guy of
 Warwycke"; but the place of the latter was frequently, and I believe
@@ -1079,7 +1079,7 @@ originally, supplied by Godefroy, earl of Bologne: it appears, however,
 that any of them might be changed at pleasure. Henry VIII. was made a
 "Worthy" to please his daughter Mary, as we shall find a little further
 on. In another part of the same play the carpenter is commanded to
-"errect a stage, that the wayghtes <span id="fr_41"></span>[4](#fn_41)
+"errect a stage, that the wayghtes <span id="fr_41"></span>[4](#fn_41.md)
 in sight may stand"; one of the city gates was to be occupied by the
 fowre Virtues, together with "a consort of music"; and one of the
 pageants is thus whimsically described:
@@ -1137,7 +1137,7 @@ Nine Worthies; of these King Henry VIII. was one. He was painted in
 harnesse, having in one hand a sword, and in the other hand a booke,
 whereupon was written Verbum Dei. He was also delivering, as it were,
 the same booke to his sonne King Edward VI. who was painted in a corner
-by him." <span id="fr_42"></span>[1](#fn_42)
+by him." <span id="fr_42"></span>[1](#fn_42.md)
 
 The Nine Worthies appear to have been favourite characters, and were
 often exhibited in the pageants; those mentioned in the preceding
@@ -1160,7 +1160,7 @@ Baptist, a pageant, which is expressly said to be "according to ancient
 custome," consisting of four giants, one unicorn, one dromedary, one
 luce, one camel, one ass, one dragon, six hobby-horses, and sixteen
 naked boys. This ordinance is dated April 26th, 1564. <span
-id="fr_43"></span>[1](#fn_43) In another MS. of the same library, it is
+id="fr_43"></span>[1](#fn_43.md) In another MS. of the same library, it is
 said, "A.D. 1599, Henry Hardware, esq. the mayor, was a godly and
 zealous man"; he caused "the gyauntes in the midsomer show to be
 broken," and not to goe; "the devil in his feathers," alluding perhaps
@@ -1170,7 +1170,7 @@ boys." In a more modern hand it is added, "And he caused a man in
 complete armour to go in their stead. He also caused the bull-ring to be
 taken up," etc. But in the year 1601, John Ratclyffe, beer-brewer, being
 mayor, "sett out the giaunts and midsommer show, as of oulde it was wont
-to be kept." <span id="fr_44"></span>[2](#fn_44) In the time of the
+to be kept." <span id="fr_44"></span>[2](#fn_44.md) In the time of the
 Commonwealth this spectacle was discontinued, and the giants, with the
 beasts, were destroyed. At the restoration of Charles II. it was agreed
 by the citizens to replace the pageant as usual, on the eve of the
@@ -1233,7 +1233,7 @@ festivity and diversions of various kinds to please the populace. These
 amusements are well described in a few lines by an early dramatic poet,
 whose name is not known; his performance is entitled *A pleasant and
 stately Morall of the Three Lordes of London*, black letter, no
-date: <span id="fr_45"></span>[1](#fn_45)
+date: <span id="fr_45"></span>[1](#fn_45.md)
 
 -------Let nothing that's magnifical,  
 Or that may tend to London's graceful state,  
@@ -1249,7 +1249,7 @@ carried upon men's shoulders. There is extant a copy of a letter from
 Henry VII. to the mayor and aldermen of London, commanding them to make
 bon-fires, and to show other marks of rejoicing in the city, when the
 contract was ratified for the marriage of his daughter Mary with the
-prince of Castile. <span id="fr_46"></span>[2](#fn_46)
+prince of Castile. <span id="fr_46"></span>[2](#fn_46.md)
 
 PUBLIC SHOWS IN THE SIXTEENTH CENTURY.--These motley displays of pomp
 and absurdity were highly relished by the nobility, and repeatedly
@@ -1267,13 +1267,13 @@ and especially during the reign of Henry VIII. His daughter Elizabeth
 appears to have been equally pleased with this species of pageantry; and
 therefore it was constantly provided for her amusement by the nobility
 whom she visited from time to time, in her progresses or excursions to
-various parts of the kingdom. <span id="fr_47"></span>[1](#fn_47) I
+various parts of the kingdom. <span id="fr_47"></span>[1](#fn_47.md) I
 shall simply give the outlines of a succession of entertainments
 contrived to divert her when she visited the Earl of Leicester at
 Kenelworth Castle, and this shall serve as a specimen for the rest.
 
 QUEEN ELIZABETH AT KENELWORTH.--Her majesty came thither on Saturday,
-the ninth of July 1575; <span id="fr_48"></span>[2](#fn_48) she was met
+the ninth of July 1575; <span id="fr_48"></span>[2](#fn_48.md) she was met
 near the castle by a fictitious Sibyl, who promised peace and prosperity
 to the country during her reign. Over the first gate of the castle there
 stood six gigantic figures with trumpets, real trumpeters being
@@ -1356,7 +1356,7 @@ unpleasant when he came to perform his part, he tears off his disguise,
 and swears that he was none of Arion, not he, but even honest Harry
 Goldingham; which blunt discovery pleased the queen better than if it
 had gone thorough in the right way. Yet he could order his voice to an
-instrument exceedingly well." <span id="fr_49"></span>[1](#fn_49)
+instrument exceedingly well." <span id="fr_49"></span>[1](#fn_49.md)
 
 On Tuesday the Coventry play was repeated, because the queen had not
 seen the whole of it on Saturday.
@@ -1422,7 +1422,7 @@ mayor with the king's grant to them, and the Lord Chamberlain's mandate,
 
 prizes, stage-players, tumblers, vaulters, dancers on the ropes, such as
 act, sett forth, shew or present any play, shew, motion, feats of
-activity, or sights whatsoever." <span id="fr_50"></span>[1](#fn_50)
+activity, or sights whatsoever." <span id="fr_50"></span>[1](#fn_50.md)
 Thomas was given power to grant temporary licenses to persons from Wales
 or remote parts, who seldom or never came to London, but others were to
 be required to take out licenses at the London office. Any presuming to
@@ -1436,7 +1436,7 @@ can be gleaned from the State Papers of the Public Record Office. There
 are full accounts extant of the expenditure of Richard Gibson, Master of
 the Revels, from 1509 to 1522, which show the extravagant character of
 the mummings and disguisings at the court of the young king. <span
-id="fr_51"></span>[2](#fn_51) Crimson, purple, blue, and yellow velvet;
+id="fr_51"></span>[2](#fn_51.md) Crimson, purple, blue, and yellow velvet;
 cloth of gold of Venice; blue, green, white, black, yellow, and crimson
 satin; blue, crimson, and yellow sarcenet; brabant cloth; crimson copper
 tinsel of Bruges; cotton cloth; white fustian; gray furs; and ostrich
@@ -1466,19 +1466,19 @@ following year.
 outrivalled the extravagance of her father. From the first Christmas
 after her accession down to April 1567, the provisions and payments made
 by the Master of the Revels reached the then gigantic total of £4588,
-1s. 10d. <span id="fr_52"></span>[3](#fn_52) Towards the end of the
+1s. 10d. <span id="fr_52"></span>[3](#fn_52.md) Towards the end of the
 
 <span id="page_xliii">p. xliii</span>
 
 reign the expenses under this head were but small. In May 1594 Edmund
 Tilney, Master of the Revels, received a warrant of £311, 2s. 2d. for
 wares delivered and works done in the office of the revels, and for
-three years' wages of the officers. <span id="fr_53"></span>[1](#fn_53)
+three years' wages of the officers. <span id="fr_53"></span>[1](#fn_53.md)
 In January 1597 2200 was assigned to the Master for wares and works, and
 three years' officers' wages; and also £66, 6s. 8d. yearly as
 composition for defraying the charges of the office for plays only,
 according to a rate of a late composition. <span
-id="fr_54"></span>[2](#fn_54)
+id="fr_54"></span>[2](#fn_54.md)
 
 \* In 1603 Sir George Buck succeeded to the Mastership of the Revels. On
 July 10th, 1615, Sir George wrote to the Lord Chamberlain, saying that
@@ -1488,13 +1488,13 @@ tragedies at Bristol, under the name of the Youths of Her Majesty's
 Royal Chamber of Bristol; he had consented to it, without prejudice to
 the rights of his office; but he reminded the Chamberlain that he had
 received no wages for two years, and begged for payment of the
-arrears. <span id="fr_55"></span>[3](#fn_55)
+arrears. <span id="fr_55"></span>[3](#fn_55.md)
 
 \* Sir Henry Herbert, the next Master of the Revels, got into rather
 serious trouble in the summer of 1674, almost immediately after his
 appointment, by licensing the poet Middleton's play *A Game at Chess*,
 which was a thinly-veiled political attack on Spain, that gave great
-umbrage to the Spanish ambassador. <span id="fr_56"></span>[4](#fn_56)
+umbrage to the Spanish ambassador. <span id="fr_56"></span>[4](#fn_56.md)
 Sir Henry Herbert was confirmed in his office on the accession of
 Charles I.
 
@@ -1510,7 +1510,7 @@ could not take in their beer or coals; (3) the passage through Ludgate
 and to the water was stopped; (4) if any fire occurred it could not be
 quenched; (5) baptisms and burials often disturbed; and (6) persons of
 honour and quality resident in the parish are restrained by the coaches
-from ingress and egress. <span id="fr_57"></span>[5](#fn_57)
+from ingress and egress. <span id="fr_57"></span>[5](#fn_57.md)
 
 \* In May 1633, some strolling players visited Banbury. The mayor and
 justices, suspecting them to be wandering rogues, if not more dangerous
@@ -1522,13 +1522,13 @@ committed them to prison, till the council's pleasure should be
 signified. The patent and commission and examinations were forwarded to
 London. The company had been acting, as they alleged, at Leicester,
 Market Bosworth, Stratford, Meriden, and Solihull, and at Sir Thomas
-Lucy's, and Sir William Spencer's. <span id="fr_58"></span>[6](#fn_58)
+Lucy's, and Sir William Spencer's. <span id="fr_58"></span>[6](#fn_58.md)
 
 <span id="page_xliv">p. xliv</span>
 
 \* Sir Henry Herbert received £200, as Master of the Revels, in October
 1660, together with a warrant to advance him yearly such sums as might
-be needful for his office. <span id="fr_59"></span>[1](#fn_59) The
+be needful for his office. <span id="fr_59"></span>[1](#fn_59.md) The
 official immediately under the master was termed the Yeoman of the
 Revels; his salary was usually, £50 a year. In May 1661, one John
 Tredeskyn was brought before Sir Henry Herbert charged with showing
@@ -1537,7 +1537,7 @@ revels; but in the following month he obtained a royal warrant to
 continue as before to show to all who wish it his "rare and ingenious
 collection of rarities in art and nature," which had been for many years
 exhibited by him and his father before him. <span
-id="fr_60"></span>[2](#fn_60) In July of the same year an order was made
+id="fr_60"></span>[2](#fn_60.md) In July of the same year an order was made
 for the suppression of all stage players, tumblers, rope dancers, and
 showmen unless approved and authorised by the Master of the Revels, as
 some persons had obtained recently commissions from the king, acted
@@ -1553,12 +1553,12 @@ general orders were issued that "what company soever, either stage
 players, musicians, mountebanks, or such as go about with monsters and
 strange sights," as had no authority confirmed by the Master of the
 Revels, should have their commissions taken from them and sent to the
-office. <span id="fr_61"></span>[3](#fn_61) In July of that year the
+office. <span id="fr_61"></span>[3](#fn_61.md) In July of that year the
 king empowered the mayor and sheriff and magistrates of Norwich, as he
 understood that the meaner sort of people were diverted from their work
 through the frequency of lotteries, puppet-shows, etc., to determine the
 length of stay of such shows in the city notwithstanding any licenses
-from the revel office. <span id="fr_62"></span>[4](#fn_62)
+from the revel office. <span id="fr_62"></span>[4](#fn_62.md)
 
 ROPE-DANCING, TUTORED ANIMALS, AND PUPPET-SHOWS.--Great delight was
 taken in seeing men and animals perform such feats as appeared to be
@@ -1579,7 +1579,7 @@ like any reasonable
 
 <span id="page_xlv">p. xlv</span>
 
-creature. <span id="fr_63"></span>[1](#fn_63) He gives great
+creature. <span id="fr_63"></span>[1](#fn_63.md) He gives great
 satisfaction to the quality; and if they will make a subscription for
 him, I will send for a brother of his out of Holland, that is a very
 good tumbler; and also for another of the same family whom I design for
@@ -1595,7 +1595,7 @@ The latter part of this sarcasm relates to a feigned dispute for
 seniority between Powel, a puppet-showman, who exhibited his wooden
 heroes under the little piazza in Covent Garden, and the managers of the
 Italian opera; which is mentioned in a preceding paper <span
-id="fr_64"></span>[2](#fn_64) to this effect: "The opera at the
+id="fr_64"></span>[2](#fn_64.md) to this effect: "The opera at the
 Haymarket, and that under the little piazza of Covent Garden, are at
 present the two leading diversions of the town; Powel professing in his
 advertisements to set up Whittington and his Cat against Rinaldo and
@@ -1614,7 +1614,7 @@ opera of Susanna, or Innocence betrayed; which will be exhibited next
 week with a pair of new elders."
 
 From the same source of information, in a subsequent paper, <span
-id="fr_65"></span>[3](#fn_65) we may find a catalogue of the most
+id="fr_65"></span>[3](#fn_65.md) we may find a catalogue of the most
 popular spectacles exhibited in London at the commencement of the last
 century. Our author has introduced a projector, who produces a scheme
 for an opera entitled *The Expedition of Alexander the Great*; and
@@ -1624,7 +1624,7 @@ following manner: "This Expedition of Alexander opens with his
 consulting the Oracle at Delphos; in which the Dumb Conjurer, who has
 been visited by so many persons of quality of late years, is to be
 introduced as telling his fortune; at the same time Clench of
-Barnet <span id="fr_66"></span>[4](#fn_66) is represented in another
+Barnet <span id="fr_66"></span>[4](#fn_66.md) is represented in another
 corner of the temple, as ringing the bells of Delphos for joy of his
 arrival. The Tent of Darius is to be
 
@@ -1667,7 +1667,7 @@ of the like nature."
 
 MINSTRELSY, BELL-RINGING, ETC.--The people of this country in all ages
 delighted in secular music, songs, and theatrical performances; <span
-id="fr_67"></span>[1](#fn_67) which is abundantly evident from the great
+id="fr_67"></span>[1](#fn_67.md) which is abundantly evident from the great
 rewards they gave to the bards, the scalds, the gleemen, and the
 minstrels, who were successively the favourites of the opulent, and the
 idols of the vulgar. The continual encouragement given to these
@@ -1691,15 +1691,15 @@ noises that fill the ear, such as the firing of cannon, beating of
 drums, and the ringing of bells; so that it is common for a number of
 them that have got a glass in their heads to get up into some belfry and
 ring the bells for hours together for the sake of exercise." <span
-id="fr_68"></span>[1](#fn_68) Polydore Vergil mentions another
+id="fr_68"></span>[1](#fn_68.md) Polydore Vergil mentions another
 remarkable singularity belonging to the English, who celebrated the
 festival of Christmas with plays, masques, and magnificent spectacles,
 together with games at dice and dancing, which, he tells us, was as
 ancient as the year 1170, and not customary with other nations; <span
-id="fr_69"></span>[2](#fn_69) and with respect to the Christmas prince,
+id="fr_69"></span>[2](#fn_69.md) and with respect to the Christmas prince,
 or lord of the misrule, he was, as the same author informs us, a
 personage almost peculiar to this country. <span
-id="fr_70"></span>[3](#fn_70)
+id="fr_70"></span>[3](#fn_70.md)
 
 BAITING OF ANIMALS.--It were well if these singularities were the only
 vulnerable parts of the national character of our ancestors; but it must
@@ -1715,7 +1715,7 @@ the like ingenious recreations of the bear-garden. I wish I knew how to
 answer this reproach which is cast upon us, and excuse the death of so
 many innocent cocks, bulls, dogs, and bears, as have been set together
 by the ears, or died an untimely death, only to make us sport." <span
-id="fr_71"></span>[4](#fn_71)
+id="fr_71"></span>[4](#fn_71.md)
 
 PASTIMES FORMERLY ON SUNDAYS.--I know not of any objection that can have
 more weight in the condemnation of these national barbarisms, than the
@@ -1723,12 +1723,12 @@ time usually appropriated for the exhibition of them; which, it seems,
 was the after part of the Sunday. The same portion of time also was
 allotted for the performance of plays, called, in the writings of the
 sixteenth and seventeenth centuries, "vaine playes and interludes
-"; <span id="fr_72"></span>[5](#fn_72) to which are added, "dice and
+"; <span id="fr_72"></span>[5](#fn_72.md) to which are added, "dice and
 card-playing, dancing, and other idle pastimes." Stephen Gosson, a very
 zealous, if not a very correct writer, declaiming vehemently against
 plays and players, says of the latter, "because they are permitted to
 play every Sunday, they make four or five Sundayes at leaste every
-weeke." <span id="fr_73"></span>[6](#fn_73) Nor is he less severe upon
+weeke." <span id="fr_73"></span>[6](#fn_73.md) Nor is he less severe upon
 those who frequented such amusements: "To celebrate the Sabbath," says
 he, "they go to the theatres, and there keepe a general market of
 bawdrie; by
@@ -1746,7 +1746,7 @@ lying for the whetstone, heathenishe dauncing for the ring, a beare or a
 bull to be baited, or else a jackanapes to ride on horsebacke, or an
 interlude to be plaide; and, if no place else can be gotten, this
 interlude must be playde in the church. We speak not of ringing after
-mattins is done." <span id="fr_74"></span>[1](#fn_74) To what has been
+mattins is done." <span id="fr_74"></span>[1](#fn_74.md) To what has been
 said, I shall add the following verses, which made their appearance
 rather earlier than either of the foregoing publications; and they
 describe, with much accuracy I doubt not, the manner of spending the
@@ -1762,7 +1762,7 @@ Some others trie their skill in gonnes; some wrastell all the day;
 And some to schooles of fence do goe, to gaze upon the play;  
 Another sort there is, that doe not love abroad to roame,  
 But, for to passe their time at cardes, or tables, still at home." <span
-id="fr_75"></span>[2](#fn_75)
+id="fr_75"></span>[2](#fn_75.md)
 
 ROYAL INTERFERENCE WITH SUNDAY PASTIMES.--Citations to this purpose
 might be made from infinity of pamphlets, written professedly against
@@ -1781,7 +1781,7 @@ parts of the community were not without effect. In the twenty-second
 year of the reign of Elizabeth, the magistrates of the city of London
 obtained from the queen an edict, "that all heathenish playes and
 interludes should be banished upon Sabbath days"; <span
-id="fr_76"></span>[3](#fn_76) a but this restriction, I apprehend, was
+id="fr_76"></span>[3](#fn_76.md) a but this restriction, I apprehend, was
 confined to the jurisdiction of the lord mayor; for, it is certain that
 such amusements were publicly exhibited in other districts, and
 especially
@@ -1841,7 +1841,7 @@ With sundry sorts of maskers brave, in strange attire arrai’d."
 <span id="page_l">p. l</span>
 
 DICE AND CARDS.--The Saxons and the Danes, as we have observed
-already, <span id="fr_77"></span>[1](#fn_77) were much addicted to
+already, <span id="fr_77"></span>[1](#fn_77.md) were much addicted to
 gaming; and the same destructive propensity was equally prevalent among
 the Normans. The evil consequences arising from the indulgence of this
 pernicious pleasure have in all ages called loudly for reprehension, and
@@ -1876,7 +1876,7 @@ hundred shillings, to be paid to the archbishops in the army; the two
 monarchs had the privilege of playing for what they pleased; but their
 attendants were restricted to the sum of twenty shillings; and, if they
 exceeded, they were to be whipped naked through the army for three
-days. <span id="fr_78"></span>[2](#fn_78)
+days. <span id="fr_78"></span>[2](#fn_78.md)
 
 STATUTES AGAINST DICE, CARDS, BALL-PLAY, ETC.--The decrees established
 by the council held at 'Worcester, in the twenty-fourth year of Henry
@@ -1892,18 +1892,18 @@ great detriment of military exercises, and of archery in particular.
 <span id="page_li">p. li</span>
 
 In the eleventh year of Henry VII. cards are first mentioned among the
-games prohibited by the law; <span id="fr_79"></span>[1](#fn_79) and at
+games prohibited by the law; <span id="fr_79"></span>[1](#fn_79.md) and at
 that time they seem to have been very generally used; for, the edict
 expressly forbids the practice of card-playing to apprentices, excepting
 the duration of the Christmas holidays, and then only in their masters'
-houses. <span id="fr_80"></span>[2](#fn_80) We learn from Stow, that
+houses. <span id="fr_80"></span>[2](#fn_80.md) We learn from Stow, that
 these holidays extended "from All-Hallows evening to the day after
 Candlemasday, when," says the historian, "there was, among other sports,
 playing at cards for counters, nailes, and points in every house, more
-for pastime than for gain." <span id="fr_81"></span>[3](#fn_81) The
+for pastime than for gain." <span id="fr_81"></span>[3](#fn_81.md) The
 recreations prohibited by proclamation in the reign of Edward III.,
 exclusive of the games of chance, are thus specified; throwing of
-stones, <span id="fr_82"></span>[4](#fn_82) wood, or iron; playing at
+stones, <span id="fr_82"></span>[4](#fn_82.md) wood, or iron; playing at
 hand-ball, foot-ball, club-ball, and cambucam, which I take to have been
 a species of goff, and probably received its name from the crooked bat
 with which it was played. These games, as before observed, were not
@@ -1912,14 +1912,14 @@ they engrossed too much of the leisure and attention of the populace,
 and diverted their minds from the pursuits of a more martial nature. I
 should not forget to add, that "bull-baiting and cock-fighting" are
 included with "other dishonest games as trivial and useless." In <span
-id="fr_83"></span>[5](#fn_83) the reign of Edward IV. we find coits,
+id="fr_83"></span>[5](#fn_83.md) the reign of Edward IV. we find coits,
 closh or claish, kayles or nine-pins, half-bowl, hand-in and hand-out,
 with quick-borde, classed among the unlawful amusements; <span
-id="fr_84"></span>[6](#fn_84) which list was considerably augmented in
+id="fr_84"></span>[6](#fn_84.md) which list was considerably augmented in
 the succeeding reigns, and especially in the eighteenth year of Henry
 VIII., when bowling, loggating, playing at tennis, dice, cards and
 tables, or back-gammon, were included. <span
-id="fr_85"></span>[7](#fn_85)
+id="fr_85"></span>[7](#fn_85.md)
 
 In the preamble to the Parliamentary Statutes as early as the sixth year
 of Edward III., there is a clause prohibiting of boys or others from
@@ -1951,7 +1951,7 @@ forsaken? I over-pass it; for, by the means of closeing in of common
 grounds, our archers, for want of room to shoot abroad, creep into
 bowling-alleys and ordinarie diceing-houses neer home, where they have
 room enough to hazard their money at unlawful games." <span
-id="fr_86"></span>[1](#fn_86) He also tells us, that "Northumberland
+id="fr_86"></span>[1](#fn_86.md) He also tells us, that "Northumberland
 house, in the parish of St Katherine Coleman, belonging to Henry Percy,
 Earl of Northumberland, in the thirty-third year of Henry the Sixth; but
 of late, being deserted by that noble family, the gardens were converted
@@ -1962,7 +1962,7 @@ in the other parts of the city and its suburbs, that this parent spot,"
 or, as he afterwards calls it, "the ancient and only patron of misrule,
 is forsaken of its gamesters." And here we may add the following remark
 from an author somewhat more ancient than Stow: <span
-id="fr_87"></span>[2](#fn_87) "common bowling-alleyes are privy mothes
+id="fr_87"></span>[2](#fn_87.md) "common bowling-alleyes are privy mothes
 that eat up the credit of many idle citizens, whose gaynes at home are
 not able to weigh downe theyr losses abroad; whose shoppes are so farre
 from maintaining their play, that theyr wives and children cry out for
@@ -1991,7 +1991,7 @@ these:
 "Halking, hunting, and swift horse running  
 Are changit all in wrangus, wynning;  
 There is no play but cartes and dyce," etc. <span
-id="fr_88"></span>[3](#fn_88)
+id="fr_88"></span>[3](#fn_88.md)
 
 <span id="page_liii">p. liii</span>
 
@@ -2007,14 +2007,14 @@ auspices during the reign of Elizabeth and James I. Sir Miles Partridge
 threw dice with Henry VIII. for the great Jesus bells in "the tower of
 St Paul's, London, and won them; but the ropes afterwards catched about
 his neck, for in Edward the Sixth's days he was hanged for some criminal
-offences." <span id="fr_89"></span>[1](#fn_89)
+offences." <span id="fr_89"></span>[1](#fn_89.md)
 
 \* Modern club gaming in England is said to date from 1777 or 1778. In a
 pamphlet as to gambling by an M. P., published in 1784, it is stated
 that thirty years before there was but one gaming club in the
 metropolis, and the stakes very low, namely crowns or half-crowns, but
 at that date the clubs were numerous, and the fashion of high stakes
-generally prevalent. <span id="fr_90"></span>[2](#fn_90)
+generally prevalent. <span id="fr_90"></span>[2](#fn_90.md)
 
 \* *Roulette* or *Roly Poly* tables, so called from the balls used in
 them, were introduced into England about 1739, and were first set up at
@@ -2052,7 +2052,7 @@ their performances
 
 were not only held in very high estimation at home, but were equally
 prised upon the continent, where none were produced that could be placed
-in competition with them. <span id="fr_91"></span>[1](#fn_91)
+in competition with them. <span id="fr_91"></span>[1](#fn_91.md)
 
 DANCING AND CHESS PLAY.--Dancing was certainly an ancient and favourite
 pastime with the women of this country: the maidens even in a state of
@@ -2070,9 +2070,9 @@ of *Ipomydom*. The passage alluded to runs thus:
 "When they had dyned, as I you saye,  
 Lordes and ladyes yede to to playe;  
 Some to tables, and some to chesse,  
-With other gamys more or lesse." <span id="fr_92"></span>[2](#fn_92)
+With other gamys more or lesse." <span id="fr_92"></span>[2](#fn_92.md)
 
-In another poem, by Gower, <span id="fr_93"></span>[3](#fn_93) a lover
+In another poem, by Gower, <span id="fr_93"></span>[3](#fn_93.md) a lover
 asks his mistress, when she is tired of "dancing and caroling," if she
 was willing to "play at chesse, or on the dyes to cast a chaunce."
 Forrest, speaking in praise of Catharine of Arragon, first wife of Henry
@@ -2081,7 +2081,7 @@ VIII., says, that when she was young,
 "With stoole and with needyl she was not to seeke,  
 And other practiseings for ladyes meete;  
 To pastyme at tables, tick tack or gleeke,  
-Cardis and dyce"--etc. <span id="fr_94"></span>[4](#fn_94)
+Cardis and dyce"--etc. <span id="fr_94"></span>[4](#fn_94.md)
 
 LADIES' RECREATIONS IN THE FOURTEENTH CENTURY.--The English ladies did
 not always confine themselves to domestic pastimes, they sometimes
@@ -2093,11 +2093,11 @@ of their pastimes as much better suited to the modesty and softness of
 the sex. "The women," says he, "instead of laborious studies, have
 curious needle-works, cutworks, spinning, bone-lace making, with other
 pretty devices to adorn houses, cushions, carpets, stool-seats,"
-etc. <span id="fr_95"></span>[5](#fn_95) Not but some of these masculine
+etc. <span id="fr_95"></span>[5](#fn_95.md) Not but some of these masculine
 females have occasionally made their appearance: and at the commencement
 of the last century, it should seem that they were more commonly seen
 than in Burton's time, which gave occasion for the following satirical
-paper in one of the Spectators, <span id="fr_96"></span>[6](#fn_96)
+paper in one of the Spectators, <span id="fr_96"></span>[6](#fn_96.md)
 written
 
 <span id="page_lv">p. lv</span>
@@ -2149,7 +2149,7 @@ several obscurities in the history of former ages.
 
 ### Footnotes
 
-<span id="fn_1"></span>[xvi:1](spe04.htm#fr_1) "These remarks require
+<span id="fn_1"></span>[xvi:1](spe04.htm#fr_1.md) "These remarks require
 some qualification, as the knowledge of the long period of the Roman
 occupation, as well as of the times immediately preceding their first
 invasion, have become more accurately known in the last half of the
@@ -2168,25 +2168,25 @@ evidence of a superior race, with higher acquirements than was supposed
 to be the case at the time when these pages were first written, and of
 their acquaintance with various breeds of dogs.
 
-<span id="fn_2"></span>[xvi:2](spe04.htm#fr_2) Pontoppidan's *History of
+<span id="fn_2"></span>[xvi:2](spe04.htm#fr_2.md) Pontoppidan's *History of
 Norway*, p. 248.
 
-<span id="fn_3"></span>[xvii:1](spe04.htm#fr_3) Oläi. Worm. Lit. Run. p.
+<span id="fn_3"></span>[xvii:1](spe04.htm#fr_3.md) Oläi. Worm. Lit. Run. p.
 129; Bartholin. p. 420.
 
-<span id="fn_4"></span>[xvii:2](spe04.htm#fr_4) Asser. in Vit. Ælfredi.
+<span id="fn_4"></span>[xvii:2](spe04.htm#fr_4.md) Asser. in Vit. Ælfredi.
 b
 
-<span id="fn_5"></span>[xviii:1](spe04.htm#fr_5) De Moribus Germ.
+<span id="fn_5"></span>[xviii:1](spe04.htm#fr_5.md) De Moribus Germ.
 
-<span id="fn_6"></span>[xviii:2](spe04.htm#fr_6) Hist. Ramsien. aped
+<span id="fn_6"></span>[xviii:2](spe04.htm#fr_6.md) Hist. Ramsien. aped
 Gale, vol. i. an. 85.
 
-<span id="fn_7"></span>[xviii:3](spe04.htm#fr_7) No. 2293, fol. rob.
+<span id="fn_7"></span>[xviii:3](spe04.htm#fr_7.md) No. 2293, fol. rob.
 
-<span id="fn_8"></span>[xix:1](spe04.htm#fr_8) The cross-bow.
+<span id="fn_8"></span>[xix:1](spe04.htm#fr_8.md) The cross-bow.
 
-<span id="fn_9"></span>[xx:1](spe04.htm#fr_9) *Morte Arthur*, translated
+<span id="fn_9"></span>[xx:1](spe04.htm#fr_9.md) *Morte Arthur*, translated
 from the French by Sir Thomas Malory, knight, and first printed by
 Caxton, A.D. 1481. "The English," says a writer of our own country, "are
 so naturally inclined to pleasure, that there is no countrie wherein
@@ -2197,273 +2197,273 @@ are thought to containe more fallow deere than all the Christian world
 besides." *Itinerary of Fynes Moryson*, published in 1617, part iii.
 book iii. cap. 3.
 
-<span id="fn_10"></span>[xxi:1](spe04.htm#fr_10) Written also paume;
+<span id="fn_10"></span>[xxi:1](spe04.htm#fr_10.md) Written also paume;
 that is, hand-tennis.
 
-<span id="fn_11"></span>[xxi:2](spe04.htm#fr_11) *Romance of Three
+<span id="fn_11"></span>[xxi:2](spe04.htm#fr_11.md) *Romance of Three
 Kings' Sons and the King of Sicily*, Harl. MS. 326.
 
-<span id="fn_12"></span>[xxi:3](spe04.htm#fr_12) *Mom. Anc. Cheval.*
+<span id="fn_12"></span>[xxi:3](spe04.htm#fr_12.md) *Mom. Anc. Cheval.*
 tom. i. p. 16.
 
-<span id="fn_13"></span>[xxi:4](spe04.htm#fr_13) Harl. MS. 2252, p. 54b.
+<span id="fn_13"></span>[xxi:4](spe04.htm#fr_13.md) Harl. MS. 2252, p. 54b.
 It is a long poem, extending from p. 54 to p. 84, entitled *The Lyfe of
 Ipomydone, Son to Ermones, King of Toyle* (Apulia).
 
-<span id="fn_14"></span>[xxi:5](spe04.htm#fr_14) *Ibid*.
+<span id="fn_14"></span>[xxi:5](spe04.htm#fr_14.md) *Ibid*.
 
-<span id="fn_15"></span>[xxii:1](spe04.htm#fr_15) Printed by Copeland;
+<span id="fn_15"></span>[xxii:1](spe04.htm#fr_15.md) Printed by Copeland;
 black letter, without date; Garrick's Collection, K. vol. ix.
 
-<span id="fn_16"></span>[xxiv:1](spe04.htm#fr_16) For *vierge eseu*, a
+<span id="fn_16"></span>[xxiv:1](spe04.htm#fr_16.md) For *vierge eseu*, a
 virgin shield, or a white shield, without any devices, such as was borne
 by the tyros in chivalry who had not performed any memorable action.
 
-<span id="fn_17"></span>[xxiv:2](spe04.htm#fr_17) A sword without edge
+<span id="fn_17"></span>[xxiv:2](spe04.htm#fr_17.md) A sword without edge
 or point.
 
-<span id="fn_18"></span>[xxiv:3](spe04.htm#fr_18) That is, with hearts
+<span id="fn_18"></span>[xxiv:3](spe04.htm#fr_18.md) That is, with hearts
 without points, or blunted so that they could do no hurt.
 
-<span id="fn_19"></span>[xxiv:4](spe04.htm#fr_19) Foyne, or loin,
+<span id="fn_19"></span>[xxiv:4](spe04.htm#fr_19.md) Foyne, or loin,
 signifies to push or thrust with the sword, instead of striking.
 
-<span id="fn_20"></span>[xxiv:5](spe04.htm#fr_20) Harl. MS. 69, f. 56.
+<span id="fn_20"></span>[xxiv:5](spe04.htm#fr_20.md) Harl. MS. 69, f. 56.
 
-<span id="fn_21"></span>[xxiv:6](spe04.htm#fr_21) *Ibid*. ff. 4b, 16b,
+<span id="fn_21"></span>[xxiv:6](spe04.htm#fr_21.md) *Ibid*. ff. 4b, 16b,
 18.
 
-<span id="fn_22"></span>[xxiv:7](spe04.htm#fr_22) Hall, *Life of Henry
+<span id="fn_22"></span>[xxiv:7](spe04.htm#fr_22.md) Hall, *Life of Henry
 VIII*.
 
-<span id="fn_23"></span>[xxv:1](spe04.htm#fr_23) *Arte of Rhetorike* by
+<span id="fn_23"></span>[xxv:1](spe04.htm#fr_23.md) *Arte of Rhetorike* by
 Tho. Wilson, fol. 67.
 
-<span id="fn_24"></span>[xxv:2](spe04.htm#fr_24) Fynes Moryson's
+<span id="fn_24"></span>[xxv:2](spe04.htm#fr_24.md) Fynes Moryson's
 *Itinerary*, published A.D. 1617.
 
-<span id="fn_25"></span>[xxvi:1](spe04.htm#fr_25) *Biograph. Brit.* p.
+<span id="fn_25"></span>[xxvi:1](spe04.htm#fr_25.md) *Biograph. Brit.* p.
 1236.
 
-<span id="fn_26"></span>[xxvi:2](spe04.htm#fr_26) No. 17 D. iii.
+<span id="fn_26"></span>[xxvi:2](spe04.htm#fr_26.md) No. 17 D. iii.
 
-<span id="fn_27"></span>[xxvii:1](spe04.htm#fr_27) Crowd is an ancient
+<span id="fn_27"></span>[xxvii:1](spe04.htm#fr_27.md) Crowd is an ancient
 name for the violin.
 
-<span id="fn_28"></span>[xxviii:1](spe04.htm#fr_28) The words of Fitz
+<span id="fn_28"></span>[xxviii:1](spe04.htm#fr_28.md) The words of Fitz
 Stephen are, *Puellarum cithara ducit chores, et pede libero pulsatur
 tellus, usque imminente lunâ*. The word *cithara*, Stow renders, but I
 think not justly, timbrels.
 
-<span id="fn_29"></span>[xxix:1](spe04.htm#fr_29) vol. i. p. 259.
+<span id="fn_29"></span>[xxix:1](spe04.htm#fr_29.md) vol. i. p. 259.
 
-<span id="fn_30"></span>[xxix:2](spe04.htm#fr_30) *Aiken. Oxon.* ii.
+<span id="fn_30"></span>[xxix:2](spe04.htm#fr_30.md) *Aiken. Oxon.* ii.
 col. 812; and see Grainger's *Biographical History*, vol. ii. p. 398.
 8vo. "There is a good illustrated account of these Cotswold Games in
 Chambers' *Book of Days*, i. 712.754.
 
-<span id="fn_31"></span>[xxix:3](spe04.htm#fr_31) In his *Proverbs*,
+<span id="fn_31"></span>[xxix:3](spe04.htm#fr_31.md) In his *Proverbs*,
 part i. chap. 11.
 
-<span id="fn_32"></span>[xxx:1](spe04.htm#fr_32) Bede, *Eccl. Hist.*
+<span id="fn_32"></span>[xxx:1](spe04.htm#fr_32.md) Bede, *Eccl. Hist.*
 lib. ii. cap. 16.
 
-<span id="fn_33"></span>[xxx:2](spe04.htm#fr_33) Henry's *Hist*. vol.
+<span id="fn_33"></span>[xxx:2](spe04.htm#fr_33.md) Henry's *Hist*. vol.
 ii. lib. v. cap. 7.
 
-<span id="fn_34"></span>[xxx:3](spe04.htm#fr_34) See the *Northumberland
+<span id="fn_34"></span>[xxx:3](spe04.htm#fr_34.md) See the *Northumberland
 Family-Book*.
 
-<span id="fn_35"></span>[xxx:4](spe04.htm#fr_35) Johan. Sarisburiensis,
+<span id="fn_35"></span>[xxx:4](spe04.htm#fr_35.md) Johan. Sarisburiensis,
 lib. i. c. viii. p. 34.
 
-<span id="fn_36"></span>[xxxi:1](spe04.htm#fr_36) Pypes made of greene
+<span id="fn_36"></span>[xxxi:1](spe04.htm#fr_36.md) Pypes made of greene
 come are also mentioned in the *Romance of the Rose*.
 
-<span id="fn_37"></span>[xxxii:1](spe04.htm#fr_37) \[Before 1801.\]
+<span id="fn_37"></span>[xxxii:1](spe04.htm#fr_37.md) \[Before 1801.\]
 
-<span id="fn_38"></span>[xxxv:1](spe04.htm#fr_38) Wylie's *History of
+<span id="fn_38"></span>[xxxv:1](spe04.htm#fr_38.md) Wylie's *History of
 England under Henry IV*., vol. iii. ch. 75.
 
-<span id="fn_39"></span>[xxxv:2](spe04.htm#fr_39) Garrick's *Collection
+<span id="fn_39"></span>[xxxv:2](spe04.htm#fr_39.md) Garrick's *Collection
 of Old Plays*, H. vol. iii.
 
-<span id="fn_40"></span>[xxxv:3](spe04.htm#fr_40) No. 2220, fol. 7.
+<span id="fn_40"></span>[xxxv:3](spe04.htm#fr_40.md) No. 2220, fol. 7.
 
-<span id="fn_41"></span>[xxxv:4](spe04.htm#fr_41) Or waits, the band of
+<span id="fn_41"></span>[xxxv:4](spe04.htm#fr_41.md) Or waits, the band of
 city minstrels.
 
-<span id="fn_42"></span>[xxxvi:1](spe04.htm#fr_42) Holinshed, vol. iii.
+<span id="fn_42"></span>[xxxvi:1](spe04.htm#fr_42.md) Holinshed, vol. iii.
 pp. 1091, 1120, etc.
 
-<span id="fn_43"></span>[xxxvii:1](spe04.htm#fr_43) No. 1968, f. 576.
+<span id="fn_43"></span>[xxxvii:1](spe04.htm#fr_43.md) No. 1968, f. 576.
 
-<span id="fn_44"></span>[xxxvii:2](spe04.htm#fr_44) Harl. MS. 2125.
+<span id="fn_44"></span>[xxxvii:2](spe04.htm#fr_44.md) Harl. MS. 2125.
 
-<span id="fn_45"></span>[xxxviii:1](spe04.htm#fr_45) Garrick's
+<span id="fn_45"></span>[xxxviii:1](spe04.htm#fr_45.md) Garrick's
 *Collection of Old Plays*.
 
-<span id="fn_46"></span>[xxxviii:2](spe04.htm#fr_46) Cotton MS. *Titus*,
+<span id="fn_46"></span>[xxxviii:2](spe04.htm#fr_46.md) Cotton MS. *Titus*,
 B. i.
 
-<span id="fn_47"></span>[xxxix:1](spe04.htm#fr_47) The reader may find
+<span id="fn_47"></span>[xxxix:1](spe04.htm#fr_47.md) The reader may find
 accounts of most of these excursions in a work entitled *The Progresses
 of Queen Elizabeth*, in two volumes 4to, published by Mr Nichols.
 
-<span id="fn_48"></span>[xxxix:2](spe04.htm#fr_48) This account is
+<span id="fn_48"></span>[xxxix:2](spe04.htm#fr_48.md) This account is
 chiefly taken from a small pamphlet called *Princely Pleasures at
 Kenelworth Castle*. *Progresses*, vol. i.
 
-<span id="fn_49"></span>[xl:1](spe04.htm#fr_49) Harl. MSS. 6395,
+<span id="fn_49"></span>[xl:1](spe04.htm#fr_49.md) Harl. MSS. 6395,
 entitled Merry Passages and Jests, art. 221.
 
-<span id="fn_50"></span>[xlii:1](spe04.htm#fr_50) A Collection of
+<span id="fn_50"></span>[xlii:1](spe04.htm#fr_50.md) A Collection of
 Ancient Documents respecting the Office of Master of the Revels
 (Halliwell), 1870, *passim*.
 
-<span id="fn_51"></span>[xlii:2](spe04.htm#fr_51) These are given with
+<span id="fn_51"></span>[xlii:2](spe04.htm#fr_51.md) These are given with
 much detail in *Letters and Papers, Hen. VIII*., vol. ii. pp. 1490-1518.
 
-<span id="fn_52"></span>[xlii:3](spe04.htm#fr_52) *Dom. State Papers,
+<span id="fn_52"></span>[xlii:3](spe04.htm#fr_52.md) *Dom. State Papers,
 Elizabeth*, vol. i. 47.
 
-<span id="fn_53"></span>[xliii:1](spe04.htm#fr_53) *Dom. State Papers,
+<span id="fn_53"></span>[xliii:1](spe04.htm#fr_53.md) *Dom. State Papers,
 Elizabeth*, vol. ccxlviii. 120.
 
-<span id="fn_54"></span>[xliii:2](spe04.htm#fr_54) *Ibid*. vol. cclxii.
+<span id="fn_54"></span>[xliii:2](spe04.htm#fr_54.md) *Ibid*. vol. cclxii.
 18.
 
-<span id="fn_55"></span>[xliii:3](spe04.htm#fr_55) *Ibid*. *James I*.,
+<span id="fn_55"></span>[xliii:3](spe04.htm#fr_55.md) *Ibid*. *James I*.,
 vol. ii. 12; vol. lxxxi. 12.
 
-<span id="fn_56"></span>[xliii:4](spe04.htm#fr_56) *Ibid*. *James I*.,
+<span id="fn_56"></span>[xliii:4](spe04.htm#fr_56.md) *Ibid*. *James I*.,
 vol. clxxi. 64.
 
-<span id="fn_57"></span>[xliii:5](spe04.htm#fr_57) *Ibid*. *Charles I*.,
+<span id="fn_57"></span>[xliii:5](spe04.htm#fr_57.md) *Ibid*. *Charles I*.,
 ccv. 32.
 
-<span id="fn_58"></span>[xliii:6](spe04.htm#fr_58) *Ibid*. *Charles I*.,
+<span id="fn_58"></span>[xliii:6](spe04.htm#fr_58.md) *Ibid*. *Charles I*.,
 ccxxxviii. 32.
 
-<span id="fn_59"></span>[xliv:1](spe04.htm#fr_59) *Dom. State Papers,
+<span id="fn_59"></span>[xliv:1](spe04.htm#fr_59.md) *Dom. State Papers,
 Charles II*., vol. xvii.
 
-<span id="fn_60"></span>[xliv:2](spe04.htm#fr_60) 9 *Ibid*. xxxix. 110.
+<span id="fn_60"></span>[xliv:2](spe04.htm#fr_60.md) 9 *Ibid*. xxxix. 110.
 
-<span id="fn_61"></span>[xliv:3](spe04.htm#fr_61) *Ibid*. lxvii. 2.
+<span id="fn_61"></span>[xliv:3](spe04.htm#fr_61.md) *Ibid*. lxvii. 2.
 
-<span id="fn_62"></span>[xliv:4](spe04.htm#fr_62) *Ibid*. xxvi. 61.
+<span id="fn_62"></span>[xliv:4](spe04.htm#fr_62.md) *Ibid*. xxvi. 61.
 
-<span id="fn_63"></span>[xlv:1](spe04.htm#fr_63) There actually was such
+<span id="fn_63"></span>[xlv:1](spe04.htm#fr_63.md) There actually was such
 a monkey exhibited at that time near Charing Cross, but in the bills
 which were given to the public he is called a Wild Hairy Man, and they
 tell us he performed all that the *Spectator* relates concerning him;
 but this subject is treated more fully in the body of the work.
 
-<span id="fn_64"></span>[xlv:2](spe04.htm#fr_64) *Spectator*, vol. i.
+<span id="fn_64"></span>[xlv:2](spe04.htm#fr_64.md) *Spectator*, vol. i.
 No. 14.
 
-<span id="fn_65"></span>[xlv:3](spe04.htm#fr_65) *Ibid*. vol. i. No. 31,
+<span id="fn_65"></span>[xlv:3](spe04.htm#fr_65.md) *Ibid*. vol. i. No. 31,
 dated Thursday, April 5, 1711.
 
-<span id="fn_66"></span>[xlv:4](spe04.htm#fr_66) A man famous at that
+<span id="fn_66"></span>[xlv:4](spe04.htm#fr_66.md) A man famous at that
 time for imitating a variety of musical instruments with his voice, and,
 among others, the bells.
 
-<span id="fn_67"></span>[xlvi:1](spe04.htm#fr_67) "To pass over griefe,"
+<span id="fn_67"></span>[xlvi:1](spe04.htm#fr_67.md) "To pass over griefe,"
 says an author of our own, "the Italians sleepe, the English go to
 playes, the Spaniards lament, and the Irish bowl," etc. Fynes Moryson's
 *Itinerary*, in 1617, part book i. cap. 3.
 
-<span id="fn_68"></span>[xlvii:1](spe04.htm#fr_68) Hentzner's
+<span id="fn_68"></span>[xlvii:1](spe04.htm#fr_68.md) Hentzner's
 *Itinerary*, pp. 88, 89.
 
-<span id="fn_69"></span>[xlvii:2](spe04.htm#fr_69) *Hist. Angl.* lib.
+<span id="fn_69"></span>[xlvii:2](spe04.htm#fr_69.md) *Hist. Angl.* lib.
 xiii.
 
-<span id="fn_70"></span>[xlvii:3](spe04.htm#fr_70) *De Rerum Invent*.
+<span id="fn_70"></span>[xlvii:3](spe04.htm#fr_70.md) *De Rerum Invent*.
 lib. v. cap, 2.
 
-<span id="fn_71"></span>[xlvii:4](spe04.htm#fr_71) *Tatler*, No. 134,
+<span id="fn_71"></span>[xlvii:4](spe04.htm#fr_71.md) *Tatler*, No. 134,
 dated Thursday, Feb. 16, 1709.
 
-<span id="fn_72"></span>[xlvii:5](spe04.htm#fr_72) See a pamphlet
+<span id="fn_72"></span>[xlvii:5](spe04.htm#fr_72.md) See a pamphlet
 written by John Northbrooke, published in the reign of Queen Elizabeth,
 without date.
 
-<span id="fn_73"></span>[xlvii:6](spe04.htm#fr_73) *School of Abuse*,
+<span id="fn_73"></span>[xlvii:6](spe04.htm#fr_73.md) *School of Abuse*,
 published 1579.
 
-<span id="fn_74"></span>[xlviii:1](spe04.htm#fr_74) *Admonition to
+<span id="fn_74"></span>[xlviii:1](spe04.htm#fr_74.md) *Admonition to
 Parliament*, by Tho. Cartwright, published A.D. 1572.
 
-<span id="fn_75"></span>[xlviii:2](spe04.htm#fr_75) *The Pope's
+<span id="fn_75"></span>[xlviii:2](spe04.htm#fr_75.md) *The Pope's
 Kingdom*, book iv. translated from the Latin of Tho. Neogeorgus, by
 Barnabe Googe, and dedicated to Queen Elizabeth, A.D. 1570.
 
-<span id="fn_76"></span>[xlviii:3](spe04.htm#fr_76) John Field, is his
+<span id="fn_76"></span>[xlviii:3](spe04.htm#fr_76.md) John Field, is his
 *Declaration of God's Judgment at Paris Garden*, published A. D. 1603,
 fol. 9.
 
-<span id="fn_77"></span>[l:1](spe04.htm#fr_77) See [p. xx](#page_xx).
+<span id="fn_77"></span>[l:1](spe04.htm#fr_77) See [p. xx](#page_xx.md).
 
-<span id="fn_78"></span>[l:2](spe04.htm#fr_78) Benedict. Abbas, Vit.
+<span id="fn_78"></span>[l:2](spe04.htm#fr_78.md) Benedict. Abbas, Vit.
 Ric. I. edit. à Hearne, tom. ii. p. 610.
 
-<span id="fn_79"></span>[li:1](spe04.htm#fr_79) An. 11, Hen. VII. cap.
+<span id="fn_79"></span>[li:1](spe04.htm#fr_79.md) An. 11, Hen. VII. cap.
 2.
 
-<span id="fn_80"></span>[li:2](spe04.htm#fr_80) No householder might
+<span id="fn_80"></span>[li:2](spe04.htm#fr_80.md) No householder might
 permit the games prohibited by the statute to be practised in their
 houses, excepting on the holidays, as before specified, under the
 penalty of six shillings and eight-pence for every offence.
 
-<span id="fn_81"></span>[li:3](spe04.htm#fr_81) *Survey of London*, p.
+<span id="fn_81"></span>[li:3](spe04.htm#fr_81.md) *Survey of London*, p.
 79.
 
-<span id="fn_82"></span>[li:4](spe04.htm#fr_82) *Pilam manualem,
+<span id="fn_82"></span>[li:4](spe04.htm#fr_82.md) *Pilam manualem,
 pedinam, el bacculoream, et ad cambucam*, etc.
 
-<span id="fn_83"></span>[li:5](spe04.htm#fr_83) Rot. Claus. 39 Ed. III.
+<span id="fn_83"></span>[li:5](spe04.htm#fr_83.md) Rot. Claus. 39 Ed. III.
 m. 23.
 
-<span id="fn_84"></span>[li:6](spe04.htm#fr_84) The magistrates are
+<span id="fn_84"></span>[li:6](spe04.htm#fr_84.md) The magistrates are
 commanded to seize upon the said tables, dice, cards, boules, closhes,
 tennice-balls, etc., and to burn them.
 
-<span id="fn_85"></span>[li:7](spe04.htm#fr_85) An. 17 Edw. II. cap. 3.
+<span id="fn_85"></span>[li:7](spe04.htm#fr_85.md) An. 17 Edw. II. cap. 3.
 
-<span id="fn_86"></span>[lii:1](spe04.htm#fr_86) *Survey of London*, p.
+<span id="fn_86"></span>[lii:1](spe04.htm#fr_86.md) *Survey of London*, p.
 85.
 
-<span id="fn_87"></span>[lii:2](spe04.htm#fr_87) Stephen Gosson, in *The
+<span id="fn_87"></span>[lii:2](spe04.htm#fr_87.md) Stephen Gosson, in *The
 School of Abuse*, 1579.
 
-<span id="fn_88"></span>[lii:3](spe04.htm#fr_88) An old anonymous poem
+<span id="fn_88"></span>[lii:3](spe04.htm#fr_88.md) An old anonymous poem
 "of Covetice," cited by Warton, *History of Poetry*, vol. ii. p. 316.
 
-<span id="fn_89"></span>[liii:1](spe04.htm#fr_89) Harl. Misc.
+<span id="fn_89"></span>[liii:1](spe04.htm#fr_89.md) Harl. Misc.
 
-<span id="fn_90"></span>[liii:2](spe04.htm#fr_90) Steinmetz *Gaming
+<span id="fn_90"></span>[liii:2](spe04.htm#fr_90.md) Steinmetz *Gaming
 Table* (1870) i. ch. vi.
 
-<span id="fn_91"></span>[liv:1](spe04.htm#fr_91) In the *Manners and
+<span id="fn_91"></span>[liv:1](spe04.htm#fr_91.md) In the *Manners and
 Customs of the English*; the *Chronicle of England*; and more
 particularly in the *View of the Dresses of the English*, vol. i. p. 73,
 vol. ii. p. 140, etc.
 
-<span id="fn_92"></span>[liv:2](spe04.htm#fr_92) Harl. MS. 2252.
+<span id="fn_92"></span>[liv:2](spe04.htm#fr_92.md) Harl. MS. 2252.
 
-<span id="fn_93"></span>[liv:3](spe04.htm#fr_93) *Confessio Amantis*.
+<span id="fn_93"></span>[liv:3](spe04.htm#fr_93.md) *Confessio Amantis*.
 
-<span id="fn_94"></span>[liv:4](spe04.htm#fr_94) Warton's *History of
+<span id="fn_94"></span>[liv:4](spe04.htm#fr_94.md) Warton's *History of
 English Poetry*, vol. iii. p. 311.
 
-<span id="fn_95"></span>[liv:5](spe04.htm#fr_95) Part ii. sect. 2, cap.
+<span id="fn_95"></span>[liv:5](spe04.htm#fr_95.md) Part ii. sect. 2, cap.
 4.
 
-<span id="fn_96"></span>[liv:6](spe04.htm#fr_96) No. 55, A.D. 1711.
+<span id="fn_96"></span>[liv:6](spe04.htm#fr_96.md) No. 55, A.D. 1711.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](spe05)
+[Next: Chapter I](spe05.md)

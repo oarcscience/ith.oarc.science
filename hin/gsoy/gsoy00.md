@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Next](gsoy01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Next](gsoy01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ The Intuition of the Will.</p></td>
 <span id="img_front"></span> <span align="CENTER"> [![Mahāvēra&lt;br&gt;
 &lt;i&gt;ca 11th Century&lt;/i&gt;NORTH CENTRAL INDIAN
 STONE](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Mahāvēra  
 *ca 11th Century*—NORTH CENTRAL INDIAN STONE  
 </span>
@@ -61,16 +61,16 @@ this Notice of Attribution is left intact in all copies.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](gsoy01)
+[Next: Table of Contents](gsoy01.md)

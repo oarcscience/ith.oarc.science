@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl33)  [Next](orl35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl33)  [Next](orl35.md) 
 
 ------------------------------------------------------------------------
 
@@ -1050,4 +1050,4 @@ With that kind audience ye are wont to lend.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 35](orl35)
+[Next: Canto 35](orl35.md)

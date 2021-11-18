@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](tdp02)  [Next](tdp04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](tdp02)  [Next](tdp04.md) 
 
 ------------------------------------------------------------------------
 
@@ -220,4 +220,4 @@ Whltfield M.A
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: By the Peat Filled Hearth](tdp04)
+[Next: Chapter III: By the Peat Filled Hearth](tdp04.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb06)  [Next](gyfb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb06)  [Next](gyfb08.md) 
 
 </div>
 
@@ -178,6 +178,6 @@ they were immediately married.
 
 ------------------------------------------------------------------------
 
-[Next: The Partnership of the Thief and the Liar](gyfb08)
+[Next: The Partnership of the Thief and the Liar](gyfb08.md)
 
 </div>

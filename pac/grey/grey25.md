@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey24)  [Next](grey26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey24)  [Next](grey26.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_226">p. 226</span>
 
-# The Story of Te Huhuti <span id="fr_23"></span>[1](#fn_23)
+# The Story of Te Huhuti <span id="fr_23"></span>[1](#fn_23.md)
 
 NOW this woman, Te Huhuti, was just like Hine-Moa. As Hine-Moa swam Lake
 Rotorua, so Te Huhuti swam Lake Roto-a-Tara. She belonged to the
@@ -62,10 +62,10 @@ as her husband.
 
 ### Footnotes
 
-<span id="fn_23"></span>[226:1](grey25.htm#fr_23) This legend was not
+<span id="fn_23"></span>[226:1](grey25.htm#fr_23.md) This legend was not
 given in the original English 1855 version of the text, but was included
 in the 1854 Maori edition. The translation is by W.W. Bird.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix: On the Native Songs of New Zealand](grey26)
+[Next: Appendix: On the Native Songs of New Zealand](grey26.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj48) 
-[Next](npj50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj48.md) 
+[Next](npj50.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ Death.
 
 ------------------------------------------------------------------------
 
-[Next: Hotoke no Hara](npj50)
+[Next: Hotoke no Hara](npj50.md)

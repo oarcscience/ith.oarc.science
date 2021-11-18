@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs22)  [Next](mhs24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs22)  [Next](mhs24.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ mystical door of life.
 
 ------------------------------------------------------------------------
 
-[Next: XXI. Conclusion](mhs24)
+[Next: XXI. Conclusion](mhs24.md)

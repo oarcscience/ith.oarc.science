@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna14)  [Next](ntna16) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna14)  [Next](ntna16.md) 
 
 ------------------------------------------------------------------------
 
@@ -188,4 +188,4 @@ called *Ball-duk* that almost every man wears round his neck.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: Decorative Art](ntna16)
+[Next: Chapter XIV: Decorative Art](ntna16.md)

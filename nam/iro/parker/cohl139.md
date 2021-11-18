@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl138)  [Next](cohl140) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl138)  [Next](cohl140.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ Eniaiehuk.
 
 ------------------------------------------------------------------------
 
-[Next: Section 129](cohl140)
+[Next: Section 129](cohl140.md)

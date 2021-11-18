@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](co1)  [Next](gal) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](co1)  [Next](gal.md) 
 
 ------------------------------------------------------------------------
 
@@ -1570,4 +1570,4 @@ Kaurinþium ·b· meliþ ist us Filippai Makidonais.
 
 ------------------------------------------------------------------------
 
-[Next: Galatians](gal)
+[Next: Galatians](gal.md)

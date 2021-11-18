@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml27)  [Next](tml29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml27)  [Next](tml29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -27,9 +27,9 @@ Kingdom--The Maelstrom--Tale of Two Brothers--A Deal with the Devil
 --Wonderful Quern Stones--The Covetous Brother--Flood of Broth--The
 House by the Sea--A Skipper's Bargain--Why the Sea is salt.
 
-"AMLODE'S mealbin", <span id="fr_58"></span>[1](#fn_58) which the Prince
+"AMLODE'S mealbin", <span id="fr_58"></span>[1](#fn_58.md) which the Prince
 of Denmark called the "Mill of Storms ", Was also named by skalds
-"Frode's Mill". <span id="fr_59"></span>[2](#fn_59)
+"Frode's Mill". <span id="fr_59"></span>[2](#fn_59.md)
 
 King Frode was a wise and just king, and there was peace when he reigned
 in Denmark. Harvests were abundant, so that there was no lack of food,
@@ -84,7 +84,7 @@ other days. In the home of
 <span id="page_248">p. 248</span>
 
 giants we whirled it round, so that the earth trembled and thunder
-bellowed in the caves. <span id="fr_60"></span>[1](#fn_60) Frode hath
+bellowed in the caves. <span id="fr_60"></span>[1](#fn_60.md) Frode hath
 not done wisely."
 
 Thus did they complain, weary of grinding, and Fenja at length
@@ -293,20 +293,20 @@ on as the skipper bade it to do. . . . That is why the sea is salt.
 
 ### Footnotes
 
-<span id="fn_58"></span>[246:1](tml28.htm#fr_58) The following is an
+<span id="fn_58"></span>[246:1](tml28.htm#fr_58.md) The following is an
 extract from a tenth-century Icelandic saga which makes reference to
 Hamlet: "'Tis said that far out, off yonder headland, the nine maids of
 the Island-mill stir amain the host-cruel skerry-quern--they who in ages
 past ground Amlode's (Hamlet's) meal".
 
-<span id="fn_59"></span>[246:2](tml28.htm#fr_59) Frode is the god Frey
+<span id="fn_59"></span>[246:2](tml28.htm#fr_59.md) Frode is the god Frey
 humanized. His crops were ground on the World-mill. According to an
 Eddic poem his servant Bygver divided food among men. This elf is of the
 mill-brownie type so familiar in folktales.
 
-<span id="fn_60"></span>[248:1](tml28.htm#fr_60) See chapter "The Winter
+<span id="fn_60"></span>[248:1](tml28.htm#fr_60.md) See chapter "The Winter
 War".
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV. Land of the Not-dead and many Marvels](tml29)
+[Next: Chapter XXIV. Land of the Not-dead and many Marvels](tml29.md)

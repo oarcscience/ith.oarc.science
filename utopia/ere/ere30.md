@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](ere29)  [Next](ere31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](ere29)  [Next](ere31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -295,4 +295,4 @@ uncorrected by instinct is as bad as instinct uncorrected by reason.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII: Escape](ere31)
+[Next: Chapter XXVIII: Escape](ere31.md)

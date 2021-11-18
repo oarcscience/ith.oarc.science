@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Next](fau01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Next](fau01.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ Legends](../../index)  [Celtic](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Fairies, by Gertrude M. Faulding](fau01)
+[Next: Fairies, by Gertrude M. Faulding](fau01.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng08)  [Next](vlsng10) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng08)  [Next](vlsng10.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: The Death of King Siggeir and of Stigny.](vlsng10)
+[Next: Chapter VIII: The Death of King Siggeir and of Stigny.](vlsng10.md)

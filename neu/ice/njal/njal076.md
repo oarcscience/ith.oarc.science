@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal075)  [Next](njal077) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal075)  [Next](njal077.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ Horsebeck in Grimsness.
 
 ------------------------------------------------------------------------
 
-[Next: 77. Gunnar Sings A Song Dead](njal077)
+[Next: 77. Gunnar Sings A Song Dead](njal077.md)

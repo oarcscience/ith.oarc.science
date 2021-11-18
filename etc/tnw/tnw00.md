@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Next](tnw01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Next](tnw01.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,25 +52,25 @@ Of unexplained power in the Mysteries."<br />
 <span id="img_cover"></span>
 
 [![Front Cover and Spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover and Spine  
 
 <span id="img_inside"></span>
 
 [![Inside front cover (note Autograph)](tn/inside.jpg)  
-Click to enlarge](img/inside.jpg)  
+Click to enlarge](img/inside.jpg.md)  
 Inside front cover (note Autograph)  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 Scanned at Intangible Textual Heritage, February 2006. Proofed and
@@ -81,4 +81,4 @@ of attribution is left intact.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](tnw01)
+[Next: Table of Contents](tnw01.md)

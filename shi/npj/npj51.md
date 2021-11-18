@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj50) 
-[Next](npj52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj50.md) 
+[Next](npj52.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ eight chapters in the Hokke Scripture. If the four goal-posts are added
 the number obtained is twelve, which is the number of the Causes and
 Effects which govern life. Do not think of football as a secular game."
 
-The play ends with a "[football](errata.htm#6) ballet."
+The play ends with a "[football](errata.htm#6.md) ballet."
 
 The *Journal* of the great twelfth century footballer, Fujiwara no
 Narimichi, contains the following story: "I had brought together the
@@ -47,4 +47,4 @@ And so saying they disappeared.
 
 ------------------------------------------------------------------------
 
-[Next: Tōru](npj52)
+[Next: Tōru](npj52.md)

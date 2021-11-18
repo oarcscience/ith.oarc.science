@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
 
 ------------------------------------------------------------------------
 

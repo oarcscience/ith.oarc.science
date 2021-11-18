@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](syma36)  [Next](syma38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](syma36)  [Next](syma38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symbolical Masonry*, by H.L. Haywood, \[1923\], at Intangible Textual
 Heritage
 
@@ -172,4 +172,4 @@ Great Hope of Man, the one certain pledge of Progress.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIV. The Two Great Pillars](syma38)
+[Next: Chapter XXXIV. The Two Great Pillars](syma38.md)

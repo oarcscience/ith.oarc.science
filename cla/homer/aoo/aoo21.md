@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo20)  [Next](aoo22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo20)  [Next](aoo22.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ the battle began anew.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII](aoo22)
+[Next: Chapter XXII](aoo22.md)

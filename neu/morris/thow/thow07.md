@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](thow06)  [Next](thow08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](thow06)  [Next](thow08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Wolfings*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -71,7 +71,7 @@ battle?"
 us come back again, and spoke of the day of our return; but that
 methinks, as thou and I would talk of it, thinking what would be likely
 to befal. Since we are a great host of valiant men, and these
-Welshmen <span id="fr_1"></span>[2](#fn_1) most valiant, and as the
+Welshmen <span id="fr_1"></span>[2](#fn_1.md) most valiant, and as the
 rumour runneth bigger-bodied men than the Hun-folk, and so well ordered
 as never folk have been.  So then if we overthrow them we shall come
 back again; and if they overthrow us, the remnant of us shall fall back
@@ -335,12 +335,12 @@ voices of his fellows stirring awakened him.
 
 ### Footnotes
 
-<span id="fn_1"></span>[2](thow07.htm#fr_1) i.e. Foreigners: see note 1.
+<span id="fn_1"></span>[2](thow07.htm#fr_1.md) i.e. Foreigners: see note 1.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII—They Gather to the Folk-Mote](thow08)
+[Next: Chapter VII—They Gather to the Folk-Mote](thow08.md)
 
 </div>

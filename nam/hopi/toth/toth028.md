@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth027)  [Next](toth029) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth027)  [Next](toth029.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 25. HOW THE ANTELOPE MAIDEN WAS RECONCILED. <span id="fr_66"></span>[1](#fn_64)
+## 25. HOW THE ANTELOPE MAIDEN WAS RECONCILED. <span id="fr_66"></span>[1](#fn_64.md)
 
 Alíksai! At Zuni the people were living, and the two sons of the village
 chief were racing with each other. At a place called Aámusha some one
@@ -46,7 +46,7 @@ feathers, and finally gave his boy some tobacco and then sent him (on
 his errand. Going south, he all at once heard some one calling, and saw
 Pöokónghoya and his brother, both being very small, wandering and
 playing around there. He went first to the house where Spider Woman (Só
-Wuhti), <span id="fr_67"></span>[1](#fn_65) the grandmother of the two
+Wuhti), <span id="fr_67"></span>[1](#fn_65.md) the grandmother of the two
 brothers lived. She called to the latter and said, "Stop, and come here,
 some one has come," but they at first did not listen; so she called
 again. They then came into the kiva and the messenger, handing them the
@@ -72,8 +72,8 @@ were seated, Hû'k'angwuu asked him why he had come, then he related his
 story. Hû'k'angwuu then said: "Let us smoke, then we will see what we
 think about it." So he got out a large pipe and the young man smoked,
 swallowing all the smoke without again exhaling it. He then said to his
-host. "Itáha!" <span id="fr_68"></span>[2](#fn_66) "Itíwaya," <span
-id="fr_69"></span>[3](#fn_67) the uncle replied; and then added: "You
+host. "Itáha!" <span id="fr_68"></span>[2](#fn_66.md) "Itíwaya," <span
+id="fr_69"></span>[3](#fn_67.md) the uncle replied; and then added: "You
 are surely my nephew. Now, what is it that you want? what has happened?"
 He then said: "My older brother and I were racing there and came to a
 place where a beautiful maiden called us and she drew my brother up, and
@@ -99,7 +99,7 @@ brother, and now my uncle, Storm, told me to come here and see you. Now,
 are you the ones, and what now? What do you think about it?" "We shall
 see," they said, and then began to smoke. The young man again swallowed
 all the smoke, which pleased the Snakes <span
-id="fr_70"></span>[1](#fn_68) and they said, "You are truly our nephew.
+id="fr_70"></span>[1](#fn_68.md) and they said, "You are truly our nephew.
 What is it that you want?" ''Yes," he said, "we were racing there and
 that maiden drew up my elder brother and said that she did not want our
 stone beads even if we would bring them.'' "Yes," the Snakes said, "she
@@ -150,22 +150,22 @@ killed no more people, and the Zunis were freed from this danger.
 
 ### Footnotes
 
-<span id="fn_64"></span>[99:1](toth028.htm#fr_66) Told by Tawíima
+<span id="fn_64"></span>[99:1](toth028.htm#fr_66.md) Told by Tawíima
 (Mishóngnovi).
 
-<span id="fn_65"></span>[100:1](toth028.htm#fr_67) Kohk'ang Wuhti
+<span id="fn_65"></span>[100:1](toth028.htm#fr_67.md) Kohk'ang Wuhti
 (Spider Woman) is often called Só Wuhti (Old Woman or Grandmother).
 
-<span id="fn_66"></span>[100:2](toth028.htm#fr_68) My uncle (on father's
+<span id="fn_66"></span>[100:2](toth028.htm#fr_68.md) My uncle (on father's
 side).
 
-<span id="fn_67"></span>[100:3](toth028.htm#fr_69) My nephew (on
+<span id="fn_67"></span>[100:3](toth028.htm#fr_69.md) My nephew (on
 brother's side).
 
-<span id="fn_68"></span>[101:1](toth028.htm#fr_70) The idea that
+<span id="fn_68"></span>[101:1](toth028.htm#fr_70.md) The idea that
 swallowing the smoke, when smoking, is considered as an accomplishment,
 requiring special courage and strength, occurs in various Hopi tales.
 
 ------------------------------------------------------------------------
 
-[Next: 26. The Pö'okongs and the Bálölöokong](toth029)
+[Next: 26. The Pö'okongs and the Bálölöokong](toth029.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn10)  [Next](rmn12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn10)  [Next](rmn12.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ derived from γῆ, earth, root of generation; to engender, to produce,
 
 ------------------------------------------------------------------------
 
-[Next: Plate: XI: Drillopota](rmn12)
+[Next: Plate: XI: Drillopota](rmn12.md)

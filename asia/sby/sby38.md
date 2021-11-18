@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby37)  [Next](sby39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby37)  [Next](sby39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -40,14 +40,14 @@ village where their amir resides. It is close to Šeiḫ ‘Adî's.
 Next in importance is Jabal Sinjar. The term "Sinjar" is Persian,
 meaning a bird, perhaps an eagle. It signifies that its inhabitants are,
 like the eagle, safe and cannot be caught. <span
-id="fr_165"></span>[2](#fn_164) Sinjar is about three days' journey from
+id="fr_165"></span>[2](#fn_164.md) Sinjar is about three days' journey from
 Mosul. It is a solitary range, fifty
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_164"></span>[195:2](sby38.htm#fr_165) p. Anastase:
+<span id="fn_164"></span>[195:2](sby38.htm#fr_165.md) p. Anastase:
 *Al-Mašrik*, vol. II, p. 831.
 
 <span id="page_196">p. 196</span>
@@ -71,11 +71,11 @@ region includes all the territory west of the Euphrates and Aleppo. And.
 the Saraḥdar section includes the Caucasus in southern Russia. Some
 regard the Lepchos of India also as Yezidis, who, in the early
 appearance of the sect, went there to proselyte the Hindoos. <span
-id="fr_166"></span>[3](#fn_165)
+id="fr_166"></span>[3](#fn_165.md)
 
-<span id="fn_165"></span>[196:3](sby38.htm#fr_166) Cf. *Al-Mašrik*, vol.
+<span id="fn_165"></span>[196:3](sby38.htm#fr_166.md) Cf. *Al-Mašrik*, vol.
 II, p. 734.
 
 ------------------------------------------------------------------------
 
-[Next: V. Dwellings](sby39)
+[Next: V. Dwellings](sby39.md)

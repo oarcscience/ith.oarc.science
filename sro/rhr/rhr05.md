@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr04)  [Next](rhr06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr04)  [Next](rhr06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -76,10 +76,10 @@ existing
 <span id="page_36">p. 36</span>
 
 in English. The literal translation from the Italian, made by Henry Earl
-of Monmouth, <span id="fr_37"></span>[1](#fn_37) has been taken as the
+of Monmouth, <span id="fr_37"></span>[1](#fn_37.md) has been taken as the
 base. I have compared it with the original, and with the later versions
-which appeared in 1704 <span id="fr_38"></span>[2](#fn_38) and
-1706, <span id="fr_39"></span>[3](#fn_39) and, where possible, I have
+which appeared in 1704 <span id="fr_38"></span>[2](#fn_38.md) and
+1706, <span id="fr_39"></span>[3](#fn_39.md) and, where possible, I have
 abridged it by the elision of unnecessary and embarrassing prolixities.
 
 It is needless to say that the unfortunate Trajano Boccalini had no
@@ -515,7 +515,7 @@ are grown to such a height that they are past cure. Therefore the Great
 Tacitus, who always speaks to the purpose if he be rightly understood,
 doth in this particular advise men. *Omittere potius prævalida et adulta
 vitia, quam hoc assequi, ut palam fieret, quibus flagittiis impares
-essemus*. <span id="fr_40"></span>[1](#fn_40) Those who would fell an
+essemus*. <span id="fr_40"></span>[1](#fn_40.md) Those who would fell an
 old oak are ill-advised if they begin with lopping the top boughs; our
 true method, gentlemen, is to lay the axe to the root, as I do now, in
 affirming that the reformation of the present age consists wholly in
@@ -622,7 +622,7 @@ occupation, and onely fit for kings. Tacitus, the master of policy, that
 he may win the good will of princes, is not ashamed to say, *In summa
 Fortuna id æquis quod vallidius, et sua retinere privatæ domus, de
 alienis certare, regiam laudem esse*. <span
-id="fr_41"></span>[1](#fn_41) If it be true, as all politicians agree,
+id="fr_41"></span>[1](#fn_41.md) If it be true, as all politicians agree,
 that people are the prince's apes, how can those who obey live
 vertuously quiet when their commanders do so abound
 
@@ -717,7 +717,7 @@ case are usually implored from God; this is the true north-star, which,
 in the greatest difficulties, leads men into the harbour of perfection,
 for *Pauci prudentia, honesta ab deterioribus, utilia ab noxiis
 discernunt; plures aliorum eventis docentur*. <span
-id="fr_42"></span>[1](#fn_42) If we approve this consideration, we shall
+id="fr_42"></span>[1](#fn_42.md) If we approve this consideration, we shall
 
 <span id="page_57">p. 57</span>
 
@@ -737,7 +737,7 @@ be made, wherein all boys not above twelve years of age may be saved,
 and that all the female sex, of whatsoever age, be so wholly consumed,
 that nothing but their unhappy memory may remain. And I beseech the same
 Divine Majestie that as He hath granted the singular benefit to bees,
-fishes, beetles, <span id="fr_43"></span>[1](#fn_43) and other animals,
+fishes, beetles, <span id="fr_43"></span>[1](#fn_43.md) and other animals,
 to procreate without the female sex, so He will think men worthy of the
 like favour. I have learnt for certain that as long as there shall be
 any women in the world men will be wicked."
@@ -919,7 +919,7 @@ such purposes, to the people assembled in great numbers in the
 market-place, and was so generally applauded by every one that all
 Parnassus rang with shouts of joy, for the rabble are satisfied with
 trifles, while men of judgment know that *vitia erunt donec
-homines* <span id="fr_44"></span>[1](#fn_44)--as long as there be men
+homines* <span id="fr_44"></span>[1](#fn_44.md)--as long as there be men
 there will be vices--that men live on earth not indeed well, but as
 little ill as they may, and that the height of human wisdom lies in the
 discretion to be content with leaving the world as they found it.
@@ -928,33 +928,33 @@ discretion to be content with leaving the world as they found it.
 
 ### Footnotes
 
-<span id="fn_37"></span>[36:1](rhr05.htm#fr_37) "I. Ragguagli di
+<span id="fn_37"></span>[36:1](rhr05.htm#fr_37.md) "I. Ragguagli di
 Parnasso: or, Advertisements from Parnassus in Two Centuries, with the
 Politick Touchstone. Put into English by the Right Honourable Henry Earl
 of Monmouth." Fol. 1656.
 
-<span id="fn_38"></span>[36:2](rhr05.htm#fr_38) "Advertisements from
+<span id="fn_38"></span>[36:2](rhr05.htm#fr_38.md) "Advertisements from
 Parnassus, Written originally in Italian by the famous Trajano
 Boccalini. Newly done into English, and adapted to the Present Times." 3
 vols. 8vo. 1704. A poor and paraphrastic rendering.
 
-<span id="fn_39"></span>[36:3](rhr05.htm#fr_39) "Advices from Parnassus,
+<span id="fn_39"></span>[36:3](rhr05.htm#fr_39.md) "Advices from Parnassus,
 in Two Centuries, with the Politick Touchstone and an Appendix to it.
 Written by Trajano Boccalini. Translated by several hands." London. Fol.
 1706. The best as regards style, but less literal than the version by
 the Earl of Monmouth.
 
-<span id="fn_40"></span>[50:1](rhr05.htm#fr_40) Tacitus, Lib. 3, Ann.
+<span id="fn_40"></span>[50:1](rhr05.htm#fr_40.md) Tacitus, Lib. 3, Ann.
 
-<span id="fn_41"></span>[53:1](rhr05.htm#fr_41) Tacitus, Lib. V. Ann.
+<span id="fn_41"></span>[53:1](rhr05.htm#fr_41.md) Tacitus, Lib. V. Ann.
 
-<span id="fn_42"></span>[56:1](rhr05.htm#fr_42) Tac., Lib. iv., Ann.
+<span id="fn_42"></span>[56:1](rhr05.htm#fr_42.md) Tac., Lib. iv., Ann.
 
-<span id="fn_43"></span>[57:1](rhr05.htm#fr_43) See [Additional Note,
-No. 3](rhr33.htm#an_n03).
+<span id="fn_43"></span>[57:1](rhr05.htm#fr_43.md) See [Additional Note,
+No. 3](rhr33.htm#an_n03.md).
 
-<span id="fn_44"></span>[63:1](rhr05.htm#fr_44) Tac., Lib. iv., Hist.
+<span id="fn_44"></span>[63:1](rhr05.htm#fr_44.md) Tac., Lib. iv., Hist.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: The Fama Fraternitatis](rhr06)
+[Next: Chapter III: The Fama Fraternitatis](rhr06.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico062) 
-[Next](nico064) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico062.md) 
+[Next](nico064.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ wisdom is the true apprehension.
 ------------------------------------------------------------------------
 
 [Next: Chapter 10. Understanding--the critical quality answering to the
-imperative quality practical wisdom](nico064)
+imperative quality practical wisdom](nico064.md)

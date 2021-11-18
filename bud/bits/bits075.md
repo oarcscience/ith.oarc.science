@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits074) [Next](bits076)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits074) [Next](bits076.md)
 
 ------------------------------------------------------------------------
 
@@ -169,7 +169,7 @@ Nirvana in its empty aspect as empty.
 
 ------------------------------------------------------------------------
 
-[Next: § 76. Nirvana to Be Attained at Death](bits076)
+[Next: § 76. Nirvana to Be Attained at Death](bits076.md)
 
  
 

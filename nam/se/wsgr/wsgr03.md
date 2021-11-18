@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr02)  [Next](wsgr04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr02)  [Next](wsgr04.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ the eye of the sun and made the land dark. Then the wind
 <span id="img_00200"></span>
 
 [![](tn/00200.jpg)  
-Click to enlarge](img/00200.jpg)
+Click to enlarge](img/00200.jpg.md)
 
 <span id="page_3">p. 3</span>
 
@@ -118,4 +118,4 @@ ago the Storm God built the islands for them.
 
 ------------------------------------------------------------------------
 
-[Next: How the North Wind Lost His Hair](wsgr04)
+[Next: How the North Wind Lost His Hair](wsgr04.md)

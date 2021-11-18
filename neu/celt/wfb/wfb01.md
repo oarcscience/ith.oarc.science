@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb00)  [Next](wfb02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb00)  [Next](wfb02.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ not genuinely traditionary.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on Welsh Pronunciation](wfb02)
+[Next: Notes on Welsh Pronunciation](wfb02.md)

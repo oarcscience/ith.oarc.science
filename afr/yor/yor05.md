@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](yor04)  [Next](yor06) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](yor04)  [Next](yor06.md) 
 
 ------------------------------------------------------------------------
 
@@ -212,4 +212,4 @@ their memories.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Priests and Worship.](yor06)
+[Next: Chapter V: Priests and Worship.](yor06.md)

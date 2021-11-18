@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt29)  [Next](crt31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt29)  [Next](crt31.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_24200"></span>
 
 [![Sir Tristram leaps into ye Sea](tn/24200.jpg)  
-Click to enlarge](img/24200.jpg)  
+Click to enlarge](img/24200.jpg.md)  
 Sir Tristram leaps into ye Sea  
 
 <span id="page_243">p. 243</span>
@@ -23,7 +23,7 @@ How Sir Tristram was discovered at Tintagel and of what befell thereby.
 
 NOW during the time that Sir Tristram abode thus unknown at the court of
 Tintagel, he was allowed to wander thereabouts
-[whithersoever](errata.htm#4) he chose, and no one hindered him either
+[whithersoever](errata.htm#4.md) he chose, and no one hindered him either
 in going or in coming. For none in all that place suspected who he was,
 but everyone thought that he was only a poor gentle madman of the
 forest; so he was allowed to wander at will as his fancy led him.
@@ -463,4 +463,4 @@ into safety.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four](crt31)
+[Next: Chapter Four](crt31.md)

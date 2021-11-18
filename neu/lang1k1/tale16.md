@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale15)  [Next](tale17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale15)  [Next](tale17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -190,4 +190,4 @@ astonishing than the first."
 
 ------------------------------------------------------------------------
 
-[Next: Second Voyage](tale17)
+[Next: Second Voyage](tale17.md)

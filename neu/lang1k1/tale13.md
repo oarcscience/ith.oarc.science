@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale12)  [Next](tale14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale12)  [Next](tale14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -361,7 +361,7 @@ clever."
 <span id="img_09500"></span>
 
 [![THE PRINCESS VEILS HERSELF WHEN SHE SEES THE MONKEY](tn/09500.jpg)  
-Click to enlarge](img/09500.jpg)  
+Click to enlarge](img/09500.jpg.md)  
 THE PRINCESS VEILS HERSELF WHEN SHE SEES THE MONKEY  
 
 <span id="page_96">p. 96</span> <span id="page_97">p. 97</span>
@@ -419,7 +419,7 @@ serpent and gave battle to the
 <span id="img_09800"></span>
 
 [![SHE CUT THE LION'S BODY INTO TWO PIECES](tn/09800.jpg)  
-Click to enlarge](img/09800.jpg)  
+Click to enlarge](img/09800.jpg.md)  
 SHE CUT THE LION'S BODY INTO TWO PIECES  
 
 scorpion, who, finding he was getting the worst of it, turned himself
@@ -532,4 +532,4 @@ The other Calender then told his story.
 
 ------------------------------------------------------------------------
 
-[Next: Story of the Third Calendar, Son of a King](tale14)
+[Next: Story of the Third Calendar, Son of a King](tale14.md)

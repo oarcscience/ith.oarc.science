@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos44)  [Next](kos46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos44)  [Next](kos46.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ## CHAPTER IX
 
-### OF <span id="fr_80"></span>[1](#fn_80) THE FORMATION OF THE CIRCLE
+### OF <span id="fr_80"></span>[1](#fn_80.md) THE FORMATION OF THE CIRCLE
 
 HAVING chosen a place for preparing and constructing the Circle, and all
 things necessary being prepared for the perfection of the Operations,
@@ -38,7 +38,7 @@ describe lesser Circles wherein let there be placed standing censers
 with lighted charcoal and sweet odours.
 
 These things being done, let the Magus of Art <span
-id="fr_81"></span>[2](#fn_81) assemble his Disciples, exhort, confirm,
+id="fr_81"></span>[2](#fn_81.md) assemble his Disciples, exhort, confirm,
 and cheer them; lead them into the Circle of Art and station them
 therein towards the Four Quarters of the Universe, exhort
 
@@ -63,7 +63,7 @@ Spirits, and if need be conjure them, as is said in the First Book, and
 having attained his desired effect, let him license them to depart.
 
 Here followeth the Form of the Circle (*see [Figure
-81](kos44.htm#img_kos14)*), wherein whosoever entereth he shall be at
+81](kos44.htm#img_kos14)*.md), wherein whosoever entereth he shall be at
 safety as within a fortified Castle, and nothing shall be able to harm
 him.
 
@@ -71,13 +71,13 @@ him.
 
 ### Footnotes
 
-<span id="fn_80"></span>[99:1](kos45.htm#fr_80) This Chapter is only
+<span id="fn_80"></span>[99:1](kos45.htm#fr_80.md) This Chapter is only
 given in 10862 Add. MSS.
 
-<span id="fn_81"></span>[99:2](kos45.htm#fr_81) 'Maghus' in MS., not
+<span id="fn_81"></span>[99:2](kos45.htm#fr_81.md) 'Maghus' in MS., not
 'Magister.'
 
 ------------------------------------------------------------------------
 
 [Next: Chapter X. Concerning Incense, Suffumigations, Perfumes, Odours,
-And Similar Things Which Are Used In Magical Arts](kos46)
+And Similar Things Which Are Used In Magical Arts](kos46.md)

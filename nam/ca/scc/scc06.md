@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc05)  [Next](scc07) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc05)  [Next](scc07.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ life.
 
 ------------------------------------------------------------------------
 
-[Next: 5.--Rumsien Costanoan. Coyote And His Children.](scc07)
+[Next: 5.--Rumsien Costanoan. Coyote And His Children.](scc07.md)

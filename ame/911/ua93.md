@@ -1,8 +1,8 @@
 <span class="p-small2"> </span>
 
-[Intangible Textual Heritage](../../index)  [Americana](../index)  [9/11
-Index](index)   
-[<img src="eterflam.jpg" height="64" />](index)
+[Intangible Textual Heritage](../../index)  [Americana](../index.md)  [9/11
+Index](index.md)   
+[<img src="eterflam.jpg" height="64" />](index.md)
 
 ------------------------------------------------------------------------
 

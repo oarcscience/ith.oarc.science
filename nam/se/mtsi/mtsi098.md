@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi097)  [Next](mtsi099) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi097)  [Next](mtsi099.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ resembled) devoured them," he said.
 
 ------------------------------------------------------------------------
 
-[Next: 6. The Visit to the Nest of the Monster Bird](mtsi099)
+[Next: 6. The Visit to the Nest of the Monster Bird](mtsi099.md)

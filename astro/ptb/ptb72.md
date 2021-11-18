@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb71)  [Next](ptb73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb71)  [Next](ptb73.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,21 +10,21 @@
 
 IT now remains to treat of the kind and species of death. It is,
 however, first to be determined, by the rules already delivered
-regarding the duration of life, <span id="fr_272"></span>[2](#fn_272)
+regarding the duration of life, <span id="fr_272"></span>[2](#fn_272.md)
 whether death will ensue from an oriental or occidental position of the
 predominating influence. And, if death ensue from some oriental
 position, or meeting of rays, the place of such meeting must be
 observed, and by means of that place the kind of death is to be
 distinguished; if from the descension, or setting, of the significator,
 or prorogator, the place of descension <span
-id="fr_273"></span>[3](#fn_273) must be considered: because death is to
+id="fr_273"></span>[3](#fn_273.md) must be considered: because death is to
 be expected conformable in character to the influences, whatever they
 may be, which preside over the said places; or, if not any influences
 should directly preside, it will then be conformable to the influences,
 of whatever kind, which may be brought first in succession to the places
 in question: the configuration of the stars, the property of the
 aforesaid anæretic places, and the nature of the signs and of the
-terms, <span id="fr_274"></span>[4](#fn_274) are, also, all of them
+terms, <span id="fr_274"></span>[4](#fn_274.md) are, also, all of them
 co-operative.
 
 Thus, for example, if the dominion of death be vested in Saturn, he will
@@ -49,7 +49,7 @@ Venus produces death by disorders of the stomach, and of the liver,
 <span id="page_135">p. 135</span>
 
 by scurvy and dysentry: also by consumption or wasting away, <span
-id="fr_275"></span>[1](#fn_275) and by fistula and poison, and by all
+id="fr_275"></span>[1](#fn_275.md) and by fistula and poison, and by all
 diseases incident on the superabundance or poverty of moisture, and its
 corruption.
 
@@ -69,7 +69,7 @@ will proceed from the concurrence of the malefic influence, and its
 magnitude or remarkable nature from the additional testimony of the
 luminaries: its quality, also, will be known by means of the rest of the
 planets and stars in configuration, and by the signs which contain the
-malefic influence. <span id="fr_276"></span>[2](#fn_276)
+malefic influence. <span id="fr_276"></span>[2](#fn_276.md)
 
 Hence, if it happen that Saturn be in fixed signs, and in quartile or
 opposition to the Sun, and contrary in condition, he will produce death
@@ -81,7 +81,7 @@ beasts: and, if Jupiter also offer testimony, being at the same time
 badly afflicted, the death will then occur in public, and by day; for
 example, by being exposed to combats with wild beasts. If Saturn be
 posited in opposition to either of the luminaries in the
-ascendant, <span id="fr_277"></span>[3](#fn_277) he
+ascendant, <span id="fr_277"></span>[3](#fn_277.md) he
 
 <span id="page_136">p. 136</span>
 
@@ -107,14 +107,14 @@ Venus add her testimony, death will be inflicted by women, or by
 assassins in the employment of women: and, should Mercury also be
 configurated with them, death will happen from robbers, thieves, or
 highwaymen. If Mars be in mutilated or imperfect signs, or near the
-Gorgon <span id="fr_278"></span>[1](#fn_278) of Perseus, he will produce
+Gorgon <span id="fr_278"></span>[1](#fn_278.md) of Perseus, he will produce
 death by decapitation, or by mutilation of limb. If found in Scorpio or
 Taurus, he will cause death by surgical amputation, burning or searing,
 or also by spasms or convulsions. Should he be found in the mid-heaven,
 either above or below the earth, death will be inflicted by crucifixion
 or impalement, and especially if he be in the vicinity of Cepheus or
 Andromeda. If descending, or in opposition to the ascendant, <span
-id="fr_279"></span>[2](#fn_279) he will produce death by fire: and, if
+id="fr_279"></span>[2](#fn_279.md) he will produce death by fire: and, if
 in quadrupedal signs, by falls and fractures. Should Jupiter, however,
 bear testimony to Mars, and be at the same time afflicted, death will
 ensue from the wrath of princes and kings, and from judicial
@@ -131,7 +131,7 @@ and will be devoured by beasts and birds: these circumstances will
 especially ensue, when the malefics may be found in signs similar in
 form to beasts and birds; and provided not any one of the benefics
 should offer testimony to the place below the earth, <span
-id="fr_280"></span>[3](#fn_280) nor to the anæretic places.
+id="fr_280"></span>[3](#fn_280.md) nor to the anæretic places.
 
 <span id="page_137">p. 137</span>
 
@@ -139,27 +139,27 @@ Lastly, death will occur in foreign lands, when it may happen that the
 planets controlling the anæretic places may be posited in cadent houses;
 especially if the Moon be present in the said places also, or if she be
 found in quartile or in opposition. <span
-id="fr_281"></span>[1](ptb73.htm#fn_281)
+id="fr_281"></span>[1](ptb73.htm#fn_281.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_272"></span>[134:2](ptb72.htm#fr_272) *Vide* the 14th
+<span id="fn_272"></span>[134:2](ptb72.htm#fr_272.md) *Vide* the 14th
 Chapter of the 3rd Book; on the number of the modes of prorogation.
 
-<span id="fn_273"></span>[134:3](ptb72.htm#fr_273) That is to say, the
+<span id="fn_273"></span>[134:3](ptb72.htm#fr_273.md) That is to say, the
 sign and degree on the occidental horizon.
 
-<span id="fn_274"></span>[134:4](ptb72.htm#fr_274) See a subsequent
-note, [p. 135](#page_135), which gives an instance of the mode in which
+<span id="fn_274"></span>[134:4](ptb72.htm#fr_274.md) See a subsequent
+note, [p. 135](#page_135.md), which gives an instance of the mode in which
 Placidus applied the power of the terms, in an anæretic direction.
 
-<span id="fn_275"></span>[135:1](ptb72.htm#fr_275) Δια σηψεων. Perhaps
+<span id="fn_275"></span>[135:1](ptb72.htm#fr_275.md) Δια σηψεων. Perhaps
 more properly, putridity or rottenness. The Perugio Latin translation
 renders it by "cancer."
 
-<span id="fn_276"></span>[135:2](ptb72.htm#fr_276) Placidus, in treating
+<span id="fn_276"></span>[135:2](ptb72.htm#fr_276.md) Placidus, in treating
 of the nativity of Lewis, Cardinal Zachia, uses these words: "This
 example also teaches us what the sentiments of Ptolemy were concerning a
 violent death; when, in a peremptory place, both the enemies meet
@@ -170,7 +170,7 @@ happened to be in the terms of Mercury, the sickness was attended with a
 delirium and lethargy, so that you may perceive this to have been the
 true cause of the native's death." (Cooper's Translation, pp. 198, 199.)
 
-<span id="fn_277"></span>[135:3](ptb72.htm#fr_277) Ειδε ανθωροσκοπησει
+<span id="fn_277"></span>[135:3](ptb72.htm#fr_277.md) Ειδε ανθωροσκοπησει
 προσοιν δηποτε των φωτων: which Allatius has translated, "if he should
 be in the ascendant opposed to either of the luminaries" (*si in
 horoscopo alteri luminum opponatur*); but the Latin copy of Basle, 1541,
@@ -179,15 +179,15 @@ it appears in a subsequent place, p. 201 (where the word ανθωροσκοπω�
 occurs), that it can only be properly translated "*in opposition to the
 ascendant*."
 
-<span id="fn_278"></span>[136:1](ptb72.htm#fr_278) Caput Medusæ.
+<span id="fn_278"></span>[136:1](ptb72.htm#fr_278.md) Caput Medusæ.
 
-<span id="fn_279"></span>[136:2](ptb72.htm#fr_279) . *Vide* note
-<sup>3</sup> in [p. 135](#page_135).
+<span id="fn_279"></span>[136:2](ptb72.htm#fr_279.md) . *Vide* note
+<sup>3</sup> in [p. 135](#page_135.md).
 
-<span id="fn_280"></span>[136:3](ptb72.htm#fr_280) That is to say, the
+<span id="fn_280"></span>[136:3](ptb72.htm#fr_280.md) That is to say, the
 lower heaven, or imum-cœli. Whalley has translated it, "*above* the
 earth," instead of "*below*"; mistaking υπο for υπερ.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Periodical Divisions of Time](ptb73)
+[Next: Chapter X. The Periodical Divisions of Time](ptb73.md)

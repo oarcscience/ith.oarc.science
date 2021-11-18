@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku63)  [Next](tku65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku63)  [Next](tku65.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ certain hard Skull.
 one side, and another one on another side.
 
 435\. For as the Most Holy Ancient One is found to include equally in
-Himself the Three Heads, <span id="fr_268"></span>[2](#fn_265) so all
+Himself the Three Heads, <span id="fr_268"></span>[2](#fn_265.md) so all
 things
 
 <span id="page_303">p. 303</span>
@@ -30,7 +30,7 @@ White Head (*of Macroprosopus*), and covereth it.
 nourished the field of the holy apple trees.
 
 438\. And from this dew of this Skull is the manna prepared for the just
-in the world to come. <span id="fr_269"></span>[1](#fn_266)
+in the world to come. <span id="fr_269"></span>[1](#fn_266.md)
 
 439\. And by it shall the dead be raised to life.
 
@@ -61,11 +61,11 @@ uphold by that GVLGLThA, *Golgeltha*, Skull.
 <span id="page_304">p. 304</span>
 
 445\. And in all things is that subtle AVIRA, *Auira*, Ether, <span
-id="fr_270"></span>[1](#fn_267) contained, as It Itself containeth all
+id="fr_270"></span>[1](#fn_267.md) contained, as It Itself containeth all
 things, and as. in It all things are comprehended.
 
 446\. His countenance is extended in two sides, <span
-id="fr_271"></span>[2](#fn_268) in two lights, which in themselves
+id="fr_271"></span>[2](#fn_268.md) in two lights, which in themselves
 contain all things.
 
 447\. And when His countenance (*i.e., that of Microprosopus*) looketh
@@ -85,7 +85,7 @@ other.
 
 451\. In the hollow of the Skull (*of Microprosopus*) shine three
 lights. And although thou canst call them three, yet notwithstanding are
-there four,  <span id="fr_272"></span>[3](#fn_269) as we have before
+there four,  <span id="fr_272"></span>[3](#fn_269.md) as we have before
 said.
 
 452\. He (*Microprosopus*) is the heir of His Father and of his Mother,
@@ -105,7 +105,7 @@ and they are extended through the whole body.
 
 455\. But they are associated together in two Brains, and the third
 Brain containeth the others in itself. <span
-id="fr_273"></span>[1](#fn_270)
+id="fr_273"></span>[1](#fn_270.md)
 
 456\. And it adhereth as well to the one side as to the other, and is
 expanded throughout the whole body.
@@ -135,7 +135,7 @@ that saying where it is written, Gen. xxix. 12: "And Jacob declared unto
 Rachel that he was her father's brother, and that he was Rebekah's son.
 
 464\. It is written, "Rebekah's son," and not "the son of Isaac." And
-all the mysteries are in Chokmah. <span id="fr_274"></span>[2](#fn_271)
+all the mysteries are in Chokmah. <span id="fr_274"></span>[2](#fn_271.md)
 
 <span id="page_306">p. 306</span>
 
@@ -161,23 +161,23 @@ are ascribed (*diverse*) works, properly speaking.
 
 ### Footnotes
 
-<span id="fn_264"></span>[302:1](tku63.htm#fr_267) Compare this with
+<span id="fn_264"></span>[302:1](tku63.htm#fr_267.md) Compare this with
 Miölner. the hammer of Thor, of Scandinavian mythology.
 
-<span id="fn_265"></span>[302:2](tku64.htm#fr_268) Chokmah and Binah,
+<span id="fn_265"></span>[302:2](tku64.htm#fr_268.md) Chokmah and Binah,
 included in Kether.
 
-<span id="fn_266"></span>[303:1](tku64.htm#fr_269) It is to be noted
+<span id="fn_266"></span>[303:1](tku64.htm#fr_269.md) It is to be noted
 that this word is MNA, *Manna*, and is a Metathesis of the letters AMN,
 *Amen*, which has been shown in the "Book of Concealed Mystery" to be
 equal by Gematria to IHVH ADNI.
 
-<span id="fn_267"></span>[304:1](tku64.htm#fr_270) ? Astral Light.
+<span id="fn_267"></span>[304:1](tku64.htm#fr_270.md) ? Astral Light.
 
-<span id="fn_268"></span>[304:2](tku64.htm#fr_271) Right and left; while
+<span id="fn_268"></span>[304:2](tku64.htm#fr_271.md) Right and left; while
 in Macroprosopus "all is right."
 
-<span id="fn_269"></span>[304:3](tku64.htm#fr_272) At first sight this
+<span id="fn_269"></span>[304:3](tku64.htm#fr_272.md) At first sight this
 seems a contradiction, but on careful examination the difficulty
 disappears. A triangle is a fit expression of the number 3. It has 3
 angles, it has 3 sides; but there is the whole figure itself also, which
@@ -186,14 +186,14 @@ and the whole figure itself which contains them, and thus completes the
 Trinity by the Quaternary: in the Tetragrammaton, IHV, and H final,
 which forms the synthesis.
 
-<span id="fn_270"></span>[305:1](tku64.htm#fr_273) Thus rigidly
+<span id="fn_270"></span>[305:1](tku64.htm#fr_273.md) Thus rigidly
 following out the rule of the symbolism before given, that Chokmah and
 Binah are contained in Kether, in this is the key of all religions.
 
-<span id="fn_271"></span>[305:2](tku64.htm#fr_274) BChKMThA,
+<span id="fn_271"></span>[305:2](tku64.htm#fr_274.md) BChKMThA,
 *Be-Chokmatha*; ChKMThA is the emphatic Chaldee form of ChKMA, which is
 Chaldee for Hebrew ChKMH.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: Concerning the Hair of Microprosopus](tku65)
+[Next: Chapter XII: Concerning the Hair of Microprosopus](tku65.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass43)  [Next](nass45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass43)  [Next](nass45.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ kill his brothers-in-law.
 
 ------------------------------------------------------------------------
 
-[Next: The Grouses](nass45)
+[Next: The Grouses](nass45.md)

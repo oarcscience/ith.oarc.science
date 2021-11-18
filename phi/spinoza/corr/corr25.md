@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr24)  [Next](corr26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr24)  [Next](corr26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -25,12 +25,12 @@ answers that distinction must be made between different kinds of
 definitions. He explains his opinions more precisely*.\]
 
 <span class="smallcaps">Respected Friend</span>,—I have received <span
-id="fr_39"></span>[2](#fn_39) your long wished-for letter, for which,
+id="fr_39"></span>[2](#fn_39.md) your long wished-for letter, for which,
 and for your affection towards me, I heartily thank you. Your long
 absence has been no less grievous to me than to you; yet in the meantime
 I rejoice that my trifling studies are of profit to you and our friends.
-For thus while you <span id="fr_40"></span>[3](#fn_40) are away, I in my
-absence speak to you. <span id="fr_41"></span>[3](#fn_40) You need not
+For thus while you <span id="fr_40"></span>[3](#fn_40.md) are away, I in my
+absence speak to you. <span id="fr_41"></span>[3](#fn_40.md) You need not
 envy my fellow-lodger. There is no one who is more displeasing to me,
 nor against whom I have been more anxiously on my guard; and therefore I
 would have you and all my acquaintance warned not to
@@ -44,7 +44,7 @@ these childish faults. Indeed I am almost sure of it, as far as I can
 judge from his nature. And so his temperament bids me like him.
 
 As for the questions propounded in your club, which is wisely enough
-ordered, I see that your <span id="fr_42"></span>[1](#fn_41)
+ordered, I see that your <span id="fr_42"></span>[1](#fn_41.md)
 difficulties arise from not distinguishing between kinds of definition:
 that is, between a definition serving to explain a thing, of which the
 essence only is sought and in question, and a definition which is put
@@ -136,18 +136,18 @@ at it, &c.
 
 ### Footnotes
 
-<span id="fn_39"></span>[313:2](corr25.htm#fr_39) The whole beginning of
+<span id="fn_39"></span>[313:2](corr25.htm#fr_39.md) The whole beginning of
 this letter, till after the mention of the club, is omitted in the
 editions before Van Vloten's Supplementum, to make the letter agree with
 the altered version of Letter XXVI., to which it is an answer.
 
-<span id="fn_40"></span>[313:3](corr25.htm#fr_41) "You" in these two
+<span id="fn_40"></span>[313:3](corr25.htm#fr_41.md) "You" in these two
 places is plural, and refers to the club; so also the second "your" on
 the next page; elsewhere "you" and "your" refer to De Vries only.
 
-<span id="fn_41"></span>[314:1](corr25.htm#fr_42) See Note 3 on previous
+<span id="fn_41"></span>[314:1](corr25.htm#fr_42.md) See Note 3 on previous
 page.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXVIII. To de Vries](corr26)
+[Next: Letter XXVIII. To de Vries](corr26.md)

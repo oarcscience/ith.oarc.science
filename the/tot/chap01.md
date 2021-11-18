@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Theosophy](../index)
-[Index](index) [Next](chap02)
+[Intangible Textual Heritage](../../index) [Theosophy](../index.md)
+[Index](index) [Next](chap02.md)
 
 ------------------------------------------------------------------------
 
@@ -219,4 +219,4 @@ style="font-family: Times New Roman"><a href="#text01" id="foot01">1</a>.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: From The Absolute To Man](chap02)
+[Next: Chapter II: From The Absolute To Man](chap02.md)

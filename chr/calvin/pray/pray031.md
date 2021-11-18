@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray030)  [Next](pray032) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray030)  [Next](pray032.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ hours which, though indifferent in regard to God, are necessary for the
 use of man, that the general convenience may be consulted, and all
 things be done in the Church, as Paul enjoins, "decently and in order"
 (<span id="iii.xxix-p1.1"></span>[1 Corinthians
-14:40](../../../bib/kjv/co1014.htm#040)<span
+14:40](../../../bib/kjv/co1014.htm#040.md)<span
 id="iii.xxix-p1.1"></span>). But there is nothing in this to prevent
 each church from being now and then stirred up to a more frequent use of
 prayer and being more zealously affected under the impulse of some
@@ -33,7 +33,7 @@ assiduity, we shall speak towards the close of the chapter (sec. 51,
 52). This assiduity, moreover, is very different from the BATTOLOGIAN
 (Greek — English "yammering"), *vain speaking*, which our Saviour has
 prohibited (<span id="iii.xxix-p1.2"></span>[Matthew
-6:7](../../../bib/kjv/mat006.htm#007)<span id="iii.xxix-p1.2"></span>).
+6:7](../../../bib/kjv/mat006.htm#007)<span id="iii.xxix-p1.2"></span>.md).
 For he does not there forbid us to pray long or frequently, or with
 great fervour, but warns us against supposing that we can extort
 anything from God by importuning him with garrulous loquacity, as if he
@@ -46,7 +46,7 @@ reputation for sanctity by his prayers. Hence that vain speaking, which
 for a similar reason prevails so much in the Papacy in the present day,
 some vainly spinning out the time by a reiteration of the same frivolous
 prayers, and others employing a long series of verbiage for vulgar
-display. <span id="fr_13"></span>[14](#fn_13) This childish garrulity
+display. <span id="fr_13"></span>[14](#fn_13.md) This childish garrulity
 being a mockery of God, it is not strange that it is prohibited in the
 Church, in order that every feeling there expressed may be sincere,
 proceeding from the inmost heart. Akin to this abuse is another which
@@ -63,7 +63,7 @@ prayer, his injunction was, "Enter into thy closet, and when thou hast
 shut thy door, pray to thy Father which is in secret, and thy Father
 which seeth in secret shall reward thee openly" (<span
 id="iii.xxix-p1.5"></span>[Matthew
-6:6](../../../bib/kjv/mat006.htm#006)<span id="iii.xxix-p1.5"></span>).
+6:6](../../../bib/kjv/mat006.htm#006)<span id="iii.xxix-p1.5"></span>.md).
 Dissuading us from the example of hypocrites, who sought the applause of
 men by an ambitious ostentation in prayer, he adds the better course —
 enter thy chamber, shut thy door, and there pray. By these words (as I
@@ -83,7 +83,7 @@ prayer. Meanwhile, as he abstained not from prayer when the occasion
 required it, though he were in the midst of a crowd, so must we,
 whenever there is need, lift up "pure hands" (<span
 id="iii.xxix-p1.6"></span>[1 Timothy
-2:8](../../../bib/kjv/ti1002.htm#008)<span id="iii.xxix-p1.6"></span>)
+2:8](../../../bib/kjv/ti1002.htm#008)<span id="iii.xxix-p1.6"></span>.md)
 at all places. And hence we must hold that he who declines to pray in
 the public meeting of the saints, knows not what it is to pray apart, in
 retirement, or at home. On the other hand, he who neglects to pray alone
@@ -93,15 +93,15 @@ man than to the secret judgment of God. Still, lest the public prayers
 of the Church should be held in contempt, the Lord anciently bestowed
 upon them the most honourable appellation, especially when he called the
 temple the "*house of prayer*" (<span id="iii.xxix-p1.7"></span>[Isaiah
-56:7](../../../bib/kjv/isa056.htm#007)<span id="iii.xxix-p1.7"></span>).
+56:7](../../../bib/kjv/isa056.htm#007)<span id="iii.xxix-p1.7"></span>.md).
 For by this expression he both showed that the duty of prayer is a
 principal part of his worship, and that to enable believers to engage in
 it with one consent his temple is set up before them as a kind of
 banner. A noble promise was also added, "Praise waiteth for thee, O God,
 in Sion: and unto thee shall the vow be performed" (<span
 id="iii.xxix-p1.8"></span>[Psalm
-65:1](../../../bib/kjv/psa065.htm#001)<span
-id="iii.xxix-p1.8"></span>). <span id="fr_14"></span>[15](#fn_14) By
+65:1](../../../bib/kjv/psa065.htm#001.md)<span
+id="iii.xxix-p1.8"></span>). <span id="fr_14"></span>[15](#fn_14.md) By
 these words the Psalmist reminds us that the prayers of the Church are
 never in vain; because God always furnishes his people with materials
 for a song of joy. But although the shadows of the law have ceased, yet
@@ -114,7 +114,7 @@ Paul declares to be perpetually in force.
 
 ### Footnotes
 
-<span id="fn_13"></span>[14](pray031.htm#fr_13) <span
+<span id="fn_13"></span>[14](pray031.htm#fr_13.md) <span
 id="iii.xxix-p1.3"></span>French, "<span id="iii.xxix-p1.4"></span>Cette
 longueur de priere a aujourd’hui sa vogue en la Papauté, et procede de
 cette mesme source; c’est que les uns barbotant force Ave Maria, et
@@ -127,11 +127,11 @@ going over their beads a hundred times, lose part of their time; others,
 as the canons and monks grumbling over their parchment night and day,
 and muttering their breviary, sell their cockleshells to the people.
 
-<span id="fn_14"></span>[15](pray031.htm#fr_14) <span
+<span id="fn_14"></span>[15](pray031.htm#fr_14.md) <span
 id="iii.xxix-p1.9"></span>Calvin translates, "<span
 id="iii.xxix-p1.10"></span>Te expectat Deus, laus in Sion,"—God, the
 praise in Sion waiteth for thee.
 
 ------------------------------------------------------------------------
 
-[Next: 30.](pray032)
+[Next: 30.](pray032.md)

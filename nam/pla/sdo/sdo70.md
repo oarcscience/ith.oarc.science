@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo69)  [Next](sdo71) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo69)  [Next](sdo71.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ pain. Other gifts were given to the other guests.
 
 ------------------------------------------------------------------------
 
-[Next: How the Lakota Came Upon the World](sdo71)
+[Next: How the Lakota Came Upon the World](sdo71.md)

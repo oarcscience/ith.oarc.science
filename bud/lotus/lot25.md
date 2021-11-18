@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot24)  [Next](lot26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot24)  [Next](lot26.md) 
 
 ------------------------------------------------------------------------
 
@@ -271,4 +271,4 @@ the law was purified so as to become unclouded and spotless.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 26](lot26)
+[Next: Chapter 26](lot26.md)

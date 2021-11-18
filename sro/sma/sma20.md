@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma19)  [Next](sma21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma19)  [Next](sma21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -146,7 +146,7 @@ same neighbourhood; Laodicea, Tyre, Sidon, and Berytus.
 
 III\. ANTIOCH.--Of this province but little is known. There was a house
 at Aleppo; and the jurisdiction of the prior probably extended into
-Armenia <span id="fr_82"></span>[\*](#fn_82), where the order had
+Armenia <span id="fr_82"></span>[\*](#fn_82.md), where the order had
 estates to the value of 20,000 byzants.
 
 IV\. CYPRUS.-AS long as the Templars maintained their footing on the
@@ -187,7 +187,7 @@ Langrovia. Tomar was the residence of the great-prior.
 II\. CASTILE AND LEON.--In this province the possessions of the order
 were so extensive as to form twenty-four bailiwicks in Castile alone. It
 is needless to enumerate their names <span
-id="fr_83"></span>[\*](#fn_83).
+id="fr_83"></span>[\*](#fn_83.md).
 
 III\. ARAGON.--In this province, which abounded in castles, several
 belonged to the Templars; and the bailiwick of Majorca, where they were
@@ -228,7 +228,7 @@ The principal bailiwicks of England were--1. London; 2. Kent; 3 Warwick;
 4. Waesdone; 5. Lincoln; 6. Lindsey; 7. Bolingbroke; 8. Widine; 9.
 Agerstone; 10. York. In these were seventeen preceptories; and the
 number of churches, houses, farms, mills, &c., possessed by the order
-was very considerable <span id="fr_84"></span>[\*](#fn_84).
+was very considerable <span id="fr_84"></span>[\*](#fn_84.md).
 
 <span id="page_248">p. 248</span>
 
@@ -236,7 +236,7 @@ was very considerable <span id="fr_84"></span>[\*](#fn_84).
 
 <span id="img_24800"></span> <span align="CENTER"> [![Interior of Round
 Tower, in Temple Church, London.](tn/24800.jpg)  
-Click to enlarge](img/24800.jpg)  
+Click to enlarge](img/24800.jpg.md)  
 Interior of Round Tower, in Temple Church, London.  
 </span>
 
@@ -248,13 +248,13 @@ Interior of Round Tower, in Temple Church, London.
 
 <span id="img_24900"></span> <span align="CENTER"> [![Saxon Doorway,
 Temple Church, London.](tn/24900.jpg)  
-Click to enlarge](img/24900.jpg)  
+Click to enlarge](img/24900.jpg.md)  
 Saxon Doorway, Temple Church, London.  
 </span>
 
 <span id="img_24901"></span> <span align="CENTER"> [![Details of Saxon
 Capitals.](tn/24901.jpg)  
-Click to enlarge](img/24901.jpg)  
+Click to enlarge](img/24901.jpg.md)  
 Details of Saxon Capitals.  
 </span>
 
@@ -266,7 +266,7 @@ Details of Saxon Capitals.
 
 <span id="img_25000"></span> <span align="CENTER"> [![Round Temple
 Church, Cambridge.](tn/25000.jpg)  
-Click to enlarge](img/25000.jpg)  
+Click to enlarge](img/25000.jpg.md)  
 Round Temple Church, Cambridge.  
 </span>
 
@@ -343,15 +343,15 @@ prince.
 
 ### Footnotes
 
-<span id="fn_82"></span>[245:\*](sma20.htm#fr_82) The Armenia of the
+<span id="fn_82"></span>[245:\*](sma20.htm#fr_82.md) The Armenia of the
 crusades was a part of Cilicia.
 
-<span id="fn_83"></span>[246:\*](sma20.htm#fr_83) They will be found in
+<span id="fn_83"></span>[246:\*](sma20.htm#fr_83.md) They will be found in
 Campomanes, p. 80, and Münter p. 421.
 
-<span id="fn_84"></span>[247:\*](sma20.htm#fr_84) The possessions of the
+<span id="fn_84"></span>[247:\*](sma20.htm#fr_84.md) The possessions of the
 Templars in England will be found in the works of Dugdale and Tanner.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](sma21)
+[Next: Chapter VII](sma21.md)

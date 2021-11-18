@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar78)  [Next](gar80) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar78)  [Next](gar80.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="img_pl_g"></span> <span align="CENTER"> [![Plate
 G](tn/pl_g.jpg)  
-Click to enlarge](img/pl_g.jpg)  
+Click to enlarge](img/pl_g.jpg.md)  
 Plate G  
 </span>
 
@@ -56,7 +56,7 @@ ibis-headed, and using the invocation (cut on the reverse) "Thou art our
 Father!" Inasmuch as the Neo-Platonists made Hermes to be the Power that
 regulates the motion of the heavens (for which reason Julian addressed
 his morning prayer to *him*), there is evident reason why the god of Day
-should thus do [homage](errata.htm#31) to Thoth as his superior and
+should thus do [homage](errata.htm#31.md) to Thoth as his superior and
 director.
 
 5\. A very popular *Gryllus*, its components being the emblems of the
@@ -69,4 +69,4 @@ stone--obsidian.
 
 ------------------------------------------------------------------------
 
-[Next: Plate H. Egyptian Types (continued)](gar80)
+[Next: Plate H. Egyptian Types (continued)](gar80.md)

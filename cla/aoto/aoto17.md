@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto16) 
-[Next](aoto18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto16.md) 
+[Next](aoto18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ destroyed.
 <span id="page_54">p. 54</span>
 
 <span class="margnote"><span id="an_12:73">73</span></span> "'Of the two
-rocks, <span id="fr_25"></span>[\*](#fn_25) the one rises in a peak to
+rocks, <span id="fr_25"></span>[\*](#fn_25.md) the one rises in a peak to
 heaven, and is overhung at all times with a dark cloud that never leaves
 it. It looks towards the West, and there is a cave in it, higher than an
 arrow can reach. In this sits Scylla yelping with a squeaky voice like
@@ -67,7 +67,7 @@ she springs out and snatches up a man in each mouth.
 other rock is lower, but they are so close that you can shoot an arrow
 from the one to the other. \[On it there is <span class="margnote"><span
 id="an_12:103">103</span></span> a fig-tree in full leaf\]. <span
-id="fr_26"></span>[†](#fn_26) Underneath it is the terrible whirlpool of
+id="fr_26"></span>[†](#fn_26.md) Underneath it is the terrible whirlpool of
 Charybdis, which sucks the water down and vomits it out again three
 times a day. If you are there when she is sucking, not even Neptune can
 save you; so hug the Scylla side, for you had better lose six men than
@@ -111,7 +111,7 @@ hands and feet struggling in the air as she bore them aloft, and hear
 them call out my name in one last despairing cry. This was the most
 horrid sight that I saw in all my voyages.
 
-"Having passed the cliffs, <span id="fr_27"></span>[\*](#fn_27) and
+"Having passed the cliffs, <span id="fr_27"></span>[\*](#fn_27.md) and
 Scylla and Charybdis, we <span class="margnote"><span
 id="an_12:260">260</span></span> came to the Thrinacian island, and from
 my ship I could hear the cattle lowing, and the sheep bleating. Then,
@@ -173,7 +173,7 @@ I felt as impatient as a magistrate who is detained in court by
 troublesome cases when he wants to get home to dinner. But in the course
 of time my raft worked its way out again, and when it was underneath me
 I dropped on to it and was carried out of the pool. Happily for me Jove
-did not let Scylla see me.\] <span id="fr_28"></span>[\*](#fn_28)
+did not let Scylla see me.\] <span id="fr_28"></span>[\*](#fn_28.md)
 
 <span class="margnote"><span id="an_12:447">447</span></span> "Thence I
 was borne along for nine days in the sea, and was
@@ -187,25 +187,25 @@ and will not repeat it, for I hate saying the same thing twice over."
 
 ### Footnotes
 
-<span id="fn_25"></span>[54:\*](aoto17.htm#fr_25) The want of coherence
+<span id="fn_25"></span>[54:\*](aoto17.htm#fr_25.md) The want of coherence
 here is obvious, but as it is repeated when Ulysses ought to come to the
 wandering cliffs (which he never does) it must be referred to a *lacuna*
 not in the text, but in the writer's sources of information—of which she
 seems fully aware.
 
-<span id="fn_26"></span>[54:†](aoto17.htm#fr_26) I suppose this line to
+<span id="fn_26"></span>[54:†](aoto17.htm#fr_26.md) I suppose this line to
 have been added when lines 426-446 of this book were added.
 
-<span id="fn_27"></span>[55:\*](aoto17.htm#fr_27) The wandering cliffs
+<span id="fn_27"></span>[55:\*](aoto17.htm#fr_27.md) The wandering cliffs
 are certainly intended, for when Ulysses is recapitulating his
 adventures in Book xxiii. he expressly mentions having reached the,
 πλαγκτὰς πέτρας, just after the Sirens, and before Scylla and Charybdis
 (xxiii. 327). The writer is determined to have them in her story however
 little she may know about them.
 
-<span id="fn_28"></span>[56:\*](aoto17.htm#fr_28) I incline to think
+<span id="fn_28"></span>[56:\*](aoto17.htm#fr_28.md) I incline to think
 that these lines are an after thought, added by the writer herself.
 
 ------------------------------------------------------------------------
 
-[Next: Book XIII. Ulysses is Taken Back to Ithaca](aoto18)
+[Next: Book XIII. Ulysses is Taken Back to Ithaca](aoto18.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](sir)  [Next](ma1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](sir)  [Next](ma1.md) 
 
 ------------------------------------------------------------------------
 
@@ -728,4 +728,4 @@ kumirÄa; sramota je daleko od njega!
 
 ------------------------------------------------------------------------
 
-[Next: 1 Macabees](ma1)
+[Next: 1 Macabees](ma1.md)

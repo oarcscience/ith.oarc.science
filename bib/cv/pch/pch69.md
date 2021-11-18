@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch68) 
-[Next](pch70) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch68.md) 
+[Next](pch70.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -27,10 +27,10 @@ Roman Empire? Here it is that our ignorance becomes most sharply felt.
 So far as Christian zeal could suppress all good report of Mithraism,
 this was done, when Christianity—I will not say overthrew, but—absorbed
 the Mithraic movement. There were in antiquity, we know from
-Porphyry, <span id="fr_1579"></span>[3](#fn_1579) several elaborate
+Porphyry, <span id="fr_1579"></span>[3](#fn_1579.md) several elaborate
 treatises setting forth the religion of Mithra; and every one of these
 has been destroyed by the care of the Church. <span
-id="fr_1580"></span>[4](#fn_1580) They doubtless included much narrative
+id="fr_1580"></span>[4](#fn_1580.md) They doubtless included much narrative
 as well as much didactic matter, the knowledge of which would colour the
 whole religious consciousness of Mithra's worshippers. We shall see
 later that clues still exist, one of which has been overlooked in
@@ -43,7 +43,7 @@ of hymns, a compilation for purposes of worship. The reconstruction of
 that mythology, however, is now hopeless. Too little attention, perhaps,
 has been paid to Creuzer's theory that the name Perseus = Perses, "the
 Persian," and that the Perseus myth is really an early adaptation of the
-Mithra myth. <span id="fr_1581"></span>[5](#fn_1581) The story of
+Mithra myth. <span id="fr_1581"></span>[5](#fn_1581.md) The story of
 Perseus certainly has an amount of action and colour unusual in Greek
 myth, and no less suggestive of Oriental origin than is the
 
@@ -56,8 +56,8 @@ And so with the didactic side of Mithraism: we must limit our inferences
 to our positive data. These include the evidence of the Vendidâd ritual
 that there was associated with the cult a teaching of happy immortality
 for the righteous, very much on the lines of that of Christianity. An
-extract <span id="fr_1582"></span>[1](#fn_1582) will make the point
-clear <span id="fr_1583"></span>[2](#fn_1583):—
+extract <span id="fr_1582"></span>[1](#fn_1582.md) will make the point
+clear <span id="fr_1583"></span>[2](#fn_1583.md):—
 
 |     |         |                                                                                                                                                                                                                                                                                                                                                                                                            |
 |-----|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -74,13 +74,13 @@ clear <span id="fr_1583"></span>[2](#fn_1583):—
 further, that in some codices of the Avesta is found this formula: "He
 has gained nothing who has not gained the soul: He shall gain nothing
 who shall not gain the soul." The meaning is "gain a place in
-Paradise," <span id="fr_1584"></span>[1](#fn_1584) and the passage looks
+Paradise," <span id="fr_1584"></span>[1](#fn_1584.md) and the passage looks
 very like an original form of a well-known Christian text.
 
 For the rest, the Zendavesta, like most other Sacred Books, insists on
 the normal morals strenuously enough. It has strange special teachings
 as to the sacro-sanctity of the dog; and its veto alike on the burning
-and the burying of bodies <span id="fr_1585"></span>[2](#fn_1585) is
+and the burying of bodies <span id="fr_1585"></span>[2](#fn_1585.md) is
 peculiar to Mazdeism; but these beliefs do not seem to have affected
 later Mithraism; whereas probably its special stress on truthfulness—not
 paralleled in the Ten Commandments—was maintained. We cannot, indeed,
@@ -90,8 +90,8 @@ against the loose revival of unfounded and exploded charges against the
 cult. To this day we find Christian scholars either saying or hinting
 that Mithraism was signalised in the Roman period by human sacrifices.
 For this there is no justification. <span
-id="fr_1586"></span>[3](#fn_1586) The ecclesiastical historian
-Sokrates <span id="fr_1587"></span>[4](#fn_1587) does indeed allege that
+id="fr_1586"></span>[3](#fn_1586.md) The ecclesiastical historian
+Sokrates <span id="fr_1587"></span>[4](#fn_1587.md) does indeed allege that
 about the year 360 a temple of Mithra at Alexandria, long empty and
 neglected, was granted by Constantius to the Christians; that they found
 in it an *adytum* of vast depth, containing the skulls of many persons,
@@ -112,38 +112,38 @@ accounts of Mithraic worship. We do know that during
 
 the whole of the first three or four centuries it was charged against
 the Christians, by Jews or Pagans, that they were wont to sacrifice a
-child at their mysteries. <span id="fr_1588"></span>[1](#fn_1588) That
+child at their mysteries. <span id="fr_1588"></span>[1](#fn_1588.md) That
 charge was doubtless false, but it was constantly made.
 
 On the other hand, the only kind of record founded-on for the charge
 against Mithraism is one which rebuts it. Sainte-Croix, accepting the
 plainly worthless testimony of the ecclesiastical historian,
-referred <span id="fr_1589"></span>[2](#fn_1589) to a passage in the
+referred <span id="fr_1589"></span>[2](#fn_1589.md) to a passage in the
 life of Commodus by Lampridius, in the Augustan history, in support of
 his insinuation that Mithraism involved human sacrifice. But this
-passage <span id="fr_1590"></span>[3](#fn_1590) explicitly says that
+passage <span id="fr_1590"></span>[3](#fn_1590.md) explicitly says that
 Commodus "*polluted* the rites of Mithras *by a real homicide*, where it
 is usual for something to be said or done for the purpose of causing
 terror" (*quum illic aliquid ad speciem timoris vel dici vel fingi
 soleat*). The same scholar makes another reference which equally serves
-to confute him; <span id="fr_1591"></span>[4](#fn_1591) yet an English
+to confute him; <span id="fr_1591"></span>[4](#fn_1591.md) yet an English
 writer later speaks of "the dark and fearful mysteries" of Mithra,
-repeating the old insinuation. <span id="fr_1592"></span>[5](#fn_1592)
-Selden <span id="fr_1593"></span>[6](#fn_1593) quotes from Photius <span
-id="fr_1594"></span>[7](#fn_1594) a statement that men, women, and boys
+repeating the old insinuation. <span id="fr_1592"></span>[5](#fn_1592.md)
+Selden <span id="fr_1593"></span>[6](#fn_1593.md) quotes from Photius <span
+id="fr_1594"></span>[7](#fn_1594.md) a statement that men, women, and boys
 were sacrificed to Mithra; but that assertion also is plainly valueless,
 coming as it does from a Christian writer of the tenth century, and
 being absolutely without ancient corroboration. What seems to have
 happened was a symbolical sacrifice, perhaps followed up by a symbolical
 eating of the God's image—proceedings which, there is good reason to
 suppose, occurred in the mysteries of the early Christians. <span
-id="fr_1595"></span>[8](#fn_1595)
+id="fr_1595"></span>[8](#fn_1595.md)
 
 But there is far more testimony, such as it is, for the charge of
 infamous procedure against the Christians than against the Mithraists.
 The Mithraic mysteries, save for the fact that they involved real
 austerities and a scenic representation of death, <span
-id="fr_1596"></span>[9](#fn_1596) were no more dark and fearful than the
+id="fr_1596"></span>[9](#fn_1596.md) were no more dark and fearful than the
 Christian mysteries are known to have been, not to speak of what these
 are said to have been. There lies against them no such imputation of
 licence as was constantly brought against
@@ -153,66 +153,66 @@ licence as was constantly brought against
 the midnight meetings of the Christians, or as is specifically brought
 by Paul against his own converts at Corinth. Their purpose was
 unquestionably moral as well as consolatory. <span
-id="fr_1597"></span>[1](#fn_1597) In the words of Suidas, the worshipper
+id="fr_1597"></span>[1](#fn_1597.md) In the words of Suidas, the worshipper
 went through his trials in order that he should become holy and
 passionless. In the course of the initiation, as we know from the
 unwilling admiration of Tertullian, <span
-id="fr_1598"></span>[2](#fn_1598) the devotee, called the soldier of
+id="fr_1598"></span>[2](#fn_1598.md) the devotee, called the soldier of
 Mithra, was offered a crown, which it was his part to refuse, saying
 that Mithra was his crown. And everything points to the enunciation of a
 theory of expiation of and purification from sin, in which Mithra
 figured as Mediator and Saviour, actually undergoing a symbolic
 sacrifice, and certainly securing to his worshippers eternal life. <span
-id="fr_1599"></span>[3](#fn_1599) As to the doctrine of immortality
+id="fr_1599"></span>[3](#fn_1599.md) As to the doctrine of immortality
 being pre-Christian, it is now quite unnecessary to speak; and the whole
 Mithraic symbolism implies such a teaching. On most of the bull
 monuments, it will be remembered, there stand beside Mithra two figures,
 one holding a raised and one a lowered torch. These signified primarily
 sunrise and sunset, or rising spring sun and sinking autumn sun; but, as
-Lessing <span id="fr_1600"></span>[4](#fn_1600) long ago showed, they
+Lessing <span id="fr_1600"></span>[4](#fn_1600.md) long ago showed, they
 were also the ancient symbols for life and death, and would further
 signify the fall and return of the soul. <span
-id="fr_1601"></span>[5](#fn_1601)
+id="fr_1601"></span>[5](#fn_1601.md)
 
 Nor was this the only point at which Mithraism is known to have competed
 with Christianity in what pass for its highest attractions. The doctrine
 of the *Logos*, the Incarnate Word or Reason, which Christianity
 absorbed through the Platonising Jews of Alexandria, was present in
 Mithraism, and of prior derivation. That Mithra was connected with "the
-Word" appears from the Avesta. <span id="fr_1602"></span>[6](#fn_1602)
-In the Vendîdâd, further, <span id="fr_1603"></span>[7](#fn_1603)
+Word" appears from the Avesta. <span id="fr_1602"></span>[6](#fn_1602.md)
+In the Vendîdâd, further, <span id="fr_1603"></span>[7](#fn_1603.md)
 Zarathustra is made to praise successively Mithra "of the most glorious
 weapons," Sraosha, "the Holy One," and "the Holy Word, the most
 glorious," thus joining and in part identifying Mithra with the Word as
 well as joining him with the Holy Spirit. And Emanuel Deutsch <span
-id="fr_1604"></span>[8](#fn_1604) was of opinion that the Metatron <span
-id="fr_1605"></span>[9](#fn_1605) of the Talmud (whom he equates with
+id="fr_1604"></span>[8](#fn_1604.md) was of opinion that the Metatron <span
+id="fr_1605"></span>[9](#fn_1605.md) of the Talmud (whom he equates with
 the Ideas of Plato,
 
 <span id="page_315">p. 315</span>
 
 the *Logos* of Philo, the "World of Aziluth" of the Kabbalists, the
 *Sophia* or Power of the Gnostics and the *Nous* of Plotinus) <span
-id="fr_1606"></span>[1](#fn_1606) was "most probably nothing but
-Mithra." <span id="fr_1607"></span>[2](#fn_1607) As the Metatron is on
+id="fr_1606"></span>[1](#fn_1606.md) was "most probably nothing but
+Mithra." <span id="fr_1607"></span>[2](#fn_1607.md) As the Metatron is on
 the Jewish side identified with the "Angel" promised as leader and
 commander to the Hebrews in Palestine, <span
-id="fr_1608"></span>[3](#fn_1608) and that angel is quasi-historically
+id="fr_1608"></span>[3](#fn_1608.md) and that angel is quasi-historically
 represented by Joshua =Jesus, the chain of allusion from Mithra to the
 Christ is thus curiously complete. In respect of the concept of a
 Trinity, as we have already seen, the parallel continues. By the
 admission of a Catholic theologian, the Gods Ahura-Mazda, Sraosha, and
 Mithra constitute an ostensible trinity closely analogous to that of the
-later Christists; <span id="fr_1609"></span>[4](#fn_1609) and yet again
+later Christists; <span id="fr_1609"></span>[4](#fn_1609.md) and yet again
 Mithra, himself approaching to supreme status, rides to battle with
 Sraosha at his right and Rashnu at his left hand; <span
-id="fr_1610"></span>[5](#fn_1610) or else with Rashnu on his right, and
+id="fr_1610"></span>[5](#fn_1610.md) or else with Rashnu on his right, and
 Kista, the holy one (female) white-clothed, on his left. <span
-id="fr_1611"></span>[6](#fn_1611)
+id="fr_1611"></span>[6](#fn_1611.md)
 
 There seems no good reason for supposing that the doctrines of the
 *Logos* and the Trinity reached the Persians through the Greeks: <span
-id="fr_1612"></span>[7](#fn_1612) on the contrary, they probably
+id="fr_1612"></span>[7](#fn_1612.md) on the contrary, they probably
 acquired them from Babylonian sources, on which the Greeks also drew;
 and it was not improbably their version of the *Logos* idea that gave
 the lead to the Philonic and Christian form, in which the Word is
@@ -222,53 +222,53 @@ explicitly "the light of the world."
 
 ### Footnotes
 
-<span id="fn_1579"></span>[310:3](pch69.htm#fr_1579) *De Abstinentia*,
+<span id="fn_1579"></span>[310:3](pch69.htm#fr_1579.md) *De Abstinentia*,
 ii, 56; iv, 16.
 
-<span id="fn_1580"></span>[310:4](pch69.htm#fr_1580) It is remarkable
+<span id="fn_1580"></span>[310:4](pch69.htm#fr_1580.md) It is remarkable
 that even the treatise of Firmicus is mutilated at a passage (v) where
 he seems to be accusing Christians of following Mithraic usages, and at
 the beginning. where he may have made a similar proposition.
 
-<span id="fn_1581"></span>[310:5](pch69.htm#fr_1581) See Guigniaut's
+<span id="fn_1581"></span>[310:5](pch69.htm#fr_1581.md) See Guigniaut's
 French ed. of Creuzer's *Symbolik*, i, 368, ii, 158. Cp. Cox, *Myth. of
 Aryan Nations*, p. 303, as to the identity of the Perseus and Herakles
 myths.
 
-<span id="fn_1582"></span>[311:1](pch69.htm#fr_1582) *Vendidâd*, Fargard
+<span id="fn_1582"></span>[311:1](pch69.htm#fr_1582.md) *Vendidâd*, Fargard
 xix. I have put synonyms in the place of one or two reiterated terms, to
 give the passage some of the literary benefit that is constantly lent in
 this way by the translators of the Bible.
 
-<span id="fn_1583"></span>[311:2](pch69.htm#fr_1583) For a recent study
+<span id="fn_1583"></span>[311:2](pch69.htm#fr_1583.md) For a recent study
 on the Mazdean conception of a future state on somewhat pro-Christian
 lines see the research of M. Nathan, *La vie future d’après le
 Mazdéisme, à la lumière des croyances parallèles dans les autres
 religions*. Annales du Musée Guimet. Paris, 1901.
 
-<span id="fn_1584"></span>[312:1](pch69.htm#fr_1584) Darmesteter's
+<span id="fn_1584"></span>[312:1](pch69.htm#fr_1584.md) Darmesteter's
 Zendavesta, i, 370, 2nd ed. (*Fragments*).
 
-<span id="fn_1585"></span>[312:2](pch69.htm#fr_1585) Darmesteter,
+<span id="fn_1585"></span>[312:2](pch69.htm#fr_1585.md) Darmesteter,
 Introd. p. lxxvii.
 
-<span id="fn_1586"></span>[312:3](pch69.htm#fr_1586) Cp. Cumont, i, 69.
+<span id="fn_1586"></span>[312:3](pch69.htm#fr_1586.md) Cp. Cumont, i, 69.
 
-<span id="fn_1587"></span>[312:4](pch69.htm#fr_1587) *Eccles. Hist.* B.
+<span id="fn_1587"></span>[312:4](pch69.htm#fr_1587.md) *Eccles. Hist.* B.
 iii, c. 2. Cp. B. v, c. 16.
 
-<span id="fn_1588"></span>[313:1](pch69.htm#fr_1588) Cp. Origen,
+<span id="fn_1588"></span>[313:1](pch69.htm#fr_1588.md) Cp. Origen,
 *Against Celsus*, vi, 27; Minucius Felix, *Octavius*, c. 9; Tertullian,
 *Apol.* c. 7.
 
-<span id="fn_1589"></span>[313:2](pch69.htm#fr_1589) *Recherches*, ii,
+<span id="fn_1589"></span>[313:2](pch69.htm#fr_1589.md) *Recherches*, ii,
 135. This false suggestion is implicitly copied by Milman, *Hist. of
 Chr*. B. I, e. 1, note.
 
-<span id="fn_1590"></span>[313:3](pch69.htm#fr_1590) Cap. 9.
+<span id="fn_1590"></span>[313:3](pch69.htm#fr_1590.md) Cap. 9.
 Sainte-Croix offers an extraordinary mistranslation of the passage.
 
-<span id="fn_1591"></span>[313:4](pch69.htm#fr_1591) To Porphyry, *De
+<span id="fn_1591"></span>[313:4](pch69.htm#fr_1591.md) To Porphyry, *De
 Abstin.* ii, 56; a passage which says only that down till the time of
 Hadrian it was the custom to sacrifice a virgin to Athênê at Laodicea.
 Sainte-Croix seems to have blundered over the context, in which the
@@ -279,62 +279,62 @@ Ausg. p. 258) that Hadrian's edict was directed against Mithraism.
 Preller (*Römische Mythologie*, ed. Kohler, p. 758, note 3) surprisingly
 echoes Sainte-Croix.
 
-<span id="fn_1592"></span>[313:5](pch69.htm#fr_1592) Wright, *The Celt,
+<span id="fn_1592"></span>[313:5](pch69.htm#fr_1592.md) Wright, *The Celt,
 the Roman, and the Saxon*, 4th ed. p. 328. The insinuation is found also
 in the encyclopaedias.
 
-<span id="fn_1593"></span>[313:6](pch69.htm#fr_1593) *De Diis Syris*,
+<span id="fn_1593"></span>[313:6](pch69.htm#fr_1593.md) *De Diis Syris*,
 Syntag. i, c. 6.
 
-<span id="fn_1594"></span>[313:7](pch69.htm#fr_1594) *In Athanasii
+<span id="fn_1594"></span>[313:7](pch69.htm#fr_1594.md) *In Athanasii
 vita*, cod. 258.
 
-<span id="fn_1595"></span>[313:8](pch69.htm#fr_1595) Above, pp.
-[143](pch33.htm#page_143)-4, [206](pch43.htm#page_206)-9. Cp.
+<span id="fn_1595"></span>[313:8](pch69.htm#fr_1595.md) Above, pp.
+[143](pch33.htm#page_143)-4, [206](pch43.htm#page_206.md)-9. Cp.
 *Christianity and Mythology*, 2nd ed. pp. 208-12, 355-61 Grant Allen,
 *Evolution of the Idea of God*, p. 345. And see below, [p.
-320](pch70.htm#page_320).
+320](pch70.htm#page_320.md).
 
-<span id="fn_1596"></span>[313:9](pch69.htm#fr_1596) Even this may have
+<span id="fn_1596"></span>[313:9](pch69.htm#fr_1596.md) Even this may have
 been an early Christian usage. Note the force of Gal. iii, 1; vi, 17.
 
-<span id="fn_1597"></span>[314:1](pch69.htm#fr_1597) See Origen,
+<span id="fn_1597"></span>[314:1](pch69.htm#fr_1597.md) See Origen,
 *Against Celsus*, iii, 59; Julian, *Cæsares*, end; Homerid. *Hymn to
 Dêmêtêr*, end; K. O. Müller, *Introd. to Mythology*, ch. xii, § 23. Cp.
 Preller, *Griechische Mythologie*. i, 497; and, as to the other Pagan
 mysteries, the admissions of Mosheim, notes on Cudworth, Harrison's ed.
 iii. 296-7.
 
-<span id="fn_1598"></span>[314:2](pch69.htm#fr_1598) *De Corona*, c. 15.
+<span id="fn_1598"></span>[314:2](pch69.htm#fr_1598.md) *De Corona*, c. 15.
 This is corroborated by a scene on one of the monuments (reproduced in
 Roscher's *Lexikon*) in which the initiate greets Mithra, and seems to
 receive from him his solar nimbus. See it in Cumont, ii, 336.
 
-<span id="fn_1599"></span>[314:3](pch69.htm#fr_1599) See Garucci, *Les
+<span id="fn_1599"></span>[314:3](pch69.htm#fr_1599.md) See Garucci, *Les
 Mystères du Syncrétisme Phrygien*, *passim*. Cp. Windischmann (p. 53) as
 to the older cultus; and Roscher, *s.v.* *Mithra*, 3055 (20-33), as to
 the God's being a Saviour-Sacrifice.
 
-<span id="fn_1600"></span>[314:4](pch69.htm#fr_1600) *Wie die Alten den
+<span id="fn_1600"></span>[314:4](pch69.htm#fr_1600.md) *Wie die Alten den
 Tod gebildet*. See p. 51 in 1869 ed. of *Werke*, Bd. v, and figures.
 
-<span id="fn_1601"></span>[314:5](pch69.htm#fr_1601) So Creuzer, *Das
+<span id="fn_1601"></span>[314:5](pch69.htm#fr_1601.md) So Creuzer, *Das
 Mithrēum von Neuenheim*, pp. 41-2.
 
-<span id="fn_1602"></span>[314:6](pch69.htm#fr_1602) *Mihir Yasht*,
-xxxii, 137 (quoted above, [p. 289](pch65.htm#page_289)). Cp. xxvii. 107.
+<span id="fn_1602"></span>[314:6](pch69.htm#fr_1602.md) *Mihir Yasht*,
+xxxii, 137 (quoted above, [p. 289](pch65.htm#page_289).md). Cp. xxvii. 107.
 
-<span id="fn_1603"></span>[314:7](pch69.htm#fr_1603) Fargard xix, 14, 15
+<span id="fn_1603"></span>[314:7](pch69.htm#fr_1603.md) Fargard xix, 14, 15
 (48, 54). Cp. *Srosh Yasht*, exordium, and i, 3; *Srosh Vaj;* and Frag.
 of Nasks, ix. 2; xxxiv, 70.
 
-<span id="fn_1604"></span>[314:8](pch69.htm#fr_1604) *Literary Remains*,
+<span id="fn_1604"></span>[314:8](pch69.htm#fr_1604.md) *Literary Remains*,
 p. 50.
 
-<span id="fn_1605"></span>[314:9](pch69.htm#fr_1605) As to whom see
+<span id="fn_1605"></span>[314:9](pch69.htm#fr_1605.md) As to whom see
 Hershon, *Genesis with a Talmudical Commentary*, pp. 23-4.
 
-<span id="fn_1606"></span>[315:1](pch69.htm#fr_1606) He is further the
+<span id="fn_1606"></span>[315:1](pch69.htm#fr_1606.md) He is further the
 "Angel of Great Counsel" (Isaiah, ix, 5, Sept.) and heavenly *judge*,
 here again equating with Mithra. Cp. Oxlee, *Christ. Doct. on the
 Principles of Judaism*, ii, 329. In one of the Jewish forms of
@@ -342,29 +342,29 @@ excommunication the formula "Mittraton cujus nomen est ut nomen magistri
 sui" occurs twice. See the translation in Selden, *De jure nat. et
 gent.* 1, iv, c. 7, ed. 1679, p. 524.
 
-<span id="fn_1607"></span>[315:2](pch69.htm#fr_1607) Cp. Darmesteter,
+<span id="fn_1607"></span>[315:2](pch69.htm#fr_1607.md) Cp. Darmesteter,
 *Introd. to Zendavesta*, 2nd ed. c. 5, as to Jewish and Persian
 interactions. M. Darmesteter leant unwarrantably to the view that the
 Persians were the borrowers, but finally pronounces (p. lxviii) Jew and
 Persian alike to have borrowed from Platonism. See above, Part II, ch.
 ii, § 2, for a criticism of this view.
 
-<span id="fn_1608"></span>[315:3](pch69.htm#fr_1608) Cahen's *Bible*,
+<span id="fn_1608"></span>[315:3](pch69.htm#fr_1608.md) Cahen's *Bible*,
 note on Exod. xxiii, 21; Hershon, as cited.
 
-<span id="fn_1609"></span>[315:4](pch69.htm#fr_1609) E. L. Fischer,
+<span id="fn_1609"></span>[315:4](pch69.htm#fr_1609.md) E. L. Fischer,
 *Heidenthum und Offenbarung*, 1878, pp. 121, 130, points to the presence
 of both Logos and Trinity in the Mithraic system. As to the trinitarian
 idea, cp. Cumont, i, 298, 331. 6
 
-<span id="fn_1610"></span>[315:5](pch69.htm#fr_1610) *Mihir Yasht*, xxv,
+<span id="fn_1610"></span>[315:5](pch69.htm#fr_1610.md) *Mihir Yasht*, xxv,
 100.
 
-<span id="fn_1611"></span>[315:6](pch69.htm#fr_1611) *Id*. xxxi, 126.
+<span id="fn_1611"></span>[315:6](pch69.htm#fr_1611.md) *Id*. xxxi, 126.
 
-<span id="fn_1612"></span>[315:7](pch69.htm#fr_1612) Above, [p.
-218](pch46.htm#page_218) *sq*.
+<span id="fn_1612"></span>[315:7](pch69.htm#fr_1612.md) Above, [p.
+218](pch46.htm#page_218.md) *sq*.
 
 ------------------------------------------------------------------------
 
-[Next: § 9. Mithraism and Christianity](pch70)
+[Next: § 9. Mithraism and Christianity](pch70.md)

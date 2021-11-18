@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst01)  [Next](mst03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst01)  [Next](mst03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -195,4 +195,4 @@ L. M.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter One: A Prophet Is Born](mst03)
+[Next: Chapter One: A Prophet Is Born](mst03.md)

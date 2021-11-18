@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe259)  [Next](prwe261) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe259)  [Next](prwe261.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ I shall wish thee on the tree."
 
 ------------------------------------------------------------------------
 
-[Next: A Test of Innocency](prwe261)
+[Next: A Test of Innocency](prwe261.md)

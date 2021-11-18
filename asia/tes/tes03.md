@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes02)  [Next](tes04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes02)  [Next](tes04.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ A, E, I obscure vowels (short).
 
 ê like e in bell, but prolonged.
 
-ei a [diphthong](errata.htm#0) with an accent on i. It always has a
+ei a [diphthong](errata.htm#0.md) with an accent on i. It always has a
 laryngeal intonation, <sup>e</sup>i<sup>?</sup>.
 
 o between *o* and *u* long.
@@ -123,4 +123,4 @@ c\* strongly palatized
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Girl and the Evil Spirit](tes04)
+[Next: 1. The Girl and the Evil Spirit](tes04.md)

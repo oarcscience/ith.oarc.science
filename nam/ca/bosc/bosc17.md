@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc16)  [Next](bosc18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc16)  [Next](bosc18.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,4 +129,4 @@ which is extracted from the hives of the domestic species.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. The Character of the Indian](bosc18)
+[Next: Chapter XVI. The Character of the Indian](bosc18.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wcs04)  [Next](wcs06) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wcs04)  [Next](wcs06.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@
 ### CANON LAW.
 
     The earliest Saxon laws were almost entirely ecclesiastical,<span
-id="fr_1"></span>[1](#fn_1) their basis seeming to have been payment of
+id="fr_1"></span>[1](#fn_1.md) their basis seeming to have been payment of
 titles to the Church and support of the pope through what was known as
 the "hearth penny" to St. Peter. Marriage was by no means allowed to
 escape general ecclesiastical control, its legitimacy being made to
 depend upon the sanction and services of a priest.<span
-id="fr_2"></span>[2](#fn_2) This we learn from Reeves, whose authority
-is indisputable,<span id="fr_3"></span>[3](#fn_3) therefore we discover
+id="fr_2"></span>[2](#fn_2.md) This we learn from Reeves, whose authority
+is indisputable,<span id="fr_3"></span>[3](#fn_3.md) therefore we discover
 that even long before marriage was constituted one of the sacraments,
 celibacy or the confessional established, the Church had perceived the
 great increase in its authority to be brought about by gaining control
@@ -45,7 +45,7 @@ and law.
 receive the Eucharist under a black veil." "Woman may not receive the
 Eucharist in *morbo suo menstrule*."
 
-    At the Synod or Council of Elvira,<span id="fr_4"></span>[4](#fn_4)
+    At the Synod or Council of Elvira,<span id="fr_4"></span>[4](#fn_4.md)
 305 or 306, several restrictive canons were formulated against woman.
 Under Canon 81, she was forbidden to write in her own name to lay
 Christians, but only in the name of her husband. Women were not to
@@ -68,7 +68,7 @@ over the whole administration of justice committed to them, while their
 spiritual judgments were rendered more effective by the addition of
 excommunication to civil punishments. The State, at first holding
 repression over the Church, added to its powers by relieving the clergy
-from all civil duties,<span id="fr_5"></span>[5](#fn_5) thus tending to
+from all civil duties,<span id="fr_5"></span>[5](#fn_5.md) thus tending to
 make of them a body exterior to the civil government. This division was
 farther increased through the emperors giving confirmation to the
 decisions pronounced by bishops in ecclesiastical affairs, and also when
@@ -78,7 +78,7 @@ the civil law. Another step towards the separation of civil from
 ecclesiastical law and the supremacy of the latter, was made when in
 cases of discipline the clergy were allowed to come under the authority
 and supervision of the Spiritual Courts.<span
-id="fr_6"></span>[6](#fn_6)
+id="fr_6"></span>[6](#fn_6.md)
 
     As soon as Christianity became the religion of the State, this power
 was still farther increased by the permission accorded ecclesiastics to
@@ -90,7 +90,7 @@ being thereby greatly lessened, as covetous and unscrupulous
 persons were forthwith attracted to this profession. The law of tithes
 was introduced by Charlemagne, and his edicts largely increased clerical
 power. The compilation of a Code of Canon Law was begun as early as the
-ninth century,<span id="fr_7"></span>[7](#fn_7) by which period the
+ninth century,<span id="fr_7"></span>[7](#fn_7.md) by which period the
 olden acknowledged rights of the clergy, those of superintending morals
 and interference on behalf of the unfortunate, had largely been lost
 sight of, or diverted from their proper course by a system of
@@ -100,7 +100,7 @@ design was that of building up priestly power.
     The complete inferiority and subordination of the female sex was
 maintained both by civil and common law. It was a principle of common
 law that sons should be admitted to an inheritance before
-daughters.<span id="fr_8"></span>[8](#fn_8) This distinction created by
+daughters.<span id="fr_8"></span>[8](#fn_8.md) This distinction created by
 the Church in the interests of the class which was alone admitted to the
 priesthood, thus placing the possession of wealth in the hands of man,
 did much towards keeping woman in a subordinate condition. In accordance
@@ -110,23 +110,23 @@ rights of ownership acting prejudicially upon the individual.
 
 <span id="page_117">p. 117</span>
 
-    Ecclesiastical or Canon Law<span id="fr_9"></span>[9](#fn_9) made
+    Ecclesiastical or Canon Law<span id="fr_9"></span>[9](#fn_9.md) made
 its greatest encroachments at the period when Chivalry<span
-id="fr_10"></span>[10](#fn_10) was at its height; the outward show of
+id="fr_10"></span>[10](#fn_10.md) was at its height; the outward show of
 respect and honor to woman under chivalry keeping pace in its false
 pretence with the destruction of her legal rights. The general
 conception in regard to woman was so degraded at this period that a
 "Community of Women" was proposed, to whom all men should act in the
-relation of husbands.<span id="fr_11"></span>[11](#fn_11) This plan was
+relation of husbands.<span id="fr_11"></span>[11](#fn_11.md) This plan was
 advocated by Jean de Meting, the "Poet of Chivalry," in his famous
 *Roman de la Rose*. Christine of Pisa, a woman of learning and
 remarkable force of character, the first strictly literary woman of
 western Europe, wrote a work in defense of her sex against the general
-libidinous character of the age.<span id="fr_12"></span>[12](#fn_12) Her
+libidinous character of the age.<span id="fr_12"></span>[12](#fn_12.md) Her
 opposition to the debasing theories of the "Romance" marks the later
 period of woman's entrance into literature, and is an era from which
 dates the modern intellectual development of Europe.<span
-id="fr_13"></span>[13](#fn_13) Efforts to utterly crush the moral
+id="fr_13"></span>[13](#fn_13.md) Efforts to utterly crush the moral
 rectitude
 
 <span id="page_118">p. 118</span>
@@ -157,7 +157,7 @@ his condition, could become a priest, and no woman however learned or
 pious or high in station could be admitted to its ranks, the whole
 tendency of ecclesiastical law was to divide mankind into a holy or
 divine sex, and an unholy or impious one.<span
-id="fr_14"></span>[14](#fn_14) Thus Canon Law still farther separated
+id="fr_14"></span>[14](#fn_14.md) Thus Canon Law still farther separated
 
 <span id="page_119">p. 119</span>
 
@@ -172,7 +172,7 @@ language, going "to the worthiest of blood." Blackstone acknowledges
 that this distinction between brothers and sisters reflects shame upon
 England, and was no part of the old Roman law, under which the children
 of a family inherited equally without distinction of sex.<span
-id="fr_15"></span>[15](#fn_15) It was as late as 1879 before the Canon
+id="fr_15"></span>[15](#fn_15.md) It was as late as 1879 before the Canon
 Law in regard to the sole inheritance of sons was repealed in one of the
 Swiss Cantons. The influence of this law in creating selfishness was
 manifested by the opposition it met, brothers piteously asserting ruin
@@ -212,7 +212,7 @@ England 1603, Canon 62 instituted that under penalty of suspension
 people could not marry except between the hours of eight and twelve in
 the forenoon, nor was marriage then allowed in any private place but
 must be performed at the church door.<span
-id="fr_16"></span>[16](#fn_16) The rapid growth of the Canon Law in
+id="fr_16"></span>[16](#fn_16.md) The rapid growth of the Canon Law in
 England must be ascribed to avarice; the denial to wives of any right of
 property in the marital union being an example. At this period Canon Law
 
@@ -223,19 +223,19 @@ for every species of wrong doing. The Church not only remitted penalty
 for crimes already committed, but sold indulgences for the commission of
 new ones. Its touch soon extended to all relations of life. Marriages
 within the seventh degree were forbidden by the Church as
-incestuous,<span id="fr_17"></span>[17](#fn_17) but to those able to pay
+incestuous,<span id="fr_17"></span>[17](#fn_17.md) but to those able to pay
 for such indulgences a dispensation for such "incestuous" marriage was
 readily granted. No crime so great it could not be condoned for money.
 Thus through Canon Law was seen the anomaly of legal marriage between
 the laity pronounced concubinage, while the concubines of priests were
 termed "wives." As soon as the legality of marriage was made dependent
 upon priestly sanction the door of gross immorality was widely
-opened.<span id="fr_18"></span>[18](#fn_18) All restrictions connected
+opened.<span id="fr_18"></span>[18](#fn_18.md) All restrictions connected
 with this relation were made to fall with heaviest weight upon woman.
 Husbands were secured the right of separation for causes not freeing
 wives; even the adultery of the husband was not deemed sufficient cause
 unless he brought his mistress into the same house with his wife.<span
-id="fr_19"></span>[19](#fn_19)Church and State sustained each other.
+id="fr_19"></span>[19](#fn_19.md)Church and State sustained each other.
 Conviction of the husband for a capital crime gave the wife no release
 from the marriage bond, yet in case of the husband's treason, his
 innocent wife and children were robbed of all share in the estate of the
@@ -255,7 +255,7 @@ beings, claimed immunity from civil law and allowed for themselves an
 persons who could read and write. This arrest known as "benefit of
 clergy" was denied to all women, who were liable to sentence of death
 for the first crime of simple larceny, bigamy, etc.<span
-id="fr_21"></span>[21](#fn_21) Men who by virtue of sex could become
+id="fr_21"></span>[21](#fn_21.md) Men who by virtue of sex could become
 priests if able to read, were for the same crimes punished by simple
 branding in the hand, or a few months imprisonment, while a woman was
 drawn and burned alive. Did not history furnish much proof of this
@@ -274,7 +274,7 @@ having so early converted this
 <span id="page_123">p. 123</span>
 
 contract into a sacramental ordinance.<span
-id="fr_22"></span>[22](#fn_22) During many centuries education was
+id="fr_22"></span>[22](#fn_22.md) During many centuries education was
 denied to woman in Christian countries for reasons connected with her
 ineligibility to the priesthood. The art of reading is by scholars
 believed to have been one of the ancient mysteries taught at Eleusis and
@@ -287,7 +287,7 @@ liberty, freedom, are derived, is one and the same as liber, a book, and
 had close connection with the intellectual, literary, and priestly
 class. As under Christian doctrine the priesthood was denied to woman,
 so under the same rule learning was prohibited to her.<span
-id="fr_23"></span>[23](#fn_23) To permit woman's education under
+id="fr_23"></span>[23](#fn_23.md) To permit woman's education under
 Christianity would have been a virtual concession of her right to the
 
 <span id="page_124">p. 124</span>
@@ -316,7 +316,7 @@ for leaving them in poverty. The earlier laws of the Danish Knut, or
 Canute, show that the estate was then divided among all the children.
 Under Canon Law, the testimony of a woman was not received in a court of
 justice. She was depicted by the Church as the source of all evil, the
-mother of every ill.<span id="fr_24"></span>[24](#fn_24) Legislation had
+mother of every ill.<span id="fr_24"></span>[24](#fn_24.md) Legislation had
 
 <span id="page_125">p. 125</span>
 
@@ -334,7 +334,7 @@ law was extant in Scotland; and as late as 1878, that through the
 influence of Signor Morelli the Italian Parliament repealed the old
 restriction existant in that country regarding woman's testimony. Under
 Canon Law a woman could not be witness in ecclesiastical or criminal
-suits, nor attest a will.<span id="fr_25"></span>[25](#fn_25) To cast
+suits, nor attest a will.<span id="fr_25"></span>[25](#fn_25.md) To cast
 doubts upon a person's word is indicative of the most supreme contempt,
 importing discredit to the whole character. That a woman was not allowed
 to attest a will, nor become a witness in ecclesiastical suits, implied
@@ -356,12 +356,12 @@ objects of temporal jurisdiction were provided for by Canon Law. it was
 intended that the clergy should come entirely under its action, governed
 as a distinct people from the laity. The principal efforts of the Canon
 Law towards which all its enactments tended, was the subordination of
-woman<span id="fr_26"></span>[26](#fn_26) and the elevation of the
+woman<span id="fr_26"></span>[26](#fn_26.md) and the elevation of the
 hierarchy. To secure these two ends the church did not hesitate at
 forgery. For many hundred years a collection of Decretals, or what were
 claimed as decrees of the early popes, carried great authority, although
 later investigation has proven them forgeries.<span
-id="fr_27"></span>[27](#fn_27) Civil as well as ecclesiastical laws were
+id="fr_27"></span>[27](#fn_27.md) Civil as well as ecclesiastical laws were
 forged in the interest of the priesthood; a noted instance, was the once
 famous law of Constantine which endowed bishops with unlimited power,
 giving them jurisdiction in all kinds of causes. This law declared that
@@ -376,15 +376,15 @@ priestly order, by means
 
 <span id="page_127">p. 127</span>
 
-of falsehood and forgery.<span id="fr_28"></span>[28](#fn_28) The two
+of falsehood and forgery.<span id="fr_28"></span>[28](#fn_28.md) The two
 classes of temporal affairs that Spiritual Courts especially endeavored
 to appropriate, were marriages, and wills, with everything bearing upon
 them. In these the greatest oppression fell upon women.<span
-id="fr_29"></span>[29](#fn_29) Canon Law gradually acquired enormous
+id="fr_29"></span>[29](#fn_29.md) Canon Law gradually acquired enormous
 power through the control it gained over wills, the guardianship of
-orphans, marriage, and divorce.<span id="fr_30"></span>[30](#fn_30) As
+orphans, marriage, and divorce.<span id="fr_30"></span>[30](#fn_30.md) As
 soon as ecclesiastical courts were divided from the temporal in
-England,<span id="fr_31"></span>[31](#fn_31) a new set of principles and
+England,<span id="fr_31"></span>[31](#fn_31.md) a new set of principles and
 maxims began to prevail. This was one of the first effects of the
 Conquest, but in 1272, Robert Kilmandy, Dean of Canterbury, gave
 directions for the restoration and observation of the ancient and
@@ -416,7 +416,7 @@ worst features into the common law; the new church, social and family
 life all partaking of this injustice. A great number of canons were
 enacted after the reformation. These, together with the foreign canons
 which had been adopted, were held as part of the law of England.<span
-id="fr_32"></span>[32](#fn_32) The Episcopal church appropriated
+id="fr_32"></span>[32](#fn_32.md) The Episcopal church appropriated
 numerous canons extant at time of the reformation, several of these
 having been created for purpose of sustaining the church at a period
 when the temporal power threatened encroachment.
@@ -424,7 +424,7 @@ when the temporal power threatened encroachment.
 <span id="page_129">p. 129</span>
 
 The archdeacon of Surrey prepared a voluminous work upon this subject
-known as the Jurus,<span id="fr_33"></span>[33](#fn_33) proving that
+known as the Jurus,<span id="fr_33"></span>[33](#fn_33.md) proving that
 these canons, decrees, etc., when falling into disuse had been
 established by act of Parliament, as part of the law of England The
 preface of his work declared that it had been prepared purely for the
@@ -435,7 +435,7 @@ Anglican--and also as part of English law.
 
 An act of Parliament at this age was regarded as synonymous with a law
 of God. The Bible and the English government were upon the same plane,
-each to be implicitly obeyed.<span id="fr_34"></span>[34](#fn_34) Canon
+each to be implicitly obeyed.<span id="fr_34"></span>[34](#fn_34.md) Canon
 Law thus firmly established by act of Parliament, the union of Church
 and State complete, England lost much of that civil freedom whose origin
 can be traced to the wise legislation and love of freedom inhering in
@@ -462,13 +462,13 @@ to ecclesiasticism, to the reign of Stephen, who ascended to the throne
 of the church full, the bearing of children was enforced upon women as a
 religious duty. No condition of health or distaste for motherhood was
 admitted as exemption. Alike from the altar, the confessional, and at
-the marital ceremony,<span id="fr_35"></span>[35](#fn_35) was this duty
+the marital ceremony,<span id="fr_35"></span>[35](#fn_35.md) was this duty
 taught, nor has such instruction even under the light of physiology and
 new regard for personal rights, yet ceased.<span
-id="fr_36"></span>[36](#fn_36) No less is the unresisting subjection of
+id="fr_36"></span>[36](#fn_36.md) No less is the unresisting subjection of
 women in this relation indirectly or directly enforced by the Protestant
 and the Greek churches as the law of the Bible and God. 'Increase and
-multiply'<span id="fr_37"></span>[37](#fn_37) has been the first
+multiply'<span id="fr_37"></span>[37](#fn_37.md) has been the first
 commandment for woman, held as far more binding upon her than the "Ten
 Words" of Mount Sinai. Proof exists in abundance of a character
 impossible to present in this work.
@@ -520,7 +520,7 @@ was against marriage, an unmarried woman unless dedicating her life to
 the church was, regarded with more contempt than the married. To be
 under control of a husband was looked upon as the normal condition of
 women not living celibate lives. Consequently women were driven into
-marriage or monastic houses,<span id="fr_38"></span>[38](#fn_38) and no
+marriage or monastic houses,<span id="fr_38"></span>[38](#fn_38.md) and no
 reproach so great as the term "old maid." The influence of custom is
 nowhere more discernible than in Blackstone himself. The great
 commentator while fully admitting the blending of Canon with Common law,
@@ -560,7 +560,7 @@ himself, but God, through his lips, as asserted by the priesthood
 themselves. This impious assertion so capable as shown of being used for
 the most tyrannous purposes, came also into the Reformation, and is even
 heard from the lips of Protestant clergymen to-day.<span
-id="fr_39"></span>[39](#fn_39) Denied recognition of a right to decide
+id="fr_39"></span>[39](#fn_39.md) Denied recognition of a right to decide
 for themselves whether the priest spoke from God, or from his own
 ambitious and iniquitous Purposes, deprived of education as well as of
 free thought,--the latter a crime to be punished with death after the
@@ -588,7 +588,7 @@ perfection constitutes the happiness of mankind, was made the implement
 of excessive mental torture. Common Law as it exists to-day is the
 outgrowth of Ecclesiastical or Canon Law touching upon all the relations
 of life but falling with heaviest weight upon woman, as Blackstone so
-frankly admits.<span id="fr_40"></span>[40](#fn_40) From the X. to the
+frankly admits.<span id="fr_40"></span>[40](#fn_40.md) From the X. to the
 XVI. centuries is the period when the features of the Canon Law most
 derogatory to woman became thoroughly incorporated into English common
 law, since which period the complete inferiority and subordination of
@@ -659,7 +659,7 @@ was no more to be regarded as his child than as the child of any other
 man. She was "fatherless." She was "A sacrilegious child" having
 violated sacred things by coming into existence. Her "holy" father under
 Canon Law was entirely irresponsible for her birth.<span
-id="fr_42"></span>[42](#fn_42)
+id="fr_42"></span>[42](#fn_42.md)
 
     The reformation proved itself in many ways as restrictive towards
 woman as catholicism. The commencement of modern law dates to the reign
@@ -670,7 +670,7 @@ of Elizabeth,
 who established the reformation upon a firm basis. The oppression of her
 reign exceeded all that had been experienced under Catholicism. No
 cottager in England was permitted to shelter his homeless mother or
-sister under penalty<span id="fr_43"></span>[43](#fn_43) because, she
+sister under penalty<span id="fr_43"></span>[43](#fn_43.md) because, she
 was "masterless." The greatest amount of legislation both religious and
 secular under the Patriarchate has bad woman for its object, and this is
 especially noticeable in all countries where Christianity has been the
@@ -681,7 +681,7 @@ the Anglo-Saxons the priesthood possessed great influence yet after the
 Norman Conquest ecclesiasticism gained much greater control in England,
 and Canon Law began to influence legislation, as has been shown,
 exercising its chief restrictive force upon woman. While under old
-Common Law,<span id="fr_44"></span>[44](#fn_44) a husband was compelled
+Common Law,<span id="fr_44"></span>[44](#fn_44.md) a husband was compelled
 to leave his wife one-third of his property and could leave her as much
 more as he pleased, by Canon Law be was prohibited from leaving her more
 than one-third and could leave her as much less as he pleased. Thus
@@ -699,7 +699,7 @@ devised to wives was left them at the dictate of affection and not of
 law. Thus early did the Church in England override Common Law to the
 detriment of woman. While thus legislating in opposition to family
 rights, the church continually favored its own increase of its own
-property.<span id="fr_45"></span>[45](#fn_45) The world has produced no
+property.<span id="fr_45"></span>[45](#fn_45.md) The world has produced no
 system so thoroughly calculated to extend its own power and wealth, as
 this vast celibate organization which, under the guise of religion,
 appealed to man's superstition, and ruled his will under the assumption
@@ -725,7 +725,7 @@ numerous and stringent enactments which rendered it impossible for woman
 to succeed to any considerable amount of property, forcing her to entire
 dependence upon man, either as a wife, or as a resident of a religious
 house; thus she entirely lost the freedom possessed by her in pagan
-Rome.<span id="fr_46"></span>[46](#fn_46)
+Rome.<span id="fr_46"></span>[46](#fn_46.md)
 
     While under Canon Law the dower of the wife was forfeited by
 attainder of the husband, yet the husband did not lose his right to the
@@ -768,7 +768,7 @@ person with whom she had contracted was held to have taken part in a
 fraud. The denial under Common Law of her right to make a contract grew
 out of the denial of her right of ownership. Not possessing control of
 her inheritance or of her future actions, she was consequently held
-unable to make a binding contract.<span id="fr_47"></span>[47](#fn_47)
+unable to make a binding contract.<span id="fr_47"></span>[47](#fn_47.md)
 Forbidden the right of acting for herself; deprived
 
 <span id="page_142">p. 142</span>
@@ -777,7 +777,7 @@ of the ownership and control of her own property or earnings, woman had
 little opportunity to prove her business capacity. Since the time of
 Aristotle the control of property has been recognized as the basis of
 social and responsible conditions. The great school of German
-jurists<span id="fr_48"></span>[48](#fn_48) teach that ownership
+jurists<span id="fr_48"></span>[48](#fn_48.md) teach that ownership
 increases both physical and moral capacity, and that as owner, actual,
 or possible, man is a more capable and worthy being than he would
 otherwise be.
@@ -791,7 +791,7 @@ of English speaking peoples, has greatly injured civilization through
 its destruction of woman's property rights. Canon or Church laws were
 enacted upon the principle of protection for men alone and upon these
 civil laws gradually became wholly based. Herbert Spencer<span
-id="fr_49"></span>[49](#fn_49) has not failed to recognize this fact in
+id="fr_49"></span>[49](#fn_49.md) has not failed to recognize this fact in
 England. No less in law than in religion is woman dealt with as a
 secondary being, for whom equal religious rights or equal civil rights
 are not designed. While under the Matriarchate justice and purity
@@ -813,14 +813,14 @@ by Pennsylvania, New York, and about the same period by Rhode Island),
 it was in the husband's power in every part of christian Europe and
 America, to repudiate any bargain, sale or gift made by the wife as of
 no binding legal force, and this, even though she had brought the entire
-property into the marital firm.<span id="fr_50"></span>[50](#fn_50)
+property into the marital firm.<span id="fr_50"></span>[50](#fn_50.md)
 Therefore under Christian laws the person with whom the wife made a
 contract, or to whom she made a gift was held as a criminal, or
 participant in a fraud. The wife under Canon Law belonged to the
 husband, and as a sequence to not owning herself she could not own
 property, and in her condition of servitude could possess no control
 over either her present or her future actions. Such is Common Law warped
-and changed by Canon Law.<span id="fr_51"></span>[51](#fn_51)
+and changed by Canon Law.<span id="fr_51"></span>[51](#fn_51.md)
 
     Property is a delicate test of the condition of a nation. It is a
 remarkable fact in history that the rights of property have everywhere
@@ -876,7 +876,7 @@ establishment of Christianity they had conferred the rights of woman to
 property; daughters inherited equally with sons. To such extent was
 woman's rights of property carried that at one period, as has been
 heretofore stated, the greater part of the real-estate of the empire was
-in woman's possession.<span id="fr_52"></span>[52](#fn_52) The slavish
+in woman's possession.<span id="fr_52"></span>[52](#fn_52.md) The slavish
 condition of woman greatly increased through denial of her rights of
 inheritance, was more fully established through denial to her of the
 fruits of her own labor in the
@@ -920,17 +920,17 @@ fact of her
 <span id="page_147">p. 147</span>
 
 existence took new force after the rise of Melancthon, Huss, and
-Luther.<span id="fr_53"></span>[53](#fn_53) About this period it was
+Luther.<span id="fr_53"></span>[53](#fn_53.md) About this period it was
 said "she that knoweth how to compound a pudding is more desirable than
 she who skilfully compoundeth a poem."<span
-id="fr_54"></span>[54](#fn_54) Men thought it no shame to devote
+id="fr_54"></span>[54](#fn_54.md) Men thought it no shame to devote
 themselves to the pleasure of the table. Epicures and gluttons abounded,
 but to women was forbidden a seat at the world's intellectual board; she
 who secured. learning did so at the peril of her social and religious
 position. Under no other system of religion has there been such absolute
 denial of woman's right to directly approach the divinity; under no
 other religious system has her debasement been greater.<span
-id="fr_55"></span>[55](#fn_55)
+id="fr_55"></span>[55](#fn_55.md)
 
     It cannot be asserted that the religious system teaching restrictive
 moral and civil laws regarding woman, is of the past. Its still great
@@ -947,7 +947,7 @@ President of the United States, head of a form of government which
 recognizes religion as entirely disconnected with the State, so far
 catered to superstition, so far conceded the assumptions of this system,
 as to send an elegant copy of the Federal Constitution to the Pope,
-through Cardinal Gibbons.<span id="fr_56"></span>[56](#fn_56) No
+through Cardinal Gibbons.<span id="fr_56"></span>[56](#fn_56.md) No
 stronger proof is required of the still powerful influence of that
 system based upon the degradation of woman, than the fact that the
 President of the United States, temporary head of a nation professedly
@@ -991,7 +991,7 @@ claim of his imprisonment in the Vatican. Nor at the least supreme
 moment of his pride and glorification did the pope forget to call
 attention of the world to his temporal claims, by a refusal to receive
 the offered gifts of the king and queen who occupy the worldly throne he
-maintains to be especially his own.<span id="fr_57"></span>[57](#fn_57)
+maintains to be especially his own.<span id="fr_57"></span>[57](#fn_57.md)
 
 <span id="page_150">p. 150</span>
 
@@ -1010,7 +1010,7 @@ century has not been able to cast off.
     Reverence for the ancient in customs, habits of life, law, religion,
 is the strongest and most pernicious obstacle to advancing civilization.
 To this doctrine of woman's created inferiority<span
-id="fr_58"></span>[58](#fn_58) and original sin we can trace those
+id="fr_58"></span>[58](#fn_58.md) and original sin we can trace those
 irregularities which for many centuries filled the Church with shame,
 for practices more obscene than the orgies of Babylon or Corinth, and
 which dragged Christendom to a darkness blacker than the night of
@@ -1033,7 +1033,7 @@ laws, consent to none, abrogate none, is their original sin."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Marquette.](wcs06)
+[Next: Chapter IV. Marquette.](wcs06.md)
 
 ------------------------------------------------------------------------
 
@@ -1041,19 +1041,19 @@ laws, consent to none, abrogate none, is their original sin."
 
 <span id="fn_page_113">p. 113</span>  
 
-<span id="fn_1"></span>[1.](#fr_1)  Maine says the bodies of customary
+<span id="fn_1"></span>[1.](#fr_1.md)  Maine says the bodies of customary
 law which were built up over Europe were in all matters of first
 principles under ecclesiastical influence, but the particular
 application of a principle once accepted were extremely various.
 
-<span id="fn_2"></span>[2.](#fr_2)  The Council held at Winchester in
+<span id="fn_2"></span>[2.](#fr_2.md)  The Council held at Winchester in
 time of Archbishop Le Franc contained a constitution that a marriage
 without the benediction of a priest should not be deemed a legitimate
 marriage. Ecclesiastical law as allowed in this country (Great Britain),
 from earliest times the presence of a priest was required to constitute
 a legal marriage. Reeves.--*History of English Law*.
 
-<span id="fn_3"></span>[3.](#fr_3)  Reeves History of English Law is a
+<span id="fn_3"></span>[3.](#fr_3.md)  Reeves History of English Law is a
 full and comprehensive history of the English law. Accurate and
 judicious as well as full. Lord Mansfield is said to have advised its
 author. In this work the student is presented with all that is necessary
@@ -1065,25 +1065,25 @@ Elizabeth. Sherwood.--*Professional Ethics*.
 
 <span id="fn_page_114">p. 114</span>  
 
-<span id="fn_4"></span>[4.](#fr_4)  Hefele's, *Acts of Councils*.
+<span id="fn_4"></span>[4.](#fr_4.md)  Hefele's, *Acts of Councils*.
 
 <span id="fn_page_115">p. 115</span>  
 
-<span id="fn_5"></span>[5.](#fr_5)  Church and priestly property is
+<span id="fn_5"></span>[5.](#fr_5.md)  Church and priestly property is
 still untaxed in the United States. At an early day the clergy were not
 required to sit on juries nor permitted to cast a vote.
 
-<span id="fn_6"></span>[6.](#fr_6)  Giessier, *Ecclesiastical History*.
+<span id="fn_6"></span>[6.](#fr_6.md)  Giessier, *Ecclesiastical History*.
 
 <span id="fn_page_116">p. 116</span>  
 
-<span id="fn_7"></span>[7.](#fr_7)  Doctrines in the Canon Law most
+<span id="fn_7"></span>[7.](#fr_7.md)  Doctrines in the Canon Law most
 favorable to the power of the clergy are founded in ignorance, or
 supported by fraud and forgery, of which a full account is found in
 Gerard. See *Mem. de l'Acad. des Inscript.*, Tom 18, p. 46. Also
 Voltaire's essay upon general history.
 
-<span id="fn_8"></span>[8.](#fr_8)  "Whenever Canon Law has been the
+<span id="fn_8"></span>[8.](#fr_8.md)  "Whenever Canon Law has been the
 basis of legislation, we find the laws of succession sacrificing the
 interests of daughters and wives." "Du Cange, in his Glossary, *voc
 Casia Christianitatis*, has collected most of the causes with respect to
@@ -1093,7 +1093,7 @@ proper heads scrutinizing the pretensions of the church."
 
 <span id="fn_page_117">p. 117</span>  
 
-<span id="fn_9"></span>[9.](#fr_9)  "Canons were made from time to time
+<span id="fn_9"></span>[9.](#fr_9.md)  "Canons were made from time to time
 to supply the defects of the common law of the church; so were statutes
 added to enforce both Common and Canon Law. The greater part of the
 statutes made before the Reformation, which concerns the church and
@@ -1101,7 +1101,7 @@ clergy, are directly leveled against violence committed against the
 possession of persons by the minister or the king, and against the
 encroachments of the Temporal Courts upon the spiritual jurisdiction."
 
-<span id="fn_10"></span>[10.](#fr_10)  "Phantastic romanticists and
+<span id="fn_10"></span>[10.](#fr_10.md)  "Phantastic romanticists and
 calculating persons have endeavored to represent this period as the age
 of morality and sincere reverence for woman. \* \* \* The 'Service of
 Love' preached by French, German, and Italian knights, was supposed to
@@ -1117,65 +1117,65 @@ nobles sat on the magistrates bench, and in the country criminal
 jurisdiction was in the hands of the lord of the manor, squire or
 bishop."
 
-<span id="fn_11"></span>[11.](#fr_11)  The first article of the famous
+<span id="fn_11"></span>[11.](#fr_11.md)  The first article of the famous
 Code of Love was "Marriage is not a legitimate excuse against love."
 
-<span id="fn_12"></span>[12.](#fr_12)  This was Christine's first work.
+<span id="fn_12"></span>[12.](#fr_12.md)  This was Christine's first work.
 Her success was so great that she supported a family of six persons by
 her pen.
 
-<span id="fn_13"></span>[13.](#fr_13)  Wright. *Womankind in Europe*.
+<span id="fn_13"></span>[13.](#fr_13.md)  Wright. *Womankind in Europe*.
 
 <span id="fn_page_118">p. 118</span>  
 
-<span id="fn_14"></span>[14.](#fr_14)  "The Fathers seem to have thought
+<span id="fn_14"></span>[14.](#fr_14.md)  "The Fathers seem to have thought
 dissolution of marriage was not lawful on account of the adultery of the
 husband, but that it was not absolutely unlawful for a husband whose
 wife had committed adultery to re-marry."
 
 <span id="fn_page_119">p. 119</span>  
 
-<span id="fn_15"></span>[15.](#fr_15)  The preference of males over
+<span id="fn_15"></span>[15.](#fr_15.md)  The preference of males over
 females in succession was totally unknown to the laws of Rome. Brothers
 and sisters were entitled to equal parts of the inheritance.
 Blackstone.--*Commentaries*.
 
 <span id="fn_page_120">p. 120</span>  
 
-<span id="fn_16"></span>[16.](#fr_16)  No marriage could take place
+<span id="fn_16"></span>[16.](#fr_16.md)  No marriage could take place
 after 12 M., which is even now the rule of the English Established
 Church. The decrees of the Plenary Council, Baltimore 1884, tend to the
 establishment of similar regulations in our own country.
 
 <span id="fn_page_121">p. 121</span>  
 
-<span id="fn_17"></span>[17.](#fr_17)  The New Testaments of sixty years
+<span id="fn_17"></span>[17.](#fr_17.md)  The New Testaments of sixty years
 since, contained a list of relatives commencing with grandfather and
 grandmother, whom a man and woman might not marry.
 
-<span id="fn_18"></span>[18.](#fr_18)  The policy of the church was to
+<span id="fn_18"></span>[18.](#fr_18.md)  The policy of the church was to
 persuade mankind that the cohabitation of a man and woman was in itself
 unholy, and that nothing but a religious bond or sacrament could render
 it inoffensive in the eyes of God. Pike.--*History of Crime in England*,
 I, 90.
 
-<span id="fn_19"></span>[19.](#fr_19)  This law held good in Protestant
+<span id="fn_19"></span>[19.](#fr_19.md)  This law held good in Protestant
 England until within the last decade.
 
 <span id="fn_page_122">p. 122</span>  
 
-<span id="fn_20"></span>[20.](#fr_20)  The church visited its penalties
+<span id="fn_20"></span>[20.](#fr_20.md)  The church visited its penalties
 upon the innocent as well as guilty; whet, any man remained under
 excommunication two months, his wife and children were interdicted and
 deprived of all doctrines of the church but baptism and repentance.
 Lea.--*Studies in Church History*.
 
-<span id="fn_21"></span>[21.](#fr_21)  In England, until the reign of
+<span id="fn_21"></span>[21.](#fr_21.md)  In England, until the reign of
 William and Mary, women were refused the benefit of clergy.
 
 <span id="fn_page_123">p. 123</span>  
 
-<span id="fn_22"></span>[22.](#fr_22)  In the hands of such able
+<span id="fn_22"></span>[22.](#fr_22.md)  In the hands of such able
 politicians it (marriage), soon became an engine of great importance to
 the papal scheme of an universal monarchy over Christendom. The
 innumerable canonical impediments that were invented and occasionally
@@ -1185,7 +1185,7 @@ whose marriages were sanctioned or repudiated, their issue legitimated
 or bastardized \* \* \* according to the humor or interest of the
 reigning pontiff.--*Commentaries*, 3, 92.
 
-<span id="fn_23"></span>[23.](#fr_23)  The word Liber, free, the solar
+<span id="fn_23"></span>[23.](#fr_23.md)  The word Liber, free, the solar
 *Phre* of Egypt, and Liber, a book, being as has been shown, closely
 connected, the bookish men of Bac, Boc, Bacchus, were comparatively free
 from the rule of the warrior class, both in civil and military point of
@@ -1207,7 +1207,7 @@ temples.--*Anacalypsis*, 2, 271-2.
 
 <span id="fn_page_124">p. 124</span>  
 
-<span id="fn_24"></span>[24.](#fr_24)  Woman was represented as the door
+<span id="fn_24"></span>[24.](#fr_24.md)  Woman was represented as the door
 of hell, as the mother of all human ills. She should be ashamed of the
 very thought that she is a woman, she should live in continual penance
 on account of the curses she had brought upon the world. She should be
@@ -1221,23 +1221,23 @@ Morals*.
 
 <span id="fn_page_125">p. 125</span>  
 
-<span id="fn_25"></span>[25.](#fr_25)  No woman can witness a will in
+<span id="fn_25"></span>[25.](#fr_25.md)  No woman can witness a will in
 the state of Louisiana to-day.
 
 <span id="fn_page_126">p. 126</span>  
 
-<span id="fn_26"></span>[26.](#fr_26)  Blackstone says whosoever wishes
+<span id="fn_26"></span>[26.](#fr_26.md)  Blackstone says whosoever wishes
 to form a correct idea of Canon Law can do so by examining it in regard
 to married women.--*Commentaries*.
 
-<span id="fn_27"></span>[27.](#fr_27)  Blondell, a learned Protestant
+<span id="fn_27"></span>[27.](#fr_27.md)  Blondell, a learned Protestant
 who died in 1659, fully proved Isidore's Collection of the Decretal
 Epistles of the popes of the first three centuries, to be all forged and
 a shameless imposture, says *Collier*.
 
 <span id="fn_page_127">p. 127</span>  
 
-<span id="fn_28"></span>[28.](#fr_28)  The famous law of Constantine,
+<span id="fn_28"></span>[28.](#fr_28.md)  The famous law of Constantine,
 attached to the Theodosian Code, by virtue of which a prodigious and
 monstrous jurisdiction was formerly attributed to bishops, or to the
 hieratic order, though in reality that law was never a part of the
@@ -1261,17 +1261,17 @@ and republics of their authority and legal power, by this means under
 the cloak of religion, its constant pretext, most strenuously serving
 their own ends and ambition.--*Ibid*, 107.
 
-<span id="fn_29"></span>[29.](#fr_29)  See Reeves.--*History of English
+<span id="fn_29"></span>[29.](#fr_29.md)  See Reeves.--*History of English
 Law*.
 
-<span id="fn_30"></span>[30.](#fr_30)  Draper.--*Conflict of Science and
+<span id="fn_30"></span>[30.](#fr_30.md)  Draper.--*Conflict of Science and
 Religion*.
 
-<span id="fn_31"></span>[31.](#fr_31)  Reeves.
+<span id="fn_31"></span>[31.](#fr_31.md)  Reeves.
 
 <span id="fn_page_128">p. 128</span>  
 
-<span id="fn_32"></span>[32.](#fr_32)  Declaration of judges in the
+<span id="fn_32"></span>[32.](#fr_32.md)  Declaration of judges in the
 famous case of Evans and Ascuith. Vaughn said in a later case of the
 same kind, "If Canon Law be made part of the law of this land, then it
 is as much a law of the land and as well, and by the same authority as
@@ -1279,7 +1279,7 @@ any other part of the law of the land."
 
 <span id="fn_page_129">p. 129</span>  
 
-<span id="fn_33"></span>[33.](#fr_33)  Gibson was archdeacon of Surrey,
+<span id="fn_33"></span>[33.](#fr_33.md)  Gibson was archdeacon of Surrey,
 Rector of Lambeth, and Chaplain of his Grace the Lord Archbishop of
 Canterbury (Primate of all England and Metropolitan) to whom the Jurus
 was dedicated. The work said: "The foreign is what we commonly call the
@@ -1294,31 +1294,31 @@ binding by their own authority. \* \* \* We have a plain declaration
 that foreign laws became part of the law of England by long use and
 consent. Gibson.--*Codex Jurus Ecclesiasticum Anglican*.
 
-<span id="fn_34"></span>[34.](#fr_34)  *English Common Law Reports*,
+<span id="fn_34"></span>[34.](#fr_34.md)  *English Common Law Reports*,
 Hill vs. Gould, *Vaughn*, p. 327, says: "Whatever is declared by an Act
 of Parliament to be against God's law must be so admitted by us, because
 it is so declared by an Act of Parliament."
 
 <span id="fn_page_130">p. 130</span>  
 
-<span id="fn_35"></span>[35.](#fr_35)  Under Catholic form the bride
+<span id="fn_35"></span>[35.](#fr_35.md)  Under Catholic form the bride
 promises to consecrate her body to the marital rite.
 
-<span id="fn_36"></span>[36.](#fr_36)  Chiniquy.--*The Priest, the Woman
+<span id="fn_36"></span>[36.](#fr_36.md)  Chiniquy.--*The Priest, the Woman
 and the Confessional*.
 
-<span id="fn_37"></span>[37.](#fr_37)  "The clergy formerly, and to this
+<span id="fn_37"></span>[37.](#fr_37.md)  "The clergy formerly, and to this
 very day, declare those women evil who desire to limit self-indulgence
 and procreation."
 
 <span id="fn_page_132">p. 132</span>  
 
-<span id="fn_38"></span>[38.](#fr_38)  See Lecky.--*Hist. European
+<span id="fn_38"></span>[38.](#fr_38.md)  See Lecky.--*Hist. European
 Morals*.
 
 <span id="fn_page_133">p. 133</span>  
 
-<span id="fn_39"></span>[39.](#fr_39)  In a sermon laudatory of the
+<span id="fn_39"></span>[39.](#fr_39.md)  In a sermon laudatory of the
 preachers office, delivered in the May Memorial Unitarian Church, in
 Syracuse, N. Y., Sunday, Nov. 27,1887, Rev. Mr Calthrop, the pastor,
 said: "Noble words are your chief weapons of offense and defense. But
@@ -1328,13 +1328,13 @@ November 28th.
 
 <span id="fn_page_134">p. 134</span>  
 
-<span id="fn_40"></span>[40.](#fr_40)  Whoever wishes to gain insight
+<span id="fn_40"></span>[40.](#fr_40.md)  Whoever wishes to gain insight
 into that great institution, Common Law, can do so most efficiently by
 studying Canon Law in regard to married women, *Commentaries*.
 
 <span id="fn_page_136">p. 136</span>  
 
-<span id="fn_41"></span>[41.](#fr_41)  Distinction of class appears most
+<span id="fn_41"></span>[41.](#fr_41.md)  Distinction of class appears most
 prominently in all the criminal laws for which the clergy are
 responsible. It was for the man of low estate, the slave, and for women,
 that the greatest atrocities were reserved. If the thief was a free
@@ -1346,7 +1346,7 @@ burn the offender to death. Pike.--*Hist. of Crime in England*, 49-51.
 
 <span id="fn_page_137">p. 137</span>  
 
-<span id="fn_42"></span>[42.](#fr_42)  A correspondent of "The London
+<span id="fn_42"></span>[42.](#fr_42.md)  A correspondent of "The London
 Times" writes from Rome that he has not beard a single doubt expressed
 as to the paternity of the Countess Lambertini, and the line adopted by
 the Antonelli heirs tacitly confirms it. They strenuously oppose the
@@ -1403,9 +1403,9 @@ played by Signora Marconi, and as to the Cardinal's relations with the
 
 <span id="fn_page_138">p. 138</span>  
 
-<span id="fn_43"></span>[43.](#fr_43)  See Reeves.--*Early English Law*.
+<span id="fn_43"></span>[43.](#fr_43.md)  See Reeves.--*Early English Law*.
 
-<span id="fn_44"></span>[44.](#fr_44)  *Hollingshed's Chronicles*.
+<span id="fn_44"></span>[44.](#fr_44.md)  *Hollingshed's Chronicles*.
 
 The foundation of old common law seems traceable to Martia, the widow of
 Guilliame, left regent of her husband's kingdom, comprising a part of
@@ -1418,7 +1418,7 @@ upon marriage.
 
 <span id="fn_page_139">p. 139</span>  
 
-<span id="fn_45"></span>[45.](#fr_45)  In England, in 1538, or even
+<span id="fn_45"></span>[45.](#fr_45.md)  In England, in 1538, or even
 earlier, it was calculated that besides the tithes, one-third of the
 kingdom was ecclesiastical property, and that these vast Possessions
 were devoted to the support of a body of men who found their whole
@@ -1427,7 +1427,7 @@ Celibacy*.
 
 <span id="fn_page_140">p. 140</span>  
 
-<span id="fn_46"></span>[46.](#fr_46)  The pagan laws during the Empire
+<span id="fn_46"></span>[46.](#fr_46.md)  The pagan laws during the Empire
 had been continually repealing the old disabilities of women; and the
 legislative movement in their favor continued with unabated force from
 Constantine to Justinian, and appeared also in some of the early laws of
@@ -1455,23 +1455,23 @@ II, pp. 357-359.
 
 <span id="fn_page_141">p. 141</span>  
 
-<span id="fn_47"></span>[47.](#fr_47)  Sheldon Amos.--*Science of Law*.
+<span id="fn_47"></span>[47.](#fr_47.md)  Sheldon Amos.--*Science of Law*.
 
 <span id="fn_page_142">p. 142</span>  
 
-<span id="fn_48"></span>[48.](#fr_48)  *Ibid*.
+<span id="fn_48"></span>[48.](#fr_48.md)  *Ibid*.
 
-<span id="fn_49"></span>[49.](#fr_49)  Our laws are based on the
+<span id="fn_49"></span>[49.](#fr_49.md)  Our laws are based on the
 all-sufficiency of man's rights. Society exists for man only; for women
 merely as they are represented by some man; are in the *mundt* or
 keeping of some man.--*Descriptive Sociology of England*.
 
 <span id="fn_page_143">p. 143</span>  
 
-<span id="fn_50"></span>[50.](#fr_50)  This slavish condition of the
+<span id="fn_50"></span>[50.](#fr_50.md)  This slavish condition of the
 wife yet prevails in over one-half the states of the union.
 
-<span id="fn_51"></span>[51.](#fr_51)  The relations in respect to
+<span id="fn_51"></span>[51.](#fr_51.md)  The relations in respect to
 property which exist between husband and wife in England, is solely
 grounded on her not being assumed at common law to have sufficient
 command of her purse or of her future actions wherewith to procure the
@@ -1480,7 +1480,7 @@ did not intend to make one, and therefore the allegation that she did
 make a contract would simply on the face of it be a fraud.
 Amos.--*Science of Law*.
 
-<span id="fn_52"></span>[52.](#fr_52)  The jurisconsults had evidently
+<span id="fn_52"></span>[52.](#fr_52.md)  The jurisconsults had evidently
 at this time assumed the equality of the sexes as a principle to the
 code of equity. The situation of the Roman woman, whether married or
 single, became one of great personal and proprietary independence; but
@@ -1495,7 +1495,7 @@ civilization.--Sir Henry Maine.
 
 <span id="fn_page_147">p. 147</span>  
 
-<span id="fn_53"></span>[53.](#fr_53)  Under the Commonwealth, society
+<span id="fn_53"></span>[53.](#fr_53.md)  Under the Commonwealth, society
 assumed a new and stern aspect. Women were in disgrace; it was
 everywhere declared from the pulpit that woman caused man's expulsion
 from Paradise, and ought to be shunned by Christians as one of the
@@ -1508,11 +1508,11 @@ knowledge of cooking, family medicines and the unintelligible
 theological discussions of the day. Lydia Maria Child.--*History of
 Woman*.
 
-<span id="fn_54"></span>[54.](#fr_54)  Many women made their entrance
+<span id="fn_54"></span>[54.](#fr_54.md)  Many women made their entrance
 into literature through the medium of a cook book, thus virtually
 apologizing for the use of a pen.
 
-<span id="fn_55"></span>[55.](#fr_55)  The slavish superstition under
+<span id="fn_55"></span>[55.](#fr_55.md)  The slavish superstition under
 which church teaching still keeps the minds of men was no less shown by
 the thousands who visited the St. Anne relic in the United States. Nor
 are Protestants but little less under the same superstition, accepting
@@ -1523,7 +1523,7 @@ side.
 
 <span id="fn_page_148">p. 148</span>  
 
-<span id="fn_56"></span>[56.](#fr_56)  The most interesting of all to
+<span id="fn_56"></span>[56.](#fr_56.md)  The most interesting of all to
 Americans is the copy of the American Constitution that President
 Cleveland sent to the Vatican by Cardinal Gibbons. It is printed on
 vellum in richly illuminated English characters, and bound in white and
@@ -1548,7 +1548,7 @@ exquisite watered silk.
 
 <span id="fn_page_149">p. 149</span>  
 
-<span id="fn_57"></span>[57.](#fr_57)  "Owing to the pope's refusal to
+<span id="fn_57"></span>[57.](#fr_57.md)  "Owing to the pope's refusal to
 accept the gifts of the king and queen of Italy on the occasion of his
 jubilee, all the members of the House of Savoy, including the Duke
 d'Aosta and the Princess Clotilde, have omitted to send offerings. <span
@@ -1559,6 +1559,6 @@ in the Vatican' will further avail the pope."
 
 <span id="fn_page_150">p. 150</span>  
 
-<span id="fn_58"></span>[58.](#fr_58)  When Linneaus published his
+<span id="fn_58"></span>[58.](#fr_58.md)  When Linneaus published his
 sexual system of plants, in the eighteenth century, he was ridiculed and
 shunned as one who had degraded nature.

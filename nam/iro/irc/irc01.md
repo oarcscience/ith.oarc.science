@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](irc00)  [Next](irc02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](irc00)  [Next](irc02.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,13 +12,13 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 |                     |                           |
 |---------------------|---------------------------|
 |                     | Page                      |
-| Introduction        | [133](irc02.htm#page_133) |
-| An Onondaga version | [141](irc03.htm#page_141) |
-| A Seneca version    | [221](irc04.htm#page_221) |
-| A Mohawk version    | [255](irc05.htm#page_255) |
+| Introduction        | [133](irc02.htm#page_133.md) |
+| An Onondaga version | [141](irc03.htm#page_141.md) |
+| A Seneca version    | [221](irc04.htm#page_221.md) |
+| A Mohawk version    | [255](irc05.htm#page_255.md) |
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](irc02)
+[Next: Introduction](irc02.md)

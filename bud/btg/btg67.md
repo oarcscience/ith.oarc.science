@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg66)  [Next](btg68) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg66)  [Next](btg68.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ thy senses, will lead thee to destruction."
 
 ------------------------------------------------------------------------
 
-[Next: The Cruel Crane Outwitted](btg68)
+[Next: The Cruel Crane Outwitted](btg68.md)

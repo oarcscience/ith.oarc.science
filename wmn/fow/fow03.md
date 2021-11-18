@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow02)  [Next](fow04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow02)  [Next](fow04.md) 
 
 ------------------------------------------------------------------------
 
@@ -348,4 +348,4 @@ wives of the West.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Woman's Beauty](fow04)
+[Next: Chapter II: Woman's Beauty](fow04.md)

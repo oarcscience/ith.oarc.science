@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh21)  [Next](hloh23) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh21)  [Next](hloh23.md) 
 
 ------------------------------------------------------------------------
 
@@ -289,4 +289,4 @@ battle was Kukaeunahio-ka-pueo
 
 ------------------------------------------------------------------------
 
-[Next: XIX. The Two Fish From Tahiti](hloh23)
+[Next: XIX. The Two Fish From Tahiti](hloh23.md)

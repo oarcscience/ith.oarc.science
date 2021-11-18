@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm07)  [Next](wsm09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm07)  [Next](wsm09.md) 
 
 ------------------------------------------------------------------------
 
-### THE THEFT OF PINE NUTS <span id="fr_5"></span>[6](#fn_5)
+### THE THEFT OF PINE NUTS <span id="fr_5"></span>[6](#fn_5.md)
 
 (Winnemucca, Nevada. Northern Paiute)
 
@@ -37,7 +37,7 @@ Finally, Rotten-legs (Hawk) was the only person left. He had the pine
 nuts in his leg. They cut Rotten-legs open, but did not find anything.
 His leg stunk so bad that they threw it away toward the south.
 
-The people saw smoke in the hills. <span id="fr_6"></span>[7](#fn_6) The
+The people saw smoke in the hills. <span id="fr_6"></span>[7](#fn_6.md) The
 pine nuts \[which had been scattered when the leg was thrown\] grew
 fast. There used to be pine nuts in the north, but now they are all
 gone. They grow around Winnemucca now.
@@ -46,17 +46,17 @@ gone. They grow around Winnemucca now.
 
 ### Footnotes
 
-<span id="fn_5"></span>[260:6](wsm08.htm#fr_5) Although this story is
+<span id="fn_5"></span>[260:6](wsm08.htm#fr_5.md) Although this story is
 known throughout the Basin, it is here told at the northern limit of
 pine nuts. The people to the north actually do not have pine nuts in
 their territory and it may well be in such a place that the story
 originated.
 
-<span id="fn_6"></span>[260:7](wsm08.htm#fr_6) This smoke was presumably
+<span id="fn_6"></span>[260:7](wsm08.htm#fr_6.md) This smoke was presumably
 from the fires of people cooking pine nuts, though it is not explicitly
 explained In this myth.
 
 ------------------------------------------------------------------------
 
 [Next: The Origin of People (Panamint Valley, California.
-Shoshoni)](wsm09)
+Shoshoni)](wsm09.md)

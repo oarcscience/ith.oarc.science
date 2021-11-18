@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](cjl09)  [Next](cjl11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](cjl09)  [Next](cjl11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402180012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402180012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1843,4 +1843,4 @@ and there like swine immersed themselves in filth.
 
 ------------------------------------------------------------------------
 
-[Next: 501-550](cjl11)
+[Next: 501-550](cjl11.md)

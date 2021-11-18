@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai19)  [Next](tai21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai19)  [Next](tai21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ Their scouts advised them--"We have seen the array of your enemies; they
 advance at evil speed: let us move swiftly, or return home; the time is
 not our own.' Ígoŕ spoke with his brothers,--'If we do not fight, but
 retreat, then our disgrace will be more than death; be it as God
-will.' <span id="fr_5"></span>[†](#fn_5)
+will.' <span id="fr_5"></span>[†](#fn_5.md)
 
 And, with this premonition, they marched on all the night through; and
 on the morning of that Friday, at noon-time they met the army of the
@@ -141,7 +141,7 @@ And Ígoŕ said:--"I recollect my sins before the Lord my God, that I have
 wrought many to die, and shed much blood in the Christian land; how I
 showed no mercy to the Christian folk, and took by storm the city of
 Glěbov near Pereyáslavl’, For there no little evil befell the innocent
-Christians; fathers <span id="fr_6"></span>[†](#fn_6) were parted from
+Christians; fathers <span id="fr_6"></span>[†](#fn_6.md) were parted from
 their offspring, brother from brother, friend from friend, women from
 their betrothed and daughters from their mothers, and all was confounded
 in the captivity and sorrow that then arose; so that the living envied
@@ -188,7 +188,7 @@ away their youthfulness, they have opened wide the gates to the Russian
 land \[ворота на Русьскую землю\]". . . . .
 
 Svyatosláv sent his son Olég, and Vladímir \[Glěbovič\] into the
-Posémye <span id="fr_7"></span>[†](#fn_7): and hearing the news, the
+Posémye <span id="fr_7"></span>[†](#fn_7.md): and hearing the news, the
 cities of the Posémye were stricken and there was grief and bitter
 wailing, such as had never been in the Posémye or in Nóvgorod-Sěverski
 or in all the domain of Černígov. . . .
@@ -201,7 +201,7 @@ But the Pagan Pólovtsy having conquered Ígoŕ and his brothers were
 seized with great pride and gathered all their tribes \[языкъ\] on to
 Russian soil. Strife ensued amongst them; for Končák said:--"Let us go
 to the Kíev country where our brothers and our Grand-Prince Bonyák were
-defeated" \[i.e. in the year 1185 <span id="fr_8"></span>[‡](#fn_8)\];
+defeated" \[i.e. in the year 1185 <span id="fr_8"></span>[‡](#fn_8.md)\];
 whereas Kza spoke:--"Let us go by the River Seĭm where their wives and
 children are left, a ready booty for us; for we shall capture the
 cities, without incurring risks" and so they parted their armies into
@@ -250,7 +250,7 @@ grieved for him and shed tears for him.
 Whilst he was there among the Pólovtsy, a man by birth a Polovčín, named
 Lávor, had found his way there; he had a goodly thought and said:--"I
 will go with thee to Russia." But Ígoŕ at first gave him no
-confidence, <span id="fr_9"></span>[†](#fn_9) but held to the lofty
+confidence, <span id="fr_9"></span>[†](#fn_9.md) but held to the lofty
 reasoning of youth,--and did not intend taking the man and fleeing with
 him to Russia,------: and he said:--"For the sake of glory I did not run
 away from the *družína* before, and now I will not depart by a
@@ -321,21 +321,21 @@ afar . . . . . and there was wailing and groaning." \[Гдѣ бо бяше бъ
 
 ### Footnotes
 
-<span id="fn_5"></span>[xxx:†](tai20.htm#fr_5) Ígoŕ in all his speeches
+<span id="fn_5"></span>[xxx:†](tai20.htm#fr_5.md) Ígoŕ in all his speeches
 is very pious: a tone of resignation and humility.
 
-<span id="fn_6"></span>[xxxii:†](tai20.htm#fr_6) C.f. the description of
+<span id="fn_6"></span>[xxxii:†](tai20.htm#fr_6.md) C.f. the description of
 the sack of Kíev in 1169 *supra*.
 
-<span id="fn_7"></span>[xxxiii:†](tai20.htm#fr_7) The country round the
+<span id="fn_7"></span>[xxxiii:†](tai20.htm#fr_7.md) The country round the
 upper Seĭm near Kuŕsk.
 
-<span id="fn_8"></span>[xxxiii:‡](tai20.htm#fr_8) *Not* the Bonyák of
+<span id="fn_8"></span>[xxxiii:‡](tai20.htm#fr_8.md) *Not* the Bonyák of
 1096.
 
-<span id="fn_9"></span>[xxxiv:†](tai20.htm#fr_9) The escape was a breach
+<span id="fn_9"></span>[xxxiv:†](tai20.htm#fr_9.md) The escape was a breach
 of honour: Ígoŕ would be cheating his captors of their just ransom.
 
 ------------------------------------------------------------------------
 
-[Next: The Construction of the Poem](tai21)
+[Next: The Construction of the Poem](tai21.md)

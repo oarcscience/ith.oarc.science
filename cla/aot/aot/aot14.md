@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot13) 
-[Next](aot15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot13.md) 
+[Next](aot15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -47,7 +47,7 @@ from them how they were pleased with men and how displeased, and thence
 as well he drew his nature-lore. As for the rest, he said, they guessed
 at the divine, and held opinions on the Gods which proved each other
 false; but unto him Apollo's self did come, confessed, without
-disguise, <span id="fr_110"></span>[\*](#fn_110) and there did come as
+disguise, <span id="fr_110"></span>[\*](#fn_110.md) and there did come as
 well, though unconfessed, Athena and the Muses, and other Gods whose
 forms and names mankind did not yet know."
 
@@ -62,7 +62,7 @@ Such was the general declaration of the nature of the Pythagorean
 discipline by its disciples. But, says Apollonius in his address to the
 Gymnosophists, Pythagoras was not the inventor of it. It was the
 immemorial wisdom, and Pythagoras himself had learnt it from the
-Indians. <span id="fr_111"></span>[†](#fn_111) This wisdom, he
+Indians. <span id="fr_111"></span>[†](#fn_111.md) This wisdom, he
 continued, had spoken to him in his youth; she had said:
 
 <span id="page_121">p. 121</span>
@@ -106,7 +106,7 @@ when invited to do so by his royal host at Babylon. "Sire," he replied,
 "have you forgotten that even when you sacrifice I will not be present?
 Much less then would I do these beasts to death, and all the more when
 their spirit is broken and they are penned in contrary to their nature"
-(i. 38). <span id="fr_112"></span>[\*](#fn_112)
+(i. 38). <span id="fr_112"></span>[\*](#fn_112.md)
 
 But though Apollonius was an unflinching task-master unto himself, he
 did not wish to
@@ -167,7 +167,7 @@ friend's repeated solicitations to prepare his defence, he replied:
 <span id="page_125">p. 125</span>
 
 of death, though you have been so long with me and I have loved
-philosophy e’en from my youth; <span id="fr_113"></span>[\*](#fn_113) I
+philosophy e’en from my youth; <span id="fr_113"></span>[\*](#fn_113.md) I
 thought that you were both yourself prepared for death and knew full
 well my generalship in this. For just as warriors in the field have need
 not only of good courage but also of that generalship which tells them
@@ -187,21 +187,21 @@ followers.
 
 ### Footnotes
 
-<span id="fn_110"></span>[120:\*](aot14.htm#fr_110) That is to say not
+<span id="fn_110"></span>[120:\*](aot14.htm#fr_110.md) That is to say not
 in a "form," but in his own nature.
 
-<span id="fn_111"></span>[120:†](aot14.htm#fr_111) See in this
+<span id="fn_111"></span>[120:†](aot14.htm#fr_111.md) See in this
 connection L. v. Schroeder, Pythagoras and <span id="page_121">p.
 121</span> die Inder, eine Untersuchung über Herkunft and Abstammung der
 pythagoreischen Lehren (Leipzig; 1884).
 
-<span id="fn_112"></span>[122:\*](aot14.htm#fr_112) This has reference
+<span id="fn_112"></span>[122:\*](aot14.htm#fr_112.md) This has reference
 to the preserved hunting parks, or "paradises," of the Babylonian
 monarchs.
 
-<span id="fn_113"></span>[125:\*](aot14.htm#fr_113) Reading φιλοσόφῳ for
+<span id="fn_113"></span>[125:\*](aot14.htm#fr_113.md) Reading φιλοσόφῳ for
 φιλοσοφῶν.
 
 ------------------------------------------------------------------------
 
-[Next: Section XIV. Himself and his Circle](aot15)
+[Next: Section XIV. Himself and his Circle](aot15.md)

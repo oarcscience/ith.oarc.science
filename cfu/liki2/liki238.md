@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki237)  [Next](liki239) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki237)  [Next](liki239.md) 
 
 ------------------------------------------------------------------------
 
@@ -242,6 +242,6 @@ presume to make a jest of the name of scholar\[1\].'
 
 ------------------------------------------------------------------------
 
-[Next: XXXIX. Tâ Hsio or The Great Learning](liki239)
+[Next: XXXIX. Tâ Hsio or The Great Learning](liki239.md)
 
   

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt28)  [Next](dmt30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt28)  [Next](dmt30.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ seiner Zeit und seines Volkes*. Leipzig, 1857.
 SIR WILLIAM MUIR: *The Apology of al-Kindy, written at the court of
 al-Mâmûn*. London, 1882.
 
-E. SELL: *The Faith of Islam*. London, 1896. II [edition](errata.htm#9).
+E. SELL: *The Faith of Islam*. London, 1896. II [edition](errata.htm#9.md).
 A valuable book, but from the point of view of an Indian missionary.
 Hence the tone is polemic and the technicalities are Persian rather than
 Arabic.
@@ -228,4 +228,4 @@ Panislamisme*, in *Revue de l’histoire des religions*, xliv, pp. 262 ff.
 
 ------------------------------------------------------------------------
 
-[Next: Chronological Table](dmt30)
+[Next: Chronological Table](dmt30.md)

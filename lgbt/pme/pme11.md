@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](pme10)  [Next](pme12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](pme10)  [Next](pme12.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ Of what use is it that you seek to become eleve of mine."
 Like Plato, in the Phædrus, Whitman describes an enthusiastic type of
 masculine emotion, leaving its private details to the moral sense and
 special inclination of the person concerned. <span
-id="fr_65"></span>[1](#fn_65)
+id="fr_65"></span>[1](#fn_65.md)
 
 The language of "Calamus" (that section of "Leaves of Grass" which is
 devoted to the gospel of comradeship) has a passionate glow, a warmth of
@@ -87,9 +87,9 @@ delight which he derives from the personal presence and physical contact
 of a beloved man, find expression in "A Glimpse," "Recorders ages
 hence," "When I heard at the Close of Day," "I saw in Louisiana a Live
 Oak growing," "Long I thought that Knowledge alone would content
-me," <span id="fr_66"></span>[1](#fn_66) "O Tan-faced Prairie Boy," and
+me," <span id="fr_66"></span>[1](#fn_66.md) "O Tan-faced Prairie Boy," and
 "Vigil Strange I kept on the Field one Night." <span
-id="fr_67"></span>[2](#fn_67)
+id="fr_67"></span>[2](#fn_67.md)
 
 <span id="page_118">p. 118</span>
 
@@ -168,7 +168,7 @@ has chosen these "emblematic and capricious blades" because of their
 shyness, their aromatic perfume, their aloofness from the patent life of
 the world. He calls them "sweet leaves, pink-tinged roots, timid
 leaves," scented herbage of my breast." Finally, he says:-- <span
-id="fr_68"></span>[1](#fn_68)
+id="fr_68"></span>[1](#fn_68.md)
 
 "Here my last words, and the most baffling,  
 Here the frailest leaves of me, and yet my strongest-lasting,  
@@ -178,8 +178,8 @@ And yet they expose me more than all my other poems."
 The manliness of the emotion, which is thus so shyly, mystically
 indicated, appears in the magnificent address to soldiers at the close
 of the great war: "Over the Carnage rose Prophetic a Voice." <span
-id="fr_69"></span>[2](#fn_69) Its tenderness emerges in the elegy on a
-slain comrade:-- <span id="fr_70"></span>[3](#fn_70)
+id="fr_69"></span>[2](#fn_69.md) Its tenderness emerges in the elegy on a
+slain comrade:-- <span id="fr_70"></span>[3](#fn_70.md)
 
 <span id="page_121">p. 121</span>
 
@@ -193,7 +193,7 @@ And buried him where he fell."
 Its pathos and clinging intensity transpire through the first lines of
 the following piece, which may have been suggested by the legends of
 David and Jonathan, Achilles and Patroclus, Oretes and Pylades:-- <span
-id="fr_71"></span>[1](#fn_71)
+id="fr_71"></span>[1](#fn_71.md)
 
 "When I pursue the conquered fame of heroes, and the victories of mighty
 generals,  
@@ -216,7 +216,7 @@ Greece--to Plato's Symposium, to
 <span id="page_122">p. 122</span>
 
 \[paragraph continues\] Philip gazing on the Sacred Band of Thebans
-after the fight at Chaeronea. <span id="fr_72"></span>[1](#fn_72)
+after the fight at Chaeronea. <span id="fr_72"></span>[1](#fn_72.md)
 
 "I dream'd in a dream, I saw a city invincible to the attacks of the
 whole of the rest of the earth  
@@ -226,14 +226,14 @@ rest
 It was seen every hour in the actions of the men of that city, And in
 all their looks and words."
 
-And again:-- <span id="fr_73"></span>[2](#fn_73)
+And again:-- <span id="fr_73"></span>[2](#fn_73.md)
 
 "I believe the main purport of these States is to found a superb
 friendship, exalté, previously unknown,  
 Because I perceive it waits, and has been always waiting, latent in all
 men."
 
-And once again:-- <span id="fr_74"></span>[3](#fn_74)
+And once again:-- <span id="fr_74"></span>[3](#fn_74.md)
 
 "Come, I will make the continent indissoluble;  
 I will make the most splendid race the sun ever yet shone upon;  
@@ -280,7 +280,7 @@ spiritualise what is vulgar and materialistic in the modern world.
 "Democracy," he maintains, "infers such loving comradeship, as its most
 inevitable twin or counterpart, without which it will be incomplete, in
 vain, and incapable of perpetuating itself." <span
-id="fr_75"></span>[1](#fn_75)
+id="fr_75"></span>[1](#fn_75.md)
 
 If this be not a dream, if he is right in believing that
 
@@ -336,13 +336,13 @@ whether the love of man for man shall be elevated through a hitherto
 unapprehended chivalry to nobler powers, even as the barbarous love of
 man for woman once was. This question at the present moment is deficient
 in actuality. The world cannot be invited to entertain it. <span
-id="fr_76"></span>[1](#fn_76)
+id="fr_76"></span>[1](#fn_76.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_65"></span>[116:1](pme11.htm#fr_65) In this relation it is
+<span id="fn_65"></span>[116:1](pme11.htm#fr_65.md) In this relation it is
 curious to note what one of Casper-Liman's correspondents says about the
 morals of North America (*op. cit.*, vol. i. p. 173). "Half a year after
 my return I went to North America, to try my fortune. There the
@@ -354,38 +354,38 @@ member of the confraternity." The date of this man's visit to America
 was the year 1871-72 He had just returned from serving as a volunteer in
 the great Franco-German war of 1870-71.
 
-<span id="fn_66"></span>[117:1](pme11.htm#fr_66) Not included in the
+<span id="fn_66"></span>[117:1](pme11.htm#fr_66.md) Not included in the
 "Complete Poems and Prose," It will be found in "Leaves of Grass,"
 Boston, 1860-1861.
 
-<span id="fn_67"></span>[117:2](pme11.htm#fr_67) The two last are from
+<span id="fn_67"></span>[117:2](pme11.htm#fr_67.md) The two last are from
 "Drum-Taps."
 
-<span id="fn_68"></span>[120:1](pme11.htm#fr_68) This I cannot find in
+<span id="fn_68"></span>[120:1](pme11.htm#fr_68.md) This I cannot find in
 "Complete Poems and Prose." It is included in the Boston edition,
 1860-61, and the Camden edition, 1876.
 
-<span id="fn_69"></span>[120:2](pme11.htm#fr_69) "Drum-Taps." Complete
+<span id="fn_69"></span>[120:2](pme11.htm#fr_69.md) "Drum-Taps." Complete
 Poems, p. 247.
 
-<span id="fn_70"></span>[120:3](pme11.htm#fr_70) Ibid., p. 238.
+<span id="fn_70"></span>[120:3](pme11.htm#fr_70.md) Ibid., p. 238.
 
-<span id="fn_71"></span>[121:1](pme11.htm#fr_71) "Leaves of Grass."
+<span id="fn_71"></span>[121:1](pme11.htm#fr_71.md) "Leaves of Grass."
 Complete Poems, p. 107.
 
-<span id="fn_72"></span>[122:1](pme11.htm#fr_72) Complete Poems, p. 109.
+<span id="fn_72"></span>[122:1](pme11.htm#fr_72.md) Complete Poems, p. 109.
 Compare, "I hear it was charged against me," *ibid*., p. 107.
 
-<span id="fn_73"></span>[122:2](pme11.htm#fr_73) Complete Poems, p. 110.
+<span id="fn_73"></span>[122:2](pme11.htm#fr_73.md) Complete Poems, p. 110.
 
-<span id="fn_74"></span>[122:3](pme11.htm#fr_74) Camden edition, 1876,
+<span id="fn_74"></span>[122:3](pme11.htm#fr_74.md) Camden edition, 1876,
 p. 127. Complete Poems, p. 99. Compare "Democratic Vistas," Complete
 Prose, p. 247, note.
 
-<span id="fn_75"></span>[123:1](pme11.htm#fr_75) These prose passages
+<span id="fn_75"></span>[123:1](pme11.htm#fr_75.md) These prose passages
 are taken from "Democratic Vistas," cited above, p.119, note.
 
-<span id="fn_76"></span>[125:1](pme11.htm#fr_76) While these sheets were
+<span id="fn_76"></span>[125:1](pme11.htm#fr_76.md) While these sheets were
 going through the press, I communicated Whitman's reply to a judicious
 friend, whose remarks upon it express my own opinion more clearly and
 succinctly than I have done above: "I do not feel that this answer
@@ -400,4 +400,4 @@ Whitman."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Epilogue](pme12)
+[Next: Chapter IX. Epilogue](pme12.md)

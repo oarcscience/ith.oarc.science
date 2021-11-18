@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft00)  [Next](zft02) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft00)  [Next](zft02.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ American](../../index)  [Zuñi](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](zft02)
+[Next: Introduction](zft02.md)

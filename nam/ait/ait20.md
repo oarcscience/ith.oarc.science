@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait19.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![O](img/18700.jpg) |
+| ![O](img/18700.jpg.md) |
 
 NCE upon a time, when there were no large cities in the western world,
 all the land being forest or prairie, five young men set out to hunt.
@@ -263,7 +263,7 @@ year.
 
 [![“White Cloud and his friend at last gave a great
 leap.”](tn/19700.jpg)  
-Click to enlarge](img/19700.jpg)  
+Click to enlarge](img/19700.jpg.md)  
 “White Cloud and his friend at last gave a great leap.”  
 
 prepared to depart, "you who wished to live forever shall have that wish

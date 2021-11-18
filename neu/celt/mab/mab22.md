@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab21)  [Next](mab23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab21)  [Next](mab23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -22,16 +22,16 @@ Textual Heritage
 
 ### HERE IS THE SECOND PORTION OF THE MABINOGI
 
-BENDIGEID VRAN [369a](mab23.htm#xref_369a), the son of Llyr, was the
+BENDIGEID VRAN [369a](mab23.htm#xref_369a.md), the son of Llyr, was the
 crowned king of this island, and he was exalted from the crown of
-London. And one afternoon he was at Harlech [369b](mab23.htm#xref_369b)
+London. And one afternoon he was at Harlech [369b](mab23.htm#xref_369b.md)
 in Ardudwy, at his Court, and he sat upon the rock of Harlech, looking
 over the sea. And with him were his brother Manawyddan the son of Llyr,
 and his brothers by the mother's side, Nissyen and Evnissyen, and many
 nobles likewise, as was fitting to see around a king. His two brothers
 by the mother's side were the sons of
-Eurosswydd [369c](mab23.htm#xref_369c), by his mother, Penardun, the
-daughter of Beli son of Manogan [369d](mab23.htm#xref_369d). And one of
+Eurosswydd [369c](mab23.htm#xref_369c.md), by his mother, Penardun, the
+daughter of Beli son of Manogan [369d](mab23.htm#xref_369d.md). And one of
 these youths was a good youth and of gentle nature, and would make peace
 between his kindred, and cause his family to be friends when their wrath
 was at the highest; and this one was Nissyen; but the other would cause
@@ -59,9 +59,9 @@ ships belong to him." "Wherefore comes he?' asked the king, "and will he
 come to the land?" "He is a suitor unto thee, lord," said they, "and he
 will not land unless he have his boon." "And what may that be?" inquired
 the king. "He desires to ally himself with thee, lord," said they, "and
-he comes to ask Branwen [370a](mab23.htm#xref_370a) the daughter of
+he comes to ask Branwen [370a](mab23.htm#xref_370a.md) the daughter of
 Llyr, that, if it seem well to thee, the Island of the
-Mighty [370b](mab23.htm#xref_370b) may be leagued with Ireland, and both
+Mighty [370b](mab23.htm#xref_370b.md) may be leagued with Ireland, and both
 become more powerful." "Verily," said he, "let him come to land, and we
 will take counsel thereupon." And this answer was brought to Matholwch.
 "I will go willingly," said he. So he landed, and they received him
@@ -142,7 +142,7 @@ they, "send after him another embassy." "I will do so," said he. "Arise,
 Manawyddan son of Llyr, and Heveydd Hir, and Unic Glew Ysgwyd, and go
 after him, and tell him that he shall have a sound horse for every one
 that has been injured. And beside that, as an atonement for the
-insult [372a](mab23.htm#xref_372a), he shall have a staff of silver, as
+insult [372a](mab23.htm#xref_372a.md), he shall have a staff of silver, as
 large and as tall as himself, and a plate of gold of the breadth of his
 face. And show unto him who it was that did this, and that it was done
 against my will; but that he
@@ -186,7 +186,7 @@ thenceforth that commot was called Talebolion.
 <span id="page_374">p. 374</span>
 
 And a second night sat they together. "My lord," said Matholwch, "whence
-hadst thou the cauldron [374a](mab23.htm#xref_374a) which thou hast
+hadst thou the cauldron [374a](mab23.htm#xref_374a.md) which thou hast
 given me?" "I had it of a man who had been in thy land," said he, "and I
 would not give it except to one from there." "Who was it?" asked he.
 "Llassar Llaesgyvnewid; he came here from Ireland with Kymideu
@@ -293,7 +293,7 @@ and to leave seven men as princes
 
 <span id="page_377">p. 377</span>
 
-here, and Caradawc, the son of Bran [377a](mab23.htm#xref_377a), as the
+here, and Caradawc, the son of Bran [377a](mab23.htm#xref_377a.md), as the
 chief of them, and their seven knights. In Edeyrnion were these men
 left. And for this reason were the seven knights placed in the town. Now
 the names of these seven men were, Caradawc the son of Bran, and Heveydd
@@ -464,7 +464,7 @@ Muryel, and Heilyn the son of Gwynn Hen.
 
 And Bendigeid Vran commanded them that they should cut off his head.
 "And take you my head," said he, "and bear it even unto the White
-Mount [381a](mab23.htm#xref_381a), in London, and bury it there, with
+Mount [381a](mab23.htm#xref_381a.md), in London, and bury it there, with
 the face towards France. And a long time will you be upon the road. In
 Harlech you will be feasting seven years, the birds of Rhiannon singing
 unto you the while. And all that time the head will be to you as
@@ -558,7 +558,7 @@ them, and each took a wife of the mothers of their companions, and they
 governed the country and peopled it.
 
 And these five divided it amongst them, and because of this partition
-are the five divisions of Ireland [384a](mab23.htm#xref_384a) still so
+are the five divisions of Ireland [384a](mab23.htm#xref_384a.md) still so
 termed. And they examined the land where the battles had taken place,
 and they found gold and silver until they became wealthy.
 
@@ -576,4 +576,4 @@ fourscore years.
 
 ------------------------------------------------------------------------
 
-[Next: Notes to Branwen the Daughter of Llyr](mab23)
+[Next: Notes to Branwen the Daughter of Llyr](mab23.md)

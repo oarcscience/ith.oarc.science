@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib52)  [Next](shib54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib52)  [Next](shib54.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ ASYLUM OF — COMMANDERY, No. —., K. T.
 
 —, January 1, 189—, A. O. 77—.
 
-— Commandery, No—, met in Stated (or <span id="fr_0"></span>[\*](#fn_0)
+— Commandery, No—, met in Stated (or <span id="fr_0"></span>[\*](#fn_0.md)
 Called) Conclave, in its Asylum, the — day of—, 189—, and a Commandery
 of Knights Templar was opened in due form, with
 
@@ -143,9 +143,9 @@ Reports of Treasurer and Recorder are spread on the Minutes as
 
 ### Footnotes
 
-<span id="fn_0"></span>[201:\*](shib53.htm#fr_0) At Called Conclaves no
+<span id="fn_0"></span>[201:\*](shib53.htm#fr_0.md) At Called Conclaves no
 business, save that specially permitted by law, can be transacted.
 
 ------------------------------------------------------------------------
 
-[Next: Asylum, and Prelate's Hall](shib54)
+[Next: Asylum, and Prelate's Hall](shib54.md)

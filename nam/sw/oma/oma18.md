@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma17)  [Next](oma19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma17)  [Next](oma19.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,9 +16,9 @@ In the winter Antelope Man though of trying out the Kopishtaiya, Country
 Chief called out that the people should make prayer sticks to call the
 Kopishtaiya. So, after vomiting for 4 days, the men who were to take
 part met again in kiva. They made prayer sticks ([pl. 14, fig.
-1](oma47.htm#img_pl14a)) and prepared the masks. <span
-id="fr_142"></span>[43](#fn_142) (There are no seeds in the Acoma
-Kopishtaiya masks as at Laguna.) <span id="fr_143"></span>[44](#fn_143)
+1](oma47.htm#img_pl14a).md) and prepared the masks. <span
+id="fr_142"></span>[43](#fn_142.md) (There are no seeds in the Acoma
+Kopishtaiya masks as at Laguna.) <span id="fr_143"></span>[44](#fn_143.md)
 They worked for 4 days in kiva. They made songs different from the
 katsina songs. They were not songs for dancing but for manliness
 (hachtsia).
@@ -27,7 +27,7 @@ After 4 days in kiva, the impersonators left at midnight and went out
 toward the east, taking their masks and costumes with them; they painted
 up in kiva before leaving. They went out into the country away from the
 people. (One of the Kopishtaiya is female, <span
-id="fr_144"></span>[45](#fn_144) although impersonated by a man.)
+id="fr_144"></span>[45](#fn_144) although impersonated by a man..md)
 Country Chief told the people that on the fourth day they were to expect
 the Kopishtaiya to visit them from the east.
 
@@ -44,7 +44,7 @@ were dressed they started running to keep warm. When they got together
 near the pueblo, they all went in together. Antelope Man acted as
 before, opening the road with corn meal. (They come in pairs, they run
 and turn back to keep warm, run and turn back, shouting the
-while.) <span id="fr_145"></span>[46](#fn_145)
+while.) <span id="fr_145"></span>[46](#fn_145.md)
 
 When the Kopishtaiya first came, they brought all kinds of evergreen
 trees, leaving them in the plaza for the people to make a tea of them
@@ -91,22 +91,22 @@ the snow was a help.
 
 ### Footnotes
 
-<span id="fn_142"></span>[62:43](oma18.htm#fr_142) Informant's note:
+<span id="fn_142"></span>[62:43](oma18.htm#fr_142.md) Informant's note:
 "The masks used for katsina impersonation are the same that are used for
 the Kopishtaiya; they are merely painted and decorated differently."
 \[See White, 1932, p. 8, *b*, and pl. 10, *a*.\]
 
-<span id="fn_143"></span>[62:44](oma18.htm#fr_143) Laguna Gomaiowish
+<span id="fn_143"></span>[62:44](oma18.htm#fr_143.md) Laguna Gomaiowish
 masks have knobs on them containing seeds. The informant must be
 confusing Kopishtaiya masks here with Gomaiowish masks, for the former
 have not been reported from Laguna or, indeed, from any other Keresan
 pueblo.
 
-<span id="fn_144"></span>[62:45](oma18.htm#fr_144) Cf. p. 16.
+<span id="fn_144"></span>[62:45](oma18.htm#fr_144.md) Cf. p. 16.
 
-<span id="fn_145"></span>[62:46](oma18.htm#fr_145) Cf. White, 1032, pp.
+<span id="fn_145"></span>[62:46](oma18.htm#fr_145.md) Cf. White, 1032, pp.
 85-88; Boas, 1928, pt. 1, p. 201.
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part X](oma19)
+[Next: Wanderings, Part X](oma19.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm10)  [Next](tsm12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm10)  [Next](tsm12.md) 
 
 ------------------------------------------------------------------------
 
@@ -275,4 +275,4 @@ King of Level-Plains.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. A Vision of the Dead](tsm12)
+[Next: Chapter IX. A Vision of the Dead](tsm12.md)

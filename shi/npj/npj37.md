@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj36) 
-[Next](npj38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj36.md) 
+[Next](npj38.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ SCENE: The coast of Bizen in Japan.
 HAKU.
 
 I am Haku Rakuten, a courtier of the Prince of China. There is a land in
-the East called Nippon. <span id="fr_189"></span>[1](#fn_187) Now, at my
+the East called Nippon. <span id="fr_189"></span>[1](#fn_187.md) Now, at my
 master's bidding, I am sent to that land to make proof of the wisdom of
 its people. I must travel over the paths of the sea.
 
@@ -88,7 +88,7 @@ The grey waves soak the sky.
 
 THE TWO FISHERMEN.
 
-So was it when Han Rei <span id="fr_190"></span>[2](#fn_188) left the
+So was it when Han Rei <span id="fr_190"></span>[2](#fn_188.md) left the
 land of Etsu <span id="page_209">p. 209</span>  
 And rowed in a little boat  
 Over the misty waves of the Five Lakes.
@@ -161,7 +161,7 @@ Come, our fishing-time is precious.
 
 HAKU.
 
-Stay! Answer me one question. <span id="fr_191"></span>[1](#fn_189)
+Stay! Answer me one question. <span id="fr_191"></span>[1](#fn_189.md)
 Bring your boat closer and tell me, Fisherman, what is your pastime now
 in Nippon?
 
@@ -176,7 +176,7 @@ In China we play at making poetry.
 FISHERMAN.
 
 And in Nihon, may it please you, we venture on the sport of making
-"uta." <span id="fr_192"></span>[2](#fn_190)
+"uta." <span id="fr_192"></span>[2](#fn_190.md)
 
 HAKU.
 
@@ -223,7 +223,7 @@ FISHERMAN.
 
 A poor man and unknown. But as for the making of "uta," it is not only
 men that make them. "For among things that live there is none that has
-not the gift of song." <span id="fr_193"></span>[1](#fn_191)
+not the gift of song." <span id="fr_193"></span>[1](#fn_191.md)
 
 HAKU (*taking up the other's words as if hypnotized*).
 
@@ -259,7 +259,7 @@ And as for the nightingale and the poem it made,-
 They say that in the royal reign  
 Of the Emperor Kōren  
 In the land of Yamato, in the temple of High Heaven  
-A priest was dwelling. <span id="fr_194"></span>[1](#fn_192)  
+A priest was dwelling. <span id="fr_194"></span>[1](#fn_192.md)  
 Each year at the season of Spring  
 There came a nightingale  
 To the plum-tree at his window.  
@@ -396,7 +396,7 @@ That he will not let you subdue us, O Rakuten!
 So we bid you return to your home,  
 Swiftly over the waves of the shore!  
 First the God of Sumiyoshi came.  
-Now other gods <span id="fr_195"></span>[1](#fn_193) have come--  
+Now other gods <span id="fr_195"></span>[1](#fn_193.md) have come--  
      Of Isé and Iwa-shimizu,  
      Of Kamo and Kasuga,  
      Of Ka-shima and Mi-shima,  
@@ -426,12 +426,12 @@ Mayest thou rule for many, many years
 
 ### Footnotes
 
-<span id="fn_187"></span>[208:1](npj37.htm#fr_189) The fact that Haku is
+<span id="fn_187"></span>[208:1](npj37.htm#fr_189.md) The fact that Haku is
 a foreigner is conventionally emphasized by his pronunciation of this
 word. The fishermen, when using the same word later on, called it
 "Nihon."
 
-<span id="fn_188"></span>[208:2](npj37.htm#fr_190) The Chinese call him
+<span id="fn_188"></span>[208:2](npj37.htm#fr_190.md) The Chinese call him
 Fan Li. He lived in China in the fifth century B. C. Having rendered
 important services to the country of Yüeh (Etsu), he went off with his
 mistress in a skiff, knowing that if he remained in public life his
@@ -439,27 +439,27 @@ popularity was bound to decline. The Fishermen are vaguely groping
 towards the idea of "a Chinaman" and a "boat." They are not yet
 consciously aware of the arrival of Rakuten.
 
-<span id="fn_189"></span>[210:1](npj37.htm#fr_191) Haku throughout omits
+<span id="fn_189"></span>[210:1](npj37.htm#fr_191.md) Haku throughout omits
 the honorific turns of speech which civility demands. The Fishermen
 speak in elaborately deferential and honorific language. The writer
 wishes to portray Haku as an ill-bred foreigner.
 
-<span id="fn_190"></span>[210:2](npj37.htm#fr_192) "Uta," i.e. the
+<span id="fn_190"></span>[210:2](npj37.htm#fr_192.md) "Uta," i.e. the
 thirty-one syllable Japanese stanza.
 
-<span id="fn_191"></span>[211:1](npj37.htm#fr_193) Quotation from the
+<span id="fn_191"></span>[211:1](npj37.htm#fr_193.md) Quotation from the
 Preface to the *Kokinshū* ("Collection of Songs Ancient and Modern").
 The fact that Haku continues the quotation shows that he is under a sort
 of spell and makes it clear for the first time that his interlocutor is
 not an ordinary mortal. From this point onwards, in fact, the Fisherman
 gradually becomes a God.
 
-<span id="fn_192"></span>[212:1](npj37.htm#fr_194) The priest's acolyte
+<span id="fn_192"></span>[212:1](npj37.htm#fr_194.md) The priest's acolyte
 had died. The nightingale was the boy's soul.
 
-<span id="fn_193"></span>[214:1](npj37.htm#fr_195) They do not appear on
+<span id="fn_193"></span>[214:1](npj37.htm#fr_195.md) They do not appear on
 the stage.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Summaries](npj38)
+[Next: Chapter VII: Summaries](npj38.md)

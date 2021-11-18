@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma28)  [Next](oma30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma28)  [Next](oma30.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,11 +9,11 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 
 # PRESENT CUSTOMS OF ACOMA
 
-### SELECTION OF OFFICERS <span id="fr_208"></span>[1](#fn_208)
+### SELECTION OF OFFICERS <span id="fr_208"></span>[1](#fn_208.md)
 
 Following the 4-day Christmas feast everyone gathers at Acoma, so on
 December 28 new officers are "elected." The Antelope Clan <span
-id="fr_209"></span>[2](#fn_209) has the authority to name the men. The
+id="fr_209"></span>[2](#fn_209.md) has the authority to name the men. The
 Antelope clan selects about 2 months in advance. They select at least
 two men from each kiva so as to distribute the power evenly. They are
 careful to appoint so as not to be hard on any family. It puts a burden
@@ -22,10 +22,10 @@ pick out a man who believes and follows the old traditions.
 
 On the evening of the 26th, the officers who are going to resign call
 the chaianyi into Mauharo \[the head kiva\]; also two head men <span
-id="fr_210"></span>[3](#fn_210) of each kiva. The retiring Country Chief
+id="fr_210"></span>[3](#fn_210.md) of each kiva. The retiring Country Chief
 gets up and tells the chaianyi and representatives, "I have been given
 names of the men who are to take our places by Antelope clan
-nawai." <span id="fr_211"></span>[4](#fn_211) (The Antelope Man gives
+nawai." <span id="fr_211"></span>[4](#fn_211.md) (The Antelope Man gives
 him this information and calls the meeting a day or two before.) He
 tells the council that he will name them and that this will be their
 chance to say whether they want each of these appointees. "If there are
@@ -58,7 +58,7 @@ first Country Chief by Iatiku. In the beginning there were only the
 Oyoyewi left the Acoma people, two more Country Chiefs were appointed to
 take their place: Mocking Bird Youth and Wren Youth. The three Country
 Chiefs and their two cooks all live together. <span
-id="fr_212"></span>[5](#fn_212) They must observe continence.
+id="fr_212"></span>[5](#fn_212.md) They must observe continence.
 
 From the meeting, Country Chief goes to Antelope Man and reports. If
 there has been any objection to an appointee, Country Chief explains
@@ -83,7 +83,7 @@ All the men are supposed to go, each to his own kiva. The four chaianyi
 go to Mauharo kiva. Then Country Chief goes to the different kivas and
 asks the head man of each if all members are present. When Country Chief
 has made his rounds, the chaianyi are first to leave the kiva. They go
-to the public meeting house. <span id="fr_213"></span>[6](#fn_213) They
+to the public meeting house. <span id="fr_213"></span>[6](#fn_213.md) They
 used to meet in the Mauharo (informant remembers it), but the chaianyi
 did not like any quarreling to take place in a sacred place, so they
 built the special meeting house.
@@ -104,14 +104,14 @@ officers still have their staffs with them, When they go to the meeting
 house, they take off their costumes\[?\] and, kneeling in front of the
 chaianyi, each hands him the staff with a prayer, "I give you back all
 your sacred clothes, all your rules, all your power, but I keep all the
-luck <span id="fr_214"></span>[7](#fn_214) that is in it \[? the
+luck <span id="fr_214"></span>[7](#fn_214.md) that is in it \[? the
 staff\]. This will be mine." At this time they step out of office.
 Country Chief is free from responsibility, but he continues to preside.
 
 First the five officers in the Country Chief's group are named. Next the
 tapu’pu (governor). He looks out for the people's outside affairs:
 public works, things not sacred or religious. Relations with other
-peoples are attended to by him. <span id="fr_215"></span>[8](#fn_215) He
+peoples are attended to by him. <span id="fr_215"></span>[8](#fn_215.md) He
 has authority to call meetings; in such matters he does not have to
 consult the Country Chief. In a matter such as furnishing men for the
 late \[European\] war, Country Chief would ask the governor to help him;
@@ -176,7 +176,7 @@ people to appoint a man to be the "water boss." He usually names him
 ceremonially tsits tika kuwai'a nikouya (the one who orders the water).
 In common usage he is called mayordomo. There are four mayordomos.
 Formerly there were but two, but since ditches have been put in at
-McCarty's <span id="fr_216"></span>[9](#fn_216) they have needed four,
+McCarty's <span id="fr_216"></span>[9](#fn_216.md) they have needed four,
 one for each ditch.
 
 After these men have been appointed, the new Country Chief prays, then
@@ -184,7 +184,7 @@ gets up and adjourns the meeting. As the people pass out they say
 goodbye to \[? shake hands with\] the new officers.
 
 The Governor has ten "principales" <span
-id="fr_217"></span>[10](#fn_217) as advisors. These men are named by the
+id="fr_217"></span>[10](#fn_217.md) as advisors. These men are named by the
 Antelope Man and hold office for life. They are distributed evenly among
 the kivas.
 
@@ -207,7 +207,7 @@ them that their Country Chief is ready to work and that he wishes the
 people to help. The two cooks have to get any old corn left in the old
 country Chief's house and bring it to the new house. Their relatives
 build a corn grinding place for them. Their duty is to make sacred corn
-meal, and ka'nashaia, <span id="fr_218"></span>[11](#fn_218) a compound
+meal, and ka'nashaia, <span id="fr_218"></span>[11](#fn_218.md) a compound
 food ground up with matsit \[matsinyi\] or wafer bread and meat. Corn
 meal and kanashaia are to be used by Country Chief when he goes out to
 pray. The cooks have also to keep the place neat and well swept and
@@ -267,8 +267,8 @@ The same day the Country Chiefs will sit in their house and make prayer
 sticks; the following day they will go out to pray for the first time.
 They will go out toward the north. These prayer sticks are all for
 different rulers, one for the North Mountain ruler <span
-id="fr_219"></span>[12](#fn_219) ([pl. 17](oma50.htm#img_pl17)), four
-for the katsina at Wenimats ([pl. 9, fig. 1](oma42.htm#img_pl09a)), and
+id="fr_219"></span>[12](#fn_219) ([pl. 17](oma50.htm#img_pl17).md), four
+for the katsina at Wenimats ([pl. 9, fig. 1](oma42.htm#img_pl09a).md), and
 three for the Clouds \[these are the racing sticks (prayer sticks) and
 hoop and balls\]. These different prayer sticks are placed in three
 different baskets along with corn meal, pollen, shells, turquoise, and
@@ -280,13 +280,13 @@ the cooks help them with their corn meal container and quiver; they
 carry each a basket of prayer sticks on his back. At the doorway they
 stand and sing a song. After this they leave for the north to pray to
 North Mountain; they travel until midnight. <span
-id="fr_220"></span>[13](#fn_220)
+id="fr_220"></span>[13](#fn_220.md)
 
 They usually look for a spring. The first chief carries the prayer
 sticks belonging to the North Mountain ruler. The second chief carries
 the prayer sticks belonging to the katsina; the third chief, the ones
 belonging to the Clouds. When they get to the spring <span
-id="fr_221"></span>[14](#fn_221) each one unties his own bundle and
+id="fr_221"></span>[14](#fn_221.md) each one unties his own bundle and
 prays to the one for whom the prayer sticks are intended. In these long
 prayers they name every blessing they can think of. A hole is dug in the
 spring and the prayer sticks are buried in the water and covered up with
@@ -307,7 +307,7 @@ Chief. As soon as he gets to the opening in the roof, he asks to be
 allowed to enter. They say, "Come in!" He greets them saying, "Koatsi,
 mothers, and your officers, all is well, you are the leader." He has
 some turkey feathers tied up (wapani) <span
-id="fr_222"></span>[15](#fn_222) with which he prays to the north. He
+id="fr_222"></span>[15](#fn_222.md) with which he prays to the north. He
 says a prayer. All the chaianyi listen and encourage him as he prays. As
 soon as he finishes his prayer he asks to be allowed to leave. They say,
 "All right, go from us in happiness and be brave." Going up and down the
@@ -340,7 +340,7 @@ Acoma but for "everyone under the sun," haopate itini kaishpish
 The duties of the people to the Country Chief: When called to do so they
 must bring wood; the women must make pikali--when the young women are
 asked they do this. The men must plant corn for Country Chief <span
-id="fr_223"></span>[16](#fn_223) and care for the crops. When there is
+id="fr_223"></span>[16](#fn_223.md) and care for the crops. When there is
 no harvest, Country Chief can ask people to supply corn from their bins.
 From
 
@@ -353,7 +353,7 @@ to go out and hunt for him, when he is out of meat.
 After the first Country Chief has completed his first prayer circuit, he
 reports to Antelope Man. Antelope Man says, "All right, son, I guess
 it's time for you to be initiated." <span
-id="fr_224"></span>[17](#fn_224) Antelope Man sets a date 4 days ahead.
+id="fr_224"></span>[17](#fn_224.md) Antelope Man sets a date 4 days ahead.
 He tells Country Chief to make prayer sticks for Kapina chaianyi. All
 three Country Chiefs make these prayer sticks, leaving it to Kapina
 chaianyi to set up the altar. Kapina chaianyi says, "It is going to be
@@ -367,7 +367,7 @@ these 4 days he prepares his altar, setting it up.
 <span id="img_10600"></span>
 
 [![FIGURE 7.--Diagram of prayer stick of Country Chief.](tn/10600.jpg)  
-Click to enlarge](img/10600.jpg)  
+Click to enlarge](img/10600.jpg.md)  
 FIGURE 7.--Diagram of prayer stick of Country Chief.  
 
  
@@ -376,7 +376,7 @@ On the morning of the fourth day usually all is ready. The Flint
 chaianyi do not bring their altar, but bring some of their
 paraphernalia, arrowheads, bear claws, etc. The sand painting used at
 this time is the one used when they cross the four mountains <span
-id="fr_225"></span>[18](#fn_225) (ashtiawakats). This painting is called
+id="fr_225"></span>[18](#fn_225) (ashtiawakats.md). This painting is called
 "destroy tracks." Masewi and Oyoyewi went through this ceremony to get
 rid of their "haunt." The chaianyi go through this whenever they finish
 a curing ceremony. This means also that there is confession \[?
@@ -393,7 +393,7 @@ attract and kill game, to run well and be brave, and to be able to
 forget ills. These prayer sticks are to be taken to the altar to pray
 with. To attend any chaianyi work, it is necessary to dress in the old
 way in breech cloth and blanket, carrying prayer stick in hand. Hair is
-cut in the four-cornered way (fig. 8) because [Iatiku](errata.htm#4) so
+cut in the four-cornered way (fig. 8) because [Iatiku](errata.htm#4.md) so
 instructed, as four corners represent any four time period necessary to
 fulfil or complete. The parting which separates bang from long hair
 represents the Milky Way, because the Milky Way holds you up. Hats
@@ -406,7 +406,7 @@ represent "mule tracks." That is what the katsina say.
 <span id="img_10700"></span>
 
 [![FIGURE 8.--Ritual hair cut.](tn/10700.jpg)  
-Click to enlarge](img/10700.jpg)  
+Click to enlarge](img/10700.jpg.md)  
 FIGURE 8.--Ritual hair cut.  
 
  
@@ -414,15 +414,15 @@ FIGURE 8.--Ritual hair cut.
 When all is ready, Country Chief goes into the street and cries out that
 all is ready and the people may go to the kiva. It is not compulsory.
 Nowadays not many people attend. Forty years ago it drew a full
-house. <span id="fr_226"></span>[19](#fn_226) The people do not go right
+house. <span id="fr_226"></span>[19](#fn_226.md) The people do not go right
 in but wait on the roof until time to enter. Country Chief goes in first
 and has his prayer stick put into the fetishes; the three Country Chiefs
 do this. Hunters take their bow or gun to get power. As soon as one
 enters, he goes up to the altar and goes to the tiamuni <span
-id="fr_227"></span>[20](#fn_227) tsamaiya, either the male or female.
+id="fr_227"></span>[20](#fn_227.md) tsamaiya, either the male or female.
 The chaianyi stand on each side of them, singing. When you finish the
 prayer, you give the feathers from the prayer stick to the chaianyi who
-forces them into the tsamai. <span id="fr_228"></span>[21](#fn_228) When
+forces them into the tsamai. <span id="fr_228"></span>[21](#fn_228.md) When
 you finish your prayer, you step back and sit. The chaianyi leads you
 all over the sand painting by his feathers. This goes on until everyone
 has crossed the four mountains. Some of the chaianyi are singing all the
@@ -461,7 +461,7 @@ them if they are manly enough to drink the tsi'chuni medicine they have
 prepared. It is made out of the dung of snakes. If the Country Chief
 drinks this, it will give him the power to foresee things. He is asked
 if he will drink this. Some do and some do not. <span
-id="fr_229"></span>[22](oma30.htm#fn_229) Four days after drinking it he
+id="fr_229"></span>[22](oma30.htm#fn_229.md) Four days after drinking it he
 must stay in kiva. The chaianyi rather hope none will drink it, as they
 too must stay in these 4 days. No one may touch or help the one drinking
 the medicine, not even touch his blanket. Anyone touching him will fall
@@ -475,59 +475,59 @@ the Country Chief's initiation.
 
 ### Footnotes
 
-<span id="fn_208"></span>[99:1](oma29.htm#fr_208) Cf. White, 1932, pp.
+<span id="fn_208"></span>[99:1](oma29.htm#fr_208.md) Cf. White, 1932, pp.
 60-61.
 
-<span id="fn_209"></span>[99:2](oma29.htm#fr_209) According to White,
+<span id="fn_209"></span>[99:2](oma29.htm#fr_209.md) According to White,
 1932, pp. 42, 60, it is the cacique, the head of the Antelope Clan, who
 appoints the officers.
 
-<span id="fn_210"></span>[99:3](oma29.htm#fr_210) Cf. White, 1942.
+<span id="fn_210"></span>[99:3](oma29.htm#fr_210.md) Cf. White, 1942.
 
-<span id="fn_211"></span>[99:4](oma29.htm#fr_211) Antelope nawai (head
+<span id="fn_211"></span>[99:4](oma29.htm#fr_211.md) Antelope nawai (head
 man) is the cacique. It is curious that he is always referred to by this
 informant as Antelope Man; he is usually designated "cacique," at least
 in talking to white people.
 
-<span id="fn_212"></span>[100:5](oma29.htm#fr_212) Cf. White, 1932, p.
+<span id="fn_212"></span>[100:5](oma29.htm#fr_212.md) Cf. White, 1932, p.
 45. According to White: First war chief is Cutimĭti; second, Cpatimĭti;
 third, Maiyatcotimĭti; then there are three cook-helpers, and ten
 "little chiefs" as assistants.
 
-<span id="fn_213"></span>[100:6](oma29.htm#fr_213) See [Plan (fig.
-1)](oma07.htm#img_01800). (See White, 1942.)
+<span id="fn_213"></span>[100:6](oma29.htm#fr_213.md) See [Plan (fig.
+1)](oma07.htm#img_01800). (See White, 1942..md)
 
-<span id="fn_214"></span>[101:7](oma29.htm#fr_214) Keres use "luck"
+<span id="fn_214"></span>[101:7](oma29.htm#fr_214.md) Keres use "luck"
 equivalent to "blessing."
 
-<span id="fn_215"></span>[101:8](oma29.htm#fr_215) Cf. White, 1932, pp.
+<span id="fn_215"></span>[101:8](oma29.htm#fr_215.md) Cf. White, 1932, pp.
 52-55.
 
-<span id="fn_216"></span>[102:9](oma29.htm#fr_216) A colony of Acoma, to
+<span id="fn_216"></span>[102:9](oma29.htm#fr_216.md) A colony of Acoma, to
 the northwest, located on the Santa Fé railroad and the main automobile
 highway between Albuquerque and Gallup.
 
-<span id="fn_217"></span>[102:10](oma29.htm#fr_217) Cf. White, 1932, p.
+<span id="fn_217"></span>[102:10](oma29.htm#fr_217.md) Cf. White, 1932, p.
 52.
 
-<span id="fn_218"></span>[103:11](oma29.htm#fr_218) Of. White, 1932, p.
+<span id="fn_218"></span>[103:11](oma29.htm#fr_218.md) Of. White, 1932, p.
 45.
 
-<span id="fn_219"></span>[104:12](oma29.htm#fr_219) Informant's note:
+<span id="fn_219"></span>[104:12](oma29.htm#fr_219.md) Informant's note:
 The Mountain prayer sticks are the largest made, over a foot long. The
 twigs and leaves are the clothes of the prayer sticks. \[In other prayer
 sticks, feathers somewhat similarly placed are called the clothes.\]
 
-<span id="fn_220"></span>[104:13](oma29.htm#fr_220) Cf. White, 1932, pp.
+<span id="fn_220"></span>[104:13](oma29.htm#fr_220.md) Cf. White, 1932, pp.
 46-51.
 
-<span id="fn_221"></span>[104:14](oma29.htm#fr_221) Gotsicpawatsa,
+<span id="fn_221"></span>[104:14](oma29.htm#fr_221.md) Gotsicpawatsa,
 "Pretty Spring."
 
-<span id="fn_222"></span>[105:15](oma29.htm#fr_222) See White, 1932 p.
+<span id="fn_222"></span>[105:15](oma29.htm#fr_222.md) See White, 1932 p.
 129.
 
-<span id="fn_223"></span>[105:16](oma29.htm#fr_223) The communal farming
+<span id="fn_223"></span>[105:16](oma29.htm#fr_223.md) The communal farming
 is usually said by Keres to be done for the cacique (White, 1932, p. 42;
 Boas, 1928, pt. 1, p. 288; White, 1932 a, p. 14; 1935, p. 35; Dumarest,
 1919, p. 197; Goldfrank, 1927, pp. 40, 93-94). But White (1942) also
@@ -537,22 +537,22 @@ two different customs but different ways of reporting the same custom:
 the fields are worked, probably for the cacique, but are tended under
 the direction of the War Chief.--L. A. W.
 
-<span id="fn_224"></span>[106:17](oma29.htm#fr_224) See White, 1932, pp.
+<span id="fn_224"></span>[106:17](oma29.htm#fr_224.md) See White, 1932, pp.
 48-50; 1942.
 
-<span id="fn_225"></span>[106:18](oma29.htm#fr_225) See [p.
-67](oma20.htm#page_67).
+<span id="fn_225"></span>[106:18](oma29.htm#fr_225.md) See [p.
+67](oma20.htm#page_67.md).
 
-<span id="fn_226"></span>[107:19](oma29.htm#fr_226) The informant was
+<span id="fn_226"></span>[107:19](oma29.htm#fr_226.md) The informant was
 once in American vaudeville.
 
-<span id="fn_227"></span>[107:20](oma29.htm#fr_227) See [p.
-37](oma12.htm#page_37). Kapina chaianyi represents Tiamuni, Iatiku's
+<span id="fn_227"></span>[107:20](oma29.htm#fr_227.md) See [p.
+37](oma12.htm#page_37.md). Kapina chaianyi represents Tiamuni, Iatiku's
 "husband."
 
-<span id="fn_228"></span>[107:21](oma29.htm#fr_228) Into the other
+<span id="fn_228"></span>[107:21](oma29.htm#fr_228.md) Into the other
 feathers bundled around the fetish.
 
 ------------------------------------------------------------------------
 
-[Next: Katsina Initiation](oma30)
+[Next: Katsina Initiation](oma30.md)

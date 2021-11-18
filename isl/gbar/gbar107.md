@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar106) [Next](gbar108)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar106) [Next](gbar108.md)
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ rather the contrary. And let this suffice you concerning fasting.
 
 ------------------------------------------------------------------------
 
-[Next](gbar108)
+[Next](gbar108.md)

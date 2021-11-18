@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit08)  [Next](bit10) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit08)  [Next](bit10.md) 
 
 ------------------------------------------------------------------------
 
@@ -360,4 +360,4 @@ description of magical rites, &c., is given in Chapter XV.\]
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Historical Account of the Introduction of Buddhism
-into Tibet](bit10)
+into Tibet](bit10.md)

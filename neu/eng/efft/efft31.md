@@ -1,19 +1,19 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft30)  [Next](efft32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft30)  [Next](efft32.md) 
 
 ------------------------------------------------------------------------
 
 # A MYTH OF MIDRIDGE
 
 <span id="img_08"></span> [![](tn/08.jpg)  
-Click to enlarge](img/08.jpg)  
+Click to enlarge](img/08.jpg.md)  
 "DARTED OFF AS QUICK AS LIGHTNING."
 
 Or, a Story anent a witless Wight's Adventures with the Midridge Fairies
 in the Bishoprick of Durham; now more than two Centuries ago.  <span
-id="fr_37"></span>[1](#fn_37)
+id="fr_37"></span>[1](#fn_37.md)
 
 TALKING about fairies the other day to a nearly octogenarian female
 neighbour, I asked, Had she ever seen one in her youthful days? Her
@@ -103,9 +103,9 @@ legendary lore!
 
 ### Footnotes
 
-<span id="fn_37"></span>[1](efft31.htm#fr_37) *Choice Notes: Folk-
+<span id="fn_37"></span>[1](efft31.htm#fr_37.md) *Choice Notes: Folk-
 Lore*, p. 131.
 
 ------------------------------------------------------------------------
 
-[Next: The Green Children](efft32)
+[Next: The Green Children](efft32.md)

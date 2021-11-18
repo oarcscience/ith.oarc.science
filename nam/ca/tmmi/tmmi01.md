@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](tmmi00)  [Next](tmmi02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](tmmi00)  [Next](tmmi02.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_309">p. 309</span>
 
-# TWO MYTHS OF THE MISSION INDIANS OF CALIFORNIA. <span id="fr_0"></span>[1](#fn_0)
+# TWO MYTHS OF THE MISSION INDIANS OF CALIFORNIA. <span id="fr_0"></span>[1](#fn_0.md)
 
 ## by A. L. Kroeber
 
@@ -139,10 +139,10 @@ elements of the other.
 
 ### Footnotes
 
-<span id="fn_0"></span>[309:1](tmmi01.htm#fr_0) Contributed as part of
+<span id="fn_0"></span>[309:1](tmmi01.htm#fr_0.md) Contributed as part of
 the Proceedings of the California Branch of the American Folk-Lore
 Society.
 
 ------------------------------------------------------------------------
 
-[Next: Pictorial Representations](tmmi02)
+[Next: Pictorial Representations](tmmi02.md)

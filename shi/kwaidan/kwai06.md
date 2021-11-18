@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai05)  [Next](kwai07) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai05)  [Next](kwai07.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ you need not feel any further anxiety about the matter."
 
 ------------------------------------------------------------------------
 
-[Next: Of A Mirror And A Bell](kwai07)
+[Next: Of A Mirror And A Bell](kwai07.md)

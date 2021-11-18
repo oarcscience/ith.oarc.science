@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim18)  [Next](sim20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim18)  [Next](sim20.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ grandson?"
 
 "Who is your father?"
 
-"[HÍNO’](errata.htm#0) is my father. He took me home first, then we came
+"[HÍNO’](errata.htm#0.md) is my father. He took me home first, then we came
 back and were around here all night."
 
 <span id="page_111">p. 111</span>
@@ -258,4 +258,4 @@ among rocks.
 
 ------------------------------------------------------------------------
 
-[Next: Grandfather and Grandson and an Eagle Woman](sim20)
+[Next: Grandfather and Grandson and an Eagle Woman](sim20.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](hec46)  [Next](hec48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](hec46)  [Next](hec48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Eastern Church*, by J.M. Neale, \[1884\], at Intangible
 Textual Heritage
 
@@ -73,4 +73,4 @@ must become tedious.
 
 ------------------------------------------------------------------------
 
-[Next: Idiomela on Friday of Cheese-Sunday](hec48)
+[Next: Idiomela on Friday of Cheese-Sunday](hec48.md)

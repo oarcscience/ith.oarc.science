@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](sjf05)  [Next](sjf07) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](sjf05)  [Next](sjf07.md) 
 
 ------------------------------------------------------------------------
 
@@ -188,4 +188,4 @@ kings of kings, the Holy One, blessed is He.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V.](sjf07)
+[Next: Chapter V.](sjf07.md)

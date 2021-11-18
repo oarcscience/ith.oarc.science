@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](ohpe00)  [Next](ohpe02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](ohpe00)  [Next](ohpe02.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,13 +18,13 @@ Neubauer, \[1897\], at Intangible Textual Heritage
 |                                                             |                            |
 |-------------------------------------------------------------|----------------------------|
 |                                                             | PAGE                       |
-| PREFACE                                                     | [ix](ohpe02.htm#page_ix)   |
-| A LIST OF WORKS USED                                        | [xvi](ohpe03.htm#page_xvi) |
+| PREFACE                                                     | [ix](ohpe02.htm#page_ix.md)   |
+| A LIST OF WORKS USED                                        | [xvi](ohpe03.htm#page_xvi.md) |
 | *SPECIMENS OF RECONSTRUCTION*                               | xviii                      |
-| THE PROVERBS OF BEN SIRA PRESERVED IN RABBINICAL LITERATURE | [xix](ohpe04.htm#page_xix) |
+| THE PROVERBS OF BEN SIRA PRESERVED IN RABBINICAL LITERATURE | [xix](ohpe04.htm#page_xix.md) |
 | *GLOSSARY OF WORDS*                                         | xxxi                       |
 | *VERSIO VETUS LATINA*                                       | xxxvii                     |
-| *HEBREW TEXT WITH GREEK, SYRIAC, AND* ENGLISH *VERSIONS*    | [1](ohpe06.htm#page_1)-41  |
+| *HEBREW TEXT WITH GREEK, SYRIAC, AND* ENGLISH *VERSIONS*    | [1](ohpe06.htm#page_1.md)-41  |
 
 </div>
 
@@ -33,4 +33,4 @@ for technical reasons.--JBH
 
 ------------------------------------------------------------------------
 
-[Next: Preface](ohpe02)
+[Next: Preface](ohpe02.md)

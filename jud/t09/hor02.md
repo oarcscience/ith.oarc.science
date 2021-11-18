@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](hor01)  [Next](hor03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](hor01)  [Next](hor03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -175,7 +175,7 @@ But this is concerning the congregation; whence do we know this with
 regard to the anointed priest, prince, individual? From \[ibid. ib.
 27\]: "*Any* person," *i.e.*, *any*: be he priest, prince, etc. But
 again, all this is correct according to him who holds the
-[analogy](errata.htm#64) of expression Olehu; but to the rabbis who do
+[analogy](errata.htm#64.md) of expression Olehu; but to the rabbis who do
 not hold so, whence is this deduced? From what R. Jehoshua b. Levi
 taught to his son \[Num. xv. 29, 30\]: "One law shall be for you, for
 him that acteth through ignorance. But the person that doth aught with a
@@ -262,7 +262,7 @@ sin offering, a private individual brings offers (in the latter case) a
 supreme court, a bullock. In matters of idol worship the private
 individual, ruler and priest bring a she-goat, while the court (that has
 erroneously decided) a bullock and a he-goat, former as burnt offering,
-latter as a sin offering. The [pending](errata.htm#65) offering (for a
+latter as a sin offering. The [pending](errata.htm#65.md) offering (for a
 doubtful malfeasance) is imposed upon the ruler and private persons, the
 anointed priest and the court are free therefrom. The trespass offering
 (for a sure misdeed) is imposed besides the first two also upon the high
@@ -298,4 +298,4 @@ concerning poverty, in which case he holds the ruler, too, liable.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](hor03)
+[Next: Chapter III](hor03.md)

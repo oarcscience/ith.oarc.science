@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc22)  [Next](scc24) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc22)  [Next](scc24.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ following her. They are called yibish, the three stars of Orion.
 
 ------------------------------------------------------------------------
 
-[Next: 22.--Tachi Yokuts. The Bald Eagle And The Prairie Falcon.](scc24)
+[Next: 22.--Tachi Yokuts. The Bald Eagle And The Prairie Falcon.](scc24.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](drac15)  [Next](drac17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](drac15)  [Next](drac17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B549MW/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B549MW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dracula*, by Bram Stoker, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -436,4 +436,4 @@ are on the ploughshare we must not draw back."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 17](drac17)
+[Next: Chapter 17](drac17.md)

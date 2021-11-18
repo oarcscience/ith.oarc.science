@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy00)  [Next](phy02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy00)  [Next](phy02.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 <span id="img_02700"></span>
 
 [![](tn/02700.jpg)  
-Click to enlarge](img/02700.jpg)
+Click to enlarge](img/02700.jpg.md)
 
 <span id="page_vii">p. vii</span>
 
@@ -22,7 +22,7 @@ Click to enlarge](img/02700.jpg)
 
 |                      |
 |----------------------|
-| ![I](img/_00701.jpg) |
+| ![I](img/_00701.jpg.md) |
 
 N no part of the British Islands has the belief in the existence of
 Fairies retained a stronger hold upon the people than in the Isle of
@@ -85,4 +85,4 @@ HIGHGATE, *July*, 1882.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](phy02)
+[Next: Contents](phy02.md)

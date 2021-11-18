@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb17)  [Next](vifb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb17)  [Next](vifb19.md) 
 
 </div>
 
@@ -170,6 +170,6 @@ came to a miserable end.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy of the Dawn](vifb19)
+[Next: The Fairy of the Dawn](vifb19.md)
 
 </div>

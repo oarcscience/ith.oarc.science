@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe296)  [Next](prwe298) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe296)  [Next](prwe298.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ the place. If a ram cat, the cure is more certain.
 
 ------------------------------------------------------------------------
 
-[Next: Unlucky Things](prwe298)
+[Next: Unlucky Things](prwe298.md)

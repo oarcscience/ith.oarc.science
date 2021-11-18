@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](hou00)    [Page
-Index](pageidx)    [Text \[Zipped\]](hou.txt.gz)
+[Contents](#contents)    [Start Reading](hou00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](hou.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -66,39 +66,39 @@ Mormon and 'Gentile' will find a lot to like in this volume.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](hou00)  
-[Preface](hou01)  
-[Contents](hou02)  
-[Authorities Consulted](hou03)  
-[Chapter I. Discoveries of the Spaniards. 1540-1777.](hou04)  
-[Chapter II. Advent of Trappers and Travellers. 1778-1846.](hou05)  
-[Chapter III. The Story of Mormonism. 1820-1830.](hou06)  
-[Chapter IV. The Story of Mormonism. 1830-1835.](hou07)  
-[Chapter V. The Story of Mormomism. 1835-1840.](hou08)  
-[Chapter VI. The Story of Mormonism. 1840-1844.](hou09)  
-[Chapter VII. Brigham Young Succeeds Joseph. 1844-1845.](hou10)  
-[Chapter VIII. Expulsion From Nauvoo. 1845-1846.](hou11)  
-[Chapter IX. At The Missouri. 1846-1847.](hou12)  
-[Chapter X. Migration to Utah. 1847.](hou13)  
-[Chapter XI. In The Valley of The Great Salt Lake. 1848.](hou14)  
-[Chapter XII. In The Valley of The Great Salt Lake. 1849.](hou15)  
+<span id="contents"></span> [Title Page](hou00.md)  
+[Preface](hou01.md)  
+[Contents](hou02.md)  
+[Authorities Consulted](hou03.md)  
+[Chapter I. Discoveries of the Spaniards. 1540-1777.](hou04.md)  
+[Chapter II. Advent of Trappers and Travellers. 1778-1846.](hou05.md)  
+[Chapter III. The Story of Mormonism. 1820-1830.](hou06.md)  
+[Chapter IV. The Story of Mormonism. 1830-1835.](hou07.md)  
+[Chapter V. The Story of Mormomism. 1835-1840.](hou08.md)  
+[Chapter VI. The Story of Mormonism. 1840-1844.](hou09.md)  
+[Chapter VII. Brigham Young Succeeds Joseph. 1844-1845.](hou10.md)  
+[Chapter VIII. Expulsion From Nauvoo. 1845-1846.](hou11.md)  
+[Chapter IX. At The Missouri. 1846-1847.](hou12.md)  
+[Chapter X. Migration to Utah. 1847.](hou13.md)  
+[Chapter XI. In The Valley of The Great Salt Lake. 1848.](hou14.md)  
+[Chapter XII. In The Valley of The Great Salt Lake. 1849.](hou15.md)  
 [Chapter XIII. Settlement and Occupation of the Country.
-1847-1852.](hou16)  
+1847-1852.](hou16.md)  
 [Chapter XIV. Education, Manufactures, Commerce, Agriculture, Society.
-1850-1852.](hou17)  
-[Chapter XV. Mormonism and Polygamy.](hou18)  
-[Chapter XVI. Missions and Immigration. 1830-1883.](hou19)  
-[Chapter XVII. Utah As a Territory. 1849-1853.](hou20)  
-[Chapter XVIII. The Government in Arms. 1853-1857.](hou21)  
-[Chapter XIX. The Utah War. 1857-1858.](hou22)  
-[Chapter XX. The Mountain Meadows Massacre. 1857.](hou23)  
-[Chapter XXI. Political, Social, and Institutional. 1859-1862.](hou24)  
-[Chapter XXII. Progress of Events. 1861-1869.](hou25)  
-[Chapter XXIII. Schisms and Apostasies. 1844-1869.](hou26)  
-[Chapter XXIV. The Last Days of Brigham Young. 1869-1877.](hou27)  
-[Chapter XXV. Church and State. 1877-1885.](hou28)  
-[Chapter XXVI. Settlements, Society, and Education. 1862-1886.](hou29)  
+1850-1852.](hou17.md)  
+[Chapter XV. Mormonism and Polygamy.](hou18.md)  
+[Chapter XVI. Missions and Immigration. 1830-1883.](hou19.md)  
+[Chapter XVII. Utah As a Territory. 1849-1853.](hou20.md)  
+[Chapter XVIII. The Government in Arms. 1853-1857.](hou21.md)  
+[Chapter XIX. The Utah War. 1857-1858.](hou22.md)  
+[Chapter XX. The Mountain Meadows Massacre. 1857.](hou23.md)  
+[Chapter XXI. Political, Social, and Institutional. 1859-1862.](hou24.md)  
+[Chapter XXII. Progress of Events. 1861-1869.](hou25.md)  
+[Chapter XXIII. Schisms and Apostasies. 1844-1869.](hou26.md)  
+[Chapter XXIV. The Last Days of Brigham Young. 1869-1877.](hou27.md)  
+[Chapter XXV. Church and State. 1877-1885.](hou28.md)  
+[Chapter XXVI. Settlements, Society, and Education. 1862-1886.](hou29.md)  
 [Chapter XXVII. Agriculture, Stock-Raising, Manufactures, and Mining.
-1852-1886.](hou30)  
-[Chapter XXVIII. Commerce and Communication. 1852-1885.](hou31)  
-[Index](hou32)  
+1852-1886.](hou30.md)  
+[Chapter XXVIII. Commerce and Communication. 1852-1885.](hou31.md)  
+[Index](hou32.md)  

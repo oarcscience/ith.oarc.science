@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr12)  [Next](ppr14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr12)  [Next](ppr14.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ Honorable is thy great name!
 
 ------------------------------------------------------------------------
 
-[Next: Prayer of Transformation Into a Lotus (Egyptian)](ppr14)
+[Next: Prayer of Transformation Into a Lotus (Egyptian)](ppr14.md)

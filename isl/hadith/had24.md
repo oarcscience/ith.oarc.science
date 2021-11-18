@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had23)  [Next](had25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had23)  [Next](had25.md) 
 
 ------------------------------------------------------------------------
 
@@ -347,4 +347,4 @@ four months" (2:225).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII: Buying and Selling (Buyū')](had25)
+[Next: Chapter XXII: Buying and Selling (Buyū')](had25.md)

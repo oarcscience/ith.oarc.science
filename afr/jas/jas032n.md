@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas031n)  [Next](jas033n)   
- \[[32. The Law against Back-biting.](jas032)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas031n)  [Next](jas033n.md)   
+ \[[32. The Law against Back-biting.](jas032.md)\]
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ falls dead. Later he restores his victims to life by means of fire.
 
 ------------------------------------------------------------------------
 
-[Next: Note 33. Fling-a-mile.](jas033n)
+[Next: Note 33. Fling-a-mile.](jas033n.md)

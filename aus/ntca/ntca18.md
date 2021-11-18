@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca17)  [Next](ntca19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca17)  [Next](ntca19.md) 
 
 ------------------------------------------------------------------------
 
@@ -210,7 +210,7 @@ a few small crystals, which he was told were *Ultunda*, and which,
 without any hesitation, he drank straight off. On the day following his
 body was again scored, and he eat meat and drank water containing
 crystals, and in addition was given native tobacco <span
-id="fr_165"></span>[1](#fn_165) to chew, which also contained the same.
+id="fr_165"></span>[1](#fn_165.md) to chew, which also contained the same.
 
 On the third day the scoring and eating and drinking were repeated, and
 he was told to stand up with his hands behind his head and to put his
@@ -290,7 +290,7 @@ down upon not only individuals, but whole groups of men and women.
 
 In cases of sickness the natives have implicit faith in the medicine
 man, and in serious cases two or three if they be available are called
-in, in consultation. <span id="fr_166"></span>[1](#fn_166) No reward of
+in, in consultation. <span id="fr_166"></span>[1](#fn_166.md) No reward of
 any
 
 <span id="page_531">p. 531</span>
@@ -362,7 +362,7 @@ had been maliciously thwarted by some *Iruntarinia*.
 The functions of the medicine man as a wizard or sorcerer are associated
 with, first, bringing ill upon other people, and second, ascertaining
 who is responsible for the death of a native. <span
-id="fr_167"></span>[1](#fn_167)
+id="fr_167"></span>[1](#fn_167.md)
 
 We have already mentioned that certain very old medicine
 
@@ -658,7 +658,7 @@ to be so—he takes a small wooden Churinga about six or eight inches in
 length, or, if he has not got one, then he will manufacture one for the
 occasion, marking it with a design of his own totem. This particular
 form of Churinga is called a *Namatwinna* <span
-id="fr_168"></span>[1](#fn_168) from the words *nama*, grass, and
+id="fr_168"></span>[1](#fn_168.md) from the words *nama*, grass, and
 *twinna*, to strike, because when using it, it is struck against the
 ground. Armed with it he goes into the bush accompanied by two or three
 friends whom he has asked to come, and who may be of any relationship to
@@ -779,7 +779,7 @@ the tribes living away on the north coast who manufacture it out of the
 shell of *Melo ethiopica* or *Meleagrina margaritifera*. This is often
 worn, especially at corrobborees, suspended from the waist-girdle. If a
 man desires <span id="page_545">p. 545</span> to charm a particular
-woman he takes the *Lonka-lonka*, <span id="fr_169"></span>[1](#fn_169)
+woman he takes the *Lonka-lonka*, <span id="fr_169"></span>[1](#fn_169.md)
 as the ornament is called, to some retired spot and charms it by singing
 over it “*Ma quatcha purnto ma quillia purtno*,” which words convey an
 invitation to the lightning to come and dwell in the *Lonka-lonka*.
@@ -857,12 +857,12 @@ the palm of the right hand, the thumb of that hand is linked with the
 hands, thus linked together, are held in front of the face and jerked
 three times towards the person whom it is intended to kill, an
 incantation being uttered at the same time. <span
-id="fr_170"></span>[1](#fn_170)
+id="fr_170"></span>[1](#fn_170.md)
 
 Amongst the Arunta tribe, women, while not dealing with magic as a
 general rule, or at any rate not to anything like the extent that the
 men do, are still supposed to be able to exercise peculiar powers in
-regard to the sexual organs. <span id="fr_171"></span>[2](#fn_171) To
+regard to the sexual organs. <span id="fr_171"></span>[2](#fn_171.md) To
 bring on a painful affection in those of men, a woman will procure the
 spear-like seed of a long grass (*Inturkirra*), and having charmed it by
 singing some magic chant over it, she awaits an opportunity to point and
@@ -900,7 +900,7 @@ is already the property of another man, so we find also a special form
 of magic employed in the punishment of the individual who is guilty of
 the theft. The western and south-western Arunta are famed for their
 skill in magic, and especially in various forms of *Arungquiltha*. <span
-id="fr_172"></span>[1](#fn_172) To punish a man who has stolen a wife
+id="fr_172"></span>[1](#fn_172.md) To punish a man who has stolen a wife
 and who belongs to a distant group, or to one which is too powerful to
 make it advisable to allow matters to come to an open fight, two men,
 perhaps the former husband and another man to whom the stolen woman is
@@ -954,7 +954,7 @@ This drawing is simply marked out on <span id="page_550">p. 550</span>
 the ground with the finger and is intended to represent the figure of
 the woman lying down on her back. It is called *Aura*, a term which has
 much the same significance as the word emblem. <span
-id="fr_173"></span>[1](#fn_173) While the drawing is being made, and
+id="fr_173"></span>[1](#fn_173.md) While the drawing is being made, and
 throughout the whole proceedings, low chants are sung, the burden of
 which is an exhortation to the *Arungquiltha* to go out and enter her
 body and dry up all of her fat. When the drawing is done a piece of
@@ -1096,40 +1096,40 @@ different from the one met with amongst many other savage tribes.
 
 ### Footnotes
 
-<span id="fn_165"></span>[528:1](ntca18.htm#fr_165) *Nicotianum
+<span id="fn_165"></span>[528:1](ntca18.htm#fr_165.md) *Nicotianum
 suaveolens*. The leaves of this plant are used, after preparation, for
 chewing by the natives.
 
-<span id="fn_166"></span>[530:1](ntca18.htm#fr_166) In connection with
+<span id="fn_166"></span>[530:1](ntca18.htm#fr_166.md) In connection with
 medicine men and women alike, restrictions such as those applying to
 *Mura* are laid on one side during the actual exercise of their
 profession.
 
-<span id="fn_167"></span>[532:1](ntca18.htm#fr_167) For an excellent
+<span id="fn_167"></span>[532:1](ntca18.htm#fr_167.md) For an excellent
 account of the functions of a medicine man, cf. Roth, *op. cit*., pp.
 153 *et seq*.
 
-<span id="fn_168"></span>[541:1](ntca18.htm#fr_168) This is evidently
+<span id="fn_168"></span>[541:1](ntca18.htm#fr_168.md) This is evidently
 precisely the same thing as the kind of “whirler” described already by
 Mr. Roth, and used as a “love-charm” to attract and secure women amongst
 the Yaroinga tribe. Roth, p. 182.
 
-<span id="fn_169"></span>[545:1](ntca18.htm#fr_169) The *Lonka-lonka* is
+<span id="fn_169"></span>[545:1](ntca18.htm#fr_169.md) The *Lonka-lonka* is
 also used as a charm in connection with sickness of any kind. Laid on
 the chest of a man it is supposed to have great curative properties.
 
-<span id="fn_170"></span>[547:1](ntca18.htm#fr_170) For a previous
+<span id="fn_170"></span>[547:1](ntca18.htm#fr_170.md) For a previous
 reference to these two forms of magic, see *Report of the Horn
 Expedition to Central Australia*, vol. iv., p. 81, where they are quoted
 by Dr. Stirling from information supplied by one of the authors.
 
-<span id="fn_171"></span>[547:2](ntca18.htm#fr_171) As a general rule
+<span id="fn_171"></span>[547:2](ntca18.htm#fr_171.md) As a general rule
 women are not supposed to be able to exercise much magic, except in
 regard to the sexual organs, but we have known of a woman being speared
 to death by the brother of her husband, who accused her of having killed
 the latter by means of a pointing stick.
 
-<span id="fn_172"></span>[548:1](ntca18.htm#fr_172) This is a term of
+<span id="fn_172"></span>[548:1](ntca18.htm#fr_172.md) This is a term of
 somewhat vague import, but is always associated at bottom with the
 possession of supernatural evil power. A thin opossum or emu is either
 *Arungquiltha* or endowed with *Arungquiltha*; in fact, the idea can be
@@ -1140,7 +1140,7 @@ woman. The name *Arungquiltha* is applied indiscriminately either to the
 evil influence or to the object in which it is, for the time being, or
 permanently, resident.
 
-<span id="fn_173"></span>[550:1](ntca18.htm#fr_173) The same term,
+<span id="fn_173"></span>[550:1](ntca18.htm#fr_173.md) The same term,
 though it is sometimes pronounced as if spelt *oara*, is applied to (1)
 the drawing now referred to, (2) the hole made in the ground to
 represent the woman belonging to the man whom an avenging party is about
@@ -1151,4 +1151,4 @@ handed over to him with as little misgiving as the dirt is.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Methods of Obtaining Wives](ntca19)
+[Next: Chapter XVII. Methods of Obtaining Wives](ntca19.md)

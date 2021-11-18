@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](hyp02)  [Next](hyp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](hyp02)  [Next](hyp04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121505755/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121505755/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -911,4 +911,4 @@ iti haṭha-pradīpikāyāṃ prathamopadeśaḥ \|
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. On Prâṇâyâma](hyp04)
+[Next: Chapter II. On Prâṇâyâma](hyp04.md)

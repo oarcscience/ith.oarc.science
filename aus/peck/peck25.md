@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck24)  [Next](peck26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck24)  [Next](peck26.md) 
 
 ------------------------------------------------------------------------
 
@@ -197,4 +197,4 @@ longer there than anywhere else.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Waratah Is Firm](peck26)
+[Next: Why The Waratah Is Firm](peck26.md)

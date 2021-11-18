@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[Tagore](../index)  [Index](index)  [Previous](sadh09) 
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[Tagore](../index)  [Index](index)  [Previous](sadh09.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,9 +31,9 @@ Upanishads teach us to realise everything in Brahma, it is not to seek
 something extra, not to manufacture something new.
 
 *Know everything that there is in the universe as enveloped by God.*
- <span id="fr_54"></span>[55](#fn_54) *Enjoy whatever is given by him
+ <span id="fr_54"></span>[55](#fn_54.md) *Enjoy whatever is given by him
 and harbour not in your mind the greed for wealth which is not your
-own.*  <span id="fr_55"></span>[56](#fn_55)
+own.*  <span id="fr_55"></span>[56](#fn_55.md)
 
 When you know that whatever there is is filled by him and whatever you
 have is his gift, then you realise the infinite in the finite, and the
@@ -68,7 +68,7 @@ mind. It must be the aim of the whole of our life. In all our thoughts
 and deeds we must be conscious of the infinite. Let the realisation of
 this truth become easier every day of our life, that *none could live or
 move if the energy of the all-pervading joy did not fill the sky.*
- <span id="fr_56"></span>[57](#fn_56) In all our actions let us feel
+ <span id="fr_56"></span>[57](#fn_56.md) In all our actions let us feel
 that impetus of the infinite energy and be glad.
 
 It may be said that the infinite is beyond our attainment, so it is for
@@ -284,7 +284,7 @@ offerings to the supreme spirit of perfection.
 
 There is a remarkable saying in the Upanishads: *I think not that I know
 him well, or that I know him, or even that I know him not.*  <span
-id="fr_57"></span>[58](#fn_57)
+id="fr_57"></span>[58](#fn_57.md)
 
 By the process of knowledge we can never know the infinite being. But if
 he is altogether beyond our reach, then he is absolutely nothing to us.
@@ -293,7 +293,7 @@ The truth is that we know him not, yet we know him.
 This has been explained in another saying of the Upanishads: *From
 Brahma words come back baffled, as well as the mind, but he who knows
 him by the joy of him is free from all fears.*  <span
-id="fr_58"></span>[59](#fn_58)
+id="fr_58"></span>[59](#fn_58.md)
 
 Knowledge is partial, because our intellect is an instrument, it is only
 a part of us, it can give us information about things which can be
@@ -332,21 +332,21 @@ Upanishads say: *He who knows Brahman, the true, the all-conscious, and
 the infinite as hidden in the depths of the soul, which is the supreme
 sky (the inner sky of consciousness), enjoys all objects of desire in
 union with the all-knowing Brahman.*  <span
-id="fr_59"></span>[60](#fn_59)
+id="fr_59"></span>[60](#fn_59.md)
 
 The union is already accomplished. The *paramātman*, the supreme soul,
 has himself chosen this soul of ours as his bride and the marriage has
 been completed. The solemn *mantram* has been uttered: *Let thy heart be
-even as my heart is.*  <span id="fr_60"></span>[61](#fn_60) There is no
+even as my heart is.*  <span id="fr_60"></span>[61](#fn_60.md) There is no
 room in this marriage for evolution to act the part of the master of
 ceremonies. The *eshah*, who cannot otherwise be described than as
 *This*, the nameless immediate presence, is ever here in our innermost
 being. "This *eshah*, or *This*, is the supreme end of the other this";
- <span id="fr_61"></span>[62](#fn_61) "this *This* is the supreme
-treasure of the other this";  <span id="fr_62"></span>[63](#fn_62) "this
+ <span id="fr_61"></span>[62](#fn_61.md) "this *This* is the supreme
+treasure of the other this";  <span id="fr_62"></span>[63](#fn_62.md) "this
 *This* is the supreme dwelling of the other this";  <span
-id="fr_63"></span>[64](#fn_63) "this *This* is the supreme joy of the
-other this."  <span id="fr_64"></span>[65](#fn_64) Because the marriage
+id="fr_63"></span>[64](#fn_63.md) "this *This* is the supreme joy of the
+other this."  <span id="fr_64"></span>[65](#fn_64.md) Because the marriage
 of supreme love has been accomplished in timeless time. And now goes on
 the endless *līlā*, the play of love. He who has been gained in eternity
 is now being pursued in time and space, in joys and sorrows, in this
@@ -366,7 +366,7 @@ the world dissociated from him, she serves as a handmaid here, where by
 right she might reign as a queen; she sways in doubt, and weeps in
 sorrow and dejection. *She passes from starvation to starvation, from
 trouble to trouble, and from fear to fear.*  <span
-id="fr_65"></span>[66](#fn_65)
+id="fr_65"></span>[66](#fn_65.md)
 
 I can never forget that scrap of a song I once heard in the early dawn
 in the midst of the din of the crowd that had collected for a festival
@@ -424,35 +424,35 @@ distant, not anywhere else.
 
 ### Footnotes
 
-<span id="fn_54"></span>[55](sadh10.htm#fr_54) Īçhāvāsyamdiam sarvam yat
+<span id="fn_54"></span>[55](sadh10.htm#fr_54.md) Īçhāvāsyamdiam sarvam yat
 kincha jagatyānjagat.
 
-<span id="fn_55"></span>[56](sadh10.htm#fr_55) Tēna tyaktēna bhunjīţhā
+<span id="fn_55"></span>[56](sadh10.htm#fr_55.md) Tēna tyaktēna bhunjīţhā
 mā gŗidhah kasyasviddhanam.
 
-<span id="fn_56"></span>[57](sadh10.htm#fr_56) Ko hyevānyāt kah prānyāt
+<span id="fn_56"></span>[57](sadh10.htm#fr_56.md) Ko hyevānyāt kah prānyāt
 yadesha ākāçha ānando na syāt.
 
-<span id="fn_57"></span>[58](sadh10.htm#fr_57) Nāham manye suvedeti no
+<span id="fn_57"></span>[58](sadh10.htm#fr_57.md) Nāham manye suvedeti no
 na vedeti vedacha.
 
-<span id="fn_58"></span>[59](sadh10.htm#fr_58) Yato vācho nivartante
+<span id="fn_58"></span>[59](sadh10.htm#fr_58.md) Yato vācho nivartante
 aprāpya manasā saha ānandam brahmaņo vidvān na vibheti kutaçchana.
 
-<span id="fn_59"></span>[60](sadh10.htm#fr_59) Satyam jñānam anantam
+<span id="fn_59"></span>[60](sadh10.htm#fr_59.md) Satyam jñānam anantam
 brahma yo veda nihitam guhāyām paramo vyoman so'çnute sarvān kāmān saha
 brahmaņa vipasçhite.
 
-<span id="fn_60"></span>[61](sadh10.htm#fr_60) Yadetat hŗidayam mama
+<span id="fn_60"></span>[61](sadh10.htm#fr_60.md) Yadetat hŗidayam mama
 tadastu hŗidayan tava.
 
-<span id="fn_61"></span>[62](sadh10.htm#fr_61) Eshāsya paramā gatih
+<span id="fn_61"></span>[62](sadh10.htm#fr_61.md) Eshāsya paramā gatih
 
-<span id="fn_62"></span>[63](sadh10.htm#fr_62) Eshāsya paramā sampat.
+<span id="fn_62"></span>[63](sadh10.htm#fr_62.md) Eshāsya paramā sampat.
 
-<span id="fn_63"></span>[64](sadh10.htm#fr_63) Eshāsya paramo lokah
+<span id="fn_63"></span>[64](sadh10.htm#fr_63.md) Eshāsya paramo lokah
 
-<span id="fn_64"></span>[65](sadh10.htm#fr_64) Eshāsya parama ānandah
+<span id="fn_64"></span>[65](sadh10.htm#fr_64.md) Eshāsya parama ānandah
 
-<span id="fn_65"></span>[66](sadh10.htm#fr_65) Daurbhikshāt yāti
+<span id="fn_65"></span>[66](sadh10.htm#fr_65.md) Daurbhikshāt yāti
 daurbhiksham kleçāt kleçam bhayāt bhayam.

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi25)  [Next](rpdi27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi25)  [Next](rpdi27.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -33,4 +33,4 @@ the other southwest peoples of Yuman stock.
 
 ------------------------------------------------------------------------
 
-[Next: Plates](rpdi27)
+[Next: Plates](rpdi27.md)

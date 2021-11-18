@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo04)  [Next](sdo06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo04)  [Next](sdo06.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ ceremonial camp circle.
 
 ------------------------------------------------------------------------
 
-[Next: Preparation Of The Candidate](sdo06)
+[Next: Preparation Of The Candidate](sdo06.md)

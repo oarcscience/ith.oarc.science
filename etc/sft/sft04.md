@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](sft03)  [Next](sft05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](sft03)  [Next](sft05.md) 
 
 ------------------------------------------------------------------------
 
@@ -259,4 +259,4 @@ accomplishment.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Principles of Selection for Fairy Tales](sft05)
+[Next: Chapter II. Principles of Selection for Fairy Tales](sft05.md)

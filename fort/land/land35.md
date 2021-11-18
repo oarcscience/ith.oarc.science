@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](land34)  [Next](land36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](land34)  [Next](land36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *New Lands*, by Charles Fort, \[1923\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -108,7 +108,7 @@ abandoned, and the general supposition was
 
 <span id="page_515">p. 515</span>
 
-that [German](errata.htm#1) airships were maneuvering over England. But
+that [German](errata.htm#1.md) airships were maneuvering over England. But
 not a thing had been seen to cross the coast of England, though guards
 were patroling the coasts, especially commissioned to watch for foreign
 airships. Sailors in the North Sea, and people in Holland and Belgium
@@ -181,7 +181,7 @@ of Feb. 9, 1913. Either groups of meteors, in one straight line, passed
 over the city of Toronto, or there was a procession of unknown objects,
 carrying lights. According to Prof. Chant, the spectacle was seen from
 the Saskatchewan to Bermuda, but if this long route was traversed, data
-do not so [indicate](errata.htm#2). The supposed route was diagonally
+do not so [indicate](errata.htm#2.md). The supposed route was diagonally
 across New York State, from Buffalo, to a point near New York City, but
 from New York State are recorded no observations other than might have
 been
@@ -224,4 +224,4 @@ about seven or eight in all."
 
 ------------------------------------------------------------------------
 
-[Next: 36](land36)
+[Next: 36](land36.md)

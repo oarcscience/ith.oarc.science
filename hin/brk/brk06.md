@@ -1,22 +1,22 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk05)  [Next](brk07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk05)  [Next](brk07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
 ------------------------------------------------------------------------
 
 § 3. <span class="smallcaps">The Upanishads</span>. <span
-id="fr_0"></span>[1](#fn_0)—The earlier Upanishads, a series of
+id="fr_0"></span>[1](#fn_0.md)—The earlier Upanishads, a series of
 philosophic tracts of varying length and character, arose in the schools
 of the Brāhmaṇas, and especially were attached to the sections of the
 latter styled *Āraṇyakas.* The Hindus class together Vedas, Brāhmaṇas,
@@ -44,7 +44,7 @@ styling themselves *Vedānta* (first Muṇḍ. III. ii. 6, Śvet. VI. 22).
 
 ### Footnotes
 
-<span id="fn_0"></span>[12:1](brk06.htm#fr_0) The etymology of the word
+<span id="fn_0"></span>[12:1](brk06.htm#fr_0.md) The etymology of the word
 *Upanishad* is not clear. European scholars generally regard it as from
 the root *sad* (compare Latin *sedeo*), so that it would mean "a sitting
 before," i.e. a lesson; but native tradition interprets it as "mystery,"
@@ -54,4 +54,4 @@ convey their theories lend some support to this view (see Deussen,
 
 ------------------------------------------------------------------------
 
-[Next: Foundations of Upanishadic Ideas](brk07)
+[Next: Foundations of Upanishadic Ideas](brk07.md)

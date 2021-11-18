@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](gem07)  [Next](gem09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](gem07)  [Next](gem09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Histories of the Kings of Britain, by Geoffry of Monmouth*, tr. by
 Sebastian Evans, \[1904\], at Intangible Textual Heritage
 
@@ -409,7 +409,7 @@ days shall the
 <span id="page_184">p. 184</span>
 
 <span class="margnote">Merlin's prophecies</span>mountains of Panchaia
-totter, and the provinces shall [be](errata.htm#1) despoiled of their
+totter, and the provinces shall [be](errata.htm#1.md) despoiled of their
 forests. For a Worm the breath whereof is fire shall come upon then and
 burn up the trees with the vapour he shall breathe forth. Out of him
 shall issue forth seven lions disfigured by heads of goats. With the
@@ -542,4 +542,4 @@ together, and the sound thereof shall be heard amongst the stars.’
 
 ------------------------------------------------------------------------
 
-[Next: Book VIII](gem09)
+[Next: Book VIII](gem09.md)

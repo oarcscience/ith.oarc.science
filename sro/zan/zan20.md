@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](zan19)  [Next](zan21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](zan19)  [Next](zan21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Zanoni*, by Edward Bulwer Lytton, \[1842\], at Intangible Textual
 Heritage
 
@@ -176,4 +176,4 @@ work he was about to publish on the origin of languages, to be called
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](zan21)
+[Next: Chapter VII](zan21.md)

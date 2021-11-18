@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aar00)  [Next](aar02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aar00)  [Next](aar02.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ J. E. H.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](aar02)
+[Next: Contents](aar02.md)

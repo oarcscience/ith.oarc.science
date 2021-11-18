@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont32)  [Next](ont34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont32)  [Next](ont34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -56,7 +56,7 @@ leads the flock. In the Thunder, or Pipe dance,
 
 <span id="img_40700"></span> <span align="CENTER"> [![THUNDER
 TIPI.&lt;br&gt; (“Lookout Butte” in distance.)](tn/40700.jpg)  
-Click to enlarge](img/40700.jpg)  
+Click to enlarge](img/40700.jpg.md)  
 THUNDER TIPI.  
 (“Lookout Butte” in distance.)  
 </span>
@@ -114,7 +114,7 @@ them to be careful,
 <span id="img_40900"></span> <span align="CENTER"> [![ONESTA GIVES THE
 CROW BEAVER CEREMONIAL.&lt;br&gt; (Onesta is second from right
 end.)](tn/40900.jpg)  
-Click to enlarge](img/40900.jpg)  
+Click to enlarge](img/40900.jpg.md)  
 ONESTA GIVES THE CROW BEAVER CEREMONIAL.  
 (Onesta is second from right end.)  
 </span>
@@ -243,4 +243,4 @@ that that was undoubtedly the cause of the storm.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXI. The Rival Leaders](ont34)
+[Next: Chapter XXXI. The Rival Leaders](ont34.md)

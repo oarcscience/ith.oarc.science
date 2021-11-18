@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srp00)  [Next](srp02) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srp00)  [Next](srp02.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ has been collected in Russia, but which has not been hitherto rendered
 into generally intelligible speech, and therefore I have not thought it
 necessary to make more than occasional reference to books written in, or
 translated into, the languages of Western Europe <span
-id="fr_0"></span>[1](#fn_0). Of the
+id="fr_0"></span>[1](#fn_0.md). Of the
 
 <span id="page_viii">p. viii</span>
 
@@ -96,7 +96,7 @@ Builínas,
 
 or Metrical Romances--with respect to which the special books of
 reference are the collections of Ruibnikof and Kiryeevsky <span
-id="fr_1"></span>[2](#fn_1), and the critical works of Buslaef,
+id="fr_1"></span>[2](#fn_1.md), and the critical works of Buslaef,
 Bezsonof, Maikof, Orest Miller, Schiefner, Stasof, and many others.
 There is one other Russian scholar to whom I wish to render hearty
 acknowledgments for aid constantly received. Were it not for the great
@@ -117,7 +117,7 @@ of omission and of commission.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](srp01.htm#fr_0) A long list of books in
+<span id="fn_0"></span>[vii:1](srp01.htm#fr_0.md) A long list of books in
 various languages on Slavonic Antiquities is given by Dr. L J. Hanusch.
 See *Die Wissenshaft des slawischen Mythus*, pp. 48-71. A number of
 Russian Songs have been faithfully translated by P. Von Goetze, under
@@ -126,7 +126,7 @@ A <span id="page_viii">p. viii</span> few occur also in the collection
 entitled *Balalaika. Eine Sammlung slawischer Lieder von W. von
 Waldbrühl*. Leipzig, 1848.
 
-<span id="fn_1"></span>[ix:2](srp01.htm#fr_1) A new collection of
+<span id="fn_1"></span>[ix:2](srp01.htm#fr_1.md) A new collection of
 *builinas* is now in the press, containing the poems written down from
 the dictation of the Olonets "rhapsodists" by the editor, A. F.
 Hilferding. They will not be arranged according to their subjects, nor
@@ -135,4 +135,4 @@ reciters--all the poems dictated by each rhapsodist being kept together.
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the Second Edition](srp02)
+[Next: Preface to the Second Edition](srp02.md)

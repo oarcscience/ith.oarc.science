@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort18)  [Next](kort20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort18)  [Next](kort20.md) 
 
 ------------------------------------------------------------------------
 
-# 15. Eme'mqut and the Perches. <span id="fr_34"></span>[1](#fn_34)
+# 15. Eme'mqut and the Perches. <span id="fr_34"></span>[1](#fn_34.md)
 
 Eme'mqut went into the open and found a village. They were catching
 winter fish with drag-nets. The fish were small perches. He dragged a
@@ -40,10 +40,10 @@ visited their neighbors. That is all.
 
 ### Footnotes
 
-<span id="fn_34"></span>[71:1](kort19.htm#fr_34) *Acerina cernua*. This
+<span id="fn_34"></span>[71:1](kort19.htm#fr_34.md) *Acerina cernua*. This
 tale was told by a young girl. It seems to be a fragment of a longer and
 more coherent tale.
 
 ------------------------------------------------------------------------
 
-[Next: 16. Miti' and Magpie-Man](kort20)
+[Next: 16. Miti' and Magpie-Man](kort20.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr22) 
-[Next](idr24) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr22.md) 
+[Next](idr24.md) 
 
 ------------------------------------------------------------------------
 
@@ -442,4 +442,4 @@ idolatry.
 
 ------------------------------------------------------------------------
 
-[Next: Stone-Worship](idr24)
+[Next: Stone-Worship](idr24.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe184)  [Next](prwe186) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe184)  [Next](prwe186.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ Some do say Betty Foss was a witch, and the owl her familiar.
 
 ------------------------------------------------------------------------
 
-[Next: The Witch and the Toad](prwe186)
+[Next: The Witch and the Toad](prwe186.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto33) 
-[Next](aoto35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto33.md) 
+[Next](aoto35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -263,7 +263,7 @@ the milk dishes some huge unkempt shepherd came in with a load of
 firewood on his back, and gave a sudden shock to her nervous system by
 flinging it down too violently. Him she transformed into the local giant
 that exists on Mt. Eryx now under the name of Conturràno. <span
-id="fr_60"></span>[\*](#fn_60)
+id="fr_60"></span>[\*](#fn_60.md)
 
 <span id="page_148">p. 148</span>
 
@@ -660,8 +660,8 @@ second.
 
 ### Footnotes
 
-<span id="fn_60"></span>[147:\*](aoto34.htm#fr_60) See Chapter x.
+<span id="fn_60"></span>[147:\*](aoto34.htm#fr_60.md) See Chapter x.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Ithaca and Scheria Are Drawn From Trapani](aoto35)
+[Next: Chapter VIII. Ithaca and Scheria Are Drawn From Trapani](aoto35.md)

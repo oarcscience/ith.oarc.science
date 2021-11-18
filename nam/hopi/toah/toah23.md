@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah22)  [Next](toah24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah22)  [Next](toah24.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_121">p. 121</span>
 
-### DR. FEWKES AND MASAUWU <span id="fr_4"></span>[1](#fn_4)
+### DR. FEWKES AND MASAUWU <span id="fr_4"></span>[1](#fn_4.md)
 
 #### THE BIRTH OF A LEGEND
 
@@ -23,7 +23,7 @@ manifested itself in such severity as to completely demoralize the
 Indians and to prevent them from carrying out their ceremonial plans,
 and at the same time placed Dr. Fewkes in grave personal danger. It
 accordingly became necessary to abandon the work for the
-season." [77](toah24.htm#xref_77)
+season." [77](toah24.htm#xref_77.md)
 
 The Hopis at Walpi have another story of the cause of Dr. Fewkes'
 departure.--Ed.
@@ -121,9 +121,9 @@ years a legend had its birth.--Ed.
 
 ### Footnotes
 
-<span id="fn_4"></span>[121:1](toah23.htm#fr_4) Reprinted from M. N. A.,
+<span id="fn_4"></span>[121:1](toah23.htm#fr_4.md) Reprinted from M. N. A.,
 Museum Notes, Vol. 11, No. 2, Aug. 1938, p. 25.
 
 ------------------------------------------------------------------------
 
-[Next: Notes](toah24)
+[Next: Notes](toah24.md)

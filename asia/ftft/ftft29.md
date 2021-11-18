@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft28)  [Next](ftft30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft28)  [Next](ftft30.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_217">p. 217</span>
 
 <span id="img_21700"></span> ![The Daughter of the Padishah of
-Kandahar](img/21700.jpg)
+Kandahar](img/21700.jpg.md)
 
 <span id="img_iinit"></span>
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N olden time there was a Padishah who had no children. One day he said
 to his Vezir: "Behold, we are both childless; let us go on a pilgrimage,
@@ -56,7 +56,7 @@ never separated day or night.
 
 |                     |
 |---------------------|
-| ![G](img/ginit.jpg) |
+| ![G](img/ginit.jpg.md) |
 
 OING to the tcharchi one day, they saw a tellal with a box which was
 offered for sale for a hundred lira. "I am going to buy that box," said
@@ -175,7 +175,7 @@ id="img_22100"></span>
 
 |                                                                 |
 |-----------------------------------------------------------------|
-| ![''I will find your daughter,'' said the witch](img/22100.jpg) |
+| ![''I will find your daughter,'' said the witch](img/22100.jpg.md) |
 
 While this was happening the Padishah was overwhelmed with surprise and
 grief at the mysterious disappearance of both his bride and sister. He
@@ -247,7 +247,7 @@ pomp and circumstance.<span id="img_22300"></span>
 
 |                                                                |
 |----------------------------------------------------------------|
-| ![He cut the dog in two by a blow of his sword](img/22300.jpg) |
+| ![He cut the dog in two by a blow of his sword](img/22300.jpg.md) |
 
 Before night came, however, the lala stole into the bridal chamber and
 hid himself. Later came his own bride and also the Prince with his
@@ -279,14 +279,14 @@ brought this in here?" he demanded. Now one of the vezirs, who was
 envious of the preference
 
 <span id="img_22400"></span> ![The Lala ran him through with his
-sword](img/22400.jpg)
+sword](img/22400.jpg.md)
 
 <span id="page_225">p. 225</span>
 
 <span id="img_22500"></span>
 
 [![He greeted him respectfully](tn/22500.jpg)  
-Click to enlarge](img/22500.jpg)  
+Click to enlarge](img/22500.jpg.md)  
 He greeted him respectfully  
 
 <span id="page_226">p. 226</span>
@@ -362,4 +362,4 @@ their time in perfect bliss.
 
 ------------------------------------------------------------------------
 
-[Next: Shah Meram and Sultan Sade](ftft30)
+[Next: Shah Meram and Sultan Sade](ftft30.md)

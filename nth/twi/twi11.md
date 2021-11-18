@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](twi10)  [Next](twi12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](twi10)  [Next](twi12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRL0Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Tune With the Infinite*, by Ralph Waldo Trine, \[1910\], at
 Intangible Textual Heritage
 
@@ -624,4 +624,4 @@ of ten because your heart is pure.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Plenty of All Things—The Law of Prosperity](twi12)
+[Next: IX. Plenty of All Things—The Law of Prosperity](twi12.md)

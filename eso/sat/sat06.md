@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat05)  [Next](sat07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat05)  [Next](sat07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -47,7 +47,7 @@ itself.
 assimulate; for in the assimulate arises the satisfaction of the will,
 viz. its highest joy; for each thing desires a will of its likeness, and
 by the contrary will it is discomfited; <span
-id="fr_11"></span>[1](#fn_11) but if it obtains a will of its likeness,
+id="fr_11"></span>[1](#fn_11.md) but if it obtains a will of its likeness,
 it rejoices in the assimulate, and therein falls into rest, and the
 enmity is turned into joy.
 
@@ -119,11 +119,11 @@ desires manifestation, the more strongly and eagerly the desire draws
 into itself, and makes in itself three forms, viz. the desire, which is
 astringent, and makes hardness, for it is an enclosing, when coldness
 arises, and the attraction causes compunction, <span
-id="fr_12"></span>[1](#fn_12) and stirring in the hardness, an enmity
+id="fr_12"></span>[1](#fn_12.md) and stirring in the hardness, an enmity
 against the attracted hardness; the attraction is the second form, and a
 cause of motion and life, and stirs itself in the astringency and
 hardness, which the hardness, viz. the enclosing, <span
-id="fr_13"></span>[2](#fn_13) cannot endure, and therefore it attracts
+id="fr_13"></span>[2](#fn_13.md) cannot endure, and therefore it attracts
 more eagerly to hold the compunction, and yet the compunction is thereby
 only the stronger.
 
@@ -142,7 +142,7 @@ the motion), the first will to the desire is made wholly austere and a
 hunger, for it is in a hard compunctive dry essence, and also cannot get
 rid and quit of it, for itself makes the essence, and likewise possesses
 it, for thus it finds itself now out of nothing in the something, <span
-id="fr_14"></span>[3](#fn_14) and the something is yet its contrary
+id="fr_14"></span>[3](#fn_14.md) and the something is yet its contrary
 will, for it is an unquietness, and the free-will is a stillness.
 
 15\. This is now the original of enmity, that nature opposes the
@@ -216,7 +216,7 @@ perturbation makes the nothing active: but in the third principle, viz.
 in the dominion in the essence, and source of the outward world, the
 form is called Mercury, which is opposite, odious, and poisonful, and
 the cause of life and stirring, also the cause of the senses: Where one
-glance <span id="fr_15"></span>[1](#fn_15) may conceive itself in the
+glance <span id="fr_15"></span>[1](#fn_15.md) may conceive itself in the
 infinity, and then also immerse itself into it, where out of one only
 the abyssal, unsearchable, and infinite multiplicity may arise.
 
@@ -256,7 +256,7 @@ of the mother), viz. the spirit, which has both these properties in it,
 and is a son of the properties and also a lord of the same; for in him
 consists the power, he may awaken which he pleases; the properties lie
 in the essence, and are as a well-constituted life, or as an instrument
-with many strings, <span id="fr_16"></span>[1](#fn_16) which stand
+with many strings, <span id="fr_16"></span>[1](#fn_16.md) which stand
 still; and the spirit, viz. the egress is the real life, he may play
 upon the instrument as he pleases, in evil or good, according to love or
 anger; and as he plays, and as the instrument sounds, so is it received
@@ -275,7 +275,7 @@ satiating of its hunger, wherein we understand the desire of the light,
 and also of the dark world; a twofold source and property.
 
 28\. The desire of the liberty is meek, easy, and pleasant, and it is
-called good; <span id="fr_17"></span>[2](#fn_17) and the desire to
+called good; <span id="fr_17"></span>[2](#fn_17.md) and the desire to
 nature makes itself in itself dark, dry, hungry, and wrathful, which is
 called God's anger, and the dark world, viz. the first principle; and
 the light world is the second principle.
@@ -288,8 +288,8 @@ its character, and makes a form and signature according to its will in
 the external after itself. A similitude whereof we see in an enraged man
 or beast; though the outward man and beast are not in the inward world,
 yet the outward nature has even the same forms; for it <span
-id="fr_18"></span>[3](#fn_18) arises originally from the inward, <span
-id="fr_19"></span>[4](#fn_19) and stands upon the inward root.
+id="fr_18"></span>[3](#fn_18.md) arises originally from the inward, <span
+id="fr_19"></span>[4](#fn_19.md) and stands upon the inward root.
 
 30\. The third form is the anxiousness which arises in nature from the
 first and second form, and is the upholder or preserver of the first and
@@ -310,10 +310,10 @@ itself painful, viz. a sharpness of dying, and that from the sharp
 attraction of the astringency: It has a twofold fire, one cold, another
 hot; the cold arises from the astringency, from the sharp attraction,
 and is a dark black fire; and the hot arises from the driving forth the
-compunction <span id="fr_20"></span>[1](#fn_20) in the anguish in the
+compunction <span id="fr_20"></span>[1](#fn_20.md) in the anguish in the
 desire after the liberty, and the liberty is its enkindler, and the
 raging compunction is the cold's fire's awakener. <span
-id="fr_21"></span>[2](#fn_21)
+id="fr_21"></span>[2](#fn_21.md)
 
 31\. These three forms are in one another as one, and yet they are but
 one; but they sever themselves through the original into many forms, and
@@ -328,7 +328,7 @@ the other reconceived will is the son of the first, which goes out of
 the manifestation again into itself into the liberty; for it is become
 an eternal life in nature, and yet possesses not nature essentially, but
 dwells in itself, and penetrates nature as a transparent shining, and
-the first will goes outwards, <span id="fr_22"></span>[3](#fn_22) for it
+the first will goes outwards, <span id="fr_22"></span>[3](#fn_22.md) for it
 is the desire of manifestation; it seeks itself out of itself, and yet
 amasses the desire in itself; it desires to educe the internal out of
 itself.
@@ -416,34 +416,34 @@ and are as a turning wheel, and so they carry their spirit the wind.
 
 ### Footnotes
 
-<span id="fn_11"></span>[13:1](sat06.htm#fr_11) Made sick.
+<span id="fn_11"></span>[13:1](sat06.htm#fr_11.md) Made sick.
 
-<span id="fn_12"></span>[15:1](sat06.htm#fr_12) Or sting.
+<span id="fn_12"></span>[15:1](sat06.htm#fr_12.md) Or sting.
 
-<span id="fn_13"></span>[15:2](sat06.htm#fr_13) Contraction, or
+<span id="fn_13"></span>[15:2](sat06.htm#fr_13.md) Contraction, or
 constringency.
 
-<span id="fn_14"></span>[15:3](sat06.htm#fr_14) Love and anger, father
+<span id="fn_14"></span>[15:3](sat06.htm#fr_14.md) Love and anger, father
 and son.
 
-<span id="fn_15"></span>[17:1](sat06.htm#fr_15) Thought or sparkle of
+<span id="fn_15"></span>[17:1](sat06.htm#fr_15.md) Thought or sparkle of
 the will.
 
-<span id="fn_16"></span>[18:1](sat06.htm#fr_16) Or voices.
+<span id="fn_16"></span>[18:1](sat06.htm#fr_16.md) Or voices.
 
-<span id="fn_17"></span>[18:2](sat06.htm#fr_17) Or God.
+<span id="fn_17"></span>[18:2](sat06.htm#fr_17.md) Or God.
 
-<span id="fn_18"></span>[18:3](sat06.htm#fr_18) Nature.
+<span id="fn_18"></span>[18:3](sat06.htm#fr_18.md) Nature.
 
-<span id="fn_19"></span>[18:4](sat06.htm#fr_19) World.
+<span id="fn_19"></span>[18:4](sat06.htm#fr_19.md) World.
 
-<span id="fn_20"></span>[19:1](sat06.htm#fr_20) Or sting of instigation.
+<span id="fn_20"></span>[19:1](sat06.htm#fr_20.md) Or sting of instigation.
 
-<span id="fn_21"></span>[19:2](sat06.htm#fr_21) Raiser, enkindler, or
+<span id="fn_21"></span>[19:2](sat06.htm#fr_21.md) Raiser, enkindler, or
 inflamer.
 
-<span id="fn_22"></span>[19:3](sat06.htm#fr_22) Or out of itself.
+<span id="fn_22"></span>[19:3](sat06.htm#fr_22.md) Or out of itself.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](sat07)
+[Next: Chapter III](sat07.md)

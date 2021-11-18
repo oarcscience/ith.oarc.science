@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig25)  [Next](vig27) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig25)  [Next](vig27.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ the winter there got abroad a stanza which he had lately composed:
 She asks--he nymph that pours the wine--  
 the deeds of death that I have done.  
 They’re past and gone, those deeds of mine;  
-But no man yet has talked of one.  <span id="fr_17"></span>[1](#fn_17)
+But no man yet has talked of one.  <span id="fr_17"></span>[1](#fn_17.md)
 
  
 
@@ -118,10 +118,10 @@ But no man yet has talked of one.  <span id="fr_17"></span>[1](#fn_17)
 
 ### Footnotes
 
-<span id="fn_17"></span>[1](vig26.htm#fr_17) There are four other lines
+<span id="fn_17"></span>[1](vig26.htm#fr_17.md) There are four other lines
 in the original text, but they are so corrupt and obscure that I cannot
 venture to paraphrase them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV](vig27)
+[Next: Chapter XXIV](vig27.md)

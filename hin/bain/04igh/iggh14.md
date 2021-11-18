@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh13) 
-[Next](iggh15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh13.md) 
+[Next](iggh15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -78,4 +78,4 @@ lotus that did not wither was the lotus of her heart.
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Wind and the Leaves](iggh15)
+[Next: XII. The Wind and the Leaves](iggh15.md)

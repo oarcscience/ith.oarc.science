@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa12)  [Next](psa14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa12)  [Next](psa14.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ and playing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](psa14)
+[Next: Chapter XIII](psa14.md)

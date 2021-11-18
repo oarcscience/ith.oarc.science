@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](srg11)  [Next](srg13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](srg11)  [Next](srg13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCSCQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCSCQ/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Rose Garden*, by Florence Lederer, \[1920\], at Intangible
 Textual Heritage
 
@@ -125,6 +125,6 @@ And, O Dervish! in the Truth you will find riches.
 
 ------------------------------------------------------------------------
 
-[Next: Part IX. Man: His Capabilities and His Destiny](srg13)
+[Next: Part IX. Man: His Capabilities and His Destiny](srg13.md)
 
 </div>

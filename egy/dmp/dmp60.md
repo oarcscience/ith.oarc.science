@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp59)  [Next](dmp61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp59)  [Next](dmp61.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,4 +11,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XXIX](dmp61)
+[Next: Verso Col. XXIX](dmp61.md)

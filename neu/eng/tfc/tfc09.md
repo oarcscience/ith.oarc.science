@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tfc08)  [Next](tfc10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tfc08)  [Next](tfc10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales from Chaucer*, by Charles Cowden Clarke, \[1833\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 
 <span id="img_09700"></span> <span align="CENTER"> [![The Wife of
 Bath](tn/09700.jpg)  
-Click to enlarge](img/09700.jpg)  
+Click to enlarge](img/09700.jpg.md)  
 The Wife of Bath  
 </span>
 
@@ -39,7 +39,7 @@ steadfastly paying his visits at morning and noontide meals, not
 forgetting his matins and benedictions as he makes his rounds of
 alms-begging. Now the women can safely walk abroad, through brake and
 copse, and sit under every green tree; the friar is your only
-incubus, <span id="fr_21"></span>[\*](#fn_21) and he will offer us no
+incubus, <span id="fr_21"></span>[\*](#fn_21.md) and he will offer us no
 annoyance.
 
 It happened that in the court of King Arthur dwelt a handsome and
@@ -213,7 +213,7 @@ that it is."
 so that you would bear yourself towards me as you ought. But since you
 knights speak of such high birth as is descended from ancient wealth,
 and presume that therefore you are gentlemen, <span
-id="fr_22"></span>[\*](#fn_22) I tell you that such arrogance is not
+id="fr_22"></span>[\*](#fn_22.md) I tell you that such arrogance is not
 worth a straw. He who secretly, and in the open face of day is most
 virtuous, who seeks to perform all the noble deeds in his power, is the
 most perfect gentleman. Jesus Christ commands that we claim our gentle
@@ -248,7 +248,7 @@ and I hold him rich who considers himself repaid for his poverty in
 other gifts, although he have no shirt to his back; while the covetous
 man is really poor, for he would possess that which he cannot attain,
 but he who possesses nothing, yet covets nothing, is rich, although you
-esteem him but a knave. <span id="fr_23"></span>[\*](#fn_23) The poor
+esteem him but a knave. <span id="fr_23"></span>[\*](#fn_23.md) The poor
 man may go on his way and have no dread of robbers. Poverty is a hateful
 good, though the redeemer from the cares of life: the improver of wisdom
 to him who bears it patiently. Poverty makes a man know himself and his
@@ -301,18 +301,18 @@ AND HERE BEGINS
 
 ### Footnotes
 
-<span id="fn_21"></span>[97:\*](tfc09.htm#fr_21) The Incubus was a fairy
+<span id="fn_21"></span>[97:\*](tfc09.htm#fr_21.md) The Incubus was a fairy
 of a less innocent character than his brethren. He succeeded the Fauni
 of the heathen mythology, and, like them, was supposed to inflict that
 oppression which goes under the name of *ephialtes*, or *nightmare*.
 
-<span id="fn_22"></span>[103:\*](tfc09.htm#fr_22) The reader will
-recollect the note at page [34](tfc06.htm#page_34), explaining the
+<span id="fn_22"></span>[103:\*](tfc09.htm#fr_22.md) The reader will
+recollect the note at page [34](tfc06.htm#page_34.md), explaining the
 original meaning of the word *gentle*.
 
-<span id="fn_23"></span>[104:\*](tfc09.htm#fr_23) The original meaning
+<span id="fn_23"></span>[104:\*](tfc09.htm#fr_23.md) The original meaning
 of the word knave, is a hireling or servant.
 
 ------------------------------------------------------------------------
 
-[Next: The Squire's Tale](tfc10)
+[Next: The Squire's Tale](tfc10.md)

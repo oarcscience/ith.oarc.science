@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ttt01)  [Next](ttt03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ttt01)  [Next](ttt03.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ INTRODUCTION
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Tom Tit Tot](ttt03)
+[Next: The Story of Tom Tit Tot](ttt03.md)

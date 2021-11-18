@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre27)  [Next](gre29) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre27)  [Next](gre29.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ Gunnar. And so the spring wore on.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIV: Of the Slaying of Gunnar, and Grettir's strife with
-Earl Svein](gre29)
+Earl Svein](gre29.md)

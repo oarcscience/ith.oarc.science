@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](argr09)  [Next](argr11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](argr09)  [Next](argr11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Astrology and Religion Among the Greeks and Romans*, by Franz Cumont,
 \[1912\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte)
 
 <span id="page_77">p. 77</span>
 
-### LECTURE V. Astral Mysticism <span id="fr_81"></span>[1](#fn_81)--Ethics and Cult
+### LECTURE V. Astral Mysticism <span id="fr_81"></span>[1](#fn_81.md)--Ethics and Cult
 
 A theology which was based on theories of celestial mechanism, which
 deified mere abstractions such as Time and its subdivisions, which
@@ -79,9 +79,9 @@ were not seized to the same degree as we with giddiness at the abysses,
 nor crushed by the feeling of their own littleness. They would not have
 cried like Pascal, when meditating on the disproportion between man and
 nature, incommensurable and speechless: "The eternal silence of these
-boundless spaces frightens me." <span id="fr_82"></span>[1](#fn_82) The
+boundless spaces frightens me." <span id="fr_82"></span>[1](#fn_82.md) The
 feeling which struck the ancients was mainly one of admiration.
-Seneca <span id="fr_83"></span>[2](#fn_83)
+Seneca <span id="fr_83"></span>[2](#fn_83.md)
 
 <span id="page_79">p. 79</span>
 
@@ -101,9 +101,9 @@ meadow, than the waves of the ocean, than the leaves of the forest. "If
 nature," adds the poet, "had given to this multitude powers in
 proportion to its numbers, the ether itself would not have been able to
 support its own flames, and the conflagration of Olympus would have
-consumed the entire world." <span id="fr_84"></span>[1](#fn_84)
+consumed the entire world." <span id="fr_84"></span>[1](#fn_84.md)
 
-We have seen <span id="fr_85"></span>[2](#fn_85) how admiration for the
+We have seen <span id="fr_85"></span>[2](#fn_85.md) how admiration for the
 beauty of the cosmos, the discovery of the celestial harmony, had led to
 the declaration of the existence of a guiding Providence. But this is
 not the most characteristic side of the doctrine: all systems of
@@ -117,7 +117,7 @@ the other hand, the soul is a particle detached from the cosmic fires.
 The warmth which animates the human microcosm, is part of the same
 substance which vivifies the universe, the reason which guides us
 partakes of the nature of those luminaries which enlighten it. <span
-id="fr_86"></span>[3](#fn_86) Itself a fiery
+id="fr_86"></span>[3](#fn_86.md) Itself a fiery
 
 <span id="page_80">p. 80</span>
 
@@ -165,7 +165,7 @@ astronomer Ptolemy, who of all the savants of antiquity had perhaps the
 most influence on succeeding generations, will forget his complicated
 calculations and his arduous researches to sing of this intoxication. We
 have preserved the following lines of his <span
-id="fr_87"></span>[1](#fn_87): "Mortal as I am, I know that I am born
+id="fr_87"></span>[1](#fn_87.md): "Mortal as I am, I know that I am born
 for a day, but when I follow the serried multitude of the stars in their
 circular course, my feet no longer touch the earth; I ascend to Zeus
 himself to feast me on ambrosia, the food of the gods."
@@ -179,7 +179,7 @@ nature, and the overflowing energy of physical life expresses itself in
 tumultuous exaltation of the senses and impetuous disorder of the
 spirit. In the other, it is with pure light that reason quenches her
 thirst for truth; and "the abstemious intoxication," <span
-id="fr_88"></span>[2](#fn_88) which exalts her to the stars, kindles in
+id="fr_88"></span>[2](#fn_88.md) which exalts her to the stars, kindles in
 her no ardour save a passionate yearning for divine knowledge. The
 source of mysticism is transferred from earth to heaven.
 
@@ -200,7 +200,7 @@ of a communion between man and the harmony of the skies.
 Think of the prestige which such a theory gave to the astrologer who is
 in constant relation with the divine stars. It is nowhere more clearly
 expressed than in a passage of a rhetorician belonging to the Augustan
-age, Arellius Fuscus. <span id="fr_89"></span>[1](#fn_89) "He to whom
+age, Arellius Fuscus. <span id="fr_89"></span>[1](#fn_89.md) "He to whom
 the gods themselves reveal the future, who imposes their will even on
 kings and peoples, cannot be fashioned," he says, "by the same womb
 which bore us ignorant men. His is a superhuman rank. Confidant of the
@@ -232,7 +232,7 @@ efforts, the astrologer, dedicated to arduous research, is bound to
 surrender himself entirely to be penetrated by the intelligence of God.
 
 "Impendendus homo est, dens esse ut possit in ipso." <span
-id="fr_90"></span>[2](#fn_90)
+id="fr_90"></span>[2](#fn_90.md)
 
 <span id="page_83">p. 83</span>
 
@@ -250,7 +250,7 @@ at the same time that they pollute it, and hinder it from ascending to
 the ether. On the other hand, if the soul emancipates itself from the
 passions of the body, it will be able to fly lightly and easily to the
 stars. In the vehement polemic which Posidonius launches against
-Epicurus, he reproaches him, <span id="fr_91"></span>[1](#fn_91) in
+Epicurus, he reproaches him, <span id="fr_91"></span>[1](#fn_91.md) in
 regard to his astronomical doctrines, with having been "blinder than a
 mole," and he adds: "No wonder, for to discover the real nature of
 things is not the part of men devoted to pleasure, but of those whose
@@ -308,17 +308,17 @@ religion, the principle of fatalism?
 
 Fatalism indeed is the capital principle which astrology imposed on the
 world. The Chaldeans were the first to conceive the idea of Necessity
-dominating the universe. <span id="fr_92"></span>[1](#fn_92) This is
+dominating the universe. <span id="fr_92"></span>[1](#fn_92.md) This is
 
 <span id="page_85">p. 85</span>
 
 also one of the ruling ideas of the Stoics. <span
-id="fr_93"></span>[1](#fn_93) An absolute determinism is implied in all
+id="fr_93"></span>[1](#fn_93.md) An absolute determinism is implied in all
 the postulates of the science of stellar influence on human life, and
 Manilius has expressed it in a striking line:
 
 "Fata regunt orbem, certa stant omnia lege." <span
-id="fr_94"></span>[2](#fn_94)
+id="fr_94"></span>[2](#fn_94.md)
 
 The power of this fatalistic conception in ancient times may be
 estimated by its long-continued survival, at least in the East, where it
@@ -358,7 +358,7 @@ tolerable. This passionate surrender, this eagerness to submit to divine
 Fate inspired certain souls in days of old with feelings so fervent as
 to recall the rapture of Christian devotion, which burns to subject
 itself to the will of God. It has been observed that the renunciation of
-Demetrius, quoted by Seneca, <span id="fr_95"></span>[1](#fn_95) affords
+Demetrius, quoted by Seneca, <span id="fr_95"></span>[1](#fn_95.md) affords
 a singular parallel to one of the most famous Christian prayers, the
 "Suscipe" of St. Ignatius, which ends the book of *Spiritual Exercises*:
 
@@ -380,13 +380,13 @@ contradiction to all established religions. If an irrevocable Destiny is
 imposed on us, no sacred ceremony can change its decrees. Worship is
 unavailing, it is idle to demand from divination the secrets of a future
 which nothing can alter, and prayers--to use an expression of
-Seneca <span id="fr_96"></span>[2](#fn_96)--are nothing but the
+Seneca <span id="fr_96"></span>[2](#fn_96.md)--are nothing but the
 consolations of sickly souls.
 
 And without doubt certain spirits, as Suetonius states of the Emperor
-Tiberius, <span id="fr_97"></span>[3](#fn_97) "fully convinced that
+Tiberius, <span id="fr_97"></span>[3](#fn_97.md) "fully convinced that
 everything is ruled by Fate, neglected the practice of religion." The
-astrologer Vettius Valens <span id="fr_98"></span>[4](#fn_98) declares
+astrologer Vettius Valens <span id="fr_98"></span>[4](#fn_98.md) declares
 it useless. "It is impossible to defeat
 
 <span id="page_87">p. 87</span>
@@ -400,7 +400,7 @@ with creator.
 But ordinary people did not rise to this haughty ideal of piety. A
 Peripatetic of the third century, Alexander of Aphrodisiac, has forcibly
 characterised the want of logic which led the majority of mankind to act
-in contradiction to their theories. <span id="fr_99"></span>[1](#fn_99)
+in contradiction to their theories. <span id="fr_99"></span>[1](#fn_99.md)
 
 <span class="small">Those \[he says\] who maintain energetically in
 their discourses that Fate is inevitable and who attribute all events to
@@ -421,7 +421,7 @@ soothsayer for prognostications, while at the same time praying the
 Fates to grant them years of prosperity.
 
 A fundamental inconsistency which we noted from the beginning <span
-id="fr_100"></span>[2](#fn_100) is obvious in all this development of
+id="fr_100"></span>[2](#fn_100.md) is obvious in all this development of
 astrology, which professed to become an exact science, but which always
 remained a sacerdotal theology. The stars were regarded as divine at
 Babylon before the doctrine of universal determinism had been
@@ -467,7 +467,7 @@ profess to teach methods for exorcising Fate. They will be able to
 appease the wrath of sidereal powers, and to win their favour by rites
 and offerings; they will teach above all how to prolong man's life
 beyond the term appointed by Destiny, and to assure him an immortality
-of bliss. <span id="fr_101"></span>[1](#fn_101)
+of bliss. <span id="fr_101"></span>[1](#fn_101.md)
 
 <span id="page_89">p. 89</span>
 
@@ -488,7 +488,7 @@ It was customary to worship the rising Sun (*Oriens*) at dawn, at the
 moment when its first rays struck the demons who invaded the earth in
 the darkness. Tacitus describes to us how, at the battle of Bedriacum in
 A.D. 69, the soldiers of Vespasian saluted the rising sun with loud
-shouts after the Syrian custom. <span id="fr_102"></span>[1](#fn_102) In
+shouts after the Syrian custom. <span id="fr_102"></span>[1](#fn_102.md) In
 temples thrice a day--at dawn, at midday, and at dusk--a prayer was
 addressed to the heavenly source of light, the worshipper turning
 towards the East in the morning, towards the South at midday, and
@@ -560,7 +560,7 @@ four equal parts. This hebdomadal period is also found elsewhere, but
 the astrological week has a much later origin. It is connected with the
 general theory of "chronocratories," which assigned to each planet the
 dominion over an hour, a day, a year, and even over a period of a
-thousand years <span id="fr_103"></span>[1](#fn_103); and the assignment
+thousand years <span id="fr_103"></span>[1](#fn_103.md); and the assignment
 of each of these to one of the gods is the result of an ingenious
 calculation, which is based on the so-called "Chaldean" arrangement of
 the planets. Now this arrangement appears nowhere before the second
@@ -593,17 +593,17 @@ certainly owe it to my *lucky star*?
 
 ### Footnotes
 
-<span id="fn_81"></span>[77:1](argr10.htm#fr_81) See my paper, *Le
+<span id="fn_81"></span>[77:1](argr10.htm#fr_81.md) See my paper, *Le
 mysticisme astral dans l’antiquite* (Bulletins de l’Acad. royale de
 Belgique), Mai, 1909.
 
-<span id="fn_82"></span>[78:1](argr10.htm#fr_82) "Le silence éternel de
+<span id="fn_82"></span>[78:1](argr10.htm#fr_82.md) "Le silence éternel de
 ces espaces infinis m’effraie." (Pascal, *Pensées*.)
 
-<span id="fn_83"></span>[78:2](argr10.htm#fr_83) Seneca, *De
+<span id="fn_83"></span>[78:2](argr10.htm#fr_83.md) Seneca, *De
 Beneficiis*, iv, 23.
 
-<span id="fn_84"></span>[79:1](argr10.htm#fr_84) Manil., v, 742:
+<span id="fn_84"></span>[79:1](argr10.htm#fr_84.md) Manil., v, 742:
 
 <div style="margin-left: 32px">
 
@@ -613,60 +613,60 @@ Totus et accenso mundus flagraret Olympo*.
 
 </div>
 
-<span id="fn_85"></span>[79:2](argr10.htm#fr_85) See above, Lecture IV,
-[p. 57](argr09.htm#page_57).
+<span id="fn_85"></span>[79:2](argr10.htm#fr_85.md) See above, Lecture IV,
+[p. 57](argr09.htm#page_57.md).
 
-<span id="fn_86"></span>[79:3](argr10.htm#fr_86) See above, Lectures I,
-[p. 20](argr06.htm#page_20); II, [p. 40](argr07.htm#page_40); IV, [p.
-73](argr09.htm#page_73).
+<span id="fn_86"></span>[79:3](argr10.htm#fr_86.md) See above, Lectures I,
+[p. 20](argr06.htm#page_20); II, [p. 40](argr07.htm#page_40.md); IV, [p.
+73](argr09.htm#page_73.md).
 
-<span id="fn_87"></span>[81:1](argr10.htm#fr_87) Anthol. Palat., ix,
+<span id="fn_87"></span>[81:1](argr10.htm#fr_87.md) Anthol. Palat., ix,
 577.
 
-<span id="fn_88"></span>[81:2](argr10.htm#fr_88) Νηφάλιος μέθη (Philo).
+<span id="fn_88"></span>[81:2](argr10.htm#fr_88) Νηφάλιος μέθη (Philo.md).
 
-<span id="fn_89"></span>[82:1](argr10.htm#fr_89) Seneca., *Suasor*., 4.
+<span id="fn_89"></span>[82:1](argr10.htm#fr_89.md) Seneca., *Suasor*., 4.
 
-<span id="fn_90"></span>[82:2](argr10.htm#fr_90) Manilius, iv, 407.
+<span id="fn_90"></span>[82:2](argr10.htm#fr_90.md) Manilius, iv, 407.
 
-<span id="fn_91"></span>[83:1](argr10.htm#fr_91) Cleomedes, *De Motu
+<span id="fn_91"></span>[83:1](argr10.htm#fr_91.md) Cleomedes, *De Motu
 Circul*., ii, 1, § 87.
 
-<span id="fn_92"></span>[84:1](argr10.htm#fr_92) See above, Lecture I,
-[p. 17](argr06.htm#page_17).
+<span id="fn_92"></span>[84:1](argr10.htm#fr_92.md) See above, Lecture I,
+[p. 17](argr06.htm#page_17.md).
 
-<span id="fn_93"></span>[85:1](argr10.htm#fr_93) See above, Lecture II,
-[p. 40](argr07.htm#page_40).
+<span id="fn_93"></span>[85:1](argr10.htm#fr_93.md) See above, Lecture II,
+[p. 40](argr07.htm#page_40.md).
 
-<span id="fn_94"></span>[85:2](argr10.htm#fr_94) Manil., iv, 14.
+<span id="fn_94"></span>[85:2](argr10.htm#fr_94.md) Manil., iv, 14.
 
-<span id="fn_95"></span>[86:1](argr10.htm#fr_95) Seneca, *De Provid.*,
+<span id="fn_95"></span>[86:1](argr10.htm#fr_95.md) Seneca, *De Provid.*,
 v, 5.
 
-<span id="fn_96"></span>[86:2](argr10.htm#fr_96) Seneca, *Quasi. Nat.*,
+<span id="fn_96"></span>[86:2](argr10.htm#fr_96.md) Seneca, *Quasi. Nat.*,
 ii, 35, "*Aegrae mentis solacia*."
 
-<span id="fn_97"></span>[86:3](argr10.htm#fr_97) Suetonius, *Vita Tib.*,
+<span id="fn_97"></span>[86:3](argr10.htm#fr_97.md) Suetonius, *Vita Tib.*,
 69.
 
-<span id="fn_98"></span>[86:4](argr10.htm#fr_98) Vettius Valens, v, 9
+<span id="fn_98"></span>[86:4](argr10.htm#fr_98.md) Vettius Valens, v, 9
 (p. 220, 28 ed, Kroll).
 
-<span id="fn_99"></span>[87:1](argr10.htm#fr_99) Alex. Aphrod., *De
+<span id="fn_99"></span>[87:1](argr10.htm#fr_99.md) Alex. Aphrod., *De
 Anima Mantissa*, p. 182, 18 ed. Bruns.
 
-<span id="fn_100"></span>[87:2](argr10.htm#fr_100) See above, Lecture
-I., [p. 18](argr06.htm#page_18).
+<span id="fn_100"></span>[87:2](argr10.htm#fr_100.md) See above, Lecture
+I., [p. 18](argr06.htm#page_18.md).
 
-<span id="fn_101"></span>[88:1](argr10.htm#fr_101) See below, Lecture
-VI, [p. 100](argr11.htm#page_100) ss.
+<span id="fn_101"></span>[88:1](argr10.htm#fr_101.md) See below, Lecture
+VI, [p. 100](argr11.htm#page_100.md) ss.
 
-<span id="fn_102"></span>[89:1](argr10.htm#fr_102) Tacit., *Hist*., iii,
+<span id="fn_102"></span>[89:1](argr10.htm#fr_102.md) Tacit., *Hist*., iii,
 24.
 
-<span id="fn_103"></span>[91:1](argr10.htm#fr_103) See above, Lecture
+<span id="fn_103"></span>[91:1](argr10.htm#fr_103.md) See above, Lecture
 IV, p. 67.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture VI. Eschatology](argr11)
+[Next: Lecture VI. Eschatology](argr11.md)

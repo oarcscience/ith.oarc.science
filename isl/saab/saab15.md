@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab14)  [Next](saab16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab14)  [Next](saab16.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -43,4 +43,4 @@ Wise</span>.
 
 ------------------------------------------------------------------------
 
-[Next: XIV](saab16)
+[Next: XIV](saab16.md)

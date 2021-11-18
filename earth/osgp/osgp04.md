@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](osgp03)  [Next](osgp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](osgp03)  [Next](osgp05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Origin and Significance of the Great Pyramid*, by C. Staniland
 Wake, \[1882\], at Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ Smyth further asserts that there is no evidence of the existence of
 an earlier race who could have designed the Great Pyramid, and he
 affirms that it was erected by a people foreign to the land of Egypt,
 whom he calls Cushites or Chaldeans, under Divine guidance. <span
-id="fr_11"></span>[\*](#fn_11)
+id="fr_11"></span>[\*](#fn_11.md)
 
 It is evident that the real argument of those who hold the theory of
 divine inspiration in relation to the Great Pyramid is the supposed
@@ -53,7 +53,7 @@ pertains above all to the sons of Joktan, whose descendants spread
 themselves from Upper Arabia to the South Seas, and from the Persian
 Gulf to the Pillars of Hercules, tracking their course as the first
 teachers of our modern world with the greatest monuments that antiquity
-contains." <span id="fr_12"></span>[†](#fn_12)
+contains." <span id="fr_12"></span>[†](#fn_12.md)
 
 <span id="page_22">p. 22</span>
 
@@ -69,7 +69,7 @@ call in the aid of divine inspiration. Not so Dr. Seiss, who terms this
 great structure "a miracle in stone, a petrifaction of wisdom and truth
 revealed of God, preserved among his people from the foundation of the
 world, and thus memorialised by impulse and aid from Him." <span
-id="fr_13"></span>[\*](#fn_13)
+id="fr_13"></span>[\*](#fn_13.md)
 
 It is evident, however, that Dr. Seiss admits too much. If the
 Joktanites had the scientific knowledge ascribed to them, they could
@@ -91,7 +91,7 @@ ages that they had accomplished it even to the full,—the Great Pyramid
 was a resurgence in a new land, and with a community speaking a new
 language, of their thwarted ideas in another place; but through the
 humble agency of the shepherd Philition their labours were made really
-to tell against themselves." <span id="fr_14"></span>[\*](#fn_14) The
+to tell against themselves." <span id="fr_14"></span>[\*](#fn_14.md) The
 reference made in this passage to the Tower of Babel is important. This
 building appears to have struck the imagination of the ancient world by
 its magnitude as much as the Great Pyramid has since done, and we may
@@ -114,7 +114,7 @@ derived from the former through intermediate structures. This argument
 would doubtless have great force if it were founded on fact. In reality,
 however, the Pyramids of Ghizeh, although the largest, are not the
 earliest Egyptian monuments of this description. <span
-id="fr_15"></span>[\*](#fn_15) The best modern authorities believe that
+id="fr_15"></span>[\*](#fn_15.md) The best modern authorities believe that
 the great Pyramid of Sakkarah was erected by one of the kings of the
 First Dynasty, whereas the Pyramids of Ghizeh belong to the Fourth
 Dynasty. If that was so, the fact is of great importance, since the
@@ -159,7 +159,7 @@ rock at the bottom of the long entrance passage, and equally with the
 chambers excavated in other pyramids must have been intended to be
 easily discovered, and looked on as sepulchral, while the so-called
 King's Chamber of the Great Pyramid stands absolutely unique." <span
-id="fr_16"></span>[\*](#fn_16) From this point of view, it might
+id="fr_16"></span>[\*](#fn_16.md) From this point of view, it might
 probably be said that the
 
 <span id="page_27">p. 27</span>
@@ -192,7 +192,7 @@ would appear to have been immense under these princes, and are
 sufficiently attested by their prodigious constructions. The limits of
 the kingdom extended as far as the first cataract; the capital was
 always at Man-nofri, or Memphis, and the centre of the life of the
-empire was in its environs." <span id="fr_17"></span>[\*](#fn_17) The
+empire was in its environs." <span id="fr_17"></span>[\*](#fn_17.md) The
 Egyptian monarchy was founded by Mena or Menes, who built the royal city
 of Man-nofri, that is, the "good place," or "good port," and whose
 dynasty occupied the throne for 253 years. The kings of the Second
@@ -263,7 +263,7 @@ footstools, couches, and headrests, or wooden pillows—the use of these
 rests is still retained in Africa,—appear in the furniture of his
 elegantly-built house . . . He enjoyed all the pleasures of existence,
 and delighted more in the arts of peace than war." <span
-id="fr_18"></span>[\*](#fn_18)
+id="fr_18"></span>[\*](#fn_18.md)
 
 This view of early Egyptian society agrees with the statements of other
 writers. M. Lenormant affirms that the representations on a tomb of one
@@ -284,7 +284,7 @@ indeed, the Egyptians of the Fourth Dynasty had "the same settled habits
 as in later times. We see no primitive mode of life; no barbarous
 customs; not even the habit, so slowly abandoned by all peoples, of
 wearing arms when not in military service, nor any archaic art." <span
-id="fr_19"></span>[\*](#fn_19)
+id="fr_19"></span>[\*](#fn_19.md)
 
 But what was the condition of the Egyptian civilization 750 years
 earlier, at the commencement of the first Memphite Dynasty? Menes, the
@@ -302,7 +302,7 @@ the exact sciences were cultivated with the greatest care; at Memphis,
 finally, that the plastic arts produced their *chefs d’œuvre*." The
 immediate successor of Menes began the construction of the palace at
 Memphis, and is reputed to have composed books on medicine. <span
-id="fr_20"></span>[\*](#fn_20)
+id="fr_20"></span>[\*](#fn_20.md)
 
 The name of the succeeding monarch is given as the constructor of one of
 the pyramids of Sakkarah. During the reign of the fifth monarch of the
@@ -318,12 +318,12 @@ effeminacy, among them being
 <span id="page_34">p. 34</span>
 
 that of reclining on a bed or couch at meals. <span
-id="fr_21"></span>[\*](#fn_21) To one of his successors, the second king
+id="fr_21"></span>[\*](#fn_21.md) To one of his successors, the second king
 of the Second Dynasty, is ascribed the erection of the Great Pyramid of
 Sakkarah, known as the Pyramid of Degrees, which must have long preceded
 the larger structure at Ghizeh. The form, and especially the underground
 arrangement of the former structure, are evidence of its great
-[antiquity](errata.htm#2), as they reproduce many of the features of
+[antiquity](errata.htm#2.md), as they reproduce many of the features of
 the. Egyptian tombs of the early Memphite period. These consist of a
 deep pit, leading to an underground chamber, and surmounted by a
 building which serves in great measure to conceal the entrance to the
@@ -345,7 +345,7 @@ preceded several centuries by that of the Sphinx, the image of the
 reclining Sun-god, and also of the neighbouring temple, the structure of
 which is described as prodigious even by the side of the Pyramids. An
 inscription of the time of Khoufou, or Cheops, <span
-id="fr_22"></span>[\*](#fn_22) speaks of this temple as having been
+id="fr_22"></span>[\*](#fn_22.md) speaks of this temple as having been
 accidentally discovered buried in the sand of the desert, and the Sphinx
 appears to have had need of repair during the reign of the same monarch.
 But we cannot suppose the civilization of the founders of Memphis to
@@ -360,7 +360,7 @@ the arts of civilization be-
 <span id="page_36">p. 36</span>
 
 fore the age of Menes, and perhaps before they immigrated into the
-valley of the Nile." <span id="fr_23"></span>[\*](#fn_23)
+valley of the Nile." <span id="fr_23"></span>[\*](#fn_23.md)
 
 Menes himself was a native of Teni, or Thinis, the chief city of that
 part of Upper Egypt in which the priestly authority had established its
@@ -394,54 +394,54 @@ river, to embank it, to carry by means of irrigating canals fertility
 into the most distant corners of the valley. Egypt rose from the waters,
 and became in the hand of man one of the countries the best adapted to
 the peaceable development of a great civilization." <span
-id="fr_24"></span>[\*](#fn_24)
+id="fr_24"></span>[\*](#fn_24.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_11"></span>[21:\*](osgp04.htm#fr_11) "Life and Work at the
+<span id="fn_11"></span>[21:\*](osgp04.htm#fr_11.md) "Life and Work at the
 Great Pyramid," Vol. iii. pp. 465, *seq*., 521 *seq*.
 
-<span id="fn_12"></span>[21:†](osgp04.htm#fr_12) "A Miracle in Stone,"
+<span id="fn_12"></span>[21:†](osgp04.htm#fr_12.md) "A Miracle in Stone,"
 p. 210.
 
-<span id="fn_13"></span>[22:\*](osgp04.htm#fr_13) "A Miracle in Stone,"
+<span id="fn_13"></span>[22:\*](osgp04.htm#fr_13.md) "A Miracle in Stone,"
 p. 226.
 
-<span id="fn_14"></span>[23:\*](osgp04.htm#fr_14) "Life and Work at the
+<span id="fn_14"></span>[23:\*](osgp04.htm#fr_14.md) "Life and Work at the
 Great Pyramid," Vol. iii. p. 530.
 
-<span id="fn_15"></span>[24:\*](osgp04.htm#fr_15) Sir J. Gardner
+<span id="fn_15"></span>[24:\*](osgp04.htm#fr_15.md) Sir J. Gardner
 Wilkinson ascribes the Pyramid of Abouseir to Shuré (Soris), the
 immediate predecessor of Cheops, according to Manetho. (See Appendix
 II.)
 
-<span id="fn_16"></span>[26:\*](osgp04.htm#fr_16) "Life and Work," etc.,
+<span id="fn_16"></span>[26:\*](osgp04.htm#fr_16.md) "Life and Work," etc.,
 Vol. L p. 268.
 
-<span id="fn_17"></span>[28:\*](osgp04.htm#fr_17) Tom. ii, p. 71.
+<span id="fn_17"></span>[28:\*](osgp04.htm#fr_17.md) Tom. ii, p. 71.
 
-<span id="fn_18"></span>[31:\*](osgp04.htm#fr_18) "Ancient History from
+<span id="fn_18"></span>[31:\*](osgp04.htm#fr_18.md) "Ancient History from
 the Monuments."—*Egypt*, pp. 42-46.
 
-<span id="fn_19"></span>[32:\*](osgp04.htm#fr_19) Rawlinson's
+<span id="fn_19"></span>[32:\*](osgp04.htm#fr_19.md) Rawlinson's
 "Herodotus," vol. ii. p. 344.
 
-<span id="fn_20"></span>[33:\*](osgp04.htm#fr_20) Tom. ii, p. 58.
+<span id="fn_20"></span>[33:\*](osgp04.htm#fr_20.md) Tom. ii, p. 58.
 
-<span id="fn_21"></span>[34:\*](osgp04.htm#fr_21) Tom. ii. p. 58, *seq*.
+<span id="fn_21"></span>[34:\*](osgp04.htm#fr_21.md) Tom. ii. p. 58, *seq*.
 
-<span id="fn_22"></span>[35:\*](osgp04.htm#fr_22) It should be
+<span id="fn_22"></span>[35:\*](osgp04.htm#fr_22.md) It should be
 mentioned, however, that Egyptologists are not agreed in supposing this
 inscription to be contemporaneous with Cheops.
 
-<span id="fn_23"></span>[36:\*](osgp04.htm#fr_23) Rawlinson's
+<span id="fn_23"></span>[36:\*](osgp04.htm#fr_23.md) Rawlinson's
 "Herodotus," Vol. ii. p. 345.
 
-<span id="fn_24"></span>[37:\*](osgp04.htm#fr_24) Lenormant, Tom. ii. p.
+<span id="fn_24"></span>[37:\*](osgp04.htm#fr_24.md) Lenormant, Tom. ii. p.
 51, *seq*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Tomb Theory](osgp05)
+[Next: Chapter III. The Tomb Theory](osgp05.md)

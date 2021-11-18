@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce01)  [Next](sce03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce01)  [Next](sce03.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ person.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Secret Commonwealth](sce03)
+[Next: II. The Secret Commonwealth](sce03.md)

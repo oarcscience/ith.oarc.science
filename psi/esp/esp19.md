@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp18)  [Next](esp20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp18)  [Next](esp20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -79,7 +79,7 @@ closed. The fact that Miss Ownbey perceives the figures on the backs of
 the cards and on the wall, by hallucination, suggests that she, too, has
 achieved relatively good abstraction from sensory disturbances. (She,
 like Miss Bailey, has the ability to go readily into trance by her own
-volition.) <span id="fr_88"></span>[1](#fn_88)
+volition.) <span id="fr_88"></span>[1](#fn_88.md)
 
 In addition to the positive evidence of abstraction from the
 surroundings in doing good E.S.P. work, there are on the negative side
@@ -91,7 +91,7 @@ example, the temporary,
 <span id="page_133">p. 133</span>
 
 but decided distraction-effect of visitors upon the percipient, observed
-in the case of Pearce (See [Table XIX](esp14.htm#an_tab19), Chapter 7);
+in the case of Pearce (See [Table XIX](esp14.htm#an_tab19), Chapter 7.md);
 Miss Ownbey, Linzmayer and Miss Weckesser show somewhat the same effect.
 (Tischner's Mr. H. and Prof. G. Murray were affected similarly.)
 Likewise, any change in procedure is likely to disturb Pearce's scoring
@@ -107,7 +107,7 @@ only 3 in 25 immediately, but the score rose, as he recovered his poise,
 to his usual level of approximately 8 in 25. This detrimental effect of
 distracting factors only emphasizes the more strongly the importance of
 abstraction in E.S.P., and of the advanced degree of abstraction
-required. <span id="fr_89"></span>[1](#fn_89) We get the impression that
+required. <span id="fr_89"></span>[1](#fn_89.md) We get the impression that
 E.S.P. is a most delicate function, most easily disturbed and inhibited
 by the more common and more stable processes. (One is reminded of Prof.
 Gilbert Murray's comment on his own E.S.P. experiments with himself as
@@ -128,7 +128,7 @@ individual more alert. We have found that it raises the scoring level of
 the percipient if he has been running below his usual level. Alertness
 of attention would seem to have been improved here, necessarily, and it
 is likely the connection is causal. (Osty <span
-id="fr_90"></span>[2](#fn_90) thinks the use of the "object of fixation"
+id="fr_90"></span>[2](#fn_90.md) thinks the use of the "object of fixation"
 in " psychometric" E.S.P. aids in attention. It is regarded by many as a
 focus for concentration.) In watching the subjects work and in getting
 their subjective observations from day to day, I have opportunity to
@@ -193,7 +193,7 @@ this is so very influential, in turn, with the scoring level, it is very
 easy to see how Linzmayer might have got his below-chance scoring when I
 pushed him into working very much against his will, with a definite view
 to testing whether he would go below significantly (see [Table
-XI](esp12.htm#an_tab11), Chapter 5). Given his unconscious negativism,
+XI](esp12.htm#an_tab11), Chapter 5.md). Given his unconscious negativism,
 he would have unconsciously opposed the work he was forced into and,
 without realizing it, he probably responded negatively—actually
 purposely calling the cards wrongly. Voluntarily and consciously, Pearce
@@ -217,7 +217,7 @@ interested in the work. And his scoring rate had declined from the first
 1,500 of the total of 7,500, he dropped to 7.1 in 25. The average per 25
 for the 5 serial groups of 1,500 trials each are as follows: 7.1, 6.1,
 5.7, 5.9, 5.4. The curve of decline is shown in [graph No.
-7](esp21.htm#img_gr07), A in Chapter 14. I am fairly well convinced that
+7](esp21.htm#img_gr07.md), A in Chapter 14. I am fairly well convinced that
 it is a curve of "decline of interest," especially by the facts of the
 sequel. After a few months of "rest" for him, and after I had discovered
 the excellence of his results, and given him proper recognition for his
@@ -249,7 +249,7 @@ forced into low-scoring, when he got it incorrect more than any other.
 Pearce, Cooper, Stuart and Linzmayer, in their D.T. work, and Pearce in
 his B.T.-25 (*i.e.*, run in 25's) all favor the two ends of the run and
 slight the center. (See Chapter 10 with graphs Nos.
-[1](esp17.htm#img_gr01) and [2](esp17.htm#img_gr02).) Miss Ownbey in her
+[1](esp17.htm#img_gr01) and [2](esp17.htm#img_gr02)..md) Miss Ownbey in her
 D.T. does just the opposite, scoring highest in the center of the pack,
 and lower toward the top and the bottom. Most striking of the operation
 curves, however, is Pearce's B.T.-5 curve. These are run and checked by
@@ -258,12 +258,12 @@ that consists of 5 similar units, one for each 5-card-run. That is,
 there is shown a typical rate of scoring for 5-card-runs that is
 strikingly regular for the whole 25. Invariably the 2nd call is the
 highest and the order of the others is quite regular also. See Graphs
-Nos. [3](#img_gr03) and [4](#img_gr03) that follow. In [Graph No.
-3](#img_gr03), the number of successes divided by the chance expectation
+Nos. [3](#img_gr03) and [4](#img_gr03.md) that follow. In [Graph No.
+3](#img_gr03.md), the number of successes divided by the chance expectation
 is plotted against the order of the call in the runs through the pack of
 25. The curve is broken after each 5 calls to remind the reader that the
 calls were made in these short runs of 5 each. Each run of 5 is thus a
-check on the others. In the case of [Graph 4](#img_gr04), these 5 runs
+check on the others. In the case of [Graph 4](#img_gr04.md), these 5 runs
 of 5 each in the pack are summated, keeping the serial order intact, as
 if all had been merely 5-card-runs. First calls are totalled, 2nd calls,
 3rd, etc. The curve of these total hits divided by chance expectation
@@ -297,7 +297,7 @@ distribution of success over the average run of 25, plotted to show
 relative success for each call. The broken line shows the points at
 which checking-up was done. (After each 5 calls). Note the rhythmic
 character of the curve, taken by 5's of abscissae.](tn/gr03.jpg)  
-Click to enlarge](img/gr03.jpg)  
+Click to enlarge](img/gr03.jpg.md)  
 Graph No. 3. Pearce's operation curve in his first 1,375 trials at
 B.T.-5, showing distribution of success over the average run of 25,
 plotted to show relative success for each call. The broken line shows
@@ -305,7 +305,7 @@ the points at which checking-up was done. (After each 5 calls). Note the
 rhythmic character of the curve, taken by 5's of abscissae.  
 </span>
 
-no rhythmic order by 5's such as is shown in [Graph No. 3](#img_gr03).
+no rhythmic order by 5's such as is shown in [Graph No. 3](#img_gr03.md).
 Here the "attention" decreases from the first call to the middle of the
 run and increases from there to the end. On the last calls of 40 of
 Pearce's D.T. runs studied, he got 33 of the 40 correct. He likewise
@@ -315,7 +315,7 @@ calls correct. In fact, through the whole series he drops in the
 interior of the run but rises at both ends, much more in the last 5, as
 was the case in his D.T. Some of these totals may be of interest in
 addition to the curves and will be given in [Table
-XL](esp19.htm#an_tab40)
+XL](esp19.htm#an_tab40.md)
 
 <span id="page_138">p. 138</span>
 
@@ -327,7 +327,7 @@ give
 as No. 3, but showing distribution of success over Pearce's average run
 of 5 calls; this represents an average of the five curve-parts of Graph
 No. 3.](tn/gr04.jpg)  
-Click to enlarge](img/gr04.jpg)  
+Click to enlarge](img/gr04.jpg.md)  
 Graph No. 4. Same as No. 3, but showing distribution of success over
 Pearce's average run of 5 calls; this represents an average of the five
 curve-parts of Graph No. 3.  
@@ -517,11 +517,11 @@ of the number of trials. The first work, by Frick, described in Chapter
 4, consists of 900 trials, run 100 per day at a single sitting. The
 scores are totalled for the ordinal 20's, making 5 subdivisions of the
 total, each representing the 20's in the run of 100. [Graph No.
-5](#img_gr05), A shows that Frick's scoring fell off by steps of 20's
+5](#img_gr05.md), A shows that Frick's scoring fell off by steps of 20's
 and actually went below chance expectation on the last two 20's. The
 total gain above chance was very slight but the extremes of the curve
 are significantly far apart, as they are also in Linzmayer's curve, to
-follow in [Graph No. 5](#img_gr05), B. Linzmayer's data are taken from
+follow in [Graph No. 5](#img_gr05.md), B. Linzmayer's data are taken from
 B.T. work on 50 sealed envelopes which were called under conditions
 described in Chapter 5. The 300 calls made in 6 runs over these
 envelopes yielded no positive deviation, and yet the curve is internally
@@ -561,7 +561,7 @@ success in scoring over the average run. Curve A represents 900 trials
 at B.T.-100 by Frick, plotted in 5 units of 20 calls each. Curve B, 300
 trials at B.T.-50 by Linzmayer, plotted for 5 units of 10 calls
 each.](tn/gr05.jpg)  
-Click to enlarge](img/gr05.jpg)  
+Click to enlarge](img/gr05.jpg.md)  
 Graph No. 5. Decline of scoring-rate in long runs. These curves show
 distribution of success in scoring over the average run. Curve A
 represents 900 trials at B.T.-100 by Frick, plotted in 5 units of 20
@@ -573,7 +573,7 @@ decline. Both Frick and Linzmayer went on declining thereafter in their
 later work.
 
 We have mentioned the "fatigue curve" theory of Miss Jephson <span
-id="fr_92"></span>[1](#fn_92) from time to time as evidence arose
+id="fr_92"></span>[1](#fn_92.md) from time to time as evidence arose
 touching on the problem. Our long
 
 <span id="page_142">p. 142</span>
@@ -660,7 +660,7 @@ too, is about on a par with these, in correlation with E.S.P.
 Sociability has a chance, too, of being correlated. But our data are yet
 too limited on this line of comparison. Relations of E.S.P. to age,
 race, and other stages and conditions, too, are yet for the future.
-This, then, is the tentative [psychological](errata.htm#8) sketch we
+This, then, is the tentative [psychological](errata.htm#8.md) sketch we
 have so far achieved.
 
 There is much indeed to be said about the bearing such facts as these of
@@ -749,7 +749,7 @@ and constituting only a "working direction" at present.
 
 This general hypothesis embraces at least two more special ones, which,
 I think, may be better stated independently. First, the agency <span
-id="fr_93"></span>[1](#fn_93) of the percipient's mind in "going out" to
+id="fr_93"></span>[1](#fn_93.md) of the percipient's mind in "going out" to
 the perceived object or image-source, instead of merely receiving
 incoming energy patterns emanating from the card or the distant agent.
 The facts suggesting this view have been given above. The second
@@ -795,7 +795,7 @@ attitudes, where every aid is needed and every shade of thought needs to
 be caught, where mere words are often felt to be inadequate, can we see
 a responsible part left for extrasensory perception in the
 psycho-therapeutic field. What the actual facts are we, of course, do
-not yet know. <span id="fr_94"></span>[1](#fn_94)
+not yet know. <span id="fr_94"></span>[1](#fn_94.md)
 
 Again, we have the problem of E.S.P. as a possible spurious factor in
 the experimental laboratory. If we can get such good responses to mere
@@ -818,7 +818,7 @@ matter that we can ill afford to neglect.
 
 ### Footnotes
 
-<span id="fn_88"></span>[132:1](esp19.htm#fr_88) In *Mental Radio*,
+<span id="fn_88"></span>[132:1](esp19.htm#fr_88.md) In *Mental Radio*,
 already referred to, Mrs. Sinclair, the percipient, describes very fully
 her introspections and her views as to the way "telepathy" occurs. She
 emphasizes relaxation of body and "blankness" of mind as requirements;
@@ -830,7 +830,7 @@ this mode of perception to the subconscious level of mind. Mrs. Sinclair
 has also many excellent practical suggestions for the prospective E.S.P.
 subject.
 
-<span id="fn_89"></span>[133:1](esp19.htm#fr_89) I would predict that
+<span id="fn_89"></span>[133:1](esp19.htm#fr_89.md) I would predict that
 with most E.S.P. subjects initial failure would be highly probable if
 they were to be taken before a committee; failure would be practically
 certain if the committee were made up of impressive people, or if its
@@ -839,23 +839,23 @@ little precautions at the start is hazardous. Placing a small screen
 over the cards that Pearce did not look at often anyway stopped his
 E.S.P. for a time—until adjustment took place.
 
-<span id="fn_90"></span>[133:2](esp19.htm#fr_90) *Supernormal Faculties
+<span id="fn_90"></span>[133:2](esp19.htm#fr_90.md) *Supernormal Faculties
 in Man*, Dutton, N. Y., 1923. Pp. 124, 161, etc.
 
-<span id="fn_91"></span>[139:1](esp19.htm#fr_91) This work is inserted
+<span id="fn_91"></span>[139:1](esp19.htm#fr_91.md) This work is inserted
 since the first writing of this chapter, since it has just been
 performed. Cooper has only recently undertaken D.T. seriously.
 
-<span id="fn_92"></span>[141:1](esp19.htm#fr_92) Jephson, Miss Ina,
+<span id="fn_92"></span>[141:1](esp19.htm#fr_92.md) Jephson, Miss Ina,
 *Evidences for Clairvoyance in Card-guessing*. *Proc*. S.P.R., Pt. 109,
 Vol. 38. pp. 223-271,1925.
 
-<span id="fn_93"></span>[145:1](esp19.htm#fr_93) Dr. Osty's frequent
+<span id="fn_93"></span>[145:1](esp19.htm#fr_93.md) Dr. Osty's frequent
 insistence that the percipient is "not passive" is a supporting judgment
 of great weight, coming from an observer of the many years experience
 which he has had. *Op. cit.*, p. 161.
 
-<span id="fn_94"></span>[146:1](esp19.htm#fr_94) A case of the practical
+<span id="fn_94"></span>[146:1](esp19.htm#fr_94.md) A case of the practical
 use of telepathy as a method in psychotherapeutic exploration already on
 record is related briefly by Dr. Prince in B.S.P.R. Bulletin 20, p. 66.
 The consulting psychologist was Dr. Thos. P. Bailey of Rollins College.
@@ -863,4 +863,4 @@ The consulting psychologist was Dr. Thos. P. Bailey of Rollins College.
 ------------------------------------------------------------------------
 
 [Next: Chapter 13. E.S.P. From the Viewpoint of General
-Parapsychology](esp20)
+Parapsychology](esp20.md)

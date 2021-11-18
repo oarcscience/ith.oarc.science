@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat07)  [Next](sat09) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat07)  [Next](sat09.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Fine cold weather we've been having; why! even my bath has hardly warmed
 me. But truly hot liquor is a good clothier. I've been drinking bumpers,
 and I'm downright fuddled. The wine has got into my head."
 
-\[XLII <span id="XLII"></span>[(Latin)](../satyrlat/satl042) \] Seleucus
+\[XLII <span id="XLII"></span>[(Latin)](../satyrlat/satl042.md) \] Seleucus
 then struck into the talk: "I don't bathe every day," he said; "your
 systematic bather's a mere fuller. Water's got teeth, and melts the
 heart away, a little every day; but there! when I've fortified my belly
@@ -38,7 +38,7 @@ well. But woman! woman's of the kite kind. No man ought ever to do 'em a
 good turn; just as well pitch it in the well at once. Old love's an
 eating sore!"
 
-\[XLIII <span id="XLIII"></span>[(Latin)](../satyrlat/satl043) \] He was
+\[XLIII <span id="XLIII"></span>[(Latin)](../satyrlat/satl043.md) \] He was
 getting tiresome, and Phileros broke in: "Let's talk of living. He's got
 his deserts, whatever they were; he lived well and died well, what has
 he to complain about? He started with next to nothing, and was ready to
@@ -69,7 +69,7 @@ believe he left a living thing in his house alone, down to the dog. A
 great lover of lads, indeed a man of universal talents and tastes. Not
 that I blame him; this was all he got out of life."
 
-\[XLIV <span id="XLIV"></span>[(Latin)](../satyrlat/satl044) \] So much
+\[XLIV <span id="XLIV"></span>[(Latin)](../satyrlat/satl044.md) \] So much
 for Phileros; then Ganymede began: "Yes! you talk away," he said, "about
 things that concern neither heaven nor earth, but no one ever thinks of
 the pinch of famine that's upon us. I swear I couldn't come across a
@@ -117,7 +117,7 @@ bucketfuls,--then or never,--and they all came back looking like drowned
 rats. So the gods come stealthy-footed to our destruction, because we
 have no piety or reverence. The fields lie idle, and--"
 
-\[XLV <span id="XLV"></span>[(Latin)](../satyrlat/satl045) \] "I beseech
+\[XLV <span id="XLV"></span>[(Latin)](../satyrlat/satl045.md) \] "I beseech
 you," cried Echion, the old-clothes-man, at this point, "I beseech you,
 better words! Luck's for ever changing, as the chawbacon said, when he
 lost his brindled hog. If not today, then tomorrow; that's the way the
@@ -166,7 +166,7 @@ one of them, they were obviously such arrant runaways. 'Anyhow I gave
 you a show,' said he. 'And I applauded,' said I; 'reckon it up, and I
 gave you more than I got. One good turn deserves another.'
 
-\[XLVI <span id="XLVI"></span>[(Latin)](../satyrlat/satl046) \] "You
+\[XLVI <span id="XLVI"></span>[(Latin)](../satyrlat/satl046.md) \] "You
 look, Agamemnon, as if you were saying to yourself, 'Whatever is that
 bore driving at?' I talk, because you fellows who can talk, won't talk.
 You're not of our stuff and so you laugh at poor men's conversation.
@@ -200,7 +200,7 @@ other day, he was carting things round on his shoulders, now he is a
 match for Norbanus himself. Learning's a treasure, and a trade never
 starves.'"
 
-\[XLVII <span id="XLVII"></span>[(Latin)](../satyrlat/satl047) \] Such
+\[XLVII <span id="XLVII"></span>[(Latin)](../satyrlat/satl047.md) \] Such
 were the brilliant remarks that were flashing round the board, when
 Trimalchio re-entered, and after wiping his brow and scenting his hands,
 "Pardon me, my friends," he said after a brief pause, "but for several
@@ -249,7 +249,7 @@ to be degraded into the decuria of the outdoor slaves."
 And the cook, thus cogently admonished, then withdrew with his charge
 into the kitchen.
 
-\[XLVIII <span id="XLVIII"></span>[(Latin)](../satyrlat/satl048) \] But
+\[XLVIII <span id="XLVIII"></span>[(Latin)](../satyrlat/satl048.md) \] But
 Trimalchio, relaxing his stern aspect, now turned to us and said "If you
 don't like the wine, I'll have it changed; otherwise please prove its
 quality by your drinking. Thanks to the gods' goodness, I never buy it;
@@ -286,4 +286,4 @@ die,'--both of 'em speaking Greek."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eight](sat09)
+[Next: Chapter Eight](sat09.md)

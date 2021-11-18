@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht22)  [Next](cht24) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht22)  [Next](cht24.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ tell his father \[what he had seen.\]
 
 ------------------------------------------------------------------------
 
-[Next: The Four Cousins](cht24)
+[Next: The Four Cousins](cht24.md)

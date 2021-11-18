@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia17)  [Next](aia19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia17)  [Next](aia19.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,7 +86,7 @@ Nuremberg.
 *Description*.--An upright, tall, straight body, either in man or woman;
 the complexion sanguine, not clear, but obscure and dark; long arms, yet
 many times the hands and feet short, and very fleshy; a dark hair, <span
-id="fr_43"></span>[1](#fn_43) almost black; a strong, active body, a
+id="fr_43"></span>[1](#fn_43.md) almost black; a strong, active body, a
 good piercing hazel eye, and wanton, and of perfect and quick sight; of
 excellent understanding, and judicious in worldly affairs.
 
@@ -102,7 +102,7 @@ fruitful, northern.
 *Diseases*.--It signifies imperfections all over, or in the breast,
 stomach, and paps; weak digestion, cold stomach, phthisic, salt phlegms,
 rotten coughs, dropsical humours, imposthumations in the stomach,
-cancers, <span id="fr_44"></span>[1](#fn_44) which are mostly in the
+cancers, <span id="fr_44"></span>[1](#fn_44.md) which are mostly in the
 breast.
 
 *Places*.--The sea, great rivers, navigable rivers; but in in-land
@@ -124,7 +124,7 @@ Milan, and Vicentia.
 
 *Quality and Property of* ♌.--It is the only house of the Sun; by
 nature, fiery, hot, dry, choleric; diurnal, commanding, bestial, <span
-id="fr_45"></span>[2](#fn_45) barren; of the east, and fiery triplicity;
+id="fr_45"></span>[2](#fn_45.md) barren; of the east, and fiery triplicity;
 masculine.
 
 *Diseases*.--All sicknesses in the ribs and sides, as pleurisies,
@@ -177,10 +177,10 @@ trade and government of Liverpool, which are ruled especially by the 9th
 degree.
 
 *Shape and Form*.--A slender body, rather tall, but well composed; a
-ruddy, brown complexion; black hair, <span id="fr_46"></span>[1](#fn_46)
+ruddy, brown complexion; black hair, <span id="fr_46"></span>[1](#fn_46.md)
 well favoured or lovely, but not a beautiful creature; a small, shrill
 voice, all members inclining to brevity; <span
-id="fr_47"></span>[2](#fn_47) a witty, discreet soul, judicious, and
+id="fr_47"></span>[2](#fn_47.md) a witty, discreet soul, judicious, and
 exceedingly well spoken; studious, and given to history, whether man or
 woman. It produces a rare understanding, if ☿ be in this sign, and ☽ in
 ♋; but somewhat unstable.
@@ -294,7 +294,7 @@ ground or threshold.
 slender visage; thin beard, and black hair, a narrow chin, long small
 neck, and narrow chest. I have found many times, ♑ ascending, the party
 to have white hair, but in the seventh ever black. <span
-id="fr_48"></span>[1](#fn_48)
+id="fr_48"></span>[1](#fn_48.md)
 
 Countries ruled by ♑.--India, Greece, parts of Persia about Circan,
 Macran, and Chorassan; Lithuania, Saxony, Albania, Bulgaria, Stiria,
@@ -325,14 +325,14 @@ complexion; if ♄, who is lord of this house, be in ♑ or ♒, the party is
 black in hair, and in complexion sanguine, with prominent teeth;
 otherwise I have observed the party is of clear, white, or fair
 complexion, and of sandy-coloured hair, or very flaxen, and a very pure
-skin. <span id="fr_49"></span>[1](#fn_49)
+skin. <span id="fr_49"></span>[1](#fn_49.md)
 
 *Countries ruled by* ♒.--Arabia the stony, Russia, Tartary, Prussia,
 parts of Poland, Lithuania and Muscovy, Lower Sweden,
 Westphalia.--*Towns*: Hamburgh, Bremen, Piedmont; also Affghaunistan,
 and other parts of Asia bordering on Persia; and this sign has rule over
 the affairs of state in England, especially the 13th degree. <span
-id="fr_50"></span>[2](#fn_50)
+id="fr_50"></span>[2](#fn_50.md)
 
 #### PISCES.
 
@@ -354,12 +354,12 @@ caused by wet feet.
 and many fowl are: also fish-ponds, or rivers full of fish; places where
 hermitages have been, moats about houses, water-mills. In houses, places
 near the water, as some well or pump, or where water stands. <span
-id="fr_51"></span>[1](#fn_51)
+id="fr_51"></span>[1](#fn_51.md)
 
 *Corporature*.--A short stature, not very well made; a good large face,
 pale complexion, the body fleshy or swelling, not very straight, but
 incurvating, or stooping somewhat with the head. <span
-id="fr_52"></span>[2](#fn_52)
+id="fr_52"></span>[2](#fn_52.md)
 
 *Countries ruled by* ♓.--Portugal, Calabria, Normandy, Galicia in Spain,
 Cilicia.--*Towns*: Alexandria, Ratisbon, Worms, Seville, Compostella,
@@ -369,53 +369,53 @@ Tiverton.
 
 ### Footnotes
 
-<span id="fn_43"></span>[59:1](aia18.htm#fr_43) In all cases, I think
+<span id="fn_43"></span>[59:1](aia18.htm#fr_43.md) In all cases, I think
 the hair will be found to be of the colour given by the planet near to
 or aspecting closely the degree ascending, or on the cusp of the house
 which signifies the party. I find that ♊ more frequently gives brown
 hair in questions.--ZAD.
 
-<span id="fn_44"></span>[60:1](aia18.htm#fr_44) There is little doubt
+<span id="fn_44"></span>[60:1](aia18.htm#fr_44.md) There is little doubt
 that this disease took its name from the astrological fact, that the
 sign ♋ rules the breast, in which it generally occurs. Persons born with
 this sign ascending have always some defect, scar, mark, or disease in
 the breast.--ZAD.
 
-<span id="fn_45"></span>[60:2](aia18.htm#fr_45) This term signifies,
+<span id="fn_45"></span>[60:2](aia18.htm#fr_45.md) This term signifies,
 that if a person be born under or signified by this sign, or if they
 have ☽ therein, and at all afflicted by the malefics, they will have
 less of humane feelings than when under any other sign, except the last
 half of ♐. They do not sympathize with other persons' sufferings, or
 feel compassion.
 
-<span id="fn_46"></span>[62:1](aia18.htm#fr_46) The early part of the
+<span id="fn_46"></span>[62:1](aia18.htm#fr_46.md) The early part of the
 sign gives brown hair.
 
-<span id="fn_47"></span>[62:2](aia18.htm#fr_47) If ♅ ascend therein, the
+<span id="fn_47"></span>[62:2](aia18.htm#fr_47.md) If ♅ ascend therein, the
 limbs will be long and the body taller.
 
-<span id="fn_48"></span>[65:1](aia18.htm#fr_48) This remark of the
+<span id="fn_48"></span>[65:1](aia18.htm#fr_48.md) This remark of the
 author confirms our previous opinion, that the colour of the hair in
 questions depends on the ruler of the term ascending: in nativities, or
 the planets aspecting the ascendant, as well as the sign ascending.
 
-<span id="fn_49"></span>[66:1](aia18.htm#fr_49) The Princess Charlotte
+<span id="fn_49"></span>[66:1](aia18.htm#fr_49.md) The Princess Charlotte
 of Wales was born with this sign ascending; it gives more beauty than
 any other sign except ♎.
 
-<span id="fn_50"></span>[66:2](aia18.htm#fr_50) Eclipses in m cause
+<span id="fn_50"></span>[66:2](aia18.htm#fr_50.md) Eclipses in m cause
 great innovations in the state in England: comets plunge the nation into
 war. The greatest changes have occurred in the laws while ♅ has been in
 ♒.
 
-<span id="fn_51"></span>[67:1](aia18.htm#fr_51) This sign denotes
+<span id="fn_51"></span>[67:1](aia18.htm#fr_51.md) This sign denotes
 standing water, as ♋ does running water.
 
-<span id="fn_52"></span>[67:2](aia18.htm#fr_52) I have generally found
+<span id="fn_52"></span>[67:2](aia18.htm#fr_52.md) I have generally found
 persons born under this sign have a very delicate skin, and often a
 white chalky appearance, and flabby.--ZAD.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XVI. Teaching What Use May Be Made of the Former
-Discourse of the Twelve Signs](aia19)
+Discourse of the Twelve Signs](aia19.md)

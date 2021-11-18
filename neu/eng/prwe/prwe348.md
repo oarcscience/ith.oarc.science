@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe347)  [Next](prwe349) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe347)  [Next](prwe349.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ is a name given to the old furnaces generally called Jews'-houses.
 
 ------------------------------------------------------------------------
 
-[Next: The Discoverer of Tin](prwe349)
+[Next: The Discoverer of Tin](prwe349.md)

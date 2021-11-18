@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](som06)  [Next](som08) 
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](som06)  [Next](som08.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ In an effort to present in concise form the cardinal doctrines of this
 organization, I cannot do better than quote the so-called *Articles of
 Faith of the Church of Jesus Christ of Latter-day Saints*, which have
 been in published form before the world for over half a century. <span
-id="fr_3"></span>[4](#fn_3)
+id="fr_3"></span>[4](#fn_3.md)
 
 1\. We believe in God, the Eternal Father, and in His Son, Jesus Christ,
 and in the Holy Ghost.
@@ -361,7 +361,7 @@ from God is not less philosophical and scientific than scriptural.
 
 ### Footnotes
 
-<span id="fn_3"></span>[:4](som07.htm#fr_3) For extended treatment of
+<span id="fn_3"></span>[:4](som07.htm#fr_3.md) For extended treatment of
 "Mormon" doctrine see "The Articles of Faith: a Series of Lectures on
 the Principal Doctrines of the Church of Jesus Christ of Latter-day
 Saints," by James E. Talmage. Published by the Church: Salt Lake City,
@@ -369,4 +369,4 @@ Utah; 485 pp
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](som08)
+[Next: Chapter II](som08.md)

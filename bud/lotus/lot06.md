@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot05)  [Next](lot07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot05)  [Next](lot07.md) 
 
 ------------------------------------------------------------------------
 
@@ -270,4 +270,4 @@ fifth must be Sâriputra, whose destination has been predicted before\].
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7](lot07)
+[Next: Chapter 7](lot07.md)

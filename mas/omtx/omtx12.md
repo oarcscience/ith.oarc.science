@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx11)  [Next](omtx13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx11)  [Next](omtx13.md) 
 
 ------------------------------------------------------------------------
 
@@ -213,4 +213,4 @@ form.
 
 ------------------------------------------------------------------------
 
-[Next: Consecration of a Subordinate Lodge](omtx13)
+[Next: Consecration of a Subordinate Lodge](omtx13.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISAIM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISAIM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISAIM/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](wcwe00)    [Text
-\[Zipped\]](wcwe.txt.gz)
+[Contents](#contents)    [Start Reading](wcwe00.md)    [Text
+\[Zipped\]](wcwe.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -58,20 +58,20 @@ first-ever posting of this book on the Internet.</span>
 ------------------------------------------------------------------------
 
 <span id="contents"></span> [Title Page, Preface, Contents,
-Introduction](wcwe00)  
-[Chapter I. Continuity of the Religion](wcwe01)  
-[Chapter II. The God](wcwe02)  
-[Chapter III. Admission Ceremonies](wcwe03)  
-[Chapter IV. The Assemblies](wcwe04)  
-[Chapter V. The Rites](wcwe05)  
-[Chapter VI. The Rites (continued)](wcwe06)  
-[Chapter VII. The Organization](wcwe07)  
-[Chapter VIII. Familiars and Transformations](wcwe08)  
-[Appendix I. Fairies and Witches](wcweapp1)  
+Introduction](wcwe00.md)  
+[Chapter I. Continuity of the Religion](wcwe01.md)  
+[Chapter II. The God](wcwe02.md)  
+[Chapter III. Admission Ceremonies](wcwe03.md)  
+[Chapter IV. The Assemblies](wcwe04.md)  
+[Chapter V. The Rites](wcwe05.md)  
+[Chapter VI. The Rites (continued)](wcwe06.md)  
+[Chapter VII. The Organization](wcwe07.md)  
+[Chapter VIII. Familiars and Transformations](wcwe08.md)  
+[Appendix I. Fairies and Witches](wcweapp1.md)  
 [Appendix II. Trial of Silvain Nevillon and Gentien le
-Clerc](wcweapp2)  
-[Appendix III. Names of Witches in Covens](wcweapp3)  
-[Appendix IV. Joan of Arc and Gilles de Rais](wcweapp4)  
-[Appendix V. Flying Ointments](wcweapp5)  
-[Bibliography](wcwebib)  
-[Addendum](wcweadd)  
+Clerc](wcweapp2.md)  
+[Appendix III. Names of Witches in Covens](wcweapp3.md)  
+[Appendix IV. Joan of Arc and Gilles de Rais](wcweapp4.md)  
+[Appendix V. Flying Ointments](wcweapp5.md)  
+[Bibliography](wcwebib.md)  
+[Addendum](wcweadd.md)  

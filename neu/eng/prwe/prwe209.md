@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe208)  [Next](prwe210) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe208)  [Next](prwe210.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ Hooper has been rarely seen.
 
 ------------------------------------------------------------------------
 
-[Next: How to Eat Pilchards](prwe210)
+[Next: How to Eat Pilchards](prwe210.md)

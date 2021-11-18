@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb08)  [Next](yefb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb08)  [Next](yefb10.md) 
 
 </div>
 
@@ -166,6 +166,6 @@ money as they wanted, and lived happily to their lives end.
 
 ------------------------------------------------------------------------
 
-[Next: The Donkey Cabbage](yefb10)
+[Next: The Donkey Cabbage](yefb10.md)
 
 </div>

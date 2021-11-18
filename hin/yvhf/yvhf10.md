@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](yvhf09)  [Next](yvhf11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](yvhf09)  [Next](yvhf11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Vashisht or Heaven Found*, by Rishi Singh Gherwal, \[1930\], at
 Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ pleasure and pain. Why then dwell upon them? Forget the past and the
 future and rest in the neutral state of truth, putting aside the duality
 of love and hate. Look equally upon all, steadfast in the certainty of
 Atmic wisdom, secure in the stronghold of mind withheld from
-[worldly](errata.htm#13) objects.
+[worldly](errata.htm#13.md) objects.
 
 "So may you, O lotus-eyed Ram, be the crystal, which mirrors pain but
 does not suffer it.
@@ -77,7 +77,7 @@ name, and Videha by reputation, whose noble heart embraced the world,
 was a true protector of his people.
 
 "In the first days of vernal spring King Janak walked in his charming
-garden among his [fragrant](errata.htm#14) flowers. Without its gates
+garden among his [fragrant](errata.htm#14.md) flowers. Without its gates
 the guards were stationed. Strolling about, the King heard the murmuring
 voices of the Sidhas (they who have attained the One-ness) from the
 hills. Hear attentively, O Ram, the songs of the Sidhas—they who have
@@ -246,4 +246,4 @@ well-tilled before the planting of the seed?"
 ------------------------------------------------------------------------
 
 [Next: How Suragho, the King of Hunters, attained realization of
-self](yvhf11)
+self](yvhf11.md)

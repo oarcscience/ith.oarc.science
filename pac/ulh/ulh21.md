@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh20)  [Next](ulh22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh20)  [Next](ulh22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -146,22 +146,22 @@ human sympathy these barriers dissolve into very thin air.
 
 <div style="margin-left: 32px">
 
-Kahiki-nui, auwahi <span id="fr_260"></span>[a](#fn_256) ka makani!  
+Kahiki-nui, auwahi <span id="fr_260"></span>[a](#fn_256.md) ka makani!  
 Nana aku au ia Kona,  
-Me he kua lei ahi <span id="fr_261"></span>[b](#fn_257) la ka moku;  
+Me he kua lei ahi <span id="fr_261"></span>[b](#fn_257.md) la ka moku;  
 Me he lawa uli e, la, no  
-5 Ku’u kai pa-ú hala-ká  <span id="fr_262"></span>[c](#fn_258)  
-I ka lae o Hana-maló; <span id="fr_263"></span>[d](#fn_259)  
+5 Ku’u kai pa-ú hala-ká  <span id="fr_262"></span>[c](#fn_258.md)  
+I ka lae o Hana-maló; <span id="fr_263"></span>[d](#fn_259.md)  
 Me he olohe ili polohiwa,  
 Ke ku a mauna,  
-Ma ka ewa lewa <span id="fr_264"></span>[e](#fn_260) Hawaii.  
+Ma ka ewa lewa <span id="fr_264"></span>[e](#fn_260.md) Hawaii.  
 10 Me he ihu leiwi la, ka moku,  
-Kou mauna, kou palamoa: <span id="fr_265"></span>[f](#fn_261)  
-Kau a waha mai Mauna-kea <span id="fr_266"></span>[g](#fn_262)  
-A me Mauna-loa, <span id="fr_267"></span>[g](#fn_262)  
-Ke ku a Maile-hahéi. <span id="fr_268"></span>[h](#fn_263)  
-15 Uluna mai Mauna Kilohana <span id="fr_269"></span>[i](#fn_264)  
-I ka poohiwi o Hu'e-hu'e. <span id="fr_270"></span>[i](#fn_264)
+Kou mauna, kou palamoa: <span id="fr_265"></span>[f](#fn_261.md)  
+Kau a waha mai Mauna-kea <span id="fr_266"></span>[g](#fn_262.md)  
+A me Mauna-loa, <span id="fr_267"></span>[g](#fn_262.md)  
+Ke ku a Maile-hahéi. <span id="fr_268"></span>[h](#fn_263.md)  
+15 Uluna mai Mauna Kilohana <span id="fr_269"></span>[i](#fn_264.md)  
+I ka poohiwi o Hu'e-hu'e. <span id="fr_270"></span>[i](#fn_264.md)
 
 </div>
 
@@ -205,47 +205,47 @@ chain of association.
 
 ### Footnotes
 
-<span id="fn_256"></span>[124:a](ulh21.htm#fr_260) *Auwahi* (a word not
+<span id="fn_256"></span>[124:a](ulh21.htm#fr_260.md) *Auwahi* (a word not
 found in any dictionary) is said by a scholarly Hawaiian to be au
 archaic form of the word *uwahi*, or *uahi* (milk of fire), smoke,
 *Kahiki-nui* is a dry region and the wind (*makani*) often fills the air
 with dust.
 
-<span id="fn_257"></span>[124:b](ulh21.htm#fr_261) *Kua lei ahi*. No
+<span id="fn_257"></span>[124:b](ulh21.htm#fr_261.md) *Kua lei ahi*. No
 Hawaiian has been found who professes to know the true meaning of these
 words. The translation of them here given is, therefore, purely formal.
 
-<span id="fn_258"></span>[124:c](ulh21.htm#fr_262) *Pa-ú halaká*. An
+<span id="fn_258"></span>[124:c](ulh21.htm#fr_262.md) *Pa-ú halaká*. An
 expression sometimes applied to the hand when used as a shield to one's
 modesty; here it is said of the ocean (hat) when one's body is immersed
 in it.
 
-<span id="fn_259"></span>[124:d](ulh21.htm#fr_263) *Hana-maló*. A cape
+<span id="fn_259"></span>[124:d](ulh21.htm#fr_263.md) *Hana-maló*. A cape
 that lies between Kawaihae and Kailua in north Kona.
 
-<span id="fn_260"></span>[124:e](ulh21.htm#fr_264) *Ewa lewá*. In this
+<span id="fn_260"></span>[124:e](ulh21.htm#fr_264.md) *Ewa lewá*. In this
 reading the author has followed the authoritative suggestion of a
 Hawaiian expert, substituting it for that first given by another, which
 was *elewa*. The latter was without discoverable meaning. Even as now
 given conjectures as to its meaning are at variance. The one followed
 presents the less difficulty.
 
-<span id="fn_261"></span>[124:f](ulh21.htm#fr_265) *Palamoa*. The name
+<span id="fn_261"></span>[124:f](ulh21.htm#fr_265.md) *Palamoa*. The name
 of a virulent *kupua* that acted as errand-carrier and agent for
 sorcerers (*kahuna ánaaná*); also the name of a beautiful grass found on
 Hawaii that has a pretty red seed. Following the line of least
 resistance, the latter meaning has been adopted; in it is found a
 generic expression for the leafy covering of the island.
 
-<span id="fn_262"></span>[124:g](ulh21.htm#fr_267) *Mauna-kea* and
+<span id="fn_262"></span>[124:g](ulh21.htm#fr_267.md) *Mauna-kea* and
 *Mauna-loa*. The two well-known mountains of the big island of Hawaii.
 
-<span id="fn_263"></span>[124:h](ulh21.htm#fr_268) *Maile-hahei*. Said
+<span id="fn_263"></span>[124:h](ulh21.htm#fr_268.md) *Maile-hahei*. Said
 to be a hill in Kona.
 
-<span id="fn_264"></span>[124:i](ulh21.htm#fr_270) *Kilohana* and
+<span id="fn_264"></span>[124:i](ulh21.htm#fr_270.md) *Kilohana* and
 *Hu'e-hu'e*. The names of two hills in Kona, Hawaii.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. An Intermission](ulh22)
+[Next: XVIII. An Intermission](ulh22.md)

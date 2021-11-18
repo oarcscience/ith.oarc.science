@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp39)  [Next](dmp41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp39)  [Next](dmp41.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ besides (?) (8) these; and you blow on him with your mouth.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. IX](dmp41)
+[Next: Verso Col. IX](dmp41.md)

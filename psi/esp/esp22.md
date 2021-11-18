@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp21)  [Next](esp23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp21)  [Next](esp23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 It seems likely that a table summarizing the general totals of those
 chapters giving the main figures would be of some convenience to the
 reader here. There are two columns showing X-values <span
-id="fr_100"></span>[1](#fn_100) (anti-chance) for the results, the last
+id="fr_100"></span>[1](#fn_100) (anti-chance.md) for the results, the last
 column giving that obtained by formula and the next to
 
 <span id="page_162">p. 162</span>
@@ -204,7 +204,7 @@ in P.C. and P.T. the same general mental function is at work.
 <div style="margin-left: 32px">
 
 \(a\) All major subjects, except one, <span
-id="fr_101"></span>[1](#fn_101) have ability in both P.T. and P.C.
+id="fr_101"></span>[1](#fn_101.md) have ability in both P.T. and P.C.
 
 \(b\) Their results, individually and totally, are of nearly the same
 scoring-level in both P.T. and P.C.
@@ -418,14 +418,14 @@ medicine-man, the mystic and the prophet?
 
 ### Footnotes
 
-<span id="fn_100"></span>[161:1](esp22.htm#fr_100) See Appendix to
-Chapter 2, page [32](esp09.htm#page_32).
+<span id="fn_100"></span>[161:1](esp22.htm#fr_100.md) See Appendix to
+Chapter 2, page [32](esp09.htm#page_32.md).
 
-<span id="fn_101"></span>[163:1](esp22.htm#fr_101) Later this exception
+<span id="fn_101"></span>[163:1](esp22.htm#fr_101.md) Later this exception
 was eliminated when Zirkle became successful in B.T. as well as in P.T.,
 and at roughly the same rate.
 
 ------------------------------------------------------------------------
 
 [Next: Appendix to Chapter 15. Suggestions to Those Who May Care to
-Repeat These Experiments](esp23)
+Repeat These Experiments](esp23.md)

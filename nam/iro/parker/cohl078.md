@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl077)  [Next](cohl079) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl077)  [Next](cohl079.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 "'Now it is said that your people must change certain customs. It has
 been the custom to mourn at each recurring anniversary of the death of a
-friend or relative. <span id="fr_71"></span>[2](#fn_71) It is said that
+friend or relative. <span id="fr_71"></span>[2](#fn_71.md) It is said that
 while you are
 
 <span id="page_57">p. 57</span>
@@ -35,7 +35,7 @@ the grave. It is said that when you follow a body to the grave you must
 have prepared for that journey as if to travel afar. Put on your finest
 clothing for every human creature is on its journey graveward. It is
 said that the bodies of the dead have intelligence and know what
-transpires about them. <span id="fr_72"></span>[1](#fn_72) It is true.'"
+transpires about them. <span id="fr_72"></span>[1](#fn_72.md) It is true.'"
 
 So they said and he said. Eniaiehuk.
 
@@ -43,12 +43,12 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_71"></span>[56:2](cohl078.htm#fr_71) See Funeral and
+<span id="fn_71"></span>[56:2](cohl078.htm#fr_71.md) See Funeral and
 Mourning Customs, p. 107.
 
-<span id="fn_72"></span>[57:1](cohl078.htm#fr_72) See, The death feast,
-[p. 110](cohl149.htm#page_110).
+<span id="fn_72"></span>[57:1](cohl078.htm#fr_72.md) See, The death feast,
+[p. 110](cohl149.htm#page_110.md).
 
 ------------------------------------------------------------------------
 
-[Next: Section 68](cohl079)
+[Next: Section 68](cohl079.md)

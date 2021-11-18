@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar165) [Next](gbar167)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar165) [Next](gbar167.md)
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ repentance.
 
 ------------------------------------------------------------------------
 
-[Next](gbar167)
+[Next](gbar167.md)

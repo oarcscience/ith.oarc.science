@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic055)  [Next](lfic057) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic055)  [Next](lfic057.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ expense, of wounds and bruises.
 
 ------------------------------------------------------------------------
 
-[Next: The Battle of Ventry Harbour](lfic057)
+[Next: The Battle of Ventry Harbour](lfic057.md)

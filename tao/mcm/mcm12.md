@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](mcm11)  [Next](mcm13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](mcm11)  [Next](mcm13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Musings of a Chinese Mystic*, by Lionel Giles, \[1906\], at Intangible
 Textual Heritage
 
@@ -87,7 +87,7 @@ monkey.
 
 .        .        .        .        .
 
-When Hsi Shih <span id="fr_20"></span>[1](#fn_20) was distressed in
+When Hsi Shih <span id="fr_20"></span>[1](#fn_20.md) was distressed in
 mind, she knitted her brows. An ugly woman of the village, seeing how
 beautiful she looked, went home, and having worked herself into a fit
 frame of mind, knitted her brows. The result was that the rich people of
@@ -137,7 +137,7 @@ be Hsi P‘êng."
 .        .        .        .        .
 
 To glorify the past and to condemn the present has always been the way
-of the scholar. Yet if Hsi Wei Shih <span id="fr_21"></span>[1](#fn_21)
+of the scholar. Yet if Hsi Wei Shih <span id="fr_21"></span>[1](#fn_21.md)
 and individuals of that class were caused to re-appear in the present
 day, which of them but would accommodate himself to the age?
 
@@ -145,10 +145,10 @@ day, which of them but would accommodate himself to the age?
 
 ### Footnotes
 
-<span id="fn_20"></span>[79:1](mcm12.htm#fr_20) A famous beauty of old.
+<span id="fn_20"></span>[79:1](mcm12.htm#fr_20.md) A famous beauty of old.
 
-<span id="fn_21"></span>[81:1](mcm12.htm#fr_21) A patriarch.
+<span id="fn_21"></span>[81:1](mcm12.htm#fr_21.md) A patriarch.
 
 ------------------------------------------------------------------------
 
-[Next: Immortality of the Soul](mcm13)
+[Next: Immortality of the Soul](mcm13.md)

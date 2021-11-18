@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag17)  [Next](rag19) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag17)  [Next](rag19.md) 
 
 ------------------------------------------------------------------------
 
@@ -516,4 +516,4 @@ endless revolution around the happy globe. Ragnarok is past.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Conflagration Of Phaëton](rag19)
+[Next: Chapter V. The Conflagration Of Phaëton](rag19.md)

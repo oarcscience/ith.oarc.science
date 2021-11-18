@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl27)  [Next](flhl29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl27)  [Next](flhl29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -92,10 +92,10 @@ young devil and his parents very readily agreed.
 
 The penitent then set forth with his young disciple, but the latter soon
 began to find the journey intolerable without the recreation of a little
-mischief. The "afârìt" <span id="fr_82"></span>[1](#fn_81) always
+mischief. The "afârìt" <span id="fr_82"></span>[1](#fn_81.md) always
 journey by night and sleep in the day. One dark, moonless night, the
 couple reached a large encampment of Bedû. <span
-id="fr_83"></span>[2](#fn_82) Everything was silent, and it was clear
+id="fr_83"></span>[2](#fn_82.md) Everything was silent, and it was clear
 that the whole tribe was asleep. The two devils passed through the camp
 without disturbing a soul; but a little later the young one begged leave
 to return and walk once more through the camp, declaring that he wanted
@@ -164,7 +164,7 @@ What will you give me if I show you a way out of the difficulty?"
 <span id="page_159">p. 159</span>
 
 warmth, "you know that we are comrades and share equally in all that 'En
-Nusìb' <span id="fr_84"></span>[1](#fn_83) sends us. I shall, of course,
+Nusìb' <span id="fr_84"></span>[1](#fn_83.md) sends us. I shall, of course,
 let you have half the money, that is, five hundred dinârs."
 
 "Very well," said Karakoz, "the expedient I would recommend is a simple
@@ -233,14 +233,14 @@ derived from this incident.
 
 ### Footnotes
 
-<span id="fn_81"></span>[156:1](flhl28.htm#fr_82) Afârìt (pl. of
+<span id="fn_81"></span>[156:1](flhl28.htm#fr_82.md) Afârìt (pl. of
 afrìt)=a sort of devils.
 
-<span id="fn_82"></span>[156:2](flhl28.htm#fr_83) Bedû (pl. of Bedawi)=
+<span id="fn_82"></span>[156:2](flhl28.htm#fr_83) Bedû (pl. of Bedawi.md)=
 the desert Arabs.--ED.
 
-<span id="fn_83"></span>[159:1](flhl28.htm#fr_84) *i.e.* luck.
+<span id="fn_83"></span>[159:1](flhl28.htm#fr_84.md) *i.e.* luck.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Moral Tales](flhl29)
+[Next: IV. Moral Tales](flhl29.md)

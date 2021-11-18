@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos02)  [Next](kos04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos02)  [Next](kos04.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 From Lansdowne MSS. 1203, ' 7'he Veritable Clavicles of Solomon,
 translated from the Hebrew into the Latin language by the Rabbi
-Abognazar.' <span id="fr_0"></span>[1](#fn_0)
+Abognazar.' <span id="fr_0"></span>[1](#fn_0.md)
 
 EVERY one knoweth in the present day that from time immemorial Solomon
 possessed knowledge inspired by the wise teachings of an angel, to which
@@ -40,9 +40,9 @@ either changed or augmented the original translation from the Hebrew.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](kos03.htm#fr_0) I fancy this Must be a
+<span id="fn_0"></span>[1:1](kos03.htm#fr_0.md) I fancy this Must be a
 corruption of 'Aben Ezra.'
 
 ------------------------------------------------------------------------
 
-[Next: Introduction (from Add. MSS. 10862)](kos04)
+[Next: Introduction (from Add. MSS. 10862)](kos04.md)

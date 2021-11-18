@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip27)  [Next](fip29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip27)  [Next](fip29.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ county Galway was as good as he was.
 
 ------------------------------------------------------------------------
 
-[Next: Daniel O'Rourke, by T. Crofton Croker](fip29)
+[Next: Daniel O'Rourke, by T. Crofton Croker](fip29.md)

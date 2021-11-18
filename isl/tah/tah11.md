@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](tah10)  [Next](tah12) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](tah10)  [Next](tah12.md) 
 
 ------------------------------------------------------------------------
 
@@ -334,4 +334,4 @@ they abused their husbands and were ungrateful to them.'"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: The Love Of God](tah12)
+[Next: Chapter VIII: The Love Of God](tah12.md)

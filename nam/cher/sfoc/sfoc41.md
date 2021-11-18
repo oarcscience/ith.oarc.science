@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc40)  [Next](sfoc42) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc40)  [Next](sfoc42.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ to in the recitation are the bears.
 
 ------------------------------------------------------------------------
 
-[Next: This is for Catching Large Fish](sfoc42)
+[Next: This is for Catching Large Fish](sfoc42.md)

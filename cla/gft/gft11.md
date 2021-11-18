@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft10)  [Next](gft12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft10)  [Next](gft12.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ the starting of that gallant crew.
 
 ------------------------------------------------------------------------
 
-[Next: Part Four: How the Argonauts Sailed to Colchis](gft12)
+[Next: Part Four: How the Argonauts Sailed to Colchis](gft12.md)

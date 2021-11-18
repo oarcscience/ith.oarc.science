@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd05)  [Next](bsd07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd05)  [Next](bsd07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -44,7 +44,7 @@ It argues a sad defect of information concerning the Far East, when so
 erudite a scholar as Dr. George Miller did not hesitate to affirm that,
 chivalry, or any other similar institution, has never existed either
 among the nations of antiquity or among the modern Orientals. <span
-id="fr_1"></span>[1](#fn_1) Such ignorance, however, is amply excusable,
+id="fr_1"></span>[1](#fn_1.md) Such ignorance, however, is amply excusable,
 as the third edition of the good Doctor's, work appeared the same year
 that Commodore Perry was knocking at the portals of our exclusivism.
 More than a decade later, about the time that our feudalism was in the
@@ -173,7 +173,7 @@ discover that Bushido
 does not stand on a lesser pedestal. If fighting in itself, be it
 offensive or defensive, is, as Quakers rightly testify, brutal and
 wrong, we can still say with Lessing, "We know from what failings our
-virtue springs." <span id="fr_2"></span>[1](#fn_2) "Sneaks" and
+virtue springs." <span id="fr_2"></span>[1](#fn_2.md) "Sneaks" and
 "cowards" are epithets of the worst opprobrium to healthy, simple
 natures. Childhood begins life with these notions, and knighthood also;
 but, as life grows larger and its relations many-sided, the early faith
@@ -193,10 +193,10 @@ Lamartine. In Japan there were several sources of Bushido.
 
 ### Footnotes
 
-<span id="fn_1"></span>[2:1](bsd06.htm#fr_1) *History Philosophically
+<span id="fn_1"></span>[2:1](bsd06.htm#fr_1.md) *History Philosophically
 Illustrated* (3d ed., 1853). vol. ii., p. 2.
 
-<span id="fn_2"></span>[9:1](bsd06.htm#fr_2) Ruskin was one of the most
+<span id="fn_2"></span>[9:1](bsd06.htm#fr_2.md) Ruskin was one of the most
 gentle-hearted and peace-loving men that ever lived. Yet he believed in
 war with all the fervor of a worshipper of the strenuous life. "When I
 tell you," he says in the *Crown of Wild Olive*, "that war is the
@@ -211,4 +211,4 @@ expired in peace."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Sources of Bushido](bsd07)
+[Next: Chapter II: Sources of Bushido](bsd07.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](cha01)  [Next](cha03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](cha01)  [Next](cha03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Works of Stephen Charnock*, \[1628-1680\] at Intangible Textual
 Heritage
 
@@ -1732,6 +1732,6 @@ End of *A Discourse of the Word, the Instrument of Regeneration.*
 
 ------------------------------------------------------------------------
 
-[Next: Necessity of Regeneration](cha03)
+[Next: Necessity of Regeneration](cha03.md)
 
 </div>

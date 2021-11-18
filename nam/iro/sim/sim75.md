@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim74)  [Next](sim76) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim74)  [Next](sim76.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ strength.
 
 ------------------------------------------------------------------------
 
-[Next: The Friendship of an Otter](sim76)
+[Next: The Friendship of an Otter](sim76.md)

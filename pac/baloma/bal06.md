@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](bal05)  [Next](bal07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](bal05)  [Next](bal07.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ his death, his *baloma* is old, and after a period his life in Tuma
 
 <span id="page_216">p. 216</span>
 
-will also cease. [59](bal09.htm#xref_59) In all cases the end of the
+will also cease. [59](bal09.htm#xref_59.md) In all cases the end of the
 life of the *baloma* in Tuma brings with it a very important crisis in
 the cycle of his existence. This is the reason why I have avoided the
 use of the term death in describing the end of the *baloma*.
@@ -34,7 +34,7 @@ woman sees this *waiwaia*; she takes it up, and puts it in a basket or a
 plaited and folded coconut leaf (*puatai*). She carries the small being
 to Kiriwina, and places it in the womb of some woman, inserting it *per
 vaginam*. Then that woman becomes pregnant
-(*nasusuma*). [60](bal09.htm#xref_60)
+(*nasusuma*). [60](bal09.htm#xref_60.md)
 
 This is the story as I obtained it from the first informant who
 mentioned the subject to me. It implies two important psychological
@@ -59,7 +59,7 @@ are connected with some customs.
 <span id="page_217">p. 217</span>
 
 First, as to the nature of these "spirit children,"
-*waiwaia*." [61](bal09.htm#xref_61) It must be kept in mind that, as is
+*waiwaia*." [61](bal09.htm#xref_61.md) It must be kept in mind that, as is
 usual in dogmatic assertions, the natives take very much for granted, do
 not trouble to give clear definitions or to imagine details very
 concretely and vividly. The most natural assumption--namely, that, of
@@ -96,7 +96,7 @@ married woman wants to conceive, she may hit the *dukupi* 
 <span id="page_218">p. 218</span>
 
 stones in order to induce a concealed *waiwaia* to enter her womb. But
-this is not a ceremonial action. [62](bal09.htm#xref_62)
+this is not a ceremonial action. [62](bal09.htm#xref_62.md)
 
 In the inland villages the association between conception and bathing is
 also known. To receive the *waiwaia* whilst in the water seems to be the
@@ -119,7 +119,7 @@ distribution of food) follows the proceedings.
 
 The usual explanation of the *u'ula* (reason) for this ceremony is that
 it makes the "skin of the woman white," and that it makes the birth of
-the baby easier. [63](bal09.htm#xref_63) But in the coastal village of
+the baby easier. [63](bal09.htm#xref_63.md) But in the coastal village of
 Kavataria a very definite statement was volunteered, to the effect that
 the *kokuwa* ceremony is connected with incarnation of the spirit
 children. The view taken by one of my informants was that during the
@@ -155,7 +155,7 @@ but the *baloma* must always be of the *veiola* (maternal kindred) of
 the woman. Many know who brought them to their mother. Thus To'uluwa,
 the chief of Omarakana, was given to his mother (Bomakata) by
 Buguabuaga, one of her *tabula* ("grandfathers"--in this case her
-mother's mother's brother). [64](bal09.htm#xref_64) Again, Bwoilagesi,
+mother's mother's brother). [64](bal09.htm#xref_64.md) Again, Bwoilagesi,
 the woman mentioned on page 162, who goes to Tuma, ha-d her son,
 Tukulubakiki, given her by Tomnavabu, her *kadala* (mother's brother).
 Tukulubakiki's wife, Kuwo'igu, knows that her mother came to her, and
@@ -181,7 +181,7 @@ belonging to the same subclan as the woman, as just stated, the carrier
 is even as a rule some near *veiola*. And it was considered absolutely
 impossible that any exception to this rule could happen, or that an
 individual could change his or her subclan in the cycle of
-reincarnation. [65](bal09.htm#xref_65)
+reincarnation. [65](bal09.htm#xref_65.md)
 
 So much about the belief in reincarnation. Though it is a universal and
 popular belief, *i.e.*, though it is known to everybody, it does not
@@ -193,4 +193,4 @@ those ties.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](bal07)
+[Next: Chapter VII](bal07.md)

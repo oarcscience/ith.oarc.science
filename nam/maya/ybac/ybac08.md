@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac07)  [Next](ybac09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac07)  [Next](ybac09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ it was Wednesday.
 
 The Spaniards took him all naked as he was to Cortés, who clothed him
 and treated him with much affection; and Aguilar related there <span
-id="fr_5"></span>[\*](#fn_5) his peril and labors, and the death of his
+id="fr_5"></span>[\*](#fn_5.md) his peril and labors, and the death of his
 companions, and how it was impossible to send word to Guerrero in so
 short a time, he being more than eighty leagues away.
 
@@ -91,7 +91,7 @@ Aguilar having told his story, and being an excellent interpreter,
 Cortés renewed the preaching of the adoration of the cross, and put the
 idols out of the temples; and they say that this preaching by Cortés
 made such an impression on those of Cuzco <span
-id="fr_6"></span>[†](#fn_6) that they came out to the shore saying to
+id="fr_6"></span>[†](#fn_6.md) that they came out to the shore saying to
 the Spaniards who passed: "Maria, Maria, Cortés, Cortés."
 
 Cortés departed thence, touched Campeche in passing, but did not make a
@@ -112,7 +112,7 @@ with Indian merchants and leading people, who spoke of them daily.
 
 ### Footnotes
 
-<span id="fn_5"></span>[7:\*](ybac08.htm#fr_5) The pleasant Sunday
+<span id="fn_5"></span>[7:\*](ybac08.htm#fr_5.md) The pleasant Sunday
 supplement story of the beautiful maiden, and the temptation arranged
 for Aguilar by the chief, which of course must have first been given
 currency by Aguilar himself, as related by Cogolludo, has probably been
@@ -126,10 +126,10 @@ by one Cristóbal Doria, of Oaxaca, the husband by a "legitimate church
 marriage" with Luisa, the natural daughter of Gerónimo de Aguilar, had
 by him, "an unmarried bachelor, and free," by an unnamed Tarascan woman.
 
-<span id="fn_6"></span>[7:†](ybac08.htm#fr_6) So in the ms., but clearly
+<span id="fn_6"></span>[7:†](ybac08.htm#fr_6.md) So in the ms., but clearly
 an error for Cuzamil.
 
 ------------------------------------------------------------------------
 
 [Next: V. Provinces of Yucatan. Its Principal Ancient
-Structures](ybac09)
+Structures](ybac09.md)

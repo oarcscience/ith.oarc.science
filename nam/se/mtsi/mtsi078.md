@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi077)  [Next](mtsi079) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi077)  [Next](mtsi079.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ had no such privilege before that time.
 
 ------------------------------------------------------------------------
 
-[Next: 77. Rabbit Escapes From the Box](mtsi079)
+[Next: 77. Rabbit Escapes From the Box](mtsi079.md)

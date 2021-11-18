@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws68)  [Next](cws70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws68)  [Next](cws70.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ earth as the force and power of things.
 
 <span id="page_154">p. 154</span>
 
-Hymn to the Planet-God <span id="fr_216"></span>[1](#fn_216)
+Hymn to the Planet-God <span id="fr_216"></span>[1](#fn_216.md)
 
 \(1\)
 
@@ -249,12 +249,12 @@ earth; from the dust of the ground, and from the herb of the field.
 
 73\. Thou coverest her nakedness with an apron of fig-leaves; thou
 clothest her with the skins of beasts. <span
-id="fr_217"></span>[1](#fn_217)
+id="fr_217"></span>[1](#fn_217.md)
 
 <span id="page_158">p. 158</span>
 
 74\. Thou art from of old, O soul of man; yea, thou art from the
-everlasting. <span id="fr_218"></span>[1](#fn_218)
+everlasting. <span id="fr_218"></span>[1](#fn_218.md)
 
 75\. Thou puttest off thy bodies as raiment; and as vesture dost thou
 fold them up.
@@ -389,7 +389,7 @@ vineyard;
 
 ##### PART 2
 
-Hymns to the Elemental Divinities <span id="fr_219"></span>[1](#fn_219)
+Hymns to the Elemental Divinities <span id="fr_219"></span>[1](#fn_219.md)
 
 ()
 
@@ -587,10 +587,10 @@ are full within and without of the eyes of life.\[B\]
 
 ### Footnotes
 
-<span id="fn_215"></span>[153:1](cws68.htm#fr_215) *I.e.* The intellect
+<span id="fn_215"></span>[153:1](cws68.htm#fr_215.md) *I.e.* The intellect
 and the intuition.
 
-<span id="fn_216"></span>[154:1](cws69.htm#fr_216) The theme of this
+<span id="fn_216"></span>[154:1](cws69.htm#fr_216.md) The theme of this
 hymn, which was recollected, in sleep, early in March 1881, is the
 Mystic Exodus, or flight of the Soul from the power of the body, wherein
 Egypt stands for the body; Israel for the soul; the corn in Egypt for
@@ -601,17 +601,17 @@ Jehovah Nissi of the Hebrews, is the Divine Spirit of the planet, and
 "Father" of the man regenerate (see Life of Anna Kingsford, vol. i, pp.
 438-441; vol. ii, 1, 132).    S. H. H.
 
-<span id="fn_217"></span>[157:1](cws69.htm#fr_217) For implication of
+<span id="fn_217"></span>[157:1](cws69.htm#fr_217.md) For implication of
 "coats of skin," see Part I, No. VI.
 
-<span id="fn_218"></span>[158:1](cws69.htm#fr_218) Meaning that her
+<span id="fn_218"></span>[158:1](cws69.htm#fr_218.md) Meaning that her
 substance is everlasting, being that of God, which is not the case with
 matter, which is but a temporary condition and specialised mode of
 substance.    E. M.
 
-<span id="fn_219"></span>[160:1](cws69.htm#fr_219) Received early in
+<span id="fn_219"></span>[160:1](cws69.htm#fr_219.md) Received early in
 March 1881 (*Life of Anna Kingsford*, vol. i, p. 438).
 
 ------------------------------------------------------------------------
 
-[Next: No. XIV: Theta, Or (mystically) The Fourth Of The Gods](cws70)
+[Next: No. XIV: Theta, Or (mystically) The Fourth Of The Gods](cws70.md)

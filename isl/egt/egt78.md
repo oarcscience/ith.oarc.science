@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt77)  [Next](egt79) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt77)  [Next](egt79.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ to the foot that speaks with the Eternal.
 
 ------------------------------------------------------------------------
 
-[Next: OF HIS MERCY.](egt79)
+[Next: OF HIS MERCY.](egt79.md)

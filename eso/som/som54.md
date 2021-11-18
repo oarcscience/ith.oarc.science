@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som53) 
-[Next](som55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som53.md) 
+[Next](som55.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -411,4 +411,4 @@ The Way I tread is a pleasant and a happy one.
 
 ------------------------------------------------------------------------
 
-[Next: Immanent Power](som55)
+[Next: Immanent Power](som55.md)

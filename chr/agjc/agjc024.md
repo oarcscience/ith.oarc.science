@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](agjc023)  [Next](agjc025) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](agjc023)  [Next](agjc025.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHONOS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHONOS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Aquarian Gospel of Jesus Christ*, by Levi H. Dowling, \[1920\], at
 Intangible Textual Heritage
 
@@ -80,6 +80,6 @@ the laws.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 22](agjc025)
+[Next: Chapter 22](agjc025.md)
 
 </div>

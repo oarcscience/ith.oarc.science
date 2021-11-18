@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](scl01)  [Next](scl03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](scl01)  [Next](scl03.md) 
 
 ------------------------------------------------------------------------
 
@@ -375,4 +375,4 @@ dear; and it is possible, while the other is not.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](scl03)
+[Next: Part I](scl03.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ffcctp)    [Page
-Index](pageidx)    [Text \[Zipped\]](ffcc.txt.gz)
+[Contents](#contents)    [Start Reading](ffcctp.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ffcc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -69,43 +69,43 @@ January 27th, 2004
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ffcctp)  
-[Dedication](ffcc000)  
-[Contents](ffcctoc)  
-[Preface](ffcc001)  
-[Introduction](ffcc002)  
+<span id="contents"></span> [Title Page](ffcctp.md)  
+[Dedication](ffcc000.md)  
+[Contents](ffcctoc.md)  
+[Preface](ffcc001.md)  
+[Introduction](ffcc002.md)  
 <span id="section_000"></span>
 
 ### Section I: The Living Fairy-Faith
 
-[Chapter I: Environment](ffcc110)  
-[Chapter II. Taking of Evidence: I. General Introduction](ffcc120)  
-[Chapter II. Taking of Evidence: II. In Ireland](ffcc121)  
-[Chapter II. Taking of Evidence: III. In Scotland](ffcc122)  
-[Chapter II. Taking of Evidence: IV. In the Isle of Man](ffcc123)  
-[Chapter II. Taking of Evidence: V. In Wales](ffcc124)  
-[Chapter II. Taking of Evidence: VI. In Cornwall](ffcc125)  
-[Chapter II. Taking of Evidence: VII: In Brittany](ffcc126)  
-[Chapter III. Anthropological Examination of the Evidence](ffcc130)  
+[Chapter I: Environment](ffcc110.md)  
+[Chapter II. Taking of Evidence: I. General Introduction](ffcc120.md)  
+[Chapter II. Taking of Evidence: II. In Ireland](ffcc121.md)  
+[Chapter II. Taking of Evidence: III. In Scotland](ffcc122.md)  
+[Chapter II. Taking of Evidence: IV. In the Isle of Man](ffcc123.md)  
+[Chapter II. Taking of Evidence: V. In Wales](ffcc124.md)  
+[Chapter II. Taking of Evidence: VI. In Cornwall](ffcc125.md)  
+[Chapter II. Taking of Evidence: VII: In Brittany](ffcc126.md)  
+[Chapter III. Anthropological Examination of the Evidence](ffcc130.md)  
 <span id="section_001"></span>
 
 ### The Recorded Fairy-Faith
 
-[Chapter IV. People of the Goddess Dana](ffcc240)  
-[Chapter V. Brythonic Divinities](ffcc250)  
-[Chapter VI. Celtic Otherworld](ffcc260)  
-[Chapter VII. The Celtic Doctrine of Rebirth](ffcc270)  
+[Chapter IV. People of the Goddess Dana](ffcc240.md)  
+[Chapter V. Brythonic Divinities](ffcc250.md)  
+[Chapter VI. Celtic Otherworld](ffcc260.md)  
+[Chapter VII. The Celtic Doctrine of Rebirth](ffcc270.md)  
 <span id="section_002"></span>
 
 ### Section III. The Cult Of Gods, Spirits, Fairies, and the Dead
 
-[Chapter VIII. The Testimony of Archaeology](ffcc308)  
-[Chapter IX. The Testimony of Paganism](ffcc309)  
-[Chapter X. The Testimony of Christianity](ffcc310)  
+[Chapter VIII. The Testimony of Archaeology](ffcc308.md)  
+[Chapter IX. The Testimony of Paganism](ffcc309.md)  
+[Chapter X. The Testimony of Christianity](ffcc310.md)  
 <span id="section_003"></span>
 
 ### Section IV. Modern Science and the Fairy Faith; and Conclusions
 
-[Chapter XI. Science and Fairies](ffcc411)  
+[Chapter XI. Science and Fairies](ffcc411.md)  
 [Chapter XII. The Celtic Doctrine of Re-Birth and Otherworld
-Scientifically Examined](ffcc412)  
+Scientifically Examined](ffcc412.md)  

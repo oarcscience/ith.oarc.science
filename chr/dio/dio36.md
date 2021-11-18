@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio35)  [Next](dio37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio35)  [Next](dio37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ diptychs as one of the Doctors of the Church.
 
 ------------------------------------------------------------------------
 
-[Next: Liturgy of St. Dionysius, Bishop of the Athenians](dio37)
+[Next: Liturgy of St. Dionysius, Bishop of the Athenians](dio37.md)

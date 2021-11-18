@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc056) 
-[Next](motc058) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc056.md) 
+[Next](motc058.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ snake crawled away from the fire and down the bank into the river.
 
 ------------------------------------------------------------------------
 
-[Next: 58. The Rattlesnake's Vengeance](motc058)
+[Next: 58. The Rattlesnake's Vengeance](motc058.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](jo3)  [Next](rev) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](jo3)  [Next](rev.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ power, before all time and now and for ever. So be it.
 
 ------------------------------------------------------------------------
 
-[Next: Revelation](rev)
+[Next: Revelation](rev.md)

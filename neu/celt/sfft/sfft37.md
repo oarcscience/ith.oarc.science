@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft36)  [Next](sfft38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft36)  [Next](sfft38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="page_126">p. 126</span>
 
-### FAIRY TRANSPORTATION. <span id="fr_56"></span>[1](#fn_56)
+### FAIRY TRANSPORTATION. <span id="fr_56"></span>[1](#fn_56.md)
 
 THE power of the fairies was not confined to unchristened children
 alone; it was supposed frequently to be extended to full-grown persons,
@@ -66,9 +66,9 @@ churchyard, on the other side of the church."
 
 ### Footnotes
 
-<span id="fn_56"></span>[126:1](sfft37.htm#fr_56) Sir Waiter Scott,
+<span id="fn_56"></span>[126:1](sfft37.htm#fr_56.md) Sir Waiter Scott,
 *Minstrelsy of the Scottish Border*.
 
 ------------------------------------------------------------------------
 
-[Next: The Poor Man of Peatlaw](sfft38)
+[Next: The Poor Man of Peatlaw](sfft38.md)

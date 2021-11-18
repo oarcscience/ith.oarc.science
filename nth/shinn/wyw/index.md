@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Shinn](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Shinn](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](wyw00)    [Text](wyw.txt)
+[Contents](#contents)    [Start Reading](wyw00)    [Text](wyw.txt.md)
 
 ------------------------------------------------------------------------
 
@@ -34,33 +34,33 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](wyw00)  
-[Your Word Is Your Wand](wyw01)  
-[Success](wyw02)  
-[Prosperity](wyw03)  
-[Happiness](wyw04)  
-[Love](wyw05)  
-[Marriage](wyw06)  
-[Forgiveness](wyw07)  
-[Words of Wisdom](wyw08)  
-[Faith](wyw09)  
-[Loss](wyw10)  
-[Debt](wyw11)  
-[Sales](wyw12)  
-[Interviews](wyw13)  
-[Guidance](wyw14)  
-[Protection](wyw15)  
-[Memory](wyw16)  
-[The Divine Design](wyw17)  
-[Health](wyw18)  
-[Eyes](wyw19)  
-[Anaemia](wyw20)  
-[Ears](wyw21)  
-[Rheumatism](wyw22)  
-[False Growths](wyw23)  
-[Heart Disease](wyw24)  
-[Animals](wyw25)  
-[The Elements](wyw26)  
-[Journey](wyw27)  
-[Miscellaneous](wyw28)  
-[Conclusion](wyw29)  
+<span id="contents"></span> [Title Page](wyw00.md)  
+[Your Word Is Your Wand](wyw01.md)  
+[Success](wyw02.md)  
+[Prosperity](wyw03.md)  
+[Happiness](wyw04.md)  
+[Love](wyw05.md)  
+[Marriage](wyw06.md)  
+[Forgiveness](wyw07.md)  
+[Words of Wisdom](wyw08.md)  
+[Faith](wyw09.md)  
+[Loss](wyw10.md)  
+[Debt](wyw11.md)  
+[Sales](wyw12.md)  
+[Interviews](wyw13.md)  
+[Guidance](wyw14.md)  
+[Protection](wyw15.md)  
+[Memory](wyw16.md)  
+[The Divine Design](wyw17.md)  
+[Health](wyw18.md)  
+[Eyes](wyw19.md)  
+[Anaemia](wyw20.md)  
+[Ears](wyw21.md)  
+[Rheumatism](wyw22.md)  
+[False Growths](wyw23.md)  
+[Heart Disease](wyw24.md)  
+[Animals](wyw25.md)  
+[The Elements](wyw26.md)  
+[Journey](wyw27.md)  
+[Miscellaneous](wyw28.md)  
+[Conclusion](wyw29.md)  

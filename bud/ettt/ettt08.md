@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt07)  [Next](ettt09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt07)  [Next](ettt09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ Intangible Textual Heritage
 
 ### ALL-ACCOMPLISHING WISDOM
 
-### PRESIDED OVER BY AMOGHASIDDHI\][1](ettt08.htm#an_n_7:1)<span id="an_r_7:1"></span>
+### PRESIDED OVER BY AMOGHASIDDHI\][1](ettt08.htm#an_n_7:1.md)<span id="an_r_7:1"></span>
 
 ##### FOLIO 1
 
@@ -41,7 +41,7 @@ Buddha of Performance).
 
 This Buddha abides in the north of the Mandala. He is the fifth Buddha
 of the Five Buddhas of Tantricism and usually belongs to the last of the
-initiation series[2](ettt08.htm#an_n_7:2)<span id="an_r_7:2"></span>.
+initiation series[2](ettt08.htm#an_n_7:2.md)<span id="an_r_7:2"></span>.
 
 *Text*
 
@@ -117,7 +117,7 @@ The demons will be conquered and all your fears routed.
 
 ##### FOLIO 4
 
-*Picture:* The Fiery Water[3](ettt08.htm#an_n_7:3)<span
+*Picture:* The Fiery Water[3](ettt08.htm#an_n_7:3.md)<span
 id="an_r_7:3"></span> \[which conquers both cold and heat\]
 
 <span id="page_106">p. 106</span>
@@ -137,7 +137,7 @@ Thus you will be forever freed from the sufferings of Hell.
 
 *Du Da Ha Da Ha Sarwa Nara Gade Heru Hūṃ Pai!*
 
-(see note, Folios 26-41, [p. 115](#page_115))
+(see note, Folios 26-41, [p. 115](#page_115).md)
 
 ##### FOLIO 10
 
@@ -147,7 +147,7 @@ Thus you will be forever freed from the sufferings of Hell.
 
 *Hūṃ!* These are the Precious Wheels
 
-The Cross Symbols[4](ettt08.htm#an_n_7:4)<span id="an_r_7:4"></span> on
+The Cross Symbols[4](ettt08.htm#an_n_7:4.md)<span id="an_r_7:4"></span> on
 the human heart.
 
 I now impart this initiation to you, good disciples.
@@ -236,12 +236,12 @@ universal whole). May you thus attain the Initiation of the Immense
 Dharmakaya.
 
 (Then the Guru bestows the Pointing-Out
-Practice[5](ettt08.htm#an_n_7:5)<span id="an_r_7:5"></span> upon the
+Practice[5](ettt08.htm#an_n_7:5.md)<span id="an_r_7:5"></span> upon the
 disciples.)
 
 O, well-destined disciples: You should not think that the so-called
 Yab-Yum Adi Buddha is other than the Alaya Bodhi
-Heart[6](ettt08.htm#an_n_7:6)<span id="an_r_7:6"></span> of your own
+Heart[6](ettt08.htm#an_n_7:6.md)<span id="an_r_7:6"></span> of your own
 mind. Oh! the aware thinker at this very moment, bright, radiantly
 aware, transparent, itself is the absolute body of Adi Buddha, the
 original, the primordial Immutable Shelter.
@@ -381,7 +381,7 @@ is the Bodhisattva *Space-Essence*. The nose-consciousness, the one that
 smells, is the Bodhisattva *Self-Seeing.* The tongue-consciousness, the
 one that tastes, is the Bodhisattva *Thunderbolt-Holder*. The
 body-consciousness, the one that penetrates
-all[7](ettt08.htm#an_n_7:7)<span id="an_r_7:7"></span>, the illumined
+all[7](ettt08.htm#an_n_7:7.md)<span id="an_r_7:7"></span>, the illumined
 wisdom, is the Bodhisattva *Purger-of-Obstacles*. The kleśa-bound
 Mind-Consciousness, the one that perpetuates the ego, is the Bodhisattva
 \[called\] *All-Merits*. The base-of-all consciousness, the
@@ -489,7 +489,7 @@ I now impart the Initiation of the Four Meanings.
 <span id="page_114">p. 114</span>
 
 Having purified the realistic and nihilistic Four
-Extremes[8](ettt08.htm#an_n_7:8)<span id="an_r_7:8"></span>
+Extremes[8](ettt08.htm#an_n_7:8.md)<span id="an_r_7:8"></span>
 
 May you obtain the Initiation of Infinite Performances.
 
@@ -539,14 +539,14 @@ May you attain all these merits and powers! (The Pointing-Out Practice:)
 
 O well-destined disciples, the Four Female Buddhas are but the natural
 purification of the Thought of the Four
-Births[9](ettt08.htm#an_n_7:9)<span id="an_r_7:9"></span>. The birth
+Births[9](ettt08.htm#an_n_7:9.md)<span id="an_r_7:9"></span>. The birth
 from metamorphosis is the Iron-Chain Goddess; the natural purification
 of the thought of birth from the womb is the Rope Female Buddha. The
 natural purification of the thought of birth from eggs is the
 Iron-Fetter Female Buddha. The natural purification of the thought of
 the warmth-wetness is the Bell Goddess. From the very beginning they are
 identical! O well-gifted ones! You should definitely know these
-[truths](errata.htm#13)—as they are unmistakably true—and bear this
+[truths](errata.htm#13.md)—as they are unmistakably true—and bear this
 conviction with you.
 
 ##### FOLIOS 26-41
@@ -567,7 +567,7 @@ abandoned. The insubstantial or the perceiver that is devoid of any
 self-nature awareness manifests itself as the sixty Blood-Drinking
 Deities. As illustrated, in the Palace-Beyond-Measure in one's
 skull-brain, a group of Blood-Drinking Deities now actually and vividly
-dwell[10](ettt08.htm#an_n_7:10)<span id="an_r_7:10"></span>. The
+dwell[10](ettt08.htm#an_n_7:10.md)<span id="an_r_7:10"></span>. The
 forty-two Peaceful Deities with
 
 <span id="page_116">p. 116</span>
@@ -575,12 +575,12 @@ forty-two Peaceful Deities with
 their illuminate bodies, all now dwell in the Dharma Chakra in the heart
 center. Furthermore, all the hairs over your body are identical with the
 nature of Db’a-wo (Brave Deities). All the Pranas are the nature of
-Dakinis, all the White-Drops[11](ettt08.htm#an_n_7:11)<span
+Dakinis, all the White-Drops[11](ettt08.htm#an_n_7:11.md)<span
 id="an_r_7:11"></span> manifest in the form of the infinite Peaceful and
 Wrathful Sambhogakaya of the Father Buddhas. All the Red
-Drops[12](ettt08.htm#an_n_7:12)<span id="an_r_7:12"></span> (Ragda)
+Drops[12](ettt08.htm#an_n_7:12)<span id="an_r_7:12"></span> (Ragda.md)
 manifest in the form of the infinite Peaceful and Wrathful Sambhogakaya
-of the Mother Buddhas. The numerous nadis[13](ettt08.htm#an_n_7:13)<span
+of the Mother Buddhas. The numerous nadis[13](ettt08.htm#an_n_7:13.md)<span
 id="an_r_7:13"></span> of the body are the Dakinis. Therefore, your very
 body itself is the nature of the Mandala of the Peaceful and Wrathful
 Buddhas. Hence, you should never despise, abuse, or injure your body,
@@ -608,7 +608,7 @@ disciples.
 
 <span id="img_pl03"></span> <span align="CENTER"> [![PLATE
 III](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 PLATE III  
 </span>
 
@@ -652,7 +652,7 @@ Of this Skull-Initiation (a simpler type or Rite-Free Initiation), that
 Tantra gives the following explanation:
 
 "The Initiation tells the disciples whether the Outer Objects in the
-material world and Inner Essence[14](ettt08.htm#an_n_7:14)<span
+material world and Inner Essence[14](ettt08.htm#an_n_7:14.md)<span
 id="an_r_7:14"></span> within oneself are existent or non-existent, and
 in what sense they do or do not exist, by giving many symbols and
 explanations, such as the Sumeru Mountain, the Four Continents and the
@@ -673,7 +673,7 @@ Initiation.
 The Tantra also says:
 
 "If one knows one thing he knows all.  
- O, marvelous is the Nature of Equality![15](ettt08.htm#an_n_7:15)<span
+ O, marvelous is the Nature of Equality![15](ettt08.htm#an_n_7:15.md)<span
 id="an_r_7:15"></span>  
  If existent—Equality from the beginning!  
  If non-existent—Equality from the beginning!  
@@ -695,10 +695,10 @@ Extreme Rite-Free Initiation, and the Ultimate Rite-Free Initiation are
 all given to you; thus the sins, hindrances, and habitual thoughts of
 your body, mouth, and mind are all cleansed and actually become the Four
 Bodies of Buddha. Hereafter, you will benefit sentient beings in a
-natural way, without any [strenuous](errata.htm#14) effort.
+natural way, without any [strenuous](errata.htm#14.md) effort.
 
 To obtain pardon and give thanks, the Mandala should be offered; the
-assemblage should be [entertained](errata.htm#15) and exalted with
+assemblage should be [entertained](errata.htm#15.md) and exalted with
 dancing and singing. What remains after the festival should be given
 away as charity.
 
@@ -712,7 +712,7 @@ Initiation Rituals.
 *Samaya Chia Chia Chia!*
 
 May the message of the Argument-Free Adi
-Doctrine[16](ettt08.htm#an_n_7:16)<span id="an_r_7:16"></span> reach all
+Doctrine[16](ettt08.htm#an_n_7:16.md)<span id="an_r_7:16"></span> reach all
 the corners of the world at all times. May this teaching be spread and
 magnified on the earth and last for ages.
 
@@ -725,54 +725,54 @@ Blessings to all!
 
 ##### NOTES
 
-[1](ettt08.htm#an_r_7:1)<span id="an_n_7:1"></span>. The manuscript of
+[1](ettt08.htm#an_r_7:1.md)<span id="an_n_7:1"></span>. The manuscript of
 these initiations presents a series of colored images of god-forms, with
 explanatory text on the verso sides and on supplementary folios
 containing the most profound ideas, most explicitly expressed, of any of
 the seven initiation texts here given.—Ed.
 
-[2](ettt08.htm#an_r_7:2)<span id="an_n_7:2"></span>. The translator
+[2](ettt08.htm#an_r_7:2.md)<span id="an_n_7:2"></span>. The translator
 believes the folios of the other four Buddhas are missing. The first few
 lines of the text are indiscernible.
 
-[3](ettt08.htm#an_r_7:3)<span id="an_n_7:3"></span>. *Fiery Water:* For
+[3](ettt08.htm#an_r_7:3.md)<span id="an_n_7:3"></span>. *Fiery Water:* For
 human beings, fire is fire and water is water. This is not so for
 sentient beings in Hell. For them, cool water they try to drink turns to
 fire, and fire by which they try to warm themselves turns to cold water.
 Hence the term "Fiery Water" is used to convey the absence of
 self-nature in this nether-world phenomenon.
 
-[4](ettt08.htm#an_r_7:4)<span id="an_n_7:4"></span>. *Cross Symbols
+[4](ettt08.htm#an_r_7:4.md)<span id="an_n_7:4"></span>. *Cross Symbols
 (Rgya-gram):* In Tibetan, this term may refer either to the symbol of
 the crossed thunderbolts or that symbol we call the swastika. Here it
 means crossed thunderbolts.
 
-[5](ettt08.htm#an_r_7:5)<span id="an_n_7:5"></span>. *Pointing-Out
+[5](ettt08.htm#an_r_7:5.md)<span id="an_n_7:5"></span>. *Pointing-Out
 Practice:* This is the practice by which the Guru points out
 (illustrates) to the disciple, during the initiation, his original
 Buddha-nature. This is a special practice of the Red and White Schools
 of Tibetan Buddhism.
 
-[6](ettt08.htm#an_r_7:6)<span id="an_n_7:6"></span>. *Alaya Bodhi
+[6](ettt08.htm#an_r_7:6.md)<span id="an_n_7:6"></span>. *Alaya Bodhi
 Heart:* "Alaya" is the term meaning "foundation of all." Here the term
 is used in connection with Bodhi-heart, implying that the Vow of
 Bodhisattva is the foundation and source of all Buddhist teachings.
 
-[7](ettt08.htm#an_r_7:7)<span id="an_n_7:7"></span>. This refers to the
+[7](ettt08.htm#an_r_7:7.md)<span id="an_n_7:7"></span>. This refers to the
 most active and versatile consciousness, generally called mental, which
 Buddhists classify as the Sixth Consciousness.
 
-[8](ettt08.htm#an_r_7:8)<span id="an_n_7:8"></span>. *Four Extremes:*
+[8](ettt08.htm#an_r_7:8.md)<span id="an_n_7:8"></span>. *Four Extremes:*
 (1) The Extreme of Existence; (z) The Extreme of Non-Existence; (3) The
 Extreme of both Existence and Non-Existence; (4) The Extremes of neither
 Existence nor Non-Existence.
 
-[9](ettt08.htm#an_r_7:9)<span id="an_n_7:9"></span>. *Thought of the
+[9](ettt08.htm#an_r_7:9.md)<span id="an_n_7:9"></span>. *Thought of the
 Four Births:* From the transcendental viewpoint, there is no birth nor
 death. The Four Births of Saṃsara are dreamlike and unreal; they are
 merely thoughts, not the real beings.
 
-[10](ettt08.htm#an_r_7:10)<span id="an_n_7:10"></span> This is the
+[10](ettt08.htm#an_r_7:10.md)<span id="an_n_7:10"></span> This is the
 esoteric teaching of this initiation: that all the
 
 <span id="page_121">p. 121</span>
@@ -780,28 +780,28 @@ esoteric teaching of this initiation: that all the
 <span class="contnote">\[paragraph continues\]</span> Wrathful Buddhas
 are reflected or manifested through the psychic center in the head.
 
-[11](ettt08.htm#an_r_7:11)<span id="an_n_7:11"></span>. *White Drops:*
+[11](ettt08.htm#an_r_7:11.md)<span id="an_n_7:11"></span>. *White Drops:*
 The life-force (physically, semen) of the male.
 
-[12](ettt08.htm#an_r_7:12)<span id="an_n_7:12"></span>. *Red Drops:* The
+[12](ettt08.htm#an_r_7:12.md)<span id="an_n_7:12"></span>. *Red Drops:* The
 life-force of the female.
 
-[13](ettt08.htm#an_r_7:13)<span id="an_n_7:13"></span>. *Nadis (Skt.):*
+[13](ettt08.htm#an_r_7:13)<span id="an_n_7:13"></span>. *Nadis (Skt..md):*
 Follicles; all the tubes and nerves in the body; Tibetan, Riser.
 \[Actually the nadis (rTsa) are not part of the physical body, but are
 subtle channels for the conveyance of prana.—*Ed*.\]
 
-[14](ettt08.htm#an_r_7:14)<span id="an_n_7:14"></span>. *Inner Essence*,
+[14](ettt08.htm#an_r_7:14.md)<span id="an_n_7:14"></span>. *Inner Essence*,
 here, refers to the disciple's consciousness.
 
-[15](ettt08.htm#an_r_7:15)<span id="an_n_7:15"></span>. The Nature of
+[15](ettt08.htm#an_r_7:15.md)<span id="an_n_7:15"></span>. The Nature of
 Equality is one of the most important aspects of the Prajna-Paramita.
 From the viewpoint of absolute enlightenment, all things appear equal.
 \[Instead of "equal," to say "partaking of the same ultimate nature"
 would probably be more accurate.—*Ed*.\] Therefore, Tantrism [declares
-that](errata.htm#16) Nirvana is Saṃsāra and Saṃsara is Nirvana.
+that](errata.htm#16.md) Nirvana is Saṃsāra and Saṃsara is Nirvana.
 
-[16](ettt08.htm#an_r_7:16)<span id="an_n_7:16"></span>. *Argument-Free
+[16](ettt08.htm#an_r_7:16.md)<span id="an_n_7:16"></span>. *Argument-Free
 Adi Doctrine:* Traditionally, this term carries two meanings: (1) It
 refers to the nature of the Adi Doctrine beyond arguments, opinions, and
 "play words"; (2) It refers to the tradition of the Red School which, in
@@ -812,6 +812,6 @@ and arguments.
 
 ------------------------------------------------------------------------
 
-[Next: Prologue](ettt09)
+[Next: Prologue](ettt09.md)
 
 </div>

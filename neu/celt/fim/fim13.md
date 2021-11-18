@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fim12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fim12.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 |                     |
 |---------------------|
-| ![N](img/ninit.jpg) |
+| ![N](img/ninit.jpg.md) |
 
 O account of the Customs and Superstitions of the Manx would be complete
 without touching upon their proverbs and characteristic sayings. For
@@ -109,7 +109,7 @@ with his tools."
 
 *Obbyr dyn sharrey, obbyr dyn booise*.  
 "Work without desire, work without thanks"--*i.e.*,
-"[Proffered](errata.htm#42) service stinks."
+"[Proffered](errata.htm#42.md) service stinks."
 
 *Sooree ghiare, yn tooree share*.  
 "Short courting, the best courting."
@@ -374,7 +374,7 @@ yourself and spending money remember you will have to pay for it.
 *Share goll dy lie fegooish shibber na girree ayns lhiastynys*.  
 "Better to go to bed supperless than to get up in debt."
 
-*Taa aaa pharick* <span id="fr_143"></span>[1](#fn_139) *jannoo un
+*Taa aaa pharick* <span id="fr_143"></span>[1](#fn_139.md) *jannoo un
 ghimmagh*.  
 "Two small lobsters make a big one "--*i.e.*, "Many a little makes a
 mickle."
@@ -677,7 +677,7 @@ to have been consequently obliged to travel on foot.
 
 ### Footnotes
 
-<span id="fn_139"></span>[187:1](fim13.htm#fr_143) "Patricks," a slang
+<span id="fn_139"></span>[187:1](fim13.htm#fr_143.md) "Patricks," a slang
 word for a lobster.
 
  

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](tcr13)  [Next](tcr15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](tcr13)  [Next](tcr15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930985/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930985/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -2469,4 +2469,4 @@ taught in His Word.
 
 ------------------------------------------------------------------------
 
-[Next: 701-750](tcr15)
+[Next: 701-750](tcr15.md)

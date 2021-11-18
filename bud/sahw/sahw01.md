@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw00)  [Next](sahw02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw00)  [Next](sahw02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -40,4 +40,4 @@ Tokyo, 20 March 1910.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sahw02)
+[Next: Contents](sahw02.md)

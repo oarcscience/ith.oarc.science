@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](khz00)  [Next](khz02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](khz00)  [Next](khz02.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,7 +77,7 @@ and its Passive Intellect is so closely connected therewith that both
 are but one. The person \[of such perfection\] thus observes that he is
 The Active Intellect himself, and that there is no difference between
 them. His organs--I mean the limbs of such a person--only serve for the
-most perfect purposes, in the most [appropriate](errata.htm#0) time, and
+most perfect purposes, in the most [appropriate](errata.htm#0.md) time, and
 in the best condition, as if they were the organs of the Active
 Intellect, but not of the material and passive Intellect, which used
 them at an earlier period, sometimes well, but more often improperly.
@@ -1048,7 +1048,7 @@ of the Ten Commandments, and Moses had ascended the mount in order to
 receive the inscribed tables which he was to bring down to them, and
 then make an ark which was to be the point towards which they should
 direct their gaze during their devotions, <span
-id="fr_0"></span>[\*](#fn_0) they waited for his return clad in the same
+id="fr_0"></span>[\*](#fn_0.md) they waited for his return clad in the same
 apparel in which they had witnessed the drama on Sinai, without removing
 their jewels or changing their clothes, remaining just as he left them,
 expecting every moment to see him return. He, however, tarried forty
@@ -1447,7 +1447,7 @@ for it.
 
 ### Footnotes
 
-<span id="fn_0"></span>[68:\*](khz01.htm#fr_0) In the original, a clause
+<span id="fn_0"></span>[68:\*](khz01.htm#fr_0.md) In the original, a clause
 is inserted which I place here in order to facilitate the reading: In
 this was the divine covenant and God's latest creation, the tablets. To
 it also belonged the cloud, the *Urim*, and all miracles by its
@@ -1455,4 +1455,4 @@ instrumentality.
 
 ------------------------------------------------------------------------
 
-[Next: Part Two](khz02)
+[Next: Part Two](khz02.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly07)  [Next](lly09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly07)  [Next](lly09.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ upon all who pass his throne.
 
 ------------------------------------------------------------------------
 
-[Next: Ribbon Fall](lly09)
+[Next: Ribbon Fall](lly09.md)

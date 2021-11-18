@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](trs01)  [Next](trs03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](trs01)  [Next](trs03.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,48 +11,48 @@ Heritage
 
 <span class="margnote">Greek writers upon Egyptian
 hieroglyphics.</span>To **Hecataeus** of Miletus, <span
-id="fr_5"></span>[1](#fn_5) who visited Egypt between B.C. 513-501, we
+id="fr_5"></span>[1](#fn_5.md) who visited Egypt between B.C. 513-501, we
 owe, through **Herodotus**, much knowledge of Egypt, and he must be
 considered the earliest Greek writer upon Egypt. **Hellanitus** of
 Mytilene, B.C. 478-393, shows in his Αιγυπτιακὰ that he has some
 accurate knowledge of the meaning of some hieroglyphic words. <span
-id="fr_6"></span>[2](#fn_6) Democritus wrote upon the hieroglyphics of
-Meroë, <span id="fr_7"></span>[3](#fn_7) but this work is lost.
+id="fr_6"></span>[2](#fn_6.md) Democritus wrote upon the hieroglyphics of
+Meroë, <span id="fr_7"></span>[3](#fn_7.md) but this work is lost.
 **Herodotus** says that the Egyptians used two quite different kinds of
 writing, one of which is called sacred (hieroglyphic), the other
-common <span id="fr_8"></span>[4](#fn_8) (demotic). **Diodorus** says
+common <span id="fr_8"></span>[4](#fn_8) (demotic.md). **Diodorus** says
 that the Ethiopian letters are called by the Egyptians
-"hieroglyphics." <span id="fr_9"></span>[5](#fn_9) **Strabo**, speaking
+"hieroglyphics." <span id="fr_9"></span>[5](#fn_9.md) **Strabo**, speaking
 of the obelisks at Thebes, says that there are inscriptions upon them
 which proclaim the riches and power of their kings, and that their rule
 extends even to Scythia, Bactria, and India. <span
-id="fr_10"></span>[6](#fn_10) **Chaeremon** of Naucratis, who lived in
+id="fr_10"></span>[6](#fn_10.md) **Chaeremon** of Naucratis, who lived in
 the first half of the first century after Christ, <span
-id="fr_11"></span>[7](#fn_11) and who must be an entirely different
+id="fr_11"></span>[7](#fn_11.md) and who must be an entirely different
 person from Chaeremon the companion of Aelius Gallus (B.C. 25),
 
 <span id="page_113">p. 113</span>
 
 <span class="margnote">Greek writers upon Egyptian
 hieroglyphics.</span>derided by Strabo, <span
-id="fr_12"></span>[1](#fn_12) and charged with lying by Josephus, <span
-id="fr_13"></span>[2](#fn_13) wrote a work on Egyptian
-hieroglyphics <span id="fr_14"></span>[3](#fn_14), περὶ τῶν ἱερῶν
+id="fr_12"></span>[1](#fn_12.md) and charged with lying by Josephus, <span
+id="fr_13"></span>[2](#fn_13.md) wrote a work on Egyptian
+hieroglyphics <span id="fr_14"></span>[3](#fn_14.md), περὶ τῶν ἱερῶν
 γραμμάτων, which has been lost. He appears to have been attached to the
 great library of Alexandria, and as he was a "sacred scribe," it may
 therefore be assumed that he had access to many important works on
 hieroglyphics, and that he understood them. He is mentioned by
-Eusebius <span id="fr_15"></span>[4](#fn_15) as Χαιρήμων ὁ
-ἱερογραμματεύς, and by Suidas, <span id="fr_16"></span>[5](#fn_16) but
+Eusebius <span id="fr_15"></span>[4](#fn_15.md) as Χαιρήμων ὁ
+ἱερογραμματεύς, and by Suidas, <span id="fr_16"></span>[5](#fn_16.md) but
 neither of these writers gives any information as to the contents of his
 work on hieroglyphics, and we should have no idea of the manner of work
 it was but for the extract preserved by <span class="margnote">John
 Tzetzes on Egyptian hieroglyphics.</span>**John Tzetzes** (Τζέτζης, born
 about AḌ. 1110, died after AḌ. 1180). Tzetzes was a man of considerable
 learning and literary activity, and his works <span
-id="fr_17"></span>[6](#fn_17) have value on account of the lost books
+id="fr_17"></span>[6](#fn_17.md) have value on account of the lost books
 which are quoted in them. In his *Chiliades* <span
-id="fr_18"></span>[7](#fn_18) (Bk. V., line 395) he speaks of ὁ
+id="fr_18"></span>[7](#fn_18) (Bk. V., line 395.md) he speaks of ὁ
 Αἰγύπτιος ἱερογραμματεὺς Χαιρήμων, and refers to Chaeremon's διδάγματα
 τῶν ἱερῶν γραμμάτων. In his Exegesis of Homer's Iliad he gives an
 extract from the work itself, and we are able to see at once that it was
@@ -62,7 +62,7 @@ late Dr. Birch, who published a paper on it in the *Transactions of the
 Royal Society of Literature*, Vol. III., second series, 1850, pp.
 385-396. In it he quoted the Greek text of the extract, from the edition
 of Tzetzes' *Exegesis*, first published by Hermann, <span
-id="fr_19"></span>[8](#fn_19) and added remarks and hieroglyphic
+id="fr_19"></span>[8](#fn_19.md) and added remarks and hieroglyphic
 characters illustrative of it, together with the scholia of Tzetzes, the
 text of which he emended in places. As this extract is so important for
 the history of
@@ -78,7 +78,7 @@ an English translation.
 </span><span id="img_11400"></span>
 
 [![Extract from Tzetzes' work on the Iliad](tn/11400.jpg)  
-Click to enlarge](img/11400.jpg)  
+Click to enlarge](img/11400.jpg.md)  
   
 
 <span class="margnote">Translation of the extract.</span>"Now, Homer
@@ -136,7 +136,7 @@ come forth, to rise" (of the sun) \]
 \[Compare <span id="img_11510"></span> ![](img/11510.jpg) *āq*, "to
 enter, to set" (of the sun).\]
 
-7\. "For *vivification*, a frog." <span id="fr_20"></span>[1](#fn_20)
+7\. "For *vivification*, a frog." <span id="fr_20"></span>[1](#fn_20.md)
 
 \[The frog <span id="img_11511"></span> ![](img/11511.jpg), *ḥefennu*,
 means 100,000, hence fertility and abundance of life.\]
@@ -228,10 +228,10 @@ determinative of <span id="img_11706"></span> ![](img/11706.jpg) *ȧan*,
 "And others by the thousand. And by means of these characters Homer says
 this. But I will proceed in another place, if you please, to explain the
 pronunciation of those characters in Ethiopic fashion, as I have learnt
-it from Chaeremon." <span id="fr_21"></span>[1](#fn_21)
+it from Chaeremon." <span id="fr_21"></span>[1](#fn_21.md)
 
 <span class="margnote">Extract from Tzetzes.</span>In another
-place <span id="fr_22"></span>[2](#fn_22) Tzetzes says, "Moreover, he
+place <span id="fr_22"></span>[2](#fn_22.md) Tzetzes says, "Moreover, he
 was not uninitiated into the symbolic Ethiopian characters, the nature
 of which we will expound in the proper places. All this demonstrates
 that Homer was instructed in Egypt," ναὶ μὴν οὐδὲ τῶν Αἰθιοπικῶν
@@ -247,7 +247,7 @@ that Homer was instructed in Egypt," ναὶ μὴν οὐδὲ τῶν Αἰθ�
 ὀ͂ιδε παῤῥησιάζεται. Χαιρήμων δὲ ὁ ἱερογραμματεὺς ὅλην βίβλον περὶ τῶν
 τοιούτων γραμμάτων συνέταξεν. ἅτινα, ἐν τοῖς τρο\[σφόροις\] τόποις τῶν
 Ὁμηρείων ἐπῶν ἀ\[κρι\]βέστερον καὶ πλατυτέρωσ ἐρῶ <span
-id="fr_23"></span>[1](#fn_23) "Diodorus made mention of the Ethiopian
+id="fr_23"></span>[1](#fn_23.md) "Diodorus made mention of the Ethiopian
 characters and spoke particularly, yet as though he had learnt by
 hearsay from another and did not understand them accurately himself,
 although he set down some of them, as though he were talking confidently
@@ -261,7 +261,7 @@ promise, has not come down to us.
 Hermapion.</span>One of the most valuable extracts from the works of
 Greek and Roman writers on Egypt is that from a translation of an
 Egyptian obelisk by **Hermapion**, preserved by Ammianus
-Marcellinus; <span id="fr_24"></span>[2](#fn_24) unfortunately, however,
+Marcellinus; <span id="fr_24"></span>[2](#fn_24.md) unfortunately, however,
 neither the name of Hermapion's work nor the time in which he lived is
 known. This extract consists of the Greek translation of six lines of
 hieroglyphics: three lines are from the south side of the obelisk, one
@@ -299,9 +299,9 @@ gods give to him life like the Sun for ever," etc.
 <span class="margnote">Flaminian obelisk.</span>The Flaminian obelisk,
 from which the Egyptian passages given above are taken, was brought from
 Heliopolis to Rome by Augustus, and placed in the Circus Maximus, <span
-id="fr_25"></span>[1](#fn_25) whence it was dug out; it now stands in
+id="fr_25"></span>[1](#fn_25.md) whence it was dug out; it now stands in
 the Piazza del Popolo at Rome, where it was set up by Pope Sixtus V. in
-1589. <span id="fr_26"></span>[2](#fn_26) This obelisk was originally
+1589. <span id="fr_26"></span>[2](#fn_26.md) This obelisk was originally
 set up by Seti I., whose inscriptions occupy the middle column of the
 north, south, and west sides; the other columns of hieroglyphics record
 the names and titles of Rameses II. who, in this case, appropriated the
@@ -325,7 +325,7 @@ hieroglyphics are of value is Clement of Alexandria, who flourished
 about AḌ. 191-220. According to Champollion, "un seul auteur grec, . . .
 . . . . . . a démêlé et signalé, dans l’écriture égyptienne sacrée, les
 élémens phonétiques, lesquels en sont, pour ainsi dire, le principe
-vital <span id="fr_27"></span>[1](#fn_27) . . . . . Clément d’Alexandrie
+vital <span id="fr_27"></span>[1](#fn_27.md) . . . . . Clément d’Alexandrie
 s’est, lui seul, occasionnellement attaché à en donner une idée claire;
 et ce philosophe chrétien était, bien plus que tout autre, en position
 d’en être bien instruit. Lorsque mes recherches et l’étude constante des
@@ -338,12 +338,12 @@ jusquelà. J’avoue que ses termes me semblèrent alors si positifs et si
 clairs, et les idées qu’il renferme si exactement conformes à ma théorie
 de l’écriture hiéroglyphique, que je dus craindre aussi de me livrer à
 une illusion et à un entraînement dont tout me commandait de me
-défier." <span id="fr_28"></span>[2](#fn_28) From the above it will be
+défier." <span id="fr_28"></span>[2](#fn_28.md) From the above it will be
 seen what a high value Champollion placed on the statements concerning
 the hieroglyphics by Clement, and they have, in consequence, formed the
 subject of various works by eminent authorities. In his *Précis* (p.
 328), Champollion gives the extract from Clement with a Latin
-translation and remarks by Letronne. <span id="fr_29"></span>[3](#fn_29)
+translation and remarks by Letronne. <span id="fr_29"></span>[3](#fn_29.md)
 Dulaurier in his *Examen d’un passage des Stromates de Saint Clément
 d’Alexandrie*, Paris, 1833, again published the passage and gave many
 explanations of words in it, and commented learnedly upon it. (See also
@@ -353,13 +353,13 @@ explanations of words in it, and commented learnedly upon it. (See also
 <span class="contnote">\[paragraph continues\]</span> Bunsen's
 *Aegyptens Stelle*, Bd. I., p. 240, and Thierbach, *Erklärung auf das
 Aegyptische Schriftwesen*, Erfurt, 1846.) The passage is as
-follows <span id="fr_30"></span>[1](#fn_30):—
+follows <span id="fr_30"></span>[1](#fn_30.md):—
 
 <span class="margnote">Clement of Alexandria on hieroglyphics.</span>
 <span id="img_12100"></span>
 
 [![](tn/12100.jpg)  
-Click to enlarge](img/12100.jpg)
+Click to enlarge](img/12100.jpg.md)
 
 <span class="margnote">Translation of extract from Clement.</span>"For
 example, those that are educated among the Egyptians first of all learn
@@ -407,7 +407,7 @@ water flowing from it represented a "libation "; II. *tropical*, *e.g.*,
 represent "month," <span id="img_12205"></span> ![](img/12205.jpg), a
 reed and palette to represent "writing" or "scribe"; and III.
 *enigmatic*, *e.g.*, <span id="img_12206"></span> ![](img/12206.jpg), a
-beetle, to represent the "sun." <span id="fr_31"></span>[1](#fn_31) In
+beetle, to represent the "sun." <span id="fr_31"></span>[1](#fn_31.md) In
 modern Egyptian Grammars the matter is stated more simply, and we see
 that hieroglyphic signs are used in two ways: I. Ideographic, II.
 Phonetic. <span id="img_12207"></span> ![](img/12207.jpg) *māu*,
@@ -431,12 +431,12 @@ id="img_12303"></span> ![](img/12303.jpg) *men*, <span
 id="img_12304"></span> ![](img/12304.jpg) *chen*, etc.
 
 Porphyry the Philosopher, who died about AḌ. 305, says of
-Pythagoras: <span id="fr_32"></span>[1](#fn_32)—
+Pythagoras: <span id="fr_32"></span>[1](#fn_32.md)—
 
 <span id="img_12305"></span>
 
 [![](tn/12305.jpg)  
-Click to enlarge](img/12305.jpg)
+Click to enlarge](img/12305.jpg.md)
 
 <span class="margnote">Pythagoras and hieroglyphics.</span>
 
@@ -458,97 +458,97 @@ class="margnote">Letronne's summary.</span>
 
 ### Footnotes
 
-<span id="fn_5"></span>[112:1](trs02.htm#fr_5) See *De rerum
+<span id="fn_5"></span>[112:1](trs02.htm#fr_5.md) See *De rerum
 Aegyptiacarum scriptoribus Graecis ante Alexandrum Magnum*, in
 *Philologus*, Bd. X. s. 525.
 
-<span id="fn_6"></span>[112:2](trs02.htm#fr_6) See the instances quoted
+<span id="fn_6"></span>[112:2](trs02.htm#fr_6.md) See the instances quoted
 in *Philologus*, Bd. X. s. 539.
 
-<span id="fn_7"></span>[112:3](trs02.htm#fr_7) Περὶ ἐν Μερόῃ ἱερῶν
+<span id="fn_7"></span>[112:3](trs02.htm#fr_7.md) Περὶ ἐν Μερόῃ ἱερῶν
 γραμμάτων. Diogenes Laertius, *Vit. Democ*., ed. Isaac Casaubon, 1593,
 p. 661.
 
-<span id="fn_8"></span>[112:4](trs02.htm#fr_8) Καὶ τὰ μὲν αὐτῶν ἱρὰ, τὰ
+<span id="fn_8"></span>[112:4](trs02.htm#fr_8.md) Καὶ τὰ μὲν αὐτῶν ἱρὰ, τὰ
 δὲ δημοτικὰ καλὲεται. Herodotus, II. 36, ed. Didot, p. 84.
 
-<span id="fn_9"></span>[112:5](trs02.htm#fr_9) Diodorus, III. 4, ed.
+<span id="fn_9"></span>[112:5](trs02.htm#fr_9.md) Diodorus, III. 4, ed.
 Didot, p. 129.
 
-<span id="fn_10"></span>[112:6](trs02.htm#fr_10) Strabo, XVII. I, § 46,
+<span id="fn_10"></span>[112:6](trs02.htm#fr_10.md) Strabo, XVII. I, § 46,
 ed. Didot, p. 693•
 
-<span id="fn_11"></span>[112:7](trs02.htm#fr_11) According to Mommsen he
+<span id="fn_11"></span>[112:7](trs02.htm#fr_11.md) According to Mommsen he
 came to Rome, as tutor to Nero, in the reign of Claudius. *Provinces of
 Rom*e, Vol. II. pp. 259, 273.
 
-<span id="fn_12"></span>[113:1](trs02.htm#fr_12) Γελώμενος δὲ τὸ πλέον
+<span id="fn_12"></span>[113:1](trs02.htm#fr_12.md) Γελώμενος δὲ τὸ πλέον
 ὡς ἀλαζὼν καὶ ἰδιώτησ. Strabo, XVII. 1, § 29, ed. Didot, p. 685.
 
-<span id="fn_13"></span>[113:2](trs02.htm#fr_13) *Contra Apion*., I. 32
+<span id="fn_13"></span>[113:2](trs02.htm#fr_13.md) *Contra Apion*., I. 32
 ff. On the identity of Chaeremon the Stoic philosopher with Chaeremon
 the ἱερογραμματεὺς, see Zeller, *Hermes*, XI.
 
-<span id="fn_14"></span>[113:3](trs02.htm#fr_14) 431. His other lost
+<span id="fn_14"></span>[113:3](trs02.htm#fr_14.md) 431. His other lost
 work, Αἰγυπτιακά, treated of the Exodus.
 
-<span id="fn_15"></span>[113:4](trs02.htm#fr_15) *Praep. Evang.*, v. 10,
+<span id="fn_15"></span>[113:4](trs02.htm#fr_15.md) *Praep. Evang.*, v. 10,
 ed. Gaisford, t. 1, p. 421.
 
-<span id="fn_16"></span>[113:5](trs02.htm#fr_16) Sub voce Ἱερογλυφικά.
+<span id="fn_16"></span>[113:5](trs02.htm#fr_16.md) Sub voce Ἱερογλυφικά.
 
-<span id="fn_17"></span>[113:6](trs02.htm#fr_17) For an account of them
+<span id="fn_17"></span>[113:6](trs02.htm#fr_17.md) For an account of them
 see Krumbacher, *Geschichte aer Byzantinischen Literatur*, München,
 1891, pp. 235-242.
 
-<span id="fn_18"></span>[113:7](trs02.htm#fr_18) Ed. Kiessling, Leipzig,
+<span id="fn_18"></span>[113:7](trs02.htm#fr_18.md) Ed. Kiessling, Leipzig,
 1826, p. 191.
 
-<span id="fn_19"></span>[113:8](trs02.htm#fr_19) Draconis Stratonicensis
+<span id="fn_19"></span>[113:8](trs02.htm#fr_19.md) Draconis Stratonicensis
 Liber de Metris Poeticis. Joannis Tzetzae Exegesis in Homeri Iliadem.
 Primum edidit . . . God. Hermannus, Lipsiae, 1812.
 
-<span id="fn_20"></span>[115:1](trs02.htm#fr_20) But compare Horapollo,
+<span id="fn_20"></span>[115:1](trs02.htm#fr_20.md) But compare Horapollo,
 (ed. Leemans, p. 33), Ἄπλαστον δὲ ἄνθρωπον γράφοντες, βάτραχον
 ζωγραφοῦσιν.
 
-<span id="fn_21"></span>[117:1](trs02.htm#fr_21) Hermann, p. 123, ll.
+<span id="fn_21"></span>[117:1](trs02.htm#fr_21.md) Hermann, p. 123, ll.
 2-29; Bachmann, p. 823, ll. 12-34.
 
-<span id="fn_22"></span>[117:2](trs02.htm#fr_22) Hermann, p. 17, ll.
+<span id="fn_22"></span>[117:2](trs02.htm#fr_22.md) Hermann, p. 17, ll.
 21-25; Bachmann, p. 755, ll. 9-12.
 
-<span id="fn_23"></span>[118:1](trs02.htm#fr_23) Hermann, p. 146, ll.
+<span id="fn_23"></span>[118:1](trs02.htm#fr_23.md) Hermann, p. 146, ll.
 12-22; Bachmann, p. 838, ll. 31-37.
 
-<span id="fn_24"></span>[118:2](trs02.htm#fr_24) Liber XVII. 4.
+<span id="fn_24"></span>[118:2](trs02.htm#fr_24.md) Liber XVII. 4.
 
-<span id="fn_25"></span>[119:1](trs02.htm#fr_25) Qui autem notarum
+<span id="fn_25"></span>[119:1](trs02.htm#fr_25.md) Qui autem notarum
 textus obelisco incisus est veteri, quem videmus in Circo etc. Ammianus
 Marcellinus, XVII. 4, § 17. It seems to be referred to in Pliny, XXXVI.
 29.
 
-<span id="fn_26"></span>[119:2](trs02.htm#fr_26) For a comparative table
+<span id="fn_26"></span>[119:2](trs02.htm#fr_26.md) For a comparative table
 of obelisks standing in 1840, see Bonomi, *Notes on Obelisks*, in
 *Trans. Royal Soc. Lit.*, Vol. I. Second Series, p. 158.
 
-<span id="fn_27"></span>[120:1](trs02.htm#fr_27) *Précis du Système
+<span id="fn_27"></span>[120:1](trs02.htm#fr_27.md) *Précis du Système
 hiéroglyphique des anciens Egyptiens*, Paris, 1824, p. 321.
 
-<span id="fn_28"></span>[120:2](trs02.htm#fr_28) *Précis*, p. 327.
+<span id="fn_28"></span>[120:2](trs02.htm#fr_28.md) *Précis*, p. 327.
 
-<span id="fn_29"></span>[120:3](trs02.htm#fr_29) See also *Œuvres
+<span id="fn_29"></span>[120:3](trs02.htm#fr_29.md) See also *Œuvres
 Choisies*, t. I. pp. 237-254.
 
-<span id="fn_30"></span>[121:1](trs02.htm#fr_30) *Clem. Alex.,* ed.
+<span id="fn_30"></span>[121:1](trs02.htm#fr_30.md) *Clem. Alex.,* ed.
 Dindorf, t. III. *Strom*. lib. V. §§ 20, 21, pp. 17, 18.
 
-<span id="fn_31"></span>[122:1](trs02.htm#fr_31) Champollion, Précis, p.
+<span id="fn_31"></span>[122:1](trs02.htm#fr_31.md) Champollion, Précis, p.
 278.
 
-<span id="fn_32"></span>[123:1](trs02.htm#fr_32) Porphyry, *De Vita
+<span id="fn_32"></span>[123:1](trs02.htm#fr_32.md) Porphyry, *De Vita
 Pythagorae*, cd. Didot, § 11, p. 89, at the foot.
 
 ------------------------------------------------------------------------
 
-[Next: Post-Antiquity writings on Hieroglyphics](trs03)
+[Next: Post-Antiquity writings on Hieroglyphics](trs03.md)

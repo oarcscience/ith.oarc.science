@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Next](gio01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Next](gio01.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,19 +23,19 @@
 <span id="img_front"></span>
 
 [![Frontispiece](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece  
 
 <span id="img_cover"></span>
 
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="page_ii">p. ii</span>
@@ -44,4 +44,4 @@ COPYRIGHT 1935, JAPAN SOCIETY
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](gio01)
+[Next: Foreword](gio01.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah90)  [Next](oah92) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah90)  [Next](oah92.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ kingdoms; and the earth and the inhabitants thereof shall be divided
 between them.
 
 5\. And thou shalt build a new kingdom in heaven, and call it Gau, <span
-id="fr_19"></span>[1](#fn_19) and it shall be thy judgment seat, with a
+id="fr_19"></span>[1](#fn_19.md) and it shall be thy judgment seat, with a
 Council of one hundred thousand men and women.
 
 6\. And all thy Lords shall be called Apollo! And they shall inspire men
@@ -59,9 +59,9 @@ doing, he shall learn to perceive beauty and harmony in My works.
 
 ### Footnotes
 
-<span id="fn_19"></span>[117a:1](oah91.htm#fr_19) Gau is also mentioned
+<span id="fn_19"></span>[117a:1](oah91.htm#fr_19.md) Gau is also mentioned
 in the Vedic scriptures as the home of the God, Sughdha.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](oah92)
+[Next: Chapter V](oah92.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](rac11)  [Next](rac13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](rac11)  [Next](rac13.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ whose parentage is partly divine, and who may themselves have been gods.
 One mark of the Celtic gods is their great stature. No house could
 contain Bran, and certain divine people of Elysium who appeared to Fionn
 had rings "as thick as a three-ox goad." <span
-id="fr_515"></span>[1](#fn_514) Even the Fians are giants, and the skull
+id="fr_515"></span>[1](#fn_514.md) Even the Fians are giants, and the skull
 of one of them could contain several men. The gods have also the
 attribute of invisibility, and are only seen by those to whom they wish
 to disclose themselves, or they have the power of concealing themselves
@@ -30,7 +30,7 @@ telling how they had appeared to men in these animal shapes. This, in
 part, accounts for these transformation myths. The gods are also
 immortal, though in myth we hear of their deaths. The Tuatha Dé Danann
 are "unfading," their "duration is perennial." <span
-id="fr_516"></span>[2](#fn_515) This immortality is sometimes an
+id="fr_516"></span>[2](#fn_515.md) This immortality is sometimes an
 inherent quality; sometimes it is the result of eating immortal food--
 
 <span id="page_159">p. 159</span>
@@ -47,9 +47,9 @@ Something akin to this may have occurred among the Celts.
 
 The divinities often united with mortals. Goddesses sought the love of
 heroes who were then sometimes numbered among the gods, and gods had
-amours with the daughters of men. <span id="fr_517"></span>[1](#fn_516)
+amours with the daughters of men. <span id="fr_517"></span>[1](#fn_516.md)
 Frequently the heroes of the sagas are children of a god or goddess and
-a mortal, <span id="fr_518"></span>[2](#fn_517) and this divine
+a mortal, <span id="fr_518"></span>[2](#fn_517.md) and this divine
 parentage was firmly believed in by the Celts, since personal names
 formed of a divine name and -*genos* or -*gnatos*, "born of," "son of,"
 are found in inscriptions over the whole Celtic area, or in Celtic
@@ -85,12 +85,12 @@ connected with their observance, though this prosperity was later
 thought to depend on the king's goodness. The nature of the
 prosperity--mild seasons, abundant crops, fruit, fish, and cattle--shows
 that the king was associated with fertility, like the gods of
-growth. <span id="fr_519"></span>[1](#fn_518) Hence they had probably
+growth. <span id="fr_519"></span>[1](#fn_518.md) Hence they had probably
 been once regarded as incarnations of such gods. Wherever divine kings
 are found, fertility is bound up with them and with the due observance
 of their tabus. To prevent misfortune to the land, they are slain before
 they grow old and weak, and their vigour passes on to their successors.
-Their death benefits their people. <span id="fr_520"></span>[2](#fn_519)
+Their death benefits their people. <span id="fr_520"></span>[2](#fn_519.md)
 But frequently the king might reign as long as he could hold his own
 against all comers, or, again, a slave or
 
@@ -100,25 +100,25 @@ criminal was for a time treated as a mock king, and slain as the divine
 king's substitute. Scattered hints in Irish literature and in folk
 survivals show that some such course as this had been pursued by the
 Celts with regard to their divine kings, as it was also elsewhere. <span
-id="fr_521"></span>[1](#fn_520) It is not impossible that some at least
+id="fr_521"></span>[1](#fn_520.md) It is not impossible that some at least
 of the Druids stood in a similar relation to the gods. Kings and priests
 were probably at first not differentiated. In Galatia twelve "tetrarchs
 " met annually with three hundred assistants at Drunemeton as the great
-national council. <span id="fr_522"></span>[2](#fn_521) This council at
+national council. <span id="fr_522"></span>[2](#fn_521.md) This council at
 a consecrated place (*nemeton*), its likeness to the annual Druidic
 gathering in Gaul, and the possibility that *Dru*- has some connection
 with the name "Druid," point to a religious as well as political aspect
 of this council. The "tetrarchs" may have been a kind of priest-kings;
 they had the kingly prerogative of acting as judges as had the Druids of
 Gaul. The wife of one of them was a priestess, <span
-id="fr_523"></span>[3](#fn_522) the office being hereditary in her
+id="fr_523"></span>[3](#fn_522.md) the office being hereditary in her
 family, and it may have been necessary that her husband should also be a
 priest. One tetrarch, Deiotarus, "divine bull," was skilled in augury,
 and the priest-kingship of Pessinus was conferred on certain Celts in
 the second century B.C., as if the double office were already a Celtic
-institution. <span id="fr_524"></span>[4](#fn_523) Mythic Celtic kings
+institution. <span id="fr_524"></span>[4](#fn_523.md) Mythic Celtic kings
 consulted the gods without any priestly intervention, and Queen Boudicca
-had priestly functions. <span id="fr_525"></span>[5](#fn_524) Without
+had priestly functions. <span id="fr_525"></span>[5](#fn_524.md) Without
 giving these hints undue emphasis, we may suppose that the
 differentiation of the two offices would not be simultaneous over the
 Celtic area.
@@ -135,19 +135,19 @@ divine priests, since they called themselves creators of the universe,
 and both continental and Irish Druids claimed superiority to kings.
 Further, the name σεμνοθέοι, applied along with the name "Druids" to
 Celtic priests, though its meaning is obscure, points to divine
-pretensions on their part. <span id="fr_526"></span>[1](#fn_525)
+pretensions on their part. <span id="fr_526"></span>[1](#fn_525.md)
 
 The incarnate god was probably representative of a god or spirit of
 earth, growth, or vegetation, represented also by a tree. A symbolic
 branch of such a tree was borne by kings, and perhaps by Druids, who
-used oak branches in their rites. <span id="fr_527"></span>[2](#fn_526)
+used oak branches in their rites. <span id="fr_527"></span>[2](#fn_526.md)
 King and tree would be connected, the king's life being bound up with
 that of the tree, and perhaps at one time both perished together. But as
 kings were represented by a substitute, so the sacred tree, regarded as
 too sacred to be cut down, may also have had its *succedaneum*. The
 Irish *bile* or sacred tree, connected with the kings, must not be
 touched by any impious hand, and it was sacrilege to cut it down. <span
-id="fr_528"></span>[3](#fn_527) Probably before cutting down the tree a
+id="fr_528"></span>[3](#fn_527.md) Probably before cutting down the tree a
 branch or something growing upon it, *e.g.* mistletoe, had to be cut, or
 the king's symbolic branch secured before he could be slain. This may
 explain Pliny's account of the mistletoe rite. The mistletoe or branch
@@ -167,7 +167,7 @@ during the rite took the place of the latter. Later romantic tales
 suggest that, before slaying some personage, the mythico-romantic
 survivor of a divine priest or king, a branch carried by him had to be
 captured by his assailant, or plucked from the tree which he
-defended. <span id="fr_529"></span>[1](#fn_528) These may point to an
+defended. <span id="fr_529"></span>[1](#fn_528.md) These may point to an
 old belief in tree and king as divine representatives, and to a ritual
 like that associated with the Priest of Nemi. The divine tree became the
 mystic tree of Elysium, with gold and silver branches and marvellous
@@ -191,23 +191,23 @@ of later folk-custom. Sporadically, too, conservatism would retain
 female cults with female divine incarnations, as is seen by the presence
 of the May Queen alone in certain folk-survivals, and by many Celtic
 rituals from which men were excluded. <span
-id="fr_530"></span>[1](#fn_529)
+id="fr_530"></span>[1](#fn_529.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_514"></span>[158:1](rac12.htm#fr_515) O'Grady, ii. 228.
+<span id="fn_514"></span>[158:1](rac12.htm#fr_515.md) O'Grady, ii. 228.
 
-<span id="fn_515"></span>[158:2](rac12.htm#fr_516) *Ibid.* ii. 203. Cf.
+<span id="fn_515"></span>[158:2](rac12.htm#fr_516.md) *Ibid.* ii. 203. Cf.
 Cæsar, vi. 14, "the immortal gods" of Gaul.
 
-<span id="fn_516"></span>[159:1](rac12.htm#fr_517) Cf. Ch. XXIV.;
+<span id="fn_516"></span>[159:1](rac12.htm#fr_517.md) Cf. Ch. XXIV.;
 O'Grady, ii. 110, 172; Nutt-Meyer, i. 42.
 
-<span id="fn_517"></span>[159:2](rac12.htm#fr_518) Leahy, ii. 6.
+<span id="fn_517"></span>[159:2](rac12.htm#fr_518.md) Leahy, ii. 6.
 
-<span id="fn_518"></span>[160:1](rac12.htm#fr_519) *IT* iii. 203; *Trip.
+<span id="fn_518"></span>[160:1](rac12.htm#fr_519.md) *IT* iii. 203; *Trip.
 Life*, 507; *Annals of the Four Masters*, A.D. 14; *RC* xxii. 28, 168.
 Chiefs as well as kings probably influenced fertility. A curious
 survival of this is found in the belief that herrings abounded in
@@ -215,11 +215,11 @@ Dunvegan Loch when MacLeod arrived at his castle there, and in the
 desire of the people in Skye during the potato famine that his fairy
 banner should be waved.
 
-<span id="fn_519"></span>[160:2](rac12.htm#fr_520) An echo of this may
+<span id="fn_519"></span>[160:2](rac12.htm#fr_520.md) An echo of this may
 underlie the words attributed to King Ailill, "If I am slain, it will be
 the redemption of many" (O'Grady, ii. 416).
 
-<span id="fn_520"></span>[161:1](rac12.htm#fr_521) See Frazer,
+<span id="fn_520"></span>[161:1](rac12.htm#fr_521.md) See Frazer,
 *Kingship*; Cook, *Folk-Lore*, 1906, "The European Sky-God." Mr. Cook
 gives ample evidence for the existence of Celtic incarnate gods. With
 his main conclusions I agree, though some of his inferences seem
@@ -227,28 +227,28 @@ farfetched. The divine king was, in his view, a sky-god; he was more
 likely to have been the representative of a god or spirit of growth or
 vegetation.
 
-<span id="fn_521"></span>[161:2](rac12.htm#fr_522) Strabo, xii. 5. 2.
+<span id="fn_521"></span>[161:2](rac12.htm#fr_522.md) Strabo, xii. 5. 2.
 
-<span id="fn_522"></span>[161:3](rac12.htm#fr_523) Plutarch, *de Virt.
+<span id="fn_522"></span>[161:3](rac12.htm#fr_523.md) Plutarch, *de Virt.
 Mul.* 20.
 
-<span id="fn_523"></span>[161:4](rac12.htm#fr_524) Cicero, *de Div.* i.
+<span id="fn_523"></span>[161:4](rac12.htm#fr_524.md) Cicero, *de Div.* i.
 15, ii. 36; Strabo, xii. 5. 3; Staehelin, *Gesch. der Kleinasiat.
 Galater*.
 
-<span id="fn_524"></span>[161:5](rac12.htm#fr_525) Livy, v. 34; Dio
+<span id="fn_524"></span>[161:5](rac12.htm#fr_525.md) Livy, v. 34; Dio
 Cass. lxii, 6.
 
-<span id="fn_525"></span>[162:1](rac12.htm#fr_526) *Ancient Laws of
+<span id="fn_525"></span>[162:1](rac12.htm#fr_526.md) *Ancient Laws of
 Ireland*, i. 22; Diog. Laert. i. proem 1; see [p.
-301](rac23.htm#page_301), *infra*.
+301](rac23.htm#page_301.md), *infra*.
 
-<span id="fn_526"></span>[162:2](rac12.htm#fr_527) Pliny, xvi. 95.
+<span id="fn_526"></span>[162:2](rac12.htm#fr_527.md) Pliny, xvi. 95.
 
-<span id="fn_527"></span>[162:3](rac12.htm#fr_528) P.
-[201](rac16.htm#page_201), *infra*.
+<span id="fn_527"></span>[162:3](rac12.htm#fr_528.md) P.
+[201](rac16.htm#page_201.md), *infra*.
 
-<span id="fn_528"></span>[163:1](rac12.htm#fr_529) Cf. the tales of
+<span id="fn_528"></span>[163:1](rac12.htm#fr_529.md) Cf. the tales of
 Gawain and the Green Knight with his holly bough, and of Gawain's
 attempting to pluck the bough of a tree guarded by Gramoplanz (Weston,
 *Legend of Sir Gawain*, 22, 86). Cf. also the tale of Diarmaid's
@@ -256,8 +256,8 @@ attacking the defender of a tree to obtain its fruit, and the subsequent
 slaughter of each man who attacks the hero hidden in its branches (*TOS*
 vol. iii.). Cf. Cook, *Folk-Lore*, xvii. 441.
 
-<span id="fn_529"></span>[164:1](rac12.htm#fr_530) See Chap. XVIII.
+<span id="fn_529"></span>[164:1](rac12.htm#fr_530.md) See Chap. XVIII.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Cult of the Dead](rac13)
+[Next: Chapter X. The Cult of the Dead](rac13.md)

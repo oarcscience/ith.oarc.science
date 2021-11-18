@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain38)  [Next](ain40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain38)  [Next](ain40.md) 
 
 ------------------------------------------------------------------------
 
@@ -320,4 +320,4 @@ the old men and women shall eat it and lengthen their lives."
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Story of Nahvahchoo](ain40)
+[Next: Notes on the Story of Nahvahchoo](ain40.md)

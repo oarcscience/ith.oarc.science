@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/cor)  [Previous](../coe/coe) 
-[Next](../cym/cym) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/cor)  [Previous](../coe/coe.md) 
+[Next](../cym/cym.md) 
 
 ------------------------------------------------------------------------
 
@@ -5847,4 +5847,4 @@ Index](../index)  [First Folio](../ff/cor)  [Previous](../coe/coe) 
 
 ------------------------------------------------------------------------
 
-[Next: Cymbeline](../cym/cym) 
+[Next: Cymbeline](../cym/cym.md) 

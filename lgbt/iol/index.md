@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](iol00)
+[Contents](#contents)    [Start Reading](iol00.md)
 
 ------------------------------------------------------------------------
 
@@ -35,11 +35,11 @@ King Ludwig, and many others.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](iol00)  
-[Contents](iol01)  
-[Preface to First Edition](iol02)  
-[I. Friendship-Customs in the Pagan and Early World](iol03)  
-[II. The Place of Friendship in Greek Life and Thought](iol04)  
-[III. Poetry of Friendship Among Greeks and Romans](iol05)  
-[IV. Friendship in Early Christian and Mediæval Times](iol06)  
-[V. The Renaissance and Modern Times](iol07)  
+<span id="contents"></span> [Title Page](iol00.md)  
+[Contents](iol01.md)  
+[Preface to First Edition](iol02.md)  
+[I. Friendship-Customs in the Pagan and Early World](iol03.md)  
+[II. The Place of Friendship in Greek Life and Thought](iol04.md)  
+[III. Poetry of Friendship Among Greeks and Romans](iol05.md)  
+[IV. Friendship in Early Christian and Mediæval Times](iol06.md)  
+[V. The Renaissance and Modern Times](iol07.md)  

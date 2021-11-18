@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Samaritans](index)  [Previous](manners)  [Next](nabloos) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Samaritans](index)  [Previous](manners)  [Next](nabloos.md) 
 
 ------------------------------------------------------------------------
 
@@ -920,4 +920,4 @@ Ben Kori.
 
 ------------------------------------------------------------------------
 
-[Next: Nabloos and the Samaritans](nabloos)
+[Next: Nabloos and the Samaritans](nabloos.md)

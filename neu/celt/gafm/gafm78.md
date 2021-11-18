@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](gafm77)  [Next](gafm79) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](gafm77)  [Next](gafm79.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BH3EVC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BH3EVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gods and Fighting Men*, by Lady Gregory, \[1904\], at Intangible
 Textual Heritage
 
@@ -117,4 +117,4 @@ preyed more on the Fianna than any other thing.
 
 ------------------------------------------------------------------------
 
-[Next: Part II Book VIII: Meargach's Wife](gafm79)
+[Next: Part II Book VIII: Meargach's Wife](gafm79.md)

@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](ftc09)  [Next](ftc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](ftc09)  [Next](ftc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte.md)
 
 </div>
 
@@ -277,6 +277,6 @@ engaged in about three years, and marriage will take place soon after.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. A French Method](ftc11)
+[Next: Chapter IX. A French Method](ftc11.md)
 
 </div>

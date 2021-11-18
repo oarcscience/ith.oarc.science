@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv19)  [Next](rsv21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv19)  [Next](rsv21.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ The middle and upper class ethnic Vietnamese women wear the Ao Dai which
 is a slenderizing formfitting outer garment that extends from its
 choke-throat collar to below the knees with long sleeves and slit on
 either side to the waist. It is worn over a pair of pajama-type bottoms
-with shoes being either [sandals](errata.htm#30) or closed shoes as
+with shoes being either [sandals](errata.htm#30.md) or closed shoes as
 desired. The lovely pastel color combinations and their light graceful
 movements combined with well groomed hair and countenance make many
 Vietnamese women quite attractive.
@@ -60,4 +60,4 @@ largely moulded by traditions hundreds of years old.
 
 ------------------------------------------------------------------------
 
-[Next: Marriage](rsv21)
+[Next: Marriage](rsv21.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff14)  [Next](fff16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff14)  [Next](fff16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -80,7 +80,7 @@ not only the allegorical method, but also a canon of criticism which
 minutely classified the "inspiration" and so sifted out most of the
 objectionable passages from the Jewish Canon.
 
-Thus, in [pursuit](errata.htm#20) of a universal ideal, the tribal
+Thus, in [pursuit](errata.htm#20.md) of a universal ideal, the tribal
 God--or rather, the crude views of the uninstructed Jewish populace as
 to Yahweh--was, when not entirely rejected, placed in a very subordinate
 position. In brief, the Yahweh of the Elohīm was not the Father of
@@ -131,7 +131,7 @@ as one
 
 <span id="page_140">p. 140</span>
 
-of the manifestations of [Deity](errata.htm#21). The Gnostic view,
+of the manifestations of [Deity](errata.htm#21.md). The Gnostic view,
 however, is far clearer, and more in accord with the facts of evolution;
 it admits the "morally equal," but it further asserts difference of
 degree, not only in body and soul, but also in spirit, in order to make
@@ -221,4 +221,4 @@ elucidate tenets which are a key to the whole position.
 
 ------------------------------------------------------------------------
 
-[Next: The Literature and Sources of Gnosticism](fff16)
+[Next: The Literature and Sources of Gnosticism](fff16.md)

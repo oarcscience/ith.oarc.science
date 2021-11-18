@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg73)  [Next](cdg75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg73)  [Next](cdg75.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ those Days for all Peace shall happen to the Good, through all their
 Land, the Prophets of the Great God shall take away all Slaughter, for
 they are the Judges of Mortals, and the righteous Kings. And there shall
 be just Riches for Men, for the Government of the Great God shall be
-just Judgement. <span id="fr_223"></span>[†](#fn_223)
+just Judgement. <span id="fr_223"></span>[†](#fn_223.md)
 
 Now no longer shall gold and silver be full of guile, nor shall there be
 possessing of land nor toilsome slavery; but one love and one ordering
@@ -67,10 +67,10 @@ FROM THE GREEK "SIBYLLAE," BOOK xiv, CONCLUSION.</span>
 
 ### Footnotes
 
-<span id="fn_223"></span>[316:†](cdg74.htm#fr_223) *Sir John Ployer,
+<span id="fn_223"></span>[316:†](cdg74.htm#fr_223.md) *Sir John Ployer,
 "The Sibylline Oracles," Book iii, Extracts pages 80-2*.
 
 ------------------------------------------------------------------------
 
 [Next: Third Prophecy. Enoch's Prophecy of World Peace and the Giving
-Forth of Books](cdg75)
+Forth of Books](cdg75.md)

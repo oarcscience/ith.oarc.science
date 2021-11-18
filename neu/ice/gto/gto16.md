@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto15)  [Next](gto17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto15)  [Next](gto17.md) 
 
 ------------------------------------------------------------------------
 
@@ -226,4 +226,4 @@ losing life or land. After that they went home.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Gisli Begins to Dream](gto17)
+[Next: Chapter XII. Gisli Begins to Dream](gto17.md)

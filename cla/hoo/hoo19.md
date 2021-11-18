@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo18)  [Next](hoo20) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo18)  [Next](hoo20.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ With peace divine, and necessary wealth.
 
 ------------------------------------------------------------------------
 
-[Next: XV: To Juno](hoo20)
+[Next: XV: To Juno](hoo20.md)

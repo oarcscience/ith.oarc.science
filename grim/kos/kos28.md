@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos27)  [Next](kos29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos27)  [Next](kos29.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ around the Pentacle.
 
 ------------------------------------------------------------------------
 
-[Next: Plate VI](kos29)
+[Next: Plate VI](kos29.md)

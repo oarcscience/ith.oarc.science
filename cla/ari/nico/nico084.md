@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico083) 
-[Next](nico085) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico083.md) 
+[Next](nico085.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ a wish for friendship may arise quickly, but friendship does not.
 ------------------------------------------------------------------------
 
 [Next: Chapter 4. Contrast between the best and the inferior
-kinds](nico085)
+kinds](nico085.md)

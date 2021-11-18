@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob59.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,13 +15,13 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob59) 
 AGRIPPA.--*La Philosophic Occulte*, La Haye, 1727. 2 vols. 8vo. (Bib.
 Nat., Z. 1983, A.<sup>2</sup>)
 
-APOCALYPSE [7](tob03.htm#page_7)
+APOCALYPSE [7](tob03.htm#page_7.md)
 
 AMARAVELLA.--A theosophic writer known by his fine works in *Le Lotus*,
 and in the *Revue Philosophique*.
 
 APOLLONIUS OF TYANA.--A great initiate and thaumaturge, contemporary
-with Christ [265](tob45.htm#page_265), *sqq*.
+with Christ [265](tob45.htm#page_265.md), *sqq*.
 
 ARNOULD (Arthur).--President of the Theosophite Society Hermes, the
 French branch of the Theosophite Society of Adyar (Madras).
@@ -38,7 +38,7 @@ Nat., X. 4,679.)
 ------ *Eléments Cartovingiens*, Paris, 1854, 4to. (Bib. Nat., Z.)
 
 BLAVATSKY (ff. P.)--*Isis Unveiled*, New York, 1884
-[300](tob49.htm#page_300)
+[300](tob49.htm#page_300.md)
 
 BOITEAU.--*Les Cartes à jouer et la Cartomancie*, Paris, 1854, 4to.
 
@@ -50,7 +50,7 @@ conference in defence of occult symbolism in the F.'. M.'.
 
 BARLET (Ch.).--Editor of the *Initiation*. The author of the most
 learned works that France possesses upon *Occult Science*
-[16](tob04.htm#page_16), [299](tob49.htm#page_299)
+[16](tob04.htm#page_16), [299](tob49.htm#page_299.md)
 
 COURT DE GÉBÉLIN.--*Le Monde Primitif*, 9 vols., 4to., 1773-1783.
 
@@ -63,7 +63,7 @@ Cards in Europe*, London, 1848, 8vo.
 DOE (Jean).--*Monas Hieroglyphica* (in *Theatrum Chemimun*), 1660.
 
 ELY STAR (*Les Mystères de l'Horoscope*, 18mo., Dentu, 1884
-[300](tob49.htm#page_300)
+[300](tob49.htm#page_300.md)
 
 ETTEILA.--Works by.
 
@@ -74,7 +74,7 @@ Langue Hébraïque restituée*, 1825, 4to., Paris. (Fundamental works of
 one of the greatest contemporary masters of occult science.)
 
 GUAITA (Stanilas de).--*Au seuil du Mystère*, Paris, 1886, 8vo., 2nd
-enlarged edition, 1889 [294](tob47.htm#page_294)
+enlarged edition, 1889 [294](tob47.htm#page_294.md)
 
 <span id="page_354">p. 354</span>
 
@@ -87,13 +87,13 @@ GOUDEAU (Emile).
 
 HARTMANN.--Works by.
 
-HERMES TRISMEGISTUS [9](tob03.htm#page_9)
+HERMES TRISMEGISTUS [9](tob03.htm#page_9.md)
 
 HOLMES (Augusta).
 
-HOMER.--*The Odyssey* [7](tob03.htm#page_7)
+HOMER.--*The Odyssey* [7](tob03.htm#page_7.md)
 
-HESIOD.--*Op. et Dies* [p. 104](tob13.htm#page_104)
+HESIOD.--*Op. et Dies* [p. 104](tob13.htm#page_104.md)
 
 KIRCHER (the R. F. Jesuit)--*Œdipus Ægyptiacus*, 3 vols., fol., Rome,
 1622.
@@ -105,7 +105,7 @@ KORAN, the.
 LEVI (Eliphas, pseudonym of the Abbé Constant).--*Dogme et Rituel de la
 Haute Magie*, Paris, 2 vols., 8vo.; *Histoire de la Magie*, 8vo., Paris;
 *La Clef des grands Mystères*, 8vo., Paris (Fundamental works)
-[299](tob49.htm#page_299)
+[299](tob49.htm#page_299.md)
 
 LENAIN.--*La Science Kabbalistique*, 8vo. (A good summary.)
 
@@ -119,7 +119,7 @@ LACOUR.--*Les Œloïm ou dieux de Moise*, Paris, 1325, 8vo., 2 vols.
 
 LOUIS LUCAS.--*La Chimie Nouvelle*, 1854, 8vo.; *La Médecine Nouvelle*,
 1863, 2 vols., 8vo.; *Le Roman Alchimique*, 1853, 8vo. (Fundamental
-works) [226](tob43.htm#page_226)
+works) [226](tob43.htm#page_226.md)
 
 MONTIÉRE (George).--Chief Editor of the Revue *l'Initiation*.
 
@@ -146,19 +146,19 @@ edit.).
 PARACELSUS.--Works by.
 
 POSTEL (Guillaume).--*La Clef des Choses Cachées* (Latin), 12mo.
-[297](tob49.htm#page_297)
+[297](tob49.htm#page_297.md)
 
 POLTI and GARY.--*La Théorie des Tempéraments*, 1889, 18mo. (Carré,
 publisher.)
 
 PÉLADAN (Joséphin).--*La décadence Latine*, Ethopœia, in 7 vols.
-(Edinger, Paris) [299](tob49.htm#page_299)
+(Edinger, Paris) [299](tob49.htm#page_299.md)
 
 POIREL, E.--Occultist, editor of the *Tarot de Wirth*, and of several
 other reproductions deduced from occult science
-[300](tob49.htm#page_300)
+[300](tob49.htm#page_300.md)
 
-RABELAIS (epigraph) [3](tob03.htm#page_3)
+RABELAIS (epigraph) [3](tob03.htm#page_3.md)
 
 <span id="page_355">p. 355</span>
 
@@ -176,7 +176,7 @@ the *Initiation*.
 
 SAINT MARTIN (Louis Claude de).--*Tableau naturel des Rapports qui
 existent entre Dieu, l'Homme et l'Univers*, 2 vols., 8vo., Edinburgh,
-1782 [298](tob49.htm#page_298)
+1782 [298](tob49.htm#page_298.md)
 
 SEPHER YETZIRAH, the (translation by Papus), Paris, 1888, 8vo. (Carré).
 
@@ -187,7 +187,7 @@ fine study upon esoterism, *Les grande Initiés* (Perrin, editor).
 
 SIMON.--*La Cité Chinoise*, 18mo., 1884.
 
-SIVRY (Ch. de) [300](tob49.htm#page_300)
+SIVRY (Ch. de) [300](tob49.htm#page_300.md)
 
 SINNET.--*Esoteric Buddhism*, 1884, 18mo.
 
@@ -195,9 +195,9 @@ TRITHEMUS (1462-1516).--A remarkably learned man, the master of
 Cornelius Agrippa.
 
 VAILLANT (J. A.).--*Les Rômes, histoire vraie des vrais Bohemiens*,
-Paris, 1850, 8vo. [298](tob49.htm#page_298)
+Paris, 1850, 8vo. [298](tob49.htm#page_298.md)
 
-VIRGIL.--The *Æneid* [7](tob03.htm#page_7)
+VIRGIL.--The *Æneid* [7](tob03.htm#page_7.md)
 
 VEDAS, the.
 
@@ -206,7 +206,7 @@ recentissimæ*, Amsterdam, 1690. Mercury Van Helmont is reputed to have
 initiated Leibnitz.
 
 WEBER (Louis Zénon).--Author of important philosophical works published
-in the *Initiation* [178](tob36.htm#page_178)
+in the *Initiation* [178](tob36.htm#page_178.md)
 
 WIRTH (Oswald).--The Astronomical Tarot (in the course of work). *See*
 Index.

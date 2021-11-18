@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste10)  [Next](ste12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste10)  [Next](ste12.md) 
 
 ------------------------------------------------------------------------
 
@@ -177,7 +177,7 @@ degrees; the waters being sunk into the
 <span id="img_08500"></span>
 
 [![](tn/08500.jpg)  
-Click to enlarge](img/08500.jpg)
+Click to enlarge](img/08500.jpg.md)
 
 \[paragraph continues\] Chanels of the Sea, and the hollowness of the
 Earth, and the whole Globe appearing in the form it is now under. There
@@ -201,7 +201,7 @@ the decreed place establisht for it, and Bars and Doors were set; then
 it was said, hitherto shalt thou come, and no further, and here shall
 thy proud waves be stopt*. And the Deluge being thus ended, and the
 waters setled in their Chanels, the Earth took such a broken Figure as
-is represented in those larger Schemes, *p*. [118](ste14.htm#page_118).
+is represented in those larger Schemes, *p*. [118](ste14.htm#page_118.md).
 And this will be the form and state of it till its great change comes in
 the Conflagration, when we expect *a new Heaven and a new Earth*.
 
@@ -425,4 +425,4 @@ Discourse.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](ste12)
+[Next: Chapter IX](ste12.md)

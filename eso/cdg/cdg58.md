@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg57)  [Next](cdg59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg57)  [Next](cdg59.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,9 +19,9 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
 
 <span class="margnote"><span id="an_UU">UU</span></span>A Master is an
 evolved being who has perfected a mental body <span
-id="fr_216"></span>[†](#fn_216) in which he can function consciously
+id="fr_216"></span>[†](#fn_216.md) in which he can function consciously
 while out of his physical vehicle. A Master, through that degree of
-Divine Force <span id="fr_217"></span>[\*](#fn_217) which his
+Divine Force <span id="fr_217"></span>[\*](#fn_217.md) which his
 rapidly-evolving Solar Body enables him to contact, has power to
 understand and to apply many of the laws governing the so-called
 phenomena of Nature.
@@ -39,7 +39,7 @@ NUOVA. TRANSLATED BY DANTE GABRIEL ROSSETTI.</span>
 
 <span id="img_29700"></span> <span align="CENTER"> [![Portrait of a
 Master. Painted by R. Owned by the Brothers](tn/29700.jpg)  
-Click to enlarge](img/29700.jpg)  
+Click to enlarge](img/29700.jpg.md)  
 Portrait of a Master. Painted by R. Owned by the Brothers  
 </span>
 
@@ -49,13 +49,13 @@ Portrait of a Master. Painted by R. Owned by the Brothers
 
 ### Footnotes
 
-<span id="fn_216"></span>[297:†](cdg58.htm#fr_216) *Air Body, page
-[54](cdg05.htm#page_54)*.
+<span id="fn_216"></span>[297:†](cdg58.htm#fr_216.md) *Air Body, page
+[54](cdg05.htm#page_54.md)*.
 
-<span id="fn_217"></span>[297:\*](cdg58.htm#fr_217) *Solar Force
-defined, page [48](cdg05.htm#page_48)*.
+<span id="fn_217"></span>[297:\*](cdg58.htm#fr_217.md) *Solar Force
+defined, page [48](cdg05.htm#page_48.md)*.
 
 ------------------------------------------------------------------------
 
 [Next: VV. Roman Worship of a Supreme Deity Without Image or
-Statue](cdg59)
+Statue](cdg59.md)

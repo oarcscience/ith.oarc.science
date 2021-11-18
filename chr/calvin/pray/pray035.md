@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray034)  [Next](pray036) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray034)  [Next](pray036.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,14 +27,14 @@ occupieth the room of the unlearned say, Amen, at thy giving of thanks,
 seeing he understandeth not what thou sayest? For thou verily givest
 thanks, but the other is not edified" (<span
 id="iii.xxxiii-p1.1"></span>[1 Cor.
-14:16](../../../bib/kjv/co1014.htm#016),
-[17](../../../bib/kjv/co1014.htm#017)<span
+14:16](../../../bib/kjv/co1014.htm#016.md),
+[17](../../../bib/kjv/co1014.htm#017.md)<span
 id="iii.xxxiii-p1.1"></span>). How then can one sufficiently admire the
 unbridled license of the Papists, who, while the Apostle publicly
 protests against it, hesitate not to bawl out the most verbose prayers
 in a foreign tongue, prayers of which they themselves sometimes do not
 understand one syllable, and which they have no wish that others should
-understand? <span id="fr_20"></span>[21](#fn_20) Different is the course
+understand? <span id="fr_20"></span>[21](#fn_20.md) Different is the course
 which Paul prescribes, "What is it then? I will pray with the spirit,
 and I will pray with the understanding also; I will sing with the
 spirit, and I will sing with the understanding also:" meaning by the
@@ -51,12 +51,12 @@ although the best prayers are sometimes without utterance, yet when the
 feeling of the mind is overpowering, the tongue spontaneously breaks
 forth into utterance, and our other members into gesture. Hence that
 dubious muttering of Hannah (<span id="iii.xxxiii-p1.4"></span>[1 Samuel
-1:13](../../../bib/kjv/sa1001.htm#013)<span
+1:13](../../../bib/kjv/sa1001.htm#013.md)<span
 id="iii.xxxiii-p1.4"></span>), something similar to which is experienced
 by all the saints when concise and abrupt expressions escape from them.
 The bodily gestures usually observed in prayer, such as kneeling and
 uncovering of the head (Calv. in <span id="iii.xxxiii-p1.5"></span>[Acts
-20:36](../../../bib/kjv/act020.htm#036)<span
+20:36](../../../bib/kjv/act020.htm#036.md)<span
 id="iii.xxxiii-p1.5"></span>), are exercises by which we attempt to rise
 to higher veneration of God.
 
@@ -64,7 +64,7 @@ to higher veneration of God.
 
 ### Footnotes
 
-<span id="fn_20"></span>[21](pray035.htm#fr_20) <span
+<span id="fn_20"></span>[21](pray035.htm#fr_20.md) <span
 id="iii.xxxiii-p1.2"></span>French, "<span
 id="iii.xxxiii-p1.3"></span>Qui est-ce donc qui se pourra assez
 esmerveiller d’une audace tant effrenee qu’ont eu les Papistes et ont
@@ -79,4 +79,4 @@ syllable, and which they have no wish that others understand?
 
 ------------------------------------------------------------------------
 
-[Next: 34.](pray036)
+[Next: 34.](pray036.md)

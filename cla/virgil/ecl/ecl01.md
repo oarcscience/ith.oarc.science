@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](ecll01)  [Previous](ecl00) 
-[Next](ecl02) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](ecll01)  [Previous](ecl00.md) 
+[Next](ecl02.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ the high hills.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue II.--Alexis](ecl02)
+[Next: Eclogue II.--Alexis](ecl02.md)

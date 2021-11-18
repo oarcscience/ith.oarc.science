@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Theosophy](../../the/index)  [Index](index)  [Previous](theo16) 
-[Next](theo18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Theosophy](../../the/index)  [Index](index)  [Previous](theo16.md) 
+[Next](theo18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Theosophy*, by Rudolf Steiner, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -177,7 +177,7 @@ surgings in the aura but also transient passions, moods, and other inner
 experiences. An anger that breaks out suddenly creates red streams.
 Feelings of injured dignity which expend themselves in a sudden welling
 up can be seen appearing in dark green clouds. Color phenomena, however,
-do not appear only in [irregular](errata.htm#7) cloud forms but also in
+do not appear only in [irregular](errata.htm#7.md) cloud forms but also in
 distinctly defined, regularly shaped figures. A fit of terror, for
 example, shows the aura lined from top to bottom by undulating stripes
 of blue color suffused with a reddish shimmer. In a person who expects
@@ -365,4 +365,4 @@ world can be compared.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Path of Knowledge](theo18)
+[Next: Chapter IV. The Path of Knowledge](theo18.md)

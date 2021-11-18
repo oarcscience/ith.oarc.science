@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml28)  [Next](yml30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml28)  [Next](yml30.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ JV
 
 ------------------------------------------------------------------------
 
-[Next: Malinero'okai](yml30)
+[Next: Malinero'okai](yml30.md)

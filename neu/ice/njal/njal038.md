@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal037)  [Next](njal039) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal037)  [Next](njal039.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ summer.
 
 ------------------------------------------------------------------------
 
-[Next: 39. The Slaying Of Brynjolf The Unruly](njal039)
+[Next: 39. The Slaying Of Brynjolf The Unruly](njal039.md)

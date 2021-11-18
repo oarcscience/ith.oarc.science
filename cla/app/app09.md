@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app08)  [Next](app10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app08)  [Next](app10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -90,4 +90,4 @@ Opinion, because the true and false are in Opinion*).
 
 ------------------------------------------------------------------------
 
-[Next: 8. Theagenes of Rhêgium](app10)
+[Next: 8. Theagenes of Rhêgium](app10.md)

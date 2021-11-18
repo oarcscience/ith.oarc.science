@@ -1,22 +1,22 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr25)  [Next](rhr27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr25)  [Next](rhr27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
 *A very true Narrative of a Gentleman R. C., who hath the continual
-society of a Guardian Genius*. <span id="fr_108"></span>[1](#fn_108)
+society of a Guardian Genius*. <span id="fr_108"></span>[1](#fn_108.md)
 
 Oblation of itself was such a sacrifice to God, that a good and holy man
 could offer no greater, as appears by the acceptance of a gentleman by
@@ -138,10 +138,10 @@ men to be a friend to all and desirous to do good.
 
 ### Footnotes
 
-<span id="fn_108"></span>[340:1](rhr26.htm#fr_108) This story is another
+<span id="fn_108"></span>[340:1](rhr26.htm#fr_108.md) This story is another
 theft from the works of Henry More, who does not state that the subject
 of the narrative was "a gentleman R. C."
 
 ------------------------------------------------------------------------
 
-[Next: The Spirit Euterpe](rhr27)
+[Next: The Spirit Euterpe](rhr27.md)

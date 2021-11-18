@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc06)  [Next](crc08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc06)  [Next](crc08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ combat against him. He killed them all then, because they had broken
 fair-play towards him.
 
 Orlam's charioteer was then between Ailill and Medb. Cuchulainn hurled a
-stone at him, <span id="fr_38"></span>[1](#fn_38) so that his head
+stone at him, <span id="fr_38"></span>[1](#fn_38.md) so that his head
 broke, and his brains came over his ears; Fertedil was his name. (Thus
 it is not true that Cuchulainn did not kill charioteers; howbeit, he did
 not kill them without fault.)
@@ -42,7 +42,7 @@ not kill them without fault.)
 
 ### Footnotes
 
-<span id="fn_38"></span>[38:1](crc07.htm#fr_38) Apparently because the
+<span id="fn_38"></span>[38:1](crc07.htm#fr_38.md) Apparently because the
 charioteer had not carried Orlam's head into the camp on his back. Or an
 alternative version.
 
@@ -50,6 +50,6 @@ alternative version.
 
 ------------------------------------------------------------------------
 
-[Next: The Death of the Squirrel](crc08)
+[Next: The Death of the Squirrel](crc08.md)
 
 </div>

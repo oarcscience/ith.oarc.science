@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil66)  [Next](egil68) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil66)  [Next](egil68.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ Hordaland. The king said that this should be done.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXVII. Egil slays Ljot the Pale.](egil68)
+[Next: CHAPTER LXVII. Egil slays Ljot the Pale.](egil68.md)

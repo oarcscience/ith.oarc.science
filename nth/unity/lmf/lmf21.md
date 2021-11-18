@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](lmf20)  [Next](lmf22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](lmf20)  [Next](lmf22.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Letters of Myrtle Fillmore.*, by Myrtle Fillmore, \[1936\], at
 Intangible Textual Heritage
 
@@ -190,4 +190,4 @@ Christ.
 
 ------------------------------------------------------------------------
 
-[Next: Transition](lmf22)
+[Next: Transition](lmf22.md)

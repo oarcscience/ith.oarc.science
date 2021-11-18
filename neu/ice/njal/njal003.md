@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal002)  [Next](njal004) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal002)  [Next](njal004.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ with the king in much honour.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Of Hrut's Cruise](njal004)
+[Next: 4. Of Hrut's Cruise](njal004.md)

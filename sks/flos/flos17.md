@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos16)  [Next](flos18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos16)  [Next](flos18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ supposed virtues existed, but in the materials of which they were
 composed,—in some particular precious stone that was set in them as
 charms or talismans, in some device or inscription on the stone, or some
 magical letters engraved on the circumference of the ring." <span
-id="fr_759"></span>[1](#fn_757) Rings, too, in days gone by, had a
+id="fr_759"></span>[1](#fn_757.md) Rings, too, in days gone by, had a
 symbolical importance. Thus, it was anciently the custom for every
 monarch to have a ring, the temporary possession of which invested the
 holder with the same authority as the owner himself could exercise.
@@ -64,7 +64,7 @@ Gloucester;
 <span id="page_363">p. 363</span>
 
    There is an interesting relic of the same custom still kept up at
-Winchester College. <span id="fr_760"></span>[1](#fn_758) When the
+Winchester College. <span id="fr_760"></span>[1](#fn_758.md) When the
 captain of the school petitions the head-master for a holiday, and
 obtains it, he receives from him a ring, in token of the indulgence
 granted, which he wears during the holiday, and returns to the
@@ -150,11 +150,11 @@ ornaments shaped like coffins, holding enamelled skeletons, hung from
 the neck; watches, made to fit in little silver skulls were attached to
 the waists of the denizens of a court that alternately indulged in
 profanity or piety, but who mourned show." <span
-id="fr_761"></span>[1](#fn_759)
+id="fr_761"></span>[1](#fn_759.md)
 
    *Posy-rings* were formerly much used—it having been customary to
 inscribe a motto or "posy" within the hoop of the betrothal ring. <span
-id="fr_762"></span>[2](#fn_760)\* Thus in the "Merchant of Venice" (v.
+id="fr_762"></span>[2](#fn_760.md)\* Thus in the "Merchant of Venice" (v.
 1), Gratiano, when asked by Portia the reason of his quarrel with
 Nerissa, answers—
 
@@ -204,7 +204,7 @@ more conspicuous—appears to have been considered as appropriate to the
 customary attire of a civic dignitary at a much later period. A
 character in the Lord Mayor Show in 1664 is described as 'habited like a
 grave citizen—gold girdle and gloves hung thereon, rings on his fingers,
-and a seal ring on his thumb.'" <span id="fr_763"></span>[1](#fn_761)
+and a seal ring on his thumb.'" <span id="fr_763"></span>[1](#fn_761.md)
 Chaucer in his "Squire's Tale," says of the rider of the brazen horse
 who advanced into the hall, Cambuscan, that "upon his thumb he had of
 gold a ring." In "Romeo and Juliet" (i. 4), Mercutio speaks of the—
@@ -247,7 +247,7 @@ according to Johnson, "had an agate for my man;" was waited on by an
 agate.
 
    *Carbuncle*.—The supernatural lustre of this gem <span
-id="fr_764"></span>[1](#fn_762) is supposed to be described in "Titus
+id="fr_764"></span>[1](#fn_762.md) is supposed to be described in "Titus
 Andronicus" (ii. 3), where, speaking of the ring on the finger of
 Bassianus, Martius says—
 
@@ -283,7 +283,7 @@ Crested aloof, and carbuncle his eyes."</span>
 
 </div>
 
-   John Norton, <span id="fr_765"></span>[2](#fn_763) an alchemist in
+   John Norton, <span id="fr_765"></span>[2](#fn_763.md) an alchemist in
 the reign of Edward IV., wrote a poem entitled the "Ordinal," or a
 manual of the chemical art. One of his projects, we are told, was a
 bridge of gold over the Thames, crowned with pinnacles of gold, which,
@@ -321,7 +321,7 @@ I’ld not have sold her for it."</span>
 
    *Pearls*.—The eastern custom of powdering sovereigns at their
 coronation with gold dust and seed pearl is alluded to in "Antony and
-Cleopatra" <span id="fr_766"></span>[1](#fn_764) (ii. 5)—
+Cleopatra" <span id="fr_766"></span>[1](#fn_764) (ii. 5.md)—
 
 <div style="margin-left: 32px">
 
@@ -345,7 +345,7 @@ royal and mercantile prodigality. In "Hamlet" (v. 2), the King says—
 <div style="margin-left: 32px">
 
 <span class="small">"The king shall drink to Hamlet's better breath;  
- And in the cup an union <span id="fr_767"></span>[2](#fn_765) shall he
+ And in the cup an union <span id="fr_767"></span>[2](#fn_765.md) shall he
 throw."</span>
 
 </div>
@@ -379,7 +379,7 @@ cordiales sunt."
 
    Much mystery was in bygone days thought to hang over the origin of
 pearls, and according to the poetic Orientals, <span
-id="fr_768"></span>[1](#fn_766) "Every year, on the sixteenth day of the
+id="fr_768"></span>[1](#fn_766.md) "Every year, on the sixteenth day of the
 month Nisan, the pearl oysters rise to the sea and open their shells, in
 order to receive the rain which falls at that time, and the drops thus
 caught become pearls." Thus, in "Richard III." (iv. 4), the king says:—
@@ -408,7 +408,7 @@ turkey-stone, having from a remote period, been supposed to possess
 talismanic properties. Thus, in the "Merchant of Venice" (iii. 1),
 Shylock says:—"It was my turquoise; I had it of Leah when I was a
 bachelor: I would not have given it for a wilderness of monkeys." Mr
-Dyce <span id="fr_769"></span>[2](#fn_767) says that Shylock valued his
+Dyce <span id="fr_769"></span>[2](#fn_767.md) says that Shylock valued his
 torquoise, "not only as being the gift of Leah, but on account of the
 imaginary virtues ascribed to it; which was supposed to become pale or
 to brighten according as the health of the wearer was bad or good."
@@ -437,47 +437,47 @@ whole force of the blow. With the Germans, the turquoise is still the
 gem appropriated to the ring, the "gage d’amour," presented by the lover
 on the acceptance of his suit, the permanence of its colour being
 believed to depend upon the constancy of his affection. <span
-id="fr_770"></span>[1](#fn_768)
+id="fr_770"></span>[1](#fn_768.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_757"></span>[362:1](flos17.htm#fr_759) Jones's "Finger-Ring
+<span id="fn_757"></span>[362:1](flos17.htm#fr_759.md) Jones's "Finger-Ring
 Lore," 1877, p. 91.
 
-<span id="fn_758"></span>[363:1](flos17.htm#fr_760) Wordsworth's
+<span id="fn_758"></span>[363:1](flos17.htm#fr_760.md) Wordsworth's
 "Shakespeare and the Bible," 1880, p. 283.
 
-<span id="fn_759"></span>[364:1](flos17.htm#fr_761) See Jones's "Finger
+<span id="fn_759"></span>[364:1](flos17.htm#fr_761.md) See Jones's "Finger
 Ring Lore," 1877, p. 372.
 
-<span id="fn_760"></span>[364:2](flos17.htm#fr_762) Ibid, pp. 390–418;
+<span id="fn_760"></span>[364:2](flos17.htm#fr_762.md) Ibid, pp. 390–418;
 see "Notes and Queries."
 
-<span id="fn_761"></span>[365:1](flos17.htm#fr_763) See Jones's "Finger
+<span id="fn_761"></span>[365:1](flos17.htm#fr_763.md) See Jones's "Finger
 Ring Lore," 1877, p. 88.
 
-<span id="fn_762"></span>[366:1](flos17.htm#fr_764) See Sir Thomas
+<span id="fn_762"></span>[366:1](flos17.htm#fr_764.md) See Sir Thomas
 Browne's "Vulgar Errors."
 
-<span id="fn_763"></span>[366:2](flos17.htm#fr_765) Jones’ "Precious
+<span id="fn_763"></span>[366:2](flos17.htm#fr_765.md) Jones’ "Precious
 Stones," 1880, p. 62.
 
-<span id="fn_764"></span>[367:1](flos17.htm#fr_766) See Singer's
+<span id="fn_764"></span>[367:1](flos17.htm#fr_766.md) See Singer's
 "Shakespeare," x. p. 213.
 
-<span id="fn_765"></span>[367:2](flos17.htm#fr_767) An union is a
+<span id="fn_765"></span>[367:2](flos17.htm#fr_767.md) An union is a
 precious pearl, remarkable for its size.
 
-<span id="fn_766"></span>[368:1](flos17.htm#fr_768) See Jones's "History
+<span id="fn_766"></span>[368:1](flos17.htm#fr_768.md) See Jones's "History
 and Mystery of Precious Stones," p. 116.
 
-<span id="fn_767"></span>[368:2](flos17.htm#fr_769) "Glossary," p. 465.
+<span id="fn_767"></span>[368:2](flos17.htm#fr_769.md) "Glossary," p. 465.
 
-<span id="fn_768"></span>[369:1](flos17.htm#fr_770) See C. W. King on
+<span id="fn_768"></span>[369:1](flos17.htm#fr_770.md) See C. W. King on
 "Precious Stones." 1867, p. 267.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Sports and Pastimes](flos18)
+[Next: Chapter XVI. Sports and Pastimes](flos18.md)

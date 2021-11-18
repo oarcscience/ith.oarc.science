@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb12)  [Next](refb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb12)  [Next](refb14.md) 
 
 </div>
 
@@ -430,6 +430,6 @@ Prince, and his wife, and the baby lived happy ever afterwards.\[9\]
 
 ------------------------------------------------------------------------
 
-[Next: Jack and the Beanstalk](refb14)
+[Next: Jack and the Beanstalk](refb14.md)
 
 </div>

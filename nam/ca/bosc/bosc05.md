@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc04)  [Next](bosc06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc04)  [Next](bosc06.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,7 +189,7 @@ his rancherias he wished to go when he died? He answered, "to neither,
 for they were inhabited by people, and he should go where be would be
 alone, and could see the inhabitants of all the pueblos and rancherias."
 They offered to bury him, placing him under the earth, but he said "no,"
-that [they](errata.htm#1) would walk upon him, and he would have to
+that [they](errata.htm#1.md) would walk upon him, and he would have to
 chastise them. "No!" said Chinigchinich, "when I die, I shall ascend
 above, to the stars, and from thence, I shall always see you; and to
 those who have kept my commandments, I shall give all they ask of me;
@@ -220,4 +220,4 @@ idolatrous.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Description of the Vanquech or Temple](bosc06)
+[Next: Chapter IV. Description of the Vanquech or Temple](bosc06.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou09)  [Next](hou11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou09)  [Next](hou11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -58,8 +58,8 @@ arrived at that city on the 6th of August, 1844.
 the 1st of June, 1801. His father, John, a Massachusetts farmer, served
 as a private soldier in the revolutionary war, and his grandfather as
 surgeon in the French and Indian war. <span
-id="fr_211"></span>[1](#fn_211) In 1804 his family, which included nine
-children, <span id="fr_212"></span>[2](#fn_212) of whom he was then the
+id="fr_211"></span>[1](#fn_211.md) In 1804 his family, which included nine
+children, <span id="fr_212"></span>[2](#fn_212.md) of whom he was then the
 youngest, removed to Sherburn, Chenango county, New York, where for a
 time hardship and poverty were their lot. Concerning Brigham's youth
 there is little worthy of record. Lack of means compelled him, almost
@@ -73,15 +73,15 @@ craftsman.
 resided; and here, for the first time, he saw the book of Mormon at the
 house of his brother Phineas, who had been a pastor in the reformed
 methodist church, but was now a convert to Mormonism. <span
-id="fr_213"></span>[3](#fn_213)
+id="fr_213"></span>[3](#fn_213.md)
 
 <span id="page_195">p. 195</span>
 
     About two years later he himself was converted <span
-id="fr_214"></span>[4](#fn_214) by the preaching of Elder Samuel H.
+id="fr_214"></span>[4](#fn_214.md) by the preaching of Elder Samuel H.
 Smith, brother of the prophet; on the 14th of April, 1832, he was
 baptized, and on the same night ordained an elder, his father <span
-id="fr_215"></span>[5](#fn_215) and all his brothers afterward becoming
+id="fr_215"></span>[5](#fn_215.md) and all his brothers afterward becoming
 proselytes. During the same month he set forth to meet the prophet at
 Kirtland, where he found him and several of his brethren chopping wood.
 "Here," says Brigham, "my joy was full at the privilege of shaking the
@@ -96,12 +96,12 @@ will be remembered, one of the quorum of the twelve, and the following
 spring set forth on a missionary tour to the eastern states. Returning
 early in the winter, he saved the life of the prophet, and otherwise
 rendered good service during the great apostasy of 1836, when the church
-passed through its darkest hour. <span id="fr_216"></span>[6](#fn_216)
+passed through its darkest hour. <span id="fr_216"></span>[6](#fn_216.md)
 
     Brigham was ever a devoted follower of the prophet, and at the risk
 of his own life, shielded him against the persecutions of apostates. At
 the close of 1837 he was driven by their machinations from
-Kirtland, <span id="fr_217"></span>[7](#fn_217)
+Kirtland, <span id="fr_217"></span>[7](#fn_217.md)
 
 <span id="page_196">p. 196</span>
 
@@ -111,11 +111,11 @@ he went to Missouri, arriving at Far West a short time before the
 massacre at Haun's Mill. Once more Brigham was compelled to flee for his
 life, and now betook himself to Quincy, where he raised means to aid the
 destitute brethren in leaving Missouri, <span
-id="fr_218"></span>[8](#fn_218) and directed the first settlement of the
+id="fr_218"></span>[8](#fn_218.md) and directed the first settlement of the
 saints in Illinois, the prophet Joseph, Parley P. Pratt, and others
 being then in prison.
 
-    By revelation of July 8, 1838, <span id="fr_219"></span>[9](#fn_219)
+    By revelation of July 8, 1838, <span id="fr_219"></span>[9](#fn_219.md)
 it was ordered that eleven of the quorum should "depart to go over the
 great waters, and there promulgate my gospel, the fulness thereof, and
 bear record of my name. Let them take leave of my saints in the city Far
@@ -135,7 +135,7 @@ of the 26th
 <span id="page_197">p. 197</span>
 
 they held a conference, relaid the foundation of the house of the
-Lord, <span id="fr_220"></span>[10](#fn_220) and ordained Wilford
+Lord, <span id="fr_220"></span>[10](#fn_220.md) and ordained Wilford
 Woodruff and George A. Smith as apostles in place of those who had
 fallen from grace. "Thus," says Brigham, "was this revelation fulfilled,
 concerning which our enemies said, if all the other revelations of
@@ -149,13 +149,13 @@ church councils at Nauvoo he was appointed by revelation on the 19th of
 January, 1843, president of the twelve travelling council.
 
     After the founding of Nauvoo, the president, together with three
-others of the quorum, <span id="fr_221"></span>[11](#fn_221) sailed for
+others of the quorum, <span id="fr_221"></span>[11](#fn_221.md) sailed for
 Liverpool, where they arrived on the 6th of April, 1840, the tenth
 anniversary of the organization of the church. Here he was engaged for
 about a year in missionary work, of which more hereafter. Taking ship
 for New York on the 20th of April, 1841, he reached Nauvoo on the 1st of
 July, and was warmly welcomed by the prophet, who a few days
-afterward <span id="fr_222"></span>[12](#fn_222) received the following
+afterward <span id="fr_222"></span>[12](#fn_222.md) received the following
 revelation: "Dear and well-beloved brother Brigham Young, verily thus
 saith the Lord unto you, my servant Brigham, it is no more required at
 your hand to leave your family as in times past, for your offering is
@@ -194,14 +194,14 @@ labor, had encountered many trials, and had received scanty honors,
 being at present nothing more than preacher, and professor of history,
 belles-lettres, and oratory. By revelation of January 19, 1841, he had
 been offered the position of counsellor to the prophet, <span
-id="fr_223"></span>[13](#fn_223)
+id="fr_223"></span>[13](#fn_223.md)
 
 <span id="page_199">p. 199</span>
 
 if he would consent to humble himself. But Sidney would not humble
 himself. Soon after Joseph's death, at which he was not present, he had
 a revelation of his own, bidding him conduct the saints to
-pittsburgh. <span id="fr_224"></span>[14](#fn_224) Visiting that city,
+pittsburgh. <span id="fr_224"></span>[14](#fn_224.md) Visiting that city,
 he found the time not yet ripe for this measure; and meanwhile returning
 to Nauvoo, the 3d of August, he offered himself on the following day as
 a candidate for the presidency, aided by Elder Marks.
@@ -230,7 +230,7 @@ Lord has not chosen him," said one to another. The assembly then
 adjourned to two o'clock, when the saints in and about Nauvoo gathered
 in great numbers. After singing and prayer, through the vast assemblage
 was heard a voice, strikingly clear, distinct, and penetrating. <span
-id="fr_225"></span>[15](#fn_225) It was the voice of Brigham, who said:
+id="fr_225"></span>[15](#fn_225.md) It was the voice of Brigham, who said:
 "Attention, all! For the first time in my life I am called to act as
 chief of the twelve; for the first time in your lives you are called to
 walk by faith, your prophet being no longer present in the flesh. I
@@ -240,17 +240,17 @@ evangelist, or something else as your head to lead you. All who wish to
 draw away from the church, let them do it, but they will not prosper. If
 any want Sidney Rigdon to lead them, let them have him; but I say unto
 you that the keys of the kingdom are with the twelve." <span
-id="fr_226"></span>[16](#fn_226)
+id="fr_226"></span>[16](#fn_226.md)
 
     It was then put to vote, Brigham meanwhile saying, "All those who
 are for Joseph and Hyrum, the book of Mormon, book of Doctrine and
 Covenants, the temple, and Joseph's measures, they being one party, will
 be called upon to manifest their principles boldly, the opposite party
-to enjoy the same liberty." <span id="fr_227"></span>[17](#fn_227) The
+to enjoy the same liberty." <span id="fr_227"></span>[17](#fn_227.md) The
 result was ten votes for Sidney, the quorum with Brigham at their head
 getting all the rest. Elder Philips then motioned that all "who have
 voted for Sidney Rigdon be suspended until they can have a trial before
-the high council." <span id="fr_228"></span>[18](#fn_228)
+the high council." <span id="fr_228"></span>[18](#fn_228.md)
 
     The truth is, Sidney was no match for Brigham. It was a battle of
 the lion and the lamb; only Brigham
@@ -281,7 +281,7 @@ himself, and gaining constantly more and more confidence in himself,
 gaining constantly more and more the respect, fear, and obedience of
 those about him, until he was able to consign Sidney to the buffetings
 of Satan for a thousand years, while Brigham remained president and
-supreme ruler of the church. <span id="fr_229"></span>[19](#fn_229)
+supreme ruler of the church. <span id="fr_229"></span>[19](#fn_229.md)
 
 <span id="page_202">p. 202</span>
 
@@ -297,7 +297,7 @@ self-advancement here on earth, so much the better for the saints.
 strike, and you shall hear me," Brigham would say.
 
     No wonder the American Israel received Brigham as the gift of God,
-the Lion of the Lord, <span id="fr_230"></span>[20](#fn_230) though the
+the Lion of the Lord, <span id="fr_230"></span>[20](#fn_230.md) though the
 explanation of the new ruler himself would have been nearer that of the
 modern evolutionist, who would account for Brigham's success as the
 survival of the fittest. It was fortunate for the saints at this
@@ -363,7 +363,7 @@ massive—his appearance was that of a self-reliant and strong-willed man,
 of one born to be master of himself and many others. In manner and
 address he was easy and void of affectation, deliberate in speech,
 conveying his original and suggestive ideas in apt though homely
-phrase. <span id="fr_231"></span>[21](#fn_231) When in council he was
+phrase. <span id="fr_231"></span>[21](#fn_231.md) When in council he was
 cool and imperturbable, slow to decide, and in no haste to act; but when
 the time for action came he worked with an energy that was satisfied
 only with success.
@@ -411,7 +411,7 @@ keen judge of character. "If he dislikes a stranger at the first
 interview, he never sees him again. Of his temperance and sobriety there
 is but one opinion. His life is ascetic; his favorite food is baked
 potatoes with a little buttermilk, and his drink water." <span
-id="fr_232"></span>[22](#fn_232)
+id="fr_232"></span>[22](#fn_232.md)
 
 <span id="page_206">p. 206</span>
 
@@ -426,13 +426,13 @@ women and children who held out their hands for bread.
 
     For a brief space after the election of Brigham the saints had rest.
 The city of Nauvoo continued to thrive; <span
-id="fr_233"></span>[23](#fn_233) a portion of the temple was finished
-and dedicated, <span id="fr_234"></span>[24](#fn_234) the building of
+id="fr_233"></span>[23](#fn_233.md) a portion of the temple was finished
+and dedicated, <span id="fr_234"></span>[24](#fn_234.md) the building of
 the Nauvoo house and council-house was progressing rapidly.
 
     Their buildings were erected with great sacrifice of time, and
 amidst difficulties and discouragement in consequence of poverty. Money
-was exceedingly scarce. <span id="fr_235"></span>[25](#fn_235) The
+was exceedingly scarce. <span id="fr_235"></span>[25](#fn_235.md) The
 revelation requiring tithing, made in 1838, was first practically
 applied in Nauvoo; the tenth day was regularly given to work on the
 temple; the penny subscriptions of the sisters are mentioned, which was
@@ -443,23 +443,23 @@ their water-power. At a meeting of the trades delegates
 <span id="page_207">p. 207</span>
 
 there was intelligent discussion as to the place becoming a great
-manufacturing centre. <span id="fr_236"></span>[26](#fn_236)
+manufacturing centre. <span id="fr_236"></span>[26](#fn_236.md)
 
     In January 1845 it was proposed that a building for the high-priests
 should be erected, to cost $15,000, and the work was cheerfully
 undertaken. There were frequent entertainments given in the way of
 dances and public dinners in the Nauvoo mansion and in the bowery six
-miles out of the city. <span id="fr_237"></span>[27](#fn_237) At their
+miles out of the city. <span id="fr_237"></span>[27](#fn_237.md) At their
 conference in April, thousands gathered. The temple was pushed forward,
 as the people were counselled to receive their endowments there as early
 as possible. On the 24th of May the walls were finished, and the event
-was duly celebrated. <span id="fr_238"></span>[28](#fn_238) On the 5th
+was duly celebrated. <span id="fr_238"></span>[28](#fn_238.md) On the 5th
 of October their first meeting in the temple was held. <span
-id="fr_239"></span>[29](#fn_239) From mites and tithings it was
+id="fr_239"></span>[29](#fn_239.md) From mites and tithings it was
 estimated that a million dollars had been raised. Brigham, Parley, and
 others of the quorum administered in the temples to hundreds of people,
 the services often continuing all day and night. <span
-id="fr_240"></span>[30](#fn_240) At the end of December one thousand of
+id="fr_240"></span>[30](#fn_240.md) At the end of December one thousand of
 the people had received the ordinances. And all this was done midst
 renewed persecutions, and while the people were making preparations to
 evacuate the city.
@@ -480,7 +480,7 @@ never granted. These and like measures, followed as they were by the
 discharge of Joseph Smith's assassins, imparted to the gentiles renewed
 courage. The crimes of the whole country were laid at the door of the
 saints. Nauvoo was denounced as a den of counterfeiters, cattle-thieves,
-and assassins, <span id="fr_241"></span>[31](#fn_241) the leaders of the
+and assassins, <span id="fr_241"></span>[31](#fn_241.md) the leaders of the
 gang being men who in the name of religion outraged all sense of
 decency. The smuts retaliated in kind; and shortly it came about that in
 sections settled by Mormons gentiles feared to travel, and in sections
@@ -507,7 +507,7 @@ held. Soon the cry went abroad that the Mormons were in arms, and there
 were quickly volunteers at hand to help the men of Morley. A meeting was
 held, and it was resolved to expel the saints. At the time appointed,
 armed bands appeared and burned some twenty Mormon dwellings, driving
-the inmates into the bushes. <span id="fr_242"></span>[32](#fn_242) The
+the inmates into the bushes. <span id="fr_242"></span>[32](#fn_242.md) The
 people of Illinois were evidently now determined to adopt the previous
 policy of the men of Missouri. This was not all. Word had come that
 forces from Nauvoo were moving to the aid of the Mormons at Morley,
@@ -515,14 +515,14 @@ whereupon the gentiles throughout all that region banded, threatening to
 burn and drive out the saints until not one should remain. As a
 beginning, Buel's flouring mill and carding machine, near Lima, the
 property of a Mormon, was reduced to ashes. <span
-id="fr_243"></span>[33](#fn_243)
+id="fr_243"></span>[33](#fn_243.md)
 
     And now the men of Quincy, their old friends and benefactors, turned
 against them; and though not manifesting the deadly hate displayed in
 some quarters, were nevertheless resolved that the Mormons should depart
 from the stake. On the 22d the citizens met and agreed that further
 efforts to live in peace with the Mormons were useless. <span
-id="fr_244"></span>[34](#fn_244)
+id="fr_244"></span>[34](#fn_244.md)
 
     Indeed, the saints themselves had reached the
 
@@ -536,7 +536,7 @@ and Illinois, most of their proselytes coming from other parts of the
 United States and from Europe. The whole great west was open to them;
 even during the days of Joseph there had been talk of some happy
 Arcadian retreat far away from every adverse influence; <span
-id="fr_245"></span>[35](#fn_245) and in the fertile brain of Brigham the
+id="fr_245"></span>[35](#fn_245.md) and in the fertile brain of Brigham the
 idea assumed proportions yet broader and of more intensified form,
 significant of western empire and isolation somewhere in California or
 the Pacific isles, with himself as leader, and followers drawn from
@@ -545,16 +545,16 @@ every quarter of the globe.
     A general council was held on the 9th of September, at which it was
 resolved that a company of fifteen hundred men be selected to go to Salt
 Lake Valley, and a committee of five was appointed to gather information
-relative to the subject. <span id="fr_246"></span>[36](#fn_246) There
+relative to the subject. <span id="fr_246"></span>[36](#fn_246.md) There
 were frequent meetings of the authorities and consultations in regard to
-emigrating to California. <span id="fr_247"></span>[37](#fn_247)
+emigrating to California. <span id="fr_247"></span>[37](#fn_247.md)
 
     The saints would go, they said, but they must have a reasonable time
 in which to dispose of their property
 
 <span id="page_211">p. 211</span>
 
-and leave the country. <span id="fr_248"></span>[38](#fn_248) The
+and leave the country. <span id="fr_248"></span>[38](#fn_248.md) The
 meeting at Quincy, notice of which with a copy of the resolutions was
 sent to Nauvoo, named six months as the time within which the Mormons
 must depart. In answer, the council of the church replied, on the 24th
@@ -565,19 +565,19 @@ that they would go far enough, God helping them, forever thereafter to
 be free from their enemies. Meanwhile all they asked was that they
 should not be further molested by armed bands or suits at law, but
 rather assisted in selling their property and collecting their
-effects. <span id="fr_249"></span>[39](#fn_249)
+effects. <span id="fr_249"></span>[39](#fn_249.md)
 
     To this the men of Quincy gave assent; at the same time pledging
 themselves to prompt action in case of failure oil the part of the
 saints to keep their promise, and taking measures to secure a military
 organization of the people of Adams county. <span
-id="fr_250"></span>[40](#fn_250)
+id="fr_250"></span>[40](#fn_250.md)
 
     It was not to be expected that Carthage would remain idle while
 other towns were acting. A convention of delegates from nine surrounding
 counties was held there about the end of September, and four
 commissioners, among whom were Hardin, commander of the state militia,
-and Douglas, senator, <span id="fr_251"></span>[41](#fn_251) were sent
+and Douglas, senator, <span id="fr_251"></span>[41](#fn_251.md) were sent
 to Nauvoo to demand the departure of the Mormons. The deputation was met
 by the council of the twelve with the president at their head, and
 answer was promptly made that the removal would
@@ -590,7 +590,7 @@ is right," said Douglas. But this reply would not satisfy all the
 commissioners, and the twelve were requested to submit their intentions
 in writing, in order that they might be laid before the governor and
 people of the state. This was done. <span
-id="fr_252"></span>[42](#fn_252)
+id="fr_252"></span>[42](#fn_252.md)
 
     The commissioners then returned home; but not even yet were the men
 of Carthage content. To the resolutions passed at Quincy were added
@@ -625,7 +625,7 @@ Allen's six-shooting pistols.
 
 ### Footnotes
 
-<span id="fn_211"></span>[194:1](hou10.htm#fr_211) *Waite's The Mormon
+<span id="fn_211"></span>[194:1](hou10.htm#fr_211.md) *Waite's The Mormon
 Prophet and his Harem*. Linforth, *Route from Liverpool*, 112, note,
 states that his grandfather was an officer in the revolutionary war;
 this is not confirmed by Mrs Waite, who quotes from Brigham's
@@ -633,26 +633,26 @@ autobiography. Again, Nabby Howe was the maiden name of Brigham's
 mother, as given in his autobiography; while Linforth reads Nancy Howe;
 and Remy, *Jour. to G. S. L. City*, i. 413, Naleby Howe.
 
-<span id="fn_212"></span>[194:2](hou10.htm#fr_212) Born as follow:
+<span id="fn_212"></span>[194:2](hou10.htm#fr_212.md) Born as follow:
 Nancy, Aug. 6, 1786, Fanny, Nov. 8, 1787, Rhoda, Sept. 10, 1789, John,
 May 22, 1791, Nabby, Apr. 23, 1793, Susannah, June 7, 1795, Joseph, Apr.
 7, 1797, Phineas, Feb. 16, 1799, and Brigham, June 1, 1801. Two others
 were born later: Louisa, Sept. 25, 1804, and Lorenzo Dow, Oct. 19, 1807.
 
-<span id="fn_213"></span>[194:3](hou10.htm#fr_213) In *Ibid*., it is
+<span id="fn_213"></span>[194:3](hou10.htm#fr_213.md) In *Ibid*., it is
 mentioned that before the organization of the latter-day <span
 id="page_195">p. 195</span> church, Phineas had wrought a miracle,
 'whereby a young girl on the point of death had been restored to life.'
 Remy does not give his authority.
 
-<span id="fn_214"></span>[195:4](hou10.htm#fr_214) At a branch of the
+<span id="fn_214"></span>[195:4](hou10.htm#fr_214.md) At a branch of the
 church at Columbia, Penn. *Tullidge's Life of Young*, 78.
 
-<span id="fn_215"></span>[195:5](hou10.htm#fr_215) John Young was made
+<span id="fn_215"></span>[195:5](hou10.htm#fr_215.md) John Young was made
 first patriarch of the church. He died at Quincy, Ill., Oct. 12, 1839.
 *Waite's The Mormon Prophet*, 2.
 
-<span id="fn_216"></span>[195:6](hou10.htm#fr_216) *Tullidge's Life of
+<span id="fn_216"></span>[195:6](hou10.htm#fr_216.md) *Tullidge's Life of
 Brigham Young*, 83. In a speech delivered after he became president,
 Brigham says: 'Ascertaining that a plot was laid to waylay Joseph for
 the purpose of taking his life, on his return from Monroe, Michigan, to
@@ -661,7 +661,7 @@ along to meet Joseph, whom we met returning in the stage-coach. Joseph
 requested William to take his seat in the stage, and he rode with me in
 the buggy. We arrived at Kirtland in safety.'
 
-<span id="fn_217"></span>[195:7](hou10.htm#fr_217) 'On the morning of
+<span id="fn_217"></span>[195:7](hou10.htm#fr_217.md) 'On the morning of
 Dec. 22d I left Kirtland in consequence of the fury <span
 id="page_196">p. 196</span> of the mob, and the spirit that prevailed in
 the apostates, who threatened to destroy me because I would proclaim
@@ -669,7 +669,7 @@ publicly and privately that I knew, by the power of the holy ghost, that
 Joseph Smith was a prophet of the most high God, and had not
 transgressed and fallen, as apostates declared.' *Id*., 84.
 
-<span id="fn_218"></span>[196:8](hou10.htm#fr_218) I held a meeting with
+<span id="fn_218"></span>[196:8](hou10.htm#fr_218.md) I held a meeting with
 the brethren of the twelve and the members of the church in Quincy, on
 the 17th of March, when a letter was read to the people from the
 committee, on behalf of the saints at Far West, who were left destitute
@@ -680,23 +680,23 @@ accomplish the object. At the close of the meeting $50 was collected in
 money and several teams were subscribed to go and bring the brethren.'
 *Id*., 89-90.
 
-<span id="fn_219"></span>[196:9](hou10.htm#fr_219) This is the date
+<span id="fn_219"></span>[196:9](hou10.htm#fr_219.md) This is the date
 given in *Doctrine and Covenants*, 381 (ed. S. L. City, 1876). See also
 *Linforth's Route from Liverpool*, 112, note. Tullidge gives July 8,
 1836. *Life of Brigham Young*, 90.
 
-<span id="fn_220"></span>[197:10](hou10.htm#fr_220) 'Elder Cutler, the
+<span id="fn_220"></span>[197:10](hou10.htm#fr_220.md) 'Elder Cutler, the
 master workman of the house, recommenced laying the foundation by
 rolling up a large stone near the south-east corner. *Id*., 92.
 
-<span id="fn_221"></span>[197:11](hou10.htm#fr_221) Heber C. Kimball,
+<span id="fn_221"></span>[197:11](hou10.htm#fr_221.md) Heber C. Kimball,
 George A. Smith, and Parley P. Pratt. Reuben Hedlock also accompanied
 them.
 
-<span id="fn_222"></span>[197:12](hou10.htm#fr_222) On July 9th.
+<span id="fn_222"></span>[197:12](hou10.htm#fr_222.md) On July 9th.
 *Doctrine and Covenants*, 409.
 
-<span id="fn_223"></span>[198:13](hou10.htm#fr_223) *Doctrine and
+<span id="fn_223"></span>[198:13](hou10.htm#fr_223.md) *Doctrine and
 Covenants*, 406. In this same revelation the officers of the priesthood
 were likewise named: Hyrum Smith, patriarch; Joseph Smith, presiding
 elder over the whole church, also translator, revelator, seer, and
@@ -718,30 +718,30 @@ elders constantly travelling, while the quorum of elders was to preside
 over the churches from time to time; to preside over the bishopric,
 Vinson Knight, Samuel H. Smith, and Shadrach Roundy, and others.
 
-<span id="fn_224"></span>[199:14](hou10.htm#fr_224) See his memorial to
+<span id="fn_224"></span>[199:14](hou10.htm#fr_224.md) See his memorial to
 the Pennsylvania legislature, in *Times and Seasons*, v. 418-23. Remy
 says that he was also instructed to pay a visit; to Queen Victoria, and
 overthrow her if she refused to accept the gospel. *Jour. to G. S. L.
 City*, i. 411; a statement for which I find no authority.
 
-<span id="fn_225"></span>[200:15](hou10.htm#fr_225) 'He \[Brigham\]
+<span id="fn_225"></span>[200:15](hou10.htm#fr_225.md) 'He \[Brigham\]
 said, as he stood on the stand, he would rather sit in sackcloth and
 ashes for a month than appear before the people, but he pitied their
 loneliness, and was constrained to step forward, and we know he was,
 because he had the voice and manner of Joseph, as hundreds can testify.'
 *Reminiscences of Mrs F. D. Richards*, MS., p. 14.
 
-<span id="fn_226"></span>[200:16](hou10.htm#fr_226) *Woodruff's
+<span id="fn_226"></span>[200:16](hou10.htm#fr_226.md) *Woodruff's
 Journal*, MS., Aug. 8, 1844.
 
-<span id="fn_227"></span>[200:17](hou10.htm#fr_227) *Hist. Brigham
+<span id="fn_227"></span>[200:17](hou10.htm#fr_227.md) *Hist. Brigham
 Young*, 1844, MS., 25.
 
-<span id="fn_228"></span>[200:18](hou10.htm#fr_228) Wifford Woodruff
+<span id="fn_228"></span>[200:18](hou10.htm#fr_228.md) Wifford Woodruff
 states that Rigdon did not receive a single vote. *Reminiscences*, MS.,
 2.
 
-<span id="fn_229"></span>[201:19](hou10.htm#fr_229) Sidney had a trial,
+<span id="fn_229"></span>[201:19](hou10.htm#fr_229.md) Sidney had a trial,
 and was convicted and condemned. Sidney Rigdon was a native of Saint
 Clair, Penn., where he was born in 1793. Until his 26th year he worked
 on his father's farm, but in 1819 received a license to preach, from the
@@ -760,15 +760,15 @@ to Pittsburgh after his excommunication, Sidney led a life of utter
 obscurity, and finally died at Friendship, Allegheny County, N. Y., July
 14, 1876. *Lippincott's Mag*., Aug. 1880.
 
-<span id="fn_230"></span>[202:20](hou10.htm#fr_230) See note
-[41](hou09.htm#fn_209), [p. 192](hou09.htm#page_192), this vol.
+<span id="fn_230"></span>[202:20](hou10.htm#fr_230.md) See note
+[41](hou09.htm#fn_209), [p. 192](hou09.htm#page_192.md), this vol.
 
-<span id="fn_231"></span>[204:21](hou10.htm#fr_231) Bowles, *Across the
+<span id="fn_231"></span>[204:21](hou10.htm#fr_231.md) Bowles, *Across the
 Continent*, 86, says that even at 64 he spoke ungrammatically. This
 criticism is a fair commentary on the difference between a Bowles and a
 Brigham.
 
-<span id="fn_232"></span>[205:22](hou10.htm#fr_232) *City of the
+<span id="fn_232"></span>[205:22](hou10.htm#fr_232.md) *City of the
 Saints*, 292—3,; *Mormonism*, 170. Hyde is by no means one of Brigham's
 flatterers, but appears to speak from conviction. On the same page he
 remarks: 'Brigham may be a great man, greatly deceived, but he <span
@@ -780,7 +780,7 @@ short and succinct narrative of Brigham's career up to the assassination
 of Joseph Smith, probably the best that has yet been written in such
 brief space.
 
-<span id="fn_233"></span>[206:23](hou10.htm#fr_233) 'Almost every
+<span id="fn_233"></span>[206:23](hou10.htm#fr_233.md) 'Almost every
 stranger that enters our city is excited with astonishment that so much
 has been done in so short a time.' Likewise there was always work enough
 for them among the gentiles, who 'did not know how to make a short
@@ -793,15 +793,15 @@ fields and gardens.' *Millennial Star*, viii. 115. Bennett mentions a
 community farm near Nauvoo, which was cultivated in common by the poorer
 classes. *History of the Saints*, 191.
 
-<span id="fn_234"></span>[206:24](hou10.htm#fr_234) It was dedicated May
+<span id="fn_234"></span>[206:24](hou10.htm#fr_234.md) It was dedicated May
 1, 1846, by Wilford Woodruff and Orson Hyde. Two days later they held
 their last meeting there. *Woodruff's Rem*., MS., 3.
 
-<span id="fn_235"></span>[206:25](hou10.htm#fr_235) 'When corn was
+<span id="fn_235"></span>[206:25](hou10.htm#fr_235.md) 'When corn was
 brought to my door at ten cents a bushel, and sadly needed, the money
 could not be raised.' *Utah Notes*, MS., p. 6.
 
-<span id="fn_236"></span>[207:26](hou10.htm#fr_236) There was $500 or
+<span id="fn_236"></span>[207:26](hou10.htm#fr_236.md) There was $500 or
 $600 already collected from the penny subscriptions, which was drawn by
 order of Brigham to meet a debt on land which must be immediately paid.
 *Hist. B. Young* MS., Dec. 5, 1844. John Taylor says it was intended to
@@ -811,29 +811,29 @@ rapids, near Nauvoo, stood an island, to which it was proposed to build
 a dam, leaving spaces for water-wheels, and thus securing power for
 mills. *Rem*., MS., 19-20.
 
-<span id="fn_237"></span>[207:27](hou10.htm#fr_237) In *Hist. B. Young*,
+<span id="fn_237"></span>[207:27](hou10.htm#fr_237.md) In *Hist. B. Young*,
 MS., July 9, 1845, is a description of a public dinner for the benefit
 of the church, where Young, Kimball, Taylor, and others officiated at
 the table.
 
-<span id="fn_238"></span>[207:28](hou10.htm#fr_238) At six o'clock in
+<span id="fn_238"></span>[207:28](hou10.htm#fr_238.md) At six o'clock in
 the morning the people assembled. The 'Capstone March,' composed for the
 occasion, was played by Pitt's band; Brigham laid on the last stone and
 pronounced the benediction, and the whole congregation shouted, Hosanna!
 hosanna to God and the lamb! amen, amen, and amen!' *Hist, B. Young*,
 MS., 83.
 
-<span id="fn_239"></span>[207:29](hou10.htm#fr_239) The first stone was
+<span id="fn_239"></span>[207:29](hou10.htm#fr_239.md) The first stone was
 laid April 6, 1841.
 
-<span id="fn_240"></span>[207:30](hou10.htm#fr_240) 'I commenced
+<span id="fn_240"></span>[207:30](hou10.htm#fr_240.md) 'I commenced
 administering the ordinances of endowment at five o'clock and continued
 until half-past three in the morning.' *Id*., MS., Dec. 10, 1845.
 
-<span id="fn_241"></span>[208:31](hou10.htm#fr_241) For specimens of the
+<span id="fn_241"></span>[208:31](hou10.htm#fr_241.md) For specimens of the
 accusations brought against them, see *Hall's Mormonism Exposed*, 24-34.
 
-<span id="fn_242"></span>[209:32](hou10.htm#fr_242) Says the *Quincy
+<span id="fn_242"></span>[209:32](hou10.htm#fr_242.md) Says the *Quincy
 Whig*: 'If the Mormons have been guilty of crime, why, punish them; but
 do not visit their sins on defenceless women and children. This is as
 bad as the savages.' Sheriff Backenstos thus testifies: 'It is proper to
@@ -843,7 +843,7 @@ their dwellings, other buildings, stacks of grain, etc., were set on
 fire in their presence, and they have forborne until forbearance is no
 longer a virtue.' *Fullmer's Expulsion*, 19.
 
-<span id="fn_243"></span>[209:33](hou10.htm#fr_243) 'Mobs commenced
+<span id="fn_243"></span>[209:33](hou10.htm#fr_243.md) 'Mobs commenced
 driving out the Mormons in the lower part of Hancock co., and burning
 their houses and property…The burning was continued from settlement to
 settlement for ten or eleven days without any resistance whatever. The
@@ -852,7 +852,7 @@ the mob had driven out of their homes.' *Wells’ Narrative*, MS., 35-6.
 'The mob said they would drive all into Nauvoo, and all Nauvoo into the
 Mississippi.' *Richards, Rem*., MS., 16.
 
-<span id="fn_244"></span>[209:34](hou10.htm#fr_244) 'It is a settled
+<span id="fn_244"></span>[209:34](hou10.htm#fr_244.md) 'It is a settled
 thing that the public sentiment of the state is against the Mormons, and
 it will be in vain for them to contend against it; and to prevent
 bloodshed and the sacrifice of so many lives on both sides it is their
@@ -861,7 +861,7 @@ possible. That they will do this, we have a confident hope, and that,
 too, before the last extreme is resorted to, that of force.' *Fullmer's
 Expulsion*, 20.
 
-<span id="fn_245"></span>[210:35](hou10.htm#fr_245) On the 20th of Feb.,
+<span id="fn_245"></span>[210:35](hou10.htm#fr_245.md) On the 20th of Feb.,
 1844, according to the *Millennial Star*, xxii. 819, Joseph counselled
 the twelve to send out a delegation and 'investigate the locations of
 California and Oregon, and hunt out a good location where we can remove
@@ -874,10 +874,10 @@ of the latter-day saints coming to this region. As early as August 1842
 he prophesied that the saints would be driven to the Rocky Mountains,
 and there become a mighty people.'
 
-<span id="fn_246"></span>[210:36](hou10.htm#fr_246) See *Hist. B.
+<span id="fn_246"></span>[210:36](hou10.htm#fr_246.md) See *Hist. B.
 Young*, 1845, MS., 19.
 
-<span id="fn_247"></span>[210:37](hou10.htm#fr_247) F. D. Richards read
+<span id="fn_247"></span>[210:37](hou10.htm#fr_247.md) F. D. Richards read
 *Fremont's Journal* to the twelve, and later Hastings’ account of
 California was read. *Hist. B. Young*, MS., 308-16. A letter was also
 read to the authorities from Brother Sam Brannan, stating that the
@@ -887,7 +887,7 @@ to go from the U.S. to any other government; that it would not do to let
 them go to California or Oregon, but that they must be obliterated.
 *Hist. B. Young*, MS., 305.
 
-<span id="fn_248"></span>[211:38](hou10.htm#fr_248) One thousand
+<span id="fn_248"></span>[211:38](hou10.htm#fr_248.md) One thousand
 families, including 5,000 or 6,000 souls, would remove in the spring.
 *Hist. B. Young*, MS., 1845, 234. Hundreds of farms and some 2,000
 houses were offered for sale in Nauvoo city and county. 'There was grain
@@ -895,18 +895,18 @@ enough growing within 10 miles of Nauvoo, raised by the Mormons, to feed
 the whole population for two years, if they were to do nothing but
 gather it in and feast upon it.' *Id*., MS., 35.
 
-<span id="fn_249"></span>[211:39](hou10.htm#fr_249) A lengthy
+<span id="fn_249"></span>[211:39](hou10.htm#fr_249.md) A lengthy
 communication to this effect was drawn up and signed by Brigham Young,
 president, and Willard Richards, clerk. Printed in full in *Fullmer's
 Expulsion*, 20-1.
 
-<span id="fn_250"></span>[211:40](hou10.htm#fr_250) Answer in full in
+<span id="fn_250"></span>[211:40](hou10.htm#fr_250.md) Answer in full in
 *Id*., 22.
 
-<span id="fn_251"></span>[211:41](hou10.htm#fr_251) The other two were
+<span id="fn_251"></span>[211:41](hou10.htm#fr_251.md) The other two were
 W. B. Warren and J. A. McDougal. *Tullidge's Life of Young*, 8.
 
-<span id="fn_252"></span>[212:42](hou10.htm#fr_252) In answer to the
+<span id="fn_252"></span>[212:42](hou10.htm#fr_252.md) In answer to the
 letter of the commissioners, the saints on the same day said, after
 referring to their communication of the 24th to the Quincy committee:
 'In addition to this, we would say that we had commenced making
@@ -943,4 +943,4 @@ wagons on hand 1,508; wagons commenced 1,892.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Expulsion From Nauvoo. 1845-1846.](hou11)
+[Next: Chapter VIII. Expulsion From Nauvoo. 1845-1846.](hou11.md)

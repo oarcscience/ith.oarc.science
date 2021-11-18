@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Theosophy](../../the/index)  [Index](index)  [Previous](theo15) 
-[Next](theo17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Theosophy](../../the/index)  [Index](index)  [Previous](theo15.md) 
+[Next](theo17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Theosophy*, by Rudolf Steiner, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -79,7 +79,7 @@ by which a solid body is first liquefied by fire in order that the
 chemist may be able to examine it in its liquid form.
 
 The spiritual Archetypes of the sensible world are to be found (pp.
-[131](theo14.htm#page_131) *et seq*.) in the different regions of the
+[131](theo14.htm#page_131) *et seq*..md) in the different regions of the
 "Spirit-land." In the fifth, sixth, and seventh regions these Archetypes
 remain in the condition of living Germ
 
@@ -90,7 +90,7 @@ formations. The human spirit perceives a shadowy reflection of these
 spiritual formations when, by thinking, he tries to gain understanding
 of the things of the senses. How these formations have condensed until
 they form the sensible world is a question for him who strives toward a
-spiritual [understanding](errata.htm#6) of the world around him. For
+spiritual [understanding](errata.htm#6.md) of the world around him. For
 human sense perception this surrounding world is divided into four
 distinctly separated stages, the mineral, the plant, the animal, and the
 human.
@@ -366,4 +366,4 @@ himself.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Thought-Forms and the Human Aura](theo17)
+[Next: 6. Thought-Forms and the Human Aura](theo17.md)

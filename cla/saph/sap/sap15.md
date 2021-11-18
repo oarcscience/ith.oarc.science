@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Sappho](../index)  [Index](index)  [Previous](sap14)  [Next](sap16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Sappho](../index)  [Index](index)  [Previous](sap14)  [Next](sap16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419146114/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419146114/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sappho and Phaon*, by Mary Robinson, \[1796\], at Intangible Textual
 Heritage
 
@@ -35,4 +35,4 @@ And all his fondest wishes, blend with mine.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. She endeavours to fascinate him.](sap16)
+[Next: XIII. She endeavours to fascinate him.](sap16.md)

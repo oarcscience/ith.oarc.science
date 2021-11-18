@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe189)  [Next](prwe191) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe189)  [Next](prwe191.md) 
 
 ------------------------------------------------------------------------
 
@@ -159,4 +159,4 @@ again passing away to a distance."--The *Tale of the Miner.*
 
 ------------------------------------------------------------------------
 
-[Next: Miner's Superstitions](prwe191)
+[Next: Miner's Superstitions](prwe191.md)

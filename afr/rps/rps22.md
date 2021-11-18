@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps21)  [Next](rps23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps21)  [Next](rps23.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ January 10, 1926 A.D. 2000. (4 O.C.P.M.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 21. The Load-Stone Lepor](rps23)
+[Next: Chapter 21. The Load-Stone Lepor](rps23.md)

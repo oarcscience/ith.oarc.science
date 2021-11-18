@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gcot00)
+[Contents](#contents)    [Start Reading](gcot00.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
 Among the many 'utopian' proposals of the 19th century, this particular
 short text stands out. Howard was a 19th century British reformer and
 city planner. He was influenced by Bellamy's [Looking
-Backwards](../lb/index). He saw new, planned towns as a necessary
+Backwards](../lb/index.md). He saw new, planned towns as a necessary
 counterbalance to the squalid, Dickensian 19th century London. These
 towns would balance urban and rural occupations, and include a whole
 range of amenities which we have come to take for granted: libraries,
@@ -66,22 +66,22 @@ These are printed in green in this etext.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](gcot00)  
-[Contents](gcot01)  
-[Introduction](gcot02)  
-[Chapter One. The Town-Country Magnet](gcot03)  
+<span id="contents"></span> [Title Page](gcot00.md)  
+[Contents](gcot01.md)  
+[Introduction](gcot02.md)  
+[Chapter One. The Town-Country Magnet](gcot03.md)  
 [Chapter Two. The Revenue of Garden City, and how it is obtained—The
-Agricultural Estate](gcot04)  
-[Chapter Three. The Revenue of Garden City—Town Estate](gcot05)  
+Agricultural Estate](gcot04.md)  
+[Chapter Three. The Revenue of Garden City—Town Estate](gcot05.md)  
 [Chapter Four. The Revenue of Garden City—General Observations on its
-Expenditure](gcot06)  
-[Chapter Five. Further Details of Expenditure on Garden City](gcot07)  
-[Chapter Six. Administration](gcot08)  
+Expenditure](gcot06.md)  
+[Chapter Five. Further Details of Expenditure on Garden City](gcot07.md)  
+[Chapter Six. Administration](gcot08.md)  
 [Chapter Seven. Semi-Municipal Enterprise—Local Option—Temperance
-Reform](gcot09)  
-[Chapter Eight. Pro-Municipal Work](gcot10)  
-[Chapter Nine. Some Difficulties Considered](gcot11)  
-[Chapter Ten. A Unique Combination of Proposals](gcot12)  
-[Chapter Eleven. The Path followed up](gcot13)  
-[Chapter Twelve. Social Cities](gcot14)  
-[Chapter Thirteen. The Future of London](gcot15)  
+Reform](gcot09.md)  
+[Chapter Eight. Pro-Municipal Work](gcot10.md)  
+[Chapter Nine. Some Difficulties Considered](gcot11.md)  
+[Chapter Ten. A Unique Combination of Proposals](gcot12.md)  
+[Chapter Eleven. The Path followed up](gcot13.md)  
+[Chapter Twelve. Social Cities](gcot14.md)  
+[Chapter Thirteen. The Future of London](gcot15.md)  

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl18)  [Next](irl20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl18)  [Next](irl20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -184,7 +184,7 @@ and I swore to myself that if I were ever free I would tear those
 insulting eyes out with my own bare hands.
 
 "Beautiful!" He nodded. “Mion, your Arl is a very valuable looking chunk
-of meat <span id="fr_54"></span>[18](#fn_54).
+of meat <span id="fr_54"></span>[18](#fn_54.md).
 
 “At least, she will be valuable when my colleagues get finished with a
 few slight mental operations on her. No doubt you are familiar with the
@@ -219,7 +219,7 @@ to his couch, hurling his sycophants and dancing girls to the right and
 left like a farmer sowing grain. Just as my fingers were about to clench
 about his neck, a beam from one of the ever watchful servitors struck me
 down at his feet, a contorted bundle of agony. The epilepto-ray <span
-id="fr_55"></span>[19](#fn_55) that they used was the most painful known
+id="fr_55"></span>[19](#fn_55.md) that they used was the most painful known
 to Nor science—forbidden except for experimental laboratory work to
 discover a counter for it.
 
@@ -234,7 +234,7 @@ from her grasp . . . or was that blood!
 
 ### Footnotes
 
-<span id="fn_54"></span>[165:18](irl19.htm#fr_54) MEAT: Cannibalisim has
+<span id="fn_54"></span>[165:18](irl19.htm#fr_54.md) MEAT: Cannibalisim has
 been practiced for centuries in the now almost sterile caverns—dero
 eating tero, perhaps tero eating dero; both, it is suspected, capturing
 by means of the ancient "mech" (mechanism) surface people for food. They
@@ -250,7 +250,7 @@ a smaller scale.
 
 The Jotuns were, no doubt, dealers in "meat" delicacies.—R. S. Shaver.
 
-<span id="fn_55"></span>[166:19](irl19.htm#fr_55) EPILEPTO RAYS: The
+<span id="fn_55"></span>[166:19](irl19.htm#fr_55.md) EPILEPTO RAYS: The
 epilepto ray was originally intended for the use of the Elder Race's
 Police. By means of it, primitive tribes, wild animals, and even rioting
 or uncontrollable members of the race itself could be broughtunder
@@ -271,4 +271,4 @@ suffering a so-called "epileptic" fit.—Author.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Under The Pain Ray](irl20)
+[Next: Chapter VIII. Under The Pain Ray](irl20.md)

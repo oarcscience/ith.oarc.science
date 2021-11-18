@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](ili19)  [Next](ili21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](ili19)  [Next](ili21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE78VC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE78VC/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Iliad of Homer*, tr. by Samuel Butler, \[1898\], at Intangible
 Textual Heritage
 
@@ -451,6 +451,6 @@ glory, and his hands were bedrabbled with gore.
 
 ------------------------------------------------------------------------
 
-[Next: Book XXI](ili21)
+[Next: Book XXI](ili21.md)
 
 </div>

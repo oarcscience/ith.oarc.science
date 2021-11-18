@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio24)  [Next](dio26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio24)  [Next](dio26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 <span id="ii.iv.ii.i-p2"></span>DARKNESS becomes invisible by light, and
 specially by much light. Varied knowledge (<span
 id="ii.iv.ii.i-p2.1"></span>αἰ γνώσεις), and especially much varied
-knowledge, makes the *Agnosia* <span id="fr_61"></span>[62](#fn_61) to
+knowledge, makes the *Agnosia* <span id="fr_61"></span>[62](#fn_61.md) to
 vanish. Take this in a superlative, but not in a defective sense, and
 reply with superlative truth, that the *Agnosia,* respecting God,
 escapes those who possess existing light, and knowledge of things being;
@@ -42,9 +42,9 @@ Who is above all known things.
 
 ### Footnotes
 
-<span id="fn_61"></span>[p140:62](dio25.htm#fr_61) <span
+<span id="fn_61"></span>[p140:62](dio25.htm#fr_61.md) <span
 id="ii.iv.ii.i-p2.2"></span>C. I. § 1.
 
 ------------------------------------------------------------------------
 
-[Next: Letter II. To the same Gaius Therapeutes.](dio26)
+[Next: Letter II. To the same Gaius Therapeutes.](dio26.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm15)  [Next](rrm17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm15)  [Next](rrm17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -479,7 +479,7 @@ fork) or of *horns*, which throughout Italy, the Greek Islands, Greece,
 and Turkey, is esteemed as the counter-charm to the Evil Eye, as the
 occult Magian telegraphic. The horns, or *radii* of the Merry-Andrew, or
 Jester, or Motley, and the horns of Satan; indeed, the figure of horns
-generally <span id="fr_5"></span>[1](#fn_5), even have a strange
+generally <span id="fr_5"></span>[1](#fn_5.md), even have a strange
 
 <span id="page_113">p. 113</span>
 
@@ -530,7 +530,7 @@ in regard of them for which he may be punishable.
 
 ### Footnotes
 
-<span id="fn_5"></span>[112:1](rrm16.htm#fr_5) Horns generally--whether
+<span id="fn_5"></span>[112:1](rrm16.htm#fr_5.md) Horns generally--whether
 the horns of the *cocu*, which need not be those of the 'wittol', or
 contented, betrayed husband, but generally implying the mysterious
 ultra-natural scorn, ranging <span id="page_113">p. 113</span> in
@@ -539,4 +539,4 @@ stag, and hunted by his own hounds, for surprising Diana naked.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: Druidical Stones and their Worship](rrm17)
+[Next: Chapter XIII: Druidical Stones and their Worship](rrm17.md)

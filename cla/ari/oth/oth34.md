@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth33)  [Next](oth35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth33)  [Next](oth35.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ us to explain the differences of each from each.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1](oth35)
+[Next: Chapter 1](oth35.md)

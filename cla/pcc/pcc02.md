@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc01)  [Next](pcc03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc01)  [Next](pcc03.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Moon. Apollo was a sungod, of course; Hercules was a sungod; Samson was
 a sungod; Indra and Krishna, and even Christ, the same. C. F. Dupuis in
 France (*Origine de tous les Cultes*, 1795), F. Nork in Germany
 (*Biblische Mythologie*, 1842), Richard Taylor in England (*The Devil's
-Pulpit*, <span id="fr_0"></span>[1](#fn_0) 1830), were among the first
+Pulpit*, <span id="fr_0"></span>[1](#fn_0) 1830.md), were among the first
 in modern times to put forward this view. A little later the *phallic*
 explanation of everything came into fashion. The deities were all polite
 names for the organs and powers of procreation. R. P. Knight (*Ancient
@@ -74,13 +74,13 @@ It is easy to see of course that there is some truth in ALL these
 explanations; but naturally each school for the time being makes the
 most of its own contention. Mr. J. M. Robertson (*Pagan Christs and
 Christianity and Mythology*), who has done such fine work in this
-field, <span id="fr_1"></span>[1](#fn_1) relies chiefly on the solar and
+field, <span id="fr_1"></span>[1](#fn_1.md) relies chiefly on the solar and
 astronomical origins, though he does not altogether deny the others; Dr.
 Frazer, on the other hand--whose great work, *The Golden Bough*, is a
 monumental collection of primitive customs, and will be an inexhaustible
 quarry for all future students--is apparently very little concerned with
 theories about the Sun and the stars, but concentrates his attention on
-the collection of innumerable details <span id="fr_2"></span>[2](#fn_2)
+the collection of innumerable details <span id="fr_2"></span>[2](#fn_2.md)
 of rites, chiefly magical, connected with food and vegetation. Still
 later writers, like S. Reinach, Jane Harrison and E. A. Crowley, being
 mainly occupied with customs of very primitive peoples, like the
@@ -243,7 +243,7 @@ World-religion, though with various phases and branches.
 
 And so in the present day a new problem arises, namely how to account
 for the appearance of this great Phenomenon, with its orderly phases of
-evolution, and its own spontaneous <span id="fr_3"></span>[1](#fn_3)
+evolution, and its own spontaneous <span id="fr_3"></span>[1](#fn_3.md)
 growths in all corners of the globe--this phenomenon which has had such
 a strange sway over the hearts of men, which has attracted them with so
 weird a charm, which has drawn out their devotion, love and tenderness,
@@ -304,7 +304,7 @@ with Totem-sacraments and Magic, perhaps the earliest
 
 forms of religion. And these four lead on (in chapters vi to xi) to the
 consideration of rites and creeds common to Paganism and Christianity.
-[xii](errata.htm#0) and xiii deal especially with the evolution of
+[xii](errata.htm#0.md) and xiii deal especially with the evolution of
 Christianity itself; xiv and xv explain the inner Meaning of the whole
 process from the beginning; and xvi and xvii look to the Future.
 
@@ -321,21 +321,21 @@ and Religion.
 
 ### Footnotes
 
-<span id="fn_0"></span>[10:1](pcc02.htm#fr_0) This extraordinary book,
+<span id="fn_0"></span>[10:1](pcc02.htm#fr_0.md) This extraordinary book,
 though carelessly composed and containing many unproven statements, was
 on the whole on the right lines. But it raised a storm of
 opposition--the more so because its author was a clergyman! He was
 ejected from the ministry, of course, and was sent to prison twice.
 
-<span id="fn_1"></span>[11:1](pcc02.htm#fr_1) If only he did not waste
+<span id="fn_1"></span>[11:1](pcc02.htm#fr_1.md) If only he did not waste
 so much time, and so needlessly, in slaughtering opponents!
 
-<span id="fn_2"></span>[11:2](pcc02.htm#fr_2) To such a degree, indeed,
+<span id="fn_2"></span>[11:2](pcc02.htm#fr_2.md) To such a degree, indeed,
 that sometimes the connecting clue of the argument seems to be lost.
 
-<span id="fn_3"></span>[16:1](pcc02.htm#fr_3) For the question of
+<span id="fn_3"></span>[16:1](pcc02.htm#fr_3.md) For the question of
 spontaneity see chap. x and elsewhere *infra*.
 
 ------------------------------------------------------------------------
 
-[Next: II. Solar Myths And Christian Festivals](pcc03)
+[Next: II. Solar Myths And Christian Festivals](pcc03.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe00)  [Next](poe02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe00)  [Next](poe02.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: I. 'Imitation' the common principle of the Arts of Poetry](poe02)
+[Next: I. 'Imitation' the common principle of the Arts of Poetry](poe02.md)

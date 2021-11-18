@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu04)  [Next](gpu06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu04)  [Next](gpu06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -42,7 +42,7 @@ and having heard his cry, those who walk about in the city of Yama.
 All go to the door-keeper and report it to him. The doorkeeper
 Dharmadhwaja, always stands there.
 
-6\. He, having gone to Chitragupta, <span id="fr_29"></span>[1](#fn_28)
+6\. He, having gone to Chitragupta, <span id="fr_29"></span>[1](#fn_28.md)
 reports the good and evil deeds. Then Chitragupta tells it to the King
 of Justice.
 
@@ -51,9 +51,9 @@ sin; these are all, as is proper, well-known to the King of Justice.
 
 <span id="page_22">p. 22</span>
 
-8\. [Nevertheless](errata.htm#2), he asks Chitragupta about their sins.
+8\. [Nevertheless](errata.htm#2.md), he asks Chitragupta about their sins.
 Chitragupta, although he is all-knowing, enquires of the Śravaṇas <span
-id="fr_30"></span>[1](#fn_29).
+id="fr_30"></span>[1](#fn_29.md).
 
 9\. The Śravaṇas are the sons of Brāhmaṇ who wander in heaven, on earth,
 and in the nether regions, hear and understand at a distance, and see a
@@ -86,7 +86,7 @@ Yama, day and night, the two twilights, and Justice--know the actions of
 man.
 
 17 The King of Justice, Chitragupta, Śravaṇas, the sun
-[and](errata.htm#3) others see fully the sins and merits of the embodied
+[and](errata.htm#3.md) others see fully the sins and merits of the embodied
 being.
 
 18\. Then Yama, having assured himself concerning the sins of the
@@ -126,7 +126,7 @@ now destined for torment. It is no use turning your faces away.
 the cause of unavoidable misery.
 
 29\. 'It is known that Yama deals equally with the fool and the learned,
-the [beggar](errata.htm#4) and the wealthy, the strong and the weak.'
+the [beggar](errata.htm#4.md) and the wealthy, the strong and the weak.'
 
 30\. Hearing these words of Chitragupta, the sinful then grieve over
 their karmas, and remain silent and motionless.
@@ -138,7 +138,7 @@ has fitting punishment ordered for the sinful.
 sinner, to the very dreadful terrifying hells.'
 
 33\. The messengers, Prachaṇḍa, Chaṇḍaka <span
-id="fr_31"></span>[1](#fn_30) and others, executors of the sentences of
+id="fr_31"></span>[1](#fn_30.md) and others, executors of the sentences of
 Yama, having bound them with one noose, lead them towards the hells.
 
 <span id="page_25">p. 25</span>
@@ -162,7 +162,7 @@ with big pestles.
 39-40. Thus beaten they become still, swooning away. Then, seeing them
 quiet, the servants address them thus:
 
-'O, you sinners, you evildoers, [why ever](errata.htm#5) did you commit
+'O, you sinners, you evildoers, [why ever](errata.htm#5.md) did you commit
 such wicked deeds? You did not even make the easy water and food
 offerings at all.
 
@@ -183,7 +183,7 @@ compassion.
 sin! Because you are devoid of righteousness you deserve to be beaten.
 
 45\. 'Forgiveness of faults is done by the Lord Hari <span
-id="fr_32"></span>[1](#fn_31) Īśwara. We only punish miscreants, as we
+id="fr_32"></span>[1](#fn_31.md) Īśwara. We only punish miscreants, as we
 are ordered.'
 
 46\. Thus having spoken the messengers heat them mercilessly; and on
@@ -237,28 +237,28 @@ there is great misery indescribable in words.
 60\. There are eighty-four lakhs of hells, O Bird, the midst of which
 are twenty-one most dreadful of the dreadful.
 
-61-64. Tāmisra, <span id="fr_33"></span>[1](#fn_32) Lohaśaṇku, <span
-id="fr_34"></span>[2](#fn_33) Maharauravaśālmalī, <span
-id="fr_35"></span>[3](#fn_34) Raurava, <span
-id="fr_36"></span>[4](#fn_35) Kuḍmala, <span
-id="fr_37"></span>[5](#fn_36) Kālasūtraka, <span
-id="fr_38"></span>[6](#fn_37) Pūtimṛittika, <span
-id="fr_39"></span>[7](#fn_38)
+61-64. Tāmisra, <span id="fr_33"></span>[1](#fn_32.md) Lohaśaṇku, <span
+id="fr_34"></span>[2](#fn_33.md) Maharauravaśālmalī, <span
+id="fr_35"></span>[3](#fn_34.md) Raurava, <span
+id="fr_36"></span>[4](#fn_35.md) Kuḍmala, <span
+id="fr_37"></span>[5](#fn_36.md) Kālasūtraka, <span
+id="fr_38"></span>[6](#fn_37.md) Pūtimṛittika, <span
+id="fr_39"></span>[7](#fn_38.md)
 
-Saṅghāta, <span id="fr_40"></span>[8](#fn_39) Lohitoda, <span
-id="fr_41"></span>[9](#fn_40) Saviṣa, <span
-id="fr_42"></span>[10](#fn_41) Sampratāpana, <span
-id="fr_43"></span>[11](#fn_42) Mahāniraya, <span
-id="fr_44"></span>[12](#fn_43) Kāka, <span
-id="fr_45"></span>[13](#fn_44) Ūlu, <span id="fr_46"></span>[14](#fn_45)
-Sanjīvana, <span id="fr_47"></span>[15](#fn_46) Mahāpathin, <span
-id="fr_48"></span>[16](#fn_47)
+Saṅghāta, <span id="fr_40"></span>[8](#fn_39.md) Lohitoda, <span
+id="fr_41"></span>[9](#fn_40.md) Saviṣa, <span
+id="fr_42"></span>[10](#fn_41.md) Sampratāpana, <span
+id="fr_43"></span>[11](#fn_42.md) Mahāniraya, <span
+id="fr_44"></span>[12](#fn_43.md) Kāka, <span
+id="fr_45"></span>[13](#fn_44) Ūlu, <span id="fr_46"></span>[14](#fn_45.md)
+Sanjīvana, <span id="fr_47"></span>[15](#fn_46.md) Mahāpathin, <span
+id="fr_48"></span>[16](#fn_47.md)
 
-Avīchi, <span id="fr_49"></span>[17](#fn_48) Andhatāmisra, <span
-id="fr_50"></span>[18](#fn_49) Kumbhīpāka, <span
-id="fr_51"></span>[19](#fn_50) Sampratāpana, <span
-id="fr_52"></span>[20](#fn_51) and Tapana, <span
-id="fr_53"></span>[21](#fn_52)--in all twenty-one,
+Avīchi, <span id="fr_49"></span>[17](#fn_48.md) Andhatāmisra, <span
+id="fr_50"></span>[18](#fn_49.md) Kumbhīpāka, <span
+id="fr_51"></span>[19](#fn_50.md) Sampratāpana, <span
+id="fr_52"></span>[20](#fn_51.md) and Tapana, <span
+id="fr_53"></span>[21](#fn_52.md)--in all twenty-one,
 
 All formed of various afflictions and diseases of different classes, the
 various fruits of sin, and inhabited by multitudes of servants.
@@ -294,65 +294,65 @@ again, purified.
 
 ### Footnotes
 
-<span id="fn_28"></span>[21:1](gpu05.htm#fr_29) Name of the being who
+<span id="fn_28"></span>[21:1](gpu05.htm#fr_29.md) Name of the being who
 records the doings of men.
 
-<span id="fn_29"></span>[22:1](gpu05.htm#fr_30) *Lit*. Listeners.
+<span id="fn_29"></span>[22:1](gpu05.htm#fr_30.md) *Lit*. Listeners.
 
-<span id="fn_30"></span>[24:1](gpu05.htm#fr_31) Both names mean fierce
+<span id="fn_30"></span>[24:1](gpu05.htm#fr_31.md) Both names mean fierce
 or violent.
 
-<span id="fn_31"></span>[26:1](gpu05.htm#fr_32) *Lit*. He who takes away
+<span id="fn_31"></span>[26:1](gpu05.htm#fr_32.md) *Lit*. He who takes away
 (sins).
 
-<span id="fn_32"></span>[28:1](gpu05.htm#fr_33) Darkness.
+<span id="fn_32"></span>[28:1](gpu05.htm#fr_33.md) Darkness.
 
-<span id="fn_33"></span>[28:2](gpu05.htm#fr_34) Iron spears.
+<span id="fn_33"></span>[28:2](gpu05.htm#fr_34.md) Iron spears.
 
-<span id="fn_34"></span>[28:3](gpu05.htm#fr_35) Very terrible
+<span id="fn_34"></span>[28:3](gpu05.htm#fr_35.md) Very terrible
 silk-cotton tree.
 
-<span id="fn_35"></span>[28:4](gpu05.htm#fr_36) Terrible.
+<span id="fn_35"></span>[28:4](gpu05.htm#fr_36.md) Terrible.
 
-<span id="fn_36"></span>[28:5](gpu05.htm#fr_37) Blossoming.
+<span id="fn_36"></span>[28:5](gpu05.htm#fr_37.md) Blossoming.
 
-<span id="fn_37"></span>[28:6](gpu05.htm#fr_38) The thread of death.
+<span id="fn_37"></span>[28:6](gpu05.htm#fr_38.md) The thread of death.
 
-<span id="fn_38"></span>[28:7](gpu05.htm#fr_39) Stinking clay.
+<span id="fn_38"></span>[28:7](gpu05.htm#fr_39.md) Stinking clay.
 
-<span id="fn_39"></span>[28:8](gpu05.htm#fr_40) Accumulation.
+<span id="fn_39"></span>[28:8](gpu05.htm#fr_40.md) Accumulation.
 
-<span id="fn_40"></span>[28:9](gpu05.htm#fr_41) Iron weights.
+<span id="fn_40"></span>[28:9](gpu05.htm#fr_41.md) Iron weights.
 
-<span id="fn_41"></span>[28:10](gpu05.htm#fr_42) Poisonous.
+<span id="fn_41"></span>[28:10](gpu05.htm#fr_42.md) Poisonous.
 
-<span id="fn_42"></span>[28:11](gpu05.htm#fr_43) Burning.
+<span id="fn_42"></span>[28:11](gpu05.htm#fr_43.md) Burning.
 
-<span id="fn_43"></span>[28:12](gpu05.htm#fr_44) The great exit.
+<span id="fn_43"></span>[28:12](gpu05.htm#fr_44.md) The great exit.
 
-<span id="fn_44"></span>[28:13](gpu05.htm#fr_45) Crows.
+<span id="fn_44"></span>[28:13](gpu05.htm#fr_45.md) Crows.
 
-<span id="fn_45"></span>[28:14](gpu05.htm#fr_46) Owls.
+<span id="fn_45"></span>[28:14](gpu05.htm#fr_46.md) Owls.
 
-<span id="fn_46"></span>[28:15](gpu05.htm#fr_47) Living together.
+<span id="fn_46"></span>[28:15](gpu05.htm#fr_47.md) Living together.
 
-<span id="fn_47"></span>[28:16](gpu05.htm#fr_48) The great path.
+<span id="fn_47"></span>[28:16](gpu05.htm#fr_48.md) The great path.
 
-<span id="fn_48"></span>[28:17](gpu05.htm#fr_49) Waveless.
+<span id="fn_48"></span>[28:17](gpu05.htm#fr_49.md) Waveless.
 
-<span id="fn_49"></span>[28:18](gpu05.htm#fr_50) Besetting darkness,
+<span id="fn_49"></span>[28:18](gpu05.htm#fr_50.md) Besetting darkness,
 
-<span id="fn_50"></span>[28:19](gpu05.htm#fr_51) Based like a pot.
+<span id="fn_50"></span>[28:19](gpu05.htm#fr_51.md) Based like a pot.
 
-<span id="fn_51"></span>[28:20](gpu05.htm#fr_52) Burning.
+<span id="fn_51"></span>[28:20](gpu05.htm#fr_52.md) Burning.
 
-<span id="fn_52"></span>[28:21](gpu05.htm#fr_53) Hot.
+<span id="fn_52"></span>[28:21](gpu05.htm#fr_53.md) Hot.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. An Account of the Kinds of Sins which lead to
-Hell](gpu06)
+Hell](gpu06.md)
 
 </div>

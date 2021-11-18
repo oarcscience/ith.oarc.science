@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc42)  [Next](osc44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc42)  [Next](osc44.md) 
 
 ------------------------------------------------------------------------
 
@@ -168,4 +168,4 @@ ourselves on the extent of our knowledge, or the authenticity of our
 
 ------------------------------------------------------------------------
 
-[Next: (3) Divination by Books](osc44)
+[Next: (3) Divination by Books](osc44.md)

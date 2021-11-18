@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](jo1)  [Next](jo3) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](jo1)  [Next](jo3.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ sister. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: 3 John](jo3)
+[Next: 3 John](jo3.md)

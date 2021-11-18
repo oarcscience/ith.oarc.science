@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Next](mtar01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Next](mtar01.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ Reading](../pkt/tarot0)  [Index](index)  [Next](mtar01) 
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](mtar01)
+[Next: Introduction](mtar01.md)

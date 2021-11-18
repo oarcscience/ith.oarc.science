@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet16)  [Next](tet18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet16)  [Next](tet18.md) 
 
 ------------------------------------------------------------------------
 
@@ -265,4 +265,4 @@ sounds.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Bush Bogies and Finis](tet18)
+[Next: Chapter XVI. Bush Bogies and Finis](tet18.md)

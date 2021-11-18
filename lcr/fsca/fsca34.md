@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca33)  [Next](fsca35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca33)  [Next](fsca35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ influence of whose terrors have exercised no little power in the
 progress of humanity.
 
 <span id="img_14800"></span> ![A Griffin statant, wings
-endorsed.](img/14800.jpg)
+endorsed.](img/14800.jpg.md)
 
 This favourite bearing was very early adopted in English armory. So
 early indeed as 1167 A.D. we find it on a seal of Richard de Redvers,
@@ -54,7 +54,7 @@ of a lion. It is usually represented with projecting
 
 <span id="img_14900"></span> ![\[left\]A Griffin passant, wings raised.
 (Early English.) \[right\] A Griffin segreant, wings displayed.
-(German.)](img/14900.jpg)
+(German.)](img/14900.jpg.md)
 
 ears, indicating an acute sense of hearing, in addition to its other
 supposed extraordinary qualities.
@@ -76,7 +76,7 @@ Old heralds gravely relate of this creature that when he attains his
 full growth he will never be
 
 <span id="img_15000"></span> ![Sleeping Griffin, by John Tenniel, from
-Alice in Wonderland.](img/15000.jpg)
+Alice in Wonderland.](img/15000.jpg.md)
 
 taken, hence he is a fit emblem of a valiant hero, who, rather than
 yield himself to his enemy, exposes himself to the worst of dangers. As
@@ -124,7 +124,7 @@ so delighted our wonder-loving forefathers, a writer in the "Museum of
 Animated
 
 <span id="img_15200"></span> ![Griffin segreant, German
-version.](img/15200.jpg)
+version.](img/15200.jpg.md)
 
 <span class="contnote">\[paragraph continues\]</span> Nature" refers to
 a large species of vulture, the Condor (*Sarcoramphus Gryphus*), which
@@ -143,7 +143,7 @@ beholders."
 
 As the stern avenger of human crimes, the dreaded Nemesis appears in
 Roman Art, as a young woman with wings, in a chariot drawn by griffins,
-with a whip or sword in her hand. <span id="fr_11"></span>[\*](#fn_11)
+with a whip or sword in her hand. <span id="fr_11"></span>[\*](#fn_11.md)
 
 Smith's "Classical Dictionary" gives the following: "Gryps or gryphus, a
 fabulous monster dwelling in the Rhiphæan mountains between the
@@ -177,7 +177,7 @@ evident from the frequency with which it is met in ancient art. Dr.
 Schliemann, in his explorations of the ancient city of Mycenæ,
 
 <span id="img_15400"></span> ![Gold Flying Griffin, found by Dr.
-Schliemann at Mycenæ.](img/15400.jpg)
+Schliemann at Mycenæ.](img/15400.jpg.md)
 
 among other treasures found a gold-winged griffin, about two inches in
 length, in one of the sepulchres of the kings (Figure No. 272 in his
@@ -198,10 +198,10 @@ Abdera, while in those of Teos they are rounded. The griffin was sacred
 to Apollo, to whom an especial worship was
 
 <span id="img_15500"></span> ![Colossal Griffins,
-Burmah.](img/15500.jpg)
+Burmah.](img/15500.jpg.md)
 
 devoted in most of the Ionian cities, but more particularly in
-Teos. <span id="fr_12"></span>[\*](#fn_12)
+Teos. <span id="fr_12"></span>[\*](#fn_12.md)
 
 In the *Illustrated London News* of October 21, 1876, is an engraving of
 two gigantic wingless griffons, and also a description by the traveller
@@ -247,7 +247,7 @@ exact form is uncertain, it must have borne a general resemblance to the
 composite religious figures found upon the monuments of Egypt, Assyria,
 Babylonia and Persia."
 
-Mr. Ruskin, <span id="fr_13"></span>[\*](#fn_13) describing the
+Mr. Ruskin, <span id="fr_13"></span>[\*](#fn_13.md) describing the
 emblematical griffins on the front of the Duomo of Verona, points out
 that the Lombard carver was enabled to form so intense a conception,
 mainly by the fact that his griffin is a great and profoundly felt
@@ -273,7 +273,7 @@ conduct to Rome, but when he arrived, he caused him to be tortured and
 beheaded, and afterwards took possession of his states. This gave
 occasion to his enemies to say, "This ugly bird has not used his wings
 as at other times, to flee from the snare which has been laid for
-him." <span id="fr_14"></span>[\*](#fn_14)
+him." <span id="fr_14"></span>[\*](#fn_14.md)
 
 In Dante's description of the triumph of the Church, in the Purgatorio,"
 we have the mediæval conception of this wondrous creature, the gryphon.
@@ -316,7 +316,7 @@ fix’d toward the gryphon, motionless.</span>
 </div>
 
 "Some commentators of Dante," says M. Dideron, <span
-id="fr_15"></span>[\*](#fn_15) "have supposed the griffin to be the
+id="fr_15"></span>[\*](#fn_15.md) "have supposed the griffin to be the
 emblem of Christ, who, in fact, is one single person with two natures;
 of Christ in whom God and man are combined. But in this," says M.
 Dideron, "they are mistaken. There is, in the first place, a manifest
@@ -343,7 +343,7 @@ Kensington Museum). On one side it bears a portrait of Niccolo Picininus
 of
 
 <span id="img_16000"></span> ![Carved panel, a Griffin
-segreant.](img/16000.jpg)
+segreant.](img/16000.jpg.md)
 
 <span class="contnote">\[paragraph continues\]</span> Perugia, a
 celebrated mercenary soldier—and on the reverse a griffin, the eagle's
@@ -356,22 +356,22 @@ and the Catholic religion.
 
 ### Footnotes
 
-<span id="fn_11"></span>[153:\*](fsca34.htm#fr_11) "Mythology of Greece
+<span id="fn_11"></span>[153:\*](fsca34.htm#fr_11.md) "Mythology of Greece
 and Rome, with special reference to its Use in Art," from the German of
 O. Seemann.
 
-<span id="fn_12"></span>[155:\*](fsca34.htm#fr_12) W. N. Humphry's "Coin
+<span id="fn_12"></span>[155:\*](fsca34.htm#fr_12.md) W. N. Humphry's "Coin
 Collector's Manual."
 
-<span id="fn_13"></span>[157:\*](fsca34.htm#fr_13) "Modern Painters,"
+<span id="fn_13"></span>[157:\*](fsca34.htm#fr_13.md) "Modern Painters,"
 vol. iii. ch. 8.
 
-<span id="fn_14"></span>[158:\*](fsca34.htm#fr_14) "Historical Devices,
+<span id="fn_14"></span>[158:\*](fsca34.htm#fr_14.md) "Historical Devices,
 Badges, and War Cries," p. 10.
 
-<span id="fn_15"></span>[159:\*](fsca34.htm#fr_15) "Iconography of
+<span id="fn_15"></span>[159:\*](fsca34.htm#fr_15.md) "Iconography of
 Christian Art."
 
 ------------------------------------------------------------------------
 
-[Next: The Male Griffin](fsca35)
+[Next: The Male Griffin](fsca35.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](tdp07)  [Next](tdp09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](tdp07)  [Next](tdp09.md) 
 
 ------------------------------------------------------------------------
 
@@ -330,4 +330,4 @@ believed in at the lonely farm of Rowbrook.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII: The Borrowed Colts.--The Boulder in the
-Room.--Vickeytoad.--Modilla and Podilla](tdp09)
+Room.--Vickeytoad.--Modilla and Podilla](tdp09.md)

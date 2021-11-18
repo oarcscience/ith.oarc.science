@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc50)  [Next](sfoc52) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc50)  [Next](sfoc52.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ repeating the ceremony.
 
 ------------------------------------------------------------------------
 
-[Next: What Those who Have Been to War Did to Help Themselves](sfoc52)
+[Next: What Those who Have Been to War Did to Help Themselves](sfoc52.md)

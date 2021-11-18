@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar29)  [Next](gar31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar29)  [Next](gar31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 ### Situation of the Lodge
 
 The Lodge is situated due East and West. <span
-id="fr_19"></span>[\*](#fn_19)
+id="fr_19"></span>[\*](#fn_19.md)
 
 \*       \*       \*       \*       \*       \*       \*
 
@@ -71,7 +71,7 @@ constant dependence on an Omnipotent and All-gracious Being."
 
 ### Footnotes
 
-<span id="fn_19"></span>[85:\*](gar30.htm#fr_19) Our Lodges are situated
+<span id="fn_19"></span>[85:\*](gar30.htm#fr_19.md) Our Lodges are situated
 due East and West, because all places of Divine worship, as well as all
 well-formed and regularly-constituted Lodges, are, or ought to be, so
 situated; for which we assign three Masonic reasons:—1. The sun, the
@@ -88,4 +88,4 @@ the unerring Compass of conscience.
 
 ------------------------------------------------------------------------
 
-[Next: Dedication of Lodges](gar31)
+[Next: Dedication of Lodges](gar31.md)

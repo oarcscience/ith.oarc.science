@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](bet05)  [Next](bet07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](bet05)  [Next](bet07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ for eating, why then does the school of Hillel prohibit the eating of
 the egg? Is it not a part of the eatables which were prepared (for the
 festival)? If to a hen kept for laying eggs only, what is the reason of
 the school of Shammai, who permit to eat it? Is this not Muktzah
-(designation  <span id="fr_2"></span>[1](#fn_2))? Should we suppose that
+(designation  <span id="fr_2"></span>[1](#fn_2).md)? Should we suppose that
 the school of Shammai do not hold the theory of Muktzah, even then the
 eating of it could not be permitted, as it is a new-born thing, and even
 one who denies the theory of Muktzah should hold to the theory of Nolad
@@ -202,7 +202,7 @@ said Rabh. R. Johanan, however, allowed it to be used on the morrow.
 
 Shall we assume that Rabh holds that both are of one and the same
 sanctitude? Did not Rabh say that the Halakha prevails according to the
-four old sages <span id="fr_3"></span>[1](#fn_3) who are in accordance
+four old sages <span id="fr_3"></span>[1](#fn_3.md) who are in accordance
 with R. Eliezer, who said that Sabbath and the festivals are of
 different sanctitudes? Nay, here they do not differ concerning the
 sanctitudes, but as to the law of preparation mentioned above in the
@@ -241,7 +241,7 @@ lightheaded, I would have erred, and would have decided according to R.
 Johanan, as the rule is where Rabh and R. Johanan differ, the Halakha
 prevails always according to R. Johanan, and this would not be right,
 because Rabha said that the case in question is one of the three <span
-id="fr_4"></span>[1](#fn_4) where the Halakha prevails according to
+id="fr_4"></span>[1](#fn_4.md) where the Halakha prevails according to
 Rabh, both when he is lenient as well as rigorous.
 
 R. Johanan said: Wood which falls from a tree on Sabbath must not be
@@ -285,7 +285,7 @@ It was taught: Rabh and Samuel both said of the two festival days of New
 Year: Something born on the first day must not be used on the other.
 
 Rabha said: From the day of the ordinance of Rabban Johanan ben
-Zakkai, <span id="fr_5"></span>[1](#fn_5) an egg which is laid on the
+Zakkai, <span id="fr_5"></span>[1](#fn_5.md) an egg which is laid on the
 first day of the New Year festival may be eaten on the next day. Said
 Abayi to him: Did not Rabh and Samuel both say that it is not allowed?
 Rejoined Rabha: I say to you that of Johanan b. Zakkai, and you mention
@@ -532,7 +532,7 @@ as follows: Whoever slaughters a wild animal or fowl, must have loose
 earth beneath, to soak the blood, and some on the top, to cover with, as
 it is written \[Lev. xvii. 13\]: "Then shall he pour out the blood
 thereof, and cover it up with (or *in*) earth"? <span
-id="fr_6"></span>[1](#fn_6) It is not said "to place earth *on* it," but
+id="fr_6"></span>[1](#fn_6.md) It is not said "to place earth *on* it," but
 to it "cover it *in* earth." From this we infer that there must be earth
 underneath and earth on the top. Now, the Master agrees with R. Zera
 (and therefore he must be told to dig first), but Rabha
@@ -570,7 +570,7 @@ it all that he needs. Lectured Mar Zutra in the name of Mar Zutra the
 great: The case is when he has separated a corner for it.
 
 An objection was raised: We have learned elsewhere: A kui <span
-id="fr_7"></span>[1](#fn_7) must not be slaughtered on a festival, and
+id="fr_7"></span>[1](#fn_7.md) must not be slaughtered on a festival, and
 when it is, its blood must not be covered. Now, if it be so, let him
 cover it as R. Jehudah said above? What question is it--he could also
 cover it with the ashes of the hearth, or with a spade in powdered
@@ -884,14 +884,14 @@ finishing was allowed (though not essential for the festival), for the
 reason of the beginning (which was necessary; *i.e.*, if it would not
 have been allowed to finish them, they would not have been begun). They
 are: The skin for the tanner, the shutters of the shops, <span
-id="fr_8"></span>[1](#fn_8) and the replacing of a plaster (on the
-priest's hand <span id="fr_9"></span>[2](#fn_9)) in the Temple. And
+id="fr_8"></span>[1](#fn_8.md) and the replacing of a plaster (on the
+priest's hand <span id="fr_9"></span>[2](#fn_9).md) in the Temple. And
 Rhaba said in the
 
 <span id="page_21">p. 21</span>
 
 name of Rabh Jehudah the Babylonian Amora: <span
-id="fr_10"></span>[1](#fn_10) The same is the case when one opens a
+id="fr_10"></span>[1](#fn_10.md) The same is the case when one opens a
 barrel or begins to knead dough on the festival (he may stop up the
 barrel, or finish the kneading, because he would not begin if he were
 not permitted to finish, and his enjoyment of the festival would not be
@@ -906,7 +906,7 @@ allow even this. But this is in case there are hinges, but if there is
 none all agree it is permitted. But have we not learned in another
 Boraitha the contrary of this? Said Abayi: It can be explained so: If
 the hinges are at the sides of the shutters, all agree it is
-prohibited; <span id="fr_11"></span>[2](#fn_11) if there are no hinges
+prohibited; <span id="fr_11"></span>[2](#fn_11.md) if there are no hinges
 at all, all agree it is permissible. They differ only on this point when
 the hinges are in the middle: Beth Shammai prohibit it as a
 precautionary measure, lest one think it permissible also even when they
@@ -1082,7 +1082,7 @@ was inclined? Because he could infer from the sound that this was not
 so. Perhaps they were pounding spices? Then the sound would have been
 different.
 
-The rabbis taught: *Ptisana* <span id="fr_12"></span>[1](#fn_12) must
+The rabbis taught: *Ptisana* <span id="fr_12"></span>[1](#fn_12.md) must
 not be made on a festival, for nothing may be pounded. But a small
 quantity may be pounded in a small mortar.
 
@@ -1153,7 +1153,7 @@ and wool mixed together),
 
 <span id="page_27">p. 27</span>
 
-an accident occurred. <span id="fr_13"></span>[1](#fn_13) Said Abayi:
+an accident occurred. <span id="fr_13"></span>[1](#fn_13.md) Said Abayi:
 Sandals with iron nails must not be worn, because an accident happened
 on account of them, but they may be handled; and this we infer from our
 Mishna, which says that they shall not be sent, and if it were
@@ -1189,34 +1189,34 @@ head, he may lay his hand on them until he comes home.
 
 ### Footnotes
 
-<span id="fn_2"></span>[1:1](bet06.htm#fr_2) See footnote on p. 79 of
+<span id="fn_2"></span>[1:1](bet06.htm#fr_2.md) See footnote on p. 79 of
 Tract Sabbath.
 
-<span id="fn_3"></span>[5:1](bet06.htm#fr_3) See Tract Erubin, p. 82.
+<span id="fn_3"></span>[5:1](bet06.htm#fr_3.md) See Tract Erubin, p. 82.
 
-<span id="fn_4"></span>[6:1](bet06.htm#fr_4) As it will be explained
-further on, [p. 8](#page_8).
+<span id="fn_4"></span>[6:1](bet06.htm#fr_4.md) As it will be explained
+further on, [p. 8](#page_8.md).
 
-<span id="fn_5"></span>[7:1](bet06.htm#fr_5) For this ordinance of R.
+<span id="fn_5"></span>[7:1](bet06.htm#fr_5.md) For this ordinance of R.
 Johanan ben Zakkai see Tract Rosh Hashana, pp. 55-56.
 
-<span id="fn_6"></span>[12:1](bet06.htm#fr_6) The Hebrew term is ‏בעפד‎
+<span id="fn_6"></span>[12:1](bet06.htm#fr_6.md) The Hebrew term is ‏בעפד‎
 which signifies both in and with.
 
-<span id="fn_7"></span>[13:1](bet06.htm#fr_7) Cross between a he-goat
+<span id="fn_7"></span>[13:1](bet06.htm#fr_7.md) Cross between a he-goat
 and a hind.
 
-<span id="fn_8"></span>[20:1](bet06.htm#fr_8) It means that he would not
+<span id="fn_8"></span>[20:1](bet06.htm#fr_8.md) It means that he would not
 slaughter, the animal at all if he would not be sure that the skin would
 not be spoiled; and so he would not open the shop to take out what was
 necessary for the festival, if he would not be allowed to shut it again,
 and the festival would be without enjoyment.
 
-<span id="fn_9"></span>[20:2](bet06.htm#fr_9) As the priest is not
+<span id="fn_9"></span>[20:2](bet06.htm#fr_9.md) As the priest is not
 permitted to do his work of sacrificing when there is something between
 (Hatzitzah, *intervention*) his hand and the victim.
 
-<span id="fn_10"></span>[21:1](bet06.htm#fr_10) Rashi says: To some
+<span id="fn_10"></span>[21:1](bet06.htm#fr_10.md) Rashi says: To some
 people it is doubtful if it was in the name of R. Jehudah the second, or
 R. Jehudah the disciple of Samuel; but I say, he added, that Rhaba, who
 was from Pumbeditha, had never seen R. Jehudah the second, as we do not
@@ -1227,15 +1227,15 @@ would not leave in his words any doubt about the man in whose name he
 said it; and if it was Jehudah the second, he would have certainly
 mentioned it.
 
-<span id="fn_11"></span>[21:2](bet06.htm#fr_11) As when the hinges are
+<span id="fn_11"></span>[21:2](bet06.htm#fr_11.md) As when the hinges are
 at the sides, it is very difficult to remove and replace.
 
-<span id="fn_12"></span>[25:1](bet06.htm#fr_12) Latin for a dish of
+<span id="fn_12"></span>[25:1](bet06.htm#fr_12.md) Latin for a dish of
 pounded barley.
 
-<span id="fn_13"></span>[27:1](bet06.htm#fr_13) See Tract Sabbath, p.
+<span id="fn_13"></span>[27:1](bet06.htm#fr_13.md) See Tract Sabbath, p.
 116.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](bet07)
+[Next: Chapter II](bet07.md)

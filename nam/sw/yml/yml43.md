@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml42)  [Next](yml44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml42)  [Next](yml44.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ more silly than he is now, the most ignorant of all the animals.
 
 ------------------------------------------------------------------------
 
-[Next: Coyote and Rabbit](yml44)
+[Next: Coyote and Rabbit](yml44.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](aah09)  [Next](aah11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](aah09)  [Next](aah11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7H7K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7H7K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Love Letters of Abelard and Heloise*, \[1901\], at Intangible
 Textual Heritage
 
@@ -46,4 +46,4 @@ Of man still Man, and woman--Woman still!'</span>
 
 ------------------------------------------------------------------------
 
-[Next: Editorial Appendix](aah11)
+[Next: Editorial Appendix](aah11.md)

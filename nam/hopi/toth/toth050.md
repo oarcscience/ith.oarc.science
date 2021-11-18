@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth049)  [Next](toth051) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth049)  [Next](toth051.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 47. THE CROW AS A SPIRIT OF EVIL. <span id="fr_109"></span>[1](#fn_107)
+## 47. THE CROW AS A SPIRIT OF EVIL. <span id="fr_109"></span>[1](#fn_107.md)
 
 A Crow was living on the high mesa southeast of Oraíbi where the sun
 shrines are located. He would be walking up and down on the edge of the
@@ -67,9 +67,9 @@ influence of the Crow.
 
 ### Footnotes
 
-<span id="fn_107"></span>[156:1](toth050.htm#fr_109) Told by Qöyáwaima
+<span id="fn_107"></span>[156:1](toth050.htm#fr_109.md) Told by Qöyáwaima
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 48. The Maiden and the Coyote](toth051)
+[Next: 48. The Maiden and the Coyote](toth051.md)

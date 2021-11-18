@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft26)  [Next](eft28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft26)  [Next](eft28.md) 
 
 ------------------------------------------------------------------------
 
 # Mr Fox
 
 <span id="img_028"></span> [![](tn/028.jpg)  
-Click to enlarge](img/028.jpg)
+Click to enlarge](img/028.jpg.md)
 
  
 
@@ -55,7 +55,7 @@ the young lady he was dragging, and he tried to pull it off. But it was
 tightly fixed,
 
 <span id="img_029"></span> [![](tn/029.jpg)  
-Click to enlarge](img/029.jpg)
+Click to enlarge](img/029.jpg.md)
 
 and would not come off, so Mr Fox cursed and swore, and drew his sword,
 raised it, and brought it down upon the hand of the poor lady. The sword
@@ -131,4 +131,4 @@ into a thousand pieces.
 
 ------------------------------------------------------------------------
 
-[Next: Lazy Jack](eft28)
+[Next: Lazy Jack](eft28.md)

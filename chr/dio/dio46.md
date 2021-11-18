@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio45)  [Next](dio47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio45)  [Next](dio47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -57,21 +57,21 @@ own proper Head as far as lawful.
 
 <span id="iv.ii.iii-p6"></span>For each of those who have been called
 into the Hierarchy, find their perfection in being carried to the Divine
-imitation <span id="fr_197"></span>[198](#fn_197) in their own proper
+imitation <span id="fr_197"></span>[198](#fn_197.md) in their own proper
 degree; and, what is more Divine than all, in becoming a <span
 id="page_15">p. 15</span> <span
 id="iv.ii.iii-Page_15"></span>fellow-worker <span
-id="fr_198"></span>[199](#fn_198) with God, as the Oracles say, and in
+id="fr_198"></span>[199](#fn_198.md) with God, as the Oracles say, and in
 shewing the Divine energy in himself manifested as far as possible. For
 it is an Hierarchical regulation that some are purified and that others
-purify <span id="fr_199"></span>[200](#fn_199) ; that some are
-enlightened and others enlighten <span id="fr_200"></span>[201](#fn_200)
+purify <span id="fr_199"></span>[200](#fn_199.md) ; that some are
+enlightened and others enlighten <span id="fr_200"></span>[201](#fn_200.md)
 ; that some are perfected and others perfect; the Divine imitation will
 fit each one in this fashion. The Divine blessedness, to speak after the
 manner of men, is indeed unstained by any dissimilarity <span
-id="fr_201"></span>[202](#fn_201) , and is full of invisible light <span
-id="fr_202"></span>[203](#fn_202) --perfect <span
-id="fr_203"></span>[204](#fn_203) , and needing no perfection;
+id="fr_201"></span>[202](#fn_201.md) , and is full of invisible light <span
+id="fr_202"></span>[203](#fn_202.md) --perfect <span
+id="fr_203"></span>[204](#fn_203.md) , and needing no perfection;
 cleansing, illuminating, and perfecting, yea, rather a holy
 purification, and illumination, and perfection--above purification,
 above light, preeminently perfect, self-perfect source and cause of
@@ -101,44 +101,44 @@ co-operation, by performing, through grace and God-given power, those
 things which are naturally and supernaturally in the Godhead, and
 accomplished by It superessentially, and manifested hierarchically, for
 the attainable imitation of the God-loving Minds <span
-id="fr_204"></span>[205](#fn_204) .
+id="fr_204"></span>[205](#fn_204.md) .
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_197"></span>[14:198](dio46.htm#fr_197) <span
+<span id="fn_197"></span>[14:198](dio46.htm#fr_197.md) <span
 id="iv.ii.iii-p6.1"></span><span id="iv.ii.iii-p6.2"></span>[Eph. v.
-1](../../bib/kjv/eph005.htm#001)<span id="iv.ii.iii-p6.2"></span>.
+1](../../bib/kjv/eph005.htm#001.md)<span id="iv.ii.iii-p6.2"></span>.
 
-<span id="fn_198"></span>[15:199](dio46.htm#fr_198) <span
+<span id="fn_198"></span>[15:199](dio46.htm#fr_198.md) <span
 id="iv.ii.iii-p6.3"></span><span
 id="iv.ii.iii-p6.4"></span>[1Corinthians
-3:9](../../bib/kjv/co1003.htm#009)<span id="iv.ii.iii-p6.4"></span>.
+3:9](../../bib/kjv/co1003.htm#009.md)<span id="iv.ii.iii-p6.4"></span>.
 
-<span id="fn_199"></span>[15:200](dio46.htm#fr_199) <span
+<span id="fn_199"></span>[15:200](dio46.htm#fr_199.md) <span
 id="iv.ii.iii-p6.5"></span><span id="iv.ii.iii-p6.6"></span>[Ps. li.
-9](../../bib/kjv/psa051.htm#009)<span id="iv.ii.iii-p6.6"></span>.
+9](../../bib/kjv/psa051.htm#009.md)<span id="iv.ii.iii-p6.6"></span>.
 
-<span id="fn_200"></span>[15:201](dio46.htm#fr_200) <span
+<span id="fn_200"></span>[15:201](dio46.htm#fr_200.md) <span
 id="iv.ii.iii-p6.7"></span><span id="iv.ii.iii-p6.8"></span>[Psalm
-119:18](../../bib/kjv/psa119.htm#018)<span id="iv.ii.iii-p6.8"></span>.
+119:18](../../bib/kjv/psa119.htm#018.md)<span id="iv.ii.iii-p6.8"></span>.
 
-<span id="fn_201"></span>[15:202](dio46.htm#fr_201) <span
+<span id="fn_201"></span>[15:202](dio46.htm#fr_201.md) <span
 id="iv.ii.iii-p6.9"></span><span id="iv.ii.iii-p6.10"></span>[Deut. vi.
-4](../../bib/kjv/deu006.htm#004)<span id="iv.ii.iii-p6.10"></span>.
+4](../../bib/kjv/deu006.htm#004.md)<span id="iv.ii.iii-p6.10"></span>.
 
-<span id="fn_202"></span>[15:203](dio46.htm#fr_202) <span
+<span id="fn_202"></span>[15:203](dio46.htm#fr_202.md) <span
 id="iv.ii.iii-p6.11"></span><span id="iv.ii.iii-p6.12"></span>[John xii.
-46](../../bib/kjv/joh012.htm#046)<span id="iv.ii.iii-p6.12"></span>.
+46](../../bib/kjv/joh012.htm#046.md)<span id="iv.ii.iii-p6.12"></span>.
 
-<span id="fn_203"></span>[15:204](dio46.htm#fr_203) <span
+<span id="fn_203"></span>[15:204](dio46.htm#fr_203.md) <span
 id="iv.ii.iii-p6.13"></span><span id="iv.ii.iii-p6.14"></span>[Matt. v.
-48](../../bib/kjv/mat005.htm#048)<span id="iv.ii.iii-p6.14"></span>.
+48](../../bib/kjv/mat005.htm#048.md)<span id="iv.ii.iii-p6.14"></span>.
 
-<span id="fn_204"></span>[16:205](dio46.htm#fr_204) <span
+<span id="fn_204"></span>[16:205](dio46.htm#fr_204.md) <span
 id="iv.ii.iii-p8.1"></span>The Holy Angels.
 
 ------------------------------------------------------------------------
 
-[Next: Caput IV.](dio47)
+[Next: Caput IV.](dio47.md)

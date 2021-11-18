@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs21)  [Next](abs23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs21)  [Next](abs23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -65,7 +65,7 @@ places, it is in a way natural that the two should have become
 associated. However, the search would never have followed the course
 that it has, and it might well by now be over, had it not been for the
 coining of the delightful but nonetheless nonsensical term
-"snowman." <span id="fr_53"></span>[\*](#fn_50)
+"snowman." <span id="fr_53"></span>[\*](#fn_50.md)
 
 There is, however, another feature that all ABSMs have in common. This
 has remained just as obscure as the snow bit has been prominent. It is
@@ -95,7 +95,7 @@ latitudes
 
 <span id="img_map15"></span> <span align="CENTER"> [![MAP XV. THE
 WORLD](tn/map15.jpg)  
-Click to enlarge](img/map15.jpg)  
+Click to enlarge](img/map15.jpg.md)  
 MAP XV. THE WORLD  
 </span>
 
@@ -276,7 +276,7 @@ the vaguest connection with reality. First, seas and oceans are
 completely different things, with different structures, histories, types
 of fauna, flora, and so forth. There are actually five *oceans*—the
 North and South Atlantics, the Indian, and the North and South
-Pacifics. <span id="fr_54"></span>[\*](#fn_51) All the rest of the
+Pacifics. <span id="fr_54"></span>[\*](#fn_51.md) All the rest of the
 surface of the earth covered by salt water, is *sea*. There are six
 *land-masses*, that emerge from the seas—North and South America,
 Eurasia, Africa, Australia, and Antarctica. These land-masses are *not*,
@@ -290,7 +290,7 @@ we still persist in calling the latter by the names for the former, and
 sometimes vice versa.
 
 There are *seven* continents. These are outlined in detail on [Map
-XV](#img_map15). They are, can be, or in some cases, might better be
+XV](#img_map15.md). They are, can be, or in some cases, might better be
 named as follows: (1) *Erica* \[after the bawdy old Norseman who first
 located it for the "Western" world of historical man\], which we now
 call "North America" and which stretches from the northern tip of
@@ -411,7 +411,7 @@ and other atmospheric factors, as well as geological and other
 geomorphological matters, there proves to be but *one* factor alone that
 causes these swings in the major vegetational belts. That is the major
 ocean currents. The incidence of the major ocean currents is displayed
-on [Map XVI](#img_map16). The origin and conformity of these forms
+on [Map XVI](#img_map16.md). The origin and conformity of these forms
 another subject in itself, that also cannot be pursued here, but which
 is basically brought about by the spin of the earth, which causes all
 blobs of liquid lying on its surface to
@@ -452,7 +452,7 @@ indicate that they are where they are due to *altitude* and not to
 *latitude*.
 
 The over-all picture of the distribution of vegetational belts is
-displayed on [Map XVI](#img_map16). This shows what conditions would be
+displayed on [Map XVI](#img_map16.md). This shows what conditions would be
 if all the land were at sea level. However, all land must be above sea
 level, and the moment you start to go up, things
 
@@ -462,7 +462,7 @@ begin to change. Since the major belts are pretty large and wide, one
 actually has to go up some 600 feet before one may expect to pass from
 one noticeable zone to another. We may now compare this map with the
 pertinent available information of a purely geographical nature that we
-have about ABSMs as shown on [Map XV](#img_map15). When we do so,
+have about ABSMs as shown on [Map XV](#img_map15.md). When we do so,
 moreover, we may well get quite a surprise.
 
 We immediately see, and staring us in the face, a whole gamut of facts
@@ -577,7 +577,7 @@ sparse scrublands\], and another third equatorial forest. There are
 still a few areas of considerable extent in the middle of the larger
 deserts that are not explored or mapped, and have only been passed
 through once or twice. The tropical forests are even less known. If you
-look at [Map XVI](#img_map16), you will see the disposition of the
+look at [Map XVI](#img_map16.md), you will see the disposition of the
 tropical forests.
 
 It is the closed-canopy forests that interest us most. Of these there
@@ -765,7 +765,7 @@ typed beside me. The Woodland Bison is really an enormous ox,
 
 <span id="img_map16"></span> <span align="CENTER"> [![MAP XVI. THE
 WORLD](tn/map16.jpg)  
-Click to enlarge](img/map16.jpg)  
+Click to enlarge](img/map16.jpg.md)  
 MAP XVI. THE WORLD  
 </span>
 
@@ -828,15 +828,15 @@ downright dangerous.
 
 ### Footnotes
 
-<span id="fn_50"></span>[399:\*](abs22.htm#fr_53) It is interesting to
+<span id="fn_50"></span>[399:\*](abs22.htm#fr_53.md) It is interesting to
 note—and the fact should be noted—that Linnaeus, the founder of modern
 systematic nomenclature, actually gave a name to an ABSM, which he
 called *Homo nocturnus*; i.e., The Man of the Night.
 
-<span id="fn_51"></span>[405:\*](abs22.htm#fr_54) For the exact
+<span id="fn_51"></span>[405:\*](abs22.htm#fr_54.md) For the exact
 definition of these see my *Follow The Whale*, page xviii, Boston,
 Little, Brown, 1956.
 
 ------------------------------------------------------------------------
 
-[Next: 19. Sundry Objectionable Facts](abs23)
+[Next: 19. Sundry Objectionable Facts](abs23.md)

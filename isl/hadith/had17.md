@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had16)  [Next](had18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had16)  [Next](had18.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ may also be offered for rain without holding a special service (H xi.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: Burial Service](had18)
+[Next: Chapter XV: Burial Service](had18.md)

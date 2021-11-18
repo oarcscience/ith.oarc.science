@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont20)  [Next](ont22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont20)  [Next](ont22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -54,7 +54,7 @@ give it up. He
 <span id="img_25200"></span> <span align="CENTER"> [![MEDICINE PIPE
 BUNDLE OVER LODGE DOOR.&lt;br&gt; (Position when in a permanent
 camp.)](tn/25200.jpg)  
-Click to enlarge](img/25200.jpg)  
+Click to enlarge](img/25200.jpg.md)  
 MEDICINE PIPE BUNDLE OVER LODGE DOOR.  
 (Position when in a permanent camp.)  
 </span>
@@ -137,7 +137,7 @@ robes were not tucked underneath.
 
 <span id="img_25500"></span> <span align="CENTER"> [![THE DAY
 HERDER.](tn/25500.jpg)  
-Click to enlarge](img/25500.jpg)  
+Click to enlarge](img/25500.jpg.md)  
 THE DAY HERDER.  
 </span>
 
@@ -163,7 +163,7 @@ mournful
 
 <span id="img_25600"></span> <span align="CENTER"> [![THE NIGHT
 HERDER.](tn/25600.jpg)  
-Click to enlarge](img/25600.jpg)  
+Click to enlarge](img/25600.jpg.md)  
 THE NIGHT HERDER.  
 </span>
 
@@ -221,7 +221,7 @@ was between three and four in the morning and the sun had not
 
 <span id="img_25800"></span> <span align="CENTER"> [![ELK HORN, THE
 HERALD, AROUSING THE CAMP.](tn/25800.jpg)  
-Click to enlarge](img/25800.jpg)  
+Click to enlarge](img/25800.jpg.md)  
 ELK HORN, THE HERALD, AROUSING THE CAMP.  
 </span>
 
@@ -246,7 +246,7 @@ the chant. Then the society slowly entered and took
 
 <span id="img_25900"></span> <span align="CENTER"> [![WOMEN CARRYING
 MEDICINE PIPE BUNDLES.](tn/25900.jpg)  
-Click to enlarge](img/25900.jpg)  
+Click to enlarge](img/25900.jpg.md)  
 WOMEN CARRYING MEDICINE PIPE BUNDLES.  
 </span>
 
@@ -308,4 +308,4 @@ abundance to those who lacked.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Ceremonial Transferring the Medicine Pipe](ont22)
+[Next: Chapter XIX. Ceremonial Transferring the Medicine Pipe](ont22.md)

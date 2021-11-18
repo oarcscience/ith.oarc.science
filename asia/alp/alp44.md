@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp43) 
-[Next](alp45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp43.md) 
+[Next](alp45.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ To dress in greens and crimsons gay.
 
 ------------------------------------------------------------------------
 
-[Next: Like an Ocean is This World](alp45)
+[Next: Like an Ocean is This World](alp45.md)

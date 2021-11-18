@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](bar)  [Next](ma2) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](bar)  [Next](ma2.md) 
 
 ------------------------------------------------------------------------
 
@@ -3221,4 +3221,4 @@ velikim svećenikom.
 
 ------------------------------------------------------------------------
 
-[Next: 2 Macabees](ma2)
+[Next: 2 Macabees](ma2.md)

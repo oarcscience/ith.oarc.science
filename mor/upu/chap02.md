@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap01) [Next](chap03)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap01) [Next](chap03.md)
 
 ------------------------------------------------------------------------
 
@@ -499,4 +499,4 @@ That expressed my own feeling. The faith that was without hope!
 
 ------------------------------------------------------------------------
 
-[Next: III Without a Country](chap03)
+[Next: III Without a Country](chap03.md)

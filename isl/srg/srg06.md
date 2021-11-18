@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](srg05)  [Next](srg07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](srg05)  [Next](srg07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCSCQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCSCQ/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Rose Garden*, by Florence Lederer, \[1920\], at Intangible
 Textual Heritage
 
@@ -34,7 +34,7 @@ Lurks in the elements of Nature.
 And the soul of man,  
 Who has attained the rightful balance,  
 Becoming aware of this hidden joy,  
-Straightway is enamoured and [bewitched](errata.htm#0).
+Straightway is enamoured and [bewitched](errata.htm#0.md).
 
 And from this mystic marriage are born  
 The poets' songs, inner knowledge,  
@@ -76,6 +76,6 @@ Nor is it all desire and lust that tempts men's hearts with longing.
 
 ------------------------------------------------------------------------
 
-[Next: Part III. The Sea and its Pearls](srg07)
+[Next: Part III. The Sea and its Pearls](srg07.md)
 
 </div>

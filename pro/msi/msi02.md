@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](msi01)  [Next](msi03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](msi01)  [Next](msi03.md) 
 
 ------------------------------------------------------------------------
 
@@ -217,4 +217,4 @@ from their power exclaims:--
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Third](msi03)
+[Next: Chapter Third](msi03.md)

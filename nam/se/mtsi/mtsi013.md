@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi012)  [Next](mtsi014) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi012)  [Next](mtsi014.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ coimus (haisa)." This was the beginning of tobacco.
 
 ------------------------------------------------------------------------
 
-[Next: 12. The Origin of Tobacco (Third Version)](mtsi014)
+[Next: 12. The Origin of Tobacco (Third Version)](mtsi014.md)

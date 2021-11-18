@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](choc06)  [Next](choc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](choc06)  [Next](choc08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Occultism*, by Paul Carus, \[1907\], at Intangible Textual
 Heritage
 
@@ -63,7 +63,7 @@ center around which the twelve branches are grouped.
 | 9                              | <span id="img_05108"></span> ![](img/05108.jpg) | shen                                            | to expand                                        | Yin growing strong                                             | Clasped hands                     | metal                                               | <span id="img_05120"></span> ![](img/05120.jpg) | monkey                             |
 | 10                             |                                                 | <span id="img_05109"></span> ![](img/05109.jpg) | yu                                               | ripe                                                           | Completion                        | Cider or wine-press                                 | <span id="img_05121"></span> ![](img/05121.jpg) | cock                               |
 | 11                             |                                                 | <span id="img_05110"></span> ![](img/05110.jpg) | shu                                              | guard                                                          | Exhaustion                        | Yang withdrawing underground                        | <span id="img_05122"></span> ![](img/05122.jpg) | dog                                |
-| 12                             | <span id="img_05111"></span> ![](img/05111.jpg) | hai                                             | \[Kernel\] <span id="fr_26"></span>[\*](#fn_26). | Kernel or root                                                 | Yang in touch with Yin            | water                                               | <span id="img_05123"></span> ![](img/05123.jpg) | boar                               |
+| 12                             | <span id="img_05111"></span> ![](img/05111.jpg) | hai                                             | \[Kernel\] <span id="fr_26"></span>[\*](#fn_26). | Kernel or root                                                 | Yang in touch with Yin            | water                                               | <span id="img_05123"></span> ![](img/05123.jpg.md) | boar                               |
 
 <span id="page_52">p. 52</span>
 
@@ -134,7 +134,7 @@ times, a series of sixty is produced which is commonly called by
 sinologists the sexagenary cycle, and is used for naming years as well
 as days. The invention of the sexagenary cycle and its application to
 the calendar is attributed to Nao the Great, one of the prime ministers
-of Hwang Ti, the Yellow Emperor, <span id="fr_27"></span>[15](#fn_27)
+of Hwang Ti, the Yellow Emperor, <span id="fr_27"></span>[15](#fn_27.md)
 who had solicited this work in the sixtieth year of his reign. Nao the
 Great, having accomplished .the task, set the beginning of the new era
 in the succeeding year, 2637 B.C. Accordingly we live now in the
@@ -148,7 +148,7 @@ equivalent relations to the twelve animals and the five elements,
 
 <span id="img_05400"></span> <span align="CENTER"> [![The Sexagenary
 Cycle](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)  
+Click to enlarge](img/05400.jpg.md)  
 The Sexagenary Cycle  
 </span>
 
@@ -161,14 +161,14 @@ so as to speak of the "fir-rat" year, the "bamboo-ox" year, the
 
 ### Footnotes
 
-<span id="fn_26"></span>[51:\*](choc07.htm#fr_26) This character has now
+<span id="fn_26"></span>[51:\*](choc07.htm#fr_26.md) This character has now
 no meaning except in its relation to the duodenary cycle. Formerly it
 denoted kernel, but now the character for tree is added to give that
 meaning.
 
-<span id="fn_27"></span>[53:15](choc07.htm#fr_27) According to
+<span id="fn_27"></span>[53:15](choc07.htm#fr_27.md) According to
 traditional chronology, Hwang Ti reigned from 2697 to 2597 B.C.
 
 ------------------------------------------------------------------------
 
-[Next: Feng-shui](choc08)
+[Next: Feng-shui](choc08.md)

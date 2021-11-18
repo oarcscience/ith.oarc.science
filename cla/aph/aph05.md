@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph04)  [Next](aph06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph04)  [Next](aph06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -97,4 +97,4 @@ with the tip of her fan.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five. The Mirror, the Comb and the Necklace](aph06)
+[Next: Chapter Five. The Mirror, the Comb and the Necklace](aph06.md)

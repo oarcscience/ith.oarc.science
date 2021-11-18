@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah03)  [Next](oah05) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah03)  [Next](oah05.md) 
 
 ------------------------------------------------------------------------
 
@@ -577,4 +577,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: List Of The Principal Prophets And Law-Givers](oah05)
+[Next: List Of The Principal Prophets And Law-Givers](oah05.md)

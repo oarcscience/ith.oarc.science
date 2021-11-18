@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft61)  [Next](sfft63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft61)  [Next](sfft63.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE TWO SHEPHERDS. <span id="fr_96"></span>[1](#fn_96)
+### THE TWO SHEPHERDS. <span id="fr_96"></span>[1](#fn_96.md)
 
 THERE, were out between Lochaber and Baideanach two shepherds who were
 neighbours to each
@@ -77,9 +77,9 @@ more noticed a thing near the river.
 
 ### Footnotes
 
-<span id="fn_96"></span>[200:1](sfft62.htm#fr_96) Campbell, *Popular
+<span id="fn_96"></span>[200:1](sfft62.htm#fr_96.md) Campbell, *Popular
 Tales of the West Highlands*.
 
 ------------------------------------------------------------------------
 
-[Next: Fatlips](sfft63)
+[Next: Fatlips](sfft63.md)

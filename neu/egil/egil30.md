@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil29)  [Next](egil31) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil29)  [Next](egil31.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ Thord Yeller.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER XXX. Of the coming out of Yngvar, and of Skallagrim's
-iron-forging.](egil31)
+iron-forging.](egil31.md)

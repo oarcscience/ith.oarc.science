@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks30)  [Next](lks32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks30)  [Next](lks32.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ Lavabis me, et super nivem dealbabor.
 
 ------------------------------------------------------------------------
 
-[Next: Atte Ye Induynge Of Ye Holy Vestures](lks32)
+[Next: Atte Ye Induynge Of Ye Holy Vestures](lks32.md)

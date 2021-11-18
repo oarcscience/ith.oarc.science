@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste58)  [Next](ste60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste58)  [Next](ste60.md) 
 
 ------------------------------------------------------------------------
 
@@ -248,7 +248,7 @@ without making themselves ridiculous both to *Jews* and Christians?
 Besides, these do not seem to have been of the vulgar amongst them, for
 they bring a Philosophical argument for their opinion; and also in their
 very argument they refer to the History of the Old Testament, <span
-id="fr_27"></span>[1](#fn_27)
+id="fr_27"></span>[1](#fn_27.md)
 
 <span id="page_390">p. 390</span>
 
@@ -374,7 +374,7 @@ Apostle's discourse. For there is a plain antithesis, or opposition made
 betwixt the Heavens and the Earth of old (*ver*. *the* 5*th*) and the
 Heavens and the Earth that are now (*verse the* 7*th*) of οἱ ἔκπαλαι
 οὐρανοὶ καὶ ἡ γῆ and of οἱ νῦν οὐρανοὶ καὶ ἡ γῆ, and the adversative
-particle, *but*, <span id="fr_28"></span>[1](#fn_28) you see marks the
+particle, *but*, <span id="fr_28"></span>[1](#fn_28.md) you see marks the
 opposition; so that it is full and plain according to Grammar and
 Logick. And that the parts or members of this opposition differ in
 nature from one another, is certain from this, because otherwise the
@@ -402,7 +402,7 @@ for instance, unless you admit this diversity *betwixt the two natural
 Worlds*, you make the 5*th* *verse* in this *Chapter* superfluous and
 useless: and you must suppose the Apostle to make an inference here
 without premises. In the 6*th* *verse* he makes an inference, <span
-id="fr_29"></span>[2](#fn_29) *Whereby* the World, that then was,
+id="fr_29"></span>[2](#fn_29.md) *Whereby* the World, that then was,
 perish’d in a Deluge; what does this *whereby* relate to? *by reason* of
 what? sure of the particular constitution of the Heavens and the Earth
 immediately before describ’d. Neither would it have signified any thing
@@ -428,7 +428,7 @@ the water, and out of* 
 *the water*, which is done manifestly in compliance with the present
 form of the Earth, and the notions of the Translators: and not according
 to the natural force and sence of the *Greek* words. If one met with
-this sentence <span id="fr_30"></span>[1](#fn_30) in a Greek Author, who
+this sentence <span id="fr_30"></span>[1](#fn_30.md) in a Greek Author, who
 would ever render it *standing in the water and out of the water?* nor
 do I know any Latin Translator that hath ventur’d to render them in that
 sence; nor any Latin Father; St. *Austin* and St. *Jerome* I’me sure do
@@ -458,7 +458,7 @@ built upon it, and at first was sustain’d by it. And when such a Key as
 this is put into our hands, that does so easily unlock this hard
 passage, and makes it intelligible, according to the just force of the
 words, why should we pertinaciously adhere to an interpretation, that
-neither agrees with the words, <span id="fr_31"></span>[2](#fn_31) nor
+neither agrees with the words, <span id="fr_31"></span>[2](#fn_31.md) nor
 makes any sence that is considerable?
 
 Thirdly, If the Apostle had made the ante-diluvian Heavens and Earth the
@@ -765,7 +765,7 @@ Scripture that favour this description: Some more expresly, others upon
 a due explication. To this purpose there are two express Texts in the
 Psalms: as *Psal*. 24. 1, 2. *The Earth is the Lords, and the fulness
 thereof: The habitable World, and they that dwell therein. FOR he has
-founded it upon <span id="fr_32"></span>[1](#fn_32) the Seas, and
+founded it upon <span id="fr_32"></span>[1](#fn_32.md) the Seas, and
 establish’d it upon the Floods*. An Earth founded upon the
 
 <span id="page_399">p. 399</span>
@@ -899,7 +899,7 @@ of the *Abyss*; changing *darkness* for that *Orb* of the exteriour
 Earth which was made afterwards to inclose it. And in this vault it lay,
 and under this cover, when the Psalmist speaks of it in these words
 (*Ps*. 33. 7.) *He gathereth the waters of the Sea, as in a* <span
-id="fr_33"></span>[1](#fn_33) *bag; he layeth up the Abyss in
+id="fr_33"></span>[1](#fn_33.md) *bag; he layeth up the Abyss in
 storehouses*. Lastly, we may observe that ’twas this Mother-Abyss whose
 womb was burst at the Deluge, when the Sea was born, and broke forth as
 if it had issued out of a womb; as God expresseth it to *Job*, *ch*. 38.
@@ -926,7 +926,7 @@ Terrarum*, an habitable sphere of Earth about the Abyss.
 
 ### Footnotes
 
-<span id="fn_27"></span>[389:1](ste59.htm#fr_27) There was a Sect
+<span id="fn_27"></span>[389:1](ste59.htm#fr_27.md) There was a Sect
 amongst the *Jews* that held this perpetuity and immutability of Nature;
 and *Maimonides* himself was of this principle, and gives the same
 reason for it with the Scoffers here in the Text, *Quod mundus retinet &
@@ -935,16 +935,16 @@ sequitur consuetudinem suam*. And as to those of the Jews that were
 incorruptibility of the World, as their Master did. *Vid*. *Med*. *in
 loc*.
 
-<span id="fn_28"></span>[392:1](ste59.htm#fr_28) δὲ
+<span id="fn_28"></span>[392:1](ste59.htm#fr_28.md) δὲ
 
-<span id="fn_29"></span>[392:2](ste59.htm#fr_29) δἰ ὧν, *per que*.
+<span id="fn_29"></span>[392:2](ste59.htm#fr_29.md) δἰ ὧν, *per que*.
 Vulgat. *Quamobrem*, Beza. *Quâ de causâ*, Grot. *Nemo interpretum
 reddidit* δἰ ὧν per quas; *subintelligendo* aquas. *Hoc enim
 argumentationem Apostolicana tolleret, supponeretque illusores illos
 ignorâsse quod olim fuerit Diluvium; Quod supponi non posse supra
 ostendimus*.
 
-<span id="fn_30"></span>[393:1](ste59.htm#fr_30) This phrase or manner
+<span id="fn_30"></span>[393:1](ste59.htm#fr_30.md) This phrase or manner
 of speech συνιζάναὶ ἐκvel ὄξ is not unusual in *Greek* Authors, and upon
 a like subject; *Plato* saith, τόν δε κόσμον συνιϛάναι ἐκ πυρὲς, ὔδατος,
 ἄερος, γῖς, but he that should translate Plato, *The world stands out of
@@ -956,12 +956,12 @@ which is still nearer to the subject, ἐκ τοῦ ὔδατός, φηοι, σ�
 it is easie to know the true importance of this phrase, and how ill it
 is render’d in the English, *standing out of the water*.
 
-<span id="fn_31"></span>[393:2](ste59.htm#fr_31) Whether you refer the
+<span id="fn_31"></span>[393:2](ste59.htm#fr_31.md) Whether you refer the
 words ὄξ ὔδατ. καὶ δἰ ὔδατ. separately, to the Heavens and the Earth, or
 both to the Earth, or both to both, it will make no great difference as
 to our interpretation.
 
-<span id="fn_32"></span>[398:1](ste59.htm#fr_32) I know some would make
+<span id="fn_32"></span>[398:1](ste59.htm#fr_32.md) I know some would make
 this place of no effect by rendering the *Hebrew* particle על *juxta*,
 by or near to; so they would read it thus, He hath founded the Earth by
 the Sea-side, and establish’d it by the Floods. What is there wonderful
@@ -982,11 +982,11 @@ this does, Why must it signifie otherwise in this place? Men will
 wriggle any way to get from under the force of a Text, that does not
 suit to their own Notions.
 
-<span id="fn_33"></span>[401:1](ste59.htm#fr_33) *This reading or
+<span id="fn_33"></span>[401:1](ste59.htm#fr_33.md) *This reading or
 translating is generally followed*, (Theor. book 1, p. 86.) *though the
 English translation read* on a heap, *unsuitably to the matter and to
 the sence*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](ste60)
+[Next: Chapter III](ste60.md)

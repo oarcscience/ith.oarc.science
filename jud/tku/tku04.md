@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku03)  [Next](tku05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku03)  [Next](tku05.md) 
 
 ------------------------------------------------------------------------
 
@@ -919,4 +919,4 @@ their meaning will seem clearer to him.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II.](tku05)
+[Next: Chapter II.](tku05.md)

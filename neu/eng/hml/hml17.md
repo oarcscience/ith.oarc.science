@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml16)  [Next](hml18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml16)  [Next](hml18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -331,13 +331,13 @@ on his land and felt the power of his mighty charms, I was unable to
 <span id="img_27400"></span>
 
 [![''He hung his head and rode slowly away''](tn/27400.jpg)  
-Click to enlarge](img/27400.jpg)  
+Click to enlarge](img/27400.jpg.md)  
 ''He hung his head and rode slowly away''  
 
 <span id="img_27500"></span>
 
 [![''Lady, I will be a true and loyal husband''](tn/27500.jpg)  
-Click to enlarge](img/27500.jpg)  
+Click to enlarge](img/27500.jpg.md)  
 ''Lady, I will be a true and loyal husband''  
 
  
@@ -599,13 +599,13 @@ hand. "Dear love, if you would rather that men should see you
 <span id="img_28200"></span>
 
 [![Now you have released me from the spell completely](tn/28200.jpg)  
-Click to enlarge](img/28200.jpg)  
+Click to enlarge](img/28200.jpg.md)  
 Now you have released me from the spell completely  
 
 <span id="img_28300"></span>
 
 [![Queen Godhild prays ever for her son Horn](tn/28300.jpg)  
-Click to enlarge](img/28300.jpg)  
+Click to enlarge](img/28300.jpg.md)  
 Queen Godhild prays ever for her son Horn  
 
  
@@ -687,4 +687,4 @@ festivities.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: King Horn](hml18)
+[Next: Chapter XIV: King Horn](hml18.md)

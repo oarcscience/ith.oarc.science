@@ -1199,6 +1199,6 @@ the text.
 
 ------------------------------------------------------------------------
 
-[Next Section](sd1-1-01)
+[Next Section](sd1-1-01.md)
 
-[Contents](sd1-0-co.htm#contents)
+[Contents](sd1-0-co.htm#contents.md)

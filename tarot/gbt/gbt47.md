@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](gbt46)  [Next](gbt48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](gbt46)  [Next](gbt48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ A marriage will do much good*.
 
 ------------------------------------------------------------------------
 
-[Next: Four of Pentacles](gbt48)
+[Next: Four of Pentacles](gbt48.md)

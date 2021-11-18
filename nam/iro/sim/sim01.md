@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim00)  [Next](sim02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim00)  [Next](sim02.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ G. M. A.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sim02)
+[Next: Contents](sim02.md)

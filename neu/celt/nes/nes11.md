@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes10)  [Next](nes12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes10)  [Next](nes12.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE belief in casting ill" on one was quite common. This power of
 "casting ill" was not in the possession of all, yet in almost every
@@ -37,7 +37,7 @@ lingering disease. In the other mode, the figure was made of clay, stuck
 full of pins, and placed on the hearth among the hot ashes. As the
 figure dried up and crumbled into dust, slow disease burned up the life
 of the hapless victim represented by the clay figure. <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 #### *The Ill Ee*.
 
@@ -50,7 +50,7 @@ into use at the will of the possessors,
 
 and was exercised against those who had incurred their displeasure, or
 on behalf of those who wished to be avenged on their enemies, and paid
-for its exercise. <span id="fr_30"></span>[1](#fn_30)
+for its exercise. <span id="fr_30"></span>[1](#fn_30.md)
 
 #### *Prayers*.
 
@@ -121,7 +121,7 @@ charmed ane chyldes sore eye in Bade, within the parish of Ruven. The
 censure of the said Issobell was continued in hope that she should be
 found yet more guiltye. The moderator, Mr. Robert Jameson, reported
 that, he hearing that she vsed charmeing, he raised her from the table,
-she having a purpose to communicat." <span id="fr_31"></span>[1](#fn_31)
+she having a purpose to communicat." <span id="fr_31"></span>[1](#fn_31.md)
 
 Some women were supposed to have a lucky hand in dressing boils, and if
 a boil was long in coming to maturity such a
@@ -248,7 +248,7 @@ kind of disease of the
 An amber bead, vernacularly called "laamer," was commonly used to remove
 a chaff from the eye, both of man and beast. A. necklace of amber beads
 was worn as a cure for disease of the eyes. <span
-id="fr_32"></span>[1](#fn_32)
+id="fr_32"></span>[1](#fn_32.md)
 
 There were certain wells whose waters were reputed as possessing the
 virtue of curing all kinds of diseases. To some of them pilgrimages were
@@ -304,7 +304,7 @@ diseased part, took place before or at sunrise. A quantity of the water
 was carried home for future use. Pilgrimages were made up to the end of
 September, by which time the healing virtues of the water had become
 less. Such after-visits seem to have begun in later times. <span
-id="fr_33"></span>[1](#fn_33)
+id="fr_33"></span>[1](#fn_33.md)
 
 "Wallak kirk" was a place of resort for the cure of disease. It was the
 church of the ancient parish of Dumeth, which now forms part of the
@@ -319,7 +319,7 @@ Church interposed and forbade all superstitious worship at this church.
 
 "Att Glas, 7th Junij, 1618. Ordained to restraine buriallis in the kirk,
 and to censure all superstition at Wallak Kirk." <span
-id="fr_34"></span>[2](#fn_34)
+id="fr_34"></span>[2](#fn_34.md)
 
 <span id="page_42">p. 42</span>
 
@@ -343,7 +343,7 @@ chappell, compeared, and confessed that she went to the said chappell
 with ane diseased woman, but gave her great oath that she vsed no kynd
 of superstitious worship. She is ordained to mak her publike repentance,
 and to abstaine from the lyke in tyme comeing." <span
-id="fr_35"></span>[1](#fn_35) (1636.)
+id="fr_35"></span>[1](#fn_35) (1636..md)
 
 Not merely wells and chapels were resorted to but rocks.
 
@@ -363,7 +363,7 @@ to them.
 water from it, pour it into a "cog" with three "girds" over a "crosst
 shilling," and then sprinkle the water over the victim of the "ill ee"
 in the name of the Father, the Son, and the Holy Ghost. <span
-id="fr_36"></span>[2](#fn_36)
+id="fr_36"></span>[2](#fn_36.md)
 
 <span id="page_43">p. 43</span>
 
@@ -518,10 +518,10 @@ If the patient was taken to another laird's land the disease was left
 there.
 
 Let the first man seen riding on a white horse be asked what the cure
-is. What he names, is the cure. <span id="fr_37"></span>[1](#fn_37)
+is. What he names, is the cure. <span id="fr_37"></span>[1](#fn_37.md)
 
 Passing the patient three times under the belly of a piebald horse put
-the malady to flight. <span id="fr_38"></span>[2](#fn_38)
+the malady to flight. <span id="fr_38"></span>[2](#fn_38.md)
 
 The milk of an ass was a sovereign specific.
 
@@ -547,7 +547,7 @@ colour to like colour.
 
 A sovereign remedy for the sting of the nettle was the mucus that
 imbedded the petioles of the young leaves of the common dock. <span
-id="fr_39"></span>[1](#fn_39)
+id="fr_39"></span>[1](#fn_39.md)
 
 #### *Ringworm*.
 
@@ -588,14 +588,14 @@ and carried on the person, were esteemed a cure:--
 Christ came past and said, 'What aileth thee, Peter?'  
 'O, my Lord, my tooth doeth ache.'  
 Christ said, 'Rise, Peter, thy tooth shall ache no more.'"  <span
-id="fr_40"></span>[1](#fn_40)
+id="fr_40"></span>[1](#fn_40.md)
 
 There were those who made a habit of selling this charm. It was kept
 ready, rolled up in a neat packet and sealed.
 
 Go to the churchyard when a grave is being dug, take a skull in whose
 jaw there are teeth, and with the teeth draw a tooth from it. A cure
-follows. <span id="fr_41"></span>[2](#fn_41)
+follows. <span id="fr_41"></span>[2](#fn_41.md)
 
 Go between the sun and the sky to a ford, a place where the dead and the
 living cross, lift a stone from it with the teeth, and the toothache
@@ -610,7 +610,7 @@ If an infant cuts its first tooth in the upper gum it would be
 short-lived. Hence
 
 "The bairn it cuts its teeth abeen,  
-Ill nivver see its mairidge sheen." <span id="fr_42"></span>[3](#fn_42)
+Ill nivver see its mairidge sheen." <span id="fr_42"></span>[3](#fn_42.md)
 
 Children were warned not to lick with the tongue the sockets of the
 first teeth when they fell from the gums. If they did so the new teeth
@@ -633,16 +633,16 @@ Taks the warts awa."
 The warts vanish in a short time.
 
 Rub the wart with one of the common snails. <span
-id="fr_43"></span>[1](#fn_43)
+id="fr_43"></span>[1](#fn_43.md)
 
 Lick the wart with the tongue every morning on awakening, and it will
 gradually vanish.
 
 Wash the wart with water that has collected in the carved parts that are
-found on some old "layer" stones. <span id="fr_44"></span>[2](#fn_44)
+found on some old "layer" stones. <span id="fr_44"></span>[2](#fn_44.md)
 
 Rub the wart with a piece of meat, bury the meat, and as it decays the
-wart disappears. <span id="fr_45"></span>[3](#fn_45)
+wart disappears. <span id="fr_45"></span>[3](#fn_45.md)
 
 Let the wart be rubbed on a man who is the father of an adulterous
 child. The rubbing must take place without the man's knowledge.
@@ -653,12 +653,12 @@ an the sky." As the nodes decay, the warts waste, till they disappear.
 
 Wrap up in a parcel as many grains of barley as there are warts, and lay
 it on the public road. Whoever finds and opens the parcel inherits the
-warts. <span id="fr_46"></span>[4](#fn_46)
+warts. <span id="fr_46"></span>[4](#fn_46.md)
 
 Great care was used if a wart bled to keep the blood from spreading over
 any part of the hand. This was done under the belief that where the
 blood was left other warts sprang up. <span
-id="fr_47"></span>[5](#fn_47)
+id="fr_47"></span>[5](#fn_47.md)
 
 #### *Hiccup*.
 
@@ -673,60 +673,60 @@ The hiccup ’ill gang awa."
 
 ### Footnotes
 
-<span id="fn_29"></span>[34:1](nes11.htm#fr_29) Cf. Henderson, p. 228.
+<span id="fn_29"></span>[34:1](nes11.htm#fr_29.md) Cf. Henderson, p. 228.
 
-<span id="fn_30"></span>[35:1](nes11.htm#fr_30) Cf. Henderson, pp. 187,
+<span id="fn_30"></span>[35:1](nes11.htm#fr_30.md) Cf. Henderson, pp. 187,
 188.
 
-<span id="fn_31"></span>[36:1](nes11.htm#fr_31) Extracts from the
+<span id="fn_31"></span>[36:1](nes11.htm#fr_31.md) Extracts from the
 *Presbytery Book of Strathbogie*, p. 15. Spalding Club. Aberdeen, A.D.
 1843.
 
-<span id="fn_32"></span>[40:1](nes11.htm#fr_32) Cf. Henderson, p. 145.
+<span id="fn_32"></span>[40:1](nes11.htm#fr_32.md) Cf. Henderson, p. 145.
 
-<span id="fn_33"></span>[41:1](nes11.htm#fr_33) Cf. Henderson, pp. 230,
+<span id="fn_33"></span>[41:1](nes11.htm#fr_33.md) Cf. Henderson, pp. 230,
 231.
 
-<span id="fn_34"></span>[41:2](nes11.htm#fr_34) *Extracts from the
+<span id="fn_34"></span>[41:2](nes11.htm#fr_34.md) *Extracts from the
 Presbytery Book of Strathbogie*, p. 89. Spalding Club. Aberdeen, A.D.
 1813.
 
-<span id="fn_35"></span>[42:1](nes11.htm#fr_35) *Extracts from the
+<span id="fn_35"></span>[42:1](nes11.htm#fr_35.md) *Extracts from the
 Presbytery Book of Strathbogie*, p. 88. Spalding Club. Aberdeen, A.D.
 1843.
 
-<span id="fn_36"></span>[42:2](nes11.htm#fr_36) Cf. Henderson, p. 188.
+<span id="fn_36"></span>[42:2](nes11.htm#fr_36.md) Cf. Henderson, p. 188.
 
-<span id="fn_37"></span>[46:1](nes11.htm#fr_37) Cf. Henderson, p. 142,
+<span id="fn_37"></span>[46:1](nes11.htm#fr_37.md) Cf. Henderson, p. 142,
 and *F. L. Record*, vol. i. p. 38 (115).
 
-<span id="fn_38"></span>[46:2](nes11.htm#fr_38) Cf. Henderson, p. 112.
+<span id="fn_38"></span>[46:2](nes11.htm#fr_38.md) Cf. Henderson, p. 112.
 
-<span id="fn_39"></span>[47:1](nes11.htm#fr_39) Cf. Henderson, p. 26,
+<span id="fn_39"></span>[47:1](nes11.htm#fr_39.md) Cf. Henderson, p. 26,
 and *F. L. Record*, vol. i. p. 45 (148).
 
-<span id="fn_40"></span>[48:1](nes11.htm#fr_40) Cf. Henderson, p. 172,
+<span id="fn_40"></span>[48:1](nes11.htm#fr_40.md) Cf. Henderson, p. 172,
 and *F. L. Record*, vol. i. p. 40 (127).
 
-<span id="fn_41"></span>[48:2](nes11.htm#fr_41) Cf. Henderson, p. 145.
+<span id="fn_41"></span>[48:2](nes11.htm#fr_41.md) Cf. Henderson, p. 145.
 
-<span id="fn_42"></span>[48:3](nes11.htm#fr_42) *Ibid*. p. 20.
+<span id="fn_42"></span>[48:3](nes11.htm#fr_42.md) *Ibid*. p. 20.
 
-<span id="fn_43"></span>[49:1](nes11.htm#fr_43) Cf. Henderson, p. 138,
+<span id="fn_43"></span>[49:1](nes11.htm#fr_43.md) Cf. Henderson, p. 138,
 and *F. L. Record*, vol. i. p. 218 (2).
 
-<span id="fn_44"></span>[49:2](nes11.htm#fr_44) Cf. *F. L. Record*, p.
+<span id="fn_44"></span>[49:2](nes11.htm#fr_44.md) Cf. *F. L. Record*, p.
 223 (11).
 
-<span id="fn_45"></span>[49:3](nes11.htm#fr_45) Cf. Henderson, p. 139,
+<span id="fn_45"></span>[49:3](nes11.htm#fr_45.md) Cf. Henderson, p. 139,
 and *F. L. Record*, vol. i. p. 41 (130): p. 217 (1).
 
-<span id="fn_46"></span>[49:4](nes11.htm#fr_46) *Ibid*. vol. i. p. 220
+<span id="fn_46"></span>[49:4](nes11.htm#fr_46.md) *Ibid*. vol. i. p. 220
 (7).
 
-<span id="fn_47"></span>[49:5](nes11.htm#fr_47) Cf. *F. L. Record*, vol.
+<span id="fn_47"></span>[49:5](nes11.htm#fr_47.md) Cf. *F. L. Record*, vol.
 i. p. 224 (13).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The House](nes12)
+[Next: Chapter IX. The House](nes12.md)

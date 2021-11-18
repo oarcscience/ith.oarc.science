@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](teia07)  [Next](teia09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](teia07)  [Next](teia09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -150,4 +150,4 @@ sometimes purchasing supplies from the mainland?
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Castle of the Active Door](teia09)
+[Next: VI. The Castle of the Active Door](teia09.md)

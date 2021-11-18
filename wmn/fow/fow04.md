@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow03)  [Next](fow05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow03)  [Next](fow05.md) 
 
 ------------------------------------------------------------------------
 
@@ -521,4 +521,4 @@ same purport is the German adage, "One cannot live on beauty."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Woman's Dress](fow05)
+[Next: Chapter III: Woman's Dress](fow05.md)

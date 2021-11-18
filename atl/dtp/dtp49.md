@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp48)  [Next](dtp50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp48)  [Next](dtp50.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ conquered it, for Lolix's individuality was Elizabeth's
 <span id="page_397">p. 397</span>
 
 (my wife). Her crime in Poseid was expiated, and so, too, was mine.
-Karma was fulfilled there. <span id="fr_42"></span>[1](#fn_42)
+Karma was fulfilled there. <span id="fr_42"></span>[1](#fn_42.md)
 
 Man's course upward to God is so blind, so untaught, instinctively like
 the sunward turning vine. I had so confidently, in the Sagum, taken a
@@ -58,7 +58,7 @@ our errors required it, and Karma is a sure paymaster.
 Sin begot karma and karma had exacted pay. Thus had I, for I am not
 relating Phyris' history, given up hopes, happiness, as one gives his
 open veins in the Sahara to quench the thirst of his friend. <span
-id="fr_43"></span>[2](#fn_43) By this abdication I had lost my life and
+id="fr_43"></span>[2](#fn_43.md) By this abdication I had lost my life and
 found it again. Karma, as the long record showed, was not always
 requiring pay; for every good act I had ever done I saw that I had been
 fully paid in kind my every jot. These were providences and benefices of
@@ -80,10 +80,10 @@ and disorder is but an arc of order.
 
 ### Footnotes
 
-<span id="fn_42"></span>[397:1](dtp49.htm#fr_42) St. Matthew v: 17-18.
+<span id="fn_42"></span>[397:1](dtp49.htm#fr_42.md) St. Matthew v: 17-18.
 
-<span id="fn_43"></span>[397:2](dtp49.htm#fr_43) St. John xv: 13.
+<span id="fn_43"></span>[397:2](dtp49.htm#fr_43.md) St. John xv: 13.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Fall Of Atlantis](dtp50)
+[Next: Chapter IV: The Fall Of Atlantis](dtp50.md)

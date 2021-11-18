@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Next](odpr01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Next](odpr01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ used for any purpose
 
 ------------------------------------------------------------------------
 
-[Next: Plates](odpr01)
+[Next: Plates](odpr01.md)

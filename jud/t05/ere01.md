@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](ere00)  [Next](ere02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](ere00)  [Next](ere02.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -15,7 +15,7 @@ Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 
 # TRACT DERECH ERETZ--RABBA. (WORLDLY AFFAIRS.)
 
-## CHAPTER II. <span id="fr_1"></span>[1](#fn_1)
+## CHAPTER II. <span id="fr_1"></span>[1](#fn_1.md)
 
 THE Sadducees, the common informers, the wicked, the hypocrites, the
 heretics, of them the Scripture says \[Job, xiii. 16\]: "For a hypocrite
@@ -96,11 +96,11 @@ thy seed is numerous, and thy offspring as the herbage of the earth."
 
 One who loves his neighbors and is friendly to his relatives, and one
 who marries off his sister's daughter, and one who loans even a small
-amount to a poor man in his need, <span id="fr_2"></span>[1](#fn_2) of
+amount to a poor man in his need, <span id="fr_2"></span>[1](#fn_2.md) of
 them the Scripture says \[Is. lviii. 9\]: "Then shalt thou call, and the
 Lord will answer."
 
-One who executes his trust rightfully, <span id="fr_3"></span>[2](#fn_3)
+One who executes his trust rightfully, <span id="fr_3"></span>[2](#fn_3.md)
 those who truthfully repent, and those who receive the repentant into
 their midst and instruct them so that they shall not
 
@@ -198,18 +198,18 @@ has mercy upon them).
 
 ### Footnotes
 
-<span id="fn_1"></span>[1:1](ere01.htm#fr_1) Chapter I. belongs to Tract
+<span id="fn_1"></span>[1:1](ere01.htm#fr_1.md) Chapter I. belongs to Tract
 Kedushin, and will be added to that tract.
 
-<span id="fn_2"></span>[3:1](ere01.htm#fr_2) Some say it means when the
+<span id="fn_2"></span>[3:1](ere01.htm#fr_2.md) Some say it means when the
 lender himself is in need, and it seems to us that it is the correct
 meaning.
 
-<span id="fn_3"></span>[3:2](ere01.htm#fr_3) The text reads "Hamnadin,"
+<span id="fn_3"></span>[3:2](ere01.htm#fr_3.md) The text reads "Hamnadin,"
 which means "those who put under the ban," but the commentators came to
 the conclusion that this is an error. We have translated it according to
 Elias Wilna.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III.](ere02)
+[Next: Chapter III.](ere02.md)

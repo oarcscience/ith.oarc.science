@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](iol05) 
-[Next](iol07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](iol05.md) 
+[Next](iol07.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ accorded to it. With the incoming of the Christian centuries, and the
 growth of Alexandrian and Germanic influences, a change began to take
 place. Woman rose to greater freedom and dignity and influence than
 before. The romance of love began to centre round her. <span
-id="fr_6"></span>[1](#fn_6) The days of chivalry brought a new devotion
+id="fr_6"></span>[1](#fn_6.md) The days of chivalry brought a new devotion
 into the world, and the Church exalted the Virgin Mother to the highest
 place in heaven. Friendship between men ceased to be regarded in the old
 light--*i.e.*, as a thing of deep feeling, and an important social
@@ -431,7 +431,7 @@ In sweet abundance from thy brook."
 ### NESIM BEY
 
 Hahn in his *Albanesische Studien*, already quoted ([p.
-20](iol03.htm#page_20)), gives some of the verses of Neçin or Nesim Bey,
+20](iol03.htm#page_20).md), gives some of the verses of Neçin or Nesim Bey,
 a Turco-Albanian poet, of which the following is an example:--
 
 "Whate'er, my friend, or false or true,  
@@ -594,9 +594,9 @@ these." *Ibid*, p. 165.
 
 ### Footnotes
 
-<span id="fn_6"></span>[89:1](iol06.htm#fr_6) Benecke, *Woman in Greek
+<span id="fn_6"></span>[89:1](iol06.htm#fr_6.md) Benecke, *Woman in Greek
 Poetry*, traces a germ of this romance even in Greek days.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Renaissance and Modern Times](iol07)
+[Next: V. The Renaissance and Modern Times](iol07.md)

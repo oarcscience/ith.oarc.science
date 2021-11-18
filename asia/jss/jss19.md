@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss18)  [Next](jss20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss18)  [Next](jss20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -368,4 +368,4 @@ nine nights as they had never feasted before.
 
 ------------------------------------------------------------------------
 
-[Next: Buruldai Bogdo, No. I](jss20)
+[Next: Buruldai Bogdo, No. I](jss20.md)

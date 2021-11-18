@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Theosophy](../../the/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Theosophy](../../the/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](theo00)    [Page
-Index](pageidx)    [Text \[Zipped\]](theotxt.zip)
+[Contents](#contents)    [Start Reading](theo00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](theotxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -56,39 +56,39 @@ class="small">J.B. Hare, July 9th, 2008</span>.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](theo00)  
-[Contents](theo01)  
-[Translator's Foreword](theo02)  
-[Preface to the First Edition](theo03)  
-[Preface to the Third Edition](theo04)  
-[Introduction](theo05)  
+<span id="contents"></span> [Title Page](theo00.md)  
+[Contents](theo01.md)  
+[Translator's Foreword](theo02.md)  
+[Preface to the First Edition](theo03.md)  
+[Preface to the Third Edition](theo04.md)  
+[Introduction](theo05.md)  
 <span id="section_000"></span>
 
 ### Chapter I. The Constitution of the Human Being
 
-[Introduction](theo06)  
-[1. The Corporeal Being of Man](theo07)  
-[2. The Soul Being of Man](theo08)  
-[3. The Spiritual Being of Man](theo09)  
-[4. Body, Soul, and Spirit](theo10)  
+[Introduction](theo06.md)  
+[1. The Corporeal Being of Man](theo07.md)  
+[2. The Soul Being of Man](theo08.md)  
+[3. The Spiritual Being of Man](theo09.md)  
+[4. Body, Soul, and Spirit](theo10.md)  
 <span id="section_001"></span>
 
 ### Chapter II. Re-Embodiment of the Spirit and Destiny
 
-[Reincarnation and Karma](theo11)  
+[Reincarnation and Karma](theo11.md)  
 <span id="section_002"></span>
 
 ### Chapter III. The Three Worlds
 
-[1. The Soul World](theo12)  
-[2. The Soul in the Soul World after Death](theo13)  
-[3. The Spirit Land](theo14)  
-[4. The Spirit in Spirit-Land after Death](theo15)  
+[1. The Soul World](theo12.md)  
+[2. The Soul in the Soul World after Death](theo13.md)  
+[3. The Spirit Land](theo14.md)  
+[4. The Spirit in Spirit-Land after Death](theo15.md)  
 [5. The Physical World and its Connection with the Soul and Spirit
-Lands](theo16)  
-[6. Thought-Forms and the Human Aura](theo17)  
+Lands](theo16.md)  
+[6. Thought-Forms and the Human Aura](theo17.md)  
 
  
 
-[Chapter IV. The Path of Knowledge](theo18)  
-[Notes and Amplifications](theo19)  
+[Chapter IV. The Path of Knowledge](theo18.md)  
+[Notes and Amplifications](theo19.md)  

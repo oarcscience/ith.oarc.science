@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[ESP](../../psi/index)  [Index](index)  [Previous](wild20) 
-[Next](wild22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[ESP](../../psi/index)  [Index](index)  [Previous](wild20.md) 
+[Next](wild22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Wild Talents*, by Charles Fort, \[1933\], at Intangible Textual
 Heritage
 
@@ -521,4 +521,4 @@ blood, without finding a trace of poison."
 
 ------------------------------------------------------------------------
 
-[Next: 22](wild22)
+[Next: 22](wild22.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pey02)  [Next](pey04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pey02)  [Next](pey04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Heritage
 
 ### O.L.'s DESCRIPTION OF THE PEYOTE CULT
 
-([Pl. 55, a](pey01.htm#img_pl55a))
+([Pl. 55, a](pey01.htm#img_pl55a).md)
 
 John Rave belongs to the Bear clan, the members of which had the
 functions of what might be called sergeants-at-arms. He and his
@@ -153,4 +153,4 @@ survived the ages.
 
 ------------------------------------------------------------------------
 
-[Next: J.B.'s Account of the Leader of the Peyote](pey04)
+[Next: J.B.'s Account of the Leader of the Peyote](pey04.md)

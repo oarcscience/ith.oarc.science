@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa41)  [Next](taa43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa41)  [Next](taa43.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -67,6 +67,6 @@ invisibility, if we regard Him and not our own reason.
 
 ------------------------------------------------------------------------
 
-[Next: XL](taa43)
+[Next: XL](taa43.md)
 
 </div>

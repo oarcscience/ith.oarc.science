@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib08)  [Next](sib10) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib08)  [Next](sib10.md) 
 
 ------------------------------------------------------------------------
 
@@ -371,4 +371,4 @@ Gentes*, book i, 62 \[L., 5, 802\]. Comp. the conclusion of book ii.\]
 
 ------------------------------------------------------------------------
 
-[Next: Book VIII.](sib10)
+[Next: Book VIII.](sib10.md)

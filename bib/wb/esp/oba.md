@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](amo)  [Next](jon) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](amo)  [Next](jon.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ por jugxi la monton de Esav. Kaj la regado apartenos al la Eternulo.
 
 ------------------------------------------------------------------------
 
-[Next: Jonah](jon)
+[Next: Jonah](jon.md)

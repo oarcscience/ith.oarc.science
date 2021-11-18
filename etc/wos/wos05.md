@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](wos04)  [Next](wos06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](wos04)  [Next](wos06.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ he entered, more or less, into the symbolical worship of all the gods.
 HARPOCRATES, a very ancient god of the Egyptians, was symbolized by the
 serpent. He is generally represented with his left hand on a staff,
 surmounted by a cornucopia: round the staff is twined a serpent <span
-id="fr_180"></span>[1](#fn_180). He is the god of silence; to denote
+id="fr_180"></span>[1](#fn_180.md). He is the god of silence; to denote
 which the forefinger of the right hand is on his mouth. He is supposed
 by some to be the same as HORUS.
 
@@ -40,7 +40,7 @@ mundane elements as proceeding from him. The serpent in a circle,
 passing diametrically and horizontally from circumference to
 circumference, was his hieroglyphical emblem. This became the ninth
 letter of the Egyptian alphabet, and was called *Thita* <span
-id="fr_181"></span>[2](#fn_181); from which the Greeks borrowed both the
+id="fr_181"></span>[2](#fn_181.md); from which the Greeks borrowed both the
 form and name of their *Theta*. The name of this letter was derived from
 that of its inventor THOTH, the reformer of the religion and manners of
 Egypt, and the supposed author
@@ -55,13 +55,13 @@ Egyptians (or rather that part of his colony which was settled in Egypt)
 a religion, which partaking of Zabaism and Ophiolatreia, had some
 mixture also of primeval truth. The divine Spirit he denominated CNEPH,
 and described him as "*the original, eternal Spirit, pervading all
-creation* <span id="fr_182"></span>[1](#fn_182)," whose symbol was a
+creation* <span id="fr_182"></span>[1](#fn_182.md)," whose symbol was a
 SERPENT.
 
 For his many services to the people, in teaching them letters,
 hieroglyphics, astronomy, and morals, TAAUTUS or THOTH was deified after
 death as "the god of health," or of "healing," and became the prototype
-of the god ÆSCULAPIUS <span id="fr_183"></span>[2](#fn_183). He was also
+of the god ÆSCULAPIUS <span id="fr_183"></span>[2](#fn_183.md). He was also
 identified with HERMES or MERCURY.
 
 As "the god of healing," THOTH was himself symbolized by the serpent,
@@ -71,18 +71,18 @@ divinity. The seventh letter of the
 <span id="page_122">p. 122</span>
 
 \[paragraph continues\] Egyptian alphabet, called *zeuta*, or "life,"
-was sacred to him <span id="fr_184"></span>[1](#fn_184), and expressed
+was sacred to him <span id="fr_184"></span>[1](#fn_184.md), and expressed
 by *a serpent standing upon his tail*. Hence the name and the form of
 the corresponding letter in the Grecian alphabet, Ζ ζ.
 
 THOTH, as the god of healing, is represented leaning upon a knotted
 stick, which is enfolded by a serpent: and a female deity, corresponding
 with the Grecian goddess Hygeia, is encircled by a serpent who drinks
-out of a chalice in her hand <span id="fr_185"></span>[2](#fn_185).
+out of a chalice in her hand <span id="fr_185"></span>[2](#fn_185.md).
 
 The serpent was also symbolical of Isis, and formed a conspicuous
 feature in her mysteries. The Isiac table <span
-id="fr_186"></span>[3](#fn_186), which describes these mysteries, is
+id="fr_186"></span>[3](#fn_186.md), which describes these mysteries, is
 charged with serpents in every part, as emblems of the goddess.
 
 The species of serpent peculiarly dedicated to Isis was the *asp*. This
@@ -95,8 +95,8 @@ priests. The tiara of the kings of Egypt was ornamented with the figures
 of the same reptile. "When the Egyptians wished to represent Isis as an
 angry avenger of crimes, they placed an *asp* on her head, which was
 designated by the peculiar name of *Thermuthis*, *i.e.* *deadly* <span
-id="fr_187"></span>[1](#fn_187)." We learn also from Ælian <span
-id="fr_188"></span>[2](#fn_188): "The asp, to which the Egyptians gave
+id="fr_187"></span>[1](#fn_187.md)." We learn also from Ælian <span
+id="fr_188"></span>[2](#fn_188.md): "The asp, to which the Egyptians gave
 the name of Thermuthis, they say is sacred, and worship it there; and
 they crown the images of Isis with it, as with a royal diadem." There is
 a fragment in the Elgin collection of marbles in the British Museum,
@@ -116,7 +116,7 @@ imprecates that goddess in the following words:--
 Per tua sistra precor, per Anubidis ora verendi,  
    (Sic tua sacra pies semper Osiris amet,  
 PIGRAQUE LABATUR CIRCA DONARIA SERPENS <span
-id="fr_189"></span>[1](#fn_189)--)
+id="fr_189"></span>[1](#fn_189)--.md)
 
 From which we may infer that LIVING ASPS were kept in the temples of
 Isis, and employed, perhaps, to *glide about the offerings*, to sanctify
@@ -168,7 +168,7 @@ It is a singular coincidence that the creature by whom came DEATH into
 the world should be consecrated by the earliest heathen idolaters to the
 receptacles of the *dead*. It is remarkable also, that SERAPIS was
 supposed by the Egyptians "*to have dominion over evil dæmons* <span
-id="fr_190"></span>[1](#fn_190)," or in other words, was the same as
+id="fr_190"></span>[1](#fn_190.md)," or in other words, was the same as
 PLUTO or SATAN.
 
 As an emblem of *dedication* to the service or honour of THE DEITY, the
@@ -176,15 +176,15 @@ serpent was sculptured with a GLOBE and WINGS on the porticoes of most
 of the Egyptian temples, and on the summits of some of the obelisks. The
 temples of LUXORE, ESNAY, KOMOMBU, DENDARA, and APOLLINOPOLIS, are
 surmounted by this favourite symbol of consecration <span
-id="fr_191"></span>[2](#fn_191); and it appears on the top of each
+id="fr_191"></span>[2](#fn_191.md); and it appears on the top of each
 compartment of the Pamphylian
 
 <span id="page_127">p. 127</span>
 
-obelisk <span id="fr_192"></span>[1](#fn_192). Two serpents, *without
+obelisk <span id="fr_192"></span>[1](#fn_192.md). Two serpents, *without
 the wings and globe*, are sculptured on each of the capitals of the
 pillars in the temple of GAVA, as delineated by Pococke <span
-id="fr_193"></span>[2](#fn_193). On the Pamphylian obelisk the
+id="fr_193"></span>[2](#fn_193.md). On the Pamphylian obelisk the
 hieroglyphic serpent appears in all his forms, with and without the
 globe or wings, *fifty-two times*; and is seen also on others.
 
@@ -193,22 +193,22 @@ Egyptians, appears in the *variations* under which he is found on
 monumental remains. The reason of these has been assigned by authors who
 have undertaken to investigate the nature and object of Egyptian
 hieroglyphics. The serpent was deemed symbolical of the *divine wisdom*,
-*power*, and *creative energy* <span id="fr_194"></span>[3](#fn_194); of
+*power*, and *creative energy* <span id="fr_194"></span>[3](#fn_194.md); of
 *immortality* and *regeneration*, from the shedding of his skin; and of
 *eternity*, when represented in the act of biting his own tail. Besides
 these various symbolizations, we are informed that the Egyptians
 represented the world by a circle, intersected by two diameters
-perpendicular to each other <span id="fr_195"></span>[4](#fn_195). These
+perpendicular to each other <span id="fr_195"></span>[4](#fn_195.md). These
 diameters were *serpents*, as we may
 
 <span id="page_128">p. 128</span>
 
-gather from Eusebius <span id="fr_196"></span>[1](#fn_196), who tells us
+gather from Eusebius <span id="fr_196"></span>[1](#fn_196.md), who tells us
 that "the world was described by a circle and "*a serpent passing
 diametrically horizontally through it*." The circle represented the
 terrestrial globe, and the intersecting serpents the solstitial colures.
 This emblem was more common than that mentioned by Eusebius <span
-id="fr_197"></span>[2](#fn_197). Jablonski seems to think that the
+id="fr_197"></span>[2](#fn_197.md). Jablonski seems to think that the
 *circumference only* was a serpent, and the diameters right lines; but
 the passage above referred to in Eusebius corrects him.
 
@@ -262,7 +262,7 @@ FEET, sometimes found in temples. They were offered up in the same
 manner as the church of Rome consecrates waxen images of hands and feet,
 &c. commemorative of preservations--a custom derived, doubtless, from
 Pagans, as are most of the religious ceremonies of the Romish church.
-These VOTIVE HANDS <span id="fr_198"></span>[1](#fn_198) or FEET are
+These VOTIVE HANDS <span id="fr_198"></span>[1](#fn_198.md) or FEET are
 charged with figures of *serpents*, emblematic of recovered health.
 
 The *basilisk* or royal serpent, so called as being the most venomous of
@@ -271,16 +271,16 @@ the species, and, as
 <span id="page_131">p. 131</span>
 
 it were, *a king of snakes*, was named OB or OUB <span
-id="fr_199"></span>[1](#fn_199). This, as we observed before, was the
+id="fr_199"></span>[1](#fn_199.md). This, as we observed before, was the
 name of the oracular god of Canaan, identical with the Python of Delphi.
 The Egyptians represented this serpent upon their coins, darting rays
 from his head, as if adorned with a crown. Round the coin was inscribed
 "AGATHODÆMON." The Roman Emperor Nero, in the madness of his vanity,
 caused several such coins to be struck with the inscription, "THE NEW
-AGATHODÆMON"--meaning himself <span id="fr_200"></span>[2](#fn_200).
+AGATHODÆMON"--meaning himself <span id="fr_200"></span>[2](#fn_200.md).
 There was a similar medal struck by the Egyptian gnostics, on which the
 word "CNUPHIS" was stamped. By this the idolatrous heretics intended to
-signify JESUS CHRIST <span id="fr_201"></span>[3](#fn_201).
+signify JESUS CHRIST <span id="fr_201"></span>[3](#fn_201.md).
 
 The Egyptian gnostics of the school of Basilides were much addicted to
 magic; and among their amulets had certain gems called *Abraxas*. This
@@ -300,7 +300,7 @@ was commonly engraved upon them. The inscriptions frequently alluded to
 the Jewish or Christian religions in the words "*Iao Sabaoth*,"
 "*Adonai*," &c. which formed them. A serpent biting his own tail, to
 represent eternity, was often seen on those gems <span
-id="fr_202"></span>[1](#fn_202).
+id="fr_202"></span>[1](#fn_202.md).
 
 These Abraxas, in which Egyptian idolatry and Christian revelation were
 so inextricably interwoven, are existing proofs of the prevalence of
@@ -308,16 +308,16 @@ ophiolatreia in the first ages of the church.
 
 The Egyptians held basilisks in such veneration, that they made images
 of them in gold, and consecrated and placed them in the temples of their
-gods <span id="fr_203"></span>[2](#fn_203). Bryant thinks that they were
+gods <span id="fr_203"></span>[2](#fn_203.md). Bryant thinks that they were
 the same as the Thermuthis, or deadly
 
 <span id="page_133">p. 133</span>
 
 asp. These creatures the Egyptian priests are said to have preserved by
 digging holes for them in the corners of their temples <span
-id="fr_204"></span>[1](#fn_204); and it was a part of their superstition
+id="fr_204"></span>[1](#fn_204.md); and it was a part of their superstition
 to believe that whoever was accidentally bitten by them was divinely
-favoured <span id="fr_205"></span>[1](#fn_204).
+favoured <span id="fr_205"></span>[1](#fn_204.md).
 
 The serpent is sometimes found sculptured, and attached to the breasts
 of mummies; but whether with a view to talismanic security, or as
@@ -333,8 +333,8 @@ the golden trinket *in the fashion of a serpent* misleads
 
 <span id="page_134">p. 134</span>
 
-the women <span id="fr_206"></span>[1](#fn_205)." The children also wore
-chaplets of the same kind <span id="fr_207"></span>[2](#fn_206).
+the women <span id="fr_206"></span>[1](#fn_205.md)." The children also wore
+chaplets of the same kind <span id="fr_207"></span>[2](#fn_206.md).
 
 Between Egypt and Greece there was always a great intercourse; and many
 of the customs, and most of the mythology of the latter, were derived
@@ -347,17 +347,17 @@ will not venture to decide.
 in the celebrated CADUCEUS, which was usually, though not exclusively,
 attributed to Hermes or Mercury. It did not *exclusively* belong to that
 god, for we may find it in the hand of Cybele, "the Syrian goddess," the
-mother of the gods <span id="fr_208"></span>[3](#fn_207). Cybele is the
+mother of the gods <span id="fr_208"></span>[3](#fn_207.md). Cybele is the
 same as OPS, in whose history the serpent makes a prominent feature. We
 find it again,
 
 <span id="page_135">p. 135</span>
 
-held by Minerva <span id="fr_209"></span>[1](#fn_208); and again, by the
-Egyptian Anubis <span id="fr_210"></span>[2](#fn_209). It is seen in the
+held by Minerva <span id="fr_209"></span>[1](#fn_208.md); and again, by the
+Egyptian Anubis <span id="fr_210"></span>[2](#fn_209.md). It is seen in the
 hands of Hercules Ogmius, the god of the Celts; and of the personified
 constellation Virgo, who is said by Lucian <span
-id="fr_211"></span>[3](#fn_210) to have had her symbol in the Pythian
+id="fr_211"></span>[3](#fn_210.md) to have had her symbol in the Pythian
 priestess; from which we may infer that the Caduceus was a sacred badge
 at Delphi.
 
@@ -380,11 +380,11 @@ memorial of the fascination of the paradisiacal serpent. The fascination
 of the serpent's eye was universally believed by the ancients, insomuch
 that "a serpent's eye" became a proverb among the Greeks and Romans to
 denote peculiar acuteness and intentness of mind <span
-id="fr_212"></span>[1](#fn_211).
+id="fr_212"></span>[1](#fn_211.md).
 
 The origin of the Caduceus has been elaborately developed by the learned
 Kircher, in his dissertation on the Pamphylian obelisk <span
-id="fr_213"></span>[2](#fn_212). From him we learn that the Caduceus was
+id="fr_213"></span>[2](#fn_212.md). From him we learn that the Caduceus was
 originally expressed by the simple figure of a cross, by which its
 inventor, Thoth, is said to have symbolized *the four elements*
 proceeding from a common centre. This symbol, after undergoing some
@@ -424,7 +424,7 @@ honours; and THOTH, being the great prophet and reformer of the
 \[paragraph continues\] Egyptian religion, to *him* they gave the post
 of honour *next to the sun*. Hence the planet which revolves *nearest to
 the sun* was called Hermes, or Mercury, and regarded as the celestial
-mansion of the deified Thoth <span id="fr_214"></span>[1](#fn_213).
+mansion of the deified Thoth <span id="fr_214"></span>[1](#fn_213.md).
 
 Thoth first taught the Egyptians to symbolize divinity by serpents;
 hence the two chief objects of Egyptian idolatry, the SUN and the MOON,
@@ -458,7 +458,7 @@ became more frequent, sometimes amounting to three or four; and gave
 rise to the fable of Jupiter and Rhea, to which the supposed conjugal
 union of the sun and moon (represented by these serpents) gave some
 colour. Sometimes the point of intersection was a *knot*, which was
-called "the knot of Hercules <span id="fr_215"></span>[1](#fn_214)."
+called "the knot of Hercules <span id="fr_215"></span>[1](#fn_214.md)."
 
 But notwithstanding all these variations, the original idea was never
 lost. The symbol was
@@ -487,7 +487,7 @@ shrines of their deities. On the Egyptian obelisks the Taautic
 <span id="page_141">p. 141</span>
 
 emblem was of common occurrence, and has been found on monuments among
-the ruins of Axum in Abyssinia <span id="fr_216"></span>[1](#fn_215). It
+the ruins of Axum in Abyssinia <span id="fr_216"></span>[1](#fn_215.md). It
 is the same figure which has been called "the Key of the Nile."
 
 Much curious learning has been employed upon the origin of this
@@ -534,7 +534,7 @@ upon the foreheads of the servants of God, in that saying of our
 
 \[paragraph continues\] Lord, "If any man will come after me, let him
 *take up his* CROSS and follow me <span
-id="fr_217"></span>[1](#fn_216)".
+id="fr_217"></span>[1](#fn_216.md)".
 
 I grant that this might have been figuratively spoken, in reference to
 the *perils* which the disciple would undergo: but does it mean nothing
@@ -562,14 +562,14 @@ CHRIST, will inherit eternal glory.
 St. Paul also alludes to the same acknowledged sign of consecration to
 the Deity, when he says, "Henceforth let no man trouble me; *for I bear
 in my body* THE MARKS of the LORD JESUS <span
-id="fr_218"></span>[1](#fn_217)."
+id="fr_218"></span>[1](#fn_217.md)."
 
 It is the custom of the Brahmins, to this day, to set a *mark* on the
 foreheads of the votaries of Veshnu and Seeva; and the Oriental
 Christians were accustomed to mark CRUCIFIXES on their arms and other
 parts of the body. The phylacteries of the Hebrews are also well known.
 The Mahometans, again, write the word "ALLAH" (God) upon their
-persons <span id="fr_219"></span>[2](#fn_218). All of which customs may
+persons <span id="fr_219"></span>[2](#fn_218.md). All of which customs may
 be traced to one common origin, which I conceive to be of the most
 remote antiquity. The first mention of a MARK is of that set upon CAIN;
 and though this may at first sight appear to militate against the
@@ -581,13 +581,13 @@ confirms
 it. Whatever might have been the nature of the mark set upon Cain, one
 thing is clear--*that it denoted the bearer of it to be placed under the
 immediate protection of God, so that no one should dare to slay
-him* <span id="fr_220"></span>[1](#fn_219).
+him* <span id="fr_220"></span>[1](#fn_219.md).
 
 Very pertinent to our question is the remark, that when the Greeks
 intimated the condemnation of a criminal to death, they marked his name
 in the judicial tablet, with the letter Θ; and on the contrary, when
 they wished to express his *acquittal*, with a Τ <span
-id="fr_221"></span>[2](#fn_220). The former is said to have been the
+id="fr_221"></span>[2](#fn_220.md). The former is said to have been the
 initial letter of Θάνατος--*death*: but of the latter we have received
 no satisfactory explanation from the ancients. It is probably derived
 from the original symbol of dedication to the Deity, which we have been
@@ -607,7 +607,7 @@ the Greeks derived the notion of marking the names of acquitted persons
 with a Τ, without, however, knowing its real signification. The Θ, as a
 sign of condemnation, was plausibly explained as the initial letter of
 the word Θάνατος; and it is perhaps under this character that we find it
-impressed upon *tombs* <span id="fr_222"></span>[1](#fn_221). But it is
+impressed upon *tombs* <span id="fr_222"></span>[1](#fn_221.md). But it is
 a singular fact, and worthy of consideration, that this letter Θ was
 invented by, and named after, the same THOTH, who is said to have
 introduced the mystic Tau into the Egyptian alphabet; and as Θαῦμα
@@ -645,7 +645,7 @@ tail. The *hawk-headed serpent* was a favourite emblem of the DIVINE
 MIND, with the Egyptians, according to Sanchoniathon--"Their *most
 divine symbol* was a serpent having the face of a hawk. When he opens
 his eyes, the whole of first-born space is filled with light: when he
-shuts them, it is darkness <span id="fr_223"></span>[1](#fn_222)." This
+shuts them, it is darkness <span id="fr_223"></span>[1](#fn_222.md)." This
 hieroglyphic was a perfect symbol of the Supreme Being.
 
 In concluding this long and desultory article, we may remark, that all
@@ -688,7 +688,7 @@ supplicating votary. Juvenal refers to it in his sixth Satire, v. 537.
 \[paragraph continues\] Perhaps this was the same as the hawk-headed
 basilisk whose eyes were mechanically contrived to open or shut,
 according as the offering presented by the suppliant was received or
-rejected <span id="fr_224"></span>[1](#fn_223). This contrivance was
+rejected <span id="fr_224"></span>[1](#fn_223.md). This contrivance was
 intended, probably, as a type of what was supposed to pass in the
 regions of "first-born space," upon the opening or closing of the eyes
 of the god CNEPH. Under the symbol of a hawk-headed serpent, this god
@@ -714,7 +714,7 @@ venerate as gods. Among these, the chief were serpents:--
 deceived, *they worshipped serpents devoid of reason*, and wild beasts:
 thou didst send a multitude of unreasonable beasts upon them for
 vengeance, that they might know, that wherewithal a man sinneth, by the
-same also shall he be punished <span id="fr_225"></span>[1](#fn_224)."
+same also shall he be punished <span id="fr_225"></span>[1](#fn_224.md)."
 
 Our elegant and learned etymologist, Bryant,
 
@@ -768,7 +768,7 @@ man as I am
 *divineth by divination?*" The expression is נַחֵשׁ יְנַחֵשׁ which the
 Septuagint rendered *literally* οἰωνισμῷ οἰωνεῖται. Now נַחֵשׁ and
 οἰωνὸς are the peculiar words *by which the serpent used in divination
-was designated* <span id="fr_226"></span>[1](#fn_225).
+was designated* <span id="fr_226"></span>[1](#fn_225.md).
 
 I hesitated to deliver this conjecture respecting the cup of Joseph in
 the former edition of this treatise; but the opinion of Mr. Faber kindly
@@ -783,11 +783,11 @@ Ophiolatreia was carried to a great length. We are informed, by
 Herodotus, that "At Thebes there are two serpents, by no means injurious
 to men; small in size, having two horns springing up from the top of the
 head. They bury these when dead in the temple of Jupiter: for they say
-that they are sacred to that God <span id="fr_227"></span>[2](#fn_226)."
+that they are sacred to that God <span id="fr_227"></span>[2](#fn_226.md)."
 
 <span id="page_154">p. 154</span>
 
-\[paragraph continues\] Ælian <span id="fr_228"></span>[1](#fn_227) also
+\[paragraph continues\] Ælian <span id="fr_228"></span>[1](#fn_227.md) also
 tells us, that in the time of Ptolemy Euergetes, a very large serpent
 was kept in the temple of Æsculapius at Alexandria. He also mentions
 another place in which a live serpent of great magnitude was kept and
@@ -803,7 +803,7 @@ ascended the table to his feast, the priest came in, throwing open the
 door with great violence: upon which the serpent departed in great
 indignation. But the priest was shortly after seized with a mental
 malady, and having confessed his crime, became dumb, and wasted away,
-until he died <span id="fr_229"></span>[2](#fn_228).
+until he died <span id="fr_229"></span>[2](#fn_228.md).
 
 Among the prefectures of Egypt, we find one
 
@@ -813,7 +813,7 @@ called ONUPHIS, from the city which was the capital of it: upon which
 Kircher has the following remark: "In the Coptic language this city was
 called PIHOF or NOUPHION, which signifies *a serpent*. I think this is
 the same city as the NOPH of the Hebrews, by which name MEMPHIS was also
-called. This [prefecture](errata.htm#0) is called ONUPHIS, *because here
+called. This [prefecture](errata.htm#0.md) is called ONUPHIS, *because here
 they worshipped the asp*; as Pausanias, when speaking of the worship of
 animals in Bœotia, says, "*As in the city of Onuphis, in Egypt, they
 worship the asp*."
@@ -854,7 +854,7 @@ idolatry than the cunning of their priests. Plutarch has recorded an
 anecdote which confirms the truth of this remark. I once saw in Egypt
 two men quarrelling, each of whom, upon the approach of a snake, called
 him his AGATHODÆMON, and *requested him to embrace his cause* <span
-id="fr_230"></span>[1](#fn_229)."
+id="fr_230"></span>[1](#fn_229.md)."
 
 <span id="page_157">p. 157</span>
 
@@ -909,7 +909,7 @@ was surprised to hear a grave and sensible Christian say that he always
 cured any distempers, but that worse followed. And some Christians
 really believe that he *works miracles*, and say it is *the devil
 mentioned in Tobit*, whom the angel Gabriel drove into the utmost parts
-of Egypt," &c <span id="fr_231"></span>[1](#fn_230).
+of Egypt," &c <span id="fr_231"></span>[1](#fn_230.md).
 
 Bishop Pococke thinks (and justly) that the above superstition is a
 remnant of the ancient Ophiolatreia. The annual visit of the women is
@@ -924,17 +924,17 @@ of Africa became devoted to the same idolatry.
 
 II\. ETHIOPIA.--The superstition of the serpent travelled into Ethiopia,
 a country whose very name according to Bryant <span
-id="fr_232"></span>[1](#fn_231), denotes "the land of the solar-serpent
+id="fr_232"></span>[1](#fn_231.md), denotes "the land of the solar-serpent
 worship." Be this as it may, the chronicles of Abyssinia and the local
 traditions of that country, abundantly establish the Ophiolatreia of the
 Ethiopians. The first king of Ethiopia is said to have been a
-*serpent* <span id="fr_233"></span>[2](#fn_232); he conquered the
+*serpent* <span id="fr_233"></span>[2](#fn_232.md); he conquered the
 province of Tigre, and reigned over it. He was called *Arwè*, which in
 the Abyssinian language meant "a serpent." It is remarkable that the
 word *Nagash* (which is evidently the same as the *Naig* of Hindustan,
 and derived from the Hebrew *Nachash*, a snake) was a title of the
 ancient Abyssinian kings. The Arabs called them *Nagashi* <span
-id="fr_234"></span>[3](#fn_233), in the same manner as the kings of
+id="fr_234"></span>[3](#fn_233.md), in the same manner as the kings of
 Egypt were called Pharaoh: and in the writings of our early voyagers, we
 frequently meet with "the *Negus*" of Abyssinia, a title which sounded
 strange, and somewhat ludicrous, in English ears.
@@ -950,12 +950,12 @@ ancient tradition among his countrymen, that the very early Ethiopians
 *worshipped a great serpent as a god*; and hence the name of the king
 *Arwè*, 'a snake.' That this serpent was slain by Angabus, who for this
 bold deed was elected king, and handed down the throne to his
-posterity <span id="fr_235"></span>[1](#fn_234)."
+posterity <span id="fr_235"></span>[1](#fn_234.md)."
 
 The worship of the serpent prevailed at Axum until the Abyssinians were
 converted to Christianity. The glory of this conversion is ascribed to
 nine saints, who are reported to have succeeded by the instrumentality
-of miracles. Ludolf <span id="fr_236"></span>[2](#fn_235) citing father
+of miracles. Ludolf <span id="fr_236"></span>[2](#fn_235.md) citing father
 Mendez, thus enumerates their triumphs. "These did great miracles when
 they converted a great part of Ethiopia; and among others, it is
 reported that 'a great dragon who lived near Axum, and devoured many men
@@ -972,13 +972,13 @@ For we find the word *Tot*, still curiously employed in Abyssinia to
 denote an *idol*, and what is remarkable, "A naked figure of a man is
 not a *Tot*; but if he have the head of a *dog* or a *serpent*, instead
 of a human head, he becomes a *Tot* <span
-id="fr_237"></span>[1](#fn_236)."
+id="fr_237"></span>[1](#fn_236.md)."
 
 Although the seven Christian saints overcame the Dragon of Axum, they
 did not succeed in destroying his whole family. The *Shangalla*, a race
 of Negroes on the northern frontier of Abyssinia, *retain to this day*
 their primitive superstitions; they worship *serpents*, *trees*, and the
-heavenly host <span id="fr_238"></span>[2](#fn_237). And the *Agaazi*, a
+heavenly host <span id="fr_238"></span>[2](#fn_237.md). And the *Agaazi*, a
 tribe of Ethiopian shepherds, still dwell in the mountains, called
 (probably in reference to the Ophite superstitions there practised in
 former times) *Habab*: which means "*a serpent*." This word looks very
@@ -1047,7 +1047,7 @@ great offerings and entertainments at the serpent's shrine. The most
 celebrated temple in the kingdom they call "THE SERPENT'S HOUSE;" to
 which processions and pilgrimages are often made, and victims daily
 brought, and at which oracles are inquired <span
-id="fr_239"></span>[1](#fn_238). Here there is a vast establishment of
+id="fr_239"></span>[1](#fn_238.md). Here there is a vast establishment of
 priests and priestesses, with a pontiff at their head. The priestesses
 call themselves "*the children of* God," and have their bodies *marked
 with the figure of the serpent*. The kings of Whidah used formerly to
@@ -1140,7 +1140,7 @@ destroyed. The Dahomeys having seized every reptile of this species
 which they could find, "held them up by the middle, and said to them,
 '*If you are gods, speak and save yourselves*;'--which the poor snakes
 not being able to do, the Dahomeys cut their heads off, ripped them
-open, broiled them, and eat them <span id="fr_240"></span>[1](#fn_239)."
+open, broiled them, and eat them <span id="fr_240"></span>[1](#fn_239.md)."
 
 Such is the account of Captain Snellgrave,
 
@@ -1172,7 +1172,7 @@ superstitions,
 <span id="page_171">p. 171</span>
 
 we shall probably meet with many more votaries of the sacred serpent in
-that region of mystery <span id="fr_241"></span>[1](#fn_240).
+that region of mystery <span id="fr_241"></span>[1](#fn_240.md).
 
 But from this prospect, perhaps visionary, of future discoveries, let us
 turn to the knowledge which we already possess of the superstitions of
@@ -1192,7 +1192,7 @@ species of lizard.
 A neighbouring tribe, the KOROMANTYNES, are said to adore a spiritual
 deity, called OBONI, who is a malicious spirit, pervades heaven, and
 earth, and sea, and is THE AUTHOR OF ALL EVIL <span
-id="fr_243"></span>[1](#fn_242).
+id="fr_243"></span>[1](#fn_242.md).
 
 From these two tribes chiefly were the negroes of Jamaica and the West
 Indian islands formerly taken; and the addiction of these people to the
@@ -1205,7 +1205,7 @@ Africa*, held their unhappy votaries in such awe, that against
 whomsoever the charm was laid, or as they termed it, "*obi was set*,"
 that person invariably became the victim of his own horror, and died a
 miserable death. The usual practice was to set this charm (which
-consisted of several ingredients <span id="fr_244"></span>[2](#fn_243)
+consisted of several ingredients <span id="fr_244"></span>[2](#fn_243.md)
 mixed
 
 <span id="page_173">p. 173</span>
@@ -1219,7 +1219,7 @@ From these premises we may conjecture what relation the Obeah-worship
 bears to the Ophiolatreia of the ancients. The origin of the terms OBEAH
 and OBI may be traced to the Cauaanitish superstition of the OB or OUB,
 which Bryant has so ingeniously detected in his remarks upon the witch
-of Endor <span id="fr_246"></span>[1](#fn_245).
+of Endor <span id="fr_246"></span>[1](#fn_245.md).
 
 "The woman at Endor," observes Bryant, "who had a familiar spirit, is
 called אוב, *Oub*,
@@ -1235,7 +1235,7 @@ Greek termination--a practice universally adopted by Grecian writers,
 when speaking of foreign appellatives. Besides, Kircher remarks, that
 *Obion* is still, among the people of Egypt, the name of a serpent. "The
 same occurs in the Coptic Lexicon <span
-id="fr_247"></span>[1](#fn_246)." OBION, in its original signification,
+id="fr_247"></span>[1](#fn_246.md)." OBION, in its original signification,
 was a sacred title, applied to the solar god, who was symbolized by the
 serpent OB. It is compounded of OB and ON. ON is a title of the
 SUN--thus the city of ON, in Egypt, was called by the Greeks
@@ -1276,7 +1276,7 @@ called
 <span id="page_176">p. 176</span>
 
 \[paragraph continues\] *Oboes* <span
-id="fr_248"></span>[1](#fn_247);--that the word *oboes* implies
+id="fr_248"></span>[1](#fn_247.md);--that the word *oboes* implies
 worshippers of OB;--and lastly, that OBONI is no other than the OPHION
 of Phœnicia, and the OBION of Egypt; each of which was a title of the
 same solar god, who was symbolized by the serpent OB. Hence there is
@@ -1294,7 +1294,7 @@ neither mythology nor
 
 <span id="page_177">p. 177</span>
 
-image-worship <span id="fr_249"></span>[1](#fn_248); but preserved the
+image-worship <span id="fr_249"></span>[1](#fn_248.md); but preserved the
 simple, original veneration of the serpent in his *living form*. The
 name of the evil deity, OBONI, it is true, indicates a relation to the
 solar worship; but as they had neither obelisks nor pyramids, nor any of
@@ -1309,7 +1309,7 @@ degraded mental into sensual worship, is by no means surprising. For
 while history represents the Koromantynes as a peculiarly quick and
 noble-minded race, it describes the Eboes as the most degraded among the
 Negro tribes, apparently susceptible of no generous feeling <span
-id="fr_250"></span>[2](#fn_249). It was therefore to be expected that
+id="fr_250"></span>[2](#fn_249.md). It was therefore to be expected that
 the Koromantynes would first emancipate themselves from the superstition
 of their common ancestors. Hence,
 
@@ -1330,7 +1330,7 @@ cannot but remind us of the great and eternal truth, that victory over
 the *serpent* could only be obtained by the "WOMAN'S SEED:" and it is
 another link in the chain of the universal faith, that before mankind
 could be reconciled to GOD--"IT WAS EXPEDIENT THAT ONE MAN SHOULD DIE
-FOR THE PEOPLE <span id="fr_251"></span>[1](#fn_250)."
+FOR THE PEOPLE <span id="fr_251"></span>[1](#fn_250.md)."
 
  
 
@@ -1351,200 +1351,200 @@ and expects the promises of GOD.
 
 ### Footnotes
 
-<span id="fn_180"></span>[120:1](wos05.htm#fr_180) Montfaucon, ii. 191.
+<span id="fn_180"></span>[120:1](wos05.htm#fr_180.md) Montfaucon, ii. 191.
 
-<span id="fn_181"></span>[120:2](wos05.htm#fr_181) Kircher Œdip. "Egypt.
+<span id="fn_181"></span>[120:2](wos05.htm#fr_181.md) Kircher Œdip. "Egypt.
 vol. iii. p, 46, who calls it the thirteenth letter.
 
-<span id="fn_182"></span>[121:1](wos05.htm#fr_182) Jablonski Panth.
+<span id="fn_182"></span>[121:1](wos05.htm#fr_182.md) Jablonski Panth.
 Ægypt. c. iv. p. 81.
 
-<span id="fn_183"></span>[121:2](wos05.htm#fr_183) Ibid. lib. v. c. 6.
+<span id="fn_183"></span>[121:2](wos05.htm#fr_183.md) Ibid. lib. v. c. 6.
 
-<span id="fn_184"></span>[122:1](wos05.htm#fr_184) Kircher. Œdip. Æg.
+<span id="fn_184"></span>[122:1](wos05.htm#fr_184.md) Kircher. Œdip. Æg.
 iii. 36; who calls it the 12th letter.
 
-<span id="fn_185"></span>[122:2](wos05.htm#fr_185) Montfaucon, vol. 5.
+<span id="fn_185"></span>[122:2](wos05.htm#fr_185.md) Montfaucon, vol. 5.
 
-<span id="fn_186"></span>[122:3](wos05.htm#fr_186) This was a celebrated
+<span id="fn_186"></span>[122:3](wos05.htm#fr_186.md) This was a celebrated
 plate of brass overlaid with black enamel, intermixed with plates of
 silver. It was destroyed at the taking of Mantua, 1630. See
 *Montfaucon*, who has engraved it, vol. 2.
 
-<span id="fn_187"></span>[123:1](wos05.htm#fr_187) Jablonski, P. Æg.
+<span id="fn_187"></span>[123:1](wos05.htm#fr_187.md) Jablonski, P. Æg.
 119. See also Bryant ii. 200.
 
-<span id="fn_188"></span>[123:2](wos05.htm#fr_188) De Anim. x. 31.
+<span id="fn_188"></span>[123:2](wos05.htm#fr_188.md) De Anim. x. 31.
 
-<span id="fn_189"></span>[124:1](wos05.htm#fr_189) Lib. 2. Amor. Eleg.
+<span id="fn_189"></span>[124:1](wos05.htm#fr_189.md) Lib. 2. Amor. Eleg.
 13.
 
-<span id="fn_190"></span>[126:1](wos05.htm#fr_190) Porphyry in Euseb.
+<span id="fn_190"></span>[126:1](wos05.htm#fr_190.md) Porphyry in Euseb.
 cited by Montfaucon, *supplement*, ii. 214.
 
-<span id="fn_191"></span>[126:2](wos05.htm#fr_191) See plates in Maurice
+<span id="fn_191"></span>[126:2](wos05.htm#fr_191.md) See plates in Maurice
 Ind. Antiq. Vols. II. III. IV.
 
-<span id="fn_192"></span>[127:1](wos05.htm#fr_192) See plate in Kircher.
+<span id="fn_192"></span>[127:1](wos05.htm#fr_192.md) See plate in Kircher.
 
-<span id="fn_193"></span>[127:2](wos05.htm#fr_193) Desc. of East. i. 70.
+<span id="fn_193"></span>[127:2](wos05.htm#fr_193.md) Desc. of East. i. 70.
 
-<span id="fn_194"></span>[127:3](wos05.htm#fr_194) Bryant, Plagues of
+<span id="fn_194"></span>[127:3](wos05.htm#fr_194.md) Bryant, Plagues of
 Egypt, 209.
 
-<span id="fn_195"></span>[127:4](wos05.htm#fr_195) Jablonski, P. Æg.
+<span id="fn_195"></span>[127:4](wos05.htm#fr_195.md) Jablonski, P. Æg.
 lib. i. p. 86.
 
-<span id="fn_196"></span>[128:1](wos05.htm#fr_196) Præp. Ev. lib. i. p.
+<span id="fn_196"></span>[128:1](wos05.htm#fr_196.md) Præp. Ev. lib. i. p.
 42.
 
-<span id="fn_197"></span>[128:2](wos05.htm#fr_197) Jablonski ut supra.
+<span id="fn_197"></span>[128:2](wos05.htm#fr_197.md) Jablonski ut supra.
 
-<span id="fn_198"></span>[130:1](wos05.htm#fr_198) In the British
+<span id="fn_198"></span>[130:1](wos05.htm#fr_198.md) In the British
 Museum, among the Grecian Antiquities, are two *votive feet*, encircled
 by *serpents*.
 
-<span id="fn_199"></span>[131:1](wos05.htm#fr_199) Horus Apollo, c. i.
+<span id="fn_199"></span>[131:1](wos05.htm#fr_199.md) Horus Apollo, c. i.
 p. 2.
 
-<span id="fn_200"></span>[131:2](wos05.htm#fr_200) Spanheim De Usu Num.
+<span id="fn_200"></span>[131:2](wos05.htm#fr_200.md) Spanheim De Usu Num.
 188.
 
-<span id="fn_201"></span>[131:3](wos05.htm#fr_201) Jablonski, P. Æ. 89.
+<span id="fn_201"></span>[131:3](wos05.htm#fr_201.md) Jablonski, P. Æ. 89.
 
-<span id="fn_202"></span>[132:1](wos05.htm#fr_202) See Plates, &c. in
+<span id="fn_202"></span>[132:1](wos05.htm#fr_202.md) See Plates, &c. in
 Montfaucon.
 
-<span id="fn_203"></span>[132:2](wos05.htm#fr_203) Horus Apollo, c. i.
+<span id="fn_203"></span>[132:2](wos05.htm#fr_203.md) Horus Apollo, c. i.
 p. 2.
 
-<span id="fn_204"></span>[133:1](wos05.htm#fr_205) Gesner, Hist. Anim.
+<span id="fn_204"></span>[133:1](wos05.htm#fr_205.md) Gesner, Hist. Anim.
 p. 54, citing Ælian. To some such notion may possibly be referred
 Cleopatra's choice of death. She destroyed herself by the venom of a
 viper.
 
-<span id="fn_205"></span>[134:1](wos05.htm#fr_206) Pæd. lib. ii. 245.
+<span id="fn_205"></span>[134:1](wos05.htm#fr_206.md) Pæd. lib. ii. 245.
 Edit. Potter.
 
-<span id="fn_206"></span>[134:2](wos05.htm#fr_207) Cœl. Rhodig. cited by
+<span id="fn_206"></span>[134:2](wos05.htm#fr_207.md) Cœl. Rhodig. cited by
 Gesner, Hist. Anim. 32. Dr. Clarke, Travels, vol. i. p. 72, describes a
 very beautiful bracelet of golden serpents which was found in a tumulus,
 near the Cimmerian Bosphorus.
 
-<span id="fn_207"></span>[134:3](wos05.htm#fr_208) Montfaucon, Vol. i.
+<span id="fn_207"></span>[134:3](wos05.htm#fr_208.md) Montfaucon, Vol. i.
 plate, p. 8.
 
-<span id="fn_208"></span>[135:1](wos05.htm#fr_209) Montfaucon, Vol. i.
+<span id="fn_208"></span>[135:1](wos05.htm#fr_209.md) Montfaucon, Vol. i.
 plate, p. 85.
 
-<span id="fn_209"></span>[135:2](wos05.htm#fr_210) Kircher, Pamp. Obel.
+<span id="fn_209"></span>[135:2](wos05.htm#fr_210.md) Kircher, Pamp. Obel.
 plate of Anubis.
 
-<span id="fn_210"></span>[135:3](wos05.htm#fr_211) De Astrolog. p. 544,
+<span id="fn_210"></span>[135:3](wos05.htm#fr_211.md) De Astrolog. p. 544,
 Edit. 1615, Paris.
 
-<span id="fn_211"></span>[136:1](wos05.htm#fr_212) Parkhurst, Lex. οφις.
+<span id="fn_211"></span>[136:1](wos05.htm#fr_212.md) Parkhurst, Lex. οφις.
 
-<span id="fn_212"></span>[136:2](wos05.htm#fr_213) Lib. iv. Hierogr. 20.
+<span id="fn_212"></span>[136:2](wos05.htm#fr_213.md) Lib. iv. Hierogr. 20.
 
-<span id="fn_213"></span>[138:1](wos05.htm#fr_214) For this conjecture I
+<span id="fn_213"></span>[138:1](wos05.htm#fr_214.md) For this conjecture I
 must crave indulgence; for though only a conjecture, unsupported by
 authority, I cannot but consider it as founded on probability. The
 reader will find, upon reference to Kircher, that I have taken other
 liberties with his argument besides this, which may stand or fall by its
 own merits.
 
-<span id="fn_214"></span>[139:1](wos05.htm#fr_215) Macrob. Saturnal.
+<span id="fn_214"></span>[139:1](wos05.htm#fr_215.md) Macrob. Saturnal.
 lib. i. c. 19.
 
-<span id="fn_215"></span>[141:1](wos05.htm#fr_216) See Bruce's
+<span id="fn_215"></span>[141:1](wos05.htm#fr_216.md) See Bruce's
 Travels--plate.
 
-<span id="fn_216"></span>[143:1](wos05.htm#fr_217) Matt. xvi. 24.
+<span id="fn_216"></span>[143:1](wos05.htm#fr_217.md) Matt. xvi. 24.
 
-<span id="fn_217"></span>[144:1](wos05.htm#fr_218) Gal. vi. 17. See also
+<span id="fn_217"></span>[144:1](wos05.htm#fr_218.md) Gal. vi. 17. See also
 Rev. xiii. 16. and xiv. 1.
 
-<span id="fn_218"></span>[144:2](wos05.htm#fr_219) Border's Oriental
+<span id="fn_218"></span>[144:2](wos05.htm#fr_219.md) Border's Oriental
 Customs on Ezek. ix. 4, and Gal. vi. 17.
 
-<span id="fn_219"></span>[145:1](wos05.htm#fr_220) Some learned men, as
+<span id="fn_219"></span>[145:1](wos05.htm#fr_220.md) Some learned men, as
 Mr. Faber, doubt the Rabbinical legend, and even whether there was any
 *mark* at all upon Cain. They translate the text, "And the Lord
 *appointed a sign* unto Cain, that no one finding him should kill him."
 
-<span id="fn_220"></span>[145:2](wos05.htm#fr_221) *Alexander ab Alex.*
+<span id="fn_220"></span>[145:2](wos05.htm#fr_221.md) *Alexander ab Alex.*
 lib. iii. c. 5, cum notis Tiraquelli. See also *Persius*, Sat. iv. 12.
 
-<span id="fn_221"></span>[146:1](wos05.htm#fr_222) Montf. Supplent. vol.
+<span id="fn_221"></span>[146:1](wos05.htm#fr_222.md) Montf. Supplent. vol.
 v. p. 42.
 
-<span id="fn_222"></span>[148:1](wos05.htm#fr_223) Euseb. Præp. Evang.
+<span id="fn_222"></span>[148:1](wos05.htm#fr_223.md) Euseb. Præp. Evang.
 i. 41.
 
-<span id="fn_223"></span>[149:1](wos05.htm#fr_224) Gesner. *Hist. Anim.*
+<span id="fn_223"></span>[149:1](wos05.htm#fr_224.md) Gesner. *Hist. Anim.*
 lib. v. p. 59.
 
-<span id="fn_224"></span>[150:1](wos05.htm#fr_225) Wisd. c. xi. v. 15.
+<span id="fn_224"></span>[150:1](wos05.htm#fr_225.md) Wisd. c. xi. v. 15.
 
-<span id="fn_225"></span>[153:1](wos05.htm#fr_226) Hesychius on οἰωνός.
+<span id="fn_225"></span>[153:1](wos05.htm#fr_226.md) Hesychius on οἰωνός.
 
-<span id="fn_226"></span>[153:2](wos05.htm#fr_227) Herod. ii. 74.
+<span id="fn_226"></span>[153:2](wos05.htm#fr_227.md) Herod. ii. 74.
 
-<span id="fn_227"></span>[154:1](wos05.htm#fr_228) De Animal. lib. xvi.
+<span id="fn_227"></span>[154:1](wos05.htm#fr_228.md) De Animal. lib. xvi.
 c. 39.
 
-<span id="fn_228"></span>[154:2](wos05.htm#fr_229) Ælian. Var. Hist.
+<span id="fn_228"></span>[154:2](wos05.htm#fr_229.md) Ælian. Var. Hist.
 lib. xi. c. 17.
 
-<span id="fn_229"></span>[156:1](wos05.htm#fr_230) Amator, p. 755.
+<span id="fn_229"></span>[156:1](wos05.htm#fr_230.md) Amator, p. 755.
 
-<span id="fn_230"></span>[159:1](wos05.htm#fr_231) Pococke, Desc. of
+<span id="fn_230"></span>[159:1](wos05.htm#fr_231.md) Pococke, Desc. of
 East, vol. i.
 
-<span id="fn_231"></span>[160:1](wos05.htm#fr_232) Anal. ii. 206.
+<span id="fn_231"></span>[160:1](wos05.htm#fr_232.md) Anal. ii. 206.
 
-<span id="fn_232"></span>[160:2](wos05.htm#fr_233) Ludolf. Ethiop. Hist.
+<span id="fn_232"></span>[160:2](wos05.htm#fr_233.md) Ludolf. Ethiop. Hist.
 
-<span id="fn_233"></span>[160:3](wos05.htm#fr_234) Ludolf. lib. ii. c.
+<span id="fn_233"></span>[160:3](wos05.htm#fr_234.md) Ludolf. lib. ii. c.
 i. p. 23. 32.
 
-<span id="fn_234"></span>[161:1](wos05.htm#fr_235) Ludolf. lib. ii. c.
+<span id="fn_234"></span>[161:1](wos05.htm#fr_235.md) Ludolf. lib. ii. c.
 3.
 
-<span id="fn_235"></span>[161:2](wos05.htm#fr_236) Ludolf. Comment. lib.
+<span id="fn_235"></span>[161:2](wos05.htm#fr_236.md) Ludolf. Comment. lib.
 iii. p. 284.
 
-<span id="fn_236"></span>[162:1](wos05.htm#fr_237) Bruce, vol. i. 411.
+<span id="fn_236"></span>[162:1](wos05.htm#fr_237.md) Bruce, vol. i. 411.
 
-<span id="fn_237"></span>[162:2](wos05.htm#fr_238) Bruce, vol. ii. 554.
+<span id="fn_237"></span>[162:2](wos05.htm#fr_238.md) Bruce, vol. ii. 554.
 
-<span id="fn_238"></span>[165:1](wos05.htm#fr_239) *Bosman on Guinea,
+<span id="fn_238"></span>[165:1](wos05.htm#fr_239.md) *Bosman on Guinea,
 Acta Erud. Lip*. 1705, p. 265.
 
-<span id="fn_239"></span>[169:1](wos05.htm#fr_240) Astley, vol. iii. p.
+<span id="fn_239"></span>[169:1](wos05.htm#fr_240.md) Astley, vol. iii. p.
 489.
 
-<span id="fn_240"></span>[171:1](wos05.htm#fr_241) The worship of the
+<span id="fn_240"></span>[171:1](wos05.htm#fr_241.md) The worship of the
 snake still prevails in CENTRAL AFRICA <span
-id="fr_242"></span>[2](#fn_241), although in danger of being shortly
+id="fr_242"></span>[2](#fn_241.md), although in danger of being shortly
 superseded by Islamism. Among the idols in a temple of the Yaribeans is
 one with the image of a snake upon his head; which reminds us of the
 Egyptian priest with the asp of Isis.
 
-<span id="fn_241"></span>[171:2](wos05.htm#fr_242) Lander's Records.
+<span id="fn_241"></span>[171:2](wos05.htm#fr_242.md) Lander's Records.
 Preface, and vol. ii. p. 198.
 
-<span id="fn_242"></span>[172:1](wos05.htm#fr_243) Bryan Edwards's Hist.
+<span id="fn_242"></span>[172:1](wos05.htm#fr_243.md) Bryan Edwards's Hist.
 of the West Indies, vol. ii. pp. 75 and 466.
 
-<span id="fn_243"></span>[172:2](wos05.htm#fr_244) One of these was
+<span id="fn_243"></span>[172:2](wos05.htm#fr_244.md) One of these was
 *crocodiles'* teeth, perhaps a substitute for *serpents'*; the rest were
 bits of *rags*, *feathers*, &c. A practice somewhat similar to this may
 be discovered in the <span id="page_173">p. 173</span> philtres, or
 love-charms, of the Greeks and Romans. These consisted, among other
 things, of *the bones of snakes*, *screech owls' feathers*, and *bands
-of wool twisted upon a wheel* <span id="fr_245"></span>[3](#fn_244)."
+of wool twisted upon a wheel* <span id="fr_245"></span>[3](#fn_244.md)."
 
 The connexion of *serpents* and *charms* is noticed by Horace, Epod. v.
 14.
@@ -1552,29 +1552,29 @@ The connexion of *serpents* and *charms* is noticed by Horace, Epod. v.
 Canidia brevibus implicata viperis  
    Crines et incomptum caput, &c. &c.
 
-<span id="fn_244"></span>[172:3](wos05.htm#fr_245) Anal. vol. i. pp. 59,
+<span id="fn_244"></span>[172:3](wos05.htm#fr_245.md) Anal. vol. i. pp. 59,
 60.
 
-<span id="fn_245"></span>[173:1](wos05.htm#fr_246) Potter, Archæol.
+<span id="fn_245"></span>[173:1](wos05.htm#fr_246.md) Potter, Archæol.
 Græca, H. 251.
 
-<span id="fn_246"></span>[174:1](wos05.htm#fr_247) Bryant, *ut supra*.
+<span id="fn_246"></span>[174:1](wos05.htm#fr_247.md) Bryant, *ut supra*.
 
-<span id="fn_247"></span>[176:1](wos05.htm#fr_248) The name of the king
+<span id="fn_247"></span>[176:1](wos05.htm#fr_248.md) The name of the king
 of the Eboes in 1831 was OBI. The people described by Lander are far
 less barbarous than the Eboes of Edwards. The Slave Trade, which
 generally barbarizes Europeans, appears in this instance to have
 conferred a comparative civilization upon Africans.
 
-<span id="fn_248"></span>[177:1](wos05.htm#fr_249) Their only idol--if
+<span id="fn_248"></span>[177:1](wos05.htm#fr_249.md) Their only idol--if
 it may be called one--was the *Argoye*, a human figure crowned with
 *serpents* and *lizards*. It was a subordinate fetiche.
 
-<span id="fn_249"></span>[177:2](wos05.htm#fr_250) Bryan Edwards, ut
+<span id="fn_249"></span>[177:2](wos05.htm#fr_250.md) Bryan Edwards, ut
 supra.
 
-<span id="fn_250"></span>[178:1](wos05.htm#fr_251) John xviii. 14.
+<span id="fn_250"></span>[178:1](wos05.htm#fr_251.md) John xviii. 14.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Serpent-Worship in Europe](wos06)
+[Next: Chapter III. Serpent-Worship in Europe](wos06.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Next](wcwe01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Next](wcwe01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISAIM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISAIM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Witch-Cult in Western Europe*, by Margaret Alice Murray, \[1921\],
 at Intangible Textual Heritage
 
@@ -533,4 +533,4 @@ her knowledge from the 'Devil' she had broken the law and must die.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Continuity of the Religion](wcwe01)
+[Next: Chapter I. Continuity of the Religion](wcwe01.md)

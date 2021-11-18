@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jos)  [Next](rut) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jos)  [Next](rut.md) 
 
 ------------------------------------------------------------------------
 
@@ -2568,4 +2568,4 @@ roi en Israël. Chacun faisait ce qui lui semblait bon.
 
 ------------------------------------------------------------------------
 
-[Next: Ruth](rut)
+[Next: Ruth](rut.md)

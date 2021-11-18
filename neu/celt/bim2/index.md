@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Barddas](../bim) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Barddas](../bim.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1578633079/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1578633079/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,12 +28,12 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1578633079/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Volume I](../bim1/index)    \|    **Volume II**
+[Volume I](../bim1/index.md)    \|    **Volume II**
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](bim2000)    [Page
-Index](pageidx)   
+[Contents](#contents)    [Start Reading](bim2000.md)    [Page
+Index](pageidx.md)   
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ Index](pageidx)   
 This is volume II of the Barddas of Iolo Morganwg. This volume, which
 ends abruptly mid-sentence on page 167, is essentially a set of bylaws
 for the organization of Welsh Bards. While it does not have the depth
-and curious lore of the [first volume](../bim1/index), it is of some
+and curious lore of the [first volume](../bim1/index.md), it is of some
 historical interest. This is because Iolo Morganwg was a central founder
 of the modern Welsh Gorsedd, the bardic contest which is still held to
 this day. This is his vision for how Bardism should be organized and the
@@ -52,14 +52,14 @@ high standards to which bards should adhere.
 
 ------------------------------------------------------------------------
 
-[Title Page](bim2000)  
+[Title Page](bim2000.md)  
 <span id="section_000"></span>
 
 ### Privilege and Usage
 
-[The Voice of Gorsedd](bim2001)  
-[The Triads of Privilege and Usage](bim2002)  
-[The Triads of the Bards.--The Triads of Privilege and Usage](bim2003)  
-[The Triads of Privilege and Usage](bim2004)  
-[The Triads of the Bards of Cymru](bim2005)  
-[The Triads of the Bards of the Isle of Britain](bim2006)  
+[The Voice of Gorsedd](bim2001.md)  
+[The Triads of Privilege and Usage](bim2002.md)  
+[The Triads of the Bards.--The Triads of Privilege and Usage](bim2003.md)  
+[The Triads of Privilege and Usage](bim2004.md)  
+[The Triads of the Bards of Cymru](bim2005.md)  
+[The Triads of the Bards of the Isle of Britain](bim2006.md)  

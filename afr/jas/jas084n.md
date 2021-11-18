@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas083n)  [Next](jas085n)   
- \[[84. The Hunter.](jas084)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas083n)  [Next](jas085n.md)   
+ \[[84. The Hunter.](jas084.md)\]
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ as in number 82.
 
 ------------------------------------------------------------------------
 
-[Next: Note 85. Man-Snake as Bridegroom.](jas085n)
+[Next: Note 85. Man-Snake as Bridegroom.](jas085n.md)

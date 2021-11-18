@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](sym06) 
-[Next](sym08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](sym06.md) 
+[Next](sym08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symzonia; Voyage of Discovery*, by Adam Seaborn (pseud. John Cleves
 Symmes?), \[1820\], at Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ were high and dry. Such was the astonishing
 <span id="page_59">p. 59</span>
 
 rise and fall of the tide in this high latitude! The bay, which had
-twenty fathoms water in the centre at [full](errata.htm#1) sea, and ten
+twenty fathoms water in the centre at [full](errata.htm#1.md) sea, and ten
 fathoms a mile from the shore, was almost entirely emptied; a small
 channel in the middle, not more than half a mile wide, being all that
 was not left quite hare. There was no immediate inconvenience to be
@@ -257,7 +257,7 @@ which being, according to very high authority, no fish, might at some
 former period have got on shore in this high latitude, after the fashion
 of the other visitants from the internal world. As they were very large,
 I called them mammoth bones of course, had them all carefully taken on
-board, and packed in boxes, as an invaluable [acquisition](errata.htm#2)
+board, and packed in boxes, as an invaluable [acquisition](errata.htm#2.md)
 to the scientific world.
 
 On the third day a cry of terror called my attention. I saw the men all
@@ -395,4 +395,4 @@ rule.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](sym08)
+[Next: Chapter V](sym08.md)

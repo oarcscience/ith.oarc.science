@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks40)  [Next](lks42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks40)  [Next](lks42.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ Follows ye charge.
 
 ------------------------------------------------------------------------
 
-[Next: Ye License To Ye Spirit Yt He Maye Depart](lks42)
+[Next: Ye License To Ye Spirit Yt He Maye Depart](lks42.md)

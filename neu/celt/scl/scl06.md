@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](scl05)  [Next](scl07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](scl05)  [Next](scl07.md) 
 
 ------------------------------------------------------------------------
 
@@ -363,4 +363,4 @@ and so to the sense of lively, animated, high in spirits.'
 
 ------------------------------------------------------------------------
 
-[Next: Part V](scl07)
+[Next: Part V](scl07.md)

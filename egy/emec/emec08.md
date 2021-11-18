@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](emec07)  [Next](emec09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](emec07)  [Next](emec09.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,13 +35,13 @@ Canonical
 the Teacher of a new Religion, as in the gospels, but he acts as a
 mediator or advocate before the judge on behalf of mankind, as in the
 writings of the Son of Sirach, and as we have seen the Egyptian lesser
-gods acting (in page [51](emec03.htm#page_51)), not as a mediator to
+gods acting (in page [51](emec03.htm#page_51).md), not as a mediator to
 persuade the sinner to repent, but to persuade the judge to forgive the
 sin. And his death is no longer that of a martyr to the great cause of
 regenerating his fellow-creatures, but it is somewhat of an atoning
 sacrifice, made to propitiate the judge, a doctrine which is shown on
-the sculpture in Fig. [70](emec03.htm#img_70), page
-[51](emec03.htm#page_51). These Alexandrian opinions were probably held
+the sculpture in Fig. [70](emec03.htm#img_70.md), page
+[51](emec03.htm#page_51.md). These Alexandrian opinions were probably held
 by Apollos of Alexandria and Barnabas of Cyprus; and it was against some
 such "philosophy and vain deceit after the traditions of men,"
 accompanied by a "voluntary humility and worshipping of angels," that
@@ -144,23 +144,23 @@ of the Jews and the author of the Mosaic law. In this scheme, the Being
 with whom men have chiefly to do, either in this world or in the next,
 is the Creator of the World, the author of evil; and we see its
 connection with the old Egyptian opinions, by the engraved figures on
-the coins and gems. On Fig. [92](#img_92), an Alexandrian coin of
+the coins and gems. On Fig. [92](#img_92.md), an Alexandrian coin of
 Hadrian, we see the Serpent of Good and the Serpent of Evil, both so,
 common on the Egyptian monuments. The former is well distinguished by
 his swollen chest, but it is the latter, the Serpent of Evil, that wears
 the crown of Osiris as judge of the dead. On a coin of Antoninus (Fig
-[93](#img_93)) the Serpent of Evil is represented as Serapis, having the
+[93](#img_93).md) the Serpent of Evil is represented as Serapis, having the
 head of an old man with a basket on the top, as the great god and judge,
 while on.
 
 <span id="img_92"></span> [![](tn/generic.jpg)  
-Click to view](img/09600.jpg)
+Click to view](img/09600.jpg.md)
 
 Fig. 92
 
 <span id="page_97">p. 97</span>
 
-the engraved gem (Fig. [94](#img_94)) the same serpent has a glory round
+the engraved gem (Fig. [94](#img_94).md) the same serpent has a glory round
 its head, and is entitled the Spirit of Evil, and underneath it is
 written the magical word, Abrasax, hurl me not, an Egyptian word, which
 the Greeks made use of, as believing that the evil spirits were better
@@ -168,7 +168,7 @@ acquainted with the Egyptian language than with the Greek. From thus
 representing the creator of the world under the form of a serpent, some
 of the Gnostics were named Ophitæ, or Serpent-worshippers; and in giving
 to this Being the name of Jao, a word written on his shield in Fig.
-[95](#img_95), they declared him to be the Jah, or Jehovah of the Jews.
+[95](#img_95.md), they declared him to be the Jah, or Jehovah of the Jews.
 
 <table data-cellspacing="0" data-border="0" data-cellpadding="9" width="798">
 <colgroup>
@@ -199,9 +199,9 @@ which the Almighty had in part divided himself. These were seven in
 number, of whom one was the Christ, who came down and dwelt in the body
 of Jesus. This opinion of a, god dividing himself into several persons,
 or characters, was part of the old Egyptian mythology, as we have seen
-in page [12](emec03.htm#page_12); and these seven spirits, or Æons, we
+in page [12](emec03.htm#page_12.md); and these seven spirits, or Æons, we
 met with in the Greek translation of Isaiah, in page
-[62](emec04.htm#page_62). The Gnostics, classing them with the Almighty
+[62](emec04.htm#page_62.md). The Gnostics, classing them with the Almighty
 as eight persons who together made only one God, worshipped them under
 the name of the Ogdoad, which is, the earliest system of plurality in
 unity that we meet with among Christians of any sect. As the everlasting
@@ -243,19 +243,19 @@ Gods into one
 <span id="page_99">p. 99</span>
 
 <span id="img_96"></span> [![](tn/generic.jpg)  
-Click to view](img/09900.jpg)
+Click to view](img/09900.jpg.md)
 
 Fig. 96.
 
 person. Plutarch tells us that they worshipped Osiris, Isis, and Horus,
 under the form of a triangle, of which Horus was the shorter side. Of
 these representations of the Egyptian Trinity, we have many small
-specimens in our museums (see Fig. [96](#img_96)). He further tells us
+specimens in our museums (see Fig. [96](#img_96).md). He further tells us
 that they held that everything perfect had three parts, and, therefore,
 that their god of goodness made himself threefold, while their god of
 evil remained single. On an Alexandrian coin of Trajan we see a winged
 sphinx, With three heads, leaning on a wheel, representing this
-threefold divinity (see Fig. [97](#img_97)). It reminds us of the Greek
+threefold divinity (see Fig. [97](#img_97).md). It reminds us of the Greek
 Cerberus, and which we might almost suppose to be the wicked Typhon, the
 accusing hippopotamus. Who was one of the Cabeiri, if such an opinion
 did not contradict the rule quoted by Plutarch, that the god of evil
@@ -264,7 +264,7 @@ chap. i., each of which had four heads and four wings, except that the
 creature described by the prophet had a wheel for each of the four
 faces. And indeed the same sphinx, leaning on a Wheel, was made use of
 by the Gnostic Christians to represent Jesus Christ, as in the engraved
-gem, Fig. [98](#img_98), where we see the White horse of the Book of
+gem, Fig. [98](#img_98.md), where we see the White horse of the Book of
 Revelation vi. 2, "And he that sat on it had a bow, and a crown was
 given unto him, and he went forth conquering and to conquer," trampling
 
@@ -293,12 +293,12 @@ down, as we see, the Dragon, or serpent of Evil, while the figure of
 Victory presents to him the crown or diadem of royalty. An Alexandrian
 coin of the 11th year of Domitian represents another vision of the Book
 of Revelation--namely, the Spirit of Death, in the form of a serpent,
-riding on the Pale Horse (see Fig. [99](#img_99)). As this was made
+riding on the Pale Horse (see Fig. [99](#img_99).md). As this was made
 after the Book of Revelation was written, so also may have been the gem,
-Fig. [98](#img_98).
+Fig. [98](#img_98.md).
 
 <span id="img_99"></span> [![](tn/generic.jpg)  
-Click to view](img/10000.jpg)
+Click to view](img/10000.jpg.md)
 
 Fig. 99
 
@@ -306,18 +306,18 @@ In the Book of Revelation, however, written in the year A.D. 69, we find
 many traces of the Gnostic or at least Egyptian opinions. One as in the
 seven spirits which were before the throne of God, in chap. i. 4, and
 which are again mentioned under the form of lamps, chap. iv. 5, and as
-eyes, in chap. v. 6. In page [80](emec06.htm#page_80), we have shown
+eyes, in chap. v. 6. In page [80](emec06.htm#page_80.md), we have shown
 that the writers of the Septuagint introduced these seven spirits into
 Isaiah xi. 2. Another Egyptian figure is in the war against the Dragon,
 or serpent of evil, in chap xii., which is represented several times on
 the sarcophagus of Oimenepthah I., made perhaps B.C. 1200, and mentioned
-in page [43](emec03.htm#page_43). The description of heaven, in chap. v.
+in page [43](emec03.htm#page_43.md). The description of heaven, in chap. v.
 5, the Jude on his throne, the four-and-twenty elders around the throne,
 the four living creatures with animals' heads, the Lamb standing before
 the throne,, and the book-roll, would all seem in scenic effect to be
-copied from the Trial Scene described in page [41](emec03.htm#page_41),
+copied from the Trial Scene described in page [41](emec03.htm#page_41.md),
 though in its purpose it is very unlike. The horses' tails ending in
-snakes' heads we see on the gem, page [99](#page_99).
+snakes' heads we see on the gem, page [99](#page_99.md).
 
 The learned Greeks of Alexandria, whether Pagans or Christians, by no
 means held the superstitious Egyptian opinions, though certainly Greek
@@ -430,11 +430,11 @@ system of two gods, one good and the other wicked, Mithra was the god of
 goodness. The symbol in his worship best known is the figure of a hero,
 in Phrygian cap and trowsers, mounted on a sinking bull, and stabbing it
 in sacrifice to the unseen god, while a dog licks up the blood from the
-wound (see Fig. [100](#img_100)). This new worship received little
+wound (see Fig. [100](#img_100).md). This new worship received little
 favour in Egypt or Alexandria, and its ignorant followers were as
 
 <span id="img_100"></span> [![](tn/generic.jpg)  
-Click to view](img/10400.jpg)
+Click to view](img/10400.jpg.md)
 
 Fig. 100
 
@@ -464,4 +464,4 @@ Egyptian Christians.
 
 ------------------------------------------------------------------------
 
-[Next: Christianity Under the Byzantine Emperors](emec09)
+[Next: Christianity Under the Byzantine Emperors](emec09.md)

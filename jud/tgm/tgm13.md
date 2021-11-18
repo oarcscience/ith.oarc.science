@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm12)  [Next](tgm14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm12)  [Next](tgm14.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,7 +125,7 @@ Those who were holding the coffin could hardly keep from dropping it.
 <span id="img_05600"></span>
 
 [![](tn/05600.jpg)  
-Click to enlarge](img/05600.jpg)
+Click to enlarge](img/05600.jpg.md)
 
  
 
@@ -279,4 +279,4 @@ immediately and began to build that most important school.
 
 ------------------------------------------------------------------------
 
-[Next: 11. Enough for Wash Day](tgm14)
+[Next: 11. Enough for Wash Day](tgm14.md)

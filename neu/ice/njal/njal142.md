@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal141)  [Next](njal143) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal141)  [Next](njal143.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ and those suits took their course.
 
 ------------------------------------------------------------------------
 
-[Next: 143. The Counsel Of Thorhall Asgrim's Son](njal143)
+[Next: 143. The Counsel Of Thorhall Asgrim's Son](njal143.md)

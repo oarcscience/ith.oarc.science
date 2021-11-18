@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork12)  [Next](gork14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork12)  [Next](gork14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ apartment in which He latterly passed His days looked out on the sacred
 waters of the Ganges. Balarâm, Râkhâl, and other devotees and visitors
 were seated on a mat spread out on the floor of the room. They were
 singing hymns to the accompaniment of musical
-[instruments](errata.htm#4). One of the songs had particular reference
+[instruments](errata.htm#4.md). One of the songs had particular reference
 to the six Lotuses marking the different stages of the Yogi's progress
 toward union with the Universal Spirit. At the close of this song the
 Bhagavân said:
@@ -72,8 +72,8 @@ Self. But this ego is a mere appearance. It is like a line drawn across
 a sheet of water. Hanumân was blessed with the vision of God both with
 form and without form; but he retained the ego of a servant of God. Such
 was also the case with the wise men Nârada, <span
-id="fr_80"></span>[\*](#fn_80) Sanaka, <span
-id="fr_81"></span>[†](#fn_81) Sananda, and Sanat Kumâra of ancient
+id="fr_80"></span>[\*](#fn_80.md) Sanaka, <span
+id="fr_81"></span>[†](#fn_81.md) Sananda, and Sanat Kumâra of ancient
 times.
 
 Here the question was asked whether Nârada and others were Bhaktas only
@@ -414,7 +414,7 @@ ignorance. But true knowledge makes one realize the unity of existence.
 knowledge. All differentiation ceases, when true knowledge comes.
 
 <span class="margnote">Sankara and the Pariah.</span>Sankara <span
-id="fr_82"></span>[\*](#fn_82) was a great Jnâni. He had true
+id="fr_82"></span>[\*](#fn_82.md) was a great Jnâni. He had true
 Self-knowledge; he realized one Brahman everywhere and in all beings. He
 recognized no distinction in caste or creed. At one time, however, he
 had the consciousness of difference; he would differentiate a pariah
@@ -440,7 +440,7 @@ nature of true Self-knowledge.
 perfect faith, then a little practice will be enough. One must have
 faith in the words of the Guru or spiritual master. <span
 class="margnote">Vyâsa and the Gopis.</span>Vyâsa <span
-id="fr_83"></span>[\*](#fn_83) was about to cross the river Jamunâ. At
+id="fr_83"></span>[\*](#fn_83.md) was about to cross the river Jamunâ. At
 this moment the Gopis (shepherdesses) arrived. They also wished to go
 across, but there was no ferry-boat. They asked Vyâsa, "Lord, what shall
 we do?" Vyâsa replied: "Do not worry, I will get you across the river;
@@ -671,7 +671,7 @@ symbols.
 Bhagavân (smiling): You see that I lay stress upon the worship of God
 with form as eminently favorable for the cultivation of devotion.
 
-Disciple: Is Pandit Sasadhar <span id="fr_84"></span>[\*](#fn_84) making
+Disciple: Is Pandit Sasadhar <span id="fr_84"></span>[\*](#fn_84.md) making
 any progress in this direction,—in the culture of Bhakti or devotion?
 
 Bhagavân: Yes; but his tendency is in the direction of the path of
@@ -722,21 +722,21 @@ The Bhagavân remained silent.
 
 ### Footnotes
 
-<span id="fn_80"></span>[291:\*](gork13.htm#fr_80) Nârada, see note page
-[168](gork08.htm#page_168).
+<span id="fn_80"></span>[291:\*](gork13.htm#fr_80.md) Nârada, see note page
+[168](gork08.htm#page_168.md).
 
-<span id="fn_81"></span>[291:†](gork13.htm#fr_81) Sanaka, Sananda, and
+<span id="fn_81"></span>[291:†](gork13.htm#fr_81.md) Sanaka, Sananda, and
 Sanat Kumâra were the three Rishis or Seers of Truth in ancient India.
 
-<span id="fn_82"></span>[305:\*](gork13.htm#fr_82) Sankara, same as
-Sankarâchârya. See note [p. 279](gork12.htm#page_279).
+<span id="fn_82"></span>[305:\*](gork13.htm#fr_82.md) Sankara, same as
+Sankarâchârya. See note [p. 279](gork12.htm#page_279.md).
 
-<span id="fn_83"></span>[306:\*](gork13.htm#fr_83) Vyâsa, see note [p.
-108](gork07.htm#page_108).
+<span id="fn_83"></span>[306:\*](gork13.htm#fr_83.md) Vyâsa, see note [p.
+108](gork07.htm#page_108.md).
 
-<span id="fn_84"></span>[316:\*](gork13.htm#fr_84) See page
-[262](gork12.htm#page_262).
+<span id="fn_84"></span>[316:\*](gork13.htm#fr_84.md) See page
+[262](gork12.htm#page_262.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Srî Râmakrishna at the Sinti Brâhmo-Samâj](gork14)
+[Next: Chapter XI. Srî Râmakrishna at the Sinti Brâhmo-Samâj](gork14.md)

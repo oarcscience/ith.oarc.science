@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tlc14)  [Next](tlc16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tlc14)  [Next](tlc16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Continent*, by Cutcliffe Hyne, \[1900\], at Intangible Textual
 Heritage
 
@@ -707,4 +707,4 @@ likings, but for Atlantis, which is mother to us all."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. The Burying Alive of Naïs](tlc16)
+[Next: Chapter XIII. The Burying Alive of Naïs](tlc16.md)

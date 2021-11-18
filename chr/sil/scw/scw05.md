@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw04) [Next](scw06)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw04) [Next](scw06.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -371,4 +371,4 @@ There is no sunset in my soul—<br />
 
 ------------------------------------------------------------------------
 
-[Next](scw06)
+[Next](scw06.md)

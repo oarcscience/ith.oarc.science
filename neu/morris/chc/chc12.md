@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](chc11)  [Next](chc13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](chc11)  [Next](chc13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Child Christopher and Goldilind the Fair*, by William Morris, \[1895\],
 at Intangible Textual Heritage
 
@@ -112,6 +112,6 @@ Castle of Greenharbour, on the northernmost marches of Meadham.
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. Of Goldilind in The May Morning at
-Greenharbour](chc13)
+Greenharbour](chc13.md)
 
 </div>

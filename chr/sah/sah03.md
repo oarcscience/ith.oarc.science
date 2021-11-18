@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah02)  [Next](sah04) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah02)  [Next](sah04.md) 
 
 ------------------------------------------------------------------------
 
@@ -509,4 +509,4 @@ in marriage."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV - Christian Science Versus Spiritualism](sah04) 
+[Next: Chapter IV - Christian Science Versus Spiritualism](sah04.md) 

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](fol42)  [Next](fol44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](fol42)  [Next](fol44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Feast of Lanterns*, by L. Cranmer-Byng, \[1916\], at Intangible
 Textual Heritage
 
@@ -45,4 +45,4 @@ Our song of parting thrills.
 
 ------------------------------------------------------------------------
 
-[Next: Dreaming at Golden Hill](fol44)
+[Next: Dreaming at Golden Hill](fol44.md)

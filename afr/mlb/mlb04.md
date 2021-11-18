@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb03)  [Next](mlb05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb03)  [Next](mlb05.md) 
 
 ------------------------------------------------------------------------
 
@@ -438,4 +438,4 @@ see in the next chapter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Legends of the High Gods](mlb05)
+[Next: Chapter III: Legends of the High Gods](mlb05.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe121)  [Next](prwe123) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe121)  [Next](prwe123.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ buried beneath the Longstone.
 
 ------------------------------------------------------------------------
 
-[Next: St Sennen and St Just](prwe123)
+[Next: St Sennen and St Just](prwe123.md)

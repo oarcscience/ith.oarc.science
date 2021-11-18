@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe08)  [Next](boe10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe08)  [Next](boe10.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ these little Floods did in the Sands of the
 Climates, and the general order and tracts of its
 Rivers&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;The Theory of the
 Earth&lt;/i&gt;; Thomas Burnet, 1697.)](tn/fig034.jpg)  
-Click to enlarge](img/fig034.jpg)  
+Click to enlarge](img/fig034.jpg.md)  
 FIGURE 34. *The Primæval Earth, with its Zones or greater Climates, and
 the general order and tracts of its Rivers*.  
 (From *The Theory of the Earth*; Thomas Burnet, 1697.)  
@@ -57,7 +57,7 @@ him, trouble? All the Creation stories
 <span id="img_fig034a"></span> ![FIGURE 34A. &lt;i&gt;Zones or Climates
 of the Earth, with the Zodiac&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Sphæra
 emendata&lt;/i&gt;; Joannes Sacro Bosco, Cologne,
-1601.)](img/fig034a.jpg)  
+1601.)](img/fig034a.jpg.md)  
 FIGURE 34A. *Zones or Climates of the Earth, with the Zodiac*.  
 (From *Sphæra emendata*; Joannes Sacro Bosco, Cologne, 1601.)
 
@@ -76,7 +76,7 @@ with the
 <span id="page_54">p. 54</span>
 
 great stage built and the great scene set and lighted for the entrance
-of man and the beginning of his drama ([Plate VI](boe10.htm#img_pl06)).
+of man and the beginning of his drama ([Plate VI](boe10.htm#img_pl06).md).
 It is a picture in successive planes of the Genesis story, with a
 charming addition--the boat with sails, floating in the foreground; and,
 on it, a little three-storied house--the Ark, perhaps, whose part in the
@@ -88,4 +88,4 @@ man's single precious possession.
 
 ------------------------------------------------------------------------
 
-[Next: The Babylonian Universe](boe10)
+[Next: The Babylonian Universe](boe10.md)

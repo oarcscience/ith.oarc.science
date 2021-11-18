@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob03) 
-[Next](tob05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob03.md) 
+[Next](tob05.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ The Kabbalah and the Sacred Word--The Yod--The He--The Vau--The second
 He--Synthesis of the Sacred Word.
 
 ACCORDING to the ancient oral tradition of the Hebrews, or
-*Kabbalah*, <span id="fr_9"></span>[1](#fn_9) a sacred word exists,
+*Kabbalah*, <span id="fr_9"></span>[1](#fn_9.md) a sacred word exists,
 which gives to the mortal who can discover the correct way of
 pronouncing it, the key to all the sciences, divine and human. This
 word, which the Israelites never uttered, and which the High Priest
@@ -41,7 +41,7 @@ Hebrew letters, and reads thus, *Yod-he-vau-he*, יהוה.
 
 It is used in the *Sepher Bereschit*, or Genesis of Moses, to designate
 the divinity, and its grammatical construction recalls even by its
-formation <span id="fr_10"></span>[1](#fn_10) the attributes which men
+formation <span id="fr_10"></span>[1](#fn_10.md) the attributes which men
 have always delighted to ascribe to God. Now we shall see that the
 powers attributed to this word are real up to a certain point, for with
 its aid the symbolical gate of the arch, which contains the explanation
@@ -76,7 +76,7 @@ The *Yod*, shaped like a comma or a dot, represents the *principle* or
 *origin* of all things.
 
 The other letters of the Hebrew alphabet are all produced by different
-combinations of the letter *Yod*. <span id="fr_11"></span>[1](#fn_11)
+combinations of the letter *Yod*. <span id="fr_11"></span>[1](#fn_11.md)
 The synthetic study of nature had led the ancients to conclude that one
 law only existed, and ruled all natural productions. This law, the basis
 of analogy, placed the Unity-principle at the origin of all things, and
@@ -89,14 +89,14 @@ alphabet, was justly used as the image and representation of this
 Thus the law which presided over the creation of the Hebrew language is
 the same law that presided over the creation of the Universe, and to
 know the one is to know the other, unreservedly. The *Sepher
-Yetzirah*, <span id="fr_12"></span>[2](#fn_12) one of the most ancient
+Yetzirah*, <span id="fr_12"></span>[2](#fn_12.md) one of the most ancient
 books of the Kabbalah, proves this fact.
 
 Before proceeding any further, let us illustrate the definition which we
 have just given of the Yod by an example. The first letter of the Hebrew
 alphabet, the aleph (א), is composed of four yods placed opposite to
 each other; the other letters are all formed on the same basis. <span
-id="fr_13"></span>[3](#fn_13)
+id="fr_13"></span>[3](#fn_13.md)
 
 <span id="page_20">p. 20</span>
 
@@ -106,7 +106,7 @@ the Unity-end of beings and of things, so that eternity, from this point
 of view, is only an eternal present. The ancients used a dot in the
 centre of a circle as the symbol of this idea, the representation of the
 Unity-principle (*the dot*) in the centre of eternity (*the circle*, a
-line without beginning or end). <span id="fr_14"></span>[1](#fn_14)
+line without beginning or end). <span id="fr_14"></span>[1](#fn_14.md)
 
  
 
@@ -123,11 +123,11 @@ The Kabbalah, therefore, places at the origin of all things the absolute
 assertion of the being by itself of the Ego-Unity, which is represented
 by the *yod* symbolically, and by the number 10. This number 10,
 representing the All-principle 1, with the Zero-nothing 0, well supplies
-the requisite conditions. <span id="fr_15"></span>[2](#fn_15)
+the requisite conditions. <span id="fr_15"></span>[2](#fn_15.md)
 
 <span id="page_21">p. 21</span>
 
-THE HE. <span id="fr_16"></span>[1](#fn_16)
+THE HE. <span id="fr_16"></span>[1](#fn_16.md)
 
 But the Ego cannot be realized except through its opposition to the
 Non-Ego. The assertion of the Ego is scarcely established, when we must
@@ -144,7 +144,7 @@ symbolizes the active; the Non-Ego in relation to the Ego, the *woman*
 relatively to the *man*; the *substance* relatively to the *essence*;
 *life* in its relation to the *soul*, &c., &c.
 
-THE VAU. <span id="fr_17"></span>[2](#fn_17)
+THE VAU. <span id="fr_17"></span>[2](#fn_17.md)
 
 But the opposition of the Ego and the Non-Ego immediately gives rise to
 another factor; this is the *Affinity* existing between this Ego and
@@ -171,7 +171,7 @@ The Trinity is the synthetic and absolute formula to which all the
 sciences converge; and this formula, forgotten with regard to its
 scientific value, has been transmitted to us integrally, by all the
 religious of the world, the unconscious depositaries of the SCIENCE
-WISDOM of primitive civilizations. <span id="fr_18"></span>[1](#fn_18)
+WISDOM of primitive civilizations. <span id="fr_18"></span>[1](#fn_18.md)
 
 Thus the great sacred name is formed of three letters only. The fourth
 term of the name is formed by the repetition of the second letter, the
@@ -181,7 +181,7 @@ This repetition indicates the passage of the Trinitarian law into a new
 application; that is, to speak correctly, a transition from the
 metaphysical to the physical world, or generally, of any world whatever
 to the world that immediately follows it. <span
-id="fr_19"></span>[2](#fn_19)
+id="fr_19"></span>[2](#fn_19.md)
 
 The knowledge of the property of the second He is the
 
@@ -283,7 +283,7 @@ The circle can be drawn in this way--
 
 But since the second He, the sign of transition, becomes the active
 entity in the following scale, *i. e.* since this *He* only represents a
-*yod* in germ, <span id="fr_20"></span>[1](#fn_20) the sacred word can
+*yod* in germ, <span id="fr_20"></span>[1](#fn_20.md) the sacred word can
 be represented, with the *second he under the first yod*, thus--
 
 <table data-cellspacing="0" data-border="0" data-cellpadding="9" width="346">
@@ -328,7 +328,7 @@ speak of the occult or Pythagorean conception of numbers.
 
 ### Footnotes
 
-<span id="fn_9"></span>[17:1](tob04.htm#fr_9) "It appears, according to
+<span id="fn_9"></span>[17:1](tob04.htm#fr_9.md) "It appears, according to
 the most famous rabbis, that Moses himself, foreseeing the fate which
 awaited his book, and the false interpretations which would be given to
 it in the course of time, resorted to an oral law, which he delivered
@@ -341,7 +341,7 @@ a Hebrew word which signifies that which is received, that which comes
 from elsewhere, that which passes from hand to hand."--FABRE D'OLIVET,
 *La Langue Hébraïque Restituée*, p. 29.
 
-<span id="fn_10"></span>[18:1](tob04.htm#fr_10) This name presents first
+<span id="fn_10"></span>[18:1](tob04.htm#fr_10.md) This name presents first
 the sign which indicates life, repeated twice, and thus forming the
 essentially living root EE (הה). This root is never used as a noun, and
 is the only one which enjoys this prerogative. It is from its formation
@@ -357,31 +357,31 @@ without limit. This admirable word thus exactly signifies the Being who
 is, who was, and who will be."--FABRE D'OLIVET, *La Langue Hébraïque
 Restituée*.
 
-<span id="fn_11"></span>[19:1](tob04.htm#fr_11) See the *Kabbala
+<span id="fn_11"></span>[19:1](tob04.htm#fr_11.md) See the *Kabbala
 Denudata*.
 
-<span id="fn_12"></span>[19:2](tob04.htm#fr_12) Translated into English
+<span id="fn_12"></span>[19:2](tob04.htm#fr_12.md) Translated into English
 by Dr. Wynn Westcott.
 
-<span id="fn_13"></span>[19:3](tob04.htm#fr_13) See the *Kabbala
+<span id="fn_13"></span>[19:3](tob04.htm#fr_13.md) See the *Kabbala
 Denudata*.
 
-<span id="fn_14"></span>[20:1](tob04.htm#fr_14) See Kircher, Œdipus
+<span id="fn_14"></span>[20:1](tob04.htm#fr_14.md) See Kircher, Œdipus
 Ægyptiacus; See Lenain, *La Science Kabbalistique*; See J. Dée, *Monas
 Hieroglyphica*.
 
-<span id="fn_15"></span>[20:2](tob04.htm#fr_15) See Saint-Martin, Des
+<span id="fn_15"></span>[20:2](tob04.htm#fr_15.md) See Saint-Martin, Des
 rapports qui existent entre Dieu, l'Homme et l'Univers. See Lacuria,
 *Harmonies de l'Être exprimées par les nombres*.
 
-<span id="fn_16"></span>[21:1](tob04.htm#fr_16) See Eliphas Levi, *Dogme
+<span id="fn_16"></span>[21:1](tob04.htm#fr_16.md) See Eliphas Levi, *Dogme
 et Rituel de la Haute Magie*; *la Clef des Grands Mystères*;--Lacuria,
 op. cit.
 
-<span id="fn_17"></span>[21:2](tob04.htm#fr_17) See Fabre d'Olivet, *La
+<span id="fn_17"></span>[21:2](tob04.htm#fr_17.md) See Fabre d'Olivet, *La
 Langue Hébraïque Restituée*.
 
-<span id="fn_18"></span>[22:1](tob04.htm#fr_18) See Louis Lucas, *Le
+<span id="fn_18"></span>[22:1](tob04.htm#fr_18.md) See Louis Lucas, *Le
 Roman alchimique*.
 
 "*Præter hæc tria numera non est alia magnitudo, quod tria sunt omnia,
@@ -389,13 +389,13 @@ et ter undecunque, ut pythagorici dicunt; omne et omnia tribus
 determinata sunt*."--ARISTOTLE. (Quoted by Ostrowski, page 24 of his
 *Mathèse*.)
 
-<span id="fn_19"></span>[22:2](tob04.htm#fr_19) Ostrowski has seen this
+<span id="fn_19"></span>[22:2](tob04.htm#fr_19.md) Ostrowski has seen this
 clearly. "The passage of 3 in 4 corresponds to that of the Trimurti in
 Maïa, and as the latter opens the second ternary of the pregenesetic
 decade, so the figure 4 opens that of the second ternary of our
 genesetic decimal."-- *Mathèse*, p. 25.
 
-<span id="fn_20"></span>[24:1](tob04.htm#fr_20) The second He, upon
+<span id="fn_20"></span>[24:1](tob04.htm#fr_20.md) The second He, upon
 which we are intentionally dwelling at some length, may be compared to
 *a grain of wheat* relatively to the <span id="page_25">p. 25</span>
 ear. The ear, the Trinity, manifest or *yod-he-vau*, exerts all its
@@ -408,4 +408,4 @@ germ.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Esoterism of Numbers](tob05)
+[Next: Chapter III. The Esoterism of Numbers](tob05.md)

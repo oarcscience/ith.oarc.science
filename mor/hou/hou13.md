@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou12)  [Next](hou14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou12)  [Next](hou14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -50,23 +50,23 @@ further explorations by a pioneer
 
 <span id="page_253">p. 253</span>
 
-band. <span id="fr_328"></span>[1](#fn_328) A call was made for
+band. <span id="fr_328"></span>[1](#fn_328.md) A call was made for
 volunteers of young and able-bodied men, and in April a company was
 organized, with Brigham Young as lieutenant-general, Stephan Markham
 colonel, John Pack major, and fourteen captains. The company consisted
 of 143 persons, including three women, wives of Brigham Young, Lorenzo
 Young, and Heber C. Kimball. They had 73 wagons drawn by horses and
 mules, and loaded chiefly with grain and farming implements, <span
-id="fr_329"></span>[2](#fn_329) and with provisions which were expected
+id="fr_329"></span>[2](#fn_329.md) and with provisions which were expected
 to last them for the return journey.
 
     Early in April a detachment moved out of Winter Quarters for the
 rendezvous on the Elkhorn, and on the 14th the pioneer band, accompanied
-by eight members of the council, <span id="fr_330"></span>[3](#fn_330)
+by eight members of the council, <span id="fr_330"></span>[3](#fn_330.md)
 began the long journey westward in search of a site for their new Zion.
 If none were found, they were to plant crops and establish a settlement
 at some suitable spot which might serve as a base for future
-explorations. <span id="fr_331"></span>[4](#fn_331)
+explorations. <span id="fr_331"></span>[4](#fn_331.md)
 
     The route was along the north branch of the Platte, and for more
 than 500 miles the country was bare of
@@ -88,7 +88,7 @@ were required to walk by the wagons.
 
 <span id="img_25400"></span> <span align="CENTER"> [![ROUTE OF THE
 MORMONS.](tn/25400.jpg)  
-Click to enlarge](img/25400.jpg)  
+Click to enlarge](img/25400.jpg.md)  
 ROUTE OF THE MORMONS.  
 </span>
 
@@ -106,7 +106,7 @@ corral thus formed was oblong, with an
 <span id="page_255">p. 255</span>
 
 opening at either end, where was stationed a guard. The tents were
-pitched outside of the corral. <span id="fr_332"></span>[5](#fn_332)
+pitched outside of the corral. <span id="fr_332"></span>[5](#fn_332.md)
 
     In crossing the Loup River on the 24th, they used a leathern boat
 made for this expedition, and called *The Revenue Cutter*. On the 4th of
@@ -116,15 +116,15 @@ spirits of the people reached such high hilarity that their commanding
 
 <span id="img_25500"></span> <span align="CENTER"> [![CORRAL OF
 WAGONS.](tn/25500.jpg)  
-Click to enlarge](img/25500.jpg)  
+Click to enlarge](img/25500.jpg.md)  
 CORRAL OF WAGONS.  
 </span>
 
 officer was obliged to rebuke them, whereupon all covenanted to humble
-themselves. <span id="fr_333"></span>[6](#fn_333)
+themselves. <span id="fr_333"></span>[6](#fn_333.md)
 
     Early in June they reached the Black Hills by way of Fort
-Laramie. <span id="fr_334"></span>[7](#fn_334) Here they rested for two
+Laramie. <span id="fr_334"></span>[7](#fn_334.md) Here they rested for two
 or three
 
 <span id="page_256">p. 256</span>
@@ -140,10 +140,10 @@ near by was a large company bound for Oregon, for which he asked
 conveyance over the stream. The pioneers consented, stipulating that
 they should receive payment in provisions. Other parties following, the
 larder of the saints was replenished. <span
-id="fr_335"></span>[8](#fn_335)
+id="fr_335"></span>[8](#fn_335.md)
 
     Travelling rapidly, and a little to the south of what was known as
-the Oregon track, <span id="fr_336"></span>[9](#fn_336) the Mormons
+the Oregon track, <span id="fr_336"></span>[9](#fn_336.md) the Mormons
 arrived at South Pass in the latter part of June, about the time when
 the tide of emigration usually passed the Missouri. Thence skirting the
 Colorado desert and reaching the Green River country, the monotony was
@@ -151,35 +151,35 @@ broken. Here the brethren were met by Elder Brannan, who had sailed from
 New York for California in the ship *Brooklyn*, the previous February,
 with 238 saints, as before mentioned. He reported that they were all
 busy making farms and raising grain on the San Joaquin River. <span
-id="fr_337"></span>[10](#fn_337) As several of the present
+id="fr_337"></span>[10](#fn_337.md) As several of the present
 
 <span id="page_257">p. 257</span>
 
 company were ill with mountain fever, they encamped for a few days.
 Thirteen battalion brethren who were out searching for stolen cattle now
 surprised them, and Brigham led in three hearty cheers. <span
-id="fr_338"></span>[11](#fn_338) Again en route, passing through the
+id="fr_338"></span>[11](#fn_338.md) Again en route, passing through the
 Green River country, they reached Fort Bridger. Soon after leaving this
 point the real difficulties of the journey commenced. Led, as the saints
 relate, only by the inspiration of the Almighty. <span
-id="fr_339"></span>[12](#fn_339) Brigham and his band crossed the rugged
+id="fr_339"></span>[12](#fn_339.md) Brigham and his band crossed the rugged
 spurs of the Uintah range, now following the rocky bed of a mountain
 torrent, and now cleaving their way through dense and gnarled timber
 until they arrived at Echo Cañon, near the eastern slope of the Wasatch
 Mountains, where for a brief space the main body rested, the president
 and many others being attacked with mountain fever. <span
-id="fr_340"></span>[13](#fn_340)
+id="fr_340"></span>[13](#fn_340.md)
 
     Impatient of the delay, Brigham, after a formal
 
 <span id="page_258">p. 258</span>
 
-meeting, directed Orson Pratt <span id="fr_341"></span>[14](#fn_341) to
+meeting, directed Orson Pratt <span id="fr_341"></span>[14](#fn_341.md) to
 take the strongest of their number and cut through the mountains into
 the valley, making roads and bridges as they went. After crossing what
 were designated as Big and Little mountains, the party, consisting of
 some forty-two men having twenty-three wagons, encamped in Emigration
-Cañon. <span id="fr_342"></span>[15](#fn_342)
+Cañon. <span id="fr_342"></span>[15](#fn_342.md)
 
  
 
@@ -248,7 +248,7 @@ at the mouth of the cañon. Together they then returned to camp late in
 the evening and told of their discoveries.
 
     The following morning the advance company, composed of Orson Pratt,
-George A. Smith, <span id="fr_343"></span>[16](#fn_343) and seven
+George A. Smith, <span id="fr_343"></span>[16](#fn_343.md) and seven
 others, entered the valley and encamped on the bank of Cañon Creek. They
 explored the valley toward the lake, and about three miles from the camp
 found two fine streams with stony bottoms, whose banks promised
@@ -259,9 +259,9 @@ subsequently known as Parley Cañon
 
 <span id="page_261">p. 261</span>
 
-creek. <span id="fr_344"></span>[17](#fn_344) On the 23d the camp moved
+creek. <span id="fr_344"></span>[17](#fn_344.md) On the 23d the camp moved
 some two or three miles northward, the site chosen being near the two or
-three dwarf cotton-woods, <span id="fr_345"></span>[18](#fn_345) which
+three dwarf cotton-woods, <span id="fr_345"></span>[18](#fn_345.md) which
 were the only trees within sight, and on the bank of a stream of pure
 water now termed City Creek, overgrown with high grass and willows.
 Pratt called the men together, dedicated the land to the Lord, and
@@ -272,7 +272,7 @@ and composed of loam and gravel. The first furrow was thereupon turned
 by William Carter, and through the afternoon three ploughs and one
 harrow were at work. A dam was commenced and trenches cut to convey
 water to the fields. Toward evening their energetic labors were
-interrupted by a thunder-storm. <span id="fr_346"></span>[19](#fn_346)
+interrupted by a thunder-storm. <span id="fr_346"></span>[19](#fn_346.md)
 The ground was so dry that they found it necessary to irrigate it before
 ploughing, some ploughs having been broken; and it was not until after
 the arrival of Brigham that planting was begun.
@@ -289,17 +289,17 @@ and I felt that there the saints would find protection and
 
 <span id="page_262">p. 262</span>
 
-safety." <span id="fr_347"></span>[20](#fn_347) Woodruff in describing
+safety." <span id="fr_347"></span>[20](#fn_347.md) Woodruff in describing
 the scene says of Brigham: "He was enwrapped in vision for several
 minutes. He had seen the valley before in vision, and upon this occasion
 he saw the future glory of Zion…planted in the valley." <span
-id="fr_348"></span>[21](#fn_348) Then Brigham said: "It is enough. This
+id="fr_348"></span>[21](#fn_348.md) Then Brigham said: "It is enough. This
 is the right place. Drive on." Toward noon on the 24th they reached the
 encampment. Potatoes were planted in a five-acre patch of ploughed
-ground, and a little early corn. <span id="fr_349"></span>[22](#fn_349)
+ground, and a little early corn. <span id="fr_349"></span>[22](#fn_349.md)
 
     Their first impressions of the valley, Lorenzo Young says, were most
-disheartening. <span id="fr_350"></span>[23](#fn_350) But for the two or
+disheartening. <span id="fr_350"></span>[23](#fn_350.md) But for the two or
 three cotton-wood trees, not a green thing was in sight. And yet Brigham
 speaks almost pathetically of the destruction of the willows and wild
 roses growing thickly on the two branches of City Creek, destroyed
@@ -307,7 +307,7 @@ because the channels must be changed, and leaving nothing to vary the
 scenery but rugged mountains, the sage bush, and the sunflower. The
 ground was covered with millions of black crickets which the Indians
 were harvesting for their winter food. <span
-id="fr_351"></span>[24](#fn_351) An unusual number of natives had
+id="fr_351"></span>[24](#fn_351.md) An unusual number of natives had
 assembled for this purpose, and after dinner gathered about the
 new-comers, evincing great curiosity as to their plans.
 
@@ -320,7 +320,7 @@ afterward, on account of alarm at the apparent scarcity of timber,
 restrictions were put upon the manner of cutting and quantity used.
 Certain fines were imposed as a penalty for disobedience; for fuel only
 dead timber was allowed, and while there was sufficient, the restraint
-excited some opposition. <span id="fr_352"></span>[25](#fn_352)
+excited some opposition. <span id="fr_352"></span>[25](#fn_352.md)
 
 The next day was the sabbath; and as had been the custom at Nauvoo, two
 services were held, George A. Smith, followed by Heber C. Kimball and
@@ -334,12 +334,12 @@ hunting, or fishing. "You must keep the commandments of God," he said,
 have what they can cultivate free, and no man shall possess that which
 is not his own."
 
-    On the 27th, <span id="fr_353"></span>[26](#fn_353) the president,
+    On the 27th, <span id="fr_353"></span>[26](#fn_353.md) the president,
 the apostles, and six others crossed a river which was afterward found
 to be the outlet of Utah Lake, and thence walked dry-shod over ground
 subsequently covered by ten feet of water to Black Rock, where all
 bathed in the lake, Brigham being the first to enter it. <span
-id="fr_354"></span>[27](#fn_354) The party returned to camp on the
+id="fr_354"></span>[27](#fn_354.md) The party returned to camp on the
 following day, when a council was held, after which the members walked
 to a spot midway between the north and south forks of a neighboring
 creek, where Brigham stopped, and striking the ground with his cane,
@@ -347,7 +347,7 @@ exclaimed, "Here will
 
 <span id="page_264">p. 264</span>
 
-be the temple of our God." <span id="fr_355"></span>[28](#fn_355) This
+be the temple of our God." <span id="fr_355"></span>[28](#fn_355.md) This
 was about five o'clock in the afternoon. An hour later it was agreed
 that a site should be laid out for a city in blocks or squares of ten
 acres, and in lots of an acre and a quarter, the streets to be eight
@@ -355,16 +355,16 @@ rods wide, with sidewalks of twenty feet.
 
     At eight o'clock on the same evening a meeting was held on the
 temple square, and it was decided by vote that on that spot the temple
-should be built, <span id="fr_356"></span>[29](#fn_356) and from that
+should be built, <span id="fr_356"></span>[29](#fn_356.md) and from that
 spot the city laid out.
 
     On the 29th of July a detachment of the battalion, which had
-wintered at Pueblo, <span id="fr_357"></span>[30](#fn_357) to the number
+wintered at Pueblo, <span id="fr_357"></span>[30](#fn_357.md) to the number
 of 150, under Captain James Brown, arrived in the valley; they were
 accompanied by fifty of the brethren who had started the year previous
 from the Mississippi. On the following evening a praise service for
 their safe arrival was held in the brush bowery, <span
-id="fr_358"></span>[31](#fn_358) hastily
+id="fr_358"></span>[31](#fn_358.md) hastily
 
 <span id="page_265">p. 265</span>
 
@@ -382,12 +382,12 @@ immersed, the services commencing at six o'clock in the morning. During
 the month twenty-nine log houses had been built, either with roofs or
 ready for the usual substitute, a covering of poles and dirt. These huts
 were so arranged as to carry out their plan of forming a rectangular
-stockade, <span id="fr_359"></span>[32](#fn_359) the president and Heber
+stockade, <span id="fr_359"></span>[32](#fn_359.md) the president and Heber
 C. Kimball being the first to take possession of their dwellings.
 
     On the 17th of August twenty-four pioneers and forty-six of the
 battalion set out on their return to Winter Quarters. <span
-id="fr_360"></span>[33](#fn_360)
+id="fr_360"></span>[33](#fn_360.md)
 
     On the afternoon of the 22d a conference was held, at which it was
 resolved that the place should be called the City of the Great Salt
@@ -402,8 +402,8 @@ was later known as Iron county, near Parowan, and which has since almost
 disappeared. The stream connecting the two great lakes was named the
 Western Jordan, now called the Jordan, and the whole region whose waters
 flow into the lake was distinguished as the great basin. <span
-id="fr_361"></span>[34](#fn_361) On the 26th a second company,
-consisting of 107 persons, <span id="fr_362"></span>[35](#fn_362)
+id="fr_361"></span>[34](#fn_361.md) On the 26th a second company,
+consisting of 107 persons, <span id="fr_362"></span>[35](#fn_362.md)
 started for Winter Quarters. Brigham Young and Heber C. Kimball set
 forth on horseback a little in advance of the others, but turning back,
 they waved their hats with a cheery "Good-by to all who tarry," and then
@@ -419,7 +419,7 @@ seven miles from the mountains, and of sun-dried bricks or adobes,
 surrounding ten acres of ground, forty rods of which were covered with
 block-houses, besides planting about ten acres of corn and vegetables.
 All this we have done in a single month." <span
-id="fr_363"></span>[36](#fn_363)
+id="fr_363"></span>[36](#fn_363.md)
 
  
 
@@ -428,18 +428,18 @@ the pioneers at the earliest opportunity. Throughout the spring all was
 activity. Every one who had teams and provisions to last a year and a
 half was preparing to move, and assisting those who were to remain to
 plough and sow. Parley P. Pratt, having returned <span
-id="fr_364"></span>[37](#fn_364) from England shortly
+id="fr_364"></span>[37](#fn_364.md) from England shortly
 
 <span id="page_267">p. 267</span>
 
 before Brigham's departure, was left in charge of the first companies
 ordered westward. On the 4th of July, 1847, they set forth for the Rocky
 Mountains, numbering in all 1,553 persons. <span
-id="fr_365"></span>[38](#fn_365)
+id="fr_365"></span>[38](#fn_365.md)
 
     A complete organization of the people was effected, according to a
 revelation of the Lord made through Brigham on the 14th of January,
-1847. <span id="fr_366"></span>[39](#fn_366) They were divided into
+1847. <span id="fr_366"></span>[39](#fn_366.md) They were divided into
 companies, each with one hundred wagons, and these into companies of
 fifty wagons, and ten wagons, every company under a captain or
 commander. Two fifties travelled in double columns if practicable. When
@@ -462,7 +462,7 @@ country and
 were easily alarmed. The organization and order in the camp was so
 perfect that not unfrequently half an hour after a halt the people sat
 down to a comfortable meal of fresh bread and broiled meat. <span
-id="fr_367"></span>[40](#fn_367)
+id="fr_367"></span>[40](#fn_367.md)
 
     At the beginning of their journey, jealousy, bickering, and
 insubordination arose among them, and a halt was called for the purpose
@@ -470,7 +470,7 @@ of holding a council and adjusting matters. For several hundred miles
 they followed the trail of the pioneers, and now were approaching the
 president and his men, who, encamped between Green River and the
 Sweetwater, had sent forward two messengers <span
-id="fr_368"></span>[41](#fn_368) to ascertain the progress and condition
+id="fr_368"></span>[41](#fn_368.md) to ascertain the progress and condition
 of the company. Upon hearing of the difficulties that had arisen,
 Brigham sent for Pratt and censured him severely for defects in the
 management of the party at the start, and for misunderstandings on the
@@ -483,11 +483,11 @@ reached the Salt Lake settlement on the 19th of September; the companies
 arriving in detachments at intervals of several weeks.
 
     Brigham's band was scantily provisioned for the journey to Winter
-Quarters. <span id="fr_369"></span>[42](#fn_369) The number that had
+Quarters. <span id="fr_369"></span>[42](#fn_369.md) The number that had
 already gathered at Salt Lake had drawn heavily on the pioneers'
 resources, and they set out depending for subsistence on game and fish.
 They travelled more rapidly in returning, <span
-id="fr_370"></span>[43](#fn_370) although most of them were *compelled*
+id="fr_370"></span>[43](#fn_370.md) although most of them were *compelled*
 to walk. A few days after the Indian depredation
 
 <span id="page_269">p. 269</span>
@@ -495,7 +495,7 @@ to walk. A few days after the Indian depredation
 mentioned during the council, the Mormons were attacked by a large war
 party of Sioux, who again carried off many horses. The meeting of the
 battalion and pioneer brethren with Parley Pratt's company was an
-occasion of rejoicing to all. <span id="fr_371"></span>[44](#fn_371) On
+occasion of rejoicing to all. <span id="fr_371"></span>[44](#fn_371.md) On
 the 7th of September the former arrived at the Sweetwater. Here, with
 the assembled companies, a jubilee was held and a feast of good things
 prepared. While the men cut down brush and constructed a bowery, the
@@ -505,7 +505,7 @@ was killed, and whatever luxuries were in camp were now produced. A
 slight snow fell, but in no degree marred their merriment; the feast was
 followed by music and dancing, and by accounts of the pioneers'
 experiences in entering upon and settling their new Zion; after prayer
-the company dispersed. <span id="fr_372"></span>[45](#fn_372) The
+the company dispersed. <span id="fr_372"></span>[45](#fn_372.md) The
 remnants of the banquet were left with the eastern-bound train, and as
 they separated each bade the other God speed. A fortnight before
 reaching Winter Quarters a small delegation met Brigham's company with
@@ -514,7 +514,7 @@ the settlement, Brigham called his men together, praised them for their
 good conduct, blessed and dismissed them. They drove into town in order
 an hour before sunset. The streets were crowded, and friends pressed
 forward, shaking hands as they passed through the lines. <span
-id="fr_373"></span>[46](#fn_373)
+id="fr_373"></span>[46](#fn_373.md)
 
  
 
@@ -545,7 +545,7 @@ zinc, their tin, and brass, and iron, and choice steel, and ivory, and
 precious stones; their curiosities of science,…or anything that ever
 was, or is, or is to be for the exaltation, glory, honor, and salvation
 of the living and the dead, for time and for all eternity." <span
-id="fr_374"></span>[47](#fn_374)
+id="fr_374"></span>[47](#fn_374.md)
 
     Such a gathering of saints and gentiles would of itself have
 constituted an earthly Zion, especially for the president and the
@@ -580,9 +580,9 @@ length established for them an abiding-place.
 
     After the departure of Brigham from Salt Lake, John Smith, the
 prophet's uncle, was nominally president of the camp; <span
-id="fr_375"></span>[48](#fn_375) but upon the arrival of John Taylor and
+id="fr_375"></span>[48](#fn_375.md) but upon the arrival of John Taylor and
 Parley P. Pratt their precedence was acknowledged and they were placed
-in charge. <span id="fr_376"></span>[49](#fn_376) There were no laws
+in charge. <span id="fr_376"></span>[49](#fn_376.md) There were no laws
 until the latter part of this year, though certain penalties were
 assigned for certain crimes and executed by the people. As there was no
 jail, the whipping-post was substituted, but used only two or three
@@ -591,9 +591,9 @@ times. In such cases the high council tried the
 <span id="page_272">p. 272</span>
 
 prisoner, and sentenced him. "President Young was decidedly opposed to
-whipping," <span id="fr_377"></span>[50](#fn_377) says George Q. Cannon,
+whipping," <span id="fr_377"></span>[50](#fn_377.md) says George Q. Cannon,
 "but matters arose that we considered required punishment at the
-time." <span id="fr_378"></span>[51](#fn_378)
+time." <span id="fr_378"></span>[51](#fn_378.md)
 
     During this period men and women voted by ballot in matters relating
 to government. Women had already voted in religious meetings by the
@@ -601,7 +601,7 @@ uplifted hand, but this is probably the first instance in the United
 States where woman suffrage was permitted. Utah at that time, however,
 was not a part of the United States, and before its admission as a
 territory the privilege was withdrawn. <span
-id="fr_379"></span>[52](#fn_379)
+id="fr_379"></span>[52](#fn_379.md)
 
 <span id="page_273">p. 273</span>
 
@@ -669,20 +669,20 @@ to that of Council Bluffs.
 
 ### Footnotes
 
-<span id="fn_328"></span>[253:1](hou13.htm#fr_328) The octagon house of
+<span id="fn_328"></span>[253:1](hou13.htm#fr_328.md) The octagon house of
 Dr Richards in which the council met is described as a queer-looking
 thing, much resembling a New England potato-heap in time of frost.
 'Council voted a load of wood for each day they met in his house.'
 *Hist. B. Young*, MS., 1847, 2.
 
-<span id="fn_329"></span>[253:2](hou13.htm#fr_329) *Woodruff's Journal*,
+<span id="fn_329"></span>[253:2](hou13.htm#fr_329.md) *Woodruff's Journal*,
 MS., Apr. 17, 1847.
 
-<span id="fn_330"></span>[253:3](hou13.htm#fr_330) John Taylor, Parley
+<span id="fn_330"></span>[253:3](hou13.htm#fr_330.md) John Taylor, Parley
 Pratt, and Orson Hyde were engaged in missionary work abroad. *Pratt's
 Autobiog*., 383.
 
-<span id="fn_331"></span>[253:4](hou13.htm#fr_331) The impression was
+<span id="fn_331"></span>[253:4](hou13.htm#fr_331.md) The impression was
 that they would reach as soon as possible 'the foot of the mountains
 somewhere in the region of the Yellowstone River, perhaps at the fork of
 Tongue River, say 2 days' ride north of the Oregon road, and a week's
@@ -704,17 +704,17 @@ as to the definite point of our destination, all he could say to them
 was, that he would know it when he should see it.' Erastus Snow, in
 *Utah Pioneers, 33d ann*., 44.
 
-<span id="fn_332"></span>[255:5](hou13.htm#fr_332) *Woodruff's Journal*,
+<span id="fn_332"></span>[255:5](hou13.htm#fr_332.md) *Woodruff's Journal*,
 MS., April 19, 1847. On May 4th they 'established a post-office and
 guide system for the benefit of the next camp following. Every ten
 miles…we put up a guide-board.'
 
-<span id="fn_333"></span>[255:6](hou13.htm#fr_333) 'I have told the few
+<span id="fn_333"></span>[255:6](hou13.htm#fr_333.md) 'I have told the few
 who did not belong to the church that they were not at liberty to
 introduce cards, dancing, or iniquity of any description.' *Hist. B.
 Young*, MS., 1847, 90.
 
-<span id="fn_334"></span>[255:7](hou13.htm#fr_334) Fort John, or
+<span id="fn_334"></span>[255:7](hou13.htm#fr_334.md) Fort John, or
 Laramie, was occupied by 'James Bordeaux and about eighteen French
 half-breeds and a few Sioux…There had been no rain for the last two
 years…Two or three of us visited Mr Bordeaux at the fort. <span
@@ -723,13 +723,13 @@ ferry-boat. Mr Bordeaux said that this was the most civil and
 best-behaved company that had ever passed the fort.' *Id*., MS., 1847,
 91.
 
-<span id="fn_335"></span>[256:8](hou13.htm#fr_335) Snow, in *Utah
+<span id="fn_335"></span>[256:8](hou13.htm#fr_335.md) Snow, in *Utah
 Pioneers*, 44. 'Capt. Grover and eight others of the pioneers were left
 at North Platte ferry and ford to ferry the companies that should
 arrive, and especially to ferry the emigration from Winter Quarters.'
 *Hist. B. Young*, MS., 1847.
 
-<span id="fn_336"></span>[256:9](hou13.htm#fr_336) 'Making a new road
+<span id="fn_336"></span>[256:9](hou13.htm#fr_336.md) 'Making a new road
 for a majority of more than one thousand miles westward, they arrived at
 the great basin in the latter part of July.' *General Epistle of the
 Twelve, in Millennial Star*, x. 82. 'He \[Brigham\] and the company
@@ -743,15 +743,15 @@ over the Black Hills, except very rarely. For a short distance before
 reaching the Sweetwater, we saw a wagon truck; it was a great surprise
 and a great curiosity.' *Hist. B. Young*, MS., 1848, 7.
 
-<span id="fn_337"></span>[256:10](hou13.htm#fr_337) *Hist. B. Young*,
+<span id="fn_337"></span>[256:10](hou13.htm#fr_337.md) *Hist. B. Young*,
 MS., 1847, 95; *Tullidge's Life of Young*, 166.
 
-<span id="fn_338"></span>[257:11](hou13.htm#fr_338) 'I exclaimed,
+<span id="fn_338"></span>[257:11](hou13.htm#fr_338.md) 'I exclaimed,
 "Hosanna! hosanna! give glory to God and the lamb, amen!" in which they
 all joined.' *Hist. B. Young*, MS., 1847, 96. 'Left Phineas Young and
 four others, who had volunteered to return to guide the immigrants.'
 
-<span id="fn_339"></span>[257:12](hou13.htm#fr_339) *Smith's Rise,
+<span id="fn_339"></span>[257:12](hou13.htm#fr_339.md) *Smith's Rise,
 Progress, and Travels*, 16. 'For,' says the author, 'no one knew
 anything of the country.' Snow, in *Utah Pioneers, 33d ann*., 44,
 remarks: 'The president said we were to travel "the way the spirit of
@@ -780,13 +780,13 @@ of this country. Bridger considered it imprudent to bring a large
 population into the great basin until it was ascertained that grain
 could be raised.'
 
-<span id="fn_340"></span>[257:13](hou13.htm#fr_340) 'We had to stop at
+<span id="fn_340"></span>[257:13](hou13.htm#fr_340.md) 'We had to stop at
 Yellow Creek and again at the head of Echo Cañon, stopping and
 travelling as the sick were able to endure the journey, until we reached
 the Weber at the mouth of Echo Cañon, and shuck our camp a fear miles
 below, the present railroad station.' *Utah Pioneers, 33d ann*., 45.
 
-<span id="fn_341"></span>[258:14](hou13.htm#fr_341) 'Voted, that Orson
+<span id="fn_341"></span>[258:14](hou13.htm#fr_341.md) 'Voted, that Orson
 Pratt take charge of an expedition to go on and make a road down the
 Weber River.' *Hist. B. Young*, MS., 1847, 97. O. Pratt was appointed to
 take 23 wagons and 42 men, and precede the main company. *Church
@@ -799,7 +799,7 @@ spoke feebly,…"My impressions are," said he, "that when you emerge from
 the mountains into the open country you bear to the northward, and stop
 at the first convenient place for putting in your seed."'
 
-<span id="fn_342"></span>[258:15](hou13.htm#fr_342) 'The emigration
+<span id="fn_342"></span>[258:15](hou13.htm#fr_342.md) 'The emigration
 route previous to 1847 was via Laramie through South Pass to Big Sandy
 River. Then to avoid a desert stretch, down the Big Sandy to its
 junction with Green River, and across, then up Black's Fork to junction
@@ -825,39 +825,39 @@ question of passes and routes in early times. The author, one of the
 first to enter Utah, was second to none in ability and position at a
 later period.
 
-<span id="fn_343"></span>[260:16](hou13.htm#fr_343) Geo. A. Smith says
+<span id="fn_343"></span>[260:16](hou13.htm#fr_343.md) Geo. A. Smith says
 in his autobiography that on this journey he walked 1,700 miles and rode
 some 800 miles on horseback. He had 25 lbs of flour, which he used by
 the cupful for those who were ill; for six weeks he was without bread,
 and like the rest of the company, lived on buffalo meat and other game.
 
-<span id="fn_344"></span>[261:17](hou13.htm#fr_344) Parley was always
+<span id="fn_344"></span>[261:17](hou13.htm#fr_344.md) Parley was always
 quite popular among the brethren, though his judgment was not always the
 best.
 
-<span id="fn_345"></span>[261:18](hou13.htm#fr_345) 'My poor mother was
+<span id="fn_345"></span>[261:18](hou13.htm#fr_345.md) 'My poor mother was
 heart-broken because there were no trees to be seen; I don't remember a
 tree that could be called a tree.' *Clara Young s Experiences*, MS., 5.
 
-<span id="fn_346"></span>[261:19](hou13.htm#fr_346) 'July 23d, 96° Fah.
+<span id="fn_346"></span>[261:19](hou13.htm#fr_346.md) 'July 23d, 96° Fah.
 A company commenced mowing the grass and preparing a turnip-patch.'
 *Hist. B. Young*, MS., 1847, 99.
 
-<span id="fn_347"></span>[262:20](hou13.htm#fr_347) *Hist. B. Young*,
+<span id="fn_347"></span>[262:20](hou13.htm#fr_347.md) *Hist. B. Young*,
 MS., 1847, 99.
 
-<span id="fn_348"></span>[262:21](hou13.htm#fr_348) Woodruff, in *Utah
+<span id="fn_348"></span>[262:21](hou13.htm#fr_348.md) Woodruff, in *Utah
 Pioneers*, 1880, 23. See also *Wroodruff's Journal*, MS.; *Clara Young's
 Experiences*, MS.; *Utah Early Record*, MS.; *Pioneer Women*, MS.;
 *Taylor's Rem*., MS.
 
-<span id="fn_349"></span>[262:22](hou13.htm#fr_349) 'I had brought a
+<span id="fn_349"></span>[262:22](hou13.htm#fr_349.md) 'I had brought a
 bushel of potatoes with me, and I resolved that I would neither eat nor
 drink until I had planted them.' Woodruff, in *Utah Pioneers*, 1880, 23.
 'I planted the first potato…in Salt Lake Valley,' says Geo. A. Smith in
 his autobiography.
 
-<span id="fn_350"></span>[262:23](hou13.htm#fr_350) Mrs Clara Decker
+<span id="fn_350"></span>[262:23](hou13.htm#fr_350.md) Mrs Clara Decker
 Young speaks of the distress she suffered at leaving Winter Quarters,
 where there were so many people and life so social; but that when she
 finally reached her destination she was satisfied. 'It didn't look so
@@ -865,7 +865,7 @@ dreary to me as to the other two ladies. They were terribly disappointed
 because there were no trees, and to them there was such a sense of
 desolation and loneliness.' *Experience of a Pioneer Woman*, MS., 5.
 
-<span id="fn_351"></span>[262:24](hou13.htm#fr_351) 'The Indians made a
+<span id="fn_351"></span>[262:24](hou13.htm#fr_351.md) 'The Indians made a
 corral twelve or fifteen feet square, fenced about with sage brush and
 grease-wood, and with branches of the same drove them into the
 enclosure. Then they set fire to the brush fence, and going amongst
@@ -874,25 +874,25 @@ thousand, rubbed off their wings and legs, and after two or three days
 separated the meat, which was, I should think, an ounce or half an ounce
 of fat to each cricket.' *Early Experiences of Lorenzo Young*, MS., 4.
 
-<span id="fn_352"></span>[263:25](hou13.htm#fr_352) 'Taylor and Pratt
+<span id="fn_352"></span>[263:25](hou13.htm#fr_352.md) 'Taylor and Pratt
 took the lead; through them this understanding about the timber
 occurred.' *Nebeker's Early Justice*, MS., 4.
 
-<span id="fn_353"></span>[263:26](hou13.htm#fr_353) On Monday, the 26th,
+<span id="fn_353"></span>[263:26](hou13.htm#fr_353.md) On Monday, the 26th,
 the president and his apostles ascended Ensign Peak, so called on
 account of a remark made by Brigham: 'Here is a proper place to raise an
 ensign to the nations.' *Ibid*. See also *Utah Early Records*, MS., 4;
 *Woodruff's Journal*, MS.; *Nebeker's Early Justice*, MS. Woodruff was
 the first who stood on the top of the peak.
 
-<span id="fn_354"></span>[263:27](hou13.htm#fr_354) On this day was
+<span id="fn_354"></span>[263:27](hou13.htm#fr_354.md) On this day was
 commenced the first blacksmith's shop, the property of Burr Frost.
 
-<span id="fn_355"></span>[264:28](hou13.htm#fr_355) 'This was about the
+<span id="fn_355"></span>[264:28](hou13.htm#fr_355.md) 'This was about the
 centre of the site of the Temple we are now building.' *Utah Pioneers,
 33d ann*., 23.
 
-<span id="fn_356"></span>[264:29](hou13.htm#fr_356) 'Some wished for
+<span id="fn_356"></span>[264:29](hou13.htm#fr_356.md) 'Some wished for
 forty acres to be set apart for temple purposes, but it was finally
 decided to have ten acres;…the base line was on the south-east corner,
 and government officials afterward adopted it as the base meridian
@@ -913,7 +913,7 @@ be called respectively North, South, East, arid West Temple streets, the
 others to be named, as required, First North street, Second North
 street, First South street, Second South street, etc.
 
-<span id="fn_357"></span>[264:30](hou13.htm#fr_357) Says Mrs Clara
+<span id="fn_357"></span>[264:30](hou13.htm#fr_357.md) Says Mrs Clara
 Young: 'Before reaching Laramie three of tire pioneers were sent to
 Pueblo to tell the families there to strike their trail and follow them
 to their settlement.' *Ex. of a Pioneer Woman*, MS., 7. 'The men of this
@@ -921,7 +921,7 @@ detachment were on their way to San Francisco, but their wagons breaking
 down and their cattle being in very poor condition, they were compelled
 to turn aside and await further orders.' *Utah Early Records*, MS., 8.
 
-<span id="fn_358"></span>[264:31](hou13.htm#fr_358) For many years these
+<span id="fn_358"></span>[264:31](hou13.htm#fr_358.md) For many years these
 boweries of trees and brush had been constructed when any large number
 of the people needed a temporary place of shelter. This one was 40 × 28
 feet. Col Markham reported at this meeting 'that 13 ploughs and 3
@@ -937,7 +937,7 @@ south-east of the stockade, and the highest mountain in the Wasatch
 Range, its elevation being, as they reported, 11,219 feet. These were
 probably the first white men who ascended this mountain.
 
-<span id="fn_359"></span>[265:32](hou13.htm#fr_359) They were 8 or 9
+<span id="fn_359"></span>[265:32](hou13.htm#fr_359.md) They were 8 or 9
 feet high, and 16 or 17 feet long, by 14 wide. *Hist. B. Young*, MS.,
 1847, 110. 'We were the first to move into the fort; our house had a
 door and a wooden window, which through the day was taken out for light,
@@ -946,21 +946,21 @@ fort, which could be opened and closed at pleasure…We had adobe chimneys
 and a fire-place in the corner, with a clay hearth.' *Young's Pioneer
 Women*, MS., 6.
 
-<span id="fn_360"></span>[265:33](hou13.htm#fr_360) 'With 34 wagons, 92
+<span id="fn_360"></span>[265:33](hou13.htm#fr_360.md) 'With 34 wagons, 92
 yoke of oxen, 18 horses, and 14 mules, in charge of Shadrach Roundy and
 Tunis Rappelye. Lt Wesley Willis was in charge of the battalion men.'
 *Richards’ Narr*., MS., 13-14.
 
-<span id="fn_361"></span>[266:34](hou13.htm#fr_361) 'It was also called
+<span id="fn_361"></span>[266:34](hou13.htm#fr_361.md) 'It was also called
 The Great North American Desert.' *Taylor's Rem*., MS., 22.
 
-<span id="fn_362"></span>[266:35](hou13.htm#fr_362) With 36 wagons, 71
+<span id="fn_362"></span>[266:35](hou13.htm#fr_362.md) With 36 wagons, 71
 horses, and 49 mules.
 
-<span id="fn_363"></span>[266:36](hou13.htm#fr_363) *Woodruff's
+<span id="fn_363"></span>[266:36](hou13.htm#fr_363.md) *Woodruff's
 Journal*, MS., 78.
 
-<span id="fn_364"></span>[266:37](hou13.htm#fr_364) 'I found my family
+<span id="fn_364"></span>[266:37](hou13.htm#fr_364.md) 'I found my family
 all alive and dwelling in a log cabin; they had, howerver, suffered much
 from cold, hunger, and sickness…The winter had been <span
 id="page_267">p. 267</span> very severe, the snow deep, and consequently
@@ -971,7 +971,7 @@ were organized by Elder P. P. Pratt and myself, as near as we could in
 accordance with instructions left by Pres. Young.' *Taylor's Rem*., MS.,
 7.
 
-<span id="fn_365"></span>[267:38](hou13.htm#fr_365) This company is
+<span id="fn_365"></span>[267:38](hou13.htm#fr_365.md) This company is
 distinguished as the first immigration. It was supplied with 580 wagons,
 2,213 oxen, 124 horses, 887 cows, 358 sheep, 716 chickens, and 35 hogs.
 *Utah Early Records*, MS., 17. Smith says about 700 wagons. *Rise,
@@ -979,66 +979,66 @@ Progress, and Travels*, 16. Kearny's and Frémont's parties met Pratt's
 companies at Loup River; and according to *Martin's Narr., '42 in Cal*.,
 MS., 122, John Young was appointed president and John Van Cott marshal.
 
-<span id="fn_366"></span>[267:39](hou13.htm#fr_366) This was called 'the
+<span id="fn_366"></span>[267:39](hou13.htm#fr_366.md) This was called 'the
 word and will of the Lord concerning the camp of Israel.' Like all
 revelations, it was in scriptural phraseology, and very explicit in its
 directions. It was also read by Brigham to his people in Salt Lake City
 on the 1st of August.
 
-<span id="fn_367"></span>[268:40](hou13.htm#fr_367) From account of
+<span id="fn_367"></span>[268:40](hou13.htm#fr_367.md) From account of
 their journeyings furnished me in *Taylor's Rem*., 7-12.
 
-<span id="fn_368"></span>[268:41](hou13.htm#fr_368) O. P. Rockwell and
+<span id="fn_368"></span>[268:41](hou13.htm#fr_368.md) O. P. Rockwell and
 E. T. Benson.
 
-<span id="fn_369"></span>[268:42](hou13.htm#fr_369) Among them was a
+<span id="fn_369"></span>[268:42](hou13.htm#fr_369.md) Among them was a
 party of battalion men who were entirely destitute except for a very
 small quantity of beef, which was soon exhausted. General Epistle of the
 Twelve, in *Millennial Star*, x. 83.
 
-<span id="fn_370"></span>[268:43](hou13.htm#fr_370) 'Camped on the south
+<span id="fn_370"></span>[268:43](hou13.htm#fr_370.md) 'Camped on the south
 side of the Platte. We were 42 days in going to the valley from this
 point, and only 23 days in returning.' *Hist. B. Young*, MS., 1847, 115.
 
-<span id="fn_371"></span>[269:44](hou13.htm#fr_371) 'Met Spencer's
+<span id="fn_371"></span>[269:44](hou13.htm#fr_371.md) 'Met Spencer's
 advance company Sept. 3d, with 76 wagons; we had a joyful meeting; on
 the 4th met encampment of 75 wagons; on the 5th 162; and on the 8th met
 the last company of saints.' *Hist. B. Young*, MS., 1847.
 
-<span id="fn_372"></span>[269:45](hou13.htm#fr_372) 'All felt greatly
+<span id="fn_372"></span>[269:45](hou13.htm#fr_372.md) 'All felt greatly
 encouraged. We now knew for the first time our destination; we had
 talked of California, and knew not until now where we should settle.'
 *Horne's Migrations*, MS., 22.
 
-<span id="fn_373"></span>[269:46](hou13.htm#fr_373) 'We were truly
+<span id="fn_373"></span>[269:46](hou13.htm#fr_373.md) 'We were truly
 rejoiced once more to behold our wives, children, and old friends, after
 an absence of six months, having travelled over 2,000 miles… and
 accomplished the most important mission in this last dispensation.'
 *Hist. B. Young*, MS., 1847, 122.
 
-<span id="fn_374"></span>[270:47](hou13.htm#fr_374) The full text of
+<span id="fn_374"></span>[270:47](hou13.htm#fr_374.md) The full text of
 this epistle is given in the *Millennial Star*, x. 81-8.
 
-<span id="fn_375"></span>[271:48](hou13.htm#fr_375) Affairs were
+<span id="fn_375"></span>[271:48](hou13.htm#fr_375.md) Affairs were
 controlled by the high council, consisting of twelve high-priests. Salt
 Lake City was a stake of Zion, with president and other officers. 'At
 the conference on Oct. 3d Father John Smith was elected president of the
 stake of Zion and patriarch of the church. Brigham Young was sustained
 as president of the whole church.' *Hist. B. Young*, MS., 117.
 
-<span id="fn_376"></span>[271:49](hou13.htm#fr_376) *Nebeker's Early
+<span id="fn_376"></span>[271:49](hou13.htm#fr_376.md) *Nebeker's Early
 Justice*, MS., 4.
 
-<span id="fn_377"></span>[272:50](hou13.htm#fr_377) 'I had to chastise
+<span id="fn_377"></span>[272:50](hou13.htm#fr_377.md) 'I had to chastise
 one in that way for stealing.' *Id*., MS., 4.
 
-<span id="fn_378"></span>[272:51](hou13.htm#fr_378) 'For instance, one
+<span id="fn_378"></span>[272:51](hou13.htm#fr_378.md) 'For instance, one
 of our best men now, who was then young, was accused of riding on
 horseback with a girl in front of him. This was looked upon as
 indecorous. He and others guilty of the same thing were severely
 reprimanded.' G. Q. Cannon, in *Taylor's Rem*., MS., 12-13.
 
-<span id="fn_379"></span>[272:52](hou13.htm#fr_379) *Taylor's Rem*.,
+<span id="fn_379"></span>[272:52](hou13.htm#fr_379.md) *Taylor's Rem*.,
 MS., 14. Herewith I give a list of the Utah pioneers of 1847: Adams,
 Barnabas L.; Angel, Truman O.; Allen, Rufus; Attwood, Millen; Badger,
 Rodney; Barney, Lewis; Barnham, Charles D.; Benson, Ezra T.; Billings,
@@ -1081,4 +1081,4 @@ Young, Lorenzo Z.; Young, Phineas H.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. In The Valley of The Great Salt Lake. 1848.](hou14)
+[Next: Chapter XI. In The Valley of The Great Salt Lake. 1848.](hou14.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub06) 
-[Next](jub08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub06.md) 
+[Next](jub08.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ writer as our author a member of the Pharisaic party. For that party
 arose from the ranks of the people. It was essentially a lay movement,
 and it championed popular religious, as opposed to priestly, tradition.
 All this has been instinctively felt by the Jewish scholars <span
-id="fr_26"></span>[1](#fn_26) who have discussed the problems connected
+id="fr_26"></span>[1](#fn_26.md) who have discussed the problems connected
 with the authorship and general character of our Book. By these scholars
 our Book has been variously ascribed to Essene (Jellinek, 1855),
 Samaritan (Beer, 1856-7), Hellenist (Frankel, 1856), and
@@ -29,7 +29,7 @@ Jewish-Christian (Singer, 1898) authorship. None of these views is
 entirely satisfactory. None can be said for the view that the author
 belonged to the party--if party it can be called--of the Hasidim
 ("Assideans" or "Hasideans") who are referred to in I Maccabees. <span
-id="fr_27"></span>[2](#fn_27)
+id="fr_27"></span>[2](#fn_27.md)
 
 <span id="page_xxx">p. xxx</span>
 
@@ -46,11 +46,11 @@ countenanced the claim that the priests should exercise civil rule,
 while, as we have seen, the author of *Jubilees* distinctly takes up
 this position, and appears to have been an admirer of the Maccabean
 Priest-Princes--at any rate, of John Hyrcanus <span
-id="fr_28"></span>[1](#fn_28) and Simon Maccabæus. Still there is a
+id="fr_28"></span>[1](#fn_28.md) and Simon Maccabæus. Still there is a
 certain affinity between our author and the Hasidim, and if he was not
 actually a "Hasid," he may very well have been in sympathy with members
 of that party in fundamental religious positions. Recently
-Leszyrisky, <span id="fr_29"></span>[2](#fn_29) has maintained the
+Leszyrisky, <span id="fr_29"></span>[2](#fn_29.md) has maintained the
 thesis that *Jubilees* was written by a Sadducean author, and, it must
 be admitted, makes out a strong case. Unfortunately, scholars are not
 yet agreed as to the real character and position of the Sadducean party,
@@ -143,23 +143,23 @@ of the second century B.C.
 
 ### Footnotes
 
-<span id="fn_26"></span>[xxix:1](jub07.htm#fr_26) With the distinguished
+<span id="fn_26"></span>[xxix:1](jub07.htm#fr_26.md) With the distinguished
 exception of Dr. K. Kohler (in *JE*, s.v. *Jubilees*), who accepts
 Charles's view, though he suggests that the book may reflect early
 Hasidæan practice.
 
-<span id="fn_27"></span>[xxix:2](jub07.htm#fr_27) Cf. 1 Macc. vii.
+<span id="fn_27"></span>[xxix:2](jub07.htm#fr_27.md) Cf. 1 Macc. vii.
 
-<span id="fn_28"></span>[xxx:1](jub07.htm#fr_28) It is true that John
+<span id="fn_28"></span>[xxx:1](jub07.htm#fr_28.md) It is true that John
 Hyrcanus favoured the Pharisees, according to Josephus (*Ant.*, xiii.
 10, 5), who even speaks of him as their "disciple." But this probably
 means no more than that he adopted a conciliatory attitude towards them.
 He also had intimate friends among the Sadducees (Josephus, Ant., xiii.
 10, 6).
 
-<span id="fn_29"></span>[xxx:2](jub07.htm#fr_29) *Die Sadduzäer* (1912),
+<span id="fn_29"></span>[xxx:2](jub07.htm#fr_29) *Die Sadduzäer* (1912.md),
 pp. 179-236.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](jub08)
+[Next: Bibliography](jub08.md)

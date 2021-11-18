@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap03) 
-[Next](chap05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap03.md) 
+[Next](chap05.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ such a one!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5: Relating to the Act of Generation](chap05)
+[Next: Chapter 5: Relating to the Act of Generation](chap05.md)

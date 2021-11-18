@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml24)  [Next](tml26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml24)  [Next](tml26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ began to ravage his country with
 
 <span id="page_211">p. 211</span>
 
-fire. Alone did the monarch combat [against](errata.htm#2) it, and in
+fire. Alone did the monarch combat [against](errata.htm#2.md) it, and in
 the end was the victor. But he paid life's cost for his triumph.
 
 Now the dragon had its dwelling in a secret cavern beneath a grey rock,
@@ -173,7 +173,7 @@ consuming flame.
 
 "I shall draw not back a foot's space," he said boldly and with calm
 demeanour, "nor shall I flee before the watcher of treasure; before the
-rock it shall be as Wyrd <span id="fr_40"></span>[1](#fn_40)
+rock it shall be as Wyrd <span id="fr_40"></span>[1](#fn_40.md)
 decrees--Wyrd who measures out a man's life. . . . Ready am I, and I
 boast not before the dragon. . . . Ye warriors in armour, watch ye from
 the mound, so that ye may perceive which of us is best able to survive
@@ -264,7 +264,7 @@ PASSAGE-GRAVE AT UBY, DENMARK&lt;br&gt; The hiding place of Grendel--the
 dragon's den--was almost certainly a forgotten passage-grave, the
 treasure being the original gifts to the dead chieftain buried
 there](tn/21600.jpg)  
-Click to enlarge](img/21600.jpg)  
+Click to enlarge](img/21600.jpg.md)  
 ENTRANCE TO PASSAGE-GRAVE AT UBY, DENMARK  
 The hiding place of Grendel--the dragon's den--was almost certainly a
 forgotten passage-grave, the treasure being the original gifts to the
@@ -368,7 +368,7 @@ was in the hoard--and there the riches lie now of as little use to men
 as ever they were.
 
 Twelve horsemen rode round the great mound on Hronesness <span
-id="fr_41"></span>[1](#fn_41) lamenting for their lord. All the people
+id="fr_41"></span>[1](#fn_41.md) lamenting for their lord. All the people
 sorrowed together, and they said that Beowulf was of all the world's
 kings and of men the mildest and most gracious, the kindest unto his
 people and the keenest for their praise.
@@ -394,7 +394,7 @@ Of which the matter of his huge desire
 And pompous pride eftsoons he did compound;  
 Then Avarice gan through his veins inspire  
 His greedy flames, and kindled life-devouring fire.  
-"Son," said he <span id="fr_42"></span>[1](#fn_42) then, "let be thy
+"Son," said he <span id="fr_42"></span>[1](#fn_42.md) then, "let be thy
 bitter scorn,  
 And leave the rudeness of that antique age  
 To them, that lived therein in state forlorn.  
@@ -408,9 +408,9 @@ Thy works for wealth, and life for gold engage."
 
 ### Footnotes
 
-<span id="fn_40"></span>[214:1](tml25.htm#fr_40) Urd.
+<span id="fn_40"></span>[214:1](tml25.htm#fr_40.md) Urd.
 
-<span id="fn_41"></span>[219:1](tml25.htm#fr_41) Hronesness is
+<span id="fn_41"></span>[219:1](tml25.htm#fr_41.md) Hronesness is
 translated "Whales' Ness" by some: others incline to the mythological
 rendering, Ran's Ness. Rydberg in this connection shows that Rhind's
 son, Vale, the wolf slayer, is called, by Saxo, Bous, the Latinized form
@@ -418,9 +418,9 @@ for Beowulf. Stopford Brooke shows that Hronesness is next to Earnaness,
 Eagle's Ness, and considers that "the unmythological explanation is
 plainly right"."
 
-<span id="fn_42"></span>[220:1](tml25.htm#fr_42) Mammon (Mimer) to the
+<span id="fn_42"></span>[220:1](tml25.htm#fr_42) Mammon (Mimer.md) to the
 knight Guyon.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. Hother and Balder](tml26)
+[Next: Chapter XXI. Hother and Balder](tml26.md)

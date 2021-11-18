@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes53)  [Next](tes55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes53)  [Next](tes55.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ village of Nishne-Kolymsk, the Kolyma country, summer of 1896.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Story of an Old Woman and her Three Daughters](tes55)
+[Next: 1. Story of an Old Woman and her Three Daughters](tes55.md)

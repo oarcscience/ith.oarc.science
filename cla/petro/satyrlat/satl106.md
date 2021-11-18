@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat14.htm#CVI)  [Previous](satl105) 
-[Next](satl107) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat14.htm#CVI)  [Previous](satl105.md) 
+[Next](satl107.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ contione proscripta sit. &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: CVII](satl107)
+[Next: CVII](satl107.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa11)  [Next](awa13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa11)  [Next](awa13.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ possession of such strong-minded ladies. This is very encouraging.
 
 ------------------------------------------------------------------------
 
-[Next: Music](awa13)
+[Next: Music](awa13.md)

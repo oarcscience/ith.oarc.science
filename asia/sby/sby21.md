@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby20)  [Next](sby22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby20)  [Next](sby22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ denies the truth; *Mushrik* is one who ascribes companions to God;
 asserts his belief in the doctrine of dualism; *Munafik* is one who
 secretly disbelieves in the mission of Mohammed; *Dahri* is an atheist;
 *Watani* is a pagan or idolator; and finally *Murtadd* is one who
-apostasizes from [Islam](errata.htm#13). The Yezidis are put in the
+apostasizes from [Islam](errata.htm#13.md). The Yezidis are put in the
 category of those who, after once accepting the religion of Islam, later
 rejected it.
 
@@ -48,13 +48,13 @@ Mosulian goes
 on to say, "God tried him (*i.e.*, ‘Adî) by a calamity, to wit, the
 appearance of Al-Murtaddoon, called the Yezidis because they pretended
 to have been descended from Yezid. <span
-id="fr_114"></span>[43](#fn_113) Another Mohammedan scholar that
+id="fr_114"></span>[43](#fn_113.md) Another Mohammedan scholar that
 mentions these people is Yasin Al-Ḫatib-al-‘Omari-al Mausili. Writing on
 Šeiḫ ‘Adî, and praising him as the former writer does, he says, "He was
 versed in the knowledge of the divine law. God tried him by a calamity
 by raising up the Yezidis, who pretend that this Šeiḫ is God, and who
 have made his tomb the object of their pilgrimage. <span
-id="fr_115"></span>[44](#fn_114)
+id="fr_115"></span>[44](#fn_114.md)
 
 While these authors throw some light on the subject that the sect in
 question derives its appellation from a historic person, they leave us
@@ -78,7 +78,7 @@ exception of Al-Abaḍia, for with these he kept friendship. He believed
 that God would send an apostle from among the Persians and would reveal
 to him a book that is already written in heaven, and would reveal the
 whole (book) to him at one time, <span
-id="fr_116"></span>[45](#fn_115)and as a result he would leave the law
+id="fr_116"></span>[45](#fn_115.md)and as a result he would leave the law
 of Mohammed, the Chosen One, may God bless and save him!--and follow the
 religion of the Sabians mentioned in the Koran. But these are not the
 Sabians who are found in Ḥaran and Wasit. But Yezid kept friendship with
@@ -87,7 +87,7 @@ though they did not accept his (Mohammed's) religion. And he said that
 the followers of the ordinances are among those who agree with him; but
 that others are hiding the truth and give companions to god and that
 every sin, small or great, is idolatry. <span
-id="fr_117"></span>[46](#fn_116)
+id="fr_117"></span>[46](#fn_116.md)
 
 It is clear, then, that Aš-Šahrastani finds the religious origin of this
 interesting people in the person of Yezîd bn Unaisa. He calls them his
@@ -123,9 +123,9 @@ question was one of Al-Ḫawarij, and their principle is expressly
 attributed to him: every sin, small or great, is idolatry. According to
 this it might be inferred that the Yezidis were originally a Ḫarijite
 sub-sect. They still hold to the Ḫarijite principle. (Cf. their position
-to the Ottoman Government, pp. [71](sby13.htm#page_71)-74). As we said
+to the Ottoman Government, pp. [71](sby13.htm#page_71)-74.md). As we said
 some Mohammedan writers other than Ashahr-Astani also (pp.
-[118](#page_118)-119) regard them as apostate Moslems, Aš-Šahrastani
+[118](#page_118)-119.md) regard them as apostate Moslems, Aš-Šahrastani
 himself classes them with the Moslem heretics. Now Al-Ḫawarij were the
 first to rebel against ‘Ali at Ḥaroora, a certain suburb of Al-Koofa,
 
@@ -137,7 +137,7 @@ government belongs only to God. And one sect of Al-Ḫawarij was
 An-Nâṣibiyah who made it a matter of religious obligation to bear a
 violent hatred to ‘Ali. Such is the place of bn Unaisa among the Moslem
 heretics, but this is only one side of his religious system. <span
-id="fr_118"></span>[47](#fn_117)
+id="fr_118"></span>[47](#fn_117.md)
 
 There is another side to Yezid's doctrine. He held that God would send
 an apostle from Persia, to whom he would reveal a book already written
@@ -183,8 +183,8 @@ Adam; while others said they resembled the Christians, except that their
 *Kamûs* it ii said that they were of the religion of Noah. Al-Baiḍawi
 says that some assert that they were worshippers of angels, and that
 others say that they are the worshippers of stars. Al-Bertuni <span
-id="fr_119"></span>[48](#fn_118) calls the Manichaeans of Samarḳand
-Sabians. Bar Hebraeus <span id="fr_120"></span>[49](#fn_119) asserts
+id="fr_119"></span>[48](#fn_118.md) calls the Manichaeans of Samarḳand
+Sabians. Bar Hebraeus <span id="fr_120"></span>[49](#fn_119.md) asserts
 that the religion of the Sabians is the same as that of the ancient
 Chaldeans. In commenting on Surah 2, 59, Zamaḫšari (Al-Keššaf) says that
 the name Ṣabian comes from a root meaning one
@@ -297,7 +297,7 @@ regarded as such by the Mohammedans, so that under Al-Mamûm, they
 sheltered themselves under the name, Sabians, that they might be
 entitled to the toleration which the Sabians of the Koran have because
 they were considered among the people of the Book. <span
-id="fr_121"></span>[50](#fn_120) Another thing to be noticed is that
+id="fr_121"></span>[50](#fn_120.md) Another thing to be noticed is that
 there is a close resemblance between the belief of the Ṣabian sect which
 Aš-Šahrastani calls Al-Ḫarbaniyah and that of the Yezidi sect.
 
@@ -316,7 +316,7 @@ associated himself with those of the people of the Book who recognized
 Mohammed as a prophet though they did not become his followers. This is
 the negative aspect, so to speak, of bn Unaisa's religious views. He is
 also said to have claimed that the followers of the ordinances <span
-id="fr_122"></span>[51](#fn_121) agreed with him. This statement tends
+id="fr_122"></span>[51](#fn_121.md) agreed with him. This statement tends
 to indicate that he might have accepted some phases of the Muslim faith.
 And the fact that he belonged to *Al-Hawarij* implies that he was one of
 those who were "condemning and rejecting ‘Ali for his scandalous crime
@@ -327,7 +327,7 @@ of the sect in question.
 
 There can be no doubt, it seems to me, that the Yezidis are the
 followers of Yezîd bn Unaisa. The statement of our authority, Mohammed
-Aš-Šahrastani (see pp. [119](#page_119)-120), is so clear that it can
+Aš-Šahrastani (see pp. [119](#page_119)-120.md), is so clear that it can
 bear no other interpretation. And what is far more important, it comes
 from the pen of one who is considered of the
 
@@ -435,8 +435,8 @@ From what we know of ‘Adî's movement, we have sufficient reason to
 conclude that many Moslems and Christians followed him. The historians
 of both faiths bear witness to the fact that ‘Adî's reputation was
 widespread, and that people of every condition followed him (see pp.
-[111](sby20.htm#page_111)-115). The Nestorian bishop of Arbela, whom
-Yasin Al-‘Omari quotes (see [p. 114](sby20.htm#page_114)) asserts that
+[111](sby20.htm#page_111)-115.md). The Nestorian bishop of Arbela, whom
+Yasin Al-‘Omari quotes (see [p. 114](sby20.htm#page_114).md) asserts that
 innumerable multitudes flocked to him, deplores the situation of the
 Christian church resulting from this uprising, and complains of the
 possession by the šeiḫ of a monastery belonging to his denomination.
@@ -454,7 +454,7 @@ religions which find expression in the devil-worshippers of to-day. Such
 is the notion of the sacredness of the number seven, an idea which
 belongs to the common stock of the ancient inhabitants of Mesopotamia.
 The Yezidis have seven sanjaks, each has seven burners; their
-[cosmogony](errata.htm#14) shows that God created seven angels or gods;
+[cosmogony](errata.htm#14.md) shows that God created seven angels or gods;
 their principal prayer is the appeal to God through seven šeiḫs; the
 sceptre engraved on the front of the temple of their great saint has
 seven branches. This reminds us at once of the Ṣabians who adored seven
@@ -476,12 +476,12 @@ found in Judea. In Babylon, there were at least two shrines to sun-god
 Šamas, one at Sippar, and the other at Larsa.
 
 Other survivals of the ancient religions found in Yezidism are the
-worship of birds (see [p. 150](sby24.htm#page_150)); the special
+worship of birds (see [p. 150](sby24.htm#page_150).md); the special
 importance attached to the New Year because of its bearing on individual
 welfare by reason of the good or evil decision of the gods rendered them
-(see pp. [46](sby11.htm#page_46), [174](sby28.htm#page_174)); and the
+(see pp. [46](sby11.htm#page_46), [174](sby28.htm#page_174).md); and the
 belief in occurrences of nuptials in the heavens (see [p.
-174](sby28.htm#page_174)).
+174](sby28.htm#page_174).md).
 
 Moreover, many religious beliefs of the Pre-Islamic Arabs survive among
 the modern Yezidis. Such is the belief in sacred wells in connection
@@ -492,7 +492,7 @@ places. When the grandfather of Mohammed ‘Abd Al-Muttalib cleaned out
 the well, he found two golden gazelles and, a number of swords. The
 water of such holy springs was believed to possess healing power, and
 was carried home by pilgrims, as the water of Zamzam now is (Yakut I,
-434). <span id="fr_123"></span>[52](#fn_122) An impure person,
+434). <span id="fr_123"></span>[52](#fn_122.md) An impure person,
 furthermore, dare not approach the sacred waters. A woman in her
 uncleanness was afraid for her children's sake to bathe in the holy
 water at the sanctuary of Dusares. According to Ibn Hišam "A woman who
@@ -503,7 +503,7 @@ pool." This was taken to mean that her
 
 act was a breach of the ritual of the spot. And all the pilgrims changed
 their clothes when they entered the sacred precinct. <span
-id="fr_124"></span>[53](#fn_123)
+id="fr_124"></span>[53](#fn_123.md)
 
 Another common heathen practice in the time of Al-jahliya was the
 worship of holy trees. According to Tabari there was a date-palm tree at
@@ -512,7 +512,7 @@ with fine clothes and women's ornaments. A similar tree to which the
 people of Mecca resorted annually, and hung upon it weapons, garments,
 ostriches' eggs, and other things, is spoken of in the tradition of the
 prophet under the name of "dhat anwat," or "tree to hang things
-on." <span id="fr_125"></span>[54](#fn_124) The Goddess Al-‘Ozza was
+on." <span id="fr_125"></span>[54](#fn_124.md) The Goddess Al-‘Ozza was
 believed to reside in a tree. According to Yakut (III, 261), the tree at
 Hadaibiya, mentioned in the Koran (sura XLVIII, 18) was visited by
 pilgrims who expected to derive a blessing from it, till it was cut down
@@ -522,7 +522,7 @@ It was considered deadly to pluck a twig from such sacred trees.
 The prevalence of stone-worship is another sign of paganism existing
 before Islam, and noteworthy is the theory advanced by the Mohammedan
 writers to account for its origin. According to Ibn Hišam <span
-id="fr_126"></span>[55](#fn_125) the beginning of this idolatry was that
+id="fr_126"></span>[55](#fn_125.md) the beginning of this idolatry was that
 "the Meccans when their land became too narrow for them spread abroad
 over the country, and all took stones from their sanctuary, the Kaaba,
 out of reverence for their temple, and they set them up whenever they
@@ -544,7 +544,7 @@ refer to the sacred wells at Ḳadeš (Gen. 14: 7) and at Beeršeba (Gen.
 21, 28, 30, 31 to the sacred oracular tree at Shekem (Gen. 12, 6; Deut.
 11, 3); to the sacred stone of Bethel, which gave the place its name as
 it is called "a house of God" (Gen. 28, 22). <span
-id="fr_127"></span>[56](#fn_126)
+id="fr_127"></span>[56](#fn_126.md)
 
 Now, the traces of all these religious beliefs are found in modern
 Yezidism. In connection with the temple of Šeiḫ ‘Adî, there is a sacred
@@ -555,7 +555,7 @@ that of ‘Adî's, the Yezidis cast coins, jewelry, and other presents,
 which, they think, the chief saint takes from time to time; and to this
 day no one may enter the holy valley with its sacred fountain, unless he
 first purify his body and clothes. <span
-id="fr_128"></span>[57](#fn_127) The devil-worshippers adore, likewise,
+id="fr_128"></span>[57](#fn_127.md) The devil-worshippers adore, likewise,
 sacred trees. They make pilgrimages to
 
 The original idea might have been that the waters, the stones, and the
@@ -577,13 +577,13 @@ speaking to David in accordance with ancient conceptions.}
 them, hang things on them, and entertain the belief that whoever unties
 or shakes off a shred of cloth will be afflicted with disease. Again,
 the Yezidis kiss the stones that satisfy their imagination, and make
-vows to them (see pp. [41](sby11.htm#page_41), [56](sby12.htm#page_56)).
+vows to them (see pp. [41](sby11.htm#page_41), [56](sby12.htm#page_56).md).
 Nor is this all. The shouting of the Yezidi pilgrims, as they reach the
 sacred territory, and the noisy ceremony of their hajj, with its
-dancing <span id="fr_129"></span>[58](#fn_128) and its excitement--a
+dancing <span id="fr_129"></span>[58](#fn_128.md) and its excitement--a
 rite which has brought against them all sorts of accusations <span
-id="fr_130"></span>[59](#fn_129)--are nothing but the remnants of
-Pre-Islamic paganism. <span id="fr_131"></span>[60](#fn_130)
+id="fr_130"></span>[59](#fn_129.md)--are nothing but the remnants of
+Pre-Islamic paganism. <span id="fr_131"></span>[60](#fn_130.md)
 
 Such, then, are the steps which the religion of Yezid took before it
 came to shape itself into its present form. It is made up of five
@@ -598,19 +598,19 @@ those who came from other religions.
 
 ### Footnotes
 
-<span id="fn_113"></span>[119:43](sby21.htm#fr_114) Manhal-al-Uliya wa
+<span id="fn_113"></span>[119:43](sby21.htm#fr_114.md) Manhal-al-Uliya wa
 Mašrab ul Asfiya, "Šeiḫ ‘Adî," quoted by M. N. Siouffi, Journal
 Asiatique, 1885, p. 80.
 
-<span id="fn_114"></span>[119:44](sby21.htm#fr_115) Al-Der-Al-Maknun
+<span id="fn_114"></span>[119:44](sby21.htm#fr_115.md) Al-Der-Al-Maknun
 fi-1-Miater Al-Madiyat min Al-Ḳerûn, "Šeiḫ ‘Adî," quoted by M. N.
 Siouffi, Journal Asiatique, 1885, p. 81.
 
-<span id="fn_115"></span>[120:45](sby21.htm#fr_116) Contrary to Mohammed
+<span id="fn_115"></span>[120:45](sby21.htm#fr_116.md) Contrary to Mohammed
 to whom, according to Moslem belief, the Koran was revealed at
 intervals.
 
-<span id="fn_116"></span>[120:46](sby21.htm#fr_117) Kitab Al-Milal wa
+<span id="fn_116"></span>[120:46](sby21.htm#fr_117.md) Kitab Al-Milal wa
 n-Nihal, vol. I, p. 101 seq.
 
 Ḥarran was a city in the north of Mesopotamia, and southeast of Edessa,
@@ -628,21 +628,21 @@ Another place Yakut (p. 889) mentions is Wasit ul-Raḳḳat, a town on the
 western side of the Euphrates, and about two days' journey from Ḥarran.
 Perhaps this is the Wasit that Aš-Šahrastanî means.
 
-<span id="fn_117"></span>[122:47](sby21.htm#fr_118) On these sects. See
+<span id="fn_117"></span>[122:47](sby21.htm#fr_118.md) On these sects. See
 Aš-Šahrastanî, ibid, vol. II, pp. 85, 87, 89, 100 (42). His history, ed.
 Sachau, Leibzig, 1878, p. 207.
 
-<span id="fn_118"></span>[123:48](sby21.htm#fr_119) <span
+<span id="fn_118"></span>[123:48](sby21.htm#fr_119.md) <span
 id="page_142">p. 142</span> At-Tarih, ed. Alton Salhanî, Beîrut, p. 266.
 
-<span id="fn_119"></span>[123:49](sby21.htm#fr_120) There is no footnote
+<span id="fn_119"></span>[123:49](sby21.htm#fr_120.md) There is no footnote
 49 in the original--JBH.
 
-<span id="fn_120"></span>[127:50](sby21.htm#fr_121) Filarist, p. 320.
+<span id="fn_120"></span>[127:50](sby21.htm#fr_121.md) Filarist, p. 320.
 The Arabs used to call the Prophet Aṣ-ṣabi, because he departed from the
 religion of the Koreish to Al-Islam; cf. Al-Keššaf on Surah XXII, 17.
 
-<span id="fn_121"></span>[128:51](sby21.htm#fr_122) Hudud, pl. of Hadad,
+<span id="fn_121"></span>[128:51](sby21.htm#fr_122.md) Hudud, pl. of Hadad,
 restrictive ordinances, or statutes, of God respecting things lawful and
 things unlawful. The Hudud of God are of two kinds: First, those
 ordinances respecting eatables, drinkables, marriage, etc., what are
@@ -654,11 +654,11 @@ second, because they prevent one's committing again those acts for which
 they are appointed as punishments, or because the limits thereof are
 determined. See Lane's Arabic Dictionary in Loco.
 
-<span id="fn_122"></span>[134:52](sby21.htm#fr_123) Cf. also W. R.
+<span id="fn_122"></span>[134:52](sby21.htm#fr_123.md) Cf. also W. R.
 Smith, *Religion of the Semites*, p. 167. and D. B. Stade's *Biblische
 Theologie des Alten Testaments*, pp. 111 and 290.
 
-<span id="fn_123"></span>[135:53](sby21.htm#fr_124) R. Smith, ibid, p.
+<span id="fn_123"></span>[135:53](sby21.htm#fr_124.md) R. Smith, ibid, p.
 49; cf. Ex. 3: 5, "And he said. Draw not nigh hither; put off thy shoes
 from off thy feet, for the place whereon thou standest is holy ground";
 and Josh, 5: 15, "And the captain of the Lord's host said unto Joshua:
@@ -676,25 +676,25 @@ emerging from the water, each one robes him or herself in the rasta, the
 ceremonial white garment.--*The London Standard*, Oct. 19, 1894." Prayer
 Meeting of the Starworshippers.
 
-<span id="fn_124"></span>[135:54](sby21.htm#fr_125) Cf. R. Smith, ibid,
+<span id="fn_124"></span>[135:54](sby21.htm#fr_125.md) Cf. R. Smith, ibid,
 p. 185, and Stade, ibid, p. 111 seq.
 
-<span id="fn_125"></span>[135:55](sby21.htm#fr_126) Weil's translation,
+<span id="fn_125"></span>[135:55](sby21.htm#fr_126.md) Weil's translation,
 p. 39.
 
-<span id="fn_126"></span>[136:56](sby21.htm#fr_127) Cf. R. Smith, ibid.
+<span id="fn_126"></span>[136:56](sby21.htm#fr_127.md) Cf. R. Smith, ibid.
 pp. 203-212; S. I. Curtiss' *Primitive Semitic Religion To-day*, pp.
 84-.89; Stade, ibid, p. 114, seq.; see also II Sam. 5: 24, and John 5:
 2, 3.
 
-<span id="fn_127"></span>[136:57](sby21.htm#fr_128) Layard: *Nineveh and
+<span id="fn_127"></span>[136:57](sby21.htm#fr_128.md) Layard: *Nineveh and
 Its Remains*, vol. I, p. 280.
 
-<span id="fn_128"></span>[137:58](sby21.htm#fr_129) <span
+<span id="fn_128"></span>[137:58](sby21.htm#fr_129.md) <span
 id="page_144">p. 144</span> Dancing might have been also a religious
 ceremony in the Pre-Kanaanitic religion of Israel.
 
-<span id="fn_129"></span>[137:59](sby21.htm#fr_130) The people in the
+<span id="fn_129"></span>[137:59](sby21.htm#fr_130.md) The people in the
 East are under the impression that the Yezidis violate the law of
 morality during their festivals. According to Hurgronje (vol. 2, pp.
 61-64), immorality is practised also in the sacred mosque of Mecca. This
@@ -702,9 +702,9 @@ practice may be a survival of the institution of Kadeshes, who offered
 themselves in honor of the Deity in the sacred places where license
 usually prevailed during the festivals (Gen, 38: 21, and Deut. 23: 18).
 
-<span id="fn_130"></span>[137:60](sby21.htm#fr_131) Cf. R. W. Smith,
+<span id="fn_130"></span>[137:60](sby21.htm#fr_131.md) Cf. R. W. Smith,
 ibid, p. 432.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on Chapter I](sby22)
+[Next: Notes on Chapter I](sby22.md)

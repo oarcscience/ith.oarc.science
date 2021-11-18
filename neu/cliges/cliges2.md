@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Northern
-European](../index)  [Cliges Index](cliges)  [Previous](cliges1) 
-[Next](cliges3) 
+[Intangible Textual Heritage](../../index.md)  [Northern
+European](../index)  [Cliges Index](cliges)  [Previous](cliges1.md) 
+[Next](cliges3.md) 
 
 ------------------------------------------------------------------------
 

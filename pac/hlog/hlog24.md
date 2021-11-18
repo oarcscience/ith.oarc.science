@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog23)  [Next](hlog25) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog23)  [Next](hlog25.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,4 +9,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Deceiving of Kewa](hlog25)
+[Next: The Deceiving of Kewa](hlog25.md)

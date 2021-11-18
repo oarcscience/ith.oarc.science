@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil19)  [Next](egil21) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil19)  [Next](egil21.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ before.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XX. Skallagrim's marriage.](egil21)
+[Next: CHAPTER XX. Skallagrim's marriage.](egil21.md)

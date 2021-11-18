@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss33)  [Next](oss35) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss33)  [Next](oss35.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ warrior?" said Cairbar with a sigh. "Are
 
 his heroes many on the coast? Lifts he the spear of battle? or comes the
 king in peace?" "In peace be comes not, king of Erin; I have seen his
-forward spear.  <span id="fr_96"></span>[1](#fn_96) It is a meteor of
+forward spear.  <span id="fr_96"></span>[1](#fn_96.md) It is a meteor of
 death. The blood of thousands is on its steel. He came first to the
 shore, strong in the gray hair of age. Full rose his sinewy limbs, as he
 strode in his might. That sword is by his side, which gives no second
@@ -170,7 +170,7 @@ beam of the sun, when he is to hide his red head in a storm!
 
 Cairbar rises in his arms. Darkness gathers on his brow. The hundred
 harps cease at once. The clang of shields  <span
-id="fr_97"></span>[1](#fn_97) is heard. Far distant on the heath Olla
+id="fr_97"></span>[1](#fn_97.md) is heard. Far distant on the heath Olla
 raised a song of wo. My son knew the sign of death; and rising seized
 his spear. "Oscar," said the dark-red Cairbar, "I behold the spear of
 Erin. The spear of Temora glitters in thy hand, son of woody
@@ -362,7 +362,7 @@ fathers would be renewed; and the deeds of other times!'
 "He took his bow. The tears flow down from both his sparkling eyes.
 Grief saddens round. The bards bend forward, from their hundred harps.
 The lone blast touched their trembling strings. The sound <span
-id="fr_98"></span>[1](#fn_98) is sad and low! a voice is heard at a
+id="fr_98"></span>[1](#fn_98.md) is sad and low! a voice is heard at a
 distance, as of one in grief. It was Carril of other times, who came
 from dark Slimora. He told of the fall of Cuthullin. He told of his
 mighty deeds. The people were scattered round his tomb. Their arms lay
@@ -475,7 +475,7 @@ are on the distant hill. We hear, at time; his clanging shield.
 
 ### Footnotes
 
-<span id="fn_96"></span>[401:1](oss34.htm#fr_96) Mor-annal here alludes
+<span id="fn_96"></span>[401:1](oss34.htm#fr_96.md) Mor-annal here alludes
 to the particular appearance of Fingal's spear. If a man upon his first
 landing in a strange country, kept the point of his spear forward, it
 denoted, in those days, that he came in a hostile manner, and
@@ -483,17 +483,17 @@ accordingly he was treated as an enemy; if he kept the point behind him,
 it was a token of friendship, and ht was immediately invited to the
 feast, according to the hospitality of the times.
 
-<span id="fn_97"></span>[403:1](oss34.htm#fr_97) The clang of shields:
+<span id="fn_97"></span>[403:1](oss34.htm#fr_97.md) The clang of shields:
 when a chief was determined to kill a person already in his power, it
 was usual to signify that his death was intended, by the pound of a
 shield struck with the blunt end of a spear: at the same time that a
 bard at a distance raised the death-song.
 
-<span id="fn_98"></span>[409:1](oss34.htm#fr_98) The lone blast touched
+<span id="fn_98"></span>[409:1](oss34.htm#fr_98.md) The lone blast touched
 their trembling strings: that prophetic sound mentioned in other poems,
 which the harps of the bards emitted before the death of a person worthy
 and renowned.
 
 ------------------------------------------------------------------------
 
-[Next: Book II](oss35)
+[Next: Book II](oss35.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs29)  [Next](mhs31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs29)  [Next](mhs31.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ scapegoat.
 
 ------------------------------------------------------------------------
 
-[Next: The Folk-lore Of Common Salt](mhs31)
+[Next: The Folk-lore Of Common Salt](mhs31.md)

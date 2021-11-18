@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](suc03)  [Next](suc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](suc03)  [Next](suc05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -84,7 +84,7 @@ case where there is not three spans distance from one twig to the other;
 but if there is, it is invalid. Rabha, however, said: Even if there were
 three spans between, provided the twig was not wide at the top a span,
 it is invalid; but if it was, it is valid, because we say: *Havit
-rami*, <span id="fr_9"></span>[1](#fn_9) and it is valid.
+rami*, <span id="fr_9"></span>[1](#fn_9.md) and it is valid.
 
 "*If there is more shadow than sun*." From this we may infer, that if
 they were equal, it is not valid; but in the first chapter
@@ -99,7 +99,7 @@ on the ground the sunshine and the shadow are equal, it is valid,
 because then on the top there must be more covering than empty space.
 Said R. Papa: This is according to what people say: If on the top it is
 of the size of a Zuz, it appears on the ground the size of a Sela. <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 "*If close like the roof of a house*." The rabbis taught: If it was
 close as a roof of a house, although the stars cannot be seen through
@@ -423,7 +423,7 @@ booth of Johanan bar Ilai in the city of Kisri, of Upper Galilea,
 according to others in Kisrion, and the sun reached the Succah. And the
 host asked R. Eliezer: Shall I spread a sheet on it? And he answered:
 There was not one tribe of Israel from which a judge did not
-descend. <span id="fr_11"></span>[1](#fn_11) The sun reached the middle
+descend. <span id="fr_11"></span>[1](#fn_11.md) The sun reached the middle
 of the Succah, and he asked again: How if I should spread a sheet on it?
 And he answered: There was not one tribe of Israel from which prophets
 have not descended, and
@@ -561,7 +561,7 @@ is taken only as a support.
 
 <span id="page_39">p. 39</span>
 
-meant by this? A minor [who](errata.htm#10) can obey the call of nature
+meant by this? A minor [who](errata.htm#10.md) can obey the call of nature
 without the aid of his mother. So said the disciples of R. Yanai. But
 Resh Lakish said: A child that on awakening does not cry: Mother!
 mother!
@@ -667,17 +667,17 @@ land, and shall delight themselves because of the abundance of peace."
 
 ### Footnotes
 
-<span id="fn_9"></span>[27:1](suc04.htm#fr_9) This expression has the
+<span id="fn_9"></span>[27:1](suc04.htm#fr_9.md) This expression has the
 same meaning as *gad achith*, explained in Erubin, p. 6, and means, if
 the twig was a span at the top, it is considered whether the top lies
 over the empty place. And Rashi explains this, that the twigs were not
 lying but standing upright, and therefore the top when wide a span is
 considered to be lying.
 
-<span id="fn_10"></span>[28:1](suc04.htm#fr_10) Two coins, the first a
+<span id="fn_10"></span>[28:1](suc04.htm#fr_10.md) Two coins, the first a
 one, the second very large.
 
-<span id="fn_11"></span>[35:1](suc04.htm#fr_11) Rashi explains this as
+<span id="fn_11"></span>[35:1](suc04.htm#fr_11.md) Rashi explains this as
 follows: The Judges of the Book of Judges, *i.e.*, the Rulers of Israel
 since Joshua's death to the prophet Samuel: From the tribe Ephraim was
 Joshua; from Benjamin, Ehud; Manasseh, Gideon--that is, from the
@@ -692,4 +692,4 @@ those.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](suc05)
+[Next: Chapter III](suc05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm63)  [Next](bcm65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm63)  [Next](bcm65.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ spirits there are some which bind and some which do not bind, save only
 in a very light manner. As to the first, they are those which require
 something personally belonging to you whensoever a pact is agreed.
 Against these you must be on your guard, because the guileful friend
-becometh an open enemy. <span id="fr_251"></span>[1](#fn_250) The
+becometh an open enemy. <span id="fr_251"></span>[1](#fn_250.md) The
 Grimorium Verum does not,
 
 <span id="page_255">p. 255</span>
@@ -20,7 +20,7 @@ Grimorium Verum does not,
 however, entertain more largely the question of a compact with Satan or
 his ministers, though it may perhaps be inferred from its pages that all
 commerce with evil spirits is founded on a law of exchange. <span
-id="fr_252"></span>[1](#fn_251) They can be bent to the intention of the
+id="fr_252"></span>[1](#fn_251.md) They can be bent to the intention of the
 operator, but it is on the express understanding that they are satisfied
 for their part, because, as we have seen, these kinds of creatures give
 nothing for nothing.
@@ -65,7 +65,7 @@ evil may be accomplished.
 With the highest potentates of Infernus, with Lucifer, Beelzebuth and
 Astaroth, it does not seem possible to enter into a binding compact. The
 sorcerer must be content with some one among the six governors, <span
-id="fr_253"></span>[1](#fn_252) who will generally work by their agents.
+id="fr_253"></span>[1](#fn_252.md) who will generally work by their agents.
 An invariable covenant of the pact should bargain for service by one of
 the three superiors among such special subordinates.
 
@@ -157,7 +157,7 @@ I cannot comply with thy request except thou dost give thyself
  
 
 <span id="img_25900"></span> [![](tn/generic.jpg)  
-Click to view](img/25900.jpg)  
+Click to view](img/25900.jpg.md)  
 PLATE IX: THE GOËTIC CIRCLE OF PACTS.
 
  
@@ -298,7 +298,7 @@ return of the incriminating document, or, failing this, was held to
 cancel it formally, does not certainly appear and will matter little;
 for what with the subtleties of the sorcerer and the assistance of the
 Church in the revocation of such acts and deeds, there was little chance
-for Infernus, <span id="fr_254"></span>[1](#fn_253) and the reluctance
+for Infernus, <span id="fr_254"></span>[1](#fn_253.md) and the reluctance
 of Lucifuge Rofocale to enter into the tricky contract is, on the whole,
 exceedingly intelligible.
 
@@ -306,7 +306,7 @@ exceedingly intelligible.
 
 ### Footnotes
 
-<span id="fn_250"></span>[254:1](bcm64.htm#fr_251) Catholic theologians
+<span id="fn_250"></span>[254:1](bcm64.htm#fr_251.md) Catholic theologians
 who have concerned themselves with the question of the pact have so
 extended the sphere of its operation that it includes the mere process
 of communicating with spirits. In his *Theological Dictionary* Bergier
@@ -348,13 +348,13 @@ truth, which concerns the temerity of opening the door to evil, and in
 this sense even the heedless act or the act of folly carries all its
 consequences and all to which it may lead like an implicit within it.
 
-<span id="fn_251"></span>[255:1](bcm64.htm#fr_252) But Lucifer, in
+<span id="fn_251"></span>[255:1](bcm64.htm#fr_252.md) But Lucifer, in
 ordinary cases, is contented with a cat, though it may be suggested that
 it is held only as a kind of hostage.
 
-<span id="fn_252"></span>[256:1](bcm64.htm#fr_253) See c. iii. sec. i.
+<span id="fn_252"></span>[256:1](bcm64.htm#fr_253.md) See c. iii. sec. i.
 
-<span id="fn_253"></span>[264:1](bcm64.htm#fr_254) But contracts with
+<span id="fn_253"></span>[264:1](bcm64.htm#fr_254.md) But contracts with
 Infernus could apparently be repudiated with even greater facility. "If
 you are disposed to renounce the devil after having entered into a
 compact with him," says the *Vocabulaire Infernal*, "spit three times on
@@ -365,4 +365,4 @@ be exploited with impunity like this at the end.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: The Method of Honorius](bcm65)
+[Next: Chapter VII: The Method of Honorius](bcm65.md)

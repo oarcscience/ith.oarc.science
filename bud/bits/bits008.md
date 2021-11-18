@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits007) [Next](bits009)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits007) [Next](bits009.md)
 
 ------------------------------------------------------------------------
 
@@ -360,7 +360,7 @@ me."
    "Mâra, you have not fulfilled the Ten Perfections in any of their
 three grades; nor have you made the five great donations;<span
 id="page_79_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_79_note_1) nor have you striven for
+class="small">1</span></sup>](#page_79_note_1.md) nor have you striven for
 knowledge, nor for the welfare of the world, nor for enlightenment. This
 seat does not belong to you, but to me."
 
@@ -562,7 +562,7 @@ constitutes the Intermediate Epoch.
 
 ------------------------------------------------------------------------
 
-[Next: § 9. First Events after the Attainment of Buddhaship](bits009)
+[Next: § 9. First Events after the Attainment of Buddhaship](bits009.md)
 
 ------------------------------------------------------------------------
 
@@ -570,7 +570,7 @@ constitutes the Intermediate Epoch.
 
 <span id="footnotes_page_79">p. 79</span>
 
-<span id="page_79_note_1"></span>[1](#page_79_fr_1)
+<span id="page_79_note_1"></span>[1](#page_79_fr_1.md)
 
 <table data-align="center" data-cellpadding="5">
 <colgroup>

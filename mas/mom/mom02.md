@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Masonry](../index) 
-[Index](index)  [Previous](mom01)  [Next](mom03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Masonry](../index.md) 
+[Index](index)  [Previous](mom01)  [Next](mom03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0517331942/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0517331942/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH2O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH2O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Meaning of Masonry*, by W.L. Wilmshurst, \[1922\], at Intangible
 Textual Heritage
 
@@ -419,4 +419,4 @@ still farther, and filling and transfiguring our whole Masonic house.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Deeper Symbolism of Freemasonry](mom03)
+[Next: Chapter I. The Deeper Symbolism of Freemasonry](mom03.md)

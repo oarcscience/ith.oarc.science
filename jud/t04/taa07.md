@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](taa06)  [Next](taa08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](taa06)  [Next](taa08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -102,7 +102,7 @@ the whole day; but the officiating priests would fast only part of the
 day."
 
 The priests having the weekly watch may drink wine at night, but not
-during the day, <span id="fr_19"></span>[1](#fn_19) but the officiating
+during the day, <span id="fr_19"></span>[1](#fn_19.md) but the officiating
 priests may drink it neither by day nor by night. The priests of the
 weekly watch and the standing men (commoners attending the public
 sacrifices as the representatives of the congregation at large) are not
@@ -121,7 +121,7 @@ on the following day."
 
 Public fasts must not be ordered to commence on a Thursday, in order not
 to raise the price of victuals in the markets; <span
-id="fr_20"></span>[2](#fn_20) but the first three fasts must be kept on
+id="fr_20"></span>[2](#fn_20.md) but the first three fasts must be kept on
 Monday, Thursday, and the following Monday. But the second three fasts
 may follow on Thursday, Monday, and the following Thursday. R. Jose
 says: "Even as the first fasts are not to be commenced on Thursday, so
@@ -193,7 +193,7 @@ Hama and R. Hanina differ. One says that this is equal to saying: "We
 are now before thee, O Lord, as ashes"; and the other says: "It is for
 the purpose of begging the Lord to remember the ashes of Isaac." For
 what purpose did they go out to the cemeteries? <span
-id="fr_21"></span>[1](#fn_21) Concerning this, R. Levi bar Hama and R.
+id="fr_21"></span>[1](#fn_21.md) Concerning this, R. Levi bar Hama and R.
 Hanina also differ. One says, in order that they might say they were now
 equal to the dead; while the other says that it was for the purpose of
 having the souls of the departed pray for them.
@@ -341,7 +341,7 @@ work day and night.
 the reason that they were not allowed to shave their beards? "In order
 that they may not enter upon their duties while they are ugly to look
 upon," said Rabba bar bar Hana in the name of R. Johanan. <span
-id="fr_22"></span>[1](#fn_22)
+id="fr_22"></span>[1](#fn_22.md)
 
 <span id="page_44">p. 44</span>
 
@@ -351,12 +351,12 @@ fasting is not permitted, and on some of them it is not even allowed to
 mourn. From the first of Nissan on, until and including the eighth, on
 which days it was resolved that the strife carried on between the
 Pharisees and the Bathusees concerning the continual daily
-offering <span id="fr_23"></span>[1](#fn_23) should be amicably
+offering <span id="fr_23"></span>[1](#fn_23.md) should be amicably
 concluded by adopting the decree of the Pharisees, it was enacted that
 no mourning or lamenting should be permitted; and from the eighth day of
 Nissan until after the Passover festival it was established when the
 feast of Pentecost should be celebrated, <span
-id="fr_24"></span>[2](#fn_24) and for that reason on those days no
+id="fr_24"></span>[2](#fn_24.md) and for that reason on those days no
 mourning or lamenting is allowed.
 
 The Master said: "From the first day of Nissan," etc. Why does he say
@@ -443,10 +443,10 @@ complete the fast.
 
 ### Footnotes
 
-<span id="fn_19"></span>[33:1](taa07.htm#fr_19) This regulation is a
+<span id="fn_19"></span>[33:1](taa07.htm#fr_19.md) This regulation is a
 general one and applies to ordinary days as well as to fast-days.
 
-<span id="fn_20"></span>[33:2](taa07.htm#fr_20) Precautions were taken
+<span id="fn_20"></span>[33:2](taa07.htm#fr_20.md) Precautions were taken
 in every instance to prevent exorbitant prices being charged for
 victuals and at times even existing ordinances were abrogated for this
 purpose. Thus no fast-days were ordered to commence on Thursday in order
@@ -454,17 +454,17 @@ that the dealers in articles of food might not take advantage of the
 greater demand produced by the necessity of laying in an extra supply
 for the day preceding the fast and for Sabbath.
 
-<span id="fn_21"></span>[40:1](taa07.htm#fr_21) In the Palestinian
+<span id="fn_21"></span>[40:1](taa07.htm#fr_21.md) In the Palestinian
 Talmud it is stated, in addition to what is taught in this Mishna, that
 they would clothe themselves in sackcloth, go out to the cemeteries, and
 sound the cornet.
 
-<span id="fn_22"></span>[43:1](taa07.htm#fr_22) The proper time when
+<span id="fn_22"></span>[43:1](taa07.htm#fr_22.md) The proper time when
 kings, officials, and the common people may shave their beards will be
 explained and discussed in Tract Sanhedrin, and for that reason the
 discussion pertaining thereto is here omitted.
 
-<span id="fn_23"></span>[44:1](taa07.htm#fr_23) The strife carried on
+<span id="fn_23"></span>[44:1](taa07.htm#fr_23.md) The strife carried on
 between the Pharisees and the Bathusees concerning the continual daily
 offering was as follows: The Bathusees maintained that because it is
 written \[Numbers, xxviii. 4\]: "The one sheep shalt *thou* prepare in
@@ -474,7 +474,7 @@ while the Pharisees held that the offering must be brought by the
 congregation from communal funds, basing their claim upon the passage
 \[ibid. 2\]: "Shall *ye* observe," etc.
 
-<span id="fn_24"></span>[44:2](taa07.htm#fr_24) The Pharisees and
+<span id="fn_24"></span>[44:2](taa07.htm#fr_24.md) The Pharisees and
 Bathusees also disputed about the date when the feast of Pentecost was
 to be celebrated, the latter claiming that as it is written \[Lev.
 xxiii. 15\]: "And ye shall count unto you, from the morrow after the
@@ -487,4 +487,4 @@ day of the month of Sivan.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](taa08)
+[Next: Chapter III](taa08.md)

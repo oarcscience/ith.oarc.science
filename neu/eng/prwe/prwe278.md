@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe277)  [Next](prwe279) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe277)  [Next](prwe279.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ of the departed has "arrived safe."
 
 ------------------------------------------------------------------------
 
-[Next: Crowing Hens etc.](prwe279)
+[Next: Crowing Hens etc.](prwe279.md)

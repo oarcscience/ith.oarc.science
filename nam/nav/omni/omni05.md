@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](omni04)  [Next](omni06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](omni04)  [Next](omni06.md) 
 
 ------------------------------------------------------------------------
 
@@ -4497,4 +4497,4 @@ Navaho, Diné, Tinnéh, Tunné.\]
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](omni06)
+[Next: Bibliography](omni06.md)

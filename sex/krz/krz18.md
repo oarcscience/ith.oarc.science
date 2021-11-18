@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz17)  [Next](krz19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz17)  [Next](krz19.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Textual Heritage
 
 <span id="page_48b">p. 48b</span>
 
-## KAREZZA THE [BEAUTIFIER](errata.htm#0)
+## KAREZZA THE [BEAUTIFIER](errata.htm#0.md)
 
 When the full magnetic rapport of Karezza has been realized, in which
 the two souls and bodies seem as one, supported and floating on some
@@ -77,4 +77,4 @@ genius in the brain of the great.
 
 ------------------------------------------------------------------------
 
-[Next: The Danger of Excess](krz19)
+[Next: The Danger of Excess](krz19.md)

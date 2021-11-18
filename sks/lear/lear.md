@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/lear)  [Previous](../kr3/kr3) 
-[Next](../lll/lll) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/lear)  [Previous](../kr3/kr3.md) 
+[Next](../lll/lll.md) 
 
 ------------------------------------------------------------------------
 
@@ -5536,4 +5536,4 @@ Index](../index)  [First Folio](../ff/lear)  [Previous](../kr3/kr3) 
 
 ------------------------------------------------------------------------
 
-[Next: Loves Labour Lost](../lll/lll) 
+[Next: Loves Labour Lost](../lll/lll.md) 

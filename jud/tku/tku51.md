@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku50)  [Next](tku52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku50)  [Next](tku52.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 when the Most Holy Ancient One desired to see whether the judgments
 could be mitigated, and whether these two could adhere together, that
 then from the side of the Woman there went forth a vehement judgment,
-which the world could not bear. <span id="fr_190"></span>[1](#fn_189)
+which the world could not bear. <span id="fr_190"></span>[1](#fn_189.md)
 
 <span id="page_241">p. 241</span>
 
@@ -92,9 +92,9 @@ Ages.
 
 ### Footnotes
 
-<span id="fn_189"></span>[240:1](tku51.htm#fr_190) See "Book of
+<span id="fn_189"></span>[240:1](tku51.htm#fr_190.md) See "Book of
 Concealed Mystery," ch. iii. §§ 27-31.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLIV: Further Remarks Concerning the Supernal Man](tku52)
+[Next: Chapter XLIV: Further Remarks Concerning the Supernal Man](tku52.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift18) 
-[Next](ift20) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift18.md) 
+[Next](ift20.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ their adventure.
 
 ------------------------------------------------------------------------
 
-[Next: Raja Rasalu](ift20)
+[Next: Raja Rasalu](ift20.md)

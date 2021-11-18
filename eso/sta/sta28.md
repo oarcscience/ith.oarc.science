@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta27)  [Next](sta29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta27)  [Next](sta29.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,7 +153,7 @@ establishment of four symbolical
 <span id="img_11700"></span>
 
 [![THE HEBREW TRIAD.](tn/11700.jpg)  
-Click to enlarge](img/11700.jpg)  
+Click to enlarge](img/11700.jpg.md)  
 THE HEBREW TRIAD.  
 
 The Qabbalists used the letter ש, Shin, to signify the trinity of the
@@ -367,7 +367,7 @@ world, D, is the world of solar systems,
 <span id="img_11800"></span>
 
 [![THE PLAN OF DIVINE ACTIVITY.](tn/11800.jpg)  
-Click to enlarge](img/11800.jpg)  
+Click to enlarge](img/11800.jpg.md)  
 THE PLAN OF DIVINE ACTIVITY.  
 
 According to the Qabbalists, the life of the Supreme Creator permeates
@@ -436,7 +436,7 @@ good spirits composing the *Yetziratic* World. There are
 <span id="img_11900"></span>
 
 [![THE QABBALISTIC SCHEME OF THE FOUR WORLDS.](tn/11900.jpg)  
-Click to enlarge](img/11900.jpg)  
+Click to enlarge](img/11900.jpg.md)  
 THE QABBALISTIC SCHEME OF THE FOUR WORLDS.  
 
 In the above chart the dark line between X 3 and A 1 constitutes the
@@ -666,4 +666,4 @@ avenues of self-expression.
 
 ------------------------------------------------------------------------
 
-[Next: The Tree of the Sephiroth](sta29)
+[Next: The Tree of the Sephiroth](sta29.md)

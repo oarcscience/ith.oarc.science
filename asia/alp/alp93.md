@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp92) 
-[Next](alp94) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp92.md) 
+[Next](alp94.md) 
 
 ------------------------------------------------------------------------
 
@@ -243,4 +243,4 @@ however, some examples of modern Armenian poetry in this volume.
 
 ------------------------------------------------------------------------
 
-[Next: Russian Era](alp94)
+[Next: Russian Era](alp94.md)

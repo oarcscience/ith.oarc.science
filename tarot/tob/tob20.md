@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob19) 
-[Next](tob21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob19.md) 
+[Next](tob21.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ or of Preservation.
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Chariot](tob21)
+[Next: 7. The Chariot](tob21.md)

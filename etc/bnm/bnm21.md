@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm20)  [Next](bnm22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm20)  [Next](bnm22.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ eagerly, "Peetweet, peet-weet! " for that is his word for "Rain, rain! "
 
 ------------------------------------------------------------------------
 
-[Next: Why The Bear Has A Short Tail.](bnm22)
+[Next: Why The Bear Has A Short Tail.](bnm22.md)

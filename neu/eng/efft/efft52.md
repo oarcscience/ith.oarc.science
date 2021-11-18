@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft51)  [Next](efft53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft51)  [Next](efft53.md) 
 
 ------------------------------------------------------------------------
 
-# THE HAND OF GLORY  <span id="fr_59"></span>[1](#fn_59)
+# THE HAND OF GLORY  <span id="fr_59"></span>[1](#fn_59.md)
 
 ONE evening, between the years 1790 and 1800, a traveller, dressed in
 woman's clothes, arrived at the Old Spital Inn, the place where the mail
@@ -62,7 +62,7 @@ She tried every other sleeper, but could not break the charmed sleep. At
 last, stealing down into the kitchen, while the thieves were busy over
 her master's strong box, she secured the band, blew out the flames, and
 at once the whole household was aroused."  <span
-id="fr_60"></span>[2](#fn_60)
+id="fr_60"></span>[2](#fn_60.md)
 
 But the next story bears a closer resemblance to the Stainmore
 narrative. One dark night, when all was shut up, there came a tap at the
@@ -102,13 +102,13 @@ easily secured and hanged. This tale is told in Northumberland.
 
 ### Footnotes
 
-<span id="fn_59"></span>[1](efft52.htm#fr_59) William Henderson, *Notes
+<span id="fn_59"></span>[1](efft52.htm#fr_59.md) William Henderson, *Notes
 on the Folk-Lore of the Northern Counties of England and the Borders*,
 p. 241.
 
-<span id="fn_60"></span>[2](efft52.htm#fr_60) Delrio. See also Thorpe's
+<span id="fn_60"></span>[2](efft52.htm#fr_60.md) Delrio. See also Thorpe's
 *Mythology*, vol. iii. p. 274.
 
 ------------------------------------------------------------------------
 
-[Next: Betty Chidley The Witch](efft53)
+[Next: Betty Chidley The Witch](efft53.md)

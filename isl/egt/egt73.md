@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt72)  [Next](egt74) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt72)  [Next](egt74.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ beginning, but the excess of in yearning has no end.
 ------------------------------------------------------------------------
 
 [Next: ON BEING GLAD IN GOD MOST HIGH, AND HUMBLING ONESELF BEFORE
-HIM](egt74)
+HIM](egt74.md)

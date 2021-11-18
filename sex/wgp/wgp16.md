@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp15.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ from a female saint (it is the *insular sanctæ Geidhe* of the Hibernian
 hagiographers), does not contain a single Catholic priest. Its
 inhabitants, indeed, as we learn from an interesting communication to
 *Notes and Queries* by Sir J. Emerson Tennent, <span
-id="fr_108"></span>[109](#fn_108) are mere idolaters, and their idol, no
+id="fr_108"></span>[109](#fn_108.md) are mere idolaters, and their idol, no
 doubt the representative of Priapus, is a long cylindrical stone, which
 they call *Neevougee*. This idol is kept wrapped in flannel, and is
 entrusted to
@@ -37,5 +37,5 @@ it may perhaps have some reference to the calling of fishermen.
 
 ### Footnotes
 
-<span id="fn_108"></span>[195:109](wgp16.htm#fr_108) *Notes and
+<span id="fn_108"></span>[195:109](wgp16.htm#fr_108.md) *Notes and
 Queries*, for 1852, vol. v, p. 121.

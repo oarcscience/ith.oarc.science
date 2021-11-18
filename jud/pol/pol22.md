@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol21)  [Next](pol23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol21)  [Next](pol23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -100,9 +100,9 @@ When he had finished this declaration, in which he designed to
 acknowledge his sin and the justice of his punishment, Rabbi Amnon
 expired, dying fitly in God's house, among the assembled sons of Israel.
 
-May the [righteousness](errata.htm#4) of Rabbi Amnon be a precious
+May the [righteousness](errata.htm#4.md) of Rabbi Amnon be a precious
 remembrance in Israel, and may we endeavour to emulate the same. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Benevolence](pol23)
+[Next: Benevolence](pol23.md)

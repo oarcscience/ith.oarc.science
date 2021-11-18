@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas026n)  [Next](jas028n)   
- \[[27. Anansi and Brother Dead.](jas027)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas026n)  [Next](jas028n.md)   
+ \[[27. Anansi and Brother Dead.](jas027.md)\]
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ Version (b) shows a simpler handling of similar incidents.
 
 ------------------------------------------------------------------------
 
-[Next: Note 28. Brother Dead and the Brindle Puppy.](jas028n)
+[Next: Note 28. Brother Dead and the Brindle Puppy.](jas028n.md)

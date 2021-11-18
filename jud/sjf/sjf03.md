@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](sjf02)  [Next](sjf04) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](sjf02)  [Next](sjf04.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,4 +128,4 @@ on Judgment, and on Truth, and on Peace.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](sjf04)
+[Next: Chapter II](sjf04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce17)  [Next](sce19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce17)  [Next](sce19.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ warme Hand were Antidote ƒufficient againƒt their poyƒon'd Dairts.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9](sce19)
+[Next: Chapter 9](sce19.md)

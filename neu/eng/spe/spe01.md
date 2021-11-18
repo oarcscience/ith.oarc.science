@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe00)  [Next](spe02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe00)  [Next](spe02.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ who has a fair claim to be ranked among the distinguished literary men
 of the close of the eighteenth century.
 
 Joseph Strutt, engraver, artist, antiquary and author, was born at
-Chelmsford in 1749. <span id="fr_0"></span>[1](#fn_0) His father, a
+Chelmsford in 1749. <span id="fr_0"></span>[1](#fn_0.md) His father, a
 wealthy miller, died the year after his birth. He was educated at the
 Chelmsford Grammar School, and apprenticed at the age of fourteen to the
 engraver, William Wynne Ryland. In 1770 he became a student of the Royal
@@ -185,10 +185,10 @@ SYDENHAM, *May* 1903
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:1](spe01.htm#fr_0) This brief sketch of the
+<span id="fn_0"></span>[v:1](spe01.htm#fr_0.md) This brief sketch of the
 literary life of Joseph Strutt is taken, in the main, from a short
 biography contributed by his elder son to Nichols' Literary Anecdotes.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](spe02)
+[Next: Contents](spe02.md)

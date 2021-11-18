@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ema04)  [Next](ema06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ema04)  [Next](ema06.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ do both good and evil.
 <span id="page_67">p. 67</span>
 
 One of the earliest instances of the use of a magical figure is related
-in the Westcar Papyrus, <span id="fr_51"></span>[1](#fn_51) where we
+in the Westcar Papyrus, <span id="fr_51"></span>[1](#fn_51.md) where we
 read that Prince Khâf-Râ told Khufu (Cheops) a story of an event which
 had happened in the time of Neb-ka or Neb-kau-Ed, a king of the IIIrd
 dynasty, who reigned about B.C. 3830. It seems that this king once paid
@@ -102,7 +102,7 @@ down in the water.
 Meanwhile Âba-aner tarried with his king Neb-kau-Râ for seven days, and
 the man remained in the depths of the water and had no air to breathe.
 And on the seventh day Âba-aner the *kher heb* <span
-id="fr_52"></span>[1](#fn_52) went out with the king for a walk, and
+id="fr_52"></span>[1](#fn_52.md) went out with the king for a walk, and
 invited His Majesty to come and see for himself a wonderful thing which
 had happened to a man in his own days; so the king went with him. When
 they had come to the water Âba-aner adjured the crocodile, saying,
@@ -154,7 +154,7 @@ new crops in the world beyond the grave, therefore he endeavoured to
 avoid this by getting the work done vicariously. If words of power said
 over a figure could make it to do evil, similarly words of power said
 over a figure could make it to do good. At first a formula <span
-id="fr_53"></span>[1](#fn_53) was composed, the recital of which was
+id="fr_53"></span>[1](#fn_53.md) was composed, the recital of which was
 supposed to relieve the deceased from the necessity of doing any work
 whatsoever, and when the deceased himself had said, "I lift up the hand
 of the man who is inactive. I have come from the city of Unnu
@@ -175,7 +175,7 @@ provided with representations of the rope basket, and plough <span
 id="img_07200"></span> ![](img/07200.jpg), and flail <span
 id="img_07201"></span> ![](img/07201.jpg), such as were employed by the
 Egyptian labourer in carrying field produce, and in ploughing, and in
-threshing grain. The formula <span id="fr_54"></span>[1](#fn_54) or
+threshing grain. The formula <span id="fr_54"></span>[1](#fn_54.md) or
 words of power which were inscribed on such figures varied at different
 periods, but one of the oldest, which was in use in the XVIIIth dynasty,
 makes the deceased say to the figure, which was called "Shabti":--
@@ -189,7 +189,7 @@ of filling the water-courses with water, and of bringing the sands from
 the east to the west." After these words comes the answer by the figure,
 "Verily I am" here, and \[will do\] whatsoever thou biddest me to do."
 The Egyptians were most anxious to escape the labours of
-top-dressing <span id="fr_55"></span>[2](#fn_55) the land, and of sowing
+top-dressing <span id="fr_55"></span>[2](#fn_55.md) the land, and of sowing
 the seed, a work which had to be done by a man standing in water in the
 sun, and the toilsome task of working the *shadûf*, or instrument for
 raising water
@@ -296,7 +296,7 @@ figures and spells with the intent to inflict pain
 <span id="page_77">p. 77</span>
 
 and suffering and death upon the king, was also compelled to commit
-suicide. <span id="fr_56"></span>[1](#fn_56)
+suicide. <span id="fr_56"></span>[1](#fn_56.md)
 
 The above story of the famous conspiracy against Rameses III. is most
 useful as proving that books of magic existed in the Royal Library, and
@@ -352,7 +352,7 @@ thee, and Maât hath sent forth thy destruction. The gods of the south,
 and of the north, of the west, and of the east, have fastened chains
 upon him, and they have fettered him with fetters; the god Rekes hath
 overthrown him, and the god Hertit hath put him in chains." <span
-id="fr_57"></span>[1](#fn_57) The age of this composition is unknown,
+id="fr_57"></span>[1](#fn_57.md) The age of this composition is unknown,
 but it is found, with variants, in many of the copies of the Book of the
 Dead which were made in the XVIIIth dynasty. Later, however, the ideas
 in it were developed, the work itself was greatly enlarged, and at the
@@ -361,7 +361,7 @@ Overthrowing Âpep," which contained twelve chapters. At the same time
 another work bearing the same title also existed; it was not divided
 into chapters, but it contained two versions of the history of the
 Creation, and a list of the evil names of Âpep, and a hymn to Râ. <span
-id="fr_58"></span>[2](#fn_58) Among the chapters of the former work was
+id="fr_58"></span>[2](#fn_58.md) Among the chapters of the former work was
 one entitled, "Chapter of putting the fire upon Âpep," which reads,
 "Fire be upon thee, Âpep, thou enemy of Râ! The Eye of Horus prevails
 over the accursed soul and shade of Âpep, and the
@@ -395,7 +395,7 @@ papyrus, and over
 
 <span id="page_81">p. 81</span>
 
-a wax figure <span id="fr_59"></span>[1](#fn_59) of Âpep upon which his
+a wax figure <span id="fr_59"></span>[1](#fn_59.md) of Âpep upon which his
 name hath been cut and inlaid with green colour; and thou shalt lay them
 upon the fire so that it may consume the enemy of Râ. And thou shalt put
 such a figure on the fire at dawn, and another at noon, and another at
@@ -519,10 +519,10 @@ little rolls of papyrus
 
 are often inscribed with but short and fragmentary texts, but
 occasionally, as in the case of the priestess Anhai, a fine large
-papyrus, <span id="fr_60"></span>[1](#fn_60) inscribed with numerous
+papyrus, <span id="fr_60"></span>[1](#fn_60.md) inscribed with numerous
 texts and illustrated with vignettes, was placed inside the figure of
 the god, who in this instance is in the form of Osiris only. <span
-id="fr_61"></span>[2](#fn_61) It seems that the Ptah-Seker-Ausar figure
+id="fr_61"></span>[2](#fn_61.md) It seems that the Ptah-Seker-Ausar figure
 was much used in the late period in Egypt, for many inscribed examples
 have been found which are not only illegible, but which prove that the
 artist had not the remotest idea of the meaning of the things which he
@@ -595,7 +595,7 @@ id="img_09001"></span> ![](img/09001.jpg), <span id="img_09002"></span>
 ![](img/09002.jpg), <span id="img_09003"></span> ![](img/09003.jpg),
 <span id="img_09004"></span> ![](img/09004.jpg), or four wax ones. For
 some unknown reason the set referred to above was made of wax. <span
-id="fr_62"></span>[1](#fn_62) The four children of Horus played a
+id="fr_62"></span>[1](#fn_62.md) The four children of Horus played a
 
 <span id="page_91">p. 91</span>
 
@@ -698,11 +698,11 @@ explained by an expounder of dreams,
 
 <span id="page_95">p. 95</span>
 
-and he was satisfied that the child <span id="fr_63"></span>[1](#fn_63)
+and he was satisfied that the child <span id="fr_63"></span>[1](#fn_63.md)
 to whom his wife Olympias was about to give birth was the son of the god
 Amen (or Ammon) of Libya, who was regarded as the father of all the
 kings who ascended the throne of Egypt, who did not belong to the royal
-stock of that country. <span id="fr_64"></span>[2](#fn_64)
+stock of that country. <span id="fr_64"></span>[2](#fn_64.md)
 
 Here, in connexion with the Egyptian use of wax figures, must be
 mentioned one or two stories and traditions of Alexander the Great which
@@ -727,9 +727,9 @@ and Greeks, it is clear that, in providing Alexander with these models
 and the words of power to use with them, Aristotle believed he was
 giving him the means of making his enemies to become like the figures in
 the box, and so they would be powerless to attack him. <span
-id="fr_65"></span>[1](#fn_65)
+id="fr_65"></span>[1](#fn_65.md)
 
-In the Græco-Roman period <span id="fr_66"></span>[2](#fn_66) wax
+In the Græco-Roman period <span id="fr_66"></span>[2](#fn_66.md) wax
 figures were used in the performance of magical ceremonies of every
 kind, and the two following examples indicate that the ideas which
 underlay their use had not changed in the least. If a lover wished to
@@ -763,7 +763,7 @@ knots, and both figure and plate are to be buried in the grave of some
 one who has died young or who has been slain by violence. He must then
 recite a long incantation to the infernal gods, and if all these things
 be done in a proper manner the lover will obtain the woman's
-affections. <span id="fr_67"></span>[1](#fn_67)
+affections. <span id="fr_67"></span>[1](#fn_67.md)
 
 From Egypt, by way of Greece and Rome, the use of
 
@@ -781,16 +781,16 @@ and slowly sickened and died. If pins and needles were stuck into the
 wax figures at stated times the sufferings of the living were made more
 agonizing, and their death much more painful.
 
-Sharpe relates <span id="fr_68"></span>[1](#fn_68) that about the end of
+Sharpe relates <span id="fr_68"></span>[1](#fn_68.md) that about the end of
 the VIIth century king Duffus was so unpopular that "a company of hags
 roasted his image made of wax upon a wooden spit, reciting certain words
 of enchantment, and basting the figure with a poisonous liquor. These
 women when apprehended declared that as the wax melted, the body of the
 king should decay, and the words of enchantment prevented him from the
 refreshment of sleep." The two following extracts from Thomas
-Middleton's *The Witch* <span id="fr_69"></span>[2](#fn_69) illustrate
+Middleton's *The Witch* <span id="fr_69"></span>[2](#fn_69.md) illustrate
 the views held about wax figures in England in the time of this
-writer. <span id="fr_70"></span>[3](#fn_70)
+writer. <span id="fr_70"></span>[3](#fn_70.md)
 
 <span id="page_99">p. 99</span>
 
@@ -829,7 +829,7 @@ Will waste him by degrees."
 (Act v., scene 2)
 
 Mr. Elworthy in his very interesting book "The Evil Eye" <span
-id="fr_71"></span>[1](#fn_71) relates some striking examples of the
+id="fr_71"></span>[1](#fn_71.md) relates some striking examples of the
 burning of hearts stuck full of pins for magical purposes
 
 <span id="page_100">p. 100</span>
@@ -838,7 +838,7 @@ in recent years. Thus an old woman at Mendip had a pig that fell ill,
 and she at once made up her mind that the animal had been "overlooked";
 in her trouble she consulted a "white witch," *i.e.* a "wise" man, and
 by his orders she acted thus. She obtained a sheep's heart, and having
-stuck it full of pins <span id="fr_72"></span>[1](#fn_72) set it to
+stuck it full of pins <span id="fr_72"></span>[1](#fn_72.md) set it to
 roast before a fire, whilst her friends and neighbours sang:--
 
 It is not this heart I mean to burn.  
@@ -861,7 +861,7 @@ and says in describing the
 <span id="page_101">p. 101</span>
 
 things which witches are able to "effectuate by the power of their
-master <span id="fr_73"></span>[1](#fn_73)":--"To some others at these
+master <span id="fr_73"></span>[1](#fn_73.md)":--"To some others at these
 times hee teacheth, how to make pictures of waxe or clay: That by the
 roasting thereof, the persons that they beare the name of, may be
 continually melted or dried away by continuall sicknesse. . . . They can
@@ -892,7 +892,7 @@ existence is not unknown in our own country at the present time.
 This chapter may be fittingly ended by a notice of the benefits which
 accrued to a Christian merchant in the Levant from the use of a wax
 figure. According to an Ethiopic manuscript in the British Museum <span
-id="fr_74"></span>[1](#fn_74) this man was a shipowner as well as a
+id="fr_74"></span>[1](#fn_74.md) this man was a shipowner as well as a
 merchant, and be was wont to send his goods to market in his own ships;
 in his day, however, the sea was infested with pirates, and he lost
 greatly through their successful attacks upon his vessels. At length he
@@ -930,92 +930,92 @@ and he recovered his sight.
 
 ### Footnotes
 
-<span id="fn_51"></span>[67:1](ema05.htm#fr_51) Ed. Erman, pp. 7 and 8.
+<span id="fn_51"></span>[67:1](ema05.htm#fr_51.md) Ed. Erman, pp. 7 and 8.
 
-<span id="fn_52"></span>[69:1](ema05.htm#fr_52) I.e., the priestly
+<span id="fn_52"></span>[69:1](ema05.htm#fr_52.md) I.e., the priestly
 official who performed the most important of the funeral ceremonies; he
 was always a man of great learning, and generally of high rank.
 
-<span id="fn_53"></span>[71:1](ema05.htm#fr_53) *I.e.*, Chapter V. of
+<span id="fn_53"></span>[71:1](ema05.htm#fr_53.md) *I.e.*, Chapter V. of
 the Book of the Dead.
 
-<span id="fn_54"></span>[72:1](ema05.htm#fr_54) *I.e.*, Chapter V. of
+<span id="fn_54"></span>[72:1](ema05.htm#fr_54.md) *I.e.*, Chapter V. of
 the Book of the Dead.
 
-<span id="fn_55"></span>[72:2](ema05.htm#fr_55) This is, 1 think, the
+<span id="fn_55"></span>[72:2](ema05.htm#fr_55.md) This is, 1 think, the
 meaning of bringing the sand from the east to the west.
 
-<span id="fn_56"></span>[77:1](ema05.htm#fr_56) See Devéria, *Le Papyrus
+<span id="fn_56"></span>[77:1](ema05.htm#fr_56.md) See Devéria, *Le Papyrus
 Judiciaire de Turin* in *Journal Asiatique*, 1865; and Chabas, *Le
 Papyrus Magique Harris*, p. 169 ff.
 
-<span id="fn_57"></span>[79:1](ema05.htm#fr_57) See *Chapters of Coming
+<span id="fn_57"></span>[79:1](ema05.htm#fr_57.md) See *Chapters of Coming
 Forth by Day*, p. 89.
 
-<span id="fn_58"></span>[79:2](ema05.htm#fr_58) I have given a
+<span id="fn_58"></span>[79:2](ema05.htm#fr_58.md) I have given a
 hieroglyphic transcript of both works, with translations, in
 *Archæologia*, Vol. LII.
 
-<span id="fn_59"></span>[81:1](ema05.htm#fr_59) Theocritus has preserved
+<span id="fn_59"></span>[81:1](ema05.htm#fr_59.md) Theocritus has preserved
 for us a proof that the Greeks made use of wax figures at an early date.
 Thus in *Pharmakeutria* (1. 27 ff.) the lady spinning her wheel and
 addressing the Lynx says, "Even as I melt this wax, with the god to aid,
 so speedily may he by love be molten!" (Lang's *Translation*, p. 12).
 
-<span id="fn_60"></span>[86:1](ema05.htm#fr_60) This papyrus is
+<span id="fn_60"></span>[86:1](ema05.htm#fr_60.md) This papyrus is
 preserved in the British Museum (No. 10,472).
 
-<span id="fn_61"></span>[86:2](ema05.htm#fr_61) British Museum, No.
+<span id="fn_61"></span>[86:2](ema05.htm#fr_61.md) British Museum, No.
 20,868.
 
-<span id="fn_62"></span>[90:1](ema05.htm#fr_62) Nos. 15,563, 15,564,
+<span id="fn_62"></span>[90:1](ema05.htm#fr_62.md) Nos. 15,563, 15,564,
 15,573, and 15,578 in the Second Egyptian Room.
 
-<span id="fn_63"></span>[95:1](ema05.htm#fr_63) *i.e.*, Alexander the
+<span id="fn_63"></span>[95:1](ema05.htm#fr_63.md) *i.e.*, Alexander the
 Great.
 
-<span id="fn_64"></span>[95:2](ema05.htm#fr_64) For further mention of
+<span id="fn_64"></span>[95:2](ema05.htm#fr_64.md) For further mention of
 dreams, see the last chapter in this book.
 
-<span id="fn_65"></span>[96:1](ema05.htm#fr_65) See my *Life and
+<span id="fn_65"></span>[96:1](ema05.htm#fr_65.md) See my *Life and
 Exploits of Alexander the Great* (one volume edition), p. xvi.
 
-<span id="fn_66"></span>[96:2](ema05.htm#fr_66) The Greeks used
+<span id="fn_66"></span>[96:2](ema05.htm#fr_66.md) The Greeks used
 incantations at an early date, as we may see from Pindar, *Pythia*, iv.
 213; this writer lived in the first half of the fifth century before
 Christ.
 
-<span id="fn_67"></span>[97:1](ema05.htm#fr_67) I owe the facts of these
+<span id="fn_67"></span>[97:1](ema05.htm#fr_67.md) I owe the facts of these
 two examples of the use of wax figures and the two spells for procuring
 visions and dreams (see p. 96), and the example of the use of the sphere
 of Democritus (p. 230), to Mr. F. G. Kenyon, Assistant Keeper in the
 Dept. of MSS., British Museum.
 
-<span id="fn_68"></span>[98:1](ema05.htm#fr_68) See C. K. Sharpe,
+<span id="fn_68"></span>[98:1](ema05.htm#fr_68.md) See C. K. Sharpe,
 *Witchcraft in Scotland*, London, 1884, p. 21.
 
-<span id="fn_69"></span>[98:2](ema05.htm#fr_69) London, 1778.
+<span id="fn_69"></span>[98:2](ema05.htm#fr_69.md) London, 1778.
 
-<span id="fn_70"></span>[98:3](ema05.htm#fr_70) Born about 1570, died
+<span id="fn_70"></span>[98:3](ema05.htm#fr_70.md) Born about 1570, died
 about 1626.
 
-<span id="fn_71"></span>[99:1](ema05.htm#fr_71) London, 1895, pp. 53,
+<span id="fn_71"></span>[99:1](ema05.htm#fr_71.md) London, 1895, pp. 53,
 56.
 
-<span id="fn_72"></span>[100:1](ema05.htm#fr_72) In the Worth Riding of
+<span id="fn_72"></span>[100:1](ema05.htm#fr_72.md) In the Worth Riding of
 Yorkshire evil influences were averted by means of a living black cock
 which "was pierced with pins and roasted alive at dead of night, with
 every door, window, and cranny and crevice stuffed up" (see
 Blakeborough, *Wit, Character, Folk-lore and Customs of the North Riding
 of Yorkshire*, London, 1898, p. 205).
 
-<span id="fn_73"></span>[101:1](ema05.htm#fr_73) The following words are
+<span id="fn_73"></span>[101:1](ema05.htm#fr_73.md) The following words are
 put into the mouth of Epistemon in *Dæmonologie, in Forme of one
 Dialogue*, London, 1603, Second Booke, Chap. V. pp. 44, 45.
 
-<span id="fn_74"></span>[102:1](ema05.htm#fr_74) Oriental 646, fol. 29b
+<span id="fn_74"></span>[102:1](ema05.htm#fr_74.md) Oriental 646, fol. 29b
 ff.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Magical Pictures and Formulæ, Spells, Etc.](ema06)
+[Next: Chapter IV. Magical Pictures and Formulæ, Spells, Etc.](ema06.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss25)  [Next](oss27) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss25)  [Next](oss27.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@ Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
 
 # FINGAL
 
-### BOOK III  <span id="fr_79"></span>[1](#fn_79)
+### BOOK III  <span id="fr_79"></span>[1](#fn_79.md)
 
 ### ARGUMENT.
 
@@ -58,7 +58,7 @@ with pride; the death of the youth was dark in his soul. For none ever
 but Fingal, had overcome the strength of the mighty Starno. He sat in
 the hall of his shells in Lochlin's woody land. He called the
 gray-haired Snivan, that often sung round the circle  <span
-id="fr_80"></span>[1](#fn_80) of Loda; when the stone of power heard his
+id="fr_80"></span>[1](#fn_80.md) of Loda; when the stone of power heard his
 voice, and battle turned in the field of the valiant!
 
 "'Go, gray-haired Snivan,' Starno said: 'go to Ardven's sea-surrounded
@@ -82,7 +82,7 @@ afraid: they fled from the eyes of the king. The voice of sprightly
 mirth arose. The trembling harps of joy were strung. Bards sung the
 battles of heroes; they sung the heaving breast of love. Ullin, Fingal's
 bard, was there: the sweet voice of resounding Cona. He praised the
-daughter of Lochlin; and Morven's  <span id="fr_81"></span>[1](#fn_81)
+daughter of Lochlin; and Morven's  <span id="fr_81"></span>[1](#fn_81.md)
 high-descended chief. The daughter of Lochlin overheard. She left the
 hall of her secret sigh! She came in all her beauty, like the moon from
 the cloud of the east. Loveliness was round her as light. Her steps were
@@ -297,7 +297,7 @@ lightning of my steel.
 
 "Oscar! I was young, like thee, when lovely Fainasóllis came: that
 sunbeam! that mild light of love! the daughter of Craca's  <span
-id="fr_82"></span>[1](#fn_82) king. I then returned from Cona's heath,
+id="fr_82"></span>[1](#fn_82.md) king. I then returned from Cona's heath,
 and few were in my train. A white-sailed boat appeared far off; we saw
 it like a mist that rode on ocean's wind. It soon approached. We saw the
 fair. Her white breast heaved with sighs. The
@@ -383,22 +383,22 @@ king of swords, thou most renowned on the hills of Cona!
 
 ### Footnotes
 
-<span id="fn_79"></span>[318:1](oss26.htm#fr_79) The second night, since
+<span id="fn_79"></span>[318:1](oss26.htm#fr_79.md) The second night, since
 the opening of the poem, continues; and Cuthullin, Connal, and Carril,
 still sit in the place described in the preceding book.
 
-<span id="fn_80"></span>[319:1](oss26.htm#fr_80) This passage most
+<span id="fn_80"></span>[319:1](oss26.htm#fr_80.md) This passage most
 certainly alludes to the religion of Lochlin, and "the stone of power,"
 here mentioned, is the image of one of the deities of Scandinavia.
 
-<span id="fn_81"></span>[320:1](oss26.htm#fr_81) All the Northwest coast
+<span id="fn_81"></span>[320:1](oss26.htm#fr_81.md) All the Northwest coast
 of Scotland probably went, of old under the name of Morven, which
 signifies a ridge of very high hills.
 
-<span id="fn_82"></span>[326:1](oss26.htm#fr_82) What the Craca here
+<span id="fn_82"></span>[326:1](oss26.htm#fr_82.md) What the Craca here
 mentioned was, it is not, at this distance of time, easy to determine.
 The most probable opinion is, that it was one of the Shetland Isles.
 
 ------------------------------------------------------------------------
 
-[Next: Book IV](oss27)
+[Next: Book IV](oss27.md)

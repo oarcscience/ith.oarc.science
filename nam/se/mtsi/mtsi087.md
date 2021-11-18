@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi086)  [Next](mtsi088) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi086)  [Next](mtsi088.md) 
 
 ------------------------------------------------------------------------
 
 ### 85. THE DEVIL'S TASKS (9, 10)
 
-(EUROPEAN) <span id="fr_18"></span>[1](#fn_18)
+(EUROPEAN) <span id="fr_18"></span>[1](#fn_18.md)
 
 A man who was pretty well off was very fond of gambling with cards, and
 one time he lost everything he owned. Then he determined to find the
@@ -153,10 +153,10 @@ it was abandoned it now has a lonesome way of calling.
 
 ### Footnotes
 
-<span id="fn_18"></span>[76:1](mtsi087.htm#fr_18) Only the most patently
+<span id="fn_18"></span>[76:1](mtsi087.htm#fr_18.md) Only the most patently
 European stories are pointed out in this manner. The actual number of
 stories of European origin is very much greater.
 
 ------------------------------------------------------------------------
 
-[Next: 86. The Boy and the Lion](mtsi088)
+[Next: 86. The Boy and the Lion](mtsi088.md)

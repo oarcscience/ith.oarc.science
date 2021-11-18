@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey04)  [Next](grey06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey04)  [Next](grey06.md) 
 
 ------------------------------------------------------------------------
 
@@ -187,7 +187,7 @@ the window and the door.'
 So they pulled them out, and the bright rays of the sun came streaming
 into the house, and the whole of the Ponaturi perished before the light;
 they perished not by the hand of man, but withered before the sun's
-rays. <span id="fr_4"></span>[1](#fn_4)
+rays. <span id="fr_4"></span>[1](#fn_4.md)
 
 When the Ponaturi had been all destroyed, Tawhaki and Karihi carefully
 took down their father's bones from the roof of the house, and burnt
@@ -212,7 +212,7 @@ the heavens. In the early morning Tawhaki awoke and felt all
 over his sleeping place with both his hands, but in vain, he could
 nowhere find the young girl.
 
-From that time Tango-tango, <span id="fr_5"></span>[1](#fn_5) the girl
+From that time Tango-tango, <span id="fr_5"></span>[1](#fn_5.md) the girl
 of the heavenly race, stole every night to the side of Tawhaki, and lo,
 in the morning she was gone, until she found that she had conceived a
 child, who was afterwards named Arahuta; then full of love for Tawhaki,
@@ -369,7 +369,7 @@ them he sat down with the people who were working at the canoes.
 
 It now drew near evening, and his brothers-in-law finished their work,
 and called out to him: 'Ho! old fellow, there!--you just carry these
-heavy axes home for us, will you!' <span id="fr_6"></span>[1](#fn_6) He
+heavy axes home for us, will you!' <span id="fr_6"></span>[1](#fn_6.md) He
 at once consented
 
 <span id="page_53">p. 53</span>
@@ -506,7 +506,7 @@ the usual entrance to the house; and they repeated the prescribed
 prayers when she was carried through the wall out of the house.
 
 The prayers and incantations being finished, lightnings flashed from the
-arm-pits of Tawhaki; <span id="fr_7"></span>[1](#fn_7) then they carried
+arm-pits of Tawhaki; <span id="fr_7"></span>[1](#fn_7.md) then they carried
 the little girl to the water, and plunged her into it, and repeated a
 baptismal incantation over her.
 
@@ -514,25 +514,25 @@ baptismal incantation over her.
 
 ### Footnotes
 
-<span id="fn_4"></span>[47:1](grey05.htm#fr_4) The Maoris say that the
+<span id="fn_4"></span>[47:1](grey05.htm#fr_4.md) The Maoris say that the
 'Kanae', or salmon, had come on shore with the Ponaturi, and escaped out
 of the house by its power of leaping, gaining the water again by
 successive springs.
 
-<span id="fn_5"></span>[48:1](grey05.htm#fr_5) According to some
+<span id="fn_5"></span>[48:1](grey05.htm#fr_5.md) According to some
 traditions her name was Hapai.
 
-<span id="fn_6"></span>[52:1](grey05.htm#fr_6) The European reader
+<span id="fn_6"></span>[52:1](grey05.htm#fr_6.md) The European reader
 cannot at all enter into <span id="page_53">p. 53</span> the witty
 nature of this adventure in the estimation of a Maori; the idea of a
 sacred chief of high rank being by mistake treated as a common slave,
 conveys impressions to their minds of which we can form no accurate
 notion.
 
-<span id="fn_7"></span>[57:1](grey05.htm#fr_7) Tawhaki is said to still
+<span id="fn_7"></span>[57:1](grey05.htm#fr_7.md) Tawhaki is said to still
 dwell in the skies, and is worshipped as a god, and thunder and
 lightning are said to be caused by his footsteps when he moves.
 
 ------------------------------------------------------------------------
 
-[Next: Rupe's Ascent into Heaven](grey06)
+[Next: Rupe's Ascent into Heaven](grey06.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi291)  [Next](mtsi293) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi291)  [Next](mtsi293.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ the Owl.
 
 ------------------------------------------------------------------------
 
-[Next: 28. The Turtle](mtsi293)
+[Next: 28. The Turtle](mtsi293.md)

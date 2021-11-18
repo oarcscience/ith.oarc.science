@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](wosf00)  [Next](wosf02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](wosf00)  [Next](wosf02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -179,4 +179,4 @@ INDEX</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](wosf02)
+[Next: Introduction](wosf02.md)

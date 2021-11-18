@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb31)  [Next](vifb33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb31)  [Next](vifb33.md) 
 
 </div>
 
@@ -136,6 +136,6 @@ wife, and they lived together in great joy and happiness.
 
 ------------------------------------------------------------------------
 
-[Next: The Girl Who Pretended to Be a Boy](vifb33)
+[Next: The Girl Who Pretended to Be a Boy](vifb33.md)
 
 </div>

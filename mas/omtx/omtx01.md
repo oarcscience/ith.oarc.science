@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx00)  [Next](omtx02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx00)  [Next](omtx02.md) 
 
 ------------------------------------------------------------------------
 
@@ -177,4 +177,4 @@ found with the Constitution and Digest.
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](omtx02)
+[Next: Dedication](omtx02.md)

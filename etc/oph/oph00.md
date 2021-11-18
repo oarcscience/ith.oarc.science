@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Next](oph01) 
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Next](oph01.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1](oph01)
+[Next: Chapter 1](oph01.md)

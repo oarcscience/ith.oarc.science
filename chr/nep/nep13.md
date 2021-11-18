@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep12)  [Next](nep14) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep12)  [Next](nep14.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ Life and the *grave* two diffierent lessons give;
 
 ------------------------------------------------------------------------
 
-[Next: The Infant's Grace Before and After Meat](nep14)
+[Next: The Infant's Grace Before and After Meat](nep14.md)

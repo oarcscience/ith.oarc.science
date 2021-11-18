@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim75)  [Next](sim77) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim75)  [Next](sim77.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ the Otter whose finger he returned.
 
 ------------------------------------------------------------------------
 
-[Next: How Chipmunks Got Their Stripes](sim77)
+[Next: How Chipmunks Got Their Stripes](sim77.md)

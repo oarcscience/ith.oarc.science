@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe11)  [Next](toe13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe11)  [Next](toe13.md) 
 
 ------------------------------------------------------------------------
 
@@ -152,7 +152,7 @@ fragments of hard and solid bodies, worn or rounded more or less by
 attrition; consequently, the same natural history of the earth, which is
 investigated from the masses of gravel, is also applicable to those
 masses of sand which we find forming so large a portion of our present
-land throughout all the earth <span id="fr_23"></span>[16](#fn_23).
+land throughout all the earth <span id="fr_23"></span>[16](#fn_23.md).
 
 Clay is now to be considered as the last of those materials of which our
 strata are composed; but, in order to understand the nature of this
@@ -208,7 +208,7 @@ it produces heat or light, or both. Therefore, however animal matter, or
 the pabulum of life, may circulate through a series of digesting powers,
 it is constantly impaired or diminishing in the course of this economy,
 and, without the productive power of plants, it would finally be
-extinguished. <span id="fr_24"></span>[17](#fn_24)
+extinguished. <span id="fr_24"></span>[17](#fn_24.md)
 
 The animals of the former world must have been sustained during
 indefinite successions of ages. The mean quantity of animal matter,
@@ -510,7 +510,7 @@ computation, and such a measure is but little calculated to afford us
 the just means of a comparison with the present distance. He also says,
 indeed, that Sicily had been once joined with Italy. His words are:
 "Quondam Brutio agro cohaerens, mox interfuso mari avulsa. <span
-id="fr_25"></span>[18](#fn_25)" But all that we can conclude from this
+id="fr_25"></span>[18](#fn_25.md)" But all that we can conclude from this
 history of Pliny is, that, in all times, to people considering the
 appearances of those two approached coasts, it had seemed probable, that
 the sea formed a passage between the two countries which had been once
@@ -529,7 +529,7 @@ and also, at the eastern extremity of the port Eunoste, the sea-bath,
 cut in the solid rock upon the shore. Both those rocks, buffeted
 immediately with the waves of the Mediterranean sea, are, to all
 appearance, the same at this day as they were in ancient times. <span
-id="fr_26"></span>[19](#fn_26)
+id="fr_26"></span>[19](#fn_26.md)
 
 Many other such proofs will certainly occur, where the different parts
 of those coasts are examined by people of observation and intelligence.
@@ -654,7 +654,7 @@ prospect of an end.
 
 ### Footnotes
 
-<span id="fn_23"></span>[v1:16](toe12.htm#fr_23) Sand is a term that
+<span id="fn_23"></span>[v1:16](toe12.htm#fr_23.md) Sand is a term that
 denotes no particular substance; although by it is commonly meant a
 siliceous substance, as being by far the most prevalent. Sand is one of
 the modifications, of size and shape, in a hard body or solid substance,
@@ -689,15 +689,15 @@ kind of information with regard to the production of sand *by
 precipitation in a liquid*, it will then be time enough to think of
 forming the strata of the earth with that sand.\*
 
-<span id="fn_24"></span>[v1:17](toe12.htm#fr_24) See Dissertations on
+<span id="fn_24"></span>[v1:17](toe12.htm#fr_24.md) See Dissertations on
 different subjects of Natural Philosophy, part II.
 
-<span id="fn_25"></span>[v1:18](toe12.htm#fr_25) Lib. 3. cap. 8.
+<span id="fn_25"></span>[v1:18](toe12.htm#fr_25.md) Lib. 3. cap. 8.
 
-<span id="fn_26"></span>[v1:19](toe12.htm#fr_26) Lettres sur l'Egypte,
+<span id="fn_26"></span>[v1:19](toe12.htm#fr_26.md) Lettres sur l'Egypte,
 M. Savary.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. An Examination of Mr KIRWAN'S Objections to the
-Igneous Origin of Stony Substances](toe13)
+Igneous Origin of Stony Substances](toe13.md)

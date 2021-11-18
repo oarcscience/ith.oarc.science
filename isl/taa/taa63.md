@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa62)  [Next](taa64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa62)  [Next](taa64.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -53,6 +53,6 @@ from lovely spiritual beings.
 
 ------------------------------------------------------------------------
 
-[Next: LXI](taa64)
+[Next: LXI](taa64.md)
 
 </div>

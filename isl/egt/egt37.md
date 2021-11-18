@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt36)  [Next](egt38) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt36)  [Next](egt38.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ search, then seek thou in that the fountain of life.
 
 ------------------------------------------------------------------------
 
-[Next: CONCERNING THE HOUSE OF DECEPTION.](egt38)
+[Next: CONCERNING THE HOUSE OF DECEPTION.](egt38.md)

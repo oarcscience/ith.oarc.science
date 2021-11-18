@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma28)  [Next](fmma30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma28)  [Next](fmma30.md) 
 
 ------------------------------------------------------------------------
 
@@ -233,4 +233,4 @@ great and good king.
 
 ------------------------------------------------------------------------
 
-[Next: William Tell and Arnold Von Winkelried](fmma30)
+[Next: William Tell and Arnold Von Winkelried](fmma30.md)

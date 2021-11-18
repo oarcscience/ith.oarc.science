@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw04) 
-[Next](wbw06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw04.md) 
+[Next](wbw06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -181,6 +181,6 @@ and were right fain.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI: The Old Man Tells Walter Of Himself. Walter Sees A
-Shard In The Cliff-wall](wbw06)
+Shard In The Cliff-wall](wbw06.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar03)  [Next](gar05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar03)  [Next](gar05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -95,10 +95,10 @@ the names of Linus, Orpheus, Homer, and Hesiod--all strongly impregnated
 with the spirit of Judaism. But *his* Judaism was a very different thing
 from the simplicity of the Pentateuch. A single, but very
 characteristic, production, of this *Jewish* Gnosis has come down to our
-times. This is the "Book of Enoch" (v. [p. 18](gar05.htm#page_18)), of
+times. This is the "Book of Enoch" (v. [p. 18](gar05.htm#page_18).md), of
 which the main object is to *make known* the description of the heavenly
 bodies and the *true names* of the same, as revealed to the Patriarch by
-[the](errata.htm#1) angel Uriel. This profession betrays, of itself, the
+[the](errata.htm#1.md) angel Uriel. This profession betrays, of itself, the
 Magian source whence its inspiration was derived. Many Jews,
 nevertheless, accepted it as a divine revelation; even the Apostle Jude
 scruples not to quote it as of genuine Scriptural authority. The
@@ -113,7 +113,7 @@ textbook, the "Book of Adam." Its doctrines and singular application of
 Zoroastrism to Jewish tenets, present frequent analogies to those of the
 Pistis-Sophia, in its continual reference to the ideas of the "Religion
 of Light," of which full particulars will be given when the latter
-remarkable work comes to be considered (see [p. 14](gar05.htm#page_14)).
+remarkable work comes to be considered (see [p. 14](gar05.htm#page_14).md).
 "Gnosticism," therefore, cannot receive a better definition than in that
 dictum of the sect first and specially calling itself "Gnostics," the
 *Naaseni* (translated by the Greeks into "Ophites"), viz., "the
@@ -461,4 +461,4 @@ the best introduction to our inquiry into the nature of the system.
 
 ------------------------------------------------------------------------
 
-[Next: Pistis-Sophia](gar05)
+[Next: Pistis-Sophia](gar05.md)

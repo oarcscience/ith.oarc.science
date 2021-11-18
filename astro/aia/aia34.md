@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia33)  [Next](aia35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia33)  [Next](aia35.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ success in his affairs, &c. Aspects
 <span id="page_251">p. 251</span>
 
 by separation are not to be considered, but only those by
-*application*. <span id="fr_118"></span>[1](#fn_117)
+*application*. <span id="fr_118"></span>[1](#fn_117.md)
 
 *What manner of Death the Querent shall die*?
 
@@ -121,7 +121,7 @@ come to nothing in the end.
 <span id="img_fig23"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 23.](tn/fig23.jpg)  
-Click to enlarge](img/fig23.jpg)  
+Click to enlarge](img/fig23.jpg.md)  
 *Fig*. 23.  
 
 QUESTION.--SHALL THE QUERENT RECEIVE THE PORTION PROMISED?
@@ -148,11 +148,11 @@ judgment proved exactly true.
 
 ### Footnotes
 
-<span id="fn_117"></span>[251:1](aia34.htm#fr_118) If the fatal ☌ or
+<span id="fn_117"></span>[251:1](aia34.htm#fr_118.md) If the fatal ☌ or
 aspect fall in the term of ♃ or ♀, or exactly in their ✶ or △, there is
 much 'less fear of death.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXII. Of The Ninth House and its Questions. Long
-Journeys, Voyages, Arts, Science, Church Preferment, Law, &c.](aia35)
+Journeys, Voyages, Arts, Science, Church Preferment, Law, &c.](aia35.md)

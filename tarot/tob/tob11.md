@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob10) 
-[Next](tob12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob10.md) 
+[Next](tob12.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Relying firmly upon the basis which we have thus constructed, we can now
 study the symbols with absolute assurance.
 
 We hope that for this purpose you have procured the Tarot <span
-id="fr_30"></span>[1](#fn_30) of Marseilles, the most correct in its
+id="fr_30"></span>[1](#fn_30.md) of Marseilles, the most correct in its
 symbolism, or
 
 <span id="page_82">p. 82</span>
@@ -56,9 +56,9 @@ pack intact.
 
 The studies of those learned men who have investigated the Tarot have
 confirmed this fact by the strongest evidence. And the works of
-Chatto, <span id="fr_31"></span>[1](#fn_31) Boiteau <span
-id="fr_32"></span>[2](#fn_32) and above all of Merlin, <span
-id="fr_33"></span>[3](#fn_33) show us that history corroborates our
+Chatto, <span id="fr_31"></span>[1](#fn_31.md) Boiteau <span
+id="fr_32"></span>[2](#fn_32.md) and above all of Merlin, <span
+id="fr_33"></span>[3](#fn_33.md) show us that history corroborates our
 assertion.
 
 Merlin conducted his researches very scientifically, and succeeded in
@@ -81,12 +81,12 @@ We have given for reference the *pack of Mantegna*, known in the trade
 as the *cards of Baldini*, as well as the packs of the Italian Tarots,
 from which most of ours are derived.
 
-The tableau <span id="fr_34"></span>[1](#fn_34) which indicates the
+The tableau <span id="fr_34"></span>[1](#fn_34.md) which indicates the
 connection between the Tarot packs and that of Mantegna, ought to be
 reversed, and on the contrary show the cards of Mantegna derived from
 the Tarot, as we have stated.
 
-Here are the figures of the Tarots. (See page [84](#page_84).)
+Here are the figures of the Tarots. (See page [84](#page_84)..md)
 
 <span id="page_84">p. 84</span>
 
@@ -475,7 +475,7 @@ CHINESE TAROT.
 An inexperienced eye might find some difficulty in recognizing the Tarot
 in these games, but the Chinese have given us an irrefutable argument in
 favour of our assertion, in the arrangement of their Tarot, which is
-represented by the figure on page [88](#page_88).
+represented by the figure on page [88](#page_88.md).
 
 We have placed the correspondences of the minor and major arcana, and of
 the four letters of the tetragrammaton, above this figure.
@@ -658,14 +658,14 @@ The *Tarot of Watillaux*, or pack of the princess Tarot, reproduces the
 minor arcana very correctly. It is worth consideration on this account.
 
 The *Italian Tarot, that of Besançon and of Marseilles*, <span
-id="fr_35"></span>[1](#fn_35) are unquestionably the best which we now
+id="fr_35"></span>[1](#fn_35.md) are unquestionably the best which we now
 possess, particularly the latter, which fairly reproduces the *Primitive
 symbolical Tarot*.
 
 FOREIGN PACKS OF TAROTS.
 
 Besides the Italian we must quote the German Tarot, in which the symbols
-of the minor arcana are [different](errata.htm#0).
+of the minor arcana are [different](errata.htm#0.md).
 
 For
 
@@ -723,7 +723,7 @@ enable us
  
 
 <span id="img_09000"></span> [![](tn/09000.jpg)  
-Click to enlarge](img/09000.jpg)
+Click to enlarge](img/09000.jpg.md)
 
  
 
@@ -785,23 +785,23 @@ signs.
 This conclusion is scarcely reached, when fresh light shines upon us
 from all sides.
 
-Guillaume Postel <span id="fr_36"></span>[1](#fn_36) reveals to us the
+Guillaume Postel <span id="fr_36"></span>[1](#fn_36.md) reveals to us the
 connection between the Hebrew letters and the Tarot; *Van Helmont
-fils*, <span id="fr_37"></span>[2](#fn_37) *Claude de
-Saint-Martin*, <span id="fr_38"></span>[3](#fn_38) *Fabre
-d'Olivet*, <span id="fr_39"></span>[4](#fn_39) all confirm our opinion;
-lastly, *Eliphas Levi* <span id="fr_40"></span>[5](#fn_40) also throws
+fils*, <span id="fr_37"></span>[2](#fn_37.md) *Claude de
+Saint-Martin*, <span id="fr_38"></span>[3](#fn_38.md) *Fabre
+d'Olivet*, <span id="fr_39"></span>[4](#fn_39.md) all confirm our opinion;
+lastly, *Eliphas Levi* <span id="fr_40"></span>[5](#fn_40.md) also throws
 the weight of his marvellous learning into the question.
 
 But we are more surprised to find that the *Sepher Yetzirah*, <span
-id="fr_41"></span>[6](#fn_41) an old book of the Kabbalah, which
+id="fr_41"></span>[6](#fn_41.md) an old book of the Kabbalah, which
 contains a study upon the formation of the Hebrew alphabet, arrives at a
 division of the letters which exactly corresponds with
 
 <span id="page_93">p. 93</span>
 
 the astrological data contained in an old manuscript in the Vatican,
-upon which *Christian* <span id="fr_42"></span>[1](#fn_42) based his
+upon which *Christian* <span id="fr_42"></span>[1](#fn_42.md) based his
 horoscopic works.
 
 One single and identical conclusion arises from all these different
@@ -844,7 +844,7 @@ according to its form, with a symbol according to its affinities with
 the other letters.
 
 As we have already said, all the letters are derived from one amongst
-them, the *yod*. <span id="fr_43"></span>[1](#fn_43) The yod has
+them, the *yod*. <span id="fr_43"></span>[1](#fn_43.md) The yod has
 generated them in the following manner (see *Sepher Yetzirah*)--
 
 1st. Three mothers:
@@ -876,7 +876,7 @@ positive strong, the other negative soft);
 
 To render this clearer, we will give the Hebrew alphabet here,
 indicating the quality of each letter and its rank. (See page
-[95](#page_95).)
+[95](#page_95)..md)
 
 We have now given a fixed principle for symbolism in the Hebrew letter,
 and need not fear being deceived by the false interpretation of a
@@ -920,49 +920,49 @@ this digression.
 
 ### Footnotes
 
-<span id="fn_30"></span>[81:1](tob11.htm#fr_30) See [p. 89](#page_89),
+<span id="fn_30"></span>[81:1](tob11.htm#fr_30) See [p. 89](#page_89.md),
 the price of the Tarots and the addresses where they may be procured.
 
-<span id="fn_31"></span>[82:1](tob11.htm#fr_31) Chatto, *Facts and
+<span id="fn_31"></span>[82:1](tob11.htm#fr_31.md) Chatto, *Facts and
 Speculations on the Origin and History of Playing Cards in Europe*. 8vo.
 London, 1848.
 
-<span id="fn_32"></span>[82:2](tob11.htm#fr_32) Boiteau, *Les Cartes à
+<span id="fn_32"></span>[82:2](tob11.htm#fr_32.md) Boiteau, *Les Cartes à
 Jouer et la Cartomancie*. 4to. Paris, 1864.
 
-<span id="fn_33"></span>[82:3](tob11.htm#fr_33) Merlin, *Origine des
+<span id="fn_33"></span>[82:3](tob11.htm#fr_33.md) Merlin, *Origine des
 Cartes à Jouer, recherches nouvelles sur les Naïbis, les Tarots et sur
 les autres Espèces de Cartes*. A work ornamented with 70 illustrations.
 4to. Paris, 1869.
 
-<span id="fn_34"></span>[83:1](tob11.htm#fr_34) Page [86](#page_86).
+<span id="fn_34"></span>[83:1](tob11.htm#fr_34) Page [86](#page_86.md).
 
-<span id="fn_35"></span>[89:1](tob11.htm#fr_35) These Tarots are to be
+<span id="fn_35"></span>[89:1](tob11.htm#fr_35.md) These Tarots are to be
 found in Paris, 20 Rue de la Banque, M. Pussey, at 4 francs; and one is
 published in London by Mr. George Redway, 15 York Street, Covent Garden.
 
-<span id="fn_36"></span>[92:1](tob11.htm#fr_36) Clavis.
+<span id="fn_36"></span>[92:1](tob11.htm#fr_36.md) Clavis.
 
-<span id="fn_37"></span>[92:2](tob11.htm#fr_37) *Origin of Language*
+<span id="fn_37"></span>[92:2](tob11.htm#fr_37.md) *Origin of Language*
 (Latin).
 
-<span id="fn_38"></span>[92:3](tob11.htm#fr_38) *Tableaux naturels des
+<span id="fn_38"></span>[92:3](tob11.htm#fr_38.md) *Tableaux naturels des
 rapports qui existent entre Dieu, l'homme et l'Univers*.
 
-<span id="fn_39"></span>[92:4](tob11.htm#fr_39) *La Langue Hébraïque
+<span id="fn_39"></span>[92:4](tob11.htm#fr_39.md) *La Langue Hébraïque
 Restituée*.
 
-<span id="fn_40"></span>[92:5](tob11.htm#fr_40) *Rituel de la Haute
+<span id="fn_40"></span>[92:5](tob11.htm#fr_40.md) *Rituel de la Haute
 Magie*.
 
-<span id="fn_41"></span>[92:6](tob11.htm#fr_41) Translated into English
+<span id="fn_41"></span>[92:6](tob11.htm#fr_41.md) Translated into English
 by Dr. Wynn Westcott.
 
-<span id="fn_42"></span>[93:1](tob11.htm#fr_42) *Histoire de la Magie*.
+<span id="fn_42"></span>[93:1](tob11.htm#fr_42.md) *Histoire de la Magie*.
 
-<span id="fn_43"></span>[94:1](tob11.htm#fr_43) See above ([p.
-19](tob04.htm#page_19)): Study upon the word *Yod-he-vau-he*.
+<span id="fn_43"></span>[94:1](tob11.htm#fr_43.md) See above ([p.
+19](tob04.htm#page_19).md): Study upon the word *Yod-he-vau-he*.
 
 ------------------------------------------------------------------------
 
-[Next: Scheme of Work](tob12)
+[Next: Scheme of Work](tob12.md)

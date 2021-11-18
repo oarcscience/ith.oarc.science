@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw13)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw13.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -463,5 +463,5 @@ Become thyself the Writing and thyself the Sense.<br />
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index) [Index](index)
+[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index) [Index](index.md)

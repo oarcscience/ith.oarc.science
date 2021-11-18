@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](teia06)  [Next](teia08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](teia06)  [Next](teia08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -150,4 +150,4 @@ could dwell there no more.
 
 ------------------------------------------------------------------------
 
-[Next: V. Bran the Blessed](teia08)
+[Next: V. Bran the Blessed](teia08.md)

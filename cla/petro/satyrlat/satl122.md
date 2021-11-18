@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat15.htm#CXXII) 
-[Previous](satl121)  [Next](satl123) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat15.htm#CXXII.md) 
+[Previous](satl121)  [Next](satl123.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ crevit, et aurato praecinxit fulgure vultus.
 
 ------------------------------------------------------------------------
 
-[Next: CXXIII](satl123)
+[Next: CXXIII](satl123.md)

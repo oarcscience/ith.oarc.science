@@ -1,5 +1,5 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Next](tem) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Next](tem.md) 
 
 ------------------------------------------------------------------------
 
@@ -377,4 +377,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Tempest](tem) 
+[Next: The Tempest](tem.md) 

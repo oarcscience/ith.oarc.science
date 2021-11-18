@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam11)  [Next](adam13) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam11)  [Next](adam13.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ terms and might contain uncorrect translations\].
 
 ------------------------------------------------------------------------
 
-[Next: Marriage of Adam and Eve](adam13)
+[Next: Marriage of Adam and Eve](adam13.md)

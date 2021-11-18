@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo53)  [Next](sdo55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo53)  [Next](sdo55.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ the chooser must know the songs that belong to it.
 
 ------------------------------------------------------------------------
 
-[Next: Sicun](sdo55)
+[Next: Sicun](sdo55.md)

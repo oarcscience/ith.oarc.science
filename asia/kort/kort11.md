@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort10)  [Next](kort12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort10)  [Next](kort12.md) 
 
 ------------------------------------------------------------------------
 
-# 7. Eme'mqut's Whale-Festival. <span id="fr_21"></span>[1](#fn_21)
+# 7. Eme'mqut's Whale-Festival. <span id="fr_21"></span>[1](#fn_21.md)
 
 Eme'mqut and his people were living. They were hunting whales, and
 killed one whale. They took it home. Then they arranged a thanksgiving
@@ -32,7 +32,7 @@ strap it to my thigh. With what shall I eat the whale-skin, eh?"
 <span id="page_47">p. 47</span>
 
 The old man Big-Raven said, "Ah, ah! they are singing about their
-feeding at other people's expense." <span id="fr_22"></span>[1](#fn_22)
+feeding at other people's expense." <span id="fr_22"></span>[1](#fn_22.md)
 Still another Fox-Woman began to sing. She also grew excited. "I am she
 who eats hard excrements. I am she who gnaws the snowshoe-strings."
 
@@ -87,13 +87,13 @@ loads (and went away). That is the end.
 
 ### Footnotes
 
-<span id="fn_21"></span>[45:1](kort11.htm#fr_21) Compare W. Jochelson,
+<span id="fn_21"></span>[45:1](kort11.htm#fr_21.md) Compare W. Jochelson,
 The Koryak, l. c., No. 89, p. 266.
 
-<span id="fn_22"></span>[47:1](kort11.htm#fr_22) This means, that they
+<span id="fn_22"></span>[47:1](kort11.htm#fr_22.md) This means, that they
 are exclaiming about (the fact that they are consuming what serves for)
 the bringing: up of other people's (children).
 
 ------------------------------------------------------------------------
 
-[Next: 8. Eme'mqut and Ila'](kort12)
+[Next: 8. Eme'mqut and Ila'](kort12.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](nah)  [Next](zep) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](nah)  [Next](zep.md) 
 
 ------------------------------------------------------------------------
 
@@ -219,4 +219,4 @@ meus pés como os da corça, e me fará andar sobre os meus lugares altos.
 
 ------------------------------------------------------------------------
 
-[Next: Zephaniah](zep)
+[Next: Zephaniah](zep.md)

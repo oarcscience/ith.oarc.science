@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli10)  [Next](mfli12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli10)  [Next](mfli12.md) 
 
 ------------------------------------------------------------------------
 
@@ -469,4 +469,4 @@ of Erin.
 
 ------------------------------------------------------------------------
 
-[Next: Birth of Fin MacCumhail](mfli12)
+[Next: Birth of Fin MacCumhail](mfli12.md)

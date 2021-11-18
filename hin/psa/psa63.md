@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa62)  [Next](psa64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa62)  [Next](psa64.md) 
 
 ------------------------------------------------------------------------
 
@@ -258,4 +258,4 @@ Unroodrù's marriage, and have destroyed the very wicked Rookum."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXIII](psa64)
+[Next: Chapter LXIII](psa64.md)

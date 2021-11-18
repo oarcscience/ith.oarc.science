@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt09)  [Next](crt11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt09)  [Next](crt11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ id="page_161">p. 161</span> <span id="Page_161"></span>
 <span id="image17"></span><span id="img_image17"></span>
 
 [![NEW YEAR MUMMERS IN MANCHURIA.](tn/image17.jpg)  
-Click to enlarge](img/image17.jpg)  
+Click to enlarge](img/image17.jpg.md)  
   
 
 NEW YEAR MUMMERS IN MANCHURIA.
@@ -65,7 +65,7 @@ Christianity upon pagan usages is well suggested by Dr. Karl Pearson:﻿—
 > witchcraft; what he judiciously disregarded survives to this <span
 > id="page_162">p. 162</span> <span id="Page_162"></span>day in peasant
 > weddings and in the folk-festivals at the great changes of
-> season.”﻿ [7-1](crt22.htm#Note_7-1)<span id="Nanchor_7-1"></span>
+> season.”﻿ [7-1](crt22.htm#Note_7-1.md)<span id="Nanchor_7-1"></span>
 
 We find then many pagan practices concealed beneath a superficial
 Christianity﻿—often under the mantle of some saint﻿—but side by side
@@ -88,7 +88,7 @@ external form of these practices, but often all serious significance has
 departed. What was once religious or magical ritual, upon the due
 observance of which the welfare of the community was believed to depend,
 has become mere pageantry and amusement, often a mere children's
-game.﻿ [7-2](crt22.htm#Note_7-2)<span id="Nanchor_7-2"></span>
+game.﻿ [7-2](crt22.htm#Note_7-2.md)<span id="Nanchor_7-2"></span>
 
 Sometimes the spirit of a later age has worked upon these pagan customs,
 revivifying and transforming them, giving them charm. Often, however,
@@ -104,7 +104,7 @@ id="page_163">p. 163</span> <span id="Page_163"></span>beautiful things
 have flourished. Amid these, as has been well said, “they still emerge,
 unchanged and unchanging, like the quaint outcrops of some ancient rock
 formation amid rich vegetation and fragrant
-flowers.”﻿ [7-3](crt22.htm#Note_7-3)<span id="Nanchor_7-3"></span>
+flowers.”﻿ [7-3](crt22.htm#Note_7-3.md)<span id="Nanchor_7-3"></span>
 
 The survivals of pagan religion at Christian festivals relate not so
 much to the worship of definite divinities﻿—against this the
@@ -121,14 +121,14 @@ Many of the customs we shall meet with are magical, rather than
 religious in the proper sense; they are not directed to the conciliation
 of spiritual beings, but spring from primitive man's belief “that in
 order to produce the great phenomena of nature on which his life
-depended he had only to imitate them.”﻿ [7-4](crt22.htm#Note_7-4)<span
+depended he had only to imitate them.”﻿ [7-4](crt22.htm#Note_7-4.md)<span
 id="Nanchor_7-4"></span> Even when they have a definitely religious
 character, and are connected with some spirit, magical elements are
 often found in them.
 
 Before we consider these customs in detail it will be necessary to
 survey the pagan festivals briefly alluded to in
- [I](crt04.htm#Chapter_I), to note the various ideas and practices that
+ [I](crt04.htm#Chapter_I.md), to note the various ideas and practices that
 characterized them, and to study the attitude of the Church towards
 survivals of such practices while the conversion of Europe was in
 progress, and also during the Middle Ages.
@@ -149,7 +149,7 @@ folk-practices of countries now Aryan in speech came entirely or even
 chiefly from Aryan sources. Religious tradition has a marvellous power
 of persistence, and it must be remembered that the lands conquered by
 men of Aryan speech had been previously occupied for immense
-periods.﻿ [7-5](crt22.htm#Note_7-5)<span id="Nanchor_7-5"></span>
+periods.﻿ [7-5](crt22.htm#Note_7-5.md)<span id="Nanchor_7-5"></span>
 Similarly, in countries like our own, which have been successively
 invaded by Celts, Romans, Anglo-Saxons, Danes, and Normans, it is often
 extraordinarily hard to say even to what *national* source a given
@@ -168,7 +168,7 @@ to be noted, “reveals for the same stages of civilization a wonderful
 uniformity and homogeneity.... This uniformity is not, however, due to
 necessary uniformity of origin, but to a great extent to the fact that
 it represents the state of equilibrium arrived at between minds at a
-certain level and their environment.”﻿ [7-6](crt22.htm#Note_7-6)<span
+certain level and their environment.”﻿ [7-6](crt22.htm#Note_7-6.md)<span
 id="Nanchor_7-6"></span>
 
 The scientific study of primitive religion is still almost in its
@@ -183,7 +183,7 @@ entirely of institutions and practices ... as a rule we find that while
 the practice was <span id="page_165">p. 165</span> <span
 id="Page_165"></span>rigorously fixed, the meaning attached to it was
 extremely vague, and the same rite was explained by different people in
-different ways.”﻿ [7-7](crt22.htm#Note_7-7)<span
+different ways.”﻿ [7-7](crt22.htm#Note_7-7.md)<span
 id="Nanchor_7-7"></span>
 
 Thus if we can arrive at the significance of a rite at a given period,
@@ -199,7 +199,7 @@ With these cautions and reservations we must now try to trace the
 connection between present-day or recent goings-on about Christmas-time
 and the festival practices of pre-Christian Europe.
 
-Christmas, as we saw in  [I](crt04.htm#Chapter_I), has taken the date of
+Christmas, as we saw in  [I](crt04.htm#Chapter_I.md), has taken the date of
 the *Natalis Invicti*. We need not linger over this feast, for it was
 not attended by folk-customs, and there is nothing to connect it with
 modern survivals. The Roman festivals that really count for our present
@@ -212,12 +212,12 @@ popularity was not so widespread as that of the Kalends. There are,
 however, some curiously interesting Christmas parallels to its usages.
 
 The strictly religious feast of the
-*Saturnalia*﻿ [7-8](crt22.htm#Note_7-8)<span id="Nanchor_7-8"></span>
+*Saturnalia*﻿ [7-8](crt22.htm#Note_7-8.md)<span id="Nanchor_7-8"></span>
 was held on December 17, but the festal customs were kept up for seven
 days, thus lasting until the day before our Christmas Eve. Among them
 was a fair called the *sigillariorum celebritas*, for the sale of little
 images of clay or paste which were given away as
-presents.﻿ [81](crt24.htm#Footnote_81)<span id="FNanchor_81"></span>
+presents.﻿ [81](crt24.htm#Footnote_81.md)<span id="FNanchor_81"></span>
 Candles seem also to have been given away, perhaps <span
 id="page_166">p. 166</span> <span id="Page_166"></span>as symbols of, or
 even charms to ensure, the return of the sun's power after the solstice.
@@ -230,7 +230,7 @@ by “drinking and being drunk, noise and games and dice, appointing of
 kings and feasting of slaves, singing naked, clapping of tremulous
 hands, an occasional ducking of corked faces in icy water,” and that
 slaves had licence to revile their
-lords.﻿ [7-9](crt22.htm#Note_7-9)<span id="Nanchor_7-9"></span>
+lords.﻿ [7-9](crt22.htm#Note_7-9.md)<span id="Nanchor_7-9"></span>
 
 The spirit of the season may be judged from the legislation which Lucian
 attributes to Cronosolon, priest and prophet of Cronus, much as a modern
@@ -265,7 +265,7 @@ Board,” of which the following are a few:﻿—
 > meat shall be alike.*
 >
 > *When the rich man shall feast his slaves, let his friends serve with
-> him.* ”﻿ [7-11](crt22.htm#Note_7-11)<span id="Nanchor_7-11"></span>
+> him.* ”﻿ [7-11](crt22.htm#Note_7-11.md)<span id="Nanchor_7-11"></span>
 
 Over the whole festival brooded the thought of a golden age in the
 distant past, when Saturn ruled, a just and kindly monarch, when all men
@@ -275,20 +275,20 @@ A striking feature of the *Saturnalia* was the choosing by lot of a mock
 king, to preside over the revels. His word was law, and he was able to
 lay ridiculous commands upon the guests; “one,” says Lucian, “must shout
 out a libel on himself, another dance naked, or pick up the flute-girl
-and carry her thrice round the house.”﻿ [7-12](crt22.htm#Note_7-12)<span
+and carry her thrice round the house.”﻿ [7-12](crt22.htm#Note_7-12.md)<span
 id="Nanchor_7-12"></span> This king may have been originally the
 representative of the god Saturn himself. In the days of the classical
 writers he is a mere “Lord of Misrule,” but Dr. Frazer has propounded
 the very interesting theory that this time of privilege and gaiety was
 once but the prelude to a grim sacrifice in which he had to die in the
 character of the god, giving his life for the
-world.﻿ [7-13](crt22.htm#Note_7-13)<span id="Nanchor_7-13"></span> Dr.
+world.﻿ [7-13](crt22.htm#Note_7-13.md)<span id="Nanchor_7-13"></span> Dr.
 Frazer's theory, dependent for its evidence upon the narrative of the
 martyrdom of a fourth-century saint, Dasius by name, has been keenly
 criticized by Dr. Warde Fowler. He holds that there is nothing whatever
 to show that the “Saturn” who in the fourth century, according to the
 story, was sacrificed by soldiers on the Danube, had anything to do with
-the customs of ancient Rome.﻿ [7-14](crt22.htm#Note_7-14)<span
+the customs of ancient Rome.﻿ [7-14](crt22.htm#Note_7-14.md)<span
 id="Nanchor_7-14"></span> Still, in whatever way the king of the
 *Saturnalia* may be explained, it is interesting to note his existence
 and compare him with the merry monarchs whom we shall meet at Christmas
@@ -298,7 +298,7 @@ How far the Saturnalian customs in general were of old Latin origin it
 is difficult to say; the name Saturnus (connected with the root of
 *serere*, to sow) and the date point to a real Roman festival of the
 sowing of the crops, but this was heavily overlaid with Greek ideas and
-practice.﻿ [7-15](crt22.htm#Note_7-15)<span id="Nanchor_7-15"></span> It
+practice.﻿ [7-15](crt22.htm#Note_7-15.md)<span id="Nanchor_7-15"></span> It
 is especially important to bear this in mind in considering Lucian's
 statements.
 
@@ -317,7 +317,7 @@ standing in the porch of his palace to receive them in person. Such
 gifts, not only presented to the Emperor, but frequently exchanged
 between private persons, were called *strenae*, a name still surviving
 in the French *étrennes* (New Year's
-presents).﻿ [7-16](crt22.htm#Note_7-16)<span id="Nanchor_7-16"></span>
+presents).﻿ [7-16](crt22.htm#Note_7-16.md)<span id="Nanchor_7-16"></span>
 
 An interesting and very full account of the Kalends celebrations is
 given in two discourses of Libanius, the famous Greek sophist of the
@@ -347,7 +347,7 @@ fourth century:﻿—
 > 169</span> <span id="Page_169"></span>Another great quality of the
 > festival is that it teaches men not to hold too fast to their money,
 > but to part with it and let it pass into other
-> hands.”﻿ [7-17](crt22.htm#Note_7-17)<span id="Nanchor_7-17"></span>
+> hands.”﻿ [7-17](crt22.htm#Note_7-17.md)<span id="Nanchor_7-17"></span>
 
 The resemblances here to modern Christmas customs are very striking. In
 another discourse Libanius speaks of processions on the Eve of the
@@ -361,25 +361,25 @@ January money is distributed to the populace; on the 2nd no more
 presents are given: it is customary to stay at home playing dice,
 masters and slaves together. On the 3rd there is racing; on the 4th the
 festivities begin to decline, but they are not altogether over on the
-5th.﻿ [7-18](crt22.htm#Note_7-18)<span id="Nanchor_7-18"></span>
+5th.﻿ [7-18](crt22.htm#Note_7-18.md)<span id="Nanchor_7-18"></span>
 
 Another feature of the Kalends, recorded not in the pages of classical
 writers but in ecclesiastical condemnations, was the custom of dressing
 up in the hides of animals, in women's clothes, and in masks of various
-kinds.﻿ [7-19](crt22.htm#Note_7-19)<span id="Nanchor_7-19"></span> Dr.
-Tille﻿ [7-20](crt22.htm#Note_7-20)<span id="Nanchor_7-20"></span>
+kinds.﻿ [7-19](crt22.htm#Note_7-19.md)<span id="Nanchor_7-19"></span> Dr.
+Tille﻿ [7-20](crt22.htm#Note_7-20.md)<span id="Nanchor_7-20"></span>
 regards this as Italian in origin, but it seems likely that it was a
 native custom in Greece, Gaul, Germany, and other countries conquered by
 the Romans. In Greece the skin-clad mummers may have belonged to the
 winter festivals of Dionysus supplanted by the
-*Kalendae*.﻿ [7-21](crt22.htm#Note_7-21)<span id="Nanchor_7-21"></span>
+*Kalendae*.﻿ [7-21](crt22.htm#Note_7-21.md)<span id="Nanchor_7-21"></span>
 
 The Church's denunciations of pagan festal practices in the winter
 season are mainly directed against the Kalends celebrations, and show
 into how many regions the keeping of the feast had spread. Complaints of
 its continued observance abound in the writings of churchmen and the
 decrees of councils. In the second volume of his “Mediaeval
-Stage”﻿ [7-22](crt22.htm#Note_7-22)<span id="Nanchor_7-22"></span> Mr.
+Stage”﻿ [7-22](crt22.htm#Note_7-22.md)<span id="Nanchor_7-22"></span> Mr.
 Chambers has made an interesting collection of forty excerpts from such
 denunciations, ranging in date from the fourth century to the eleventh,
 and coming from Spain, Italy, Antioch, northern Africa, Constantinople,
@@ -421,14 +421,14 @@ Caesarius of Arles in southern Gaul:﻿—
 > fast should be proclaimed.... Let us therefore fast, beloved brethren,
 > on those days.... For he who on the Kalends shows any civility to
 > foolish men who are wantonly sporting, is undoubtedly a partaker of
-> their sin.”﻿ [7-23](crt22.htm#Note_7-23)<span
+> their sin.”﻿ [7-23](crt22.htm#Note_7-23.md)<span
 > id="Nanchor_7-23"></span>
 
 There are several points to be noted here. First, the zeal of the Church
 against the Kalends celebrations as impious relics of <span
 id="page_171">p. 171</span> <span id="Page_171"></span>heathenism: to
 root them out she even made the first three days of the year a solemn
-fast with litanies.﻿ [7-24](crt22.htm#Note_7-24)<span
+fast with litanies.﻿ [7-24](crt22.htm#Note_7-24.md)<span
 id="Nanchor_7-24"></span> Next, the particular offences should be
 observed. These are: first, the dressing up of men in the hides of
 animals and the clothes of women; next, the New Year auguries and the
@@ -448,7 +448,7 @@ that time no one would lend fire or iron or any other article to his
 neighbour. The Pope replied that these things were odious to him, and
 should be so to all Christians; and next year all such practices at the
 January Kalends were formally forbidden by the Council of
-Rome.﻿ [7-25](crt22.htm#Note_7-25)<span id="Nanchor_7-25"></span>
+Rome.﻿ [7-25](crt22.htm#Note_7-25.md)<span id="Nanchor_7-25"></span>
 
 So much for Roman customs; if indeed such practices as beast-masking are
 Roman, and not derived from the religion of peoples conquered by the
@@ -467,7 +467,7 @@ the Anglo-Saxon word *hwéol* (wheel), and connected with the circular
 the sun through the wheeling-points of the solstices and equinoxes. More
 recent research, however, has thrown the gravest doubts upon the
 existence of any Teutonic festival at the winter
-solstice.﻿ [82](crt24.htm#Footnote_82)<span id="FNanchor_82"></span> It
+solstice.﻿ [82](crt24.htm#Footnote_82.md)<span id="FNanchor_82"></span> It
 appears from philology and the study of surviving customs that the
 Teutonic peoples had no knowledge of the solstices and equinoxes, and
 until the introduction of the Roman Calendar divided their year not into
@@ -478,8 +478,8 @@ Europe the first snowfall usually occurred and the pastures were closed
 to the flocks. A great slaughter of cattle would then take place, it
 being impossible to keep the beasts in stall throughout the winter, and
 this time of slaughter would naturally be a season of feasting and
-sacrifice and religious observances.﻿ [83](crt24.htm#Footnote_83)<span
-id="FNanchor_83"></span>﻿ [7-26](crt22.htm#Note_7-26)<span
+sacrifice and religious observances.﻿ [83](crt24.htm#Footnote_83.md)<span
+id="FNanchor_83"></span>﻿ [7-26](crt22.htm#Note_7-26.md)<span
 id="Nanchor_7-26"></span>
 
 The Celtic year, like the Teutonic, appears to have begun in November
@@ -490,12 +490,12 @@ assistance to the powers of growth in their conflict with the powers of
 blight,” and to have had many features in common with the Teutonic feast
 at the same season, for instance animal sacrifice, commemoration of the
 dead, and omens and charms for the New
-Year.﻿ [7-27](crt22.htm#Note_7-27)<span id="Nanchor_7-27"></span>
+Year.﻿ [7-27](crt22.htm#Note_7-27.md)<span id="Nanchor_7-27"></span>
 
 There is some reason also to believe that the New Year <span
 id="page_173">p. 173</span> <span id="Page_173"></span>festival of the
 Slavs took place in the autumn and that its usages have been transferred
-to the feast of the Nativity.﻿ [7-29](crt22.htm#Note_7-29)<span
+to the feast of the Nativity.﻿ [7-29](crt22.htm#Note_7-29.md)<span
 id="Nanchor_7-29"></span> A description based on contemporary documents
 cannot be given of these barbarian festivals; we have, rather, to
 reconstruct them from survivals in popular custom. At the close of this
@@ -518,10 +518,10 @@ the beginning-of-winter festival. Other practices are found strewn over
 various holy-days between Martinmas and Epiphany, and concentrated above
 all on the Church's feast of the Nativity and the Roman New Year's Day,
 January 1, both of which had naturally great power of
-attraction.﻿ [7-30](crt22.htm#Note_7-30)<span id="Nanchor_7-30"></span>
+attraction.﻿ [7-30](crt22.htm#Note_7-30.md)<span id="Nanchor_7-30"></span>
 
 The progress of agriculture, as Dr. Tille points
-out,﻿ [7-31](crt22.htm#Note_7-31)<span id="Nanchor_7-31"></span> tended
+out,﻿ [7-31](crt22.htm#Note_7-31.md)<span id="Nanchor_7-31"></span> tended
 to destroy the mid-November celebration. In the Carolingian period an
 improvement took place in the cultivation of meadows, and the increased
 quantity of hay made it possible to keep the animals fattening in stall,
@@ -536,7 +536,7 @@ id="Page_174"></span>must remember the difference between its climate
 and that of Central Europe. Mid-November would here not be a date beyond
 which pasturing was impossible, and thus the slaughter and feast held
 then by Angles and Saxons in their old German home would tend to be
-delayed.﻿ [7-32](crt22.htm#Note_7-32)<span id="Nanchor_7-32"></span>
+delayed.﻿ [7-32](crt22.htm#Note_7-32.md)<span id="Nanchor_7-32"></span>
 
 Christmas, as will be gathered from the foregoing, cannot on its pagan
 side be separated from the folk-feasts of November and December. The
@@ -585,12 +585,12 @@ Christianity came into conflict with paganism. It is, however, held by
 many scholars that the original purpose of sacrifice was
 sacramental﻿—the partaking by the worshipper of the divine life,
 conceived of as present in the victim, rather than the offering of a
-gift to a divinity.﻿ [7-33](crt22.htm#Note_7-33)<span
+gift to a divinity.﻿ [7-33](crt22.htm#Note_7-33.md)<span
 id="Nanchor_7-33"></span>
 
 The whole subject of sacred animals is obscure, and in regard,
 especially, to totemism﻿—defined by Dr.
-Frazer﻿ [7-34](crt22.htm#Note_7-34)<span id="Nanchor_7-34"></span> as
+Frazer﻿ [7-34](crt22.htm#Note_7-34.md)<span id="Nanchor_7-34"></span> as
 “belief in the kinship of certain families with certain species of
 animals” and practices based upon that belief﻿—the most divergent views
 are held by scholars. The religious significance which some have seen in
@@ -599,7 +599,7 @@ as to the probability of their having been widespread in Europe. Still,
 whatever may be the truth about totemism, there is much that points to
 the sometime existence in Europe of sacrifices that were not offerings,
 but solemn feasts of communion in the flesh and blood of a worshipful
-animal.﻿ [7-35](crt22.htm#Note_7-35)<span id="Nanchor_7-35"></span> That
+animal.﻿ [7-35](crt22.htm#Note_7-35.md)<span id="Nanchor_7-35"></span> That
 the idea of sacrificial communion preceded the sacrifice-gift is
 suggested by the fact that in many customs which appear to be
 sacrificial survivals the body of the victim has some kind of
@@ -610,7 +610,7 @@ have been aimed at in such customs as the sprinkling of worshippers with
 blood, the carrying of the victim in procession from house to house, the
 burying of flesh in furrows to make the crops grow, and the wearing of
 hides, heads, or horns of sacrificed
-beasts.﻿ [7-36](crt22.htm#Note_7-36)<span id="Nanchor_7-36"></span> We
+beasts.﻿ [7-36](crt22.htm#Note_7-36.md)<span id="Nanchor_7-36"></span> We
 shall meet, during the Christmas season, with various practices that
 seem to have originated either in a sacrificial feast or in some such
 sacramental rites as have just been described. So peculiarly prominent
@@ -633,8 +633,8 @@ suggested by Robertson Smith:﻿—
 > especially in piacular functions; ... examples are afforded by the
 > Dionysiac mysteries and other Greek rites, and by almost every rude
 > religion; while in later cults the old rite survives at least in the
-> religious use of animal masks.”﻿ [84](crt24.htm#Footnote_84)<span
-> id="FNanchor_84"></span>﻿ [7-37](crt22.htm#Note_7-37)<span
+> religious use of animal masks.”﻿ [84](crt24.htm#Footnote_84.md)<span
+> id="FNanchor_84"></span>﻿ [7-37](crt22.htm#Note_7-37.md)<span
 > id="Nanchor_7-37"></span>
 
 If we accept the animal-worship and sacrificial communion theory, many a
@@ -652,7 +652,7 @@ another. Or indeed it may be that animal sacrifice originated at a stage
 of religion before the idea of definite “spirits” had arisen, when man
 was conscious rather of a vague force like the Melanesian *mana*, in
 himself and in almost everything, and “constantly trembling on the verge
-of personality.”﻿ [7-38](crt22.htm#Note_7-38)<span
+of personality.”﻿ [7-38](crt22.htm#Note_7-38.md)<span
 id="Nanchor_7-38"></span> “*Mana* ” better than “god” or “spirit” may
 express that with which the partaker in the communal feast originally
 sought contact. “When you sacrifice,” to quote some words of Miss Jane
@@ -665,12 +665,12 @@ which grow by some unseen power there is much *mana*; you want that
 want that *mana*. It would be well to get some, to eat a piece of that
 bull raw, but it is dangerous, not a thing to do unawares alone; so you
 consecrate the first-fruits, you sacrifice the bull and then in safety
-you﻿—communicate.”﻿ [7-39](crt22.htm#Note_7-39)<span
+you﻿—communicate.”﻿ [7-39](crt22.htm#Note_7-39.md)<span
 id="Nanchor_7-39"></span> “Sanctity”﻿—the quality of awfulness and
 mystery﻿—rather than divinity or personality, may have been what
 primitive man saw in the beasts and birds which he venerated in “their
 silent, aloof, goings, in the perfection of their limited
-doings.”﻿ [7-40](crt22.htm#Note_7-40)<span id="Nanchor_7-40"></span>
+doings.”﻿ [7-40](crt22.htm#Note_7-40.md)<span id="Nanchor_7-40"></span>
 When we use the word “spirit” in connection with the pagan sacramental
 practices of Christmastide, it is well to bear in mind the possibility
 that at the origin of these customs there may have been no notion of
@@ -685,7 +685,7 @@ practical use was an outcome of the sacred, inviolable character of
 certain creatures: they may originally have been spared not for reasons
 of convenience but because it was deemed a crime to kill them﻿—except
 upon certain solemn occasions﻿—and may have become friendly towards man
-through living by his side.﻿ [7-41](crt22.htm#Note_7-41)<span
+through living by his side.﻿ [7-41](crt22.htm#Note_7-41.md)<span
 id="Nanchor_7-41"></span> On the other hand it is possible that totems
 were originally staple articles of food, that they were sacred because
 they were eaten with satisfaction, and that the very awe and respect
@@ -695,7 +695,7 @@ occasions.
 
 Closely akin to the worship of animals is that of plants, and especially
 trees, and there is much evidence pointing to sacramental cults in
-connection with the plant-world.﻿ [7-42](crt22.htm#Note_7-42)<span
+connection with the plant-world.﻿ [7-42](crt22.htm#Note_7-42.md)<span
 id="Nanchor_7-42"></span> Some cakes and special vegetable dishes eaten
 on festal days may be survivals of sacramental feasts parallel to those
 upon the flesh and blood of <span id="page_178">p. 178</span> <span
@@ -722,8 +722,8 @@ and the vegetation-spirits seems to have been originally theirs. Later
 the two cults would coalesce, but a hint of the time when certain rites
 were practised only by women may be found in that dressing up of men in
 female garments which appears not merely in the old Kalends customs but
-in some modern survivals.﻿ [85](crt24.htm#Footnote_85)<span
-id="FNanchor_85"></span>﻿ [7-43](crt22.htm#Note_7-43)<span
+in some modern survivals.﻿ [85](crt24.htm#Footnote_85.md)<span
+id="FNanchor_85"></span>﻿ [7-43](crt22.htm#Note_7-43.md)<span
 id="Nanchor_7-43"></span>
 
 Apart from any special theory of the origin of sacrifice, we may note
@@ -738,13 +738,13 @@ Semites. The identity of religious occasions and festal seasons may
 indeed be taken as the determining characteristic of the type of ancient
 religion generally; when men meet their god they feast and are glad
 together, and whenever they feast and are glad they desire that the god
-should be of the party.”﻿ [7-45](crt22.htm#Note_7-45)<span
+should be of the party.”﻿ [7-45](crt22.htm#Note_7-45.md)<span
 id="Nanchor_7-45"></span> To the paganism that preceded Christianity we
 must look for the origin of that Christmas feasting which has not seldom
 been a matter of scandal for the severer type of churchman.
 
 > \[Transcriber's Note: The marker for note
->  [7-44](crt22.htm#Note_7-44)<span id="Nanchor_7-44"></span> was not
+>  [7-44](crt22.htm#Note_7-44.md)<span id="Nanchor_7-44"></span> was not
 > present in the page scan\]
 
 A letter addressed in 601 by Pope Gregory the Great to Abbot Mellitus,
@@ -763,7 +763,7 @@ the Giver of all for their abundance; so that while some outward joys
 are retained for them, they may more readily respond to inward joys. For
 from obdurate minds it is undoubtedly impossible to cut off everything
 at once, because he who strives to ascend to the highest place rises by
-degrees or steps and not by leaps.”﻿ [7-46](crt22.htm#Note_7-46)<span
+degrees or steps and not by leaps.”﻿ [7-46](crt22.htm#Note_7-46.md)<span
 id="Nanchor_7-46"></span>
 
 We see here very plainly the mind of the ecclesiastical compromiser.
@@ -794,7 +794,7 @@ who had at first to perish by a violent death in order to preserve from
 the decay of age the divine life incarnate in them. Such mock monarchs,
 according to Dr. Frazer, were exalted for a brief season to the glory
 and luxury of kingship ere their doom fell upon
-them;﻿ [7-47](crt22.htm#Note_7-47)<span id="Nanchor_7-47"></span> in the
+them;﻿ [7-47](crt22.htm#Note_7-47.md)<span id="Nanchor_7-47"></span> in the
 Christmas “kings” the splendour alone has survived, the dark side is
 forgotten.
 
@@ -827,16 +827,16 @@ sight of them is avoided by the living.
 In the passage quoted from Caesarius of Arles there was mention of the
 laying of tables with abundance of food at the Kalends. The same
 practice is condemned by St. Jerome in the fifth century, and is by him
-specially connected with Egypt.﻿ [7-48](crt22.htm#Note_7-48)<span
+specially connected with Egypt.﻿ [7-48](crt22.htm#Note_7-48.md)<span
 id="Nanchor_7-48"></span> He, like Caesarius and others, regards it as a
 kind of charm to ensure abundance during the coming year, but it is very
 possible that its real purpose was different, that the food was an
 offering to supernatural beings, the guardians and representatives of
-the dead.﻿ [7-49](crt22.htm#Note_7-49)<span id="Nanchor_7-49"></span>
+the dead.﻿ [7-49](crt22.htm#Note_7-49.md)<span id="Nanchor_7-49"></span>
 Burchardus of Worms in the early eleventh century says definitely that
 in his time tables were laid with food and drink and three knives for
 “those three Sisters whom the ancients in their folly called
-*Parcae*.”﻿ [7-50](crt22.htm#Note_7-50)<span id="Nanchor_7-50"></span>
+*Parcae*.”﻿ [7-50](crt22.htm#Note_7-50.md)<span id="Nanchor_7-50"></span>
 The *Parcae* were apparently identified with the three “weird” Sisters
 known in England and in other Teutonic regions, and seem to have some
 connection with the fairies. As we shall see later on, it is still in
@@ -844,7 +844,7 @@ some places the custom to lay out tables for supernatural beings,
 whether, as at All Souls’ tide, explicitly for the dead, or for Frau
 Perchta, or for the Virgin or some other Christian figure. Possibly the
 name *Modranicht* (night of mothers), which Bede gives to Christmas
-Eve,﻿ [7-51](crt22.htm#Note_7-51)<span id="Nanchor_7-51"></span> may be
+Eve,﻿ [7-51](crt22.htm#Note_7-51.md)<span id="Nanchor_7-51"></span> may be
 connected with this practice.
 
 Not remote, probably, in origin from a belief in “ghosts” is the driving
@@ -860,7 +860,7 @@ purifications, according to Dr. Frazer, are often preceded or followed
 by periods of licence, for when the burden of evil is about to be, or
 has just been, removed, it is felt that a little temporary freedom from
 moral restraints may be allowed with
-impunity.﻿ [7-52](crt22.htm#Note_7-52)<span id="Nanchor_7-52"></span>
+impunity.﻿ [7-52](crt22.htm#Note_7-52.md)<span id="Nanchor_7-52"></span>
 Hence possibly, in part, the licence which has often attended the
 Christmas season.
 
@@ -875,14 +875,14 @@ future by a sort of crude scientific method based on supposed analogies.
 Beneath the charms lie the primitive ideas that like produces like and
 that things which have once been in contact continue to act upon one
 another after they are separated in
-space.﻿ [7-53](crt22.htm#Note_7-53)<span id="Nanchor_7-53"></span> The
+space.﻿ [7-53](crt22.htm#Note_7-53.md)<span id="Nanchor_7-53"></span> The
 same ideas obviously underlie many of the sacramental practices alluded
 to a few pages back, and these are often of the nature of charms.
 Probably, too, among New Year charms should be included such
 institutions as the bonfires on Hallowe'en in Celtic countries, on Guy
 Fawkes Day in England, and at Martinmas in Germany, for it would seem
 that they are intended to secure by imitation a due supply of
-sunshine.﻿ [7-54](crt22.htm#Note_7-54)<span id="Nanchor_7-54"></span>
+sunshine.﻿ [7-54](crt22.htm#Note_7-54.md)<span id="Nanchor_7-54"></span>
 The principle that “well begun is well ended”﻿—or, as the Germans have
 it, “*Anfang gut, alles gut* ”﻿—is fundamental in New Year practices:
 hence the custom of giving presents as auguries of wealth during the
@@ -922,7 +922,7 @@ messengers of God, robed in white raiment as befitted the servants of
 the Lord of purity; they would chant joyful anthems of the Nativity, and
 receive in return some money from the people﻿—they were, in fact,
 carol-singers. Moreover with their incense they would drive out the
-Devil from every corner.﻿ [7-55](crt22.htm#Note_7-55)<span
+Devil from every corner.﻿ [7-55](crt22.htm#Note_7-55.md)<span
 id="Nanchor_7-55"></span>
 
 Alsso's attitude is one of compromise, or at least many of the old
@@ -947,7 +947,7 @@ dispence with them, or giue them libertie to sinne? No, no; the soule
 which sinneth shall dye, at what tyme soeuer it offendeth....
 Notwithstandyng, who knoweth not that more mischeef is that tyme
 committed than in all the yere
-besides?”﻿ [7-56](crt22.htm#Note_7-56)<span id="Nanchor_7-56"></span>
+besides?”﻿ [7-56](crt22.htm#Note_7-56.md)<span id="Nanchor_7-56"></span>
 
 When the Puritans had gained the upper hand they proceeded to the
 suppression not only of abuses, but of the festival itself. An excellent
@@ -974,7 +974,7 @@ Nativity of Christ”:﻿—
 > himself led here upon earth, and to the spiritual life of Christ in
 > our souls; for the sanctifying and saving whereof Christ was pleased
 > both to take a human life, and to lay it down
-> again.”﻿ [7-57](crt22.htm#Note_7-57)<span id="Nanchor_7-57"></span>
+> again.”﻿ [7-57](crt22.htm#Note_7-57.md)<span id="Nanchor_7-57"></span>
 
 But the English people's love of Christmas could not be destroyed.
 “These poor simple creatures are made after superstitious festivals,
@@ -995,7 +995,7 @@ Mayor and City Marshal had to ride about setting fire to them. There
 were even riots in country places, notably at Canterbury. With the
 Restoration Christmas naturally came back to full recognition, though it
 may be doubted whether it has ever been quite the same thing since the
-Puritan Revolution.﻿ [7-58](crt22.htm#Note_7-58)<span
+Puritan Revolution.﻿ [7-58](crt22.htm#Note_7-58.md)<span
 id="Nanchor_7-58"></span>
 
 Protestantism, in proportion to its thoroughness and the strength of its
@@ -1043,4 +1043,4 @@ id="page_189">p. 189</span> <span id="Page_189"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. All Hallow Tide to Martinmas](crt11)
+[Next: Chapter VII. All Hallow Tide to Martinmas](crt11.md)

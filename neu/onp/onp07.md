@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp06) [Next](onp08)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp06) [Next](onp08.md)
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ motivation, and the description of the nightly scene of dread and gloom,
 are skillfully and completely achieved by this technique; so that, as in
 the best ballads, any prose introduction is supererogatory.
 
- The lay has been justly admired.<span id="fr_1"></span>[1](#note_1)
+ The lay has been justly admired.<span id="fr_1"></span>[1](#note_1.md)
 There is power and subtlety in the portrayal of the amazon maiden. She
 is self-centered and undaunted, come what may, and ruthless in her
 fierce insistence ou fulfilling her destiny—“little reck I, ruler of
@@ -404,7 +404,7 @@ when all about me blazed the fires.”<br />
 
 ------------------------------------------------------------------------
 
-[Next](onp08)
+[Next](onp08.md)
 
 ------------------------------------------------------------------------
 
@@ -412,14 +412,14 @@ when all about me blazed the fires.”<br />
 
 <span id="footnotes_page_29">p. 29</span>
 
-<span id="note_1"></span>[1](#fr_1) Though one will hardly agree with
+<span id="note_1"></span>[1](#fr_1.md) Though one will hardly agree with
 that otherwise so sane and sagacious observer, W. P. Ker, that “after
 *Voluspó* it is the most wonderful of Northern poems.” *Epic and
 Romance,* p. 73.
 
 <span id="footnotes_page_30">p. 30</span>
 
-<span id="note_2"></span>[2](#fr_2) The *Hauksbók* MS has pieced out the
+<span id="note_2"></span>[2](#fr_2.md) The *Hauksbók* MS has pieced out the
 missing lines with this introductory (narrative) half-stanza:
 
 <table data-align="center" data-cellpadding="10">
@@ -437,26 +437,26 @@ with setting of sun, a swain by his herd.</td>
 Munar Bay is a fictitious locality recalling the Una Bay in the *First
 Lay of Helgi,* 32.
 
-<span id="note_3"></span>[3](#fr_3) One of Angantýr’s brothers, interred
+<span id="note_3"></span>[3](#fr_3.md) One of Angantýr’s brothers, interred
 with him in the grave-mound (howe, barrow).
 
-<span id="note_4"></span>[4](#fr_4) Kenning for “warrior.”
+<span id="note_4"></span>[4](#fr_4.md) Kenning for “warrior.”
 
 <span id="footnotes_page_31">p. 31</span>
 
-<span id="note_5"></span>[5](#fr_5) A difficult stanza. I have followed
+<span id="note_5"></span>[5](#fr_5.md) A difficult stanza. I have followed
 the interpretation of the Prose in the distribution of the rôles; which,
 to be sure, involves the interpretation of *eigi* as the first person
 singular subjunctive of *eiga*.
 
-<span id="note_6"></span>[6](#fr_6) This and the following
+<span id="note_6"></span>[6](#fr_6.md) This and the following
 stanza-duplicating 5 and 6—have been transposed here from their original
 position (in MSS after 13) notwithstanding the obvious difficulty of
 Hervor’s true name and sex being mentioned: they grievously interpose
 there between Hervor’s accusation and Angantýr’s justification. Stanza 8
 may be taken as spoken by Hervor to herself.
 
-<span id="note_7"></span>[7](#fr_7) In *Hauksbók,* the following weak
+<span id="note_7"></span>[7](#fr_7.md) In *Hauksbók,* the following weak
 stanza supplies the context:
 
 <table data-align="center" data-cellpadding="10">
@@ -479,58 +479,58 @@ came to the barrow of the berserkers.”
 
 <span id="footnotes_page_32">p. 32</span>
 
-<span id="note_8"></span>[8](#fr_8) Three of Angantýr’s brothers.
+<span id="note_8"></span>[8](#fr_8.md) Three of Angantýr’s brothers.
 
-<span id="note_9"></span>[9](#fr_9) *I.e.,* have undergone the “second
+<span id="note_9"></span>[9](#fr_9.md) *I.e.,* have undergone the “second
 death,” complete annihilation; until which time, popular belief held,
 the dead inhabited their graves in the form of spooks. This is to be
 remembered also against the stanzas following.
 
-<span id="note_10"></span>[10](#fr_10) Sváfrlami’s daughter whom Arngrím
+<span id="note_10"></span>[10](#fr_10.md) Sváfrlami’s daughter whom Arngrím
 had abducted by force.
 
-<span id="note_11"></span>[11](#fr_11) Cf. the curses of Búsla.
+<span id="note_11"></span>[11](#fr_11.md) Cf. the curses of Búsla.
 
-<span id="note_12"></span>[12](#fr_12) One of the two dwarfs who forged
+<span id="note_12"></span>[12](#fr_12.md) One of the two dwarfs who forged
 Tyrfing for Sváfrlami.
 
-<span id="note_13"></span>[13](#fr_13) The lacuna (not indicated in the
+<span id="note_13"></span>[13](#fr_13.md) The lacuna (not indicated in the
 MSS) is supplied here after the excellent suggestion of S. Bugge—Hiálmar
 and Orvar Odd (Sóti) or, rather, the latter alone.
 
 <span id="footnotes_page_33">p. 33</span>
 
-<span id="note_14"></span>[14](#fr_14) Hervor wishes him everlasting
+<span id="note_14"></span>[14](#fr_14.md) Hervor wishes him everlasting
 life in his grave-mound if he had not the sword—as she is sure he has!
 In the original the stanza is not quite clear.
 
-<span id="note_15"></span>[15](#fr_15) For the following stanzas, I
+<span id="note_15"></span>[15](#fr_15.md) For the following stanzas, I
 adopt Genzmer-Heusler’s arrangement.
 
-<span id="note_16"></span>[16](#fr_16) *I.e.,* with a spear in whose
+<span id="note_16"></span>[16](#fr_16.md) *I.e.,* with a spear in whose
 iron figures, or characters, (of silver) were inlaid.
 
-<span id="note_17"></span>[17](#fr_17) Indefinite kenning for “sword” or
+<span id="note_17"></span>[17](#fr_17.md) Indefinite kenning for “sword” or
 “armor.”
 
-<span id="note_18"></span>[18](#fr_18) Here for the burial chamber of
+<span id="note_18"></span>[18](#fr_18.md) Here for the burial chamber of
 the barrow.
 
-<span id="note_19"></span>[19](#fr_19) Kenning for “sword,”
+<span id="note_19"></span>[19](#fr_19.md) Kenning for “sword,”
 
 <span id="footnotes_page_34">p. 34</span>
 
-<span id="note_20"></span>[20](#fr_20) In the original, “that ye shall
+<span id="note_20"></span>[20](#fr_20.md) In the original, “that ye shall
 lie dead with spooks,” which makes little sense. The stanza is
 imperfectly transmitted—with an excrescent long-line—and the translation
 therefore only an approximation.
 
 <span id="footnotes_page_35">p. 35</span>
 
-<span id="note_21"></span>[21](#fr_21) Cf. The *Lay of Hloth* and
+<span id="note_21"></span>[21](#fr_21.md) Cf. The *Lay of Hloth* and
 *Angantýr,* Prose, and note.
 
-<span id="note_22"></span>[22](#fr_22) *I.e.,* the realms of Life and
+<span id="note_22"></span>[22](#fr_22.md) *I.e.,* the realms of Life and
 Death.
 
  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap04) [Next](chap06)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap04) [Next](chap06.md)
 
 ------------------------------------------------------------------------
 
@@ -168,4 +168,4 @@ finally a temple was built that took forty years to finish.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: The Valley Settlements](chap06)
+[Next: Chapter VI: The Valley Settlements](chap06.md)

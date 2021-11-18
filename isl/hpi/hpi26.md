@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi25)  [Next](hpi27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi25)  [Next](hpi27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ lifted up their eyes in admiration.
 
 ------------------------------------------------------------------------
 
-[Next: Index of Personal Names](hpi27)
+[Next: Index of Personal Names](hpi27.md)

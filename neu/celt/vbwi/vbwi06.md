@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi05)  [Next](vbwi07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi05)  [Next](vbwi07.md) 
 
 ------------------------------------------------------------------------
 
@@ -563,4 +563,4 @@ A child to come with the spring tide, it will have luck.
 
 ------------------------------------------------------------------------
 
-[Next: Astray and Treasure](vbwi07)
+[Next: Astray and Treasure](vbwi07.md)

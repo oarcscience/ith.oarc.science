@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti20)  [Next](eti22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti20)  [Next](eti22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -95,7 +95,7 @@ diving with me beneath the water, he drew
 
 <span id="img_10100"></span> <span align="CENTER"> [![THIS STRUGGLING
 RAY OF SUNLIGHT IS TO BE YOUR LAST FOR YEARS.](tn/10100.jpg)  
-Click to enlarge](img/10100.jpg)  
+Click to enlarge](img/10100.jpg.md)  
 “THIS STRUGGLING RAY OF SUNLIGHT IS TO BE YOUR LAST FOR YEARS.”  
 </span>
 
@@ -176,4 +176,4 @@ the Beyond."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. A Zone of Light Deep Within the Earth](eti22)
+[Next: Chapter XV. A Zone of Light Deep Within the Earth](eti22.md)

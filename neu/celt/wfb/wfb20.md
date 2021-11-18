@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb19)  [Next](wfb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb19)  [Next](wfb21.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ richest people in Carnarvonshire.
 
 ------------------------------------------------------------------------
 
-[Next: Ianto's Chase](wfb21)
+[Next: Ianto's Chase](wfb21.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp14)  [Next](ptp16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp14)  [Next](ptp16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -24,12 +24,12 @@ interests of the Cardinals della Rovere
 
 <span id="img_21600"></span> <span align="CENTER"> [![Pope Alexander
 VI.](tn/21600.jpg)  
-Click to enlarge](img/21600.jpg)  
+Click to enlarge](img/21600.jpg.md)  
 Pope Alexander VI.  
 </span>
 
 <span class="small">The reputed father of Cesare Borgia, he burnt
-Savanarola. See pages [217](#page_217) to [228](#page_228).</span>
+Savanarola. See pages [217](#page_217) to [228](#page_228.md).</span>
 
 <span id="page_217">p. 217</span>
 
@@ -356,7 +356,7 @@ differently from
 <span id="page_227">p. 227</span>
 
 attempted doctrinal innovations. The latter he would not suffer on any
-pretext and to prevent the new art of [printing](errata.htm#8) from
+pretext and to prevent the new art of [printing](errata.htm#8.md) from
 spreading error he issued his Censorial Edict which stipulated that
 ecclesiastical opinion should be sought before the publication of a
 book. While profligacy and corruption flourished in Rome during his
@@ -400,4 +400,4 @@ great St. Leo: *Petri dignitas etiam in indigno herede non deficit*."
 
 ------------------------------------------------------------------------
 
-[Next: Sixteenth Century](ptp16)
+[Next: Sixteenth Century](ptp16.md)

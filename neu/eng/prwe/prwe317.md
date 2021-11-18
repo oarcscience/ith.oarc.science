@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe316)  [Next](prwe318) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe316)  [Next](prwe318.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ Trelawnys in Bond's Looe
 
 ------------------------------------------------------------------------
 
-[Next: Pengerswick Castle](prwe318)
+[Next: Pengerswick Castle](prwe318.md)

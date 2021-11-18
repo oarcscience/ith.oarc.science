@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ptpl00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ptpl.txt.gz)
+[Contents](#contents)    [Start Reading](ptpl00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ptpl.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -45,23 +45,23 @@ Asia.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ptpl00)  
-[Preface](ptpl01)  
-[Contents](ptpl02)  
+<span id="contents"></span> [Title Page](ptpl00.md)  
+[Preface](ptpl01.md)  
+[Contents](ptpl02.md)  
 <span id="section_000"></span>
 
 ### I. History
 
-[I. Shinran Shōnin](ptpl03)  
-[II. The Hongwan-ji](ptpl04)  
-[III. The Eastern Hongwanji](ptpl05)  
+[I. Shinran Shōnin](ptpl03.md)  
+[II. The Hongwan-ji](ptpl04.md)  
+[III. The Eastern Hongwanji](ptpl05.md)  
 <span id="section_001"></span>
 
 ### II. Teachings of the True Sect of Pure Land
 
-[I. The Canonical Books](ptpl06)  
-[II. Systematisation](ptpl07)  
-[III. Why Called the True Sect of Pure Land?](ptpl08)  
-[IV. Salvation](ptpl09)  
-[V. Faith](ptpl10)  
-[VI. Life](ptpl11)  
+[I. The Canonical Books](ptpl06.md)  
+[II. Systematisation](ptpl07.md)  
+[III. Why Called the True Sect of Pure Land?](ptpl08.md)  
+[IV. Salvation](ptpl09.md)  
+[V. Faith](ptpl10.md)  
+[VI. Life](ptpl11.md)  

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](choc03)  [Next](choc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](choc03)  [Next](choc05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Occultism*, by Paul Carus, \[1907\], at Intangible Textual
 Heritage
 
@@ -33,8 +33,8 @@ two symbols as is sometimes assumed; and thirdly, they served the
 purpose of divination, for they are referred to in connection with the
 ephod which must have had something to do with the determining oracle.
 
-The Urim and Thummim <span id="fr_14"></span>[\*](#fn_14) are translated
-in the Septuagint <span id="fr_15"></span>[†](#fn_15) by "manifestation
+The Urim and Thummim <span id="fr_14"></span>[\*](#fn_14.md) are translated
+in the Septuagint <span id="fr_15"></span>[†](#fn_15.md) by "manifestation
 and truth," or, as it has been rendered in English, "light and
 perfection." It appears that the vowel in the first word is wrong, and
 we ought to read *Orim*, which is the plural form of *Or*, "light," and
@@ -57,7 +57,7 @@ in the time of the Judges (Judges xx. 28) the question is asked about
 the advisability of a raid against the tribe of Benjamin, and the oracle
 declares, "Go up; for to-morrow I will deliver them into thine hand." On
 other occasions the oracle does not answer at all, <span
-id="fr_16"></span>[‡](#fn_16) and its silence is interpreted as due to
+id="fr_16"></span>[‡](#fn_16.md) and its silence is interpreted as due to
 the wrath of God.
 
 The answer received by consulting the Urim and Thummim was regarded as
@@ -137,7 +137,7 @@ it was never reintroduced into the temple service after the exile.
 
 While Josephus identified the Urim and Thummim with the twelve jewels in
 the breastplate of the high priest, Philo <span
-id="fr_17"></span>[\*](#fn_17) claims that they were pictures exhibited
+id="fr_17"></span>[\*](#fn_17.md) claims that they were pictures exhibited
 in the embroidery of the breastplate representing the symbols of light
 and truth. His conception is untenable, but it is noteworthy because his
 view seems to be influenced by his knowledge of the sacerdotal vestments
@@ -165,17 +165,17 @@ that they were differentiated while yet in their most primitive forms.
 
 ### Footnotes
 
-<span id="fn_14"></span>[37:\*](choc04.htm#fr_14) ‏הָאוּרִים
+<span id="fn_14"></span>[37:\*](choc04.htm#fr_14.md) ‏הָאוּרִים
 וְהַתֻּמִּים‎.
 
-<span id="fn_15"></span>[37:†](choc04.htm#fr_15) δήλωσις καὶ ἀλήθεια.
+<span id="fn_15"></span>[37:†](choc04.htm#fr_15.md) δήλωσις καὶ ἀλήθεια.
 
-<span id="fn_16"></span>[37:‡](choc04.htm#fr_16) See Sam. xiv. 37 and
+<span id="fn_16"></span>[37:‡](choc04.htm#fr_16.md) See Sam. xiv. 37 and
 xxviii. 6.
 
-<span id="fn_17"></span>[39:\*](choc04.htm#fr_17) *De vita Mosis*, p.
+<span id="fn_17"></span>[39:\*](choc04.htm#fr_17.md) *De vita Mosis*, p.
 670 C; 671, D.E.; *De Monarchia*, p. 824, A.
 
 ------------------------------------------------------------------------
 
-[Next: P‘an-Ku](choc05)
+[Next: P‘an-Ku](choc05.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag33)  [Next](rag35) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag33)  [Next](rag35.md) 
 
 ------------------------------------------------------------------------
 
@@ -249,4 +249,4 @@ destruction. And so shall it be till time is no more.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The After-Word](rag35)
+[Next: Chapter VIII. The After-Word](rag35.md)

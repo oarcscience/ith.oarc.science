@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,12 +11,12 @@
 
 ------------------------------------------------------------------------
 
-[Title Page and Front Matter](hm00)  
-[Preface](hm01)  
-[Analytical Table of Contents](hm02)  
-[Lecture I. Sacrificial Mysticism](hm03)  
-[Lecture II. The Mysticism of the Upanishads](hm04)  
-[Lecture III. Yoga Mysticism](hm05)  
-[Lecture IV. Buddhistic Mysticism](hm06)  
-[Lecture V. Classical Forms of Devotional Mysticism](hm07)  
-[Lecture VI. Popular Devotional Mysticism](hm08)  
+[Title Page and Front Matter](hm00.md)  
+[Preface](hm01.md)  
+[Analytical Table of Contents](hm02.md)  
+[Lecture I. Sacrificial Mysticism](hm03.md)  
+[Lecture II. The Mysticism of the Upanishads](hm04.md)  
+[Lecture III. Yoga Mysticism](hm05.md)  
+[Lecture IV. Buddhistic Mysticism](hm06.md)  
+[Lecture V. Classical Forms of Devotional Mysticism](hm07.md)  
+[Lecture VI. Popular Devotional Mysticism](hm08.md)  

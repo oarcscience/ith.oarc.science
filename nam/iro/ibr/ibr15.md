@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr14)  [Next](ibr16) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr14)  [Next](ibr16.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,7 +108,7 @@ Among the Hurons, when a man had been killed, and his kindred were
 willing to renounce their claim to vengeance on receiving due
 satisfaction, the number of presents of wampum and other valuables which
 were to be given was rigidly prescribed by their customary law. <span
-id="fr_71"></span>[1](#fn_71) From this custom would easily follow the
+id="fr_71"></span>[1](#fn_71.md) From this custom would easily follow the
 usage of making similar gifts, in token of sympathy, to all persons who
 were mourning the loss of a near relative.
 
@@ -155,12 +155,12 @@ and by their own people.
 4\. "*And now you can go out before the people, and go on with your
 duties,*" &c. This, it will be seen, corresponds with the injunctions of
 the Canienga book. (See Section 27, *ante*, [p.
-127](ibr12.htm#page_127)): "And then they will be comforted, and will
+127](ibr12.htm#page_127).md): "And then they will be comforted, and will
 conform to the great law."
 
 6\. "*Then the horns shall be left on the grave,*" &c. The same figure
 is here used as in the Canienga book, Section 23 (ante, [p.
-125](ibr12.htm#page_125)). It is evident that the importance of keeping
+125](ibr12.htm#page_125).md). It is evident that the importance of keeping
 up the succession of their councillors was constantly impressed on the
 minds of the Iroquois people by the founders of their League.
 
@@ -179,7 +179,7 @@ family of the deceased, as a memorial of the departed chief.
 receive notice that a Condoling Council is to be held in a certain
 place. The kindled fire and the rising smoke were the well-understood
 images which represented the convocation of their councils. In the
-Onondaga book before referred to (ante, [p. 152](ibr14.htm#page_152)) a
+Onondaga book before referred to (ante, [p. 152](ibr14.htm#page_152).md) a
 few pages were occupied by what might be styled a pagan sermon, composed
 of exhortations addressed to the chiefs, urging them to do their duty to
 the community. The following is the commencement of this curious
@@ -243,9 +243,9 @@ condolence which precedes the installation--is abruptly closed.
 
 ### Footnotes
 
-<span id="fn_71"></span>[167:1](ibr15.htm#fr_71) *Relation* of 1648, p.
+<span id="fn_71"></span>[167:1](ibr15.htm#fr_71.md) *Relation* of 1648, p.
 80.
 
 ------------------------------------------------------------------------
 
-[Next: Note A: The Names of the Iroquois Nations](ibr16)
+[Next: Note A: The Names of the Iroquois Nations](ibr16.md)

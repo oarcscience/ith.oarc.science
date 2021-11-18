@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Miscellaneous](../../index)  [Christmas](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Miscellaneous](../../index)  [Christmas](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](acc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](acctxt.zip)
+[Contents](#contents)    [Start Reading](acc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](acctxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -80,12 +80,12 @@ etext to facilitate searching.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](acc00)  
-[Preface](acc01)  
-[Contents](acc02)  
-[Stave I. Marley's Ghost](acc03)  
-[Stave Two. The First of the Three Spirits](acc04)  
-[Stave Three. The Second of the Three Spirits](acc05)  
-[Stave Four. The Last of the Spirits](acc06)  
-[Stave Five. The End of It](acc07)  
-[Advertisements](acc08)  
+<span id="contents"></span> [Title Page](acc00.md)  
+[Preface](acc01.md)  
+[Contents](acc02.md)  
+[Stave I. Marley's Ghost](acc03.md)  
+[Stave Two. The First of the Three Spirits](acc04.md)  
+[Stave Three. The Second of the Three Spirits](acc05.md)  
+[Stave Four. The Last of the Spirits](acc06.md)  
+[Stave Five. The End of It](acc07.md)  
+[Advertisements](acc08.md)  

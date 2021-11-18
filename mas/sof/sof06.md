@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof05)  [Next](sof07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof05)  [Next](sof07.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head04.png"></span> ![Header Chapter IV.](img/head04.png)
+<span id="img_head04.png"></span> ![Header Chapter IV.](img/head04.png.md)
 
 ## IV.
 
@@ -40,14 +40,14 @@ were not prepared for the philosophic teachings of a pure theology. It
 was, indeed, an axiom unhesitatingly enunciated and frequently repeated
 by their writers, that "there are many truths with which it is useless
 for the people to be made acquainted, and many fables which it is not
-expedient that they should know to be false."  [6](sof37.htm#xref_6)
+expedient that they should know to be false."  [6](sof37.htm#xref_6.md)
 Such is the language of Varro, as preserved by St. Augustine; and
 Strabo, another of their writers, exclaims, "It is not possible for a
 philosopher to conduct a multitude of women and ignorant people by a
 method of reasoning, and thus to invite them to piety, holiness, and
 faith; but the philosopher must also make use of superstition, and not
 omit the invention of fables and the performance of wonders."
- [7](sof37.htm#xref_7)
+ [7](sof37.htm#xref_7.md)
 
 While, therefore, in those early ages of the world, we find the masses
 grovelling in the intellectual debasement of a polytheistic and
@@ -66,7 +66,7 @@ Socrates, the Athenian sage, is an illustrious instance of the
 punishment that was meted out to the bold innovator who attempted to
 insult the gods and to poison the minds of youth with the heresies of a
 philosophic religion. "They permitted, therefore," says a learned writer
-on this subject [8](sof37.htm#xref_8), "the multitude to remain plunged
+on this subject [8](sof37.htm#xref_8.md), "the multitude to remain plunged
 as they were in the depth of a gross and complicated idolatry; but for
 those philosophic few who could bear the light of truth without being
 confounded by the blaze, they removed the mysterious veil, and displayed
@@ -85,7 +85,7 @@ resemblance of their organization, their objects, and their doctrines,
 have by masonic writers been called the "Spurious Freemasonry of
 Antiquity."
 
-Warburton, [9](sof37.htm#xref_9) in giving a definition of what these
+Warburton, [9](sof37.htm#xref_9.md) in giving a definition of what these
 Mysteries were, says, "Each of the pagan gods had (besides the public
 and open) a secret worship paid unto him, to which none were admitted
 but those who had been selected by preparatory ceremonies, called
@@ -115,7 +115,7 @@ the multitudinous deities of the popular theology were but hidden
 symbols of the various attributes of the supreme god,--a spirit
 invisible and indivisible,--and that the soul, as an emanation from his
 essence, could "never see corruption," but must, after the death of the
-body, be raised to an eternal life. [10](sof37.htm#xref_10)
+body, be raised to an eternal life. [10](sof37.htm#xref_10.md)
 
 That this was the doctrine and the object of the Mysteries is evident
 from the concurrent testimony both of those ancient writers who
@@ -124,13 +124,13 @@ modern scholars who have devoted themselves to their investigation.
 
 Thus Isocrates, speaking of them in his Panegyric, says, "Those who have
 been initiated in the Mysteries of Ceres entertain better hopes both as
-to the end of life and the whole of futurity."  [11](sof37.htm#xref_11)
+to the end of life and the whole of futurity."  [11](sof37.htm#xref_11.md)
 
-Epictetus [12](sof37.htm#xref_12) declares that everything in these
+Epictetus [12](sof37.htm#xref_12.md) declares that everything in these
 Mysteries was instituted by the ancients for the instruction and
 amendment of life.
 
-And Plato [13](sof37.htm#xref_13) says that the design of initiation was
+And Plato [13](sof37.htm#xref_13.md) says that the design of initiation was
 to restore the soul to that state of perfection from which it had
 originally fallen.
 
@@ -139,9 +139,9 @@ acquaintance with the character of these ancient rites, asserts that
 they "obscurely intimated, by mystic and splendid visions, the felicity
 of the soul, both here and hereafter, when purified from the defilements
 of a material nature, and constantly elevated to the realities of
-intellectual vision."  [14](sof37.htm#xref_14)
+intellectual vision."  [14](sof37.htm#xref_14.md)
 
-Creuzer, [15](sof37.htm#xref_15) a distinguished German writer, who has
+Creuzer, [15](sof37.htm#xref_15.md) a distinguished German writer, who has
 examined the subject of the ancient Mysteries with great judgment and
 elaboration, gives a theory on their nature and design which is well
 worth consideration.
@@ -173,7 +173,7 @@ light of day.
 In a few words, then, the object of instruction in all these Mysteries
 was the unity of God, and the intention of the ceremonies of initiation
 into them was, by a scenic representation of death, and subsequent
-restoration to life, [16](sof37.htm#xref_16) to impress the great truths
+restoration to life, [16](sof37.htm#xref_16.md) to impress the great truths
 of the resurrection of the dead and the immortality of the soul.
 
 I need scarcely here advert to the great similarity in design and
@@ -192,6 +192,6 @@ FREEMASONRY OF ANTIQUITY.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Ancient Mysteries](sof07)
+[Next: V. The Ancient Mysteries](sof07.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico104) 
-[Next](nico106) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico104.md) 
+[Next](nico106.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ must be content if we find even a few such.
 ------------------------------------------------------------------------
 
 [Next: Chapter 11. Are friends more needed in good or in bad
-fortune?](nico106)
+fortune?](nico106.md)

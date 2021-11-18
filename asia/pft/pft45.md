@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft44)  [Next](pft46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft44)  [Next](pft46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE WIDOW'S SON  <span id="fr_136"></span>[137](pft68.htm#fn_136)
+### THE WIDOW'S SON  <span id="fr_136"></span>[137](pft68.htm#fn_136.md)
 
 *Subanun* (*Mindanao*)
 
@@ -35,7 +35,7 @@ Some distance from the village, he entered the thick forest. He walked
 on and on, ever on the lookout for game, but none appeared. At last when
 he had traveled far and the sun was hot, he sat down on a rock to rest
 and took out his brass box  <span
-id="fr_137"></span>[138](pft68.htm#fn_137) to get a piece of betel-nut.
+id="fr_137"></span>[138](pft68.htm#fn_137.md) to get a piece of betel-nut.
 He prepared the nut and leaf for chewing, and as he did so he wondered
 why it was that he had been so unsuccessful that day. But even as he
 pondered he heard his dog barking sharply, and cramming the betel-nut
@@ -68,7 +68,7 @@ the stone where he found himself in a large room. The ceiling and floor
 were covered with peculiar cloth that had seven wide stripes of red
 alternating with a like number of yellow stripes. When the master of the
 place appeared his trousers were of seven colors,  <span
-id="fr_138"></span>[139](pft68.htm#fn_138) as were also his jacket and
+id="fr_138"></span>[139](pft68.htm#fn_138.md) as were also his jacket and
 the kerchief about his head.
 
 The master ordered betel-nut, and when it was brought they chewed
@@ -159,4 +159,4 @@ became the wife of the spirit of the stone.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](pft46)
+[Next: Introduction](pft46.md)

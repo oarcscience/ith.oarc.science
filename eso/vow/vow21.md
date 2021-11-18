@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow20)  [Next](vow22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow20)  [Next](vow22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ LET us return to man, and enquire concerning the divine gift of reason
 which entitles him to be called a reasonable creature. Among all the
 wonders we have noted in man, that which above all commands admiration
 is this:--that man has discovered the divinity of nature, and has made
-it efficient to his designs. <span id="fr_41"></span>[1](#fn_41)
+it efficient to his designs. <span id="fr_41"></span>[1](#fn_41.md)
 
 \[Our
 
@@ -94,7 +94,7 @@ come to our assistance as allies, as kinsmen, or as friends.
 
 ### Footnotes
 
-<span id="fn_41"></span>[87:1](vow21.htm#fr_41) This section continues
+<span id="fn_41"></span>[87:1](vow21.htm#fr_41.md) This section continues
 and elucidates the argument of section IX. An acquaintance with occult
 doctrine regarding the Nature-spirits, or mundane Gods, will, I think,
 enable the reader to follow intelligently the observations of Hermes in
@@ -137,4 +137,4 @@ A.K.
 
 ------------------------------------------------------------------------
 
-[Next: Part XIV](vow22)
+[Next: Part XIV](vow22.md)

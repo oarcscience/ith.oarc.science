@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio59)  [Next](dio61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio59)  [Next](dio61.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,20 +26,20 @@ this is the purpose of our Hierarchy, viz., our assimilation and union
 with God, as far as attainable. And, as the Divine Oracles teach, we
 shall attain this only by the love and the religious performance of the
 most worshipful Commandments. For He says: "He <span
-id="fr_228"></span>[229](#fn_228) that loveth Me will keep My Word, and
+id="fr_228"></span>[229](#fn_228.md) that loveth Me will keep My Word, and
 My Father will love him, and we will come unto him, and will make Our
 abode with him." What, then, is source of the religious performance of
 the most august commandments? Our preparation for the restitution of the
 supercelestial rest, which forms the habits of our souls into an
 aptitude for the reception of the other sacred sayings and doings <span
-id="fr_229"></span>[230](#fn_229) , the transmission of our holy and
-most divine regeneration <span id="fr_230"></span>[231](#fn_230) . For,
+id="fr_229"></span>[230](#fn_229.md) , the transmission of our holy and
+most divine regeneration <span id="fr_230"></span>[231](#fn_230.md) . For,
 as our illustrious Leader used <span id="page_75">p. 75</span> <span
 id="iv.iii.ii-Page_75"></span>to say, the very first movement of the
 mind towards Divine things is the willing reception of Almighty God, but
 the very earliest step of the religious reception towards the religious
 performance of the Divine commandments is the unutterable operation of
-our being from God. For if our <span id="fr_231"></span>[232](#fn_231)
+our being from God. For if our <span id="fr_231"></span>[232](#fn_231.md)
 being from God is the Divine engendering, never would he know, and
 certainly never perform, any of the Divine instructions, who had not had
 his beginning to be in God. To speak after the manner of men, must we
@@ -48,7 +48,7 @@ not exist at all, has neither movement nor even beginning; since he, who
 in some way exists, alone does, or suffers, those things suitable to his
 own nature. This, then, as I think, is clear. Let us next contemplate
 the Divine symbols of the birth in God. And I pray, let no uninitiated
-person approach the sight <span id="fr_232"></span>[233](#fn_232) ; for
+person approach the sight <span id="fr_232"></span>[233](#fn_232.md) ; for
 neither is it without danger to gaze upon the glorious rays of the sun
 with weak eyes, nor is it without peril to put our hand to things above
 us. For right was the priesthood of the Law, when rejecting Osias,
@@ -72,7 +72,7 @@ Him, to assimilate, like as by fire, things that have been made one, in
 proportion to their aptitude for deification. "For as many as received
 Him, to them gave He power to become children of God--to those who
 believe on His Name, who were begotten, not of bloods, nor of will of
-flesh, but of God <span id="fr_233"></span>[234](#fn_233) ."
+flesh, but of God <span id="fr_233"></span>[234](#fn_233.md) ."
 
 <span id="iv.iii.ii-p6"></span>Section II.
 
@@ -146,11 +146,11 @@ man to the Priests, for the anointing of his whole body, while himself
 id="iv.iii.ii-Page_79"></span>advances to the mother of filial adoption,
 and when he has purified the water within it by the holy invocations,
 and perfected it by three cruciform effusions of the altogether most
-pure Muron <span id="fr_234"></span>[235](#fn_234) , and by the same
+pure Muron <span id="fr_234"></span>[235](#fn_234.md) , and by the same
 number of injections of the all holy Muron, and has invoked the sacred
 melody of the inspiration of the God-rapt Prophets, he orders the man to
 be brought forward; and when one of the Priests, from the register, has
-announced him <span id="fr_235"></span>[236](#fn_235) and his surety, he
+announced him <span id="fr_235"></span>[236](#fn_235.md) and his surety, he
 is conducted by the Priests near the water to the hand of the Hierarch,
 being led by the hand to him. Then the Hierarch, standing above, when
 the Priests have again called aloud near the Hierarch within the water
@@ -168,7 +168,7 @@ id="page_80">p. 80</span> <span id="iv.iii.ii-Page_80"></span>
 
 <span id="iv.iii.ii-p19"></span>When he has finished these things, he
 elevates himself from his progression to things secondary, to the
-contemplation of things <span id="fr_236"></span>[237](#fn_236) first,
+contemplation of things <span id="fr_236"></span>[237](#fn_236.md) first,
 as one, who, at no time or manner, turns himself to any other thing
 whatever than those which are peculiarly his own, but from things Divine
 to Divine,--is persistently and always ranging himself under the banner
@@ -185,7 +185,7 @@ anything of the sensible images, but (contains) enigmas of a
 contemplation worthy of God, likened to physical and human images. For
 how should it appear misleading? Even when the very divine meaning of
 the things done is passed over in silence, <span
-id="fr_237"></span>[238](#fn_237) the divine Instruction might convince,
+id="fr_237"></span>[238](#fn_237.md) the divine Instruction might convince,
 religiously pursuing as it does the good life of the candidate,
 enjoining upon him the purification from every kind of evil, through a
 virtuous and Divine life, by the physical cleansing through the agency
@@ -369,28 +369,28 @@ the communion of the perfecting mysteries.
 
 ### Footnotes
 
-<span id="fn_228"></span>[74:229](dio60.htm#fr_228) <span
+<span id="fn_228"></span>[74:229](dio60.htm#fr_228.md) <span
 id="iv.iii.ii-p2.1"></span><span id="iv.iii.ii-p2.2"></span>[John xiv.
-23](../../bib/kjv/joh014.htm#023)<span id="iv.iii.ii-p2.2"></span>.
+23](../../bib/kjv/joh014.htm#023.md)<span id="iv.iii.ii-p2.2"></span>.
 
-<span id="fn_229"></span>[74:230](dio60.htm#fr_229) <span
+<span id="fn_229"></span>[74:230](dio60.htm#fr_229.md) <span
 id="iv.iii.ii-p2.3"></span><span id="iv.iii.ii-p2.4"></span>[John
-1:13](../../bib/kjv/joh001.htm#013)<span id="iv.iii.ii-p2.4"></span>.
+1:13](../../bib/kjv/joh001.htm#013.md)<span id="iv.iii.ii-p2.4"></span>.
 
-<span id="fn_230"></span>[74:231](dio60.htm#fr_230) <span
+<span id="fn_230"></span>[74:231](dio60.htm#fr_230.md) <span
 id="iv.iii.ii-p2.5"></span><span id="iv.iii.ii-p2.6"></span>[John
-3:5](../../bib/kjv/joh003.htm#005)<span id="iv.iii.ii-p2.6"></span>.
+3:5](../../bib/kjv/joh003.htm#005.md)<span id="iv.iii.ii-p2.6"></span>.
 
-<span id="fn_231"></span>[75:232](dio60.htm#fr_231) <span
+<span id="fn_231"></span>[75:232](dio60.htm#fr_231.md) <span
 id="iv.iii.ii-p2.7"></span>See Baptismal Offices.
 
-<span id="fn_232"></span>[75:233](dio60.htm#fr_232) <span
+<span id="fn_232"></span>[75:233](dio60.htm#fr_232.md) <span
 id="iv.iii.ii-p2.8"></span>C. 2. s. 62.
 
-<span id="fn_233"></span>[76:234](dio60.htm#fr_233) <span
+<span id="fn_233"></span>[76:234](dio60.htm#fr_233.md) <span
 id="iv.iii.ii-p5.1"></span>Coptic Con. II. 40; Ap. C. lib. viii. c. 38.
 
-<span id="fn_234"></span>[79:235](dio60.htm#fr_234) <span
+<span id="fn_234"></span>[79:235](dio60.htm#fr_234.md) <span
 id="iv.iii.ii-p17.1"></span><span id="iv.iii.ii-p17.2"></span>μύπος is
 the *unguent* prepared from myrrh, <span
 id="iv.iii.ii-p17.3"></span>μυποθεγγὴς is shining with such *unguent,*
@@ -399,15 +399,15 @@ id="iv.iii.ii-p17.5"></span>μυπος and <span
 id="iv.iii.ii-p17.6"></span>σταζω) dripping with ditto. Ap. Con. lib.
 ii. c. 14.
 
-<span id="fn_235"></span>[79:236](dio60.htm#fr_235) <span
+<span id="fn_235"></span>[79:236](dio60.htm#fr_235.md) <span
 id="iv.iii.ii-p17.7"></span>Syr. Doc. p. 60. Clark.
 
-<span id="fn_236"></span>[80:237](dio60.htm#fr_236) <span
+<span id="fn_236"></span>[80:237](dio60.htm#fr_236.md) <span
 id="iv.iii.ii-p19.1"></span>From outward signs to inward grace.
 
-<span id="fn_237"></span>[80:238](dio60.htm#fr_237) <span
+<span id="fn_237"></span>[80:238](dio60.htm#fr_237.md) <span
 id="iv.iii.ii-p22.1"></span>Catechism.
 
 ------------------------------------------------------------------------
 
-[Next: Caput III.](dio61)
+[Next: Caput III.](dio61.md)

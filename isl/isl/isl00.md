@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](isl01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](isl01.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ documentation of non-renewal.
 
 ------------------------------------------------------------------------
 
-[Next: Acknowledgments](isl01)
+[Next: Acknowledgments](isl01.md)

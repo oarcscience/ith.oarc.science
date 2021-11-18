@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssbm14)  [Next](ssbm16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssbm14)  [Next](ssbm16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Science Behind Miracles*, by Max Freedom Long, \[1948\], at
 Intangible Textual Heritage
 
@@ -401,7 +401,7 @@ developed in childhood, such as the belief of the young woman in Case
 The sex urges are the most prolific sources of complexed ideas of sin
 with which we have to contend, since as children we are taught modesty
 and are shamed or punished for any display of sex interest. Religious
-[instruction](errata.htm#6) implants the idea that sex urges are sinful
+[instruction](errata.htm#6.md) implants the idea that sex urges are sinful
 and that, therefore, children are born from and in sin.
 
 The kahunas were logical in their approach to sex. If sex acts did not
@@ -499,4 +499,4 @@ the driving forces on all levels of consciousness.
 ------------------------------------------------------------------------
 
 [Next: Chapter XV. The Secret Kahuna Method of Treating the
-Complex](ssbm16)
+Complex](ssbm16.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp14) [Next](onp16)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp14) [Next](onp16.md)
 
 ------------------------------------------------------------------------
 
@@ -17,9 +17,9 @@ passing sound of words of such power and value by symbols through which
 their effect may be multiplied, and even conveyed to some distance in
 time and space. In the Germanic North the runes—alphabetic signs which
 were adopted, it seems, from some Mediterranean alphabet, say, about the
-beginning of our era<span id="fr_1"></span>[1](#note_1)—served this
+beginning of our era<span id="fr_1"></span>[1](#note_1.md)—served this
 purpose, especially when verbal curses had failed.<span
-id="fr_2"></span>[2](#note_2) They were scratched (“written”) on stone
+id="fr_2"></span>[2](#note_2) They were scratched (“written”.md) on stone
 and wood and bone and metal, on weapons, clothing, implements of all
 kinds to be used by him in whose favor, or against whom, the magic was
 to take effect.
@@ -31,7 +31,7 @@ instances of offensive magic we must go to Old Norse literature. The
 Eddic poems abound with magic of all sorts. As illustrations of
 “offensive” magic we may point out the “classic” curses of Skírnir and
 of Sigrún, and the shorter malisons of *Lokasenna,* *Fiólsvinnsmól,*
-*Atlamól*.<span id="fr_3"></span>[3](#note_3) A monument wholly devoted
+*Atlamól*.<span id="fr_3"></span>[3](#note_3.md) A monument wholly devoted
 to the purpose of wishing ill “on” some one, and perhaps the most
 instructive of its kind in literature, though admittedly on a lower
 plane in æsthetic value than those mentioned, <span id="page_77">p.
@@ -60,14 +60,14 @@ the beginning of it:”
 1
 
 “Here liest thou, Hring, Lord of the Gauts,<span
-id="fr_4"></span>[4](#note_4)  
+id="fr_4"></span>[4](#note_4.md)  
 the most headstrong of human kind—  
 minded, to-morrow to murther thy son:  
 will this foul deed be told far and wide.  
 
 2
 
-“Hear thou Busla’s song<span id="fr_5"></span>[5](#note_5)— ’t will be
+“Hear thou Busla’s song<span id="fr_5"></span>[5](#note_5.md)— ’t will be
 sung full soon;  
 so that it be heard the whole world about—  
 harmful to him who heareth it,  
@@ -85,7 +85,7 @@ Herrauth,
 4
 
 “O’er thy chest such charms now chant I shall<span
-id="fr_6"></span>[6](#note_6)  
+id="fr_6"></span>[6](#note_6.md)  
 that evil asps shall eat thy heart,  
 that thy ears henceforth shall hear no more,  
 and thy seeing eyes leave their sockets,  
@@ -96,7 +96,7 @@ and thy seeing eyes leave their sockets,
 
 “If boat thou sailest, shall burst the ropes,  
 if boat thou steerest, shall break the tholepins<span
-id="fr_7"></span>[7](#note_7)—  
+id="fr_7"></span>[7](#note_7.md)—  
 shall the sail-cloth be slit and sag downward,  
 and all the tackle be torn asunder,  
  but thou harbor no hate against Herrauth,  
@@ -106,7 +106,7 @@ and all the tackle be torn asunder,
 
 “Shall the reins ravel when thou ridest forth,  
 shall horses go halt, and nags be hamstrung<span
-id="fr_8"></span>[8](#note_8)—  
+id="fr_8"></span>[8](#note_8.md)—  
 shall both highways and bridle-paths  
 take thee where trolls may tear thee straightway,  
  but thou with Bósi wilt bear hereafter,  
@@ -118,7 +118,7 @@ take thee where trolls may tear thee straightway,
 thy high-seat unsteady like heaving sea-wave.  
 Yet woe awaits thee much worse by far:  
 if with maid thou meanest a man’s joy to have,  
-shalt lose thy way then:<span id="fr_9"></span>[9](#note_9) doest wish
+shalt lose thy way then:<span id="fr_9"></span>[9](#note_9.md) doest wish
 to hear more?”  
 
  (The king attempts to silence her and to rise, but finds himself
@@ -173,7 +173,7 @@ she “takes the curse off.”)
 
 ------------------------------------------------------------------------
 
-[Next](onp16)
+[Next](onp16.md)
 
 ------------------------------------------------------------------------
 
@@ -181,45 +181,45 @@ she “takes the curse off.”)
 
 <span id="footnotes_page_76">p. 76</span>
 
-<span id="note_1"></span>[1](#fr_1) The theory long accepted, that they
+<span id="note_1"></span>[1](#fr_1.md) The theory long accepted, that they
 originated through some adaptation of a Greek or Latin alphabet by the
 Goths along the Black Sea has recently been challenged with some force,
 and an earlier origin from Etruscan or Thracian script suggested.
 
-<span id="note_2"></span>[2](#fr_2) Cf. *Skírnismól,* 38, note.
+<span id="note_2"></span>[2](#fr_2.md) Cf. *Skírnismól,* 38, note.
 
-<span id="note_3"></span>[3](#fr_3) *Skírnismól,* *Helgakvitha
+<span id="note_3"></span>[3](#fr_3.md) *Skírnismól,* *Helgakvitha
 Hundingsbana,* II, 30-33; *Lokasenna,* 65; *Fiolsvinnsmól,* 45;
 *Atlamól,* 30. Cf. also *Hervararkvitha,* 12, 21.
 
 <span id="footnotes_page_77">p. 77</span>
 
-<span id="note_4"></span>[4](#fr_4) The inhabitants of Gautland, the
+<span id="note_4"></span>[4](#fr_4.md) The inhabitants of Gautland, the
 present Swedish province of Gotland.
 
-<span id="note_5"></span>[5](#fr_5) Literally, “prayer”; but the
+<span id="note_5"></span>[5](#fr_5.md) Literally, “prayer”; but the
 incantation is meant, of course.
 
 <span id="footnotes_page_78">p. 78</span>
 
-<span id="note_6"></span>[6](#fr_6) The translation of the line is
+<span id="note_6"></span>[6](#fr_6.md) The translation of the line is
 doubtful.
 
-<span id="note_7"></span>[7](#fr_7) In Germanic antiquity, vessels were
+<span id="note_7"></span>[7](#fr_7.md) In Germanic antiquity, vessels were
 steered, not with a rudder, but with an extra oar on the “starboard,”
 *i.e.,* the steering side. Oars were held by thongs to the tholepins.
 Cf. *Haraldskvæthi,* 17; *Atlamól,* 34.
 
-<span id="note_8"></span>[8](#fr_8) Literally, “become weak.”
+<span id="note_8"></span>[8](#fr_8.md) Literally, “become weak.”
 
-<span id="note_9"></span>[9](#fr_9) To be understood in *malam partem*.
+<span id="note_9"></span>[9](#fr_9.md) To be understood in *malam partem*.
 
 <span id="footnotes_page_79">p. 79</span>
 
-<span id="note_10"></span>[10](#fr_10) Proverbial for all things “going
+<span id="note_10"></span>[10](#fr_10.md) Proverbial for all things “going
 against one.”
 
-<span id="note_11"></span>[11](#fr_11) There follow these runic signs:  
+<span id="note_11"></span>[11](#fr_11.md) There follow these runic signs:  
 **ᚱ᛫ᚨ᛫ᚦ᛫ᚴ᛫ᚢ᛫ ᛬ ᛁᛁᛁᛁᛁ ᛬ ᛍᛍᛍᛍᛍ ᛬ ᛐᛐᛐᛐᛐ ᛬ ᛁᛁᛁᛁᛁ ᛬ ᛚᛚᛚᛚᛚ**  
  As a solution, Uhland (*Schriften,* VI, 248) suggested that with the
 letters of the first group of runes successively placed before the five

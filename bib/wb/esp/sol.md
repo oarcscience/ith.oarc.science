@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](ecc)  [Next](isa) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](ecc)  [Next](isa.md) 
 
 ------------------------------------------------------------------------
 
@@ -429,4 +429,4 @@ gazelo aux al cervo Sur la montoj de aromajxoj.
 
 ------------------------------------------------------------------------
 
-[Next: Isaiah](isa)
+[Next: Isaiah](isa.md)

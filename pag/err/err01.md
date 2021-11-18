@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err00)  [Next](err02) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err00)  [Next](err02.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ INCANTATIONS, DIVINATION, MEDICINE, AND AMULETS
 
 ------------------------------------------------------------------------
 
-[Next: List of Illustrations](err02)
+[Next: List of Illustrations](err02.md)

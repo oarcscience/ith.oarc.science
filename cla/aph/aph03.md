@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph02)  [Next](aph04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph02)  [Next](aph04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -379,4 +379,4 @@ threw him her yellow flower and laughed. Silence fell upon the quays.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three. Demetrios](aph04)
+[Next: Chapter Three. Demetrios](aph04.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](fol04)  [Next](fol06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](fol04)  [Next](fol06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Feast of Lanterns*, by L. Cranmer-Byng, \[1916\], at Intangible
 Textual Heritage
 
@@ -132,7 +132,7 @@ philosopher allows to accumulate. He became young and divinely empty,
 yet in his soul pulsed the *élan vital* of Mr. Henri Bergson. "Soon
 afterwards," says the ancient chronicle, "he attained to a knowledge of
 the True Way, and shared the immortality of the Genii." <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_19">p. 19</span>
 
@@ -162,9 +162,9 @@ barrier, a little crimson flag.
 
 ### Footnotes
 
-<span id="fn_0"></span>[18:1](fol05.htm#fr_0) The full story will be
+<span id="fn_0"></span>[18:1](fol05.htm#fr_0.md) The full story will be
 found in F. H. Balfour's *Leaves from my Chinese Scrap-book.*
 
 ------------------------------------------------------------------------
 
-[Next: Dragons](fol06)
+[Next: Dragons](fol06.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](cab02)  [Next](cab04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](cab02)  [Next](cab04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cabala*, by Bernhard Pick, \[1913\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -89,7 +89,7 @@ tried to destroy the
 
 <span id="page_12">p. 12</span>
 
-garden; <span id="fr_1"></span>[1](#fn_1) while the fourth alone had
+garden; <span id="fr_1"></span>[1](#fn_1.md) while the fourth alone had
 entered and returned in safety (Chagiga, fol. 14, col. 2).
 
 Little by little mysticism made its way from Palestine into Babylonia
@@ -117,13 +117,13 @@ for the Cabala and traces it back, among others, to three famous
 Talmudists, as the proper founders of the Cabala, viz., Rabbi Ismaël ben
 Elisa (about 121 A. D.); Nechunjah Ben-Ha-Kanah (about 70 A. D.), and
 especially Simon ben Jochaï (about 150 A. D.), <span
-id="fr_2"></span>[2](#fn_2) the reputed author of the Zohar.
+id="fr_2"></span>[2](#fn_2.md) the reputed author of the Zohar.
 
 Whatever may be the claims of these traditions they must be rejected.
 The mystical speculations of the Cabala are entirely foreign to older
 Judaism, especially original Mosaism. It is true that the Talmud
 contains many things concerning God, heaven, hell, world, magic,
-etc., <span id="fr_3"></span>[3](#fn_3) but these things were generally
+etc., <span id="fr_3"></span>[3](#fn_3.md) but these things were generally
 assigned to some individuals, and are elements derived from Parsism and
 neo-Platonism; and much as the Talmud and Midrash may otherwise speak of
 the three teachers mentioned before, such things are not recorded of
@@ -176,7 +176,7 @@ emanation of the Jewish mental life.
 
 ### Footnotes
 
-<span id="fn_1"></span>[12:1](cab03.htm#fr_1) In the Talmud he is called
+<span id="fn_1"></span>[12:1](cab03.htm#fr_1.md) In the Talmud he is called
 Elisha ben-Abuja, surnamed Acher, i.e., "the other one," after his
 apostasy from Judaism. It is related of him that while attending the
 Jewish college he had often been noticed to carry with him writings of
@@ -185,13 +185,13 @@ habit of quoting Greek poetry. Elisha was a pupil of the famous rabbi
 Akiba; comp. Jellinek, *Elisha ben-Abujja, genannt Acker*, Leipsic,
 1847.
 
-<span id="fn_2"></span>[13:2](cab03.htm#fr_2) See my article *s.v.* in
+<span id="fn_2"></span>[13:2](cab03.htm#fr_2.md) See my article *s.v.* in
 McClintock and Strong's *Cyclop*., Vol. IX, p. 757.
 
-<span id="fn_3"></span>[13:3](cab03.htm#fr_3) The reader is referred for
+<span id="fn_3"></span>[13:3](cab03.htm#fr_3.md) The reader is referred for
 such things to my article "Talmud," *loc. cit.*, Vol. X, pp. 170, 171.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. The Development of the Cabala in the Pre-Zohar
-Period](cab04)
+Period](cab04.md)

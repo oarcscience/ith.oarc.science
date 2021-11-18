@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](chc32)  [Next](chc34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](chc32)  [Next](chc34.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Child Christopher and Goldilind the Fair*, by William Morris, \[1895\],
 at Intangible Textual Heritage
 
@@ -73,6 +73,6 @@ her shoulders, and Christopher kissed her without any word.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXIII. A Council of Captains: The Host Comes to
-Broadlees, and Makes for Woodwall](chc34)
+Broadlees, and Makes for Woodwall](chc34.md)
 
 </div>

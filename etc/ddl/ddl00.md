@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Legendary Creatures](../../lcr/index)  [Index](index)  [Next](ddl01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Legendary Creatures](../../lcr/index)  [Index](index)  [Next](ddl01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPL5U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPL5U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dragons and Dragon Lore*, by Ernest Ingersoll, \[1928\], at Intangible
 Textual Heritage
 
@@ -43,4 +43,4 @@ not renewed in a timely fashion at the US copyright office.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](ddl01)
+[Next: Introduction](ddl01.md)

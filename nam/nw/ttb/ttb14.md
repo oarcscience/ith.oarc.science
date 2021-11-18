@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb13)  [Next](ttb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb13)  [Next](ttb15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_27">p. 27</span>
 
-<span id="img_02700"></span> ![The Ill-Jow](img/02700.jpg)
+<span id="img_02700"></span> ![The Ill-Jow](img/02700.jpg.md)
 
 ### The Ill-Jow
 
@@ -52,4 +52,4 @@ for it or purchase it as for himself.
 
 ------------------------------------------------------------------------
 
-[Next: Ho-Xhok, The Crane](ttb15)
+[Next: Ho-Xhok, The Crane](ttb15.md)

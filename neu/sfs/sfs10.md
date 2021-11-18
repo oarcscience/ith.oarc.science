@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs09)  [Next](sfs11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs09)  [Next](sfs11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -168,11 +168,11 @@ This story is related to Grimm's tale of the 'Golden Goose,' but it is
 much more rationally constructed, and much more interesting. The man who
 jumps one hundred miles appears to be the rainbow, the man with bandaged
 eyes the lightning, and the man with the bottle the cloud. The
-interpretation will be very similar to that of [No. 1](sfs04.htm#an_01),
+interpretation will be very similar to that of [No. 1](sfs04.htm#an_01.md),
 but the allegory is by no means so clear or so well constructed. As to
 the nonsense at the end, it is a specimen of the manner in which the
 narrators of stories frequently finish them in all Slavonic languages.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sfs11)
+[Next: Introduction](sfs11.md)

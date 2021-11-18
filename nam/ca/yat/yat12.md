@@ -1,21 +1,21 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat11)  [Next](yat13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat11)  [Next](yat13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### XII. COYOTE, HERON, AND LIZARD.  <span id="fr_89"></span>[240](#fn_87)
+### XII. COYOTE, HERON, AND LIZARD.  <span id="fr_89"></span>[240](#fn_87.md)
 
 <span id="page_153">p. 153</span>
 
@@ -28,21 +28,21 @@ already." (Thus spoke the chief of the Geese people.) They danced. "Try
 it! You are going to have a dance. Get ready to start when it is
 daylight! Get ready your feathers, get ready your aprons fringed with
 pine-nut shells. Get ready your ‘ū'miyauna aprons. What shall stay over
-night at Cī'p!a; <span id="fr_90"></span>[242](#fn_88) you will have a
+night at Cī'p!a; <span id="fr_90"></span>[242](#fn_88.md) you will have a
 dance there, you will practice there, as it is a very good place. You
 will dig for annis roots at that place, and you will take them along as
 food. You will dig also for da'mna roots. There we shall remain for two
 nights. After that we shall start to move along ahead to
-Djêwit?t‘a'urik!u <span id="fr_91"></span>[243](#fn_89) and to
-I‘da'lmadu. <span id="fr_92"></span>[244](#fn_90) There you will
+Djêwit?t‘a'urik!u <span id="fr_91"></span>[243](#fn_89.md) and to
+I‘da'lmadu. <span id="fr_92"></span>[244](#fn_90.md) There you will
 practice dancing and will get sunflower seeds. You will rest there and
 gather sunflower seeds, for the North people <span
-id="fr_93"></span>[245](#fn_91) are very fond of sunflower seeds." Now
+id="fr_93"></span>[245](#fn_91.md) are very fond of sunflower seeds." Now
 they proceeded
 
 <span id="page_154">p. 154</span>
 
-to the north. It was Lizard <span id="fr_94"></span>[246](#fn_92) who
+to the north. It was Lizard <span id="fr_94"></span>[246](#fn_92.md) who
 had sent word for all the people to come to a dance.
 
 (When they had come near to the north country, the chief said,) "We
@@ -80,8 +80,8 @@ She held her salmon spear and looked into the river, waiting
 <span id="page_155">p. 155</span>
 
 for salmon. All at once a sucker came swimming from the west. "Go on
-east to K!a'‘djadê, <span id="fr_95"></span>[247](#fn_93) to
-Cību'p‘k!aimadu." <span id="fr_96"></span>[247](#fn_93) Soon another
+east to K!a'‘djadê, <span id="fr_95"></span>[247](#fn_93.md) to
+Cību'p‘k!aimadu." <span id="fr_96"></span>[247](#fn_93.md) Soon another
 sucker came swimming from the west. "I do not like you," (she said,)
 "your bones might get stuck in my throat. Swim on east to
 Cību'p‘k!aimadu." All at once a salmon came swimming from the west. She
@@ -103,7 +103,7 @@ ma'ls\*unna roots and his annis roots, picked out the big ones, (and
 said to her), "You should eat these annis roots." "I do not care to eat
 them," Heron Woman was wont to reply. "Eat these roots for which I have
 gone far off. Why is it that you do not eat raw food? <span
-id="fr_97"></span>[248](#fn_94) What is it that you have eaten?"
+id="fr_97"></span>[248](#fn_94.md) What is it that you have eaten?"
 
 Again she did so for herself. She went off early in the morning and did
 as before, got salmon for herself. She caught four salmon, put them down
@@ -114,13 +114,13 @@ remains away. "Pray do not
 <span id="page_156">p. 156</span>
 
 smell!" she said, "he might transgress your taboo." <span
-id="fr_98"></span>[249](#fn_95) When it was dark, Coyote came back home.
+id="fr_98"></span>[249](#fn_95.md) When it was dark, Coyote came back home.
 "I feel sick," said Heron Woman, "I have a toothache." "Indeed!" said
 Coyote. "When was it that you became sick?" "I dreamt something, and I
 am always sick." "What is it that you dreamt of?" "I was just dreaming
 of something," said Heron Woman. "My cheeks are swollen." "Indeed!" said
 Coyote. "I have a toothache. Dig up tc‘i'l?awauna <span
-id="fr_99"></span>[250](#fn_96) roots, you will pound them up and put it
+id="fr_99"></span>[250](#fn_96.md) roots, you will pound them up and put it
 on my cheeks." "Yes, indeed, I shall do so. You should eat baked roots;
 have baked ma'ls\*unna roots." Coyote was wont to kill ground squirrels,
 he was wont to kill gophers, he was wont to kill moles. She put raw
@@ -144,7 +144,7 @@ dance." She was wont to take her skirt secretly, her buckskin skirt,
 tasseled with mā'ha grass. "Pray do not be seen!" (she said to her
 skirt). She now ran off at night to stay over night where they were
 having a dance. "Do not build a fire," she said (to Coyote). <span
-id="fr_100"></span>[251](#fn_97)
+id="fr_100"></span>[251](#fn_97.md)
 
 <span id="page_157">p. 157</span>
 
@@ -152,7 +152,7 @@ id="fr_100"></span>[251](#fn_97)
 though sick, as I always do; groan, build a fire when it is already
 daylight," (she said to her acorns). Now she went off, and danced with
 the people while Coyote kept on sleeping. "Here comes the fine dancer,"
-(said Lizard,) "Coyote's widow!" <span id="fr_101"></span>[252](#fn_98)
+(said Lizard,) "Coyote's widow!" <span id="fr_101"></span>[252](#fn_98.md)
 
 When it was just about to dawn, she was wont to run back home along the
 river. She entered her house again, put the acorns into her mouth again,
@@ -230,7 +230,7 @@ blinks," (they thought). "You will soon have a dance," he said. "I have
 a sore throat, because of my shouting. Soon you will all go to sleep.
 Dance!" he said. Just then his faithless wife came. "Amm! You will act
 in that way indeed, will you? Perhaps you think that you will
-live?" <span id="fr_102"></span>[253](#fn_99) he said (to himself). "So
+live?" <span id="fr_102"></span>[253](#fn_99) he said (to himself.md). "So
 you try to fool me when I am asleep, do you? (Aloud:) "Hehê! Here comes
 the fine dancer, Coyote's wife! Soon you will all go to sleep," he said.
 "You will dance in the daytime tomorrow; you will dance till
@@ -255,8 +255,8 @@ not speak thus," said Duck. "Go straight north to the far north! Go
 still further north! I shall think it out," he said. "Let me see! Go
 east to the Hat Creek Indians," said (Goose), "and go east to the people
 dwelling across the river to the north, and go east to the people of
-I‘t‘a'urik!u. <span id="fr_103"></span>[254](#fn_100) Go over to the
-south to the S\*uk!ô'niyā," <span id="fr_104"></span>[255](#fn_101) he
+I‘t‘a'urik!u. <span id="fr_103"></span>[254](#fn_100.md) Go over to the
+south to the S\*uk!ô'niyā," <span id="fr_104"></span>[255](#fn_101.md) he
 said, "go east to the rising sun. I also
 
 <span id="page_160">p. 160</span>
@@ -266,15 +266,15 @@ north. I never thought that I should do that. I was very happy at home;
 I had plenty to eat. Never did I think that I would do that. A meteor
 will fall down and burst," he said, "and the water will boil. It will be
 that way also down the river to the west. <span
-id="fr_105"></span>[256](#fn_102) People will lie down in them if they
+id="fr_105"></span>[256](#fn_102.md) People will lie down in them if they
 are sick in any way." (He spoke to Ground Squirrel,) "You will be he who
 will always look around for food," (and to Gray Squirrel,) "while you
 will be he who will jump about among the yellow-pines, you will get
 yellow-pine nuts, and you will be satiated. I shall have my place here.
 I shall also be north across the river from here at Wacū'p‘di <span
-id="fr_106"></span>[257](#fn_103) for that is a very good place. To that
+id="fr_106"></span>[257](#fn_103.md) for that is a very good place. To that
 place there will be a bridge going north across the river, and the place
-will be called Dīrī'p!oha. <span id="fr_107"></span>[258](#fn_104) That
+will be called Dīrī'p!oha. <span id="fr_107"></span>[258](#fn_104.md) That
 place will be heard about all over, and people will say, 'Let us go to
 bathe at Dīrī'p!oha.' It will be only slightly warm at Wacū'p‘di; so it
 will be across the river from here. Wild plums will grow in that place,
@@ -285,69 +285,69 @@ the north, trout will swim to the north."
 
 ### Footnotes
 
-<span id="fn_87"></span>[142:240](yat12.htm#fr_89) The account of the
+<span id="fn_87"></span>[142:240](yat12.htm#fr_89.md) The account of the
 visit of the Geese people to Lizard at Big Bend (of Pit River) bears
 considerable resemblance to Sam Bat‘wī's account of their visit to Flint
 Rock at Mount Shasta (see note 67). Heron's deception of her husband
 Coyote is paralleled by Sam's story of Coyote and his Sister" (see note
 152).
 
-<span id="fn_88"></span>[153:242](yat12.htm#fr_90) See note 51.
+<span id="fn_88"></span>[153:242](yat12.htm#fr_90.md) See note 51.
 
-<span id="fn_89"></span>[153:243](yat12.htm#fr_91) The garī'?i form of
+<span id="fn_89"></span>[153:243](yat12.htm#fr_91.md) The garī'?i form of
 Djêwint‘a'urik!u (see note 201).
 
-<span id="fn_90"></span>[153:244](yat12.htm#fr_92) See note 200.
+<span id="fn_90"></span>[153:244](yat12.htm#fr_92.md) See note 200.
 
-<span id="fn_91"></span>[153:245](yat12.htm#fr_93) By dja'udjabiyā,
+<span id="fn_91"></span>[153:245](yat12.htm#fr_93.md) By dja'udjabiyā,
 "North people," are here meant those that correspond to the later
 Achomā'wi or Pit River Indians of Big Bend. By Big Bend is meant the
 land enclosed on the south by Pit River as it takes a sweep to the north
 and south between long. 122° 50' and 122°.
 
-<span id="fn_92"></span>[154:246](yat12.htm#fr_94) The lizard
+<span id="fn_92"></span>[154:246](yat12.htm#fr_94.md) The lizard
 (k!uwi'lla) of this myth is not the small species (k!a'lts\*!auna) of
 Nos. V and VI. He was described as a big, brown, long-tailed animal,
 whose bite is not poisonous. The name is given by Curtin (op. cit., p.
 313) as Gowila.
 
-<span id="fn_93"></span>[155:247](yat12.htm#fr_96) See note 225. The
+<span id="fn_93"></span>[155:247](yat12.htm#fr_96.md) See note 225. The
 place referred to is the Achomā'wi (Fall River Indian) village on Fall
 River near its confluence with Pit River, at the present Fall City (or
 Fall River Mills). The name Achomā'wi (Adjū'māwi?) refers properly only
 to the Fall River Indians, known by the Yanas as Cībup‘k!a'imaduyā\\
 (gat‘ā'?i Cībumk!a'imaduyā\\).
 
-<span id="fn_94"></span>[155:248](yat12.htm#fr_97) By "raw food" is
+<span id="fn_94"></span>[155:248](yat12.htm#fr_97.md) By "raw food" is
 meant roots and other vegetable food as contrasted with more staple
 food, particularly acorn-mush, deer meat, and salmon. Distinct verb
 stems are used for "eat," according to whether reference is had to the
 former (tc‘ô-) or the latter sort of food (mô-).
 
-<span id="fn_95"></span>[156:249](yat12.htm#fr_98) It was forbidden to
+<span id="fn_95"></span>[156:249](yat12.htm#fr_98.md) It was forbidden to
 eat salmon at the same time as deer meat, small game, or gophers' roots.
 This explains Heron's refusal to eat the roots offered by Coyote and her
 desire to keep the odor of salmon away from him. The transgression of
 the taboo would mean the stopping of the salmon run.
 
-<span id="fn_96"></span>[156:250](yat12.htm#fr_99) A medicinal root used
+<span id="fn_96"></span>[156:250](yat12.htm#fr_99.md) A medicinal root used
 for swellings.
 
-<span id="fn_97"></span>[156:251](yat12.htm#fr_100) She did not wish to
+<span id="fn_97"></span>[156:251](yat12.htm#fr_100.md) She did not wish to
 have Coyote get up early, for he might then observe her coming back from
 the dance.
 
-<span id="fn_98"></span>[157:252](yat12.htm#fr_101) I.e., "grass widow,"
+<span id="fn_98"></span>[157:252](yat12.htm#fr_101.md) I.e., "grass widow,"
 divorced or unfaithful wife. Lizard's words are ironical.
 
-<span id="fn_99"></span>[159:253](yat12.htm#fr_102) The exact
+<span id="fn_99"></span>[159:253](yat12.htm#fr_102.md) The exact
 translation and significance of this sentence are rather doubtful.
 
-<span id="fn_100"></span>[159:254](yat12.htm#fr_103) Now known as Hot
+<span id="fn_100"></span>[159:254](yat12.htm#fr_103.md) Now known as Hot
 Springs Valley or Big Valley. It is in southern Modoc and northern
 Lassen counties and is drained by Pit River.
 
-<span id="fn_101"></span>[159:255](yat12.htm#fr_104) S\*uk!ô'niyâ seems
+<span id="fn_101"></span>[159:255](yat12.htm#fr_104.md) S\*uk!ô'niyâ seems
 to have been of somewhat indefinite application as a term embracing
 Indians to the extreme east. it was used by Betty Brown to refer to the
 Northeast Maidu of Susanville and the Achomā'wi of Dixie Valley. Sam
@@ -357,16 +357,16 @@ valleys (inhabited by the Atsugē'wi or Hat Creek Indians), Fall River,
 Big Valley, and Dixie Valley--were formerly visited in the spring by
 myriads of ducks.
 
-<span id="fn_102"></span>[160:256](yat12.htm#fr_105) This explains the
+<span id="fn_102"></span>[160:256](yat12.htm#fr_105.md) This explains the
 occurrence of hot sulphur springs in Big Valley and Big Bend.
 
-<span id="fn_103"></span>[160:257](yat12.htm#fr_106) Kosk Creek, a
+<span id="fn_103"></span>[160:257](yat12.htm#fr_106.md) Kosk Creek, a
 northern tributary of Pit River. Big Bend is directly opposite its
 confluence with the latter stream.
 
-<span id="fn_104"></span>[160:258](yat12.htm#fr_107) Hot Springs of Big
+<span id="fn_104"></span>[160:258](yat12.htm#fr_107.md) Hot Springs of Big
 Bend.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. The Finding of Fire](yat13)
+[Next: XIII. The Finding of Fire](yat13.md)

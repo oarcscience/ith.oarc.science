@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](job)  [Next](pro) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](job)  [Next](pro.md) 
 
 ------------------------------------------------------------------------
 
@@ -8059,4 +8059,4 @@ praise to the Lord. Let the Lord be praised.
 
 ------------------------------------------------------------------------
 
-[Next: Proverbs](pro)
+[Next: Proverbs](pro.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft09)  [Next](geft11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft09)  [Next](geft11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -224,7 +224,7 @@ unbound her from the tree, gave her to the prince, and said: 'Although
 this maiden was beautiful, yet she was venomous, and, sooner or later,
 would have killed thee. Now whatever poison was in her is completely
 gone, so do not fear her in the slightest degree. <span
-id="fr_6"></span>[1](#fn_6) Go! and God guide thee. As for these
+id="fr_6"></span>[1](#fn_6.md) Go! and God guide thee. As for these
 possessions, they are thine; I do not want them. May God give thee His
 peace.' From his pocket he took out a handkerchief, gave it to the
 prince, and said: 'Take this handkerchief with thee; when thou reachest
@@ -249,9 +249,9 @@ since he left him.
 
 ### Footnotes
 
-<span id="fn_6"></span>[48:1](geft10.htm#fr_6) Cf. Paspati, *Études sur
+<span id="fn_6"></span>[48:1](geft10.htm#fr_6.md) Cf. Paspati, *Études sur
 les Tchinghianés* (Constantinople, 1870), p. 605, Conte 2<sup>me</sup>.
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Two Brothers](geft11)
+[Next: IX. The Two Brothers](geft11.md)

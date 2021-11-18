@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sws00)    [Page
-Index](pageidx)    [Text \[Zipped\]](sws.txt.gz)
+[Contents](#contents)    [Start Reading](sws00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](sws.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -52,44 +52,44 @@ spiritual culture. Reichard died on July 25th, 1955 in Flagstaff, AZ.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sws00)  
-[Acknowledgments](sws01)  
-[Table of Contents](sws02)  
-[Illustrations](sws03)  
-[Chapter I: White-Sands](sws04)  
-[Chapter II: Established](sws05)  
-[Chapter III: Tension](sws06)  
-[Chapter IV: Sand-Paintings](sws07)  
-[Chapter V: Sympathy](sws08)  
-[Chapter VI: Marie Learns to Weave](sws09)  
-[Chapter VII: Results](sws10)  
-[Chapter VIII: At the Well](sws11)  
-[Chapter IX: Taking Counsel](sws12)  
-[Chapter X: Design](sws13)  
-[Chapter XI: Rain](sws14)  
-[Chapter XII: Understanding](sws15)  
-[Chapter XIII: Self-Reliance](sws16)  
-[Chapter XIV: Criticism](sws17)  
-[Chapter XV: Dan](sws18)  
-[Chapter XVI: Sheep Dipping](sws19)  
-[Chapter XVII: House Guardian](sws20)  
-[Chapter XVIII: Wedding](sws21)  
-[Chapter XIX: Shooting Chant](sws22)  
-[Chapter XX: Communion of Suffering](sws23)  
-[Chapter XXI: The Gods Invited](sws24)  
-[Chapter XXII: The Holy Twins](sws25)  
-[Chapter XXIII: Sun's House](sws26)  
-[Chapter XXIV: The Gods Accept](sws27)  
-[Chapter XXV: Effects](sws28)  
-[Chapter XXVI: The Kinni's-Sons](sws29)  
-[Chapter XXVII: Standards](sws30)  
-[Chapter XXVIII: White-Sands Desolated](sws31)  
-[Chapter XXIX: War Dance](sws32)  
-[Chapter XXX: Killing the Ghost](sws33)  
-[Chapter XXI: Marie's Little Lamb](sws34)  
-[Chapter XXXII: Tragedy](sws35)  
-[Chapter XXXIII: Death](sws36)  
-[Chapter XXXIV: Collecting Plants](sws37)  
-[Chapter XXXV: Father's Sister](sws38)  
-[Chapter XXXVI: Degree In Weaving](sws39)  
-[Index](sws40)  
+<span id="contents"></span> [Title Page](sws00.md)  
+[Acknowledgments](sws01.md)  
+[Table of Contents](sws02.md)  
+[Illustrations](sws03.md)  
+[Chapter I: White-Sands](sws04.md)  
+[Chapter II: Established](sws05.md)  
+[Chapter III: Tension](sws06.md)  
+[Chapter IV: Sand-Paintings](sws07.md)  
+[Chapter V: Sympathy](sws08.md)  
+[Chapter VI: Marie Learns to Weave](sws09.md)  
+[Chapter VII: Results](sws10.md)  
+[Chapter VIII: At the Well](sws11.md)  
+[Chapter IX: Taking Counsel](sws12.md)  
+[Chapter X: Design](sws13.md)  
+[Chapter XI: Rain](sws14.md)  
+[Chapter XII: Understanding](sws15.md)  
+[Chapter XIII: Self-Reliance](sws16.md)  
+[Chapter XIV: Criticism](sws17.md)  
+[Chapter XV: Dan](sws18.md)  
+[Chapter XVI: Sheep Dipping](sws19.md)  
+[Chapter XVII: House Guardian](sws20.md)  
+[Chapter XVIII: Wedding](sws21.md)  
+[Chapter XIX: Shooting Chant](sws22.md)  
+[Chapter XX: Communion of Suffering](sws23.md)  
+[Chapter XXI: The Gods Invited](sws24.md)  
+[Chapter XXII: The Holy Twins](sws25.md)  
+[Chapter XXIII: Sun's House](sws26.md)  
+[Chapter XXIV: The Gods Accept](sws27.md)  
+[Chapter XXV: Effects](sws28.md)  
+[Chapter XXVI: The Kinni's-Sons](sws29.md)  
+[Chapter XXVII: Standards](sws30.md)  
+[Chapter XXVIII: White-Sands Desolated](sws31.md)  
+[Chapter XXIX: War Dance](sws32.md)  
+[Chapter XXX: Killing the Ghost](sws33.md)  
+[Chapter XXI: Marie's Little Lamb](sws34.md)  
+[Chapter XXXII: Tragedy](sws35.md)  
+[Chapter XXXIII: Death](sws36.md)  
+[Chapter XXXIV: Collecting Plants](sws37.md)  
+[Chapter XXXV: Father's Sister](sws38.md)  
+[Chapter XXXVI: Degree In Weaving](sws39.md)  
+[Index](sws40.md)  

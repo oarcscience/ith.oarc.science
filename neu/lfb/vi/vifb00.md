@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Next](vifb01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Next](vifb01.md) 
 
 </div>
 
@@ -29,6 +29,6 @@ THE VIOLET FAIRY BOOK
 
 ------------------------------------------------------------------------
 
-[Next: Contents](vifb01)
+[Next: Contents](vifb01.md)
 
 </div>

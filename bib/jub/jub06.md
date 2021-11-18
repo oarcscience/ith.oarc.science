@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub05) 
-[Next](jub07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub05.md) 
+[Next](jub07.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ author desires at once to protest against certain tendencies which, in
 his view, threaten true religion, and to inculcate certain reforms.
 Incidentally it commends certain religious practices, and endeavours to
 invest them with enhanced sanctions. In the forefront, as its name ("the
-Book of Jubilees") suggests <span id="fr_9"></span>[2](#fn_9) stands the
+Book of Jubilees") suggests <span id="fr_9"></span>[2](#fn_9.md) stands the
 question of the Calendar. It is all important in the author's view that
 the divinely ordained principle according to which history is divided up
 by year-weeks (*i. e.* periods of 7 years) and jubilees (*i. e.* periods
@@ -28,7 +28,7 @@ section in which the law respecting jubilees and sabbatical years is
 solemnly enjoined. The writer's aim seems to have been nothing less than
 a reformation of the Jewish Calendar. The prevailing system has led to
 the nation "forgetting" new moons, festivals, and sabbaths (and (?)
-jubilees); <span id="fr_10"></span>[1](#fn_10) in other words, it has
+jubilees); <span id="fr_10"></span>[1](#fn_10.md) in other words, it has
 produced grave irregularities in the observance of matters which were of
 divine obligation.
 
@@ -40,7 +40,7 @@ the text, with the fiftieth year (Lev. xxv. 10 and 11). But it is
 incredible that the author of our Book would deliberately have violated
 the express injunctions of the Pentateuch on such a matter, and we are
 driven to conclude that he had a text before him in which the word
-"fiftieth" was absent. <span id="fr_11"></span>[2](#fn_11) The wording
+"fiftieth" was absent. <span id="fr_11"></span>[2](#fn_11.md) The wording
 of verses 8 and 9 is ambiguous, and allows of the explanation that the
 jubilee-year was the forty-ninth and not the fiftieth. It is quite
 possible that in verses 10 and 11 "fiftieth" has been added to the text,
@@ -51,7 +51,7 @@ suffers from the difficulty that the LXX and other ancient versions
 (including the Samaritan text) support the currently received reading.
 But it is not improbable that on such a matter the influence of Orthodox
 views may have operated to bring their text of the verses into harmony
-with the currently accepted theory. <span id="fr_12"></span>[3](#fn_12)
+with the currently accepted theory. <span id="fr_12"></span>[3](#fn_12.md)
 
 <span id="page_xvii">p. xvii</span>
 
@@ -66,7 +66,7 @@ to the solar year by means of intercalation. How can his apparent
 violation of the express wording of Scripture be explained? His answer
 would probably have been that the solar year of 364 days (cf. vi. 32)
 was actually the system implied in the Pentateuch. It has been pointed
-out by Bacon <span id="fr_13"></span>[1](#fn_13) that in the P sections
+out by Bacon <span id="fr_13"></span>[1](#fn_13.md) that in the P sections
 of the Flood-narrative in Genesis a year of 364 days is pre-supposed. It
 is said that the Flood began on the 17th day of the second month, and
 ended on the 27th day of the second month the following year, *i. e.*
@@ -138,7 +138,7 @@ which, *ex hypothesi*, consisted of 35 days. It might, however, be used
 loosely for such a date. Perhaps, too, the author desired to avoid
 specifying more particularly this date, because current Sadducean
 practice (based upon 4 different length of days assigned to the months)
-would not quite harmonize with it. <span id="fr_14"></span>[1](#fn_14)
+would not quite harmonize with it. <span id="fr_14"></span>[1](#fn_14.md)
 With regard to the Passover, it is noticeable that our author interprets
 the phrase "between the two evenings" (at which time the Passover lamb
 was to be slain, cf. Exod. xii. 6; Lev. xxiii. 5) to mean the third part
@@ -155,7 +155,7 @@ Pharisaic custom in later times, and has no basis, apparently, in the
 canonical account in Exodus. In view, however, of the fact that our
 author usually follows the prescriptions of Scripture with scrupulous
 care, the question arises whether he did not, in fact, derive this from
-the Pentateuch. Leszyrisky suggests <span id="fr_15"></span>[1](#fn_15)
+the Pentateuch. Leszyrisky suggests <span id="fr_15"></span>[1](#fn_15.md)
 that the word rendered "bitter herbs" in Exod. xii. 8 ("with bitter
 herbs shall they eat it") was interpreted by our author to mean
 "wine"--the word simply means "bitter," or "what is poisonous," and a
@@ -165,7 +165,7 @@ connexion with the Egyptian Passover.
 
 The Feast of Tabernacles, too, as described in our Book (xvi. 10-31),
 has certain peculiar features. In particular, the specifically Pharisaic
-custom of pouring water on the altar <span id="fr_16"></span>[2](#fn_16)
+custom of pouring water on the altar <span id="fr_16"></span>[2](#fn_16.md)
 at the Feast is not mentioned or recognized. Now as early as the time of
 Alexander Jannæus (102-76 B.C.) the Pharisees tried to enforce the
 adoption of this custom upon the Sadducean priest-king, who, to show his
@@ -225,7 +225,7 @@ sword (cf. *Sanhedrin* ix. i: "These are to be beheaded"). Our Book,
 however, seems to wage a polemic against such views in no uncertain
 language:
 
-*Take no gifts for the blood of man, <span id="fr_17"></span>[1](#fn_17)
+*Take no gifts for the blood of man, <span id="fr_17"></span>[1](#fn_17.md)
 lest it be shed with impunity, without judgement; for it is the blood
 that is shed that causes the earth to sin, and the earth cannot be
 cleansed from the blood of man save by the blood of him who shed it. And
@@ -245,7 +245,7 @@ some extent, upheld, in theory at any rate, the severer and older view.
 But this does not alter the fact that it was a distinctive tenet of the
 Sadducees; and it is difficult to believe that any Pharisee can, at any
 time, have used such unqualified language as that employed in the
-extracts given above. <span id="fr_18"></span>[2](#fn_18)
+extracts given above. <span id="fr_18"></span>[2](#fn_18.md)
 
 At this point we may well ask what was the author's attitude towards the
 belief in a future life? At the time when he wrote the doctrine of the
@@ -303,13 +303,13 @@ order who presided over natural phenomena (ii. 2). It is noteworthy that
 the two superior orders are represented as observing the Sabbath, and as
 fulfilling the prescriptions of the Law regarding circumcision, etc.;
 they even observe in heaven the great festivals, such as the Feast of
-Weeks (vi. 18). <span id="fr_19"></span>[1](#fn_19) Various activities
+Weeks (vi. 18). <span id="fr_19"></span>[1](#fn_19.md) Various activities
 are assigned to the angels in connexion with mankind throughout our
-Book. <span id="fr_20"></span>[2](#fn_20)
+Book. <span id="fr_20"></span>[2](#fn_20.md)
 
 Over against the angelic orders there stands a well-organized demonic
 kingdom, presided over by "the prince of the Mastêmâ" (cf. xvii. 16;
-xlviii. 2; xviii. 9, 12, etc.). <span id="fr_21"></span>[3](#fn_21)
+xlviii. 2; xviii. 9, 12, etc.). <span id="fr_21"></span>[3](#fn_21.md)
 Among the Satanic beings that appear in our Book is Beliar (i. 20).
 
 What is the attitude of our author towards the Messianic Hope? The hope
@@ -349,7 +349,7 @@ originally the title of the priest-king Melchizedek (Gen. xiv. 18), was
 revived by the Maccabean princely High Priests, and there is some
 evidence that in certain (? Sadducean) quarters it was expected that the
 Messiah would spring from the tribe of Levi, and even from the priestly
-ruling Maccabean house. <span id="fr_22"></span>[1](#fn_22) The one
+ruling Maccabean house. <span id="fr_22"></span>[1](#fn_22.md) The one
 possible reference to the hope of a Messiah from Judah in our Book
 occurs in the blessing of Judah, xxxi. 18:
 
@@ -371,7 +371,7 @@ hoped for would, according to his view, spring from the tribe of Levi.
 He does not accept the view that the Davidic dynasty is of eternal
 duration, even ideally. May he not, too, have been thinking, in the
 address to Judah, of Judas Maccabæus? <span
-id="fr_23"></span>[1](#fn_23) Judas by his warlike exploits had shed a
+id="fr_23"></span>[1](#fn_23.md) Judas by his warlike exploits had shed a
 new glory on the name "Judah." But Judas himself belonged to the
 priestly family of the Hasmoneans, and it would be easy for our author
 to see in him the embodiment of the glories of the tribe of Judah,
@@ -413,7 +413,7 @@ among the people, as was the case in the time of Shammai and Hillel."
 Other features of our Book entirely accord with this. For instance, the
 glorification of the Patriarchs in which our author loves to indulge is
 the development of a tendency already marked in the Priestly Sections of
-the Hexateuch. <span id="fr_24"></span>[1](#fn_24) In *Jubilees* they
+the Hexateuch. <span id="fr_24"></span>[1](#fn_24.md) In *Jubilees* they
 become saints of the Law. Incidents which might reflect discredit upon
 them (such as that described in Gen. xii. 11-13) are omitted. Abram is
 represented as having known the true God from his youth (xi. 16-17; xii.
@@ -452,7 +452,7 @@ period follows. The Messianic Kingdom is to be "brought about gradually
 by the progressive spiritual development of man and a corresponding
 transformation of nature." Its members are "to attain to the full limit
 of 1000 years in happiness and peace." Prof. Charles <span
-id="fr_25"></span>[1](#fn_25) adds: "The writer of *Jubilees*, we can
+id="fr_25"></span>[1](#fn_25.md) adds: "The writer of *Jubilees*, we can
 hardly doubt thought that the era of the Messianic Kingdom had already
 set in."
 
@@ -477,63 +477,63 @@ the author was a priest.
 
 ### Footnotes
 
-<span id="fn_9"></span>[xv:2](jub06.htm#fr_9) This is obscured by such
+<span id="fn_9"></span>[xv:2](jub06.htm#fr_9.md) This is obscured by such
 titles as "the little Genesis," "the Apocalypse of Moses," etc.
 
-<span id="fn_10"></span>[xvi:1](jub06.htm#fr_10) vi. 34; cf. i. 10.
+<span id="fn_10"></span>[xvi:1](jub06.htm#fr_10.md) vi. 34; cf. i. 10.
 
-<span id="fn_11"></span>[xvi:2](jub06.htm#fr_11) So Leszynsky, *Die
+<span id="fn_11"></span>[xvi:2](jub06.htm#fr_11.md) So Leszynsky, *Die
 Sadduzäer*, pp. 156 ff.
 
-<span id="fn_12"></span>[xvi:3](jub06.htm#fr_12) It should be noted that
+<span id="fn_12"></span>[xvi:3](jub06.htm#fr_12.md) It should be noted that
 the Talmud (T.B., *Ned*., 61*a*) refers to the view (held by R. Jehuda)
 that the jubilee-period was forty-nine years.
 
-<span id="fn_13"></span>[xvii:1](jub06.htm#fr_13) In *Hebraica*, vol.
+<span id="fn_13"></span>[xvii:1](jub06.htm#fr_13.md) In *Hebraica*, vol.
 viii. (1891-2), cited by Charles on vi. 32.
 
-<span id="fn_14"></span>[xix:1](jub06.htm#fr_14) Thus the Abyssinian
+<span id="fn_14"></span>[xix:1](jub06.htm#fr_14.md) Thus the Abyssinian
 Jews (*Falashas*), maintaining old practice, reckon the 50 days from
 Nisan 21, as our author does, but fix Sivan 12 as the date for the Feast
 of Weeks, as they use alternate months of 30 and 29 days. It should be
 noted that the author of 1 Enoch lxxii.-lxxxii. also advocates a year of
 364 days.
 
-<span id="fn_15"></span>[xx:1](jub06.htm#fr_15) *Op. cit.*, pp. 207 ff.
+<span id="fn_15"></span>[xx:1](jub06.htm#fr_15.md) *Op. cit.*, pp. 207 ff.
 
-<span id="fn_16"></span>[xx:2](jub06.htm#fr_16) Cf.
+<span id="fn_16"></span>[xx:2](jub06.htm#fr_16.md) Cf.
 *R.W.S.*<sup>2</sup>, p. 401 f.
 
-<span id="fn_17"></span>[xxii:1](jub06.htm#fr_17) This would be allowed
+<span id="fn_17"></span>[xxii:1](jub06.htm#fr_17.md) This would be allowed
 in certain cases of homicide (not deliberate murder) by the Rabbinical
 Law.
 
-<span id="fn_18"></span>[xxii:2](jub06.htm#fr_18) Cf., however, xlviii,
+<span id="fn_18"></span>[xxii:2](jub06.htm#fr_18.md) Cf., however, xlviii,
 14 note.
 
-<span id="fn_19"></span>[xxiv:1](jub06.htm#fr_19) Besides the above
+<span id="fn_19"></span>[xxiv:1](jub06.htm#fr_19.md) Besides the above
 there were the seventy angelic patrons of the nations (xv. 31 and note)
 and the guardian angels of individuals (xxxv. 17).
 
-<span id="fn_20"></span>[xxiv:2](jub06.htm#fr_20) For details see
+<span id="fn_20"></span>[xxiv:2](jub06.htm#fr_20.md) For details see
 Charles, *op. cit.*, p. lvii f.
 
-<span id="fn_21"></span>[xxiv:3](jub06.htm#fr_21) This is the right form
+<span id="fn_21"></span>[xxiv:3](jub06.htm#fr_21.md) This is the right form
 of the expression (not "prince Mastêmâ"): "Mastêmâ" in derivation and
 meaning = "Satan" (cf. x. 8 note).
 
-<span id="fn_22"></span>[xxv:1](jub06.htm#fr_22) Cf. *Test. Levi*,
+<span id="fn_22"></span>[xxv:1](jub06.htm#fr_22.md) Cf. *Test. Levi*,
 xviii.; Reuben, vi.; Ps. cx. 4 (? addressed to Simon Maccabæus). The
 Pharisees objected to the use of this title.
 
-<span id="fn_23"></span>[xxvi:1](jub06.htm#fr_23) So Leszynsky.
+<span id="fn_23"></span>[xxvi:1](jub06.htm#fr_23.md) So Leszynsky.
 
-<span id="fn_24"></span>[xxvii:1](jub06.htm#fr_24) See Carpenter,
+<span id="fn_24"></span>[xxvii:1](jub06.htm#fr_24.md) See Carpenter,
 *Hexateuch*, i. 123 (cited by Charles).
 
-<span id="fn_25"></span>[xxviii:1](jub06.htm#fr_25) *Op. cit.*, p.
+<span id="fn_25"></span>[xxviii:1](jub06.htm#fr_25.md) *Op. cit.*, p.
 lxxxvii.
 
 ------------------------------------------------------------------------
 
-[Next: Authorship and Date](jub07)
+[Next: Authorship and Date](jub07.md)

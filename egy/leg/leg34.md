@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg33)  [Next](leg35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg33)  [Next](leg35.md) 
 
 ------------------------------------------------------------------------
 
 VI\. The priests of the Sun at Heliopolis <span
-id="fr_272"></span>[2](#fn_270) never carry wine into their temples, for
+id="fr_272"></span>[2](#fn_270.md) never carry wine into their temples, for
 they regard it as indecent for those who are devoted to the service of
 any god to indulge in the drinking of wine whilst they are under the
 immediate inspection of their Lord and King. <span
-id="fr_273"></span>[3](#fn_271) The priests of the other deities are not
+id="fr_273"></span>[3](#fn_271.md) The priests of the other deities are not
 so scrupulous in this respect, for they use it, though sparingly. During
 their more solemn purifications they abstain from wine wholly, and they
 give themselves up entirely to study and meditation, and to the hearing
@@ -37,16 +37,16 @@ had them from the priests themselves.
 
 ### Footnotes
 
-<span id="fn_269"></span>[205:1](leg33.htm#fr_271) On account of the
+<span id="fn_269"></span>[205:1](leg33.htm#fr_271.md) On account of the
 large amount of animal matter contained in it.
 
-<span id="fn_270"></span>[205:2](leg34.htm#fr_272) Called ANU in the
+<span id="fn_270"></span>[205:2](leg34.htm#fr_272.md) Called ANU in the
 Egyptian texts; it was the centre of the great solar cult of Egypt. It
 is the "On" of the Bible.
 
-<span id="fn_271"></span>[205:3](leg34.htm#fr_273) The Sun-god was
+<span id="fn_271"></span>[205:3](leg34.htm#fr_273.md) The Sun-god was
 called Ra.
 
 ------------------------------------------------------------------------
 
-[Next: Section VII.](leg35)
+[Next: Section VII.](leg35.md)

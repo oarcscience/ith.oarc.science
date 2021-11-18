@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](tpm05)  [Next](tpm07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](tpm05)  [Next](tpm07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *The Twelve Powers of Man*, by Charles Fillmore, \[1930\], at Intangible
 Textual Heritage
 
@@ -303,4 +303,4 @@ dominion with wisdom and love.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](tpm07)
+[Next: Chapter 5](tpm07.md)

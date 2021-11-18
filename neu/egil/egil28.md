@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil27)  [Next](egil29) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil27)  [Next](egil29.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ stones.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXVIII. Of Skallagrim's land-taking.](egil29)
+[Next: CHAPTER XXVIII. Of Skallagrim's land-taking.](egil29.md)

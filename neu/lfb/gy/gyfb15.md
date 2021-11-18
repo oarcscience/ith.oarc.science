@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb14)  [Next](gyfb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb14)  [Next](gyfb16.md) 
 
 </div>
 
@@ -129,6 +129,6 @@ great enjoyment.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Queen of the Flowery Isles](gyfb16)
+[Next: The Story of the Queen of the Flowery Isles](gyfb16.md)
 
 </div>

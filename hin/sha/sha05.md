@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha04)  [Next](sha06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha04)  [Next](sha06.md) 
 
 ------------------------------------------------------------------------
 
@@ -645,4 +645,4 @@ Like silken banners borne against the wind. (*Exit*.)
 
 ------------------------------------------------------------------------
 
-[Next: Act II. The Secret](sha06)
+[Next: Act II. The Secret](sha06.md)

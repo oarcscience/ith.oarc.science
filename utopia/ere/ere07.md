@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](ere06)  [Next](ere08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](ere06)  [Next](ere08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -261,4 +261,4 @@ easy nature as not to deserve the name.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: The River And The Range](ere08)
+[Next: Chapter V: The River And The Range](ere08.md)

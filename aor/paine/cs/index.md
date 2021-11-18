@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Thomas Paine](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Thomas Paine](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGULIS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGULIS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGULIS/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cs00)    [Text
-\[Zipped\]](cs.txt.gz)
+[Contents](#contents)    [Start Reading](cs00.md)    [Text
+\[Zipped\]](cs.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -48,13 +48,13 @@ Washington.--J.B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cs00)  
-[Table of Contents](cs01)  
-[Introduction](cs02)  
+<span id="contents"></span> [Title Page](cs00.md)  
+[Table of Contents](cs01.md)  
+[Introduction](cs02.md)  
 [I. Of the Origin and Design of Government in General, with Concise
-Remarks on the English Constitution](cs03)  
-[II. Of Monarchy and Hereditary Succession](cs04)  
-[III. Thoughts on the Present State of American Affairs](cs05)  
+Remarks on the English Constitution](cs03.md)  
+[II. Of Monarchy and Hereditary Succession](cs04.md)  
+[III. Thoughts on the Present State of American Affairs](cs05.md)  
 [IV. Of the Present Ability of America, with Some Miscellaneous
-Reflexions](cs06)  
-[Appendix](cs07)  
+Reflexions](cs06.md)  
+[Appendix](cs07.md)  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai09)  [Next](jai11) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai09)  [Next](jai11.md) 
 
 ------------------------------------------------------------------------
 
@@ -663,4 +663,4 @@ even to-day.
 
 ------------------------------------------------------------------------
 
-[Next: The Introduction of Buddhism](jai11)
+[Next: The Introduction of Buddhism](jai11.md)

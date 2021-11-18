@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr14)  [Next](ppr16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr14)  [Next](ppr16.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ And there shall be recited by way of magical charm the words:
 
 ------------------------------------------------------------------------
 
-[Next: Hymn to Amun-Ra (Egyptian)](ppr16)
+[Next: Hymn to Amun-Ra (Egyptian)](ppr16.md)

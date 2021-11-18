@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo31)  [Next](sdo33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo31)  [Next](sdo33.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ song is sung four times this dance is finished.
 
 ------------------------------------------------------------------------
 
-[Next: Completion of the Ceremony](sdo33)
+[Next: Completion of the Ceremony](sdo33.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml11)  [Next](hml13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml11)  [Next](hml13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -126,7 +126,7 @@ which obeyed her gentle rule.
 
 One year there fell upon Ireland, erewhile so happy a great
 desolation--"For Scripture saith, an ending to all good things must
-be" <span id="fr_14"></span>[1](#fn_14)--and the happiness of the
+be" <span id="fr_14"></span>[1](#fn_14.md)--and the happiness of the
 Countess Cathleen's tribe came to an end in this wise: A terrible famine
 fell on the land; the seed-corn rotted in the ground, for rain and
 never-lifting mists filled the heavy air and lay on the sodden earth;
@@ -145,7 +145,7 @@ famine-stricken forests.
 "I searched all day: the mice and rats and hedgehogs  
 Seemed to be dead, and I could hardly hear  
 A wing moving in all the famished woods." <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 ### Distress of the Peasants
 
@@ -247,13 +247,13 @@ day Cathleen went among them, with her pitifully scanty doles of
 <span id="img_16200"></span>
 
 [![''Day by day Cathleen went among them''](tn/16200.jpg)  
-Click to enlarge](img/16200.jpg)  
+Click to enlarge](img/16200.jpg.md)  
 ''Day by day Cathleen went among them''  
 
 <span id="img_16300"></span>
 
 [![The Peasant's Story](tn/16300.jpg)  
-Click to enlarge](img/16300.jpg)  
+Click to enlarge](img/16300.jpg.md)  
 The Peasant's Story  
 
  
@@ -724,12 +724,12 @@ procure it, tell me, that I may redeem these deluded people's souls."
 <span id="img_17600"></span>
 
 [![](tn/17600.jpg)  
-Click to enlarge](img/17600.jpg)
+Click to enlarge](img/17600.jpg.md)
 
 <span id="img_17700"></span>
 
 [![''Cathleen signed the bond''](tn/17700.jpg)  
-Click to enlarge](img/17700.jpg)  
+Click to enlarge](img/17700.jpg.md)  
 ''Cathleen signed the bond''  
 
  
@@ -965,12 +965,12 @@ The Shadow of Shadows on the deed alone."
 
 ### Footnotes
 
-<span id="fn_14"></span>[159:1](hml12.htm#fr_14) C. Kingsley.
+<span id="fn_14"></span>[159:1](hml12.htm#fr_14.md) C. Kingsley.
 
-<span id="fn_15"></span>[160:1](hml12.htm#fr_15) The poetical quotations
+<span id="fn_15"></span>[160:1](hml12.htm#fr_15.md) The poetical quotations
 throughout this story are taken, by permission, from Mr. W. B. Yeats's
 play "The Countess Cathleen."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Cuchulain, the Champion of Ireland](hml13)
+[Next: Chapter IX: Cuchulain, the Champion of Ireland](hml13.md)

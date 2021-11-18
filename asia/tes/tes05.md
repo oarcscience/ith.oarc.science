@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes04)  [Next](tes06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes04)  [Next](tes06.md) 
 
 ------------------------------------------------------------------------
 
-### 2. (A TALE ABOUT THE WOOD-MASTER.) <span id="fr_4"></span>[1](#fn_4)
+### 2. (A TALE ABOUT THE WOOD-MASTER.) <span id="fr_4"></span>[1](#fn_4.md)
 
 There lived a man who was very poor. He used to walk along a small river
 near his house, constructing deadfalls for hares. Sometimes he would
@@ -80,11 +80,11 @@ Kolyma country, spring of 1895.
 
 ### Footnotes
 
-<span id="fn_4"></span>[10:1](tes05.htm#fr_4) This tale is Tundra
+<span id="fn_4"></span>[10:1](tes05.htm#fr_4.md) This tale is Tundra
 Yukaghir, though the hero is called a Lamut. For Masters and Owners, cf.
 Bogoras, "The Chukchee" (*Publications of the Jesup North Pacific
 Expedition*, vol. 7), 285.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Tale About the Sea-Spirit](tes06)
+[Next: 3. Tale About the Sea-Spirit](tes06.md)

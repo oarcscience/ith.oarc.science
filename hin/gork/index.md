@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gork00)    [Page
-Index](pageidx)    [Text \[Zipped\]](gork.txt.gz)
+[Contents](#contents)    [Start Reading](gork00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](gork.txt.gz.md)
 
 |                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------|
@@ -66,28 +66,28 @@ translated them into English. The English translations of the Gospel of
 Ramakrishna, this one included, are derived from his work.
 
 Also at this site: Max Müller's [Ramakrishna, His Life and
-Sayings](../rls/index).
+Sayings](../rls/index.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](gork00)  
-[Preface](gork01)  
-[Contents](gork02)  
-[Introduction](gork03)  
-[Chapter I. Srî Râmakrishna at the Temple of Dakshineswara](gork04)  
-[Chapter II. Srî Râmakrishna With his Disciples at the Temple](gork05)  
+<span id="contents"></span> [Title Page](gork00.md)  
+[Preface](gork01.md)  
+[Contents](gork02.md)  
+[Introduction](gork03.md)  
+[Chapter I. Srî Râmakrishna at the Temple of Dakshineswara](gork04.md)  
+[Chapter II. Srî Râmakrishna With his Disciples at the Temple](gork05.md)  
 [Chapter III. The Bhagavân With Certain of His Householder
-Disciples](gork06)  
-[Chapter IV. Visit to the Pandit Vidyâsâgara](gork07)  
-[Chapter V. Day On the River With Keshab Chunder Sen](gork08)  
-[Chapter VI. Sunday at the Temple](gork09)  
+Disciples](gork06.md)  
+[Chapter IV. Visit to the Pandit Vidyâsâgara](gork07.md)  
+[Chapter V. Day On the River With Keshab Chunder Sen](gork08.md)  
+[Chapter VI. Sunday at the Temple](gork09.md)  
 [Chapter VII. Some Incidents in the Life of Srî Râmakrishna (as Told by
-Himself)](gork10)  
-[Chapter VIII. Feast at the Garden-House of Surendra](gork11)  
-[Chapter IX. Visit to a Hindu Pandit and Preacher](gork12)  
-[Chapter X. Gathering of Disciples at the Temple](gork13)  
-[Chapter XI. Srî Râmakrishna at the Sinti Brâhmo-Samâj](gork14)  
-[Chapter XII. At the House of Balarâm, a Disciple](gork15)  
-[Chapter XIII. A Day at Shâmpukur](gork16)  
-[Chapter XIV. Cossipur Garden-House](gork17)  
-[Index](gork18)  
+Himself)](gork10.md)  
+[Chapter VIII. Feast at the Garden-House of Surendra](gork11.md)  
+[Chapter IX. Visit to a Hindu Pandit and Preacher](gork12.md)  
+[Chapter X. Gathering of Disciples at the Temple](gork13.md)  
+[Chapter XI. Srî Râmakrishna at the Sinti Brâhmo-Samâj](gork14.md)  
+[Chapter XII. At the House of Balarâm, a Disciple](gork15.md)  
+[Chapter XIII. A Day at Shâmpukur](gork16.md)  
+[Chapter XIV. Cossipur Garden-House](gork17.md)  
+[Index](gork18.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](msi05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](msi05.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,12 +102,12 @@ played only by putting the hand under the dress, and making the middle
 finger and thumb serve for the arms, while the fore-finger works the
 head . . . . . Powell's show was set in Covent Garden, opposite to St.
 Paul's Church; and the *Spectator* (No. 14 <span
-id="fr_1"></span>[1](#fn_1)) contains the letter of the sexton, who
+id="fr_1"></span>[1](#fn_1).md) contains the letter of the sexton, who
 complained that the performances of Punch thinned the congregation in
 the Church, and that, as Powell exhibited during the time of prayers,
 the telling of the bell was taken, by all who heard it, for notice of
 the intended commencement of the exhibition. <span
-id="fr_2"></span>[2](#fn_2)
+id="fr_2"></span>[2](#fn_2.md)
 
 Many particulars about Powell are stated in "A Second Tale of a Tub: or
 the History of Robert Powell, the Puppet showman," London: 1715. The
@@ -211,7 +211,7 @@ collection was removed in 1839.
 
 A correspondent sent to *Notes and Queries* of March 17th, 1866, the
 somewhat illogical argument that because an effigy of Mother Shipton had
-been exhibited in Fleet [Street](errata.htm#1), therefore none was
+been exhibited in Fleet [Street](errata.htm#1.md), therefore none was
 exhibited in Westminster Abbey. The following are his or her words:--
 
 Mother Shipton was a conspicuous object among the wax figures, not in
@@ -248,16 +248,16 @@ traditional lore of East Norfolk she is made to prophecy that
 "The town of Yarmouth shall become a nettle-bush. That the bridges shall
 be pulled up; and small vessels sail to Irstead and Barton Loads." Also,
 "Blessed are they that live near Potter Heigham, and double-blessed them
-that live in it." <span id="fr_3"></span>[1](#fn_3)
+that live in it." <span id="fr_3"></span>[1](#fn_3.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[29:1](msi06.htm#fr_1) Attributed to Steele.
+<span id="fn_1"></span>[29:1](msi06.htm#fr_1.md) Attributed to Steele.
 
-<span id="fn_2"></span>[29:2](msi06.htm#fr_2) See *Punch and Judy*, by
+<span id="fn_2"></span>[29:2](msi06.htm#fr_2.md) See *Punch and Judy*, by
 Payne Collier and George Cruikshank: Bell and Daldy, London: 1870.
 
-<span id="fn_3"></span>[32:1](msi06.htm#fr_3) *Norfolk Archæology*, Vol.
+<span id="fn_3"></span>[32:1](msi06.htm#fr_3.md) *Norfolk Archæology*, Vol.
 II. Norwich: Charles Muuskett, Old Haymarket, 1849.

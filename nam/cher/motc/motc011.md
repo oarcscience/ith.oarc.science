@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc010) 
-[Next](motc012) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc010.md) 
+[Next](motc012.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ ran."
 
 ------------------------------------------------------------------------
 
-[Next: 12. Origin Of Strawberries](motc012)
+[Next: 12. Origin Of Strawberries](motc012.md)

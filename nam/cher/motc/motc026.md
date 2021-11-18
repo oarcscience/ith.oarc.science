@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc025) 
-[Next](motc027) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc025.md) 
+[Next](motc027.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ hereafter, and so he does to this day.
 
 ------------------------------------------------------------------------
 
-[Next: 27. Why The Deer's Teeth Are Blunt](motc027)
+[Next: 27. Why The Deer's Teeth Are Blunt](motc027.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai02)  [Next](jai04) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai02)  [Next](jai04.md) 
 
 ------------------------------------------------------------------------
 
@@ -379,4 +379,4 @@ and developed by religion.
 
 ------------------------------------------------------------------------
 
-[Next: The Ancient Cult](jai04)
+[Next: The Ancient Cult](jai04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi235)  [Next](mtsi237) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi235)  [Next](mtsi237.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ the Indian was very happy.
 
 ------------------------------------------------------------------------
 
-[Next: 37. The Story of Life-Eater](mtsi237)
+[Next: 37. The Story of Life-Eater](mtsi237.md)

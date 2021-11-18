@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks36)  [Next](lks38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks36)  [Next](lks38.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ stirreth thee up.
 
 ------------------------------------------------------------------------
 
-[Next: Ye Conjouratioun Of Ye Fyre](lks38)
+[Next: Ye Conjouratioun Of Ye Fyre](lks38.md)

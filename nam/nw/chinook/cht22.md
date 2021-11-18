@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht21)  [Next](cht23) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht21)  [Next](cht23.md) 
 
 ------------------------------------------------------------------------
 
@@ -275,4 +275,4 @@ out the blood from the one who is shot.
 
 ------------------------------------------------------------------------
 
-[Next: How Cultee's Grandfather Acquired a Guardian Spirit](cht23)
+[Next: How Cultee's Grandfather Acquired a Guardian Spirit](cht23.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca58)  [Next](fsca60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca58)  [Next](fsca60.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ id="img_22000"></span>
 
 |                                             |
 |---------------------------------------------|
-| ![Lamia. From old Bestiary.](img/22000.jpg) |
+| ![Lamia. From old Bestiary.](img/22000.jpg.md) |
 
 to be "the swiftest of all four-footed creatures, that it is very
 treacherous and cruel to men. It is stated to be bred in Lybia, and
@@ -56,4 +56,4 @@ heraldry.
 
 ------------------------------------------------------------------------
 
-[Next: Baphomet](fsca60)
+[Next: Baphomet](fsca60.md)

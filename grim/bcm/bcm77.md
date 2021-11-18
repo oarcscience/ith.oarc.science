@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm76)  [Next](bcm78) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm76)  [Next](bcm78.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ unto me Thine Angel ANAËL
 companions and Thy subjects, whom Thou hast made, O Thou Almighty
 
 <span id="img_31900"></span> [![](tn/generic.jpg)  
-Click to view](img/31900.jpg)
+Click to view](img/31900.jpg.md)
 
 \[paragraph continues\] *Lord, Who hast been, Who art, Who shall remain
 eternally, that in Thy Name they may judge and act justly, instructing
@@ -103,4 +103,4 @@ The perfume of *Anaël* is saffron.
 ------------------------------------------------------------------------
 
 [Next: Section 8: Concerning the Three Rings of Solomon, Son of
-David](bcm78)
+David](bcm78.md)

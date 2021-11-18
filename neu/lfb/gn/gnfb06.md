@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb05)  [Next](gnfb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb05)  [Next](gnfb07.md) 
 
 </div>
 
@@ -194,6 +194,6 @@ Deulin.
 
 ------------------------------------------------------------------------
 
-[Next: Rosanella](gnfb07)
+[Next: Rosanella](gnfb07.md)
 
 </div>

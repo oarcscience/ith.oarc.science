@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat13.htm#XCVII) 
-[Previous](satl096)  [Next](satl098) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat13.htm#XCVII.md) 
+[Previous](satl096)  [Next](satl098.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ habuit carissimum.
 
 ------------------------------------------------------------------------
 
-[Next: XCVIII](satl098)
+[Next: XCVIII](satl098.md)

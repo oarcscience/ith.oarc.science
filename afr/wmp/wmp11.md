@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](wmp10)  [Next](wmp12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](wmp10)  [Next](wmp12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Woman's Mysteries of a Primitive People*, by D. Amaury Talbot,
 \[1915\], at Intangible Textual Heritage
 
@@ -82,7 +82,7 @@ five.'"
 
 From this case, and the still more horrible penalty exacted, even to the
 present day, among the Okkobbor people as related in another
-place, <span id="fr_23"></span>[1](#fn_23) it would appear that the
+place, <span id="fr_23"></span>[1](#fn_23.md) it would appear that the
 regulation as to endogamy was enforced against women marrying out of
 their own town or clan; but no trace of any custom restricting men in
 like manner has come to our notice.
@@ -123,7 +123,7 @@ whether this had been brought about through infidelity on the part of
 one of his wives. When the answer was in the affirmative, the
 unfortunate woman charged with the crime was either entombed alive or
 impaled above the grave of her dead lord. <span
-id="fr_24"></span>[1](#fn_24)
+id="fr_24"></span>[1](#fn_24.md)
 
 \*    \*    \*    \*    \*
 
@@ -152,7 +152,7 @@ A man had two wives, the last married of whom showed signs that a babe
 was about to be born to her, before hope of such a thing was vouchsafed
 to the elder wife. One night, therefore, the latter took a small
 penknife, like the cruel mother in the old northern ballad, <span
-id="fr_25"></span>[1](#fn_25) and crept into the room where her happy
+id="fr_25"></span>[1](#fn_25.md) and crept into the room where her happy
 rival lay sleeping. So savagely did she slash at the victim of her spite
 that the unborn child was killed and the prospective mother died not
 long after. The murderess is reported to be still undergoing punishment.
@@ -314,21 +314,21 @@ lost affection of her fickle lord.
 
 ### Footnotes
 
-<span id="fn_23"></span>[130:1](wmp11.htm#fr_23) "By Haunted Waters." P.
+<span id="fn_23"></span>[130:1](wmp11.htm#fr_23.md) "By Haunted Waters." P.
 Amaury Talbot.
 
-<span id="fn_24"></span>[131:1](wmp11.htm#fr_24) Only a few years ago
+<span id="fn_24"></span>[131:1](wmp11.htm#fr_24.md) Only a few years ago
 one of the present Provincial Commissioners, Mr. R. A. Roberts, in
 passing through the Eket district, came across one of these sad
 sacrifices set up by the roadside.
 
-<span id="fn_25"></span>[132:1](wmp11.htm#fr_25) "Fine Flowers in the
+<span id="fn_25"></span>[132:1](wmp11.htm#fr_25.md) "Fine Flowers in the
 Valley."
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10: Love Philtres And Magic](wmp12)
+[Next: Chapter 10: Love Philtres And Magic](wmp12.md)
 
 </div>

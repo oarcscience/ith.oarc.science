@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](stc13)  [Next](stc15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](stc13)  [Next](stc15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Intangible Textual Heritage
 
 <span id="page_128">p. 128</span> <span id="page_129">p. 129</span>
 
-### IV. An Address to the River of Creation <span id="fr_178"></span>[1](#fn_178)
+### IV. An Address to the River of Creation <span id="fr_178"></span>[1](#fn_178.md)
 
 1\. O, thou River, who didst create all things,
 
@@ -41,7 +41,7 @@ art righteous!
 
 ### Footnotes
 
-<span id="fn_178"></span>[129:1](stc14.htm#fr_178) This mystical river
+<span id="fn_178"></span>[129:1](stc14.htm#fr_178.md) This mystical river
 of creation was evidently suggested by the Euphrates, on the waters of
 which the fertility of Babylonia so largely depended; for a comparison
 of similar conceptions of a river of creation both in Egyptian and in
@@ -50,4 +50,4 @@ of an incantation...
 
 ------------------------------------------------------------------------
 
-[Next: V. Another Version of the Creation of the World by Marduk](stc15)
+[Next: V. Another Version of the Creation of the World by Marduk](stc15.md)

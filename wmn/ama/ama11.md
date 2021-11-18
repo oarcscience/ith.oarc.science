@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](ama10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](ama10.md) 
 
 ------------------------------------------------------------------------
 
@@ -182,7 +182,7 @@ ceremony. So too with the Waiknas of the Mosquito coast, a retreat being
 allowed to emerge for a stated period--that accomplished, a public
 lustration of mother and infant takes place." Where moon-worship
 prevails, this custom is apt to be very much exaggerated, the
-[segregation](errata.htm#0) going
+[segregation](errata.htm#0.md) going
 
 <span id="page_183">p. 183</span>
 
@@ -433,7 +433,7 @@ eagles; the casting. of sacrifices into rivers that crop-fattening
 floods might follow, or into the sea to the end that fish might be
 plentiful and the elements kind; the spilling of human blood in temples;
 the anointing of living bodies or sticks or stones; and the mutilations
-and [renunciations](errata.htm#1) of various kinds and in differing
+and [renunciations](errata.htm#1.md) of various kinds and in differing
 degrees.
 
 The Hindu carries this theory of penance so far that the mere repetition
@@ -481,7 +481,7 @@ disappearance, to be followed by a reappearance of a small curved fillet
 
 [![ARMED WOMEN, WITH THE KING AT THEIR HEAD, GOING TO
 WAR.](tn/19300.jpg)  
-Click to enlarge](img/19300.jpg)  
+Click to enlarge](img/19300.jpg.md)  
 ARMED WOMEN, WITH THE KING AT THEIR HEAD, GOING TO WAR.  
 
  
@@ -916,7 +916,7 @@ Niam-Niams of to-day, who call their neighbours the
 <span id="page_208">p. 208</span>
 
 \[paragraph continues\] Akka Tikki-Tikki. <span
-id="fr_6"></span>[1](#fn_6) In the Amazon valley and the Andes such
+id="fr_6"></span>[1](#fn_6.md) In the Amazon valley and the Andes such
 duplication is common as regards topographical names--for instance, the
 Huar-huari and Pina-pina rivers, Lake Titikaka; the mountain Sara-sara;
 Chapi-chapi village; and there is also the Inje-inje tribe, who are
@@ -947,7 +947,7 @@ take into account the tendency,
 <span id="img_20800"></span>
 
 [![PUBLIC PROCESSION OF THE KING'S WOMEN, ETC.](tn/20800.jpg)  
-Click to enlarge](img/20800.jpg)  
+Click to enlarge](img/20800.jpg.md)  
 PUBLIC PROCESSION OF THE KING'S WOMEN, ETC.  
 
  
@@ -1093,7 +1093,7 @@ to hasten.
 
 ### Footnotes
 
-<span id="fn_6"></span>[208:1](ama11.htm#fr_6) According to Arab
+<span id="fn_6"></span>[208:1](ama11.htm#fr_6.md) According to Arab
 traditions, Gian ben Gian was the gigantic king of the jinns, founder of
 the pyramids, who, having rebelled against God, was defeated by Lucifer
 before his fall. The jinns then became mischievous spirits of the dark

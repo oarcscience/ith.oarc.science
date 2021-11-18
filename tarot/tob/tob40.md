@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob39) 
-[Next](tob41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob39.md) 
+[Next](tob41.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob39) 
 
 <span id="img_wiar22"></span>
 
-![THE WORLD.](img/wiar22.jpg)  
+![THE WORLD.](img/wiar22.jpg.md)  
 THE WORLD.
 
    <span id="img_msar22"></span>
 
-![THE WORLD.](img/msar22.jpg)  
+![THE WORLD.](img/msar22.jpg.md)  
 THE WORLD.
 
 22\. ת
@@ -138,4 +138,4 @@ etc., etc.
 
 ------------------------------------------------------------------------
 
-[Next: The Ternary of Transition](tob41)
+[Next: The Ternary of Transition](tob41.md)

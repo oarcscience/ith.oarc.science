@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft45.md) 
 
 ------------------------------------------------------------------------
 
@@ -724,7 +724,7 @@ on the \[opposite\] page will give all further details.
  
 
 <span id="img_e01"></span> [![](tn/e01.jpg)  
-Click to enlarge](img/e01.jpg)
+Click to enlarge](img/e01.jpg.md)
 
  
 
@@ -750,10 +750,10 @@ of this.
  
 
 <span id="img_e02"></span> [![](tn/e02.jpg)  
-Click to enlarge](img/e02.jpg)
+Click to enlarge](img/e02.jpg.md)
 
 <span id="img_e03"></span> [![](tn/e03.jpg)  
-Click to enlarge](img/e03.jpg)
+Click to enlarge](img/e03.jpg.md)
 
  
 

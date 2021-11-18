@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp32)  [Next](prp34) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp32)  [Next](prp34.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ sickle laid aside, shall become my mistress.
 ------------------------------------------------------------------------
 
 [Next: 34. At holy offering to the Lustful GodThief, for first thieving
-shalt be swived, but an](prp34)
+shalt be swived, but an](prp34.md)

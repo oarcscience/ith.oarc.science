@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes00)  [Next](tes02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes00)  [Next](tes02.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ belong to native languages, I have used, for the more or less
 Russianized words, the usual English alphabet; and for native words not
 Russianized, the special alphabet which I have used in the Publications
 of the Jesup North Pacific Expedition, vol. 7. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 Some of the tales are composed in part of rhymed prose. Some of these
 prose rhymes, though quite local and Dative as to contents, are arranged
@@ -53,9 +53,9 @@ WALDEMAR BOGORAS.
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](tes01.htm#fr_0) Bogoras, "The Chukchee,"
+<span id="fn_0"></span>[3:1](tes01.htm#fr_0.md) Bogoras, "The Chukchee,"
 10.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](tes02)
+[Next: Contents](tes02.md)

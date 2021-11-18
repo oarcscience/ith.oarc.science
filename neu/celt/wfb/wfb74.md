@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb73)  [Next](wfb75) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb73)  [Next](wfb75.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ where those who died in this great fight were buried.
 
 ------------------------------------------------------------------------
 
-[Next: The Parti-coloured Cow](wfb75)
+[Next: The Parti-coloured Cow](wfb75.md)

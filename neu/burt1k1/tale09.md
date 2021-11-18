@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale08)  [Next](tale10) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale08)  [Next](tale10.md) 
 
 ------------------------------------------------------------------------
 
@@ -303,4 +303,4 @@ thee his blood, and if not I will surely slay thy slave." So Ja'afar
 began in these words the
 
 (*Next*) [TALE OF NUR AL-DIN ALI AND HIS SON BADR AL-DIN
-HASAN](tale10)  
+HASAN](tale10.md)  

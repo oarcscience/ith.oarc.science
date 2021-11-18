@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico004) 
-[Next](nico006) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico004.md) 
+[Next](nico006.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ thrown away in support of them. Let us leave this subject, then.
 ------------------------------------------------------------------------
 
 [Next: Chapter 6. Discussion of the philosophical view that there is an
-Idea of good](nico006)
+Idea of good](nico006.md)

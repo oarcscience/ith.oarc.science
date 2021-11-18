@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe341)  [Next](prwe343) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe341)  [Next](prwe343.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ Cornish mermaids.
 
 ------------------------------------------------------------------------
 
-[Next: Rock Masses, Celtic](prwe343)
+[Next: Rock Masses, Celtic](prwe343.md)

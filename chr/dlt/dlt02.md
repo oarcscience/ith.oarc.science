@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dlt01)  [Next](dlt03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dlt01)  [Next](dlt03.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ HATCH END, *Advent* 1908.
 ------------------------------------------------------------------------
 
 [Next: Chapter 1. The Antecedents of the Gospel Teaching:
-Introductory](dlt03)
+Introductory](dlt03.md)

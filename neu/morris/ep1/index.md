@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [William Morris](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [William Morris](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543771660/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543771660/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,12 +27,12 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543771660/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ep100)
+[Contents](#contents)    [Start Reading](ep100.md)
 
 ------------------------------------------------------------------------
 
-**March-August** \|  [September-November](../ep2/index) \| 
-[December-February](../ep3/index)
+**March-August** \|  [September-November](../ep2/index.md) \| 
+[December-February](../ep3/index.md)
 
 ------------------------------------------------------------------------
 
@@ -62,54 +62,54 @@ separate volumes.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](ep100)  
-[A Table of Contents](ep101)  
-[An Apology](ep102)  
-[Prologue—The Wanderers](ep103)  
-[To The Reader](ep104)  
+<span id="contents"></span> [Title Page and Front Matter](ep100.md)  
+[A Table of Contents](ep101.md)  
+[An Apology](ep102.md)  
+[Prologue—The Wanderers](ep103.md)  
+[To The Reader](ep104.md)  
 <span id="section_000"></span>
 
 ### March
 
-[Introduction](ep105)  
-[Atalanta's Race](ep106)  
-[The Man Born to be King](ep107)  
+[Introduction](ep105.md)  
+[Atalanta's Race](ep106.md)  
+[The Man Born to be King](ep107.md)  
 <span id="section_001"></span>
 
 ### April
 
-[Introduction](ep108)  
-[The Doom of King Acrisius](ep109)  
-[The Proud King](ep110)  
+[Introduction](ep108.md)  
+[The Doom of King Acrisius](ep109.md)  
+[The Proud King](ep110.md)  
 <span id="section_002"></span>
 
 ### May
 
-[Introduction](ep111)  
-[The Story of Cupid and Psyche](ep112)  
-[The Writing on the Image](ep113)  
+[Introduction](ep111.md)  
+[The Story of Cupid and Psyche](ep112.md)  
+[The Writing on the Image](ep113.md)  
 <span id="section_003"></span>
 
 ### June
 
-[Introduction](ep114)  
-[The Love of Alcestis](ep115)  
-[The Lady of the Land](ep116)  
+[Introduction](ep114.md)  
+[The Love of Alcestis](ep115.md)  
+[The Lady of the Land](ep116.md)  
 <span id="section_004"></span>
 
 ### July
 
-[Introduction](ep117)  
-[The Son of Crœsus](ep118)  
-[The Watching of the Falcon](ep119)  
+[Introduction](ep117.md)  
+[The Son of Crœsus](ep118.md)  
+[The Watching of the Falcon](ep119.md)  
 <span id="section_005"></span>
 
 ### August
 
-[Introduction](ep120)  
-[Pygmalion and the Image](ep121)  
-[Ogier the Dane](ep122)  
+[Introduction](ep120.md)  
+[Pygmalion and the Image](ep121.md)  
+[Ogier the Dane](ep122.md)  
 
  
 
-[End Matter](ep123)  
+[End Matter](ep123.md)  

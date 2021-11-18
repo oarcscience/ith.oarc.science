@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](sot53)  [Next](sot55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](sot53)  [Next](sot55.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Songs of the Tewa*, by Herbert Joseph Spinden, \[1933\], at Intangible
 Textual Heritage
 
@@ -30,6 +30,6 @@ Those blue-bird skins stripped off.
 
 ------------------------------------------------------------------------
 
-[Next: L. Dead on the War Path](sot55)
+[Next: L. Dead on the War Path](sot55.md)
 
 </div>

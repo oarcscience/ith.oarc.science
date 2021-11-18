@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf04)  [Next](fmf06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf04)  [Next](fmf06.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ MORAL: Draw your Salary before Spending it.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Girl with a Handicap Who Had to Lock Up Her
-Parents](fmf06)
+Parents](fmf06.md)

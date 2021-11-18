@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps09)  [Next](rps11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps09)  [Next](rps11.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Pettersburgh, King of Kings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9. Perfect Baptism Under Water](rps11)
+[Next: Chapter 9. Perfect Baptism Under Water](rps11.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp14)  [Next](dtp16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp14)  [Next](dtp16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -326,7 +326,7 @@ his works of heaven. Yet shall a further day come some six thousand
 years hence when the men of Chaldea shall again try to prevail over my
 people, and again shall fail, even as now, but thou shalt long have been
 with thy fathers asleep from a second life, and safe in the Name <span
-id="fr_5"></span>[1](#fn_5) whereby I work, ere this second attempt.
+id="fr_5"></span>[1](#fn_5.md) whereby I work, ere this second attempt.
 Callest thou innocent, women who voluntarily came in all the insolence
 of supposed power and invincibility to murder my people? Innocent! they
 who came to see the rapine of my cities and to revel in the sufferings
@@ -456,7 +456,7 @@ merited rebuke, and one which, though its smart was keen, could not fail
 of a salutary effect. My reflections were interrupted at this point by
 Menax, saying:
 
-"Zailm, let us go into the Xanatithlon <span id="fr_6"></span>[1](#fn_6)
+"Zailm, let us go into the Xanatithlon <span id="fr_6"></span>[1](#fn_6.md)
 where all is quiet and beautiful among the flowers. We shall be alone
 there, thou and I. I would dismiss these people of my palace, but prefer
 not to disturb yon Saldee maiden.
@@ -465,10 +465,10 @@ not to disturb yon Saldee maiden.
 
 ### Footnotes
 
-<span id="fn_5"></span>[118:1](dtp15.htm#fr_5) Yeovah or Jehovah.--Ed.
+<span id="fn_5"></span>[118:1](dtp15.htm#fr_5.md) Yeovah or Jehovah.--Ed.
 
-<span id="fn_6"></span>[121:1](dtp15.htm#fr_6) Building for flowers.
+<span id="fn_6"></span>[121:1](dtp15.htm#fr_6.md) Building for flowers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: The Unexpected Happens](dtp16)
+[Next: Chapter XII: The Unexpected Happens](dtp16.md)

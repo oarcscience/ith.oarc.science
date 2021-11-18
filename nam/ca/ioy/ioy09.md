@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ioy08)  [Next](ioy10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ioy08)  [Next](ioy10.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 [![YOSEMITE BASKETRY.&lt;BR&gt; The Ellen Boysen collection of baskets
 and bead work.](tn/06600.jpg)  
-Click to enlarge](img/06600.jpg)  
+Click to enlarge](img/06600.jpg.md)  
 YOSEMITE BASKETRY.  
 The Ellen Boysen collection of baskets and bead work.  
 
@@ -54,7 +54,7 @@ for sale at any
 [![MRS. C. B. ATKINSON'S COLLECTION OF BASKETS.&lt;BR&gt; For the
 mythical origin of basket-making in the Yosemite see ''Legend of
 To-tau-kon-nu'-la and Tis-sa'-ack.''](tn/06800.jpg)  
-Click to enlarge](img/06800.jpg)  
+Click to enlarge](img/06800.jpg.md)  
 MRS. C. B. ATKINSON'S COLLECTION OF BASKETS.  
 For the mythical origin of basket-making in the Yosemite see ''Legend of
 To-tau-kon-nu'-la and Tis-sa'-ack.''  
@@ -95,7 +95,7 @@ industry of very modern origin. Some of them are employed
 
 [![INDIAN BEAD WORK.&lt;BR&gt; Mrs. George Fiske's collection of
 Yosemite and Pi-ute' bead work.](tn/07000.jpg)  
-Click to enlarge](img/07000.jpg)  
+Click to enlarge](img/07000.jpg.md)  
 INDIAN BEAD WORK.  
 Mrs. George Fiske's collection of Yosemite and Pi-ute' bead work.  
 
@@ -158,7 +158,7 @@ and easily bent. The best
 [![A BASKET MAKER.&lt;BR&gt; She is weaving a burden basket. The one to
 the left is for cooking, and a baby basket stands against the
 tent.](tn/07300.jpg)  
-Click to enlarge](img/07300.jpg)  
+Click to enlarge](img/07300.jpg.md)  
 A BASKET MAKER.  
 She is weaving a burden basket. The one to the left is for cooking, and
 a baby basket stands against the tent.  
@@ -212,4 +212,4 @@ were also made.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seven: Myths and Legends](ioy10)
+[Next: Chapter Seven: Myths and Legends](ioy10.md)

@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut12)  [Next](mdut14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut12)  [Next](mdut14.md) 
 
 ------------------------------------------------------------------------
 
 # 11. ROLLING SKULL.
 
-Curly-Headed-Man, <span id="fr_12"></span>[1](#fn_12) they say, was
+Curly-Headed-Man, <span id="fr_12"></span>[1](#fn_12.md) they say, was
 hunting deer, and camped for the night. He ate his supper, and, having
 finished his supper, sat there. Meanwhile a large white owl sang.
 
@@ -60,8 +60,8 @@ remained there long ago. (?) All, it is said.
 
 ### Footnotes
 
-<span id="fn_12"></span>[189:1](mdut13.htm#fr_12) Rolling-Head-Man
+<span id="fn_12"></span>[189:1](mdut13.htm#fr_12.md) Rolling-Head-Man
 
 ------------------------------------------------------------------------
 
-[Next: 12. Night-Hawk-Man](mdut14)
+[Next: 12. Night-Hawk-Man](mdut14.md)

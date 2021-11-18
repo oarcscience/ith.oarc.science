@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cota02)  [Next](cota04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cota02)  [Next](cota04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Consciousness of the Atom*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -457,4 +457,4 @@ evolution of substance, and the part it plays in the general scheme.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture II. The Evolution of Substance](cota04)
+[Next: Lecture II. The Evolution of Substance](cota04.md)

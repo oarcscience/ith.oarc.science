@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tbr01)  [Next](tbr03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tbr01)  [Next](tbr03.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ INDICES.</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Nature of the Tractate in General](tbr03)
+[Next: 1. The Nature of the Tractate in General](tbr03.md)

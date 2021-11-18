@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai28) 
-[Next](phai30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai28.md) 
+[Next](phai30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -45,7 +45,7 @@ and which carried forward its name. At first its seat was at Jamnia, but
 it soon removed to Galilee, and remained longest at Tiberias. The
 presidency was hereditary in the family of Hillel, with the last
 descendants of whom the court itself came to an end. <span
-id="fr_271"></span>[1](#fn_271) The respect in which the synedrial
+id="fr_271"></span>[1](#fn_271.md) The respect in which the synedrial
 president was held rapidly increased; like Christian patriarchs under
 Mahometan rule, he was also recognised by the imperial government as the
 municipal head of the Jews of Palestine, and bore the secular title of
@@ -106,7 +106,7 @@ following the destruction of Jerusalem. Towards the end of the 2nd
 century the Pharisaic doctrine of Hillel as it had been further matured
 by Akiba was codified and elevated to the position of statute law by the
 patriarch Rabban Judah the Holy (Mishna). <span
-id="fr_272"></span>[1](#fn_272) But this was only the
+id="fr_272"></span>[1](#fn_272.md) But this was only the
 
 <span id="page_541">p. 541</span>
 
@@ -129,7 +129,7 @@ the Roman Empire had changed for the worse with the elevation of
 Christianity to be the religion of the state; the large autonomy which
 until then they had enjoyed in Palestine was now restricted; above all,
 the family of the Patriarchs, which had come to form a veritable
-dynasty, became extinct. <span id="fr_273"></span>[1](#fn_273) But this
+dynasty, became extinct. <span id="fr_273"></span>[1](#fn_273.md) But this
 did not make an end of what may be called the Jewish church-state;
 henceforward it had its home in Babylonia. From the period of the exile,
 a numerous and coherent body of Jews had continued to subsist there; the
@@ -138,7 +138,7 @@ a native prince (Resh Galutha,—can be clearly traced from 2nd century
 A.D. onwards) who, when the Palestinian patriarchate came to an end, was
 left without a rival. This remarkable relic of a Jewish commonwealth
 continued to exist until the time of the Abassides. <span
-id="fr_274"></span>[2](#fn_274) Even as early as the beginning of the
+id="fr_274"></span>[2](#fn_274.md) Even as early as the beginning of the
 3rd century A.D. certain rabbins, at their head Abba Areka (Rab), had
 migrated from Palestine and founded a settlement for learning in the law
 in Babylonia. The schools there (at Pumbeditha,
@@ -159,7 +159,7 @@ Palestine continued to be the headquarters even after the 5th century.
 
 With this task—that of attaining to the greatest possible conformity to
 the letter and of continuing therein—the inner development of Jewish
-thought came to an end. <span id="fr_275"></span>[1](#fn_275) The later
+thought came to an end. <span id="fr_275"></span>[1](#fn_275.md) The later
 Hebrew literature, which does not fall to be considered here,
 contributed very few new elements; in so far as an intellectual life
 existed at all among the Jews of the Middle Ages, it was not a growth of
@@ -174,13 +174,13 @@ attractions for Christian scholars.
 
 ### Footnotes
 
-<span id="fn_271"></span>[539:1](phai29.htm#fr_271) The following is the
+<span id="fn_271"></span>[539:1](phai29.htm#fr_271.md) The following is the
 genealogy of the first Nasi:—Gamaliel ben Simeon (Josephus, Vita, 38)
 ben Gamaliel (Acts v. 34, xxii. 3) ben Simeon ben Hillel. The name
 Gamaliel was that which occurred most frequently among the patriarchs;
 see Codex Theod. xvi. 8, 22.
 
-<span id="fn_272"></span>[540:1](phai29.htm#fr_272) The Mishna succeeded
+<span id="fn_272"></span>[540:1](phai29.htm#fr_272.md) The Mishna succeeded
 almost, but not quite, in completely doing away with all conflicting
 tendencies. At first the heterodox tradition of that time was also
 committed <span id="page_541">p. 541</span> to writing (R. Ishmael ben
@@ -191,16 +191,16 @@ out even at a later period; under favouring circumstances it awoke to
 new life in Karaism, the founder of which, Anan ben David, lived in
 Babylonia in the middle of the 8th century.
 
-<span id="fn_273"></span>[541:1](phai29.htm#fr_273) Compare Gothofredus
+<span id="fn_273"></span>[541:1](phai29.htm#fr_273.md) Compare Gothofredus
 on *Cod. Theod.*, xvi. 8, 29, ad voc. "post excessum patriarcharum."
 
-<span id="fn_274"></span>[541:2](phai29.htm#fr_274) See Nöldeke,
+<span id="fn_274"></span>[541:2](phai29.htm#fr_274.md) See Nöldeke,
 *Tabari;* 68, 118, and Kremer, *Culturgeschichte des Orients unter den
 Chalifen*, i. 188, ii. 176.
 
-<span id="fn_275"></span>[542:1](phai29.htm#fr_275) Compare F. Weber,
+<span id="fn_275"></span>[542:1](phai29.htm#fr_275.md) Compare F. Weber,
 *System der altsynagogalen palästinischen Theologie*, Leipsic, 1880.
 
 ------------------------------------------------------------------------
 
-[Next: 16. The Jewish Dispersion.](phai30)
+[Next: 16. The Jewish Dispersion.](phai30.md)

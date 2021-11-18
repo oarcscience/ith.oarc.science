@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](wos11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](wos11.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ MERCY could be shown; and nothing less than the *sacrifice* of the
 Redeemer, AS WELL AS *his entire obedience* to the law, could fulfil the
 conditions of human redemption. Thus, and thus alone, Mercy and Truth
 would meet together; Righteousness and Peace would kiss each other <span
-id="fr_573"></span>[1](#fn_572)."
+id="fr_573"></span>[1](#fn_572.md)."
 
 But these conditions could not be fulfilled by a mere child of Adam,
 though "the seed of the woman" was ordained "to bruise the serpent's
@@ -115,7 +115,7 @@ FOR YOUR SOULS--FOR IT IS
 <span id="page_466">p. 466</span>
 
 THE BLOOD WHICH MAKETH AN ATONEMENT FOR THE SOUL <span
-id="fr_574"></span>[1](#fn_573)?" WHY, moreover, was that wonderful
+id="fr_574"></span>[1](#fn_573.md)?" WHY, moreover, was that wonderful
 superstition of SERPENT-WORSHIP so generally resorted to by all the
 world, if the evil spirit never triumphed in the serpent's form? And WHY
 were those fables so current in mythology, which represent THE SERPENT,
@@ -159,7 +159,7 @@ DESIRE OF ALL
 
 <span id="page_468">p. 468</span>
 
-\[paragraph continues\] NATIONS <span id="fr_575"></span>[1](#fn_574),"
+\[paragraph continues\] NATIONS <span id="fr_575"></span>[1](#fn_574.md),"
 "THE UNKNOWN GOD" of every worship, and THE TYPIFIED VICTIM of every
 altar,--we are not only justified in referring this coincidence of
 belief and practice, but *peremptorily called upon to refer it* to the
@@ -183,7 +183,7 @@ his wisdom, by his preaching, by his prophecies, and by his miracles, he
 evinced himself a prophet, *yea more than a prophet*:" while the
 consummating miracles of his resurrection from the grave, and ascension
 into glory, declared him to be "GOD BLESSED FOR EVER <span
-id="fr_576"></span>[1](#fn_575)."
+id="fr_576"></span>[1](#fn_575.md)."
 
 This was the true victim, THE SINLESS, THE SUFFICIENT SACRIFICE; by the
 shedding of whose blood the sin of Adam was atoned for, and Adam
@@ -212,8 +212,8 @@ required *the two natures to be united*. Without THE MAN *to suffer* God
 would not be satisfied: without THE GOD to *qualify*, THE MAN could not
 be perfect. In JESUS, therefore, we behold the MYSTERIOUS UNION of GOD
 and MAN. "*In him it pleased the Father that all fulness should
-dwell* <span id="fr_577"></span>[1](#fn_576);" and "IN HIM DWELT ALL THE
-FULNESS OF THE GODHEAD BODILY <span id="fr_578"></span>[2](#fn_577)."
+dwell* <span id="fr_577"></span>[1](#fn_576.md);" and "IN HIM DWELT ALL THE
+FULNESS OF THE GODHEAD BODILY <span id="fr_578"></span>[2](#fn_577.md)."
 
 3\. This was the Redeemer, and this the redemption, in anticipation of
 which, Adam repined not at the sentence which consigned him to toil and
@@ -243,7 +243,7 @@ when the voice of his
 <span id="page_472">p. 472</span>
 
 loved partner exclaimed with holy transport--"*I have gotten* THE MAN
-*from the Lord* <span id="fr_579"></span>[1](#fn_578)!" And though fond
+*from the Lord* <span id="fr_579"></span>[1](#fn_578.md)!" And though fond
 expectation might have given place to despair, when the "child of their
 many prayers" left them childless in the world, by the murder of his
 brother, and the banishment of himself--yet still did Adam hope against
@@ -269,7 +269,7 @@ child. "*God shall enlarge Japheth*," was his inspired promise to the
 son whom temporal prosperity would magnify: but HE SHALL DWELL IN THE
 TENTS OF SHEM," was the spiritual and eternal blessing. *In the family
 of Shem* was the Messiah born, and lived, and died. He "*dwelt*" *as in
-a tent* "*among them* <span id="fr_580"></span>[1](#fn_579)."
+a tent* "*among them* <span id="fr_580"></span>[1](#fn_579.md)."
 
 For ages after the deluge the tradition was handed down by each dying
 patriarch to that son who was destined to be the progenitor of "the hope
@@ -287,23 +287,23 @@ arising with healing on his wings," disclosed, through the dark clouds
 of advancing ages, LIFE, and IMMORTALITY, and JESUS CHRIST.
 
 Thus "ABRAHAM *rejoiced to see the day of Christ: he saw it, and was
-glad* <span id="fr_581"></span>[1](#fn_580)." Thus "ISAAC *blessed Jacob
-concerning things to come* <span id="fr_582"></span>[2](#fn_581)." Thus
+glad* <span id="fr_581"></span>[1](#fn_580.md)." Thus "ISAAC *blessed Jacob
+concerning things to come* <span id="fr_582"></span>[2](#fn_581.md)." Thus
 JACOB declared his hope and expectation--"*I have waited for thy
-salvation, O Lord* <span id="fr_583"></span>[3](#fn_582)!" Each in his
+salvation, O Lord* <span id="fr_583"></span>[3](#fn_582.md)!" Each in his
 own life-time looked anxiously for the redemption, which each on his
 death-bed "*saw, but not nigh*." In the prophetic spirit which
 afterwards inspired the unworthy Balaam, they perceived that "*a star
 would come out of Jacob, and a sceptre would arise out of Judah*;" but,
 like him, they were assured--"*I shall see Him; but not now; I shall
-behold Him, but not nigh* <span id="fr_584"></span>[4](#fn_583)."
+behold Him, but not nigh* <span id="fr_584"></span>[4](#fn_583.md)."
 "*These all died in faith, not having received the promises; but having
 seen them afar off, and being persuaded of them, and embracing them, and
 confessing that they were strangers, and pilgrims on the earth* <span
-id="fr_585"></span>[5](#fn_584)." "*They did all eat the same spiritual
+id="fr_585"></span>[5](#fn_584.md)." "*They did all eat the same spiritual
 meat; they did all drink the same spiritual drink; for they drank of the
 spiritual rock that followed them, and* THAT ROCK WAS CHRIST <span
-id="fr_586"></span>[6](#fn_585)."
+id="fr_586"></span>[6](#fn_585.md)."
 
 <span id="page_475">p. 475</span>
 
@@ -316,7 +316,7 @@ was A BURIAL PLACE: the only rest for their bodies was THE GRAVE; the
 only home of their souls was HEAVEN. "Wherefore God was not ashamed to
 be called their God; for he hath prepared for them a city "--"a city
 which hath foundations, whose builder and maker is God <span
-id="fr_587"></span>[1](#fn_586)."
+id="fr_587"></span>[1](#fn_586.md)."
 
 May all, who are partakers of the same abiding hope, partake with them
 in the fruition of the same unfading glory!
@@ -337,42 +337,42 @@ Sr. JOHN'S SQUARE.
 
 ### Footnotes
 
-<span id="fn_572"></span>[462:1](wos12.htm#fr_573) Psalm lxxxv. 10.
+<span id="fn_572"></span>[462:1](wos12.htm#fr_573.md) Psalm lxxxv. 10.
 
-<span id="fn_573"></span>[466:1](wos12.htm#fr_574) Levit. xvii. 11.
+<span id="fn_573"></span>[466:1](wos12.htm#fr_574.md) Levit. xvii. 11.
 
-<span id="fn_574"></span>[468:1](wos12.htm#fr_575) This expression is
+<span id="fn_574"></span>[468:1](wos12.htm#fr_575.md) This expression is
 first made use of in the Septuagint, Gen. xlix. 10; where the word
 "Shiloh" is most wonderfully paraphrased--προσδοκία Ἐθνῶν. So that by
 the confession of seventy-two elders chosen for their learning out of
 the twelve tribes of Israel, the Redeemer of man, was "The expectation
 of the Gentiles," *nearly three centuries before he was born*!
 
-<span id="fn_575"></span>[469:1](wos12.htm#fr_576) Rom. ix. 5.
+<span id="fn_575"></span>[469:1](wos12.htm#fr_576.md) Rom. ix. 5.
 
-<span id="fn_576"></span>[470:1](wos12.htm#fr_577) Col. i. 19.
+<span id="fn_576"></span>[470:1](wos12.htm#fr_577.md) Col. i. 19.
 
-<span id="fn_577"></span>[470:2](wos12.htm#fr_578) Col. ii. 9.
+<span id="fn_577"></span>[470:2](wos12.htm#fr_578.md) Col. ii. 9.
 
-<span id="fn_578"></span>[472:1](wos12.htm#fr_579) Gen. iv. 1. See
+<span id="fn_578"></span>[472:1](wos12.htm#fr_579.md) Gen. iv. 1. See
 Faber, Hor. Mos. ii. 55.
 
-<span id="fn_579"></span>[473:1](wos12.htm#fr_580) John i. 14---"dwelt
+<span id="fn_579"></span>[473:1](wos12.htm#fr_580.md) John i. 14---"dwelt
 among us"--literally, "lived as in a tent;" or, "pitched his
 tent."--ἐσκήνωσεν ἐν ἡμῖν.
 
-<span id="fn_580"></span>[474:1](wos12.htm#fr_581) John viii. 56.
+<span id="fn_580"></span>[474:1](wos12.htm#fr_581.md) John viii. 56.
 
-<span id="fn_581"></span>[474:2](wos12.htm#fr_582) Heb. xi. 20.
+<span id="fn_581"></span>[474:2](wos12.htm#fr_582.md) Heb. xi. 20.
 
-<span id="fn_582"></span>[474:3](wos12.htm#fr_583) Gen. xlix. 18.
+<span id="fn_582"></span>[474:3](wos12.htm#fr_583.md) Gen. xlix. 18.
 
-<span id="fn_583"></span>[474:4](wos12.htm#fr_584) Numb. xxiv. 17.
+<span id="fn_583"></span>[474:4](wos12.htm#fr_584.md) Numb. xxiv. 17.
 
-<span id="fn_584"></span>[474:5](wos12.htm#fr_585) Heb. xi. 13.
+<span id="fn_584"></span>[474:5](wos12.htm#fr_585.md) Heb. xi. 13.
 
-<span id="fn_585"></span>[474:6](wos12.htm#fr_586) 1 Cor. x. 3.
+<span id="fn_585"></span>[474:6](wos12.htm#fr_586.md) 1 Cor. x. 3.
 
-<span id="fn_586"></span>[475:1](wos12.htm#fr_587) Heb. xi. 16, and 10.
+<span id="fn_586"></span>[475:1](wos12.htm#fr_587.md) Heb. xi. 16, and 10.
 
  

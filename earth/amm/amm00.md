@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Next](amm01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Next](amm01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 <span id="img_front"></span>
 
 [![](tn/front.jpg)  
-Click to enlarge](img/front.jpg)
+Click to enlarge](img/front.jpg.md)
 
 # ARCHITECTURE
 
@@ -71,4 +71,4 @@ I sawgh a temple of glas ifounded stronge</em>.'—CHAUCER.</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Preface](amm01)
+[Next: Preface](amm01.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey14)  [Next](grey16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey14)  [Next](grey16.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ When Rongo-rongo heard what Uenuku was chanting, she went back to her
 house, and said to her husband: 'Turi, I have just heard them chanting
 this poem in Wharekura.' And Turi answered: 'What poem do you say, it
 was? Then she hummed it gently over to her husband, and Turi at once
-divined the meaning of it, <span id="fr_19"></span>[1](#fn_19) and
+divined the meaning of it, <span id="fr_19"></span>[1](#fn_19.md) and
 
 <span id="page_152">p. 152</span>
 
@@ -173,7 +173,7 @@ Kupe, and that he would destroy it; so it reared its whole body out of
 the water, to press down the huge calabash under it, and Kupe, as he
 stood in his canoe, being in a most excellent position to cut it with
 his axe, seized the opportunity, and, striking it a tremendous blow, he
-severed it in two, and killed it. <span id="fr_20"></span>[1](#fn_20)
+severed it in two, and killed it. <span id="fr_20"></span>[1](#fn_20.md)
 
 The labours of Kupe consisted in this, that he discovered these islands,
 and examined the different openings which he found running up into the
@@ -209,7 +209,7 @@ out; now do not mistake the voice of one of them for that of a man, for
 it calls out just like one; and if you stand on one side of the river,
 and call out to them, you will hear their cries answering you from the
 other. That will be the very spot that I mentioned to you.' <span
-id="fr_21"></span>[1](#fn_21)
+id="fr_21"></span>[1](#fn_21.md)
 
 <span id="page_156">p. 156</span>
 
@@ -282,7 +282,7 @@ the seams of the canoe, and re-lashed the top sides on to it, and
 thoroughly refitted it.
 
 Amongst the chiefs who landed there with them was one named
-[Potoru](errata.htm#0), whose canoe was called Te Ririno. They were
+[Potoru](errata.htm#0.md), whose canoe was called Te Ririno. They were
 carrying some dogs with them, as these would be very valuable in the
 islands they were going to, for supplying by their increase a good
 article of food, and skins for warm cloaks; on this island, they,
@@ -434,7 +434,7 @@ sprang the tribes of Whanganui and the Ngati-Ruanui tribe.
 
 ### Footnotes
 
-<span id="fn_19"></span>[151:1](grey15.htm#fr_19) The discovery of a
+<span id="fn_19"></span>[151:1](grey15.htm#fr_19.md) The discovery of a
 plot by guessing the meaning of a song which persons were overhead
 singing was a common circumstance with all the races and throughout all
 the islands of the Pacific; for instance, in Pitcairn's Island, when
@@ -451,15 +451,15 @@ men were assembled; he pointed his gun at them, but it missed fire. Two
 of the natives ran away into the bush.'--*Pitcairn's island and the
 Islander*.
 
-<span id="fn_20"></span>[154:1](grey15.htm#fr_20) They show several
+<span id="fn_20"></span>[154:1](grey15.htm#fr_20.md) They show several
 spots upon the east coast where Kupe touched with his canoes; but I have
 not yet had time to arrange and transcribe the various traditions
 connected with his landing at those places.--G. G.
 
-<span id="fn_21"></span>[155:1](grey15.htm#fr_21) It will be seen that
+<span id="fn_21"></span>[155:1](grey15.htm#fr_21.md) It will be seen that
 they did not follow Kupe's directions, thinking that he was deceiving
 them, he being probably friendly to Uenuku.
 
 ------------------------------------------------------------------------
 
-[Next: Legend of the Emigration of Manaia](grey16)
+[Next: Legend of the Emigration of Manaia](grey16.md)

@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Masonry](../index) 
-[Index](index)  [Previous](mom02)  [Next](mom04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Masonry](../index.md) 
+[Index](index)  [Previous](mom02)  [Next](mom04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0517331942/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0517331942/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH2O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH2O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Meaning of Masonry*, by W.L. Wilmshurst, \[1922\], at Intangible
 Textual Heritage
 
@@ -520,7 +520,7 @@ a fellow-worker in the Craft:--
  Cleanse, therefore, that which round about us clings;  
  We pray Thee, Master, ere Thy sacred halls  
  We enter. Strip us of redundant things,  
- And meetly clothe us in pontificals. <span id="fr_0"></span>[\*](#fn_0)
+ And meetly clothe us in pontificals. <span id="fr_0"></span>[\*](#fn_0.md)
 
 </div>
 
@@ -1006,9 +1006,9 @@ mysteries, I commend you all.
 
 ### Footnotes
 
-<span id="fn_0"></span>[36:\*](mom03.htm#fr_0) *Strange Houses of Sleep*
+<span id="fn_0"></span>[36:\*](mom03.htm#fr_0.md) *Strange Houses of Sleep*
 by A. E. Waite.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Masonry as a Philosophy](mom04)
+[Next: Chapter II. Masonry as a Philosophy](mom04.md)

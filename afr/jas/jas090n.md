@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas089n)  [Next](jas091n)   
- \[[90. Bird Arinto.](jas090)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas089n)  [Next](jas091n.md)   
+ \[[90. Bird Arinto.](jas090.md)\]
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ compare Zeltner, 5.
 
 ------------------------------------------------------------------------
 
-[Next: Note 91. Tiger softens his Voice.](jas091n)
+[Next: Note 91. Tiger softens his Voice.](jas091n.md)

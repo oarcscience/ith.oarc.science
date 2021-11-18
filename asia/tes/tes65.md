@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes64)  [Next](tes66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes64)  [Next](tes66.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ village of Pokhotsk, the Kolyma country, summer of 1895.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Lamut Tale](tes66)
+[Next: 1. Lamut Tale](tes66.md)

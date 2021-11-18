@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar052) [Next](gbar054)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar052) [Next](gbar054.md)
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ affrighted in that day.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar054)
+[Next](gbar054.md)

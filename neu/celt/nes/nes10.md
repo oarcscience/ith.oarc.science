@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes09)  [Next](nes11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes09)  [Next](nes11.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 O dream of a white horse fortells the coming of a letter.
 
@@ -37,7 +37,7 @@ a distressing kind.
 To dream of water means coming disease.
 
 To dream of losing a tooth forewarns of the loss of a friend. <span
-id="fr_22"></span>[1](#fn_22)
+id="fr_22"></span>[1](#fn_22.md)
 
 To dream of being bitten by dogs or cats is interpreted as the plotting
 of enemies.
@@ -68,7 +68,7 @@ half-year. They were to go in the direction in which the head of the
 staff lay when it fell.
 
 It is accounted unlucky to turn back to the house when you set out on
-any business. <span id="fr_23"></span>[1](#fn_23)
+any business. <span id="fr_23"></span>[1](#fn_23.md)
 
 When one is on a visit, if, on leaving, anything is forgotten, the
 saying is that the guest will soon return.
@@ -122,11 +122,11 @@ the dung-pit.
 
 In dressing, the right stocking must be put on first, as well as the
 right shoe. Many clung most scrupulously to this habit. <span
-id="fr_24"></span>[1](#fn_24)
+id="fr_24"></span>[1](#fn_24.md)
 
 When one put on a piece of new dress, a coin of the realm, called
 "hansel," had to be put into one of the pockets. <span
-id="fr_25"></span>[2](#fn_25) When one put on a piece of new dress, a
+id="fr_25"></span>[2](#fn_25.md) When one put on a piece of new dress, a
 kiss was given to and taken from the wearer, and was called the
 "beverage o’ the new claes." When a boy or a girl wearing a piece of new
 dress entered a neighbour's house something was given as "hansel."
@@ -135,16 +135,16 @@ If a button was sewed on to a piece of dress, or a single stitch put
 into it, on Sunday, the devil undid the work at night.
 
 It was accounted lucky to keep a crooked sixpence in the purse or
-pocket. <span id="fr_26"></span>[3](#fn_26)
+pocket. <span id="fr_26"></span>[3](#fn_26.md)
 
 It was unlucky to make a present of a knife or a pair of scissors, or
 any sharp or sharp-pointed instrument. It cut asunder friendship and
-love. <span id="fr_27"></span>[4](#fn_27)
+love. <span id="fr_27"></span>[4](#fn_27.md)
 
 It was accounted unlucky to sing before breakfast. Hence the saying:--
 
 "Sing afore breakfast,  
-Greet aifter ’t."  <span id="fr_28"></span>[5](#fn_28)
+Greet aifter ’t."  <span id="fr_28"></span>[5](#fn_28.md)
 
 A tea-stalk floating in the cup indicated a stranger. It was taken from
 the cup and tested with the teeth whether soft or
@@ -209,23 +209,23 @@ nae stoun faangs i’ the hoose," said the man.
 
 ### Footnotes
 
-<span id="fn_22"></span>[29:1](nes10.htm#fr_22) Cf. Henderson, p. 111.
+<span id="fn_22"></span>[29:1](nes10.htm#fr_22.md) Cf. Henderson, p. 111.
 
-<span id="fn_23"></span>[30:1](nes10.htm#fr_23) Cf. Henderson, p. 117.
+<span id="fn_23"></span>[30:1](nes10.htm#fr_23.md) Cf. Henderson, p. 117.
 
-<span id="fn_24"></span>[31:1](nes10.htm#fr_24) Cf. *F. L. Record*, vol.
+<span id="fn_24"></span>[31:1](nes10.htm#fr_24.md) Cf. *F. L. Record*, vol.
 i. p. 12 (48).
 
-<span id="fn_25"></span>[31:2](nes10.htm#fr_25) Cf. Henderson, p. 119.
+<span id="fn_25"></span>[31:2](nes10.htm#fr_25.md) Cf. Henderson, p. 119.
 
-<span id="fn_26"></span>[31:3](nes10.htm#fr_26) Cf. Henderson, p. 112.
+<span id="fn_26"></span>[31:3](nes10.htm#fr_26.md) Cf. Henderson, p. 112.
 
-<span id="fn_27"></span>[31:4](nes10.htm#fr_27) Cf. Henderson, pp. 117,
+<span id="fn_27"></span>[31:4](nes10.htm#fr_27.md) Cf. Henderson, pp. 117,
 118, and *F. L. Record*, vol. i. p. 12 (43).
 
-<span id="fn_28"></span>[31:5](nes10.htm#fr_28) Cf. Henderson, p. 113,
+<span id="fn_28"></span>[31:5](nes10.htm#fr_28.md) Cf. Henderson, p. 113,
 and *F. L. Record*, vol. i. p. 11 (34).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Leechcraft](nes11)
+[Next: Chapter VIII. Leechcraft](nes11.md)

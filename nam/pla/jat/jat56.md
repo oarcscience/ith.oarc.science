@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat55)  [Next](jat57) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat55)  [Next](jat57.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,13 +71,13 @@ received a present and peace was established. "Are these all there are
 left of you?" asked one of the Americans. "Yes, only so many," replied
 an Apache. "You were nearly exterminated," said the American. "Do not
 become enemies again. Many old men, children, and women, have died," he
-said. <span id="fr_68"></span>[1](#fn_68)
+said. <span id="fr_68"></span>[1](#fn_68.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_68"></span>[243:1](jat56.htm#fr_68) Casa Maria said that
+<span id="fn_68"></span>[243:1](jat56.htm#fr_68.md) Casa Maria said that
 when this happened he was about as old as his youngest deaf mute son,
 about twelve or fourteen. He said the American general's name was Gidi
 who afterward died at Taos. He agreed that this was probably the man
@@ -93,4 +93,4 @@ Kit Carson," Peters, pp. 414-526.
 
 ------------------------------------------------------------------------
 
-[Next: 55. The Horses of the Apache Are Stolen by the Navajo](jat57)
+[Next: 55. The Horses of the Apache Are Stolen by the Navajo](jat57.md)

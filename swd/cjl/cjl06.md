@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](cjl05)  [Next](cjl07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](cjl05)  [Next](cjl07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402180012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402180012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1774,4 +1774,4 @@ confirmations and testifications of consent to the nuptial tie.
 
 ------------------------------------------------------------------------
 
-[Next: 301-350](cjl07)
+[Next: 301-350](cjl07.md)

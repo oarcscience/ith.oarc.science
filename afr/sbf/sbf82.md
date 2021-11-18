@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf81)  [Next](sbf83) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf81)  [Next](sbf83.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -41,6 +41,6 @@ resembles the *\|kui* fruit, is red, is small, and abundant.\]</span>
 
 ------------------------------------------------------------------------
 
-[Next: 3. \|Xue As A \|\|Gui Tree And As A Fly.](sbf83)
+[Next: 3. \|Xue As A \|\|Gui Tree And As A Fly.](sbf83.md)
 
 </div>

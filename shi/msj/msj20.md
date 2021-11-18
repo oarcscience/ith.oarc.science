@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](msj19) 
-[Next](msj21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](msj19.md) 
+[Next](msj21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master-Singers of Japan*, by Clara A. Walsh, \[1914\], at
 Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ Le! in the East I watch with reverent eyes,
 Through purple mist, the full-orbed moon arise! <span id="page_102">p.
 102</span>  
 How can I help it! Though my face I turn  
-From the blest Regions <span id="fr_6"></span>[\*](#fn_6) to the Eastern
+From the blest Regions <span id="fr_6"></span>[\*](#fn_6.md) to the Eastern
 skies.
 
 ### THE MOON AND THE RIVER
@@ -130,13 +130,13 @@ That brings a sweet siesta on the morrow!
 
 ### Footnotes
 
-<span id="fn_6"></span>[102:\*](msj20.htm#fr_6) The West Region of the
+<span id="fn_6"></span>[102:\*](msj20.htm#fr_6.md) The West Region of the
 Buddhist Paradise.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XX.](msj21)
+[Next: XX.](msj21.md)
 
 </div>

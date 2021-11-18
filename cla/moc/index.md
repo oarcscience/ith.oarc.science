@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](moc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](moc.txt.gz)
+[Contents](#contents)    [Start Reading](moc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](moc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -76,15 +76,15 @@ statements about their mythology or spiritual practices is inferential
 at best.
 
 One factual correction must be noted. The story of Schliemann's Atlantis
-bequest, reported in [Chapter V, page 98](moc10.htm#page_98), turned out
+bequest, reported in [Chapter V, page 98](moc10.htm#page_98.md), turned out
 to be a complete hoax. This yarn appeared in a sensationalist Hearst
 newspaper in 1914, and as this book was written only a few years later,
 we can probably forgive Mackenzie for reporting it as fact. The entire
-article, *[How I found the Lost Atlantis](../../atl/hif/index)*, along
+article, *[How I found the Lost Atlantis](../../atl/hif/index.md)*, along
 with our analysis of it, is also at Intangible Textual Heritage.
 
 Nevertheless, Mackenzie, who also wrote [Myths and Legends of Ancient
-Egypt](../../egy/eml/index), manages to stretch the subject matter out
+Egypt](../../egy/eml/index.md), manages to stretch the subject matter out
 into a full 300 page book. Informative, well researched and very
 readable, Myths of Crete is a unique book about a very opaque period of
 history.
@@ -93,25 +93,25 @@ history.
 
 ------------------------------------------------------------------------
 
-[Title Page](moc00)  
-[Preface](moc01)  
-[Contents](moc02)  
-[Plates in Colour](moc03)  
-[Plates in Monochrome](moc04)  
-[Introduction](moc05)  
+[Title Page](moc00.md)  
+[Preface](moc01.md)  
+[Contents](moc02.md)  
+[Plates in Colour](moc03.md)  
+[Plates in Monochrome](moc04.md)  
+[Introduction](moc05.md)  
 [Chapter I. Primitive Europeans of the Glacial and Inter-glacial
-Periods](moc06)  
-[Chapter II. Palæolithic Magic and Religion](moc07)  
-[Chapter III. Ancient Peoples of the Goddess Cult](moc08)  
+Periods](moc06.md)  
+[Chapter II. Palæolithic Magic and Religion](moc07.md)  
+[Chapter III. Ancient Peoples of the Goddess Cult](moc08.md)  
 [Chapter IV. History in Myth and Legend--Schliemann's
-Discoveries](moc09)  
-[Chapter V. Crete as the Lost Atlantis](moc10)  
-[Chapter VI. The Great Palace of Knossos](moc11)  
-[Chapter VII. Races and Myths of Neolithic Crete](moc12)  
-[Chapter VII. Pre-Hellenic Earth and Corn Mothers](moc13)  
-[Chapter IX. Growth of Cretan Culture and Commerce](moc14)  
-[Chapter X. Trading Relations with Troy](moc15)  
-[Chapter XI. Life in the Little Towns](moc16)  
-[Chapter XII. The Palace of Phæstos](moc17)  
-[Chapter XIII. Cave Deities and their Symbols](moc18)  
-[Chapter XIV. Decline of Crete and Rise of Greece](moc19)  
+Discoveries](moc09.md)  
+[Chapter V. Crete as the Lost Atlantis](moc10.md)  
+[Chapter VI. The Great Palace of Knossos](moc11.md)  
+[Chapter VII. Races and Myths of Neolithic Crete](moc12.md)  
+[Chapter VII. Pre-Hellenic Earth and Corn Mothers](moc13.md)  
+[Chapter IX. Growth of Cretan Culture and Commerce](moc14.md)  
+[Chapter X. Trading Relations with Troy](moc15.md)  
+[Chapter XI. Life in the Little Towns](moc16.md)  
+[Chapter XII. The Palace of Phæstos](moc17.md)  
+[Chapter XIII. Cave Deities and their Symbols](moc18.md)  
+[Chapter XIV. Decline of Crete and Rise of Greece](moc19.md)  

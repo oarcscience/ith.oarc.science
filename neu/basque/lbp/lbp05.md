@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp04)  [Next](lbp06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp04)  [Next](lbp06.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Legends](../../index)  [Basque](../index)  [Index](index) 
 
 <span id="img_05200"></span> ![](img/05200.jpg)
 
-# ARGUIDUNA. <span id="fr_2"></span>[1](#fn_2)
+# ARGUIDUNA. <span id="fr_2"></span>[1](#fn_2.md)
 
 ### I.
 
@@ -71,7 +71,7 @@ morning from the cows of my farm."
 
 <span id="page_54">p. 54</span>
 
-Juan [ate](errata.htm#0) the half of the bread and drank the frothy
+Juan [ate](errata.htm#0.md) the half of the bread and drank the frothy
 milk.
 
 "Now here is my hand," he said, as he stretched out his arm, "in proof
@@ -265,7 +265,7 @@ the rivers.
 
 Gabriela listened attentively to all these noises and confused rumours,
 that are no more than the breathing of sleepy nature. But amid all these
-noises the "lecayo" <span id="fr_3"></span>[1](#fn_3) of Antonio de
+noises the "lecayo" <span id="fr_3"></span>[1](#fn_3.md) of Antonio de
 Azcue, the best beloved of her heart, does not reach her ear. One hour
 passed away, and then another; the hermitage of Saint Barbara erected on
 a height like a stork's nest, begins to lose its vague outline, and
@@ -825,7 +825,7 @@ Antonio, casting around a luminous resplendency.
 A noise and rumble similar to that which nature will utter at the moment
 of its complete destruction shook the neighbouring mountains to their
 very foundations. The Oria stopped its course; the bell-tower shook
-[and](errata.htm#1) broke out in dismal tolling; the waves of the
+[and](errata.htm#1.md) broke out in dismal tolling; the waves of the
 Cantabrian Sea stayed its rapid threatening march. Antonio looked
 towards the open space. The three heads had disappeared. The "Arguiduna"
 was moving gracefully, and displayed its relief and joy by shedding
@@ -862,12 +862,12 @@ shall teach our children to love you also most lovingly, even as we do."
 
 ### Footnotes
 
-<span id="fn_2"></span>[52:1](lbp05.htm#fr_2) Fatuous fire, or
+<span id="fn_2"></span>[52:1](lbp05.htm#fr_2.md) Fatuous fire, or
 *Will-o'-the-Wisp*."
 
-<span id="fn_3"></span>[60:1](lbp05.htm#fr_3) Lecayo--a cry of joy which
+<span id="fn_3"></span>[60:1](lbp05.htm#fr_3.md) Lecayo--a cry of joy which
 is used as a signal.
 
 ------------------------------------------------------------------------
 
-[Next: Maitagarri](lbp06)
+[Next: Maitagarri](lbp06.md)

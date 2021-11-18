@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg04)   
-[Previous](bgs03)  [Next](bgs05) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg04.md)   
+[Previous](bgs03)  [Next](bgs05.md) 
 
 ------------------------------------------------------------------------
 
@@ -160,4 +160,4 @@ chittvainaṃ saṃśayaṃ yogam ātiṣṭhottiṣṭha bhārata
 
 ------------------------------------------------------------------------
 
-[Next: V. atha pañcamodhyāyaḥ. (saṃnyāsayogaḥ)](bgs05)
+[Next: V. atha pañcamodhyāyaḥ. (saṃnyāsayogaḥ)](bgs05.md)

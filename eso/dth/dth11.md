@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth10) 
-[Next](dth12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth10.md) 
+[Next](dth12.md) 
 
 ------------------------------------------------------------------------
 
@@ -253,7 +253,7 @@ health or success in life for the one who hates. He who hates emits a
 force which rebounds back upon himself. Hate injures the one who hates
 far more than the one hated. Hate poisons the blood of the one who hates
 and tears down his nervous system. Hate is negative and destructive,
-love is positive and upbuilding. Hate affects [adversely](errata.htm#20)
+love is positive and upbuilding. Hate affects [adversely](errata.htm#20.md)
 all the vital processes. It destroys health, wrecks happiness and turns
 the life into an inferno of trouble. Have you ever noticed the lives of
 those who indulge in hate? They are a continual round of trouble. Before
@@ -413,7 +413,7 @@ Good.
 
 <span id="page_236">p. 236</span>
 
-### [APPENDIX](errata.htm#21)
+### [APPENDIX](errata.htm#21.md)
 
 Continue to develop subliminal thinking. Take all your difficulties and
 perplexities into the Silence and let your great inner mind, drawing
@@ -423,4 +423,4 @@ in your Subliminal Mind because there alone can they be found.
 
 ------------------------------------------------------------------------
 
-[Next: Part XI](dth12)
+[Next: Part XI](dth12.md)

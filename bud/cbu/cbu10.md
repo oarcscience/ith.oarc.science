@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu09)  [Next](cbu11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu09)  [Next](cbu11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -88,7 +88,7 @@ A patriarch has magical powers. He can fly through
 <span id="page_62">p. 62</span>
 
 the air, cross rivers on a boat of leaves, rain milk <span
-id="fr_33"></span>[1](#fn_33) at will from the air, and enter into a
+id="fr_33"></span>[1](#fn_33.md) at will from the air, and enter into a
 very great variety of trances or *samadhi*.
 
 A patriarch has the keenest intellectual perception. He can dive into
@@ -237,7 +237,7 @@ treatment of the Shami."
 The third patriarch was Shangnavasu of Rajagriha. In a former life he
 had been a merchant. On the road, as he travelled, he had met a Pratyeka
 Buddha, very sick, and poorly clad. He gave him medicine, and clothing
-of a beautiful grass-cloth. <span id="fr_34"></span>[1](#fn_34)
+of a beautiful grass-cloth. <span id="fr_34"></span>[1](#fn_34.md)
 
 This is what, by Buddhists, is called sowing the "field of happiness"
 (*fu-t‘ien*). Other ways of acting so as to reap happiness are improving
@@ -423,7 +423,7 @@ were sad.
 
 Michaka was the sixth patriarch. When he met first with Drikata, he said
 to him, "I was formerly born with you in the heaven of Brahma. I met
-with Asita, <span id="fr_35"></span>[1](#fn_35) who taught me the
+with Asita, <span id="fr_35"></span>[1](#fn_35.md) who taught me the
 doctrine of the Rishis. You met with good and wise teachers who
 instructed you in the principles of Buddhism. So your path differed from
 mine for a period of six kalpas. The record of the Rishis said, 'After
@@ -534,7 +534,7 @@ and can live without feeling hungry or cold. It is from *grantha*,
 "tie." Buddhamitra went to him and received information in regard to his
 calculations. The Nirgrantha spared no abuse in speaking of Buddha. The
 Buddhist then said, "You are now working <span
-id="fr_36"></span>[1](#fn_36) out punishment to yourself, and will fall
+id="fr_36"></span>[1](#fn_36.md) out punishment to yourself, and will fall
 into hell. If you do not believe what I say, try your calculations, and
 you will find whether it is so or not." The heretic calculated, and
 found that it was so. He then said to the Buddhist teacher, "How can I
@@ -876,7 +876,7 @@ three classes of the community of that day. They did not know.
 
 Manura was then asked; who said it was a pagoda erected by king Ashôka,
 and which had now come to light through the good fortune of the
-king. <span id="fr_37"></span>[1](#fn_37) The king was much impressed
+king. <span id="fr_37"></span>[1](#fn_37.md) The king was much impressed
 with Manura's teaching, and became a disciple. He gave over his royal
 authority to his son, and himself took vows as a monk. In seven days he
 advanced to the fourth grade of the understanding of Buddhist doctrine.
@@ -1019,30 +1019,30 @@ China. This is a statement drawn from Indian sources.
 
 ### Footnotes
 
-<span id="fn_33"></span>[62:1](cbu10.htm#fr_33) This is stated in the
+<span id="fn_33"></span>[62:1](cbu10.htm#fr_33.md) This is stated in the
 life of Shangnavasu, the third patriarch. The word used is *hiang-ju*,
 "fragrant milk." This is the name of a milky plant, *Eschscholtzia
 cristata*, allied to the vervain.—*Williams*.
 
-<span id="fn_34"></span>[66:1](cbu10.htm#fr_34) This cloth was brought
+<span id="fn_34"></span>[66:1](cbu10.htm#fr_34.md) This cloth was brought
 to China from Thibet and other western countries in the T‘ang dynasty.
 It was white, fine, thick, and strong. The plant of which it was made
 had nine stalks. When an Arhan is born this plant is found growing in
 some clean spot.
 
-<span id="fn_35"></span>[71:1](cbu10.htm#fr_35) A Rishi who was able to
+<span id="fn_35"></span>[71:1](cbu10.htm#fr_35.md) A Rishi who was able to
 detect the marks of Buddha on a child. Shakyamuni was his slave in a
 former birth.—*Eitel*.
 
-<span id="fn_36"></span>[74:1](cbu10.htm#fr_36) *Tsau-tsui*, "creating
+<span id="fn_36"></span>[74:1](cbu10.htm#fr_36.md) *Tsau-tsui*, "creating
 sin," *i.e.*, the punishment of sin. Sin and its punishment are confused
 and loosely identified.
 
-<span id="fn_37"></span>[83:1](cbu10.htm#fr_37) "Good fortune," *fu-li*,
+<span id="fn_37"></span>[83:1](cbu10.htm#fr_37.md) "Good fortune," *fu-li*,
 "power of the king's merit." *Fu*, "happiness," is in a Buddhist sense
 "merit." By the law of hidden causation, good fortune is always deserved
 by some good action done, either in the present or in some former life.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Sketch of the History of Buddhism in China](cbu11)
+[Next: Chapter VI. Sketch of the History of Buddhism in China](cbu11.md)

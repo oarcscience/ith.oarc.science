@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](lmf19)  [Next](lmf21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](lmf19)  [Next](lmf21.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Letters of Myrtle Fillmore.*, by Myrtle Fillmore, \[1936\], at
 Intangible Textual Heritage
 
@@ -161,4 +161,4 @@ perfectly interpret His plan in us.
 
 ------------------------------------------------------------------------
 
-[Next: Our Methods](lmf21)
+[Next: Our Methods](lmf21.md)

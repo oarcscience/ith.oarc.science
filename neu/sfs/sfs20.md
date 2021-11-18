@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs19)  [Next](sfs21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs19)  [Next](sfs21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ conversation. They told each other all the news, till they also began to
 talk about right and wrong. The stranger asserted that the greatest
 wrong could be made right for money. But the huntsman opined that right
 always remained right, and offered to bet three hundred dollars upon it,
-if the stranger would do the same. <span id="fr_4"></span>[\*](#fn_4)
+if the stranger would do the same. <span id="fr_4"></span>[\*](#fn_4.md)
 The stranger was content therewith, and they agreed to ask three
 advocates the question at once. They went to the first advocate, and he
 said that it was possible to make wrong right for money. They then went
@@ -166,10 +166,10 @@ that in his realm right will always remain right.
 
 ### Footnotes
 
-<span id="fn_4"></span>[93:\*](sfs20.htm#fr_4) This surely ought, from
+<span id="fn_4"></span>[93:\*](sfs20.htm#fr_4.md) This surely ought, from
 what transpires later in the story, to have run thus: 'To stake his life
 against three hundred dollars to he staked by the stranger.'
 
 ------------------------------------------------------------------------
 
-[Next: XV. Little Red Hood](sfs21)
+[Next: XV. Little Red Hood](sfs21.md)

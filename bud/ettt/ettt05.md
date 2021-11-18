@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt04)  [Next](ettt06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt04)  [Next](ettt06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 
 ### THE INITIATION RITUAL OF HAYAGRIVA BUDDHA
 
-### THE GREEN RTA-MGRIN'S[1](ettt05.htm#an_n_4:1)<span id="an_r_4:1"></span> INITIATION
+### THE GREEN RTA-MGRIN'S[1](ettt05.htm#an_n_4:1.md)<span id="an_r_4:1"></span> INITIATION
 
 ### CEREMONY FROM THE TREASURY
 
@@ -37,15 +37,15 @@ Obeisance to all Gurus!
 In obedience to the order of the guardians of Dharma,
 
 I relate these instructions of the initiation ritual of the Green
-Hayagriva from the Treasury of Percipience[2](ettt05.htm#an_n_4:2)<span
+Hayagriva from the Treasury of Percipience[2](ettt05.htm#an_n_4:2.md)<span
 id="an_r_4:2"></span>.
 
-On the top of the Food Vase[3](ettt05.htm#an_n_4:3)<span
+On the top of the Food Vase[3](ettt05.htm#an_n_4:3.md)<span
 id="an_r_4:3"></span> one should make a Horse-head of butter,
 
 And adorn it with a colored scarf and the proper jewel ornaments.
 
-If one wishes to make a separate symbol[4](ettt05.htm#an_n_4:4)<span
+If one wishes to make a separate symbol[4](ettt05.htm#an_n_4:4.md)<span
 id="an_r_4:4"></span>,
 
 He should prepare a separate figure of the Horsehead mounted upon the
@@ -56,10 +56,10 @@ This figure should be placed on the Gtor-ma of Initiation.
 Besides this, the various offerings should be made and traditional
 prayers recited as customary in the usual rituals.
 
-As to the process of the Perfecting Device[5](ettt05.htm#an_n_4:5)<span
+As to the process of the Perfecting Device[5](ettt05.htm#an_n_4:5.md)<span
 id="an_r_4:5"></span>, one should practice the Yoga of the Bound and
-Wisdom Buddhas[6](ettt05.htm#an_n_4:6)<span id="an_r_4:6"></span>, also
-meditate on the Arising Buddha[7](ettt05.htm#an_n_4:7)<span
+Wisdom Buddhas[6](ettt05.htm#an_n_4:6.md)<span id="an_r_4:6"></span>, also
+meditate on the Arising Buddha[7](ettt05.htm#an_n_4:7.md)<span
 id="an_r_4:7"></span>.
 
 Then practice the inner and outer prayers such as the Three Refuges.
@@ -69,7 +69,7 @@ Then practice the inner and outer prayers such as the Three Refuges.
 The (Buddha) in the Vase, the Buddha on the offering's Gtor-ma, and I,
 we three become instantaneously Vajra, the Horsehead, green in color,
 with two arms and all the adornments of the wrathful deity. One hand
-holds a human skull. Above the crowned head[8](ettt05.htm#an_n_4:8)<span
+holds a human skull. Above the crowned head[8](ettt05.htm#an_n_4:8.md)<span
 id="an_r_4:8"></span> of Hayagriva a horsehead appears. From the three
 places shine the three words, and the green *Śri* word standing on the
 Sun Disc with the rosary of invocation arranged from left to right
@@ -109,7 +109,7 @@ Cleansing Ritual followed by the Mandala offering ritual.
 Now is the time to grant you the initiation of the Green Hayagriva. In
 the time long past when the Great Bliss-Beyond-Effort, the Lotus
 Dancing-Master, the Lord Buddha Amida was staying in the Heaven of
-*A*og-min[9](ettt05.htm#an_n_4:9)<span id="an_r_4:9"></span>, a vicious
+*A*og-min[9](ettt05.htm#an_n_4:9.md)<span id="an_r_4:9"></span>, a vicious
 demon named Dregs Byod Tshogs Sprul (prideful actor multitude-conjurer)
 roamed the worlds (of the Cosmos), committing various evils and doing
 grievous harm to all sentient beings. Therefore the Lord conjured the
@@ -117,23 +117,23 @@ Mandala of the Green Hayagriva, and by this subjugated the demon.
 Whereupon the great Mandala of Hayagriva was elaborated, the Tantra of
 Hayagriva preached. This caused the king of all demons great distress.
 In a furious mood, he raised his five burning
-poisons[10](ettt05.htm#an_n_4:10)<span id="an_r_4:10"></span> and
-deranged the Three Kingdoms[11](ettt05.htm#an_n_4:11)<span
+poisons[10](ettt05.htm#an_n_4:10.md)<span id="an_r_4:10"></span> and
+deranged the Three Kingdoms[11](ettt05.htm#an_n_4:11.md)<span
 id="an_r_4:11"></span>. He brought contagious diseases, famine, and war
 to the world. He destroyed the crops and showered various weapons of
 destruction upon the earth. At his instigation all the demons displayed
 dreadful forms; plagues raged, fields were scorched, and great floods
 covered the corners of the earth. Evil burned continually like furious
-fire; both the Path of Virtue[12](ettt05.htm#an_n_4:12)<span
+fire; both the Path of Virtue[12](ettt05.htm#an_n_4:12.md)<span
 id="an_r_4:12"></span> and the Paths of
-Liberation[13](ettt05.htm#an_n_4:13)<span id="an_r_4:13"></span> were
+Liberation[13](ettt05.htm#an_n_4:13.md)<span id="an_r_4:13"></span> were
 cut; the minds of the people were oppressed; and all the sentient beings
 throughout the Six Lokas were thrown into immeasurable misery.
 Thereupon, the Bhagavan (Amida), from his heart center, sent forth the
 Mandala of the Wrathful Hayagriva, whereby the demon king was subjugated
 and bound to observe the Precepts.
 
-By the end of the Kasyapa Buddha's[14](ettt05.htm#an_n_4:14)<span
+By the end of the Kasyapa Buddha's[14](ettt05.htm#an_n_4:14.md)<span
 id="an_r_4:14"></span> time in this Kalpa, the demon king Matram Rutras
 afflicted all the sentient beings, killing them and eating their
 corpses. Whereupon the Bhagavan again sent forth the Mandala of
@@ -160,10 +160,10 @@ with four faces and eight arms was introduced also, as stated in the
 This, now, is the history of Hayagriva quoted from the Treasury of
 Percipience:
 
-When the Living Buddha[15](ettt05.htm#an_n_4:15)<span
+When the Living Buddha[15](ettt05.htm#an_n_4:15.md)<span
 id="an_r_4:15"></span> Mi-rgyur-rdo-rje (Immutable Vajra), was eleven
 years old, he captured entirely by intuition thirteen volumes of the
-Treasury of Dharma from Heavenly Sources[16](ettt05.htm#an_n_4:16)<span
+Treasury of Dharma from Heavenly Sources[16](ettt05.htm#an_n_4:16.md)<span
 id="an_r_4:16"></span> within three years. Afterward he also received
 this one volume of the Treasury of Percipience. Although there was an
 indication that he might have captured another one hundred volumes from
@@ -185,12 +185,12 @@ of Dharma will thence be imparted to the people."
 This is evidence that the tradition of the *Dharma from Treasury* finds
 support in the Sutras.
 
-Furthermore, the *Dharma from Treasury*[17](ettt05.htm#an_n_4:17)<span
+Furthermore, the *Dharma from Treasury*[17](ettt05.htm#an_n_4:17.md)<span
 id="an_r_4:17"></span> is deeper and more profound than the *Dharma from
-Mouth*[18](ettt05.htm#an_n_4:18)<span id="an_r_4:18"></span>
-(preaching). The *Treasury from Heaven*[19](ettt05.htm#an_n_4:19)<span
+Mouth*[18](ettt05.htm#an_n_4:18.md)<span id="an_r_4:18"></span>
+(preaching). The *Treasury from Heaven*[19](ettt05.htm#an_n_4:19.md)<span
 id="an_r_4:19"></span> is more profound than the *Treasury from
-Earth*[20](ettt05.htm#an_n_4:20)<span id="an_r_4:20"></span>. Again, the
+Earth*[20](ettt05.htm#an_n_4:20.md)<span id="an_r_4:20"></span>. Again, the
 *Treasury of Percipience* is more profound than the *Treasury From
 Heaven*.
 
@@ -223,14 +223,14 @@ So it is said in this Sutra.
 "Those who practice the Yoga of Hayagriva will attain the Common and the
 Eight Superb Accomplishments. They will also obtain the Four
 Accomplishments of the
-Illumination-Holding[21](ettt05.htm#an_n_4:21)<span
+Illumination-Holding[21](ettt05.htm#an_n_4:21.md)<span
 id="an_r_4:21"></span> (Yogi). He who does this will likewise attain the
 Three Bodies, the Four Bodies, the Five Bodies, and so on. He will also
 attain the Accomplishment of Mahamudra."
 
 *The Secret Wrathful Hayagriva Tantra* declares as follows:
 
-"When it comes near to the Ending-Time[22](ettt05.htm#an_n_4:22)<span
+"When it comes near to the Ending-Time[22](ettt05.htm#an_n_4:22.md)<span
 id="an_r_4:22"></span>  
  The Tantric Yogis who desire to perform the inner invocation practice  
  Will be able to protect themselves from disease and harm  
@@ -239,13 +239,13 @@ id="an_r_4:22"></span>
  Whatever act they wish to perform,  
  If they visualize the body of Hayagriva clearly,  
  No one will be able to oppose or afflict them.  
- For the armor of Śūnyatā[23](ettt05.htm#an_n_4:23)<span
+ For the armor of Śūnyatā[23](ettt05.htm#an_n_4:23.md)<span
 id="an_r_4:23"></span> is unparalleled,  
  This is the King of all Protections."  
  The Precious One, Padma Sambhava, also said:  
  "Whoever has obtained the complete initiation  
  At the time of death, when he enters into the state of Bardo,  
- From the Palace-beyond-Measure[24](ettt05.htm#an_n_4:24)<span
+ From the Palace-beyond-Measure[24](ettt05.htm#an_n_4:24.md)<span
 id="an_r_4:24"></span> of the great burning bliss  
  Will come his patron Buddha and lead him into paradise."
 
@@ -256,7 +256,7 @@ As stated in the *Sutra for Forming Hayagriva:*
 <span id="page_66">p. 66</span>
 
 name and incantation of Hayagriva only one time will never again fall
-into the lower paths[25](ettt05.htm#an_n_4:25)<span
+into the lower paths[25](ettt05.htm#an_n_4:25.md)<span
 id="an_r_4:25"></span>. Therefore, to those who have taken the
 Bodhisattva's Vow and obtained the Initiation, to them have accrued
 merits extremely great. Thus you disciples who have come here for the
@@ -291,7 +291,7 @@ I take refuge in the Buddha, the Dharma, and the Sangha.
 
 For the benefit of self and others
 
-I raise the incomparable Heart for Bodhi[26](ettt05.htm#an_n_4:26)<span
+I raise the incomparable Heart for Bodhi[26](ettt05.htm#an_n_4:26.md)<span
 id="an_r_4:26"></span>.
 
 When this prime vow of the Heart for Bodhi is made,
@@ -300,7 +300,7 @@ I shall render my services to all the sentient beings.
 
 I shall treat them as my friends and kinsmen.
 
-I vow to practice the Actions of Bodhi[27](ettt05.htm#an_n_4:27)<span
+I vow to practice the Actions of Bodhi[27](ettt05.htm#an_n_4:27.md)<span
 id="an_r_4:27"></span> with determination and joy
 
 In order to benefit all the sentient beings.
@@ -314,7 +314,7 @@ grass of the Vase of Performance and sprinkles water from the Vase over
 the disciples.
 
 (The Guru then reads the incantation of
-Śūnyatā:)[28](ettt05.htm#an_n_4:28)<span id="an_r_4:28"></span>
+Śūnyatā:)[28](ettt05.htm#an_n_4:28.md)<span id="an_r_4:28"></span>
 
 *Oṃ soubava shuta sarva dharma soubava shutor haṃ!*
 
@@ -322,7 +322,7 @@ the disciples.
 emptiness.")
 
 From the Emptiness, you, the one who seeks the initiation, and the
-Front-Arising-Buddha[29](ettt05.htm#an_n_4:29)<span
+Front-Arising-Buddha[29](ettt05.htm#an_n_4:29.md)<span
 id="an_r_4:29"></span> from whom the initiation is given, together with
 the other Gtor-mas, all immediately become the holy word *Śri*. This
 *Śri* word is seated on a resplendent Sun Disc supported by a lotus with
@@ -344,7 +344,7 @@ shaken.
 On his head Hayagriva wears a crown made of five human skulls, the top
 of each skull adorned with five glowing jewels. His mouth opens wide,
 exposing his tongue and his four canine teeth that symbolize the
-subjugation of the four demons[30](ettt05.htm#an_n_4:30)<span
+subjugation of the four demons[30](ettt05.htm#an_n_4:30.md)<span
 id="an_r_4:30"></span>. His eyebrows and beard burn with fire.
 
 <span id="page_68">p. 68</span>
@@ -366,7 +366,7 @@ all these words rays of light in many colors reach out unto the Pure
 Land. By this light the Buddhas in the Pure Land are invited to descend.
 From the Palace-beyond-Measure of the Great Bliss Master Wrathful One,
 the green Hayagrivas descend in numbers countless as snowflakes
-falling—some large as Mount Sumeru[31](ettt05.htm#an_n_4:31)<span
+falling—some large as Mount Sumeru[31](ettt05.htm#an_n_4:31.md)<span
 id="an_r_4:31"></span>, others tiny as seeds of mustard. All of them
 enter into your body and dissolve in you. You should attentively
 visualize like this.
@@ -391,7 +391,7 @@ Pray dispel the obstacles to our longevity.
 
 The Wisdom Buddha thus becomes stable.
 
-*Dee Chr Ba-Tsa*[32](ettt05.htm#an_n_4:32)<span
+*Dee Chr Ba-Tsa*[32](ettt05.htm#an_n_4:32.md)<span
 id="an_r_4:32"></span>*!*
 
 The myriad initiation Wisdom Buddhas all come!
@@ -410,7 +410,7 @@ Having obtained the complete Initiation of Vase,
 The well-endowed disciples will easily attain the Four Bodies of Buddha;
 
 Also they will achieve the Four
-Accomplishments[33](ettt05.htm#an_n_4:33)<span id="an_r_4:33"></span>.
+Accomplishments[33](ettt05.htm#an_n_4:33.md)<span id="an_r_4:33"></span>.
 
 In the future, may they constantly receive the great initiations.
 
@@ -426,7 +426,7 @@ to this description, visualize. (The Guru sprinkles water with the holy
 grass.)
 
 By tasting the water in this Vase, you will attain unlimited Power of
-Mouth[34](ettt05.htm#an_n_4:34)<span id="an_r_4:34"></span>. (Each
+Mouth[34](ettt05.htm#an_n_4:34.md)<span id="an_r_4:34"></span>. (Each
 disciple tastes the water of the Vase.)
 
 Now, in order to attain the Initiation of Body, Mouth, Mind, Merits, and
@@ -466,7 +466,7 @@ All the sins, hindrances, and illnesses within my body are purified.
 Otherwise use the Gtor-ma and discard it afterwards.)
 
 *Hūṃ!* All the teachings of Buddhas embodied in
-Padmasambhava[35](ettt05.htm#an_n_4:35)<span id="an_r_4:35"></span>,
+Padmasambhava[35](ettt05.htm#an_n_4:35.md)<span id="an_r_4:35"></span>,
 
 He is the Dharmakaya, the Buddha Amida, the Diamond Doctrine.
 
@@ -593,7 +593,7 @@ Again think that from the place of generation of the
 Front-Arising-Buddha emanate numerous emerald golden coloured Hayagrivas
 and enter into the place of generation in your body; thus the golden
 Hayagrivas fill your body \[thus impregnated by the Buddha\] <span
-id="fr_2"></span>[\*](#fn_2).
+id="fr_2"></span>[\*](#fn_2.md).
 
 *Hūṃ!* The one who…
 
@@ -624,7 +624,7 @@ Hayagriva) be granted!
 May prosperity and propitiousness be bestowed upon us.
 
 Thus the Initiation of Performance is attained, the Obstacle to
-Omniscience[36](ettt05.htm#an_n_4:36)<span id="an_r_4:36"></span>
+Omniscience[36](ettt05.htm#an_n_4:36.md)<span id="an_r_4:36"></span>
 cleared away. All hindrances to things desired are subdued. And planted
 is the seed of benefitting sentient beings in all actions.
 
@@ -634,7 +634,7 @@ which things desired are accomplished.
 
 Think that the Gtor-ma itself becomes the green Hayagriva with all
 adornments as described previously. Also visualize the Succession of
-Gurus[37](ettt05.htm#an_n_4:37)<span id="an_r_4:37"></span> sitting on
+Gurus[37](ettt05.htm#an_n_4:37.md)<span id="an_r_4:37"></span> sitting on
 his head. See one after another come quickly to the top of your head
 like clouds gathering together. Think: Whatever I pray to them, the wish
 is granted; the wave of grace and the various Siddhis are bestowed on
@@ -751,11 +751,11 @@ that place.
 
 ##### NOTES
 
-[1](ettt05.htm#an_r_4:1)<span id="an_n_4:1"></span>. *Rta-mgrin:* A
+[1](ettt05.htm#an_r_4:1.md)<span id="an_n_4:1"></span>. *Rta-mgrin:* A
 Tantric Buddha; Sanskrit—Hayagriva. The literal translation of the
 Tibetan name is *Horsehead* or *Horse-neck*.
 
-[2](ettt05.htm#an_r_4:2)<span id="an_n_4:2"></span>. *Treasury of
+[2](ettt05.htm#an_r_4:2.md)<span id="an_n_4:2"></span>. *Treasury of
 Percipience (Dgons-gter):* One of the four Treasuries of the Red School.
 Treasury (*Gter*) means the hidden teachings of the esoteric doctrine.
 These esoteric teachings were hidden in the rocks, caves, and
@@ -769,7 +769,7 @@ Treasury, according to the Red School, is the *Treasury of Percipience;*
 this type of Treasury does not require even the revelations—from the
 intuitive sense the Treasury is naturally unfolded.
 
-[3](ettt05.htm#an_r_4:3)<span id="an_n_4:3"></span>. *Vase:* In the
+[3](ettt05.htm#an_r_4:3.md)<span id="an_n_4:3"></span>. *Vase:* In the
 Highest Division of Diamond Vehicle (the Anuttara Tantra of the
 Vajrayana), there are altogether four classes of initiations: the
 Initiation of Vase, the Secret Initiation, the Wisdom Initiation, and
@@ -783,12 +783,12 @@ initiation performance. The vase or vases are different in number;
 usually one is enough, but sometimes two, three, four, or even ten are
 used. The initiation vase has many different names, too.
 
-[4](ettt05.htm#an_r_4:4)<span id="an_n_4:4"></span>. The *separate
+[4](ettt05.htm#an_r_4:4.md)<span id="an_n_4:4"></span>. The *separate
 symbol* is the effigy of a complete body of Hayagriva; the horsehead
 effigy is molded from tsamba (cooked barley flour) and decorated with
 colored butter.
 
-[5](ettt05.htm#an_r_4:5)<span id="an_n_4:5"></span>. *The Perfecting
+[5](ettt05.htm#an_r_4:5.md)<span id="an_n_4:5"></span>. *The Perfecting
 Device:* The identification of Buddha nature (the Bound Vase), the
 praying to Buddha, the coming and blessing from Buddha, the unification
 of Buddha and vase
@@ -798,29 +798,29 @@ of Buddha and vase
 <span class="contnote">\[paragraph continues\]</span> (Buddha
 nature)—these four processes make a Perfecting Device.
 
-[6](ettt05.htm#an_r_4:6)<span id="an_n_4:6"></span>. *Bound Buddha* and
+[6](ettt05.htm#an_r_4:6.md)<span id="an_n_4:6"></span>. *Bound Buddha* and
 *Wisdom Buddha* (or Bound One and Wisdom One): The original Buddha
 nature, which is not lost but hidden or "bound" deep within each
 sentient being. The Bound One (the cause or impulse toward realization)
 must be merged with the Wisdom or Fruit Buddha to produce the
 enlightenment.
 
-[7](ettt05.htm#an_r_4:7)<span id="an_n_4:7"></span>. *Arising Buddha:*
+[7](ettt05.htm#an_r_4:7.md)<span id="an_n_4:7"></span>. *Arising Buddha:*
 The Bound Buddha is also called the Arising Buddha.
 
-[8](ettt05.htm#an_r_4:8)<span id="an_n_4:8"></span>. *Crowned head:* One
+[8](ettt05.htm#an_r_4:8.md)<span id="an_n_4:8"></span>. *Crowned head:* One
 of the thirty-two signs of Buddhahood,
 
-[9](ettt05.htm#an_r_4:9)<span id="an_n_4:9"></span>. *a Og-min:* The
+[9](ettt05.htm#an_r_4:9.md)<span id="an_n_4:9"></span>. *a Og-min:* The
 highest Buddha paradise (lit. "inferior to none").
 
-[10](ettt05.htm#an_r_4:10)<span id="an_n_4:10"></span>. *Five burning
+[10](ettt05.htm#an_r_4:10.md)<span id="an_n_4:10"></span>. *Five burning
 poisons:* Lust, hate, blindness, jealousy, and pride.
 
-[11](ettt05.htm#an_r_4:11)<span id="an_n_4:11"></span>. *The Three
+[11](ettt05.htm#an_r_4:11.md)<span id="an_n_4:11"></span>. *The Three
 Kingdoms:* the domains of desire, of form, and of the formless.
 
-[12](ettt05.htm#an_r_4:12)<span id="an_n_4:12"></span>. *Path of
+[12](ettt05.htm#an_r_4:12.md)<span id="an_n_4:12"></span>. *Path of
 Virtue:* The teaching or the path that leads one to a happier life in
 one's next birth. The precept of Ten Virtues is taught in Buddhism, and
 by the practice of these Ten Virtues one may go to heaven and live there
@@ -829,89 +829,89 @@ because the Ten Virtues are not practiced in the light of non-kleśa or
 non-discrimination. The kleśas and discrimination are the two main
 causes of Saṃsāra.
 
-[13](ettt05.htm#an_r_4:13)<span id="an_n_4:13"></span>. *Paths of
+[13](ettt05.htm#an_r_4:13.md)<span id="an_n_4:13"></span>. *Paths of
 Liberation:* The Paths of Four Noble Truths and the Path of Bodhisattva.
 
-[14](ettt05.htm#an_r_4:14)<span id="an_n_4:14"></span>. *Kasyapa
+[14](ettt05.htm#an_r_4:14.md)<span id="an_n_4:14"></span>. *Kasyapa
 Buddha:* The Buddha directly antecedent to Gotama Buddha.
 
-[15](ettt05.htm#an_r_4:15)<span id="an_n_4:15"></span>. *Living Buddha:*
+[15](ettt05.htm#an_r_4:15.md)<span id="an_n_4:15"></span>. *Living Buddha:*
 Tibetan, *Sprul-skur;* literally the Transformation Body of Buddha
 (Nirmanakaya). But nowadays this name is merely a title or a rank of a
 Lama; it no longer has any significant meaning in religion.
 
-[16](ettt05.htm#an_r_4:16)<span id="an_n_4:16"></span>. and
-[17](ettt05.htm#an_r_4:17)<span id="an_n_4:17"></span>. See Note 2.
+[16](ettt05.htm#an_r_4:16.md)<span id="an_n_4:16"></span>. and
+[17](ettt05.htm#an_r_4:17.md)<span id="an_n_4:17"></span>. See Note 2.
 
-[18](ettt05.htm#an_r_4:18)<span id="an_n_4:18"></span>. Dharma from
+[18](ettt05.htm#an_r_4:18.md)<span id="an_n_4:18"></span>. Dharma from
 Mouth: Traditional Hinayana and ordinary sources of Buddhist doctrine.
 
-[19](ettt05.htm#an_r_4:19)<span id="an_n_4:19"></span>. and
-[20](ettt05.htm#an_r_4:20)<span id="an_n_4:20"></span>. See Note 2.
+[19](ettt05.htm#an_r_4:19.md)<span id="an_n_4:19"></span>. and
+[20](ettt05.htm#an_r_4:20.md)<span id="an_n_4:20"></span>. See Note 2.
 
-[21](ettt05.htm#an_r_4:21)<span id="an_n_4:21"></span>.
+[21](ettt05.htm#an_r_4:21.md)<span id="an_n_4:21"></span>.
 *Illumination-Holding:* A title of the Tantric Yogi. *Illumination*
 (*Rig*) has a number of meanings.
 
 <span id="page_80">p. 80</span>
 
-[22](ettt05.htm#an_r_4:22)<span id="an_n_4:22"></span>. *Ending-Time:*
+[22](ettt05.htm#an_r_4:22.md)<span id="an_n_4:22"></span>. *Ending-Time:*
 The end of our time. Buddhist tradition says that there will come a time
 when all beings on earth will be annihilated. Here, however, the author
 means to emphasize a *Bad Time*—when kleśas and all misfortunes prevail
 in the world. The Tibetan term *Mtha-ma* means both *the Last* and *the
 Worst*.
 
-[23](ettt05.htm#an_r_4:23)<span id="an_n_4:23"></span>. *Śunyāta:* The
+[23](ettt05.htm#an_r_4:23.md)<span id="an_n_4:23"></span>. *Śunyāta:* The
 Voidness, emptiness. The teaching of Voidness is the most important in
 Buddhism.
 
-[24](ettt05.htm#an_r_4:24)<span id="an_n_4:24"></span>.
+[24](ettt05.htm#an_r_4:24.md)<span id="an_n_4:24"></span>.
 *Palace-beyond-Measure:* The size of the abode of the Buddhas is beyond
 measurement—infinite. *Ed*.
 
-[25](ettt05.htm#an_r_4:25)<span id="an_n_4:25"></span>. *Lower Paths:*
+[25](ettt05.htm#an_r_4:25.md)<span id="an_n_4:25"></span>. *Lower Paths:*
 Three lower paths of the six Lokas of Saṃsāra—Hell, Hungry Ghosts, and
 Animals.
 
-[26](ettt05.htm#an_r_4:26)<span id="an_n_4:26"></span>. *Heart for
+[26](ettt05.htm#an_r_4:26.md)<span id="an_n_4:26"></span>. *Heart for
 Bodhi:* The wish to liberate sentient beings, to practice the Six
 Paramitas and actions of a Bodhisattva.
 
-[27](ettt05.htm#an_r_4:27)<span id="an_n_4:27"></span>. *Actions of
+[27](ettt05.htm#an_r_4:27.md)<span id="an_n_4:27"></span>. *Actions of
 Bodhi:* the practice of Six Paramitas and Four Dominations Practices,
 etc.
 
-[28](ettt05.htm#an_r_4:28)<span id="an_n_4:28"></span>. *Incantation of
+[28](ettt05.htm#an_r_4:28.md)<span id="an_n_4:28"></span>. *Incantation of
 Śunyāta:* Generally, Tibetan Buddhists never expect to understand
-incantations or to [translate](errata.htm#11) them into ordinary
+incantations or to [translate](errata.htm#11.md) them into ordinary
 language, since the literal cannot contain the whole truth. Tradition
 does not try to explain the incantations but treats the secret words as
 sacred syllables and sounds. Being symbolic, each word and sound has
 many meanings. This sacred statement is called "The Incantation on the
 Observation of the Emptiness."
 
-[29](ettt05.htm#an_r_4:29)<span id="an_n_4:29"></span>. *Front-Arising
+[29](ettt05.htm#an_r_4:29.md)<span id="an_n_4:29"></span>. *Front-Arising
 Buddha:* The Buddha of the Vase.
 
-[30](ettt05.htm#an_r_4:30)<span id="an_n_4:30"></span>. *Four Demons:*
+[30](ettt05.htm#an_r_4:30.md)<span id="an_n_4:30"></span>. *Four Demons:*
 Illness, Obstacles to Dharma, Death, and Kleśas.
 
-[31](ettt05.htm#an_r_4:31)<span id="an_n_4:31"></span>. *Mount Sumeru:*
+[31](ettt05.htm#an_r_4:31.md)<span id="an_n_4:31"></span>. *Mount Sumeru:*
 A symbolic huge mountain. According to Buddhist legend, it is located in
 the center of the cosmos.
 
-[32](ettt05.htm#an_r_4:32)<span id="an_n_4:32"></span>. This short
+[32](ettt05.htm#an_r_4:32.md)<span id="an_n_4:32"></span>. This short
 incantation is to stabilize the coming Buddha.
 
-[33](ettt05.htm#an_r_4:33)<span id="an_n_4:33"></span>. *The Four
+[33](ettt05.htm#an_r_4:33.md)<span id="an_n_4:33"></span>. *The Four
 Accomplishments:* To alleviate sorrows and misfortunes; to augment
 merits; to attract sentient beings; and to subdue demons.
 
-[34](ettt05.htm#an_r_4:34)<span id="an_n_4:34"></span>. *Power of
+[34](ettt05.htm#an_r_4:34.md)<span id="an_n_4:34"></span>. *Power of
 Mouth:* Speech, singing, admonishing.
 
-[35](ettt05.htm#an_r_4:35)<span id="an_n_4:35"></span>. *Padmasambhava:*
+[35](ettt05.htm#an_r_4:35.md)<span id="an_n_4:35"></span>. *Padmasambhava:*
 Founder of the Red \[or Nying-mapa\] School. This ritual belongs to the
 Red School, so Padmasambhava's name is always mentioned. The followers
 of this School believe that the body of Padmasambhava was transmitted
@@ -926,7 +926,7 @@ from Amiba, his Sambhoga-kaya. Avalokiteśvara; his Nirmanakaya from
 Gotama. Padmasambhava received his Dharmakaya from Avalokiteśvara; his
 Nirmanakaya from Gotama.
 
-[36](ettt05.htm#an_r_4:36)<span id="an_n_4:36"></span>. *Obstacle to
+[36](ettt05.htm#an_r_4:36.md)<span id="an_n_4:36"></span>. *Obstacle to
 Omniscience:* Another translation is the *Hindrance of Knowing*. To
 attain Nirvana, one must annihilate the Hindrance of kleśa, which is the
 direct cause of Saṃsāra. But to attain the Non-Abiding Nirvana
@@ -936,7 +936,7 @@ Bodhisattvas aspire not merely to liberation but also to *Perfection*,
 the extermination of the Hindrance is necessary in attaining the perfect
 Buddhahood.
 
-[37](ettt05.htm#an_r_4:37)<span id="an_n_4:37"></span>. *Succession of
+[37](ettt05.htm#an_r_4:37.md)<span id="an_n_4:37"></span>. *Succession of
 Gurus:* The Lineage or Rosary of Gurus in direct succession from
 Hayagriva.
 
@@ -944,18 +944,18 @@ Hayagriva.
 
 ### Footnotes
 
-<span id="fn_2"></span>[73:\*](ettt05.htm#fr_2) We have added this
+<span id="fn_2"></span>[73:\*](ettt05.htm#fr_2.md) We have added this
 parenthesis to clarify an important concept, which though stated here in
 simple form, expresses the fundamental idea of the new birth of the
 regenerate man within the shell or womb of the old self—the renewed man,
 born of divine power. The essential *gotra* concept explained in our
-Introduction [is](errata.htm#10) vitally close to the meaning of the
+Introduction [is](errata.htm#10.md) vitally close to the meaning of the
 text. *Ed*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five: The Initiation Ritual of the Red Gshin-Rje](ettt06)
+[Next: Chapter Five: The Initiation Ritual of the Red Gshin-Rje](ettt06.md)
 
 </div>

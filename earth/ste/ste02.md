@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste01)  [Next](ste03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste01)  [Next](ste03.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ Scripture to assert: And I remember St. Austin in his Exposition upon
 Genesis, hath laid down a rule to this very purpose, though he had the
 unhappiness, it seems, not to follow it always himself. The reason also,
 which he gives there for his rule, is very good and substantial:  <span
-id="fr_0"></span>[1](#fn_0)*For*, saith He, *if the Unbelievers or
+id="fr_0"></span>[1](#fn_0.md)*For*, saith He, *if the Unbelievers or
 Philosophers shall certainly know us to be mistaken, and to erre in
 those things that concern the Natural World, and see that we alledge
 our* (Sacred) *Books for such vain opinions, how shall they believe
@@ -168,7 +168,7 @@ others; provided this liberty be mutual, and that we all agree to study
 
 ### Footnotes
 
-<span id="fn_0"></span>[15:1](ste02.htm#fr_0) Gen. ad lit. lib. I, c.
+<span id="fn_0"></span>[15:1](ste02.htm#fr_0.md) Gen. ad lit. lib. I, c.
 19. *Plerumque accidit ut aliquid de Terrâ, de Cælo, de cæteris hujus
 mundi elementis, &c. Cùm enim quenquam Christianorum in eâ re quam
 optimé nôrunt, errare deprehenderint, & vanam sententiam suam ex nostris
@@ -179,4 +179,4 @@ putaverint esse conscripto*s?
 
 ------------------------------------------------------------------------
 
-[Next: Contents of the Chapters](ste03)
+[Next: Contents of the Chapters](ste03.md)

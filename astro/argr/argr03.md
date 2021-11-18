@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](argr02)  [Next](argr04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](argr02)  [Next](argr04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Astrology and Religion Among the Greeks and Romans*, by Franz Cumont,
 \[1912\], at Intangible Textual Heritage
 
@@ -74,7 +74,7 @@ and nineteenth centuries condemned this heresy in the name of scientific
 orthodoxy. In 1824, Letronne thought it necessary to apologise for
 discoursing to the Academy of Inscriptions on "absurd dreams" in which
 he saw "nothing but one of those failings which have done most dishonour
-to the human mind," <span id="fr_1"></span>[1](#fn_1)--as though man's
+to the human mind," <span id="fr_1"></span>[1](#fn_1.md)--as though man's
 failings were not often more instructive than his triumphs.
 
 But at the end of the nineteenth century the development of history,
@@ -186,13 +186,13 @@ Further, a number of unknown authors emerged from obscurity, a crowd of
 <span id="page_xv">p. xv</span>
 
 manuscripts mouldering in the tombs of libraries were restored to
-light. <span id="fr_2"></span>[1](#fn_2)
+light. <span id="fr_2"></span>[1](#fn_2.md)
 
 The profit which can be gained from them is not confined to the science
 of which they treat and to the adjacent domains, which astrology has
 more or less penetrated. Their utility is much more varied and general,
 and it would be difficult to set out in full their manifold
-applications. <span id="fr_3"></span>[2](#fn_3)
+applications. <span id="fr_3"></span>[2](#fn_3.md)
 
 I shall not dwell on the interest afforded to the scholar by a series of
 texts spread over more than fifteen centuries, from the Alexandrine
@@ -231,16 +231,16 @@ was to prepare in many respects the coming of Christianity.
 
 ### Footnotes
 
-<span id="fn_1"></span>[xii:1](argr03.htm#fr_1) "*Rêveries absurdes . .
+<span id="fn_1"></span>[xii:1](argr03.htm#fr_1.md) "*Rêveries absurdes . .
 . une des faiblesses qui ont le plus déshonoré l’esprit humain*."
 
-<span id="fn_2"></span>[xv:1](argr03.htm#fr_2) See *Catalogus Codicum
+<span id="fn_2"></span>[xv:1](argr03.htm#fr_2.md) See *Catalogus Codicum
 Astrologorum Graecorum* (ten volumes published), Brussels, 1893-1911.
 
-<span id="fn_3"></span>[xv:2](argr03.htm#fr_3) See Franz Boll, *Zur
+<span id="fn_3"></span>[xv:2](argr03.htm#fr_3.md) See Franz Boll, *Zur
 Erforschung der antiken Astrologie* (Neue Jahrbücher f. d. Klass.
 Altertum), xxi (1903).
 
 ------------------------------------------------------------------------
 
-[Next: Contents](argr04)
+[Next: Contents](argr04.md)

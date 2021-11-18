@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork09)  [Next](gork11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork09)  [Next](gork11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ as possible."
 
 <span class="margnote">All desires fulfilled.</span>At that time
 whatever I desired came to pass. Once I desired to build a small hut in
-the Panchavati <span id="fr_61"></span>[\*](#fn_61) for meditation and
+the Panchavati <span id="fr_61"></span>[\*](#fn_61.md) for meditation and
 to put a fence around it. Immediately after I saw a huge bundle of
 bamboo sticks, rope, strings and even a knife, all brought by the tide
 in front of the Panchavati. A servant of the Temple, seeing these
@@ -53,7 +53,7 @@ Divine Mother: "Mother, who will now take care of me? I have no power to
 take care of myself. I like to hear Thy name and feed Thy Bhaktas and
 help the poor. Who will make it possible for me to do these things? Send
 me someone who will be able to do these for me." As the answer to this
-prayer came Mathura Bâbu, <span id="fr_62"></span>[†](#fn_62) who served
+prayer came Mathura Bâbu, <span id="fr_62"></span>[†](#fn_62.md) who served
 me so long and
 
 <span id="page_209">p. 209</span>
@@ -91,7 +91,7 @@ went into Samâdhi.
 
 Again I saw a woman wearing a blue garment under a tree. She was a
 harlot. As I looked at her, instantly the ideal of Sitâ <span
-id="fr_63"></span>[\*](#fn_63) appeared before me! I forgot the
+id="fr_63"></span>[\*](#fn_63.md) appeared before me! I forgot the
 existence of the harlot, but saw before me pure and spotless Sitâ,
 approaching Râma, the Incarnation of Divinity, and for a long time I
 remained motionless. I worshipped all women as representatives of the
@@ -123,7 +123,7 @@ receive us, and he was much surprised to see me coming with such a rich
 man in such carriage!
 
 At another time I wished to meet Devendra Nâth Tâgore. <span
-id="fr_64"></span>[\*](#fn_64) He is a very rich man, but in
+id="fr_64"></span>[\*](#fn_64.md) He is a very rich man, but in
 
 <span id="page_212">p. 212</span>
 
@@ -254,7 +254,7 @@ are men of the world; salvation is not for us. When
 
 <span id="page_218">p. 218</span>
 
-even Yudhisthira, <span id="fr_65"></span>[\*](#fn_65) the purest and
+even Yudhisthira, <span id="fr_65"></span>[\*](#fn_65.md) the purest and
 most perfect of mortals, had to see purgatory in a vision because he had
 once wavered for half a second from absolute Truth, what can we expect
 for ourselves?" I could not bear his words and rebuked him sharply,
@@ -420,20 +420,20 @@ disciples.
 
 ### Footnotes
 
-<span id="fn_61"></span>[208:\*](gork10.htm#fr_61) Five sacred trees
+<span id="fn_61"></span>[208:\*](gork10.htm#fr_61.md) Five sacred trees
 planted together to form a grove to be used for contemplation.
 
-<span id="fn_62"></span>[208:†](gork10.htm#fr_62) Mathura Bâbu was the
+<span id="fn_62"></span>[208:†](gork10.htm#fr_62.md) Mathura Bâbu was the
 son-in-law of Râni Râshmoni, <span id="page_209">p. 209</span> the
 founder of the Temple garden at Dakshineswara. He recognized the Divine
 powers and superhuman character of Srî Râmakrishna and became His
 devoted disciple.
 
-<span id="fn_63"></span>[210:\*](gork10.htm#fr_63) Sitâ was the consort
+<span id="fn_63"></span>[210:\*](gork10.htm#fr_63.md) Sitâ was the consort
 of Râma, the Divine Incarnation and the Hero of Râmâyana. She was the
 perfect type of womanhood according to the Hindus.
 
-<span id="fn_64"></span>[211:\*](gork10.htm#fr_64) Devendra Nâth Tâgore
+<span id="fn_64"></span>[211:\*](gork10.htm#fr_64.md) Devendra Nâth Tâgore
 was a Hindu multimillionaire of Calcutta. He was born in 1818 A.D. In
 1841 he became <span id="page_212">p. 212</span> a follower of Râjâ
 Râmmohun Roy, the founder of the Âdi Brâhmo Samâj, and in 1844 he became
@@ -442,9 +442,9 @@ During the latter part of his life he retired from the world and devoted
 his time entirely to spiritual studies. He was regarded by the Hindus as
 the "Maharshi," or the holy man of his age.
 
-<span id="fn_65"></span>[218:\*](gork10.htm#fr_65) Yudhisthira was the
+<span id="fn_65"></span>[218:\*](gork10.htm#fr_65.md) Yudhisthira was the
 Hero of the Mahâbhârata and the Hindu emperor of ancient India.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Feast at the Garden-House of Surendra](gork11)
+[Next: Chapter VIII. Feast at the Garden-House of Surendra](gork11.md)

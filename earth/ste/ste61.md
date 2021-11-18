@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste60)  [Next](ste62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste60)  [Next](ste62.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ us’d by all Authors, prophane or Ecclesiastical, for the Renovation of
 the World, ought, in reason, to be interpreted in the same sence in the
 holy Writings. And in like manner, when St. *Paul* speaks of his *Future
 Earth*, or an *habitable World to come*, *Hebr*. 2. 5. <span
-id="fr_38"></span>[1](#fn_38) or of a *Redemption* or melioration of the
+id="fr_38"></span>[1](#fn_38.md) or of a *Redemption* or melioration of the
 present state of nature, *Rom*. 8. 21, 22. These lead us again, in other
 terms, to the same *Renovation* of the World. But there are also some
 places of Scripture, that set the *New Heavens* and *New Earth* in such
@@ -222,8 +222,8 @@ under a fate, good or bad, which is not in my power to overcome.
 
 ### Footnotes
 
-<span id="fn_38"></span>[409:1](ste61.htm#fr_38) ἡ εἰκουμὶνη ἡ μέλλουτα.
+<span id="fn_38"></span>[409:1](ste61.htm#fr_38.md) ἡ εἰκουμὶνη ἡ μέλλουτα.
 
 ------------------------------------------------------------------------
 
-[Next: Books printed for Walter Kettilby](ste62)
+[Next: Books printed for Walter Kettilby](ste62.md)

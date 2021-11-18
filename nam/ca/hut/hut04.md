@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut03)  [Next](hut05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut03)  [Next](hut05.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 ### I.
 
-### Yīmantūwiñyai.--Creator and Culture Hero. <span id="fr_0"></span>[1](#fn_0)
+### Yīmantūwiñyai.--Creator and Culture Hero. <span id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_123">p. 123</span>
 
@@ -43,7 +43,7 @@ Yīmantūwiñyai had found out what he wished to know he ran back to the
 house. He carried his quiver outside and put it on the roof that it
 might be at hand when he needed it. When the Kīxûnai had brought in the
 deer, Yīmantūwiñyai said, "I am going out to swim because I am going to
-eat venison." <span id="fr_1"></span>[1](#fn_1) As he passed out he took
+eat venison." <span id="fr_1"></span>[1](#fn_1.md) As he passed out he took
 down his
 
 <span id="page_124">p. 124</span>
@@ -77,7 +77,7 @@ had done before. When she had brought them up she cooked them for him
 between two sticks. He had now found out what to do. He made a flute and
 then smoked himself in the sweat-house. When he was done with the
 sweating he talked to the flute, telling it to play when he had gone
-out. <span id="fr_2"></span>[1](#fn_2) In the evening, he went and
+out. <span id="fr_2"></span>[1](#fn_2.md) In the evening, he went and
 looked about everywhere to see where he had best dig the outlet. He saw
 the digging at one place would be easy. He went back to the house and
 sharpened a stick. He told the flute to play and went out taking with
@@ -95,7 +95,7 @@ When he came back by the house he picked up his quiver and followed
 along beside the stream to teach the people how to prepare the fish for
 food. The woman ran along after the salmon that used to be hers, crying:
 "Wût-te wût-te my salmon." It was salmon's grandmother <span
-id="fr_3"></span>[1](#fn_3) who used to own the salmon. When
+id="fr_3"></span>[1](#fn_3.md) who used to own the salmon. When
 Yīmantūwiñyai came along he saw fish had already been eaten. He saw eels
 had been cut. "Not that way, this way you should cut them," he said,
 cutting them with a knife of white stone. At another place he saw they
@@ -125,7 +125,7 @@ He made a small boat and put it in the
 
 water on the further side, but to no purpose, for the women did not come
 out. Then because he failed to entice them out he tore the dam down and
-turned back. <span id="fr_4"></span>[1](#fn_4) When he came again to
+turned back. <span id="fr_4"></span>[1](#fn_4.md) When he came again to
 Orleans Bar he saw someone making a white stone knife. "What are you
 doing?" he asked. "We are going to cut those women open," they said.
 "Hold on," said Yīmantūwiñyai, and he began. to plan how birth should
@@ -133,10 +133,10 @@ take place. First he thought it might be from the woman's shin. After
 thinking about it again he looked into his quiver. He saw there a
 net-sack had grown. This he thought would become the uterus forming a
 part of woman and from it birth should take place. <span
-id="fr_5"></span>[2](#fn_5) From there he went back to his home.
+id="fr_5"></span>[2](#fn_5.md) From there he went back to his home.
 
 He thought he would now go toward the south. He made baskets and gave
-them away. <span id="fr_6"></span>[3](#fn_6) Then he came up along the
+them away. <span id="fr_6"></span>[3](#fn_6.md) Then he came up along the
 Trinity until he came to Sugar Bowl. There he made a dam and then went
 back down on the other side of the river until he came to Xonsadiñ. Two
 women were soaking acorn meal at this place. He climbed up the steep
@@ -150,13 +150,13 @@ the water-fall could not be seen. Then he made a butte on each side at
 Djictañadiñ from which he might look. He made a canoe and started toward
 the south thinking he might have intercourse with some woman. Failing in
 this he took away the buttes and went back down the river. <span
-id="fr_7"></span>[4](#fn_7)
+id="fr_7"></span>[4](#fn_7.md)
 
 <span id="page_127">p. 127</span>
 
 When he got back to TakimiLdiñ the people were making so much noise that
 the birds flying over nearly dropped dead. <span
-id="fr_8"></span>[1](#fn_8) Someone came over from Bald Hills. When they
+id="fr_8"></span>[1](#fn_8.md) Someone came over from Bald Hills. When they
 looked up a cloud had risen. "It is disease that is coming; Come make a
 dance," said Yīmantūwiñyai. The Kīxûnai danced in the large house
 circling around the fire. "Let me find a dancing place," thought
@@ -172,7 +172,7 @@ the cloud had drawn back. They danced for five days and it continued to
 go back. 'Then they danced in the house five days by jumping. Afterwards
 they had a jumping dance at Miskût. "That way it will be," he thought,
 "if disease comes." Then he went south until he came to Leldiñ. <span
-id="fr_9"></span>[2](#fn_9)
+id="fr_9"></span>[2](#fn_9.md)
 
 As he was going along south he saw someone coming toward him carrying a
 load. He had no eyes. When he met him he said, "Eh! Old man, the load
@@ -204,7 +204,7 @@ trails in safety," said Yīmantūwiñyai. There mustn't be those who eat
 people."
 
 As he went on walking toward the south he saw someone making a
-seesaw <span id="fr_10"></span>[1](#fn_10) by the roadside. When
+seesaw <span id="fr_10"></span>[1](#fn_10.md) by the roadside. When
 Yīmantūwiñyai came there he caught the pole with which the person was
 seesawing, causing him to jump off. "Sit on it for me," he said.
 Yīmantūwiñyai sat on it. He untied the lashing, but Yīmantūwiñyai jumped
@@ -257,7 +257,7 @@ he met the women again he said, " They are traveling without having
 eaten." The women left food for them. Finally in this manner he ate up
 all the food they were carrying. He made there every kind of language,
 Karok, Yurok, Shasta, Tolowa, Mad River, Southfork, New River, and
-Redwood; so many he made. <span id="fr_11"></span>[1](#fn_11)
+Redwood; so many he made. <span id="fr_11"></span>[1](#fn_11.md)
 
 He went on toward the south where he saw a house. When be went in he saw
 a kinaLdûñ girl sitting there. She got up and grave him nuts of the
@@ -317,7 +317,7 @@ pecked until he pecked it open. In that way Yīmantūwiñyai got out.
 bill for buzzard. At first he made crow into a large woodpecker. "Fly up
 there," he told him and he flew up. Then he flew back and said, "Make me
 red all over. If a man kills me he will be rich at once." <span
-id="fr_12"></span>[1](#fn_12) Yīmantūwiñyai pounded up some charcoal and
+id="fr_12"></span>[1](#fn_12.md) Yīmantūwiñyai pounded up some charcoal and
 dusted it over him. "Come fly up there," he said, and he flew up.
 "Ka ka ka" he said and became crow. He made largest woodpecker, eagle,
 yellowhammer, little woodpecker and all kinds as many as fly. When he
@@ -342,7 +342,7 @@ agreed. Soon the host's pet dropped down dead. Yīmantūwiñyai 's dog
 <span id="page_132">p. 132</span>
 
 they saw coming along with his face half covered with blood. He ran back
-to his master. <span id="fr_13"></span>[1](#fn_13)
+to his master. <span id="fr_13"></span>[1](#fn_13.md)
 
 It was at the edge of the world toward the south that they had the
 fight. When Yīmantūwiñyai looked back the way he had come he was
@@ -356,7 +356,7 @@ ocean to the north. Yīmantūwiñyai went back with them.
 
 Then he thought, "How is it going to be with the Indians who are to
 appear?" "I am going around the world," he thought, "and measure it.
-They will renew their youth." <span id="fr_14"></span>[2](#fn_14) He
+They will renew their youth." <span id="fr_14"></span>[2](#fn_14.md) He
 started around the world to measure it. When he got to the place west of
 us on the other side, The Maiyōtel began to talk about him. "He must not
 do this thing he is attempting," they said. "I wish someway we could
@@ -387,20 +387,20 @@ These he pushed down his throat. Then he opened the door and went in. He
 seated himself beside the wife. The jealous man came out of the
 sweat-house and noticed that someone had been around. The door was open.
 He went in and saw a man sitting by his wife. He looked him in the
-eye. <span id="fr_15"></span>[1](#fn_15) Then he felt in his quiver and
+eye. <span id="fr_15"></span>[1](#fn_15.md) Then he felt in his quiver and
 drew out an arrow. "Not that one," said Yīmantūwiñyai. He pulled out
 another. "No," said Yīmantūwiñyai. Finally he had pulled out all but
 one. Then he pulled out the xoñxan*w*diñ arrow. <span
-id="fr_16"></span>[2](#fn_16) "That is the one," said Yīmantūwiñyai.
+id="fr_16"></span>[2](#fn_16.md) "That is the one," said Yīmantūwiñyai.
 "Shoot into my mouth." Then the jealous man shot him in the mouth.
 Yīmantūwiñyai tumbled out of the smoke-hole and rolled all around the
 place in frenzy. When lie came under a pepperwood tree he came to his
 senses. He thought he had been killed. He drew out the elder sticks, and
 found all of them were burned through. He took out the arrow-head also.
 The place where he rolled around can be seen yet. An herb <span
-id="fr_17"></span>[3](#fn_17) grew up there. He put some of it in his
+id="fr_17"></span>[3](#fn_17.md) grew up there. He put some of it in his
 mouth. He caused that plant to be a medicine. <span
-id="fr_18"></span>[4](#fn_18)
+id="fr_18"></span>[4](#fn_18.md)
 
 He came back to Tcōxoltcwediñ. He saw a man and a woman had grown there.
 He came up the Trinity to Miskût. He found again a man and a woman. At
@@ -435,88 +435,88 @@ Xowûñkût. He felt sleepy, so lying down by the trail he went to sleep.
 When he woke up he felt heavy. He could not roll over. He went to sleep
 again. When he woke up a second time, his belly was so swollen that it
 fairly loomed up over him. He looked around and saw redwood sorrel <span
-id="fr_19"></span>[1](#fn_19) had grown up there. He chewed that and it
+id="fr_19"></span>[1](#fn_19.md) had grown up there. He chewed that and it
 cured him. He made that to be everybody's medicine. He got up. "This
 plant will be Indian's medicine," he said. Then he went back to
 Tcōxōltcwediñ where he spent the night. The next day he went back across
 the ocean to the north where he became lost from men. He went to his
-grandmother <span id="fr_20"></span>[2](#fn_20) and said: "I have made
+grandmother <span id="fr_20"></span>[2](#fn_20.md) and said: "I have made
 the medicines for Indians."
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[96:1](hut04.htm#fr_0) Told at Hupa, June, 1901,
+<span id="fn_0"></span>[96:1](hut04.htm#fr_0.md) Told at Hupa, June, 1901,
 by Emma Lewis, wife of William Lewis, a woman about fifty-five years; of
 age, a native of Tsewenaldiñ (Senalton village). It seems that no other
 Hupa knows this myth in its connected form.
 
-<span id="fn_1"></span>[123:1](hut04.htm#fr_1) The Hupa bathed before a
+<span id="fn_1"></span>[123:1](hut04.htm#fr_1.md) The Hupa bathed before a
 meal especially one of meat.
 
-<span id="fn_2"></span>[124:1](hut04.htm#fr_2) Another version has
+<span id="fn_2"></span>[124:1](hut04.htm#fr_2.md) Another version has
 Yīmantūwiñyai place the flute so the wind makes music. The woman hearing
 it thinks he must be in the sweat-house and is thrown off her guard.
 
-<span id="fn_3"></span>[125:1](hut04.htm#fr_3) A yellow-breasted
+<span id="fn_3"></span>[125:1](hut04.htm#fr_3.md) A yellow-breasted
 fly-catcher.
 
-<span id="fn_4"></span>[126:1](hut04.htm#fr_4) This incident and the one
+<span id="fn_4"></span>[126:1](hut04.htm#fr_4.md) This incident and the one
 at Orleans Bar explain the presence of a large flat, furnishing a good
 village site at one place and the lack of one at Somes. Yīmantūwiñyai's
 acts are governed by his elation or chagrin as he succeeds, or fails
 with the women in question.
 
-<span id="fn_5"></span>[126:2](hut04.htm#fr_5) These were the same women
+<span id="fn_5"></span>[126:2](hut04.htm#fr_5.md) These were the same women
 who had pursued the baby in the canoe a few days before. It is believed
 that the act of looking at Yīmantūwiñyai would cause pregnancy.
 
-<span id="fn_6"></span>[126:3](hut04.htm#fr_6) "Therefore better baskets
+<span id="fn_6"></span>[126:3](hut04.htm#fr_6.md) "Therefore better baskets
 are made on Klamath than elsewhere," explained the narrator.
 
-<span id="fn_7"></span>[126:4](hut04.htm#fr_7) These incidents account
+<span id="fn_7"></span>[126:4](hut04.htm#fr_7.md) These incidents account
 for the topography of the extreme ends of the valley.
 
-<span id="fn_8"></span>[127:1](hut04.htm#fr_8) The narrator explained
+<span id="fn_8"></span>[127:1](hut04.htm#fr_8.md) The narrator explained
 that the noise of the village was so great as to affect the birds.
 
-<span id="fn_9"></span>[127:2](hut04.htm#fr_9) Compare xxiv. For an
+<span id="fn_9"></span>[127:2](hut04.htm#fr_9.md) Compare xxiv. For an
 account of this dance compare Life and Culture of the Hupa, p. 82.
 
-<span id="fn_10"></span>[128:1](hut04.htm#fr_10) This is said to have
+<span id="fn_10"></span>[128:1](hut04.htm#fr_10.md) This is said to have
 been a primitive means of amusement among the Hupa. Only one person sat
 on the seesaw at a time. The other worked the pole up and down with his
 hands.
 
-<span id="fn_11"></span>[129:1](hut04.htm#fr_11) Compare Dixon, Maidu
+<span id="fn_11"></span>[129:1](hut04.htm#fr_11.md) Compare Dixon, Maidu
 Myths, p. 61.
 
-<span id="fn_12"></span>[131:1](hut04.htm#fr_12) The red scalps of the
+<span id="fn_12"></span>[131:1](hut04.htm#fr_12.md) The red scalps of the
 woodpecker are hoarded by the Hupa.
 
-<span id="fn_13"></span>[132:1](hut04.htm#fr_13) Compare Dixon, Maidu
+<span id="fn_13"></span>[132:1](hut04.htm#fr_13.md) Compare Dixon, Maidu
 Myths, pp. 84-5.
 
-<span id="fn_14"></span>[132:2](hut04.htm#fr_14) If the world proved
+<span id="fn_14"></span>[132:2](hut04.htm#fr_14.md) If the world proved
 large, people might be rejuvenated several times without overcrowding
 it.
 
-<span id="fn_15"></span>[133:1](hut04.htm#fr_15) The glance of his eye
+<span id="fn_15"></span>[133:1](hut04.htm#fr_15.md) The glance of his eye
 killed ordinary men.
 
-<span id="fn_16"></span>[133:2](hut04.htm#fr_16) This had an especially
+<span id="fn_16"></span>[133:2](hut04.htm#fr_16.md) This had an especially
 poisonous arrow-point which Yīmantūwiñyai wished to get away from the
 monster.
 
-<span id="fn_17"></span>[133:3](hut04.htm#fr_17) *Hypericum formosum*
+<span id="fn_17"></span>[133:3](hut04.htm#fr_17.md) *Hypericum formosum*
 var. *Scouleri*.
 
-<span id="fn_18"></span>[133:4](hut04.htm#fr_18) Compare xlv.
+<span id="fn_18"></span>[133:4](hut04.htm#fr_18.md) Compare xlv.
 
-<span id="fn_19"></span>[134:1](hut04.htm#fr_19) *Oxalis Oregana*.
+<span id="fn_19"></span>[134:1](hut04.htm#fr_19.md) *Oxalis Oregana*.
 
-<span id="fn_20"></span>[134:2](hut04.htm#fr_20) This is the first
+<span id="fn_20"></span>[134:2](hut04.htm#fr_20.md) This is the first
 mention of Yīmantūwiñyai's antecedents. A contradiction that the first
 person to exist had a grandmother would not disturb the Indian's mind;
 but this myth is very evidently a collection of many which may have been
@@ -525,4 +525,4 @@ together they were all made to relate to Yīmantūwiñyai.
 
 ------------------------------------------------------------------------
 
-[Next: II. XaxōwilwaL.--Dug-from-the-ground.](hut05)
+[Next: II. XaxōwilwaL.--Dug-from-the-ground.](hut05.md)

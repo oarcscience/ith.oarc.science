@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck17)  [Next](peck19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck17)  [Next](peck19.md) 
 
 ------------------------------------------------------------------------
 
@@ -449,4 +449,4 @@ long way off.
 
 ------------------------------------------------------------------------
 
-[Next: The First Bush Fire](peck19)
+[Next: The First Bush Fire](peck19.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](aww09)  [Next](aww11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](aww09)  [Next](aww11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Art of Worldly Wisdom*, by Balthasar Gracian, tr. by Joseph Jacobs,
 \[1892\], at Intangible Textual Heritage
 
@@ -707,4 +707,4 @@ discovers, notices, grasps, and comprehends everything.
 
 ------------------------------------------------------------------------
 
-[Next: 50-99](aww11)
+[Next: 50-99](aww11.md)

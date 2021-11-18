@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale32)  [Next](tale34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale32)  [Next](tale34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ and had never before come across a
 
 [![THE INDIAN SHOWS OFF THE ENCHANTED HORSE BEFORE THE KING OF
 PERSIA](tn/35900.jpg)  
-Click to enlarge](img/35900.jpg)  
+Click to enlarge](img/35900.jpg.md)  
 THE INDIAN SHOWS OFF THE ENCHANTED HORSE BEFORE THE KING OF PERSIA  
 
 <span id="page_360">p. 360</span> <span id="page_361">p. 361</span>
@@ -292,7 +292,7 @@ Then she placed in her hair the largest and most
 
 [![PRINCE FIROUZ SCHAH IN THE CHAMBER OF THE PRINCESSES OF
 BENGAL](tn/36700.jpg)  
-Click to enlarge](img/36700.jpg)  
+Click to enlarge](img/36700.jpg.md)  
 PRINCE FIROUZ SCHAH IN THE CHAMBER OF THE PRINCESSES OF BENGAL  
 
 <span id="page_368">p. 368</span> <span id="page_369">p. 369</span>
@@ -523,7 +523,7 @@ her to rest, while he informed
 
 [![THE PRINCE AND THE PRINCESS ARRIVE AT THE CAPITAL OF PERSIA ON THE
 ENCHANTED HORSE](tn/37500.jpg)  
-Click to enlarge](img/37500.jpg)  
+Click to enlarge](img/37500.jpg.md)  
 THE PRINCE AND THE PRINCESS ARRIVE AT THE CAPITAL OF PERSIA ON THE
 ENCHANTED HORSE  
 
@@ -688,7 +688,7 @@ other instruments calculated to fill the
 
 [![THE SULTAN OF CASHMERE RESCUES THE PRINCESS OF BENGAL FROM THE
 INDIAN](tn/38100.jpg)  
-Click to enlarge](img/38100.jpg)  
+Click to enlarge](img/38100.jpg.md)  
 THE SULTAN OF CASHMERE RESCUES THE PRINCESS OF BENGAL FROM THE INDIAN  
 
 heart with joy. The Princess of Bengal was early awakened by the noise,
@@ -885,7 +885,7 @@ they were seated, the
 
 [![THE PRINCE OF PERSIA AND THE PRINCESS OF BENGAL ESCAPE FROM THE
 SULTAN OF CASHMERE](tn/38700.jpg)  
-Click to enlarge](img/38700.jpg)  
+Click to enlarge](img/38700.jpg.md)  
 THE PRINCE OF PERSIA AND THE PRINCESS OF BENGAL ESCAPE FROM THE SULTAN
 OF CASHMERE  
 
@@ -920,4 +920,4 @@ the alliance between the two countries, which he heartily gave.
 ------------------------------------------------------------------------
 
 [Next: The Story of Two Sisters Who Were Jealous of Their Younger
-Sister](tale34)
+Sister](tale34.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma08)  [Next](fmma10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma08)  [Next](fmma10.md) 
 
 ------------------------------------------------------------------------
 
@@ -262,4 +262,4 @@ of Childeric and grandfather of Clovis.
 
 ------------------------------------------------------------------------
 
-[Next: Justinian The Great. Emperor From 527-565 A.D.](fmma10)
+[Next: Justinian The Great. Emperor From 527-565 A.D.](fmma10.md)

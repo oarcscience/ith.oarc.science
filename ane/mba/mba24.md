@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba23)  [Next](mba25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba23)  [Next](mba25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -73,7 +73,7 @@ also observed among the Hittites. When Hattusil II gave his daughter in
 marriage to Putakhi, king of the Amorites, he inserted a clause in the
 treaty of alliance "to the effect that the sovereignty over the Amorite
 should belong to the son and descendants of his daughter for
-evermore". <span id="fr_465"></span>[1](#fn_463)
+evermore". <span id="fr_465"></span>[1](#fn_463.md)
 
 As queen or queen-mother, Sammu-rammat occupied as prominent a position
 in Assyria as did Queen Tiy of Egypt during the lifetime of her husband,
@@ -102,7 +102,7 @@ only Assyrian royal lady, to be referred to on equal terms with her
 royal husband in official inscriptions. In a dedication to the god Nebo,
 that deity is reputed to be the protector of "the life of Adad-nirari,
 king of the land of Ashur, his lord, and the life of Sammu-rammat, she
-of the palace, his lady". <span id="fr_466"></span>[1](#fn_464)
+of the palace, his lady". <span id="fr_466"></span>[1](#fn_464.md)
 
 During the reign of Adad-nirari IV the Assyrian Court radiated
 Babylonian culture and traditions. The king not only recorded his
@@ -220,7 +220,7 @@ monarch of the Middle Empire. The inscriptions of
 NEBO&lt;br&gt; Dedicated by Adad-nirari IV, and the Queen,
 Sammu-rammat&lt;br&gt; (&lt;i&gt;British Museum&lt;/i&gt;)&lt;br&gt;
 Photo. Mansell](tn/42200.jpg)  
-Click to enlarge](img/42200.jpg)  
+Click to enlarge](img/42200.jpg.md)  
 STATUE OF NEBO  
 Dedicated by Adad-nirari IV, and the Queen, Sammu-rammat  
 (*British Museum*)  
@@ -245,7 +245,7 @@ The legends of Semiramis indicate that Sammu-rammat was associated like
 Queen Tiy with the revival of mother worship. As we have said, she went
 down to tradition as the daughter of the fish goddess, Derceto. Pliny
 identified that deity with Atargatis of Hierapolis. <span
-id="fr_467"></span>[1](#fn_465)
+id="fr_467"></span>[1](#fn_465.md)
 
 In Babylonia the fish goddess was Nina, a developed form of Damkina,
 spouse of Ea of Eridu. In the inscription on the Nebo statue, that god
@@ -269,7 +269,7 @@ sage discovered
 
 the child and adopted her. "Because", he said, "she was surrounded by
 *Shakuntas* (birds), therefore hath she been named by me *Shakuntala*
-(bird protected)." <span id="fr_468"></span>[1](#fn_466)
+(bird protected)." <span id="fr_468"></span>[1](#fn_466.md)
 
 Semiramis was similarly deserted at birth by her Celestial mother. She
 was protected by doves, and her Assyrian name, Sammu-rammat, is believed
@@ -278,7 +278,7 @@ loveth her". Simmas, the chief of royal shepherds, found the child and
 adopted her. She was of great beauty like Shakuntala, the maiden of
 "perfect symmetry", "sweet smiles", and "faultless features", with whom
 King Dushyanta fell in love and married in Gandharva fashion. <span
-id="fr_469"></span>[2](#fn_467)
+id="fr_469"></span>[2](#fn_467.md)
 
 Semiramis became the wife of Onnes, governor of Nineveh, and one of the
 generals of its alleged founder, King Ninus. She accompanied her husband
@@ -303,7 +303,7 @@ was yielded up for five
 <span id="img_42400"></span> <span align="CENTER"> [![THE SHEPHERD FINDS
 THE BABE SEMIRAMIS&lt;br&gt; &lt;i&gt;From the Painting by E.
 Wallcousins&lt;/i&gt;](tn/42400.jpg)  
-Click to enlarge](img/42400.jpg)  
+Click to enlarge](img/42400.jpg.md)  
 THE SHEPHERD FINDS THE BABE SEMIRAMIS  
 *From the Painting by E. Wallcousins*  
 </span>
@@ -318,9 +318,9 @@ mounds of Semiramis which were pointed out all over Western Asia were
 said to have been the graves of her lovers whom she buried alive. . . .
 This tradition is one of the surest indications of the identity of the
 mythical Semiramis with the Babylonian goddess Ishtar or Astarte." <span
-id="fr_470"></span>[1](#fn_468) As we have seen, Ishtar and other mother
+id="fr_470"></span>[1](#fn_468.md) As we have seen, Ishtar and other mother
 goddesses had many lovers whom they deserted like La Belle Dame sans
-Merci (pp. [174](mba14.htm#page_174)-5).
+Merci (pp. [174](mba14.htm#page_174)-5.md).
 
 As Queen of Assyria, Semiramis was said to have cut roads through
 mountainous districts and erected many buildings. According to one
@@ -330,22 +330,22 @@ generations before the later princess (Nitocris). . . . She raised
 certain embankments, well worthy of inspection, in the plain near
 Babylon, to control the river (Euphrates), which, till then, used to
 overflow and flood the whole country round about." <span
-id="fr_471"></span>[2](#fn_469) Lucian, who associates the famous queen
+id="fr_471"></span>[2](#fn_469.md) Lucian, who associates the famous queen
 with "mighty works in Asia", states that she was reputed by some to be
 the builder of the ancient temple of Aphrodite in the Libanus, although
 others credited it to Cinyras, or Deukalion. <span
-id="fr_472"></span>[3](#fn_470) Several Median places bear her name, and
+id="fr_472"></span>[3](#fn_470.md) Several Median places bear her name, and
 according to ancient Armenian tradition she was the founder of Van,
 which was formerly called "Shamiramagerd". Strabo tells that
 unidentified mountains in Western Asia were named after Semiramis. <span
-id="fr_473"></span>[4](#fn_471) Indeed, many of the great works in the
+id="fr_473"></span>[4](#fn_471.md) Indeed, many of the great works in the
 Tigro-Euphrates valley, not excepting the famous inscription of Darius,
 were credited to the legendary queen of Babylonia and
 
 <span id="page_426">p. 426</span>
 
 <span class="contnote">\[paragraph continues\]</span> Assyria. <span
-id="fr_474"></span>[1](#fn_472) She was the rival in tradition of the
+id="fr_474"></span>[1](#fn_472.md) She was the rival in tradition of the
 famous Sesostris of Egypt as a ruler, builder, and conqueror.
 
 All the military expeditions of Semiramis were attended with success,
@@ -356,12 +356,12 @@ appears to be that she was turned into a dove and took flight to heaven
 in that form. After her death she was worshipped as a dove goddess like
 "Our Lady of Trees and Doves" in Cyprus, whose shrine at old Paphos was
 founded, Herodotus says, by Phœnician colonists from Askalon. <span
-id="fr_475"></span>[2](#fn_473) Fish and doves were sacred to Derceto
-(Attar), <span id="fr_476"></span>[3](#fn_474) who had a mermaid form.
+id="fr_475"></span>[2](#fn_473.md) Fish and doves were sacred to Derceto
+(Attar), <span id="fr_476"></span>[3](#fn_474.md) who had a mermaid form.
 "I have beheld", says Lucian, "the image of Derceto in Phoenicia. A
 marvellous spectacle it is. One half is a woman, but the part which
 extends from thighs to feet terminates with the tail of a fish." <span
-id="fr_477"></span>[4](#fn_475)
+id="fr_477"></span>[4](#fn_475.md)
 
 Derceto was supposed to have been a woman who threw herself in despair
 into a lake. After death she was adored as a goddess and her worshippers
@@ -369,7 +369,7 @@ abstained from eating fish, except sacrificially. A golden image of a
 fish was suspended in her temple. Atargatis, who was identical with
 Derceto, was reputed in another form of the legend to have been born of
 an egg which the sacred fishes found in the Euphrates and thrust ashore
-([p. 28](mba08.htm#page_28)). The Greek Aphrodite was born of the froth
+([p. 28](mba08.htm#page_28).md). The Greek Aphrodite was born of the froth
 of the sea and floated in a sea-shell. According to Hesiod,
 
 <div style="margin-left: 32px">
@@ -392,7 +392,7 @@ She rose, amid the multitude of waves. *Elton's translation*.</span>
 
 The animals sacred to Aphrodite included the sparrow, the dove, the
 swan, the swallow, and the wryneck. <span
-id="fr_478"></span>[1](#fn_476) She presided over the month of April,
+id="fr_478"></span>[1](#fn_476.md) She presided over the month of April,
 and the myrtle, rose, poppy, and apple were sacred to her.
 
 Some writers connect Semiramis, in her character as a dove goddess, with
@@ -415,7 +415,7 @@ With wailings on the lyre my dwelling-place is surrendered to the
 stranger,  
 *The dove cots they wickedly seized, the doves they entrapped* . . .  
 The ravens he (Enlil) caused to fly. <span
-id="fr_479"></span>[1](#fn_477)</span>
+id="fr_479"></span>[1](#fn_477.md)</span>
 
 </div>
 
@@ -426,13 +426,13 @@ are of archaic pattern, "with the walls slightly inclining inwards (like
 many of the ancient Egyptian buildings)", and are "constructed upon the
 roofs of the huts with crude brick, pottery, and mud. . . . Each pair of
 pigeons occupies a separate (earthen) pot." <span
-id="fr_480"></span>[2](#fn_478) It may be that the dove bulked more
+id="fr_480"></span>[2](#fn_478.md) It may be that the dove bulked more
 prominently in domestic than in official religion, and had a special
 seasonal significance. Ishtar appears to have had a dove form. In the
 Gilgamesh epic she is said to have loved the "brilliant Allalu bird"
 (the "bright-coloured wood pigeon", according to Sayce), and to have
 afterwards wounded it by breaking its wings. <span
-id="fr_481"></span>[3](#fn_479) She also loved the lion and the horse,
+id="fr_481"></span>[3](#fn_479.md) She also loved the lion and the horse,
 and must therefore have assumed the forms of these animals. The goddess
 Bau, "she whose city is destroyed", laments in a Sumerian psalm:
 
@@ -468,15 +468,15 @@ towards it. If the ravens were first the body was to be burned, but if
 the doves were first it was to receive Christian burial. The ravens were
 foremost, but in their hurry flew beyond their mark. So the devil, who
 had long been preparing a bed for Michael, was disappointed." <span
-id="fr_482"></span>[1](#fn_480)
+id="fr_482"></span>[1](#fn_480.md)
 
 In Indian mythology Purusha, the chaos giant, first divided himself.
 "Hence were husband and wife produced." This couple then assumed various
 animal forms and thus "created every living pair whatsoever down to the
-ants". <span id="fr_483"></span>[2](#fn_481) Goddesses and fairies in
+ants". <span id="fr_483"></span>[2](#fn_481.md) Goddesses and fairies in
 the folk tales of many countries sometimes assume bird forms. The
 "Fates" appear to Damayanti in the Nala story as swans which carry love
-messages. <span id="fr_484"></span>[3](#fn_482)
+messages. <span id="fr_484"></span>[3](#fn_482.md)
 
 According to Aryo-Indian belief, birds were "blessed with fecundity".
 The Babylonian Etana eagle and the Egyptian vulture, as has been
@@ -508,14 +508,14 @@ Crete, "typifying", according to one view, "her connection with air and
 earth. Although her character was distinctly beneficent and pacific, yet
 as Lady of the Wild Creatures she had a more fearful aspect, one that
 was often depicted on carved gems, where lions are her
-companions." <span id="fr_485"></span>[1](#fn_483) Discussing the
+companions." <span id="fr_485"></span>[1](#fn_483.md) Discussing the
 attributes and symbols of this mother goddess, Professor Burrows says:
 "As the serpent, coming from the crevices of the earth, shows the
 possession of the tree or pillar from the underworld, so the dove, with
 which this goddess is also associated, shows its possession from the
-world of the sky". <span id="fr_486"></span>[2](#fn_484) Professor
+world of the sky". <span id="fr_486"></span>[2](#fn_484.md) Professor
 Robertson Smith has demonstrated that the dove was of great sanctity
-among the Semites. <span id="fr_487"></span>[3](#fn_485) It figures in
+among the Semites. <span id="fr_487"></span>[3](#fn_485.md) It figures in
 Hittite sculptures and was probably connected with the goddess cult in
 Asia
 
@@ -529,7 +529,7 @@ Egypt had no dove goddess, the bird was addressed by lovers--
 <span class="small">I hear thy voice, O turtle dove--  
   he dawn is all aglow  
 Weary am I with love, with love,  
-  Oh, whither shall I go? <span id="fr_488"></span>[1](#fn_486)</span>
+  Oh, whither shall I go? <span id="fr_488"></span>[1](#fn_486.md)</span>
 
 </div>
 
@@ -547,14 +547,14 @@ which contained pigeon feathers: "If anybody be sick and lye a dying, if
 they lye upon pigeon feathers they will be languishing and never die,
 but be in pain and torment," wrote a correspondent. A similar
 superstition about the feathers of different varieties of wild
-fowl <span id="fr_489"></span>[2](#fn_487) obtained in other districts.
+fowl <span id="fr_489"></span>[2](#fn_487.md) obtained in other districts.
 Brand traced this interesting traditional belief in Yorkshire,
 Lancashire, Derbyshire, and some of the Welsh and Irish counties. <span
-id="fr_490"></span>[3](#fn_488) It still lingers in parts of the
+id="fr_490"></span>[3](#fn_488.md) It still lingers in parts of the
 Scottish Highlands. In the old ballad of "The Bloody Gardener" the white
 dove appears to a young man as the soul of his lady love who was
 murdered by his mother. He first saw the bird perched on his breast and
-then "sitting on a myrtle tree". <span id="fr_491"></span>[4](#fn_489)
+then "sitting on a myrtle tree". <span id="fr_491"></span>[4](#fn_489.md)
 
 The dove was not only a symbol of Semiramis, but
 
@@ -588,7 +588,7 @@ of their forefathers lived in certain species of animals, which
 accordingly they held sacred and would not injure. For this reason one
 man would not kill snakes, another would not harm pigeons, and so on;
 but everyone was quite ready to kill and eat the sacred animals of his
-neighbours." <span id="fr_492"></span>[1](#fn_490) That the Egyptians
+neighbours." <span id="fr_492"></span>[1](#fn_490.md) That the Egyptians
 had similar customs is suggested by what Herodotus tells us regarding
 their sacred animals: "Those who live near Thebes and the lake Mœris
 hold the crocodile in religious veneration. . . . Those who live in or
@@ -600,14 +600,14 @@ the
 
 district of Papremis, but in no other part of Egypt. . . . They roast
 and boil . . . birds and fishes . . . excepting those which are
-preserved for sacred purposes." <span id="fr_493"></span>[1](#fn_491)
+preserved for sacred purposes." <span id="fr_493"></span>[1](#fn_491.md)
 Totemic animals controlled the destinies of tribes and families. "Grose
 tells us", says Brand, "that, besides general notices of death, many
 families have particular warnings or notices: some by the appearance of
 a bird, and others by the figure of a tall woman, dressed all in white.
 . . . Pennant says that many of the great families in Scotland had their
 demon or genius, who gave them monitions of future events." <span
-id="fr_494"></span>[2](#fn_492) Members of tribes which venerated the
+id="fr_494"></span>[2](#fn_492.md) Members of tribes which venerated the
 pigeon therefore invoked it like the Egyptian love poet and drew omens
 from its notes, or saw one appearing as the soul of the dead like the
 lover in the ballad of "The Bloody Gardener". They refrained also from
@@ -636,7 +636,7 @@ influence filtered westward through Phœnician and Hittite channels. In
 another connection Sir Arthur Evans shows that the resemblance between
 Cretan and early Semitic beliefs "points rather to some remote common
 element, the nature of which is at present obscure, than to any definite
-borrowing by one side or another". <span id="fr_495"></span>[1](#fn_493)
+borrowing by one side or another". <span id="fr_495"></span>[1](#fn_493.md)
 
 From the evidence afforded by the Semiramis legends and the inscriptions
 of the latter half of the Assyrian Middle Empire period, it may be
@@ -678,9 +678,9 @@ protects the fields and brings the crops to maturity." Nebo links with
 Merodach (Marduk), who is sometimes referred to as his father. Jastrow
 assumes that the close partnership between Nebo and Merodach "had as a
 consequence a transfer of some of the father Marduk's attributes as a
-solar deity to Nebo, <span id="fr_496"></span>[1](#fn_494) his son, just
+solar deity to Nebo, <span id="fr_496"></span>[1](#fn_494.md) his son, just
 as Ea passed his traits on to his son, Marduk". <span
-id="fr_497"></span>[2](#fn_495)
+id="fr_497"></span>[2](#fn_495.md)
 
 As the "recorder" or "scribe" among the gods, Nebo resembles the
 Egyptian god Thoth, who links with Khonsu, the lunar and spring sun god
@@ -726,7 +726,7 @@ In the evil of the eclipse of the moon, etc.</span>
 
 Bau is also prayed in a similar connection as "mighty lady that dwellest
 in the bright heavens", i.e. "Queen of heaven". <span
-id="fr_498"></span>[1](#fn_496)
+id="fr_498"></span>[1](#fn_496.md)
 
 Tashmit, whose name signifies "Obedience", according to Jastrow, or
 "Hearing", according to Sayce, carried the prayers of worshippers to
@@ -792,13 +792,13 @@ kingdoms of Israel and Judah, was completely overpowered by Adad-nirari.
 The old king, Hazael, died when Assyria's power was being strengthened
 and increased along his frontiers. He was succeeded by his son Mari, who
 is believed to be identical with the Biblical Ben-Hadad III. <span
-id="fr_499"></span>[1](#fn_497)
+id="fr_499"></span>[1](#fn_497.md)
 
 Shortly after this new monarch came to the throne, Adad-nirari IV led a
 great army against him. The Syrian ruler appears to have been taken by
 surprise; probably his kingdom was suffering from the three defeats
 which had been previously administered by the revolting
-Israelites. <span id="fr_500"></span>[2](#fn_498) At any rate Mari was
+Israelites. <span id="fr_500"></span>[2](#fn_498.md) At any rate Mari was
 unable to gather together an army of allies to resist the Assyrian
 advance, and took
 
@@ -816,7 +816,7 @@ to the conquest of Damascus by the Assyrian king is followed by another
 which throws light on the religious phenomena of the period:
 "Nevertheless they departed not from the sins of the house of Jeroboam,
 who made Israel sin, but walked therein: and there remained the grove
-also in Samaria". <span id="fr_501"></span>[1](#fn_499) Ashtoreth and
+also in Samaria". <span id="fr_501"></span>[1](#fn_499.md) Ashtoreth and
 her golden calf continued to be venerated, and doves were sacrificed to
 the local Adonis.
 
@@ -839,7 +839,7 @@ kingdom of Urartu in the north, he appears to have
 done no more than limit its southern expansion for a time.
 
 The Urarti were, like the Mitanni, a military aristocracy <span
-id="fr_502"></span>[1](#fn_500) who welded together by conquest the
+id="fr_502"></span>[1](#fn_500.md) who welded together by conquest the
 tribes of the eastern and northern Highlands which several Assyrian
 monarchs included in their Empire. They acquired the elements of
 Assyrian culture, and used the Assyrian script for their own language.
@@ -875,7 +875,7 @@ north-west he added a considerable area to his kingdom, which became as
 large as Assyria.
 
 Menuas's capital was the city of Turushpa or Dhuspas (Van), which was
-called Khaldinas <span id="fr_503"></span>[1](#fn_501) after the
+called Khaldinas <span id="fr_503"></span>[1](#fn_501.md) after the
 national god. For a century it was the seat of Urartian administration.
 The buildings erected there by Menuas and his successors became
 associated in after-time with the traditions of Semiramis, who, as Queen
@@ -967,45 +967,45 @@ esteem, although an unsuitable ruler for a predatory State.
 
 ### Footnotes
 
-<span id="fn_463"></span>[418:1](mba24.htm#fr_465) *The Land of the
+<span id="fn_463"></span>[418:1](mba24.htm#fr_465.md) *The Land of the
 Hittites*, J. Garstang, p. 354.
 
-<span id="fn_464"></span>[419:1](mba24.htm#fr_466) *The Old Testament in
+<span id="fn_464"></span>[419:1](mba24.htm#fr_466.md) *The Old Testament in
 the Light of the Historical Records and Legends of Assyria and
 Babylonia*, T. G. Pinches, p. 343.
 
-<span id="fn_465"></span>[423:1](mba24.htm#fr_467) *Nat. Hist.*, v, 19
+<span id="fn_465"></span>[423:1](mba24.htm#fr_467.md) *Nat. Hist.*, v, 19
 and *Strabo*, xvi, 1-27.
 
-<span id="fn_466"></span>[424:1](mba24.htm#fr_468) The *Mahàbhàrata*:
+<span id="fn_466"></span>[424:1](mba24.htm#fr_468.md) The *Mahàbhàrata*:
 *Adi Parva*, sections lxxi and lxxii (Roy's translation, pp. 213-216),
 and *Indian Myth and Legend*, pp. 157 *et seq*.
 
-<span id="fn_467"></span>[424:2](mba24.htm#fr_469) That is, without
+<span id="fn_467"></span>[424:2](mba24.htm#fr_469.md) That is, without
 ceremony but with consent.
 
-<span id="fn_468"></span>[425:1](mba24.htm#fr_470) *The Golden Bough*
+<span id="fn_468"></span>[425:1](mba24.htm#fr_470.md) *The Golden Bough*
 (*The Scapegoat*), pp. 369 *et seq*. (3rd edition). Perhaps the mythic
 Semiramis and legends connected were in existence long before the
 historic Sammu-rammat, though the two got mixed up.
 
-<span id="fn_469"></span>[425:2](mba24.htm#fr_471) *Herodotus*, i, 184.
+<span id="fn_469"></span>[425:2](mba24.htm#fr_471.md) *Herodotus*, i, 184.
 
-<span id="fn_470"></span>[425:3](mba24.htm#fr_472) *De dea Syria*, 9-14.
+<span id="fn_470"></span>[425:3](mba24.htm#fr_472.md) *De dea Syria*, 9-14.
 
-<span id="fn_471"></span>[425:4](mba24.htm#fr_473) *Strabo*, xvi, 1, 2.
+<span id="fn_471"></span>[425:4](mba24.htm#fr_473.md) *Strabo*, xvi, 1, 2.
 
-<span id="fn_472"></span>[426:1](mba24.htm#fr_474) *Diodorus Siculus*,
+<span id="fn_472"></span>[426:1](mba24.htm#fr_474.md) *Diodorus Siculus*,
 ii, 3.
 
-<span id="fn_473"></span>[426:2](mba24.htm#fr_475) *Herodotus*, 105.
+<span id="fn_473"></span>[426:2](mba24.htm#fr_475.md) *Herodotus*, 105.
 
-<span id="fn_474"></span>[426:3](mba24.htm#fr_476) *Diodorus Siculus*,
+<span id="fn_474"></span>[426:3](mba24.htm#fr_476.md) *Diodorus Siculus*,
 ii, 4.
 
-<span id="fn_475"></span>[426:4](mba24.htm#fr_477) *De dea Syria*, 14.
+<span id="fn_475"></span>[426:4](mba24.htm#fr_477.md) *De dea Syria*, 14.
 
-<span id="fn_476"></span>[427:1](mba24.htm#fr_478) This little bird
+<span id="fn_476"></span>[427:1](mba24.htm#fr_478.md) This little bird
 allied to the woodpecker twists its neck strangely when alarmed. It may
 have symbolized the coquettishness of fair maidens. As love goddesses
 were "Fates", however, the wryneck may have been connected with the
@@ -1024,86 +1024,86 @@ The corpse began to thraw.</span>
 
 </div>
 
-<span id="fn_477"></span>[428:1](mba24.htm#fr_479) Langdon's *Sumerian
+<span id="fn_477"></span>[428:1](mba24.htm#fr_479.md) Langdon's *Sumerian
 and Babylonian Psalms*, pp. 133, 135.
 
-<span id="fn_478"></span>[428:2](mba24.htm#fr_480) Introduction to
+<span id="fn_478"></span>[428:2](mba24.htm#fr_480.md) Introduction to
 Lane's *Manners and Customs of the Modern Egyptians*.
 
-<span id="fn_479"></span>[428:3](mba24.htm#fr_481) Tammuz is referred to
+<span id="fn_479"></span>[428:3](mba24.htm#fr_481.md) Tammuz is referred to
 in a Sumerian psalm as "him of the dovelike voice, yea, dovelike". He
 may have had a dove form. Angus, the Celtic god of spring, love, and
 fertility, had a swan form; he also had his seasonal period of sleep
 like Tammuz.
 
-<span id="fn_480"></span>[429:1](mba24.htm#fr_482) Campbell's
+<span id="fn_480"></span>[429:1](mba24.htm#fr_482.md) Campbell's
 *Superstitions of the Scottish Highlands*, p. 288.
 
-<span id="fn_481"></span>[429:2](mba24.htm#fr_483) *Indian Myth and
+<span id="fn_481"></span>[429:2](mba24.htm#fr_483.md) *Indian Myth and
 Legend*, p. 95.
 
-<span id="fn_482"></span>[429:3](mba24.htm#fr_484) *Ibid*., pp. 329-30.
+<span id="fn_482"></span>[429:3](mba24.htm#fr_484.md) *Ibid*., pp. 329-30.
 
-<span id="fn_483"></span>[430:1](mba24.htm#fr_485) *Crete, the
+<span id="fn_483"></span>[430:1](mba24.htm#fr_485.md) *Crete, the
 Forerunner of Greece*, C. H. and H. B. Hawes, p. 139.
 
-<span id="fn_484"></span>[430:2](mba24.htm#fr_486) *The Discoveries in
+<span id="fn_484"></span>[430:2](mba24.htm#fr_486.md) *The Discoveries in
 Crete*, pp. 137-8.
 
-<span id="fn_485"></span>[430:3](mba24.htm#fr_487) *Religion of the
+<span id="fn_485"></span>[430:3](mba24.htm#fr_487.md) *Religion of the
 Semites*, p. 294.
 
-<span id="fn_486"></span>[431:1](mba24.htm#fr_488) *Egyptian Myth and
+<span id="fn_486"></span>[431:1](mba24.htm#fr_488.md) *Egyptian Myth and
 Legend*, p. 59.
 
-<span id="fn_487"></span>[431:2](mba24.htm#fr_489) Including the goose,
+<span id="fn_487"></span>[431:2](mba24.htm#fr_489.md) Including the goose,
 one of the forms of the harvest goddess.
 
-<span id="fn_488"></span>[431:3](mba24.htm#fr_490) *Brand's Popular
+<span id="fn_488"></span>[431:3](mba24.htm#fr_490.md) *Brand's Popular
 Antiquities*, vol. ii, 230-1 and vol. iii, 232 (1899 ed.).
 
-<span id="fn_489"></span>[431:4](mba24.htm#fr_491) *Ibid*., vol. iii,
+<span id="fn_489"></span>[431:4](mba24.htm#fr_491.md) *Ibid*., vol. iii,
 217. The myrtle was used for love charms.
 
-<span id="fn_490"></span>[432:1](mba24.htm#fr_492) *The Golden Bough*
+<span id="fn_490"></span>[432:1](mba24.htm#fr_492.md) *The Golden Bough*
 (*Spirits of the Corn and of the Wild*), vol. ii, p. 293 (3rd ed.).
 
-<span id="fn_491"></span>[433:1](mba24.htm#fr_493) *Herodotus*, ii, 69,
+<span id="fn_491"></span>[433:1](mba24.htm#fr_493.md) *Herodotus*, ii, 69,
 71, and 77.
 
-<span id="fn_492"></span>[433:2](mba24.htm#fr_494) *Brand's Popular
+<span id="fn_492"></span>[433:2](mba24.htm#fr_494.md) *Brand's Popular
 Antiquities*, vol. iii, p. 227.
 
-<span id="fn_493"></span>[434:1](mba24.htm#fr_495) Cited by Professor
+<span id="fn_493"></span>[434:1](mba24.htm#fr_495.md) Cited by Professor
 Burrows in *The Discoveries in Crete*, p. 134.
 
-<span id="fn_494"></span>[435:1](mba24.htm#fr_496) Like the Egyptian
+<span id="fn_494"></span>[435:1](mba24.htm#fr_496.md) Like the Egyptian
 Horus, Nebo had many phases: he was connected with the sun and moon, the
 planet Mercury, water and crops; he was young and yet old--a mystical
 god.
 
-<span id="fn_495"></span>[435:2](mba24.htm#fr_497) *Aspects of Religious
+<span id="fn_495"></span>[435:2](mba24.htm#fr_497.md) *Aspects of Religious
 Belief and Practice in Babylonia and Assyria*, pp. 94 *et seq*.
 
-<span id="fn_496"></span>[436:1](mba24.htm#fr_498) *Babylonian Magic and
+<span id="fn_496"></span>[436:1](mba24.htm#fr_498.md) *Babylonian Magic and
 Sorcery*, L. W. King, pp. 6-7 and 26-7.
 
-<span id="fn_497"></span>[438:1](mba24.htm#fr_499) *2 Kings*, xiii, 3.
+<span id="fn_497"></span>[438:1](mba24.htm#fr_499.md) *2 Kings*, xiii, 3.
 
-<span id="fn_498"></span>[438:2](mba24.htm#fr_500) *2 Kings*, xiii,
+<span id="fn_498"></span>[438:2](mba24.htm#fr_500.md) *2 Kings*, xiii,
 14-25.
 
-<span id="fn_499"></span>[439:1](mba24.htm#fr_501) *2 Kings*, xiii, 5,
+<span id="fn_499"></span>[439:1](mba24.htm#fr_501.md) *2 Kings*, xiii, 5,
 6.
 
-<span id="fn_500"></span>[440:1](mba24.htm#fr_502) The masses of the
+<span id="fn_500"></span>[440:1](mba24.htm#fr_502.md) The masses of the
 Urartian folk appear to have been of Hatti stock--"broad heads", like
 their descendants, the modern Armenians.
 
-<span id="fn_501"></span>[441:1](mba24.htm#fr_503) It is uncertain
+<span id="fn_501"></span>[441:1](mba24.htm#fr_503.md) It is uncertain
 whether this city or Kullani in north Syria is the Biblical Calno.
 *Isaiah*, x, 9.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Assyria's Age of Splendour](mba25)
+[Next: Chapter XIX. Assyria's Age of Splendour](mba25.md)

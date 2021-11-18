@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass10)  [Next](nass12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass10)  [Next](nass12.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ Then the boys came back. That is the end.
 
 ------------------------------------------------------------------------
 
-[Next: The Sealion Hunters](nass12)
+[Next: The Sealion Hunters](nass12.md)

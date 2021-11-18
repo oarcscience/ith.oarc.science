@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb24)  [Next](spb26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb24)  [Next](spb26.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 ### MEDITATION AND BLESSINGS ON TAKING THE LULAB.
 
-*On Tabernacles, previous to Hallel, [p. 313](spb26.htm#page_313), being
+*On Tabernacles, previous to Hallel, [p. 313](spb26.htm#page_313.md), being
 said, the Lulab is taken, and the following Meditation and Blessings are
 read:—*
 
@@ -52,6 +52,6 @@ Day*.
 
 ------------------------------------------------------------------------
 
-[Next: Hallel](spb26)
+[Next: Hallel](spb26.md)
 
 </div>

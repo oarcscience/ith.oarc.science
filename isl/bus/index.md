@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,8 +21,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](bus00)    [Page
-Index](pageidx)    [Text \[Zipped\]](bus.txt.gz)
+[Contents](#contents)    [Start Reading](bus00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](bus.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,25 +43,25 @@ traveled widely, through regions of what is today Syria, Turkey, Egypt
 and Iraq. Vignettes of gritty caravan and street scenes give life to his
 tales. In old age he returned to Shiraz, and composed his two best-known
 works, the poetic Bustan, or Orchard (in 1257), and the prose
-[Gulistan](../gulistan.txt), the Rose Garden (in 1258). He died in 1283
+[Gulistan](../gulistan.txt), the Rose Garden (in 1258.md). He died in 1283
 or possibly 1291.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](bus00)  
-[Contents](bus01)  
-[Editorial Note](bus02)  
-[Introduction](bus03)  
-[Prologue](bus04)  
+<span id="contents"></span> [Title Page](bus00.md)  
+[Contents](bus01.md)  
+[Editorial Note](bus02.md)  
+[Introduction](bus03.md)  
+[Prologue](bus04.md)  
 [Chapter I. Concerning Justice, Counsel, and the Administration of
-Government](bus05)  
-[Chapter II. Concerning Benevolence](bus06)  
-[Chapter III. Concerning Love](bus07)  
-[Chapter IV. Concerning Humility](bus08)  
-[Chapter V. Concerning Resignation](bus09)  
-[Chapter VI. Concerning Contentment](bus10)  
-[Chapter VII. Concerning Education](bus11)  
-[Chapter VIII. Concerning Gratitude](bus12)  
-[Chapter IX. Concerning Repentance](bus13)  
-[Chapter X. Concerning Prayer](bus14)  
-[Notes](bus15)  
+Government](bus05.md)  
+[Chapter II. Concerning Benevolence](bus06.md)  
+[Chapter III. Concerning Love](bus07.md)  
+[Chapter IV. Concerning Humility](bus08.md)  
+[Chapter V. Concerning Resignation](bus09.md)  
+[Chapter VI. Concerning Contentment](bus10.md)  
+[Chapter VII. Concerning Education](bus11.md)  
+[Chapter VIII. Concerning Gratitude](bus12.md)  
+[Chapter IX. Concerning Repentance](bus13.md)  
+[Chapter X. Concerning Prayer](bus14.md)  
+[Notes](bus15.md)  

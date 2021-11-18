@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi181)  [Next](mtsi183) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi181)  [Next](mtsi183.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ there. By and by they saw the Choctaw gather grass, tie it in bundles
 and bring it in. They were frightened. "They are going to burn us to
 death," they said. "Let us run away." That night when the Choctaw were
 all asleep they went out and ran off. They came on in this
-direction. <span id="fr_47"></span>[1](#fn_47) They came on without
+direction. <span id="fr_47"></span>[1](#fn_47.md) They came on without
 stopping. They came on day after day. After they had traveled for a long
 time they crept into a hollow log and lay down. They shut up the opening
 completely with punk. While they were lying
@@ -41,10 +41,10 @@ went on in that way until they reached home.
 
 ### Footnotes
 
-<span id="fn_47"></span>[155:1](mtsi182.htm#fr_47) This event could have
+<span id="fn_47"></span>[155:1](mtsi182.htm#fr_47.md) This event could have
 taken place only in the old country and their course would have been
 eastward.
 
 ------------------------------------------------------------------------
 
-[Next: 47. The Alabama and Choctaw Wars](mtsi183)
+[Next: 47. The Alabama and Choctaw Wars](mtsi183.md)

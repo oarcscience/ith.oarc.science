@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe326)  [Next](prwe328) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe326)  [Next](prwe328.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ only, indeed, repetitions of oft-told tales.
 
 ------------------------------------------------------------------------
 
-[Next: Saint Gerennius](prwe328)
+[Next: Saint Gerennius](prwe328.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](more08)  [Next](more10) 
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](more08)  [Next](more10.md) 
 
 ------------------------------------------------------------------------
 
@@ -307,4 +307,4 @@ call for auxiliary troops to their assistance.
 
 ------------------------------------------------------------------------
 
-[Next: Of The Religions Of The Utopians](more10)
+[Next: Of The Religions Of The Utopians](more10.md)

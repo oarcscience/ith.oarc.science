@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou04)  [Next](hou06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou04)  [Next](hou06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ the Name Utah.</span></span>
     <span class="smallcaps">Half</span> a century passes, and we find
 United States fur hunters standing on the border of the Great Salt Lake,
 tasting its brackish waters, and wondering if it is an arm of the
-sea. <span id="fr_22"></span>[1](#fn_22)
+sea. <span id="fr_22"></span>[1](#fn_22.md)
 
 <span id="page_19">p. 19</span>
 
@@ -54,7 +54,7 @@ he found that it was salt. Then he returned and reported to his
 companions. All were interested to know if there emptied into this sheet
 other streams on which they might find beavers, and if there was an
 outlet; hence in the spring of 1826 four men explored the lake in skin
-boats. <span id="fr_23"></span>[2](#fn_23)
+boats. <span id="fr_23"></span>[2](#fn_23.md)
 
     During this memorable year of 1825, when Peter
 
@@ -77,18 +77,18 @@ would eventually reach St Louis, Mr Green, who gave his name to Green
 River, had been with Ashley the previous year; and now for three years
 after the establishing of Fort Ashley at Utah Lake, Green with his
 trappers occupied the country to the west and north. <span
-id="fr_24"></span>[3](#fn_24)
+id="fr_24"></span>[3](#fn_24.md)
 
 <span id="page_22">p. 22</span>
 
     From Great Salt Lake in August, 1826, Jedediah S. Smith sets out on
 a trapping and exploring tour with fifteen men. Proceeding southward he
 traverses Utah Lake, called for a time Ashley Lake, <span
-id="fr_25"></span>[4](#fn_25) and after ascending Ashley River, which,
+id="fr_25"></span>[4](#fn_25.md) and after ascending Ashley River, which,
 as he remarks, flows into the lake through the country of the
 Sam-patches, he bends his course to the west of south, passes over some
 mountains running south-east and northwest, and crosses a river which he
-calls Adams, <span id="fr_26"></span>[5](#fn_26) in
+calls Adams, <span id="fr_26"></span>[5](#fn_26.md) in
 
 <span id="page_23">p. 23</span>
 
@@ -96,7 +96,7 @@ honor of the president. After ten days' march, still in a south-westerly
 direction, through the country of the Pah Utes, he recrosses the same
 stream, and after two days comes to the junction of the Adams with what
 he calls the Seedskeeder, or Siskadee, river, <span
-id="fr_27"></span>[6](#fn_27) a stream full of shallows and rapids and
+id="fr_27"></span>[6](#fn_27.md) a stream full of shallows and rapids and
 flowing through a sterile country. Then he reaches a fertile wooded
 valley which belongs to the Amajabes, or Mojaves, where the party rests
 fifteen days, meeting with the kindest treatment from the natives, who
@@ -112,7 +112,7 @@ Smith. He did not possess a very estimable character, as, I am sorry to
 say, few of his class did in those days. The leaders of American fur
 companies, however, were exceptions, and in points of intelligence,
 integrity, and daring were in no wise behind their British
-brethren. <span id="fr_28"></span>[7](#fn_28)
+brethren. <span id="fr_28"></span>[7](#fn_28.md)
 
  
 
@@ -128,17 +128,17 @@ north-westerly, crossing the Colorado, Grande, Green, and Sevier rivers,
 and then turned south to the Rio Virgen, all the time trapping on the
 way. Then passing down by the Mojaves they reached Los Angeles in
 February 1831. George C. Yount and Louis Burton were of the party. <span
-id="fr_29"></span>[8](#fn_29)
+id="fr_29"></span>[8](#fn_29.md)
 
 <span id="img_02400"></span> <span align="CENTER"> [![GREEN RIVER
 COUNTRY.](tn/02400.jpg)  
-Click to enlarge](img/02400.jpg)  
+Click to enlarge](img/02400.jpg.md)  
 GREEN RIVER COUNTRY.  
 </span>
 
     During the winter of 1832-3 B. L. E Bonneville made his camp on
 Salmon River, and in July following was at the Green River
-rendezvous. <span id="fr_30"></span>[9](#fn_30) Among the several
+rendezvous. <span id="fr_30"></span>[9](#fn_30.md) Among the several
 trapping parties sent by him in various directions
 
 <span id="page_25">p. 25</span>
@@ -155,21 +155,21 @@ during the previous winter, and had come to the Green River rendezvous
 that season for the express purpose of joining some party for California
 or of forming such a party himself, having been informed that the
 climate there was milder than in the mountains where he had been. <span
-id="fr_31"></span>[10](#fn_31)
+id="fr_31"></span>[10](#fn_31.md)
 
     If the intention was, as Bonneville asserts, that this party should
 pass round the great lake, in their endeavor they presently found
 themselves in the midst of desolation, between wide sandy wastes and
 broad brackish waters; and to quench their thirst; they hastened
 westward where bright snowy mountains promised cooling streams. The
-Ogden River <span id="fr_32"></span>[11](#fn_32) region being to them so
+Ogden River <span id="fr_32"></span>[11](#fn_32.md) region being to them so
 new, and the thought of California so fascinating, they permitted
 themselves to stray from original intentions, and cross the Sierra
 Nevada to Monterey. All that is known of their doings before reaching
 the Snowy Range is given in my *History of Nevada*, and their exploits
 after reaching California are fully narrated in that part of this series
 devoted to the history of the latter country. <span
-id="fr_33"></span>[12](#fn_33)
+id="fr_33"></span>[12](#fn_33.md)
 
 <span id="page_26">p. 26</span>
 
@@ -182,7 +182,7 @@ smaller ones from the south and north. As both of these bodies of
 
 <span id="img_02600"></span> <span align="CENTER"> [![BONNEVILLE'S MAP,
 1837.](tn/02600.jpg)  
-Click to enlarge](img/02600.jpg)  
+Click to enlarge](img/02600.jpg.md)  
 BONNEVILLE'S MAP, 1837.  
 </span>
 
@@ -199,7 +199,7 @@ Spaniards; but more probably the information was obtained through
 natives who themselves had received it from other natives.
 
 <span id="img_02700"></span> <span align="CENTER"> [![](tn/02700.jpg)  
-Click to enlarge](img/02700.jpg)</span>
+Click to enlarge](img/02700.jpg.md)</span>
 
     In the map of William Rector, a surveyor in the service of the
 general government, Utah has open and easy communication with the sea by
@@ -207,7 +207,7 @@ way of the
 
 <span id="img_02701"></span> <span align="CENTER"> [![RECTOR'S MAP,
 1818.](tn/02701.jpg)  
-Click to enlarge](img/02701.jpg)  
+Click to enlarge](img/02701.jpg.md)  
 RECTOR'S MAP, 1818.  
 </span>
 
@@ -225,7 +225,7 @@ affording the best
 
 <span id="img_02800"></span> <span align="CENTER"> [![FINLEY'S MAP,
 1826.](tn/02800.jpg)  
-Click to enlarge](img/02800.jpg)  
+Click to enlarge](img/02800.jpg.md)  
 FINLEY'S MAP, 1826.  
 </span>
 
@@ -248,7 +248,7 @@ southward until within ten miles of Great Salt Lake, when they turned
 westward to find Ogden River. Of the latter party were J. Bartleson, C.
 M. Weber, Talbot H. Green, John Bidwell, Josiah Belden, and twenty-seven
 others. Their adventures while in Utah were not startling. Little was
-known of the Salt Lake region, <span id="fr_34"></span>[13](#fn_34)
+known of the Salt Lake region, <span id="fr_34"></span>[13](#fn_34.md)
 particularly of the country to the west of it.
 
     Mr Belden in his *Historical Statement*, which I number among my
@@ -284,7 +284,7 @@ this way to California as an emigrant road had hardly yet been thought
 of.
 
     "As we approached Salt Lake," writes Bidwell, <span
-id="fr_35"></span>[14](#fn_35) "we were misled quite often by the
+id="fr_35"></span>[14](#fn_35.md) "we were misled quite often by the
 mirage. The country too was obscured by smoke. The water in Bear River
 became too salt for use. The sage brush on the small hillocks of the
 almost level plain became so magnified as to look like trees. Hoping to
@@ -329,7 +329,7 @@ springs of good water and plenty of grass." This was the 27th, and here
 the company remained while two of their number again advanced and
 discovered a route to Ogden River. What befell them further on their way
 across to the mountains the reader will find in my *History of
-Nevada*. <span id="fr_36"></span>[15](#fn_36)
+Nevada*. <span id="fr_36"></span>[15](#fn_36.md)
 
 <span id="page_32">p. 32</span>
 
@@ -378,12 +378,12 @@ dark brown bank, ten or twenty feet in breadth, composed of the skins of
 worms, about the size of oats, while the rocky cliffs were whitened by
 incrustations of salt. Ascending to the highest point attainable they
 took a surrounding view, and called the place Disappointment
-Island, <span id="fr_37"></span>[16](#fn_37) because they had failed to
+Island, <span id="fr_37"></span>[16](#fn_37.md) because they had failed to
 find the fertile lands and game hoped for. Then they descended to the
 edge of the water, constructed lodges of drift-wood, built fires, and
 spent the night there, returning next day in a rough sea to their
 mainland camp. Thence they proceeded north to Bear River, and Fort Hall,
-and on to Oregon. <span id="fr_38"></span>[17](#fn_38) On his return by
+and on to Oregon. <span id="fr_38"></span>[17](#fn_38.md) On his return by
 way of Klamath and Pyramid lakes, Frémont crossed the Sierra to Sutter
 Fort, proceeded up the San Joaquin into Southern California, and taking
 the old Spanish trail to the Rio Vírgen followed the Wahsatch Mountains
@@ -400,7 +400,7 @@ Thence
 they passed on to Great Salt Lake, made camp near where Great Salt Lake
 City is situated, crossed to Antelope Island, and examined the southern
 portion of the lake. After this they passed by way of Pilot Peak into
-Nevada. <span id="fr_39"></span>[18](#fn_39)
+Nevada. <span id="fr_39"></span>[18](#fn_39.md)
 
     Of the six companies comprising the California immigration of 1845,
 numbering in all about one hundred and fifty, five touched either Utah
@@ -423,7 +423,7 @@ Cascade Mountains, and by way of Klamath and Goose lakes to the Humboldt
 River, and thence on to the region of the Great Salt Lake by Scott and
 the Applegates in 1846, is given in both the History of Oregon, and the
 History of Nevada, to which volumes of this series the reader is
-referred. <span id="fr_40"></span>[19](#fn_40)
+referred. <span id="fr_40"></span>[19](#fn_40.md)
 
 <span id="page_35">p. 35</span>
 
@@ -431,7 +431,7 @@ referred. <span id="fr_40"></span>[19](#fn_40)
 
 ### Footnotes
 
-<span id="fn_22"></span>[18:1](hou05.htm#fr_22) There are those who
+<span id="fn_22"></span>[18:1](hou05.htm#fr_22.md) There are those who
 soberly refer to the Baron la Hontan and his prodigious falsehoods of
 1689 for the first information of Great Salt Lake. Because among the
 many fabulous wonders reported he somewhere on the western side of the
@@ -462,7 +462,7 @@ great but unascertained extent.'
 
 <span id="img_01900"></span> <span align="CENTER"> [![MAP OF UTAH,
 1826.](tn/01900.jpg)  
-Click to enlarge](img/01900.jpg)  
+Click to enlarge](img/01900.jpg.md)  
 MAP OF UTAH, 1826.  
 </span>
 
@@ -494,7 +494,7 @@ Columbia, and reached the mouth of the Columbia on the first day of
 August, completing the journey from the Council Bluffs in seventy-nine
 days.'
 
-<span id="fn_23"></span>[20:2](hou05.htm#fr_23) This, upon the testimony
+<span id="fn_23"></span>[20:2](hou05.htm#fr_23.md) This, upon the testimony
 of Robert Campbell, *Pac. R. Rept*., xi. 35, who was there at the time
 'and found the party just returned from the exploration of the lake, and
 recollect their report that it was without any outlet.' Bridger's story
@@ -521,7 +521,7 @@ That no white man ever saw the Great Salt Lake before Bridger cannot be
 proven; but his being the only well authenticated account, history must
 rest there until it finds a better one.
 
-<span id="fn_24"></span>[21:3](hou05.htm#fr_24) See *Hist. Northwest
+<span id="fn_24"></span>[21:3](hou05.htm#fr_24.md) See *Hist. Northwest
 Coast*, ii. 447-8, this series. T. D. Bonner in his *Life and Adventures
 of James P. Beckwourth*, 71-3, gives what purports to be an account of
 Ashley's descent of Green River to Great Salt Lake on a certain occasion
@@ -585,7 +585,7 @@ With this party I made a very good bargain, as you will see when they
 arrive at our camp, having purchased all their peltry on very reasonable
 terms.'
 
-<span id="fn_25"></span>[22:4](hou05.htm#fr_25) Jedediah Smith in 1826
+<span id="fn_25"></span>[22:4](hou05.htm#fr_25.md) Jedediah Smith in 1826
 calls the lake Utah, and the stream flowing into it from the south
 Ashley River. 'Je traversai le petit lac Utâ, et je remontai le cours de
 l’Ashley qu’il recoit.' Extrait d'une lettre, in *Nouvelles An. des
@@ -599,37 +599,37 @@ Oration*, 313-14; *Tuthill's Hist. Cal*., 124-5; *Frignet, La
 Californie*, 58-60; *Douglas' Private Papers*, MS., 2d ser. i.;
 *Victor's River of the West*, 34; *Hines' Voy*., 110, are mentioned.
 
-<span id="fn_26"></span>[22:5](hou05.htm#fr_26) The Sevier; or possibly
+<span id="fn_26"></span>[22:5](hou05.htm#fr_26.md) The Sevier; or possibly
 he crossed from the Sevier to the Virgen and supposed them to be one
 stream.
 
-<span id="fn_27"></span>[23:6](hou05.htm#fr_27) The Adams now is clearly
+<span id="fn_27"></span>[23:6](hou05.htm#fr_27.md) The Adams now is clearly
 the Rio Virgen, and the Seedskeeder, or Siskadee, the Colorado. See
 *Hist. Northwest Coast*, ii. 583, this series.
 
-<span id="fn_28"></span>[23:7](hou05.htm#fr_28) P. W. Crawford, *Nar*.,
+<span id="fn_28"></span>[23:7](hou05.htm#fr_28.md) P. W. Crawford, *Nar*.,
 MS., 27, says he saw Pegleg Smith in 1847 on Ham Fork, in a beautiful
 valley of the Bear River Mountains, where he then lived with his native
 wife and a few savage retainers.
 
-<span id="fn_29"></span>[24:8](hou05.htm#fr_29) There was little of
+<span id="fn_29"></span>[24:8](hou05.htm#fr_29.md) There was little of
 importance to Utah history in this expedition, for full particulars of
 which see *Hist. Cal*., this series.
 
-<span id="fn_30"></span>[24:9](hou05.htm#fr_30) For an account of
+<span id="fn_30"></span>[24:9](hou05.htm#fr_30.md) For an account of
 Bonneville and his several excursions see *Hist. Northwest Coast*, ii.
 chap. xxv.; *Hist. Cal*., and *Hist. Nevada*, this series.
 
-<span id="fn_31"></span>[25:10](hou05.htm#fr_31) Such being the case he
+<span id="fn_31"></span>[25:10](hou05.htm#fr_31.md) Such being the case he
 would hardly have joined Walker's expedition had it been understood that
 the exploration of Salt Lake was intended. See *Nidever's Life and Adv:,
 MS*., 58.
 
-<span id="fn_32"></span>[25:11](hou05.htm#fr_32) Previously called the
+<span id="fn_32"></span>[25:11](hou05.htm#fr_32.md) Previously called the
 Mary River, and now the Humboldt. See *Hist. Nevada*; *Hist. Northwest
 Coast*; and *Hist. Cal*., this series.
 
-<span id="fn_33"></span>[25:12](hou05.htm#fr_33) See *Nidever's Life and
+<span id="fn_33"></span>[25:12](hou05.htm#fr_33.md) See *Nidever's Life and
 Adv*., MS.; *Warner's Mem*., in *Pac. R. Report*, xi. pt. i. 31-4. In
 giving his dictation to Irving, Bonneville professed great interest in
 the exploration of Great Salt Lake though he had done nothing to speak
@@ -637,7 +637,7 @@ of in that direction. Irving, however, humored the captain, whose vanity
 prompted him to give his own name to the lake, although he had not a
 shadow of title to that distinction.
 
-<span id="fn_34"></span>[29:13](hou05.htm#fr_34) 'Previous to setting
+<span id="fn_34"></span>[29:13](hou05.htm#fr_34.md) 'Previous to setting
 out,' says Bidwell, *California, 1841-8*, MS., 24-5, 'I consulted maps
 so as to learn as much as possible about the country…As for Salt Lake,
 there was a large lake marked in that region, but it was several hundred
@@ -649,7 +649,7 @@ case we could not get through with our wagons to build canoes and go
 down one of these rivers.' The region to the west of Salt Lake was
 indeed a *terra incognita* to these explorers.
 
-<span id="fn_35"></span>[30:14](hou05.htm#fr_35) *California, 1841-8*,
+<span id="fn_35"></span>[30:14](hou05.htm#fr_35.md) *California, 1841-8*,
 MS., 33—4. The author, then little more than boy, being but 21, has a
 long story to tell about straying from camp one day in company witch a
 comrade, James John, bent on a visit to the adjacent heights for a
@@ -659,7 +659,7 @@ search. They had been given up as slain by the Blackfeet; and there were
 those so ungracious as to say that it would have served them right had
 it been so.
 
-<span id="fn_36"></span>[31:15](hou05.htm#fr_36) The expedition entire
+<span id="fn_36"></span>[31:15](hou05.htm#fr_36.md) The expedition entire
 is given in *Hist. Cal.*, this series. See also *Belden's Hist.
 Statement*, MS.; *Hopper's Narrative*, MS.; *Taylor's Dis. and
 Founders,* i. No. 7; *Satter Co. Hist*., 17; *S. F. Bulletin*, July 27,
@@ -671,18 +671,18 @@ Jan. 16, 1869; *San José Pioneer*, <span id="page_32">p. 32</span> Feb.
 171; *Napa Reporter*, March 23, Sept. 21, 1872; *S. F. Bulletin*, July
 19, 1860; *Shuck's Rep. Men*, 920-1.
 
-<span id="fn_37"></span>[33:16](hou05.htm#fr_37) Now Castle Island, or
+<span id="fn_37"></span>[33:16](hou05.htm#fr_37.md) Now Castle Island, or
 as some call it Frémont Island.
 
-<span id="fn_38"></span>[33:17](hou05.htm#fr_38) For an account of
+<span id="fn_38"></span>[33:17](hou05.htm#fr_38.md) For an account of
 Frémont's Oregon adventures see *Hist. Oregon*.; and for his doings in
 California see *Hist. Cal.*, this series. We also meet with him again in
 our *History of Nevada*.
 
-<span id="fn_39"></span>[34:18](hou05.htm#fr_39) *Frémont's Expl. Ex*.,
+<span id="fn_39"></span>[34:18](hou05.htm#fr_39.md) *Frémont's Expl. Ex*.,
 151-60. *Warner* in *Pac. R. Rep*., xi. 49-50.
 
-<span id="fn_40"></span>[34:19](hou05.htm#fr_40) The word Utah
+<span id="fn_40"></span>[34:19](hou05.htm#fr_40.md) The word Utah
 originated with the people inhabiting that region. Early in the 17th
 century. when New Mexico was first much talked of by the Spaniards, the
 principal nations of frequent mention as inhabiting the several sides of
@@ -701,4 +701,4 @@ Later we have 'Youta,' 'Eutaw,' 'Utaw,' and 'Utah.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Story of Mormonism. 1820-1830.](hou06)
+[Next: Chapter III. The Story of Mormonism. 1820-1830.](hou06.md)

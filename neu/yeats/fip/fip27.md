@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip26)  [Next](fip28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip26)  [Next](fip28.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ now an eagle. Like all spirits, he is only half in the world of form.
 
 ------------------------------------------------------------------------
 
-[Next: The Piper and the Puca, by Douglas Hyde](fip28)
+[Next: The Piper and the Puca, by Douglas Hyde](fip28.md)

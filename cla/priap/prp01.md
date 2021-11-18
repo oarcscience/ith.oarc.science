@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp00)  [Next](prp02) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp00)  [Next](prp02.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ walls of thy temple, take it in good part, I pray thee.
 ------------------------------------------------------------------------
 
 [Next: 2. Darkly might I to thee say: Oh give me for ever and
-ever](prp02)
+ever](prp02.md)

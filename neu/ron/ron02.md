@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ron01)  [Next](ron03) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ron01)  [Next](ron03.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ AFTERWARDS: SUMMIT OF "BRÜNNHILDE'S ROCK"
 
 ------------------------------------------------------------------------
 
-[Next: The First Act](ron03)
+[Next: The First Act](ron03.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap03) [Next](chap05)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap03) [Next](chap05.md)
 
 ------------------------------------------------------------------------
 
@@ -212,4 +212,4 @@ worse and more bloody than any Indian raid.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: The Co-Operative Industry of Utah](chap05)
+[Next: Chapter V: The Co-Operative Industry of Utah](chap05.md)

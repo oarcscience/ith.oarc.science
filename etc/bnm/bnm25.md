@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm24)  [Next](bnm26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm24)  [Next](bnm26.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ shall remember the happy days when we were together."
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The Oriole.](bnm26)
+[Next: The Story Of The Oriole.](bnm26.md)

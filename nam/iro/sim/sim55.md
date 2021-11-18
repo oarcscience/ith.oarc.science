@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim54)  [Next](sim56) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim54)  [Next](sim56.md) 
 
 ------------------------------------------------------------------------
 
@@ -200,4 +200,4 @@ after in Geneseo Valley.
 
 ------------------------------------------------------------------------
 
-[Next: Swan's Daughters Marry Earthquake's Son](sim56)
+[Next: Swan's Daughters Marry Earthquake's Son](sim56.md)

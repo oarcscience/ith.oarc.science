@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm28)  [Next](rotm30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm28)  [Next](rotm30.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -509,6 +509,6 @@ As for Red-coat's company, they had fallen in with no foemen.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX. They Bring the Runaways to Burgstead](rotm30)
+[Next: Chapter XXIX. They Bring the Runaways to Burgstead](rotm30.md)
 
 </div>

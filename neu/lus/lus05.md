@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](lus04)  [Next](lus06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](lus04)  [Next](lus06.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ of this period, but enough remains to prove, that though the writers of
 the old romance seized upon it, and added the inexhaustible machinery of
 magic to the adventures of their heroes, yet the origin of their
 fictions was founded on historical facts. <span
-id="fr_33"></span>[\*](#fn_33) Yet, however this period may thus
+id="fr_33"></span>[\*](#fn_33.md) Yet, however this period may thus
 resemble the fabulous ages of Greece, certain it is, that an Orlando, a
 Rinaldo, a Rugero, and other celebrated names in romance, acquired great
 
@@ -94,9 +94,9 @@ subjection to the Moors, took shelter under the generous protection of
 Count Henry. Great numbers of the Moors also changed their religion, and
 chose rather to continue in the land where they were born than be
 exposed to the severities and injustice of their native governors. And
-thus, one of the most beautiful <span id="fr_34"></span>[\*](#fn_34) and
+thus, one of the most beautiful <span id="fr_34"></span>[\*](#fn_34.md) and
 fertile spots of the world, with the finest climate, in consequence of a
-crusade <span id="fr_35"></span>[†](#fn_35) against the Mohammedans,
+crusade <span id="fr_35"></span>[†](#fn_35.md) against the Mohammedans,
 became in the end the kingdom of Portugal, a sovereignty which in course
 of time spread its influence far over the world.
 
@@ -130,7 +130,7 @@ an assembly of the prelates, nobility, and commons, to meet at Lamego.
 When the assembly opened, Alonzo appeared seated on the throne, but
 without any other mark of regal dignity. Before he was crowned, the
 constitution of the state was settled, and eighteen statutes were
-solemnly confirmed by oath <span id="fr_36"></span>[\*](#fn_36) as the
+solemnly confirmed by oath <span id="fr_36"></span>[\*](#fn_36.md) as the
 charter of king and people; statutes diametrically opposite to the
 divine right and arbitrary power of kings, principles which inculcate
 and demand the unlimited passive obedience of the subject.
@@ -157,11 +157,11 @@ were now requited by successful expeditions into Africa. Such was the
 manly spirit of these ages, that the statutes of Lamego received
 additional articles in favour of liberty, a convincing proof that the
 general heroism of a people depends upon the principles of freedom.
-Alonzo IV., <span id="fr_37"></span>[\*](#fn_37) though not an amiable
+Alonzo IV., <span id="fr_37"></span>[\*](#fn_37.md) though not an amiable
 character, was perhaps the greatest warrior, politician, and monarch of
 his age. After a reign of military splendour, he left his throne to his
 son Pedro, surnamed the Just. Ideas of equity and literature were now
-diffused by this great prince, <span id="fr_38"></span>[†](#fn_38) who
+diffused by this great prince, <span id="fr_38"></span>[†](#fn_38.md) who
 was himself a polite scholar, and a most accomplished gentleman.
 Portugal began to perceive the advantages of cultivated talents, and to
 feel its superiority over the barbarous politics of the ignorant Moors.
@@ -169,7 +169,7 @@ The great Pedro, however, was succeeded by a weak prince, and the heroic
 spirit of the Portuguese seemed to exist no more under his son Fernando,
 surnamed the Careless.
 
-Under John I. <span id="fr_39"></span>[‡](#fn_39) all the virtues of the
+Under John I. <span id="fr_39"></span>[‡](#fn_39.md) all the virtues of the
 Portuguese again shone forth with redoubled lustre. Happily for
 Portugal, his father had bestowed an excellent education upon this
 prince, which, added to his great natural talents, rendered him one of
@@ -184,7 +184,7 @@ administration by their great abilities.
 
 All the sons of John excelled in military exercises, and in the
 literature of their age; Don Edward and Don Pedro <span
-id="fr_40"></span>[§](#fn_40) were
+id="fr_40"></span>[§](#fn_40.md) were
 
 <span id="page_lvii">p. lvii</span>
 
@@ -228,7 +228,7 @@ The same
 
 principles, it is certain, inspired King Emmanuel, under whom the
 eastern world was discovered by Gama. <span
-id="fr_41"></span>[\*](#fn_41)
+id="fr_41"></span>[\*](#fn_41.md)
 
 The crusades, which had rendered the greatest political service to Spain
 and Portugal, had begun now to have some effect upon the commerce of
@@ -238,7 +238,7 @@ Baltic. The Lombards had opened a lucrative traffic with the ports of
 Egypt, from whence they imported into Europe the riches of India; and
 Bruges, the mart between them and the Hanse Towns, was, in consequence,
 surrounded with the best agriculture of these ages, <span
-id="fr_42"></span>[†](#fn_42) a certain proof of the dependence of
+id="fr_42"></span>[†](#fn_42.md) a certain proof of the dependence of
 agriculture upon the extent of commerce. The Hanse Towns were liable,
 however, to be buried in the victories of a tyrant, and the trade with
 Egypt was exceedingly insecure and precarious. Europe was still
@@ -253,8 +253,8 @@ mankind, and Henry, Duke of Viseo, was born to give it.
 In order to promote his designs, Prince Henry was appointed
 Commander-in-chief of the Portuguese forces in Africa. He had already,
 in 1412, three years before the reduction of Ceuta, <span
-id="fr_43"></span>[‡](#fn_43) sent a ship to make discoveries on the
-Barbary coast. Cape Nam <span id="fr_44"></span>[§](#fn_44) (as its name
+id="fr_43"></span>[‡](#fn_43.md) sent a ship to make discoveries on the
+Barbary coast. Cape Nam <span id="fr_44"></span>[§](#fn_44.md) (as its name
 implies) was then the *ne plus ultra* of European navigation;
 
 <span id="page_lix">p. lix</span>
@@ -280,7 +280,7 @@ of discovery, the circumstances of which give us a striking picture of
 the state of navigation ere it was remodelled by the genius of Henry.
 
 Cape Bojador, so named from its extent, <span
-id="fr_45"></span>[\*](#fn_45) runs about forty leagues to the westward,
+id="fr_45"></span>[\*](#fn_45.md) runs about forty leagues to the westward,
 and for about six leagues off land there is a most violent current,
 which, dashing upon the shallows, makes a tempestuous sea. This was
 deemed impassable, for it had not occurred to any one that by standing
@@ -300,11 +300,11 @@ sown some seeds and left some cattle at Puerto
 
 <span id="page_lx">p. lx</span>
 
-Santo, returned to Portugal. <span id="fr_46"></span>[\*](#fn_46) Zarco
+Santo, returned to Portugal. <span id="fr_46"></span>[\*](#fn_46.md) Zarco
 and Vaz directing their course southward, in 1419, perceived something
 like a cloud on the water, and sailing towards it, discovered an island
 covered with woods, which from this circumstance they named
-Madeira. <span id="fr_47"></span>[†](#fn_47) And this rich and beautiful
+Madeira. <span id="fr_47"></span>[†](#fn_47.md) And this rich and beautiful
 island was the first reward of the enterprises of Prince Henry.
 
 Nature calls upon Portugal to be a maritime power, and her naval
@@ -331,7 +331,7 @@ two horsemen pursued, till one of the Portuguese, being wounded, lost
 the first blood that was sacrificed to the new system of commerce. A
 small beginning, it soon swelled into oceans, and deluged the eastern
 and western worlds. The cruelties of Hernando Cortez, and that more
-horrid barbarian, Pizarro, <span id="fr_48"></span>[‡](#fn_48) are no
+horrid barbarian, Pizarro, <span id="fr_48"></span>[‡](#fn_48.md) are no
 more to be charged upon Don Henry
 
 <span id="page_lxi">p. lxi</span>
@@ -407,10 +407,10 @@ expeditions as his father had done; nor was the eleven
 <span id="page_lxiii">p. lxiii</span>
 
 years’ regency of his brother Don Pedro less auspicious to him. <span
-id="fr_49"></span>[\*](#fn_49) But the misunderstanding between Pedro
+id="fr_49"></span>[\*](#fn_49.md) But the misunderstanding between Pedro
 and his nephew Alonzo V., who took upon him the reins of government in
 his seventeenth year, retarded the designs of Henry, and gave him much
-unhappiness. <span id="fr_50"></span>[†](#fn_50) At his town of Sagrez,
+unhappiness. <span id="fr_50"></span>[†](#fn_50.md) At his town of Sagrez,
 from whence he had not moved for many years, Don Henry, now in his
 sixty-seventh year, yielded to the stroke of fate, in the year of our
 Lord 1463, gratified with the certain prospect that the route to the
@@ -468,7 +468,7 @@ Men, whose genius led them to maritime affairs began now to be possessed
 by an ardent ambition to distinguish themselves; and the famous Columbus
 offered his service to King John, and was rejected. Every one knows the
 discoveries of this great adventurer, but. his history is generally
-misunderstood. <span id="fr_51"></span>[\*](#fn_51) The simple truth is,
+misunderstood. <span id="fr_51"></span>[\*](#fn_51.md) The simple truth is,
 
 <span id="page_lxv">p. lxv</span>
 
@@ -545,7 +545,7 @@ unnavigable, and he knew the power of religion on minds which are not
 inclined to dispute its authority, The whole night was spent in the
 chapel in prayers for success, and in the rites of their devotion. The
 next day, when the adventurers marched to the fleet, the shore of
-Belem <span id="fr_52"></span>[\*](#fn_52) presented one of the most
+Belem <span id="fr_52"></span>[\*](#fn_52.md) presented one of the most
 solemn and affecting scenes perhaps recorded in history. The beach was
 covered with the inhabitants of Lisbon.
 
@@ -580,7 +580,7 @@ says Faria, unknown to the Portuguese discoverers, none of whom had
 sailed so far to the west. From the 28th of July, the day they passed
 the isle of St. James, they had seen no shore, and now on November the
 4th they were happily relieved by the sight of land. The fleet anchored
-in a large bay, <span id="fr_53"></span>[\*](#fn_53) and Coello was sent
+in a large bay, <span id="fr_53"></span>[\*](#fn_53.md) and Coello was sent
 in search of a river where they might take in wood and fresh water.
 Having found one, the fleet made towards it, and Gama, whose orders were
 to acquaint himself with the manners of the people wherever he touched,
@@ -636,7 +636,7 @@ resolution to
 
 <span id="page_lxix">p. lxix</span>
 
-proceed was unalterable. <span id="fr_54"></span>[\*](#fn_54) A
+proceed was unalterable. <span id="fr_54"></span>[\*](#fn_54.md) A
 conspiracy was then formed against his life. But his brother discovered
 it, and the courage and prudence of Gama defeated its design. He put the
 chief conspirators and all the pilots in irons, and he himself, his
@@ -815,7 +815,7 @@ resident either at Quiloa or Mombas. The storm which drove them from the
 one place, and their late escape at the other, were now beheld as
 manifestations of the Divine favour, and Gama, holding up his hands to
 heaven, ascribed his safety to the care of Providence. <span
-id="fr_55"></span>[\*](#fn_55) Two days, however, elapsed before they
+id="fr_55"></span>[\*](#fn_55.md) Two days, however, elapsed before they
 could get clear of the rocky bay of Mombas. Having now ventured to hoist
 their sails, they steered for Melinda, a port, they had been told, where
 many merchants from India resorted. In their way thither they took a
@@ -879,7 +879,7 @@ and steered to the north. In a few days they passed the line, and the
 Portuguese with ecstasy beheld the appearance of their native sky.
 Orion, Ursa Major and Minor, and the other stars about the north pole,
 were now a more joyful discovery than the south pole had formerly been
-to them. <span id="fr_56"></span>[\*](#fn_56) The pilot now stood out to
+to them. <span id="fr_56"></span>[\*](#fn_56.md) The pilot now stood out to
 the east, through the Indian ocean; and after sailing about three weeks,
 he had the happiness to congratulate Gama on the view of the mountains
 of Calicut, who, transported with ecstasy, returned thanks to Heaven,
@@ -913,7 +913,7 @@ At the first interview, Monzaida gave Gama the fullest information of
 the climate, extent, customs, religion, and riches of India, the
 commerce of the Arabs, and the character of the sovereign. Calicut was
 not only the imperial city, but the greatest port. The king, or
-zamorim, <span id="fr_57"></span>[\*](#fn_57) who resided here, was
+zamorim, <span id="fr_57"></span>[\*](#fn_57.md) who resided here, was
 acknowledged as emperor by the neighbouring princes; and, as his revenue
 consisted chiefly of duties on merchandise, he had always encouraged the
 resort of foreigners to his ports.
@@ -929,7 +929,7 @@ advised them to bring the ships nearer to Pandarene, and for this
 purpose he sent a pilot to the fleet.
 
 A few days after this, the zamorim sent his first minister, or
-catual, <span id="fr_58"></span>[†](#fn_58) attended by several of the
+catual, <span id="fr_58"></span>[†](#fn_58.md) attended by several of the
 nayres, or nobility, to conduct Gama to the royal palace. As an
 interview with the zamorim was absolutely necessary to complete the
 purpose of his voyage, Gama immediately agreed to it, though the
@@ -1085,7 +1085,7 @@ seemed inevitable, the zamorim suddenly dropped his demand for the sails
 and rudders, rescued him from his determined enemies, and restored him
 to liberty and the command of his navy.
 
-As soon as he was aboard <span id="fr_59"></span>[\*](#fn_59) the goods
+As soon as he was aboard <span id="fr_59"></span>[\*](#fn_59.md) the goods
 were landed, accompanied by a letter from Gama to the zamorim, wherein
 he boldly complained of the treachery of the catual. The zamorim, in
 answer, promised to make inquiry, and punish him, if guilty; but did
@@ -1162,7 +1162,7 @@ a sudden tempest arose, which Gama’s ships rode out in
 safety, miserably dispersed the Indian fleet, and completed their ruin.
 
 After this victory the admiral made a halt at a little island near the
-shore, where he erected a cross, <span id="fr_60"></span>[\*](#fn_60)
+shore, where he erected a cross, <span id="fr_60"></span>[\*](#fn_60.md)
 bearing the name and arms of his Portuguese majesty. From this place, by
 the hand of Monzaida, he wrote a letter to the zamorim, wherein he gave
 a full and circumstantial account of all the plots of the catual and the
@@ -1277,7 +1277,7 @@ that age, demonstrated the joy of Portugal.
 
 Pedro Alvarez Cabral was the second Portuguese admiral who sailed for
 India. He entered into alliance with Trimumpara, king of Cochin, and
-high priest of Malabar. (See Bk. x. [p. 302](lusbk10.htm#page_302).)
+high priest of Malabar. (See Bk. x. [p. 302](lusbk10.htm#page_302)..md)
 
 Gama, having left six ships for the protection of Cochin and Cananor,
 had sailed for Portugal with twelve ships, laden with the riches of the
@@ -1304,7 +1304,7 @@ they were all vanquished at the fords of Cochin, by the intrepidity and
 stratagems of Pacheco. In the later battles the zamorim exposed himself
 to the greatest danger, and was sometimes sprinkled with the blood of
 his slain attendants--a circumstance mentioned in the Lusiad, bk. x. [p.
-304](lusbk10.htm#page_304). He then had recourse to fraud and poison;
+304](lusbk10.htm#page_304.md). He then had recourse to fraud and poison;
 but all his attempts were baffled. At last, in despair, he resigned his
 throne, and shut himself up for the rest of his days in one of the
 temples.
@@ -1318,13 +1318,13 @@ dungeon. He was at length tried, and after a full investigation of the
 charges made against him, was honourably acquitted. His services to his
 country were soon forgotten, his merits were no longer thought of, and
 the unfortunate Pacheco ended his days in an alms-house--a circumstance
-referred to in the Lusiad, bk. x. [p. 305](lusbk10.htm#page_305).
+referred to in the Lusiad, bk. x. [p. 305](lusbk10.htm#page_305.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_33"></span>[liii:\*](lus05.htm#fr_33) Ariosto, who adopted
+<span id="fn_33"></span>[liii:\*](lus05.htm#fr_33.md) Ariosto, who adopted
 the legends of the old romance, chose this period for the subject of his
 Orlando Furioso. Paris besieged by the Saracens, Orlando and the other
 Christian knights assemble in aid of Charlemagne, who are opposed in
@@ -1333,33 +1333,33 @@ knights. That there was a noted Moorish Spaniard, named Ferraw, a
 redoubted champion of that age, we have the testimony of Marcus Antonius
 Sabellicus, a writer of note of the fifteenth century.
 
-<span id="fn_34"></span>[liv:\*](lus05.htm#fr_34) Small indeed in
+<span id="fn_34"></span>[liv:\*](lus05.htm#fr_34.md) Small indeed in
 extent, but so rich in fertility, that it was called *Medulla
 Hispanica*, "The marrow of Spain."--Vid. Resandii Antiq. Lusit. l. iii.
 
-<span id="fn_35"></span>[liv:†](lus05.htm#fr_35) In propriety most
+<span id="fn_35"></span>[liv:†](lus05.htm#fr_35.md) In propriety most
 certainly a crusade, though that term has never before been applied to
 this war.
 
-<span id="fn_36"></span>[lv:\*](lus05.htm#fr_36) The power of deposing,
+<span id="fn_36"></span>[lv:\*](lus05.htm#fr_36.md) The power of deposing,
 and of electing their kings, under certain circumstances, is vested in
 the people by the statutes of Lamego.
 
-<span id="fn_37"></span>[lvi:\*](lus05.htm#fr_37) For the character of
-this prince, see the note, Bk. iii. [p. 96](lusbk03.htm#page_96).
+<span id="fn_37"></span>[lvi:\*](lus05.htm#fr_37.md) For the character of
+this prince, see the note, Bk. iii. [p. 96](lusbk03.htm#page_96.md).
 
-<span id="fn_38"></span>[lvi:†](lus05.htm#fr_38) For anecdotes of this
-monarch, see the notes, Bk. iii. [p. 99](lusbk03.htm#page_99).
+<span id="fn_38"></span>[lvi:†](lus05.htm#fr_38.md) For anecdotes of this
+monarch, see the notes, Bk. iii. [p. 99](lusbk03.htm#page_99.md).
 
-<span id="fn_39"></span>[lvi:‡](lus05.htm#fr_39) This great prince was
+<span id="fn_39"></span>[lvi:‡](lus05.htm#fr_39.md) This great prince was
 the natural son of Pedro the Just. Some years after the murder of his
 beloved spouse, Inez de Castro (see Lusiad, Bk. iii. [p.
-96](lusbk03.htm#page_96)), lest his father, whose severe temper he too
+96](lusbk03.htm#page_96).md), lest his father, whose severe temper he too
 well knew, should force him into a disagreeable marriage, Don Pedro
 commenced an amour with a Galician lady, who became the mother of John
 I., the preserver of the Portuguese monarchy.
 
-<span id="fn_40"></span>[lvi:§](lus05.htm#fr_40) The sons of John, who
+<span id="fn_40"></span>[lvi:§](lus05.htm#fr_40.md) The sons of John, who
 figure in history, were Edward, Juan, Fernando, <span id="page_lvii">p.
 lvii</span> Pedro, and Henry. Edward succeeded his father. Juan,
 distinguished both in the camp and cabinet, in the reign of his brother
@@ -1367,11 +1367,11 @@ Edward had the honour to oppose the expedition against Tangier, which
 was proposed by his brother Fernando, in whose perpetual captivity it
 ended.
 
-<span id="fn_41"></span>[lviii:\*](lus05.htm#fr_41) The dominion of the
+<span id="fn_41"></span>[lviii:\*](lus05.htm#fr_41.md) The dominion of the
 Portuguese in the Indian seas cut the sinews of the Egyptian and other
 Mohammedan powers.
 
-<span id="fn_42"></span>[lviii:†](lus05.htm#fr_42) Flanders has been the
+<span id="fn_42"></span>[lviii:†](lus05.htm#fr_42.md) Flanders has been the
 school-mistress of husbandry to Europe. Sir Charles Lisle, a royalist,
 resided in this country several years during the Commonwealth; and after
 the Restoration, rendered England the greatest service, by introducing
@@ -1380,26 +1380,26 @@ are set in action; hence the increase of food which is wanted is
 supplied by a redoubled attention to husbandry; and hence it was that
 agriculture was of old improved and diffused by the Phœnician colonies.
 
-<span id="fn_43"></span>[lviii:‡](lus05.htm#fr_43) At the reduction of
+<span id="fn_43"></span>[lviii:‡](lus05.htm#fr_43.md) At the reduction of
 Ceuta in Africa, and in other engagements, Prince Henry displayed
 military genius and valour of the first magnitude. The important
 fortress of Ceuta was in a manner won by his own sword.
 
-<span id="fn_44"></span>[lviii:§](lus05.htm#fr_44) Nam, in Portuguese, a
+<span id="fn_44"></span>[lviii:§](lus05.htm#fr_44.md) Nam, in Portuguese, a
 negative. It is now called by corruption Cape Nun.
 
-<span id="fn_45"></span>[lix:\*](lus05.htm#fr_45) Cape Bojador, from the
+<span id="fn_45"></span>[lix:\*](lus05.htm#fr_45.md) Cape Bojador, from the
 Spanish, *bojar*, to compass or go about.
 
-<span id="fn_46"></span>[lx:\*](lus05.htm#fr_46) Unluckily, he also left
+<span id="fn_46"></span>[lx:\*](lus05.htm#fr_46.md) Unluckily, he also left
 on this island two rabbits, whose young so increased that in a few years
 it was found not habitable, every vegetable being destroyed by the great
 increase of these animals.
 
-<span id="fn_47"></span>[lx:†](lus05.htm#fr_47) Madeira in Portuguese
+<span id="fn_47"></span>[lx:†](lus05.htm#fr_47.md) Madeira in Portuguese
 signifies timber.--*Ed*.
 
-<span id="fn_48"></span>[lx:‡](lus05.htm#fr_48) If one would trace the
+<span id="fn_48"></span>[lx:‡](lus05.htm#fr_48.md) If one would trace the
 true character of Cortez and the Americans, he must have recourse to the
 numerous Spanish writers, who were either witnesses of the first wars,
 or soon after travelled in these countries. \[The reader cannot do
@@ -1423,7 +1423,7 @@ There is a bright side to the character of Cortez, if we can forget that
 his avarice was the cause of a most unjust and most bloody war; but
 Pizarro is a character completely detestable, destitute of every spark
 of generosity. He massacred the Peruvians because they were barbarians,
-and he [himself](errata.htm#0) could not read. Atabalipa, the Peruvian
+and he [himself](errata.htm#0.md) could not read. Atabalipa, the Peruvian
 Inca, amazed at the art of reading, got a Spaniard to write the word
 Dios (God) on his finger. On trying if the Spaniards agreed in what it
 signified, he discovered that Pizarro could not read. And Pizarro, in
@@ -1432,12 +1432,12 @@ that prince to be tried for his life, for having concubines, and being
 an idolater. Atabalipa was condemned to be burned; but on submitting to
 baptism, he was only hanged. See *Prescott’s Conquest of Peru*.
 
-<span id="fn_49"></span>[lxiii:\*](lus05.htm#fr_49) The difficulties he
+<span id="fn_49"></span>[lxiii:\*](lus05.htm#fr_49.md) The difficulties he
 surmounted, and the assistance he received, are sufficient proofs that
 an adventurer of inferior birth could never have carried his designs
 into execution.
 
-<span id="fn_50"></span>[lxiii:†](lus05.htm#fr_50) Don Pedro was
+<span id="fn_50"></span>[lxiii:†](lus05.htm#fr_50.md) Don Pedro was
 villainously accused of treacherous designs by his illegitimate brother,
 the first Duke of Braganza. Henry left his town of Sagrez to defend his
 brother at court, but in vain. Pedro, finding the young king in the
@@ -1446,7 +1446,7 @@ against a party who were sent to seize him. His innocence, after his
 death, was fully proved, and his nephew, Alonzo V., gave him an
 honourable burial.
 
-<span id="fn_51"></span>[lxiv:\*](lus05.htm#fr_51) Henry, who undertook
+<span id="fn_51"></span>[lxiv:\*](lus05.htm#fr_51.md) Henry, who undertook
 to extend the boundaries which ignorance had given to the world, had
 extended them much beyond the sensible horizon long ere Columbus
 appeared. Columbus indeed taught the Spaniards the use of longitude and
@@ -1471,13 +1471,13 @@ This pilot, they say, had been driven to the West Indies, or America, by
 tempest, and on his death-bed communicated the journal of his voyage to
 Columbus.
 
-<span id="fn_52"></span>[lxvi:\*](lus05.htm#fr_52) Or Bethlehem, so
+<span id="fn_52"></span>[lxvi:\*](lus05.htm#fr_52.md) Or Bethlehem, so
 named from the chapel.
 
-<span id="fn_53"></span>[lxvii:\*](lus05.htm#fr_53) Now called St.
+<span id="fn_53"></span>[lxvii:\*](lus05.htm#fr_53.md) Now called St.
 Helen’s.
 
-<span id="fn_54"></span>[lxix:\*](lus05.htm#fr_54) The voyage of Gama
+<span id="fn_54"></span>[lxix:\*](lus05.htm#fr_54.md) The voyage of Gama
 has been called merely a coasting one, and therefore regarded as much
 less dangerous and heroical than that of Columbus, or of Magalhaens. But
 this is one of the opinions hastily taken up, and founded on ignorance.
@@ -1506,12 +1506,12 @@ circumstance it is evident that Gama had determined not to return,
 unless he found. India. Nothing less than such resolution to perish or
 attain his point could have led him on.
 
-<span id="fn_55"></span>[lxxiii:\*](lus05.htm#fr_55) It afterwards
+<span id="fn_55"></span>[lxxiii:\*](lus05.htm#fr_55.md) It afterwards
 appeared that the Moorish King of Mombas had been informed of what
 happened at Mozambique, and intended to revenge it by the total
 destruction of the fleet.
 
-<span id="fn_56"></span>[lxxv:\*](lus05.htm#fr_56) Amerigo Vespucci,
+<span id="fn_56"></span>[lxxv:\*](lus05.htm#fr_56.md) Amerigo Vespucci,
 describing his voyage to America, says, "Having passed the line," *e
 come desideroso d’essere autore che segnassi la stelle*--desirous to be
 the namer and discoverer of the Pole-star of the other hemisphere, I
@@ -1530,15 +1530,15 @@ constellation of the south pole, and from the appearance of the four
 most luminous, had given it the name of "The Cross," a figure which it
 better resembles than that of an almond.
 
-<span id="fn_57"></span>[lxxvi:\*](lus05.htm#fr_57) Properly
+<span id="fn_57"></span>[lxxvi:\*](lus05.htm#fr_57.md) Properly
 "Samudra-Rajah," King of the Sea, corrupted into Zamorim.--*Ed*.
 
-<span id="fn_58"></span>[lxxvi:†](lus05.htm#fr_58) "Kotwal" signifies
+<span id="fn_58"></span>[lxxvi:†](lus05.htm#fr_58.md) "Kotwal" signifies
 Superintendent of the Police.--*Ed*.
 
-<span id="fn_59"></span>[lxxx:\*](lus05.htm#fr_59) Faria y Sousa.
+<span id="fn_59"></span>[lxxx:\*](lus05.htm#fr_59.md) Faria y Sousa.
 
-<span id="fn_60"></span>[lxxxii:\*](lus05.htm#fr_60) It was the custom
+<span id="fn_60"></span>[lxxxii:\*](lus05.htm#fr_60.md) It was the custom
 of the first discoverers to erect crosses at various places remarkable
 in their voyage. Gama erected six: one, dedicated to St. Raphael, at the
 river of Good Signs; one to St. George, at Mozambique; one to St.
@@ -1547,4 +1547,4 @@ Mary, at the island thence named, near Anchediva.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](lus06)
+[Next: Contents](lus06.md)

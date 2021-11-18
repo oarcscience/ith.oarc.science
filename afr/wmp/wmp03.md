@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](wmp02)  [Next](wmp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](wmp02)  [Next](wmp04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Woman's Mysteries of a Primitive People*, by D. Amaury Talbot,
 \[1915\], at Intangible Textual Heritage
 
@@ -84,7 +84,7 @@ know anything of the part played by the father. . . . This is indeed a
 case when a woman's help would be of the greatest value. I venture to
 think it is not improbable a woman would have discovered something more
 from the female members of these Central Australian tribes." <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 On this suggestion, therefore, and that of the friend already mentioned,
 we determined, in default of those better fitted for the task, to take
@@ -185,7 +185,7 @@ women which to men must ever remain hopelessly barred.
 
 On this point, Herr Gunter Tessmann, who was fortunate enough to witness
 the rites of the principal male secret societies among the Pangwe,
-writes in his excellent monograph: <span id="fr_1"></span>[1](#fn_1)
+writes in his excellent monograph: <span id="fr_1"></span>[1](#fn_1.md)
 
 Die Schwierigkeiten, welche allgemein zu überwinden waren, ehe ich auch
 nur einen flüchtigen Einblick in das Kultwesen der Männer bekan, die
@@ -197,7 +197,7 @@ habe ich dem Leser überlassen. Hinsichtlich der Weiberkulte häuften sich
 diese Schwierigkeiten eben durch den Ausschluss des männlichen
 Geschlechts und die natürliche Scheu der Frauen derart, dass es mir
 nicht möglich war, persönlich zu ihnen Zutritt zu erlangen." <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 Since our eyes have been opened to the value of data collected from such
 women with no intervening male influence, it is a matter of deep regret
@@ -426,13 +426,13 @@ there, if it were not that the great white Moon-bird had laid them?
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](wmp03.htm#fr_0) "Sex Antagonism," p. 80.
+<span id="fn_0"></span>[3:1](wmp03.htm#fr_0.md) "Sex Antagonism," p. 80.
 
-<span id="fn_1"></span>[6:1](wmp03.htm#fr_1) Die Pangwe.
+<span id="fn_1"></span>[6:1](wmp03.htm#fr_1.md) Die Pangwe.
 *Völkerkundliche Monographie eines westafrikanischen Negerstammes*. Von
 Gunter Tessmann. Vol. ii.
 
-<span id="fn_2"></span>[7:1](wmp03.htm#fr_2) "The difficulties to be
+<span id="fn_2"></span>[7:1](wmp03.htm#fr_2.md) "The difficulties to be
 overcome in general before I obtained even a glimpse into the secrets of
 male cults I have left to the imagination of the reader. With regard to
 feminine cults. these difficulties were so increased, through the
@@ -443,6 +443,6 @@ impossible for me to gain personal access to such."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2: Prenatal Influences And Birth Customs](wmp04)
+[Next: Chapter 2: Prenatal Influences And Birth Customs](wmp04.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll16)  [Next](tll18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll16)  [Next](tll18.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ pieces, and devoured.
 
 ------------------------------------------------------------------------
 
-[Next: Teachers of the Lemurian Race](tll18)
+[Next: Teachers of the Lemurian Race](tll18.md)

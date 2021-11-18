@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe243)  [Next](prwe245) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe243)  [Next](prwe245.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ physiological and mental science." S. E. M.
 
 ------------------------------------------------------------------------
 
-[Next: The Zennor Charmers](prwe245)
+[Next: The Zennor Charmers](prwe245.md)

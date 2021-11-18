@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Next](ami01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Next](ami01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Amitabha, A Story of Buddhist Theology*, by Paul Carus, \[1906\], at
 Intangible Textual Heritage
 
@@ -59,22 +59,22 @@ because it was published prior to 1923.
 
 <span id="img_cover"></span> <span align="CENTER">
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 </span>
 
 <span id="img_front"></span> <span align="CENTER">
 [![Frontispiece](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: The Ordination](ami01)
+[Next: The Ordination](ami01.md)

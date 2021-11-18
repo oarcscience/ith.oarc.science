@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic051)  [Next](lfic053) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic051)  [Next](lfic053.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ dreadful sight, the hill would have been a haunted one to this day.
 
 ------------------------------------------------------------------------
 
-[Next: Ossianic and Early Legends](lfic053)
+[Next: Ossianic and Early Legends](lfic053.md)

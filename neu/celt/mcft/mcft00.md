@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](mcft01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](mcft01.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ themselves, to enter in and possess the promised land.
 
 ------------------------------------------------------------------------
 
-[Next: The Fate of the Children of Lir](mcft01)
+[Next: The Fate of the Children of Lir](mcft01.md)

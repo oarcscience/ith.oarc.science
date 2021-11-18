@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat09.htm#XLIX) 
-[Previous](satl048)  [Next](satl050) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat09.htm#XLIX.md) 
+[Previous](satl048)  [Next](satl050.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ botulis effusa sunt.
 
 ------------------------------------------------------------------------
 
-[Next: L](satl050)
+[Next: L](satl050.md)

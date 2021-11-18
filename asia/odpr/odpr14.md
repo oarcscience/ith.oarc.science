@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](odpr13)  [Next](odpr15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](odpr13)  [Next](odpr15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ faltering between different opinions, neither rendering obedience to
 truth nor returning to the friend of Allah. Allah has said: "But if they
 had referred it to Allah, to his Apostle and to those in authority among
 them, it would have become clear to those of them who fail to understand
-it." <span id="fr_194"></span>[1](#fn_194)
+it." <span id="fr_194"></span>[1](#fn_194.md)
 
 O you people! The word of Allah (may he remain high!) is the most
 eloquent preacher, and what is clear from this sermon to you is your
@@ -45,20 +45,20 @@ would surely have found Allah a forgiving
 
 <span id="page_62">p. 62</span>
 
-and merciful one." <span id="fr_195"></span>[1](#fn_195) The greatest of
+and merciful one." <span id="fr_195"></span>[1](#fn_195.md) The greatest of
 all sayers \[Allah\] has also said: "Excepting those who shall repent
 and believe and do righteous works," <span
-id="fr_196"></span>[2](#fn_196) "for verily Allah loveth those who seek
+id="fr_196"></span>[2](#fn_196.md) "for verily Allah loveth those who seek
 his indulgence and loveth those who wish to purify themselves." <span
-id="fr_197"></span>[3](#fn_197) Allah (may he remain blessed and high!)
+id="fr_197"></span>[3](#fn_197) Allah (may he remain blessed and high!.md)
 has moreover said: "And when my worshipers ask thee concerning me,
 \[say\] I am nigh unto them, ready to answer the supplication of him
 that calleth, when he calleth unto me." <span
-id="fr_198"></span>[4](#fn_198)
+id="fr_198"></span>[4](#fn_198.md)
 
 Hasten, therefore, hasten, O you people! If you stand upon a desolate
 tract of land, then your eyes shall be directed towards the first
-road <span id="fr_199"></span>[5](#fn_199) which was pursued by the
+road <span id="fr_199"></span>[5](#fn_199.md) which was pursued by the
 Commander of the Believers (may Allah's peace be upon him!) when he
 disappeared. Assemble there, yourselves and your children, purify your
 hearts and make your intentions sincere toward Allah, the Lord of the
@@ -69,12 +69,12 @@ turn his heart in compassion toward you; for he is mercy unto you and
 unto all his creation in accordance with what Allah (may he remain
 blessed and high!) has said to his Messenger \[Muḥammad\] (may Allah's
 grace be upon him and upon his kin!): "We have not sent thee other than
-as mercy unto all creatures." <span id="fr_200"></span>[6](#fn_200)
+as mercy unto all creatures." <span id="fr_200"></span>[6](#fn_200.md)
 
 But beware, beware lest any of you should try to trace the steps of the
 Commander of the Believers (may Allah's blessing be upon him!), or
 should attempt to discover any information whatsoever! <span
-id="fr_201"></span>[7](#fn_201) Cease not at the beginning of the road
+id="fr_201"></span>[7](#fn_201.md) Cease not at the beginning of the road
 to reiterate
 
 <span id="page_63">p. 63</span>
@@ -88,7 +88,7 @@ Persist in the practice of these exercises, by day and by night, until
 the last day arrives, and the hour of judgment strikes, and the door of
 mercy is closed, and vengeance befalls all people of disobedience and
 disbelief. "He is fully excused who has amply forewarned," <span
-id="fr_202"></span>[1](#fn_202) he has nothing to blame upon himself
+id="fr_202"></span>[1](#fn_202.md) he has nothing to blame upon himself
 with regard to your case: he has given you full warning.
 
 This is addressed to the people of intelligence among you; it is they
@@ -102,31 +102,31 @@ impiety, and believes in the excellent words of his Lord!
 
 ### Footnotes
 
-<span id="fn_194"></span>[61:1](odpr14.htm#fr_194) *Cf*. Koran 4: 85.
+<span id="fn_194"></span>[61:1](odpr14.htm#fr_194.md) *Cf*. Koran 4: 85.
 
-<span id="fn_195"></span>[62:1](odpr14.htm#fr_195) Koran 4: 67.
+<span id="fn_195"></span>[62:1](odpr14.htm#fr_195.md) Koran 4: 67.
 
-<span id="fn_196"></span>[62:2](odpr14.htm#fr_196) *Ibid*. 25: 70.
+<span id="fn_196"></span>[62:2](odpr14.htm#fr_196.md) *Ibid*. 25: 70.
 
-<span id="fn_197"></span>[62:3](odpr14.htm#fr_197) *Ibid*. 2: 222.
+<span id="fn_197"></span>[62:3](odpr14.htm#fr_197.md) *Ibid*. 2: 222.
 
-<span id="fn_198"></span>[62:4](odpr14.htm#fr_198) *Ibid*. 2:18 2.
+<span id="fn_198"></span>[62:4](odpr14.htm#fr_198.md) *Ibid*. 2:18 2.
 
-<span id="fn_199"></span>[62:5](odpr14.htm#fr_199) This is the road
+<span id="fn_199"></span>[62:5](odpr14.htm#fr_199.md) This is the road
 leading outside of Cairo toward al-Muqaṭṭam and which al-Ḥākim followed
 when he took his usual evening promenades including the last one
 resulting in his disappearance.
 
-<span id="fn_200"></span>[62:6](odpr14.htm#fr_200) Koran 21: 107.
+<span id="fn_200"></span>[62:6](odpr14.htm#fr_200.md) Koran 21: 107.
 
-<span id="fn_201"></span>[62:7](odpr14.htm#fr_201) This may indicate
+<span id="fn_201"></span>[62:7](odpr14.htm#fr_201.md) This may indicate
 that Ḥamzah, who was probably the one who drew this Charter, had a hand
 in the conspiracy that resulted in the murder of al-Ḥakīm.
 
-<span id="fn_202"></span>[63:1](odpr14.htm#fr_202) A common Arabic
+<span id="fn_202"></span>[63:1](odpr14.htm#fr_202.md) A common Arabic
 saying.
 
 ------------------------------------------------------------------------
 
 [Next: Appendix D. Excerpt From the Epistle Entitled Al-Qusṭanṭīniyyah
-Addressed by Bahā’-al-Dīn to the Byzantine Emperor Constantine](odpr15)
+Addressed by Bahā’-al-Dīn to the Byzantine Emperor Constantine](odpr15.md)

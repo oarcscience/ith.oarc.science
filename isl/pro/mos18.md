@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos17)  [Next](mos19) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos17)  [Next](mos19.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,4 +123,4 @@ for God the One, and no strength except by Him.
 ------------------------------------------------------------------------
 
 [Next: Revelation of Torah and Worshipping of The Calf and Related
-Stories](mos19)
+Stories](mos19.md)

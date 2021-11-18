@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass14)  [Next](nass16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass14)  [Next](nass16.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,7 +175,7 @@ split the heart of the large tree. He spread it out wide enough so that
 a man could pass through it. Then he split a small tree. He selected one
 that was not very tall. Then he placed these trees across the trail.
 There were two sticks that he had cut. These he put across the crack of
-the large tree. <span id="fr_7"></span>[1](#fn_7) Then he stopped. He
+the large tree. <span id="fr_7"></span>[1](#fn_7.md) Then he stopped. He
 went home and found the princess and the old grandmother.
 
 <span id="page_149">p. 149</span>
@@ -455,10 +455,10 @@ lives in the sea."
 
 ### Footnotes
 
-<span id="fn_7"></span>[148:1](nass15.htm#fr_7) He split a large tree
+<span id="fn_7"></span>[148:1](nass15.htm#fr_7.md) He split a large tree
 and opened the crack, which he spread apart by means of two short
 sticks, placing the whole on the trail which led up to the lake.
 
 ------------------------------------------------------------------------
 
-[Next: Little-eagle](nass16)
+[Next: Little-eagle](nass16.md)

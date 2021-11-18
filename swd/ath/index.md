@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766171663/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766171663/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766171663/internetsacredte)
 
 #### \[1885\]
 
-[Start Reading](ath00)
+[Start Reading](ath00.md)
 
 ------------------------------------------------------------------------
 
@@ -26,9 +26,9 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766171663/internetsacredte)
 |---------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
-<span id="contents"></span> [Title Page](ath00)  
-[1-50](ath01)  
-[51-100](ath02)  
-[101-150](ath03)  
-[151-200](ath04)  
-[201-250](ath05)  
+<span id="contents"></span> [Title Page](ath00.md)  
+[1-50](ath01.md)  
+[51-100](ath02.md)  
+[101-150](ath03.md)  
+[151-200](ath04.md)  
+[201-250](ath05.md)  

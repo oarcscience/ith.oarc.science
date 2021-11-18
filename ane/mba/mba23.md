@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba22)  [Next](mba24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba22)  [Next](mba24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -47,7 +47,7 @@ appearance of the heroes, the shepherd retreats hurriedly, locking the
 door behind him; he casts the key into the sea. The story proceeds: "If
 anyone should find the key and open the door, and blow but a single
 blast on the horn, Finn and all the Feans would come forth. And that
-would be a great day in Alban." <span id="fr_429"></span>[1](#fn_427)
+would be a great day in Alban." <span id="fr_429"></span>[1](#fn_427.md)
 
 <span id="page_395">p. 395</span>
 
@@ -94,7 +94,7 @@ it was not until cavalry was included in the standing army of Assyria
 that operations against the Aramæans were attended with permanent
 success.
 
-Ashur-natsir-pal III <span id="fr_430"></span>[1](#fn_428) was preceded
+Ashur-natsir-pal III <span id="fr_430"></span>[1](#fn_428.md) was preceded
 by two vigorous Assyrian rulers, Adad-nirari III (911-890 B.C.) and
 Tukulti-Ninip II (890-885 B.C.). The former had raided North Syria and
 apparently penetrated as far as the Mediterranean coast. In consequence
@@ -118,7 +118,7 @@ fighting-men but women and children were either
 ASHUR-NATSIR-PAL, WITH INSCRIPTIONS&lt;br&gt; &lt;i&gt;From S.W. Palace
 of Nimroud: now in British Museum&lt;/i&gt;.&lt;br&gt; Photo.
 Mansell](tn/39600.jpg)  
-Click to enlarge](img/39600.jpg)  
+Click to enlarge](img/39600.jpg.md)  
 STATUE OF ASHUR-NATSIR-PAL, WITH INSCRIPTIONS  
 *From S.W. Palace of Nimroud: now in British Museum*.  
 Photo. Mansell  
@@ -180,7 +180,7 @@ ears, and arms; of many soldiers I put out the eyes. I reared a column
 of the living and a column of heads. I hung on high their heads on trees
 in the vicinity of their city. Their boys and girls I burned up in
 flames. I devastated the city, dug it up, in fire burned it; I
-annihilated it. <span id="fr_431"></span>[1](#fn_429)</span>
+annihilated it. <span id="fr_431"></span>[1](#fn_429.md)</span>
 
 The Assyrian war-lord afterwards forced several Nairi kings to
 acknowledge him as their overlord. He was so greatly feared by the
@@ -266,7 +266,7 @@ shoulders; others, no less graceful in their form, and erect in their
 <span id="page_401">p. 401</span>
 
 carriage, were carrying the heavy loads of long grass which they had cut
-in the meadows." <span id="fr_432"></span>[1](#fn_430)
+in the meadows." <span id="fr_432"></span>[1](#fn_430.md)
 
 Across the meadows so beautiful in March the great armies of
 Ashur-natsir-pal returned with the booty of great campaigns--horses and
@@ -305,9 +305,9 @@ After Solomon died, the kingdom of his son Rehoboam
 
 was restricted to Judah, Benjamin, Moab, and Edom. The "ten tribes" of
 Israel had revolted and were ruled over by Jeroboam, whose capital was
-at Tirzah. <span id="fr_433"></span>[1](#fn_431) "There were wars
+at Tirzah. <span id="fr_433"></span>[1](#fn_431.md) "There were wars
 between Rehoboam and Jeroboam continually." <span
-id="fr_434"></span>[2](#fn_432)
+id="fr_434"></span>[2](#fn_432.md)
 
 The religious organization which had united the Hebrews under David and
 Solomon was thus broken up. Jeroboam established the religion of the
@@ -318,16 +318,16 @@ out of this good land, which he gave to their fathers, and shall scatter
 them beyond the river, because they have made their groves, provoking
 the Lord to anger. And he shall give Israel up because of the sins of
 Jeroboam, who did sin, and who made Israel to sin." <span
-id="fr_435"></span>[3](#fn_433)
+id="fr_435"></span>[3](#fn_433.md)
 
 In Judah Rehoboam similarly "did evil in the sight of the Lord"; his
 subjects "also built them high places and images and groves, on every
 high hill, and under every green tree". <span
-id="fr_436"></span>[4](#fn_434) After the raid of the Egyptian Pharaoh
+id="fr_436"></span>[4](#fn_434.md) After the raid of the Egyptian Pharaoh
 Shishak (Sheshonk) Rehoboam repented, however. "And when he humbled
 himself, the wrath of the Lord turned from him, that he would not
 destroy him altogether: and also in Judah things went well." <span
-id="fr_437"></span>[5](#fn_435)
+id="fr_437"></span>[5](#fn_435.md)
 
 Rehoboam was succeeded by his son Abijah, who shattered the power of
 Jeroboam, defeating that monarch in battle after he was surrounded as
@@ -344,7 +344,7 @@ God of their fathers. And Abijah pursued after Jeroboam, and took cities
 from him, Bethel with the towns thereof, and Jeshanah with the towns
 thereof, and Ephraim with the towns thereof. Neither did Jeroboam
 recover strength again in the days of Abijah, and the Lord struck him
-and he died." <span id="fr_438"></span>[1](#fn_436)
+and he died." <span id="fr_438"></span>[1](#fn_436.md)
 
 Ere Jeroboam died, however, "Abijah slept with his fathers, and they
 buried him in the city of David: and Asa his son reigned in his stead.
@@ -356,12 +356,12 @@ God of their fathers and to do the law and the commandment. Also he took
 away out of all the cities of Judah the high places and the images: and
 the kingdom was quiet before him. And he built fenced cities in Judah:
 for the land had rest, and he had no war in those years; because the
-Lord had given him rest." <span id="fr_439"></span>[2](#fn_437)
+Lord had given him rest." <span id="fr_439"></span>[2](#fn_437.md)
 
 Jeroboam died in the second year of Asa's reign, and was succeeded by
 his son Nadab, who "did evil in the sight of the Lord, and walked in the
 way of his father, and in his sin wherewith he made Israel to
-sin". <span id="fr_440"></span>[3](#fn_438) Nadab waged war against the
+sin". <span id="fr_440"></span>[3](#fn_438.md) Nadab waged war against the
 Philistines, and was besieging Gibbethon when Baasha revolted and slew
 him. Thus ended the First Dynasty of the Kingdom of Israel.
 
@@ -372,7 +372,7 @@ miles to the
 <span id="page_404">p. 404</span>
 
 north of Jerusalem, "that he might not suffer any to go out or come in
-to Asa king of Judah". <span id="fr_441"></span>[1](#fn_439)
+to Asa king of Judah". <span id="fr_441"></span>[1](#fn_439.md)
 
 Now Israel was at this time one of the allies of the powerful Aramæan
 State of Damascus, which had resisted the advance of the Assyrian armies
@@ -390,14 +390,14 @@ the son of Tabrimon, the son of Hezion, king of Syria, that dwelt at
 Damascus, saying, There is a league between me and thee, and between my
 father and thy father: behold, I have sent unto thee a present of silver
 and gold: come and break thy league with Baasha king of Israel, that he
-may depart from me". <span id="fr_442"></span>[2](#fn_440)
+may depart from me". <span id="fr_442"></span>[2](#fn_440.md)
 
 Ben-hadad accepted the invitation readily. He waged war against Israel,
 and Baasha was compelled to abandon the building of the fortifications
 at Ramah. "Then king Asa made a proclamation throughout all Judah; none
 was exempted: and they took away the stones of Ramah, and the timber
 thereof, wherewith Baasha had builded; and king Asa built with them Geba
-of Benjamin, and Mizpah." <span id="fr_443"></span>[3](#fn_441)
+of Benjamin, and Mizpah." <span id="fr_443"></span>[3](#fn_441.md)
 
 Judah and Israel thus became subject to Damascus, and had to recognize
 the king of that city as arbiter in all their disputes.
@@ -411,7 +411,7 @@ B.C. and was succeeded by his son Elah, who came to the throne "in the
 twenty and sixth year of Asa". He had ruled a little over a year when he
 was murdered by "his servant Zimri, captain of half his chariots", while
 he was "drinking himself drunk in the house of Arza steward of his house
-in Tirzah". <span id="fr_444"></span>[1](#fn_442) Thus ended the Second
+in Tirzah". <span id="fr_444"></span>[1](#fn_442.md) Thus ended the Second
 Dynasty of the Kingdom of Israel.
 
 Zimri's revolt was shortlived. He reigned only "seven days in Tirzah".
@@ -422,12 +422,12 @@ the captain of the host, king over Israel that day in the camp. And Omri
 went up from Gibbethon and all Israel with him, and they besieged
 Tirzah. And it came to pass when Zimri saw that the city was taken, that
 he went into the palace of the king's house, and burnt the king's house
-over him with fire, and died." <span id="fr_445"></span>[2](#fn_443)
+over him with fire, and died." <span id="fr_445"></span>[2](#fn_443.md)
 
 Omri's claim to the throne was disputed by a rival named Tibni. "But the
 people that followed Omri prevailed against the people that followed
 Tibni, son of Ginath: so Tibni died, and Omri reigned." <span
-id="fr_446"></span>[3](#fn_444)
+id="fr_446"></span>[3](#fn_444.md)
 
 Omri was the builder of Samaria, whither his Court was transferred from
 Tirzah towards the close of his six years reign. He was followed by his
@@ -442,7 +442,7 @@ ye walk in their counsel; that I should
 
 make thee a desolation, and the inhabitants thereof an hissing:
 therefore ye shall bear the reproach of my people". <span
-id="fr_447"></span>[1](#fn_445)
+id="fr_447"></span>[1](#fn_445.md)
 
 Ahab was evidently an ally of Sidon as well as a vassal of Damascus, for
 he married the notorious princess Jezebel, the daughter of the king of
@@ -450,11 +450,11 @@ that city State. He also became a worshipper of the Phœnician god Baal,
 to whom a temple had been erected in Samaria. "And Ahab made a grove;
 and Ahab did more to provoke the Lord God of Israel to anger than all
 the kings of Israel that were before him." <span
-id="fr_448"></span>[2](#fn_446) Obadiah, who "feared the Lord greatly",
+id="fr_448"></span>[2](#fn_446.md) Obadiah, who "feared the Lord greatly",
 was the governor of Ahab's house, but the outspoken prophet Elijah,
 whose arch enemy was the notorious Queen Jezebel, was an outcast like
 the hundred prophets concealed by Obadiah in two mountain caves. <span
-id="fr_449"></span>[3](#fn_447)
+id="fr_449"></span>[3](#fn_447.md)
 
 Ahab became so powerful a king that Ben-hadad II of Damascus picked a
 quarrel with him, and marched against Samaria. It was on this occasion
@@ -474,7 +474,7 @@ Israelites
 <span id="page_407">p. 407</span>
 
 at Aphek, but was again defeated. He then found it necessary to make "a
-covenant" with Ahab. <span id="fr_450"></span>[1](#fn_448)
+covenant" with Ahab. <span id="fr_450"></span>[1](#fn_448.md)
 
 In 854 B.C. Shalmaneser III of Assyria was engaged in military
 operations against the Aramæan Syrians. Two years previously he had
@@ -495,13 +495,13 @@ Jehoshaphat was proclaimed king of Judah. "And he walked in all the ways
 of Asa his father; he turned not aside from it, doing that which was
 right in the eyes of the Lord: nevertheless the high places were not
 taken away; for the people offered and burnt incense yet in the high
-places." <span id="fr_451"></span>[2](#fn_449)
+places." <span id="fr_451"></span>[2](#fn_449.md)
 
 There is no record of any wars between Israel and Judah during this
 period, but it is evident that the two kingdoms had been drawn together
 and that Israel was the predominating power. Jehoshaphat "joined
 affinity with Ahab", and some years afterwards visited Samaria, where he
-was hospitably entertained. <span id="fr_452"></span>[3](#fn_450) The
+was hospitably entertained. <span id="fr_452"></span>[3](#fn_450.md) The
 two monarchs plotted together. Apparently Israel and Judah desired
 
 <span id="page_408">p. 408</span>
@@ -510,7 +510,7 @@ to throw off the yoke of Damascus, which was being kept constantly on
 the defence by Assyria. It is recorded in the Bible that they joined
 forces and set out on an expedition to attack Ramoth in Gilead, which
 Israel claimed, and take it "out of the hand of the king of
-Syria". <span id="fr_453"></span>[1](#fn_451) In the battle which ensued
+Syria". <span id="fr_453"></span>[1](#fn_451.md) In the battle which ensued
 (in 853 B.C.) Ahab was mortally wounded, "and about the time of the sun
 going down he died". He was succeeded by his son Ahaziah, who
 acknowledged the suzerainty of Damascus. After a reign of two years
@@ -522,7 +522,7 @@ sea trade on the Persian gulf which had flourished under Solomon. "He
 made ships of Tharshish to go to Ophir for gold; but they went not; for
 the ships were broken (wrecked) at Ezion-geber." Ahaziah offered him
 sailors--probably Phœnicians--but they were refused. <span
-id="fr_454"></span>[2](#fn_452) Apparently Jehoshaphat had close trading
+id="fr_454"></span>[2](#fn_452.md) Apparently Jehoshaphat had close trading
 relations with the Chaldæans, who were encroaching on the territory of
 the king of Babylon, and menacing the power of that monarch. Jehoram
 succeeded Jehoshaphat and reigned eight years.
@@ -564,7 +564,7 @@ His son Ahaziah, who succeeded him, joined forces with his cousin and
 overlord, King Joram of Israel, to assist him in capturing Ramoth-gilead
 from the king of Damascus. Joram took possession of the city, but was
 wounded, and returned to Jezreel to be healed. <span
-id="fr_455"></span>[1](#fn_453) He was the last king of the Omri Dynasty
+id="fr_455"></span>[1](#fn_453.md) He was the last king of the Omri Dynasty
 of Israel. The prophet Elisha sent a messenger to Jehu, a military
 leader, who was at Ramoth-gilead, with a box of oil and the ominous
 message, "Thus saith the Lord,
@@ -594,7 +594,7 @@ flee when he discovered that he came as an enemy. Then Jehu drew his bow
 and shot Joram through the heart. Ahaziah endeavoured to conceal himself
 in Samaria, but was slain also. Jezebel was thrown down from a window of
 the royal harem and trodden under foot by the horsemen of Jehu; her body
-was devoured by dogs. <span id="fr_456"></span>[1](#fn_454)
+was devoured by dogs. <span id="fr_456"></span>[1](#fn_454.md)
 
 The Syrian king against whom Joram fought at Ramoth-gilead was Hazael.
 He had murdered Ben-hadad II as he lay on a bed of sickness by
@@ -610,7 +610,7 @@ SECOND SIDE OF BLACK OBELISK OF SHALMANESER III&lt;br&gt; (1) Tribute
 bearers of Jehu, King of Israel. (2) Tributary Animals. (3) Tribute
 bearers with shawls and bags&lt;br&gt; (&lt;i&gt;British
 Museum&lt;/i&gt;)](tn/41000.jpg)  
-Click to enlarge](img/41000.jpg)  
+Click to enlarge](img/41000.jpg.md)  
 DETAILS FROM SECOND SIDE OF BLACK OBELISK OF SHALMANESER III  
 (1) Tribute bearers of Jehu, King of Israel. (2) Tributary Animals. (3)
 Tribute bearers with shawls and bags  
@@ -624,7 +624,7 @@ Tribute bearers with shawls and bags
 unto the children of Israel; their strongholds wilt thou set on fire,
 and their young men wilt thou slay with the sword, and wilt dash their
 children and rip up their women with child". <span
-id="fr_457"></span>[1](#fn_455)
+id="fr_457"></span>[1](#fn_455.md)
 
 The time seemed ripe for Assyrian conquest. In 843 B.C. Shalmaneser III
 crossed the Euphrates into Syria for the sixteenth time. His first
@@ -647,7 +647,7 @@ Professor Pinches of a passage detailing Jehu's tribute:
 <span class="small">The tribute of Yaua, son of Khumri: silver, gold, a
 golden cup, golden vases, golden vessels, golden buckets, lead, a staff
 for the hand of the king (and) sceptres, I received. <span
-id="fr_458"></span>[2](#fn_456)</span>
+id="fr_458"></span>[2](#fn_456.md)</span>
 
 The scholarly translator adds, "It is noteworthy that the Assyrian form
 of the name, Yaua, shows that the unpronounced aleph at the end was at
@@ -670,7 +670,7 @@ those days the Lord began to cut Israel short: and Hazael smote them in
 all the coasts of Israel; from Jordan eastward, all the land of Gilead,
 the Gadites, and the Reubenites, and the Manassites, from Aroer, which
 is by the river Arnon, even Gilead and Bashan." <span
-id="fr_459"></span>[1](#fn_457) Israel thus came completely under the
+id="fr_459"></span>[1](#fn_457.md) Israel thus came completely under the
 sway of Damascus.
 
 Jehu appears to have cherished the ambition of uniting Israel and Judah
@@ -681,7 +681,7 @@ God. He persecuted the prophets of Baal, but soon became a backslider,
 for although he stamped out the Phœnician religion he began to worship
 "the golden calves that were in Bethel and that were in Dan. . . . He
 departed not from the sins of Jeroboam, which made Israel to sin." <span
-id="fr_460"></span>[2](#fn_458) Apparently he found it necessary to
+id="fr_460"></span>[2](#fn_458.md) Apparently he found it necessary to
 secure the support of the idolators of the ancient cult of the "Queen of
 Heaven".
 
@@ -691,13 +691,13 @@ The crown of Judah had been seized by the Israelitish
 
 <span class="contnote">\[paragraph continues\]</span> Queen mother
 Athaliah after the death of her son Ahaziah at the hands of Jehu. <span
-id="fr_461"></span>[1](#fn_459) She endeavoured to destroy "all the seed
+id="fr_461"></span>[1](#fn_459.md) She endeavoured to destroy "all the seed
 royal of the house of Judah". But another woman thwarted the completion
 of her monstrous design. This was Jehoshabeath, sister of Ahaziah and
 wife of the priest Jehoiada, who concealed the young prince Joash "and
 put him and his nurse in a bed-chamber", in "the house of God". There
 Joash was strictly guarded for six years. <span
-id="fr_462"></span>[2](#fn_460)
+id="fr_462"></span>[2](#fn_460.md)
 
 In time Jehoiada stirred up a revolt against the Baal-worshipping queen
 of Judah. Having secured the support of the captains of the royal guard
@@ -727,7 +727,7 @@ they slew her there.
 and between the king, that they should be the Lord's people. Then all
 the people went to the house of Baal, and brake it down, and brake his
 altars and his images in pieces, and slew Mattan the priest of Baal
-before the altars." <span id="fr_463"></span>[1](#fn_461)
+before the altars." <span id="fr_463"></span>[1](#fn_461.md)
 
 When Jehu of Israel died, he was succeeded by Jehoahaz. "The Lord was
 kindled against Israel, and he delivered them into the hand of Ben-hadad
@@ -735,7 +735,7 @@ the son of Hazael all their days." Then Jehoahaz repented. He "besought
 the Lord, and the Lord hearkened unto him: for he saw the oppression of
 Israel, because the king of Syria oppressed them. And the Lord gave
 Israel a saviour, so that they went out from under the hands of the
-Syrians." <span id="fr_464"></span>[2](#fn_462) The "saviour", as will
+Syrians." <span id="fr_464"></span>[2](#fn_462.md) The "saviour", as will
 be shown, was Assyria. Not only Israel, but Judah, under King Joash,
 Edom, the Philistines and the Ammonites were compelled to acknowledge
 the suzerainty of Damascus.
@@ -804,96 +804,96 @@ Second Empire.
 
 ### Footnotes
 
-<span id="fn_427"></span>[394:1](mba23.htm#fr_429) *Finn and His Warrior
+<span id="fn_427"></span>[394:1](mba23.htm#fr_429.md) *Finn and His Warrior
 Band*, pp. 245 *et seq*. (London, 1911).
 
-<span id="fn_428"></span>[396:1](mba23.htm#fr_430) Also rendered
+<span id="fn_428"></span>[396:1](mba23.htm#fr_430.md) Also rendered
 Ashur-na´sir-pal.
 
-<span id="fn_429"></span>[398:1](mba23.htm#fr_431) *A History of the
+<span id="fn_429"></span>[398:1](mba23.htm#fr_431.md) *A History of the
 Babylonians and Assyrians*, G. S. Goodspeed, p. 197.
 
-<span id="fn_430"></span>[401:1](mba23.htm#fr_432) *Discoveries at
+<span id="fn_430"></span>[401:1](mba23.htm#fr_432.md) *Discoveries at
 Nineveh*, Sir A. H. Layard (London, 1856), pp. 55, 56.
 
-<span id="fn_431"></span>[402:1](mba23.htm#fr_433) "Thou art beautiful,
+<span id="fn_431"></span>[402:1](mba23.htm#fr_433.md) "Thou art beautiful,
 O my love, as Tirzah, comely as Jerusalem." *Solomon's Song*, vi, 4.
 
-<span id="fn_432"></span>[402:2](mba23.htm#fr_434) *2 Chronicles*, xii,
+<span id="fn_432"></span>[402:2](mba23.htm#fr_434.md) *2 Chronicles*, xii,
 15.
 
-<span id="fn_433"></span>[402:3](mba23.htm#fr_435) *1 Kings*, xiv, 1-20.
+<span id="fn_433"></span>[402:3](mba23.htm#fr_435.md) *1 Kings*, xiv, 1-20.
 
-<span id="fn_434"></span>[402:4](mba23.htm#fr_436) *Ibid*., 21-3.
+<span id="fn_434"></span>[402:4](mba23.htm#fr_436.md) *Ibid*., 21-3.
 
-<span id="fn_435"></span>[402:5](mba23.htm#fr_437) *2 Chronicles*, xii,
+<span id="fn_435"></span>[402:5](mba23.htm#fr_437.md) *2 Chronicles*, xii,
 1-12.
 
-<span id="fn_436"></span>[403:1](mba23.htm#fr_438) *2 Chronicles*, xiii,
+<span id="fn_436"></span>[403:1](mba23.htm#fr_438.md) *2 Chronicles*, xiii,
 1-20.
 
-<span id="fn_437"></span>[403:2](mba23.htm#fr_439) *Ibid*., xiv, 1-6.
+<span id="fn_437"></span>[403:2](mba23.htm#fr_439.md) *Ibid*., xiv, 1-6.
 
-<span id="fn_438"></span>[403:3](mba23.htm#fr_440) *1 Kings*, xv, 25-6.
+<span id="fn_438"></span>[403:3](mba23.htm#fr_440.md) *1 Kings*, xv, 25-6.
 
-<span id="fn_439"></span>[404:1](mba23.htm#fr_441) *1 Kings*, xv, 16-7.
+<span id="fn_439"></span>[404:1](mba23.htm#fr_441.md) *1 Kings*, xv, 16-7.
 
-<span id="fn_440"></span>[404:2](mba23.htm#fr_442) *Ibid*., 18-9.
+<span id="fn_440"></span>[404:2](mba23.htm#fr_442.md) *Ibid*., 18-9.
 
-<span id="fn_441"></span>[404:3](mba23.htm#fr_443) *Ibid*., 20-2.
+<span id="fn_441"></span>[404:3](mba23.htm#fr_443.md) *Ibid*., 20-2.
 
-<span id="fn_442"></span>[405:1](mba23.htm#fr_444) *1 Kings*, xvi, 9-10.
+<span id="fn_442"></span>[405:1](mba23.htm#fr_444.md) *1 Kings*, xvi, 9-10.
 
-<span id="fn_443"></span>[405:2](mba23.htm#fr_445) *Ibid*., 15-8.
+<span id="fn_443"></span>[405:2](mba23.htm#fr_445.md) *Ibid*., 15-8.
 
-<span id="fn_444"></span>[405:3](mba23.htm#fr_446) *Ibid*., 21-2.
+<span id="fn_444"></span>[405:3](mba23.htm#fr_446.md) *Ibid*., 21-2.
 
-<span id="fn_445"></span>[406:1](mba23.htm#fr_447) *Micah*, vi, 16.
+<span id="fn_445"></span>[406:1](mba23.htm#fr_447.md) *Micah*, vi, 16.
 
-<span id="fn_446"></span>[406:2](mba23.htm#fr_448) *1 Kings*, xvi,
+<span id="fn_446"></span>[406:2](mba23.htm#fr_448.md) *1 Kings*, xvi,
 29-33.
 
-<span id="fn_447"></span>[406:3](mba23.htm#fr_449) *Ibid*., xviii, 1-4.
+<span id="fn_447"></span>[406:3](mba23.htm#fr_449.md) *Ibid*., xviii, 1-4.
 
-<span id="fn_448"></span>[407:1](mba23.htm#fr_450) *1 Kings*, xx.
+<span id="fn_448"></span>[407:1](mba23.htm#fr_450.md) *1 Kings*, xx.
 
-<span id="fn_449"></span>[407:2](mba23.htm#fr_451) *Ibid*., xxii, 43.
+<span id="fn_449"></span>[407:2](mba23.htm#fr_451.md) *Ibid*., xxii, 43.
 
-<span id="fn_450"></span>[407:3](mba23.htm#fr_452) *2 Chronicles*,
+<span id="fn_450"></span>[407:3](mba23.htm#fr_452.md) *2 Chronicles*,
 xviii, 1-2.
 
-<span id="fn_451"></span>[408:1](mba23.htm#fr_453) *1 Kings*, xxii and
+<span id="fn_451"></span>[408:1](mba23.htm#fr_453.md) *1 Kings*, xxii and
 *2 Chronicles*, xviii.
 
-<span id="fn_452"></span>[408:2](mba23.htm#fr_454) *1 Kings*, xxii,
+<span id="fn_452"></span>[408:2](mba23.htm#fr_454.md) *1 Kings*, xxii,
 48-9.
 
-<span id="fn_453"></span>[409:1](mba23.htm#fr_455) *1 Kings*, viii.
+<span id="fn_453"></span>[409:1](mba23.htm#fr_455.md) *1 Kings*, viii.
 
-<span id="fn_454"></span>[410:1](mba23.htm#fr_456) *2 Kings*, ix and *2
+<span id="fn_454"></span>[410:1](mba23.htm#fr_456.md) *2 Kings*, ix and *2
 Chronicles*, xxii.
 
-<span id="fn_455"></span>[411:1](mba23.htm#fr_457) *2 Kings*, viii,
+<span id="fn_455"></span>[411:1](mba23.htm#fr_457.md) *2 Kings*, viii,
 1-15.
 
-<span id="fn_456"></span>[411:2](mba23.htm#fr_458) *The Old Testament in
+<span id="fn_456"></span>[411:2](mba23.htm#fr_458.md) *The Old Testament in
 the Light of the Historical Records and Legends of Assyria and
 Babylonia*, pp. 337 *et seq*.
 
-<span id="fn_457"></span>[412:1](mba23.htm#fr_459) *2 Kings*, x, 32-3.
+<span id="fn_457"></span>[412:1](mba23.htm#fr_459.md) *2 Kings*, x, 32-3.
 
-<span id="fn_458"></span>[412:2](mba23.htm#fr_460) *Ibid*., 1-31.
+<span id="fn_458"></span>[412:2](mba23.htm#fr_460.md) *Ibid*., 1-31.
 
-<span id="fn_459"></span>[413:1](mba23.htm#fr_461) *2 Kings*, xi, 1-3.
+<span id="fn_459"></span>[413:1](mba23.htm#fr_461.md) *2 Kings*, xi, 1-3.
 
-<span id="fn_460"></span>[413:2](mba23.htm#fr_462) *2 Chronicles*, xxii,
+<span id="fn_460"></span>[413:2](mba23.htm#fr_462.md) *2 Chronicles*, xxii,
 10-12.
 
-<span id="fn_461"></span>[414:1](mba23.htm#fr_463) *2 Chronicles*,
+<span id="fn_461"></span>[414:1](mba23.htm#fr_463.md) *2 Chronicles*,
 xxiii, 1-17.
 
-<span id="fn_462"></span>[414:2](mba23.htm#fr_464) *2 Kings*, xiii, 1-5.
+<span id="fn_462"></span>[414:2](mba23.htm#fr_464.md) *2 Kings*, xiii, 1-5.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. The Age of Semiramis](mba24)
+[Next: Chapter XVIII. The Age of Semiramis](mba24.md)

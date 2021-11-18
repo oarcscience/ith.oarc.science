@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](ros00)  [Next](ros02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](ros00)  [Next](ros02.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -75,7 +75,7 @@ affairs of the people.
 
 The prehistoric Mishna, which always formed the law, in conformity with
 the existing custom, and not *vice versa*, <span
-id="fr_0"></span>[1](#fn_0) found four different New Year's days in four
+id="fr_0"></span>[1](#fn_0.md) found four different New Year's days in four
 different months, and, with the object in view of making the custom
 uniform in all Jewish communities, taught its adherents to observe four
 distinct New Year's days, at the beginning of the four respective months
@@ -172,10 +172,10 @@ historical and archæological point of view. Proceed, then, and study!
 
 ### Footnotes
 
-<span id="fn_0"></span>[xx:1](ros01.htm#fr_0) Facts corroborating this
+<span id="fn_0"></span>[xx:1](ros01.htm#fr_0.md) Facts corroborating this
 statement will be found in our periodical *Bakay*, Vol. II., p. 20 *et
 seq*.
 
 ------------------------------------------------------------------------
 
-[Next: Synopsis of Subjects of Tract Rosh Hashana](ros02)
+[Next: Synopsis of Subjects of Tract Rosh Hashana](ros02.md)

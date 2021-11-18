@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml41)  [Next](tml43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml41)  [Next](tml43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -113,7 +113,7 @@ thou dost strike next, and turn thine eyes from her."
 As the warrior bade, so did Dietrich do. He cut Hilde in twain, and
 immediately separated her body with his own, nor did he look round.
 
-That was the end of Hilde. <span id="fr_114"></span>[1](#fn_114) No
+That was the end of Hilde. <span id="fr_114"></span>[1](#fn_114.md) No
 longer could she work her evil will. So she cried:
 
 <span id="page_407">p. 407</span>
@@ -195,7 +195,7 @@ the warrior
 <span id="img_40800"></span> <span align="CENTER"> [![DIETRICH&lt;br&gt;
 &lt;i&gt;From the statue in the Church of the Franciscans at
 Innsbruck&lt;/i&gt;](tn/40800.jpg)  
-Click to enlarge](img/40800.jpg)  
+Click to enlarge](img/40800.jpg.md)  
 DIETRICH  
 *From the statue in the Church of the Franciscans at Innsbruck*  
 </span>
@@ -425,7 +425,7 @@ Amelungs.
 
 ### Footnotes
 
-<span id="fn_114"></span>[406:1](tml42.htm#fr_114) When Hercules fought
+<span id="fn_114"></span>[406:1](tml42.htm#fr_114.md) When Hercules fought
 with the nine-headed Hydra, each head, save one, which could not be
 hurt, grew again as fast as it was cut off. Then his nephew assisted him
 by searing the wounds with a torch. See *Classic Myth and Legend*, page
@@ -433,4 +433,4 @@ by searing the wounds with a torch. See *Classic Myth and Legend*, page
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVIII. The Land of Giants](tml43)
+[Next: Chapter XXXVIII. The Land of Giants](tml43.md)

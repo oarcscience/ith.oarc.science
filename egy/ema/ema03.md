@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ema02)  [Next](ema04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ema02)  [Next](ema04.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 ### ANTIQUITY OF MAGICAL PRACTICES IN EGYPT.
 
-IN the first volume of this series <span id="fr_0"></span>[1](#fn_0) an
+IN the first volume of this series <span id="fr_0"></span>[1](#fn_0.md) an
 attempt was made to set before the reader a statement of the ideas and
 beliefs which the ancient Egyptians held in respect of God, the "gods,"
 the Judgment, the Resurrection, and Immortality; in short, to sketch in
@@ -101,7 +101,7 @@ From the Hebrews we receive, incidentally, it is true, considerable
 information about the powers of the Egyptian magician. Saint Stephen
 boasts that the great legislator Moses "was learned in all the wisdom of
 the Egyptians," and declares that he "was mighty in words and in
-deeds," <span id="fr_1"></span>[1](#fn_1) and there are numerous
+deeds," <span id="fr_1"></span>[1](#fn_1.md) and there are numerous
 features in the life of this remarkable man which shew that he was
 acquainted with many of the practices of
 
@@ -112,8 +112,8 @@ the goddess Isis, he was "strong of tongue" and uttered the words of
 power which he knew with correct pronunciation, and halted not in his
 speech, and was perfect both in giving the command and in saying the
 word. The turning of a serpent into what is apparently an inanimate,
-wooden stick, <span id="fr_2"></span>[1](#fn_2) and the turning of the
-stick back into a writhing snake, <span id="fr_3"></span>[2](#fn_3) are
+wooden stick, <span id="fr_2"></span>[1](#fn_2.md) and the turning of the
+stick back into a writhing snake, <span id="fr_3"></span>[2](#fn_3.md) are
 feats which have been performed in the East from the most ancient
 period; and the power to control and direct the movements of such
 venomous reptiles was one of the things of which the Egyptian was most
@@ -122,7 +122,7 @@ pyramids were being built. But this was by no means the only proof which
 Moses gives that he was versed in the magic of the Egyptians, for, like
 the sage Âba-aner and king Nectanebus, and all the other magicians of
 Egypt from time immemorial, he and Aaron possessed a wonderful rod <span
-id="fr_4"></span>[3](#fn_4) by means of which they worked their wonders.
+id="fr_4"></span>[3](#fn_4.md) by means of which they worked their wonders.
 At the word of Moses Aaron lifted up his rod and smote the waters and
 they became blood; he stretched it out
 
@@ -144,7 +144,7 @@ uttering the name of one of his gods, or through the words of power
 which he had learned to recite; and there are many instances on record
 of Egyptian magicians utterly destroying their enemies by the recital of
 a few words possessed of magical power, and, by the performance of some,
-apparently, simple ceremony. <span id="fr_5"></span>[1](#fn_5) But one
+apparently, simple ceremony. <span id="fr_5"></span>[1](#fn_5.md) But one
 great distinction must be made between the magic of Moses and that of
 the Egyptians among whom he lived; the former was wrought by the command
 of the God of the Hebrews, but the latter by the gods of Egypt at the
@@ -162,17 +162,17 @@ When the Egyptians had come between the two walls of water, by God's
 command Moses stretched forth his hand over the sea, "and the sea
 returned to his strength," and the "waters returned, and covered the
 chariots, and the horsemen, *and* all the host of Pharaoh that came into
-the sea after them." <span id="fr_6"></span>[1](#fn_6) But the command
+the sea after them." <span id="fr_6"></span>[1](#fn_6.md) But the command
 of the waters of the sea or river was claimed by the Egyptian magician
 long before the time of Moses, as we may see from an interesting story
-preserved in the Westcar Papyrus. <span id="fr_7"></span>[2](#fn_7) This
+preserved in the Westcar Papyrus. <span id="fr_7"></span>[2](#fn_7.md) This
 document was written in the early part of the XVIIIth dynasty, about
 B.C. 1550 but it is clear that the stories in it date from the Early
 Empire, and are in fact as old as the Great Pyramid. The story is
 related to king Khufu (Cheops) by Baiu-f-Râ as an event which happened
 in the time of the king's father, and as a proof of the wonderful powers
 of magic which were possessed by the priest <span
-id="fr_8"></span>[3](#fn_8) called
+id="fr_8"></span>[3](#fn_8.md) called
 
 <span id="page_8">p. 8</span>
 
@@ -361,7 +361,7 @@ The end of the story does not concern us, and so we pass on to note that
 the act of touching the mouth which Zaclas performed is, of course, a
 part of the ceremony of "opening the mouth" which is so often referred
 to in religious texts, and was considered of extreme importance for the
-welfare of the dead, <span id="fr_9"></span>[1](#fn_9) and that the
+welfare of the dead, <span id="fr_9"></span>[1](#fn_9.md) and that the
 power of bringing back the dead to life which Apuleius ascribes to the
 priest or magician was actually claimed some thousands of years before
 Christ by the sages of Egypt, as we may see from the following story in
@@ -374,7 +374,7 @@ A son of king Khufu (or Cheops, who reigned about
 \[paragraph continues\] B.C. 3800) called Herutâtâf, who was famous as a
 learned man and whose name is preserved in the "Book of the Dead" in
 connection with the "discovery" of certain Chapters of that wonderful
-compilation, <span id="fr_10"></span>[1](#fn_10) was one day talking to
+compilation, <span id="fr_10"></span>[1](#fn_10.md) was one day talking to
 his father, presumably on the subject of the powers of working magic
 possessed by the ancients. In answer to some remark by Khufu he replied,
 "Up to the present thou hast only heard reports concerning the things
@@ -517,7 +517,7 @@ which the walls of the tombs were often covered, and the figures of the
 gods, painted or sculptured upon stelæ or sarcophagi, would still
 further impress the barbarian folk who always regard the written letter
 and those who understand it with great awe. The following story from
-Mas'ûdî <span id="fr_11"></span>[1](#fn_11) will illustrate the views
+Mas'ûdî <span id="fr_11"></span>[1](#fn_11.md) will illustrate the views
 which the Arabs
 
 <span id="page_22">p. 22</span>
@@ -556,7 +556,7 @@ were considered by those who could neither understand nor read them to
 be nothing more nor less than magical figures and formulæ which were
 intended to serve as talismans.
 
-The historian Mas'ûdî mentions <span id="fr_12"></span>[1](#fn_12) an
+The historian Mas'ûdî mentions <span id="fr_12"></span>[1](#fn_12.md) an
 instance of the powers of working magic possessed by a certain Jew,
 which proves that the magical practices of the Egyptians had passed
 eastwards and had found a congenial home among the Jews who lived in and
@@ -586,51 +586,51 @@ bear upon these subjects generally.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](ema03.htm#fr_0) The series referred to is
+<span id="fn_0"></span>[1:1](ema03.htm#fr_0.md) The series referred to is
 Books on Egypt and Chaldaea, published by Kegan Paul. Budge wrote
 several volumes in the series, including the first, mentioned here,
 Egyptian Religion.--THE PUBLISHER
 
-<span id="fn_1"></span>[4:1](ema03.htm#fr_1) Acts vii. 22.
+<span id="fn_1"></span>[4:1](ema03.htm#fr_1.md) Acts vii. 22.
 
-<span id="fn_2"></span>[5:1](ema03.htm#fr_2) Exodus vii. 10 ff. Two of
+<span id="fn_2"></span>[5:1](ema03.htm#fr_2.md) Exodus vii. 10 ff. Two of
 Moses' opponents were called "Jannes" and "Jambres" (See 2 Timothy iii.
 8).
 
-<span id="fn_3"></span>[5:2](ema03.htm#fr_3) That Moses' rod or serpent
+<span id="fn_3"></span>[5:2](ema03.htm#fr_3.md) That Moses' rod or serpent
 should swallow up the rods or serpents of the Egyptians is, of course,
 to be expected, just as his magical powers are declared to be superior
 to those of the Egyptians.
 
-<span id="fn_4"></span>[5:3](ema03.htm#fr_4) An interesting paper on the
+<span id="fn_4"></span>[5:3](ema03.htm#fr_4.md) An interesting paper on the
 use of the rod by the Egyptians and Hebrews was published by Chabas in
 *Annales du Musée Guimet*, tom. i. pp. 35-48, Paris, 1880.
 
-<span id="fn_5"></span>[6:1](ema03.htm#fr_5) For details, see Chapter
+<span id="fn_5"></span>[6:1](ema03.htm#fr_5.md) For details, see Chapter
 III. (Magical Figures).
 
-<span id="fn_6"></span>[7:1](ema03.htm#fr_6) Exodus xiv. 21-28.
+<span id="fn_6"></span>[7:1](ema03.htm#fr_6.md) Exodus xiv. 21-28.
 
-<span id="fn_7"></span>[7:2](ema03.htm#fr_7) See Erman, *Die Märchen des
+<span id="fn_7"></span>[7:2](ema03.htm#fr_7.md) See Erman, *Die Märchen des
 Papyrus Westcar*, Berlin, 1890.
 
-<span id="fn_8"></span>[7:3](ema03.htm#fr_8) He was the chief *kher
+<span id="fn_8"></span>[7:3](ema03.htm#fr_8.md) He was the chief *kher
 <u>h</u>eb*, *i.e.*, the head of the priests who officiated in funeral
 ceremonies, and read the service from a book.
 
-<span id="fn_9"></span>[15:1](ema03.htm#fr_9) See Chapter VI. (Magical
+<span id="fn_9"></span>[15:1](ema03.htm#fr_9.md) See Chapter VI. (Magical
 Ceremonies).
 
-<span id="fn_10"></span>[16:1](ema03.htm#fr_10) Chapters XXX., LXIV.,
+<span id="fn_10"></span>[16:1](ema03.htm#fr_10.md) Chapters XXX., LXIV.,
 CXXXVII. See my *Chapters of Coming Forth by Day* (text), pp. 97, 141,
 309.
 
-<span id="fn_11"></span>[21:1](ema03.htm#fr_11) *Les Prairies d'Or* (ed.
+<span id="fn_11"></span>[21:1](ema03.htm#fr_11.md) *Les Prairies d'Or* (ed.
 by B. de Meynard and P. de Courteille), Paris, 1863, tom. ii. p. 398 f.
 
-<span id="fn_12"></span>[23:1](ema03.htm#fr_12) *Les Prairies d'Or* (ed.
+<span id="fn_12"></span>[23:1](ema03.htm#fr_12.md) *Les Prairies d'Or* (ed.
 B. de Meynard), Paris, 1865, tom. iv. pp. 266, 267.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Magical Stones or Amulets](ema04)
+[Next: Chapter II. Magical Stones or Amulets](ema04.md)

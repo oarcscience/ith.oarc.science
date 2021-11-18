@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had25)  [Next](had27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had25)  [Next](had27.md) 
 
 ------------------------------------------------------------------------
 
@@ -181,4 +181,4 @@ other people's rights to land.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV: Matters Relating to Service (Ijārāt)](had27)
+[Next: Chapter XXIV: Matters Relating to Service (Ijārāt)](had27.md)

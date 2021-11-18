@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](palf04)  [Next](palf06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](palf04)  [Next](palf06.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ accomplished by virtue and philosophical thought.
 Like the Neo-Platonists, Alfarabi holds in his treatise on *The
 Agreement Between Plato and Aristotle*, that there is no essential
 difference between the philosophy of Plato and that of Aristotle. <span
-id="fr_0"></span>[1](#fn_0) Therefore, the Emanatist Monism as well as
+id="fr_0"></span>[1](#fn_0.md) Therefore, the Emanatist Monism as well as
 the reconciliation of Plato and Aristotle may be regarded as the
 outstanding features which make Alfarabi's philosophy depend on
 
@@ -43,11 +43,11 @@ nature requires a gradual rise from the imperfect to the perfect.
 Mathematics is a very important subject in training the mind of the
 young philosopher because it helps him pass easily from the sensible to
 the intelligible, and also because it familiarizes his mind with exact
-demonstrations. <span id="fr_1"></span>[2](#fn_1)
+demonstrations. <span id="fr_1"></span>[2](#fn_1.md)
 
 The study of Logic, as an instrument to distinguish the true from the
 false, is of great educational value before beginning the study of
-philosophy proper. <span id="fr_2"></span>[3](#fn_2)
+philosophy proper. <span id="fr_2"></span>[3](#fn_2.md)
 
 <span id="page_xv">p. xv</span>
 
@@ -55,11 +55,11 @@ The training of one's own character, instincts and tendencies must come
 before entering into philosophy, for unless that is done, the chances
 are that the student will never fully grasp the higher and more solid
 truths, because his mind is still clouded by sensibility. <span
-id="fr_3"></span>[4](#fn_3)
+id="fr_3"></span>[4](#fn_3.md)
 
 Philosophy is studied primarily to obtain a knowledge of God as the
 Creator and Efficient Cause of all things, the One, Immovable. <span
-id="fr_4"></span>[5](#fn_4)
+id="fr_4"></span>[5](#fn_4.md)
 
 The student of philosophy must be instructed in the sources from which
 the different philosophies take their names. For example, he should be
@@ -69,7 +69,7 @@ discussed with students while walking up and down a garden. He should be
 taught that other philosophies take their names from the author, such as
 Platonism from Plato and Aristotelism from Aristotle; and that others
 take their names from the goal they propose, such as Epicurism, setting
-pleasure as an end. <span id="fr_5"></span>[6](#fn_5)
+pleasure as an end. <span id="fr_5"></span>[6](#fn_5.md)
 
 In teaching, two extremes must be avoided. The teacher must be neither
 excessively strict nor excessively lenient. For, if he is too strict he
@@ -77,12 +77,12 @@ errs through excess and if he is too lenient, he errs through defect. If
 the teacher becomes unpopular be-cause of his severity, his excessive
 leniency will also tend to make him unworthy of respect. The teacher,
 therefore, should avoid excess as well as defect. <span
-id="fr_6"></span>[7](#fn_6)
+id="fr_6"></span>[7](#fn_6.md)
 
 The young man must be persuaded to persevere in the study of philosophy
 by calling his attention now and then to the old Arabic saying, "The
 drop wears away the stone",--"Gutta cavat lapidem". <span
-id="fr_7"></span>[8](#fn_7)
+id="fr_7"></span>[8](#fn_7.md)
 
 The teacher should see that his student attends only to one
 
@@ -91,7 +91,7 @@ The teacher should see that his student attends only to one
 thing at a time. For, only one thing can be well mastered at a time. The
 reason for this rule is to have the student concentrate his attention
 upon the object of study and make a success of it. <span
-id="fr_8"></span>[9](#fn_8)
+id="fr_8"></span>[9](#fn_8.md)
 
 #### DEFINITION AND DIVISION OF PHILOSOPHY
 
@@ -122,7 +122,7 @@ III PRACTICAL
 
 ### Footnotes
 
-<span id="fn_0"></span>[xiii:1](palf05.htm#fr_0) Alfarabi, *On The
+<span id="fn_0"></span>[xiii:1](palf05.htm#fr_0.md) Alfarabi, *On The
 Agreement Between Plato and Aristotle*, in Collection of various
 treatises. Arabic ed. Cairo 1907. Muhammad Ismail, pp. 1-39.
 
@@ -163,25 +163,25 @@ consequently, the product of motion. That explains why he was obliged to
 believe that God created the world without time, and that time is the
 result of the motion of the world. \[op. cit. pp. 26-27\]
 
-<span id="fn_1"></span>[xiv:2](palf05.htm#fr_1) Alfarabi, *What Must
+<span id="fn_1"></span>[xiv:2](palf05.htm#fr_1.md) Alfarabi, *What Must
 Precede the Study of Philosophy*, in Collection of various treatises, 1
 Arabic ed., Cairo, 1907, Muhammad Ismail, n. 3, p. 61.
 
-<span id="fn_2"></span>[xiv:3](palf05.htm#fr_2) Id. op. cit. n. 3, p.
+<span id="fn_2"></span>[xiv:3](palf05.htm#fr_2.md) Id. op. cit. n. 3, p.
 62.
 
-<span id="fn_3"></span>[xv:4](palf05.htm#fr_3) Id. op. cit. n. 3, p. 62.
+<span id="fn_3"></span>[xv:4](palf05.htm#fr_3.md) Id. op. cit. n. 3, p. 62.
 
-<span id="fn_4"></span>[xv:5](palf05.htm#fr_4) Id. op. cit. n. 4, p. 62.
+<span id="fn_4"></span>[xv:5](palf05.htm#fr_4.md) Id. op. cit. n. 4, p. 62.
 
-<span id="fn_5"></span>[xv:6](palf05.htm#fr_5) Id. op. cit. n. 1, p. 58.
+<span id="fn_5"></span>[xv:6](palf05.htm#fr_5.md) Id. op. cit. n. 1, p. 58.
 
-<span id="fn_6"></span>[xv:7](palf05.htm#fr_6) Id. op. cit. n. 8, p. 63.
+<span id="fn_6"></span>[xv:7](palf05.htm#fr_6.md) Id. op. cit. n. 8, p. 63.
 
-<span id="fn_7"></span>[xv:8](palf05.htm#fr_7) Id. op. cit. n. 8, p. 63
+<span id="fn_7"></span>[xv:8](palf05.htm#fr_7.md) Id. op. cit. n. 8, p. 63
 
-<span id="fn_8"></span>[xvi:9](palf05.htm#fr_8) Id. op. cit. n. 8, p. 63
+<span id="fn_8"></span>[xvi:9](palf05.htm#fr_8.md) Id. op. cit. n. 8, p. 63
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Logic](palf06)
+[Next: Chapter I. Logic](palf06.md)

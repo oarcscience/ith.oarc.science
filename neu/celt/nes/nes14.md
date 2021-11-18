@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes13)  [Next](nes15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes13)  [Next](nes15.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE belief in fairies was all but universal. Some imagined them to be
 fallen angels, whose sin was not so great as theirs who were cast into
@@ -93,7 +93,7 @@ Sometimes they succeeded in carrying off an unbaptised infant, and for
 it they left one of their own. The one left by them soon began to
 "dwine," and to fret and cry night and day. At times the child has been
 saved from them as they were carrying it through the *dog-hole*. <span
-id="fr_50"></span>[1](#fn_50)
+id="fr_50"></span>[1](#fn_50.md)
 
 A fisherwoman had a fine thriving baby. One day what looked like a
 beggar woman entered the house. She went to the cradle in which the baby
@@ -253,18 +253,18 @@ was baked in a family the cakes must not be counted. Fairies always ate
 cakes that had been counted; they did not last the ordinary time.
 
 The whirlwind that raises the dust on roads is called "a furl o’
-fairies' ween." <span id="fr_51"></span>[1](#fn_51)
+fairies' ween." <span id="fr_51"></span>[1](#fn_51.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_50"></span>[61:1](nes14.htm#fr_50) Cf. *F. L. Record*, vol.
+<span id="fn_50"></span>[61:1](nes14.htm#fr_50.md) Cf. *F. L. Record*, vol.
 i. p. 235.
 
-<span id="fn_51"></span>[65:1](nes14.htm#fr_51) Cf. *F. L. Record*, vol.
+<span id="fn_51"></span>[65:1](nes14.htm#fr_51.md) Cf. *F. L. Record*, vol.
 i. pp. 26-29, and 229-231, and Henderson, p. 277.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Waterkelpie](nes15)
+[Next: Chapter XII. Waterkelpie](nes15.md)

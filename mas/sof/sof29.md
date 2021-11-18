@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof28)  [Next](sof30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof28)  [Next](sof30.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <div>
 
 <span id="img_head27.png"></span> ![Header Chapter
-XXVII.](img/head27.png)
+XXVII.](img/head27.png.md)
 
 ## XXVII.
 
@@ -29,13 +29,13 @@ months, to the amazement of all the world; when the cape-stone was
 celebrated by the fraternity with great joy. But their joy was soon
 interrupted by the sudden death of their dear master, Hiram Abif, whom
 they decently interred, in the lodge near the temple, according to
-ancient dusage."  [157](sof37.htm#xref_157)
+ancient dusage."  [157](sof37.htm#xref_157.md)
 
 In the next edition of the same work, published in 1756, a few
 additional circumstances are related, such as the participation of King
 Solomon in the general grief, and the fact that the king of Israel
 "ordered his obsequies to be conducted with great solemnity and
-decency."  [158](sof37.htm#xref_158) With these exceptions, and the
+decency."  [158](sof37.htm#xref_158.md) With these exceptions, and the
 citations of the same passages, made by subsequent authors, the
 narrative has always remained unwritten, and descended, from age to age,
 through the means of oral tradition.
@@ -63,16 +63,16 @@ Freemasonry, and its connection with the ancient systems of initiation.
 It was, then, the great object of all the rites and mysteries which
 constituted the "Spurious Freemasonry" of antiquity to teach the
 consoling doctrine of the immortality of the
-soul. [159](sof37.htm#xref_159) This dogma, shining as an almost
+soul. [159](sof37.htm#xref_159.md) This dogma, shining as an almost
 solitary beacon-light in the surrounding gloom of pagan darkness, had
 undoubtedly been received from that ancient people or
-priesthood [160](sof37.htm#xref_160) what has been called the system of
+priesthood [160](sof37.htm#xref_160.md) what has been called the system of
 "Pure Freemasonry," and among whom it probably existed only in the form
 of an abstract proposition or a simple and unembellished tradition. But
 in the more sensual minds of the pagan philosophers and mystics, the
 idea, when presented to the initiates in their Mysteries, was always
 conveyed in the form of a scenic
-representation. [161](sof37.htm#xref_161) The influence, too, of the
+representation. [161](sof37.htm#xref_161.md) The influence, too, of the
 early Sabian worship of the sun and heavenly bodies, in which the solar
 orb was adored, on its resurrection, each morning, from the apparent
 death of its evening setting, caused this rising sun to be adopted in
@@ -107,12 +107,12 @@ Now, is not this symbolism evident to every reflective mind?
 Man, setting forth on the voyage of life, with faculties and powers
 fitting him for the due exercise of the high duties to whose performance
 he has been called, holds, if he be "a curious and cunning workman,"
- [162](sof37.htm#xref_162) skilled in all moral and intellectual
+ [162](sof37.htm#xref_162.md) skilled in all moral and intellectual
 purposes (and it is only of such men that the temple builder can be the
 symbol), within the grasp of his attainment the knowledge of all that
 divine truth imparted to him as the heirloom of his race--that race to
 whom it has been granted to look, with exalted countenance, on
-high; [163](sof37.htm#xref_163) which divine truth is symbolized by the
+high; [163](sof37.htm#xref_163.md) which divine truth is symbolized by the
 WORD.
 
 Thus provided with the word of life, he occupies his time in the
@@ -136,7 +136,7 @@ prostrate into the grave, *and is buried in the rubbish* of his sin and
 human frailty.
 
 Here, then, in Masonry, is what was called the
-*aphanism* [164](sof37.htm#xref_164) in the ancient Mysteries. The
+*aphanism* [164](sof37.htm#xref_164.md) in the ancient Mysteries. The
 bitter but necessary lesson of death has been imparted. The living soul,
 with the lifeless body which encased it, has disappeared, and *can
 nowhere be found*. All is darkness--confusion-- despair. Divine
@@ -151,7 +151,7 @@ conscious and innate instinct for another existence. And hence the
 succeeding portions of the legend are intended to convey the sublime
 symbolism of a resurrection from the grave and a new birth into a future
 life. The discovery of the body, which, in the initiations of the
-ancient Mysteries, was called the *euresis*, [165](sof37.htm#xref_165)
+ancient Mysteries, was called the *euresis*, [165](sof37.htm#xref_165.md)
 and its removal, from the polluted grave into which it had been cast, to
 an honored and sacred place within the precincts of the temple, are all
 profoundly and beautifully symbolic of that great truth, the discovery
@@ -190,29 +190,29 @@ being prophetically symbolized.
 
 In some of the high philosophical degrees it is taught that the whole
 legend refers to the sufferings and death, with the subsequent
-resurrection, of Christ. [166](sof37.htm#xref_166)
+resurrection, of Christ. [166](sof37.htm#xref_166.md)
 
 Hutchinson, who has the honor of being the earliest philosophical writer
 on Freemasonry in England, supposes it to have been intended to embody
 the idea of the decadence of the Jewish religion, and the substitution
 of the Christian in its place and on its
-ruins. [167](sof37.htm#xref_167)
+ruins. [167](sof37.htm#xref_167.md)
 
 Dr. Oliver--"clarum et venerabile nomen"--thinks that it is typical of
 the murder of Abel by Cain, and that it symbolically refers to the
 universal death of our race through Adam, and its restoration to life in
-the Redeemer, [168](sof37.htm#xref_168) according to the expression of
+the Redeemer, [168](sof37.htm#xref_168.md) according to the expression of
 the apostle, "As in Adam we all died, so in Christ we all live."
 
 Ragon makes Hiram a symbol of the sun shorn of its vivifying rays and
 fructifying power by the three winter months, and its restoration to
-generative heat by the season of spring. [169](sof37.htm#xref_169)
+generative heat by the season of spring. [169](sof37.htm#xref_169.md)
 
 And, finally, Des Etangs, adopting, in part, the interpretation of
 Ragon, adds to it another, which he calls the moral symbolism of the
 legend, and supposes that Hiram is no other than eternal reason, whose
 enemies are the vices that deprave and destroy
-humanity. [170](sof37.htm#xref_170)
+humanity. [170](sof37.htm#xref_170.md)
 
 To each of these interpretations it seems to me that there are important
 objections, though perhaps to some less so than to others.
@@ -229,7 +229,7 @@ The Templar interpretation of the myth must at once be discarded if we
 would avoid the difficulties of anachronism, unless we deny that the
 legend existed before the abolition of the Order of Knights Templar, and
 such denial would be fatal to the antiquity of
-Freemasonry. [171](sof37.htm#xref_171)
+Freemasonry. [171](sof37.htm#xref_171.md)
 
 And as to the adoption of the Christian reference, Hutchinson, and after
 him Oliver, profoundly philosophical as are the masonic speculations of
@@ -301,7 +301,7 @@ the fifty of the Persian. This cell or couch, technically called the
 resurrection or apotheosis, was represented in the legend.
 
 The learned Faber says that this ceremony was doubtless the same as the
-descent into Hades, [172](sof37.htm#xref_172) and that, when the
+descent into Hades, [172](sof37.htm#xref_172.md) and that, when the
 aspirant entered into the mystic cell, he was directed to lay himself
 down upon the bed which shadowed out the tomb of the Great Father, or
 Noah, to whom, it will be recollected, that Faber refers all the ancient
@@ -335,7 +335,7 @@ sepulchre of Christ. This can easily be done by a very few but striking
 analogies, which will, I conceive, carry conviction to any thinking
 mind.
 
-1\. Mount Calvary was a *small hill*. [173](sof37.htm#xref_173)
+1\. Mount Calvary was a *small hill*. [173](sof37.htm#xref_173.md)
 
 2\. It was situated in a *westward direction* from the temple, and *near
 Mount Moriah*.
@@ -343,7 +343,7 @@ Mount Moriah*.
 3\. It was on the direct road from Jerusalem to Joppa, and is thus the
 very spot where a *weary brother*, travelling on that road, would find
 it convenient to *sit down to rest and refresh
-himself*. [174](sof37.htm#xref_174)
+himself*. [174](sof37.htm#xref_174.md)
 
 4\. It was *outside* the gate of the temple.
 
@@ -358,7 +358,7 @@ expressive mode, it may be observed that if a party of persons were to
 start forth from the temple at Jerusalem, and travel in a westward
 direction towards the port of Joppa, Mount Calvary would be the first
 hill met with; and as it may possibly have been used as a place of
-sepulture, which its name of Golgotha [175](sof37.htm#xref_175) seems to
+sepulture, which its name of Golgotha [175](sof37.htm#xref_175.md) seems to
 import, we may suppose it to have been the very spot alluded to in the
 Third Degree, as the place where the craftsmen, on their way to Joppa,
 discovered the evergreen acacia.
@@ -376,7 +376,7 @@ buried. Sir R. Torkington, who published a pilgrimage to Jerusalem in
 1517, says that "under the Mount of Calvary is another chapel of our
 Blessed Lady and St. John the Evangelist, that was called Golgotha; and
 there, right under the mortise of the cross, was found the head of our
-forefather, Adam."  [176](sof37.htm#xref_176) Golgotha, it will be
+forefather, Adam."  [176](sof37.htm#xref_176.md) Golgotha, it will be
 remembered, means, in Hebrew, "the place of a skull;" and there may be
 some connection between this tradition and the name of Golgotha, by
 which the Evangelists inform us, that in the time of Christ Mount
@@ -488,6 +488,6 @@ resurrection to another and an eternal life.
 
 ------------------------------------------------------------------------
 
-[Next: XXVIII. The Sprig of Acacia](sof30)
+[Next: XXVIII. The Sprig of Acacia](sof30.md)
 
 </div>

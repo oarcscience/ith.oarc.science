@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Apocrypha](../apo/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Apocrypha](../apo/index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](did00)    [Page
-Index](pageidx)    [Text \[Zipped\]](did.txt.gz)
+[Contents](#contents)    [Start Reading](did00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](did.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -46,8 +46,8 @@ ministry of the time.--J.B. Hare, Jan. 3, 2010.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](did00)  
-[Introduction](did01)  
-[Introduction to Greek Text](did02)  
-[The Didache: Translation](did03)  
-[Notes](did04)  
+<span id="contents"></span> [Title Page](did00.md)  
+[Introduction](did01.md)  
+[Introduction to Greek Text](did02.md)  
+[The Didache: Translation](did03.md)  
+[Notes](did04.md)  

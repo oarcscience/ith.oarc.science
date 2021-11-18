@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht29)  [Next](cht31) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht29)  [Next](cht31.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ relatives say to her soon: "Now be glad," and, indeed, she gets glad.
 
 ------------------------------------------------------------------------
 
-[Next: Whaling](cht31)
+[Next: Whaling](cht31.md)

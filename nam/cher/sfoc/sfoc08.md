@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc07)  [Next](sfoc09) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc07)  [Next](sfoc09.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ are now in possession of the Bureau.
 
 ------------------------------------------------------------------------
 
-[Next: The Kanâheta Ani-Tsalagi Eti](sfoc09)
+[Next: The Kanâheta Ani-Tsalagi Eti](sfoc09.md)

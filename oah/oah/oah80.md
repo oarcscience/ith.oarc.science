@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah79)  [Next](oah81) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah79)  [Next](oah81.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ heavens; and after that returned again to Hored.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](oah81)
+[Next: Chapter IV](oah81.md)

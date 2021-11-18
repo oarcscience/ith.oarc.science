@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca10)  [Next](ntca12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca10)  [Next](ntca12.md) 
 
 ------------------------------------------------------------------------
 
@@ -200,7 +200,7 @@ these was the Quabara Oruncha of Kulparra, a place now called the Deep
 Well about fifty miles to the south of Alice Springs. The ceremony
 belongs to a Purula man, and the two performers were respectively a
 <span id="page_330">p. 330</span> Purula man of the “native
-pheasant” <span id="fr_128"></span>[1](#fn_128) totem, and a Kumara man
+pheasant” <span id="fr_128"></span>[1](#fn_128.md) totem, and a Kumara man
 of the kangaroo totem. Each man wore, fixed into his head-dress, four
 Churinga, while his body was decorated with
 
@@ -232,7 +232,7 @@ upon the muscles of his neck must have been severe, for though the
 actual performance only lasted a few minutes the preparation for it
 occupied two hours. The front of the head-dress and the face were
 covered with a mass of white down; a band of blue-gray wad <span
-id="fr_129"></span>[1](#fn_129) ornamented his shoulders and chest, and
+id="fr_129"></span>[1](#fn_129.md) ornamented his shoulders and chest, and
 in the middle was joined to another which ran round above the waist,
 each having an edging of white down. From the front of the head-dress
 projected two sticks, each of which was nearly a yard in length, and was
@@ -491,7 +491,7 @@ stopped him, and then went round and did the same to various old
 Bulthara and Panunga men, and touched with a piece of white down the
 navel of the old Purula man of the white bat totem, whose locality lay
 close to that with which the ceremony was associated <span
-id="fr_130"></span>[1](#fn_130) Then he sat down and called the young
+id="fr_130"></span>[1](#fn_130.md) Then he sat down and called the young
 Purula man up to assist him in removing the decorations.
 
 After each ceremony the down is carefully removed from the body, though
@@ -628,7 +628,7 @@ that they all formed a line on the east side of and parallel to the
 just touched the opposite side of the *Parra* to that on which the
 boughs were placed. In less than a minute's time they all lay down, in
 perfect silence, upon their backs, quite close to one another, with each
-man's head resting on the *Parra*. <span id="fr_131"></span>[1](#fn_131)
+man's head resting on the *Parra*. <span id="fr_131"></span>[1](#fn_131.md)
 All save one or two old men moved away, and these few stayed to watch
 the *Illpongwurra*. For some time not a sound was to be heard. None of
 them might speak or move without the consent of the old men in whose
@@ -1133,7 +1133,7 @@ one on either side, and just below the *Chilara* a long nose bone was
 attached,—in fact the decoration was just that of a human head. Then a
 few Churinga, which might be of any totem, were strung on near to the
 top, and the pole thus decorated was brought on to the ground. <span
-id="fr_132"></span>[1](#fn_132) A hole was dug two feet deep by means of
+id="fr_132"></span>[1](#fn_132.md) A hole was dug two feet deep by means of
 a pointed digging stick, and in this it was firmly implanted at a
 distance of about six yards from the *Parra* and opposite to the middle
 of the mound.
@@ -1278,7 +1278,7 @@ then through the line of boughs. Each of the *ab-moara* men then led his
 *protégés* round the *Parra*, all singing out “*whrr, whrr*,” as they
 ran round for the last time. When all had been round, the men grouped
 themselves at the base of the *Kauaua*, <span
-id="fr_133"></span>[1](#fn_133) and then, in perfect silence, the whole
+id="fr_133"></span>[1](#fn_133.md) and then, in perfect silence, the whole
 party walked in single file through the break
 
 <span id="page_379">p. 379</span> <span id="page_380">p. 380</span>
@@ -1481,30 +1481,30 @@ facilitate matters.
 
 ### Footnotes
 
-<span id="fn_128"></span>[330:1](ntca11.htm#fr_128) *Leipoa ocellata,*
+<span id="fn_128"></span>[330:1](ntca11.htm#fr_128.md) *Leipoa ocellata,*
 the mound bird.
 
-<span id="fn_129"></span>[331:1](ntca11.htm#fr_129) Wad is an oxide of
+<span id="fn_129"></span>[331:1](ntca11.htm#fr_129.md) Wad is an oxide of
 manganese, which when powdered up produces a bluish-gray powder, and is
 rubbed on the body for decorative purposes. The wad is obtained from a
 special spot near to Henbury on the Finke River.
 
-<span id="fn_130"></span>[344:1](ntca11.htm#fr_130) Imanda itself is the
+<span id="fn_130"></span>[344:1](ntca11.htm#fr_130.md) Imanda itself is the
 great centre of the frog totem; but occupying a strip along the southern
 bank of the Hugh River, close by, is a local centre of the Unchipera or
 small bat totem, while opposite to this on the north bank of the river
 is a centre of the Elkintera or large white bat totem.
 
-<span id="fn_131"></span>[351:1](ntca11.htm#fr_131) They have to lie
+<span id="fn_131"></span>[351:1](ntca11.htm#fr_131.md) They have to lie
 down so that the *Parra* is between them and the women's camp, and the
 latter must always lie to the east of the *Parra*.
 
-<span id="fn_132"></span>[372:1](ntca11.htm#fr_132) The possible
+<span id="fn_132"></span>[372:1](ntca11.htm#fr_132.md) The possible
 significance of the *Kauaua* is dealt with in connection with the
 description of the decoration of objects used during sacred ceremonies,
 Chap. XIX.
 
-<span id="fn_133"></span>[378:1](ntca11.htm#fr_133) The relative
+<span id="fn_133"></span>[378:1](ntca11.htm#fr_133.md) The relative
 positions of the *Parra* and of the women's camp must be such that when
 grouped round the *Kauaua*, and looking towards the women, the men face
 eastwards, the *Parra* lying between them and the women. The direction
@@ -1516,4 +1516,4 @@ the rising of the sun.
 ------------------------------------------------------------------------
 
 [Next: Chapter X: Traditions Dealing with the Origin of the Alcheringa
-Ancestors of the Arunta Tribe and with Particular Customs](ntca12)
+Ancestors of the Arunta Tribe and with Particular Customs](ntca12.md)

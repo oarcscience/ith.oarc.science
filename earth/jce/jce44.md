@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce43)  [Next](jce45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce43)  [Next](jce45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -251,4 +251,4 @@ The compass had lost its properties! it had ceased to act properly!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLIII. Shot Out of a Volcano at Last!](jce45)
+[Next: Chapter XLIII. Shot Out of a Volcano at Last!](jce45.md)

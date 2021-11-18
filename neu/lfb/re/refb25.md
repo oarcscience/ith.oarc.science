@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb24)  [Next](refb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb24)  [Next](refb26.md) 
 
 </div>
 
@@ -264,6 +264,6 @@ barrel was rolled down the hill till it fell into the river.\[19\]
 
 ------------------------------------------------------------------------
 
-[Next: Dapplegrim](refb26)
+[Next: Dapplegrim](refb26.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo09)  [Next](hoo11) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo09)  [Next](hoo11.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,13 +12,13 @@
 ###### The FUMIGATION from MYRRH.
 
 O Mighty first-begotten, hear my pray'r,  <span
-id="fr_50"></span>[1](#fn_50)  
+id="fr_50"></span>[1](#fn_50.md)  
 Two-fold, egg-born, and wand'ring thro' the air,
 
 <span id="page_119">p. 119</span>
 
 Bull-roarer, glorying in thy golden wings,  <span
-id="fr_51"></span>[3](#fn_51)  
+id="fr_51"></span>[3](#fn_51.md)  
 From whom the race of Gods and mortals springs.
 
 <span id="page_120">p. 120</span>
@@ -41,11 +41,11 @@ And holy sacrifice propitious shine.
 
 ### Footnotes
 
-<span id="fn_50"></span>[118:1](hoo10.htm#fr_50) Ver. 1.\]
+<span id="fn_50"></span>[118:1](hoo10.htm#fr_50.md) Ver. 1.\]
 *First-begotten*, and v. ii. *Egg-born*. According to Orpheus, as
 related by Syrianus in Metaph. Aristot. p. 114, the first principle; of
 all things is Unity or the Good itself, and after this the Duad, or
-Æther and Chaos, subsists, according to [Phythagoras](errata.htm#0). The
+Æther and Chaos, subsists, according to [Phythagoras](errata.htm#0.md). The
 first of these, or Æther, approaches to a similitude of the one itself,
 and is the representative of bound; the other, Chaos, comprehends in its
 essence multitude and infinity. Afterwards (says Syrianus) the first and
@@ -76,7 +76,7 @@ orders, and in the world, both which they adorn. For Phanes is not only
 among the intelligible Gods, but also among the intellectual ones; in
 the demiurgic order, and among the super-mundane and mundane Gods. And
 Night and Heaven in a similar manner: for the peculiarities of these are
-[received](errata.htm#1) through all the middle orders. But with respect
+[received](errata.htm#1.md) through all the middle orders. But with respect
 to the great Saturn himself, has he not an order prior to that of
 Jupiter, and likewise posterior to the jovial king, distributing the
 Dionysiacal administration (δημιυργία) together with the other Titans?
@@ -87,7 +87,7 @@ hymn, and the hymns to Night, Heaven, Saturn and Jupiter together, we
 shall find them celebrated as the sources of all things; and Bacchus is
 expressly called Protogonus.
 
-<span id="fn_51"></span>[119:3](hoo10.htm#fr_51) Ver. 3.\]
+<span id="fn_51"></span>[119:3](hoo10.htm#fr_51.md) Ver. 3.\]
 *Bull-roarer*. Phanes, who, according to the preceding account, is the
 author of the sensible world, is represented <span id="page_120">p.
 120</span> by Orpheus (for the purpose of shadowing forth the causal,
@@ -103,7 +103,7 @@ why Phanes is called Bull-roarer. Hence too from the account of Phanes
 given by Proclus, it follows that what that divinity is in the
 intelligible, that Thetis must be in the sensible world. For Thetis
 according to Proclus, lib. v. in Timæum is Πρετϐυτάτη Θεῶν, or the most
-ancient and progenitor of the Gods: and Thetis [is](errata.htm#2) the
+ancient and progenitor of the Gods: and Thetis [is](errata.htm#2.md) the
 mother of Venus, and Protogonus the father of Night. Venus therefore in
 the sensible world is the same as Night in the intelligible; and the
 reason is evident why Night in these Hymns is called Venus. I cannot
@@ -116,4 +116,4 @@ on Plato, and a *modern Mythology*.
 
 ------------------------------------------------------------------------
 
-[Next: VI: To The Stars](hoo11)
+[Next: VI: To The Stars](hoo11.md)

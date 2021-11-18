@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi266)  [Next](mtsi268) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi266)  [Next](mtsi268.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ After the elder brother got home he and the woman talked all night about
 what had happened, and about dawn they heard the younger brother coming
 singing. He was flying through the air and he alighted upon the top of
 the house. He said, "Is my sister-in-law <span
-id="fr_69"></span>[1](#fn_68) lying there?" His brother answered, "She
+id="fr_69"></span>[1](#fn_68.md) lying there?" His brother answered, "She
 is lying there." "Ho" he said. Then the head began to sing. After a time
 he spoke again, "I wonder what I could do to kill you." And he added,
 "If we go over yonder we shall find a lot of palū's (a wild fruit like
@@ -148,18 +148,18 @@ the favorite wife opened her cane and let out all
 of her children. One of her children was Thunder and Thunder struck all
 of the other women and killed them. She and her children were then left
 and her children scattered from her while she herself went
-westward. <span id="fr_70"></span>[1](#fn_69)
+westward. <span id="fr_70"></span>[1](#fn_69.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_68"></span>[215:1](mtsi267.htm#fr_69) The woman has now
+<span id="fn_68"></span>[215:1](mtsi267.htm#fr_69.md) The woman has now
 become the wife of the elder brother.
 
-<span id="fn_69"></span>[218:1](mtsi267.htm#fr_70) "Went westward" are
+<span id="fn_69"></span>[218:1](mtsi267.htm#fr_70.md) "Went westward" are
 favorite words with which to end Natchez stories.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Cannibal's Seven Sons](mtsi268)
+[Next: 3. The Cannibal's Seven Sons](mtsi268.md)

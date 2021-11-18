@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [The
-Pacific](../index) [Index](index) [Previous](lww4) [Next](lww6)
+[Sacred-Texts](../../index.md) [The
+Pacific](../index) [Index](index) [Previous](lww4) [Next](lww6.md)
 
 ------------------------------------------------------------------------
 
@@ -38,12 +38,12 @@ of Rangi \[the Sky-father\] and Papa \[the Earth-mother\] dwelt in the
 Pō, and eventually became desirous of breaking forth from the embrace of
 their parents to the Whai-ao \[the World of Being\] and the Ao-marama
 \[the World of Light\]. That has already been dealt with (see [p.
-119](lww3.htm#page_119)).
+119](lww3.htm#page_119).md).
 
    The second series of the Pō commenced when Hine-nui-te-Pō \[Great
 Lady of the night, goddess of Hades\] passed through the *angi*<span
-id="fr_1"></span>[1](#note_1) to Pou-tere-rangi \[the Guard-house of
-Hades\] (see [p. 153](lww4.htm#page_153)), and then the second series of
+id="fr_1"></span>[1](#note_1.md) to Pou-tere-rangi \[the Guard-house of
+Hades\] (see [p. 153](lww4.htm#page_153).md), and then the second series of
 Pō became permanent in Rarohenga \[Hades\]. Hence it is that the Pō has
 become the 'way of descent' for those of the 'world of being' to Hades;
 and these Pō are named Te-Pō-tē-kitea <span id="page_162">p. 162</span>
@@ -54,13 +54,13 @@ Rarohenga. All these Pō were dedicated \[or consecrated, or separated
 off\] to Te Ku-watawata (23) \[Guardian of the entrance to Hades\] to
 Rarohenga. \[It was after this\] that mankind ceased to visit Rarohenga
 in the body, as described in the account of the return of Mataaho and
-Niwareka<span id="fr_2"></span>[2](#note_2) from there. All of these Pō
+Niwareka<span id="fr_2"></span>[2](#note_2.md) from there. All of these Pō
 have been assigned to womankind when they give birth to the 'germ of
 man' to the world, as has been explained.<span
-id="fr_3"></span>[3](#note_3) Consequently, if any man claims to
+id="fr_3"></span>[3](#note_3.md) Consequently, if any man claims to
 commence his pedigree from these Pō, it is wrong—impossible. Secondly,
 we have seen that there are seventy members of the family born of Rangi
-and Papa (see [p. 118](lww3.htm#page_118)); some of whose offspring gave
+and Papa (see [p. 118](lww3.htm#page_118).md); some of whose offspring gave
 birth to the 'germ of gods' into this world, and some the 'germ of man,'
 whilst some others produced rocks, reptiles, etc.
 
@@ -74,7 +74,7 @@ explained. Their duties have been made clear, for there is nothing
 whatever that has not some function to perform: The Pō, the world, each
 has its \[assigned\] work to do. The many Pō and the "germ of gods" have
 been assigned to the 'Family of Pekerau' (29) (see pp.
-[132](lww3.htm#page_132), [157](lww4.htm#page_157)); and the world has
+[132](lww3.htm#page_132), [157](lww4.htm#page_157).md); and the world has
 been assigned to the 'germ of man' \[i.e, the Heavens; the Space is the
 domain of the gods, whilst the Earth is that of mankind\].
 
@@ -102,7 +102,7 @@ the Planes of the Eleven Heavens, arranging and directing the
 'Tatai-aro-rangi' of the Ao-rangi-puaroa \[the visible Heavens\]. And it
 is in consequence of this that the sun, moon, and their younger brethren
 the stars \[that denote the seasons\] of the year move correctly;
-together with the *whetu-punga*<span id="fr_4"></span>[4](#note_4) that
+together with the *whetu-punga*<span id="fr_4"></span>[4](#note_4.md) that
 lie in the Ika-o-te-rangi \[the Fish-of-Heaven, or the
 Backbone-of-Heaven\] in the 'Great-ridge-of-Heaven' \[both names for the
 Milky Way\].
@@ -122,7 +122,7 @@ were used as plumes for the gods mentioned above. There are three other
 birds not included in the above; they were brought down from Heaven by
 Tawhaki in order to produce plumes for his wife Maikuku-makaka; they
 were, the Kotuku \[crane\], the Huia, and the Koekoeā
-\[long-tailed-cuckoo\].<span id="fr_5"></span>[5](#note_5)
+\[long-tailed-cuckoo\].<span id="fr_5"></span>[5](#note_5.md)
 
    The work assigned to these sacred birds was to announce to each
 *marae* \[court\] or dwelling-place on earth, the first month of the
@@ -133,7 +133,7 @@ year, Orongo-nui of the Ngahuru-tu-hoehoe \[both names for summer\].
 \[guardian-spirit\] for the Planes of the Sky-father and Earth-mother,
 together with his friends, to guard the clouds—clothing of their father.
 Whilst he was there, he placed his grandchildren \[Pāra, Ngoiro, Tuna,
-and Tuere—see [p. 155](lww4.htm#page_155)\] in the \[Heavenly\] river
+and Tuere—see [p. 155](lww4.htm#page_155.md)\] in the \[Heavenly\] river
 named Waihau \[? the river in the constellation Eridanus\].
 
    It must be understood that the 'glowing sun' and his younger brethren
@@ -162,7 +162,7 @@ Tawhaki asked, "Where are you two going?" "We are going down below, to
 seek a cool place; we are about killed up here by Tama-nui-te-ra \[the
 sun\]; there is no water left." Tawhaki looked at Pakura and said, "Thy
 forehead has been skinned; the blood is flowing."<span
-id="fr_6"></span>[6](#note_6) Matuku here interposed, "It is nothing; it
+id="fr_6"></span>[6](#note_6.md) Matuku here interposed, "It is nothing; it
 is merely the result of a quarrel with Tama-i-waho, because Pakura ate
 the *unio* shell-fish in the former's spring, and so Tama-i-waho
 stripped the skin off Pakura's forehead." And then Tawhaki ascended up
@@ -176,7 +176,7 @@ time to explain some time.\]
 
    Now, the family of Rangi and Papa \[the gods\] from the time they
 went forth from the embrace of their parents, down to the period of the
-Pae-rangi war (see [p. 134](lww3.htm#page_134)), and to the time of the
+Pae-rangi war (see [p. 134](lww3.htm#page_134).md), and to the time of the
 appointment of Pou-tiri-ao \[the guardian-spirits\], were all dwelling
 within a kind of twilight. The reason of this was, there was no sun, no
 moon, no stars, no clouds. \[Here one of the listeners to the Sage's
@@ -226,13 +226,13 @@ Taringa-waru, Tawhiri-rangi, Te Ikaroa, and <span id="page_166">p.
 |    1.  | Te Rauru-rangi, the 'basket' of the Sun.                                                                                        |                                                       |                                 |                                                                                     |
 |    2.  | Te Kauhanga, the 'basket' of the Moon.                                                                                          |                                                       |                                 |                                                                                     |
 |    3.  | (Not given.) The 'basket' in which Autahi \[? Aldebaran\] and his younger brethren were placed; they are as below.              |                                                       |                                 |                                                                                     |
-|    4.  | Rauroha,<span id="fr_7"></span>[7](#note_7) the 'basket' of the smaller stars and of the Whanau-punga. (See [note 4](#note_4).) |                                                       |                                 |                                                                                     |
+|    4.  | Rauroha,<span id="fr_7"></span>[7](#note_7) the 'basket' of the smaller stars and of the Whanau-punga. (See [note 4](#note_4)..md) |                                                       |                                 |                                                                                     |
 |        | <span class="small">1. </span>                                                                                                  | <span class="small">Autahi (? Aldebaran)   </span>    | <span class="small"> 7.</span>  | <span class="small">Whanui (Vega)</span>                                            |
 |        | <span class="small">2. </span>                                                                                                  | <span class="small">Puanga (Rigel)   </span>          | <span class="small"> 8.</span>  | <span class="small">Tautahi-o-rongo</span>                                          |
 |        | <span class="small">3. </span>                                                                                                  | <span class="small">Kopu (Venus, evening)   </span>   | <span class="small"> 9.</span>  | <span class="small">Whakaahu (Gemenii)</span>                                       |
 |        | <span class="small">4. </span>                                                                                                  | <span class="small">Pare-a-rau   </span>              | <span class="small"> 10.</span> | <span class="small">Puaroa</span>                                                   |
 |        | <span class="small">5. </span>                                                                                                  | <span class="small">Matariki (the Pleiades)   </span> | <span class="small"> 11.</span> | <span class="small">Tawera (Venus, morning)</span>                                  |
-|        | <span class="small">6. </span>                                                                                                  | <span class="small">Tautoru (Orion)   </span>         | <span class="small"> 12.</span> | <span class="small">Te Ikaroa (Milky Way)<span id="fr_8"></span>[8](#note_8)</span> |
+|        | <span class="small">6. </span>                                                                                                  | <span class="small">Tautoru (Orion)   </span>         | <span class="small"> 12.</span> | <span class="small">Te Ikaroa (Milky Way)<span id="fr_8"></span>[8](#note_8.md)</span> |
 
    Those are all of them. It is said that Puaroa is the same as
 Rere-ahiahi \[another name for Venus, but it might also refer to any
@@ -241,11 +241,11 @@ at the same time, and when it reaches the path of the Ruddy-Sun, the
 moon appears, and then Puaroa is called Kopu. When it appears at the
 time daylight opens up it gets its third name, Tawera. It is, however,
 the one same star. This is the star to whom was given the management or
-direction of the months of the year<span id="fr_9"></span>[9](#note_9)
-\[To illustrate this<span id="fr_10"></span>[10](#note_10)\] it was
+direction of the months of the year<span id="fr_9"></span>[9](#note_9.md)
+\[To illustrate this<span id="fr_10"></span>[10](#note_10.md)\] it was
 correct of Ruatapu to say to Paikea at the incident known as 'Te
 Whiri-pure-i-ata,' "Go in peace, and when you arrive ashore tell the
-people that Wehi-nui-a-mamao<span id="fr_11"></span>[11](#note_11) will
+people that Wehi-nui-a-mamao<span id="fr_11"></span>[11](#note_11.md) will
 indicate the season. Let them look to the white throat feathers of the
 Tūi bird, the offspring of Para-uri (47) in the twelfth month in the
 long nights of winter, then shall I be there." To cut short the story,
@@ -258,7 +258,7 @@ mountain; the unbelievers all perished.
 canoe named 'Uruao,' which is to be seen as a pattern in the sky, so
 they might be guarded, lest they be maltreated by their elder brethren,
 and fall down below. Tama-rere-ti was appointed their guardian.<span
-id="fr_12"></span>[12](#note_12)
+id="fr_12"></span>[12](#note_12.md)
 
    After this the family of stars, etc., were conveyed to the presence
 of their ancestor Rangi-nui \[the Sky-father\], and were then arranged
@@ -266,16 +266,16 @@ so that they might light up their ancestor's front surface, and to give
 light also to the Earth-mother. Te Ikaroa (12) \[one of the gods, but ?
 does it not mean here the Milky Way, for which it is one of the names\],
 Rongo-mai-taha-rangi (62) and Rongo-mai-taha-nui (54) were sent to lay
-down the *ara-matua*,<span id="fr_13"></span>[13](#note_13) and the
+down the *ara-matua*,<span id="fr_13"></span>[13](#note_13.md) and the
 *kaupeka* \[months\], as the path along which the family of stars might
 traveI \[correctly\] lest they collided with one another. Te Ikaroa
 \[the Milky Way\] was appointed to the Zodiac, as guardians of the minor
-stars and those of the Whanau-punga (see [note 4](#note_4)). The second
+stars and those of the Whanau-punga (see [note 4](#note_4).md). The second
 name of Te Ikaroa-o-te-rangi \[the-main-ridge-of-the-Heavens\] was there
 given \[to the Milky Way\]; and Rongo-mai-taha-rangi (62) was placed on
 the right hand side of the Milky Way to guard the Ruddy-sun, whilst
 Rongo-mai-taha-nui (54) was stationed on the left hand to guard Autahi
-\[Aldebaran\] and his younger brethren (see [p. 166](#page_166)). The
+\[Aldebaran\] and his younger brethren (see [p. 166](#page_166).md). The
 Waxing Moon was placed behind the Sun and the Stars.
 
    Now, the family of the Earth-mother considered this arrangement, and
@@ -283,7 +283,7 @@ saw that it was not a good one, because the Waxing Moon was in the dark,
 as were the other minor Stars. So they separated the elder brother \[the
 Sun\] and placed him on the head of Rangi \[the Sky-father\], and the
 moon and stars on his belly. They then carefully examined<span
-id="fr_14"></span>[14](#note_14) \[this second arrangement\], and saw
+id="fr_14"></span>[14](#note_14.md) \[this second arrangement\], and saw
 that it was not satisfactory either, and the reason was, that there was
 only one phase—there was nothing but continuous daylight; for all the
 'family' of stars were in one heap. And then they changed it so that the
@@ -291,7 +291,7 @@ elder <span id="page_168">p. 168</span> brother, the Ruddy-Sun, was
 stationed on the back of the Sky-father, and the Waxing Moon and the
 Stars on his belly, there to remain fixed. Again the family of the
 Earth-mother examined the arrangement, with the Sun on the navel
-(*pito*) \[the Ecliptic\]<span id="fr_15"></span>[15](#note_15) of the
+(*pito*) \[the Ecliptic\]<span id="fr_15"></span>[15](#note_15.md) of the
 Sky-father, and the Moon and the Stars on his back, so that the sun
 might climb up by the thighs of the Sky-father, and the Moon and Stars
 follow him; and thus was the Sun separated from his younger brethren.
@@ -316,7 +316,7 @@ and when he reaches his 'shoulders' he returns to the *hiku mutu* of his
 ancestor. The *hiku mutu* is the Maru-roa-o-te-Takurua \[the winter
 solstice\], and the Marua-roa at the 'shoulder' is the
 Marua-roa-o-te-Orongonui, or summer \[solstice\]: the *hiku mutu* is the
-winter.<span id="fr_16"></span>[16](#note_16)
+winter.<span id="fr_16"></span>[16](#note_16.md)
 
 <span id="page_169">p. 169</span>
 
@@ -450,14 +450,14 @@ be the 19th night.
 disputes with Tangaroa-whakapau \[a day that appears to be intercalated
 after the 25th\] between themselves \[as to which should enter <span
 id="page_170">p. 170</span> the Calendar\]; sometimes one, sometimes the
-other enters.<span id="fr_18"></span>[18](#note_18) If Tangaroa-whakapau
+other enters.<span id="fr_18"></span>[18](#note_18.md) If Tangaroa-whakapau
 enters, then fish both of the sea and inland are plentiful. If Matohi
 enters into the enumeration, Tangaroa-whakapau is omitted, and the neap
 tide takes place, the fish direct their courses to the sea; it is the
 same inland, the fish retire to Lady-morass, to Lady-swamp; and only
 when Te Iho-rangi (10) drives them out do they return to the rivers. It
 is the same at sea, the Tamateas drive ashore the *retoreto-moana*<span
-id="fr_19"></span>[19](#note_19); that is, the wind does so. And, hence
+id="fr_19"></span>[19](#note_19.md); that is, the wind does so. And, hence
 is this period \[i.e., from 23rd to 25th\] called Tamatea-kai-ariki
 \[Tamatea-chief-eater, because the bad weather at that time often
 capsizes the canoes and chiefs are drowned\]. Tamatea-ngana \[the
@@ -465,11 +465,11 @@ obstinate Tamatea\], Tamatea-whakapau \[Tamatea the consumer\] and
 Tamatea-aio \[the calm Tamatea\]—these are all the Tamateas—they are the
 bad days in the calendar of the month, no canoe-bow will be directed
 outside for fear of Rua-matua-tonga,<span
-id="fr_20"></span>[20](#note_20) Para-wera-nui, Tonga-huru-huru,
+id="fr_20"></span>[20](#note_20.md) Para-wera-nui, Tonga-huru-huru,
 Tonga-taupuru, and Te Apu-tahi-a-Pawa \[southerly gales\].
 
    The following is the *tautiti* \[recitation in orderly sequence\] of
-the Apu-tahi-a-Pawa<span id="fr_21"></span>[21](#note_21):—
+the Apu-tahi-a-Pawa<span id="fr_21"></span>[21](#note_21.md):—
 
 <table data-align="center">
 <colgroup>
@@ -585,7 +585,7 @@ Rangi-nui, that is the Takurua-Waipu \[mid-winter\]. The *pito*
 is the demarkation between winter and summer. Now the head of Rangi is
 to the north, and his legs to the south, towards Para-wera-nui \[the
 fierce south wind\], and, hence are the 'southers' so bad.<span
-id="fr_22"></span>[22](#note_22)
+id="fr_22"></span>[22](#note_22.md)
 
    Some people say that the Sun and Moon disputed; the Sun said they
 should both go together in the daylight, whilst the Moon said they ought
@@ -594,20 +594,20 @@ said, "Enough! You travel by night so that you may be a light to mankind
 to make their earth-ovens." The Moon replied, "A! Go you by daylight so
 that you may dry women's menstruous cloths." But this story is wrong, it
 is a mere fable. The correct story is that of Tuatara and the shark
-\[for which see [p. 156](lww4.htm#page_156)\].
+\[for which see [p. 156](lww4.htm#page_156.md)\].
 
    \[Nepia Pohuhu says further:—\] This is another word of mine, about
 which all must be clear; in reference to the *whatu* \[? the eye\] of
 the Whanau-puhi that have been mentioned; that is, Tama-nui-te-ra \[the
 Sun\] and Te Marama-i-whanake \[the waxing Moon\], and their younger
-brethren the Stars. Rona,<span id="fr_23"></span>[23](#note_23) Te
+brethren the Stars. Rona,<span id="fr_23"></span>[23](#note_23.md) Te
 Ahurangi, and Te Rangi-taupiri are their Pou-tiri-ao \[guardian
 spirits\]. It is they who regulate the Moon. Tāne-matua (68) said, "Let
 the Moon regulate the <span id="page_172">p. 172</span> high and low
 tides of Lady-ocean." Tupai added, "And the Tuahiwi-o-Hine-moana \[the
 Ridge-of-Lady-ocean\] shall regulate the great waves, in order that the
 descent may be easy on both sides."<span
-id="fr_24"></span>[24](#note_24) Tupai then advised Tāne to appoint some
+id="fr_24"></span>[24](#note_24.md) Tupai then advised Tāne to appoint some
 Stars to arrange \[or guide\] the Tuahiwi-o-Hine-moana, and assist the
 Moon—this was done.
 
@@ -644,12 +644,12 @@ the guardians, the directors of all things in all the Heavens and the
 Planes; they became the overseers of the duties of all things in the
 Moons, Suns, and Stars of each Heaven forming the twelve Heavens, each
 one of which has its own Moon and Stars.<span
-id="fr_25"></span>[25](#note_25)
+id="fr_25"></span>[25](#note_25.md)
 
    But the Sun is outside of everything. He is the *kai-pēhi* \[the
 suppressor\] of all things beneath the sun; each of them have their
 worlds, their moons and their stars.<span
-id="fr_26"></span>[26](#note_26) The head \[rulers\] of all things,
+id="fr_26"></span>[26](#note_26.md) The head \[rulers\] of all things,
 Stars, Moons and Suns, are the Whatukuras of the Toi-o-nga-rangi-tuhaha
 \[the Summit-of-the-conjoint-Heavens\], because the Apas are only
 labourers of the Heavens, whilst the Pou-tiri-ao guard them lest they
@@ -657,7 +657,7 @@ deviate from their proper work, or quarrel.
 
 ------------------------------------------------------------------------
 
-[Next](lww6)
+[Next](lww6.md)
 
 ------------------------------------------------------------------------
 
@@ -665,15 +665,15 @@ deviate from their proper work, or quarrel.
 
 <span id="footnotes_page_161">p. 161</span>
 
-<span id="note_1"></span>[1](#fr_1). *Angi* is the space between Heaven
+<span id="note_1"></span>[1](#fr_1.md). *Angi* is the space between Heaven
 and Earth, and also between Earth and Hades.
 
 <span id="footnotes_page_162">p. 162</span>
 
-<span id="note_2"></span>[2](#fr_2). See Chapter VI. as to this visit to
+<span id="note_2"></span>[2](#fr_2.md). See Chapter VI. as to this visit to
 Hades.
 
-<span id="note_3"></span>[3](#fr_3). This is explained by the Scribe as
+<span id="note_3"></span>[3](#fr_3.md). This is explained by the Scribe as
 follows, but it is not clear: If a child is born between the first and
 seventh day after labour commences, it will be well for both mother and
 child. But if not born between the seventh and twelfth day, the mother
@@ -681,12 +681,12 @@ and child will surely die.
 
 <span id="footnotes_page_163">p. 163</span>
 
-<span id="note_4"></span>[4](#fr_4). *Whetu-punga* are 'the smaller
+<span id="note_4"></span>[4](#fr_4.md). *Whetu-punga* are 'the smaller
 stars sheltering under the Milky Way—those stars barely visible to the
 eye. They are constantly falling off the Milky Way, and are then seen as
 Meteors'—says the Scribe.
 
-<span id="note_5"></span>[5](#fr_5). The Hakuai is said to be a very
+<span id="note_5"></span>[5](#fr_5.md). The Hakuai is said to be a very
 large and fierce bird that is never seen but very high up in the
 heavens. The stories connected with it seem to indicate that it is a
 dimly remembered tradition of the Eagle, which the ancestors of the
@@ -699,20 +699,20 @@ tail feathers were much prized.
 
 <span id="footnotes_page_164">p. 164</span>
 
-<span id="note_6"></span>[6](#fr_6). The Pakura has a scarlet patch over
+<span id="note_6"></span>[6](#fr_6.md). The Pakura has a scarlet patch over
 each eye, and the above is how the Maoris account for it—Matuku was
 supposed to have done it.
 
 <span id="footnotes_page_166">p. 166</span>
 
-<span id="note_7"></span>[7](#fr_7). The Kete-rauroha means the 'basket
+<span id="note_7"></span>[7](#fr_7.md). The Kete-rauroha means the 'basket
 of wide space,' no doubt referring to the stars scattered over the
 heavenly vault.
 
-<span id="note_8"></span>[8](#fr_8). It will be noticed these stars are
+<span id="note_8"></span>[8](#fr_8.md). It will be noticed these stars are
 twelve in number, as are the Heavens, and the months.
 
-<span id="note_9"></span>[9](#fr_9). This is the first time I ever came
+<span id="note_9"></span>[9](#fr_9.md). This is the first time I ever came
 across a statement in Polynesian traditions that Venus ruled the year.
 The Pleiades are universally said to do so. But, we may have here
 possibly the faint recollection of another ancient cult, for J. F.
@@ -720,36 +720,36 @@ Hewitt in his "Primitive Traditional History," Vol. I., p. 132, says
 that Alberune quotes Venus as having been worshipped at the beginning of
 the Pleiades year.
 
-<span id="note_10"></span>[10](#fr_10). The following illustration does
+<span id="note_10"></span>[10](#fr_10.md). The following illustration does
 not belong to the "Celestial Plane," but to the period just before the
 fleet left Tahiti for New Zealand in about A.D. 1350
 
-<span id="note_11"></span>[11](#fr_11). Wehi-nui-a-maomao is said to
+<span id="note_11"></span>[11](#fr_11.md). Wehi-nui-a-maomao is said to
 preside over one of the months—probably the twelfth. It is also said
 that Titi-raupenga mountain in New Zealand was owned by this god, or
 spirit.
 
 <span id="footnotes_page_167">p. 167</span>
 
-<span id="note_12"></span>[12](#fr_12). 'Te Waka-o-Tama-rere-ti'—the
+<span id="note_12"></span>[12](#fr_12.md). 'Te Waka-o-Tama-rere-ti'—the
 canoe of Tama-rere-ti—is the constellation Scorpio. It is said that the
 first canoe made by the Maori people in the Fatherland was copied from
 this (hence the word 'pattern' in the text). The canoe's name is
 'Uruao,' and sometimes the smaller stars fall overboard, and then appear
 to us as *mata-kokiri*, or meteors.
 
-<span id="note_13"></span>[13](#fr_13). The Ara-matua is the
+<span id="note_13"></span>[13](#fr_13.md). The Ara-matua is the
 'main-way'—the Ecliptic—or in other words the course of the heavenly
 bodies in the Zodiac. The Kaupeka are the twelve months, equivalent to
 the twelve signs of the Zodiac.
 
-<span id="note_14"></span>[14](#fr_14). *Whakaatatia*. 'Men, gods, birds
+<span id="note_14"></span>[14](#fr_14.md). *Whakaatatia*. 'Men, gods, birds
 and reptiles, all looked up to the Heavens, and were dissatisfied with
 the arrangement'—says the Scribe.
 
 <span id="footnotes_page_168">p. 168</span>
 
-<span id="note_15"></span>[15](#fr_15). The use of the word *pito*
+<span id="note_15"></span>[15](#fr_15.md). The use of the word *pito*
 (navel) throws a light on its meaning as connected with the Sun's path,
 or Ecliptic, when considered in connection with the Hawaiian expression
 Piko-o-wakea, which Hawaiian scholars translate as 'the Equator,' but
@@ -766,7 +766,7 @@ is also expressed by 'the Ara-matua,' or 'main way,' the part of the
 Heavens in which the principal Stars, Sun, and Moon pursue their annual
 courses.
 
-<span id="note_16"></span>[16](#fr_16). It seems from this that the
+<span id="note_16"></span>[16](#fr_16.md). It seems from this that the
 Maori astronomy originated in the Southern Hemisphere. The "beginning of
 the year" is the month of June—winter in the Southern Hemisphere.
 Possibly the old priests had to change their nomenclature after they
@@ -775,12 +775,12 @@ Equator.
 
 <span id="footnotes_page_169">p. 169</span>
 
-<span id="note_17"></span>[17](#fr_17). The Sage here says this is the
+<span id="note_17"></span>[17](#fr_17.md). The Sage here says this is the
 Leap Year of the White people, a remark probably added by the Scribe.
 
 <span id="footnotes_page_170">p. 170</span>
 
-<span id="note_18"></span>[18](#fr_18). The Scribe endeavoured to
+<span id="note_18"></span>[18](#fr_18.md). The Scribe endeavoured to
 explain his ideas on this subject, but with not much success. Matohi, a
 star, enters and disputes with the day called Tangaroa and, if
 successful, no fish are caught, for the latter bring the fish. (Tangaroa
@@ -791,27 +791,27 @@ in the Heavens it is probably near Alpha Taurus. It appears to me that
 we have here an attempt to intercalate certain days to correct the Lunar
 year.
 
-<span id="note_19"></span>[19](#fr_19). A small, round-leafed sea-weed.
+<span id="note_19"></span>[19](#fr_19.md). A small, round-leafed sea-weed.
 
-<span id="note_20"></span>[20](#fr_20). The home of the winds.
+<span id="note_20"></span>[20](#fr_20.md). The home of the winds.
 
-<span id="note_21"></span>[21](#fr_21). Pawa, short for Aitu-pawa, who
+<span id="note_21"></span>[21](#fr_21.md). Pawa, short for Aitu-pawa, who
 is one of the guardians of the Heavenly treasure house, and was ruler
 over the Pou-tiri-ao, or guardian-spirts, whose function it was to
 attend to the sequence of the months of the year.
 
 <span id="footnotes_page_171">p. 171</span>
 
-<span id="note_22"></span>[22](#fr_22). In this the old Priest is a
+<span id="note_22"></span>[22](#fr_22.md). In this the old Priest is a
 little wrong, in as much as be includes the Stars in the change of
 declination common to the Sun and Moon.
 
-<span id="note_23"></span>[23](#fr_23). Rona is the woman in the moon,
+<span id="note_23"></span>[23](#fr_23.md). Rona is the woman in the moon,
 about whom are several stories.
 
 <span id="footnotes_page_172">p. 172</span>
 
-<span id="note_24"></span>[24](#fr_24). As, already explained, the above
+<span id="note_24"></span>[24](#fr_24.md). As, already explained, the above
 'Ridge' is supposed to exist in the Pacific Ocean, between New Zealand
 and Tahiti, where stormy weather and big waves are encountered—probably
 the point in from lat. 23 to lat. 25, where the Trade winds meet the
@@ -833,13 +833,13 @@ course, soon after the former rises.
 
 <span id="footnotes_page_173">p. 173</span>
 
-<span id="note_25"></span>[25](#fr_25). These last two words do not
+<span id="note_25"></span>[25](#fr_25.md). These last two words do not
 follow the original exactly, but the Scribe tells me they correctly
 describe the teaching of the Sages. When asked whether it was not the
 same Sun, etc., that we see illuminates all the Heavens, he said, "No!
 Each Heaven has it own Sun, Moon, and Stars."
 
-<span id="note_26"></span>[26](#fr_26). This is obscure, but is just as
+<span id="note_26"></span>[26](#fr_26.md). This is obscure, but is just as
 the Sage says.
 
  

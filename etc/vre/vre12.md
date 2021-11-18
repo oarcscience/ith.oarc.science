@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre11)  [Next](vre13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre11)  [Next](vre13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -377,7 +377,7 @@ have been rid of. But the Lord
 <span id="page_330">p. 330</span>
 
 <span class="small">did stay my desires upon himself, and my care was
-cast upon him alone." <span id="fr_195"></span>[1](#fn_195)</span>
+cast upon him alone." <span id="fr_195"></span>[1](#fn_195.md)</span>
 
 A genuine first-hand religious experience like this is bound to be a
 heterodoxy to its witnesses, the prophet appearing as a mere lonely
@@ -514,10 +514,10 @@ his grateful notice; and the personal attitude of being his devotee
 
 becomes what one might almost call a new and exalted kind of
 professional specialty within the tribe. <span
-id="fr_196"></span>[1](#fn_196) The legends that gather round the lives
+id="fr_196"></span>[1](#fn_196.md) The legends that gather round the lives
 of holy persons are fruits of this impulse to celebrate and glorify. The
-Buddha <span id="fr_197"></span>[2](#fn_197) and Mohammed <span
-id="fr_198"></span>[3](#fn_198) and their companions and many Christian
+Buddha <span id="fr_197"></span>[2](#fn_197.md) and Mohammed <span
+id="fr_198"></span>[3](#fn_198.md) and their companions and many Christian
 saints are incrusted with a heavy jewelry of anecdotes which are meant
 to be honorific, but are simply *abgeschmackt* and silly, and form a
 touching expression of man's misguided propensity to praise.
@@ -578,7 +578,7 @@ loved by him to distraction \[aimé jusqu’à la folie\]!—Margaret melted
 away with love at the thought of such a thing. Like Saint Philip of Neri
 in former times, or like Saint Francis Xavier, she said to God: 'Hold
 back, O my God, these torrents which overwhelm me, or else enlarge my
-capacity for their reception." <span id="fr_199"></span>[1](#fn_199)
+capacity for their reception." <span id="fr_199"></span>[1](#fn_199.md)
 
 The most signal proofs of God's love which Margaret Mary received were
 her hallucinations of sight, touch, and hearing, and the most signal in
@@ -612,7 +612,7 @@ bring it about that others do the same."</span>
 important of all the revelations which have illumined the Church since
 that of the Incarnation and of the Lord's Supper. . . . After the
 Eucharist, the supreme effort of the Sacred Heart." <span
-id="fr_200"></span>[1](#fn_200) Well, what were its good fruits for
+id="fr_200"></span>[1](#fn_200.md) Well, what were its good fruits for
 Margaret Mary's life? Apparently little else but sufferings and prayers
 and absences of mind and swoons and ecstasies. She became increasingly
 useless about the convent, her absorption in Christ's love—
@@ -631,7 +631,7 @@ pieces out of her clothes \[for relics\] as if she were already a saint,
 but where she was too absorbed inwardly to pay the necessary attention.
 Poor dear sister, even less after her visions than before them was she a
 denizen of earth, and they had to leave her in her heaven." <span
-id="fr_201"></span>[2](#fn_201)</span>
+id="fr_201"></span>[2](#fn_201.md)</span>
 
 <span id="page_338">p. 338</span>
 
@@ -645,7 +645,7 @@ authority, consist mainly of proofs of Christ's partiality for her
 undeserving person. Assurances of his love, intimacies and caresses and
 compliments of the most absurd and puerile sort, addressed by Christ to
 Gertrude as an individual, form the tissue of this paltry-minded
-recital. <span id="fr_202"></span>[1](#fn_202) In reading such a
+recital. <span id="fr_202"></span>[1](#fn_202.md) In reading such a
 narrative, we realize the gap between the thirteenth and the twentieth
 century, and we feel that saintliness of character may yield almost
 absolutely worthless
@@ -678,10 +678,10 @@ In spite of the sufferings which she endured, there is a curious flavor
 of superficiality about her genius. A Birmingham anthropologist, Dr.
 Jordan, has divided the human race into two types, whom he calls
 "shrews" and "nonshrews" respectively. <span
-id="fr_203"></span>[1](#fn_203) The shrew-type is defined as possessing
+id="fr_203"></span>[1](#fn_203.md) The shrew-type is defined as possessing
 an "active unimpassioned temperament." In other words, shrews are the
 "motors," rather than the "sensories," <span
-id="fr_204"></span>[2](#fn_204) and their expressions are as a rule more
+id="fr_204"></span>[2](#fn_204.md) and their expressions are as a rule more
 energetic
 
 <span id="page_340">p. 340</span>
@@ -740,7 +740,7 @@ eliminates it altogether. Thus, alongside of the church militant with
 its prisons, dragonnades, and inquisition methods, we have the church
 *fugient*, as one might call it, with its hermitages, monasteries, and
 sectarian organizations, both churches pursuing the same object—to unify
-the life, <span id="fr_205"></span>[1](#fn_205) and simplify the
+the life, <span id="fr_205"></span>[1](#fn_205.md) and simplify the
 spectacle presented to the soul. A mind extremely sensitive to inner
 discords will drop one external relation after another, as interfering
 with the absorption of
@@ -753,11 +753,11 @@ seclusion, with a subdivision of the day into hours for stated religious
 acts, is the only thing that can be borne. The lives of saints are a
 history of successive renunciations of complication, one form of contact
 with the outer life being dropped after another, to save the purity of
-inner tone. <span id="fr_206"></span>[1](#fn_206) "Is it not better," a
+inner tone. <span id="fr_206"></span>[1](#fn_206.md) "Is it not better," a
 young sister asks her Superior, "that I should not speak at all during
 the hour of recreation, so as not to run the risk, by speaking, of
 falling into some sin of which I might not be conscious?" <span
-id="fr_207"></span>[2](#fn_207) If the life remains a social one at all,
+id="fr_207"></span>[2](#fn_207.md) If the life remains a social one at all,
 those who take part in it must follow one identical rule.
 
 Embosomed in this monotony, the zealot for purity feels clean and free
@@ -811,7 +811,7 @@ renounced all conversation and</span>
 <span class="small">every kind of social recreation with them, although
 his father tried to make him take part; and he commenced only too early
 to deliver his innocent body to austerities of every kind." <span
-id="fr_208"></span>[1](#fn_208)</span>
+id="fr_208"></span>[1](#fn_208.md)</span>
 
 At the age of twelve, we read of this young man that "if by chance his
 mother sent one of her maids of honor to him with a message, he never
@@ -825,7 +825,7 @@ promptly and readily to accede to all his wishes, if he might only be
 excused from all visits to ladies." (Ibid., p. 71.)
 
 When he was seventeen years old Louis joined the Jesuit order, <span
-id="fr_209"></span>[2](#fn_209) against his father's passionate
+id="fr_209"></span>[2](#fn_209.md) against his father's passionate
 entreaties, for he was heir of a princely house; and when a year later
 the father died, he took the loss as a "particular attention" to himself
 on God's part, and wrote letters of stilted good advice, as from a
@@ -867,7 +867,7 @@ foot, written to the Saint by young men and women, and directed to
 'Paradiso.' They are supposed to be burnt unread except by San Luigi,
 who must find singular petitions in these pretty little missives, tied
 up now with a green ribbon, expressive of hope, now with a red one,
-emblematic of love," etc. <span id="fr_210"></span>[1](#fn_210)
+emblematic of love," etc. <span id="fr_210"></span>[1](#fn_210.md)
 
 <span id="page_346">p. 346</span>
 
@@ -1025,7 +1025,7 @@ at all without the use of worldly prudence. This practical proof that
 <span id="page_351">p. 351</span>
 
 worldly wisdom may be safely transcended is the saint's magic gift to
-mankind. <span id="fr_211"></span>[1](#fn_211) Not only does his vision
+mankind. <span id="fr_211"></span>[1](#fn_211.md) Not only does his vision
 of a better
 
 <span id="page_352">p. 352</span>
@@ -1050,7 +1050,7 @@ to consider without argument a virtue liable to extravagance and excess.
 The optimism and refinement of the modern imagination has, as I have
 already said elsewhere, changed the attitude of the church towards
 corporeal mortification, and a Suso or a Saint Peter of Alcantara <span
-id="fr_212"></span>[1](#fn_212)
+id="fr_212"></span>[1](#fn_212.md)
 
 <span id="page_353">p. 353</span>
 
@@ -1073,13 +1073,13 @@ of the name of
 <span id="page_354">p. 354</span>
 
 <span class="contnote">\[paragraph continues\]</span> Hari." <span
-id="fr_213"></span>[1](#fn_213) And the Buddha, in pointing out what he
+id="fr_213"></span>[1](#fn_213.md) And the Buddha, in pointing out what he
 called "the middle way" to his disciples, told them to abstain from both
 extremes, excessive mortification being as unreal and unworthy as mere
 desire and pleasure. The only perfect life, he said, is that of inner
 wisdom, which makes one thing as indifferent to us as another, and thus
 leads to rest, to peace, and to Nirvâna. <span
-id="fr_214"></span>[2](#fn_214)
+id="fr_214"></span>[2](#fn_214.md)
 
 We find accordingly that as ascetic saints have grown older, and
 directors of conscience more experienced, they usually have shown a
@@ -1182,7 +1182,7 @@ it of which the
 fruits in the way of privation and hardship might be objectively useful.
 The older monastic asceticism occupied itself with pathetic futilities,
 or terminated in the mere egotism of the individual, increasing his own
-perfection. <span id="fr_215"></span>[1](#fn_215) But is it not possible
+perfection. <span id="fr_215"></span>[1](#fn_215.md) But is it not possible
 for us to discard most of these older forms of mortification, and yet
 find saner channels for the heroism which inspired them?
 
@@ -1200,7 +1200,7 @@ militarism, and individual and national enterprise and adventure as the
 remedies. These contemporary ideals are quite as remarkable for the
 energy with which they make for heroic standards of life, as
 contemporary religion is remarkable for the way in which it neglects
-them. <span id="fr_216"></span>[2](#fn_216) War and adventure assuredly
+them. <span id="fr_216"></span>[2](#fn_216.md) War and adventure assuredly
 keep all who engage in them from treating themselves too tenderly. They
 demand such incredible efforts, depth beyond depth of exertion, both in
 degree and in duration, that the whole scale of motivation alters.
@@ -1239,7 +1239,7 @@ of the soldier absolutely peculiar standards of morality. The recruit
 brings with him common moral notions, of which he must seek immediately
 to get rid. For him victory, success, must be *everything*. The most
 barbaric tendencies in men come to life again in war, and for war's uses
-they are incommensurably good." <span id="fr_217"></span>[1](#fn_217)
+they are incommensurably good." <span id="fr_217"></span>[1](#fn_217.md)
 
 These words are of course literally true. The immediate aim of the
 soldier's life is, as Moltke said, destruction, and
@@ -1466,7 +1466,7 @@ inflict the expiation, how they thirst to be the hangmen!</span>
 
 <span class="contnote">\[paragraph continues\]</span> <span
 class="small">And all the while their duplicity never confesses their
-hatred to be hatred." <span id="fr_218"></span>[1](#fn_218)</span>
+hatred to be hatred." <span id="fr_218"></span>[1](#fn_218.md)</span>
 
 Poor Nietzsche's antipathy is itself sickly enough, but we all know what
 he means, and he expresses well the clash between the two Ideals. The
@@ -1540,7 +1540,7 @@ absoluteness in the excellence of sainthood. It must be confessed that
 as far as this world goes, anyone who makes an out-and-out saint of
 himself does so at his peril. If he is not a large enough man, he may
 appear more insignificant and contemptible, for all his saintship, than
-if he had remained a worldling. <span id="fr_219"></span>[1](#fn_219)
+if he had remained a worldling. <span id="fr_219"></span>[1](#fn_219.md)
 Accordingly religion has seldom been so radically taken in our Western
 world that the devotee could not mix it with some worldly temper. It has
 always found good men who could follow most of its impulses, but who
@@ -1572,7 +1572,7 @@ them, the strong men of this world and no other seem as dry as sticks,
 as hard and crude as blocks of stone or brick-bats.
 
 In a general way, then, and "on the whole," <span
-id="fr_220"></span>[1](#fn_220) our abandonment of theological criteria,
+id="fr_220"></span>[1](#fn_220.md) our abandonment of theological criteria,
 and our testing of religion by practical common sense and the empirical
 method, leave it in possession of its towering place in history.
 Economically, the saintly group of qualities is indispensable to the
@@ -1593,7 +1593,7 @@ This is my conclusion so far. I know that on some of your minds it
 leaves a feeling of wonder that such a method should have been applied
 to such a subject, and this in spite of all those remarks about
 empiricism which I made at the beginning of Lecture XIII. <span
-id="fr_221"></span>[2](#fn_221) How, you say, can religion, which
+id="fr_221"></span>[2](#fn_221.md) How, you say, can religion, which
 believes in two worlds and an invisible order, be estimated by the
 adaptation of its fruits to this world's order
 
@@ -1615,11 +1615,11 @@ briefly, I will consider religious philosophy.
 
 ### Footnotes
 
-<span id="fn_195"></span>[330:1](vre12.htm#fr_195) <span
+<span id="fn_195"></span>[330:1](vre12.htm#fr_195.md) <span
 class="smallcaps">George Fox</span>: Journal, Philadelphia, 1800, pp.
 59-61, abridged.
 
-<span id="fn_196"></span>[334:1](vre12.htm#fr_196) Christian saints have
+<span id="fn_196"></span>[334:1](vre12.htm#fr_196.md) Christian saints have
 had their specialties of devotion, Saint Francis to Christ's wounds;
 Saint Anthony of Padua to Christ's childhood; Saint Bernard to his
 humanity; Saint Teresa to Saint Joseph, etc. The Shi-ite Mohammedans
@@ -1644,27 +1644,27 @@ and Adventures, written by Himself, London, 1889, p. 69. On the
 anniversary of the death of Hussein, Ali's son, the Shi-ite Moslems
 still make the air resound with cries of his name and Ali's.
 
-<span id="fn_197"></span>[334:2](vre12.htm#fr_197) Compare <span
+<span id="fn_197"></span>[334:2](vre12.htm#fr_197.md) Compare <span
 class="smallcaps">H. C. Warren</span>: Buddhism in Translation,
 Cambridge, U.S., 1898, *passim*.
 
-<span id="fn_198"></span>[334:3](vre12.htm#fr_198) Compare <span
+<span id="fn_198"></span>[334:3](vre12.htm#fr_198.md) Compare <span
 class="smallcaps">J. L. Merrick</span>: The Life and Religion of
 Mohammed, as contained in the Sheeah traditions of the Hyat-ul-Kuloob,
 Boston. 1850, *passim*.
 
-<span id="fn_199"></span>[336:1](vre12.htm#fr_199) <span
+<span id="fn_199"></span>[336:1](vre12.htm#fr_199.md) <span
 class="smallcaps">Bougaud</span>: Hist. de la bienheureuse Marguerite
 Marie, Paris, 1894, p. 145.
 
-<span id="fn_200"></span>[337:1](vre12.htm#fr_200) <span
+<span id="fn_200"></span>[337:1](vre12.htm#fr_200.md) <span
 class="smallcaps">Bougaud</span>: Hist. de la bienheureuse Marguerite
 Marie, Paris, 1894, pp. 365, 241.
 
-<span id="fn_201"></span>[337:2](vre12.htm#fr_201) <span
+<span id="fn_201"></span>[337:2](vre12.htm#fr_201.md) <span
 class="smallcaps">Bougaud</span>: Op. cit., p. 267.
 
-<span id="fn_202"></span>[338:1](vre12.htm#fr_202) Examples: "Suffering
+<span id="fn_202"></span>[338:1](vre12.htm#fr_202.md) Examples: "Suffering
 from a headache, she sought, for the glory of God, to relieve herself by
 holding certain odoriferous substances in her mouth, when the Lord
 appeared to her to lean over towards her lovingly, and to find comfort
@@ -1690,15 +1690,15 @@ with the plenary fullness of the blessing of Sanctity, bestowed on her
 by Omnipotence, by Wisdom, and by Love." Révélations de Sainte Gertrude,
 Paris, 1898, i. 44, 186.
 
-<span id="fn_203"></span>[339:1](vre12.htm#fr_203) <span
+<span id="fn_203"></span>[339:1](vre12.htm#fr_203.md) <span
 class="smallcaps">Furneaux Jordan</span>: Character in Birth and
 Parentage, first edition. Later editions change the nomenclature.
 
-<span id="fn_204"></span>[339:2](vre12.htm#fr_204) As to this
+<span id="fn_204"></span>[339:2](vre12.htm#fr_204.md) As to this
 distinction, see the admirably practical account in J. M. Baldwin's
 little book, <span class="smallcaps">The Story of the Mind</span>, 1898.
 
-<span id="fn_205"></span>[341:1](vre12.htm#fr_205) On this subject I
+<span id="fn_205"></span>[341:1](vre12.htm#fr_205.md) On this subject I
 refer to the work of <span class="smallcaps">M. Murisier</span> (Les
 Maladies du sentiment Religieux, Paris, 1901), who makes inner
 unification the mainspring of the whole religious life. But *all*
@@ -1712,7 +1712,7 @@ material content which is characteristic and which is more important by
 far than any general psychological form. In spite of this criticism, I
 find M. Murisier's book highly instructive.
 
-<span id="fn_206"></span>[342:1](vre12.htm#fr_206) Example: "At the
+<span id="fn_206"></span>[342:1](vre12.htm#fr_206.md) Example: "At the
 first beginning of the Servitor's \[Suso's\] interior life, after he had
 purified his soul properly by confession, he marked out for himself, in
 thought, three circles, within which he shut himself up, as in a
@@ -1727,22 +1727,22 @@ and therefore in need of all its cunning and watchfulness." The Life of
 the Blessed Henry Suso, by Himself, translated by <span
 class="smallcaps">Knox</span>, London, 1865, p. 168.
 
-<span id="fn_207"></span>[342:2](vre12.htm#fr_207) Vie des premières
+<span id="fn_207"></span>[342:2](vre12.htm#fr_207.md) Vie des premières
 Religieuses Dominicaines de la Congrégation de St. Dominique, à Nancy;
 Nancy, 1896, p. 129.
 
-<span id="fn_208"></span>[344:1](vre12.htm#fr_208) <span
+<span id="fn_208"></span>[344:1](vre12.htm#fr_208.md) <span
 class="smallcaps">Meschler's</span> Life of Saint Louis of Gonzaga,
 French translation by <span class="smallcaps">Lebréquier</span>, 1891,
 p. 40.
 
-<span id="fn_209"></span>[344:2](vre12.htm#fr_209) In his boyish
+<span id="fn_209"></span>[344:2](vre12.htm#fr_209.md) In his boyish
 note-book he praises the monastic life for its freedom from sin, and for
 the imperishable treasures, which it enables us to store up, "of merit
 in God's eyes which makes of Him our debtor for all Eternity." Loc.
 cit., p. 62.
 
-<span id="fn_210"></span>[345:1](vre12.htm#fr_210) Mademoiselle Mori, a
+<span id="fn_210"></span>[345:1](vre12.htm#fr_210.md) Mademoiselle Mori, a
 novel quoted in <span class="smallcaps">Hare's</span> Walks in Rome,
 1900, i. 55.
 
@@ -1781,7 +1781,7 @@ her life is entirely satisfactory to herself. While listening to her own
 story, one was tempted to forget that it was from the life of a person
 who could not live by it in conjunction with her fellows."
 
-<span id="fn_211"></span>[351:1](vre12.htm#fr_211) The best missionary
+<span id="fn_211"></span>[351:1](vre12.htm#fr_211.md) The best missionary
 lives abound in the victorious combination of non-resistance with
 personal authority. John G. Paton, for example, in the New Hebrides,
 among brutish Melanesian cannibals, preserves a charmed life by dint of
@@ -1831,7 +1831,7 @@ acts of heroism on the part of converts cannot be recited." <span
 class="smallcaps">John G. Paton</span>, Missionary to the New Hebrides,
 An Autobiography, second part, London, 1890, p. 243.
 
-<span id="fn_212"></span>[352:1](vre12.htm#fr_212) Saint Peter, Saint
+<span id="fn_212"></span>[352:1](vre12.htm#fr_212.md) Saint Peter, Saint
 Teresa tells us in her autobiography (French translation, p. 333), "had
 passed forty years without ever sleeping more than an hour and a half a
 day. Of all his mortifications, this was the one that had cost him the
@@ -1865,35 +1865,35 @@ roots of trees. With all this sanctity he was very affable. He never
 spoke unless he was questioned, but his intellectual right-mindedness
 and grace gave to all his words an irresistible charm."
 
-<span id="fn_213"></span>[354:1](vre12.htm#fr_213) <span
+<span id="fn_213"></span>[354:1](vre12.htm#fr_213.md) <span
 class="smallcaps">F. Max Müller</span>: Ramakrishna, his Life and
 sayings, 1899, p. 180.
 
-<span id="fn_214"></span>[354:2](vre12.htm#fr_214) <span
+<span id="fn_214"></span>[354:2](vre12.htm#fr_214.md) <span
 class="smallcaps">Oldenberg</span>: Buddha; translated by <span
 class="smallcaps">W. Hoey</span>, London, 1882, p. 127.
 
-<span id="fn_215"></span>[357:1](vre12.htm#fr_215) "The vanities of all
+<span id="fn_215"></span>[357:1](vre12.htm#fr_215.md) "The vanities of all
 others may die out, but the vanity of a saint as regards his sainthood
 is hard indeed to wear away." Ramakrishna his Life and Sayings, 1899, p.
 172.
 
-<span id="fn_216"></span>[357:2](vre12.htm#fr_216) "When a church has to
+<span id="fn_216"></span>[357:2](vre12.htm#fr_216.md) "When a church has to
 be run by oysters, ice-cream, and fun," I read in an American religious
 paper, "you may be sure that it is running away from Christ." Such, if
 one may judge by appearances, is the present plight of many of our
 churches.
 
-<span id="fn_217"></span>[358:1](vre12.htm#fr_217) C. V. B. K.:
+<span id="fn_217"></span>[358:1](vre12.htm#fr_217.md) C. V. B. K.:
 Friedens-und Kriegs-moral der Heere. Quoted by <span
 class="smallcaps">Hamon</span>: Psychologie du Militaire professional,
 1895, p. xli.
 
-<span id="fn_218"></span>[365:1](vre12.htm#fr_218) Zur Genealogie der
+<span id="fn_218"></span>[365:1](vre12.htm#fr_218.md) Zur Genealogie der
 Moral, Dritte Abhandlung, § 14. I have abridged, and in one place
 transposed, a sentence.
 
-<span id="fn_219"></span>[367:1](vre12.htm#fr_219) We all know *daft*
+<span id="fn_219"></span>[367:1](vre12.htm#fr_219.md) We all know *daft*
 saints, and they inspire a queer kind of aversion. But in comparing
 saints with strong men we must choose individuals on the same
 intellectual level. The under-witted strong man homologous in his sphere
@@ -1901,12 +1901,12 @@ with the under-witted saint, is the bully of the slums, the hooligan or
 rowdy. Surely on this level also the saint preserves a certain
 superiority.
 
-<span id="fn_220"></span>[368:1](vre12.htm#fr_220) See above, [p.
-321](#page_321).
+<span id="fn_220"></span>[368:1](vre12.htm#fr_220.md) See above, [p.
+321](#page_321.md).
 
-<span id="fn_221"></span>[368:2](vre12.htm#fr_221) Above, pp.
-[321](#page_321)-[327](#page_327).
+<span id="fn_221"></span>[368:2](vre12.htm#fr_221.md) Above, pp.
+[321](#page_321)-[327](#page_327.md).
 
 ------------------------------------------------------------------------
 
-[Next: Lectures XVI and XVII. Mysticism](vre13)
+[Next: Lectures XVI and XVII. Mysticism](vre13.md)

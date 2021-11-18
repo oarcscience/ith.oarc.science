@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app82)  [Next](app84) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app82)  [Next](app84.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -97,9 +97,9 @@ good is attached to 'Right Season'.
 Cimon, the victories of Arcesilas of Sparta.
 
 9\. More men are good through habit than through character. <span
-id="fr_113"></span>[1](#fn_106)
+id="fr_113"></span>[1](#fn_106.md)
 
-*Plays* <span id="fr_114"></span>[2](#fn_107)
+*Plays* <span id="fr_114"></span>[2](#fn_107.md)
 
 10\. (*Of the plays attributed to Euripides, three are spurious:
 'Tennês', 'Rhadamanthys', 'Peirithôus'*).
@@ -190,7 +190,7 @@ maim it.
 23\. Is it not better not to live than to live miserably?
 
 24\. (*Usually attributed to Euripides*) <span
-id="fr_115"></span>[1](#fn_108)
+id="fr_115"></span>[1](#fn_108.md)
 
 <div style="margin-left: 32px">
 
@@ -417,16 +417,16 @@ may be Critias*).
 
 ### Footnotes
 
-<span id="fn_106"></span>[155:1](app83.htm#fr_113) Cp. Democritus, Frg.
+<span id="fn_106"></span>[155:1](app83.htm#fr_113.md) Cp. Democritus, Frg.
 242.
 
-<span id="fn_107"></span>[155:2](app83.htm#fr_114) See *Companion*, pp.
+<span id="fn_107"></span>[155:2](app83.htm#fr_114.md) See *Companion*, pp.
 411-52, for reasons for attributing these plays to Critias.
 
-<span id="fn_108"></span>[157:1](app83.htm#fr_115) Attribution to
+<span id="fn_108"></span>[157:1](app83.htm#fr_115.md) Attribution to
 Critias by Welcker and Wilamowitz; the latter gives to Critias Eur.
 *Frg. inc.* 964 also (*Vors*. Vol. II, 14, 5).
 
 ------------------------------------------------------------------------
 
-[Next: 89. The Anonymous Writer Quoted by Iamblichus](app84)
+[Next: 89. The Anonymous Writer Quoted by Iamblichus](app84.md)

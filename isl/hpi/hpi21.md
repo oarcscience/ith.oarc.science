@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi20)  [Next](hpi22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi20)  [Next](hpi22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ realized more acutely in the West.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Ibn Baddja](hpi22)
+[Next: 2. Ibn Baddja](hpi22.md)

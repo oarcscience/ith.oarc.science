@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku22)  [Next](tku24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku22)  [Next](tku24.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ IShRAL, *Sharith Israel*, shall not do iniquity."
 ------------------------------------------------------------------------
 
 [Next: Chapter XVI: Concerning the Fifth Part of the Beard of
-Macroprosopus](tku24)
+Macroprosopus](tku24.md)

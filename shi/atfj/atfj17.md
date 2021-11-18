@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj16)  [Next](atfj18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj16)  [Next](atfj18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_18"></span> <span align="CENTER"> [![18. Oba Kage-chika
 Feels in the Tree with his Bow](tn/18.jpg)  
-Click to enlarge](img/18.jpg)  
+Click to enlarge](img/18.jpg.md)  
 18. Oba Kage-chika Feels in the Tree with his Bow  
 </span>
 
@@ -171,6 +171,6 @@ prospect. The base of the hill is enclosed and laid out as a garden.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. Murakami Yoshiteru's Faithfulness](atfj18)
+[Next: XVI. Murakami Yoshiteru's Faithfulness](atfj18.md)
 
 </div>

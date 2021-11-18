@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg27)  [Next](btg29) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg27)  [Next](btg29.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ in the grove before the city.
 
 ------------------------------------------------------------------------
 
-[Next: Yasodhara, The Former Wife](btg29)
+[Next: Yasodhara, The Former Wife](btg29.md)

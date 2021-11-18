@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst041)  [Next](inst043) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst041)  [Next](inst043.md) 
 
 ------------------------------------------------------------------------
 
@@ -307,7 +307,7 @@ confirmed—viz. that the Jews not only learned from the law wherein true
 piety consisted, but from feeling their inability to observe it were
 overawed by the fear of judgments and so drawn, even against their will,
 towards the Mediator. In giving a summary of what constitutes the true
-knowledge of God,19  <span id="fr_185"></span>[186](#fn_185) we showed
+knowledge of God,19  <span id="fr_185"></span>[186](#fn_185.md) we showed
 that we cannot form any just conception of the character of God, without
 feeling overawed by his majesty, and bound to do him service. In regard
 to the knowledge of ourselves, we showed that it principally consists in
@@ -402,20 +402,20 @@ commands, while he threatens transgressors with present suffering, as
 well as the punishment of eternal death. The promise, “Ye shall
 therefore keep my statutes, and my judgments; which if a man do, he
 shall live in them,” (<span id="iv.ii.ix-p68.1"></span>[Lev.
-18:5](../../../bib/kjv/lev018.htm#005)<span
+18:5](../../../bib/kjv/lev018.htm#005.md)<span
 id="iv.ii.ix-p68.1"></span>), and corresponding to this the threatening,
 “The souls that sinneth, it shall die,” (<span
 id="iv.ii.ix-p68.2"></span>[Ezek.
-18:4](../../../bib/kjv/eze018.htm#004),
-[20](../../../bib/kjv/eze018.htm#020)<span id="iv.ii.ix-p68.2"></span>);
+18:4](../../../bib/kjv/eze018.htm#004.md),
+[20](../../../bib/kjv/eze018.htm#020)<span id="iv.ii.ix-p68.2"></span>.md);
 doubtless point to a future life and death, both without end. But though
 in every passage where the favour or anger of God is mentioned, the
 former comprehends eternity of life and the latter eternal destruction,
 the Law, at the same time, enumerates a long catalogue of present
 blessings and curses (<span id="iv.ii.ix-p68.3"></span>[Lev.
-26:4](../../../bib/kjv/lev026.htm#004)<span id="iv.ii.ix-p68.3"></span>;
+26:4](../../../bib/kjv/lev026.htm#004.md)<span id="iv.ii.ix-p68.3"></span>;
 <span id="iv.ii.ix-p68.4"></span>[Deut.
-28:1](../../../bib/kjv/deu028.htm#001)<span
+28:1](../../../bib/kjv/deu028.htm#001.md)<span
 id="iv.ii.ix-p68.4"></span>). The threatening attest the spotless purity
 of God, which cannot bear iniquity, while the promises attest at once
 his infinite love of righteousness (which he cannot leave unrewarded),
@@ -442,7 +442,7 @@ modes of worship as a means of gaining his favour. This irreligious
 affectation of religion being innate in the human mind, has betrayed
 itself in every age, and is still doing so, men always longing to devise
 some method of procuring righteousness without any sanction from the
-Word of God.19  <span id="fr_186"></span>[187](#fn_186) Hence in those
+Word of God.19  <span id="fr_186"></span>[187](#fn_186.md) Hence in those
 observances which are generally regarded as good works, the precepts of
 the Law occupy a narrow space, almost the whole being usurped by this
 endless host of human inventions. But was not this the very license
@@ -453,15 +453,15 @@ thee for ever, when thou does that which is good and right in the sight
 of the Lord thy God.” “What thing soever I command you, observe to do
 it: thou shalt not add thereto, nor diminish from it,” (<span
 id="iv.ii.ix-p70.1"></span>[Deut
-12:28-32](../../../bib/kjv/deu012.htm#028)<span
+12:28-32](../../../bib/kjv/deu012.htm#028.md)<span
 id="iv.ii.ix-p70.1"></span>). Previously, after asking “what nation is
 there so great, that has statutes and judgments so righteous as all this
 law, which I set before you this day?” he had added, “Only take heed to
 thyself, and keep thy soul diligently, lest thou forget the things which
 thine eyes have seen, and lest they depart from thy heart all the days
 of thy life,” (<span id="iv.ii.ix-p70.2"></span>[Deut.
-4:8](../../../bib/kjv/deu004.htm#008),
-[9](../../../bib/kjv/deu004.htm#009)<span id="iv.ii.ix-p70.2"></span>).
+4:8](../../../bib/kjv/deu004.htm#008.md),
+[9](../../../bib/kjv/deu004.htm#009)<span id="iv.ii.ix-p70.2"></span>.md).
 God foreseeing that the Israelites would not rest, but after receiving
 the Law, would, unless sternly prohibited give birth to new kinds of
 righteousness, declares that the Law comprehended a perfect
@@ -482,7 +482,7 @@ which are not prescribed by the Law of God, is an intolerable violation
 of true and divine righteousness. Most truly does Augustine say in one
 place, that the obedience which is rendered to God is the parent and
 guardian; in another, that it is the source of all the virtues.19  <span
-id="fr_187"></span>[188](#fn_187)
+id="fr_187"></span>[188](#fn_187.md)
 
 <span id="iv.ii.ix-p72"></span>6. After we shall have expounded the
 Divine Law, what has been previously said of its office and use will be
@@ -528,7 +528,7 @@ they lose sight of the Lawgiver, and form an idea of righteousness in
 accordance with their own disposition? Against this Paul strenuously
 protests, when he declares that the “*law is spiritual*” (<span
 id="iv.ii.ix-p72.1"></span>[Rom.
-7:14](../../../bib/kjv/rom007.htm#014)<span
+7:14](../../../bib/kjv/rom007.htm#014.md)<span
 id="iv.ii.ix-p72.1"></span>); intimating that it not only demands the
 homage of the soul, and mind, and will, but requires an angelic purity,
 which, purified from all filthiness of the flesh, savours only of the
@@ -538,9 +538,9 @@ Spirit.
 the Law, we are not introducing a new interpretation of our own; we are
 following Christ, the best interpreter of the Law (<span
 id="iv.ii.ix-p73.1"></span>[Matt.
-5:22](../../../bib/kjv/mat005.htm#022),
-[28](../../../bib/kjv/mat005.htm#028),
-[44](../../../bib/kjv/mat005.htm#044)<span id="iv.ii.ix-p73.1"></span>).
+5:22](../../../bib/kjv/mat005.htm#022.md),
+[28](../../../bib/kjv/mat005.htm#028.md),
+[44](../../../bib/kjv/mat005.htm#044)<span id="iv.ii.ix-p73.1"></span>.md).
 The Pharisees having instilled into the people the erroneous idea that
 the Law was fulfilled by every one who did not in external act do
 anything against the Law, he pronounces this a most dangerous delusion,
@@ -568,7 +568,7 @@ Pharisees.
 that there is always more in the requirements and prohibitions of the
 Law than is expressed in words. This, however, must be understood so as
 not to convert it into a kind of Lesbian code;19  <span
-id="fr_188"></span>[189](#fn_188) and thus, by licentiously wresting the
+id="fr_188"></span>[189](#fn_188.md) and thus, by licentiously wresting the
 Scriptures, make them assume any meaning that we please. By taking this
 excessive liberty with Scripture, its authority is lowered with some,
 and all hope of understanding it abandoned by others. We must,
@@ -667,7 +667,7 @@ blasphemy? or not to take away the life of man, if you strive to cut off
 and destroy the remembrance of God? It is vain, therefore, to talk of
 righteousness apart from religion. Such righteousness has no more beauty
 than the trunk of a body deprived of its head.19  <span
-id="fr_189"></span>[190](#fn_189) Nor is religion the principal part
+id="fr_189"></span>[190](#fn_189.md) Nor is religion the principal part
 merely: it is the very soul by which the whole lives and breathes.
 Without the fear of God, men do not even observe justice and charity
 among themselves. We say, then, that the worship of God is the beginning
@@ -681,9 +681,9 @@ how to cultivate piety, and the proper duties of religion in which his
 worship consists; in the second, he shows how, in the fear of his name,
 we are to conduct ourselves towards our fellow-men. Hence, as related by
 the Evangelists (<span id="iv.ii.ix-p79.1"></span>[Mt.
-22:37](../../../bib/kjv/mat022.htm#037)<span
+22:37](../../../bib/kjv/mat022.htm#037.md)<span
 id="iv.ii.ix-p79.1"></span>; <span id="iv.ii.ix-p79.2"></span>[Luke
-10:27](../../../bib/kjv/luk010.htm#027)<span
+10:27](../../../bib/kjv/luk010.htm#027.md)<span
 id="iv.ii.ix-p79.2"></span>), our Saviour summed up the whole Law in two
 heads—viz. to love the Lord with all our heart, with all our soul, and
 with all our strength, and our neighbour as ourselves. You see how, of
@@ -727,7 +727,7 @@ preface to the whole Law, that thereafter follow four commandments in
 the First Table, and six in the Second, in the order in which they will
 here be reviewed. This division Origin adopts without discussion, as if
 it had been every where received in his day.19  <span
-id="fr_190"></span>[191](#fn_190) It is also adopted by Augustine, in
+id="fr_190"></span>[191](#fn_190.md) It is also adopted by Augustine, in
 his book addressed to Boniface, where, in enumerating the commandments,
 he follows this order, Let one God be religiously obeyed, let no idol be
 worshipped, let the name of God be not used in vain; while previously he
@@ -738,14 +738,14 @@ Table consist of three commandments), the mystery of the Trinity would
 be better manifested. Even here, however, he does not disguise his
 opinion, that in other respects, our division is more to his mind.
 Besides these, we are supported by the author of an unfinished work on
-Matthew.19  <span id="fr_191"></span>[192](#fn_191) Josephus, no doubt
+Matthew.19  <span id="fr_191"></span>[192](#fn_191.md) Josephus, no doubt
 with the general consent of his age, assigns five commandments to each
 table. This, while repugnant to reason, inasmuch as it confounds the
 distinction between piety and charity, is also refuted by the authority
 of our Saviour, who in Matthew places the command to honour parents in
 the list of those belonging to the Second Table (<span
 id="iv.ii.ix-p83.1"></span>[Mt.
-19:19](../../../bib/kjv/mat019.htm#019)<span
+19:19](../../../bib/kjv/mat019.htm#019.md)<span
 id="iv.ii.ix-p83.1"></span>). Let us now hear God speaking in his own
 words.
 
@@ -772,7 +772,7 @@ if they fail to make a suitable return. By the name, Lord, are denoted
 power and lawful dominion. If all things are from him, and by him
 consist, they ought in justice to bear reference to him, as Paul says
 (<span id="iv.ii.ix-p86.1"></span>[Rom.
-11:36](../../../bib/kjv/rom011.htm#036)<span
+11:36](../../../bib/kjv/rom011.htm#036.md)<span
 id="iv.ii.ix-p86.1"></span>). This name, therefore, is in itself
 sufficient to bring us under the authority of the divine majesty: for it
 were monstrous for us to wish to withdraw from the dominion of him, out
@@ -784,11 +784,11 @@ mere necessity, but to allure them, graciously declares, that he is the
 God of the Church. For the mode of expression implies, that there is a
 mutual relation included in the promise, “I will be their God, and they
 shall be my people,” (<span id="iv.ii.ix-p87.1"></span>[Jer.
-31:33](../../../bib/kjv/jer031.htm#033)<span
+31:33](../../../bib/kjv/jer031.htm#033.md)<span
 id="iv.ii.ix-p87.1"></span>). Hence Christ infers the immortality of
 Abraham, Isaac, and Jacob, from the fact that God had declared himself
 to be their God (<span id="iv.ii.ix-p87.2"></span>[Mt.
-22:32](../../../bib/kjv/mat022.htm#032)<span
+22:32](../../../bib/kjv/mat022.htm#032.md)<span
 id="iv.ii.ix-p87.2"></span>). It is, therefore, the same as if he had
 said, I have chosen you to myself, as a people to whom I shall not only
 do good in the present life, but also bestow felicity in the life to
@@ -797,16 +797,16 @@ passages. For when the Lord condescends in mercy to honour us so far as
 to admit us to partnership with his chosen people, he chooses us, as
 Moses says, “to be a holy people,” “a peculiar people unto himself,” to
 “keep all his commandments,” (<span id="iv.ii.ix-p87.3"></span>[Deut.
-7:6](../../../bib/kjv/deu007.htm#006)<span id="iv.ii.ix-p87.3"></span>;
+7:6](../../../bib/kjv/deu007.htm#006.md)<span id="iv.ii.ix-p87.3"></span>;
 14:2; 26:18). Hence the exhortation, “Ye shall be holy; for I the Lord
 your God am holy,” (<span id="iv.ii.ix-p87.4"></span>[Lev.
-19:2](../../../bib/kjv/lev019.htm#002)<span
+19:2](../../../bib/kjv/lev019.htm#002.md)<span
 id="iv.ii.ix-p87.4"></span>). These two considerations form the ground
 of the remonstrance, “A son honoureth his father, and a servant his
 master; if then I be a father, where is mine honour? and if I be a
 master, where is my fear? saith the Lord of hosts,” (<span
 id="iv.ii.ix-p87.5"></span>[Mal.
-1:6](../../../bib/kjv/mal001.htm#006)<span id="iv.ii.ix-p87.5"></span>).
+1:6](../../../bib/kjv/mal001.htm#006)<span id="iv.ii.ix-p87.5"></span>.md).
 
 <span id="iv.ii.ix-p88"></span>15. Next follows a commemoration of his
 kindness, which ought to produce upon us an impression strong in
@@ -815,7 +815,7 @@ men. It is true, indeed, he was reminding Israel of a deliverance then
 recent, but one which, on account of its wondrous magnitude, was to be
 for ever memorable to the remotest posterity. Moreover, it is most
 appropriate to the matter in hand.19  <span
-id="fr_192"></span>[193](#fn_192) For the Lord intimates that they were
+id="fr_192"></span>[193](#fn_192.md) For the Lord intimates that they were
 delivered from miserable bondage, that they might learn to yield prompt
 submission and obedience to him as the author of their freedom. In like
 manners to keep us to his true worship, he often describes himself by
@@ -833,7 +833,7 @@ characters under which he had manifested himself to the people of
 Israel. When he is called the God of Abraham, or the God of Israel, when
 he is stationed in the temple of Jerusalem, between the Cherubim, these,
 and similar modes of expression,20  <span
-id="fr_193"></span>[194](#fn_193) do not confine him to one place or one
+id="fr_193"></span>[194](#fn_193.md) do not confine him to one place or one
 people, but are used merely for the purpose of fixing our thoughts on
 that God who so manifested himself in the covenant which he made with
 Israel, as to make it unlawful on any account to deviate from the strict
@@ -857,7 +857,7 @@ whose commands, he knows, he has been specially appointed to obey, from
 whose kindness he anticipates an abundance of all good, and even a
 blessed immortality, and to whose wondrous power and mercy he is
 indebted for deliverance from the jaws of death.20  <span
-id="fr_194"></span>[195](#fn_194)
+id="fr_194"></span>[195](#fn_194.md)
 
 <span id="iv.ii.ix-p92"></span>16. The authority of the Law being
 founded and established, God delivers his First Commandment—
@@ -881,11 +881,11 @@ belongs to him is to be transferred to any other. The duties which we
 owe to God are innumerable, but they seem to admit of being not
 improperly reduced to four heads: Adoration, with its accessory
 spiritual submission of conscience, Trust, Invocation, Thanksgiving.20
- <span id="fr_195"></span>[196](#fn_195) By Adoration, I mean the
+ <span id="fr_195"></span>[196](#fn_195.md) By Adoration, I mean the
 veneration and worship which we render to him when we do homage to his
 majesty; and hence I make part of it to consist in bringing our
 consciences into subjection to his Law.20  <span
-id="fr_196"></span>[197](#fn_196) Trust, is secure resting in him under
+id="fr_196"></span>[197](#fn_196.md) Trust, is secure resting in him under
 a recognition of his perfections, when, ascribing to him all power,
 wisdom, justice, goodness, and truth, we consider ourselves happy in
 having been brought into intercourse with him. Invocation, may be
@@ -960,7 +960,7 @@ and superstitious nations. By “any thing which is in heaven above” is
 meant the sun, the moon, and the stars, perhaps also birds, as in
 Deuteronomy, where the meaning is explained, there is mention of birds
 as well as stars (<span id="iv.ii.ix-p103.1"></span>[Deut.
-4:15](../../../bib/kjv/deu004.htm#015)<span
+4:15](../../../bib/kjv/deu004.htm#015.md)<span
 id="iv.ii.ix-p103.1"></span>). I would not have made this observation,
 had I not seen that some absurdly apply it to the angels. The other
 particulars I pass, as requiring no explanation. We have already shown
@@ -976,7 +976,7 @@ following terms:—
 <span id="iv.ii.ix-p105"></span>
 
 <span id="iv.ii.ix-p106"></span>I THE LORD THY GOD AM A JEALOUS20  <span
-id="fr_197"></span>[198](#fn_197) GOD, VISITING THE INIQUITY OF THE
+id="fr_197"></span>[198](#fn_197.md) GOD, VISITING THE INIQUITY OF THE
 FATHERS UPON THE CHILDREN UNTO THE THIRD AND FOURTH GENERATION OF THEM
 THAT HATE ME; AND SHEWING MERCY UNTO THOUSANDS OF THEM THAT LOVE ME, AND
 KEEP MY COMMANDMENTS.
@@ -997,7 +997,7 @@ but one extending to the third and fourth generation of such as imitate
 the impiety of their progenitors. In like manner, he declares his
 constant mercy and kindness to the remote posterity of those who love
 him, and keep his Law. The Lord very frequently addresses us in the
-character of a husband;20  <span id="fr_198"></span>[199](#fn_198) the
+character of a husband;20  <span id="fr_198"></span>[199](#fn_198.md) the
 union by which he connects us with himself, when he receives us into the
 bosom of the Church, having some resemblance to that of holy wedlock,
 because founded on mutual faith. As he performs all the offices of a
@@ -1023,18 +1023,18 @@ inconsistent with the equity of the divine procedure to punish the
 innocent for another’s fault; and the Lord himself declares, that “the
 son shall not bear the iniquity of the father,” (<span
 id="iv.ii.ix-p111.1"></span>[Ezek.
-18:20](../../../bib/kjv/eze018.htm#020)<span
+18:20](../../../bib/kjv/eze018.htm#020.md)<span
 id="iv.ii.ix-p111.1"></span>). But still we meet more than once with a
 declaration as to the postponing of the punishment of the sins of
 fathers to future generations. Thus Moses repeatedly addresses the Lord
 as “visiting the iniquity of the fathers upon the children unto the
 third and fourth generation,” (<span id="iv.ii.ix-p111.2"></span>[Num.
-14:18](../../../bib/kjv/num014.htm#018)<span
+14:18](../../../bib/kjv/num014.htm#018.md)<span
 id="iv.ii.ix-p111.2"></span>). In like manner, Jeremiah, “Thou showest
 loving-kindness unto thousands, and recompenses the iniquity of the
 fathers into the bosom of their children after them,” (<span
 id="iv.ii.ix-p111.3"></span>[Jer.
-32:18](../../../bib/kjv/jer032.htm#018)<span
+32:18](../../../bib/kjv/jer032.htm#018.md)<span
 id="iv.ii.ix-p111.3"></span>). Some feeling sadly perplexed how to solve
 this difficulty, think it is to be understood of temporal punishments
 only, which it is said sons may properly bear for the sins of their
@@ -1042,11 +1042,11 @@ parents, because they are often inflicted for their own safety. This is
 indeed true; for Isaiah declared to Hezekiah, that his children should
 be stript of the kingdom, and carried away into captivity, for a sin
 which he had committed (<span id="iv.ii.ix-p111.4"></span>[Isa.
-39:7](../../../bib/kjv/isa039.htm#007)<span
+39:7](../../../bib/kjv/isa039.htm#007.md)<span
 id="iv.ii.ix-p111.4"></span>); and the households of Pharaoh and
 Abimelech were made to suffer for an injury done to Abraham (<span
 id="iv.ii.ix-p111.5"></span>[Gen.
-12:17](../../../bib/kjv/gen012.htm#017)<span
+12:17](../../../bib/kjv/gen012.htm#017.md)<span
 id="iv.ii.ix-p111.5"></span>; 20:3–18). But the attempt to solve the
 question in this way is an evasion rather than a true interpretation.
 For the punishment denounced here and in similar passages is too great
@@ -1071,7 +1071,7 @@ their families of his grace for many generations, who will dare to bring
 a charge against him for this most righteous vengeance? But it will be
 said, the Lord, on the contrary, declares, that the son shall not suffer
 for the father’s sin (<span id="iv.ii.ix-p112.1"></span>[Ezek.
-18:20](../../../bib/kjv/eze018.htm#020)<span
+18:20](../../../bib/kjv/eze018.htm#020.md)<span
 id="iv.ii.ix-p112.1"></span>). Observe the scope of that passage. The
 Israelites, after being subjected to a long period of uninterrupted
 calamities, had begun to say, as a proverb, that their fathers had eaten
@@ -1097,11 +1097,11 @@ promise of mercy to thousands—a promise which is frequently mentioned in
 Scripture, and forms an article in the solemn covenant made with the
 Church—I will be “a God unto thee, and to thy seed after thee,” (<span
 id="iv.ii.ix-p113.1"></span>[Gen.
-17:7](../../../bib/kjv/gen017.htm#007)<span
+17:7](../../../bib/kjv/gen017.htm#007.md)<span
 id="iv.ii.ix-p113.1"></span>). With reference to this, Solomon says,
 “The just man walketh in his integrity: his children are blessed after
 him,” (<span id="iv.ii.ix-p113.2"></span>[Prov.
-20:7](../../../bib/kjv/pro020.htm#007)<span
+20:7](../../../bib/kjv/pro020.htm#007.md)<span
 id="iv.ii.ix-p113.2"></span>); not only in consequence of a religious
 education (though this certainly is by no means unimportant), but in
 consequence of the blessing promised in the covenant—viz. that the
@@ -1191,20 +1191,20 @@ when Isaiah prophesies of the admission of the Assyrians and Egyptians
 to a participation in the covenant, he says, “In that day shall five
 cities in the land of Egypt speak the language of Canaan, and swear to
 the Lord of hosts,” (<span id="iv.ii.ix-p118.1"></span>[Isaiah
-19:18](../../../bib/kjv/isa019.htm#018)<span
+19:18](../../../bib/kjv/isa019.htm#018.md)<span
 id="iv.ii.ix-p118.1"></span>). Swearing by the name of the Lord here
 means, that they will make a profession of religion. In like manner,
 speaking of the extension of the Redeemer’s kingdom, it is said, “He who
 blesseth himself in the earth shall bless himself in the God of truth:
 and he that sweareth in the earth shall swear by the God of truth,”
 (<span id="iv.ii.ix-p118.2"></span>[Isaiah
-65:16](../../../bib/kjv/isa065.htm#016)<span
+65:16](../../../bib/kjv/isa065.htm#016.md)<span
 id="iv.ii.ix-p118.2"></span>). In Jeremiah it is said, “If they will
 diligently learn the ways of my people, to swear by my name, The Lord
 liveth; as they taught my people to swear by Baal; then shall they be
 built in the midst of my people,” (<span
 id="iv.ii.ix-p118.3"></span>[Jer.
-12:16](../../../bib/kjv/jer012.htm#016)<span
+12:16](../../../bib/kjv/jer012.htm#016.md)<span
 id="iv.ii.ix-p118.3"></span>). By appealing to the name of the Lord, and
 calling him to witness, we are justly said to declare our own religious
 veneration of him. For we thus acknowledge that he is eternal and
@@ -1217,13 +1217,13 @@ grievously offended with those who swear by strange gods, and construes
 such swearing as a proof of open revolt, “Thy children have forsaken me,
 and sworn by them that are no gods,” (<span
 id="iv.ii.ix-p118.4"></span>[Jer.
-5:7](../../../bib/kjv/jer005.htm#007)<span
+5:7](../../../bib/kjv/jer005.htm#007.md)<span
 id="iv.ii.ix-p118.4"></span>). The heinousness of the offence is
 declared by the punishment denounced against it, “I will cut off them
 that swear by the Lord, and that swear by Malcham,” (<span
 id="iv.ii.ix-p118.5"></span>[Zeph.
-1:4](../../../bib/kjv/zep001.htm#004),
-[5](../../../bib/kjv/zep001.htm#005)<span id="iv.ii.ix-p118.5"></span>).
+1:4](../../../bib/kjv/zep001.htm#004.md),
+[5](../../../bib/kjv/zep001.htm#005)<span id="iv.ii.ix-p118.5"></span>.md).
 
 <span id="iv.ii.ix-p119"></span>24. Understanding that the Lord would
 have our oaths to be a species of divine worship, we must be the more
@@ -1231,14 +1231,14 @@ careful that they do not, instead of worship, contain insult, or
 contempt, and vilification. It is no slight insult to swear by him and
 do it falsely: hence in the Law this is termed profanation (<span
 id="iv.ii.ix-p119.1"></span>[Lev.
-19:12](../../../bib/kjv/lev019.htm#012)<span
+19:12](../../../bib/kjv/lev019.htm#012.md)<span
 id="iv.ii.ix-p119.1"></span>). For if God is robbed of his truth, what
 is it that remains? Without truth he could not be God. But assuredly he
 is robbed of his truth, when he is made the approver and attester of
 what is false. Hence, when Joshua is endeavouring to make Achan confess
 the truth, he says, “My son, give, I pray thee, glory to the Lord God of
 Israel,” (<span id="iv.ii.ix-p119.2"></span>[Joshua
-7:19](../../../bib/kjv/jos007.htm#019)<span
+7:19](../../../bib/kjv/jos007.htm#019.md)<span
 id="iv.ii.ix-p119.2"></span>); intimating, that grievous dishonour is
 done to God when men swear by him falsely. And no wonder; for, as far as
 in them lies, his sacred name is in a manner branded with falsehood.
@@ -1246,11 +1246,11 @@ That this mode of expression was common among the Jews whenever any one
 was called upon to take an oath, is evident from a similar obtestation
 used by the Pharisees, as given in John (<span
 id="iv.ii.ix-p119.3"></span>[John
-9:24](../../../bib/kjv/joh009.htm#024)<span
+9:24](../../../bib/kjv/joh009.htm#024.md)<span
 id="iv.ii.ix-p119.3"></span>); Scripture reminds us of the caution which
 we ought to use by employing such expressions as the following:—“As the
 Lord liveth;” “God do so and more also;” “I call God for a record upon
-my soul.”20  <span id="fr_199"></span>[200](#fn_199) Such expressions
+my soul.”20  <span id="fr_199"></span>[200](#fn_199.md) Such expressions
 intimate, that we cannot call God to witness our statement, without
 imprecating his vengeance for perjury if it is false.
 
@@ -1273,17 +1273,17 @@ stands, and will one day receive effect. Special vengeance will be
 executed on those who have taken the name of God in vain. Another form
 of violation is exhibited, when, with manifest impiety, we, in our
 oaths, substitute the holy servants of God for God himself,20  <span
-id="fr_200"></span>[201](#fn_200) thus conferring upon them the glory of
+id="fr_200"></span>[201](#fn_200.md) thus conferring upon them the glory of
 his Godhead. It is not without cause the Lord has, by a special
 commandment, required us to swear by his name, and, by a special
 prohibition, forbidden us to swear by other gods.20  <span
-id="fr_201"></span>[202](#fn_201) The Apostle gives a clear attestation
+id="fr_201"></span>[202](#fn_201.md) The Apostle gives a clear attestation
 to the same effect, when he says, that “men verily swear by the
 greater;” but that “when God made promise to Abraham, because he could
 swear by no greater, he sware by himself;” (<span
 id="iv.ii.ix-p123.4"></span>[Heb.
-6:16](../../../bib/kjv/heb006.htm#016),
-[13](../../../bib/kjv/heb006.htm#013)<span
+6:16](../../../bib/kjv/heb006.htm#016.md),
+[13](../../../bib/kjv/heb006.htm#013.md)<span
 id="iv.ii.ix-p123.4"></span>).
 
 <span id="iv.ii.ix-p124"></span>26. The Anabaptists, not content with
@@ -1291,22 +1291,22 @@ this moderate use of oaths, condemn all, without exception, on the
 ground of our Saviour’s general prohibition, “I say unto you, Swear not
 at all:” “Let your speech be Yea, yea; Nay, nay: for whatsoever is more
 than these cometh of evil,” (<span id="iv.ii.ix-p124.1"></span>[Mt.
-5:34](../../../bib/kjv/mat005.htm#034)<span
+5:34](../../../bib/kjv/mat005.htm#034.md)<span
 id="iv.ii.ix-p124.1"></span>; <span id="iv.ii.ix-p124.2"></span>[James
-5:12](../../../bib/kjv/jam005.htm#012)<span
+5:12](../../../bib/kjv/jam005.htm#012.md)<span
 id="iv.ii.ix-p124.2"></span>). In this way, they inconsiderately make a
 stumbling-stone of Christ, setting him in opposition to the Father, as
 if he had descended into the world to annul his decrees. In the Law, the
 Almighty not only permits an oath as a thing that is lawful (this were
 amply sufficient), but, in a case of necessity, actually commands it
 (<span id="iv.ii.ix-p124.3"></span>[Exod.
-22:11](../../../bib/kjv/exo022.htm#011)<span
+22:11](../../../bib/kjv/exo022.htm#011.md)<span
 id="iv.ii.ix-p124.3"></span>). Christ again declares, that he and his
 Father are one; that he only delivers what was commanded of his Father;
 that his doctrine is not his own, but his that sent him (<span
 id="iv.ii.ix-p124.4"></span>[John
-10:18](../../../bib/kjv/joh010.htm#018),
-[30](../../../bib/kjv/joh010.htm#030)<span id="iv.ii.ix-p124.4"></span>;
+10:18](../../../bib/kjv/joh010.htm#018.md),
+[30](../../../bib/kjv/joh010.htm#030.md)<span id="iv.ii.ix-p124.4"></span>;
 7:16). What then? Will they make God contradict himself, by approving
 and commanding at one time, what he afterwards prohibits and condemns?
 But as there is some difficulty in what our Saviour says on the subject
@@ -1351,7 +1351,7 @@ indirectly, yet his majesty is insulted by all frivolous oaths. Christ
 strips this abuse of every vain pretext when he says “Swear not at all”.
 To the same effect is the passage in which James uses the words of our
 Saviour above quoted (<span id="iv.ii.ix-p124.5"></span>[James
-5:12](../../../bib/kjv/jam005.htm#012)<span
+5:12](../../../bib/kjv/jam005.htm#012.md)<span
 id="iv.ii.ix-p124.5"></span>). For this rash swearing has always
 prevailed in the world, notwithstanding that it is a profanation of the
 name of God. If you refer the words, “*not at all*”, to the act itself,
@@ -1368,9 +1368,9 @@ the perfection which he taught, did not object to oaths whenever the
 occasion required them; and the disciples, who doubtless in all things
 obeyed their Master, followed the same rule. Who will dare to say that
 Paul would have sworn (<span id="iv.ii.ix-p125.1"></span>[Rom.
-1:9](../../../bib/kjv/rom001.htm#009)<span id="iv.ii.ix-p125.1"></span>;
+1:9](../../../bib/kjv/rom001.htm#009.md)<span id="iv.ii.ix-p125.1"></span>;
 <span id="iv.ii.ix-p125.2"></span>[2 Cor.
-1:23](../../../bib/kjv/co2001.htm#023)<span
+1:23](../../../bib/kjv/co2001.htm#023.md)<span
 id="iv.ii.ix-p125.2"></span>) if an oath had been altogether forbidden?
 But when the occasion calls for it, he adjures without any scruple, and
 sometimes even imprecates. The question, however, is not yet disposed
@@ -1388,7 +1388,7 @@ Scripture. The magistrate is enjoined, in a doubtful matter, to put the
 witness upon oath; and he in his turn to answer upon oath; and an
 Apostle says, that in this way there is an end of all strife (<span
 id="iv.ii.ix-p125.3"></span>[Heb.
-6:16](../../../bib/kjv/heb006.htm#016)<span
+6:16](../../../bib/kjv/heb006.htm#016.md)<span
 id="iv.ii.ix-p125.3"></span>). In this commandment, both parties are
 fully approved. Nay, we may observe, that among the ancient heathens a
 public and solemn oath was held in great reverence, while those common
@@ -1412,7 +1412,7 @@ in mutual league was private. Boaz, though a private man, confirmed his
 promise of marriage to Ruth in the same way. Obadiah, too, a just man,
 and one that feared God, though a private individual, in seeking to
 persuade Elijah, asseverates with an oath.20  <span
-id="fr_202"></span>[203](#fn_202) I hold, therefore, that there is no
+id="fr_202"></span>[203](#fn_202.md) I hold, therefore, that there is no
 better rule than so to regulate our oaths that they shall neither be
 rash, frivolous, promiscuous, nor passionate, but be made to serve a
 just necessity; in other words, to vindicate the glory of God, or
@@ -1452,7 +1452,7 @@ under the authority of others, should be indulged with a day of rest,
 and thus have some intermission from labour.
 
 <span id="iv.ii.ix-p131"></span>29. We are taught in many passages21
- <span id="fr_203"></span>[204](#fn_203) that this adumbration of
+ <span id="fr_203"></span>[204](#fn_203.md) that this adumbration of
 spiritual rest held a primary place in the Sabbath. Indeed, there is no
 commandment the observance of which the Almighty more strictly enforces.
 When he would intimate by the Prophets that religion was entirely
@@ -1478,7 +1478,7 @@ be put to death. Wherefore the children of Israel shall keep the
 sabbath, to observe the sabbath throughout their generations, for a
 perpetual covenant. It is a sign between me and the children of Israel
 for ever,” (<span id="iv.ii.ix-p132.5"></span>[Exodus
-31:13-17](../../../bib/kjv/exo031.htm#013)<span
+31:13-17](../../../bib/kjv/exo031.htm#013.md)<span
 id="iv.ii.ix-p132.5"></span>). Ezekiel is still more full, but the sum
 of what he says amounts to this: that the sabbath is a sign by which
 Israel might know that God is their sanctifier. If our sanctification
@@ -1489,7 +1489,7 @@ yield up our heart, and abandon all the lusts of the flesh. In short, we
 must desist from all the acts of our own mind, that God working in us,
 we may rest in him, as the Apostle also teaches (<span
 id="iv.ii.ix-p132.6"></span>[Heb.
-3:13](../../../bib/kjv/heb003.htm#013)<span
+3:13](../../../bib/kjv/heb003.htm#013.md)<span
 id="iv.ii.ix-p132.6"></span>; 4:3, 9).
 
 <span id="iv.ii.ix-p133"></span>30. This complete cessation was
@@ -1510,10 +1510,10 @@ consummated until the fulfilment of the prophecy of Isaiah: “From one
 new moon to another, and from one sabbath to another, shall all flesh
 come to worship before me, saith the Lord,” (<span
 id="iv.ii.ix-p133.1"></span>[Isaiah
-66:23](../../../bib/kjv/isa066.htm#023)<span
+66:23](../../../bib/kjv/isa066.htm#023.md)<span
 id="iv.ii.ix-p133.1"></span>); in other words, when God shall be “all in
 all,” (<span id="iv.ii.ix-p133.2"></span>[I Cor.
-15:28](../../../bib/kjv/co1015.htm#028)<span
+15:28](../../../bib/kjv/co1015.htm#028.md)<span
 id="iv.ii.ix-p133.2"></span>). It may seem, therefore, that by the
 seventh day the Lord delineated to his people the future perfection of
 his sabbath on the last day, that by continual meditation on the
@@ -1539,8 +1539,8 @@ my holy day; and call the sabbath a delight, the holy of the Lord,
 honourable; and shalt honour him, not doing thine own ways, nor finding
 thine own pleasure, nor speaking thine own words: then shalt thou
 delight thyself in the Lord,” (<span id="iv.ii.ix-p134.1"></span>[Isa.
-58:13](../../../bib/kjv/isa058.htm#013),
-[14](../../../bib/kjv/isa058.htm#014)<span
+58:13](../../../bib/kjv/isa058.htm#013.md),
+[14](../../../bib/kjv/isa058.htm#014.md)<span
 id="iv.ii.ix-p134.1"></span>). Still there can be no doubt, that, on the
 advent of our Lord Jesus Christ, the ceremonial part of the commandment
 was abolished. He is the truth, at whose presence all the emblems
@@ -1549,14 +1549,14 @@ say, is the true completion of the sabbath: “We are buried with him by
 baptism unto death: that like as Christ was raised up from the dead by
 the glory of the Father, even so we should walk in newness of life,”
 (<span id="iv.ii.ix-p134.2"></span>[Rom.
-6:4](../../../bib/kjv/rom006.htm#004)<span
+6:4](../../../bib/kjv/rom006.htm#004.md)<span
 id="iv.ii.ix-p134.2"></span>). Hence, as the Apostle elsewhere says,
 “Let no man therefore judge you in meat, or in drink, or in respect of
 an holiday, or of the new moon, or of the sabbath days; which are a
 shadow of things to come; but the body is of Christ,” (<span
 id="iv.ii.ix-p134.3"></span>[Col.
-2:16](../../../bib/kjv/col002.htm#016),
-[17](../../../bib/kjv/col002.htm#017)<span
+2:16](../../../bib/kjv/col002.htm#016.md),
+[17](../../../bib/kjv/col002.htm#017.md)<span
 id="iv.ii.ix-p134.3"></span>); meaning by body the whole essence of the
 truth, as is well explained in that passage. This is not contented with
 one day, but requires the whole course of our lives, until being
@@ -1577,11 +1577,11 @@ the sabbath of the Lord thy God: in it thou shalt not do any work, thou,
 nor thy son, nor thy daughter, nor thy man-servant, nor thy
 maid-servant;—that thy man-servant and thy maid-servant may rest as well
 as thou,” (<span id="iv.ii.ix-p135.1"></span>[Deut.
-5:14](../../../bib/kjv/deu005.htm#014)<span
+5:14](../../../bib/kjv/deu005.htm#014.md)<span
 id="iv.ii.ix-p135.1"></span>). Likewise in Exodus, “That thine ox and
 thine ass may rest, and the son of thy handmaid, and the stranger, may
 be refreshed,” (<span id="iv.ii.ix-p135.2"></span>[Exod.
-23:12](../../../bib/kjv/exo023.htm#012)<span
+23:12](../../../bib/kjv/exo023.htm#012.md)<span
 id="iv.ii.ix-p135.2"></span>). Who can deny that both are equally
 applicable to us as to the Jews? Religious meetings are enjoined us by
 the word of God; their necessity, experience itself sufficiently
@@ -1589,7 +1589,7 @@ demonstrates. But unless these meetings are stated, and have fixed days
 allotted to them, how can they be held? We must, as the apostle
 expresses it, do all things decently and in orders (<span
 id="iv.ii.ix-p135.3"></span>[1 Cor.
-14:40](../../../bib/kjv/co1014.htm#040)<span
+14:40](../../../bib/kjv/co1014.htm#040.md)<span
 id="iv.ii.ix-p135.3"></span>). So impossible, however, would it be to
 preserve decency and order without this politic arrangements that the
 dissolution of it would instantly lead to the disturbance and ruin of
@@ -1617,20 +1617,20 @@ necessary remedy for preserving order in the Church. Paul informs us
 that Christians are not to be judged in respect of its observance,
 because it is a shadow of something to come (<span
 id="iv.ii.ix-p136.1"></span>[Col.
-2:16](../../../bib/kjv/col002.htm#016)<span
+2:16](../../../bib/kjv/col002.htm#016.md)<span
 id="iv.ii.ix-p136.1"></span>); and, accordingly, he expresses a fear
 lest his labour among the Galatians should prove in vain, because they
 still observed days (<span id="iv.ii.ix-p136.2"></span>[Gal.
-4:10](../../../bib/kjv/gal004.htm#010),
-[11](../../../bib/kjv/gal004.htm#011)<span
+4:10](../../../bib/kjv/gal004.htm#010.md),
+[11](../../../bib/kjv/gal004.htm#011.md)<span
 id="iv.ii.ix-p136.2"></span>). And he tells the Romans that it is
 superstitious to make one day differ from another (<span
 id="iv.ii.ix-p136.3"></span>[Rom.
-14:5](../../../bib/kjv/rom014.htm#005)<span
+14:5](../../../bib/kjv/rom014.htm#005.md)<span
 id="iv.ii.ix-p136.3"></span>). But who, except those restless men, does
 not see what the observance is to which the Apostle refers? Those
 persons had no regard to that politic and ecclesiastical arrangement,21
- <span id="fr_204"></span>[205](#fn_204) but by retaining the days as
+ <span id="fr_204"></span>[205](#fn_204.md) but by retaining the days as
 types of spiritual things, they in so far obscured the glory of Christ,
 and the light of the Gospel. They did not desist from manual labour on
 the ground of its interfering with sacred study and meditation, but as a
@@ -1643,7 +1643,7 @@ society. For in the churches established by him, this was the use for
 which the Sabbath was retained. He tells the Corinthians to set the
 first day apart for collecting contributions for the relief of their
 brethren at Jerusalem (<span id="iv.ii.ix-p137.1"></span>[1 Cor.
-16:2](../../../bib/kjv/co1016.htm#002)<span
+16:2](../../../bib/kjv/co1016.htm#002.md)<span
 id="iv.ii.ix-p137.1"></span>). If superstition is dreaded, there was
 more danger in keeping the Jewish sabbath than the Lord’s day as
 Christians now do. It being expedient to overthrow superstition, the
@@ -1673,10 +1673,10 @@ thirdly, that we may avoid oppressing those who are subject to us. In
 this way, we get quit of the trifling of the false prophets, who in
 later times instilled Jewish ideas into the people, alleging that
 nothing was abrogated but what was ceremonial in the commandment,21
- <span id="fr_205"></span>[206](#fn_205) (this they term in their
+ <span id="fr_205"></span>[206](#fn_205.md) (this they term in their
 language the taxation of the seventh day), while the moral part
 remains—viz. the observance of one day in seven.21  <span
-id="fr_206"></span>[207](#fn_206) But this is nothing else than to
+id="fr_206"></span>[207](#fn_206.md) But this is nothing else than to
 insult the Jews, by changing the day, and yet mentally attributing to it
 the same sanctity; thus retaining the same typical distinction of days
 as had place among the Jews. And of a truth, we see what profit they
@@ -1684,9 +1684,9 @@ have made by such a doctrine. Those who cling to their constitutions go
 thrice as far as the Jews in the gross and carnal superstition of
 sabbatism; so that the rebukes which we read in Isaiah (<span
 id="iv.ii.ix-p140.1"></span>[Isa.
-1:13](../../../bib/kjv/isa001.htm#013)<span
+1:13](../../../bib/kjv/isa001.htm#013.md)<span
 id="iv.ii.ix-p140.1"></span>; 58:13) apply as much to those of the
-present day,21  <span id="fr_207"></span>[208](#fn_207) as to those to
+present day,21  <span id="fr_207"></span>[208](#fn_207.md) as to those to
 whom the Prophet addressed them. We must be careful, however, to observe
 the general doctrine—viz. in order that religion may neither be lost nor
 languish among us, we must diligently attend on our religious
@@ -1712,7 +1712,7 @@ ingratitude, or disobedience, is forbidden. For the term *honour* has
 this extent of meaning in Scripture. Thus when the Apostle says, “Let
 the elders that rule well be counted worthy of double honour,” (<span
 id="iv.ii.ix-p145.1"></span>[1 Tim.
-5:17](../../../bib/kjv/ti1005.htm#017)<span
+5:17](../../../bib/kjv/ti1005.htm#017.md)<span
 id="iv.ii.ix-p145.1"></span>), he refers not only to the reverence which
 is due to them, but to the recompense to which their services are
 entitled. But as this command to submit is very repugnant to the
@@ -1756,9 +1756,9 @@ insult and contempt. The second he enforces, when he denounces the
 punishment of death on disobedient and rebellious children. To the third
 belongs our Saviour’s declaration, that God requires us to do good to
 our parents (<span id="iv.ii.ix-p146.1"></span>[Mt.
-15](../../../bib/kjv/mat015.htm#000)<span id="iv.ii.ix-p146.1"></span>).
+15](../../../bib/kjv/mat015.htm#000)<span id="iv.ii.ix-p146.1"></span>.md).
 And whenever Paul mentions this commandment, he interprets it as
-enjoining obedience.21  <span id="fr_208"></span>[209](#fn_208)
+enjoining obedience.21  <span id="fr_208"></span>[209](#fn_208.md)
 
 <span id="iv.ii.ix-p148"></span>37. A promise is added by way of
 recommendation, the better to remind us how pleasing to God is the
@@ -1815,7 +1815,7 @@ our true Father. The same holds in the case of rulers, masters, and
 superiors of every description. For it were unbecoming and absurd that
 the honour of God should be impaired by their exaltation—an exaltation
 which, being derived from him, ought to lead us up to him.21  <span
-id="fr_209"></span>[210](#fn_209)
+id="fr_209"></span>[210](#fn_209.md)
 
 ### <span id="iv.ii.ix-p150.1"></span>Sixth Commandment.
 
@@ -1848,14 +1848,14 @@ vain pretexts. Where either wrath or hatred is, there is an inclination
 to do mischief. If you still persist in tergiversation, the mouth of the
 Spirit has declared, that “whosoever hateth his brother is a murderer,”
 (<span id="iv.ii.ix-p154.1"></span>[1 John
-3:15](../../../bib/kjv/jo1003.htm#015)<span
+3:15](../../../bib/kjv/jo1003.htm#015.md)<span
 id="iv.ii.ix-p154.1"></span>); and the mouth of our Saviour has
 declared, that “whosoever is angry with his brother without a cause
 shall be in danger of the judgment: and whosoever shall say to his
 brother, Raca, shall be in danger of the council: but whosoever shall
 say, Thou fool, shall be in danger of hell fire,” (<span
 id="iv.ii.ix-p154.2"></span>[Mt.
-5:22](../../../bib/kjv/mat005.htm#022)<span
+5:22](../../../bib/kjv/mat005.htm#022.md)<span
 id="iv.ii.ix-p154.2"></span>).
 
 <span id="iv.ii.ix-p155"></span>40. Scripture notes a twofold equity on
@@ -1864,7 +1864,7 @@ flesh. Wherefore, if we would not violate the image of God, we must hold
 the person of man sacred—if we would not divest ourselves of humanity we
 must cherish our own flesh. The practical inference to be drawn from the
 redemption and gift of Christ will be elsewhere considered.21  <span
-id="fr_210"></span>[211](#fn_210) The Lord has been pleased to direct
+id="fr_210"></span>[211](#fn_210.md) The Lord has been pleased to direct
 our attention to these two natural considerations as inducements to
 watch over our neighbour’s preservation—viz. to revere the divine image
 impressed upon him, and embrace our own flesh. To be clear of the crime
@@ -1920,7 +1920,7 @@ and resist his ordinance. And let no man tell me (as many in the present
 day do) that he can do all things, God helping! The help of God is
 present with those only who walk in his ways (<span
 id="iv.ii.ix-p161.1"></span>[Ps.
-91:14](../../../bib/kjv/psa091.htm#014)<span
+91:14](../../../bib/kjv/psa091.htm#014.md)<span
 id="iv.ii.ix-p161.1"></span>), that is, in his callings from which all
 withdraw themselves who, omitting the remedies provided by God, vainly
 and presumptuously strive to struggle with and surmount their natural
@@ -1928,7 +1928,7 @@ feelings. That continence is a special gift from God, and of the class
 of those which are not bestowed indiscriminately on the whole body of
 the Church, but only on a few of its members, our Lord affirms (<span
 id="iv.ii.ix-p161.2"></span>[Mt.
-19:12](../../../bib/kjv/mat019.htm#012)<span
+19:12](../../../bib/kjv/mat019.htm#012.md)<span
 id="iv.ii.ix-p161.2"></span>). He first describes a certain class of
 individuals who have made themselves eunuchs for the kingdom of heavenly
 sake; that is, in order that they may be able to devote themselves with
@@ -1940,7 +1940,7 @@ able to receive it, let him receive it.” Paul asserts the same thing
 still more plainly when he says, “Every man has his proper gift of God,
 one after this manner, and another after that,” (<span
 id="iv.ii.ix-p161.3"></span>[1 Cor.
-7:7](../../../bib/kjv/co1007.htm#007)<span
+7:7](../../../bib/kjv/co1007.htm#007.md)<span
 id="iv.ii.ix-p161.3"></span>).
 
 <span id="iv.ii.ix-p162"></span>43. Since we are reminded by an express
@@ -1975,7 +1975,7 @@ meantime be inwardly inflamed with lust. For Paul’s definition of
 chastity is purity of mind, combined with purity of body. “The unmarried
 woman careth for the things of the Lord, that she may be holy both in
 body and spirit,” (<span id="iv.ii.ix-p162.1"></span>[1 Cor.
-7:34](../../../bib/kjv/co1007.htm#034)<span
+7:34](../../../bib/kjv/co1007.htm#034.md)<span
 id="iv.ii.ix-p162.1"></span>). Therefore when he gives a reason for the
 former precept, he not only says that it is better to marry than to live
 in fornication, but that it is better to marry than to burn.
@@ -1993,7 +1993,7 @@ Marriage contracted in the Lord ought to exhibit measure and modesty—not
 run to the extreme of wantonness. This excess Ambrose censured gravely,
 but not undeservedly, when he described the man who shows no modesty or
 comeliness in conjugal intercourse, as committing adultery with his
-wife.21  <span id="fr_211"></span>[212](#fn_211) Lastly let us consider
+wife.21  <span id="fr_211"></span>[212](#fn_211.md) Lastly let us consider
 who the Lawgiver is that thus condemns fornication: even He who, as he
 is entitled to possess us entirely, requires integrity of body, soul,
 and spirit. Therefore, while he forbids fornication, he at the same time
@@ -2129,13 +2129,13 @@ good name and his estate. The Lord seems to have intended to explain the
 commandment in these words: “Thou shalt not raise a false report: put
 not thine hand with the wicked to be an unrighteous witness.” “Keep thee
 far from a false matter,” (<span id="iv.ii.ix-p173.1"></span>[Exod.
-23:1](../../../bib/kjv/exo023.htm#001),
-[7](../../../bib/kjv/exo023.htm#007)<span id="iv.ii.ix-p173.1"></span>).
+23:1](../../../bib/kjv/exo023.htm#001.md),
+[7](../../../bib/kjv/exo023.htm#007)<span id="iv.ii.ix-p173.1"></span>.md).
 In another passage, he not only prohibits that species of falsehood
 which consists in acting the part of tale-bearers among the people, but
 says, “Neither shalt thou stand against the blood of thy neighbour,”
 (<span id="iv.ii.ix-p173.2"></span>[Lev.
-19:16](../../../bib/kjv/lev019.htm#016)<span
+19:16](../../../bib/kjv/lev019.htm#016.md)<span
 id="iv.ii.ix-p173.2"></span>). Both transgressions are distinctly
 prohibited. Indeed, there can be no doubt, that as in the previous
 commandment he prohibited cruelty unchastity, and avarice, so here he
@@ -2187,7 +2187,7 @@ under an appearance of sportiveness, are bitterly assailed, as some are
 wont to do, who court the praise of wit, though it should call forth a
 blush, or inflict a bitter pang. By petulance of this description, our
 brethren are sometimes grievously wounded.21  <span
-id="fr_212"></span>[213](#fn_212) But if we turn our eye to the
+id="fr_212"></span>[213](#fn_212.md) But if we turn our eye to the
 Lawgiver, whose just authority extends over the ears and the mind, as
 well as the tongue, we cannot fail to perceive that eagerness to listen
 to slander, and an unbecoming proneness to censorious judgments are here
@@ -2220,7 +2220,7 @@ adultery and theft, lust and an intention to injure and deceive are
 prohibited, it may seem superfluous afterwards to employ a separate
 commandment to prohibit a covetous desire of our neighbour’s goods. The
 difficulty will easily be removed by distinguishing between *design* and
-*covetousness*.22  <span id="fr_213"></span>[214](#fn_213) Design, such
+*covetousness*.22  <span id="fr_213"></span>[214](#fn_213.md) Design, such
 as we have spoken of in the previous commandments, is a deliberate
 consent of the will, after passion has taken possession of the mind.
 Covetousness may exist without such deliberation and assent, when the
@@ -2253,7 +2253,7 @@ however minute, of concupiscence. He requires a mind so admirably
 arranged as not to be prompted in the slightest degree contrary to the
 law of love. Lest you should imagine that this view is not supported by
 any grave authority, I may mention that it was first suggested to me by
-Augustine.22  <span id="fr_214"></span>[215](#fn_214) But although it
+Augustine.22  <span id="fr_214"></span>[215](#fn_214.md) But although it
 was the intention of God to prohibit every kind of perverse desire, he,
 by way of example, sets before us those objects which are generally
 regarded as most attractive: thus leaving no room for cupidity of any
@@ -2290,14 +2290,14 @@ him, and to serve the Lord thy God with all thy heart, and with all thy
 soul, to keep the commandments of the Lord and his statutes which I
 command thee this day for thy good?” (<span
 id="iv.ii.ix-p182.1"></span>[Deut.
-10:12](../../../bib/kjv/deu010.htm#012),
-[13](../../../bib/kjv/deu010.htm#013)<span
+10:12](../../../bib/kjv/deu010.htm#012.md),
+[13](../../../bib/kjv/deu010.htm#013.md)<span
 id="iv.ii.ix-p182.1"></span>). And he ceased not to reiterate the same
 thing, whenever he had occasion to mention the end of the Law. To this
 the doctrine of the Law pays so much regard, that it connects man, by
 holiness of life, with his God; and, as Moses elsewhere expresses it
 (<span id="iv.ii.ix-p182.2"></span>[Deut.
-6:5](../../../bib/kjv/deu006.htm#005)<span id="iv.ii.ix-p182.2"></span>;
+6:5](../../../bib/kjv/deu006.htm#005.md)<span id="iv.ii.ix-p182.2"></span>;
 11:13), and makes him cleave to him. Moreover, this holiness of life is
 comprehended under the two heads above mentioned. “Thou shalt love the
 Lord thy God with all thy heart, and with all thy soul, and with all thy
@@ -2307,7 +2307,7 @@ must forthwith flow out toward our neighbour. This the Apostle shows
 when he says, “The end of the commandment is charity out of a pure
 heart, and a good conscience, and of faith unfeigned,” (<span
 id="iv.ii.ix-p182.3"></span>[1 Tim.
-1:5](../../../bib/kjv/ti1001.htm#005)<span
+1:5](../../../bib/kjv/ti1001.htm#005.md)<span
 id="iv.ii.ix-p182.3"></span>). You see that conscience and faith
 unfeigned are placed at the head, in other words, true piety; and that
 from this charity is derived. It is a mistake then to suppose, that
@@ -2339,8 +2339,8 @@ commandments, “Thou shalt do no murder, Thou shalt not commit adultery,
 Thou shalt not steal, Thou shalt not bear false witness, Honour thy
 father and thy mother: and, Thou shalt love thy neighbour as thyself,”
 (<span id="iv.ii.ix-p183.1"></span>[Matt.
-19:16](../../../bib/kjv/mat019.htm#016),
-[18](../../../bib/kjv/mat019.htm#018)<span
+19:16](../../../bib/kjv/mat019.htm#016.md),
+[18](../../../bib/kjv/mat019.htm#018.md)<span
 id="iv.ii.ix-p183.1"></span>). For the obedience of the First Table
 consisted almost entirely either in the internal affection of the heart,
 or in ceremonies. The affection of the heart was not visible, and
@@ -2348,7 +2348,7 @@ hypocrites were diligent in the observance of ceremonies; but the works
 of charity were of such a nature as to be a solid attestation of
 righteousness. The same thing occurs so frequently in the Prophets, that
 it must be familiar to every one who has any tolerable acquaintance with
-them.22  <span id="fr_215"></span>[216](#fn_215) For, almost on every
+them.22  <span id="fr_215"></span>[216](#fn_215.md) For, almost on every
 occasion, when they exhort men to repentance, omitting the First Table,
 they insist on faith, judgment, mercy, and equity. Nor do they, in this
 way, omit the fear of God. They only require a serious proof of it from
@@ -2365,27 +2365,27 @@ matter of course, observes charity in all respects, unless he seriously
 fear God, such observance is a proof of piety also. To this we may add,
 that the Lord, well knowing that none of our good deeds can reach him
 (as the Psalmist declares, <span id="iv.ii.ix-p185.1"></span>[Psalm
-16:2](../../../bib/kjv/psa016.htm#002)<span
+16:2](../../../bib/kjv/psa016.htm#002.md)<span
 id="iv.ii.ix-p185.1"></span>), does not demand from us duties towards
 himself, but exercises us in good works towards our neighbour. Hence the
 Apostle, not without cause, makes the whole perfection of the saints to
 consist in charity (<span id="iv.ii.ix-p185.2"></span>[Eph.
-3:19](../../../bib/kjv/eph003.htm#019)<span
+3:19](../../../bib/kjv/eph003.htm#019.md)<span
 id="iv.ii.ix-p185.2"></span>; <span id="iv.ii.ix-p185.3"></span>[Col.
-3:14](../../../bib/kjv/col003.htm#014)<span
+3:14](../../../bib/kjv/col003.htm#014.md)<span
 id="iv.ii.ix-p185.3"></span>). And in another passage, he not improperly
 calls it the “fulfilling of the law,” adding, that “he that loveth
 another has fulfilled the law,” (<span id="iv.ii.ix-p185.4"></span>[Rom.
-13:8](../../../bib/kjv/rom013.htm#008)<span
+13:8](../../../bib/kjv/rom013.htm#008.md)<span
 id="iv.ii.ix-p185.4"></span>). And again, “All the law is fulfilled in
 this: Thou shalt love thy neighbour as thyself,” (<span
 id="iv.ii.ix-p185.5"></span>[Gal.
-5:14](../../../bib/kjv/gal005.htm#014)<span
+5:14](../../../bib/kjv/gal005.htm#014.md)<span
 id="iv.ii.ix-p185.5"></span>). For this is the very thing which Christ
 himself teaches when he says, “All things whatsoever ye would that men
 should do to you, do ye even so to them: for this is the law and the
 prophets,” (<span id="iv.ii.ix-p185.6"></span>[Mt.
-7:12](../../../bib/kjv/mat007.htm#012)<span
+7:12](../../../bib/kjv/mat007.htm#012.md)<span
 id="iv.ii.ix-p185.6"></span>). It is certain that, in the law and the
 prophets, faith, and whatever pertains to the due worship of God, holds
 the first place, and that to this charity is made subordinate; but our
@@ -2402,7 +2402,7 @@ his own carnal nature. And, indeed, since men are naturally prone to
 excessive self-love, which they always retain, how great soever their
 departure from the truth may be, there was no need of a law to inflame a
 love already existing in excess. Hence it is perfectly plain,22  <span
-id="fr_216"></span>[217](#fn_216) that the observance of the
+id="fr_216"></span>[217](#fn_216.md) that the observance of the
 Commandments consists not in the love of ourselves, but in the love of
 God and our neighbour; and that he leads the best and holiest life who
 as little as may be studies and lives for himself; and that none lives
@@ -2416,7 +2416,7 @@ sophists have stupidly dreamed) assign the first place to self-love, and
 the second to charity. He rather transfers to others the love which we
 naturally feel for ourselves. Hence the Apostle declares, that charity
 “seeketh not her own,” (<span id="iv.ii.ix-p187.1"></span>[1 Cor.
-13:5](../../../bib/kjv/co1013.htm#005)<span
+13:5](../../../bib/kjv/co1013.htm#005.md)<span
 id="iv.ii.ix-p187.1"></span>). Nor is the argument worth a straw, That
 the thing regulated must always be inferior to the rule. The Lord did
 not make self-love the rule, as if love towards others was subordinate
@@ -2427,7 +2427,7 @@ less alacrity, ardour, and solicitude, than to ourselves.
 
 <span id="iv.ii.ix-p188"></span>55. Our Saviour having shown, in the
 parable of the Samaritan (<span id="iv.ii.ix-p188.1"></span>[Luke
-10:36](../../../bib/kjv/luk010.htm#036)<span
+10:36](../../../bib/kjv/luk010.htm#036.md)<span
 id="iv.ii.ix-p188.1"></span>), that the term *neighbour* comprehends the
 most remote stranger, there is no reason for limiting the precept of
 love to our own connections. I deny not that the closer the relation the
@@ -2465,18 +2465,18 @@ love our enemies? What is meant by commanding us to feed our enemy if he
 is hungry, to bring back his ox or his ass if we meet it going astray,
 or help it up if we see it lying under its burden? (<span
 id="iv.ii.ix-p189.1"></span>[Prov.
-25:21](../../../bib/kjv/pro025.htm#021)<span
+25:21](../../../bib/kjv/pro025.htm#021.md)<span
 id="iv.ii.ix-p189.1"></span>; <span id="iv.ii.ix-p189.2"></span>[Exod.
-23:4](../../../bib/kjv/exo023.htm#004)<span
+23:4](../../../bib/kjv/exo023.htm#004.md)<span
 id="iv.ii.ix-p189.2"></span>). Shall we show kindness to cattle for
 man’s sake, and have no feeling of good will to himself? What? Is not
 the word of the Lord eternally true: “Vengeance is mine, I will repay?”
 (<span id="iv.ii.ix-p189.3"></span>[Deut.
-32:35](../../../bib/kjv/deu032.htm#035)<span
+32:35](../../../bib/kjv/deu032.htm#035.md)<span
 id="iv.ii.ix-p189.3"></span>). This is elsewhere more explicitly stated:
 “Thou shalt not avenge, nor bear any grudge against the children of thy
 people,” (<span id="iv.ii.ix-p189.4"></span>[Lev.
-19:18](../../../bib/kjv/lev019.htm#018)<span
+19:18](../../../bib/kjv/lev019.htm#018.md)<span
 id="iv.ii.ix-p189.4"></span>). Let them either erase these passages from
 the Law, or let them acknowledge the Lord as a Lawgiver, not falsely
 feign him to be merely a counsellor.
@@ -2487,12 +2487,12 @@ gloss? “Love yourenemies, bless them that curse you, do good to them
 that hate you, and pray for them which despitefully use you, and
 persecute you; that ye may be the children of your Father which is in
 heaven,” (<span id="iv.ii.ix-p190.1"></span>[Matt.
-5:44](../../../bib/kjv/mat005.htm#044),
-[45](../../../bib/kjv/mat005.htm#045)<span
+5:44](../../../bib/kjv/mat005.htm#044.md),
+[45](../../../bib/kjv/mat005.htm#045.md)<span
 id="iv.ii.ix-p190.1"></span>). Who does not here concur in the reasoning
 of Chrysostom (lib. de Compunctione Cordis, et ad <span
 id="iv.ii.ix-p190.2"></span>[Rom.
-7](../../../bib/kjv/rom007.htm#000)<span id="iv.ii.ix-p190.2"></span>),
+7](../../../bib/kjv/rom007.htm#000)<span id="iv.ii.ix-p190.2"></span>.md),
 that the nature of the motive makes it plain that these are not
 exhortations, but precepts? For what is left to us if we are excluded
 from the number of the children of God? According to the Schoolmen,
@@ -2511,7 +2511,7 @@ Doctr. Christ). Now, these two commandments, “Thou shalt not steal, Thou
 shalt not commit adultery,” Paul brings under the rule of love; nay, he
 says that they are briefly comprehended in this saying, “Thou shalt love
 thy neighbour as thyself,” (<span id="iv.ii.ix-p190.3"></span>[Rom.
-13:9](../../../bib/kjv/rom013.htm#009)<span
+13:9](../../../bib/kjv/rom013.htm#009.md)<span
 id="iv.ii.ix-p190.3"></span>). Therefore, Paul must either be a false
 interpreter of the Law, or we must necessarily conclude, that under this
 precept we are bound to love our enemies just as our friends. Those,
@@ -2537,13 +2537,13 @@ their hearts. This grace Paul has termed, but not in the proper sense of
 the term, a law, alluding to the Law of God, with which he was
 contrasting it. The Schoolmen, laying hold of the term *Law*, make it
 the ground-work of their vain speculations.22  <span
-id="fr_217"></span>[218](#fn_217)
+id="fr_217"></span>[218](#fn_217.md)
 
 <span id="iv.ii.ix-p192"></span>58. The same must be said of their
 application of the term, venial sin, both to the hidden impiety which
 violates the First Table, and the direct transgression of the last
 commandment of the Second Table.22  <span
-id="fr_218"></span>[219](#fn_218) They define venial sin to be, desire
+id="fr_218"></span>[219](#fn_218.md) They define venial sin to be, desire
 unaccompanied with deliberate assent, and not remaining long in the
 heart. But I maintain that it cannot even enter the heart unless through
 a want of those things which are required in the Law. We are forbidden
@@ -2573,7 +2573,7 @@ has been already weighed by the Lord,” (August. De Bapt. cont. Donatist.
 Lib. 2 chap. 6). And what saith the Scripture? Certainly when Paul says,
 that “the wages of sin is death,” (<span
 id="iv.ii.ix-p193.1"></span>[Rom.
-6:23](../../../bib/kjv/rom006.htm#023)<span
+6:23](../../../bib/kjv/rom006.htm#023.md)<span
 id="iv.ii.ix-p193.1"></span>), he shows that he knew nothing of this
 vile distinction. As we are but too prone to hypocrisy, there was very
 little occasion for this sop to soothe our torpid consciences.
@@ -2582,7 +2582,7 @@ little occasion for this sop to soothe our torpid consciences.
 Saviour meant when he said, “Whosoever shall break one of these least
 commandments, and shall teach men so, he shall be called the least in
 the kingdom of heaven,” (<span id="iv.ii.ix-p194.1"></span>[Mt.
-5:19](../../../bib/kjv/mat005.htm#019)<span
+5:19](../../../bib/kjv/mat005.htm#019.md)<span
 id="iv.ii.ix-p194.1"></span>). Are they not of this number when they
 presume to extenuate the transgression of the Law, as if it were
 unworthy of death? The proper course had been to consider not simply
@@ -2596,7 +2596,7 @@ He has declared plainly (if they could be induced to listen to his
 voice, instead of darkening his clear truth by their insipid
 subtleties), “The soul that sinneth it shall die,” (<span
 id="iv.ii.ix-p194.2"></span>[Ezek.
-18:20](../../../bib/kjv/eze018.htm#020)<span
+18:20](../../../bib/kjv/eze018.htm#020.md)<span
 id="iv.ii.ix-p194.2"></span>). Again, in the passage lately quoted, “The
 wages of sin is death.” What these men acknowledge to be sin, because
 they are unable to deny it, they contend is not mortal. Having already
@@ -2613,20 +2613,20 @@ because, through the mercy of God, they obtain pardon.
 
 ### Footnotes
 
-<span id="fn_185"></span>[186](inst042.htm#fr_185) <span
+<span id="fn_185"></span>[186](inst042.htm#fr_185.md) <span
 id="iv.ii.ix-p64.1"></span>
 
 <span id="iv.ii.ix-p65"></span>92 192 This chapter is connected with
 Book 1., chap. 1 and 2, and with Book 2, chap. 1—6. See also Book 2,
 chap. 2 sec. 22.
 
-<span id="fn_186"></span>[187](inst042.htm#fr_186) <span
+<span id="fn_186"></span>[187](inst042.htm#fr_186.md) <span
 id="iv.ii.ix-p69.1"></span>
 
 <span id="iv.ii.ix-p70"></span>93 193 See Calvin, De Vera Ecclesiæ
 Reformandæ Ratione.
 
-<span id="fn_187"></span>[188](inst042.htm#fr_187) <span
+<span id="fn_187"></span>[188](inst042.htm#fr_187.md) <span
 id="iv.ii.ix-p70.3"></span>
 
 <span id="iv.ii.ix-p71"></span>94 194 See Augustin. De Civitate Dei,
@@ -2634,20 +2634,20 @@ Lib. 4 c. 12, and Lib. 12 c. 20, and Lib. 14 c. 12. See also Lib. De
 Bono Conjugali, and Lib. Contra Adversarios Legis et Prophetarum, Lib. 1
 c. 14.
 
-<span id="fn_188"></span>[189](inst042.htm#fr_188) <span
+<span id="fn_188"></span>[189](inst042.htm#fr_188.md) <span
 id="iv.ii.ix-p74.1"></span>
 
 <span id="iv.ii.ix-p75"></span>95 195 “Ne sit nobis Lesbiæ regulæ,”
 omitted in the French.
 
-<span id="fn_189"></span>[190](inst042.htm#fr_189) <span
+<span id="fn_189"></span>[190](inst042.htm#fr_189.md) <span
 id="iv.ii.ix-p78.1"></span>
 
 <span id="iv.ii.ix-p79"></span>96 196 The French is “Tout ainsi comme si
 quelcun vouloit faire une belle monstre d’un corps sans teste;” just as
 if one were to try to make a beautiful monster of a body without a head.
 
-<span id="fn_190"></span>[191](inst042.htm#fr_190) <span
+<span id="fn_190"></span>[191](inst042.htm#fr_190.md) <span
 id="iv.ii.ix-p81.1"></span>
 
 <span id="iv.ii.ix-p82"></span>97 197 Origen in Exod. cap. 20 Homil. 8;
@@ -2656,7 +2656,7 @@ Test. Lib. 2 cap. 74; Epist cxix ad Januarium, cap. 11. The opinion of
 Josephus, and the last-mentioned opinion of Augustine, are briefly
 refuted by Calvin in Exod. cap. 20, in expounding the Fifth Commandment.
 
-<span id="fn_191"></span>[192](inst042.htm#fr_191) <span
+<span id="fn_191"></span>[192](inst042.htm#fr_191.md) <span
 id="iv.ii.ix-p82.1"></span>
 
 <span id="iv.ii.ix-p83"></span>98 198 The French is, “Nous avous aussi
@@ -2665,42 +2665,42 @@ Commentaires imparfaits sur Sainct Matthiue.” We have also another
 ancient Father who agrees with us in our opinion, he who wrote the
 unfinished Commentaries on St Matthew.
 
-<span id="fn_192"></span>[193](inst042.htm#fr_192) <span
+<span id="fn_192"></span>[193](inst042.htm#fr_192.md) <span
 id="iv.ii.ix-p88.1"></span>
 
 <span id="iv.ii.ix-p89"></span>99 199 “Præsenti causæ.”—The French is,
 “du temps que la loi devoit estre publiée;” to the time when the Law was
 to be published.
 
-<span id="fn_193"></span>[194](inst042.htm#fr_193) <span
+<span id="fn_193"></span>[194](inst042.htm#fr_193.md) <span
 id="iv.ii.ix-p89.1"></span>
 
 <span id="iv.ii.ix-p90"></span>00 200 <span
 id="iv.ii.ix-p90.1"></span>[Exod.
-3:6](../../../bib/kjv/exo003.htm#006)<span id="iv.ii.ix-p90.1"></span>;
+3:6](../../../bib/kjv/exo003.htm#006.md)<span id="iv.ii.ix-p90.1"></span>;
 <span id="iv.ii.ix-p90.2"></span>[Amos
-1:2](../../../bib/kjv/amo001.htm#002)<span id="iv.ii.ix-p90.2"></span>;
+1:2](../../../bib/kjv/amo001.htm#002.md)<span id="iv.ii.ix-p90.2"></span>;
 <span id="iv.ii.ix-p90.3"></span>[Hab.
-2:20](../../../bib/kjv/hab002.htm#020)<span id="iv.ii.ix-p90.3"></span>;
+2:20](../../../bib/kjv/hab002.htm#020.md)<span id="iv.ii.ix-p90.3"></span>;
 <span id="iv.ii.ix-p90.4"></span>[Psalm
-80:2](../../../bib/kjv/psa080.htm#002)<span id="iv.ii.ix-p90.4"></span>;
+80:2](../../../bib/kjv/psa080.htm#002.md)<span id="iv.ii.ix-p90.4"></span>;
 99:1; <span id="iv.ii.ix-p90.5"></span>[Isaiah
-37:16](../../../bib/kjv/isa037.htm#016)<span
+37:16](../../../bib/kjv/isa037.htm#016.md)<span
 id="iv.ii.ix-p90.5"></span>.
 
-<span id="fn_194"></span>[195](inst042.htm#fr_194) <span
+<span id="fn_194"></span>[195](inst042.htm#fr_194.md) <span
 id="iv.ii.ix-p90.6"></span>
 
 <span id="iv.ii.ix-p91"></span>01 201 “E faucibus mortis.”—French, “du
 gouffre d’enfer;” from the gulf of hell.
 
-<span id="fn_195"></span>[196](inst042.htm#fr_195) <span
+<span id="fn_195"></span>[196](inst042.htm#fr_195.md) <span
 id="iv.ii.ix-p96.1"></span>
 
 <span id="iv.ii.ix-p97"></span>02 202 Calvin. in Catechismo; De
 Necessitate Reformandæ Ecclesiæ Ratio.
 
-<span id="fn_196"></span>[197](inst042.htm#fr_196) <span
+<span id="fn_196"></span>[197](inst042.htm#fr_196.md) <span
 id="iv.ii.ix-p97.1"></span>
 
 <span id="iv.ii.ix-p98"></span>03 203 The French adds, “Car c’est un
@@ -2708,105 +2708,105 @@ hommage spirituel qui se rend a lui comme souverain Roy, et ayant toute
 superiorité sur nos ames.” For this is a spiritual homage which is
 rendered to him as sovereign King, having full supremacy over our souls.
 
-<span id="fn_197"></span>[198](inst042.htm#fr_197) <span
+<span id="fn_197"></span>[198](inst042.htm#fr_197.md) <span
 id="iv.ii.ix-p106.1"></span>
 
 <span id="iv.ii.ix-p107"></span>04 204 Or “Strong,” this name being
 derived from a word denoting strength.
 
-<span id="fn_198"></span>[199](inst042.htm#fr_198) <span
+<span id="fn_198"></span>[199](inst042.htm#fr_198.md) <span
 id="iv.ii.ix-p109.1"></span>
 
 <span id="iv.ii.ix-p110"></span>05 205 <span
 id="iv.ii.ix-p110.1"></span>[2 Cor.
-11:2](../../../bib/kjv/co2011.htm#002)<span
+11:2](../../../bib/kjv/co2011.htm#002.md)<span
 id="iv.ii.ix-p110.1"></span>; <span id="iv.ii.ix-p110.2"></span>[Eph.
-5:30](../../../bib/kjv/eph005.htm#030)<span
+5:30](../../../bib/kjv/eph005.htm#030.md)<span
 id="iv.ii.ix-p110.2"></span>; <span id="iv.ii.ix-p110.3"></span>Jer.
 62:5<span id="iv.ii.ix-p110.3"></span>; <span
 id="iv.ii.ix-p110.4"></span>[Hos.
-2:9](../../../bib/kjv/hos002.htm#009)<span id="iv.ii.ix-p110.4"></span>;
+2:9](../../../bib/kjv/hos002.htm#009.md)<span id="iv.ii.ix-p110.4"></span>;
 <span id="iv.ii.ix-p110.5"></span>[Jer.
-3:1](../../../bib/kjv/jer003.htm#001),
-[2](../../../bib/kjv/jer003.htm#002)<span id="iv.ii.ix-p110.5"></span>;
+3:1](../../../bib/kjv/jer003.htm#001.md),
+[2](../../../bib/kjv/jer003.htm#002.md)<span id="iv.ii.ix-p110.5"></span>;
 <span id="iv.ii.ix-p110.6"></span>[Hos.
-2:2](../../../bib/kjv/hos002.htm#002)<span id="iv.ii.ix-p110.6"></span>.
+2:2](../../../bib/kjv/hos002.htm#002.md)<span id="iv.ii.ix-p110.6"></span>.
 
-<span id="fn_199"></span>[200](inst042.htm#fr_199) <span
+<span id="fn_199"></span>[200](inst042.htm#fr_199.md) <span
 id="iv.ii.ix-p119.4"></span>
 
 <span id="iv.ii.ix-p120"></span>06 206 <span
 id="iv.ii.ix-p120.1"></span>[1 Sam.
-14:44](../../../bib/kjv/sa1014.htm#044)<span
+14:44](../../../bib/kjv/sa1014.htm#044.md)<span
 id="iv.ii.ix-p120.1"></span>; <span id="iv.ii.ix-p120.2"></span>[2 Kings
-5:31](../../../bib/kjv/kg2005.htm#031)<span
+5:31](../../../bib/kjv/kg2005.htm#031.md)<span
 id="iv.ii.ix-p120.2"></span>; <span id="iv.ii.ix-p120.3"></span>[2 Cor.
-1:23](../../../bib/kjv/co2001.htm#023)<span
+1:23](../../../bib/kjv/co2001.htm#023.md)<span
 id="iv.ii.ix-p120.3"></span>.
 
-<span id="fn_200"></span>[201](inst042.htm#fr_200) <span
+<span id="fn_200"></span>[201](inst042.htm#fr_200.md) <span
 id="iv.ii.ix-p121.1"></span>
 
 <span id="iv.ii.ix-p122"></span>07 207 The French adds, “jurans par S.
 Jaques ou S. Antoine;”—swearing by St James or St Anthony.
 
-<span id="fn_201"></span>[202](inst042.htm#fr_201) <span
+<span id="fn_201"></span>[202](inst042.htm#fr_201.md) <span
 id="iv.ii.ix-p122.1"></span>
 
 <span id="iv.ii.ix-p123"></span>08 208 <span
 id="iv.ii.ix-p123.1"></span>[Exod.
-23:13](../../../bib/kjv/exo023.htm#013)<span
+23:13](../../../bib/kjv/exo023.htm#013.md)<span
 id="iv.ii.ix-p123.1"></span>; <span id="iv.ii.ix-p123.2"></span>[Deut.
-6:13](../../../bib/kjv/deu006.htm#013)<span
+6:13](../../../bib/kjv/deu006.htm#013.md)<span
 id="iv.ii.ix-p123.2"></span>; 10:20; <span
 id="iv.ii.ix-p123.3"></span>[Heb.
-6:13](../../../bib/kjv/heb006.htm#013)<span
+6:13](../../../bib/kjv/heb006.htm#013.md)<span
 id="iv.ii.ix-p123.3"></span>.
 
-<span id="fn_202"></span>[203](inst042.htm#fr_202) <span
+<span id="fn_202"></span>[203](inst042.htm#fr_202.md) <span
 id="iv.ii.ix-p125.4"></span>
 
 <span id="iv.ii.ix-p126"></span>09 209 <span
 id="iv.ii.ix-p126.1"></span>[Gen.
-21:24](../../../bib/kjv/gen021.htm#024)<span
+21:24](../../../bib/kjv/gen021.htm#024.md)<span
 id="iv.ii.ix-p126.1"></span>; 26:31; 31:53; <span
 id="iv.ii.ix-p126.2"></span>[Ruth
-3:13](../../../bib/kjv/rut003.htm#013)<span
+3:13](../../../bib/kjv/rut003.htm#013.md)<span
 id="iv.ii.ix-p126.2"></span>; <span id="iv.ii.ix-p126.3"></span>[1 Kings
-18:10](../../../bib/kjv/kg1018.htm#010)<span
+18:10](../../../bib/kjv/kg1018.htm#010.md)<span
 id="iv.ii.ix-p126.3"></span>.
 
-<span id="fn_203"></span>[204](inst042.htm#fr_203) <span
+<span id="fn_203"></span>[204](inst042.htm#fr_203.md) <span
 id="iv.ii.ix-p131.1"></span>
 
 <span id="iv.ii.ix-p132"></span>10 210 <span
 id="iv.ii.ix-p132.1"></span>[Num.
-13:22](../../../bib/kjv/num013.htm#022)<span
+13:22](../../../bib/kjv/num013.htm#022.md)<span
 id="iv.ii.ix-p132.1"></span>; <span id="iv.ii.ix-p132.2"></span>[Ezek.
-20:12](../../../bib/kjv/eze020.htm#012)<span
+20:12](../../../bib/kjv/eze020.htm#012.md)<span
 id="iv.ii.ix-p132.2"></span>; 22:8; 23:38; <span
 id="iv.ii.ix-p132.3"></span>[Jer.
-27:21](../../../bib/kjv/jer027.htm#021),
-[22](../../../bib/kjv/jer027.htm#022),
-[27](../../../bib/kjv/jer027.htm#027)<span id="iv.ii.ix-p132.3"></span>;
+27:21](../../../bib/kjv/jer027.htm#021.md),
+[22](../../../bib/kjv/jer027.htm#022.md),
+[27](../../../bib/kjv/jer027.htm#027.md)<span id="iv.ii.ix-p132.3"></span>;
 Isiah 55:2; <span id="iv.ii.ix-p132.4"></span>[Neh.
-9:14](../../../bib/kjv/neh009.htm#014)<span
+9:14](../../../bib/kjv/neh009.htm#014.md)<span
 id="iv.ii.ix-p132.4"></span>.
 
-<span id="fn_204"></span>[205](inst042.htm#fr_204) <span
+<span id="fn_204"></span>[205](inst042.htm#fr_204.md) <span
 id="iv.ii.ix-p136.4"></span>
 
 <span id="iv.ii.ix-p137"></span>11 211 N“Finem istum politicum et
 ecclesiasticum ordinem.”P—French, “la police et ordre en l’Eglise;”
 policy and order in the Church.
 
-<span id="fn_205"></span>[206](inst042.htm#fr_205) <span
+<span id="fn_205"></span>[206](inst042.htm#fr_205.md) <span
 id="iv.ii.ix-p138.1"></span>
 
 <span id="iv.ii.ix-p139"></span>12 212 As to this liberty, See Socrates,
 Hist. Trip. Lib. 9 c. 38.
 
-<span id="fn_206"></span>[207](inst042.htm#fr_206) <span
+<span id="fn_206"></span>[207](inst042.htm#fr_206.md) <span
 id="iv.ii.ix-p139.1"></span>
 
 <span id="iv.ii.ix-p140"></span>13 213 French, “ne discernans entre le
@@ -2816,50 +2816,50 @@ un;”—making no other distinction between the Sunday and the Sabbath,
 save that the seventh day, which was kept till then, was abrogated, but
 that it was nevertheless necessary to keep some one day.
 
-<span id="fn_207"></span>[208](inst042.htm#fr_207) <span
+<span id="fn_207"></span>[208](inst042.htm#fr_207.md) <span
 id="iv.ii.ix-p140.2"></span>
 
 <span id="iv.ii.ix-p141"></span>14 214 French, “leur conviendroyent
 mieux;”—whould be more applicable to them.
 
-<span id="fn_208"></span>[209](inst042.htm#fr_208) <span
+<span id="fn_208"></span>[209](inst042.htm#fr_208.md) <span
 id="iv.ii.ix-p146.2"></span>
 
 <span id="iv.ii.ix-p147"></span>15 215 <span
 id="iv.ii.ix-p147.1"></span>[Exod.
-21:17](../../../bib/kjv/exo021.htm#017)<span
+21:17](../../../bib/kjv/exo021.htm#017.md)<span
 id="iv.ii.ix-p147.1"></span>; <span id="iv.ii.ix-p147.2"></span>[Lev.
-20:9](../../../bib/kjv/lev020.htm#009)<span
+20:9](../../../bib/kjv/lev020.htm#009.md)<span
 id="iv.ii.ix-p147.2"></span>; <span id="iv.ii.ix-p147.3"></span>[Prov.
-20:20](../../../bib/kjv/pro020.htm#020)<span
+20:20](../../../bib/kjv/pro020.htm#020.md)<span
 id="iv.ii.ix-p147.3"></span>; <span id="iv.ii.ix-p147.4"></span>[Deut.
-21:18](../../../bib/kjv/deu021.htm#018)<span
+21:18](../../../bib/kjv/deu021.htm#018.md)<span
 id="iv.ii.ix-p147.4"></span>; <span id="iv.ii.ix-p147.5"></span>[Mt.
-25:4](../../../bib/kjv/mat025.htm#004)<span
+25:4](../../../bib/kjv/mat025.htm#004.md)<span
 id="iv.ii.ix-p147.5"></span>; <span id="iv.ii.ix-p147.6"></span>[Eph.
-6:1](../../../bib/kjv/eph006.htm#001)<span id="iv.ii.ix-p147.6"></span>;
+6:1](../../../bib/kjv/eph006.htm#001.md)<span id="iv.ii.ix-p147.6"></span>;
 Colloss. 3:20.
 
-<span id="fn_209"></span>[210](inst042.htm#fr_209) <span
+<span id="fn_209"></span>[210](inst042.htm#fr_209.md) <span
 id="iv.ii.ix-p149.1"></span>
 
 <span id="iv.ii.ix-p150"></span>16 216 The French adds, “et la doit
 plustost augmenter, qu’amoindrir confirmer que viloer;”—and ought to
 augment rather than diminish, to confirm rather than violate it.
 
-<span id="fn_210"></span>[211](inst042.htm#fr_210) <span
+<span id="fn_210"></span>[211](inst042.htm#fr_210.md) <span
 id="iv.ii.ix-p155.1"></span>
 
 <span id="iv.ii.ix-p156"></span>17 217 Book 3, Chap. 7 sec 4—7; Chap. 20
 sec. 38, 45; Book 4 Chap. 1 sec 13—19; Chap. 17 sec. 38, 40.
 
-<span id="fn_211"></span>[212](inst042.htm#fr_211) <span
+<span id="fn_211"></span>[212](inst042.htm#fr_211.md) <span
 id="iv.ii.ix-p163.1"></span>
 
 <span id="iv.ii.ix-p164"></span>18 218 See Ambros. Lib. de Philosoph.,
 quoted by Augustine in his book, Contra Julian, Lib. 2.
 
-<span id="fn_212"></span>[213](inst042.htm#fr_212) <span
+<span id="fn_212"></span>[213](inst042.htm#fr_212.md) <span
 id="iv.ii.ix-p174.1"></span>
 
 <span id="iv.ii.ix-p175"></span>19 219 The French is “D’avantage ce
@@ -2874,57 +2874,57 @@ of others, as some persons do, who are delighted when they can make
 another blush: by such intemperance a stigma is often fastened on the
 individual thus attacked.
 
-<span id="fn_213"></span>[214](inst042.htm#fr_213) <span
+<span id="fn_213"></span>[214](inst042.htm#fr_213.md) <span
 id="iv.ii.ix-p177.1"></span>
 
 <span id="iv.ii.ix-p178"></span>20 220 See supra, chap. 2, end of sec.
 24; and Book 3 chap 3 sec. 11, 12, 13; and Book 4 chap. 15 sec. 11, 12.
 
-<span id="fn_214"></span>[215](inst042.htm#fr_214) <span
+<span id="fn_214"></span>[215](inst042.htm#fr_214.md) <span
 id="iv.ii.ix-p179.1"></span>
 
 <span id="iv.ii.ix-p180"></span>21 221 See August. <span
 id="iv.ii.ix-p180.1"></span>Ep. 200<span id="iv.ii.ix-p180.1"></span>,
 ad Asellicum, et Quæstio, Lib. 88, sub fin. Quæst. 66; but especially
 Conscio. 8, in <span id="iv.ii.ix-p180.2"></span>[Ps.
-118](../../../bib/kjv/psa118.htm#000)<span id="iv.ii.ix-p180.2"></span>.
+118](../../../bib/kjv/psa118.htm#000.md)<span id="iv.ii.ix-p180.2"></span>.
 The subject is also touched on in <span id="iv.ii.ix-p180.3"></span>[Ps.
-142](../../../bib/kjv/psa142.htm#000)<span id="iv.ii.ix-p180.3"></span>
+142](../../../bib/kjv/psa142.htm#000.md)<span id="iv.ii.ix-p180.3"></span>
 and De Temp. Serm. 45, and Retract. Lib. 1 cap. 5, and De Continentia,
 cap. 8.
 
-<span id="fn_215"></span>[216](inst042.htm#fr_215) <span
+<span id="fn_215"></span>[216](inst042.htm#fr_215.md) <span
 id="iv.ii.ix-p183.2"></span>
 
 <span id="iv.ii.ix-p184"></span>22 222 <span
 id="iv.ii.ix-p184.1"></span>[Is.
-1:17](../../../bib/kjv/isa001.htm#017)<span
+1:17](../../../bib/kjv/isa001.htm#017.md)<span
 id="iv.ii.ix-p184.1"></span>; 57:6; <span
-id="iv.ii.ix-p184.2"></span>[Jer. 7:5](../../../bib/kjv/jer007.htm#005),
-[6](../../../bib/kjv/jer007.htm#006)<span id="iv.ii.ix-p184.2"></span>;
+id="iv.ii.ix-p184.2"></span>[Jer. 7:5](../../../bib/kjv/jer007.htm#005.md),
+[6](../../../bib/kjv/jer007.htm#006.md)<span id="iv.ii.ix-p184.2"></span>;
 <span id="iv.ii.ix-p184.3"></span>[Ezek.
-18:7](../../../bib/kjv/eze018.htm#007),
-[8](../../../bib/kjv/eze018.htm#008)<span id="iv.ii.ix-p184.3"></span>;
+18:7](../../../bib/kjv/eze018.htm#007.md),
+[8](../../../bib/kjv/eze018.htm#008.md)<span id="iv.ii.ix-p184.3"></span>;
 <span id="iv.ii.ix-p184.4"></span>[Hosea
-6:6](../../../bib/kjv/hos006.htm#006)<span id="iv.ii.ix-p184.4"></span>;
+6:6](../../../bib/kjv/hos006.htm#006.md)<span id="iv.ii.ix-p184.4"></span>;
 <span id="iv.ii.ix-p184.5"></span>[Zech.
-7:9](../../../bib/kjv/zac007.htm#009),
-[10](../../../bib/kjv/zac007.htm#010)<span id="iv.ii.ix-p184.5"></span>.
+7:9](../../../bib/kjv/zac007.htm#009.md),
+[10](../../../bib/kjv/zac007.htm#010.md)<span id="iv.ii.ix-p184.5"></span>.
 
-<span id="fn_216"></span>[217](inst042.htm#fr_216) <span
+<span id="fn_216"></span>[217](inst042.htm#fr_216.md) <span
 id="iv.ii.ix-p186.1"></span>
 
 <span id="iv.ii.ix-p187"></span>23 223 See Book 3 chap. 7 sec. 4. Also
 August. de Doctrina Christiana, Lib. 1 chap. 23 et seq.
 
-<span id="fn_217"></span>[218](inst042.htm#fr_217) <span
+<span id="fn_217"></span>[218](inst042.htm#fr_217.md) <span
 id="iv.ii.ix-p190.4"></span>
 
 <span id="iv.ii.ix-p191"></span>24 224 The French is “Ces folastres sans
 propos prennent un grand mystére en ce mot de Loy;” these foolish
 fellows absurdly find a great mystery in this term Law.
 
-<span id="fn_218"></span>[219](inst042.htm#fr_218) <span
+<span id="fn_218"></span>[219](inst042.htm#fr_218.md) <span
 id="iv.ii.ix-p192.1"></span>
 
 <span id="iv.ii.ix-p193"></span>25 225 See Book 3 chap. 4 sec. 28, where
@@ -2934,4 +2934,4 @@ are equal.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 9. - CHRIST, THOUGH KNOWN TO THE JEWS UNDER THE LAW, YET
-ONLY MANIFESTED UNDER THE GOSPEL.](inst043)
+ONLY MANIFESTED UNDER THE GOSPEL.](inst043.md)

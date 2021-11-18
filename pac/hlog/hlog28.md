@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog27)  [Next](hlog29) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog27)  [Next](hlog29.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ sacrifices, chanting incantations.
 
 ------------------------------------------------------------------------
 
-[Next: The Home of The Ancestors](hlog29)
+[Next: The Home of The Ancestors](hlog29.md)

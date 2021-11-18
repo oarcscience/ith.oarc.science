@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes21)  [Next](nes23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes21)  [Next](nes23.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N the ballad of 'The Battle of Harlaw,' the burgh of Aberdeen is styled
 "brave":--
@@ -261,4 +261,4 @@ estate in 1753.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. Animal and Plant Superstitions.](nes23)
+[Next: Chapter XX. Animal and Plant Superstitions.](nes23.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Wicca and
-Paganism](../index)  [Index](index)  [Previous](kjd04)  [Next](kjd06) 
+[Intangible Textual Heritage](../../index.md)  [Wicca and
+Paganism](../index)  [Index](index)  [Previous](kjd04)  [Next](kjd06.md) 
 
 ------------------------------------------------------------------------
 
@@ -814,4 +814,4 @@ permit at sometimes spirits visiblie to kyith.
 
 ------------------------------------------------------------------------
 
-[Next: Dæmonologie: The Thirde Booke](kjd06)
+[Next: Dæmonologie: The Thirde Booke](kjd06.md)

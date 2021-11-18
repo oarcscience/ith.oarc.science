@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar216) [Next](gbar218)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar216) [Next](gbar218.md)
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ ointments.
 
 ------------------------------------------------------------------------
 
-[Next](gbar218)
+[Next](gbar218.md)

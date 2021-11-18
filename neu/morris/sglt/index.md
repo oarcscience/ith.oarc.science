@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@ Sagas](../../index)  [William Morris](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sglt00)    [Text
-\[Zipped\]](sglt.txt.gz)
+[Contents](#contents)    [Start Reading](sglt00.md)    [Text
+\[Zipped\]](sglt.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -37,33 +37,33 @@ known as the Land of the Living Men, inhabitants of which are immortal.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sglt00)  
-[Contents](sglt01)  
-[Chapter I. Of Those Three Who Came to the House of the Raven](sglt02)  
-[Chapter II. Evil Tidings Come to Hand at Cleveland](sglt03)  
-[Chapter III. The Warriors of the Raven Search the Seas](sglt04)  
-[Chapter IV. Now Hallblithe Taketh the Sea](sglt05)  
-[Chapter V. They Come unto the Isle of Ransom](sglt06)  
-[Chapter VI. Of A Dwelling of Man on the Isle of Ransom](sglt07)  
-[Chapter VII. A Feast in the Isle of Ransom](sglt08)  
+<span id="contents"></span> [Title Page](sglt00.md)  
+[Contents](sglt01.md)  
+[Chapter I. Of Those Three Who Came to the House of the Raven](sglt02.md)  
+[Chapter II. Evil Tidings Come to Hand at Cleveland](sglt03.md)  
+[Chapter III. The Warriors of the Raven Search the Seas](sglt04.md)  
+[Chapter IV. Now Hallblithe Taketh the Sea](sglt05.md)  
+[Chapter V. They Come unto the Isle of Ransom](sglt06.md)  
+[Chapter VI. Of A Dwelling of Man on the Isle of Ransom](sglt07.md)  
+[Chapter VII. A Feast in the Isle of Ransom](sglt08.md)  
 [Chapter VIII. Hallblithe Taketh Ship Again Away from the Isle of
-Ransom](sglt09)  
-[Chapter IX. They Come to the Land of the Glittering Plain](sglt10)  
+Ransom](sglt09.md)  
+[Chapter IX. They Come to the Land of the Glittering Plain](sglt10.md)  
 [Chapter X. They Hold Converse with Folk of the Glittering
-Plain](sglt11)  
-[Chapter XI. The Sea-Eagle Reneweth His Life](sglt12)  
-[Chapter XII. They Look on the King of the Glittering Plain](sglt13)  
-[Chapter XIII. Hallblithe Beholdeth the Woman who Loveth Him](sglt14)  
-[Chapter XIV. Hallblithe has Speech with the King Again](sglt15)  
-[Chapter XV. Yet Hallblithe Speaketh with the King](sglt16)  
+Plain](sglt11.md)  
+[Chapter XI. The Sea-Eagle Reneweth His Life](sglt12.md)  
+[Chapter XII. They Look on the King of the Glittering Plain](sglt13.md)  
+[Chapter XIII. Hallblithe Beholdeth the Woman who Loveth Him](sglt14.md)  
+[Chapter XIV. Hallblithe has Speech with the King Again](sglt15.md)  
+[Chapter XV. Yet Hallblithe Speaketh with the King](sglt16.md)  
 [Chapter XVI. Those Three Go Their Ways to the Edge of the Glittering
-Plain](sglt17)  
-[Chapter XVII. Hallblithe Amongst the Mountains](sglt18)  
-[Chapter XVIII. Hallblithe Dwelleth in the Wood Alone](sglt19)  
-[Chapter XIX. Hallblithe Builds Him A Skiff](sglt20)  
+Plain](sglt17.md)  
+[Chapter XVII. Hallblithe Amongst the Mountains](sglt18.md)  
+[Chapter XVIII. Hallblithe Dwelleth in the Wood Alone](sglt19.md)  
+[Chapter XIX. Hallblithe Builds Him A Skiff](sglt20.md)  
 [Chapter XX. So Now Saileth Hallblithe Away From the Glittering
-Plain](sglt21)  
+Plain](sglt21.md)  
 [Chapter XXI. Of the Fight of the Champions in the Hall of the
-Ravagers](sglt22)  
+Ravagers](sglt22.md)  
 [Chapter XXII. They go from the Isle of Ransom and Come to Cleveland by
-the Sea](sglt23)  
+the Sea](sglt23.md)  

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico031) 
-[Next](nico033) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico031.md) 
+[Next](nico033.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ parts.
 ------------------------------------------------------------------------
 
 [Next: Chapter 11. Characteristics of temperance and its opposites,
-self-indulgence and 'insensibility'](nico033)
+self-indulgence and 'insensibility'](nico033.md)

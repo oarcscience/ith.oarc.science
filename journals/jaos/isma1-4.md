@@ -1,7 +1,7 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Ismâ’ili
-materials](../../isl/isma/index)  
-[Previous](isma1-3) [Next](isma2)
+Heritage](../../index) [Journals](../index.md) [Ismâ’ili
+materials](../../isl/isma/index.md)  
+[Previous](isma1-3) [Next](isma2.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ materials](../../isl/isma/index)
    In the name of God, the Merciful, the Compassionate. Praise be to
 God, who confirms every thing by his unity; to the glory of whose
 reverence every thing bows; who embraces by science the thing in every
-thing;<span id="page_299_fr_dagger"></span>[†](#page_299_note_dagger)
+thing;<span id="page_299_fr_dagger"></span>[†](#page_299_note_dagger.md)
 who is, and before whom was not anything; and who created out of nothing
 things created; and the glory of whose dominion nothing resembles, so
 that not any thing is too much for him if he wills it; and who is the
@@ -28,26 +28,26 @@ essence there is no reaching for any perception, or any conjecture; who
 is the Hidden of the hidden, and the Mystery of mystery; from whose
 unity emanated a sole Amr. And to it was given for a covering the <span
 id="page_300">p. 300</span> *Kâf* and the *Nûn*,<span
-id="page_300_fr_*"></span>[\*](#page_300_note_*) comprehending that
+id="page_300_fr_*"></span>[\*](#page_300_note_*.md) comprehending that
 which was, and that which is, and that which is to be. So then, that is
 his Word, and his effusion, and his out-pouring, and his science, and
 the cause of that which is produced by him, and his perfection, and the
 medium of his producing, and the means of his creating, and the
 manifester of his declaring,<span
-id="page_300_fr_dagger"></span>[†](#page_300_note_dagger) and the
+id="page_300_fr_dagger"></span>[†](#page_300_note_dagger.md) and the
 exhibiter of his superior power, and a hiyûly<span
-id="page_300_fr_ddagger"></span>[‡](#page_300_note_ddagger) to his
+id="page_300_fr_ddagger"></span>[‡](#page_300_note_ddagger.md) to his
 command, and a form to his volition, like as the Irâdeh is a hiyûly to
 his Amr, and a form to his Meshiyeh;<span
-id="page_300_fr_sect"></span>[§](#page_300_note_sect) and as will is a
+id="page_300_fr_sect"></span>[§](#page_300_note_sect.md) and as will is a
 hiyûly to volition, and a form to the intellect.
 
    And so emanates from his sole Amr the first producer, the Sâbiḳ,<span
-id="page_300_fr_dvert"></span>[‖](#page_300_note_dvert) the most perfect
+id="page_300_fr_dvert"></span>[‖](#page_300_note_dvert.md) the most perfect
 receiver, the simple substance, the apprehender, the comprehender, the
 suited to the appropriation of perfection, the creator by no
 reinforcement,<span
-id="page_300_fr_para"></span>[¶](#page_300_note_para) and the
+id="page_300_fr_para"></span>[¶](#page_300_note_para.md) and the
 correspondent of the Eternal One, and the Noble Root, the Primitive
 Light, and the Universal Intelligence, the improver of things existing,
 the shedder forth of things created, the producer of things produced,
@@ -57,13 +57,13 @@ and his reinforcement pertaining to things caused, the made one with the
 Word, the sharer in the divine majesty, the prior by essence and rank,
 the exempt from finiteness and defect, the place of the act of creation,
 and the seat of the act of production, the shedder forth upon the
-Tâly<span id="page_300_fr_**"></span>[\*\*](#page_300_note_**) as to
+Tâly<span id="page_300_fr_**"></span>[\*\*](#page_300_note_**.md) as to
 that which it receives of the out-pouring of the Highest, the lofty, the
 form of forms, the originator of creatures, the governor of ranks, the
 performer of wonders, and the manifester of extraordinaries, the
 complete as to excellencies, the finisher of the first <span
 id="page_301">p. 301</span> five,<span
-id="page_301_fr_*"></span>[\*](#page_301_note_*) the uniter of things
+id="page_301_fr_*"></span>[\*](#page_301_note_*.md) the uniter of things
 allied, the separater of things which differ. So then, it is the first
 of substances, and the second of manifesters, the necessary by its
 Cause, the competent by its divinity, the living, the emulous in
@@ -73,7 +73,7 @@ perfecter, the lover, the beloved for its essence, the exerciser of
 justice, the joyous with its delights, the qualified with the most
 perfect of attributes, the designated by the most excellent of epithets,
 which is set forth in the attributes and the names,<span
-id="page_301_fr_dagger"></span>[†](#page_301_note_dagger) and which is
+id="page_301_fr_dagger"></span>[†](#page_301_note_dagger.md) and which is
 named Fate. So then, it is the fortune of fortunes, and the pen of that
 which is written, and the hiyûly of every hiyûly, and the place of
 science, and the supreme and primitive nature, which receives effusion
@@ -81,10 +81,10 @@ from its Cause, and is let out, and so becomes the shedder forth of the
 lights of his Word, and takes its stand with his taking his stand, and
 abides with his abiding, by virtue of a continual effusion of
 reinforcements,<span
-id="page_301_fr_ddagger"></span>[‡](#page_301_note_ddagger) from
+id="page_301_fr_ddagger"></span>[‡](#page_301_note_ddagger.md) from
 eternity to eternity, endless, without measure, and incomputable. And
 its receiving that which is not an end<span
-id="page_301_fr_sect"></span>[§](#page_301_note_sect) postulates that it
+id="page_301_fr_sect"></span>[§](#page_301_note_sect.md) postulates that it
 is a receiver in order to spreading, in order that the acted upon may be
 converted into an actor, and that the Intelligence, and that which is
 objective to the Intelligence, may become an intelligent being, and that
@@ -107,12 +107,12 @@ the measurements of things which have parts, and a medium between the
 first and the last, and the inward and the outward, the place of coming
 out of that which is potential to the open field of actuality, the
 sojourning-place of lights, the excellencies of science and
-justice,<span id="page_302_fr_*"></span>[\*](#page_302_note_*) a power
+justice,<span id="page_302_fr_*"></span>[\*](#page_302_note_*.md) a power
 able to manifest sciences in that which is caused, a receiver of the
 impress of its Cause, an actor, making its impresses upon that which is
 caused, pervading through all existence, reinforcing, by effusion and
 aiding, the rest of the Enclosures,<span
-id="page_302_fr_dagger"></span>[†](#page_302_note_dagger) which
+id="page_302_fr_dagger"></span>[†](#page_302_note_dagger.md) which
 manifests things subtile, and forms things gross, and disperses through
 the world its forces, and manifests its ideas in every genus and species
 and person.
@@ -123,14 +123,14 @@ out that which it receives of the impress of its Cause, and through the
 medium of which it perpetuates the perfection of its excellence, and
 which, by the force of receptivity, and the perfection of preparation
 for forms, it causes to become the distant three.<span
-id="page_302_fr_ddagger"></span>[‡](#page_302_note_ddagger) For,
+id="page_302_fr_ddagger"></span>[‡](#page_302_note_ddagger.md) For,
 pervading nature and coursing forms are manifested in things whole and
 things of parts, and things high and things low; and the Hiyûly thereby
 becomes an absolute body, and the force of the soul is attached to it
 with attachment, and so are parted off from it the higher envelopes, and
 made out of it the lower bodies; while attractive, propensive force
 manifests motion of volition.<span
-id="page_302_fr_sect"></span>[§](#page_302_note_sect)
+id="page_302_fr_sect"></span>[§](#page_302_note_sect.md)
 
 <span id="page_303">p. 303</span>
 
@@ -142,10 +142,10 @@ regions, the uniter of things simple and things composite, a cause of
 place, an actualizer of time, which is enthroned in the evenness of the
 Merciful, and the place of the loftiness of the envelopes, the basis of
 the regulator of the day, the compriser of every cause and every
-effect.<span id="page_303_fr_*"></span>[\*](#page_303_note_*)
+effect.<span id="page_303_fr_*"></span>[\*](#page_303_note_*.md)
 
    Afterwards, is let out the Stellar Sphere,<span
-id="page_303_fr_dagger"></span>[†](#page_303_note_dagger) with the fixed
+id="page_303_fr_dagger"></span>[†](#page_303_note_dagger.md) with the fixed
 stars, the seat of power, which compasses the earth and the heavens,
 which is the standing-place of forms, and the lunar mansions, and the
 zodiacal signs, which is denominated the heaven of the degrees of the
@@ -166,7 +166,7 @@ the aider of the masters of the luminous and the enlightening, namely
 the Lights, the shedder forth, whose beauty gives light, the powerful in
 the house of the King of the invisible realm of heaven, the ordainer of
 kings and rulers, the manifester of nights and days, the cause of
-articles<span id="page_304_fr_*"></span>[\*](#page_304_note_*) by his
+articles<span id="page_304_fr_*"></span>[\*](#page_304_note_*.md) by his
 movements, and the regulator of fundamentals by his reposings, who puts
 in motion the great enlightener, the most potent master of revolution.
 
@@ -193,7 +193,7 @@ powers, the befriender as to supplies, the clother, who takes in hand
 the concerns of common men.
 
    And after the seven homogeneous palaces,<span
-id="page_304_fr_dagger"></span>[†](#page_304_note_dagger) come other
+id="page_304_fr_dagger"></span>[†](#page_304_note_dagger.md) come other
 seven heterogeneous, which are the four Corner-stones, and their
 intermediates, the circumscribing three.
 
@@ -216,7 +216,7 @@ living is constituted, the manifest by the ocean, the filled with
 substance, the pourer, the profuse.
 
    The fourth is the Globe of gross Earth, the centre of every subtile
-circumambient,<span id="page_306_fr_*"></span>[\*](#page_306_note_*) the
+circumambient,<span id="page_306_fr_*"></span>[\*](#page_306_note_*.md) the
 guardian of dryness in composites, the binder of separating parts.
 
    The first two are light, and the last two, heavy; and as for each two
@@ -229,26 +229,26 @@ three generators appear, and the males are filled with the females, the
 first of things generated is Minerals, which are compounded of the
 Corner-stones, of which the lowest is sand, and the highest, small
 pearls; and as for the second, it is Plants, of which the lowest is the
-*kushût*,<span id="page_306_fr_dagger"></span>[†](#page_306_note_dagger)
+*kushût*,<span id="page_306_fr_dagger"></span>[†](#page_306_note_dagger.md)
 and the highest, the tall palm; and the third is Animals, of which the
 lowest is the intestinal worm, and the highest, man.
 
    So then, these are conjoined substances, and a material not
 dissevered,<span
-id="page_306_fr_ddagger"></span>[‡](#page_306_note_ddagger) spreading
+id="page_306_fr_ddagger"></span>[‡](#page_306_note_ddagger.md) spreading
 itself from the apogee of the Holy One to the perigee of genus, coursing
 through the worlds, appearing in things which rise to view, and hiding
 itself in things obscured. In twenty-eight places of manifestation is
 the Perfect in number, which are three groups of seven,<span
-id="page_306_fr_sect"></span>[§](#page_306_note_sect) successive as to
+id="page_306_fr_sect"></span>[§](#page_306_note_sect.md) successive as to
 effusion, and the reinforcements <span id="page_307">p. 307</span> in
 which the light of the Divine Word spreads itself of which the form is
 perfectness, and the ideas are consummate.<span
-id="page_307_fr_*"></span>[\*](#page_307_note_*) And so it appears, in
+id="page_307_fr_*"></span>[\*](#page_307_note_*.md) And so it appears, in
 every place of manifesttion, in the most elevated of Impersonations; and
 them it causes to acknowledge the way of return and deliverance, and
 instructs in the ideas of mystery and witness,<span
-id="page_307_fr_dagger"></span>[†](#page_307_note_dagger) and commands
+id="page_307_fr_dagger"></span>[†](#page_307_note_dagger.md) and commands
 to obey and worship, and forbids to pass limits. Blessed, then, be that
 which separates and unites, and which is conversant with that which is
 made! And let gratitude be to our friends, and praise to our superiors,
@@ -259,13 +259,13 @@ apprehends every idea.
 
    These things, O my seignors and my brethren, are the verity of my
 knowledge, and the philosophy of my essence and my quality,<span
-id="page_307_fr_ddagger"></span>[‡](#page_307_note_ddagger) and my
+id="page_307_fr_ddagger"></span>[‡](#page_307_note_ddagger.md) and my
 circuit of my Ka’beh, and my stopping on my ’Arafeh,<span
-id="page_307_fr_sect"></span>[§](#page_307_note_sect) and the hidden
+id="page_307_fr_sect"></span>[§](#page_307_note_sect.md) and the hidden
 sense of my pilgrimage, and the idea of my visitation of the sacred
 spots, and the finishing of my endeavor for the Ṣafâ of my Choice, and
 the Marweh of my Fortitude,<span
-id="page_307_fr_dvert"></span>[‖](#page_307_note_dvert) and my
+id="page_307_fr_dvert"></span>[‖](#page_307_note_dvert.md) and my
 prostration to the Muḥammedan Ḳibleh and the Ḳureishite Ka’beh, and the
 ’Aly-presence, and the Hâshimite Corner-stones, and the Fâṭimite Domes,
 and the Ismâ’ilian Imâms, and the Suns of the West and East,—from them
@@ -278,12 +278,12 @@ shelter, and afterwards eat thou of every fruit; so pursue thou the ways
 of thy Lord.' That makes <span id="page_308">p. 308</span> to come out
 from within her a drink varied in its colors, in which there is healing
 for men. Verily, therein is a sign to people who consider."<span
-id="page_308_fr_*"></span>[\*](#page_308_note_*)
+id="page_308_fr_*"></span>[\*](#page_308_note_*.md)
 
 ------------------------------------------------------------------------
 
    The Memorial of the acquirements of knowledge by the friend of God
-Ibrâhîm,<span id="page_308_fr_dagger"></span>[†](#page_308_note_dagger)
+Ibrâhîm,<span id="page_308_fr_dagger"></span>[†](#page_308_note_dagger.md)
 of whose spirit was Isma’îl,—let peace from both of them be to us! The
 Blessed Belief.
 
@@ -294,7 +294,7 @@ doctrine which is the doctrine of Isma’îl the noble. And let the
 benedictions of God, and his peace, and his salutations, and his
 honoring, be to the Possessors of pure elements, and pervading
 envelopes, and angelic souls, and holy intelligences!<span
-id="page_308_fr_ddagger"></span>[‡](#page_308_note_ddagger) I believe as
+id="page_308_fr_ddagger"></span>[‡](#page_308_note_ddagger.md) I believe as
 they who profess the unity, believe, and hold to that which they who
 know, hold to, and I declare as they who believe, declare, that the
 world with all its parts, from the roof to the ground, is originated,
@@ -304,7 +304,7 @@ Eternal, the Necessary; the essentially Rich, the Self-subsistent, whom
 things potential take the place of, and are necessary to, whom we
 qualify with the qualifyings of hallowing and exalting, and acquit
 ourselves of the profession of vacuity,<span
-id="page_308_fr_sect"></span>[§](#page_308_note_sect) as well as of
+id="page_308_fr_sect"></span>[§](#page_308_note_sect.md) as well as of
 anthropomorphism.
 
    And I believe that the Prophets of God are so of right, and veritably
@@ -315,7 +315,7 @@ glorified! and <span id="page_309">p. 309</span> as for the letter of
 his revelation, that there is no vagueness in it, and no uncertainty,
 and no defect, and no fault; and that the angels are they who are the
 favorite servants of God, who are the Karûbis and the Spirituals;<span
-id="page_309_fr_*"></span>[\*](#page_309_note_*) and that the religions
+id="page_309_fr_*"></span>[\*](#page_309_note_*.md) and that the religions
 to which the Nâṭiḳs call, during the periods, and the laws which they
 establish for the people of the ages, are correct as to terms, truthful
 as to ideas, obligatory as to the following of them, obvious for their
@@ -327,15 +327,15 @@ religion of this our time is the religion of Aḥmed.
    And I believe that the punishment of the sepulchre and its comfort
 are a reality; and that Munkir and Nakîr are a reality; and the
 gathering, and the blast;<span
-id="page_309_fr_dagger"></span>[†](#page_309_note_dagger) and the
+id="page_309_fr_dagger"></span>[†](#page_309_note_dagger.md) and the
 resurrection, a reality; and the Garden and the Fire, a reality; and the
 Book, and the reckoning, and the Ṣirâṭ,<span
-id="page_309_fr_ddagger"></span>[‡](#page_309_note_ddagger) and the
+id="page_309_fr_ddagger"></span>[‡](#page_309_note_ddagger.md) and the
 Balance, a reality; and the coming to an end, and the returning to God,
 a reality; and the seeing of him, a reality; and the allowed and the
 forbidden, a reality; and that the commanding of acts of obedience and
 services, is a thing admitted;<span
-id="page_309_fr_sect"></span>[§](#page_309_note_sect) and the
+id="page_309_fr_sect"></span>[§](#page_309_note_sect.md) and the
 prohibition of acts of disobedience and offences, a thing objective to
 the intellect; and that prayer, and alms; and fasting, and pilgrimage,
 and holy warfare, and justice, and beneficence, and the giving to a
@@ -359,7 +359,7 @@ Imâm; and no obedience except by the friends; and no disobedience except
 by following the adversaries; and no direction, and no being a Muslim,
 except by submission to the rightful Imâms; and no faith except by love
 to the pure people of the Family;<span
-id="page_310_fr_*"></span>[\*](#page_310_note_*) and no religion except
+id="page_310_fr_*"></span>[\*](#page_310_note_*.md) and no religion except
 the religion of the Lords of disclosure and allegory; and no belief
 except the belief of the Masters of wisdom and the letter of revelation;
 and no doctrine except the doctrine of the Dâ’is of Isma’îl.
@@ -374,7 +374,7 @@ perform good actions, there rests no guilt in respect to that which they
 eat, provided they stand in awe, and believe, and perform good actions,
 and after that stand in awe, and believe, and after that stand in awe,
 and do virtuously; and God loves those who do virtuously."<span
-id="page_310_fr_dagger"></span>[†](#page_310_note_dagger)
+id="page_310_fr_dagger"></span>[†](#page_310_note_dagger.md)
 
 ------------------------------------------------------------------------
 
@@ -388,7 +388,7 @@ it; while no one knows its allegorical sense, except God and those who
 are firmly established in science, who say, 'We believe in it; all is
 <span id="page_311">p. 311</span> from our Lord;' and only the
 possessors of hearts reflect."<span
-id="page_311_fr_*"></span>[\*](#page_311_note_*) I hold fast to the
+id="page_311_fr_*"></span>[\*](#page_311_note_*.md) I hold fast to the
 Possessor of majesty and omnipotence, and I fortify myself in the King
 of the visible realm and the invisible, and I entrust myself to the
 Living One, who dies not, our Deity, and the Deity of those who discover
@@ -396,7 +396,7 @@ to us, and our Lord, and the Lord of our superiors, and our Friend, and
 the Friend of our friends. And I acknowledge that there is no outward
 without its inward; and no form without its perfect idea; and no rind
 without its core; and no Light without its veil;<span
-id="page_311_fr_dagger"></span>[†](#page_311_note_dagger) and no Knowing
+id="page_311_fr_dagger"></span>[†](#page_311_note_dagger.md) and no Knowing
 One without his Gate; and no law without its way; and no way without its
 verity; and no verity without its letter of revelation; and no letter of
 revelation without its allegorical sense; and no allegorical sense
@@ -413,7 +413,7 @@ place. And as for potentiality, it is the essence of the being in need,
 and the ordaining of the realization of the relation of cause to effect.
 And "the essentially Necessary" implies the absurdity of defining by
 that which is devoid of quality. And as for the Ma’na's<span
-id="page_311_fr_ddagger"></span>[‡](#page_311_note_ddagger) being
+id="page_311_fr_ddagger"></span>[‡](#page_311_note_ddagger.md) being
 established as pre-existent and eternal, and the hallowing of the
 self-existently Necessary, and the exempting of him from his qualities,
 it is that we abstract from him every thing which occurs to our minds,
@@ -428,16 +428,16 @@ manifestation of the Word in the Veil, and the setting up of the Guide,
 and the Conductor, and the Gate to the open way of truth and the path of
 rectitude. And as for the Prophet, he is the informer with regard to
 fundamentals, calling to that to which the Envoy<span
-id="page_312_fr_*"></span>[\*](#page_312_note_*) calls. And as for the
+id="page_312_fr_*"></span>[\*](#page_312_note_*.md) calls. And as for the
 Envoy, he is the Nâṭiḳ, calling to the two Roots, the Sâbiḳ and the
 Tâly, and the three Branches, the Jedd and the Fatḥ and the Khiyâl,<span
-id="page_312_fr_dagger"></span>[†](#page_312_note_dagger) which make the
+id="page_312_fr_dagger"></span>[†](#page_312_note_dagger.md) which make the
 higher five comprising perfection. The Nâṭiḳ is an outward, of which the
 inward is the Tâly, to which latter it pertains to train and manage,
 while the opposite is the case in regard to composing and putting
 together. And as for the confirmation of communication by message, by
 means of proof and analogy, it is the allegorical sense of the
-Asâs,<span id="page_312_fr_ddagger"></span>[‡](#page_312_note_ddagger)
+Asâs,<span id="page_312_fr_ddagger"></span>[‡](#page_312_note_ddagger.md)
 and the manifestation to the intelligent among men of Ideas composed by
 the Nâṭiḳ. And as for the sending down of the Leaf and the Book, and
 Jebrîl's bringing the Address, it is the coming of aid to the Nâṭiḳ from
@@ -450,7 +450,7 @@ their glorifying night and day, and their ascribing of dominion for
 people of the faith, with asking of forgiveness, it is the continuing of
 those forces to order the succession of the Amrs, and the manifestation
 of the properties thereof, in their known place, without
-intermission,<span id="page_312_fr_sect"></span>[§](#page_312_note_sect)
+intermission,<span id="page_312_fr_sect"></span>[§](#page_312_note_sect.md)
 And the Karûbis are the forces <span id="page_313">p. 313</span> which
 support the Nâṭiḳs in composing the letter of revelation. And the
 Spirituals are the forces which belong to the Asâses in the disclosure
@@ -458,7 +458,7 @@ of the allegorical sense. And as for religions and laws, they are the
 institutions of divine intelligences for the good estate of earthly
 bodies, in order to the perfecting of the sciences of human souls; which
 are six, while seven is the number of the days of the week.<span
-id="page_313_fr_*"></span>[\*](#page_313_note_*)
+id="page_313_fr_*"></span>[\*](#page_313_note_*.md)
 
    And as for the sepulchre, it is corporeal form and the enveloping
 Palaces. And as for the punishment of the sepulchre, it is the
@@ -468,13 +468,13 @@ of fettering. And the comfort of the sepulchre is the loss of the
 impression made upon it thereby, and its taking refuge in the
 verification of the apprehensions pertaining to its Palace-like
 instruments;<span
-id="page_313_fr_dagger"></span>[†](#page_313_note_dagger) which is by
+id="page_313_fr_dagger"></span>[†](#page_313_note_dagger.md) which is by
 the power of attraction. And as for the fixing by Munkir and Nakîr, it
 is the mastery of the forces of passionate desire and anger. And as for
 the gathering, it is the hastening of souls in pursuing the route of
 their instruments, and their decamping to the rear-guard of their
 instruments,<span
-id="page_313_fr_ddagger"></span>[‡](#page_313_note_ddagger) and the
+id="page_313_fr_ddagger"></span>[‡](#page_313_note_ddagger.md) and the
 conclusion from premises of creatures, in respect to their days, and the
 verity of the idea of a day which calls all men to their Imâm. And as
 for the awakening, it is the manifestation of souls in world after
@@ -483,7 +483,7 @@ for the allegorical sense of the resurrection, the resurrection of
 individual souls is separation from the apprehensions of sense, and
 corporeal instruments; and the resurrection of laws and religions is the
 appearance <span id="page_314">p. 314</span> of the Ḳâim<span
-id="page_314_fr_*"></span>[\*](#page_314_note_*) of the time; and the
+id="page_314_fr_*"></span>[\*](#page_314_note_*.md) of the time; and the
 resurrection of the period in the Universal Soul's showing itself in the
 well-doings of individual souls; and the resurrection of resurrections
 is the perfection of deliverance and salvation, and the relief of all
@@ -493,18 +493,18 @@ the hours of the Great Day, and the coming together of the planets,
 after their separation, at the point of the first equipoise in
 revolution; and the resurrection of the whole is the consummation of the
 two awakenings,<span
-id="page_314_fr_dagger"></span>[†](#page_314_note_dagger) and the
+id="page_314_fr_dagger"></span>[†](#page_314_note_dagger.md) and the
 closing together of the two zones,<span
-id="page_314_fr_ddagger"></span>[‡](#page_314_note_ddagger) and the
+id="page_314_fr_ddagger"></span>[‡](#page_314_note_ddagger.md) and the
 reversion of science and power to the Universal Soul, in the two worlds,
 and the coming to nothing of articles, and the failure of difference in
 fundamentals, and the Hiyûly's putting off the clothing of form, and the
 Soul's dispensing with the efficiencies of necessity,<span
-id="page_314_fr_sect"></span>[§](#page_314_note_sect) and the Knowing
+id="page_314_fr_sect"></span>[§](#page_314_note_sect.md) and the Knowing
 One's becoming alone as to his sort and his principle,<span
-id="page_314_fr_dvert"></span>[‖](#page_314_note_dvert) and the
+id="page_314_fr_dvert"></span>[‖](#page_314_note_dvert.md) and the
 verification of his saying, "And to him shall all command revert."<span
-id="page_314_fr_para"></span>[¶](#page_314_note_para)
+id="page_314_fr_para"></span>[¶](#page_314_note_para.md)
 
    And as for the Book, it is the tablet of secret thought, and the
 place of that by which the soul is determined in respect to holding to
@@ -516,7 +516,7 @@ of direction and certain knowledge; and if they are the imaginings of
 conjecture and the accreditings of supposition, and the doubtings of
 syllogism, and the beliefs of the following of authority, the soul takes
 hold of them by <span id="page_315">p. 315</span> the left hand,<span
-id="page_315_fr_*"></span>[\*](#page_315_note_*) because they pertain to
+id="page_315_fr_*"></span>[\*](#page_315_note_*.md) because they pertain to
 the lower alternative of conjecturing and error. And as for the
 reckoning, it is that the superior Universal Soul stands by inferior
 individual souls, in respect to that which emanates from them of sayings
@@ -528,14 +528,14 @@ the force of certain knowledge predominates, they merit the good of
 compensation, and are safe from the evil of penalty, and are elevated,
 as devotees, to the inner court of the invisible realm of the celestial
 spheres, to have command of worlds beneath which the Regal Powers<span
-id="page_315_fr_dagger"></span>[†](#page_315_note_dagger) have sway, and
+id="page_315_fr_dagger"></span>[†](#page_315_note_dagger.md) have sway, and
 are raised by degrees to their spiritual mansion, and their world of
 light; and if one of the three \[other\] forces predominates, and
 hinders them from experiencing resurrection, they merit the torment of
 penalty, and return into the defile of the place of return, and are
 brought back to the long zig-zag, and to base, hideous form, and are
 dismissed to a shade in three parts,<span
-id="page_315_fr_ddagger"></span>[‡](#page_315_note_ddagger) and are
+id="page_315_fr_ddagger"></span>[‡](#page_315_note_ddagger.md) and are
 imprisoned in the caverns of abjectness and weakness. And as for the
 Balance, it is the medium which the intellect makes use of in order to
 apprehension, and discernment, and preference between the incoherencies
@@ -544,14 +544,14 @@ that which is weighed, it is views and firmly established beliefs, as
 respects sayings and doings, and sciences and operations. And as for the
 weigher, it is the intellect, the apprehender, the comprehender, the
 discerner between the composite and the simple. And as for the
-Ṣirâṭ,<span id="page_315_fr_sect"></span>[§](#page_315_note_sect) it is
+Ṣirâṭ,<span id="page_315_fr_sect"></span>[§](#page_315_note_sect.md) it is
 the intermediate between progression and attainment, shared in common,
 and the soul's way of transit to the upper world, from the lower <span
 id="page_316">p. 316</span> opposed thereto, between that which is
 corporeal and that which is spiritual, a place of twisting for minerals,
 a place of bending for plants, a place of stooping for animals, a place
 of erect standing for spiritual men and deities.<span
-id="page_316_fr_*"></span>[\*](#page_316_note_*)
+id="page_316_fr_*"></span>[\*](#page_316_note_*.md)
 
    And as for the idea of the Garden, it is the eight worlds, of which
 the first is the Garden of the Balancer which is the station of man; and
@@ -565,14 +565,14 @@ science; and the seventh, the Garden of Riḍhwân, which is the world of
 the Intelligene; and the eighth, the Garden of the peace of aid; which
 is the world of the Divine Amr, from which the worlds come forth, and to
 which is their return.<span
-id="page_316_fr_dagger"></span>[†](#page_316_note_dagger) And as for the
+id="page_316_fr_dagger"></span>[†](#page_316_note_dagger.md) And as for the
 gradations of the Garden, they are the degrees of sciences, and the
 measures of perceptions, in every known Place.<span
-id="page_316_fr_ddagger"></span>[‡](#page_316_note_ddagger) And as for
+id="page_316_fr_ddagger"></span>[‡](#page_316_note_ddagger.md) And as for
 the delights, and the enclosures, they are the whirling about of souls
 in the inner court of their acquirements of knowledge, and their gaiety
 on reaching their places of witness,<span
-id="page_316_fr_sect"></span>[§](#page_316_note_sect) and their
+id="page_316_fr_sect"></span>[§](#page_316_note_sect.md) and their
 stopping-places. And as for the couches, and the shades, and the
 cushions, and the mantles, they are the places of manifestation of souls
 in rival forms, and their putting off disagreeing forms, and clothing
@@ -598,25 +598,25 @@ false religions and depraved beliefs. And as for the punishment and the
 penalty, it is that which one experiences of sufferings and pains and
 diseases, and separation from things habituated to, by the inroad of
 misfortunes and calamities. And as for the Zubâniyeh,<span
-id="page_317_fr_*"></span>[\*](#page_317_note_*) the helps of El-Jehîm,
+id="page_317_fr_*"></span>[\*](#page_317_note_*.md) the helps of El-Jehîm,
 they are the forms of doubts and ignorances, and the impersonations of
 errors and phantasms, and the manifesters of false views and failures.
-And Mâlik<span id="page_317_fr_dagger"></span>[†](#page_317_note_dagger)
+And Mâlik<span id="page_317_fr_dagger"></span>[†](#page_317_note_dagger.md)
 is the impersonation of composite ignorance. And as for the being
 qualified with badness, that is the being collared with the serpent and
 the scorpion, and the change of skins, and the being folded to breaking,
 and the being brought back to the lowest of two low states,<span
-id="page_317_fr_ddagger"></span>[‡](#page_317_note_ddagger) and the
+id="page_317_fr_ddagger"></span>[‡](#page_317_note_ddagger.md) and the
 being conducted into the zig-zag of Es-Sa’îr, and the tree Zaḳḳûm,<span
-id="page_317_fr_sect"></span>[§](#page_317_note_sect) and the becoming
+id="page_317_fr_sect"></span>[§](#page_317_note_sect.md) and the becoming
 akin to the Adversaries,<span
-id="page_317_fr_dvert"></span>[‖](#page_317_note_dvert) and the
+id="page_317_fr_dvert"></span>[‖](#page_317_note_dvert.md) and the
 gathering of the fruits of infidelity and repugnance, and the feeding on
-the *ḍharî’*<span id="page_317_fr_para"></span>[¶](#page_317_note_para)
+the *ḍharî’*<span id="page_317_fr_para"></span>[¶](#page_317_note_para.md)
 and putrefaction. And the belief of that which fits not the intellect,
 and religion, and the following of authority, are the People of
 uncertainties and conjecturing,<span
-id="page_317_fr_**"></span>[\*\*](#page_317_note_**) and the drink of
+id="page_317_fr_**"></span>[\*\*](#page_317_note_**.md) and the drink of
 hot water, and the sentences adverse to the certain truth.
 
 <span id="page_318">p. 318</span>
@@ -625,15 +625,15 @@ hot water, and the sentences adverse to the certain truth.
 exalted! it is the terminating of all the relations and connections
 which are between things simple and things composite, of the spiritual
 and corporeal worlds, and things subtile and things gross, in the four
-Upholding Roots,<span id="page_318_fr_*"></span>[\*](#page_318_note_*)
+Upholding Roots,<span id="page_318_fr_*"></span>[\*](#page_318_note_*.md)
 the traces of the Word, in the order indicated, by means of of the
 letters of God conjoined with the Amr;<span
-id="page_318_fr_dagger"></span>[†](#page_318_note_dagger) which is the
+id="page_318_fr_dagger"></span>[†](#page_318_note_dagger.md) which is the
 idea of the return of things composite, having relation to number, to
 Unity; which is anterior to Ether, which is the principle of number, and
 its origin, and which is the principle of the perfect, the deficient,
 and the redundant.<span
-id="page_318_fr_ddagger"></span>[‡](#page_318_note_ddagger)
+id="page_318_fr_ddagger"></span>[‡](#page_318_note_ddagger.md)
 
    And as for the seeing of him,—let him be exalted! it is the knowledge
 of the rank of the Imâm, and the witnessing of his lights, comprehending
@@ -647,15 +647,15 @@ covenant with the Ḳâim of the time. And disobedience is the inclining to
 the Imâms of error and hostility. And as for prayer, it is the
 connection of the Dâ’i with the House of peace, through paternal
 connection, in respect to religiousness, with the Imâm.<span
-id="page_318_fr_sect"></span>[§](#page_318_note_sect) And alms is the
+id="page_318_fr_sect"></span>[§](#page_318_note_sect.md) And alms is the
 coming of wisdom to him who is worthy, and the guiding of the inquirer
 to the open way of truth. And fasting is the abstaining from disclosure
 of the verities of legal enactments, in the presence of others than
 those to whom they are suited, during the period of disclosure. And as
 for the going into retirement,<span
-id="page_318_fr_dvert"></span>[‖](#page_318_note_dvert) it is the Imâm's
+id="page_318_fr_dvert"></span>[‖](#page_318_note_dvert.md) it is the Imâm's
 hiding himself by means of his Veils,<span
-id="page_318_fr_para"></span>[¶](#page_318_note_para) and his concealing
+id="page_318_fr_para"></span>[¶](#page_318_note_para.md) and his concealing
 himself by means of some of his Dâ’is and his Ḥujjahs, that is, night,
 which is the Imâm's veiling himself by his Veils from sight. <span
 id="page_319">p. 319</span> And day is that which proves the period of
@@ -664,7 +664,7 @@ the Imâm behind a Veil, and his causing souls to know without a Gate.
 And as for the breaking of fast, it is the coming out to view of the
 divine ideas, and the knowledge of the verity of the circumstances of
 the Place of return;<span
-id="page_319_fr_*"></span>[\*](#page_319_note_*) which is its
+id="page_319_fr_*"></span>[\*](#page_319_note_*.md) which is its
 manifestation without a Veil with which it veils itself, and without a
 Gate by which entrance is made to it; and the manifestation of guarded
 secrets and reserved sciences. And as for pilgrimage, it is correct
@@ -673,25 +673,25 @@ friendship for the people of the Family, the Family of science and
 wisdom. And the setting out is the cutting off of speculation, to the
 neglect of that which is beside them. And the provision for the way, and
 the pack-camel, is the asking to be reinforced with their idea.<span
-id="page_319_fr_dagger"></span>[†](#page_319_note_dagger) And the
+id="page_319_fr_dagger"></span>[†](#page_319_note_dagger.md) And the
 entering upon the sacred territory is departure from the doctrines of
 the Adversaries, and the acquiring of receptivity and preparation. And
 as for the stopping on ’Arafeh and Muzdelifeh,<span
-id="page_319_fr_ddagger"></span>[‡](#page_319_note_ddagger) it is the
+id="page_319_fr_ddagger"></span>[‡](#page_319_note_ddagger.md) it is the
 being intent upon the canons of wisdom and knowledge. And as for the
 idea of the slaying and the shearing,<span
-id="page_319_fr_sect"></span>[§](#page_319_note_sect) it is the putting
+id="page_319_fr_sect"></span>[§](#page_319_note_sect.md) it is the putting
 an end to falsehood by the manifestation of the truth. And the casting
 of stones at intervals of three thousand paces<span
-id="page_319_fr_dvert"></span>[‖](#page_319_note_dvert) is the rejection
+id="page_319_fr_dvert"></span>[‖](#page_319_note_dvert.md) is the rejection
 of doubting and supposing and conjecturing, as respects sciences and
 operations. And the kissing of the Black Stone<span
-id="page_319_fr_para"></span>[¶](#page_319_note_para) is acceptance of
+id="page_319_fr_para"></span>[¶](#page_319_note_para.md) is acceptance of
 the call from the aided Nâṭiḳ. And the going around the corners<span
-id="page_319_fr_**"></span>[\*\*](#page_319_note_**) is the knowledge of
+id="page_319_fr_**"></span>[\*\*](#page_319_note_**.md) is the knowledge of
 the groups of seven pertaining to the relation of cause to effect. <span
 id="page_320">p. 320</span> And the Makâm and Zemzem<span
-id="page_320_fr_*"></span>[\*](#page_320_note_*) are the call to that
+id="page_320_fr_*"></span>[\*](#page_320_note_*.md) are the call to that
 which is inward and the call as to that which is outward. And the
 running between Marweh and Ṣafâ is the performance of the covenant with
 faithfulness. And the finishing of pilgrimage by the complete visitation
@@ -701,7 +701,7 @@ the scrutinizing of the arguments of those who are repugnant, and the
 bringing to nought their sayings by intellectual proofs and decisive
 arguments. And as for the commission of adultery, it is the responder's
 being brought into connection<span
-id="page_320_fr_dagger"></span>[†](#page_320_note_dagger) without a
+id="page_320_fr_dagger"></span>[†](#page_320_note_dagger.md) without a
 witness, and the laying open of things before the choosing to enter into
 covenant. And the practice of usury is the passionate desire for
 enrichment, and the seeking of things perishable by the divulging of
@@ -716,7 +716,7 @@ sovereignty over that which is inward and that which is outward, or
 which appears and which hides itself. And the giving to a relative is
 love of the Family of the Envoy, and friendship for the posterity of the
 Immaculate,<span
-id="page_320_fr_ddagger"></span>[‡](#page_320_note_ddagger) and the
+id="page_320_fr_ddagger"></span>[‡](#page_320_note_ddagger.md) and the
 extolling of the Hâshimites, and the declaration of the imamship of the
 Fâṭimite Imâms. And injustice is the making others than the people of
 the Family the depositories of the imamship, and the falling away from
@@ -750,7 +750,7 @@ great Annunciation, and the belief of the people of the Noble Family.
 "So then, whoever changes it, after that he has heard it, the fault
 thereof rests only upon those who change it. Verily, God is one who
 hears, one who knows."<span
-id="page_321_fr_*"></span>[\*](#page_321_note_*)
+id="page_321_fr_*"></span>[\*](#page_321_note_*.md)
 
    As for the pious, verily they are beheld taking comfort upon couches;
 in their faces is discerned the brightness of comfort; they have given
@@ -775,7 +775,7 @@ shall call all men to their Imâm; and so, whoever have their books given
 to them in their right hands, those will read their books, and will not
 be wronged a mite; and whoever is blind in this world, he will be blind
 in the world to come, and more out of the way."<span
-id="page_322_fr_*"></span>[\*](#page_322_note_*) Praise be to God who
+id="page_322_fr_*"></span>[\*](#page_322_note_*.md) Praise be to God who
 has taught us, and informed us, and ennobled us, and made us to see, in
 that he has directed us to the way of the profession of unity, and has
 put us, by causing to follow the Imâms of truth, among the most
@@ -786,18 +786,18 @@ of the faith, and the plain way to the Gardens, the affirmed as to his
 existence by argument and proof, the verity of verities, and the end of
 ways, and the acme of the intention of created things, and the cause of
 the existence of the Tâly and the Sâbiḳ,<span
-id="page_322_fr_dagger"></span>[†](#page_322_note_dagger) the firm bond
+id="page_322_fr_dagger"></span>[†](#page_322_note_dagger.md) the firm bond
 of alliance with God, and his clear light, and his certain truth, and
 his preceptive Book, and his prolonged shadow, and the
 watering-reservoir of him, and his blessed Place of standing,<span
-id="page_322_fr_ddagger"></span>[‡](#page_322_note_ddagger) and his
+id="page_322_fr_ddagger"></span>[‡](#page_322_note_ddagger.md) and his
 knotted standard, and his Amr by which existence appears, and his Word
 from which the worlds come forth, and to which they return, the proposed
 end, the perfection of the knowledge of whom has to do with the
 ordaining of laws and creeds, the showing of whose rank is that which is
 intended by the manifestation of occasions and causes, for whose sakes
 intellects and souls are made fast,<span
-id="page_322_fr_sect"></span>[§](#page_322_note_sect) and on whose
+id="page_322_fr_sect"></span>[§](#page_322_note_sect.md) and on whose
 account is the manifestation of that which is objective to the intellect
 and that which is objective to sense, around whom is the circling of the
 celestial spheres and the envelopes, and from whom proceeds the
@@ -805,15 +805,15 @@ sustenance of spirits and bodies, and through whom is the remaining of
 the Corner-stones and the things generated, and to whom pertains the
 consolidation of causes and things caused, of whose familiarity the
 <span id="page_323">p. 323</span> worlds<span
-id="page_323_fr_*"></span>[\*](#page_323_note_*) are the manifesters,
+id="page_323_fr_*"></span>[\*](#page_323_note_*.md) are the manifesters,
 and of whose sanctity they are the place,<span
-id="page_323_fr_dagger"></span>[†](#page_323_note_dagger) and of the
+id="page_323_fr_dagger"></span>[†](#page_323_note_dagger.md) and of the
 lights of whose divinity they are the place of appearing, and of the
 mysteries of whose humanity they are the hiding-places,<span
-id="page_323_fr_ddagger"></span>[‡](#page_323_note_ddagger) and of the
+id="page_323_fr_ddagger"></span>[‡](#page_323_note_ddagger.md) and of the
 suns of whose glory they are the rising-places, and of the moons of
 whose perfection they are the setting-places,<span
-id="page_323_fr_sect"></span>[§](#page_323_note_sect) by the following
+id="page_323_fr_sect"></span>[§](#page_323_note_sect.md) by the following
 of whom elevation is attained, and through the love of whom abiding is
 perpetual, and by the knowledge of whom there is salvation from the
 obscurities of El-Hâwiyeh, and arrival at high degrees, and deliverance
@@ -821,10 +821,10 @@ from the snare of polytheism and disobedience, and rectitude in the open
 way of direction and faith, to whom the Prophets and the Envoys point,
 and in whom the courses and the paths come to an end. So then, he is the
 idea of the Book, and the import of the Address,<span
-id="page_323_fr_dvert"></span>[‖](#page_323_note_dvert) and the way of
+id="page_323_fr_dvert"></span>[‖](#page_323_note_dvert.md) and the way of
 right judgment, and the hidden sense of the Veil, and the Gate of Gates.
 And he is the divine effusion, and the other consummate
-out-pouring.<span id="page_323_fr_para"></span>[¶](#page_323_note_para)
+out-pouring.<span id="page_323_fr_para"></span>[¶](#page_323_note_para.md)
 And to him belongs light, and darkness, and the causing to exist, and
 annihilation. By obedience to him is perfection, and the reaching to the
 most exalted of states; and by disobedience to him is irreclaimableness,
@@ -843,7 +843,7 @@ wake to attention, and to gratitude to him we <span id="page_324">p.
 324</span> give utterance, and to his mercy we render thanks, and in the
 profession of his unity we believe, and to his Enclosures we yield
 obedience, and to his Nâṭiḳs<span
-id="page_324_fr_*"></span>[\*](#page_324_note_*) we give credit. And
+id="page_324_fr_*"></span>[\*](#page_324_note_*.md) we give credit. And
 their Asâses we acknowledge, and their Imâms we know for certain. And
 with their direction we have contracted, and upon their gladdening with
 intimacy and secret converse we rely, and in the open way of their
@@ -865,7 +865,7 @@ profess unity, and the crown of those who have knowledge, and the end of
 the patient, and the mark of every one who has an aim, and the
 watering-place of everyone who goes to water. So hold thou on to it,
 with the holding on of him who hopes to have it on the day of
-return;<span id="page_324_fr_dagger"></span>[†](#page_324_note_dagger)
+return;<span id="page_324_fr_dagger"></span>[†](#page_324_note_dagger.md)
 and provision thyself with it, for it is the best of provisions for the
 way. And it is that which is most important of the sciences, and that
 which is the highest of them. And thou shalt not communicate it except
@@ -881,7 +881,7 @@ the Lord of worlds!
 
 ------------------------------------------------------------------------
 
-[Next](isma2)
+[Next](isma2.md)
 
 ------------------------------------------------------------------------
 
@@ -889,69 +889,69 @@ the Lord of worlds!
 
 <span id="footnotes_page_299">p. 299</span>
 
-<span id="page_299_note_dagger"></span>[†](#page_299_fr_dagger) Meaning,
+<span id="page_299_note_dagger"></span>[†](#page_299_fr_dagger.md) Meaning,
 who knows the essence of every thing.
 
 <span id="footnotes_page_300">p. 300</span>
 
-<span id="page_300_note_*"></span>[\*](#page_300_fr_*) By the *Kâf* and
+<span id="page_300_note_*"></span>[\*](#page_300_fr_*.md) By the *Kâf* and
 the *Nûn* is meant the creative mandate \#\#\#, *be thou*.
 
-<span id="page_300_note_dagger"></span>[†](#page_300_fr_dagger) Meaning
+<span id="page_300_note_dagger"></span>[†](#page_300_fr_dagger.md) Meaning
 the declaration of his mind and will by revelation.
 
-<span id="page_300_note_ddagger"></span>[‡](#page_300_fr_ddagger) The
+<span id="page_300_note_ddagger"></span>[‡](#page_300_fr_ddagger.md) The
 Greek ὕλη, matter without form. Of course, both this word and "form" are
 here used metaphorically.
 
-<span id="page_300_note_sect"></span>[§](#page_300_fr_sect) By the
+<span id="page_300_note_sect"></span>[§](#page_300_fr_sect.md) By the
 Irâdeh, or the Will, and the Meshiyeh, or the Volition, seem here to be
 intended the Sâbiḳ and the Tâly, presently to be mentioned, of which the
 former emanates directly from the Amr, while the latter emanates from
 it. The same application of names is found in the books of the Druzes.
 See De Sacy's *Exposé de la Religion des Druzes*, Tome ii. pp. 21-2.
 
-<span id="page_300_note_dvert"></span>[‖](#page_300_fr_dvert) i. e.
+<span id="page_300_note_dvert"></span>[‖](#page_300_fr_dvert.md) i. e.
 Preceder.
 
-<span id="page_300_note_para"></span>[¶](#page_300_fr_para) Meaning,
+<span id="page_300_note_para"></span>[¶](#page_300_fr_para.md) Meaning,
 without any aiding from a higher power.
 
-<span id="page_300_note_**"></span>[\*\*](#page_300_fr_**) i. e.
+<span id="page_300_note_**"></span>[\*\*](#page_300_fr_**.md) i. e.
 Follower. See below.
 
 <span id="footnotes_page_301">p. 301</span>
 
-<span id="page_301_note_*"></span>[\*](#page_301_fr_*) Meaning the first
+<span id="page_301_note_*"></span>[\*](#page_301_fr_*.md) Meaning the first
 five emanations, namely, the Amr, the Sâbiḳ, the Tâly, the Primitive
 Hiyûly, and the Circumambient. See below.
 
-<span id="page_301_note_dagger"></span>[†](#page_301_fr_dagger) Namely,
+<span id="page_301_note_dagger"></span>[†](#page_301_fr_dagger.md) Namely,
 those applied to God by the Muslims.
 
-<span id="page_301_note_ddagger"></span>[‡](#page_301_fr_ddagger)
+<span id="page_301_note_ddagger"></span>[‡](#page_301_fr_ddagger.md)
 Meaning reinforcements from the Amr, received by the Sâbiḳ, and
 transmitted to the Prophets of every period, and to the seven Imâms of
 each, as their representatives, by virtue of which the Deity himself is
 conceived of as taking his stand, and abiding, in them.
 
-<span id="page_301_note_sect"></span>[§](#page_301_fr_sect) Namely, the
+<span id="page_301_note_sect"></span>[§](#page_301_fr_sect.md) Namely, the
 reinforcement from the Amr.
 
 <span id="footnotes_page_302">p. 302</span>
 
-<span id="page_302_note_*"></span>[\*](#page_302_fr_*) Meaning that the
+<span id="page_302_note_*"></span>[\*](#page_302_fr_*.md) Meaning that the
 divine attributes of knowledge and justice are tabernacled in it.
 
-<span id="page_302_note_dagger"></span>[†](#page_302_fr_dagger)
+<span id="page_302_note_dagger"></span>[†](#page_302_fr_dagger.md)
 Enclosures of the Deity. This name seems to include, in the Ismâ’ilian
-system, all created existences. See [p. 306](#page_306).
+system, all created existences. See [p. 306](#page_306.md).
 
-<span id="page_302_note_ddagger"></span>[‡](#page_302_fr_ddagger) By
+<span id="page_302_note_ddagger"></span>[‡](#page_302_fr_ddagger.md) By
 which is meant the three classes of existence farthest removed from the
 Deity, namely, Minerals, Plants, and Animals. See below.
 
-<span id="page_302_note_sect"></span>[§](#page_302_fr_sect) The name of
+<span id="page_302_note_sect"></span>[§](#page_302_fr_sect.md) The name of
 "the higher envelopes" includes the Stellar Sphere, and the seven
 Palaces, presently to be mentioned; while the four Globes, of Ether,
 Air, Water, and gross Earth, together with Minerals, Plants, and
@@ -967,10 +967,10 @@ involuntary.
 
 <span id="footnotes_page_303">p. 303</span>
 
-<span id="page_303_note_*"></span>[\*](#page_303_fr_*) From this
+<span id="page_303_note_*"></span>[\*](#page_303_fr_*.md) From this
 description it is evident that the Circumambient is Finite Space.
 
-<span id="page_303_note_dagger"></span>[†](#page_303_fr_dagger) This is
+<span id="page_303_note_dagger"></span>[†](#page_303_fr_dagger.md) This is
 the outer concave of the ancient Ptolemaic system of astronomy as
 appears from what follows in our text, taken in connection with the
 following passage from an astronomical work of El-Farghâny, an Arabic
@@ -993,10 +993,10 @@ Elementa Astronomica*, ed. J. Golius, pp. 45-6.
 
 <span id="footnotes_page_304">p. 304</span>
 
-<span id="page_304_note_*"></span>[\*](#page_304_fr_*) Meaning articles
+<span id="page_304_note_*"></span>[\*](#page_304_fr_*.md) Meaning articles
 of belief.
 
-<span id="page_304_note_dagger"></span>[†](#page_304_fr_dagger) The
+<span id="page_304_note_dagger"></span>[†](#page_304_fr_dagger.md) The
 spheres, or concaves, of the seven planets are referred to under this
 general name. We have proof of this, and a most important help to the
 understanding of the descriptions above given of these several Palaces,
@@ -1051,19 +1051,19 @@ of Mars, are omitted in the description.
 
 <span id="footnotes_page_306">p. 306</span>
 
-<span id="page_306_note_*"></span>[\*](#page_306_fr_*) See [note † p.
-303](#page_303_note_dagger).
+<span id="page_306_note_*"></span>[\*](#page_306_fr_*.md) See [note † p.
+303](#page_303_note_dagger.md).
 
-<span id="page_306_note_dagger"></span>[†](#page_306_fr_dagger) *Cuscuta
+<span id="page_306_note_dagger"></span>[†](#page_306_fr_dagger.md) *Cuscuta
 epithymum*, a parasitic climbing plant, without roots, and without
 leaves, but bearing small seeds at its extremities. See *Ebn Baithar's
 Heilund Nahrungs-mittel*, übersetzt von Dr. Joseph v. Sontheimer, Bd ii.
 s. 380.
 
-<span id="page_306_note_ddagger"></span>[‡](#page_306_fr_ddagger)
-Meaning, not dissevered from the Deity. See [p. 299](#page_299).
+<span id="page_306_note_ddagger"></span>[‡](#page_306_fr_ddagger.md)
+Meaning, not dissevered from the Deity. See [p. 299](#page_299.md).
 
-<span id="page_306_note_sect"></span>[§](#page_306_fr_sect) These three
+<span id="page_306_note_sect"></span>[§](#page_306_fr_sect.md) These three
 groups are as follows: 1. the Deity, the Amr, the Sâbiḳ, the Tâly, the
 Primitive Hiyûly, the Circumambient, and the Stellar Sphere; 2. the
 seven Palaces; and 3. the Four Corner-stones, and the three classes of
@@ -1073,25 +1073,25 @@ all things. It can be nothing else than Unity of number. The ἓν ἀρχή
 πάντων of the Pythagoreans may be referred to as a parallel, provided
 only that simultaneousness of existence is ascribed to this principle of
 Unity and the Deity, for it is said of the Deity, above, that he "is,
-and before him was not any thing." [See p. 299](#page_299).
+and before him was not any thing." [See p. 299](#page_299.md).
 
 <span id="footnotes_page_307">p. 307</span>
 
-<span id="page_307_note_*"></span>[\*](#page_307_fr_*) See [note ‡ p.
-301](#page_301_note_dagger).
+<span id="page_307_note_*"></span>[\*](#page_307_fr_*.md) See [note ‡ p.
+301](#page_301_note_dagger.md).
 
-<span id="page_307_note_dagger"></span>[†](#page_307_fr_dagger) Meaning
+<span id="page_307_note_dagger"></span>[†](#page_307_fr_dagger.md) Meaning
 the knowledge of God as he is, or, allegorically, acquaintance with the
-rank and power of the Imâm. See [p. 318](#page_318).
+rank and power of the Imâm. See [p. 318](#page_318.md).
 
-<span id="page_307_note_ddagger"></span>[‡](#page_307_fr_ddagger)
+<span id="page_307_note_ddagger"></span>[‡](#page_307_fr_ddagger.md)
 Meaning what is essence and quality to me.
 
-<span id="page_307_note_sect"></span>[§](#page_307_fr_sect) Stopping on
+<span id="page_307_note_sect"></span>[§](#page_307_fr_sect.md) Stopping on
 the hill ’Arafeh, a short distance from Mekkeh, is one of the ceremomes
 of pilgrimage to the holy city.
 
-<span id="page_307_note_dvert"></span>[‖](#page_307_fr_dvert) There is a
+<span id="page_307_note_dvert"></span>[‖](#page_307_fr_dvert.md) There is a
 play on words, here, which cannot be rendered in English. The arduous
 ceremony of the walk to and fro between Ṣafâ and Marweh is alluded to;
 but the idea of the person speaking is, that what he has said is in the
@@ -1100,48 +1100,48 @@ and to be bold in his service.
 
 <span id="footnotes_page_308">p. 308</span>
 
-<span id="page_308_note_*"></span>[\*](#page_308_fr_*) Ḳurân, Sur. xvi,
+<span id="page_308_note_*"></span>[\*](#page_308_fr_*.md) Ḳurân, Sur. xvi,
 vv. 70-71. This passage seems to be used in an allegorical sense, as a
 recommendation of diligent seeking after hidden knowledge.
 
-<span id="page_308_note_dagger"></span>[†](#page_308_fr_dagger) This
+<span id="page_308_note_dagger"></span>[†](#page_308_fr_dagger.md) This
 piece and the two following are called "Memorials" of Abraham, Moses,
 and Jesus, under the pretense that they contain that which is kindred to
 the teachings of these earlier Prophets.
 
-<span id="page_308_note_ddagger"></span>[‡](#page_308_fr_ddagger) A
+<span id="page_308_note_ddagger"></span>[‡](#page_308_fr_ddagger.md) A
 description of the Imâms, as made up of the four elements in their
 purity, pervaded by influences of the celestial spheres, with special
 aidings from the Amr, through the Sâbiḳ and the Tâly.
 
-<span id="page_308_note_sect"></span>[§](#page_308_fr_sect) See [note ‖
-p. 276](isma1-2.htm#page_276_note_dvert).
+<span id="page_308_note_sect"></span>[§](#page_308_fr_sect.md) See [note ‖
+p. 276](isma1-2.htm#page_276_note_dvert.md).
 
 <span id="footnotes_page_309">p. 309</span>
 
-<span id="page_309_note_*"></span>[\*](#page_309_fr_*) See [note † p.
-304](#page_304_note_dagger). The Karûbis are Cherubim.
+<span id="page_309_note_*"></span>[\*](#page_309_fr_*.md) See [note † p.
+304](#page_304_note_dagger.md). The Karûbis are Cherubim.
 
-<span id="page_309_note_dagger"></span>[†](#page_309_fr_dagger) Meaning
+<span id="page_309_note_dagger"></span>[†](#page_309_fr_dagger.md) Meaning
 the blast of the trumpet to rouse the dead to final Judgment.
 
-<span id="page_309_note_ddagger"></span>[‡](#page_309_fr_ddagger) The
+<span id="page_309_note_ddagger"></span>[‡](#page_309_fr_ddagger.md) The
 bridge over Hell.
 
-<span id="page_309_note_sect"></span>[§](#page_309_fr_sect) Meaning a
+<span id="page_309_note_sect"></span>[§](#page_309_fr_sect.md) Meaning a
 thing which the reason allows.
 
 <span id="footnotes_page_310">p. 310</span>
 
-<span id="page_310_note_*"></span>[\*](#page_310_fr_*) The family of
+<span id="page_310_note_*"></span>[\*](#page_310_fr_*.md) The family of
 Muḥammed.
 
-<span id="page_310_note_dagger"></span>[†](#page_310_fr_dagger) Ḳurân,
+<span id="page_310_note_dagger"></span>[†](#page_310_fr_dagger.md) Ḳurân,
 Sur. v. v. 94.
 
 <span id="footnotes_page_311">p. 311</span>
 
-<span id="page_311_note_*"></span>[\*](#page_311_fr_*) Ḳurân, Sur. iii.
+<span id="page_311_note_*"></span>[\*](#page_311_fr_*.md) Ḳurân, Sur. iii.
 v. 5. El-Beiḍhâwy explains the expression "mother of the Book," in this
 passage, to mean "its root, that to which the test of it amounts." This
 orthodox commentator is obliged to admit that an allegorical sense
@@ -1152,26 +1152,26 @@ allegorical sense, except where it becomes necessary to lean upon it
 with reference to faith or practice. See *Beidhawii Comm. in Coranum*,
 vol. i. pp. 145-6.
 
-<span id="page_311_note_dagger"></span>[†](#page_311_fr_dagger) The Veil
+<span id="page_311_note_dagger"></span>[†](#page_311_fr_dagger.md) The Veil
 of the Ismâ’ilian system seems to be the human person of the Imâm, while
 the so called Light is the veritable Imâm himself.
 
-<span id="page_311_note_ddagger"></span>[‡](#page_311_fr_ddagger) i. e.
+<span id="page_311_note_ddagger"></span>[‡](#page_311_fr_ddagger.md) i. e.
 The Idea, the absolute Deity.
 
 <span id="footnotes_page_312">p. 312</span>
 
-<span id="page_312_note_*"></span>[\*](#page_312_fr_*) Muḥammed.
+<span id="page_312_note_*"></span>[\*](#page_312_fr_*.md) Muḥammed.
 
-<span id="page_312_note_dagger"></span>[†](#page_312_fr_dagger) The
+<span id="page_312_note_dagger"></span>[†](#page_312_fr_dagger.md) The
 Jedd, or the Primogenitor, the Fatḥ, or the Opening, and the Khiyâl, or
 the Image, are here, evidently, used as names of the Primitive Hiyûly,
 the Circumambient, and the Stellar Sphere
 
-<span id="page_312_note_ddagger"></span>[‡](#page_312_fr_ddagger) See
-[note \* p. 266](isma1-2.htm#page_266_note_*).
+<span id="page_312_note_ddagger"></span>[‡](#page_312_fr_ddagger.md) See
+[note \* p. 266](isma1-2.htm#page_266_note_*.md).
 
-<span id="page_312_note_sect"></span>[§](#page_312_fr_sect) What is here
+<span id="page_312_note_sect"></span>[§](#page_312_fr_sect.md) What is here
 allegorized will be best understood by another quotation from
 Esh-Shahrastâny's statement of the belief of the Sabians in regard to
 the so called Spirituals. He says, "And they create in hallowing and
@@ -1187,31 +1187,31 @@ Prophets and Legatees, of the seven periods.
 
 <span id="footnotes_page_313">p. 313</span>
 
-<span id="page_313_note_*"></span>[\*](#page_313_fr_*) This seems to
+<span id="page_313_note_*"></span>[\*](#page_313_fr_*.md) This seems to
 indicate that the Prophet of the seventh period was not considered as
 having established the new order of things, when this sermon was
 composed.
 
-<span id="page_313_note_dagger"></span>[†](#page_313_fr_dagger) By which
+<span id="page_313_note_dagger"></span>[†](#page_313_fr_dagger.md) By which
 are intended the senses.
 
-<span id="page_313_note_ddagger"></span>[‡](#page_313_fr_ddagger) This
+<span id="page_313_note_ddagger"></span>[‡](#page_313_fr_ddagger.md) This
 and the "pursuing the route of their impediments" are expressions
 borrowed from the operations of an army in the field, to signify a
 victory gained by souls over all the obstacles of corporeal form.
 
 <span id="footnotes_page_314">p. 314</span>
 
-<span id="page_314_note_*"></span>[\*](#page_314_fr_*) i. e. The Taker
+<span id="page_314_note_*"></span>[\*](#page_314_fr_*.md) i. e. The Taker
 of his stand, meaning the manifestation of the Amr in each new Prophet.
-See [note ‡ p. 301](#page_301_note_ddagger).
+See [note ‡ p. 301](#page_301_note_ddagger.md).
 
-<span id="page_314_note_dagger"></span>[†](#page_314_fr_dagger)
+<span id="page_314_note_dagger"></span>[†](#page_314_fr_dagger.md)
 Probably, the awakening by Munkir and Nakîr, (see [note ‡ p.
-288](isma1-3.htm#page_288_note_ddagger),) and the awakening for final
+288](isma1-3.htm#page_288_note_ddagger),.md) and the awakening for final
 Judgment.
 
-<span id="page_314_note_ddagger"></span>[‡](#page_314_fr_ddagger)
+<span id="page_314_note_ddagger"></span>[‡](#page_314_fr_ddagger.md)
 Meaning the two zones called, in the astronomy of the Arabs "the zone of
 primary motion," a circle intersecting the earth near the north and
 south poles, which regulates the rotation of all the heavenly bodies
@@ -1221,18 +1221,18 @@ other than the polar points, which regulates the revolutions of the sun
 and stars from west to east around the earth, in varying periods. See
 *Ferganensis Elementa Astronmica*, pp. 15-16, 46.
 
-<span id="page_314_note_sect"></span>[§](#page_314_fr_sect) See [p.
-302](#page_302).
+<span id="page_314_note_sect"></span>[§](#page_314_fr_sect.md) See [p.
+302](#page_302.md).
 
-<span id="page_314_note_dvert"></span>[‖](#page_314_fr_dvert) See [note
-§ p. 306](#page_306_note_sect).
+<span id="page_314_note_dvert"></span>[‖](#page_314_fr_dvert.md) See [note
+§ p. 306](#page_306_note_sect.md).
 
-<span id="page_314_note_para"></span>[¶](#page_314_fr_para) Ḳurân, Sur.
+<span id="page_314_note_para"></span>[¶](#page_314_fr_para.md) Ḳurân, Sur.
 xi. v. 123.
 
 <span id="footnotes_page_315">p. 315</span>
 
-<span id="page_315_note_*"></span>[\*](#page_315_fr_*) The taking hold
+<span id="page_315_note_*"></span>[\*](#page_315_fr_*.md) The taking hold
 by the right hand, or by the left, in this passage signifies good or
 evil augury. The language is borrowed from the scene of the
 judgment-day, as anticipated by the Muslim, when the good man will have
@@ -1240,19 +1240,19 @@ his book of accounts put into his right hand, and the bad man will be
 made to take it by the left hand. See *Tableau Général de l'Empire
 Othoman* par M. De M. D'Ohsson, Tome i. p. 47.
 
-<span id="page_315_note_dagger"></span>[†](#page_315_fr_dagger) Meaning
+<span id="page_315_note_dagger"></span>[†](#page_315_fr_dagger.md) Meaning
 the Regents of the planets.
 
-<span id="page_315_note_ddagger"></span>[‡](#page_315_fr_ddagger)
+<span id="page_315_note_ddagger"></span>[‡](#page_315_fr_ddagger.md)
 Meaning that they become embodied in minerals, plants, or animals. [See
-p. 317](#page_317).
+p. 317](#page_317.md).
 
-<span id="page_315_note_sect"></span>[§](#page_315_fr_sect) See [note ‡
-p. 309](#page_309_note_ddagger).
+<span id="page_315_note_sect"></span>[§](#page_315_fr_sect.md) See [note ‡
+p. 309](#page_309_note_ddagger.md).
 
 <span id="footnotes_page_316">p. 316</span>
 
-<span id="page_316_note_*"></span>[\*](#page_316_fr_*) Here is
+<span id="page_316_note_*"></span>[\*](#page_316_fr_*.md) Here is
 allegorized that sort of intermediate state represented in the Muslim
 creed by the bridge over Hell, which the good pass with the speed of
 lightning, while the bad are precipitated from it into the flames below.
@@ -1260,105 +1260,105 @@ It is explained to mean the scene of the progress of souls through this
 world, in its various stages of mineral, vegetable, and animal
 embodiment.
 
-<span id="page_316_note_dagger"></span>[†](#page_316_fr_dagger) All this
+<span id="page_316_note_dagger"></span>[†](#page_316_fr_dagger.md) All this
 may be understood by reference to the system of cosmogony, detailed in
 the first piece contained in this document.
 
-<span id="page_316_note_ddagger"></span>[‡](#page_316_fr_ddagger) Place
-of the reinforcements of the Amr. See [p. 301](#page_301).
+<span id="page_316_note_ddagger"></span>[‡](#page_316_fr_ddagger.md) Place
+of the reinforcements of the Amr. See [p. 301](#page_301.md).
 
-<span id="page_316_note_sect"></span>[§](#page_316_fr_sect) See [note †
-p. 307](#page_307_note_dagger).
+<span id="page_316_note_sect"></span>[§](#page_316_fr_sect.md) See [note †
+p. 307](#page_307_note_dagger.md).
 
 <span id="footnotes_page_317">p. 317</span>
 
-<span id="page_317_note_*"></span>[\*](#page_317_fr_*) Demons of the
+<span id="page_317_note_*"></span>[\*](#page_317_fr_*.md) Demons of the
 Muslim Hell.
 
-<span id="page_317_note_dagger"></span>[†](#page_317_fr_dagger) A note
+<span id="page_317_note_dagger"></span>[†](#page_317_fr_dagger.md) A note
 to the original manuscript, in Arabic, interprets this to be the name of
 "the barbed and feathered arrow of the porter of Hell."
 
-<span id="page_317_note_ddagger"></span>[‡](#page_317_fr_ddagger)
+<span id="page_317_note_ddagger"></span>[‡](#page_317_fr_ddagger.md)
 Meaning, to El-Jehîm. See above.
 
-<span id="page_317_note_sect"></span>[§](#page_317_fr_sect) The Tree of
+<span id="page_317_note_sect"></span>[§](#page_317_fr_sect.md) The Tree of
 Hell.
 
-<span id="page_317_note_dvert"></span>[‖](#page_317_fr_dvert) A name
+<span id="page_317_note_dvert"></span>[‖](#page_317_fr_dvert.md) A name
 given to the Spirits of Hell.
 
-<span id="page_317_note_para"></span>[¶](#page_317_fr_para) The *ḍharî’*
+<span id="page_317_note_para"></span>[¶](#page_317_fr_para.md) The *ḍharî’*
 is said to be a plant of heating qualities, found on the shore of the
 Dead Sea. See Ibn Beiṭâr's *Heil-* und *Nahrungs-mittel*, Bd. ii. p.
 145.
 
-<span id="page_317_note_**"></span>[\*\*](#page_317_fr_**) A name given
+<span id="page_317_note_**"></span>[\*\*](#page_317_fr_**.md) A name given
 to the Spirits of Hell.
 
 <span id="footnotes_page_318">p. 318</span>
 
-<span id="page_318_note_*"></span>[\*](#page_318_fr_*) The four
+<span id="page_318_note_*"></span>[\*](#page_318_fr_*.md) The four
 elements.
 
-<span id="page_318_note_dagger"></span>[†](#page_318_fr_dagger) See
-[note \* p. 300](#page_300_note_*).
+<span id="page_318_note_dagger"></span>[†](#page_318_fr_dagger.md) See
+[note \* p. 300](#page_300_note_*.md).
 
-<span id="page_318_note_ddagger"></span>[‡](#page_318_fr_ddagger) See
-[note § p. 306](#page_306_note_sect); and it is worthy of notice in that
+<span id="page_318_note_ddagger"></span>[‡](#page_318_fr_ddagger.md) See
+[note § p. 306](#page_306_note_sect.md); and it is worthy of notice in that
 connection, that the relations of number as even, and odd, in the two
 opposite respects of too little and too much, are referred to in the
 last clause of this sentence.
 
-<span id="page_318_note_sect"></span>[§](#page_318_fr_sect) On the
-relation of the Dâ’i to the Imâm, [see p. 280](isma1-3.htm#page_280).
+<span id="page_318_note_sect"></span>[§](#page_318_fr_sect.md) On the
+relation of the Dâ’i to the Imâm, [see p. 280](isma1-3.htm#page_280.md).
 
-<span id="page_318_note_dvert"></span>[‖](#page_318_fr_dvert) This is
+<span id="page_318_note_dvert"></span>[‖](#page_318_fr_dvert.md) This is
 one of the duties obligatory upon the Muslim. It is defined to consist
 "in remaining several days and nights in the interior of a mosque, there
 to fast, pray, and meditate, in an unbroken and complete collectedness
 of mind." See D'Ohsson's *Tableau Général de l'Empire Othoman*, Tome ii.
 p. 7.
 
-<span id="page_318_note_para"></span>[¶](#page_318_fr_para) See [note †
-p. 311](#page_311_note_dagger).
+<span id="page_318_note_para"></span>[¶](#page_318_fr_para.md) See [note †
+p. 311](#page_311_note_dagger.md).
 
 <span id="footnotes_page_319">p. 319</span>
 
-<span id="page_319_note_*"></span>[\*](#page_319_fr_*) A name applied to
+<span id="page_319_note_*"></span>[\*](#page_319_fr_*.md) A name applied to
 the Imâm, as one who brings back the Amr to the world, by virtue of
 those reinforcements from the Amr which are the essential part of his
 being.
 
-<span id="page_319_note_dagger"></span>[†](#page_319_fr_dagger) Meaning
+<span id="page_319_note_dagger"></span>[†](#page_319_fr_dagger.md) Meaning
 to have the true idea of the Imâm formed in the mind.
 
-<span id="page_319_note_ddagger"></span>[‡](#page_319_fr_ddagger) A
+<span id="page_319_note_ddagger"></span>[‡](#page_319_fr_ddagger.md) A
 locality near Mekkeh, one of the sacred stations of the Muslim pilgrim,
 where he spends the night after visiting ’Arafeh. See D'Ohsson's
 *Tableau Général de l'Empire Othoman*, Tome ii. p. 29.
 
-<span id="page_319_note_sect"></span>[§](#page_319_fr_sect) Meaning, of
+<span id="page_319_note_sect"></span>[§](#page_319_fr_sect.md) Meaning, of
 animals for the sacrifice offered in connection with pilgrimage to
 Mekkeh.
 
-<span id="page_319_note_dvert"></span>[‖](#page_319_fr_dvert) A ceremony
+<span id="page_319_note_dvert"></span>[‖](#page_319_fr_dvert.md) A ceremony
 several times repeated by the Muslim pilgrim, in memory of Abraham's
 putting demons to flight, by throwing stones at them, who tempted him to
 disobey God. See D'Ohsson's *Tabl. Gén. de l'Empire Othoman*, Tome ii.
 pp. 29, ff.
 
-<span id="page_319_note_para"></span>[¶](#page_319_fr_para) The black
+<span id="page_319_note_para"></span>[¶](#page_319_fr_para.md) The black
 stone on one comer of the Ka’beh which is kissed by the pilgrim in
 making the tour of the Ancient House. See Burckhardt's *Travels in
 Arabia*, vol. i. p. 249.
 
-<span id="page_319_note_**"></span>[\*\*](#page_319_fr_**) Of the
+<span id="page_319_note_**"></span>[\*\*](#page_319_fr_**.md) Of the
 Ka’beh.
 
 <span id="footnotes_page_320">p. 320</span>
 
-<span id="page_320_note_*"></span>[\*](#page_320_fr_*) The Maḳâm, or
+<span id="page_320_note_*"></span>[\*](#page_320_fr_*.md) The Maḳâm, or
 Maḳâm Ibrâhîm, i. e. The station of Abraham, supposed to mark the spot
 where the patriarch stood to build the original Ka’beh, is a small
 building which the Muslim pilgrim passes immediately befare reaching
@@ -1366,66 +1366,66 @@ that inner shrine of the Mosque. The well Zemzem is situated near by,
 but farther from the Ka’beh. See Burckhardt's *Travels in Arabia*, vol.
 i. pp. 266-7.
 
-<span id="page_320_note_dagger"></span>[†](#page_320_fr_dagger) Meaning
+<span id="page_320_note_dagger"></span>[†](#page_320_fr_dagger.md) Meaning
 his being admitted to the fraternity.
 
-<span id="page_320_note_ddagger"></span>[‡](#page_320_fr_ddagger) A name
+<span id="page_320_note_ddagger"></span>[‡](#page_320_fr_ddagger.md) A name
 applied to Fâṭimeh.
 
 <span id="footnotes_page_321">p. 321</span>
 
-<span id="page_321_note_*"></span>[\*](#page_321_fr_*) Ḳurân, Sur. ii.
+<span id="page_321_note_*"></span>[\*](#page_321_fr_*.md) Ḳurân, Sur. ii.
 v. 177.
 
 <span id="footnotes_page_322">p. 322</span>
 
-<span id="page_322_note_*"></span>[\*](#page_322_fr_*) Ḳurân, Sur. xvii.
+<span id="page_322_note_*"></span>[\*](#page_322_fr_*.md) Ḳurân, Sur. xvii.
 vv. 72-4.
 
-<span id="page_322_note_dagger"></span>[†](#page_322_fr_dagger) Meaning
+<span id="page_322_note_dagger"></span>[†](#page_322_fr_dagger.md) Meaning
 the Amr, or Word, but in a secondary sense. See below, and [pp.
-301-2](#page_301).
+301-2](#page_301.md).
 
-<span id="page_322_note_ddagger"></span>[‡](#page_322_fr_ddagger) See
-[note ‡ p, 301](#page_301_note_ddagger).
+<span id="page_322_note_ddagger"></span>[‡](#page_322_fr_ddagger.md) See
+[note ‡ p, 301](#page_301_note_ddagger.md).
 
-<span id="page_322_note_sect"></span>[§](#page_322_fr_sect) Meaning,
+<span id="page_322_note_sect"></span>[§](#page_322_fr_sect.md) Meaning,
 embodied.
 
 <span id="footnotes_page_323">p. 323</span>
 
-<span id="page_323_note_*"></span>[\*](#page_323_fr_*) The eight higher
+<span id="page_323_note_*"></span>[\*](#page_323_fr_*.md) The eight higher
 worlds and the seven lower, mentioned above.
 
-<span id="page_323_note_dagger"></span>[†](#page_323_fr_dagger) The
+<span id="page_323_note_dagger"></span>[†](#page_323_fr_dagger.md) The
 embodiment.
 
-<span id="page_323_note_ddagger"></span>[‡](#page_323_fr_ddagger)
+<span id="page_323_note_ddagger"></span>[‡](#page_323_fr_ddagger.md)
 Meaning, whose manifested divinity they show, and whose concealed
 divinity they hide. But let it be carefully observed, that the divinity
 here ascribed to the Imâm is only a derived divinity.
 
-<span id="page_323_note_sect"></span>[§](#page_323_fr_sect) Meaning,
+<span id="page_323_note_sect"></span>[§](#page_323_fr_sect.md) Meaning,
 whose rising, sun-like glory they exhibit, and whose setting, moon-like
 light they shroud. There is allusion, in this and the preceding clause,
 to the distinction between the Imâm making himself known, and the Imâm
 withdrawing into seclusion, which is clearly expressed in the preceding
-sermon. See [pp. 318-19](#page_318).
+sermon. See [pp. 318-19](#page_318.md).
 
-<span id="page_323_note_dvert"></span>[‖](#page_323_fr_dvert) The
-revelation by Gabriel. See [p. 312](#page_312).
+<span id="page_323_note_dvert"></span>[‖](#page_323_fr_dvert.md) The
+revelation by Gabriel. See [p. 312](#page_312.md).
 
-<span id="page_323_note_para"></span>[¶](#page_323_fr_para) Meaning the
+<span id="page_323_note_para"></span>[¶](#page_323_fr_para.md) Meaning the
 effusion of God, and that of the Amr.
 
 <span id="footnotes_page_324">p. 324</span>
 
-<span id="page_324_note_*"></span>[\*](#page_324_fr_*) As the
+<span id="page_324_note_*"></span>[\*](#page_324_fr_*.md) As the
 representative of the Amr, the Imâm is here said to have his Nâṭiḳs;
 while immediately afterwards is recognized his relation of successor to
 the Nâṭiḳ, in the Ismâ’ilian hierarchy.
 
-<span id="page_324_note_dagger"></span>[†](#page_324_fr_dagger) The day
+<span id="page_324_note_dagger"></span>[†](#page_324_fr_dagger.md) The day
 of final account.
 
  

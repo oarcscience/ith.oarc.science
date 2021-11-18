@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst056)  [Next](inst058) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst056)  [Next](inst058.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,7 +204,7 @@ it is to bewail past evils and not to sin to do what is to be bewailed.
 Again, that it is a kind of grieving revenge, punishing in itself what
 it grieves to have committed. Again, that it is sorrow of heart and
 bitterness of soul for the evils which the individual has committed, or
-to which he has consented.32  <span id="fr_321"></span>[322](#fn_321)
+to which he has consented.32  <span id="fr_321"></span>[322](#fn_321.md)
 Supposing we grant that these things were well said by Fathers (though,
 if one were inclined to dispute, it were not difficult to deny it), they
 were not, however said with the view of describing repentance but only
@@ -215,23 +215,23 @@ to be added. For instance, the following sentence of Chrysostom:
 “Repentance is a medicine for the cure of sin, a gift bestowed from
 above, an admirable virtue, a grace surpassing the power of laws.”
 Moreover, the doctrine which they32  <span
-id="fr_322"></span>[323](#fn_322) afterwards deliver is somewhat worse
+id="fr_322"></span>[323](#fn_322.md) afterwards deliver is somewhat worse
 than their definition. For they are so keenly bent on external
 exercises, that all you can gather from immense volumes33  <span
-id="fr_323"></span>[324](#fn_323) is, that repentance is a discipline,
+id="fr_323"></span>[324](#fn_323.md) is, that repentance is a discipline,
 and austerity, which serves partly to subdue the flesh, partly to
 chasten and punish sins: of internal renovation of mind, bringing with
 it true amendment of life, there is a strange silence.33  <span
-id="fr_324"></span>[325](#fn_324) No doubt, they talk much of contrition
+id="fr_324"></span>[325](#fn_324.md) No doubt, they talk much of contrition
 and attrition, torment the soul with many scruples, and involve it in
 great trouble and anxiety; but when they seem to have deeply wounded the
 heart, they cure all its bitterness by a slight sprinkling of
 ceremonies. Repentance thus shrewdly defined, they divide into
 contrition of the heart, confession of the mouth, and satisfaction of
-works.33  <span id="fr_325"></span>[326](#fn_325) This is not more
+works.33  <span id="fr_325"></span>[326](#fn_325.md) This is not more
 logical than the definition, though they would be thought to have spent
 their whole lives in framing syllogisms.33  <span
-id="fr_326"></span>[327](#fn_326) But if any one argues from the
+id="fr_326"></span>[327](#fn_326.md) But if any one argues from the
 definition (a mode of argument prevalent with dialecticians) that a man
 may weep over his past sins and not commit things that cause weeping;
 may bewail past evils, and not commit things that are to be bewailed;
@@ -261,17 +261,17 @@ repentance can be several times repeated for mortal sins, whereas they
 grossly and wickedly define that daily repentance has to do with none
 but venial sins. In like manner, with gross error, they greatly torment
 themselves with a saying of Jerome, that repentance is a second plank
-after shipwreck.33  <span id="fr_327"></span>[328](#fn_327) Herein they
+after shipwreck.33  <span id="fr_327"></span>[328](#fn_327.md) Herein they
 show that they have never awoke from brutish stupor, so as to obtain a
 distant view of the thousandth part of their sins.
 
 <span id="iv.iii.v-p51"></span>2. I would have my readers to observe,
 that the dispute here relates not to a matter of no consequence;33
- <span id="fr_328"></span>[329](#fn_328) but to one of the most
+ <span id="fr_328"></span>[329](#fn_328.md) but to one of the most
 important of all—viz. the forgiveness of sins. For while they require
 three things in repentance—viz. compunction of heart, confession of the
 mouth, and satisfaction of work33  <span
-id="fr_329"></span>[330](#fn_329) —they at the same time teach that
+id="fr_329"></span>[330](#fn_329.md) —they at the same time teach that
 these are necessary to obtain the pardon of sins. If there is any thing
 in the whole compass of religion which it is of importance to us to
 know, this certainly is one of the most important—viz. to perceive and
@@ -290,7 +290,7 @@ incessantly to urge every man bitterly to lament his sins, and thereby
 stimulate himself more and more to dislike and hate them. For this is
 the “repentance to salvation not to be repented of,” (<span
 id="iv.iii.v-p53.1"></span>[2 Cor.
-7:10](../../../bib/kjv/co2007.htm#010)<span
+7:10](../../../bib/kjv/co2007.htm#010.md)<span
 id="iv.iii.v-p53.1"></span>). But when such bitterness of sorrow is
 demanded as may correspond to the magnitude of the offense, and be
 weighed in the balance with confidence of pardon, miserable consciences
@@ -298,7 +298,7 @@ are sadly perplexed and tormented when they see that the contrition due
 for sin is laid upon them, and yet that they have no measure of what is
 due, so as to enable them to determine that they have made full payment.
 If they say, we are to do what in us lies, we are always brought back to
-the same point;33  <span id="fr_330"></span>[331](#fn_330) for when will
+the same point;33  <span id="fr_330"></span>[331](#fn_330.md) for when will
 any man venture to promise himself that he has done his utmost in
 bewailing sin? Therefore, when consciences, after a lengthened struggle
 and long contests with themselves, find no haven in which they may rest,
@@ -321,7 +321,7 @@ who labour and are heavy laden are called by Christ, seeing he was sent
 “to preach good tidings to the meek;” “to bind up the broken-hearted; to
 proclaim liberty to the captives, and the opening of the prison to them
 that are bound;” “to comfort all that mourn.”33  <span
-id="fr_331"></span>[332](#fn_331) Hence the Pharisees were excluded,
+id="fr_331"></span>[332](#fn_331.md) Hence the Pharisees were excluded,
 because, full of their own righteousness, they acknowledged not their
 own poverty; and despisers, because, regardless of the divine anger,
 they sought no remedy for their wickedness. Such persons neither labour
@@ -340,22 +340,22 @@ insisting, on the contrary, that it is merely enjoined by ecclesiastical
 constitution. In this contest great effrontery has been displayed by the
 Theologians, who have corrupted and violently wrested every passage of
 Scripture they have quoted in their favour.33  <span
-id="fr_332"></span>[333](#fn_332) And when they saw that even thus they
+id="fr_332"></span>[333](#fn_332.md) And when they saw that even thus they
 could not gain their object, those who wished to be thought particularly
 acute had recourse to the evasion that confession is of divine authority
 in regard to the substance, but that it afterwards received its form
 from positive enactment. Thus the silliest of these quibblers refer the
 citation to divine authority, from its being said, “Adam, where art
 thou?” (<span id="iv.iii.v-p58.1"></span>[Gen.
-3:9](../../../bib/kjv/gen003.htm#009),
-[12](../../../bib/kjv/gen003.htm#012)<span id="iv.iii.v-p58.1"></span>);
+3:9](../../../bib/kjv/gen003.htm#009.md),
+[12](../../../bib/kjv/gen003.htm#012)<span id="iv.iii.v-p58.1"></span>.md);
 and also the exception from Adam having replied as if excepting, “The
 women whom thou gavest to be with me,” &c.; but say that the form of
 both was appointed by civil law. Let us see by what arguments they prove
 that this confession, formed or unformed, is a divine commandment. The
 Lord, they say, sent the lepers to the priests (<span
 id="iv.iii.v-p58.2"></span>[Mt.
-8:4](../../../bib/kjv/mat008.htm#004)<span id="iv.iii.v-p58.2"></span>).
+8:4](../../../bib/kjv/mat008.htm#004)<span id="iv.iii.v-p58.2"></span>.md).
 What? did he send them to confession? Who ever heard tell that the
 Levitical priests were appointed to hear confession? Here they resort to
 allegory. The priests were appointed by the Mosaic law to discern
@@ -364,14 +364,14 @@ to the priests to decide upon it. Before I answer, I would ask, in
 passing, why, if this passage makes them judges of spiritual leprosy,
 they claim the cognizance of natural and carnal leprosy? This, for
 sooth, is not to play upon Scripture!34  <span
-id="fr_333"></span>[334](#fn_333) The law gives the cognizance of
+id="fr_333"></span>[334](#fn_333.md) The law gives the cognizance of
 leprosy to the Levitical priests: let us usurp this to ourselves. Sin is
 spiritual leprosy: let us also have cognizance of sin. I now give my
 answer: There being a change of the priesthood, there must of necessity
 be a change of the law. All the sacerdotal functions were transferred to
 Christ, and in him fulfilled and ended (<span
 id="iv.iii.v-p59.1"></span>[Heb.
-7:12](../../../bib/kjv/heb007.htm#012)<span
+7:12](../../../bib/kjv/heb007.htm#012.md)<span
 id="iv.iii.v-p59.1"></span>). To him alone, therefore, all the rights
 and honors of the priesthood have been transferred. If they are so fond
 then of hunting out allegories, let them set Christ before them as the
@@ -385,7 +385,7 @@ purified by the offering of a sacrifice, he orders the lepers who had
 been cleansed to do what the law required. “Go and show thyself to the
 priest, and offer for thy cleansing according as Moses commanded for a
 testimony unto them.” (<span id="iv.iii.v-p59.2"></span>[Luke
-5:17](../../../bib/kjv/luk005.htm#017)<span
+5:17](../../../bib/kjv/luk005.htm#017.md)<span
 id="iv.iii.v-p59.2"></span>). And assuredly this miracle would be a
 testimony to them: they had pronounced them lepers; they now pronounce
 them cured. Whether they would or not, they are forced to become
@@ -394,11 +394,11 @@ miracle, and they cannot deny it: yet, as they still quibble, they have
 need of a testimony. So it is elsewhere said, “This gospel of the
 kingdom shall be preached in all the world, for a witness unto all
 nations,” (<span id="iv.iii.v-p59.3"></span>[Mt.
-24:14](../../../bib/kjv/mat024.htm#014)<span
+24:14](../../../bib/kjv/mat024.htm#014.md)<span
 id="iv.iii.v-p59.3"></span>). Again, “Ye shall be brought before
 governors and kings for my sake, for a testimony against them and the
 Gentiles,” (<span id="iv.iii.v-p59.4"></span>[Mt.
-10:18](../../../bib/kjv/mat010.htm#018)<span
+10:18](../../../bib/kjv/mat010.htm#018.md)<span
 id="iv.iii.v-p59.4"></span>); that is, in order that, in the judgment of
 Gods they might be more filly convicted. But if they prefer taking the
 view of Chrysostom (Hom. 12 de Muliere Cananæa), he shows that this was
@@ -410,7 +410,7 @@ Gospel, who were always intent on making a clamour if their mouths were
 not stopped. Wherefore, let the Popish priests, in order to retain this
 privilege, openly make common cause with those whom it was necessary to
 restrain, by forcible means, from speaking evil of Christ.34  <span
-id="fr_334"></span>[335](#fn_334) For there is here no reference to his
+id="fr_334"></span>[335](#fn_334.md) For there is here no reference to his
 true ministers.
 
 <span id="iv.iii.v-p61"></span>5. They draw their second argument from
@@ -419,7 +419,7 @@ in confirming any doctrine. But, indeed, let them avail, if those which
 I am able to produce are not more specious than theirs. They say, then,
 that the Lord, after raising Lazarus, commanded his disciples to “loose
 him and let him go,” (<span id="iv.iii.v-p61.1"></span>[John
-11:44](../../../bib/kjv/joh011.htm#044)<span
+11:44](../../../bib/kjv/joh011.htm#044.md)<span
 id="iv.iii.v-p61.1"></span>). Their first statement is untrue: we
 nowhere read that the Lord said this to the disciples; and it is much
 more probable that he spoke to the Jews who were standing by, that from
@@ -441,14 +441,14 @@ stern and severe in punishing, while he himself was merciful and ready
 to forgive. Certainly nothing should more incline us to pardon than the
 example of the Judge who threatens that he will be inexorable to the
 rigid and inhumane. Let them go now and vend their allegories.34  <span
-id="fr_335"></span>[336](#fn_335)
+id="fr_335"></span>[336](#fn_335.md)
 
 <span id="iv.iii.v-p63"></span>6. They now come to closer quarters,
 while they support their view by passages of Scripture which they think
-clearly in their favour.34  <span id="fr_336"></span>[337](#fn_336)
+clearly in their favour.34  <span id="fr_336"></span>[337](#fn_336.md)
 Those who came to John’s baptism confessed their sins, and James bids us
 confess our sins one to another (<span id="iv.iii.v-p64.1"></span>[James
-5:16](../../../bib/kjv/jam005.htm#016)<span
+5:16](../../../bib/kjv/jam005.htm#016.md)<span
 id="iv.iii.v-p64.1"></span>). It is not strange that those who wished to
 be baptized confessed their sins. It has already been mentioned, that
 John preached the baptism of repentance, baptized with water unto
@@ -482,10 +482,10 @@ God, before his angels, before the Church; in short, before all men.
 “The Scripture has concluded all under sin,” “that every mouth may be
 stopped, and all the world may become guilty before God,” that God alone
 may be justified and exalted (<span id="iv.iii.v-p64.2"></span>[Gal.
-3:22](../../../bib/kjv/gal003.htm#022)<span id="iv.iii.v-p64.2"></span>;
+3:22](../../../bib/kjv/gal003.htm#022.md)<span id="iv.iii.v-p64.2"></span>;
 <span id="iv.iii.v-p64.3"></span>[Rom.
-3:9](../../../bib/kjv/rom003.htm#009),
-[19](../../../bib/kjv/rom003.htm#019)<span id="iv.iii.v-p64.3"></span>).
+3:9](../../../bib/kjv/rom003.htm#009.md),
+[19](../../../bib/kjv/rom003.htm#019)<span id="iv.iii.v-p64.3"></span>.md).
 
 <span id="iv.iii.v-p65"></span>7. I wonder at their effrontery in
 venturing to maintain that the confession of which they speak is of
@@ -510,7 +510,7 @@ application to any one who is either a male or a female. A still grosser
 absurdity has been displayed by their disciples, who are unable to
 explain what is meant by one’s own priest (proprius sacerdos). Let all
 the hired ravers of the Pope babble as they may,34  <span
-id="fr_337"></span>[338](#fn_337) we hold that Christ is not the author
+id="fr_337"></span>[338](#fn_337.md) we hold that Christ is not the author
 of this law, which compels men to enumerate their sins; nay, that twelve
 hundred years elapsed after the resurrection of Christ before any such
 law was made, and that, consequently, this tyranny was not introduced
@@ -519,8 +519,8 @@ to themselves unbridled license. There is clear evidence in historians,
 and other ancient writers, to show that this was a politic discipline
 introduced by bishops, not a law enacted by Christ or the Apostles. Out
 of many I will produce only one passage, which will be no obscure proof.
-Sozomen34  <span id="fr_338"></span>[339](#fn_338) relates,34  <span
-id="fr_339"></span>[340](#fn_339) that this constitution of the bishops
+Sozomen34  <span id="fr_338"></span>[339](#fn_338.md) relates,34  <span
+id="fr_339"></span>[340](#fn_339.md) that this constitution of the bishops
 was carefully observed in the Western churches, but especially at Rome;
 thus intimating that it was not the universal custom of all churches. He
 also says, that one of the presbyters was specially appointed to take
@@ -567,7 +567,7 @@ who may make it public; but show your wounds to the Lord, who takes care
 of you, who is kind and can cure.” He afterwards introduces God speaking
 thus: “I oblige you not to come into the midst of a theatre, and have
 many witnesses; tell your sins to me alone in private, that I may cure
-the ulcer.”34  <span id="fr_340"></span>[341](#fn_340) Shall we say that
+the ulcer.”34  <span id="fr_340"></span>[341](#fn_340.md) Shall we say that
 Chrysostom, in writing these and similar passages, carried his
 presumption so far as to free the consciences of men from those chains
 with which they are bound by the divine law? By no means; but knowing
@@ -580,14 +580,14 @@ as delivered in the word of God, and thereafter subjoin their
 inventions—not all of them indeed (who could drink up that boundless
 sea?) but those only which contain summary of their secret confession.
 Here I am grieved to mention how frequently the old interpreter34  <span
-id="fr_341"></span>[342](#fn_341) has rendered the word *confess*
+id="fr_341"></span>[342](#fn_341.md) has rendered the word *confess*
 instead of *praise*, a fact notorious to the most illiterate, were it
 not fitting to expose their effrontery in transferring to their
 tyrannical edict what was written concerning the praises of God. To
 prove that confession has the effect of exhilarating the mind, they
 obtrude the passage in the psalm, “with the voice of joy and praise,”
 (Vulgate, *confessionis*) (<span id="iv.iii.v-p72.1"></span>[Ps.
-42:4](../../../bib/kjv/psa042.htm#004)<span
+42:4](../../../bib/kjv/psa042.htm#004.md)<span
 id="iv.iii.v-p72.1"></span>). But if such a metamorphosis is valid, any
 thing may be made of any thing. But, as they have lost all shame, let
 pious readers reflect how, by the just vengeance of God, they have been
@@ -604,21 +604,21 @@ let us delay not to draw near to him. “I acknowledge my sin unto thee,”
 says David; “and mine iniquity have I not hid. I said, I will confess my
 transgressions unto the Lord; and thou forgavest the iniquity of my
 sin,” (<span id="iv.iii.v-p72.2"></span>[Ps.
-32:5](../../../bib/kjv/psa032.htm#005)<span
+32:5](../../../bib/kjv/psa032.htm#005.md)<span
 id="iv.iii.v-p72.2"></span>). Another specimen of David’s confessions is
 as follows: “Have mercy upon me, O God, according to thy loving
 kindness,” (<span id="iv.iii.v-p72.3"></span>[Ps.
-51:1](../../../bib/kjv/psa051.htm#001)<span
+51:1](../../../bib/kjv/psa051.htm#001.md)<span
 id="iv.iii.v-p72.3"></span>). The following is Daniel’s confession: “We
 have sinned, and have committed iniquity, and have done wickedly, and
 have rebelled, even by departing from thy precepts and thy judgments,”
 (<span id="iv.iii.v-p72.4"></span>[Dan.
-9:5](../../../bib/kjv/dan009.htm#005)<span id="iv.iii.v-p72.4"></span>).
+9:5](../../../bib/kjv/dan009.htm#005)<span id="iv.iii.v-p72.4"></span>.md).
 Other examples every where occur in Scripture: the quotation of them
 would almost fill a volume. “If we confess our sins,” says John, “he is
 faithful and just to forgive us our sins,” (<span
 id="iv.iii.v-p72.5"></span>[1 John
-1:9](../../../bib/kjv/jo1001.htm#009)<span id="iv.iii.v-p72.5"></span>).
+1:9](../../../bib/kjv/jo1001.htm#009)<span id="iv.iii.v-p72.5"></span>.md).
 To whom are we to confess? to Him surely;—that is, we are to fall down
 before him with a grieved and humbled heart, and sincerely accusing and
 condemning ourselves, seek forgiveness of his goodness and mercy.
@@ -633,7 +633,7 @@ both of his own ignominy, and of the greatness and glory of the Lord. In
 this way David, after he was accused by Nathan, being stung in his
 conscience, confesses his sin before God and men. “I have sinned unto
 the Lord,” says he (<span id="iv.iii.v-p73.1"></span>[2 Sam.
-12:13](../../../bib/kjv/sa2012.htm#013)<span
+12:13](../../../bib/kjv/sa2012.htm#013.md)<span
 id="iv.iii.v-p73.1"></span>); that is, I have now no excuse, no evasion;
 all must judge me a sinner; and that which I wished to be secret with
 the Lord must also be made manifest to men. Hence the secret confession
@@ -652,8 +652,8 @@ employed on extraordinary occasions, when the people in common happen to
 have fallen into any fault. Of this latter description we have an
 example in the solemn confession which the whole people made under the
 authority and guidance of Ezra and Nehemiah (<span
-id="iv.iii.v-p74.1"></span>[Neh. 1:6](../../../bib/kjv/neh001.htm#006),
-[7](../../../bib/kjv/neh001.htm#007)<span id="iv.iii.v-p74.1"></span>).
+id="iv.iii.v-p74.1"></span>[Neh. 1:6](../../../bib/kjv/neh001.htm#006.md),
+[7](../../../bib/kjv/neh001.htm#007)<span id="iv.iii.v-p74.1"></span>.md).
 For their long captivity, the destruction of the temple, and suppression
 of their religion, having been the common punishment of their defection,
 they could not make meet acknowledgment of the blessing of deliverance
@@ -687,7 +687,7 @@ door of prayer is opened privately for each, and publicly for all.
 are approved by Scripture. The one is made on our own account, and to it
 reference is made in the passage in James, “Confess your sins one to
 another,” (<span id="iv.iii.v-p75.1"></span>[James
-5:16](../../../bib/kjv/jam005.htm#016)<span
+5:16](../../../bib/kjv/jam005.htm#016.md)<span
 id="iv.iii.v-p75.1"></span>); for the meaning is, that by disclosing our
 infirmities to each other, we are to obtain the aid of mutual counsel
 and consolation. The other is to be made for the sake of our neighbor,
@@ -707,7 +707,7 @@ in confidence in the divine mercy, we see that ministers, to assure our
 consciences of the forgiveness of fins, are appointed to be the
 witnesses and sponsors of it, so that they are themselves said to
 forgive sins and loose souls (<span id="iv.iii.v-p75.2"></span>[Mt.
-16:19](../../../bib/kjv/mat016.htm#019)<span
+16:19](../../../bib/kjv/mat016.htm#019.md)<span
 id="iv.iii.v-p75.2"></span>; 18:18). When you hear this attributed to
 them, reflect that it is for your use. Let every believer, therefore,
 remember, that if in private he is so agonized and afflicted by a sense
@@ -734,8 +734,8 @@ Savior speaks in Matthew. “If thou bring thy gift to the altar, and
 there remember that thy brother has ought against thee; leave there thy
 gift before the altar; first be reconciled to thy brother, and then come
 and offer thy gift,” (<span id="iv.iii.v-p76.1"></span>[Matt.
-5:23](../../../bib/kjv/mat005.htm#023),
-[24](../../../bib/kjv/mat005.htm#024)<span id="iv.iii.v-p76.1"></span>).
+5:23](../../../bib/kjv/mat005.htm#023.md),
+[24](../../../bib/kjv/mat005.htm#024)<span id="iv.iii.v-p76.1"></span>.md).
 Thus love, which has been interrupted by our fault, must be restored by
 acknowledging and asking pardon for the fault. Under this head is
 included the confession of those who by their sin have given offense to
@@ -748,7 +748,7 @@ the Church should be reconciled to it by the acknowledgment of his
 fault? Thus the member of the Church of Corinth was restored to
 communion after he had humbly submitted to correction (<span
 id="iv.iii.v-p76.2"></span>[2 Cor.
-2:6](../../../bib/kjv/co2002.htm#006)<span id="iv.iii.v-p76.2"></span>).
+2:6](../../../bib/kjv/co2002.htm#006)<span id="iv.iii.v-p76.2"></span>.md).
 This form of confession existed in the ancient Christian Church, as
 Cyprian relates: “They practice repentance,” says he, “for a proper
 time, then they come to confession, and by the laying on of the hands of
@@ -766,7 +766,7 @@ countenance is given to tyranny and superstition.
 <span id="iv.iii.v-p77"></span>14. The *power of the keys* has place in
 the three following modes of confession,—either when the whole Church,
 in a formal acknowledgment of its defects,34  <span
-id="fr_342"></span>[343](#fn_342) supplicates pardon; or when a private
+id="fr_342"></span>[343](#fn_342.md) supplicates pardon; or when a private
 individual, who has given public offense by some notable delinquency,
 testifies his repentance; or when he who from disquiet of conscience
 needs the aid of his minister, acquaints him with his infirmity. With
@@ -786,7 +786,7 @@ receives pardon, and is thus restored to brotherly unity, how great is
 the benefit of understanding that he is pardoned by those to whom Christ
 said, “Whose soever sins ye remit, they are remitted unto them,” (<span
 id="iv.iii.v-p78.1"></span>[John
-20:23](../../../bib/kjv/joh020.htm#023)<span
+20:23](../../../bib/kjv/joh020.htm#023.md)<span
 id="iv.iii.v-p78.1"></span>). Nor is private absolution of less benefit
 or efficacy when asked by those who stand in need of a special remedy
 for their infirmity. It not seldom happens, that he who hears general
@@ -797,8 +797,8 @@ individual lay open the secret wound of his soul to his pastor, and hear
 these words of the Gospel specially addressed to him, “Son, be of good
 cheer, thy sins be forgiven thee,” (<span
 id="iv.iii.v-p78.2"></span>[Mt.
-9:2](../../../bib/kjv/mat009.htm#002)<span
-id="iv.iii.v-p78.2"></span>),35  <span id="fr_343"></span>[344](#fn_343)
+9:2](../../../bib/kjv/mat009.htm#002.md)<span
+id="iv.iii.v-p78.2"></span>),35  <span id="fr_343"></span>[344](#fn_343.md)
 his mind will feel secure, and escape from the trepidation with which it
 was previously agitated. But when we treat of the keys, us must always
 beware of dreaming of any power apart from the preaching of the Gospel.
@@ -812,7 +812,7 @@ minds of believers by means of those whom the Lord has appointed; and
 the only method in which this can be done is by preaching.
 
 <span id="iv.iii.v-p80"></span>15. What say the Roman theologians? That
-all persons of both sexes,35  <span id="fr_344"></span>[345](#fn_344) so
+all persons of both sexes,35  <span id="fr_344"></span>[345](#fn_344.md) so
 soon as they shall have reached the years of discretion, must, once a
 year at least, confess all their sins to their own priest; that the sin
 is not discharged unless the resolution to confess has been firmly
@@ -822,7 +822,7 @@ moreover has the power of the keys, by which he can loose and bind the
 sinner; because the declaration of Christ is not in vain: “Whatsoever ye
 shall bind on earth shall be bound in heaven,” (<span
 id="iv.iii.v-p81.1"></span>[Mt.
-18:18](../../../bib/kjv/mat018.htm#018)<span
+18:18](../../../bib/kjv/mat018.htm#018.md)<span
 id="iv.iii.v-p81.1"></span>). Concerning this power, however they wage a
 fierce war among themselves. Some say there is only one key
 essentially—viz. the power of binding and loosing; that knowledge,
@@ -838,8 +838,8 @@ interpret simply, to forgive and wipe away sins, because they hear the
 Lord proclaiming by the prophet, “I, even I, am the Lord; and beside me
 there is no savior.” “I, even I, am he that blotteth out thy
 transgressions,” (<span id="iv.iii.v-p81.2"></span>[Isa.
-43:11](../../../bib/kjv/isa043.htm#011),
-[25](../../../bib/kjv/isa043.htm#025)<span id="iv.iii.v-p81.2"></span>).
+43:11](../../../bib/kjv/isa043.htm#011.md),
+[25](../../../bib/kjv/isa043.htm#025)<span id="iv.iii.v-p81.2"></span>.md).
 But they say it belongs to the priest to declare who are bound or
 loosed, and whose sins are remitted or retained; to declare, moreover,
 either by confession, when he absolves and retains sins, or by sentence,
@@ -872,11 +872,11 @@ impossible to bear. Are all sins to be enumerated? But David, who, I
 presume, had honestly pondered with himself as to the confession of his
 sins, exclaimed, “Who can understand his errors? Cleanse thou me from
 secret faults,” (<span id="iv.iii.v-p82.1"></span>[Ps.
-19:12](../../../bib/kjv/psa019.htm#012)<span
+19:12](../../../bib/kjv/psa019.htm#012.md)<span
 id="iv.iii.v-p82.1"></span>); and in another passage, “Mine iniquities
 are gone over my head: as a heavy burden they are too heavy for me,”
 (<span id="iv.iii.v-p82.2"></span>[Ps.
-38:4](../../../bib/kjv/psa038.htm#004)<span
+38:4](../../../bib/kjv/psa038.htm#004.md)<span
 id="iv.iii.v-p82.2"></span>). He knew how deep was the abyss of our
 sins, how numerous the forms of wickedness, how many heads the hydra
 carried, how long a tail it drew. Therefore, he did not sit down to make
@@ -923,7 +923,7 @@ the true worshipers of God, who, after they have performed their
 examination, feeling themselves overwhelmed, still add the words of
 John: “If our heart condemn us, God is greater than our heart, and
 knoweth all things,” (<span id="iv.iii.v-p83.1"></span>[1 John
-3:20](../../../bib/kjv/jo1003.htm#020)<span
+3:20](../../../bib/kjv/jo1003.htm#020.md)<span
 id="iv.iii.v-p83.1"></span>); and, therefore, tremble at the thought of
 that Judge whose knowledge far surpasses our comprehension.
 
@@ -933,7 +933,7 @@ somewhat tempered, it was not because they thought that God was
 satisfied, or they had quite satisfied themselves; it was rather like an
 anchor cast out in the middle of the deep, which for a little interrupts
 the navigation, or a weary, worn-out traveler, who lies down by the
-way.35  <span id="fr_345"></span>[346](#fn_345) I give myself no trouble
+way.35  <span id="fr_345"></span>[346](#fn_345.md) I give myself no trouble
 in proving the truth of this fact. Every one can be his own witness. I
 will mention generally what the nature of this law is. First. The
 observance of it is simply impossible; and hence its only results to
@@ -947,7 +947,7 @@ But the surest rule of confession is, to acknowledge and confess our
 sins to be an abyss so great as to exceed our comprehension. On this
 rule we see the confession of the publican was formed, “God be merciful
 to me, a sinner,” (<span id="iv.iii.v-p85.1"></span>[Luke
-18:13](../../../bib/kjv/luk018.htm#013)<span
+18:13](../../../bib/kjv/luk018.htm#013.md)<span
 id="iv.iii.v-p85.1"></span>); as if he had said, How great, how very
 great a sinner, how utterly sinful I am! the extent of my sins I can
 neither conceive nor express. Let the depth of thy mercy engulf the
@@ -968,7 +968,7 @@ remains, and that their recesses are too deep for him thoroughly to
 penetrate. Accordingly, let him exclaim with David, “Who can understand
 his errors? cleanse thou me from secret faults,” (<span
 id="iv.iii.v-p85.2"></span>[Ps.
-19:12](../../../bib/kjv/psa019.htm#012)<span
+19:12](../../../bib/kjv/psa019.htm#012.md)<span
 id="iv.iii.v-p85.2"></span>). But when the Schoolmen affirm that sins
 are not forgiven, unless the resolution to confess has been firmly
 conceived, and that the gate of Paradise is closed on him who has
@@ -976,7 +976,7 @@ neglected the opportunity of confessing when offered, far be it from us
 to concede this to them. The remission of sins is not different now from
 what it has ever been. In all the passages in which we read that sinners
 obtained forgiveness from God, we read not that they whispered into the
-ear of some priest.35  <span id="fr_346"></span>[347](#fn_346) Indeed,
+ear of some priest.35  <span id="fr_346"></span>[347](#fn_346.md) Indeed,
 they could not then confess, as priests were not then confessionaries,
 nor did the confessional itself exist. And for many ages afterwards,
 this mode of confession, by which sins were forgiven on this condition,
@@ -986,7 +986,7 @@ matter were doubtful, the word of God, which abideth for ever, is plain,
 committed, and keep all my statutes, and do that which is lawful and
 right, he shall surely live, he shall not die,” (<span
 id="iv.iii.v-p86.1"></span>[Ezek.
-18:21](../../../bib/kjv/eze018.htm#021)<span
+18:21](../../../bib/kjv/eze018.htm#021.md)<span
 id="iv.iii.v-p86.1"></span>). He who presumes to add to this declaration
 binds not sins, but the mercy of God. When they contend that judgment
 cannot be given unless the case is known, the answer is easy, that they
@@ -1055,7 +1055,7 @@ what force it ought to have. Were the keys then (they ask), given
 without a cause? Was it said without a cause, “Whatsoever ye shall bind
 on earth shall be bound in heaven, and whatsoever ye shall loose on
 earth shall be loosed in heaven?” (<span id="iv.iii.v-p88.1"></span>[Mt.
-18:18](../../../bib/kjv/mat018.htm#018)<span
+18:18](../../../bib/kjv/mat018.htm#018.md)<span
 id="iv.iii.v-p88.1"></span>). Do we make void the word of Christ? I
 answer, that there was a weighty reason for giving the keys, as I lately
 explained, and will again show at greater length when I come to treat of
@@ -1103,8 +1103,8 @@ all, who do not embrace Christ. In this word the Church declares, that
 “neither fornicators, nor idolaters, nor adulterers,” “nor thieves, nor
 covetous, nor drunkards, nor revilers, nor extortioners shall inherit
 the kingdom of God,” (<span id="iv.iii.v-p89.1"></span>[1 Cor.
-6:9](../../../bib/kjv/co1006.htm#009),
-[10](../../../bib/kjv/co1006.htm#010)<span id="iv.iii.v-p89.1"></span>).
+6:9](../../../bib/kjv/co1006.htm#009.md),
+[10](../../../bib/kjv/co1006.htm#010)<span id="iv.iii.v-p89.1"></span>.md).
 Such it binds in sure fetters. By the same word it looses and consoles
 the penitent. But what kind of power is it which knows not what is to be
 bound or loosed? You cannot bind or loose without knowledge. Why, then,
@@ -1171,7 +1171,7 @@ regard to embracing the grace of Christ, the simple condition annexed is
 in terms of the general rule of our Master himself,—a rule impiously
 spurned by the Papacy,—“According to your faith be it unto you,” (<span
 id="iv.iii.v-p90.1"></span>[Mt.
-9:29](../../../bib/kjv/mat009.htm#029)<span
+9:29](../../../bib/kjv/mat009.htm#029.md)<span
 id="iv.iii.v-p90.1"></span>).
 
 <span id="iv.iii.v-p91"></span>23. The absurd jargon which they make of
@@ -1202,7 +1202,7 @@ obstacle properly remains after the individual is truly penitent, though
 he may not have actually confessed; and, therefore, that the priest does
 not so much remit sins, as pronounce and declare that they are remitted;
 though in the term *declaring*, they insinuate a gross error,
-surrogating ceremony35  <span id="fr_347"></span>[348](#fn_347) in place
+surrogating ceremony35  <span id="fr_347"></span>[348](#fn_347.md) in place
 of doctrine. But in pretending that he who has already obtained pardon
 before God is acquitted in the face of the Church, they unseasonably
 apply to the special use of every individual, that which we have already
@@ -1215,12 +1215,12 @@ dividing what God has every where promised to us entire. While He simply
 requires repentance and faith, their division or exception is altogether
 blasphemous. For it is just as if the priest, assuming the office of
 tribune, were to interfere with God,35  <span
-id="fr_348"></span>[349](#fn_348) and try to prevent him from admitting
+id="fr_348"></span>[349](#fn_348.md) and try to prevent him from admitting
 to his favor by his mere liberality any one who had not previously lain
 prostrate at the tribunicial bench, and there been punished.
 
 <span id="iv.iii.v-p94"></span>24. The whole comes to this,35  <span
-id="fr_349"></span>[350](#fn_349) when they wish to make God the author
+id="fr_349"></span>[350](#fn_349.md) when they wish to make God the author
 of this fictitious confession their vanity is proved as I have shown
 their falsehood in expounding the few passages which they cite. But
 while it is plain, that the law was imposed by men, I say that it is
@@ -1231,7 +1231,7 @@ say that the sacrilege is altogether intolerable, because nothing
 belongs more peculiarly to God than the forgiveness of sins, in which
 our salvation consists. I have, moreover, shown that this tyranny was
 introduced when the world was sunk in shameful barbarism.35  <span
-id="fr_350"></span>[351](#fn_350) Besides, I have proved that the law is
+id="fr_350"></span>[351](#fn_350.md) Besides, I have proved that the law is
 pestiferous, inasmuch as when the fear of God exists, it plunges men
 into despair, and when there is security soothing itself with vain
 flattery, it blunts it the more. Lastly, I have explained that all the
@@ -1241,11 +1241,11 @@ deceitful colors.
 
 <span id="iv.iii.v-p97"></span>25. In repentance they assign the third
 place to satisfaction, all their absurd talk as to which can be refuted
-in one word. They say,35  <span id="fr_351"></span>[352](#fn_351) that
+in one word. They say,35  <span id="fr_351"></span>[352](#fn_351.md) that
 it is not sufficient for the penitent to abstain from past sins, and
 change his conduct for the better, unless he satisfy God for what he has
 done; and that there are many helps by which we may redeem sins, such as
-tears, fastings oblations,35  <span id="fr_352"></span>[353](#fn_352)
+tears, fastings oblations,35  <span id="fr_352"></span>[353](#fn_352.md)
 and offices of charity; that by them the Lord is to be propitiated; by
 them the debts due to divine justice are to be paid; by them our faults
 are to be compensated; by them pardon is to be deserved: for though in
@@ -1256,7 +1256,7 @@ obtain pardon of our sins from the mercy of God, but still by the
 intervention of the merit of works, by which the evil of our sins is
 compensated, and due satisfaction made to divine justice. To such false
 views I oppose the free forgiveness of sins, one of the doctrines most
-clearly taught in Scripture.36  <span id="fr_353"></span>[354](#fn_353)
+clearly taught in Scripture.36  <span id="fr_353"></span>[354](#fn_353.md)
 First, what is forgiveness but a gift of mere liberality? A creditor is
 not said to forgive when he declares by granting a discharge, that the
 money has been paid to him; but when, without any payment, through
@@ -1271,20 +1271,20 @@ to be sought from his goodness alone? Besides, when the whole of
 Scripture bears this testimony to Christ, that through his name the
 forgiveness of sins is to be obtained (<span
 id="iv.iii.v-p100.5"></span>[Acts
-10:43](../../../bib/kjv/act010.htm#043)<span
+10:43](../../../bib/kjv/act010.htm#043.md)<span
 id="iv.iii.v-p100.5"></span>), does it not plainly exclude all other
 names? How then do they teach that it is obtained by the name of
 satisfaction? Let them not deny that they attribute this to
 satisfactions, though they bring them in as subsidiary aids.36  <span
-id="fr_354"></span>[355](#fn_354) For when Scripture says, *by the name
+id="fr_354"></span>[355](#fn_354.md) For when Scripture says, *by the name
 of Christ*, it means, that we are to bring nothing, pretend nothing of
 our own, but lean entirely on the recommendation of Christ. Thus Paul,
 after declaring that “God was in Christ reconciling the world unto
 himself, not imputing their trespasses unto them,” immediately adds the
 reason and the method, “For he has made him to be sin for us who knew no
 sin,” (<span id="iv.iii.v-p101.1"></span>[2 Cor.
-5:19](../../../bib/kjv/co2005.htm#019),
-[20](../../../bib/kjv/co2005.htm#020)<span
+5:19](../../../bib/kjv/co2005.htm#019.md),
+[20](../../../bib/kjv/co2005.htm#020.md)<span
 id="iv.iii.v-p101.1"></span>).
 
 <span id="iv.iii.v-p102"></span>26. But with their usual perverseness,
@@ -1298,7 +1298,7 @@ the plainest terms, in the writings not of one or two, but of the whole
 Schoolmen. Their master (Sent. Lib. 3, Dist. 9), after acknowledging,
 according to the doctrine of Peter, that Christ “bare our sins in his
 own body on the tree,” (<span id="iv.iii.v-p102.1"></span>[1 Pet.
-2:24](../../../bib/kjv/pe1002.htm#024)<span
+2:24](../../../bib/kjv/pe1002.htm#024.md)<span
 id="iv.iii.v-p102.1"></span>), immediately modifies the doctrine by
 introducing the exception, that in baptism all the temporal penalties of
 sin are relaxed; but that after baptism they are lessened by means of
@@ -1308,9 +1308,9 @@ advocate with the Father, Jesus Christ the righteous; and he is the
 propitiation for our sins.” “I write unto you, little children, because
 your sins are forgiven you for his name’s sake,” (<span
 id="iv.iii.v-p102.2"></span>[1 John
-2:1](../../../bib/kjv/jo1002.htm#001),
-[2](../../../bib/kjv/jo1002.htm#002),
-[12](../../../bib/kjv/jo1002.htm#012)<span
+2:1](../../../bib/kjv/jo1002.htm#001.md),
+[2](../../../bib/kjv/jo1002.htm#002.md),
+[12](../../../bib/kjv/jo1002.htm#012.md)<span
 id="iv.iii.v-p102.2"></span>). He certainly is addressing believers, and
 while setting forth Christ as the propitiation for sins, shows them that
 there is no other satisfaction by which an offended God can be
@@ -1320,7 +1320,7 @@ who always, by his intercession, reinstates us in his Fathered favour—a
 perpetual propitiation by which sins are expiated. For what was said by
 another John will ever hold true, “Behold the Lamb of God, which taketh
 away the sins of the world,” (<span id="iv.iii.v-p102.3"></span>[John
-1:29](../../../bib/kjv/joh001.htm#029)<span
+1:29](../../../bib/kjv/joh001.htm#029.md)<span
 id="iv.iii.v-p102.3"></span>). He, I say, took them away, and no other;
 that is, since he alone is the Lamb of God, he alone is the offering for
 our sins; he alone is expiation; he alone is satisfaction. For though
@@ -1338,18 +1338,18 @@ unimpaired, and that the conscience, assured of the pardon of sin, may
 have peace with God. Isaiah says that the Farther “has laid on him the
 iniquity of us all;” that “with his stripes we are healed,” (<span
 id="iv.iii.v-p103.1"></span>[Isa.
-53:5](../../../bib/kjv/isa053.htm#005),
-[6](../../../bib/kjv/isa053.htm#006)<span id="iv.iii.v-p103.1"></span>).
+53:5](../../../bib/kjv/isa053.htm#005.md),
+[6](../../../bib/kjv/isa053.htm#006)<span id="iv.iii.v-p103.1"></span>.md).
 Peter repeating the same thing, in other words says, that he “bare our
 sins in his own body on the tree,” (<span id="iv.iii.v-p103.2"></span>[1
-Pet. 2:24](../../../bib/kjv/pe1002.htm#024)<span
+Pet. 2:24](../../../bib/kjv/pe1002.htm#024.md)<span
 id="iv.iii.v-p103.2"></span>). Paul’s words are, “God sending his own
 Son in the likeness of sinful flesh, and for sin condemned sin in the
 flesh,” “being made a curse for us,” (<span
 id="iv.iii.v-p103.3"></span>[Rom.
-8:3](../../../bib/kjv/rom008.htm#003)<span id="iv.iii.v-p103.3"></span>;
+8:3](../../../bib/kjv/rom008.htm#003.md)<span id="iv.iii.v-p103.3"></span>;
 <span id="iv.iii.v-p103.4"></span>[Gal.
-3:13](../../../bib/kjv/gal003.htm#013)<span
+3:13](../../../bib/kjv/gal003.htm#013.md)<span
 id="iv.iii.v-p103.4"></span>); in other words, the power and curse of
 sin was destroyed in his flesh when he was offered as a sacrifice, on
 which the whole weight of our sins was laid, with their curse and
@@ -1377,12 +1377,12 @@ satisfaction, still what will they do while they are overwhelmed with so
 many sins that not even a hundred lives, though wholly devoted to the
 purpose, could suffice to satisfy for them? We may add, that all the
 passages in which the forgiveness of sins is declared refer not only to
-catechumens,36  <span id="fr_355"></span>[356](#fn_355) but to the
+catechumens,36  <span id="fr_355"></span>[356](#fn_355.md) but to the
 regenerate children of God; to those who have long been nursed in the
 bosom of the Church. That embassy which Paul so highly extols, “we pray
 you in Christ’s stead, be ye reconciled to God,” (<span
 id="iv.iii.v-p104.1"></span>[2 Cor.
-5:20](../../../bib/kjv/co2005.htm#020)<span
+5:20](../../../bib/kjv/co2005.htm#020.md)<span
 id="iv.iii.v-p104.1"></span>), is not directed to strangers, but to
 those who had been regenerated long before. Setting satisfactions
 altogether aside, he directs us to the cross of Christ. Thus when he
@@ -1392,7 +1392,7 @@ restrict it to the moment at which we are received into the Church but
 extends it to our whole course. This is plain from the context, where he
 says that in him “we have redemption by his blood, even the forgiveness
 of sins,” (<span id="iv.iii.v-p104.2"></span>[Col.
-1:14](../../../bib/kjv/col001.htm#014)<span
+1:14](../../../bib/kjv/col001.htm#014.md)<span
 id="iv.iii.v-p104.2"></span>). It is needless to collect more passages,
 as they are ever occurring.
 
@@ -1401,17 +1401,17 @@ distinction that some sins are *venial* and others *mortal*; that for
 the latter a weighty satisfaction is due, but that the former are purged
 by easier remedies; by the Lord’s Prayer, the sprinkling of holy water,
 and the absolution of the Mass. Thus they insult and trifle with God.36
- <span id="fr_356"></span>[357](#fn_356) And yet, though they have the
+ <span id="fr_356"></span>[357](#fn_356.md) And yet, though they have the
 terms venial and mortal sin continually in their mouth, they have not
 yet been able to distinguish the one from the other, except by making
-impiety and impurity of heart36  <span id="fr_357"></span>[358](#fn_357)
+impiety and impurity of heart36  <span id="fr_357"></span>[358](#fn_357.md)
 to be venial sin. We, on the contrary, taught by the Scripture standard
 of righteousness and unrighteousness, declare that “the wages of sin is
 death;” and that “the soul that sinneth, it shall die,” (<span
 id="iv.iii.v-p107.1"></span>[Rom.
-6:23](../../../bib/kjv/rom006.htm#023)<span
+6:23](../../../bib/kjv/rom006.htm#023.md)<span
 id="iv.iii.v-p107.1"></span>; <span id="iv.iii.v-p107.2"></span>[Ezek.
-18:20](../../../bib/kjv/eze018.htm#020)<span
+18:20](../../../bib/kjv/eze018.htm#020.md)<span
 id="iv.iii.v-p107.2"></span>). The sins of believers are venial, not
 because they do not merit death, but because by the mercy of God there
 is “now no condemnation to those which are in Christ Jesus” their sin
@@ -1429,7 +1429,7 @@ satisfaction for one sin requires one day, while preparing it they
 involve themselves in more sins; since no man, however righteous, passes
 one day without falling repeatedly. While they prepare themselves for
 their satisfactions, number, or rather numbers without number, will be
-added.36  <span id="fr_358"></span>[359](#fn_358) Confidence in
+added.36  <span id="fr_358"></span>[359](#fn_358.md) Confidence in
 satisfaction being thus destroyed, what more would they have? How do
 they still dare to think of satisfying?
 
@@ -1450,21 +1450,21 @@ writhe even the tip of their tail: “Behold, the days come, saith the
 Lord, that I will make a new covenant with the house of Israel, and with
 the house of Judah.” “I will forgive their iniquity, and I will remember
 their sin no more,” (<span id="iv.iii.v-p109.1"></span>[Jer.
-31:31](../../../bib/kjv/jer031.htm#031),
-[34](../../../bib/kjv/jer031.htm#034)<span
+31:31](../../../bib/kjv/jer031.htm#031.md),
+[34](../../../bib/kjv/jer031.htm#034.md)<span
 id="iv.iii.v-p109.1"></span>). What this means we learn from another
 Prophet, when the Lord says, “When the righteous turneth away from his
 righteousness” “all his righteousness that he has done shall not be
 mentioned.” “Again, when the wicked man turneth away from his wickedness
 that he has committed, and does that which is lawful and right, he shall
 save his soul alive,” (<span id="iv.iii.v-p109.2"></span>[Ezek.
-18:24](../../../bib/kjv/eze018.htm#024),
-[27](../../../bib/kjv/eze018.htm#027)<span
+18:24](../../../bib/kjv/eze018.htm#024.md),
+[27](../../../bib/kjv/eze018.htm#027.md)<span
 id="iv.iii.v-p109.2"></span>). When he declares that he will not
 remember righteousness, the meaning is, that he will take no account of
 it to reward it. In the same way, not to remember sins is not to bring
 them to punishment. The same thing is denoted in other passages,36
- <span id="fr_359"></span>[360](#fn_359) by casting them behind his
+ <span id="fr_359"></span>[360](#fn_359.md) by casting them behind his
 back, blotting them out as a cloud, casting them into the depths of the
 sea, not imputing them, hiding them. By such forms of expression the
 Holy Spirit has explained his meaning not obscurely, if we would lend a
@@ -1480,24 +1480,24 @@ to take knowledge of them, he rather willed to pardon them. Why then did
 he say that sins were hid? Just that they might not be seen. What is
 meant by God seeing sins but punishing them?” (August. in <span
 id="iv.iii.v-p110.3"></span>[Ps.
-32:1](../../../bib/kjv/psa032.htm#001)<span
+32:1](../../../bib/kjv/psa032.htm#001.md)<span
 id="iv.iii.v-p110.3"></span>). But let us hear from another prophetical
 passage on what terms the Lord forgives sins: “Though your sins be as
 scarlet, they shall be white as snow; though they be red like crimson,
 they shall be as wool,” (<span id="iv.iii.v-p110.4"></span>[Isa.
-1:18](../../../bib/kjv/isa001.htm#018)<span
+1:18](../../../bib/kjv/isa001.htm#018.md)<span
 id="iv.iii.v-p110.4"></span>). In Jeremiah again we read: “In those
 days, and in that time, saith the Lord, the iniquity of Israel shall be
 sought for, and there shall be none; and the sins of Judah, they shall
 not be found: for I will pardon them whom I reserve,” (<span
 id="iv.iii.v-p110.5"></span>[Jer.
-50:20](../../../bib/kjv/jer050.htm#020)<span
+50:20](../../../bib/kjv/jer050.htm#020.md)<span
 id="iv.iii.v-p110.5"></span>). Would you briefly comprehend the meaning
 of these words? Consider what, on the contrary, is meant by these
 expressions, “that transgression is sealed up in a bag;” “that the
 iniquity of Ephraim is bound up; his sin is hid;” that “the sin of Judah
 is written with a pen of iron, and with the point of a diamond.”36
- <span id="fr_360"></span>[361](#fn_360) If they mean, as they certainly
+ <span id="fr_360"></span>[361](#fn_360.md) If they mean, as they certainly
 do, that vengeance will be recompensed, there can be no doubt that, by
 the contrary passages, the Lord declares that he renounces all thought
 of vengeance. Here I must entreat the reader not to listen to any
@@ -1507,23 +1507,23 @@ glosses of mine, but only to give some deference to the word of God.
 us if the punishment of sin is still exacted? For when we say that he
 “bare our sins in his own body on the tree,” (<span
 id="iv.iii.v-p112.1"></span>[1 Pet.
-2:24](../../../bib/kjv/pe1002.htm#024)<span
+2:24](../../../bib/kjv/pe1002.htm#024.md)<span
 id="iv.iii.v-p112.1"></span>), all we mean is, that he endured the
 penalty and punishment which was due to our sins. This is more
 significantly declared by Isaiah, when he says that the “chastisement
 (or correction) of our peace was upon him,” (<span
 id="iv.iii.v-p112.2"></span>[Isaiah
-53:5](../../../bib/kjv/isa053.htm#005)<span
+53:5](../../../bib/kjv/isa053.htm#005.md)<span
 id="iv.iii.v-p112.2"></span>). But what is the correction of our peace,
 unless it be the punishment due to our sins, and to be paid by us before
 we could be reconciled to God, had he not become our substitute? Thus
 you clearly see that Christ bore the punishment of sin that he might
 thereby exempt his people from it. And whenever Paul makes mention of
 the redemption procured by him,36  <span
-id="fr_361"></span>[362](#fn_361) he calls it ἀπολύτροσις, by which he
+id="fr_361"></span>[362](#fn_361.md) he calls it ἀπολύτροσις, by which he
 does not simply mean *redemption*, as it is commonly understood, but the
 very *price* and satisfaction of redemption.36  <span
-id="fr_362"></span>[363](#fn_362) For which reason, he also says, that
+id="fr_362"></span>[363](#fn_362.md) For which reason, he also says, that
 Christ gave himself an ἀντίλυτρον (ransom) for us. “What is propitiation
 with the Lord (says Augustine) but sacrifice? And what is sacrifice but
 that which was offered for us in the death of Christ?” But we have our
@@ -1543,9 +1543,9 @@ you words, and turn to the Lord: say unto him, Take away all iniquity,
 and receive us graciously,” here is remission: “so will we render the
 calves of our lips,” here is satisfaction (<span
 id="iv.iii.v-p114.1"></span>[Hos.
-14:2](../../../bib/kjv/hos014.htm#002)<span
+14:2](../../../bib/kjv/hos014.htm#002.md)<span
 id="iv.iii.v-p114.1"></span>). I know that they have still a more
-subtile evasion,37  <span id="fr_363"></span>[364](#fn_363) by making a
+subtile evasion,37  <span id="fr_363"></span>[364](#fn_363.md) by making a
 distinction between eternal and temporal punishment; but as they define
 temporal punishment to be any kind of infliction with which God visits
 either the body or the soul, eternal death only excepted, this
@@ -1560,7 +1560,7 @@ them. Assuredly, when the Lord declares in Ezekiel, that he will put an
 end to the Babylonish captivity, not “for your sakes, O house of Israel,
 but for mine holy name’s sake,” (<span
 id="iv.iii.v-p115.1"></span>[Ezek.
-36:22](../../../bib/kjv/eze036.htm#022)<span
+36:22](../../../bib/kjv/eze036.htm#022.md)<span
 id="iv.iii.v-p115.1"></span>), he sufficiently demonstrates that both
 are gratuitous. In short, if we are freed from guilt by Christ, the
 punishment consequent upon guilt must cease with it.
@@ -1571,30 +1571,30 @@ employ. David, they say, when upbraided by Nathan the Prophet for
 adultery and murder, receives pardon of the sin, and yet by the death of
 the son born of adultery is afterwards punished (<span
 id="iv.iii.v-p116.1"></span>[2 Sam.
-12:13](../../../bib/kjv/sa2012.htm#013),
-[14](../../../bib/kjv/sa2012.htm#014)<span
+12:13](../../../bib/kjv/sa2012.htm#013.md),
+[14](../../../bib/kjv/sa2012.htm#014.md)<span
 id="iv.iii.v-p116.1"></span>). Such punishments which were to be
 inflicted after the remission of the guilt, we are taught to ransom by
 satisfactions. For Daniel exhorted Nebuchadnezzar: “Break off thy sins
 by righteousness, and thine iniquities by showing mercy to the poor,”
 (<span id="iv.iii.v-p116.2"></span>[Dan.
-4:27](../../../bib/kjv/dan004.htm#027)<span
+4:27](../../../bib/kjv/dan004.htm#027.md)<span
 id="iv.iii.v-p116.2"></span>). And Solomon says, “by mercy and truth
 iniquity is purged” (<span id="iv.iii.v-p116.3"></span>[Prov.
-16:6](../../../bib/kjv/pro016.htm#006)<span
+16:6](../../../bib/kjv/pro016.htm#006.md)<span
 id="iv.iii.v-p116.3"></span>); and again, “love covereth all sins,”
 (<span id="iv.iii.v-p116.4"></span>[Prov.
-10:12](../../../bib/kjv/pro010.htm#012)<span
+10:12](../../../bib/kjv/pro010.htm#012.md)<span
 id="iv.iii.v-p116.4"></span>). This sentiment is confirmed by Peter
 (<span id="iv.iii.v-p116.5"></span>[1 Pet.
-4:8](../../../bib/kjv/pe1004.htm#008)<span
+4:8](../../../bib/kjv/pe1004.htm#008.md)<span
 id="iv.iii.v-p116.5"></span>). Also in Luke, our Lord says of the woman
 that was a sinner, “Her sins, which are many, are forgiven; for she
 loved much,” (<span id="iv.iii.v-p116.6"></span>[Luke
-7:47](../../../bib/kjv/luk007.htm#047)<span
+7:47](../../../bib/kjv/luk007.htm#047.md)<span
 id="iv.iii.v-p116.6"></span>). How perverse and preposterous the
 judgment they ever form of the doings of God!37  <span
-id="fr_364"></span>[365](#fn_364) Had they observed, what certainly they
+id="fr_364"></span>[365](#fn_364.md) Had they observed, what certainly they
 ought not to have overlooked, that there are two kinds of divine
 judgment, they would have seen in the correction of David a very
 different form of punishment from that which must be thought designed
@@ -1628,7 +1628,7 @@ infliction is designed to avenge, then the curse and wrath of God
 displays itself. This is never the case with believers. On the contrary,
 the chastening of God carries his blessing with it, and is an evidence
 of love, as Scripture teaches.37  <span
-id="fr_365"></span>[366](#fn_365) This distinction is plainly marked
+id="fr_365"></span>[366](#fn_365.md) This distinction is plainly marked
 throughout the word of God. All the calamities which the wicked suffer
 in the present life are depicted to us as a kind of anticipation of the
 punishment of hell. In these they already see, as from a distance, their
@@ -1637,11 +1637,11 @@ or deriving any benefit, that by such preludes they are rather prepared
 for the fearful doom which finally awaits them. The Lord chastens his
 servants sore, but does not give them over unto death (<span
 id="iv.iii.v-p119.4"></span>[Ps.
-118:18](../../../bib/kjv/psa118.htm#018)<span
+118:18](../../../bib/kjv/psa118.htm#018.md)<span
 id="iv.iii.v-p119.4"></span>). When afflicted, they acknowledge it is
 good for them, that they may learn his statutes (<span
 id="iv.iii.v-p119.5"></span>[Ps.
-119:71](../../../bib/kjv/psa119.htm#071)<span
+119:71](../../../bib/kjv/psa119.htm#071.md)<span
 id="iv.iii.v-p119.5"></span>). But as we everywhere read that the saints
 received their chastisements with placid mind, so inflictions of the
 latter kind they always most earnestly deprecated. “O Lord, correct me,”
@@ -1649,28 +1649,28 @@ says Jeremiah, “but with judgment; not in thine anger, lest thou bring
 me to nothing. Pour out thy furry upon the heathen that know thee not,
 and upon the families that call not on thy name,” (<span
 id="iv.iii.v-p119.6"></span>[Jer.
-10:24-25](../../../bib/kjv/jer010.htm#024)<span
+10:24-25](../../../bib/kjv/jer010.htm#024.md)<span
 id="iv.iii.v-p119.6"></span>). David says “O Lord, rebuke me not in
 thine anger, neither chasten me in thy hot displeasure” (<span
 id="iv.iii.v-p119.7"></span>[Ps.
-6:1](../../../bib/kjv/psa006.htm#001)<span
+6:1](../../../bib/kjv/psa006.htm#001.md)<span
 id="iv.iii.v-p119.7"></span>). There is nothing inconsistent with this
 in its being repeatedly said, that the Lord is angry with his saints
 when he chastens them for their sins (<span
 id="iv.iii.v-p119.8"></span>[Ps.
-38:7](../../../bib/kjv/psa038.htm#007)<span
+38:7](../../../bib/kjv/psa038.htm#007.md)<span
 id="iv.iii.v-p119.8"></span>). In like manner, in Isaiah, “And in that
 day thou shalt say, O Lord, I will praise thee: though thou west angry
 with me, thine anger is turned away, and thou comfortedst me,” (<span
 id="iv.iii.v-p119.9"></span>[Isa.
-12:1](../../../bib/kjv/isa012.htm#001)<span
+12:1](../../../bib/kjv/isa012.htm#001.md)<span
 id="iv.iii.v-p119.9"></span>). Likewise in Habakkuk, “In wrath remember
 mercy,” (<span id="iv.iii.v-p119.10"></span>[Hab.
-3:2](../../../bib/kjv/hab003.htm#002)<span
+3:2](../../../bib/kjv/hab003.htm#002.md)<span
 id="iv.iii.v-p119.10"></span>); and in Micah, “I will bear the
 indignation of the Lord, because I have sinned against him,” (<span
 id="iv.iii.v-p119.11"></span>[Mic.
-7:9](../../../bib/kjv/mic007.htm#009)<span
+7:9](../../../bib/kjv/mic007.htm#009.md)<span
 id="iv.iii.v-p119.11"></span>). Here we are reminded not only that those
 who are justly punished gain nothing by murmuring, but that believers
 obtain a mitigation of their pain by reflecting on the divine intention.
@@ -1686,19 +1686,19 @@ themselves for their sins, may be more careful in their desires to
 appease God, and anxiously hasten to seek his pardon; still, at this
 very time, he gives clearer evidence of his mercy than of his anger. For
 He who cannot deceive has declared, that the covenant made with us in
-our true Solomon37  <span id="fr_366"></span>[367](#fn_366) stands fast
+our true Solomon37  <span id="fr_366"></span>[367](#fn_366.md) stands fast
 and will never be broken, “If his children forsake my law, and walk not
 in my judgments; if they break my statutes, and keep not my
 commandments; then will I visit their transgressions with the rod, and
 their iniquity with stripes. Nevertheless, my loving-kindness will I not
 utterly take from him, nor suffer my faithfulness to fail,” (<span
 id="iv.iii.v-p120.1"></span>[Ps.
-89:31-34](../../../bib/kjv/psa089.htm#031)<span
+89:31-34](../../../bib/kjv/psa089.htm#031.md)<span
 id="iv.iii.v-p120.1"></span>). To assure us of this mercy, he says, that
 the *rod* with which he will chastise the posterity of Solomon will be
 the “rod of men,” and “the stripes of the children of men,” (<span
 id="iv.iii.v-p120.2"></span>[2 Sam.
-7:14](../../../bib/kjv/sa2007.htm#014)<span
+7:14](../../../bib/kjv/sa2007.htm#014.md)<span
 id="iv.iii.v-p120.2"></span>). While by these terms he denotes
 moderation and levity, he, at the same time, intimates, that those who
 feel the hand of God opposed to them cannot but tremble and be
@@ -1706,16 +1706,16 @@ confounded. How much regard he has to this levity in chastening his
 Israel he shows by the Prophet, “Behold, I have refined thee, but not
 with silver; I have chosen thee in the furnace of affliction,” (<span
 id="iv.iii.v-p120.3"></span>[Isa.
-48:10](../../../bib/kjv/isa048.htm#010)<span
+48:10](../../../bib/kjv/isa048.htm#010.md)<span
 id="iv.iii.v-p120.3"></span>). Although he tells them that they are
 chastisements with a view to purification, he adds, that even these are
 so tempered, that they are not to be too much crushed by them. And this
 is very necessary, for the more a man reveres God, and devotes himself
 to the cultivation of piety, the more tender he is in bearing his anger
 (<span id="iv.iii.v-p120.4"></span>[Ps.
-90:11](../../../bib/kjv/psa090.htm#011)<span
+90:11](../../../bib/kjv/psa090.htm#011.md)<span
 id="iv.iii.v-p120.4"></span>; and ibid. Calv). The reprobate, though
-they groan under the lash,37  <span id="fr_367"></span>[368](#fn_367)
+they groan under the lash,37  <span id="fr_367"></span>[368](#fn_367.md)
 yet because they weigh not the true cause, but rather turn their back,
 as well upon their sins as upon the divine judgment, become hardened in
 their stupor; or, because they murmur and kick, and so rebel against
@@ -1745,7 +1745,7 @@ away from the inheritance. Know, brethren, that the whole of that misery
 of the human race, under which the world groans, is a medicinal pain,
 not a penal sentence,” (August. in <span
 id="iv.iii.v-p122.1"></span>[Psal.
-102](../../../bib/kjv/psa102.htm#000)<span id="iv.iii.v-p122.1"></span>,
+102](../../../bib/kjv/psa102.htm#000.md)<span id="iv.iii.v-p122.1"></span>,
 circa finem). It seemed proper to quote these passages, lest any one
 should think the mode of expression which I have used to be novel or
 uncommon. To the same effect are the indignant terms in which the Lord
@@ -1753,21 +1753,21 @@ expostulates with his people, for their ingratitude in obstinately
 despising all his inflictions. In Isaiah he says, “Why should ye be
 stricken any more? ye will revolt more and more. The whole head is sick
 and the whole heart faint,” (<span id="iv.iii.v-p122.2"></span>[Isa.
-1:5](../../../bib/kjv/isa001.htm#005),
-[6](../../../bib/kjv/isa001.htm#006)<span id="iv.iii.v-p122.2"></span>).
+1:5](../../../bib/kjv/isa001.htm#005.md),
+[6](../../../bib/kjv/isa001.htm#006)<span id="iv.iii.v-p122.2"></span>.md).
 But as such passages abound in the Prophets, it is sufficient briefly to
 have shown, that the only purpose of God in punishing his Church is to
 subdue her to repentance. Thus, when he rejected Saul from the kingdoms
 he punished in vengeance (<span id="iv.iii.v-p122.3"></span>[1 Sam.
-15:23](../../../bib/kjv/sa1015.htm#023)<span
+15:23](../../../bib/kjv/sa1015.htm#023.md)<span
 id="iv.iii.v-p122.3"></span>); when he deprived David of his child, he
 chastised for amendment (<span id="iv.iii.v-p122.4"></span>[2 Sam.
-12:18](../../../bib/kjv/sa2012.htm#018)<span
+12:18](../../../bib/kjv/sa2012.htm#018.md)<span
 id="iv.iii.v-p122.4"></span>). In this sense Paul is to be understood
 when he says, “When we are judged, we are chastened of the Lord, that we
 should not be condemned with the world,” (<span
 id="iv.iii.v-p122.5"></span>[1 Cor.
-11:32](../../../bib/kjv/co1011.htm#032)<span
+11:32](../../../bib/kjv/co1011.htm#032.md)<span
 id="iv.iii.v-p122.5"></span>); that is, while we as sons of God are
 afflicted by our heavenly Father’s hand, it is not punishment to
 confound, but only chastisement to train us. On this subject Augustine
@@ -1782,7 +1782,7 @@ passage in Isaiah, in which it is said, “Speak ye comfortably to
 Jerusalem, and cry unto her, that her warfare is accomplished that her
 iniquity is pardoned; for she has received of the Lord’s hands double
 for all her sins,” (<span id="iv.iii.v-p122.6"></span>[Isa.
-40:2](../../../bib/kjv/isa040.htm#002)<span
+40:2](../../../bib/kjv/isa040.htm#002.md)<span
 id="iv.iii.v-p122.6"></span>), proves not that the pardon of sin depends
 on freedom from punishment. It is just as if he had said, Sufficient
 punishment has now been exacted; as for their number and heinousness you
@@ -1796,9 +1796,9 @@ to us, towards his son.
 the believer ought to be provided in the bitterness of affliction, “The
 time is come that judgment must begin at the house of God,” “the city
 which is called by my name,” (<span id="iv.iii.v-p123.1"></span>[1 Pet.
-4:17](../../../bib/kjv/pe1004.htm#017)<span
+4:17](../../../bib/kjv/pe1004.htm#017.md)<span
 id="iv.iii.v-p123.1"></span>; <span id="iv.iii.v-p123.2"></span>[Jer.
-25:29](../../../bib/kjv/jer025.htm#029)<span
+25:29](../../../bib/kjv/jer025.htm#029.md)<span
 id="iv.iii.v-p123.2"></span>). What could the sons of God do, if they
 thought that the severity which they feel was vengeance? He who, smitten
 by the hand of God, thinks that God is a judge inflicting punishment,
@@ -1815,15 +1815,15 @@ by thy wrath we are troubled. Thou hast set our iniquities before thee,
 our secret sins in the light of thy countenance. For all our days are
 passed away in thy wrath; we spend our years as a tale that is told,”
 (<span id="iv.iii.v-p123.3"></span>[Ps.
-90:7-9](../../../bib/kjv/psa090.htm#007)<span
+90:7-9](../../../bib/kjv/psa090.htm#007.md)<span
 id="iv.iii.v-p123.3"></span>). On the other hand, David speaking of
 fatherly chastisements, to show how believers are more assisted than
 oppressed by them, thus sings “Blessed is the man whom thou chastenest,
 O Lord, and teachest him out of thy law; that thou mayest give him rest
 from the days of adversity, until the pit be digged for the wicked,”
 (<span id="iv.iii.v-p123.4"></span>[Ps.
-94:12](../../../bib/kjv/psa094.htm#012),
-[13](../../../bib/kjv/psa094.htm#013)<span
+94:12](../../../bib/kjv/psa094.htm#012.md),
+[13](../../../bib/kjv/psa094.htm#013.md)<span
 id="iv.iii.v-p123.4"></span>). It is certainly a sore temptation, when
 God, sparing unbelievers and overlooking their crimes, appears more
 rigid towards his own people. Hence, to solace them, he adds the
@@ -1866,10 +1866,10 @@ Accordingly, when he wishes to show that he is not excessive in exacting
 punishment, he upbraids a hard hearted and obstinate people, because,
 after being smitten, they still continued in sin (<span
 id="iv.iii.v-p124.1"></span>[Jer.
-5:3](../../../bib/kjv/jer005.htm#003)<span
+5:3](../../../bib/kjv/jer005.htm#003.md)<span
 id="iv.iii.v-p124.1"></span>). In the same sense he complains, that
 “Ephraim is a cake not turned” (<span id="iv.iii.v-p124.2"></span>[Hos.
-7:8](../../../bib/kjv/hos007.htm#008)<span
+7:8](../../../bib/kjv/hos007.htm#008.md)<span
 id="iv.iii.v-p124.2"></span>), because chastisement did not make a due
 impression on their minds, and, correcting their vices, make them fit to
 receive pardon. Surely he who thus speaks shows, that as soon as any one
@@ -1884,15 +1884,15 @@ the one example of David, and are not moved by the many examples in
 which they might have beheld the free forgiveness of sins. The publican
 is said to have gone down from the temple justified (<span
 id="iv.iii.v-p124.3"></span>[Luke
-18:14](../../../bib/kjv/luk018.htm#014)<span
+18:14](../../../bib/kjv/luk018.htm#014.md)<span
 id="iv.iii.v-p124.3"></span>); no punishment follows. Peter obtained the
 pardon of his sin (<span id="iv.iii.v-p124.4"></span>[Luke
-22:61](../../../bib/kjv/luk022.htm#061)<span
+22:61](../../../bib/kjv/luk022.htm#061.md)<span
 id="iv.iii.v-p124.4"></span>). “We read of his tears,” says Ambrose
 (Serm. 46, De Poenit. Petri), “we read not of satisfaction.” To the
 paralytic it is said, “Son, be of good cheer; thy sina be forgiven
 thee,” (<span id="iv.iii.v-p124.5"></span>[Mt.
-9:2](../../../bib/kjv/mat009.htm#002)<span
+9:2](../../../bib/kjv/mat009.htm#002.md)<span
 id="iv.iii.v-p124.5"></span>); no penance is enjoined. All the acts of
 forgiveness mentioned in Scripture are gratuitous. The rule ought to be
 drawn from these numerous examples, rather than from one example which
@@ -1901,7 +1901,7 @@ contains a kind of specialty.
 <span id="iv.iii.v-p125"></span>36. Daniel, in exhorting Nebuchadnezzar
 to break off his sins by righteousness, and his iniquities by showing
 mercy to the poor (<span id="iv.iii.v-p125.1"></span>[Dan.
-4:27](../../../bib/kjv/dan004.htm#027)<span
+4:27](../../../bib/kjv/dan004.htm#027.md)<span
 id="iv.iii.v-p125.1"></span>), meant not to intimate, that righteousness
 and mercy are able to propitiate God and redeem from punishment (far be
 it from us to suppose that there ever was any other ἀπολύτροσις
@@ -1914,7 +1914,7 @@ oppression, now practice mercy and justice. In like manner, Solomon
 says, that love covers a multitude of sins; not, however, with God, but
 among men. For the whole verse stands thus, “Hatred stirreth up strifes;
 but love covereth all sins,” (<span id="iv.iii.v-p125.2"></span>[Prov.
-10:12](../../../bib/kjv/pro010.htm#012)<span
+10:12](../../../bib/kjv/pro010.htm#012.md)<span
 id="iv.iii.v-p125.2"></span>). Here, after his manner, he contrasts the
 evils produced by hatred with the fruits of charity, in this sense,
 Those who hate are incessantly biting, carping at, upbraiding,
@@ -1923,12 +1923,12 @@ mutually conceal each other’s faults, wink at many, forgive many: not
 that the one approves the vices of the other, but tolerates and cures by
 admonishing, rather than exasperates by assailing. That the passage is
 quoted by Peter (<span id="iv.iii.v-p125.3"></span>[1 Pet.
-4:8](../../../bib/kjv/pe1004.htm#008)<span id="iv.iii.v-p125.3"></span>)
+4:8](../../../bib/kjv/pe1004.htm#008)<span id="iv.iii.v-p125.3"></span>.md)
 in the same sense we cannot doubt, unless we would charge him with
 corrupting or craftily wresting Scripture. When it is said, that “by
 mercy and truth iniquity is purged,” (<span
 id="iv.iii.v-p125.4"></span>[Prov.
-16:6](../../../bib/kjv/pro016.htm#006)<span
+16:6](../../../bib/kjv/pro016.htm#006.md)<span
 id="iv.iii.v-p125.4"></span>), the meaning is, not that by them
 compensation is made to the Lord, so that he being thus satisfied remits
 the punishment which he would otherwise have exacted; but intimation is
@@ -1940,11 +1940,11 @@ indeed, it is not the cause of pardon that is described, but rather the
 mode of true conversion; just as the Prophets frequently declare, that
 it is in vain for hypocrites to offer God fictitious rites instead of
 repentance, seeing his delight is in integrity and the duties of
-charity.37  <span id="fr_368"></span>[369](#fn_368) In like manner,
+charity.37  <span id="fr_368"></span>[369](#fn_368.md) In like manner,
 also, the author of the Epistle to the Hebrews, commending kindness and
 humanity, reminds us, that “with such sacrifices God is well pleased,”
 (<span id="iv.iii.v-p126.1"></span>[Heb.
-13:16](../../../bib/kjv/heb013.htm#016)<span
+13:16](../../../bib/kjv/heb013.htm#016.md)<span
 id="iv.iii.v-p126.1"></span>). And indeed when Christ, rebuking the
 Pharisees because, intent merely on the outside of the cup and platter,
 they neglected purity of heart, enjoins them, in order that they may be
@@ -1952,14 +1952,14 @@ clean in all respects, to give alms, does he exhort them to give
 satisfaction thereby? He only tells them what the kind of purity is
 which God requires. Of this mode of expression we have treated elsewhere
 (<span id="iv.iii.v-p126.2"></span>[Mt.
-23:25](../../../bib/kjv/mat023.htm#025)<span
+23:25](../../../bib/kjv/mat023.htm#025.md)<span
 id="iv.iii.v-p126.2"></span>; <span id="iv.iii.v-p126.3"></span>[Luke
-11:39-41](../../../bib/kjv/luk011.htm#039)<span
+11:39-41](../../../bib/kjv/luk011.htm#039.md)<span
 id="iv.iii.v-p126.3"></span>; see Calv. In Harm. Evang).
 
 <span id="iv.iii.v-p127"></span>37. In regard to the passage in Luke
 (<span id="iv.iii.v-p127.1"></span>[Luke
-7:36](../../../bib/kjv/luk007.htm#036)<span
+7:36](../../../bib/kjv/luk007.htm#036.md)<span
 id="iv.iii.v-p127.1"></span>, sq). no man of sober judgment, who reads
 the parable there employed by our Lord, will raise any controversy with
 us. The Pharisee thought that the Lord did not know the character of the
@@ -2000,7 +2000,7 @@ interrogation ceases; when mercy is asked, judgment rages not; when
 mercy is sought, there is no room for punishment; where there is mercy,
 no question is asked; where there is mercy, the answer gives pardon,”
 (Chrysos. Hom. 2 in <span id="iv.iii.v-p128.1"></span>[Psal.
-50](../../../bib/kjv/psa050.htm#000)<span id="iv.iii.v-p128.1"></span>).
+50](../../../bib/kjv/psa050.htm#000)<span id="iv.iii.v-p128.1"></span>.md).
 How much soever these words may be twisted, they can never be reconciled
 with the dogmas of the Schoolmen. In the book *De Dogmatibus
 Ecclesiasticis*, which is attributed to Augustine, you read (cap. 54),
@@ -2020,7 +2020,7 @@ sacrifice for sins—not only for those which are all effaced in baptism,
 but those into which we are afterwards betrayed through infirmity, and
 because of which the whole Church daily cries, ‘Forgive us our debts,’
 (<span id="iv.iii.v-p128.2"></span>[Mt.
-6:12](../../../bib/kjv/mat006.htm#012)<span
+6:12](../../../bib/kjv/mat006.htm#012.md)<span
 id="iv.iii.v-p128.2"></span>). And they are forgiven by that special
 sacrifice.”
 
@@ -2034,7 +2034,7 @@ the heart, weary of their former life, or rather might obliterate the
 remembrance of their past deeds: in this way they were said to give
 satisfaction, not to God, but to the Church. The same thing is expressed
 by Augustine in a passage in his Enchiridion ad Laurentium, cap. 65.37
- <span id="fr_369"></span>[370](#fn_369) From that ancient custom the
+ <span id="fr_369"></span>[370](#fn_369.md) From that ancient custom the
 satisfactions and confessions now in use took their rise. It is indeed a
 viperish progeny, not even a vestige of the better form now remaining. I
 know that ancient writers sometimes speak harshly; nor do I deny, as I
@@ -2059,7 +2059,7 @@ mysteries; but as my object is to give useful instruction, I desist.
 
 ### Footnotes
 
-<span id="fn_321"></span>[322](inst057.htm#fr_321) <span
+<span id="fn_321"></span>[322](inst057.htm#fr_321.md) <span
 id="iv.iii.v-p43.1"></span>
 
 <span id="iv.iii.v-p44"></span>28 328 The first definition is that of
@@ -2069,33 +2069,33 @@ de Pœnitentia C. Pœnit. Prior. The third is Augustine’s, as stated in
 the same place, and C. Pœnit Poster. The fourth is from Ambrose, and is
 given Dist. 1, de Pœnit C. Vera Pœitentia.
 
-<span id="fn_322"></span>[323](inst057.htm#fr_322) <span
+<span id="fn_322"></span>[323](inst057.htm#fr_322.md) <span
 id="iv.iii.v-p44.1"></span>
 
 <span id="iv.iii.v-p45"></span>29 329 French “Ces bons
 glosateurs;”—these worthy glossers.
 
-<span id="fn_323"></span>[324](inst057.htm#fr_323) <span
+<span id="fn_323"></span>[324](inst057.htm#fr_323.md) <span
 id="iv.iii.v-p45.1"></span>
 
 <span id="iv.iii.v-p46"></span>30 330 Latin, “Immensis
 voluminibus.”—French, “Leur gros bobulaire de livres;”—their large
 lumbering books.
 
-<span id="fn_324"></span>[325](inst057.htm#fr_324) <span
+<span id="fn_324"></span>[325](inst057.htm#fr_324.md) <span
 id="iv.iii.v-p46.1"></span>
 
 <span id="iv.iii.v-p47"></span>31 331 Latin, “Mirum silentium.”—French,
 “Il n’en est nulles nouuelles en leur quartier;”—there are no news in
 their quarter.
 
-<span id="fn_325"></span>[326](inst057.htm#fr_325) <span
+<span id="fn_325"></span>[326](inst057.htm#fr_325.md) <span
 id="iv.iii.v-p47.1"></span>
 
 <span id="iv.iii.v-p48"></span>32 332 Sent. Lib. 4 Dist. 16, cap. 1; De
 pœnit. Dist. 1; C. Perfecta Pœnit.
 
-<span id="fn_326"></span>[327](inst057.htm#fr_326) <span
+<span id="fn_326"></span>[327](inst057.htm#fr_326.md) <span
 id="iv.iii.v-p48.1"></span>
 
 <span id="iv.iii.v-p49"></span>33 333 French, “Combien qu’ils
@@ -2104,7 +2104,7 @@ l’art de definir et partir;”—although they study nought else during
 their whole life but Dialectics, which is the art of defining and
 dividing.
 
-<span id="fn_327"></span>[328](inst057.htm#fr_327) <span
+<span id="fn_327"></span>[328](inst057.htm#fr_327.md) <span
 id="iv.iii.v-p49.1"></span>
 
 <span id="iv.iii.v-p50"></span>34 334 Latin, “Secundam tabulam post
@@ -2113,37 +2113,37 @@ pour perir en lar mer, nage pour venir au port;”—a second plank on which
 he who was on the point of perishing in the sea swims to gain the
 harbour.
 
-<span id="fn_328"></span>[329](inst057.htm#fr_328) <span
+<span id="fn_328"></span>[329](inst057.htm#fr_328.md) <span
 id="iv.iii.v-p51.1"></span>
 
 <span id="iv.iii.v-p52"></span>35 335 Latin, “De saini umbra
 rixam.”—French, “En un combat frivole;”—engaged in a frivolous combat.
 
-<span id="fn_329"></span>[330](inst057.htm#fr_329) <span
+<span id="fn_329"></span>[330](inst057.htm#fr_329.md) <span
 id="iv.iii.v-p52.1"></span>
 
 <span id="iv.iii.v-p53"></span>36 336 Luther (adv. Bullam Antichristi,
 Art. 6) shows that those who set down these three parts of repentance,
 speak neither according to Scripture nor the ancient Fathers.
 
-<span id="fn_330"></span>[331](inst057.htm#fr_330) <span
+<span id="fn_330"></span>[331](inst057.htm#fr_330.md) <span
 id="iv.iii.v-p53.2"></span>
 
 <span id="iv.iii.v-p54"></span>37 337 French, “Nous tournerons toujours
 en un même circuit”—we shall always revolve in the same circle.
 
-<span id="fn_331"></span>[332](inst057.htm#fr_331) <span
+<span id="fn_331"></span>[332](inst057.htm#fr_331.md) <span
 id="iv.iii.v-p55.1"></span>
 
 <span id="iv.iii.v-p56"></span>38 338 <span
 id="iv.iii.v-p56.1"></span>[Mt.
-11:28](../../../bib/kjv/mat011.htm#028)<span
+11:28](../../../bib/kjv/mat011.htm#028.md)<span
 id="iv.iii.v-p56.1"></span>; <span id="iv.iii.v-p56.2"></span>[Is.
-59:1](../../../bib/kjv/isa059.htm#001)<span id="iv.iii.v-p56.2"></span>;
+59:1](../../../bib/kjv/isa059.htm#001.md)<span id="iv.iii.v-p56.2"></span>;
 <span id="iv.iii.v-p56.3"></span>[Luke
-4:18](../../../bib/kjv/luk004.htm#018)<span id="iv.iii.v-p56.3"></span>.
+4:18](../../../bib/kjv/luk004.htm#018.md)<span id="iv.iii.v-p56.3"></span>.
 
-<span id="fn_332"></span>[333](inst057.htm#fr_332) <span
+<span id="fn_332"></span>[333](inst057.htm#fr_332.md) <span
 id="iv.iii.v-p57.1"></span>
 
 <span id="iv.iii.v-p58"></span>39 339 Erasmus, in a letter to the
@@ -2151,14 +2151,14 @@ Augustine Steuchus in 1531, while flattering, at the same time laughs at
 him, for thinking that the fifth chapter of Numbers sufficiently proves,
 in opposition to Luther, that auricular confession is of God.
 
-<span id="fn_333"></span>[334](inst057.htm#fr_333) <span
+<span id="fn_333"></span>[334](inst057.htm#fr_333.md) <span
 id="iv.iii.v-p58.3"></span>
 
 <span id="iv.iii.v-p59"></span>40 340 French, “N’est ce pas bien se
 jouer des Escritures, de les tourner en ceste facon?”—is it not indeed
 to make game of Scripture, to turn it in this fashion?
 
-<span id="fn_334"></span>[335](inst057.htm#fr_334) <span
+<span id="fn_334"></span>[335](inst057.htm#fr_334.md) <span
 id="iv.iii.v-p59.5"></span>
 
 <span id="iv.iii.v-p60"></span>41 341 The French is, “Car ce que Jesus
@@ -2166,19 +2166,19 @@ Christ laisse aux Prestres de la loy, n’appartient en rien à ses vrais
 ministres;”—for that which Jesus Christ leaves to the Priests, belongs
 not in any respect to his true ministers.
 
-<span id="fn_335"></span>[336](inst057.htm#fr_335) <span
+<span id="fn_335"></span>[336](inst057.htm#fr_335.md) <span
 id="iv.iii.v-p61.2"></span>
 
 <span id="iv.iii.v-p62"></span>42 342 French, “Qu’ils voisent
 maintenant, et facent un bouclier de leur allegories;”—let them go now
 and make a buckler of their allegories,
 
-<span id="fn_336"></span>[337](inst057.htm#fr_336) <span
+<span id="fn_336"></span>[337](inst057.htm#fr_336.md) <span
 id="iv.iii.v-p63.1"></span>
 
 <span id="iv.iii.v-p64"></span>43 343 Augustin. Epist. 54.
 
-<span id="fn_337"></span>[338](inst057.htm#fr_337) <span
+<span id="fn_337"></span>[338](inst057.htm#fr_337.md) <span
 id="iv.iii.v-p65.1"></span>
 
 <span id="iv.iii.v-p66"></span>44 344 French, “Quoy que tous les
@@ -2186,43 +2186,43 @@ advocats et procureurs du Pape, et tous les caphars qu’il a à louage
 gazouillent:”—whatever all the advocates and procurators of the Pope,
 and all the caphars whom he has in his pay may gabble.
 
-<span id="fn_338"></span>[339](inst057.htm#fr_338) <span
+<span id="fn_338"></span>[339](inst057.htm#fr_338.md) <span
 id="iv.iii.v-p66.1"></span>
 
 <span id="iv.iii.v-p67"></span>45 345 The French adds, “l’un des auteurs
 de l’Histoire Ecclesiastique;”—one of the authors of the Ecclesiastical
 History.
 
-<span id="fn_339"></span>[340](inst057.htm#fr_339) <span
+<span id="fn_339"></span>[340](inst057.htm#fr_339.md) <span
 id="iv.iii.v-p67.1"></span>
 
 <span id="iv.iii.v-p68"></span>46 346 Eccles Hist. Lib. 7 cap. 17, et
 Trepont. Hist. Lib. ix.
 
-<span id="fn_340"></span>[341](inst057.htm#fr_340) <span
+<span id="fn_340"></span>[341](inst057.htm#fr_340.md) <span
 id="iv.iii.v-p69.1"></span>
 
 <span id="iv.iii.v-p70"></span>47 347 Chrysost. Hom. 2 in <span
 id="iv.iii.v-p70.1"></span>[Psal.
-1](../../../bib/kjv/psa001.htm#000)<span
+1](../../../bib/kjv/psa001.htm#000.md)<span
 id="iv.iii.v-p70.1"></span>.Serm. de pœnit. et Confess. Hom. 5 De
 Incomprehensibili Dei. Nat. cont. Anomeos. Item, Hom. 4 de Lazaro.
 
-<span id="fn_341"></span>[342](inst057.htm#fr_341) <span
+<span id="fn_341"></span>[342](inst057.htm#fr_341.md) <span
 id="iv.iii.v-p71.1"></span>
 
 <span id="iv.iii.v-p72"></span>48 348 Latin, “Vetus interpres.”—French,
 “Le translateur tant Grec qui Latin;”—the Greek as well as Latin
 translator.
 
-<span id="fn_342"></span>[343](inst057.htm#fr_342) <span
+<span id="fn_342"></span>[343](inst057.htm#fr_342.md) <span
 id="iv.iii.v-p77.1"></span>
 
 <span id="iv.iii.v-p78"></span>49 349 As to the form of repentance
 enjoined by the primitive Church for more flagrant offences, see Book 4
 Chap 1 sec. 29.
 
-<span id="fn_343"></span>[344](inst057.htm#fr_343) <span
+<span id="fn_343"></span>[344](inst057.htm#fr_343.md) <span
 id="iv.iii.v-p78.3"></span>
 
 <span id="iv.iii.v-p79"></span>50 350 The French is, “Et que le Pasteur
@@ -2231,7 +2231,7 @@ particulier la doctrine generale;”—and when the Pastor, addressing his
 discourse to him, assures him as applying the general doctrine to him in
 particular.
 
-<span id="fn_344"></span>[345](inst057.htm#fr_344) <span
+<span id="fn_344"></span>[345](inst057.htm#fr_344.md) <span
 id="iv.iii.v-p80.1"></span>
 
 <span id="iv.iii.v-p81"></span>51 351 “C Omnis utriusque sexus;”—every
@@ -2239,7 +2239,7 @@ one of both sexes. Innocent’s decree is in the Lateran Council, De Summa
 Trinitate et Fide Cathol. It is also given Sent. Lib. 4 Dist. 14, cap.
 2, et Dist. 18. cap 2.
 
-<span id="fn_345"></span>[346](inst057.htm#fr_345) <span
+<span id="fn_345"></span>[346](inst057.htm#fr_345.md) <span
 id="iv.iii.v-p84.1"></span>
 
 <span id="iv.iii.v-p85"></span>52 352 The French is, “Mais comme les
@@ -2252,7 +2252,7 @@ pilgrim, weary or faint, sits down in the middle of the way to rest
 himself: in this way they took this rest, though it was not sufficient
 for them.
 
-<span id="fn_346"></span>[347](inst057.htm#fr_346) <span
+<span id="fn_346"></span>[347](inst057.htm#fr_346.md) <span
 id="iv.iii.v-p85.3"></span>
 
 <span id="iv.iii.v-p86"></span>53 353 “Tous ceux que nous lisons avoir
@@ -2261,21 +2261,21 @@ confessés à l’aureille de quelque Messire Jean;”—None of whom we read as
 having obtained the forgiveness of their sins from Christ, are said to
 have confessed in the ear of some Mess John.
 
-<span id="fn_347"></span>[348](inst057.htm#fr_347) <span
+<span id="fn_347"></span>[348](inst057.htm#fr_347.md) <span
 id="iv.iii.v-p91.1"></span>
 
 <span id="iv.iii.v-p92"></span>54 354 Latin simply, “ceremoniam.”
 French, “la ceremonie de faire une croix sur le dos;”—the ceremony of
 making a cross upon the back
 
-<span id="fn_348"></span>[349](inst057.htm#fr_348) <span
+<span id="fn_348"></span>[349](inst057.htm#fr_348.md) <span
 id="iv.iii.v-p92.1"></span>
 
 <span id="iv.iii.v-p93"></span>55 355 French, “Car cela vaut autant
 comme si les prestres se faisoyent conterolleurs de Dieu;”—for that is
 as much as if the priests made themselves controllers of God.
 
-<span id="fn_349"></span>[350](inst057.htm#fr_349) <span
+<span id="fn_349"></span>[350](inst057.htm#fr_349.md) <span
 id="iv.iii.v-p94.1"></span>
 
 <span id="iv.iii.v-p95"></span>56 356 See on the subject of this
@@ -2283,13 +2283,13 @@ section, Calv. ad Concil. Trident. Also Vera Ecclesiæ Reformandæ Ratio,
 Epist. ad Sadoletum. Epist. adversus Theologos Parisienses. De
 Scandalis. De Necessitate Reformandæ Ecclesiæ, Lib. 4.
 
-<span id="fn_350"></span>[351](inst057.htm#fr_350) <span
+<span id="fn_350"></span>[351](inst057.htm#fr_350.md) <span
 id="iv.iii.v-p95.1"></span>
 
 <span id="iv.iii.v-p96"></span>57 357 French, “une barbarie si vileine
 que rien plus;”—a barbarism so vile that nothing could be more so.
 
-<span id="fn_351"></span>[352](inst057.htm#fr_351) <span
+<span id="fn_351"></span>[352](inst057.htm#fr_351.md) <span
 id="iv.iii.v-p97.1"></span>
 
 <span id="iv.iii.v-p98"></span>58 358 See Lombard, Sent. Lib. 4 Dist 10,
@@ -2297,25 +2297,25 @@ c. 4. C. Non suffcit. de Pœnit. C. (middle of same Dist.) C. Nullus
 (same Dist). See also on the subject of satisfaction, infra, s. 29, and
 chap. 16 sec. 4.
 
-<span id="fn_352"></span>[353](inst057.htm#fr_352) <span
+<span id="fn_352"></span>[353](inst057.htm#fr_352.md) <span
 id="iv.iii.v-p98.1"></span>
 
 <span id="iv.iii.v-p99"></span>59 359 The French adds, “aumosnes;”—alms.
 
-<span id="fn_353"></span>[354](inst057.htm#fr_353) <span
+<span id="fn_353"></span>[354](inst057.htm#fr_353.md) <span
 id="iv.iii.v-p99.1"></span>
 
 <span id="iv.iii.v-p100"></span>60 360 <span
 id="iv.iii.v-p100.1"></span>[Isa.
-3:3](../../../bib/kjv/isa003.htm#003)<span id="iv.iii.v-p100.1"></span>;
+3:3](../../../bib/kjv/isa003.htm#003.md)<span id="iv.iii.v-p100.1"></span>;
 <span id="iv.iii.v-p100.2"></span>[Rom.
-5:8](../../../bib/kjv/rom005.htm#008)<span id="iv.iii.v-p100.2"></span>;
+5:8](../../../bib/kjv/rom005.htm#008.md)<span id="iv.iii.v-p100.2"></span>;
 <span id="iv.iii.v-p100.3"></span>[Col.
-2:14](../../../bib/kjv/col002.htm#014)<span
+2:14](../../../bib/kjv/col002.htm#014.md)<span
 id="iv.iii.v-p100.3"></span>; <span id="iv.iii.v-p100.4"></span>[Tit.
-3:5](../../../bib/kjv/tit003.htm#005)<span id="iv.iii.v-p100.4"></span>.
+3:5](../../../bib/kjv/tit003.htm#005.md)<span id="iv.iii.v-p100.4"></span>.
 
-<span id="fn_354"></span>[355](inst057.htm#fr_354) <span
+<span id="fn_354"></span>[355](inst057.htm#fr_354.md) <span
 id="iv.iii.v-p100.6"></span>
 
 <span id="iv.iii.v-p101"></span>61 361 The French is, “Et ne faut pas
@@ -2324,27 +2324,27 @@ neantmoins ce n’est pas en leur nom, mais au nom de Jesus Christ;”—and
 they must not say that though satisfactions are the means, nevertheless
 it is not in their name, but in the name of Jesus Christ.
 
-<span id="fn_355"></span>[356](inst057.htm#fr_355) <span
+<span id="fn_355"></span>[356](inst057.htm#fr_355.md) <span
 id="iv.iii.v-p103.5"></span>
 
 <span id="iv.iii.v-p104"></span>62 362 Latin, “Catechumenos.”—French,
 “Ceux qui ne sont point encore baptisez;”—those who are not yet
 baptised.
 
-<span id="fn_356"></span>[357](inst057.htm#fr_356) <span
+<span id="fn_356"></span>[357](inst057.htm#fr_356.md) <span
 id="iv.iii.v-p105.1"></span>
 
 <span id="iv.iii.v-p106"></span>63 363 See on this Section, Book 2 chap
 8 s 58, 59.
 
-<span id="fn_357"></span>[358](inst057.htm#fr_357) <span
+<span id="fn_357"></span>[358](inst057.htm#fr_357.md) <span
 id="iv.iii.v-p106.1"></span>
 
 <span id="iv.iii.v-p107"></span>64 364 The French adds, “Qui est le plus
 horrible peché devant Dieu;”—which is the most heinous sin in the sight
 of God.
 
-<span id="fn_358"></span>[359](inst057.htm#fr_358) <span
+<span id="fn_358"></span>[359](inst057.htm#fr_358.md) <span
 id="iv.iii.v-p107.3"></span>
 
 <span id="iv.iii.v-p108"></span>65 365 French, “Et quand ils voudront
@@ -2353,93 +2353,93 @@ venir à un abysme sans fin. Je traite encore des plus justes;”—And when
 they would satisfy for several sins, they will commit still more, until
 they come at last to a bottomless abyss. I’m still speaking of the best.
 
-<span id="fn_359"></span>[360](inst057.htm#fr_359) <span
+<span id="fn_359"></span>[360](inst057.htm#fr_359.md) <span
 id="iv.iii.v-p109.3"></span>
 
 <span id="iv.iii.v-p110"></span>66 366 <span
 id="iv.iii.v-p110.1"></span>[Isa
-38:17](../../../bib/kjv/isa038.htm#017)<span
+38:17](../../../bib/kjv/isa038.htm#017.md)<span
 id="iv.iii.v-p110.1"></span>; Isa44:22; <span
 id="iv.iii.v-p110.2"></span>[Micah
-7:19](../../../bib/kjv/mic007.htm#019)<span
+7:19](../../../bib/kjv/mic007.htm#019.md)<span
 id="iv.iii.v-p110.2"></span>; PS 32:1&gt;Ps. 32:1
 
-<span id="fn_360"></span>[361](inst057.htm#fr_360) <span
+<span id="fn_360"></span>[361](inst057.htm#fr_360.md) <span
 id="iv.iii.v-p110.6"></span>
 
 <span id="iv.iii.v-p111"></span>67 367 <span
 id="iv.iii.v-p111.1"></span>[Job
-14:17](../../../bib/kjv/job014.htm#017)<span
+14:17](../../../bib/kjv/job014.htm#017.md)<span
 id="iv.iii.v-p111.1"></span>; <span id="iv.iii.v-p111.2"></span>[Hos.
-13:12](../../../bib/kjv/hos013.htm#012)<span
+13:12](../../../bib/kjv/hos013.htm#012.md)<span
 id="iv.iii.v-p111.2"></span>; <span id="iv.iii.v-p111.3"></span>[Jer.
-22:1](../../../bib/kjv/jer022.htm#001)<span id="iv.iii.v-p111.3"></span>
+22:1](../../../bib/kjv/jer022.htm#001.md)<span id="iv.iii.v-p111.3"></span>
 
-<span id="fn_361"></span>[362](inst057.htm#fr_361) <span
+<span id="fn_361"></span>[362](inst057.htm#fr_361.md) <span
 id="iv.iii.v-p112.3"></span>
 
 <span id="iv.iii.v-p113"></span>68 368 <span
 id="iv.iii.v-p113.1"></span>[Rom
-3:24](../../../bib/kjv/rom003.htm#024)<span
+3:24](../../../bib/kjv/rom003.htm#024.md)<span
 id="iv.iii.v-p113.1"></span>; <span id="iv.iii.v-p113.2"></span>[1Cor.
-1:30](../../../bib/kjv/co1001.htm#030)<span
+1:30](../../../bib/kjv/co1001.htm#030.md)<span
 id="iv.iii.v-p113.2"></span>; <span id="iv.iii.v-p113.3"></span>[Eph.
-1:7](../../../bib/kjv/eph001.htm#007)<span id="iv.iii.v-p113.3"></span>;
+1:7](../../../bib/kjv/eph001.htm#007.md)<span id="iv.iii.v-p113.3"></span>;
 <span id="iv.iii.v-p113.4"></span>[Col.
-1:14](../../../bib/kjv/col001.htm#014)<span
+1:14](../../../bib/kjv/col001.htm#014.md)<span
 id="iv.iii.v-p113.4"></span>; Tim 2:6
 
-<span id="fn_362"></span>[363](inst057.htm#fr_362) <span
+<span id="fn_362"></span>[363](inst057.htm#fr_362.md) <span
 id="iv.iii.v-p113.5"></span>
 
 <span id="iv.iii.v-p114"></span>69 369 The French adds, “Que nous
 appellons Rancon en Francois;”—which we call Ransom in French.
 
-<span id="fn_363"></span>[364](inst057.htm#fr_363) <span
+<span id="fn_363"></span>[364](inst057.htm#fr_363.md) <span
 id="iv.iii.v-p114.2"></span>
 
 <span id="iv.iii.v-p115"></span>70 370 See Calvin, ad Concil.
 Tridentini, Sess. cap. 1. ad 15
 
-<span id="fn_364"></span>[365](inst057.htm#fr_364) <span
+<span id="fn_364"></span>[365](inst057.htm#fr_364.md) <span
 id="iv.iii.v-p116.7"></span>
 
 <span id="iv.iii.v-p117"></span>71 371 For a full expositon of these
 passages, see infra, sec. 35-37.
 
-<span id="fn_365"></span>[366](inst057.htm#fr_365) <span
+<span id="fn_365"></span>[366](inst057.htm#fr_365.md) <span
 id="iv.iii.v-p118.1"></span>
 
 <span id="iv.iii.v-p119"></span>72 372 <span
 id="iv.iii.v-p119.1"></span>[Job
-5:17](../../../bib/kjv/job005.htm#017)<span
+5:17](../../../bib/kjv/job005.htm#017.md)<span
 id="iv.iii.v-p119.1"></span>; <span id="iv.iii.v-p119.2"></span>[Prov.
-3:11](../../../bib/kjv/pro003.htm#011)<span
+3:11](../../../bib/kjv/pro003.htm#011.md)<span
 id="iv.iii.v-p119.2"></span>; <span id="iv.iii.v-p119.3"></span>[Heb.
-12:5](../../../bib/kjv/heb012.htm#005)<span id="iv.iii.v-p119.3"></span>
+12:5](../../../bib/kjv/heb012.htm#005.md)<span id="iv.iii.v-p119.3"></span>
 
-<span id="fn_366"></span>[367](inst057.htm#fr_366) <span
+<span id="fn_366"></span>[367](inst057.htm#fr_366.md) <span
 id="iv.iii.v-p119.12"></span>
 
 <span id="iv.iii.v-p120"></span>73 373 French, “Car l’alliance qu’il a
 une fois faite avec Jesus Christ et ses membres;”—For the covenant which
 he once made with Jesus Christ and his members.
 
-<span id="fn_367"></span>[368](inst057.htm#fr_367) <span
+<span id="fn_367"></span>[368](inst057.htm#fr_367.md) <span
 id="iv.iii.v-p120.5"></span>
 
 <span id="iv.iii.v-p121"></span>74 374 French, “Car combien les
 reprouvés souspirent ou grincent les dents sous les coups;”—For though
 the reprobate sigh or gnash their teeth under the strokes.
 
-<span id="fn_368"></span>[369](inst057.htm#fr_368) <span
+<span id="fn_368"></span>[369](inst057.htm#fr_368.md) <span
 id="iv.iii.v-p125.5"></span>
 
 <span id="iv.iii.v-p126"></span>75 375 French, “Integrité, pitié,
 droiture, et choses semblables;”—intregrity, pity, uprightness, and the
 like.
 
-<span id="fn_369"></span>[370](inst057.htm#fr_369) <span
+<span id="fn_369"></span>[370](inst057.htm#fr_369.md) <span
 id="iv.iii.v-p129.1"></span>
 
 <span id="iv.iii.v-p130"></span>76 376 It is quoted in the Decret. c. in
@@ -2448,4 +2448,4 @@ Art. de Pœnit. Dist. 1.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 5. - OF THE MODES OF SUPPLEMENTING SATISFACTIONVIZ.
-INDULGENCES AND PURGATORY.](inst058)
+INDULGENCES AND PURGATORY.](inst058.md)

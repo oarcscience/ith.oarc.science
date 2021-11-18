@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](gbt06)  [Next](gbt08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](gbt06)  [Next](gbt08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Textual Heritage
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE significance of the cards--Greater as well as Lesser Arcana--as it
 has been delivered through the ages, is often remarkably accurate, as
@@ -50,4 +50,4 @@ Papus, *W* for A. E. Waite, *M* for S. L. MacGregor Mathers.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Magician. Aries](gbt08)
+[Next: I. The Magician. Aries](gbt08.md)

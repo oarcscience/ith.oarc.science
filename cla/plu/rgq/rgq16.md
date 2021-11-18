@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](rgq15)  [Next](rgq17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](rgq15)  [Next](rgq17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roman and Greek Questions*, by Plutarch, tr. Frank Cole Babbitt,
 \[1936\], at Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ ground, whose shoots the grazing animals attack, cutting off the tops
 and injuring them and so spoiling the growth. But when these plants grow
 up and gain some size and escape injury from the flocks which graze upon
 them, then they are called "sheep-escapers." The evidence for this is
-Aeschylus. <span id="fr_282"></span>[a](#fn_282)
+Aeschylus. <span id="fr_282"></span>[a](#fn_282.md)
 
  
 
@@ -62,12 +62,12 @@ repulsed by slings."
 Delphians?
 
 The Delphians celebrate three festivals one after the other which occur
-every eight <span id="fr_283"></span>[b](#fn_283) years, the first of
+every eight <span id="fr_283"></span>[b](#fn_283.md) years, the first of
 which they call Septerion, the second Heroïs, and the third Charilla.
 
 Now the Septerion seems to be a representation of Apollo's fight with
 the Python and the flight to Tempê and pursuit that followed the
-battle. <span id="fr_284"></span>[b](#fn_283) Some indeed
+battle. <span id="fr_284"></span>[b](#fn_283.md) Some indeed
 
 <span id="page_186">p. 186</span> <span id="page_187">p. 187</span>
 
@@ -78,10 +78,10 @@ was only a little late for the monster's death; for he overtook him when
 he had just died from the effects of the wound and had been buried by
 his son, whose name, as they say, was Aix. The Septerion, then, is a
 representation of these matters or certain matters of a similar
-nature. <span id="fr_285"></span>[a](#fn_284)
+nature. <span id="fr_285"></span>[a](#fn_284.md)
 
 The greater part of the Heroïs has a secret import which the
-Thyiads <span id="fr_286"></span>[b](#fn_285) know; but from the
+Thyiads <span id="fr_286"></span>[b](#fn_285.md) know; but from the
 portions of the rites that are performed in public one might conjecture
 that it represents the evocation of Semelê.
 
@@ -119,11 +119,11 @@ the Aenianians?
 
 There have been several migrations of the Aenianians. For first, when
 they inhabited the region about the Dotian plain, they were expelled by
-the Lapiths to Aethicia. <span id="fr_287"></span>[a](#fn_286) From
+the Lapiths to Aethicia. <span id="fr_287"></span>[a](#fn_286.md) From
 there they proceeded to take possession of the region of Molossia about
 the river Auas, from which they received the name Parauaei. After this
 they took possession of Cirrha. There, when they had stoned to death
-Oenoclus, <span id="fr_288"></span>[a](#fn_286) their king, at the
+Oenoclus, <span id="fr_288"></span>[a](#fn_286.md) their king, at the
 command of the god, they descended to the country about the Inachus,
 which was inhabited by Inachians and Achaeans. Since an oracle had
 declared that if the Inachians gave away any part of their country, they
@@ -162,7 +162,7 @@ inhabitants of Ithaca and what is the *phagilos*?
 
 After the slaughter of the suitors the relatives of the dead men rose up
 against Odysseus; but Neoptolemus was sent for by both parties to act as
-arbiter. <span id="fr_289"></span>[a](#fn_287) He adjudged that Odysseus
+arbiter. <span id="fr_289"></span>[a](#fn_287.md) He adjudged that Odysseus
 should depart from the country and be exiled for homicide from
 Cephallenia, Zacynthus, and Ithaca; and that the
 
@@ -174,11 +174,11 @@ accordingly departed to Italy; but the recompense he formally
 transferred to his son, and ordered the inhabitants of Ithaca to pay it
 to him. The recompense consisted of barley, wine, honeycombs, olive-oil,
 salt, and beasts for sacrifice that were older than *phagiloi*;
-according to Aristotle's <span id="fr_290"></span>[a](#fn_288)
+according to Aristotle's <span id="fr_290"></span>[a](#fn_288.md)
 statement, a lamb is a *phagilos*. Now Telemachus bestowed freedom upon
 Eumaeus and his associates, and incorporated them among the citizens;
 and the clan of the Coliadae is descended from Eumaeus, and that of the
-Bucolidae from Philoetius. <span id="fr_291"></span>[b](#fn_289)
+Bucolidae from Philoetius. <span id="fr_291"></span>[b](#fn_289.md)
 
  
 
@@ -190,7 +190,7 @@ and Cabyê was Opus. His father quarrelled with Opus and taking many of
 the citizens with him he went to seek an oracle concerning a colony. The
 god told him to found a city where he should chance to be bitten by a
 wooden dog, and, as he was crossing to the other sea, he trod upon a
-dog-brier. <span id="fr_292"></span>[c](#fn_290) Greatly troubled by the
+dog-brier. <span id="fr_292"></span>[c](#fn_290.md) Greatly troubled by the
 wound, he spent several days there, during which he explored the country
 and founded the cities Physcus and Oeantheia and the other cities which
 the so-called Ozolian Locrians inhabited.
@@ -204,10 +204,10 @@ washed up
 by the sea and rotted away in the country of the Locrians. But some say
 that these men wear fleeces and goatskins and for the most part spend
 their time with herds of goats, and thus became evil-smelling. <span
-id="fr_293"></span>[a](#fn_291) But some, on the contrary, assert that,
+id="fr_293"></span>[a](#fn_291.md) But some, on the contrary, assert that,
 since the country has many flowers, it acquired its name from sweet
 odour. Among these is also Archytas <span
-id="fr_294"></span>[b](#fn_292) of Amphissa, for he has written thus:
+id="fr_294"></span>[b](#fn_292.md) of Amphissa, for he has written thus:
 
 <div style="margin-left: 32px">
 
@@ -262,13 +262,13 @@ also among his fellow-citizens.
  
 
 18\. <span class="smallcaps">What</span> is "return-interest"? <span
-id="fr_295"></span>[a](#fn_293)
+id="fr_295"></span>[a](#fn_293.md)
 
 When the Megarians had expelled Theagenes, <span
-id="fr_296"></span>[b](#fn_294) their despot, for a short time they were
+id="fr_296"></span>[b](#fn_294.md) their despot, for a short time they were
 sober and sensible in their government. But later when the popular
 leaders poured a full and heady draught of freedom for them, as
-Plato <span id="fr_297"></span>[c](#fn_295) says, they were completely
+Plato <span id="fr_297"></span>[c](#fn_295.md) says, they were completely
 corrupted and, among their shocking acts of misconduct toward the
 wealthy, the poor would enter their homes and insist upon being
 entertained and banqueted sumptuously. But if they did not receive what
@@ -300,7 +300,7 @@ the woman Eirenê who, as legend has it, was born of Poseidon and
 Melantheia, the daughter of the Alpheius. But later, when the companions
 of Anthus and Hypera settled there, they called the island Anthedonia
 and Hypereia. According to Aristotle <span
-id="fr_298"></span>[a](#fn_296) the oracle ran as follows:
+id="fr_298"></span>[a](#fn_296.md) the oracle ran as follows:
 
 <div style="margin-left: 32px">
 
@@ -330,52 +330,52 @@ in Anthedon.</span>
 
 ### Footnotes
 
-<span id="fn_282"></span>[185:a](rgq16.htm#fr_282) Nauck, *Trag. Graec.
+<span id="fn_282"></span>[185:a](rgq16.htm#fr_282.md) Nauck, *Trag. Graec.
 Frag.* p. 123, Aeschylus, Frag. 447.
 
-<span id="fn_283"></span>[185:b](rgq16.htm#fr_284) *Cf*. *Moralia*, 421
+<span id="fn_283"></span>[185:b](rgq16.htm#fr_284.md) *Cf*. *Moralia*, 421
 <span class="smallcaps">C</span>.
 
-<span id="fn_284"></span>[187:a](rgq16.htm#fr_285) <span
+<span id="fn_284"></span>[187:a](rgq16.htm#fr_285.md) <span
 id="page_186">p. 186</span> *Cf*. *Moralia*, 418 <span
 class="smallcaps">A–B</span>; Aelian, *Varia Historia*, iii. 1, for this
 festival.
 
-<span id="fn_285"></span>[187:b](rgq16.htm#fr_286) *Cf*. *Moralia*, 219
+<span id="fn_285"></span>[187:b](rgq16.htm#fr_286.md) *Cf*. *Moralia*, 219
 <span class="smallcaps">E–F</span>.
 
-<span id="fn_286"></span>[189:a](rgq16.htm#fr_288) *Cf*. 297 <span
+<span id="fn_286"></span>[189:a](rgq16.htm#fr_288.md) *Cf*. 297 <span
 class="smallcaps">B–C</span>, *infra*.
 
-<span id="fn_287"></span>[191:a](rgq16.htm#fr_289) *Cf*. Apollodorus,
+<span id="fn_287"></span>[191:a](rgq16.htm#fr_289.md) *Cf*. Apollodorus,
 *Epitome*, vii. 40.
 
-<span id="fn_288"></span>[193:a](rgq16.htm#fr_290) Frag. 507 (ed. V.
+<span id="fn_288"></span>[193:a](rgq16.htm#fr_290.md) Frag. 507 (ed. V.
 Rose).
 
-<span id="fn_289"></span>[193:b](rgq16.htm#fr_291) Eumaeus was the
+<span id="fn_289"></span>[193:b](rgq16.htm#fr_291.md) Eumaeus was the
 swineherd and Philoetius the cowherd of Odysseus.
 
-<span id="fn_290"></span>[193:c](rgq16.htm#fr_292) *Cf*. Athenaeus, 70
+<span id="fn_290"></span>[193:c](rgq16.htm#fr_292.md) *Cf*. Athenaeus, 70
 <span class="smallcaps">C–D</span>.
 
-<span id="fn_291"></span>[195:a](rgq16.htm#fr_293) *Cf*. Pausanias, x.
+<span id="fn_291"></span>[195:a](rgq16.htm#fr_293.md) *Cf*. Pausanias, x.
 38.
 
-<span id="fn_292"></span>[195:b](rgq16.htm#fr_294) "Powell, *Collectanea
+<span id="fn_292"></span>[195:b](rgq16.htm#fr_294.md) "Powell, *Collectanea
 Alexandrina*, p. 23.
 
-<span id="fn_293"></span>[197:a](rgq16.htm#fr_295) <span
+<span id="fn_293"></span>[197:a](rgq16.htm#fr_295.md) <span
 id="page_196">p. 196</span> *Cf*. 304 <span class="smallcaps">E</span>,
 *infra*.
 
-<span id="fn_294"></span>[197:b](rgq16.htm#fr_296) *Cf*. Thucydides, i.
+<span id="fn_294"></span>[197:b](rgq16.htm#fr_296.md) *Cf*. Thucydides, i.
 126.
 
-<span id="fn_295"></span>[197:c](rgq16.htm#fr_297) *Cf*. Plato,
+<span id="fn_295"></span>[197:c](rgq16.htm#fr_297.md) *Cf*. Plato,
 *Republic*, 562 <span class="smallcaps">D</span>.
 
-<span id="fn_296"></span>[199:a](rgq16.htm#fr_298) Frag. 597 (ed. V.
+<span id="fn_296"></span>[199:a](rgq16.htm#fr_298.md) Frag. 597 (ed. V.
 Rose); *cf*. Frag. 596 and Athenaeus, 31 <span
 class="smallcaps">B–C</span>.
 
@@ -383,6 +383,6 @@ class="smallcaps">B–C</span>.
 
 ------------------------------------------------------------------------
 
-[Next: 20-29.](rgq17)
+[Next: 20-29.](rgq17.md)
 
 </div>

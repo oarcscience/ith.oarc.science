@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml38)  [Next](yml40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml38)  [Next](yml40.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ There you have it, my fathers.
 
 ------------------------------------------------------------------------
 
-[Next: Maisoka and Hima'awikia](yml40)
+[Next: Maisoka and Hima'awikia](yml40.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap15) 
-[Next](chap17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap15.md) 
+[Next](chap17.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ longer a virgin, and has served the pleasures of other men.
 ------------------------------------------------------------------------
 
 [Next: Chapter 17: Prescriptions for Increasing the Dimensions of Small
-Members and for Making Them Splendid](chap17)
+Members and for Making Them Splendid](chap17.md)

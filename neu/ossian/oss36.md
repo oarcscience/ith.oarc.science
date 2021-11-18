@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss35)  [Next](oss37) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss35)  [Next](oss37.md) 
 
 ------------------------------------------------------------------------
 
@@ -339,4 +339,4 @@ cloud. The gray-skirted mist is near: the dwelling of the ghosts!
 
 ------------------------------------------------------------------------
 
-[Next: Book IV](oss37)
+[Next: Book IV](oss37.md)

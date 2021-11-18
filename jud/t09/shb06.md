@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](shb05)  [Next](shb07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](shb05)  [Next](shb07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -30,7 +30,7 @@ whether it comes from one's own mouth or from that of others, he is
 guilty so long as he denies it. But one is guilty for willful perjury
 and willful denial of the deposit when ignorant of the liability; not
 so, however, if he was mistaken concerning the oath only. And what is
-the fine attached to a willful oath? A [transgression](errata.htm#46)
+the fine attached to a willful oath? A [transgression](errata.htm#46.md)
 offering in the value of two shekkels. How does the oath concerning
 deposits take place? When one says: Give me my deposit that I have in
 your possession, and latter replies thereto: I swear you have nothing
@@ -167,7 +167,7 @@ one-fifth of it and bring a trespass-offering. (We see then that he is
 liable to a trespass-offering in any case)? This may be explained also
 as Rabina stated above--viz.: At the time he takes the oath the wives of
 the witnesses find themselves in agony, etc. (see above [p.
-67](#page_67)), but in case of simple witnesses no offering is
+67](#page_67).md), but in case of simple witnesses no offering is
 necessary. Said Rabina to R. Ashi: Come and hear: a depository oath is
 more rigorous, since for an intentional he is liable to stripes and for
 an unintentional to a trespass-offering in shekkels; now, stripes
@@ -181,7 +181,7 @@ that a trespass-offering must
 
 be brought, immaterial whether for an intentional or unintentional one.
 Finally, come and hear the following objection: In the discussion
-(above, [p. 69](#page_69)) concerning an inference *a fortiori* it is
+(above, [p. 69](#page_69).md) concerning an inference *a fortiori* it is
 stated that there is a difference regarding a Nazarite defiling himself,
 as he gets stripes, which is not the case with a depository oath; now, a
 Nazarite does not get stripes unless there were witnesses, and as it
@@ -328,4 +328,4 @@ etc. he must pay at all events.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI.](shb07)
+[Next: Chapter VI.](shb07.md)

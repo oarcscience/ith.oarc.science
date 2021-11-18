@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia27)  [Next](aia29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia27)  [Next](aia29.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,7 +143,7 @@ demands*?
 
 The lord of the ascendant and ☽ are the querent's significators, the
 lord of the 2d denotes his substance. <span
-id="fr_76"></span>[1](#fn_76)
+id="fr_76"></span>[1](#fn_76.md)
 
 The 7th and its lord denote the person of whom he means to ask the
 money, and the 8th and its lord, &c., his property. Observe whether the
@@ -194,7 +194,7 @@ will never gain what he desires.
 
 In this question be very careful to observe the planets' true essential
 dignities, and their mutual receptions, and by which of their mutual
-dignities they receive each other. <span id="fr_77"></span>[1](#fn_77)
+dignities they receive each other. <span id="fr_77"></span>[1](#fn_77.md)
 
 *Of the Time when the aforesaid Events treated of in this Chapter may
 happen*.
@@ -212,7 +212,7 @@ much time, instead of months say years, and of weeks say months, and of
 days say weeks, &c. And if one planet be in an angle, and the other in a
 succeedent house, they shall signify months; one succeedent, and the
 other cadent, they denote weeks; and when one be angular and the other
-cadent, months. <span id="fr_78"></span>[1](#fn_78)
+cadent, months. <span id="fr_78"></span>[1](#fn_78.md)
 
 Some of the ancients have said, that if, at the time of a question, the
 planet which signifies the perfection of the thing demanded be in the
@@ -223,7 +223,7 @@ But if the lord of the ascendant be the lighter planet, not without
 reception, unless they be in an angle when the conjunction hall be
 effected, or that the other planet be in one of his own houses,
 especially that which is termed his joy. <span
-id="fr_79"></span>[2](#fn_79)
+id="fr_79"></span>[2](#fn_79.md)
 
 I have observed that reception by house, though the aspect were a ☐, or
 even ☍, brings things to perfection; but that other receptions avail not
@@ -241,7 +241,7 @@ to the sign and quality of the business.
 <span id="img_fig06"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 6.](tn/fig06.jpg)  
-Click to enlarge](img/fig06.jpg)  
+Click to enlarge](img/fig06.jpg.md)  
 *Fig*. 6.  
 
 EXAMPLE.--A tradesman of *London*, in the year 1634, propounded the
@@ -273,10 +273,10 @@ judgment, that he should live in good rank and quality among his
 neighbours, &c. (*quoad capax*) according to his calling. Secondly,
 whether he should be rich or not? I considered that the lord of the 2d
 is in the ascendant, and being also lord of ⊕, is near *Spica Virgina*,
-in 18° ♎. <span id="fr_80"></span>[1](#fn_80) Then ♃ (a general
+in 18° ♎. <span id="fr_80"></span>[1](#fn_80.md) Then ♃ (a general
 significator of wealth) was in his exaltation and angular, casting his ☐
 to the cusp of the ascendant, which ☐ in signs of long ascension we
-usually repute a △. <span id="fr_81"></span>[2](#fn_81) Also, that ☽
+usually repute a △. <span id="fr_81"></span>[2](#fn_81.md) Also, that ☽
 separated from a ✶ of ♂, lord of the 2d, &c., significator of the thing
 demanded, and ☌ of ☿, and applied to ☌ ♀, the querent's significator;
 transferring the light and virtue of both ♂ and ♀, to the proper
@@ -337,47 +337,47 @@ him. The ☉, lord of the 11th, beholds ⊕ by ☐, as also the cusp of the
 2d; and as ☉ here signifies friends, I exhorted him to avoid confiding
 in solar men, though of much friendship with him. In all such cases
 describe the planet afflicting, and you give caution sufficient. <span
-id="fr_82"></span>[1](#fn_82)
+id="fr_82"></span>[1](#fn_82.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_76"></span>[116:1](aia28.htm#fr_76) When any planets are
+<span id="fn_76"></span>[116:1](aia28.htm#fr_76.md) When any planets are
 found in a house signifying anything, they may he taken as well as the
 lord of the house,
 
-<span id="fn_77"></span>[117:1](aia28.htm#fr_77) Reception by house is
+<span id="fn_77"></span>[117:1](aia28.htm#fr_77.md) Reception by house is
 the most powerful; then exaltation, triplicity,, and face: the latter is
 very weak.
 
-<span id="fn_78"></span>[118:1](aia28.htm#fr_78) There appears a species
+<span id="fn_78"></span>[118:1](aia28.htm#fr_78.md) There appears a species
 of confusion in this arrangement, which is the reverse of the usual
 system, of allowing angles to produce events quicker than cadents. We
 should advise the student to be careful in his experiments before he
 adopt it.
 
-<span id="fn_79"></span>[118:2](aia28.htm#fr_79)
+<span id="fn_79"></span>[118:2](aia28.htm#fr_79.md)
 
 *Joys of the Planets*:
 
 ♒, ♄; ♐, ♃; ♏, ♂; ♎, ♀; ♍, ☿. These are not usually not noticed by
 modern astrologers.
 
-<span id="fn_80"></span>[120:1](aia28.htm#fr_80) This star has now
+<span id="fn_80"></span>[120:1](aia28.htm#fr_80.md) This star has now
 advanced to 22° ♎.
 
-<span id="fn_81"></span>[120:2](aia28.htm#fr_81) Signs of long
+<span id="fn_81"></span>[120:2](aia28.htm#fr_81.md) Signs of long
 ascension, are ♋, ♌, ♍, ♎, ♏, ♐. Signs of short ascension, are ♑, ♒, ♓,
 ♈, ♉, ♊. In the former a ✶ is taken for a ☐, and a ☐ for a △; and in the
 latter, a ☐ is taken for a ✶, and a △ for a ☐. We advise the student to
 reject these distinctions, which only tend to create confusion.
 
-<span id="fn_82"></span>[122:1](aia28.htm#fr_82) The description of ☉ in
+<span id="fn_82"></span>[122:1](aia28.htm#fr_82.md) The description of ☉ in
 ♌, would herein answer the exact kind of persons who might injure the
 querent's property.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVI. Of the Third House, viz. of Brethren, Sisters,
-Kindred, News, Short Journeys, etc.](aia29)
+Kindred, News, Short Journeys, etc.](aia29.md)

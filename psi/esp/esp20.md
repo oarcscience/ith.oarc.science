@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp19)  [Next](esp21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp19)  [Next](esp21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -27,7 +27,7 @@ students
 <span id="page_147">p. 147</span>
 
 of parapsychology to do this, yet, so far as I know the literature,
-never experimentally. <span id="fr_95"></span>[1](#fn_95) Telepathy (or
+never experimentally. <span id="fr_95"></span>[1](#fn_95.md) Telepathy (or
 telepathy and clairvoyance) has been offered by students of the subject
 in England as an hypothetical explanation for phenomena representing
 themselves as of incorporeal origin; clairvoyance, expanded to include
@@ -75,7 +75,7 @@ have been independently demonstrated in 7 of the 8 and, since less than
 two months have elapsed since the discovery of the only subject (Zirkle)
 who cannot do both P.T. and P.C., we are not sure that he will not yet
 discover that he can do P.C. work also. <span
-id="fr_96"></span>[1](#fn_96)
+id="fr_96"></span>[1](#fn_96.md)
 
 Not only do the subjects possess both clairvoyant and telepathic
 capacity, but, what is more meaningful still, they score in both
@@ -85,7 +85,7 @@ averages per 25 for all subjects are remarkably close when we compare
 the P.C. and P.T. from the same periods of time (when that is possible).
 
 These score averages are assembled for comparison in [Table
-XLI](esp20.htm#an_tab41). In all cases where we have the data on both
+XLI](esp20.htm#an_tab41.md). In all cases where we have the data on both
 P.T. and P.C. for the same period, these alone are given. P.C. is made
 up of B.T. in these data; no D.T. results are used.
 
@@ -201,8 +201,8 @@ work as well under P.T. or P.C. conditions; *i.e.*, telepathically or
 clairvoyantly. But, as referring to distinct processes, there is
 probably no clairvoyance and no telepathy. There is just this mode of
 perceiving, extra-sensorially. The averages per 25 for the large totals
-in Table [XLI](esp20.htm#an_tab41) should especially be noted. Back in
-[Table XXIX](esp18.htm#an_tab39), where the P.C. and P.T. comparisons
+in Table [XLI](esp20.htm#an_tab41.md) should especially be noted. Back in
+[Table XXIX](esp18.htm#an_tab39.md), where the P.C. and P.T. comparisons
 were given for 4 major subjects, the average per 25 for
 
 <span id="page_149">p. 149</span>
@@ -225,8 +225,8 @@ success under the two conditions, P.T. and P.C., go up and down together
 exceptions—and these are clearly understandable as due to special
 discriminating factors in three out of the four instances. In the 8 days
 in which we have comparisons of P.C. and P.T. with Pearce (See [Table
-XXIII](esp14.htm#an_tab18) in Chapter 7), and in the 8 days of the same
-sort with Cooper ([Table XXIX](esp15.htm#an_tab29), Chapter 8) there are
+XXIII](esp14.htm#an_tab18) in Chapter 7.md), and in the 8 days of the same
+sort with Cooper ([Table XXIX](esp15.htm#an_tab29), Chapter 8.md) there are
 altogether 14 such fluctuations, and of these only 4 are exceptions to
 the rule that P.T. and P.C. go up and down together. This is all the
 better in view of the fact that the P.C. and P.T. were often hours apart
@@ -257,7 +257,7 @@ under the
 <span id="page_150">p. 150</span>
 
 influence of the factors affecting the work from day to day add further
-weight to the evidence of [Table XL](esp19.htm#an_tab40), all urging
+weight to the evidence of [Table XL](esp19.htm#an_tab40.md), all urging
 that we have here but two applications of the same perceptual function;
 that "telepathy" and "clairvoyance" are not merely separate processes
 changing together; that seven of our eight subjects did not just happen
@@ -301,7 +301,7 @@ several different hypotheses of the nature of P.C. and P.T., distance
 might distinguish between the two. Distance data eventually came in
 strikingly with P.T., which was taken up first. The evidence was highly
 satisfactory, when there was scoring above chance at all. (See [Table
-XXXVII](esp15.htm#an_tab37), Chapter 8, especially Miss Turner's
+XXXVII](esp15.htm#an_tab37.md), Chapter 8, especially Miss Turner's
 brilliant long-distance scores.) For some time then the P.C. at a
 distance was an unsettled point. But as I
 
@@ -444,7 +444,7 @@ they come in, and to establish the facts we work with, as we proceed.
 
 ### Footnotes
 
-<span id="fn_95"></span>[147:1](esp20.htm#fr_95) Prof. Hans Driesch, in
+<span id="fn_95"></span>[147:1](esp20.htm#fr_95.md) Prof. Hans Driesch, in
 a recent book *Psychical Research*, transl. by Th. Besterman (Bell,
 London, 1933), in which he gives a very interesting discussion of
 methods, problems and theories in the field, comes to the conclusion
@@ -456,7 +456,7 @@ fundamental must surely be settled rather by the results of experimental
 exploration, just as the questions of what are the fundamentals in
 physics can be settled only in the light of experimental evidence.
 
-<span id="fn_96"></span>[148:1](esp20.htm#fr_96) Two months later Zirkle
+<span id="fn_96"></span>[148:1](esp20.htm#fr_96.md) Two months later Zirkle
 was encouraged to try B.T. again and with a somewhat different approach.
 He succeeded very definitely in the 1,150 trials made during this later
 period. These yielded 368 successes or an average of 8.0 per 25. There
@@ -466,4 +466,4 @@ close to the B.T. average.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 14. Some General Biological Considerations](esp21)
+[Next: Chapter 14. Some General Biological Considerations](esp21.md)

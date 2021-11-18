@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm15)  [Next](bnm17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm15)  [Next](bnm17.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ punished for telling the truth. I will only repeat the words of others."
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The First Mockingbird.](bnm17)
+[Next: The Story Of The First Mockingbird.](bnm17.md)

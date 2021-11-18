@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac12)  [Next](ybac14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac12)  [Next](ybac14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ carved and bearing several lines of the characters they use, so worn
 away by the water as to be unreadable, although they are thought to be a
 monument of the foundation and destruction of the city. There are others
 like them at Zilán, a town on the coast, except that they are
-taller. <span id="fr_11"></span>[\*](#fn_11) The natives being asked
+taller. <span id="fr_11"></span>[\*](#fn_11.md) The natives being asked
 what they
 
 <span id="page_17">p. 17</span>
@@ -45,7 +45,7 @@ expedition to the Ulna country, which is beyond the city of Salamanca,
 on hearing of his father's death and the destruction of the city,
 returned in haste and gathered his relatives and vassals; they settled
 in a site which he called **Tibulon**, meaning 'we have been played
-with.' <span id="fr_12"></span>[†](#fn_12) They built many other towns
+with.' <span id="fr_12"></span>[†](#fn_12.md) They built many other towns
 in those forests, and many families have sprung from these Cocoms. The
 province where this chief ruled was called **Sututa**.
 
@@ -93,7 +93,7 @@ to take any game or fruits.
 
 ### Footnotes
 
-<span id="fn_11"></span>[16:\*](ybac13.htm#fr_11) The date at Mayapán
+<span id="fn_11"></span>[16:\*](ybac13.htm#fr_11.md) The date at Mayapán
 has been read as **katun 10 Ahau**, meaning that the event took place in
 the 20-year period preceding Oct. 7, 928, or else again in 1185 or 1441.
 It could hardly be the latter, since Mayapán had just previously been
@@ -101,7 +101,7 @@ destroyed, as correctly stated by Landa; if the earlier, it might easily
 record the foundation. The Zilán date reads **7 Muluc, 2 Kayab**,
 denoting 891, as most probable.
 
-<span id="fn_12"></span>[17:†](ybac13.htm#fr_12) Landa is in error here;
+<span id="fn_12"></span>[17:†](ybac13.htm#fr_12.md) Landa is in error here;
 the proper spelling as given in the 1579 Relations, is **Tibolon**, 'at
 the Nine,' as **Tiho**, the site of Merida, 'At the Five.' Also **ti-bul
 on** means only 'we rambled,' and not 'we were played with,' a
@@ -111,4 +111,4 @@ nouns, not verbal phrases like this.
 ------------------------------------------------------------------------
 
 [Next: X. Various Calamities Felt In Yucatan In the Period Before the
-Conquest By the Spaniards: Hurricane, Wars, etc.](ybac14)
+Conquest By the Spaniards: Hurricane, Wars, etc.](ybac14.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](ere01)  [Next](ere03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](ere01)  [Next](ere03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ June 9, 1872
 
 ------------------------------------------------------------------------
 
-[Next: Preface To The Revised Edition](ere03)
+[Next: Preface To The Revised Edition](ere03.md)

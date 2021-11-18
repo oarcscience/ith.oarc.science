@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](mcm10)  [Next](mcm12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](mcm10)  [Next](mcm12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Musings of a Chinese Mystic*, by Lionel Giles, \[1906\], at Intangible
 Textual Heritage
 
@@ -25,7 +25,7 @@ Textual Heritage
 ### PASSIVE VIRTUE
 
 <span class="smallcaps">Yen Hui</span> <span
-id="fr_19"></span>[1](#fn_19) went to take leave of Confucius.
+id="fr_19"></span>[1](#fn_19.md) went to take leave of Confucius.
 
 "Whither are you bound?" asked the master.
 
@@ -229,9 +229,9 @@ injure him?
 
 ### Footnotes
 
-<span id="fn_19"></span>[69:1](mcm11.htm#fr_19) The Master's favourite
+<span id="fn_19"></span>[69:1](mcm11.htm#fr_19.md) The Master's favourite
 disciple.
 
 ------------------------------------------------------------------------
 
-[Next: Self-Adaptation to Externals](mcm12)
+[Next: Self-Adaptation to Externals](mcm12.md)

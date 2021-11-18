@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas048n)  [Next](jas050n)   
- \[[49. Why Rocks at the River are covered with Moss.](jas049)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas048n)  [Next](jas050n.md)   
+ \[[49. Why Rocks at the River are covered with Moss.](jas049.md)\]
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ Polívka 2:490-503.
 
 ------------------------------------------------------------------------
 
-[Next: Note 50. Why Ground-dove Complains.](jas050n)
+[Next: Note 50. Why Ground-dove Complains.](jas050n.md)

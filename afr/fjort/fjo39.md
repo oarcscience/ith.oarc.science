@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fjo38)  [Next](fjo40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fjo38)  [Next](fjo40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R142/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R142/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Notes on the Folklore of the Fjort*, by Richard Edward Dennett,
 \[1898\], at Intangible Textual Heritage
 
@@ -140,6 +140,6 @@ observations of Mr. Dennett seem to me to have a bearing on this point.
 
 ------------------------------------------------------------------------
 
-[Next: Nkissinsi.](fjo40)
+[Next: Nkissinsi.](fjo40.md)
 
 </div>

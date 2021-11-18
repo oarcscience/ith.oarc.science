@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](yvhf04)  [Next](yvhf06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](yvhf04)  [Next](yvhf06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Vashisht or Heaven Found*, by Rishi Singh Gherwal, \[1930\], at
 Intangible Textual Heritage
 
@@ -121,7 +121,7 @@ mankind."
 Rishi Viswamitra turned toward Rishi Vashisht and suggested that he
 should be taught the stories of Brahmic Wisdom, since he is qualified
 for such instruction. The Brahmic Wisdom should be given only to those
-who have complete control of themselves and [withheld](errata.htm#1)
+who have complete control of themselves and [withheld](errata.htm#1.md)
 
 <span id="page_39">p. 39</span>
 
@@ -138,4 +138,4 @@ the chain of rebirth."
 
 ------------------------------------------------------------------------
 
-[Next: The Way to Blessed Liberation](yvhf06)
+[Next: The Way to Blessed Liberation](yvhf06.md)

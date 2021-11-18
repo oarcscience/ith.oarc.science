@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi37)  [Next](osi39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi37)  [Next](osi39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -256,7 +256,7 @@ globe,"
 I spent a portion of the night in reflection upon this point. On the
 morrow I repeated the phenomena of the previous day at an early sitting.
 I then asked the Fakir to do them over again, and I watched them, having
-in mind the supposition [above](errata.htm#8) named.
+in mind the supposition [above](errata.htm#8.md) named.
 
 When I asked the Fakir, for instance, to repeat the communication of the
 previous day, I changed in my mind the orthography of the name, dwelling
@@ -305,7 +305,7 @@ had intended. In the last sitting the Fakir gave, he lowered one balance
 of a pair of scales simply with a peacock's feather, when the other
 balance contained a weight of about a hundred and seventy pounds. By the
 mere imposition of hands, he made a crown of flowers float in
-[the](errata.htm#9) air, the atmosphere was filled with vague and
+[the](errata.htm#9.md) air, the atmosphere was filled with vague and
 indistinct sounds and a shadowy hand drew luminous figures in space. At
 that time I considered the two latter phenomena simply as
 phantasmagoria—I did not even give them the benefit of a doubt. For this
@@ -580,4 +580,4 @@ are of no general importance, being wholly personal.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Bronze Vase—Musical Accompaniments](osi39)
+[Next: Chapter V. The Bronze Vase—Musical Accompaniments](osi39.md)

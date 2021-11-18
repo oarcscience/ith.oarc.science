@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](msj01) 
-[Next](msj03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](msj01.md) 
+[Next](msj03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master-Singers of Japan*, by Clara A. Walsh, \[1914\], at
 Intangible Textual Heritage
 
@@ -40,6 +40,6 @@ S. A. KAPADIA.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](msj03)
+[Next: Introduction](msj03.md)
 
 </div>

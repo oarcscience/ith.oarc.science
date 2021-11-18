@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft11)  [Next](meft13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft11)  [Next](meft13.md) 
 
 ------------------------------------------------------------------------
 
 # Gobborn Seer
 
 <span id="img_013"></span> [![](tn/013.jpg)  
-Click to enlarge](img/013.jpg)
+Click to enlarge](img/013.jpg.md)
 
 ONCE there was a man, Gobborn Seer, and he had a son called Jack.
 
@@ -146,4 +146,4 @@ king's, which he did, and they lived there happily ever after.
 
 ------------------------------------------------------------------------
 
-[Next: Lawkamercyme](meft13)
+[Next: Lawkamercyme](meft13.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab04)  [Next](mab06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab04)  [Next](mab06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -22,23 +22,23 @@ Textual Heritage
 
 # THE LADY OF THE FOUNTAIN
 
-KING ARTHUR [3a](mab06.htm#xref_3a) was at Caerlleon upon
-Usk [3b](mab06.htm#xref_3b); and one day he sat in his chamber; and with
-him were Owain the son of Urien [3c](mab06.htm#xref_3c), and
-Kynon [3d](mab06.htm#xref_3d) the son of Clydno [3e](mab06.htm#xref_3e),
-and Kai the son of Kyner [3f](mab06.htm#xref_3f); and
-Gwenhwyvar [3g](mab06.htm#xref_3g) and her handmaidens at needlework by
+KING ARTHUR [3a](mab06.htm#xref_3a.md) was at Caerlleon upon
+Usk [3b](mab06.htm#xref_3b.md); and one day he sat in his chamber; and with
+him were Owain the son of Urien [3c](mab06.htm#xref_3c.md), and
+Kynon [3d](mab06.htm#xref_3d) the son of Clydno [3e](mab06.htm#xref_3e.md),
+and Kai the son of Kyner [3f](mab06.htm#xref_3f.md); and
+Gwenhwyvar [3g](mab06.htm#xref_3g.md) and her handmaidens at needlework by
 the window. And if it should be said that there was a
-porter [3h](mab06.htm#xref_3h) at Arthur's palace, there was none.
-Glewlwyd Gavaelvawr [3i](mab06.htm#xref_3i) was there, acting as porter,
+porter [3h](mab06.htm#xref_3h.md) at Arthur's palace, there was none.
+Glewlwyd Gavaelvawr [3i](mab06.htm#xref_3i.md) was there, acting as porter,
 to welcome guests and strangers, and to receive them with honour, and to
 inform them of the manners and customs of the Court; and to direct those
 who came to the Hall or to the presence-chamber, and those who came to
 take up their lodging.
 
 In the centre of the chamber King Arthur sat upon a seat of green
-rushes [3j](mab06.htm#xref_3j), over which was spread a covering of
-flame-coloured satin [3k](mab06.htm#xref_3k), and a cushion of red satin
+rushes [3j](mab06.htm#xref_3j.md), over which was spread a covering of
+flame-coloured satin [3k](mab06.htm#xref_3k.md), and a cushion of red satin
 was under his elbow.
 
 <span id="page_4">p. 4</span>
@@ -66,31 +66,31 @@ aspiring, and my daring was very great. I thought there was no
 enterprise in the world too mighty for me, and after I had achieved all
 the adventures that were in my own country, I equipped myself, and set
 forth to journey through deserts and distant
-regions [4a](mab06.htm#xref_4a). And at length it chanced that I came to
+regions [4a](mab06.htm#xref_4a.md). And at length it chanced that I came to
 the fairest valley in the world, wherein were trees of equal
-growth [4b](mab06.htm#xref_4b); and a river ran through the valley, and
+growth [4b](mab06.htm#xref_4b.md); and a river ran through the valley, and
 a path was by the side of the river. And I followed the path until
 mid-day, and continued my journey along the remainder of the valley
 until the evening; and at the extremity of a plain I came to a large and
 lustrous Castle, at the foot of which was a torrent. And I approached
 the Castle, and there I beheld two youths with yellow curling hair, each
 with a frontlet of gold upon his head, and clad in a garment of yellow
-satin [4c](mab06.htm#xref_4c), and they had gold clasps upon their
+satin [4c](mab06.htm#xref_4c.md), and they had gold clasps upon their
 
 <span id="page_5">p. 5</span>
 
 insteps. In the hand of each of them was an ivory bow, strung with the
-sinews of the stag [5a](mab06.htm#xref_5a); and their arrows had shafts
-of the bone of the whale [5b](mab06.htm#xref_5b), and were winged with
-peacock's feathers [5c](mab06.htm#xref_5c); the shafts also had golden
-heads [5d](mab06.htm#xref_5d). And they had daggers with blades of
-gold [5d](mab06.htm#xref_5d), and with hilts of the bone of the whale.
+sinews of the stag [5a](mab06.htm#xref_5a.md); and their arrows had shafts
+of the bone of the whale [5b](mab06.htm#xref_5b.md), and were winged with
+peacock's feathers [5c](mab06.htm#xref_5c.md); the shafts also had golden
+heads [5d](mab06.htm#xref_5d.md). And they had daggers with blades of
+gold [5d](mab06.htm#xref_5d.md), and with hilts of the bone of the whale.
 And they were shooting their daggers.
 
 "And a little way from them I saw a man in the prime of life, with his
 beard newly shorn, clad in a robe and a mantle of yellow satin; and
 round the top of his mantle was a band of gold lace. On his feet were
-shoes of variegated leather [5e](mab06.htm#xref_5e), fastened by two
+shoes of variegated leather [5e](mab06.htm#xref_5e.md), fastened by two
 bosses of gold. When I saw him, I went towards him and saluted him, and
 such was his courtesy that he no sooner received my greeting than he
 returned it. And he went with me towards the Castle. Now there were no
@@ -98,16 +98,16 @@ dwellers in the Castle except those who were in one hall. And there I
 saw four-and-twenty damsels, embroidering satin at a window. And this I
 tell thee, Kai, that the least fair of them was fairer than the fairest
 maid thou hast ever beheld in the Island of Britain, and the least
-lovely of them was more lovely than Gwenhwyvar [5f](mab06.htm#xref_5f),
+lovely of them was more lovely than Gwenhwyvar [5f](mab06.htm#xref_5f.md),
 the wife of Arthur, when she has appeared loveliest at the Offering, on
 the day of the Nativity, or at the feast of Easter. They rose up at my
-coming [5g](mab06.htm#xref_5g), and six of them took my horse, and
+coming [5g](mab06.htm#xref_5g.md), and six of them took my horse, and
 divested me of my armour; and six others took my arms, and washed them
 in a vessel until they were perfectly bright. And the third six spread
 cloths upon the tables and prepared meat. And the fourth six took off my
 soiled garments, and placed others upon me; namely, an under-vest and a
 doublet of fine linen, and a robe, and a surcoat, and a mantle of yellow
-satin with a broad gold band upon the mantle [5h](mab06.htm#xref_5h).
+satin with a broad gold band upon the mantle [5h](mab06.htm#xref_5h.md).
 And they placed cushions both beneath and around me, with coverings of
 red linen; and I sat down. Now the six maidens who had taken my horse,
 unharnessed him, as well as if they had been the best squires in the
@@ -121,7 +121,7 @@ the man sat down to the table. And I sat next to him, and below me sat
 all the maidens, except those who waited on us. And the table was of
 silver, and the cloths upon the table were of linen; and no vessel was
 served upon the table that was not either of gold or of silver, or of
-buffalo-horn [6a](mab06.htm#xref_6a). And our meat was brought to us.
+buffalo-horn [6a](mab06.htm#xref_6a.md). And our meat was brought to us.
 And verily, Kai, I saw there every sort of meat and every sort of liquor
 that I have ever seen elsewhere; but the meat and the liquor were better
 served there than I have ever seen them in any other place.
@@ -194,7 +194,7 @@ path that leads towards the head of the glade, and ascend the wooded
 steep until thou comest to its summit; and there thou wilt find an open
 space like to a large valley, and in the midst of it a tall tree, whose
 branches are greener than the greenest pine-trees. Under this tree is a
-fountain [8a](mab06.htm#xref_8a), and by the side of the fountain a
+fountain [8a](mab06.htm#xref_8a.md), and by the side of the fountain a
 marble slab, and on the marble slab a silver bowl, attached by a chain
 of silver, so that it may not be carried away. Take the bowl and throw a
 bowlful of water upon the slab, and thou wilt hear a mighty peal of
@@ -267,7 +267,7 @@ declare that I would not part with him for the best palfrey in the
 Island of Britain.
 
 "Now of a truth, Kai, no man ever before confessed to an adventure so
-much to his own discredit [10a](mab06.htm#xref_10a), and verily it seems
+much to his own discredit [10a](mab06.htm#xref_10a.md), and verily it seems
 strange to me, that neither before nor since have I heard of any person
 besides myself who knew of this adventure, and that the subject of it
 should exist within King Arthur's dominions, without any other person
@@ -280,7 +280,7 @@ discover that place?"
 thy tongue which thou wouldst not make good with thy deeds."
 
 "In very truth," said Gwenhwyvar, "it were better thou wert hanged, Kai,
-than to use such uncourteous speech [10b](mab06.htm#xref_10b) towards a
+than to use such uncourteous speech [10b](mab06.htm#xref_10b.md) towards a
 man like Owain."
 
 "By the hand of my friend, good Lady," said Kai, "thy praise of Owain is
@@ -294,7 +294,7 @@ With that Arthur awoke, and asked if he had not been sleeping a little.
 
 "It is, Lord," said Owain.
 
-Then the horn for washing [10c](mab06.htm#xref_10c) was sounded, and the
+Then the horn for washing [10c](mab06.htm#xref_10c.md) was sounded, and the
 King and all his household sat down to eat. And when the meal was ended,
 Owain withdrew to his lodging, and made ready his horse and his arms.
 
@@ -342,7 +342,7 @@ thunder came the shower, much more violent than Kynon had described, and
 after the shower the sky became bright. And when Owain looked at the
 tree, there was not one leaf upon it. And immediately the birds came,
 and settled upon the tree, and sang. And when their song was most
-pleasing to Owain, he beheld a Knight [12a](mab06.htm#xref_12a) coming
+pleasing to Owain, he beheld a Knight [12a](mab06.htm#xref_12a.md) coming
 towards him through the valley, and he prepared to receive him; and
 encountered him violently. Having broken both their lances, they drew
 their swords, and fought blade to blade. Then Owain struck the Knight a
@@ -362,7 +362,7 @@ and the inner gate was closed, so that Owain could not go thence; and
 Owain was in a perplexing situation. And while he was in this state, he
 could see through an aperture in the gate, a street facing him, with a
 row of houses on each side. And he beheld a
-maiden [12b](mab06.htm#xref_12b), with yellow curling hair, and a
+maiden [12b](mab06.htm#xref_12b.md), with yellow curling hair, and a
 frontlet of gold upon her head; and she was clad in a dress of yellow
 satin, and on her feet were shoes of variegated leather. And she
 approached the gate, and desired that it should be opened. "Heaven
@@ -376,13 +376,13 @@ canst not be released, and every woman ought to succour thee, for I
 never saw one more faithful in the service of ladies than thou. As a
 friend thou art the most sincere, and as a lover the most devoted.
 Therefore," quoth she, "whatever is in my
-power [13a](mab06.htm#xref_13a) to do for thy release, I will do it.
-Take this ring [13b](mab06.htm#xref_13b) and put it on thy finger, with
+power [13a](mab06.htm#xref_13a.md) to do for thy release, I will do it.
+Take this ring [13b](mab06.htm#xref_13b.md) and put it on thy finger, with
 the stone inside thy hand; and close thy hand upon the stone. And as
 long as thou concealest it, it will conceal thee. When they have
 consulted together, they will come forth to fetch thee, in order to put
 thee to death; and they will be much grieved that they cannot find thee.
-And I will await thee on the horseblock [13c](mab06.htm#xref_13c)
+And I will await thee on the horseblock [13c](mab06.htm#xref_13c.md)
 yonder; and thou wilt be able to see me, though I cannot see thee;
 therefore come and place thy hand upon my shoulder, that I may know that
 thou art near me. And by the way that I go hence, do thou accompany me."
@@ -398,7 +398,7 @@ her, until they came to the door of a large and beautiful chamber, and
 the maiden opened it, and they went in, and closed the door. And Owain
 looked around the chamber, and behold there was not even a single nail
 in it that was not painted with gorgeous
-colours [13d](mab06.htm#xref_13d); and there was not a single panel that
+colours [13d](mab06.htm#xref_13d.md); and there was not a single panel that
 had not sundry images in gold portrayed upon it.
 
 The maiden kindled a fire, and took water in a silver bowl, and put a
@@ -440,7 +440,7 @@ around it, and none that supported the bier was lower in rank than a
 powerful Baron.
 
 Never did Owain see an assemblage so gorgeous with satin, and silk, and
-sendall [14a](mab06.htm#xref_14a). And following the train, he beheld a
+sendall [14a](mab06.htm#xref_14a.md). And following the train, he beheld a
 lady with yellow hair falling over her shoulders, and stained with
 blood; and about her a dress of yellow satin, which was torn. Upon her
 feet were shoes of variegated leather. And it was a marvel that the ends
@@ -458,7 +458,7 @@ entire possession of him.
 Then he inquired of the maiden who the lady was. "Heaven knows," replied
 the maiden, "she may be said to be the fairest, and the most chaste, and
 the most liberal, and the wisest, and the most noble of women. And she
-is my mistress; and she is called the Countess [15a](mab06.htm#xref_15a)
+is my mistress; and she is called the Countess [15a](mab06.htm#xref_15a.md)
 of the Fountain, the wife of him whom thou didst slay yesterday."
 "Verily," said Owain, "she is the woman that I love best." "Verily,"
 said the maiden, "she shall also love thee not a little."
@@ -467,7 +467,7 @@ And with that the maid arose, and kindled a fire, and filled a pot with
 water, and placed it to warm; and she brought a towel of white linen,
 and placed it around Owain's neck; and she took a goblet of ivory, and a
 silver basin, and filled them with warm water, wherewith she washed
-Owain's head [15b](mab06.htm#xref_15b). Then she opened a wooden casket,
+Owain's head [15b](mab06.htm#xref_15b.md). Then she opened a wooden casket,
 and drew forth a razor, whose haft was of ivory, and upon which were two
 rivets of gold. And she shaved his beard, and she dried his head, and
 his throat, with the towel. Then she rose up from before Owain, and
@@ -568,7 +568,7 @@ me to take a husband from elsewhere to defend my dominions."
 So they came to the determination that it was better that she should
 have permission to marry some one from elsewhere; and, thereupon, she
 sent for the bishops and archbishops to celebrate her nuptials with
-Owain [18a](mab06.htm#xref_18a). And the men of the earldom did Owain
+Owain [18a](mab06.htm#xref_18a.md). And the men of the earldom did Owain
 homage.
 
 And Owain defended the Fountain with lance and sword. And this is the
@@ -580,7 +580,7 @@ for the space of three years.
 
  
 
-It befell that as Gwalchmai [18b](mab06.htm#xref_18b) went forth one day
+It befell that as Gwalchmai [18b](mab06.htm#xref_18b.md) went forth one day
 with King Arthur, he perceived him to be very sad and sorrowful. And
 Gwalchmai was much grieved to see Arthur in this state; and he
 questioned him, saying, "Oh, my lord! what has befallen thee?" "In
@@ -652,13 +652,13 @@ him, except Arthur and Gwalchmai. And Arthur armed himself to encounter
 the Knight. "Oh, my lord," said Gwalchmai, "permit me to fight with him
 first." And Arthur permitted him. And he went forth to meet the Knight,
 having over himself and his horse a satin robe of
-honour [20a](mab06.htm#xref_20a) which had been sent him by the daughter
-of the Earl of Rhangyw [20b](mab06.htm#xref_20b), and in this dress he
+honour [20a](mab06.htm#xref_20a.md) which had been sent him by the daughter
+of the Earl of Rhangyw [20b](mab06.htm#xref_20b.md), and in this dress he
 was not known by any of the host. And they charged each other, and
 fought all that day until the evening, and neither of them was able to
 unhorse the other.
 
-The next day they fought with strong lances [20c](mab06.htm#xref_20c),
+The next day they fought with strong lances [20c](mab06.htm#xref_20c.md),
 and neither of them could obtain the mastery.
 
 And the third day they fought with exceeding strong lances. And they
@@ -675,14 +675,14 @@ Owain said, "My lord Gwalchmai, I did not know thee
 
 <span id="page_21">p. 21</span>
 
-for my cousin [21a](mab06.htm#xref_21a), owing to the robe of honour
+for my cousin [21a](mab06.htm#xref_21a.md), owing to the robe of honour
 that enveloped thee; take my sword and my arms." Said Gwalchmai, "Thou,
 Owain, art the victor; take thou my sword." And with that Arthur saw
 that they were conversing, and advanced towards them. "My lord Arthur,"
 said Gwalchmai, "here is Owain, who has vanquished me, and will not take
 my arms." "My lord," said Owain, "it is he that has vanquished me, and
 he will not take my sword." "Give me your
-swords [21b](mab06.htm#xref_21b)," said Arthur, "and then neither of you
+swords [21b](mab06.htm#xref_21b.md)," said Arthur, "and then neither of you
 has vanquished the other." Then Owain put his arms around Arthur's neck,
 and they embraced. And all the host hurried forward to see Owain, and to
 embrace him; and there was nigh being a loss of life, so great was the
@@ -691,7 +691,7 @@ press.
 And they retired that night, and the next day Arthur prepared to depart.
 "My lord," said Owain, "this is not well of thee; for I have been absent
 from thee these three years, and during all that time, up to this very
-day, I have been preparing a banquet [21c](mab06.htm#xref_21c) for thee,
+day, I have been preparing a banquet [21c](mab06.htm#xref_21c.md) for thee,
 knowing that thou wouldst come to seek me. Tarry with me, therefore,
 until thou and thy attendants have recovered the fatigues of the
 journey, and have been anointed."
@@ -710,7 +710,7 @@ three years, instead of three months, with them.
  
 
 And as Owain one day sat at meat, in the city of Caerlleon upon Usk,
-behold a damsel entered upon a bay horse [21d](mab06.htm#xref_21d), with
+behold a damsel entered upon a bay horse [21d](mab06.htm#xref_21d.md), with
 a curling mane and covered with foam, and the bridle and so
 
 <span id="page_22">p. 22</span>
@@ -741,7 +741,7 @@ exhausted by the heat of the sun. And the Countess returned to the
 Castle, and took a flask full of precious ointment, and gave it to one
 of her maidens. "Go with this," said she, "and take with thee yonder
 horse and clothing, and place them near the man we saw just now. And
-anoint him with this balsam [22a](mab06.htm#xref_22a), near his heart;
+anoint him with this balsam [22a](mab06.htm#xref_22a.md), near his heart;
 and if there is life in him, he will arise through the efficacy of this
 balsam. Then watch what he will do."
 
@@ -762,7 +762,7 @@ saw her, and inquired of her, what land and what territory that was.
 "Truly," said the maiden, "a widowed Countess owns yonder Castle; at the
 death of her husband, he left her two Earldoms, but at this day she has
 but this one dwelling that has not been wrested from her by a young
-Earl [23a](mab06.htm#xref_23a), who is her neighbour, because she
+Earl [23a](mab06.htm#xref_23a.md), who is her neighbour, because she
 refused to become his wife." "That is pity," said Owain. And he and the
 maiden proceeded to the Castle; and he alighted there, and the maiden
 conducted him to a pleasant chamber, and kindled a fire and left him.
@@ -800,7 +800,7 @@ have them against my will to-morrow. Yet I know not what he would do
 with them."
 
 The Countess bade them bring out a beautiful black
-steed [24a](mab06.htm#xref_24a), upon which was a beechen saddle, and a
+steed [24a](mab06.htm#xref_24a.md), upon which was a beechen saddle, and a
 suit of armour, for man and horse. And Owain armed himself, and mounted
 the horse, and went forth, attended by two pages completely equipped,
 with horses and arms. And when they came near to the Earl's army, they
@@ -836,7 +836,7 @@ black lion, and every time the lion sought to go thence, the serpent
 darted towards him to attack him. And Owain unsheathed his sword, and
 drew near to the rock; and as the serpent sprang out, he struck him with
 his sword, and cut him in two. And he dried his sword, and went on his
-way, as before [25a](mab06.htm#xref_25a). But behold the lion followed
+way, as before [25a](mab06.htm#xref_25a.md). But behold the lion followed
 him, and played about him, as though it had been a greyhound that he had
 reared.
 
@@ -862,7 +862,7 @@ and has not returned since. And he was the friend I loved best in the
 world. And two of the pages in the Countess's chamber traduced him, and
 called him a deceiver. And I told them that they two were not a match
 for him alone. So they imprisoned me in the stone
-vault [25b](mab06.htm#xref_25b), and said that I should be put to death,
+vault [25b](mab06.htm#xref_25b.md), and said that I should be put to death,
 
 <span id="page_26">p. 26</span>
 
@@ -906,7 +906,7 @@ sorrowful, but we have cause
 
 enough for sadness and care." "What is that?" said Owain. "I have two
 sons," replied the Earl, "and yesterday they went to the mountains to
-hunt. Now there is on the mountain a monster [27a](mab06.htm#xref_27a)
+hunt. Now there is on the mountain a monster [27a](mab06.htm#xref_27a.md)
 who kills men and devours them, and he seized my sons; and to-morrow is
 the time he has fixed to be here, and he threatens that he will then
 slay my sons before my eyes, unless I will deliver into his hands this
@@ -983,7 +983,7 @@ worth four-and twenty pence, and they were as sorrowful as death. And
 Owain asked them the cause of their sadness. And they said, "We are the
 daughters of Earls, and we all came here with our husbands, whom we
 dearly loved. And we were received with honour and rejoicing. And we
-were thrown into a state of stupor [29a](mab06.htm#xref_29a), and while
+were thrown into a state of stupor [29a](mab06.htm#xref_29a.md), and while
 we were thus, the demon who owns this Castle slew all our husbands, and
 took from us our horses, and our raiment, and our gold, and our silver;
 and the corpses of our husbands are still in this house, and many others
@@ -1001,7 +1001,7 @@ Then the black savage besought Owain to spare his life, and spoke thus:
 "My lord Owain," said he, "it was foretold that thou shouldst come
 hither and vanquish me, and thou hast done so. I was a robber here, and
 my house was a house of spoil; but grant me my life, and I will become
-the keeper of an Hospice [29b](mab06.htm#xref_29b), and I will maintain
+the keeper of an Hospice [29b](mab06.htm#xref_29b.md), and I will maintain
 this house as an Hospice for weak and for strong, as long as I live, for
 the good of thy soul." And Owain accepted this proposal of him, and
 remained there that night.
@@ -1017,7 +1017,7 @@ remained there, and such as wished to depart departed.
 
 And thenceforward Owain dwelt at Arthur's Court greatly beloved, as the
 head of his household, until he went away with his followers; and those
-were the army of three hundred ravens [30a](mab06.htm#xref_30a) which
+were the army of three hundred ravens [30a](mab06.htm#xref_30a.md) which
 Kenverchyn had left him. And wherever Owain went with these he was
 victorious.
 
@@ -1027,4 +1027,4 @@ And this is the tale of THE LADY OF THE FOUNTAIN.
 
 ------------------------------------------------------------------------
 
-[Next: Notes to the Lady of the Fountain](mab06)
+[Next: Notes to the Lady of the Fountain](mab06.md)

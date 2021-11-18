@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog07)  [Next](caog09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog07)  [Next](caog09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -465,7 +465,7 @@ tablet. There is, however, fair reason to suppose that there was a close
 agreement in subjects and order between the text of the Chaldean legend
 and Genesis, while there does not appear to be anything like the same
 agreement between these inscriptions and the accounts transmitted to us
-through Berosus (see pp. [37](caog06.htm#page_37)-50).
+through Berosus (see pp. [37](caog06.htm#page_37)-50.md).
 
 The fifth tablet commences with the statement that the previous
 creations were "delightful," or satisfactory, agreeing with the
@@ -1062,7 +1062,7 @@ According to Genesis, Adam and Eve, tempted by
 
 <span id="img_08900"></span> <span align="CENTER"> [![SACRED TREE, OR
 GROVE, WITH ATTENDANT CHERUBIM, FROM ASSYRIAN CYLINDER.](tn/08900.jpg)  
-Click to enlarge](img/08900.jpg)  
+Click to enlarge](img/08900.jpg.md)  
 SACRED TREE, OR GROVE, WITH ATTENDANT CHERUBIM, FROM ASSYRIAN
 CYLINDER.  
 </span>
@@ -1120,7 +1120,7 @@ The dragon which, in the Chaldean account of the
 <span id="img_09100"></span> <span align="CENTER"> [![SACRED TREE,
 SEATED FIGURE ON EACH BIDES AND SERPENT IN BACKGROUND, PROM AN EARLY
 BABYLONIAN CYLINDER.](tn/09100.jpg)  
-Click to enlarge](img/09100.jpg)  
+Click to enlarge](img/09100.jpg.md)  
 SACRED TREE, SEATED FIGURE ON EACH BIDES AND SERPENT IN BACKGROUND, PROM
 AN EARLY BABYLONIAN CYLINDER.  
 </span>
@@ -1315,7 +1315,7 @@ The next fragment or collection of fragments gives
 
 <span id="img_09500"></span> <span align="CENTER"> [![BEL ENCOUNTERING
 THE DRAGON; FROM BABYLONIAN CYLINDER.](tn/09500.jpg)  
-Click to enlarge](img/09500.jpg)  
+Click to enlarge](img/09500.jpg.md)  
 BEL ENCOUNTERING THE DRAGON; FROM BABYLONIAN CYLINDER.  
 </span>
 
@@ -1496,7 +1496,7 @@ by one of the gods
 <span id="img_09900"></span> <span align="CENTER"> [![MERODACH, OR BEL,
 ARMED FOR THE CONFLICT WITH THE DRAGON; FROM ASSYRIAN
 CYLINDER.](tn/09900.jpg)  
-Click to enlarge](img/09900.jpg)  
+Click to enlarge](img/09900.jpg.md)  
 MERODACH, OR BEL, ARMED FOR THE CONFLICT WITH THE DRAGON; FROM ASSYRIAN
 CYLINDER.  
 </span>
@@ -1526,7 +1526,7 @@ in a similar story to that in Genesis.
 
 <span id="img_10000"></span> <span align="CENTER"> [![FIGHT BETWEEN BEL
 AND THE DRAGON, FROM BABYLONIAN CYLINDER.](tn/10000.jpg)  
-Click to enlarge](img/10000.jpg)  
+Click to enlarge](img/10000.jpg.md)  
 FIGHT BETWEEN BEL AND THE DRAGON, FROM BABYLONIAN CYLINDER.  
 </span>
 
@@ -1534,6 +1534,6 @@ FIGHT BETWEEN BEL AND THE DRAGON, FROM BABYLONIAN CYLINDER.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Other Babylonian Accounts of the Creation](caog09)
+[Next: Chapter IV. Other Babylonian Accounts of the Creation](caog09.md)
 
 </div>

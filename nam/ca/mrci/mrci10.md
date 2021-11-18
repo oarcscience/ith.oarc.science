@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mrci09)  [Next](mrci11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mrci09)  [Next](mrci11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Mission Record of the California Indians*, by A.L. Kroeber, \[1908\],
 at Intangible Textual Heritage
 
@@ -13,13 +13,13 @@ at Intangible Textual Heritage
 
 <span id="page_18">p. 18</span>
 
-#### *San Miguel*. <span id="fr_43"></span>[43](#fn_43)
+#### *San Miguel*. <span id="fr_43"></span>[43](#fn_43.md)
 
 The neophytes at this mission speak four languages: that of San Antonio,
 which is reputed the principal one; that of the shore (la playana),
 which is the one spoken by those settled on the coast; the Tulareño; and
 another, that of the people of the south. <span
-id="fr_44"></span>[44](#fn_44)
+id="fr_44"></span>[44](#fn_44.md)
 
  
 
@@ -29,19 +29,19 @@ augmentation of the value of the amount lent, for instance a real of
 beads; and those who lent the real grew richer by as many reales as the
 original real was days in returning to their hands. This custom was
 practiced by those to the east of this mission. <span
-id="fr_45"></span>[45](#fn_45)
+id="fr_45"></span>[45](#fn_45.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_43"></span>[18:43](mrci10.htm#fr_43) San Miguel was in the
+<span id="fn_43"></span>[18:43](mrci10.htm#fr_43.md) San Miguel was in the
 territory of the Indians of the so-called Salinan stock. No general name
 of native origin is known for these people, who go under their present
 designation only because they lived in and about Salinas valley. The
 father who wrote the above reply was either Juan Martin or Juan Cabot.
 
-<span id="fn_44"></span>[18:44](mrci10.htm#fr_44) Of the four languages,
+<span id="fn_44"></span>[18:44](mrci10.htm#fr_44.md) Of the four languages,
 the Tulareño is that of the people in the Tulare valley, namely the
 Yokuts. The people of the south are probably the most northwesterly
 Chumash, some of whom may have been brought to San Miguel instead of to
@@ -52,9 +52,9 @@ about the dialectic divisions of the Salinan family, other than that the
 dialects ordinarily called those of San Miguel and San Antonio were
 somewhat different.
 
-<span id="fn_45"></span>[18:45](mrci10.htm#fr_45) No such custom of
+<span id="fn_45"></span>[18:45](mrci10.htm#fr_45.md) No such custom of
 borrowing at interest has been otherwise reported from California.
 
 ------------------------------------------------------------------------
 
-[Next: San Antonio](mrci11)
+[Next: San Antonio](mrci11.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](gem13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](gem13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Histories of the Kings of Britain, by Geoffry of Monmouth*, tr. by
 Sebastian Evans, \[1904\], at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ Arthur at a date many years earlier than the publication of the *History
 of the British Kings* in the form in which it has come down to us. When
 Osney Abbey, near Oxford, was founded in 1129, the list of witnesses to
 the foundation charter began with the name of the Archdeacon and ended
-with that of Geoffrey Arthur. <span id="fr_0"></span>[\*](#fn_0) At this
+with that of Geoffrey Arthur. <span id="fr_0"></span>[\*](#fn_0.md) At this
 time, therefore, the writer of the *History* did not sign himself
 Geoffrey of Monmouth as he did in later years, but Geoffrey Arthur, the
 name by which he is known to his contemporary historians, Henry of
@@ -45,7 +45,7 @@ Arthur. No valid ground,
 <span class="margnote">Henry of Huntingdon</span>however, has been
 assigned for the assumption, and it is, moreover, directly at variance
 with the assertion of William of Newburgh, which cannot lightly be set
-aside. <span id="fr_1"></span>[\*](#fn_1) At any rate, patronymic or no
+aside. <span id="fr_1"></span>[\*](#fn_1.md) At any rate, patronymic or no
 patronymic, it is incredible that a writer named Arthur should create a
 literary hero also named Arthur unless the two circumstances were in
 some way connected. What the precise connection may have been can only
@@ -239,7 +239,7 @@ quote the following entry under the year 1152:—
 <span class="margnote">J. R. Sinner's Bern MS.</span>'Geoffrey Arthur,
 who had translated the *History of the Kings of the Britons* out of the
 British into Latin, is made Bishop of St. Asaph in North Wales.' <span
-id="fr_2"></span>[\*](#fn_2)
+id="fr_2"></span>[\*](#fn_2.md)
 
 Here, then, we have distinct and unimpeachable evidence that a version
 of Geoffrey of Monmouth's *History of the British Kings* was extant in
@@ -371,7 +371,7 @@ corroborated by those of Tewkesbury and Waverley. John of Hexham gives
 <span id="page_342">p. 342</span>
 
 <span class="margnote">Three different dates</span>as the date. <span
-id="fr_3"></span>[\*](#fn_3) Which of the three years thus recorded is
+id="fr_3"></span>[\*](#fn_3.md) Which of the three years thus recorded is
 to be accepted as the true date of the event? The day of the month
 mentioned in the Margan Annals may safely be relied on as accurate,
 inasmuch as 'Founder's Day' would doubtless be celebrated annually by a
@@ -553,7 +553,7 @@ Bishop Alexander, he was soon disillusioned. Two years passed away and
 the prophet was still without his reward. At long last, in 1152, there
 was a vacancy in the see of St. Asaph, 'a poor little see with a poor
 little cathedral,' as Gerald de Barri not long afterwards described
-it. <span id="fr_4"></span>[\*](#fn_4) The evil days had not mended, and
+it. <span id="fr_4"></span>[\*](#fn_4.md) The evil days had not mended, and
 half a loaf is better than no bread. The Archbishopric of Caerleon had
 long since been consigned to the limbo of
 
@@ -695,7 +695,7 @@ plenty of the grange
 <span id="page_354">p. 354</span>
 
 <span class="margnote">Merlin's prophecies</span>assured abundance of
-silver in the well-filled coffers.’ <span id="fr_5"></span>[\*](#fn_5)
+silver in the well-filled coffers.’ <span id="fr_5"></span>[\*](#fn_5.md)
 
 This passage is remarkable in several aspects. Written during Geoffrey's
 own lifetime, it enables us to say with certainty that the prophecies
@@ -1174,11 +1174,11 @@ Canterbury</span>,
 
 ### Footnotes
 
-<span id="fn_0"></span>[329:\*](gem14.htm#fr_0) The original charter is
+<span id="fn_0"></span>[329:\*](gem14.htm#fr_0.md) The original charter is
 lost, but the official register of it is preserved in the British
 Museum, MSS. Cotton, Vitellius E. XV.
 
-<span id="fn_1"></span>[330:\*](gem14.htm#fr_1) The authority of the
+<span id="fn_1"></span>[330:\*](gem14.htm#fr_1.md) The authority of the
 so-called *Gwentian Brut*, which in defiance of the Latin form calls him
 'Galffrai ab Arthur,' is not in these days an authority to which much
 importance need be attached. See Prof. W. Lewis Jones's paper on
@@ -1188,19 +1188,19 @@ translation of the *Brut* as correct. 'The fact that his name is given
 as "Gaufridus Arthur" or "Arturus" would seem to indicate that his
 father's name was Arthur.'
 
-<span id="fn_2"></span>[337:\*](gem14.htm#fr_2) *Chronique de Robert de
+<span id="fn_2"></span>[337:\*](gem14.htm#fr_2.md) *Chronique de Robert de
 Torigni*, par Leopold Delisle, Vol. I. pp. 96 *et seq.*, 265. Guiberti
 *Op. Addit. Luc d’Achery;* Paris, 1651, p. 736 *et seq.*, 769.
 *Chronicles of Stephen*, etc., Rolls Series, IV. p. 65.
 
-<span id="fn_3"></span>[342:\*](gem14.htm#fr_3) Twysden X. Scrip.;
+<span id="fn_3"></span>[342:\*](gem14.htm#fr_3.md) Twysden X. Scrip.;
 Gervase 1361, Hexham 276; *Ann. Mon.*, Rolls Series, Vols. I. and II.
 *See* also Gesta Steph. 531, and Freeman, N.C. V. 312.
 
-<span id="fn_4"></span>[348:\*](gem14.htm#fr_4) *Itin. Camb.* VI. 137,
+<span id="fn_4"></span>[348:\*](gem14.htm#fr_4.md) *Itin. Camb.* VI. 137,
 170.
 
-<span id="fn_5"></span>[354:\*](gem14.htm#fr_5) Du Chesne, *Hist. Franc.
+<span id="fn_5"></span>[354:\*](gem14.htm#fr_5.md) Du Chesne, *Hist. Franc.
 Script.* VI. 294, c. xv.
 
  

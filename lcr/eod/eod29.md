@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod28)  [Next](eod30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod28)  [Next](eod30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -35,7 +35,7 @@ of this deity, which later became specialized in the Egyptian
 <span id="img_fig16"></span> <span align="CENTER"> [![FIG. 16.THE GOD
 OF THUNDER&lt;br&gt; (From a Chinese drawing (? 17th Century) in the
 John Rylands Library)](tn/fig16.jpg)  
-Click to enlarge](img/fig16.jpg)  
+Click to enlarge](img/fig16.jpg.md)  
 FIG. 16.—THE GOD OF THUNDER  
 (From a Chinese drawing (? 17th Century) in the John Rylands Library)  
 </span>
@@ -43,7 +43,7 @@ FIG. 16.—THE GOD OF THUNDER
 <span id="img_fig17"></span> <span align="CENTER"> [![FIG. 17.FROM
 JOANNES DE TURRECREMATA'S MEDITATIONES SEU CONTEMPLATIONES. Rome;
 Ulrich Han, 1467](tn/fig17.jpg)  
-Click to enlarge](img/fig17.jpg)  
+Click to enlarge](img/fig17.jpg.md)  
 FIG. 17.—FROM JOANNES DE TURRECREMATA'S “MEDITATIONES SEU
 CONTEMPLATIONES”. Rome; Ulrich Han, 1467  
 </span>
@@ -84,7 +84,7 @@ between Horus and Set was converted into a conflict between Christ and
 Satan. M. Clermont-Ganneau has described an interesting bas-relief in
 the Louvre in which a hawk-headed St. George, clad in Roman military
 uniform and mounted on a horse, is slaying a dragon which is represented
-by Set's crocodile. <span id="fr_232"></span>[1](#fn_232) But the
+by Set's crocodile. <span id="fr_232"></span>[1](#fn_232.md) But the
 Biblical references to Satan leave no doubt as to his identity with the
 dragon, who is
 
@@ -134,7 +134,7 @@ insight and lucid exposition by Professor Cumont, from whose important
 <span id="page_139">p. 139</span>
 
 and convincing memoir I have quoted so freely in the foregoing
-paragraphs. <span id="fr_233"></span>[1](#fn_233)
+paragraphs. <span id="fr_233"></span>[1](#fn_233.md)
 
 The creation of a beneficent Deity of such moral grandeur inevitably
 emphasized the baseness and the malevolence of the "Power of Evil". No
@@ -147,16 +147,16 @@ serpent, which is the Devil and Satan".
 
 ### Footnotes
 
-<span id="fn_232"></span>[137:1](eod29.htm#fr_232) "Horus et St. George
+<span id="fn_232"></span>[137:1](eod29.htm#fr_232.md) "Horus et St. George
 d’après un bas-relief inedit du Louvre," *Revue Archéologique*, Nouvelle
 Série, t. xxxii., 1876, p. 196, pl. xviii. It is right to explain that
 M. Clermont-Ganneau's interpretation of this relief has not been
 accepted by all scholars.
 
-<span id="fn_233"></span>[139:1](eod29.htm#fr_233) Albert J. Carnoy,
+<span id="fn_233"></span>[139:1](eod29.htm#fr_233.md) Albert J. Carnoy,
 "The Moral Deities of Iran and India and their Origins," The American
 Journal of Theology, vol. xxi., No. 1, Jan. 1917, p. 58.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](eod30)
+[Next: Introduction](eod30.md)

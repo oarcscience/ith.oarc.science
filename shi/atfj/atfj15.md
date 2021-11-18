@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj14)  [Next](atfj16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj14)  [Next](atfj16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_16"></span> <span align="CENTER"> [![16. O Same Sees the
 Handsome Young Priest](tn/16.jpg)  
-Click to enlarge](img/16.jpg)  
+Click to enlarge](img/16.jpg.md)  
 16. O Same Sees the Handsome Young Priest  
 </span>
 
@@ -198,6 +198,6 @@ temple was built there.</span>
 
 ------------------------------------------------------------------------
 
-[Next: XIV. History of Awoto Fujitsuna](atfj16)
+[Next: XIV. History of Awoto Fujitsuna](atfj16.md)
 
 </div>

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Hindu](../index) [Index](index) [Previous](sak2) [Next](sak4)
+[Sacred-Texts](../../index) [Hindu](../index) [Index](index) [Previous](sak2) [Next](sak4.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ passion, all the means of knowledge are to be told: so the Third
 |------------------------------------------------------|
 | <span class="small">*   The elements whence.*</span> |
 
-   <span id="pp_1"></span>*Aph*. 1.[\*](#pp_1) The origination of the
+   <span id="pp_1"></span>*Aph*. 1.[\*](#pp_1.md) The origination of the
 diversified \[world of sense\] is from that which has no difference.
 
    <span id="pp_1a"></span>*a*. '\[Which\] has no difference,' i.e.,
@@ -51,7 +51,7 @@ origination, therefrom, of the dyad of bodies:
 |--------------------------------------------------|
 | <span class="small">*   The Body whence.*</span> |
 
-   <span id="pp_2"></span>*Aph*. 2.[\*](#pp_2) Therefrom, of the Body.
+   <span id="pp_2"></span>*Aph*. 2.[\*](#pp_2.md) Therefrom, of the Body.
 
    <span id="pp_2a"></span>*a*. 'Therefrom,' i.e., from the twenty-three
 Principles, <span id="page_226">p. 226</span> there is the origination
@@ -68,7 +68,7 @@ twenty-three Principles.
 |-----------------------------------------------------------|
 | <span class="small">*   Mundane existence whence.*</span> |
 
-   <span id="pp_3"></span>*Aph*. 3.[\*](#pp_3) From the seed thereof is
+   <span id="pp_3"></span>*Aph*. 3.[\*](#pp_3.md) From the seed thereof is
 mundane existence.
 
    <span id="pp_3a"></span>*a*. 'Thereof,' i.e., of the Body; 'from the
@@ -92,7 +92,7 @@ existence.
 |--------------------------------------------------------------|
 | <span class="small">*   Mundane existence till when.*</span> |
 
-   <span id="pp_4"></span>*Aph*. 4.[\*](#pp_4) And, till there is
+   <span id="pp_4"></span>*Aph*. 4.[\*](#pp_4.md) And, till there is
 discrimination, there is the energizing of these, which have no
 differences.
 
@@ -111,7 +111,7 @@ continue after that.
 |-----------------------------------------------------|
 | <span class="small">*   The reason of this.*</span> |
 
-   <span id="pp_5"></span>*Aph*. 5.[\*](#pp_5) Because of \[the
+   <span id="pp_5"></span>*Aph*. 5.[\*](#pp_5.md) Because of \[the
 necessity of\] the other's experiencing.
 
    <span id="pp_5a"></span>*a*. The meaning is: because of the necessity
@@ -128,7 +128,7 @@ Body, during the time of mundane existence, fruition \[really\] is not:
 |--------------------------------------------------------------|
 | <span class="small">*   Soul's bondage only seeming.*</span> |
 
-   <span id="pp_6"></span>*Aph*. 6.[\*](#pp_6) It \[Soul,\] is now quite
+   <span id="pp_6"></span>*Aph*. 6.[\*](#pp_6.md) It \[Soul,\] is now quite
 free from both.
 
    <span id="pp_6a"></span>*a*. 'Now,' i.e., during the time of mundane
@@ -144,7 +144,7 @@ separately, the dyad of Bodies:
 |---------------------------------------------------------------------------------|
 | <span class="small">*   The Gross and the Subtile Bodies distinguished.*</span> |
 
-   <span id="pp_7"></span>*Aph*. 7.[\*](#pp_7) The Gross \[Body\]
+   <span id="pp_7"></span>*Aph*. 7.[\*](#pp_7.md) The Gross \[Body\]
 usually arises from father and mother; the other one is not so.
 
 <span id="page_229">p. 229</span>
@@ -165,7 +165,7 @@ of the pairs \[pleasure and pain, &c.,\] with Soul takes place.
 |-------------------------------------------------------------------------------------|
 | <span class="small">*   Which of the bodies is the cause of Soul's bondage.*</span> |
 
-   <span id="pp_8"></span>*Aph*. 8.[\*](#pp_8) To that which arose
+   <span id="pp_8"></span>*Aph*. 8.[\*](#pp_8.md) To that which arose
 antecedently it belongs to be that whose result is this; because it is
 to the one that there belongs fruition, not to the other.
 
@@ -188,7 +188,7 @@ just mentioned:
 |-------------------------------------------------------------------|
 | <span class="small">*   The Subtile Body how constituted.*</span> |
 
-   <span id="pp_9"></span>*Aph*. 9.[\*](#pp_9) The seventeen, as one,
+   <span id="pp_9"></span>*Aph*. 9.[\*](#pp_9.md) The seventeen, as one,
 are the Subtile Body.
 
    <span id="pp_9a"></span>*a*. The Subtile Body, further, through its
@@ -211,7 +211,7 @@ be *one*, how can there be diverse experiences accordingly as Souls are
 |-------------------------------------------------------------------|
 | <span class="small">*   How there come to be individuals.*</span> |
 
-   <span id="pp_10"></span>*Aph*. 10.[\*](#pp_10) There is distinction
+   <span id="pp_10"></span>*Aph*. 10.[\*](#pp_10.md) There is distinction
 of individuals, through diversity of desert.
 
    <span id="pp_10a"></span>*a*. Although, at the beginmng of the
@@ -224,7 +224,7 @@ father, a plurality, partitively, in the shape of the Subtile Body of
 son, daughter, &c. He tells the cause of this, saying, 'through
 diversity of desert;' meaning, through actions, &c., which are causes of
 the experiences of other animal souls.<span
-id="page_230_fr_3"></span>[3](#page_230_note_3)
+id="page_230_fr_3"></span>[3](#page_230_note_3.md)
 
 <span id="page_232">p. 232</span>
 
@@ -239,7 +239,7 @@ Gross one? To this he replies:
 |----------------------------------------------------------------------|
 | <span class="small">*   Why the Gross Body is called a Body.*</span> |
 
-   <span id="pp_11"></span>*Aph*. 11.[\*](#pp_11) From its being applied
+   <span id="pp_11"></span>*Aph*. 11.[\*](#pp_11.md) From its being applied
 to *it*, \[viz., to the Subtile one\], it is applied to the Body, which
 is the tabernacle of the abiding thereof.
 
@@ -253,7 +253,7 @@ as a tabernacle for the Subtile Body? With reference to this, he says:
 |-------------------------------------------------------------------------------|
 | <span class="small">*   The Subtile Body dependent on the Gross Body.*</span> |
 
-   <span id="pp_12"></span>*Aph*. 12.[\*](#pp_12) Not independently
+   <span id="pp_12"></span>*Aph*. 12.[\*](#pp_12.md) Not independently
 \[can the Subtile Body exist\], without that \[Gross Body\]; just like a
 shadow and a picture.
 
@@ -276,7 +276,7 @@ to anything else. To this he replies:
 |----------------------------------------------------------------------|
 | <span class="small">*   For it must have a material support.*</span> |
 
-   <span id="pp_13"></span>*Aph*. 13.[\*](#pp_13) No, even though it be
+   <span id="pp_13"></span>*Aph*. 13.[\*](#pp_13.md) No, even though it be
 limited; because of \[its\] association with masses; just like the sun.
 
    <span id="pp_13a"></span>*a*. Though it be limited, it does not abide
@@ -297,7 +297,7 @@ Subtile Body:
 |-----------------------------------------------------------|
 | <span class="small">*   Size of the Subtile Body.*</span> |
 
-   <span id="pp_14"></span>*Aph*. 14.[\*](#pp_14) It is of atomic
+   <span id="pp_14"></span>*Aph*. 14.[\*](#pp_14.md) It is of atomic
 magnitude; for there is a Scripture for its acting.
 
    <span id="pp_14a"></span>*a*. 'It,' the Subtile Body, is 'of atomic
@@ -318,7 +318,7 @@ being limited:
 |--------------------------------------------------------|
 | <span class="small">*   Another proof of this.*</span> |
 
-   <span id="pp_15"></span>*Aph*. 15.[\*](#pp_15) And because there is
+   <span id="pp_15"></span>*Aph*. 15.[\*](#pp_15.md) And because there is
 Scripture for its being formed of food.
 
    <span id="pp_15a"></span>*a*. That is to say: it, viz., the Subtile
@@ -340,7 +340,7 @@ Subtile <span id="page_236">p. 236</span> Bodies, which are
 |----------------------------------------------------------------|
 | <span class="small">*   Why the Subtile Body migrates.*</span> |
 
-   <span id="pp_16"></span>*Aph*. 16.[\*](#pp_16) The mundane existence
+   <span id="pp_16"></span>*Aph*. 16.[\*](#pp_16.md) The mundane existence
 of is for the sake of Soul; just like a king's cooks.
 
    <span id="pp_16a"></span>*a*. That is to say: as the cooks of a king
@@ -357,7 +357,7 @@ Body, also:
 |--------------------------------------------------------|
 | <span class="small">*   The Gross Body whence.*</span> |
 
-   <span id="pp_17"></span>*Aph*. 17.[\*](#pp_17) The Body consists of
+   <span id="pp_17"></span>*Aph*. 17.[\*](#pp_17.md) The Body consists of
 the five elements.
 
 <span id="page_237">p. 237</span>
@@ -373,7 +373,7 @@ modification of the five elements mingled.
 |--------------------------------------------------|
 | <span class="small">*   Another opinion.*</span> |
 
-   <span id="pp_18"></span>*Aph*. 18.[\*](#pp_18) Some say it consists
+   <span id="pp_18"></span>*Aph*. 18.[\*](#pp_18.md) Some say it consists
 of *four* elements.
 
    <span id="pp_18a"></span>*a*. This \[is alleged\] with the import
@@ -385,7 +385,7 @@ that the *Ether* does not originate \[anything\].
 |--------------------------------------------------|
 | <span class="small">*   Another opinion.*</span> |
 
-   <span id="pp_19"></span>*Aph*. 19.[\*](#pp_19) Others say that it
+   <span id="pp_19"></span>*Aph*. 19.[\*](#pp_19.md) Others say that it
 consists of *one* element.
 
    <span id="pp_19a"></span>*a*. The import is, that the body is of
@@ -404,7 +404,7 @@ that the Body consists of the Elements:
 |---------------------------------------------------------------------------|
 | <span class="small">*   Intellect not the result of organization.*</span> |
 
-   <span id="pp_20"></span>*Aph*. 20.[\*](#pp_20) Intellect is not
+   <span id="pp_20"></span>*Aph*. 20.[\*](#pp_20.md) Intellect is not
 natural \[a natural result of organization\]; because it is not found in
 them severally.
 
@@ -421,7 +421,7 @@ notion that Intellect is a property of the Body\]:
 |-----------------------------------------------------|
 | <span class="small">*   A further argument.*</span> |
 
-   <span id="pp_21"></span>*Aph*. 21.[\*](#pp_21) And \[if the Body had
+   <span id="pp_21"></span>*Aph*. 21.[\*](#pp_21.md) And \[if the Body had
 intellect natural to it,\] there would not be the death, &c., of
 anything.
 
@@ -434,7 +434,7 @@ its own nature, intelligent, would not take <span id="page_239">p.
 long as the thing remains.
 
    <span id="pp_21b"></span>*b*. Pondering a doubt, as to the assertion
-\[in [§ 20](#pp_20)\], viz., 'because it is not found in them
+\[in [§ 20](#pp_20.md)\], viz., 'because it is not found in them
 severally,' he repels it:
 
  
@@ -443,7 +443,7 @@ severally,' he repels it:
 |------------------------------------------------------------------------|
 | <span class="small">*   An illustrative objection disposed of.*</span> |
 
-   <span id="pp_22"></span>*Aph*. 22.[\*](#pp_22) If \[you say that
+   <span id="pp_22"></span>*Aph*. 22.[\*](#pp_22.md) If \[you say that
 Intellect results from organization, and that\] it is like the power of
 something intoxicating, \[the ingredients of which, separately, have no
 intoxicating power, we reply, that\] this might arise, on conjunction,
@@ -464,7 +464,7 @@ thing illustrated, it is not established, by any proof whatsoever, that
 there is intelligence, in a subtile \[or undeveloped\] state, in the
 elements separately: such is the meaning.
 
-   <span id="pp_22b"></span>*b*. It was stated \[[§ 16](#pp_16),\] that
+   <span id="pp_22b"></span>*b*. It was stated \[[§ 16](#pp_16.md),\] that
 the Subtile Bodies transmigrate for the sake of Soul. In regard to this,
 he tells, in two aphorisms, by what operation, dependent on the birth of
 the Subtile Bodies, which means their transmigrations into Gross Bodies,
@@ -478,7 +478,7 @@ what aims of Soul are accomplished:
 |-----------------------------------------------------------------------------------|
 | <span class="small">*   Purpose of the Subtile Body's taking a gross one.*</span> |
 
-   <span id="pp_23"></span>*Aph*. 23.[\*](#pp_23) From knowledge
+   <span id="pp_23"></span>*Aph*. 23.[\*](#pp_23.md) From knowledge
 \[acquired during mundane existence, comes\] salvation, \[Soul's *chief*
 end\].
 
@@ -493,7 +493,7 @@ thence, in the shape of emancipation, Soul's \[chief\] End.
 |-------------------------------------------------|
 | <span class="small">*   Bondage whence.*</span> |
 
-   <span id="pp_24"></span>*Aph*. 24.[\*](#pp_24) Bondage \[which may be
+   <span id="pp_24"></span>*Aph*. 24.[\*](#pp_24.md) Bondage \[which may be
 viewed as one of the ends which Soul could arrive at only through the
 Subtile Body,\] is from Misconception.
 
@@ -515,7 +515,7 @@ knowledge:
 |------------------------------------------------------------------------------------------------------|
 | <span class="small">*   Knowledge has neither cooperator nor substitute, in liberating Soul.*</span> |
 
-   <span id="pp_25"></span>*Aph*. 25.[\*](#pp_25) Since this \[viz.,
+   <span id="pp_25"></span>*Aph*. 25.[\*](#pp_25.md) Since this \[viz.,
 knowledge,\] is the precise cause \[of liberation\], there is neither
 association \[of anything else with it, e.g., good works,\] nor
 alternativeness, \[e.g., of good works, in its stead\].
@@ -529,7 +529,7 @@ association nor alternativeness, he states an illustration:
 |---------------------------------------------------|
 | <span class="small">*   This illustrated.*</span> |
 
-   <span id="pp_26"></span>*Aph*. 26.[\*](#pp_26) The emancipation of
+   <span id="pp_26"></span>*Aph*. 26.[\*](#pp_26.md) The emancipation of
 Soul does not depend on both \[knowledge and works, or the like\]; as
 \[any end that one aims at is not obtained\] from dreams and from the
 waking state, \[together, or alternatively, which are, severally,\]
@@ -549,7 +549,7 @@ all-constitutive, divine\] Soul; since there is no *illusoriness* in
 |------------------------------------------------------------------------|
 | <span class="small">*   Man's conception of the All is faulty.*</span> |
 
-   <span id="pp_27"></span>*Aph*. 27.[\*](#pp_27) Even of that other it
+   <span id="pp_27"></span>*Aph*. 27.[\*](#pp_27.md) Even of that other it
 is not complete.
 
    <span id="pp_27a"></span>*a*. Even of 'that other,' i.e., of the
@@ -567,7 +567,7 @@ the illusoriness of the \[object of\] Worship, \[just referred to\]:
 |----------------------------------------------------------|
 | <span class="small">*   Where the fault applies.*</span> |
 
-   <span id="pp_28"></span>*Aph*. 28.[\*](#pp_28) Moreover, it is in
+   <span id="pp_28"></span>*Aph*. 28.[\*](#pp_28.md) Moreover, it is in
 what is *fancied* that it is thus \[illusory\].
 
    <span id="pp_28a"></span>*a*. That is to say: 'moreover, it is thus,'
@@ -575,7 +575,7 @@ i.e., moreover, there is illusoriness, in that portion of the thing
 meditated which \[portion of it\] is fancied by the Mind, \[while it
 does not exist in reality\]; for, the object of worship having been
 declared in such texts as, 'All this, indeed, is Brahma,'<span
-id="page_243_fr_3"></span>[3](#page_243_note_3) the illusoriness belongs
+id="page_243_fr_3"></span>[3](#page_243_note_3.md) the illusoriness belongs
 entirely to that portion \[of the impure conception of 'the All' which
 presents itself, to the undiscriminating, under the aspect\] of the
 world.
@@ -591,7 +591,7 @@ With reference to this, he declares \[as follows\]:
 |-------------------------------------------------------|
 | <span class="small">*   The fruit of Worship.*</span> |
 
-   <span id="pp_29"></span>*Aph*. 29.[\*](#pp_29) From the achievement
+   <span id="pp_29"></span>*Aph*. 29.[\*](#pp_29.md) From the achievement
 of \[the worship termed\] meditation there is, to the pure \[Soul\], all
 \[power\]; like Nature.
 
@@ -614,7 +614,7 @@ Knowledge:
 |--------------------------------------------------------------------|
 | <span class="small">*   Removal of obstacles to knowledge.*</span> |
 
-   <span id="pp_30"></span>*Aph*. 30.[\*](#pp_30) Meditation is \[the
+   <span id="pp_30"></span>*Aph*. 30.[\*](#pp_30.md) Meditation is \[the
 cause of\] the removal of Desire.
 
    <span id="pp_30a"></span>*a*. That is to say: Meditation is the cause
@@ -632,7 +632,7 @@ Meditation:
 |---------------------------------------------------------------------|
 | <span class="small">*   Meditation at what point perfected.*</span> |
 
-   <span id="pp_31"></span>*Aph*. 31.[\*](#pp_31) It \[Meditation,\] is
+   <span id="pp_31"></span>*Aph*. 31.[\*](#pp_31.md) It \[Meditation,\] is
 perfected by the repelling of the modifications \[of the Mind, which
 ought to be abstracted from all thoughts of anything\].
 
@@ -645,7 +645,7 @@ Meditation:
 |--------------------------------------------------------------------|
 | <span class="small">*   Practices conducive to meditation.*</span> |
 
-   <span id="pp_32"></span>*Aph*. 32.[\*](#pp_32) This \[Meditation,\]
+   <span id="pp_32"></span>*Aph*. 32.[\*](#pp_32.md) This \[Meditation,\]
 is perfected by Restraint, Postures, and one's Duties.
 
 <span id="page_246">p. 246</span>
@@ -662,9 +662,9 @@ characterizes, in order, Restraint, &c.:
 |----------------------------------------------------------|
 | <span class="small">*   Restraint of the breath.*</span> |
 
-   <span id="pp_33"></span>*Aph*. 33.[\*](#pp_33) Restraint \[of the
+   <span id="pp_33"></span>*Aph*. 33.[\*](#pp_33.md) Restraint \[of the
 breath\] is by means of expulsion and retention.<span
-id="page_246_fr_3"></span>[3](#page_246_note_3)
+id="page_246_fr_3"></span>[3](#page_246_note_3.md)
 
    <span id="pp_33a"></span>*a*. That it is 'of the breath' is gathered
 from the notoriousness \[of its being so\].
@@ -678,8 +678,8 @@ next in order:
 |-------------------------------------------|
 | <span class="small">*   Postures.*</span> |
 
-   <span id="pp_34"></span>*Aph*. 34.[\*](#pp_34) Steady and
-\[promoting\]<span id="page_246_fr_*"></span>[\*](#page_246_note_*) ease
+   <span id="pp_34"></span>*Aph*. 34.[\*](#pp_34.md) Steady and
+\[promoting\]<span id="page_246_fr_*"></span>[\*](#page_246_note_*.md) ease
 is a \[suitable\] Posture.
 
    <span id="pp_34a"></span>*a*. That is to say: that is a Posture
@@ -696,7 +696,7 @@ arms.
 |---------------------------------------------|
 | <span class="small">*   One's duty.*</span> |
 
-   <span id="pp_35"></span>*Aph*. 35.[\*](#pp_35) One's Duty is the
+   <span id="pp_35"></span>*Aph*. 35.[\*](#pp_35.md) One's Duty is the
 performance of the actions prescribed for one's religious order.
 
    <span id="pp_35a"></span>*a*. Simple.
@@ -707,7 +707,7 @@ performance of the actions prescribed for one's religious order.
 |---------------------------------------------------------------------------|
 | <span class="small">*   Knowledge by Concentrantion how attained.*</span> |
 
-   <span id="pp_36"></span>*Aph*. 36.[\*](#pp_36) Through Dispassion and
+   <span id="pp_36"></span>*Aph*. 36.[\*](#pp_36.md) Through Dispassion and
 Practice.
 
    <span id="pp_36a"></span>*a*. Simply through mere Practice, in the
@@ -718,7 +718,7 @@ liberation through knowledge been expounded.
 
    <span id="pp_36b"></span>*b*. After this, the cause of Bondage, viz.,
 Misconception, declared in \[the assertion,\] 'Bondage is from
-Misconception,' \[[§ 24](#pp_24)\], is to be expounded. Here he first
+Misconception,' \[[§ 24](#pp_24.md)\], is to be expounded. Here he first
 states the nature of Misconception:
 
 <span id="page_248">p. 248</span>
@@ -729,14 +729,14 @@ states the nature of Misconception:
 |--------------------------------------------------------|
 | <span class="small">*   Misconception defined.*</span> |
 
-   <span id="pp_37"></span>*Aph*. 37.[\*](#pp_37) The kinds of
+   <span id="pp_37"></span>*Aph*. 37.[\*](#pp_37.md) The kinds of
 Misconception are five.
 
    <span id="pp_37a"></span>*a*. That is to say: the subdivisions of
 Misconception, which is the cause of Bondage, are Ignorance, Egoism,
 Desire, Aversion, and Fear of Dissolution; the five mentioned in the
 *Yoga*, \[see *Yoga Aphorisms*, Book II., § 3<span
-id="page_248_fr_2"></span>[2](#page_248_note_2)\].
+id="page_248_fr_2"></span>[2](#page_248_note_2.md)\].
 
    <span id="pp_37b"></span>*b*. Having stated the nature of
 Misconception, he states also the nature of its cause, viz., Disability:
@@ -747,8 +747,8 @@ Misconception, he states also the nature of its cause, viz., Disability:
 |--------------------------------------------------------------|
 | <span class="small">*   The varieties of Disability.*</span> |
 
-   <span id="pp_38"></span>*Aph*. 38.[\*](#pp_38) But Disability is of
-twenty-eight sorts.<span id="page_248_fr_5"></span>[5](#page_248_note_5)
+   <span id="pp_38"></span>*Aph*. 38.[\*](#pp_38.md) But Disability is of
+twenty-eight sorts.<span id="page_248_fr_5"></span>[5](#page_248_note_5.md)
 
    <span id="pp_38a"></span>*a*. Simple; \[as explained in the *Yoga*\].
 
@@ -764,7 +764,7 @@ come two sorts of Disability of the Understanding:
 |-----------------------------------------------|
 | <span class="small">*   Acquiescence.*</span> |
 
-   <span id="pp_39"></span>*Aph*. 39.[\*](#pp_39) Acquiescence is of
+   <span id="pp_39"></span>*Aph*. 39.[\*](#pp_39.md) Acquiescence is of
 nine sorts.
 
    <span id="pp_39a"></span>*a*. He will, himself, explain how it is of
@@ -776,7 +776,7 @@ nine sorts.
 |----------------------------------------------|
 | <span class="small">*   Perfections.*</span> |
 
-   <span id="pp_40"></span>*Aph*. 40.[\*](#pp_40) Perfection is of eight
+   <span id="pp_40"></span>*Aph*. 40.[\*](#pp_40.md) Perfection is of eight
 sorts.
 
    <span id="pp_40a"></span>*a*. This, also, he will, himself, explain.
@@ -793,7 +793,7 @@ know the particulars, there is, in order, a quaternion of aphorisms:
 |-----------------------------------------------------|
 | <span class="small">*   Their subdivisions.*</span> |
 
-   <span id="pp_41"></span>*Aph*. 41.[\*](#pp_41) The subdivisions \[of
+   <span id="pp_41"></span>*Aph*. 41.[\*](#pp_41.md) The subdivisions \[of
 Misconception\] are as \[declared\] aforetime.
 
    <span id="pp_41a"></span>*a*. The subdivisions of Misconception,
@@ -808,11 +808,11 @@ prolixity: such is the meaning.
 |--------------------------------------------------|
 | <span class="small">*   Of this further.*</span> |
 
-   <span id="pp_42"></span>*Aph*. 42.[\*](#pp_42) So of the other
+   <span id="pp_42"></span>*Aph*. 42.[\*](#pp_42.md) So of the other
 \[viz., Disability\].
 
    <span id="pp_42a"></span>*a*. That is to say: 'so,' i.e., just as
-aforetime \[[§ 41](#pp_41)\], the divisions 'of the other,' viz., of
+aforetime \[[§ 41](#pp_41.md)\], the divisions 'of the other,' viz., of
 Disability, also, which are twenty-eight, are to be understood, as
 regards their particularities.
 
@@ -822,14 +822,14 @@ regards their particularities.
 |-------------------------------------------------------|
 | <span class="small">*   Acquiescence divided.*</span> |
 
-   <span id="pp_43"></span>*Aph*. 43.[\*](#pp_43) Acquiescence is
+   <span id="pp_43"></span>*Aph*. 43.[\*](#pp_43.md) Acquiescence is
 ninefold, through the divisions of 'the internal and the rest.'
 
 <span id="page_251">p. 251</span>
 
    <span id="pp_43a"></span>*a*. This aphorism is explained by a
 memorial verse \[No. 50<span
-id="page_251_fr_2"></span>[2](#page_251_note_2)\].
+id="page_251_fr_2"></span>[2](#page_251_note_2.md)\].
 
  
 
@@ -837,13 +837,13 @@ id="page_251_fr_2"></span>[2](#page_251_note_2)\].
 |-----------------------------------------------------|
 | <span class="small">*   Perfection divided.*</span> |
 
-   <span id="pp_44"></span>*Aph*. 44.[\*](#pp_44) Through Reasoning,
+   <span id="pp_44"></span>*Aph*. 44.[\*](#pp_44.md) Through Reasoning,
 &c., \[which are its subdivisions,\] Perfection \[is eightfold\].
 
    <span id="pp_44a"></span>*a*. That is to say: Perfection is of eight
 kinds, through its divisions, viz., Reasoning, &c. This aphorism, also,
 'has been explained in a memorial verse,' \[No. 51<span
-id="page_251_fr_4"></span>[4](#page_251_note_4)\].
+id="page_251_fr_4"></span>[4](#page_251_note_4.md)\].
 
 <span id="page_252">p. 252</span>
 
@@ -859,7 +859,7 @@ austerity, meditation, &c.? To this he replies:
 |-----------------------------------------------------------|
 | <span class="small">*   The enumeration defended.*</span> |
 
-   <span id="pp_45"></span>*Aph*. 45.[\*](#pp_45) Not from any other
+   <span id="pp_45"></span>*Aph*. 45.[\*](#pp_45.md) Not from any other
 \[than what we have just stated does real Perfection arise; because what
 does arise therefrom, e.g., from austerities, is\] without abandonment
 of something else, \[viz., Misconception\].
@@ -877,7 +877,7 @@ and not a real Perfection: such is the meaning.
 
    <span id="pp_45b"></span>*b*. Now the individuated creation, which
 was mentioned concisely in the assertion, 'There is distinction of
-individuals through diversity of desert,' \[[§ 10](#pp_10)\], is set
+individuals through diversity of desert,' \[[§ 10](#pp_10.md)\], is set
 forth diffusely:
 
  
@@ -886,13 +886,13 @@ forth diffusely:
 |-------------------------------------------------------------------|
 | <span class="small">*   The creation viewed in its parts.*</span> |
 
-   <span id="pp_46"></span>*Aph*. 46.[\*](#pp_46) \[The creation is
+   <span id="pp_46"></span>*Aph*. 46.[\*](#pp_46.md) \[The creation is
 that\] of which the subdivisions are the demons, &c.
 
    <span id="pp_46a"></span>*a*. Supply, such is that creation, of which
 'the subdivisions,' the included divisions, are the demons, &c. This is
 explained in a memorial verse, \[No. 53<span
-id="page_253_fr_3"></span>[3](#page_253_note_3)\].
+id="page_253_fr_3"></span>[3](#page_253_note_3.md)\].
 
 <span id="page_254">p. 254</span>
 
@@ -905,7 +905,7 @@ creation, also, is for the sake of Soul:
 |-----------------------------------------------------------------------|
 | <span class="small">*   This creation, also, for Soul's sake.*</span> |
 
-   <span id="pp_47"></span>*Aph*. 47.[\*](#pp_47) From Brahmá down to a
+   <span id="pp_47"></span>*Aph*. 47.[\*](#pp_47.md) From Brahmá down to a
 post, for its \[Soul's,\] sake is creation, till there be discrimination
 \[between Soul and Nature\].
 
@@ -918,7 +918,7 @@ the subdivided creation, in three aphorisms:
 |------------------------------------------------------|
 | <span class="small">*   The celestial world.*</span> |
 
-   <span id="pp_48"></span>*Aph*. 48.[\*](#pp_48) Aloft, it \[the
+   <span id="pp_48"></span>*Aph*. 48.[\*](#pp_48.md) Aloft, it \[the
 creation,\] abounds in \[the quality of\] Purity.
 
    <span id="pp_48a"></span>*a*. That is to say: 'aloft,' above the
@@ -930,7 +930,7 @@ world of mortals, the creation has chiefly \[the Quality of\] Purity.
 |-----------------------------------------------------|
 | <span class="small">*   The infernal world.*</span> |
 
-   <span id="pp_49"></span>*Aph*. 49.[\*](#pp_49) Beneath, it \[the
+   <span id="pp_49"></span>*Aph*. 49.[\*](#pp_49.md) Beneath, it \[the
 creation,\] abounds in Darkness.
 
    <span id="pp_49a"></span>*a*. 'Beneath,' that is to say, under the
@@ -944,7 +944,7 @@ world of mortals.
 |-------------------------------------------------------|
 | <span class="small">*   The world of mortals.*</span> |
 
-   <span id="pp_50"></span>*Aph*. 50.[\*](#pp_50) In the midst, it \[the
+   <span id="pp_50"></span>*Aph*. 50.[\*](#pp_50.md) In the midst, it \[the
 creation,\] abounds in Passion.
 
    <span id="pp_50a"></span>*a*. 'In the midst,' that is to say, in the
@@ -960,7 +960,7 @@ and the rest? With reference to this, he says:
 |----------------------------------------------------------------|
 | <span class="small">*   Why Nature operates diversely.*</span> |
 
-   <span id="pp_51"></span>*Aph*. 51.[\*](#pp_51) By reason of diversity
+   <span id="pp_51"></span>*Aph*. 51.[\*](#pp_51.md) By reason of diversity
 of desert is Nature's \[diverse\] behaviour; like a born-slave.
 
    <span id="pp_51a"></span>*a*. Just by reason of diverse desert is the
@@ -969,7 +969,7 @@ operation. An illustration of the diversity is \[offered in the
 example\], 'like a born-slave.' That is to say: as, of him who is a
 slave from the embryo-state upwards, there are, through the aptitude
 arising from the habit<span
-id="page_255_fr_3"></span>[3](#page_255_note_3) of being a dependant,
+id="page_255_fr_3"></span>[3](#page_255_note_3.md) of being a dependant,
 various sorts of behaviour, i.e., of service, for the sake of his
 master, so \[does Nature serve soul in various ways\].
 
@@ -986,7 +986,7 @@ replies:
 |--------------------------------------------------------------|
 | <span class="small">*   Why Heaven is to be shunned.*</span> |
 
-   <span id="pp_52"></span>*Aph*. 52.[\*](#pp_52) Even there there is
+   <span id="pp_52"></span>*Aph*. 52.[\*](#pp_52.md) Even there there is
 return \[to miserable states of existence\]: it is to be shunned, by
 reason of the successive subjections to birth, \[from which the
 inhabitants of Heaven enjoy no immunity\].
@@ -999,7 +999,7 @@ inhabitants of Heaven enjoy no immunity\].
 |-------------------------------------------------------------------|
 | <span class="small">*   Transitoriness of heavenly bliss.*</span> |
 
-   <span id="pp_53"></span>*Aph*. 53.[\*](#pp_53) Alike \[belongs to
+   <span id="pp_53"></span>*Aph*. 53.[\*](#pp_53.md) Alike \[belongs to
 all\] the sorrow produced by decay and death.
 
 <span id="page_257">p. 257</span>
@@ -1018,7 +1018,7 @@ effected by absorption into the cause, either; as he tells us:
 |---------------------------------------------------------------------|
 | <span class="small">*   Absorption into Nature ineffectual.*</span> |
 
-   <span id="pp_54"></span>*Aph*. 54.[\*](#pp_54) Not by absorption into
+   <span id="pp_54"></span>*Aph*. 54.[\*](#pp_54.md) Not by absorption into
 the cause is there accomplishment of the end; because, as in the case of
 one who has dived, there is a rising again.
 
@@ -1035,7 +1035,7 @@ because it is <span id="page_258">p. 258</span> impossible that one's
 Faults should be consumed, without a familiarity with the distinction
 \[between Soul and Nature\], in consequence of the reappearance of
 Passion, by reason of the non-destruction of habits,<span
-id="page_258_fr_1"></span>[1](#page_258_note_1) &c.: such is the
+id="page_258_fr_1"></span>[1](#page_258_note_1.md) &c.: such is the
 meaning.
 
    <span id="pp_54b"></span>*b*. But then, the cause is not by anyone
@@ -1049,7 +1049,7 @@ replies:
 |---------------------------------------------------------------------------|
 | <span class="small">*   Nature free to act, yet guided by an end.*</span> |
 
-   <span id="pp_55"></span>*Aph*. 55.[\*](#pp_55) Though she be not
+   <span id="pp_55"></span>*Aph*. 55.[\*](#pp_55.md) Though she be not
 constrained to act, yet this is fitting; because of her being devoted to
 another.
 
@@ -1075,7 +1075,7 @@ rises from absorption into Nature:
 |---------------------------------------------------------------------|
 | <span class="small">*   The gain of absorption into Nature.*</span> |
 
-   <span id="pp_56"></span>*Aph*. 56.[\*](#pp_56) \[He who is absorbed
+   <span id="pp_56"></span>*Aph*. 56.[\*](#pp_56.md) \[He who is absorbed
 into Nature must rise again;\] for he becomes omniscient and omnipotent
 \[in a subsequent creation\].
 
@@ -1086,7 +1086,7 @@ creation, was absorbed into the Cause, in a subsequent creation becomes
 'omniscient and omnipotent;' the Lord, the First Spirit.
 
    <span id="pp_56b"></span>*b*. But then, if that be so, it is
-impossible to deny<span id="page_260_fr_2"></span>[2](#page_260_note_2)
+impossible to deny<span id="page_260_fr_2"></span>[2](#page_260_note_2.md)
 a *Lord*, \[which, nevertheless, the *Sánkhyas* seem to do\]. To this he
 replies.
 
@@ -1096,7 +1096,7 @@ replies.
 |----------------------------------------------------------------|
 | <span class="small">*   In what sense there is a Lord.*</span> |
 
-   <span id="pp_57"></span>*Aph*. 57.[\*](#pp_57) The existence of
+   <span id="pp_57"></span>*Aph*. 57.[\*](#pp_57.md) The existence of
 *such* a Lord is a settled point.
 
    <span id="pp_57a"></span>*a*. It is quite agreed, by all, that there
@@ -1116,7 +1116,7 @@ aphorism of the Second Book:
 |-------------------------------------------------------------|
 | <span class="small">*   Nature's disinterestedness.*</span> |
 
-   <span id="pp_58"></span>*Aph*. 58.[\*](#pp_58) Nature's creating is
+   <span id="pp_58"></span>*Aph*. 58.[\*](#pp_58.md) Nature's creating is
 for the sake of another, though it be spontaneous;—for she is not the
 experiencer;—like a cart's carrying saffron \[for the sake of its
 master\].
@@ -1132,7 +1132,7 @@ another. To this he replies:
 |--------------------------------------------------------------------------|
 | <span class="small">*   Nature's spontaneous action illustrated.*</span> |
 
-   <span id="pp_59"></span>*Aph*. 59.[\*](#pp_59) Though she be
+   <span id="pp_59"></span>*Aph*. 59.[\*](#pp_59.md) Though she be
 unintelligent, yet Nature acts; as is the case with milk.
 
    <span id="pp_59a"></span>*a*. That is to say: as milk, without
@@ -1144,7 +1144,7 @@ Mind, &c., even without the efforts of any other.
 
    <span id="pp_59b"></span>*b*. This is not rendered tautological by
 this aphorism, 'As the cow for the calf,' \[[Book II., §
-37](sak2.htm#pp_37)\]; because there the question was only of the
+37](sak2.htm#pp_37.md)\]; because there the question was only of the
 operation of *instruments*, and because cows *are* intelligent.
 
    <span id="pp_59c"></span>*c*. By means of the exhibition of another
@@ -1156,7 +1156,7 @@ illustration, he mentions the cause of the thing asserted as aforesaid:
 |-------------------------------------------------------|
 | <span class="small">*   Another illustration.*</span> |
 
-   <span id="pp_60"></span>*Aph*. 60.[\*](#pp_60) Or as is the case with
+   <span id="pp_60"></span>*Aph*. 60.[\*](#pp_60.md) Or as is the case with
 the acts \[or on-goings\]—for we see them—of Time, &c.
 
    <span id="pp_60a"></span>*a*. Or as is the case with the acts \[or
@@ -1179,12 +1179,12 @@ experience, &c.' To this he replies:
 |---------------------------------------------------------|
 | <span class="small">*   Nature acts from habit.*</span> |
 
-   <span id="pp_61"></span>*Aph*. 61.[\*](#pp_61) From her own nature
+   <span id="pp_61"></span>*Aph*. 61.[\*](#pp_61.md) From her own nature
 she acts, not from thought; like a servant.
 
    <span id="pp_61a"></span>*a*. That is to say: as, in the case of an
 excellent servant, naturally, just from habit,<span
-id="page_263_fr_2"></span>[2](#page_263_note_2) the appointed and
+id="page_263_fr_2"></span>[2](#page_263_note_2.md) the appointed and
 necessary service of the master is engaged in, and not with a view to
 his own enjoyment, just so does Nature energize from habit alone.
 
@@ -1196,18 +1196,18 @@ his own enjoyment, just so does Nature energize from habit alone.
 |---------------------------------------------------------------------|
 | <span class="small">*   Or through the influence of Desert.*</span> |
 
-   <span id="pp_62"></span>*Aph*. 62.[\*](#pp_62) Or from attraction by
+   <span id="pp_62"></span>*Aph*. 62.[\*](#pp_62.md) Or from attraction by
 Deserts, which have been from eternity.
 
    <span id="pp_62a"></span>*a*. Here the word 'or' is for connecting
 \[this aphorism with the preceding one\]. Since Desert has been from
 eternity, therefore, moreover, through attraction by Deserts, the
 energizing of Nature is necessary and rightly distributed: such is the
-meaning.<span id="page_264_fr_3"></span>[3](#page_264_note_3)
+meaning.<span id="page_264_fr_3"></span>[3](#page_264_note_3.md)
 
    <span id="pp_62b"></span>*b*. It being thus settled, then, that
 Nature is creative for the sake of another, he tells us, in the
-following section,<span id="page_264_fr_4"></span>[4](#page_264_note_4)
+following section,<span id="page_264_fr_4"></span>[4](#page_264_note_4.md)
 that, on the completion of that other's purpose, Liberation takes place
 through Nature's quite spontaneously ceasing to act:
 
@@ -1219,7 +1219,7 @@ through Nature's quite spontaneously ceasing to act:
 |------------------------------------------------------------------------|
 | <span class="small">*   Nature desists when the end is gained.*</span> |
 
-   <span id="pp_63"></span>*Aph*. 63.[\*](#pp_63) From discriminative
+   <span id="pp_63"></span>*Aph*. 63.[\*](#pp_63.md) From discriminative
 knowledge there is a cessation of Nature's creating; as is the case with
 a cook, when the cooking has been performed.
 
@@ -1239,7 +1239,7 @@ replies:
 |-----------------------------------------------------------------------------|
 | <span class="small">*   Liberation of one involves not that of all.*</span> |
 
-   <span id="pp_64"></span>*Aph*. 64.[\*](#pp_64) Another remains like
+   <span id="pp_64"></span>*Aph*. 64.[\*](#pp_64.md) Another remains like
 another, through her fault.
 
    <span id="pp_64a"></span>*a*. But 'another,' i.e., one *devoid* of
@@ -1257,7 +1257,7 @@ ceasing to act:
 |---------------------------------------------------------------|
 | <span class="small">*   Liberation constists of what.*</span> |
 
-   <span id="pp_65"></span>*Aph*. 65.[\*](#pp_65) \[The fruit of
+   <span id="pp_65"></span>*Aph*. 65.[\*](#pp_65.md) \[The fruit of
 Nature's ceasing to act\], the solitariness of both \[Nature and Soul\],
 or \[which comes to the same thing,\] of either, is liberation.
 
@@ -1283,12 +1283,12 @@ To this he replies:
 |----------------------------------------------------------------------------|
 | <span class="small">*   How Nature affects one, and not the other.*</span> |
 
-   <span id="pp_66"></span>*Aph*. 66.[\*](#pp_66) Moreover, \[when
+   <span id="pp_66"></span>*Aph*. 66.[\*](#pp_66.md) Moreover, \[when
 Nature has left off distressing the emancipated,\] she does not desist,
 in regard to her creative influence on another; as is the case with the
 snake, \[which ceases to be a terror,\] in respect of him who is aware
 of the truth in regard to the rope \[which another mistakes for a
-snake\].<span id="page_267_fr_5"></span>[5](#page_267_note_5)
+snake\].<span id="page_267_fr_5"></span>[5](#page_267_note_5.md)
 
    <span id="pp_66a"></span>*a*. Nature, though, in respect of one Soul,
 she have desisted, in consequence of discriminative knowledge, does not
@@ -1317,7 +1317,7 @@ cases were parallel throughout\].
 |------------------------------------------------------------------------------|
 | <span class="small">*   Another consideration why Nature should act.*</span> |
 
-   <span id="pp_67"></span>*Aph*. 67.[\*](#pp_67) And from connexion
+   <span id="pp_67"></span>*Aph*. 67.[\*](#pp_67.md) And from connexion
 with Desert, which is the cause.
 
    <span id="pp_67a"></span>*a*. 'Desert,' which is the cause of
@@ -1340,7 +1340,7 @@ replies:
 |--------------------------------------------------------------------|
 | <span class="small">*   Nature's selection how determined.*</span> |
 
-   <span id="pp_68"></span>*Aph*. 68.[\*](#pp_68) Though there is \[on
+   <span id="pp_68"></span>*Aph*. 68.[\*](#pp_68.md) Though there is \[on
 Soul's part, this\] indifference, yet want of discrimination is the
 cause of Nature's service.
 
@@ -1351,7 +1351,7 @@ indifferent, yet Nature, just through \[her own\] non-discrimination,
 saying, 'This is my master,' 'This is I myself,' serves Souls, \[towards
 their eventual emancipation\], by creation, &c. And so, to what Soul,
 not having discriminated herself \[therefrom\], she has the habit<span
-id="page_271_fr_1"></span>[1](#page_271_note_1) of showing herself, in
+id="page_271_fr_1"></span>[1](#page_271_note_1.md) of showing herself, in
 respect just of that one does Nature energize; and this it is that
 determines her: such is the import.
 
@@ -1365,7 +1365,7 @@ replies:
 |---------------------------------------------------------------------------------|
 | <span class="small">*   Nature energizes only till the end is attained.*</span> |
 
-   <span id="pp_69"></span>*Aph*. 69.[\*](#pp_69) Like a dancer does
+   <span id="pp_69"></span>*Aph*. 69.[\*](#pp_69.md) Like a dancer does
 she, though she had been energizing, desist; because of the end's having
 been attained.
 
@@ -1386,7 +1386,7 @@ cessation:
 |---------------------------------------------------|
 | <span class="small">*   This illustrated.*</span> |
 
-   <span id="pp_70"></span>*Aph*. 70.[\*](#pp_70) Moreover, when her
+   <span id="pp_70"></span>*Aph*. 70.[\*](#pp_70.md) Moreover, when her
 fault is known, Nature does not approach \[Soul\]; like a woman of good
 family.
 
@@ -1396,7 +1396,7 @@ taking the shape of pain, &c.,—does not again approach Soul; 'like a
 woman of good family;' i.e., as a \[frail\] woman of good family,
 ashamed at ascertaining that her fault <span id="page_273">p. 273</span>
 has been seen by her husband, does not approach her husband.<span
-id="page_273_fr_2"></span>[2](#page_273_note_2)
+id="page_273_fr_2"></span>[2](#page_273_note_2.md)
 
    <span id="pp_70b"></span>*b*. But then, if Nature's energizing be for
 the sake of Soul, Soul must be *altered* by Bondage and Liberation,
@@ -1409,7 +1409,7 @@ this he replies:
 |-------------------------------------------------------------|
 | <span class="small">*   Soul's relation to Bondage.*</span> |
 
-   <span id="pp_71"></span>*Aph*. 71.[\*](#pp_71) Bondage and Liberation
+   <span id="pp_71"></span>*Aph*. 71.[\*](#pp_71.md) Bondage and Liberation
 do not actually belong to Soul, \[and would not even appear to do so,\]
 but for non-discrimination.
 
@@ -1429,12 +1429,12 @@ Liberation, as declared, belong to Nature alone: so he asserts:
 |-------------------------------------------------------------|
 | <span class="small">*   Bondage is really Nature's.*</span> |
 
-   <span id="pp_72"></span>*Aph*. 72.[\*](#pp_72) They really belong to
+   <span id="pp_72"></span>*Aph*. 72.[\*](#pp_72.md) They really belong to
 Nature, through consociation; like a beast.
 
    <span id="pp_72a"></span>*a*. Bondage and Liberation, through Pain,
 really belong to Nature,<span
-id="page_274_fr_2"></span>[2](#page_274_note_2) 'through consociation,'
+id="page_274_fr_2"></span>[2](#page_274_note_2.md) 'through consociation,'
 i.e., through her being hampered by the habits, &c., which are the
 causes of Pain; as a beast, through its being hampered by a rope,
 experiences Bondage and Liberation: such is the meaning.
@@ -1450,7 +1450,7 @@ Or by what is there Liberation? To this he replies:
 |-------------------------------------------------------------------------|
 | <span class="small">*   How Nature binds and liberates herself.*</span> |
 
-   <span id="pp_73"></span>*Aph*. 73.[\*](#pp_73) In seven ways does
+   <span id="pp_73"></span>*Aph*. 73.[\*](#pp_73.md) In seven ways does
 Nature bind herself; like the silk-worm: in one way does she liberate
 herself.
 
@@ -1478,7 +1478,7 @@ commentator,\] explains what was asserted in the fourth aphorism:
 |---------------------------------------------------|
 | <span class="small">*   An objection met.*</span> |
 
-   <span id="pp_74"></span>*Aph*. 74.[\*](#pp_74) Non-discrimination is
+   <span id="pp_74"></span>*Aph*. 74.[\*](#pp_74.md) Non-discrimination is
 the cause \[not the thing itself\]; \[so that\] there is no
 disparagement of sense-evidence.
 
@@ -1500,7 +1500,7 @@ to Discrimination, Study, which is the essence of them:
 |----------------------------------------------------------|
 | <span class="small">*   Means of Discrimination.*</span> |
 
-   <span id="pp_75"></span>*Aph*. 75.[\*](#pp_75) Discrimination is
+   <span id="pp_75"></span>*Aph*. 75.[\*](#pp_75.md) Discrimination is
 perfected through abandonment \[of everything\], expressed by a 'No,
 No,' through study of the \[twenty-five\] Principles.
 
@@ -1522,7 +1522,7 @@ perfecting of Discrimination:
 |-----------------------------------------------------------------------|
 | <span class="small">*   The means not efficacious everywhere.*</span> |
 
-   <span id="pp_76"></span>*Aph*. 76.[\*](#pp_76) Through the difference
+   <span id="pp_76"></span>*Aph*. 76.[\*](#pp_76.md) Through the difference
 of those competent \[to engage in the matter at all\], there is no
 necessity \[that each and every one should at once be successful\].
 
@@ -1542,7 +1542,7 @@ solely through the effecting of Discrimination, and not otherwise:
 |-------------------------------------------------------------------------|
 | <span class="small">*   Imperfect Discrimination inefficacious.*</span> |
 
-   <span id="pp_77"></span>*Aph*. 77.[\*](#pp_77) Since what \[Pain\]
+   <span id="pp_77"></span>*Aph*. 77.[\*](#pp_77.md) Since what \[Pain\]
 has been repelled returns again, there comes, even from medium \[but
 imperfect,\] Discrimination, experience, \[which it is desired to get
 entirely rid of\].
@@ -1558,7 +1558,7 @@ and Meditating: such is the division \[of Discrimination\].
 |------------------------------------------------------------|
 | <span class="small">*   Of Liberation during life.*</span> |
 
-   <span id="pp_78"></span>*Aph*. 78.[\*](#pp_78) And he who, living, is
+   <span id="pp_78"></span>*Aph*. 78.[\*](#pp_78.md) And he who, living, is
 liberated.
 
    <span id="pp_78a"></span>*a*. That is to say: he, also, who, while
@@ -1573,7 +1573,7 @@ some one liberated, though still living:
 |---------------------------------------------------------|
 | <span class="small">*   Proof that this may be.*</span> |
 
-   <span id="pp_79"></span>*Aph*. 79.[\*](#pp_79) It is proved by the
+   <span id="pp_79"></span>*Aph*. 79.[\*](#pp_79.md) It is proved by the
 fact of instructed and instructor.
 
    <span id="pp_79a"></span>*a*. That is to say: it is proved that there
@@ -1589,8 +1589,8 @@ matter\].
 |------------------------------------------------|
 | <span class="small">*   Further proof.*</span> |
 
-   <span id="pp_80"></span>*Aph*. 80.[\*](#pp_80) And there is
-Scripture.<span id="page_280_fr_2"></span>[2](#page_280_note_2)
+   <span id="pp_80"></span>*Aph*. 80.[\*](#pp_80.md) And there is
+Scripture.<span id="page_280_fr_2"></span>[2](#page_280_note_2.md)
 
    <span id="pp_80a"></span>*a*. There is also Scripture for there being
 persons liberated during life.
@@ -1604,7 +1604,7 @@ one might become \[qualified to be\] an instructor. To this he replies:
 |--------------------------------------------------------|
 | <span class="small">*   A suggestion repelled.*</span> |
 
-   <span id="pp_81"></span>*Aph*. 81.[\*](#pp_81) \[And not through
+   <span id="pp_81"></span>*Aph*. 81.[\*](#pp_81.md) \[And not through
 merely hearing is one qualified to become an instructor\]: otherwise,
 there were blind tradition.
 
@@ -1625,7 +1625,7 @@ how can there \[still\] be life? To this he replies:
 |-------------------------------------------------------------------------|
 | <span class="small">*   How life is compatible with Liberation.*</span> |
 
-   <span id="pp_82"></span>*Aph*. 82.[\*](#pp_82) Possessed of a body,
+   <span id="pp_82"></span>*Aph*. 82.[\*](#pp_82.md) Possessed of a body,
 \[the emancipated sage goes on living\]; like the whirling of a wheel.
 
    <span id="pp_82a"></span>*a*. Even on the cessation of the action of
@@ -1634,7 +1634,7 @@ of the motal inertia resulting from the previous action. So, after
 knowledge, though actions do not arise, yet, through the
 \[self-continuant\] action of antecedent acts, possessing an energizing
 body, he remains living, yet liberated;<span
-id="page_281_fr_2"></span>[2](#page_281_note_2) \[and, if he did not,
+id="page_281_fr_2"></span>[2](#page_281_note_2.md) \[and, if he did not,
 but if every one who gained true knowledge were, on gaining it, to
 disappear, true knowledge would cease to be handed down orally; and
 Kapila, probably, did not contemplate books, or did not think these a
@@ -1643,10 +1643,10 @@ secure depository of the doctrine\]: such is the meaning.
 <span id="page_282">p. 282</span>
 
    <span id="pp_82b"></span>*b*. But then, since the continuance<span
-id="page_282_fr_1"></span>[1](#page_282_note_1) of experience, &c., is
+id="page_282_fr_1"></span>[1](#page_282_note_1.md) of experience, &c., is
 put an end to by that 'Meditation with distinct recognition of the
 object,' which \[see *Yoga Aphorisms*, Book I., § 17,<span
-id="page_282_fr_2"></span>[2](#page_282_note_2)\] is the cause of
+id="page_282_fr_2"></span>[2](#page_282_note_2.md)\] is the cause of
 knowledge, how can one retain a body? To this he replies:
 
  
@@ -1655,12 +1655,12 @@ knowledge, how can one retain a body? To this he replies:
 |-------------------------------------------------------------------------------|
 | <span class="small">*   Difficulty of shuffling off this mortal coil.*</span> |
 
-   <span id="pp_83"></span>*Aph*. 83.[\*](#pp_83) This \[retention of a
+   <span id="pp_83"></span>*Aph*. 83.[\*](#pp_83.md) This \[retention of a
 body\] is occasioned by the least vestige of impression.
 
    <span id="pp_83a"></span>*a*. That is to say: the retention of a body
 is caused by even the least remains of those impressions<span
-id="page_282_fr_4"></span>[4](#page_282_note_4) of objects which are the
+id="page_282_fr_4"></span>[4](#page_282_note_4.md) of objects which are the
 causes of having a body.
 
    <span id="pp_83b"></span>*b*. He recapitulates the sense of the
@@ -1674,7 +1674,7 @@ declarations of the Institute:
 |-------------------------------------------------|
 | <span class="small">*   Recapitulation.*</span> |
 
-   <span id="pp_84"></span>*Aph*. 84.[\*](#pp_84) That which was to be
+   <span id="pp_84"></span>*Aph*. 84.[\*](#pp_84.md) That which was to be
 done has been done, when entire Cessation of Pain has resulted from
 Discrimination; not otherwise, not otherwise.
 
@@ -1687,47 +1687,47 @@ Dispassion.
 
 ------------------------------------------------------------------------
 
-[Next](sak4)
+[Next](sak4.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="page_230_note_3"></span>[3](#page_230_fr_3) See, for another
+<span id="page_230_note_3"></span>[3](#page_230_fr_3.md) See, for another
 rendering, the *Rational Refutation*, &c., p. 36. *Ed*.
 
 <span id="footnotes_page_242">p. 242</span>
 
-<span id="page_243_note_3"></span>[3](#page_243_fr_3) *Chhándogya
+<span id="page_243_note_3"></span>[3](#page_243_fr_3.md) *Chhándogya
 Upanishad*, iii., xiv., 1. *Ed*.
 
 <span id="footnotes_page_246">p. 246</span>
 
-<span id="page_246_note_3"></span>[3](#page_246_fr_3) Aniruddha and
+<span id="page_246_note_3"></span>[3](#page_246_fr_3.md) Aniruddha and
 Vedántí Mahádeva transpose Aphorisms 33 and 34. *Ed*.
 
-<span id="page_246_note_*"></span>[\*](#page_246_fr_*) Remove the
+<span id="page_246_note_*"></span>[\*](#page_246_fr_*.md) Remove the
 brackets which enclose 'promoting.' Compare {[Book VI., Aph.
-24](sak6.htm#pp_24)}.
+24](sak6.htm#pp_24.md)}.
 
 <span id="footnotes_page_248">p. 248</span>
 
-<span id="page_248_note_2"></span>[2](#page_248_fr_2) The five are there
+<span id="page_248_note_2"></span>[2](#page_248_fr_2.md) The five are there
 called 'afflictions' (*kleśa*). *Ed*.
 
-<span id="page_248_note_5"></span>[5](#page_248_fr_5) See, for these,
+<span id="page_248_note_5"></span>[5](#page_248_fr_5.md) See, for these,
 Dr. Ballantyne's edition of the *Tattwa-samása*, § 63. *Ed*.
 
 <span id="footnotes_page_251">p. 251</span>
 
-<span id="page_251_note_2"></span>[2](#page_251_fr_2) Quoted below, from
+<span id="page_251_note_2"></span>[2](#page_251_fr_2.md) Quoted below, from
 the *Sánkhya-káriká*, with Mr. John Davies's translation:
 
 'Nine varieties of acquiescence are set forth; four internal, named from
 Nature, means, time, and fortune; five external, relating to abstinence
 from objects of sense. *Ed*.
 
-<span id="page_251_note_4"></span>[4](#page_251_fr_4) Here appended,
+<span id="page_251_note_4"></span>[4](#page_251_fr_4.md) Here appended,
 with Mr. Davies's translation:
 
 'The eight perfections (or means of acquiring perfection) are reasoning
@@ -1739,7 +1739,7 @@ perfection.' *Ed*.
 
 <span id="footnotes_page_253">p. 253</span>
 
-<span id="page_253_note_3"></span>[3](#page_253_fr_3) It here follows,
+<span id="page_253_note_3"></span>[3](#page_253_fr_3.md) It here follows,
 with the translation of Mr. Davies:
 
 'The divine class has eight varieties; the animal, five. Mankind is
@@ -1748,35 +1748,35 @@ emanation,) of living things.' *Ed*.
 
 <span id="footnotes_page_255">p. 255</span>
 
-<span id="page_255_note_3"></span>[3](#page_255_fr_3) *Vásaná*. *Vide
-supra*, [p. 29, note 2](sak1.htm#page_29_note_2). *Ed*.
+<span id="page_255_note_3"></span>[3](#page_255_fr_3.md) *Vásaná*. *Vide
+supra*, [p. 29, note 2](sak1.htm#page_29_note_2.md). *Ed*.
 
 <span id="footnotes_page_258">p. 258</span>
 
-<span id="page_258_note_1"></span>[1](#page_258_fr_1) To render
+<span id="page_258_note_1"></span>[1](#page_258_fr_1.md) To render
 *sanskára*. *Ed*.
 
 <span id="footnotes_page_260">p. 260</span>
 
-<span id="page_260_note_2"></span>[2](#page_260_fr_2) *Pratishedha*, on
-which *vide supra*, [p. 112, note 3](sak1.htm#page_112_note_3). *Ed*.
+<span id="page_260_note_2"></span>[2](#page_260_fr_2.md) *Pratishedha*, on
+which *vide supra*, [p. 112, note 3](sak1.htm#page_112_note_3.md). *Ed*.
 
 <span id="footnotes_page_263">p. 263</span>
 
-<span id="page_263_note_2"></span>[2](#page_263_fr_2) As here, so again
+<span id="page_263_note_2"></span>[2](#page_263_fr_2.md) As here, so again
 just below, this word renders *sanskára*. *Ed*.
 
 <span id="footnotes_page_264">p. 264</span>
 
-<span id="page_264_note_3"></span>[3](#page_264_fr_3) See the *Rational
+<span id="page_264_note_3"></span>[3](#page_264_fr_3.md) See the *Rational
 Refutation*, &c., p. 36. *Ed*.
 
-<span id="page_264_note_4"></span>[4](#page_264_fr_4) Read, instead of
+<span id="page_264_note_4"></span>[4](#page_264_fr_4.md) Read, instead of
 'in the following section,' 'by an enunciation.' *Ed*.
 
 <span id="footnotes_page_267">p. 267</span>
 
-<span id="page_267_note_5"></span>[5](#page_267_fr_5) Of this Aphorism,
+<span id="page_267_note_5"></span>[5](#page_267_fr_5.md) Of this Aphorism,
 and of the comment on it, MSS. of Vijnána's treatise afford a much
 better text than that here reprinted. In one of its more approved forms,
 that which Vijnána seems to elect, the original enunciation runs thus:
@@ -1804,44 +1804,44 @@ be found at p. 13 of the variants appended to my edition of the
 
 <span id="footnotes_page_271">p. 271</span>
 
-<span id="page_271_note_1"></span>[1](#page_271_fr_1) *Vásaná*. *Vide
-supra*, [p. 29, note 2](sak1.htm#page_29_note_2). *Ed*.
+<span id="page_271_note_1"></span>[1](#page_271_fr_1.md) *Vásaná*. *Vide
+supra*, [p. 29, note 2](sak1.htm#page_29_note_2.md). *Ed*.
 
 <span id="footnotes_page_273">p. 273</span>
 
-<span id="page_273_note_2"></span>[2](#page_273_fr_2) See the *Rational
+<span id="page_273_note_2"></span>[2](#page_273_fr_2.md) See the *Rational
 Refutation*, &c., p. 61.
 
 <span id="footnotes_page_274">p. 274</span>
 
-<span id="page_274_note_2"></span>[2](#page_274_fr_2) Read: 'Bondage and
+<span id="page_274_note_2"></span>[2](#page_274_fr_2.md) Read: 'Bondage and
 Liberation belong to Nature alone; because to it, in truth, belongs
 misery.' *Ed*.
 
 <span id="footnotes_page_280">p. 280</span>
 
-<span id="page_280_note_2"></span>[2](#page_280_fr_2) None of the
+<span id="page_280_note_2"></span>[2](#page_280_fr_2.md) None of the
 commentators but Vijnána recognizes an Aphorism in these words; and it
 is very doubtful whether even he does so. *Ed*.
 
 <span id="footnotes_page_281">p. 281</span>
 
-<span id="page_281_note_2"></span>[2](#page_281_fr_2) For another
+<span id="page_281_note_2"></span>[2](#page_281_fr_2.md) For another
 rendering, see the *Rational Refutation*, &c., p. 31. *Ed*.
 
 <span id="footnotes_page_282">p. 282</span>
 
-<span id="page_282_note_1"></span>[1](#page_282_fr_1) *Vásaná*. *Vide
-supra*, [p. 29, note 2](sak1.htm#page_29_note_2). *Ed*.
+<span id="page_282_note_1"></span>[1](#page_282_fr_1.md) *Vásaná*. *Vide
+supra*, [p. 29, note 2](sak1.htm#page_29_note_2.md). *Ed*.
 
-<span id="page_282_note_2"></span>[2](#page_282_fr_2) Which here
+<span id="page_282_note_2"></span>[2](#page_282_fr_2.md) Which here
 follows, with Dr. Ballantyne's translation: '\[Meditation, of the kind
 called\] that in which there is distinct recognition \[arises, in its
 fourfold shape,\] from the attendance of (1) argumentation (*vitarka*).
 (2) deliberation (*vichára*), (3) beatitude (*ánanda*), and (4) egotism
 (*asmitá*).' *Ed*.
 
-<span id="page_282_note_4"></span>[4](#page_282_fr_4) This is to render
+<span id="page_282_note_4"></span>[4](#page_282_fr_4.md) This is to render
 the technicality *sanskára*. *Ed*.
 
  

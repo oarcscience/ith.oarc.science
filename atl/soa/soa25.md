@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa24)  [Next](soa26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa24)  [Next](soa26.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,4 +123,4 @@ the Akkadian than of any other blood which flows in their veins.
 
 ------------------------------------------------------------------------
 
-[Next: Stonehenge](soa26)
+[Next: Stonehenge](soa26.md)

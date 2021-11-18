@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor19)  [Next](sor21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor19)  [Next](sor21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -34,7 +34,7 @@ died off promptly, and by this rapid mortality showed up the cruelty of
 families in lurid colours. What killed them was not the mortifications
 they were called upon to endure, so much as sheer ennui and despair.
 After the first burst of enthusiasm, that dread disease of the cloister
-([described](errata.htm#7) as early as the fifteenth century by
+([described](errata.htm#7.md) as early as the fifteenth century by
 Cassien), leaden ennui, the gloomy ennui of afternoons, the tenderly
 melancholy ennui which loses itself in vague languors and dreamy
 reverie, quickly undermined their health. Others were more like mad
@@ -95,7 +95,7 @@ he would have persuaded them that the priest sanctifies by his
 priesthood those he loves, and that sin with him is a form of
 consecration. This was a doctrine widespread in France, and prevalent
 even in Paris, where these priests’ mistresses were called "the
-sanctified." <span id="fr_65"></span>[1](#fn_65)
+sanctified." <span id="fr_65"></span>[1](#fn_65.md)
 
 Did Gauffridi, finding them all in his power, confine himself to
 Madeleine? Did he not go on from love to licence? Impossible to
@@ -806,9 +806,9 @@ all may redound to His glory and the glory of His Church!"
 
 ### Footnotes
 
-<span id="fn_65"></span>[170:1](sor20.htm#fr_65) Lestoile, edit.
+<span id="fn_65"></span>[170:1](sor20.htm#fr_65.md) Lestoile, edit.
 Michaud, p. 561.
 
 ------------------------------------------------------------------------
 
-[Next: 19. The Nuns of Loudun—Urbain Grandier (1633, 1634)](sor21)
+[Next: 19. The Nuns of Loudun—Urbain Grandier (1633, 1634)](sor21.md)

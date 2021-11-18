@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb24)  [Next](isb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb24)  [Next](isb26.md) 
 
 ------------------------------------------------------------------------
 
@@ -521,4 +521,4 @@ architectural style which lie on the left of the travelle
 
 ------------------------------------------------------------------------
 
-[Next: Dundalk](isb26)
+[Next: Dundalk](isb26.md)

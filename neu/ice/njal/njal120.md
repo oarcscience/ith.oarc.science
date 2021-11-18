@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal119)  [Next](njal121) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal119)  [Next](njal121.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ against this, and so the suit comes to naught."
 
 ------------------------------------------------------------------------
 
-[Next: 121. Of The Award Of Atonement Between Flosi And Njal](njal121)
+[Next: 121. Of The Award Of Atonement Between Flosi And Njal](njal121.md)

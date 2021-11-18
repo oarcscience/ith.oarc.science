@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes20)  [Next](tes22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes20)  [Next](tes22.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ friends and assistants. You must be our best companions
 in every way. If some member of a strange tribe should come here with
 evil intentions, you must kill him without fear. You must give us
 assistance in every struggle against all kinds of invaders." <span
-id="fr_22"></span>[1](#fn_22) They gave them iron knives, and axes,
+id="fr_22"></span>[1](#fn_22.md) They gave them iron knives, and axes,
 match-locks, and kettles, and all kinds of iron ware. "Take this, and be
 stronger than any of your neighbors. Chastize them according to their
 deserts and evil intentions." After that the Russian chief instituted
@@ -47,11 +47,11 @@ in the Kolyma country, summer of 1895.
 
 ### Footnotes
 
-<span id="fn_22"></span>[37:1](tes21.htm#fr_22) The Lamut consider
+<span id="fn_22"></span>[37:1](tes21.htm#fr_22.md) The Lamut consider
 themselves. and are considered by the Russians, as the closest allies of
 the latter in every struggle against other more stubborn and refractory
 tribes, such as the Chukchee and the Koryak.
 
 ------------------------------------------------------------------------
 
-[Next: 1. One-Side](tes22)
+[Next: 1. One-Side](tes22.md)

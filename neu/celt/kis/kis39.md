@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis38)  [Next](kis40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis38)  [Next](kis40.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ what present was given him.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](kis40)
+[Next: Part III](kis40.md)

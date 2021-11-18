@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](gafm22)  [Next](gafm24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](gafm22)  [Next](gafm24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BH3EVC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BH3EVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gods and Fighting Men*, by Lady Gregory, \[1904\], at Intangible
 Textual Heritage
 
@@ -89,4 +89,4 @@ the gods know where was it they went.
 
 ------------------------------------------------------------------------
 
-[Next: Part I Book IV: Tadg in Manannan's Islands](gafm24)
+[Next: Part I Book IV: Tadg in Manannan's Islands](gafm24.md)

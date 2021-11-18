@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl65)  [Next](hpl67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl65)  [Next](hpl67.md) 
 
 ------------------------------------------------------------------------
 
@@ -1330,4 +1330,4 @@ of fine bluish-grey dust.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](hpl67)
+[Next: Chapter I](hpl67.md)

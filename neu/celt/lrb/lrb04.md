@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb03)  [Next](lrb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb03)  [Next](lrb05.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ language more or less profound, due chiefly to admixture with
 by writers on the subject, but the most marked difference in Breton
 speech seems to be that between the dialect of Vannes and that of the
 rest of Brittany. Such differences do not appear to be older than the
-sixteenth century. <span id="fr_0"></span>[1](#fn_0)
+sixteenth century. <span id="fr_0"></span>[1](#fn_0.md)
 
 ### The Ancient Armoricans
 
@@ -157,7 +157,7 @@ and the legend relates
 <span id="page_18">p. 18</span>
 
 that his parents, being childless, constructed a menhir <span
-id="fr_1"></span>[1](#fn_1) of pure silver and gave it to the poor in
+id="fr_1"></span>[1](#fn_1.md) of pure silver and gave it to the poor in
 the hope that a son might be born to them. Their desire was fulfilled,
 and Samson, the son in question, became a great missionary of the
 Church. Accompanied by forty monks, he crossed the Channel and landed on
@@ -381,7 +381,7 @@ Nomenoë has gone to the sea-shore and gathered
 <span id="img_02400"></span>
 
 [![Nomenoë](tn/02400.jpg)  
-Click to enlarge](img/02400.jpg)  
+Click to enlarge](img/02400.jpg.md)  
 Nomenoë  
 
  
@@ -389,7 +389,7 @@ Nomenoë
 <span id="page_25">p. 25</span>
 
 pebbles, for these are the tribute he intends to offer the bald
-King. <span id="fr_2"></span>[1](#fn_2) Arrived at the gates of Rennes,
+King. <span id="fr_2"></span>[1](#fn_2.md) Arrived at the gates of Rennes,
 he asks that they shall be opened to him so that he may pay the tribute
 of silver. He is asked to descend, to enter the castle, and to leave his
 chariot in the courtyard. He is requested to wash his hands to the sound
@@ -468,7 +468,7 @@ But if my lips no longer frame
 The glories of our Alain's name,
 
 My heart shall ever sing his praise,  
-Who won the fight and wears the bays! <span id="fr_3"></span>[1](#fn_3)
+Who won the fight and wears the bays! <span id="fr_3"></span>[1](#fn_3.md)
 
 The Saxons of this lay are, of course, the Norsemen, who, speaking a
 Teutonic tongue, would seem to the Celtic-speaking Bretons to be allied
@@ -542,7 +542,7 @@ the contrary, he formed an alliance with him, a thing unheard of betwixt
 Breton and Norman, and sent his two sons to William's camp to serve
 against the English. These two youths, Brian and Alain, repaired to the
 rendezvous of the Norman forces, accompanied by a body of Breton
-knights, who styled them Mac-tierns. <span id="fr_4"></span>[1](#fn_4)
+knights, who styled them Mac-tierns. <span id="fr_4"></span>[1](#fn_4.md)
 Certain other wealthy Bretons, who were not of the pure Celtic race, and
 who bore French names, as Robert de Vitry, Bertrand de Dinan, and Raoul
 de Gael, resorted likewise to the Court of the Duke of Normandy with
@@ -723,7 +723,7 @@ He draws the bright blade out.
 <span id="img_03400"></span>
 
 [![THE DEATH OF MARGUERITE IN THE CASTLE OF TROGOFF](tn/03400.jpg)  
-Click to enlarge](img/03400.jpg)  
+Click to enlarge](img/03400.jpg.md)  
 THE DEATH OF MARGUERITE IN THE CASTLE OF TROGOFF  
 
  
@@ -802,29 +802,29 @@ ground of Breton story.
 
 ### Footnotes
 
-<span id="fn_0"></span>[16:1](lrb04.htm#fr_0) Consult E. Ernault,
+<span id="fn_0"></span>[16:1](lrb04.htm#fr_0.md) Consult E. Ernault,
 *Petite Grammaire bretonne* (Saint-Brieuc, 1897); L. Le Clerc,
 *Grammaire bretonne* (Saint-Brieuc, 1908); J. P. Treasure, *An
 Introduction to Breton Grammar* (Carmarthen, 1903). For the dialect of
 Vannes see A. Guillevic and P. Le Goff, *Grammaire bretonne du Dialect
 de Vannes* (Vannes, 1902).
 
-<span id="fn_1"></span>[18:1](lrb04.htm#fr_1) Lit. 'long stone,' a
+<span id="fn_1"></span>[18:1](lrb04.htm#fr_1.md) Lit. 'long stone,' a
 megalithic monument. See Chapter II, "Menhirs and Dolmens." Students of
 folk-lore will recognize the symbolic significance of the offering. We
 seem to have here some connexion with pillar-Worship, as found in
 ancient Crete, and the adoration of the Irminsul among the ancient
 Saxons.
 
-<span id="fn_2"></span>[25:1](lrb04.htm#fr_2) Charles the Bald.
+<span id="fn_2"></span>[25:1](lrb04.htm#fr_2.md) Charles the Bald.
 
-<span id="fn_3"></span>[27:1](lrb04.htm#fr_3) For the Breton original
+<span id="fn_3"></span>[27:1](lrb04.htm#fr_3.md) For the Breton original
 and the French translation from which the above is adapted see
 Villemarqué, *Barzaz-Breiz*, p. 112.
 
-<span id="fn_4"></span>[29:1](lrb04.htm#fr_4) 'Sons of the Chief.'
+<span id="fn_4"></span>[29:1](lrb04.htm#fr_4.md) 'Sons of the Chief.'
 MacTier is a fairly common name in Scotland to-day.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Menhirs and Dolmens](lrb05)
+[Next: Chapter II: Menhirs and Dolmens](lrb05.md)

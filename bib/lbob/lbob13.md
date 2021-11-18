@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob12)  [Next](lbob14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob12)  [Next](lbob14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -124,7 +124,7 @@ WE are very much concerned at your too long absence from us.
 2 What is it, or what affairs are they, which obstruct your coming?
 
 3 If you fear the anger of Cæsar, because you have
-[abandoned](errata.htm#4) your former religion, and made proselytes also
+[abandoned](errata.htm#4.md) your former religion, and made proselytes also
 of others, you have this to plead, that your acting thus proceeded not
 from inconstancy, but judgment. Farewell.
 
@@ -191,7 +191,7 @@ injury, (by shewing favour to us.)
 
 <span id="img_09700"></span> <span align="CENTER"> [![THE LAST JUDGMENT.
 FROM A PERSIAN MINIATURE OF THE EIGHTH CENTURY.](tn/09700.jpg)  
-Click to enlarge](img/09700.jpg)  
+Click to enlarge](img/09700.jpg.md)  
 THE LAST JUDGMENT. FROM A PERSIAN MINIATURE OF THE EIGHTH CENTURY.  
 </span>
 
@@ -375,6 +375,6 @@ August, in the consulship of Leo and Savinus.
 
 ------------------------------------------------------------------------
 
-[Next: The Acts of Paul and Thecla](lbob14)
+[Next: The Acts of Paul and Thecla](lbob14.md)
 
 </div>

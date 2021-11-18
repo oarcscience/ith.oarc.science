@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec10)  [Next](aec12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec10)  [Next](aec12.md) 
 
 ------------------------------------------------------------------------
 
@@ -218,4 +218,4 @@ Do not seek Him—SEE HIM! Where? EVERYWHERE.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Accidents](aec12)
+[Next: IX. Accidents](aec12.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh05) 
-[Next](iggh07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh05.md) 
+[Next](iggh07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 ### III. Water-Lily
 
 <span class="smallcaps">But</span> in the meanwhile, the gods <span
-id="fr_17"></span>[i](#fn_17) were aware of what had occurred. For they
+id="fr_17"></span>[i](#fn_17.md) were aware of what had occurred. For they
 had heard the abuse that Ranga showered upon them in his despair. And
 when they saw that by the assistance of <span
 class="smallcaps">Water-lily</span> he had obtained Wanawallarí for his
@@ -27,13 +27,13 @@ wife, they were very angry both with the goddess and with him. And they
 met in Indra's hall, to discuss the matter and determine what was to be
 done. But I was not there, for I bore no grudge against Ranga, knowing
 his youth and the provocation which had occasioned his outburst, and
-forgiving it. And Nárayana <span id="fr_18"></span>[j](#fn_18) also was
+forgiving it. And Nárayana <span id="fr_18"></span>[j](#fn_18.md) also was
 absent, for so far from being angry with Ranga, he was pleased with him
 for heaping praises on his wife, who is a part of himself,
 
 <span id="page_25">p. 25</span>
 
-as thou art of me <span id="fr_19"></span>[k](#fn_19). So having met,
+as thou art of me <span id="fr_19"></span>[k](#fn_19.md). So having met,
 they said indignantly to one another: This alone would be scandalous and
 intolerable, that a mortal should insolently load us with abuse for not
 being at his beck and call as if we were nothing but the slaves of our
@@ -44,7 +44,7 @@ that instead of being punished for his bad behaviour, he has actually
 received a prize. And if this continues, we are wholly undone, and the
 established constitution of the universe will be destroyed. For it all
 depends on praise, worship and sacrifice <span
-id="fr_20"></span>[l](#fn_20): but if men get our favours without these,
+id="fr_20"></span>[l](#fn_20.md): but if men get our favours without these,
 who will be at the pains of propitiating us at all? Thus though the
 conduct of this mortal is bad, that of <span
 class="smallcaps">Water-lily</span> is infinitely worse. For she has
@@ -91,18 +91,18 @@ her.
 
 ### Footnotes
 
-<span id="fn_17"></span>[24:i](iggh06.htm#fr_17) When the gods are
+<span id="fn_17"></span>[24:i](iggh06.htm#fr_17.md) When the gods are
 spoken of collectively they are generally understood not to include the
 great gods, Brahma, Wishnu and Shiwa, each of whom has a claim to be
 considered the greatest.
 
-<span id="fn_18"></span>[24:j](iggh06.htm#fr_18) Wishnu, of whom
+<span id="fn_18"></span>[24:j](iggh06.htm#fr_18.md) Wishnu, of whom
 Water-Lily is the wife.
 
-<span id="fn_19"></span>[25:k](iggh06.htm#fr_19) Maheshwara is speaking
+<span id="fn_19"></span>[25:k](iggh06.htm#fr_19.md) Maheshwara is speaking
 to his wife.
 
-<span id="fn_20"></span>[25:l](iggh06.htm#fr_20) Plato's idea, that the
+<span id="fn_20"></span>[25:l](iggh06.htm#fr_20.md) Plato's idea, that the
 relation between gods and men is one of commercial reciprocity
 (ἐμπορικὴ) is precisely that of the Hindoos, who lay it down in a
 hundred places as the essence of the *stithi*, or established
@@ -110,4 +110,4 @@ constitution of things.
 
 ------------------------------------------------------------------------
 
-[Next: IV. A God and a Mortal](iggh07)
+[Next: IV. A God and a Mortal](iggh07.md)

@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](swld03)  [Next](swld05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](swld03)  [Next](swld05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T2IE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T2IE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selections from the Writings of Lord Dunsany*, by Lord Dunsany,
 \[1912\], at Intangible Textual Heritage
 
@@ -334,6 +334,6 @@ AGMAR A man, a man, and until just now a hungry one.
 
 ------------------------------------------------------------------------
 
-[Next: Act III](swld05)
+[Next: Act III](swld05.md)
 
 </div>

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](hau09)  [Next](hau11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](hau09)  [Next](hau11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hausa Folk-Lore*, by Maalam Shaihua, tr. by R. Sutherland Rattray,
 \[1913\], at Intangible Textual Heritage
 
@@ -157,6 +157,6 @@ Off with the rat's head.
 ------------------------------------------------------------------------
 
 [Next: 7. A story about an orphan, showing that 'he who sows evil, it
-comes forth in his own garden'](hau11)
+comes forth in his own garden'](hau11.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](tdp06)  [Next](tdp08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](tdp06)  [Next](tdp08.md) 
 
 ------------------------------------------------------------------------
 
@@ -249,4 +249,4 @@ unwittingly been the cause of making a pixy too proud to work.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII: Nanny Norrish and the Pixies.--The Ploughman's
-Breakfast.--The Pixy Riders.--Jan Coo](tdp08)
+Breakfast.--The Pixy Riders.--Jan Coo](tdp08.md)

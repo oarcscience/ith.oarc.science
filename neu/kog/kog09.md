@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog08)  [Next](kog10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog08)  [Next](kog10.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_06600"></span>
 
 [![](tn/06600.jpg)  
-Click to enlarge](img/06600.jpg)
+Click to enlarge](img/06600.jpg.md)
 
 <span id="page_67">p. 67</span>
 
@@ -681,4 +681,4 @@ of the dragon's castle.
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Bear, the Eagle, and the Fish](kog10)
+[Next: 7. The Bear, the Eagle, and the Fish](kog10.md)

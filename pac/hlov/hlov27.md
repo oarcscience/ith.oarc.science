@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov26)  [Next](hlov28) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov26)  [Next](hlov28.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ to produce islands in the time of human experience.
 
 ------------------------------------------------------------------------
 
-[Next: II. Hawaiian Volcanoes](hlov28)
+[Next: II. Hawaiian Volcanoes](hlov28.md)

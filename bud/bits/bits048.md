@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits047) [Next](bits049)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits047) [Next](bits049.md)
 
 ------------------------------------------------------------------------
 
@@ -568,7 +568,7 @@ the Nineteenth Chapter.
 
 ------------------------------------------------------------------------
 
-[Next: § 49. Different Kinds of Death](bits049)
+[Next: § 49. Different Kinds of Death](bits049.md)
 
  
 

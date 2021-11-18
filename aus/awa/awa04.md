@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa03)  [Next](awa05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa03)  [Next](awa05.md) 
 
 ------------------------------------------------------------------------
 
@@ -276,4 +276,4 @@ friendly reception from the blacks.
 
 ------------------------------------------------------------------------
 
-[Next: Contemporary Accounts](awa05)
+[Next: Contemporary Accounts](awa05.md)

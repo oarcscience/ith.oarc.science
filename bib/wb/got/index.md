@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](neh)   
+[Contents](#contents)    [Start Reading](neh.md)   
 
 ------------------------------------------------------------------------
 
@@ -29,21 +29,21 @@ domain in the US because it presumably was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Nehemiah](neh)  
-[Matthew](mat)  
-[Mark](mar)  
-[Luke](luk)  
-[John](joh)  
-[Romans](rom)  
-[1 Corinthians](co1)  
-[2 Corinthians](co2)  
-[Galatians](gal)  
-[Ephesians](eph)  
-[Philippians](phi)  
-[Colossians](col)  
-[1 Thessalonians](th1)  
-[2 Thessalonians](th2)  
-[1 Timothy](ti1)  
-[2 Timothy](ti2)  
-[Titus](tit)  
-[Philemon](plm)  
+<span id="contents"></span> [Nehemiah](neh.md)  
+[Matthew](mat.md)  
+[Mark](mar.md)  
+[Luke](luk.md)  
+[John](joh.md)  
+[Romans](rom.md)  
+[1 Corinthians](co1.md)  
+[2 Corinthians](co2.md)  
+[Galatians](gal.md)  
+[Ephesians](eph.md)  
+[Philippians](phi.md)  
+[Colossians](col.md)  
+[1 Thessalonians](th1.md)  
+[2 Thessalonians](th2.md)  
+[1 Timothy](ti1.md)  
+[2 Timothy](ti2.md)  
+[Titus](tit.md)  
+[Philemon](plm.md)  

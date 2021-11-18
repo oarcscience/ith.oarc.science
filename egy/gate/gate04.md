@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate03)  [Next](gate05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate03)  [Next](gate05.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ this great god through this Field.
 
 ------------------------------------------------------------------------
 
-[Next: The Third Hour](gate05)
+[Next: The Third Hour](gate05.md)

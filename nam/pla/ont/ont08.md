@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont07)  [Next](ont09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont07)  [Next](ont09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -30,7 +30,7 @@ visiting Indians.—Animal songs.—Mad Wolf dances with the Sacred
 Pipe.—Pipe Dancing songs.—The Root Digger is brought forth.—Opening the
 sacred Beaver Bundle.—Dance of four women representing beavers.—Two
 weasel skins are taken from the Bundle.—The Head Chief gives me the
-Indian name [A-pe-ech-eken](errata.htm#0) (White Weasel Moccasin).—A
+Indian name [A-pe-ech-eken](errata.htm#0) (White Weasel Moccasin.md).—A
 medicine man decorates me with the sacred paint.—Mad Wolf continues the
 ceremonial.—I take part in the buffalo dance.—Ceremonial closes with a
 feast.</span>
@@ -51,7 +51,7 @@ Going-to-the Sun standing sharp and clear against the deep blue sky.
 
 <span class="contnote">\[paragraph continues\]</span> Far away over the
 plains in the east and enveloped in a bluish haze, were the Kato-yi-six
-(Sweet Pine Hills), <span id="fr_16"></span>[1](#fn_12) resembling
+(Sweet Pine Hills), <span id="fr_16"></span>[1](#fn_12.md) resembling
 distant islands in the ocean. The smoke of many fires was rising from
 the lodges, bearing the sweet odour of burning cottonwood. Grazing
 horses dotted the green hillsides, and I met Indian boys riding
@@ -127,7 +127,7 @@ Akaiyan, the founder of the Beaver Medicine.
 
 <span id="img_07900"></span> <span align="CENTER"> [![MARKING TIME WITH
 FOREFINGER.](tn/07900.jpg)  
-Click to enlarge](img/07900.jpg)  
+Click to enlarge](img/07900.jpg.md)  
 MARKING TIME WITH FOREFINGER.  
 </span>
 
@@ -169,7 +169,7 @@ while at work building their
 
 <span id="img_08000"></span> <span align="CENTER"> [![HOLDING THE
 “PRONGS” IN SWEET SMOKE.](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)  
+Click to enlarge](img/08000.jpg.md)  
 HOLDING THE “PRONGS” IN SWEET SMOKE.  
 </span>
 
@@ -204,7 +204,7 @@ by the side of the sacred
 
 <span id="img_08100"></span> <span align="CENTER"> [![MAKING THE SIGN OF
 THE BEAVER LODGE.](tn/08100.jpg)  
-Click to enlarge](img/08100.jpg)  
+Click to enlarge](img/08100.jpg.md)  
 MAKING THE SIGN OF THE BEAVER LODGE.  
 </span>
 
@@ -241,7 +241,7 @@ their tails. Mad Wolf first chanted and then prayed over the buffalo
 
 <span id="img_08200"></span> <span align="CENTER"> [![BRINGING OUT
 BUFFALO RAW HIDE.](tn/08200.jpg)  
-Click to enlarge](img/08200.jpg)  
+Click to enlarge](img/08200.jpg.md)  
 BRINGING OUT BUFFALO RAW HIDE.  
 </span>
 
@@ -279,7 +279,7 @@ Gives-to-the-Sun handed Mad Wolf an old medicine
 <span id="img_08300"></span> <span align="CENTER"> [![MAKING BUFFALO
 SIGN.&lt;br&gt; (Index fingers curved in imitation of buffalo
 horns.)](tn/08300.jpg)  
-Click to enlarge](img/08300.jpg)  
+Click to enlarge](img/08300.jpg.md)  
 MAKING BUFFALO SIGN.  
 (Index fingers curved in imitation of buffalo horns.)  
 </span>
@@ -312,7 +312,7 @@ then chanted the two Crow songs:
 
 <span id="img_08400"></span> <span align="CENTER"> [![TAKING RATTLES
 FROM MEDICINE SACK.](tn/08400.jpg)  
-Click to enlarge](img/08400.jpg)  
+Click to enlarge](img/08400.jpg.md)  
 TAKING RATTLES FROM MEDICINE SACK.  
 </span>
 
@@ -339,7 +339,7 @@ all</span>
 <span id="img_08500"></span> <span align="CENTER"> [![MAKING THE
 ANTELOPE SIGN.&lt;br&gt; (Imitating with their hands the movement of
 antelope running.)](tn/08500.jpg)  
-Click to enlarge](img/08500.jpg)  
+Click to enlarge](img/08500.jpg.md)  
 MAKING THE ANTELOPE SIGN.  
 (Imitating with their hands the movement of antelope running.)  
 </span>
@@ -406,7 +406,7 @@ incense, he bowed his head and prayed to the Great Spirit in
 <span id="img_08700"></span> <span align="CENTER"> [![“HOLDING THE PIPE
 IN THE SWEET SMOKE,&lt;br&gt; MAD WOLF BOWED HIS HEAD AND
 PRAYED&lt;br&gt; TO THE SUN.”](tn/08700.jpg)  
-Click to enlarge](img/08700.jpg)  
+Click to enlarge](img/08700.jpg.md)  
 “HOLDING THE PIPE IN THE SWEET SMOKE,  
 MAD WOLF BOWED HIS HEAD AND PRAYED  
 TO THE SUN.”  
@@ -478,7 +478,7 @@ of deepest reverence and religious feeling.
 
 <span id="img_08900"></span> <span align="CENTER"> [![OPENING THE BEAVER
 BUNDLE.](tn/08900.jpg)  
-Click to enlarge](img/08900.jpg)  
+Click to enlarge](img/08900.jpg.md)  
 OPENING THE BEAVER BUNDLE.  
 </span>
 
@@ -503,7 +503,7 @@ rhythmical beating. Each in turn took the Beaver
 
 <span id="img_09000"></span> <span align="CENTER"> [![WOMEN PRAYING
 WHILE HOLDING ROOT DIGGER.](tn/09000.jpg)  
-Click to enlarge](img/09000.jpg)  
+Click to enlarge](img/09000.jpg.md)  
 WOMEN PRAYING WHILE HOLDING ROOT DIGGER.  
 </span>
 
@@ -532,7 +532,7 @@ dancers
 
 <span id="img_09100"></span> <span align="CENTER"> [![WOMEN PRAYING
 WHILE HOLDING BEAVER SKIN.](tn/09100.jpg)  
-Click to enlarge](img/09100.jpg)  
+Click to enlarge](img/09100.jpg.md)  
 WOMEN PRAYING WHILE HOLDING BEAVER SKIN.  
 </span>
 
@@ -604,7 +604,7 @@ White Grass was painted a dark red. Upon the centre of his forehead
 
 <span id="img_09300"></span> <span align="CENTER"> [![WOMEN PRAYING
 WHILE HOLDING TWO WHITE-WEASEL SKINS.](tn/09300.jpg)  
-Click to enlarge](img/09300.jpg)  
+Click to enlarge](img/09300.jpg.md)  
 WOMEN PRAYING WHILE HOLDING TWO WHITE-WEASEL SKINS.  
 </span>
 
@@ -636,7 +636,7 @@ placed the sacred
 
 <span id="img_09400"></span> <span align="CENTER"> [![PREPARING THE
 SACRED RED PAINT.](tn/09400.jpg)  
-Click to enlarge](img/09400.jpg)  
+Click to enlarge](img/09400.jpg.md)  
 PREPARING THE SACRED RED PAINT.  
 </span>
 
@@ -890,7 +890,7 @@ saying they could
 
 <span id="img_10100"></span> <span align="CENTER"> [![“AFTER THE
 CEREMONIAL ALL PARTOOK OF A FEAST.”](tn/10100.jpg)  
-Click to enlarge](img/10100.jpg)  
+Click to enlarge](img/10100.jpg.md)  
 “AFTER THE CEREMONIAL ALL PARTOOK OF A FEAST.”  
 </span>
 
@@ -939,9 +939,9 @@ prairie wolves and the answering yelps of the Indian dogs.
 
 ### Footnotes
 
-<span id="fn_12"></span>[77:1](ont08.htm#fr_16) Called Sweet Grass Hills
+<span id="fn_12"></span>[77:1](ont08.htm#fr_16.md) Called Sweet Grass Hills
 by the Whites.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Legend of the Beaver Medicine](ont09)
+[Next: Chapter VI. Legend of the Beaver Medicine](ont09.md)

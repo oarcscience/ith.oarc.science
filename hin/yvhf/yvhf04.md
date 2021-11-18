@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](yvhf03)  [Next](yvhf05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](yvhf03)  [Next](yvhf05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Vashisht or Heaven Found*, by Rishi Singh Gherwal, \[1930\], at
 Intangible Textual Heritage
 
@@ -190,4 +190,4 @@ LL. D., Ph. D.)
 
 ------------------------------------------------------------------------
 
-[Next: How Suka Attained Highest State of Bliss](yvhf05)
+[Next: How Suka Attained Highest State of Bliss](yvhf05.md)

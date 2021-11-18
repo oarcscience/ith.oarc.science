@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa04)  [Next](taa06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa04)  [Next](taa06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ reddish-white camels until they had mounted the peacocks upon them,
 fancy that each of them was a Bilqís on her throne of pearls.
 
 3\. When she walks on the glass pavement <span
-id="fr_17"></span>[1](#fn_17) thou seest a sun on a celestial sphere in
+id="fr_17"></span>[1](#fn_17.md) thou seest a sun on a celestial sphere in
 the bosom of Idrís.
 
 4\. When she kills with her glances, her speech restores to life, as
@@ -35,7 +35,7 @@ tho’ she, in giving life thereby, were Jesus.
 I follow it and tread in its footsteps as tho’ I were Moses.
 
 6\. She is a bishopess, one of the daughters of Rome, unadorned: thou
-seest in her a radiant Goodness. <span id="fr_18"></span>[2](#fn_18)
+seest in her a radiant Goodness. <span id="fr_18"></span>[2](#fn_18.md)
 
 7\. Wild is she, none can make her his friend; she has gotten in her
 solitary chamber a mausoleum for remembrance.
@@ -134,7 +134,7 @@ of the Essence is a passing away (\#\#\#), in
 
 <span id="page_52">p. 52</span>
 
-which, as as-Sayyárí <span id="fr_19"></span>[1](#fn_19) said, there is
+which, as as-Sayyárí <span id="fr_19"></span>[1](#fn_19.md) said, there is
 no pleasure. She is 'wild', inasmuch as noble souls desire to seize her,
 but she does not show friendship to them, because no relation exists
 between them and her.
@@ -199,12 +199,12 @@ to God (\#\#\#).
 
 ### Footnotes
 
-<span id="fn_17"></span>[49:1](taa05.htm#fr_17) Kor. xxvii, 44.
+<span id="fn_17"></span>[49:1](taa05.htm#fr_17.md) Kor. xxvii, 44.
 
-<span id="fn_18"></span>[49:2](taa05.htm#fr_18) The author explains that
+<span id="fn_18"></span>[49:2](taa05.htm#fr_18.md) The author explains that
 \#\#\# is equivalent to \#\#\#.
 
-<span id="fn_19"></span>[52:1](taa05.htm#fr_19) Abu ’l-‘Abbás as-Sayyárí
+<span id="fn_19"></span>[52:1](taa05.htm#fr_19.md) Abu ’l-‘Abbás as-Sayyárí
 of Merv (died 342 A.H.). His doctrine of union and separation (\#\#\#)
 is explained by al-Hujwírí in the *Kashf al-Maḥjúb*.
 
@@ -212,6 +212,6 @@ is explained by al-Hujwírí in the *Kashf al-Maḥjúb*.
 
 ------------------------------------------------------------------------
 
-[Next: III](taa06)
+[Next: III](taa06.md)
 
 </div>

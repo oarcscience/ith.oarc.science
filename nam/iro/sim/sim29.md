@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim28)  [Next](sim30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim28)  [Next](sim30.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ all turtles look alike, he easily deceived the lean man.
 
 ------------------------------------------------------------------------
 
-[Next: The Grandmother and Grandson](sim30)
+[Next: The Grandmother and Grandson](sim30.md)

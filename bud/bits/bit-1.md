@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Next](bit-2)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Next](bit-2.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ THIS VOLUME IS DEDICATED
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](bit-2)
+[Next: Table of Contents](bit-2.md)
 
  
 

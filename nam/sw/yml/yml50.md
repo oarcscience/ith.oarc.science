@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml49)  [Next](yml51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml49)  [Next](yml51.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ had to use my bullets.
 
 ------------------------------------------------------------------------
 
-[Next: Tesak Pascola's Watermelons](yml51)
+[Next: Tesak Pascola's Watermelons](yml51.md)

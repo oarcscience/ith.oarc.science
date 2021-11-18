@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc083) 
-[Next](motc085) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc083.md) 
+[Next](motc085.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ come back from the underworld and tell it and live.
 
 ------------------------------------------------------------------------
 
-[Next: 85, The Haunted Whirlpool](motc085)
+[Next: 85, The Haunted Whirlpool](motc085.md)

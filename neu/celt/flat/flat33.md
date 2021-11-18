@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat32)  [Next](flat34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat32)  [Next](flat34.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ saw Ballygibblin -and more's the pity - a house of mourning.
 
 ------------------------------------------------------------------------
 
-[Next: The Death Coach](flat34)
+[Next: The Death Coach](flat34.md)

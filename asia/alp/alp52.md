@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp51) 
-[Next](alp53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp51.md) 
+[Next](alp53.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 
 <span id="page_73">p. 73</span>
 
-### THE EVE OF ASCENSION DAY <span id="fr_8"></span>[1](#fn_8)
+### THE EVE OF ASCENSION DAY <span id="fr_8"></span>[1](#fn_8.md)
 
 ##### BY DERENIK DEMIRJIAN
 
@@ -51,9 +51,9 @@ Until Heaven's blessing fall in sacred showers,
 
 ### Footnotes
 
-<span id="fn_8"></span>[73:1](alp52.htm#fr_8) The Eve of Ascension Day
+<span id="fn_8"></span>[73:1](alp52.htm#fr_8.md) The Eve of Ascension Day
 is the time when betrothals are arranged and destinies decided.
 
 ------------------------------------------------------------------------
 
-[Next: ''Thy Voice is Sweet''](alp53)
+[Next: ''Thy Voice is Sweet''](alp53.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb52)  [Next](wfb54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb52)  [Next](wfb54.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ much too sensible to attempt anything so silly.
 
 ------------------------------------------------------------------------
 
-[Next: Goronwy Tudor and the Witches of Llanddons](wfb54)
+[Next: Goronwy Tudor and the Witches of Llanddons](wfb54.md)

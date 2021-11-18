@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sglt08)  [Next](sglt10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sglt08)  [Next](sglt10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Story of the Glittering Plain*, by William Morris, \[1891\], at
 Intangible Textual Heritage
 
@@ -135,6 +135,6 @@ behind them and far away.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. They Come to the Land of the Glittering
-Plain](sglt10)
+Plain](sglt10.md)
 
 </div>

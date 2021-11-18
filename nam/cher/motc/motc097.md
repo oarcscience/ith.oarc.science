@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc096) 
-[Next](motc098) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc096.md) 
+[Next](motc098.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ still sung by the women.--Arranged from Curtin, Seneca manuscript.
 
 ------------------------------------------------------------------------
 
-[Next: 98. Ga?na?'s Adventures Among The Cherokee](motc098)
+[Next: 98. Ga?na?'s Adventures Among The Cherokee](motc098.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Next](cvmc01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Next](cvmc01.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ attribution is left intact in all copies.
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="page_2">p. 2</span>
@@ -44,9 +44,9 @@ Title Page
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 ------------------------------------------------------------------------
 
-[Next: Contents](cvmc01)
+[Next: Contents](cvmc01.md)

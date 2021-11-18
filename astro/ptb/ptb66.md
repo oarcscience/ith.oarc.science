@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb65)  [Next](ptb67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb65)  [Next](ptb67.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,12 +11,12 @@
 THE disposition of the luminaries and the respective familiarities,
 exercised by the stars attending them, are to be considered as
 indicative of the degree of rank or dignity. <span
-id="fr_227"></span>[3](#fn_227)
+id="fr_227"></span>[3](#fn_227.md)
 
 For example, should the two luminaries be found in masculine signs and
 in angles, or even if only one of them be in an angle, <span
-id="fr_228"></span>[4](#fn_228) they being at the same time specially
-attended by a doryphory <span id="fr_229"></span>[5](#fn_229) composed
+id="fr_228"></span>[4](#fn_228.md) they being at the same time specially
+attended by a doryphory <span id="fr_229"></span>[5](#fn_229.md) composed
 of all
 
 <span id="page_119">p. 119</span>
@@ -25,7 +25,7 @@ the five planets; the Sun by such as are oriental, but the Moon by
 occidental, the persons then about to be born will consequently become
 kings or princes. And, if the attendant stars themselves should also be
 in angles, or configurated with the angle above the earth, <span
-id="fr_230"></span>[1](#fn_230) the said persons will become great,
+id="fr_230"></span>[1](#fn_230.md) the said persons will become great,
 powerful, and mighty in the world: and even yet more abundantly so,
 provided the configurations, made by the attendant stars with the angles
 above the earth, be dexter,. But, when both luminaries may not be found
@@ -83,18 +83,18 @@ management of business.
 
 ### Footnotes
 
-<span id="fn_227"></span>[118:3](ptb66.htm#fr_227) It seems that there
+<span id="fn_227"></span>[118:3](ptb66.htm#fr_227.md) It seems that there
 have been different opinions on this point. Placidus makes the following
 remark on the subject: "I do not take the dignities from the horoscope,
 but from the Sun and Medium Cœli, according to Ptolemy and others."
 (Cooper's Translation, p. 121.)
 
-<span id="fn_228"></span>[118:4](ptb66.htm#fr_228) The Perugio Latin, of
+<span id="fn_228"></span>[118:4](ptb66.htm#fr_228.md) The Perugio Latin, of
 1646, says, "If either both luminaries, or only that one of the *chief
 quality*" (which Whalley defines to be the Sun by day, and the Moon by
 night) "be in an angle," &c.
 
-<span id="fn_229"></span>[118:5](ptb66.htm#fr_229) Doryphory. *Vide*
+<span id="fn_229"></span>[118:5](ptb66.htm#fr_229.md) Doryphory. *Vide*
 Chapter V of the 3rd Book. On the present passage, Placidus has the
 following words: "You are not to observe what is generally alleged by
 professors, respecting the satellites" (*quasi* doryphory) "of the
@@ -112,9 +112,9 @@ significator, and produces very little or no effect of its nature, by a
 subsequent direction; this is the true doctrine of the stars." (Cooper's
 Translation, pp. 124, 125.)
 
-<span id="fn_230"></span>[119:1](ptb66.htm#fr_230) The angle of the
+<span id="fn_230"></span>[119:1](ptb66.htm#fr_230.md) The angle of the
 mid-heaven; see the first note to this Chapter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Quality of Employment](ptb67)
+[Next: Chapter IV. The Quality of Employment](ptb67.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph47)  [Next](sph49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph47)  [Next](sph49.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 ᾽Ερμᾶσ δ᾽ ἔλεν ὄλπιν θέοισ οἰνοχόησαι.  
 κῆνοι δ᾽ ἄπα πάντεσ καρχήσια τ᾽ ἦχον  
 κάλειβον ἀράσαντο δὲ πάμπαν ἔσλα  
-τῳ γάμβρῳ. [\[transcription\]](xlatall.htm#69)
+τῳ γάμβρῳ. [\[transcription\]](xlatall.htm#69.md)
 
 And there the bowl of ambrosia was mixed and Hermes took the ladle to
 pour out for the gods; and then all held goblets and made libation, and
@@ -22,4 +22,4 @@ Epithalamia.
 
 ------------------------------------------------------------------------
 
-[Next: 48: The moon has set...](sph49)
+[Next: 48: The moon has set...](sph49.md)

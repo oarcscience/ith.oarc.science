@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt08)  [Next](dmt10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt08)  [Next](dmt10.md) 
 
 ------------------------------------------------------------------------
 
@@ -719,7 +719,7 @@ seems of sufficient importance to call for separate treatment.
 <span class="contnote">\[paragraph continues\]</span> The legal system
 of the Shi‘ites is derived from that of the so-called Sunnites and
 differs in details only. We have seen already ([p.
-38](dmt06.htm#page_38)) that the Shi‘ites still have Mujtahids who are
+38](dmt06.htm#page_38).md) that the Shi‘ites still have Mujtahids who are
 not bound to the words of a master, but can give decisions on their own
 responsibility. These seem to have in their hands the teaching power
 which strictly belongs only to the Hidden Imam. They thus represent the
@@ -749,10 +749,10 @@ Abd Allah ibn Ibad himself.
 to be three-fold, Qur’an, prophetic usage, agreement--naturally that of
 the Ibadite community. There is no mention of analogy, and traditions
 seem to have been used sparingly and critically. Qur’an bore the
-principal emphasis. See above, ([p. 26](dmt05.htm#page_26)) for the
+principal emphasis. See above, ([p. 26](dmt05.htm#page_26).md) for the
 Ibadite position on the form of the state and on the nature of its
 headship.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](dmt10)
+[Next: Chapter I](dmt10.md)

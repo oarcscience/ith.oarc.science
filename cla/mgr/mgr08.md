@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mgr07)  [Next](mgr09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mgr07)  [Next](mgr09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ For the faint east quickens, the wan west shivers,
 
 <span id="page_26">p. 26</span>
 
-And this Artemis, when she [comes](errata.htm#2) to slay, slays gently,
+And this Artemis, when she [comes](errata.htm#2.md) to slay, slays gently,
 mercifully. Homer, in the *Odyssey*, tells of a fair island, a goodly
 land with oxen:
 
@@ -326,4 +326,4 @@ Artemis the Healer.
 
 ------------------------------------------------------------------------
 
-[Next: Apollo (Phœbus)](mgr09)
+[Next: Apollo (Phœbus)](mgr09.md)

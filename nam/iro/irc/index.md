@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,9 +35,9 @@ John Bruno Hare, June 23, 2004
 
 ------------------------------------------------------------------------
 
-[Title Page](irc00)  
-[Contents](irc01)  
-[Introduction](irc02)  
-[An Onondaga Version](irc03)  
-[A Seneca Version](irc04)  
-[A Mohawk Version](irc05)  
+[Title Page](irc00.md)  
+[Contents](irc01.md)  
+[Introduction](irc02.md)  
+[An Onondaga Version](irc03.md)  
+[A Seneca Version](irc04.md)  
+[A Mohawk Version](irc05.md)  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Samaritans](index)  [Previous](nabloos) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Samaritans](index)  [Previous](nabloos.md) 
 
 ------------------------------------------------------------------------
 

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Esoteric](../../index) 
-[Eliphas Levi](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Esoteric](../../index.md) 
+[Eliphas Levi](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,25 +26,25 @@ than Helena P. Blavatsky.
 
 ------------------------------------------------------------------------
 
-[Title Page](phs00)  
-[Contents](phs01)  
-[Preface to the 1922 Second Edition](phs02)  
-[Foreword to the 1922 Second Edition](phs03)  
+[Title Page](phs00.md)  
+[Contents](phs01.md)  
+[Preface to the 1922 Second Edition](phs02.md)  
+[Foreword to the 1922 Second Edition](phs03.md)  
 <span id="section_000"></span>
 
 ### The Paradoxes of the Highest Science
 
-[Paradox I.--Religion Is Magic Sanctioned](phs04)  
-[Paradox II.--Liberty is Obedience to the Law](phs05)  
-[Paradox III.--Love is the Realisation of the Impossible](phs06)  
-[Paradox IV.--Knowledge is the Ignorance or Negation of Evil](phs07)  
-[Paradox V.--Reason Is God](phs08)  
-[Paradox VI.--The Imagination Realises What It Invents](phs09)  
+[Paradox I.--Religion Is Magic Sanctioned](phs04.md)  
+[Paradox II.--Liberty is Obedience to the Law](phs05.md)  
+[Paradox III.--Love is the Realisation of the Impossible](phs06.md)  
+[Paradox IV.--Knowledge is the Ignorance or Negation of Evil](phs07.md)  
+[Paradox V.--Reason Is God](phs08.md)  
+[Paradox VI.--The Imagination Realises What It Invents](phs09.md)  
 [Paradox VII.--The Will Accomplishes Everything, Which It Does Not
-Desire](phs10)  
+Desire](phs10.md)  
 <span id="section_001"></span>
 
 ### Synthetic Recapitulation
 
-[Magic and Magism](phs11)  
-[The Great Secret](phs12)  
+[Magic and Magism](phs11.md)  
+[The Great Secret](phs12.md)  

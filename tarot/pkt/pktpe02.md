@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktpe03)  [Next](pktpeac) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktpe03)  [Next](pktpeac.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Two
 
 <span id="img_pe02"></span> <span align="CENTER"> [![](tn/pe02.jpg)  
-Click to enlarge](img/pe02.jpg)</span>
+Click to enlarge](img/pe02.jpg.md)</span>
 
 A young man, in the act of dancing, has a pentacle in either hand, and
 they are joined by that endless cord which is like the number 8
@@ -33,4 +33,4 @@ exchange.
 
 ------------------------------------------------------------------------
 
-[Next: Ace of Pentacles](pktpeac)
+[Next: Ace of Pentacles](pktpeac.md)

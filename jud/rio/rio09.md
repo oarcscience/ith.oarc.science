@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rio08)  [Next](rio10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rio08)  [Next](rio10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,25 +23,25 @@ Krauskopf, \[1901\], at Intangible Textual Heritage
 What of the Old Testament Prophecies of Christ?
 
 <span id="img_15500"></span> ![Decorative Header: What of the Old
-Testament Prophecies of Christ?](img/15500.jpg)
+Testament Prophecies of Christ?](img/15500.jpg.md)
 
 "Beforetime in Israel, when a man went to enquire of God, thus he spake,
 Come and let us go to the seer; for he that is now called a Prophet was
 beforetime called a seer."—[1 Samuel IX,
-9](../../bib/kjv/sa1009.htm#009).
+9](../../bib/kjv/sa1009.htm#009.md).
 
 "And Moses said unto him, Art thou zealous for my sake? Would to God
 that all the Lord's people were prophets, and that the Lord would put
-his spirit upon them!"—[Numbers XI, 29](../../bib/kjv/num011.htm#029).
+his spirit upon them!"—[Numbers XI, 29](../../bib/kjv/num011.htm#029.md).
 
 "Before me there was no God formed, and after me there will be none. I,
 I am the Lord, and beside me there is no saviour."—[Isaiah XLIII,
-10-11](../../bib/kjv/isa043.htm#010).
+10-11](../../bib/kjv/isa043.htm#010.md).
 
 "I am Jehovah. . . I will not give my glory to any other nor my praise
-to graven images."—[Isaiah XLII, 8](../../bib/kjv/isa042.htm#008).
+to graven images."—[Isaiah XLII, 8](../../bib/kjv/isa042.htm#008.md).
 
-"Search the Scriptures."—[St. John v, 39](../../bib/kjv/joh005.htm#039).
+"Search the Scriptures."—[St. John v, 39](../../bib/kjv/joh005.htm#039.md).
 
 "Where are the signs fulfilled whereby all men  
  Should know the Christ? Where is the wide-winged peace?  
@@ -152,14 +152,14 @@ We turn to the *King James Version* of the Book of Isaiah, and from
 among the chapters indicated by their headings as foretelling the coming
 of Christ we select the following:
 
-I.—[ISAIAH 7: 14-16](../../bib/kjv/isa007.htm#014). . . . 14. Behold, a
+I.—[ISAIAH 7: 14-16](../../bib/kjv/isa007.htm#014.md). . . . 14. Behold, a
 virgin shall conceive, and bear a son, and shall call his name Immanuel.
 15. Butter and honey shall he eat, that he may know to refuse the evil,
 and choose the good. 16. For before the child shall know to refuse the
 evil, and choose the good, the land that thou abhorrest shall be
 forsaken of both her kings.
 
-II.—[ISAIAH 9: 6, 7](../../bib/kjv/isa009.htm#006). 6. For unto us a
+II.—[ISAIAH 9: 6, 7](../../bib/kjv/isa009.htm#006.md). 6. For unto us a
 child is born, unto us a son is given: and the government shall be upon
 his shoulder: and his name shall be called Wonderful, Counsellor, The
 mighty God, The everlasting Father, The Prince of Peace. 7. Of the
@@ -168,7 +168,7 @@ throne of David, and upon his kingdom, to order it, and to establish it
 with judgment and with justice from henceforth even for ever. The zeal
 of the LORD of hosts will perform this.
 
-III.—[ISAIAH 11: 1-9](../../bib/kjv/isa011.htm#001). 1. And there shall
+III.—[ISAIAH 11: 1-9](../../bib/kjv/isa011.htm#001.md). 1. And there shall
 come forth a rod out of the stem of Jesse, and a Branch shall grow out
 of his roots. 2. And the spirit of the LORD shall rest upon him, the
 spirit of wisdom and understanding, the spirit of counsel and might, the
@@ -192,7 +192,7 @@ weaned child shall put his hand on the cocatrice's den. 9. They shall
 not hurt nor destroy in all my holy mountain: for the earth shall be
 full of the knowledge of the LORD, as the waters cover the sea.
 
-IV.—[ISAIAH 42: 1-7](../../bib/kjv/isa042.htm#001). I. Behold my
+IV.—[ISAIAH 42: 1-7](../../bib/kjv/isa042.htm#001.md). I. Behold my
 servant, whom I uphold, mine elect, *in whom* my soul delighteth; I have
 put my Spirit upon him: he shall bring forth judgment to the Gentiles.
 2. He shall not cry, nor lift up, nor cause his voice to be heard in the
@@ -208,7 +208,7 @@ thee, and give thee for a covenant of the people, for a light of the
 Gentiles. 7. To open the blind eyes, to bring out the prisoners from the
 prison, *and* them that sit in darkness out of the prison house.
 
-V.—[ISAIAH 53: 1-12](../../bib/kjv/isa053.htm#001). 1. who hath believed
+V.—[ISAIAH 53: 1-12](../../bib/kjv/isa053.htm#001.md). 1. who hath believed
 our report? and to whom is the arm of the LORD revealed? 2. For he shall
 grow up before him as a tender plant, and as a root out of a dry ground:
 he hath no form nor comeliness; and when we shall see him, *there is* no
@@ -657,7 +657,7 @@ correct rendition of the text clearly indicates:
  And he will speak peace to the nations;  
  And his rule will be from sea to sea,  
  And from the river unto the ends of earth."—[Zech. IX,
-9](../../bib/kjv/zac009.htm#009).
+9](../../bib/kjv/zac009.htm#009.md).
 
 Reaching the story of Judas’ betrayal, St. Matthew tells us that the
 price of his treachery was thirty pieces of silver, that<span
@@ -771,4 +771,4 @@ there be peace on earth, and good will among all men.
 
 ------------------------------------------------------------------------
 
-[Next: Talmudic Parallels to New Testament Teachings](rio10)
+[Next: Talmudic Parallels to New Testament Teachings](rio10.md)

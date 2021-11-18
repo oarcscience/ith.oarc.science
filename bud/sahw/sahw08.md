@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw07)  [Next](sahw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw07)  [Next](sahw09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -25,7 +25,7 @@ Heritage
 
 The Shinshu has as its principal object of Veneration the Tathāgata
 Amitābha, "that is to say Namu-Amida-Butsu." <span
-id="fr_64"></span>[\*](#fn_64) In the house-hold shrines of the laity
+id="fr_64"></span>[\*](#fn_64.md) In the house-hold shrines of the laity
 there is no other object of worship but this: in temples and places of
 public worship, worship is offered also to Shinran Shōnin (now
 officially known as Kenshin-Daishi), to the *zenchishiki* "righteous and
@@ -83,7 +83,7 @@ Shinran's great opponent, Nichiren, when he found some children playing
 in the road with a broken image of S’akyamuni, which had been discarded
 from the Temple, as useless lumber, since the villagers had given ear to
 the exhortations of Shinran's itinerant preachers. <span
-id="fr_65"></span>[\*](#fn_65) It is as hard to imagine a "Buddhism
+id="fr_65"></span>[\*](#fn_65.md) It is as hard to imagine a "Buddhism
 without Buddha," as it is to recognize a "Christianity without Christ."
 
 Naturally, the Shinshu theologian has arguments to advance in defence of
@@ -133,7 +133,7 @@ Embodiment of Amitābha's Compassion,—in Sanskrit Avalokites’vara, "the
 Lord that looks down," in Japanese *Kwanzeon*, or *Kwannon;* and
 another, the Embodiment of his Wisdom,—in Sanskrit *Mahāsthāmaprāpta*,
 "He that hath obtained great strength," in Japanese, *Seishi*. <span
-id="fr_66"></span>[\*](#fn_66)
+id="fr_66"></span>[\*](#fn_66.md)
 
 The three are One, and the Father, Amida, is the Centre and the Heart of
 the Trinity, the source of Compassion and Wisdom. When the Compassion of
@@ -162,7 +162,7 @@ written for the edification of ignorant but pious persons, that Shōtoku
 Taishi was an Incarnation of Kwannon, that Hōnen Shōnin, the teacher of
 Shinran, was Seishi in the flesh, that *Tamahi-no-miya*, Shinran's wife,
 was an incarnation of Kwannon, and that Amida himself condescended to
-take flesh as Shinran. <span id="fr_67"></span>[\*](#fn_67) The tendency
+take flesh as Shinran. <span id="fr_67"></span>[\*](#fn_67.md) The tendency
 of the present-day Shinshu is to drop these fabled incarnations, and we
 can only rejoice that it should be so. We lose our reverence for an
 Incarnate God when Iris Incarnations are constantly taking place in
@@ -174,31 +174,31 @@ Godhead—that of God in Christ. It is a significant point in our favour
 that the official Shinshu teaching also recognizes but one Incarnation
 properly so called,—that of Amida in Hōzo Biku. Our Catechism of the
 Shinshu mentions no other. The rest are apparitions rather than
-Incarnations. <span id="fr_68"></span>[†](#fn_68)
+Incarnations. <span id="fr_68"></span>[†](#fn_68.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_64"></span>[57:\*](sahw08.htm#fr_64) I believe that a
+<span id="fn_64"></span>[57:\*](sahw08.htm#fr_64.md) I believe that a
 distinction is sometimes made between *Amida Nyorai*, and
 *Namu-amide-Butsu*. The former is used to denote Him, as he was and ever
 will be, the Absolute. The latter term (which is also the invocation of
 praise) is Amida, after his Incarnation as Hōzō Biku, when he had
 attained his glory and received the "Name above every Name."
 
-<span id="fn_65"></span>[59:\*](sahw08.htm#fr_65) This incident was one
+<span id="fn_65"></span>[59:\*](sahw08.htm#fr_65.md) This incident was one
 of \`the turning points in Nichiren's life.
 
-<span id="fn_66"></span>[61:\*](sahw08.htm#fr_66) I often think in
+<span id="fn_66"></span>[61:\*](sahw08.htm#fr_66.md) I often think in
 connection with this grouping of Buddhistic deities, of Zechariah's
 Vision of the two witnesses the priestly and the royal—that stood before
 the Lord of the whole earth.
 
-<span id="fn_67"></span>[62:\*](sahw08.htm#fr_67) *Shinran Shōnin Go
+<span id="fn_67"></span>[62:\*](sahw08.htm#fr_67.md) *Shinran Shōnin Go
 ichidai Kōwa* vol. i, p. 71, 73.
 
-<span id="fn_68"></span>[62:†](sahw08.htm#fr_68) The Shinshuist gets his
+<span id="fn_68"></span>[62:†](sahw08.htm#fr_68.md) The Shinshuist gets his
 teaching of the incarnations of Kwannon from the *Fumonbon*, a chapter
 of the Hokkekyō. But the Hokkekyō is not officially recognized as one of
 the fundamental documents of the Shinshu. It is indeed the strongest
@@ -207,4 +207,4 @@ the Shinshu heresies concerning Buddha.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Shintai and Zokutai.](sahw09)
+[Next: Chapter VII. Shintai and Zokutai.](sahw09.md)

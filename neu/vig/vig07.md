@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig06)  [Next](vig08) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig06)  [Next](vig08.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ four summers, and was held to be a very valiant man. He gained great
 reputation and much booty. It happened one winter that a certain
 Thorstein came to Vorz, who was a great friend of the brothers, and
 lived in the upland country. He told them of the strait he was in; how
-the Berserker,  <span id="fr_4"></span>[1](#fn_4) who was called Asgaut,
+the Berserker,  <span id="fr_4"></span>[1](#fn_4.md) who was called Asgaut,
 had challenged him to the "holmgang," because he had refused to give him
 his sister, and he asked them to escort him to the field with a large
 number of men, so that the pirate might not seize on his property. He
@@ -31,7 +31,7 @@ place of meeting the question was put to all the people there, "Was
 there any man who desired to win a wife by fighting Asgaut?" but though
 the lady was attractive enough, there was no one ready to win her a that
 price. Then the brothers asked Eyiolf to bear Thorstein’s shield for him
-in the fight,  <span id="fr_5"></span>[2](#fn_5) but he replied that he
+in the fight,  <span id="fr_5"></span>[2](#fn_5.md) but he replied that he
 never defended any other man, and not even himself in that way. "I shall
 not like it," said he, "if he is killed whilst he is under my care, and
 there could be no honour in that." "But if this young fellow is slain on
@@ -84,7 +84,7 @@ Iceland together.
 
 ### Footnotes
 
-<span id="fn_4"></span>[1](vig07.htm#fr_4) It is hardly necessary to
+<span id="fn_4"></span>[1](vig07.htm#fr_4.md) It is hardly necessary to
 explain that the Berserkers were men who were ready to fight anybody,
 and who worked themselves into a frenzy by drugs or other means, as a
 North American savage does by his war-dance. They appear in some cases
@@ -98,10 +98,10 @@ parties used often to fight in a "holm," or small island. Compare the
 preface to Mr. Dasent’s Nial’s Saga, and Maurer, Enstehung des Isländ.
 Staats, ss. 596, 599. Se also the story which follows in chapter vi.
 
-<span id="fn_5"></span>[2](vig07.htm#fr_5) That is to say to act as his
+<span id="fn_5"></span>[2](vig07.htm#fr_5.md) That is to say to act as his
 second. See the story of Hermund, quoted by Maruer, from the Saga of
 Gunnlaug Ormstunga Enstehung des Isländischen Staats, s. 202.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](vig08)
+[Next: Chapter V](vig08.md)

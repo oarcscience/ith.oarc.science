@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [English](../ili/ili01) 
-[Previous](ili01)  [Next](ili03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [English](../ili/ili01.md) 
+[Previous](ili01)  [Next](ili03.md) 
 
 ------------------------------------------------------------------------
 
@@ -1907,4 +1907,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Book 3](ili03)
+[Next: Book 3](ili03.md)

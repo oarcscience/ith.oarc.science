@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray040)  [Next](pray042) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray040)  [Next](pray042.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,11 +40,11 @@ of prayer which, including all the sons of God, includes them also. To
 this we may refer the exhortation which Paul gave to the believers of
 his age, to lift up "holy hands without wrath and doubting" (<span
 id="iii.xxxix-p2.1"></span>[1 Timothy
-2:8](../../../bib/kjv/ti1002.htm#008)<span id="iii.xxxix-p2.1"></span>).
+2:8](../../../bib/kjv/ti1002.htm#008)<span id="iii.xxxix-p2.1"></span>.md).
 By reminding them that dissension is a bar to prayer, he shows it to be
 his wish that they should with one accord present their prayers in
 common.
 
 ------------------------------------------------------------------------
 
-[Next: 40.](pray042)
+[Next: 40.](pray042.md)

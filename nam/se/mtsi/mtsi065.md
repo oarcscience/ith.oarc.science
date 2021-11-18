@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi064)  [Next](mtsi066) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi064)  [Next](mtsi066.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ of that event.
 
 ------------------------------------------------------------------------
 
-[Next: 64. The Tasks of Rabbit](mtsi066)
+[Next: 64. The Tasks of Rabbit](mtsi066.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc04)  [Next](ipc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc04)  [Next](ipc06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -108,7 +108,7 @@ wife of S’iva or Kronos; one fragment, the Italian, learnt it from
 S’iva's son Janus, or Ganeśa; one, the Babylonian, learnt it from Rhea,
 or S’iva's wife Durgâ.
 
-But Professor Max [Müller](errata.htm#3) tells us that thousands of
+But Professor Max [Müller](errata.htm#3.md) tells us that thousands of
 years must have elapsed before the ancient Bactrian language could have
 changed to pure Greek or pure Latin; and Janus, let us say, and Ceres,
 must have given their instructions in some more modern tongue than the
@@ -151,7 +151,7 @@ the goddess of the Sami tree. It was settled that the Araṇî, the wooden
 drill that lights the sacred fire, should always be from this tree, and
 that her festival as the Tree goddess should take place once a year, on
 which occasion she would bestow abundant wealth and corn to all her
-worshippers. <span id="fr_14"></span>[\*](#fn_14)
+worshippers. <span id="fr_14"></span>[\*](#fn_14.md)
 
 This legend is plainly written to account for Indian tree worship to
 appease the goddess of Indian fire and Indian fever.
@@ -162,7 +162,7 @@ Let us now consider Tree-worship in Palestine.
 
 "In early times," says Robertson Smith, "tree worship had such a vogue
 in Canaan that the sacred tree, or the pole its surrogate, had come to
-be viewed as a general symbol of [Deity](errata.htm#4)."
+be viewed as a general symbol of [Deity](errata.htm#4.md)."
 
 <span id="page_31">p. 31</span>
 
@@ -232,7 +232,7 @@ Among others in those of the sons of Saul and David, *viz*., Eshbaal,
 Meribaal, Baalyahad. The Compiler o f the Books of Samuel, who disliked
 this, changed these names into Ishbosheth, Mephiboseth, Elyadah, but in
 parallel passages of the Chronicles the original names are
-preserved." <span id="fr_15"></span>[\*](#fn_15)
+preserved." <span id="fr_15"></span>[\*](#fn_15.md)
 
 Dr. Oort attacks this as "extravagant." He points out that the passage
 in Amos mentions not one but three objects of worship, a tent, a Chiun,
@@ -290,7 +290,7 @@ and goddesses they dwell on the tops of mountains, the Lebanon, Hermon,
 Sinai, Kasios. They love forests and springs. They reveal themselves to
 mortals in high places (bamoth). They dwell in trees, in unhewn stones
 (betyles) and even in fashioned columns (masseboth)." <span
-id="fr_16"></span>[\*](#fn_16)
+id="fr_16"></span>[\*](#fn_16.md)
 
 But when we have shown the Indian Durgâ in Palestine and Egypt as the
 provider of plenty at the tree festival, we have only got halfway to the
@@ -343,7 +343,7 @@ In the Rig Veda, Bala has a wife, "Nirriti the Insurmountable."
 
 "May Nirriti so formidable by her power, Nirriti the Insurmountable,
 never draw near to smite us. May she perish with the thirst that she
-causes." <span id="fr_17"></span>[\*](#fn_17)
+causes." <span id="fr_17"></span>[\*](#fn_17.md)
 
 <span id="page_36">p. 36</span>
 
@@ -425,7 +425,7 @@ describe the Supreme God, the god of the savage will in process of time
 gain in wisdom and gain in loving-kindness. Ahi became Sesh. At first
 "in distributing the regions to the different gods," says Colonel Moor,
 "Seshanâga had the regions under the earth allotted to him." <span
-id="fr_18"></span>[\*](#fn_18) That is, he was S’iva living in his
+id="fr_18"></span>[\*](#fn_18.md) That is, he was S’iva living in his
 bottomless pit. Then Sesh with his thousand heads grew so popular in
 India that the followers of Vishnu were obliged to try and steal him.
 One thing is certain, serpents are more petted in India than elsewhere.
@@ -463,10 +463,10 @@ inundated yearly by the Nile which would kill most of the snakes.
 Plainly the derivation comes from India.
 
 Other coincidences I give for what they are worth. The city of Typhon
-was Memphis, where dwelt the [Pharaoh](errata.htm#5) of Exodus, and if
+was Memphis, where dwelt the [Pharaoh](errata.htm#5.md) of Exodus, and if
 it be true that the Israelites, as Dr. Erasmus Wilson assures us, had
 dwelt four hundred years in Lower Egypt, we may credit them with
-carrying away some of the local [superstitions](errata.htm#6) across the
+carrying away some of the local [superstitions](errata.htm#6.md) across the
 Red Sea. At the Nâgapanchami festival in India, Durgâ figures as Manasâ
 the Serpent, and it is curious that the first god objectivised after the
 Exodus takes the form of the curative brazen serpent erected by Moses to
@@ -495,7 +495,7 @@ evidence in Palestine, Egypt, etc., of S’ivan derivation.
 
 "What are Bal and the Brazen Calf to which especial honours were paid on
 the 15th day of the month but the Baliswar, and the Bull Nandi of
-India?" <span id="fr_19"></span>[\*](#fn_19)
+India?" <span id="fr_19"></span>[\*](#fn_19.md)
 
 Colonel Tod explains that the Hindus divide the month into two pukhs or
 fortnights. At the beginning of the second pukh called the Amava, the
@@ -524,7 +524,7 @@ the Romans
 
 <span id="img_pl02"></span> <span align="CENTER"> [![PLATE 2. TRAILINGA
 ISHWARA. DURGÂ AS EUROPA.](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 PLATE 2. TRAILINGA ISHWARA. DURGÂ AS EUROPA.  
 </span>
 
@@ -547,7 +547,7 @@ and conversation, but is no proof of depravity in their morals. Both
 Plato and Cicero speak of Eros or the Heavenly Cupid as the son of Venus
 and Jupiter, which proves that the monarch of Olympus and the goddess of
 Fecundity were connected as Mahâdeva and Bhavânî. (Works Vol. III., p.
-367). <span id="fr_20"></span>[\*](#fn_20)
+367). <span id="fr_20"></span>[\*](#fn_20.md)
 
 This moderation of tone, and this spirit of abstract justice on the part
 of a distinguished legist contrasts with certain clerical petulancies.
@@ -603,7 +603,7 @@ each being symbolised
 
 by a stone on which the oil, wine and ghee of the linga pûjâ was poured,
 and each being famous for opening the wombs of elderly Sarahs, Hannahs,
-Rebekahs. <span id="fr_21"></span>[\*](#fn_21) The Holy Places were all
+Rebekahs. <span id="fr_21"></span>[\*](#fn_21.md) The Holy Places were all
 Mahâdeos. A "Rock" accompanied the Israelites in the desert.
 
 "Of the Rock that begot thee thou art unmindful," says Deuteronomy
@@ -612,7 +612,7 @@ stone inside.
 
 In the Temple of S’iva there is one holy chamber which contains the
 Shiva Linga, the most exalted form of Mahâdeo. No one but an Ati Shaiva
-Brahmin can enter this. <span id="fr_22"></span>[†](#fn_22) Two special
+Brahmin can enter this. <span id="fr_22"></span>[†](#fn_22.md) Two special
 forms of adoration are exacted in the "Sanctuary of the Shiva linga."
 The first is the Pari-i-dakshina. "I will compass thine altar, O Lord,"
 said David. The second is the "Salutation with eight members." "And
@@ -637,7 +637,7 @@ believed in the
 <span id="page_44">p. 44</span>
 
 <span class="contnote">\[paragraph continues\]</span> Talmud to figure
-in the Holy of Holies, and to be [inscribed](errata.htm#7) with the
+in the Holy of Holies, and to be [inscribed](errata.htm#7.md) with the
 inexpressible name J.H.V.H. It was called the Shemhamphoras. Do we not
 here seem to get the "Sanctuary of the Shiva linga?"
 
@@ -658,7 +658,7 @@ this white ash:—
 
 The Indian white ash has also cow-dung for the chief ingredient. One
 more point is remarkable. The ashes of S’iva "can blot out all the
-greater sins." <span id="fr_23"></span>[\*](#fn_23) In Israel the ashes
+greater sins." <span id="fr_23"></span>[\*](#fn_23.md) In Israel the ashes
 were collected outside the camp to purify "the congregation and the
 children" (Numbers xix. 2, 17). In Hebrews (ix. 13) it is announced that
 these "ashes of an heifer sprinkling the unclean sanctify to the
@@ -694,37 +694,37 @@ attack on the Serpent and Tree Worship of the earlier times.
 
 ### Footnotes
 
-<span id="fn_14"></span>[30:\*](ipc05.htm#fr_14) "Asiatic Researches,"
+<span id="fn_14"></span>[30:\*](ipc05.htm#fr_14.md) "Asiatic Researches,"
 Vol. IV.
 
-<span id="fn_15"></span>[32:\*](ipc05.htm#fr_15) Cited in Dr. Oort's
+<span id="fn_15"></span>[32:\*](ipc05.htm#fr_15.md) Cited in Dr. Oort's
 "Worship of Baalim," p. 7.
 
-<span id="fn_16"></span>[34:\*](ipc05.htm#fr_16) Maspero, "Hist.
+<span id="fn_16"></span>[34:\*](ipc05.htm#fr_16.md) Maspero, "Hist.
 Ancienne des Peuples d’Orient," p. 340.
 
-<span id="fn_17"></span>[35:\*](ipc05.htm#fr_17) Lect. III., Hymn VI.
+<span id="fn_17"></span>[35:\*](ipc05.htm#fr_17.md) Lect. III., Hymn VI.
 
-<span id="fn_18"></span>[38:\*](ipc05.htm#fr_18) Moor, "Pantheon," p.
+<span id="fn_18"></span>[38:\*](ipc05.htm#fr_18.md) Moor, "Pantheon," p.
 180.
 
-<span id="fn_19"></span>[40:\*](ipc05.htm#fr_19) "Travels in Western
+<span id="fn_19"></span>[40:\*](ipc05.htm#fr_19.md) "Travels in Western
 India," p. 54.
 
-<span id="fn_20"></span>[41:\*](ipc05.htm#fr_20) Each Indian god had an
+<span id="fn_20"></span>[41:\*](ipc05.htm#fr_20.md) Each Indian god had an
 emblematical animal. Brahmâ had Brahmî, a swan, hence Sita. S’iva's
 animal was a bull, hence Durgâ the Indian Europa. See Plate [p.
-14](#img_pl02).
+14](#img_pl02.md).
 
-<span id="fn_21"></span>[43:\*](ipc05.htm#fr_21) Grant Allen, "Evolution
+<span id="fn_21"></span>[43:\*](ipc05.htm#fr_21.md) Grant Allen, "Evolution
 of the Idea of God." p. 73.
 
-<span id="fn_22"></span>[43:†](ipc05.htm#fr_22) "Catechism of the Shaiva
+<span id="fn_22"></span>[43:†](ipc05.htm#fr_22.md) "Catechism of the Shaiva
 Religion," by Sabhapati Mudahya, p. 53.
 
-<span id="fn_23"></span>[44:\*](ipc05.htm#fr_23) "Catechism of the
+<span id="fn_23"></span>[44:\*](ipc05.htm#fr_23.md) "Catechism of the
 Shaiva Religion," by Sabhapati Mudahya, p. 74.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Buddha](ipc06)
+[Next: Chapter III. Buddha](ipc06.md)

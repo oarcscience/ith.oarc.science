@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes05)  [Next](mes07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes05)  [Next](mes07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,7 +21,7 @@ Textual Heritage
 ### CHAPTER III.
 
 *Mevlānā Jelālu-’d-Dīn Muhammed, the Revered Mystery of God upon
-Earth*. <span id="fr_9"></span>[1](#fn_9)
+Earth*. <span id="fr_9"></span>[1](#fn_9.md)
 
 <span class="smallcaps">Jelālu-’d-Dīn</span> is related to have been
 born at Balkh on the 6th of Rebī‘u-’l-evvel, <span
@@ -102,7 +102,7 @@ descent, being of the lineage of a king, and also of an hereditary
 saint.
 
 His maternal grandmother was a daughter of the great Imām
-Es-Sarakhsī <span id="fr_10"></span>[1](#fn_10) (died at Damascus <span
+Es-Sarakhsī <span id="fr_10"></span>[1](#fn_10.md) (died at Damascus <span
 class="smallcaps">a.h.</span> 571, <span class="smallcaps">a.d.</span>
 1175), who was of the lineage of the Prophet. The mother of Es-Sarakhsī
 was descended from the Caliph ‘Alī; and Jelāl's paternal grandmother was
@@ -132,7 +132,7 @@ Suddenly, God one day vouchsafed to appear to him visibly. On this he
 fainted away. Regaining consciousness, he heard a voice from heaven,
 that said—
 
-"O Jelālu-’d-Dīn <span id="fr_11"></span>[1](#fn_10) By the majesty
+"O Jelālu-’d-Dīn <span id="fr_11"></span>[1](#fn_10.md) By the majesty
 (jelāl) of Our glory, do thou henceforward cease to combat with thyself;
 for We have exalted thee to the station of ocular vision."
 
@@ -243,7 +243,7 @@ and mixed in the crowd. Soon afterwards, he returned to Qonya by way of
 Qaysariyya. At this latter place, under the guiding supervision of his
 spiritual teacher, the Seyyid Burhānu-’d-Dīn, Jelāl fasted three
 consecutive periods of forty days each, <span
-id="fr_12"></span>[1](#fn_11) with only a pot of water and two or three
+id="fr_12"></span>[1](#fn_11.md) with only a pot of water and two or three
 loaves of barley bread. He showed no signs of suffering. Burhān now
 pronounced him perfect in all science, patent and occult, human and
 spiritual. (Compare chap. ii. No. 3.)
@@ -906,7 +906,7 @@ should at once swallow him up; such being the divine punishment for that
 offence. Now, however, I see that young men, barely out of
 leading-strings, show no respect for age, but trample over those in
 years. They have no dread of the earth's swallowing them up, nor any
-fear of being transformed into apes. <span id="fr_13"></span>[1](#fn_12)
+fear of being transformed into apes. <span id="fr_13"></span>[1](#fn_12.md)
 It happened, however, that one morning the Victorious Lion of God, ‘Alī,
 son of Abū-Tālib, was hasting from his house to perform his devotions at
 dawn in the mosque of the Prophet. On his way, he overtook an old man, a
@@ -1630,7 +1630,7 @@ the All-Compelling One, besides whom none is high, or strong, or
 powerful! These dogs comprehend my discourse, and the truths I expound.
 Men call them dogs; but henceforward let them not be so termed. They are
 of the family of the '*Seven Sleepers*.'" <span
-id="fr_14"></span>[1](#fn_13)
+id="fr_14"></span>[1](#fn_13.md)
 
 #### 42.
 
@@ -1701,7 +1701,7 @@ make us doubt our eyes? By the God of heaven and earth, he was with us
 in person, habited in the very dress he now wears, when we all assumed
 the pilgrim garb at Mekka. He performed with us all the ceremonies of
 the pilgrimage, there and at ‘Arafāt. <span
-id="fr_15"></span>[1](#fn_14) He visited with us the tomb of the Prophet
+id="fr_15"></span>[1](#fn_14.md) He visited with us the tomb of the Prophet
 at Medīna; though
 
 <span id="page_61">p. 61</span>
@@ -1834,11 +1834,11 @@ display.
 #### 50.
 
 One day, the poet-laureate, Qāni‘ī, came to visit Jelāl at his college.
-He was the very Khāqānī <span id="fr_16"></span>[1](#fn_15) of the age,
+He was the very Khāqānī <span id="fr_16"></span>[1](#fn_15.md) of the age,
 and was accompanied by a crowd of noble admirers.
 
 After much conversation, Qāni‘ī remarked that he did not like the
-writings of the poet Sanā’ī, <span id="fr_17"></span>[2](#fn_16) and
+writings of the poet Sanā’ī, <span id="fr_17"></span>[2](#fn_16.md) and
 Jelāl inquired the reason. The poet-laureate replied: "Sanā’ī was not a
 Muslim." Again Jelāl asked why he had formed that opinion; and Qāni‘ī
 replied: "He has quoted passages from the Qur’ān in his poetry, and has
@@ -2071,7 +2071,7 @@ Arabian new year, and always uttered the following prayer on seeing
 it:—"O our Lord God! Thou art the Past-eternal One, the Future-eternal
 One, the Ancient One! This is a new year. I beg of Thee therein
 steadfastness to withstand the lapidated Satan, <span
-id="fr_18"></span>[1](#fn_17) and assistance against the rebellious
+id="fr_18"></span>[1](#fn_17.md) and assistance against the rebellious
 spirit (within me); also, occupation in what will approximate me to
 Thee, and an avoidance of what might elongate me from Thee. O God! O the
 All-merciful One, the All-compassionate One! Through Thy mercy, O
@@ -2448,7 +2448,7 @@ front to below his navel; while the
 <span id="page_80">p. 80</span>
 
 other end was formed into the *sheker-āvīz* <span
-id="fr_19"></span>[1](#fn_18) of the Mevlevi dervishes.
+id="fr_19"></span>[1](#fn_18.md) of the Mevlevi dervishes.
 
 When they had become somewhat intimate, Sultan Veled asked him how it
 happened that he wore the *sheker-āvīz* of the Mevlevis, when nobody
@@ -2526,7 +2526,7 @@ it to land.
 
 "They now found they had captured a 'Lord of the Waters,' also named a
 'Marvel of the Sea,' as is commonly known. <span
-id="fr_20"></span>[1](#fn_19)
+id="fr_20"></span>[1](#fn_19.md)
 
 "We wondered," said he, "what we could do with the beast. We wept for
 the ill fortune that had brought us such a disappointment. The creature
@@ -2669,7 +2669,7 @@ tears and transports, bursting forth with shouts and exclamations of
 pure bliss, and losing all consciousness. The Prophet declared that the
 notes of the shepherd's flute were the interpretation of the holy
 mysteries he had confided in private to ‘Alī's charge. <span
-id="fr_21"></span>[1](#fn_20)
+id="fr_21"></span>[1](#fn_20.md)
 
 Thus it is that, until a man acquire the sincere devotion of the
 linnet-voiced flute-reed, he cannot hear the mysteries of the Brethren
@@ -2918,7 +2918,7 @@ have no fear or anxiety on that account;
 <span id="page_92">p. 92</span>
 
 <span class="contnote">\[paragraph continues\]</span> "for," said he,
-"as the spirit of Mansūr <span id="fr_22"></span>[1](#fn_21) appeared, a
+"as the spirit of Mansūr <span id="fr_22"></span>[1](#fn_21.md) appeared, a
 hundred and fifty years after his death, to the Sheykh Ferīdu-’d-Dīn
 ‘Attār, and became the Sheykh's spiritual guide and teacher, so, too, do
 you always be with me, whatever may happen, and remember me, so that I
@@ -2969,9 +2969,9 @@ worship, and perpetual abstinence from fleshly lusts; long-suffering
 under the ill-treatment of all mankind; to shun the companionship of the
 light-minded and of the common herd; to associate with the righteous and
 with men of worth. For verily '*the best of mankind is he who benefiteth
-men*,' <span id="fr_23"></span>[1](#fn_22) and '*the best of speech is
+men*,' <span id="fr_23"></span>[1](#fn_22.md) and '*the best of speech is
 that which is short and to the purpose*.'" <span
-id="fr_24"></span>[2](#fn_23)
+id="fr_24"></span>[2](#fn_23.md)
 
 #### 88.
 
@@ -3119,7 +3119,7 @@ friend of his wife's.
 
 Nizāma formed the design to give a spiritual party to Jelāl, with an
 entertainment for his disciples. She possessed nothing but a Thevr (*or*
-Sevr) <span id="fr_25"></span>[1](#fn_24) veil, which she had destined
+Sevr) <span id="fr_25"></span>[1](#fn_24.md) veil, which she had destined
 to be her own winding-sheet.
 
 She now ordered her servants to sell this veil, and so procure the
@@ -3184,52 +3184,52 @@ to the shrine of the deceased saint.
 
 ### Footnotes
 
-<span id="fn_9"></span>[18:1](mes06.htm#fr_9) The truly eminent author
+<span id="fn_9"></span>[18:1](mes06.htm#fr_9.md) The truly eminent author
 of the Mesnevī.
 
-<span id="fn_10"></span>[20:1](mes06.htm#fr_11) From the city of Sarakhs
+<span id="fn_10"></span>[20:1](mes06.htm#fr_11.md) From the city of Sarakhs
 in Khurāsān.
 
-<span id="fn_11"></span>[23:1](mes06.htm#fr_12) Had Dr. Tanner, the
+<span id="fn_11"></span>[23:1](mes06.htm#fr_12.md) Had Dr. Tanner, the
 forty days’ faster at New York, heard of these performances?
 
-<span id="fn_12"></span>[40:1](mes06.htm#fr_13) As related of certain
+<span id="fn_12"></span>[40:1](mes06.htm#fr_13.md) As related of certain
 Sabbath-breaking Jews, in Qur’ān ii. 61.
 
-<span id="fn_13"></span>[59:1](mes06.htm#fr_14) Qur’ān xviii. 8, &c.
+<span id="fn_13"></span>[59:1](mes06.htm#fr_14.md) Qur’ān xviii. 8, &c.
 
-<span id="fn_14"></span>[60:1](mes06.htm#fr_15) The mount where the
+<span id="fn_14"></span>[60:1](mes06.htm#fr_15.md) The mount where the
 victims are slaughtered by the pilgrims.
 
-<span id="fn_15"></span>[64:1](mes06.htm#fr_16) The great Persian poet
-Khāqānī, [born](errata.htm#1) at Shirwān, died and was buried at Tebrīz
+<span id="fn_15"></span>[64:1](mes06.htm#fr_16.md) The great Persian poet
+Khāqānī, [born](errata.htm#1.md) at Shirwān, died and was buried at Tebrīz
 <span class="smallcaps">a.h.</span> 582 (<span
 class="smallcaps">a.d.</span> 1186).
 
-<span id="fn_16"></span>[64:2](mes06.htm#fr_17) Sanā’ī, of Gazna in
+<span id="fn_16"></span>[64:2](mes06.htm#fr_17.md) Sanā’ī, of Gazna in
 Afgānistān, surnamed "the Wise," or "the Philosopher," died and was
 buried at the place of his birth, <span class="smallcaps">a.h.</span>
 576 (<span class="smallcaps">a.d.</span> 1180).
 
-<span id="fn_17"></span>[70:1](mes06.htm#fr_18) "*Satan, the Lapidated
+<span id="fn_17"></span>[70:1](mes06.htm#fr_18.md) "*Satan, the Lapidated
 One*," is the chief title of the accursed one. Muslims believe that the
 "shooting stars" are missiles cast by angels at demons who attempt to
 approach heaven for eavesdropping purposes.
 
-<span id="fn_18"></span>[80:1](mes06.htm#fr_19) I have not met with an
+<span id="fn_18"></span>[80:1](mes06.htm#fr_19.md) I have not met with an
 explanation of this word in any Persian dictionary. Literally it
 signifies *sugar-hanging*. In the Bahāri-‘Ajem alone is it mentioned,
 with a distich from Hāfiz; but it is left unexplained.
 
-<span id="fn_19"></span>[82:1](mes06.htm#fr_20) Apparently a "*merman*"
+<span id="fn_19"></span>[82:1](mes06.htm#fr_20.md) Apparently a "*merman*"
 is intended.
 
-<span id="fn_20"></span>[85:1](mes06.htm#fr_21) This is a much more
+<span id="fn_20"></span>[85:1](mes06.htm#fr_21.md) This is a much more
 poetical account of the origin of the reed-flute than the pagan Greek
 myths of Orpheus and his lyre, Pan and his pipe, for which no reasons
 are assigned.
 
-<span id="fn_21"></span>[92:1](mes06.htm#fr_22) Mansūr, son of ‘Ammār,
+<span id="fn_21"></span>[92:1](mes06.htm#fr_22.md) Mansūr, son of ‘Ammār,
 thus mentioned by D’Herbelot: "Scheikh des plus considérés parmi les
 Musulmans. On le cite au sujet d’un passage du chapitre Enfathar de
 l’Alcoran (lxxxii.), où Dieu est introduit faisant ce reproche aux
@@ -3242,17 +3242,17 @@ about <span class="smallcaps">a.h.</span> 400 (<span
 class="smallcaps">a.d.</span> 1020). He is mentioned in No. 51, p. 68,
 of the *Nafahātu-’l-Uns*.
 
-<span id="fn_22"></span>[93:1](mes06.htm#fr_23) Khayru ’n nāsi, men
+<span id="fn_22"></span>[93:1](mes06.htm#fr_23.md) Khayru ’n nāsi, men
 yenfa‘u ’n nāsa.—Arabic Proverb.
 
-<span id="fn_23"></span>[93:2](mes06.htm#fr_24) Khayru ’l kelāmi,
+<span id="fn_23"></span>[93:2](mes06.htm#fr_24.md) Khayru ’l kelāmi,
 qasiruhu ’l mufīdu.—Arabic Proverb.
 
-<span id="fn_24"></span>[97:1](mes06.htm#fr_25) *Thevr* is the name of a
+<span id="fn_24"></span>[97:1](mes06.htm#fr_25.md) *Thevr* is the name of a
 tribe of Arabians, and of two hills, one at Mekka, the other at Medīna;
 but the explanation of the term "*a Thevr* or *Sevr veil*" I have not
 met with.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](mes07)
+[Next: Chapter IV](mes07.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp09)  [Next](hmvp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp09)  [Next](hmvp11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ as follows:—
 <span class="small">"Let us meditate on that excellent glory of the
 divine Vivifier;  
  May he enlighten (or stimulate) our understandings." <span
-id="fr_25"></span>[\*](#fn_25)</span>
+id="fr_25"></span>[\*](#fn_25.md)</span>
 
 </div>
 
@@ -56,7 +56,7 @@ Gayatri the Kshetriya
 
 <span id="img_03100"></span> <span align="CENTER">
 [![SURYA](tn/03100.jpg)  
-Click to enlarge](img/03100.jpg)  
+Click to enlarge](img/03100.jpg.md)  
 SURYA  
 </span>
 
@@ -64,7 +64,7 @@ SURYA
 Vishvamitra became a Brāhmarsi (Brāhman saint), and even obtained such
 power as to be able to create a new world. What is there indeed that
 cannot be effected by the Gayatri? For the Gayatri is Vishnu, Brahmā,
-and Siva, and the three Vedas." <span id="fr_26"></span>[\*](#fn_26)
+and Siva, and the three Vedas." <span id="fr_26"></span>[\*](#fn_26.md)
 
 <span id="page_32">p. 32</span>
 
@@ -72,7 +72,7 @@ and Siva, and the three Vedas." <span id="fr_26"></span>[\*](#fn_26)
 such blessings, it is not to be wondered at that the worship of Surya
 should continue.
 
-The following translation <span id="fr_27"></span>[\*](#fn_27) of hymns
+The following translation <span id="fr_27"></span>[\*](#fn_27.md) of hymns
 from the Rig-Veda gives a fair specimen of the language used in
 addresses to Surya
 
@@ -115,7 +115,7 @@ the sun when rising and
 
 <span id="page_33">p. 33</span>
 
-setting. Savitri is golden-eyed, <span id="fr_28"></span>[\*](#fn_28)
+setting. Savitri is golden-eyed, <span id="fr_28"></span>[\*](#fn_28.md)
 golden-handed, golden- tongued. He rides in a chariot drawn by radiant,
 white-footed steeds. He illuminates the earth; his golden arms stretched
 out to bless, infusing energy into all creatures, reach to the utmost
@@ -136,7 +136,7 @@ Māgh; and in seasons of sickness it is no uncommon thing for the
 low-caste Hindus to employ a Brāhman to repeat verses in his honour, in
 the hope that thus propitiated he will effect their recovery.
 
-In the "Vishnu Purāna" <span id="fr_29"></span>[†](#fn_29) we find the
+In the "Vishnu Purāna" <span id="fr_29"></span>[†](#fn_29.md) we find the
 following account of Surya. He married Sangnā, the daughter of
 Visvakarma; who, after bearing him three children, was so oppressed with
 his brightness and glory that she was compelled to leave him. Before her
@@ -168,7 +168,7 @@ the supreme soul in all the Vedas." Again, "That which is the sun, and
 thus called light or effulgent power, is adorable, and must be
 worshipped by those who dread successive births and deaths, and who
 eagerly desire beatitude." In the "Brahmā Purāna" <span
-id="fr_30"></span>[\*](#fn_30) is a passage in which the sun is alluded
+id="fr_30"></span>[\*](#fn_30.md) is a passage in which the sun is alluded
 to under twelve names, with epithets peculiar to each, as though they
 were twelve distinct sun-deities:—
 
@@ -230,7 +230,7 @@ Mārtanda, "A descendant of Mritanda."
 Pushan is the name of a sun-god to whom some hymns are exclusively
 addressed, and whose praise at other times is sung in connection with
 that of Indra and other gods. In these hymns his character is not very
-clearly defined. He is said <span id="fr_31"></span>[\*](#fn_31) to
+clearly defined. He is said <span id="fr_31"></span>[\*](#fn_31.md) to
 behold the entire universe; is addressed as the guide of travellers, and
 the protector of cattle. He is called upon to protect his servants in
 battle, and to defend them as of old. He is invoked in the marriage
@@ -261,11 +261,11 @@ paths easy to travel; gain strength for us here. Lead us over a country
 of rich pastures; let no new trouble (beset our) path. Bestow, satiate,
 grant, stimulate us; fill our belly. We do not reproach Pushan, we
 praise him with hymns; and we seek riches from the wonder-working
-god." <span id="fr_32"></span>[\*](#fn_32) "May we, O Pushan! meet with
+god." <span id="fr_32"></span>[\*](#fn_32.md) "May we, O Pushan! meet with
 a wise man who will straightway direct us and say, 'It is this.' May
 Pushan follow our kine; may he protect our horses; may he give us food.
 . . . Come hither, glowing god, the deliverer, may we meet." <span
-id="fr_33"></span>[†](#fn_33)
+id="fr_33"></span>[†](#fn_33.md)
 
 In the Purānas Pushan occupies a far less exalted position. It seems
 almost like a burlesque to see him, who in the Vedas is reverently
@@ -276,7 +276,7 @@ found in the Taittiriya Sanhita. Rudra, the name by which Siva was then
 known, not being invited to a great sacrifice that Daksha, his
 father-in-law, was celebrating, in his anger shot an arrow which pierced
 the sacrificial victim. Pushan ate his share, and in doing so broke his
-teeth. In describing Daksha, <span id="fr_34"></span>[‡](#fn_34) an
+teeth. In describing Daksha, <span id="fr_34"></span>[‡](#fn_34.md) an
 account of this sacrifice will be given. In the "Vishnu Purāna" Pushan
 appears as one of the Ādityas.
 
@@ -295,7 +295,7 @@ good eyesight, for he knows what goes on in the hearts of men. He
 
 <span id="img_03800"></span> <span align="CENTER">
 [![VARUNA.](tn/03800.jpg)  
-Click to enlarge](img/03800.jpg)  
+Click to enlarge](img/03800.jpg.md)  
 VARUNA.  
 </span>
 
@@ -314,10 +314,10 @@ flow, cannot attain a knowledge of his power and wrath. But he knows the
 flight of the birds in the sky, the course of the far travelling wind,
 the paths of ships on the ocean, and beholds all the secret things that
 have been or shall be done. He witnesses men's truth and
-falsehood." <span id="fr_35"></span>[\*](#fn_35)
+falsehood." <span id="fr_35"></span>[\*](#fn_35.md)
 
 The following is a metrical version of one of the hymns of the Rig-Veda
-as given by Dr. Muir:— <span id="fr_36"></span>[†](#fn_36)
+as given by Dr. Muir:— <span id="fr_36"></span>[†](#fn_36.md)
 
 <div style="margin-left: 32px">
 
@@ -378,14 +378,14 @@ celestial, and those which flow; those for which channels are dug, and
 those which are self-produced; those which are proceeding to the ocean,
 and are bright and purifying, preserve me! May those (waters) in the
 midst of which King Varuna goes . . . preserve me!" <span
-id="fr_37"></span>[\*](#fn_37) In other places
+id="fr_37"></span>[\*](#fn_37.md) In other places
 
 <span id="page_41">p. 41</span>
 
 he is said to dwell in the waters as Soma does in the woods. Professor
 Roth gives a probable explanation as to the manner in which Varuna, who
 was originally the god of the heavens, came to be regarded as the god of
-the ocean. He says: <span id="fr_38"></span>[\*](#fn_38) "When, on the
+the ocean. He says: <span id="fr_38"></span>[\*](#fn_38.md) "When, on the
 one hand, the conception of Varuna as the all-embracing heaven had been
 established, and, on the other hand, the observation of the rivers
 flowing towards the ends of the earth and to the sea had led to the
@@ -393,7 +393,7 @@ conjecture that there existed an ocean enclosing the earth in its bosom,
 then the way was thoroughly prepared for connecting Varuna with the
 ocean."
 
-In the Brāhmana of the Rig-Veda <span id="fr_39"></span>[†](#fn_39) is
+In the Brāhmana of the Rig-Veda <span id="fr_39"></span>[†](#fn_39.md) is
 an interesting legend showing that probably human sacrifices were at one
 time offered to Varuna. A certain king named Harischandra had no son.
 Being greatly distressed on this account, as a son was necessary to the
@@ -457,7 +457,7 @@ worshipped in seasons of drought, and by fishermen as they cast their
 nets, but nowadays no images of him are made.
 
 The following legend is found in the "Padma Purāna." <span
-id="fr_40"></span>[\*](#fn_40) On one occasion Rāvana, the demon king of
+id="fr_40"></span>[\*](#fn_40.md) On one occasion Rāvana, the demon king of
 the island, was travelling home to Ceylon, carrying with him a stone
 linga, the emblem of Siva. He was desirous of setting up the worship of
 the great god there, and was taking the image from the Himalayas for
@@ -509,7 +509,7 @@ moon. Professor Roth says, "They hold a perfectly distinct position in
 the entire body of the Vedic deities of light. They are the earliest
 bringers of light in the morning sky, who hasten on in the clouds before
 the Dawn and prepare the way for her." <span
-id="fr_41"></span>[\*](#fn_41) In some hymns they are said to be sons of
+id="fr_41"></span>[\*](#fn_41.md) In some hymns they are said to be sons of
 the sun (*vide* 
 
 <span id="page_45">p. 45</span>
@@ -524,7 +524,7 @@ common wife. She chose them, as her life was lonely. Her father had
 intended her to marry Soma; but, as the gods were anxious to obtain so
 beautiful a bride, it was agreed that they should run a race, Surya
 being the prize of the winner. The Asvins were successful, and she
-ascended their chariot. <span id="fr_42"></span>[\*](#fn_42) In another
+ascended their chariot. <span id="fr_42"></span>[\*](#fn_42.md) In another
 passage Soma is said to have been her husband; the Asvins being friends
 of the bridegroom.
 
@@ -533,7 +533,7 @@ to be able to restore to health the blind, the sick, the lame, and the
 emaciated amongst mortals. They are the special guardians of the slow
 and backward; the devoted friends of elderly women who are unmarried.
 They are said to preside over love and marriage, and are implored to
-bring together hearts that love. <span id="fr_43"></span>[†](#fn_43)
+bring together hearts that love. <span id="fr_43"></span>[†](#fn_43.md)
 
 A number of legends are found illustrating the power of the Asvins in
 healing the sick and assisting those in trouble, from which we learn
@@ -553,7 +553,7 @@ enemies, the preservation of the worshippers themselves, of their houses
 and cattle."
 
 The following legend of the cure they effected on Chyavana, from the
-"Satapatha Brāhmana," <span id="fr_44"></span>[\*](#fn_44) will
+"Satapatha Brāhmana," <span id="fr_44"></span>[\*](#fn_44.md) will
 illustrate the peculiar features of the work of the Asvins:—Chyavana,
 having assumed a shrivelled form, was abandoned by his family. Saryāta,
 a Rishi, with his tribe settled in the neighbourhood; when his sons
@@ -597,7 +597,7 @@ physician, or he is thereby unfitted for the work of a priest; but as
 the work of the Asvins was necessary, they were purified, and then
 allowed to join the gods. They then restored the head of the sacrifice.
 
-Professor Goldstücker <span id="fr_45"></span>[\*](#fn_45) says, "The
+Professor Goldstücker <span id="fr_45"></span>[\*](#fn_45.md) says, "The
 myth of the Asvins is one of that class of myths in which two distinct
 elements, the cosmical and the human or historical, have gradually
 become blended into one. . . . The historical or human element in it, I
@@ -617,14 +617,14 @@ into the companionship of the gods."
 This goddess, representative of the Dawn, is a favourite object of
 celebration with the Vedic poets, and "the hymns addressed to her are
 among the most beautiful—if not the most beautiful—in the entire
-collection." <span id="fr_46"></span>[\*](#fn_46) She is described as
+collection." <span id="fr_46"></span>[\*](#fn_46.md) She is described as
 the daughter of the Sky, has Night for her sister, and is related to
 Varuna. She is at times spoken of as the wife of the Sun; at other times
 Agni is given as her lover; the Asvins are her friends. Indra is at one
 time regarded as her creator; at another time he assumes a hostile
 position, and even crushed her chariot with his thunderbolt.
 
-Ushas is said <span id="fr_47"></span>[†](#fn_47) to travel in a shining
+Ushas is said <span id="fr_47"></span>[†](#fn_47.md) to travel in a shining
 chariot drawn by ruddy horses or cows. Like a beautiful maiden dressed
 by her mother, a dancing girl covered with jewels, a gaily-attired wife
 appearing before her husband, or a beautiful girl corning from her bath,
@@ -646,7 +646,7 @@ successive generations, which
 disappear one after another, whilst she continues undying. The souls of
 the departed are said to go to her and to the sun.
 
-In the following lines <span id="fr_48"></span>[\*](#fn_48) will be
+In the following lines <span id="fr_48"></span>[\*](#fn_48.md) will be
 found the main teaching of the Vedas respecting this goddess:—
 
 <div style="margin-left: 32px">
@@ -670,7 +670,7 @@ found the main teaching of the Vedas respecting this goddess:—
 
 </div>
 
-In the following verses by Dr. Muir <span id="fr_49"></span>[†](#fn_49)
+In the following verses by Dr. Muir <span id="fr_49"></span>[†](#fn_49.md)
 we have a still more vivid picture of this goddess as represented in the
 Vedic hymns:—
 
@@ -816,70 +816,70 @@ worshippers cattle, horses, sons, health, joy, and length of days.
 
 ### Footnotes
 
-<span id="fn_25"></span>[30:\*](hmvp10.htm#fr_25) "Indian Wisdom," p.
+<span id="fn_25"></span>[30:\*](hmvp10.htm#fr_25.md) "Indian Wisdom," p.
 20.
 
-<span id="fn_26"></span>[31:\*](hmvp10.htm#fr_26) Kennedy's "Hindu
+<span id="fn_26"></span>[31:\*](hmvp10.htm#fr_26.md) Kennedy's "Hindu
 Mythology," p. 345.
 
-<span id="fn_27"></span>[32:\*](hmvp10.htm#fr_27) "Indian Wisdom," p.
+<span id="fn_27"></span>[32:\*](hmvp10.htm#fr_27.md) "Indian Wisdom," p.
 19.
 
-<span id="fn_28"></span>[33:\*](hmvp10.htm#fr_28) Muir, O. S. T., v. 162
+<span id="fn_28"></span>[33:\*](hmvp10.htm#fr_28.md) Muir, O. S. T., v. 162
 ff.
 
-<span id="fn_29"></span>[33:†](hmvp10.htm#fr_29) Book iii. chap. ii.
+<span id="fn_29"></span>[33:†](hmvp10.htm#fr_29.md) Book iii. chap. ii.
 
-<span id="fn_30"></span>[34:\*](hmvp10.htm#fr_30) Kennedy's "Hindu
+<span id="fn_30"></span>[34:\*](hmvp10.htm#fr_30.md) Kennedy's "Hindu
 Mythology," p. 349.
 
-<span id="fn_31"></span>[36:\*](hmvp10.htm#fr_31) Muir, O. S. T., v. 171
+<span id="fn_31"></span>[36:\*](hmvp10.htm#fr_31.md) Muir, O. S. T., v. 171
 ff.
 
-<span id="fn_32"></span>[37:\*](hmvp10.htm#fr_32) Muir, O. S. T., v.
+<span id="fn_32"></span>[37:\*](hmvp10.htm#fr_32.md) Muir, O. S. T., v.
 175.
 
-<span id="fn_33"></span>[37:†](hmvp10.htm#fr_33) Ibid. v. 177.
+<span id="fn_33"></span>[37:†](hmvp10.htm#fr_33.md) Ibid. v. 177.
 
-<span id="fn_34"></span>[37:‡](hmvp10.htm#fr_34) Part iii. chap. i.
+<span id="fn_34"></span>[37:‡](hmvp10.htm#fr_34.md) Part iii. chap. i.
 
-<span id="fn_35"></span>[39:\*](hmvp10.htm#fr_35) Muir, O. S. T., v. 58
+<span id="fn_35"></span>[39:\*](hmvp10.htm#fr_35.md) Muir, O. S. T., v. 58
 ff.
 
-<span id="fn_36"></span>[39:†](hmvp10.htm#fr_36) Ibid. v. 64.
+<span id="fn_36"></span>[39:†](hmvp10.htm#fr_36.md) Ibid. v. 64.
 
-<span id="fn_37"></span>[40:\*](hmvp10.htm#fr_37) Muir, O. S. T., v. 73.
+<span id="fn_37"></span>[40:\*](hmvp10.htm#fr_37.md) Muir, O. S. T., v. 73.
 
-<span id="fn_38"></span>[41:\*](hmvp10.htm#fr_38) Muir, O. S. T., v. 75.
+<span id="fn_38"></span>[41:\*](hmvp10.htm#fr_38.md) Muir, O. S. T., v. 75.
 
-<span id="fn_39"></span>[41:†](hmvp10.htm#fr_39) "Indian Wisdom," p. 29.
+<span id="fn_39"></span>[41:†](hmvp10.htm#fr_39.md) "Indian Wisdom," p. 29.
 
-<span id="fn_40"></span>[43:\*](hmvp10.htm#fr_40) "Ward on the Hindoos,"
+<span id="fn_40"></span>[43:\*](hmvp10.htm#fr_40.md) "Ward on the Hindoos,"
 i. 57.
 
-<span id="fn_41"></span>[44:\*](hmvp10.htm#fr_41) Muir, O. S. T., v.
+<span id="fn_41"></span>[44:\*](hmvp10.htm#fr_41.md) Muir, O. S. T., v.
 235.
 
-<span id="fn_42"></span>[45:\*](hmvp10.htm#fr_42) Muir, O. S. T., v.
+<span id="fn_42"></span>[45:\*](hmvp10.htm#fr_42.md) Muir, O. S. T., v.
 236.
 
-<span id="fn_43"></span>[45:†](hmvp10.htm#fr_43) Ibid. v. 234.
+<span id="fn_43"></span>[45:†](hmvp10.htm#fr_43.md) Ibid. v. 234.
 
-<span id="fn_44"></span>[46:\*](hmvp10.htm#fr_44) Muir, O. S. T., v.
+<span id="fn_44"></span>[46:\*](hmvp10.htm#fr_44.md) Muir, O. S. T., v.
 250.
 
-<span id="fn_45"></span>[47:\*](hmvp10.htm#fr_45) Chambers's
+<span id="fn_45"></span>[47:\*](hmvp10.htm#fr_45.md) Chambers's
 "Cyclopædia."
 
-<span id="fn_46"></span>[48:\*](hmvp10.htm#fr_46) Muir, O. S. T., v.
+<span id="fn_46"></span>[48:\*](hmvp10.htm#fr_46.md) Muir, O. S. T., v.
 181.
 
-<span id="fn_47"></span>[48:†](hmvp10.htm#fr_47) Ibid. v. 194.
+<span id="fn_47"></span>[48:†](hmvp10.htm#fr_47.md) Ibid. v. 194.
 
-<span id="fn_48"></span>[49:\*](hmvp10.htm#fr_48) Indian Wisdom," p, 20.
+<span id="fn_48"></span>[49:\*](hmvp10.htm#fr_48.md) Indian Wisdom," p, 20.
 
-<span id="fn_49"></span>[49:†](hmvp10.htm#fr_49) Muir, O. S. T., v. 196.
+<span id="fn_49"></span>[49:†](hmvp10.htm#fr_49.md) Muir, O. S. T., v. 196.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Storm Deities](hmvp11)
+[Next: Chapter VII. The Storm Deities](hmvp11.md)

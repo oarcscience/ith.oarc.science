@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[2 John](jo2)  [Jude](jde)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[2 John](jo2)  [Jude](jde.md)
 
 ------------------------------------------------------------------------
 
@@ -9,4 +9,4 @@
 
 ------------------------------------------------------------------------
 
-[3 John 1](jo3001)  
+[3 John 1](jo3001.md)  

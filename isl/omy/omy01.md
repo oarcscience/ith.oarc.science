@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy00)  [Next](omy02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy00)  [Next](omy02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -30,7 +30,7 @@ THE EMPEROR OF THE FRENCH.
 
 <span id="img__00500"></span> <span align="CENTER"> [![Dedication:
 Arabic text](tn/_00500.jpg)  
-Click to enlarge](img/_00500.jpg)  
+Click to enlarge](img/_00500.jpg.md)  
   
 </span>
 
@@ -38,7 +38,7 @@ Click to enlarge](img/_00500.jpg)
 
 <span id="img__00600"></span> <span align="CENTER"> [![Dedication:
 Arabic text](tn/_00600.jpg)  
-Click to enlarge](img/_00600.jpg)  
+Click to enlarge](img/_00600.jpg.md)  
   
 </span>
 
@@ -46,7 +46,7 @@ Click to enlarge](img/_00600.jpg)
 
 <span id="img__00700"></span> <span align="CENTER"> [![Dedication:
 Arabic text](tn/_00700.jpg)  
-Click to enlarge](img/_00700.jpg)  
+Click to enlarge](img/_00700.jpg.md)  
   
 </span>
 
@@ -56,7 +56,7 @@ Cambridge.    
 
 <span id="img__00701"></span> <span align="CENTER"> [![Dedication:
 Arabic text](tn/_00701.jpg)  
-Click to enlarge](img/_00701.jpg)  
+Click to enlarge](img/_00701.jpg.md)  
   
 </span>
 
@@ -91,4 +91,4 @@ E. H. PALMER.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](omy02)
+[Next: Preface](omy02.md)

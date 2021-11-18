@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis09)  [Next](kis11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis09)  [Next](kis11.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ little field of blue flowers, and Fedelma told
 
 ------------------------------------------------------------------------
 
-[Next: Part XI: The Sending of the Crystal Egg](kis11)
+[Next: Part XI: The Sending of the Crystal Egg](kis11.md)

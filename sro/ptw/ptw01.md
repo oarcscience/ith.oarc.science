@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw00) 
-[Next](ptw02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw00.md) 
+[Next](ptw02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Preface](ptw02)
+[Next: Preface](ptw02.md)

@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft37)  [Next](sfft39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft37)  [Next](sfft39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE POOR MAN OF PEATLAW. <span id="fr_57"></span>[1](#fn_57)
+### THE POOR MAN OF PEATLAW. <span id="fr_57"></span>[1](#fn_57.md)
 
 THE following is an account of a fairy frolic said to have happened late
 in the last century:--The victim of elfin sport was a poor man, who,
@@ -42,9 +42,9 @@ disguising his having intentionally done so.
 
 ### Footnotes
 
-<span id="fn_57"></span>[127:1](sfft38.htm#fr_57) Sir Walter Scott,
+<span id="fn_57"></span>[127:1](sfft38.htm#fr_57.md) Sir Walter Scott,
 *Minstrelsy of the Scottish Border*.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Boy of Leith](sfft39)
+[Next: The Fairy Boy of Leith](sfft39.md)

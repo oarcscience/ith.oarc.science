@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](cha04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](cha04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785145X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785145X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,11 +21,11 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785145X/internetsacredte)
 As regards the FIRST, No one can have charity except from the Lord.
 Here, as in what follows, we name only the Lord, because the Lord is the
 only God; for He is God of heaven and earth, as He himself teaches. .
-. <span id="fr_28"></span>[201-1](#fn_28) He and the Father are one,
+. <span id="fr_28"></span>[201-1](#fn_28.md) He and the Father are one,
 like soul and body, as He also teaches . . . .  <span
-id="fr_29"></span>[201-2](#fn_29) He and the Spirit are the same, like
+id="fr_29"></span>[201-2](#fn_29.md) He and the Spirit are the same, like
 the Divine in Him, and the Divine from Him. <span
-id="fr_30"></span>[201-3](#fn_30) Thus He Himself is the One Only God;
+id="fr_30"></span>[201-3](#fn_30.md) Thus He Himself is the One Only God;
 and thus the Divine Trinity is in His Person, and is named the Father,
 the Son, and the Holy Spirit. Now, because the whole Church, and all
 religion, is founded upon the idea of God, and upon the idea that God is
@@ -35,7 +35,7 @@ of the unity is in the Lord alone, therefore here at the very beginning,
 and afterwards in what follows, we name the Lord only. See, besides, THE
 DOCTRINE OF THE NEW JERUSALEM CONCERNING THE LORD, from beginning to
 end; also ANGELIC WISDOM CONCERNING THE DIVINE PROVIDENCE, nos. \[157,
-262, 263\]. <span id="fr_31"></span>[201-4](#fn_31) The reason no one
+262, 263\]. <span id="fr_31"></span>[201-4](#fn_31.md) The reason no one
 can have charity except from the Lord, is that by charity is meant every
 good a man does to others; and the good a man does to others is indeed
 good for those to whom it is done, but it is not good him by whom is
@@ -211,7 +211,7 @@ himself from the Lord, and looked backwards away from Him, thereby
 perverting the image and likeness of God in himself, and making it into
 an image and likeness of hell. This is signified by his eating of the
 tree of the knowledge of good and evil. <span
-id="fr_32"></span>[204-1](#fn_32) By the serpent which he obeyed is
+id="fr_32"></span>[204-1](#fn_32.md) By the serpent which he obeyed is
 signified the sensual, which is the ultimate of the natural man, and its
 lust. The sensual, because it exists in the world, and admits therefrom
 the objects it desires, loves the things of the world; and, if it is
@@ -349,7 +349,7 @@ breath it puts away itself and its proprium, thus putting away evil. Its
 form is like the form of a lovely and beautifully coloured flower,
 shining out brilliantly under the sun's rays. Consequently, too, in the
 case of those who are in good, they are forms that can never be
-comprehended by the natural man: <span id="fr_33"></span>[207-1](#fn_33)
+comprehended by the natural man: <span id="fr_33"></span>[207-1](#fn_33.md)
 they cannot be depicted, nor can they be described: the forms they have
 are forms of good. It is rightly said that they are forms of good; yet
 the form itself consists of truths, while its life is the good of love;
@@ -388,7 +388,7 @@ neighbour, when he slanders him? Who is loving the neighbour, when he
 covets what belongs to him? Those evils, therefore, must first be
 removed; and in the measure that they are being removed, to that extent
 the neighbour is being loved. Paul speaks of these things thus: . .
-. <span id="fr_34"></span>[208-1](#fn_34) But people ask whether love
+. <span id="fr_34"></span>[208-1](#fn_34.md) But people ask whether love
 towards the neighbour should be first, or whether shunning those evils
 should be first. Everyone can see that shunning those evils should be
 first, inasmuch as a man is born into evil. Is it not necessary then for
@@ -398,7 +398,7 @@ him to repent?
 
 II THE "SECOND" OF CHARITY IS TO DO GOOD TO THE NEIGHBOUR. Isaiah,
 chapter i.; also concerning the cup and dish that are to be cleansed
-inside first. <span id="fr_35"></span>[209-1](#fn_35) If this cleansing
+inside first. <span id="fr_35"></span>[209-1](#fn_35.md) If this cleansing
 is not done, they still appear good outwardly. This is Pharisaic or
 hypocritical good, or something natural in which there is nothing
 spiritual, thus it is spurious good; and if done for the sake of
@@ -419,7 +419,7 @@ the neighbour keeps the precepts of the Decalogue; he does not wish to
 kill; he does not wish to commit whoredom with someone else's wife; he
 does not wish to steal; he does not bear false witness; "therefore, he
 says," fulfilling the law is what charity is." <span
-id="fr_36"></span>[210-1](#fn_36) But, people ask, which is first, and
+id="fr_36"></span>[210-1](#fn_36.md) But, people ask, which is first, and
 which comes after? Whether loving the neighbour is first, and from that
 love not doing those evils - or whether removing them from oneself is
 first, and in that way loving the neighbour? It is evident enough that
@@ -434,9 +434,9 @@ he does not repent of them, he remains in them. Consequently those evils
 stand in the way of his being able to love the neighbour from that
 spiritual love. And Paul, therefore, says also, that the flesh is
 against the spirit, and that the flesh with its lusting must be
-crucified, <span id="fr_37"></span>[210-2](#fn_37) and that thus a man
+crucified, <span id="fr_37"></span>[210-2](#fn_37.md) and that thus a man
 becomes spiritual, and a new creature. <span
-id="fr_38"></span>[210-3](#fn_38) From this it may be seen that, in so
+id="fr_38"></span>[210-3](#fn_38.md) From this it may be seen that, in so
 far as a man crucifies the flesh, he lives in the spirit. Accordingly,
 man being such by birth, it follows that his spirit cannot love the
 neighbour unless he crucifies his flesh, which is done by repentance;
@@ -474,7 +474,7 @@ affection are not doing it from fear of punishment; and, further, those
 who do good from obedience are natural, while those who do it from
 affection are spiritual. Again, those who do good from obedience are
 those who are being reformed - this, moreover, comes first; <span
-id="fr_39"></span>[210-4](#fn_39) whereas those who do good from
+id="fr_39"></span>[210-4](#fn_39.md) whereas those who do good from
 affection are being regenerated - this comes next in order. All who have
 been under the belief that man is saved by faith alone, if they are
 living in a Christian manner, confessing they are sinners, but without
@@ -548,31 +548,31 @@ THE HUMAN RACE.
 
 ### Footnotes
 
-<span id="fn_28"></span>[201-1](cha05.htm#fr_28) See Matt. xi 27;
+<span id="fn_28"></span>[201-1](cha05.htm#fr_28.md) See Matt. xi 27;
 xxviii. 18: John iii. 35; xvii. 2.
 
-<span id="fn_29"></span>[201-2](cha05.htm#fr_29) See John x. 30, 38;
+<span id="fn_29"></span>[201-2](cha05.htm#fr_29.md) See John x. 30, 38;
 xiv. 9-11; xvii. 10.
 
-<span id="fn_30"></span>[201-3](cha05.htm#fr_30) See John xiv. 16-19;
+<span id="fn_30"></span>[201-3](cha05.htm#fr_30.md) See John xiv. 16-19;
 Matt. xxviii. 20.
 
-<span id="fn_31"></span>[201-4](cha05.htm#fr_31) The Author did not give
+<span id="fn_31"></span>[201-4](cha05.htm#fr_31.md) The Author did not give
 any nos. in the MS., evidently intending to supply them later.
 
-<span id="fn_32"></span>[204-1](cha05.htm#fr_32) Gen. iii. 6.
+<span id="fn_32"></span>[204-1](cha05.htm#fr_32.md) Gen. iii. 6.
 
-<span id="fn_33"></span>[207-1](cha05.htm#fr_33) In the margin: "N.B."
+<span id="fn_33"></span>[207-1](cha05.htm#fr_33.md) In the margin: "N.B."
 
-<span id="fn_34"></span>[208-1](cha05.htm#fr_34) In the MS. no passage
+<span id="fn_34"></span>[208-1](cha05.htm#fr_34.md) In the MS. no passage
 is quoted here; but the intended passage is possibly Rom. xiii. 10:
 "Love worketh no ill to his neighbour: love therefore is the fulfillment
 of the law" (R.V.).
 
-<span id="fn_35"></span>[209-1](cha05.htm#fr_35) Matt. xxiii. 26; Luke
+<span id="fn_35"></span>[209-1](cha05.htm#fr_35.md) Matt. xxiii. 26; Luke
 xi. 39
 
-<span id="fn_36"></span>[210-1](cha05.htm#fr_36) It is those who do good
+<span id="fn_36"></span>[210-1](cha05.htm#fr_36.md) It is those who do good
 from obedience who take the lead in benefactions, such as giving to the
 poor, helping the needy, and endowing places of worship and hospitals;
 and they cannot but think that they merit reward in doing these things.
@@ -580,10 +580,10 @@ Nor do they understand the Word as meaning anything else, where it is
 said that they shall have their reward. Nor do they know that the
 affection itself of good, with its delights, is the reward.
 
-<span id="fn_37"></span>[210-2](cha05.htm#fr_37) Cf. Rom. Xiii. 10.
+<span id="fn_37"></span>[210-2](cha05.htm#fr_37.md) Cf. Rom. Xiii. 10.
 
-<span id="fn_38"></span>[210-3](cha05.htm#fr_38) Cf. Gal. v. 16, 17, and
+<span id="fn_38"></span>[210-3](cha05.htm#fr_38.md) Cf. Gal. v. 16, 17, and
 24, 25.
 
-<span id="fn_39"></span>[210-4](cha05.htm#fr_39) Cf. 2 Cor. v. 17; Gal.
+<span id="fn_39"></span>[210-4](cha05.htm#fr_39.md) Cf. 2 Cor. v. 17; Gal.
 vi. 15; Eph. iv. 23, 24.

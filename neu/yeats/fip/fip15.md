@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip14)  [Next](fip16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip14)  [Next](fip16.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ spirits--Pookas, Fir Darrigs, and the like.
 
 ------------------------------------------------------------------------
 
-[Next: The Brewery of Egg-Shells, by T. Crofton Croker](fip16)
+[Next: The Brewery of Egg-Shells, by T. Crofton Croker](fip16.md)

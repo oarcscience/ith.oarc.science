@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index) [Age of Reason](../index)
+[Intangible Textual Heritage](../../index) [Age of Reason](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -23,8 +23,8 @@ Bruno ended up being burned at the stake.
 
 ------------------------------------------------------------------------
 
-[<img src="../../img/buycd.jpg" height="20" />](#) [The Heroic
-Enthusiasts](the/index). (*Gli Eroici Furori*) L. Williams, tr. \[1887
+[<img src="../../img/buycd.jpg" height="20" />](#.md) [The Heroic
+Enthusiasts](the/index). (*Gli Eroici Furori*.md) L. Williams, tr. \[1887
 and 1889\]  
 The introduction to this translation of one of Bruno's most celebrated
 (and cryptic) works has a good biography of Bruno.
@@ -34,19 +34,19 @@ The introduction to this translation of one of Bruno's most celebrated
 ### Other Bruno Resources
 
 A more recent translation of *Gli Eroici Furori* can be found [at the
-Esoteric Archives](https://www.esotericarchives.com/bruno/furori), as
+Esoteric Archives](https://www.esotericarchives.com/bruno/furori.md), as
 well as [some more texts by Bruno in the original
-Latin](https://www.esotericarchives.com/bruno/). \[External Site\].
+Latin](https://www.esotericarchives.com/bruno/.md). \[External Site\].
 
 [Giordano Bruno, His Life and Thought, with an Annotated Translation of
 His Work 'On the Infinite Universe and
-Worlds'](https://www.positiveatheism.org/hist/bruno00) by Dorothea Waley
+Worlds'](https://www.positiveatheism.org/hist/bruno00.md) by Dorothea Waley
 Singer \[1950\] \[External Site\]
 
 Also available at Amazon.com:
 
 [The Ash Wednesday
-Supper](https://www.amazon.com/exec/obidos/ASIN/0802074693/internetsacredte)  
+Supper](https://www.amazon.com/exec/obidos/ASIN/0802074693/internetsacredte.md)  
 [Giordano Bruno and the Hermetic
-Tradition](https://www.amazon.com/exec/obidos/ASIN/0226950077/internetsacredte),
+Tradition](https://www.amazon.com/exec/obidos/ASIN/0226950077/internetsacredte.md),
 by Frances Amelia Yates  

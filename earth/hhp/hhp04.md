@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](hhp03)  [Next](hhp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](hhp03)  [Next](hhp05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Hidden Places*, by W. Marsham Adams, \[1895\], at
 Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ the crowded entrance of the most cosmopolitan highway of the globe. For
 centuries Egypt, as it was the earliest, so it was the most jealously
 guarded seat of Moslem law. To-day its courts recognize a multiplex
 jurisdiction of alien nations, for which no precedent exists in the
-history of any other state. <span id="fr_9"></span>[\*](#fn_9) Within
+history of any other state. <span id="fr_9"></span>[\*](#fn_9.md) Within
 living memory its hieroglyphs were an enigma hopelessly abandoned; its
 temples hidden beneath the accumulated filth of generations of Arabs;
 the very age of its ruins unguessed within thousands of years. To-day
@@ -190,7 +190,7 @@ of an Egyptian people.
 
 According to ancient tradition, and agreeably also to the records, the
 ancestors of the race in very remote times were not of Northern but of
-Southern <span id="fr_10"></span>[\*](#fn_10) extraction, being
+Southern <span id="fr_10"></span>[\*](#fn_10.md) extraction, being
 originally natives of Poont, situated near the Equatorial sources of the
 Nile. In harmony with this tradition, we find that the central point of.
 
@@ -261,7 +261,7 @@ animal life, the sceptre of which was one of the insignia (the "Tad")
 borne by the great deity Amen; while from that garden flows the single
 river, the Shari, exactly as in our scriptural account the single river
 flowed in the midst to water the garden which was placed in the
-eastward <span id="fr_11"></span>[\*](#fn_11) part of the
+eastward <span id="fr_11"></span>[\*](#fn_11.md) part of the
 
 <span id="page_56">p. 56</span>
 
@@ -271,7 +271,7 @@ on the Eastward of the garden, so does the stream of the infant Nile,
 which takes its rise near this point, tend Eastward of the grand
 meridian before bending Southward towards the lake which still bears the
 patriarchal name of the Egyptian Nou; <span
-id="fr_12"></span>[\*](#fn_12) and
+id="fr_12"></span>[\*](#fn_12.md) and
 
 <span id="page_57">p. 57</span>
 
@@ -455,7 +455,7 @@ of the
 
 <span id="img_06701"></span> <span align="CENTER"> [![Pyramidal region
 of Thoth.](tn/06701.jpg)  
-Click to enlarge](img/06701.jpg)  
+Click to enlarge](img/06701.jpg.md)  
 Pyramidal region of Thoth.  
 </span>
 
@@ -472,7 +472,7 @@ we shall presently see, the rite of initiation is accomplished, we shall
 have the sacred symbol reserved to that deity alone. And
 
 <span id="img_06800"></span> ![Sacred hieroglyphic symbol peculiar to
-Thoth.](img/06800.jpg)  
+Thoth.](img/06800.jpg.md)  
 Sacred hieroglyphic symbol peculiar to Thoth.
 
 as by the power of Thoth the adept, after passing his ordeal, is
@@ -550,7 +550,7 @@ identified very clearly by Champollion with the same god Ptah; and the
 meaning of Pat-Aik in Egyptian is the Dedication of the Angle.
 
 <span id="img_07200"></span> ![Great Angle, borne aloft by Amen, Source
-of Life, in Trinity of Egypt.](img/07200.jpg)  
+of Life, in Trinity of Egypt.](img/07200.jpg.md)  
 Great Angle, borne aloft by Amen, Source of Life, in Trinity of Egypt.
 
 <span class="contnote">\[paragraph continues\]</span> The same figure is
@@ -610,7 +610,7 @@ symbol of the great Deity, and should give a name to the princely races
 of the earth? Of the highly important part played by the relation
 
 <span id="img_07400"></span> ![Great Angle of the Nile Delta, Source of
-Life, in Triangle of Egypt.](img/07400.jpg)  
+Life, in Triangle of Egypt.](img/07400.jpg.md)  
 Great Angle of the Nile Delta, Source of Life, in Triangle of Egypt.
 
 between Angle and Circle in the structure of the Grand Pyramid we have
@@ -690,7 +690,7 @@ Vikings to their true home, the ship. Odin himself, though the
 descendant of ancestors who had been settled for generations upon the
 Euxine, bore an Egyptian name—the significant name of Destroyer; and his
 standard, the raven, was the Egyptian symbol of destruction. Nor was it
-only in his character of pirate <span id="fr_13"></span>[\*](#fn_13)
+only in his character of pirate <span id="fr_13"></span>[\*](#fn_13.md)
 (itself an Egyptian word), but as teacher also, that his associations
 connect themselves with the same source. According to tradition, he was
 acquainted in some measure with the process of embalmment, and he
@@ -710,7 +710,7 @@ by his name. The title of Hersir, or Leader of the Host, which, as Du
 Chaillu has pointed out in his valuable work, was older than that of the
 king, bears in the hieroglyphic (Her-ser) the identical signification of
 Chief Organizer. The land of Kent (Khent) <span
-id="fr_14"></span>[\*](#fn_14) was a territory of the holy dead, and its
+id="fr_14"></span>[\*](#fn_14.md) was a territory of the holy dead, and its
 hieroglyph was a sail. Nay, there is scarcely a feature in the strange
 mythology of Scandinavia which does not reflect an image more or less
 distorted of some portion of the Egyptian Ritual. Or, to give but one
@@ -762,13 +762,13 @@ breathings of universal war.
 
 ### Footnotes
 
-<span id="fn_9"></span>[43:\*](hhp04.htm#fr_9) The case of the Holy
+<span id="fn_9"></span>[43:\*](hhp04.htm#fr_9.md) The case of the Holy
 Roman Empire may perhaps suggest itself as a precedent; for foreign
 princes undoubtedly sat in the Diet. But those princes had jurisdiction
 not by virtue of treaties or in right of their foreign kingdoms, but of
 the Imperial principalities of which they happened to be possessed.
 
-<span id="fn_10"></span>[51:\*](hhp04.htm#fr_10) As a contrary opinion
+<span id="fn_10"></span>[51:\*](hhp04.htm#fr_10.md) As a contrary opinion
 is still held by some Egyptologists, and was sanctioned by Dr. Brugsch
 himself, I may be permitted to quote the opinion of a very distinguished
 authority in support. M. Maspéro, when I put the question to him, most
@@ -781,7 +781,7 @@ which have resulted from a belief in the famous "prehistoric Asiatic
 family;" that is to say, in a family of the existence of which no record
 can be produced.
 
-<span id="fn_11"></span>[55:\*](hhp04.htm#fr_11) In the innumerable
+<span id="fn_11"></span>[55:\*](hhp04.htm#fr_11.md) In the innumerable
 attempts at the identification of the birthplace of man, as recorded in
 Scripture—<span id="page_56">p. 56</span>attempts which may be counted
 literally by the hundred, and which have gone far towards rendering any
@@ -790,7 +790,7 @@ garden is constantly confused with the watershed, and the "heads" of the
 rivers with their full courses, while the single river is omitted
 altogether.
 
-<span id="fn_12"></span>[56:\*](hhp04.htm#fr_12) From the same source a
+<span id="fn_12"></span>[56:\*](hhp04.htm#fr_12.md) From the same source a
 good deal of light may, I think, be thrown upon the scriptural account
 of the Deluge, regarded as a phenomenal inundation of the Nile valley,
 the dwelling-place of the primæval family, as I have endeavoured to show
@@ -808,7 +808,7 @@ the fields of light. The Babylonian tradition also given in the Deluge
 tablet,
 
 <span id="img_05700"></span> ![The sacred Tat or Measure of the
-Inundation.](img/05700.jpg)  
+Inundation.](img/05700.jpg.md)  
 The sacred Tat or Measure of the Inundation.
 
 translated in "Records of the Past," is in agreement of the same view;
@@ -823,12 +823,12 @@ we are content to read, by the light of Egyptian tradition, the account
 handed down to us by Moses, whom those Scriptures expressly characterize
 as pre-eminent in Egyptian knowledge.
 
-<span id="fn_13"></span>[77:\*](hhp04.htm#fr_13) Some etymologists
+<span id="fn_13"></span>[77:\*](hhp04.htm#fr_13.md) Some etymologists
 strangely derive this word from the Greek πειράω, "to attempt;" as
 though a pirate, of all people in the world, were a man to leave his
 work half finished.
 
-<span id="fn_14"></span>[78:\*](hhp04.htm#fr_14) Pierret, in his
+<span id="fn_14"></span>[78:\*](hhp04.htm#fr_14.md) Pierret, in his
 Hieroglyphic Lexicon, states that Khent means always to ascend the Nile
 towards the south, and that the sail is always deployed; thus answering,
 in the Path of Light, to the ascent of the Orbit by the illuminate
@@ -838,6 +838,6 @@ beneath the open sail of the firmament.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Hidden God](hhp05)
+[Next: Chapter III. The Hidden God](hhp05.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar002) [Next](gbar004)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar002) [Next](gbar004.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ for the birth of Jesus, and with greatest joy nurtured him.
 
 ------------------------------------------------------------------------
 
-[Next](gbar004)
+[Next](gbar004.md)
 
  
 

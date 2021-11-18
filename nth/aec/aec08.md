@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec07)  [Next](aec09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec07)  [Next](aec09.md) 
 
 ------------------------------------------------------------------------
 
@@ -333,4 +333,4 @@ deep, hard-won serenity have found peace.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Love](aec09)
+[Next: VI. Love](aec09.md)

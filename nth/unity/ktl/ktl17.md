@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](ktl16)  [Next](ktl18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](ktl16)  [Next](ktl18.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Keep a True Lent*, by Charles Fillmore, \[1953\], at Intangible Textual
 Heritage
 
@@ -370,4 +370,4 @@ unto me in heaven and on earth." "I am, and there is none beside me."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 16](ktl18)
+[Next: Chapter 16](ktl18.md)

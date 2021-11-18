@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](pbd09)  [Next](pbd11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](pbd09)  [Next](pbd11.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ Heritage
 ### COMMUNICATION BETWEEN BEAR DOCTORS
 
 Informants state that the various bear doctors all over the country knew
-each other. <span id="fr_17"></span>[18](#fn_17) Two or more of them
+each other. <span id="fr_17"></span>[18](#fn_17.md) Two or more of them
 often met by chance at some spring or other secluded spot in the
 mountains, and at such times discussed their activities. They might tell
 each other where they expected to be next month, or what mountain they
@@ -44,9 +44,9 @@ of the people, but were not, in reality, afraid of the bear doctors.
 
 ### Footnotes
 
-<span id="fn_17"></span>[461:18](pbd10.htm#fr_17) So far as could be
+<span id="fn_17"></span>[461:18](pbd10.htm#fr_17.md) So far as could be
 ascertained, they formed no organized society, and never met as a body.
 
 ------------------------------------------------------------------------
 
-[Next: Panther Doctors](pbd11)
+[Next: Panther Doctors](pbd11.md)

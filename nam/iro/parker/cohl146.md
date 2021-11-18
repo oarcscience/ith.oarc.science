@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl145)  [Next](cohl147) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl145)  [Next](cohl147.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ I Dä'nondinônnio\`' Êde:\`kwa gää'kwa\`, the Sun Dance.
 
 II Dä'nondinônnio\`' Soi'ka gää'kwa\`, the Moon Dance.
 
-III Wasaze, <span id="fr_101"></span>[1](#fn_101) the Thunder Dance.
+III Wasaze, <span id="fr_101"></span>[1](#fn_101.md) the Thunder Dance.
 
 I
 
@@ -74,9 +74,9 @@ continue his favors.
 
 ### Footnotes
 
-<span id="fn_101"></span>[103:1](cohl146.htm#fr_101) meaning, Dakota, or
+<span id="fn_101"></span>[103:1](cohl146.htm#fr_101.md) meaning, Dakota, or
 Sioux.
 
 ------------------------------------------------------------------------
 
-[Next: Legend of the Coming of Death](cohl147)
+[Next: Legend of the Coming of Death](cohl147.md)

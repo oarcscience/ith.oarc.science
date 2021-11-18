@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](swld08)  [Next](swld10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](swld08)  [Next](swld10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T2IE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T2IE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selections from the Writings of Lord Dunsany*, by Lord Dunsany,
 \[1912\], at Intangible Textual Heritage
 
@@ -632,6 +632,6 @@ ones, to the gods that bless Belzoond.
 
 ------------------------------------------------------------------------
 
-[Next: A Miracle](swld10)
+[Next: A Miracle](swld10.md)
 
 </div>

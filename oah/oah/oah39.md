@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah38)  [Next](oah40) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah38)  [Next](oah40.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ emancipated heavens.
 14\. The Kingdom of Hored was broken up and dissolved. The spirits loved
 not to labor and to learn according to Jehovih's plan, but returned to
 the earth-ornaments; and they were called DRUJAS <span
-id="fr_7"></span>[4](#fn_7), because they desired not resurrection.
+id="fr_7"></span>[4](#fn_7.md), because they desired not resurrection.
 
 15\. And God and the Lords, and their officers and teachers, were
 without subjects and pupils. And mortals were beset by thousands and
@@ -102,7 +102,7 @@ END OF BOOK OF SETHANTES, SON OF JEHOVIH.
 
 ### Footnotes
 
-<span id="fn_7"></span>[42:4](oah39.htm#fr_7) The ancients called the
+<span id="fn_7"></span>[42:4](oah39.htm#fr_7.md) The ancients called the
 lost spirits by different names in all countries: in India, Druj; in
 China, Won-yeang; in the Algonquin tribes, O'spee; the Hebrews, Girapha
 (*i.e.* to be feared). Then we have the terms, ghosts, fairies, wraiths,
@@ -115,4 +115,4 @@ a wide range."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](oah40)
+[Next: Chapter I](oah40.md)

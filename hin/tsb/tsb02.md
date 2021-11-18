@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tsb01)  [Next](tsb03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tsb01)  [Next](tsb03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,11 +24,11 @@ from this etext for technical reasons--JBH*.
 |                                   |                         |
 |-----------------------------------|-------------------------|
 |                                   | Page                    |
-| INTRODUCTION                      | [XI](tsb03.htm#page_XI) |
+| INTRODUCTION                      | [XI](tsb03.htm#page_XI.md) |
 | THOREAU'S MANUSCRIPT IN FACSIMILE | XXIII                   |
-| THE TRANSCRIPTION                 | [3](tsb05.htm#page_3)   |
+| THE TRANSCRIPTION                 | [3](tsb05.htm#page_3.md)   |
 | THE SOURCE                        | 17                      |
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](tsb03)
+[Next: Introduction](tsb03.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sou00)
+[Contents](#contents)    [Start Reading](sou00.md)
 
 ------------------------------------------------------------------------
 
@@ -37,10 +37,10 @@ This is a survey of the development of the concept of Utopia, by one of
 the foremost urban planning theorists of the 20th century. This was
 Mumford's first book. He starts with a survey of the major utopias, some
 well-known, others less so. We look at Plato's
-[Republic](../../cla/plato/rep/index), More's [Utopia](../more/index),
+[Republic](../../cla/plato/rep/index), More's [Utopia](../more/index.md),
 Andreæ's Christanopolis, Bacon's New Atlantis, Campanella's City of the
 Sun, Fourier's Phalanxes, Cabet's Icaria, Bellamy's [Looking
-Backward](../lb/index), Morris' News from Nowhere, and finally H.G.
+Backward](../lb/index.md), Morris' News from Nowhere, and finally H.G.
 Wells' utopian fiction. In the final portion of the book Mumford
 explores the prospects for Utopia and relates it to the realities of
 urban planning. Mumford's prose style is engaging and this is a great
@@ -48,20 +48,20 @@ introduction to this fascinating subject.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sou00)  
-[Acknowledgements](sou01)  
-[Contents](sou02)  
-[Introduction](sou03)  
-[Chapter One](sou04)  
-[Chapter Two](sou05)  
-[Chapter Three](sou06)  
-[Chapter Four](sou07)  
-[Chapter Five](sou08)  
-[Chapter Six](sou09)  
-[Chapter Seven](sou10)  
-[Chapter Eight](sou11)  
-[Chapter Nine](sou12)  
-[Chapter Ten](sou13)  
-[Chapter Eleven](sou14)  
-[Chapter Twelve](sou15)  
-[Bibliography](sou16)  
+<span id="contents"></span> [Title Page](sou00.md)  
+[Acknowledgements](sou01.md)  
+[Contents](sou02.md)  
+[Introduction](sou03.md)  
+[Chapter One](sou04.md)  
+[Chapter Two](sou05.md)  
+[Chapter Three](sou06.md)  
+[Chapter Four](sou07.md)  
+[Chapter Five](sou08.md)  
+[Chapter Six](sou09.md)  
+[Chapter Seven](sou10.md)  
+[Chapter Eight](sou11.md)  
+[Chapter Nine](sou12.md)  
+[Chapter Ten](sou13.md)  
+[Chapter Eleven](sou14.md)  
+[Chapter Twelve](sou15.md)  
+[Bibliography](sou16.md)  

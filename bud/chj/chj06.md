@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj05)  [Next](chj07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj05)  [Next](chj07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -36,11 +36,11 @@ commonly made by many of the official defenders of Buddhism in Japan.
 The Mahāyāna books place the date of S’akyamuni's birth in B.C. 1027,
 and his death, consequently, about B.C. 950—a chronological misstatement
 which vitiates all their other calculations. For if this be true, then
-[As’vaghosha](errata.htm#0), who lived 500 years after the Nirvana, and
+[As’vaghosha](errata.htm#0.md), who lived 500 years after the Nirvana, and
 Nāgārjuna, who lived in the sixth century after the same occurrence,
 must be supposed to have flourished respectively about the years B.C.
 450 and 400, and the whole Mahāyāna system predates the Christian era by
-some centuries. <span id="fr_36"></span>[1](#fn_36)
+some centuries. <span id="fr_36"></span>[1](#fn_36.md)
 
 <span id="page_29">p. 29</span>
 
@@ -49,7 +49,7 @@ from the edicts which he has left engraved in stone in various parts of
 his former dominions, and the data thus furnished enable us to give both
 As’oka's exact year, and approximately that of S’akyamuni's entrance
 into Nirvana. From the materials at hand, Dr. Fleet <span
-id="fr_37"></span>[1](#fn_37) has been able to fix the dates for the
+id="fr_37"></span>[1](#fn_37.md) has been able to fix the dates for the
 principal events between the death of Buddha and that of As’oka. We may
 accept them with confidence. As’oka was anointed king on the 25th of
 April, B.C. 264, 218 years after the death of Buddha, which consequently
@@ -58,7 +58,7 @@ the battles of Marathon and Salamis.
 
 Again, As’oka's monuments give us data whereby to gauge the extent of
 his influence. Edict No. 2, translated by Dr. V. A. Smith, <span
-id="fr_38"></span>[2](#fn_38) is on the subject of comforts for men and
+id="fr_38"></span>[2](#fn_38.md) is on the subject of comforts for men and
 animals, and runs thus: "Everywhere in the dominions of King
 Priyadarśin, and likewise in the neighbouring realms, such as those of
 the Chola, Pandya, Sattyaputra, and Keralaputra, in Ceylon, in the
@@ -95,11 +95,11 @@ Majesty.
 
 "Even in those regions where the envoys of His Majesty do not penetrate,
 men now practise and will continue to practise the Law of Piety.…" <span
-id="fr_39"></span>[1](#fn_39)
+id="fr_39"></span>[1](#fn_39.md)
 
 (*d*) Minor Rock Edict No. 1, if accurately translated by Senart, speaks
 of 256 missionaries who have gone forth to proclaim the law. <span
-id="fr_40"></span>[2](#fn_40)
+id="fr_40"></span>[2](#fn_40.md)
 
 <span id="page_31">p. 31</span>
 
@@ -120,7 +120,7 @@ The Indian states and peoples need not delay us long. The mention of
 Cholas, Pāndyas, etc., serves to show how widely spread, in India
 itself, was the Buddhist faith which As’oka strove to promote and
 reform. Nor need we linger over Ceylon. <span
-id="fr_41"></span>[1](#fn_41) That island is said to have owed its
+id="fr_41"></span>[1](#fn_41.md) That island is said to have owed its
 conversion to the labours of Mahendra, the son or son-in-law of As’oka,
 and, whoever may have been its apostle, it has remained true to the
 faith which it then received, The mention of the *Yonas* or *Yavanas*
@@ -168,7 +168,7 @@ suzerainty. In the wars which Antiochus I. waged against the Gauls and
 Celts, who had invaded Asia Minor at the invitation of Nicomedes, a
 rebel against the suzerainty of the "King of Kings," he had used
 elephants, which he, like his contemporary, Pyrrhus of Epirus, had
-obtained <span id="fr_42"></span>[1](#fn_42) from As’oka's father,
+obtained <span id="fr_42"></span>[1](#fn_42.md) from As’oka's father,
 Bindusara, King of Magadha, a favour which, it may be, As’oka was
 expected to continue in the case of Antiochus II. The kings of Pergamus
 were famous for their collections of books and parchments (the latter a
@@ -180,11 +180,11 @@ noted, the whole world over, for a medicinal plant called *silphium* (a
 kind of *asafœtida*), which formed one of the staple articles of its
 extensive commerce. The plant was almost extinct in the West in Pliny's
 time (though it is still, I believe, to be found in India), <span
-id="fr_43"></span>[2](#fn_43) but it is to be found engravers on the
+id="fr_43"></span>[2](#fn_43.md) but it is to be found engravers on the
 coins of Cyrene as the emblem of the city, and there has been found a
 silver cup from Cyrene, with a representation of the king himself
 personally superintending the packing, weighing, and dispatching of the
-precious herb. <span id="fr_44"></span>[3](#fn_44) We can imagine that
+precious herb. <span id="fr_44"></span>[3](#fn_44.md) We can imagine that
 Antiochus Soter would have much pleasure in forwarding As’oka's
 memorandum touching medicinal herbs to his subordinate kings. We can
 also imagine that Antiochus II., who surnamed himself "the God," would
@@ -196,7 +196,7 @@ And yet As’oka would have us believe that the Dharma was being
 observed and practised in the territories of the Syrian king. Stoicism
 was already a power in the world of philosophy and morals, and Stoicism
 is notoriously a semi-oriental mode of thought. <span
-id="fr_45"></span>[1](#fn_45)
+id="fr_45"></span>[1](#fn_45.md)
 
 Antigonus Gonatas, King of Macedonia, claimed possession of the European
 dominions of Alexander the Great. Macedonia must have been full of men
@@ -216,7 +216,7 @@ the time of his visit. The island of Panchaia may have been an Utopia;
 the history of the earthly life of Zeus before he became a god, which he
 brought back with him, may have been a fabrication; still, the process
 described was exactly the process which was going on in Buddhism. <span
-id="fr_46"></span>[2](#fn_46) S’akyamuni had been just such a man as
+id="fr_46"></span>[2](#fn_46.md) S’akyamuni had been just such a man as
 
 <span id="page_35">p. 35</span>
 
@@ -238,7 +238,7 @@ a god deified after a long succession of holy lives, led in the
 fulfilment of his tremendous vow for the salvation of mankind. That the
 same process was taking place in the case of S’akyamuni himself may be
 seen from the development of the *Saddharma pundarika* and kindred
-Sūtras, <span id="fr_47"></span>[1](#fn_47) and from the more certain
+Sūtras, <span id="fr_47"></span>[1](#fn_47.md) and from the more certain
 testimony of Buddhist art. The process, in the case of Buddhism, may not
 have been
 
@@ -264,7 +264,7 @@ medicinal herbs. I need only mention, as another link in the chain
 showing the extent of Indian influence in the West, that among the
 dialogues of Aristippus, the founder of the Cyrenaic school of
 philosophy, there was one which bore the name of *Porus*, a name well
-known among Indian kings. <span id="fr_48"></span>[1](#fn_48)
+known among Indian kings. <span id="fr_48"></span>[1](#fn_48.md)
 Aristippus, born B.C. 435, was prior in time to As’oka, but amongst the
 later Cyrenaics was Hegesias, surnamed Peisithanatos, from the
 strenuousness with which he advocated suicide as the highest form of
@@ -272,7 +272,7 @@ self-immolation. This is a truly Buddhistic notion. S’akyamuni's
 well-beloved disciple, Ananda, is said to have ended his life by
 voluntary self-cremation, and the *Saddharma pundarika* speaks of it as
 the highest expression of devotion and gratitude from one who has
-learned the truth. <span id="fr_49"></span>[2](#fn_49)
+learned the truth. <span id="fr_49"></span>[2](#fn_49.md)
 
 <span id="page_37">p. 37</span>
 
@@ -299,7 +299,7 @@ coincidence that, about the days when As’oka was sending envoys to the
 kings of Egypt, and speaking of the keeping of the law in distant
 countries, we get—first, the so-called Hermetic literature (*e.g.* the
 Κορὴ Κόσμου preserved for us by Stobæus), with its many Buddhist
-echoes; <span id="fr_50"></span>[1](#fn_50) and, secondly, the
+echoes; <span id="fr_50"></span>[1](#fn_50.md) and, secondly, the
 semi-Buddhistic communities of monks as the Essenes and Therapeutæ
 described for us by Philo. How far Philo and Aristobulus, the Jew, may
 have been
@@ -307,17 +307,17 @@ have been
 <span id="page_38">p. 38</span>
 
 influenced by Indian thought is an inquiry beyond our present
-limits. <span id="fr_51"></span>[1](#fn_51) But it is evident that the
+limits. <span id="fr_51"></span>[1](#fn_51.md) But it is evident that the
 relations, tradal or otherwise, between Alexandria and India were close
 and constant. The influence was not all on one side. Alexandria had its
 influence on Indian philosophy, medicine, and mathematics, <span
-id="fr_52"></span>[2](#fn_52) and a time came when the religions of the
+id="fr_52"></span>[2](#fn_52.md) and a time came when the religions of the
 Far East felt the power of its mystic (not to say cryptic) thought. In
 the mysterious Shingon system of Japan, the term "RA" occurs as the name
 of the deity of Fire, and the word for God, *Abraxas*, used by
 Basilides, is the fundamental conception of the Shingon system of
 Philosophy, which also uses certain hieratic hieroglyphics for the
-conveyance of its teachings. <span id="fr_53"></span>[3](#fn_53)
+conveyance of its teachings. <span id="fr_53"></span>[3](#fn_53.md)
 
 It may be asked, what precisely were the teachings which As’oka exerted
 himself to spread amongst other nations and amongst his contemporary
@@ -404,7 +404,7 @@ conqueror.
 are those of religion. He has communicated his sentiments to his brother
 sovereigns—to Antiochus, Ptolemy, Antigonus, Magas, Alexander Balas, to
 the Codas and Pandyas as far as Taprobane, and even to the King of the
-Huns. <span id="fr_54"></span>[1](#fn_54) It gives him great happiness
+Huns. <span id="fr_54"></span>[1](#fn_54.md) It gives him great happiness
 to contemplate the success which has attended his efforts, but present
 contentment is as nothing when compared with the joys of future bliss.
 
@@ -435,7 +435,7 @@ every five years, and the princes of Ujjain and Taxila will do the same.
 diligent. He has now, however, been for a year a member of the Order,
 and has worked with such zeal during that time that the ancient gods of
 Jambudvīpa (India) have been almost driven from their places. <span
-id="fr_55"></span>[1](#fn_55) It is a great truth that the Kingdom of
+id="fr_55"></span>[1](#fn_55.md) It is a great truth that the Kingdom of
 Heaven is really within the reach of all men, even the humblest, and no
 effort should be spared to spread this Gospel by missionary labours. The
 King is much gratified by the fact that already 256 missionaries have
@@ -450,7 +450,7 @@ on discipline; "Aryavasâni," on the supernatural powers of the Aryas;
 "Anagâtabhayâni," on dangers to come; "Munigatha," stanzas in honour of
 the Muni; "Upatishya pasina," questions of Upatishya; "Moneya sūtra,"
 Sutra on Perfection; and the Sūtra, in which the Blessed One instructs
-Rahula. <span id="fr_56"></span>[2](#fn_56)
+Rahula. <span id="fr_56"></span>[2](#fn_56.md)
 
 <span id="page_43">p. 43</span>
 
@@ -483,12 +483,12 @@ see the ancient Buddhism of Persia still asserting itself.
 
 <span id="page_44">p. 44</span>
 
-Next to Parthia came Bactria, <span id="fr_57"></span>[1](#fn_57) the
+Next to Parthia came Bactria, <span id="fr_57"></span>[1](#fn_57.md) the
 reputed home of Zoroaster himself. Bactria asserted its independence in
 the same year as Parthia. It had Greek kings, and a small percentage of
 Greek settlers, the residue of the Macedonian invasion; but its main
 population was probably of S’akyan origin. Indian writers speak of the
-Bactrian people as Vrijji, <span id="fr_58"></span>[2](#fn_58) the same
+Bactrian people as Vrijji, <span id="fr_58"></span>[2](#fn_58.md) the same
 name that we found amongst the Nepaulese S’akyans of S’akyamuni's time,
 and recognized them as being Kshatriyans by caste, though their standing
 was defective by reason of intermarriages with other nationalities.
@@ -514,10 +514,10 @@ the south of Lake Lob,
 
 were the Usuns, who bordered on the Chinese Empire. We know that
 Buddhism reached these districts at a very early date. <span
-id="fr_59"></span>[1](#fn_59)
+id="fr_59"></span>[1](#fn_59.md)
 
 When it first reached China we cannot say, <span
-id="fr_60"></span>[2](#fn_60) for the unofficial introduction must have
+id="fr_60"></span>[2](#fn_60.md) for the unofficial introduction must have
 long preceded its official acceptance under Mingti. In As’oka's time,
 *Hwangti*, who had assumed the title of "King of Kings," in imitation of
 Seleucid magniloquence, had begun the erection of the Great Wall that
@@ -528,7 +528,7 @@ move, and had troubled the Bosphorus, Macedonia, Asia
 <span id="page_46">p. 46</span>
 
 <span class="contnote">\[paragraph continues\]</span> Minor, and Rome
-with their presence, <span id="fr_61"></span>[1](#fn_61) the Hiungnu
+with their presence, <span id="fr_61"></span>[1](#fn_61.md) the Hiungnu
 were already restive in their places in Western China, when Buddhism
 plunged, at the death of As’oka, into a dark night which lasted for over
 two centuries. Before it took the plunge it had already shown its
@@ -541,7 +541,7 @@ rival.
 
 ### Footnotes
 
-<span id="fn_36"></span>[28:1](chj06.htm#fr_36) It is said that the
+<span id="fn_36"></span>[28:1](chj06.htm#fr_36.md) It is said that the
 falsification of the date was made in China, where the Buddhists were
 anxious to show that their religion was much <span id="page_29">p.
 29</span> more ancient than anything of native Chinese origin, it being
@@ -551,16 +551,16 @@ Afghanistan to have had any acquaintance with Judaism, there may also
 have been a desire to antedate Isaiah's prophecy of the Virgin Birth.
 See Hultzsch, "The Rupnath Edict," in *J.R.A.S* for July, 1909.
 
-<span id="fn_37"></span>[29:1](chj06.htm#fr_37) Fleet, "The Day on which
+<span id="fn_37"></span>[29:1](chj06.htm#fr_37.md) Fleet, "The Day on which
 the Buddha died," *J.R.A.S*, January, 1909.
 
-<span id="fn_38"></span>[29:2](chj06.htm#fr_38) V. A. Smith, "Asoka,"
+<span id="fn_38"></span>[29:2](chj06.htm#fr_38.md) V. A. Smith, "Asoka,"
 pp. 115 ff.
 
-<span id="fn_39"></span>[30:1](chj06.htm#fr_39) V. A. Smith, "Asoka," p.
+<span id="fn_39"></span>[30:1](chj06.htm#fr_39.md) V. A. Smith, "Asoka," p.
 132.
 
-<span id="fn_40"></span>[30:2](chj06.htm#fr_40) Smith translates this
+<span id="fn_40"></span>[30:2](chj06.htm#fr_40.md) Smith translates this
 Edict to the effect that "256 years have elapsed since the Tathāgata, a
 statement which, if correct, would make S’akyamuni's death to have been
 B.C. 508. Kern gives many details about these missionaries and their
@@ -568,27 +568,27 @@ spheres of labour. I have not dwelt at any length on them, as I think
 what I have given in the present chapter will suffice for showing the
 expansion of Buddhism.
 
-<span id="fn_41"></span>[31:1](chj06.htm#fr_41) Japanese writers assert
+<span id="fn_41"></span>[31:1](chj06.htm#fr_41.md) Japanese writers assert
 that Buddhism was preached at this time in Further India and Burma.
 There is nothing in As’oka's inscriptions to justify this assertion, for
 the Kamboja mentioned there have nothing to do with Cambodia. The list
 given in the Singhalese books (see Kern, ii. 287) of the apostles sent
 forth after As’oka's Council is somewhat vague in its statements.
 
-<span id="fn_42"></span>[33:1](chj06.htm#fr_42) There was absolutely no
+<span id="fn_42"></span>[33:1](chj06.htm#fr_42.md) There was absolutely no
 other monarch in the world from whom elephants could be obtained.
 
-<span id="fn_43"></span>[33:2](chj06.htm#fr_43) And, significantly
+<span id="fn_43"></span>[33:2](chj06.htm#fr_43.md) And, significantly
 enough, in the neighbourhood of the ancient Pataliputra, according to
 the "Encyclopædia of India."
 
-<span id="fn_44"></span>[33:3](chj06.htm#fr_44) See Haeser, "Geschichte
+<span id="fn_44"></span>[33:3](chj06.htm#fr_44.md) See Haeser, "Geschichte
 der Medizin," vol. i, p. 101.
 
-<span id="fn_45"></span>[34:1](chj06.htm#fr_45) Kirchner, "Geschichte
+<span id="fn_45"></span>[34:1](chj06.htm#fr_45.md) Kirchner, "Geschichte
 der Philosophie," p. 137.
 
-<span id="fn_46"></span>[34:2](chj06.htm#fr_46) Müllach, "Fragments
+<span id="fn_46"></span>[34:2](chj06.htm#fr_46.md) Müllach, "Fragments
 Philosophorum Græcorum," vol. ii. (Paris, 1831). Müllach gives a passage
 from Sextus Empiricus (adv. Math. ix. 17): Εὐήμερος δέ φησιν· ὅτε ἦν
 ἄτακτος ἀνθρώπων βίος, οἱ περιγενόμενοι τῶν ἄλλων ίσχοΐ τε καὶ συνέσι
@@ -600,7 +600,7 @@ from Sextus Empiricus (adv. Math. ix. 17): Εὐήμερος δέ φησιν·
 deities, *e.g.* Sun, Moon, Winds, etc., which are ἀΐδιοι καὶ ἄφθαρτοι,
 but that there are others who are called ἐπίγειοι θεοὶ.
 
-<span id="fn_47"></span>[35:1](chj06.htm#fr_47) Whilst I think we must
+<span id="fn_47"></span>[35:1](chj06.htm#fr_47.md) Whilst I think we must
 hold most of the developed Sūtras of the Mahāyāna (and certainly the
 *Saddharma pundarika*) to be posterior, and in some cases much
 posterior, to the Christian era, the process of the gradual deification
@@ -611,25 +611,25 @@ been different in style, had it not been that he, in whose honour the
 shrines were raised, was coming to be looked upon as more than an
 ordinary man.
 
-<span id="fn_48"></span>[36:1](chj06.htm#fr_48) Diogenes Laertius, ii.
+<span id="fn_48"></span>[36:1](chj06.htm#fr_48.md) Diogenes Laertius, ii.
 83–85, quoted by Müllach, *op. cit.*, p. 403.
 
-<span id="fn_49"></span>[36:2](chj06.htm#fr_49) *Cf*. *Saddharma
+<span id="fn_49"></span>[36:2](chj06.htm#fr_49.md) *Cf*. *Saddharma
 pundarika* in "Sacred Books of the East," vol. xxi. p. 378, etc. The
 same is affirmed of two more of the patriarchs of the Northern
 Succession.
 
-<span id="fn_50"></span>[37:1](chj06.htm#fr_50) Flinders Petrie. See
+<span id="fn_50"></span>[37:1](chj06.htm#fr_50.md) Flinders Petrie. See
 *Transactions* of the Congress of the History of Religions (Oxford,
 1908), vol. i. pp. 185 and 224.
 
-<span id="fn_51"></span>[38:1](chj06.htm#fr_51) *Cf*. Ueberweg, "Hist.
+<span id="fn_51"></span>[38:1](chj06.htm#fr_51.md) *Cf*. Ueberweg, "Hist.
 of Philos. Jewish Alexandrian Philosophy," sect. 63.
 
-<span id="fn_52"></span>[38:2](chj06.htm#fr_52) *Cf*. *Ibid*.; and
+<span id="fn_52"></span>[38:2](chj06.htm#fr_52.md) *Cf*. *Ibid*.; and
 Haeser's, "Geschichte der Medizin," vol. i. p. 103.
 
-<span id="fn_53"></span>[38:3](chj06.htm#fr_53) I am sorry not to be
+<span id="fn_53"></span>[38:3](chj06.htm#fr_53.md) I am sorry not to be
 able to give more clear indications of the source from which I have
 drawn my information. The Japanese article on Abraxas, on which I have
 relied, is a long treatise of over fifty pages in a collection of
@@ -648,14 +648,14 @@ but evidently of Egyptian origin. *Abarakakiun* also comes in certain
 evident allusion to the "Holy Name of the Six Letters." The Gnostic word
 *Caulaucau* is also found in Japanese Funeral Rites.
 
-<span id="fn_54"></span>[41:1](chj06.htm#fr_54) Again see Prof.
+<span id="fn_54"></span>[41:1](chj06.htm#fr_54.md) Again see Prof.
 Pelliot's article in *Bulletin de l’École Française de l’Extrēme
 Orient*, viii. 3–4.
 
-<span id="fn_55"></span>[42:1](chj06.htm#fr_55) For this see Chap. V. on
+<span id="fn_55"></span>[42:1](chj06.htm#fr_55.md) For this see Chap. V. on
 "Pushyamitra."
 
-<span id="fn_56"></span>[42:2](chj06.htm#fr_56) Vincent Smith translates
+<span id="fn_56"></span>[42:2](chj06.htm#fr_56.md) Vincent Smith translates
 these titles as follows*:—*
 
 <div style="margin-left: 32px">
@@ -684,18 +684,18 @@ men who knew them by heart. But if <span id="page_43">p. 43</span>
 As’oka could write his edicts, why suppose that the monks could not
 write their books?
 
-<span id="fn_57"></span>[44:1](chj06.htm#fr_57) I have constantly made
+<span id="fn_57"></span>[44:1](chj06.htm#fr_57.md) I have constantly made
 use of M. Drouin's exhaustive article on Bactriane in the "Grande
 Encyclopédie."
 
-<span id="fn_58"></span>[44:2](chj06.htm#fr_58) It is to be remembered
+<span id="fn_58"></span>[44:2](chj06.htm#fr_58.md) It is to be remembered
 that, according to the northern books, it was the Vrijji-putrakas who,
 at the Vaisali Council, demanded a relaxation on some points of Buddhist
 discipline, and who, being unable to get their request granted by the
 Sthavisas, "trekked" over the frontiers of Magadha into the lands beyond
 the Himalaya.
 
-<span id="fn_59"></span>[45:1](chj06.htm#fr_59) Buddhism was introduced
+<span id="fn_59"></span>[45:1](chj06.htm#fr_59.md) Buddhism was introduced
 into Khotan B.C. 125. The King of Western Yarkand was converted in B.C.
 122. Kashgar was already Buddhist in B.C. 122. The Buddhism of Kashgar
 was Hīnayāna, that of Khotan Mahāyāna. Stein ("Ancient Khotan," vol. i.
@@ -719,17 +719,17 @@ case, a later manufacture of Central Asian Sūtras does not seem to be
 out of the question. No Sanskrit text has been found for (*e.g.*) the
 "Amitāyur dhyāna Sūtra."
 
-<span id="fn_60"></span>[45:2](chj06.htm#fr_60) If any reliance can be
+<span id="fn_60"></span>[45:2](chj06.htm#fr_60.md) If any reliance can be
 placed on the statement in the Thibetan History already mentioned, that
 China was first evangelized by Manjuśri, we must place that mysterious
 personage during the centuries of silence between As’oka and Kanishka.
 The temple especially connected by tradition with Manjuśri is the Wu-tai
 monastery near Peking.
 
-<span id="fn_61"></span>[46:1](chj06.htm#fr_61) Irish records sometimes
+<span id="fn_61"></span>[46:1](chj06.htm#fr_61.md) Irish records sometimes
 speak of Scythia as the cradle of their race, and Druidism traces itself
 vaguely to Taprobane, *i.e.* Ceylon.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Pusityamitra](chj07)
+[Next: Chapter V. Pusityamitra](chj07.md)

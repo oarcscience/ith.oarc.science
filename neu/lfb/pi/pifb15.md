@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb14)  [Next](pifb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb14)  [Next](pifb16.md) 
 
 </div>
 
@@ -344,6 +344,6 @@ hope you enjoy it!
 
 ------------------------------------------------------------------------
 
-[Next: Hans, the Mermaid's Son](pifb16)
+[Next: Hans, the Mermaid's Son](pifb16.md)
 
 </div>

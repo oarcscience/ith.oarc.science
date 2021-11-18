@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft08)  [Next](meft10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft08)  [Next](meft10.md) 
 
 ------------------------------------------------------------------------
 
 # Sir Gammer Vans
 
 <span id="img_010"></span> [![](tn/010.jpg)  
-Click to enlarge](img/010.jpg)
+Click to enlarge](img/010.jpg.md)
 
 LAST Sunday morning at six o'clock in the evening as I was sailing over
 the tops of the mountains in my little boat, I met two men on horseback
@@ -71,4 +71,4 @@ the bridge, of which I made the best apple-pie I ever tasted.
 
 ------------------------------------------------------------------------
 
-[Next: Tom Hickathrift](meft10)
+[Next: Tom Hickathrift](meft10.md)

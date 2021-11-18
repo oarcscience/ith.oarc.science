@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey19)  [Next](grey21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey19)  [Next](grey21.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ single one of them was left alive.
 
 ------------------------------------------------------------------------
 
-[Next: The Art of Netting Learned by Kahukura from the Fairies](grey21)
+[Next: The Art of Netting Learned by Kahukura from the Fairies](grey21.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs65)  [Next](mhs67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs65)  [Next](mhs67.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ and each day nine victims, whether men or animals, were offered up.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Number Three](mhs67)
+[Next: II. The Number Three](mhs67.md)

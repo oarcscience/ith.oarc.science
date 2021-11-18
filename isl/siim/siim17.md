@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](siim16)  [Next](siim18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](siim16)  [Next](siim18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Studies in Islamic Mysticism*, by Reynold A. Nicholson, \[1921\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 ### CHAPTER III
 
-### THE ODES OF IBNU ’L-FÁRIḌ <span id="fr_523"></span>[1](#fn_521)
+### THE ODES OF IBNU ’L-FÁRIḌ <span id="fr_523"></span>[1](#fn_521.md)
 
 <div align="center">
 
@@ -58,12 +58,12 @@ remarkable how seldom they possess the note (as Newman would say) of
 mysticism. The main reason, I think, lies in racial endowment. The Arab
 has no such passion for an ultimate principle of unity as has always
 distinguished the Persians and Indians <span
-id="fr_524"></span>[1](#fn_522). He shares with other Semitic peoples an
+id="fr_524"></span>[1](#fn_522.md). He shares with other Semitic peoples an
 incapacity for harmonising and unifying the particular facts of
 experience: he discerns the trees very clearly, but not the wood. Like
 his art, in which "we everywhere find a delicate sense for detail, but
 nowhere large apprehension of a great and united whole <span
-id="fr_525"></span>[2](#fn_523)," his poetry, intensely subjective in
+id="fr_525"></span>[2](#fn_523.md)," his poetry, intensely subjective in
 feeling and therefore lyrical in form, presents only a series of
 brilliant impressions, full of life and colour, yet essentially
 fragments and moments of life, not fused into the substance of universal
@@ -79,7 +79,7 @@ proper motive is praise, usually begins "with the mention of women and
 the constantly shifted habitations of the wandering tribesmen seeking
 pasture throughout the Winter and Spring; the poet must tell of his love
 and its troubles, and, if he likes, may describe the beauty of his
-mistress <span id="fr_526"></span>[3](#fn_524)." Thus the models of
+mistress <span id="fr_526"></span>[3](#fn_524.md)." Thus the models of
 Arabic mystical poetry are the secular odes and songs of which this
 passion is the theme; and the imitation is often so close that unless we
 have some clue to the writer's intention, it may not be possible to know
@@ -92,11 +92,11 @@ students of Oriental mysticism cannot regard as impertinent.
 
 Ibnu ’l-‘Arabí, a great theosophist rather than a great poet, deserves
 to be mentioned amongst the few Arabs who have excelled in this
-ambiguous style <span id="fr_527"></span>[1](#fn_525); but its supreme
+ambiguous style <span id="fr_527"></span>[1](#fn_525.md); but its supreme
 master is Sharafu’ddín ‘Umar Ibnu ’l-Fáriḍ, a native of Cairo, who was
 born seventeen years after Ibnu ’l-‘Arabí and died five years before him
 (<span class="smallcaps">a.d.</span> 1182-1235) <span
-id="fr_528"></span>[2](#fn_526). The two seem never to have met. The
+id="fr_528"></span>[2](#fn_526.md). The two seem never to have met. The
 description of Ibnu ’l-‘Arabí as Ibnu ’l-Fáriḍ's teacher (*ustádh*)
 rests upon a far-fetched interpretation of the verse,
 
@@ -105,13 +105,13 @@ Kindly halt beside the hills of Ṭayyi’!
 
 <span class="contnote">\[paragraph continues\]</span> Here N. detects an
 allusion to Ibnu ’l-‘Arabí, who belonged to the Ṭayyi’ tribe <span
-id="fr_529"></span>[3](#fn_527).
+id="fr_529"></span>[3](#fn_527.md).
 
 It rarely happens that the outward lives of mystics are eventful. The
 poet's chief biographer—his grandson, ‘Alí—has much to say about his
 personal beauty, his ecstatic temperament, his generosity and
 unselfishness, his seclusion from the world, and the veneration in which
-he was held by all <span id="fr_530"></span>[4](#fn_528). As his name
+he was held by all <span id="fr_530"></span>[4](#fn_528.md). As his name
 declares, he was the son of a notary (*fáriḍ*). In his youth he
 practised religious austerities on Mt Muqaṭṭam near Cairo, returning at
 intervals to attend the law-courts with his father and study theology.
@@ -132,7 +132,7 @@ this pious duty settled in Cairo for the rest of his life, lodging (it
 is said) in the mosque al-Azhar, as his father had done. The biographer
 ‘Alí, whose mother was a daughter of Ibnu ’l-Fáriḍ, mentions two sons of
 the poet, Kamálu’ddín Muḥammad and ‘Abdu ’l-Raḥmán, who were invested
-with the *khirqa* <span id="fr_531"></span>[1](#fn_529) by the famous
+with the *khirqa* <span id="fr_531"></span>[1](#fn_529.md) by the famous
 Ṣúfí, Shihábu’ddín Abú Ḥafṣ ‘Umar al-Suhrawardí on the occasion of his
 meeting with Ibnu ’l-Fáriḍ at Mecca in <span
 class="smallcaps">a.d.</span> 1231.
@@ -142,7 +142,7 @@ author's handwriting, is a thin volume comprising about twenty qaṣídas
 and *qiṭ‘as* together with some quatrains (*rubá‘íyyát*) and enigmas
 (*algház*). The longest ode, the *Naẓmu ’l-sulúk* or "the Mystic's
 Progress," generally known as the *Tá’iyyatu ’l-kubrá* <span
-id="fr_532"></span>[2](#fn_530), has been omitted from the Marseilles
+id="fr_532"></span>[2](#fn_530.md), has been omitted from the Marseilles
 edition, which is otherwise complete. Owing to its expository and
 descriptive character this poem stands apart from the purely lyrical
 odes, and I have treated it as an independent work. The Wine Ode
@@ -152,7 +152,7 @@ prose translation in the *Anthologie arabe* of Grangeret de Lagrange
 arabe*. Italy possesses a prose rendering of the minor poems by P.
 Valerga (Firenze, 1874). There is nothing in English except some
 fragments which hardly amount to a hundred lines in all <span
-id="fr_533"></span>[3](#fn_531). I hope to persuade my readers that the
+id="fr_533"></span>[3](#fn_531.md). I hope to persuade my readers that the
 *Díwán* of Ibnu ’l-Fáriḍ, though it will not please every
 
 <span id="page_166">p. 166</span>
@@ -187,7 +187,7 @@ facultés de son esprit. Or, il faut convenir qu’ Omar ben-Fâredh n’a
 point manqué à ce devoir prescrit aux poëtes arabes, et qu’il n’a point
 voulu que ses lecteurs lui reprochassent de leur avoir enlevé les
 occasions de montrer leur sagacité <span
-id="fr_534"></span>[1](#fn_532).</span>
+id="fr_534"></span>[1](#fn_532.md).</span>
 
 This describes very well a general and obvious feature of Ibnu
 ’l-Fáriḍ's style, a feature which is entirely absent both from
@@ -204,7 +204,7 @@ swim against the stream; and it is probable that only his mysticism
 saved him from the worst excesses of metaphysical wit. In him, as in
 Meleager and Petrarch, "the religion of love is reduced to a theology;
 no subtlety, no fluctuation of fancy or passion is left
-unregistered <span id="fr_535"></span>[1](#fn_533)." If his verse
+unregistered <span id="fr_535"></span>[1](#fn_533.md)." If his verse
 abounds in fantastic conceits, if much of it is enigmatic to the last
 degree, the conceits and enigmas are not, as a rule, rhetorical
 ornaments or intellectual conjuring tricks, but like tendrils springing
@@ -219,15 +219,15 @@ nor stirring." His style and diction resemble the choicest and finest
 jewel-work of a fastidious artist rather than the first-fruits of divine
 inspiration. Yet I am not inclined to doubt the statement that his
 poetry was composed in an abnormal manner <span
-id="fr_536"></span>[2](#fn_534). The history of mysticism records
+id="fr_536"></span>[2](#fn_534.md). The history of mysticism records
 numerous instances of the kind. Blake said that he was drunk with
 intellectual vision whenever he took a pencil or graver in his hand. "St
 Catherine of Siena," we are told, "dictated her great Dialogue to her
 secretaries whilst in the state of ecstasy <span
-id="fr_537"></span>[3](#fn_535)." "When Jalálu’ddín Rúmí was drowned in
+id="fr_537"></span>[3](#fn_535.md)." "When Jalálu’ddín Rúmí was drowned in
 the ocean of Love he used to take hold of a pillar in his house and set
 himself turning round it. Meanwhile he versified and dictated, and
-people wrote down the verses <span id="fr_538"></span>[4](#fn_536)."
+people wrote down the verses <span id="fr_538"></span>[4](#fn_536.md)."
 Since the form of such automatic composition will largely depend on
 materials stored within the mystic's brain, and on the literary models
 with which he is familiar, we need not be surprised if his visions and
@@ -238,9 +238,9 @@ artificial style. The
 
 intense passion and glowing rapture of Ibnu ’l-Fáriḍ's poetry are in
 keeping with this account of the way in which it was produced <span
-id="fr_539"></span>[1](#fn_537). That he may have written it while not
+id="fr_539"></span>[1](#fn_537.md). That he may have written it while not
 under the influence of ecstasy, I can conceive <span
-id="fr_540"></span>[2](#fn_538); but that he wrote it in cold blood, for
+id="fr_540"></span>[2](#fn_538.md); but that he wrote it in cold blood, for
 the sake of those who might enjoy sharpening their wits upon it, seems
 to me incredible.
 
@@ -256,7 +256,7 @@ declare, with Nábulusí, that "in every erotic description, whether the
 subject thereof be male or female, and in all imagery of gardens,
 flowers, rivers, birds and the like he refers to the Divine Reality
 manifested in phenomena, and not to those phenomena themselves <span
-id="fr_541"></span>[3](#fn_539)." This Reality, *i.e.* God (or, in some
+id="fr_541"></span>[3](#fn_539.md)." This Reality, *i.e.* God (or, in some
 places, Mohammed conceived as the Logos) is the Beloved whom the poet
 addresses and celebrates under many names—now as one of the heroines of
 Arabian Minnesong, now as a gazelle or a driver of camels or an archer
@@ -281,7 +281,7 @@ capable of revealing. An eminent scholar came to Ibnu l-Fáriḍ and asked
 permission to write a commentary on his masterpiece, the *Naẓmu
 ’l-Sulúk*. "In how many volumes?" "Two." The poet smiled. "Had I
 wished," said he, "I could have written two volumes of commentary on
-every verse of it <span id="fr_542"></span>[1](#fn_540)." The more
+every verse of it <span id="fr_542"></span>[1](#fn_540.md)." The more
 interpreters, the more interpretations, as those who have given time and
 labour to the study of mysticism well know. Poetry of this kind suggests
 more than it says, and means all that it may suggest.
@@ -312,7 +312,7 @@ least of things that no prose version can reproduce.
 
   *Má bayna ḍáli ’l-munḥaná wa-ẓilálihi  
 ḍalla ’l-mutayyamu wa-’htadá bi-ḍalálihi* <span
-id="fr_543"></span>[1](#fn_541).
+id="fr_543"></span>[1](#fn_541.md).
 
 Where lote-trees o’er the valley cast their shade  
 The frenzied lover strayed.  
@@ -322,7 +322,7 @@ He lost and in his losing
 Found the way again:  
 Lo, on yon gorge's southern slope  
 The vision long-desired, that far seemed from his hope.  
-This is ‘Aqíq <span id="fr_544"></span>[2](#fn_542), my friend!  
+This is ‘Aqíq <span id="fr_544"></span>[2](#fn_542.md), my friend!  
 Halt! here to pass were strange.  
 Feign rapture, if thou be  
 Not rapt indeed, and let thine eye range free:  
@@ -336,7 +336,7 @@ I am all his, dead or living!
 Think you he knows that I his absence love  
 Even as I loved his presence? that I move  
 Nightly his image to my waking eye?—  
-A phantasy within a phantasy <span id="fr_545"></span>[3](#fn_543).  
+A phantasy within a phantasy <span id="fr_545"></span>[3](#fn_543.md).  
 So let me ne’er have savour  
 Of peace from counsellors, as I never bent  
 A listening ear towards their argument!  
@@ -357,7 +357,7 @@ difficulties:
 
   *Tih dalál<sup>an</sup> fa-anta ahl<sup>un</sup> li-dháká  
 wa-taḥakkam fa-’l-ḥusnu qad a‘tákdá* <span
-id="fr_546"></span>[1](#fn_544).
+id="fr_546"></span>[1](#fn_544.md).
 
 Feign coy disdain, for well art thou entitled;  
 And domineer, for Beauty hath given thee power.  
@@ -396,12 +396,12 @@ For in a dream, perchance, will rise before me
 Thy phantom and reveal to me a mystery.  
 But if thou wilt not stir my life's last embers  
 With the hand of hope, and thy All needs must naught me <span
-id="fr_547"></span>[1](#fn_545),  
+id="fr_547"></span>[1](#fn_545.md),  
 And if Love's law not even a fitful slumber  
 Lets trespass on my lids, and bans our meeting,  
 Spare me an eye, that some day, ere I perish,  
 Haply I may behold those who beheld thee <span
-id="fr_548"></span>[2](#fn_546)!  
+id="fr_548"></span>[2](#fn_546.md)!  
 Alas, how far is that desire! Nay, never  
 Mine eyelashes durst kiss the earth thou tread’st on,  
 For had my messenger brought a word of kindness  
@@ -434,13 +434,13 @@ Forget thee—God forfend!—so let them babble!
 Thee how should I forget? At every lightning  
 That flashes, lo, mine eye starts up to meet thee.  
 If ’neath the light of thy *lithám* <span
-id="fr_549"></span>[1](#fn_547) thou smilest  
+id="fr_549"></span>[1](#fn_547.md) thou smilest  
 Or breathest soft—and on the wind thy news comes—  
 Glad is my soul when clear dawn of thy side-teeth  
 Breaks on my sight, and keenly blows thy fragrance.  
 Within thy borders all do love thee, natheless  
 My single worth buys all within thy borders <span
-id="fr_550"></span>[2](#fn_548).  
+id="fr_550"></span>[2](#fn_548.md).  
 There dwells in thee a notion that endeared thee  
 To mind's eye, fixed my gaze on thy perfections.  
 The lords of beauty thou in grace and goodness  
@@ -457,12 +457,12 @@ O happy, happy night in which thy vision I hunted after with my net of
 waking!  
 The full moon, being thy copy, represented  
 To my unslumbering eye thy face's image <span
-id="fr_551"></span>[3](#fn_549);  
+id="fr_551"></span>[3](#fn_549.md);  
 And in such alien form thine apparition  
 Cooled mine eye's fever: I saw thee, none other.  
 Thus Abraham of old, the Friend of Allah,  
 Upturned his eye, what time he scanned the heavens <span
-id="fr_552"></span>[4](#fn_550).
+id="fr_552"></span>[4](#fn_550.md).
 
 <span id="page_174">p. 174</span>
 
@@ -472,7 +472,7 @@ And when thou from mine eye in outward seeming
 Art gone, I cast it inward, there to find thee.  
 Of Badr are they with whom by night thou faredst—  
 Nay, not of Badr: they journeyed in thy daylight <span
-id="fr_553"></span>[1](#fn_551).  
+id="fr_553"></span>[1](#fn_551.md).  
 That men do borrow radiance from mine outward,  
 ’Tis not strange, when mine inward is thy dwelling.  
 Ever since thou to kiss thy mouth didst call me,  
@@ -483,13 +483,13 @@ The beauty of all things seen tempted me, saying,
 "Enjoy me," but I said, "I aim beyond thee.  
 Beguile not me, thyself by my Beloved  
 Distraught, in whom thou seem’st but an idea <span
-id="fr_554"></span>[2](#fn_552).  
+id="fr_554"></span>[2](#fn_552.md).  
 Averted, over men's souls he is mighty <span
-id="fr_555"></span>[3](#fn_553);  
+id="fr_555"></span>[3](#fn_553.md);  
 Unveiled, he makes the ascetics be his vowed slaves.  
 For his sake I exchanged my truth for error,  
 My right for wrong, my modesty for ill-fame <span
-id="fr_556"></span>[4](#fn_554).  
+id="fr_556"></span>[4](#fn_554.md).  
 My heart confessed his love One: then my turning  
 To thee were dualism, a creed I like not."
 
@@ -543,7 +543,7 @@ And every deaf ear stopped against rebuke,
 And every lid not dropped in slumbers dull.  
 Out on a love that hath no melting eyes!  
 Out on a flame from which no rapture flies <span
-id="fr_557"></span>[1](#fn_555)!
+id="fr_557"></span>[1](#fn_555.md)!
 
 In exquisite contrast with this high-wrought prelude is another passage
 of the same ode, describing the mystic's vision of the Divine beauty
@@ -561,7 +561,7 @@ And where at dawn with softly-trailing skirts
 The zephyr brings to me his balm most sweet;  
 And when in kisses from the flagon's mouth  
 I suck wine-dew beneath a pleasant shade <span
-id="fr_558"></span>[2](#fn_556).
+id="fr_558"></span>[2](#fn_556.md).
 
 Here the Moslem commentator, startled for a moment out of his
 lucubrations on syntax and rhetoric, pauses to pay a tribute of
@@ -584,7 +584,7 @@ li-ẓalmiki ẓulm<sup>an</sup> minki mayl<sup>un</sup> li-‘aṭfati*
 
 Hast thou no desire to withdraw from a resistance that has caused thee
 to turn away, with wrong on thy part, from one who thirsts for the water
-of thy teeth <span id="fr_559"></span>[1](#fn_557)?
+of thy teeth <span id="fr_559"></span>[1](#fn_557.md)?
 
 His extravagant flights of fancy are generally accompanied by an equal
 exaltation of feeling and sustained by the fiery element in which they
@@ -595,30 +595,30 @@ I sowed roses on his cheek by looking (at him): mine eye has the right
 to gather that which it planted.  
 But if he refuses, then his (teeth white as) camomile will be my amends:
 ’tis no bad bargain when one is given pearls instead of flowers <span
-id="fr_560"></span>[2](#fn_558).
+id="fr_560"></span>[2](#fn_558.md).
 
 They said, "Thy tears flowed red." I answered, "They flowed from causes
 which are small in comparison with the greatness of my desire:  
 I slaughtered sleep on my eyelids to entertain my phantom-guest and
 therefore my tears flowed bloody over my cheek <span
-id="fr_561"></span>[3](#fn_559)."
+id="fr_561"></span>[3](#fn_559.md)."
 
 The following examples are more typical:
 
 Thou stol’st away mine heart when it was whole:  
 Now at my last gasp give it back in shreds <span
-id="fr_562"></span>[4](#fn_560)!
+id="fr_562"></span>[4](#fn_560.md)!
 
 O thou who didst treacherously take my heart away, how didst not thou
 let follow it the rest of me that thou sparedst?  
 Part of me is made jealous of thee by part of me, and my outward envies
-my inward because thou art there <span id="fr_563"></span>[5](#fn_561).
+my inward because thou art there <span id="fr_563"></span>[5](#fn_561.md).
 
 <span id="page_178">p. 178</span>
 
 I am so wasted by lovesickness that those who come to visit me have lost
 their way, for how can the visitors see one who hath no shadow <span
-id="fr_564"></span>[1](#fn_562)?
+id="fr_564"></span>[1](#fn_562.md)?
 
 To affirm that lovers and mystics delight in paradox is only to
 acknowledge that in states of spiritual enthusiasm we enter a region
@@ -629,14 +629,14 @@ intellect, are final.
 
 When I died of his love, I lived by him, through the wealth of my
 self-denial and the abundance of my poverty <span
-id="fr_565"></span>[2](#fn_563).
+id="fr_565"></span>[2](#fn_563.md).
 
 ’Tis Love! Keep thy heart safe. Passion is no light thing, and he that
 is wasted thereby chose it not when he was sane.  
 And live fancy-free, for love's joy is sorrow: its beginning a sickness
 and its end a slaying;  
 Yet, methinks, death owing to love-desire is a life that my loved one
-bestows upon me as a boon <span id="fr_566"></span>[3](#fn_564).
+bestows upon me as a boon <span id="fr_566"></span>[3](#fn_564.md).
 
 If separation be my guerdon from you, and if there be no (real) distance
 between us, I regard that separation as union.  
@@ -645,8 +645,8 @@ thing, excepting only your aversion, is easy to bear.
 Delicious to me is the torment which ye inflict; and the injustice which
 Love ordains that ye do unto me is justice.  
 And my patience, a patience both without you and with you <span
-id="fr_567"></span>[4](#fn_565)—its bitterness seems to me everlastingly
-sweet <span id="fr_568"></span>[5](#fn_566).
+id="fr_567"></span>[4](#fn_565.md)—its bitterness seems to me everlastingly
+sweet <span id="fr_568"></span>[5](#fn_566.md).
 
 Besides the two protagonists, Arabian love-poetry introduces several
 minor figures, who play a helping or hindering part in the idyll. Ibnu
@@ -664,26 +664,26 @@ type of the Devil, suggesting evil and inspiring doubt, of sensual
 passion, and of all that lures the soul away from Divine contemplation.
 
 And in my silencing him who blamed me on thy account, when it was no
-time to dispute concerning thee <span id="fr_569"></span>[1](#fn_567),
+time to dispute concerning thee <span id="fr_569"></span>[1](#fn_567.md),
 my argument was thy face;  
 Whereby, after having been my rebuker, he was made my excuser; nay, he
 became one of my helpers.  
 And, as I live, my vanquishing in argument a guide whose reproaches
 would have led me astray is like my greater and lesser pilgrimages <span
-id="fr_570"></span>[2](#fn_568).  
+id="fr_570"></span>[2](#fn_568.md).  
 He perceived that my scornful ear was Rajab (deaf) to baseness and false
 counsel, and that blame of me was al-Muḥarram (forbidden) <span
-id="fr_571"></span>[3](#fn_569).  
+id="fr_571"></span>[3](#fn_569.md).  
 Full oft had he desired me to forget thy love and seek another than
 thee, but how should he change my fixed purpose?  
 He said, "Mend what remains in thee (of life)." I answered, "Methinks,
 my mind turns nowhither but towards death."  
 My refusal refused everything except thwarting a counsellor who would
 beguile me to show a quality that was never mine <span
-id="fr_572"></span>[4](#fn_570),  
+id="fr_572"></span>[4](#fn_570.md),  
 One to whom chiding me on thy account is sweet, as though he deemed my
 separation (from thee) his manna and my forgetfulness (of thee) his
-quails <span id="fr_573"></span>[5](#fn_571).
+quails <span id="fr_573"></span>[5](#fn_571.md).
 
 It is a favourite paradox of Ibnu ’l-Fáriḍ that reproof bears a message
 of love, and that the "railer" deserves to be thanked and praised.
@@ -698,22 +698,22 @@ For sweet to me is her name in every mould, even if my chiders mingle it
 with disputation.  
 Methinks, he that blames me brings to me the glad news of her favour,
 though I was not hoping to have my greeting returned <span
-id="fr_574"></span>[1](#fn_572).
+id="fr_574"></span>[1](#fn_572.md).
 
 But I found thee in one way my benefactor, albeit thou wouldst have hurt
 me by the scorch of thy rebuke, had I obeyed thee.  
 Thou didst me a kindness unawares, and if thou wroughtest ill, yet art
 thou the most righteous of wrong-doers.  
 The phantom that visits me in the hour of blame <span
-id="fr_575"></span>[2](#fn_573) brings the Beloved, though he dwell
+id="fr_575"></span>[2](#fn_573.md) brings the Beloved, though he dwell
 afar, close to the eye of my waking ear.  
 And thy reproof is, as it were, my Loved One's camels which came to me
-when my hearing was my sight <span id="fr_576"></span>[3](#fn_574).  
+when my hearing was my sight <span id="fr_576"></span>[3](#fn_574.md).  
 Thou tiredst thyself and I was refreshed by thy mention of him, so that
 I regarded thee as excusing me for my passion.  
 Marvel, then, at a satirist lauding with the tongue of a thankful
 complainant those who blame him for his love <span
-id="fr_577"></span>[4](#fn_575)!
+id="fr_577"></span>[4](#fn_575.md)!
 
 The hyperfantastic strain in Ibnu ’l-Fáriḍ's poetry is surprisingly
 relieved by a poignant realism, of which there is no trace in the work
@@ -737,7 +737,7 @@ of the relation of that reality to himself.
 Some of the finest passages are inspired by the author's recollection of
 the years which he spent in the Ḥijáz, where (he says) he left his heart
 behind when his body returned to Egypt <span
-id="fr_578"></span>[1](#fn_576).
+id="fr_578"></span>[1](#fn_576.md).
 
 Give aid, my brother dear, and sing me the tale of them that alighted in
 the water-courses—if thou wilt keep a brother's faith with me—  
@@ -755,7 +755,7 @@ its daytime shadows are my (cool) shades of eve,
 And its earth is my fragrant spice, and its water a full well for my
 thirst, and in its soil are my riches,  
 And its ravines are to me a garden, and its tents a shield, and on its
-rocks my heart is untroubled <span id="fr_579"></span>[2](#fn_577)?  
+rocks my heart is untroubled <span id="fr_579"></span>[2](#fn_577.md)?  
 May the rain bless those haunts and hills, and may showers following
 each other moisten those homes of bounty,  
 And shed abundance on the shrines of pilgrimage and the pebbles at
@@ -770,7 +770,7 @@ passed in the wakefulness of a light sleep!
 Ah me for that time and all that was in that goodly place, when the
 spies were off their guard!—  
 Days when I blithely pastured in the fields of Desire and tripped in
-flowing skirts of Ease <span id="fr_580"></span>[1](#fn_578).  
+flowing skirts of Ease <span id="fr_580"></span>[1](#fn_578.md).  
 How wonderful is Time, which lays benefits on a man and proves him by
 taking the gift as spoil!  
 O would that our bygone pleasure might return once more! Then would I
@@ -778,11 +778,11 @@ freely give my life.
 Alas, vain is the endeavour, and cut are the strands of the cord of
 desire, and loosed is the knot of my hope.  
 ’Tis torture enough that I pass the night in frenzy, with my longing
-before me and Fate behind me <span id="fr_581"></span>[2](#fn_579).
+before me and Fate behind me <span id="fr_581"></span>[2](#fn_579.md).
 
 From many such passages I select one that is characteristic, because it
 illustrates Ibnu ’l-Fáriḍ's habit of seeking his imagery in Nature, as
-seen by Bedouins <span id="fr_582"></span>[3](#fn_580), and also his
+seen by Bedouins <span id="fr_582"></span>[3](#fn_580.md), and also his
 sense of the poetic value of proper names.
 
 O that I knew whether Sulaymá is dwelling in the valley of the demesne,
@@ -795,7 +795,7 @@ And are there green dunes in the camping-place at al-Wa‘sá? and will the
 joy that passed there ever return?  
 And, O ye dear folk at al-Naqá, is there in the hills of Najd any one
 that relates from me, to show forth what my ribs enclose <span
-id="fr_583"></span>[4](#fn_581)?  
+id="fr_583"></span>[4](#fn_581.md)?  
 And on the sand-slope of Sal‘ do they ask news of a rapt lover at Káẓima
 and say, "How is Passion dealing with him?"  
 And are the blossoms being culled from the myrtle-boughs, and in the
@@ -822,7 +822,7 @@ And perchance the sweet nights that are vanished will come again to us,
 that a hoping man may win his desire,  
 And a sorrowing one rejoice and a lovelorn one revive and a longing one
 be made happy and a listening one thrill with delight <span
-id="fr_584"></span>[1](#fn_582).
+id="fr_584"></span>[1](#fn_582.md).
 
 It needs but a slight acquaintance with Ibnu ’l-Fáriḍ to discover that
 he fully possesses a gift which the Arabs have always prized in their
@@ -832,16 +832,16 @@ suffering,
 
      Hidden from his visitors, appearing only  
      As a crease in garments after their unfolding <span
-id="fr_585"></span>[2](#fn_583).
+id="fr_585"></span>[2](#fn_583.md).
 
 An exceeding great love hath hewn my bones, and my body is vanished, all
-but the two least parts of me <span id="fr_586"></span>[3](#fn_584).
+but the two least parts of me <span id="fr_586"></span>[3](#fn_584.md).
 
 I felt such passion for you that if the strengths of all who love had
 borne half the burden thereof, they would have tired.  
 My bones were hewn by a desire twice as great as that of my eyelids for
 my sleep or of my weakness for my strength <span
-id="fr_587"></span>[4](#fn_585).
+id="fr_587"></span>[4](#fn_585.md).
 
 Any one of the Odes will furnish examples of this Arabian eloquence
 which has its roots deep in the structure of the language and defies all
@@ -868,38 +868,38 @@ philosophical theories that belong to Ibnu ’l-‘Arabí rather than to Ibnu
 
 Sharibná ‘alá dhikhri ’l-ḥabíbi mudámat<sup>an</sup>  
 sakirná bihá min qabli an yukhlaqa ’l-karmu <span
-id="fr_588"></span>[1](#fn_586).
+id="fr_588"></span>[1](#fn_586.md).
 
 \(1\) In memory of the Beloved we quaffed a vintage that made us drunk
-before the creation of the vine <span id="fr_589"></span>[2](#fn_587).
+before the creation of the vine <span id="fr_589"></span>[2](#fn_587.md).
 
 \(2\) Its cup the full-moon; itself a sun which a new moon causes to
 circle. When it is mingled (with water), how many stars appear <span
-id="fr_590"></span>[3](#fn_588)!
+id="fr_590"></span>[3](#fn_588.md)!
 
 \(3\) But for its perfume, I should not have found the way to its
 taverns; and but for its resplendence, the imagination would not have
-pictured it <span id="fr_591"></span>[4](#fn_589).
+pictured it <span id="fr_591"></span>[4](#fn_589.md).
 
 <span id="page_185">p. 185</span>
 
 \(4\) Time hath preserved of it but a breath: it is unseen as a thing
-hidden in the bosom of the mind <span id="fr_592"></span>[1](#fn_590).
+hidden in the bosom of the mind <span id="fr_592"></span>[1](#fn_590.md).
 
 \(5\) If it be mentioned amongst the tribe, the tribesmen become
 intoxicated without incurring disgrace or committing sin <span
-id="fr_593"></span>[2](#fn_591).
+id="fr_593"></span>[2](#fn_591.md).
 
 \(6\) It oozed up from the inmost depths of the jars (and vanished), and
 in reality nothing was left of it but a name <span
-id="fr_594"></span>[3](#fn_592).
+id="fr_594"></span>[3](#fn_592.md).
 
 \(7\) If it ever come into the mind of a man, joy will abide with him
 and grief will journey away.
 
 \(8\) And had the boon-companions beheld the sealing of its vessel, that
 sealing would have inebriated them without (their having tasted) the
-wine <span id="fr_595"></span>[4](#fn_593);
+wine <span id="fr_595"></span>[4](#fn_593.md);
 
 \(9\) And had they sprinkled with it the earth of a dead man's grave,
 his spirit would have returned to him, and his body would have risen;
@@ -942,7 +942,7 @@ generous, and he who had no forbearance forbears in the hour of wrath.
 
 \(20\) Had the dullest-witted man in the tribe kissed its *fidám*, his
 kissing it would have endued him with the real inwardness of the wine's
-qualities <span id="fr_596"></span>[1](#fn_594).
+qualities <span id="fr_596"></span>[1](#fn_594.md).
 
 \(21\) They say to me, "Describe it, for thou art acquainted with its
 description." Ay, well do I know its attributes:
@@ -952,7 +952,7 @@ as fire; spirit, but not (joined to) body.
 
 \(23\) The (Divine) discourse concerning it was eternally prior to all
 existing things (in the knowledge of God), where is no form nor any
-external trace <span id="fr_597"></span>[2](#fn_595);
+external trace <span id="fr_597"></span>[2](#fn_595.md);
 
 \(24\) And there through it all things came into being because of a
 (Divine) providence whereby it was veiled from every one that lacketh
@@ -960,28 +960,28 @@ understanding.
 
 \(25\) And my spirit was enamoured of it in such wise that they (my
 spirit and the wine) were mingled together and made one, not as a body
-pervades a body <span id="fr_598"></span>[3](#fn_596).
+pervades a body <span id="fr_598"></span>[3](#fn_596.md).
 
 \(26\) There is a wine without a vine, when Adam is a father to me;
 there is a vine without a wine, when its mother is a mother to me <span
-id="fr_599"></span>[4](#fn_597).
+id="fr_599"></span>[4](#fn_597.md).
 
 <span id="page_187">p. 187</span>
 
 \(27\) The (essential) subtlety of the vessels (forms) depends in truth
 on the subtlety of the realities; and by means of the vessels the
-realities increase <span id="fr_600"></span>[1](#fn_598)
+realities increase <span id="fr_600"></span>[1](#fn_598.md)
 
 \(28\) After division has occurred, so that, while the whole is one, our
 spirits are a wine and our bodies a vine.
 
 \(29\) Before it is no "before" and after it is no "after"; it is the
 "before" of every "after" by the necessity of its nature <span
-id="fr_601"></span>[2](#fn_599).
+id="fr_601"></span>[2](#fn_599.md).
 
 \(30\) Its grapes were pressed in the winepress ere Time began, and it
 was an orphan although the epoch of our father (Adam) came after
-it <span id="fr_602"></span>[3](#fn_600).
+it <span id="fr_602"></span>[3](#fn_600.md).
 
 \(31\) Such are the beauties that lead its praisers to laud it, and
 beautiful is their prose and verse in its honour.
@@ -994,7 +994,7 @@ drunk what, in my judgment, ’twere the greatest sin to renounce.
 
 \(34\) Health to the people of the Christian monastery! How often were
 they intoxicated by it without hawing drunk thereof! Still, they
-aspired <span id="fr_603"></span>[4](#fn_601).
+aspired <span id="fr_603"></span>[4](#fn_601.md).
 
 <span id="page_188">p. 188</span>
 
@@ -1003,11 +1003,11 @@ for ever, though my bones decay.
 
 \(36\) Take it pure! but if thou wish to temper it, the worst wrong is
 thy turning aside from the water of the Beloved's teeth <span
-id="fr_604"></span>[1](#fn_602).
+id="fr_604"></span>[1](#fn_602.md).
 
 \(37\) Seek it in the tavern, and there to the accompaniment of tuneful
 notes bid it display itself, for by means of music it is made a
-prize <span id="fr_605"></span>[2](#fn_603).
+prize <span id="fr_605"></span>[2](#fn_603.md).
 
 \(38\) Wine never dwelt with Care in any place, even as Sorrow never
 dwelt with Song;
@@ -1028,7 +1028,7 @@ others. This Ode, the author's masterpiece, bears a plain and
 appropriate title, *Naẓmu ’l-sulúk*, "The Poem of the Mystic's
 Progress"; the meaning of the name al-*Tá’iyyatu ’l-kubrá*, by which it
 is commonly known, has been explained above <span
-id="fr_606"></span>[3](#fn_604). The *Tá’iyya*, with its 760 verses, is
+id="fr_606"></span>[3](#fn_604.md). The *Tá’iyya*, with its 760 verses, is
 nearly as long as all the minor poems together, if we leave the
 quatrains and enigmas out of reckoning. It was edited in 1854 by Joseph
 von Hammer and may be studied in the fully vocalised text which he
@@ -1064,7 +1064,7 @@ doctrine that phenomena are merely the illusory medium through which the
 soul acts in the world. For this purpose he compares the soul to the
 showman of the shadow-lantern who throws his puppets on a screen,
 keeping himself out of sight while he manipulates them <span
-id="fr_607"></span>[1](#fn_605). The passage beginning
+id="fr_607"></span>[1](#fn_605.md). The passage beginning
 
 And so it comes that now thou laugh’st in glee
 
@@ -1080,7 +1080,7 @@ Of manifold appearance; and in them
 An all-wise providence hath joined what stands  
 Opposed in nature: mute they utter speech,  
 Inert they move and void of splendour shine <span
-id="fr_608"></span>[1](#fn_606).  
+id="fr_608"></span>[1](#fn_606.md).  
 And so it comes that now thou laugh’st in glee,  
 Then weep’st anon, like mother o’er dead child,  
 And mournest, if they sigh, for pleasure lost,  
@@ -1103,14 +1103,14 @@ Here in assault they smite with gleaming swords,
 There thrust with tough brown shafts of quivering spears;  
 Part drowned with fire of arrows shot in showers,  
 Part burned with floods of steel that pierce like flames <span
-id="fr_609"></span>[2](#fn_607);  
+id="fr_609"></span>[2](#fn_607.md);  
 These rushing onward, offering their lives,  
 Those reeling broken ’neath the shame of rout;  
 And catapults thou seest hurling stones  
 Against strong fortresses and citadels,  
 To ruin them. And apparitions strange  
 Of naked viewless spirits thou mayst espy <span
-id="fr_610"></span>[3](#fn_608),
+id="fr_610"></span>[3](#fn_608.md),
 
 <span id="page_191">p. 191</span>
 
@@ -1135,7 +1135,7 @@ Let him but lift the screen, no doubt remains:
 The forms are vanished, he alone is all;  
 And thou, illumined, knowest that by his light  
 Thou find’st his actions in the senses’ night <span
-id="fr_611"></span>[1](#fn_609).
+id="fr_611"></span>[1](#fn_609.md).
 
 Ibnu ’l-Fáriḍ more often reminds us of Dante than of Lucretius, but
 these verses may be compared with a passage in the *De rerum natura* (2,
@@ -1161,7 +1161,7 @@ this moving and sounding pageant to stillness and silence—
 
 et tamen est quidam locus altis montibus unde  
 stare uidentur et in campis consistere fulgor <span
-id="fr_612"></span>[1](#fn_610)."
+id="fr_612"></span>[1](#fn_610.md)."
 
 A similar and perhaps even more striking effect is produced when Ibnu
 ’l-Fáriḍ, after having brought before his readers the spectacle of
@@ -1184,13 +1184,13 @@ day. The obscurity does not lie in his style so much as in the nature of
 his subject.
 
 How little may a heart communicate in the form of thought, or a tongue
-utter in the mould of speech <span id="fr_613"></span>[2](#fn_611)!
+utter in the mould of speech <span id="fr_613"></span>[2](#fn_611.md)!
 
 <span id="page_193">p. 193</span>
 
 While his symbolism may have served him at times as a mask when plain
 speaking would have been dangerous <span
-id="fr_614"></span>[1](#fn_612), he generally uses it as the only
+id="fr_614"></span>[1](#fn_612.md), he generally uses it as the only
 possible means of imparting mystical truth; and in his own circle, no
 doubt, it was understood readily enough. We, on the other hand, must
 begin by learning it and end with recognising that no intellectual
@@ -1212,7 +1212,7 @@ doctrine of *ittiḥád* (*Einswerden*) leads to the pantheistic monism of
 Ibnu ’l-‘Arabí; but those who find in the *Tá’iyya* a poetical version
 of that system are confusing mysticism with philosophy. In some
 passages, however, we meet with philosophical ideas <span
-id="fr_615"></span>[2](#fn_613) and may draw inferences from them. While
+id="fr_615"></span>[2](#fn_613.md) and may draw inferences from them. While
 they do not appear to me to support the view that Ibnu ’l-Fáriḍ was a
 follower of Ibnu ’l-‘Arabí, they imply pantheism and monism on the plane
 of speculative thought, where commentators and theologians
@@ -1262,12 +1262,12 @@ risen from the
 <span id="page_195">p. 195</span>
 
 ranks of the forty *Abdál* or *Budalá* <span
-id="fr_616"></span>[1](siim18.htm#fn_614). The dominion of the spiritual
+id="fr_616"></span>[1](siim18.htm#fn_614.md). The dominion of the spiritual
 *Quṭb*, the real Pole (*al-Quṭbu ’l-ḥaqíqí*), extends over the created
 things of both the visible and invisible worlds. He has neither
 predecessor nor successor, for he is the Spirit of Mohammed, *i.e.*, the
 essence of Man and the final cause of creation <span
-id="fr_617"></span>[2](siim18.htm#fn_615). Ibnu ’l-Fáriḍ, then, does not
+id="fr_617"></span>[2](siim18.htm#fn_615.md). Ibnu ’l-Fáriḍ, then, does not
 profess this heretical doctrine (*quṭbiyya*, *quṭbániyya*) in the sense
 which Ṣúfís ordinarily assign to it. His "Poleship" is not the temporal
 vicegerency delegated by Mohammed to the supreme saint of every age, but
@@ -1275,7 +1275,7 @@ a pure consciousness of being one with the Spirit, who as the perfect
 image of God encompasses all things with his knowledge, power and glory.
 
 My translation covers three-fourths of the poem <span
-id="fr_618"></span>[3](siim18.htm#fn_616). The omitted passages are
+id="fr_618"></span>[3](siim18.htm#fn_616.md). The omitted passages are
 generally unimportant, but I have given a summary whenever I thought it
 would be of use.
 
@@ -1283,7 +1283,7 @@ would be of use.
 
 ### Footnotes
 
-<span id="fn_521"></span>[162:1](siim17.htm#fr_523) I have used the
+<span id="fn_521"></span>[162:1](siim17.htm#fr_523.md) I have used the
 following editions and commentaries:
 
 (*a*) *Díwán* of Ibnu ’l-Fáriḍ, ed. by Rushayyid b. Ghálib al-Daḥdáḥ
@@ -1311,7 +1311,7 @@ Nallino which appeared in Rivista degli studi orientali, vol. VIII
 The abbreviations Díwán, K. and N. refer to (*a*), (*b*) and (*c*)
 respectively.
 
-<span id="fn_522"></span>[163:1](siim17.htm#fr_524) Even Zoroastrianism
+<span id="fn_522"></span>[163:1](siim17.htm#fr_524.md) Even Zoroastrianism
 does not exclude the monistic principle. It seems to be uncertain
 whether Ormuzd and Ahriman stood in direct and equal antagonism to each
 other, or whether Aṅra Mainyu (Ahriman), the evil spirit, and Spenta
@@ -1319,71 +1319,71 @@ Mainyu, the good spirit, were conceived as opposite emanations of One
 (Ormuzd) who is above them both. In any case, the struggle between
 Ormuzd and Ahriman ends with the complete destruction of the latter.
 
-<span id="fn_523"></span>[163:2](siim17.htm#fr_525) Nöldeke, *Sketches
+<span id="fn_523"></span>[163:2](siim17.htm#fr_525.md) Nöldeke, *Sketches
 from Eastern History*, tr. by J. S. Black, p. 20.
 
-<span id="fn_524"></span>[163:3](siim17.htm#fr_526) Sir Charles Lyall,
+<span id="fn_524"></span>[163:3](siim17.htm#fr_526.md) Sir Charles Lyall,
 *Ancient Arabian Poetry*, p. xix.
 
-<span id="fn_525"></span>[164:1](siim17.htm#fr_527) The present writer
+<span id="fn_525"></span>[164:1](siim17.htm#fr_527.md) The present writer
 has edited and translated a collection of mystical odes by Ibnu
 ’l-‘Arabí, entitled *Tarjumán al-Ashwáq*, in the Oriental Translation
 Fund, New Series, vol. xx (London, 1911).
 
-<span id="fn_526"></span>[164:2](siim17.htm#fr_528) The date of his
+<span id="fn_526"></span>[164:2](siim17.htm#fr_528.md) The date of his
 birth is usually given as <span class="smallcaps">a.d.</span> 1181, but
 see Nallino, *op. cit.*, p. I, note 3.
 
-<span id="fn_527"></span>[164:3](siim17.htm#fr_529) *Díwán*, p. 4, 1. 13
+<span id="fn_527"></span>[164:3](siim17.htm#fr_529.md) *Díwán*, p. 4, 1. 13
 foll. and p. 75, 1. I foll.
 
-<span id="fn_528"></span>[164:4](siim17.htm#fr_530) The Life of Ibnu
+<span id="fn_528"></span>[164:4](siim17.htm#fr_530.md) The Life of Ibnu
 ’l-Fáriḍ by his grandson has been printed as an introduction to the
 *Díwán* (pp. 3-24). A shorter notice, extracted from my Ms. of the
 *Shadharátu ’l-dhahab*, was published in the *JRAS*. for 1906, pp.
 800-806. See also Ibn Khallikán, No. 511 (De Slane's translation, vol.
 n, p. 388 foll.).
 
-<span id="fn_529"></span>[165:1](siim17.htm#fr_531) See p. 22 *supra*.
+<span id="fn_529"></span>[165:1](siim17.htm#fr_531.md) See p. 22 *supra*.
 
-<span id="fn_530"></span>[165:2](siim17.htm#fr_532) *I.e.* the Greater
+<span id="fn_530"></span>[165:2](siim17.htm#fr_532.md) *I.e.* the Greater
 Ode rhyming in *t*. It is so named in order to distinguish it from the
 *Tá’iyyatu ’l-ṣughrá*, *i.e.* the Lesser Ode rhyming in *t* (*Díwán*,
-[p. 142](siim14.htm#page_142) foll.).
+[p. 142](siim14.htm#page_142) foll..md).
 
-<span id="fn_531"></span>[165:3](siim17.htm#fr_533) See Professor
+<span id="fn_531"></span>[165:3](siim17.htm#fr_533.md) See Professor
 Browne's *Literary History of Persia*, vol. 11, p. 504; my *Literary
 History of the Arabs*, p. 397 fol., and *The Don and the Dervish*, pp.
 105-9. A Latin version of one entire ode (*Díwán*, p. 306 foll.) is
 given by Sir William Jones in his *Poeseos Asiaticae commentarii*
 (Works, ed. by Lord Teignmouth, vol. VI, p. 74).
 
-<span id="fn_532"></span>[166:1](siim17.htm#fr_534) Grangeret de
+<span id="fn_532"></span>[166:1](siim17.htm#fr_534.md) Grangeret de
 Lagrange, *Anthologie arabe*, p. 128.
 
-<span id="fn_533"></span>[167:1](siim17.htm#fr_535) J. W. Mackail,
+<span id="fn_533"></span>[167:1](siim17.htm#fr_535.md) J. W. Mackail,
 *Select Epigrams from the Greek Anthology*, p. 34.
 
-<span id="fn_534"></span>[167:2](siim17.htm#fr_536) Preface to the
+<span id="fn_534"></span>[167:2](siim17.htm#fr_536.md) Preface to the
 *Díwán*, p. II, 1. 20.
 
-<span id="fn_535"></span>[167:3](siim17.htm#fr_537) Evelyn Underhill,
+<span id="fn_535"></span>[167:3](siim17.htm#fr_537.md) Evelyn Underhill,
 *Mysticism*, p. 352.
 
-<span id="fn_536"></span>[167:4](siim17.htm#fr_538) Introd. to *Selected
+<span id="fn_536"></span>[167:4](siim17.htm#fr_538.md) Introd. to *Selected
 Poems from the Dīvāni Shamsi Tabrīz*, p. XL.
 
-<span id="fn_537"></span>[168:1](siim17.htm#fr_539) Of course these
+<span id="fn_537"></span>[168:1](siim17.htm#fr_539.md) Of course these
 remarks do not apply to many passages in the *Tá’iyyatu ’l-kubrá*, which
 in respect of its didactic purpose bears the same relation to the minor
 odes as the *Masnaví* of Jalálu’ddín Rúmí to his *Díwán*.
 
-<span id="fn_538"></span>[168:2](siim17.htm#fr_540) Prof. Nallino (*op.
+<span id="fn_538"></span>[168:2](siim17.htm#fr_540.md) Prof. Nallino (*op.
 cit.* p. 17) points out that at a later period the Odes were often
 chanted in the musical concerts of the Ṣúfís and suggests that they were
 composed for this purpose.
 
-<span id="fn_539"></span>[168:3](siim17.htm#fr_541) *Díwán*, p. 52, l. 8
+<span id="fn_539"></span>[168:3](siim17.htm#fr_541.md) *Díwán*, p. 52, l. 8
 foll. Búríní (*ibid*. p. 202, 12 foll.) asserts that Ibnu ’l-Fáriḍ's
 poetry is not invariably mystical. The two verses which he cites might
 bear an allegorical sense as easily as many of a similar kind in the
@@ -1393,33 +1393,33 @@ epigram (*Díwán*, p. 549, 9 fol. Ibn Khallikán, De Slane's translation,
 vol. II, p. 389), and that he may have written others, proves nothing
 against those who find mysticism in every line of the Odes.
 
-<span id="fn_540"></span>[169:1](siim17.htm#fr_542) Preface to the
+<span id="fn_540"></span>[169:1](siim17.htm#fr_542.md) Preface to the
 *Díwán*, p. 11, l. 1 foll.
 
-<span id="fn_541"></span>[170:1](siim17.htm#fr_543) *Díwán*, p. 263
+<span id="fn_541"></span>[170:1](siim17.htm#fr_543.md) *Díwán*, p. 263
 foll. Prof. Browne has given a translation of this ode in his *Literary
 History of Persia*, vol. ii, p. 504.
 
-<span id="fn_542"></span>[170:2](siim17.htm#fr_544) A valley with
+<span id="fn_542"></span>[170:2](siim17.htm#fr_544.md) A valley with
 fountains and date-palms in the neighbourhood of Medina.
 
-<span id="fn_543"></span>[170:3](siim17.htm#fr_545) The dream-form
+<span id="fn_543"></span>[170:3](siim17.htm#fr_545.md) The dream-form
 (*khayál*) of the Beloved in the poet's fancy (*khayál*).
 
-<span id="fn_544"></span>[171:1](siim17.htm#fr_546) *Díwán*, p. 230
+<span id="fn_544"></span>[171:1](siim17.htm#fr_546.md) *Díwán*, p. 230
 foll.
 
-<span id="fn_545"></span>[172:1](siim17.htm#fr_547) Literally, "if thy
+<span id="fn_545"></span>[172:1](siim17.htm#fr_547.md) Literally, "if thy
 everlastingness (*baqá*) demands my passing-away (*faná*)."
 
-<span id="fn_546"></span>[172:2](siim17.htm#fr_548) According to N. the
+<span id="fn_546"></span>[172:2](siim17.htm#fr_548.md) According to N. the
 words "those who beheld thee" refer to the Light of Mohammed, which
 emanated from the Light of God.
 
-<span id="fn_547"></span>[173:1](siim17.htm#fr_549) A veil covering the
+<span id="fn_547"></span>[173:1](siim17.htm#fr_549.md) A veil covering the
 lower part of the face.
 
-<span id="fn_548"></span>[173:2](siim17.htm#fr_550) "Within thy
+<span id="fn_548"></span>[173:2](siim17.htm#fr_550.md) "Within thy
 borders": literally "within thy preserve (*ḥimá*)." The Divine Essence
 is preserved (made inaccessible) by the spiritual and sensible forms in
 which it veils itself. As the Bedouin poet brags about himself in order
@@ -1428,11 +1428,11 @@ of the unique endowments which God has bestowed upon them, it is not
 self-glorification, but thanksgiving to Him "from whom all blessings
 flow."
 
-<span id="fn_549"></span>[173:3](siim17.htm#fr_551) Real Being is
+<span id="fn_549"></span>[173:3](siim17.htm#fr_551.md) Real Being is
 manifested in phenomena, just as the light of the sun is reflected by
 the moon.
 
-<span id="fn_550"></span>[173:4](siim17.htm#fr_552) See Kor. 6, 76 foll.
+<span id="fn_550"></span>[173:4](siim17.htm#fr_552.md) See Kor. 6, 76 foll.
 "And when the night overshadowed him, he saw a <span id="page_174">p.
 174</span> star, and he said, This is my Lord; but when it set, he said,
 I like not gods which set. And when he saw the moon rising, he said,
@@ -1440,7 +1440,7 @@ This is my Lord; but when he saw it set, he said, Verily, if my Lord
 direct me not, I shall become one of the people who go astray" (Sale's
 translation).
 
-<span id="fn_551"></span>[174:1](siim17.htm#fr_553) In this verse there
+<span id="fn_551"></span>[174:1](siim17.htm#fr_553.md) In this verse there
 is an untranslatable play on the double meaning of Badr, which signifies
 (I) a place between Mecca and Medina where the Prophet won his memorable
 victory over the Meccan idolaters in <span class="smallcaps">a.d.</span>
@@ -1453,21 +1453,21 @@ saints. The poet says that the men of Badr, *i.e.*, the noble company of
 mystics, journey not so much in the light which phenomena derive from
 Reality as in the light of Reality itself.
 
-<span id="fn_552"></span>[174:2](siim17.htm#fr_554) Material beauty is
+<span id="fn_552"></span>[174:2](siim17.htm#fr_554.md) Material beauty is
 not worthy to be loved except in so far as it is one of the ideas
 (attributes and manifestations) of Absolute Beauty.
 
-<span id="fn_553"></span>[174:3](siim17.htm#fr_555) When God withdraws
+<span id="fn_553"></span>[174:3](siim17.htm#fr_555.md) When God withdraws
 Himself (from the inward eye of the mystic), He still lays His commands
 on the soul, so that it performs its predestined good and evil works.
 
-<span id="fn_554"></span>[174:4](siim17.htm#fr_556) Divine Love sweeps
+<span id="fn_554"></span>[174:4](siim17.htm#fr_556.md) Divine Love sweeps
 away the conventional standards of truth and right and honour.
 
-<span id="fn_555"></span>[176:1](siim17.htm#fr_557) *Díwán*, p. 331
+<span id="fn_555"></span>[176:1](siim17.htm#fr_557.md) *Díwán*, p. 331
 foll.
 
-<span id="fn_556"></span>[176:2](siim17.htm#fr_558) *Ibid*. p. 347, 1. 6
+<span id="fn_556"></span>[176:2](siim17.htm#fr_558.md) *Ibid*. p. 347, 1. 6
 foll. Cf. Shelley, *Epipsychidion*:
 
                              In solitudes  
@@ -1479,103 +1479,103 @@ And from the rain of every passing cloud,
 And from the singing of the summer birds,  
 And from all sounds, all silence.
 
-<span id="fn_557"></span>[177:1](siim17.htm#fr_559) *Ibid*. p. 173. It
+<span id="fn_557"></span>[177:1](siim17.htm#fr_559.md) *Ibid*. p. 173. It
 is true, as Prof. Nallino has observed (*op. cit.* p. 16), that some
 odes are less artificial in style than others.
 
-<span id="fn_558"></span>[177:2](siim17.htm#fr_560) *Ibid*. p. 467.
+<span id="fn_558"></span>[177:2](siim17.htm#fr_560.md) *Ibid*. p. 467.
 
-<span id="fn_559"></span>[177:3](siim17.htm#fr_561) *Ibid*. p. 165.
+<span id="fn_559"></span>[177:3](siim17.htm#fr_561.md) *Ibid*. p. 165.
 
-<span id="fn_560"></span>[177:4](siim17.htm#fr_562) *Ibid*. p. 108.
+<span id="fn_560"></span>[177:4](siim17.htm#fr_562.md) *Ibid*. p. 108.
 
-<span id="fn_561"></span>[177:5](siim17.htm#fr_563) *Ibid*. p. 278.
+<span id="fn_561"></span>[177:5](siim17.htm#fr_563.md) *Ibid*. p. 278.
 
-<span id="fn_562"></span>[178:1](siim17.htm#fr_564) *Díwán*, p. 410.
+<span id="fn_562"></span>[178:1](siim17.htm#fr_564.md) *Díwán*, p. 410.
 
-<span id="fn_563"></span>[178:2](siim17.htm#fr_565) *Ibid*. p. 384.
+<span id="fn_563"></span>[178:2](siim17.htm#fr_565.md) *Ibid*. p. 384.
 
-<span id="fn_564"></span>[178:3](siim17.htm#fr_566) *Ibid*. p. 391 foll.
+<span id="fn_564"></span>[178:3](siim17.htm#fr_566.md) *Ibid*. p. 391 foll.
 
-<span id="fn_565"></span>[178:4](siim17.htm#fr_567) "Patience without
+<span id="fn_565"></span>[178:4](siim17.htm#fr_567.md) "Patience without
 you," *i.e.* in bearing your separation from me; "patience with you,"
 *i.e.* in bearing the pain which you, as the object of my love, cause me
 to suffer.
 
-<span id="fn_566"></span>[178:5](siim17.htm#fr_568) *Díwán*, p. 402.
+<span id="fn_566"></span>[178:5](siim17.htm#fr_568.md) *Díwán*, p. 402.
 
-<span id="fn_567"></span>[179:1](siim17.htm#fr_569) The poet was rapt in
+<span id="fn_567"></span>[179:1](siim17.htm#fr_569.md) The poet was rapt in
 contemplation of the Beloved and could not bandy words with his critic.
 
-<span id="fn_568"></span>[179:2](siim17.htm#fr_570) *I.e.* by convincing
+<span id="fn_568"></span>[179:2](siim17.htm#fr_570.md) *I.e.* by convincing
 my "blamer" of the error of his ways I acquired as much religious merit
 as by making the pilgrimage to Mecca. It is meritorious to combine the
 greater pilgrimage (*ḥajj*) with the lesser pilgrimage (*‘umra*).
 
-<span id="fn_569"></span>[179:3](siim17.htm#fr_571) Rajab is the seventh
+<span id="fn_569"></span>[179:3](siim17.htm#fr_571.md) Rajab is the seventh
 and al-Muḥarram the first month of the Mohammedan year.
 
-<span id="fn_570"></span>[179:4](siim17.htm#fr_572) *I.e.* inconstancy.
+<span id="fn_570"></span>[179:4](siim17.htm#fr_572.md) *I.e.* inconstancy.
 
-<span id="fn_571"></span>[179:5](siim17.htm#fr_573) *Díwán*, p. 179
+<span id="fn_571"></span>[179:5](siim17.htm#fr_573.md) *Díwán*, p. 179
 foll. The last verse alludes to the manna and quails which dropped from
 heaven upon the Israelites (Kor. 2, 54). In the original there is a
 double word-play: *mann* (separation), *mann* (manna), *salwat*
 (forgetfulness), *salwá* (quails).
 
-<span id="fn_572"></span>[180:1](siim17.htm#fr_574) *Díwán*, p. 443
+<span id="fn_572"></span>[180:1](siim17.htm#fr_574.md) *Díwán*, p. 443
 foll.
 
-<span id="fn_573"></span>[180:2](siim17.htm#fr_575) *I.e.* the image or
+<span id="fn_573"></span>[180:2](siim17.htm#fr_575.md) *I.e.* the image or
 vision of the Beloved which appears when his name is pronounced by the
 "blamer."
 
-<span id="fn_574"></span>[180:3](siim17.htm#fr_576) As camels bring the
+<span id="fn_574"></span>[180:3](siim17.htm#fr_576.md) As camels bring the
 beloved to the lover's eye, so reproof brings him to the lover's ear.
 
-<span id="fn_575"></span>[180:4](siim17.htm#fr_577) *Díwán*, p. 275
+<span id="fn_575"></span>[180:4](siim17.htm#fr_577.md) *Díwán*, p. 275
 foll. Cf. p. 346, l. 5, and p. 429, l. 27—p. 420, l. 6.
 
-<span id="fn_576"></span>[181:1](siim17.htm#fr_578) *Ibid*. p. 370, 1.
+<span id="fn_576"></span>[181:1](siim17.htm#fr_578.md) *Ibid*. p. 370, 1.
 22.
 
-<span id="fn_577"></span>[181:2](siim17.htm#fr_579) The Arabic word for
+<span id="fn_577"></span>[181:2](siim17.htm#fr_579.md) The Arabic word for
 rocks (*ṣafá*) is also the name of a peak near Mecca, and this may be
 its meaning here.
 
-<span id="fn_578"></span>[182:1](siim17.htm#fr_580) Reading with the
+<span id="fn_578"></span>[182:1](siim17.htm#fr_580.md) Reading with the
 commentator *ḥayá* instead of *ḥibá*.
 
-<span id="fn_579"></span>[182:2](siim17.htm#fr_581) *Díwán*, p. 297
+<span id="fn_579"></span>[182:2](siim17.htm#fr_581.md) *Díwán*, p. 297
 foll.
 
-<span id="fn_580"></span>[182:3](siim17.htm#fr_582) This is quite
+<span id="fn_580"></span>[182:3](siim17.htm#fr_582.md) This is quite
 different, of course, from the pictorial treatment of desert life and
 scenery which we find in the pre-Islamic odes.
 
-<span id="fn_581"></span>[182:4](siim17.htm#fr_583) Reading <span
+<span id="fn_581"></span>[182:4](siim17.htm#fr_583.md) Reading <span
 id="img_18200"></span> ![](img/18200.jpg).
 
-<span id="fn_582"></span>[183:1](siim17.htm#fr_584) *Díwán*, pp.
+<span id="fn_582"></span>[183:1](siim17.htm#fr_584.md) *Díwán*, pp.
 429-441.
 
-<span id="fn_583"></span>[183:2](siim17.htm#fr_585) *Ibid*. p. 6.
+<span id="fn_583"></span>[183:2](siim17.htm#fr_585.md) *Ibid*. p. 6.
 
-<span id="fn_584"></span>[183:3](siim17.htm#fr_586) *Ibid*. p. 70. "The
+<span id="fn_584"></span>[183:3](siim17.htm#fr_586.md) *Ibid*. p. 70. "The
 two least parts" are the heart and the tongue.
 
-<span id="fn_585"></span>[183:4](siim17.htm#fr_587) *Ibid*. p. 160, l.
+<span id="fn_585"></span>[183:4](siim17.htm#fr_587.md) *Ibid*. p. 160, l.
 24 foll.
 
-<span id="fn_586"></span>[184:1](siim17.htm#fr_588) *Díwán*, p. 472
+<span id="fn_586"></span>[184:1](siim17.htm#fr_588.md) *Díwán*, p. 472
 foll.
 
-<span id="fn_587"></span>[184:2](siim17.htm#fr_589). The soul was
+<span id="fn_587"></span>[184:2](siim17.htm#fr_589.md). The soul was
 intoxicated with the wine of Divine Love (*i.e.* was rapt in
 contemplation of God) during its pre-existence in the eternal knowledge
 of God before the body was created.
 
-<span id="fn_588"></span>[184:3](siim17.htm#fr_590) The full-moon is the
+<span id="fn_588"></span>[184:3](siim17.htm#fr_590.md) The full-moon is the
 Perfect Man, *i.e.* the gnostic or saint in whom God reveals Himself
 completely and who is, as it were, filled with Divine Love. The new moon
 is the gnostic veiled by his individuality, so that he manifests only a
@@ -1586,7 +1586,7 @@ contemplation is blended with the element of religion, the seeker of God
 obtains spiritual direction and is like a traveller guided by the stars
 in his night-journey.
 
-<span id="fn_589"></span>[184:4](siim17.htm#fr_591) N.'s commentary on
+<span id="fn_589"></span>[184:4](siim17.htm#fr_591.md) N.'s commentary on
 this verse is characteristically recondite. He interprets "its perfume"
 as the sphere of the Primal Intelligence, whence emanate all created
 things; "its taverns" as the Divine Names and Attributes; "its
@@ -1594,39 +1594,39 @@ resplendence" as the human intellect, which is a flash of the Primal
 Intelligence. Divine Love, being of the essence of God, has no form
 except in the imagination.
 
-<span id="fn_590"></span>[185:1](siim17.htm#fr_592) "Time," *i.e.* the
+<span id="fn_590"></span>[185:1](siim17.htm#fr_592.md) "Time," *i.e.* the
 world of change. The second hemistich may be rendered literally: "’tis
 as though its occultation were a concealment in the breasts of (human)
 minds."
 
-<span id="fn_591"></span>[185:2](siim17.htm#fr_593) "The tribesmen,"
+<span id="fn_591"></span>[185:2](siim17.htm#fr_593.md) "The tribesmen,"
 *i.e.* mystics capable of receiving illumination.
 
-<span id="fn_592"></span>[185:3](siim17.htm#fr_594) This verse describes
+<span id="fn_592"></span>[185:3](siim17.htm#fr_594.md) This verse describes
 the gradual fading of ecstasy from the heart of the mystic.
 
-<span id="fn_593"></span>[185:4](siim17.htm#fr_595) I need not trouble
+<span id="fn_593"></span>[185:4](siim17.htm#fr_595.md) I need not trouble
 my readers with the detailed allegorical analysis to which the
 commentator subjects this and the next nine verses. They explain
 themselves, if taken as a fanciful description of the miracles wrought
 by Divine Love.
 
-<span id="fn_594"></span>[186:1](siim17.htm#fr_596) The *fidám* is a
+<span id="fn_594"></span>[186:1](siim17.htm#fr_596.md) The *fidám* is a
 strainer placed over the mouth of the bottle, so that the wine may run
 clear.
 
-<span id="fn_595"></span>[186:2](siim17.htm#fr_597) Vv. 23-30 are
+<span id="fn_595"></span>[186:2](siim17.htm#fr_597.md) Vv. 23-30 are
 wanting in the commentary of Búríní and may have been inserted in the
 poem by a copyist. See Nallino, *op. cit.* p. 31, note I. Divine Love,
 as the eternal source of all created things, is logically prior to them,
 although it does not precede them in time, which itself is created.
 
-<span id="fn_596"></span>[186:3](siim17.htm#fr_598) Inasmuch as real
+<span id="fn_596"></span>[186:3](siim17.htm#fr_598.md) Inasmuch as real
 being belongs to God alone, mystical union cannot be likened to the
 permeation of one body by another, as when water is absorbed by a
 sponge.
 
-<span id="fn_597"></span>[186:4](siim17.htm#fr_599) This enigmatic verse
+<span id="fn_597"></span>[186:4](siim17.htm#fr_599.md) This enigmatic verse
 refers to Being under its two aspects. Wine signifies pure being, vine
 phenomenal being. In so far as man is related to the Divine Spirit (here
 identified with Adam, whom God "created in His own <span
@@ -1634,17 +1634,17 @@ id="page_187">p. 187</span> image"), he is pure reality; but in so far
 as he belongs to Nature, he is unreal. "Its mother" is the mother of
 wine, *i.e.* the vine, which is a symbol for the material world.
 
-<span id="fn_598"></span>[187:1](siim17.htm#fr_600) The "vessels" are
+<span id="fn_598"></span>[187:1](siim17.htm#fr_600.md) The "vessels" are
 the phenomenal forms by which real being is manifested. They are
 "subtle," *i.e.* spiritual, because every such form is the veil of a
 reality. These realities "increase," *i.e.* appear as the Many, by means
 of the forms which our senses perceive.
 
-<span id="fn_599"></span>[187:2](siim17.htm#fr_601) Absolute Being or
+<span id="fn_599"></span>[187:2](siim17.htm#fr_601.md) Absolute Being or
 God or Divine Love—all these terms are the same in essence—is not
 conditioned by time.
 
-<span id="fn_600"></span>[187:3](siim17.htm#fr_602) *I.e.* it was an
+<span id="fn_600"></span>[187:3](siim17.htm#fr_602.md) *I.e.* it was an
 orphan before the beginning of fatherhood. This, I think, is merely a
 paradox indicating the timeless nature of reality. The word "orphanhood"
 (*yutm*) may allude to Mohammed (cf. note on the *Tá’iyya*, *vv*.
@@ -1657,7 +1657,7 @@ Absolute; and its "death" leaves the Absolute, *i.e.* the phenomenal
 world regarded as the other self of the Absolute, "an orphan in the
 bosom of its mother Nature."
 
-<span id="fn_601"></span>[187:4](siim17.htm#fr_603) Moslems associate
+<span id="fn_601"></span>[187:4](siim17.htm#fr_603.md) Moslems associate
 with Christianity the beverage forbidden by their own religion. When
 their poets describe a wine-party, the scene is often laid in the
 neighbourhood of a Christian monastery (*dayr*). Ibnu ’l-Fáriḍ says that
@@ -1665,44 +1665,44 @@ the Christians became intoxicated without having drunk, *i.e.* their
 doctrine that God reveals Himself in Christ is only a glimpse of the
 truth, <span id="page_188">p. 188</span> which is fully realised by
 Moslem saints, that God reveals Himself in every atom of existence. Cf.
-the *Tá’iyya*, *v*. 730 foll. and [p. 140](siim14.htm#page_140) *supra*.
+the *Tá’iyya*, *v*. 730 foll. and [p. 140](siim14.htm#page_140.md) *supra*.
 
-<span id="fn_602"></span>[188:1](siim17.htm#fr_604) *I.e.* seek to
+<span id="fn_602"></span>[188:1](siim17.htm#fr_604.md) *I.e.* seek to
 contemplate the Divine Essence alone, or if you must seek anything
 besides, let it be the first and highest manifestation of that Essence,
 namely, the Spirit or Light of Mohammed, which is figuratively called
 "the water of the Beloved's teeth."
 
-<span id="fn_603"></span>[188:2](siim17.htm#fr_605) The Ṣúfís have
+<span id="fn_603"></span>[188:2](siim17.htm#fr_605.md) The Ṣúfís have
 always known the value of music as a means of inducing ecstasy. Cf. The
 *Mystics of Islam*, p. 63 foll.; D. B. Macdonald, *Emotional Religion in
 Islam as affected by Music and Singing* in the *Journal of the Royal
 Asiatic Society*, 1901, pp. 195 foll. and 748 foll., and 1902, p. 1
 foll.
 
-<span id="fn_604"></span>[188:3](siim17.htm#fr_606) P. [165](#page_165),
-note [2](#fn_530).
+<span id="fn_604"></span>[188:3](siim17.htm#fr_606) P. [165](#page_165.md),
+note [2](#fn_530.md).
 
-<span id="fn_605"></span>[189:1](siim17.htm#fr_607) See *v*. 679 of the
+<span id="fn_605"></span>[189:1](siim17.htm#fr_607.md) See *v*. 679 of the
 prose translation *infra*.
 
-<span id="fn_606"></span>[190:1](siim17.htm#fr_608) "The forms of
+<span id="fn_606"></span>[190:1](siim17.htm#fr_608.md) "The forms of
 things," *i.e.* the puppets, typify phenomena, which in themselves are
 lifeless and passive: all their life and activity is the effect of the
 manifestation in them of the actions and attributes of Reality.
 
-<span id="fn_607"></span>[190:2](siim17.htm#fr_609) The Greek fire to
+<span id="fn_607"></span>[190:2](siim17.htm#fr_609.md) The Greek fire to
 which Von Hammer finds an allusion here is, I think, an *ignis fatuus*.
 
-<span id="fn_608"></span>[190:3](siim17.htm#fr_610) The genies (*Jinn*)
+<span id="fn_608"></span>[190:3](siim17.htm#fr_610) The genies (*Jinn*.md)
 are described as ethereal creatures, endowed with speech, transparent
 (so that they are normally invisible), and capable of assuming various
 shapes.
 
-<span id="fn_609"></span>[191:1](siim17.htm#fr_611) *Tá’iyya*, *vv*.
+<span id="fn_609"></span>[191:1](siim17.htm#fr_611.md) *Tá’iyya*, *vv*.
 680-706.
 
-<span id="fn_610"></span>[192:1](siim17.htm#fr_612) W. Y. Sellar, *The
+<span id="fn_610"></span>[192:1](siim17.htm#fr_612.md) W. Y. Sellar, *The
 Roman poets of the Republic*, p. 403. I give Munro's translation: "Again
 when mighty legions fill with their movements all parts of the plains,
 waging the mimicry of war, the glitter then lifts itself up to the sky,
@@ -1714,12 +1714,12 @@ shaking them with the vehemence of their charge. And yet there is some
 place on the high hills, seen from which they appear to stand still and
 to rest on the plains as a bright spot."
 
-<span id="fn_611"></span>[192:2](siim17.htm#fr_613) *Tá’iyya*, *v*. 489.
+<span id="fn_611"></span>[192:2](siim17.htm#fr_613.md) *Tá’iyya*, *v*. 489.
 
-<span id="fn_612"></span>[193:1](siim17.htm#fr_614) *Tá’iyya*, *vv*.
+<span id="fn_612"></span>[193:1](siim17.htm#fr_614.md) *Tá’iyya*, *vv*.
 395-6.
 
-<span id="fn_613"></span>[193:2](siim17.htm#fr_615) *E.g.* emanation
+<span id="fn_613"></span>[193:2](siim17.htm#fr_615.md) *E.g.* emanation
 (*fayḍ*) in *vv*. 403-5. The spiritual and sensible worlds derive their
 life from Universal Spirit and Universal Soul (*v*. 405; cf. *v*. 492).
 In *v*. 455 the Ḥallájian terms, *láhút* (divinity) and *násút*
@@ -1733,4 +1733,4 @@ being directly influenced by him in any considerable degree.
 
 ------------------------------------------------------------------------
 
-[Next: Argument](siim18)
+[Next: Argument](siim18.md)

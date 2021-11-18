@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws73)  [Next](cws75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws73)  [Next](cws75.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@
 
 <span id="page_177">p. 177</span>
 
-#### CONCERNING THE DIVINE IMAGE, OR THE VISION OF ADONAI <span id="fr_226"></span>[1](#fn_226)
+#### CONCERNING THE DIVINE IMAGE, OR THE VISION OF ADONAI <span id="fr_226"></span>[1](#fn_226.md)
 
 \[Owing at once to the sanctity and the unpronounceability of the
 *Tetragrammaton*, or word of four letters which in the Hebrew
@@ -82,7 +82,7 @@ such objects is because he is the image beheld in the point of the focus
 formed by the convergence of all the consciousnesses of the system and
 their polarisation to the highest plane. Beyond him is the "Invisible
 Light,"--the "Divine Dark" of the early Christian mystics <span
-id="fr_227"></span>[1](#fn_227)--the boundless sea of infinite wisdom,
+id="fr_227"></span>[1](#fn_227.md)--the boundless sea of infinite wisdom,
 love, and power, informulate and unmanifest, the universally-diffused
 divinity; impersonal in the radical sense of the word, but personal in
 the highest degree in its true sense, that of essential consciousness;
@@ -110,18 +110,18 @@ The vision about to be described of Adonai, was received without any
 previous knowledge on the part of its recipient, either of its
 possibility, or of its having always been claimed as a recognised fact
 of mystical experience, the allusions to it in the Bible, <span
-id="fr_228"></span>[2](#fn_228) although
+id="fr_228"></span>[2](#fn_228.md) although
 
 <span id="page_179">p. 179</span>
 
 by no means rare, having altogether escaped her recognition as having
 any real basis in the consciousness. <span
-id="fr_229"></span>[1](#fn_229) On this occasion she had been forewarned
+id="fr_229"></span>[1](#fn_229.md) On this occasion she had been forewarned
 of something of unusual solemnity as about to occur, and prompted to
 make certain ceremonial preparations obviously calculated to impress the
 imagination. The access came upon her while standing by the open window,
 gazing at the moon, then close upon the full. <span
-id="fr_230"></span>[2](#fn_230) The first effect of the *affiatus* was
+id="fr_230"></span>[2](#fn_230.md) The first effect of the *affiatus* was
 to cause her to kneel and pray in a rapt attitude, with her arms
 extended towards the sky. It appeared afterwards, that under an access
 of spiritual exaltation, she had yielded to a sudden and uncontrollable
@@ -134,7 +134,7 @@ intolerable splendour of the vision she had unwittingly invited\]:--
 
 "Oh, I see masses, masses of stars! It makes me giddy to look at them. O
 my God, what masses! Millions and millions! Wheels of planets! <span
-id="fr_231"></span>[3](#fn_231) O my God, my God, why didst Thou create?
+id="fr_231"></span>[3](#fn_231.md) O my God, my God, why didst Thou create?
 It was by Will, all Will, that Thou didst it. Oh! what might, what might
 of Will! Oh, what gulfs! what gulfs! Millions and millions of miles
 broad and deep! Hold me--hold me up! I shall sink--I shall sink into the
@@ -146,20 +146,20 @@ sink--I fail! I cannot, cannot bear it!
 believe I am dead. Impossible to return from such a distance! Oh, what
 colossal forms! They are the angels of the planets. Every planet has its
 angel standing erect above it. And what beauty--what marvellous beauty!
-I see Raphael. <span id="fr_232"></span>[1](#fn_229)
+I see Raphael. <span id="fr_232"></span>[1](#fn_229.md)
 
 <span id="page_180">p. 180</span>
 
 see the angel of the earth. He has six wings. He is a god--the god of
 our planet. I see my genius who called himself A. Z.; but his name is
-Salathiel. <span id="fr_233"></span>[1](#fn_232) Oh, how surpassingly
+Salathiel. <span id="fr_233"></span>[1](#fn_232.md) Oh, how surpassingly
 beautiful he is! My genius is a male, and his colour is ruby. Yours,
-Caro, <span id="fr_234"></span>[2](#fn_233) is a female, and sapphire.
+Caro, <span id="fr_234"></span>[2](#fn_233.md) is a female, and sapphire.
 They are friends--they are the same--not two, but one; and for that
 reason they have associated us together, and speak of themselves
 sometimes as I, sometimes as We. It is the angel of the earth himself
 that is your genius and mine, Caro. He it was who inspired you, who
-spoke to you. <span id="fr_235"></span>[3](#fn_234) And they call me
+spoke to you. <span id="fr_235"></span>[3](#fn_234.md) And they call me
 Bitterness. And I see sorrow-oh, what unending sorrow do I behold!
 Sorrow, always sorrow, but never without love. I shall always have love.
 How dim is this sphere! Oh, save me--save me! It is my demon that I am
@@ -167,7 +167,7 @@ approaching. It is Paris--Paris himself, once of Troy, now of the city
 that bears his name. He is floating recumbent. He turns his face towards
 me. How beautiful and dark he is! Oh, he has goat's horns--he has goat's
 horns! Save me, save me from him! Ah, he sees me not. I forgot I am
-invisible. Now I have passed him. <span id="fr_236"></span>[4](#fn_235)
+invisible. Now I have passed him. <span id="fr_236"></span>[4](#fn_235.md)
 
 "I am entering a brighter region now. What glorious form of womanhood is
 that, so queenly, so serene, and endowed with all wisdom? It is Pallas
@@ -285,16 +285,16 @@ Ancient Hermetic Formula.
 
 ### Footnotes
 
-<span id="fn_226"></span>[177:1](cws74.htm#fr_226) Referred to in *Life
+<span id="fn_226"></span>[177:1](cws74.htm#fr_226.md) Referred to in *Life
 of Anna Kingsford*, vol. i, pp. 184-190. 193.
 
-<span id="fn_227"></span>[178:1](cws74.htm#fr_227) *E.g.* St Dionysius
+<span id="fn_227"></span>[178:1](cws74.htm#fr_227.md) *E.g.* St Dionysius
 "the Areopagite."
 
-<span id="fn_228"></span>[178:2](cws74.htm#fr_228) Ex. xxiv, 9-11; Is.
+<span id="fn_228"></span>[178:2](cws74.htm#fr_228.md) Ex. xxiv, 9-11; Is.
 vi, i; Ezek. viii, 2; Dan. vii, 9, 10; Apoc. iv; xx, 11.
 
-<span id="fn_229"></span>[179:1](cws74.htm#fr_232) The reception of it
+<span id="fn_229"></span>[179:1](cws74.htm#fr_232.md) The reception of it
 by myself a few months previously had been similarly independent of
 knowledge or anticipation, and I had been constrained to maintain an
 absolute reserve in regard to it. The account in *The Perfect Way* (IX.
@@ -306,10 +306,10 @@ observe and record at the same time, and not knowing the result of
 letting myself go altogether.    E. M. See *Life of Anna Kingsford*,
 vol. i, pp. 124-127.
 
-<span id="fn_230"></span>[179:2](cws74.htm#fr_230) It was at Paris, July
+<span id="fn_230"></span>[179:2](cws74.htm#fr_230.md) It was at Paris, July
 23, 1877.
 
-<span id="fn_231"></span>[179:3](cws74.htm#fr_231) It was as if there
+<span id="fn_231"></span>[179:3](cws74.htm#fr_231.md) It was as if there
 had been suddenly opened to her view a universe of inter-planetary
 systems, invisible to the bodily sight; and while dazzlingly bright to
 the spiritual eyes, of a consistency too tenuous to intercept or refract
@@ -317,7 +317,7 @@ the solar rays. A like effect would also be produced by entering the
 fourth dimension of space, where all things would be beheld unmodified
 by distance or any intervening medium. E. M.
 
-<span id="fn_232"></span>[180:1](cws74.htm#fr_233) "Lent of God." Every
+<span id="fn_232"></span>[180:1](cws74.htm#fr_233.md) "Lent of God." Every
 divinity has a separate name for each office fulfilled by him. Salathiel
 thus denotes the angel of the earth in his capacity as head of the order
 of Genii, in the sense of being the supreme spirit (of the planet) of
@@ -327,15 +327,15 @@ alphabet, A and Z, correspond to the "Alpha and Omega," in the sense of
 implying comprehension of the genii of all orders or grades, and
 consequently all the rays of the spiritual prism.    E. M.
 
-<span id="fn_233"></span>[180:2](cws74.htm#fr_234) A spiritual or
+<span id="fn_233"></span>[180:2](cws74.htm#fr_234.md) A spiritual or
 "initiation" name that had been given to me, as Mary to her. The latter,
 however, was also one of her own names.    E. M.
 
-<span id="fn_234"></span>[180:3](cws74.htm#fr_235) The reference here is
+<span id="fn_234"></span>[180:3](cws74.htm#fr_235.md) The reference here is
 to an experience, of my own, the relation of which does not fall within
 the scope of this book.    E. M.
 
-<span id="fn_235"></span>[180:4](cws74.htm#fr_236) 'The reference here
+<span id="fn_235"></span>[180:4](cws74.htm#fr_236.md) 'The reference here
 is to sundry visitations by which she had been harassed previous to my
 joining her in the cause of which she thus recognised for the first
 time, and whom she was wont to call her demon, using the term in its
@@ -343,4 +343,4 @@ conventional sense.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](cws75)
+[Next: Appendix](cws75.md)

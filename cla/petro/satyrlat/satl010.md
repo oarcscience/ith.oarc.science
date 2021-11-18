@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat02.htm#X)  [Previous](satl009) 
-[Next](satl011) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat02.htm#X)  [Previous](satl009.md) 
+[Next](satl011.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ reducerem. &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: XI](satl011)
+[Next: XI](satl011.md)

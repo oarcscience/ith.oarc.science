@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar022) [Next](gbar024)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar022) [Next](gbar024.md)
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ sepulchres, ye shall know what flesh is.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar024)
+[Next](gbar024.md)
 
  
 

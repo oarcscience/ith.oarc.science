@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck25)  [Next](peck27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck25)  [Next](peck27.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ difficulty in distinguishing the flower he loved.
 
 ------------------------------------------------------------------------
 
-[Next: The First Crayfish](peck27)
+[Next: The First Crayfish](peck27.md)

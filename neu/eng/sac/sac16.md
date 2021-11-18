@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac15)  [Next](sac17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac15)  [Next](sac17.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,14 +16,14 @@ Considered*, by Norman Lockyer, \[1906\], at Intangible Textual Heritage
 
 ### STENNESS (Lat. 597 N.)
 
-I WROTE a good deal in *Nature* <span id="fr_19"></span>[1](#fn_19) on
+I WROTE a good deal in *Nature* <span id="fr_19"></span>[1](#fn_19.md) on
 sun and star temples in 1891, and Mr. Lewis the next year expressed the
 opinion that the British stone monuments, or some of them, were sun and
 star temples.
 
 Mr. Magnus Spence, of Deerness, in Orkney, published a pamphlet,
 "Standing Stones and Maeshowe of Stenness," <span
-id="fr_20"></span>[2](#fn_20) in 1894; it is a reprint of an article in
+id="fr_20"></span>[2](#fn_20.md) in 1894; it is a reprint of an article in
 the *Scottish Review*, October, 1893, showing that the stones were set
 up for solar worship. Mr. Cursiter, F.S.A., of Kirkwall, in a letter to
 me dated March 15, 1894, a letter suggested by my "Dawn of Astronomy,"
@@ -43,7 +43,7 @@ the Stenness circles might throw light on the question of an earlier
 [![FIG. 38.—Maeshowe, in the foreground, and the Stones of Stenness.
 From “Notice of Runic Inscriptions,” by James Farrer, M.P.
 (1862).](tn/fig38.jpg)  
-Click to enlarge](img/fig38.jpg)  
+Click to enlarge](img/fig38.jpg.md)  
 FIG. 38.—Maeshowe, in the foreground, and the Stones of Stenness. From
 “Notice of Runic Inscriptions,” by James Farrer, M.P. (1862).  
 
@@ -85,7 +85,7 @@ astronomer and the priest were one.
 
 [![FIG. 39.—Copy of Ordinance Map showing chief sight-lines from the
 stones of Stenness.](tn/fig39.jpg)  
-Click to enlarge](img/fig39.jpg)  
+Click to enlarge](img/fig39.jpg.md)  
 FIG. 39.—Copy of Ordinance Map showing chief sight-lines from the stones
 of Stenness.  
 
@@ -101,7 +101,7 @@ May year was the first established, and that the solstitial (June) year,
 came afterwards, and this was one of the chief questions I had in view.
 
 I will begin with, the May year. I have already shown, [p.
-22](sac06.htm#page_22), that the half-way time between an equinox and a
+22](sac06.htm#page_22.md), that the half-way time between an equinox and a
 solstice is when the sun's centre has a declination approximately 16°
 20´ N. or S. In Orkney, with the latitude of 59°, assuming a sea
 horizon, the approximate amplitude of sunrise or sunset is 33° 6´; the
@@ -138,7 +138,7 @@ orientation connected with the May year at the stones of Stenness. The
 November sunset is provided for by a sight-line from the circle to a
 stone across the Loch of Stenness with an azimuth of S. 53° 30´ W.
 
-To apply the table, given on p. [120](sac15.htm#img_12000), to the
+To apply the table, given on p. [120](sac15.htm#img_12000.md), to the
 solstitial risings and settings at Stenness, and the sight-lines which I
 have plotted on the map, it will be seen that the table shows us that
 the lines marked
@@ -174,7 +174,7 @@ made an attempt to determine this value with a sextant in 1899, but not
 from the Barnstone.
 
 In the absence of this observation we may use the diagram given on p.
-[121](sac15.htm#img_fig37). With the height of hill previously given the
+[121](sac15.htm#img_fig37.md). With the height of hill previously given the
 sun should rise according to calculation at about the azimuth N. 41 50´
 E.
 
@@ -185,7 +185,7 @@ gives us the difference of date.
 Treating these figures then as we have done in the case of Stonehenge
 in. Chapter VII, the result is as follows. The Barnhouse-Maeshowe line
 was established about 700 B.C., when the obliquity had in value of 23°
-48´ according to Stockwell's tables. ([Fig. 40](#img_fig40).)
+48´ according to Stockwell's tables. ([Fig. 40](#img_fig40)..md)
 
 I confess the late date does not surprise me. The masonry of Maeshowe
 differs widely from that of other similar structures in that the sides
@@ -206,7 +206,7 @@ the alignment of the passage to the
 
 [![FIG. 40.—Variation of the Obliquity of the Ecliptic, 100 A.D.-4000
 B.C.&lt;br&gt; (Stockwell's Values.)](tn/fig40.jpg)  
-Click to enlarge](img/fig40.jpg)  
+Click to enlarge](img/fig40.jpg.md)  
 FIG. 40.—Variation of the Obliquity of the Ecliptic, 100 A.D.-4000
 B.C.  
 (Stockwell's Values.)  
@@ -274,12 +274,12 @@ sky-line towards the N. point is not very high.
 
 ### Footnotes
 
-<span id="fn_19"></span>[123:1](sac16.htm#fr_19) See especially
+<span id="fn_19"></span>[123:1](sac16.htm#fr_19.md) See especially
 *Nature*, July 2, 1891, p. 201.
 
-<span id="fn_20"></span>[123:2](sac16.htm#fr_20) Gardner: Paisley and
+<span id="fn_20"></span>[123:2](sac16.htm#fr_20.md) Gardner: Paisley and
 London.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. The Hurlers](sac17)
+[Next: Chapter XIV. The Hurlers](sac17.md)

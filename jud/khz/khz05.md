@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](khz04)  [Next](khz06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](khz04)  [Next](khz06.md) 
 
 ------------------------------------------------------------------------
 
@@ -485,7 +485,7 @@ the intellect to the Creator, the relation of the soul to the intellect,
 the relation of nature to the soul, the relation of matter and form to
 nature, the relation of the spheres, stars and other phenomena to matter
 and form. Then we must consider why they are constructed with such
-differences of sequence, <span id="fr_1"></span>[\*](#fn_1) the
+differences of sequence, <span id="fr_1"></span>[\*](#fn_1.md) the
 knowledge of divine guidance, of universal nature, of divine providence.
 The rational soul sometimes derives certain forms from the senses by
 applying to its own needs perception and memory, and making use of
@@ -1132,7 +1132,7 @@ fares well, and suffers no loss. He, however, who courts danger
 16), in spite of his confidence in God. But if one considers it absurd)
 to give commands to a person who, as he knows beforehand, may either
 disobey or obey him, this is not absurd. We have shown
-[previously](errata.htm#14) that disobedience and obedience depend upon
+[previously](errata.htm#14.md) that disobedience and obedience depend upon
 intermediary causes. The cause of obedience is the command for it. \[The
 obeying person knew beforehand that he would do so and that the cause of
 it was that he had heard reproof.\] He also keeps in mind that
@@ -1151,7 +1151,7 @@ THE FIRST PRINCIPLE, containing the confirmation
 <span id="page_287">p. 287</span>
 
 of the above-mentioned advice, establishes the
-[existence](errata.htm#15) of the Prime Cause. God is the wise Creator,
+[existence](errata.htm#15.md) of the Prime Cause. God is the wise Creator,
 in whose works nothing is useless. They are all founded upon His wisdom
 and an order which suffers no deterioration. Whoever contemplates this
 must find the conviction of the greatness of His creation deeply rooted
@@ -1248,8 +1248,8 @@ victory, good and bad fortune, etc.
 
 ### Footnotes
 
-<span id="fn_1"></span>[264:\*](khz05.htm#fr_1) Lit. earlier and later.
+<span id="fn_1"></span>[264:\*](khz05.htm#fr_1.md) Lit. earlier and later.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion of the Book](khz06)
+[Next: Conclusion of the Book](khz06.md)

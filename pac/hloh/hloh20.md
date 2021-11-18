@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh19)  [Next](hloh21) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh19)  [Next](hloh21.md) 
 
 ------------------------------------------------------------------------
 
@@ -228,4 +228,4 @@ afterward befriend the family."
 
 ------------------------------------------------------------------------
 
-[Next: XVII. The Bird-man of Nuuanu Valley](hloh21)
+[Next: XVII. The Bird-man of Nuuanu Valley](hloh21.md)

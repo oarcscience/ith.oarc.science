@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass01)  [Next](nass03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass01)  [Next](nass03.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,14 +26,14 @@ and the following texts were collected incidentally only. The ethnologic
 results of these investigations were published in the reports of the
 Committee on the Northwestern Tribes of Canada of the British
 Association for the Advancement of Science. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 The texts are in the Nass River dialect of the Tsimshian language. The
 dialect is called by the natives Nîsqa'E. The texts were obtained from
 four individuals--Philip, Moses, Chief Mountain, and Moody. By far the
 greater number of them are myths of the tribe. Judging from similar
 myths which I collected in previous years among the Tsimshian
-proper, <span id="fr_1"></span>[2](#fn_1) they are only moderately well
+proper, <span id="fr_1"></span>[2](#fn_1.md) they are only moderately well
 told.
 
 Possibly the method of transcribing sounds is not quite satisfactory. I
@@ -175,14 +175,14 @@ NEW YORK, *June, 1899*.
 
 ### Footnotes
 
-<span id="fn_0"></span>[5:1](nass02.htm#fr_0) Report of the 65th meeting
+<span id="fn_0"></span>[5:1](nass02.htm#fr_0.md) Report of the 65th meeting
 of the British Association for the Advancement of Science, Ipswich,
 1895, pp. 569-586.
 
-<span id="fn_1"></span>[5:2](nass02.htm#fr_1) Franz Boas, Indianische
+<span id="fn_1"></span>[5:2](nass02.htm#fr_1.md) Franz Boas, Indianische
 Sagen von der nord-pacifischen Küste Amerikas, Berlin, 1895, pp.
 272-305.
 
 ------------------------------------------------------------------------
 
-[Next: Txä'msEm and Lô<u>g</u>ôbolā'](nass03)
+[Next: Txä'msEm and Lô<u>g</u>ôbolā'](nass03.md)

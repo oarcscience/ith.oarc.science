@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm04)  [Next](tdm06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm04)  [Next](tdm06.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,7 +113,7 @@ His form indicated strength and endurance; he was of stronger build than
 the man from the Tyuonyi. A kilt of deer-hide was his only dress. His
 hair was wound around his skull like a turban. As ornaments the stranger
 wore a necklace of panther claws. A bow and some arrows were lying on
-the wolf's skin beside him. <span id="fr_5"></span>[1](#fn_5)
+the wolf's skin beside him. <span id="fr_5"></span>[1](#fn_5.md)
 
 Without a word Tyope squatted down near the fire, facing the other
 Indian. It had turned cold, and both men held their hands up to the
@@ -521,7 +521,7 @@ He advanced a few steps and repeated,
 
 "No," said a hollow voice near by, and a human form arose as if from
 beneath the surface. The man stepped up to Tyope; and to the latter's
-[unspeakable](errata.htm#3) relief, he looked stouter and shorter than
+[unspeakable](errata.htm#3.md) relief, he looked stouter and shorter than
 Nacaytzusle. The Indian was unknown to him, and Tyope said eagerly,--
 
 "The badger must be hiding near where the fire is. We should cut off his
@@ -705,10 +705,10 @@ reached home before the dawn of day.
 
 ### Footnotes
 
-<span id="fn_5"></span>[63:1](tdm05.htm#fr_5) This custom of taking the
+<span id="fn_5"></span>[63:1](tdm05.htm#fr_5.md) This custom of taking the
 disguise of a wolf is or has been used by the Navajos frequently in
 order to surprise herds of cattle and horses.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](tdm06)
+[Next: Chapter IV](tdm06.md)

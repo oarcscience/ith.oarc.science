@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc16)  [Next](busc18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc16)  [Next](busc18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -28,7 +28,7 @@ backsliding of a brother, or some act of merit among the faithful.
 Buddha then tells a story of the past, in which the actors in the
 previous life are usually the same as those whom he is exhorting, and in
 which Buddha himself as the Bodhisatta always occurs. It is one of the
-ten powers of a Buddha (see note, [p. 90](busc19.htm#page_90)) that he
+ten powers of a Buddha (see note, [p. 90](busc19.htm#page_90).md) that he
 remembers all his former existences. The stories of the past are often
 folk-tales and beast-fables, much older in origin than Buddhism itself;
 and consequently the connection between the individuals in the past and
@@ -59,7 +59,7 @@ bank of the river Aciravati. As the boatman had drawn up his boat on
 shore and had gone to listen to the doctrine, the disciple saw no boat
 at the ferry, and, taking joy in meditating on the Buddha, he walked
 across the river. His feet did not sink in the water. <span
-id="fr_3"></span>[1](#fn_3) As though on dry ground he went until he had
+id="fr_3"></span>[1](#fn_3.md) As though on dry ground he went until he had
 reached half-way, when he saw waves. Then his ecstasy in meditating on
 the Buddha became less, and his feet began to sink, but he again
 strengthened his ecstasy in meditating on the Buddha, and, passing over
@@ -87,8 +87,8 @@ birds, cooked and ate them, and offered them to the lay-disciple. The
 disciple said, 'Enough for me,' and would not eat. He thought, 'In this
 place there is no support for us except in the three refuges,' and fixed
 his mind on the virtues of the three jewels. <span
-id="fr_4"></span>[1](#fn_4) Now as he was thinking, a nāga <span
-id="fr_5"></span>[2](#fn_5) king who had been born on that island
+id="fr_4"></span>[1](#fn_4.md) Now as he was thinking, a nāga <span
+id="fr_5"></span>[2](#fn_5.md) king who had been born on that island
 changed his body into the form of a great ship. An ocean god was the
 pilot. The ship was filled with the seven kinds of precious stones.
 There were three masts of sapphire, the anchor was of gold, the ropes of
@@ -135,24 +135,24 @@ The Master, after reciting this declaration of the doctrine, made known
 the truths, and showed the connection of the birth. At the conclusion of
 the truths the lay-disciple was established in the path of those who are
 re-born once again. "At that time the layman who had entered the First
-Path <span id="fr_6"></span>[1](#fn_6) attained Nirvana, Sāriputta was
+Path <span id="fr_6"></span>[1](#fn_6.md) attained Nirvana, Sāriputta was
 the nāga king, and I was the ocean god." (*Jat*. No. 190.)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_3"></span>[76:1](busc17.htm#fr_3) Cf. St. Peter walking on
+<span id="fn_3"></span>[76:1](busc17.htm#fr_3.md) Cf. St. Peter walking on
 the sea, Matt. xiv. 28.
 
-<span id="fn_4"></span>[77:1](busc17.htm#fr_4) See the Jewel Discourse
+<span id="fn_4"></span>[77:1](busc17.htm#fr_4.md) See the Jewel Discourse
 below.
 
-<span id="fn_5"></span>[77:2](busc17.htm#fr_5) Nāgas were superhuman
+<span id="fn_5"></span>[77:2](busc17.htm#fr_5.md) Nāgas were superhuman
 beings represented in Indian sculptures as hooded snakes with several
 heads. They were capable of assuming any form.
 
-<span id="fn_6"></span>[79:1](busc17.htm#fr_6) The First Path, or first
+<span id="fn_6"></span>[79:1](busc17.htm#fr_6.md) The First Path, or first
 stage of the Noble Eightfold Path, is "entering the stream," conversion.
 The second stage is that of those who will only be re-born once in this
 world; the third, that of those who will not be re-born in this world,
@@ -163,6 +163,6 @@ fruit or second degree of which is Nirvana.
 
 ------------------------------------------------------------------------
 
-[Next: XV. Birth-Story of King Mahāsīlava](busc18)
+[Next: XV. Birth-Story of King Mahāsīlava](busc18.md)
 
 </div>

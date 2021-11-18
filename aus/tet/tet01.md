@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet00)  [Next](tet02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet00)  [Next](tet02.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ A NATIVE WITH SHIELD AND WADDY IN FRONT OF HIS CAMP
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](tet02)
+[Next: Introduction](tet02.md)

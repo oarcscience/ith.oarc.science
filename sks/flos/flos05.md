@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos04)  [Next](flos06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos04)  [Next](flos06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -186,7 +186,7 @@ done!"</span>
 
    Spirits were supposed to maintain an obdurate silence till
 interrogated by the persons to whom they made their special
-appearance. <span id="fr_74"></span>[1](#fn_74) Thus Hamlet, alluding to
+appearance. <span id="fr_74"></span>[1](#fn_74.md) Thus Hamlet, alluding to
 the appearance of the ghost, asks Horatio (i. 2)—
 
 <div style="margin-left: 32px">
@@ -244,7 +244,7 @@ And further on (iii. 2) Hamlet exclaims—
 was supposed that ghosts had some particular reason for quitting the
 mansions of the dead, "such as a desire that their bodies, if unburied,
 should receive Christian rites of sepulture, that a murderer might be
-brought to due punishment," &c. <span id="fr_75"></span>[1](#fn_75) On
+brought to due punishment," &c. <span id="fr_75"></span>[1](#fn_75.md) On
 this account Horatio ("Hamlet" i. 1) invokes the ghost:—
 
 <div style="margin-left: 32px">
@@ -295,7 +295,7 @@ suitable to the variety and nature of their agency. Prospero in the
 
 <span class="small">"Be sure, to-night, thou shalt have cramps,  
  Side-stitches that shall pen thy breath up; urchins  
- Shall, for that vast <span id="fr_76"></span>[1](#fn_76) of night that
+ Shall, for that vast <span id="fr_76"></span>[1](#fn_76.md) of night that
 they may work,  
  All exercise on thee."</span>
 
@@ -328,7 +328,7 @@ here?</span>
 
    It has been a widespread belief from the most remote period that
 ghosts cannot bear the light and so disappear at the dawn of day; their
-signal being the cock-crow. <span id="fr_77"></span>[2](#fn_77) The
+signal being the cock-crow. <span id="fr_77"></span>[2](#fn_77.md) The
 ghost of Hamlet's father says (i. 5):—
 
 <div style="margin-left: 32px">
@@ -408,7 +408,7 @@ hounds; their weird sound being thought to forebode misfortune of some
 kind. This popular piece of folk-lore exists in the north of England
 under a variety of forms amongst our peasantry, who tenaciously cling to
 the traditions which have been handed down to them. <span
-id="fr_78"></span>[1](#fn_78)\* It has been suggested that Shakespeare
+id="fr_78"></span>[1](#fn_78.md)\* It has been suggested that Shakespeare
 had some of these superstitions in view when he placed in the mouth of
 Macbeth (i. 7), while contemplating the murder of Duncan, the following
 metaphors
@@ -427,7 +427,7 @@ metaphors
 as setting on spirits, in the shape of hounds, to hunt Stephano and
 Trinculo. This species of diabolical or spectral chase, was formerly a
 popular article of belief. As Drake aptly remarks, <span
-id="fr_79"></span>[2](#fn_79) "the hell-hounds of Shakespeare appear to
+id="fr_79"></span>[2](#fn_79.md) "the hell-hounds of Shakespeare appear to
 be sufficiently formidable, for, not merely commissioned to hunt their
 victims, they are ordered, likewise as goblins," to—
 
@@ -485,7 +485,7 @@ magician's life ("Tempest," iv. 1), says:—
    In "Hamlet" (iv. 5), in the scene where Ophelia, in her mental
 aberration, quotes snatches of old ballads, she says:—"They say the owl
 was a baker's daughter! Lord, we know what we are, but know not what we
-may be." <span id="fr_80"></span>[1](#fn_80)
+may be." <span id="fr_80"></span>[1](#fn_80.md)
 
    Again, in "Twelfth Night" (iv. 2), there is another reference in the
 amusing passage where the clown, under the pretence of his being Sir
@@ -514,14 +514,14 @@ religious beliefs of savage and uncivilized communities.
 
 ### Footnotes
 
-<span id="fn_74"></span>[43:1](flos05.htm#fr_74) We may compare the
+<span id="fn_74"></span>[43:1](flos05.htm#fr_74.md) We may compare the
 words "unquestionable spirit" in "As You Like It" (iii. 2), which means
 "a spirit averse to conversation."
 
-<span id="fn_75"></span>[44:1](flos05.htm#fr_75) Douce's "Illustrations
+<span id="fn_75"></span>[44:1](flos05.htm#fr_75.md) Douce's "Illustrations
 of Shakespeare," pp. 450, 451.
 
-<span id="fn_76"></span>[45:1](flos05.htm#fr_76) Vast, *i.e.*, Space of
+<span id="fn_76"></span>[45:1](flos05.htm#fr_76.md) Vast, *i.e.*, Space of
 Night. So in "Hamlet," (i. 2.)
 
 <div style="margin-left: 32px">
@@ -530,17 +530,17 @@ Night. So in "Hamlet," (i. 2.)
 
 </div>
 
-<span id="fn_77"></span>[45:2](flos05.htm#fr_77) See page
-[98](flos08.htm#page_98).
+<span id="fn_77"></span>[45:2](flos05.htm#fr_77.md) See page
+[98](flos08.htm#page_98.md).
 
-<span id="fn_78"></span>[47:1](flos05.htm#fr_78) See Hardwick's
+<span id="fn_78"></span>[47:1](flos05.htm#fr_78.md) See Hardwick's
 "Traditions, Superstitions, and Folk-lore," 1872, pp. 153–176.
 
-<span id="fn_79"></span>[47:2](flos05.htm#fr_79) "Shakespeare and his
+<span id="fn_79"></span>[47:2](flos05.htm#fr_79.md) "Shakespeare and his
 Times," i. p. 378.
 
-<span id="fn_80"></span>[48:1](flos05.htm#fr_80) See Owl, chap. vi.
+<span id="fn_80"></span>[48:1](flos05.htm#fr_80.md) See Owl, chap. vi.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Demonology and Devil Lore](flos06)
+[Next: Chapter IV. Demonology and Devil Lore](flos06.md)

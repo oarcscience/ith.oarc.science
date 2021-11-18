@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](lgh08) 
-[Next](lgh10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](lgh08.md) 
+[Next](lgh10.md) 
 
 ------------------------------------------------------------------------
 
@@ -344,4 +344,4 @@ fields where eternal joys awaited them.
 
 ------------------------------------------------------------------------
 
-[Next: Penelope](lgh10)
+[Next: Penelope](lgh10.md)

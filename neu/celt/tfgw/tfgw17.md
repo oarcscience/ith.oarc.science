@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw16)  [Next](tfgw18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw16)  [Next](tfgw18.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ NOTE
 
 ------------------------------------------------------------------------
 
-[Next: St. Martin's Eve](tfgw18)
+[Next: St. Martin's Eve](tfgw18.md)

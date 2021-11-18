@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca29)  [Next](fsca31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca29)  [Next](fsca31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -52,7 +52,7 @@ unicorn symbolised the highest and purest virtue; not only was it one of
 the noblest bearings in the heraldry of the Middle Ages, but was
 
 <span id="img_13100"></span> ![The Legend of the
-Unicorn.](img/13100.jpg)
+Unicorn.](img/13100.jpg.md)
 
 viewed as the immediate emblem of our Blessed Lord. Philippe de Thaun
 says in his "Bestiarius":
@@ -94,4 +94,4 @@ places to be seen) may take away that needless scruple."
 
 ------------------------------------------------------------------------
 
-[Next: The Horn of the Unicorn](fsca31)
+[Next: The Horn of the Unicorn](fsca31.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,13 +28,13 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](eoa00)    [Page
-Index](pageidx)    [Text \[Zipped\]](eoatxt.zip)
+[Contents](#contents)    [Start Reading](eoa00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](eoatxt.zip.md)
 
 ------------------------------------------------------------------------
 
-[Philostratus](../laot/index) \|  **Epistles of Apollonius** \| 
-[Eusebius](../toe/index)
+[Philostratus](../laot/index.md) \|  **Epistles of Apollonius** \| 
+[Eusebius](../toe/index.md)
 
 ------------------------------------------------------------------------
 
@@ -55,9 +55,9 @@ this is punctuated by invective which seems discontinuous. It is unknown
 how many of these epistles are genuine.
 
 This text is one of the two extras in the second volume of the [Loeb
-Philostratus](../laot/index).
+Philostratus](../laot/index.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](eoa00)  
-[Text](eoa01)  
+<span id="contents"></span> [Title Page](eoa00.md)  
+[Text](eoa01.md)  

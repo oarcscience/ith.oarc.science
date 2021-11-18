@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl19)  [Next](jftl21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl19)  [Next](jftl21.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@
 <span id="img_19400"></span> <span align="CENTER"> [![He heard a cry of
 alarm and saw a huge stone fall on the soldier riding behind him.
 (&lt;i&gt;Page 201&lt;/i&gt;).](tn/19400.jpg)  
-Click to enlarge](img/19400.jpg)  
+Click to enlarge](img/19400.jpg.md)  
 He heard a cry of alarm and saw a huge stone fall on the soldier riding
 behind him. (*Page 201*).  
 </span>
@@ -209,4 +209,4 @@ legend tells.
 
 ------------------------------------------------------------------------
 
-[Next: The Palace in the Clouds](jftl21)
+[Next: The Palace in the Clouds](jftl21.md)

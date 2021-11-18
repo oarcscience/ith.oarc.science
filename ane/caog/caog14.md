@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog13)  [Next](caog15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog13)  [Next](caog15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -272,7 +272,7 @@ will then read (Genesis, x. 11, 12): "Out of that land he went forth to
 Assyria, and builded Nineveh, and Rehobothair, and Calah, and Resen,
 between Nineveh and Calah: the same is a great city."
 
-As my [identification](errata.htm#0) of Izdubar with Nimrod has met with
+As my [identification](errata.htm#0.md) of Izdubar with Nimrod has met with
 some objection, I think it will be useful to notice the various accounts
 of this hero, and the different hypotheses propounded with respect to
 his identification.
@@ -611,7 +611,7 @@ years.
 49 Chaldean kings, 458 years.
 
 The last of these dynasties, the 49 kings, reigned, as I have already
-pointed out in [p. 25](caog05.htm#page_25), from about B.C. 2000 to
+pointed out in [p. 25](caog05.htm#page_25.md), from about B.C. 2000 to
 1550, and throughout their time the Izdubar legends were known, and
 allusions to them are found. The time of Izdubar must therefore be
 before their period, and, as he headed a native rule after a period of
@@ -657,7 +657,7 @@ era.
 
 <span id="img_18800"></span> <span align="CENTER"> [![MIGRATION OF
 EASTERN TRIBE; FROM EARLY BABYLONIAN CYLINDER.](tn/18800.jpg)  
-Click to enlarge](img/18800.jpg)  
+Click to enlarge](img/18800.jpg.md)  
 MIGRATION OF EASTERN TRIBE; FROM EARLY BABYLONIAN CYLINDER.  
 </span>
 
@@ -788,6 +788,6 @@ Of the latter part of the first tablet we have as yetno knowledge.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Meeting of Heabani and Izdubar](caog15)
+[Next: Chapter XII. Meeting of Heabani and Izdubar](caog15.md)
 
 </div>

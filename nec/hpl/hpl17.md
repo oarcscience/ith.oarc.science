@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl16)  [Next](hpl18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl16)  [Next](hpl18.md) 
 
 ------------------------------------------------------------------------
 
@@ -163,4 +163,4 @@ whisper to one another in the night wind, saying over and over again.
 
 ------------------------------------------------------------------------
 
-[Next: Celephais (1922)](hpl18)
+[Next: Celephais (1922)](hpl18.md)

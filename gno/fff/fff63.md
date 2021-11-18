@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff62)  [Next](fff64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff62)  [Next](fff64.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 To the above may be added the final speech put into the mouth of Peter,
 in the romance of his Travels, or Circuits (Tours). It is found in the
-fragment [of](errata.htm#42) the Linus-collection, called *The Martyrdom
+fragment [of](errata.htm#42.md) the Linus-collection, called *The Martyrdom
 of Peter*. The legend says that Peter insisted on being crucified head
 downwards, and the reasons for this strange proceeding are given as
 follows in the faulty Latin translation.
@@ -125,4 +125,4 @@ unseen world and realize the teachings of the Master--is amply manifest.
 
 ------------------------------------------------------------------------
 
-[Next: The Gnosis According to Its Friends](fff64)
+[Next: The Gnosis According to Its Friends](fff64.md)

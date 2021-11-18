@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srp03)  [Next](srp05) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srp03)  [Next](srp05.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,7 +88,7 @@ commentators to reveal itself; so in the songs of the villagers, by
 common consent, may be recognized the principal features of the life led
 within the family circle by the Russian peasants. On them, remarks one
 of the. principal collectors of his country's popular poetry <span
-id="fr_3"></span>[1](#fn_3), their songs have no slight influence.
+id="fr_3"></span>[1](#fn_3.md), their songs have no slight influence.
 Commencing at the side of his cradle, song accompanies the Russian man
 during the games of his childhood and the sports of 'his youth, and
 gives expression to his earliest feelings of love. In the ears of the
@@ -126,7 +126,7 @@ relating to marriage, have probably been sung for many hundreds of
 years., But the majority of the songs with which we have to do at
 present, those used by Khorovod performers, must be referred, so far at
 least as their present form is concerned, to a much later date. Judging
-by their structure, says Tereshchenko <span id="fr_4"></span>[2](#fn_4),
+by their structure, says Tereshchenko <span id="fr_4"></span>[2](#fn_4.md),
 these songs belong to different, but not distant periods. A few of those
 which will presently be quoted, such as the "Millet Sowing," the
 "Titmouse," and the "Poppy Growing," he attributes to the Sixteenth
@@ -146,7 +146,7 @@ have not been universally accepted as conclusive.
 
 When a holiday arrives, in fine spring weather, even the saddest looking
 of Russian hamlets assumes a lively aspect <span
-id="fr_5"></span>[3](#fn_5). In front of their wooden huts the old
+id="fr_5"></span>[3](#fn_5.md). In front of their wooden huts the old
 people sit "simply chatting in a rustic row," the younger men and women
 gather together in groups, each sex apart from the other, and talk about
 their fields and their flocks, their families, and their household
@@ -212,7 +212,7 @@ metrical dramas, the number of which is considerable, the following may
 be taken as specimens:
 
 In the *Murmanka Shlyapa*, the "Murman Cap <span
-id="fr_6"></span>[4](#fn_6)," a drunken *Pan*, or Lord, comes staggering
+id="fr_6"></span>[4](#fn_6.md)," a drunken *Pan*, or Lord, comes staggering
 in, followed by a *Pan'ya*, or Lady. Presently his cap falls off, and he
 orders the Lady to pick it up. The chorus sings--
 
@@ -246,7 +246,7 @@ obey his commands, but replies with humility,
 "My Lord, I am thy handmaid,  
 I will pick up thy sable Murman cap,  
 And I will place it on thy daring head <span
-id="fr_7"></span>[5](#fn_7)."
+id="fr_7"></span>[5](#fn_7.md)."
 
 The idea of the despotic power of the husband is expressed still more
 strongly in the favourite game of "A Wife's Love." A youth and a girl,
@@ -254,7 +254,7 @@ or more frequently two girls, one of whom wears a man's hat, take their
 place in the middle of the circle of singers, who begin--
 
       Wife, I am going,  
-To walk through the bazaar <span id="fr_8"></span>[6](#fn_8).  
+To walk through the bazaar <span id="fr_8"></span>[6](#fn_8.md).  
 Wife, my wifie,  
 Hard is thy heart.  
 Wife, I will buy thee  
@@ -301,7 +301,7 @@ Always agrees with him, always bows down to him,
 And the satisfied husband concludes with the words,
 
 Wife, my wifie,  
-Soft is thy heart <span id="fr_9"></span>[7](#fn_9).
+Soft is thy heart <span id="fr_9"></span>[7](#fn_9.md).
 
 <span id="page_11">p. 11</span>
 
@@ -321,7 +321,7 @@ And for a great offence.
 Far away is my father dear,  
 And farther still my mother dear;  
 They cannot hear my voice,  
-They cannot see my burning tears <span id="fr_10"></span>[8](#fn_10).
+They cannot see my burning tears <span id="fr_10"></span>[8](#fn_10.md).
 
 The "Millet-Sowing," the "Hedge" and the "Beer-Brewing" will occur in a
 later chapter: the "Geese," the "Sparrow," and many others of the same
@@ -361,7 +361,7 @@ I'd take the Magpie--but she chatters so.
 But there, across the water, lives the Quail:  
 Neither my mother nor my aunt is she:  
 Her do I love, and I will marry her <span
-id="fr_11"></span>[9](#fn_11)."
+id="fr_11"></span>[9](#fn_11.md)."
 
 This song is said to have been written during the reign of Ivan the
 Terrible (A.D. 1533-1584) but to have been prohibited for a time, on
@@ -406,7 +406,7 @@ And having danced she has bowed low.
 Well done! O, ye dragoons!  
 Ye know how to seize a Swedish woman,  
 And at consoling a Swedish woman are ye expert <span
-id="fr_12"></span>[1](#fn_12).
+id="fr_12"></span>[1](#fn_12.md).
 
 <span id="page_14">p. 14</span>
 
@@ -482,7 +482,7 @@ And that is withering!"
 "One dear--friend had I--  
 And he is departing!  
 Alone does he leave me,  
-The young one, alone <span id="fr_13"></span>[2](#fn_13)!
+The young one, alone <span id="fr_13"></span>[2](#fn_13.md)!
 
 Sometimes it is the youth who mourns for a lost love--stolen away from
 him perhaps by a richer rival.
@@ -507,7 +507,7 @@ In a Merchant's garden, underneath an apple-tree
 
 Underneath an apple-tree, wounded sore with shot!  
 The Merchant's son had wounded my Dove,  
-Wounded her with a weapon of gold <span id="fr_14"></span>[3](#fn_14).
+Wounded her with a weapon of gold <span id="fr_14"></span>[3](#fn_14.md).
 
 But the desertion is generally on the part of the "good youth." The
 girl's heart remains faithful to its love.
@@ -529,7 +529,7 @@ When my swift feet shall under me give way,
 And to my side my hands fall helplessly;  
 What time my eyes are filled with dust,  
 And coffin boards my bosom white conceal <span
-id="fr_15"></span>[4](#fn_15)."
+id="fr_15"></span>[4](#fn_15.md)."
 
 When her lover is taken from her, a girl is sometimes described as being
 so crushed by the blow that she can no longer endure to live. Such a
@@ -568,7 +568,7 @@ No longer keeps she watch by night,
 But still the waxen taper burns.  
 Upon the table stands a coffin new,  
 Within the coffin lies the maiden fair <span
-id="fr_16"></span>[5](#fn_16).
+id="fr_16"></span>[5](#fn_16.md).
 
 A maiden whose parents wish her to marry a stranger and give up her
 "hope, her heart's beloved," exclaims in her grief--
@@ -589,7 +589,7 @@ My beating heart,
 And bear it away  
 To the hands of my dear one.  
 Ah I there let him see  
-How fondly I loved him <span id="fr_17"></span>[6](#fn_17)."
+How fondly I loved him <span id="fr_17"></span>[6](#fn_17.md)."
 
 Sometimes it is death that steps in between two lovers and separates
 them for ever. Here is part of a song expressing the passionate grief of
@@ -606,7 +606,7 @@ And furrowing the open field,
 The open, sweeping plain,  
 Reveal to me the coffin planks,  
 And let me for the last of times,  
-To my beloved one say farewell <span id="fr_18"></span>[7](#fn_18).
+To my beloved one say farewell <span id="fr_18"></span>[7](#fn_18.md).
 
 And here is a slightly modified extract from another, in which is heard
 the wailing of a "fair maiden" at the death-bed of her lover. As he lies
@@ -634,7 +634,7 @@ We say farewell for ever to the light
 Leaving behind us some such fame as this--  
 That we two loved each other tenderly,  
 And loyally, my love, together died <span
-id="fr_19"></span>[8](#fn_19)."
+id="fr_19"></span>[8](#fn_19.md)."
 
 To the tears of a wife the songs attach less importance than to those of
 "a dear friend," or of a mother or a sister. In one instance a brave
@@ -644,7 +644,7 @@ There weeps his mother--as a river runs;
 There weeps his sister--as a streamlet flows;  
 There weeps his youthful wife--as falls the dew.  
 The sun will rise and gather up the dew <span
-id="fr_20"></span>[9](#fn_20).
+id="fr_20"></span>[9](#fn_20.md).
 
 And indeed a dying husband often seems to think less about the sorrow of
 his wife than about that of his parents and his children--
@@ -657,7 +657,7 @@ But for my little ones I grieve.
 My darling little ones are left,  
 Dear little tiny innocents,  
 To suffer pangs of hunger and of cold <span
-id="fr_21"></span>[1](#fn_21).
+id="fr_21"></span>[1](#fn_21.md).
 
 Not only do the songs frequently describe the indifference which is
 likely to attend upon marriages contracted without the intervention of
@@ -695,7 +695,7 @@ But the children answered him and said:
 "Be thou burnt with fire, thou new room!  
 And do thou die, O cruel stepmother!  
 But rise, rise again, O our own mother dear <span
-id="fr_22"></span>[2](#fn_22)!"
+id="fr_22"></span>[2](#fn_22.md)!"
 
 In many cases the poisoner is a girl, who, driven wild by passion or
 hate, avenges her real or fancied wrongs by the deadly cup.
@@ -732,7 +732,7 @@ The Petersburg and the Moscow
 All who pass by  
   Will pray to God,  
 And on thee, sister,  
-  A curse invoke <span id="fr_23"></span>[3](#fn_23)."
+  A curse invoke <span id="fr_23"></span>[3](#fn_23.md)."
 
 In one song, which bears the stamp of a foreign origin, and is probably
 of a mythical character, a sister intentionally offers a deadly draught
@@ -753,7 +753,7 @@ of Triermain," from the German
 tale of how Count Otto of Oldenburg was invited by a fairy maiden to
 drink from a magic horn, and how 'he let a portion of the proffered
 beverage fall on his white steed, the hair of which it immediately burnt
-off. <span id="fr_24"></span>[4](#fn_24). But whatever maybe its origin,
+off. <span id="fr_24"></span>[4](#fn_24.md). But whatever maybe its origin,
 it decidedly must not be looked upon as in any way typical of the
 relations existing between brothers and sisters in Russia. On these
 relations the Russian songs do not dwell nearly so much as the Servian,
@@ -786,7 +786,7 @@ If the wolves had her body rent,
 Scattered across the plain her bones would lie.  
 If the Tartars had carried her off,  
 Surely some tidings would have reached my ears <span
-id="fr_25"></span>[5](#fn_25)."
+id="fr_25"></span>[5](#fn_25.md)."
 
 In one instance a husband's mere wish proves fatal to his "evil wife."
 It must be remembered that death was usually represented by the
@@ -811,10 +811,10 @@ Scarce had I spoken--when Death
 Began her work with my wife.  
 Scarce had I time to look round--  
 Shrouded in linen white was her corpse!  
-Struck was the stroke on the bell <span id="fr_26"></span>[6](#fn_26).
+Struck was the stroke on the bell <span id="fr_26"></span>[6](#fn_26.md).
 
 One more extract may be given, in which an unnatural husband longs for
-his wife's death. The cry of A--oo <span id="fr_27"></span>[7](#fn_27)
+his wife's death. The cry of A--oo <span id="fr_27"></span>[7](#fn_27.md)
 which occurs in it is the Slavonic equivalent
 
 <span id="page_26">p. 26</span>
@@ -845,7 +845,7 @@ Strike dead my wife's father!
 Pierce her mother with thy arrow,  
 Beat my young wife to death with the rush of rain!  
 But spare, spare, the fair maiden,  
-The fair maiden my olden love <span id="fr_28"></span>[8](#fn_28)."
+The fair maiden my olden love <span id="fr_28"></span>[8](#fn_28.md)."
 
 In the next song the "olden love" dies, and the news of her death is
 brought to him to whom she used to be dear, but with whom fate has not
@@ -874,7 +874,7 @@ Split open, damp Mother Earth!
 Fly asunder, ye coffin planks!  
 Unroll, O brocade of gold!  
 Awake, awake, O maiden fair,  
-O maiden fair, my olden love <span id="fr_29"></span>[9](#fn_29)!"
+O maiden fair, my olden love <span id="fr_29"></span>[9](#fn_29.md)!"
 
 A great number of the songs are devoted to the sorrows of a young wife,
 condemned to live with an old and uncongenial husband. The following is
@@ -946,7 +946,7 @@ THE LOVER.
 Sleep, sleep, sleep, my darling one  
 Sleep, sleep, sleep, my precious one!  
 Driven out, thrown away, married too soon <span
-id="fr_30"></span>[1](#fn_30)!
+id="fr_30"></span>[1](#fn_30.md)!
 
 If the last song was dark with discontent, the next is expressive of the
 utter blackness of despair. The word rendered in it by sorrow is the
@@ -983,7 +983,7 @@ And when I shall have fled from Sorrow into the damp earth--
 Sorrow will come after me with a spade.  
 Then will Borrow stand over me, and cry triumphantly,  
 I have driven, I have driven, the maiden into the damp earth <span
-id="fr_31"></span>[2](#fn_31)."
+id="fr_31"></span>[2](#fn_31.md)."
 
 As these dolorous laments might leave on the mind of the reader the
 erroneous impression that Russian popular poetry is of a morbid
@@ -1026,7 +1026,7 @@ With the lad, Alexándrushka--
 She has covered him with her silken veil.,  
 She has called him her darling, her beloved one-  
 And his sorrow and sighing have passed away <span
-id="fr_32"></span>[3](#fn_32).
+id="fr_32"></span>[3](#fn_32.md).
 
 During the summer months, as has already been observed, it is in the
 Khorovods that songs are chiefly to be heard, their period varying in
@@ -1060,7 +1060,7 @@ The green copse
 All night moaned--  
 But I, poor Dunya,  
 All night sat up,  
-Waiting for my love <span id="fr_33"></span>[4](#fn_33)
+Waiting for my love <span id="fr_33"></span>[4](#fn_33.md)
 
 At first they all spin away steadily, but about a couple of hours after
 supper-time they throw aside their work, and take to playing games. By
@@ -1082,7 +1082,7 @@ And whisper sweet secret words.
 I, the maiden, will never wed."  
 Soon, very soon, my love has changed her mind:  
 "Marry, dear, marry! I am going to wed <span
-id="fr_34"></span>[5](#fn_34)."
+id="fr_34"></span>[5](#fn_34.md)."
 
 Sometimes the songs are of a very melancholy nature, as, for instance:--
 
@@ -1117,7 +1117,7 @@ He lured her away
 To a strange far off home,  
 Strange, far off, unknown,  
 He has lured her--and now  
-Fain would fling her aside <span id="fr_35"></span>[6](#fn_35).
+Fain would fling her aside <span id="fr_35"></span>[6](#fn_35.md).
 
 In the middle of a series of such melancholy songs as these, the girls
 will suddenly begin to dance. "The performers (says Tereshchenko) stand
@@ -1157,7 +1157,7 @@ But tell them I serve in my troop, dark steed,
 In my troop I serve, my step I gain."  
 His death gains the soldier beneath the pine,  
 His death! dear Lord! beneath the pine <span
-id="fr_36"></span>[7](#fn_36).
+id="fr_36"></span>[7](#fn_36.md).
 
 To the *Posidyelki* of Great-Russia correspond the Little-Russian
 *Dosvitki*, so called because the young people keep up their amusements
@@ -1233,7 +1233,7 @@ young men stroll about on the
 side opposite that occupied by the girls, most of them dressed in blue
 caftans, though here and there a *burlak*, a man who is in the habit of
 working for wages In Petersburg, wears a long surtout, "or even a
-Palmerston-Paletot <span id="fr_37"></span>[8](#fn_37)."
+Palmerston-Paletot <span id="fr_37"></span>[8](#fn_37.md)."
 
 After a time the amusements of the evening begin, games and dances
 following each other in regular order, attended by songs, which are not
@@ -1266,7 +1266,7 @@ is taken among the *Obryádnuiya*, or Ritual and Ceremonial Songs,
 inasmuch as it specially belongs to the *Obryád* \[feast or ceremony\]
 of the *Toloka*, or friendly assistance rendered to a man by his
 neighbours at harvest time. Of the *Obryádnuiya Pyesni*, by far the most
-important class of Russian songs <span id="fr_38"></span>[9](#fn_38), a
+important class of Russian songs <span id="fr_38"></span>[9](#fn_38.md), a
 detailed account will be given farther on, those of a mythical nature
 being taken together, and the *Svádebnuiya Pyesni*, or Marriage Songs,
 \[*Svad'ba* = marriage\] of which one or two specimens have already been
@@ -1313,7 +1313,7 @@ expressed in a lyrical form with such force and clearness, that her
 <span id="page_41">p. 41</span>
 
 notoriety, and was adopted by other women, who now sing it whenever a
-similar calamity befalls them <span id="fr_39"></span>[1](#fn_39). Some
+similar calamity befalls them <span id="fr_39"></span>[1](#fn_39.md). Some
 idea of its nature may be obtained from the following extract, which
 forms about a third of the whole:--
 
@@ -1336,7 +1336,7 @@ My raiment gay,
 My pleasant way of life,  
 And all my golden store ungrudgingly . . .  
 But never would have let my cousin dear depart <span
-id="fr_40"></span>[2](#fn_40).
+id="fr_40"></span>[2](#fn_40.md).
 
 Of the Cossack and Robber Songs given by Sakharof, and the other songs
 called *Udaluiya*--bold, daring, courageous, etc.--some are not a little
@@ -1377,7 +1377,7 @@ Then they went to the Tsar with their confession:--
 "O thou, Father orthodox Tsar!  
 Judge us according to a just decision,  
 Order to be done to us what pleaseth thee.  
-Thou art master of our bold heads <span id="fr_41"></span>[3](#fn_41)."
+Thou art master of our bold heads <span id="fr_41"></span>[3](#fn_41.md)."
 
 <span id="page_43">p. 43</span>
 
@@ -1407,7 +1407,7 @@ On hearing this "His Sultanic Majesty" immediately cries to his
 "Set free the brave youth,  
 The brave youth, the Don Cossack,  
 Let him go to his Russian land,  
-To his White Tsar <span id="fr_42"></span>[4](#fn_42)."
+To his White Tsar <span id="fr_42"></span>[4](#fn_42.md)."
 
 Of a more poetic mature is the following address to the favourite river
 of the Cossacks:--
@@ -1428,7 +1428,7 @@ I have sent forth my falcons bright,
 My falcons bright, the Don-Kazáks.  
 Deprived of them my steep banks crumble down,  
 Deprived of them my shoals are thick with sand <span
-id="fr_43"></span>[5](#fn_43)."
+id="fr_43"></span>[5](#fn_43.md)."
 
 And so is this description of a battle with the Tartars:--
 
@@ -1446,7 +1446,7 @@ With bold Cossack heads.
 Not with rain was it moistened,  
 Not with strong autumn showers;  
 That field was moistened  
-With burning Cossack tears <span id="fr_44"></span>[6](#fn_44).
+With burning Cossack tears <span id="fr_44"></span>[6](#fn_44.md).
 
 Most of what have been styled the "Robber
 
@@ -1473,10 +1473,10 @@ Give warmth to us, poor sufferers.
 No thieves are we, nor highwaymen,  
 We are the workmen of Stenka Razín.  
 Our oars we wave--a ship we board,  
-Our maces <span id="fr_45"></span>[7](#fn_45) we wave--a caravan we
+Our maces <span id="fr_45"></span>[7](#fn_45.md) we wave--a caravan we
 seize,  
 A hand we wave--a maiden we carry off <span
-id="fr_46"></span>[8](#fn_46).
+id="fr_46"></span>[8](#fn_46.md).
 
 <span id="page_46">p. 46</span>
 
@@ -1497,7 +1497,7 @@ At the sight of my black steed--will he be startled,
 At the sight of my keen sword--will he be terrified.  
 "Surely this is a brigand who is buried here!  
 A son of the brigand, the bold Stenka Razín <span
-id="fr_47"></span>[9](#fn_47)!"
+id="fr_47"></span>[9](#fn_47.md)!"
 
 When these freebooters are taken prisoners, they make it a point of
 honour to maintain a defiant demeanour in the presence of their
@@ -1556,7 +1556,7 @@ Feeling no sorrow for his children.
 He was led to the Red Field,  
 And there his bold head  
 Was struck of from his strong shoulders <span
-id="fr_48"></span>[1](#fn_48).
+id="fr_48"></span>[1](#fn_48.md).
 
 Many of the songs are devoted to love. Here, for instance, is the
 outline of a romantic story. A brave youth leaves his native Ukraine,
@@ -1586,7 +1586,7 @@ She took two steel daggers,
 And pierced her white bosom.  
 In the open field swings the brave youth,  
 On the daggers bends down the Princess and dies <span
-id="fr_49"></span>[2](#fn_49).
+id="fr_49"></span>[2](#fn_49.md).
 
 The only consolation which the bereaved father can find is that of
 cutting off the heads of the fatal informers.
@@ -1621,7 +1621,7 @@ And after that they lay down to sleep.
 But one of their number did not lie down to sleep,  
 Did not lie down, but prayed to God,  
 And took to questioning the captive.  
-"Moryanka, Moryanka, Moryanushka <span id="fr_50"></span>[3](#fn_50),  
+"Moryanka, Moryanka, Moryanushka <span id="fr_50"></span>[3](#fn_50.md),  
 From what city dost thou come?  
 Who are thy father and thy mother?"
 
@@ -1645,7 +1645,7 @@ But with tears does the sister reply,--
 
 "With whatsoever ye may endow me,  
 Ye cannot bring my dear one back to life <span
-id="fr_51"></span>[4](#fn_51)."
+id="fr_51"></span>[4](#fn_51.md)."
 
 Of the Soldier Songs some refer to the wars with Sweden, as, for
 instance, one in which "General
@@ -1667,7 +1667,7 @@ The dark blue eagle is our father the Orthodox Tsar,
 And the black crow is the Swedish King.  
 Our Gosudar will conquer the Swedish land,  
 And the King himself will lead into captivity <span
-id="fr_52"></span>[5](#fn_52).
+id="fr_52"></span>[5](#fn_52.md).
 
 Many of them refer to various military and naval exploits, one
 describing how a Russian Admiral terrified the Turks, another telling
@@ -1692,7 +1692,7 @@ I have parted from my father and mother,
 From my father and from my mother,  
 From my young wife,  
 From my orphaned boys,  
-From my little children <span id="fr_53"></span>[6](#fn_53)."
+From my little children <span id="fr_53"></span>[6](#fn_53.md)."
 
 In the days when long terms of military service were the rule, a
 conscript was generally looked upon as lost to his native village, and
@@ -1718,7 +1718,7 @@ Of him will we make a soldier.
 Good and pleasing is he by nature,  
 Favour has he found in the eyes of the girls,  
 Of service has he been to all the commune <span
-id="fr_54"></span>[7](#fn_54).
+id="fr_54"></span>[7](#fn_54.md).
 
 <span id="page_53">p. 53</span>
 
@@ -1736,7 +1736,7 @@ I also, the bold youth, am sad-
 Going to a far-off land  
 To an unknown, far-off land  
 Do I go in the service of the Gosudar <span
-id="fr_55"></span>[8](#fn_55).
+id="fr_55"></span>[8](#fn_55.md).
 
 In a third it is not for his own sorrows that the soldier weeps. His
 tears flow for the mighty monarch who is no more:--
@@ -1773,7 +1773,7 @@ Look upon thy army dear,
 The well loved, the brave.  
 Without thee are we all orphans,  
 Having become orphans, have we lost all strength <span
-id="fr_56"></span>[9](#fn_56)."
+id="fr_56"></span>[9](#fn_56.md)."
 
 This song may serve also as a fair specimen of the class styled
 "Historical." The faculty of composing Builínas, or what are usually
@@ -1803,7 +1803,7 @@ manuscripts are preserved in the Bodleian Library. He was in Moscow in
 the summer of 1619, and spent the ensuing winter in the extreme north,
 where he was detained on his return home by way of Archangel. His
 collection consists of six poems, chiefly relating to events which had
-recently taken place in Russia <span id="fr_57"></span>[1](#fn_57).
+recently taken place in Russia <span id="fr_57"></span>[1](#fn_57.md).
 
 In the year 1804 there appeared at Moscow a book which extended the
 growing knowledge that there existed in Russia a rich mine of historical
@@ -1844,7 +1844,7 @@ According to one of the supporters of the first
 
 <span id="page_57">p. 57</span>
 
-theory <span id="fr_58"></span>[2](#fn_58), the epos of the Builínas may
+theory <span id="fr_58"></span>[2](#fn_58.md), the epos of the Builínas may
 be divided into certain cycles, each of which has its own poetic
 characteristics, and is to some extent expressive of the outer and inner
 life, the actions and the sentiments, of its own period. The earliest of
@@ -1888,10 +1888,10 @@ Heavily laden is he with strength as with a weighty burden.
 
 See now, Svyatogor exclaims:--  
 "Could I but find its equal in weight <span
-id="fr_59"></span>[3](#fn_59)  
+id="fr_59"></span>[3](#fn_59.md)  
 I would lift the whole earth!"  
 Svyatogor riding over the steppe  
-Lights upon a little wallet <span id="fr_60"></span>[4](#fn_60).  
+Lights upon a little wallet <span id="fr_60"></span>[4](#fn_60.md).  
 He takes his whip and pushes the wallet--it does not move:  
 He tries to move it with a finger--but it does not yield:  
 He grasps it from on horseback with one hand--but it will not be lifted.
@@ -1908,7 +1908,7 @@ With both bands he seizes the wallet,
 Lifts the wallet a little higher than his knees  
 But into the earth up to his knees sinks Svyatogor,  
 Down his white face pours a stream not of tears, but of blood <span
-id="fr_61"></span>[5](#fn_61).
+id="fr_61"></span>[5](#fn_61.md).
 
 Ilya Muromets, the representative of the younger race of heroes, has
 been told by the mystic beings who infused almost matchless strength
@@ -2022,7 +2022,7 @@ Muromets. Then the hero Svyatogor called to him and said:
 
 "Bend down to the coffin, to the little chink that is in it, and I will
 breathe upon thee with heroic breath <span
-id="fr_62"></span>[6](#fn_62)."
+id="fr_62"></span>[6](#fn_62.md)."
 
 So Ilya bent down, and the hero Svyatogor breathed upon him with his
 heroic breath. Then Ilya felt that thrice as much strength as he had
@@ -2063,7 +2063,7 @@ steed. No other than I can hold that steed in hand."
 Then passed out of the chink his dying breath, and Ilya bade farewell to
 Svyatogor, made fast his good steed to his coffin, girded Svyatogor's
 sword of steel on his loins, and went his way into the open field <span
-id="fr_63"></span>[7](#fn_63).
+id="fr_63"></span>[7](#fn_63.md).
 
 As a specimen of the romances which are referred partly to the mythical
 cycle, and partly to that named after Vladímir, we may take the story of
@@ -2156,7 +2156,7 @@ goes forth into the open field--
 
 But then spake the brave youth these words:--
 
-"The Sun <span id="fr_64"></span>[8](#fn_64) knew not how to show me
+"The Sun <span id="fr_64"></span>[8](#fn_64.md) knew not how to show me
 favour;  
 The Sun knew not how to reward me;  
 So now his bright eyes shall not behold me!"  
@@ -2167,7 +2167,7 @@ And thus did Sukhman speak:--
 
 Flow on, O, Sukhman-River,  
 From out of my burning blood;  
-My burning blood shed uselessly <span id="fr_65"></span>[9](#fn_65)!"
+My burning blood shed uselessly <span id="fr_65"></span>[9](#fn_65.md)!"
 
 Having given these specimens of the contents of the two great
 collections of national poems recently published in Russia, I will
@@ -2541,119 +2541,119 @@ poetic stores, and in the course of twenty or thirty years, after the
 deaths of the best representatives of the present generation of singers,
 the Builínas, even in the Government of Olonetz, will be preserved in
 the memories of but a very few members of the rural population <span
-id="fr_66"></span>[1](#fn_66)."
+id="fr_66"></span>[1](#fn_66.md)."
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_3"></span>[4:1](srp04.htm#fr_3) Ruibnikof, III. p. iii.
+<span id="fn_3"></span>[4:1](srp04.htm#fr_3.md) Ruibnikof, III. p. iii.
 
-<span id="fn_4"></span>[5:2](srp04.htm#fr_4) IV. 136.
+<span id="fn_4"></span>[5:2](srp04.htm#fr_4.md) IV. 136.
 
-<span id="fn_5"></span>[6:3](srp04.htm#fr_5) Tereshchenko, iv. 136-140.
+<span id="fn_5"></span>[6:3](srp04.htm#fr_5.md) Tereshchenko, iv. 136-140.
 
-<span id="fn_6"></span>[8:4](srp04.htm#fr_6) The Murmanki were large
+<span id="fn_6"></span>[8:4](srp04.htm#fr_6.md) The Murmanki were large
 caps, richly adorned with fur, worn in old times by the Grand Dukes and
 Boyars. The word may possibly be corrupted from the name Norman.
 
-<span id="fn_7"></span>[9:5](srp04.htm#fr_7) Tereshchenko, IV. 158.
+<span id="fn_7"></span>[9:5](srp04.htm#fr_7.md) Tereshchenko, IV. 158.
 
-<span id="fn_8"></span>[9:6](srp04.htm#fr_8) The Kitai-Gorod, or
+<span id="fn_8"></span>[9:6](srp04.htm#fr_8.md) The Kitai-Gorod, or
 China-Town of Moscow, is part of the bazaar outside the Kremlin. It
 takes its name from Kitaigrod in Podolia, the birthplace of Helena, the
 mother of Ivan the Terrible.
 
-<span id="fn_9"></span>[10:7](srp04.htm#fr_9) Tereshchenko, IV. 238.
+<span id="fn_9"></span>[10:7](srp04.htm#fr_9.md) Tereshchenko, IV. 238.
 
-<span id="fn_10"></span>[11:8](srp04.htm#fr_10) Shein, I. 403.
+<span id="fn_10"></span>[11:8](srp04.htm#fr_10.md) Shein, I. 403.
 
-<span id="fn_11"></span>[12:9](srp04.htm#fr_11) Tereshchenko, IV. 280.
+<span id="fn_11"></span>[12:9](srp04.htm#fr_11.md) Tereshchenko, IV. 280.
 
-<span id="fn_12"></span>[13:1](srp04.htm#fr_12) Tereshchenko, IV. 165.
+<span id="fn_12"></span>[13:1](srp04.htm#fr_12.md) Tereshchenko, IV. 165.
 
-<span id="fn_13"></span>[16:2](srp04.htm#fr_13) Shein, I. 310.
+<span id="fn_13"></span>[16:2](srp04.htm#fr_13.md) Shein, I. 310.
 
-<span id="fn_14"></span>[17:3](srp04.htm#fr_14) Shein, I. 323. The last
+<span id="fn_14"></span>[17:3](srp04.htm#fr_14.md) Shein, I. 323. The last
 line is translated from another copy.
 
-<span id="fn_15"></span>[17:4](srp04.htm#fr_15) Sakharof, I. iii. 208.
+<span id="fn_15"></span>[17:4](srp04.htm#fr_15.md) Sakharof, I. iii. 208.
 
-<span id="fn_16"></span>[18:5](srp04.htm#fr_16) Sakharof, I. iii. 208.
+<span id="fn_16"></span>[18:5](srp04.htm#fr_16.md) Sakharof, I. iii. 208.
 
-<span id="fn_17"></span>[19:6](srp04.htm#fr_17) Sakharof, I. iii. 206.
+<span id="fn_17"></span>[19:6](srp04.htm#fr_17.md) Sakharof, I. iii. 206.
 
-<span id="fn_18"></span>[19:7](srp04.htm#fr_18) Sakharof, I. iii. 204.
+<span id="fn_18"></span>[19:7](srp04.htm#fr_18.md) Sakharof, I. iii. 204.
 
-<span id="fn_19"></span>[20:8](srp04.htm#fr_19) Sakharof, I. iii 207.
+<span id="fn_19"></span>[20:8](srp04.htm#fr_19.md) Sakharof, I. iii 207.
 
-<span id="fn_20"></span>[20:9](srp04.htm#fr_20) Sakharof, I. iii. 209.
+<span id="fn_20"></span>[20:9](srp04.htm#fr_20.md) Sakharof, I. iii. 209.
 
-<span id="fn_21"></span>[21:1](srp04.htm#fr_21) Sakharof, I. iii. 204.
+<span id="fn_21"></span>[21:1](srp04.htm#fr_21.md) Sakharof, I. iii. 204.
 
-<span id="fn_22"></span>[22:2](srp04.htm#fr_22) Shein, I. 358. The
+<span id="fn_22"></span>[22:2](srp04.htm#fr_22.md) Shein, I. 358. The
 epithet applied to the stepmother is a purely conventional one. Just as
 in the songs an axe is always called sharp, a pitcher blue, a hand
 white, a girl beautiful; and a youth or a horse "good," so is the
 stepmother always styled *likhaya*, malicious.
 
-<span id="fn_23"></span>[23:3](srp04.htm#fr_23) Shein, I. 328.
+<span id="fn_23"></span>[23:3](srp04.htm#fr_23.md) Shein, I. 328.
 
-<span id="fn_24"></span>[24:4](srp04.htm#fr_24) Thorpe's Northern
+<span id="fn_24"></span>[24:4](srp04.htm#fr_24.md) Thorpe's Northern
 Mythology, III. 128. *Deutsche Sagen*, 541.
 
-<span id="fn_25"></span>[25:5](srp04.htm#fr_25) Sakharof, I. iii. 205.
+<span id="fn_25"></span>[25:5](srp04.htm#fr_25.md) Sakharof, I. iii. 205.
 
-<span id="fn_26"></span>[25:6](srp04.htm#fr_26) Shein, I. 356.
+<span id="fn_26"></span>[25:6](srp04.htm#fr_26.md) Shein, I. 356.
 
-<span id="fn_27"></span>[25:7](srp04.htm#fr_27) The vowel sounds a, u,
+<span id="fn_27"></span>[25:7](srp04.htm#fr_27.md) The vowel sounds a, u,
 pronounced as in Italian.
 
-<span id="fn_28"></span>[26:8](srp04.htm#fr_28) Shein, I. 341.
+<span id="fn_28"></span>[26:8](srp04.htm#fr_28.md) Shein, I. 341.
 
-<span id="fn_29"></span>[27:9](srp04.htm#fr_29) Quoted from an old MS.
+<span id="fn_29"></span>[27:9](srp04.htm#fr_29.md) Quoted from an old MS.
 by Shein, I. 324.
 
-<span id="fn_30"></span>[29:1](srp04.htm#fr_30) Shein, I. 336.
+<span id="fn_30"></span>[29:1](srp04.htm#fr_30.md) Shein, I. 336.
 
-<span id="fn_31"></span>[30:2](srp04.htm#fr_31) Shein, I. 322.
+<span id="fn_31"></span>[30:2](srp04.htm#fr_31.md) Shein, I. 322.
 
-<span id="fn_32"></span>[31:3](srp04.htm#fr_32) Tereshchenko, II. 345.
+<span id="fn_32"></span>[31:3](srp04.htm#fr_32.md) Tereshchenko, II. 345.
 Sakharof, I. iii. 130.
 
-<span id="fn_33"></span>[32:4](srp04.htm#fr_33) Tereshchenko, V. 156.
+<span id="fn_33"></span>[32:4](srp04.htm#fr_33.md) Tereshchenko, V. 156.
 
-<span id="fn_34"></span>[33:5](srp04.htm#fr_34) Tereshchenko, V. 157.
+<span id="fn_34"></span>[33:5](srp04.htm#fr_34.md) Tereshchenko, V. 157.
 
-<span id="fn_35"></span>[34:6](srp04.htm#fr_35) Tereshchenko, V. 159.
+<span id="fn_35"></span>[34:6](srp04.htm#fr_35.md) Tereshchenko, V. 159.
 
-<span id="fn_36"></span>[35:7](srp04.htm#fr_36) Tereshchenko, V. 165.
+<span id="fn_36"></span>[35:7](srp04.htm#fr_36.md) Tereshchenko, V. 165.
 
-<span id="fn_37"></span>[38:8](srp04.htm#fr_37) Ruibnikof, III. 427-429.
+<span id="fn_37"></span>[38:8](srp04.htm#fr_37.md) Ruibnikof, III. 427-429.
 
-<span id="fn_38"></span>[39:9](srp04.htm#fr_38) The word "song" is used
+<span id="fn_38"></span>[39:9](srp04.htm#fr_38.md) The word "song" is used
 here in the sense in which we generously employ it. The Russian term
 *Pyesni* is applied to poems of all kind, epic as well as lyric.
 
-<span id="fn_39"></span>[41:1](srp04.htm#fr_39) Ruibnikof, III. xlvii.
+<span id="fn_39"></span>[41:1](srp04.htm#fr_39.md) Ruibnikof, III. xlvii.
 
-<span id="fn_40"></span>[41:2](srp04.htm#fr_40) Ruibnikof, III. 423.
+<span id="fn_40"></span>[41:2](srp04.htm#fr_40.md) Ruibnikof, III. 423.
 
-<span id="fn_41"></span>[42:3](srp04.htm#fr_41) Sakharof, I. iii. 238.
+<span id="fn_41"></span>[42:3](srp04.htm#fr_41.md) Sakharof, I. iii. 238.
 
-<span id="fn_42"></span>[43:4](srp04.htm#fr_42) Sakharof, I. iii. 237.
+<span id="fn_42"></span>[43:4](srp04.htm#fr_42.md) Sakharof, I. iii. 237.
 
-<span id="fn_43"></span>[44:5](srp04.htm#fr_43) Sakharof, I. iii. 240.
+<span id="fn_43"></span>[44:5](srp04.htm#fr_43.md) Sakharof, I. iii. 240.
 
-<span id="fn_44"></span>[44:6](srp04.htm#fr_44) Sakharof, I. iii. 243.
+<span id="fn_44"></span>[44:6](srp04.htm#fr_44.md) Sakharof, I. iii. 243.
 
-<span id="fn_45"></span>[45:7](srp04.htm#fr_45) The *Kisten* is a metal
+<span id="fn_45"></span>[45:7](srp04.htm#fr_45.md) The *Kisten* is a metal
 ball to which a leather strap or a short wooden handle is attached, a
 kind of "slung shot."
 
-<span id="fn_46"></span>[45:8](srp04.htm#fr_46) Sakharof, I. iii. 227.
+<span id="fn_46"></span>[45:8](srp04.htm#fr_46.md) Sakharof, I. iii. 227.
 
-<span id="fn_47"></span>[46:9](srp04.htm#fr_47) Sakharof, I. iii. 226.
+<span id="fn_47"></span>[46:9](srp04.htm#fr_47.md) Sakharof, I. iii. 226.
 The same idea occurs at the end of our own ballad of "Robin Hood's Death
 and Burial:"--
 
@@ -2668,60 +2668,60 @@ Let me have length and breadth enough,
 That they may say, when I am dead,  
   Here lies bold Robin Hood."
 
-<span id="fn_48"></span>[48:1](srp04.htm#fr_48) Sakharof, I. iii. 224.
+<span id="fn_48"></span>[48:1](srp04.htm#fr_48.md) Sakharof, I. iii. 224.
 
-<span id="fn_49"></span>[49:2](srp04.htm#fr_49) Sakharof, I. iii. 230,
+<span id="fn_49"></span>[49:2](srp04.htm#fr_49.md) Sakharof, I. iii. 230,
 231.
 
-<span id="fn_50"></span>[50:3](srp04.htm#fr_50) Moryanka means a female
+<span id="fn_50"></span>[50:3](srp04.htm#fr_50.md) Moryanka means a female
 dweller by the seaside. Moryanushka is an affectionate diminutive of the
 word.
 
-<span id="fn_51"></span>[50:4](srp04.htm#fr_51) Sakharof, I. iii. 228.
+<span id="fn_51"></span>[50:4](srp04.htm#fr_51.md) Sakharof, I. iii. 228.
 
-<span id="fn_52"></span>[51:5](srp04.htm#fr_52) Sakharof, I. iii. 232.
+<span id="fn_52"></span>[51:5](srp04.htm#fr_52.md) Sakharof, I. iii. 232.
 
-<span id="fn_53"></span>[52:6](srp04.htm#fr_53) Sakharof, I. iii. 234.
+<span id="fn_53"></span>[52:6](srp04.htm#fr_53.md) Sakharof, I. iii. 234.
 
-<span id="fn_54"></span>[52:7](srp04.htm#fr_54) Ruibnikof, III. 460.
+<span id="fn_54"></span>[52:7](srp04.htm#fr_54.md) Ruibnikof, III. 460.
 
-<span id="fn_55"></span>[53:8](srp04.htm#fr_55) Sakharof, I. iii. 235.
+<span id="fn_55"></span>[53:8](srp04.htm#fr_55.md) Sakharof, I. iii. 235.
 
-<span id="fn_56"></span>[54:9](srp04.htm#fr_56) Sakharof, I. iii. 232.
+<span id="fn_56"></span>[54:9](srp04.htm#fr_56.md) Sakharof, I. iii. 232.
 
-<span id="fn_57"></span>[55:1](srp04.htm#fr_57) Professor Buslaef has
+<span id="fn_57"></span>[55:1](srp04.htm#fr_57.md) Professor Buslaef has
 written an interesting article on these poems. *Ist. Ocherki*, I.
 470-548. They have been printed by the St. Petersburg Academy of
 Sciences.
 
-<span id="fn_58"></span>[57:2](srp04.htm#fr_58) See Maikof, "On the
+<span id="fn_58"></span>[57:2](srp04.htm#fr_58.md) See Maikof, "On the
 Builínas of the Vladímir Cycle." p. 1.
 
-<span id="fn_59"></span>[58:3](srp04.htm#fr_59) *Tyaga* seems to mean
+<span id="fn_59"></span>[58:3](srp04.htm#fr_59.md) *Tyaga* seems to mean
 here the equivalent of the earthly weight. In order to lift the earth
 Svyatogor must find a standing-place capable of supporting him when so
 heavily burdened. The remark is somewhat similar to that attributed to
 Archimedes.
 
-<span id="fn_60"></span>[58:4](srp04.htm#fr_60) *Peremetnaya Sumochka*,
+<span id="fn_60"></span>[58:4](srp04.htm#fr_60.md) *Peremetnaya Sumochka*,
 a pair of wallets or bags, fastened together so as to be thrown across
 the shoulders or the saddle.
 
-<span id="fn_61"></span>[59:5](srp04.htm#fr_61) Ruibnikof, I. 32.
+<span id="fn_61"></span>[59:5](srp04.htm#fr_61.md) Ruibnikof, I. 32.
 
-<span id="fn_62"></span>[62:6](srp04.htm#fr_62) The breath (*dukh*) was
+<span id="fn_62"></span>[62:6](srp04.htm#fr_62) The breath (*dukh*.md) was
 supposed to be intimately connected with the soul (*dusha*).
 
-<span id="fn_63"></span>[63:7](srp04.htm#fr_63) Ruibnikof, I. 33-42.
+<span id="fn_63"></span>[63:7](srp04.htm#fr_63.md) Ruibnikof, I. 33-42.
 
-<span id="fn_64"></span>[66:8](srp04.htm#fr_64) *Solnuishko*, or "Dear
+<span id="fn_64"></span>[66:8](srp04.htm#fr_64.md) *Solnuishko*, or "Dear
 Sun," a name frequently given to Vladimir in these poems.
 
-<span id="fn_65"></span>[66:9](srp04.htm#fr_65) Ruibnikof, I. 26-32.
+<span id="fn_65"></span>[66:9](srp04.htm#fr_65.md) Ruibnikof, I. 26-32.
 
-<span id="fn_66"></span>[79:1](srp04.htm#fr_66) Ruibnikof, iii. pp.
+<span id="fn_66"></span>[79:1](srp04.htm#fr_66.md) Ruibnikof, iii. pp.
 vi-lii. Hilferding, however, denies that the Builínas are dying out.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Section I.--The Old Gods](srp05)
+[Next: Chapter II: Section I.--The Old Gods](srp05.md)

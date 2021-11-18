@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw64)  [Next](omw66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw64)  [Next](omw66.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ heaven of great Indra.
 
 ------------------------------------------------------------------------
 
-[Next: Sāvitrī and the Lord of the Dead](omw66)
+[Next: Sāvitrī and the Lord of the Dead](omw66.md)

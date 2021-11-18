@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc18) 
-[Next](dsc20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc18.md) 
+[Next](dsc20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Lessons for Developing Spiritual Consciousness*, by A.P. Mukerji,
 \[1911\], at Intangible Textual Heritage
 
@@ -109,7 +109,7 @@ the Path.
 
 <span id="page_145">p. 145</span>
 
-and Action, lest by recklessness or [inadvertency](errata.htm#28) I
+and Action, lest by recklessness or [inadvertency](errata.htm#28.md) I
 should, in any way, however slightly, sully myself Spiritually and thus
 give myself cause for self-condemnation. I resolve to put Emotion under
 the yoke of Reason.
@@ -299,4 +299,4 @@ of PRANA. Hence learn to breathe.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. Self-de-Hypnotisation](dsc20)
+[Next: Chapter XVIII. Self-de-Hypnotisation](dsc20.md)

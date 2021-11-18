@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mzb00)  [Next](mzb02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mzb00)  [Next](mzb02.md) 
 
 ------------------------------------------------------------------------
 
@@ -288,4 +288,4 @@ the Kwannongyo below.\]
 
 ------------------------------------------------------------------------
 
-[Next: II. The Dharanis](mzb02)
+[Next: II. The Dharanis](mzb02.md)

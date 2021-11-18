@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NJRA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NJRA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NJRA/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](wsl00)    [Text
-\[Zipped\]](wsl.txt.gz)
+[Contents](#contents)    [Start Reading](wsl00.md)    [Text
+\[Zipped\]](wsl.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -41,70 +41,70 @@ return? Questions to keep in mind as one reads...
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](wsl00)  
-[Preface by Transcriber.](wsl01)  
-[Dedication by Author.](wsl02)  
+<span id="contents"></span> [Title Page](wsl00.md)  
+[Preface by Transcriber.](wsl01.md)  
+[Dedication by Author.](wsl02.md)  
 <span id="section_000"></span>
 
 ### Part I. Days of Darkness
 
-[Chapter I.--My Death](wsl03)  
-[Chapter II.--Despair](wsl04)  
+[Chapter I.--My Death](wsl03.md)  
+[Chapter II.--Despair](wsl04.md)  
 [Chapter III.--Hope--Wanderings on the Earth Plane--A Door of Spiritual
-Sight](wsl05)  
-[Chapter IV.--The Brotherhood of Hope](wsl06)  
-[Chapter V.--Spirits of the Earth Plane](wsl07)  
+Sight](wsl05.md)  
+[Chapter IV.--The Brotherhood of Hope](wsl06.md)  
+[Chapter V.--Spirits of the Earth Plane](wsl07.md)  
 [Chapter VI.--Twilight Lands--Love's Gifts--The Valley of
 Selfishness--The Country of Unrest--The Miser's Land--The Gambler's
-Land](wsl08)  
-[Chapter VII.--The Story of Raoul](wsl09)  
-[Chapter VIII.--Temptation](wsl10)  
-[Chapter IX.--The Frozen Land--The Caverns of Slumber](wsl11)  
+Land](wsl08.md)  
+[Chapter VII.--The Story of Raoul](wsl09.md)  
+[Chapter VIII.--Temptation](wsl10.md)  
+[Chapter IX.--The Frozen Land--The Caverns of Slumber](wsl11.md)  
 [Chapter X.--My House in the Twilight Lands--Communion Between the
-Living and the Dead](wsl12)  
-[Chapter XI.--Ahrinziman](wsl13)  
-[Chapter XII.--My Second Death](wsl14)  
+Living and the Dead](wsl12.md)  
+[Chapter XI.--Ahrinziman](wsl13.md)  
+[Chapter XII.--My Second Death](wsl14.md)  
 <span id="section_001"></span>
 
 ### Part II. The Dawn of Light
 
 [Chapter XIII.--Welcome in the Land of Dawn--My New Home
-There.](wsl15)  
-[Chapter XIV.--A Father's Love](wsl16)  
-[Chapter XV.--A New Expedition Proposed](wsl17)  
-[Chapter XVI.--Clairvoyance--The Journey Begun](wsl18)  
+There.](wsl15.md)  
+[Chapter XIV.--A Father's Love](wsl16.md)  
+[Chapter XV.--A New Expedition Proposed](wsl17.md)  
+[Chapter XVI.--Clairvoyance--The Journey Begun](wsl18.md)  
 [Chapter XVII.--The Astral Plane and Its Inhabitants--Spooks, Elves,
-Vampires, etc.](wsl19)  
-[Chapter XVIII.--The Approach to Hell](wsl20)  
+Vampires, etc.](wsl19.md)  
+[Chapter XVIII.--The Approach to Hell](wsl20.md)  
 <span id="section_002"></span>
 
 ### Part III. The Kingdom of Hell
 
-[Chapter XIX.--Through the Wall of Fire](wsl21)  
-[Chapter XX.--The Imperial City](wsl22)  
+[Chapter XIX.--Through the Wall of Fire](wsl21.md)  
+[Chapter XX.--The Imperial City](wsl22.md)  
 [Chapter XXI.--The Fires of Hell--A Vengeful Spirit--Pirates--The Sea of
 Foul Mud--The Mountains of Selfish Oppression--The Forest of
-Desolation--Messages of Love](wsl23)  
+Desolation--Messages of Love](wsl23.md)  
 [Chapter XXII.--Amusements in a Great City of Hell--Words of
-Caution](wsl24)  
+Caution](wsl24.md)  
 [Chapter XXIII.--The Palace of My Ancestors--False Brothers
-Baffled](wsl25)  
-[Chapter XXIV.--The Story of Benedetto--Plotters Again Baffled](wsl26)  
-[Chapter XXV.--A Pitched Battle in Hell](wsl27)  
-[Chapter XXVI.--Farewell to the Dark Land](wsl28)  
+Baffled](wsl25.md)  
+[Chapter XXIV.--The Story of Benedetto--Plotters Again Baffled](wsl26.md)  
+[Chapter XXV.--A Pitched Battle in Hell](wsl27.md)  
+[Chapter XXVI.--Farewell to the Dark Land](wsl28.md)  
 <span id="section_003"></span>
 
 ### Part IV. Through the Gates of Gold
 
 [Chapter XXVII.--Welcome on Our Return--A Magic Mirror--Work in the
 Cities of Earth--The Land of Remorse--The Valley of Phantom Mists--A
-Home of Rest](wsl29)  
-[Chapter XXVIII--My Home and Work in the Morning Land](wsl30)  
-[Chapter XXIX.--The Formation of Planets](wsl31)  
-[Chapter XXX.--Materialization of Spirits](wsl32)  
+Home of Rest](wsl29.md)  
+[Chapter XXVIII--My Home and Work in the Morning Land](wsl30.md)  
+[Chapter XXIX.--The Formation of Planets](wsl31.md)  
+[Chapter XXX.--Materialization of Spirits](wsl32.md)  
 [Chapter XXXI.--Why the Spheres Are Invisible--Spirit
-Photographs](wsl33)  
+Photographs](wsl33.md)  
 [Chapter XXXII.--Through the Gates of Gold--My Mother--My Home in the
-Land of Bright Day--I Am Joined by Benedetto](wsl34)  
-[Chapter XXXIII.--My Vision of the Spheres](wsl35)  
-[Chapter XXXIV.--Conclusion](wsl36)  
+Land of Bright Day--I Am Joined by Benedetto](wsl34.md)  
+[Chapter XXXIII.--My Vision of the Spheres](wsl35.md)  
+[Chapter XXXIV.--Conclusion](wsl36.md)  

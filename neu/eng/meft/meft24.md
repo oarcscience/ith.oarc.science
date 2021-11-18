@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft23)  [Next](meft25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft23)  [Next](meft25.md) 
 
 ------------------------------------------------------------------------
 
 # The Buried Moon
 
 <span id="img_023"></span> [![](tn/023.jpg)  
-Click to enlarge](img/023.jpg)
+Click to enlarge](img/023.jpg.md)
 
 LONG ago, in my grandmother's time, the Carland was all in bogs, great
 pools of black water, and creeping trickles of green water, and squishy
@@ -189,4 +189,4 @@ she'd have driven the darkness and the Bogles clean away if she could.
 
 ------------------------------------------------------------------------
 
-[Next: A Son of Adam](meft25)
+[Next: A Son of Adam](meft25.md)

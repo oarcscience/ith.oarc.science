@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](osgp00)  [Next](osgp02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](osgp00)  [Next](osgp02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Origin and Significance of the Great Pyramid*, by C. Staniland
 Wake, \[1882\], at Intangible Textual Heritage
 
@@ -60,10 +60,10 @@ Literary Club on the 13th March, 1882.
 
 <span id="img__00500"></span> <span align="CENTER"> [![&lt;i&gt;The
 Sphinx, and the Great Pyramid of Gizeh&lt;/i&gt;.](tn/_00500.jpg)  
-Click to enlarge](img/_00500.jpg)  
+Click to enlarge](img/_00500.jpg.md)  
 *The Sphinx, and the Great Pyramid of Gizeh*.  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](osgp02)
+[Next: Table of Contents](osgp02.md)

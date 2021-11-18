@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](bus03)  [Next](bus05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](bus03)  [Next](bus05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Bustan of Sadi*, tr. by A. Hart Edwards, \[1911\], at Intangible
 Textual Heritage
 
@@ -90,8 +90,8 @@ eaten, but what knowers of truth take away with respect."
 
 <span id="page_28">p. 28</span>
 
-When I built this Palace of Wealth, [1](bus15.htm#an_1) I furnished it
-with ten doors of instruction. [2](bus15.htm#an_2)
+When I built this Palace of Wealth, [1](bus15.htm#an_1.md) I furnished it
+with ten doors of instruction. [2](bus15.htm#an_2.md)
 
 It was in the year 655 that this famous treasury became full of the
 pearls of eloquence. A quilted robe of silk, or of Chinese embroidery,
@@ -104,10 +104,10 @@ faultfinding.
 
 Assuredly, my compositions are esteemed in Persia as the priceless musk
 of Khutan. Sadi brings roses to the garden with mirth. His verses are
-like dates encrusted with sugar—when opened, a stone [3](bus15.htm#an_3)
+like dates encrusted with sugar—when opened, a stone [3](bus15.htm#an_3.md)
 is revealed inside.
 
-#### CONCERNING ATABAK ABU BAKR, SON OF SAD [4](bus15.htm#an_4)
+#### CONCERNING ATABAK ABU BAKR, SON OF SAD [4](bus15.htm#an_4.md)
 
 Although not desiring to write in praise of kings, I have inscribed this
 book to the name of a certain one so that perhaps the pious may say:
@@ -123,4 +123,4 @@ his friend, and the Creator be his guardian.
 ------------------------------------------------------------------------
 
 [Next: Chapter I. Concerning Justice, Counsel, and the Administration of
-Government](bus05)
+Government](bus05.md)

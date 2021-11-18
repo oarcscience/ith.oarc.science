@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat13.htm#XCIII) 
-[Previous](satl092)  [Next](satl094) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat13.htm#XCIII.md) 
+[Previous](satl092)  [Next](satl094.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ eius egregie decebant. &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: XCIV](satl094)
+[Next: XCIV](satl094.md)

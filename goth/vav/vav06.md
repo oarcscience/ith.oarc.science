@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav05)  [Next](vav07) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav05)  [Next](vav07.md) 
 
 ------------------------------------------------------------------------
 
@@ -1029,4 +1029,4 @@ true tale."
 
 ------------------------------------------------------------------------
 
-[Next: The Vampire's Third Story. Of a High-minded Family.](vav07)
+[Next: The Vampire's Third Story. Of a High-minded Family.](vav07.md)

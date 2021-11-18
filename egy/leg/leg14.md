@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg13)  [Next](leg15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg13)  [Next](leg15.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ matter of primeval matter.
 I have spread myself abroad therein, and I have made strong my hand. I
 was ONE by myself, for they (i.e., the gods) had not been brought forth,
 and I had emitted from myself neither Shu nor Tefnut. I brought my own
-name <span id="fr_57"></span>[1](#fn_56) into my mouth as a word of
+name <span id="fr_57"></span>[1](#fn_56.md) into my mouth as a word of
 power, and I forthwith came into being under the form of things which
 are and under the form of Khepera. I came into being from out of
 primeval matter, and from the beginning I appeared under the form of the
@@ -83,9 +83,9 @@ accursed back."
 
 ### Footnotes
 
-<span id="fn_56"></span>[9:1](leg14.htm#fr_57) I.e., I uttered my own
+<span id="fn_56"></span>[9:1](leg14.htm#fr_57.md) I.e., I uttered my own
 name from my own mouth as a word of power.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of the Destruction of Mankind, Chapter I.](leg15)
+[Next: The Legend of the Destruction of Mankind, Chapter I.](leg15.md)

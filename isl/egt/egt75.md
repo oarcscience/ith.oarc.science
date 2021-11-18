@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt74)  [Next](egt76) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt74)  [Next](egt76.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ impress which marks the wicked!
 
 ------------------------------------------------------------------------
 
-[Next: ON TURNING TO GOD.](egt76)
+[Next: ON TURNING TO GOD.](egt76.md)

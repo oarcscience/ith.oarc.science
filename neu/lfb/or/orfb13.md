@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb12)  [Next](orfb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb12)  [Next](orfb14.md) 
 
 </div>
 
@@ -373,6 +373,6 @@ people well.
 
 ------------------------------------------------------------------------
 
-[Next: The Foolish Weaver](orfb14)
+[Next: The Foolish Weaver](orfb14.md)
 
 </div>

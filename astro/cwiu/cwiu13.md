@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu12)  [Next](cwiu14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu12)  [Next](cwiu14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ out the great danger that they implied from the theological point of
 view. One of the chief advantages of the radical immaterialistic and
 sensualistic empiricism advocated by Berkeley is, according to him, the
 possibility it gives us of getting rid of these entities, asserted
-in[1](cwiu16.htm#an_10_1)
+in[1](cwiu16.htm#an_10_1.md)
 
 <div class="iq">
 
@@ -73,7 +73,7 @@ reality is unthinkable and "*philosophic considerations of motion doth
 not imply the being of absolute space* distinct from what is perceived
 by sense and related to bodies," Newton's assertions to the contrary
 notwithstanding. Moreover, and though last, not
-least,[3](cwiu16.htm#an_10_3)
+least,[3](cwiu16.htm#an_10_3.md)
 
 <div class="iq">
 
@@ -108,13 +108,13 @@ as was thought by some of his historians, seems nevertheless to have
 been the reason, or at least one of the reasons—the second being
 Leibniz's accusation of introducing, by his theory of universal
 gravitation, the use of a senseless occult quality into natural
-philosophy[4](cwiu16.htm#an_10_4)—that induced Newton to add to the
+philosophy[4](cwiu16.htm#an_10_4.md)—that induced Newton to add to the
 second edition of his *Principia* the famous *General Scholium* which
 expresses so forcefully the religious conceptions that crown and support
 its empirico-mathematical construction and thus reveal the real meaning
 of his "philosophical" method. It seems to me rather probable that he
 wanted to dissociate himself from the somewhat compromising allies
-hinted at by Berkeley[4a](cwiu16.htm#an_10_4a) and, by exposing his
+hinted at by Berkeley[4a](cwiu16.htm#an_10_4a.md) and, by exposing his
 views in his own manner, to demonstrate—as Bentley had already attempted
 to do—that natural philosophy, that is, *his* natural philosophy, leads
 necessarily not to the denial but to the affirmation of God's existence
@@ -137,7 +137,7 @@ started, the motion of the heavenly bodies could continue forever; it is
 only at their beginning that God's direct intervention appears
 indispensable. On the other hand, the actual structure of the world
 (that is, of the solar system) is, of course, asserted to be the result
-of a conscious and intelligent choice:[5](cwiu16.htm#an_10_5)
+of a conscious and intelligent choice:[5](cwiu16.htm#an_10_5.md)
 
 <div class="iq">
 
@@ -185,7 +185,7 @@ Newton's God is not merely a "philosophical" God, the impersonal and
 uninterested First Cause of the Aristotelians, or the—for Newton—utterly
 indifferent and world-absent God of Descartes. He is—or, in any case,
 Newton wants him to be—the Biblical God, the effective Master and Ruler
-of the world created by him:[6](cwiu16.htm#an_10_6)
+of the world created by him:[6](cwiu16.htm#an_10_6.md)
 
 <div class="iq">
 
@@ -196,7 +196,7 @@ has a respect to servants; and *Deity* is the dominion of God not over
 his own body, as those imagine who fancy God to be the soul of the
 world, but over servants. The Supreme God is a Being eternal, infinite,
 absolutely perfect; but a being, however perfect, without dominion,
-cannot be said to be Lord God; for we say, my God[,](errata.htm#5) your
+cannot be said to be Lord God; for we say, my God[,](errata.htm#5.md) your
 God, the God of *Israel*, the God of Gods, the Lord of Lords; but we do
 not say, my Eternal, your Eternal, the Eternal of *Israel*, the Eternal
 of Gods; we do not say, my Infinite, or my Perfect: these arc titles
@@ -223,7 +223,7 @@ His duration reaches from eternity to eternity; his presence from
 infinity to infinity . . . the Newtonian God is, patently, not above
 time and space: His eternity is sempiternal duration, His omnipresence
 is infinite extension. This being so, it is clear why Newton
-insists:[7](cwiu16.htm#an_10_7)
+insists:[7](cwiu16.htm#an_10_7.md)
 
 <div class="iq">
 
@@ -236,7 +236,7 @@ duration or space, but he endures and is present.
 God of Henry More and of Joseph Raphson, he not only "endures forever
 and is everywhere present"; but it is "by existing always and
 everywhere" that "he constitutes duration and space." It is not
-surprising therefore that[8](cwiu16.htm#an_10_8)
+surprising therefore that[8](cwiu16.htm#an_10_8.md)
 
 <div class="iq">
 
@@ -261,7 +261,7 @@ organs of sense.
 
 </div>
 
-And that,[9](cwiu16.htm#an_10_9)
+And that,[9](cwiu16.htm#an_10_9.md)
 
 <div class="iq">
 
@@ -283,7 +283,7 @@ it is because of this ubiquitous and sempiternal co-presence with things
 that God is able to exercise His dominion upon them; and it is this
 dominion or, more exactly, the effect of this dominion that reveals to
 us His otherwise unknowable and incomprehensible
-essence:[10](cwiu16.htm#an_10_10)
+essence:[10](cwiu16.htm#an_10_10.md)
 
 <div class="iq">
 
@@ -319,7 +319,7 @@ qualities " and magical causes, but, on the contrary, restricts his
 investigation to the study and analysis of observable, patent phenomena,
 renouncing, at least for the time being, the causal explanation of the
 experientially and experimentally established
-laws:[11](cwiu16.htm#an_10_11)
+laws:[11](cwiu16.htm#an_10_11.md)
 
 <div class="iq">
 
@@ -355,7 +355,7 @@ all the motions of the celestial bodies, and of our sea.
 
 </div>
 
-"I feign no hypotheses . . . "[12](cwiu16.htm#an_10_12) *Hypotheses non
+"I feign no hypotheses . . . "[12](cwiu16.htm#an_10_12.md) *Hypotheses non
 fingo* . . . a phrase that became extremely famous and also like all, or
 nearly all, celebrated utterances torn out of their context, completely
 perverted in its meaning. "I feign no hypotheses." Of course not; why
@@ -393,7 +393,7 @@ of the *Principia*, are the special and favorite dish of the Cartesians,
 who, moreover, are conduced by them into the assumptions of truly and
 really "occult" properties and realities. Thus having explained the
 sterility of Aristotelian and scholastic philosophy of nature, Cotes
-continues:[13](cwiu16.htm#an_10_13)
+continues:[13](cwiu16.htm#an_10_13.md)
 
 <div class="iq">
 
@@ -434,7 +434,7 @@ around the sun and describe conic sections" (an unmistakable allusion to
 the "harmonic circulation" of the great German mathematician and
 arch-foe of Newton), a theory which Cotes declares to be a "fable" as
 fantastic as that of the Cartesian vortices, and of which he presents a
-rather witty and biting parody:[14](cwiu16.htm#an_10_14)
+rather witty and biting parody:[14](cwiu16.htm#an_10_14.md)
 
 <div class="iq">
 
@@ -470,7 +470,7 @@ so happily excluded? But I am ashamed to dwell so long upon trifles.
 
 Trifles? As a matter of fact, we are not dealing with trifles. The use
 of "hypotheses" constitutes, indeed, a deep and dangerous perversion of
-the very meaning and aim of natural philosophy:[15](cwiu16.htm#an_10_15)
+the very meaning and aim of natural philosophy:[15](cwiu16.htm#an_10_15.md)
 
 <div class="iq">
 
@@ -488,7 +488,7 @@ much farther and, by the denial of void space as impossible, they impose
 upon God a certain determinate manner of action, restrict his power and
 freedom, and subject him, thus, to necessity; finally, they deny
 altogether that the world was freely created by God. A teaching not only
-infamous, but also false (as Newton has shown):[16](cwiu16.htm#an_10_16)
+infamous, but also false (as Newton has shown):[16](cwiu16.htm#an_10_16.md)
 
 <div class="iq">
 
@@ -556,7 +556,7 @@ God's action in the world and push him out of it. It is indeed,
 practically certain—and this knowledge makes the "feigning of
 hypotheses" completely nonsensical—that the true and ultimate cause of
 gravity is the action of the "spirit" of God. Newton therefore concludes
-his *General Scholium*:[11](cwiu16.htm#an_10_11)
+his *General Scholium*:[11](cwiu16.htm#an_10_11.md)
 
 <div class="iq">
 
@@ -579,4 +579,4 @@ laws by which this electric and elastic spirit operates.
 
 ------------------------------------------------------------------------
 
-[Next: XI. The Work-Day God and the God of the Sabbath](cwiu14)
+[Next: XI. The Work-Day God and the God of the Sabbath](cwiu14.md)

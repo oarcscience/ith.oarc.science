@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits064) [Next](bits066)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits064) [Next](bits066.md)
 
 ------------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ attain to insight, and be a frequenter of lonely places."
 
 ------------------------------------------------------------------------
 
-[Next: § 66. Spiritual Law in the Natural World](bits066)
+[Next: § 66. Spiritual Law in the Natural World](bits066.md)
 
  
 

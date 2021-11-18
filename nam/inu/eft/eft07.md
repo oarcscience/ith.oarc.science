@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft06)  [Next](eft08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft06)  [Next](eft08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_18">p. 18</span>
 
-### NUKÚNGUASIK, WHO ESCAPED FROM THE TUPILAK<span id="page_18_fr_*"></span>[\*](#page_18_note_*)
+### NUKÚNGUASIK, WHO ESCAPED FROM THE TUPILAK<span id="page_18_fr_*"></span>[\*](#page_18_note_*.md)
 
 NUKÚNGUASIK, it is said, had land in a place with many brothers. When
 the brothers made a catch, they gave him meat for the pot; he himself
@@ -58,7 +58,7 @@ search of him, the eldest of them said to Nukúnguasik:
 <span id="img_018"></span> <span align="CENTER"> [![Making a tupilak.
 Note the bones of various animals used. The monster is on the point of
 coming to life.](tn/018.jpg)  
-Click to enlarge](img/018.jpg)  
+Click to enlarge](img/018.jpg.md)  
 Making a tupilak. Note the bones of various animals used. The monster is
 on the point of coming to life.  
 </span>
@@ -92,7 +92,7 @@ after many years.
 
 <span id="footnotes_page_18">p. 18</span>
 
-<span id="page_18_note_*"></span>[\*](#page_18_fr_*) Tupilak: a monster
+<span id="page_18_note_*"></span>[\*](#page_18_fr_*.md) Tupilak: a monster
 created by one having magic powers, who uses it to wreak vengeance on an
 enemy.
 
@@ -128,4 +128,4 @@ enemy.
 
 ------------------------------------------------------------------------
 
-[Next: QUJÂVÂRSSUK](eft08)
+[Next: QUJÂVÂRSSUK](eft08.md)

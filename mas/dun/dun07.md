@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](dun06)  [Next](dun08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](dun06)  [Next](dun08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Duncan's Masoic Ritual and Monitor*, by Malcom C. Duncan, \[1866\], at
 Intangible Textual Heritage
 
@@ -24,11 +24,11 @@ Intangible Textual Heritage
 No Mason can receive the Degree of Most Excellent Master until after he
 has become a Past Master, and presided in a Lodge, or, in other words,
 been inducted into the Oriental Chair of King Solomon. When the Temple
-of Jerusalem was finished, <span id="fr_67"></span>[1](#fn_67) those who
+of Jerusalem was finished, <span id="fr_67"></span>[1](#fn_67.md) those who
 had proved themselves worthy, by their virtue, skill, and fidelity, were
 installed as Most Excellent Masters, and, even at this date, none but
 those who have a perfect knowledge of all preceding Degrees are (or
-should be) admitted. <span id="fr_68"></span>[2](#fn_68)
+should be) admitted. <span id="fr_68"></span>[2](#fn_68.md)
 
 <span id="page_201">p. 201</span>
 
@@ -60,7 +60,7 @@ acknowledged as a Most Excellent Master."
 Lodges of Most Excellent Masters are "dedicated to King Solomon."
 
 The officers of the Lodge are stationed as in the Entered Apprentice's
-Degree, described on Page [8](dun02.htm#page_8). The Master presiding
+Degree, described on Page [8](dun02.htm#page_8.md). The Master presiding
 calls the Lodge to order, and says:
 
 Master (to the Junior Warden.)--Brother Junior, are they all Most
@@ -159,7 +159,7 @@ at the same time to the right, they extend their arms, and then suffer
 them to fall loose and somewhat nerveless by their sides. This sign is
 said by Masons, to represent the sign of astonishment made by the Queen
 of Sheba, on first viewing Solomon's Temple. (See [Fig.
-30](#img_21200).)
+30](#img_21200)..md)
 
 The Right Worshipful Master resumes his seat and says: "Brethren, attend
 to the signs." He himself then gives all the signs, from an Entered
@@ -229,7 +229,7 @@ S. D.--Give it to me.
 Junior Deacon whispers in the ear of the Senior Deacon the word RABBONI.
 (In many Lodges, the Past Master's word, GIBLEM, is used as pass-word
 for this Degree, and the word RABBONI, <span
-id="fr_69"></span>[1](#fn_69) as the real word.)
+id="fr_69"></span>[1](#fn_69) as the real word..md)
 
 S. D.--The word is right. You will wait until the Most Excellent Master
 is made acquainted with your request, and his answer returned.
@@ -288,7 +288,7 @@ time they pass around the Lodge, when opposite the Junior Warden, he
 gives one rap with the gavel; when opposite the Senior Warden, he does
 the same, and likewise when opposite the Right Worshipful Master. The
 second time around each gives two blows; the third, three, and so on,
-until they arrive to six. (See Note  [K](dun10.htm#xref_K), Appendix.)
+until they arrive to six. (See Note  [K](dun10.htm#xref_K), Appendix..md)
 
 During this time the Right Worshipful Master reads the following verses
 from Psalm cxii.:
@@ -342,8 +342,8 @@ the first step in Masonry, as in the Entered Apprentice's Degree, that
 is, stepping off with the left foot, and bringing up the right foot so
 as to form a square; then taking the steps as directed in the Fellow
 Craft Degree, and so on up to this one--beginning always with the
-Entered Apprentice's step. (See [Fig. 14](dun04.htm#img_09300), [p.
-93](dun04.htm#page_93).)
+Entered Apprentice's step. (See [Fig. 14](dun04.htm#img_09300.md), [p.
+93](dun04.htm#page_93)..md)
 
 On arriving at the altar the candidate kneels on both knees, and places
 both hands on the Bible, square, and compasses. The Master then comes
@@ -389,7 +389,7 @@ injuring myself or family.
 Furthermore do I promise and swear, that the secrets of a
 
 <span id="img_20700"></span> ![FIG. 28. SIGN OF A MOST EXCELLENT
-MASTER](img/20700.jpg)  
+MASTER](img/20700.jpg.md)  
 FIG. 28. SIGN OF A MOST EXCELLENT MASTER
 
 brother of this Degree, given to me in charge as such, and 1 knowing
@@ -417,11 +417,11 @@ Mason. So help me God, and keep me steadfast in the due performance of
 the same
 
 Master (to the candidate.)--Detach your hands and kiss the book six
-times. <span id="fr_70"></span>[1](#fn_70) (Candidate obeys.) You will
+times. <span id="fr_70"></span>[1](#fn_70) (Candidate obeys..md) You will
 now rise and
 
 <span id="img_20800"></span> ![FIG. 29. GRIP OF A MOST EXCELLENT
-MASTER.](img/20800.jpg)  
+MASTER.](img/20800.jpg.md)  
 FIG. 29. GRIP OF A MOST EXCELLENT MASTER.
 
 receive from me the sign, grip, and word of a Most Excellent Master
@@ -432,13 +432,13 @@ Mason.
 The sign is given by placing your two hands, one on each breast, the
 fingers meeting in the centre of the body, and jerking them apart as
 though you were trying to tear open your breast. It alludes to the
-penalty of the obligation. (See [Fig. 28](#img_20700).)
+penalty of the obligation. (See [Fig. 28](#img_20700)..md)
 
 The grip is given by taking each other by the right hand, and clasping
 them so that each compress the third finger of the other with his thumb.
 (If one hand is large and the other small, they cannot both give the
 grip at the same time.) It is called the grip of all grips, because it
-is said to cover all the preceding grips. (See [Fig. 29](#img_20800).)
+is said to cover all the preceding grips. (See [Fig. 29](#img_20800)..md)
 
 Master (holding candidate by his hand and placing the inside of his
 right foot to the inside of candidate's right foot) whispers in his
@@ -491,13 +491,13 @@ To bring forth the cope-stone with shouting and praise.
 
 The keystone is now brought forward and placed in its proper place; that
 is, two pillars or columns, called Jachin and Boaz (see pp.
-[71](dun03.htm#page_71) and [83](dun03.htm#page_83)), each about five
+[71](dun03.htm#page_71) and [83](dun03.htm#page_83).md), each about five
 feet high, are set up, and an arch placed on them, made of planks or
 boards, in imitation of block-work, in the centre of which is a mortise
 left for the reception of a keystone; the Most Excellent Master takes
 the keystone and steps up into a chair, and places it into the arch, and
 drives it down to its place by giving it six raps with his gavel. <span
-id="fr_71"></span>[1](#fn_71)
+id="fr_71"></span>[1](#fn_71.md)
 
 As soon as this ceremony is through, all the brethren move around as
 before, continuing the song:
@@ -526,7 +526,7 @@ And we shall be greeted
 
 The Ark, which all this time has been carried round by four of the
 brethren, is brought forward and placed on the altar, and a pot of
-incense <span id="fr_72"></span>[2](#fn_72) is placed on the ark.
+incense <span id="fr_72"></span>[2](#fn_72.md) is placed on the ark.
 
 <span id="page_211">p. 211</span>
 
@@ -561,10 +561,10 @@ The knowledge of Masons
 
 As they begin the next verses, each one throws up his hands and rolls
 his eyes upward--giving a sign of admiration or astonishment like that
-described (see [p. 203](#page_203)) as having been expressed by the
+described (see [p. 203](#page_203).md) as having been expressed by the
 Queen of Sheba on first viewing Solomon's Temple--and keeps them in that
 position while singing these two verses of the song: (See [Fig.
-30](#img_21200).)
+30](#img_21200)..md)
 
 <div style="margin-left: 32px">
 
@@ -595,7 +595,7 @@ attitude the Right Worshipful Master reads the following passage of
 Scripture, 2 Chron, vii. 1, 4.
 
 <span id="img_21200"></span> ![FIG. 30. SIGN OF ADMIRATION, OR
-ASTONISHMENT.](img/21200.jpg)  
+ASTONISHMENT.](img/21200.jpg.md)  
 FIG. 30. SIGN OF ADMIRATION, OR ASTONISHMENT.
 
 "Now when Solomon had made an end of praying, the fire came down from
@@ -618,7 +618,7 @@ heads low toward the floor. The members
 
 <span id="page_213">p. 213</span>
 
-now balance six times, as in opening (see page [203](#page_203)), rise
+now balance six times, as in opening (see page [203](#page_203).md), rise
 and balance six times more, then, disengaging themselves from each
 other, take their seats.
 
@@ -675,7 +675,7 @@ rod and thy staff they comfort me. Thou preparest a table before me in
 the presence of mine enemies; thou anointest my head with oil; my cup
 runneth over. Surely goodness and mercy shall follow me all the days of
 my life; and I will dwell in the house of the Lord forever."--Psalm
-xxiii. <span id="fr_73"></span>[1](#fn_73)
+xxiii. <span id="fr_73"></span>[1](#fn_73.md)
 
 ### LECTURE ON THE SIXTH, OR MOST EXCELLENT MASTER'S DEGREE.
 
@@ -864,7 +864,7 @@ Deity.
 
 ### Footnotes
 
-<span id="fn_67"></span>[200:1](dun07.htm#fr_67) The Masonic tradition
+<span id="fn_67"></span>[200:1](dun07.htm#fr_67.md) The Masonic tradition
 upon which the Degree is founded is described in the ancient Book of
 Constitutions, in the following words.
 
@@ -882,7 +882,7 @@ number, with the finest music, vocal and instrumental, praising Jehovah
 upon fixing the holy ark in its proper place, between the cherubim; when
 Jehovah filled his own Temple with a cloud of glory."
 
-<span id="fn_68"></span>[200:2](dun07.htm#fr_68) It is an established
+<span id="fn_68"></span>[200:2](dun07.htm#fr_68.md) It is an established
 doctrine of the Order, that while three form a Lodge, and five may hold
 it, seven only can make it perfect. In such a case there requires an
 intermediate Degree to complete the series; for the Mark and Past
@@ -893,11 +893,11 @@ Masons, is called the Excellent Master, and the routine is thus stated:
 id="page_201">p. 201</span> Master; 6. Excellent Master; 7. Royal
 Arch.--*Historical Landmarks*. vol. ii, p. 669.
 
-<span id="fn_69"></span>[204:1](dun07.htm#fr_69) "She turned herself,
+<span id="fn_69"></span>[204:1](dun07.htm#fr_69.md) "She turned herself,
 and saith unto him, RABBONI; which is to say Master."--*St. John* xx.
 16.
 
-<span id="fn_70"></span>[208:1](dun07.htm#fr_70) We have seen in the
+<span id="fn_70"></span>[208:1](dun07.htm#fr_70.md) We have seen in the
 Masonic ceremonies a constant reiteration of the number three, and
 sometimes thrice repeated, which is called giving the grand honors of
 Masonry. There must have been some cause or reason for this custom. now
@@ -934,7 +934,7 @@ gather the mistletoe; and in monuments now extinct we often find six of
 these priests together."--*Fellow's Inquiry into the Origin, History,
 and Purport of Freemasonry*, p. 318.
 
-<span id="fn_71"></span>[210:1](dun07.htm#fr_71) During the ceremonies
+<span id="fn_71"></span>[210:1](dun07.htm#fr_71.md) During the ceremonies
 two pillars are erected. each of about five feet high, and an arch
 placed over them, made in imitation of block-work, in the centre of
 which a mortise is left for the reception of a KEYSTONE; the Most
@@ -942,10 +942,10 @@ Excellent Master, taking the keystone in his hand, places it. in the
 arch, and drives it home with six raps of his gavel.--*Historical
 Landmarks*, vol. ii. p. 128.
 
-<span id="fn_72"></span>[210:2](dun07.htm#fr_72) This pot contains gum
+<span id="fn_72"></span>[210:2](dun07.htm#fr_72.md) This pot contains gum
 camphor or other inflammable matter.
 
-<span id="fn_73"></span>[214:1](dun07.htm#fr_73) "Recent discoveries in
+<span id="fn_73"></span>[214:1](dun07.htm#fr_73.md) "Recent discoveries in
 Ethiopia have brought to light," says a writer on the Egyptian
 antiquities in the British Museum, "arches regularly constructed with
 the *key-stone*. The same arch is also found in the vaulted roof of a
@@ -957,4 +957,4 @@ of King Solomon's Temple.--*Theo. Phil.*, p. 208.
 
 ------------------------------------------------------------------------
 
-[Next: Royal Arch, or Seventh Degree](dun08)
+[Next: Royal Arch, or Seventh Degree](dun08.md)

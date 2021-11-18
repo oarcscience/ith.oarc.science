@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby24)  [Next](piby26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby24)  [Next](piby26.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ on nothing of consequence for the children of Ham."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. Held Out His Morsel](piby26)
+[Next: Chapter 2. Held Out His Morsel](piby26.md)

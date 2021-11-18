@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](almanac1) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](almanac1.md) 
 
 ------------------------------------------------------------------------
 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml36)  [Next](yml38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml36)  [Next](yml38.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 
 ### San Pedro and the Devil
 
-[JESUCRISTO](errata.htm#8) had many apostles and prophets the Devil was
+[JESUCRISTO](errata.htm#8.md) had many apostles and prophets the Devil was
 constantly trying to tempt. Jesucristo would help them and give them
 advice.
 
@@ -77,4 +77,4 @@ Mexico.
 
 ------------------------------------------------------------------------
 
-[Next: Father Frog](yml38)
+[Next: Father Frog](yml38.md)

@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof00)  [Next](sof02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof00)  [Next](sof02.md) 
 
 ------------------------------------------------------------------------
 
 <div>
 
 <span id="img_head-pref.png"></span> ![Header
-Preface.](img/head-pref.png)
+Preface.](img/head-pref.png.md)
 
 ## Preface.
 
@@ -108,6 +108,6 @@ Charleston, S.C., Feb. 22, 1869.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sof02)
+[Next: Contents](sof02.md)
 
 </div>

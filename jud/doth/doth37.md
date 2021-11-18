@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth36)  [Next](doth38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth36)  [Next](doth38.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -76,6 +76,6 @@ needs of His creation and of His creatures.
 
 ------------------------------------------------------------------------
 
-[Next: Of Trust in God](doth38)
+[Next: Of Trust in God](doth38.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft03)  [Next](geft05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft03)  [Next](geft05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -206,15 +206,15 @@ astonished king commanded the jealous sisters to be brought, bound them
 to horses' tails, and had them dragged about. The king took his wife and
 children into the palace, and rejoiced greatly that he had learnt the
 truth and found his golden-haired sons. <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_3"></span>[11:1](geft04.htm#fr_3) Cf. Lady Charlotte
+<span id="fn_3"></span>[11:1](geft04.htm#fr_3.md) Cf. Lady Charlotte
 Guest's *Mabinogion*, p. 353. Pwll.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Good-for-nothing](geft05)
+[Next: III. The Good-for-nothing](geft05.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](gbt18)  [Next](gbt20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](gbt18)  [Next](gbt20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -120,7 +120,7 @@ Freemasons, as every handbook on Freemasonry shows us, but have been so
 for long ages. A specimen of it is to be found on a couple of
 border-stones or steles, put along the frontier of his territory by the
 Chaldean king Melichikou (1144-1130 B.C.). <span
-id="fr_6"></span>[\*](#fn_6) The heads of these steles bear a
+id="fr_6"></span>[\*](#fn_6.md) The heads of these steles bear a
 representation of the king and his daughter before a goddess (of
 Justice?) and above these figures are the images of the Sun, the Moon
 and the (eight-pointed) Flaming Star, which evidently mean, that the
@@ -142,8 +142,8 @@ and Tarot.
 
 ### Footnotes
 
-<span id="fn_6"></span>[68:\*](gbt19.htm#fr_6) Musée du Louvre, Paris.
+<span id="fn_6"></span>[68:\*](gbt19.htm#fr_6.md) Musée du Louvre, Paris.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Death. Saturn](gbt20)
+[Next: XIII. Death. Saturn](gbt20.md)

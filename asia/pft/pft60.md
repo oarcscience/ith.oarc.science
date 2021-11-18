@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft59)  [Next](pft61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft59)  [Next](pft61.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -47,8 +47,8 @@ tail, and immediately they were turned into animals like himself.
 Then the people would no longer have them in the town, but drove them
 out. They went to the forest where they lived in the trees, and ever
 since they have been known as monkeys.  <span
-id="fr_161"></span>[162](pft68.htm#fn_161)
+id="fr_161"></span>[162](pft68.htm#fn_161.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Virtue of the Cocoanut](pft61)
+[Next: The Virtue of the Cocoanut](pft61.md)

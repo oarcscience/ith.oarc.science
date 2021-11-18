@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww04)  [Next](lww06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww04)  [Next](lww06.md) 
 
 ------------------------------------------------------------------------
 
@@ -229,4 +229,4 @@ such things--or such conditions and such forces as overcame them."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI--Hawk and Pigeon](lww06)
+[Next: Chapter VI--Hawk and Pigeon](lww06.md)

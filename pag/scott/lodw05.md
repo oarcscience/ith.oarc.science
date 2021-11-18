@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](lodw04)  [Next](lodw06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](lodw04)  [Next](lodw06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@ and purpose of the conspiracy, and had she been listened to, it might
 have bee disconcerted. Being asked her source of knowledge, she answered
 Hudhart had told her; which might either be the with Hudkin, a Dutch
 spirit somewhat similar to Friar Rush or Robin Goodfellow, <span
-id="fr_31"></span>[32](#fn_31) or with the red-capped demon so powerful
+id="fr_31"></span>[32](#fn_31.md) or with the red-capped demon so powerful
 in the case of Lord Soulis, and other wizards, to whom the Scots
 assigned rather more serious influence.
 
@@ -103,7 +103,7 @@ between Fairyland and a female professing to have some influence in that
 court, combined with a strong desire to be useful to the distressed of
 both sexes, occurs in the early part of a work to which I have been
 exceedingly obliged in the present and other publications. <span
-id="fr_32"></span>[33](#fn_32) The details of the evidence, which
+id="fr_32"></span>[33](#fn_32.md) The details of the evidence, which
 consists chiefly of the unfortunate woman's own confession, are more
 full than usual, and comprehend some curious particulars. To spare
 technical repetitions, I must endeavour to select the principal facts in
@@ -337,7 +337,7 @@ Pearson transferred the bishop's indisposition from himself to a white
 palfrey, which died in consequence. There is a very severe libel on him
 for this and other things unbecoming his order, with which he was
 charged, and from which we learn that Lethington and Buccleuch were seen
-by Dame Pearson in the Fairy-land. <span id="fr_33"></span>[34](#fn_33)
+by Dame Pearson in the Fairy-land. <span id="fr_33"></span>[34](#fn_33.md)
 This poor woman's kinsman, Sympson, did not give better shelter to her
 than Thome Reid had done to her predecessor. The margin of the
 court-book again bears the melancholy and brief record, "*Convicta et
@@ -443,7 +443,7 @@ heads of Hector Munro's assize that the enchantment being performed in
 January, 1588, and the deceased being only taken ill of his fatal
 disease in April 1590, the distance between the events might seem too
 great to admit the former being regarded as the cause of the
-latter. <span id="fr_34"></span>[35](#fn_34)
+latter. <span id="fr_34"></span>[35](#fn_34.md)
 
       Another instance of the skill of a sorcerer being traced to the
 instructions of the elves is found in the confession of John Stewart,
@@ -535,7 +535,7 @@ their residence. Indeed, so much was this the case formerly, that Mr.
 Kirke, while in his latter charge of Aberfoyle, found materials for
 collecting and compiling his Essay on the "Subterranean and for the most
 part Invisible People heretofore going under the name of Elves, Fawnes,
-and Fairies, or the like." <span id="fr_35"></span>[36](#fn_35) In this
+and Fairies, or the like." <span id="fr_35"></span>[36](#fn_35.md) In this
 discourse, the author, "with undoubting mind," describes the fairy race
 as a sort of astral spirits, of a kind betwixt humanity and angels --
 says, that they have children, nurses, marriages, deaths, and burials,
@@ -594,7 +594,7 @@ Falconer, who perished at sea after having written his popular poem of
 
       Upon this subject the reader may consult a very entertaining
 little volume, called "Sketches of Perthshire," <span
-id="fr_36"></span>[37](#fn_36) by the Rev. Dr. Grahame of Aberfoyle. The
+id="fr_36"></span>[37](#fn_36.md) by the Rev. Dr. Grahame of Aberfoyle. The
 terrible visitation of fairy vengeance which has lighted upon Mr. Kirke
 has not intimidated his successor, an excellent man and good antiquary,
 from affording us some curious information on fairy superstition. He
@@ -728,7 +728,7 @@ them in such bad company in the other world; the almost extinct belief
 of the old idle tales began to gain ground, and the good minister will
 have many a weary discourse and exhortation before he can eradicate the
 absurd ideas this idle story has revived." <span
-id="fr_37"></span>[38](#fn_37)
+id="fr_37"></span>[38](#fn_37.md)
 
       It is scarcely necessary to add that this comparatively recent
 tale is just the counterpart of the story of Bessie Dunlop, Alison
@@ -764,7 +764,7 @@ such cruel practical consequences.
 
 ### Footnotes
 
-<span id="fn_31"></span>[32](lodw05.htm#fr_31) Hudkin is a very familiar
+<span id="fn_31"></span>[32](lodw05.htm#fr_31.md) Hudkin is a very familiar
 devil, who will do nobody hurt, except he receive injury; but he cannot
 abide that, nor yet be mocked. He talketh with men friendly, sometimes
 visibly, sometimes invisibly. There go as many tales upon this Hudkin in
@@ -772,19 +772,19 @@ some parts of Germany as there did in England on Robin Goodfellow. --
 "Discourse concerning Devils," annexed to "The Discovery of Witchcraft,"
 by Reginald Scot, book i. chap. 21.
 
-<span id="fn_32"></span>[33](lodw05.htm#fr_32) "The curious collection
+<span id="fn_32"></span>[33](lodw05.htm#fr_32.md) "The curious collection
 of trials, from Criminal Records Scotland," now in course publication,
 by Robert Pitcairn, Esq., affords so singular a picture manners and
 habits our ancestors, while yet semibarbarous people, that it is equally
 worth attention historian, antiquary, philosopher, poet.
 
-<span id="fn_33"></span>[34](lodw05.htm#fr_33) See "Scottish Poems,"
+<span id="fn_33"></span>[34](lodw05.htm#fr_33.md) See "Scottish Poems,"
 edited by John G. Dalzell, p. 321.
 
-<span id="fn_34"></span>[35](lodw05.htm#fr_34) Pitcairn's "Trials," vol.
+<span id="fn_34"></span>[35](lodw05.htm#fr_34.md) Pitcairn's "Trials," vol.
 i. pp. 191-201.
 
-<span id="fn_35"></span>[36](lodw05.htm#fr_35) The title
+<span id="fn_35"></span>[36](lodw05.htm#fr_35.md) The title
 continues-"Among the Low Country Scots, as they second sight, and now,
 to occasion are described by those who have the second sight, and now,
 to occasion farther enquiry, collected and compared. by a circumspect
@@ -792,11 +792,11 @@ enquirer residing among the Scottish-Irish (*i.e*., the Gael, or
 Highlanders.) in Scotland." It-was printed with the author's name in
 1691, and reprinted, Edinburgh, 1815, for Longman & Co.
 
-<span id="fn_36"></span>[37](lodw05.htm#fr_36) Edinburgh, 1812.
+<span id="fn_36"></span>[37](lodw05.htm#fr_36.md) Edinburgh, 1812.
 
-<span id="fn_37"></span>[38](lodw05.htm#fr_37) Pennant's "Tour in
+<span id="fn_37"></span>[38](lodw05.htm#fr_37.md) Pennant's "Tour in
 Scotland," vol. i. p. 110
 
 ------------------------------------------------------------------------
 
-[Next: Letter 6](lodw06)
+[Next: Letter 6](lodw06.md)

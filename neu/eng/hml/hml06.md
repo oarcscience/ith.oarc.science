@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml05)  [Next](hml07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml05)  [Next](hml07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -172,18 +172,18 @@ for one year, and return at the end of the year
 <span id="img_04600"></span>
 
 [![The Dream of the Emperor](tn/04600.jpg)  
-Click to enlarge](img/04600.jpg)  
+Click to enlarge](img/04600.jpg.md)  
 The Dream of the Emperor  
 
 <span id="img_04700"></span>
 
 [![''There came from heaven a leaping flame, which touched the surface
 of the ground here and there''](tn/04700.jpg)  
-Click to enlarge](img/04700.jpg)  
+Click to enlarge](img/04700.jpg.md)  
 ''There came from heaven a leaping flame, which touched the surface of
 the ground here and there''  
 
-\[Page [61](hml07.htm#page_61)\]
+\[Page [61](hml07.htm#page_61.md)\]
 
  
 
@@ -265,4 +265,4 @@ known as "Sarn Helen."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Story of Constantine and Elene](hml07)
+[Next: Chapter III. The Story of Constantine and Elene](hml07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg01)  [Next](adg03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg01)  [Next](adg03.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ and the magnificent of his sermons.
 
 ------------------------------------------------------------------------
 
-[Next: Imam Ali (puh) and Eloquence](adg03)
+[Next: Imam Ali (puh) and Eloquence](adg03.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj30)  [Next](chj32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj30)  [Next](chj32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -33,7 +33,7 @@ the country, an annual income of 150,000 *koku* of rice was deemed
 sufficient to meet all the expenses of the Imperial establishments, and
 even that modest sum came, not from any special appropriation, but out
 of the liberal income of four million *koku*, <span
-id="fr_497"></span>[1](#fn_495) which the Shōgunate appropriated to
+id="fr_497"></span>[1](#fn_495.md) which the Shōgunate appropriated to
 itself. The Imperial House thus became the pensioner of the Tokugawas,
 and it is a matter for wonder and admiration how, under most adverse
 circumstances, the Court at Kyōto contrived to retain for itself even
@@ -70,7 +70,7 @@ the new Dictator. It reduced the Imperial Power to a shadow and a
 sentiment, for there was no use in raising the standard of loyalist
 revolt, or in occupying the city of Kyoto, so long as the military
 forces of the country were centred in and directed from the recently
-strengthened Castle of Yedo. <span id="fr_498"></span>[1](#fn_496)
+strengthened Castle of Yedo. <span id="fr_498"></span>[1](#fn_496.md)
 
 <span id="page_369">p. 369</span>
 
@@ -106,10 +106,10 @@ decorated his
 <span id="page_370">p. 370</span>
 
 new capital with magnificent temples <span
-id="fr_499"></span>[1](#fn_497); and he gave the Buddhist clergy
+id="fr_499"></span>[1](#fn_497.md); and he gave the Buddhist clergy
 considerable inquisitorial powers by making them his registrars, charged
 with the special surveillance of persons suspected of
-Christianity. <span id="fr_500"></span>[2](#fn_498)
+Christianity. <span id="fr_500"></span>[2](#fn_498.md)
 
 Allied with the Buddhists were the Confucianists and the Shintoists. The
 former of these had, as we have already had more than one occasion to
@@ -129,7 +129,7 @@ colleges, such as the *Shōheikō* in Yedo (intimately
 connected with the Temple of Confucius on Yūshimadai in Hongō), and from
 the middle of the seventeenth century we get a lay-Confucianism which,
 in process of time, completely overshadows the priestly Confucianism, to
-which it becomes almost hostile. <span id="fr_501"></span>[1](#fn_499)
+which it becomes almost hostile. <span id="fr_501"></span>[1](#fn_499.md)
 
 The Shintoists were but of little account at the beginning of the
 Tokugawa age. But Hideyoshi had patronized them, and Hideyoshi remained
@@ -151,7 +151,7 @@ country.
 Only two factors were excluded from the new national life—the Catholics,
 and the extreme left wing of the intolerant Nichirenists. Ieyasu found
 it necessary in 1610 to inflict a most severe punishment <span
-id="fr_502"></span>[1](#fn_500) on some Nichiren monks who had been
+id="fr_502"></span>[1](#fn_500.md) on some Nichiren monks who had been
 speaking too freely against Christians and the inoffensive Jōdō
 believers, and Iemitsu felt himself obliged to proscribe the *Fujūfuze*
 branch of the Nichirenists, exactly as he did the believers in
@@ -176,7 +176,7 @@ to practise their religion in the strictest secrecy, in daily peril of
 torture and death, these brave men clung tenaciously to the hope of the
 Gospel, and when, in 1859, the French missionaries discovered them in
 the neighbourhood of Nagasaki, they were keeping their Lent with
-simplicity and reverence. <span id="fr_503"></span>[1](#fn_501)
+simplicity and reverence. <span id="fr_503"></span>[1](#fn_501.md)
 
 But all this was not known to the Shōgunal authorities. Christianity had
 disappeared from the surface of affairs, and had ceased to be a force to
@@ -228,7 +228,7 @@ therefore a weighty voice in the management of affairs, and
 extravagances of all sorts were avoided; for even Catholic writers will
 admit that, with the one notable exception of the Christian
 persecutions, Japan was well governed, on the whole, during the early
-Tokugawa administrations. <span id="fr_504"></span>[1](#fn_502) Yet,
+Tokugawa administrations. <span id="fr_504"></span>[1](#fn_502.md) Yet,
 even under Iemitsu, the Confucianists had been restive in double
 harness, and the accession of Ietsuna had brought on an abortive revolt
 against the Shōgunate. It became necessary to forbid absolutely the
@@ -239,9 +239,9 @@ But the fifth Shōgun, Tsunayoshi (1680–1709), was a literary pedant with
 a superstitious mind. He built schools, reformed the calendar, and spent
 large sums of money on the encouragement of art. On these undertakings
 he wasted his substance, and by neglecting the sound political precepts
-of his Confucianist advisers, <span id="fr_505"></span>[2](#fn_503) got
+of his Confucianist advisers, <span id="fr_505"></span>[2](#fn_503.md) got
 his finances into disorder. To remedy these disorders he applied to men
-with little experience, <span id="fr_506"></span>[3](#fn_504) and on
+with little experience, <span id="fr_506"></span>[3](#fn_504.md) and on
 their advice tampered with the coinage and adopted measures which led to
 an increase in the prices of all articles of food. This did not make him
 popular with the common people, and even the submissive Court of Kyōto
@@ -267,7 +267,7 @@ or Dog-Shōgun, as they nicknamed him. Tsunayoshi was murdered by his
 wife in 1709, and it took the great Arai Hakuseki all his energies and
 skill, during the next two reigns, to restore the Shōgunate to popular
 favour. The Tokugawas were nearly always fortunate in the fidelity of
-their ablest followers. <span id="fr_507"></span>[1](#fn_505)
+their ablest followers. <span id="fr_507"></span>[1](#fn_505.md)
 
 It was under these circumstances that men's minds began to turn once
 more to the Imperial House in Kyōto, and to dream of a Restoration of
@@ -295,7 +295,7 @@ question of the legitimacy of the Tokugawa Dictatorship. One by one,
 converts were gained for the new Crusade; it was not without danger that
 such principles were enounced in the face of the hard-handed tyrants of
 Yedo; many of the bolder spirits fell as martyrs in the good
-cause; <span id="fr_508"></span>[1](#fn_506) when at last, in 1867, the
+cause; <span id="fr_508"></span>[1](#fn_506.md) when at last, in 1867, the
 crisis came, and the Emperor claimed his rightful inheritance, the heir
 of the Mito Tokugawas was to be found fighting for the principles of
 legitimacy against his kinsman the Shōgun.
@@ -407,17 +407,17 @@ be finished, I will ask for myself "that I may be there to see."
 
 ### Footnotes
 
-<span id="fn_495"></span>[367:1](chj31.htm#fr_497) This sum did not, of
+<span id="fn_495"></span>[367:1](chj31.htm#fr_497.md) This sum did not, of
 course, exhaust the resources of the Shōgunate. A very large number of
 fiefs, some of them of considerable value, was in the hands of members
 of the Tokugawa family, or of adherents on whose absolute fidelity
 Ieyasu felt that he could rely.
 
-<span id="fn_496"></span>[368:1](chj31.htm#fr_498) The ancient Castle of
+<span id="fn_496"></span>[368:1](chj31.htm#fr_498.md) The ancient Castle of
 Yedo, on the site of the present Imperial Palace in Tokyo, was built in
 1456 by Ōta Dōkwan.
 
-<span id="fn_497"></span>[370:1](chj31.htm#fr_499) The *Kwan-ei-ji* at
+<span id="fn_497"></span>[370:1](chj31.htm#fr_499.md) The *Kwan-ei-ji* at
 Uyeno (burned in 1869 and never restored) was one of the Tokugawa
 temples. Its abbot was always a Prince of the Blood, who was thus
 practically a hostage. It was probably for this reason, and for its
@@ -427,7 +427,7 @@ Park, the popular *Kwannonji* at Asakusa, and the Higashi Hongwanji.
 They are all imposing structures. Nor must we forget the great mausolea
 at *Nikkō*.
 
-<span id="fn_498"></span>[370:2](chj31.htm#fr_500) Popular education was
+<span id="fn_498"></span>[370:2](chj31.htm#fr_500.md) Popular education was
 also in the hands of the Buddhist clergy during this period. The
 so-called *tera koya*, or temple-schools, first established under the
 Ashikaga, continued their activity until the Meiji Restoration. The
@@ -439,7 +439,7 @@ in this school, the programme of studies becoming in a sense official
 for the other schools. In most of these, medicine was taught as well as
 philosophy. But they did not profess to give a popular education.
 
-<span id="fn_499"></span>[371:1](chj31.htm#fr_501) Papinot (s.v.
+<span id="fn_499"></span>[371:1](chj31.htm#fr_501.md) Papinot (s.v.
 *Tokugawa-jidai no Keigakuha*) divides the Tokugawa School of
 Confucianism into four: (*a*) The school of men like Fujiwara Seikwa,
 Hayashi Razan, etc., who, basing their teaching on the most ancient
@@ -461,7 +461,7 @@ Dr. Knox and Mr. Haga, which take up the whole of vol. xx. pt. i.; and
 Mr. Dening's very valuable contribution in vol. xxxv. pt. iii. of the
 *Transactions* of the same Society.
 
-<span id="fn_500"></span>[372:1](chj31.htm#fr_502) Murdoch, p. 491:
+<span id="fn_500"></span>[372:1](chj31.htm#fr_502.md) Murdoch, p. 491:
 "Iyeyasu gave orders to strip this bonze and all his *confrères* of the
 marks of their dignity. He had them ignominiously promenaded in Yedo and
 in all the places where the *bonze* had spread his calumnies, and
@@ -476,7 +476,7 @@ The hostility between Nichiren and Jōdo has always been most marked. The
 former frequently maintain that the Pure Land Sects, who worship Amida,
 should openly declare themselves for what they really are—Christians.
 
-<span id="fn_501"></span>[373:1](chj31.htm#fr_503) The story is well
+<span id="fn_501"></span>[373:1](chj31.htm#fr_503.md) The story is well
 told by Marnas in "La Réligion de Jésus Christ resuscitée au Japon." See
 also Wilberforce, "Dominican Martyrs in Japan." One or two attempts were
 made by the Roman Church to communicate with these isolated Christians,
@@ -495,29 +495,29 @@ Tokyo found the bowl of a chalice said to have belonged to a native
 Jesuit priest who had been martyred. It still belonged to the family of
 the martyr.
 
-<span id="fn_502"></span>[375:1](chj31.htm#fr_504) The esteem in which
+<span id="fn_502"></span>[375:1](chj31.htm#fr_504.md) The esteem in which
 Iemitsu was held by his immediate retainers is shown by the fact that
 ten of his samurai committed suicide at his grave. Ietsuna's Government
 subsequently forbade the practice.
 
-<span id="fn_503"></span>[375:2](chj31.htm#fr_505) *E.g.* Dazai Junsui.
+<span id="fn_503"></span>[375:2](chj31.htm#fr_505.md) *E.g.* Dazai Junsui.
 See articles by R. J. Kirby, *Trans. As. Soc. Japan*, xxxii., xxxiv. 4,
 xxxv. 2.
 
-<span id="fn_504"></span>[375:3](chj31.htm#fr_506) Yanagisawa Yoshiyasu
+<span id="fn_504"></span>[375:3](chj31.htm#fr_506.md) Yanagisawa Yoshiyasu
 and Ogiwara Shigehide.
 
-<span id="fn_505"></span>[376:1](chj31.htm#fr_507) Among these must be
+<span id="fn_505"></span>[376:1](chj31.htm#fr_507.md) Among these must be
 reckoned the celebrated O-oka Tadasuke, the judge under Tokugawa
 Yoshimune (1716–1745), whose wise though eccentric judgments did much to
 reconcile the people to the Shōgunate. Yoshimune was very popular. His
 nickname was "Rice-Shōgun."
 
-<span id="fn_506"></span>[377:1](chj31.htm#fr_508) We might mention
+<span id="fn_506"></span>[377:1](chj31.htm#fr_508.md) We might mention
 Yamagata Daini and Fujii Umon, executed in 1758, and Takenouchi Shikibu,
 exiled the same year. See also the "Life of Watanabe Noboru" in *Trans,
 As. Soc. of Japan*, vol. xxxii.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX. Recapitulation](chj32)
+[Next: Chapter XXX. Recapitulation](chj32.md)

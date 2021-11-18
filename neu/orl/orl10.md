@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl09)  [Next](orl11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl09)  [Next](orl11.md) 
 
 ------------------------------------------------------------------------
 
@@ -1303,4 +1303,4 @@ When it may better please, my tedious rhyme.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 11](orl11)
+[Next: Canto 11](orl11.md)

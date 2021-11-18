@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen08)  [Next](gen10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen08)  [Next](gen10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -47,7 +47,7 @@ higher and higher in measure to their steps. The movements both of hand
 and foot were eminently graceful; as well, also, was the song of Genji,
 which was sung at the end of his dance, so that some of the people
 remarked that the sound of the holy bird, Kariôbinga, <span
-id="fr_71"></span>[1](#fn_70) might be even like this. And so the
+id="fr_71"></span>[1](#fn_70.md) might be even like this. And so the
 rehearsal ended.
 
 When the day of the *fête* came, all the Royal Princes, including the
@@ -109,7 +109,7 @@ into Violet's room to see her.
 said he, with a smile to the girl who was playing with her Hina (toys).
 
 "I am trying to mend this. Inuki damaged it when he was playing what he
-called "driving out devils," <span id="fr_72"></span>[2](#fn_71) replied
+called "driving out devils," <span id="fr_72"></span>[2](#fn_71.md) replied
 the girl.
 
 "What carelessness! I will soon get it mended for you. Don't cry this
@@ -159,7 +159,7 @@ to say, "At least we shall receive the intelligence this month," and the
 Emperor himself became impatient; but the month passed away, and yet it
 did not happen. In the middle of February, however, she was safely
 delivered of a Prince. During the following April the child was
-presented to the Emperor. <span id="fr_73"></span>[3](#fn_72) He was
+presented to the Emperor. <span id="fr_73"></span>[3](#fn_72.md) He was
 rather big for his age, and had already begun to notice those around
 him.
 
@@ -246,7 +246,7 @@ amused. "There are many things one might write on fans," thought he;
 "what made her think of writing such odd lines as these?"
 
 "Ah!" said Genji, "I see, "its summer shade is still thick
-though!" <span id="fr_74"></span>[4](#fn_73)
+though!" <span id="fr_74"></span>[4](#fn_73.md)
 
 While he was joking he felt something like nervousness in thinking what
 people might say if anyone happened to see him flirting with such an
@@ -444,20 +444,20 @@ trial for her to be thus superseded by another.
 
 ### Footnotes
 
-<span id="fn_70"></span>[134:1](gen09.htm#fr_71) Kalavinka, the
+<span id="fn_70"></span>[134:1](gen09.htm#fr_71.md) Kalavinka, the
 beautifully singing holy birds in Paradise, to whose singing the voice
 of Buddha is compared.
 
-<span id="fn_71"></span>[136:2](gen09.htm#fr_72) On New Year's Eve, in
+<span id="fn_71"></span>[136:2](gen09.htm#fr_72.md) On New Year's Eve, in
 Japan, some people fry peas, and throw them about the rooms, saying,
 "Avaunt, Devil, avaunt! Come in happiness!" This is called driving out
 devils.
 
-<span id="fn_72"></span>[137:3](gen09.htm#fr_73) An infant born to the
+<span id="fn_72"></span>[137:3](gen09.htm#fr_73.md) An infant born to the
 Emperor is presented to him only when it has attained the age of some
 months.
 
-<span id="fn_73"></span>[139:4](gen09.htm#fr_74) From an old poem, "The
+<span id="fn_73"></span>[139:4](gen09.htm#fr_74.md) From an old poem, "The
 shade of Oaraki forest is thick: The summer has come there, the summer
 has come!" This is a mere metaphorical pun referring to her still being
 lively in spite of age.
@@ -466,6 +466,6 @@ lively in spite of age.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: Flower-Feast](gen10)
+[Next: Chapter VIII: Flower-Feast](gen10.md)
 
 </div>

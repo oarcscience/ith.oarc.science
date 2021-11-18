@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Next](tll01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Next](tll01.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Maps](tll01)
+[Next: Maps](tll01.md)

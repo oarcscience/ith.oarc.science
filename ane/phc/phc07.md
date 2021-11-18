@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](phc06)  [Next](phc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](phc06)  [Next](phc08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philistines*, by R.A.S. Macalister, \[1913\], at Intangible Textual
 Heritage
 
@@ -182,7 +182,7 @@ which we have already referred.
 
 The city was surrounded by a wall, and watch-towers were erected at a
 distance from it, to give warning as early as possible of the approach
-of an enemy (2 Kings xviii. 8). <span id="fr_94"></span>[1](#fn_94) A
+of an enemy (2 Kings xviii. 8). <span id="fr_94"></span>[1](#fn_94.md) A
 neighbouring harbour town, called Μαιουμᾶ Γάζης, was of considerable
 importance and for a time was the site of a bishopric.
 
@@ -191,7 +191,7 @@ though other maritime cities, such as Joppa, were (at least from time to
 time) also in Philistine hands. Its harbour, though inadequate for
 modern use, was sufficient for the small ships of antiquity. Samson
 visited Ashkelon to seize the wager he was obliged to pay after his
-riddle had been solved. <span id="fr_95"></span>[2](#fn_95) It is,
+riddle had been solved. <span id="fr_95"></span>[2](#fn_95.md) It is,
 however, from
 
 <span id="page_72">p. 72</span>
@@ -202,7 +202,7 @@ scope. We need not do more than mention the etymological speculations of
 Stephanus of Byzantium, who tells us that this city was founded by
 Askalos, brother of Tantalos and son of Hymenaios; and the statement of
 Benjamin of Tudela that Ezra re-founded Ashkelon under the name
-Benebrah. <span id="fr_96"></span>[1](#fn_96)
+Benebrah. <span id="fr_96"></span>[1](#fn_96.md)
 
 *Gath*, reasonably identified with the enormous mound known as Tell
 eṣ-Ṣāfi at the embouchure of the Valley of Elah, had a different history
@@ -267,7 +267,7 @@ Ashdod, the city to which the ark was first taken, is now represented by
 an insignificant village, whose only object of interest is the ruin of a
 large Saracenic *khan:* but ruins of more important buildings seem to
 have been seen here by seventeenth-century travellers. <span
-id="fr_97"></span>[1](#fn_97) Yet it must have been a city of special
+id="fr_97"></span>[1](#fn_97.md) Yet it must have been a city of special
 importance in the Pentapolis. Like Gaza, it had its 'palaces' (Amos iii.
 9). As we have seen, Ashdod longest preserved the Philistine national
 tradition. 'The speech of Ashdod' lasted down to the time of Nehemiah.
@@ -369,7 +369,7 @@ and it has never been finally identified with any other ancient site,
 though some of the earlier explorers have thought to find here no less a
 place than Gath itself. The Talmuds have nothing to say about it save
 that the name is derived from ‏דכרא‎ 'male', because the women there all
-bear male children. <span id="fr_98"></span>[1](#fn_98) Clermont-Ganneau
+bear male children. <span id="fr_98"></span>[1](#fn_98.md) Clermont-Ganneau
 (*Recueil d’arch. orient.* iv. 254) suggests a connexion between this
 place-name and that of the Zakkala.
 
@@ -392,7 +392,7 @@ Jerusalem and separated the northern Israelites from their brethren in
 the south. From Shiloh the Ark had been taken: Shiloh was the chief
 centre of Hebrew religious life at the time: and to Shiloh the Ark
 should be expected to find its way back. <span
-id="fr_99"></span>[1](#fn_99) Therefore, if it was at the time in ‘Akir,
+id="fr_99"></span>[1](#fn_99.md) Therefore, if it was at the time in ‘Akir,
 it ought to have gone by the northern valley route, into the Valley of
 Aijalon, so striking into the road for Shiloh some ten miles north of
 Jerusalem. If from ‘Akir it went southward it would be shunted off south
@@ -427,7 +427,7 @@ site now suggested.
 
 <span id="img_07700"></span> <span align="CENTER"> [![Fig 3. Sketch-map
 of Philistia.](tn/07700.jpg)  
-Click to enlarge](img/07700.jpg)  
+Click to enlarge](img/07700.jpg.md)  
 Fig 3. Sketch-map of Philistia.  
 </span>
 
@@ -465,27 +465,27 @@ regarded the Philistines.
 
 ### Footnotes
 
-<span id="fn_94"></span>[71:1](phc07.htm#fr_94) So a sentry-station was
+<span id="fn_94"></span>[71:1](phc07.htm#fr_94.md) So a sentry-station was
 established on a hill some way S. of Gezer: see my *Excavation of
 Gezer*, vol. ii, p. 365.
 
-<span id="fn_95"></span>[71:2](phc07.htm#fr_95) It has been suggested
+<span id="fn_95"></span>[71:2](phc07.htm#fr_95.md) It has been suggested
 that this took place not at Ashkelon, but at a small site <span
 id="page_72">p. 72</span> in the valley of Elah called *Khurbet* (=
 ruin) ‘Asḳalân. This is certainly nearer to Timnath, but there are here
 no traceable remains older than the Roman period.
 
-<span id="fn_96"></span>[72:1](phc07.htm#fr_96) A description of the
+<span id="fn_96"></span>[72:1](phc07.htm#fr_96.md) A description of the
 remains at Ashkelon, with a plan, will be found in the *Quarterly
 Statement* of the Palestine Exploration Fund for January 1913.
 
-<span id="fn_97"></span>[73:1](phc07.htm#fr_97) See Sepp, *Jerusalem and
+<span id="fn_97"></span>[73:1](phc07.htm#fr_97.md) See Sepp, *Jerusalem and
 das heilige Land*, vol. ii, p. 598.
 
-<span id="fn_98"></span>[75:1](phc07.htm#fr_98) Neubauer, *Geog. d.
+<span id="fn_98"></span>[75:1](phc07.htm#fr_98.md) Neubauer, *Geog. d.
 Talm.* p. 71.
 
-<span id="fn_99"></span>[76:1](phc07.htm#fr_99) Meyer, *Gesch. d.
+<span id="fn_99"></span>[76:1](phc07.htm#fr_99.md) Meyer, *Gesch. d.
 Alterthums*, i, p. 358, suggests from Jer. vii. 14, that Shiloh was
 destroyed. But the space of time between Samuel and Jeremiah is so long,
 that many unrecorded events might have taken place in the meanwhile:
@@ -495,6 +495,6 @@ and, indeed, Shiloh is still an important sanctuary in 1 Sam. xiv. 3.
 
 ------------------------------------------------------------------------
 
-[Next: I. Their Language](phc08)
+[Next: I. Their Language](phc08.md)
 
 </div>

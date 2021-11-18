@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [African](../index) 
-[Index](index)  [Previous](vao05)  [Next](vao07) 
+[Intangible Textual Heritage](../../index)  [African](../index.md) 
+[Index](index)  [Previous](vao05)  [Next](vao07.md) 
 
 ------------------------------------------------------------------------
 
@@ -1491,4 +1491,4 @@ facts of the case, and I have never been able to explain them."\[42\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Development of Obeah in Jamaica](vao07)
+[Next: Chapter V: Development of Obeah in Jamaica](vao07.md)

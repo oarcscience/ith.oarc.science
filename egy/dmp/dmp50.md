@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp49)  [Next](dmp51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp49)  [Next](dmp51.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ the 'Shoulder' constellation in the evening.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XIX](dmp51)
+[Next: Verso Col. XIX](dmp51.md)

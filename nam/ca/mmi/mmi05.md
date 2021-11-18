@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mmi04)  [Next](mmi06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mmi04)  [Next](mmi06.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_52">p. 52</span>
 
-# MYTHOLOGY OF THE MISSION INDIANS. <span id="fr_4"></span>[1](#fn_4)
+# MYTHOLOGY OF THE MISSION INDIANS. <span id="fr_4"></span>[1](#fn_4.md)
 
 ## by Constance Goddard Du Bois
 
@@ -27,7 +27,7 @@ working together.
 Then came Why-yaí Pee-vaí, a gray glimmering like the whiteness of hoar
 frost; and then, Mit-aí Kwai-raí, the dimness of twilight. Then came a
 period of cessation, Na-kaí Ho-wai-yaí, meaning things at a
-standstill. <span id="fr_5"></span>[2](#fn_5)
+standstill. <span id="fr_5"></span>[2](#fn_5.md)
 
 Then Ké-vish-a-ták-vish made a man, Túk-mit, the Sky; and a woman,
 To-maí-yo-vit, the Earth. There was no light, but in the darkness these
@@ -47,9 +47,9 @@ two became conscious of each other.
 
 By her brother the Sky the Earth conceived and became the Mother of all
 things. Her first-born children were, in the order of their birth,
-See-vat and Pá-ve-ut, <span id="fr_6"></span>[3](#fn_6) Ush-la and
+See-vat and Pá-ve-ut, <span id="fr_6"></span>[3](#fn_6.md) Ush-la and
 Pik-la, Ná-na-chel and Patch'-ha-yel, Tópal and Tam'-yush. <span
-id="fr_7"></span>[4](#fn_7)
+id="fr_7"></span>[4](#fn_7.md)
 
 <span id="page_53">p. 53</span>
 
@@ -130,11 +130,11 @@ tobacco, etc., were used in this connection.
 
 ### Footnotes
 
-<span id="fn_4"></span>[52:1](mmi05.htm#fr_4) This paper has been
+<span id="fn_4"></span>[52:1](mmi05.htm#fr_4.md) This paper has been
 communicated as part of the Proceedings of the California Branch of the
 American Folk-Lore Society.
 
-<span id="fn_5"></span>[52:2](mmi05.htm#fr_5) Boscana alludes to the
+<span id="fn_5"></span>[52:2](mmi05.htm#fr_5.md) Boscana alludes to the
 periods of time in the Creation Myth which he records, the story to-day
 being analogous to that which he obtained from the Indians eighty years
 ago. He says: "We have the six productions of the mother of Ouiot,
@@ -145,14 +145,14 @@ these eight periods show any trace of Christian influence I am not as
 yet prepared to say. The myth in its entirety is strictly primitive.
 Only the slightest traces of any external influence could be suspected.
 
-<span id="fn_6"></span>[52:3](mmi05.htm#fr_6) Pá-ve-ut is the name given
+<span id="fn_6"></span>[52:3](mmi05.htm#fr_6.md) Pá-ve-ut is the name given
 to the sacred pointed stones of chipped flint, etc., used, not for arrow
 points, but for insertion in the end of the sword-shaped staff carried
 by the chief in the religious ceremonials. Boscana gives as the second
 production of Mother Earth "rocks and stones of all kinds, particularly
 flints for their arrows."
 
-<span id="fn_7"></span>[52:4](mmi05.htm#fr_7) Tam'-yush, or Tam-ish
+<span id="fn_7"></span>[52:4](mmi05.htm#fr_7.md) Tam'-yush, or Tam-ish
 (obscure sound) is the name for the sacred stone bowls, <span
 id="page_53">p. 53</span> incorrectly called mortars, hollowed out of
 solid rounded stones, large and small, used in the toloache fiesta for
@@ -164,4 +164,4 @@ religious leaders.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The North Star and the Rattlesnake](mmi06)
+[Next: 2. The North Star and the Rattlesnake](mmi06.md)

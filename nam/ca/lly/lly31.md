@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly30)  [Next](lly32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly30)  [Next](lly32.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ shores of Mo-no Lake, the maiden went with them.
 <span id="img_08400"></span> [![TENAYA CANYON AND THE OVERHANGING ROCK
 ON HALF DOME&lt;BR&gt; &lt;I&gt;Photo A. C.
 Pillsbury&lt;/I&gt;](tn/08400.jpg)  
-Click to enlarge](img/08400.jpg)  
+Click to enlarge](img/08400.jpg.md)  
 TENAYA CANYON AND THE OVERHANGING ROCK ON HALF DOME  
 *Photo A. C. Pillsbury*  
 
@@ -87,4 +87,4 @@ young brave of the Ah-wah-nee-chees of an unwilling bride.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of Loi-ya](lly32)
+[Next: The Legend Of Loi-ya](lly32.md)

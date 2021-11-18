@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap10) 
-[Next](chap12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap10.md) 
+[Next](chap12.md) 
 
 ------------------------------------------------------------------------
 
@@ -548,4 +548,4 @@ capable of.
 ------------------------------------------------------------------------
 
 [Next: Chapter 12: Concerning Sundry Observations Useful to Know for Men
-and Women](chap12)
+and Women](chap12.md)

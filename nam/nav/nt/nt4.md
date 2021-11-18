@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index) [Index](index) [Previous](nt3) [Next](nt5)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index) [Index](index) [Previous](nt3) [Next](nt5.md)
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ who was called “White” lined up the people so that Yellow stood in the
 middle. He held ears of corn up toward him. The people stood there.
 “Once more look. There will be eight. I guess it is twelve,” he said as
 he ran down from above wearing the mask.<span
-id="page_160_fr_1"></span>[1](#page_160_note_1) Every time he said eight
+id="page_160_fr_1"></span>[1](#page_160_note_1.md) Every time he said eight
 he meant eight years and when he said twelve he meant twelve years. The
 people planted, but just before the corn was ripe, it froze. A second
 time the crop was burned. A third time it did not sprout. They planted
@@ -52,7 +52,7 @@ himself.
 
 ------------------------------------------------------------------------
 
-[Next](nt5)
+[Next](nt5.md)
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ himself.
 
 <span id="footnotes_page_160">p. 160</span>
 
-<span id="page_160_note_1"></span>[1](#page_160_fr_1) The man died
+<span id="page_160_note_1"></span>[1](#page_160_fr_1.md) The man died
 because he spoke whilehe was wearing the mask, but whatever he said
 would come true.
 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi165)  [Next](mtsi167) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi165)  [Next](mtsi167.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ see him. She could not remain quiet and after she had stayed a while she
 followed him again. She followed on, running. She went on without
 stopping until, ahead of her, she heard someone singing. By and by she
 got near it and found it was singing beside the road. When she went on
-farther she saw a sapia <span id="fr_44"></span>[1](#fn_44) standing
+farther she saw a sapia <span id="fr_44"></span>[1](#fn_44.md) standing
 
 <span id="page_149">p. 149</span>
 
@@ -42,10 +42,10 @@ repeatedly she opened the corncrib and he saw her.
 
 ### Footnotes
 
-<span id="fn_44"></span>[148:1](mtsi166.htm#fr_44) Or sable, a magic
+<span id="fn_44"></span>[148:1](mtsi166.htm#fr_44.md) Or sable, a magic
 plant, or rather a magic stone borne by a magic plant. See Forty-second
 Ann. Rept. Bur. Amer. Ethn., pp. 498-501.
 
 ------------------------------------------------------------------------
 
-[Next: 31. The Pygmies](mtsi167)
+[Next: 31. The Pygmies](mtsi167.md)

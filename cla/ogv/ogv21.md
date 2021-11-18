@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv20)  [Next](ogv22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv20)  [Next](ogv22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 That is to say, remember thou that the fatal necessity to which thou art
 subjected in reference to the material and mortal part of thyself,
 according to the sentence of the ancient sages, <span
-id="fr_362"></span>[b](#fn_361) will strike thee particularly in the
+id="fr_362"></span>[b](#fn_361.md) will strike thee particularly in the
 objects of thy cupidity, of thy intemperance, in the things which will
 have excited thy folly, or flattered thy cowardice; remember thou that
 death will break the frail instruments of thy wrath, will extinguish the
@@ -29,9 +29,9 @@ firebrands that it will have lighted; remember thou finally,
 
 ### Footnotes
 
-<span id="fn_361"></span>[163:b](ogv21.htm#fr_362) Hermès, *In Pœmandr*.
+<span id="fn_361"></span>[163:b](ogv21.htm#fr_362.md) Hermès, *In Pœmandr*.
 
 ------------------------------------------------------------------------
 
 [Next: 11. That riches and the honours Easily acquired, are easy thus to
-lose](ogv22)
+lose](ogv22.md)

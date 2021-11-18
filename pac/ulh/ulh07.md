@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh06)  [Next](ulh08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh06)  [Next](ulh08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ the solitude of the wilderness one meets a youthful being of pleasing
 address, of godlike wit, of elusive beauty; the charm of her countenance
 unspoken authority, her gesture command. She seems one with nature, yet
 commanding it. Food placed before her remains untasted; the oven,
-*imu*, <span id="fr_22"></span>[a](#fn_21) in which the fascinated host
+*imu*, <span id="fr_22"></span>[a](#fn_21.md) in which the fascinated host
 has heaped his abundance, preparing for a feast, when opened is found
 empty; the guest of an hour has disappeared. Again it was a goddess,
 perhaps of the hula. Or, again, a traveler meets a creature of divine
@@ -42,7 +42,7 @@ The gods, great and small, superior and inferior, whom the devotees and
 practitioners of the hula worshiped and sought to placate were many; but
 the goddess Laka was the one to whom they offered special prayers and
 sacrifices and to whom they looked as the patron, the *au-makua*, <span
-id="fr_23"></span>[b](#fn_22) of that institution. It was for her
+id="fr_23"></span>[b](#fn_22.md) of that institution. It was for her
 benefit and in her honor that the kuahu was set up, and the wealth of
 flower and leaf used in its decoration was emblematic of her beauty and
 glory, a pledge of her bodily presence, the very forms that she, a
@@ -51,17 +51,17 @@ sylvan deity, was wont to assume when she pleased to manifest herself.
 As an additional crutch to the imagination and to emphasize the fact of
 her real presence on the altar which she had been invoked to occupy as
 her abode, she was symbolized by an uncarved block of wood from the
-sacred *lama* <span id="fr_24"></span>[c](#fn_23) tree. This was wrapped
+sacred *lama* <span id="fr_24"></span>[c](#fn_23.md) tree. This was wrapped
 in a robe of choice yellow tapa, scented with turmeric, and set
 conspicuously upon the altar.
 
 <span id="page_24">p. 24</span>
 
 Laka was invoked as the god of the maile, the ie-ie, and other wildwood
-growths before mentioned ([pl. II](ulh06.htm#img_pl02)). She was hailed
+growths before mentioned ([pl. II](ulh06.htm#img_pl02).md). She was hailed
 as the "sister, wife, of god Lono," as "the one who by striving attained
 favor with the gods of the upper ether;" as "the kumu <span
-id="fr_25"></span>[a](#fn_24) hula"--head teacher of the Terpsichorean
+id="fr_25"></span>[a](#fn_24.md) hula"--head teacher of the Terpsichorean
 art; "the fount of joy;" "the prophet who brings health to the sick;"
 "the one whose presence gives life." In one of the prayers to Laka she
 is besought to come and take possession of the worshiper, to dwell in
@@ -79,8 +79,8 @@ filled by Terpsichore and Euterpe, the muses, respectively, of dance and
 of song. Lono, in one song spoken of as the husband of Laka, had
 features in common with Apollo.
 
-That other gods, Kane, Ku, Kanaloa, <span id="fr_26"></span>[b](#fn_25)
-with Lono, Ku-pulupulu, <span id="fr_27"></span>[c](#fn_26) and the
+That other gods, Kane, Ku, Kanaloa, <span id="fr_26"></span>[b](#fn_25.md)
+with Lono, Ku-pulupulu, <span id="fr_27"></span>[c](#fn_26.md) and the
 whole swarm of godlings that peopled the wildwood, were also invited to
 favor the performances with their presence can be satisfactorily
 explained on the ground, first, that all the gods were in a sense
@@ -91,7 +91,7 @@ mortals, jealousy. It would have been an eruptive occasion of
 heart-burning and scandal if by any mischance a privileged one should
 have had occasion to feel slighted; and to have failed in courtesy to
 that countless host of wilderness imps and godlings, the *Kini
-Akua*, <span id="fr_28"></span>[d](#fn_27) mischievous and irreverent as
+Akua*, <span id="fr_28"></span>[d](#fn_27.md) mischievous and irreverent as
 the monkeys of India, would indeed have been to tempt a disaster.
 
 While it is true that the testimony of the various *kumu-hula*, teachers
@@ -105,7 +105,7 @@ observed the cult of the goddess Kapo and worshiped
 
 <span id="img_pl03"></span> <span align="CENTER"> [![PLATE III&lt;br&gt;
 HÁLA-PÉPE (DRACÆNA AUREA)](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 PLATE III  
 HÁLA-PÉPE (DRACÆNA AUREA)  
 </span>
@@ -122,14 +122,14 @@ which there are others yet to be presented, will be found several
 addressed to Kapo as the divine patron of the hula.
 
 Kapo was sister of Pele and the daughter of Haumea <span
-id="fr_29"></span>[a](#fn_28). Among other rôles played by her, like
+id="fr_29"></span>[a](#fn_28.md). Among other rôles played by her, like
 Laka she was at times a sylvan deity, and it was in the garb of woodland
 representations that she, was worshiped by hula folk. Her forms of
 activity, corresponding to her different metamorphoses, were numerous,
 in one of which she was at times "employed by the *kahuna* <span
-id="fr_30"></span>[b](#fn_29) as a messenger in their black arts, and
+id="fr_30"></span>[b](#fn_29.md) as a messenger in their black arts, and
 she is claimed by many as an *aumakua*," <span
-id="fr_31"></span>[c](#fn_30) said to be the sister of Kalai-pahoa, the
+id="fr_31"></span>[c](#fn_30.md) said to be the sister of Kalai-pahoa, the
 poison god.
 
 Unfortunately Kapo had an evil name on account of a propensity which led
@@ -160,47 +160,47 @@ prayers of the hula.
 
 ### Footnotes
 
-<span id="fn_21"></span>[23:a](ulh07.htm#fr_22) *Imu*. The Hawaiian
+<span id="fn_21"></span>[23:a](ulh07.htm#fr_22.md) *Imu*. The Hawaiian
 oven, which was a hole in the ground lined and arched over with stones.
 
-<span id="fn_22"></span>[23:b](ulh07.htm#fr_23) *Au-makua*. An ancestral
+<span id="fn_22"></span>[23:b](ulh07.htm#fr_23.md) *Au-makua*. An ancestral
 god.
 
-<span id="fn_23"></span>[23:c](ulh07.htm#fr_24) *Lama*. A beautiful tree
+<span id="fn_23"></span>[23:c](ulh07.htm#fr_24.md) *Lama*. A beautiful tree
 having firm, fine-grained, white wood; used in making sacred inclosures
 and for other tabu purposes.
 
-<span id="fn_24"></span>[24:a](ulh07.htm#fr_25) *Kumu-hula*. The
+<span id="fn_24"></span>[24:a](ulh07.htm#fr_25.md) *Kumu-hula*. The
 teacher, a leader and priest of the hula. The modern school-master is
 called *kumu-kula*.
 
-<span id="fn_25"></span>[24:b](ulh07.htm#fr_26) *Kanaloa*. Kane, Ku,
+<span id="fn_25"></span>[24:b](ulh07.htm#fr_26.md) *Kanaloa*. Kane, Ku,
 Kanaloa, and Lono were the major gods of the Hawaiian pantheon.
 
-<span id="fn_26"></span>[24:c](ulh07.htm#fr_27) *Ku-pulupulu*. A god of
+<span id="fn_26"></span>[24:c](ulh07.htm#fr_27.md) *Ku-pulupulu*. A god of
 the canoe-makers.
 
-<span id="fn_27"></span>[24:d](ulh07.htm#fr_28) *Kini Akua*. A general
+<span id="fn_27"></span>[24:d](ulh07.htm#fr_28.md) *Kini Akua*. A general
 expression--often used together with the ones that follow--meaning the
 countless swarms of brownies, elfs, kobolds, sprites, and other godlings
 (mischievous Imps) that peopled the wilderness. *Kini* means literally
 40,000, *lehu* 400,000, and *mano* 4,000. See the *Pule
-Kuahu*--altar-prayer--on page [21](ulh06.htm#page_21). The Hawaiians,
+Kuahu*--altar-prayer--on page [21](ulh06.htm#page_21.md). The Hawaiians,
 curiously enough, did not put the words *mano*, *kini*, and *lehu* in
 the order of their numerical value.
 
-<span id="fn_28"></span>[25:a](ulh07.htm#fr_29) *Haumea*. The ancient
+<span id="fn_28"></span>[25:a](ulh07.htm#fr_29.md) *Haumea*. The ancient
 goddess, or ancestor, the sixth in line of descent from Wakea.
 
-<span id="fn_29"></span>[25:b](ulh07.htm#fr_30) *Kahuna*. A sorcerer;
+<span id="fn_29"></span>[25:b](ulh07.htm#fr_30.md) *Kahuna*. A sorcerer;
 with a qualifying adjective it meant a skilled craftsman;
 *Kahuna-kalai-wa’a* was a canoe-builder; *kahuna lapaau* was a
 medicine-man, a doctor, etc.
 
-<span id="fn_30"></span>[25:c](ulh07.htm#fr_31) The Lesser Gods of
+<span id="fn_30"></span>[25:c](ulh07.htm#fr_31.md) The Lesser Gods of
 Hawaii, a paper by Joseph S. Emerson, read before the Hawaiian
 Historical Society, April 7, 1892.
 
 ------------------------------------------------------------------------
 
-[Next: IV.--Support and Organization of the Hula](ulh08)
+[Next: IV.--Support and Organization of the Hula](ulh08.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Next](spc01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Next](spc01.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sacred Places in China*, by Carl F. Kupfer, \[1911\], at Intangible
 Textual Heritage
 
@@ -26,7 +26,7 @@ Textual Heritage
 
 <span id="img_front"></span> <span align="CENTER"> [![Frontispiece: HO
 SHANG FEN—SEPARATION OF THE PRIESTS.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece: HO SHANG FEN—SEPARATION OF THE PRIESTS.  
 </span>
 
@@ -40,13 +40,13 @@ of the lofty *Lii* Mountains, close by the road that leads to Kuling.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
@@ -56,4 +56,4 @@ because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](spc01)
+[Next: Preface](spc01.md)

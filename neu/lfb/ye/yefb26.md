@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb25)  [Next](yefb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb25)  [Next](yefb27.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_149">p. 149</span>
 
-THE DEAD WIFE <span id="fr_19"></span>[1](#fn_19)
+THE DEAD WIFE <span id="fr_19"></span>[1](#fn_19.md)
 
 Once upon a time there were a man and his wife who lived in the forest,
 very far from the rest of the tribe.  Very often they spent the day in
@@ -88,12 +88,12 @@ days of his life.
 
 ### Footnotes
 
-<span id="fn_19"></span>[149:1](yefb26.htm#fr_19) From the Iroquois.
+<span id="fn_19"></span>[149:1](yefb26.htm#fr_19.md) From the Iroquois.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: In the Land of Souls](yefb27)
+[Next: In the Land of Souls](yefb27.md)
 
 </div>

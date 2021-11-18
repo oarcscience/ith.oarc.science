@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](est)  [Next](psa) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](est)  [Next](psa.md) 
 
 ------------------------------------------------------------------------
 
@@ -3322,4 +3322,4 @@ days. BOOK I
 
 ------------------------------------------------------------------------
 
-[Next: Psalms](psa)
+[Next: Psalms](psa.md)

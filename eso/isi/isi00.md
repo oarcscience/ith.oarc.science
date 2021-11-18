@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Next](isi01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Next](isi01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766181146/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766181146/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Isiac Tablet of Cardinal Bembo*, by W. Wynn Westcott, \[1887\], at
 Intangible Textual Heritage
 
@@ -54,10 +54,10 @@ purpose.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Synopsis of Monograph](isi01)
+[Next: Synopsis of Monograph](isi01.md)

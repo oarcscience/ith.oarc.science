@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fjo31)  [Next](fjo33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fjo31)  [Next](fjo33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R142/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R142/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Notes on the Folklore of the Fjort*, by Richard Edward Dennett,
 \[1898\], at Intangible Textual Heritage
 
@@ -39,6 +39,6 @@ inhabitants of that village into monkeys.
 
 ------------------------------------------------------------------------
 
-[Next: XXX. Why The Crocodile Does Not Eat The Hen.](fjo33)
+[Next: XXX. Why The Crocodile Does Not Eat The Hen.](fjo33.md)
 
 </div>

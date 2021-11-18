@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc062) 
-[Next](motc064) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc062.md) 
+[Next](motc064.md) 
 
 ------------------------------------------------------------------------
 
@@ -191,4 +191,4 @@ Ka!* and scare the beavers away.
 
 ------------------------------------------------------------------------
 
-[Next: 64. The Nest Of The Tlä'nuwä](motc064)
+[Next: 64. The Nest Of The Tlä'nuwä](motc064.md)

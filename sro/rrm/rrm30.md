@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm29)  [Next](rrm31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm29)  [Next](rrm31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ from Upper Egypt. 'The mysteries celebrated within the recesses of the
 which is called Freemasonic, or Cabiric. The signification of this
 latter epithet is, as to written letters, a desideratum. Selden has
 missed it; so have Origen and Sophocles. Strabo, too, and
-[Montfauçon](errata.htm#5), have been equally astray. Hyde was the only
+[Montfauçon](errata.htm#5.md), have been equally astray. Hyde was the only
 one who had any idea of its composition when he declared that "It was a
 *Persian word*, somewhat altered from *Gabri* of *Guebri*, and
 signifying FIRE-WORSHIPPERS".' See O’Brien’s *Round Towers of Ireland*,
@@ -264,4 +264,4 @@ miraculous and remote (of course) from human sense.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. History of the Tower or Steeple](rrm31)
+[Next: Chapter I. History of the Tower or Steeple](rrm31.md)

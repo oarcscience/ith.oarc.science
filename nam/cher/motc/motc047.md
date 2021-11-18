@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc046) 
-[Next](motc048) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc046.md) 
+[Next](motc048.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ shot by the hunter.
 
 ------------------------------------------------------------------------
 
-[Next: 48. The Hunter And The Buzzard](motc048)
+[Next: 48. The Hunter And The Buzzard](motc048.md)

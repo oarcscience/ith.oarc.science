@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml22)  [Next](iml24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml22)  [Next](iml24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ by Shakuni, the gambler, and his Gandhari lancers. The left wing was led
 by Duhsasana, who was followed by Kamboja cavalry and fierce Sakas and
 Yavanas mounted on rapid steeds. The peoples of the north were there and
 the peoples of the south, and of the east also. <span
-id="fr_280"></span>[1](#fn_279) Blind old Dhritarashtra was in the rear,
+id="fr_280"></span>[1](#fn_279.md) Blind old Dhritarashtra was in the rear,
 and with him was Sanjaya, his charioteer, who related all that took
 place, having been gifted with divine vision by Vyasa.
 
@@ -131,7 +131,7 @@ will deliver thee from all thy sins. . . . I am the same unto all
 creatures; there is none hateful to me--none dear. Those who worship me
 are in me and I am in them. Those who hate me are consigned to evil
 births: they are deluded birth after birth, nor ever reach unto
-me." <span id="fr_281"></span>[1](#fn_280)
+me." <span id="fr_281"></span>[1](#fn_280.md)
 
 Arjuna gave ear unto the counsel of Krishna, and prepared for the fray.
 
@@ -164,7 +164,7 @@ flight.
 When the wind fell and the air cleared, the battle waxed in fury.
 Bhishma achieved mighty deeds. Duryodhana led his men against Bhima's,
 and they fought with valour. Yudhishthira fought with Salya, Rajah of
-Madra <span id="fr_282"></span>[1](#fn_281); Dhrishta-dyumna, son of
+Madra <span id="fr_282"></span>[1](#fn_281.md); Dhrishta-dyumna, son of
 Drupada, went against Drona, who had captured aforetime half of the
 Panchala kingdom
 
@@ -204,7 +204,7 @@ and the two warriors contended fiercely and wounded one another.
 
 Drupada's son waged a long combat with Drona, and Bhima performed mighty
 deeds. He leapt on the back of an elephant and slew the son of the Rajah
-of Maghadha <span id="fr_283"></span>[1](#fn_282); and he slew the rajah
+of Maghadha <span id="fr_283"></span>[1](#fn_282.md); and he slew the rajah
 and his elephant also with a single blow of his mace.
 
 Towards evening a furious combat was waged by Abhimanyu, son of Arjuna,
@@ -335,7 +335,7 @@ born a woman, knowing that the righteous would defame him if he slew
 
 <span id="page_295">p. 295</span>
 
-a female. Let Sikhandin <span id="fr_284"></span>[1](#fn_283) be
+a female. Let Sikhandin <span id="fr_284"></span>[1](#fn_283.md) be
 therefore sent against him with Arjuna."
 
 Arjuna said: "Alas! I cannot fight behind another, or achieve the fall
@@ -442,7 +442,7 @@ triumph he swept over the blood-red plain. Karna watched his rival with
 jealous wrath and entered the fray. The fire burned redly in his eyes,
 and he attacked Arjuna, resolved to conquer or to die. Uncertain and
 long was the conflict, and when night fell the two great warriors
-withdrew [reluctantly](errata.htm#2) from the field.
+withdrew [reluctantly](errata.htm#2.md) from the field.
 
 Drona on the morrow arranged his army like to a spider's web, and once
 again Susarman challenged Arjuna, so as to draw him from the
@@ -858,25 +858,25 @@ of the Pandavas.
 
 ### Footnotes
 
-<span id="fn_279"></span>[287:1](iml23.htm#fr_280) The late Professor H.
+<span id="fn_279"></span>[287:1](iml23.htm#fr_280.md) The late Professor H.
 H. Wilson considered that the Kamboja were troops of Khorasan, Balkh,
 and Bokhara, that the Sakas, the Sacæ of the ancients, were some of the
 Scythians from Turkestan and Tartary, and that the Yavanas, "Ionians",
 were the Greeks of Bactria. The peoples of south and east included
 half-breeds and aborigines.
 
-<span id="fn_280"></span>[288:1](iml23.htm#fr_281) A long section of the
+<span id="fn_280"></span>[288:1](iml23.htm#fr_281.md) A long section of the
 *Mahábhárata* occurring here, and forming a sort of episode or
 discussion by itself, is called "Bhagavadgita", and is dealt with more
-fully in Chapters [VI](iml11.htm#ch06), [VII](iml12.htm#ch07).
+fully in Chapters [VI](iml11.htm#ch06), [VII](iml12.htm#ch07.md).
 
-<span id="fn_281"></span>[289:1](iml23.htm#fr_282) Although the brother
+<span id="fn_281"></span>[289:1](iml23.htm#fr_282.md) Although the brother
 of Madri, mother of the two younger Pandava princes, he was an ally of
 the Kauravas.
 
-<span id="fn_282"></span>[291:1](iml23.htm#fr_283) Behar.
+<span id="fn_282"></span>[291:1](iml23.htm#fr_283.md) Behar.
 
-<span id="fn_283"></span>[295:1](iml23.htm#fr_284) A daughter of Drupada
+<span id="fn_283"></span>[295:1](iml23.htm#fr_284.md) A daughter of Drupada
 who exchanged her sex with a Yaksha. She was a re-incarnation of the
 Princess Amba of Kasi, who, with her two sisters, was captured by
 Bhishma at the swayamvara. Her sisters were the mothers of Pandu and
@@ -884,4 +884,4 @@ Dhritarashtra.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Atonement and the Ascent to Heaven](iml24)
+[Next: Chapter XIX. Atonement and the Ascent to Heaven](iml24.md)

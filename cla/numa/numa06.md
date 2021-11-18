@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](numa05)  [Next](numa07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](numa05)  [Next](numa07.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,7 +175,7 @@ whom, under Juppiter, their
 
 <span id="page_111">p. 111</span>
 
-success was due. On the [contrary](errata.htm#0) in B.C. 217, when they
+success was due. On the [contrary](errata.htm#0.md) in B.C. 217, when they
 were carrying out a Greek ceremony of offering a banquet to a set of
 gods, arranged in pairs, they showed no hesitation in grouping together
 Mars and Venus to represent the Greek pair Ares and Aphrodite, thus
@@ -1050,4 +1050,4 @@ turn.
 
 ------------------------------------------------------------------------
 
-[Next: The Augustan Renaissance](numa07)
+[Next: The Augustan Renaissance](numa07.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre35)  [Next](gre37) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre35)  [Next](gre37.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,11 +132,11 @@ if anywhere might be somewhat wherewith he might contend.
 
 ### Footnotes
 
-<span id="fn_14"></span>[92:\*](gre35.htm#fr_14) The second month in the
+<span id="fn_14"></span>[92:\*](gre35.htm#fr_14.md) The second month in the
 year, corresponding to our September.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXII: Of the Haunting at Thorhall-stead; and how
 Thorhall took a Shepherd by the rede of Skapti the Lawman, and of what
-befell thereafter](gre37)
+befell thereafter](gre37.md)

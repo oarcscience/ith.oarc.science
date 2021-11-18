@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos06)  [Next](kos08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos06)  [Next](kos08.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 ## OF THE DAYS, AND HOURS, AND OF THE VIRTUES OF THE PLANETS
 
-WHEN <span id="fr_4"></span>[1](#fn_4) thou wishest to make any
+WHEN <span id="fr_4"></span>[1](#fn_4.md) thou wishest to make any
 experiment or operation, thou must first prepare, beforehand, all the
 requisites which thou wilt find described in the following Chapters:
 observing the days, the hours, and the other effects of the
@@ -79,7 +79,7 @@ under this Planet for thefts; writings; deceit; and merchandise.
 
 The Days and Hours of the Moon are good for embassies; voyages envoys;
 messages; navigation; reconciliation; love; and the acquisition of
-merchandise by water. <span id="fr_5"></span>[1](#fn_5)
+merchandise by water. <span id="fr_5"></span>[1](#fn_5.md)
 
 Thou shouldest take care punctually to observe all the instructions
 contained in this chapter, if thou desirest to succeed, seeing that the
@@ -90,7 +90,7 @@ communicating and speaking with Spirits; as those of Mercury are for
 recovering thefts by the means of Spirits.
 
 The Hours of Mars serve for summoning Souls from Hades, <span
-id="fr_6"></span>[2](#fn_6) especially of those slain in battle.
+id="fr_6"></span>[2](#fn_6.md) especially of those slain in battle.
 
 The Hours of the Sun, of Jupiter, and of Venus, are adapted for
 preparing any operations whatsoever of love, of kindness, and of
@@ -100,7 +100,7 @@ other things of a similar nature which are contained in our work.
 <span id="page_13">p. 13</span>
 
 The Hours of Saturn and Mars and also the days on which the Moon is
-conjunct <span id="fr_7"></span>[1](#fn_7) with them, or when she
+conjunct <span id="fr_7"></span>[1](#fn_7.md) with them, or when she
 receives their opposition or quartile aspect, are excellent for making
 experiments of hatred, enmity, quarrel, and discord; and other
 operations of the same kind which are given later on in this work.
@@ -146,7 +146,7 @@ or Aquarius.
 But if these things seem unto thee difficult to accomplish, it will
 suffice thee merely to notice the Moon after her combustion, or
 conjunction with the Sun, especially just when she <span
-id="fr_8"></span>[2](#fn_8) quits his beams and appeareth visible. For
+id="fr_8"></span>[2](#fn_8.md) quits his beams and appeareth visible. For
 then it is good to make all experiments for the construction and
 operation of any matter. That is why the time from the New unto the Full
 Moon is proper for performing any of the experiments of which
@@ -166,9 +166,9 @@ desirest, observing nevertheless the directions in this Chapter.
 
 Furthermore, if thou wishest to converse with Spirits it should be
 especially on the day of Mercury and in his hour, and let the Moon be in
-an Airy Sign, <span id="fr_9"></span>[1](#fn_9) as well as the Sun.
+an Airy Sign, <span id="fr_9"></span>[1](#fn_9.md) as well as the Sun.
 
-Retire <span id="fr_10"></span>[2](#fn_10) thou then unto a secret
+Retire <span id="fr_10"></span>[2](#fn_10.md) thou then unto a secret
 place, where no one may be able to see thee or to hinder thee, before
 the completion of the experiment, whether thou shouldest wish to work by
 day or by night. But if thou shouldest wish to work by night, perfect
@@ -186,29 +186,29 @@ that Circle with a Circle of Art for better caution and efficacy.
 
 ### Footnotes
 
-<span id="fn_4"></span>[11:1](kos07.htm#fr_4) This first paragraph is
+<span id="fn_4"></span>[11:1](kos07.htm#fr_4.md) This first paragraph is
 omitted in 1307 Sloane MSS., and in 10862 Add. MSS.
 
-<span id="fn_5"></span>[12:1](kos07.htm#fr_5) Much of these foregoing
+<span id="fn_5"></span>[12:1](kos07.htm#fr_5.md) Much of these foregoing
 instructions is omitted in the 10862 Add. MSS., but given in a different
 way in the ensuing paragraphs.
 
-<span id="fn_6"></span>[12:2](kos07.htm#fr_6) In the French 'des
+<span id="fn_6"></span>[12:2](kos07.htm#fr_6.md) In the French 'des
 Enfers,' in the Latin 'Inferis.'
 
-<span id="fn_7"></span>[13:1](kos07.htm#fr_7) Conjunction means being in
+<span id="fn_7"></span>[13:1](kos07.htm#fr_7.md) Conjunction means being in
 the same degree of the Zodiac; opposition is being 180 degrees, and
 quartile 90 degrees apart from each other.
 
-<span id="fn_8"></span>[13:2](kos07.htm#fr_8) *i.e.* New Moon.
+<span id="fn_8"></span>[13:2](kos07.htm#fr_8.md) *i.e.* New Moon.
 
-<span id="fn_9"></span>[14:1](kos07.htm#fr_9) In Add. MSS. 10862; 'or in
+<span id="fn_9"></span>[14:1](kos07.htm#fr_9.md) In Add. MSS. 10862; 'or in
 an Earthy Sign, as hath been before said.'
 
-<span id="fn_10"></span>[14:2](kos07.htm#fr_10) The following paragraphs
+<span id="fn_10"></span>[14:2](kos07.htm#fr_10.md) The following paragraphs
 to the end of this Chapter are only found in the Latin version, Add.
 MSS. 10862.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Concerning the Arts](kos08)
+[Next: Chapter III. Concerning the Arts](kos08.md)

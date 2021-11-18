@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](pre05)  [Next](pre07) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](pre05)  [Next](pre07.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ SKÁLDS. = *Skáldskaparmál*.
 
 ------------------------------------------------------------------------
 
-[Next: Index](pre07)
+[Next: Index](pre07.md)

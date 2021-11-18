@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Esoteric](../../index) 
-[Eliphas Levi](../index)  [Index](index)  [Previous](phs05) 
-[Next](phs07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Esoteric](../../index.md) 
+[Eliphas Levi](../index)  [Index](index)  [Previous](phs05.md) 
+[Next](phs07.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ for God is infinite Love; further, love your neighbour as yourself, that
 is to say, love yourself in your neighbour.
 
 Egoism if properly ordered commences with others. <span
-id="fr_30"></span>[1](#fn_30)
+id="fr_30"></span>[1](#fn_30.md)
 
 To love is to live, to love is to know, to love is to he able, to love
 is to pray, to love is to be the Man-God.
@@ -80,7 +80,7 @@ The woman pitied the Demon, what a reform of Christianity!
 <span id="page_35">p. 35</span>
 
 When the world shall have learnt to love, the world will be saved. <span
-id="fr_31"></span>[1](#fn_31)
+id="fr_31"></span>[1](#fn_31.md)
 
 The man who knows how to love attracts to himself all souls.
 
@@ -132,7 +132,7 @@ Love affirms itself absolutely; where Love is, there Fear is not. It
 imposes its own conditions on life, and cannot be conditioned by her.
 
 Love must be free in man: in Nature it is the child of Destiny. <span
-id="fr_32"></span>[1](#fn_32) Like the magnet, it has two forces;
+id="fr_32"></span>[1](#fn_32.md) Like the magnet, it has two forces;
 
 <span id="page_37">p. 37</span>
 
@@ -161,7 +161,7 @@ The grand arcanum of Magic is the mystery of Love.
 Love causes Angels to die and immortalises Demons.
 
 It changes into women the Sylphs, Undines and Gnomes, and draws the
-elementaries <span id="fr_33"></span>[1](#fn_33) down to earth.
+elementaries <span id="fr_33"></span>[1](#fn_33.md) down to earth.
 
 Love has promised Pandora to Prometheus; it is for Pandora that the
 heart of Prometheus ceaselessly re-grows beneath the vulture's talons,
@@ -273,10 +273,10 @@ then we love what we ought to love.
 
 ### Footnotes
 
-<span id="fn_30"></span>[33:1](phs06.htm#fr_30) In other words Altruism
+<span id="fn_30"></span>[33:1](phs06.htm#fr_30.md) In other words Altruism
 is the highest form of Egoism.--*Trans*.
 
-<span id="fn_31"></span>[35:1](phs06.htm#fr_31) That is to say when love
+<span id="fn_31"></span>[35:1](phs06.htm#fr_31.md) That is to say when love
 of self shall have given place to love of neighbour and of all
 neighbours--E. O.
 
@@ -286,16 +286,16 @@ the flesh; the Divine and earthly, the love which is animal egoism, and
 that which is the highest form of altruism. But it is more apparent than
 real as will be seen later on.--*Trans*.
 
-<span id="fn_32"></span>[36:1](phs06.htm#fr_32) Here again I can find no
+<span id="fn_32"></span>[36:1](phs06.htm#fr_32.md) Here again I can find no
 translation for the word "*fatal*" which, as contrasted with "*libre*,"
 means <span id="page_37">p. 37</span> the result of fate a thing that
 takes place without the option of intelligence-a blind result of blind,
 unintelligent, irresistible forces.--*Trans*.
 
-<span id="fn_33"></span>[37:1](phs06.htm#fr_33) *Eggrégons*, in the
+<span id="fn_33"></span>[37:1](phs06.htm#fr_33.md) *Eggrégons*, in the
 original.--*Trans*.
 
 ------------------------------------------------------------------------
 
 [Next: Paradox IV.--Knowledge is the Ignorance or Negation of
-Evil](phs07)
+Evil](phs07.md)

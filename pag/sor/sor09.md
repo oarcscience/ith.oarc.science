@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor08)  [Next](sor10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor08)  [Next](sor10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -78,7 +78,7 @@ do to make them hear? My father, whose only joy *I* was and who loved me
 so exceedingly, why, why does he never come to me? . . . On this side
 and on that, only sore constraint, and bitter captivity and mutual
 ignorance! A gloomy night where we look for one ray of light in
-vain! <span id="fr_31"></span>[1](#fn_31)
+vain! <span id="fr_31"></span>[1](#fn_31.md)
 
 These never-ceasing ponderings of human nature, which in Antiquity were
 merely sad, became in the Middle Ages cruel, bitter, demoralising,
@@ -303,10 +303,10 @@ blessings on you both!"
 
 ### Footnotes
 
-<span id="fn_31"></span>[62:1](sor09.htm#fr_31) This ray does shine to
+<span id="fn_31"></span>[62:1](sor09.htm#fr_31.md) This ray does shine to
 some extent in the *Immortalité* and the *Foi Nouvelle* of Dumesnil;
 *Ciel et Terre* by Reynaud, Henri Martin, and others.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Prince of Nature](sor10)
+[Next: 8. Prince of Nature](sor10.md)

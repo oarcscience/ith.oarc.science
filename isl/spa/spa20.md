@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa19)  [Next](spa21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa19)  [Next](spa21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ Banga<u>s’h</u> tribe of Af<u>gh</u>āns, who hold the valley of that
 name, and of which Kohā<u>tt</u> is the chief town. The Banga<u>s’h</u>
 tribe, in bygone days, made a great figure in India; and from a peasant
 of it, the Nawwābs of Farru<u>kh</u>ābād, in that country, traced their
-descent. <span id="fr_385"></span>[\*](#fn_385)
+descent. <span id="fr_385"></span>[\*](#fn_385.md)
 
 <u>Kh</u>wājah Muḥammad lived the life of a Darwe<u>sh</u>, in poverty
 and religious abstraction, and followed the tenets of the <u>Ch</u>astī
@@ -38,7 +38,7 @@ Panjū, a celebrated Ṣūfi teacher, who came originally from
 <span class="contnote">\[paragraph continues\]</span> Hindūstān, and
 dwelt for many years in Af<u>gh</u>ānistān. He is said to have traced
 his descent from the Arab devotee, Muæīn-ud-Dīn, the founder of the
-<u>Ch</u>astī sect. <span id="fr_386"></span>[\*](#fn_386)
+<u>Ch</u>astī sect. <span id="fr_386"></span>[\*](#fn_386.md)
 
 <u>Kh</u>wājah Muḥammad appears to have been a man of some learning; and
 passed most of his time with his teacher or spiritual guide, already
@@ -64,7 +64,7 @@ the grave in which he was buried is not now known.
 
 ### Footnotes
 
-<span id="fn_385"></span>[326:\*](spa20.htm#fr_385) Little did I
+<span id="fn_385"></span>[326:\*](spa20.htm#fr_385.md) Little did I
 imagine, whilst stationed in the Panjāb a few years since, when I was
 penning the notes for this short notice of a poet of the tribe, that I
 should behold the last of the Nawwābs, escorted by a party of my own
@@ -84,9 +84,9 @@ an Af<u>gh</u>ān in name: the centuries of admixture of Indian blood, by
 intermarriage with the people of the country, had left little of the
 Af<u>gh</u>ān blood remaining.
 
-<span id="fn_386"></span>[327:\*](spa20.htm#fr_386) See note at page
-[1](spa04.htm#page_1).
+<span id="fn_386"></span>[327:\*](spa20.htm#fr_386.md) See note at page
+[1](spa04.htm#page_1.md).
 
 ------------------------------------------------------------------------
 
-[Next: The Poems of <u>Kh</u>wājah Muḥammad, Banga<u>sh</u>](spa21)
+[Next: The Poems of <u>Kh</u>wājah Muḥammad, Banga<u>sh</u>](spa21.md)

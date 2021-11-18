@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw13)  [Next](rvw15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw13)  [Next](rvw15.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ dismissal of the appeal in Poe v. Ullman, 367 U.S. 497, 522.
 
 ------------------------------------------------------------------------
 
-[Next: Mr. Justice Rehnquist, dissenting.](rvw15)
+[Next: Mr. Justice Rehnquist, dissenting.](rvw15.md)

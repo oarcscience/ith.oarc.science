@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](moq07)  [Next](moq09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](moq07)  [Next](moq09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysteries of the Qabalah*, by Elias Gewurz, \[1922\], at Intangible
 Textual Heritage
 
@@ -174,7 +174,7 @@ any sacred writing which is
 <span id="page_60">p. 60</span>
 
 truly sacred, that is, which is capable of teaching Truth to man. In the
-Vedas it looms large, it is to be found upon the [papyri](errata.htm#3)
+Vedas it looms large, it is to be found upon the [papyri](errata.htm#3.md)
 of the Priests of Egypt, on the stones of Assyria and Babylon, in the
 writings of the ancient Persians and Sassanians, in all countries and in
 all climes. In Peru and in other parts of America, in China, in Japan
@@ -368,7 +368,7 @@ the Biblical Patriarchs, Abraham and even Seth: others from Egypt,
 others again from Chaldea. The system is certainly very old: but *like
 all the rest of the systems, whether religious or philosophical, the
 Kabala is derived directly from the primeval Secret Doctrine of the
-East*. <span id="fr_2"></span>[\*](#fn_2) . . . Whatever its source, its
+East*. <span id="fr_2"></span>[\*](#fn_2.md) . . . Whatever its source, its
 substratum is at any rate identical with that of all the other ancient
 systems, from the *Book of the Dead*, down to the later Gnostics."
 
@@ -450,7 +450,7 @@ The next in importance is the *Sepher* 
 <span id="page_73">p. 73</span>
 
 <span class="contnote">\[paragraph continues\]</span> *Yetzirah* <span
-id="fr_3"></span>[\*](#fn_3), or book of formation, which is not
+id="fr_3"></span>[\*](#fn_3.md), or book of formation, which is not
 mentioned by all writers, though it has been translated into French and
 English. It refers mystically to the "creation by number," and requires
 much thought for the unravelling of the mysteries there "explained,"
@@ -516,16 +516,16 @@ such-like creatures.
 
 ### Footnotes
 
-<span id="fn_2"></span>[69:\*](moq08.htm#fr_2) The "East" being of
+<span id="fn_2"></span>[69:\*](moq08.htm#fr_2.md) The "East" being of
 course the "Place of Light" and not a mere physical "east," for the
 Wisdom is no more eastern than western, in fact the East is indebted to
 the West and vice-versa, according to the time when the qabalistic
 knowledge was given out or re-presented, sometimes in the west and at
 others in the east.
 
-<span id="fn_3"></span>[73:\*](moq08.htm#fr_3) Compiled probably by a
+<span id="fn_3"></span>[73:\*](moq08.htm#fr_3.md) Compiled probably by a
 certain Rabbi Abraham (and not as some misread it **The Patriarch**).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Soul of the Qabalah](moq09)
+[Next: Chapter II. The Soul of the Qabalah](moq09.md)

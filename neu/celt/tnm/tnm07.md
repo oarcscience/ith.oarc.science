@@ -1,8 +1,8 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index) 
-[Iceland](../../ice/index)  [Index](index)  [Previous](tnm06) 
-[Next](tnm08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index.md) 
+[Iceland](../../ice/index)  [Index](index)  [Previous](tnm06.md) 
+[Next](tnm08.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 [![PLATE VI.&lt;br&gt; FIG.
 1.                                        FIG. 2.&lt;br&gt; CROSS-SLAB,
 KIRK BRIDE.](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
 PLATE VI.  
 FIG. 1.                                        FIG. 2.  
 CROSS-SLAB, KIRK BRIDE.  
@@ -21,7 +21,7 @@ CROSS-SLAB, KIRK BRIDE.
 ### V.--ODIN, THOR, GIANTS, DEMONS, DWARVES.
 
 A remarkable uninscribed stone at Kirk Bride, never yet figured nor
-fully described ([pl. VI.](#img_pl06)), exhibits a wealth of
+fully described ([pl. VI.](#img_pl06).md), exhibits a wealth of
 mythological carvings equal to that on the shield given by Thorleif the
 Wise to Thiodwolf.
 
@@ -52,7 +52,7 @@ of all my sorrows when they trod Swanhild's fair hair in the dust under
 the hoofs of the horses."
 
 On the other face of the stone (fig. 2) we find a reference to one of
-Thor's most famous adventures. <span id="fr_18"></span>[1](#fn_18) The
+Thor's most famous adventures. <span id="fr_18"></span>[1](#fn_18.md) The
 slayer of giants and monsters was destined in the end to meet with the
 dread dragon Jormungandr; he tried to anticipate matters, and we are
 told that once upon a time he went in the guise of a young man to the
@@ -85,7 +85,7 @@ with great strides to reach the strand before the giant will have put
 off.
 
 On the fragment of a stone at Gosforth, Cumberland, <span
-id="fr_19"></span>[1](#fn_19) of the same period, and carved by the same
+id="fr_19"></span>[1](#fn_19.md) of the same period, and carved by the same
 people, we have the figure of a boat with the Giant hauling in the
 whales, and Thor in the stern casting his line. On another we see Thor
 with his two feet dashed through the bottom of the boat.
@@ -172,7 +172,7 @@ of the compass, which support the firmament (Hymi's skull) at the four
 corners, namely, Austri, Vestri, Nordri, and Sudri. Two of these may be
 seen on this face of the stone, one on either side above the head of the
 cross, the curved border of the stone suggesting the firmament. <span
-id="fr_20"></span>[1](#fn_20)
+id="fr_20"></span>[1](#fn_20.md)
 
 <span id="page_27">p. 27</span>
 
@@ -199,16 +199,16 @@ II.)
 
 ### Footnotes
 
-<span id="fn_18"></span>[23:1](tnm07.htm#fr_18) Hymis-kvida, 70.
+<span id="fn_18"></span>[23:1](tnm07.htm#fr_18.md) Hymis-kvida, 70.
 
-<span id="fn_19"></span>[24:1](tnm07.htm#fr_19) "Crosses, &c., in the
+<span id="fn_19"></span>[24:1](tnm07.htm#fr_19.md) "Crosses, &c., in the
 Diocese of Carlisle." Rev. W. S. Calverley, p. 168.
 
-<span id="fn_20"></span>[26:1](tnm07.htm#fr_20) So on a Hog-hacked stone
+<span id="fn_20"></span>[26:1](tnm07.htm#fr_20.md) So on a Hog-hacked stone
 at Heysham. See "Transactions of the Lancashire and Cheshire Antiquarian
 Society," Vol. V., Pl. VI., and Vol. IX., P1. IX., X., XI. Note also the
 use of the Chevron as on the Bride Stone!
 
 ------------------------------------------------------------------------
 
-[Next: VI.--The Wind-Giant, Hræ-svelgr, Carrion-Swallower](tnm08)
+[Next: VI.--The Wind-Giant, Hræ-svelgr, Carrion-Swallower](tnm08.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb30)  [Next](pifb32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb30)  [Next](pifb32.md) 
 
 </div>
 
@@ -234,6 +234,6 @@ lived happy all the days of their life.
 
 ------------------------------------------------------------------------
 
-[Next: The White Dove](pifb32)
+[Next: The White Dove](pifb32.md)
 
 </div>

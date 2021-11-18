@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr04) 
-[Next](frr06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr04.md) 
+[Next](frr06.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,12 +40,12 @@ with the death of a knight whose name and identity are never disclosed.
 \[paragraph continues\] "Great is the loss that ye lie thus, 'tis even
 the destruction of kingdoms, God grant that ye be avenged, so that the
 folk be once more joyful and the land repeopled which by ye and this
-sword are wasted and made void <span id="fr_0"></span>[1](#fn_0)." The
+sword are wasted and made void <span id="fr_0"></span>[1](#fn_0.md)." The
 fact that Gawain does ask concerning the Lance assures the partial
 restoration of the land; I would draw attention to the special terms in
 which this is described: "for so soon as Sir Gawain asked of the
 Lance...the waters flowed again thro' their channel, and all the woods
-were turned to verdure <span id="fr_1"></span>[2](#fn_1)."
+were turned to verdure <span id="fr_1"></span>[2](#fn_1.md)."
 
 Diû Crône. Here the question is more general in character; it affects
 the marvels beheld, not the Grail alone; but now the Quester is
@@ -53,7 +53,7 @@ prepared, and knows what is expected of him. The result is to break the
 spell which retains the Grail King in a semblance of life, and we learn,
 by implication, that the land is restored to fruitfulness: "yet had the
 land been waste, but by his coming had folk and land alike been
-delivered <span id="fr_2"></span>[3](#fn_2)." Thus in the earliest
+delivered <span id="fr_2"></span>[3](#fn_2.md)." Thus in the earliest
 preserved, the GAWAIN form, the effect upon the land appears to be the
 primary result of the Quest.
 
@@ -91,12 +91,12 @@ Qui ne fust gaste, ne fontaine.
 E la terre gaste et soutaine."
 
 Like Gawain he has 'freed the waters' and thus restored the land <span
-id="fr_3"></span>[1](#fn_3).
+id="fr_3"></span>[1](#fn_3.md).
 
 In the prose *Perceval* the *motif* of the Waste Land has disappeared,
 the task of the hero consists in asking concerning the Grail, and by so
 doing, to restore the Fisher King, who is suffering from extreme old
-age, to health, and youth <span id="fr_4"></span>[2](#fn_4).
+age, to health, and youth <span id="fr_4"></span>[2](#fn_4.md).
 
 "Se tu eusses demandé quel'en on faisoit, que li rois ton aiol fust
 gariz de l'enfermetez qu'il a, et fust revenu en sa juventé."
@@ -107,7 +107,7 @@ estoit garis de se maladie, et
 
 <span id="page_14">p. 14</span>
 
-estoit sains comme pissons. <span id="fr_5"></span>[1](#fn_5)" Here we
+estoit sains comme pissons. <span id="fr_5"></span>[1](#fn_5.md)" Here we
 have the introduction of a new element, the restoration to youth of the
 sick King.
 
@@ -125,7 +125,7 @@ entails disaster upon the land. Thus the sickness of the King, and the
 desolation of the land, are not necessarily connected as cause and
 effect, but, a point which seems hitherto unaccountably to have been
 overlooked, the latter is directly attributable to the Quester
-himself <span id="fr_6"></span>[2](#fn_6).
+himself <span id="fr_6"></span>[2](#fn_6.md).
 
 "Car se tu demandé l'eusses  
 Li rice roi qui moult s'esmaie  
@@ -140,7 +140,7 @@ has entailed dire misfortune upon the land:
 Tiéres en seront essiliés,  
 Et pucielles desconselliés  
 Orfenes, veves, en remanront  
-Et maint chevalier en morront. <span id="fr_7"></span>[3](#fn_7)"
+Et maint chevalier en morront. <span id="fr_7"></span>[3](#fn_7.md)"
 
  
 
@@ -157,21 +157,21 @@ roi Peschéor, si aparut à lui li saintimes Graaus, et la lance de quoi
 li fiers seigne par la poignte; ne demanda de quoi ce servoit, ou dont
 ce venoit, et por ce qu'il ne demanda sont toutes les terres comméues an
 guerre, ne chevalier n'ancontre autre au forest qu'il ne li core sus, et
-ocie s'il peut <span id="fr_8"></span>[1](#fn_8)."
+ocie s'il peut <span id="fr_8"></span>[1](#fn_8.md)."
 
 "Li Roi Pecheors de qui est grant dolors, quar il est cheüz en une
 douleureuse langour--ceste langour li est venue par celui qui se heberga
 an son ostel, à qui li seintimes Graaus s'aparut, por ce que cil ne vost
 demander de qu'il an servoit, toutes les terres an furent comméues en
-gerre <span id="fr_9"></span>[2](#fn_9)."
+gerre <span id="fr_9"></span>[2](#fn_9.md)."
 
 "Je suis cheüz an langour dès cele oure que li chevaliers se herberga
 çoianz dont vous avez oï parler; par un soule parole que il déloia a
-dire me vint ceste langour <span id="fr_10"></span>[3](#fn_10)."
+dire me vint ceste langour <span id="fr_10"></span>[3](#fn_10.md)."
 
 From this cause the Fisher King dies before the hero has achieved the
 task, and can take his place. "Li bons Rois Peschiéres est morz <span
-id="fr_11"></span>[4](#fn_11)." There is here no cure of the King or
+id="fr_11"></span>[4](#fn_11.md)." There is here no cure of the King or
 restoration of the land, the specific task of the Grail hero is never
 accomplished, he comes into his kingdom as the result of a number of
 knightly adventures, neither more nor less significant than those found
@@ -201,7 +201,7 @@ also slay the enemy whose treachery has caused the death of the Fisher
 King's brother; thereby healing the wound of the King himself, and
 removing the woes of the land. What these may be we are not told, but,
 apparently, the country is not 'Waste. <span
-id="fr_12"></span>[1](#fn_12)'
+id="fr_12"></span>[1](#fn_12.md)'
 
 In *Peredur* we have a version closely agreeing with that of Chrétien;
 the hero fails to enquire the meaning of what he sees in the Castle of
@@ -210,7 +210,7 @@ have been restored to health, and his dominions to peace, whereas from
 henceforth he will have to endure battles and conflicts, and his knights
 will perish, and wives will be widowed, and maidens will be left
 portionless, and all this because of thee <span
-id="fr_13"></span>[2](#fn_13)." This certainly seems to imply that,
+id="fr_13"></span>[2](#fn_13.md)." This certainly seems to imply that,
 while the illness of the Fisher King may be antecedent to, and
 independent of, the visit and failure of the hero, the misfortunes which
 fall on the land have been directly caused thereby.
@@ -222,7 +222,7 @@ thy cousin's, and he was killed by the Sorceresses of Gloucester, who
 also lamed thine uncle--and there is a prediction that thou art to
 avenge these things--" would seem to indicate the presence in the
 original of a 'Vengeance' theme, such as that referred to above <span
-id="fr_14"></span>[1](#fn_14).
+id="fr_14"></span>[1](#fn_14.md).
 
 In *Parzival* the stress is laid entirely on the sufferings of the King;
 the question has been modified in the interests of this theme, and here
@@ -234,12 +234,12 @@ drought, or war, there is no mention.
 "Iuch solt' iur wirt erbarmet hân,  
 An dem Got wunder hât getân,  
 Und het gevrâget sîner nôt,  
-Ir lebet, und sît an saelden tôt <span id="fr_15"></span>[2](#fn_15)."
+Ir lebet, und sît an saelden tôt <span id="fr_15"></span>[2](#fn_15.md)."
 
 "Dô der trûrege vischaere  
 Saz âne fröude und âne trôst  
 War umb' iren niht siufzens hât erlôst <span
-id="fr_16"></span>[3](#fn_16)."
+id="fr_16"></span>[3](#fn_16.md)."
 
 The punishment falls on the hero who has failed to put the question,
 rather than on the land, which, indeed, appears to be in no way
@@ -267,7 +267,7 @@ Dô man'n in zogen sach
 Ze Kanvoleis sô wünneclîch,  
 Ir dechéines schoen' was der gelîch,  
 Die Anfortas ûz siecheit truoc.  
-Got noch künste kan genuoc <span id="fr_17"></span>[1](#fn_17)."
+Got noch künste kan genuoc <span id="fr_17"></span>[1](#fn_17.md)."
 
 GALAHAD. In the final form assumed by the story, that preserved in the
 *Queste*, the achievement of the task is not preceded by any failure on
@@ -281,7 +281,7 @@ and the healing takes place *before* the Quest is definitely achieved.
 There is no Waste Land, and the wounding of the two Kings is entirely
 unconnected with Galahad. We find hints, in the story of Lambar, of a
 knowledge of the earlier form, but for all practical purposes it has
-disappeared from the story <span id="fr_18"></span>[2](#fn_18).
+disappeared from the story <span id="fr_18"></span>[2](#fn_18.md).
 
 <span id="page_19">p. 19</span>
 
@@ -341,7 +341,7 @@ extreme old age.
 In Chrétien, Manessier, *Peredur*, and the *Parzival*, the King is
 suffering from a wound the nature of which, euphemistically disguised in
 the French texts, is quite clearly explained in the German <span
-id="fr_19"></span>[1](#fn_19).
+id="fr_19"></span>[1](#fn_19.md).
 
 But the whole position is made absolutely clear by a passage preserved
 in *Sone de Nansai* and obviously taken over from an earlier poem. This
@@ -356,7 +356,7 @@ unbeliever at heart, and makes her his wife, thus drawing the wrath of
 Heaven upon himself. God punishes him for his sin:
 
 "Es rains et desous l'afola  
-De coi grant dolor endura <span id="fr_20"></span>[2](#fn_20)."
+De coi grant dolor endura <span id="fr_20"></span>[2](#fn_20.md)."
 
  
 
@@ -380,7 +380,7 @@ Ne se n'i ot beste faon,
 Tant que li rois fu mehaigniés  
 Et qu'il fu fors de ses pechiés,  
 Car Jesu-Crist fourment pesa  
-Qu'à la mescréant habita <span id="fr_21"></span>[1](#fn_21)."
+Qu'à la mescréant habita <span id="fr_21"></span>[1](#fn_21.md)."
 
 Now there can be no possible doubt here, the condition of the King is
 sympathetically reflected on the land, the loss of virility in the one
@@ -393,7 +393,7 @@ for the belief that the story postulates a close connection between the
 vitality of a certain King, and the prosperity of his kingdom; the
 forces of the ruler being weakened or destroyed, by wound, sickness, old
 age, or death, the land becomes Waste, and the task of the hero is that
-of restoration <span id="fr_22"></span>[2](#fn_22).
+of restoration <span id="fr_22"></span>[2](#fn_22.md).
 
 <span id="page_22">p. 22</span>
 
@@ -424,69 +424,69 @@ mazes of a varying, yet curiously persistent, tradition.
 
 ### Footnotes
 
-<span id="fn_0"></span>[12:1](frr05.htm#fr_0) MS. Bibl. Nat., f. Franç.
+<span id="fn_0"></span>[12:1](frr05.htm#fr_0.md) MS. Bibl. Nat., f. Franç.
 12576, fo. 90.
 
-<span id="fn_1"></span>[12:2](frr05.htm#fr_1) *Ibid*. fo. 90*vo*, 91.
+<span id="fn_1"></span>[12:2](frr05.htm#fr_1.md) *Ibid*. fo. 90*vo*, 91.
 
-<span id="fn_2"></span>[12:3](frr05.htm#fr_2) *Diû Crône* (ed. Stoll,
+<span id="fn_2"></span>[12:3](frr05.htm#fr_2.md) *Diû Crône* (ed. Stoll,
 Stuttgart, 1852). Cf. *Sir Gawain of the Grail Castle* for both
 versions.
 
-<span id="fn_3"></span>[13:1](frr05.htm#fr_3) Cf. MS. B.N. 12576, fo.
+<span id="fn_3"></span>[13:1](frr05.htm#fr_3.md) Cf. MS. B.N. 12576, fo.
 154.
 
-<span id="fn_4"></span>[13:2](frr05.htm#fr_4) *Perceval*, ed. Hucher, p.
+<span id="fn_4"></span>[13:2](frr05.htm#fr_4.md) *Perceval*, ed. Hucher, p.
 466; Modena, p. 61.
 
-<span id="fn_5"></span>[14:1](frr05.htm#fr_5) Cf. Hucher, p. 482;
+<span id="fn_5"></span>[14:1](frr05.htm#fr_5.md) Cf. Hucher, p. 482;
 Modena, p. 82.
 
-<span id="fn_6"></span>[14:2](frr05.htm#fr_6) *Percevel li Gallois*, ed.
+<span id="fn_6"></span>[14:2](frr05.htm#fr_6.md) *Percevel li Gallois*, ed.
 Potvin, ll. 6048-52.
 
-<span id="fn_7"></span>[14:3](frr05.htm#fr_7) *Ib*. ll. 6056-60.
+<span id="fn_7"></span>[14:3](frr05.htm#fr_7.md) *Ib*. ll. 6056-60.
 
-<span id="fn_8"></span>[15:1](frr05.htm#fr_8) Potvin, Vol. I. p. 15.
+<span id="fn_8"></span>[15:1](frr05.htm#fr_8.md) Potvin, Vol. I. p. 15.
 
-<span id="fn_9"></span>[15:2](frr05.htm#fr_9) *Ib*. p. 26.
+<span id="fn_9"></span>[15:2](frr05.htm#fr_9.md) *Ib*. p. 26.
 
-<span id="fn_10"></span>[15:3](frr05.htm#fr_10) *Ib*. p. 86.
+<span id="fn_10"></span>[15:3](frr05.htm#fr_10.md) *Ib*. p. 86.
 
-<span id="fn_11"></span>[15:4](frr05.htm#fr_11) *Ib*. pp. 176, 178.
+<span id="fn_11"></span>[15:4](frr05.htm#fr_11.md) *Ib*. pp. 176, 178.
 
-<span id="fn_12"></span>[16:1](frr05.htm#fr_12) MS. B.N. 12576, ff.
+<span id="fn_12"></span>[16:1](frr05.htm#fr_12.md) MS. B.N. 12576, ff.
 221-222*vo*.
 
-<span id="fn_13"></span>[16:2](frr05.htm#fr_13) *Mabinogion*, ed. Nutt,
+<span id="fn_13"></span>[16:2](frr05.htm#fr_13.md) *Mabinogion*, ed. Nutt,
 p. 282.
 
-<span id="fn_14"></span>[17:1](frr05.htm#fr_14) Cf. *Peredur* (ed.
+<span id="fn_14"></span>[17:1](frr05.htm#fr_14.md) Cf. *Peredur* (ed.
 Nutt), pp. 282, 291-92.
 
-<span id="fn_15"></span>[17:2](frr05.htm#fr_15) *Parzival*, Book v. ll.
+<span id="fn_15"></span>[17:2](frr05.htm#fr_15.md) *Parzival*, Book v. ll.
 947-50.
 
-<span id="fn_16"></span>[17:3](frr05.htm#fr_16) *Ib*. Book VI. ll.
+<span id="fn_16"></span>[17:3](frr05.htm#fr_16.md) *Ib*. Book VI. ll.
 1078-80.
 
-<span id="fn_17"></span>[18:1](frr05.htm#fr_17) Parzival, Book XVI, ll.
+<span id="fn_17"></span>[18:1](frr05.htm#fr_17.md) Parzival, Book XVI, ll.
 275-86.
 
-<span id="fn_18"></span>[18:2](frr05.htm#fr_18) Cf. *Morte Arthure*,
+<span id="fn_18"></span>[18:2](frr05.htm#fr_18.md) Cf. *Morte Arthure*,
 Malory, Book XVII. Chap. 18. Note the remark of Mordrains that his flesh
 which has waxen old shall become young again.
 
-<span id="fn_19"></span>[20:1](frr05.htm#fr_19) *Parzival*, Bk. IX. ll.
+<span id="fn_19"></span>[20:1](frr05.htm#fr_19.md) *Parzival*, Bk. IX. ll.
 1388-92.
 
-<span id="fn_20"></span>[20:2](frr05.htm#fr_20) *Sone de Nansai* (ed.
+<span id="fn_20"></span>[20:2](frr05.htm#fr_20.md) *Sone de Nansai* (ed.
 Goldschmidt, Stuttgart, 1899), ll. 4775-76.
 
-<span id="fn_21"></span>[21:1](frr05.htm#fr_21) *Sone de Nansai*, ll.
+<span id="fn_21"></span>[21:1](frr05.htm#fr_21.md) *Sone de Nansai*, ll.
 4841-56.
 
-<span id="fn_22"></span>[21:2](frr05.htm#fr_22) It is evidently such a
+<span id="fn_22"></span>[21:2](frr05.htm#fr_22.md) It is evidently such a
 version as that of *Sone de Nansai*, and *Parzival*, which underlies the
 curious statement of the *Merlin* MS. B.N. f. Fr. 337, where the wife of
 the Fisher King is known as 'la Veve Dame,' while her husband is yet in
@@ -494,4 +494,4 @@ life, though sorely wounded.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Freeing of the Waters](frr06)
+[Next: Chapter III. The Freeing of the Waters](frr06.md)

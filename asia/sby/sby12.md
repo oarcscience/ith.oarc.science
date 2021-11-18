@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby11)  [Next](sby13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby11)  [Next](sby13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ they kiss the place where the rays first fall; they do the same at
 sunset, where its rays last fall. Likewise they kiss the spot where the
 moon first casts its rays and where it last casts them. They think,
 moreover, that by the multiplication of presents to
-[šeiḫs](errata.htm#5) and idols they keep troubles and afflictions away.
+[šeiḫs](errata.htm#5.md) and idols they keep troubles and afflictions away.
 
 There is a great difference among the *ḳôchaks*, they contradict one
 another. Some say, "Melek Ṭâ‘ûs appears to me and reveals to me many
@@ -71,16 +71,16 @@ secrets. Life and death are in their hands.
 the people depends on the gratitude and honor which they show the
 *ḳôchaks*. According to Yezidis, hell has no existence. It was created
 in the time of the first Adam, they say, when our father, Ibrîḳ
-al-Aṣfar, was born. <span id="fr_50"></span>[21](#fn_50) By reason of
+al-Aṣfar, was born. <span id="fr_50"></span>[21](#fn_50.md) By reason of
 his generosity and noble deeds, Ibrîḳ had many friends. Now, when he
 viewed hell he became very sad. He had a small *baḳbûḳ aṣfar*, <span
-id="fr_51"></span>[22](#fn_51) into which, as he kept weeping his tears
+id="fr_51"></span>[22](#fn_51.md) into which, as he kept weeping his tears
 fell. In seven years it was filled. He then cast it into hell, and all
 its fires were put out that mankind might not be tortured. This incident
 relates to one of the noble deeds of our first father, Ibrîḳ al-Aṣfar.
 They have many more such upright men of noble deeds. Such an one is
 Mohammed Rašân, whose resting place is behind the mount of Šeiḫ
-Mattie. <span id="fr_52"></span>[23](#fn_52) He (Rašân) is exceedingly
+Mattie. <span id="fr_52"></span>[23](#fn_52) He (Rašân.md) is exceedingly
 strong, so that the most sacred oaths are sworn by him. If any one
 becomes sick, he takes refuge in making vows to *ḫasin*, *i.e.*, pillars
 of idols. Now there is a place of religious pilgrimage which is called
@@ -99,7 +99,7 @@ of cloth will catch the disease with which the man was afflicted when he
 hung it up. There are many such trees in the village of Ba‘ašîḳa, and in
 some other places. There is also a spring of water, called in the common
 language ‘Ain aṣ-Ṣafra (Yellow Spring). The Yezidis call it
-Kanî-Zarr. <span id="fr_53"></span>[24](#fn_53) In this swim those who
+Kanî-Zarr. <span id="fr_53"></span>[24](#fn_53.md) In this swim those who
 are afflicted with the disease of *abû-ṣafar* (jaundice.) But those who
 are troubled with dropsy go for cure to the house of the Pir that lives
 in the village of Man Reš.
@@ -124,7 +124,7 @@ of the
 <span id="page_57">p. 57</span>
 
 back (belt). They baptize these and the *sanjaḳs* with the water of
-Zamzam. He who is called Jawiš <span id="fr_54"></span>[25](#fn_54)
+Zamzam. He who is called Jawiš <span id="fr_54"></span>[25](#fn_54.md)
 wears a stole which is woven from the hair of a goat It is nine spans in
 length and around it are *sansûls* (tinsels).
 
@@ -134,7 +134,7 @@ has taken according to his rank, the remainder goes to the emir.
 
 They have another gathering which takes place at the feast of Al-Hijâjj.
 At this pilgrimage they go up to the mountain which is called Jabal
-al-‘Arafât. <span id="fr_55"></span>[26](#fn_55) After remaining there
+al-‘Arafât. <span id="fr_55"></span>[26](#fn_55.md) After remaining there
 an hour, they hasten toward Šeiḫ ‘Adî. He who arrives there before his
 companions is praised much. Hence everyone tries to excel. The one who
 succeeds receives abundant blessings.
@@ -155,7 +155,7 @@ of blessing. In return money is taken. In the second place, the
 
 In their preaching, the šeiḫs tell the people that all kings have come
 from their descent, such as Nisroch, <span
-id="fr_56"></span>[27](#fn_56) who is Nasr-ad-Dîn, and Kamuš who is
+id="fr_56"></span>[27](#fn_56.md) who is Nasr-ad-Dîn, and Kamuš who is
 Fahr-ad-Dîn, and Artâmîs, who is Šams-ad-Dîn, and many others, as Shabur
 and Yoram; and many royal names of the ancient kings, together with
 their own (Yezidi) kings, are from their seed. The sign of the Yezidi is
@@ -168,7 +168,7 @@ draws a circle on the ground, and tells him that this circle belongs to
 the middle of the circle, and then tells him that Melek Ṭâ‘ûs and all
 those who were mentioned above will not intercede for him after his
 death, and that the shirt of the Jewish Nasim <span
-id="fr_57"></span>[29](#fn_57) be on his neck, and that the hand of
+id="fr_57"></span>[29](#fn_57.md) be on his neck, and that the hand of
 Nasim be on his neck and eye, and that Nasim be his brother for the next
 world, and let him be to him for a šeiḫ and a *pir* if he does not tell
 the truth. Then if he swears to tell the truth, he cannot conceal
@@ -178,7 +178,7 @@ of one of their prophets.
 
 They fast three days in a year from morning till evening. The fast falls
 in December, according to the oriental calendar. They have no
-prayer <span id="fr_58"></span>[30](#fn_58) except what is mentioned
+prayer <span id="fr_58"></span>[30](#fn_58.md) except what is mentioned
 above, such as that referring to the sun
 
 <span id="page_59">p. 59</span>
@@ -216,7 +216,7 @@ before. Afterward he again continued: "Jesus remained in the den till
 one day when he happened to remember Melek Ṭâ’ûs. He then sought his
 aid, praying, 'O Melek Ṭâ’ûs, I have been in this den for some time. I
 am imprisoned; I have sought the help of all the saints, and none of
-them [could](errata.htm#6) deliver me. Now, save me from this den.' When
+them [could](errata.htm#6.md) deliver me. Now, save me from this den.' When
 Melek Ṭâ’ûs heard this, he descended from heaven to earth quicker than
 the twinkling of an eye, removed the stone from the top of the den, and
 said to Jesus, 'Come up, behold I have brought thee out.' Then both went
@@ -239,7 +239,7 @@ Now the views of the Yezidis regarding the birth of Christ and the
 explanation of the name of the Apostle Peter, are found in one of their
 stories, which runs thus: "Verily Mary the Virgin mother of Jesus, begat
 Jesus in a manner unlike the rest of women. She begat him from her right
-side, <span id="fr_59"></span>[31](#fn_59) between her clothes and her
+side, <span id="fr_59"></span>[31](#fn_59.md) between her clothes and her
 body. At that time the Jews had a custom that, if a woman gave birth,
 all her relatives and neighbors would bring her presents. The women
 would call, carrying in their right hand a plate of fruits which were to
@@ -367,7 +367,7 @@ greater than the pilgrimage to Mecca.
 There are some domes, huts, around the tomb of Šeiḫ ‘Adî. They are there
 for the purpose of receiving blessings from the tomb. And they are all
 attributed to the great Šeiḫs, as the hut of
-‘Abd-al-Ḳâdir-al-Jîlânî; <span id="fr_60"></span>[32](#fn_60) the hut of
+‘Abd-al-Ḳâdir-al-Jîlânî; <span id="fr_60"></span>[32](#fn_60.md) the hut of
 Šeiḫ Ḳadîb-al-Bân; the hut of Šeiḫ Šams-ad-Dîn; the hut of Šeiḫ
 Manṣûr-al-Ḥallâj, and the hut of Šeiḫ Ḫasan-al-Baṣrî. There are also
 
@@ -404,7 +404,7 @@ Moreover, they believe there are eating,
 <span id="page_67">p. 67</span>
 
 drinking, and other earthly pleasures in the next world. <span
-id="fr_61"></span>[33](#fn_61) Some hold that the rule of heaven is in
+id="fr_61"></span>[33](#fn_61.md) Some hold that the rule of heaven is in
 God's hands, but the rule of the earth is in Šeiḫ ‘Adî hands. Being
 exceedingly beloved by God, he bestowed upon him according to ‘Adî's
 desire.
@@ -435,7 +435,7 @@ thousand years; and that one of these gods is
 <span class="contnote">\[paragraph continues\]</span> Lasiferos, the
 chief of the fallen angels, who bears also the name Melek Ṭâ’ûs. They
 make him a graven image after the form of a cock <span
-id="fr_62"></span>[34](#fn_62) and worship it. They play the tambourine
+id="fr_62"></span>[34](#fn_62.md) and worship it. They play the tambourine
 and dance before it to make it rejoice with them. They (*ḳawwâls*)
 travel within the Yezidis' villages to collect money, at which time they
 take it into the houses that it may bless and honor them. Some say that
@@ -452,7 +452,7 @@ one of them to read it.
 
 Mention is made in some of their books that the First Cause is the
 Supreme God, who before he created this world, was enjoying himself over
-the seas; <span id="fr_63"></span>[35](#fn_63) and in his hand was a
+the seas; <span id="fr_63"></span>[35](#fn_63.md) and in his hand was a
 great White Pearl, with which he was playing. Then he resolved to cast
 it into the sea, and when he did so this world came into being.
 
@@ -476,13 +476,13 @@ be just; but if unjust, into an animal.
 
 ### Footnotes
 
-<span id="fn_50"></span>[55:21](sby12.htm#fr_50) Ibrîḳ al-Aṣfar means
+<span id="fn_50"></span>[55:21](sby12.htm#fr_50.md) Ibrîḳ al-Aṣfar means
 "the yellow pitcher."
 
-<span id="fn_51"></span>[55:22](sby12.htm#fr_51) Bakbûḳ is a pitcher
+<span id="fn_51"></span>[55:22](sby12.htm#fr_51.md) Bakbûḳ is a pitcher
 with a narrow spout.
 
-<span id="fn_52"></span>[55:23](sby12.htm#fr_52) <span id="page_85">p.
+<span id="fn_52"></span>[55:23](sby12.htm#fr_52.md) <span id="page_85">p.
 85</span> Mar Mattie is a Syrian monastery about seven hours' ride east
 of Mosul, generally known by the name of Šeiḫ Mattie, in accordance with
 the general custom of sheltering a Christian saint beneath a Moslem
@@ -496,16 +496,16 @@ inscription: "This is the grave of Mar Gregorias, and of Mar Barsome his
 brother, the children of the Hebrew, on Mount Elpep" (the Syriac name
 for Jabal Maḳlûb).
 
-<span id="fn_53"></span>[56:24](sby12.htm#fr_53) *Kani* in Kurdish means
+<span id="fn_53"></span>[56:24](sby12.htm#fr_53.md) *Kani* in Kurdish means
 a spring; *zarr*, yellow. In Kurdish, as in Persian, the adjective
 usually follows the modified noun; cf. Tartibi Jadid, Ta‘alimi Faresi.
 *The New Method for Teaching Persian* (in the Turkish language, ed.
 Kasbar, Constantinople, A. H. 1312), p. 18.
 
-<span id="fn_54"></span>[57:25](sby12.htm#fr_54) Jawiš is a Turkish
+<span id="fn_54"></span>[57:25](sby12.htm#fr_54.md) Jawiš is a Turkish
 word, signifying a sergeant.
 
-<span id="fn_55"></span>[57:26](sby12.htm#fr_55) This ceremony, as well
+<span id="fn_55"></span>[57:26](sby12.htm#fr_55.md) This ceremony, as well
 as the names ‘Arafat, Zamzam, etc., seems to be a mere copy of the
 Meccah Pilgrimage. ‘Arafât, "The Mount of Recognition," is situated
 twelve miles from Mecca, a place where the pilgrims stay on the ninth
@@ -518,33 +518,33 @@ conducted by the Angel Gabriel to a mountain near Mecca, where he found
 and knew <span id="page_86">p. 86</span> his wife, the mountain being
 then named ‘Arafat, "Recognition."
 
-<span id="fn_56"></span>[58:27](sby12.htm#fr_56) The god Nisroch of
+<span id="fn_56"></span>[58:27](sby12.htm#fr_56.md) The god Nisroch of
 Scripture, II Kings 19:37; Isa. 37: 38. There is no footnote 27--JBH.
 
-<span id="fn_57"></span>[58:29](sby12.htm#fr_57) A superstitious name
+<span id="fn_57"></span>[58:29](sby12.htm#fr_57.md) A superstitious name
 signifying an ill omen.
 
-<span id="fn_58"></span>[58:30](sby12.htm#fr_58) That is, public prayers
+<span id="fn_58"></span>[58:30](sby12.htm#fr_58.md) That is, public prayers
 like those of the Mohammedans and of the Christians; cf. Al Mašrik, II,
 313.
 
-<span id="fn_59"></span>[61:31](sby12.htm#fr_59) The text has "her
+<span id="fn_59"></span>[61:31](sby12.htm#fr_59.md) The text has "her
 hand."
 
-<span id="fn_60"></span>[65:32](sby12.htm#fr_60) While the Yezidis
+<span id="fn_60"></span>[65:32](sby12.htm#fr_60.md) While the Yezidis
 venerate ‘Abd al-Ḳâdir of Jîlân, the Nusairis curse him; cf. JAOS, VIII,
 274.
 
-<span id="fn_61"></span>[67:33](sby12.htm#fr_61) This belief is taken
+<span id="fn_61"></span>[67:33](sby12.htm#fr_61.md) This belief is taken
 from Mohammedanism.
 
-<span id="fn_62"></span>[68:34](sby12.htm#fr_62) The Arabs worshiped a
+<span id="fn_62"></span>[68:34](sby12.htm#fr_62.md) The Arabs worshiped a
 deity under the form of a *nasr* (eagle), Aš-Šahrastânî, II, 434; Yakut,
 IV, 780; *The Syriac Doctrine of Addai* (ed. George Philips), p. 24.
 
-<span id="fn_63"></span>[68:35](sby12.htm#fr_63) Cf. Gen. 1: 2, and the
+<span id="fn_63"></span>[68:35](sby12.htm#fr_63.md) Cf. Gen. 1: 2, and the
 Babylonian Creation Epic.
 
 ------------------------------------------------------------------------
 
-[Next: The Poem in Praise of Šeiḫ ‘Adî](sby13)
+[Next: The Poem in Praise of Šeiḫ ‘Adî](sby13.md)

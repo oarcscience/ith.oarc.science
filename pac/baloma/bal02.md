@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](bal01)  [Next](bal03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](bal01)  [Next](bal03.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,17 +54,17 @@ own departure is brought home to them, and they are sorry to think of
 their homes and of all those they left behind. Some of the *baloma*
 wail, some sing a monotonous chant, exactly as is done during the great
 mortuary vigil (*iawali*) after a man's death. Then the *baloma* goes to
-a well, called Gilala, [9](bal09.htm#xref_9) and washes
+a well, called Gilala, [9](bal09.htm#xref_9.md) and washes
 
 <span id="page_156">p. 156</span>
 
-his eyes, which renders him invisible. [10](bal09.htm#xref_10) From here
+his eyes, which renders him invisible. [10](bal09.htm#xref_10.md) From here
 the spirit proceeds to Dukupuala, a spot in the *raiboag* where there
 are two stones called Dikumaio'i. The balom knocks these two stones in
 turn. The first responds with a loud sound (*kakupuana*), but when the
 second is hit the earth trembles (*ioiu*). The *baloma* hear this sound,
 and they all congregate round the newcomer and welcome him to
-Tuma. [11](bal09.htm#xref_11)
+Tuma. [11](bal09.htm#xref_11.md)
 
 Somewhere during this ingress the spirit has to face Topileta, the
 headman of the villages of the dead. At what stage exactly Topileta
@@ -77,13 +77,13 @@ however, rest on moral considerations of any description: it is simply
 conditioned by his satisfaction with the payment made by the newcomer.
 After death the bereaved relatives adorn the corpse with all the native
 ornaments which the deceased had possessed. They also put on his body
-all his other *vaigu'a* (valuables), [12](bal09.htm#xref_12) in the
+all his other *vaigu'a* (valuables), [12](bal09.htm#xref_12.md) in the
 first place his ceremonial axe blades (*beku*). The spirit is supposed
 to carry these away with him to Tuma--in their "spiritual" aspect, of
 course. As the natives explain simply and exactly: "As the man's
 *baloma* goes away and his body remains, so the *baloma* of the jewels
 and axe blades go away to Tuma, though the objects
-remain." [13](bal09.htm#xref_13) The spirit carries these valuables in a
+remain." [13](bal09.htm#xref_13.md) The spirit carries these valuables in a
 small basket and makes an appropriate present to Topileta.
 
 This payment is said to be made for showing the proper way to Tuma.
@@ -107,7 +107,7 @@ With death in warfare is classed one form of suicide, that in which a
 man climbs a tree and throws himself down (native name, *lo'u*). This is
 one of the two forms of suicide extant in Kiriwina, and it is practiced
 by both men and women. Suicide seems to be very
-common. [14](bal09.htm#xref_14) It is performed as an act of justice,
+common. [14](bal09.htm#xref_14.md) It is performed as an act of justice,
 not upon oneself, but upon some person of near kindred who has caused
 offense. As such it is one of the most important legal institutions
 among these natives. The underlying psychology is, however, not so
@@ -115,7 +115,7 @@ simple, and this remarkable group of facts cannot be discussed here in
 detail.
 
 Besides the *lo'u*, suicide is also accomplished by taking poison, for
-which purpose the fish poison (*tuva*) is used. [15](bal09.htm#xref_15)
+which purpose the fish poison (*tuva*) is used. [15](bal09.htm#xref_15.md)
 Such people, together with those murdered by the gall bladder of the
 poisonous fish, *soka*, go the second road, that of poison.
 
@@ -129,7 +129,7 @@ according to the prevalent view, only the latter can be fatal. Thus the
 third road to Tuma includes all the cases of "natural death," in our
 sense of the word, of death not due to an obvious accident. To the
 native minds such deaths are, as a rule, due to
-sorcery. [16](bal09.htm#xref_16) The female spirits go the same three
+sorcery. [16](bal09.htm#xref_16.md) The female spirits go the same three
 ways as the male. They are shown the way by Topileta's wife, called
 Bomiamuia. So much about the various classes of death.
 
@@ -166,18 +166,18 @@ himself the most important being in Tuma . . . is so obviously regarded
 as different from all dead chiefs that he cannot, in the ordinary sense,
 be said to rule over the dead; indeed, it was difficult to discover that
 Topileta exerted any authority in the other
-world." [17](bal09.htm#xref_17)
+world." [17](bal09.htm#xref_17.md)
 
 In fact, Topileta. is an intrinsic accessory of Tuma, but, beyond his
 initial meeting with all spirits, he does not in any way interfere with
 their doings. Chiefs do, indeed, retain their rank, though whether they
 exercise any authority was not clear to my
-informants. [18](bal09.htm#xref_18) Topileta is, moreover, the real
+informants. [18](bal09.htm#xref_18.md) Topileta is, moreover, the real
 owner or master of the spiritland on Tuma and of the
 
 <span id="page_159">p. 159</span>
 
-villages. [19](bal09.htm#xref_19) There are three villages in the nether
+villages. [19](bal09.htm#xref_19.md) There are three villages in the nether
 world--Tuma proper, Wabuaima, and Walisiga. Topileta is the *tolivalu*
 (master of village) of all three, but whether this is a mere title or
 whether he has anything to say in important matters was not known to any
@@ -209,7 +209,7 @@ living women in Kiriwina. The stranger's grief is very soon overcome,
 and he accepts the offering called *nabuoda'u*--a basket filled with
 *bu'a* (betel nut), *mo'i* (betel pepper), and scented herbs. This is
 offered to him with the words "*Kam paku*," and if accepted, the two
-belong to each other. [20](bal09.htm#xref_20) A man may wait for his
+belong to each other. [20](bal09.htm#xref_20.md) A man may wait for his
 
 <span id="page_160">p. 160</span>
 
@@ -219,10 +219,10 @@ entirely on the Tuma belles, who use such potent magic that not even the
 strongest. fidelity can possibly resist it.
 
 The spirit, in any case, settles down to a happy existence in Tuma,
-where he spends another lifetime, [21](bal09.htm#xref_21) until he dies
+where he spends another lifetime, [21](bal09.htm#xref_21.md) until he dies
 again. But this new death is again not complete annihilation, as we
 shall see hereafter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](bal03)
+[Next: Chapter III](bal03.md)

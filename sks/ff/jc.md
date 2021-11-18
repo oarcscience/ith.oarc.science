@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../jc/jc) 
-[Previous](toa)  [Next](mac) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../jc/jc.md) 
+[Previous](toa)  [Next](mac.md) 
 
 ------------------------------------------------------------------------
 
@@ -3530,4 +3530,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Tragedie of Macbeth](mac) 
+[Next: The Tragedie of Macbeth](mac.md) 

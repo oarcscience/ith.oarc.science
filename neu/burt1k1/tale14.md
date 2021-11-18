@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale13)  [Next](tale15) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale13)  [Next](tale15.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ abundant fortune, and a marvelous coincidence occurred.
 
   And a story is also current of  
 
-(*Next*) [THE EBONY HORSE](tale15)  
+(*Next*) [THE EBONY HORSE](tale15.md)  

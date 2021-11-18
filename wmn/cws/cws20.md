@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws19)  [Next](cws21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws19)  [Next](cws21.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XVI
 
-#### CONCERNING THE DEVIL AND DEVILS <span id="fr_83"></span>[1](#fn_83)
+#### CONCERNING THE DEVIL AND DEVILS <span id="fr_83"></span>[1](#fn_83.md)
 
 BEING unable to reconcile the statement that there is no personal Devil,
 but that what is called the Devil is simply the negation of God, with
@@ -41,8 +41,8 @@ attract them are due to men themselves.
 
 ### Footnotes
 
-<span id="fn_83"></span>[46:1](cws20.htm#fr_83) Paris, October 26, 1877.
+<span id="fn_83"></span>[46:1](cws20.htm#fr_83.md) Paris, October 26, 1877.
 
 ------------------------------------------------------------------------
 
-[Next: No. XVII: Concerning The Gods](cws21)
+[Next: No. XVII: Concerning The Gods](cws21.md)

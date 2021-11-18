@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](kymf02)  [Next](kymf04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](kymf02)  [Next](kymf04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -312,4 +312,4 @@ most desirable circumstances.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three. Nerve Fuel](kymf04)
+[Next: Chapter Three. Nerve Fuel](kymf04.md)

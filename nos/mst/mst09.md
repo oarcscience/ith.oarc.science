@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst08)  [Next](mst10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst08)  [Next](mst10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="img_16700"></span> <span align="CENTER"> [![&lt;i&gt;King
 René, the minstrel-monarch of Provence&lt;/i&gt;.](tn/16700.jpg)  
-Click to enlarge](img/16700.jpg)  
+Click to enlarge](img/16700.jpg.md)  
 *King René, the minstrel-monarch of Provence*.  
 </span>
 
@@ -104,7 +104,7 @@ of the bishops and cardinals who know you well?"
 Some were encouraging. But I must feel more sure."
 
 "I do not seek to probe unduly," Chavigny said, "but back of your
-hesitation I seem to sense some other, [unspoken](errata.htm#7) reason
+hesitation I seem to sense some other, [unspoken](errata.htm#7.md) reason
 which is influencing you."
 
 <span id="page_170">p. 170</span>
@@ -888,4 +888,4 @@ wondering world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eight: On to Paris](mst10)
+[Next: Chapter Eight: On to Paris](mst10.md)

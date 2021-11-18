@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Legendary Creatures](../../lcr/index)  [Index](index) 
-[Previous](ddl03)  [Next](ddl05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Legendary Creatures](../../lcr/index)  [Index](index.md) 
+[Previous](ddl03)  [Next](ddl05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPL5U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPL5U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dragons and Dragon Lore*, by Ernest Ingersoll, \[1928\], at Intangible
 Textual Heritage
 
@@ -403,4 +403,4 @@ Up starts the warrior knight.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three: Indian Nagas and Draconic Prototypes](ddl05)
+[Next: Chapter Three: Indian Nagas and Draconic Prototypes](ddl05.md)

@@ -1,6 +1,6 @@
 <span class="small"></span>
 
-[Sacred Texts Index](../../index)  [Northern European Index](../index) 
+[Sacred Texts Index](../../index)  [Northern European Index](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,14 +20,14 @@
 
 ------------------------------------------------------------------------
 
-[Heimskringla Introduction](01intro) [The Ynglinga Saga](02ynglga)
-[Halfdan the Black Saga](03halfdn) [Harald Harfager's Saga](04harfgr)
-[Hakon the Good's Saga](05hakon) [Saga of King Harald Grafeld and of
-Earl Hakon Son of Sigurd](06grafld) [King Olaf Trygvason's
-Saga](07olaftr) [Saga of Olaf Haraldson](08stolaf) [Saga of Magnus the
-Good](09magnus) [Saga of Harald Hardrade](10harald) [Saga of Olaf
-Kyrre](11olfkyr) [Magnus Barefoot's Saga](12magbar) [Saga of Sigurd the
-Crusader and His Brothers Eystein And Olaf](13sigurd) [Saga of Magnus
-the Blind and of Harald Gille](14magbnd) [Saga of Sigurd, Inge, And
-Eystein, the Sons of Harald](15siging) [Saga of Hakon Herdebreid (Hakon
-the Broad-Shouldered)](16hakbrd) [Magnus Erlingson's Saga](17magerl)
+[Heimskringla Introduction](01intro) [The Ynglinga Saga](02ynglga.md)
+[Halfdan the Black Saga](03halfdn) [Harald Harfager's Saga](04harfgr.md)
+[Hakon the Good's Saga](05hakon.md) [Saga of King Harald Grafeld and of
+Earl Hakon Son of Sigurd](06grafld.md) [King Olaf Trygvason's
+Saga](07olaftr) [Saga of Olaf Haraldson](08stolaf.md) [Saga of Magnus the
+Good](09magnus) [Saga of Harald Hardrade](10harald.md) [Saga of Olaf
+Kyrre](11olfkyr) [Magnus Barefoot's Saga](12magbar.md) [Saga of Sigurd the
+Crusader and His Brothers Eystein And Olaf](13sigurd.md) [Saga of Magnus
+the Blind and of Harald Gille](14magbnd.md) [Saga of Sigurd, Inge, And
+Eystein, the Sons of Harald](15siging.md) [Saga of Hakon Herdebreid (Hakon
+the Broad-Shouldered)](16hakbrd) [Magnus Erlingson's Saga](17magerl.md)

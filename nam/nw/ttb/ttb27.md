@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb26)  [Next](ttb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb26)  [Next](ttb28.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_40">p. 40</span>
 
-<span id="img_04000"></span> ![Kwel-Kwel, The Owl](img/04000.jpg)
+<span id="img_04000"></span> ![Kwel-Kwel, The Owl](img/04000.jpg.md)
 
 ### Kwel-Kwel, THE OWL
 
@@ -52,4 +52,4 @@ This would mean that the Indian would shortly die.
 
 ------------------------------------------------------------------------
 
-[Next: Skam-m, The Halibut](ttb28)
+[Next: Skam-m, The Halibut](ttb28.md)

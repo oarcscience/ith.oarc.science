@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby19)  [Next](sby21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby19)  [Next](sby21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ led them to accept the phenomena without critical examination. But the
 inductive study of their respective writings tends to show that this is
 due to their method of procedure rather than to anything else. They have
 employed the philosophical and not the historical method. <span
-id="fr_93"></span>[23](#fn_92) I do not mean to deny the value of such a
+id="fr_93"></span>[23](#fn_92.md) I do not mean to deny the value of such a
 course of investigation in questions pertaining to
 
 <span id="page_105">p. 105</span>
@@ -77,7 +77,7 @@ father, as an attendant upon his person. Many of the ignorant ones
 rallied around Yezid, and he became the nucleus of the sect that
 appropriated his name. The Yezidis possess a genealogical tree by means
 of which they trace their religious origin back to him." <span
-id="fr_94"></span>[24](#fn_93)
+id="fr_94"></span>[24](#fn_93.md)
 
 Now, the ground for this assertion, the writer does not give; he is
 entirely silent as to the source of his
@@ -92,21 +92,21 @@ with their father Abu Sofian, to Mohammed to receive presents from the
 Prophet. But the Arab historians tell us that not only Abu Sofian and
 each of his two sons received a hundred camels but that they were each
 presented with forty ounces of silver. <span
-id="fr_95"></span>[25](#fn_94)
+id="fr_95"></span>[25](#fn_94.md)
 
 Then, too, many scholars deny that the name Yezidis is the original
 appellation. Some assert it was put upon them by the Mohammedans as a
-term of reproach. <span id="fr_96"></span>[26](#fn_95) Others maintain
+term of reproach. <span id="fr_96"></span>[26](#fn_95.md) Others maintain
 that the sect adopted the name Yezid, son of Mu‘awiya to secure
 toleration at the hands of the Mohammedans. <span
-id="fr_97"></span>[27](#fn_96) But the scholar quoted may entertain the
+id="fr_97"></span>[27](#fn_96.md) But the scholar quoted may entertain the
 view of those who say that the Yezidis are really the followers of Ibn
 Mu‘awiya; but that they deny it for fear of persecution on the part of
 Shiites. These latter hate Yezid, because he murdered ‘Ali's son,
 Husein, who is regarded by them as their true Imam. This inference is
 founded on the theory that the Mohammedans of Persia consider the people
 in question as descendants of the Calif whose name is odious to
-them. <span id="fr_98"></span>[28](#fn_97) But it is not certain that
+them. <span id="fr_98"></span>[28](#fn_97.md) But it is not certain that
 the followers of ‘Ali entertain such a view regarding the origin of the
 Yezidis. And, if they do, they have no historical facts to justify them
 in their opinion. Their hatred of the sect can be better explained on
@@ -115,8 +115,8 @@ in their opinion. Their hatred of the sect can be better explained on
 
 the basis of the relation of the devil-worshippers to Yezîd bn Unaisa.
 For he was one of those who most bitterly hated ‘Ali; see pp.
-[121](sby21.htm#page_121), [122](sby21.htm#page_122),
-[128](sby21.htm#page_128) of this book.
+[121](sby21.htm#page_121), [122](sby21.htm#page_122.md),
+[128](sby21.htm#page_128.md) of this book.
 
 Furthermore, the theory of this school is neutralized by the fact that
 none of the Arab historians mentions the son of the first Calif in the
@@ -136,11 +136,11 @@ God, or good spirit, over against Ahriman, the evil principle. Hence,
 the name Yezid, according to them, indicates the people that believe in
 this good god. To the objection that the Yezidis worship the evil
 spirit, answer is made that Yezid Ferfer is the name of the attendant of
-the evil spirit among the Parsees. <span id="fr_99"></span>[29](#fn_98)
+the evil spirit among the Parsees. <span id="fr_99"></span>[29](#fn_98.md)
 Others believe that the word "Yezid" signifies God. It indicates in the
 plural the observers of superstitious doctrines as may be seen by the
 idol Yezid, which the Bishop of Nagham overthrew. <span
-id="fr_100"></span>[30](#fn_99) Still others say that
+id="fr_100"></span>[30](#fn_99.md) Still others say that
 
 <span id="page_108">p. 108</span>
 
@@ -150,7 +150,7 @@ theory, it is claimed that in reality the Yezidis worship God and not
 the devil. It is thought by many, too, that the Yezidis derive their
 name from Yazd, or Yezid, a name of a town in Central Persia, of which
 the Parsees form the principal part of the inhabitants. <span
-id="fr_101"></span>[31](#fn_100)
+id="fr_101"></span>[31](#fn_100.md)
 
 The other wing of the second school attempts to trace the origin of the
 devil-worshippers to a Persian source on the basis of certain
@@ -182,7 +182,7 @@ that the Yezidis "believe in a father primeval, that lived before Adam,
 and did not fall into sin." And this information leads him to think that
 such a notion helps "the Zoroastrian student to recognize at once a
 far-off reminiscence of Avestan Gaya-Mashai, the Iranian Adam and
-Eve." <span id="fr_102"></span>[31a](#fn_101)
+Eve." <span id="fr_102"></span>[31a](#fn_101.md)
 
 One noticeable thing in favor of the two schools is that their method is
 strictly scientific, in the modern sense of the term. It is a posteriori
@@ -193,7 +193,7 @@ cannot give us exact knowledge because its experiments do not cover all
 the instances in a given case. There can be only a partial verification.
 There will always remain some phenomena that cannot be brought within
 the sphere of a particular observation. <span
-id="fr_103"></span>[32](#fn_102) Now, this is exactly the case in the
+id="fr_103"></span>[32](#fn_102.md) Now, this is exactly the case in the
 subject under consideration. Only in some phases does the Yezidi
 religion resemble that of the old Persians. There are other beliefs
 which do not come under this category, and which seem to bear
@@ -201,12 +201,12 @@ which do not come under this category, and which seem to bear
 <span id="page_110">p. 110</span>
 
 the traces of some other religions. What are we to do with these? <span
-id="fr_104"></span>[33](#fn_103) The advocates of the theory in question
+id="fr_104"></span>[33](#fn_103.md) The advocates of the theory in question
 admit that such is the case, but they assert that "the resemblances of
 the Yezidi religion to Christianity and Islam are accidental"; that
 "owing to the residence of the Yezidis among the Mohammedans, the sect
 naturally has much in common with Islam." <span
-id="fr_105"></span>[34](#fn_104) But why are the resemblances to Iranism
+id="fr_105"></span>[34](#fn_104.md) But why are the resemblances to Iranism
 not to be accounted for in the same way as those to other religions? Why
 may not equally strong inference be made from the likeness to
 Christianity? And what is the basis of such a discrimination? On these
@@ -218,7 +218,7 @@ There is still another school among the western orientalists. I refer to
 those who maintain that the Yezidi sect was founded by Šeiḫ ‘Adî. A
 modern writer who holds this theory, after critically reviewing the
 views held by the different scholars, proceeds to advance his own idea.
-To [emphasize](errata.htm#10) it, and leave no room for further
+To [emphasize](errata.htm#10.md) it, and leave no room for further
 criticism, he claims that the theory has been "generally" accepted. To
 quote:
 
@@ -226,7 +226,7 @@ quote:
 Šeiḫ ‘Adî. He is a historical personage, but it is exceedingly
 difficult, and almost impossible, to establish any historical facts out
 of the mist of very fantastic stories current about him." <span
-id="fr_106"></span>[35](#fn_105)
+id="fr_106"></span>[35](#fn_105.md)
 
 He supports his notion by an appeal to an Arab
 
@@ -234,7 +234,7 @@ He supports his notion by an appeal to an Arab
 
 author, Kasi Ahmad ibn-Ḫallikan, from whom, according to this writer, an
 extract relating to Šeiḫ ‘Adî was published by one who for years was a
-resident of the city of Mosul. <span id="fr_107"></span>[36](#fn_106)
+resident of the city of Mosul. <span id="fr_107"></span>[36](#fn_106.md)
 This statement that Ibn Ḫallikan gives the biography of ‘Adî is a fact
 that cannot be questioned; but that ‘Adî founded the Yezidi sect is a
 theory that is by no means "generally agreed upon." Nor can it be
@@ -277,7 +277,7 @@ city. Muzaffar Ad-Din, the sovereign of Arbela, said that when a boy he
 saw the Šeiḫ ‘Adî at Mosul. According to him, he was a man of medium
 size and tawny complexion; he related also many circumstances indicative
 of his great sanctity. The Šeiḫ died at the age of ninety years." <span
-id="fr_108"></span>[37](#fn_107)
+id="fr_108"></span>[37](#fn_107.md)
 
 2 What Mohammed-Amin-Al-‘Omari has to say on Šeiḫ ‘Adî:
 
@@ -291,7 +291,7 @@ bn Masafir
 <span id="page_113">p. 113</span>
 
 bn Isma‘il bn Mousa bn Marwan bn al Ḥasan bn Marwan bn Mohammed bn
-Marwan bn al Ḥakam, who died in the [year](errata.htm#11) 558. His
+Marwan bn al Ḥakam, who died in the [year](errata.htm#11.md) 558. His
 grave, which is well known, is the object of pious pilgrimages."
 
 "God tried him by a calamity, to wit, the appearance of a sect of
@@ -312,7 +312,7 @@ III The visit which they pay to the tomb of Šeiḫ ‘Adî is for them a
 pilgrimage which the devotees accomplished no matter how far distant,
 the country is that they inhabit, and without being concerned about the
 expenses that the journey carries with it." <span
-id="fr_109"></span>[38](#fn_108)
+id="fr_109"></span>[38](#fn_108.md)
 
 3\. What Yasin Al-Hatib-al-Omari Al-Mausili has to say on Šeiḫ ‘Adî:
 
@@ -341,11 +341,11 @@ games and debauchery."
 Nestorians are far from having the same opinion of the Šeiḫ ‘Adî as have
 the Moslems or the Yezidis. The following passage which one reads in a
 Chaldean manuscript entitled 'Awarda' <span
-id="fr_110"></span>[39](#fn_109) and which I saw some time ago in the
-Church of Karmalis, <span id="fr_111"></span>[40](#fn_110) proves this
+id="fr_110"></span>[39](#fn_109.md) and which I saw some time ago in the
+Church of Karmalis, <span id="fr_111"></span>[40](#fn_110.md) proves this
 sufficiently. This is the translation of the passage which I have
 extracted from a song composed by a bishop of Arbil, in honor of Rabban
-Hormuzd <span id="fr_112"></span>[41](#fn_111) and other saints, and in
+Hormuzd <span id="fr_112"></span>[41](#fn_111.md) and other saints, and in
 which the author makes mention of ‘Adî in these terms:
 
 "'Great misfortunes have followed, failing upon us; a formidable enemy
@@ -360,7 +360,7 @@ things that are illicit (to have a strange worship). An innumerable
 multitude of Mussulmen have attached themselves to him and have vowed to
 him a blind submission. The renown of his name, which is Šeiḫ ‘Adî, has
 spread down to our days in all the cities of all the countries.'" <span
-id="fr_113"></span>[42](#fn_112)
+id="fr_113"></span>[42](#fn_112.md)
 
 These are the accounts which we have of Šeiḫ ‘Adî in his relation to the
 Yezidis, and they deserve our special attention. For not only are the
@@ -400,7 +400,7 @@ calamity to the šeiḫ because they deified him and worshipped at his
 tomb. Their remarks tend to show that the Yezidi sect were known as such
 before the time of ‘Adî; that their appellation was based on the
 pretension that they were descendants of Yesid; that they were apostates
-from Islam; that they were some of those who [were](errata.htm#12)
+from Islam; that they were some of those who [were](errata.htm#12.md)
 attached to ‘Adî by reason of his wide reputation as a saint, and were
 led by their ignorance to take him for a god; and that they were
 worshippers of the sun and the devil. It is inconceivable to us, if we
@@ -435,67 +435,67 @@ led to class as deities.
 
 ### Footnotes
 
-<span id="fn_92"></span>[104:23](sby20.htm#fr_93) I mean by the
+<span id="fn_92"></span>[104:23](sby20.htm#fr_93.md) I mean by the
 philosophical method the attempt to prove certain assumption by
 theorizing,, and by the historical method the endeavor to verify a
 theory by obtaining data from historical sources. The former method is
 based on speculation; the latter on historical inquiry.
 
-<span id="fn_93"></span>[105:24](sby20.htm#fr_94) The Enc. of Mission,
+<span id="fn_93"></span>[105:24](sby20.htm#fr_94.md) The Enc. of Mission,
 p. 797. In his letter to me of date August 6, 1907, the Rev. A. N.
 Andrus, of Mardin, says: "The Yezidis may be related in religious cult
 with the Guebres of India."
 
-<span id="fn_94"></span>[106:25](sby20.htm#fr_95) Muir: *Life of
+<span id="fn_94"></span>[106:25](sby20.htm#fr_95.md) Muir: *Life of
 Mohammed*, vol. IV, p. 151.
 
-<span id="fn_95"></span>[106:26](sby20.htm#fr_96) Fraser: ibid, p. 205.
+<span id="fn_95"></span>[106:26](sby20.htm#fr_96.md) Fraser: ibid, p. 205.
 
-<span id="fn_96"></span>[106:27](sby20.htm#fr_97) Badger, ibid, p. 129.
+<span id="fn_96"></span>[106:27](sby20.htm#fr_97.md) Badger, ibid, p. 129.
 
-<span id="fn_97"></span>[106:28](sby20.htm#fr_98) S. G. M., vol. 14.
+<span id="fn_97"></span>[106:28](sby20.htm#fr_98.md) S. G. M., vol. 14.
 
-<span id="fn_98"></span>[107:29](sby20.htm#fr_99) Eugene Bore: *Dict.
+<span id="fn_98"></span>[107:29](sby20.htm#fr_99.md) Eugene Bore: *Dict.
 des Religions*, T. IV, *Art. Yezidis*, Southgate, ibid, p. 317.
 
-<span id="fn_99"></span>[107:30](sby20.htm#fr_100) Fraser, ibid, p. 289.
+<span id="fn_99"></span>[107:30](sby20.htm#fr_100.md) Fraser, ibid, p. 289.
 
-<span id="fn_100"></span>[108:31](sby20.htm#fr_101) Jackson: *Persia,
+<span id="fn_100"></span>[108:31](sby20.htm#fr_101.md) Jackson: *Persia,
 Past and Present*, p. 10: J. A. O. S., 25, p. 178, New Int. Enc.
 "Yezidis."
 
-<span id="fn_101"></span>[109:31a](sby20.htm#fr_102) Jackson: *Persia,
+<span id="fn_101"></span>[109:31a](sby20.htm#fr_102.md) Jackson: *Persia,
 Past and Present*, p. 10: J. A. O. S., 25, p. 178, New Int. Enc.
 "Yezidis."
 
-<span id="fn_102"></span>[109:32](sby20.htm#fr_103) H. Poincaré:
+<span id="fn_102"></span>[109:32](sby20.htm#fr_103.md) H. Poincaré:
 *Science and Hypothesis*. Trans. G. B. Halsted, p. 5 seq.
 
-<span id="fn_103"></span>[110:33](sby20.htm#fr_104) The fact that the
+<span id="fn_103"></span>[110:33](sby20.htm#fr_104.md) The fact that the
 importance of the method of comparative religion has been generally
 recognized in the scientific world has led to the danger of rushing into
 the other extreme of paying attention exclusively to points of
 similarity and resemblance, and of entirely disregarding, or at any rate
 thrusting into the background as unimportant that which is dissimilar.
 
-<span id="fn_104"></span>[110:34](sby20.htm#fr_105) Southgate, ibid, p.
+<span id="fn_104"></span>[110:34](sby20.htm#fr_105.md) Southgate, ibid, p.
 317; Jackson, J. A. O. S., Vol. XXV, p. 171.
 
-<span id="fn_105"></span>[110:35](sby20.htm#fr_106) <span
+<span id="fn_105"></span>[110:35](sby20.htm#fr_106.md) <span
 id="page_140">p. 140</span> Victor Dingelstedt, S. G. M., vol. XIV, p.
 295.
 
-<span id="fn_106"></span>[111:36](sby20.htm#fr_107) Siouffi, who was for
+<span id="fn_106"></span>[111:36](sby20.htm#fr_107.md) Siouffi, who was for
 about twenty years a French vice-consul in Mosul.
 
-<span id="fn_107"></span>[112:37](sby20.htm#fr_108) Ibn Ḫallikan, vol.
+<span id="fn_107"></span>[112:37](sby20.htm#fr_108.md) Ibn Ḫallikan, vol.
 I, p. 316.
 
-<span id="fn_108"></span>[113:38](sby20.htm#fr_109) Manhal Al-Uliya wa
+<span id="fn_108"></span>[113:38](sby20.htm#fr_109.md) Manhal Al-Uliya wa
 Mašrab-ul-Aṣfia, "Šeiḫ ‘Adî," quoted by M. N. Siouffi, Journal
 Asiatique, 1885, p. 80.
 
-<span id="fn_109"></span>[114:39](sby20.htm#fr_110) Warda, "the rose,"
+<span id="fn_109"></span>[114:39](sby20.htm#fr_110.md) Warda, "the rose,"
 is the name of a collection of hymns composed by George Warda (1224 A.
 D.), Bishop of Arbila; cf. Bar Hebraeus, Chron. Eccl., Vol. II, p. 402.
 Warda is one of the most conspicuous writers of hymns in the thirteenth
@@ -509,15 +509,15 @@ II, pp. 51-57. Warda's poems have been edited by Heinrich Hilgenfeld,
 *Ausgewählte Gesänge des Giworgis Warda von Arbil*, Leipzig, 1904, and
 by Manna, Mosul, 1901.
 
-<span id="fn_110"></span>[114:40](sby20.htm#fr_111) The village Karmalis
+<span id="fn_110"></span>[114:40](sby20.htm#fr_111.md) The village Karmalis
 is about twelve miles distant from Mosul, and is inhabited by Chaldeans,
 that is, Romanized Nestorians.
 
-<span id="fn_111"></span>[114:41](sby20.htm#fr_112) Rabban Hormusd is a
+<span id="fn_111"></span>[114:41](sby20.htm#fr_112.md) Rabban Hormusd is a
 Chaldean monastery at Alkoš, a village about twenty miles north of
 Mosul.
 
-<span id="fn_112"></span>[115:42](sby20.htm#fr_113) Al-Der-Al-Makn‘un
+<span id="fn_112"></span>[115:42](sby20.htm#fr_113.md) Al-Der-Al-Makn‘un
 fi-l-Miater Al-Maḍiyat min Al-Ḳerun, "Šeiḫ ‘Adî," quoted by M. 14.
 Siouffi, *Journal Asiatique*, 1885, p. 81.
 
@@ -531,4 +531,4 @@ Library; cf. Clement Huart, *History of Arabic Literature*, p. 273.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Dogmatic View of Mohammedan Scholars](sby21)
+[Next: IV. The Dogmatic View of Mohammedan Scholars](sby21.md)

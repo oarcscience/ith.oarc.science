@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft26)  [Next](eft28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft26)  [Next](eft28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -47,13 +47,13 @@ after him.
 star. We can see it now, in the west, when the lights begin to return
 after the great darkness. But it is low down, and never climbs high in
 the sky. And we call it Nâlaussartoq: he who stands and listens.<span
-id="page_82_fr_*"></span>[\*](#page_82_note_*)
+id="page_82_fr_*"></span>[\*](#page_82_note_*.md)
 
 ### Footnotes
 
 <span id="footnotes_page_82">p. 82</span>
 
-<span id="page_82_note_*"></span>[\*](#page_82_fr_*) The star is that
+<span id="page_82_note_*"></span>[\*](#page_82_fr_*.md) The star is that
 which we know as Venus. "Listening": perhaps as the old man had stood
 listening for the breathing of the seal.
 
@@ -89,4 +89,4 @@ listening for the breathing of the seal.
 
 ------------------------------------------------------------------------
 
-[Next: THE WOMAN WITH THE IRON TAIL](eft28)
+[Next: THE WOMAN WITH THE IRON TAIL](eft28.md)

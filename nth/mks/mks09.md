@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](mks08)  [Next](mks10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](mks08)  [Next](mks10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master Key System*, by Charles F. Haanel, \[1919\], at Intangible
 Textual Heritage
 
@@ -434,4 +434,4 @@ Thou canst not then be false to any man."
 
 ------------------------------------------------------------------------
 
-[Next: Part Seven](mks10)
+[Next: Part Seven](mks10.md)

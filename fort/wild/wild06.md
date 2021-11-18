@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[ESP](../../psi/index)  [Index](index)  [Previous](wild05) 
-[Next](wild07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[ESP](../../psi/index)  [Index](index)  [Previous](wild05.md) 
+[Next](wild07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Wild Talents*, by Charles Fort, \[1933\], at Intangible Textual
 Heritage
 
@@ -266,7 +266,7 @@ Panic in Nanking and other towns, and its spread to Shanghai—
 <span id="page_876">p. 876</span>
 
 people believed that invisibles were cutting off their pigtails. It was
-said that, regard this [story](errata.htm#0) of the invisibles as one
+said that, regard this [story](errata.htm#0.md) of the invisibles as one
 would, there was no doubt that a number of pigtails had been cut off,
 and that great alarm existed, in consequence. "Many Chinamen have lost
 their tails, and we can hardly admit that the imaginary spirits are real
@@ -308,10 +308,10 @@ year 1929, having seen a janitor knocking
 <span id="page_877">p. 877</span>
 
 off dust from the cover of an ash can. There was
-[probably](errata.htm#1) considerable excitement that was the product of
+[probably](errata.htm#1.md) considerable excitement that was the product of
 delusions: nevertheless it does seem acceptable that there were cases of
 mysterious hair-clipping.
 
 ------------------------------------------------------------------------
 
-[Next: 7](wild07)
+[Next: 7](wild07.md)

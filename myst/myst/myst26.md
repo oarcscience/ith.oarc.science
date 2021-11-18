@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst25)  [Next](myst27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst25)  [Next](myst27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -2396,6 +2396,6 @@ id="an_viii-p1055.1"></span>Vaughan , H. (Silurist), 255, 347, 409, 470
 
 ------------------------------------------------------------------------
 
-[Next: Index of Scripture References](myst27)
+[Next: Index of Scripture References](myst27.md)
 
 </div>

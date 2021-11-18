@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gvp04)  [Next](gvp06) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gvp04)  [Next](gvp06.md) 
 
 ------------------------------------------------------------------------
 
@@ -258,4 +258,4 @@ departed.
 
 ------------------------------------------------------------------------
 
-[Next: The Pythagorean Sentences of Demophilus](gvp06)
+[Next: The Pythagorean Sentences of Demophilus](gvp06.md)

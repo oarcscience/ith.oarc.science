@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod00)  [Next](ebod02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod00)  [Next](ebod02.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ January 25, 1895.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ebod02)
+[Next: Contents](ebod02.md)

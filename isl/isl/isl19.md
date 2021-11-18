@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl18)  [Next](isl20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl18)  [Next](isl20.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ is no need to take account of Ḍirār ibn ‘Amr, who stood alone when he
 declared all men eligible. The Prophet said, "The Quraysh have
 precedence, so do not go before them," and there is no pretext for any
 disagreement, given this clear statement delivered to us, and no word
-that one can raise against it. <span id="fr_64"></span>[16](#fn_64)
+that one can raise against it. <span id="fr_64"></span>[16](#fn_64.md)
 
  
 
@@ -155,18 +155,18 @@ numerous (claimants to the position) or when, in view of the distances
 (separating different regions) and in disregard of the conditions
 governing the institution, people were forced to render the oath of
 allegiance to anybody who seized power. <span
-id="fr_65"></span>[17](#fn_65)
+id="fr_65"></span>[17](#fn_65.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_64"></span>[125:16](isl19.htm#fr_64) Al-Māwardī. *Al-Ahkām
+<span id="fn_64"></span>[125:16](isl19.htm#fr_64.md) Al-Māwardī. *Al-Ahkām
 al-Sultānīya* (Cairo, 1909), pp. 3, 4.
 
-<span id="fn_65"></span>[125:17](isl19.htm#fr_65) <span id="page_246">p.
+<span id="fn_65"></span>[125:17](isl19.htm#fr_65.md) <span id="page_246">p.
 246</span> Ibn Khaldūn, *The Muqaddima*, Vol. I, pp. 387, 388.
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Bidding Unto Good (Al-amr bi al-Ma‘ruf)](isl20)
+[Next: 4. The Bidding Unto Good (Al-amr bi al-Ma‘ruf)](isl20.md)

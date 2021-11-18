@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma06)  [Next](fmma08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma06)  [Next](fmma08.md) 
 
 ------------------------------------------------------------------------
 
@@ -271,4 +271,4 @@ dominions.
 
 ------------------------------------------------------------------------
 
-[Next: Theodoric The Ostrogoth. King From 475-526 A.D.](fmma08)
+[Next: Theodoric The Ostrogoth. King From 475-526 A.D.](fmma08.md)

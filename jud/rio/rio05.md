@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rio04)  [Next](rio06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rio04)  [Next](rio06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Krauskopf, \[1901\], at Intangible Textual Heritage
 
 <span id="page_58">p. 58</span>
 
-<span id="img_bord00"></span> ![decorative border](img/bord00.jpg)
+<span id="img_bord00"></span> ![decorative border](img/bord00.jpg.md)
 
 ### III
 
@@ -25,7 +25,7 @@ Krauskopf, \[1901\], at Intangible Textual Heritage
 ### (Continued)
 
 "Why should brother deal treacherously against his brother?"—[*Malachi*
-ii, 10.](../../bib/kjv/mal002.htm#010)
+ii, 10.](../../bib/kjv/mal002.htm#010.md)
 
 "Think not that I am come to destroy the law or the prophets: I am not
 come to destroy, but to fulfil. For verily I say unto you: till heaven
@@ -35,7 +35,7 @@ break one of these least commandments, and shall teach men so, shall be
 called least in the kingdom of heaven; but whosoever shall do and teach
 them, he shall be called great in the kingdom of heaven." *Words of
 Jesus in the Sermon on the Mount*.—[St. Matthew v,
-17-20](../../bib/kjv/mat005.htm#017).
+17-20](../../bib/kjv/mat005.htm#017.md).
 
 ONE of the most celebrated of early Church legends is that which tells
 of <span class="margnote">Credulity above reason in former
@@ -717,4 +717,4 @@ done to the Jew?
 
 ------------------------------------------------------------------------
 
-[Next: IV. In the Afternoon](rio06)
+[Next: IV. In the Afternoon](rio06.md)

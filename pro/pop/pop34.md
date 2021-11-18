@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop33)  [Next](pop35) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop33)  [Next](pop35.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ XXXXIII.'
 
 ------------------------------------------------------------------------
 
-[Next: The Thirtieth Figure](pop35)
+[Next: The Thirtieth Figure](pop35.md)

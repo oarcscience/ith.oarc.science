@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi05)  [Next](hpi07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi05)  [Next](hpi07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -37,9 +37,9 @@ Babylonia,--under what influences and to what extent we do not precisely
 know,--that men rose to a more scientific consideration of the world.
 Their eyes were turned from the confusion of earthly existence to the
 order of the heavens. They were not like the Hebrews, who never got
-beyond the wondering stage <span id="fr_4"></span>[1](#fn_4), or who saw
+beyond the wondering stage <span id="fr_4"></span>[1](#fn_4.md), or who saw
 merely an emblem of their own posterity in the countless stars <span
-id="fr_5"></span>[2](#fn_5); they resembled rather the Greeks who came
+id="fr_5"></span>[2](#fn_5.md); they resembled rather the Greeks who came
 to understand the Many and the Manifold in their sublunary forms, only
 after they had discovered the harmony of the All in the unity and
 steadiness of the movement of the heavens. The only drawback was that
@@ -71,7 +71,7 @@ influence wielded by that system which, according to tradition, came to
 be even publicly recognized, under the Sasanid Yezdegerd II (438/9-457),
 viz. Zrwanism (Cf. III, 1, § 6). In this system the dualistic view of
 the world was superseded by setting up endless Time, (*zrwan*, Arab.
-*dahr*) as the paramount principle, and [identifying](errata.htm#0) it
+*dahr*) as the paramount principle, and [identifying](errata.htm#0.md) it
 with Fate, the outermost heavenly sphere or the movement of the heavens.
 This doctrine, pleasing to philosophic intellects, has secured, with or
 without the guise of Islam, a prominent place for itself in Persian
@@ -154,10 +154,10 @@ Greek influences have been at work.
 
 ### Footnotes
 
-<span id="fn_4"></span>[7:1](hpi06.htm#fr_4) Job XXXVIII.
+<span id="fn_4"></span>[7:1](hpi06.htm#fr_4.md) Job XXXVIII.
 
-<span id="fn_5"></span>[7:2](hpi06.htm#fr_5) Gen. XV: 5.
+<span id="fn_5"></span>[7:2](hpi06.htm#fr_5.md) Gen. XV: 5.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Greek Science](hpi07)
+[Next: 3. Greek Science](hpi07.md)

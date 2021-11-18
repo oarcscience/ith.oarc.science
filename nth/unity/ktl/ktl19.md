@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](ktl18)  [Next](ktl20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](ktl18)  [Next](ktl20.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Keep a True Lent*, by Charles Fillmore, \[1953\], at Intangible Textual
 Heritage
 
@@ -535,4 +535,4 @@ his works.'"
 
 ------------------------------------------------------------------------
 
-[Next: The Garden of Eden](ktl20)
+[Next: The Garden of Eden](ktl20.md)

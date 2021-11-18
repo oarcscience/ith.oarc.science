@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc009) 
-[Next](motc011) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc009.md) 
+[Next](motc011.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ same nature as the stars and holds in itself the same bright light.
 
 ------------------------------------------------------------------------
 
-[Next: 11. The Milky Way](motc011)
+[Next: 11. The Milky Way](motc011.md)

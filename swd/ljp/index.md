@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte)
 
 #### \[1914\]
 
-[Start Reading](ljp00)
+[Start Reading](ljp00.md)
 
 ------------------------------------------------------------------------
 
@@ -26,12 +26,12 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte)
 |---------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
-[Title Page](ljp00)  
-[1-50](ljp01)  
-[51-100](ljp02)  
-[101-150](ljp03)  
-[151-200](ljp04)  
-[201-250](ljp05)  
-[251-300](ljp06)  
-[301-350](ljp07)  
-[351-400](ljp08)  
+[Title Page](ljp00.md)  
+[1-50](ljp01.md)  
+[51-100](ljp02.md)  
+[101-150](ljp03.md)  
+[151-200](ljp04.md)  
+[201-250](ljp05.md)  
+[251-300](ljp06.md)  
+[301-350](ljp07.md)  
+[351-400](ljp08.md)  

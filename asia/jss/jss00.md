@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Next](jss01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Next](jss01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -49,21 +49,21 @@ States because it was published prior to 1923.
 
 <span id="img_cover"></span> <span align="CENTER"> [![Front Cover and
 Spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover and Spine  
 </span>
 
 <span id="img_front"></span> <span align="CENTER"> [![JEREMIAH CURTIN
 GOING UP THE STEPS OF MARS HILL TO THE PLACE WHERE ST. PAUL ADDRESSED
 THE ATHENIANS. &lt;i&gt;Frontispiece&lt;/i&gt;](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 JEREMIAH CURTIN GOING UP THE STEPS OF MARS HILL TO THE PLACE WHERE ST.
 PAUL ADDRESSED THE ATHENIANS. *Frontispiece*  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
@@ -71,7 +71,7 @@ Title Page
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
@@ -100,4 +100,4 @@ SIR WILLIAM VAN HORNE
 
 ------------------------------------------------------------------------
 
-[Next: Prefatory Note](jss01)
+[Next: Prefatory Note](jss01.md)

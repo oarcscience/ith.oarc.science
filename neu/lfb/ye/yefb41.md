@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb40)  [Next](yefb42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb40)  [Next](yefb42.md) 
 
 </div>
 
@@ -63,6 +63,6 @@ is still to be seen if no one has stolen it.  Now this is a true story.
 
 ------------------------------------------------------------------------
 
-[Next: The Blue Mountains](yefb42)
+[Next: The Blue Mountains](yefb42.md)
 
 </div>

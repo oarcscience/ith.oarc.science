@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes31)  [Next](nes33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes31)  [Next](nes33.md) 
 
 ------------------------------------------------------------------------
 
@@ -1122,4 +1122,4 @@ to reach home
 
 ------------------------------------------------------------------------
 
-[Next: List of Works Quoted](nes33)
+[Next: List of Works Quoted](nes33.md)

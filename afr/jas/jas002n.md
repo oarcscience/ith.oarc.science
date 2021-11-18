@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas001n)  [Next](jas003n)   
- \[[2. Tiger as Substitute.](jas002)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas001n)  [Next](jas003n.md)   
+ \[[2. Tiger as Substitute.](jas002.md)\]
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ accomplished fiddler in numbers 4, 10b, 14, 15, 20, 40, 43, 44, 47 b,
 
 ------------------------------------------------------------------------
 
-[Next: Note 3. Tiger as Riding-Horse.](jas003n)
+[Next: Note 3. Tiger as Riding-Horse.](jas003n.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc00)  [Next](ipc02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc00)  [Next](ipc02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -327,4 +327,4 @@ CHAPTER XIX</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: List of Illustrations](ipc02)
+[Next: List of Illustrations](ipc02.md)

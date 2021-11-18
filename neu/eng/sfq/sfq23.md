@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq22)  [Next](sfq24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq22)  [Next](sfq24.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ ever.
 
 ------------------------------------------------------------------------
 
-[Next: Sir Guyon meets the Magician](sfq24)
+[Next: Sir Guyon meets the Magician](sfq24.md)

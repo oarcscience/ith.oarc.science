@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe066)  [Next](prwe068) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe066)  [Next](prwe068.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ Jabez Allie's "Worcestershire." Appendiz O, *Ambrosiae Petrae*.
 
 ------------------------------------------------------------------------
 
-[Next: Zennor Coits](prwe068)
+[Next: Zennor Coits](prwe068.md)

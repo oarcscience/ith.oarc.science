@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng00)  [Next](nblng02) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng00)  [Next](nblng02.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ Philadelphia, February 15, 1909.
 
 ------------------------------------------------------------------------
 
-[Next: Introductory Sketch](nblng02)
+[Next: Introductory Sketch](nblng02.md)

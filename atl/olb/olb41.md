@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb40)  [Next](olb42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb40)  [Next](olb42.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -13,10 +13,10 @@ Textual Heritage
 ### <span class="smallcaps">Now I will relate how the Geertman and many followers of Hellenia came back.</span>
 
 Two years after Gosa had become the mother (303 B.C.) <span
-id="fr_64"></span>[\*](#fn_64) there arrived a fleet at Flymeer. The
+id="fr_64"></span>[\*](#fn_64.md) there arrived a fleet at Flymeer. The
 people shouted "Ho-n-sêen" (What a blessing). They sailed to Staveren,
 where they shouted again. Their flags were hoisted, and at night they
-shot lighted arrows <span id="fr_65"></span>[†](#fn_65) into the air. At
+shot lighted arrows <span id="fr_65"></span>[†](#fn_65.md) into the air. At
 daylight some of them rowed into the harbour in a boat, shouting again,
 "Ho-n-sêen." When they landed a young fellow jumped upon the rampart. In
 his hand he held a shield on which bread and salt were laid. After him
@@ -43,9 +43,9 @@ admiral of Wichhirt, was my comrade, and afterwards my friend. Out of
 his diary I have taken the following history.
 
 After we had been settled 12 times 100 and twice 12 years <span
-id="fr_66"></span>[†](#fn_67) in the Five Waters (Punjab), whilst our
+id="fr_66"></span>[†](#fn_67) in the Five Waters (Punjab.md), whilst our
 naval warriors were navigating all the seas they could find, came
-Alexander <span id="fr_67"></span>[\*](#fn_66) the King, with a powerful
+Alexander <span id="fr_67"></span>[\*](#fn_66.md) the King, with a powerful
 army descending the river towards our villages. No one could withstand
 him; but we sea-people, who lived by the sea, put all our possessions on
 board ships and took our departure. When Alexander heard that such a
@@ -150,7 +150,7 @@ skin, blue eyes, and
 <span id="page_172">p. 172</span> <span id="page_173">p. 173</span>
 
 fair hair. Afterwards, Demetrius attacked Rhodes <span
-id="fr_68"></span>[\*](#fn_68), and we transported thither his soldiers
+id="fr_68"></span>[\*](#fn_68.md), and we transported thither his soldiers
 and provisions. When we made our last voyage to Rhodes, the war was
 finished. Demetrius had sailed to Athens. When we came into the harbour,
 the whole village was in deep mourning. Friso, who was king over the
@@ -159,7 +159,7 @@ come out of Fryasland, and more beautiful than any one could picture to
 himself. The fame of this went all over Greece, and came to the ears of
 Demetrius. Demetrius was vile and immoral, and thought he could do as he
 pleased. He carried off the daughter. The mother did not dare await the
-return of her joi <span id="fr_69"></span>[†](#fn_69) (the sailors wives
+return of her joi <span id="fr_69"></span>[†](#fn_69.md) (the sailors wives
 call their husbands *joi* or *zoethart* (sweetheart). The men call their
 wives *troost* (comfort) and *fro* or *frow*, that is, *vreuyde*
 (delight) and frolic; that is the same as *vreugde*.
@@ -244,23 +244,23 @@ Britain, and three days later we could shout huzza.
 
 ### Footnotes
 
-<span id="fn_64"></span>[163:\*](olb41.htm#fr_64) 303 before Christ.
+<span id="fn_64"></span>[163:\*](olb41.htm#fr_64.md) 303 before Christ.
 
-<span id="fn_65"></span>[163:†](olb41.htm#fr_65) *Barnpila*, De
+<span id="fn_65"></span>[163:†](olb41.htm#fr_65.md) *Barnpila*, De
 falarica, Livy, xxi. 8.
 
-<span id="fn_66"></span>[165:\*](olb41.htm#fr_67) Alexander at the
+<span id="fn_66"></span>[165:\*](olb41.htm#fr_67.md) Alexander at the
 Indus, 327 before Christ.
 
-<span id="fn_67"></span>[165:†](olb41.htm#fr_66) 327+1224 is 1551 before
+<span id="fn_67"></span>[165:†](olb41.htm#fr_66.md) 327+1224 is 1551 before
 Christ.
 
-<span id="fn_68"></span>[173:\*](olb41.htm#fr_68) 305 before Christ.
+<span id="fn_68"></span>[173:\*](olb41.htm#fr_68.md) 305 before Christ.
 
-<span id="fn_69"></span>[173:†](olb41.htm#fr_69) *Joi en trâst*. At
+<span id="fn_69"></span>[173:†](olb41.htm#fr_69.md) *Joi en trâst*. At
 Scheveningen you still hear "Joei en troos." *Joi* is the French *joye*.
 
 ------------------------------------------------------------------------
 
 [Next: This Writing has been given to me about Northland and Schoonland
-(Scandinavia)](olb42)
+(Scandinavia)](olb42.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb42)  [Next](ttb44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb42)  [Next](ttb44.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 |                                                   |
 |---------------------------------------------------|
-| ![Sisa-Kaulaus Totem Stanley Park](img/05800.jpg) |
+| ![Sisa-Kaulaus Totem Stanley Park](img/05800.jpg.md) |
 
 This Totem Pole tells in Indian figures the story of Chief
 **Sisa-Kaulas’** great ancestor **See-wid**. **See-wid** was a delicate
@@ -70,4 +70,4 @@ chief's power and triumph.
 
 ------------------------------------------------------------------------
 
-[Next: Story of the Mink](ttb44)
+[Next: Story of the Mink](ttb44.md)

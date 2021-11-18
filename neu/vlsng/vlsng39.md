@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng38)  [Next](vlsng40) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng38)  [Next](vlsng40.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ into ill."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVIII: Of the slaying of the Giukings.](vlsng40)
+[Next: Chapter XXXVIII: Of the slaying of the Giukings.](vlsng40.md)

@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft06) 
-[Next](gsft08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft06.md) 
+[Next](gsft08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gypsy Sorcery and Fortune Telling*, by Charles Godfrey Leland,
 \[1891\], at Intangible Textual Heritage
 
@@ -188,7 +188,7 @@ owing to the great proportion of milk which she yielded, set forth
 abundance; hence the cornucopia of Amalthea, the prototype of the
 she-goat Heidrun of the Northern mythology, who yielded every day so
 much milk that all the Einheriar, or dwellers in Valhall, could satisfy
-themselves therewith. <span id="fr_13"></span>[1](#fn_13) But the forms
+themselves therewith. <span id="fr_13"></span>[1](#fn_13.md) But the forms
 or deities indicating life were also those which shielded and protected
 from evil, therefore Here, the mother of life and of birth, had in
 Sparta a shrine where she-goats were sacrificed to her, while at
@@ -843,7 +843,7 @@ signifying money.
 
 ### Footnotes
 
-<span id="fn_13"></span>[83:1](gsft07.htm#fr_13) "Geit suer Heidrun
+<span id="fn_13"></span>[83:1](gsft07.htm#fr_13.md) "Geit suer Heidrun
 heitr stendr uppi a Valholl. . . . En or spenum hennar rennr moilk. . .
 tháer cro sva miklar at allir einheria verda fuldrucknir af." ("A ewe
 named Heidrun stands up in Valhalla. And from her udders runs milk;
@@ -854,6 +854,6 @@ there is so much that all the heroes may drink their fill of it").
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Of Pregnancy and Charms](gsft08)
+[Next: Chapter VI: Of Pregnancy and Charms](gsft08.md)
 
 </div>

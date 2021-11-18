@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol59)  [Next](pol61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol59)  [Next](pol61.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -29,7 +29,7 @@ infidel and ascribing all happiness to the course of nature. The God who
 created the world from naught, may change at His will the nature which
 He established. When the Hashmoneans gained, with the aid of God, their
 great victory, and restored peace and harmony to their land, their first
-act was to cleanse and [rededicate](errata.htm#8) the Temple, which had
+act was to cleanse and [rededicate](errata.htm#8.md) the Temple, which had
 been defiled, and on the twenty-fifth day of Kislev, in obedience to the
 teachings of the Rabbis, we inaugurate the "Dedication Feast" by
 lighting the lamps or candles prepared expressly for this occasion. The
@@ -100,4 +100,4 @@ B.C.E.
 
 ------------------------------------------------------------------------
 
-[Next: Purim](pol61)
+[Next: Purim](pol61.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mom04)  [Next](mom06) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mom04)  [Next](mom06.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,10 +97,10 @@ annexations of the Cæsars were the first cause of the diffusion of the
 Mithraic religion in the Latin world. It began to spread there under the
 Flavians and developed under the Antonines and the Severi, just as did
 another cult practised alongside of it in Commagene, namely that of
-Jupiter Dolichenus, <span id="fr_17"></span>[1](#fn_17) which made at
+Jupiter Dolichenus, <span id="fr_17"></span>[1](#fn_17.md) which made at
 the same time the tour of the Roman empire.
 
-According to Plutarch, <span id="fr_18"></span>[2](#fn_18) Mithra was
+According to Plutarch, <span id="fr_18"></span>[2](#fn_18.md) Mithra was
 introduced
 
 <span id="page_37">p. 37</span>
@@ -125,18 +125,18 @@ It was not until the end of the first century that the name of Mithra
 began to be generally bruited abroad in Rome. When Statius wrote the
 first canto of the *Thebaid*, about eighty years after Christ, he had
 already seen typical representations of the tauroctonous hero, <span
-id="fr_19"></span>[1](#fn_19) and it appears from the testimony of
+id="fr_19"></span>[1](#fn_19.md) and it appears from the testimony of
 Plutarch that in his time (46-125 A.D.) the
 
 <span id="page_38">p. 38</span>
 
 Mazdean sect already enjoyed a certain notoriety in the Occident. <span
-id="fr_20"></span>[1](#fn_20) This conclusion is confirmed by epigraphic
+id="fr_20"></span>[1](#fn_20.md) This conclusion is confirmed by epigraphic
 documents. The most ancient inscription to Mithra which we possess is a
 bilingual inscription of a freedman of the Flavians (69-96 A.D.). Not
 long after, a marble group is consecrated to him by a slave of T.
 Claudius Livianus who was pretorian prefect under Trajan (102 A.D.)
-(Figure [10](#img_10)). The invincible god must also have penetrated
+(Figure [10](#img_10).md). The invincible god must also have penetrated
 about the same time into central Italy, at Nersæ, in the country of the
 Æqui; a text of the year 172 A.D. has been discovered which speaks of a
 mithræum that had "crumbled to pieces from old age." The appearance of
@@ -204,7 +204,7 @@ constituted "a sort of microcosm
 
 <span id="page_41">p. 41</span>
 
-of the empire." <span id="fr_21"></span>[1](#fn_21) These officers were
+of the empire." <span id="fr_21"></span>[1](#fn_21.md) These officers were
 a potent source of influence, for their very position insured to them a
 considerable moral influence over the conscripts whom it was their
 vocation to instruct. In addition to this individual propaganda, which
@@ -295,7 +295,7 @@ of Mithraism into Dacia. When in 107 A.D. Trajan annexed this barbarous
 kingdom to the Roman empire, the country, exhausted by six years of
 obstinate warfare, was little more than a desert. To repopulate it, the
 emperor transported to it, as Eutropius <span
-id="fr_22"></span>[1](#fn_22) tells us, multitudes of colonists "*ex
+id="fr_22"></span>[1](#fn_22.md) tells us, multitudes of colonists "*ex
 toto orbe Romano*," from all the territories of Rome. The population of
 this country was even more mixed in the second century than it is
 to-day, where all the races of Europe are still bickering and battling
@@ -340,7 +340,7 @@ Carnuntum; and in both of these cities the causes of its greatness are
 easily discovered. The first-named city, where in the third century the
 Mysteries were celebrated in at least five temples scattered over its
 entire area, was the headquarters of the *legio II adjutrix*, <span
-id="fr_23"></span>[1](#fn_23) which had been formed in the year 70 A.D.
+id="fr_23"></span>[1](#fn_23.md) which had been formed in the year 70 A.D.
 by Vespasian from sailors of the fleet stationed at Ravenna. Among the
 freedmen thus admitted into the regular army, the proportion of Asiatics
 was considerable, and it is probable that from the very beginning
@@ -495,7 +495,7 @@ the advance posts of the Roman military system between the river Main
 and the fortified walls of the *limes*, have been marvellously fertile
 in discoveries. North of Frankfort, near the village of Heddernheim, the
 ancient *civitas Taunensium*, three important temples have been
-successively exhumed (Figs. [13](#img_13), [14](#img_14)), three others
+successively exhumed (Figs. [13](#img_13), [14](#img_14).md), three others
 existed in Friedberg in Hesse and three more have been dug out in the
 surrounding country. On the other side, along the entire course of the
 Rhine, from Augst (Raurica) near Basel as far as Xanten (Vetera),
@@ -611,7 +611,7 @@ there. But there is reason for
 
 believing that Mithra was worshipped in these countries from the middle
 of the second century, and that Germany <span
-id="fr_24"></span>[1](#fn_24) served as the intermediary agent between
+id="fr_24"></span>[1](#fn_24.md) served as the intermediary agent between
 the far Orient
 
 "*Et penitus toto divisos orbe Britannos*."
@@ -827,7 +827,7 @@ greater favor than that of the Iranian god. In the second century, at
 least four or five *spelæa* had been dedicated to him. One of them,
 constructed at the latest in 162 A.D., and communicating with the baths
 of Antoninus, was situated on the very spot where the foreign ships
-landed (Fig. [16](#img_16)), and another one adjoined the *metroon*, or
+landed (Fig. [16](#img_16).md), and another one adjoined the *metroon*, or
 sanctuary in which the official cult of the *Magna Mater* was
 celebrated. To the south the little hamlet of Antium (Porto d'Anzio) had
 followed the example of its powerful neighbor; while in Etruria, Rusellæ
@@ -983,7 +983,7 @@ the largest city of Noricum, in which in the third century two temples
 at least had been opened to the initiated. A third one was erected not
 far from the same place in a grotto in the midst of the forest.
 
-The city of Aquileia <span id="fr_25"></span>[1](#fn_25) was undoubtedly
+The city of Aquileia <span id="fr_25"></span>[1](#fn_25.md) was undoubtedly
 the religious metropolis of this Roman colony, and its important church
 founded many missions in the surrounding region. The cities
 
@@ -1089,7 +1089,7 @@ Lampridius has
 
 <span id="page_78">p. 78</span>
 
-recorded, <span id="fr_26"></span>[1](#fn_26) was *potentissima per
+recorded, <span id="fr_26"></span>[1](#fn_26.md) was *potentissima per
 Armenios et Osrhœnos et Parthos* (viz., very largely composed of
 Armenians, Osrhœnians, and Parthians), impart a new impulse to the
 Mithraic propaganda on the banks of the Rhine? Did any of the high
@@ -1172,7 +1172,7 @@ fragments of sculpture, and by a series of temples and chapels situated
 in all parts of the city and its environs. The most justly celebrated of
 these *spelæa* is the one that still existed during the Renaissance in a
 cave of the Capitol, and from which the grand Borghesi bas-relief now in
-the Louvre was taken. (See Fig. [4](mom04.htm#img_4).) To all
+the Louvre was taken. (See Fig. [4](mom04.htm#img_4)..md) To all
 appearances, this monument dates from the end of the second century.
 
 It was at this period that Mithra emerged from the partial obscurity in
@@ -1196,12 +1196,12 @@ influential functionaries at the capital, and church and town
 dignitaries in the municipalities. Under the Antonines (138-180 A.D.),
 literary men and philosophers began to grow interested in the dogmas and
 rites of this Oriental cult. The wit Lucian parodied their
-ceremonies <span id="fr_27"></span>[1](#fn_27); and in 177 A.D. Celsus
+ceremonies <span id="fr_27"></span>[1](#fn_27.md); and in 177 A.D. Celsus
 in his *True Discourse* undoubtedly pits its doctrines against those of
-Christianity. <span id="fr_28"></span>[2](#fn_28) At about the same
+Christianity. <span id="fr_28"></span>[2](#fn_28.md) At about the same
 period a certain Pallas devoted to Mithraism a special work, and
 Porphyry cites a certain Eubulus who had published *Mithraic
-Researches* <span id="fr_29"></span>[3](#fn_29) in several books. If
+Researches* <span id="fr_29"></span>[3](#fn_29.md) in several books. If
 this literature were not irrevocably lost to us, we should doubtless
 re-read in its pages the story of entire Roman squadrons, both officers
 and soldiers, passing over to the faith of the hereditary enemies of the
@@ -1227,7 +1227,7 @@ of which to-day we can only imperfectly ascertain the causes.
 
 But to the natural allurements which drew crowds to the feet of the
 tauroctonous god was added an extrinsic element of the highest efficacy:
-the imperial favor. Lampridius <span id="fr_30"></span>[1](#fn_30)
+the imperial favor. Lampridius <span id="fr_30"></span>[1](#fn_30.md)
 informs us that Commodus (180-192 A.D.) was initiated into the Mysteries
 and took part in the bloody ceremonies of its liturgy, and the
 inscriptions prove that this condescension of the monarch toward the
@@ -1252,51 +1252,51 @@ theocratic claims of the Cæsars.
 
 ### Footnotes
 
-<span id="fn_17"></span>[36:1](mom05.htm#fr_17) Named from the city of
+<span id="fn_17"></span>[36:1](mom05.htm#fr_17.md) Named from the city of
 Doliche, now Doluk, in Commagene.
 
-<span id="fn_18"></span>[36:2](mom05.htm#fr_18) Plutarch, *Vit. Pomp*.,
+<span id="fn_18"></span>[36:2](mom05.htm#fr_18.md) Plutarch, *Vit. Pomp*.,
 24 (*T. et M.*, Vol. II., p. 35 d.).
 
-<span id="fn_19"></span>[37:1](mom05.htm#fr_19) Statius, *Theb*., 1.,
+<span id="fn_19"></span>[37:1](mom05.htm#fr_19.md) Statius, *Theb*., 1.,
 717: *Persei sub rupibus antri Indignata sequi torquentem cornua
 Mithram*.
 
-<span id="fn_20"></span>[38:1](mom05.htm#fr_20) Plut., *l. c*.
+<span id="fn_20"></span>[38:1](mom05.htm#fr_20.md) Plut., *l. c*.
 
-<span id="fn_21"></span>[41:1](mom05.htm#fr_21) Jung, *Fasten der
+<span id="fn_21"></span>[41:1](mom05.htm#fr_21.md) Jung, *Fasten der
 Provinz Dacien*, 1894, p. xlv.
 
-<span id="fn_22"></span>[44:1](mom05.htm#fr_22) Eutropius, VIII, 6.
+<span id="fn_22"></span>[44:1](mom05.htm#fr_22.md) Eutropius, VIII, 6.
 
-<span id="fn_23"></span>[46:1](mom05.htm#fr_23) One of the legions
+<span id="fn_23"></span>[46:1](mom05.htm#fr_23.md) One of the legions
 raised by the proconsuls in the Roman provinces for the purpose of
 strengthening the veteran army.--*Trans*.
 
-<span id="fn_24"></span>[58:1](mom05.htm#fr_24) See *supra*, [p.
-1](mom04.htm#page_1).
+<span id="fn_24"></span>[58:1](mom05.htm#fr_24.md) See *supra*, [p.
+1](mom04.htm#page_1.md).
 
-<span id="fn_25"></span>[73:1](mom05.htm#fr_25) Cf. *supra*, [p.
-67](#page_67). See also Frontispiece.
+<span id="fn_25"></span>[73:1](mom05.htm#fr_25.md) Cf. *supra*, [p.
+67](#page_67.md). See also Frontispiece.
 
-<span id="fn_26"></span>[78:1](mom05.htm#fr_26) Lamprid., *Alex. Sev.*,
+<span id="fn_26"></span>[78:1](mom05.htm#fr_26.md) Lamprid., *Alex. Sev.*,
 c. 61; *cf.* Capitol., *Maximin.*, c. 11.
 
-<span id="fn_27"></span>[82:1](mom05.htm#fr_27) Lucian, *Menipp*. c. 6
+<span id="fn_27"></span>[82:1](mom05.htm#fr_27.md) Lucian, *Menipp*. c. 6
 *et seq.* Cf. *Deor. concil.*, c. 9; *Jup. trag.*, c. 8, 13 (*T. et M.*,
 Vol. II, p. 22).
 
-<span id="fn_28"></span>[82:2](mom05.htm#fr_28) Origen, *Contra. Cels.*,
+<span id="fn_28"></span>[82:2](mom05.htm#fr_28.md) Origen, *Contra. Cels.*,
 I. 9 (*T. et M.*, Vol. II, p. 30).
 
-<span id="fn_29"></span>[82:3](mom05.htm#fr_29) *Porphyr,. De antr.
+<span id="fn_29"></span>[82:3](mom05.htm#fr_29.md) *Porphyr,. De antr.
 nymph.*, c. 5; *De abstin.*, II. 56, IV. 16 (*cf*. *T. et M.*, Vol. II,
 p. 39 *et seq.* and I., p. 26 *et seq*.
 
-<span id="fn_30"></span>[83:1](mom05.htm#fr_30) Lamprid., *Commod*., c.
+<span id="fn_30"></span>[83:1](mom05.htm#fr_30.md) Lamprid., *Commod*., c.
 9 ( *T. et M.*, Vol. II, p. 21). See *infra*, Chap. III, [p.
-73](#page_73).
+73](#page_73.md).
 
 ------------------------------------------------------------------------
 
-[Next: Mithra and the Imperial Power of Rome](mom06)
+[Next: Mithra and the Imperial Power of Rome](mom06.md)

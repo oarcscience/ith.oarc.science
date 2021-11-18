@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod03)  [Next](ebod05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod03)  [Next](ebod05.md) 
 
 ------------------------------------------------------------------------
 
@@ -412,4 +412,4 @@ compositions antérieures" (*Catalogue*, p. 13).
 
 ------------------------------------------------------------------------
 
-[Next: The Doctrine Of Eternal Life.](ebod05)
+[Next: The Doctrine Of Eternal Life.](ebod05.md)

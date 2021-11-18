@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic094)  [Next](lfic096) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic094)  [Next](lfic096.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ excepted, all shall be blessed with prosperous reigns."
 
 ------------------------------------------------------------------------
 
-[Next: The Decision of the Chariot](lfic096)
+[Next: The Decision of the Chariot](lfic096.md)

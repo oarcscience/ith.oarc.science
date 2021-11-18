@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat61)  [Next](jat63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat61)  [Next](jat63.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,13 +25,13 @@ received an arrow under his arm through his clothing. Many of the enemy
 were killed and all their tents and goods were brought home on wagons.
 The enemy drove them away from their lower camp. They came back to
 Cimarron where they danced until they were tired. <span
-id="fr_76"></span>[1](#fn_76)
+id="fr_76"></span>[1](#fn_76.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_76"></span>[250:1](jat62.htm#fr_76) This account was given
+<span id="fn_76"></span>[250:1](jat62.htm#fr_76.md) This account was given
 after an inquiry had been made of Casa Maria whether he went on the
 expedition. He said that he did not go but that his brother went. An
 extended account of this affair is given by Lieut. G. H. Pettis, "Kit
@@ -40,4 +40,4 @@ the Canadian River, Nov. 25, 1864." See also, Mooney, (b), p. 314-17.
 
 ------------------------------------------------------------------------
 
-[Next: 61. An Unsuccessful Expedition Led by Maxwell](jat63)
+[Next: 61. An Unsuccessful Expedition Led by Maxwell](jat63.md)

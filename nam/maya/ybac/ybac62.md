@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac61)  [Next](ybac63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac61)  [Next](ybac63.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ and ten years.
 
 ------------------------------------------------------------------------
 
-[Next: Yucatan in 1579 Showing the Pre-Spanish Maya Chiefdoms](ybac63)
+[Next: Yucatan in 1579 Showing the Pre-Spanish Maya Chiefdoms](ybac63.md)

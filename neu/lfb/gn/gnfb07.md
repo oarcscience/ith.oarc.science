@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb06)  [Next](gnfb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb06)  [Next](gnfb08.md) 
 
 </div>
 
@@ -209,6 +209,6 @@ By the Comte de Caylus.
 
 ------------------------------------------------------------------------
 
-[Next: Sylvain and Jocosa](gnfb08)
+[Next: Sylvain and Jocosa](gnfb08.md)
 
 </div>

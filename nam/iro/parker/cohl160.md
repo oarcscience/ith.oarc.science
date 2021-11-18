@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl159)  [Next](cohl161) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl159)  [Next](cohl161.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ The leg rattle is another variety having several perforations.
 
 ------------------------------------------------------------------------
 
-[Next: The False Face Company](cohl161)
+[Next: The False Face Company](cohl161.md)

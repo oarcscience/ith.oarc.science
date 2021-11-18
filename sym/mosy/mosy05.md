@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Index](index)  [Previous](mosy04)  [Next](mosy06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Index](index)  [Previous](mosy04)  [Next](mosy06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Migration of Symbols*, by Goblet d'Alviella, \[1894\], at
 Intangible Textual Heritage
 
@@ -92,13 +92,13 @@ represents the four quarters whence comes the rain, or rather the four
 main winds which bring rain, and that it thus became the symbol of the
 god Tlaloc, the dispenser of the celestial waters, and, lastly, of the
 mythical personage known by the name of Quetzacoalt. <span
-id="fr_16"></span>[1](#fn_16)
+id="fr_16"></span>[1](#fn_16.md)
 
 By a similar process of reasoning the Assyrians
 
 <span id="img_fig001"></span> ![FIG. 1. IDEOGRAM OF ANU. (RAWLINSON.
 Western Asia Inscriptions, vol. ii. pl. 48, fig. 30
-obv.)](img/fig001.jpg)
+obv.)](img/fig001.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 1. Ideogram of
 Anu</span>.  
@@ -121,16 +121,16 @@ again, of the god who governs it. It was the same with the Chaldæans,
 the Hindus, the Greeks, the Persians, and perhaps with the Gauls, and
 the ancient civilizers of Northern America (fig. 2).
 
-<span id="img_fig002"></span> ![FIG. 2. SOLAR CROSSES.](img/fig002.jpg)
+<span id="img_fig002"></span> ![FIG. 2. SOLAR CROSSES.](img/fig002.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 2. Solar
-Crosses</span> <span id="fr_17"></span>[1](#fn_17).</span>
+Crosses</span> <span id="fr_17"></span>[1](#fn_17.md).</span>
 
 In China, the equilateral cross inscribed in a square <span
 id="img_01400"></span> ![](img/01400.jpg) represents the earth, and
 according to Mr. Samuel Beal, a saying is met with there to the effect
 that "God made the earth in the form of a cross." <span
-id="fr_18"></span>[2](#fn_18)
+id="fr_18"></span>[2](#fn_18.md)
 
 Egyptian writing utilizes among its signs the Greek and even the Latin
 Cross. In connection
@@ -146,12 +146,12 @@ forming the equivalent of Πτολεμαῖος, followed by the sign <span
 id="img_01500"></span> ![](img/01500.jpg); from which the author
 concludes that the term Saviour being rendered by a cross, this sign was
 with the Egyptians, an allusion to the future coming of the
-Redeemer. <span id="fr_19"></span>[1](#fn_19) Unhappily for this
+Redeemer. <span id="fr_19"></span>[1](#fn_19.md) Unhappily for this
 ingenious interpretation, M. de Harlez, who has taken the trouble to
 refute M. Ansault's article, points out to him that in
 
 <span id="img_fig003"></span> ![FIG. 3. HIEROGLYPH OF THE
-HAMMER.](img/fig003.jpg)
+HAMMER.](img/fig003.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 3. Hieroglyph of the
 Hammer</span>  
@@ -162,7 +162,7 @@ demotic the sign <span id="img_01500"></span> ![](img/01500.jpg) is the
 simplest form of a hieroglyph representing a hammer, or a boring tool,
 and is usually employed to express the idea of grinding, avenging, and
 by amplification, "the Grinder," "the Avenger," a not uncommon epithet
-of Horus, and some other gods. <span id="fr_20"></span>[2](#fn_20)
+of Horus, and some other gods. <span id="fr_20"></span>[2](#fn_20.md)
 
 Even in the presence of an analogy of signification combined with a
 resemblance of forms, it is well to look twice before identifying
@@ -177,14 +177,14 @@ the ancient inhabitants of Central
 <span class="contnote">\[paragraph continues\]</span> America. Among the
 Phœnicians and their kindred races, it was the character known by the
 name of *tau*, and from an oft quoted passage in Ezekiel <span
-id="fr_21"></span>[1](#fn_21) we learn that it was accounted a sign of
+id="fr_21"></span>[1](#fn_21.md) we learn that it was accounted a sign of
 life and health. Among the Celts and the ancient Germans it was the
 representation of the celestial Two-headed Mallet which was accounted an
 instrument of life and of fecundity. Amongst the early Christians it was
 a form sometimes given to the Cross of Christ, itself called the Tree of
-Life. <span id="fr_22"></span>[2](#fn_22) In Central America where,
+Life. <span id="fr_22"></span>[2](#fn_22.md) In Central America where,
 according to M. Albert Réville, the Cross was surnamed the Tree of
-Plenty, <span id="fr_23"></span>[3](#fn_23) it assumed also the form of
+Plenty, <span id="fr_23"></span>[3](#fn_23.md) it assumed also the form of
 the *tau*.
 
 Are we to conclude from this that all these *gibbet-crosses* have the
@@ -195,7 +195,7 @@ diffused throughout all Western Asia. The Double Hammer of Thor and of
 Tarann is a symbol of the lightning, and, for this reason, could not
 fail to represent the vivifying forces of the storm, according to the
 tradition common among the Indo-European nations. <span
-id="fr_24"></span>[4](#fn_24) Similarly, if in pre-Columbian America,
+id="fr_24"></span>[4](#fn_24.md) Similarly, if in pre-Columbian America,
 the Cross became an emblem of fertility, it is, as we have seen, because
 it represents the rain-god. As for the early Christians, if they made of
 the Cross a symbol of life, it is especially in the spiritual
@@ -211,16 +211,16 @@ punishment by crucifixion.
 In the mythology of primitive nations the contest between the sky, or
 sun, and the clouds is frequently represented by a fight between an
 eagle and a serpent. This subject has been treated more than once in
-ancient art. <span id="fr_25"></span>[1](#fn_25) Already in the Homeric
+ancient art. <span id="fr_25"></span>[1](#fn_25.md) Already in the Homeric
 ages it had become a symbol of victory, for we are told in the Iliad
 that the Trojans were on the point of abandoning the assault on the
 Greek entrenchments through having seen an eagle which held a serpent in
 its claws take flight, being wounded by its prey. <span
-id="fr_26"></span>[2](#fn_26) Now according to the tradition of the
+id="fr_26"></span>[2](#fn_26.md) Now according to the tradition of the
 Aztecs, the founding of Mexico is said to have been resolved on owing to
 the apparition of an eagle which, perched upon an agave, and with wings
 outstretched towards the rising sun, held a serpent in its talons. <span
-id="fr_27"></span>[3](#fn_27) The first conquerors of Mexico saw therein
+id="fr_27"></span>[3](#fn_27.md) The first conquerors of Mexico saw therein
 an emblem of future greatness, and to the present day this emblem
 figures in the arms of the capital. Yet it is unlikely that the Aztecs
 had read Homer.
@@ -242,7 +242,7 @@ exportation. Have there not been found even among the "treasures" of our
 mediæval churches on the one hand, and among those of Chinese and
 Japanese temples on the other, masterpieces of Sassanian art, which
 themselves reproduce the symbols of classic paganism? <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 In olden times soldiers and sailors and travellers of every profession
 never left home without taking with them, under some form or another,
@@ -257,7 +257,7 @@ propagate through immense distances the symbols of the nations who put
 them into circulation. Gallic coins are nothing but counterfeits of the
 Greek coinage of Phillip or Alexander, and even in the *tumuli* of
 Scandinavia native coins have been found which roughly imitated the
-coinage of Bactria. <span id="fr_29"></span>[2](#fn_29)
+coinage of Bactria. <span id="fr_29"></span>[2](#fn_29.md)
 
 Now nothing is so contagious as a symbol unless perhaps a superstition;
 they are all the more so when combined together, as they generally were
@@ -308,7 +308,7 @@ We may well suppose that in the desire to symbolize the strength or
 activity of superhuman beings, the Egyptians, the Aztecs, the Hindus,
 and the Chinese, have been separately led to enrich by several pairs of
 arms and legs, or even by several heads, certain figured representations
-of their superhuman beings. <span id="fr_30"></span>[1](#fn_30) But does
+of their superhuman beings. <span id="fr_30"></span>[1](#fn_30.md) But does
 this hypothesis of an independent origin hold good when, for example, we
 see both on the ancient coins of Lycia and in the feudal coat of arms of
 the Isle of Man, a figure at once so precise as the *triscèle* or
@@ -317,7 +317,7 @@ radiate from a central point?
 
 <span id="img_fig004"></span> ![FIG. 4. TRISCÈLE ON THE SHIELD OF
 ENCELADUS. (DE WITTE and LENORMANT. Monuments Céramographiques, vol. i.,
-pl. viii.)](img/fig004.jpg)
+pl. viii.)](img/fig004.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 4. Triscèle on the
 Shield of Enceladus</span>.  
@@ -339,7 +339,7 @@ middle ages, a Norman baron, or even a Crusader, or simple adventurer,
 returning to his home after a sojourn in Sicily, applied to his native
 country a symbol still living in the classic traditions of the ancient
 Trinacria, save that in order to suit the age he added spurs to the
-heels. <span id="fr_31"></span>[1](#fn_31)
+heels. <span id="fr_31"></span>[1](#fn_31.md)
 
  
 
@@ -351,7 +351,7 @@ exploring Asia
 <span id="img_fig005"></span> <span align="CENTER"> [![FIG. 5.
 BAS-RELIEF OF EYUK. (PERROT and CHIPIEZ. L’Art dans l’antiquité, vol.
 iv., fig. 343.)](tn/fig005.jpg)  
-Click to enlarge](img/fig005.jpg)  
+Click to enlarge](img/fig005.jpg.md)  
   
 </span>
 
@@ -384,7 +384,7 @@ originally to an Asiatic creed of the highest antiquity; and by a
 singular turn of fortune the Turks saw, at Belgrade and at Lepanto,
 their advance towards the West barred by that same eagle which had
 conducted them triumphantly along the banks of the Euphrates and the
-shores of the Bosphorus." <span id="fr_32"></span>[1](#fn_32)
+shores of the Bosphorus." <span id="fr_32"></span>[1](#fn_32.md)
 
 Perchance the Turkomans themselves had borrowed this symbol from the
 sculptures carved by their mysterious predecessors on the rocks of Eyuk
@@ -401,7 +401,7 @@ aquilina*) be cut transversely a fairly accurate image of the
 Double-headed Eagle
 
 <span id="img_fig006"></span> ![FIG. 6. ARSACIAN INTAGLIO. (Revue
-Archéologique of 1894, vol. xxvii., pl. v., No. 391.)](img/fig006.jpg)
+Archéologique of 1894, vol. xxvii., pl. v., No. 391.)](img/fig006.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 6. Arsacian
 Intaglio</span>.  
@@ -411,7 +411,7 @@ is obtained. Now the fern is named in Greek πτέρις or πτερία, as is
 province where the bas-reliefs of Eyuk are found. The learned
 archæologist wondered if it was not this similarity which caused the
 Double-headed Eagle to be chosen as the symbol of Pteria: <span
-id="fr_33"></span>[1](#fn_33) but we know now that the bas-reliefs in
+id="fr_33"></span>[1](#fn_33.md) but we know now that the bas-reliefs in
 question date from a period far earlier than that of the appearance of
 the Greeks in this part of the world, and, besides, it is probable that
 the Greeks had given a name to the fern before knowing Pteria. The most
@@ -424,7 +424,7 @@ of an eagle holding a serpent between its talons, sometimes replaced the
 serpent by a hare which corresponded with the Hittite scheme. Only they
 rejected anything monstrous that the latter might offer, and contented
 themselves with faithfully copying nature. <span
-id="fr_34"></span>[2](#fn_34) India on the contrary seems to have
+id="fr_34"></span>[2](#fn_34.md) India on the contrary seems to have
 accepted without hesitation the bicephalous type which Persia probably
 transmitted to it. We there find the Double-headed Eagle on ancient
 coins, where
@@ -439,7 +439,7 @@ legend of the fabulous bird from some representation of this kind, where
 the part of the hare was taken by an elephant, or buffalo.
 
 <span id="img_fig007"></span> ![FIG. 7. ANCIENT INDIAN COIN. (MOOR.
-Hindoo Pantheon, pl. 103, fig. 3.)](img/fig007.jpg)
+Hindoo Pantheon, pl. 103, fig. 3.)](img/fig007.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 7. Ancient Indian
 Coin</span>.  
@@ -456,7 +456,7 @@ Phœnician origin which shows us Orthros in the form of two dogs
 distinctly apart. "Hellenic image makers," he goes on to say, "unite the
 two animals, while fable goes still further and endows the imaginary
 creature with a third head which it does not always possess in ancient
-art." <span id="fr_35"></span>[1](#fn_35) Thus again the Chimæra
+art." <span id="fr_35"></span>[1](#fn_35.md) Thus again the Chimæra
 originates in the group, so widespread in Lycian art, of a lion
 devouring a goat; the two animals having been taken for one by the Greek
 copyist. In the same manner the triple Geryon slain by Herakles owes its
@@ -472,7 +472,7 @@ I had long since surmised a similar origin in the Double-headed Eagle,
 when, turning over once more the pages of Schliemann's *Mykenæ*, I
 discovered the solution of the problem in some golden *fibulæ* dug up by
 the famous archæologist among the tombs of the ancient *Mycenæ* (fig.
-[8](#img_fig008) and [9](#img_fig009)). We there find two eagles, as
+[8](#img_fig008) and [9](#img_fig009).md). We there find two eagles, as
 Schliemann says, "leaning against each other with their whole bodies and
 even with their claws while turning their heads in opposite directions."
 
@@ -490,7 +490,7 @@ return, after many wanderings, to its original home.
 
 |                                                                             |                                                                             |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| <span id="img_fig008"></span> ![FIG. 8. JEWELS FROM MYKENÆ](img/fig008.jpg) | <span id="img_fig009"></span> ![FIG. 9. JEWELS FROM MYKENÆ](img/fig009.jpg) |
+| <span id="img_fig008"></span> ![FIG. 8. JEWELS FROM MYKENÆ](img/fig008.jpg) | <span id="img_fig009"></span> ![FIG. 9. JEWELS FROM MYKENÆ](img/fig009.jpg.md) |
 
 </div>
 
@@ -512,7 +512,7 @@ the ninth century in the Bibliothèque Nationale of Paris, shows the
 Divine Hand in the middle of a *nimbus* encircling a Cross.
 
 <span id="img_fig010"></span> ![FIG. 10. THE HAND OF GOD. (DIDRON.
-Histoire de Dieu, p. 32.)](img/fig010.jpg)
+Histoire de Dieu, p. 32.)](img/fig010.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 10. The Hand of
 God</span>.  
@@ -521,14 +521,14 @@ God</span>.
 
 M. Gaidoz has compared this figure with certain Gallic amulets, the
 solar Wheels formed of four rays through which a hand passes. <span
-id="fr_36"></span>[1](#fn_36)
+id="fr_36"></span>[1](#fn_36.md)
 
 Might not the two symbols have their prototype upon an Assyrian obelisk,
 where two hands are shown to issue from a solar Disk, the right open and
 exhibiting the palm, the left closed and holding a bow?
 
 <span id="img_fig011"></span> ![FIG. 11. ASSYRIAN SYMBOL. (G. RAWLINSON.
-The Five Great Monarchies, vol. ii. p. 233.)](img/fig011.jpg)
+The Five Great Monarchies, vol. ii. p. 233.)](img/fig011.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 11. Assyrian
 Symbol</span>.  
@@ -547,7 +547,7 @@ an attitude of adoration; this is precisely the type of our "Hand of
 Justice."
 
 <span id="img_fig012"></span> ![FIG. 12. CHALDÆAN CYLINDER. (Lajard.
-Mithra, pl. xxvii., fig. 5.)](img/fig012.jpg)
+Mithra, pl. xxvii., fig. 5.)](img/fig012.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 12. Chaldæan
 Cylinder</span>.  
@@ -558,18 +558,18 @@ According to M. François Lenormant, the celebrated pyramid of Borsippa
 was called "the Temple of the Right Hand," and one of the names of
 Babylon was that of "the city of the Hand of Anu," or, what amounts to
 the same thing, of "the Celestial Hand." <span
-id="fr_37"></span>[1](#fn_37)
+id="fr_37"></span>[1](#fn_37.md)
 
 The hand uplifted towards the sky is an oft repeated image on the *ex
 voto* of Carthage, and even at the present time it is figured on native
 houses in Palestine and Marocco to ward off evil spirits from the
-dwellers therein. <span id="fr_38"></span>[2](#fn_38) Moreover this
+dwellers therein. <span id="fr_38"></span>[2](#fn_38.md) Moreover this
 symbol passed also to India, where it decorates the
 
 <span id="page_28">p. 28</span>
 
 pedestal of the Holy Tree in a bas-relief at Bharhut (see [pl.
-iv.](mosy11.htm#img_pl04), fig. *h*).
+iv.](mosy11.htm#img_pl04), fig. *h*.md).
 
  
 
@@ -599,20 +599,20 @@ This miracle, which was believed to be renewed every day, was regarded
 as the origin of whatever exists. The Egyptians, who believed that the
 world had sprung from the liquid element, made the sun to proceed from a
 Lotus which one day had emerged from the primordial waters; <span
-id="fr_39"></span>[1](#fn_39) this they rendered in their iconography by
+id="fr_39"></span>[1](#fn_39.md) this they rendered in their iconography by
 representing
 
 <span id="page_29">p. 29</span>
 
 Horus as springing forth from a lotus-shaped calyx held by Hathor. <span
-id="fr_40"></span>[1](#fn_40) In the same way the Indian sacred books
+id="fr_40"></span>[1](#fn_40.md) In the same way the Indian sacred books
 constantly speak of gods as sprung from the lotus; it is on a golden
 Lotus that Brahma appears in the beginning of time, and it is with the
 different parts of this plant that he created the world. <span
-id="fr_41"></span>[2](#fn_41) A Hindu legend, related by Father Vincenzo
+id="fr_41"></span>[2](#fn_41.md) A Hindu legend, related by Father Vincenzo
 de Santa Catarina, states that Brahma keeps watch six months of the year
 and sleeps the other six in a Lotus-flower of extraordinary size and
-beauty. <span id="fr_42"></span>[3](#fn_42)
+beauty. <span id="fr_42"></span>[3](#fn_42.md)
 
 Hence a fresh enlargement given to the figurative meaning of the lotus.
 The symbol of solar renascence, it became, with the Egyptians, the
@@ -620,7 +620,7 @@ symbol of human renascence and, generally, of life in its eternal and
 unceasingly renewed essence. On a sarcophagus in the Louvre there is
 depicted a *scarabæus* emerging from a Lotus between Isis and Nephthys
 in their characteristic attitude of guardians and protectresses of the
-dead. <span id="fr_43"></span>[4](#fn_43) Thus were represented both the
+dead. <span id="fr_43"></span>[4](#fn_43.md) Thus were represented both the
 sun and the deceased passing through the tomb to renew their existence
 in the luminous fields of space. The lotus was even adopted with this
 signification in the funeral symbolism of Europe. It is met with again,
@@ -628,7 +628,7 @@ not in the Greek traditions relating to the Lotophagi, those fabulous
 people who partook of the lotus in order to forget life and its
 troubles, but even in the inscriptions on tombstones which are met with,
 dating from the latter centuries of Paganism, from Libya to
-Belgium. <span id="fr_44"></span>[5](#fn_44)
+Belgium. <span id="fr_44"></span>[5](#fn_44.md)
 
 Renascence has but few attractions for the}
 
@@ -652,12 +652,12 @@ remind us of the ties which unite the Lotus of Buddhism to that of
 Egypt. A legend relates that, when the Buddhisattva appears, a
 miraculous Lotus springs out of the earth, and he seats himself thereon,
 and takes in all the worlds at a glance. <span
-id="fr_45"></span>[1](#fn_45) Buddha, besides, is everywhere represented
+id="fr_45"></span>[1](#fn_45.md) Buddha, besides, is everywhere represented
 seated on the Lotus-flower like Vishnu and Horus. It is perhaps not
 impossible to fix the intermediate stages of this symbolism. The Lotus
 passed from Egypt to the monuments of Phœnicia and, towards the eighth
 century before our era, to those of Assyria, <span
-id="fr_46"></span>[2](#fn_46) which in their turn transmitted it to
+id="fr_46"></span>[2](#fn_46.md) which in their turn transmitted it to
 Persia. Thus, in the sculptures of Phœnicia goddesses are found who hold
 in the hand a Lotus-flower, and, in the Sassanian bas-reliefs at
 Tagh-i-Bostan, the solar god Mithras stands upon a
@@ -665,20 +665,20 @@ Tagh-i-Bostan, the solar god Mithras stands upon a
 <span id="page_31">p. 31</span>
 
 <span class="contnote">\[paragraph continues\]</span>
-Lotus-flower. <span id="fr_47"></span>[1](#fn_47) Lastly, among the
+Lotus-flower. <span id="fr_47"></span>[1](#fn_47.md) Lastly, among the
 Mesopotamians and the Persians it is not uncommon to find the Lotus
 blossoming on shrubs in which may be recognized either the Sacred Tree
 of the Semitic religions, or the Iranian tree which secretes the Elixir
-of Immortality. <span id="fr_48"></span>[2](#fn_48)
+of Immortality. <span id="fr_48"></span>[2](#fn_48.md)
 
 Nowadays the beautiful rose-blossomed lotus, *Nymphæa Nelumbo*, observed
 on the monuments of Egypt, no longer grows in that country in its wild
 state, but by a curious coincidence, it has remained in the *flora*, as
-in the symbolism, of India. <span id="fr_49"></span>[3](#fn_49)
+in the symbolism, of India. <span id="fr_49"></span>[3](#fn_49.md)
 
 <span id="img_fig013"></span> ![FIG. 13. CAVES OF KANERKI. (FERGUSSON
 and BURGESS. &lt;i&gt;Cave Temples of India&lt;/i&gt;, pl. x., fig.
-35.)](img/fig013.jpg)
+35.)](img/fig013.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 13. Caves of
 Kanerki</span>.  
@@ -691,13 +691,13 @@ has been imported from India to China and Japan, so that it is still one
 of the principal symbolical figures by which at the present day we
 recognize the sacred vases and other objects employed in religious
 services by the Buddhists of these countries. <span
-id="fr_50"></span>[4](#fn_50)
+id="fr_50"></span>[4](#fn_50.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_16"></span>[13:1](mosy05.htm#fr_16) <span
+<span id="fn_16"></span>[13:1](mosy05.htm#fr_16.md) <span
 class="smallcaps">Albert Reville</span>, *Religions du Mexique, de
 l’Amérique centrale et du Pérou*. Paris, 1885.—It appears that in South
 America also the Cross was a wind-rose. A Belgian traveller, M. E.
@@ -709,7 +709,7 @@ the sky. Among the Blackfeet Indians, according to Mrs. Murray Aynsley
 (*Transactions of the Quatuor Coronati*, vol. v. p. 82), it represents
 the "old man in the sun who rules the winds."
 
-<span id="fn_17"></span>[14:1](mosy05.htm#fr_17) *a*. Within a Disc in
+<span id="fn_17"></span>[14:1](mosy05.htm#fr_17.md) *a*. Within a Disc in
 Assyrian bas-reliefs. <span class="smallcaps">J. Menant</span>, *Pierres
 gravées de la Haute-Asie*, Paris, 1886, vol. ii. p. 71.—*b*. Alternating
 with the radiated Disc, on ancient Indian coins. <span
@@ -726,27 +726,27 @@ Flouest</span>, *Deux stèles de Laraire*, Paris, 1885, pl. xvii.—For the
 American solar Cross, see further on, fig. 29, the engraving on a shell
 found in the mounds of the Mississippi.
 
-<span id="fn_18"></span>[14:2](mosy05.htm#fr_18) The *Indian Antiquary*,
+<span id="fn_18"></span>[14:2](mosy05.htm#fr_18.md) The *Indian Antiquary*,
 1880, p. 67, *et seq.*
 
-<span id="fn_19"></span>[15:1](mosy05.htm#fr_19) *Le culte de la croix
+<span id="fn_19"></span>[15:1](mosy05.htm#fr_19.md) *Le culte de la croix
 avant Jésus-Christ*, in the French periodical, *le Correspondant* of the
 25th October, 1889.
 
-<span id="fn_20"></span>[15:2](mosy05.htm#fr_20) *Le culte de la croix
+<span id="fn_20"></span>[15:2](mosy05.htm#fr_20.md) *Le culte de la croix
 avant le christianisme*, in *La Science catholique* of the 15th
 February, 1890, p. 163.
 
-<span id="fn_21"></span>[16:1](mosy05.htm#fr_21) Ezek. ix. 4–6.
+<span id="fn_21"></span>[16:1](mosy05.htm#fr_21.md) Ezek. ix. 4–6.
 
-<span id="fn_22"></span>[16:2](mosy05.htm#fr_22) <span
+<span id="fn_22"></span>[16:2](mosy05.htm#fr_22.md) <span
 class="smallcaps">A. de Gubernatis</span>, *Mythologie des Plantes*.
 Paris, 1878, vol. i., p. 6.
 
-<span id="fn_23"></span>[16:3](mosy05.htm#fr_23) *Religions du Mexique*,
+<span id="fn_23"></span>[16:3](mosy05.htm#fr_23.md) *Religions du Mexique*,
 etc., p. 91.
 
-<span id="fn_24"></span>[16:4](mosy05.htm#fr_24) <span
+<span id="fn_24"></span>[16:4](mosy05.htm#fr_24.md) <span
 class="smallcaps">A. Kuhn</span>, *Herabkunft des Feuers*. Berlin,
 1889.—A Germanic tradition, related by M. Karl Blind, shows to what an
 extent the old Pagan beliefs have been fused, in the popular
@@ -754,33 +754,33 @@ imagination, with the dogmas of Christianity. The Virgin Mary, in order
 to explain the mystery of her conception, says that "the Smith from
 above" threw the Hammer into her breast. (*Antiquary*, 1884, p. 200.)
 
-<span id="fn_25"></span>[17:1](mosy05.htm#fr_25) Particularly on the
+<span id="fn_25"></span>[17:1](mosy05.htm#fr_25.md) Particularly on the
 coins of Elis. (<span class="smallcaps">Barclay V. Head</span>,
 *Historia Numorum*, p. 353.)
 
-<span id="fn_26"></span>[17:2](mosy05.htm#fr_26) *Iliad*, book xii., l.
+<span id="fn_26"></span>[17:2](mosy05.htm#fr_26.md) *Iliad*, book xii., l.
 200, *et seq.*
 
-<span id="fn_27"></span>[17:3](mosy05.htm#fr_27) <span
+<span id="fn_27"></span>[17:3](mosy05.htm#fr_27.md) <span
 class="smallcaps">Alb. Reville</span>, *Religions du Mexique*, etc., p.
 29.
 
-<span id="fn_28"></span>[18:1](mosy05.htm#fr_28) <span
+<span id="fn_28"></span>[18:1](mosy05.htm#fr_28.md) <span
 class="smallcaps">M. Louis Gonse</span>, *L’Art japonais*, p. 143, draws
 particular attention to a Sassanian vase, decorated with winged horses
 recalling the Greek Pegasus, among the treasures in the temple of
 Horiouji at Nara.
 
-<span id="fn_29"></span>[18:2](mosy05.htm#fr_29) <span
+<span id="fn_29"></span>[18:2](mosy05.htm#fr_29.md) <span
 class="smallcaps">C. A. Holmboe</span>, *Traces de bouddhisme en
 Norvége*. Paris, 1857, p. 30, el seq.
 
-<span id="fn_30"></span>[20:1](mosy05.htm#fr_30) Captain Becker saw once
+<span id="fn_30"></span>[20:1](mosy05.htm#fr_30.md) Captain Becker saw once
 in Central Africa an idol with many heads; it was explained to him that
 the *fetiche* was able therefore to better detect criminals. *La vie en
 Afrique*. Bruxelles, 1888, vol. ii. p. 304.
 
-<span id="fn_31"></span>[21:1](mosy05.htm#fr_31) It is from the
+<span id="fn_31"></span>[21:1](mosy05.htm#fr_31.md) It is from the
 thirteenth century that the *triscèle* figures in the coat-of-arms of
 the Isle of Man. According to a letter from Mr. John Newton, published
 in *The Athenæum* of the 10th September, 1892, it had been introduced
@@ -795,29 +795,29 @@ families in England, Germany, Switzerland, and Poland. (<span
 class="smallcaps">Michel de Smigrodzki</span>. *Geschichte der
 Suastika*. Braunschwlig, 1890, pl. ii. fig. 155.)
 
-<span id="fn_32"></span>[22:1](mosy05.htm#fr_32) <span
+<span id="fn_32"></span>[22:1](mosy05.htm#fr_32.md) <span
 class="smallcaps">Perrot</span> and <span
 class="smallcaps">Chipiez</span>. *L’Art dans l’antiquité*, vol. iv. p.
 683.
 
-<span id="fn_33"></span>[23:1](mosy05.htm#fr_33) *Revue archéologique*
+<span id="fn_33"></span>[23:1](mosy05.htm#fr_33.md) *Revue archéologique*
 of 1845, vol. ii. p. 82.
 
-<span id="fn_34"></span>[23:2](mosy05.htm#fr_34) *The coins of Elis*.
+<span id="fn_34"></span>[23:2](mosy05.htm#fr_34.md) *The coins of Elis*.
 (<span class="smallcaps">Barclay V. Head</span>. *Loc. cit.*)
 
-<span id="fn_35"></span>[24:1](mosy05.htm#fr_35) <span
+<span id="fn_35"></span>[24:1](mosy05.htm#fr_35.md) <span
 class="smallcaps">Clermont-Ganneau</span>. *L’imagerie phénicienne*.
 Paris, vol. i. p. 15–19.
 
-<span id="fn_36"></span>[26:1](mosy05.htm#fr_36) <span
+<span id="fn_36"></span>[26:1](mosy05.htm#fr_36.md) <span
 class="smallcaps">H. Gaidoz</span>. *Le dieu gaulois du soleil et le
 symbolisme de la roue*. Paris, 1886, p. 64.
 
-<span id="fn_37"></span>[27:1](mosy05.htm#fr_37) *Gazette archéologique*
+<span id="fn_37"></span>[27:1](mosy05.htm#fr_37.md) *Gazette archéologique*
 of; 1877, p. 31.
 
-<span id="fn_38"></span>[27:2](mosy05.htm#fr_38) <span
+<span id="fn_38"></span>[27:2](mosy05.htm#fr_38.md) <span
 class="smallcaps">Ph. Berger</span> in the *Gazette archéologique* of
 1876, pp. 119–120.—It is remarkable that certain of the aborigines of
 Australia attribute similar power to their chiefs’ or ancestors’ hands,
@@ -828,55 +828,55 @@ hands towards the portent, shouting out, "Send it away! send it away! do
 not let it burn us up!" (J*our. Anthropological Institute*. London,
 1883–1884, p. 189.)
 
-<span id="fn_39"></span>[28:1](mosy05.htm#fr_39) <span
+<span id="fn_39"></span>[28:1](mosy05.htm#fr_39.md) <span
 class="smallcaps">G. Maspero</span>, in the *Revue de l’histoire des
 religions*, vol. xviii., 1889, p. 21.
 
-<span id="fn_40"></span>[29:1](mosy05.htm#fr_40) <span
+<span id="fn_40"></span>[29:1](mosy05.htm#fr_40.md) <span
 class="smallcaps">G. Lafaye</span>. *Histoire des divinités d’Alexandrie
 hors de l’Égypte*. Paris, 1884, p. 247.
 
-<span id="fn_41"></span>[29:2](mosy05.htm#fr_41) <span
+<span id="fn_41"></span>[29:2](mosy05.htm#fr_41.md) <span
 class="smallcaps">James Darmesteter</span>. *Essais orientaux*. Paris,,
 1883, p. 148.
 
-<span id="fn_42"></span>[29:3](mosy05.htm#fr_42) <span
+<span id="fn_42"></span>[29:3](mosy05.htm#fr_42.md) <span
 class="smallcaps">de Gubernatis</span>. *Mythologie des plantes*, vol.
 I. p. 206.
 
-<span id="fn_43"></span>[29:4](mosy05.htm#fr_43) This painting is
+<span id="fn_43"></span>[29:4](mosy05.htm#fr_43.md) This painting is
 reproduced by M. Ledrain in the *Gazette archéologique* of 1878, p. 192.
 
-<span id="fn_44"></span>[29:5](mosy05.htm#fr_44) See further fig.
-[16](mosy06.htm#img_fig016) and [17](mosy06.htm#img_fig017).
+<span id="fn_44"></span>[29:5](mosy05.htm#fr_44.md) See further fig.
+[16](mosy06.htm#img_fig016) and [17](mosy06.htm#img_fig017.md).
 
-<span id="fn_45"></span>[30:1](mosy05.htm#fr_45) <span
+<span id="fn_45"></span>[30:1](mosy05.htm#fr_45.md) <span
 class="smallcaps">Senart</span>. *La légende du Bouddha* in the *Journal
 asiatique*. Paris, 1874, 347.
 
-<span id="fn_46"></span>[30:2](mosy05.htm#fr_46) At least this is the
+<span id="fn_46"></span>[30:2](mosy05.htm#fr_46.md) At least this is the
 date assigned by Layard, who gives the epoch of the building of
 Khorsabad as the date of the first appearance of the Egyptian lotus in
 Assyria as a symbol or subject for ornament. (*Nineveh and its Remains*,
 vol. ii. p. 213.)
 
-<span id="fn_47"></span>[31:1](mosy05.htm#fr_47) <span
+<span id="fn_47"></span>[31:1](mosy05.htm#fr_47.md) <span
 class="smallcaps">Flandin</span> and <span
 class="smallcaps">Coste</span>. *Voyage en Perse*, vol. i., pl. iii. and
 xiv.
 
-<span id="fn_48"></span>[31:2](mosy05.htm#fr_48) See further on, chap.
+<span id="fn_48"></span>[31:2](mosy05.htm#fr_48.md) See further on, chap.
 iv.
 
-<span id="fn_49"></span>[31:3](mosy05.htm#fr_49) <span
+<span id="fn_49"></span>[31:3](mosy05.htm#fr_49.md) <span
 class="smallcaps">Perrot</span> and <span
 class="smallcaps">Chipiez</span>. *Histoire de l’art dans l’antiquité*,
 vol. i. p. 578.
 
-<span id="fn_50"></span>[31:4](mosy05.htm#fr_50) <span
+<span id="fn_50"></span>[31:4](mosy05.htm#fr_50.md) <span
 class="smallcaps">Michel Paléologue</span>. *L'art chinois*. Paris,
 1887, p. 45.
 
 ------------------------------------------------------------------------
 
-[Next: I. Geographical Distribution of the Gammadion](mosy06)
+[Next: I. Geographical Distribution of the Gammadion](mosy06.md)

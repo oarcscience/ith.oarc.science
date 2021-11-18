@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl13)  [Next](irl15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl13)  [Next](irl15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -128,7 +128,7 @@ from some ingredient of his nutrient vapors.
 
 I should have known then, or at least have been suspicious, but, in the
 hallowed halls of the Council of Nor one does not suspect one's equals.
-But he was a dero <span id="fr_40"></span>[4](#fn_40)—I know that now.
+But he was a dero <span id="fr_40"></span>[4](#fn_40.md)—I know that now.
 
 There was a time, once, when the peoples of Mu and the other Sun planets
 were unaware that there could be such a thing as a dero. But that was
@@ -187,7 +187,7 @@ But finally, a very beautiful young Nor maiden had wheedled and vamped
 her way out of their unholy clutches and exposed the whole rotten mess.
 
 Their use of girls for wall ornaments, <span
-id="fr_41"></span>[5](#fn_41) living in stimmed
+id="fr_41"></span>[5](#fn_41.md) living in stimmed
 
 <span id="page_121">p. 121</span>
 
@@ -203,10 +203,10 @@ just barely making his escape.
 
 ### Footnotes
 
-<span id="fn_40"></span>[119:4](irl14.htm#fr_40) DERO: (See 'I Remember
+<span id="fn_40"></span>[119:4](irl14.htm#fr_40.md) DERO: (See 'I Remember
 Lemuria")
 
-<span id="fn_41"></span>[120:5](irl14.htm#fr_41) STIMMED BODY—ORNAMENTS:
+<span id="fn_41"></span>[120:5](irl14.htm#fr_41.md) STIMMED BODY—ORNAMENTS:
 This use of girls and women for ornaments is a particularly revealing
 angle on the opulence and cruel disregard for the natural rights of man
 which has marked ray-secrets since the earliest days. This use is an
@@ -233,4 +233,4 @@ the ordeal of pleasure has perished, from what I hear.—Author.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Back on Mother Mu](irl15)
+[Next: Chapter III. Back on Mother Mu](irl15.md)

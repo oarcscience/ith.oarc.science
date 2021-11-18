@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai14)  [Next](jai16) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai14)  [Next](jai16.md) 
 
 ------------------------------------------------------------------------
 
@@ -516,4 +516,4 @@ ancient religion of the dead.
 
 ------------------------------------------------------------------------
 
-[Next: The Jesuit Peril](jai16)
+[Next: The Jesuit Peril](jai16.md)

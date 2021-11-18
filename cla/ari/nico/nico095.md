@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico094) 
-[Next](nico096) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico094.md) 
+[Next](nico096.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ a thing unprofitable.--So much for these questions.
 ------------------------------------------------------------------------
 
 [Next: Chapter 1. (c) In friendship in which the motives on the two
-sides are different](nico096)
+sides are different](nico096.md)

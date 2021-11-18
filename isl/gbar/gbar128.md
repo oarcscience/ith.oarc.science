@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar127) [Next](gbar129)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar127) [Next](gbar129.md)
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ because our God rejected him, having his works in abomination.
 
 ------------------------------------------------------------------------
 
-[Next](gbar129)
+[Next](gbar129.md)

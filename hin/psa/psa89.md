@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa88)  [Next](psa90) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa88)  [Next](psa90.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ Muhadeo.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXXIX](psa90)
+[Next: Chapter LXXXIX](psa90.md)

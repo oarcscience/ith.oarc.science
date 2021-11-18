@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar090) [Next](gbar092)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar090) [Next](gbar092.md)
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ where Jesus was to be found.
 
 ------------------------------------------------------------------------
 
-[Next](gbar092)
+[Next](gbar092.md)

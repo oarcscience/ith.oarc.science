@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh09)  [Next](msh11) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh09)  [Next](msh11.md) 
 
 ------------------------------------------------------------------------
 
@@ -206,4 +206,4 @@ closely examined, to rule that identification out.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Another Solution](msh11)
+[Next: VII. Another Solution](msh11.md)

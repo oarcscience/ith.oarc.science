@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](dun07)  [Next](dun09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](dun07)  [Next](dun09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Duncan's Masoic Ritual and Monitor*, by Malcom C. Duncan, \[1866\], at
 Intangible Textual Heritage
 
@@ -79,8 +79,8 @@ in the noble and glorious work of rebuilding the Temple. Since that
 time, every Chapter of Royal Arch Masons, if properly formed, represents
 the Tabernacle erected by our ancient brethren, near the ruins of King
 Solomon's Temple, and our engraving shows the interior arrangement of a
-Chapter of the Royal Arch Degree. <span id="fr_74"></span>[1](#fn_74)
-(See [Fig. 31](#img_22000).)
+Chapter of the Royal Arch Degree. <span id="fr_74"></span>[1](#fn_74.md)
+(See [Fig. 31](#img_22000)..md)
 
 These three Most Excellent Masters, on their arrival, were introduced to
 the Grand Council, and employed, furnished with tools, and directed to
@@ -133,10 +133,10 @@ In addition to these, three other officers are usually present, viz.,
 Secretary, a Treasurer, and a Tyler, or sentinel.
 
 The officers and companions of the Chapter being stationed as in the
-engraving (see [Fig. 31](#img_22000)), the High Priest proceeds to
+engraving (see [Fig. 31](#img_22000).md), the High Priest proceeds to
 business as follows:
 
-High Priest--Companions, <span id="fr_75"></span>[1](#fn_75) I am about
+High Priest--Companions, <span id="fr_75"></span>[1](#fn_75.md) I am about
 to open a Chapter of Royal Arch Masons in this place, for the dispatch
 of business, and will thank you for your attention and assistance. If
 there is any person present who is not a companion Royal Arch Mason, he
@@ -152,7 +152,7 @@ High Priest--Companion Captain, the first care of congregated Masons?
 
 <span id="img_22000"></span> <span align="CENTER"> [![FIG. 31. ROYAL
 ARCH CHAPTER.](tn/22000.jpg)  
-Click to enlarge](img/22000.jpg)  
+Click to enlarge](img/22000.jpg.md)  
 FIG. 31. ROYAL ARCH CHAPTER.  
 </span>
 
@@ -166,7 +166,7 @@ Altar.</span>
 
 Captain (placing the palm of his right hand to his forehead, as if to
 shade his eyes.)--To see the Tabernacle duly guarded, Most Excellent.
-(For this sign, see [Fig. 36](#img_25100).)
+(For this sign, see [Fig. 36](#img_25100)..md)
 
 High Priest--Attend to that part of your duty, and inform the Guard that
 we are about to open a Chapter of Royal Arch Masons in this place for
@@ -382,13 +382,13 @@ To close this Royal Arch.
 They then balance three times three, bringing the right band with some
 violence down upon the left. The right hands are then raised above their
 heads, and the words, Jah-buh-lun, Jehovah, G-o-d, <span
-id="fr_76"></span>[1](#fn_76) are given at low breath, each companion
+id="fr_76"></span>[1](#fn_76.md) are given at low breath, each companion
 pronouncing the syllables or letters alternately, as follows:
 
 <span id="page_225">p. 225</span>
 
 <span id="img_22500"></span> ![FIG. 32 THREE TIMES
-THREE.](img/22500.jpg)  
+THREE.](img/22500.jpg.md)  
 FIG. 32 THREE TIMES THREE.
 
 <div align="center">
@@ -411,7 +411,7 @@ FIG. 32 THREE TIMES THREE.
 |                                   | G                                      | o    |
 | d                                 |                                        |      |
 |                                   | G                                      |      |
-| o                                 | d. <span id="fr_77"></span>[1](#fn_77) |      |
+| o                                 | d. <span id="fr_77"></span>[1](#fn_77.md) |      |
 
 </div>
 
@@ -893,7 +893,7 @@ Principal Sojourner) take their seats.
 
 Principal Sojourner makes an alarm by stamping nine times on the floor,
 which brings out the Master from the First Veil. (See Note
- [O](dun10.htm#xref_O), Appendix.)
+ [O](dun10.htm#xref_O), Appendix..md)
 
 Master of First Veil--Who comes there? Who dares approach this outer
 Veil of our sacred Tabernacle? Who are you?
@@ -932,14 +932,14 @@ thus (casting down the cane), and it became a serpent; but putting forth
 his hand and taking it up by the tail, it became a rod in his hand as
 before. My word of exhortation is explanatory of this sign, and is to be
 found in the writings of Moses, viz.: the first verses of the fourth
-chapter of Exodus. (See Note  [N](dun10.htm#xref_N), Appendix.)
+chapter of Exodus. (See Note  [N](dun10.htm#xref_N), Appendix..md)
 
 "And the Lord said unto Moses, What is that in thy hand? And he said, A
 rod. And the Lord said, Cast it on the ground; and he cast it, and it
 became a serpent, and Moses fled from before it," &c.
 
 <span id="img_23600"></span> ![FIG. 33. SIGN OF THE MASTER OF THE FIRST
-VEIL.](img/23600.jpg)  
+VEIL.](img/23600.jpg.md)  
 FIG. 33. SIGN OF THE MASTER OF THE FIRST VEIL.
 
 Principal Sojourner--Companions, we have passed the first guard, and
@@ -1114,7 +1114,7 @@ Scribe (looking shrewdly at it.)--I am satisfied that it is. Most
 Excellent.
 
 High Priest (drawing signet across his forehead, in imitation of the
-penalty, see [Fig. 36](#img_25100).)--Signet of Truth, and Holiness to
+penalty, see [Fig. 36](#img_25100)..md)--Signet of Truth, and Holiness to
 the Lord!
 
 The King and the Scribe, each in turn, puts his hand to his forehead,
@@ -1163,8 +1163,8 @@ High Priest--You say you are entered Apprentice Masons. Satisfy the
 Grand Council.
 
 The three candidates give the signs of Entered Apprentice. (See Figs.
-[1](dun02.htm#img_01600) and [2](dun02.htm#img_01700), pp.
-[17](dun02.htm#page_17), [18](dun02.htm#page_18).)
+[1](dun02.htm#img_01600) and [2](dun02.htm#img_01700.md), pp.
+[17](dun02.htm#page_17), [18](dun02.htm#page_18)..md)
 
 High Priest (to King and Scribe.)--Companions, are you satisfied?
 
@@ -1176,8 +1176,8 @@ are Entered Apprentice Masons. Have you been advanced to the Fellow
 Craft's Degree?
 
 Candidates give the Fellow Craft signs (see Figs.
-[3](dun02.htm#img_01701) and [4](dun02.htm#img_01702), [p.
-17](dun02.htm#page_17)), when the High Priest asks his companions of the
+[3](dun02.htm#img_01701) and [4](dun02.htm#img_01702.md), [p.
+17](dun02.htm#page_17).md), when the High Priest asks his companions of the
 Grand Council if they are satisfied, as before, and then informs the
 
 <span id="page_241">p. 241</span>
@@ -1210,7 +1210,7 @@ the other with a shovel, which are generally made of wood, and kept for
 the purpose in the Lodge or Chapter.
 
 <span id="img_24100"></span> ![WORKING TOOLS OF A ROYAL ARCH
-MASON.](img/24100.jpg)  
+MASON.](img/24100.jpg.md)  
 WORKING TOOLS OF A ROYAL ARCH MASON.
 
 Principal Sojourner (to the candidates.)--Follow me.
@@ -1281,7 +1281,7 @@ The Principal Sojourner returns with the candidates to the place where
 they lifted the trap, and they there consult together as to who shall
 descend into the vault. One of the candidates agreeing to go, they put a
 rope seven times around his body, leaving two long ends. <span
-id="fr_78"></span>[1](#fn_78)
+id="fr_78"></span>[1](#fn_78.md)
 
 <span id="page_243">p. 243</span>
 
@@ -1293,7 +1293,7 @@ ascend, pull that in your right hand.
 Two companions take hold of each end of the rope, letting the candidate
 down eight or ten feet, to another trap-door, where he finds three small
 trying squares; and, giving the signal of ascending, is drawn up. <span
-id="fr_79"></span>[1](#fn_79)
+id="fr_79"></span>[1](#fn_79.md)
 
 Each candidate taking a square, they repair to the Grand Council. As
 they present themselves, the High Priest reads the following passage
@@ -1359,7 +1359,7 @@ sun at this time was at its meridian height, the rays of which enabled
 him to discover a small box, or chest, standing on a pedestal, curiously
 wrought, and overlaid with gold. On discovering it, he involuntarily
 found his hand raised in this position (giving the sign as shown in
-[Fig. 36](#img_25100)), to guard his eyes from the intense light and
+[Fig. 36](#img_25100).md), to guard his eyes from the intense light and
 heat reflected from it. The air becoming offensive, he gave the signal
 for ascending, and was immediately drawn out. We have brought this chest
 up for the examination of the Grand Council.
@@ -1397,7 +1397,7 @@ verse, as follows:
 
 <span id="img_24500"></span> <span align="CENTER"> [![EMBLEMS OF THE
 ROYAL ARCH DEGREE.](tn/24500.jpg)  
-Click to enlarge](img/24500.jpg)  
+Click to enlarge](img/24500.jpg.md)  
 EMBLEMS OF THE ROYAL ARCH DEGREE.  
 </span>
 
@@ -1421,7 +1421,7 @@ High Priest (to candidates.)--You now see that the world is indebted to
 Masonry for the preservation of this sacred volume. Had it not been for
 the wisdom and precaution of our ancient brethren, this, the only
 remaining copy of the law, would have been destroyed at the destruction
-of Jerusalem. <span id="fr_80"></span>[1](#fn_80)
+of Jerusalem. <span id="fr_80"></span>[1](#fn_80.md)
 
 <span id="page_247">p. 247</span>
 
@@ -1480,7 +1480,7 @@ and then puts together, so as to show a key to the ineffable characters
 of this Degree:
 
 <span id="img_24800"></span> ![KEY TO THE INEFFABLE
-CHARACTERS.](img/24800.jpg)  
+CHARACTERS.](img/24800.jpg.md)  
 KEY TO THE INEFFABLE CHARACTERS.
 
 The key to the ineffable characters, or Royal Arch Cipher, alluded to
@@ -1494,11 +1494,11 @@ id="img_24802"></span> ![](img/24802.jpg), *b*; the third, <span
 id="img_24803"></span> ![](img/24803.jpg), *c*; and so on, reading from
 left to right, thus:
 
-<span id="img_24804"></span> ![Masonic Cryptogram 1](img/24804.jpg)
+<span id="img_24804"></span> ![Masonic Cryptogram 1](img/24804.jpg.md)
 
 The second way to read the alphabet is as follows:
 
-<span id="img_24805"></span> ![Masonic Cryptogram 2](img/24805.jpg)
+<span id="img_24805"></span> ![Masonic Cryptogram 2](img/24805.jpg.md)
 
 The upper left angle without a dot is *a*; the same with a dot is *b*,
 &c.
@@ -1517,7 +1517,7 @@ characters on the four sides of the Ark.
 High Priest (reading first side.)--Deposited in the year three thousand.
 Second side--By Solomon, King of Israel. Third side--Hiram, King of
 Tyre, and Hiram Abiff. Fourth side--For the good of Masonry, generally,
-but the Jewish nation in particular. <span id="fr_81"></span>[1](#fn_81)
+but the Jewish nation in particular. <span id="fr_81"></span>[1](#fn_81.md)
 
 High Priest (to candidates.)--Companions, here are three mysterious
 words, in a triangular form, upon the Ark, which, when first found, were
@@ -1560,8 +1560,8 @@ times three;" that is, three right feet forming a triangle, three left
 hands forming a triangle, and three right hands forming a triangle. They
 balance in the same manner, and then, with hands raised, repeat the
 words Jah-buh-lun, Jehovah, G-o-d, at low breath, as described before.
-(See pp. [224](#page_224)-25, [Fig. 32](#img_22500).) <span
-id="fr_82"></span>[1](#fn_82)
+(See pp. [224](#page_224)-25, [Fig. 32](#img_22500)..md) <span
+id="fr_82"></span>[1](#fn_82.md)
 
 <span id="page_251">p. 251</span>
 
@@ -1595,7 +1595,7 @@ FIG. 37. ROYAL ARCH GRAND HAILING SIGN.<br />
 
 </div>
 
-his head from the rays of the meridian sun. (See [Fig. 36](#img_25100).)
+his head from the rays of the meridian sun. (See [Fig. 36](#img_25100)..md)
 This sign must be given to the High Priest, upon entering and retiring
 from a Chapter.
 
@@ -1671,7 +1671,7 @@ all those duties out of the Chapter which are inculcated in it."
 Companions--So mote it be. Amen.
 
 High Priest--I now declare this Chapter of Royal Arch Masons
-closed. <span id="fr_84"></span>[1](#fn_84)
+closed. <span id="fr_84"></span>[1](#fn_84.md)
 
 It is generally conceded by Masonic writers, that ancient Masonry closes
 with the Royal Arch. In an edition of "The Illustrations of Masonry," by
@@ -1681,7 +1681,7 @@ observes:
 "All Degrees beyond the Royal Arch ought to be carefully separated from
 genuine Masonry, as they are mostly founded on vague and uncertain
 traditions, which possess not the shadow of authority to recommend them
-to our notice." <span id="fr_85"></span>[2](#fn_85)
+to our notice." <span id="fr_85"></span>[2](#fn_85.md)
 
 <span id="page_254">p. 254</span>
 
@@ -2419,16 +2419,16 @@ form but one triangle, so the three attributes constitute but one God.
 
 ### Footnotes
 
-<span id="fn_74"></span>[218:1](dun08.htm#fr_74) In America, we find an
+<span id="fn_74"></span>[218:1](dun08.htm#fr_74.md) In America, we find an
 essential variation from any other system of the Royal Arch. The names
 of the officers vary materially, as also do the ceremonies. As in
 Ireland, it constitutes the Seventh Degree, although the intermediate
 steps are different. In Ireland they are: 1. E. A. P.; 2. F. C.; 3. M.
 M.; 4. P. M.; 5. Excellent; 6. Super-Excellent: 7. Royal Arch: while in
 America the Fourth is Mark Master; 5. P. M.; 6. Most Excellent Master;
-7. Royal Arch.--Origin of the [English](errata.htm#7) Royal Arch, p. 58.
+7. Royal Arch.--Origin of the [English](errata.htm#7.md) Royal Arch, p. 58.
 
-<span id="fn_75"></span>[219:1](dun08.htm#fr_75) The members of this
+<span id="fn_75"></span>[219:1](dun08.htm#fr_75.md) The members of this
 Degree are denominated *companions*, and are "entitled to a full
 explanation of the *mysteries* of the Order"; whereas in the former
 Degrees they are recognized by the common, familiar appellation of
@@ -2441,7 +2441,7 @@ with him. Previously to the expiration of that term he delivered his
 instructions to them from behind a screen.--*Fellows's Inquiry into the
 Origin, History, and Purport of Freemasonry*, p. 321.
 
-<span id="fn_76"></span>[224:1](dun08.htm#fr_76) Cole adopts the
+<span id="fn_76"></span>[224:1](dun08.htm#fr_76.md) Cole adopts the
 following sentiment of a brother Mason: "In the R. A. (Royal Arch)
 Mason's Degree I beheld myself exalted to the top of *Pisgah*, an
 extensive scene opened to my view of the glory and goodness of the M. E.
@@ -2462,7 +2462,7 @@ without beginning of days or end of years, the great and
 incomprehensible Alpha and Omega, and reminds us of the reverence which
 is due to His Holy NAME.--*Historical Landmarks*, vol. i. p. 86.
 
-<span id="fn_77"></span>[226:1](dun08.htm#fr_77) This ineffable name (in
+<span id="fn_77"></span>[226:1](dun08.htm#fr_77.md) This ineffable name (in
 INDIA) was *Aum*, which, in its triliteral form, was significant of the
 creative, preservative, and destroying power, that is, of Brahma,
 Vishnu, and Siva.--*Lexicon*, p. 146.
@@ -2485,17 +2485,17 @@ Syriac and Egyptian, *Baal*, *Jah*, and *On*, in the expectation that my
 Royal Arch Companions will readily recognize them in a corrupted
 form.--*Lexicon*.
 
-<span id="fn_78"></span>[242:1](dun08.htm#fr_78) Candidates at the
+<span id="fn_78"></span>[242:1](dun08.htm#fr_78.md) Candidates at the
 present day usually descend the vault by means of a ladder.
 
-<span id="fn_79"></span>[243:1](dun08.htm#fr_79) A candidate is said to
+<span id="fn_79"></span>[243:1](dun08.htm#fr_79.md) A candidate is said to
 be EXALTED when he receives the Degree of Holy Royal Arch, the Seventh
 in York Masonry. Exalted means *elevated* or *lifted up*, and is
 applicable both to a peculiar ceremony of the Degree, and to the fact
 that this Degree, in the rite in which it is practised, constitutes the
 summit of ancient Masonry.--*Lexicon*.
 
-<span id="fn_80"></span>[246:1](dun08.htm#fr_80) The foundations of the
+<span id="fn_80"></span>[246:1](dun08.htm#fr_80.md) The foundations of the
 Temple were opened and cleared from the accumulation of rubbish, that a
 level site might be procured for the commencement of the building. While
 engaged in excavations for this purpose, *three fortunate sojourners*
@@ -2544,20 +2544,20 @@ of the invaluable gifts of God which the second Temple did not contain,
 and consequently it could not have been preserved by
 Josiah.--*Historical Landmarks*, vol. ii. p. 436.
 
-<span id="fn_81"></span>[249:1](dun08.htm#fr_81) The author of *Ahiman
+<span id="fn_81"></span>[249:1](dun08.htm#fr_81.md) The author of *Ahiman
 Rezon* has stated that he could convey his mind to an ancient Mason in
 the presence of a modern Mason, without the latter knowing whether
 either of them were Masons. He further asserted that he was able, with a
 few Masonic implements, *i.e.*, two squares and a common gavel or
 hammer, to convey any word or sentence of his own, or the immediate
 dictations of a stranger, to a skilful and intelligent Free-mason of the
-ancient [order](errata.htm#8), without speaking, writing, or noise; and
+ancient [order](errata.htm#8.md), without speaking, writing, or noise; and
 that to any distance, when the parties can see each other, and at the
 same time be able to distinguish squares from circles. This Masonic
 system of cipher-writing is now well understood.--*Origin of the English
 Royal Arch*, p. 42.
 
-<span id="fn_82"></span>[250:1](dun08.htm#fr_82) The WORD of the Royal
+<span id="fn_82"></span>[250:1](dun08.htm#fr_82.md) The WORD of the Royal
 Arch Degree, as worked in England, is Jao-Bul-On.
 
 Macrobius, in his Saturnalia (lib. i. 18), says that it was an admitted
@@ -2627,12 +2627,12 @@ veneration. He was called by the Romans Jove, or Jah; by the Chaldeans,
 the Phœnicians, and the Celtæ, Bel or Bul; and by the Indians,
 Egyptians, and Greeks, Om or On."
 
-<span id="fn_83"></span>[251:1](dun08.htm#fr_83) The grand hailing sign
+<span id="fn_83"></span>[251:1](dun08.htm#fr_83.md) The grand hailing sign
 is made by locking the fingers of both hands together, and carrying them
 to the top of the head, the palms upward. Then let them drop to the
 sides.
 
-<span id="fn_84"></span>[253:1](dun08.htm#fr_84) At my first exaltation,
+<span id="fn_84"></span>[253:1](dun08.htm#fr_84.md) At my first exaltation,
 I was taught to believe it an ancient degree; but I confess, that even
 at that period I entertained considerable doubts on the point. The
 Degree is too incongruous to be of any great antiquity. It exhibits too
@@ -2644,7 +2644,7 @@ year 1740, just one year after the trifling alteration, sanctioned by
 the modern Grand Lodge, already mentioned.--*Origin of the English Royal
 Arch*, pp. 19, 20.
 
-<span id="fn_85"></span>[253:2](dun08.htm#fr_85) The fact is, the grand
+<span id="fn_85"></span>[253:2](dun08.htm#fr_85.md) The fact is, the grand
 omnific (*all-creating*) *lost word*, it will be seen in the sequel, was
 eventually found in a vault under the ruins of Solomon's Temple; and the
 difficulty was, *rationally* to account for the manner in which it got
@@ -2686,4 +2686,4 @@ Freemasonry*, pp. 308, 309.
 
 ------------------------------------------------------------------------
 
-[Next: Extracts from a Dictionary of Masonry](dun09)
+[Next: Extracts from a Dictionary of Masonry](dun09.md)

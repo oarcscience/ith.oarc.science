@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe13)  [Next](poe15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe13)  [Next](poe15.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ one slays or is slain.
 ------------------------------------------------------------------------
 
 [Next: XIV. (Plot continued.) The tragic emotions of pity and fear
-should spring out of the Plot itself](poe15)
+should spring out of the Plot itself](poe15.md)

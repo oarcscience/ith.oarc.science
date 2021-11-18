@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas132n)  [Next](jas134n)   
- \[[133. Anansi seeks his Fortune.](jas133)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas132n)  [Next](jas134n.md)   
+ \[[133. Anansi seeks his Fortune.](jas133.md)\]
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ the tongue-cutting in number 109.
 
 ------------------------------------------------------------------------
 
-[Next: Note 134. The Pannier Jar.](jas134n)
+[Next: Note 134. The Pannier Jar.](jas134n.md)

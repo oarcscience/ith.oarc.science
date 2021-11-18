@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac02)  [Next](ybac04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac02)  [Next](ybac04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -482,7 +482,7 @@ allowing the friars to act in the bishop's place, in the matters in the
 said Bulls. This the friars did; appeals to Mexico were denied, on the
 ground that only appeal to Rome could be had. Landa also established
 prisons in the other convents than his own, and appointed judges of the
-Holy Office, ordering that they [proceed](errata.htm#1) *por via de
+Holy Office, ordering that they [proceed](errata.htm#1.md) *por via de
 inquisición*. On this then came on the events we are considering.
 Declaring himself "*apostolic judge*," (see above), and inquisitor under
 the said Bulls of 1535, he proceeded without process or previous
@@ -493,8 +493,8 @@ based on forced confessions under torture and fear of death; also his
 report on those *killed under torture*, with their names; also the many
 left without arms or hands to eat with, to say nothing of those who fled
 or hung themselves. And further the letter of Father Bienvenida on these
-events, and the letters herein at pages [119](ybac59.htm#page_119) to
-[125](ybac60.htm#page_125), for the effects on the country.
+events, and the letters herein at pages [119](ybac59.htm#page_119.md) to
+[125](ybac60.htm#page_125.md), for the effects on the country.
 
 Then Toral arrived, himself a Franciscan, but officially as bishop.
 Lodged in a Franciscan convent he was so treated that he had to remove
@@ -543,7 +543,7 @@ ordering those held in prison set free.
 In 1557 the conference at Maní took place, settling the boundaries of
 the western Maya chiefdoms, those of Maní, of Canul and Maxcanú, of
 those of Sotuta, and of Calotmul in Cochuah; see pages
-[132](ybac60.htm#page_132)-4.
+[132](ybac60.htm#page_132.md)-4.
 
  
 
@@ -656,4 +656,4 @@ plant names appearing in the text.
 
 ------------------------------------------------------------------------
 
-[Next: Map](ybac04)
+[Next: Map](ybac04.md)

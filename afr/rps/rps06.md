@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps05)  [Next](rps07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps05)  [Next](rps07.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Resurrection of the Kingdom of Ethiopia.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5. The Book's Compound Limped Cover](rps07)
+[Next: Chapter 5. The Book's Compound Limped Cover](rps07.md)

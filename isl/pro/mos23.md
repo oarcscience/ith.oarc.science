@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos22)  [Next](mos24) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos22)  [Next](mos24.md) 
 
 ------------------------------------------------------------------------
 
@@ -247,4 +247,4 @@ is the One that shall take care of us.
 
 ------------------------------------------------------------------------
 
-[Next: Moses Choosing Seventy Men For God's Appointed Tryst](mos24)
+[Next: Moses Choosing Seventy Men For God's Appointed Tryst](mos24.md)

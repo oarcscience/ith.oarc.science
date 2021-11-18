@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal040)  [Next](njal042) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal040)  [Next](njal042.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ be there longer than one or two nights."
 
 ------------------------------------------------------------------------
 
-[Next: 42. The Slaying Of Thord Freedmanson](njal042)
+[Next: 42. The Slaying Of Thord Freedmanson](njal042.md)

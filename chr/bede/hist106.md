@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist105) 
-[Next](hist107) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist105.md) 
+[Next](hist107.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ whom none had severed from the Love enthroned on high."
 ------------------------------------------------------------------------
 
 [Next: XXI. How Bishop Theodore made peace between the kings Egfrid and
-Etheired. \[679 A. D.\]](hist107)
+Etheired. \[679 A. D.\]](hist107.md)

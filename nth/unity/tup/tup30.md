@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](tup29)  [Next](tup31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](tup29)  [Next](tup31.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Teach Us to Pray*, by Charles Fillmore, \[1941\], at Intangible Textual
 Heritage
 
@@ -87,4 +87,4 @@ prosperity into your affairs.
 
 ------------------------------------------------------------------------
 
-[Next: Joy Radiates Health](tup31)
+[Next: Joy Radiates Health](tup31.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly28)  [Next](lly30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly28)  [Next](lly30.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ of Po-ho-no.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of Yo-sem-i-te](lly30)
+[Next: The Legend Of Yo-sem-i-te](lly30.md)

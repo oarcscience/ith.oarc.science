@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis10)  [Next](kis12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis10)  [Next](kis12.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ told her the second story in "The Breastplate of Instruction."
 
 ------------------------------------------------------------------------
 
-[Next: Part XII: The Story of the Young Cuckoo](kis12)
+[Next: Part XII: The Story of the Young Cuckoo](kis12.md)

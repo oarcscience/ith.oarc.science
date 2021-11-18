@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas_01)  [Next](jas_03) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas_01)  [Next](jas_03.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ April, 1924.
 
 ------------------------------------------------------------------------
 
-[Next: ANIMAL STORIES.](jas_03)
+[Next: ANIMAL STORIES.](jas_03.md)

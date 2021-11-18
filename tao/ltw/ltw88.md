@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](ltw87)  [Next](ltw89) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](ltw87)  [Next](ltw89.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../img/t_yy.jpg)](index)  
+[![](../img/t_yy.jpg)](index.md)  
 *Laotzu's Tao and Wu Wei*, by Dwight Goddard and Henri Borel, \[1919\],
 at Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ progress, steady and slow.
 not think you will find this so hard to gasp and feel as Tao. You have
 only to look around you--earth, clouds, atmosphere, everything will
 teach it you. Poetry has existed as long as heaven and
-earth. [11](ltw90.htm#xref_11)
+earth. [11](ltw90.htm#xref_11.md)
 
 "Beauty was born with the heavens and the earth. The sun, the moon, and
 the red mists of morning and evening illumine each other, and
@@ -246,7 +246,7 @@ as indifferent to him--it simply does not exist for him. He does not
 sing his verses for the sake of the people, but because he cannot help
 himself. The sound of human comment on his work escapes him entirely,
 and he knows not whether he be famous or forgotten. 'The highest fame is
-no fame.' <span id="fr_1"></span>[1](#fn_1) You look at me, young man,
+no fame.' <span id="fr_1"></span>[1](#fn_1.md) You look at me, young man,
 as
 
 <span id="page_88">p. 88</span>
@@ -315,7 +315,7 @@ Against a background of pale blue silk appeared a large figure,
 gleaming, and shimmering, and diffusing a wonderful radiance of its own.
 It was the Buddha Kwan Yin, seated upon a lotus that reared itself,
 straight, and graceful, and modestly opened, above a tumult of wild
-waves. [13](ltw90.htm#xref_13)
+waves. [13](ltw90.htm#xref_13.md)
 
 "Do you perceive the utter simplicity and beauty of this?" he asked me;
 and in his voice there spoke a great and tender love. "Is not this the
@@ -323,7 +323,7 @@ very embodiment of perfect rest?--How serene is the countenance--how
 wonderfully tender, and yet how tensely grave, with its closed eyes
 gazing into infinity!--See--the cheek,--how delicate and tender!
 See--the mouth--and the lofty curving of the eyebrows--and the pure
-pearl gleaming above her forehead [14](ltw90.htm#xref_14)--symbol of a
+pearl gleaming above her forehead [14](ltw90.htm#xref_14.md)--symbol of a
 soul taking its flight from the body! And the body--how few are the
 lines of it! Yet see: what infinite love and mercifulness in the
 downward pose of the left arm; and in the uplifted right arm--with two
@@ -382,7 +382,7 @@ that was in this artist is absorbed again into Tao, just as yours will
 be one day. His body has fallen away, like the leaves from a tree, just
 as yours in time will fall away. What weight can attach then to his
 name? Nevertheless, I will tell it you; he was called Tan
-Wei, [15](ltw90.htm#xref_15) and he engraved this name in finely-devised
+Wei, [15](ltw90.htm#xref_15.md) and he engraved this name in finely-devised
 characters upon the back of the figure, such being the custom at that
 time.--Who was he? A common workman, surely, who did not even know,
 himself, that he was an artist; who seemed to himself nothing more than
@@ -508,9 +508,9 @@ natural when you understand this! It is all Tao."
 
 ### Footnotes
 
-<span id="fn_1"></span>[87:1](ltw88.htm#fr_1) From the "Nan Hwa King,"
+<span id="fn_1"></span>[87:1](ltw88.htm#fr_1.md) From the "Nan Hwa King,"
 chap. xviii.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Love](ltw89)
+[Next: Chapter III. Love](ltw89.md)

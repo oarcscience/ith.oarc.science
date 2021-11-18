@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov17)  [Next](hlov19) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov17)  [Next](hlov19.md) 
 
 ------------------------------------------------------------------------
 
@@ -221,4 +221,4 @@ common people. To this day it is known by the name Pana-ewa.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. How Hiiaka Found Wahine-omao](hlov19)
+[Next: XIV. How Hiiaka Found Wahine-omao](hlov19.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Return to Text](aflg19.htm#pl7)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Return to Text](aflg19.htm#pl7.md)
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ A TOUVINGA, OR TWO-FINGERED NEGRO
 
 ------------------------------------------------------------------------
 
-[Return to Text](aflg19.htm#pl7)
+[Return to Text](aflg19.htm#pl7.md)

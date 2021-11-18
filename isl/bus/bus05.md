@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](bus04)  [Next](bus06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](bus04)  [Next](bus06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Bustan of Sadi*, tr. by A. Hart Edwards, \[1911\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Administration of Government</span>
 <span class="smallcaps">The</span> goodness of God surpasseth
 imagination; what service can the tongue of praise perform?
 
-Keep, O God, this king,[5](bus15.htm#an_5) Abu Bakr, beneath whose
+Keep, O God, this king,[5](bus15.htm#an_5.md) Abu Bakr, beneath whose
 shadow is the protection of the people, long established upon his
 throne, and make his heart to live in obedience to Thee. Render fruitful
 his tree of hope; prolong his youth, and adorn his face with mercy.
@@ -39,7 +39,7 @@ servants wait upon
 thee at thy door; thus shouldest thou serve, with thy head in worship
 upon God's threshold.
 
-#### NUSHIRAVAN'S [6](bus15.htm#an_6) COUNSEL TO HIS SON
+#### NUSHIRAVAN'S [6](bus15.htm#an_6.md) COUNSEL TO HIS SON
 
 Thus, when at the point of death, did Nushiravan counsel his son Hurmuz:
 
@@ -124,7 +124,7 @@ have not done."
 
 The vazier smiled and said, "Whatever he said is no cause for wonder.
 What would the envious man say when he saw me in his former place? Him I
-knew to be my enemy that day when Khasrav [7](bus15.htm#an_7) appointed
+knew to be my enemy that day when Khasrav [7](bus15.htm#an_7.md) appointed
 him to lower rank than me. Never till Doomsday will he accept me as a
 friend when in my promotion he sees his own decline. If thou wilt give
 ear to thy slave I will narrate a story that is apropos.
@@ -156,7 +156,7 @@ of teeth were set behind my lips, erect like a wall
 
 <span id="page_36">p. 36</span>
 
-of ivory [8](bus15.htm#an_8) bricks. One by one, like ancient bridges,
+of ivory [8](bus15.htm#an_8.md) bricks. One by one, like ancient bridges,
 have they fallen—regard me now as here I stand! Why may I not glance
 with envy at those slaves when they recall to me the past?
 
@@ -189,7 +189,7 @@ how, like a man, can I repulse the enemy? The royal treasuries are not
 for me alone—they are filled for the sake of the army, not for the
 purchase of ornaments and jewellery."
 
-#### STORY OF DARIUS [9](bus15.htm#an_9) AND THE HERDSMAN
+#### STORY OF DARIUS [9](bus15.htm#an_9.md) AND THE HERDSMAN
 
 Darius, king of Persia, became separated from his retinue while hunting.
 A herdsman came running towards him, and the king assuming the man to be
@@ -269,10 +269,10 @@ Though one may rule and another may serve, though the one be exalted to
 the height of Saturn and the other languish in a prison, when death has
 claimed them it will not be possible to distinguish between the two.
 
-#### STORY OF QAZAL ARSALAN [10](bus15.htm#an_10) AND THE FORT
+#### STORY OF QAZAL ARSALAN [10](bus15.htm#an_10.md) AND THE FORT
 
 Qazal Arsalan possessed a fort, which raised its head to the height of
-Alwand. [11](bus15.htm#an_11) Secure
+Alwand. [11](bus15.htm#an_11.md) Secure
 
 <span id="page_41">p. 41</span>
 
@@ -352,4 +352,4 @@ seed, hope only for the fruit of that very seed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Concerning Benevolence](bus06)
+[Next: Chapter II. Concerning Benevolence](bus06.md)

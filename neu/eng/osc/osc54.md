@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc53)  [Next](osc55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc53)  [Next](osc55.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ either on foot or when on horseback?
 
 ------------------------------------------------------------------------
 
-[Next: (14) Spilling the Salt](osc55)
+[Next: (14) Spilling the Salt](osc55.md)

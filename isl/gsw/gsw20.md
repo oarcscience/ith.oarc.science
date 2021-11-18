@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw19.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="img_27800"></span> <span align="CENTER"> [![THE SEAL OF THE
 &lt;i&gt;IMAM&lt;/i&gt; RIZA](tn/27800.jpg)  
-Click to enlarge](img/27800.jpg)  
+Click to enlarge](img/27800.jpg.md)  
 THE SEAL OF THE *IMAM* RIZA  
 </span>
 
@@ -44,7 +44,7 @@ O Ali the Chosen!</p></td>
 
 <span id="page_279">p. 279</span>
 
-<span id="img_27900"></span> ![FROM A LACQUERED PEN BOX](img/27900.jpg)
+<span id="img_27900"></span> ![FROM A LACQUERED PEN BOX](img/27900.jpg.md)
 
 ### EPILOGUE
 
@@ -52,7 +52,7 @@ O Ali the Chosen!</p></td>
     In hidden but complete verse,  
 When Hatif (the Good Angel) put out his head and sang*,  
     "*This book of travel has been speedily completed*." <span
-id="fr_72"></span>[1](#fn_70)
+id="fr_72"></span>[1](#fn_70.md)
 
 <span id="page_280">p. 280</span>
 
@@ -74,7 +74,7 @@ Printed by R. & R. CLARK, LIMITED, Edinburgh.
 
 ### Footnotes
 
-<span id="fn_70"></span>[279:1](gsw20.htm#fr_72) *No Persian work can be
+<span id="fn_70"></span>[279:1](gsw20.htm#fr_72.md) *No Persian work can be
 concluded without its date being shown in a verse, each letter of which
 possesses a numerical value. In the present instance, the number is A.H.
 1331; but by a poetical conceit, the H in Hatif is "put out" or
@@ -83,7 +83,7 @@ was completed. The Persian text runs as follows:* 
 
 <span id="img_27901"></span> <span align="CENTER"> [![Persian
 Epigram](tn/27901.jpg)  
-Click to enlarge](img/27901.jpg)  
+Click to enlarge](img/27901.jpg.md)  
 Persian Epigram  
 </span>
 

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm03)  [Next](bnm05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm03)  [Next](bnm05.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ stones that he did not wish to hide away.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The First Woodpecker.](bnm05)
+[Next: The Story Of The First Woodpecker.](bnm05.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis56)  [Next](kis58) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis56)  [Next](kis58.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ with cloths silken and with the hair of her head.
 
 ------------------------------------------------------------------------
 
-[Next: Part VIII](kis58)
+[Next: Part VIII](kis58.md)

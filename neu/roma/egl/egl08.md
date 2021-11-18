@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Roma](../index)  [Index](index) 
-[Previous](egl07)  [Next](egl09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Roma](../index)  [Index](index.md) 
+[Previous](egl07)  [Next](egl09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -341,4 +341,4 @@ through the winter like a horse.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. Indications of the Indian Origin of the
-Gipsies](egl09)
+Gipsies](egl09.md)

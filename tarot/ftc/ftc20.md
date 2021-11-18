@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](ftc19)  [Next](ftc21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](ftc19)  [Next](ftc21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte.md)
 
 </div>
 
@@ -134,6 +134,6 @@ significations attached to those composing the major and minor arcana.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Etteilla's Method](ftc21)
+[Next: Chapter XIX. Etteilla's Method](ftc21.md)
 
 </div>

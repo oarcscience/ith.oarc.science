@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma07)  [Next](oma09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma07)  [Next](oma09.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ circle it would belong to him (the killer). All the other game was to go
 to the Antelope Man for food for the katsina. (The reason Iatiku had
 made Antelope Man leader (chief) was so when the katsina came he would
 have food brought to him to feed the katsina.) <span
-id="fr_54"></span>[55](#fn_54) Eagle Man then announced, "You may go
+id="fr_54"></span>[55](#fn_54.md) Eagle Man then announced, "You may go
 home and rest."
 
 The day after the hunt, the people who had killed game were supposed to
@@ -43,7 +43,7 @@ When a deer is killed, it is cut up where it falls; the legs are cut off
 and the ribs taken out. The head, the backbone, and the skin are all
 connected in one piece. When cut open, the entrails are placed to one
 side on the ground. The bladder is taken out and placed in the center of
-the entrails <span id="fr_55"></span>[56](#fn_55) and the hunter prays
+the entrails <span id="fr_55"></span>[56](#fn_55.md) and the hunter prays
 that the deer be reborn and that he will have good luck with game. He
 has corn meal and pollen and pieces of beads and shells which he
 sprinkles on.--All of these practices are according to instructions
@@ -53,13 +53,13 @@ given by Eagle Man on the first hunt.
 
 ### Footnotes
 
-<span id="fn_54"></span>[22:55](oma08.htm#fr_54) Communal hunts for
+<span id="fn_54"></span>[22:55](oma08.htm#fr_54.md) Communal hunts for
 small game are almost always to provide food for the katsina and for
 fetishes, See Boas, 1928 pt. 1; pp. 296-97; White, 1935, pp. 144-46.
 
-<span id="fn_55"></span>[22:56](oma08.htm#fr_55) The vulva or the penis
+<span id="fn_55"></span>[22:56](oma08.htm#fr_55.md) The vulva or the penis
 and testicles are placed in the stomach (White, 1942).
 
 ------------------------------------------------------------------------
 
-[Next: Fetishes](oma09)
+[Next: Fetishes](oma09.md)

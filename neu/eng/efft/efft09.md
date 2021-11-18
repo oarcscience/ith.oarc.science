@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft08)  [Next](efft10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft08)  [Next](efft10.md) 
 
 ------------------------------------------------------------------------
 
-# LADY GODIVA   <span id="fr_10"></span>[1](#fn_10)
+# LADY GODIVA   <span id="fr_10"></span>[1](#fn_10.md)
 
 THE Countess Godiva; who was a great lover of God's mother, longing to
 free the town of Coventry from the oppression of a heavy toll, often
@@ -42,9 +42,9 @@ On noble deeds, cancell'd a sense misus'd"
 
 ### Footnotes
 
-<span id="fn_10"></span>[1](efft09.htm#fr_10) Rope of Wendover. *Flowers
+<span id="fn_10"></span>[1](efft09.htm#fr_10.md) Rope of Wendover. *Flowers
 of History*. Dr. Giles' translation. *Sub anno* 1057.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of the Sons of the Conqueror](efft10)
+[Next: The Legend of the Sons of the Conqueror](efft10.md)

@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth104)  [Next](toth106) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth104)  [Next](toth106.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 102. THE DESTRUCTION OF SIKYÁTKI. <span id="fr_187"></span>[1](#fn_185)
+## 102. THE DESTRUCTION OF SIKYÁTKI. <span id="fr_187"></span>[1](#fn_185.md)
 
 Halíksai! A long time ago the people were living in Wálpi, but not on
 top of the mesa. The village was then west of the mesa where there are
@@ -94,9 +94,9 @@ even now charred corn is constantly found in the ruins.
 
 ### Footnotes
 
-<span id="fn_185"></span>[244:1](toth105.htm#fr_187) Told by Sik'áhpiki
+<span id="fn_185"></span>[244:1](toth105.htm#fr_187.md) Told by Sik'áhpiki
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
-[Next: 103. The Destruction of Aoátovi](toth106)
+[Next: 103. The Destruction of Aoátovi](toth106.md)

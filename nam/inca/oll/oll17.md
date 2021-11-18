@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll16)  [Next](oll18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll16)  [Next](oll18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -32,7 +32,7 @@ On heights towards Uilcañuta.
 Far off I saw a crowd in chains,  
 No doubt the Anti prisoners,  
 For they are all defeated quite.  
-The *cacti* <span id="fr_67"></span>[1](#fn_67) on the mountains
+The *cacti* <span id="fr_67"></span>[1](#fn_67.md) on the mountains
 smoke,  
 E'en now the fortress is in flames.  
   *Tupac Yupanqui*. And Ollantay, is he taken?  
@@ -74,9 +74,9 @@ Unable to resist our force.
 The circumstances of the war.
 
   *The Chasqui*. For a signal thy warriors wait.  
-The nights passed at Tinquiqueru, <span id="fr_68"></span>[1](#fn_68)  
+The nights passed at Tinquiqueru, <span id="fr_68"></span>[1](#fn_68.md)  
 Concealed in the cavern below,  
-Yanahuara <span id="fr_69"></span>[2](#fn_69) men joining us late.
+Yanahuara <span id="fr_69"></span>[2](#fn_69.md) men joining us late.
 
 We waited within the large cave,  
 Thy men always ready to fight,  
@@ -87,10 +87,10 @@ But for three long days and dark nights,
 No food for the zealous and bold;  
 Feeling hungry, thirsty, and cold,  
 We waited and watched for the lights. <span
-id="fr_70"></span>[3](#fn_70)
+id="fr_70"></span>[3](#fn_70.md)
 
 Rumi-ñaui sent orders at length,  
-When the *Raymi* <span id="fr_71"></span>[4](#fn_71) they carelessly
+When the *Raymi* <span id="fr_71"></span>[4](#fn_71.md) they carelessly
 keep,  
 And all of them drunk or asleep,  
 We were then to rush on with our strength.
@@ -181,7 +181,7 @@ With boiling water they are killed,
 
 <span id="page_396">p. 396</span>
 
-And I, poor flea, <span id="fr_72"></span>[1](#fn_72) must also die.  
+And I, poor flea, <span id="fr_72"></span>[1](#fn_72.md) must also die.  
   *Tupac Yupanqui*. Tell me, Hanco Huayllu, tell me,  
 Why art thou Ollantay's man?  
 Did not my father honour thee?  
@@ -200,14 +200,14 @@ Brings mercy and pardon to my heart.
 Death should ever be the doom  
 It is the only way, O King!  
 To warn all others from such guilt.  
-To stout *tocarpus* <span id="fr_73"></span>[2](#fn_73) they should be  
+To stout *tocarpus* <span id="fr_73"></span>[2](#fn_73.md) they should be  
 Secured and bound with toughest rope,  
 Then should the warriors freely shoot  
 Their arrows until death is caused.  
   *Piqui Chaqui*. Must it be that evermore  
 The Antis must all perish thus?  
 Alas! then let the branches burn  
-What pouring out of blood is here. <span id="fr_74"></span>[3](#fn_74)  
+What pouring out of blood is here. <span id="fr_74"></span>[3](#fn_74.md)  
   *Rumi-ñaui*. Silence, rash man, nor dare to speak,
 
 <span id="page_397">p. 397</span>
@@ -215,7 +215,7 @@ What pouring out of blood is here. <span id="fr_74"></span>[3](#fn_74)
 (*General lamentation outside*.)
 
 Having been rolled just like a stone,  
-My heart has now become a stone. <span id="fr_75"></span>[1](#fn_75)  
+My heart has now become a stone. <span id="fr_75"></span>[1](#fn_75.md)  
   *Tupac Yupanqui*. Know that *tocarpus* are prepared.  
 Remove those traitors from my sight,  
 Let them all perish, and at once.  
@@ -238,9 +238,9 @@ I will raise thee higher than before.
 Thou wert Chief of Anti-suyu,  
 Now see how far my love will go;  
 I make thee Chief in permanence.  
-Receive this *plume* <span id="fr_76"></span>[2](#fn_76) as general,  
-This *arrow* <span id="fr_77"></span>[2](#fn_76) emblem of
-command. <span id="fr_78"></span>[3](#fn_77)
+Receive this *plume* <span id="fr_76"></span>[2](#fn_76.md) as general,  
+This *arrow* <span id="fr_77"></span>[2](#fn_76.md) emblem of
+command. <span id="fr_78"></span>[3](#fn_77.md)
 
 <span id="page_398">p. 398</span>
 
@@ -319,7 +319,7 @@ Raised up like the star of the morn,
 For Colla this month I shall start;  
 All preparations are made.  
 In Cuzco Ollantay will stay,  
-My *Ranti* <span id="fr_79"></span>[1](#fn_78) and Viceroy and friend.
+My *Ranti* <span id="fr_79"></span>[1](#fn_78.md) and Viceroy and friend.
 
 <span id="page_400">p. 400</span>
 
@@ -327,7 +327,7 @@ My *Ranti* <span id="fr_79"></span>[1](#fn_78) and Viceroy and friend.
 Follow thee in the Chayanta war;  
 Thou knowest my love for such work.  
 Peaceful Cuzco is not to my taste,  
-I prefer to be thy *Cañari*, <span id="fr_80"></span>[1](#fn_79)  
+I prefer to be thy *Cañari*, <span id="fr_80"></span>[1](#fn_79.md)  
 To march in the van of thy force,  
 And not to be left in the rear.  
   *Tupac Yupanqui*. Thou shouldst find the wife of thy choice,  
@@ -439,42 +439,42 @@ This young maid assaults my heart.
 
 ### Footnotes
 
-<span id="fn_67"></span>[392:1](oll17.htm#fr_67) A kind of cactus, of
+<span id="fn_67"></span>[392:1](oll17.htm#fr_67.md) A kind of cactus, of
 which they make needles, grows abundantly on the mountains round
 Ollantay-tampu. It is called *ahuarancu*. They set fire to the cacti as
 a war signal. Zegarra calls it a thistle. The word in the Justiniani
 text is *ahuarancu*.
 
-<span id="fn_68"></span>[393:1](oll17.htm#fr_68) See note, [p.
-371](oll09.htm#page_371).
+<span id="fn_68"></span>[393:1](oll17.htm#fr_68.md) See note, [p.
+371](oll09.htm#page_371.md).
 
-<span id="fn_69"></span>[393:2](oll17.htm#fr_69) Yanahuara, a ravine
+<span id="fn_69"></span>[393:2](oll17.htm#fr_69.md) Yanahuara, a ravine
 near Urubamba, where some of the troops of Rumi-ñaui had been posted.
 
-<span id="fn_70"></span>[393:3](oll17.htm#fr_70) Signal lights.
+<span id="fn_70"></span>[393:3](oll17.htm#fr_70.md) Signal lights.
 
-<span id="fn_71"></span>[393:4](oll17.htm#fr_71) Ccapac Raymi, the great
+<span id="fn_71"></span>[393:4](oll17.htm#fr_71.md) Ccapac Raymi, the great
 festival of the Sun. December 22.
 
-<span id="fn_72"></span>[396:1](oll17.htm#fr_72) *Piqui Chaqui* is
+<span id="fn_72"></span>[396:1](oll17.htm#fr_72.md) *Piqui Chaqui* is
 literally 'flea foot.' He is punning on his name.
 
-<span id="fn_73"></span>[396:2](oll17.htm#fr_73) *Tocarpu*, a pole or
+<span id="fn_73"></span>[396:2](oll17.htm#fr_73.md) *Tocarpu*, a pole or
 stake used at executions. Condemned prisoners were fastened to a
 *tocarpu* before being hurled over a precipice.
 
-<span id="fn_74"></span>[396:3](oll17.htm#fr_74) Piqui Chaqui had an
+<span id="fn_74"></span>[396:3](oll17.htm#fr_74.md) Piqui Chaqui had an
 inkling that the Inca had expressed dislike at the shedding of blood. He
 ventured to say these words in the faint hope that they might remind the
 Inca of this dislike.
 
-<span id="fn_75"></span>[397:1](oll17.htm#fr_75) Rumi-ñaui at it again:
+<span id="fn_75"></span>[397:1](oll17.htm#fr_75.md) Rumi-ñaui at it again:
 for ever ringing changes on his name *rumi*, a stone.
 
-<span id="fn_76"></span>[397:2](oll17.htm#fr_77) The plume and the arrow
+<span id="fn_76"></span>[397:2](oll17.htm#fr_77.md) The plume and the arrow
 were the insignia of a general.
 
-<span id="fn_77"></span>[397:3](oll17.htm#fr_78) Rather a staggerer for
+<span id="fn_77"></span>[397:3](oll17.htm#fr_78.md) Rather a staggerer for
 Rumi-ñaui! Perhaps, too, the change is too sudden, and infringes the
 probabilities. Tupac Yupanqui may have thought that his father had been
 unjust and that there were excuses. It is known that the young Inca was
@@ -484,9 +484,9 @@ may have valued Ollantay's known valour and ability, and have been loth
 to lose his services. All these considerations may have influenced him
 more or less. The rebels were the best men he had.
 
-<span id="fn_78"></span>[399:1](oll17.htm#fr_79) *Ranti*, a deputy.
+<span id="fn_78"></span>[399:1](oll17.htm#fr_79.md) *Ranti*, a deputy.
 
-<span id="fn_79"></span>[400:1](oll17.htm#fr_80) *Cañari*, a warlike
+<span id="fn_79"></span>[400:1](oll17.htm#fr_80.md) *Cañari*, a warlike
 tribe of Indians, in the south part of the kingdom of Quito. They were
 first conquered by Tupac Yupanqui, and they became devoted to him.
 
@@ -494,6 +494,6 @@ first conquered by Tupac Yupanqui, and they became devoted to him.
 
 ------------------------------------------------------------------------
 
-[Next: Scene 7](oll18)
+[Next: Scene 7](oll18.md)
 
 </div>

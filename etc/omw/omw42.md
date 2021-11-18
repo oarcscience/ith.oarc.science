@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw41)  [Next](omw43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw41)  [Next](omw43.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ lamented because she could not die.
 
 ------------------------------------------------------------------------
 
-[Next: Pomona and Vertumnus](omw43)
+[Next: Pomona and Vertumnus](omw43.md)

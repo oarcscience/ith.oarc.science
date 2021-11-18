@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap02) [Next](chap04)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap02) [Next](chap04.md)
 
 ------------------------------------------------------------------------
 
@@ -223,4 +223,4 @@ faith ended in a fiasco.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Church, State and Camp](chap04)
+[Next: Chapter IV: Church, State and Camp](chap04.md)

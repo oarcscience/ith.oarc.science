@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim13)  [Next](sim15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim13)  [Next](sim15.md) 
 
 ------------------------------------------------------------------------
 
@@ -252,4 +252,4 @@ have of the world before this.
 ------------------------------------------------------------------------
 
 [Next: The Man-Eating Wife, the Little Old Woman and the Morning
-Star](sim15)
+Star](sim15.md)

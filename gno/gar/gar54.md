@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar53)  [Next](gar55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar53)  [Next](gar55.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -79,7 +79,7 @@ evidence." "Going back to A.D. 300 we find the Emperor Carausius
 supporting it, and appointing Albanus, his Steward, Grand Master. This
 was none other than the famous St. Alban, the first British martyr, who
 was born at Verulam, now St. Albans, in Hertfordshire." <span
-id="fr_222"></span>[\*](#fn_220)
+id="fr_222"></span>[\*](#fn_220.md)
 
 The above is an unusually brilliant specimen of the logic of the
 Brotherhood, that assumes in every notice of *building* and *builders*
@@ -109,7 +109,7 @@ against no higher things than mere "trade-union" proceedings. But at a
 later period he showed the Masons more favour, and even attended their
 meetings, as did his contemporary James I. of Scotland. But the question
 is set at rest by the language of the Act: <span
-id="fr_223"></span>[\*](#fn_221) "First, Whereas by the assembling
+id="fr_223"></span>[\*](#fn_221.md) "First, Whereas by the assembling
 congregations and confederacies made by the Masons in their grand
 chapters and assemblies the good cause and effect of the *Statute of
 Labourers* be openly violated and broken, in subversion of the law and
@@ -127,13 +127,13 @@ fine and ransom at the king's will."
 
 ### Footnotes
 
-<span id="fn_220"></span>[376:\*](gar54.htm#fr_222) From a letter
+<span id="fn_220"></span>[376:\*](gar54.htm#fr_222.md) From a letter
 published in the 'Cork Constitution,' Jan. 15, 1866, by John Milner,
 B.A., Chaplain to H.M.S. Hector.
 
-<span id="fn_221"></span>[377:\*](gar54.htm#fr_223) 'Statutes at Large,'
+<span id="fn_221"></span>[377:\*](gar54.htm#fr_223.md) 'Statutes at Large,'
 ed. Keble, 1695. 3 Hen. VI. cap. 1.
 
 ------------------------------------------------------------------------
 
-[Next: The Earliest Masonic Document](gar55)
+[Next: The Earliest Masonic Document](gar55.md)

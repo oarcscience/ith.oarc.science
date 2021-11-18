@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort20)  [Next](kort22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort20)  [Next](kort22.md) 
 
 ------------------------------------------------------------------------
 
-# 17. How Big-Raven's Daughter was swallowed by a Kamak. <span id="fr_37"></span>[1](#fn_37)
+# 17. How Big-Raven's Daughter was swallowed by a Kamak. <span id="fr_37"></span>[1](#fn_37.md)
 
 Big-Raven was living with his people. One of his daughters was (almost)
 eaten by lice. They shook her combination suit, and found there one
@@ -63,7 +63,7 @@ with that knife she ripped open his body (insides). The evil spirit
 died, and she came out. The next morning, when they awoke, a woman was
 busying herself around their house. (The mistress) said, "Who are
 you?"--"I (am the one who) ate you yesterday)." <span
-id="fr_38"></span>[3](#fn_38)
+id="fr_38"></span>[3](#fn_38.md)
 
 <span id="page_80">p. 80</span> <span id="page_81">p. 81</span>
 
@@ -80,13 +80,13 @@ and grew rich. That is all.
 
 ### Footnotes
 
-<span id="fn_37"></span>[77:1](kort21.htm#fr_37) Compare Jochelson, The
+<span id="fn_37"></span>[77:1](kort21.htm#fr_37.md) Compare Jochelson, The
 Koryak, *l. c.*, No. 103, p. 291.
 
-<span id="fn_38"></span>[79:3](kort21.htm#fr_38) The ka'mak turned into
+<span id="fn_38"></span>[79:3](kort21.htm#fr_38.md) The ka'mak turned into
 an ordinary human being; namely, into a woman, who was assisting them in
 their work.
 
 ------------------------------------------------------------------------
 
-[Next: 18. The Kamak and his Wife](kort22)
+[Next: 18. The Kamak and his Wife](kort22.md)

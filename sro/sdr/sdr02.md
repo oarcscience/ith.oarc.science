@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sdr01)  [Next](sdr03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sdr01)  [Next](sdr03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Doctrine of the Rosicrucians*, by Magus Incognito, \[1918\],
 at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ at Intangible Textual Heritage
 
 <span id="img_fig01"></span> <span align="CENTER"> [![Figure 1. Mystic
 Symbol of the Rosicrucian Brotherhood](tn/fig01.jpg)  
-Click to enlarge](img/fig01.jpg)  
+Click to enlarge](img/fig01.jpg.md)  
 Figure 1. Mystic Symbol of the Rosicrucian Brotherhood  
 </span>
 
@@ -169,7 +169,7 @@ to work out well in this connection.
 It is difficult to convey to the average European or American the true
 reasons underlying the Secrecy which invariably surrounds the Esoteric
 Teachings of all the great schools of occult thought. Such a person is
-inclined to think that the only reason [therefore](errata.htm#0) is the
+inclined to think that the only reason [therefore](errata.htm#0.md) is the
 delight in "mystery mongering" which he thinks he finds among all occult
 teachers. But to one who penetrates even but a short distance on The
 Path, the true reasons are perceived. Such a one perceives the dangers
@@ -399,7 +399,7 @@ of mortal life (symbolized by the Cross).
 
 <span id="img_fig02"></span> <span align="CENTER"> [![Figure 2. The
 Symbol of the Rosy Cross. (Conventionalized)](tn/fig02.jpg)  
-Click to enlarge](img/fig02.jpg)  
+Click to enlarge](img/fig02.jpg.md)  
 Figure 2. The Symbol of the Rosy Cross. (Conventionalized)  
 </span>
 
@@ -436,4 +436,4 @@ things."
 
 ------------------------------------------------------------------------
 
-[Next: Part II. The Eternal Parent](sdr03)
+[Next: Part II. The Eternal Parent](sdr03.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg93)  [Next](btg95) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg93)  [Next](btg95.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ shall reach the very topmost height! But they must be anxious to learn."
 
 ------------------------------------------------------------------------
 
-[Next: The Buddha Announces His Death](btg95)
+[Next: The Buddha Announces His Death](btg95.md)

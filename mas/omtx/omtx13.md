@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx12)  [Next](omtx14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx12)  [Next](omtx14.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ Fellow-Crafts;
 Master Masons;.  
 Deacons;  
 Secretary and Treasurer;  
-Two Brethren, carrying the Lodge <span id="fr_0"></span>[1](#fn_0)  
+Two Brethren, carrying the Lodge <span id="fr_0"></span>[1](#fn_0.md)  
 Junior and Senior Wardens;  
 The Holy Writings, carried by the oldest  
 Member, not in office;  
@@ -61,7 +61,7 @@ THE GRAND LODGE.
 Grand Tiler, with a drawn sword;  
 Grand Stewards, with white rods;  
 A Brother, carrying a golden vessel of corn; <span
-id="fr_1"></span>[2](#fn_1)  
+id="fr_1"></span>[2](#fn_1.md)  
 Two Brethren, carrying silver vessels,  
 one of wine, the other of oil;  
 Grand Secretary;  
@@ -194,11 +194,11 @@ and closes in ample form.
 
 ### Footnotes
 
-<span id="fn_0"></span>[126:1](omtx13.htm#fr_0) Generally the floor or
+<span id="fn_0"></span>[126:1](omtx13.htm#fr_0.md) Generally the floor or
 carpet.
 
-<span id="fn_1"></span>[126:2](omtx13.htm#fr_1) Wheat.
+<span id="fn_1"></span>[126:2](omtx13.htm#fr_1.md) Wheat.
 
 ------------------------------------------------------------------------
 
-[Next: Masonic Burial Service](omtx14)
+[Next: Masonic Burial Service](omtx14.md)

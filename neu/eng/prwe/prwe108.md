@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe107)  [Next](prwe109) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe107)  [Next](prwe109.md) 
 
 ------------------------------------------------------------------------
 
@@ -260,4 +260,4 @@ remarkable ballad can scarcely have found its way, even yet, to Boscean.
 
 ------------------------------------------------------------------------
 
-[Next: Duffy and the Devil](prwe109)
+[Next: Duffy and the Devil](prwe109.md)

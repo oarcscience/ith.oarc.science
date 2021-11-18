@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe255)  [Next](prwe257) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe255)  [Next](prwe257.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ Annals of Scotland, p. 304.
 
 ------------------------------------------------------------------------
 
-[Next: Snakes Avoid the Ash-Tree](prwe257)
+[Next: Snakes Avoid the Ash-Tree](prwe257.md)

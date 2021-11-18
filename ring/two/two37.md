@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Index](index)  [Previous](two36)  [Next](two38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Index](index)  [Previous](two36)  [Next](two38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Worm Ouroboros*, by E. R. Eddison, \[1922\], at Intangible Textual
 Heritage
 
@@ -655,7 +655,7 @@ their helms was a wonder to behold. This was the order of their battle.
 On their left nearest the river was a great company of horse, and the
 Lord Brandoch Daha to lead them on a great golden dun with fiery eyes.
 His island men, Melchar and Tharmrod, with Kamerar of Stropardon and
-[Styrkmir](errata.htm#3) and Stypmar, were the chief captains that rode
+[Styrkmir](errata.htm#3.md) and Stypmar, were the chief captains that rode
 with him to that battle. Next to these came the heavy troops from the
 east, and the Lord Juss himself their leader on a tall fierce big-boned
 chestnut. About him was his picked bodyguard of horse, with Bremery of
@@ -936,4 +936,4 @@ seen a sight beyond the veil.
 
 ------------------------------------------------------------------------
 
-[Next: XXXII. The Latter End of All the Lords of Witchland](two38)
+[Next: XXXII. The Latter End of All the Lords of Witchland](two38.md)

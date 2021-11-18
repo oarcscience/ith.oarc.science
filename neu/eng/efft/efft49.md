@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft48)  [Next](efft50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft48)  [Next](efft50.md) 
 
 ------------------------------------------------------------------------
 
 # WITCHCRAFT.
 
-### THE LORD OF PENGERSWICK.  <span id="fr_56"></span>[1](#fn_56)
+### THE LORD OF PENGERSWICK.  <span id="fr_56"></span>[1](#fn_56.md)
 
 ### I.
 
@@ -194,9 +194,9 @@ shore, and compel her to peace.
 
 ### Footnotes
 
-<span id="fn_56"></span>[1](efft49.htm#fr_56) Robert Hunt, *Popular
+<span id="fn_56"></span>[1](efft49.htm#fr_56.md) Robert Hunt, *Popular
 Romances of the West of England*, 2nd series, p. 86.
 
 ------------------------------------------------------------------------
 
-[Next: The Witch and the Toad](efft50)
+[Next: The Witch and the Toad](efft50.md)

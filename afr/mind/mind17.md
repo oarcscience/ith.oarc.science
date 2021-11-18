@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mind16)  [Next](mind18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mind16)  [Next](mind18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *At the Back of the Black Man's Mind*, by Richard Edward Dennett,
 \[1906\], at Intangible Textual Heritage
 
@@ -363,6 +363,6 @@ this philosophy among the Bini.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 18. Benin Districts](mind18)
+[Next: Chapter 18. Benin Districts](mind18.md)
 
 </div>

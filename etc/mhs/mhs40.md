@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs39)  [Next](mhs41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs39)  [Next](mhs41.md) 
 
 ------------------------------------------------------------------------
 
@@ -328,4 +328,4 @@ apartment opened, and called her to him, never to go away any more.
 
 ------------------------------------------------------------------------
 
-[Next: X. The Salt-cellar](mhs41)
+[Next: X. The Salt-cellar](mhs41.md)

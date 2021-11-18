@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](sal01)  [Next](abr00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](sal01)  [Next](abr00.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ situation of Sâlih (PUH) with his people, and may God help us.
 
 ------------------------------------------------------------------------
 
-[Next: Abraham The God's Friend (PUH)](abr00)
+[Next: Abraham The God's Friend (PUH)](abr00.md)

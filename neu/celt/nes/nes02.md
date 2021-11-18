@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes01)  [Next](nes03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes01)  [Next](nes03.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 ### INTRODUCTION.
 
-Personal, pp. [1](nes03.htm#page_1)-3.
+Personal, pp. [1](nes03.htm#page_1.md)-3.
 
 ### CHAPTER I.
 
@@ -33,7 +33,7 @@ hung up--Mother watched till churched--Child, till baptized--Mother not
 allowed to work till churched--Not allowed to enter a neighbour's
 house--Why prevented--Mode of churching in Scotland--If unable to go to
 church what she did--Water first fetched from well by mother in a
-thimble--Or in a vessel of small size, pp. [4](nes04.htm#page_4)-6.
+thimble--Or in a vessel of small size, pp. [4](nes04.htm#page_4.md)-6.
 
 ### CHAPTER II.
 
@@ -54,7 +54,7 @@ speaks before walking
 
 a liar--Something given to child on first entering a house--The
 cradle--A child not put into a new cradle--A borrowed cradle-Cradle not
-placed on ground till carried into house, pp. [7](nes05.htm#page_7)-10.
+placed on ground till carried into house, pp. [7](nes05.htm#page_7.md)-10.
 
 ### CHAPTER III.
 
@@ -70,7 +70,7 @@ eyes--Child ought to cry when water fell on its face--What done with the
 water of baptism--Drunk to strengthen the memory--Ceremonies if child
 carried out of house for baptism--Girl baptized first, when boy and girl
 baptized at one time--A girl brought to church and not baptized never
-married--*Fuarag* pp. [11](nes06.htm#page_11)-13.
+married--*Fuarag* pp. [11](nes06.htm#page_11.md)-13.
 
 ### CHAPTER IV.
 
@@ -82,7 +82,7 @@ various parts of the body--On giving the child food--On being undressed
 for bed--On getting sulky--On mounting a stick as a "horse "--On
 dandling a child on the knee--On two children placing themselves back to
 back and alternately lifting each other--Various--On the numbers up to
-twenty--"The Souters' Grace," pp. [14](nes07.htm#page_14)-20.
+twenty--"The Souters' Grace," pp. [14](nes07.htm#page_14.md)-20.
 
 ### CHAPTER V.
 
@@ -90,7 +90,7 @@ twenty--"The Souters' Grace," pp. [14](nes07.htm#page_14)-20.
 
 The rule of the ring--Of a race--Of bargain--making--Of making a
 gift--Acting the informer--Lying--Asking sweetmeats--When anything is
-found, pp. [21](nes08.htm#page_21)-24.
+found, pp. [21](nes08.htm#page_21.md)-24.
 
 ### CHAPTER VI.
 
@@ -112,7 +112,7 @@ ears--A glow in the ears--An itching in the eyes--In the nose--In the
 palm of the right hand--In that of the left--In the soles of the
 feet--Sneezing--The deaf and dumb--Their faculty of knowing the
 future--Consulted about distant friends--In love affairs--Those of weak
-intellect, pp. [25](nes09.htm#page_25)-28.
+intellect, pp. [25](nes09.htm#page_25.md)-28.
 
 ### CHAPTER VII.
 
@@ -140,7 +140,7 @@ breakfast--Tea-stalk floating in cup--A black speck on a burning
 candle--A film of carbon on rib of grate--Fiery spots on the bottom of a
 pot, "Sodgers"--Theft of a five-pound note--How recovered--A nobleman's
 horses stopped--How relieved--Theft--Unwillingness to take back stolen
-property, pp. [29](nes10.htm#page_29)-33.
+property, pp. [29](nes10.htm#page_29.md)-33.
 
 ### CHAPTER VIII.
 
@@ -168,7 +168,7 @@ by the Church--Clach-na-bhan--Cure of the "Ill Ee"--Of
 Forespeaking--Casting the heart--Cure of sleepy fever--Of epilepsy----Of
 rickets--Of lumbago, rheumatism, sprains--Of whooping-cough--Of eye
 disease--Of erysipelas or "rose"--Of sting of nettle--Of ringworm--Of
-toothache--Of warts--Of hiccup, pp. [34](nes11.htm#page_34)-49.
+toothache--Of warts--Of hiccup, pp. [34](nes11.htm#page_34.md)-49.
 
 ### CHAPTER IX.
 
@@ -184,7 +184,7 @@ for going in and out of hens--"Trance"--"But ein"--Furniture--Houses of
 fishing population--Houses with but one door for men and
 beasts--Ceremonies on leaving a house--How to take away the luck from
 next occupier--Throwing cat into house carried off disease if any left,
-pp. [50](nes12.htm#page_50)-53.
+pp. [50](nes12.htm#page_50.md)-53.
 
 ### CHAPTER X.
 
@@ -197,7 +197,7 @@ knitting, spinning, sewing--Men making candles from bog-fir,
 manufacturing harrow-tynes, &c.--Scholars preparing
 school-lessons--Singing songs and ballads--Telling
 stories--Riddles--Visitors--Amusements--Beggars--"Quarterer"--The
-chapman--The tailor, pp. [54](nes13.htm#page_54)-58.
+chapman--The tailor, pp. [54](nes13.htm#page_54.md)-58.
 
 ### CHAPTER XI.
 
@@ -223,7 +223,7 @@ borrowing
 from men--Particularly meal--A fixed measure of it--A tradition--Avenged
 a slight--Animals fell under their anger--A tradition--Their musical
 skill--Took to fishing--Baked during sunshine in rain--Ate counted
-cakes--A furl o’ fairies ween," pp. [59](nes14.htm#page_59)-65.
+cakes--A furl o’ fairies ween," pp. [59](nes14.htm#page_59.md)-65.
 
 ### CHAPTER XII.
 
@@ -234,7 +234,7 @@ horse--Enticed the traveller to destruction--Caused annoyance to
 farms--Could be caught--Mode of capture--Made to do hard work--Could be
 killed--Traditions--Guardian demons in pools--Danger of going into such
 pools--A tradition--Blood-thirstiness of streams and rivers, pp.
-[66](nes15.htm#page_66), 67.
+[66](nes15.htm#page_66.md), 67.
 
 ### CHAPTER XIII.
 
@@ -244,7 +244,7 @@ Mansions haunted by ghosts--Traditions--How to get rid of
 them--Excessive grief brought back the spirit--Spirit of the murdered
 one returned till the murderer was brought to justice--Spirit itself the
 executioner of justice--Woods, bridges, graveyards haunted, pp.
-[68](nes16.htm#page_68)-70.
+[68](nes16.htm#page_68.md)-70.
 
 ### CHAPTER XIV.
 
@@ -252,7 +252,7 @@ executioner of justice--Woods, bridges, graveyards haunted, pp.
 
 Belief in witchcraft--The witch an old woman--Her power derived from
 Satan--What she could do--Her revenge--A tradition--Men had the
-power--It went down in families, pp. [71](nes17.htm#page_71), 72.
+power--It went down in families, pp. [71](nes17.htm#page_71.md), 72.
 
 ### CHAPTER XV.
 
@@ -262,7 +262,7 @@ Belief in "Black Airt"--Professors of it in communion with Satan--What
 it was--Taught in Spain and Italy--A tradition--Devil compacts--How
 made--Price of contract--Power of those who made such compacts--Time of
 contract prolonged--A tradition--"Hell-Fire Club"--Life of its
-members--Their fate, pp. [73](nes18.htm#page_73)-75.
+members--Their fate, pp. [73](nes18.htm#page_73.md)-75.
 
 ### CHAPTER XVI.
 
@@ -283,7 +283,7 @@ lady--A woman fetching water in wooden pails--A black cow in a snowy
 day--Scatterty's cat--Time when most holes in the ground--Hay--A
 window--The cock--A nail in a horse's shoe--Noah striking the first nail
 of the ark--One's shoes--One's shadow--Hell--The whiting--Tod's tails to
-reach the moon--An icicle, pp. [76](nes19.htm#page_76)-82.
+reach the moon--An icicle, pp. [76](nes19.htm#page_76.md)-82.
 
 ### CHAPTER XVII.
 
@@ -346,7 +346,7 @@ Fit"--Sailor's marriage--Ceremonies on entering her home--What the bride
 provides--What the husband provides--Taking home of the
 "Plinisan"--Marriages in Crovie--In Rosehearty--Bridal bed in
 Gardenston--The "Beddan "--Custom in Boddam--Presents to newly-married
-pair, pp. [83](nes20.htm#page_83)-101.
+pair, pp. [83](nes20.htm#page_83.md)-101.
 
 ### CHAPTER XVIII.
 
@@ -363,7 +363,7 @@ Fergus--Kilbirnie--Keith--Marna--Mormond--Mount
 Mar--Lochnagar--Clochnaben--Bennochie--Pitfodels--Mearns--Pittentyoul--Pittendrum--Aberdour--Rattrayhead--Rivven
 (Ruthven)--St. Brandon--St. Olav's Well--Brig o’ Turra--Little
 Ugie--Druidical circles--The Helliman Rig at Killishment--The "Gudmahns'
-Craft"--Caves, pp. [102](nes21.htm#page_102)--116.
+Craft"--Caves, pp. [102](nes21.htm#page_102.md)--116.
 
 ### CHAPTER XIX.
 
@@ -371,7 +371,7 @@ Craft"--Caves, pp. [102](nes21.htm#page_102)--116.
 
 Aberdeen--Drum--Duff--Fraser--Gordon--Hay--Earl of
 Mar--Ogilvie--Strathbogie--Towie Barclay, pp.
-[117](nes22.htm#page_117)-122.
+[117](nes22.htm#page_117.md)-122.
 
 ### CHAPTER XX.
 
@@ -396,7 +396,7 @@ salmon and the trout--Insects--The burying-beetle--The ladybird--The
 Ant--Bees--Moths--Spiders--The green crab--The hairworm--The black
 snail. Section IV.--Trees and plants--The aspen--The
 bluebell--Broom--Whin--Turnip blossom--Wild fruits--Omens from first dug
-potatoes--The puff-ball, pp. [123](nes23.htm#page_123)--148.
+potatoes--The puff-ball, pp. [123](nes23.htm#page_123.md)--148.
 
 ### CHAPTER XXI.
 
@@ -415,7 +415,7 @@ lying in new moon--Mist--Mock sun--The rainbow--Thunder--Snow--Snow
 rhyme--Snow--Rain rhyme--Rain before seven A.M.--A "Borie"--Rain from
 south-west--Dust blowing--Mist--Clouds--The wind--"The song of the
 sea"--"The dog afore his maister"--"The dog ahin his maister," pp.
-[149](nes24.htm#page_149)-155.
+[149](nes24.htm#page_149.md)-155.
 
 ### CHAPTER XXII.
 
@@ -450,21 +450,21 @@ dreaming over the ring--Bannocks--Fortunetelling from eggs that partly
 composed the bannocks--The "Sautie bannock"--How prepared--How used--No
 spinning on that day--Playing the ball--Cock-fighting--Valentine
 Day--Peace Sunday eggs--Beltane fires--Hallowe’en fires near
-villages--Near farm-steadings, pp. [156](nes25.htm#page_156)-168.
+villages--Near farm-steadings, pp. [156](nes25.htm#page_156.md)-168.
 
 ### CHAPTER XXIII.
 
 #### COUNTINGS OUT.
 
 In use in Fraserburgh--Tyrie--Pitsligo--Rathen--Portosy--Keith--Banff,
-pp. [169](nes26.htm#page_169)-175.
+pp. [169](nes26.htm#page_169.md)-175.
 
 ### CHAPTER XXIV.
 
 #### WASHING DAY.
 
 Little or no soap--Cow-dung as a detergent--"Book"--"Hen-pen"--Yearly
-washing--Washing rhyme, pp. [176](nes27.htm#page_176)-177.
+washing--Washing rhyme, pp. [176](nes27.htm#page_176.md)-177.
 
 ### CHAPTER XXV.
 
@@ -526,7 +526,7 @@ hand--Cow not milked on the morning when taken to market--"Seal" went
 along with milch cow when sold--The "Hird"--His club made of ash--Reason
 for so doing--"Jockies plew"--Number of cattle notched on club--A
 tradition--Each animal had a name--"Hird" Rhyme, pp.
-[177](nes27.htm#page_177)-196.
+[177](nes27.htm#page_177.md)-196.
 
 ### CHAPTER XXVI.
 
@@ -550,7 +550,7 @@ at with finger--Nor counted--Nor women counted when travelling to sell
 fish--Certain family names not pronounced in Buckie--Anecdote--Whyte an
 unlucky name in other villages--Mode of curing haddocks--Different kinds
 of cured haddocks--Other fish--Mode of selling--Ceremony on New Year's
-Day, pp. [197](nes29.htm#page_197)-202.
+Day, pp. [197](nes29.htm#page_197.md)-202.
 
 ### CHAPTER XXVII.
 
@@ -577,7 +577,7 @@ burning--A tradition--Time of death--Drowning--Body floated on ninth
 day--Reason--Mode of finding body--Body of suicide--Murder--Murderer
 touching body causes blood to flow--The lyke-wake--The "Kistan"--The
 "Waukan"--How time employed--Sometimes practical jokes--"Tobacco
-Nichts," pp. [203](nes30.htm#page_203)-209.
+Nichts," pp. [203](nes30.htm#page_203.md)-209.
 
 ### CHAPTER XXVIII.
 
@@ -606,12 +606,12 @@ children--Graveyards--Reluctance to put first body in a new graveyard--A
 tradition--The "Meels"--The mortcloth--Coffins--Graveyards haunted--Mode
 of making contract with the devil--Mode of "arresting" a man or a
 beast--Mould of graveyard used in sorcery--Forbidden by the Church, pp.
-[210](nes31.htm#page_210)-216.
+[210](nes31.htm#page_210.md)-216.
 
-GLOSSARY, pp. [217](nes32.htm#page_217)-225.
+GLOSSARY, pp. [217](nes32.htm#page_217.md)-225.
 
 INDEX, pp. 227-238.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](nes03)
+[Next: Introduction](nes03.md)

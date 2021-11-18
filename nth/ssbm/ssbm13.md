@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssbm12)  [Next](ssbm14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssbm12)  [Next](ssbm14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Science Behind Miracles*, by Max Freedom Long, \[1948\], at
 Intangible Textual Heritage
 
@@ -704,4 +704,4 @@ Psychologies, also, to a lesser extent, various religious beliefs.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. The Life-Giving Secrets of Lomilomi and Laying on
-of Hands](ssbm14)
+of Hands](ssbm14.md)

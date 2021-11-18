@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa25)  [Next](soa27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa25)  [Next](soa27.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ has still got history to give to the world. \[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Arts and Sciences](soa27)
+[Next: Arts and Sciences](soa27.md)

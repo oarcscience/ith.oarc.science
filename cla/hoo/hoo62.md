@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo61)  [Next](hoo63) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo61)  [Next](hoo63.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ And far avert, unlawful mad desires.
 
 ------------------------------------------------------------------------
 
-[Next: LVIII: To The Fates](hoo63)
+[Next: LVIII: To The Fates](hoo63.md)

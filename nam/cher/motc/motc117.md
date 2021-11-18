@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc116) 
-[Next](motc118) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc116.md) 
+[Next](motc118.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ On the sunny side go to sleep, go to sleep.
 
 ------------------------------------------------------------------------
 
-[Next: 118. Baby Song, To Please The Children](motc118)
+[Next: 118. Baby Song, To Please The Children](motc118.md)

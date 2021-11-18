@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg002) [Next](aflg004)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg002) [Next](aflg004.md)
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ American](../index) [Index](index) [Previous](aflg002) [Next](aflg004)
 
 ------------------------------------------------------------------------
 
-[Next](aflg004)
+[Next](aflg004.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](tao82)  [Next](ltw86) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](tao82)  [Next](ltw86.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../img/t_yy.jpg)](index)  
+[![](../img/t_yy.jpg)](index.md)  
 *Laotzu's Tao and Wu Wei*, by Dwight Goddard and Henri Borel, \[1919\],
 at Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ Little is contained in Laotzu's short, extremely simple book, the words
 of which may be said to be condensed into their purely primary
 significance--(a significance at times quite at variance with that given
 in other works to the same words  <span
-id="fr_0"></span>[1](#fn_0))--but this little is gospel. Laotzu's work
+id="fr_0"></span>[1](#fn_0).md)--but this little is gospel. Laotzu's work
 is no treatise on philosophy, but contains, rather, merely those truths
 to which this (unwritten)
 
@@ -78,9 +78,9 @@ HENRI BOREL.
 
 ### Footnotes
 
-<span id="fn_0"></span>[57:1](ltw85.htm#fr_0) By Confucius, for
+<span id="fn_0"></span>[57:1](ltw85.htm#fr_0.md) By Confucius, for
 instance.
 
 ------------------------------------------------------------------------
 
-[Next: Contents of Wu Wei, by Henri Borel](ltw86)
+[Next: Contents of Wu Wei, by Henri Borel](ltw86.md)

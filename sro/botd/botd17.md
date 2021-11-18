@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](botd16)  [Next](botd18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](botd16)  [Next](botd18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Brother of the Third Degree*, by Will L. Garver, \[1894\], at
 Intangible Textual Heritage
 
@@ -545,7 +545,7 @@ Saroy has left for Vienna.
 
 Poor Kroez as a raving maniac can do no more harm; fearful is the
 penalty to him who violates his oath when he has invoked the demons of
-destruction. <span id="fr_0"></span>[\*](#fn_0)
+destruction. <span id="fr_0"></span>[\*](#fn_0.md)
 
 <span id="page_309">p. 309</span>
 
@@ -605,7 +605,7 @@ As the current ceased to flow through my temples, I sank back to sleep.
 
 ### Footnotes
 
-<span id="fn_0"></span>[308:\*](botd17.htm#fr_0) Kroez, after
+<span id="fn_0"></span>[308:\*](botd17.htm#fr_0.md) Kroez, after
 twenty-five years of almost constant study without any high or
 altruistic motives, had stumbled, as it were, upon one of the great
 secrets of occultism. The discovery was of course immediately known at
@@ -641,4 +641,4 @@ been united with his God.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Napoleon the Great](botd18)
+[Next: Chapter XVII. Napoleon the Great](botd18.md)

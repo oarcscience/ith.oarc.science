@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Next](alex1)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Next](alex1.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ Silesius](../index)
 
 ------------------------------------------------------------------------
 
-[Next](alex1)
+[Next](alex1.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss17)  [Next](oss19) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss17)  [Next](oss19.md) 
 
 ------------------------------------------------------------------------
 
@@ -228,4 +228,4 @@ Colmal. They dwelt in the halls of Teutha.
 
 ------------------------------------------------------------------------
 
-[Next: The War of Caros](oss19)
+[Next: The War of Caros](oss19.md)

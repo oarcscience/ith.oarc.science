@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sis06)  [Next](sis08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sis06)  [Next](sis08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4VJ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4VJ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shamanism in Siberia*, by M.A. Czaplicka, \[1914\], at Intangible
 Textual Heritage
 
@@ -657,4 +657,4 @@ indicates by moving about the *yurta* on tiptoe, to represent flying.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Shamanism and Sex](sis08)
+[Next: Chapter XII. Shamanism and Sex](sis08.md)

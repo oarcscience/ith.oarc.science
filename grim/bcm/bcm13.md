@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm12)  [Next](bcm14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm12)  [Next](bcm14.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ than has already been accorded some of them in the slight sketch at the
 close of the first chapter.
 
 Mr. Mathers' presentation of the *Key of Solomon*, <span
-id="fr_29"></span>[1](#fn_29) which is still in print, though the work
+id="fr_29"></span>[1](#fn_29.md) which is still in print, though the work
 of an uncritical hand, must be held to remove the necessity for entering
 into a detailed account of the Contents of that curious work. So far as
 it has been incorporated by the later makers of Grimoires, it will be
@@ -54,7 +54,7 @@ editor is in contracted Latin, and belongs to the sixteenth century. It
 is preserved in the British Museum. It is possible that older MSS. may
 exist in Continental libraries, but those of the Bibliothèque Nationale
 and of the Arsénal at Paris are of later date. <span
-id="fr_30"></span>[2](#fn_30) The majority of known MSS. are in the
+id="fr_30"></span>[2](#fn_30.md) The majority of known MSS. are in the
 French language. It is, however, claimed that the work was written
 originally in Hebrew. In this claim there is nothing essentially
 improbable, but it has the disadvantage of being championed by the last
@@ -87,7 +87,7 @@ termination of this question that in the eighteenth century the Abbé
 d'Artigny mentions various examples of the Key of Solomon in Latin, and
 also an edition printed in 1655, which is not only unknown to Mr.
 Mathers, but seemingly to all modern bibliographers. <span
-id="fr_31"></span>[1](#fn_31)
+id="fr_31"></span>[1](#fn_31.md)
 
 <span id="page_61">p. 61</span>
 
@@ -95,7 +95,7 @@ Leaving the language of the original an open question, it is clear that,
 in either case, there is no ground for attributing to the *Key of
 Solomon* in its present form a higher antiquity than the fourteenth or
 fifteenth century, at which time Hebrew literature was developing at a
-rapid rate. <span id="fr_32"></span>[1](#fn_32) If it were first written
+rapid rate. <span id="fr_32"></span>[1](#fn_32.md) If it were first written
 in Latin, it is, at any rate, permeated with late Jewish ideas, and the
 corrupt state of the Hebrew in the conjurations and talismans--which is
 much the same, and that as bad as it can be, in all existing
@@ -188,12 +188,12 @@ the mouse is brought forth dead.
 
 ### Footnotes
 
-<span id="fn_29"></span>[59:1](bcm13.htm#fr_29) "The Key of Solomon the
+<span id="fn_29"></span>[59:1](bcm13.htm#fr_29.md) "The Key of Solomon the
 King (*Clavicula Salomonis*), now first translated. and edited from
 ancient MSS. in the British Museum." By S. Liddell Macgregor Mathers.
 With plates. George Redway. 1889. It has been reprinted of recent years.
 
-<span id="fn_30"></span>[59:2](bcm13.htm#fr_30) As regards the Arsénal,
+<span id="fn_30"></span>[59:2](bcm13.htm#fr_30.md) As regards the Arsénal,
 they are all of the eighteenth century. *Les Clavicules de Rabbi
 Salomon*, 2346 (72 S.A.F.), claims to be literally translated from the
 Hebrew text into French. 2348 (75 S.A.F.) is entitled *Livre de la
@@ -205,7 +205,7 @@ is entitled *Le Secret des Secrets, autrement La Clavicule de Salomon,
 ou le véritable Grimoire*. Finally, there is the *Livre Second de la
 Clavicule de Salomon*, 2791 (76 S.A.F.).
 
-<span id="fn_31"></span>[60:1](bcm13.htm#fr_31) Christian's reference
+<span id="fn_31"></span>[60:1](bcm13.htm#fr_31.md) Christian's reference
 is, however, a mere travesty of some information found in the Nouveaux
 Mémoires d'Histoire, do Critique, et de Littérature, par M. l'Abbé
 d'Artigny, 7 vols., Paris, 1749-1756. The fourth article in the first
@@ -237,7 +237,7 @@ No. 9, an Exorcism of the Spirits of the Air, which most certainly does
 not occur in any known edition of the *Grand Clavicle*, and is
 apparently adapted from the *Lemegeton*.
 
-<span id="fn_32"></span>[61:1](bcm13.htm#fr_32) A bibliography of Papus
+<span id="fn_32"></span>[61:1](bcm13.htm#fr_32.md) A bibliography of Papus
 appended to his *Methodical Summary of the Kabalah* enumerates
 forty-seven separate Kabalistic treatises which appeared in Hebrew
 between the middle of the thirteenth and the close of the sixteenth
@@ -250,4 +250,4 @@ catalogue of literature in Jewry.
 
 ------------------------------------------------------------------------
 
-[Next: Section 2: The Lesser Key of Solomon](bcm14)
+[Next: Section 2: The Lesser Key of Solomon](bcm14.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp42)  [Next](hmvp44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp42)  [Next](hmvp44.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 writings of the Hindus, and also in the popular mind, the asuras are
 powerful evil beings; in translations the word is represented by such
 terms as demons, giants, etc. As the suras <span
-id="fr_401"></span>[\*](#fn_401) were the gods, the asuras were
+id="fr_401"></span>[\*](#fn_401.md) were the gods, the asuras were
 not-gods, and therefore the enemies or opponents of the gods. In the
 Vedas the name asura is applied more frequently to the gods themselves
 than to their enemies, whilst it is also used very much in the same
@@ -31,7 +31,7 @@ established the heavens, and fixed the limits of the earth. He sat as
 the supreme ruler of all worlds. These are the works of Varuna." "Asura
 stands for the Supreme Spirit," in another verse, and "also as an
 appellative for Prajāpati or creation's lord." <span
-id="fr_402"></span>[†](#fn_402) Again and again Varuna alone, and also
+id="fr_402"></span>[†](#fn_402.md) Again and again Varuna alone, and also
 in conjunction with Mitra, is called
 
 <span id="page_438">p. 438</span>
@@ -41,7 +41,7 @@ even goddesses." "Varuna was the all-knowing asura, Prajāpati the
 Supreme Being; Indra, the Maruts, Tvastri, Mitra, Rudra, Agni, Vāyu,
 Pushan, Savitri, Parjanya, the sacrificial priests, were all asuras. In
 fine, Deva (god) and asura were synonymous expressions in a multitude of
-texts." <span id="fr_403"></span>[\*](#fn_403)
+texts." <span id="fr_403"></span>[\*](#fn_403.md)
 
 On the other hand, in the Rig-Veda, Indra is the destroyer of asuras.
 "The same Veda which speaks of the asuras as celestial beings supplies
@@ -90,7 +90,7 @@ non-god: therefore a demon.
 Whatever be the cause of it, there is no doubt that at the present day,
 and throughout the later writings of the Hindus, the term "asura" is
 used only for the enemies of the gods. In the "Taittirya Sanhita" <span
-id="fr_404"></span>[\*](#fn_404) we read "that the gods and asuras
+id="fr_404"></span>[\*](#fn_404.md) we read "that the gods and asuras
 contended together, and that the former, being less numerous than the
 latter, took some bricks, and placing them in a proper position to
 receive the sacrificial fire, with the formula, Thou
@@ -98,9 +98,9 @@ receive the sacrificial fire, with the formula, Thou
 <span id="page_440">p. 440</span>
 
 art a multiplier,' they became numerous." In the "Satapatha
-Brāhmana" <span id="fr_405"></span>[\*](#fn_405) it is said that "the
+Brāhmana" <span id="fr_405"></span>[\*](#fn_405.md) it is said that "the
 gods and asuras, both descendants of Prajāpati, <span
-id="fr_406"></span>[†](#fn_406) obtained their father's inheritance,
+id="fr_406"></span>[†](#fn_406.md) obtained their father's inheritance,
 truth and falsehood. The gods, abandoning falsehood, adopted truth; the
 asuras, abandoning truth, adopted falsehood. Speaking truth exclusively,
 the gods became weaker, but in the end became prosperous; the asuras,
@@ -128,7 +128,7 @@ fallen. The following story of Jalandhara from the Uttara
 <span id="page_441">p. 441</span>
 
 <span class="contnote">\[paragraph continues\]</span> Khānda of the
-"Padma Purāna" <span id="fr_407"></span>[\*](#fn_407) will illustrate
+"Padma Purāna" <span id="fr_407"></span>[\*](#fn_407.md) will illustrate
 the teaching of the later Hindu Scriptures respecting the asuras.
 
 ##### JALANDHARA.
@@ -173,7 +173,7 @@ over the ocean; his pets were lions which he had caught; and the largest
 birds and fishes were subject to him. When he grew up to manhood, at
 Sukra's request, his father withdrew the sea from Jambadwipa, the
 residence of holy men, which became his home, and bearing his name has
-become celebrated. <span id="fr_408"></span>[\*](#fn_408) Māya, the
+become celebrated. <span id="fr_408"></span>[\*](#fn_408.md) Māya, the
 architect of the asuras, there built him a beautiful city, his father
 installed him as king, and Sukra gave him the charm by which he could
 raise the dead to life. He married Vrindā, the daughter of an Apsaras
@@ -314,7 +314,7 @@ collected the ashes, and threw them into the Ganges. The forest in
 <span id="page_447">p. 447</span>
 
 which she was burned has ever since borne the name of Vrindāvana, <span
-id="fr_409"></span>[\*](#fn_409) near Mount Govardhana.
+id="fr_409"></span>[\*](#fn_409.md) near Mount Govardhana.
 
 Jalandhara, hearing of his wife's deception and death, was mad with
 rage; and, leaving the neighbourhood of Pārvati's home, returned to the
@@ -334,33 +334,33 @@ kingdom and possessions.
 
 ### Footnotes
 
-<span id="fn_401"></span>[437:\*](hmvp43.htm#fr_401) Originally the
+<span id="fn_401"></span>[437:\*](hmvp43.htm#fr_401.md) Originally the
 suras were a class of inferior deities, connected with Surya; afterwards
 the term was employed to signify the gods generally.
 
-<span id="fn_402"></span>[437:†](hmvp43.htm#fr_402) Dr. Banerjea,
+<span id="fn_402"></span>[437:†](hmvp43.htm#fr_402.md) Dr. Banerjea,
 *Bengal Magazine*, April, 1880.
 
-<span id="fn_403"></span>[438:\*](hmvp43.htm#fr_403) Dr. Banerjea,
+<span id="fn_403"></span>[438:\*](hmvp43.htm#fr_403.md) Dr. Banerjea,
 *Bengal Magazine*, April, 1880.
 
-<span id="fn_404"></span>[439:\*](hmvp43.htm#fr_404) Muir, O. S. T., v.
+<span id="fn_404"></span>[439:\*](hmvp43.htm#fr_404.md) Muir, O. S. T., v.
 15.
 
-<span id="fn_405"></span>[440:\*](hmvp43.htm#fr_405) Muir, O. S. T., iv.
+<span id="fn_405"></span>[440:\*](hmvp43.htm#fr_405.md) Muir, O. S. T., iv.
 60.
 
-<span id="fn_406"></span>[440:†](hmvp43.htm#fr_406) The Mahābhārata says
+<span id="fn_406"></span>[440:†](hmvp43.htm#fr_406.md) The Mahābhārata says
 the asuras were the elder, the gods the younger, sons.
 
-<span id="fn_407"></span>[441:\*](hmvp43.htm#fr_407) Kennedy, "Hindu
+<span id="fn_407"></span>[441:\*](hmvp43.htm#fr_407.md) Kennedy, "Hindu
 Mythology," p. 457.
 
-<span id="fn_408"></span>[442:\*](hmvp43.htm#fr_408) The present
+<span id="fn_408"></span>[442:\*](hmvp43.htm#fr_408.md) The present
 Jallander.
 
-<span id="fn_409"></span>[447:\*](hmvp43.htm#fr_409) Brindāban.
+<span id="fn_409"></span>[447:\*](hmvp43.htm#fr_409.md) Brindāban.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Sacred Animals and Birds](hmvp44)
+[Next: Chapter VII. Sacred Animals and Birds](hmvp44.md)

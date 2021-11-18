@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico098) 
-[Next](nico100) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico098.md) 
+[Next](nico100.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ be either friendly to oneself or a friend to another.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5. Relation of friendship to goodwill](nico100)
+[Next: Chapter 5. Relation of friendship to goodwill](nico100.md)

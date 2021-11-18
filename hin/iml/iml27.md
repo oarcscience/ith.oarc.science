@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml26)  [Next](iml28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml26)  [Next](iml28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ sacred flames: "Hasten, Nala! Oh, hasten, Nala, and come hither!"
 Now, Agni had given Nala power over fire, so crying: "Have no fear," he
 leapt through the flames. . . . In the space within that blazing circle
 be beheld the king of serpents lying coiled up in a ring with folded
-hands and unable to move. <span id="fr_312"></span>[1](#fn_311) Lo! I am
+hands and unable to move. <span id="fr_312"></span>[1](#fn_311.md) Lo! I am
 Karkotaka," the serpent said, "and am suffering this punishment because
 that I deceived the holy sage Nárada, who thereupon cursed me, saying:
 'Thou wilt remain here in the midst of the flames until Nala cometh nigh
@@ -63,7 +63,7 @@ henceforth, by reason of my power, thou wilt have no need to fear the
 wild boar, or any foeman, or a Brahman, or the sages. Ever in battle
 thou wilt be victorious. . . . Now, go thy way, and be called 'Váhuka,
 the charioteer'. Hasten thou unto the city of Ayodhya <span
-id="fr_313"></span>[1](#fn_312) and enter the service of the royal Rajah
+id="fr_313"></span>[1](#fn_312.md) and enter the service of the royal Rajah
 Rituparna, the skilful in dice. Thou wilt teach him how to subdue
 horses, and he will impart to thee the secret of dice. Then wilt thou
 again have joy. Sorrow not, therefore, for thy wife and thy children
@@ -134,7 +134,7 @@ lotus blooms shrivel and fade; she is, indeed, like to withered lotus. .
 . . Doth Nala live now without the bride who thus mourns for him? . . .
 When, oh when shall Damayantí be restored once again unto her lord as
 the moon bride is restored unto the peerless moon? <span
-id="fr_314"></span>[1](#fn_313) . . . Methinks I will speak. . . ."
+id="fr_314"></span>[1](#fn_313.md) . . . Methinks I will speak. . . ."
 
 <span id="page_357">p. 357</span>
 
@@ -163,11 +163,11 @@ The queen mother bade Sudeva to remove the dust from the beauty spot of
 Bhima's daughter. When this was done, it came forth like to the
 unclouded moon in heaven, and the royal lady and her daughter wept
 together and embraced the fair Damayantí <span
-id="fr_315"></span>[1](#fn_314).
+id="fr_315"></span>[1](#fn_314.md).
 
 Then the queen mother said: "Lo! thou art mine own sister's daughter, O
 beauteous one. Our sire is the Rajah Sudáman who reigns at Dasárna <span
-id="fr_316"></span>[2](#fn_315). . . . Once I beheld thee as a child. .
+id="fr_316"></span>[2](#fn_315.md). . . . Once I beheld thee as a child. .
 . . Ah! ask of me whatsoever thou desirest and it shall be thine."
 
 <span id="page_358">p. 358</span>
@@ -182,7 +182,7 @@ Then Damayantí was given an army to guard her on her journey towards her
 native city, and she was welcomed there by all her kindred and friends
 with great rejoicing. King Bhima rewarded Sudeva with a thousand kine,
 and a town's revenue for a village. <span
-id="fr_317"></span>[1](#fn_316)
+id="fr_317"></span>[1](#fn_316.md)
 
 When Damayantí was embraced by her mother she said: "Now our chief duty
 is to bring home Nala."
@@ -264,7 +264,7 @@ Then he spake unto Rituparna and said: "As thou desirest so will I do, O
 Rituparna. I will drive thee in a single day to Vidarbha."
 
 Having promised thus, he went forth and selected four steeds of high
-courage with the ten good marks, <span id="fr_318"></span>[1](#fn_317)
+courage with the ten good marks, <span id="fr_318"></span>[1](#fn_317.md)
 which were as swift as the wind. He yoked them in haste, spake to them
 soothingly, and then set forth with Rituparna and Varshneya also at full
 speed. The rajah sat in silent wonder as the chariot went swiftly, and
@@ -364,9 +364,9 @@ city, careered and neighed aloud as if Nala were beside them once again.
 Damayantí also heard the approaching chariot, and her beating heart was
 like a cloud which thunders as the rain cometh on. Her soul was thrilled
 by the familiar sound, and it seemed to her that Nala was drawing
-nigh. <span id="fr_319"></span>[1](#fn_318) . . . On the palace roofs
+nigh. <span id="fr_319"></span>[1](#fn_318.md) . . . On the palace roofs
 peacocks craned their necks and danced, <span
-id="fr_320"></span>[2](#fn_319) and elephants in their stalls, with
+id="fr_320"></span>[2](#fn_319.md) and elephants in their stalls, with
 uplifted trunks, trumpeted aloud as if rain were about to fall.
 
 Damayantí said: "The sound of the chariot fills my soul with ecstasy.
@@ -379,15 +379,15 @@ fire."
 
 ### Footnotes
 
-<span id="fn_311"></span>[353:1](iml27.htm#fr_312) This serpent was a
+<span id="fn_311"></span>[353:1](iml27.htm#fr_312.md) This serpent was a
 demi-god with human face and hands. It ruled its kind in the underworld,
 and recalls the Egyptian king serpent in the story of the shipwrecked
 sailor.--See *Egyptian Myth and Legend*. It is also called Vasuka and
 Shesha.
 
-<span id="fn_312"></span>[354:1](iml27.htm#fr_313) Oudh.
+<span id="fn_312"></span>[354:1](iml27.htm#fr_313.md) Oudh.
 
-<span id="fn_313"></span>[356:1](iml27.htm#fr_314) The moon is
+<span id="fn_313"></span>[356:1](iml27.htm#fr_314.md) The moon is
 masculine, and the marriage occurs at a certain phase. In Egypt the moon
 is male, but was identified with imported female deities. In Norse
 mythology Mani is moon god; there was, however, an earlier moon goddess,
@@ -396,27 +396,27 @@ not in the Gaelic language. <span id="page_357">p. 357</span> The words
 for moon in A. Saxon and German are masculine; in Gaelic they are
 feminine.
 
-<span id="fn_314"></span>[357:1](iml27.htm#fr_315) The Gaelic Diarmid
+<span id="fn_314"></span>[357:1](iml27.htm#fr_315.md) The Gaelic Diarmid
 had similarly a beauty spot on his forehead. Women who saw it
 immediately fell in love with him.
 
-<span id="fn_315"></span>[357:2](iml27.htm#fr_316) Dasarna, "Ten Forts",
+<span id="fn_315"></span>[357:2](iml27.htm#fr_316.md) Dasarna, "Ten Forts",
 in the south-eastern part of Central Hindustan.
 
-<span id="fn_316"></span>[358:1](iml27.htm#fr_317) A Bráhman village
+<span id="fn_316"></span>[358:1](iml27.htm#fr_317.md) A Bráhman village
 settlement.
 
-<span id="fn_317"></span>[360:1](iml27.htm#fr_318) Ten twists or
+<span id="fn_317"></span>[360:1](iml27.htm#fr_318.md) Ten twists or
 "eddies" of hair called A-vartas--one on forehead, two on breast, one on
 each flank hollow, &c.
 
-<span id="fn_318"></span>[363:1](iml27.htm#fr_319) This recalls: "He
+<span id="fn_318"></span>[363:1](iml27.htm#fr_319.md) This recalls: "He
 came even unto them. . . . The driving is like the driving of Jehu the
 son of Nimshi; for he driveth furiously."--2 *Kings*, ix, 20.
 
-<span id="fn_319"></span>[363:2](iml27.htm#fr_320) The Indian peacock is
+<span id="fn_319"></span>[363:2](iml27.htm#fr_320.md) The Indian peacock is
 sensitive to rain, and goes round "dancing" when it is coming on.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII. The Homecoming of the King](iml28)
+[Next: Chapter XXIII. The Homecoming of the King](iml28.md)

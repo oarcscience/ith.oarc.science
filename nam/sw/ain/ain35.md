@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain34)  [Next](ain36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain34)  [Next](ain36.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ The news will go in all directions.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Story of Pahtahnkum](ain36)
+[Next: Notes on the Story of Pahtahnkum](ain36.md)

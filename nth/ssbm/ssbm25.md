@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssbm24)  [Next](ssbm26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssbm24)  [Next](ssbm26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Science Behind Miracles*, by Max Freedom Long, \[1948\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 <span id="img_37400"></span> <span align="CENTER"> [![DIAGRAMMATIC
 REPRESENTATION OF THE SHADOWY BODIES OF MAN](tn/37400.jpg)  
-Click to enlarge](img/37400.jpg)  
+Click to enlarge](img/37400.jpg.md)  
 DIAGRAMMATIC REPRESENTATION OF THE SHADOWY BODIES OF MAN  
 </span>
 
@@ -82,7 +82,7 @@ being performed. The same mechanism is used in psychometry.
 
 <span id="img_37600"></span> <span align="CENTER"> [![THE HUNA IDEA OF
 HOW A THOUGHT FORM IS CREATED](tn/37600.jpg)  
-Click to enlarge](img/37600.jpg)  
+Click to enlarge](img/37600.jpg.md)  
 THE HUNA IDEA OF HOW A THOUGHT FORM IS CREATED  
 </span>
 
@@ -152,7 +152,7 @@ cannot "remember" it to bring it up for later rationalization.
 
 <span id="img_37800"></span> <span align="CENTER"> [![THE MECHANICS OF
 TELEPATHY AND TELEPATHIC PRAYER](tn/37800.jpg)  
-Click to enlarge](img/37800.jpg)  
+Click to enlarge](img/37800.jpg.md)  
 THE MECHANICS OF TELEPATHY AND TELEPATHIC PRAYER  
 </span>
 
@@ -236,7 +236,7 @@ used as "will" and in its thinking, by the middle self.
 
 <span id="img_38000"></span> <span align="CENTER"> [![ILLUSTRATIONS
 PICTURING THE MECHANICS OF INSTANT HEALING](tn/38000.jpg)  
-Click to enlarge](img/38000.jpg)  
+Click to enlarge](img/38000.jpg.md)  
 ILLUSTRATIONS PICTURING THE MECHANICS OF INSTANT HEALING  
 </span>
 
@@ -304,7 +304,7 @@ stone throwing cases, and the setting of fires, pouring of water, etc.
 
 <span id="img_38200"></span> <span align="CENTER"> [![SYMBOLS AND THEIR
 HUNA SIGNIFICANCES](tn/38200.jpg)  
-Click to enlarge](img/38200.jpg)  
+Click to enlarge](img/38200.jpg.md)  
 SYMBOLS AND THEIR HUNA SIGNIFICANCES  
 </span>
 
@@ -381,7 +381,7 @@ middle self.
 <span id="img_38400"></span> <span align="CENTER"> [![THE HIGH SELF AND
 THE GROUP SOUL. ALSO ANCIENT SYMBOLS RELATED TO HUNA
 BELIEFS](tn/38400.jpg)  
-Click to enlarge](img/38400.jpg)  
+Click to enlarge](img/38400.jpg.md)  
 THE HIGH SELF AND THE GROUP SOUL. ALSO ANCIENT SYMBOLS RELATED TO HUNA
 BELIEFS  
 </span>
@@ -462,4 +462,4 @@ the serpent came from non-Huna sources, for the kahunas had no word for
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](ssbm26)
+[Next: Appendix](ssbm26.md)

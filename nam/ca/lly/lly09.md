@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly08)  [Next](lly10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly08)  [Next](lly10.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ unbroken waterfall, is charming beyond words.
 
 ------------------------------------------------------------------------
 
-[Next: The Valley](lly10)
+[Next: The Valley](lly10.md)

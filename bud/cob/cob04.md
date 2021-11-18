@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cob03)  [Next](cob05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cob03)  [Next](cob05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Buddha*, by Edmond Holmes, \[1919\], at Intangible Textual
 Heritage
 
@@ -34,7 +34,7 @@ than seek the level of his thought.
 Philosophy is, in its essence, the quest of reality. In the attempt to
 determine what is real, one has to choose, in the first instance,
 between the percipient self and the things that it perceives. <span
-id="fr_5"></span>[1](#fn_5) This
+id="fr_5"></span>[1](#fn_5.md) This
 
 <span id="page_21">p. 21</span>
 
@@ -104,7 +104,7 @@ of Eastern thought, and that the thinker who speaks to us in
 
 of the Upanishads, proved his greatness by the profound insight and the
 speculative daring with which he developed those conceptions into a
-world-embracing system of thought. <span id="fr_6"></span>[1](#fn_6)
+world-embracing system of thought. <span id="fr_6"></span>[1](#fn_6.md)
 
 Let us, with the aid of the Upanishads, attempt to do his thinking for
 him. If in the microcosm, the world which directly and obviously centres
@@ -112,7 +112,7 @@ in the individual, the self or conscious subject is real and the objects
 of its knowledge are by comparison unreal, must it not be the same--one
 instinctively argues--in the macrocosm, or totality of things? Is there
 not at the heart of the Universe a conscious life, and is not this
-all-conscious life--this Universal <span id="fr_7"></span>[2](#fn_7)
+all-conscious life--this Universal <span id="fr_7"></span>[2](#fn_7.md)
 Self, as we may call it the supreme reality by reference to which all
 existent things, when their claims to reality are tested, take their
 several "stations and degrees"? To argue from one's own experience
@@ -160,7 +160,7 @@ him well,' but little sure of Brahma dost thou know."
 
 "He is unknown to whoso think they know,  
 But known to whoso know they know him not." <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
 </div>
 
@@ -179,7 +179,7 @@ sum total of reality, the beginning and end of all that really is.
 
 "This is that ultimate and uttermost  
 Which shall not be beheld, being in a  
-The unbeholden essence!" <span id="fr_9"></span>[2](#fn_9)
+The unbeholden essence!" <span id="fr_9"></span>[2](#fn_9.md)
 
 </div>
 
@@ -579,7 +579,7 @@ practical side, which suggests that those who expounded it spoke, not
 merely out of the abundance of their hearts and the conviction of their
 minds, but also out of a personal experience, which, though supernormal,
 was by no means supernatural, and which was at once convincingly actual
-and transcendently real. <span id="fr_10"></span>[1](#fn_10) But the
+and transcendently real. <span id="fr_10"></span>[1](#fn_10.md) But the
 pathway to the inward
 
 <span id="page_40">p. 40</span>
@@ -637,7 +637,7 @@ lives--*on the assumption that it is true*.
 
 ### Footnotes
 
-<span id="fn_5"></span>[20:1](cob04.htm#fr_5) I start, as everyone
+<span id="fn_5"></span>[20:1](cob04.htm#fr_5.md) I start, as everyone
 instinctively does, by postulating the reality of both worlds,--the
 inward and the outward. The attempt to solve the problem of *reality*,
 whatever form it may take, will never stultify this primary postulate;
@@ -648,7 +648,7 @@ not solutions at all; for what they do to the problem is to transfer it
 to the false and impossible category of the *existent* and the
 *non-existent*.
 
-<span id="fn_6"></span>[23:1](cob04.htm#fr_6) The Upanishads were, no
+<span id="fn_6"></span>[23:1](cob04.htm#fr_6.md) The Upanishads were, no
 doubt, the work of many minds; but behind those many minds stands, if I
 am not mistaken, the shadowy form of one Master Thinker,
 
@@ -658,17 +658,17 @@ Il maestro di color the sanno.
 
 </div>
 
-<span id="fn_7"></span>[23:2](cob04.htm#fr_7) Here and throughout this
+<span id="fn_7"></span>[23:2](cob04.htm#fr_7.md) Here and throughout this
 book (so far as what I say is the expression of my own thoughts) I use
 the word *universal*, and all kindred words, in a relative, not an
 absolute sense.
 
-<span id="fn_8"></span>[25:1](cob04.htm#fr_8) "The Secret of Death," by
+<span id="fn_8"></span>[25:1](cob04.htm#fr_8.md) "The Secret of Death," by
 Sir Edwin Arnold.
 
-<span id="fn_9"></span>[25:2](cob04.htm#fr_9) *Ibid*.
+<span id="fn_9"></span>[25:2](cob04.htm#fr_9.md) *Ibid*.
 
-<span id="fn_10"></span>[39:1](cob04.htm#fr_10) The preternatural
+<span id="fn_10"></span>[39:1](cob04.htm#fr_10.md) The preternatural
 calmness with which the average Oriental <span id="page_41">p. 41</span>
 faces death is inexplicable, except on the assumption that those who
 taught him his philosophy of life had, in some sort, seen behind the
@@ -677,4 +677,4 @@ faith.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Path of Life](cob05)
+[Next: Chapter III. The Path of Life](cob05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ema03)  [Next](ema05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ema03)  [Next](ema05.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ lay in the words inscribed upon it. The earliest name for the formulæ
 found upon amulets is *hekau*, and it was so necessary for the deceased
 to be provided with these hekau, or "words of power," that in the XVIth
 Century B.C., and probably more than a thousand years earlier, a special
-section <span id="fr_13"></span>[1](#fn_13) was inserted in the Book of
+section <span id="fr_13"></span>[1](#fn_13.md) was inserted in the Book of
 the Dead with the object of causing them to come to him from whatever
 place they were in, "swifter than greyhounds and quicker than light."
 The earliest Egyptian amulets known are pieces of green schist, of
@@ -70,7 +70,7 @@ predynastic graves at several places in Egypt. It is most unlikely that
 they were made by the aboriginal inhabitants of Egypt, for,
 notwithstanding the various conjectures which have been made as to their
 object and use, it is pretty certain that, as M. J. de Morgan
-said, <span id="fr_14"></span>[2](#fn_14) they "belong to the cult."
+said, <span id="fr_14"></span>[2](#fn_14.md) they "belong to the cult."
 According to this writer their use was exceedingly widespread until the
 end of the neolithic period, but with the advent of the
 
@@ -90,8 +90,8 @@ power, upon papyrus is almost as old as that of writing them upon stone,
 and we see from the inscription on the walls of the corridors and
 chambers of the pyramid of Unas, king of Egypt about B.C. 3300, that a
 "book with words of magical power" was buried with him. <span
-id="fr_15"></span>[1](#fn_15) Elsewhere <span
-id="fr_16"></span>[2](#fn_16) we are told that the book which Teta, king
+id="fr_15"></span>[1](#fn_15.md) Elsewhere <span
+id="fr_16"></span>[2](#fn_16.md) we are told that the book which Teta, king
 of Egypt about B.C. 3266, had with him "hath effect upon the heart of
 the gods"; and there is no doubt that the object of every religious text
 ever written on tomb, stele, amulet, coffin, papyrus, etc., was to bring
@@ -109,13 +109,13 @@ conscience. It was guarded after death with special care, and was
 mummified separately, and then, with the lungs, was preserved in a jar
 which was placed under the protection of the god Tuamutef. Its
 preservation was considered to be of such importance that a text <span
-id="fr_17"></span>[1](#fn_17) was introduced into the Book of the Dead
+id="fr_17"></span>[1](#fn_17.md) was introduced into the Book of the Dead
 at an early period, with the view of providing the deceased with a heart
 in the place of that which had been removed in the process of
 mummification. The text reads:--
 
 "May my heart be with me in the House of Hearts! May my breast <span
-id="fr_18"></span>[2](#fn_18) be with me in the House of Hearts! May my
+id="fr_18"></span>[2](#fn_18.md) be with me in the House of Hearts! May my
 heart be with me, and may it rest there, or I shall not eat of the cakes
 of Osiris on the eastern side of the Lake of Flowers, neither shall I
 have a boat wherein to go down the Nile, nor another wherein to go up,
@@ -153,7 +153,7 @@ that this stone was believed to
 
 possess certain qualities which were beneficial to those who wore it. It
 will also be remembered that, according to one tradition, <span
-id="fr_19"></span>[1](#fn_19) the text of the LXIVth Chapter of the Book
+id="fr_19"></span>[1](#fn_19.md) the text of the LXIVth Chapter of the Book
 of the Dead was found written in letters of lapis-lazuli in the reign of
 Hesep-ti, king of Egypt about B.C. 4300, and the way in which the fact
 is mentioned in the Rubric to the Chapter proves that special importance
@@ -181,10 +181,10 @@ amulet made of a white, semi-transparent stone, and reads:--
 the heart of a man to go through its transformations according to its
 deeds, let not what he hath done harm him before you! Homage to you, O
 ye lords of eternity, ye possessors of ever lastingness, take ye not
-this heart of Osiris <span id="fr_20"></span>[1](#fn_20) into your
+this heart of Osiris <span id="fr_20"></span>[1](#fn_20.md) into your
 grasp, and cause ye not words of evil to spring up against it; for it is
 the heart of Osiris, and it belongeth unto him of many names, <span
-id="fr_21"></span>[2](#fn_21) the mighty one whose words are his limbs,
+id="fr_21"></span>[2](#fn_21.md) the mighty one whose words are his limbs,
 and who sendeth forth his heart to dwell in his body. The heart of
 Osiris is triumphant, and it is made new before the gods: he hath gained
 power over it, and he hath not been judged according to what he hath
@@ -200,7 +200,7 @@ text
 
 <span id="page_33">p. 33</span>
 
-reads: "I am the Bennu, <span id="fr_22"></span>[1](#fn_22) the soul of
+reads: "I am the Bennu, <span id="fr_22"></span>[1](#fn_22.md) the soul of
 Râ, and the guide of the gods who are in the underworld. Their divine
 souls came forth upon earth to do the will of their doubles, let
 therefore the soul of the Osiris come forth to do the will of his
@@ -211,13 +211,13 @@ But of all the Chapters which related to the heart, the most popular
 among the Egyptians was that which is commonly known as XXXB, and its
 importance from a religious point of view cannot be overstated. The
 antiquity of the Chapter is undoubted, for according to the Papyrus of
-Nu, <span id="fr_23"></span>[2](#fn_23) a document of the early part of
+Nu, <span id="fr_23"></span>[2](#fn_23.md) a document of the early part of
 the XVIIIth dynasty, it dates from the time of Hesep-ti, king of Egypt
 about B.C. 4300, and it seems that it formed a pendant or supplement to
 the LXIVth Chapter, which professed to give the substance of all the
 "Chapters of Coming Forth by Day" in a single Chapter. In the rubric to
 the longer version of the Chapter, given in the same papyrus, <span
-id="fr_24"></span>[3](#fn_24) Chapter XXXB is connected with Herutâtâf,
+id="fr_24"></span>[3](#fn_24.md) Chapter XXXB is connected with Herutâtâf,
 the son of Khufu (Cheops), a man famed for wisdom, and it is there
 ordered that the words of it be recited over a hard, green stone scarab,
 which shall be laid in the breast of the deceased where the heart would
@@ -226,7 +226,7 @@ the
 
 <span id="page_34">p. 34</span>
 
-mouth," <span id="fr_25"></span>[1](#fn_25) for the words of the Chapter
+mouth," <span id="fr_25"></span>[1](#fn_25.md) for the words of the Chapter
 would be indeed "words of power." From reciting the words of the Chapter
 over a scarab to engraving them upon it was but a step, and this step
 was taken as early as the IVth dynasty. The text is as follows:--
@@ -269,7 +269,7 @@ heart, which was connected with the most important and most popular of
 the Chapters for protecting the heart, was directed to be made in the
 form of the scarab at a very early date. We can trace the ideas which
 the Egyptians held about this insect as far back as the time of the
-building of the Pyramids, <span id="fr_26"></span>[1](#fn_26) and there
+building of the Pyramids, <span id="fr_26"></span>[1](#fn_26.md) and there
 is no doubt that they represented beliefs which even at that early
 period were very old. The
 
@@ -315,11 +315,11 @@ balls, as they will seize upon those belonging to another, in the case
 of their having lost their own; indeed, it is said that several of them
 occasionally assist in rolling the same ball. The males as well as the
 females assist in rolling the pellets. They fly during the hottest part
-of the day. <span id="fr_27"></span>[1](#fn_27)
+of the day. <span id="fr_27"></span>[1](#fn_27.md)
 
 Among the ancients several curious views were held about the scarab,
 whether of the type *scarabæus sacer* or the *ateuchus
-Ægyptiorium*, <span id="fr_28"></span>[2](#fn_28) and Ælian, Porphyry,
+Ægyptiorium*, <span id="fr_28"></span>[2](#fn_28.md) and Ælian, Porphyry,
 
 <span id="page_38">p. 38</span>
 
@@ -364,7 +364,7 @@ away the effects of every kind of sorcery and incantations he might do
 so by cutting off the head and wings of a large beetle, which he boiled
 and laid in oil. The head and wings were then warmed up and steeped in
 the oil of the *âpnent* serpent, and when they had been once more boiled
-the man was to drink the mixture. <span id="fr_29"></span>[1](#fn_29)
+the man was to drink the mixture. <span id="fr_29"></span>[1](#fn_29.md)
 
 The amulet of the scarab has been found in Egypt in untold thousands,
 and the varieties are exceedingly numerous. They are made of green
@@ -399,7 +399,7 @@ large funeral scarabs were set in pylon-shaped pectorals, made of
 porcelain of various colours, upon which the boat of the Sun was either
 traced in colours or worked in relief, and the scarab is placed so as to
 appear to be carried in the boat; on the left stands Isis and on the
-right Nephthys. <span id="fr_30"></span>[1](#fn_30) The oldest green
+right Nephthys. <span id="fr_30"></span>[1](#fn_30.md) The oldest green
 stone funeral scarab known to me is in the British Museum (No. 29,224);
 it was found at Kûrna near Thebes and belongs to the period of the XIth
 dynasty, about B.C. 2600. The name of the man for whom it was made (he
@@ -420,7 +420,7 @@ attached to it much the same idea as its early inventors, the
 <span id="page_42">p. 42</span>
 
 Egyptians. From a Greek magical papyrus translated by Goodwin <span
-id="fr_31"></span>[1](#fn_31) we may see that certain solemn ceremonies
+id="fr_31"></span>[1](#fn_31.md) we may see that certain solemn ceremonies
 were performed over a scarab before it was worn, even in the period of
 the rule of the Greeks and Romans. Thus about the "ring of Horus" and
 the "ceremony of the beetle" we are told to take a beetle, sculptured as
@@ -609,7 +609,7 @@ spirit, and let me be true of voice with them wheresoever they may be. .
 . . Hail, ye gods, who tow along the boat of the lord of millions of
 years, who bring it above the underworld, and who make it to travel over
 Nut, who make souls to enter into their spiritual bodies, . . . grant
-that the soul of the Osiris <span id="fr_32"></span>[1](#fn_32)
+that the soul of the Osiris <span id="fr_32"></span>[1](#fn_32.md)
 
 <span id="page_51">p. 51</span>
 
@@ -645,7 +645,7 @@ help to reach it. There existed a belief that Osiris himself experienced
 some difficulty of getting up to the iron plate, and that it was only by
 means of the ladder which his father Râ provided that he at length
 ascended into heaven. On one side of the ladder stood Râ, and on the
-other stood Horus, <span id="fr_33"></span>[1](#fn_33) the son of Isis,
+other stood Horus, <span id="fr_33"></span>[1](#fn_33.md) the son of Isis,
 and each god assisted Osiris to mount it. Originally the two guardians
 of the ladder were Horus the Elder and Set, and there are several
 references in the early texts to the help which they rendered to the
@@ -655,7 +655,7 @@ compelling them to do it, the model of a ladder was often placed on or
 near the dead body in the tomb, and a special composition was prepared
 which had the effect of making the ladder become the means of the ascent
 of the deceased into heaven. Thus in the text written for Pepi <span
-id="fr_34"></span>[2](#fn_34) the deceased is made to address the ladder
+id="fr_34"></span>[2](#fn_34.md) the deceased is made to address the ladder
 in these words: "Homage to thee, O divine Ladder! Homage to thee, O
 Ladder of Set! Stand thou upright, O divine Ladder! Stand thou upright,
 O Ladder of Set! Stand thou upright, O Ladder of Horus, whereby Osiris
@@ -691,11 +691,11 @@ the Ladder. Pepi riseth like the uraeus on the forehead of Set, and
 every god and every spirit stretcheth out his hand to Pepi on the
 Ladder. Pepi hath gathered together his bones, be hath collected his
 flesh, and he hath gone quickly into heaven by means of the two
-fingers <span id="fr_35"></span>[1](#fn_35) of the god of the Ladder
-(*i.e.*, Horus). Elsewhere <span id="fr_36"></span>[2](#fn_36) the gods
+fingers <span id="fr_35"></span>[1](#fn_35.md) of the god of the Ladder
+(*i.e.*, Horus). Elsewhere <span id="fr_36"></span>[2](#fn_36.md) the gods
 Khonsu, Sept, etc., are invoked to bring the ladder to Pepi, and the
 ladder itself is adjured to come with its name, and in another
-place <span id="fr_37"></span>[3](#fn_37) we read, Homage to thee, O
+place <span id="fr_37"></span>[3](#fn_37.md) we read, Homage to thee, O
 thou Ladder that supportest the golden vase of the Spirits of Pe and the
 Spirits of Nekhen, stretch out thy hand to this Pepi, and let him take
 his seat between the two great gods who (care in the place of this Pepi;
@@ -705,7 +705,7 @@ the sky."
 
 In the Theban Recension of the Book of the Dead the importance of the
 ladder is also seen, for in Chapter CXLIX. <span
-id="fr_38"></span>[4](#fn_38) the deceased says, "I set up a Ladder
+id="fr_38"></span>[4](#fn_38.md) the deceased says, "I set up a Ladder
 among the gods, and I am a divine being among them"; and in Chapter
 CLIII. he says, "The
 
@@ -717,14 +717,14 @@ the hand." Finally, when the custom of placing a model of the ladder in
 the tomb fell into disuse, the priests provided for the necessity of the
 dead by painting a ladder on the papyri that were inscribed with the
 texts from the Book of the Dead and were buried with them. <span
-id="fr_39"></span>[1](#fn_39)
+id="fr_39"></span>[1](#fn_39.md)
 
 11\. THE AMULET OF THE TWO FINGERS, <span id="img_05500"></span>
 ![](img/05500.jpg)
 
 This amulet is intended to represent the two fingers, index and medius,
 which the god Horus employed in helping his father Osiris up the
-ladder <span id="fr_40"></span>[2](#fn_40) into heaven, as has been
+ladder <span id="fr_40"></span>[2](#fn_40.md) into heaven, as has been
 described above; it is found in the interior of mummies and is usually
 made of obsidian or hæmatite.
 
@@ -735,7 +735,7 @@ The Eye of Horus amulet, or Utchat, is one of the commonest of all, and
 its use seems to have been universal at all periods. It was made of
 gold, silver, granite, hæmatite, carnelian, lapis-lazuli, porcelain,
 wood, etc., although the rubric of a late Chapter of the Book of the
-Dead <span id="fr_41"></span>[3](#fn_41) directs that the amulet
+Dead <span id="fr_41"></span>[3](#fn_41.md) directs that the amulet
 
 <span id="page_56">p. 56</span>
 
@@ -768,11 +768,11 @@ it offerings at the summer solstice; another had then to be made of
 jasper and, if after the specified Chapter (CXL.) had been recited over
 it, it was laid on any part of the body of the deceased, he would become
 a god and take his place in the boat of Râ. At this solstice twelve
-altars <span id="fr_42"></span>[1](#fn_42) had to be lighted, four for
+altars <span id="fr_42"></span>[1](#fn_42.md) had to be lighted, four for
 Râ-Temu, four for the Utchat, and four for the other gods who had been
 mentioned in the Chapter. An interesting example of the use of the
 *utchat* occurs in a Greek spell for the discovery of a thief written as
-late as the IVth century of our era. <span id="fr_43"></span>[2](#fn_43)
+late as the IVth century of our era. <span id="fr_43"></span>[2](#fn_43.md)
 In it we are told to "take the herb *khelkbei* and *bugloss*, press out
 the juice and burn the crushed leaves and mix the ashes with the juice.
 Anoint and write upon a wall Khoô with these materials. And take a
@@ -782,7 +782,7 @@ render up the thief, who has carried away such \[and such\] a thing
 Khalkhak, Khalkoum, Khiam, Khar, Khroum, Zbar, Bêri, Zbarkom, Khrê,
 Kariôb, Pharibou, and by the terrible names αεεηηηιιιιοοοοουυυυυυωωωωωωω
 {Greek *aeehhhiiiiooooouuuuuuwwwwwww*}'" <span
-id="fr_44"></span>[3](#fn_44) Following these words we have a picture of
+id="fr_44"></span>[3](#fn_44.md) Following these words we have a picture of
 the utchat
 
 <span id="page_58">p. 58</span>
@@ -833,7 +833,7 @@ aaaaaaa</em>}</p></td>
 The spell continues, "Render up the thief who has stolen such \[and
 such\] a thing: as long as I strike the ear with this hammer, let the
 eye of the thief be smitten and inflamed until it betrays him.' Saying
-these words strike with the hammer." <span id="fr_45"></span>[1](#fn_45)
+these words strike with the hammer." <span id="fr_45"></span>[1](#fn_45.md)
 
 13\. THE AMULET OF "LIFE," <span id="img_05801"></span>
 ![](img/05801.jpg) (ÂNKH).
@@ -881,7 +881,7 @@ am the divine Lynx." Some
 
 have thought that the snake's head represents the serpent which
 surmounts the ram's head on the *urhekau* instrument used in performing
-the ceremony of "Opening the mouth." <span id="fr_46"></span>[1](#fn_46)
+the ceremony of "Opening the mouth." <span id="fr_46"></span>[1](#fn_46.md)
 
 <span id="img_06000"></span> ![](img/06000.jpg)
 
@@ -897,7 +897,7 @@ worn or held or carried with the sistrum by gods, kings, priests,
 priestesses, etc.; usually it is held in the hand, but it is often worn
 on the neck. Its object was to bring joy and health to the wearer, and
 it was believed to possess magical properties; it represented
-nutrition <span id="fr_47"></span>[2](#fn_47) and
+nutrition <span id="fr_47"></span>[2](#fn_47.md) and
 
 <span id="page_61">p. 61</span>
 
@@ -923,7 +923,7 @@ This amulet is intended to represent the sun's orbit, and it became the
 symbol of an undefined period of time, *i.e.*, eternity; it was laid
 upon the body of the dead with the view of giving to it life which
 should endure as long as the sun revolved in its orbit in the heavens.
-In the picture of the mummy chamber <span id="fr_48"></span>[1](#fn_48)
+In the picture of the mummy chamber <span id="fr_48"></span>[1](#fn_48.md)
 the goddesses Isis and Nephthys are seen kneeling and resting their
 hands on *shen*. Figures of the *shen* were
 
@@ -946,7 +946,7 @@ body, supported by her stretched-out arms and legs, might form the sky,
 he found that he was not tall enough to do so; in this difficulty he
 made use of a flight of steps, and having mounted to the top of these he
 found himself able to perform his work. In the fourth section of the
-Elysian Fields <span id="fr_49"></span>[1](#fn_49) three such flights of
+Elysian Fields <span id="fr_49"></span>[1](#fn_49.md) three such flights of
 steps are depicted. In the XXIInd Chapter of the Book of the Dead the
 deceased prays that he "may have a portion with him who is on the top of
 the steps," *i.e.*, Osiris, and in funeral vignettes this god is seen
@@ -965,7 +965,7 @@ resurrection, and this amulet, when laid upon the body of the dead, was
 intended to transfer to it her power. The frog is often represented on
 the upper part of the Greek and Roman terra-cotta lamps which are found
 in Egypt, and on one of them written in Greek is the legend, "I am the
-resurrection." <span id="fr_50"></span>[1](#fn_50)
+resurrection." <span id="fr_50"></span>[1](#fn_50.md)
 
 The amulets described above are those which are most commonly found in
 the tombs and on mummies, but a few others are also known, *e.g.*, <span
@@ -998,121 +998,121 @@ old.
 
 ### Footnotes
 
-<span id="fn_13"></span>[27:1](ema04.htm#fr_13) *I.e.*, Chapter XXIV.,
+<span id="fn_13"></span>[27:1](ema04.htm#fr_13.md) *I.e.*, Chapter XXIV.,
 which is entitled, "The Chapter of bringing words of power unto Osiris
 in the underworld."
 
-<span id="fn_14"></span>[27:2](ema04.htm#fr_14) *Ethnographie
+<span id="fn_14"></span>[27:2](ema04.htm#fr_14.md) *Ethnographie
 Prehistorique*, p. 144.
 
-<span id="fn_15"></span>[28:1](ema04.htm#fr_15) *Unas*, ed. Maspero,
+<span id="fn_15"></span>[28:1](ema04.htm#fr_15.md) *Unas*, ed. Maspero,
 line 584.
 
-<span id="fn_16"></span>[28:2](ema04.htm#fr_16) *Teta*, ed. Maspero,
+<span id="fn_16"></span>[28:2](ema04.htm#fr_16.md) *Teta*, ed. Maspero,
 line 351.
 
-<span id="fn_17"></span>[29:1](ema04.htm#fr_17) Chapter XXVI., entitled,
+<span id="fn_17"></span>[29:1](ema04.htm#fr_17.md) Chapter XXVI., entitled,
 "The Chapter of giving a heart to the deceased."
 
-<span id="fn_18"></span>[29:2](ema04.htm#fr_18) Literally,
+<span id="fn_18"></span>[29:2](ema04.htm#fr_18.md) Literally,
 "pericardium."
 
-<span id="fn_19"></span>[31:1](ema04.htm#fr_19) See Chapters of Coming
+<span id="fn_19"></span>[31:1](ema04.htm#fr_19.md) See Chapters of Coming
 Forth by Day (translation, p. 119).
 
-<span id="fn_20"></span>[32:1](ema04.htm#fr_20) *I.e.*, the deceased who
+<span id="fn_20"></span>[32:1](ema04.htm#fr_20.md) *I.e.*, the deceased who
 was identified with Osiris, the god and judge of the dead.
 
-<span id="fn_21"></span>[32:2](ema04.htm#fr_21) *I.e.*, Thoth.
+<span id="fn_21"></span>[32:2](ema04.htm#fr_21.md) *I.e.*, Thoth.
 
-<span id="fn_22"></span>[33:1](ema04.htm#fr_22) The Bennu bird is
+<span id="fn_22"></span>[33:1](ema04.htm#fr_22.md) The Bennu bird is
 usually identified with the phoenix.
 
-<span id="fn_23"></span>[33:2](ema04.htm#fr_23) Brit. Mus., No. 10,477,
+<span id="fn_23"></span>[33:2](ema04.htm#fr_23.md) Brit. Mus., No. 10,477,
 sheet 13.
 
-<span id="fn_24"></span>[33:3](ema04.htm#fr_24) See sheet 21.
+<span id="fn_24"></span>[33:3](ema04.htm#fr_24.md) See sheet 21.
 
-<span id="fn_25"></span>[34:1](ema04.htm#fr_25) See Chapter VI. (Magical
+<span id="fn_25"></span>[34:1](ema04.htm#fr_25.md) See Chapter VI. (Magical
 Ceremonies).
 
-<span id="fn_26"></span>[35:1](ema04.htm#fr_26) King Teta is said to
+<span id="fn_26"></span>[35:1](ema04.htm#fr_26.md) King Teta is said to
 "live like the scarab" (*Teta*, line 89); and in it is said, "Pepi is
 the son of the Scarab which is born in Hetepet under the hair of the
 northern Iusâas" (*Pepi*, line 422).
 
-<span id="fn_27"></span>[37:1](ema04.htm#fr_27) See J. O. Westwood,
+<span id="fn_27"></span>[37:1](ema04.htm#fr_27.md) See J. O. Westwood,
 *Introduction to the Modern Classification of Insects*, London, 1839,
 vol. i. p. 204 ff.
 
-<span id="fn_28"></span>[37:2](ema04.htm#fr_28) See my *Mummy*, p. 233.
+<span id="fn_28"></span>[37:2](ema04.htm#fr_28.md) See my *Mummy*, p. 233.
 
-<span id="fn_29"></span>[39:1](ema04.htm#fr_29) See Joachim, *Das
+<span id="fn_29"></span>[39:1](ema04.htm#fr_29.md) See Joachim, *Das
 älteste Buch über Heilkunde*, Berlin, 1800, p. 160.
 
-<span id="fn_30"></span>[41:1](ema04.htm#fr_30) have given a summary of
+<span id="fn_30"></span>[41:1](ema04.htm#fr_30.md) have given a summary of
 the chief varieties of the funeral scarab in my *Papyrus of Ani*,
 London, 1895, p. 262.
 
-<span id="fn_31"></span>[42:1](ema04.htm#fr_31) *Fragment of a
+<span id="fn_31"></span>[42:1](ema04.htm#fr_31.md) *Fragment of a
 Græco-Egyptian Work upon Magic* (Publications of the Cambridge
 Antiquarian Society, 1852).
 
-<span id="fn_32"></span>[50:1](ema04.htm#fr_32) *I.e.*, the deceased,
+<span id="fn_32"></span>[50:1](ema04.htm#fr_32.md) *I.e.*, the deceased,
 who is identified with the god Osiris.
 
-<span id="fn_33"></span>[52:1](ema04.htm#fr_33) *Unas*, line 579.
+<span id="fn_33"></span>[52:1](ema04.htm#fr_33.md) *Unas*, line 579.
 
-<span id="fn_34"></span>[52:2](ema04.htm#fr_34) Line 192 f.
+<span id="fn_34"></span>[52:2](ema04.htm#fr_34.md) Line 192 f.
 
-<span id="fn_35"></span>[54:1](ema04.htm#fr_35) Compare, "Give thou to
+<span id="fn_35"></span>[54:1](ema04.htm#fr_35.md) Compare, "Give thou to
 Pepi these two fingers which thou hast given to Nefert, the daughter of
 the great god, as messengers from heaven to earth" (*Pepi*, line 422).
 
-<span id="fn_36"></span>[54:2](ema04.htm#fr_36) Pepi, line 200.
+<span id="fn_36"></span>[54:2](ema04.htm#fr_36.md) Pepi, line 200.
 
-<span id="fn_37"></span>[54:3](ema04.htm#fr_37) Pepi, line 471.
+<span id="fn_37"></span>[54:3](ema04.htm#fr_37.md) Pepi, line 471.
 
-<span id="fn_38"></span>[54:4](ema04.htm#fr_38) See my *Chapters of
+<span id="fn_38"></span>[54:4](ema04.htm#fr_38.md) See my *Chapters of
 Coming Forth by Day*, translation, p. 270.
 
-<span id="fn_39"></span>[55:1](ema04.htm#fr_39) See the Papyrus of Ani,
+<span id="fn_39"></span>[55:1](ema04.htm#fr_39.md) See the Papyrus of Ani,
 2nd edition, pl. 22.
 
-<span id="fn_40"></span>[55:2](ema04.htm#fr_40) See Pepi, line 196.
+<span id="fn_40"></span>[55:2](ema04.htm#fr_40.md) See Pepi, line 196.
 
-<span id="fn_41"></span>[55:3](ema04.htm#fr_41) *I.e.*, CXL.
+<span id="fn_41"></span>[55:3](ema04.htm#fr_41.md) *I.e.*, CXL.
 
-<span id="fn_42"></span>[57:1](ema04.htm#fr_42) One for each month of
+<span id="fn_42"></span>[57:1](ema04.htm#fr_42.md) One for each month of
 the year.
 
-<span id="fn_43"></span>[57:2](ema04.htm#fr_43) Kenyon, *Catalogue of
+<span id="fn_43"></span>[57:2](ema04.htm#fr_43.md) Kenyon, *Catalogue of
 Greek Papyri*, p. 61.
 
-<span id="fn_44"></span>[57:3](ema04.htm#fr_44) The seven vowels were
+<span id="fn_44"></span>[57:3](ema04.htm#fr_44.md) The seven vowels were
 supposed in the Gnostic system to contain all the names of God, and
 were, therefore, most powerful when used as a spell.
 
-<span id="fn_45"></span>[58:1](ema04.htm#fr_45) See Goodwin, Fragment of
+<span id="fn_45"></span>[58:1](ema04.htm#fr_45.md) See Goodwin, Fragment of
 a Græco-Egyptian work upon Magic, p. 7.
 
-<span id="fn_46"></span>[60:1](ema04.htm#fr_46) See the description of
+<span id="fn_46"></span>[60:1](ema04.htm#fr_46.md) See the description of
 this ceremony in Chapter VI.
 
-<span id="fn_47"></span>[60:2](ema04.htm#fr_47) *Menat* is connected
+<span id="fn_47"></span>[60:2](ema04.htm#fr_47.md) *Menat* is connected
 with the root from which the word for "nurse" (*menât*) is derived; see
 the article by Lefébure, "Le Menat et le Nom de l'Eunuque" in *Proc.
 Soc. Bibl. Arch.*, 1891, p. 333 f.
 
-<span id="fn_48"></span>[61:1](ema04.htm#fr_48) See *Papyrus of Ani*,
+<span id="fn_48"></span>[61:1](ema04.htm#fr_48.md) See *Papyrus of Ani*,
 2nd edit, plates 33, 31.
 
-<span id="fn_49"></span>[62:1](ema04.htm#fr_49) See *Papyrus of Ani*,
+<span id="fn_49"></span>[62:1](ema04.htm#fr_49.md) See *Papyrus of Ani*,
 2nd edit., plate 35.
 
-<span id="fn_50"></span>[63:1](ema04.htm#fr_50) See Lanzone,
+<span id="fn_50"></span>[63:1](ema04.htm#fr_50.md) See Lanzone,
 *Dizionario*, p. 853.
 
 ------------------------------------------------------------------------
 
-[Next: Chatper III. Magical Figures](ema05)
+[Next: Chatper III. Magical Figures](ema05.md)

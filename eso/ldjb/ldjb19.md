@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb18)  [Next](ldjb20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb18)  [Next](ldjb20.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -297,7 +297,7 @@ kindling her again with the love-fire, and uniting her with God."
 
 "<span class="smallcaps">Christ</span> is he that is regenerated of
 human quality; the mother of regeneration, the anointed one." (See
-*Stief*, 19.) <span id="fr_238"></span>[1](#fn_238)
+*Stief*, 19.) <span id="fr_238"></span>[1](#fn_238.md)
 
 ##### <span class="smallcaps">Man, Terrestrial and Celestial</span>.
 
@@ -596,13 +596,13 @@ Principles*, iv. 10.)
 
 ### Footnotes
 
-<span id="fn_238"></span>[328:1](ldjb19.htm#fr_238) Jesus represents the
+<span id="fn_238"></span>[328:1](ldjb19.htm#fr_238.md) Jesus represents the
 Logos and Christ the Karana sharira in Eastern terminology.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Index](ldjb20)
+[Next: Index](ldjb20.md)
 
 </div>

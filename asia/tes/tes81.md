@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes80)  [Next](tes82) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes80)  [Next](tes82.md) 
 
 ------------------------------------------------------------------------
 
-### 16. STORY OF GEGE-WOMAN. <span id="fr_120"></span>[1](#fn_120)
+### 16. STORY OF GEGE-WOMAN. <span id="fr_120"></span>[1](#fn_120.md)
 
 There was an old man and his wife. They had three sons. The old man said
 to his sons, "Listen, my children! Do not climb the roof, do not climb
@@ -18,7 +18,7 @@ home. Gege-Woman cooked some fish, and offered it to her future husband;
 but he pushed it off, and the fish fell to the ground. "Who wants to eat
 of your nasty fish, Breeches-Caught?" He left the house; but Gege-Woman
 followed him, and called aloud, "Gege, wolves, gege, bears, gege,
-wolverines, poz, poz, poz!" <span id="fr_121"></span>[2](#fn_121) So the
+wolverines, poz, poz, poz!" <span id="fr_121"></span>[2](#fn_121.md) So the
 wolves, the bears, and the wolverines came and devoured him. The old man
 had lost the first son.
 
@@ -45,7 +45,7 @@ wolverines one by one. Then he said to his boy, "You may go away. There
 is nobody left to destroy you." That very night he fled from there.
 Gege-Woman followed him. He saw a small stream of smoke coming out of
 the ground, and plunged down. It was the underground house of
-Haihai-Woman. <span id="fr_122"></span>[1](tes82.htm#fn_122) "Oh, oh I
+Haihai-Woman. <span id="fr_122"></span>[1](tes82.htm#fn_122.md) "Oh, oh I
 give me back my husband!" "I will not. He shall be mine." So the two
 women fought and killed each other. He went out, and fled to his
 parents' house. They visited the houses of the dead woman, and took
@@ -59,12 +59,12 @@ Sophie Bogoras, in the village of Markova, the Anadyr country, winter of
 
 ### Footnotes
 
-<span id="fn_120"></span>[145:1](tes81.htm#fr_120) In Russian, Гегйка
+<span id="fn_120"></span>[145:1](tes81.htm#fr_120.md) In Russian, Гегйка
 Баба which probably means "woman who cried 'gege, gege'!--W. B.
 
-<span id="fn_121"></span>[145:2](tes81.htm#fr_121) One of the calls
+<span id="fn_121"></span>[145:2](tes81.htm#fr_121.md) One of the calls
 addressed to the dog-team (Cf. Bogoras, "The Chukchee," 111).
 
 ------------------------------------------------------------------------
 
-[Next: 17. Story of Heretics with Iron Teeth](tes82)
+[Next: 17. Story of Heretics with Iron Teeth](tes82.md)

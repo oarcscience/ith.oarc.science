@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,8 +28,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](yat00)    [Page
-Index](pageidx)    [Text \[Zipped\]](yat.txt.gz)
+[Contents](#contents)    [Start Reading](yat00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](yat.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -56,60 +56,60 @@ was taken Berkeley where he lived the remainder of his life, studied
 closely by the anthropologists Alfred Kroeber and Thomas Talbot
 Waterman. Ishi died in 1916. He is the subject of an excellent book by
 Theodora Kroeber, wife of Alfred Krober, [Ishi in Two
-Worlds](https://www.amazon.com/exec/obidos/ASIN/0520229401/internetsacredte).
+Worlds](https://www.amazon.com/exec/obidos/ASIN/0520229401/internetsacredte.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](yat00)  
-[Contents](yat01)  
-[Introductory Remarks](yat02)  
+<span id="contents"></span> [Title Page](yat00.md)  
+[Contents](yat01.md)  
+[Introductory Remarks](yat02.md)  
 <span id="section_000"></span>
 
 ### I. Central Dialect (Gat‘ā'?i)
 
-[I. Flint Boy](yat03)  
-[II. The Theft Of Fire And The Burning Of The World](yat04)  
-[III. The Visit of the Geese People to Mount Shasta](yat05)  
-[IV. Bluejay's Journey to the Land of the Moon](yat06)  
-[V. The Creation of the Yana](yat07)  
-[VI. Origin of Sex, Hands, and Death](yat08)  
-[VII. Coyote and his Sister](yat09)  
+[I. Flint Boy](yat03.md)  
+[II. The Theft Of Fire And The Burning Of The World](yat04.md)  
+[III. The Visit of the Geese People to Mount Shasta](yat05.md)  
+[IV. Bluejay's Journey to the Land of the Moon](yat06.md)  
+[V. The Creation of the Yana](yat07.md)  
+[VI. Origin of Sex, Hands, and Death](yat08.md)  
+[VII. Coyote and his Sister](yat09.md)  
 <span id="section_001"></span>
 
 ### II. Northern Dialect (Garī'?i.)
 
-[X. Coyote, Pine Marten, and Loon](yat10)  
-[XI. The Drowning of Young Buzzard's Wife](yat11)  
-[XII. Coyote, Heron, and Lizard](yat12)  
-[XIII. The Finding of Fire](yat13)  
-[XIV. Indian Medicine-Men](yat14)  
-[XVI. A Lovers' Quarrel](yat15)  
-[XVII. Childbirth and Death](yat16)  
-[XVIII. Death and Burial](yat17)  
-[XIX. Betty Brown's Dream](yat18)  
-[XX. Spell Said by a Girl Desirous of Getting A Husband](yat19)  
-[XXI. Curse on People That Wish One Ill](yat20)  
-[XII. Prayer on Sneezing](yat21)  
+[X. Coyote, Pine Marten, and Loon](yat10.md)  
+[XI. The Drowning of Young Buzzard's Wife](yat11.md)  
+[XII. Coyote, Heron, and Lizard](yat12.md)  
+[XIII. The Finding of Fire](yat13.md)  
+[XIV. Indian Medicine-Men](yat14.md)  
+[XVI. A Lovers' Quarrel](yat15.md)  
+[XVII. Childbirth and Death](yat16.md)  
+[XVIII. Death and Burial](yat17.md)  
+[XIX. Betty Brown's Dream](yat18.md)  
+[XX. Spell Said by a Girl Desirous of Getting A Husband](yat19.md)  
+[XXI. Curse on People That Wish One Ill](yat20.md)  
+[XII. Prayer on Sneezing](yat21.md)  
 <span id="section_002"></span>
 
 ### Supplementary Texts
 
-[XXIII. The Rolling Skull](yat22)  
-[XXIV. Grizzly Bear and Deer](yat23)  
+[XXIII. The Rolling Skull](yat22.md)  
+[XXIV. Grizzly Bear and Deer](yat23.md)  
 <span id="section_003"></span>
 
 ### III. Supplementary Yana Myths
 
-[I. The Creation of Men](yat24)  
-[II. The Contest of Fox and Coyote](yat25)  
-[III. The Lost Brother](yat26)  
-[IV. The Flints and Grizzly Bears](yat27)  
-[V. ‘I'lhat?aina](yat28)  
-[VI. Fixing the Sun](yat29)  
-[VII. Woodpecker and Woodrat](yat30)  
-[VIII. Rabbit Woman and her Child](yat31)  
-[IX. Coyote and Rabbit Gamble](yat32)  
-[X. Gopher and Rabbit Gamble](yat33)  
-[XI. Coyote and the Stump](yat34)  
-[XII. Loon Woman](yat35)  
-[XIII. Pine Marten's Quest for Moon's Daughter](yat36)  
+[I. The Creation of Men](yat24.md)  
+[II. The Contest of Fox and Coyote](yat25.md)  
+[III. The Lost Brother](yat26.md)  
+[IV. The Flints and Grizzly Bears](yat27.md)  
+[V. ‘I'lhat?aina](yat28.md)  
+[VI. Fixing the Sun](yat29.md)  
+[VII. Woodpecker and Woodrat](yat30.md)  
+[VIII. Rabbit Woman and her Child](yat31.md)  
+[IX. Coyote and Rabbit Gamble](yat32.md)  
+[X. Gopher and Rabbit Gamble](yat33.md)  
+[XI. Coyote and the Stump](yat34.md)  
+[XII. Loon Woman](yat35.md)  
+[XIII. Pine Marten's Quest for Moon's Daughter](yat36.md)  

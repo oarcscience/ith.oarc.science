@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm34)  [Next](bnm36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm34)  [Next](bnm36.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ always green.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Aspen Leaves Tremble.](bnm36)
+[Next: Why The Aspen Leaves Tremble.](bnm36.md)

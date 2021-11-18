@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl06)  [Next](mhl08) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl06)  [Next](mhl08.md) 
 
 ------------------------------------------------------------------------
 
@@ -596,4 +596,4 @@ handiwork and masterpiece of God."
 
 ------------------------------------------------------------------------
 
-[Next: Numbers Rabba](mhl08)
+[Next: Numbers Rabba](mhl08.md)

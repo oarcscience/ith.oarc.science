@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt04)  [Next](hkt06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt04)  [Next](hkt06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -65,8 +65,8 @@ A.D. 1136.</span>Hugh de Payens died, however, shortly after his return,
 and was succeeded (A.D. 1136) by the Lord Robert, surnamed the
 Burgundian, (son-in-law of Anselm, Archbishop of Canterbury,) who, after
 the death of his wife, had taken the vows and the habit of the
-Templars. <span id="fr_27"></span>[\*](#fn_27) He was a valiant and
-skilful general, <span id="fr_28"></span>[†](#fn_28) but the utmost
+Templars. <span id="fr_27"></span>[\*](#fn_27.md) He was a valiant and
+skilful general, <span id="fr_28"></span>[†](#fn_28.md) but the utmost
 exertions of himself and his military monks were found insufficient to
 sustain the tottering empire of the Latin Christians.
 
@@ -80,7 +80,7 @@ Moslems. The one was named *Emod-ed-deen*, "Pillar of religion;" and the
 other *Nour-ed-deen*, "Light of religion," vulgarly, Noureddin. The
 Templars were worsted by overpowering numbers in several battles; and in
 one of these the valiant Templar, Brother Odo de Montfaucon, was
-slain. <span id="fr_29"></span>[‡](#fn_29) Emodeddeen took Tænza,
+slain. <span id="fr_29"></span>[‡](#fn_29.md) Emodeddeen took Tænza,
 Estarel, Hizam, Hesn-arruk, Hesn-Collis, &c. &c., and closed his
 victorious career by the capture of the important city of Edessa.
 Noureddin followed in the footsteps of the father: he obtained
@@ -91,7 +91,7 @@ a rash
 <span id="page_38">p. 38</span>
 
 attempt to recover possession of his principality of Edessa. <span
-id="fr_30"></span>[\*](#fn_30) The Latin kingdom of Jerusalem was shaken
+id="fr_30"></span>[\*](#fn_30.md) The Latin kingdom of Jerusalem was shaken
 to its foundations, and the oriental clergy in trepidation and alarm
 sent urgent letters to the Pope for assistance. The holy pontiff
 accordingly commissioned St. Bernard to preach the second crusade.
@@ -109,7 +109,7 @@ Pope, assumed the blood-red cross, the symbol of martyrdom, as the
 distinguishing badge of the order, which was appointed to be worn on
 their habits and mantles on the left side of the breast over the heart,
 whence they came afterwards to be known by the name of the *Red Friars*
-and the *Red Cross Knights*. <span id="fr_31"></span>[†](#fn_31)
+and the *Red Cross Knights*. <span id="fr_31"></span>[†](#fn_31.md)
 
 At this famous assembly various donations were made to the Templars, to
 enable them to provide more effectually for the defence of the Holy
@@ -119,7 +119,7 @@ formed part of the preceptory of Temple Dynnesley. This grant is
 expressed to be made at the chapter held at Easter, in Paris, in the
 presence of the Pope, the king of France, several archbishops, and one
 hundred and thirty Knights Templars clad in white mantles. <span
-id="fr_32"></span>[‡](#fn_32) Shortly before
+id="fr_32"></span>[‡](#fn_32.md) Shortly before
 
 <span id="page_39">p. 39</span>
 
@@ -130,7 +130,7 @@ A.D. 1147</span>this, the Dukes of Brittany and Lorraine, and the Counts
 of Brabant and Fourcalquier, had given to the order various lands and
 estates; and the possessions and power of the fraternity continued
 rapidly to increase in every part of Europe. <span
-id="fr_33"></span>[\*](#fn_33)
+id="fr_33"></span>[\*](#fn_33.md)
 
 Brother Everard des Barres, the newly-elected Master of the Temple,
 having collected together all the brethren from the western provinces,
@@ -148,7 +148,7 @@ husbanding and preserving their equipage and munitions of war: he
 proposed them as a model to the rest of the army, and in a council of
 war it was solemnly ordered that all the soldiers and officers should
 bind themselves in confraternity with the Templars, and should march
-under their orders. <span id="fr_34"></span>[†](#fn_34)
+under their orders. <span id="fr_34"></span>[†](#fn_34.md)
 
 Conrad, emperor of Germany, had preceded King Louis at the head of a
 powerful army, which was cut to pieces by the infidels in the north of
@@ -162,7 +162,7 @@ BARRES.
 A.D. 1148</span>on board some merchant vessels, and arrived with only a
 few attendants at Jerusalem, where he was received and entertained by
 the Templars, and was lodged in the Temple in the Holy City. <span
-id="fr_35"></span>[\*](#fn_35) Shortly afterwards King Louis arrived,
+id="fr_35"></span>[\*](#fn_35.md) Shortly afterwards King Louis arrived,
 accompanied by the new Master of the Temple, Everard des Barres; and the
 Templars now unfolded for the first time the red-cross banner in the
 field of battle. This was a white standard made of woollen stuff, having
@@ -199,11 +199,11 @@ sustained by our love and favour.
 "I have to inform you that they have lent me a considerable sum of
 money, which must be repaid to them quickly, that their house may not
 suffer, and that I may keep my word. . . ." <span
-id="fr_36"></span>[\*](#fn_36)
+id="fr_36"></span>[\*](#fn_36.md)
 
 Among the English nobility who enlisted in the second crusade were the
 two renowned warriors, Roger de Mowbray and William de Warrenne. <span
-id="fr_37"></span>[†](#fn_37) Roger de Mowbray was one of the most
+id="fr_37"></span>[†](#fn_37.md) Roger de Mowbray was one of the most
 powerful and warlike of the barons of England, and was one of the
 victorious leaders at the famous battle of the standard: he marched with
 King Louis to Palestine; fought under the banners of the Temple against
@@ -219,7 +219,7 @@ public penance, according to the rule and custom of the religion of the
 Templars; it should be lawful for the said Roger and his heirs to
 release such brother from the punishment of his public penance, without
 the interference or contradiction of any brother of the order. <span
-id="fr_38"></span>[‡](#fn_38)
+id="fr_38"></span>[‡](#fn_38.md)
 
 About the same period, Stephen, king of England, for the health of his
 own soul and that of Queen Matilda his wife, and for the good of the
@@ -235,23 +235,23 @@ Eustace, his son, and all his other children, granted and confirmed to
 God and the blessed Virgin Mary, and to the brethren of the knighthood
 of the Temple of Solomon at Jerusalem, all the manor of Cressynge, with
 the advowson of the church of the same manor, and also the manors of
-Egle and Witham. <span id="fr_39"></span>[\*](#fn_39) Queen Matilda,
+Egle and Witham. <span id="fr_39"></span>[\*](#fn_39.md) Queen Matilda,
 likewise, for the good of the souls of Earl Eustace, her father, the
 Lord Stephen, king of England, her husband, and of all her other
 children, granted "to the brethren of the Temple at Jerusalem" the manor
 of Covele or Cowley in Oxfordshire, two mills in the same county, common
 of pasture in Shotover forest, and the church of Stretton in
-Rutland. <span id="fr_40"></span>[†](#fn_40) Ralph de Hastings and
+Rutland. <span id="fr_40"></span>[†](#fn_40.md) Ralph de Hastings and
 William de Hastings also gave to the Templars, in the same reign, (A.D.
 1152,) lands at Hurst and Wyxham in Yorkshire, afterwards formed into
 the preceptory of Temple Hurst. William Asheby granted them the estate
 whereon the house and church of Temple Bruere were afterwards
-erected; <span id="fr_41"></span>[‡](#fn_41) and the order continued
+erected; <span id="fr_41"></span>[‡](#fn_41.md) and the order continued
 rapidly to increase in power and wealth in England and in all parts of
 Europe, through the charitable donations of pious Christians.
 
 After the miserable failure of the second crusade, <span
-id="fr_42"></span>[§](#fn_42) brother Everard des Barres, the Master of
+id="fr_42"></span>[§](#fn_42.md) brother Everard des Barres, the Master of
 the Temple, returned to Paris, with his friend and patron Louis, the
 French king; and the Templars, deprived of their chief, were now left
 alone and unaided to withstand the victorious career of the fanatical
@@ -269,7 +269,7 @@ during his sojourn at the court of the king of France.
 
 "Since we have been deprived of your beloved presence, we have had the
 misfortune to lose in battle the prince of Antioch <span
-id="fr_43"></span>[\*](#fn_43) and all his nobility. To this catastrophe
+id="fr_43"></span>[\*](#fn_43.md) and all his nobility. To this catastrophe
 has succeeded another. The infidels invaded the territory of Antioch;
 they drove all before them, and threw garrisons into several strong
 places. On the first intelligence of this disaster, our brethren
@@ -318,7 +318,7 @@ brethren, for the defence of the eastern church, and the holy sepulchre.
 same vows ought to make keenly alive to our misfortunes, join yourselves
 to our chief, enter into his views, second his designs, fail not to sell
 everything; come to the rescue; it is from you we await liberty and
-life!" <span id="fr_44"></span>[\*](#fn_44)
+life!" <span id="fr_44"></span>[\*](#fn_44.md)
 
 On the receipt of this letter, the Master of the Temple, instead of
 proceeding to Palestine, abdicated his authority, and entered into the
@@ -327,7 +327,7 @@ the most rigorous penance and mortification.
 
 He was succeeded (A.D. 1151) by Bernard de Tremelay, a nobleman of an
 illustrious family in Burgundy, in France, and a valiant and experienced
-soldier. <span id="fr_45"></span>[†](#fn_45)
+soldier. <span id="fr_45"></span>[†](#fn_45.md)
 
 The infidels made continual incursions into the christian territories,
 
@@ -345,7 +345,7 @@ distance the *Beit Allah*, or Temple of the Lord, their holy house of
 prayer. In a night attack, however, they were defeated with terrible
 slaughter, and were pursued all the way to the Jordan, five thousand of
 their number being left dead on the plain. <span
-id="fr_46"></span>[\*](#fn_46)
+id="fr_46"></span>[\*](#fn_46.md)
 
 Shortly after this affair the Templars lost their great patron, Saint
 Bernard, who died on the 20th of April, A.D. 1153, in the sixty-third
@@ -357,7 +357,7 @@ written to Melesinda, queen of Jerusalem, praising her majesty for the
 favour shown by her to the brethren of the order; and the third,
 addressed to Brother André de Montbard, a Knight Templar, conveys the
 affectionate salutations of St. Bernard to the Master and brethren, to
-whose prayers he recommends himself. <span id="fr_47"></span>[†](#fn_47)
+whose prayers he recommends himself. <span id="fr_47"></span>[†](#fn_47.md)
 
 The same year, at the siege of Ascalon, the Master of the Temple and his
 knights attempted alone and unaided to take that important city by
@@ -373,7 +373,7 @@ commencement to its close,
 
 not a single Templar escaped: they were slain to a man, and the dead
 bodies of the Master and his ill-fated knights were exposed in triumph
-from the walls. <span id="fr_48"></span>[\*](#fn_48)
+from the walls. <span id="fr_48"></span>[\*](#fn_48.md)
 
 <span class="margnote">BERTRAND DE  
 BLANQUEFORT  
@@ -390,14 +390,14 @@ ambuscade whilst marching with Baldwin, king of Jerusalem, near
 Tiberias, three hundred of the brethren were slain on the field of
 battle, and eighty-seven fell into the hands of the enemy, among whom
 was Bertrand de Blanquefort himself, and Brother Odo, marshal of the
-kingdom. <span id="fr_49"></span>[†](#fn_49) Shortly afterwards, thirty
+kingdom. <span id="fr_49"></span>[†](#fn_49.md) Shortly afterwards, thirty
 Knights Templars put to flight, slaughtered, and captured, two hundred
-infidels; <span id="fr_50"></span>[‡](#fn_50) and in a night attack on
+infidels; <span id="fr_50"></span>[‡](#fn_50.md) and in a night attack on
 the camp of Noureddin, they compelled that famous chieftain to fly,
 without arms and half-naked, from the field of battle. In this last
 affair the names of Robert Mansel, an Englishman, and Gilbert de Lacy,
 preceptor of the. Temple of Tripoli, are honourably mentioned. <span
-id="fr_51"></span>[§](#fn_51) The services of the Templars were
+id="fr_51"></span>[§](#fn_51.md) The services of the Templars were
 gratefully acknowledged in Europe, and the Pope, in a letter written in
 their behalf to the Archbishop of Rheims, his legate in France,
 characterizes
@@ -416,7 +416,7 @@ the world, and are known, not only to the neighbouring nations, but to
 all those who dwell at the remotest corners of the earth." The holy
 pontiff exhorts the archbishop to procure for them all the succour
 possible, both in men and horses, and to exert himself in their favour
-among all his suffragan bishops. <span id="fr_52"></span>[\*](#fn_52)
+among all his suffragan bishops. <span id="fr_52"></span>[\*](#fn_52.md)
 
 The fiery zeal and warlike enthusiasm of the Templars were equalled, if
 not surpassed, by the stern fanaticism and religious ardour of the
@@ -428,11 +428,11 @@ exclaimed, 'In the name of God do not put your life in danger, do not
 thus expose Islam and the Moslems. Thou art their stay and support, and
 if (but God preserve us therefrom) thou shouldest be slain, it will be
 all up with us.' 'Ah! Koteb-ed-deen,' said he, 'what hast thou said, who
-can save *Islam* <span id="fr_53"></span>[†](#fn_53) and our country,
+can save *Islam* <span id="fr_53"></span>[†](#fn_53.md) and our country,
 but that great God who has no equal?' 'What,' said he, on another
 occasion, 'do we not look to the security of our houses against robbers
 and plunderers, and shall we not defend religion?'" <span
-id="fr_54"></span>[‡](#fn_54)
+id="fr_54"></span>[‡](#fn_54.md)
 
 <span id="page_48">p. 48</span>
 
@@ -445,7 +445,7 @@ moral and religious duties and virtues inculcated by the Koran. He
 fought with the sword against the foes of Islam, and employed his whole
 energies, to the last hour of his life, in the enthusiastic and fanatic
 struggle for the recovery of Jerusalem. <span
-id="fr_55"></span>[\*](#fn_55)
+id="fr_55"></span>[\*](#fn_55.md)
 
 The close points of resemblance, indeed, between the religious
 fanaticism of the Templars and that of the Moslems are strikingly
@@ -460,7 +460,7 @@ the Pope and the holy fathers of the church proclaim that it is
 specially entrusted to them "to blot out from the earth all
 unbelievers," and they hold out the joys of paradise as the glorious
 reward for the dangers and difficulties of the task. <span
-id="fr_56"></span>[†](#fn_56) "In fighting for Christ," declares St.
+id="fr_56"></span>[†](#fn_56.md) "In fighting for Christ," declares St.
 Bernard, in his address to the Templars, "the kingdom of Christ is
 acquired. . . Go forth, therefore, O soldiers, in nowise mistrusting,
 and with a fearless spirit cast down the enemies of the cross of Christ,
@@ -542,7 +542,7 @@ They carry before them," says he, "to battle, a banner, half black and
 white, which they call *Beau-seant*, that is to say, in the Gallic
 tongue, *Bien-seant*, because they are fair and favourable to the
 friends of Christ, but black and terrible to his enemies." <span
-id="fr_57"></span>[\*](#fn_57)
+id="fr_57"></span>[\*](#fn_57.md)
 
 <span id="page_51">p. 51</span>
 
@@ -566,11 +566,11 @@ heard from one of the companions of the prophet, that the spirits of the
 martyrs will be lodged in the crops of green birds who taste the fruits
 and drink of the waters of paradise. Farewell; we shall meet again among
 the groves and the fountains which God has prepared for his
-elect." <span id="fr_58"></span>[\*](#fn_58)
+elect." <span id="fr_58"></span>[\*](#fn_58.md)
 
 The Master of the Temple, Brother Bertrand de Blanquefort, was liberated
 from captivity at the instance of Manuel Comnenus, Emperor of
-Constantinople. <span id="fr_59"></span>[†](#fn_59) After his release he
+Constantinople. <span id="fr_59"></span>[†](#fn_59.md) After his release he
 wrote several letters to Louis VII., king of France, describing the
 condition
 
@@ -585,7 +585,7 @@ the walls and defences of several towns, and swallowed up the dwellings
 of the inhabitants. "The persecutors of the church," says he, "hasten to
 avail themselves of our misfortunes; they gather themselves together
 from the ends of the earth, and come forth as one man against the
-sanctuary of God." <span id="fr_60"></span>[\*](#fn_60)
+sanctuary of God." <span id="fr_60"></span>[\*](#fn_60.md)
 
 It was during his mastership, that Geoffrey, the Knight Templar, and
 Hugh of Cæsarea, were sent on an embassy into Egypt, and had an
@@ -598,12 +598,12 @@ eunuchs. The sanctuary of the presence chamber was veiled with a
 curtain, and the vizier who conducted the ambassadors laid aside his
 scimetar, and prostrated himself three times on the ground; the veil was
 then removed, and they saw the Commander of the Faithful. <span
-id="fr_61"></span>[†](#fn_61)
+id="fr_61"></span>[†](#fn_61.md)
 
 Brother Bertrand de Blanquefort, in his letters to the king of France,
 gives an account of the military operations undertaken by the Order of
 Temple in Egypt, and of the capture of the populous and important city
-of Belbeis, the ancient Pelusium. <span id="fr_62"></span>[‡](#fn_62)
+of Belbeis, the ancient Pelusium. <span id="fr_62"></span>[‡](#fn_62.md)
 During the absence of the Master with the greater part of the fraternity
 on that expedition, the sultan Noureddin invaded Palestine; he defeated
 with terrible slaughter the serving brethren
@@ -614,7 +614,7 @@ with terrible slaughter the serving brethren
 BLANQUEFORT.  
 A.D. 1164.</span>and Turcopoles, or light horse of the order, who
 remained to defend the country, and sixty of the knights who commanded
-them were left dead on the plain. <span id="fr_63"></span>[\*](#fn_63)
+them were left dead on the plain. <span id="fr_63"></span>[\*](#fn_63.md)
 
 The zeal and devotion of the Templars in the service of Christ continued
 to be the theme of praise and of admiration both in the east and in the
@@ -626,7 +626,7 @@ out of love to God, and of reverence to the blessed Peter and ourselves,
 and also out of regard for the salvation of your own souls, ye do
 favour, and support, and honour them, and preserve all their rights
 entire and intact, and afford them the benefit of your patronage and
-protection." <span id="fr_64"></span>[†](#fn_64)
+protection." <span id="fr_64"></span>[†](#fn_64.md)
 
 Amalric, king of Jerusalem, the successor of Baldwin the Third, in a
 letter "to his dear friend and father," Louis the Seventh, king of
@@ -637,7 +637,7 @@ favour and regard to the Brothers of the Temple, who continually render
 up their lives for God and the faith, and through whom we do the little
 that we are able to effect, for in them indeed, after God, is placed the
 entire reliance of all those in the eastern regions who tread in the
-right path." . . . .  <span id="fr_65"></span>[‡](#fn_65)
+right path." . . . .  <span id="fr_65"></span>[‡](#fn_65.md)
 
 <span id="page_54">p. 54</span>
 
@@ -648,7 +648,7 @@ succeeded (A.D. 1167,) by Philip of Naplous, the first Master of the
 Temple who had been born in Palestine. He had been Lord of the
 fortresses of Krak and Montreal in Arabia Petræa, and took the vows and
 the habit of the order of the Temple after the death of his wife. <span
-id="fr_66"></span>[\*](#fn_66)
+id="fr_66"></span>[\*](#fn_66.md)
 
 We must now pause to take a glance at the rise of another great
 religio-military institution which, from henceforth, takes a leading
@@ -688,7 +688,7 @@ assumed as their distinguishing habit a *black* mantle with a *white*
 cross on the breast. Various lands and possessions were granted them by
 the lords and princes of the Crusade, both in Palestine and in Europe,
 and the order of the hospital of St. John speedily became a great and
-powerful institution. <span id="fr_67"></span>[\*](#fn_67)
+powerful institution. <span id="fr_67"></span>[\*](#fn_67.md)
 
 Gerard, a native of Provence, was at this period at the head of the
 society, with the title of "Guardian of the Poor." He was succeeded
@@ -721,7 +721,7 @@ the holy places; the pope observes that the funds of the hospital were
 insufficient to enable them effectually to fulfil the pious and holy
 task, and he exhorts the archbishops, bishops, and clergy,, to minister
 to the necessities of the order out of their abundant property. <span
-id="fr_68"></span>[\*](#fn_68) The Hospitallers consequently at this
+id="fr_68"></span>[\*](#fn_68.md) The Hospitallers consequently at this
 period had resolved to add the task of *protecting* to that of tending
 and relieving pilgrims.
 
@@ -738,7 +738,7 @@ single brother of the order of the Temple to accompany the king in arms;
 "For it appeared a hard matter to the Templars," says William of Tyre,
 "to wage war without cause, in defiance of treaties, and against all
 honour and conscience, upon a friendly nation, preserving faith with us,
-and relying on our own faith." <span id="fr_69"></span>[†](#fn_69)
+and relying on our own faith." <span id="fr_69"></span>[†](#fn_69.md)
 Gilbert d’Assalit consequently determined to obtain for the king from
 his own brethren that aid which the Templars denied; and to tempt the
 
@@ -748,16 +748,16 @@ his own brethren that aid which the Templars denied; and to tempt the
 NAPLOUS.  
 A.D. 1167.</span><span class="contnote">\[paragraph continues\]</span>
 Hospitallers to arm themselves generally as a great military society, in
-imitation of the Templars, <span id="fr_70"></span>[\*](#fn_70) and join
+imitation of the Templars, <span id="fr_70"></span>[\*](#fn_70.md) and join
 the expedition to Egypt, Gilbert d’Assalit was authorised to promise
 them, in the name of the king, the possession of the wealthy and
 important city of Belbeis, the ancient Pelusium, in perpetual
-sovereignty. <span id="fr_71"></span>[†](#fn_71)
+sovereignty. <span id="fr_71"></span>[†](#fn_71.md)
 
 According to De Vertot, the senior Hospitallers were greatly averse to
 the military projects of their chief: "They urged," says he, "that they
 were a religious order, and that the church had not put arms into their
-hands to make conquests;" <span id="fr_72"></span>[‡](#fn_72) but the
+hands to make conquests;" <span id="fr_72"></span>[‡](#fn_72.md) but the
 younger and more ardent of the brethren, burning to exchange the
 monotonous life of the cloister for the enterprize and activity of the
 camp, received the proposals of their superior with enthusiasm, and a
@@ -768,7 +768,7 @@ and to organize the Hospitallers as a great military society.
 
 Gilbert d’Assalit bestirred himself with great energy in the execution
 of these schemes; he wrote letters to the king of France for aid and
-assistance, <span id="fr_73"></span>[§](#fn_73) and borrowed money of
+assistance, <span id="fr_73"></span>[§](#fn_73.md) and borrowed money of
 the emperor of Constantinople. "Assalit," says De Vertot,
 
 <span id="page_58">p. 58</span>
@@ -799,7 +799,7 @@ unfortunate Gilbert d’Assalit, their superior, who had got the order
 into debt to the extent of 100,000 pieces of gold; they compelled him to
 resign his authority, and the unfortunate guardian of the hospital fled
 from Palestine to England, and was drowned in the Channel. <span
-id="fr_74"></span>[\*](#fn_74)
+id="fr_74"></span>[\*](#fn_74.md)
 
 From this period, however, the character of the order of the Hospital of
 St. John was entirely changed; the Hospitaliers
@@ -818,28 +818,28 @@ been feebly exercised amid the clash of arms and the excitement of war.
 
 ### Footnotes
 
-<span id="fn_27"></span>[37:\*](hkt05.htm#fr_27) *Will. Tyr.* lib. xiii.
+<span id="fn_27"></span>[37:\*](hkt05.htm#fr_27.md) *Will. Tyr.* lib. xiii.
 cap. 26; *Anselmus*, lib. iii. epistolarum. epist. 43, 63, 66, 67;
 *Duchesne in Hist. Burg.* lib. iv. cap. 37.
 
-<span id="fn_28"></span>[37:†](hkt05.htm#fr_28) Miles eximius et in
+<span id="fn_28"></span>[37:†](hkt05.htm#fr_28.md) Miles eximius et in
 armis strenuus, nobilis carne et moribus, dominus Robertus cognomine
 Burgundio Magister militiæ Templi.--*Will. Tyr.* lib. xv. cap. 6.
 
-<span id="fn_29"></span>[37:‡](hkt05.htm#fr_29) Vir eximius frater
+<span id="fn_29"></span>[37:‡](hkt05.htm#fr_29.md) Vir eximius frater
 militiæ Templi Otto de Monte Falconis, omnes de morte suâ mœrore et
 gemitu conficiens, occisus est.--*Will. Tyr.* lib. xv. cap. 6.
 
-<span id="fn_30"></span>[38:\*](hkt05.htm#fr_30) *Abulfeda*, ad ann.
+<span id="fn_30"></span>[38:\*](hkt05.htm#fr_30.md) *Abulfeda*, ad ann.
 Hegir. 534, 539. *Will. Tyr.* lib. xvi. cap. 4, 5, 7, 15, 16, who terms
 Zinghis, Sanguin. *Abulfaradge Chron. Syr*. p. 326, 328. *Will. Tyr.*
 lib. xvi. cap. 14.
 
-<span id="fn_31"></span>[38:†](hkt05.htm#fr_31) *Odo de Diogilo*, p. 33.
+<span id="fn_31"></span>[38:†](hkt05.htm#fr_31.md) *Odo de Diogilo*, p. 33.
 *Will. Tyr.* lib. xii. cap. 7; *Jac. de Vitr.* cap. lxv.; *Paul. Æmil.*
 p. 254; *Monast. Angl.* vol. vii. p. 814.
 
-<span id="fn_32"></span>[38:‡](hkt05.htm#fr_32) In nomine sanctæ et
+<span id="fn_32"></span>[38:‡](hkt05.htm#fr_32.md) In nomine sanctæ et
 individuæ Trinitatis omnibus dominis et amicis suis, et Sanctæ <span
 id="page_39">p. 39</span> Dei ecelesiæ filiis, Bernardus de Baliolo
 Salutem. Volo notum fieri omnibus tam futuris quam præsentibus, quod pro
@@ -851,97 +851,97 @@ Seuver, et Bardell et Rothomagi, et Frascumme, et fratribus militibus
 Templi alba chlamide indutis cxxx præsentibus.--*Reg. Cart. S. Joh.
 Jerus. in Bib. Cotton. Nero E. b.* No. xx. fo. 118.
 
-<span id="fn_33"></span>[39:\*](hkt05.htm#fr_33) *Gallia Christiana
+<span id="fn_33"></span>[39:\*](hkt05.htm#fr_33.md) *Gallia Christiana
 nova*, tom. i. col. 486.
 
-<span id="fn_34"></span>[39:†](hkt05.htm#fr_34) *Odo de Diogilo de
+<span id="fn_34"></span>[39:†](hkt05.htm#fr_34.md) *Odo de Diogilo de
 Ludov*. vii. *profectione in Orientem*, p. 67.
 
-<span id="fn_35"></span>[40:\*](hkt05.htm#fr_35) Rex per aliquot dies in
+<span id="fn_35"></span>[40:\*](hkt05.htm#fr_35.md) Rex per aliquot dies in
 Palatio Templariorum, ubi olim Regia Domus, quæ et Templum Salomonis
 constructa fuit manens, et sancta ubique loca peragrans, per Samariam ad
 Galilæam Ptolemaidam rediit. . . . . Convenerat enim cum rege
 militibusque Templi, circa proximum Julium, in Syriam ad expugnationem
 Damasci exercitum ducere.--*Otto Frising*, cap. 58.
 
-<span id="fn_36"></span>[41:\*](hkt05.htm#fr_36) Ludovici regis ad
+<span id="fn_36"></span>[41:\*](hkt05.htm#fr_36.md) Ludovici regis ad
 abbatem Sugerium epist. 58.--*Duchesne hist. franc. scrip*. tom. iv. p.
 512; see also epist. 59, ibid.
 
-<span id="fn_37"></span>[41:†](hkt05.htm#fr_37) *Simeonis Dunelmensis
+<span id="fn_37"></span>[41:†](hkt05.htm#fr_37.md) *Simeonis Dunelmensis
 hist*. ad ann. 1148, *apud* X *script*.
 
-<span id="fn_38"></span>[41:‡](hkt05.htm#fr_38) *Dugdale Baronage*, tom.
+<span id="fn_38"></span>[41:‡](hkt05.htm#fr_38.md) *Dugdale Baronage*, tom.
 i. p. 122. *Dugd. Monast*. vol. 7, p. 838.
 
-<span id="fn_39"></span>[42:\*](hkt05.htm#fr_39) Ex regist. Hosp. S.
+<span id="fn_39"></span>[42:\*](hkt05.htm#fr_39.md) Ex regist. Hosp. S.
 Joh. Jerusalem in Angli in *Bib. Cotton*. fol. 289, a-b. *Dugd. Monast.
 Angl.* ed. 1830, vol. vii. p. 820.
 
-<span id="fn_40"></span>[42:†](hkt05.htm#fr_40) Ex. cod. vet. M. S.
+<span id="fn_40"></span>[42:†](hkt05.htm#fr_40.md) Ex. cod. vet. M. S.
 penes Anton Wood, Oxon, fol. 14 a. Ib. p. 843.
 
-<span id="fn_41"></span>[42:‡](hkt05.htm#fr_41) *Liber Johannis
+<span id="fn_41"></span>[42:‡](hkt05.htm#fr_41.md) *Liber Johannis
 Stillingflete*, M. S. in officio armorum (L. I7) fol. 141 a, Harleian M.
 S. No. 4937.
 
-<span id="fn_42"></span>[42:§](hkt05.htm#fr_42) Geoffrey of Clairvaur
+<span id="fn_42"></span>[42:§](hkt05.htm#fr_42.md) Geoffrey of Clairvaur
 observes, however, that the second crusade could hardly be called
 unfortunate, since, though it did not at all help the Holy Land, it
 served to people heaven with martyrs.
 
-<span id="fn_43"></span>[43:\*](hkt05.htm#fr_43) His head and right hand
+<span id="fn_43"></span>[43:\*](hkt05.htm#fr_43.md) His head and right hand
 were cut off by Noureddin, and sent to the caliph at
 Bagdad.--*Abulfarag. Chron. Syr.* p. 336.
 
-<span id="fn_44"></span>[44:\*](hkt05.htm#fr_44) *Spicilegii
+<span id="fn_44"></span>[44:\*](hkt05.htm#fr_44.md) *Spicilegii
 Dacheriani*, tom. ii. p. 511; see also *Will. Tyr.* lib. xvii. cap. 9.
 
-<span id="fn_45"></span>[44:†](hkt05.htm#fr_45) *Will. Tyr.* lib. xvii.
+<span id="fn_45"></span>[44:†](hkt05.htm#fr_45.md) *Will. Tyr.* lib. xvii.
 cap. 21. *L’art de verifier les dates*, p. 340. *Nobiliaire de
 Franche-Compté*, par Dunod, p.140.
 
-<span id="fn_46"></span>[45:\*](hkt05.htm#fr_46) *Will. Tyr.* lib. xvii.
+<span id="fn_46"></span>[45:\*](hkt05.htm#fr_46.md) *Will. Tyr.* lib. xvii.
 cap. 20, ad ann. 1152.
 
-<span id="fn_47"></span>[45:†](hkt05.htm#fr_47) *S. Bernardi epistolæ*,
+<span id="fn_47"></span>[45:†](hkt05.htm#fr_47.md) *S. Bernardi epistolæ*,
 288, 289, 392, ed. Mabillon.
 
-<span id="fn_48"></span>[46:\*](hkt05.htm#fr_48) *Anselmi Gemblacensis
+<span id="fn_48"></span>[46:\*](hkt05.htm#fr_48.md) *Anselmi Gemblacensis
 Cron.* ad ann. 1153. *Will. Tyr.* lib. xvii. cap. 27.
 
-<span id="fn_49"></span>[46:†](hkt05.htm#fr_49) Captus est inter cæteros
+<span id="fn_49"></span>[46:†](hkt05.htm#fr_49.md) Captus est inter cæteros
 ibi Bertrandus de Blanquefort, Magister Militiæ Templi, vir religiosus
 ac timens Deum. *Will. Tyr.* lib. xviii. cap. 14. *Registr. epist*. apud
 *Martene* vet. script. tom. ii. col. 647.
 
-<span id="fn_50"></span>[46:‡](hkt05.htm#fr_50) Milites Templi circa
+<span id="fn_50"></span>[46:‡](hkt05.htm#fr_50.md) Milites Templi circa
 triginta, ducentos Paganorum euntes ad nuphas verterent in fugam, et
 divino præsidio comitante, omnes partim ceperunt, partim gladio
 trucidarunt. *Registr. epist. ut sup*. col. 647.
 
-<span id="fn_51"></span>[46:§](hkt05.htm#fr_51) *Will. Tyr.* lib. xix.
+<span id="fn_51"></span>[46:§](hkt05.htm#fr_51.md) *Will. Tyr.* lib. xix.
 cap. 8.
 
-<span id="fn_52"></span>[47:\*](hkt05.htm#fr_52) *Epist*. xvi. S.
+<span id="fn_52"></span>[47:\*](hkt05.htm#fr_52.md) *Epist*. xvi. S.
 Remensi archiepiscopo et ejus suffraganeis pro ecclesia Jerosolymitana
 et militibus Templi, apud *Martene vet. script.* tom. ii. col. 647.
 
-<span id="fn_53"></span>[47:†](hkt05.htm#fr_53) *Islam*, the name of the
+<span id="fn_53"></span>[47:†](hkt05.htm#fr_53.md) *Islam*, the name of the
 Mahometan religion. The word signifies literally, delivering oneself up
 to God.
 
-<span id="fn_54"></span>[47:‡](hkt05.htm#fr_54) Keightley's Crusaders.
+<span id="fn_54"></span>[47:‡](hkt05.htm#fr_54.md) Keightley's Crusaders.
 
-<span id="fn_55"></span>[48:\*](hkt05.htm#fr_55) The virtues of
+<span id="fn_55"></span>[48:\*](hkt05.htm#fr_55.md) The virtues of
 Noureddin are celebrated by the Arabic Historian *Ben-Schunah*, in his
-*Raoudhat Almenadhir*, by [*Azzeddin*](errata.htm#0) *Ebn-al-ather*, by
+*Raoudhat Almenadhir*, by [*Azzeddin*](errata.htm#0.md) *Ebn-al-ather*, by
 *Khondemir*, and in the work entitled, "The flowers of the two gardens,"
 by *Omaddeddin Kateb*. See also *Will. Tyr.* lib. xx. cap. 33.
 
-<span id="fn_56"></span>[48:†](hkt05.htm#fr_56) Regula, cap. xlviii.
+<span id="fn_56"></span>[48:†](hkt05.htm#fr_56.md) Regula, cap. xlviii.
 
-<span id="fn_57"></span>[50:\*](hkt05.htm#fr_57) Vexillum bipartitum ex
+<span id="fn_57"></span>[50:\*](hkt05.htm#fr_57.md) Vexillum bipartitum ex
 Albo et Nigro quod nominant *Beau-seant* id est Gallia linguâ
 *Bien-seant;* eo quod Christi amicis candidi sunt et benigni, inimicis
 vero terribiles atque nigri, *Jac. de Vitr.* *Hist. Hierosol. apud Gesta
@@ -950,76 +950,76 @@ oriental one, black and white being always used among the Arabs
 metaphorically, in the sense above described. Their customary salutation
 is, May your day be *white*, i. e. may you be happy.
 
-<span id="fn_58"></span>[51:\*](hkt05.htm#fr_58) *Alwakidi Arab. Hist.*
+<span id="fn_58"></span>[51:\*](hkt05.htm#fr_58.md) *Alwakidi Arab. Hist.*
 translated by Ockley. *Hist. Saracen*. It refers to a period antecedent
 to the crusades, but the same religio-military enthusiasm prevailed
 during the holy war for the recovery of Jerusalem.
 
-<span id="fn_59"></span>[51:†](hkt05.htm#fr_59) *Cinnamus*, lib. iv.
+<span id="fn_59"></span>[51:†](hkt05.htm#fr_59.md) *Cinnamus*, lib. iv.
 num. 22.
 
-<span id="fn_60"></span>[52:\*](hkt05.htm#fr_60) *Gesta Dei*, inter
+<span id="fn_60"></span>[52:\*](hkt05.htm#fr_60.md) *Gesta Dei*, inter
 regum et principum epistolas, tom. i. p. 1173, 6, 7. *Hist. Franc.
 Script.* tom. iv. p. 692, 693.
 
-<span id="fn_61"></span>[52:†](hkt05.htm#fr_61) Hist. de Saladin, par
+<span id="fn_61"></span>[52:†](hkt05.htm#fr_61.md) Hist. de Saladin, par
 *M. Marin*, tom. i. p. 120, 1. *Gibbon*, cap. 59.
 
-<span id="fn_62"></span>[52:‡](hkt05.htm#fr_62) *Gesta Dei*, epist. xiv.
+<span id="fn_62"></span>[52:‡](hkt05.htm#fr_62.md) *Gesta Dei*, epist. xiv.
 p. 1178, 9.
 
-<span id="fn_63"></span>[53:\*](hkt05.htm#fr_63) De fratribus nostris
+<span id="fn_63"></span>[53:\*](hkt05.htm#fr_63.md) De fratribus nostris
 ceciderunt LX. milites fortissimi, præter fratres clientes et
 Turcopulos, nec nisi *septem* tantum evasêre periculum. Epist. *Gauf
 Fulcherii* procuratoris Templi Ludovico regi Francorum. *Gesta Dei*,
 tom. i. p. 1182, 3, 4.
 
-<span id="fn_64"></span>[53:†](hkt05.htm#fr_64) Registr. epist. apud
+<span id="fn_64"></span>[53:†](hkt05.htm#fr_64.md) Registr. epist. apud
 *Martene*, vel script. tom. ii. col. 846, 847, 883.
 
-<span id="fn_65"></span>[53:‡](hkt05.htm#fr_65) ". . . . præcipue pro
+<span id="fn_65"></span>[53:‡](hkt05.htm#fr_65.md) ". . . . præcipue pro
 fratribus Templi, vestram exoramus Majestatem . . . . qui quotidie
 moriuntur pro Domino et servitio, et per quos possumus, si quid
 possumus. In <span id="page_54">p. 54</span> illis enim tota summa post
 Deum consistit omnium eorum, qui sano fiunt consilio in partibus
 orientis . . . . " *Gesta Dei*, tom. i. epist. xxi. p. 1181.
 
-<span id="fn_66"></span>[54:\*](hkt05.htm#fr_66) Dominus fuit Arabiæ
+<span id="fn_66"></span>[54:\*](hkt05.htm#fr_66.md) Dominus fuit Arabiæ
 secundæ, quæ est Petracensis, qui locus hodie Crach dicitur, et Syriæ
 Sobal . . . factus est Magister Militiæ Templi.--*Will. Tyr.* lib. xxii.
 cap. 5.
 
-<span id="fn_67"></span>[55:\*](hkt05.htm#fr_67) *Will. Tyr.* lib.
+<span id="fn_67"></span>[55:\*](hkt05.htm#fr_67.md) *Will. Tyr.* lib.
 xviii. cap. 4, 5.
 
-<span id="fn_68"></span>[56:\*](hkt05.htm#fr_68) Fratres ejusdem domus
+<span id="fn_68"></span>[56:\*](hkt05.htm#fr_68.md) Fratres ejusdem domus
 non formidantes pro fratribus suis animas ponere; cum servientibus et
 equitaturis *ad hoc officium specialiter deputatis et propriis sumptibus
 retentis*, tam in eundo, quam redcundo ab incursibus Paganorum
 defensant.--*De Verto*t. hist. des chev. de Malte, liv. i. preuve 9.
 
-<span id="fn_69"></span>[56:†](hkt05.htm#fr_69) *Will. Tyr.* lib. xx.
+<span id="fn_69"></span>[56:†](hkt05.htm#fr_69.md) *Will. Tyr.* lib. xx.
 cap. 5.
 
-<span id="fn_70"></span>[57:\*](hkt05.htm#fr_70) Prædicti enim
+<span id="fn_70"></span>[57:\*](hkt05.htm#fr_70.md) Prædicti enim
 Hospitalis fratres *ad imitationem* fratrum mllitiæ Templi, armis
 materialibus utentes, milites cum servientibus in suo collegio
 receperunt.--*Jac. de Vit.* cap. lxv.
 
-<span id="fn_71"></span>[57:†](hkt05.htm#fr_71) *Will. Tyr.* lib. xx.
+<span id="fn_71"></span>[57:†](hkt05.htm#fr_71.md) *Will. Tyr.* lib. xx.
 cap. 5.
 
-<span id="fn_72"></span>[57:‡](hkt05.htm#fr_72) This assumption of arms
+<span id="fn_72"></span>[57:‡](hkt05.htm#fr_72.md) This assumption of arms
 by the Hospitallers was entirely at variance with the original end and
 object of their institution. Pope Anastasius, in a bull dated A.D. 1154,
 observes, "omnia vestra *sustentationibus peregrinorum et pauperum*
 debent cedere, ac per hoc nullatenus alas usibus ea convenit
 applicari.--De Vertot, liv. L preuve 13.
 
-<span id="fn_73"></span>[57:§](hkt05.htm#fr_73) *Gest. Dei per Francos*,
+<span id="fn_73"></span>[57:§](hkt05.htm#fr_73.md) *Gest. Dei per Francos*,
 p. 1177.
 
-<span id="fn_74"></span>[58:\*](hkt05.htm#fr_74) *Will. Tyr.* lib. xx.
+<span id="fn_74"></span>[58:\*](hkt05.htm#fr_74.md) *Will. Tyr.* lib. xx.
 cap. 5. *Hoveden* in Hen. 2, p. 622. *De Vertot*, Hist. des Chevaliers
 de Malte, liv. ii. p. 150 to 161, ed. 1726.
 
@@ -1027,6 +1027,6 @@ de Malte, liv. ii. p. 150 to 161, ed. 1726.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](hkt06)
+[Next: Chapter IV](hkt06.md)
 
 </div>

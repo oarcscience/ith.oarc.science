@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj46) 
-[Next](npj48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj46.md) 
+[Next](npj48.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ mentioning. Pray, have you talents in any direction?
 SERVANT (*wishing to put in a good word for the boy*).
 
 He's reckoned a wonderful hand at the chop-sticks and drum. <span
-id="fr_210"></span>[1](#fn_208)
+id="fr_210"></span>[1](#fn_208.md)
 
 FATHER (*angrily*).
 
@@ -83,7 +83,7 @@ to me. These childish tricks--writing odes, capping verses and the like
 are not worth anything. They're no more important than playing ball or
 shooting toy darts. And as for the chop-sticks and drum--they are the
 sort of instruments street urchins play on under the Spear <span
-id="fr_211"></span>[2](#fn_209) at festival-time. But when I ask about
+id="fr_211"></span>[2](#fn_209.md) at festival-time. But when I ask about
 your studies, you tell me that in the Hokke you have not got to the
 Law-Master Chapter, and in the Gusha-shāstra you have not reached the
 Seventh Book. Might not the time you spent on the chop-sticks have been
@@ -140,7 +140,7 @@ Amida! Praise to Amida!
 CAPTAIN.
 
 There you go! You promised to behave properly, but now are
-disturbing <span id="fr_212"></span>[1](#fn_210) the whole congregation
+disturbing <span id="fr_212"></span>[1](#fn_210.md) the whole congregation
 by your ravings. I never heard such senseless shouting.
 
 <span id="page_244">p. 244</span>
@@ -163,7 +163,7 @@ Wisdom.
 
 <span id="img_24400"></span>
 
-![YAMAUBA (THE LADY OF THE MOUNTAINS)](img/24400.jpg)  
+![YAMAUBA (THE LADY OF THE MOUNTAINS)](img/24400.jpg.md)  
 YAMAUBA (THE LADY OF THE MOUNTAINS)
 
  
@@ -172,15 +172,15 @@ YAMAUBA (THE LADY OF THE MOUNTAINS)
 
 ### Footnotes
 
-<span id="fn_208"></span>[242:1](npj47.htm#fr_210) The *sasara* (split
+<span id="fn_208"></span>[242:1](npj47.htm#fr_210.md) The *sasara* (split
 bamboos rubbed together) and *yatsubachi* "eight-sticks," a kind of
 vulgar drum.
 
-<span id="fn_209"></span>[242:2](npj47.htm#fr_211) A sort of maypole set
+<span id="fn_209"></span>[242:2](npj47.htm#fr_211.md) A sort of maypole set
 up at the Gion Festival.
 
-<span id="fn_210"></span>[243:1](npj47.htm#fr_212) Literally "waking."
+<span id="fn_210"></span>[243:1](npj47.htm#fr_212.md) Literally "waking."
 
 ------------------------------------------------------------------------
 
-[Next: Ikkaku Sennin](npj48)
+[Next: Ikkaku Sennin](npj48.md)

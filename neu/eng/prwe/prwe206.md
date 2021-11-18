@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe205)  [Next](prwe207) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe205)  [Next](prwe207.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ their own names."
 
 ------------------------------------------------------------------------
 
-[Next: The Voice from the Sea](prwe207)
+[Next: The Voice from the Sea](prwe207.md)

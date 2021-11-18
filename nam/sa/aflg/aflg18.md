@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg17) [Next](aflg19)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg17) [Next](aflg19.md)
 
 ------------------------------------------------------------------------
 
@@ -8,22 +8,22 @@ American](../index) [Index](index) [Previous](aflg17) [Next](aflg19)
 ## C<span class="small">HAPTER</span> XVIII KANAIMA; THE INVISIBLE OR BROKEN ARROW
 
    <span class="small">Expression of the Law of Retaliation: Kanaima may
-appear as a human being or Spirit (*[320](#pp_320)*), and perhaps can be
-satisfactorily explained (*[320A](#pp_320A)*), or as an animal
-(*[321](#pp_321)*). Kanaima's handiwork, when fatal, can be recognized
-as such only by the piai (*[322](#pp_322)*). Discovery of the individual
-under whose influence Kanaima has acted (*[323](#pp_323)*); search for
+appear as a human being or Spirit (*[320](#pp_320)*.md), and perhaps can be
+satisfactorily explained (*[320A](#pp_320A)*.md), or as an animal
+(*[321](#pp_321)*.md). Kanaima's handiwork, when fatal, can be recognized
+as such only by the piai (*[322](#pp_322)*.md). Discovery of the individual
+under whose influence Kanaima has acted (*[323](#pp_323)*.md); search for
 this individual by one of deceased's relatives, or by a hireling
-(*[324](#pp_324)*); avenger proceeds to get into touch with his victim
-(*[325](#pp_325)*); mutilates him with poison, club, or arrow
-(*[326](#pp_326)*), but only to such extent that death will not ensue
-until third day after (*[327](#pp_327)-328*), when he will complete the
+(*[324](#pp_324)*.md); avenger proceeds to get into touch with his victim
+(*[325](#pp_325)*.md); mutilates him with poison, club, or arrow
+(*[326](#pp_326)*.md), but only to such extent that death will not ensue
+until third day after (*[327](#pp_327)-328*.md), when he will complete the
 mutilation of the corpse, and so obtain his own purification
-(*[329](#pp_329)*).  
-   The Invisible or Broken Arrow (*[330](#pp_330)-331*); the Misson of
-the Arrow (*[331A](#pp_331A)*).</span>
+(*[329](#pp_329)*.md).  
+   The Invisible or Broken Arrow (*[330](#pp_330)-331*.md); the Misson of
+the Arrow (*[331A](#pp_331A)*.md).</span>
 
-   <span id="pp_320"></span>**320.**[\*](#pp_320) An individual becomes
+   <span id="pp_320"></span>**320.**[\*](#pp_320.md) An individual becomes
 exceedingly ill. All the ordinary everyday remedies have been resorted
 to, the piai has invoked his Familiar Spirit, yet the patient dies; or
 he may sometimes expire without warning. The very fact of the
@@ -31,7 +31,7 @@ medicine-man's inability to effect a cure serves only to confirm the
 belief held in certain tribes—Akawaios, Makusis, Arekunas, for
 example—that the victim's condition is the work of some human agency
 more or less disguised, modified, or influenced by a peculiarly terrible
-Spirit known as Kanaima ([Sect. *307*](aflg17.htm#pp_307)). The word
+Spirit known as Kanaima ([Sect. *307*](aflg17.htm#pp_307).md). The word
 itself is said to be Akawaio; the Arawak term is Mahui, which thus comes
 to be applied by this people to all Akawaios in general. According to
 inquiry made of the Arawaks, who, like the Caribs and Warraus, do not
@@ -79,7 +79,7 @@ and came out again on the opposite shore of the river bank about ten or
 twelve miles farther on, whence he emerged to continue afresh his
 torments upon mankind (ScR, <span class="small">II</span>, 182).
 
-   <span id="pp_320A"></span>**320A.**[\*](#pp_320A) And yet again it is
+   <span id="pp_320A"></span>**320A.**[\*](#pp_320A.md) And yet again it is
 quite possible that the term Kanaima may have an easily intelligible
 origin based on the bloody exploits of certain of the Rio Branco tribes,
 whose reputation, through the avenues of exchange and barter, could
@@ -103,14 +103,14 @@ class="small">II</span>, 235-6.\]
 
 <span id="page_356">p. 356</span>
 
-   <span id="pp_321"></span>**321.**[\*](#pp_321) As already hinted, the
+   <span id="pp_321"></span>**321.**[\*](#pp_321.md) As already hinted, the
 Kanaima may just as often be in the form of an animal. "Many of the
 Indians believe that these 'Kanaima' animals are possessed by the
 spirits of men who have devoted themselves to deeds of blood and
 cannibalism. To enjoy the savage delight of killing and devouring human
 beings, such a person will assume the form, or his soul animate the
-body, of a jaguar \[[Sects. *146*](aflg09.htm#pp_146),
-[*147*](aflg09.htm#pp_147), [*148*](aflg09.htm#pp_148)\], approach the
+body, of a jaguar \[[Sects. *146*](aflg09.htm#pp_146.md),
+[*147*](aflg09.htm#pp_147), [*148*](aflg09.htm#pp_148.md)\], approach the
 sleeping-places of men, or waylay the solitary Indian in his path" (Br,
 373). One can tell, by the effects, the particular animal whose
 characteristics Kanaima have assumed. Does he give a blow that stretches
@@ -121,7 +121,7 @@ imbibes the spirit of the camudi, and like the constrictor, strangles
 a person's body in the form of an insect, a worm, or even an inanimate
 object.
 
-   <span id="pp_322"></span>**322.**[\*](#pp_322) When a person dies it
+   <span id="pp_322"></span>**322.**[\*](#pp_322.md) When a person dies it
 is only the piai who knows whether the death is due to an evil Spirit,
 or to the "poison" \[blood-revenge\] of another Indian. If to the
 former, he is buried with the usual ceremonial, but if the verdict is
@@ -129,9 +129,9 @@ that he was sacrificed for some offence the corpse is carefully
 examined, and should only a blue spot or something unusual be found on
 it, the piai will show that here the victim was wounded with the
 invisible poisoned arrow (ScR, <span class="small">II</span>, 496).<span
-id="page_356_fr_1"></span>[1](#page_356_note_1)
+id="page_356_fr_1"></span>[1](#page_356_note_1.md)
 
-   <span id="pp_323"></span>**323.**[\*](#pp_323) Once the handiwork of
+   <span id="pp_323"></span>**323.**[\*](#pp_323.md) Once the handiwork of
 Kanaima has been recognized, the piai's powers, as such, are not brought
 into further requisition, in the way of retaliation or revenge on the
 particular individual with whose connivance this terrible Spirit has
@@ -161,7 +161,7 @@ incurred the hatred of the all-powerful piai, or should the latter be
 desirous of the wife of some Indian, this or the other would be the
 cause of the death (ScR, <span class="small">II</span>, 496).
 
-   <span id="pp_324"></span>**324.**[\*](#pp_324) A near relative is
+   <span id="pp_324"></span>**324.**[\*](#pp_324.md) A near relative is
 charged with the work of vengeance: he becomes a Kanaima, is supposed to
 be possessed by the destroying Spirit so-called, and has to live apart
 according to strict rule, and submit to many privations until the deed
@@ -185,7 +185,7 @@ rid their employers of any obnoxious individuals, and these are called
 Kanaimas (Bro, 141). These examples serve to show how the work of
 vengeance could be deputed to strangers and mercenaries.
 
-   <span id="pp_325"></span>**325.**[\*](#pp_325) But whoever it may be
+   <span id="pp_325"></span>**325.**[\*](#pp_325.md) But whoever it may be
 that is charged with the duty of avenging the death, he suddenly
 disappears from the settlement: no one knows where he is. He wanders now
 as Kanaima through the forests, valleys, and heights, and does not
@@ -207,13 +207,13 @@ but it is the bodily decoration which gives him his distinctive
 features. He paints bright red spots on his skin, to show that, changing
 into a jaguar at night, he can thus slay his victims. A set of jaguar's
 claws hung up in a sorcerer's hut have the same threatening
-signification ([BrB, 154](../lmbg/lmbg4b.htm#page_154)). In describing
+signification ([BrB, 154](../lmbg/lmbg4b.htm#page_154).md). In describing
 two such Kanaimas, Dance says that their emaciated bodies were painted
 in lines: they were tigers or \[boa\]-constrictors (Da, 276). Schomburgk
 talks of the avenger being painted in a peculiar manner, and clothed
 with an animal skin (ScR, <span class="small">I</span>, 324).
 
-   <span id="pp_326"></span>**326.**[\*](#pp_326) The longed-for
+   <span id="pp_326"></span>**326.**[\*](#pp_326.md) The longed-for
 opportunity arrives at last; the Kanaima finds his victim alone, and
 slays him by poison, the arrow, or the club. Among the Akawaios
 especially, but also among the Makusis, Wapisianas, and Arekunas, a
@@ -256,15 +256,15 @@ filamentosa*) and thus makes him wake, but by this time Kanaima changes
 himself into an acouri or a deer. As the victim limps along, he startles
 either one of these animals, and by this sign or token recognizes that
 Kanaima has been giving him "medicine."<span
-id="page_359_fr_1"></span>[1](#page_359_note_1)
+id="page_359_fr_1"></span>[1](#page_359_note_1.md)
 
-   <span id="pp_327"></span>**327.**[\*](#pp_327) Now, whichever
+   <span id="pp_327"></span>**327.**[\*](#pp_327.md) Now, whichever
 means—as, poison, arrow, club, visible or invisible—the Kanaima agent
 may employ to carry out his design, he especially refrains from causing
 the immediate death of his victim for the reason that at least a three
 days' respite or interregnum has to be observed before he can complete,
 on his victim's body, those particular rites ([Sect.
-*329*](aflg18.htm#pp_329)) without the due observance of which he can
+*329*](aflg18.htm#pp_329).md) without the due observance of which he can
 not obtain his own purification. If circumstances should prevent him
 thus being purified, he must become demented and die raving mad. Hence,
 after assuring himself that the actual death will not take place before
@@ -297,10 +297,10 @@ his back and neck bruised, but not bleeding. He had been deprived of
 speech by the murderer according to the cruel system followed in those
 crimes" (Br, 269).
 
-   <span id="pp_328"></span>**328.**[\*](#pp_328) If the sufferer is
+   <span id="pp_328"></span>**328.**[\*](#pp_328.md) If the sufferer is
 found by his friends and carried home, the perpetrator of the deed, the
 Kanaima, is obliged to hover near, to discover the place of burial (Br,
-357-60), for reasons already stated ([Sect. *327*](aflg18.htm#pp_327)).
+357-60), for reasons already stated ([Sect. *327*](aflg18.htm#pp_327).md).
 But the victim's friends are equally shrewd in burying the corpse so
 secretly that its whereabouts shall not be known to him, hence every
 precaution is taken to insure this object. Should the site of burial be
@@ -322,13 +322,13 @@ vitals and causing him to perish miserably. An Akawai told Brett of
 another plan that is sometimes followed, namely, wurali poison is placed
 on the dead body (Br, 359-60).
 
-   <span id="pp_329"></span>**329.**[\*](#pp_329) On the third night the
+   <span id="pp_329"></span>**329.**[\*](#pp_329.md) On the third night the
 Kanaima visits the grave and sticks a pointed staff into the body: upon
 drawing this out, if there is blood on it, he will lick it off, and all
 the dangerous consequences of his act are paralyzed for him, with the
 result that he returns contented to his settlement (ScR, <span
 class="small">II</span>, 497). He has undergone purification, so to
-speak.<span id="page_360_fr_1"></span>[1](#page_360_note_1) He cannot be
+speak.<span id="page_360_fr_1"></span>[1](#page_360_note_1.md) He cannot be
 released from the power of the evil Spirit which possesses him until he
 has performed this act. If this, which is an offering to the Kanaima
 Spirit within him, be accomplished, he becomes like other men, and can
@@ -345,51 +345,51 @@ which it is now hard to unravel. Brett says that, among the Akawais, the
 whole system of Kanaima is taught by father to son in many families (Br,
 358).
 
-   <span id="pp_330"></span>**330.**[\*](#pp_330) It has been already
-stated ([Sect. *322*](aflg18.htm#pp_322)) that Kanaima's handiwork may
+   <span id="pp_330"></span>**330.**[\*](#pp_330.md) It has been already
+stated ([Sect. *322*](aflg18.htm#pp_322).md) that Kanaima's handiwork may
 be recognized in the blue spot due to the invisible poisoned arrow
 employed by him. On the Napo River (Amazon), the Indians will "attribute
 many of their ills to the puffing of invisible darts into their bodies
 by evil, designing persons—an idea no doubt suggested by the mysterious
 and silent operation of their own instruments of offence" (AS, 155). A
 similar belief is current in the Guianas. Caribs ascribe children's
-sicknesses ([Sect. *110*](aflg08.htm#pp_110)) and Arawaks otherwise
+sicknesses ([Sect. *110*](aflg08.htm#pp_110).md) and Arawaks otherwise
 unaccountable illness in general, and any sharp sudden agonizing pains
 in particular, to an invisible arrow. The latter tribe will often
 describe it as the Bush Spirit's arrow (Yawahu-shímara). Interesting in
 this connection is the fact that a miniature bow and arrow may be
 extracted by the piai from the patient's body by means of massage and
-suction ([Sect. *316*](aflg17.htm#pp_316)). There are further beliefs
+suction ([Sect. *316*](aflg17.htm#pp_316).md). There are further beliefs
 about certain mysterious arrows which it is worth noting. Where the
 arrow sank into the water, there lurked the danger in the shape of
 submerged rocks, but where it floated, there the passage was clear for
-the corial to pass ([Sect. *151*](aflg09.htm#pp_151)). Owing to an
+the corial to pass ([Sect. *151*](aflg09.htm#pp_151).md). Owing to an
 invisible fungus growing upon the arrow in the one case ([Sect.
-*145*](aflg09.htm#pp_145)) and upon the bowman's arm in the other
-([Sect. *144*](aflg09.htm#pp_144)), the missile does not hit its mark.
+*145*](aflg09.htm#pp_145).md) and upon the bowman's arm in the other
+([Sect. *144*](aflg09.htm#pp_144).md), the missile does not hit its mark.
 When either is properly cleaned, however, the arrow is made to split a
 fishing-line and a distant hanging-vine rope, respectively. It has been
 claimed for the Spirits, and medicine-man—and after all, the powers of
 these agents were identical—as almost one of their perquisites, so to
-speak ([Sect. *30*](aflg02.htm#pp_30)), that they alone can hit an
+speak ([Sect. *30*](aflg02.htm#pp_30).md), that they alone can hit an
 animal by shooting the arrow up into the air and letting it fall from
 above on the quarry. As a matter of fact this was once a more or less
 common practice among the turtle-hunters of the Amazon and Orinoco.<span
-id="page_361_fr_1"></span>[1](#page_361_note_1)
+id="page_361_fr_1"></span>[1](#page_361_note_1.md)
 
-   <span id="pp_331"></span>**331.**[\*](#pp_331) A few words on certain
+   <span id="pp_331"></span>**331.**[\*](#pp_331.md) A few words on certain
 ideas concerning broken bows and broken arrows must be given place here.
 The term "broken" would seem to represent almost the normal condition in
 which certain of the Bush Spirits employed bows, for which reason some
 of these denizens of the forest were known as Shimarabu-akaradáni
-([Sect. *95*](aflg08.htm#pp_95)). The same <span id="page_362">p.
+([Sect. *95*](aflg08.htm#pp_95).md). The same <span id="page_362">p.
 362</span> Beings were also evidently not averse to using broken arrows,
-subsquently spliced ([Sect. *144*](aflg09.htm#pp_144)), but it is
+subsquently spliced ([Sect. *144*](aflg09.htm#pp_144).md), but it is
 certainly difficult to trace the raison-d'être of the self-castigation
 with the two halves of a broken arrow to insure strength and courage
-([Sects. *139*](aflg09.htm#pp_139), [*221B*](aflg14.htm#pp_221B)).
+([Sects. *139*](aflg09.htm#pp_139), [*221B*](aflg14.htm#pp_221B).md).
 
-   <span id="pp_331A"></span>**331A.**[\*](#pp_331A) The idea of
+   <span id="pp_331A"></span>**331A.**[\*](#pp_331A.md) The idea of
 invisible poisoned or broken arrows noted in the two next sections
 preceding may possibly bear relation to one of the procedures adopted in
 the declaration of hostilities on the outbreak of war. Thus, the call to
@@ -406,7 +406,7 @@ class="small">II</span>, 316).
 
 ------------------------------------------------------------------------
 
-[Next](aflg19)
+[Next](aflg19.md)
 
 ------------------------------------------------------------------------
 
@@ -414,26 +414,26 @@ class="small">II</span>, 316).
 
 <span id="footnotes_page_356">p. 356</span>
 
-<span id="page_356_note_1"></span>[1](#page_356_fr_1) For further
+<span id="page_356_note_1"></span>[1](#page_356_fr_1.md) For further
 information concerning this particular arrow, see Sects.
-[*330*](aflg18.htm#pp_330), [*331*](aflg18.htm#pp_331).
+[*330*](aflg18.htm#pp_330), [*331*](aflg18.htm#pp_331.md).
 
 <span id="footnotes_page_359">p. 359</span>
 
-<span id="page_359_note_1"></span>[1](#page_359_fr_1) On the Rio Içana
+<span id="page_359_note_1"></span>[1](#page_359_fr_1.md) On the Rio Içana
 (upper Rio Negro); maraka-imbára is the secret magic poison to which
 every death is ascribed (KG, <span class="small">I</span>, 45, 207,
 214).
 
 <span id="footnotes_page_360">p. 360</span>
 
-<span id="page_360_note_1"></span>[1](#page_360_fr_1) Compare the
+<span id="page_360_note_1"></span>[1](#page_360_fr_1.md) Compare the
 licking of the switch by the girl at puberty ([Sect.
-*171*](aflg11.htm#pp_171)).
+*171*](aflg11.htm#pp_171).md).
 
 <span id="footnotes_page_361">p. 361</span>
 
-<span id="page_361_note_1"></span>[1](#page_361_fr_1) I have observed
+<span id="page_361_note_1"></span>[1](#page_361_fr_1.md) I have observed
 and since recorded the same method among the natives of North
 Queensland.—W. E. R.
 

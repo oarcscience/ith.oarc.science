@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt33)  [Next](pyt35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt33)  [Next](pyt35.md) 
 
 ------------------------------------------------------------------------
 
@@ -240,4 +240,4 @@ anger of Set.
 
 ------------------------------------------------------------------------
 
-[Next: 32. A Purification Litany, Utterance 563](pyt35)
+[Next: 32. A Purification Litany, Utterance 563](pyt35.md)

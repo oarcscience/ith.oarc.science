@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj35)  [Next](atfj37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj35)  [Next](atfj37.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_39"></span> <span align="CENTER"> [![39. The Woodcutter
 Saves Choyo From Robbers](tn/39.jpg)  
-Click to enlarge](img/39.jpg)  
+Click to enlarge](img/39.jpg.md)  
 39. The Woodcutter Saves Choyo From Robbers  
 </span>
 
@@ -215,7 +215,7 @@ fever. She was carried to her home, and for three months was seriously
 ill. On her recovery she gave most of her money to temples, and in
 charity; she sold her house, keeping only enough money to buy herself
 rice, and spent the remainder of her days alone in the little hut at the
-foot of Mount [Kanzanrei](errata.htm#3), where at the age of twenty-one
+foot of Mount [Kanzanrei](errata.htm#3.md), where at the age of twenty-one
 she was found dead of a broken heart. The samurai was brave; but was he
 noble in spite of his haughty national pride? To the Japanese mind he
 acted as did Buddha when he renounced his worldly loves. What chance is
@@ -226,6 +226,6 @@ Korea?
 
 ------------------------------------------------------------------------
 
-[Next: XXXV. White Bone Mountain](atfj37)
+[Next: XXXV. White Bone Mountain](atfj37.md)
 
 </div>

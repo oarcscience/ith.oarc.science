@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](xft24)  [Next](xft26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](xft24)  [Next](xft26.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kaffir (Xhosa) Folk-Lore*, by George McCall Theal, \[1886\], at
 Intangible Textual Heritage
 
@@ -181,6 +181,6 @@ deceived by the jackal.\]
 
 ------------------------------------------------------------------------
 
-[Next: Story Of Lion And Little Jackal](xft26)
+[Next: Story Of Lion And Little Jackal](xft26.md)
 
 </div>

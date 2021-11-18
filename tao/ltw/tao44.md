@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](tao43)  [Next](tao45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](tao43)  [Next](tao45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../img/t_yy.jpg)](index)  
+[![](../img/t_yy.jpg)](index.md)  
 *Laotzu's Tao and Wu Wei*, by Dwight Goddard and Henri Borel, \[1919\],
 at Intangible Textual Heritage
 
@@ -30,4 +30,4 @@ endangered; he will be able therefore to continue.
 
 ------------------------------------------------------------------------
 
-[Next: XLV. The Virtue (Teh) of Greatness](tao45)
+[Next: XLV. The Virtue (Teh) of Greatness](tao45.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto26) 
-[Next](aoto28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto26.md) 
+[Next](aoto28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 #### THE KILLING OF THE SUITORS.
 
 Ulysses tore off his rags, and sprang on the broad pavement, <span
-id="fr_43"></span>[\*](#fn_43) with his bow and his quiver full of
+id="fr_43"></span>[\*](#fn_43.md) with his bow and his quiver full of
 arrows. He shed the arrows on to the ground at his feet and said, "The
 contest is at an end. I will now see whether Apollo will vouchsafe me to
 hit another mark which no man has yet aimed at."
@@ -145,7 +145,7 @@ less valiant now that you are on your own ground? Come on, my good
 fellow, and see how Mentor will fight for you and requite you for your
 many kindnesses." But she did not mean to give him the victory just yet,
 so she flew up to one of the rafters and sat there in the form of a
-swallow. <span id="fr_44"></span>[\*](#fn_44)
+swallow. <span id="fr_44"></span>[\*](#fn_44.md)
 
 The struggle still continued. "My friends," said Agelaus, <span
 class="margnote"><span id="an_22:241">241</span></span> "he will soon
@@ -192,7 +192,7 @@ fall in with him yourself."
 
 <span class="margnote"><span id="an_22:361">361</span></span> "Here I
 am, my dear Sir," said Medon, coming out from under a freshly flayed
-heifer's hide <span id="fr_45"></span>[\*](#fn_45) which had concealed
+heifer's hide <span id="fr_45"></span>[\*](#fn_45.md) which had concealed
 him; "tell your father, or he will kill me in his rage against the
 suitors for having wasted his substance and been so disrespectful to
 yourself." Ulysses smiled, and told them to go outside into the outer
@@ -280,21 +280,21 @@ for he remembered every one of them.
 
 ### Footnotes
 
-<span id="fn_43"></span>[90:\*](aoto27.htm#fr_43) It is not expressly
+<span id="fn_43"></span>[90:\*](aoto27.htm#fr_43.md) It is not expressly
 stated that the "stone pavement" is here intended. The Greek has simply
 ἆλτο δ᾽ ἐπὶ μέγαν οὐδόν, but I do not doubt that the stone pavement is
 intended.
 
-<span id="fn_44"></span>[93:\*](aoto27.htm#fr_44) This again suggests,
+<span id="fn_44"></span>[93:\*](aoto27.htm#fr_44.md) This again suggests,
 though it does not prove, that we are in an open court surrounded by a
 cloister, on the rafters of which swallows would often perch. Line 297
 suggests this even more strongly, "the roof" being, no doubt, the roof
 of the cloister, on to which Minerva flew from the rafter, that her ægis
 might better command the whole court.
 
-<span id="fn_45"></span>[94:\*](aoto27.htm#fr_45) Probably the hide of
+<span id="fn_45"></span>[94:\*](aoto27.htm#fr_45.md) Probably the hide of
 the heifer that Philœtius had brought in that morning (xx. 186).
 
 ------------------------------------------------------------------------
 
-[Next: Book XXIII. Penelope Recognizes Ulysses](aoto28)
+[Next: Book XXIII. Penelope Recognizes Ulysses](aoto28.md)

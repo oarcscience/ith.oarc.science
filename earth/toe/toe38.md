@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe37.md) 
 
 ------------------------------------------------------------------------
 
@@ -350,7 +350,7 @@ beautiful system of mountains and valleys, of hills and plains, covered
 with growing plants, and inhabited by animals. We have seen, that, with
 this system of animal and vegetable economy, which depends on soil and
 climate, there is also a system of moving water, poured upon the surface
-of the earth <span id="fr_79"></span>[30](#fn_79), in the most
+of the earth <span id="fr_79"></span>[30](#fn_79.md), in the most
 beneficial manner possible for the use of vegetation, and the
 preservation of our soil; and that this water is gathered together again
 by running to the lowest place, in order to avoid accumulation of water
@@ -522,7 +522,7 @@ the consideration of particular appearances.
 
 ### Footnotes
 
-<span id="fn_79"></span>[v2:30](toe38.htm#fr_79) See Dissertations upon
+<span id="fn_79"></span>[v2:30](toe38.htm#fr_79.md) See Dissertations upon
 Subjects of Natural Philosophy, Part I.
 
  

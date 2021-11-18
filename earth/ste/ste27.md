@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste26)  [Next](ste28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste26)  [Next](ste28.md) 
 
 ------------------------------------------------------------------------
 
@@ -439,7 +439,7 @@ Secondary, or of the principal Planet, and its Moons or Attendants, but
 also amongst Planets of the same rank; for they may differ both in their
 original constitution, and according to the form and state they are
 under at present; of which sort of differences we have noted <span
-id="fr_10"></span>[1](#fn_10) some amongst our Planets, though they seem
+id="fr_10"></span>[1](#fn_10.md) some amongst our Planets, though they seem
 to be all of much-what the same original constitution. Besides,
 according to external circumstances, their distance, manner of motion,
 and posture to the Sun, which is the Heart of the whole System, they
@@ -607,9 +607,9 @@ To whom be Praise and Honour for evermore.
 
 ### Footnotes
 
-<span id="fn_10"></span>[225:1](ste27.htm#fr_10) *Book* 1, *chap*.
+<span id="fn_10"></span>[225:1](ste27.htm#fr_10.md) *Book* 1, *chap*.
 *last*, *p*. 128, *&c*.
 
 ------------------------------------------------------------------------
 
-[Next: Title Page (Book III and IV)](ste28)
+[Next: Title Page (Book III and IV)](ste28.md)

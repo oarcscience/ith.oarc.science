@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cvmc06)  [Next](cvmc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cvmc06)  [Next](cvmc08.md) 
 
 ------------------------------------------------------------------------
 
@@ -186,4 +186,4 @@ himself *as he wishes to be*--fortunate, happy, and well.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Attention](cvmc08)
+[Next: VI. The Attention](cvmc08.md)

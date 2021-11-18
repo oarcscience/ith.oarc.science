@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap05)  [Next](biblio) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap05)  [Next](biblio.md) 
 
 ------------------------------------------------------------------------
 
@@ -559,4 +559,4 @@ deputamus?
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](biblio)
+[Next: Bibliography](biblio.md)

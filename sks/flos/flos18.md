@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos17)  [Next](flos19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos17)  [Next](flos19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -35,12 +35,12 @@ illustration in a passage characterized by its force and vigour.
    *Archery*.—In Shakespeare's day this was a very popular diversion,
 and the "Knights of Prince Arthur's Round Table" was a society of
 archers instituted by Henry VIII., and encouraged in the reign of
-Elizabeth. <span id="fr_771"></span>[1](#fn_769) Fitzstephen, who wrote
+Elizabeth. <span id="fr_771"></span>[1](#fn_769.md) Fitzstephen, who wrote
 in the reign of Henry II., notices it among the summer pastimes of the
 London youth; and the repeated Statutes from the 13th to the 16th
 century enforcing the use of the bow, generally ordered the leisure time
 upon holidays to be passed in its exercise. <span
-id="fr_772"></span>[2](#fn_770) Shakespeare seems to have been
+id="fr_772"></span>[2](#fn_770.md) Shakespeare seems to have been
 intimately acquainted with the numerous terms connected with archery,
 many of which we find scattered throughout his plays. Thus, in "Love's
 Labour's Lost" (iv. 1), Maria uses the expression, "Wide o’ the bow
@@ -50,7 +50,7 @@ hand," a term which signified a good deal to the left of the mark.
 
 <span id="page_371">p. 371</span>
 
-the passages," says Dyce, <span id="fr_773"></span>[1](#fn_771) "which I
+the passages," says Dyce, <span id="fr_773"></span>[1](#fn_771.md) "which I
 happen to recollect in our early writers, I should say that the clout,
 or pin, stood in the centre of the inner circle of the butts, which
 circle, being painted white, was called the white; that, to 'hit the
@@ -72,7 +72,7 @@ archery.
    The term "loose" was the technical one for the discharging of an
 arrow, and occurs in "Love's Labour's Lost" (v. 2).
 
-   According to Capell, <span id="fr_774"></span>[2](#fn_772) the words
+   According to Capell, <span id="fr_774"></span>[2](#fn_772.md) the words
 of Bottom, in "A Midsummer Night's Dream" (i. 2), "hold or cut
 bow-strings," were a proverbial phrase, and alluded to archery. "When a
 party was made at butts, assurance of meeting was given in the words of
@@ -106,7 +106,7 @@ and Pastimes" (1876, pp. 419–421).
    *Barley-break*.—This game, called also the "Last Couple in Hell,"
 which is alluded to in the "Two Noble Kinsmen," (iv. 3), was played by
 six people—three of each sex,—who were coupled by lot. <span
-id="fr_775"></span>[1](#fn_773) A piece of ground was then chosen, and
+id="fr_775"></span>[1](#fn_773.md) A piece of ground was then chosen, and
 divided into three compartments, of which the middle one was called
 hell. It was the object of the couple condemned to this division to
 catch the others, who advanced from the two extremities; in which case a
@@ -134,8 +134,8 @@ their confinement occasionally solaced themselves by kisses,—
 
    In Scotland it was called barla-breikis, and was, says Jamieson,
 "generally played by young people in a corn-yard, hence its name
-barla-bracks, about the stacks." <span id="fr_776"></span>[2](#fn_774)
-The term "hell," says Nares, <span id="fr_777"></span>[3](#fn_775) "was
+barla-bracks, about the stacks." <span id="fr_776"></span>[2](#fn_774.md)
+The term "hell," says Nares, <span id="fr_777"></span>[3](#fn_775.md) "was
 indiscreet, and must have
 
 <span id="page_373">p. 373</span>
@@ -167,7 +167,7 @@ And in "Two Gentlemen of Verona" (i. 2) by Lucetta—
 <div style="margin-left: 32px">
 
 <span class="small">"Indeed, I bid the base for Proteus." <span
-id="fr_778"></span>[1](#fn_776)</span>
+id="fr_778"></span>[1](#fn_776.md)</span>
 
 </div>
 
@@ -179,7 +179,7 @@ Parliament, because of the interruption it occasioned to the members and
 others in passing to and fro as their business required. It was also
 played by men, and especially in Cheshire and other adjoining counties,
 where it seems to have been in high repute among all classes. Strutt
-thus describes the game: <span id="fr_779"></span>[2](#fn_777)—"The
+thus describes the game: <span id="fr_779"></span>[2](#fn_777.md)—"The
 performance of this pastime requires two parties of equal number, each
 of them having a base or home to themselves, at the distance of about
 twenty or thirty yards. The players then on either side taking hold of
@@ -221,7 +221,7 @@ In Spenser's "Faerie Queene" (bk. v., canto 8), we read—
 by Sebastian, was common in days gone by. It is minutely described in
 Markham's "Hunger's Prevention" (1600), which is quoted by Dyce
 ("Glossary," pp. 29, 30). The term "bat-fowling," however, had another
-signification, says Mr Harting, <span id="fr_780"></span>[1](#fn_778) in
+signification, says Mr Harting, <span id="fr_780"></span>[1](#fn_778.md) in
 Shakespeare's day, and it may have been in this secondary sense that it
 is used in the "Tempest," being a slang word for a particular mode of
 cheating. "Bat-fowling" was practised about dusk, when the rogue
@@ -247,7 +247,7 @@ Cleopatra" (ii. 5), where he makes Cleopatra say—
 <span class="contnote">\[paragraph continues\]</span> —the game being
 unknown to the ancients. The modern manner of playing at billiards
 differs from that formerly in use. At the commencement of the last
-century, <span id="fr_781"></span>[1](#fn_779) the billiard-table was
+century, <span id="fr_781"></span>[1](#fn_779.md) the billiard-table was
 square, having only three pockets for the balls to run in, situated on
 one of the sides—that is, at each corner, and the third between them.
 About the middle of the table, a small arch of iron was placed, and at a
@@ -259,9 +259,9 @@ was not easily effected, because they were not fastened to the table.
    *Bone-ace*.—This old game, popularly called "One-and-Thirty," is
 alluded to by Grumio in "Taming of the Shrew" (i. 2):—"Well, was it fit
 for a servant to use his master so; being, perhaps, for aught I see,
-two-and-thirty—a pip out." <span id="fr_782"></span>[2](#fn_780) It was
+two-and-thirty—a pip out." <span id="fr_782"></span>[2](#fn_780.md) It was
 very like the French game of "Vingt-un," only a longer reckoning.
-Strutt <span id="fr_783"></span>[3](#fn_781) says, that "perhaps
+Strutt <span id="fr_783"></span>[3](#fn_781.md) says, that "perhaps
 Bone-Ace is the same as the game called Ace of Hearts, prohibited with
 all lotteries by cards and dice, An. 12 Geor. II., Cap. 38 sect. 2." It
 is mentioned in Massinger's "Fatal Dowry" (ii. 2):—"You think, because
@@ -287,7 +287,7 @@ come out of the shell, is, says Douce ("Illustrations of Shakspeare," p.
 seems to have been a popular pastime in olden times. The small ball, now
 called the jack, at which the players aim, was sometimes termed the
 "mistress." In "Troilus and Cressida" (iii. 2), Pandarus says: "So, so;
-rub <span id="fr_784"></span>[1](#fn_782) on, and kiss the mistress." A
+rub <span id="fr_784"></span>[1](#fn_782.md) on, and kiss the mistress." A
 bowl that kisses the jack or mistress, is in the most advantageous
 position; hence "to kiss the jack" served to denote a state of great
 advantage. Thus, in "Cymbeline" (ii. 1), Cloten exclaims, "Was there
@@ -326,7 +326,7 @@ instance, in the "Taming of the Shrew" (iv. 5), Petruchio says—
 
    And in "Troilus and Cressida," (iv. 5), the term "bias-cheek" is used
 to denote a cheek swelling out like the bias of a bowl. <span
-id="fr_785"></span>[2](#fn_783)
+id="fr_785"></span>[2](#fn_783.md)
 
    *Cards*.—Some of the old terms connected with card-playing
 
@@ -344,7 +344,7 @@ are curious, a few of which are alluded to by Shakespeare. Thus, in
 alluding to the cardle table, where to carry out a side meant to carry
 out the game with your partner successfully. So, "to set up a side" was
 to become partners in the game; "to pull or pluck down a side" was to
-lose it. <span id="fr_786"></span>[1](#fn_784)
+lose it. <span id="fr_786"></span>[1](#fn_784.md)
 
    A lurch at cards denoted an easy victory. So, in "Coriolanus" (ii.
 2), Cominius says,—"He lurch’d all swords of the garland," meaning, as
@@ -367,7 +367,7 @@ To vie strange forms with fancy."</span>
 
    *Cherry Pit*.—This consisted in throwing cherry stones into a little
 hole,—a game, says Nares, still practised with dumps or money. <span
-id="fr_787"></span>[2](#fn_785) In "Twelfth Night" (iii. 4), Sir Toby
+id="fr_787"></span>[2](#fn_785) In "Twelfth Night" (iii. 4.md), Sir Toby
 alludes to it,—"What, man! ’tis not for gravity to play at cherry-pit
 with Satan." Nash, in his "Pierce Penilesse," speaking of the
 disfigurement of ladies’ faces by painting, says,—"You may play at
@@ -390,14 +390,14 @@ world!"</span>
 <div style="margin-left: 32px">
 
 <span class="small">"I pray you, sir, is it your will  
- To make a stale <span id="fr_788"></span>[3](#fn_786) of me amongst
+ To make a stale <span id="fr_788"></span>[3](#fn_786.md) of me amongst
 these mates?"</span>
 
 </div>
 
 <span id="page_378">p. 378</span>
 
-alluding, as Douce <span id="fr_789"></span>[1](#fn_787) suggests, to
+alluding, as Douce <span id="fr_789"></span>[1](#fn_787.md) suggests, to
 the chess term of stale mate which is used when the game is ended by the
 king being alone and unchecked, and then forced into a situation from
 which he is unable to move without going into check. This is a
@@ -431,13 +431,13 @@ holds,
 gourd. "Fullams" were also false dice, "loaded with metal on one side,
 so as better to produce high throws, or to turn up low numbers, as was
 required, and were hence named 'high men' or 'low men,' also 'high
-fullams' and low fullams." <span id="fr_790"></span>[2](#fn_788) It has
+fullams' and low fullams." <span id="fr_790"></span>[2](#fn_788.md) It has
 been suggested that dice were termed *fullams* either because Fulham was
 the resort of sharpers, or because they were principally manufactured
 there.
 
    *Dun is in the mire*.—This is a Christmas sport, which Gifford <span
-id="fr_791"></span>[3](#fn_789) describes as follows,—"A log of wood is
+id="fr_791"></span>[3](#fn_789.md) describes as follows,—"A log of wood is
 brought into the midst of the room; this is *Dun* (the cart-horse), and
 a cry is raised that he is stuck in the mire. Two of the company
 advance, either with or without ropes, to draw him out. After repeated
@@ -504,7 +504,7 @@ described in Drayton's "Moon-calf,"
 
    *Fencing*.—In years gone by, there were three degrees in fencing, a
 master's, a provost's, and a scholar's. <span
-id="fr_792"></span>[1](#fn_790) To each of these a prize was played with
+id="fr_792"></span>[1](#fn_790.md) To each of these a prize was played with
 various weapons in some open place or square. In "Titus Andronicus" (i.
 1), this practice is alluded to by Saturninus:—
 
@@ -528,7 +528,7 @@ Slender, who relates how he bruised his shin "with playing at sword and
 dagger with a master of fence; three veneys for a dish of stewed
 prunes." It is used metaphorically in "Love's Labour's Lost" (v. 1), for
 a brisk attack, by Armado:—"A sweet touch, a quick venue of wit! snip,
-snap, quick and home!" <span id="fr_793"></span>[1](#fn_791) The Italian
+snap, quick and home!" <span id="fr_793"></span>[1](#fn_791.md) The Italian
 term "Stoccado" or "Stoccata," abbreviated also into "Stock," seems to
 have had a similar signification. In "Romeo and Juliet" (iii. 1),
 Mercutio drawing his sword says
@@ -599,12 +599,12 @@ says:—
 <div style="margin-left: 32px">
 
 <span class="small">"If I do, fillip me with a three-man beetle." <span
-id="fr_794"></span>[1](#fn_792)</span>
+id="fr_794"></span>[1](#fn_792.md)</span>
 
 </div>
 
    *Flap-dragon*.—This pastime, popularly called flap-dragon <span
-id="fr_795"></span>[2](#fn_793) was much in use in days gone by. A small
+id="fr_795"></span>[2](#fn_793.md) was much in use in days gone by. A small
 combustible body was set on fire, and put afloat in a glass of liquor.
 The courage of the toper was tried in the attempt to toss off the glass
 in such a manner as to prevent the flap-dragon doing mischief—raisins in
@@ -616,13 +616,13 @@ IV." (ii. 4),
 <span id="page_382">p. 382</span>
 
 he makes Falstaff say, "And drinks off candles’ ends for
-flap-dragons." <span id="fr_796"></span>[1](#fn_794)
+flap-dragons." <span id="fr_796"></span>[1](#fn_794.md)
 
    It appears that formerly gallants used to vie with each other in
 drinking off flap-dragons to the health of their mistresses—which were
 sometimes even candles' ends, swimming in brandy or other strong
 spirits, whence, when on fire, they were snatched by the mouth and
-swallowed; <span id="fr_797"></span>[2](#fn_795) an allusion to which
+swallowed; <span id="fr_797"></span>[2](#fn_795.md) an allusion to which
 occurs in the passage above. As candles’ ends made the most formidable
 flap-dragon, the greatest merit was ascribed to the heroism of
 swallowing them. Ben Jonson, in "The Masque of the Moon" (1838, p. 616,
@@ -642,7 +642,7 @@ candles ends &c., as the sublunary lovers do."
 
    In "King Lear" (i. 4), Kent calls Oswald "a base football player."
 
-   According to Strutt, <span id="fr_798"></span>[3](#fn_796) it does
+   According to Strutt, <span id="fr_798"></span>[3](#fn_796.md) it does
 not appear among the popular exercises before the reign of Edward III.;
 and then, in 1349, it was prohibited by a public edict because it
 impeded the progress of archery. The danger, however, attending this
@@ -678,10 +678,10 @@ continues\]</span>  It ratleth, soundeth, and shineth clere and fayre,
 </div>
 
 Shrovetide was the great season for football matches; <span
-id="fr_799"></span>[1](#fn_797) and at a comparatively recent period it
+id="fr_799"></span>[1](#fn_797.md) and at a comparatively recent period it
 was played in Derby, Nottingham, Kingston-upon-Thames, etc.
 
-   *Gleek*.—According to Drake, <span id="fr_800"></span>[2](#fn_798)
+   *Gleek*.—According to Drake, <span id="fr_800"></span>[2](#fn_798.md)
 this game is alluded to twice by Shakespeare—in "A Midsummer Night's
 Dream" (iii. 1)—
 
@@ -708,7 +708,7 @@ appear ridiculous.
    *Handy Dandy*.—A very old game among children. A child hides
 something in his hand, and makes his playfellow guess in which hand it
 is. If the latter guess rightly, he wins the article, if wrongly, he
-loses an equivalent. <span id="fr_801"></span>[3](#fn_799) Sometimes,
+loses an equivalent. <span id="fr_801"></span>[3](#fn_799.md) Sometimes,
 says Mr Halliwell-Phillipps, "the game is played by a sort of sleight of
 hand, changing the article rapidly from one hand into the other, so that
 the looker on is often deceived, and induced to name the hand into which
@@ -716,7 +716,7 @@ it is apparently thrown." This is what Shakespeare alludes to by
 changing places in "King Lear" (iv. 6), "See how yond justice rails upon
 yond simple thief. Hark, in thine ear: change places; and handy-dandy,
 which is the justice, which is the thief?" <span
-id="fr_802"></span>[4](#fn_800)
+id="fr_802"></span>[4](#fn_800.md)
 
    *Hide fox and all after*.—A children's game, considered by
 
@@ -737,7 +737,7 @@ Nothing" (ii. 3), may have been a technical term in the game of
    *Hoodman-blind*.—The childish sport now called blind-man's buff was
 known by various names, such as hood-wink, blind-hob, etc. It was termed
 "hoodman-blind," because the players formerly were blinded with their
-hoods, <span id="fr_803"></span>[1](#fn_801) and under this designation
+hoods, <span id="fr_803"></span>[1](#fn_801.md) and under this designation
 it is mentioned by Hamlet (iii. 4)—
 
 <div style="margin-left: 32px">
@@ -781,7 +781,7 @@ That run i’ the clock's behalf."</span>
 
 <span id="page_385">p. 385</span>
 
-   Burton, <span id="fr_804"></span>[1](#fn_802) too, who wrote at the
+   Burton, <span id="fr_804"></span>[1](#fn_802.md) too, who wrote at the
 close of the Shakespearian era, mentions the ruinous consequences of
 this recreation:—"Horse races are desports of great men, and good in
 themselves, though many gentlemen by such means gallop quite out of
@@ -807,7 +807,7 @@ Wait. W. I could lie down, I'm sure."</span>
 </div>
 
    *Loggat*.—The game so called resembles bowls, but with notable
-differences. <span id="fr_805"></span>[2](#fn_803) First, it is played,
+differences. <span id="fr_805"></span>[2](#fn_803.md) First, it is played,
 not on a green, but on a floor strewed with ashes. The jack is a wheel
 of *lignum vitæ*, or other hard wood, 9 inches in diameter, and 3 or 4
 inches thick. The loggat, made of apple wood, is a truncated cone, 26 or
@@ -832,7 +832,7 @@ He says:—"It is one of the unlawful games
 <span id="page_386">p. 386</span>
 
 enumerated in the Thirty-third statute of Henry VIII., <span
-id="fr_806"></span>[1](#fn_804) it is the same which is now called
+id="fr_806"></span>[1](#fn_804.md) it is the same which is now called
 kittle-pins, in which the boys often make use of bones instead of wooden
 pins, throwing at them with another bone instead of bowling."
 
@@ -849,9 +849,9 @@ pastime in "Measure for Measure" (i. 3)—
 —dribbling being a term used in the game of marbles, for shooting slowly
 along the ground, in contradistinction to *plumping;* which is elevating
 the hand so that the marble does not touch the ground till it reaches
-the object of its aim. <span id="fr_807"></span>[2](#fn_805) According
+the object of its aim. <span id="fr_807"></span>[2](#fn_805.md) According
 to others, a dribbler was a term in archery expressive of
-contempt. <span id="fr_808"></span>[3](#fn_806)
+contempt. <span id="fr_808"></span>[3](#fn_806.md)
 
    *Muss*.—This was a phrase for a scramble, when any small objects were
 thrown down, to be taken by those who could seize them. In "Antony and
@@ -876,15 +876,15 @@ The word is used by Dryden in the Prologue to the "Widow Ranter"—
    *Nine-Men's-Morris*.—This rustic game, which is still extant in some
 parts of England, was sometimes called "the nine men's merrils," from
 *merelles*, or *mereaux*, an ancient French word for the jettons or
-counters with which it was played. <span id="fr_809"></span>[4](#fn_807)
+counters with which it was played. <span id="fr_809"></span>[4](#fn_807.md)
 The other term *morris* is probably a corruption suggested by the sort
 of dance, which in the progress of the game the counters performed. Some
-consider <span id="fr_810"></span>[5](#fn_808) that it was
+consider <span id="fr_810"></span>[5](#fn_808.md) that it was
 
 <span id="page_387">p. 387</span>
 
 identical with the game known as "Nine-holes," <span
-id="fr_811"></span>[1](#fn_809) mentioned by Herrick in his
+id="fr_811"></span>[1](#fn_809.md) mentioned by Herrick in his
 "Hesperides"—
 
 <div style="margin-left: 32px">
@@ -941,7 +941,7 @@ Night's Dream" (ii. 1)—
 <span class="contnote">\[paragraph continues\]</span> This game was also
 transferred to a board, and continues a fire-side recreation of the
 agricultural labourer. It is often called by the name of "Mill," or
-"Shepherd's Mill." <span id="fr_812"></span>[1](#fn_810)
+"Shepherd's Mill." <span id="fr_812"></span>[1](#fn_810.md)
 
    *Noddy*.—Some doubt exists as to what game at cards was signified in
 this term. It has been suggested that cribbage is meant. Mr Singer
@@ -958,7 +958,7 @@ Troilus anon: if he see me, you shall see him nod at me.
  *Cres*. Will he give you the nod?  
  *Pan*. You shall see.  
  *Cres*. If he do, the rich shall have more." <span
-id="fr_813"></span>[2](#fn_811)</span>
+id="fr_813"></span>[2](#fn_811.md)</span>
 
 </div>
 
@@ -1002,7 +1002,7 @@ And make him dance before you."</span>
 
 And in their "Night Walker" (i. 3) they mention the "town-top." Evelyn,
 enumerating the uses of willow-wood speaks of "great town-topps." Mr
-Knight <span id="fr_814"></span>[1](#fn_812) remarks that the custom
+Knight <span id="fr_814"></span>[1](#fn_812.md) remarks that the custom
 which existed in the time of Elizabeth, and probably long before, of a
 large top being provided for the amusement of the peasants in frosty
 weather, presents a curious illustration of the mitigating influences of
@@ -1011,7 +1011,7 @@ social kindness in an age of penal legislation.
    *Primero*.—In Shakespeare's time this was a very fashionable game at
 cards; and hence is frequently alluded to by him. It was known under the
 various designations of *Primero*, *Prime*, and *Primavista;* and,
-according to Strutt, <span id="fr_815"></span>[2](#fn_813) has been
+according to Strutt, <span id="fr_815"></span>[2](#fn_813.md) has been
 reckoned among the most ancient games of cards known to have been played
 in England. Shakespeare speaks of Henry VIII. (v. 1), playing at Primero
 with the Duke of Suffolk; and makes Falstaff exclaim in "Merry Wives of
@@ -1027,7 +1027,7 @@ the Conspirator called on him at Essex House: and in the Sydney Papers,
 there is an account of a quarrel between Lord Southampton and one
 Ambrose Willoughby, on account of the former persisting to play at
 primero in the presence chamber, after the queen had retired to rest.
-The manner of playing was thus:— <span id="fr_816"></span>[3](#fn_814)\*
+The manner of playing was thus:— <span id="fr_816"></span>[3](#fn_814.md)\*
 
 <span id="page_390">p. 390</span>
 
@@ -1083,7 +1083,7 @@ Is but a quintain, a mere lifeless block."</span>
 </div>
 
 It cannot be better or more minutely described than in the words of Mr
-Strutt <span id="fr_817"></span>[1](#fn_815)—"Tilting or combating at
+Strutt <span id="fr_817"></span>[1](#fn_815.md)—"Tilting or combating at
 the quintain is a military exercise of high antiquity, and antecedent, I
 
 <span id="page_391">p. 391</span>
@@ -1108,7 +1108,7 @@ the shield, the quintain turned about with much velocity, and, in case
 he was not exceedingly careful, would give him a severe blow upon the
 back with the wooden sabre held in the right hand, which was considered
 as highly disgraceful to the performer, while it excited the laughter
-and ridicule of the spectators." <span id="fr_818"></span>[1](#fn_816)
+and ridicule of the spectators." <span id="fr_818"></span>[1](#fn_816.md)
 In Ben Jonson's "Underwoods" it is thus humorously mentioned—
 
 <div style="margin-left: 32px">
@@ -1121,7 +1121,7 @@ In Ben Jonson's "Underwoods" it is thus humorously mentioned—
 </div>
 
    *Quoits*.—This game derived its origin, according to Strutt, <span
-id="fr_819"></span>[2](#fn_817) from the ancient Discus, and with us, at
+id="fr_819"></span>[2](#fn_817.md) from the ancient Discus, and with us, at
 the present day, it is a circular plate of iron perforated in the
 middle, not always of one size, but larger or smaller to suit the
 strength or conveniency of the several candidates. It is referred to in
@@ -1150,7 +1150,7 @@ play-place of the school was a very perplexed and winding path, running
 in a very small space over a great deal of ground, called a Miz-Maze.
 The senior boys obliged the juniors to tread it, to prevent the figure
 from being lost, and I believe it is still retained." <span
-id="fr_820"></span>[1](#fn_818)
+id="fr_820"></span>[1](#fn_818.md)
 
    *See-Saw*.—Another name for this childish sport is that given by
 Falstaff, in "2 Henry IV." (ii. 4), where he calls it "riding the wild
@@ -1184,7 +1184,7 @@ describing the game in his "Archaic Dictionary," says, that "a shilling
 or other smooth coin was placed on the extreme edge of the shovel-board,
 and propelled towards a mark by a smart stroke with the palm of the
 hand. It is mentioned under various names, according to the coin
-employed, as shove-groat, <span id="fr_821"></span>[1](#fn_819) &c. The
+employed, as shove-groat, <span id="fr_821"></span>[1](#fn_819.md) &c. The
 game of shove-halfpenny is mentioned in the "Times" of April 25, 1845,
 as then played by the lower orders. According to Strutt it "was
 analogous to the modern pastime called Justice Jervis, or Jarvis, which
@@ -1200,13 +1200,13 @@ king from me, that, for his father's sake, Henry V., in whose time boys
 went to span-counter for French crowns, I am content he shall reign." It
 is called in France "tapper;" and in Swift's time was played with
 farthings, as he calls it "span-farthing." <span
-id="fr_822"></span>[2](#fn_820)
+id="fr_822"></span>[2](#fn_820.md)
 
    *Stool-Ball*.—This game, alluded to in the "Two Noble Kinsmen" (v.
 2), was formerly popular among young women; and occasionally was played
 by persons of both sexes indiscriminately, as the following lines, from
 a song written by Durfey for his play of "Don Quixote," acted at Dorset
-Gardens, in 1694, show <span id="fr_823"></span>[3](#fn_821)—
+Gardens, in 1694, show <span id="fr_823"></span>[3](#fn_821.md)—
 
 <div style="margin-left: 32px">
 
@@ -1284,7 +1284,7 @@ meet thus (ii. 1):—
 
    In "Much ado about Nothing" (iii. 2), Claudio referring to Benedick
 says "that the old ornament of his cheek hath already stuffed
-tennis-balls;" <span id="fr_824"></span>[1](#fn_822) and in "King Henry
+tennis-balls;" <span id="fr_824"></span>[1](#fn_822.md) and in "King Henry
 V." (iii. 7), the Dauphin says his horse "bounds from the earth as if
 his entrails were hairs." Again, "Bandy" was originally a term at
 tennis, to which Juliet refers in "Romeo and Juliet" (ii. 5), when
@@ -1313,7 +1313,7 @@ seeing Lusty Juventus kiss Abhominable Lyuing, says:—
 <span class="small">"What a hurly burly is here!  
  Smicke smacke, and all thys gere!  
  You well \[will\] to *tycke take*,  
- I fere, If thou had tyme." <span id="fr_825"></span>[2](#fn_823)</span>
+ I fere, If thou had tyme." <span id="fr_825"></span>[2](#fn_823.md)</span>
 
 </div>
 
@@ -1347,7 +1347,7 @@ swearing."</span>
 </div>
 
 Some are of opinion that it resembled the game of hopscotch, or
-Scotch-hop; but this, says Nares, <span id="fr_826"></span>[1](#fn_824)
+Scotch-hop; but this, says Nares, <span id="fr_826"></span>[1](#fn_824.md)
 "seems to rest merely upon unauthorised conjecture."
 
    *Troll-my-dame*.—The game of Troll-madam, still familiar as
@@ -1407,7 +1407,7 @@ says,—
 </div>
 
 —the meaning being, "to have at an entire advantage." <span
-id="fr_827"></span>[1](#fn_825) The expression occurs again in "Othello"
+id="fr_827"></span>[1](#fn_825.md) The expression occurs again in "Othello"
 (ii. 1), where Iago says—
 
 <div style="margin-left: 32px">
@@ -1416,7 +1416,7 @@ id="fr_827"></span>[1](#fn_825) The expression occurs again in "Othello"
 
 </div>
 
-   Nares, <span id="fr_828"></span>[2](#fn_826) however, considers the
+   Nares, <span id="fr_828"></span>[2](#fn_826.md) however, considers the
 phrase was derived from hunting; because, "when the animal pursued is
 seized upon the hip, it is finally disabled from flight."
 
@@ -1429,32 +1429,32 @@ hold taken."
 
 ### Footnotes
 
-<span id="fn_769"></span>[370:1](flos18.htm#fr_771) See Drake's
+<span id="fn_769"></span>[370:1](flos18.htm#fr_771.md) See Drake's
 "Shakspeare and His Times," ii. pp. 178–181.
 
-<span id="fn_770"></span>[370:2](flos18.htm#fr_772) Brand's "Pop.
+<span id="fn_770"></span>[370:2](flos18.htm#fr_772.md) Brand's "Pop.
 Antiq.," 1870, ii. p. 290.
 
-<span id="fn_771"></span>[371:1](flos18.htm#fr_773) "Glossary," p. 84.
+<span id="fn_771"></span>[371:1](flos18.htm#fr_773.md) "Glossary," p. 84.
 
-<span id="fn_772"></span>[371:2](flos18.htm#fr_774) "Glossary," p. 210.
+<span id="fn_772"></span>[371:2](flos18.htm#fr_774.md) "Glossary," p. 210.
 
-<span id="fn_773"></span>[372:1](flos18.htm#fr_775) From Gifford's Note
+<span id="fn_773"></span>[372:1](flos18.htm#fr_775.md) From Gifford's Note
 on Massinger's Works, 1813, i. p. 204.
 
-<span id="fn_774"></span>[372:2](flos18.htm#fr_776) See Jamieson's
+<span id="fn_774"></span>[372:2](flos18.htm#fr_776.md) See Jamieson's
 "Scottish Dictionary," 2899, i. p. 122.
 
-<span id="fn_775"></span>[372:3](flos18.htm#fr_777) "Glossary," i. p.
+<span id="fn_775"></span>[372:3](flos18.htm#fr_777.md) "Glossary," i. p.
 57.
 
-<span id="fn_776"></span>[373:1](flos18.htm#fr_778) See Nares’
+<span id="fn_776"></span>[373:1](flos18.htm#fr_778.md) See Nares’
 "Glossary," i. p. 58.
 
-<span id="fn_777"></span>[373:2](flos18.htm#fr_779) "Sports and
+<span id="fn_777"></span>[373:2](flos18.htm#fr_779.md) "Sports and
 Pastimes," 1876, p. 243.
 
-<span id="fn_778"></span>[374:1](flos18.htm#fr_780) See Harting's
+<span id="fn_778"></span>[374:1](flos18.htm#fr_780.md) See Harting's
 "Ornithology of Shakespeare," p. 156; Strutt's "Sports and Pastimes,"
 1876, p. 98. A simple mode of bat-fowling, by means of a large clap-net
 and a lantern, and called bird-batting, is alluded to in Fielding's
@@ -1469,163 +1469,163 @@ exclaiming ("Henry VIII." i. 1)—
 
 </div>
 
-<span id="fn_779"></span>[375:1](flos18.htm#fr_781) Strutt's "Sports and
+<span id="fn_779"></span>[375:1](flos18.htm#fr_781.md) Strutt's "Sports and
 Pastimes," 1876, p. 396.
 
-<span id="fn_780"></span>[375:2](flos18.htm#fr_782) A pip is a spot upon
+<span id="fn_780"></span>[375:2](flos18.htm#fr_782.md) A pip is a spot upon
 a card.
 
-<span id="fn_781"></span>[375:3](flos18.htm#fr_783) "Sports and
+<span id="fn_781"></span>[375:3](flos18.htm#fr_783.md) "Sports and
 Pastimes," 1876, p. 436.
 
-<span id="fn_782"></span>[376:1](flos18.htm#fr_784) Rub is still a term
+<span id="fn_782"></span>[376:1](flos18.htm#fr_784.md) Rub is still a term
 at the game, expressive of the movement of the balls. Cf. "King Lear,"
 (ii. 2), "Love's Labour's Lost" (iv. 1), where Bozet speaking of the
 game, says;—"I fear too much rubbing."
 
-<span id="fn_783"></span>[376:2](flos18.htm#fr_785) Halliwell-Phillipps’
+<span id="fn_783"></span>[376:2](flos18.htm#fr_785.md) Halliwell-Phillipps’
 "Handbook Index to Shakespeare," p. 43.
 
-<span id="fn_784"></span>[377:1](flos18.htm#fr_786) Staunton's
+<span id="fn_784"></span>[377:1](flos18.htm#fr_786.md) Staunton's
 "Shakespeare," iii. p. 592.
 
-<span id="fn_785"></span>[377:2](flos18.htm#fr_787) See Brand's "Pop.
+<span id="fn_785"></span>[377:2](flos18.htm#fr_787.md) See Brand's "Pop.
 Antiq.," ii. p. 409.
 
-<span id="fn_786"></span>[377:3](flos18.htm#fr_788) She means, "Do you
+<span id="fn_786"></span>[377:3](flos18.htm#fr_788.md) She means, "Do you
 intend to make a mockery of me among the Companions?"
 
-<span id="fn_787"></span>[378:1](flos18.htm#fr_789) "Illustrations of
+<span id="fn_787"></span>[378:1](flos18.htm#fr_789.md) "Illustrations of
 Shakspeare," p. 20.
 
-<span id="fn_788"></span>[378:2](flos18.htm#fr_790) Gifford's Note on
+<span id="fn_788"></span>[378:2](flos18.htm#fr_790.md) Gifford's Note on
 Jonson's Works, ii. p. 3.
 
-<span id="fn_789"></span>[378:3](flos18.htm#fr_791) Note on Jonson's
+<span id="fn_789"></span>[378:3](flos18.htm#fr_791.md) Note on Jonson's
 Works, vii. p. 283.
 
-<span id="fn_790"></span>[379:1](flos18.htm#fr_792) See Douce's
+<span id="fn_790"></span>[379:1](flos18.htm#fr_792.md) See Douce's
 "Illustrations of Shakspeare," p. 35.
 
-<span id="fn_791"></span>[380:1](flos18.htm#fr_793) See Nares’
+<span id="fn_791"></span>[380:1](flos18.htm#fr_793.md) See Nares’
 "Glossary," ii. p, 919.
 
-<span id="fn_792"></span>[381:1](flos18.htm#fr_794) A three-man beetle
+<span id="fn_792"></span>[381:1](flos18.htm#fr_794.md) A three-man beetle
 is a heavy implement, with three handles, used in driving piles, etc.,
 which required three men to lift it.
 
-<span id="fn_793"></span>[381:2](flos18.htm#fr_795) A correspondent of
+<span id="fn_793"></span>[381:2](flos18.htm#fr_795.md) A correspondent of
 *Notes and Queries* (2 S. vii. p. 277) suggests as a derivation the
 German *schnapps*, spirit, and *drache*, dragon, and that it is
 equivalent to spirit-fire.
 
-<span id="fn_794"></span>[382:1](flos18.htm#fr_796) Cf. "Winter's Tale"
+<span id="fn_794"></span>[382:1](flos18.htm#fr_796.md) Cf. "Winter's Tale"
 (iii. 3), "But to make an end of the ship, to see how the sea
 flap-dragoned it."
 
-<span id="fn_795"></span>[382:2](flos18.htm#fr_797) See Nares’
+<span id="fn_795"></span>[382:2](flos18.htm#fr_797.md) See Nares’
 "Glossary," i. p. 131.
 
-<span id="fn_796"></span>[382:3](flos18.htm#fr_798) "Sports and
+<span id="fn_796"></span>[382:3](flos18.htm#fr_798.md) "Sports and
 Pastimes," pp. 168, 169.
 
-<span id="fn_797"></span>[383:1](flos18.htm#fr_799) See "British Popular
+<span id="fn_797"></span>[383:1](flos18.htm#fr_799.md) See "British Popular
 Customs," 1876, pp. 78, 83, 87, 401.
 
-<span id="fn_798"></span>[383:2](flos18.htm#fr_800) "Shakspeare and his
+<span id="fn_798"></span>[383:2](flos18.htm#fr_800.md) "Shakspeare and his
 Times," ii. 170. See Douce's "Illustrations of Shakspeare," pp. 118,
 435.
 
-<span id="fn_799"></span>[383:3](flos18.htm#fr_801) Dyce's "Glossary,"
+<span id="fn_799"></span>[383:3](flos18.htm#fr_801.md) Dyce's "Glossary,"
 p. 199.
 
-<span id="fn_800"></span>[383:4](flos18.htm#fr_802) See Brand's "Pop.
+<span id="fn_800"></span>[383:4](flos18.htm#fr_802.md) See Brand's "Pop.
 Antiq.," 1849, ii. p. 420.
 
-<span id="fn_801"></span>[384:1](flos18.htm#fr_803) See Strutt's "Sports
+<span id="fn_801"></span>[384:1](flos18.htm#fr_803.md) See Strutt's "Sports
 and Pastimes," pp. 499, 500; Brand's "Pop. Antiq.," 1849, 1i. PP. 397,
 398.
 
-<span id="fn_802"></span>[385:1](flos18.htm#fr_804) "Anatomy of
+<span id="fn_802"></span>[385:1](flos18.htm#fr_804.md) "Anatomy of
 Melancholy;" Drake's "Shakspeare and His Times," 298.
 
-<span id="fn_803"></span>[385:2](flos18.htm#fr_805) Clark and Wright's
+<span id="fn_803"></span>[385:2](flos18.htm#fr_805.md) Clark and Wright's
 Notes to "Hamlet." 1876, pp. 212, 213.
 
-<span id="fn_804"></span>[386:1](flos18.htm#fr_806) See Strutt's "Sports
+<span id="fn_804"></span>[386:1](flos18.htm#fr_806.md) See Strutt's "Sports
 and Pastimes," p. 365; Nares’ "Glossary," ii. p. 522.
 
-<span id="fn_805"></span>[386:2](flos18.htm#fr_807) Baker's
+<span id="fn_805"></span>[386:2](flos18.htm#fr_807.md) Baker's
 "Northamptonshire Glossary," 1854, i. p. 198.
 
-<span id="fn_806"></span>[386:3](flos18.htm#fr_808) See Dyce's
+<span id="fn_806"></span>[386:3](flos18.htm#fr_808.md) See Dyce's
 "Glossary," p. 334.
 
-<span id="fn_807"></span>[386:4](flos18.htm#fr_809) Douce's
+<span id="fn_807"></span>[386:4](flos18.htm#fr_809.md) Douce's
 "Illustrations of Shakspeare," P. 144.
 
-<span id="fn_808"></span>[386:5](flos18.htm#fr_810) See Nares’
+<span id="fn_808"></span>[386:5](flos18.htm#fr_810.md) See Nares’
 "Glossary," ii. p. 605.
 
-<span id="fn_809"></span>[387:1](flos18.htm#fr_811) See Strutt's "Sports
+<span id="fn_809"></span>[387:1](flos18.htm#fr_811.md) See Strutt's "Sports
 and Pastimes," 1876, pp. 368, 369.
 
-<span id="fn_810"></span>[388:1](flos18.htm#fr_812) See Brand's "Pop.
+<span id="fn_810"></span>[388:1](flos18.htm#fr_812.md) See Brand's "Pop.
 Antiq." 1849, ii. pp. 429, 432.
 
-<span id="fn_811"></span>[388:2](flos18.htm#fr_813) See Nares’
+<span id="fn_811"></span>[388:2](flos18.htm#fr_813.md) See Nares’
 "Glossary," ii. p. 606.
 
-<span id="fn_812"></span>[389:1](flos18.htm#fr_814) "Pictorial
+<span id="fn_812"></span>[389:1](flos18.htm#fr_814.md) "Pictorial
 Shakespeare," ii. p. 145.
 
-<span id="fn_813"></span>[389:2](flos18.htm#fr_815) "Sports and
+<span id="fn_813"></span>[389:2](flos18.htm#fr_815.md) "Sports and
 Pastimes."
 
-<span id="fn_814"></span>[389:3](flos18.htm#fr_816) Smith's "Festivals,
+<span id="fn_814"></span>[389:3](flos18.htm#fr_816.md) Smith's "Festivals,
 Games, and Amusements," 1831, p. 320.
 
-<span id="fn_815"></span>[390:1](flos18.htm#fr_817) "Sports and
+<span id="fn_815"></span>[390:1](flos18.htm#fr_817.md) "Sports and
 Pastimes," I876, p. 182.
 
-<span id="fn_816"></span>[391:1](flos18.htm#fr_818) See Nares’
+<span id="fn_816"></span>[391:1](flos18.htm#fr_818.md) See Nares’
 "Glossary," ii. p. 713.
 
-<span id="fn_817"></span>[391:2](flos18.htm#fr_819) "Sports and
+<span id="fn_817"></span>[391:2](flos18.htm#fr_819.md) "Sports and
 Pastimes," p. 141.
 
-<span id="fn_818"></span>[392:1](flos18.htm#fr_820) See Milner's
+<span id="fn_818"></span>[392:1](flos18.htm#fr_820.md) See Milner's
 "History of Winchester," ii. p. 155.
 
-<span id="fn_819"></span>[393:1](flos18.htm#fr_821) According to Douce,
+<span id="fn_819"></span>[393:1](flos18.htm#fr_821.md) According to Douce,
 "Illustrations of Shakspeare" (1839, p. 280), it was known as
 "slide-groat," "slide-board," "slide-thrift," and "slip-thrift." See
 Strutt's "Sports and Pastimes," 1876, pp. 16, 394, 398. Nares’
 "Glossary," ii. p. 791. Brand's "Pop. Antiq.," 1849, ii. p. 441.
 
-<span id="fn_820"></span>[393:2](flos18.htm#fr_822) See Strutt's "Sports
+<span id="fn_820"></span>[393:2](flos18.htm#fr_822.md) See Strutt's "Sports
 and Pastimes," 1876, p. 491.
 
-<span id="fn_821"></span>[393:3](flos18.htm#fr_823) Quoted by Strutt,
+<span id="fn_821"></span>[393:3](flos18.htm#fr_823.md) Quoted by Strutt,
 "Sports and Pastimes," p. 166.
 
-<span id="fn_822"></span>[395:1](flos18.htm#fr_824) In "Love's Labour's
+<span id="fn_822"></span>[395:1](flos18.htm#fr_824.md) In "Love's Labour's
 Lost" (v. 2), the Princess speaks of "a set of wit well play’d;" upon
 which Mr Singer (ii. 263) adds that "a set is a term at tennis for a
 game."
 
-<span id="fn_823"></span>[395:2](flos18.htm#fr_825) Quoted by Dyce's
+<span id="fn_823"></span>[395:2](flos18.htm#fr_825.md) Quoted by Dyce's
 "Glossary," p. 449; see Brand's "Pop. Antiq.," 1849, ii, p. 445.
 
-<span id="fn_824"></span>[396:1](flos18.htm#fr_826) "Glossary," ii. p.
+<span id="fn_824"></span>[396:1](flos18.htm#fr_826.md) "Glossary," ii. p.
 896.
 
-<span id="fn_825"></span>[397:1](flos18.htm#fr_827) Dyce's "Glossary,"
+<span id="fn_825"></span>[397:1](flos18.htm#fr_827.md) Dyce's "Glossary,"
 p. 208.
 
-<span id="fn_826"></span>[397:2](flos18.htm#fr_828) "Glossary," i. p.
+<span id="fn_826"></span>[397:2](flos18.htm#fr_828.md) "Glossary," i. p.
 421.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Dances](flos19)
+[Next: Chapter XVII. Dances](flos19.md)

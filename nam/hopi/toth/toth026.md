@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth025)  [Next](toth027) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth025)  [Next](toth027.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 23. THE PÖ'OKONGS ATTEND A DANCE. <span id="fr_64"></span>[1](#fn_62)
+## 23. THE PÖ'OKONGS ATTEND A DANCE. <span id="fr_64"></span>[1](#fn_62.md)
 
 Halíksai! In Oraíbi the people were living, and north of the village at
 Achámali lived the Pö'okongs with their grandmother, Spider Woman. One
@@ -115,9 +115,9 @@ difficult of access.
 
 ### Footnotes
 
-<span id="fn_62"></span>[90:1](toth026.htm#fr_64) Told by Tangákhoyoma
+<span id="fn_62"></span>[90:1](toth026.htm#fr_64.md) Told by Tangákhoyoma
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 24. How Pö'okong Won A Bride](toth027)
+[Next: 24. How Pö'okong Won A Bride](toth027.md)

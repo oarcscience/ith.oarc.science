@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp28)  [Next](prp30) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp28)  [Next](prp30.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ Priapus is here referred to as a god of the road.\]
 ------------------------------------------------------------------------
 
 [Next: 30. Hie thee amid these vines whereof an thou gather a
-grape-bunch](prp30)
+grape-bunch](prp30.md)

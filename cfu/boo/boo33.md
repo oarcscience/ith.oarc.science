@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](boo32)  [Next](boo34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](boo32)  [Next](boo34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9P0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9P0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Odes*, by L. Cranmer-Byng, \[1908\], at Intangible Textual
 Heritage
 
@@ -34,4 +34,4 @@ A hundred carriages her rank attest.
 
 ------------------------------------------------------------------------
 
-[Next: Before the Ford](boo34)
+[Next: Before the Ford](boo34.md)

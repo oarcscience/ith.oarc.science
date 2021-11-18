@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain33)  [Next](ain35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain33)  [Next](ain35.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 
 AND when they came to their journey's end the wife of Kaw-koin-puh had a
 baby, which grew up to be a fine boy, but the mother cried all the time,
-[wherever](errata.htm#25) she went, on account of her husband's death.
+[wherever](errata.htm#25.md) she went, on account of her husband's death.
 
 And the people, after they had settled down, used to go rabbit-hunting,
 and the children too, and this boy, *Paht-ahn-kum*, used to watch them
@@ -76,7 +76,7 @@ fatherless, for I know very well you can never pay it back, For the
 Apaches are very fierce, and very brave, and those who go to their
 country have to be very careful; for even at night the Apaches may be
 near them, and even the sunshine in their country feels
-[different](errata.htm#26) from what it does here."
+[different](errata.htm#26.md) from what it does here."
 
 And the little boy, that night, went to his uncle, who asked: "Why do
 you come to me in the night?"
@@ -349,7 +349,7 @@ then they all stood around
 
 him in circles, the oldest in the middle next the boy, and the others,
 in the order of their age, in circles outside. <span
-id="fr_6"></span>[1](#fn_6) And then Pahtahnkum began to yell, he was so
+id="fr_6"></span>[1](#fn_6.md) And then Pahtahnkum began to yell, he was so
 rejoiced, and he threw the scalps of the Apaches up into the air, and
 then, after them, the other things, the bows and arrows, and all things
 captured, because he wanted to make a cloud; for when an Apache is
@@ -366,7 +366,7 @@ And when they got home they presented all the property taken, and all
 the weapons and all the captives to the mother of Pahtahnkum.
 
 Now when the neighbors of those Apaches heard of this they formed a big
-war-party, and followed [Pahtahnkum's](errata.htm#27) trail, but when
+war-party, and followed [Pahtahnkum's](errata.htm#27.md) trail, but when
 they came to the place called *Taht-a-mumee-lay-kote* they stopped,
 because they did not know where to find water, and so they turned back,
 tho from there they could see the mountains where Pahtahnkum lived.
@@ -465,11 +465,11 @@ And his mother died at her home.
 
 ### Footnotes
 
-<span id="fn_6"></span>[185:1](ain34.htm#fr_6) The reason why the older
+<span id="fn_6"></span>[185:1](ain34.htm#fr_6.md) The reason why the older
 people went inside the circle was to protect the younger ones from the
 *impurity* of anything Apache, and they went inside as more hardened to
 this.
 
 ------------------------------------------------------------------------
 
-[Next: The Song of Koelhahah About Her Son](ain35)
+[Next: The Song of Koelhahah About Her Son](ain35.md)

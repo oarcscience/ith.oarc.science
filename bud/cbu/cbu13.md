@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu12)  [Next](cbu14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu12)  [Next](cbu14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -37,7 +37,7 @@ was he that by selecting it for his abode gave it its high reputation as
 a spot consecrated to the meditative life.
 
 The cluster of hills that compose T‘ien-t‘ai terminate abruptly to the
-south-west. Ch‘ih-ch‘eng, <span id="fr_88"></span>[1](#fn_88) an
+south-west. Ch‘ih-ch‘eng, <span id="fr_88"></span>[1](#fn_88.md) an
 imposing hill crowned with a pagoda, is conspicuous from the timeworn
 walls of the city of T‘ien-t‘ai, 180 miles south-east of Hang-cheu. This
 is the southern extremity of the hilly region known by the same name.
@@ -83,7 +83,7 @@ stands, in Chï-k‘ai's time had scarcely ever
 
 <span id="page_177">p. 177</span>
 
-been visited. <span id="fr_89"></span>[1](#fn_89) It was filled with
+been visited. <span id="fr_89"></span>[1](#fn_89.md) It was filled with
 forest trees and thick brushwood, and formed a favourite cover for deer.
 The woodcutter and herdsman seldom wandered to this wild spot. An
 accident led our hero there. On the hill above—Fu-lung-feng—near where
@@ -102,7 +102,7 @@ above was removed to Kau-ming for greater safety.
 
 After penetrating several miles farther to the northwest in this hilly
 and desolate region, Chï-k‘ai arrived <span
-id="fr_90"></span>[2](#fn_90) at the remarkable rock bridge where the
+id="fr_90"></span>[2](#fn_90.md) at the remarkable rock bridge where the
 Fang-kwang monastery now stands. The loud roar of the waterfall, and the
 close-set woods on the hills around, the two mountain brooks uniting
 before they reach the cataract, then passing beneath the natural bridge
@@ -287,7 +287,7 @@ intelligent.
 Each of these six steps being Buddha, the three embodiments of the
 religious life are thus completed—viz., "embodiment" (*shen*) of the
 "law" (fa*),* of "recompense" (*pau*), of "renovation" (*hwa*). <span
-id="fr_91"></span>[1](#fn_91)
+id="fr_91"></span>[1](#fn_91.md)
 
 Chï-k‘ai divided the Buddhist system according to its characteristics
 into "Eight parts" (*Pa-kiau*):—(1.) The compliant; (2.) The gradual;
@@ -334,7 +334,7 @@ ten rules, correct practice of the ten rules.
 
 A series of twenty-five auxiliaries to knowledge and virtue, and of ten
 modes of observing the true nature and end of human actions, follow the
-preceding. <span id="fr_92"></span>[1](#fn_92)
+preceding. <span id="fr_92"></span>[1](#fn_92.md)
 
 To give these numerous divisions of Buddhist doctrine more minutely is
 here unnecessary. So much as is here presented will illustrate the
@@ -418,7 +418,7 @@ method which observes
 <span id="page_186">p. 186</span>
 
 the heart, it means 'contemplating the removal of all
-pollutions.'" <span id="fr_93"></span>[1](#fn_93)
+pollutions.'" <span id="fr_93"></span>[1](#fn_93.md)
 
 These extracts exemplify how the mythological apparatus of the Buddhist
 Sutras, or "Sacred books of the first class," is explained away. The
@@ -463,29 +463,29 @@ The regulations for chanting as followed by this school were elaborated
 by a priest named Fa-chï who lived some centuries after Chï-k‘ai. They
 are very minute, and are intended to produce more reverential feelings
 in the minds of those engaging in the ceremonial than is common in
-Buddhist worship. <span id="fr_94"></span>[1](#fn_94)
+Buddhist worship. <span id="fr_94"></span>[1](#fn_94.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_88"></span>[175:1](cbu13.htm#fr_88) The "Red wall," so
+<span id="fn_88"></span>[175:1](cbu13.htm#fr_88.md) The "Red wall," so
 called from its colour and precipitous appearance.
 
-<span id="fn_89"></span>[177:1](cbu13.htm#fr_89) *T‘ien-t‘ai-shan-chï*.
+<span id="fn_89"></span>[177:1](cbu13.htm#fr_89.md) *T‘ien-t‘ai-shan-chï*.
 
-<span id="fn_90"></span>[177:2](cbu13.htm#fr_90) A.D. 575, Biography in
+<span id="fn_90"></span>[177:2](cbu13.htm#fr_90.md) A.D. 575, Biography in
 *T‘ien-t‘ai-han-chï*.
 
-<span id="fn_91"></span>[182:1](cbu13.htm#fr_91) *Chï-yue-lu*.
+<span id="fn_91"></span>[182:1](cbu13.htm#fr_91.md) *Chï-yue-lu*.
 
-<span id="fn_92"></span>[183:1](cbu13.htm#fr_92) *San-kiau-yi-su*.
+<span id="fn_92"></span>[183:1](cbu13.htm#fr_92.md) *San-kiau-yi-su*.
 
-<span id="fn_93"></span>[186:1](cbu13.htm#fr_93) *Fa-hwa-hwei-i*.
+<span id="fn_93"></span>[186:1](cbu13.htm#fr_93.md) *Fa-hwa-hwei-i*.
 
-<span id="fn_94"></span>[187:1](cbu13.htm#fr_94) Regulations of the
+<span id="fn_94"></span>[187:1](cbu13.htm#fr_94.md) Regulations of the
 T‘ien-t‘ai-kiau, in the liturgical work called *Ta-pei-ts‘an*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Buddhist Moral System](cbu14)
+[Next: Chapter IX. The Buddhist Moral System](cbu14.md)

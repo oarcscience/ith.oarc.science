@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou28)  [Next](hou30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou28)  [Next](hou30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ attention, the land has become as fruitful a field, and her people as
 busy a commonwealth, as can be found, with few exceptions, elsewhere on
 the Pacific slope. With her unkindly soil, her extremes of temperature,
 the thermometer varying between 110° above and 20° below zero, <span
-id="fr_1148"></span>[1](#fn_1148) her slight and uncertain rainfall,
+id="fr_1148"></span>[1](#fn_1148.md) her slight and uncertain rainfall,
 without foliage, except such as was found here and there in narrow,
 rock-ribbed gorges, with fuel almost inaccessible at points where
 habitation was possible, with no nearer sources of general supply than
@@ -57,7 +57,7 @@ chapters of this volume.
 
     At the close of 1883 the population of Utah was estimated at
 178,121, of whom 92,081 were males, 86,040 females, 123,506 of native
-and 54,615 of foreign birth. <span id="fr_1149"></span>[2](#fn_1149) In
+and 54,615 of foreign birth. <span id="fr_1149"></span>[2](#fn_1149.md) In
 1880 there were 14,550 persons employed in agriculture, 4,149 in trade,
 and 10,212 miners, mechanics, and factory operatives; though
 notwithstanding the industrial activity of the settlers, the percentage
@@ -68,20 +68,20 @@ the community was the small amount of debt, crime, and pauperism, the
 entire public debt, city, county, and territorial, being in 1879 only
 $116,251, and the number of criminals and paupers being, as elsewhere
 noticed, much below the average throughout the United States. <span
-id="fr_1150"></span>[3](#fn_1150) The death-rate for a series of years
+id="fr_1150"></span>[3](#fn_1150.md) The death-rate for a series of years
 averaged about sixteen per thousand, though for 1880 it was somewhat
 higher on account of the prevalence of diphtheria. <span
-id="fr_1151"></span>[4](#fn_1151)
+id="fr_1151"></span>[4](#fn_1151.md)
 
 <span id="page_693">p. 693</span>
 
     Of the progress of settlement up to the close of 1862 mention has
-already been made. <span id="fr_1152"></span>[5](#fn_1152) At that date
+already been made. <span id="fr_1152"></span>[5](#fn_1152.md) At that date
 nearly all the available land in Utah had been taken up, and in 1883
 colonies had been pushed forward into adjoining territories, until they
 extended from north to south in an unbroken line of about 1,000 miles,
 all of them under the religious and political control of the Mormon
-priesthood. <span id="fr_1153"></span>[6](#fn_1153)
+priesthood. <span id="fr_1153"></span>[6](#fn_1153.md)
 
 <span id="page_694">p. 694</span>
 
@@ -93,20 +93,20 @@ that it is Utah, for there the commerce,
 arts, industries, and interests of the territory are mainly centred. In
 1883 the capital contained a fixed population of about 25,000, its
 corporate limits including about fifty square miles, <span
-id="fr_1154"></span>[7](#fn_1154) divided into five municipal and
+id="fr_1154"></span>[7](#fn_1154.md) divided into five municipal and
 twenty-one ecclesiastical wards. The city was well supplied with all
 modern comforts and conveniences, including gas and electric
-lights, <span id="fr_1155"></span>[8](#fn_1155) street-railroads, <span
-id="fr_1156"></span>[9](#fn_1156) hotels, <span
-id="fr_1157"></span>[10](#fn_1157) markets, libraries, theatres, <span
-id="fr_1158"></span>[11](#fn_1158) clubs, and saloons, where men might
+lights, <span id="fr_1155"></span>[8](#fn_1155.md) street-railroads, <span
+id="fr_1156"></span>[9](#fn_1156.md) hotels, <span
+id="fr_1157"></span>[10](#fn_1157.md) markets, libraries, theatres, <span
+id="fr_1158"></span>[11](#fn_1158.md) clubs, and saloons, where men might
 drink, smoke, and discuss politics and religion. Through all the
 streets, which were about double the usual width, ran the limpid waters
 of City Creek, the Jordan, Red Butte,
 
 <span id="page_696">p. 696</span>
 
-and Emigration cañons, <span id="fr_1159"></span>[12](#fn_1159) cooling
+and Emigration cañons, <span id="fr_1159"></span>[12](#fn_1159.md) cooling
 the air, cleansing the thoroughfares, and giving life to verdure. The
 adjacent lands were cultivated, and most of the houses were surrounded
 with orchards, so that in early summer Zion wore the appearance of Eden
@@ -117,13 +117,13 @@ capital in the days of Cortés.
     Aside from the temple and the tabernacle, Salt Lake City thus far
 had little to boast of in the way of architecture, nor was that little
 interesting. The temple, when finished, was to cost several
-millions, <span id="fr_1160"></span>[13](#fn_1160) and the walls of gray
+millions, <span id="fr_1160"></span>[13](#fn_1160.md) and the walls of gray
 granite, more than six feet in thickness, with a length of 200 and a
 width of 100 feet, were to reach a height of 100 feet. <span
-id="fr_1161"></span>[14](#fn_1161) It was determined that this building
+id="fr_1161"></span>[14](#fn_1161.md) It was determined that this building
 should be of elegant design, magnificent proportions, and unique
 pattern, a marvel of beauty, strength, and solidity. <span
-id="fr_1162"></span>[15](#fn_1162) As a structure in which a vast
+id="fr_1162"></span>[15](#fn_1162.md) As a structure in which a vast
 assemblage can see and hear, the new tabernacle, west of the temple,
 completed in 1870, is a remarkable edifice. It is elliptical in shape,
 with a primitive diameter of 233 feet, a conjugate of 133 feet, and a
@@ -133,25 +133,25 @@ roof of heavy, bolted lattice-work resting on sandstone pillars.
 <span id="page_697">p. 697</span>
 
 Its seating capacity is about 9,000, <span
-id="fr_1163"></span>[16](#fn_1163) and in the building are twenty doors,
+id="fr_1163"></span>[16](#fn_1163.md) and in the building are twenty doors,
 some nine feet in width, and all of them opening outward, so that in
 case of fire a full congregation can make its exit in three or four
 minutes. As was the case in the old tabernacle, <span
-id="fr_1164"></span>[17](#fn_1164) the acoustic properties are
+id="fr_1164"></span>[17](#fn_1164.md) the acoustic properties are
 remarkably good, and it is said that one standing in the east end of the
 gallery and uttering a few words in his lowest tone can be distinctly
 heard in the amphitheatre where the church dignitaries are seated, at
 the opposite end of the building. <span
-id="fr_1165"></span>[18](#fn_1165)
+id="fr_1165"></span>[18](#fn_1165.md)
 
     On the site of the old tabernacle now stands the new assembly
-hall, <span id="fr_1166"></span>[19](#fn_1166) which is also the stake
+hall, <span id="fr_1166"></span>[19](#fn_1166.md) which is also the stake
 house for the Salt Lake stake of Zion. It is built of rough-hewn
 granite, the rock being taken from the same quarry that supplies
 material for the temple, and with frescoed ceiling, representing
 important events in church history. Though church-like in appearance, it
 is considered one of the most sightly structures in the city. <span
-id="fr_1167"></span>[20](#fn_1167) Of the endowment house and other
+id="fr_1167"></span>[20](#fn_1167.md) Of the endowment house and other
 buildings on temple block mention has been made elsewhere.
 
     On South Temple street is the museum, where are specimens of home
@@ -164,7 +164,7 @@ with samples of the ores and minerals of Utah;
 petrifactions, fossils, and obsidian; Indian weapons, scalps, ornaments,
 pottery, wampum, and the boat in which Kit Carson crossed the waters of
 great Salt Lake—the first craft launched by white man into the Dead Sea
-of the West. <span id="fr_1168"></span>[21](#fn_1168)
+of the West. <span id="fr_1168"></span>[21](#fn_1168.md)
 
     Other prominent buildings in Salt Lake City, and many points of
 interest within easy reach of the capital, as Great Salt Lake, the
@@ -183,7 +183,7 @@ Zion's coöperative store, or, as it is usually termed, "Zion's Coöp." In
 no part of the city, or elsewhere in Utah, are there signs of abject
 poverty, and there are few beggars, tramps, or drones, the idle and
 dissolute being discountenanced by the community. <span
-id="fr_1169"></span>[22](#fn_1169)
+id="fr_1169"></span>[22](#fn_1169.md)
 
 <span id="page_699">p. 699</span>
 
@@ -211,24 +211,24 @@ Cottonwood, contained a considerable population until the spring of
 south-west of the capital, was surrounded by productive mines; and
 Sandy, where the Bingham cañon and Cottonwood ores were forwarded for
 sampling, was a thriving village. <span
-id="fr_1170"></span>[23](#fn_1170)
+id="fr_1170"></span>[23](#fn_1170.md)
 
 <span id="page_700">p. 700</span>
 
     Of the establishment and progress of other settlements, up to the
 close of 1862, mention has already been made. <span
-id="fr_1171"></span>[24](#fn_1171) Davis county, north of Salt Lake, was
+id="fr_1171"></span>[24](#fn_1171.md) Davis county, north of Salt Lake, was
 settled by quiet pastoral and agricultural communities of the
 old-fashioned type. Farmington, Centreville, Kaysville, <span
-id="fr_1172"></span>[25](#fn_1172) and the three towns named
-Bountiful, <span id="fr_1173"></span>[26](#fn_1173) were, in 1886,
+id="fr_1172"></span>[25](#fn_1172.md) and the three towns named
+Bountiful, <span id="fr_1173"></span>[26](#fn_1173.md) were, in 1886,
 reasonably prosperous, resembling somewhat small English villages,
 except for the fact that no ale-houses were to be seen in their midst.
 
     Ogden, or, as it was sometimes erroneously called, Junction City,
 the site of which was purchased, as the reader will remember, in 1848,
 for some $2,000 or $3,000, ranked in 1883 next to Salt Lake City in
-population. <span id="fr_1174"></span>[27](#fn_1174) In the centre of a
+population. <span id="fr_1174"></span>[27](#fn_1174.md) In the centre of a
 network of railroads and of a prosperous agricultural region, with
 excellent
 
@@ -236,41 +236,41 @@ excellent
 
 manufacturing facilities, and with many of the attractions and
 conveniences of modern cities, including a theatre <span
-id="fr_1175"></span>[28](#fn_1175) and one of the best hotels in the
+id="fr_1175"></span>[28](#fn_1175.md) and one of the best hotels in the
 country, with gentile churches and schools, both protestant and
 catholic, the western terminus of the Union Pacific was probably the
-most cosmopolitan town in Utah. <span id="fr_1176"></span>[29](#fn_1176)
+most cosmopolitan town in Utah. <span id="fr_1176"></span>[29](#fn_1176.md)
 Among the other settlements of Weber county the most prominent were
-North Ogden, <span id="fr_1177"></span>[30](#fn_1177) Harrisville,
-Huntsville, <span id="fr_1178"></span>[31](#fn_1178) Lynne, <span
-id="fr_1179"></span>[32](#fn_1179) Slaterville, Uintah, Plain City,
-Hooperville, and West Weber. <span id="fr_1180"></span>[33](#fn_1180)
+North Ogden, <span id="fr_1177"></span>[30](#fn_1177.md) Harrisville,
+Huntsville, <span id="fr_1178"></span>[31](#fn_1178.md) Lynne, <span
+id="fr_1179"></span>[32](#fn_1179.md) Slaterville, Uintah, Plain City,
+Hooperville, and West Weber. <span id="fr_1180"></span>[33](#fn_1180.md)
 
 <span id="page_702">p. 702</span>
 
     In Cache county were added to the settlements already mentioned
-Richmond, a farming town <span id="fr_1181"></span>[34](#fn_1181) on the
+Richmond, a farming town <span id="fr_1181"></span>[34](#fn_1181.md) on the
 line of the Utah and Northern railroad; Lewiston on the west bank of
 Bear River, opposite Richmond; Benson, eight miles south-west of Logan;
 and Newton, a thriving village a little to the north-west of the same
-town. <span id="fr_1182"></span>[35](#fn_1182) The corner-stones of the
+town. <span id="fr_1182"></span>[35](#fn_1182.md) The corner-stones of the
 Logan temple were laid in 1877, its site being chosen by Brigham a few
 weeks before his death. The structure is of stone, painted and plastered
 in variegated tints, and capped with an iron roof. <span
-id="fr_1183"></span>[36](#fn_1183)
+id="fr_1183"></span>[36](#fn_1183.md)
 
     Rich, or as it was first termed Richland, county, in the
 north-eastern corner of the territory, was organized in 1864, being
-carved out of Cache county, <span id="fr_1184"></span>[37](#fn_1184)
+carved out of Cache county, <span id="fr_1184"></span>[37](#fn_1184.md)
 Randolph, the county seat, near its centre, and surrounded with
 excellent pasture-land, Garden City at its extreme north-west, and
-Woodruff <span id="fr_1185"></span>[38](#fn_1185) on Bear River, being
+Woodruff <span id="fr_1185"></span>[38](#fn_1185.md) on Bear River, being
 now the principal settlements. The limits of Summit county on the south
 were extended in 1872 by an act of the Utah legislature, and in 1886 it
 was bounded on the north by Wyoming and Morgan county, and on the south,
 east, and west by Uintah, Wasatch, Morgan, and Salt Lake counties. In
 1883 Park City, the centre of supply for the Ontario and other mines,
-was the most considerable town. <span id="fr_1186"></span>[39](#fn_1186)
+was the most considerable town. <span id="fr_1186"></span>[39](#fn_1186.md)
 
     Brigham City, the county seat of Box Elder, west of Cache county,
 and on the line of the Utah and
@@ -280,22 +280,22 @@ and on the line of the Utah and
 <span class="contnote">\[paragraph continues\]</span> Northern railroad,
 together with Willard City, seven miles farther to the south, had in
 1886 become places of note. The site of the former was remarkably
-picturesque. <span id="fr_1187"></span>[40](#fn_1187) Tooele and
+picturesque. <span id="fr_1187"></span>[40](#fn_1187.md) Tooele and
 Grantsville, in Tooele county, south of Box Elder, had each in 1880 a
 population of about 1,200, and Corinne, incorporated in 1870, about
-400. <span id="fr_1188"></span>[41](#fn_1188) Nephi, the county seat of
-Juab county, <span id="fr_1189"></span>[42](#fn_1189) contained in 1880
+400. <span id="fr_1188"></span>[41](#fn_1188.md) Nephi, the county seat of
+Juab county, <span id="fr_1189"></span>[42](#fn_1189.md) contained in 1880
 a thriving population of about 2,500, most of them farmers, though the
 manufacturing interests of this town were not inconsiderable, the Tintic
 mines furnishing a market for surplus lumber and produce. <span
-id="fr_1190"></span>[43](#fn_1190)
+id="fr_1190"></span>[43](#fn_1190.md)
 
     Utah county, with two lines of railroad, <span
-id="fr_1191"></span>[44](#fn_1191) excellent farming-lands <span
-id="fr_1192"></span>[45](#fn_1192) and manufacturing facilities, and the
+id="fr_1191"></span>[44](#fn_1191.md) excellent farming-lands <span
+id="fr_1192"></span>[45](#fn_1192.md) and manufacturing facilities, and the
 largest fresh-water lake in the territory, <span
-id="fr_1193"></span>[46](#fn_1193) ranked second in population to Salt
-Lake county, <span id="fr_1194"></span>[47](#fn_1194) and first in its
+id="fr_1193"></span>[46](#fn_1193.md) ranked second in population to Salt
+Lake county, <span id="fr_1194"></span>[47](#fn_1194.md) and first in its
 yield of cereals and fruits. By persistent effort, the
 
 <span id="page_704">p. 704</span>
@@ -306,18 +306,18 @@ buildings, a theatre, a large tabernacle, and, as will presently be
 mentioned, the largest woollen-mill in the territory. Prominent among
 its industries was the drying of fruit, of which several hundred tons
 were forwarded yearly to market. <span
-id="fr_1195"></span>[48](#fn_1195) In 1883 the other principal towns
+id="fr_1195"></span>[48](#fn_1195.md) In 1883 the other principal towns
 were fairly prosperous, several of them, as Payson, <span
-id="fr_1196"></span>[49](#fn_1196) Spanish Fork, <span
-id="fr_1197"></span>[50](#fn_1197) and Springville, <span
-id="fr_1198"></span>[51](#fn_1198) having wealth and population
+id="fr_1196"></span>[49](#fn_1196.md) Spanish Fork, <span
+id="fr_1197"></span>[50](#fn_1197.md) and Springville, <span
+id="fr_1198"></span>[51](#fn_1198.md) having wealth and population
 sufficient to support a number of schools and churches, a theatre, <span
-id="fr_1199"></span>[52](#fn_1199) and the inevitable young men's and
+id="fr_1199"></span>[52](#fn_1199.md) and the inevitable young men's and
 young women's mutual improvement associations. <span
-id="fr_1200"></span>[53](#fn_1200)
+id="fr_1200"></span>[53](#fn_1200.md)
 
     Uintah county, in the eastern portion of Utah, was organized in
-1880, <span id="fr_1201"></span>[54](#fn_1201) with Ashley as the county
+1880, <span id="fr_1201"></span>[54](#fn_1201.md) with Ashley as the county
 seat.
 
 <span id="page_705">p. 705</span>
@@ -325,7 +325,7 @@ seat.
 <span class="contnote">\[paragraph continues\]</span> In the same year
 Emery and San Juan counties, and in 1882 Garfield county, were
 organized, with Castle Dale, Bluff City, and Panguitch as their several
-seats. <span id="fr_1202"></span>[55](#fn_1202) Emery county was noted
+seats. <span id="fr_1202"></span>[55](#fn_1202.md) Emery county was noted
 as an agricultural and mineral district, full of inherent wealth and
 resource. In Garfield county, below the junction of the Green and Grand
 rivers, is first encountered the weird scenery of the Colorado. Toward
@@ -333,17 +333,17 @@ the south and in San Juan county the traveller, standing on the cliffs
 that overhang its banks, after making his way over leagues of sandstone,
 where there is no blade of grass or drop of water, sees below him the
 stream which Captain Cárdenas discovered in 1540, <span
-id="fr_1203"></span>[56](#fn_1203) still gliding peaceably, after a
+id="fr_1203"></span>[56](#fn_1203.md) still gliding peaceably, after a
 lapse of more than three centuries, through valleys as yet untrodden by
 man. Near the point below which the waters of the Green and Grand are
 named the Colorado, ran the eastern boundary line of Piute county,
-organized in 1865, <span id="fr_1204"></span>[57](#fn_1204) and of which
-Junction was the county seat. <span id="fr_1205"></span>[58](#fn_1205)
+organized in 1865, <span id="fr_1204"></span>[57](#fn_1204.md) and of which
+Junction was the county seat. <span id="fr_1205"></span>[58](#fn_1205.md)
 Beaver City, in the county of that name west of Piute, had in 1883 a
 population of about 2,000, and was one of the principal manufacturing
-centres of southern Utah. <span id="fr_1206"></span>[59](#fn_1206)
+centres of southern Utah. <span id="fr_1206"></span>[59](#fn_1206.md)
 
-    In Sanpete county, <span id="fr_1207"></span>[60](#fn_1207) south of
+    In Sanpete county, <span id="fr_1207"></span>[60](#fn_1207.md) south of
 Utah and Uintah counties, Manti was in 1883 the largest and one of the
 most prosperous towns. Built on a solid rock near its suburbs, and at an
 elevation of several hundred feet, stood the walls of an unfinished
@@ -351,16 +351,16 @@ temple, facing toward the west, and destined when finished to be one
 
 <span id="page_706">p. 706</span>
 
-of the finest in existence. <span id="fr_1208"></span>[61](#fn_1208)
+of the finest in existence. <span id="fr_1208"></span>[61](#fn_1208.md)
 Ephraim City, incorporated in 1868, <span
-id="fr_1209"></span>[62](#fn_1209) contained in 1883 about 2,500
+id="fr_1209"></span>[62](#fn_1209.md) contained in 1883 about 2,500
 inhabitants, and rivalled the county seat in aggregate wealth, all its
 citizens being men of means, though none very rich. Among other towns
 and villages may be mentioned Spring City, nine miles north-east of
 Ephraim, incorporated in 1870; Mount Pleasant, second to Manti in
 population, incorporated in 1868; and Fairview, in the northern section
 of the county, incorporated in 1872, with an area of twenty square
-miles. <span id="fr_1210"></span>[63](#fn_1210)
+miles. <span id="fr_1210"></span>[63](#fn_1210.md)
 
     In 1864 Albert Lewis and ten other citizens from Manti pitched their
 tents on a spot later forming a portion of Main street in Richfield,
@@ -369,7 +369,7 @@ cedar posts, and mud. During this and the following year it is related
 that 600 bushels of wheat were harvested from 10 acres of land. In 1865,
 the settlement being then reënforced, a canal was made, eleven miles in
 length, tapping the waters of the Sevier. In this year, also, Sevier
-county was organized. <span id="fr_1211"></span>[64](#fn_1211) After the
+county was organized. <span id="fr_1211"></span>[64](#fn_1211.md) After the
 cessation of Indian raids in 1865-6, of which mention has already been
 made, other portions were occupied, several villages, among them Salina,
 Glenwood, Vermilion, and Joseph, being built on the banks of the river.
@@ -377,20 +377,20 @@ Glenwood, Vermilion, and Joseph, being built on the banks of the river.
     Parowan, the seat of Iron county, south of Sevier, had in 1883 a
 population of 800, the leading interests being farming and lumbering.
 Cedar City had about the same number, <span
-id="fr_1212"></span>[65](#fn_1212) and Summit, six miles south-west of
+id="fr_1212"></span>[65](#fn_1212.md) and Summit, six miles south-west of
 Parowan, and Kanarra, formerly in Washington
 
 <span id="page_707">p. 707</span>
 
 county, were prosperous farming villages. In Kane county, south of Iron,
 the first settlement, named Kanab, was established in 1870. <span
-id="fr_1213"></span>[66](#fn_1213) St George, the county seat <span
-id="fr_1214"></span>[67](#fn_1214) of Washington, and a few miles north
+id="fr_1213"></span>[66](#fn_1213.md) St George, the county seat <span
+id="fr_1214"></span>[67](#fn_1214.md) of Washington, and a few miles north
 of the Arizona line, was in 1886 one of the principal cities in southern
 Utah, and though built on alkaline sands and artificial soil, was one of
 the garden spots of the country. In its suburbs was a temple built of
 red sandstone, and dedicated in 1875, its baptismal font being presented
-by Brigham. <span id="fr_1215"></span>[68](#fn_1215)
+by Brigham. <span id="fr_1215"></span>[68](#fn_1215.md)
 
  
 
@@ -398,9 +398,9 @@ by Brigham. <span id="fr_1215"></span>[68](#fn_1215)
 supplied with schools, containing in 1883 no less than five
 school-houses, one of which belonged to the presbyterian mission. At
 that date there were in the territory 411 district schools, <span
-id="fr_1216"></span>[69](#fn_1216) and the total expenditure for school
+id="fr_1216"></span>[69](#fn_1216.md) and the total expenditure for school
 purposes was in 1879 about $293,500, or some $6 per capita of the school
-children, <span id="fr_1217"></span>[70](#fn_1217) the term lasting on
+children, <span id="fr_1217"></span>[70](#fn_1217.md) the term lasting on
 an average little more than four months in the year.
 
     Upon the establishment of schools belonging to other religious
@@ -413,17 +413,17 @@ much was actually taught. The Saint Mark's grammar-school, founded in
 
 episcopal church, the Salt Lake seminary, established by the methodists
 in 1870, and others founded later by various denominations, <span
-id="fr_1218"></span>[71](#fn_1218) received so much of patronage that it
+id="fr_1218"></span>[71](#fn_1218.md) received so much of patronage that it
 became necessary for the Mormons to bestir themselves in the matter, and
 there was afterward more efficiency in the school system, private
 institutions being also founded by the saints, among them the academy at
-Provo, <span id="fr_1219"></span>[72](#fn_1219) and the Brigham Young
-college at Logan. <span id="fr_1220"></span>[73](#fn_1220)
+Provo, <span id="fr_1219"></span>[72](#fn_1219.md) and the Brigham Young
+college at Logan. <span id="fr_1220"></span>[73](#fn_1220.md)
 
     For many years a great advantage to Mormon as against gentile
 schools was the fact that they were allowed to use their meeting-houses
 for public school purposes. In 1880, when the legislature passed an act
-creating school districts, <span id="fr_1221"></span>[74](#fn_1221) and
+creating school districts, <span id="fr_1221"></span>[74](#fn_1221.md) and
 authorized a tax for the erection and repair of school buildings, these
 meeting-houses were constituted legal district schools, though retained
 for religious purposes, the gentiles, none of whose children, with rare
@@ -435,10 +435,10 @@ school trustees could not collect such taxes
 
 while the buildings stood on record as church property. Many of the ward
 meeting-houses, therefore, were transferred to school trustees. <span
-id="fr_1222"></span>[75](#fn_1222)
+id="fr_1222"></span>[75](#fn_1222.md)
 
     The University of Deseret, founded, as we have seen, in 1850, and
-incorporated the same year, <span id="fr_1223"></span>[76](#fn_1223) the
+incorporated the same year, <span id="fr_1223"></span>[76](#fn_1223.md) the
 curriculum of which was to include all living languages and sciences,
 had but a nominal existence until 1869. At the former date there were no
 efficient private schools in the territory, no public-school law had as
@@ -450,31 +450,31 @@ teachers. As the university
 could be of little service without preparatory schools, and the grant of
 $5,000 a year had been made from an empty treasury, it was converted
 into a parent school, of which mention has before been made, <span
-id="fr_1224"></span>[77](#fn_1224) the attendance being invited of all
+id="fr_1224"></span>[77](#fn_1224.md) the attendance being invited of all
 who wished to qualify themselves as teachers, or for other reasons to
 acquire a somewhat liberal education. <span
-id="fr_1225"></span>[78](#fn_1225) In 1852 the parent school was closed
-for lack of funds, <span id="fr_1226"></span>[79](#fn_1226) and from
+id="fr_1225"></span>[78](#fn_1225.md) In 1852 the parent school was closed
+for lack of funds, <span id="fr_1226"></span>[79](#fn_1226.md) and from
 that date until fifteen years later nothing further was attempted,
 although meanwhile valuable tracts of land had been set apart for the
 future state by congress for the establishment of a university. <span
-id="fr_1227"></span>[80](#fn_1227) During most of this interval,
+id="fr_1227"></span>[80](#fn_1227.md) During most of this interval,
 however, the board of regents exercised a general supervision over the
-schools of the territory. <span id="fr_1228"></span>[81](#fn_1228)
+schools of the territory. <span id="fr_1228"></span>[81](#fn_1228.md)
 
     In the autumn of 1867 an educational institute was established by
 the board, and conducted at the council-house, mainly as a commercial
-academy, <span id="fr_1229"></span>[82](#fn_1229) until 1869, when
+academy, <span id="fr_1229"></span>[82](#fn_1229.md) until 1869, when
 classical, scientific, and normal departments were added, though at this
 date it was in fact rather a high-school than a university. <span
-id="fr_1230"></span>[83](#fn_1230) Students of
+id="fr_1230"></span>[83](#fn_1230.md) Students of
 
 <span id="page_711">p. 711</span>
 
 both sexes were admitted, the total attendance in 1870 being 546, <span
-id="fr_1231"></span>[84](#fn_1231) while in 1884 the number was but 298,
+id="fr_1231"></span>[84](#fn_1231.md) while in 1884 the number was but 298,
 the decrease being due to want of sufficient appropriations, suitable
-buildings, <span id="fr_1232"></span>[85](#fn_1232) and preparatory
+buildings, <span id="fr_1232"></span>[85](#fn_1232.md) and preparatory
 schools. In 1882 the university included an academic, a normal, and a
 preparatory department. In the first the courses included elementary
 mathematics, a little Greek and Latin, and a smattering of ancient,
@@ -485,12 +485,12 @@ of graduation. In the normal department the curriculum, apart from the
 theory of teaching, was about the same as in the junior classes of a San
 Francisco high-school, and in the preparatory department almost
 identical with the subjects usually taught in the lower grades of a
-grammar-school. <span id="fr_1233"></span>[86](#fn_1233) Although the
+grammar-school. <span id="fr_1233"></span>[86](#fn_1233.md) Although the
 standard is somewhat low, it is probable that in the University of
 Deseret more has been accomplished, at an average cost for each pupil of
 $50 or $60 a year per capita, than in many similar institutions, where
 the pretensions were greater and the expense in proportion. <span
-id="fr_1234"></span>[87](#fn_1234)
+id="fr_1234"></span>[87](#fn_1234.md)
 
 <span id="page_712">p. 712</span>
 
@@ -522,7 +522,7 @@ apparently borrowed from the Greek, this is also the case in the plates
 
 <span id="img_71300"></span> <span align="CENTER"> [![CHARACTERS OF THE
 DESERET ALPHABET.](tn/71300.jpg)  
-Click to enlarge](img/71300.jpg)  
+Click to enlarge](img/71300.jpg.md)  
 CHARACTERS OF THE DESERET ALPHABET.  
 </span>
 
@@ -543,23 +543,23 @@ monotonous evenness of the lines, made the words difficult to
 distinguish, and it was found impossible to insure uniform pronunciation
 and orthography. Within a few years the alphabet fell into disuse, and
 is now remembered only as a curiosity. <span
-id="fr_1235"></span>[88](#fn_1235)
+id="fr_1235"></span>[88](#fn_1235.md)
 
     In connection with the university may also be mentioned its library,
 containing at the close of 1875 about 10,000 volumes, later reserved for
 the use of students, but for many years open to the public. <span
-id="fr_1236"></span>[89](#fn_1236) The territorial library, for which,
+id="fr_1236"></span>[89](#fn_1236.md) The territorial library, for which,
 as we have seen, an appropriation was made by congress in 1850, further
 grants being made by the Utah legislature from time to
 
 <span id="page_715">p. 715</span>
 
-time, <span id="fr_1237"></span>[90](#fn_1237) contained in 1883 about
+time, <span id="fr_1237"></span>[90](#fn_1237.md) contained in 1883 about
 4,500 volumes. At the same date the masonic library, established in
 1873, contained nearly 6,000 volumes, the odd-fellows’ about 1,500, and
 there were smaller libraries in connection with various literary,
 benefit, secret, and mutual improvement societies. <span
-id="fr_1238"></span>[91](#fn_1238)
+id="fr_1238"></span>[91](#fn_1238.md)
 
  
 
@@ -576,7 +576,7 @@ newspapers. Of several of the former mention has already been made. In
 1867 was first published and issued daily the *Deseret Evening News*,
 the weekly having been first issued in 1850. *The Daily Telegraph* first
 appeared on the 4th of July, 1864, under the parentage of T. B. H.
-Stenhouse, <span id="fr_1239"></span>[92](#fn_1239) and in 1869 was
+Stenhouse, <span id="fr_1239"></span>[92](#fn_1239.md) and in 1869 was
 removed to Ogden, where it expired during that year. The *Juvenile
 Instructor*, an illustrated Sunday-school periodical published
 semi-weekly at Salt Lake City, was established by George Q. Cannon, the
@@ -602,15 +602,15 @@ F. D. Richards on the 1st of January 1870. Mr Richards associated with
 himself C. W. Penrose, to whom he resigned the editorship, subsequent
 editors being John Nicholson, Joseph Hall, and Leo Haefli. Soon after
 its first appearance the paper became a daily and its name was changed
-to the *Ogden Herald*. <span id="fr_1240"></span>[93](#fn_1240) The
+to the *Ogden Herald*. <span id="fr_1240"></span>[93](#fn_1240.md) The
 *Provo Daily Times*, which started into being August 1, 1873, has had a
 varied experience, being successively called the *Provo Tri-Weekly
 Times*, the *Utah County Times*, the *Utah County Advertiser*, and the
 *Territorial Inquirer*, the last being its present name. <span
-id="fr_1241"></span>[94](#fn_1241) The *Beaver Enterprise* was
+id="fr_1241"></span>[94](#fn_1241.md) The *Beaver Enterprise* was
 instituted early in 1874, Joseph Field being editor; the *Southern
 Utonian* was also published at Beaver City in March 1881, with F. R.
-Clayton as editor, <span id="fr_1242"></span>[95](#fn_1242) and the
+Clayton as editor, <span id="fr_1242"></span>[95](#fn_1242.md) and the
 *Beaver County Record*, at first a
 
 <span id="page_717">p. 717</span>
@@ -621,7 +621,7 @@ mentioned, numerous daily, weekly, monthly, semi-weekly, and
 semi-monthly publications were issued at the capital and elsewhere in
 the territory, some of them having but an ephemeral existence, and some
 being in existence to-day. For an account of them, I refer the reader to
-the note subjoined, <span id="fr_1243"></span>[96](#fn_1243) where it
+the note subjoined, <span id="fr_1243"></span>[96](#fn_1243.md) where it
 will be seen that
 
 <span id="page_718">p. 718</span>
@@ -632,31 +632,31 @@ June 15, 1850, when the first
 <span id="page_719">p. 719</span>
 
 number of the Deseret News announced to the saints the death of John C.
-Calhoun. <span id="fr_1244"></span>[97](#fn_1244)
+Calhoun. <span id="fr_1244"></span>[97](#fn_1244.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1148"></span>[691:1](hou29.htm#fr_1148) On Feb. 5, 1849,
+<span id="fn_1148"></span>[691:1](hou29.htm#fr_1148.md) On Feb. 5, 1849,
 the mercury stood at 33° below zero at S. L. City. The mean temperature
 for 19 years was 51° 9´, and the highest 104° in 1871. For
 meteorological tables, see *Meteor Reg*., passim; *Surgeon-Gen. Circ*.
 8, 1875, pp. 339-40, 345; *Wheeler's Surveys*, ii. 535 et seq.
 
-<span id="fn_1149"></span>[692:2](hou29.htm#fr_1149) *Utah Gazetteer*,
+<span id="fn_1149"></span>[692:2](hou29.htm#fr_1149.md) *Utah Gazetteer*,
 1884, p. 300, where the population is given by counties. In the census
 report for 1880 the total population is given at 143,963, nearly 20,000
 of the foreigners being English, and about 8,000 Scandinavians.
 
-<span id="fn_1150"></span>[692:3](hou29.htm#fr_1150) In 1879 there were
+<span id="fn_1150"></span>[692:3](hou29.htm#fr_1150.md) In 1879 there were
 33 paupers and 60 criminals. The number of prisoners at the Utah
 penitentiary for each year, with various statistics, will be found in
 the reports of the warden and directors in *Utah Jour. Legisl*., passim.
 In later years we hear little of such outrages as were alleged to have
 been committed about the time of the Utah war.
 
-<span id="fn_1151"></span>[692:4](hou29.htm#fr_1151) In 1877-8
+<span id="fn_1151"></span>[692:4](hou29.htm#fr_1151.md) In 1877-8
 diphtheria was also common. See *Utah Sketches*, MS., 27. *Description
 of Huntstville*, MS., 6. For mortality in S. L. City between 1870 <span
 id="page_693">p. 693</span> and 1878, see *Deseret News*, Jan. 8, 1879.
@@ -670,10 +670,10 @@ insane asylum was established, though one was projected in 1869. See
 jury report on asylum, which is built on a high bluff of the Wasatch
 near Provo, *S. L. C. Tribune*, Nov. 22, 1884.
 
-<span id="fn_1152"></span>[693:5](hou29.htm#fr_1152) See caps. xiii. and
+<span id="fn_1152"></span>[693:5](hou29.htm#fr_1152.md) See caps. xiii. and
 xxii., this vol.
 
-<span id="fn_1153"></span>[693:6](hou29.htm#fr_1153) In 1880 there were,
+<span id="fn_1153"></span>[693:6](hou29.htm#fr_1153.md) In 1880 there were,
 according to the census report, 3,205 Mormons in Idaho, 1,338 in
 Arizona, 800 in Nevada, 234 in Washington Terr., and 241 in Colorado.
 There were also 1,131 in California, 451 in Wyoming, 554 in Montana, 394
@@ -775,14 +775,14 @@ intended. The Mexican Financier, Jan. 31, 1885. In *La Nueva Era*, Paso
 del Norte, Chihuahua, Apr. 8, 1885, p. 2, it is stated that 200 Mormons
 had established a colony at Corralitos, Galeana, in that state.
 
-<span id="fn_1154"></span>[695:7](hou29.htm#fr_1154) Ten from east to
+<span id="fn_1154"></span>[695:7](hou29.htm#fr_1154.md) Ten from east to
 west, and five from north to south, allowing for two square miles
 occupied by the Fort Douglas reservation. By act of Jan. 18, 1867, the
 western boundary was removed from the banks of the Jordan to a line
 running due north and south about two miles west of the river. By act of
 1872 the south line was removed to Tenth South street.
 
-<span id="fn_1155"></span>[695:8](hou29.htm#fr_1155) In 1877 George Erb
+<span id="fn_1155"></span>[695:8](hou29.htm#fr_1155.md) In 1877 George Erb
 organized the Rocky Mountain Electric Light Co. at Salt Lake City,
 afterward extending his operations to Ogden, Albuquerque, Cheyenne,
 Silver City, and Tucson, where, in 1884, all the works were in
@@ -792,13 +792,13 @@ years of age. After serving for three years he removed to southern Utah,
 and in 1877 to S. L. City. For account of city gas-works, see *Deseret
 News*, Aug. 27, 1873. The city was first lighted by gas July 7, 1873.
 
-<span id="fn_1156"></span>[695:9](hou29.htm#fr_1156) In 1872 the S. L.
+<span id="fn_1156"></span>[695:9](hou29.htm#fr_1156.md) In 1872 the S. L.
 C. Street Railroad Co. was organized. It was in running order in June of
 the same year, its length being about seven miles. R. R. Anderson, in
 *Utah Jottings*, MS. In 1883 horse-cars ran every half-hour in eight
 different directions. *Graham's Utah Direct*., 1883-4, 184.
 
-<span id="fn_1157"></span>[695:10](hou29.htm#fr_1157) Among the
+<span id="fn_1157"></span>[695:10](hou29.htm#fr_1157.md) Among the
 principal hotels in S. L. City in 1883 were the Walker House and the
 Continental, formerly the Townsend House. The former was built in 1872,
 at a cost of $140,000. *Walker's Merchants and Miners of Utah*, MS. For
@@ -807,7 +807,7 @@ Sept. 7, 1872; *Sala's America Revisited*, 290-4; for mention of the
 Garde House, sometimes nicknamed the Amelia Palace, see *Dall's First
 Holiday*, 101-3; *Duffus-Hardy's Through Cities and Prairie*, 113.
 
-<span id="fn_1158"></span>[695:11](hou29.htm#fr_1158) An account of the
+<span id="fn_1158"></span>[695:11](hou29.htm#fr_1158.md) An account of the
 various libraries is given later in this chapter. The theatre at the
 corner of First South and First East streets was 175 by 80 ft, with a
 stage 62 by 32 ft. It was of rock and adobe, with granite finish, fluted
@@ -827,7 +827,7 @@ Continent*, 334-7, 365-7; *Rae' s Westward by Rail*, 108-10; *Millennial
 Star*, xxix. 70-3; *Deseret News*, March 27, 1867; *Overland Monthly*,
 v. 276-9.
 
-<span id="fn_1159"></span>[696:12](hou29.htm#fr_1159) By act of Feb. 20,
+<span id="fn_1159"></span>[696:12](hou29.htm#fr_1159.md) By act of Feb. 20,
 1880, in *Utah Laws*, 1880, 55-6, amending the city charter, the city
 council was authorized to borrow $250,000 for the construction of a
 canal, tapping the Jordan at a point 25 miles south of the city, for
@@ -838,13 +838,13 @@ intervals by hydrants, so as to insure a sufficient supply in case of
 fire. The city had a very efficient fire department. See *Utah Direct.
 and Gaz*., 1874, 177, 1879-80, 56.
 
-<span id="fn_1160"></span>[696:13](hou29.htm#fr_1160) In 1886 it had
+<span id="fn_1160"></span>[696:13](hou29.htm#fr_1160.md) In 1886 it had
 already cost some $2,500,000.
 
-<span id="fn_1161"></span>[696:14](hou29.htm#fr_1161) In 1884 they were
+<span id="fn_1161"></span>[696:14](hou29.htm#fr_1161.md) In 1884 they were
 over 60 feet above the ground.
 
-<span id="fn_1162"></span>[696:15](hou29.htm#fr_1162) Under President
+<span id="fn_1162"></span>[696:15](hou29.htm#fr_1162.md) Under President
 Taylor's administration more work in the same time was done on the
 temple than ever before. *Utah Notes*, MS. For condition of the temple
 building in 1860, see p. 582, this vol.; at other dates, *Deseret News*,
@@ -855,37 +855,37 @@ dislodged huge bowlders from the mountain side, and sent them crashing
 down to the railroad track, a descent of 700 feet. One of these bowlders
 weighed 21,000 tons.
 
-<span id="fn_1163"></span>[697:16](hou29.htm#fr_1163) *Richards’ Utah
+<span id="fn_1163"></span>[697:16](hou29.htm#fr_1163.md) *Richards’ Utah
 Miscell., MS. In Utah Notes*, MS., 2, it is given as low as 7,000. Other
 authorities say 12,000 to 13,000, but recent estimates show this to be
 an exaggeration, though including standing-room, the former figure is
 about correct.
 
-<span id="fn_1164"></span>[697:17](hou29.htm#fr_1164) For mention of the
-old tabernacle and its organ, see [p. 292](hou15.htm#page_292), this
+<span id="fn_1164"></span>[697:17](hou29.htm#fr_1164.md) For mention of the
+old tabernacle and its organ, see [p. 292](hou15.htm#page_292.md), this
 vol.
 
-<span id="fn_1165"></span>[697:18](hou29.htm#fr_1165) For further
+<span id="fn_1165"></span>[697:18](hou29.htm#fr_1165.md) For further
 descriptions of this tabernacle, see, among others, *Sala's Amer.
 Revisited*, 296-8; *Bonwick's Mormons and Silver Mines*, 10-17;
 *Marshall's Through Amer*., 1658; *Duffus-Hardy's Through Cities and
 Prairie*, 113-15; *De Rupert's Cal. and Morm*., 138-46; *Deseret News*,
 May 4, 1870, on which date were delivered the inaugural addresses.
 
-<span id="fn_1166"></span>[697:19](hou29.htm#fr_1166) The corner-stones
+<span id="fn_1166"></span>[697:19](hou29.htm#fr_1166.md) The corner-stones
 were laid Sept. 28, 1877, and it was dedicated Jan. 9, 1882, though
 public meetings were held in it as early as Apr. 4, 1880. Until Apr.
 1879 it was called the new or little tabernacle, its name being changed
 at that date to the Salt Lake Assembly Hall. It is 120 by 68 feet, and
 can seat 3,033 people. *Richards’ Utah Miscell*., MS.
 
-<span id="fn_1167"></span>[697:20](hou29.htm#fr_1167) *Utah Notes*, MS.,
+<span id="fn_1167"></span>[697:20](hou29.htm#fr_1167.md) *Utah Notes*, MS.,
 2; *Sloan's Utah Gazetteer*, 1884, 204. The building is 120 by 68 ft,
 the height of the tower which rises from the centre being 130 ft. It has
 excellent acoustic properties, contains a large organ, rich and sweet in
 tone, and was dedicated in the spring of 1880.
 
-<span id="fn_1168"></span>[698:21](hou29.htm#fr_1168) *Sala's America
+<span id="fn_1168"></span>[698:21](hou29.htm#fr_1168.md) *Sala's America
 Revisited*, ii. 295; *Bonwick's Mormons and Silver Mines*, 18-21; *Gaz.
 of Utah*, 1874, 178; *S. L. C. Tribune*, Jan. 1, 5, 1878; *S. L. C.
 Herald*, Sept. 13, 1878. In 1882 occurred the death of Joseph L.
@@ -900,7 +900,7 @@ in 1856 Joseph joined the Mormon church. *S. L. City Contributor*, iii.
 250-2; *Campbell, Circular Notes*, i. 62, states that his father was
 merely tutor at Warwick Castle.
 
-<span id="fn_1169"></span>[698:22](hou29.htm#fr_1169) For descriptions
+<span id="fn_1169"></span>[698:22](hou29.htm#fr_1169.md) For descriptions
 of S. L. City in 1883-4, see *The Mormon Metropolis*; in 1881, *Sala's
 Amer. Revisited*, 290-317 (with cut); *Hollister's Res. and Attract. of
 Utah*, 73-6; in 1879, *N. Y. Observer*, in *Portland Wkly Christ.
@@ -923,19 +923,19 @@ Mts*, 165-6 (with cut); in 1866, *Rusling's Across Amer*., 163-6; *Life
 among the Mormons*, 88-97; in 1865, *Bowles’ Our New West*, 202-3, 206,
 219-22 (with cut); *Barnes' From Atlantic to Pacific*, 54-5;
 *Richardson's Beyond the Mississippi*, 347 (with cut); in 1860-2, pp.
-[577](hou24.htm#page_577)-90, this vol. (with plan).
+[577](hou24.htm#page_577)-90, this vol. (with plan.md).
 
-<span id="fn_1170"></span>[699:23](hou29.htm#fr_1170) Among other
+<span id="fn_1170"></span>[699:23](hou29.htm#fr_1170.md) Among other
 growing settlements in Salt Lake co. at this time were <span
 id="page_700">p. 700</span> Mill Creek, East Mill Creek, Big Cottonwood,
 South Cottonwood, Union, North Jordan, South Jordan, West Jordan,
 Brighton, Butlerville, Granite, Draper, Herriman, Mountain Dell, and
 Pleasant Green.
 
-<span id="fn_1171"></span>[700:24](hou29.htm#fr_1171) See caps xiii.,
+<span id="fn_1171"></span>[700:24](hou29.htm#fr_1171.md) See caps xiii.,
 xxi., this vol.
 
-<span id="fn_1172"></span>[700:25](hou29.htm#fr_1172) So called after a
+<span id="fn_1172"></span>[700:25](hou29.htm#fr_1172.md) So called after a
 bishop and early settler named William Kay, who owned a large portion of
 its site. About the year 1857 the bishop's interest was purchased by
 John S. Smith, an Englishman by birth, who, landing in Canada in 1841,
@@ -962,7 +962,7 @@ president of the Davis stake was W. R. Smith, who was for several years
 a member of the legislature, and for nine years probate judge. He was
 born in Ontario, Canada.
 
-<span id="fn_1173"></span>[700:26](hou29.htm#fr_1173) South, East, and
+<span id="fn_1173"></span>[700:26](hou29.htm#fr_1173.md) South, East, and
 West Bountiful. The last was sometimes called Wood's Cross. Bountiful
 was a city in the book of Mormon. *Richards’ Utah Misc*., MS., 4-5.
 Prominent among the citizens of West Bountiful was W. S. Muir, a
@@ -971,13 +971,13 @@ Nauvoo, and in 1847 was a corporal in the Mormon battalion. In the
 following year he started, in connection with Sam. Brannan, the first
 store ever opened at the mines of California.
 
-<span id="fn_1174"></span>[700:27](hou29.htm#fr_1174) In 1883 it
+<span id="fn_1174"></span>[700:27](hou29.htm#fr_1174.md) In 1883 it
 contained about 8,000 inhabitants.
 
-<span id="fn_1175"></span>[701:28](hou29.htm#fr_1175) Opened Jan. 4,
+<span id="fn_1175"></span>[701:28](hou29.htm#fr_1175.md) Opened Jan. 4,
 1870. *Stanford's Ogden*, MS., 10.
 
-<span id="fn_1176"></span>[701:29](hou29.htm#fr_1176) For act to
+<span id="fn_1176"></span>[701:29](hou29.htm#fr_1176.md) For act to
 incorporate Ogden, see *Utah Compiled Laws*, 746-54; *Deseret News*,
 Jan. 30, 1861. For act amending charter of incorporation, see *Utah
 Laws*, 1880, 4-5. In 1885 the mayor of Ogden was David H. Peery, a
@@ -997,12 +997,12 @@ xxxi. 518; *S. L. C. Tribune*, Jan. 1, 1878, July 6, 1879, Jan. 1, 1881;
 *Telegraph*, May 18, July 8, Dec. 19, 1869; *Herald*, Dec. 12, 1877.
 Topographical plan, in *Wheeler's Surveys*, ii. 471.
 
-<span id="fn_1177"></span>[701:30](hou29.htm#fr_1177) With a population
+<span id="fn_1177"></span>[701:30](hou29.htm#fr_1177.md) With a population
 in 1880 of 956. *Stanford's Ogden*, MS., 8; about 900. Amos Maycock, in
 *Utah Sketches*, MS., 115. In 1883 it was about 1,200, and in 1886 some
 1,500.
 
-<span id="fn_1178"></span>[701:31](hou29.htm#fr_1178) Harrisville was an
+<span id="fn_1178"></span>[701:31](hou29.htm#fr_1178.md) Harrisville was an
 agricultural Settlement containing in 1880 about 60 families, most of
 them Scandinavians. Though subject to early frosts, cereals were raised,
 with the exception of wheat, and in the neighborhood was good pasture. A
@@ -1012,11 +1012,11 @@ railroad ties. *Stanford's Weber Co*., MS., 5, 11-12. In the
 particulars as to the resources and growth of Huntsville from 1860, when
 it was founded, until 1880.
 
-<span id="fn_1179"></span>[701:32](hou29.htm#fr_1179) An agricultural
+<span id="fn_1179"></span>[701:32](hou29.htm#fr_1179.md) An agricultural
 settlement two miles north of Ogden, containing in 1880 about 500
 inhabitants. *Stanford's Weber Co*., MS., 1.
 
-<span id="fn_1180"></span>[701:33](hou29.htm#fr_1180) Slaterville was
+<span id="fn_1180"></span>[701:33](hou29.htm#fr_1180.md) Slaterville was
 organized as a county precinct in 1864. Population in 1880 about 400.
 Uintah, at the western entrance of Weber cañon, was first known as East
 Weber, the name being changed to Easton early in 1867, and in the same
@@ -1037,36 +1037,36 @@ Ogden City*, MS., by this author, covers <span id="page_702">p.
 702</span> the same period, commencing with the time when its site was
 purchased by Captain Brown from Miles Goodyear.
 
-<span id="fn_1181"></span>[702:34](hou29.htm#fr_1181) Incorporated Feb.
+<span id="fn_1181"></span>[702:34](hou29.htm#fr_1181.md) Incorporated Feb.
 6, 1868.
 
-<span id="fn_1182"></span>[702:35](hou29.htm#fr_1182) At the southern
+<span id="fn_1182"></span>[702:35](hou29.htm#fr_1182.md) At the southern
 end of Cache Valley is the town of Paradise, and scattered throughout
 the valley are several small settlements. For descriptive sketch of
 Cache co. settlements, see *S. L. C. Herald*, Nov. 3, 10, 1877. In 1880
 Paradise had 490 inhabitants. Orson Smith, in *Utah Sketches*, MS., 1-2.
 
-<span id="fn_1183"></span>[702:36](hou29.htm#fr_1183) See, for ceremony
+<span id="fn_1183"></span>[702:36](hou29.htm#fr_1183.md) See, for ceremony
 of laying the corner-stones, *Deseret News*, Sept. 26, 1877; for
 dedication, *Biog. Lorenzo Snow*, 452-3; for act incorporating Logan
 City, *Utah Compiled Laws*, 711-18; for description of the city,
 *Deseret News*, Oct. 15, 1873, July 23, 1879; *S. L. Weekly Herald*,
 March 31, 1881.
 
-<span id="fn_1184"></span>[702:37](hou29.htm#fr_1184) For organic act,
+<span id="fn_1184"></span>[702:37](hou29.htm#fr_1184.md) For organic act,
 see *Utah Acts Legisl*., 1863-4, 18-19. The county was named after
 Apostle Chas C. Rich.
 
-<span id="fn_1185"></span>[702:38](hou29.htm#fr_1185) Named after
+<span id="fn_1185"></span>[702:38](hou29.htm#fr_1185.md) Named after
 Apostle Wilford Woodruff. *Richards’ Utah Miscell*., MS., 4.
 
-<span id="fn_1186"></span>[702:39](hou29.htm#fr_1186) The other
+<span id="fn_1186"></span>[702:39](hou29.htm#fr_1186.md) The other
 principal settlements besides those mentioned elsewhere were Echo and
 Wanship, both on the line of the Utah Eastern railroad. Wanship was
 named after an Indian who was much respected. *Richards’ Utah Miscell*.,
 MS., 3.
 
-<span id="fn_1187"></span>[703:40](hou29.htm#fr_1187) Willard City is
+<span id="fn_1187"></span>[703:40](hou29.htm#fr_1187.md) Willard City is
 named after Willard Richards. *Richards’ Utah Miscell*. MS., 7; Brigham,
 of course, after President Young. Both were incorporated in 1867. See
 *Utah Compiled Laws*, 737-9, 743-5. At Brigham City choice fruit was
@@ -1082,7 +1082,7 @@ Northern railway, organized as a ward in 1877, and Snowville, a
 stock-raising centre, fifty miles north-west of Corinne, settled by A.
 Goodliffe and others in 1876.
 
-<span id="fn_1188"></span>[703:41](hou29.htm#fr_1188) For acts
+<span id="fn_1188"></span>[703:41](hou29.htm#fr_1188.md) For acts
 incorporating these towns, see *Utah Compiled Laws*, 740, 843-52.
 Grantsville was named after Col. Geo. D. Grant. *Richards’ Utah
 Miscel*., MS., 6. In the neighborhood of Tooele many kinds of farm and
@@ -1091,30 +1091,30 @@ there were 25 artesian wells. F. M. Lyman, John Rowberry, and Harrison
 Severe, in *Utah Sketches*, MS., 29, 151. For historical sketch of
 Corinne, see *Tullidge's Mag*., ii. 243-6.
 
-<span id="fn_1189"></span>[703:42](hou29.htm#fr_1189) Juab is Indian or
+<span id="fn_1189"></span>[703:42](hou29.htm#fr_1189.md) Juab is Indian or
 Spanish-Indian for flat. For acts defining and extending the limits of
 the county, see *Utah Acts Legisl*., 1868, pp. 41-2; 1870, 127.
 
-<span id="fn_1190"></span>[703:43](hou29.htm#fr_1190) Mona, eight miles
+<span id="fn_1190"></span>[703:43](hou29.htm#fr_1190.md) Mona, eight miles
 north of Nephi, Juab, on the Utah Central, and Levan, seven miles east
 of Juab, were also promising settlements. At Nephi there were in 1880
 two hotels, a furniture factory, and a large coöperative store. Geo.
 Teasdale, in *Utah Sketches*, MS., 112.
 
-<span id="fn_1191"></span>[703:44](hou29.htm#fr_1191) The Utah Central
+<span id="fn_1191"></span>[703:44](hou29.htm#fr_1191.md) The Utah Central
 and Denver and Rio Grande.
 
-<span id="fn_1192"></span>[703:45](hou29.htm#fr_1192) In 1880 there were
+<span id="fn_1192"></span>[703:45](hou29.htm#fr_1192.md) In 1880 there were
 over 40,000 acres in tilth.
 
-<span id="fn_1193"></span>[703:46](hou29.htm#fr_1193) Utah Lake is 40
+<span id="fn_1193"></span>[703:46](hou29.htm#fr_1193.md) Utah Lake is 40
 miles in length, with an average width of 10 miles.
 
-<span id="fn_1194"></span>[703:47](hou29.htm#fr_1194) In 1883 Salt Lake
+<span id="fn_1194"></span>[703:47](hou29.htm#fr_1194.md) In 1883 Salt Lake
 co. had 41,890 and Utah co. 23,472 inhabitants. *Utah Gazetteer*, 1884,
 300.
 
-<span id="fn_1195"></span>[704:48](hou29.htm#fr_1195) See, for act
+<span id="fn_1195"></span>[704:48](hou29.htm#fr_1195.md) See, for act
 incorporating Provo, *Utah Acts Legisl*., 1866, 120-5; for names of
 municipal officers between 1861 and 1877, see *Provo City Revised
 Ordinances*, iv.-v.; in 1880, *Utah Sketches*, MS., where is a brief
@@ -1133,13 +1133,13 @@ Bank, the Provo branch of Zion's Coöporative Mercantile Institute, and
 the Utah county stake. *Utah Early Scenes in Church Hist*., 17-31;
 *Tullidge's Mag*., iii. 297-9.
 
-<span id="fn_1196"></span>[704:49](hou29.htm#fr_1196) At Payson there
+<span id="fn_1196"></span>[704:49](hou29.htm#fr_1196.md) At Payson there
 was a coöperative store established, mainly by the efforts of Wm
 Douglas, who arrived in Utah in 1848. See for act incorporating Payson,
 *Utah Acts Legisl*., 1865, 42; for act extending limits, *Utah Laws*,
 1882, pp. 18-19.
 
-<span id="fn_1197"></span>[704:50](hou29.htm#fr_1197) Among the
+<span id="fn_1197"></span>[704:50](hou29.htm#fr_1197.md) Among the
 prominent citizens of Spanish Fork may be mentioned the bishop of ward,
 Geo. D. Snell, a descendant of one of the pilgrim fathers and a native
 of New Brunswick, whence he removed to Utah in 1854. In 1878 he was
@@ -1148,80 +1148,80 @@ Englishman by birth, was also a member of the legislature in 1883, and
 served on some of the most important committees. In 1882 the limits of
 Spanish Fork City were altered. *Utah Laws*, 1882, 8.
 
-<span id="fn_1198"></span>[704:51](hou29.htm#fr_1198) The first mayor of
+<span id="fn_1198"></span>[704:51](hou29.htm#fr_1198.md) The first mayor of
 Springville was G. D. Wood, who came to Utah in 1848, and in 1884 was
 still mayor, though 76 years of age. His son, L. S. Wood, was also one
 of the prominent men of Springville.
 
-<span id="fn_1199"></span>[704:52](hou29.htm#fr_1199) The Payson theatre
+<span id="fn_1199"></span>[704:52](hou29.htm#fr_1199.md) The Payson theatre
 was the second largest in Utah, and had a seating capacity of 800.
 
-<span id="fn_1200"></span>[704:53](hou29.htm#fr_1200) Midway between
+<span id="fn_1200"></span>[704:53](hou29.htm#fr_1200.md) Midway between
 Payson and Utah Lake, on the line of the Utah Central, the settlement of
 Benjamin was founded in 1870. *Utah Gazetteer*, 1884, 156.
 
-<span id="fn_1201"></span>[704:54](hou29.htm#fr_1201) For organic act,
+<span id="fn_1201"></span>[704:54](hou29.htm#fr_1201.md) For organic act,
 see *Utah Laws*, 1880, 11-12.
 
-<span id="fn_1202"></span>[705:55](hou29.htm#fr_1202) For organic acts,
+<span id="fn_1202"></span>[705:55](hou29.htm#fr_1202.md) For organic acts,
 see *Utah Laws*, 1880, 4-5, 10-11, 1882, 98-101. Emery co. was named
 after Gov. Emery, and Garfield after President Garfield. Emery and San
 Juan were both bounded on the east by Colorado.
 
-<span id="fn_1203"></span>[705:56](hou29.htm#fr_1203) See p.
-[1](hou04.htm#page_1)-5, this vol.
+<span id="fn_1203"></span>[705:56](hou29.htm#fr_1203.md) See p.
+[1](hou04.htm#page_1.md)-5, this vol.
 
-<span id="fn_1204"></span>[705:57](hou29.htm#fr_1204) *Utah Acts
+<span id="fn_1204"></span>[705:57](hou29.htm#fr_1204.md) *Utah Acts
 Legisl*., 1865, 16.
 
-<span id="fn_1205"></span>[705:58](hou29.htm#fr_1205) *Utah Laws*, 1878,
+<span id="fn_1205"></span>[705:58](hou29.htm#fr_1205.md) *Utah Laws*, 1878,
 48. Circleville, settled in 1860, was the county seat until 1868, when
 it was removed to Bullion. *Utah Acts Legisl*., 1874, 6; thence to
 Marysville, and again to Junction.
 
-<span id="fn_1206"></span>[705:59](hou29.htm#fr_1206) Beaver was
+<span id="fn_1206"></span>[705:59](hou29.htm#fr_1206.md) Beaver was
 incorporated in 1867. *Utah Acts Legisl*., 1867, 4-5. For plan, see
 *Wheeler's Geog. Surveys*, ii. 491.
 
-<span id="fn_1207"></span>[705:60](hou29.htm#fr_1207) For act changing
+<span id="fn_1207"></span>[705:60](hou29.htm#fr_1207.md) For act changing
 the limits of Sanpete, Utah, and Wasatch counties, see *Utah Laws*,
 1880, 18-19. By act of 1864 the county seat of Sanpete co. was removed
 from Manti to Moroni, and by act of 1865 again fixed at Manti. *Utah
 Acts Legisl*., 1863-4, 21; 1865, 16.
 
-<span id="fn_1208"></span>[706:61](hou29.htm#fr_1208) The site of Manti
+<span id="fn_1208"></span>[706:61](hou29.htm#fr_1208.md) The site of Manti
 temple was chosen by Brigham, and ground was broken Apr. 30, 1877. The
 corner-stones were laid Apr. 14, 1879. *Deseret News*, May 7, 1879. For
 condition in 1882, see *Robinson's Sinners and Saints*, 163-5.
 
-<span id="fn_1209"></span>[706:62](hou29.htm#fr_1209) *Utah Compiled
+<span id="fn_1209"></span>[706:62](hou29.htm#fr_1209.md) *Utah Compiled
 Laws*, 828.
 
-<span id="fn_1210"></span>[706:63](hou29.htm#fr_1210) Chester, about
+<span id="fn_1210"></span>[706:63](hou29.htm#fr_1210.md) Chester, about
 four miles west of Spring City, was settled in 1882 by R. N. Allred and
 others; Mayfield, ten miles south of Manti, by families from Ephraim and
 Fort Gunnison in 1873-5. In 1880 there were 16 considerable towns and
 villages in Sanpete co. J.B. Maiben, in *Utah Sketches*, MS., 173.
 
-<span id="fn_1211"></span>[706:64](hou29.htm#fr_1211) Wm Morrison, Paul
+<span id="fn_1211"></span>[706:64](hou29.htm#fr_1211.md) Wm Morrison, Paul
 Poulson, and James M. Peterson, in *Utah Sketches*, MS., 134-6; *Utah
 Acts Legisl*., 1865, 16.
 
-<span id="fn_1212"></span>[706:65](hou29.htm#fr_1212) For acts
+<span id="fn_1212"></span>[706:65](hou29.htm#fr_1212.md) For acts
 incorporating Parowan and Cedar, Bee *Utah Compiled Laws*, 1868, 808-11.
 
-<span id="fn_1213"></span>[707:66](hou29.htm#fr_1213) *Utah Sketches*,
+<span id="fn_1213"></span>[707:66](hou29.htm#fr_1213.md) *Utah Sketches*,
 MS., 100. Among other settlements were Johnson, some ten miles east of
 Kanab, Pahreah, near the junction of Pahreah River and Cottonwood Creek,
 settled in 1872, and Orderville, on the west bank of the Virgen, in
 1875. In 1869 the seat of Kane co. was removed from Rockville to
 Toquerville. *Utah Acts*, 1869, 17.
 
-<span id="fn_1214"></span>[707:67](hou29.htm#fr_1214) For act to
+<span id="fn_1214"></span>[707:67](hou29.htm#fr_1214.md) For act to
 incorporate St George, see *Utah Compiled Laws*, 814-20. It was made the
 county seat in 1863. *Utah Acts Legisl*., 1862-3, 5-6.
 
-<span id="fn_1215"></span>[707:68](hou29.htm#fr_1215) For dedication and
+<span id="fn_1215"></span>[707:68](hou29.htm#fr_1215.md) For dedication and
 description, see Millennial Star, xxxvi. 252-5; *Deserst News*, Apr. 8,
 1874, Jan. 17, Apr. 26, Sept. 13, 1876. For plan of St George, see
 *Wheeler's Geog. Surveys*, it. 491. Six miles from St George was the
@@ -1230,21 +1230,21 @@ Leeds, first settled in 1868-9 by R. H. Ashley and others. Pinto, in the
 northern part of the county, was settled by Jacob Hamblin and others in
 1856. The mining camp of Silver Reef was about one mile from Leeds.
 
-<span id="fn_1216"></span>[707:69](hou29.htm#fr_1216) Of these 111 were
+<span id="fn_1216"></span>[707:69](hou29.htm#fr_1216.md) Of these 111 were
 primary, 60 intermediate, and 240 mixed. *Utah Gazetteer*, 1884, 293.
 
-<span id="fn_1217"></span>[707:70](hou29.htm#fr_1217) *Rept Dist
+<span id="fn_1217"></span>[707:70](hou29.htm#fr_1217.md) *Rept Dist
 Schools*, 1880, p. 11. The value of district school property was in 1879
 $393,984.57, of private school property $175,000.
 
-<span id="fn_1218"></span>[708:71](hou29.htm#fr_1218) Presbyterians,
+<span id="fn_1218"></span>[708:71](hou29.htm#fr_1218.md) Presbyterians,
 congregationalists, and catholics. *Harrison's Crit. Notes on Utah*,
 MS., 63. Among them was the Salt Lake Collegiate Institute founded by
 the presbyterians, the Salt Lake Academy by the congregationalists, and
 St Mary's Academy by the catholics. The presbyterians a one had in 1883
 33 schools and 2,200 pupils. *Utah Gazetteer*, 1884, 280.
 
-<span id="fn_1219"></span>[708:72](hou29.htm#fr_1219) Opened Jan. 1876,
+<span id="fn_1219"></span>[708:72](hou29.htm#fr_1219.md) Opened Jan. 1876,
 burned Jan. 1884, and rebuilt the same year. *Id*., 278-9, Albert Jones,
 in *Utah Co. Sketches*, MS., 59-60, 64, states that it was founded for
 the children of members of the church in good standing, though others
@@ -1263,17 +1263,17 @@ and most of the other converts gathered to Utah. *Richards’ Miscell*.,
 MS. Mr Richards states that the B. Y. academy is one of the best and
 most popular educational institutes in the territory.
 
-<span id="fn_1220"></span>[708:73](hou29.htm#fr_1220) Opened in Sept.
+<span id="fn_1220"></span>[708:73](hou29.htm#fr_1220.md) Opened in Sept.
 1878, the number of pupils in 1880-1 being 160. In 1877 a tract of
 nearly 10,000 acres south of Logan City was deeded for this purpose to a
 board of trustees by Brigham. *Utah Gazetteer*, 1884, 283-4. In 1883
 Mariner W. Merrill presided over the educational affairs of Logan
 temple.
 
-<span id="fn_1221"></span>[708:74](hou29.htm#fr_1221) A copy of it will
+<span id="fn_1221"></span>[708:74](hou29.htm#fr_1221.md) A copy of it will
 be found in *Rept Dist Schools*, 1880, 71-80.
 
-<span id="fn_1222"></span>[709:75](hou29.htm#fr_1222) *Harrison's Crit.
+<span id="fn_1222"></span>[709:75](hou29.htm#fr_1222.md) *Harrison's Crit.
 Notes on Utah*, MS., 67-71. The first gentile elected school trustee in
 Utah was Benjamin Grundy Raybold, a native of Birmingham, England, who
 came to Utah in 1862. Finding no other occupation, he began his career
@@ -1315,25 +1315,25 @@ City since 1857, the Sunday-school Union being established in 1866. For
 gentile churches and missionary work in Utah, see *Hand-Book of
 Mormonism*, 77-86; *Utah Gaz*., 208-11; *Marshall's Through Amer*., 230.
 
-<span id="fn_1223"></span>[709:76](hou29.htm#fr_1223) With Orson Spencer
+<span id="fn_1223"></span>[709:76](hou29.htm#fr_1223.md) With Orson Spencer
 as chancellor, Dan. Spencer, Orson Pratt, Jno. M. Bernhisel, Sam. W.
 Richards, W. W. Phelps, Albert Carrington, Wm I. Appleby, Dan. H. Wells,
 Robt L. Campbell, Hosea Stout, Elias Smith, and Zerubbabel Snow as
 regents, and David Fullmer as treasurer. *Des. Univ*., MS., 3.
 
-<span id="fn_1224"></span>[710:77](hou29.htm#fr_1224) See [p.
-324](hou17.htm#page_324), this vol.
+<span id="fn_1224"></span>[710:77](hou29.htm#fr_1224.md) See [p.
+324](hou17.htm#page_324.md), this vol.
 
-<span id="fn_1225"></span>[710:78](hou29.htm#fr_1225) It was opened Nov.
+<span id="fn_1225"></span>[710:78](hou29.htm#fr_1225.md) It was opened Nov.
 11, 1850, at the house of Mr Pack, in the 17th ward of S. L. City, Cyrus
 Collins being appointed teacher, but succeeded the same year by Orson
 Spencer and W. W. Phelps. The terms were $3 a quarter. *Id*., 6, 10;
 *Utah Gazetteer*, 1884, 287.
 
-<span id="fn_1226"></span>[710:79](hou29.htm#fr_1226) *Des. Univ*., MS.,
+<span id="fn_1226"></span>[710:79](hou29.htm#fr_1226.md) *Des. Univ*., MS.,
 24; *Utah Jour. Legisl*., 1853-4, 115.
 
-<span id="fn_1227"></span>[710:80](hou29.htm#fr_1227) By act of 1855 a
+<span id="fn_1227"></span>[710:80](hou29.htm#fr_1227.md) By act of 1855 a
 grant was confirmed of nearly a section of land lying east of S. L.
 City. By contributions of labor and produce, nearly all of it was
 enclosed with a stone wall. A building was also commenced in the 13th
@@ -1345,17 +1345,17 @@ legislature. *Utah Laws*, 1878, 172. In 1859 the legislature passed an
 act to provide for the selection of two townships for this purpose.
 *Utah Acts Legisl*., 1866, 93-4.
 
-<span id="fn_1228"></span>[710:81](hou29.htm#fr_1228) By act of 1851 the
+<span id="fn_1228"></span>[710:81](hou29.htm#fr_1228.md) By act of 1851 the
 chancellor and board of regents were authorized to appoint a
 superintendent of primary schools, to be under their control, his salary
 not to exceed $1,000 a year. By act of 1866 the right of making such
 appointment was transferred to the legislature. *Des. Univ*., MS., 4-5,
 24.
 
-<span id="fn_1229"></span>[710:82](hou29.htm#fr_1229) Of which David O.
+<span id="fn_1229"></span>[710:82](hou29.htm#fr_1229.md) Of which David O.
 Calder was principal.
 
-<span id="fn_1230"></span>[710:83](hou29.htm#fr_1230) The course lasted
+<span id="fn_1230"></span>[710:83](hou29.htm#fr_1230.md) The course lasted
 four years in the classical and two in the normal department. In
 connection with the normal department was a 'model school,' where pupils
 were prepared for the college course. The charges were $20 per term for
@@ -1365,10 +1365,10 @@ The rates for tuition were afterward reduced. For studies and faculty,
 see *Catal. Univ. of Deseret*, 1868-9, 5, 14-16; for list of text-books,
 *Id*., 1869-70, 25-6.
 
-<span id="fn_1231"></span>[711:84](hou29.htm#fr_1231) There were 307
+<span id="fn_1231"></span>[711:84](hou29.htm#fr_1231.md) There were 307
 males and 239 females. *Id*., 1869-70, 21. *Des. Univ*., MS., 27.
 
-<span id="fn_1232"></span>[711:85](hou29.htm#fr_1232) At the session of
+<span id="fn_1232"></span>[711:85](hou29.htm#fr_1232.md) At the session of
 1879-80 the legislature appropriated $20,000 for the university, and
 soon afterward the city council donated to the regents the finest public
 square in the city. A building was at once commenced, but the
@@ -1387,10 +1387,10 @@ Deseret*, 1878-9, 11-13. In 1854 Orson Hyde was appointed chancellor, in
 Pratt, elected in 1858; in 1869 Dan. H. Wells and in 1878 Geo. Q. Cannon
 were appointed. *Des. Univ*., MS., 35.
 
-<span id="fn_1233"></span>[711:86](hou29.htm#fr_1233) See *Circ. Acad.
+<span id="fn_1233"></span>[711:86](hou29.htm#fr_1233.md) See *Circ. Acad.
 Dept Univ. of Deseret*, 1880-2, 9-10.
 
-<span id="fn_1234"></span>[711:87](hou29.htm#fr_1234) In 1870 a school
+<span id="fn_1234"></span>[711:87](hou29.htm#fr_1234.md) In 1870 a school
 in connection with the university was established at Provo, with Myron
 Tanner of that city, A. K. Thurber of Spanish Fork, and L. E. Harrington
 of American Fork as executive committee, and Warren <span
@@ -1411,7 +1411,7 @@ University*, MS., 1-35, which, besides a brief historical sketch of that
 institution, contains some valuable items concerning the district
 schools and the district school system of Utah.
 
-<span id="fn_1235"></span>[714:88](hou29.htm#fr_1235) *Richards’ Utah
+<span id="fn_1235"></span>[714:88](hou29.htm#fr_1235.md) *Richards’ Utah
 Misc*., MS., 13-16; *Des. Univ*., MS., 16-18; *Richards’ Incidents in
 Utah Hist*., MS., 63. The preparation and use of the alphabet were
 ordered, or at least suggested, by Brigham Young, who, in his address to
@@ -1435,13 +1435,13 @@ Pitman's phonoype, and Orson Pratt started for England for this purpose,
 but returned at the death of Brigham in August of that year. No further
 effort was made.
 
-<span id="fn_1236"></span>[714:89](hou29.htm#fr_1236) *Des. Univ*., MS.,
+<span id="fn_1236"></span>[714:89](hou29.htm#fr_1236.md) *Des. Univ*., MS.,
 29; *Utah Gazetteer*, 228.
 
-<span id="fn_1237"></span>[715:90](hou29.htm#fr_1237) The last one in
+<span id="fn_1237"></span>[715:90](hou29.htm#fr_1237.md) The last one in
 1882.
 
-<span id="fn_1238"></span>[715:91](hou29.htm#fr_1238) For mention of
+<span id="fn_1238"></span>[715:91](hou29.htm#fr_1238.md) For mention of
 such societies, see *Contributor*, ii. 27-9, 31-2, 61, 92-4, 159, 222,
 287, 350; *Deseret News*, Aug. 7, Nov. 20, 1878; *Utah Gazetteer*, 1884,
 218-25. For further details as to libraries, see *Id*., 228-30;
@@ -1453,10 +1453,10 @@ Sept. 25, 1879; observatories, *Wheeler's Geog. Surveys*, ii. 7-9,
 observations created by act of 1857 was abolished by act of 1870. *Utah
 Jour. Legisl*., 1876, 179-80.
 
-<span id="fn_1239"></span>[715:92](hou29.htm#fr_1239) The author of
+<span id="fn_1239"></span>[715:92](hou29.htm#fr_1239.md) The author of
 *Rocky Mountain Saints*. His decease occurred in 1882.
 
-<span id="fn_1240"></span>[716:93](hou29.htm#fr_1240) Among those who
+<span id="fn_1240"></span>[716:93](hou29.htm#fr_1240.md) Among those who
 early took an interest in newspapers may be mentioned Sidney Stevens,
 who in 1885 was still one of the largest proprietors of the *Herald*. Mr
 Stevens, a native of Somersetshire, England, came to Utah in 1863,
@@ -1467,14 +1467,14 @@ states, forwarding as many as 470 car-loads in a single year. To his
 enterprise the terminus of the Union Pacific is in no small degree
 indebted for its recent growth.
 
-<span id="fn_1241"></span>[716:94](hou29.htm#fr_1241) It has been edited
+<span id="fn_1241"></span>[716:94](hou29.htm#fr_1241.md) It has been edited
 at various dates by R. T. McEwan, R. G. Sleater, J. T. McEwan, and John
 C. Graham. *Richards’ Bibliog. of Utah*, MS., 18.
 
-<span id="fn_1242"></span>[716:95](hou29.htm#fr_1242) Later Dan. Tyler
+<span id="fn_1242"></span>[716:95](hou29.htm#fr_1242.md) Later Dan. Tyler
 became editor. *Ibid*.
 
-<span id="fn_1243"></span>[717:96](hou29.htm#fr_1243) Additional list of
+<span id="fn_1243"></span>[717:96](hou29.htm#fr_1243.md) Additional list of
 publications, showing name, where located, frequency of issue, and,
 where possible, date of establishment and suspension:
 
@@ -1587,7 +1587,7 @@ where possible, date of establishment and suspension:
 
 </div>
 
-<span id="fn_1244"></span>[719:97](hou29.htm#fr_1244) For further
+<span id="fn_1244"></span>[719:97](hou29.htm#fr_1244.md) For further
 mention of Utah journalism, see *Richards’ Bibliog. of Utah*, MS.;
 *Millennial Star*, xxxvi. 731-2; xxxix. 127; *Remy's Jour. to G. S. L.
 City*, i. 189-90; *Beadle's Life in Utah*, 534-8; *Richardson's Beyond
@@ -1630,4 +1630,4 @@ but failed to receive the governor's signature. *Tullidge's Mag*., ii.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVII. Agriculture, Stock-Raising, Manufactures, and
-Mining. 1852-1886.](hou30)
+Mining. 1852-1886.](hou30.md)

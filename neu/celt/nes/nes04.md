@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes03)  [Next](nes05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes03)  [Next](nes05.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![O](img/oinit.jpg) |
+| ![O](img/oinit.jpg.md) |
 
 N the occasion of a birth there were present a few of the mother's
 female friends in the neighbourhood, besides the midwife.
@@ -49,7 +49,7 @@ carried off a piece of the cheese to be distributed among friends, and
 every one who
 
 came also to see the mother and baby carried away a piece for the same
-purpose. <span id="fr_0"></span>[1](#fn_0)
+purpose. <span id="fr_0"></span>[1](#fn_0.md)
 
 The belief in fairies was universal, and their power was specially
 dreaded in the case of women in childbed and of unbaptised infants.
@@ -70,12 +70,12 @@ repeated, "May the Almichty debar a’ ill fae this umman, an be aboot ir,
 an bliss ir an ir bairn." When the biscuit or the bread and cheese had
 served their purpose, they were distributed among the unmarried friends
 and acquaintances, to be placed under their pillows to evoke
-dreams. <span id="fr_1"></span>[2](#fn_1)
+dreams. <span id="fr_1"></span>[2](#fn_1.md)
 
 Among some of the fishing population a fir-candle or a basket containing
 bread and cheese was placed on the bed to keep the fairies at a
 distance. A pair of trowsers hung at the foot of the bed had the same
-effect. <span id="fr_2"></span>[3](#fn_2)
+effect. <span id="fr_2"></span>[3](#fn_2.md)
 
 Strict watch was kept over both mother and child till the mother was
 churched and the child was baptised, and in the doing of both all
@@ -90,7 +90,7 @@ than the most simple and necessary. Neither was she permitted to enter a
 neighbour's house, and, had she attempted to do so, some would have gone
 the length of offering a stout resistance, and for the reason that, if
 there chanced to be in the house a woman great with child, travail would
-prove difficult with her. <span id="fr_3"></span>[1](#fn_3)
+prove difficult with her. <span id="fr_3"></span>[1](#fn_3.md)
 
 The Kirk of Scotland has no special service for the churching of women,
 and churching was simply attending the ordinary service. The mother put
@@ -119,26 +119,26 @@ The first time after childbirth the mother went to fetch water, she did
 so, not in a pail, but in her thimble or in a vessel of very small
 content, to prevent the child's mouth from continually running saliva.
 If possible she ought first to go upstairs rather than downstairs. <span
-id="fr_4"></span>[2](#fn_4)
+id="fr_4"></span>[2](#fn_4.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:1](nes04.htm#fr_0) Cf. Henderson's *Folk-Lore
+<span id="fn_0"></span>[4:1](nes04.htm#fr_0.md) Cf. Henderson's *Folk-Lore
 of the Northern Counties* (published by the Folk-Lore Society), pp. 11,
 12. This book will be referred to hereafter as "Henderson."
 
-<span id="fn_1"></span>[4:2](nes04.htm#fr_1) *Ibid*. p. 14.
+<span id="fn_1"></span>[4:2](nes04.htm#fr_1.md) *Ibid*. p. 14.
 
-<span id="fn_2"></span>[4:3](nes04.htm#fr_2) *Ibid*. pp. 14, 15, and
+<span id="fn_2"></span>[4:3](nes04.htm#fr_2.md) *Ibid*. pp. 14, 15, and
 *The Folk-Lore Record*, vol. ii. p. 197.
 
-<span id="fn_3"></span>[6:1](nes04.htm#fr_3) Cf. Henderson, p. 16.
+<span id="fn_3"></span>[6:1](nes04.htm#fr_3.md) Cf. Henderson, p. 16.
 
-<span id="fn_4"></span>[6:2](nes04.htm#fr_4) Cf. *F. L. Record*, vol. i.
+<span id="fn_4"></span>[6:2](nes04.htm#fr_4.md) Cf. *F. L. Record*, vol. i.
 p. 11 (36).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Child](nes05)
+[Next: Chapter II. The Child](nes05.md)

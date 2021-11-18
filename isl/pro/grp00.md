@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos29)  [Next](grp01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos29)  [Next](grp01.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ sun) for him twice as it was told in assured narrations.
 
 ------------------------------------------------------------------------
 
-[Next: Escaping The Plague](grp01)
+[Next: Escaping The Plague](grp01.md)

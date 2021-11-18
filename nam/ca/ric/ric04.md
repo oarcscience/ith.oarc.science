@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ric03)  [Next](ric05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ric03)  [Next](ric05.md) 
 
 ------------------------------------------------------------------------
 
@@ -261,4 +261,4 @@ have been dreamed by himself.
 
 ------------------------------------------------------------------------
 
-[Next: Ceremonial Structures and Paraphernalia](ric05)
+[Next: Ceremonial Structures and Paraphernalia](ric05.md)

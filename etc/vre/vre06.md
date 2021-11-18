@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre05)  [Next](vre07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre05)  [Next](vre07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ rightly or wrongly, is one of the "immediate inferences" of the
 religious logic used by ordinary men.
 
 "The near presence of God's spirit," says a German writer, <span
-id="fr_30"></span>[1](#fn_30) "may be experienced in its reality—indeed
+id="fr_30"></span>[1](#fn_30.md) "may be experienced in its reality—indeed
 *only* experienced. And the mark by which the spirit's existence and
 nearness are made irrefutably clear to those who have ever had the
 experience is the utterly incomparable *feeling of happiness* which is
@@ -107,7 +107,7 @@ possession from the outset, needs no deliverance from any antecedent
 burden.
 
 <span class="small">"God has two families of children on this earth,"
-says Francis W. Newman, <span id="fr_31"></span>[1](#fn_31) "the
+says Francis W. Newman, <span id="fr_31"></span>[1](#fn_31.md) "the
 once-born and the twice-born," and the once-born he describes as
 follows: "They see God, not as a strict Judge, not as a Glorious
 Potentate; but as the animating Spirit of a beautiful harmonious world,
@@ -124,7 +124,7 @@ their nature makes the opening of religion very happy to them: for they
 no more shrink from God, than a child from an emperor, before whom the
 parent trembles: in fact, they have no vivid conception of *any* of the
 qualities in which the severer Majesty of God consists. <span
-id="fr_32"></span>[1](#fn_32) He is to them the impersonation of
+id="fr_32"></span>[1](#fn_32.md) He is to them the impersonation of
 Kindness and Beauty. They read his character, not in the disordered
 world of man, but in romantic and harmonious nature. Of human sin they
 know perhaps little in their own hearts and not very much in the world;
@@ -141,7 +141,7 @@ Unitarianism and latitudinarianism generally, minds of this order have
 played and still are playing leading and constructive parts. Emerson
 himself is an admirable example. Theodore Parker is another—here are a
 couple of characteristic passages from Parker's correspondence. <span
-id="fr_33"></span>[2](#fn_33)
+id="fr_33"></span>[2](#fn_33.md)
 
 <span class="small">"Orthodox scholars say: 'In the heathen classics you
 find no consciousness of sin.' It is very true—God be thanked for it.
@@ -201,7 +201,7 @@ have his being in God, and that he has, therefore, infinite strength at
 hand for the conquering of any difficulty, will take life more easily,
 and probably will make more of it, than one who is told that he is born
 the child of wrath and wholly incapable of good." <span
-id="fr_34"></span>[1](#fn_34)</span>
+id="fr_34"></span>[1](#fn_34.md)</span>
 
 One can but recognize in such writers as these the presence of a
 temperament organically weighted on the side of cheer and fatally
@@ -209,7 +209,7 @@ forbidden to linger, as those of opposite temperament linger, over the
 darker aspects of the universe. In some individuals optimism may become
 quasi-pathological. The capacity for even a transient sadness or a
 momentary humility seems cut off from them as by a kind of congenital
-anæsthesia. <span id="fr_35"></span>[2](#fn_35)
+anæsthesia. <span id="fr_35"></span>[2](#fn_35.md)
 
 <span id="page_83">p. 83</span>
 
@@ -253,7 +253,7 @@ never</span>
 <span id="page_84">p. 84</span>
 
 <span class="small">was angry. He never exhibited fear, and I do not
-believe he ever felt it." <span id="fr_36"></span>[1](#fn_36)</span>
+believe he ever felt it." <span id="fr_36"></span>[1](#fn_36.md)</span>
 
 Walt Whitman owes his importance in literature to the systematic
 expulsion from his writings of all contractile elements. The only
@@ -269,7 +269,7 @@ the restorer of the eternal natural religion. He has infected them with
 his own love of comrades, with his own gladness that he and they exist.
 Societies are actually formed for his cult; a periodical organ exists
 for its propagation, in which the lines of orthodoxy and heterodoxy are
-already beginning to be drawn; <span id="fr_37"></span>[2](#fn_37) hymns
+already beginning to be drawn; <span id="fr_37"></span>[2](#fn_37.md) hymns
 are written by others in his peculiar prosody; and he is even explicitly
 compared with the founder of the Christian religion, not altogether to
 the advantage of the latter.
@@ -298,7 +298,7 @@ things,
  Not one kneels to another, nor to his kind that lived thousands of
 years ago,  
  Not one is respectable or unhappy over the whole earth." <span
-id="fr_38"></span>[1](#fn_38)</span>
+id="fr_38"></span>[1](#fn_38.md)</span>
 
 </div>
 
@@ -314,7 +314,7 @@ thou? Patroclos too is dead, who was better far than thou. . . . Over me
 too hang death and forceful fate. There cometh morn or eve or some
 noonday when my life too some man shall take in battle, whether with
 spear he smite, or arrow from the string." <span
-id="fr_39"></span>[2](#fn_39)</span>
+id="fr_39"></span>[2](#fn_39.md)</span>
 
 Then Achilles savagely severs the poor boy's neck with his sword, heaves
 him by the foot into the Scamander, and calls to the fishes of the river
@@ -338,7 +338,7 @@ place. This integrity of the instinctive reactions, this freedom from
 all moral sophistry and strain, gives a pathetic dignity to ancient
 pagan feeling. And this quality Whitman's outpourings have not got. His
 optimism is too voluntary and defiant; his gospel has a touch of bravado
-and an affected twist, <span id="fr_40"></span>[1](#fn_40) and this
+and an affected twist, <span id="fr_40"></span>[1](#fn_40.md) and this
 diminishes its effect on many readers who yet are well disposed towards
 optimism, and on the whole quite willing to admit that in important
 respects Whitman is of the genuine lineage of the prophets.
@@ -442,7 +442,7 @@ slaughter-houses and indecencies without end on which our life is
 founded are huddled out of sight and never mentioned, so that the world
 we recognize officially in literature and in society is a poetic fiction
 far handsomer and cleaner and better than the world that really
-is. <span id="fr_41"></span>[1](#fn_41)
+is. <span id="fr_41"></span>[1](#fn_41.md)
 
 The advance of liberalism, so-called, in Christianity, during the past
 fifty years, may fairly be called a victory of healthy-mindedness within
@@ -592,7 +592,7 @@ this faith have had an intuitive belief in the all-saving power of
 healthy-minded attitudes as such, in the conquering efficacy of courage,
 hope, and trust, and a correlative contempt for doubt, fear, worry, and
 all nervously precautionary states of mind. <span
-id="fr_42"></span>[1](#fn_42) Their belief has in a general way been
+id="fr_42"></span>[1](#fn_42.md) Their belief has in a general way been
 corroborated by the practical experience of their disciples; and this
 experience forms to-day a mass imposing in amount.
 
@@ -633,7 +633,7 @@ United States are beginning, though with much recalcitrancy and
 protesting, to open their eyes. It is evidently bound to develop still
 farther, both speculatively and practically, and its latest writers are
 far and away the ablest of the group. <span
-id="fr_43"></span>[1](#fn_43) It matters nothing that, just as there are
+id="fr_43"></span>[1](#fn_43.md) It matters nothing that, just as there are
 hosts of persons who cannot pray, so there are greater hosts who cannot
 by any possibility be influenced by the mind-curers’ ideas. For our
 immediate purpose, the important point is that so large a number should
@@ -642,7 +642,7 @@ exist who *can* 
 <span id="page_95">p. 95</span>
 
 be so influenced. They form a psychic type to be studied with
-respect. <span id="fr_44"></span>[1](#fn_44)
+respect. <span id="fr_44"></span>[1](#fn_44.md)
 
 <span id="page_96">p. 96</span>
 
@@ -673,7 +673,7 @@ have defined the word 'worry' as *fearthought in contradistinction to
 forethought*. I have also defined fearthought as *the self-imposed or
 self-permitted suggestion of inferiority*, in order to place it where it
 really belongs, in the category of harmful, unnecessary, and therefore
-not respectable things." <span id="fr_45"></span>[1](#fn_45)</span>
+not respectable things." <span id="fr_45"></span>[1](#fn_45.md)</span>
 
 <span id="page_97">p. 97</span>
 
@@ -706,7 +706,7 @@ calamity, the loss of property, the chance of robbery, of fire, or the
 outbreak of war. And it is not deemed sufficient to fear for ourselves.
 When a friend is taken ill, we must forth with fear the worst and
 apprehend death. If one meets with sorrow . . . sympathy means to enter
-into and increase the suffering." <span id="fr_46"></span>[1](#fn_46)
+into and increase the suffering." <span id="fr_46"></span>[1](#fn_46.md)
 
 "Man," to quote another writer, "often has fear stamped upon him before
 his entrance into the outer world; he is reared in fear; all his life is
@@ -722,12 +722,12 @@ such a perpetual nightmare! Is it not surprising that health exists at
 all? Nothing but the boundless divine love? exuberance, and vitality,
 constantly poured in, even though unconsciously to us, could in some
 degree neutralize such an ocean of morbidity." <span
-id="fr_47"></span>[1](#fn_47)</span>
+id="fr_47"></span>[1](#fn_47.md)</span>
 
 Although the disciples of the mind-cure often use Christian terminology,
 one sees from such quotations how widely their notion of the fall of man
 diverges from that of ordinary Christians. <span
-id="fr_48"></span>[2](#fn_48)
+id="fr_48"></span>[2](#fn_48.md)
 
 Their notion of man's higher nature is hardly less divergent, being
 decidedly pantheistic. The spiritual in man appears
@@ -775,7 +775,7 @@ the belts of our machinery to the powerhouse
 of the Universe. One need remain in hell no longer than one chooses to;
 we can rise to any heaven we ourselves choose; and when we choose so to
 rise, all the higher powers of the Universe combine to help us
-heavenward." <span id="fr_49"></span>[1](#fn_49)
+heavenward." <span id="fr_49"></span>[1](#fn_49.md)
 
 Let me now pass from these abstracter statements to some more concrete
 accounts of experience with the mind-cure religion. I have many answers
@@ -939,7 +939,7 @@ primarily a religious movement. Its doctrine of the oneness of our life
 with God's life is in fact quite indistinguishable from an
 interpretation of Christ's message which in these very Gifford lectures
 has been defended by some of your very ablest Scottish religious
-philosophers. <span id="fr_50"></span>[1](#fn_50)
+philosophers. <span id="fr_50"></span>[1](#fn_50.md)
 
 But philosophers usually profess to give a quasi-logical explanation of
 the existence of evil, whereas of the general fact of evil in the world,
@@ -1010,7 +1010,7 @@ adequacy holds in the case of the mind-cure message, foolish as it may
 sound upon its surface; and seeing its rapid growth in influence, and
 its therapeutic triumphs, one is tempted to ask whether it may not be
 destined (probably by very reason of the crudity and extravagance of
-many of its manifestations <span id="fr_51"></span>[1](#fn_51)) to play
+many of its manifestations <span id="fr_51"></span>[1](#fn_51).md) to play
 a part almost
 
 <span id="page_107">p. 107</span>
@@ -1110,7 +1110,7 @@ results, slow or sudden, or great or small, of the combined optimism and
 expectancy, the regenerative phenomena which ensue on the abandonment of
 effort, remain firm facts of human nature, no matter whether we adopt a
 theistic, a pantheistic-idealistic, or a medical-materialistic view of
-their ultimate causal explanation. <span id="fr_52"></span>[1](#fn_52)
+their ultimate causal explanation. <span id="fr_52"></span>[1](#fn_52.md)
 
 <span id="page_110">p. 110</span>
 
@@ -1144,7 +1144,7 @@ popular Christianity
 <span id="page_111">p. 111</span>
 
 does absolutely *nothing*, or did nothing until mind-cure came to the
-rescue. <span id="fr_53"></span>[1](#fn_53)
+rescue. <span id="fr_53"></span>[1](#fn_53.md)
 
 <span id="page_112">p. 112</span>
 
@@ -1170,7 +1170,7 @@ that they may either be enlivened, or taken away; if that be true that
 is often said by some at this day, that these cold dead saints do more
 hurt than natural men, and lead more souls to hell, and that it would be
 well for mankind if they were all dead." <span
-id="fr_54"></span>[1](#fn_54)
+id="fr_54"></span>[1](#fn_54.md)
 
 The next condition of success is the apparent existence, in large
 numbers, of minds who unite healthy-mindedness with readiness for
@@ -1194,10 +1194,10 @@ random:—
 
 "The value, the potency of ideals is the great practical truth on which
 the New Thought most strongly insists—the development namely from within
-outward, from small to great. <span id="fr_55"></span>[1](#fn_55)
+outward, from small to great. <span id="fr_55"></span>[1](#fn_55.md)
 Consequently one's thought should be centred on the ideal outcome, even
 though this trust be literally like a step in the dark. <span
-id="fr_56"></span>[2](#fn_56) To attain the ability thus effectively to
+id="fr_56"></span>[2](#fn_56.md) To attain the ability thus effectively to
 direct the mind, the New Thought advises the practice of concentration,
 or in other words, the attainment of self-control. One is to learn to
 marshal the tendencies of the mind, so that they may be held together as
@@ -1205,14 +1205,14 @@ a unit by the chosen ideal. To this end, one should set apart times for
 silent meditation, by one's self, preferably in a room where the
 surroundings are favorable to spiritual thought. In New Thought terms,
 this is called 'entering the silence.'" <span
-id="fr_57"></span>[3](#fn_57)
+id="fr_57"></span>[3](#fn_57.md)
 
 "The time will come when in the busy office or on the noisy street you
 can enter into the silence by simply drawing the mantle of your own
 thoughts about you and realizing that there and everywhere the Spirit of
 Infinite Life, Love, Wisdom, Peace, Power, and Plenty is guiding,
 keeping, protecting, leading you. This is the spirit of continual
-prayer. <span id="fr_58"></span>[4](#fn_58) One of the most intuitive
+prayer. <span id="fr_58"></span>[4](#fn_58.md) One of the most intuitive
 men we ever met had a desk at a city office where several other
 gentlemen were doing business constantly, and often talking
 
@@ -1227,7 +1227,7 @@ some primeval wood. Taking his difficulty with him into the mystic
 silence in the form of a direct question, to which he expected a certain
 answer, he would remain utterly passive until the reply came, and never
 once through many years’ experience did he find himself disappointed or
-misled." <span id="fr_59"></span>[1](#fn_59)</span>
+misled." <span id="fr_59"></span>[1](#fn_59.md)</span>
 
 Wherein, I should like to know, does this *intrinsically* differ from
 the practice of "recollection" which plays so great a part in Catholic
@@ -1249,7 +1249,7 @@ recollection. If you cannot practice this exercise continuously, at
 least make yourself as familiar with it as possible; and, like unto
 those who in a rigorous winter draw near the fire as often as they can,
 go as often as you can to that ardent fire which will warm your
-soul." <span id="fr_60"></span>[2](#fn_60)</span>
+soul." <span id="fr_60"></span>[2](#fn_60.md)</span>
 
 <span id="page_115">p. 115</span>
 
@@ -1295,7 +1295,7 @@ becomes conscious that it is face to face with the Divine Presence; that
 mighty, healing, loving, Fatherly life which is nearer to us than we are
 to ourselves. There is soul contact with the Parent-Soul, and an influx
 of life, love, virtue, health, and happiness from the Inexhaustible
-Fountain." <span id="fr_61"></span>[1](#fn_61)</span>
+Fountain." <span id="fr_61"></span>[1](#fn_61.md)</span>
 
 When we reach the subject of mysticism, you will undergo so deep an
 immersion into these exalted states of consciousness as to be wet all
@@ -1419,7 +1419,7 @@ happiness and faith.
 when I woke up in the morning, *I was well*."
 
 These are exceedingly trivial instances, <span
-id="fr_62"></span>[1](#fn_62) but in them, if we have anything at all,
+id="fr_62"></span>[1](#fn_62.md) but in them, if we have anything at all,
 we have the method of experiment and verification. For the point I am
 driving at now, it makes no difference whether you consider the patients
 to be deluded victims of their imagination or not. That they seemed to
@@ -1474,7 +1474,7 @@ Primitive thought, with its belief in individualized personal forces,
 seems at any rate as far as ever from being driven by science from the
 field to-day. Numbers of educated people still find it the directest
 experimental channel by which to carry on their intercourse with
-reality. <span id="fr_63"></span>[1](#fn_63)
+reality. <span id="fr_63"></span>[1](#fn_63.md)
 
 The case of mind-cure lay so ready to my hand that I could not resist
 the temptation of using it to bring these last truths home to your
@@ -1485,7 +1485,7 @@ attention.
 
 #### APPENDIX
 
-(See note [1](#fn_62) to [p. 119](#page_119).)
+(See note [1](#fn_62) to [p. 119](#page_119)..md)
 
 <span class="smallcaps">Case</span> I. "My own experience is this: I had
 long been ill, and one of the first results of my illness, a dozen years
@@ -1606,23 +1606,23 @@ and the Divinity of man's true, inner self.
 
 ### Footnotes
 
-<span id="fn_30"></span>[78:1](vre06.htm#fr_30) <span
+<span id="fn_30"></span>[78:1](vre06.htm#fr_30.md) <span
 class="smallcaps">C. Hilty</span>: Glück, dritter Theil, 1900, p. 18.
 
-<span id="fn_31"></span>[79:1](vre06.htm#fr_31) The Soul; its Sorrows
+<span id="fn_31"></span>[79:1](vre06.htm#fr_31.md) The Soul; its Sorrows
 and its Aspirations, 3d edition, 1852, pp. 89, 91.
 
-<span id="fn_32"></span>[80:1](vre06.htm#fr_32) I once heard a lady
+<span id="fn_32"></span>[80:1](vre06.htm#fr_32.md) I once heard a lady
 describe the pleasure it gave her to think that she "could always cuddle
 up to God."
 
-<span id="fn_33"></span>[80:2](vre06.htm#fr_33) John Weiss: Life of
+<span id="fn_33"></span>[80:2](vre06.htm#fr_33.md) John Weiss: Life of
 Theodore Parker, i. 152, 32.
 
-<span id="fn_34"></span>[82:1](vre06.htm#fr_34) <span
+<span id="fn_34"></span>[82:1](vre06.htm#fr_34.md) <span
 class="smallcaps">Starbuck</span>: Psychology of Religion, pp. 305, 306.
 
-<span id="fn_35"></span>[82:2](vre06.htm#fr_35) "I know not to what
+<span id="fn_35"></span>[82:2](vre06.htm#fr_35.md) "I know not to what
 physical laws philosophers will some day refer the feelings of
 melancholy. For myself, I find that they are the most voluptuous of all
 sensations," writes Saint Pierre, and accordingly he devotes a series of
@@ -1647,26 +1647,26 @@ miserable. It is not I who undergo all this—my body weeps and cries; but
 something inside of me which is above me is glad of it all." Journal de
 Marie Bashkirtseff, i. 67.
 
-<span id="fn_36"></span>[84:1](vre06.htm#fr_36) <span
+<span id="fn_36"></span>[84:1](vre06.htm#fr_36.md) <span
 class="smallcaps">R. M. Bucke</span>: Cosmic Consciousness, pp. 182-186,
 abridged.
 
-<span id="fn_37"></span>[84:2](vre06.htm#fr_37) I refer to The
+<span id="fn_37"></span>[84:2](vre06.htm#fr_37.md) I refer to The
 Conservator, edited by Horace Traubel, and published monthly at
 Philadelphia.
 
-<span id="fn_38"></span>[85:1](vre06.htm#fr_38) Song of Myself, 32.
+<span id="fn_38"></span>[85:1](vre06.htm#fr_38.md) Song of Myself, 32.
 
-<span id="fn_39"></span>[85:2](vre06.htm#fr_39) Iliad, XXI., E. Myers's
+<span id="fn_39"></span>[85:2](vre06.htm#fr_39.md) Iliad, XXI., E. Myers's
 translation.
 
-<span id="fn_40"></span>[86:1](vre06.htm#fr_40) "God is afraid of me!"
+<span id="fn_40"></span>[86:1](vre06.htm#fr_40.md) "God is afraid of me!"
 remarked such a titanic-optimistic friend in my presence one morning
 when he was feeling particularly hearty and cannibalistic. The defiance
 of the phrase showed that a Christian education in humility still
 rankled in his breast.
 
-<span id="fn_41"></span>[89:1](vre06.htm#fr_41) "As I go on in this
+<span id="fn_41"></span>[89:1](vre06.htm#fr_41.md) "As I go on in this
 life, day by day, I become more of a bewildered child; I cannot get used
 to this world, to procreation, to heredity, to sight, to hearing, the
 commonest things are a burthen. The prim, obliterated, polite surface of
@@ -1674,7 +1674,7 @@ life, and the broad, bawdy and orgiastic—or mænadic—foundations, form a
 spectacle to which no habit reconciles me." <span class="smallcaps">R.
 L. Stevenson</span>: Letters, ii. 355.
 
-<span id="fn_42"></span>[93:1](vre06.htm#fr_42) "Cautionary Verses for
+<span id="fn_42"></span>[93:1](vre06.htm#fr_42.md) "Cautionary Verses for
 Children": this title of a much used work, published early in the
 nineteenth century, shows how far the muse of evangelical protestantism
 in England, with her mind fixed on the idea of danger, had at last
@@ -1683,12 +1683,12 @@ briefly called a reaction against all that religion of chronic anxiety
 which marked the earlier part of our century in the evangelical circles
 of England and America.
 
-<span id="fn_43"></span>[94:1](vre06.htm#fr_43) I refer to Mr. Horatio
+<span id="fn_43"></span>[94:1](vre06.htm#fr_43.md) I refer to Mr. Horatio
 W. Dresser and Mr. Henry Wood, especially the former. Mr. Dresser's
 works are published by G. P. Putnam's Sons, New York and London; Mr.
 Wood's by Lee & Shepard, Boston.
 
-<span id="fn_44"></span>[95:1](vre06.htm#fr_44) Lest my own testimony be
+<span id="fn_44"></span>[95:1](vre06.htm#fr_44.md) Lest my own testimony be
 suspected, I will quote another reporter, Dr. H. H. Goddard, of Clark
 University, whose thesis on "the Effects of Mind on Body as evidenced by
 Faith Cures" is published in the American Journal of Psychology for 1899
@@ -1731,20 +1731,20 @@ philosophy of life will keep many a man well, and give the doctor time
 to devote to alleviating ills that are unpreventable" (pp. 33, 34 of
 reprint).
 
-<span id="fn_45"></span>[96:1](vre06.htm#fr_45) <span
+<span id="fn_45"></span>[96:1](vre06.htm#fr_45.md) <span
 class="smallcaps">Horace Fletcher</span>: Happiness as found in
 Forethought *minus* Fearthought, Menticulture Series, ii. Chicago and
 New York, Stone. 1897, pp. 21-25, abridged.
 
-<span id="fn_46"></span>[97:1](vre06.htm#fr_46) <span
+<span id="fn_46"></span>[97:1](vre06.htm#fr_46.md) <span
 class="smallcaps">H. W. Dresser</span>: Voices of Freedom, New York,
 1899, p. 38.
 
-<span id="fn_47"></span>[98:1](vre06.htm#fr_47) <span
+<span id="fn_47"></span>[98:1](vre06.htm#fr_47.md) <span
 class="smallcaps">Henry Wood</span>: Ideal Suggestion through Mental
 Photography. Boston, 1899, p. 54.
 
-<span id="fn_48"></span>[98:2](vre06.htm#fr_48) Whether it differs so
+<span id="fn_48"></span>[98:2](vre06.htm#fr_48.md) Whether it differs so
 much from Christ's own notion is for the exegetists to decide. According
 to Harnack, Jesus felt about evil and disease much as our mind-curers
 do. "What is the answer which Jesus sends to John the Baptist?" asks
@@ -1767,11 +1767,11 @@ great kingdom of Satan; but he feels the power of the saviour within
 him. He knows that advance is possible only when weakness is overcome,
 when sickness is made well." Das Wesen des Christenthums, 1900, p. 39.
 
-<span id="fn_49"></span>[100:1](vre06.htm#fr_49) <span
+<span id="fn_49"></span>[100:1](vre06.htm#fr_49.md) <span
 class="smallcaps">R. W. Trine</span>: In Tune with the Infinite, 26th
 thousand, N.Y. 1899. I have strung scattered passages together.
 
-<span id="fn_50"></span>[104:1](vre06.htm#fr_50) The Cairds, for
+<span id="fn_50"></span>[104:1](vre06.htm#fr_50.md) The Cairds, for
 example. In <span class="smallcaps">Edward Caird's</span> Glasgow
 Lectures of 1890-92 passages like this abound:—
 
@@ -1800,13 +1800,13 @@ opposition, but one which presupposes an indestructible principle of
 unity, that can and must become a principle of reconciliation." The
 Evolution of Religion, ii. pp. 146, 147.
 
-<span id="fn_51"></span>[106:1](vre06.htm#fr_51) It remains to be seen
+<span id="fn_51"></span>[106:1](vre06.htm#fr_51.md) It remains to be seen
 whether the school of Mr. Dresser, which assumes more and more the form
 of mind-cure experience and <span id="page_107">p. 107</span> academic
 philosophy mutually impregnating each other, will score the practical
 triumphs of the less critical and rational sects.
 
-<span id="fn_52"></span>[109:1](vre06.htm#fr_52) The theistic
+<span id="fn_52"></span>[109:1](vre06.htm#fr_52.md) The theistic
 explanation is by divine grace, which creates a new nature within one
 the moment the old nature is sincerely given up. The pantheistic
 explanation (which is that of most mind-curers) is by the merging of the
@@ -1821,7 +1821,7 @@ succeed in inhibiting results.—Whether this third explanation might, in
 a psycho-physical account of the universe, be combined with either of
 the others may be left an open question here.
 
-<span id="fn_53"></span>[111:1](vre06.htm#fr_53) Within the churches a
+<span id="fn_53"></span>[111:1](vre06.htm#fr_53.md) Within the churches a
 disposition has always prevailed to regard sickness as a visitation;
 something sent by God for our good, either as chastisement, as warning,
 or as opportunity for exercising virtue, and, in the Catholic Church, of
@@ -1862,37 +1862,37 @@ circles the fundamental article of faith is that disease should never be
 accepted. It is wholly of the pit. God wants us to be absolutely
 healthy, and we should not tolerate ourselves on any lower terms.
 
-<span id="fn_54"></span>[112:1](vre06.htm#fr_54) Edwards, from whose
+<span id="fn_54"></span>[112:1](vre06.htm#fr_54.md) Edwards, from whose
 book on the Revival in New England I quote these words, dissuades from
 such a use of prayer, but it is easy to see that he enjoys making his
 thrust at the cold dead church members.
 
-<span id="fn_55"></span>[113:1](vre06.htm#fr_55) <span
+<span id="fn_55"></span>[113:1](vre06.htm#fr_55.md) <span
 class="smallcaps">H. W. Dresser</span>: Voices of Freedom, 46.
 
-<span id="fn_56"></span>[113:2](vre06.htm#fr_56) <span
+<span id="fn_56"></span>[113:2](vre06.htm#fr_56.md) <span
 class="smallcaps">Dresser</span>: Living by the spirit, 58.
 
-<span id="fn_57"></span>[113:3](vre06.htm#fr_57) <span
+<span id="fn_57"></span>[113:3](vre06.htm#fr_57.md) <span
 class="smallcaps">Dresser</span>: Voices of Freedom, 33.
 
-<span id="fn_58"></span>[113:4](vre06.htm#fr_58) <span
+<span id="fn_58"></span>[113:4](vre06.htm#fr_58.md) <span
 class="smallcaps">Trine</span>: In Tune with the Infinite, p. 214.
 
-<span id="fn_59"></span>[114:1](vre06.htm#fr_59) Trine: p. 117.
+<span id="fn_59"></span>[114:1](vre06.htm#fr_59.md) Trine: p. 117.
 
-<span id="fn_60"></span>[114:2](vre06.htm#fr_60) Quoted by <span
+<span id="fn_60"></span>[114:2](vre06.htm#fr_60.md) Quoted by <span
 class="smallcaps">Lejeune</span>: Introd. à la vie Mystique, 1899, p.
 66.
 
-<span id="fn_61"></span>[116:1](vre06.htm#fr_61) <span
+<span id="fn_61"></span>[116:1](vre06.htm#fr_61.md) <span
 class="smallcaps">Henry Wood</span>: Ideal suggestion through Mental
 Photography, pp. 51, 70 (abridged).
 
-<span id="fn_62"></span>[119:1](vre06.htm#fr_62) See Appendix to this
+<span id="fn_62"></span>[119:1](vre06.htm#fr_62.md) See Appendix to this
 lecture for two other cases furnished me by friends.
 
-<span id="fn_63"></span>[121:1](vre06.htm#fr_63) Whether the various
+<span id="fn_63"></span>[121:1](vre06.htm#fr_63.md) Whether the various
 spheres or systems are ever to fuse integrally into one absolute
 conception, as most philosophers assume that they must, and how, if so,
 that conception may best be reached, are questions that only the future
@@ -1902,4 +1902,4 @@ verified in some degree, each leaving out some part of real experience.
 
 ------------------------------------------------------------------------
 
-[Next: Lectures VI and VII. The Sick Soul](vre07)
+[Next: Lectures VI and VII. The Sick Soul](vre07.md)

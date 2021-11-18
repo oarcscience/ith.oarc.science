@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic043)  [Next](lfic045) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic043)  [Next](lfic045.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ persons possessed by them.
 
 ------------------------------------------------------------------------
 
-[Next: The Misfortunes of Barrett the Piper](lfic045)
+[Next: The Misfortunes of Barrett the Piper](lfic045.md)

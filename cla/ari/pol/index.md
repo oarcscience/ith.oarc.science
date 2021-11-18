@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,12 +12,12 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](pol00)  
-[Book I](pol01)  
-[Book II](pol02)  
-[Book III](pol03)  
-[Book IV](pol04)  
-[Book V](pol05)  
-[Book VI](pol06)  
-[Book VII](pol07)  
-[Book VIII](pol08)  
+[Title Page](pol00.md)  
+[Book I](pol01.md)  
+[Book II](pol02.md)  
+[Book III](pol03.md)  
+[Book IV](pol04.md)  
+[Book V](pol05.md)  
+[Book VI](pol06.md)  
+[Book VII](pol07.md)  
+[Book VIII](pol08.md)  

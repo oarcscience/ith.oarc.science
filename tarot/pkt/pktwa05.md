@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktwa06)  [Next](pktwa04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktwa06)  [Next](pktwa04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Five
 
 <span id="img_wa05"></span> <span align="CENTER"> [![](tn/wa05.jpg)  
-Click to enlarge](img/wa05.jpg)</span>
+Click to enlarge](img/wa05.jpg.md)</span>
 
 A posse of youths, who are brandishing staves, as if in sport or strife.
 It is mimic warfare, and hereto correspond the *Divinatory Meanings*:
@@ -32,4 +32,4 @@ disputes, trickery, contradiction.
 
 ------------------------------------------------------------------------
 
-[Next: Four of Wands](pktwa04)
+[Next: Four of Wands](pktwa04.md)

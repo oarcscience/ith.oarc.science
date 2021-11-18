@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bof00)  [Next](bof02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bof00)  [Next](bof02.md) 
 
 ------------------------------------------------------------------------
 
@@ -281,4 +281,4 @@ Preliminary
 
 ------------------------------------------------------------------------
 
-[Next: The Spirit of Man](bof02)
+[Next: The Spirit of Man](bof02.md)

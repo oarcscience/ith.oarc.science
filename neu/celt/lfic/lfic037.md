@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic036)  [Next](lfic038) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic036)  [Next](lfic038.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ tale has come in Leinster
 
 ------------------------------------------------------------------------
 
-[Next: The Cat of the Carman's Stage](lfic038)
+[Next: The Cat of the Carman's Stage](lfic038.md)

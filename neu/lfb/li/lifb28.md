@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb27)  [Next](lifb29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb27)  [Next](lifb29.md) 
 
 </div>
 
@@ -600,6 +600,6 @@ From the 'Mabinogion.'
 
 ------------------------------------------------------------------------
 
-[Next: The Four Gifts](lifb29)
+[Next: The Four Gifts](lifb29.md)
 
 </div>

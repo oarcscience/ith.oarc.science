@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian of Samosata](../index)  [Index](index)  [Previous](tru01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian of Samosata](../index)  [Index](index)  [Previous](tru01.md) 
 
 ------------------------------------------------------------------------
 
@@ -583,69 +583,69 @@ Beheld what's here, and home again did wend.
 
 ### Footnotes
 
-<span id="fn_27"></span>[307:1](tru02.htm#fr_27) Momus suggested this in
+<span id="fn_27"></span>[307:1](tru02.htm#fr_27.md) Momus suggested this in
 order that the animal might see what he was doing with his horns.
 
-<span id="fn_28"></span>[307:2](tru02.htm#fr_28) As *gala* is milk and
+<span id="fn_28"></span>[307:2](tru02.htm#fr_28.md) As *gala* is milk and
 *tyros* cheese, the goddess and the queen of the island are fitly
 chosen.
 
-<span id="fn_29"></span>[309:1](tru02.htm#fr_29) 3, 113.
+<span id="fn_29"></span>[309:1](tru02.htm#fr_29.md) 3, 113.
 
-<span id="fn_30"></span>[311:1](tru02.htm#fr_30) A remedy for madness;
+<span id="fn_30"></span>[311:1](tru02.htm#fr_30.md) A remedy for madness;
 Hor. *Sat*. 2. 3. 82.
 
-<span id="fn_31"></span>[313:1](tru02.htm#fr_31) Hippolyta.
+<span id="fn_31"></span>[313:1](tru02.htm#fr_31.md) Hippolyta.
 
-<span id="fn_32"></span>[313:2](tru02.htm#fr_32) Ariadne and Phaedra.
+<span id="fn_32"></span>[313:2](tru02.htm#fr_32.md) Ariadne and Phaedra.
 
-<span id="fn_33"></span>[313:3](tru02.htm#fr_33) Cf. *Dialogues of the
+<span id="fn_33"></span>[313:3](tru02.htm#fr_33.md) Cf. *Dialogues of the
 Dead*, 25.
 
-<span id="fn_34"></span>[313:4](tru02.htm#fr_34) Lucian's city is not
+<span id="fn_34"></span>[313:4](tru02.htm#fr_34.md) Lucian's city is not
 necessarily a parody on the New Jerusalem, though the scholiast so
 understood it.
 
-<span id="fn_35"></span>[315:1](tru02.htm#fr_35) Lucian makes a
+<span id="fn_35"></span>[315:1](tru02.htm#fr_35.md) Lucian makes a
 villainous pun here, contrasting *hemeros* (cultivated) with *skieros*
 (fond of darkness), as if the former word meant 'fond of daylight,'
 (*hemera*)!
 
-<span id="fn_36"></span>[319:1](tru02.htm#fr_36) Stesichorus had said
+<span id="fn_36"></span>[319:1](tru02.htm#fr_36.md) Stesichorus had said
 harsh words of Helen, and was blinded by Castor and Pollux for his
 presumption. He recanted in a famous Palinode, of which some lines are
 still preserved (Plato, *Phaedrus*, 243), and so recovered his eyesight.
 
-<span id="fn_37"></span>[321:1](tru02.htm#fr_37) See the *Philosophers
+<span id="fn_37"></span>[321:1](tru02.htm#fr_37.md) See the *Philosophers
 for Sale* for another jest at Chrysippus' insanity.
 
-<span id="fn_38"></span>[325:1](tru02.htm#fr_38) From his leap into the
+<span id="fn_38"></span>[325:1](tru02.htm#fr_38.md) From his leap into the
 crater of Aetna.
 
-<span id="fn_39"></span>[329:1](tru02.htm#fr_39) An allusion to the
+<span id="fn_39"></span>[329:1](tru02.htm#fr_39.md) An allusion to the
 Pyanepsia, the Athenian Beanfeast.
 
-<span id="fn_40"></span>[333:1](tru02.htm#fr_40) The first is a real
+<span id="fn_40"></span>[333:1](tru02.htm#fr_40.md) The first is a real
 Pythagorean precept, or what passed for such (Plut. *Mor*. 12 E); the
 other two are parodies
 
-<span id="fn_41"></span>[337:1](tru02.htm#fr_41) *Odyss*. 19, 560 ff.
+<span id="fn_41"></span>[337:1](tru02.htm#fr_41.md) *Odyss*. 19, 560 ff.
 
-<span id="fn_42"></span>[341:1](tru02.htm#fr_42) *Odyss*. 5, 55 ff.
+<span id="fn_42"></span>[341:1](tru02.htm#fr_42.md) *Odyss*. 5, 55 ff.
 
-<span id="fn_43"></span>[343:1](tru02.htm#fr_43) *Odyss*. 5, 201 ff.
+<span id="fn_43"></span>[343:1](tru02.htm#fr_43.md) *Odyss*. 5, 201 ff.
 
-<span id="fn_44"></span>[347:1](tru02.htm#fr_44) In ancient ships the
+<span id="fn_44"></span>[347:1](tru02.htm#fr_44.md) In ancient ships the
 gooseneck was an ornament on the stem, or (as here) on the stern.
 Nowadays it is a device for fastening a spar to a mast.
 
-<span id="fn_45"></span>[347:2](tru02.htm#fr_45) A parody on the
+<span id="fn_45"></span>[347:2](tru02.htm#fr_45.md) A parody on the
 experience of the pirates who carried off Dionysus (*Hymn. Hom*. 7, 38).
 
-<span id="fn_46"></span>[353:1](tru02.htm#fr_46) Both names are
+<span id="fn_46"></span>[353:1](tru02.htm#fr_46.md) Both names are
 uncertain in the Greek.
 
-<span id="fn_47"></span>[357:1](tru02.htm#fr_47) The biggest lie of all,
+<span id="fn_47"></span>[357:1](tru02.htm#fr_47.md) The biggest lie of all,
 as a disgruntled Greek scribe remarks in the margin!
 
  

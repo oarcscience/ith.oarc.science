@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](efl03)  [Next](efl05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](efl03)  [Next](efl05.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,14 +46,14 @@ of our era. In it, unfortunately, Plutarch identifies certain of the
 Egyptian gods with the gods of the Greeks, and he adds a number of
 statements which rest either upon his own imagination, or are the
 results of misinformation. The translation <span
-id="fr_40"></span>[1](#fn_40) by Squire runs as follows:--
+id="fr_40"></span>[1](#fn_40.md) by Squire runs as follows:--
 
-Rhea <span id="fr_41"></span>[2](#fn_41) say they, having accompanied
-Saturn <span id="fr_42"></span>[3](#fn_42) by
+Rhea <span id="fr_41"></span>[2](#fn_41.md) say they, having accompanied
+Saturn <span id="fr_42"></span>[3](#fn_42.md) by
 
 <span id="page_63">p. 63</span>
 
-stealth, was discovered by the Sun, <span id="fr_43"></span>[1](#fn_43)
+stealth, was discovered by the Sun, <span id="fr_43"></span>[1](#fn_43.md)
 who hereupon denounced a curse upon her, 'that she should not be
 delivered in any month or year'--Mercury, however, being likewise in
 love with the same goddess, in recompense of the favours which he had
@@ -73,13 +73,13 @@ was then born'; and that for this reason Saturn committed the education
 of the child to him, and that in memory of this event the Pamylia were
 afterwards instituted, a festival much resembling the Phalliphoria or
 Priapeia of the Greeks. Upon the second of these days was AROUERIS <span
-id="fr_44"></span>[2](#fn_44) born, whom some call Apollo, and others
+id="fr_44"></span>[2](#fn_44.md) born, whom some call Apollo, and others
 distinguish by the
 
 <span id="page_64">p. 64</span>
 
 name of the elder Orus. Upon the third Typho <span
-id="fr_45"></span>[1](#fn_45) came into the world, being born neither at
+id="fr_45"></span>[1](#fn_45.md) came into the world, being born neither at
 the proper time, nor by the proper place, but forcing his way through a
 wound which he had made in his mother's side. Isis was born upon the
 fourth of them in the marshes of Egypt, as NEPTHYS was upon the last,
@@ -135,7 +135,7 @@ After this they carried it away to the river side, and conveyed it to
 the sea by the Tanaïtic mouth of the Nile; which, for this reason, is
 still held in the utmost abomination by the Egyptians, and never named
 by them but with proper marks of detestation. These things, say they,
-were thus executed upon the 17th <span id="fr_46"></span>[1](#fn_46) day
+were thus executed upon the 17th <span id="fr_46"></span>[1](#fn_46.md) day
 of the month Athyr, when the sun was in Scorpio, in the 28th year of
 Osiris' reign; though there are others who tell us that he was no more
 than 28 years old at this time.
@@ -146,7 +146,7 @@ they immediately acquainting the people with the news gave the first
 occasion to the name Panic Terrors, which has ever since been made use
 of to signify any sudden affright or amazement of a multitude. As to
 Isis, as soon as the report reached her she immediately cut off one of
-the locks of her hair <span id="fr_47"></span>[2](#fn_47) and put on
+the locks of her hair <span id="fr_47"></span>[2](#fn_47.md) and put on
 mourning apparel upon the very spot where she then happened to be, which
 accordingly from this accident
 
@@ -168,7 +168,7 @@ forming omens and presages from it--Isis, during this interval, having
 been informed that Osiris, deceived by her sister Nepthys who was in
 love with him, had unwittingly united with her instead of herself, as
 she concluded from the melilot-garland, <span
-id="fr_48"></span>[3](#fn_48) which he had left with her, made it her
+id="fr_48"></span>[3](#fn_48.md) which he had left with her, made it her
 business likewise to search out the child, the fruit of this unlawful
 commerce (for her sister, dreading the anger of her husband Typho, had
 exposed it as soon as it was born), and accordingly, after much pains
@@ -183,7 +183,7 @@ mankind.
 
 "At length she receives more particular news of the chest, that it had
 been carried by the waves of the sea to the coast of Byblos, <span
-id="fr_49"></span>[1](#fn_49) and there gently lodged in the branches of
+id="fr_49"></span>[1](#fn_49.md) and there gently lodged in the branches of
 a bush of Tamarisk, which, in a short time, had shot up into a large and
 beautiful tree, growing round the chest and enclosing it on every side,
 so that it was not to be seen; and farther, that the king of the
@@ -274,7 +274,7 @@ and in her anger gave him so fierce and stern a look that he immediately
 died of the affright. Others indeed say that his death did not happen.
 in this manner, but, as was hinted above, that he fell into the sea, and
 afterwards received the greatest honours on account of the Goddess; for
-that the Maneros, <span id="fr_50"></span>[1](#fn_50) whom the Egyptians
+that the Maneros, <span id="fr_50"></span>[1](#fn_50.md) whom the Egyptians
 so frequently call upon in their banquets, is none other than this very
 boy. This relation is again contradicted by such as tell us thalt the
 true name of the child was Palæstinus, or Pelusius, and that the city of
@@ -351,7 +351,7 @@ and being answered 'a horse'; this raised the wonder of Osiris, so that
 he farther questioned him, 'why he preferred a horse before a lion?'
 because, adds Orus, 'tho' the lion be the more serviceable creature to
 one who stands in need of help, yet is the horse <span
-id="fr_51"></span>[1](#fn_51) more useful in overtaking and cutting off
+id="fr_51"></span>[1](#fn_51.md) more useful in overtaking and cutting off
 a flying adversary.' These replies much rejoiced Osiris, as they showed
 him that his son was
 
@@ -416,7 +416,7 @@ knew the place thereof; and the arm of the child hath waxed strong in
 the great house of Seb. The company of the gods rejoice, and are glad at
 the coming of Osiris's son Horus, and firm of heart and triumphant is
 the son of Isis, the heir of Osiris." <span
-id="fr_52"></span>[1](#fn_52)
+id="fr_52"></span>[1](#fn_52.md)
 
 What form the details of the history of Osiris took in the early
 dynasties it is impossible to say, and we know not whether Osiris was
@@ -542,7 +542,7 @@ of what might almost be called articles of faith, each of which is
 followed by one or more explanations which represent one or more quite
 different opinions; the Chapter also is accompanied by a series of
 Vignettes. In line 110 it is said, "I am the soul which dwelleth in the
-two *tchafi*. <span id="fr_53"></span>[1](#fn_53) What is this then? It
+two *tchafi*. <span id="fr_53"></span>[1](#fn_53.md) What is this then? It
 is Osiris when he goeth into Tattu (*i.e.*, Busiris) and findeth there
 the soul of Râ; there the one god embraceth the other, and souls spring
 into being within the two *tchafi*." In the Vignette which illustrates
@@ -555,7 +555,7 @@ Osiris preserves the human face, the sign of his kinship with man.
 Now Osiris became not only the equal of Râ, but, in many respects, a
 greater god than he. It is said that from the nostrils of the head of
 Osiris, which was buried at Abydos, came forth the scarabæus <span
-id="fr_54"></span>[2](#fn_54) which was at once the emblem and type of
+id="fr_54"></span>[2](#fn_54.md) which was at once the emblem and type of
 the god Khepera, who caused all things to come into being, and of the
 resurrection. In this manner Osiris became the source and origin of
 gods, men, and things, and
@@ -583,12 +583,12 @@ the manhood of the god was forgotten. The next step was to ascribe to
 him the attributes of God, and in the XVIIIth and XIXth dynasties he
 seems to have disputed the sovereignty of the three companies of gods,
 that is to say of the trinity of trinities of trinities, <span
-id="fr_55"></span>[1](#fn_55) with Amen-Râ, who by this time was usually
+id="fr_55"></span>[1](#fn_55.md) with Amen-Râ, who by this time was usually
 called the "king of the gods." The ideas held concerning Osiris at this
 period will best be judged by the following extracts from contemporary
 hymns:--
 
-"Glory <span id="fr_56"></span>[2](#fn_56) be to thee, O Osiris,
+"Glory <span id="fr_56"></span>[2](#fn_56.md) be to thee, O Osiris,
 Un-nefer, the great god within Abtu (Abydos), king of eternity, lord of
 ever-lastingness, who passest through millions of years in thy
 existence. The eldest son of the womb of Nut, engendered by Seb the
@@ -599,7 +599,7 @@ Let thy heart, which dwelleth in the mountain of Ament, be content, for
 thy son Horus is stablished upon thy throne. Thou art crowned lord of
 Tattu (Busiris) and ruler in Abydos."
 
-"Praise <span id="fr_57"></span>[3](#fn_57) be unto thee, O Osiris, lord
+"Praise <span id="fr_57"></span>[3](#fn_57.md) be unto thee, O Osiris, lord
 of eternity, Un-nefer, Heru-Khuti (Harmachis) whose forms are manifold,
 and whose attributes are great, who art Ptah-Seker-Tem in Annu
 (Heliopolis), the lord of the
@@ -624,8 +624,8 @@ united in the same divine being. In the following Litany the process of
 identification with the gods is continued:--
 
 1\. "Homage to thee, O thou who art the starry deities in Annu, and the
-heavenly beings in Kher-âba; <span id="fr_58"></span>[1](#fn_58) thou
-god Unti, <span id="fr_59"></span>[2](#fn_59) who art more glorious than
+heavenly beings in Kher-âba; <span id="fr_58"></span>[1](#fn_58.md) thou
+god Unti, <span id="fr_59"></span>[2](#fn_59.md) who art more glorious than
 the gods who are hidden in Annu. O grant thou unto me a path whereon I
 may pass in peace, for I am just and true; I have not spoken lies
 wittingly, nor have I done aught with deceit."
@@ -634,7 +634,7 @@ wittingly, nor have I done aught with deceit."
 
 2\. "Homage to thee, O An in Antes, Harmachis; thou stridest over heaven
 with long strides, O Harmachis. O grant thou unto me a path," etc. <span
-id="fr_60"></span>[1](#fn_60)
+id="fr_60"></span>[1](#fn_60.md)
 
 3\. "Homage to thee, O soul of everlastingness, thou Soul who dwellest
 in Tattu, Un-nefer, son of Nut; thou art lord of Akert (*i.e.*, the
@@ -646,14 +646,14 @@ protecteth himself, and thou dwellest in peace in Tattu. O grant thou
 unto me a path," etc.
 
 5\. "Homage to thee, O lord of the Acacia <span
-id="fr_61"></span>[2](#fn_61) tree, the Seker boat <span
-id="fr_62"></span>[3](#fn_62) is set upon its sledge; thou turnest back
+id="fr_61"></span>[2](#fn_61.md) tree, the Seker boat <span
+id="fr_62"></span>[3](#fn_62.md) is set upon its sledge; thou turnest back
 the Fiend, the worker of Evil, and thou causest the Utchat (*i.e.*, the
 Eye of Horus or Râ), to rest upon its seat. O grant thou unto me a
 path," etc.
 
 6\. "Homage to thee, O thou who art mighty in thine hour, thou great and
-mighty Prince, dweller in An-rut-f, <span id="fr_63"></span>[4](#fn_63)
+mighty Prince, dweller in An-rut-f, <span id="fr_63"></span>[4](#fn_63.md)
 lord of eternity and creator of everlastingness, thou art the lord of
 Suten-henen (*i.e.*, Heracleopolis Magna). O grant," etc.
 
@@ -679,13 +679,13 @@ And, again: "Râ setteth as Osiris with all the diadems of the divine
 spirits und of the gods of Amentet. He is the one divine form, the
 hidden one of the Tuat, the holy Soul at the head of Amentet, Un-nefer,
 whose duration of life is for ever and ever." <span
-id="fr_64"></span>[1](#fn_64)
+id="fr_64"></span>[1](#fn_64.md)
 
 We have already referred to the help which Thoth gave to Isis when he
 provided her with the words which caused her dead husband to live again,
 but the best summary of the good deeds which this god wrought for Osiris
 is contained in a hymn in the *Papyrus of Hunefer*, <span
-id="fr_65"></span>[2](#fn_65) where the deceased is made to say:--
+id="fr_65"></span>[2](#fn_65.md) where the deceased is made to say:--
 
 "I have come unto thee, O son of Nut, Osiris, Prince of everlastingness;
 I am in the following of the god Thoth, and I have rejoiced at
@@ -763,10 +763,10 @@ offerings of meat and drink follow thee, and that which is thy due is
 offered up before thy face."
 
 In one paragraph of another somewhat similar hymn <span
-id="fr_66"></span>[1](#fn_66) other aspects of Osiris are described, and
+id="fr_66"></span>[1](#fn_66.md) other aspects of Osiris are described, and
 after the words "Homage to thee, O Governor of those who are in
 Amentet," he is called the being who "giveth birth unto men and women a
-second time," <span id="fr_67"></span>[2](#fn_67) *i.e.*, "who
+second time," <span id="fr_67"></span>[2](#fn_67.md) *i.e.*, "who
 
 <span id="page_94">p. 94</span>
 
@@ -823,7 +823,7 @@ special appeal unto Osiris if this dire result was to be avoided. The
 following remarkable prayer was first found inscribed upon a linen
 swathing which had enveloped the mummy of Thothmes III., but since that
 time the text, written in hieroglyphics, has been found inscribed upon
-the *Papyrus of Nu*, <span id="fr_68"></span>[1](#fn_68) and it is, of
+the *Papyrus of Nu*, <span id="fr_68"></span>[1](#fn_68.md) and it is, of
 course, to be found also in the late papyrus preserved at Turin, which
 the late Dr. Lepsius published so far back as 1842. This text, which is
 now generally known as Chapter CLIV of the Book of the Dead, is entitled
@@ -924,7 +924,7 @@ he wished to keep his body whole, notwithstanding that Osiris was
 almighty, and could restore the limbs and reconstitute the body, even as
 he had done for his own limbs and body which had been hacked to pieces
 by Set. Chapter XLIII of the Book of the Dead <span
-id="fr_69"></span>[1](#fn_69) also has an important reference to the
+id="fr_69"></span>[1](#fn_69.md) also has an important reference to the
 head of Osiris. It is entitled "The Chapter of not letting the head of a
 man be cut off from him in the underworld," and must be of considerable
 antiquity. In it the deceased says: "I am the Great One, the son of the
@@ -943,7 +943,7 @@ one version of the Osiris story, the head of Osiris was not only cut
 off, but that it was passed through the fire also; and if this version
 be very ancient, as it well may be and probably is, it takes us back to
 prehistoric times in Egypt when the bodies of the dead were mutilated
-and burned. Prof. Wiedemann thinks <span id="fr_70"></span>[1](#fn_70)
+and burned. Prof. Wiedemann thinks <span id="fr_70"></span>[1](#fn_70.md)
 that the mutilation and breaking of the bodies of the dead were the
 results of the belief that in order to make the KA, or "double," leave
 this earth, the body to which it belonged must be broken, and he
@@ -958,7 +958,7 @@ referred to in various places in the Book of the Dead, when the deceased
 declares that he has collected his limbs "and made his body whole
 again," and already in the Vth dynasty King Teta is thus
 addressed--"Rise up, O thou Teta! Thou hast received thy head, thou hast
-knitted together thy bones, <span id="fr_71"></span>[2](#fn_71) thou
+knitted together thy bones, <span id="fr_71"></span>[2](#fn_71.md) thou
 hast collected thy members."
 
 <span id="page_103">p. 103</span>
@@ -1014,7 +1014,7 @@ this useless custom";
 
 and concerning his own body, he said, "At the resurrection of the dead I
 shall receive it from the Saviour incorruptible." <span
-id="fr_72"></span>[1](#fn_72) The spread of this idea gave the art of
+id="fr_72"></span>[1](#fn_72.md) The spread of this idea gave the art of
 mummifying its death-blow, and though from innate conservatism, and the
 love of having the actual bodies of their beloved dead near them, the
 Egyptians continued for a time to preserve their dead as before, yet
@@ -1039,7 +1039,7 @@ This chapter may be fittingly ended by a few
 
 extracts from the *Songs of Isis and Nephthys*, which were sung in the
 Temple of Amen-Râ at Thebes by two priestesses who personified the two
-goddesses. <span id="fr_73"></span>[1](#fn_73)
+goddesses. <span id="fr_73"></span>[1](#fn_73.md)
 
 "Hail, thou lord of the underworld, thou Bull of those who are therein,
 thou Image of Râ-Harmachis, thou Babe of beautiful appearance, come thou
@@ -1076,107 +1076,107 @@ Isis and Nephthys; rest thou in thy habitation for ever."
 
 ### Footnotes
 
-<span id="fn_40"></span>[62:1](efl04.htm#fr_40) Plutarchi de Iside et
+<span id="fn_40"></span>[62:1](efl04.htm#fr_40.md) Plutarchi de Iside et
 Osiride liber: Græce et Anglice. By S. Squire, Cambridge, 1744.
 
-<span id="fn_41"></span>[62:2](efl04.htm#fr_41) *I.e.*, Nut.
+<span id="fn_41"></span>[62:2](efl04.htm#fr_41.md) *I.e.*, Nut.
 
-<span id="fn_42"></span>[62:3](efl04.htm#fr_42) *I.e.*, Seb.
+<span id="fn_42"></span>[62:3](efl04.htm#fr_42.md) *I.e.*, Seb.
 
-<span id="fn_43"></span>[63:1](efl04.htm#fr_43) *I.e.*, Râ.
+<span id="fn_43"></span>[63:1](efl04.htm#fr_43.md) *I.e.*, Râ.
 
-<span id="fn_44"></span>[63:2](efl04.htm#fr_44) I.e., Heru-ur, "Horus
+<span id="fn_44"></span>[63:2](efl04.htm#fr_44.md) I.e., Heru-ur, "Horus
 the Elder."
 
-<span id="fn_45"></span>[64:1](efl04.htm#fr_45) *I.e.*, Set.
+<span id="fn_45"></span>[64:1](efl04.htm#fr_45.md) *I.e.*, Set.
 
-<span id="fn_46"></span>[66:1](efl04.htm#fr_46) In the Egyptian calendar
+<span id="fn_46"></span>[66:1](efl04.htm#fr_46.md) In the Egyptian calendar
 this day was marked triply unlucky.
 
-<span id="fn_47"></span>[66:2](efl04.htm#fr_47) The hair cut off as a
+<span id="fn_47"></span>[66:2](efl04.htm#fr_47.md) The hair cut off as a
 sign of mourning was usually laid in the tomb of the dead.
 
-<span id="fn_48"></span>[67:3](efl04.htm#fr_48) *I.e.*, a wreath of
+<span id="fn_48"></span>[67:3](efl04.htm#fr_48.md) *I.e.*, a wreath of
 clover.
 
-<span id="fn_49"></span>[68:1](efl04.htm#fr_49) Not the Byblos of Syria
+<span id="fn_49"></span>[68:1](efl04.htm#fr_49.md) Not the Byblos of Syria
 (Jebêl) but the papyrus swamps of the Delta.
 
-<span id="fn_50"></span>[72:1](efl04.htm#fr_50) A son of the first
+<span id="fn_50"></span>[72:1](efl04.htm#fr_50.md) A son of the first
 Egyptian king, who died in his early youth see Herodotus, ii. 79.
 
-<span id="fn_51"></span>[75:1](efl04.htm#fr_51) The horse does not
+<span id="fn_51"></span>[75:1](efl04.htm#fr_51.md) The horse does not
 appear to have been known in Egypt before the XVIIIth dynasty; this
 portion of Plutarch's version of the history of Osiris must, then, be
 later than B.C. 1500.
 
-<span id="fn_52"></span>[78:1](efl04.htm#fr_52) This remarkable hymn was
+<span id="fn_52"></span>[78:1](efl04.htm#fr_52.md) This remarkable hymn was
 first made known by Chabas, who published a translation of it, with
 notes, in *Revue Archéologique*, Paris, 1857, t. xiv. p. 65 ff.
 
-<span id="fn_53"></span>[84:1](efl04.htm#fr_53) *I.e.*, the souls of
+<span id="fn_53"></span>[84:1](efl04.htm#fr_53.md) *I.e.*, the souls of
 Osiris and Râ.
 
-<span id="fn_54"></span>[84:2](efl04.htm#fr_54) See von Bergmann in
+<span id="fn_54"></span>[84:2](efl04.htm#fr_54.md) See von Bergmann in
 *Aeg. Zeitschrift*, 1880, p. 88 ff.
 
-<span id="fn_55"></span>[87:1](efl04.htm#fr_55) Each company of the gods
+<span id="fn_55"></span>[87:1](efl04.htm#fr_55.md) Each company of the gods
 contained three trinities or triads.
 
-<span id="fn_56"></span>[87:2](efl04.htm#fr_56) See Chapters of Coming
+<span id="fn_56"></span>[87:2](efl04.htm#fr_56.md) See Chapters of Coming
 Forth by Day (translation), p. 11.
 
-<span id="fn_57"></span>[87:3](efl04.htm#fr_57) *Ibid.*, p. 34.
+<span id="fn_57"></span>[87:3](efl04.htm#fr_57.md) *Ibid.*, p. 34.
 
-<span id="fn_58"></span>[88:1](efl04.htm#fr_58) A district near Memphis.
+<span id="fn_58"></span>[88:1](efl04.htm#fr_58.md) A district near Memphis.
 
-<span id="fn_59"></span>[88:2](efl04.htm#fr_59) A god who walks before
+<span id="fn_59"></span>[88:2](efl04.htm#fr_59.md) A god who walks before
 the boat of the god Af, holding a star in each hand.
 
-<span id="fn_60"></span>[89:1](efl04.htm#fr_60) This petition is only
+<span id="fn_60"></span>[89:1](efl04.htm#fr_60.md) This petition is only
 written once, but it is intended to be repeated after each of the nine
 sections of the Litany.
 
-<span id="fn_61"></span>[89:2](efl04.htm#fr_61) This tree was in
+<span id="fn_61"></span>[89:2](efl04.htm#fr_61.md) This tree was in
 Heliopolis, and the Cat, *i.e.*, the Sun, sat near it.
 
-<span id="fn_62"></span>[89:3](efl04.htm#fr_62) The ceremony of setting
+<span id="fn_62"></span>[89:3](efl04.htm#fr_62.md) The ceremony of setting
 the Seker boat on its sledge was performed at dawn.
 
-<span id="fn_63"></span>[89:4](efl04.htm#fr_63) The place where nothing
+<span id="fn_63"></span>[89:4](efl04.htm#fr_63.md) The place where nothing
 grows--the underworld.
 
-<span id="fn_64"></span>[90:1](efl04.htm#fr_64) See Chapters of Coming
+<span id="fn_64"></span>[90:1](efl04.htm#fr_64.md) See Chapters of Coming
 Forth by Day, p. 334.
 
-<span id="fn_65"></span>[90:2](efl04.htm#fr_65) *Ibid.*, p. 343.
+<span id="fn_65"></span>[90:2](efl04.htm#fr_65.md) *Ibid.*, p. 343.
 
-<span id="fn_66"></span>[93:1](efl04.htm#fr_66) See *Chapters of Coming
+<span id="fn_66"></span>[93:1](efl04.htm#fr_66.md) See *Chapters of Coming
 Forth by Day*, p. 342.
 
-<span id="fn_67"></span>[93:2](efl04.htm#fr_67) The words are *mes
+<span id="fn_67"></span>[93:2](efl04.htm#fr_67.md) The words are *mes
 tememu em nem*.
 
-<span id="fn_68"></span>[97:1](efl04.htm#fr_68) Brit. Mus., No. 10,477,
+<span id="fn_68"></span>[97:1](efl04.htm#fr_68.md) Brit. Mus., No. 10,477,
 sheet 18. I have published the text in my *Chapters of Coming Forth by
 Day*, pp. 398-402.
 
-<span id="fn_69"></span>[101:1](efl04.htm#fr_69) See *The Chapters of
+<span id="fn_69"></span>[101:1](efl04.htm#fr_69.md) See *The Chapters of
 Coming Forth by Day*, p. 98.
 
-<span id="fn_70"></span>[102:1](efl04.htm#fr_70) See J. do Morgan,
+<span id="fn_70"></span>[102:1](efl04.htm#fr_70.md) See J. do Morgan,
 *Ethnographie Préhistorique*, p. 210.
 
-<span id="fn_71"></span>[102:2](efl04.htm#fr_71) *Recueil de Travaux*,
+<span id="fn_71"></span>[102:2](efl04.htm#fr_71.md) *Recueil de Travaux*,
 tom. v. p. 40 (1. 287).
 
-<span id="fn_72"></span>[105:1](efl04.htm#fr_72) See Rosweyde, *Vitae
+<span id="fn_72"></span>[105:1](efl04.htm#fr_72.md) See Rosweyde, *Vitae
 Patrum*, p. 59; *Life of St. Anthony*, by Athanasius (Migne),
 *Patrologiæ*, Ser. Graec. tom. 26, col. 972.
 
-<span id="fn_73"></span>[106:1](efl04.htm#fr_73) See my Hieratic Papyrus
+<span id="fn_73"></span>[106:1](efl04.htm#fr_73.md) See my Hieratic Papyrus
 of Nesi-Amsu (Archæologia, vol. lii.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The ''Gods'' of the Egyptians](efl05)
+[Next: Chapter III. The ''Gods'' of the Egyptians](efl05.md)

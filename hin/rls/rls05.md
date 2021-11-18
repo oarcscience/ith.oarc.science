@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls04)  [Next](rls06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls04)  [Next](rls06.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ often called Yogins, as having exercised Yoga.
 
 ------------------------------------------------------------------------
 
-[Next: Ascetic Exercises or Yoga](rls06)
+[Next: Ascetic Exercises or Yoga](rls06.md)

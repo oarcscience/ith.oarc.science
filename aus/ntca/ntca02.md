@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca01)  [Next](ntca03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca01)  [Next](ntca03.md) 
 
 ------------------------------------------------------------------------
 
@@ -164,4 +164,4 @@ F. J. Gillen \[1899\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Introduction](ntca03)
+[Next: Chapter I. Introduction](ntca03.md)

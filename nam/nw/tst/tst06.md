@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](tst05)  [Next](tst07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](tst05)  [Next](tst07.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ singing a crying-song, and he cried,
 
 "As I walk at the foot of a beautiful green mountain,  
 All the stars of heaven are glittering as the north wind clears the
-sky." <span id="fr_10"></span>[2](#fn_10)
+sky." <span id="fr_10"></span>[2](#fn_10.md)
 
 When he had repeated his cry four times, and when he had finished saying
 it the fourth time, the wind began to blow down river. Then all the
@@ -78,7 +78,7 @@ animal. He was the one who hated him.
 
 ### Footnotes
 
-<span id="fn_10"></span>[239:2](tst06.htm#fr_10) The translation of the
+<span id="fn_10"></span>[239:2](tst06.htm#fr_10.md) The translation of the
 song is not clear. So far as the word,, are intelligible, they may be
 translated as follows: "Around the foot of the door goes ? ? ? Fog is
 around, stars are around the head waters of the Skeena River and the
@@ -87,4 +87,4 @@ interpretation of the song given by Mr. Tate.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Story of the Deluge](tst07)
+[Next: 6. Story of the Deluge](tst07.md)

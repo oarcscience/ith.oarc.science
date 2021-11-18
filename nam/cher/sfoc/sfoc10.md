@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc09)  [Next](sfoc11) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc09)  [Next](sfoc11.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ morality in the abstract.
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of Disease and Medicine](sfoc11)
+[Next: The Origin of Disease and Medicine](sfoc11.md)

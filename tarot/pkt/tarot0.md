@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Pictorial Key to the Tarot](index)
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Pictorial Key to the Tarot](index.md)
 
 ------------------------------------------------------------------------
 

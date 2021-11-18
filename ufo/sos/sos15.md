@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](sos14)  [Next](sos16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](sos14)  [Next](sos16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Saucers*, by Orfeo M. Angelucci, \[1955\], at
 Intangible Textual Heritage
 
@@ -198,4 +198,4 @@ realm of hypothesis, at least.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. The True Nature of the Saucer Mystery](sos16)
+[Next: Chapter XIV. The True Nature of the Saucer Mystery](sos16.md)

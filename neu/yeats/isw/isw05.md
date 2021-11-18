@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](isw04)  [Next](isw06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](isw04)  [Next](isw06.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ You'd know the folly of being comforted.
 
 ------------------------------------------------------------------------
 
-[Next: The Withering of the Boughs](isw06)
+[Next: The Withering of the Boughs](isw06.md)

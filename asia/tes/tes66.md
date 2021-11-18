@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes65)  [Next](tes67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes65)  [Next](tes67.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 # V. MARKOVA TALES.
 
-### 1. LAMUT TALE. <span id="fr_96"></span>[1](#fn_96)
+### 1. LAMUT TALE. <span id="fr_96"></span>[1](#fn_96.md)
 
 There was a Lamut man, who traveled about looking for a wife. One time
 he found a stone in the likeness of a person. He took it home and put it
@@ -72,7 +72,7 @@ Two high larch trees stood there. The spoonbills alighted on the trees.
 
 "O sister! get up!  
 Let us play, and let us flutter about!" <span
-id="fr_97"></span>[1](#fn_97)
+id="fr_97"></span>[1](#fn_97.md)
 
 "O sisters! I cannot play,  
 I cannot flutter.  
@@ -110,12 +110,12 @@ Markova. Recorded by Mrs. Sophie Bogoras, winter of 1900.
 
 ### Footnotes
 
-<span id="fn_96"></span>[124:1](tes66.htm#fr_96) See [p.
-21](tes09.htm#page_21).
+<span id="fn_96"></span>[124:1](tes66.htm#fr_96.md) See [p.
+21](tes09.htm#page_21.md).
 
-<span id="fn_97"></span>[125:1](tes66.htm#fr_97) In Russian this is a
+<span id="fn_97"></span>[125:1](tes66.htm#fr_97.md) In Russian this is a
 kind of rhymed prose.
 
 ------------------------------------------------------------------------
 
-[Next: 2. A Lamut Tale](tes67)
+[Next: 2. A Lamut Tale](tes67.md)

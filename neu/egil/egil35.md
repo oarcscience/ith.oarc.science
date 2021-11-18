@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil34)  [Next](egil36) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil34)  [Next](egil36.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ your manhood.'
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXXV. Thorolf goes abroad.](egil36)
+[Next: CHAPTER XXXV. Thorolf goes abroad.](egil36.md)

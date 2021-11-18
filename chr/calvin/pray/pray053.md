@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray052)  [Next](pray054) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray052)  [Next](pray054.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,9 +43,9 @@ noise. Thus offended, he often in his anger grants to such persons what
 in mercy he kindly denies to others. Of this we have a proof in the
 children of Israel, for whom it had been better not to have been heard
 by the Lord, than to swallow his indignation with their flesh (<span
-id="iii.li-p1.1"></span>[Num. 11:18](../../../bib/kjv/num011.htm#018),
-[33](../../../bib/kjv/num011.htm#033)<span id="iii.li-p1.1"></span>).
+id="iii.li-p1.1"></span>[Num. 11:18](../../../bib/kjv/num011.htm#018.md),
+[33](../../../bib/kjv/num011.htm#033)<span id="iii.li-p1.1"></span>.md).
 
 ------------------------------------------------------------------------
 
-[Next: 52.](pray054)
+[Next: 52.](pray054.md)

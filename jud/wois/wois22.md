@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois21) 
-[Next](wois23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois21.md) 
+[Next](wois23.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 
 And the Eternal said unto Moses, "Why dost thou cry unto me?" Here, says
 the Midrash, is another saying (Ps. lxv. 2), "Oh, Thou who hearest
-prayer, right up to <span id="fr_11"></span>[\*](#fn_10) Thy very
+prayer, right up to <span id="fr_11"></span>[\*](#fn_10.md) Thy very
 presence all flesh shall come." Rabbi Judah says in the name of Rabbi
 Eliezar, "If a poor man approach a human being he will not be listened
 to at once, but if a rich man wants to say something he is received and
@@ -46,7 +46,7 @@ prayer. . . ."
 But why did the Holy One, blessed be He, lead them into the terrible
 position in which they were: the sea in front, the enemy behind, and the
 mountains and the wilderness shutting them in? The drawing near of
-Pharaoh made them draw near to God <span id="fr_12"></span>[\*](#fn_11)
+Pharaoh made them draw near to God <span id="fr_12"></span>[\*](#fn_11.md)
 in repentance and contrition—they even grieved for the death of the
 first born of Egypt—and this was what God willed. In love He afflicted
 them, and in warm desire for their prayers; to draw them near unto
@@ -60,7 +60,7 @@ heard, he came to her rescue.
 "And after many days he thought of her, and wished to marry her, and he
 longed for her to speak to him again. But it pleased her not to do so.
 What did he? He sent his servants to pretend to be robbers, <span
-id="fr_13"></span>[†](#fn_12) so that she might
+id="fr_13"></span>[†](#fn_12.md) so that she might
 
 <span id="page_39">p. 39</span>
 
@@ -96,16 +96,16 @@ anticipated thy prayers."
 
 ### Footnotes
 
-<span id="fn_10"></span>[37:\*](wois22.htm#fr_11) *ad*, the Hebrew word
+<span id="fn_10"></span>[37:\*](wois22.htm#fr_11.md) *ad*, the Hebrew word
 used in this verse of the Psalm, means "right up to," "into," and the
 meaning is weakened if we translate it as if it were *el*, "to," as in
 the *A. V.*
 
-<span id="fn_11"></span>[38:\*](wois22.htm#fr_12) There is in the
+<span id="fn_11"></span>[38:\*](wois22.htm#fr_12.md) There is in the
 original a clever play on the word *hikrib*, taken transitively and
 intransitively, which can hardly be reproduced in English.
 
-<span id="fn_12"></span>[38:†](wois22.htm#fr_13) There are several
+<span id="fn_12"></span>[38:†](wois22.htm#fr_13.md) There are several
 variants of this Parable, and from one of them I take this trait. In the
 version from which the remainder is rendered, the king "sends robbers."
 
@@ -113,6 +113,6 @@ version from which the remainder is rendered, the king "sends robbers."
 
 ------------------------------------------------------------------------
 
-[Next: The Father and his Son: The Bath and the Ocean](wois23)
+[Next: The Father and his Son: The Bath and the Ocean](wois23.md)
 
 </div>

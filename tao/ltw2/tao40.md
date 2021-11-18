@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao40)   
-[Previous](tao39)  [Next](tao41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao40.md)   
+[Previous](tao39)  [Next](tao41.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ nonexistence that the mind should be directed) .
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 41](tao41)
+[Next: Chapter 41](tao41.md)

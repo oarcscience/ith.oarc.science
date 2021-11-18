@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb36)  [Next](ttb38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb36)  [Next](ttb38.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_50">p. 50</span>
 
-<span id="img_05000"></span> ![Kuuma, The Bull Head](img/05000.jpg)
+<span id="img_05000"></span> ![Kuuma, The Bull Head](img/05000.jpg.md)
 
 ### Kuuma, THE BULL HEAD
 
@@ -57,4 +57,4 @@ are a sept of the Killer Whales.
 
 ------------------------------------------------------------------------
 
-[Next: Gal-Quith, The Cod Fish](ttb38)
+[Next: Gal-Quith, The Cod Fish](ttb38.md)

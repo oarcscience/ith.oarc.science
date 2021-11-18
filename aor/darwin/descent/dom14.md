@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index)  [Index](index) 
-[Previous](dom13)  [Next](dom15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index)  [Index](index.md) 
+[Previous](dom13)  [Next](dom15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140436316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140436316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1012,4 +1012,4 @@ in further detail, is sexual selection.
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. Secondary Sexual Characters of Fishes, Amphibians,
-and Reptiles](dom15)
+and Reptiles](dom15.md)

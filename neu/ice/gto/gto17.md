@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto16)  [Next](gto18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto16)  [Next](gto18.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ was still to come; and she counselled me so long
 <span id="img_07000"></span>
 
 [![THE DREAM-WIFE.](tn/07000.jpg)  
-Click to enlarge](img/07000.jpg)  
+Click to enlarge](img/07000.jpg.md)  
 THE DREAM-WIFE.  
 
  
@@ -212,7 +212,7 @@ All my mirth hath clean departed,
 Sleep no sooner seals my eyelids  
   Than a loathly wife appears,  
 Bathed in blood and gore-bedabbled,  
-  Drenching me with dew of spears." <span id="fr_11"></span>[1](#fn_11)
+  Drenching me with dew of spears." <span id="fr_11"></span>[1](#fn_11.md)
 
 And again he chaunted:
 
@@ -231,8 +231,8 @@ High-born chiefs, whose haughty power,
 
 ### Footnotes
 
-<span id="fn_11"></span>[74:1](gto17.htm#fr_11) Periphrasis for blood.
+<span id="fn_11"></span>[74:1](gto17.htm#fr_11.md) Periphrasis for blood.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Gisli Goes to Ingialld](gto18)
+[Next: Chapter XIII. Gisli Goes to Ingialld](gto18.md)

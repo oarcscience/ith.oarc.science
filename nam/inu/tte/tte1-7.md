@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inuit](../index)  
-[Index](index) [Previous](tte1-6) [Next](tte2-000)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inuit](../index.md)  
+[Index](index) [Previous](tte1-6) [Next](tte2-000.md)
 
 ------------------------------------------------------------------------
 
@@ -175,7 +175,7 @@ relation with the Europeans.
 
 ------------------------------------------------------------------------
 
-[Next](tte2-000)
+[Next](tte2-000.md)
 
  
 

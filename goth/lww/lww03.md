@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww02)  [Next](lww04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww02)  [Next](lww04.md) 
 
 ------------------------------------------------------------------------
 
@@ -142,4 +142,4 @@ furtively running in order to keep up with him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV--The Lady Arabella March](lww04)
+[Next: Chapter IV--The Lady Arabella March](lww04.md)

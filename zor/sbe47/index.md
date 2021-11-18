@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Zoroastrianism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Zoroastrianism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930055/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930055/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930055/internetsacredte)
 
 #### \[1897\]
 
-[Contents](#contents)    [Start Reading](sbe4700)
+[Contents](#contents)    [Start Reading](sbe4700.md)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ non-traditional books of prophecy. West concludes that the traditional
 date of the birth of Zoroaster corresponds to 660 BCE; more recently,
 628 BCE has been proposed, so the former date probably isn't so far off.
 He also computes the [timetable of Zoroastrian
-prophecy](sbe4702.htm#page_xxviii): don't get too excited, though, the
+prophecy](sbe4702.htm#page_xxviii.md): don't get too excited, though, the
 end of the world isn't until 2398, so we still have about four centuries
 left.
 
@@ -50,53 +50,53 @@ mature enough to allow me to finish it in a reasonable timeframe.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sbe4700)  
-[Contents](sbe4701)  
-[Introduction](sbe4702)  
+<span id="contents"></span> [Title Page](sbe4700.md)  
+[Contents](sbe4701.md)  
+[Introduction](sbe4702.md)  
 <span id="section_000"></span>
 
 ### Dînka*rd*, Book VII
 
-[Title Page](sbe4703)  
-[Observations](sbe4704)  
-[Chapter I](sbe4705)  
-[Chapter II](sbe4706)  
-[Chapter III](sbe4707)  
-[Chapter IV](sbe4708)  
-[Chapter V](sbe4709)  
-[Chapter VI](sbe4710)  
-[Chapter VII](sbe4711)  
-[Chapter VIII](sbe4712)  
-[Chapter IX](sbe4713)  
-[Chapter X](sbe4714)  
-[Chapter XI](sbe4715)  
+[Title Page](sbe4703.md)  
+[Observations](sbe4704.md)  
+[Chapter I](sbe4705.md)  
+[Chapter II](sbe4706.md)  
+[Chapter III](sbe4707.md)  
+[Chapter IV](sbe4708.md)  
+[Chapter V](sbe4709.md)  
+[Chapter VI](sbe4710.md)  
+[Chapter VII](sbe4711.md)  
+[Chapter VIII](sbe4712.md)  
+[Chapter IX](sbe4713.md)  
+[Chapter X](sbe4714.md)  
+[Chapter XI](sbe4715.md)  
 <span id="section_001"></span>
 
 ### Dînka*rd*.—Book V
 
-[Chapter I](sbe4716)  
-[Chapter II](sbe4717)  
-[Chapter III](sbe4718)  
-[Chapter IV](sbe4719)  
+[Chapter I](sbe4716.md)  
+[Chapter II](sbe4717.md)  
+[Chapter III](sbe4718.md)  
+[Chapter IV](sbe4719.md)  
 <span id="section_002"></span>
 
 ### Selections of Zâ*d*-Sparam
 
-[Chapter XII](sbe4720)  
-[Chapter XIII](sbe4721)  
-[Chapter XIV](sbe4722)  
-[Chapter XV](sbe4723)  
-[Chapter XVI](sbe4724)  
-[Chapter XVII](sbe4725)  
-[Chapter XVIII](sbe4726)  
-[Chapter XIX](sbe4727)  
-[Chapter XX](sbe4728)  
-[Chapter XXI](sbe4729)  
-[Chapter XXII](sbe4730)  
-[Chapter XXIII](sbe4731)  
-[Chapter XXIV](sbe4732)  
+[Chapter XII](sbe4720.md)  
+[Chapter XIII](sbe4721.md)  
+[Chapter XIV](sbe4722.md)  
+[Chapter XV](sbe4723.md)  
+[Chapter XVI](sbe4724.md)  
+[Chapter XVII](sbe4725.md)  
+[Chapter XVIII](sbe4726.md)  
+[Chapter XIX](sbe4727.md)  
+[Chapter XX](sbe4728.md)  
+[Chapter XXI](sbe4729.md)  
+[Chapter XXII](sbe4730.md)  
+[Chapter XXIII](sbe4731.md)  
+[Chapter XXIV](sbe4732.md)  
 
  
 
-[Index](sbe4733)  
-[Erratum](sbe4734)  
+[Index](sbe4733.md)  
+[Erratum](sbe4734.md)  

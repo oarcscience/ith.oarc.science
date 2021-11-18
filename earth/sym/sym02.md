@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](sym01) 
-[Next](sym03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](sym01.md) 
+[Next](sym03.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symzonia; Voyage of Discovery*, by Adam Seaborn (pseud. John Cleves
 Symmes?), \[1820\], at Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Symmes?), \[1820\], at Intangible Textual Heritage
 
 <span id="page_vi">p. vi</span>
 
-<span id="img__00600"></span> ![ADVERTISEMENT.](img/_00600.jpg)
+<span id="img__00600"></span> ![ADVERTISEMENT.](img/_00600.jpg.md)
 
 <span id="img_sep00"></span> ![](img/sep00.jpg)
 
@@ -43,4 +43,4 @@ taking out a patent at present.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sym03)
+[Next: Contents](sym03.md)

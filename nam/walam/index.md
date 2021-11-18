@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](wa00)
+[Contents](#contents)    [Start Reading](wa00.md)
 
 ------------------------------------------------------------------------
 
@@ -83,13 +83,13 @@ literature.
 
 ------------------------------------------------------------------------
 
-[Title Page](wa00)  
-[Part I](wa01)  
-[Part II](wa02)  
-[Part III](wa03)  
-[Part IVa](wa04)  
-[Part IVb](wa05)  
-[Part IVc](wa06)  
-[Part Va](wa07)  
-[Part Vb](wa08)  
-[Part Vc](wa09)  
+[Title Page](wa00.md)  
+[Part I](wa01.md)  
+[Part II](wa02.md)  
+[Part III](wa03.md)  
+[Part IVa](wa04.md)  
+[Part IVb](wa05.md)  
+[Part IVc](wa06.md)  
+[Part Va](wa07.md)  
+[Part Vb](wa08.md)  
+[Part Vc](wa09.md)  

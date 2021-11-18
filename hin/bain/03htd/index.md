@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,24 +12,24 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](htd00)  
-[Preface](htd01)  
-[Contents](htd02)  
-[A Political Alliance](htd03)  
+[Title Page](htd00.md)  
+[Preface](htd01.md)  
+[Contents](htd02.md)  
+[A Political Alliance](htd03.md)  
 <span id="section_000"></span>
 
 ### The Wax of a New Moon
 
-[Mango](htd04)  
-[Pátalí](htd05)  
-[Jasmine](htd06)  
-[A Flowerless Dawn](htd07)  
-[Champak](htd08)  
-[Lotus](htd09)  
-[Shríphala](htd10)  
-[Shirírsha](htd11)  
-[Kadamba](htd12)  
-[Amaranth](htd13)  
-[Ashóka](htd14)  
-[Palásha](htd15)  
-[Shamí](htd16)  
+[Mango](htd04.md)  
+[Pátalí](htd05.md)  
+[Jasmine](htd06.md)  
+[A Flowerless Dawn](htd07.md)  
+[Champak](htd08.md)  
+[Lotus](htd09.md)  
+[Shríphala](htd10.md)  
+[Shirírsha](htd11.md)  
+[Kadamba](htd12.md)  
+[Amaranth](htd13.md)  
+[Ashóka](htd14.md)  
+[Palásha](htd15.md)  
+[Shamí](htd16.md)  

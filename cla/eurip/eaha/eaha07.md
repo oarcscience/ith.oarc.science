@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Euripides](../index)  [Index](index)  [Previous](eaha06) 
-[Next](eaha08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Euripides](../index)  [Index](index)  [Previous](eaha06.md) 
+[Next](eaha08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Euripides and His Age*, by Gilbert Murray, \[1913\], at Intangible
 Textual Heritage
 
@@ -439,7 +439,7 @@ gentleness, not with
 
 <span id="page_158">p. 158</span>
 
-any preparation or [introduction](errata.htm#0), but sudden and
+any preparation or [introduction](errata.htm#0.md), but sudden and
 terrific, striking all beholders into a trance from which they awaken
 changed men. The point has not been generally observed, though it is, I
 think, clear.
@@ -564,4 +564,4 @@ to nobody. Seek peace and forgive one another."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](eaha08)
+[Next: Chapter VII](eaha08.md)

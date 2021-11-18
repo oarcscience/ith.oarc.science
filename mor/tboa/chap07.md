@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap06) [Next](chap08)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap06) [Next](chap08.md)
 
 ------------------------------------------------------------------------
 
@@ -327,4 +327,4 @@ revelation vindicated.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](chap08)
+[Next: Chapter 8](chap08.md)

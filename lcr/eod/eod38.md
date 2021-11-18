@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod37)  [Next](eod39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod37)  [Next](eod39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -36,7 +36,7 @@ A globular water-pot, the common phonetic value of which is *Nw* or
 female counterpart was the goddess *Nut*.
 
 In his report, "A Collection of Hieroglyphs," <span
-id="fr_330"></span>[3](#fn_330) Mr. F. Ll. Griffith discusses the bowl
+id="fr_330"></span>[3](#fn_330.md) Mr. F. Ll. Griffith discusses the bowl
 of water (*a*) and says that it stands for the female principle in the
 words for *vulva* and woman. When it is recalled that the cowry (and
 other shells) had the same double significance, the possibility suggests
@@ -46,16 +46,16 @@ itself whether at times confusion may
 
 not have arisen between the not very dissimilar hieroglyphic signs for
 "a shell" (*h*) and "the bowl of water" (woman) (*f*). <span
-id="fr_331"></span>[1](#fn_331)
+id="fr_331"></span>[1](#fn_331.md)
 
 Referring to the sign (*g* and *h*) for "a shell," Mr. Griffith says (p.
 25): "It is regularly found at all periods in the word *h̯aw∙t* =
-'altar, <span id="fr_332"></span>[2](#fn_332) and perhaps only in this
+'altar, <span id="fr_332"></span>[2](#fn_332.md) and perhaps only in this
 word: but it is a peculiarity of the Pyramid Texts that the sign shown
 in the text-figures *c*, *h*, and *i* is in them used very commonly, not
 as a word-sign, but also as a
 
-<span id="img_17900"></span> ![Fig. 6.](img/17900.jpg)
+<span id="img_17900"></span> ![Fig. 6.](img/17900.jpg.md)
 
 (*a*) Picture of a bowl of water—the hieroglyphic sign equivalent to
 *hm* (the word *hmt* means "woman")—Griffith, "Beni Hasan," Part III,
@@ -99,7 +99,7 @@ The familiar representation of Horus (and his homologues in India and
 elsewhere) being born from the lotus suggests that the flower represents
 his mother Hathor. But as the argument in these pages has
 
-<span id="img_18000"></span> ![Fig. 7.](img/18000.jpg)
+<span id="img_18000"></span> ![Fig. 7.](img/18000.jpg.md)
 
 (*a*) An Egyptian design representing the sun-god Horus emerging from a
 lotus, representing his mother Hathor (Isis).
@@ -114,12 +114,12 @@ thunder-weapon.
 (*d*) A water-plant associated with the Nile-gods.
 
 led us towards the inference that the original form of Hathor was a
-shell-amulet, <span id="fr_333"></span>[1](#fn_333) it seems not
+shell-amulet, <span id="fr_333"></span>[1](#fn_333.md) it seems not
 unlikely that her identification with the lotus
 
 <span id="img_fig24"></span> <span align="CENTER"> [![Fig.
 24](tn/fig24.jpg)  
-Click to enlarge](img/fig24.jpg)  
+Click to enlarge](img/fig24.jpg.md)  
 Fig. 24  
 </span>
 
@@ -160,11 +160,11 @@ they developed.
 The identification of the Great Mother with a pot was one of the factors
 that played a part in the assimilation of her attributes with those of
 the Water God, who in early Sumerian pictures was usually represented
-pouring the life-giving waters from his pot ([Fig. 24](#img_fig24), *h*
+pouring the life-giving waters from his pot ([Fig. 24](#img_fig24.md), *h*
 and *l*).
 
 This idea of the Mother Pot is found not only in Babylonia, Egypt,
-India, <span id="fr_334"></span>[1](#fn_334) and the Eastern
+India, <span id="fr_334"></span>[1](#fn_334.md) and the Eastern
 Mediterranean, but wherever the influence of these ancient civilizations
 made itself felt. It is widespread among the Celtic-speaking peoples. In
 Wales the pot's life-giving powers are enhanced by making its rim of
@@ -200,7 +200,7 @@ pot's life-giving powers, to which Mr. Mackenzie has directed my
 attention. At present, however, I must content myself with the statement
 that the pot's identity with the Great Mother is deeply rooted in
 ancient belief throughout the greater part of the world. <span
-id="fr_335"></span>[1](#fn_335)\]
+id="fr_335"></span>[1](#fn_335.md)\]
 
 The diverse conceptions of the Great Mother as a pot and as an octopus
 seem to have been blended in Mycenæan lands, where the so-called
@@ -208,7 +208,7 @@ seem to have been blended in Mycenæan lands, where the so-called
 these aspects united in one symbol. When the diffusion of these ideas
 into more remote parts of the world took place syntheses with other
 motives produced a great variety of most complex forms. In Honduras
-pottery vessels have been found <span id="fr_336"></span>[2](#fn_336)
+pottery vessels have been found <span id="fr_336"></span>[2](#fn_336.md)
 which give tangible expression to the blending of the ideas of the
 Mother Pot, the crocodile-like *Makara*, star-spangled like Hathor's
 cow, Aphrodite's
@@ -241,24 +241,24 @@ as Aphrodite was sprung from the sea-foam.
 
 ### Footnotes
 
-<span id="fn_328"></span>[178:1](eod37.htm#fr_328) Cook, "Zeus," p. 346
+<span id="fn_328"></span>[178:1](eod37.htm#fr_328.md) Cook, "Zeus," p. 346
 *et seq*.
 
-<span id="fn_329"></span>[178:2](eod37.htm#fr_329) This is well shown
+<span id="fn_329"></span>[178:2](eod37.htm#fr_329.md) This is well shown
 upon the Copan representations (Fig. 19) of the elephant-headed god—see
 Nature, November, 25, 1915, p. 340.
 
-<span id="fn_330"></span>[178:3](eod38.htm#fr_330) *Archæol. Survey of
+<span id="fn_330"></span>[178:3](eod38.htm#fr_330.md) *Archæol. Survey of
 Egypt*, 1898, p. 3.
 
-<span id="fn_331"></span>[179:1](eod38.htm#fr_331) Compare the two-fold
+<span id="fn_331"></span>[179:1](eod38.htm#fr_331.md) Compare the two-fold
 meaning of the Latin *testa* as "shell" and "bowl".
 
-<span id="fn_332"></span>[179:2](eod38.htm#fr_332) Compare the
+<span id="fn_332"></span>[179:2](eod38.htm#fr_332.md) Compare the
 association of shells with altars in Minoan Crete and the widespread use
 of large shells as bowls for "holy water" in Christian churches.
 
-<span id="fn_333"></span>[180:1](eod38.htm#fr_333) Miss Winifred M.
+<span id="fn_333"></span>[180:1](eod38.htm#fr_333.md) Miss Winifred M.
 Crompton, Assistant Keeper of the Egyptian Department of the Manchester
 Museum, has called my attention to a remarkable piece of evidence which
 affords additional corroboration of the view that Hathor was a
@@ -275,11 +275,11 @@ Upon the head-band of the statue of Nefert, which I have reproduced in
 Chapter I (Fig. 4), a conventional lotus design is found (see Spanton's
 Fig. 19), which is almost identical with the classical thunder-weapon.
 
-<span id="fn_334"></span>[181:1](eod38.htm#fr_334) Among the Dravidian
+<span id="fn_334"></span>[181:1](eod38.htm#fr_334.md) Among the Dravidian
 people at the present day the seven goddesses (corresponding to the
 seven Hathors) are often represented by seven pots.
 
-<span id="fn_335"></span>[182:1](eod38.htm#fr_335) The luxuriant crop of
+<span id="fn_335"></span>[182:1](eod38.htm#fr_335.md) The luxuriant crop of
 stories of the Holy Grail was not inspired originally by mere literary
 invention. A tradition sprung from the fountainhead of all mythology,
 the parent-story of the Destruction of Mankind, provided the materials
@@ -313,9 +313,9 @@ increase in quantity of their own activities. As "givers of life" they
 were also able to add to their own life-substance, in other words to
 grow like any other living being.
 
-<span id="fn_336"></span>[182:2](eod38.htm#fr_336) "An American Dragon,"
+<span id="fn_336"></span>[182:2](eod38.htm#fr_336.md) "An American Dragon,"
 Man, November, 1918.
 
 ------------------------------------------------------------------------
 
-[Next: Artemis and the Guardian of the Portal](eod39)
+[Next: Artemis and the Guardian of the Portal](eod39.md)

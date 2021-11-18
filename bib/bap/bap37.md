@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap36) 
-[Next](bap38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap36.md) 
+[Next](bap38.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ fathers, than to be delivered into the hand of the Amorites that we
 should be blotted out for ever? 4. Yet if thy word be about us, no evil
 shall befall us: for even though our end be removed unto death, thou
 livest which art before the world and after the world; and whereas a man
-cannot devise <span id="fr_95"></span>[1](#fn_95) how to put one
+cannot devise <span id="fr_95"></span>[1](#fn_95.md) how to put one
 generation before another, he saith "God hath destroyed his people whom
 he chose": and behold, we shall be in Hell: yet thou wilt make thy word
 alive. And now let the fulness of thy mercies have patience with thy
@@ -102,7 +102,7 @@ into his inheritance with mirth and gladness.
 
 ### Footnotes
 
-<span id="fn_95"></span>[136:1](bap37.htm#fr_95) XXI. 4. *And whereas a
+<span id="fn_95"></span>[136:1](bap37.htm#fr_95.md) XXI. 4. *And whereas a
 man cannot devise*, etc. There is an antithesis between the short sight
 of man and the eternal knowledge of God: but either the text is unsound
 or I fail to understand it, for it seems to me inconsequent as it
@@ -110,4 +110,4 @@ stands.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII](bap38)
+[Next: Chapter XXII](bap38.md)

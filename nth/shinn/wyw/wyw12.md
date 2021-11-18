@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Shinn](../index)  [Index](index) 
-[Previous](wyw11)  [Next](wyw13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Shinn](../index)  [Index](index.md) 
+[Previous](wyw11)  [Next](wyw13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ person or persons for the right price, giving perfect satisfaction.
 
 ------------------------------------------------------------------------
 
-[Next: Interviews](wyw13)
+[Next: Interviews](wyw13.md)

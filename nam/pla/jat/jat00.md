@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Next](jat01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Next](jat01.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ American](../../index)  [Plains](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Contents](jat01)
+[Next: Contents](jat01.md)

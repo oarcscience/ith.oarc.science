@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb01)  [Next](olb03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb01)  [Next](olb03.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -101,7 +101,7 @@ from rags mentioned by Petrus Clusiacensis (1122-50).
 "The Spaniards and the Italians learned the manufacture of this paper
 from the Arabians. The most celebrated factories were at Jativa,
 Valencia, Toledo, besides Fabriano in the March of Ancona." <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 In Germany the use of this material did not become very extended,
 whether it came from Italy or Spain. Therefore the further this
@@ -488,7 +488,7 @@ Mythology, and indeed are irreconcilable with its existence. Even when
 the Myth attributes to Minos the introduction of lawgiving in Crete, it
 does not give the least account of what the legislation consisted in.
 Also among the Gods of Mythology there existed no system of laws. The
-only law was [unchangeable](errata.htm#0) Destiny and the will of the
+only law was [unchangeable](errata.htm#0.md) Destiny and the will of the
 supreme Zeus.
 
 With regard to Mythology, this writing, which bears no mythical
@@ -529,7 +529,7 @@ town Mannagarda fords (Munster).
 
 In the county of the Marsians he speaks of the temple Tanfane (Tanfanc),
 so called from the sign of the Juul. (See [plate
-I.](olb19.htm#img_pl01))
+I.](olb19.htm#img_pl01).md)
 
 The last of these towns was Fâstaburgt in Ameland, temple Foste,
 destroyed, according to Occa Scarlensis, in 806.
@@ -548,7 +548,7 @@ at the same time the mysterious enigmatical goddess of whose worship
 scarcely any traces remain beyond the votive stones at Domburg, in
 Walcheren, Nehallenia, of whom no mythology knows anything more than the
 name, which etymology has used for all sorts of fantastical
-derivations. <span id="fr_1"></span>[\*](#fn_1)
+derivations. <span id="fr_1"></span>[\*](#fn_1.md)
 
 The other, Neptune, called by the Etrurians Nethunus, the God of the
 Mediterranean Sea, appears here to have been, when living, a Friesland
@@ -729,12 +729,12 @@ the antiquity of Hellas and equalling that of Israel.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:\*](olb02.htm#fr_0) Compare G. Meerman,
+<span id="fn_0"></span>[vii:\*](olb02.htm#fr_0.md) Compare G. Meerman,
 Admonitio de Chartæ nostralis origine. Vad. Letteroef. 1762. P. 630.
 
 J. H. de Stoppelaar, Paper in the Netherlands. Middelburg, 1869. P. 4.
 
-<span id="fn_1"></span>[xx:\*](olb02.htm#fr_1) Min-erva was called
+<span id="fn_1"></span>[xx:\*](olb02.htm#fr_1.md) Min-erva was called
 Nyhellenia because her counsels were *ny* and *hel*, that is, new and
 clear. In Paul's epitome of S. Pomponius Festus, *de verborum*
 Significatione, we find "Min-erva dicta quod bene moneat." See Preller,
@@ -742,4 +742,4 @@ Roman Mythology, p. 258.
 
 ------------------------------------------------------------------------
 
-[Next: Okke my Son](olb03)
+[Next: Okke my Son](olb03.md)

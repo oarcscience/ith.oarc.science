@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt04)  [Next](trt06) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt04)  [Next](trt06.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ man.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Sir Balin](trt06)
+[Next: The Story of Sir Balin](trt06.md)

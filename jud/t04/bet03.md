@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](bet02)  [Next](bet04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](bet02)  [Next](bet04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -15,7 +15,7 @@ Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 # TO THE READER.
 
 THIS volume contains three tracts, in order to maintain some uniformity
-in the size of the volumes, <span id="fr_0"></span>[1](#fn_0) whereas in
+in the size of the volumes, <span id="fr_0"></span>[1](#fn_0.md) whereas in
 former issues one subject required three volumes and another one volume,
 while in two instances each of two volumes treated of two different
 subjects; viz., three volumes being devoted to subject Sabbath
@@ -48,10 +48,10 @@ NEW YORK, *April*, 1899.
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:1](bet03.htm#fr_0) Each tract, however, is
+<span id="fn_0"></span>[v:1](bet03.htm#fr_0.md) Each tract, however, is
 paged separately, for the reason stated in Introduction to Vol. VI., p.
 xvi.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](bet04)
+[Next: Contents](bet04.md)

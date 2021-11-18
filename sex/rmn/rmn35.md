@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn34)  [Next](rmn36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn34)  [Next](rmn36.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ perspective to a small garden.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXXV: Spinthria](rmn36)
+[Next: Plate XXXV: Spinthria](rmn36.md)

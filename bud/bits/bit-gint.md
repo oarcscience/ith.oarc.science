@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-4) [Next](bit-int1)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-4) [Next](bit-int1.md)
 
 ------------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ the following works:--
 Buddhist Scriptures. A number of them have not been printed in their
 entirety, and still others not at all.<span
 id="page_xviii_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_xviii_note_1)
+class="small">1</span></sup>](#page_xviii_note_1.md)
 
    The non-canonical works consist of numerous commentaries on the
 Tipitaka, and of several other writings of more or less importance. The
@@ -188,7 +188,7 @@ the book.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction to Chapter I](bit-int1)
+[Next: Introduction to Chapter I](bit-int1.md)
 
 ------------------------------------------------------------------------
 
@@ -196,7 +196,7 @@ the book.
 
 <span id="footnotes_page_xviii">p. xviii</span>
 
-<span id="page_xviii_note_1"></span>[1](#page_xviii_fr_1) Since the
+<span id="page_xviii_note_1"></span>[1](#page_xviii_fr_1.md) Since the
 above was written, the King of Siam, who has long been a patron of Pâli
 studies, has presented Harvard College and a number of other
 institutions of learning with an edition of Tipitaka works. This gift

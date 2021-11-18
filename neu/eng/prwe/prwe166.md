@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe165)  [Next](prwe167) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe165)  [Next](prwe167.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ deceived by Uter, and who became the mother of Arthur.
 
 ------------------------------------------------------------------------
 
-[Next: Carlian in Kea](prwe167)
+[Next: Carlian in Kea](prwe167.md)

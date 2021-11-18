@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc027) 
-[Next](motc029) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc027.md) 
+[Next](motc029.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ we know is only a little thing that came afterwards.
 
 ------------------------------------------------------------------------
 
-[Next: 29. Why The Mink Smells](motc029)
+[Next: 29. Why The Mink Smells](motc029.md)

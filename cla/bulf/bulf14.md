@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf13) [Next](bulf15) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf13) [Next](bulf15.md) 
 
 # CHAPTER XV.
 
@@ -245,4 +245,4 @@ The following allusion to Perseus is from Milman's "Samor":
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XVI. Monsters. Giants, Sphinx, Pegasus, And Chimaera,
-Centaurs, Griffin, And Pygmies.](bulf15)
+Centaurs, Griffin, And Pygmies.](bulf15.md)

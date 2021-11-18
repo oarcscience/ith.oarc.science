@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)    [Women](../index)    [Roe
-v. Wade](../rvw/index)    [Hypertext Bible](../../bib/index)
+[Intangible Textual Heritage](../../index)    [Women](../index.md)    [Roe
+v. Wade](../rvw/index)    [Hypertext Bible](../../bib/index.md)
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ by J.B. Hare
 
 <span class="small">*August, 2008*</span>
 
-<span class="small">[copyright terms](#cnote)</span>
+<span class="small">[copyright terms](#cnote.md)</span>
 
 As far as I can tell there is no use of the term 'abort' in the sense of
 a medical procedure in the Old or New Testament of the Bible. There are
@@ -33,12 +33,12 @@ are prefixed by 'G' and Hebrew entries by 'H'. Numbers in specific
 verses are distinguished by context.
 
 The Strong's numbers can be found in the [Polyglot
-Bible](../../bib/poly/index) if you want to check these results.
+Bible](../../bib/poly/index.md) if you want to check these results.
 
  
 
 Note that the following contains Unicode content, so refer to the
-[Unicode walkthrough](../../unicode) if needed.
+[Unicode walkthrough](../../unicode.md) if needed.
 
 ### 1. ektroma (G1626)
 
@@ -516,4 +516,4 @@ DESTROY: (3)</p></td>
 This page may freely redistributed for non-commercial purposes as long
 as it is distributed intact, without any substantial changes, and this
 notice is included verbatim. For other uses, please
-[contact](../../contact) the copyright holder.</span>
+[contact](../../contact.md) the copyright holder.</span>

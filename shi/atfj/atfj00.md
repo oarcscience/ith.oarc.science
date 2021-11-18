@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Next](atfj01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Next](atfj01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@
 
 <span id="img_cover"></span> <span align="CENTER"> [![Front
 Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover  
 </span>
 
@@ -46,6 +46,6 @@ OF HIS KINDNESS IN JAPAN
 
 ------------------------------------------------------------------------
 
-[Next: Preface](atfj01)
+[Next: Preface](atfj01.md)
 
 </div>

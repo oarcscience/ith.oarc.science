@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot23) 
-[Next](bot25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot23.md) 
+[Next](bot25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -45,7 +45,7 @@ approximately.
 
 This House is symbolised by a Centaur armed with a bow ready to
 discharge an arrow (as shown in Illustration No. 9 of the coloured
-[Frontispiece](bot00.htm#img_front)), and is ruled by the planet
+[Frontispiece](bot00.htm#img_front).md), and is ruled by the planet
 Jupiter.
 
 Sagittarius the Archer forms one of the constellations of the Southern
@@ -304,6 +304,6 @@ the Pisces and Virgo periods.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Capricorn—The Goat](bot25)
+[Next: Chapter X. Capricorn—The Goat](bot25.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](mrm00)  [Next](mrm02) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](mrm00)  [Next](mrm02.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ AUCKLAND, JANUARY, 1882.
 
 ------------------------------------------------------------------------
 
-[Next: Contents.](mrm02)
+[Next: Contents.](mrm02.md)

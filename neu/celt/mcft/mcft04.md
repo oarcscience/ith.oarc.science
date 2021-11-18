@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mcft03)  [Next](mcft05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mcft03)  [Next](mcft05.md) 
 
 ------------------------------------------------------------------------
 
@@ -321,4 +321,4 @@ heard it from my grandmother.
 
 ------------------------------------------------------------------------
 
-[Next: The Black Horse](mcft05)
+[Next: The Black Horse](mcft05.md)

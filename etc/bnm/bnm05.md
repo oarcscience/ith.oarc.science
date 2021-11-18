@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm04)  [Next](bnm06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm04)  [Next](bnm06.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ food in the bark of trees.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Woodpecker's Head Is Red.](bnm06)
+[Next: Why The Woodpecker's Head Is Red.](bnm06.md)

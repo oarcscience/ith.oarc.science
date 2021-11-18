@@ -1,17 +1,17 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
@@ -35,8 +35,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gen00)    [Page
-Index](pageidx)    [Text \[Zipped\]](gen.txt.gz)
+[Contents](#contents)    [Start Reading](gen00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](gen.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -64,23 +64,23 @@ Hare, December 31st, 2008.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](gen00)  
-[Table of Contents](gen01)  
-[Introduction](gen02)  
-[Chapter I: The Chamber of Kiri](gen03)  
-[Chapter II: The Broom-Like Tree](gen04)  
-[Chapter III: Beautiful Cicada](gen05)  
-[Chapter IV: Evening Glory](gen06)  
-[Chapter V: Young Violet](gen07)  
-[Chapter VI: Saffron Flower](gen08)  
-[Chapter VII: Maple Fete](gen09)  
-[Chapter VIII: Flower-Feast](gen10)  
-[Chapter IX: Hollyhock](gen11)  
-[Chapter X: Divine Tree](gen12)  
-[Chapter XI: Villa of Falling Flowers](gen13)  
-[Chapter XII: Exile at Suma](gen14)  
-[Chapter XIII: Exile at Akashi](gen15)  
-[Chapter XIV: The Beacon](gen16)  
-[Chapter XV: Overgrown Mugwort](gen17)  
-[Chapter XVI: Barrier House](gen18)  
-[Chapter XVII: Competitive Show of Pictures](gen19)  
+<span id="contents"></span> [Title Page](gen00.md)  
+[Table of Contents](gen01.md)  
+[Introduction](gen02.md)  
+[Chapter I: The Chamber of Kiri](gen03.md)  
+[Chapter II: The Broom-Like Tree](gen04.md)  
+[Chapter III: Beautiful Cicada](gen05.md)  
+[Chapter IV: Evening Glory](gen06.md)  
+[Chapter V: Young Violet](gen07.md)  
+[Chapter VI: Saffron Flower](gen08.md)  
+[Chapter VII: Maple Fete](gen09.md)  
+[Chapter VIII: Flower-Feast](gen10.md)  
+[Chapter IX: Hollyhock](gen11.md)  
+[Chapter X: Divine Tree](gen12.md)  
+[Chapter XI: Villa of Falling Flowers](gen13.md)  
+[Chapter XII: Exile at Suma](gen14.md)  
+[Chapter XIII: Exile at Akashi](gen15.md)  
+[Chapter XIV: The Beacon](gen16.md)  
+[Chapter XV: Overgrown Mugwort](gen17.md)  
+[Chapter XVI: Barrier House](gen18.md)  
+[Chapter XVII: Competitive Show of Pictures](gen19.md)  

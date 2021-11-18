@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca70)  [Next](fsca72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca70)  [Next](fsca72.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ at Intangible Textual Heritage
 
 <span id="page_270">p. 270</span>
 
-<span id="img_27000"></span> ![Sea-horse naiant.](img/27000.jpg)
+<span id="img_27000"></span> ![Sea-horse naiant.](img/27000.jpg.md)
 
 ### The Sea-Horse
 
@@ -55,7 +55,7 @@ winged sea-horse as their monetary type, in<span id="img_27100"></span>
 
 |                                    |
 |------------------------------------|
-| ![Sea-horse erect.](img/27100.jpg) |
+| ![Sea-horse erect.](img/27100.jpg.md) |
 
 allusion to the fleetness of their vessels. Others of the maritime
 States of Greece also adopted the sea-horse upon their coins.
@@ -109,7 +109,7 @@ Holland, and they bore the augmentation of the sea-horse in reference to
 the valour and intrepidity of an ancestor, who, during the
 
 <span id="img_27300"></span> ![Arms of the city of Belfast. The sinister
-supporter and crest are Sea-horses.](img/27300.jpg)
+supporter and crest are Sea-horses.](img/27300.jpg.md)
 
 <span class="contnote">\[paragraph continues\]</span> Duke of Alva's
 campaign, was actively employed against the enemies of his country and
@@ -141,4 +141,4 @@ and horse, or the centaur with a fish's extremity.
 
 ------------------------------------------------------------------------
 
-[Next: Sea-lion](fsca72)
+[Next: Sea-lion](fsca72.md)

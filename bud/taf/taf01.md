@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf00)  [Next](taf02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf00)  [Next](taf02.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ are striking similarities between the very terms of Açvaghosha's system
 and expressions which I have used in my own philosophical writings. The
 main coincidence is the idea of Suchness, which is pure form, or the
 purely formal aspect of things, determining their nature according to
-mathematical and mechanical laws. <span id="fr_0"></span>[1](#fn_0)
+mathematical and mechanical laws. <span id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_v">p. v</span>
 
@@ -120,7 +120,7 @@ fellow beings.
 
 How highly Particularity is considered appears from the Mahayana picture
 in which it stands contrasted to Universality on perfectly equal
-terms. <span id="fr_1"></span>[1](#fn_1)
+terms. <span id="fr_1"></span>[1](#fn_1.md)
 
 The world-process starts in ignorance, perhaps through ignorance or at
 least through some commotion void of enlightenment, but from the start
@@ -161,13 +161,13 @@ PAUL CARUS.
 
 ### Footnotes
 
-<span id="fn_0"></span>[iv:1](taf01.htm#fr_0) This coincidence of some
+<span id="fn_0"></span>[iv:1](taf01.htm#fr_0.md) This coincidence of some
 salient points need of course not exclude disagreements in other
 important matters.
 
-<span id="fn_1"></span>[viii:1](taf01.htm#fr_1) See the inside front
+<span id="fn_1"></span>[viii:1](taf01.htm#fr_1.md) See the inside front
 cover.
 
 ------------------------------------------------------------------------
 
-[Next: Translator's Preface](taf02)
+[Next: Translator's Preface](taf02.md)

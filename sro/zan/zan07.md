@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](zan06)  [Next](zan08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](zan06)  [Next](zan08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Zanoni*, by Edward Bulwer Lytton, \[1842\], at Intangible Textual
 Heritage
 
@@ -181,4 +181,4 @@ thee; but he is an obstinate fellow, this,—and he would have it so."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](zan08)
+[Next: Chapter IV](zan08.md)

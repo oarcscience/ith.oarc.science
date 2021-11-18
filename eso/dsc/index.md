@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](dsc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](dsctxt.zip)
+[Contents](#contents)    [Start Reading](dsc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](dsctxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -42,19 +42,19 @@ least, this volume seems to have been padded out a bit. The first few
 chapters are consistent in tone and style, and discuss basics of Hindu
 (or perhaps Theosophist) thought in very general terms, with lots of
 italics and small caps for emphasis. There is even a realistic
-description of a saddhu and a fishmarket in Benares ([p. 25 ff](dsc06)),
+description of a saddhu and a fishmarket in Benares ([p. 25 ff](dsc06).md),
 local color which you don't typically find in the YPS series. Hindu
 technical terms are used correctly (and spelled correctly).
 
-At or about page [88](dsc14) ('Constructive Idealism') the book veers
+At or about page [88](dsc14) ('Constructive Idealism'.md) the book veers
 off into what appears to be New Thought. The second half of the book has
-a lot more [typos](errata), including some spectacular mangling of Hindu
+a lot more [typos](errata.md), including some spectacular mangling of Hindu
 proper names, and a lot less italics. My guess is that this is a
 conflation of a short manuscript written by an Indian, and some 'Mental
 Focus' lessons that Atkinson recycled from a correspondence course.
 There is some effort to maintain the Hindu theme in the second half, but
-by pages [127-8](dsc17.htm#page_127) he's quoting [Hiram
-Butler](../../astro/sb/index) and William James.
+by pages [127-8](dsc17.htm#page_127.md) he's quoting [Hiram
+Butler](../../astro/sb/index.md) and William James.
 
 This is not one of the better-known YPS titles; it isn't mentioned on
 Atkinson's Wikipedia page (at least not at the time I write this). In
@@ -64,26 +64,26 @@ class="small">--J.B. Hare, May 23rd, 2008</span>.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](dsc00)  
-[Contents](dsc01)  
-[Introduction](dsc02)  
-[Chapter I. The Yogi Conception of Life](dsc03)  
-[Chapter II. The Ideal and the Practical](dsc04)  
-[Chapter III. Read and Reflect](dsc05)  
-[Chapter IV. Man: Animal and Divine](dsc06)  
-[Chapter V. Double Consciousness](dsc07)  
-[Chapter VI. Spiritual Unfoldment](dsc08)  
-[Chapter VII. Cause and Effect](dsc09)  
-[Chapter VIII. Man—the Master](dsc10)  
-[Chapter IX. Self-Development](dsc11)  
-[Chapter X. Developing the Spiritual Consciousness](dsc12)  
-[Chapter XI. Who Can Be a Yogi?](dsc13)  
-[Chapter XII. Constructive Idealism](dsc14)  
-[Chapter XIII. Higher Reason and Judgment](dsc15)  
-[Chapter XIV. Conquest of Fear](dsc16)  
-[Chapter XV. The Role of Prayer](dsc17)  
-[Chapter XVI. Thought: Creative and Exhaustive](dsc18)  
-[Chapter XVII. Meditation Exercise](dsc19)  
-[Chapter XVIII. Self-de-Hypnotisation](dsc20)  
-[Chapter XIX. Self-de-Hypnotisation—II](dsc21)  
-[Chapter XX. Character-Building](dsc22)  
+<span id="contents"></span> [Title Page](dsc00.md)  
+[Contents](dsc01.md)  
+[Introduction](dsc02.md)  
+[Chapter I. The Yogi Conception of Life](dsc03.md)  
+[Chapter II. The Ideal and the Practical](dsc04.md)  
+[Chapter III. Read and Reflect](dsc05.md)  
+[Chapter IV. Man: Animal and Divine](dsc06.md)  
+[Chapter V. Double Consciousness](dsc07.md)  
+[Chapter VI. Spiritual Unfoldment](dsc08.md)  
+[Chapter VII. Cause and Effect](dsc09.md)  
+[Chapter VIII. Man—the Master](dsc10.md)  
+[Chapter IX. Self-Development](dsc11.md)  
+[Chapter X. Developing the Spiritual Consciousness](dsc12.md)  
+[Chapter XI. Who Can Be a Yogi?](dsc13.md)  
+[Chapter XII. Constructive Idealism](dsc14.md)  
+[Chapter XIII. Higher Reason and Judgment](dsc15.md)  
+[Chapter XIV. Conquest of Fear](dsc16.md)  
+[Chapter XV. The Role of Prayer](dsc17.md)  
+[Chapter XVI. Thought: Creative and Exhaustive](dsc18.md)  
+[Chapter XVII. Meditation Exercise](dsc19.md)  
+[Chapter XVIII. Self-de-Hypnotisation](dsc20.md)  
+[Chapter XIX. Self-de-Hypnotisation—II](dsc21.md)  
+[Chapter XX. Character-Building](dsc22.md)  

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip21)  [Next](fip23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip21)  [Next](fip23.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ to their rightful burial-place, beneath the waves of the Atlantic.
 
 ------------------------------------------------------------------------
 
-[Next: Lepracaun. Cluricaun. Far Darrig.](fip23)
+[Next: Lepracaun. Cluricaun. Far Darrig.](fip23.md)

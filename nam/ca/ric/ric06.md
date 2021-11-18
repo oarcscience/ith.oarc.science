@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ric05)  [Next](ric07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ric05)  [Next](ric07.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ importance.
 
 ------------------------------------------------------------------------
 
-[Next: Special Characteristics of Different Tribes](ric07)
+[Next: Special Characteristics of Different Tribes](ric07.md)

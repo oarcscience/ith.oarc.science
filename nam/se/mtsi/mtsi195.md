@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi194)  [Next](mtsi196) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi194)  [Next](mtsi196.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ but bones.
 
 ------------------------------------------------------------------------
 
-[Next: 60. The Flight to the Tree](mtsi196)
+[Next: 60. The Flight to the Tree](mtsi196.md)

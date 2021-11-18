@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip22)  [Next](fip24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip22)  [Next](fip24.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ whether these be animals, fairies, or spirits, I know not.
 
 ------------------------------------------------------------------------
 
-[Next: The Lepracaun; Or Fairy Shoemaker by William Allingham](fip24)
+[Next: The Lepracaun; Or Fairy Shoemaker by William Allingham](fip24.md)

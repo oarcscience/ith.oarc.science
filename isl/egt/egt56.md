@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt55)  [Next](egt57) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt55)  [Next](egt57.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ porter, all three are to be considered as indicating wealth.
 
 ------------------------------------------------------------------------
 
-[Next: ON DREAMS OF BEASTS.](egt57)
+[Next: ON DREAMS OF BEASTS.](egt57.md)

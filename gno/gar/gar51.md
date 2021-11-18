@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar50)  [Next](gar52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar50)  [Next](gar52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ they may take away that soul from the Contentious Gatherers, and during
 three days they shall go about with that soul amongst all the creatures
 of the world (*i.e.* throughout all creation). After the three days they
 shall lead him down into Chaos, so that they may deliver him out
-of <span id="fr_214"></span>[\*](#fn_212) all the punishments therein,
+of <span id="fr_214"></span>[\*](#fn_212.md) all the punishments therein,
 and out of the judgments, and they shall bring him unto all the
 judgment-places, but no flame of Chaos shall afflict him greatly; (262)
 nevertheless they shall in some wise afflict him for a little space, but
@@ -77,9 +77,9 @@ the kingdom, if it be without the mysteries of the Kingdom of Light."
 
 ### Footnotes
 
-<span id="fn_212"></span>[355:\*](gar51.htm#fr_214) Protect him against
+<span id="fn_212"></span>[355:\*](gar51.htm#fr_214.md) Protect him against
 any suffering from.
 
 ------------------------------------------------------------------------
 
-[Next: Future Punishments](gar52)
+[Next: Future Punishments](gar52.md)

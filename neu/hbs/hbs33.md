@@ -1,17 +1,17 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs32) [Next](hbs34)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs32) [Next](hbs34.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_187">p. 187</span>
 
-## THE MAIDEN MÁRGITA AND RAYKO THE VOÝVODA<span id="page_187_fr_1"></span>[1](#page_187_note_1)
+## THE MAIDEN MÁRGITA AND RAYKO THE VOÝVODA<span id="page_187_fr_1"></span>[1](#page_187_note_1.md)
 
 N<span class="small">OT</span> yet the dawn had whitened, nor the day
 star shown its face;  
 Men thought not of day—forth Márgita the maid walked in the place,  
 In Sriyem over Slánkamen;<span
-id="page_187_fr_2"></span>[2](#page_187_note_2) barefoot the damsel
+id="page_187_fr_2"></span>[2](#page_187_note_2.md) barefoot the damsel
 sprang  
 Over the stone so early. In delicate wise she sang,  
 
@@ -59,7 +59,7 @@ At Tóplitsa, Milan Tóplitsa, where the chill waters ran.
 At flat Kósaynitsa, Ivan Kósanchich, the mighty man,  
   .   .   .   .   .   .   .   
 In Travnik, the white, Vuk Bránkovich was Lazar’s high vizier;  
-Duke Stepan<span id="page_189_fr_1"></span>[1](#page_189_note_1) in
+Duke Stepan<span id="page_189_fr_1"></span>[1](#page_189_note_1.md) in
 Herzegovina ruled the country without fear.  
   .   .   .   .   .   .   .   
 At Skadar on the Bóyana, Vukáshin was the king.  
@@ -67,7 +67,7 @@ With his brethren Goyko and Úglyesha, to help in governing.
 And in Prizrend, where the plowland reacheth so fair and far,  
 With his little son, Prince Urosh, was Stepan the Servian tsar.  
   .   .   .   .   .   .   .   
-Starína Novak<span id="page_189_fr_2"></span>[2](#page_189_note_2) held
+Starína Novak<span id="page_189_fr_2"></span>[2](#page_189_note_2.md) held
 the rule on Stara, the mountain old;  
 And with him Rádivoye, his brother, called the bold,  
 And Tátomir and Grúitsa dwelt with them in the hold.  
@@ -97,7 +97,7 @@ And dead the wretched maiden by the dead Rayko fell.
 
 ------------------------------------------------------------------------
 
-[Next](hbs34)
+[Next](hbs34.md)
 
 ------------------------------------------------------------------------
 
@@ -105,19 +105,19 @@ And dead the wretched maiden by the dead Rayko fell.
 
 <span id="footnotes_page_187">p. 187</span>
 
-<span id="page_187_note_1"></span>[1](#page_187_fr_1) In the translation
+<span id="page_187_note_1"></span>[1](#page_187_fr_1.md) In the translation
 of this ballad slightly more than a third of the original has been
 omitted. The canceled lines give the names and dwelling-places of
 numerous Servian voývodas not mentioned elsewhere in this volume.
 
-<span id="page_187_note_2"></span>[2](#page_187_fr_2) That is,
+<span id="page_187_note_2"></span>[2](#page_187_fr_2.md) That is,
 “Salt-stone.”
 
 <span id="footnotes_page_189">p. 189</span>
 
-<span id="page_189_note_1"></span>[1](#page_189_fr_1) Ertseg Stepan.
+<span id="page_189_note_1"></span>[1](#page_189_fr_1.md) Ertseg Stepan.
 
-<span id="page_189_note_2"></span>[2](#page_189_fr_2) The introduction
+<span id="page_189_note_2"></span>[2](#page_189_fr_2.md) The introduction
 into this ballad of a hero of the late sixteenth century is of course an
 anachronism.
 

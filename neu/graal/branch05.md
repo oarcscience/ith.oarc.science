@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch04) 
-[Next](branch06) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch04.md) 
+[Next](branch06.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -614,5 +614,5 @@ he entereth into the forest.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-VI](branch06)  
+VI](branch06.md)  
 </span>

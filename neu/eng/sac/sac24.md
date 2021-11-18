@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac23)  [Next](sac25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac23)  [Next](sac25.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ That baptism was pre-Christian is shown by John the Baptist using the
 Jordan for this purpose before Christ's ministration began. (Matt. 3.
 6.)
 
-There is a tremendous literature <span id="fr_52"></span>[1](#fn_52)
+There is a tremendous literature <span id="fr_52"></span>[1](#fn_52.md)
 dealing with the folklore of holy wells and streams. The number of
 
 <span id="page_214">p. 214</span>
@@ -62,7 +62,7 @@ vogue on their arrival, and tolerated it at first and utilized it
 afterwards, as they did a great many other Pagan customs.
 
 With regard to this point Wood-Martin writes: <span
-id="fr_53"></span>[1](#fn_53)
+id="fr_53"></span>[1](#fn_53.md)
 
 "In many Irish MSS. there are allusions to this pre-Christian worship.
 For example, Tirehan, relates that
@@ -89,16 +89,16 @@ seq*.). Wood-Martin divides holy wells into three classes: (1) those
 which "derive their reputed virtues from Pagan superstition"; (2) those
 which were "transferred from Pagan to so-called Christian uses," and (3)
 "a few which may lay claim to a merely Christian origin." <span
-id="fr_54"></span>[1](#fn_54)
+id="fr_54"></span>[1](#fn_54.md)
 
 It is very easy to understand how the purely devout custom developed in
 course of time, in the case of some wells at any rate, into a more
 superstitious one, how some wells came to be called "wishing-wells" and
 others were regarded as prophetic. Rhys gives us several instances of
-these two classes in Wales. <span id="fr_55"></span>[2](#fn_55)
+these two classes in Wales. <span id="fr_55"></span>[2](#fn_55.md)
 
 Wishing-wells are known all over the United Kingdom; many authors give
-accounts of them. <span id="fr_56"></span>[3](#fn_56)
+accounts of them. <span id="fr_56"></span>[3](#fn_56.md)
 
 <span id="page_216">p. 216</span>
 
@@ -155,7 +155,7 @@ of the circle, for the officiating astronomer-priest must like other
 mortals have had a water supply available. "Where a spring or a river
 flows," says Seneca, "there should we build altars and offer sacrifices"
 (Hope, p. 47). The following shows how closely connected they
-were. <span id="fr_57"></span>[1](#fn_57)
+were. <span id="fr_57"></span>[1](#fn_57.md)
 
 "Closely associated with the circles, and occupying an equally important
 position in the religious rites and ceremonies of the ancient
@@ -173,7 +173,7 @@ remains of a larger and smaller circle, is a well which was held sacred
 by the people. According to Col. Leslie, on Beltane and Midsummer days,
 those on whom the dire hand of disease had fallen, or those desirous of
 averting that calamity, went seven times round the sacred wells sunwise
-(deasil) <span id="fr_58"></span>[1](#fn_58) and then proceeded to the
+(deasil) <span id="fr_58"></span>[1](#fn_58.md) and then proceeded to the
 circles, where a like ceremony was performed."
 
 "In Stenness we find the same association of the well and the circles.
@@ -195,10 +195,10 @@ Borlase records an instance of a well near a stone-circle
 <span id="page_219">p. 219</span>
 
 in Ireland in the Townland of Ballyferriter, in County Kerry. <span
-id="fr_59"></span>[1](#fn_59)
+id="fr_59"></span>[1](#fn_59.md)
 
 The same author also gives examples in Ireland of wells near dolmens and
-of wells *covered* by dolmens. <span id="fr_60"></span>[2](#fn_60)
+of wells *covered* by dolmens. <span id="fr_60"></span>[2](#fn_60.md)
 
 It may be remarked that in Cornwall Chapel Euny well is associated with
 the circles at Bartinné and Carn Euny; St. Cleer with the three circles
@@ -206,11 +206,11 @@ at the Hurlers, and Alsia well is near the Bolleit circle. Mr. Horton
 Bolitho is my authority for these statements.
 
 A well is often found near a cell, cairn or *keeill*. Rhys gives us two
-examples in the Isle of Man. <span id="fr_61"></span>[3](#fn_61) At
+examples in the Isle of Man. <span id="fr_61"></span>[3](#fn_61.md) At
 Ardmore Bay the holy well is within the ruined chapel of the
-saint. <span id="fr_62"></span>[4](#fn_62) A vast pile of stones
+saint. <span id="fr_62"></span>[4](#fn_62.md) A vast pile of stones
 surrounds the holy well in Glencolumbkille in Donegal. <span
-id="fr_63"></span>[5](#fn_63)
+id="fr_63"></span>[5](#fn_63.md)
 
 It might be useful to add here, that it is a very common thing to find a
 well by a so-called tomb of a saint.
@@ -234,7 +234,7 @@ worship within the monolithic ring."
 
 Rhys gives us many instances of wells near churches, and here it may be
 useful to add that the Welsh for well is Ffynnon. <span
-id="fr_64"></span>[1](#fn_64)
+id="fr_64"></span>[1](#fn_64.md)
 
 Ffynnon Faglan is described as being near a church, also Ffynnon Fair, a
 wishing-well. Criccieth Church is supposed to have had a well near it at
@@ -243,7 +243,7 @@ one time. Again, Ffynnon Beris is near the parish church of Llanberis
 Denbighshire. Then there are St. Teilo's Church and Well at Llandeilo
 Llwydarth, near Maen Clochog, North Pembrokeshire.
 
-Wood-Martin <span id="fr_65"></span>[2](#fn_65) refers to the rites at
+Wood-Martin <span id="fr_65"></span>[2](#fn_65.md) refers to the rites at
 the well of Tubberpatrick, part of the ceremony taking place in the
 church near by.
 
@@ -251,7 +251,7 @@ church near by.
 
 3\. *Association of sacred wells with sacred trees.*—Rhys, and many
 other authors, give us several instances of a tree by the side of a
-well. <span id="fr_66"></span>[3](#fn_66)
+well. <span id="fr_66"></span>[3](#fn_66.md)
 
 When we come to deal with well offerings we shall find, in fact, that in
 almost every case a tree has been a necessary companion of the well, as
@@ -260,7 +260,7 @@ the well offerings were hung on them.
 In many cases, of course, the kind of tree is not specified. When it is,
 it is almost invariably the rowan or hawthorn. Rhys tells us: "The tree
 to expect by a sacred well is doubtless some kind of thorn." <span
-id="fr_67"></span>[4](#fn_67)
+id="fr_67"></span>[4](#fn_67.md)
 
 <span id="page_221">p. 221</span>
 
@@ -288,7 +288,7 @@ celebrating the day with song and dance." This is recorded of the
 superstitions connected with wells are fast becoming things of the past,
 in certain parts they are still believed and practised. .
 
-Gomme <span id="fr_68"></span>[1](#fn_68) informs us that well-worship
+Gomme <span id="fr_68"></span>[1](#fn_68.md) informs us that well-worship
 prevails in every county of the three kingdoms. He finds it "most vital
 in the Gaelic countries, somewhat less so in the British, and almost
 entirely wanting in the Teutonic south-east. In some cases wells were
@@ -300,9 +300,9 @@ would sacrifice
 <span id="page_222">p. 222</span>
 
 one of their horses at a well near Abergelen to secure a blessing upon
-the rest. <span id="fr_69"></span>[1](#fn_69) Fowls were offered at St.
+the rest. <span id="fr_69"></span>[1](#fn_69.md) Fowls were offered at St.
 Tegla's Well, near Wrexham, by epileptic patients, <span
-id="fr_70"></span>[2](#fn_70) but of late years the well spirits have
+id="fr_70"></span>[2](#fn_70.md) but of late years the well spirits have
 had to be content with much smaller tributes—such trifles as pins, rags,
 coloured pebbles and small coins."
 
@@ -317,7 +317,7 @@ an offering—it was probably originally a skin—to a priest without a pin
 pins of bone have been found associated with bones of palæolithic
 mammals.
 
-Mr. Gomme tells us, <span id="fr_71"></span>[3](#fn_71) "In the case of
+Mr. Gomme tells us, <span id="fr_71"></span>[3](#fn_71.md) "In the case of
 some wells, especially in Scotland, at one time the whole garment was
 put down as an offering. Gradually these offerings of clothes became
 less and less till they came down to rags." He also points out, as we
@@ -356,7 +356,7 @@ certain localities with regard to the offerings, and the frame of mind
 of the devotees.
 
 With reference to the reasons for the offerings made in the present day,
-Wood-Martin writes: <span id="fr_72"></span>[1](#fn_72)
+Wood-Martin writes: <span id="fr_72"></span>[1](#fn_72.md)
 
 "Wells were the haunts of spirits that proved to be propitious if
 remembered, but were vindictive if neglected, and hence no devotee
@@ -369,7 +369,7 @@ from the clothing, or dropping a cake, a small coin, or a crooked pin
 into the well, is unconsciously worshipping the old presiding spirit of
 the place."
 
-Rhys <span id="fr_73"></span>[1](#fn_73) gives us a great deal of
+Rhys <span id="fr_73"></span>[1](#fn_73.md) gives us a great deal of
 information on this. The ritual varies at some of them. People came from
 far and near; it is the custom to make some sort of offering, rags and
 pins being the most modern, and about these we have most information as
@@ -392,7 +392,7 @@ it is recorded that when it was cleaned out about fifty years ago "two
 basinfuls of pins were taken out," which were all bent, but no coins
 were found in it.
 
-Wood-Martin <span id="fr_74"></span>[2](#fn_74) also gives an
+Wood-Martin <span id="fr_74"></span>[2](#fn_74.md) also gives an
 interesting account of the rite performed at a certain well in Ireland;
 it is a
 
@@ -465,9 +465,9 @@ Children suffering from mesenteric disease are dipped three times
 
 <span class="contnote">\[paragraph continues\]</span> "widderschynnes,"
 that is contrary to the sun's motion, And dragged round the well three
-times in the same direction: <span id="fr_75"></span>[1](#fn_75)
+times in the same direction: <span id="fr_75"></span>[1](#fn_75.md)
 
-Edmunds <span id="fr_76"></span>[2](#fn_76) thus refers to this well:—
+Edmunds <span id="fr_76"></span>[2](#fn_76.md) thus refers to this well:—
 
 "Some years since I had the curiosity to go with a friend to Chapel Enny
 on one of these Wednesdays, and, whilst watching at a distance, we saw
@@ -478,13 +478,13 @@ ceremony on an infant."
 has its well ceremonials on the first three Wednesdays in May.
 
 In Cornwall the May bathing ceremonial is even carried out in salt
-water. <span id="fr_77"></span>[3](#fn_77) The time chosen is the same
+water. <span id="fr_77"></span>[3](#fn_77.md) The time chosen is the same
 as that at Madron and Chapel Euny, the first three Sundays in May.
 
 This Sunday in May celebration is not confined to Cornwall. At Eden
 Hall, Giant's Cave, water with sugar is drunk on the third Sunday in
 May: A vast concourse of both sexes is present. <span
-id="fr_78"></span>[4](#fn_78)
+id="fr_78"></span>[4](#fn_78.md)
 
 At Rorrington, a township in the parish of Chirbury, was a holy well at
 which a wake was celebrated on Ascension Day.
@@ -554,9 +554,9 @@ at any other hour of the day."
 
 With regard to the August festival, there is a holy well at St. Geer,
 near the Hurlers; the festival is held on August 9th. <span
-id="fr_79"></span>[1](#fn_79) I have no special references to August
+id="fr_79"></span>[1](#fn_79.md) I have no special references to August
 wells in Ireland, but there is evidence given by Piers <span
-id="fr_80"></span>[2](#fn_80) that at that time cattle were bathed.
+id="fr_80"></span>[2](#fn_80.md) that at that time cattle were bathed.
 
 "On the first Sunday in harvest, viz., in August, they will be sure to
 drive their cattle into some pool or river and therein swim them; this
@@ -597,7 +597,7 @@ The valleys filled with blind and lame,
 And go as limping as they came."
 
 At Barnwell (Beirna-well = youths’ well), near Cambridge, the festival
-took place on St. John's Day. <span id="fr_81"></span>[1](#fn_81)
+took place on St. John's Day. <span id="fr_81"></span>[1](#fn_81.md)
 
 Brand, in his history of Newcastle (ii. 54), refers to a. well still
 called Bede's Well, near Jarrow. "As late as 1740 it was a prevailing
@@ -630,7 +630,7 @@ ash-Shems.
 
 ### Footnotes
 
-<span id="fn_52"></span>[213:1](sac24.htm#fr_52) The literature that I
+<span id="fn_52"></span>[213:1](sac24.htm#fr_52.md) The literature that I
 have chiefly consulted is as follows:—
 
 <div align="center">
@@ -647,85 +647,85 @@ have chiefly consulted is as follows:—
 
 </div>
 
-<span id="fn_53"></span>[214:1](sac24.htm#fr_53) *Traces of the Elder
+<span id="fn_53"></span>[214:1](sac24.htm#fr_53.md) *Traces of the Elder
 Faiths of Ireland, A Folklore Sketch*, ii., p. 47.
 
-<span id="fn_54"></span>[215:1](sac24.htm#fr_54) Pp. 11, 47.
+<span id="fn_54"></span>[215:1](sac24.htm#fr_54.md) Pp. 11, 47.
 
-<span id="fn_55"></span>[215:2](sac24.htm#fr_55) *Celtic Folklore, Manx
+<span id="fn_55"></span>[215:2](sac24.htm#fr_55.md) *Celtic Folklore, Manx
 and Welsh*, ii., p. 366.
 
-<span id="fn_56"></span>[215:3](sac24.htm#fr_56) Wood-Martin, *loc.
+<span id="fn_56"></span>[215:3](sac24.htm#fr_56.md) Wood-Martin, *loc.
 cit.*, ii., p. 80.
 
-<span id="fn_57"></span>[217:1](sac24.htm#fr_57) *Standing Stones and
+<span id="fn_57"></span>[217:1](sac24.htm#fr_57.md) *Standing Stones and
 Maeshowe of Stenness*, by Magnus Spence, p. 13.
 
-<span id="fn_58"></span>[218:1](sac24.htm#fr_58) That is from W. to E.
+<span id="fn_58"></span>[218:1](sac24.htm#fr_58.md) That is from W. to E.
 through N., or E. to W. through S.; in the same direction as the hands
 of a clock.
 
-<span id="fn_59"></span>[219:1](sac24.htm#fr_59) *The Dolmens of
+<span id="fn_59"></span>[219:1](sac24.htm#fr_59.md) *The Dolmens of
 Ireland*, i., p. 3.
 
-<span id="fn_60"></span>[219:2](sac24.htm#fr_60) *Ibid*., pp. 95, 765.
+<span id="fn_60"></span>[219:2](sac24.htm#fr_60.md) *Ibid*., pp. 95, 765.
 
-<span id="fn_61"></span>[219:3](sac24.htm#fr_61) *Celtic Folklore, Manx
+<span id="fn_61"></span>[219:3](sac24.htm#fr_61.md) *Celtic Folklore, Manx
 and Welsh*, i., p., 332.
 
-<span id="fn_62"></span>[219:4](sac24.htm#fr_62) Borlase, *loc. cit.*,
+<span id="fn_62"></span>[219:4](sac24.htm#fr_62.md) Borlase, *loc. cit.*,
 p. 760.
 
-<span id="fn_63"></span>[219:5](sac24.htm#fr_63) *Ibid*., p. 426.
+<span id="fn_63"></span>[219:5](sac24.htm#fr_63.md) *Ibid*., p. 426.
 
-<span id="fn_64"></span>[220:1](sac24.htm#fr_64) Rhys, *Celtic Folklore,
+<span id="fn_64"></span>[220:1](sac24.htm#fr_64.md) Rhys, *Celtic Folklore,
 Manx and Welsh*, p. 363.
 
-<span id="fn_65"></span>[220:2](sac24.htm#fr_65) *Pagan Ireland*, p.
+<span id="fn_65"></span>[220:2](sac24.htm#fr_65.md) *Pagan Ireland*, p.
 160.
 
-<span id="fn_66"></span>[220:3](sac24.htm#fr_66) Rhys, *Celtic Folklore,
+<span id="fn_66"></span>[220:3](sac24.htm#fr_66.md) Rhys, *Celtic Folklore,
 Manx and Welsh*, i., pp. 35.1, 35G, 357, &c.
 
-<span id="fn_67"></span>[220:4](sac24.htm#fr_67) Rhys, *ibid*., p. 332.
+<span id="fn_67"></span>[220:4](sac24.htm#fr_67.md) Rhys, *ibid*., p. 332.
 
-<span id="fn_68"></span>[221:1](sac24.htm#fr_68) *Ethnology in
+<span id="fn_68"></span>[221:1](sac24.htm#fr_68.md) *Ethnology in
 Folklore*, p. 78.
 
-<span id="fn_69"></span>[222:1](sac24.htm#fr_69) Sikes: *British
+<span id="fn_69"></span>[222:1](sac24.htm#fr_69.md) Sikes: *British
 Goblins*, p. 351.
 
-<span id="fn_70"></span>[222:2](sac24.htm#fr_70) Sikes, *idem*., p. 329.
+<span id="fn_70"></span>[222:2](sac24.htm#fr_70.md) Sikes, *idem*., p. 329.
 
-<span id="fn_71"></span>[222:3](sac24.htm#fr_71) *Folklore*, 1892, p.
+<span id="fn_71"></span>[222:3](sac24.htm#fr_71.md) *Folklore*, 1892, p.
 89.
 
-<span id="fn_72"></span>[223:1](sac24.htm#fr_72) *Pagan Ireland*, p.
+<span id="fn_72"></span>[223:1](sac24.htm#fr_72.md) *Pagan Ireland*, p.
 145.
 
-<span id="fn_73"></span>[224:1](sac24.htm#fr_73) *Celtic Folklore, Manx
+<span id="fn_73"></span>[224:1](sac24.htm#fr_73.md) *Celtic Folklore, Manx
 and Welsh*.
 
-<span id="fn_74"></span>[224:2](sac24.htm#fr_74) *Pagan Ireland*, p.
+<span id="fn_74"></span>[224:2](sac24.htm#fr_74.md) *Pagan Ireland*, p.
 160.
 
-<span id="fn_75"></span>[227:1](sac24.htm#fr_75) Hope, p. 14.
+<span id="fn_75"></span>[227:1](sac24.htm#fr_75.md) Hope, p. 14.
 
-<span id="fn_76"></span>[227:2](sac24.htm#fr_76) *The Land's End
+<span id="fn_76"></span>[227:2](sac24.htm#fr_76.md) *The Land's End
 District*, p. 72.
 
-<span id="fn_77"></span>[227:3](sac24.htm#fr_77) Edmunds, p. 72.
+<span id="fn_77"></span>[227:3](sac24.htm#fr_77.md) Edmunds, p. 72.
 
-<span id="fn_78"></span>[227:4](sac24.htm#fr_78) Hope, p. 40.
+<span id="fn_78"></span>[227:4](sac24.htm#fr_78.md) Hope, p. 40.
 
-<span id="fn_79"></span>[229:1](sac24.htm#fr_79) St. Cleer = St. Cledod,
+<span id="fn_79"></span>[229:1](sac24.htm#fr_79.md) St. Cleer = St. Cledod,
 A.D. 482. The arms of St. Cleer are the Sun in its glory.
 
-<span id="fn_80"></span>[229:2](sac24.htm#fr_80) Description of
+<span id="fn_80"></span>[229:2](sac24.htm#fr_80.md) Description of
 Westmeath, 1682, quoted by Vallencey, i., 121.
 
-<span id="fn_81"></span>[230:1](sac24.htm#fr_81) Hazlitt, ii., 616.
+<span id="fn_81"></span>[230:1](sac24.htm#fr_81.md) Hazlitt, ii., 616.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. Where Did the British Worship Originate?](sac25)
+[Next: Chapter XXII. Where Did the British Worship Originate?](sac25.md)

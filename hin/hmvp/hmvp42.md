@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp41)  [Next](hmvp43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp41)  [Next](hmvp43.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ these occasions, they are never worshipped together. They are, however,
 frequently worshipped separately by the sick and unfortunate who suppose
 themselves to be under the baneful influence of one or other of them. At
 these times they are worshipped one after the other in regular
-succession." <span id="fr_393"></span>[\*](#fn_393) Seven of the planets
+succession." <span id="fr_393"></span>[\*](#fn_393.md) Seven of the planets
 give names to the days of the week; the other two represent the
 ascending and descending nodes. Surya and Chandra (Soma) have already
 been noticed at length among the Vedic Deities; they are again described
@@ -41,7 +41,7 @@ blades of *Durva* 
 <span id="page_432">p. 432</span>
 
 grass; and to Keta (the descending node) blades of *Kusa* grass." <span
-id="fr_394"></span>[\*](#fn_394)
+id="fr_394"></span>[\*](#fn_394.md)
 
 "The image of Surya is a round piece of mixed metal twelve fingers in
 diameter; of Chandra, a piece like a half-moon, a cubic from end to end;
@@ -49,7 +49,7 @@ of Mangala, a triangular piece six fingers in width; of Budha, a golden
 bow two fingers in breadth; of Vrihaspati, a piece like a lotus; of
 Sukra, a square piece of silver; of Sani, an iron scimitar; of Rāhu, an
 iron makara (a fabulous animal, half stag and half fish); and of Ketu,
-an iron snake." <span id="fr_395"></span>[†](#fn_395)
+an iron snake." <span id="fr_395"></span>[†](#fn_395.md)
 
 1\. <span class="smallcaps">Ravi</span> (the Sun), hence Ravibāra
 (Sunday), is the son of Kasyapa and Aditi. Though as Surya he is daily
@@ -58,7 +58,7 @@ worshipped, as Ravi he is only worshipped at the greater festivals. "The
 born under the planet Ravi, he will possess an anxious mind, be subject
 to disease and other sufferings, be an exile, a prisoner, and suffer the
 loss of wife, children, and property." <span
-id="fr_396"></span>[‡](#fn_396)
+id="fr_396"></span>[‡](#fn_396.md)
 
 2\. <span class="smallcaps">Chandra</span> or <span
 class="smallcaps">Soma</span>, hence Somavāra (Monday). "If a person be
@@ -79,14 +79,14 @@ is identical with Kartikeya.
 <span id="page_433">p. 433</span>
 
 4\. <span class="smallcaps">Budha</span>, <span
-id="fr_397"></span>[\*](#fn_397) hence Budhavāra (Wednesday), was the
+id="fr_397"></span>[\*](#fn_397) hence Budhavāra (Wednesday.md), was the
 son of Soma by Tārā, the wife of Vrihaspati, the preceptor of the gods.
 At his birth, on the confession of his mother that he was Soma's son,
 her husband reduced her to ashes. Brahmā afterwards raised her to life,
 and, being purified by the fire, her husband received her back. Samudra
 (the Sea), incensed at his son for the great crime of dishonouring his
 preceptor's wife, disinherited him; but owing to his sister <span
-id="fr_398"></span>[†](#fn_398) Lakshmi's influence, part of his sin was
+id="fr_398"></span>[†](#fn_398.md) Lakshmi's influence, part of his sin was
 removed, and he became bright as the moon when three days old; and,
 through her intercession with Pārvati, he was restored to heaven, by
 being placed on Siva's forehead, who, thus ornamented, went to a feast
@@ -131,7 +131,7 @@ wives, a kingly umbrella (an emblem of royalty), and other kings will
 worship him."
 
 Sukra is said to have possessed the power of raising the dead, as the
-following legend <span id="fr_399"></span>[\*](#fn_399) shows:—Devajāni,
+following legend <span id="fr_399"></span>[\*](#fn_399.md) shows:—Devajāni,
 the daughter of Sukra, was deeply in love with Kacha, a son of
 Vrihaspati and a pupil of her father, who had been sent to Sukra for the
 express purpose of learning from him the incantation for raising the
@@ -188,7 +188,7 @@ that of Ketu, were placed in heaven as the ascending and descending
 nodes, and leave was granted, as a means of revenge on Surya and
 Chandra, that on certain occasions Rāhu should approach these gods and
 render them unclean, so that their bodies at these times become thin and
-black. <span id="fr_400"></span>[\*](#fn_400)
+black. <span id="fr_400"></span>[\*](#fn_400.md)
 
 <span id="img_43600"></span> ![](img/43600.jpg)
 
@@ -196,24 +196,24 @@ black. <span id="fr_400"></span>[\*](#fn_400)
 
 ### Footnotes
 
-<span id="fn_393"></span>[431:\*](hmvp42.htm#fr_393) Ward, E. 70.
+<span id="fn_393"></span>[431:\*](hmvp42.htm#fr_393.md) Ward, E. 70.
 
-<span id="fn_394"></span>[432:\*](hmvp42.htm#fr_394) Ward, ii. 70.
+<span id="fn_394"></span>[432:\*](hmvp42.htm#fr_394.md) Ward, ii. 70.
 
-<span id="fn_395"></span>[432:†](hmvp42.htm#fr_395) Ibid., 71.
+<span id="fn_395"></span>[432:†](hmvp42.htm#fr_395.md) Ibid., 71.
 
-<span id="fn_396"></span>[432:‡](hmvp42.htm#fr_396) Page 72.
+<span id="fn_396"></span>[432:‡](hmvp42.htm#fr_396.md) Page 72.
 
-<span id="fn_397"></span>[433:\*](hmvp42.htm#fr_397) This Budha must not
+<span id="fn_397"></span>[433:\*](hmvp42.htm#fr_397.md) This Budha must not
 be confounded with Buddha, the Incarnation of Vishnu.
 
-<span id="fn_398"></span>[433:†](hmvp42.htm#fr_398) Soma (the Moon) and
+<span id="fn_398"></span>[433:†](hmvp42.htm#fr_398) Soma (the Moon.md) and
 Lakshmi were produced together at the churning of the ocean.
 
-<span id="fn_399"></span>[434:\*](hmvp42.htm#fr_399) Ward, ii. 71.
+<span id="fn_399"></span>[434:\*](hmvp42.htm#fr_399.md) Ward, ii. 71.
 
-<span id="fn_400"></span>[436:\*](hmvp42.htm#fr_400) Ward, ii. 81.
+<span id="fn_400"></span>[436:\*](hmvp42.htm#fr_400.md) Ward, ii. 81.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Asuras](hmvp43)
+[Next: Chapter VI. The Asuras](hmvp43.md)

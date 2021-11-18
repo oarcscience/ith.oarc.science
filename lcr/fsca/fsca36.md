@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca35)  [Next](fsca37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca35)  [Next](fsca37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -21,12 +21,12 @@ at Intangible Textual Heritage
 Two other varieties of the griffin family, the "*Hippogriff*" and the
 "*Simoorgh*" appear in the highly wrought imaginings of the poets, and
 may here be very briefly alluded to. They do not, however, appear in
-British [Heraldry](errata.htm#3).
+British [Heraldry](errata.htm#3.md).
 
 <span class="smallcaps">Hippogryph</span>, or <span
 class="smallcaps">Hippogrif</span>, the winged horse whose father was a
 griffin and mother a filly (Greek, *hippos*, a horse, and *gryps*, a
-griffin)—a symbol of love. <span id="fr_16"></span>[\*](#fn_16)
+griffin)—a symbol of love. <span id="fr_16"></span>[\*](#fn_16.md)
 
 <span class="smallcaps">Simoorgh</span>, a sort of griffin or
 hippogryph, which took some of its breast feathers for Tahmura's helmet.
@@ -50,9 +50,9 @@ Milton also makes allusion to this mythical creature:
 
 ### Footnotes
 
-<span id="fn_16"></span>[161:\*](fsca36.htm#fr_16) "Orlando Furioso,"
+<span id="fn_16"></span>[161:\*](fsca36.htm#fr_16.md) "Orlando Furioso,"
 iv. 18, 19.
 
 ------------------------------------------------------------------------
 
-[Next: The Opinicus, or Epimacus](fsca37)
+[Next: The Opinicus, or Epimacus](fsca37.md)

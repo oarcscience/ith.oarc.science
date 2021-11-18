@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl036)  [Next](cohl038) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl036)  [Next](cohl038.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,11 +20,11 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_31"></span>[38:1](cohl035.htm#fr_31) A more complete
+<span id="fn_31"></span>[38:1](cohl035.htm#fr_31.md) A more complete
 catalog of the besetting sins of the Iroquois than set forth in the
 foregoing sections can not be found nor are they elsewhere more
 graphically described.
 
 ------------------------------------------------------------------------
 
-[Next: Section 27](cohl038)
+[Next: Section 27](cohl038.md)

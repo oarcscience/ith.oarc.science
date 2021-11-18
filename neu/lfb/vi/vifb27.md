@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb26)  [Next](vifb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb26)  [Next](vifb28.md) 
 
 </div>
 
@@ -133,6 +133,6 @@ queen to go shieldless for ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The Headless Dwarfs](vifb28)
+[Next: The Headless Dwarfs](vifb28.md)
 
 </div>

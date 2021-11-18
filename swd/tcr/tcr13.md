@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](tcr12)  [Next](tcr14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](tcr12)  [Next](tcr14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930985/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930985/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1842,4 +1842,4 @@ frequently observed.
 
 ------------------------------------------------------------------------
 
-[Next: 651-700](tcr14)
+[Next: 651-700](tcr14.md)

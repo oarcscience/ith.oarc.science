@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp72)  [Next](prp74) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp72)  [Next](prp74.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ red-painted amulet.
 ------------------------------------------------------------------------
 
 [Next: 74. Not to be moved am I; shouldst thou, Thief, venture on
-thieving](prp74)
+thieving](prp74.md)

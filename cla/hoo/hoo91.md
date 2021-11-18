@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo90) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo90.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Whose absence lengthens life, whose presence ends.
 
 Thy sleep perpetual bursts the vivid folds, 5  
 By which the soul, attracting body holds:  <span
-id="fr_129"></span>[6](#fn_129)
+id="fr_129"></span>[6](#fn_129.md)
 
 <span id="page_226">p. 226</span>
 
@@ -42,7 +42,7 @@ THE END.
 
 ### Footnotes
 
-<span id="fn_129"></span>[225:6](hoo91.htm#fr_129) Ver. 6.\] *By which
+<span id="fn_129"></span>[225:6](hoo91.htm#fr_129.md) Ver. 6.\] *By which
 the soul*, &c. This is best explained by Porphyry in his excellent work
 entitled Ἀφορμαὶ πεὸσ τὰ Νοητά 8. as follows: "Whatever nature binds,
 nature again dissolves; and that which the soul conciliates into union,

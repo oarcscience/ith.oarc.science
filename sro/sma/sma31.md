@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma30)  [Next](sma32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma30)  [Next](sma32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -364,9 +364,9 @@ liberty. The order however succeeded here again in detecting and
 exposing his arts, and the count honestly confessed that he had been
 deceived by him. He cast him off forthwith, and Hans David, ceasing to
 annoy the order, devoted himself to astrology and conjuring for the rest
-of his days <span id="fr_129"></span>[\*](#fn_129).
+of his days <span id="fr_129"></span>[\*](#fn_129.md).
 
-He had, however, caused [the order](errata.htm#28) abundance of
+He had, however, caused [the order](errata.htm#28.md) abundance of
 
 <span id="page_396">p. 396</span>
 
@@ -381,7 +381,7 @@ Nordernau, and, in 1454, the Duke of Saxony before that at Limburg. The
 Elector-Palatine found it difficult, in 1448, to defend himself against
 a sentence passed on him by one of the Fehm-courts. Duke Henry of
 Bavaria found it necessary on the following occasion, actually to become
-a [frei-schöppe](errata.htm#29) in order to save himself. One Gaspar, of
+a [frei-schöppe](errata.htm#29.md) in order to save himself. One Gaspar, of
 Torringen, had accused him before the tribunal of Waldeck of "having
 taken from him his hereditary office of Chief Huntsman; of having seized
 and beaten his huntsmen and servants, taken his hounds, battered down
@@ -432,7 +432,7 @@ and iniquitous they were become.
 
 ### Footnotes
 
-<span id="fn_129"></span>[395:\*](sma31.htm#fr_129) The following is one
+<span id="fn_129"></span>[395:\*](sma31.htm#fr_129.md) The following is one
 of his predictions, delivered by him, under the name of Master Von
 Dolete, in the year 1457: "In the ensuing month, September, the sun will
 appear like a black dragon; cruel winds will blow, the sea will roar,
@@ -445,4 +445,4 @@ impostors are the same in all ages and countries.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](sma32)
+[Next: Chapter VII](sma32.md)

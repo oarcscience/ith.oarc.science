@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr04)  [Next](ppr06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr04)  [Next](ppr06.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Ahead of me is goodness, lead me on.
 
 ------------------------------------------------------------------------
 
-[Next: Navajo Liturgy (American)](ppr06)
+[Next: Navajo Liturgy (American)](ppr06.md)

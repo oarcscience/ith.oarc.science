@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn12)  [Next](rmn14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn12)  [Next](rmn14.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ TERRA COTTA. *Height, 16 5/25 inches*.
 PLATE XII.
 
 BEHIND this figure is seen a vessel, which represents one of those
-obscene vases called *Drillopotæ*, <span id="fr_18"></span>[1](#fn_18)
+obscene vases called *Drillopotæ*, <span id="fr_18"></span>[1](#fn_18.md)
 out of which the ancients were wont to drink on certain occasions,
 undoubtedly in honour of Venus, or perhaps of Bacchus; for, assuredly it
 would be difficult to suppose anything like dignity or seriousness in
@@ -40,9 +40,9 @@ This *Drillopota* comes from Civita.
 
 ### Footnotes
 
-<span id="fn_18"></span>[28:1](rmn13.htm#fr_18) From δρῖλος, the virile
+<span id="fn_18"></span>[28:1](rmn13.htm#fr_18.md) From δρῖλος, the virile
 member, and ποτὴρ, a drinking-cup.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XIII: Drillopota](rmn14)
+[Next: Plate XIII: Drillopota](rmn14.md)

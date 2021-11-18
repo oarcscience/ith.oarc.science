@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](fpg01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](fpg01.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 ### Journal of American Folk-Lore 2:4 pp. 23-35 \[1889\]
 
-As before stated, <span id="fr_8"></span>[1](#fn_8) nearly all the food
+As before stated, <span id="fr_8"></span>[1](#fn_8.md) nearly all the food
 required for home consumption was the product of the farm, and in the
 endeavor to vary the monotony of dishes some curious combinations
 resulted.
@@ -60,7 +60,7 @@ only on Sunday or during the visit of friends.
 
 <span id="page_24">p. 24</span>
 
-The corn mills <span id="fr_9"></span>[1](#fn_9) used by the earliest
+The corn mills <span id="fr_9"></span>[1](#fn_9.md) used by the earliest
 settlers were but a slight improvement upon that of the aborigines, and
 the early erection of grist mills was considered with as much interest
 as the construction of houses of worship.
@@ -88,7 +88,7 @@ is also a sign of clearing weather.
 
 There are certain days in the year for which special articles of food
 are prepared in accordance with time-honored customs. One of these is
-Shrove-Tuesday <span id="fr_10"></span>[2](#fn_10)--*Fās nacht*--when
+Shrove-Tuesday <span id="fr_10"></span>[2](#fn_10.md)--*Fās nacht*--when
 peculiarly shaped doughnuts are eaten. The custom appears to have
 originated in
 
@@ -96,7 +96,7 @@ originated in
 
 \[paragraph continues\] England, where the eating of "pancakes" was an
 old one. A correspondent in the "Gentleman's Magazine" <span
-id="fr_11"></span>[1](#fn_11) respecting this practice says, "as the
+id="fr_11"></span>[1](#fn_11.md) respecting this practice says, "as the
 Romish religion has given way . . . yet the custom of ringing the great
 bell in our antient parish churches, at least in some of them, yet
 remains, and obtains in and about London the name of Pancake-bell;
@@ -118,7 +118,7 @@ hares,--made of canton flannel and stuffed with cotton or saw-dust, were
 given as presents. Children were told that the *Osh'ter hâs* laid these
 eggs in the nests which were previously arranged somewhere about the
 house, a practice similar to hanging up a stocking on Christmas
-Eve. <span id="fr_12"></span>[2](#fn_12)
+Eve. <span id="fr_12"></span>[2](#fn_12.md)
 
 In the rural districts even at this day, pastry, cakes, and preserves
 are served at almost every meal, and if anything remains over it is
@@ -134,7 +134,7 @@ Saturday was the cleaning-up day of the week, and although the custom of
 washing pavements was common, and still is so, the writer does not
 remember to have observed as much importance attached to this practice
 as stated by a writer in the "Gentleman's Magazine" <span
-id="fr_13"></span>[3](#fn_13) in the following words: "There is also
+id="fr_13"></span>[3](#fn_13.md) in the following words: "There is also
 another custom peculiar to the city of Philadelphia, and nearly allied
 to the former
 
@@ -158,7 +158,7 @@ custom of white-washing. Fences, out-buildings, cellars, and in the
 houses of many the rooms, are white-washed at the approach of
 spring,--the period of house cleaning,--both for the purpose of
 cleanliness and appearance. In the publication just quoted <span
-id="fr_14"></span>[1](#fn_14) a writer makes mention of a custom which
+id="fr_14"></span>[1](#fn_14.md) a writer makes mention of a custom which
 does not appear to be recognized at the present time. He says: "When a
 young couple are about to enter into the matrimonial state, a
 never-failing article in the marriage treaty is, that the lady shall
@@ -201,14 +201,14 @@ Children were permitted to nurse at their mother's breast for a longer
 period than is now customary. One instance is known to the writer in
 which a boy of seven years of age daily earned this privilege by
 splitting the amount of kindling wood necessary for his mother's
-use. <span id="fr_15"></span>[1](#fn_15)
+use. <span id="fr_15"></span>[1](#fn_15.md)
 
 The following superstitions relate to children:--
 
 The child will have the colic if the empty cradle is rocked.
 
 If any one step across a child it will cease to grow. <span
-id="fr_16"></span>[2](#fn_16)
+id="fr_16"></span>[2](#fn_16.md)
 
 A cat, when left alone with an infant, will strangle it by sucking its
 breath.
@@ -239,11 +239,11 @@ The following superstitions pertain to children's complaints and the
 methods of treatment.
 
 Slabbering is cured by passing a live fish through the child's
-mouth. <span id="fr_17"></span>[1](#fn_17) This practice still obtains
+mouth. <span id="fr_17"></span>[1](#fn_17.md) This practice still obtains
 in Berks County.
 
 To cure pleurisy, pass the child beneath a table to an assistant. <span
-id="fr_18"></span>[2](#fn_18)
+id="fr_18"></span>[2](#fn_18.md)
 
 It is necessary to state, in this connection, that pleurisy is believed
 to be caused by the attachment of the liver to the ribs; the cure being
@@ -262,7 +262,7 @@ previous to depositing the bread for baking.
 When the patient reaches the age of adolescence the alleged relief is
 obtained by urinating into a newly made grave, the corpse must be of the
 opposite sex to that of the experimenter. <span
-id="fr_19"></span>[3](#fn_19)
+id="fr_19"></span>[3](#fn_19.md)
 
 Blisters on the tongue (Stomatitis) are caused by telling fibs. When
 they show no disposition to leave, the following process is adopted:
@@ -374,7 +374,7 @@ is removed from the corpse house, the mourners place themselves around
 it, and after several strains of solemn music, the procession forms a
 line of march to the grave, preceded by the band, still playing, which
 is continued some time after the coffin is deposited." <span
-id="fr_20"></span>[1](#fn_20)
+id="fr_20"></span>[1](#fn_20.md)
 
 Coffins were made of walnut or stained wood. Hearses were rarely used,
 the coffin being placed upon the floor of a large wagon with chairs
@@ -394,7 +394,7 @@ one of them will be sure to die within a year.
 <span id="page_31">p. 31</span>
 
 If any one wear crêpe when not in mourning, his or her death is sure to
-follow. <span id="fr_21"></span>[1](#fn_21)
+follow. <span id="fr_21"></span>[1](#fn_21.md)
 
 The chirping in the house of a cricket, or the clicking of a deathwatch,
 foretell the death of one of the inmates. When horses in pasture are
@@ -402,10 +402,10 @@ seen running and playing, it is a sign that a funeral will soon be seen.
 
 That a dog howling at night should be a presage of death is a
 superstition of almost world-wide belief, and is abundantly observed in
-classic literature. <span id="fr_22"></span>[2](#fn_22)
+classic literature. <span id="fr_22"></span>[2](#fn_22.md)
 
 A white Christmas makes a full graveyard. <span
-id="fr_23"></span>[3](#fn_23)
+id="fr_23"></span>[3](#fn_23.md)
 
 When apple-trees bloom out of season it is an omen of death to some one
 connected with the household.
@@ -435,7 +435,7 @@ believed to be most unfortunate.
 Many of the more ignorant and superstitious classes firmly believe that
 nightmare, ghostly manifestations, and similar evidences of uncanny
 doings are often the direct doings of witches. Nightmare can sometimes
-be caught, <span id="fr_24"></span>[4](#fn_24) as is illustrated by the
+be caught, <span id="fr_24"></span>[4](#fn_24.md) as is illustrated by the
 following instance. A hostler in the service of the writer's father
 frequently suffered from nightmare, and to secure the intruder he
 procured a small phial which he placed within easy reach of his bed.
@@ -599,7 +599,7 @@ house a longer period. Finally, several young
 
 <span id="page_35">p. 35</span>
 
-men, brothers, <span id="fr_25"></span>[1](#fn_25) were induced to come
+men, brothers, <span id="fr_25"></span>[1](#fn_25.md) were induced to come
 into the house, both as a favor to Mrs. Kern and for the purpose chiefly
 of ascertaining the cause of the mysterious manifestations. They sat up,
 for nights at a time, or remained awake in the bed, which was so placed
@@ -629,10 +629,10 @@ W. J. Hoffman, M. D.
 
 ### Footnotes
 
-<span id="fn_8"></span>[23:1](fpg02.htm#fr_8) *Journal of American
+<span id="fn_8"></span>[23:1](fpg02.htm#fr_8.md) *Journal of American
 Folk-Lore*, vol. i. p. 125 et seq.
 
-<span id="fn_9"></span>[24:1](fpg02.htm#fr_9) One of the earliest forms
+<span id="fn_9"></span>[24:1](fpg02.htm#fr_9.md) One of the earliest forms
 of home-made mills was observed in a private collection in Nazareth, Pa.
 It had been found in Monroe County, on the northern side of the Blue
 Mountains, and consisted of grayish, compact sandstone. In shape it
@@ -657,14 +657,14 @@ Liberty, Southwestern Virginia, a region which was early penetrated by
 German colonists, descendants of whom are still to be found in that
 vicinity.
 
-<span id="fn_10"></span>[24:2](fpg02.htm#fr_10) *Shrive* is an old Saxon
+<span id="fn_10"></span>[24:2](fpg02.htm#fr_10.md) *Shrive* is an old Saxon
 word (of which Shrove is a corruption), and signifies confession. Hence
 *Shrove-Tuesday* signifies Confession-Tuesday. *Gentleman's Magazine*,
 1790, p. 495.
 
-<span id="fn_11"></span>[25:1](fpg02.htm#fr_11) 1790, p. 495.
+<span id="fn_11"></span>[25:1](fpg02.htm#fr_11.md) 1790, p. 495.
 
-<span id="fn_12"></span>[25:2](fpg02.htm#fr_12) The-belief that the hare
+<span id="fn_12"></span>[25:2](fpg02.htm#fr_12.md) The-belief that the hare
 lays the Easter-eggs is a singular one, and an explanation is offered by
 a writer in the *Folk-Lore Journal* (London, i. 1883, p. 123), as
 follows: "Originally the hare seems to have been a bird which the
@@ -674,12 +674,12 @@ in grateful recollection of its former quality as a bird and swift
 messenger of the Spring-Goddess, is able to lay eggs on her festival at
 Easter-time."
 
-<span id="fn_13"></span>[25:3](fpg02.htm#fr_13) 1821, p. 401
+<span id="fn_13"></span>[25:3](fpg02.htm#fr_13.md) 1821, p. 401
 
-<span id="fn_14"></span>[26:1](fpg02.htm#fr_14) Gentleman's Magazine,
+<span id="fn_14"></span>[26:1](fpg02.htm#fr_14.md) Gentleman's Magazine,
 pt. I. 1821, pp. 399, 400.
 
-<span id="fn_15"></span>[27:1](fpg02.htm#fr_15) A parallel instance of
+<span id="fn_15"></span>[27:1](fpg02.htm#fr_15.md) A parallel instance of
 an amusing character is given by Dr. Fredrich Krause in his *Sitte und
 Brauch der Südslaven* (Wien, 1885, p. 544, 545), where, in treating of
 the Southern Slavs he says: Jede Mutter nährt ihr Kind allein, und zwar
@@ -694,45 +694,45 @@ Gehöfte herum. Da rief jenes Burschlein: 'Majo, dader sise!'
 ältliche Bäuerin, auf die Thürschwelle, und der Junge nahm sein
 Frühstück ein."
 
-<span id="fn_16"></span>[27:2](fpg02.htm#fr_16) The Magyar superstition
+<span id="fn_16"></span>[27:2](fpg02.htm#fr_16.md) The Magyar superstition
 is, furthermore, that the danger may be averted by stepping over the
 child again in the opposite direction. *Folk-Lore Journal* (London), i.
 1883, p. 355.
 
-<span id="fn_17"></span>[28:1](fpg02.htm#fr_17) According to a
+<span id="fn_17"></span>[28:1](fpg02.htm#fr_17.md) According to a
 correspondent of *Notes and Queries*, London, 5th ser. vol. ix. p. 64, a
 fish was thrust into the throat of a child suffering from
 whooping-cough. This occurred near Philadelphia, in 1875.
 
-<span id="fn_18"></span>[28:2](fpg02.htm#fr_18) In Lochee, Scotland, the
+<span id="fn_18"></span>[28:2](fpg02.htm#fr_18.md) In Lochee, Scotland, the
 child is passed under the belly of a donkey to cure whooping-cough.
 *Folk-Lore Journal* (London), i. 1883, p. 30.
 
-<span id="fn_19"></span>[28:3](fpg02.htm#fr_19) An instance of the last
+<span id="fn_19"></span>[28:3](fpg02.htm#fr_19.md) An instance of the last
 named method occurred at Washington, D. C., two years ago, though with
 unknown result, as the patient was startled at the unexpected appearance
 of the funeral and fell into the grave, when, after her extrication
 therefrom, she ran away.
 
-<span id="fn_20"></span>[30:1](fpg02.htm#fr_20) *History of Northampton,
+<span id="fn_20"></span>[30:1](fpg02.htm#fr_20.md) *History of Northampton,
 Lehigh . . . Counties*, Harrisburg, 1845, p. 81.
 
-<span id="fn_21"></span>[31:1](fpg02.htm#fr_21) The same belief is
+<span id="fn_21"></span>[31:1](fpg02.htm#fr_21.md) The same belief is
 entertained by the Magyars. *Folk-Lore Journal*, London, i. 1883, p.
 356.
 
-<span id="fn_22"></span>[31:2](fpg02.htm#fr_22) Among many of our Indian
+<span id="fn_22"></span>[31:2](fpg02.htm#fr_22.md) Among many of our Indian
 tribes the red fox is looked upon as being endowed with impressions of
 future calamity.
 
-<span id="fn_23"></span>[31:3](fpg02.htm#fr_23) In the northern
+<span id="fn_23"></span>[31:3](fpg02.htm#fr_23.md) In the northern
 countries of England and the borders, the same idea occurs as "a green
 yule makes a fat kirk-yard." *Notes on the Folk-Lore of the Northern
 Counties*, etc. (Folk-Lore Soc. Pub.), Lond., 1879, p. 75.
 
-<span id="fn_24"></span>[31:4](fpg02.htm#fr_24) The German nightmare is
+<span id="fn_24"></span>[31:4](fpg02.htm#fr_24.md) The German nightmare is
 caught by stopping up the hole through which it entered.
 
-<span id="fn_25"></span>[35:1](fpg02.htm#fr_25) One of whom is a
+<span id="fn_25"></span>[35:1](fpg02.htm#fr_25.md) One of whom is a
 prominent physician in Pennsylvania, and who gave me the details of the
 story.

@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,8 +16,8 @@ end of the world), by a distinguished 19th century Biblical scholar.
 Rev. Oesterley delves into the Jewish roots of the Christian concept of
 the end of the world. He begins in the Jewish writings of antiquity,
 particularly the Tanach and the non-deuterocanonical apocrypha such as
-[The Book of Enoch](../../bib/boe/index) and [The Book of
-Jubilees](../../bib/jub/index). These invaluable apocryphal sources were
+[The Book of Enoch](../../bib/boe/index.md) and [The Book of
+Jubilees](../../bib/jub/index.md). These invaluable apocryphal sources were
 lost until manscripts turned up in (e.g.) Ethiopia in the 19th century.
 Oesterley traces the development from a 'Particularist' apocalypse in
 the Jewish Bible and Apocrypha (limited to Jewish people), to a
@@ -32,24 +32,24 @@ fairly interesting reading.
 
 ------------------------------------------------------------------------
 
-[Title Page](dlt00)  
-[Contents](dlt01)  
-[Prefatory Note](dlt02)  
+[Title Page](dlt00.md)  
+[Contents](dlt01.md)  
+[Prefatory Note](dlt02.md)  
 [Chapter 1. The Antecedents of the Gospel Teaching:
-Introductory](dlt03)  
+Introductory](dlt03.md)  
 [Chapter II. The Antecedents of the Gospel Teaching: The Old
-Testament](dlt04)  
+Testament](dlt04.md)  
 [Chapter III. The Antecedents of the Gospel Teaching: Some Further
-Elements in the Old Testament](dlt05)  
+Elements in the Old Testament](dlt05.md)  
 [Chapter IV. The Antecedents of the Gospel Teaching. The Apocalyptic
-Literature: Introductory.](dlt06)  
+Literature: Introductory.](dlt06.md)  
 [Chapter V. The Antecedents of the Gospel Teaching: The Apocalyptic
-Literature.](dlt07)  
+Literature.](dlt07.md)  
 [Chapter VI. Some Further Eschatological Elements in the Apocalyptic
-Literature](dlt08)  
-[Chapter VII. Eschatological Teaching in Rabbinical Literature](dlt09)  
-[Chapter VIII. The Coming of the Messiah, The Son of Man](dlt10)  
-[Chapter IX. The Gospel Teaching of the Second Advent.](dlt11)  
+Literature](dlt08.md)  
+[Chapter VII. Eschatological Teaching in Rabbinical Literature](dlt09.md)  
+[Chapter VIII. The Coming of the Messiah, The Son of Man](dlt10.md)  
+[Chapter IX. The Gospel Teaching of the Second Advent.](dlt11.md)  
 [Chapter X. The Gospel Teaching of the Second Advent:--Contrast with its
-Antecedents.](dlt12)  
-[Chapter XI. The Christian Adaptation of Jewish Teaching.](dlt13)  
+Antecedents.](dlt12.md)  
+[Chapter XI. The Christian Adaptation of Jewish Teaching.](dlt13.md)  

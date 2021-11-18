@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat15)  [Next](sat17) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat15)  [Next](sat17.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ they instantly put their fortunes at Eumolpus's disposal, almost
 fighting which should be first to do him this service. One and all offer
 presents, in order to curry favor with the supposed millionaire.
 
-\[CXXV <span id="CXXV"></span>[(Latin)](../satyrlat/satl125) \] Things
+\[CXXV <span id="CXXV"></span>[(Latin)](../satyrlat/satl125.md) \] Things
 went on thus at Croton for a long time, till Eumolpus, intoxicated with
 success, so completely forgot his former lowly condition as to boast to
 his followers how no one could resist his influence, and that any
@@ -36,7 +36,7 @@ better of, and start begging afresh. Gods and goddesses of heaven! what
 a life outlaws lead, forever dreading the penalty of one felony or
 another!"
 
-\[CXXVI <span id="CXXVI"></span>[(Latin)](../satyrlat/satl126) \] Thus
+\[CXXVI <span id="CXXVI"></span>[(Latin)](../satyrlat/satl126.md) \] Thus
 communing with myself, I quit the house in a most melancholy mood,
 hoping to refresh my spirits with the open air out of doors. I had
 scarcely entered the public promenade, when a girl of far from
@@ -107,7 +107,7 @@ Or his gray hairs to be transformed to down!
 Here's Danae's self,--a touch from her would fire,  
 And make the God in liquid joys expire.
 
-\[CXXVII <span id="CXXVII"></span>[(Latin)](../satyrlat/satl127) \]
+\[CXXVII <span id="CXXVII"></span>[(Latin)](../satyrlat/satl127.md) \]
 Quite delighted, she smiled so sweetly I thought I saw the moon breaking
 full-faced from a cloud. Presently, with fingers punctuating her words,
 she laughed, "If you are not too proud to enjoy a woman of condition,
@@ -153,7 +153,7 @@ Was bright, like her, and as her temple gay.
 
 Side by side on the grass we lay, dallying with a thousand kisses, the
 prelude to robuster joys. \[CXXVIIII <span
-id="CXXVIIII"></span>[(Latin)](../satyrlat/satl128) \] But alas! a
+id="CXXVIIII"></span>[(Latin)](../satyrlat/satl128.md) \] But alas! a
 sudden debility of my nerves quite disappointed Circe, who exclaimed,
 infuriated at the affront, "What now? do my kisses revolt you? is my
 breath offensive with fasting? are my armpits uncleanly and smelling? If
@@ -208,7 +208,7 @@ the same; but reason now prevails over love and lechery."
 
 "Well! thank you, thank you for the Socratic innocency of your passion.
 Alcibiades was not more uncontaminated when he lay in his preceptor's
-bed." \[CXXIX <span id="CXXIX"></span>[(Latin)](../satyrlat/satl129) \]
+bed." \[CXXIX <span id="CXXIX"></span>[(Latin)](../satyrlat/satl129.md) \]
 "I tell you, little brother," I went on, "I have lost all knowledge and
 sense of manhood. Dead and buried is that part of me that once made me a
 very Achilles!"
@@ -251,7 +251,7 @@ wronged her, she has not been her own woman."
 I complied very willingly with the girl's suggestion, and wrote the
 following answer on the tablets:
 
-\[CXXX <span id="CXXX"></span>[(Latin)](../satyrlat/satl130) \]
+\[CXXX <span id="CXXX"></span>[(Latin)](../satyrlat/satl130.md) \]
 POLYAENOS TO CIRCE--GREETING.
 
 "I confess, Lady, I have often offended; I am but a man, and a young one
@@ -278,7 +278,7 @@ an easy walk before retiring, I went to bed with no Giton to share my
 couch. For anxious as I was to make my peace, I was afraid of even the
 slightest contact with my favorite.
 
-\[CXXXI <span id="CXXXI"></span>[(Latin)](../satyrlat/satl131) \] Next
+\[CXXXI <span id="CXXXI"></span>[(Latin)](../satyrlat/satl131.md) \] Next
 day, having risen sound in mind and body, I went down to the same plane
 tree walk, though truly I felt a dread of the ominous locality, and
 waited for Chrysis to act as my guide. After strolling to and fro for a
@@ -329,7 +329,7 @@ come back again today?"
 "Why ask me," I returned, "instead of making trial?" and throwing myself
 bodily into her arms, I took my fill of good, healthy, unbewitched
 kisses. \[CXXXII <span
-id="CXXXII"></span>[(Latin)](../satyrlat/satl132) \] Her loveliness drew
+id="CXXXII"></span>[(Latin)](../satyrlat/satl132.md) \] Her loveliness drew
 me irresistibly to her and disposed me to enjoyment. Already had our
 lips joined in many a sounding kiss, our fingers interlocked had played
 all sorts of amorous pranks, our two bodies had twined in mutual
@@ -395,4 +395,4 @@ affectation of peculiar gravity.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Sixteen](sat17)
+[Next: Chapter Sixteen](sat17.md)

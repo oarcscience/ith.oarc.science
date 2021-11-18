@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wcs01)  [Next](wcs03) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wcs01)  [Next](wcs03.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ authority great both in civil and religious affairs. Monogamy the rule
 of the Matriarchate. Polygamy, infanticide and prostitution the rule of
 the Patriarchate
 
-[Page 11](wcs03.htm#page_11).
+[Page 11](wcs03.htm#page_11.md).
 
     CHAPTER II.--CELIBACY.
 
@@ -36,7 +36,7 @@ Women driven to suicide. Influence of the church unfavorable to virtue.
 Women of wealth drawn into monastic life. The church in Mexico.
 President Diaz. Protestant Orders.
 
-[Page 49](wcs04.htm#page_49).
+[Page 49](wcs04.htm#page_49.md).
 
     CHAPTER III.--CANON LAW.
 
@@ -58,7 +58,7 @@ disinherited; sons could not be. The Reformation effected no change,
 Governments catering to Pope Leo XIII., at time of his jubilee; the
 President of the United States sends a gift;
 
-[Page 113](wcs05.htm#page_113).
+[Page 113](wcs05.htm#page_113.md).
 
     CHAPTER IV.--MARQUETTE.
 
@@ -72,7 +72,7 @@ Pineries. Governmental crime-makers. Rapid increase of child criminals.
 The White Cross society. Baptism of nude women in the early Christian
 Church.
 
-[Page 152](wcs06.htm#page_152).
+[Page 152](wcs06.htm#page_152.md).
 
     CHAPTER V.--WITCHCRAFT.
 
@@ -90,7 +90,7 @@ regard to witchcraft. Persecution introduced into America by the
 heresy. Whipping half nude women for their religious opinions. Famine
 caused by persecution of women
 
-[Page 217](wcs07.htm#page_217).
+[Page 217](wcs07.htm#page_217.md).
 
     CHAPTER VI.--WIVES.
 
@@ -116,7 +116,7 @@ alive. "Darkest England." Advertising wives. An English clergyman offers
 £100 reward for the capture and return of his wife. Civil marriage
 opposed by the church. Action of the Chilian Republic
 
-[Page 295](wcs08.htm#page_295).
+[Page 295](wcs08.htm#page_295.md).
 
     CHAPTER VII.--POLYGAMY.
 
@@ -127,7 +127,7 @@ action of the American Board of Foreign Missions. Favoring action of a
 Missionary Conference in India. Mormons compared to the Puritans. Mormon
 theocracy similar to that of other Christian sects
 
-[Page 398](wcs09.htm#page_398).
+[Page 398](wcs09.htm#page_398.md).
 
     CHAPTER VIII.--WOMAN AND WORK.
 
@@ -139,7 +139,7 @@ the two great factors in physical degeneration and infantile mortality.
 Woman's work in Europe and the United States. Woman degraded under
 Christian civilization to labors unfit for slaves
 
-[Page 432](wcs10.htm#page_432).
+[Page 432](wcs10.htm#page_432.md).
 
     CHAPTER IX.--THE CHURCH OF TO-DAY.
 
@@ -155,7 +155,7 @@ off the inhabitants of the world with greater rapidity than war, famine
 or pestilence. The present forms of religion and governments essentially
 masculine.
 
-[Page 466](wcs11.htm#page_466).
+[Page 466](wcs11.htm#page_466.md).
 
     CHAPTER X.--PAST, PRESENT, FUTURE.
 
@@ -164,8 +164,8 @@ self-sacrifice, but self-development woman's first duty in life. The
 protective spirit; its injury to woman. Christanity of little value to
 civilization. Looking backward through history; looking forward.
 
-[Page 525](wcs12.htm#page_525).
+[Page 525](wcs12.htm#page_525.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Matriarchate.](wcs03)
+[Next: Chapter I. The Matriarchate.](wcs03.md)

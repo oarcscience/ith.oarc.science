@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap08)  [Next](chap10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap08)  [Next](chap10.md) 
 
 ------------------------------------------------------------------------
 
@@ -908,4 +908,4 @@ following three verses, a consolation for the conquest of their country:
 
 ------------------------------------------------------------------------
 
-[Next: X. The Apocrypha](chap10)
+[Next: X. The Apocrypha](chap10.md)

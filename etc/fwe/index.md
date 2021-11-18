@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,27 +21,27 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](fwe00)    [Text
-\[Zipped\]](fwetxt.zip)
+[Contents](#contents)    [Start Reading](fwe00.md)    [Text
+\[Zipped\]](fwetxt.zip.md)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](fwe00)  
-[Preface](fwe01)  
-[Contents](fwe02)  
+<span id="contents"></span> [Title Page](fwe00.md)  
+[Preface](fwe01.md)  
+[Contents](fwe02.md)  
 <span id="section_000"></span>
 
 ### Festivals
 
-[1. Festivals of Belgium](fwe03)  
-[2. Festivals of Denmark](fwe04)  
-[3. Festivals of France](fwe05)  
-[4. Festivals of Germany](fwe06)  
-[5. Festivals of Italy](fwe07)  
-[6. Festivals of Luxembourg](fwe08)  
-[7. Festivals of the Netherlands](fwe09)  
-[8. Festivals of Norway](fwe10)  
-[9. Festivals of Portugal](fwe11)  
-[10. Festivals of Spain](fwe12)  
-[11. Festivals of Sweden](fwe13)  
-[12. Festivals of Switzerland](fwe14)  
+[1. Festivals of Belgium](fwe03.md)  
+[2. Festivals of Denmark](fwe04.md)  
+[3. Festivals of France](fwe05.md)  
+[4. Festivals of Germany](fwe06.md)  
+[5. Festivals of Italy](fwe07.md)  
+[6. Festivals of Luxembourg](fwe08.md)  
+[7. Festivals of the Netherlands](fwe09.md)  
+[8. Festivals of Norway](fwe10.md)  
+[9. Festivals of Portugal](fwe11.md)  
+[10. Festivals of Spain](fwe12.md)  
+[11. Festivals of Sweden](fwe13.md)  
+[12. Festivals of Switzerland](fwe14.md)  

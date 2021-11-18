@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale13)  [Next](tale15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale13)  [Next](tale15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ spread
 <span id="img_10500"></span>
 
 [![THE OVERTHROW OF THE BRAZEN HORSEMAN](tn/10500.jpg)  
-Click to enlarge](img/10500.jpg)  
+Click to enlarge](img/10500.jpg.md)  
 THE OVERTHROW OF THE BRAZEN HORSEMAN  
 
 <span id="page_106">p. 106</span> <span id="page_107">p. 107</span>
@@ -364,7 +364,7 @@ the roc appeared, and bore
 <span id="img_11300"></span>
 
 [![THE YOUNG MEN SEW AGIB IN THE SHEEPSKIN](tn/11300.jpg)  
-Click to enlarge](img/11300.jpg)  
+Click to enlarge](img/11300.jpg.md)  
 THE YOUNG MEN SEW AGIB IN THE SHEEPSKIN  
 
 me off to the top of the mountain in his huge claws as lightly as if I
@@ -415,7 +415,7 @@ cheerful and smiling they were in floods of tears. "Prince," said
 <span id="img_11500"></span>
 
 [![AGIB ENTERTAINED BY THE LADIES](tn/11500.jpg)  
-Click to enlarge](img/11500.jpg)  
+Click to enlarge](img/11500.jpg.md)  
 AGIB ENTERTAINED BY THE LADIES  
 
 <span id="page_116">p. 116</span> <span id="page_117">p. 117</span>
@@ -496,7 +496,7 @@ and
 <span id="img_11900"></span>
 
 [![THE BLACK HORSE LEAVES AGIB ON THE TERRACE](tn/11900.jpg)  
-Click to enlarge](img/11900.jpg)  
+Click to enlarge](img/11900.jpg.md)  
 THE BLACK HORSE LEAVES AGIB ON THE TERRACE  
 
 <span id="page_120">p. 120</span> <span id="page_121">p. 121</span>
@@ -530,4 +530,4 @@ depart immediately out of this house."
 
 ------------------------------------------------------------------------
 
-[Next: The Seven Voyages of Sindbad the Sailor](tale15)
+[Next: The Seven Voyages of Sindbad the Sailor](tale15.md)

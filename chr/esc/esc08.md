@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc07)  [Next](esc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc07)  [Next](esc09.md) 
 
 ------------------------------------------------------------------------
 
@@ -450,4 +450,4 @@ the remainder of Gabriel's interesting history for another lecture.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture VII. Daniel's 1260, 1290, and 1335 Days Explained](esc09)
+[Next: Lecture VII. Daniel's 1260, 1290, and 1335 Days Explained](esc09.md)

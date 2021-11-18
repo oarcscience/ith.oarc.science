@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](jch05)  [Next](jch07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](jch05)  [Next](jch07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Jesus Christ heals*, by Charles Fillmore, \[1939\], at Intangible
 Textual Heritage
 
@@ -435,4 +435,4 @@ is come in the flesh.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](jch07)
+[Next: Chapter 5](jch07.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch06) 
-[Next](pch08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch06.md) 
+[Next](pch08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -37,7 +37,7 @@ which befell a man to the</span>
 
 <span class="small">action of the divine love of which he was conscious
 within himself; and the misfortunes which befell him to the wrath of the
-justly offended divine will. <span id="fr_29"></span>[1](#fn_29)</span>
+justly offended divine will. <span id="fr_29"></span>[1](#fn_29.md)</span>
 
 </div>
 
@@ -102,8 +102,8 @@ sometimes feared.
 
 ### Footnotes
 
-<span id="fn_29"></span>[8:1](pch07.htm#fr_29) Work cited, p. 410.
+<span id="fn_29"></span>[8:1](pch07.htm#fr_29.md) Work cited, p. 410.
 
 ------------------------------------------------------------------------
 
-[Next: § 4. Scientific View of the Religious Evolution](pch08)
+[Next: § 4. Scientific View of the Religious Evolution](pch08.md)

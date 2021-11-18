@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt16)  [Next](crt18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt16)  [Next](crt18.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_11400"></span>
 
 [![King Mark of Cornwall.](tn/11400.jpg)  
-Click to enlarge](img/11400.jpg)  
+Click to enlarge](img/11400.jpg.md)  
 King Mark of Cornwall.  
 
 <span id="page_115">p. 115</span>
@@ -462,4 +462,4 @@ hear how it befell Sir Tristram thereafter; so harken to what followeth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Third](crt18)
+[Next: Chapter Third](crt18.md)

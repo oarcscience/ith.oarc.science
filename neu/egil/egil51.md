@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil50)  [Next](egil52) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil50)  [Next](egil52.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ They had three hundred men with them who took the king's pay.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LI. Of Olaf king of Scots.](egil52)
+[Next: CHAPTER LI. Of Olaf king of Scots.](egil52.md)

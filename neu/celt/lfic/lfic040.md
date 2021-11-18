@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic039)  [Next](lfic041) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic039)  [Next](lfic041.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ preserved.
 
 ------------------------------------------------------------------------
 
-[Next: The Witches Excursion](lfic041)
+[Next: The Witches Excursion](lfic041.md)

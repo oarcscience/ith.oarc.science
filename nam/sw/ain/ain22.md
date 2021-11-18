@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain21)  [Next](ain23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain21)  [Next](ain23.md) 
 
 ------------------------------------------------------------------------
 
@@ -159,4 +159,4 @@ the weapon to the Sun, and then went home to his vahahkkee.
 
 ------------------------------------------------------------------------
 
-[Next: Songs](ain23)
+[Next: Songs](ain23.md)

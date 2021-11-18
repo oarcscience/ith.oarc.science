@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](ti2)  [Next](plm) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](ti2)  [Next](plm.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,4 +167,4 @@ Salutu vi tiujn, kiuj amas nin en la fido. Graco estu kun vi cxiuj.
 
 ------------------------------------------------------------------------
 
-[Next: Philemon](plm)
+[Next: Philemon](plm.md)

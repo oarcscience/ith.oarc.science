@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg30)  [Next](btg32) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg30)  [Next](btg32.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ Rajagaha to the bhikkhus.
 
 ------------------------------------------------------------------------
 
-[Next: Suddhodana Attains Nirvana](btg32)
+[Next: Suddhodana Attains Nirvana](btg32.md)

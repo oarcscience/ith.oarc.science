@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim62)  [Next](sim64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim62)  [Next](sim64.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 A MAN and his nephew lived together in a cabin in the woods. The uncle's
 name was Two Feathers, the nephew's was Mink <span
-id="fr_9"></span>[1](#fn_9) (HATHÓNDES the listener).
+id="fr_9"></span>[1](#fn_9) (HATHÓNDES the listener.md).
 
 The uncle and nephew were very poor, their food was the fungus of trees
 and a kind of wood mushroom.
@@ -499,10 +499,10 @@ and brought her home.
 
 ### Footnotes
 
-<span id="fn_9"></span>[381:1](sim63.htm#fr_9) In one version of the
+<span id="fn_9"></span>[381:1](sim63.htm#fr_9.md) In one version of the
 story it was Scorched Belly, a name given the boy because his body was
 red from lying in the hot ashes at the end of the fire.
 
 ------------------------------------------------------------------------
 
-[Next: The Fox and Rabbit](sim64)
+[Next: The Fox and Rabbit](sim64.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi130)  [Next](mtsi132) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi130)  [Next](mtsi132.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ This is the way it is told.
 
 ------------------------------------------------------------------------
 
-[Next: 39. Rabbit and the Old Man](mtsi132)
+[Next: 39. Rabbit and the Old Man](mtsi132.md)

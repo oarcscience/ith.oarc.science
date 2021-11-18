@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](agjc079)  [Next](agjc081) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](agjc079)  [Next](agjc081.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHONOS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHONOS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Aquarian Gospel of Jesus Christ*, by Levi H. Dowling, \[1920\], at
 Intangible Textual Heritage
 
@@ -71,6 +71,6 @@ and you will lead your husband to the light.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 78](agjc081)
+[Next: Chapter 78](agjc081.md)
 
 </div>

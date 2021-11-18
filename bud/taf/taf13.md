@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf12)  [Next](taf14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf12)  [Next](taf14.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ important Buddhist philosophical work
 <span id="page_39">p. 39</span>
 
 as the present çâstra can be studied only through translations. <span
-id="fr_55"></span>[1](#fn_55)
+id="fr_55"></span>[1](#fn_55.md)
 
 There are two Chinese translations still existing in the Tripitaka
 collection. The first translation was made by Paramârtha (<span
@@ -55,7 +55,7 @@ the older one, partly because each translator had his own views and
 partly because the texts themselves were not the same."
 
 Though the *Chêng yüan* <span id="img_04000"></span> ![](img/04000.jpg)
-as well as the *K‘ai yüan* <span id="fr_56"></span>[1](#fn_56) <span
+as well as the *K‘ai yüan* <span id="fr_56"></span>[1](#fn_56.md) <span
 id="img_04001"></span> ![](img/04001.jpg) catalogue affirm that the two
 translations were from the same text, this can only mean that they were
 not radically divergent. For if any two editions differ so slightly as
@@ -90,10 +90,10 @@ in footnotes.
 
 ### Footnotes
 
-<span id="fn_54"></span>[38:1](taf12.htm#fr_54) Notice Açvaghosha's
+<span id="fn_54"></span>[38:1](taf12.htm#fr_54.md) Notice Açvaghosha's
 discussion with Puṇyayaças as above mentioned.
 
-<span id="fn_55"></span>[39:1](taf13.htm#fr_55) An inquiry has been made
+<span id="fn_55"></span>[39:1](taf13.htm#fr_55.md) An inquiry has been made
 by the present English translator as to whether the original Sanskrit
 copy could be found either in India or in Nepal; but Prof. Satis Chandra
 Âchâryya, of the Buddhist Text Society, Calcutta, with whom he has been
@@ -101,11 +101,11 @@ communicating on the subject, informs him that as far as India is
 concerned there is almost no hope of securing it, and also that his
 friend in Nepal has been unable so far to discover the original.
 
-<span id="fn_56"></span>[40:1](taf13.htm#fr_56) A catalogue of Buddhist
+<span id="fn_56"></span>[40:1](taf13.htm#fr_56.md) A catalogue of Buddhist
 books collected in the K'ai yüan period (A. D. 713-741) of the Tung
 Dynasty, by <span id="img_04003"></span> ![](img/04003.jpg) Chih-shang,
 A.D. 730. Its full name *K‘ai yüan shih chiao lu*. Twenty *fasciculi*.
 
 ------------------------------------------------------------------------
 
-[Next: Outlines of the ''Discourse on the Awakening of Faith.''](taf14)
+[Next: Outlines of the ''Discourse on the Awakening of Faith.''](taf14.md)

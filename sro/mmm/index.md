@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte.md)
 
 </div>
 
@@ -31,8 +31,8 @@ Masonry and Medieval Mysticism</h1>
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mmm00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mmm.txt.gz)
+[Contents](#contents)    [Start Reading](mmm00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mmm.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -57,16 +57,16 @@ topic should have a grasp of.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mmm00)  
-[Contents](mmm01)  
-[Introduction](mmm02)  
-[Towards the Hidden Sources of Masonry](mmm03)  
-[The Traditions of the Templars Revived in Masonry](mmm04)  
-[The Troubadours, the Singing Messengers from East to West](mmm05)  
+<span id="contents"></span> [Title Page](mmm00.md)  
+[Contents](mmm01.md)  
+[Introduction](mmm02.md)  
+[Towards the Hidden Sources of Masonry](mmm03.md)  
+[The Traditions of the Templars Revived in Masonry](mmm04.md)  
+[The Troubadours, the Singing Messengers from East to West](mmm05.md)  
 <span id="section_000"></span>
 
 ### The Heavenly Kingdom of the Holy Grail
 
-[Part I](mmm06)  
-[Part II.](mmm07)  
-[Part III.](mmm08)  
+[Part I](mmm06.md)  
+[Part II.](mmm07.md)  
+[Part III.](mmm08.md)  

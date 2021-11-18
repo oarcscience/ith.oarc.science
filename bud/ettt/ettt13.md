@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt12)  [Next](ettt14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt12)  [Next](ettt14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -145,7 +145,7 @@ exercises should be carried out alternatively.
 
 The Stong-ra practice is to visualize the body without the slightest
 shadow or obstruction as if one were seeing a clear rainbow.
-[Although](errata.htm#30) one's body cannot at this stage actually
+[Although](errata.htm#30.md) one's body cannot at this stage actually
 become (a body of rainbow), the stabilization of this visualization will
 enable the yogi to overcome the hazards—the nerve pains and prana
 pains—which he may encounter during his practice. Because of this
@@ -164,7 +164,7 @@ this instruction is quite sufficient.
 Though one may not find many accounts of the Stong-ra and physical
 exercises in the main Tantras, these are the pith-instructions taught by
 the masters. Furthermore, in the practice on
-Rtsa[56](ettt22.htm#an_n_nar:56)<span id="an_r_nar:56"></span> and prana
+Rtsa[56](ettt22.htm#an_n_nar:56.md)<span id="an_r_nar:56"></span> and prana
 it is sometimes difficult to attain Samadhi through the gentle or soft
 practice; therefore, the radical or strong practice is needed. In that
 case it is believed that these preparatory practices will minimize
@@ -184,7 +184,7 @@ beings, the teachings can be classified in three groups. First, the
 teaching that enables one to become the perfect Buddha in this very
 life; second, the teaching that enables one to become Buddha in the
 Bardo state; third, the teaching that enables one to become Buddha in
-future lives[57](ettt22.htm#an_n_nar:57)<span id="an_r_nar:57"></span>.
+future lives[57](ettt22.htm#an_n_nar:57.md)<span id="an_r_nar:57"></span>.
 From the viewpoint of the nature of the practice, the teaching can be
 divided into the ordinary Perfecting Yoga, and the outstanding
 betterment practice of the Perfecting Yoga The latter is not usually
@@ -199,10 +199,10 @@ preaching the Tantra do accept this type of teaching.
 Marpa said:
 
 "From the great master Naropa, the
-guard[58](ettt22.htm#an_n_nar:58)<span id="an_r_nar:58"></span>,  
+guard[58](ettt22.htm#an_n_nar:58.md)<span id="an_r_nar:58"></span>,  
  I have heard the profound *Tantra of Hevajra*  
  I also received the pith-instruction of joining, transformation and
-unification[59](ettt22.htm#an_n_nar:59)<span id="an_r_nar:59"></span>  
+unification[59](ettt22.htm#an_n_nar:59.md)<span id="an_r_nar:59"></span>  
  (*Bsre, rpo, nrtsams-sbyor*).  
  Especially have I learned the teaching of Heat Yoga and Karmayoga.  
  Thus, for me, was the essence of the teachings of the Whisper
@@ -222,7 +222,7 @@ Again Marpa said:
  Ye-shes-snying-po.  
  From him I heard the teaching of  
  Gsun-wa-*a*dus-b’a of the Father
-Tantra[60](ettt22.htm#an_n_nar:60)<span id="an_r_nar:60"></span>.  
+Tantra[60](ettt22.htm#an_n_nar:60.md)<span id="an_r_nar:60"></span>.  
  And also received the pith-instructions  
  Of the Illusory Body and Great Light.  
  Thus have I learned the teaching of the  
@@ -237,13 +237,13 @@ teaching of the Path of the Five Steps of Gsun-wa-*a*dus-b’a. Thus Marpa
 learned the teaching of the Illusory Body and Great Light of
 Gsun-wa-*a*dus-b’a from both Ye-shes-snying-po and Naropa. As for the
 teaching of Transformation Yoga and Yoga of Entrance, he mainly derived
-them from the masterly [*Gdan-bzhi*](errata.htm#31) *Tantra*.
+them from the masterly [*Gdan-bzhi*](errata.htm#31.md) *Tantra*.
 
 According to the classification of the Six Yogas of Naropa, the yogas
 are: Heat Yoga, Yoga of Illusory Body, Light Yoga, Transformation Yoga,
 Yoga of Entrance and Bardo Yoga. Both the Dream Yoga and Bardo Yoga are
 ramifications of the Yoga of Illusory Body. It is better to appropriate
-the Light-of-Sleep[61](ettt22.htm#an_n_nar:61)<span
+the Light-of-Sleep[61](ettt22.htm#an_n_nar:61.md)<span
 id="an_r_nar:61"></span> to the Yoga of Illusory Body; also it is more
 convenient to classify the Transformation Yoga and the Yoga of Entrance
 as one. The pith-instruction of Milarepa stated:
@@ -259,7 +259,7 @@ Six Yogas is itself the Perfecting Yoga."
 
 Those who follow and hold the traditional instructions of the Marpa
 School all hold this opinion. Those who declare that there are other
-teachings more profound than [the](errata.htm#32) Six Yogas of Naropa,
+teachings more profound than [the](errata.htm#32.md) Six Yogas of Naropa,
 speak nonsense.
 
 Here it is proper to point out that, in general, the highest Perfecting
@@ -267,18 +267,18 @@ Yoga must first provide the method of inducing
 
 <span id="page_167">p. 167</span>
 
-the \[prana\] of the Roma and R-kyang[62](ettt22.htm#an_n_nar:62)<span
+the \[prana\] of the Roma and R-kyang[62](ettt22.htm#an_n_nar:62.md)<span
 id="an_r_nar:62"></span>, to enter the Central Channel. This teaching is
 indispensable, though there are a great many different methods given by
 accomplished yogis who relied on different Tantras. In this teaching (of
 Six Yogas), the method of meditating on the
-\[gTummo\][62a](ettt22.htm#an_n_nar:62a)<span id="an_r_nar:62a"></span>
-or the short. [*Ah*](errata.htm#33) at the Transformation Center of the
+\[gTummo\][62a](ettt22.htm#an_n_nar:62a.md)<span id="an_r_nar:62a"></span>
+or the short. [*Ah*](errata.htm#33.md) at the Transformation Center of the
 navel is used to gather the Live-Dynamic Prana into the Central Channel.
 Through the entrance of the air into the Central Channel, the four
 blisses are produced, and finally, the Mahamudra Innate Wisdom.
-[In](errata.htm#34) this profound Teaching of
-Skillfulness[63](ettt22.htm#an_n_nar:63)<span id="an_r_nar:63"></span>
+[In](errata.htm#34.md) this profound Teaching of
+Skillfulness[63](ettt22.htm#an_n_nar:63.md)<span id="an_r_nar:63"></span>
 is not relied on, but, instead, the practice of the Samadhi of
 Absolute-No-Thought, the Yogi will reach the state of Mind-Consolidation
 in which bliss, illumination, and non-thought are experienced. This
@@ -288,14 +288,14 @@ experiences of it. It is by no means special; therefore, it is of great
 importance that one should not confuse the teaching of this
 Mind-Consolidation state with the special Tantric Skillful Path. This
 view can be verified by the instance of Gampopa's \[Sgam-po-pa\] meeting
-with Milarepa. [When](errata.htm#35) Gampopa first met Milarepa, he told
+with Milarepa. [When](errata.htm#35.md) Gampopa first met Milarepa, he told
 Milarepa that he was able to remain in Samadhi with perfect
 concentration for many days in a single period. But Milarepa told him
 that no butter can be produced by squeezing the sand; moreover, the
 Samadhi he had engaged in was by no means enough. Milarepa then told him
 that he should practice the Small *Ah* of Life-Energy of the Heat Yoga.
 One should well understand this important
-point[64](ettt22.htm#an_n_nar:64)<span id="an_r_nar:64"></span>.
+point[64](ettt22.htm#an_n_nar:64.md)<span id="an_r_nar:64"></span>.
 
 We have always heard it said that the teaching of Heat Yoga of the
 Kargyutpa is the very best; however, this
@@ -368,7 +368,7 @@ Clear Words. (3) The practice of Vase-Breathing.
 
 Meditation on the Three Pillars: Visualize clearly that sitting in the
 front sky are the Chief Gurus and the Succession Gurus, together with
-the Goddess and the Brave ones[65](ettt22.htm#an_n_nar:65)<span
+the Goddess and the Brave ones[65](ettt22.htm#an_n_nar:65.md)<span
 id="an_r_nar:65"></span>. To them render the comprehensive offerings
 without the slightest regard for one's own possessions. Then pray to
 them in general terms many times; especially on this occasion one should
@@ -378,11 +378,11 @@ purpose of enabling all the mother-like sentient beings to become the
 perfect Buddha Rdo-rje-chang that he now practices the Heat Yoga. One
 should put all one's heart into thinking of the Bodhi-Heart. Then
 visualize, clearly and vividly, the image of the
-self-Buddha[66](ettt22.htm#an_n_nar:66)<span id="an_r_nar:66"></span>.
+self-Buddha[66](ettt22.htm#an_n_nar:66.md)<span id="an_r_nar:66"></span>.
 Thus the foundation of Samadhi is laid.
 
 The Yogi should put on the
-meditation-belt[67](ettt22.htm#an_n_nar:67)<span
+meditation-belt[67](ettt22.htm#an_n_nar:67.md)<span
 id="an_r_nar:67"></span>, cross his legs (in the sitting posture), hold
 his spine erect, slightly bend his chin, and rest naturally the eyes.
 The tongue slightly touches the upper palate, the teeth and lips rest
@@ -396,7 +396,7 @@ Left Channels. They are situated in a parallel position, and the Central
 Channel extends from the place below the navel up to the top of the
 head, as the supporting pillar of the four Chakras.
 
-The reason for [meditating](errata.htm#36) in such a manner is to lead
+The reason for [meditating](errata.htm#36.md) in such a manner is to lead
 the pranas to enter into the Central Channel. Three different
 
 <span id="page_171">p. 171</span>
@@ -573,7 +573,7 @@ being) enters into the object. He
 <span id="page_176">p. 176</span>
 
 should never visualize the object as if he merely sees it before
-him[68](ettt22.htm#an_n_nar:68)<span id="an_r_nar:68"></span>. For the
+him[68](ettt22.htm#an_n_nar:68.md)<span id="an_r_nar:68"></span>. For the
 correct practice, mind and object become as one; thus the experience of
 the unification of mind and Thig-le will come to pass, and, the
 gathering of the prana will become easy. In the practice of this
@@ -591,7 +591,7 @@ objects.
 
 The purpose of practicing the Heat Yoga is to produce the Four Blisses.
 When the Bodhi-Heart in the nerves begins melting and the two
-pranas[69](ettt22.htm#an_n_nar:69)<span id="an_r_nar:69"></span> start
+pranas[69](ettt22.htm#an_n_nar:69.md)<span id="an_r_nar:69"></span> start
 gathering at the head Chakra, the (first) Bliss \[ananda\] begins to
 arise. Thereafter, the Bodhi-Heart begins to disperse into the nerves.
 When the Bodhi-Heart gathers at the Throat Center the (second)
@@ -600,7 +600,7 @@ again through the different nerves, and when it is gathered at the Heart
 Center, the (third) Superb Bliss \[viramananda\] arises. Again, the
 Bodhi-Hearth disperses through the nerves, and when it is gathered at
 the Navel Center, the (fourth) Innate Bliss \[sahajananda\] arises <span
-id="fr_9"></span>[\*](#fn_9). Following this
+id="fr_9"></span>[\*](#fn_9.md). Following this
 
 <span id="page_177">p. 177</span>
 
@@ -625,7 +625,7 @@ at the Throat Center, the place through which
 
 the Right Channel multiplies the blood-element, can be stabilized, the
 secretion of the Dumo which comes from the Navel Center will produce
-great power. <span id="fr_10"></span>[\*](#fn_10) Consequently, it will
+great power. <span id="fr_10"></span>[\*](#fn_10.md) Consequently, it will
 promote and improve the practice of Dream Yoga. The Heart Center is the
 center of light. If the *Hūṃ* word at the heart center is stabilized the
 great light will unfold. Meditation on the Heart Center will help the
@@ -636,7 +636,7 @@ through it the Left Channel multiplies the fluid. From the Navel Center
 the White-Bodhi-Heart revitalizes the whole body. Furthermore, this
 center is the special place where the Dumo resides. It is well known
 that the Navel Center is the place where the fire, that melts the
-Bodhi-Heart, is kindled. <span id="fr_11"></span>[\*\*](#fn_11)
+Bodhi-Heart, is kindled. <span id="fr_11"></span>[\*\*](#fn_11.md)
 
 It is of great importance that the yogi should acquaint himself with the
 teaching of the meditation on the Chakras and their words. Until all the
@@ -661,7 +661,7 @@ collected. This is stated in the *Tantra of Bde-Mchog* and the
 During the practice of Vase-Breathing, the yogi should also meditate on
 the four words in the four Chakras. This is taught by the great
 accomplished yogis the Black-Practitioner, Lawaba, and Ocean-Born, as
-well as in many [holy](errata.htm#37) scriptures, especially in those
+well as in many [holy](errata.htm#37.md) scriptures, especially in those
 important pith-instructions of the Perfecting Yoga given in the Tantras.
 But that the four words should all be visualized, is not given, even in
 the instruction of Vase-Breathing Practice in the Whisper Teaching.
@@ -699,7 +699,7 @@ practice this breathing exercise is the time when the air runs equally
 breathing practice should be carried on day and night." In order to make
 the proper time explicit, this instruction is given first.
 
-In general, the prana[70](ettt22.htm#an_n_nar:70)<span
+In general, the prana[70](ettt22.htm#an_n_nar:70.md)<span
 id="an_r_nar:70"></span> is the essence of the expression of the
 Buddhas. In this practice the exercise should be carried out when most
 of the Lotus-Shelter-Air ascends. This is stated in the Lotus Commentary
@@ -724,7 +724,7 @@ the air enters into the Central Channel with a "Whoosh."
 
 At this time the yogi should swallow the spittle in the mouth and press
 the upper air down and pull the lower air up from both the lower
-gates[71](ettt22.htm#an_n_nar:71)<span id="an_r_nar:71"></span> to the
+gates[71](ettt22.htm#an_n_nar:71.md)<span id="an_r_nar:71"></span> to the
 small *Ah* word. Then the yogi should concentrate on his visualizations
 and hold his breath as long as he can. The holy Pag-mo-grub-pa said in
 his instructions-stanza: "From the Right and Left Channels the air
@@ -750,9 +750,9 @@ times. These sayings are wrongfully given through ignorance of the
 
 <span id="page_182">p. 182</span>
 
-[essence](errata.htm#38) of Vase-Breathing practice. The right practice
+[essence](errata.htm#38.md) of Vase-Breathing practice. The right practice
 is to combine the Live-Prana above the navel with the Tur Sel
-Prana[71a](ettt22.htm#an_n_nar:71a)<span id="an_r_nar:71a"></span> below
+Prana[71a](ettt22.htm#an_n_nar:71a.md)<span id="an_r_nar:71a"></span> below
 the navel. As the *Dom Gyun Tantra* says:
 
 "The up-going air and the down-going air  
@@ -778,7 +778,7 @@ some say the yogi should visualize the whole body full of Prana; some
 say the Prana should be visualized only full above the Heart Center or
 above the Throat Center. These instructions are unsound—because the true
 and sound teaching is to visualize the small *Ah* word whereupon the two
-pranas unite <span id="fr_12"></span>[\*](#fn_12). There
+pranas unite <span id="fr_12"></span>[\*](#fn_12.md). There
 
 <span id="page_183">p. 183</span>
 
@@ -869,7 +869,7 @@ Samadhi will increase, and a perfect Samadhi will be obtained.
 
 ### Footnotes
 
-<span id="fn_9"></span>[176:\*](ettt13.htm#fr_9) We have inserted the
+<span id="fn_9"></span>[176:\*](ettt13.htm#fr_9.md) We have inserted the
 four technical Sanskrit terms.
 
 The *Hevajra Tantra* states also the alternative tradition of this
@@ -890,11 +890,11 @@ proper position for the Highest or Innate Bliss is seen at once to he
 third, placing it in direct correspondence with the Heart Center, where
 it uniquely belongs.—*Ed*.
 
-<span id="fn_10"></span>[178:\*](ettt13.htm#fr_10) We would rather say,
+<span id="fn_10"></span>[178:\*](ettt13.htm#fr_10.md) We would rather say,
 as better agreeing with practice: Which comes from the Heart Center, and
 in mediated through the Navel Center. *Ed*.
 
-<span id="fn_11"></span>[178:\*\*](ettt13.htm#fr_11) Both from
+<span id="fn_11"></span>[178:\*\*](ettt13.htm#fr_11.md) Both from
 conversations with other practitioners of yoga and from personal
 experience, the editor can unequivocally state that the greatest heat
 (gTum-mo) can be generated and more easily controlled through the use of
@@ -904,7 +904,7 @@ were, and as a distribution point—but not bestowing any direct attention
 on the navel per se. Even on a cold night the bodily heat thus generated
 with comparative simplicity is pervasive and intense.—*Ed*.
 
-<span id="fn_12"></span>[182:\*](ettt13.htm#fr_12) There is a third and
+<span id="fn_12"></span>[182:\*](ettt13.htm#fr_12.md) There is a third and
 synthesizing view and doctrine here not mentioned in the text; namely,
 to maintain the conscious concentration of the prana at the heart
 center, letting that center be the means for the (unconscious) command
@@ -914,6 +914,6 @@ to the Navel Center for its (the prana's) distribution.—*Ed*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five: The Art Of Gtum-Mo or Heat Yoga](ettt14)
+[Next: Chapter Five: The Art Of Gtum-Mo or Heat Yoga](ettt14.md)
 
 </div>

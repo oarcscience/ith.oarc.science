@@ -1,8 +1,8 @@
-[Sacred-Texts](../../index)  [Neo-Paganism](../index)  [Index](index) 
+[Sacred-Texts](../../index)  [Neo-Paganism](../index)  [Index](index.md) 
 
 ------------------------------------------------------------------------
 
-[1928 Introduction](#1)  [1948 Introduction](#2) 
+[1928 Introduction](#1)  [1948 Introduction](#2.md) 
 
 ------------------------------------------------------------------------
 

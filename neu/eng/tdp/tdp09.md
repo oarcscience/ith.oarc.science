@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](tdp08)  [Next](tdp10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](tdp08)  [Next](tdp10.md) 
 
 ------------------------------------------------------------------------
 
@@ -311,4 +311,4 @@ to run into danger.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX: The Lost Path.--The Pixies'
-Revel.--Conclusion](tdp10)
+Revel.--Conclusion](tdp10.md)

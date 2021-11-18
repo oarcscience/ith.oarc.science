@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm32)  [Next](wsm34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm32)  [Next](wsm34.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ go over there and see."
 Coyote went out to find the seeds and met two girl cousins, two bear
 cubs. They looked like twins. They were gathering seeds. Coyote talked
 to them for a little while. Then he choked both of them; they
-died. <span id="fr_35"></span>[36](#fn_35) He laid them side by side and
+died. <span id="fr_35"></span>[36](#fn_35.md) He laid them side by side and
 covered them up with a rabbit-skin blanket. Then he started to gather
 seeds.
 
@@ -132,10 +132,10 @@ wolves or bears on Tin Mountain now.
 
 ### Footnotes
 
-<span id="fn_35"></span>[294:36](wsm33.htm#fr_35) M. S. intimated that
+<span id="fn_35"></span>[294:36](wsm33.htm#fr_35.md) M. S. intimated that
 the girls rebuffed Coyote's amorous advances, which caused him to kill
 them.
 
 ------------------------------------------------------------------------
 
-[Next: Pole Cat, Takadoa, and Hawk (Elko, Nevada, Shoshoni)](wsm34)
+[Next: Pole Cat, Takadoa, and Hawk (Elko, Nevada, Shoshoni)](wsm34.md)

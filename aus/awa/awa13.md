@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa12)  [Next](awa14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa12)  [Next](awa14.md) 
 
 ------------------------------------------------------------------------
 
@@ -237,4 +237,4 @@ you big fellow lie tell'em.
 
 ------------------------------------------------------------------------
 
-[Next: Religion and Mythology](awa14)
+[Next: Religion and Mythology](awa14.md)

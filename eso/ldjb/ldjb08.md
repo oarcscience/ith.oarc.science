@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb07)  [Next](ldjb09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb07)  [Next](ldjb09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -42,7 +42,7 @@ thereby constituting Himself a created being, assumed a threefold
 aspect, which gave rise to three different self-conscious divine powers,
 called "archangels," representing the three types of the Holy Trinity.
 The angels or powers are called Michael, Lucifer, and Uriel. <span
-id="fr_9"></span>[1](#fn_9)
+id="fr_9"></span>[1](#fn_9.md)
 
 <span id="page_102">p. 102</span>
 
@@ -52,7 +52,7 @@ highest in God, also He created three princes of angels (divine
 reflections of His own image) which are superior to all others."
 (*Aurora*, xii. 88.)
 
-"Michael represents God the Father. <span id="fr_10"></span>[1](#fn_10)
+"Michael represents God the Father. <span id="fr_10"></span>[1](#fn_10.md)
 This is not to be understood as if he were God the Father Himself; but
 there is among the created beings (the angels) one who represents God
 the Father. The circle or space wherein he with his angels is created is
@@ -340,7 +340,7 @@ holy." (*Aurora*, xix. 30.)
 is secure in God, then the devil desires to enter; but he is stopped, so
 that he cannot do what he wills. Whenever the soul imagines, and lustful
 desires begin to arise, then is the devil victorious." <span
-id="fr_11"></span>[1](#fn_11) (*Threefold Life*, xiv. 13.)
+id="fr_11"></span>[1](#fn_11) (*Threefold Life*, xiv. 13..md)
 
 "Each principle is attracted by, knows, and loves that which is like
 unto its own self. The principles existing within the periphery are
@@ -413,7 +413,7 @@ is the result of the experiences of its spirit—its "conscience."
 "In the principle of fire is the turning-point. There the will may move
 in whatever direction he chooses. If it desires the "Nothing," *i.e.*,
 freedom, it must sacrifice itself to the fire, and sink in the death of
-that principle. <span id="fr_12"></span>[1](#fn_12) Then the Father, the
+that principle. <span id="fr_12"></span>[1](#fn_12.md) Then the Father, the
 eternal Will to nature, will put it into the will of the Son; where for
 the great deal which that being has given, it will receive all; but not
 to its own honour, but for the glorification and power of God. When this
@@ -485,7 +485,7 @@ darkness (matter) wanted to become created (objective) in him."
 The very divine beauty, and the high power and authority with which
 Lucifer was invested, incited him to attempt to rise above God, instead
 of surrendering himself to Him in humility, <span
-id="fr_13"></span>[1](#fn_13) and thus he stimulated the activity of his
+id="fr_13"></span>[1](#fn_13.md) and thus he stimulated the activity of his
 sourcive spirits (latent principles) in an unnatural manner.
 
 "When the kingly body of Lucifer became corporified (organised), and his
@@ -534,7 +534,7 @@ out of the light and attempted to rule by the power of fire over the
 beatitude in the heart of God, in the same moment they were outside of
 God and in the four lower qualities of eternal nature. Thereby they were
 kept imprisoned in the abyss of hell." (*Threefold Life*, ii. 5 3) <span
-id="fr_14"></span>[1](#fn_14)
+id="fr_14"></span>[1](#fn_14.md)
 
 "The devil is not affected with any pain coming from the outside, but
 (the cause of all suffering) is in himself. This is the bell wherefrom
@@ -579,7 +579,7 @@ be above God and that there was no equal to it. Love was grown cold; the
 heart of God could not touch this perverted being. Whenever that heart,
 full of benevolence and loveliness, moved to meet it, the heart of the
 monster appeared dark, cold, hard, and fiery." <span
-id="fr_15"></span>[1](#fn_15) (*Aurora*, xiii. 40–47.)
+id="fr_15"></span>[1](#fn_15) (*Aurora*, xiii. 40–47..md)
 
 <span id="page_116">p. 116</span>
 
@@ -634,7 +634,7 @@ good, the whole army of heaven turned against him, and he likewise
 turned against everything. Then the battle began, and the arch-prince
 Michael with his legions fought against him, and the devil with his
 legions conquered not; but was driven away from his position as one who
-has been conquered." <span id="fr_16"></span>[1](#fn_16) (*Aurora*, xvi.
+has been conquered." <span id="fr_16"></span>[1](#fn_16.md) (*Aurora*, xvi.
 9.)
 
  
@@ -674,7 +674,7 @@ Lucifer is not yet completed, because in all things in this world there
 are love and wrath still residing together, and wrestling and battling
 with each other. Still those things or beings realise not the wrestling
 of light, but merely the wrestle of wrath." <span
-id="fr_17"></span>[1](#fn_17) (*Aurora*, xviii. 32.)
+id="fr_17"></span>[1](#fn_17) (*Aurora*, xviii. 32..md)
 
 "The hellish being is not yet fully manifest; the devils will have to
 wait for a still greater judgment. The sun and the water keep their
@@ -779,7 +779,7 @@ devil, the products of the devil are anger and hate." (See *Grace*, iv.
 
  
 
-An end of the hellish torment <span id="fr_18"></span>[1](#fn_18) is
+An end of the hellish torment <span id="fr_18"></span>[1](#fn_18.md) is
 inconceivable. Such an end would involve either a change of Lucifer's
 pride into humility, or a destruction of the whole work of creation.
 
@@ -793,60 +793,60 @@ hellish foundation (the will) in the devils refuses to permit."
 perish, unless the whole of creation would cease to exist and eternal
 nature in her own loveliness be extinguished. But in this case the
 kingdom of joy would be equally lost." (*Theosophical Questions*, v.
-3.) <span id="fr_19"></span>[2](#fn_19)
+3.) <span id="fr_19"></span>[2](#fn_19.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_9"></span>[101:1](ldjb08.htm#fr_9) Whether we call them by
+<span id="fn_9"></span>[101:1](ldjb08.htm#fr_9.md) Whether we call them by
 those names, or whether we adopt the names by which they are called in
 other theologies, will be of no consequence, and not alter the fact that
 such powers exist.
 
-<span id="fn_10"></span>[102:1](ldjb08.htm#fr_10) Jehovah.
+<span id="fn_10"></span>[102:1](ldjb08.htm#fr_10.md) Jehovah.
 
-<span id="fn_11"></span>[109:1](ldjb08.htm#fr_11) Therefore no man can
+<span id="fn_11"></span>[109:1](ldjb08.htm#fr_11.md) Therefore no man can
 resist, successfully resist the devil by fighting him on the same level,
 nor can any one overcome temptations in the end except by rising above
 them.
 
-<span id="fn_12"></span>[111:1](ldjb08.htm#fr_12) To "desire the
+<span id="fn_12"></span>[111:1](ldjb08.htm#fr_12.md) To "desire the
 Nothing" does not mean to become unconscious of everything, like a man
 when he goes to sleep, but it means "contentment," and a state of
 perfect rest and happiness found in the self-consciousness of being and
 possessing the All.
 
-<span id="fn_13"></span>[113:1](ldjb08.htm#fr_13) True humility does not
+<span id="fn_13"></span>[113:1](ldjb08.htm#fr_13.md) True humility does not
 consist in self-abasement, but in the entire sacrifice of one's lower
 self, whereby the power and the majesty of God become revealed in man.
 
-<span id="fn_14"></span>[114:1](ldjb08.htm#fr_14) Hell is created in man
+<span id="fn_14"></span>[114:1](ldjb08.htm#fr_14.md) Hell is created in man
 by the awakening of his lower qualities, whereby they attain
 self-consciousness and self-will, and refuse to obey the divine will in
 man.
 
-<span id="fn_15"></span>[115:1](ldjb08.htm#fr_15) The same is the case
+<span id="fn_15"></span>[115:1](ldjb08.htm#fr_15.md) The same is the case
 with every one who turns away from the light and seeks the darkness,
 until at last he becomes identified with the darkness, and can no longer
 separate himself from it.
 
-<span id="fn_16"></span>[117:1](ldjb08.htm#fr_16) It must not be
+<span id="fn_16"></span>[117:1](ldjb08.htm#fr_16.md) It must not be
 supposed that the good angels "made up their minds" to fight Lucifer,
 but this separation was according to natural laws, in the same sense as
 water is opposed to fire.
 
-<span id="fn_17"></span>[118:1](ldjb08.htm#fr_17) The good which we
+<span id="fn_17"></span>[118:1](ldjb08.htm#fr_17.md) The good which we
 receive is not recognised, because it causes no pain. No one complains
 about receiving more blessings than he merits; but the deserved evil
 which we receive causes suffering, and the unmerited evil is keenly
 resented.
 
-<span id="fn_18"></span>[121:1](ldjb08.htm#fr_18) The word "torment"
+<span id="fn_18"></span>[121:1](ldjb08.htm#fr_18.md) The word "torment"
 means here not necessarily "pain," but "consciousness." The "devil" does
 not suffer as long as he is in his own element.
 
-<span id="fn_19"></span>[121:2](ldjb08.htm#fr_19) That which has become
+<span id="fn_19"></span>[121:2](ldjb08.htm#fr_19.md) That which has become
 self-conscious in evil cannot be changed into good without first
 becoming unconscious of its own evil self; but if the being is wholly
 evil, such a complete death would also prevent the possibility of its
@@ -857,6 +857,6 @@ becoming conscious of good.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. The Restoration of Nature and the Generation of
-Man](ldjb09)
+Man](ldjb09.md)
 
 </div>

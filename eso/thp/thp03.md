@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](thp02) 
-[Next](thp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](thp02.md) 
+[Next](thp04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -705,7 +705,7 @@ that any difference between various powers of *x* disappears when they
 are compared with *x* multiplied into itself to infinity, because there
 can be no ratio between any determinate power, however high, and the
 infinite; and thus the relation between the individual and All-Being
-must always remain the same. <span id="fr_0"></span>[1](#fn_0)
+must always remain the same. <span id="fr_0"></span>[1](#fn_0.md)
 
 But this in no way interferes with the law of growth, by which the
 individual rises to higher and higher powers of his own individuality.
@@ -1131,9 +1131,9 @@ the Bond of Peace."
 
 ### Footnotes
 
-<span id="fn_0"></span>[26:1](thp03.htm#fr_0) X<sup>2</sup> :
+<span id="fn_0"></span>[26:1](thp03.htm#fr_0.md) X<sup>2</sup> :
 X<sup>n</sup> :: X<sup>10</sup> : X<sup>n</sup>.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Perversion of Truth](thp04)
+[Next: II. The Perversion of Truth](thp04.md)

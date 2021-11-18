@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth29)  [Next](doth31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth29)  [Next](doth31.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ of his duties, whether those commanded by his own Reason or by
 Scripture. Another is contemplation of the wonders of the universe and
 on the insignificance of man in comparison with even this earth, while,
 in comparison with the greatness of the Creator, the whole universe,
-even the highest sphere, <span id="fr_10"></span>[\*](#fn_9) is as
+even the highest sphere, <span id="fr_10"></span>[\*](#fn_9.md) is as
 nothing.
 
 If a man fills his mind with these and similar thoughts, he will be
@@ -41,7 +41,7 @@ to render an account."
 
 ### Footnotes
 
-<span id="fn_9"></span>[35:\*](doth30.htm#fr_10) In summarising, I have,
+<span id="fn_9"></span>[35:\*](doth30.htm#fr_10.md) In summarising, I have,
 here, been careful not to modernise the *form* of B's thought too much.
 Of course, its substance is as valid now as in the days of the
 Copernican astronomy.
@@ -50,6 +50,6 @@ Copernican astronomy.
 
 ------------------------------------------------------------------------
 
-[Next: The Charity of the Meek](doth31)
+[Next: The Charity of the Meek](doth31.md)
 
 </div>

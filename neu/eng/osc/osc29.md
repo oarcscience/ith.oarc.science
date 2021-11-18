@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc28)  [Next](osc30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc28)  [Next](osc30.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,4 +128,4 @@ the victory gained over the Powers of Darkness by the coming of Christ.
 
 ------------------------------------------------------------------------
 
-[Next: (27) Christmas Boxes](osc30)
+[Next: (27) Christmas Boxes](osc30.md)

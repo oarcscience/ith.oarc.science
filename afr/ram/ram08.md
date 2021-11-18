@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram07)  [Next](ram09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram07)  [Next](ram09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -131,7 +131,7 @@ increased knowledge of village affairs. They in that case could
 adapt their methods to the new conditions, and the end of that place
 would be worse than the first, for they would enter it clean swept of
 all effectual means of defence. So the Dinka and Bongo expel their
-devils by guile. <span id="fr_107"></span>[\*](#fn_107) There the
+devils by guile. <span id="fr_107"></span>[\*](#fn_107.md) There the
 exorcist begins by holding a conversation with the demon. He ascertains
 his name; how long he has been there; where he belongs to; his permanent
 residence; kinsfolk, acquaintances, and other particulars, all the while
@@ -155,7 +155,7 @@ to enter a stool, wooden pillow, or any other object that can
 
 <span id="page_104">p. 104</span>
 
-be easily carried about. <span id="fr_108"></span>[\*](#fn_108) This he
+be easily carried about. <span id="fr_108"></span>[\*](#fn_108.md) This he
 conveys to a safe place, where he can deal with the demon at will and
 prevent his re-entering the patient. He, poor beggar, standing on one
 leg propped against the tree, is either killed outright by noise and
@@ -164,7 +164,7 @@ recovers within a few days or even hours.
 
 When a Galla exorcist is called upon to exercise his powers over the
 unseen world, against any one of the eighty-eight demons that haunt the
-tribe, <span id="fr_109"></span>[†](#fn_109) he kills a goat, the
+tribe, <span id="fr_109"></span>[†](#fn_109.md) he kills a goat, the
 entrails of which he hangs about his neck. Thus arrayed, he carries in
 one hand a bell, which he rings "to waken the demon," and in the other a
 whip. After he has capered about for a time ringing his bell, he
@@ -193,7 +193,7 @@ he loves beads and gewgaws. As the merriment proceeds he thinks people
 are off their guard, and he looks at the stick. As he looks he becomes
 fascinated and leans towards it. Finally, he leaves the patient and
 enters the stick, when it is promptly pulled from the ground by the
-magician. <span id="fr_110"></span>[\*](#fn_110) What he does with the
+magician. <span id="fr_110"></span>[\*](#fn_110.md) What he does with the
 demon so tenderly treated the historian does not record. He probably
 mars all his previous kindness by throwing the stick, devil and all,
 into lake or river.
@@ -203,7 +203,7 @@ compared to those of the West Coast, where their expulsion wholesale, at
 stated intervals is a necessity of existence. So potent are they for
 evil that the people of Dahomey, who may in a few weeks thereafter expel
 them wholesale, sacrifice sheep and goats to them before sowing their
-crops. <span id="fr_111"></span>[†](#fn_111) If they neglected this
+crops. <span id="fr_111"></span>[†](#fn_111.md) If they neglected this
 precaution, so powerful are evil spirits, no corn would ripen, even
 should every demon be expelled before it comes into ear. Along the
 coast, where large towns have to be purged, the ceremonies are both
@@ -213,7 +213,7 @@ cows, and other animals are made,
 <span id="page_106">p. 106</span>
 
 and carefully covered over with cloth. Of these, one is set up before
-every house door. <span id="fr_112"></span>[\*](#fn_112) Each family
+every house door. <span id="fr_112"></span>[\*](#fn_112.md) Each family
 needs a figure, and the animals are selected from a supposed connection
 between them and the spirits of departed ancestors. Old Tiger-face's son
 would naturally select the animal whose name his father bore when taking
@@ -382,10 +382,10 @@ away down stream. "At Brunnen, in Switzerland, the boys
 go about in procession on Twelfth Night, carrying torches and lanterns,
 and making a great noise with horns, cowbells, and whips. This is said
 to frighten away two female spirits of the wood—Strudeli and
-Strätteli." <span id="fr_113"></span>[\*](#fn_113) These are but
+Strätteli." <span id="fr_113"></span>[\*](#fn_113.md) These are but
 illustrations of the simpler forms of a custom observed by all the
 peoples of Europe; a custom which in many cases became grafted on to the
-services of the Christian Church, <span id="fr_114"></span>[†](#fn_114)
+services of the Christian Church, <span id="fr_114"></span>[†](#fn_114.md)
 no man can tell how, but which clearly carry us back to an age when the
 peoples of Europe were, by painful experience, groping their way towards
 a knowledge of truth, as the Central African of to-day is undoubtedly
@@ -397,22 +397,22 @@ causes, and his own relation to these?
 
 ### Footnotes
 
-<span id="fn_107"></span>[103:\*](ram08.htm#fr_107) Schweinfurth.
+<span id="fn_107"></span>[103:\*](ram08.htm#fr_107.md) Schweinfurth.
 
-<span id="fn_108"></span>[104:\*](ram08.htm#fr_108) J. Thomson.
+<span id="fn_108"></span>[104:\*](ram08.htm#fr_108.md) J. Thomson.
 
-<span id="fn_109"></span>[104:†](ram08.htm#fr_109) Krapf.
+<span id="fn_109"></span>[104:†](ram08.htm#fr_109.md) Krapf.
 
-<span id="fn_110"></span>[105:\*](ram08.htm#fr_110) Krapf.
+<span id="fn_110"></span>[105:\*](ram08.htm#fr_110.md) Krapf.
 
-<span id="fn_111"></span>[105:†](ram08.htm#fr_111) Winterbotham.
+<span id="fn_111"></span>[105:†](ram08.htm#fr_111.md) Winterbotham.
 
-<span id="fn_112"></span>[106:\*](ram08.htm#fr_112) Waddell.
+<span id="fn_112"></span>[106:\*](ram08.htm#fr_112.md) Waddell.
 
-<span id="fn_113"></span>[112:\*](ram08.htm#fr_113) Usener, quoted by J.
+<span id="fn_113"></span>[112:\*](ram08.htm#fr_113.md) Usener, quoted by J.
 G. Frazer.
 
-<span id="fn_114"></span>[112:†](ram08.htm#fr_114) In Ross-shire there
+<span id="fn_114"></span>[112:†](ram08.htm#fr_114.md) In Ross-shire there
 is a common custom when drinking from a roadside spring to tie a hit of
 rag to a branch or tuft of grass. This I have heard explained as an
 offering to the spirit of the spring, while others say it is to ban evil
@@ -422,4 +422,4 @@ every grove and running stream.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Witchcraft](ram09)
+[Next: Chapter VII. Witchcraft](ram09.md)

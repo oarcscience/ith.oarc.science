@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe074)  [Next](prwe076) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe074)  [Next](prwe076.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ which they defeated the Danes.
 
 ------------------------------------------------------------------------
 
-[Next: Merlyn's Prophecies](prwe076)
+[Next: Merlyn's Prophecies](prwe076.md)

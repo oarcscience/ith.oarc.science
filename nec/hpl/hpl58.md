@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl57)  [Next](hpl59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl57)  [Next](hpl59.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ blossums and starred by red camalotes...
 
 ------------------------------------------------------------------------
 
-[Next: The Book (1938)](hpl59)
+[Next: The Book (1938)](hpl59.md)

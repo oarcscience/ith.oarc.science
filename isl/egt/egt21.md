@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt20)  [Next](egt22) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt20)  [Next](egt22.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ ignoble passions, *and come hither*.
 
 ------------------------------------------------------------------------
 
-[Next: OF THE RIGHT GUIDANCE](egt22)
+[Next: OF THE RIGHT GUIDANCE](egt22.md)

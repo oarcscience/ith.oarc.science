@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl38)  [Next](isl40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl38)  [Next](isl40.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Sunnī scholars) will bring the triumph of religion and herald the last
 judgment.
 
 They hold that ‘Alī was announced by Muhammad as his successor and
-[plenipotentiary](errata.htm#2) (*waṡī*), but that Abū Bakr, ‘Umar and
+[plenipotentiary](errata.htm#2) (*waṡī*.md), but that Abū Bakr, ‘Umar and
 ‘Uthmān deliberately deprived him of his rights. Repeatedly sinful men
 defrauded the Imāms of the "holy family," who foresaw and accepted their
 glorious but tragic destiny as the repositories of truth despised.
@@ -140,7 +140,7 @@ corruption . . . then they will,
 
 because of this, draw near to soundness and depart from corruptness . .
 . this idea is realized by the Imāmate. . . . <span
-id="fr_159"></span>[6](#fn_159)
+id="fr_159"></span>[6](#fn_159.md)
 
  
 
@@ -270,18 +270,18 @@ father of the Prophet. . . .
 41\. Our belief concerning the ‘Alawīya (descendants of ‘Alī) is that
 they are the progeny of the Messenger of God and devotion to them is
 obligatory (in) requital of his apostleship. . . <span
-id="fr_160"></span>[7](#fn_160)
+id="fr_160"></span>[7](#fn_160.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_159"></span>[231:6](isl39.htm#fr_159) *Al-Bābu-l-Hādī
+<span id="fn_159"></span>[231:6](isl39.htm#fr_159.md) *Al-Bābu-l-Hādī
 ‘Ashar*, trans. by W. E. Miller (London, 1958).
 
-<span id="fn_160"></span>[231:7](isl39.htm#fr_160) A. A. A. Fyzec, ed.
+<span id="fn_160"></span>[231:7](isl39.htm#fr_160.md) A. A. A. Fyzec, ed.
 and trans., *A Shi‘ite Creed* (London, 1942).
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Seveners](isl40)
+[Next: 4. The Seveners](isl40.md)

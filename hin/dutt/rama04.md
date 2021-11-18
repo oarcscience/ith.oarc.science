@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rama03)  [Next](rama05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rama03)  [Next](rama05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55Q4M/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55Q4M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Ramayana and Mahabharata*, by Romesh C. Dutt, \[1899\], at
 Intangible Textual Heritage
 
@@ -552,4 +552,4 @@ As the sun in midday splendour sinks within a bank of cloud!
 
 ------------------------------------------------------------------------
 
-[Next: Book V: On the Banks of the Godavari](rama05)
+[Next: Book V: On the Banks of the Godavari](rama05.md)

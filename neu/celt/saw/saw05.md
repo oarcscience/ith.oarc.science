@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](saw04)  [Next](saw06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](saw04)  [Next](saw06.md) 
 
 ------------------------------------------------------------------------
 
@@ -1177,4 +1177,4 @@ used to be on the flood-tide is all on the ebb to-day!"
 
 ------------------------------------------------------------------------
 
-[Next: Book Six. The Voyage of Brendan](saw06)
+[Next: Book Six. The Voyage of Brendan](saw06.md)

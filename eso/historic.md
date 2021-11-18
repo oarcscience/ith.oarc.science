@@ -1,10 +1,10 @@
-<span class="small">[Intangible Textual Heritage](../index)  [Esoteric
-Index](index) </span>
+<span class="small">[Intangible Textual Heritage](../index.md)  [Esoteric
+Index](index.md) </span>
 
 ------------------------------------------------------------------------
 
 This HTML version © 2001, [Hermetic Order of the Golden
-Dawn](https://www.hermeticgoldendawn.org/Documents/Archives/historic).
+Dawn](https://www.hermeticgoldendawn.org/Documents/Archives/historic.md).
 Used by Permission. All rights reserved.
 
 # Historic Lecture - Golden Dawn

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta31)  [Next](sta33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta31)  [Next](sta33.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,7 +143,7 @@ of ancient and accepted form. The Ark
 <span id="img_13300"></span>
 
 [![THE ANCIENT OF DAYS.](tn/13300.jpg)  
-Click to enlarge](img/13300.jpg)  
+Click to enlarge](img/13300.jpg.md)  
 THE ANCIENT OF DAYS.  
 
 From Montfaucon's *Antiquities*.
@@ -313,7 +313,7 @@ space for the fire. This altar signified
 <span id="img_13400"></span>
 
 [![ THE BREASTPLATE OF THE HIGH PRIEST.](tn/13400.jpg)  
-Click to enlarge](img/13400.jpg)  
+Click to enlarge](img/13400.jpg.md)  
 THE BREASTPLATE OF THE HIGH PRIEST.  
 
 From Calmet's *Dictionary of the Holy Bible*.
@@ -489,7 +489,7 @@ the ordinary priest.
 <span id="img_13500"></span>
 
 [![THE GARMENTS OF GLORY.](tn/13500.jpg)  
-Click to enlarge](img/13500.jpg)  
+Click to enlarge](img/13500.jpg.md)  
 THE GARMENTS OF GLORY.  
 
 From *Mosaize Historie der Hebreeuwse Kerke*.
@@ -643,7 +643,7 @@ drag the body out.
 <span id="img_13600"></span>
 
 [![ THE HEADDRESS OF THE PRIESTS.](tn/13600.jpg)  
-Click to enlarge](img/13600.jpg)  
+Click to enlarge](img/13600.jpg.md)  
 THE HEADDRESS OF THE PRIESTS.  
 
 From *Mosaize Historie der Hebreeuwse Kerke*.
@@ -657,7 +657,7 @@ the golden crown.
 <span id="img_13601"></span>
 
 [![ THE ARK WITH ITS CHERUBIM.](tn/13601.jpg)  
-Click to enlarge](img/13601.jpg)  
+Click to enlarge](img/13601.jpg.md)  
 THE ARK WITH ITS CHERUBIM.  
 
 From Calmet's *Dictionary of the Holy Bible*.
@@ -673,4 +673,4 @@ appearance, the famous Cherubim of Ezekiel.
 
 ------------------------------------------------------------------------
 
-[Next: The Fraternity of the Rose Cross](sta33)
+[Next: The Fraternity of the Rose Cross](sta33.md)

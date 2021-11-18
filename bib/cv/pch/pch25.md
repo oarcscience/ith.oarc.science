@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch24) 
-[Next](pch26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch24.md) 
+[Next](pch26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -23,7 +23,7 @@ to note that from the consummation of the Return the cult was jealously
 closed not only to the people of Samaria, who presumed to worship a
 Yahweh on their own sacred hill, but to the country people around who
 had been left behind by the Assyrian conqueror. <span
-id="fr_329"></span>[2](#fn_329) The sociological conditions were thus
+id="fr_329"></span>[2](#fn_329.md) The sociological conditions were thus
 such that, when the first force of the new conditions was spent,
 intellectual anchylosis was bound to set in. The learned class,
 devotedly absorbed in a literature regarded as divinely inspired, must
@@ -47,14 +47,14 @@ monotheism.
 What extension of speculative thought occurred was rather in the
 direction of dualism. The doctrine of the Adversary, developed either
 from the Persian Ahriman or the Babylonian figure of the Goat-God, <span
-id="fr_330"></span>[1](#fn_330) or else from both, begins to figure in
+id="fr_330"></span>[1](#fn_330.md) or else from both, begins to figure in
 the later writings; and, once dramatically installed in the brilliant
 book of Job, was sure to figure more and more in the general
 consciousness. All the while, the normal eastern ideas of multitudinous
 angels and evil spirits had never been absent, though they were
 denounced when associated with other cults; and in point of general
 superstition there can have been little to choose between Jew and
-Gentile. <span id="fr_331"></span>[2](#fn_331) On the side of the belief
+Gentile. <span id="fr_331"></span>[2](#fn_331.md) On the side of the belief
 in angels, again, the very desire to spiritualise and elevate the deity
 of the older traditions led to the imagining of new divine beings. Among
 the Samaritans, who, setting out with a Pentateuch, developed quite as
@@ -62,15 +62,15 @@ much zeal as had the Judeans for the God of Israel, the expression
 "angel of God" or "angels of God" was frequently substituted for "God"
 or "Gods" in Genesis; and the Chaldee paraphrasts did as much, at times
 adding further "the word of the Lord" or "the Shekinah" as a compromise
-where "angel" seemed inadequate. <span id="fr_332"></span>[3](#fn_332)
+where "angel" seemed inadequate. <span id="fr_332"></span>[3](#fn_332.md)
 Similarly the later Jews read "angels of God" where their sacred books
-inconveniently spoke of "Gods." <span id="fr_333"></span>[4](#fn_333) In
+inconveniently spoke of "Gods." <span id="fr_333"></span>[4](#fn_333.md) In
 the book of Nehemiah, yet again, we have the mention of the "Good
-Spirit" of God, <span id="fr_334"></span>[5](#fn_334) an idea apparently
-derived from Mazdeism, <span id="fr_335"></span>[6](#fn_335) and sure to
+Spirit" of God, <span id="fr_334"></span>[5](#fn_334.md) an idea apparently
+derived from Mazdeism, <span id="fr_335"></span>[6](#fn_335.md) and sure to
 set up a special divine concept. Such conceptions in all likelihood grew
 up by way of analogy from the phenomena of monarchical government <span
-id="fr_336"></span>[7](#fn_336) in which the "word" or "hands" or "eye"
+id="fr_336"></span>[7](#fn_336.md) in which the "word" or "hands" or "eye"
 of the autocrat became names for his chief functionaries or
 representatives.
 
@@ -85,16 +85,16 @@ which the Chief God is partially thwarted by
 
 the others. The difference is much more one of political habit and
 outlook than of either ethic or philosophy. The Jews derived from
-Babylon the idea of a Creator-God; <span id="fr_337"></span>[1](#fn_337)
+Babylon the idea of a Creator-God; <span id="fr_337"></span>[1](#fn_337.md)
 and if that be the valuable principle in monotheism their polytheistic
 kindred are entitled to the credit. So with the idea of a
-Supreme-God: <span id="fr_338"></span>[2](#fn_338) the Hebrew specialty
+Supreme-God: <span id="fr_338"></span>[2](#fn_338.md) the Hebrew specialty
 lay solely in putting a greater distance between God and Angels than did
 the Mesopotamian, and in rejecting (for the time being) the notions of
 triads and of a divine family. So little difference was there between
 the two states of mind that the Christian Fathers freely applied the
 term "Gods" to the Angels of the Judæo-Christian system. <span
-id="fr_339"></span>[3](#fn_339) For the rest, it is significant that the
+id="fr_339"></span>[3](#fn_339.md) For the rest, it is significant that the
 beginnings alike of rational science and of rational ethics were made,
 not among the Hebrew monotheists, but among Babylonian and Greek
 polytheists, who went far in cosmic and moral philosophy while the
@@ -111,14 +111,14 @@ approached nearer than the Jews ever did to the bare notion of a single
 (tribal) God, without "sons," or angels, or a Chosen One, and without an
 Adversary; and the ancient pantheists, tending as pantheism usually does
 to repass into theism, at times reached in that way a far purer form of
-monotheism <span id="fr_340"></span>[4](#fn_340) than that of the Hebrew
+monotheism <span id="fr_340"></span>[4](#fn_340.md) than that of the Hebrew
 books.
 
 While the creed, despite its rooted traditionalism, was thus of its own
 nature lapsing into new indirect forms of polytheism, the secular
 problem of political life was no more being solved in Jewry than
 elsewhere. In the day of the Restoration we already find the rich taking
-usury from the poor; <span id="fr_341"></span>[5](#fn_341) and in the
+usury from the poor; <span id="fr_341"></span>[5](#fn_341.md) and in the
 last of the canonical prophets we find crudely indicated the pressure of
 that deep doubt as to the God's good government which makes the theme of
 the book of Job. That the faithful deceive the deity and each other,
@@ -126,7 +126,7 @@ the book of Job. That the faithful deceive the deity and each other,
 <span id="page_88">p. 88</span>
 
 and that many despair of Yahweh's rule <span
-id="fr_342"></span>[1](#fn_342)—such are the testimonies of the closing
+id="fr_342"></span>[1](#fn_342.md)—such are the testimonies of the closing
 pages of the Old Testament. Only the cohesive power of ceremonialism,
 the unchanging pressure of popular superstition, and—last, but certainly
 not least—the economic success of the shrine, maintained the priestly
@@ -137,7 +137,7 @@ basis there would be partly maintained a considerable population of
 pauper devotees. Under such circumstances the high-priest, another
 Babylonian adaptation, was practically what the king had been in the
 past; and the post was intrigued for, and at a pinch murdered for, <span
-id="fr_343"></span>[2](#fn_343) like any other eastern throne.
+id="fr_343"></span>[2](#fn_343.md) like any other eastern throne.
 
 One indirect result of the priestly policy was the development of the
 faculty of the Jews for prospering in other lands. Placed as they were,
@@ -183,59 +183,59 @@ newly exultant faith emerged.
 
 ### Footnotes
 
-<span id="fn_329"></span>[85:2](pch25.htm#fr_329) 2 Kings xxiv, 14; xxv,
+<span id="fn_329"></span>[85:2](pch25.htm#fr_329.md) 2 Kings xxiv, 14; xxv,
 11-12.
 
-<span id="fn_330"></span>[86:1](pch25.htm#fr_330) Cp. *Christianity and
+<span id="fn_330"></span>[86:1](pch25.htm#fr_330.md) Cp. *Christianity and
 Mythology*, Part III, Div. i, § 10. The vision of the high-priest Joshua
 (Zech. iii, 1, 2) standing before "the angel of the Lord" (originally,
 no doubt, "the Lord," as in v. 2) with "the Satan" (= the Accuser or
 Adversary) on the right hand to accuse him, seems to me clearly
 Babylonian and not Persian.
 
-<span id="fn_331"></span>[86:2](pch25.htm#fr_331) See refs, in A *Short
+<span id="fn_331"></span>[86:2](pch25.htm#fr_331.md) See refs, in A *Short
 History of Freethought*, i, 120.
 
-<span id="fn_332"></span>[86:3](pch25.htm#fr_332) G. L. Bauer, *Theology
+<span id="fn_332"></span>[86:3](pch25.htm#fr_332.md) G. L. Bauer, *Theology
 of the Old Testament*, Eng. tr. 1837, p. 5.
 
-<span id="fn_333"></span>[86:4](pch25.htm#fr_333) Cp. Ps. xcvii, 7, 9,
+<span id="fn_333"></span>[86:4](pch25.htm#fr_333.md) Cp. Ps. xcvii, 7, 9,
 and Heb. i, 6.
 
-<span id="fn_334"></span>[86:5](pch25.htm#fr_334) Neh. ix, 20.
+<span id="fn_334"></span>[86:5](pch25.htm#fr_334.md) Neh. ix, 20.
 
-<span id="fn_335"></span>[86:6](pch25.htm#fr_335) See below, Part III, §
+<span id="fn_335"></span>[86:6](pch25.htm#fr_335.md) See below, Part III, §
 5.
 
-<span id="fn_336"></span>[86:7](pch25.htm#fr_336) Cp. Jastrow, *Religion
+<span id="fn_336"></span>[86:7](pch25.htm#fr_336.md) Cp. Jastrow, *Religion
 of Babylonia and Assyria*, p. 433.
 
-<span id="fn_337"></span>[87:1](pch25.htm#fr_337) Cp. Jastrow, pp.
+<span id="fn_337"></span>[87:1](pch25.htm#fr_337.md) Cp. Jastrow, pp.
 433-4, 441-2; Sayce, pp. 142, 205. "The knowledge that there is a
 supreme spiritual Being, unique in his nature, Creator and upholder of
 all things, is wholly wanting to ancient Israel" (Stade, *Geschichte des
 Volkes Israel*, p. 428).
 
-<span id="fn_338"></span>[87:2](pch25.htm#fr_338) Sayce pp. 122-129, 187
+<span id="fn_338"></span>[87:2](pch25.htm#fr_338.md) Sayce pp. 122-129, 187
 
-<span id="fn_339"></span>[87:3](pch25.htm#fr_339) See the point full set
+<span id="fn_339"></span>[87:3](pch25.htm#fr_339.md) See the point full set
 forth in J. A. Farrer's *Paganism and Christianity*, ch. i. Cp.
 *Supernatural Religion*, ed. 1902, in 71-80.
 
-<span id="fn_340"></span>[87:4](pch25.htm#fr_340) Le Page Renouf, while
+<span id="fn_340"></span>[87:4](pch25.htm#fr_340.md) Le Page Renouf, while
 pronouncing that the Egyptian doctrine of the one and only God "stopped
 short in Pantheism" (Hibbert Lectures, p. 230), admits that Egyptian
 doctrine better meets the definition of Cardinal Newman than any other
 (*Id*. pp. 215-216).
 
-<span id="fn_341"></span>[87:5](pch25.htm#fr_341) Neh, v, 6.
+<span id="fn_341"></span>[87:5](pch25.htm#fr_341.md) Neh, v, 6.
 
-<span id="fn_342"></span>[88:1](pch25.htm#fr_342) Malachi i, 7-8. 14;
+<span id="fn_342"></span>[88:1](pch25.htm#fr_342.md) Malachi i, 7-8. 14;
 ii, 8-10, 17; iii, 5, 8-14.
 
-<span id="fn_343"></span>[88:2](pch25.htm#fr_343) Josephus, 11 *Antiq.*
+<span id="fn_343"></span>[88:2](pch25.htm#fr_343.md) Josephus, 11 *Antiq.*
 vii, 41.
 
 ------------------------------------------------------------------------
 
-[Next: § 8. Revival and Disintegration](pch26)
+[Next: § 8. Revival and Disintegration](pch26.md)

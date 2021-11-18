@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd16)  [Next](bsd18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd16)  [Next](bsd18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -181,7 +181,7 @@ drawing near to the foreigners they saluted us in the same way, perhaps
 even with more deference; in each case the salutation was ceremoniously
 returned. Slowly and with great dignity the condemned man mounted on to
 the raised floor, prostrated himself before the high altar twice, and
-seated <span id="fr_20"></span>[1](#fn_20) himself on the felt carpet
+seated <span id="fr_20"></span>[1](#fn_20.md) himself on the felt carpet
 with his back to the high altar, the *kaishaku* crouching on his
 left-hand side. One of the three attendant officers then came forward,
 bearing a stand of the kind used in the temple for offerings, on which,
@@ -312,7 +312,7 @@ That I not one test may lack
 
 This, then, was the Bushido teaching--Bear and face all calamities and
 adversities with patience and a pure conscience; for, as Mencius <span
-id="fr_21"></span>[1](#fn_21) taught, "When Heaven is about to
+id="fr_21"></span>[1](#fn_21.md) taught, "When Heaven is about to
 
 <span id="page_124">p. 124</span>
 
@@ -434,10 +434,10 @@ may be
 <span id="page_130">p. 130</span>
 
 assigned as the act of a mind disordered by fanaticism, by madness, or
-by morbid excitement." <span id="fr_22"></span>[1](#fn_22) But a normal
+by morbid excitement." <span id="fr_22"></span>[1](#fn_22.md) But a normal
 *seppuku* does not savour of fanaticism, or madness or excitement,
 utmost *sang froid* being necessary to its successful accomplishment. Of
-the two kinds into which Dr. Strahan <span id="fr_23"></span>[2](#fn_23)
+the two kinds into which Dr. Strahan <span id="fr_23"></span>[2](#fn_23.md)
 divides suicide, the Rational or Quasi, and the Irrational or True,
 *seppuku* is the best example of the former type.
 
@@ -450,19 +450,19 @@ the sword the soul of the samurai.
 
 ### Footnotes
 
-<span id="fn_20"></span>[118:1](bsd17.htm#fr_20) Seated himself-that is,
+<span id="fn_20"></span>[118:1](bsd17.htm#fr_20.md) Seated himself-that is,
 in the Japanese fashion, his knees and toes touching the ground and his
 body resting on his heels. In this position, which is one of respect, he
 remained until his death.
 
-<span id="fn_21"></span>[123:1](bsd17.htm#fr_21) I use Dr. Legge's
+<span id="fn_21"></span>[123:1](bsd17.htm#fr_21.md) I use Dr. Legge's
 translation verbatim.
 
-<span id="fn_22"></span>[130:1](bsd17.htm#fr_22) Morselli, *Suicide*, p.
+<span id="fn_22"></span>[130:1](bsd17.htm#fr_22.md) Morselli, *Suicide*, p.
 314
 
-<span id="fn_23"></span>[130:2](bsd17.htm#fr_23) *Suicide and Insanity*.
+<span id="fn_23"></span>[130:2](bsd17.htm#fr_23.md) *Suicide and Insanity*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: The Sword, The Soul of the Samurai](bsd18)
+[Next: Chapter XIII: The Sword, The Soul of the Samurai](bsd18.md)

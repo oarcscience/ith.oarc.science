@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](pps00)  [Next](pps02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](pps00)  [Next](pps02.md) 
 
 ------------------------------------------------------------------------
 
@@ -587,4 +587,4 @@ hell. 15
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](pps02)
+[Next: 51-100](pps02.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](aww01)  [Next](aww03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](aww01)  [Next](aww03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Art of Worldly Wisdom*, by Balthasar Gracian, tr. by Joseph Jacobs,
 \[1892\], at Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ the *Oráculo Manual* towards the end of the first volume (pp. 431-494).
 
 I have translated from this last, referring in the many doubtful places
 of its text to the first Madrid edition of 1653, the earliest in the
-British Museum. I have [throughout](errata.htm#0) had Schopenhauer's
+British Museum. I have [throughout](errata.htm#0.md) had Schopenhauer's
 version by my side, and have
 
 <span id="page_viii">p. viii</span>
@@ -75,4 +75,4 @@ JOSEPH JACOBS.
 
 ------------------------------------------------------------------------
 
-[Next: Testimonia](aww03)
+[Next: Testimonia](aww03.md)

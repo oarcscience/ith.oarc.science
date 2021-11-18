@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck29)  [Next](peck31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck29)  [Next](peck31.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ looking star which we call Aldebaran.
 
 ------------------------------------------------------------------------
 
-[Next: A Bird Legend](peck31)
+[Next: A Bird Legend](peck31.md)

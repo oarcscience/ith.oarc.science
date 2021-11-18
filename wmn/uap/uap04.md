@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](uap03) 
-[Next](uap05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](uap03.md) 
+[Next](uap05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -591,4 +591,4 @@ contempt.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4. Elodia](uap05)
+[Next: Chapter 4. Elodia](uap05.md)

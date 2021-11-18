@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift11) 
-[Next](ift13) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift11.md) 
+[Next](ift13.md) 
 
 ------------------------------------------------------------------------
 
 # Harisarman
 
 <span id="img_37"></span> [![](tn/37.jpg)  
-Click to enlarge](img/37.jpg)
+Click to enlarge](img/37.jpg.md)
 
 <span id="img_36"></span> ![](img/36.jpg)HERE was a certain Brahman in a
 *certain* village, named Harisarman. He was poor and foolish and in evil
@@ -118,4 +118,4 @@ prospered in the world.
 
 ------------------------------------------------------------------------
 
-[Next: The Charmed Ring](ift13)
+[Next: The Charmed Ring](ift13.md)

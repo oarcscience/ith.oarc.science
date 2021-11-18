@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp15)  [Next](orrp17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp15)  [Next](orrp17.md) 
 
 ------------------------------------------------------------------------
 
@@ -171,13 +171,13 @@ general, and that it must have dated back to a much earlier period. As a
 matter of fact a dedication has been found at Delos, reading Διὶ τῷ
 πάντων κρατοῦντι καὶ Μητρὶ μεγάληι τῆι πάντων κρατούσῃ (*Bull. corr.
 hellén.*, 1882, p. 502, No. 25), that reminds the reader of the
-παντοκράτωρ of the [Septuagint](errata.htm#7); and Graillot (*loc.
+παντοκράτωρ of the [Septuagint](errata.htm#7.md); and Graillot (*loc.
 cit.*, p. 328, n. 7) justly observes, in this connection, that on
 certain bas-reliefs Cybele was united with the Theos Hypsistos, that is
 to say, the god of Israel; see Perdrizet, *Bull. corr. hell.*, XXIII,
 1899, p. 598. On the influence of Judaism on the cult of Men cf. Sam.
 Wide, *Archiv für Religionsw.*, 1909, p. 227.--On the omnipotence of the
-Syrian gods, see ch. V, pp. [128](orrp09.htm#page_128) ff.
+Syrian gods, see ch. V, pp. [128](orrp09.htm#page_128.md) ff.
 
 <span id="xref_3_31">3\_31</span>. We are here giving the substance of a
 short essay on "Les mystères de Sabazius et le judeïsme," published in
@@ -223,7 +223,7 @@ hilt (*mora*; cf. Grattius, *Cyneg.*, 110) to prevent the blade from
 entering too far.
 
 <span id="xref_3_36">3\_36</span>. Hepding, pp. 196 ff.; cf. *supra*, n.
- [3\_21](orrp16.htm#xref_3_21).
+ [3\_21](orrp16.htm#xref_3_21.md).
 
 <span id="xref_3_37">3\_37</span>. *CIL*, VI, 510, = Dessau, *Inscr.
 sel.*, 4152. Cf. Gruppe, *Griech. Myth.*, p. 1541, n. 7.
@@ -253,4 +253,4 @@ ed.) shows that this was asserted even in antiquity.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Egypt](orrp17)
+[Next: IV. Egypt](orrp17.md)

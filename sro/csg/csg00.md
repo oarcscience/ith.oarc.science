@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Next](csg01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Next](csg01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ United States because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](csg01)
+[Next: Contents](csg01.md)

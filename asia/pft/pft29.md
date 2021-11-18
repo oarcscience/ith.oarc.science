@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft28)  [Next](pft30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft28)  [Next](pft30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 *Igorot*
 
-One day when Lumawig,  <span id="fr_99"></span>[100](pft68.htm#fn_99)
+One day when Lumawig,  <span id="fr_99"></span>[100](pft68.htm#fn_99.md)
 the Great Spirit, looked down from his place in the sky he saw two
 sisters gathering beans. And he decided to go down to visit them. When
 he arrived at the place he asked them what they were doing. The younger,
@@ -33,7 +33,7 @@ Then Lumawig said to the older sister:
 
 And when she had given it to him, he shelled it into the basket and
 immediately the basket was full.  <span
-id="fr_100"></span>[101](pft68.htm#fn_100) The younger sister laughed at
+id="fr_100"></span>[101](pft68.htm#fn_100.md) The younger sister laughed at
 this, and Lumawig said to her:
 
 "Give me another pod and another basket."
@@ -143,7 +143,7 @@ Then they quarreled and were very angry and Lumawig said to the people,
 "Let us sit down and rest."
 
 While they rested, Lumawig struck the rock with his spear and water came
-out.  <span id="fr_101"></span>[102](pft68.htm#fn_101) The
+out.  <span id="fr_101"></span>[102](pft68.htm#fn_101.md) The
 brother-in-law jumped up to get a drink first, but Lumawig held him back
 and said he must be the last to drink. So they all drank, and when they
 had finished, the brother-in-law stepped up, but Lumawig gave him a push
@@ -154,10 +154,10 @@ great deal." And they went home, leaving him in the rock.
 
 Some time after this Lumawig decided to go back to the sky to live, but
 before he went he took care that his wife should have a home. He made a
-coffin of wood  <span id="fr_102"></span>[103](pft68.htm#fn_102) and
+coffin of wood  <span id="fr_102"></span>[103](pft68.htm#fn_102.md) and
 placed her in it with a dog at her feet and a cock at her head. And as
 he set it floating on the water,  <span
-id="fr_103"></span>[104](pft68.htm#fn_103) he told it not to stop until
+id="fr_103"></span>[104](pft68.htm#fn_103.md) he told it not to stop until
 it reached Tinglayen. Then, if the foot end struck first, the dog should
 bark; and if the head end was the first to strike, the cock should crow.
 So it floated away, and on and on, until it came to Tinglayen.
@@ -170,4 +170,4 @@ and then as he had no wife of his own, he married her.
 
 ------------------------------------------------------------------------
 
-[Next: How the First Head was Taken](pft30)
+[Next: How the First Head was Taken](pft30.md)

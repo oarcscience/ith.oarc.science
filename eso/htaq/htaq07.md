@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](htaq06)  [Next](htaq08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](htaq06)  [Next](htaq08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hidden Treasures of the Ancient Qabalah*, by Elias Gewurz, \[1918\], at
 Intangible Textual Heritage
 
@@ -212,4 +212,4 @@ new name which no one knoweth save him who receiveth it."
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Peace That Passeth Understanding](htaq08)
+[Next: VI. The Peace That Passeth Understanding](htaq08.md)

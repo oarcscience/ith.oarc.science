@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey17)  [Next](grey19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey17)  [Next](grey19.md) 
 
 ------------------------------------------------------------------------
 
@@ -605,4 +605,4 @@ Ngatipaoa tribe who are now alive (in 1853).
 
 ------------------------------------------------------------------------
 
-[Next: The Two Sorcerers](grey19)
+[Next: The Two Sorcerers](grey19.md)

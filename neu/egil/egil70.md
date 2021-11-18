@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil69)  [Next](egil71) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil69)  [Next](egil71.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ Thorgerdr was the eldest of the children, Bera the next.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXX. Egil goes abroad.](egil71)
+[Next: CHAPTER LXX. Egil goes abroad.](egil71.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Wicca and
-Paganism](../index)  [Index](index)  [Previous](kjd08)  [Next](kjd10) 
+[Intangible Textual Heritage](../../index.md)  [Wicca and
+Paganism](../index)  [Index](index)  [Previous](kjd08)  [Next](kjd10.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ Wright.
 
 ------------------------------------------------------------------------
 
-[Next: To the Reader](kjd10)
+[Next: To the Reader](kjd10.md)

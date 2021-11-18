@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar074) [Next](gbar076)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar074) [Next](gbar076.md)
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ good in order to overcome it.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar076)
+[Next](gbar076.md)

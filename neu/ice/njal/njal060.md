@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal059)  [Next](njal061) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal059)  [Next](njal061.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ So the Easterling joined himself to their band.
 
 ------------------------------------------------------------------------
 
-[Next: 61. Gunnar's Dream](njal061)
+[Next: 61. Gunnar's Dream](njal061.md)

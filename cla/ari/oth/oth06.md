@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth05)  [Next](oth07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth05)  [Next](oth07.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ of infinity. First, however, let us treat of the infinite universally.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7](oth07)
+[Next: Chapter 7](oth07.md)

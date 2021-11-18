@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Islamic
-Articles](../../isl/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Islamic
+Articles](../../isl/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -109,12 +109,12 @@ Arabic language, like the Syrian, the word Nabi is used for prophets,
 including the prophet Jesus, who is of course enormously important in
 Islam. This story has no overtly Christian content, but it is well known
 in Islamic lore, and is also reproduced in the book *Christ in Islam*,
-[selection A., 54](../../isl/cii/cii.htm#A54), p. 97.--CMW}</span>
+[selection A., 54](../../isl/cii/cii.htm#A54.md), p. 97.--CMW}</span>
 
  
 
 A LEGEND OF NABI ISA.<span
-id="page_500_fr_*"></span>[\*](#page_500_note_*)
+id="page_500_fr_*"></span>[\*](#page_500_note_*.md)
 
    When Nabi Isa was traveling around the country to proclaim his
 religion there came a man to him who said, "Lord Nabi Isa! I wish very
@@ -223,7 +223,7 @@ world and in the next."
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Islamic Articles](../../isl/etc/index)
+[Journals](../index) [Islamic Articles](../../isl/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -231,7 +231,7 @@ world and in the next."
 
 <span id="footnotes_page_500">p. 500</span>
 
-<span id="page_500_note_*"></span>[\*](#page_500_fr_*) Translated from
+<span id="page_500_note_*"></span>[\*](#page_500_fr_*.md) Translated from
 the German of T. J. Bezemer by Lydia G. Robinson.
 
  

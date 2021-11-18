@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt08)  [Next](egt10) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt08)  [Next](egt10.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ anxiety. The preface ends with the praise of his generous friend.
 ------------------------------------------------------------------------
 
 [Next: The First Book of the <u>H</u>adîqatu'-l-H<u>a</u>qîqat of
-Sanâ'î.](egt10)
+Sanâ'î.](egt10.md)

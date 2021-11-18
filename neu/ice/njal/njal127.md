@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal126)  [Next](njal128) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal126)  [Next](njal128.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ the grave offence known in Scottish law as "hamesucken."
 
 ------------------------------------------------------------------------
 
-[Next: 128. Njal's Burning](njal128)
+[Next: 128. Njal's Burning](njal128.md)

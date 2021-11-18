@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio62)  [Next](dio64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio62)  [Next](dio64.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -234,7 +234,7 @@ Mysterion of Sacerdotal Consecrations.
 
 <span id="iv.iii.v-p19"></span>The Hierarch, then, being led to the
 Hierarchical consecration, after he has bent both his knees before the
-Altar, has upon his head <span id="fr_262"></span>[263](#fn_262) the
+Altar, has upon his head <span id="fr_262"></span>[263](#fn_262.md) the
 God-transmitted oracles, and the Hierarchical hand, and in this manner
 is consecrated by the Hierarch, who ordains him by the altogether most
 holy invocations. And the Priest, after he has bent both his knees
@@ -276,7 +276,7 @@ consecration, and that their <span id="page_133">p. 133</span> <span
 id="iv.iii.v-Page_133"></span>whole intellectual self, all pure and
 hallowed, approaches to Him, and that it is of one likeness, and, as far
 as possible, meet for the supremely Divine and altogether most holy,
-both Victim <span id="fr_263"></span>[264](#fn_263) and Altar, which
+both Victim <span id="fr_263"></span>[264](#fn_263.md) and Altar, which
 purifies, sacerdotally, the Godlike Minds.
 
 <span id="iv.iii.v-p26"></span>Section III.
@@ -326,7 +326,7 @@ with the ten, of the same rank and Hierarchy with himself, when he
 proceeded to the sacerdotal consecration of the twelfth of the
 disciples, piously left the selection to <span id="page_135">p.
 135</span> <span id="iv.iii.v-Page_135"></span>the Godhead, saying,
-"Shew <span id="fr_264"></span>[265](#fn_264) whom Thou hast chosen,"
+"Shew <span id="fr_264"></span>[265](#fn_264.md) whom Thou hast chosen,"
 and received him, who was divinely designated by the Divine lot, into
 the Hierarchical number of the sacred twelve. Now concerning the Divine
 lot, which fell as a Divine intimation upon Matthias, others have
@@ -408,17 +408,17 @@ id="iv.iii.v-Page_138"></span>
 
 ### Footnotes
 
-<span id="fn_262"></span>[131:263](dio63.htm#fr_262) <span
+<span id="fn_262"></span>[131:263](dio63.htm#fr_262.md) <span
 id="iv.iii.v-p19.1"></span>Ap. C. iv. s. 20; iv. s. 17; viii. s. 4.
 
-<span id="fn_263"></span>[133:264](dio63.htm#fr_263) <span
+<span id="fn_263"></span>[133:264](dio63.htm#fr_263.md) <span
 id="iv.iii.v-p25.1"></span>Christ.
 
-<span id="fn_264"></span>[135:265](dio63.htm#fr_264) <span
+<span id="fn_264"></span>[135:265](dio63.htm#fr_264.md) <span
 id="iv.iii.v-p31.1"></span><span id="iv.iii.v-p31.2"></span>[Acts i.
-24](../../bib/kjv/act001.htm#024)<span id="iv.iii.v-p31.2"></span>. Ap.
+24](../../bib/kjv/act001.htm#024.md)<span id="iv.iii.v-p31.2"></span>. Ap.
 C. p. 168.
 
 ------------------------------------------------------------------------
 
-[Next: Caput VI.](dio64)
+[Next: Caput VI.](dio64.md)

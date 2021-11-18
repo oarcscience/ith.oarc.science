@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp07)  [Next](hmvp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp07)  [Next](hmvp09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ sometimes twelve in number. She is supposed to be the impersonation of
 finiteness of earth." Another supposition is that Aditi is the
 personification of "universal, all-embracing Nature or Being." This
 latter idea seems to be the more correct from the following
-verses, <span id="fr_12"></span>[\*](#fn_12) where a man about to be
+verses, <span id="fr_12"></span>[\*](#fn_12.md) where a man about to be
 immolated says, "Of which god, now, of which of the immortals, shall we
 invoke the amiable name, who shall give us back to the great Aditi, that
 I may behold my father and my mother?" Whatever may have been intended
@@ -41,7 +41,7 @@ gracious, if we have committed any sin against you." "Whatever
 offence we have, oh Agni, through our folly committed against you, oh
 most youthful god, make us free from sins against Aditi." "Whatever sin
 we have committed, may Aditi sever us from it." <span
-id="fr_13"></span>[\*](#fn_13) Probably the term Aditi "the boundless,"
+id="fr_13"></span>[\*](#fn_13.md) Probably the term Aditi "the boundless,"
 was originally employed as an epithet of Dyauspitar, the Heaven-father.
 When the heavens came to be divided into a number of parts, over each of
 which a ruler was nominated, a mother was wanted for them, and the name
@@ -64,7 +64,7 @@ mother of Vivasat (the Sun). The sons of Aditi are termed
 ##### THE ĀDITYAS.
 
 This name signifies simply the descendants of Aditi. In one passage in
-the Rig-Veda <span id="fr_14"></span>[†](#fn_14) the names of six are
+the Rig-Veda <span id="fr_14"></span>[†](#fn_14.md) the names of six are
 given: Mitra, Aryaman, Bhaga, Varuna, Daksha and Amsa. In another
 passage they are said to be seven in
 
@@ -73,7 +73,7 @@ passage they are said to be seven in
 number, though their names are not given. In a third, eight is the
 number mentioned; but "of the eight sons of Aditi, who were born from
 her body, she approached the gods with seven, and cast out Mārttānda
-(the eighth)." <span id="fr_15"></span>[\*](#fn_15) As the names of
+(the eighth)." <span id="fr_15"></span>[\*](#fn_15.md) As the names of
 these sons given in different parts of the Vedas do not agree with each
 other, it is difficult to know who were originally regarded as Ādityas.
 Judging from the number of hymns addressed to them, some of these
@@ -84,12 +84,12 @@ the number of the Ādityas is increased to twelve. In addition to the six
 whose names are given above, the following are also described in some
 hymns of the Rig-Veda as the offspring of Aditi: Surya, "as an Āditya
 identified with Agni, is said to have been placed by the gods in the
-sky;" <span id="fr_16"></span>[†](#fn_16) Savitri, and Indra too, are in
+sky;" <span id="fr_16"></span>[†](#fn_16.md) Savitri, and Indra too, are in
 one passage addressed as an Āditya along with Varuna and the Moon. In
 the Taittiriya Texts, the following are described as Ādityas:—Mitra,
 Varuna, Aryaman, Amsu, Bhaga, Indra, and Vivasvat (Surya).
 
-Professor Roth says <span id="fr_17"></span>[‡](#fn_17) of these
+Professor Roth says <span id="fr_17"></span>[‡](#fn_17.md) of these
 deities, "In the highest heaven dwell and reign those gods who bear in
 common the name of Ādityas. We must, however, if we would discover their
 earliest character, abandon the conceptions which in a later age, and
@@ -111,7 +111,7 @@ nor moon, nor stars, nor dawn, but the eternal sustainers of this
 luminous life, which exists, as it were, behind these phenomena."
 
 As noticed above, the text of the Rig-Veda says, <span
-id="fr_18"></span>[\*](#fn_18) "Of the eight sons who were born from the
+id="fr_18"></span>[\*](#fn_18.md) "Of the eight sons who were born from the
 body of Aditi, she approached the gods with seven, but cast away the
 eighth." In the commentary, the following explanation of this
 circumstance is given. "The eighth son was deformed. His brothers,
@@ -121,7 +121,7 @@ elephant was formed, hence the proverb, Let no man catch an elephant,
 for the elephant partakes of the nature of man.'"
 
 According to a passage quoted in Chapter II. <span
-id="fr_19"></span>[†](#fn_19) from the "Satapatha Brāhmana," Agni,
+id="fr_19"></span>[†](#fn_19.md) from the "Satapatha Brāhmana," Agni,
 Indra, and Surya, obtained superiority over the other gods by means of
 sacrifice. By whatever means this position was obtained, it is certain
 that they were the most popular deities of the Vedic Age. Agni stands in
@@ -135,23 +135,23 @@ follows:—(1) Agni, the god of Fire; (2) Sun Gods, or gods of Light; and
 
 ### Footnotes
 
-<span id="fn_12"></span>[17:\*](hmvp08.htm#fr_12) Muir, O. S. T., v. 45.
+<span id="fn_12"></span>[17:\*](hmvp08.htm#fr_12.md) Muir, O. S. T., v. 45.
 
-<span id="fn_13"></span>[18:\*](hmvp08.htm#fr_13) Muir, O. S. T., v. 46,
+<span id="fn_13"></span>[18:\*](hmvp08.htm#fr_13.md) Muir, O. S. T., v. 46,
 47.
 
-<span id="fn_14"></span>[18:†](hmvp08.htm#fr_14) Ibid. v. 54.
+<span id="fn_14"></span>[18:†](hmvp08.htm#fr_14.md) Ibid. v. 54.
 
-<span id="fn_15"></span>[19:\*](hmvp08.htm#fr_15) Muir, O. S. T., v. 49.
+<span id="fn_15"></span>[19:\*](hmvp08.htm#fr_15.md) Muir, O. S. T., v. 49.
 
-<span id="fn_16"></span>[19:†](hmvp08.htm#fr_16) Ibid. v. 54.
+<span id="fn_16"></span>[19:†](hmvp08.htm#fr_16.md) Ibid. v. 54.
 
-<span id="fn_17"></span>[19:‡](hmvp08.htm#fr_17) Ibid. v. 56.
+<span id="fn_17"></span>[19:‡](hmvp08.htm#fr_17.md) Ibid. v. 56.
 
-<span id="fn_18"></span>[20:\*](hmvp08.htm#fr_18) Muir, O. S. T., v. 49.
+<span id="fn_18"></span>[20:\*](hmvp08.htm#fr_18.md) Muir, O. S. T., v. 49.
 
-<span id="fn_19"></span>[20:†](hmvp08.htm#fr_19) Page 10.
+<span id="fn_19"></span>[20:†](hmvp08.htm#fr_19.md) Page 10.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Agni](hmvp09)
+[Next: Chapter V. Agni](hmvp09.md)

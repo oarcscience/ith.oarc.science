@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb73)  [Next](ptb75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb73)  [Next](ptb75.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ described, their aspects remain to be investigated.
 
 Independently of the steadfast and immutable aspects which the said
 stars preserve among themselves, either rectilinearly, or triangularly,
-or by other similar forms, <span id="fr_294"></span>[1](#fn_294) they
+or by other similar forms, <span id="fr_294"></span>[1](#fn_294.md) they
 have also certain aspects considered as referring exclusively to the
 planets and the Sun and Moon, or parts of the zodiac; certain others to
 the earth only; and others, again, to the earth, the planets and the Sun
@@ -105,7 +105,7 @@ meridian can neither all rise
 
 together nor set together; for the more southern stars must always rise
 later than those which are more northern, and set earlier. <span
-id="fr_295"></span>[1](#fn_295)
+id="fr_295"></span>[1](#fn_295.md)
 
 The aspects made by the fixed stars, in regard to the planets or parts
 of the zodiac, and the earth combined, are considered, in a general
@@ -200,13 +200,13 @@ Sun.
 
 ### Footnotes
 
-<span id="fn_294"></span>[144:1](ptb74.htm#fr_294) That is to say, by
+<span id="fn_294"></span>[144:1](ptb74.htm#fr_294.md) That is to say, by
 the opposition, trine, &c.
 
-<span id="fn_295"></span>[146:1](ptb74.htm#fr_295) On this side of the
+<span id="fn_295"></span>[146:1](ptb74.htm#fr_295.md) On this side of the
 equator.
 
 ------------------------------------------------------------------------
 
 [Next: No. II. Almagest; Book II. Extract From Chap. IX: Of
-Circumstances regulated by Ascensions](ptb75)
+Circumstances regulated by Ascensions](ptb75.md)

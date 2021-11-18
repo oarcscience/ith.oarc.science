@@ -1,23 +1,23 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index) 
-[Siberian](../../../asia/index.htm#siberia)  [Index](index) 
-[Previous](eos11)  [Next](eos13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index.md) 
+[Siberian](../../../asia/index.htm#siberia)  [Index](index.md) 
+[Previous](eos11)  [Next](eos13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eskimo of Siberia*, by Waldemar Bogoras, \[1913\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-### 11. The Hare frees the Sun. <span id="fr_6"></span>[1](#fn_6)
+### 11. The Hare frees the Sun. <span id="fr_6"></span>[1](#fn_6.md)
 
    When Creator had made the world, there was no light. Therefore he
 wanted to send all kinds of animals to the Great To´ṛnaṛak to get the
@@ -51,10 +51,10 @@ Told by Ve´ñkị, an Asiatic Eskimo man, in the village of Čeṛi´nak
 
 ### Footnotes
 
-<span id="fn_6"></span>[431:1](eos12.htm#fr_6) According to the
+<span id="fn_6"></span>[431:1](eos12.htm#fr_6.md) According to the
 narrator, this tale is borrowed from the Chukchee (cf. [p.
-155](../../../asia/cm/cm36.htm#p_) of this volume).
+155](../../../asia/cm/cm36.htm#p_) of this volume.md).
 
 ------------------------------------------------------------------------
 
-[Next: 12. Raven swallows Blubber.](eos13)
+[Next: 12. Raven swallows Blubber.](eos13.md)

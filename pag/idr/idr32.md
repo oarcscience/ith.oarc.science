@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr31) 
-[Next](idr33) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr31.md) 
+[Next](idr33.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,4 +189,4 @@ legendary heroes are not all of flesh and blood.
 
 ------------------------------------------------------------------------
 
-[Next: The Culdees of Druidical Days](idr33)
+[Next: The Culdees of Druidical Days](idr33.md)

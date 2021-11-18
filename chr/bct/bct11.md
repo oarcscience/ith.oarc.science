@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct10) [Next](bct12)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct10) [Next](bct12.md)
 
 ------------------------------------------------------------------------
 
@@ -75,21 +75,21 @@ prayed and was blessed by her.
 \[OUR LORD'S APPEARANCES AFTER HIS RESURRECTION.\]
 
    He appeared ten times: 1. To Mary Magdalene ([John xx.
-11](../../bib/kjv/joh.htm#20:11), 18). 2. To the women at the grave
-([Matt. xxviii. 9](../../bib/kjv/mat.htm#28:9), 10). 3. To Cleophas
-([Luke xxiv. 18](../../bib/kjv/luk.htm#24:18)). 4. To Simon Peter ([Luke
-xxiv. 34](../../bib/kjv/luk.htm#24:34)). 5. To all the disciples except
-Thomas ([Luke xxiv. 36](../../bib/kjv/luk.htm#24:36)-49; [John xx.
-19](../../bib/kjv/joh.htm#20:19)-23). 6. To the disciples, Thomas being
-with them ([John xx. 24](../../bib/kjv/joh.htm#20:24)-29). 7. On the
-Mount ([Matt. xxviii. 16](../../bib/kjv/mat.htm#28:16)-20). 8. On the
-Sea of Tiberias ([John xxi. 1](../../bib/kjv/joh.htm#21:1)-24). 9. At
-His Ascension ([Mark xvi. 19](../../bib/kjv/mar.htm#16:19); [Luke xxiv.
-50](../../bib/kjv/luk.htm#24:50)-53). 10. To the Five Hundred at once
-([I Cor. xv. 6](../../bib/kjv/co1.htm#15:6)). After His Ascension he
-appeared to Paul ([Acts ix. 3](../../bib/kjv/act.htm#9:3)-9; [I Cor. xv.
-3](../../bib/kjv/co1.htm#15:3)), and to Stephen ([Acts vii.
-55](../../bib/kjv/act.htm#7:55)-60).
+11](../../bib/kjv/joh.htm#20:11), 18.md). 2. To the women at the grave
+([Matt. xxviii. 9](../../bib/kjv/mat.htm#28:9), 10.md). 3. To Cleophas
+([Luke xxiv. 18](../../bib/kjv/luk.htm#24:18).md). 4. To Simon Peter ([Luke
+xxiv. 34](../../bib/kjv/luk.htm#24:34).md). 5. To all the disciples except
+Thomas ([Luke xxiv. 36](../../bib/kjv/luk.htm#24:36.md)-49; [John xx.
+19](../../bib/kjv/joh.htm#20:19)-23.md). 6. To the disciples, Thomas being
+with them ([John xx. 24](../../bib/kjv/joh.htm#20:24)-29.md). 7. On the
+Mount ([Matt. xxviii. 16](../../bib/kjv/mat.htm#28:16)-20.md). 8. On the
+Sea of Tiberias ([John xxi. 1](../../bib/kjv/joh.htm#21:1)-24.md). 9. At
+His Ascension ([Mark xvi. 19](../../bib/kjv/mar.htm#16:19.md); [Luke xxiv.
+50](../../bib/kjv/luk.htm#24:50)-53.md). 10. To the Five Hundred at once
+([I Cor. xv. 6](../../bib/kjv/co1.htm#15:6).md). After His Ascension he
+appeared to Paul ([Acts ix. 3](../../bib/kjv/act.htm#9:3.md)-9; [I Cor. xv.
+3](../../bib/kjv/co1.htm#15:3).md), and to Stephen ([Acts vii.
+55](../../bib/kjv/act.htm#7:55)-60.md).
 
  
 
@@ -280,8 +280,8 @@ Nazianzus; he built a church at the latter place, and died and was
 buried there.
 
    G<span class="small">EPHAS</span> ([Gal. ii.
-9](../../bib/kjv/gal.htm#2:9); [I Cor. i.
-12](../../bib/kjv/co1.htm#1:12)) taught in Baalbec, <u>H</u>im<u>s</u>
+9](../../bib/kjv/gal.htm#2:9.md); [I Cor. i.
+12](../../bib/kjv/co1.htm#1:12).md) taught in Baalbec, <u>H</u>im<u>s</u>
 (Emesa), and Nathrôn (Batharûn); he died and was buried in Shîrâz
 (Shaizar ?).
 
@@ -411,9 +411,9 @@ class="small">PHREM</span>) taught in Baishân, and died there.
 \[THE NAMES OF THE APOSTLES.\]
 
 The T<span class="small">WELVE</span> ([Matt.
-x.](../../bib/kjv/mat.htm#10:1) [Mark iii.](../../bib/kjv/mar.htm#3:1)
-[Luke vi.](../../bib/kjv/luk.htm#6:1) [Acts
-i.](../../bib/kjv/act.htm#1:1)).
+x.](../../bib/kjv/mat.htm#10:1) [Mark iii.](../../bib/kjv/mar.htm#3:1.md)
+[Luke vi.](../../bib/kjv/luk.htm#6:1.md) [Acts
+i.](../../bib/kjv/act.htm#1:1).md).
 
    1.
 
@@ -525,11 +525,11 @@ Simon, called Niger.
 
    21.
 
-Jason (*see* [Acts xvii. 5](../../bib/kjv/act.htm#17:5)-9).
+Jason (*see* [Acts xvii. 5](../../bib/kjv/act.htm#17:5)-9.md).
 
    22.
 
-Rufus (*see* [Rom. xvi. 13](../../bib/kjv/rom.htm#16:13)).
+Rufus (*see* [Rom. xvi. 13](../../bib/kjv/rom.htm#16:13).md).
 
    23.
 
@@ -566,7 +566,7 @@ The following were chosen with Stephen:--
    33.
 
 Philip, whose three (*sic*) daughters prophesied (*see* [Acts xxi.
-9](../../bib/kjv/act.htm#21:9)).
+9](../../bib/kjv/act.htm#21:9).md).
 
    34-36.
 
@@ -574,11 +574,11 @@ Stephen; Prochorus; Nicanor.
 
    37-39.
 
-Timon; Parmenas; Nicolaus ([Acts vi. 5](../../bib/kjv/act.htm#6:5)).
+Timon; Parmenas; Nicolaus ([Acts vi. 5](../../bib/kjv/act.htm#6:5).md).
 
    40.
 
-Andronicus, the Greek ([Rom. xvi. 7](../../bib/kjv/rom.htm#16:7)).
+Andronicus, the Greek ([Rom. xvi. 7](../../bib/kjv/rom.htm#16:7).md).
 
    41, 42.
 
@@ -598,7 +598,7 @@ The following came with Peter to Cornelius:--
 
    48, 49.
 
-Criscus ([II Tim. iv. 10](../../bib/kjv/ti2.htm#4:10)); Milichus.
+Criscus ([II Tim. iv. 10](../../bib/kjv/ti2.htm#4:10).md); Milichus.
 
    50, 51.
 
@@ -753,7 +753,7 @@ born in Bethsaida, and reared in Capernaum. Chorazin shall exult because
 he was conceived in her, Bethsaida because he was born in her, and
 Capernaum because he was brought up in her; for this reason our Lord
 proclaimed Woe to these three \[cities\] in the Gospel ([Matt. xi.
-21](../../bib/kjv/mat.htm#11:21)). As soon as the son of perdition is
+21](../../bib/kjv/mat.htm#11:21).md). As soon as the son of perdition is
 revealed the king of the Greeks will go up and stand upon Golgotha,
 where our Lord was crucified; and he will set the royal crown upon the
 top of the holy Cross, upon which our Lord was crucified; and he will
@@ -767,7 +767,7 @@ id="page_269">p. 269</span> wife, and the seed of the Ethiopians was
 mingled with that of the Greeks. From this seed shall a king arise who
 shall deliver the kingdom over to God, as the blessed David hath said,
 "Cush will deliver the power to God" ([Ps. lxviii.
-31](../../bib/kjv/psa.htm#68:31)).
+31](../../bib/kjv/psa.htm#68:31).md).
 
    When the Cross is raised up to heaven straightway shall every head
 and every ruler and all powers be brought to nought, and God will
@@ -961,9 +961,9 @@ by Beremce, and was born 308 <span class="small">B.C.</span>; he reigned
 as sole king from 283 to 247 <span class="small">B.C.</span>, when he
 died. His name was transcribed by the Egyptian annalists thus:--
 
-![hieroglyphics](272-1.jpg) PTU\[O\]LMIS
+![hieroglyphics](272-1.jpg.md) PTU\[O\]LMIS
 
-and his title Philadelphus by ![hieroglyphics](272-2.jpg) *meri sen*
+and his title Philadelphus by ![hieroglyphics](272-2.jpg.md) *meri sen*
 (*i.e.* "brother-loving"). He enlarged the great Alexandrian Library,
 which was founded by his father, and in his day it is said to have
 contained as many as 400,000 books, (*i.e.* rolls of papyrus). It was by
@@ -972,4 +972,4 @@ his History of Egypt.\]
 
 ------------------------------------------------------------------------
 
-[Next](bct12)
+[Next](bct12.md)

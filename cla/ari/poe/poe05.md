@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe04)  [Next](poe06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe04)  [Next](poe06.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ them in detail would, doubtless, be a large undertaking.
 ------------------------------------------------------------------------
 
 [Next: V. Definition of the Ludicrous, and a brief sketch of the rise of
-Comedy](poe06)
+Comedy](poe06.md)

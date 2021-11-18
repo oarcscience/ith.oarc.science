@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tpol00)    [Page
-Index](pageidx)    [Text \[Zipped\]](tpol.txt.gz)
+[Contents](#contents)    [Start Reading](tpol00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](tpol.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -38,18 +38,18 @@ significance of these doctrines.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](tpol00)  
-[Contents](tpol01)  
-[Editorial Note](tpol02)  
-[Introduction](tpol03)  
-[Chapter I. The Praise of the Thought of Enlightenment](tpol04)  
-[Chapter II. The Confession of Sin](tpol05)  
-[Chapter III. Taking the Thought of Enlightenment](tpol06)  
-[Chapter IV. Heedfulness in the Thought of Enlightenment](tpol07)  
-[Chapter V. Watchfulness](tpol08)  
-[Chapter VI. The Perfect Long-Suffering](tpol09)  
-[Chapter VII. The Perfect Strength](tpol10)  
-[Chapter VIII. The Perfect Contemplation](tpol11)  
-[Chapter IX. The Perfect Knowledge](tpol12)  
-[Notes](tpol13)  
-[Appendix](tpol14)  
+<span id="contents"></span> [Title Page](tpol00.md)  
+[Contents](tpol01.md)  
+[Editorial Note](tpol02.md)  
+[Introduction](tpol03.md)  
+[Chapter I. The Praise of the Thought of Enlightenment](tpol04.md)  
+[Chapter II. The Confession of Sin](tpol05.md)  
+[Chapter III. Taking the Thought of Enlightenment](tpol06.md)  
+[Chapter IV. Heedfulness in the Thought of Enlightenment](tpol07.md)  
+[Chapter V. Watchfulness](tpol08.md)  
+[Chapter VI. The Perfect Long-Suffering](tpol09.md)  
+[Chapter VII. The Perfect Strength](tpol10.md)  
+[Chapter VIII. The Perfect Contemplation](tpol11.md)  
+[Chapter IX. The Perfect Knowledge](tpol12.md)  
+[Notes](tpol13.md)  
+[Appendix](tpol14.md)  

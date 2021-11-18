@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](../mars/index)  [Index](index)  [Previous](ipm08)  [Next](ipm10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](../mars/index)  [Index](index)  [Previous](ipm08)  [Next](ipm10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From India to the Planet Mars*, by Théodore Flournoy; tr. Daniel B.
 Vermilye, \[1900\], at Intangible Textual Heritage
 
@@ -190,7 +190,7 @@ point of departure for new circuits of Hélène's subliminal
 imagination. If, in fact, the content of our discussion of the 16th of
 October, which I have above briefly summed up, is compared with the
 visions of the following months (see beginning with [text
-30](ipm08.htm#an_text30)), it is clear that these latter contain an
+30](ipm08.htm#an_text30).md), it is clear that these latter contain an
 evident beginning of an answer, and are an attempt to satisfy the
 questions which I raised. A very curious attempt is there made, naïve
 and infantine, like the whole Martian romance, to escape the defects of
@@ -205,15 +205,15 @@ on the primitive Martian romance.
 
 The suggestive effect of my objections of the 16th of October was not
 immediate, but became a work of incubation. [Text
-30](ipm08.htm#an_text30), coming the following week, differed but
+30](ipm08.htm#an_text30.md), coming the following week, differed but
 slightly from the preceding, save for the absence of a euphonic letter,
 which, however, had been better in place between the words **bindié
 idé**, *trouve-t-on*, than in the **bèrimir m hed** of [text
-15](ipm08.htm#an_text15), to which I had attracted Hélène's attention;
+15](ipm08.htm#an_text15.md), to which I had attracted Hélène's attention;
 possibly it is allowable to regard this little detail as a first result
 of my criticisms. The apparition, a little later, of a new Martian
 personage, Ramié, who promised Hélène some near revelations as to a
-planet not otherwise specified ([text 31](ipm08.htm#an_text31)), proves
+planet not otherwise specified ([text 31](ipm08.htm#an_text31).md), proves
 that
 
 <span id="page_268">p. 268</span>
@@ -224,8 +224,8 @@ suggestion with which I connect it), in that curious scene in which
 Ramié reveals to Mlle. Smith an unsuspected and grotesque world, the
 language of which singularly differs from the usual Martian. The
 detailed description of that strange vision, which Hélène sent me, is
-worth the trouble of citing (see also texts [32](ipm08.htm#an_text32) to
-[35](ipm08.htm#an_text35)):
+worth the trouble of citing (see also texts [32](ipm08.htm#an_text32.md) to
+[35](ipm08.htm#an_text35).md):
 
 "I was awakened, and arose about twenty minutes ago. It was about a
 quarter-past six in the morning, and I was getting ready to sew. Then,
@@ -242,7 +242,7 @@ Martian visage and costume. It was, in fact, the personage \[Ramié\] who
 had clasped my waist with his left arm, showing me with his right hand a
 tableau, at first indistinct, but which finally outlined itself quite
 clearly. He spoke also some sentences, which I can note very well, it
-seems to me \[[text 32](ipm08.htm#an_text32), where Ramié attracts the
+seems to me \[[text 32](ipm08.htm#an_text32.md), where Ramié attracts the
 attention of Hélène to one of the worlds which surround him and makes
 her see strange beings.\]
 
@@ -262,7 +262,7 @@ long \[see Fig. 33\] running from it into the earth.
 <span id="img_fig33"></span> <span align="CENTER"> [![Fig. 33.
 Ultra-Martian houses. Drawn by Mlle. Smith after her vision of November
 2, 1898.](tn/fig33.jpg)  
-Click to enlarge](img/fig33.jpg)  
+Click to enlarge](img/fig33.jpg.md)  
 Fig. 33. Ultra-Martian houses. Drawn by Mlle. Smith after her vision of
 November 2, 1898.  
 </span>
@@ -283,11 +283,11 @@ from the lips of one of them some words, which, fortunately—I hardly
 know how—I was able to note down. This vision lasted a quarter of an
 hour. Then I found my waist liberated, but my right hand was still
 firmly held, in order to trace strange characters on the paper" ([text
-34](ipm08.htm#an_text34), adieux of Ramié to Hélène).
+34](ipm08.htm#an_text34), adieux of Ramié to Hélène.md).
 
 A little later there was a continuation, or an abortive repetition, of
 the same vision; the table did not appear distinctly, and Ramié ([text
-35](ipm08.htm#an_text35)) contented himself with teaching Hélène things
+35](ipm08.htm#an_text35).md) contented himself with teaching Hélène things
 concerning a world beyond, a near neighbor to Mars, and a coarser
 language, of which Astané alone could furnish a translation. This is, in
 effect, what took place two weeks later: Astané incarnated himself with
@@ -303,8 +303,8 @@ would answer better than the asteroids to the globe "very near to ours,"
 of which Ramié spoke.
 
 Up to this point the ultra-Martian messages were confined to the
-preceding. The last texts obtained ([37](ipm08.htm#an_text37) to
-[40](ipm08.htm#an_text40)) seem to announce that the end has not been
+preceding. The last texts obtained ([37](ipm08.htm#an_text37.md) to
+[40](ipm08.htm#an_text40).md) seem to announce that the end has not been
 reached on that side, and cause us to hope for new
 
 <span id="page_271">p. 271</span>
@@ -355,7 +355,7 @@ fabrication of an idiom which had decidedly nothing in common with the
 French in this respect. Here is where the most beautiful disorder is
 practically a work of art. It has, moreover, succeeded, since, even with
 the double translation, Martian and French, of [text
-33](ipm08.htm#an_text33), it is impossible to know exactly what is
+33](ipm08.htm#an_text33.md), it is impossible to know exactly what is
 meant.
 
 It is possibly the little girl *Etip* who is sad, and who *weeps*
@@ -395,7 +395,7 @@ come to light, renewed its life, and once more become active in her
 Martian somnambulisms.
 
 It is hardly necessary to add, in conclusion, that the whole spiritistic
-or occult hypothesis seems [to](errata.htm#4) me to be absolutely
+or occult hypothesis seems [to](errata.htm#4.md) me to be absolutely
 superfluous and unjustified in
 
 <span id="page_274">p. 274</span>
@@ -407,4 +407,4 @@ this entire cycle.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Hindoo Cycle](ipm10)
+[Next: Chapter VIII. The Hindoo Cycle](ipm10.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl17)  [Next](hhl19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl17)  [Next](hhl19.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,4 +165,4 @@ with new homes and new arts.
 
 ------------------------------------------------------------------------
 
-[Next: XV. The Eight Of Oahu](hhl19)
+[Next: XV. The Eight Of Oahu](hhl19.md)

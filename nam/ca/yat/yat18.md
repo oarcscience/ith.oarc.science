@@ -1,21 +1,21 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat17)  [Next](yat19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat17)  [Next](yat19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### XIX. BETTY BROWN'S DREAM. <span id="fr_136"></span>[308](#fn_132)
+### XIX. BETTY BROWN'S DREAM. <span id="fr_136"></span>[308](#fn_132.md)
 
 <span id="page_196">p. 196</span>
 
@@ -28,7 +28,7 @@ north along the trail. Now I stood on the outside (of a house).
 <span id="page_197">p. 197</span>
 
 was also a woman who was blind in one eye. <span
-id="fr_137"></span>[309](#fn_133) She offered me as a seat a chair of
+id="fr_137"></span>[309](#fn_133.md) She offered me as a seat a chair of
 ice. I looked from one thing to another. Everything was made of ice, and
 it hung down in icicles. "It is near dinner-time," she said. "He will
 pull the bell," she said. "Now you will be seated, and he will pull you
@@ -52,16 +52,16 @@ home by the way I came.
 
 ### Footnotes
 
-<span id="fn_132"></span>[195:308](yat18.htm#fr_136) This dream seems to
+<span id="fn_132"></span>[195:308](yat18.htm#fr_136.md) This dream seems to
 be the result of a mixture of Indian and Christian ideas. Possibly it
 owes something to the Ghost-dance movement, which reached the Yanas from
 the so-called "Chico Indians," i.e., Northwest Maidu of the Sacramento
 Valley.
 
-<span id="fn_133"></span>[197:309](yat18.htm#fr_137) She was a. Wintun
+<span id="fn_133"></span>[197:309](yat18.htm#fr_137.md) She was a. Wintun
 woman, named K!ulô't‘imat?ya, whom Betty had known in life. The man she
 had known as Wa'imayasi.
 
 ------------------------------------------------------------------------
 
-[Next: XX. Spell Said by a Girl Desirous of Getting A Husband](yat19)
+[Next: XX. Spell Said by a Girl Desirous of Getting A Husband](yat19.md)

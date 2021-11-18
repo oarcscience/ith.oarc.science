@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](dol02)  [Next](dol04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](dol02)  [Next](dol04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Devils of Loudun*, by Edmund Goldsmid, \[1887\], at Intangible
 Textual Heritage
 
@@ -125,7 +125,7 @@ the nuns was also heard, and that of lay persons of both sexes, amongst
 others of two women, the one of whom confessed having had criminal
 relations with Grandier, and that he had offered to make her Princess of
 Magicians, whilst the second confirmed the evidence of the first. <span
-id="fr_6"></span>[\*](#fn_6)
+id="fr_6"></span>[\*](#fn_6.md)
 
 <span id="page_v2_10">p. 10</span>
 
@@ -180,7 +180,7 @@ confirming all his powers and *prohibiting Parliament and all other
 judges from interfering in this business, and forbidding all parties
 concerned from appealing, under penalty of a fine of five hundred
 livres*. He caused Grandier to be transferred from the prison of Augers
-to that of [Loudun](errata.htm#6), so as to have him at hand to confront
+to that of [Loudun](errata.htm#6.md), so as to have him at hand to confront
 with witnesses, if need be.
 
 But, first of all, he considered it necessary to examine the nuns
@@ -270,7 +270,7 @@ The Church does not require, in order to have recourse to Exorcisms,
 that all these marks should be found in the same subject; one alone, if
 well authenticated, is sufficient to demand public exorcism.
 
-Now, they are all to be found in the Nuns [of](errata.htm#7) Loudun, and
+Now, they are all to be found in the Nuns [of](errata.htm#7.md) Loudun, and
 in such numbers that we can only. mention the principal cases.
 
 Acquaintance with unknown tongues first showed itself in the
@@ -317,7 +317,7 @@ him with the stole to
 exorcise the Mother Superior, who, he declared, knew Latin; but he did
 not dare to question her or the others in Greek, though they dared him
 to it; whereon he remained very embarrassed. <span
-id="fr_8"></span>[\*](#fn_8)
+id="fr_8"></span>[\*](#fn_8.md)
 
 As to the Revelation of hidden matters or of events passing afar off,
 proofs are still more abundant. We will only select a few of the most
@@ -352,7 +352,7 @@ convince many sceptics who were present: and she was equally successful.
 
 The *Liententant-Criminel* of Orleans, the President Tours,
 Lieutenant-General de S. Maixant, and myself <span
-id="fr_9"></span>[\*](#fn_9) also had our curiosity gratified. I desired
+id="fr_9"></span>[\*](#fn_9.md) also had our curiosity gratified. I desired
 that Sister Clara should bring me her beads, and say an *Ave-Maria*. She
 first brought e. pin, and then some aniseed; being urged to obey, she
 said: "I see you want something else,"
@@ -372,7 +372,7 @@ was likewise ignorant of what had been said, to obey the intentions of
 M. Chiron. This young girl then fell into strange convulsions,
 blaspheming, rolling on the ground, exposing her person in the most
 indecent manner, without a blush, and with foul and lascivious
-expressions and actions, <span id="fr_10"></span>[\*](#fn_10) till she
+expressions and actions, <span id="fr_10"></span>[\*](#fn_10.md) till she
 caused all who looked on to hide their eyes with shame. Though she had
 never seen the prior, she called him by his name, and said he should be
 her lover. It was only
@@ -441,7 +441,7 @@ the very terns used in the schools.
 
 The corporal effect of possession is a proof which strikes the coarsest
 minds. It has this other advantage, that an example convinces a whole
-[assembly](errata.htm#8). <span id="fr_11"></span>[\*](#fn_11)
+[assembly](errata.htm#8). <span id="fr_11"></span>[\*](#fn_11.md)
 
 <span id="page_v2_35">p. 35</span>
 
@@ -449,7 +449,7 @@ Now the nuns of Loudun gave these proofs daily. When the Exorcist gave
 some order to <span id="page_v2_36">p. 36</span> the Devil, the nuns
 suddenly passed from a state of quiet into the most terrible
 convulsions, and <span id="page_v2_37">p. 37</span> without the
-[slightest](errata.htm#13) increase of pulsation. They struck their
+[slightest](errata.htm#13.md) increase of pulsation. They struck their
 chests and backs with their heads, <span id="page_v2_38">p. 38</span> as
 if they had had their neck broken, and with inconceivable rapidity; they
 twisted their arms <span id="page_v2_39">p. 39</span> at the joints of
@@ -564,7 +564,7 @@ END OF VOL. II.
 
 ### Footnotes
 
-<span id="fn_6"></span>[v2\_9:\*](dol03.htm#fr_6) Our forefathers, if
+<span id="fn_6"></span>[v2\_9:\*](dol03.htm#fr_6.md) Our forefathers, if
 not more moral than ourselves, certainly punished immorality, *when
 discovered*, much more severely, as is witnessed by the following
 proclamation:—
@@ -807,7 +807,7 @@ conceal her being with Child during the whole space, and shall not call
 for, and make use of Help and Assistance in the Birth, the Child being
 found Dead or Amissing, the Mother shall be holden and repute the
 Murderer of her own Child, tho there be no appearance of Bruise or Wound
-upon the Body of the Child. <span id="fr_7"></span>[1](#fn_7) All which
+upon the Body of the Child. <span id="fr_7"></span>[1](#fn_7.md) All which
 Acts abovementioned are hereby ordered to be published only for
 superabundance, and the better Information of our Liedges, without the
 least derogation to other Acts or Laws not published in this manner. Our
@@ -833,25 +833,25 @@ and of Our Reign the ninth year, 1698.
                                 "<span class="smallcaps">Gilb.
 Eliot.</span> *Cls. Sci. Concilii*."
 
-<span id="fn_7"></span>[v2\_9:1](dol03.htm#fr_7) This is the Act on
+<span id="fn_7"></span>[v2\_9:1](dol03.htm#fr_7.md) This is the Act on
 which Sir Walter Scott found his story of the "Finn of Mid-Lothian."
 
-<span id="fn_8"></span>[v2\_29:\*](dol03.htm#fr_8) How many of our
+<span id="fn_8"></span>[v2\_29:\*](dol03.htm#fr_8.md) How many of our
 learned clergy could to-day question anyone in Greek, and how would many
 of our bishops feel if they knew that their reputations and lives
 depended on their carrying on a conversation in the languages of Hellas?
 
-<span id="fn_9"></span>[v2\_30:\*](dol03.htm#fr_9) We learn from the
+<span id="fn_9"></span>[v2\_30:\*](dol03.htm#fr_9.md) We learn from the
 "Démonomanie" that M. des Niau was the person here referred to in the
 first person, and therefore the writer of the book.
 
-<span id="fn_10"></span>[v2\_31:\*](dol03.htm#fr_10) The text says:
+<span id="fn_10"></span>[v2\_31:\*](dol03.htm#fr_10.md) The text says:
 "Relevant jupes et chemise, montrant ses parties les plus secretes, sans
 honte, et se servant de mots lascifs. Ses gestes devinrent si grossiers
 que les témoins se cachaient la figure. Elle répétait, en s’ . . . . des
 mains, "Venez donc, f . . . . moi!
 
-<span id="fn_11"></span>[v2\_34:\*](dol03.htm#fr_11) A curious case is
+<span id="fn_11"></span>[v2\_34:\*](dol03.htm#fr_11.md) A curious case is
 mentioned in Arnot's Criminal Trials:—
 
 "In 1697 an impostor appeared, in the character of a person tormented by
@@ -871,7 +871,7 @@ for stealing, a little milk, which drew on her an angry retort, was the
 simple prelude to a complicated and wonderful scene of artifice and
 delusion, of fanaticism and barbarity.
 
-"In the month of August 1696, <span id="fr_12"></span>[1](#fn_12) within
+"In the month of August 1696, <span id="fr_12"></span>[1](#fn_12.md) within
 a few days after her quarrel with the house-maid, the girl was seized
 with hysterical convulsions, which in repeated fits displayed that
 variety of symptoms which characterise this capricious disease. To
@@ -883,7 +883,7 @@ straws, crooked pins, &c.
 
 "Having by those sensible objects impressed the publick with the most
 complete and fearful conviction of her being 'grievously vexed <span
-id="fr_13"></span>[2](#fn_13) with a Devil,' she found herself capable
+id="fr_13"></span>[2](#fn_13.md) with a Devil,' she found herself capable
 to command the implicit assent of the spectators, in matters that were
 repugnant to the evidence of their own senses. For this purpose, she
 fell upon the device of seeming to possess the <span id="page_36">p.
@@ -936,11 +936,11 @@ this awful text, "Woe to the inhabitants of the earth and of the sea,
 for the Devil is come down unto you, having great wrath, because he
 knoweth that he hath but a short time. *And when the dragon saw that he
 was cast down unto the earth, he persecuted the woman*." <span
-id="fr_14"></span>[3](#fn_14) And the prayers and exhortations of the
+id="fr_14"></span>[3](#fn_14.md) And the prayers and exhortations of the
 church were speedily seconded with the weight of the secular arm.
 
 "On the 19th of January, a warrant of Privy Council was issued, <span
-id="fr_15"></span>[4](#fn_15) which set forth, that there were pregnant
+id="fr_15"></span>[4](#fn_15.md) which set forth, that there were pregnant
 grounds of suspicion of witchcraft in the shire of Renfrew, especially
 from the afflicted aril extraordinary condition of Christian Shaw,
 daughter of John Shaw of Bargarran. It therefore granted commission to
@@ -957,7 +957,7 @@ Steuart, J. Hope, W. Anstruther, J. Maxwell, Ro. Sinclair.'
 
 "In the report which was presented on the 9th of March, the
 commissioners represented that there were 'twenty-four persons male and
-female suspected and accused of [witchcraft](errata.htm#9),' and that
+female suspected and accused of [witchcraft](errata.htm#9.md),' and that
 further inquiry ought to be made into this crime. Among these unhappy
 objects of suspicion, it is to be remarked, that there was 'a girl of
 fourteen, and a boy not twelve years of age.' Agreeable to this report,
@@ -968,7 +968,7 @@ Kincaid of Corsbasket, Advocate, and Mr John Stewart younger of
 Blackhall, Advocate, or any five of them, to meet at Renfrew, Paisley,
 or Glasgow, to take trial of judge, and do justice upon the foresaid
 persons; and to sentence the guilty 'to be burned or
-[otherwise](errata.htm#10) executed to death, <span id="page_40">p.
+[otherwise](errata.htm#10.md) executed to death, <span id="page_40">p.
 40</span> ordained the commissioners to transmit to the Court of
 Justiciary an authentick extract of their proceedings, to be entered
 upon its records; and contained a recommendation to the Lords of the
@@ -979,13 +979,13 @@ Carmichael, W. Anstruther, Arch. Mure.'
 "The commissioners, thus empowered, were not remiss in acting under the
 authority delegated to them. After twenty hours were spent in the
 examination of witnesses, who *gave testimony* that the
-*malefices* <span id="fr_16"></span>[5](#fn_16) libelled could not have
+*malefices* <span id="fr_16"></span>[5](#fn_16.md) libelled could not have
 proceeded from natural causes, and that the prisoners were the authors
 of these malefices.—After five of the unhappy prisoners confessed their
 own guilt, and criminated their alledged associates—after counsel had
 been heard on both sides, and the counsel for the prosecution had
 declared, that 'he would not press the jury with the *ordinary severity
-of threatening an assize of error:*' <span id="fr_17"></span>[6](#fn_17)
+of threatening an assize of error:*' <span id="fr_17"></span>[6](#fn_17.md)
 But recommended to them to proceed according to the evidence; and <span
 id="page_41">p. 41</span> loudly declared to them, that although they
 ought to beware of condemning the innocent, yet if they should acquit
@@ -994,25 +994,25 @@ to all the blasphemies, apostacies, murders, tortures, and seductions,
 whereof these enemies of heaven and earth should hereafter be guilty.'
 After the jury had spent six hours in deliberation, seven of those
 miserable persons were condemned to the flames. <span
-id="fr_18"></span>[7](#fn_18)
+id="fr_18"></span>[7](#fn_18.md)
 
 "The time however fast approached, when these human sacrifices were to
 be abolished. The last person who was prosecuted before the Lords of
 Justiciary for witchcraft was Elspeth Rule, who was tried before Lord
 Anstruther at the Dumfries circuit, on the 3d of May, 1709. <span
-id="fr_19"></span>[8](#fn_19) No special act of
-[witchcraft](errata.htm#11) was charged against her; the indictment was
+id="fr_19"></span>[8](#fn_19.md) No special act of
+[witchcraft](errata.htm#11.md) was charged against her; the indictment was
 of a very general nature, that the prisoner was 'habit and repute' <span
-id="fr_20"></span>[9](#fn_20) <span id="page_42">p. 42</span> (that is,
+id="fr_20"></span>[9](#fn_20.md) <span id="page_42">p. 42</span> (that is,
 generally holden and deemed) a witch; and that she had used threatening
 expressions against persons at enmity with her, who were afterwards
 visited with the loss of cattle, or the death of friends, and one of
-whom run mad. The jury, by a majority of voices, [found](errata.htm#12)
+whom run mad. The jury, by a majority of voices, [found](errata.htm#12.md)
 these articles proved, and the Judge ordained the prisoner to be burned
 on the cheek, and to be banished Scotland for life. The last person who
 was brought to the stake in Scotland for the crime of witchcraft was
 condemned by Captain David Ross of Little Daan <span
-id="fr_21"></span>[10](#fn_21) sheriff-depute of Sutherland, A.D. 1722.
+id="fr_21"></span>[10](#fn_21.md) sheriff-depute of Sutherland, A.D. 1722.
 
 "Besides in the sufferings, and tragical end of the persons already
 specified, human ingenuity seems to have been exhausted in devising
@@ -1023,7 +1023,7 @@ id="page_43">p. 43</span>
 
 From the universal and excessive abhorrence entertained at a witch, a
 suspicion of that crime, independent of judicial severities, <span
-id="fr_22"></span>[11](#fn_22) was sufficient to render the unhappy
+id="fr_22"></span>[11](#fn_22.md) was sufficient to render the unhappy
 object anxious for death.—Thrusting of pins into the flesh, and keeping
 the accused from sleep, were the ordinary treatment of a witch. But if
 the prisoner was endued with uncommon fortitude, other methods were used
@@ -1035,50 +1035,50 @@ and whipping with cords, till the skin and flesh were torn from the
 bones, have also been the adopted methods of torment.
 
 The bloody zeal of those inquisitors attained to a refinement in cruelty
-so shocking to humanity, <span id="fr_23"></span>[12](#fn_23) and so
+so shocking to humanity, <span id="fr_23"></span>[12](#fn_23.md) and so
 <span id="page_44">p. 44</span> repugnant to justice, as to be almost
 incredible. Not satisfied with torturing *the person* of the accused,
 their ingenious malice assailed the more delicate feelings, and ardent
 affections of the *mind*. An aged husband, an infant daughter, would
 have been tortured in presence of the accused, in order to subdue her
-resolution.—Nay, death itself <span id="fr_24"></span>[13](#fn_24) did
+resolution.—Nay, death itself <span id="fr_24"></span>[13](#fn_24.md) did
 not screen the remains of those miserable persons from the malice of
 their prosecutors. If an unfortunate woman, trembling at a citation for
 witchcraft, ended her sufferings by her own hands, she was dragged from
 her house at a horse's tail, and buried under the gallows.
 
-<span id="fn_12"></span>[v2\_34:1](dol03.htm#fr_12) <span
+<span id="fn_12"></span>[v2\_34:1](dol03.htm#fr_12.md) <span
 id="page_35">p. 35</span> True narrative of the sufferings and relief of
 a young girl. Edinburgh, printed by James Watson, 1698.
 
-<span id="fn_13"></span>[v2\_34:2](dol03.htm#fr_13) St. Matthew, c. 15,
+<span id="fn_13"></span>[v2\_34:2](dol03.htm#fr_13.md) St. Matthew, c. 15,
 v. 22.
 
-<span id="fn_14"></span>[v2\_34:3](dol03.htm#fr_14) <span
+<span id="fn_14"></span>[v2\_34:3](dol03.htm#fr_14.md) <span
 id="page_38">p. 38</span> Revelations, chap, 12.
 
-<span id="fn_15"></span>[v2\_34:4](dol03.htm#fr_15) Records of Privy
+<span id="fn_15"></span>[v2\_34:4](dol03.htm#fr_15.md) Records of Privy
 Council, January 19. March 9. April 5 1697.
 
-<span id="fn_16"></span>[v2\_34:5](dol03.htm#fr_16) <span
+<span id="fn_16"></span>[v2\_34:5](dol03.htm#fr_16.md) <span
 id="page_40">p. 40</span> "Malefice," in the Scots law signifies an act
 or effect of witchcraft.
 
-<span id="fn_17"></span>[v2\_34:6](dol03.htm#fr_17) This was an oblique
+<span id="fn_17"></span>[v2\_34:6](dol03.htm#fr_17.md) This was an oblique
 and most scandalous menace. "Assizes of Error" were declared a grievance
 by the Estates of Parliament at the Revolution.
 
-<span id="fn_18"></span>[v2\_34:7](dol03.htm#fr_18) <span
+<span id="fn_18"></span>[v2\_34:7](dol03.htm#fr_18.md) <span
 id="page_41">p. 41</span> The order of Privy Council for recording the
 Commissioners’ proceedings in the books of Justiciary was not complied
 with. I am therefore unable to give any further particulars of the
 catastrophe of these miserable persons, or of the criminal absurdity of
 those who committed them to the flames.
 
-<span id="fn_19"></span>[v2\_34:8](dol03.htm#fr_19) Records of Circuit
+<span id="fn_19"></span>[v2\_34:8](dol03.htm#fr_19.md) Records of Circuit
 Court of Justiciary, holden at Dumfries May 3, 1709.
 
-<span id="fn_20"></span>[v2\_34:9](dol03.htm#fr_20) "Habit and repute"
+<span id="fn_20"></span>[v2\_34:9](dol03.htm#fr_20.md) "Habit and repute"
 is a very dangerous doctrine of the law of Scotland, at that time in
 full force, by which a man might be hanged altho’ hardly any charge were
 exhibited against him, but that he had a bad character. For instance, if
@@ -1089,7 +1089,7 @@ guilty, the Court would by law be bound to sentence the prisoner to be
 hanged; if my temerity may be pardoned, for supposing that any such
 thing exists as a precise established ruin of criminal law in Scotland.
 
-<span id="fn_21"></span>[v2\_34:10](dol03.htm#fr_21) It is no small
+<span id="fn_21"></span>[v2\_34:10](dol03.htm#fr_21.md) It is no small
 disappointment to me that I cannot lay this trial before the reader. The
 Sheriff Court books of the county of Sutherland were carried off by the
 Sheriff Clerk about 1735. I am somewhat however consoled for my
@@ -1098,10 +1098,10 @@ Hobbister, Advocate, Sheriff-depute of Caithness and Sutherland, who was
 so obliging as to make a laborious but ineffectual search to recover the
 books.
 
-<span id="fn_22"></span>[v2\_34:11](dol03.htm#fr_22) Mackenzie s
+<span id="fn_22"></span>[v2\_34:11](dol03.htm#fr_22.md) Mackenzie s
 Criminal Trials, tit. *Witchcraft*.
 
-<span id="fn_23"></span>[v2\_34:12](dol03.htm#fr_23) Records of
+<span id="fn_23"></span>[v2\_34:12](dol03.htm#fr_23.md) Records of
 Justiciary, June 24. 1596. When Alison Balfour was accused of
 witchcraft, she was put in the caspie-claws, where she was kept
 forty-eight hours; her husband was put in heavy irons, *her son put in
@@ -1115,9 +1115,9 @@ executing those miserable women is further illustrated by the authentic
 account of the expence of burning a witch at Burncastle, near Lauder,
 A.D. 1649.
 
-<span id="fn_24"></span>[v2\_34:13](dol03.htm#fr_24) Fountainhall's
+<span id="fn_24"></span>[v2\_34:13](dol03.htm#fr_24.md) Fountainhall's
 Decisions, vol. I. p. 6o. October 9, 1679.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](dol04)
+[Next: Part III](dol04.md)

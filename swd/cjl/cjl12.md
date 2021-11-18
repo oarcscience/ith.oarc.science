@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](cjl11)  [Next](cjl13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](cjl11)  [Next](cjl13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402180012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402180012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -689,4 +689,4 @@ n. 530. Thus also conjugial love is imputed to every one, n. 531.
 
 ------------------------------------------------------------------------
 
-[Next: INDEX TO THE MEMORABLE RELATIONS](cjl13)
+[Next: INDEX TO THE MEMORABLE RELATIONS](cjl13.md)

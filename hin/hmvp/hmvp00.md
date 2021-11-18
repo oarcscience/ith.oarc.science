@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](hmvp01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](hmvp01.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -24,10 +24,10 @@ published prior to 1923.
 
 <span id="img_front"></span> <span align="CENTER"> [![DURGĀ. Lakshmi.
 Sarasvati. Ganesa. The Demon Durgā. Kartikeya.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 DURGĀ. Lakshmi. Sarasvati. Ganesa. The Demon Durgā. Kartikeya.  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Preface](hmvp01)
+[Next: Preface](hmvp01.md)

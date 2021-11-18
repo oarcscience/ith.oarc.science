@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](tpol02)  [Next](tpol04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](tpol02)  [Next](tpol04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path of Light*, by L.D. Barnett, \[1909\], at Intangible Textual
 Heritage
 
@@ -91,13 +91,13 @@ searchings of heart came to
 an end, and the answer to the mystery of life was revealed to him.
 Henceforth he was the Buddha, the Enlightened Seer, who had won the
 perfect peace of spiritual knowledge, the Nirvāṇa <span
-id="fr_0"></span>[1](#fn_0); and the remaining years of his long life
+id="fr_0"></span>[1](#fn_0.md); and the remaining years of his long life
 were passed in imparting his teaching for the salvation of his
 fellow-creatures, and thus founding the Buddhist Church, until about 482
 B.C., full of years and honour, he departed to the supreme Nirvāṇa.
 
 When we examine the doctrines which appear to have been taught by the
-Buddha, <span id="fr_1"></span>[2](#fn_1) we see that they are founded
+Buddha, <span id="fr_1"></span>[2](#fn_1.md) we see that they are founded
 upon two ancient conceptions that are characteristic of Hindu thought:
 the pessimistic idea of *Karma*, and the *Saṃsāra*, "works" and
 "wandering." According to the usual Indian creed, the Universe is
@@ -245,7 +245,7 @@ general notions, "conformations," and definite consciousness, which are
 called "aggregations" (in Sanskrit, *skandhas*; in Pali, *khandhas*).
 "Form," meaning the four elements of physical nature (earth, water,
 fire, and air) and their products, is a fifth khandha. As we have seen,
-the force that unites these five [khandhas](errata.htm#0) into an
+the force that unites these five [khandhas](errata.htm#0.md) into an
 apparent individual or personality
 
 <span id="page_16">p. 16</span>
@@ -258,7 +258,7 @@ world, who, though possessing different khandhas and a different form,
 is in reality identical with the man just passed away, because his
 kamma, is the same. Kamma, then, is the link that preserves the identity
 of a being through all the countless changes which it undergoes in its
-progress through Saṃśāra." <span id="fr_2"></span>[1](#fn_2) Now the
+progress through Saṃśāra." <span id="fr_2"></span>[1](#fn_2.md) Now the
 great purpose of Buddhism, like that of most Hindu faiths, is to enable
 the believer to reach the perfect spiritual peace of Nirvāṇa, and thus
 come to an end of the cycle of embodied births. To attain this object he
@@ -386,7 +386,7 @@ and thenceforth he advances in
 <span id="page_21">p. 21</span>
 
 birth after birth to higher and higher sanctity in the practice of the
-ten Perfections <span id="fr_3"></span>[1](#fn_3) until at last he is
+ten Perfections <span id="fr_3"></span>[1](#fn_3.md) until at last he is
 born as the Buddha, preaches the Law, and passes away into the
 everlasting stillness of Nirvāṇa. A vast amount of Buddhist literature
 consists of *Jātakas*, or legends of the deeds in which the
@@ -435,7 +435,7 @@ India, Tibet, Central Asia, and China.
 That this movement was antinomian and fraught with danger from the
 first, is obvious. Its doctrine of love unfettered by considerations of
 social expediency and ordinary morality, <span
-id="fr_4"></span>[1](#fn_4) and the wild luxuriance of its myth, were
+id="fr_4"></span>[1](#fn_4.md) and the wild luxuriance of its myth, were
 capable of working harm as well as good, and in practice have often lent
 themselves to the most disgraceful abuse. But on this dark side of the
 picture we need not dwell here. It is enough that we should recognise
@@ -485,7 +485,7 @@ suitable to their purpose, in order to show their love for suffering
 mortality by helping them in divers ways and leading them to paradise.
 The paradise of Amitābha is *Sukāvatī*, "The Happy Place," a fairyland
 which is tenanted by an entirely divine population dwelling in perfect
-bliss. <span id="fr_5"></span>[1](#fn_5) Amitābha's chief minister is
+bliss. <span id="fr_5"></span>[1](#fn_5.md) Amitābha's chief minister is
 Avalokiteśvara, a Bodhi-sattva who has taken a vow not to enter Nirvāṇa
 until he has led thither all living creatures, and who for this supreme
 grace is worshipped throughout the North with a corresponding fervour of
@@ -555,7 +555,7 @@ from the works of the Tempter, and be taken into the arms of the
 Enlightened. May all creatures have boundless term of age; may they live
 for ever in bliss, and the very name of death perish. May all regions
 become filled with Buddhas and Sons of the Buddhas, <span
-id="fr_6"></span>[1](#fn_6) and lovely with groves of the Trees of
+id="fr_6"></span>[1](#fn_6.md) and lovely with groves of the Trees of
 Desire ravishing the heart with the sound of the Law. . . As long as the
 heavens and the earth abide, may I continue to overcome the world's
 sorrows. May all the world's suffering be cast upon me, and may the
@@ -568,7 +568,7 @@ conceived or can be conceived by the mind is but a subjective
 imagination in constant flux, existing only in instants of the thought
 of the subject and by virtue of his karma. No permanent reality can be
 predicated of it, except that it is really "void." "There are five
-skandhas, <span id="fr_7"></span>[2](#fn_7) and these he considered as
+skandhas, <span id="fr_7"></span>[2](#fn_7.md) and these he considered as
 by their nature empty. Form is emptiness, and emptiness indeed is form.
 . . . Thus perception, name, conception, acid knowledge also are
 emptiness. Thus, O Śāriputra, all things have the character of
@@ -582,15 +582,15 @@ form, no perception, no name, no concept, no knowledge. No eye, ear,
 nose, tongue, body, and mind. No form, sound, smell, taste, touch, and
 objects There is no knowledge., no ignorance, no destruction (of
 ignorance). . . there is no decay and death, no destruction of decay and
-death; there are not (the Four Truths, <span id="fr_8"></span>[1](#fn_8)
+death; there are not (the Four Truths, <span id="fr_8"></span>[1](#fn_8.md)
 viz.) that there is pain, origin of pain, stoppage of pain, and the path
 to it. There is no knowledge, no obtaining, no not-obtaining, of
 Nirvāṇa. Therefore, O Śāriputra, as there is no obtaining (of Nirvāṇa),
 a man who has approached the Prajnā-pāramitā, <span
-id="fr_9"></span>[2](#fn_9) of the Bodhisattvas dwells (for a time)
+id="fr_9"></span>[2](#fn_9) of the Bodhisattvas dwells (for a time.md)
 enveloped in consciousness. But when the envelopment of consciousness
 has been annihilated, then he becomes free of all fear, beyond the reach
-of change, enjoying final Nirvāṇa." <span id="fr_10"></span>[3](#fn_10)
+of change, enjoying final Nirvāṇa." <span id="fr_10"></span>[3](#fn_10.md)
 
 Thus everything, even the most fundamental doctrines of Buddhism and the
 existence of Buddhas and Bodhi-sattvas, is denied.
@@ -653,7 +653,7 @@ gigantic radiant
 <span id="page_32">p. 32</span>
 
 forms, surrounded by halos composed of magical figures of Buddhas. <span
-id="fr_11"></span>[1](#fn_11) These forms, though manifest to the
+id="fr_11"></span>[1](#fn_11.md) These forms, though manifest to the
 sanctified senses of the divine company, are essentially spiritual; and
 the Buddhas wearing them are constantly teaching their holy Law to the
 Bodhi-sattvas of highest rank, who appear in similarly transfigured
@@ -676,7 +676,7 @@ Bodhisattvas the conception. of a "Sambhoga-kāya"
 <span id="page_33">p. 33</span>
 
 of their Buddha revealing itself for their joy and instruction in
-beatific form. <span id="fr_12"></span>[1](#fn_12)
+beatific form. <span id="fr_12"></span>[1](#fn_12.md)
 
 While this theory of the "Body of Enjoyment" satisfied the hanger of the
 imagination for visions of paradise, the doctrine of the "Body of
@@ -752,7 +752,7 @@ contained in vol. ii. of the *Journal of the Buddhist Text Society*
 
 <span class="contnote">\[paragraph continues\]</span> Professor L. de la
 Vallee Poussin in the *Bibliotheca Indica*. <span
-id="fr_13"></span>[1](#fn_13) I have omitted a good deal of the text
+id="fr_13"></span>[1](#fn_13.md) I have omitted a good deal of the text
 where it seemed needlessly prolix, and the whole of the scholastic
 disputation which makes up the bulk of the ninth chapter. But I hope
 that oven in this curtailed form my translation will enable readers to
@@ -764,57 +764,57 @@ of true religious emotion, "an everlasting possession."
 
 ### Footnotes
 
-<span id="fn_0"></span>[10:1](tpol03.htm#fr_0) See below, [p.
-13](#page_13).
+<span id="fn_0"></span>[10:1](tpol03.htm#fr_0.md) See below, [p.
+13](#page_13.md).
 
-<span id="fn_1"></span>[10:2](tpol03.htm#fr_1) On this subject the
+<span id="fn_1"></span>[10:2](tpol03.htm#fr_1.md) On this subject the
 reader will do well to study the latest, and in several respects the
 best, summary, *Bouddhisme; Opinions sur l’Histoire de la Dogmatique*,
 by Professor L. do la Vallée Poussin. (Paris, 1909).
 
-<span id="fn_2"></span>[16:1](tpol03.htm#fr_2) Childers, *Pali
+<span id="fn_2"></span>[16:1](tpol03.htm#fr_2.md) Childers, *Pali
 Dictionary*, s.v. *khandho*.
 
-<span id="fn_3"></span>[21:1](tpol03.htm#fr_3) The *Pāramitās*, or
+<span id="fn_3"></span>[21:1](tpol03.htm#fr_3.md) The *Pāramitās*, or
 Perfections, according to the chief Northern schools, are almsgiving,
 morality, long-suffering, manliness, meditation, mystic insight
 (prajnā), resolution, strength, knowledge, and skill in choice of means
 (*upāya*).
 
-<span id="fn_4"></span>[23:1](tpol03.htm#fr_4) In justice to some
+<span id="fn_4"></span>[23:1](tpol03.htm#fr_4.md) In justice to some
 theologians, such as Sānti-deva, it must be said that they endeavoured
 to correct this antinomianism; but they hardly succeeded.
 
-<span id="fn_5"></span>[25:1](tpol03.htm#fr_5) One of the most popular
+<span id="fn_5"></span>[25:1](tpol03.htm#fr_5.md) One of the most popular
 Mahayanist texts is the Sukhāvatī-vyūha, which is detailed description
 of this fairyland.
 
-<span id="fn_6"></span>[28:1](tpol03.htm#fr_6) Bodhi-sattvas.
+<span id="fn_6"></span>[28:1](tpol03.htm#fr_6.md) Bodhi-sattvas.
 
-<span id="fn_7"></span>[28:2](tpol03.htm#fr_7) See above, [p.
-15](#page_15).
+<span id="fn_7"></span>[28:2](tpol03.htm#fr_7.md) See above, [p.
+15](#page_15.md).
 
-<span id="fn_8"></span>[29:1](tpol03.htm#fr_8) See above, [p.
-12](#page_12).
+<span id="fn_8"></span>[29:1](tpol03.htm#fr_8.md) See above, [p.
+12](#page_12.md).
 
-<span id="fn_9"></span>[29:2](tpol03.htm#fr_9) See above, [p.
-16](#page_16).
+<span id="fn_9"></span>[29:2](tpol03.htm#fr_9.md) See above, [p.
+16](#page_16.md).
 
-<span id="fn_10"></span>[29:3](tpol03.htm#fr_10) From the Larger
+<span id="fn_10"></span>[29:3](tpol03.htm#fr_10.md) From the Larger
 *Prajnā-pāramitā-hridaya-sūtra*, translated in Sacred Books of the East,
 vol. xlix.
 
-<span id="fn_11"></span>[32:1](tpol03.htm#fr_11) Abundant illustration
+<span id="fn_11"></span>[32:1](tpol03.htm#fr_11.md) Abundant illustration
 will be found in the art of Northern Buddhism, especially in the
 frescoes of the recently discovered temples of Chinese Turkestan.
 
-<span id="fn_12"></span>[33:1](tpol03.htm#fr_12) This explanation is due
+<span id="fn_12"></span>[33:1](tpol03.htm#fr_12.md) This explanation is due
 to M. L. de la Vallée Poussin, in his article *The Three Bodies of a
 Buddha*, in the Journal of the Royal Asiatic Society, 1906, p. 943 foll.
 The reader should also consult Suzuki's *Outlines of Mahā-yāna
 Buddhism*.
 
-<span id="fn_13"></span>[36:1](tpol03.htm#fr_13) I have much pleasure in
+<span id="fn_13"></span>[36:1](tpol03.htm#fr_13.md) I have much pleasure in
 acknowledging my debt of gratitude to Professor Poussin's masterly
 French translation of the text published in the *Revue d’Histoire et de
 Littérature Religieuses*, vols. x.–xii. (1905-1907) under the title
@@ -824,6 +824,6 @@ Littérature Religieuses*, vols. x.–xii. (1905-1907) under the title
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Praise of the Thought of Enlightenment](tpol04)
+[Next: Chapter I. The Praise of the Thought of Enlightenment](tpol04.md)
 
 </div>

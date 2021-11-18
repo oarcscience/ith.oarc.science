@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp37)  [Next](prp39) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp37)  [Next](prp39.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ receive.
 
 ------------------------------------------------------------------------
 
-[Next: 39. Form-charms in Mercury have might to please](prp39)
+[Next: 39. Form-charms in Mercury have might to please](prp39.md)

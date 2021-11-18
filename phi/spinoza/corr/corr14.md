@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr13)  [Next](corr15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr13)  [Next](corr15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -59,16 +59,16 @@ and favour the devoted admirer of your teaching and virtue,
 
 HENRY OLDENBURG.
 
-London, 8 June, 1675. <span id="fr_14"></span>[1](#fn_14)
+London, 8 June, 1675. <span id="fr_14"></span>[1](#fn_14.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_14"></span>[295:1](corr14.htm#fr_14) The old edition gives
+<span id="fn_14"></span>[295:1](corr14.htm#fr_14.md) The old edition gives
 the date 8 Oct., 1665. but this is obviously incorrect, as the Tractatus
 Theologico-Politicus was not published till 1670.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XVIII. From Oldenburg](corr15)
+[Next: Letter XVIII. From Oldenburg](corr15.md)

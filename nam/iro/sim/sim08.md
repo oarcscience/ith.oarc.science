@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim07)  [Next](sim09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim07)  [Next](sim09.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ GÉNO<sup>n</sup>SKWAs."
 
 ------------------------------------------------------------------------
 
-[Next: Hótho Conquers Shagodyoweg Gowa](sim09)
+[Next: Hótho Conquers Shagodyoweg Gowa](sim09.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida12)  [Next](ida14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida12)  [Next](ida14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -480,7 +480,7 @@ She seemed proud of it. I felt that in her I had an ally in case of
 need.
 
 "I remember your name, Tanit-Zerga, because it is beautiful." <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 Then I added:
 
@@ -518,10 +518,10 @@ I saw the limitless red desert.
 
 ### Footnotes
 
-<span id="fn_12"></span>[174:1](ida13.htm#fr_12) In Berber, Tanit means
+<span id="fn_12"></span>[174:1](ida13.htm#fr_12.md) In Berber, Tanit means
 a spring; zerga is the feminine of the adjective azreg, blue. (Note by
 M. Leroux.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Morhange Disappears](ida14)
+[Next: Chapter XII. Morhange Disappears](ida14.md)

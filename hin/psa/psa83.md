@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa82)  [Next](psa84) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa82)  [Next](psa84.md) 
 
 ------------------------------------------------------------------------
 
@@ -169,7 +169,7 @@ kindness towards me."
 
 On hearing these words, O great king! Basoodeo Jee taking compassion on
 her, said, his eyes being filled with tears, Sister! what dost thou say
-to me? I have had no [control](errata.htm#24) in these matters, the
+to me? I have had no [control](errata.htm#24.md) in these matters, the
 condition or circumstances of fate are not known. The will of Huri is
 very powerful, behold! what griefs I endured at the hands of Kuns; the
 whole world has become subservient to Krishnù; behold! whatever griefs
@@ -237,4 +237,4 @@ their confidence.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXXIII](psa84)
+[Next: Chapter LXXXIII](psa84.md)

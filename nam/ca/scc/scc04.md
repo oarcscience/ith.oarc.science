@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc03)  [Next](scc05) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc03)  [Next](scc05.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ walk. Alas for me! Now I go."
 
 ------------------------------------------------------------------------
 
-[Next: 3.--Rumsien Costanoan. Coyote And The Hummingbird.](scc05)
+[Next: 3.--Rumsien Costanoan. Coyote And The Hummingbird.](scc05.md)

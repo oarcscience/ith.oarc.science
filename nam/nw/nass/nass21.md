@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass20)  [Next](nass22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass20)  [Next](nass22.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,15 +90,15 @@ Nâ-LEm-t?an nak\*sk<sup>u</sup>L Lgō-Lkwe Sqa-w
 That is, "Who will marry my daughter Sqawô?" When she had finished
 singing, a grouse came. He sat down and said, "I will marry your
 daughter." The mother asked, "What can you do?" <span
-id="fr_9"></span>[1](#fn_9) The grouse replied, "(When we fight) we
+id="fr_9"></span>[1](#fn_9) The grouse replied, "(When we fight.md) we
 raise our feathers and frighten man." <span
-id="fr_10"></span>[2](#fn_10)The mother replied, "That is not enough,"
+id="fr_10"></span>[2](#fn_10.md)The mother replied, "That is not enough,"
 and the grouse left.
 
 The mother sang again, "Who will marry my daughter Sqawô?" Then the
 squirrel came and said, "I will marry your daughter." The mother
 replied, "What can you do?" Then the squirrel said, "We only throw down
-acorns and frighten man." <span id="fr_11"></span>[3](#fn_11) "That is
+acorns and frighten man." <span id="fr_11"></span>[3](#fn_11.md) "That is
 not enough; go away!" said the mother.
 
 <span id="page_223">p. 223</span>
@@ -231,14 +231,14 @@ Hîslēgiyō'ôntk<sup>u</sup>.
 
 ### Footnotes
 
-<span id="fn_9"></span>[222:1](nass21.htm#fr_9) Ago' si-gwix\*-hwî'lEn?
+<span id="fn_9"></span>[222:1](nass21.htm#fr_9.md) Ago' si-gwix\*-hwî'lEn?
 
-<span id="fn_10"></span>[222:2](nass21.htm#fr_10) Q'am-hō'saldEm la'yîm,
+<span id="fn_10"></span>[222:2](nass21.htm#fr_10.md) Q'am-hō'saldEm la'yîm,
 nLk\*?ē hō'tSiL g\*a'dEm.
 
-<span id="fn_11"></span>[222:3](nass21.htm#fr_11) Q?am-ma'g\*ildEm mäq,
+<span id="fn_11"></span>[222:3](nass21.htm#fr_11.md) Q?am-ma'g\*ildEm mäq,
 nLk\*?ē hōtL g\*at.
 
 ------------------------------------------------------------------------
 
-[Next: Asi-hwî'l](nass22)
+[Next: Asi-hwî'l](nass22.md)

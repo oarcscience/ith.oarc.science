@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jes05)  [Next](jes07) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jes05)  [Next](jes07.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ beautiful of compliments.
 
 ------------------------------------------------------------------------
 
-[Next: The Injeel (Gospel) is A Heavenly Revealed Book](jes07)
+[Next: The Injeel (Gospel) is A Heavenly Revealed Book](jes07.md)

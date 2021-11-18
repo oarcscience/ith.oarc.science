@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](msi04)  [Next](msi06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](msi04)  [Next](msi06.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ City Madam*, and *The Chast Maid of Cheapside*.
 
 Thompson's play of The English Rogue, was also dramatised from a book by
 Richard Head, for whose dubious writings Thompson, therefore, seems to
-have [had](errata.htm#0) admiration.
+have [had](errata.htm#0.md) admiration.
 
 There may be other ancient versions of Mother Shipton's prophecies, but
 none are known of an earlier date than 1641, and I have dealt with the
@@ -260,4 +260,4 @@ had an actual existence.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Sixth](msi06)
+[Next: Chapter Sixth](msi06.md)

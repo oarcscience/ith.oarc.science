@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip66)  [Next](fip68) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip66)  [Next](fip68.md) 
 
 ------------------------------------------------------------------------
 
@@ -1016,4 +1016,4 @@ satisfaction of still taking in as many as possible.
 
 ------------------------------------------------------------------------
 
-[Next: Giants](fip68)
+[Next: Giants](fip68.md)

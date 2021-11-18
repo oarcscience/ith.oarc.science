@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg32)  [Next](hchg34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg32)  [Next](hchg34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -315,7 +315,7 @@ promise that at some time subsequently--when that was removed which
 hindered the consummation of the marriage in chastity--there should
 arise, as issue from those high nuptials, the mystic genealogy of the
 Swan Knight, whereby the Holy Sepulchre would be delivered. It is for
-this reason that--by a [covenant](errata.htm#2) which was made between
+this reason that--by a [covenant](errata.htm#2.md) which was made between
 them--Blanchefleur remained a maid on the night of her bridal. Of such
 was the marriage of Perceval, and thereafter he who was lord henceforth
 of all her lands, holding the sworn fealty of many princes and barons,
@@ -357,4 +357,4 @@ putative Walter Map.
 ------------------------------------------------------------------------
 
 [Next: § F.--In Which Sir Gawain is Considered Briefly as a Companion of
-the Holy Quest](hchg34)
+the Holy Quest](hchg34.md)

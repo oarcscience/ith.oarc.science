@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil37)  [Next](egil39) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil37)  [Next](egil39.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ out freebooting, and was seldom at home.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXXVIII. Thorolf comes out to Iceland.](egil39)
+[Next: CHAPTER XXXVIII. Thorolf comes out to Iceland.](egil39.md)

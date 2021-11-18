@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg39)  [Next](cdg41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg39)  [Next](cdg41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -118,15 +118,15 @@ the word:--
 |-----|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | R.  |     | External manifestation.                                                                                                                                                                                                                                                                                                                                        |
 | A.  |     | The Divine Principle.                                                                                                                                                                                                                                                                                                                                          |
-| K.  |     | Concavity or turning. <span id="fr_179"></span>[†](#fn_179)                                                                                                                                                                                                                                                                                                    |
+| K.  |     | Concavity or turning. <span id="fr_179"></span>[†](#fn_179.md)                                                                                                                                                                                                                                                                                                    |
 | I.  |     | Extension.                                                                                                                                                                                                                                                                                                                                                     |
-| M.  |     | Amplitude or evolution. Thus translated and interpreted Rakim is seen to be the external manifestation of the Divine Principle in man, the focussing centres for its extension through evolution, or the ganglia of the sympathetic nervous system through which the  <span id="fr_180"></span>[\*](#fn_180)Divine Force passes in its external manifestation. |
+| M.  |     | Amplitude or evolution. Thus translated and interpreted Rakim is seen to be the external manifestation of the Divine Principle in man, the focussing centres for its extension through evolution, or the ganglia of the sympathetic nervous system through which the  <span id="fr_180"></span>[\*](#fn_180.md)Divine Force passes in its external manifestation. |
 
 </div>
 
 "When the youths betook them to the cave they said, 'O our Lord! grant
 us mercy from before thee, and order for us our affair aright.' Then
-struck we <span id="fr_181"></span>[‡](#fn_181) upon their ears *with
+struck we <span id="fr_181"></span>[‡](#fn_181.md) upon their ears *with
 deafness* in the cave for many a year:"
 
 <div style="margin-left: 32px">
@@ -149,7 +149,7 @@ followed by a gradual decline or somnolence of the masses prior to
 regeneration in the coming spiritual cycle. Thus the statement is made
 by St. Paul, "The first man Adam became a living animal (*Gen. ii, 7*);
 the last Adam is a life-giving spirit." <span
-id="fr_182"></span>[‡](#fn_182) And in the Koran, Sura xcv, The Fig, it
+id="fr_182"></span>[‡](#fn_182.md) And in the Koran, Sura xcv, The Fig, it
 is written "Of goodliest fabric we created man, then brought him down to
 be the lowest of the low;--save who believe and do the things that are
 right, for theirs shall be a reward that faileth not." "NEW TESTAMENT IN
@@ -163,7 +163,7 @@ best reckon the space of their abiding."
 <div style="margin-left: 32px">
 
 The two parties are the higher and lower nature of man. <span
-id="fr_183"></span>[\*](#fn_183)
+id="fr_183"></span>[\*](#fn_183.md)
 
 </div>
 
@@ -191,7 +191,7 @@ misinterpret.
 
 "So when ye shall have separated you from them and from that which they
 worship beside God, then betake you to the cave: Your Lord <span
-id="fr_184"></span>[†](#fn_184) will unfold his mercy to you, and will
+id="fr_184"></span>[†](#fn_184.md) will unfold his mercy to you, and will
 order your affairs for you for the best."
 
 <div style="margin-left: 32px">
@@ -230,7 +230,7 @@ Nature's Force made manifest in man as the illuminator of the mind and
 giver forth of knowledge. Allah as the misleader of man is Nature's
 Force manifesting in man misgoverned by the human mind. "Thus (Allah)
 God misleadeth whom He will, and whom He will doth He guide
-aright." <span id="fr_185"></span>[\*](#fn_185) KORAN, SURA, lxxiv, "THE
+aright." <span id="fr_185"></span>[\*](#fn_185.md) KORAN, SURA, lxxiv, "THE
 ENWRAPPED." EVERYMAN'S LIBRARY EDITION, PAGE 23.
 
 </div>
@@ -391,7 +391,7 @@ by the Sleepers and their dog.
 say, 'Seven; their dog the eighth.' SAY: My Lord best knoweth the
 number: none, save a few, shall know them. Therefore be clear in thy
 discussions about them. . . And when thou has forgotten, call thy Lord
-to mind; and say, 'Haply my Lord <span id="fr_186"></span>[\*](#fn_186)
+to mind; and say, 'Haply my Lord <span id="fr_186"></span>[\*](#fn_186.md)
 will guide me, that I may come near to *the truth* of this *story* with
 correctness.'"
 
@@ -408,31 +408,31 @@ the same source--Allah, Nature, God.
 
 ### Footnotes
 
-<span id="fn_179"></span>[257:†](cdg40.htm#fr_179) *The energised
+<span id="fn_179"></span>[257:†](cdg40.htm#fr_179.md) *The energised
 ganglia may be described as concave rotating disks*.
 
-<span id="fn_180"></span>[257:\*](cdg40.htm#fr_180) *Solar Force Defined
-page [48](cdg05.htm#page_48), [50](cdg05.htm#page_50),
-[42](cdg05.htm#page_42)*.
+<span id="fn_180"></span>[257:\*](cdg40.htm#fr_180.md) *Solar Force Defined
+page [48](cdg05.htm#page_48), [50](cdg05.htm#page_50.md),
+[42](cdg05.htm#page_42.md)*.
 
-<span id="fn_181"></span>[257:‡](cdg40.htm#fr_181) *Angel Gabriel
+<span id="fn_181"></span>[257:‡](cdg40.htm#fr_181.md) *Angel Gabriel
 speaking*.
 
-<span id="fn_182"></span>[258:‡](cdg40.htm#fr_182) 1 CORINTHIANS, XV,
+<span id="fn_182"></span>[258:‡](cdg40.htm#fr_182.md) 1 CORINTHIANS, XV,
 45.
 
-<span id="fn_183"></span>[258:\*](cdg40.htm#fr_183) "*The soul and the
+<span id="fn_183"></span>[258:\*](cdg40.htm#fr_183.md) "*The soul and the
 mind. The 'sacred war,' the greater, is the putting down of the mind
 (resignation to the unknown) in order that the soul may be master over
 it. Islam may be translated, resigned to the soul*."
 
-<span id="fn_184"></span>[259:†](cdg40.htm#fr_184) *The Divine Self*.
+<span id="fn_184"></span>[259:†](cdg40.htm#fr_184.md) *The Divine Self*.
 
-<span id="fn_185"></span>[260:\*](cdg40.htm#fr_185) *Compare Satan
-Cabalistically Defined, page* [116](cdg08.htm#page_116).
+<span id="fn_185"></span>[260:\*](cdg40.htm#fr_185.md) *Compare Satan
+Cabalistically Defined, page* [116](cdg08.htm#page_116.md).
 
-<span id="fn_186"></span>[264:\*](cdg40.htm#fr_186) *Divine Self*.
+<span id="fn_186"></span>[264:\*](cdg40.htm#fr_186.md) *Divine Self*.
 
 ------------------------------------------------------------------------
 
-[Next: EE. Sleep](cdg41)
+[Next: EE. Sleep](cdg41.md)

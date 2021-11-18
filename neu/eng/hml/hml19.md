@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml18)  [Next](hml20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml18)  [Next](hml20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -243,13 +243,13 @@ amend my estate in His own good time."
 <span id="img_32000"></span>
 
 [![''I have no money worth offering''](tn/32000.jpg)  
-Click to enlarge](img/32000.jpg)  
+Click to enlarge](img/32000.jpg.md)  
 ''I have no money worth offering''  
 
 <span id="img_32100"></span>
 
 [![''Sir Richard knelt in courteous salutation''](tn/32100.jpg)  
-Click to enlarge](img/32100.jpg)  
+Click to enlarge](img/32100.jpg.md)  
 ''Sir Richard knelt in courteous salutation''  
 
  
@@ -587,13 +587,13 @@ was obliged to celebrate the three usual Masses, was
 <span id="img_33000"></span>
 
 [![''Much shot the monk to the heart''](tn/33000.jpg)  
-Click to enlarge](img/33000.jpg)  
+Click to enlarge](img/33000.jpg.md)  
 ''Much shot the monk to the heart''  
 
 <span id="img_33100"></span>
 
 [![''Her pleading won relief for them''](tn/33100.jpg)  
-Click to enlarge](img/33100.jpg)  
+Click to enlarge](img/33100.jpg.md)  
 ''Her pleading won relief for them''  
 
  
@@ -686,4 +686,4 @@ the sides of all oppressors and tyrants.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Hereward the Wake](hml20)
+[Next: Chapter XVI. Hereward the Wake](hml20.md)

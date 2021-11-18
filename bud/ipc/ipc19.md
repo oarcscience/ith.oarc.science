@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc18)  [Next](ipc20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc18)  [Next](ipc20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ we call S’iva-Buddhism was the religion of the island.
 Bishop Copleston, in his work "Buddhism," combats this, and he begins
 with as, it seems to me, a slight mistake. He says that Hiouen Thsiang
 "describes a school of Mahayana existing as far south as Ceylon." <span
-id="fr_249"></span>[\*](#fn_248) This is not at all what the Chinese
+id="fr_249"></span>[\*](#fn_248.md) This is not at all what the Chinese
 traveller says.
 
 <span id="page_246">p. 246</span>
@@ -75,7 +75,7 @@ At Kânchapura, the Chinese pilgrim came upon three hundred monks who had
 just fled across the water from Ceylon to escape the anarchy and famine
 consequent on the death of the king there. This stopped his visit. The
 Bishop "sets him aside" because he never reached the Island at
-all, <span id="fr_250"></span>[\*](#fn_249) but supposing that Dr. Pusey
+all, <span id="fr_250"></span>[\*](#fn_249.md) but supposing that Dr. Pusey
 was visiting the Isle of Man to see if "Church" ideas had reached the
 clergy of that island; and supposing that the steamer were wrecked but
 the passengers rescued by another steamer, coming from the Isle of Man,
@@ -98,7 +98,7 @@ heresy grew the system which prevails to the present day by which the
 heterodox Dewales and halls for devil dancing are built in close
 contiguity to the temples and Wiharas of the orthodox Buddhists, and the
 barbarous rites of demon worship are incorporated with the abstractions
-of the national religion." <span id="fr_251"></span>[\*](#fn_250)
+of the national religion." <span id="fr_251"></span>[\*](#fn_250.md)
 
 What was the devil dancing? A very able work will help us here. In the
 year 1829 Mr. Edward Upham published a work on "Kappooism," or the Demon
@@ -132,7 +132,7 @@ Seat of Supremacy; and fire issued from the four points of the compass
 which frightened the "devils," as Mr. Upham calls them, still more. But
 Buddha released them from hell, preached to them and comforted them, and
 handed over to them the wood called Jak-girre for their abode. <span
-id="fr_252"></span>[\*](#fn_251)
+id="fr_252"></span>[\*](#fn_251.md)
 
 Two points are prominent. The legend is intended to give an account of
 the religion of Buddha superseding that of Samana Deva Râja, or S’iva
@@ -145,11 +145,11 @@ A second legend announces that Buddha at his death handed over the Minne
 Phalange to Deva Râja. I do not see that this can mean anything except
 the advent of S’iva Buddhism, with the date purposely mis-stated (p.
 130). Deva Rajah is S’iva, and S’iva now rules once more. <span
-id="fr_253"></span>[†](#fn_252)
+id="fr_253"></span>[†](#fn_252.md)
 
 <span id="img_pl20"></span> <span align="CENTER"> [![PLATE 20.&lt;br&gt;
 SEKKRAIA SINKING INTO THE STONE.](tn/pl20.jpg)  
-Click to enlarge](img/pl20.jpg)  
+Click to enlarge](img/pl20.jpg.md)  
 PLATE 20.  
 SEKKRAIA SINKING INTO THE STONE.  
 </span>
@@ -165,7 +165,7 @@ Pantheism, its god has two faces, that of the god of what men call
 "evil," as well as the god of what men call good.
 
 Though the name Sekkraia and some of the facts concerning him indicate
-the god Indra ([Plate 20](#img_pl20)), there is much more of S’iva in
+the god Indra ([Plate 20](#img_pl20).md), there is much more of S’iva in
 his composition.
 
 Sekkraia has in the Devaloka a most wonderful tree, the Tavateinza Tree.
@@ -181,7 +181,7 @@ to the festival.
 "Erravum" is Indra's famous elephant, Airâvana, but the Stone of
 Supremacy is the lingam. On it Sekkraia stands when he administers
 justice: that is when he is S’iva as Yama. If the accused is guilty, the
-god sinks partly into the stone. It does not want [Plate 20](#img_pl20)
+god sinks partly into the stone. It does not want [Plate 20](#img_pl20.md)
 to tell exactly what that means. Man, stone, and spire-shaped crown make
 up an unmistakeable Lingam.
 
@@ -189,7 +189,7 @@ The gods of Kappoism are worshipped in erections, chiefly rude, called
 Dewales (devalayas?), and Dr. Davy is cited by Mr. Upham as announcing
 "that it is not uncommon to see a Dewale and a Wihara (Buddhist Temple)
 contiguous, or under the same roof." <span
-id="fr_254"></span>[\*](#fn_253) The Dewales have for presiding genius
+id="fr_254"></span>[\*](#fn_253.md) The Dewales have for presiding genius
 the
 
 <span id="page_250">p. 250</span>
@@ -210,7 +210,7 @@ only saw the Kappooa dancing before the place, with hollow bangles on
 his arms filled with stones to make a jingle. Inside the maduwa was a
 sick man, near his feet was a wicker basket. This I lifted up. It
 contained a live cock smeared all over with soot. <span
-id="fr_255"></span>[\*](#fn_254)
+id="fr_255"></span>[\*](#fn_254.md)
 
 "The man who acts the part of the devil is dressed in a garment of dried
 grass or rushes which reaches to the ground. His arms and his feet are
@@ -227,7 +227,7 @@ made to the "Balis." A mummer
 
 <span id="img_pl21"></span> <span align="CENTER"> [![PLATE 21.&lt;br&gt;
 BALI DEVIL-DANCER.](tn/pl21.jpg)  
-Click to enlarge](img/pl21.jpg)  
+Click to enlarge](img/pl21.jpg.md)  
 PLATE 21.  
 BALI DEVIL-DANCER.  
 </span>
@@ -239,10 +239,10 @@ impersonating the "Bali." The word "Bali" means literally a sacrifice,
 but in Nepal and also in Ceylon it is used to denote the sorcerers as
 well. The "devil" in Nepal is called Bhairava. In Ceylon he has two
 enormous teeth, and turning to Mr. Upham's plates I find that the demon
-so furnished (See [Plate 21](#img_pl21)) is called Coola Kumara. Kumara
+so furnished (See [Plate 21](#img_pl21).md) is called Coola Kumara. Kumara
 is S’iva's son, and dancing before the altar a S’ivan rite.
 
-All the Cingalese, including the Buddhist [hierarchy](errata.htm#33),
+All the Cingalese, including the Buddhist [hierarchy](errata.htm#33.md),
 admit that above Buddha there is a superior God, Saman-deva-râja. This
 God, says Mr. Upham, is called Saman from Samane Galle (Adam's Peak),
 "where he is now living with his deities with power over Ceylon" (p.
@@ -307,7 +307,7 @@ barnacles quite outside the ship.
 
 <span id="img_pl22"></span> <span align="CENTER"> [![PLATE 22.&lt;br&gt;
 SESH DISGUISED AS BUDDHA.](tn/pl22.jpg)  
-Click to enlarge](img/pl22.jpg)  
+Click to enlarge](img/pl22.jpg.md)  
 PLATE 22.  
 SESH DISGUISED AS BUDDHA.  
 </span>
@@ -352,7 +352,7 @@ the convocation in his own dominions.
 to answer and refute them. The whole convocation is attached to this
 kingdom. Why compose S’âstras? Your realms are defended on all sides by
 high mountains under the guardianship of Yakshas." <span
-id="fr_256"></span>[\*](#fn_255)
+id="fr_256"></span>[\*](#fn_255.md)
 
 Is it stretching a point to say that the high-handed monarch, although
 he yielded on this occasion, still exerted a pressure which was
@@ -374,7 +374,7 @@ crowd as he passes along. There is no death, only change. The Kosmos is
 a vast penitentiary. Buddha, it is said, was once a Yaksha, a foul
 corpse-eating ghoul. And as Mr. Upham tells us, he was once Sekkraia,
 the God Indra, and he "ruled the Tavateinza heavens with thirty-two
-Nat-devas as his Counsellors." <span id="fr_257"></span>[†](#fn_256)
+Nat-devas as his Counsellors." <span id="fr_257"></span>[†](#fn_256.md)
 Then again he was
 
 <span id="page_255">p. 255</span>
@@ -387,7 +387,7 @@ parasol, is made into a comic character, during Buddha's great struggle
 with Mara the tempter.
 
 "Maha Brahmâ offers flowers to the cloth that cleans my feet." <span
-id="fr_258"></span>[\*](#fn_257) Dr. Rhys Davids tells us that Buddha
+id="fr_258"></span>[\*](#fn_257.md) Dr. Rhys Davids tells us that Buddha
 had been six times on the earth as Brahma, and the Tibetans have "Buddha
 devils" in their hells. In point of fact, the lines that mark off hell
 from heaven, and a corpse-eating Yaksha from a bright Deva with a golden
@@ -422,7 +422,7 @@ hell. Here we have, without doubt, Buddha's descent into Hell, an
 experience which was a prominent point of all the old Bacchantic
 Mysteries. It is added that Buddha being compassionate, caused a
 floating island called Jak Girri to come, and upon that he installed the
-Yakshas. <span id="fr_259"></span>[\*](#fn_258)
+Yakshas. <span id="fr_259"></span>[\*](#fn_258.md)
 
 I will show later on from five bas reliefs of the Amarâvatî Tope now at
 the British Museum, that this story must have been much valued in the
@@ -480,7 +480,7 @@ describe their masks. But one point struck me. A bevy of handsome women,
 nearly naked, support each other in the air and make up a pyramid, the
 apex being crowned with a "cup." The native poet says frankly that all
 this is intended to excite the animal passions of "gallants." <span
-id="fr_260"></span>[\*](#fn_259) Now the Tibetan mystery gives the
+id="fr_260"></span>[\*](#fn_259.md) Now the Tibetan mystery gives the
 
 <span id="page_258">p. 258</span>
 
@@ -497,7 +497,7 @@ And Spence Hardy writes thus:—
 
 "Europeans are not allowed to enter the dewâles, and it is difficult to
 ascertain the exact nature of the rites therein performed." <span
-id="fr_261"></span>[\*](#fn_260)
+id="fr_261"></span>[\*](#fn_260.md)
 
 That difficulty might have been overcome if the writer had studied the
 religion of S’iva as clearly as he shows in his admirable work that he
@@ -522,7 +522,7 @@ the god."
 
 "The child had one hand free," says Miss Carmichæl. "She waved it to me
 and smiled, and then the dark trees hid her from me." <span
-id="fr_262"></span>[\*](#fn_261)
+id="fr_262"></span>[\*](#fn_261.md)
 
 The little thing had joined the bands of temple women who dance and sing
 in the processions and feasts. Some are carried off like this, even when
@@ -536,7 +536,7 @@ Emerson Tennant, "the lower classes exhibit a licentiousness so shocking
 and practices so inconceivably vile as would scarcely obtain credence."
 
 We learn also from him that polyandry is winked at by the Buddhist
-priests. <span id="fr_263"></span>[†](#fn_262)
+priests. <span id="fr_263"></span>[†](#fn_262.md)
 
 *Apropos* of human sacrifices. Mr. M. Conway gives a story from Ceylon
 which is very instructive. There was a Cingalese King whose wife had
@@ -546,7 +546,7 @@ she could never have a son unless she sacrificed a "virgin" to this
 demon once a year. This was done until the Queen was an old woman. Then
 the sacrifice was stopped, but so many diseases fell upon the royal
 family that the sinister remedy was renewed until the arrival of the
-British in Kandi in 1815. <span id="fr_264"></span>[‡](#fn_263) If all
+British in Kandi in 1815. <span id="fr_264"></span>[‡](#fn_263.md) If all
 this was done openly as late as that, what may have been done and may be
 doing even now in secret?
 
@@ -561,7 +561,7 @@ scraped, and denuded of the flesh, and cabalistic figures were drawn
 upon it, and the name of a person whose death was desired was inserted
 on it. Then it was taken to a graveyard, and for forty nights the evil
 spirits were invoked to destroy the proposed victim. <span
-id="fr_265"></span>[\*](#fn_264)
+id="fr_265"></span>[\*](#fn_264.md)
 
 These skulls the "Tamil Doctor" obtained, sometimes by murder, at others
 by the baby farming of his wife. The man got away, but left behind him a
@@ -570,7 +570,7 @@ the Destroyer," suitable for every imaginable purpose.
 
 The festival of the "Perahar" described by the sailor Knox, shows how
 completely the religion of S’iva reigned in his day supreme in the
-Island. <span id="fr_266"></span>[†](#fn_265) A branch of a tree covered
+Island. <span id="fr_266"></span>[†](#fn_265.md) A branch of a tree covered
 with flowers was the chief object of worship (S’iva as the Tavateinza
 tree). This paraded the streets on a magnificent elephant, with many
 drums and trumpets; and S’iva's son, Cottaragom (Kattragam or
@@ -587,7 +587,7 @@ Cingalese worship as a chief
 
 <span id="img_pl23"></span> <span align="CENTER"> [![PLATE 23.&lt;br&gt;
 DURGÂ AS A GIANTESS.&lt;br&gt; From Amarâvatî](tn/pl23.jpg)  
-Click to enlarge](img/pl23.jpg)  
+Click to enlarge](img/pl23.jpg.md)  
 PLATE 23.  
 DURGÂ AS A GIANTESS.  
 From Amarâvatî  
@@ -605,7 +605,7 @@ shrine to the Devas.
 And Spence Hardy and Sir Emerson Tennant tell us that in the Mahâ-Dewayo
 Wihara Durgâ as Pattinee, and Saman Deva Rajah (S’iva) with his son
 Kattragam (Karttikeya), have their statues in the temple itself. <span
-id="fr_267"></span>[\*](#fn_266)
+id="fr_267"></span>[\*](#fn_266.md)
 
 I conclude this chapter with a design very popular in Ceylon. Is this
 the model from which the Java of Mr. Crawfurd received its jawless
@@ -613,7 +613,7 @@ S’iva?
 
 <span id="img_26100"></span> <span align="CENTER"> [![Design from
 Ceylon](tn/26100.jpg)  
-Click to enlarge](img/26100.jpg)  
+Click to enlarge](img/26100.jpg.md)  
   
 </span>
 
@@ -621,66 +621,66 @@ Click to enlarge](img/26100.jpg)
 
 ### Footnotes
 
-<span id="fn_248"></span>[245:\*](ipc19.htm#fr_249) Copleston "Buddhism
+<span id="fn_248"></span>[245:\*](ipc19.htm#fr_249.md) Copleston "Buddhism
 Primitive and Present," p. 11.
 
-<span id="fn_249"></span>[246:\*](ipc19.htm#fr_250) Copleston,
+<span id="fn_249"></span>[246:\*](ipc19.htm#fr_250.md) Copleston,
 "Buddhism," p. 11.
 
-<span id="fn_250"></span>[247:\*](ipc19.htm#fr_251) Sir Emerson Tennant,
+<span id="fn_250"></span>[247:\*](ipc19.htm#fr_251.md) Sir Emerson Tennant,
 "Ceylon," Vol. I., p. 380.
 
-<span id="fn_251"></span>[248:\*](ipc19.htm#fr_252) The legend is taken
+<span id="fn_251"></span>[248:\*](ipc19.htm#fr_252.md) The legend is taken
 from the Mahâwanso where is an account of Sumano Devah Rajah and of
 Buddha frightening the Yakkos in the garden of the Great Serpent by
 making his "carpet of skin fringe" fling forth flames in all directions.
 See "Mahâwanso," Turnour's translation, p. 3.
 
-<span id="fn_252"></span>[248:†](ipc19.htm#fr_253) Deva means the Deva
+<span id="fn_252"></span>[248:†](ipc19.htm#fr_253.md) Deva means the Deva
 of Devas, S’iva (Benfey's "Sanskrit Dictionary").
 
-<span id="fn_253"></span>[249:\*](ipc19.htm#fr_254) Upham "Hist.
+<span id="fn_253"></span>[249:\*](ipc19.htm#fr_254.md) Upham "Hist.
 Buddhism," p. 130.
 
-<span id="fn_254"></span>[250:\*](ipc19.htm#fr_255) Upham, "Hist.
+<span id="fn_254"></span>[250:\*](ipc19.htm#fr_255.md) Upham, "Hist.
 Buddhism." p. 121.
 
-<span id="fn_255"></span>[254:\*](ipc19.htm#fr_256) "Memoires de Hiouen
+<span id="fn_255"></span>[254:\*](ipc19.htm#fr_256.md) "Memoires de Hiouen
 Tsiang," Vol. I., p. 194.
 
-<span id="fn_256"></span>[254:†](ipc19.htm#fr_257) Upham, "Buddhism," p.
+<span id="fn_256"></span>[254:†](ipc19.htm#fr_257.md) Upham, "Buddhism," p.
 62.
 
-<span id="fn_257"></span>[255:\*](ipc19.htm#fr_258) Hardy's "Manual," p.
+<span id="fn_257"></span>[255:\*](ipc19.htm#fr_258.md) Hardy's "Manual," p.
 185.
 
-<span id="fn_258"></span>[256:\*](ipc19.htm#fr_259) Upham "History of
+<span id="fn_258"></span>[256:\*](ipc19.htm#fr_259.md) Upham "History of
 Buddhism," pp. 22, 59. See also "Asiatic Researches," vi. 207.
 
-<span id="fn_259"></span>[257:\*](ipc19.htm#fr_260) Calloway, "Kolan
+<span id="fn_259"></span>[257:\*](ipc19.htm#fr_260.md) Calloway, "Kolan
 Nattanowa," p. 46.
 
-<span id="fn_260"></span>[258:\*](ipc19.htm#fr_261) Spence Hardy,
+<span id="fn_260"></span>[258:\*](ipc19.htm#fr_261.md) Spence Hardy,
 "Eastern Monachism," p. 201.
 
-<span id="fn_261"></span>[259:\*](ipc19.htm#fr_262) Amy Wilson
+<span id="fn_261"></span>[259:\*](ipc19.htm#fr_262.md) Amy Wilson
 Carmichael, "Things as they are," p. 218.
 
-<span id="fn_262"></span>[259:†](ipc19.htm#fr_263) Sir Emerson Tennant,
+<span id="fn_262"></span>[259:†](ipc19.htm#fr_263.md) Sir Emerson Tennant,
 "Ceylon," II., 428.
 
-<span id="fn_263"></span>[259:‡](ipc19.htm#fr_264) M. Conway,
+<span id="fn_263"></span>[259:‡](ipc19.htm#fr_264.md) M. Conway,
 "Demonology," Vol. I., pp. 260, 266.
 
-<span id="fn_264"></span>[260:\*](ipc19.htm#fr_265) Sir E. Tennant,
+<span id="fn_264"></span>[260:\*](ipc19.htm#fr_265.md) Sir E. Tennant,
 "Ceylon," II., 428.
 
-<span id="fn_265"></span>[260:†](ipc19.htm#fr_266) Knox, "Relation of
+<span id="fn_265"></span>[260:†](ipc19.htm#fr_266.md) Knox, "Relation of
 Ceylon," p. 157.
 
-<span id="fn_266"></span>[261:\*](ipc19.htm#fr_267) Spence Hardy, p.
+<span id="fn_266"></span>[261:\*](ipc19.htm#fr_267.md) Spence Hardy, p.
 203.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Alexandria](ipc20)
+[Next: Chapter XVII. Alexandria](ipc20.md)

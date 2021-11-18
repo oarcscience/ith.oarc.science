@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr08)  [Next](wnr10) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr08)  [Next](wnr10.md) 
 
 ------------------------------------------------------------------------
 
@@ -176,4 +176,4 @@ children to live in, she will have no children at all?
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Birth Control--A Parents' Problem Or Woman's?](wnr10)
+[Next: VIII. Birth Control--A Parents' Problem Or Woman's?](wnr10.md)

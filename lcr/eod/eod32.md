@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod31)  [Next](eod33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod31)  [Next](eod33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -31,7 +31,7 @@ If the loss of blood was at first the only recognized cause of death,
 the act of birth was clearly the only process of life-giving. The portal
 by which a child entered the world was regarded, therefore, not only as
 the channel of birth, but also as the actual giver of life. <span
-id="fr_257"></span>[2](#fn_257) The large Red Sea cowry-shell, which
+id="fr_257"></span>[2](#fn_257.md) The large Red Sea cowry-shell, which
 closely simulates this "giver of life," then came to be endowed by
 popular imagination with the same powers. Hence the shell was used in
 the same way as red ochre or carnelian: it was placed in the grave to
@@ -39,7 +39,7 @@ confer vitality on the dead, and worn on bracelets and necklaces to
 secure good luck by using the "giver of life" to avert the risk of
 danger to life. Thus the general life-giving properties of blood, blood
 substitutes, and shells, came to be assimilated the one with the
-other. <span id="fr_258"></span>[3](#fn_258)
+other. <span id="fr_258"></span>[3](#fn_258.md)
 
 At first it was probably its more general power of averting death or
 giving vitality to the dead that played the more obtrusive part in the
@@ -47,7 +47,7 @@ magical use of the shell. But the circumstances which led to the
 
 <span id="img_fig18"></span> <span align="CENTER"> [![Fig.
 18](tn/fig18.jpg)  
-Click to enlarge](img/fig18.jpg)  
+Click to enlarge](img/fig18.jpg.md)  
 Fig. 18  
 </span>
 
@@ -67,7 +67,7 @@ cowries of the primitive girdle.</span>
 
 <span id="img_fig19"></span> <span align="CENTER"> [![Fig.
 19](tn/fig19.jpg)  
-Click to enlarge](img/fig19.jpg)  
+Click to enlarge](img/fig19.jpg.md)  
 Fig. 19  
 </span>
 
@@ -102,7 +102,7 @@ increase fertility: it was itself the actual parent of mankind, the
 creator of all living things; and the next step was to give these
 maternal functions material expression, and personify the cowry as an
 actual woman in the form of a statuette with the distinctly feminine
-characters grossly exaggerated; <span id="fr_259"></span>[1](#fn_259)
+characters grossly exaggerated; <span id="fr_259"></span>[1](#fn_259.md)
 and in the domain of belief to create the image of a Great Mother, who
 was the parent of the universe.
 
@@ -128,7 +128,7 @@ Nor had he begun to take anything more than the most casual
 
 interest in the sun, the moon, and the stars. He had not yet devised a
 sky-world nor created a heaven. When, for reasons that I have already
-discussed, <span id="fr_260"></span>[1](#fn_260) the theory of the
+discussed, <span id="fr_260"></span>[1](#fn_260.md) the theory of the
 fertilizing and the animating power of water was formulated, the beliefs
 concerning this element were assimilated with those which many ages
 previously had grown up in explanation of the potency of blood and
@@ -154,7 +154,7 @@ Others were found in the Mentone caves, and are peculiarly important,
 because, upon the same stratum as the skeleton with which they were
 associated, was found part of a *Cassis rufa*, a shell whose habitat
 does not extend any nearer than the Indian Ocean. <span
-id="fr_261"></span>[2](#fn_261)
+id="fr_261"></span>[2](#fn_261.md)
 
 These facts are very important. In the first place they reveal the great
 antiquity of the practice of burying shells with the dead, presumably
@@ -168,7 +168,7 @@ and the dwellers on the coasts of the Indian Ocean; and the probability
 
 <span id="img_fig20"></span> <span align="CENTER"> [![Fig.
 20](tn/fig20.jpg)  
-Click to enlarge](img/fig20.jpg)  
+Click to enlarge](img/fig20.jpg.md)  
 Fig. 20  
 </span>
 
@@ -192,7 +192,7 @@ latter.
 
 This hint assumes a special significance when we first get a clear view
 of the more fully-developed shell-cults of the Eastern Mediterranean
-many centuries later. <span id="fr_262"></span>[1](#fn_262) For then we
+many centuries later. <span id="fr_262"></span>[1](#fn_262.md) For then we
 find definite indications that the cultural uses of shells were
 obviously borrowed from the Erythræan area.
 
@@ -204,14 +204,14 @@ ability to give life and birth.
 
 ### Footnotes
 
-<span id="fn_256"></span>[150:1](eod31.htm#fr_256) Davies and Gardiner,
+<span id="fn_256"></span>[150:1](eod31.htm#fr_256.md) Davies and Gardiner,
 "The Tomb of Amenemhet," p. 112.
 
-<span id="fn_257"></span>[150:2](eod32.htm#fr_257) As it is still called
+<span id="fn_257"></span>[150:2](eod32.htm#fr_257.md) As it is still called
 in the Semitic languages. In the Egyptian Pyramid Texts there is a
 reference to a new being formed "by the vulva of Tefnut" (Breasted).
 
-<span id="fn_258"></span>[150:3](eod32.htm#fr_258) Many customs and
+<span id="fn_258"></span>[150:3](eod32.htm#fr_258.md) Many customs and
 beliefs of primitive peoples suggest that this correlation of the
 attributes of blood and shells went much deeper than the similarity of
 their use in burial ceremonies and for making necklaces and bracelets.
@@ -225,21 +225,21 @@ supposed to be derived from part of the same material) which harboured
 certain elements of the child's mentality (because blood was the
 substance of consciousness).
 
-<span id="fn_259"></span>[151:1](eod32.htm#fr_259) See S. Reinach, "Les
+<span id="fn_259"></span>[151:1](eod32.htm#fr_259.md) See S. Reinach, "Les
 Déesses Nues dans l’Art Oriental et dans l’Art Grec," *Revue Archéol.*,
 T. XXVI, 1895, p. 367. Compare also the figurines of the so-called Upper
 Palæolithic Period in Europe.
 
-<span id="fn_260"></span>[152:1](eod32.htm#fr_260) Chapter I.
+<span id="fn_260"></span>[152:1](eod32.htm#fr_260.md) Chapter I.
 
-<span id="fn_261"></span>[152:2](eod32.htm#fr_261) The literature
+<span id="fn_261"></span>[152:2](eod32.htm#fr_261.md) The literature
 relating to these important discoveries has been summarized by Wilfrid
 Jackson in his "Shells as Evidence of the Migrations of Early Culture,"
 pp. 135-7.
 
-<span id="fn_262"></span>[153:1](eod32.htm#fr_262) Cowries were obtained
+<span id="fn_262"></span>[153:1](eod32.htm#fr_262.md) Cowries were obtained
 in Neolithic sites at Hissarlik and Spain (Siret, *op. cit.*, p. 18).
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of Clothing](eod33)
+[Next: The Origin of Clothing](eod33.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh27)  [Next](seh29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh27)  [Next](seh29.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ points to Sankaracharya as the founder of the original temple.
 
 ------------------------------------------------------------------------
 
-[Next: The Ship of Flowers](seh29)
+[Next: The Ship of Flowers](seh29.md)

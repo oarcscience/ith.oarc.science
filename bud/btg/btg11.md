@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg10)  [Next](btg12) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg10)  [Next](btg12.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ said, "Siddhattha leaves us to seek a more pleasant abode." MARA
 
 ------------------------------------------------------------------------
 
-[Next: Mara, The Evil One](btg12)
+[Next: Mara, The Evil One](btg12.md)

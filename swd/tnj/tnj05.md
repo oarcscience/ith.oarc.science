@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](tnj04)  [Next](tnj06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](tnj04)  [Next](tnj06.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 <span class="margnote"><span id="201.">201.</span></span>
 
 Of the Lord's temptations. The Lord beyond all others <span
-id="fr_8"></span>[201-1](#fn_8) endured the most grievous and dreadful
+id="fr_8"></span>[201-1](#fn_8.md) endured the most grievous and dreadful
 temptations, which are but little described in the sense of the letter
 of the Word, but much in the internal sense (n. 1663, 1668, 1787, 2776,
 2786, 2795, 2814, 9528). The Lord fought from the Divine love towards
@@ -892,9 +892,9 @@ great ignorance there would be, if there were no revelation.
 
 ### Footnotes
 
-<span id="fn_8"></span>[201-1](tnj05.htm#fr_8) The translator omits the
+<span id="fn_8"></span>[201-1](tnj05.htm#fr_8.md) The translator omits the
 phrase "beyond all others." But the Latin, "prae omnibus" requires it.
 
 ------------------------------------------------------------------------
 
-[Next: 251-300](tnj06)
+[Next: 251-300](tnj06.md)

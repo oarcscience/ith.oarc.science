@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -351,4 +351,4 @@ and perhaps other wall-paintings at Aja.n.tâ.--ED.\]
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Buddhist Articles](../../bud/etc/index)
+[Journals](../index) [Buddhist Articles](../../bud/etc/index.md)

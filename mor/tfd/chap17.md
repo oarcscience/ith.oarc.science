@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap16) [Next](chap18)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap16) [Next](chap18.md)
 
 ------------------------------------------------------------------------
 
@@ -282,4 +282,4 @@ their good fortune.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII: A Tenderfoot's Romance](chap18)
+[Next: Chapter XVIII: A Tenderfoot's Romance](chap18.md)

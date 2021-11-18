@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inca](../index) [Index](index) [Previous](rly2) [Next](rly4)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inca](../index) [Index](index) [Previous](rly2) [Next](rly4.md)
 
 ------------------------------------------------------------------------
 
@@ -176,7 +176,7 @@ they say that his splendour illuminated the whole country, Yet the
 disdainful Cavillaca would not turn her head, but rather increased her
 speed, saying:—"I have <span id="page_127">p. 127</span> no wish to see
 any one, seeing that I have been made pregnant by a creature so vile and
-filthy."<span id="page_127_fr_1"></span>[1](#page_127_note_1) She
+filthy."<span id="page_127_fr_1"></span>[1](#page_127_note_1.md) She
 disappeared, and came to the sea coast of Pachacamac, where she entered
 the sea with her child, and was turned into a rock. They say that the
 two rocks may still be seen, which are mother and child. Coniraya
@@ -233,10 +233,10 @@ skin, or to raise you from the ground."
  He then met a falcon, which said that the lady Cavillaca was very near;
 so Coniraya declared that the falcon should be highly esteemed, that in
 the morning it should breakfast on the *alquenti*,<span
-id="page_128_fr_2"></span>[2](#page_128_note_2) which is a very delicate
+id="page_128_fr_2"></span>[2](#page_128_note_2.md) which is a very delicate
 and beautiful little bird living on the honey within the flowers (I do
 not know its name in Spanish),<span
-id="page_128_fr_3"></span>[3](#page_128_note_3) and during the day that
+id="page_128_fr_3"></span>[3](#page_128_note_3.md) and during the day that
 it should <span id="page_129">p. 129</span> eat any other bird it
 choose; and that he who killed it should also kill a llama in its
 honour; and that when he came out to sing and dance at the festivals, he
@@ -257,7 +257,7 @@ were turned into stone; and as he walked along the beach he met two
 beautiful young daughters of Pachacamac, who guarded a great serpent,
 because their mother was absent, visiting the recently arrived Cavillaca
 in the sea. The name of this wife of Pachacamac was *Urxayhuachac*.<span
-id="page_129_fr_4"></span>[4](#page_129_note_4) When Coniraya found
+id="page_129_fr_4"></span>[4](#page_129_note_4.md) When Coniraya found
 these girls alone without their mother, he did not care for the serpent,
 which he could keep quiet by his wisdom; so he had intercourse with the
 elder sister, and desired to do the same with the younger, but she flew
@@ -298,7 +298,7 @@ and they do to the lion all that was ordained in the blessing of
 Coniraya, bringing out the skin on great occasions, while he who owns it
 kills a llama. I have often seen this done in my own parish in
 Huarochiri, on occasion of the drinking bouts called
-*Huantachinaca*.<span id="page_130_fr_5"></span>[5](#page_130_note_5)
+*Huantachinaca*.<span id="page_130_fr_5"></span>[5](#page_130_note_5.md)
 
  Also as regards the fox, I have seen, in the village of San Juan, near
 that of Santa Ana, because one man cried out <span id="page_131">p.
@@ -369,7 +369,7 @@ answered it by asking whether there was any way by which they could save
 themselves. The llama then said that the man must follow it quickly to
 the summit of a high mountain <span id="page_133">p. 133</span> called
 Villca-coto, which is between this parish<span
-id="page_133_fr_6"></span>[6](#page_133_note_6) and San Geronimo de
+id="page_133_fr_6"></span>[6](#page_133_note_6.md) and San Geronimo de
 Surco, taking with him food for five days, and that he might thus be
 saved. The man did as he was told, carrying his load on his back and
 leading the llama, and he arrived on the summit of the mountain, where
@@ -412,7 +412,7 @@ the chain of mountains, and then continuing it again, which is absurd.
 How, too, could they know this if, as they say, it was before the
 deluge, when there can then have been no inhabitants; and if the deluge,
 as is certain, destroyed all, including even the llama on
-Vilica-coto?<span id="page_134_fr_7"></span>[7](#page_134_note_7)
+Vilica-coto?<span id="page_134_fr_7"></span>[7](#page_134_note_7.md)
 
  It is certain that there were no inhabitants in this land until many
 days and years after the deluge; for it was necessary that the
@@ -442,7 +442,7 @@ they assert that, after the deluge, they were all descended from that
 one man. It must now be understood that in the time after the deluge, in
 every district, the Indians chose the richest and most valiant man among
 them for their leader, and this period they call *Purunpacha*,<span
-id="page_135_fr_8"></span>[8](#page_135_note_8) which means the time
+id="page_135_fr_8"></span>[8](#page_135_note_8.md) which means the time
 when there was no king. They say that in those days there appeared five
 large eggs on a mountain between Huarochiri and Chorrillo, towards the
 south, (and this is the origin of *Pariacaca*) called Condorcoto. At
@@ -621,7 +621,7 @@ all beholders. Then a great multitude of huanacus and vicuñas came next
 day laden with straw for the roof; while llamas came with similar loads
 for the rich man's roof. But Huathiacuri ordered an animal that shrieks
 loudly, called *oscollo*,<span
-id="page_141_fr_9"></span>[9](#page_141_note_9) to station itself at a
+id="page_141_fr_9"></span>[9](#page_141_note_9.md) to station itself at a
 certain point; and it suddenly began to scream in such a way as to
 terrify the llamas, which shook off their loads, and all the straw was
 lost.
@@ -686,7 +686,7 @@ but first I must relate what happened to Pariacaca on the road.
 the place where now stands the village of Santa Maria de Jesus de
 Huarochiri, at the bottom of the ravine in which the river flows, and by
 which one goes to the parish of Quinti.<span
-id="page_143_fr_1"></span>[1](#page_143_note_1) Here there was a village
+id="page_143_fr_1"></span>[1](#page_143_note_1.md) Here there was a village
 called Huagaihusa, where they were celebrating a great festival. It is
 to be noted that all this country was then *yunca*, with a hot climate,
 according to the false opinion of the Indians. Pariacaca entered the
@@ -735,7 +735,7 @@ chapter.
 belong to the Ayllu Copara, and which then were in great want of water
 for irrigation. They did not then procure it from the river, but from a
 spring on the mountain called Sienacaca, which overhangs the village now
-called San Lorenzo.<span id="page_144_fr_2"></span>[2](#page_144_note_2)
+called San Lorenzo.<span id="page_144_fr_2"></span>[2](#page_144_note_2.md)
 A large dam was built across this spring, and other smaller dams were
 thrown across it lower down, by which means the fields were irrigated.
 In those days there was a very beautiful girl belonging to the Ayllu
@@ -797,7 +797,7 @@ since been repaired.
 working, Pariacaca besought the damsel to keep her promise, and she
 consented with a good grace, but proposed that they should go to the
 summit of some rocks called *Yanacaca*.<span
-id="page_146_fr_3"></span>[3](#page_146_note_3) This they did, and there
+id="page_146_fr_3"></span>[3](#page_146_note_3.md) This they did, and there
 Pariacaca obtained his desires, and she was well repaid for her love
 when she knew who he was. She would never let him go anywhere alone, but
 always desired to accompany him; and he took her to the head-works of
@@ -810,7 +810,7 @@ called Cocochalla.
 <span id="page_147">p. 147</span>
 
  Above this channel there is another called *Vim-lompa*,<span
-id="page_147_fr_4"></span>[4](#page_147_note_4) where there is another
+id="page_147_fr_4"></span>[4](#page_147_note_4.md) where there is another
 stone, into which they say *Coniraya* was turned.
 
 ------------------------------------------------------------------------
@@ -832,7 +832,7 @@ concerning this irrigating channel.)
 
 ------------------------------------------------------------------------
 
-[Next](rly4)
+[Next](rly4.md)
 
 ------------------------------------------------------------------------
 
@@ -840,63 +840,63 @@ concerning this irrigating channel.)
 
 <span id="footnotes_page_127">p. 127</span>
 
-<span id="page_127_note_1"></span>[1](#page_127_fr_1) They say that the
+<span id="page_127_note_1"></span>[1](#page_127_fr_1.md) They say that the
 word she used was *cachca-sapa*, which means "itchy".
 
 <span id="footnotes_page_128">p. 128</span>
 
-<span id="page_128_note_2"></span>[2](#page_128_fr_2) *Ccenti*, the
+<span id="page_128_note_2"></span>[2](#page_128_fr_2.md) *Ccenti*, the
 humming bird.
 
-<span id="page_128_note_3"></span>[3](#page_128_fr_3) *Tominejo*.
+<span id="page_128_note_3"></span>[3](#page_128_fr_3.md) *Tominejo*.
 
 <span id="footnotes_page_129">p. 129</span>
 
-<span id="page_129_note_4"></span>[4](#page_129_fr_4) *Urpi-huachac*.
+<span id="page_129_note_4"></span>[4](#page_129_fr_4.md) *Urpi-huachac*.
 
 <span id="footnotes_page_130">p. 130</span>
 
-<span id="page_130_note_5"></span>[5](#page_130_fr_5) Or *Ayrihua*. A
+<span id="page_130_note_5"></span>[5](#page_130_fr_5.md) Or *Ayrihua*. A
 harvest dance. The *huantay-sara* was the fertile stalk of maize round
 which the dance was performed.
 
 <span id="footnotes_page_133">p. 133</span>
 
-<span id="page_133_note_6"></span>[6](#page_133_fr_6) San Damian.
+<span id="page_133_note_6"></span>[6](#page_133_fr_6.md) San Damian.
 
 <span id="footnotes_page_134">p. 134</span>
 
-<span id="page_134_note_7"></span>[7](#page_134_fr_7) The origin of the
+<span id="page_134_note_7"></span>[7](#page_134_fr_7.md) The origin of the
 tradition is clear enough. The people of Huarochiri originally came from
 the coast, and hence they said that the land of their ancestors was hot.
 
 <span id="footnotes_page_135">p. 135</span>
 
-<span id="page_135_note_8"></span>[8](#page_135_fr_8) See [page
-70](rly2.htm#page_70).
+<span id="page_135_note_8"></span>[8](#page_135_fr_8.md) See [page
+70](rly2.htm#page_70.md).
 
 <span id="footnotes_page_141">p. 141</span>
 
-<span id="page_141_note_9"></span>[9](#page_141_fr_9) A wild cat.
+<span id="page_141_note_9"></span>[9](#page_141_fr_9.md) A wild cat.
 
 <span id="footnotes_page_143">p. 143</span>
 
-<span id="page_143_note_1"></span>[1](#page_143_fr_1) San Lorenzo de
+<span id="page_143_note_1"></span>[1](#page_143_fr_1.md) San Lorenzo de
 Quinti.
 
 <span id="footnotes_page_144">p. 144</span>
 
-<span id="page_144_note_2"></span>[2](#page_144_fr_2) San Lorenzo de
+<span id="page_144_note_2"></span>[2](#page_144_fr_2.md) San Lorenzo de
 Quinti.
 
 <span id="footnotes_page_146">p. 146</span>
 
-<span id="page_146_note_3"></span>[3](#page_146_fr_3) *Yana*, black.
+<span id="page_146_note_3"></span>[3](#page_146_fr_3.md) *Yana*, black.
 *Caca*, a rock.
 
 <span id="footnotes_page_147">p. 147</span>
 
-<span id="page_147_note_4"></span>[4](#page_147_fr_4) Corrupt.
+<span id="page_147_note_4"></span>[4](#page_147_fr_4.md) Corrupt.
 
  
 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi149)  [Next](mtsi151) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi149)  [Next](mtsi151.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,13 +70,13 @@ longer he came to a place where cane grew thick. The chunk stone
 stopped. Then he took it, walked on, and reached the other side of the
 canebrake. He put it down and it ran on. He followed it until it came to
 a boggy place where it stopped. Then he took it and walked on slowly
-until he got through. <span id="fr_35"></span>[1](#fn_35) He put it down
+until he got through. <span id="fr_35"></span>[1](#fn_35.md) He put it down
 and it ran off out of sight, and he followed it.
 
 When he had nearly overtaken the woman, she called to her people, "Elder
 brothers, elder brothers, I am nearly caught." They heard her, and,
 taking their bows and arrows, went to meet her. <span
-id="fr_36"></span>[2](#fn_36) When Big Man-eater and the roller had
+id="fr_36"></span>[2](#fn_36.md) When Big Man-eater and the roller had
 nearly come up with her they shot at him repeatedly with their arrows,
 but he did not die because they did not know how to kill him. Then a red
 bird came flying and perched upon a tree near by, saying, "Tåkho'lho
@@ -98,7 +98,7 @@ ashes turned into bees which flew away.
 
 ### Footnotes
 
-<span id="fn_35"></span>[132:1](mtsi150.htm#fr_35) In the complete
+<span id="fn_35"></span>[132:1](mtsi150.htm#fr_35.md) In the complete
 version of the story four huckleberries, four blackberries, and four
 pieces of cane wore evidently thrown down in succession. The pieces of
 cane wore a fourth gift of the old woman, and that is why cane is
@@ -106,10 +106,10 @@ mentioned here, though not noted in my original story when the gifts
 were enumerated. Four, however, satisfies the story requirements of the
 Alabama.
 
-<span id="fn_36"></span>[132:2](mtsi150.htm#fr_36) No attempt is made to
+<span id="fn_36"></span>[132:2](mtsi150.htm#fr_36.md) No attempt is made to
 explain how the woman could return from the other side of the ocean by
 land.
 
 ------------------------------------------------------------------------
 
-[Next: 15. The Obstacle Flight (Second Version)](mtsi151)
+[Next: 15. The Obstacle Flight (Second Version)](mtsi151.md)

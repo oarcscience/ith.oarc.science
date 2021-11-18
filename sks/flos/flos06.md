@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos05)  [Next](flos07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos05)  [Next](flos07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -113,7 +113,7 @@ Lewis "in likeness of a new untrimmed bride."
 
    Not only, too, were devils thought to assume any human shape they
 fancied, but, as Mr Spalding remarks, <span
-id="fr_81"></span>[1](#fn_81) "the forms
+id="fr_81"></span>[1](#fn_81.md) "the forms
 
 <span id="page_51">p. 51</span>
 
@@ -145,7 +145,7 @@ night conveyed out of the cage, and being next morning diligently sought
 for, could not be heard of, till Maister Mainie's devil, in one of his
 fits (as it was pretended), said that the wicked spirit which was in
 this examinate's sister had taken the bird out of the cage and killed it
-in despite of Maister Dibdale." <span id="fr_82"></span>[1](#fn_82)
+in despite of Maister Dibdale." <span id="fr_82"></span>[1](#fn_82.md)
 
    Even the shape of a fly was a favourite one with evil spirits, so
 much so, that the term "fly" was a popular synonym for a familiar. In
@@ -283,7 +283,7 @@ room."</span>
 
 </div>
 
-   As Brand remarks, <span id="fr_83"></span>[1](#fn_83) there is no
+   As Brand remarks, <span id="fr_83"></span>[1](#fn_83.md) there is no
 vulgar story of the devil's having appeared anywhere without a cloven
 foot. In graphic representations he is seldom or never pictured without
 one.
@@ -322,7 +322,7 @@ superstitious Christian's description of his infernal enemy—
    It was formerly commonly believed that not only kingdoms had their
 tutelary guardians, but that every person had his particular genius or
 good angel, to protect and admonish him by dreams, visions, &c. <span
-id="fr_84"></span>[1](#fn_84) Hence in "Antony and Cleopatra" (ii. 3),
+id="fr_84"></span>[1](#fn_84) Hence in "Antony and Cleopatra" (ii. 3.md),
 the soothsayer speaking of Cæsar says:—
 
 <div style="margin-left: 32px">
@@ -442,7 +442,7 @@ denunciation—
 
 The unlucky horn-blower was struck dead, and as it was found impossible
 to remove the body, a cairn of stones was raised over it." <span
-id="fr_85"></span>[1](#fn_85)
+id="fr_85"></span>[1](#fn_85.md)
 
    Steevens considers that when Macbeth (iii. 2) says—
 
@@ -473,7 +473,7 @@ the third hour till noon, and from the ninth hour till evening. In the
 "Merry Wives of Windsor" (ii. 2) Ford mentions this devil, and in "1
 Henry IV." (ii. 4) Falstaff says—"that same mad fellow of the north,
 Percy; and he of Wales, that gave Amamon the bastinado and made Lucifer
-cuckold." <span id="fr_86"></span>[1](#fn_86)
+cuckold." <span id="fr_86"></span>[1](#fn_86.md)
 
    The north was always supposed to be the particular habitation of bad
 spirits. Milton, therefore, assembles the rebel angels in the north. In
@@ -486,7 +486,7 @@ spirits. Milton, therefore, assembles the rebel angels in the north. In
 </div>
 
    *Barbason*. This demon would seem to be the same as "Marbas, alias
-Barbas," who, as Scot <span id="fr_87"></span>[2](#fn_87) informs us,
+Barbas," who, as Scot <span id="fr_87"></span>[2](#fn_87.md) informs us,
 "is a great president, and appeareth in the forme of a mightie lion; but
 at the commandment of a conjurer cometh up in the likeness of man, and
 answereth fullie as touching anything which is hidden or secret." In the
@@ -536,27 +536,27 @@ superstition.
 
 ### Footnotes
 
-<span id="fn_81"></span>[50:1](flos06.htm#fr_81) "Elizabethan
+<span id="fn_81"></span>[50:1](flos06.htm#fr_81.md) "Elizabethan
 Demonology," p. 49.
 
-<span id="fn_82"></span>[51:1](flos06.htm#fr_82) Harsnet's "Declaration
+<span id="fn_82"></span>[51:1](flos06.htm#fr_82.md) Harsnet's "Declaration
 of Egregious Impostures," p. 225.
 
-<span id="fn_83"></span>[53:1](flos06.htm#fr_83) "Pop. Ant.," 1849, ii.
+<span id="fn_83"></span>[53:1](flos06.htm#fr_83.md) "Pop. Ant.," 1849, ii.
 pp. 517–519.
 
-<span id="fn_84"></span>[54:1](flos06.htm#fr_84) See Brand's "Pop.
+<span id="fn_84"></span>[54:1](flos06.htm#fr_84.md) See Brand's "Pop.
 Antiq.," i. pp. 365–367.
 
-<span id="fn_85"></span>[56:1](flos06.htm#fr_85) See Jones’ "Credulities
+<span id="fn_85"></span>[56:1](flos06.htm#fr_85.md) See Jones’ "Credulities
 Past and Present," 1880, p. 133.
 
-<span id="fn_86"></span>[57:1](flos06.htm#fr_86) See Scot's "Discovery
+<span id="fn_86"></span>[57:1](flos06.htm#fr_86.md) See Scot's "Discovery
 of Witchcraft" (1584, p. 393); Douce's "Illustrations of Shakespeare,"
 p. 264.
 
-<span id="fn_87"></span>[57:2](flos06.htm#fr_87) Ibid., p. 378.
+<span id="fn_87"></span>[57:2](flos06.htm#fr_87.md) Ibid., p. 378.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Natural Phenomena](flos07)
+[Next: Chapter V. Natural Phenomena](flos07.md)

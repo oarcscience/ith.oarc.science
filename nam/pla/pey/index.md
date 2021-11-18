@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pey00)    [Text](peyote.txt)
+[Contents](#contents)    [Start Reading](pey00)    [Text](peyote.txt.md)
 
 ------------------------------------------------------------------------
 
@@ -58,17 +58,17 @@ to use the cactus, which is a controlled substance, in their ceremonies.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pey00)  
-[General Description](pey01)  
-[John Rave's Account of the Peyote Cult and of His Conversion](pey02)  
-[O.L.'s Description of the Peyote Cult](pey03)  
-[J.B.'s Account of the Leader of the Peyote](pey04)  
-[Albert Hensley's Account of the Peyote](pey05)  
-[J.B.'s Peyote Experiences](pey06)  
-[J.B.'s Account of His Conversion](pey07)  
+<span id="contents"></span> [Title Page](pey00.md)  
+[General Description](pey01.md)  
+[John Rave's Account of the Peyote Cult and of His Conversion](pey02.md)  
+[O.L.'s Description of the Peyote Cult](pey03.md)  
+[J.B.'s Account of the Leader of the Peyote](pey04.md)  
+[Albert Hensley's Account of the Peyote](pey05.md)  
+[J.B.'s Peyote Experiences](pey06.md)  
+[J.B.'s Account of His Conversion](pey07.md)  
 [Jesse Clay's Account of the Arapaho Manner of Giving the Peyote,
-Ceremony Which He Introduced Among the Winnebago in 1912](pey08)  
-[Development of the Ritualistic Complex](pey09)  
-[Dissemination of the Doctrine](pey10)  
-[What the Converts Introduced](pey11)  
-[The Attitude of the Conservatives](pey12)  
+Ceremony Which He Introduced Among the Winnebago in 1912](pey08.md)  
+[Development of the Ritualistic Complex](pey09.md)  
+[Dissemination of the Doctrine](pey10.md)  
+[What the Converts Introduced](pey11.md)  
+[The Attitude of the Conservatives](pey12.md)  

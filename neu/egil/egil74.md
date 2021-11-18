@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil73)  [Next](egil75) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil73)  [Next](egil75.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ impatient to be gone, and would not wait.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXIV. Journey to Vermaland.](egil75)
+[Next: CHAPTER LXXIV. Journey to Vermaland.](egil75.md)

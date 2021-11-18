@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](emec10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](emec10.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,13 +194,13 @@ of heaven, in the city of Thebes.
 Christian art also owes much to the Egyptian imagination. The Virgin
 Mary rising to heaven, standing upon a crescent moon, very closely
 resembles Isis as the dog star rising heliacally (see Fig.
-[104](emec09.htm#img_104)). The figure of the Almighty, with head and
+[104](emec09.htm#img_104).md). The figure of the Almighty, with head and
 outstretched arms at the head of the picture, particularly in the early
 pictures, when the head hung downwards, is the same in design as that of
 Horus at the top of many a funeral papyrus (see page
-[87](emec07.htm#page_87)). The figure of a triangle to represent the
+[87](emec07.htm#page_87).md). The figure of a triangle to represent the
 Trinity was clearly borrowed from Pagan Egypt (see page
-[99](emec08.htm#page_99)).
+[99](emec08.htm#page_99).md).
 
 The supposed arts of astrology and witchcraft were more particularly
 Egyptian; the conjuror's word of Abracadabra is a corruption of the

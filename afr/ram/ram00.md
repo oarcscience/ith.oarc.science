@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Next](ram01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Next](ram01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -47,4 +47,4 @@ AND CIVILIZATION
 
 ------------------------------------------------------------------------
 
-[Next: Preface](ram01)
+[Next: Preface](ram01.md)

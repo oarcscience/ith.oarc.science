@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab16)  [Next](mab18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab16)  [Next](mab18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -21,7 +21,7 @@ Textual Heritage
 ### NOTES TO KILHWCH AND OLWEN.
 
 <span id="xref_217a">217a</span> KILHWCH AND OLWEN.--*Page*
-[217](mab16.htm#page_217).
+[217](mab16.htm#page_217.md).
 
 THE curious tale of Kilhwch and Olwen appears to be purely British. The
 characters and events which it celebrates are altogether of native
@@ -45,7 +45,7 @@ Kilhwch mab Kilydd mab Kelyddon have come down to us.
 <span id="page_260">p. 260</span>
 
 <span id="xref_217b">217b</span> ANLAWDD WLEDIG.--*Page*
-[217](mab16.htm#page_217).
+[217](mab16.htm#page_217.md).
 
 THE name of this prince occurs in the Pedigrees as being father of
 Tywynwedd the mother of Tyvrydog mab Arwystli Gloff. Tyvrydog was a
@@ -61,12 +61,12 @@ Arthur.
  
 
 <span id="xref_218a">218a</span> KING DOGGED.--*Page*
-[218](mab16.htm#page_218).
+[218](mab16.htm#page_218.md).
 
 THE name of this most unfortunate king is enrolled among the number of
 the Saints of Wales, and he is recorded as the founder or the church of
 Llauddogged in Denbighshire. King Dogged was the son of Cedig ab
-Ceredig <span id="fr_97"></span>[1](#fn_96) ab Cunedda. Wledig, and
+Ceredig <span id="fr_97"></span>[1](#fn_96.md) ab Cunedda. Wledig, and
 brother of Avan Buallt, a bishop, whose tomb still remains at the church
 of Llanavan Fawr, in Breconshire, which he founded. The date assigned to
 these brothers is from 500 to 542.--Rees's Welsh Saints, p. 209.
@@ -74,7 +74,7 @@ these brothers is from 500 to 542.--Rees's Welsh Saints, p. 209.
  
 
 <span id="xref_219a">219a</span> OLWEN.--*Page*
-[219](mab16.htm#page_219).
+[219](mab16.htm#page_219.md).
 
 OF Olwen, the daughter of Yspaddaden Penkawr, but little is now known
 beyond what is related concerning her in the present tale; but with the
@@ -89,7 +89,7 @@ young damsel, by comparing her to
  
 
 <span id="xref_219b">219b</span> CUT THY HAIR.--*Page*
-[219](mab16.htm#page_219).
+[219](mab16.htm#page_219.md).
 
 IN the eighth century, it was the custom of people of consideration to
 have their children's hair cut the first time by persons for whom they
@@ -106,7 +106,7 @@ Cyclopædia.
  
 
 <span id="xref_219c">219c</span> A HUNDRED KINE.--*Page*
-[219](mab16.htm#page_219).
+[219](mab16.htm#page_219.md).
 
 IT appears that in early times cows formed the standard of currency
 among the Welsh; for in the laws of Howel Dda, after a certain enactment
@@ -129,7 +129,7 @@ the seventh century.
  
 
 <span id="xref_220a">220a</span> PENGWAED IN CORNWALL.--*Page*
-[220](mab16.htm#page_220).
+[220](mab16.htm#page_220.md).
 
 PENGWAED is the Land's End. In the Triad on the three divisions of
 Britain, it is named as the extreme point to the south of the island,
@@ -139,11 +139,11 @@ be Caithness in North Britain.--Triad ii.
  
 
 <span id="xref_222a">222a</span> SAVE ONLY MY SHIP AND MY
-MANTLE.--*Page* [222](mab16.htm#page_222).
+MANTLE.--*Page* [222](mab16.htm#page_222.md).
 
 ARTHUR'S ship is mentioned several times in the course of the present
 tale. Its name was Prydwen, and under that appellation it is alluded to
-by Taliesin in his Preidden Annwn, <span id="fr_98"></span>[1](#fn_97)
+by Taliesin in his Preidden Annwn, <span id="fr_98"></span>[1](#fn_97.md)
 the Spoils of Hell. In that mystical poem, which appears to be full of
 allusions to traditions now no longer intelligible, various expeditions,
 consisting of as many warriors as would have thrice filled Prydwen, are
@@ -173,8 +173,8 @@ Long & gret & strong ynow, hym ne mẏʒt atsytte non.
 Gruffydd ab Arthur's account of King Arthur's arms agrees with this; but
 respecting his sword Caledvwlch, or Caleburn, he adds the information
 that it was formed in the Isle of Avallon. <span
-id="fr_99"></span>[1](#fn_98) It has already been detailed in a previous
-portion of this work ([p. 32](mab06.htm#page_32)), how Arthur finding
+id="fr_99"></span>[1](#fn_98.md) It has already been detailed in a previous
+portion of this work ([p. 32](mab06.htm#page_32).md), how Arthur finding
 himself mortally wounded at the battle of Camlan, confided his sword to
 one of his knights, charging him to cast it into the lake, and how when
 the knight proceeded to fulfil his behest, a hand and arm arose from the
@@ -182,7 +182,7 @@ water, and seizing the precious weapon, brandished it three times, and
 disappeared with it in the lake. This circumstance must have been
 unknown to Richard the First, or he would hardly have sent to Tancred,
 King of Sicily, as a valuable present, a sword which was supposed to
-have been the, sword of Arthur. <span id="fr_100"></span>[2](#fn_99)
+have been the, sword of Arthur. <span id="fr_100"></span>[2](#fn_99.md)
 
 The Llenn, here rendered, the Mantle, but which appears to have served
 sometimes as a covering, and sometimes as a carpet, was celebrated as
@@ -194,7 +194,7 @@ is said to have been called Gwenn.
  
 
 <span id="xref_223a">223a</span> GREIDAWL GALLDONYD, OR
-GALLDOVYDD.--*Page* [223](mab16.htm#page_223).
+GALLDOVYDD.--*Page* [223](mab16.htm#page_223.md).
 
 ONE of the three architects of the island of Britain, whose privilege it
 was to go wheresoever they would, so that they did not go
@@ -203,24 +203,24 @@ unlawfully.--Triad 32.
  
 
 <span id="xref_223b">223b</span> GWYTHYR THE SON OF GREIDAWL.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 This warrior, whose grave is noticed in the Englynion Beddau,
 
 <span id="page_263">p. 263</span>
 
 <span class="contnote">\[paragraph continues\]</span> (see [p.
-33](mab06.htm#page_33)), was father to one of the three wives of Arthur,
+33](mab06.htm#page_33).md), was father to one of the three wives of Arthur,
 who all bore the name of Gwenhwyvar. <span
-id="fr_101"></span>[1](#fn_100)
+id="fr_101"></span>[1](#fn_100.md)
 
 It is he that fights with Gwyn ab Nudd, for the fair Cordelia, every
-first of May. <span id="fr_102"></span>[2](#fn_101)
+first of May. <span id="fr_102"></span>[2](#fn_101.md)
 
  
 
 <span id="xref_223c">223c</span> GWYN THE SON OF NUDD.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 IN Gwyn ab Nudd, we become acquainted with one of the most poetical
 characters of Welsh romance. He is no less a personage than the King of
@@ -249,7 +249,7 @@ According to the same testimony, the Owl was more particularly
 considered as the bird of Gwyn ab Nudd.
 
 There is, in the Myvyrian Archaiology, a dialogue between Gwyn ab Nudd,
-and Gwyddno Garanhir, <span id="fr_103"></span>[3](#fn_102) in which he
+and Gwyddno Garanhir, <span id="fr_103"></span>[3](#fn_102.md) in which he
 is represented as a victorious warrior. Gwyddno apostrophizes him thus,
 
 "Gwyn, son of Nudd, the hope of armies, legions fall before thy
@@ -267,15 +267,15 @@ the name of his horse.
 The Triads commemorate Gwyn ab Nudd, as one of the three distinguished
 astronomers of the Island of Britain, who by their knowledge of the
 nature and qualities of the stars, could predict whatever was wished to
-be known to the end of the world. <span id="fr_104"></span>[1](#fn_103)
+be known to the end of the world. <span id="fr_104"></span>[1](#fn_103.md)
 
 A very curious legend, in which Gwynn ab Nudd bears a conspicuous part,
 is contained in the Life of St. Collen (Buchedd Collen), which is
 printed in a collection of Welsh remains, entitled the Greal. <span
-id="fr_105"></span>[2](#fn_104) This Saint was the son of Gwynawc, ab
+id="fr_105"></span>[2](#fn_104.md) This Saint was the son of Gwynawc, ab
 Caledawc, ab Cawrdav, ab Caradawc Vreichvras, and having distinguished
 himself greatly in foreign countries <span
-id="fr_106"></span>[3](#fn_105) by his zeal and piety, be returned to
+id="fr_106"></span>[3](#fn_105.md) by his zeal and piety, be returned to
 Britain and became Abbot of Glastonbury; after a time Collen desired to
 lead a life of greater austerity than his high office at Glastonbury
 permitted; so he departed thence, and went forth to preach to the
@@ -294,7 +294,7 @@ as before.
 one inquired if he were within. Then said Collen, 'I am; who is it that
 asks?' 'It is I, a messenger from Gwyn ab Nudd, the king of Annwn, to
 command thee to come and speak with him on the top of the hill at
-noon.' <span id="fr_107"></span>[4](#fn_106)
+noon.' <span id="fr_107"></span>[4](#fn_106.md)
 
 "But Collen did not go. And the next day behold the same messenger came,
 ordering Collen to go and speak with the king on the top of the hill at
@@ -345,14 +345,14 @@ nor the appearance of any thing whatever, but the green hillocks."
  
 
 <span id="xref_223d">223d</span> EDEYRN THE SON OF NUDD.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
-See Page [195](mab14.htm#page_195).
+See Page [195](mab14.htm#page_195.md).
 
  
 
 <span id="xref_223e">223e</span> GADWY THE SON OF GERAINT.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 GADWY MAB GERAINT was noticed for his courtesy to guests and strangers,
 as we learn from Triad xc.
@@ -360,19 +360,19 @@ as we learn from Triad xc.
 <span id="page_266">p. 266</span>
 
 <span id="xref_223f">223f</span> FFLEWDDUR FFLAM.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 A NOTICE concerning Flewddur Flam, occurs in Triad 114, where under the
 appellation of Fleidur Flam mab Godo he is ranked as one of the three
 sovereigns of Arthur's Court who preferred remaining with him as
 knights, although they had territories and dominion, of their own.--For
 this Triad, see the note on Cadyrnerth mab Porthawr Gandwy, [p.
-191](mab14.htm#page_191).
+191](mab14.htm#page_191.md).
 
  
 
 <span id="xref_223g">223g</span> RHUAWN PEBYR.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 RHUAWN or Rhuvawn Pebyr stands conspicuous amongst those who
 distinguished themselves in the battle of Cattraeth. Aneurin says,--
@@ -395,12 +395,12 @@ intrepid warrior, standing firm in the hour of battle.--Myv. Arch. I. p.
 It is said that he fell in battle, and that it is owing to the
 circumstance of his body having been redeemed for its weight in gold
 that he became recorded as one of the three golden corpses of the Island
-of Britain. <span id="fr_108"></span>[1](#fn_107)
+of Britain. <span id="fr_108"></span>[1](#fn_107.md)
 
 He is also spoken of with Rhun ab Maelgwn, and Owain ab Urien, as one of
-the Three blessed Kings; <span id="fr_109"></span>[2](#fn_108) and
+the Three blessed Kings; <span id="fr_109"></span>[2](#fn_108.md) and
 another Triad ranks him with the three imperious ones. <span
-id="fr_110"></span>[3](#fn_109) Other versions, however, of the same
+id="fr_110"></span>[3](#fn_109.md) Other versions, however, of the same
 triad, read Rhun mab Einiawn, in the place of Rhuvawn Pebyr.
 
 There is extant a poem composed by Hywel, the son of Owain Gwynedd,
@@ -421,7 +421,7 @@ locality was then well known.--Myv. Arch. I. p. 411.
  
 
 <span id="xref_223h">223h</span> DALLDAV THE SON OF KIMIN COV.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 HE was one of the three compeers of the Court of Arthur with Trystan mab
 March, and Rhyhawd mab Morgant ab Adras. The name of his horse was
@@ -430,7 +430,7 @@ Fferlas.--Triad 113, and Trioedd y Meirch, v.
  
 
 <span id="xref_223i">223i</span> ISPERYR EWINGATH.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 THERE is an Esperir mentioned in the Englynion y Clyweid.
 
@@ -445,16 +445,16 @@ Twrch Trwyth.
  
 
 <span id="xref_223j">223j</span> LLOCH LLAWWYNNYAWC.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 LLOCH LLAWWYNNAWC is named, with several of the other warriors adjured
 by Kilhwch, in the curious dialogue between Arthur, and Kai, and
-Glewlwyd, of which mention has been made.--Page [42](mab06.htm#page_42).
+Glewlwyd, of which mention has been made.--Page [42](mab06.htm#page_42.md).
 
  
 
 <span id="xref_223k">223k</span> AUNWAS ADEINIAWC.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 THE preceding note applies as well to Aunwas as to Lloch Llawwynnawc.
 
@@ -467,26 +467,26 @@ and Haernwed Vradawc.--Triad xxxiii. Myv. Arch. II. p. 15.
  
 
 <span id="xref_223l">223l</span> GWENNWYNWYN THE SON OF NAW.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 has been already noticed with Geraint ab Erbin, and March ab Meirchion,
 ai one of the three who had the command of the fleets of the Island of
 Britain. Each of them had six score vessels with Six score men in
-each.--See page [193](mab14.htm#page_193).
+each.--See page [193](mab14.htm#page_193.md).
 
 <span id="page_268">p. 268</span>
 
 <span id="xref_223m">223m</span> ECHEL VORDDWYTTWLL.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 His son Goronwy has already been cited as one of the Sovereigns who
 preferred residing at Arthur's Court, to remaining in their own
-dominions.--See [p. 191](mab14.htm#page_191), where the triad is given.
+dominions.--See [p. 191](mab14.htm#page_191.md), where the triad is given.
 
  
 
 <span id="xref_223n">223n</span> DADWEIR DALLPENN.--Page
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 A VERY curious story concerning the sow of Dadweir (or, as he is there
 called, Dallweir) Dallpenn, is contained in the Triads. It is there
@@ -536,21 +536,21 @@ Coll ab Collfrewi, the keeper of this marvellous sow, was one of the
 chief enchanters of this island, and his magical arts were taught him by
 Rhuddlwm Gawr. It has already been suggested as probable that it is to
 him that Chaucer refers in his House of Fame, under the title of Coll
-Tragetour, or Coll the Juggler.--See [p. 213](mab14.htm#page_213).
+Tragetour, or Coll the Juggler.--See [p. 213](mab14.htm#page_213.md).
 
  
 
 <span id="xref_223o">223o</span> MENW THE SON OF TEIRGWAEDD.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 THE part assigned to Menw ab Teirgwaedd in the present tale, is in
 precise accordance with the character in which he appears in the Triads,
 and other legendary remains of the Welsh. He is there commemorated as
 one of the three men of Phantasy and Illusion in the Island of Britain,
 and it is said that be taught his enchantments to Uthyr Pendragon, the
-father of King Arthur.--See [p. 213](mab14.htm#page_213).
+father of King Arthur.--See [p. 213](mab14.htm#page_213.md).
 
-In the Abergavenny Prize Essay, <span id="fr_111"></span>[1](#fn_110) on
+In the Abergavenny Prize Essay, <span id="fr_111"></span>[1](#fn_110.md) on
 the Genuineness of the Coelbren y Beirdd, or Bardic Alphabet, by Mr.
 Taliesin Williams (Ab Iolo), there is a curious allegorical tale, which
 connects Menw with the discovery of that alphabet. The substance of the
@@ -588,7 +588,7 @@ referred to the Essay itself.
  
 
 <span id="xref_223p">223p</span> DRUDWAS THE SON OF TRYFFIN.--*Page*
-[223](mab16.htm#page_223).
+[223](mab16.htm#page_223.md).
 
 CONCERNING Drudwas mab Tryffin, a curious tradition is presented in an
 interesting letter from the celebrated antiquary, Robert Vaughan, to Mr.
@@ -620,7 +620,7 @@ two.--Triad 115.
  
 
 <span id="xref_224a">224a</span> CAERDATHAL.--*Page*
-[224](mab16.htm#page_224).
+[224](mab16.htm#page_224.md).
 
 CAERDATHAL, which the Mabinogion assign as a residence to Math ab
 Mathonwy, is in Caernarvonshire, and crowns the summit of all eminence
@@ -641,7 +641,7 @@ Reddening the hill and the headland and the dale."
 
  
 
-<span id="xref_224b">224b</span> KAW.--*Page* [224](mab16.htm#page_224).
+<span id="xref_224b">224b</span> KAW.--*Page* [224](mab16.htm#page_224.md).
 
 CONSIDERABLE variations exist in the different catalogues which axe
 extant of the numerous sons of Kaw. In that, however, given by Jones, in
@@ -682,7 +682,7 @@ and oath, and commanded him
 
 to be beheaded upon a stone, which lay in the street of the town, and
 which, from this event, acquired the appellation of Maen Huail. <span
-id="fr_112"></span>[1](#fn_111) This stone is still to be seen in the
+id="fr_112"></span>[1](#fn_111.md) This stone is still to be seen in the
 town of Rhuthyn.
 
 In the Triads, Huail the son of Kaw of North Britain, Lord of Cwm
@@ -698,7 +698,7 @@ Often will a curse fall from the bosom."--
  
 
 <span id="xref_224c">224c</span> TALIESIN, THE CHIEF OF THE
-BARDS.--*Page* [224](mab16.htm#page_224).
+BARDS.--*Page* [224](mab16.htm#page_224.md).
 
 THE history of Taliesin, which is exceedingly wild and interesting,
 forms the subject of a separate Mabinogi, and as such will be given in
@@ -707,7 +707,7 @@ its proper place.
  
 
 <span id="xref_224d">224d</span> MANAWYDDAN THE SON OF LLYR.--*Page*
-[224](mab16.htm#page_224).
+[224](mab16.htm#page_224.md).
 
 THIS chieftain, who figures in the Triads, will be alluded to hereafter
 in the notes to one of the Mabinogion more particularly relating to him.
@@ -715,7 +715,7 @@ in the notes to one of the Mabinogion more particularly relating to him.
  
 
 <span id="xref_224e">224e</span> GERAINT THE SON, OF ERBIN.--*Page*
-[224](mab16.htm#page_224).
+[224](mab16.htm#page_224.md).
 
 OF this chieftain a full account has been given in the notes to the
 Mabinogi bearing his name.--It may be added that a saying of his is
@@ -732,7 +732,7 @@ appears to be alluded to in this Englyn.--See Llyw. Hên's Elegies.
  
 
 <span id="xref_224f">224f</span> DYVEL THE SON OF ERBIN.--*Page*
-[224](mab16.htm#page_224).
+[224](mab16.htm#page_224.md).
 
 THE death of Dyvel mab Erbin is mentioned in the dialogue between
 Myrddin Wyllt and Taliesin, where the former says:--
@@ -750,9 +750,9 @@ His grave was in the plains of Gwesledin.--*Ib*. I. p. 80.
  
 
 <span id="xref_224g">224g</span> LLAWNRODDED VARVAWC.--*Page*
-[224](mab16.htm#page_224).
+[224](mab16.htm#page_224.md).
 
-IN days when, as we have already seen ([p. 219](mab16.htm#page_219)),
+IN days when, as we have already seen ([p. 219](mab16.htm#page_219).md),
 the value of articles, even of luxury and ornament, was estimated by the
 number of cows they were worth, we cannot be surprised that the herdsmen
 were sometimes men of rank and distinction, and considered worthy to
@@ -770,7 +770,7 @@ His own cow went by the name of Cornillo, and was one of the three chief
 cows of the Island.--Trioedd y Meirch, xi.
 
 Of the no less remarkable personages, who tended the swine of the Island
-of Britain, an account has already been given, [p. 268](#page_268).
+of Britain, an account has already been given, [p. 268](#page_268.md).
 
 Llawnrodded's knife was one of the thirteen precious things possessing
 marvellous properties. It would serve four-and-twenty men at once with
@@ -779,7 +779,7 @@ meat.
  
 
 <span id="xref_224h">224h</span> MORVRAN THE SON OF TEGID.--*Page*
-[224](mab16.htm#page_224).
+[224](mab16.htm#page_224.md).
 
 THIS circumstance of the three warriors escaping from the battle of
 Camlan is related in the Triads, in words very nearly corresponding With
@@ -794,7 +794,7 @@ and Ceridwen.
 <span id="page_274">p. 274</span>
 
 <span id="xref_225a">225a</span> LLENLLEAWG WYDDEL.--*Page*
-[225](mab16.htm#page_225).
+[225](mab16.htm#page_225.md).
 
 THIS name occurs in the Englynion y Clyweid.--
 
@@ -806,13 +806,13 @@ The grave is better than a life of want."--
  
 
 <span id="xref_225b">225b</span> DYVYNWAL MOEL.--*Page*
-[225](mab16.htm#page_225).
+[225](mab16.htm#page_225.md).
 
 DYVYNWAL MOELMUD, King of Britain, and the first lawgiver whom the
 nation boasts, is supposed to have lived about 400 years before the
 Christian era. There are four Triads relating to him, in all of which he
 is represented as a great benefactor to his people. <span
-id="fr_113"></span>[1](#fn_112) In one of these he is styled one of the
+id="fr_113"></span>[1](#fn_112.md) In one of these he is styled one of the
 three National Pillars of the Island: in another, one of the three
 Primary Inventors: and in a third, one of the beneficent Sovereigns of
 the Cymry, because he had first reduced to a system, and improved, and
@@ -832,20 +832,20 @@ interesting remains.
  
 
 <span id="xref_225c">225c</span> GWYSTYL THE SON OF RHUN THE SON OF
-NWYTHON.--*Page* [225](mab16.htm#page_225).
+NWYTHON.--*Page* [225](mab16.htm#page_225.md).
 
 RHUN the father of Gwystyl, was one of the chieftains mentioned by
-Gruffydd ab Arthur, <span id="fr_114"></span>[2](#fn_113) as being
+Gruffydd ab Arthur, <span id="fr_114"></span>[2](#fn_113.md) as being
 present at King Arthur's Coronation, at Caerlleon upon Usk.--Both he and
 Nwython are named in Taliesin's poem addressed to Gwallawg. <span
-id="fr_115"></span>[3](#fn_114)
+id="fr_115"></span>[3](#fn_114.md)
 
  
 
 <span id="xref_225d">225d</span> DREM THE SON OF DREMIDYD.--*Page*
-[225](mab16.htm#page_225).
+[225](mab16.htm#page_225.md).
 
-IN addition to the notice already given ([p. 187](mab14.htm#page_187)),
+IN addition to the notice already given ([p. 187](mab14.htm#page_187).md),
 of this fantastic personage, who was so sharp-sighted, that he could
 descry a mote in the sunbeam in the four corners of the world, we may
 remark that in the
@@ -864,23 +864,23 @@ A refusal is better than a promise unperformed."--
  
 
 <span id="xref_225e">225e</span> GELLI WIC.--*Page*
-[225](mab16.htm#page_225).
+[225](mab16.htm#page_225.md).
 
 OF Gelli Wic (or, as it is generally written, Gelliwig), in Cornwall,
 frequent mention is made in the Triads, where it is named as one of the
 three national thrones of the Island of Britain, <span
-id="fr_116"></span>[1](#fn_115) and one of King Arthur's chief seats of
+id="fr_116"></span>[1](#fn_115.md) and one of King Arthur's chief seats of
 empire, in which he was used to celebrate the high festivals of
 Christmas, Easter, and Whitsuntide. At the time of Arthur's sovereignty,
 when he was Supreme Ruler (Penrhaith as it is called in Welsh), Bedwin
 was the chief Bishop, and Caradawc Vreichvras was the chief Elder, of
 Gelliwig. It was one of the three Archbishoprics of Britain. <span
-id="fr_117"></span>[2](#fn_116) When Medrawd, Arthur's wicked nephew,
+id="fr_117"></span>[2](#fn_116.md) When Medrawd, Arthur's wicked nephew,
 usurped the government of the island during his uncle's absence, he went
 to Gelliwig, and dragged Gwenhwyvar from her throne with contumely, and
 left neither meat nor drink in the court, "not even so much as would
 feed a fly," but consumed and wasted all. <span
-id="fr_118"></span>[3](#fn_117) The fatal battle of Camlan was fought to
+id="fr_118"></span>[3](#fn_117.md) The fatal battle of Camlan was fought to
 avenge this insult.
 
 The site of Gelliwig is now a matter of some doubt. Hals places it at
@@ -894,7 +894,7 @@ Duke of Cornwall or Kinge of Britaine; for this manor of land with its
 appurtenances was, by act of Parliament, given to Edward the Black
 Prince as parcell of the lands of the ancient kinges or earles of
 Cornwall, then translated into a dutchy or dukedom." <span
-id="fr_119"></span>[4](#fn_118)
+id="fr_119"></span>[4](#fn_118.md)
 
 It may be taken as some confirmation of this opinion with regard to the
 locality of Gelliwig, that there is a place in the vicinity of
@@ -914,17 +914,17 @@ people Arthur's Troughs, and in which, according to tradition, that
 monarch used to feed his dogs; for (says Gilbert, from whom this account
 is taken) it is "the custom in Cornwall to ascribe everything that is
 great and whose use is unknown to that immortal hero." <span
-id="fr_120"></span>[1](#fn_119)
+id="fr_120"></span>[1](#fn_119.md)
 
  
 
 <span id="xref_225f">225f</span> PEN BLATHAON IN NORTH BRITAIN.--*Page*
-[225](mab16.htm#page_225).
+[225](mab16.htm#page_225.md).
 
 PEN or Penrhyn Blathaon (supposed to be Caithness in Scotland) has
-already been noticed <span id="fr_121"></span>[2](#fn_120) as the
+already been noticed <span id="fr_121"></span>[2](#fn_120.md) as the
 extreme point from Penwaeth or Pengwaed, in Cornwall, from which it was
-distant nine hundred miles. <span id="fr_122"></span>[3](#fn_121) The
+distant nine hundred miles. <span id="fr_122"></span>[3](#fn_121.md) The
 distance between these two places was determined by the British
 Legislator, Dyvynwal Moelmud. In the Welsh Laws is given the following
 passage, relating to the admeasurement of the island made by him:--
@@ -959,7 +959,7 @@ lands or ridges make a mile, and this measure is used here till now."
  
 
 <span id="xref_226a">226a</span> THE THREE ISLANDS ADJACENT.--*Page*
-[226](mab16.htm#page_226).
+[226](mab16.htm#page_226.md).
 
 ORKNEY, the Isle of Wight, and the Isle of Man, are the three primary
 islands lying adjacent to Britain, according to the authority of the
@@ -983,28 +983,28 @@ ed. 1838.
  
 
 <span id="xref_226b">226b</span> GWYNN GODYVRON.--*Page*
-[226](mab16.htm#page_226).
+[226](mab16.htm#page_226.md).
 
 MENTIONED in the dialogue between Arthur, Kai, and Glewlwyd see [p.
-42](mab06.htm#page_42), where the passage is given.
+42](mab06.htm#page_42.md), where the passage is given.
 
  
 
 <span id="xref_226c">226c</span> GARSELIT WYDDEL.--*Page*
-[226](mab16.htm#page_226).
+[226](mab16.htm#page_226.md).
 
 "Hast thou heard what Garselit sang,  
 The Irishman whom it is safe to follow?  
 Sin is bad when long pursued."--  
                               Englynion y Clyweid. <span
-id="fr_123"></span>[1](#fn_122)
+id="fr_123"></span>[1](#fn_122.md)
 
  
 
 <span id="page_278">p. 278</span>
 
 <span id="xref_226d">226d</span> THE NINTH MAN THAT RALLIED THE BATTLE
-OF CAMLAN.--*Page* [226](mab16.htm#page_226).
+OF CAMLAN.--*Page* [226](mab16.htm#page_226.md).
 
 THIS is very probably an allusion to the disposition made by Arthur of
 his forces, previous to the battle of Camlan. Geoffrey of Monmonth
@@ -1014,7 +1014,7 @@ over each, of whom Gwynnhyvar was possibly one.
  
 
 <span id="xref_227a">227a</span> GWARE GWALLT EURYN.--*Page*
-[227](mab16.htm#page_227).
+[227](mab16.htm#page_227.md).
 
 GWARE GWALLT EURYN was the son of Pwyll and Rhianon. The mysterious
 circumstances connected with his birth are detailed in another Mabinogi.
@@ -1022,7 +1022,7 @@ circumstances connected with his birth are detailed in another Mabinogi.
  
 
 <span id="xref_228a">228a</span> KYNVELYN KEUDAWD PWYLL, THE HALF
-MAN.--*Page* [228](mab16.htm#page_228).
+MAN.--*Page* [228](mab16.htm#page_228.md).
 
 THE Welsh have a fable on the subject of the Hanner Dyn or Half Man,
 taken to be illustrative of the force of habit. In this allegory Arthur
@@ -1037,7 +1037,7 @@ requires his utmost efforts to overcome him.
  
 
 <span id="xref_228b">228b</span> SAWYL BEN UCHEL.--*Page*
-[228](mab16.htm#page_228).
+[228](mab16.htm#page_228.md).
 
 SAWYL BEN UCHEL is accused of being one of those whose arrogance
 produced anarchy in the Island of Britain; and the lawless party united
@@ -1046,7 +1046,7 @@ with the Saxons, and themselves became Saxons at last.--Triad 74.
  
 
 <span id="xref_228c">228c</span> GWRHYR GWASTAWD IETTHOEDD.--*Page*
-[228](mab16.htm#page_228).
+[228](mab16.htm#page_228.md).
 
 IOLO GOCH'S allusion to Gwrhyr's extraordinary aptitude for acquiring
 languages has already been noticed, in the notes to Geraint ab Erbin.
@@ -1063,34 +1063,34 @@ Who practises deceit will be deceived."--
 <span id="page_279">p. 279</span>
 
 <span id="xref_228d">228d</span> BEDWINI THE BISHOP.--*Page*
-[228](mab16.htm#page_228).
+[228](mab16.htm#page_228.md).
 
 BEDWINI was Bishop of Gelliwig in Cornwall, and as such is spoken of in
-the Triads, <span id="fr_124"></span>[1](#fn_123) and in the British
+the Triads, <span id="fr_124"></span>[1](#fn_123.md) and in the British
 Chronicles. One of his sayings is preserved in the Englynion y
 Clyweid:--
 
 Hast thou heard what Bedwini sung,  
 A gifted Bishop of exalted rank?  
 Consider thy word before it is given." <span
-id="fr_125"></span>[2](#fn_124)
+id="fr_125"></span>[2](#fn_124.md)
 
  
 
 <span id="xref_229a">229a</span> INDEG.--*Page*
-[229](mab16.htm#page_229).
+[229](mab16.htm#page_229.md).
 
 SOME of the ladies here adjured are celebrated in the Triads, and others
 figure in the writings of the Romancers of the Middle Ages.
 
 Indeg, the daughter of Garwy or Afarwy hir, of Maelienydd, was one of
 the three ladies best beloved by Arthur. <span
-id="fr_126"></span>[3](#fn_125) Her beauty is often the theme of the
+id="fr_126"></span>[3](#fn_125.md) Her beauty is often the theme of the
 bards.
 
 Morvudd was the daughter of Urien Rheged, the twin sister of Owain, and
 the beloved of Cynon the son of Clydno Eiddyn. Her mother's name was
-Modron, the daughter of Avallach. <span id="fr_127"></span>[4](#fn_126)
+Modron, the daughter of Avallach. <span id="fr_127"></span>[4](#fn_126.md)
 
 Creiddylad is no other than Shakespeare's Cordelia, whose father, King
 Lear, is, by the Welsh authorities, called indiscriminately Llyr and
@@ -1109,7 +1109,7 @@ Much will the faithful messenger effect."--
 
 Essyllt Vinwen or Fyngwen, the daughter of Culvanawyd Prydain, and
 sister of Owain's faithless wife Penarwen, is mentioned very
-disparagingly in the Triads. <span id="fr_128"></span>[5](#fn_127) She
+disparagingly in the Triads. <span id="fr_128"></span>[5](#fn_127.md) She
 was married to March ab Meirchion, and acquired a very undesirable
 celebrity for her attachment to her husband's nephew Tristan ab Tallwch,
 the renowned Sir Tristan of
@@ -1127,7 +1127,7 @@ having effected his cure, when wounded by a poisoned arrow.
  
 
 <span id="xref_230a">230a</span> DRYCH AIL KIBDDAR.--*Page*
-[230](mab16.htm#page_230).
+[230](mab16.htm#page_230.md).
 
 ONLY the first series of the Triads, printed in the Myvyrian
 Archaiology, takes notice of Drych ail Kibddar, and there be is classed
@@ -1136,7 +1136,7 @@ among the dealers in phantasy or enchantment.--Triad xxxiii.
  
 
 <span id="xref_236a">236a</span> AMAETHON THE SON OF DON.--*Page*
-[236](mab16.htm#page_236).
+[236](mab16.htm#page_236.md).
 
 AMAETHON, the signification of whose name is "husbandman," would seem to
 have been a very proper person to send for to perform the office.
@@ -1147,7 +1147,7 @@ he brought from Annwn (the Lower Regions), a white roebuck, and a whelp,
 which were the occasion of the Cad Goddeu, or Battle of the Trees.
 Taliesin has a long mystical poem on the subject of this battle; and
 some curious lines relative to it are given in the Myvyrian
-Archaiology. <span id="fr_129"></span>[1](#fn_128) These, with the prose
+Archaiology. <span id="fr_129"></span>[1](#fn_128.md) These, with the prose
 heading that accompanies them, are as follows:--
 
 These are the Englyns that were sung at the Câd Goddeu (the Battle of
@@ -1186,12 +1186,12 @@ lives of seventy-one thousand men.--Triad 50.
 
 The brothers, Gwydion and Amaethon, are mentioned as being efficient of
 counsel, in Taliesin's Elegy on Aeddon of Mon. <span
-id="fr_130"></span>[1](#fn_129)
+id="fr_130"></span>[1](#fn_129.md)
 
  
 
 <span id="xref_236b">236b</span> OXEN OF GWLWLYD.--*Page*
-[236](mab16.htm#page_236).
+[236](mab16.htm#page_236.md).
 
 THESE animals, to which some fabulous story probably attached, are
 spoken of in the Triads, together with those required by Yspaddaden in
@@ -1199,7 +1199,7 @@ the subsequent paragraph.--Tr. y Meirch x.
 
 One of these is alluded to in Taliesin's mystical poem, entitled
 Preiddeu Annwn, the spoils of Hell. <span
-id="fr_131"></span>[2](#fn_130)
+id="fr_131"></span>[2](#fn_130.md)
 
 "They know not the brindled ox with the broad headband Seven score
 handbreadths are in his yoke."
@@ -1207,7 +1207,7 @@ handbreadths are in his yoke."
  
 
 <span id="xref_236c">236c</span> NYNNIAW AND PEBIAW.--*Page*
-[236](mab16.htm#page_236).
+[236](mab16.htm#page_236.md).
 
 ON turning to the ancient records, we meet with kings bearing the names
 of those who were turned into oxen for their crimes.
@@ -1216,7 +1216,7 @@ Nynniaw was a prince of Glamorgan, and his descendants appear to have
 profited by the lesson which his disastrous fate afforded; for we find
 that Marchell, his great grand-daughter, was the mother of the
 celebrated and canonized Brychan Brycheiniog, <span
-id="fr_132"></span>[3](#fn_131) who had himself the happiness of being
+id="fr_132"></span>[3](#fn_131.md) who had himself the happiness of being
 father to no less than forty-eight saints, twenty-three of whom were
 sons, and five-and-twenty daughters.
 
@@ -1228,7 +1228,7 @@ are there given in the following words.
 <span id="page_282">p. 282</span>
 
 "There was a certain king of the region of Ergyng <span
-id="fr_133"></span>[1](#fn_132) (Archenfield) of the name of Pebiau,
+id="fr_133"></span>[1](#fn_132) (Archenfield.md) of the name of Pebiau,
 called, in the British language, Claforawg, and in Latin, Spumosus, who
 undertook an expedition against his enemies, and returning from thence
 be ordered his daughter Eurddil to wash his head." The legend then goes
@@ -1245,7 +1245,7 @@ who had been sent by her father to ascertain whether any of the bones of
 his daughter remained, found her holding her son in her lap, at a spot
 where a stone is placed in testimony of the wonderful nativity of the
 boy; and the place is called Madle, <span
-id="fr_134"></span>[2](#fn_133) because therein was born the holy man.
+id="fr_134"></span>[2](#fn_133.md) because therein was born the holy man.
 The father, bearing this, ordered his daughter with her son to be
 brought to him; and when they came he embraced the infant with paternal
 affection, as is usual, and kissing him, from the restlessness of
@@ -1264,7 +1264,7 @@ grandsons; and of that place, Madle (that is, *Mad*, good, *lle*, place,
 and whence *Madle*, a good place), he made him heir, and also of the
 whole island, which took its name from his mother Eurddil, that is,
 *Ynys Eurddyl*, which by others is called *Maes Mail Lecheu*." <span
-id="fr_135"></span>[3](#fn_134)
+id="fr_135"></span>[3](#fn_134.md)
 
 <span id="page_283">p. 283</span>
 
@@ -1329,11 +1329,11 @@ This Rhitta Gawr is none other than King Ryons of North Wales, who
 appears to have been almost as presumptuous as the unfortunate monarchs
 whom he so deservedly chastised. The Morte d'Arthur represents him as
 sending to demand the beard of Arthur himself, which it need hardly be
-added that he failed to obtain. <span id="fr_136"></span>[1](#fn_135)
+added that he failed to obtain. <span id="fr_136"></span>[1](#fn_135.md)
 
 We are told that Nynniaw and Pebiaw were the names of the horned oxen
 (Ychain Banawg) employed by Hu Gadarn <span
-id="fr_137"></span>[2](#fn_136) to draw the Avanc out of the Lake of
+id="fr_137"></span>[2](#fn_136.md) to draw the Avanc out of the Lake of
 Floods, so that the lake burst no more. This bursting of the lake is
 considered to bear reference to the universal Deluge, as it is said in
 the same Triad, that when that occurrence took place, the male and the
@@ -1348,7 +1348,7 @@ event. For these, reference may be made to Davies's Mythology of the
 Researches, Dr. Owen Pughe, in his Dictionary, and Cambrian Biography,
 &c. &c. Suffice it to say, that Hu Gadarn or the Mighty is looked upon
 as a patriarch, and that there are seven <span
-id="fr_138"></span>[1](#fn_137) Triads commemorative of the benefits
+id="fr_138"></span>[1](#fn_137.md) Triads commemorative of the benefits
 which he is said to have conferred upon "the Cymry," whom he is recorded
 to have instructed in the useful arts of agriculture, before their
 arrival in Britain, and while they remained in the Summer country, which
@@ -1370,12 +1370,12 @@ country, as we find from another of these ancient documents, was not
 marked by any characteristics of violence; for he is described as not
 desirous of obtaining dominion by war and bloodshed, but by justice and
 peace, for which reason his followers are ranked among the three gentle
-tribes of the Isle of Britain. <span id="fr_139"></span>[2](#fn_138)
+tribes of the Isle of Britain. <span id="fr_139"></span>[2](#fn_138.md)
 
  
 
 <span id="xref_237a">237a</span> THE BASKET OF GWYDDNEU
-GARANHIR.--*Page* [237](mab16.htm#page_237).
+GARANHIR.--*Page* [237](mab16.htm#page_237.md).
 
 THIS marvellous basket is reckoned amongst the thirteen precious things
 of the Island of Britain. In the following catalogue of these treasures,
@@ -1428,7 +1428,7 @@ of silver.
 everything, while no one could see him.
 
 This version is rather different from that given by Jones, in his Welsh
-Bards, <span id="fr_140"></span>[1](#fn_139) which omits the halter of
+Bards, <span id="fr_140"></span>[1](#fn_139.md) which omits the halter of
 Clydno Eiddyn, but adds the mantle of Tegau Eurvron, which would only
 fit such ladies as were perfectly correct in their conduct, and the ring
 of Luned, by which she effected the release of Owain the son of Urien,
@@ -1443,7 +1443,7 @@ particularly referred to.
 <span id="page_287">p. 287</span>
 
 <span id="xref_237b">237b</span> THE HARP OF TEIRTU.--*Page*
-[237](mab16.htm#page_237).
+[237](mab16.htm#page_237.md).
 
 THE harp of Teirtu appears to be alluded to by Davydd ab Edmwnt, a bard
 who flourished about the middle of the fifteenth century. In an elegy
@@ -1454,7 +1454,7 @@ once rival harper, says:--
 
 "His companion has become silent,  
 The turtle-dove of the Harp of Teirtud." <span
-id="fr_141"></span>[1](#fn_140)
+id="fr_141"></span>[1](#fn_140.md)
 
 This passage has generally been considered to refer to the Triple Harp;
 and it is likely that Teirtu, who was probably the inventor as well as
@@ -1479,7 +1479,7 @@ Landavensis, as being in Breconshire, in the hundred of Builth.--P. 374.
  
 
 <span id="xref_239a">239a</span> TWRCH TRWYTH.--*Page*
-[239](mab16.htm#page_239).
+[239](mab16.htm#page_239.md).
 
 IT may be a matter of controversy, which in the present imperfect state
 of Welsh MSS. might be difficult to determine, whether certain lines of
@@ -1488,11 +1488,11 @@ refer to the very ancient tradition of the Twrch Trwyth.--Myv. Arch. I.
 p. 60.
 
 Davies, in his "Mythology of the Druids," <span
-id="fr_142"></span>[2](#fn_141) and Jones, in his "Relies of the Welsh
-Bards," <span id="fr_143"></span>[3](#fn_142) appear to have no doubt
+id="fr_142"></span>[2](#fn_141.md) and Jones, in his "Relies of the Welsh
+Bards," <span id="fr_143"></span>[3](#fn_142.md) appear to have no doubt
 upon the subject, and in that spirit quote the passage, which the
 learned Dr. Owen Pughe has also thus translated. <span
-id="fr_144"></span>[4](#fn_143)
+id="fr_144"></span>[4](#fn_143.md)
 
 <span id="page_288">p. 288</span>
 
@@ -1544,7 +1544,7 @@ amongst the Welsh, and Lewis Glyn Cothi alludes to him in these words,
 
 "He would destroy the towns with wrath, wounds, and violence he would
 tear down all the towers like the Twrch Trwyth." <span
-id="fr_145"></span>[1](#fn_144)
+id="fr_145"></span>[1](#fn_144.md)
 
 We find a direct reference to the hunt of the Twrch Trwyth in the
 catalogue of the marvels of the Island of Britain, which in some copies
@@ -1552,7 +1552,7 @@ is appended to the "Historia Britonum" of Nennius. The MS. from which
 the passage is copied into this place is preserved in the British Museum
 (Harleian MSS. 3859), and is pronounced by the learned editor of
 "Nennius" to be of the tenth century. <span
-id="fr_146"></span>[2](#fn_145)
+id="fr_146"></span>[2](#fn_145.md)
 
 "Est aliud mirabile in regione quæ dicitur Buelt. Est ibi cumulus
 lapidum, et unus lapis superpositus super congestum, cum vestigio canis
@@ -1566,7 +1566,7 @@ suum."--P. 60.
 --There is another wonder in the region called Buelt. There is a heap of
 stones, and one stone laid on the heap having upon it the footmark of a
 dog. When he hunted the swine Troynt, <span
-id="fr_147"></span>[3](#fn_146) Cabal, which was a dog of the warrior
+id="fr_147"></span>[3](#fn_146.md) Cabal, which was a dog of the warrior
 Arthur, impressed the stone with the print of his foot, and Arthur
 afterwards collected a heap of stones beneath the stone in which was the
 print of his dog's foot, and it is called Carn Cabal. And people come
@@ -1627,10 +1627,10 @@ requires a remark. The following sketch will give an idea of the stone."
  
 
 <span id="xref_240a">240a</span> MABON THE SON OF MODRON.--*Page*
-[240](mab16.htm#page_240).
+[240](mab16.htm#page_240.md).
 
 BOTH the Triads relating to Mabon's mysterious captivity having already
-been cited in this volume, [p. 192](mab14.htm#page_192), it is
+been cited in this volume, [p. 192](mab14.htm#page_192.md), it is
 considered unnecessary
 
 <span id="page_291">p. 291</span>
@@ -1645,12 +1645,12 @@ Mabon the son of Modron the sincere."--Myv. Arch. I. p. 78.
 
 He would seem to be alluded to, as Mab a Mydron, the servant of Uthir
 Pendragon, in the dialogue between Arthur, Kai, and Glewlwyd, where
-Mabon ab Mellt is also mentioned.--See [p. 267](#page_267).
+Mabon ab Mellt is also mentioned.--See [p. 267](#page_267.md).
 
  
 
 <span id="xref_246a">246a</span> OUSEL OF CILGWRI.--*Page*
-[246](mab16.htm#page_246).
+[246](mab16.htm#page_246.md).
 
 DAVYDD AP GWILYM was acquainted with the tradition of these ancient
 animals, as is proved by his poem entitled "Yr Oed." He has, however,
@@ -1670,7 +1670,7 @@ in Carmarthenshire. Cilgwri is in Flintsbire.
  
 
 <span id="xref_248a">248a</span> LLUDD LLAW EREINT.--*Page*
-[248](mab16.htm#page_248).
+[248](mab16.htm#page_248.md).
 
 LLUDD LLAW EREINT, an ancient king of Britain, will be better known to
 the English reader by the name of King Lear, or Llyr, as it is written
@@ -1680,7 +1680,7 @@ indiscriminately.
  
 
 <span id="xref_251a">251a</span> LLAMREI.--*Page*
-[251](mab16.htm#page_251).
+[251](mab16.htm#page_251.md).
 
 THIS Mare of Arthur's was very celebrated. Her name implies bounding or
 curvetting. Taliesin speaks of her in his Cân y Meirch, as "Llamrei full
@@ -1689,7 +1689,7 @@ of vigour."--Myv. Arch. I. p. 44.
  
 
 <span id="xref_253a">253a</span> PORTH KERDDIN.--*Page*
-[253](mab16.htm#page_253).
+[253](mab16.htm#page_253.md).
 
 THE precise position of this harbour is not easily ascertained. The
 proximity of places called Pen Arthyr and Trelethin (probably, Tre
@@ -1714,7 +1714,7 @@ foundations of houses occasionally met with in ploughing.
  
 
 <span id="xref_253b">253b</span> THE SUMMER COUNTRY (GWLAD YR
-HAF).--*Page* [253](mab16.htm#page_253).
+HAF).--*Page* [253](mab16.htm#page_253.md).
 
 THIS name stands translated in the text as the Summer Country, which is
 its literal meaning. This is the way in which it is usually rendered
@@ -1728,7 +1728,7 @@ the Welsh appellation, and with which the etymology of the Havren
  
 
 <span id="xref_254a">254a</span> PORTH CLEIS.--*Page*
-[254](mab16.htm#page_254).
+[254](mab16.htm#page_254.md).
 
 THIS place, at which the Twrch Trwyth landed, and commenced his
 devastating expedition through the Principality, is a small but
@@ -1800,7 +1800,7 @@ determine to which of them Din Tywi is intended to refer.
 At Ystrad Yw, we find ourselves once more on well-known ground, and
 hence we may conjecture that the course of the Twrch Trwyth lay across
 Carn Cavall and the Brecon Mountains <span
-id="fr_148"></span>[1](#fn_147) to Abergwy, where the Wye falls into the
+id="fr_148"></span>[1](#fn_147.md) to Abergwy, where the Wye falls into the
 Severn below Chepstow, and where the princely monster also dashes into
 the flood, to appear again but for a moment in Cornwall, before he
 vanishes entirely from our view.
@@ -1808,7 +1808,7 @@ vanishes entirely from our view.
  
 
 <span id="xref_256a">256a</span> LLYN LLIWAN.--*Page*
-[256](mab16.htm#page_256).
+[256](mab16.htm#page_256.md).
 
 WHETHER the immersion of the boar Trwyth into the Severn near Llyn
 Lliwan, or Llinlivan, as it is generally called, has any reference to
@@ -1818,7 +1818,7 @@ cause must have led to the marvellous results thus related in the tract
 De Mirabilibus Britanniæ, attached to some of the copies of Nennius.
 
 "There is another wonder, which is Oper Linn Liuan, <span
-id="fr_149"></span>[2](#fn_148) the mouth of which river opens into the
+id="fr_149"></span>[2](#fn_148.md) the mouth of which river opens into the
 Severn; and when the tide flows into the Severn, the sea in the like
 manner flows into the mouth of the above-named river, and is received
 into a pool at its mouth, as into a gulf, and does not proceed higher
@@ -1833,7 +1833,7 @@ being full of moisture, and their horses would be drawn in like manner.
 But should the army turn their backs towards the wave, it will not
 injure them. And when the sea has receded, then the whole beach which
 the wave had covered is left bare again, and the sea retires from
-it. <span id="fr_150"></span>[3](#fn_149)
+it. <span id="fr_150"></span>[3](#fn_149.md)
 
 <span id="page_295">p. 295</span>
 
@@ -1852,7 +1852,7 @@ it, Arthur told him that there was a still more marvellous lake not far
 thence, which was twenty feet long and twenty feet broad, and
 consequently square; and it contained four different races of fishes,
 and a fish was never found in a part of the lake occupied by a race to
-which it did not belong. <span id="fr_151"></span>[1](#fn_150) And he
+which it did not belong. <span id="fr_151"></span>[1](#fn_150.md) And he
 told him also that there was another lake in Wales near the Severn,
 which the men of that country called Llyn Llivan; and that lake, when
 the sea flowed, received water into it, and swallowed it as though it
@@ -1869,32 +1869,32 @@ Gruffudd ab Arthur.--Myv. Arch. II. p. 310.
 
 ### Footnotes
 
-<span id="fn_96"></span>[260:1](mab17.htm#fr_97) From him the county of
+<span id="fn_96"></span>[260:1](mab17.htm#fr_97.md) From him the county of
 Cardigan (Ceredigion) received its name.
 
-<span id="fn_97"></span>[261:1](mab17.htm#fr_98) Myvyrian Archaiology,
+<span id="fn_97"></span>[261:1](mab17.htm#fr_98.md) Myvyrian Archaiology,
 I. p. 45.
 
-<span id="fn_98"></span>[262:1](mab17.htm#fr_99) Myvyrian Archaiology,
+<span id="fn_98"></span>[262:1](mab17.htm#fr_99.md) Myvyrian Archaiology,
 II. p. 306.
 
-<span id="fn_99"></span>[262:2](mab17.htm#fr_100) Lord Lyttelton's
+<span id="fn_99"></span>[262:2](mab17.htm#fr_100.md) Lord Lyttelton's
 History of Henry II.
 
-<span id="fn_100"></span>[263:1](mab17.htm#fr_101) Myvyrian Archaiology,
+<span id="fn_100"></span>[263:1](mab17.htm#fr_101.md) Myvyrian Archaiology,
 II. p. 14.
 
-<span id="fn_101"></span>[263:2](mab17.htm#fr_102) See page
-[251](mab16.htm#page_251).
+<span id="fn_101"></span>[263:2](mab17.htm#fr_102.md) See page
+[251](mab16.htm#page_251.md).
 
-<span id="fn_102"></span>[263:3](mab17.htm#fr_103) Myv. Arch. I. p. 165.
+<span id="fn_102"></span>[263:3](mab17.htm#fr_103.md) Myv. Arch. I. p. 165.
 
-<span id="fn_103"></span>[264:1](mab17.htm#fr_104) Myv. Arch. II. p. 71.
+<span id="fn_103"></span>[264:1](mab17.htm#fr_104.md) Myv. Arch. II. p. 71.
 
-<span id="fn_104"></span>[264:2](mab17.htm#fr_105) Greal, p. 337, 8vo.
+<span id="fn_104"></span>[264:2](mab17.htm#fr_105.md) Greal, p. 337, 8vo.
 London, 1805.
 
-<span id="fn_105"></span>[264:3](mab17.htm#fr_106) St. Collen, having
+<span id="fn_105"></span>[264:3](mab17.htm#fr_106.md) St. Collen, having
 rendered essential services against the Pagans in Greece, the Pope
 bestowed upon him, on his return into Britain, a precious relic, which
 was the lily that had suddenly blossomed before the glory on some one's
@@ -1903,84 +1903,84 @@ withered lily in yonder vessel bears blossoms." "And that lily did St.
 Collen bring to this Island, and it is said that it is in Worcester to
 this day."
 
-<span id="fn_106"></span>[264:4](mab17.htm#fr_107) We are told that Gwyn
+<span id="fn_106"></span>[264:4](mab17.htm#fr_107.md) We are told that Gwyn
 ab Nudd greatly affects the tops of mountains.
 
-<span id="fn_107"></span>[266:1](mab17.htm#fr_108) Triad 77. In this
+<span id="fn_107"></span>[266:1](mab17.htm#fr_108.md) Triad 77. In this
 triad, he is styled the son of Gwyddno Garanhir, and not of Dewrath (or
 Dorath) Wledig, as in Triad 25, and in the text.
 
-<span id="fn_108"></span>[266:2](mab17.htm#fr_109) Triad 25.
+<span id="fn_108"></span>[266:2](mab17.htm#fr_109.md) Triad 25.
 
-<span id="fn_109"></span>[266:3](mab17.htm#fr_110) Triad xxxiv. Myv.
+<span id="fn_109"></span>[266:3](mab17.htm#fr_110.md) Triad xxxiv. Myv.
 Arch. II. p. 15.
 
-<span id="fn_110"></span>[269:1](mab17.htm#fr_111) Published at
+<span id="fn_110"></span>[269:1](mab17.htm#fr_111.md) Published at
 Llandovery 1840.
 
-<span id="fn_111"></span>[272:1](mab17.htm#fr_112) Welsh Bards, II. p.
+<span id="fn_111"></span>[272:1](mab17.htm#fr_112.md) Welsh Bards, II. p.
 22.
 
-<span id="fn_112"></span>[274:1](mab17.htm#fr_113) Triads, 4, 57, 59,
+<span id="fn_112"></span>[274:1](mab17.htm#fr_113.md) Triads, 4, 57, 59,
 36.
 
-<span id="fn_113"></span>[274:2](mab17.htm#fr_114) Myv. Arch. II. p.
+<span id="fn_113"></span>[274:2](mab17.htm#fr_114.md) Myv. Arch. II. p.
 321.
 
-<span id="fn_114"></span>[274:3](mab17.htm#fr_115) Myv. Arch. I. p. 58.
+<span id="fn_114"></span>[274:3](mab17.htm#fr_115.md) Myv. Arch. I. p. 58.
 
-<span id="fn_115"></span>[275:1](mab17.htm#fr_116) The other two cities
+<span id="fn_115"></span>[275:1](mab17.htm#fr_116.md) The other two cities
 which ranked with Gelliwig, were Caerlleon upon Usk, and Penrhyn
 Rhionydd, in the North.
 
-<span id="fn_116"></span>[275:2](mab17.htm#fr_117) Triads 62, 64, 111.
+<span id="fn_116"></span>[275:2](mab17.htm#fr_117.md) Triads 62, 64, 111.
 
-<span id="fn_117"></span>[275:3](mab17.htm#fr_118) Triad 52.
+<span id="fn_117"></span>[275:3](mab17.htm#fr_118.md) Triad 52.
 
-<span id="fn_118"></span>[275:4](mab17.htm#fr_119) Powhele's Hist. of
+<span id="fn_118"></span>[275:4](mab17.htm#fr_119.md) Powhele's Hist. of
 Cornwall, 4to. II. p. 50.
 
-<span id="fn_119"></span>[276:1](mab17.htm#fr_120) C. S. Gilbert's
+<span id="fn_119"></span>[276:1](mab17.htm#fr_120.md) C. S. Gilbert's
 Historical Survey of Cornwall, I. p. 170.
 
-<span id="fn_120"></span>[276:2](mab17.htm#fr_121) See [p.
-261](#page_261).
+<span id="fn_120"></span>[276:2](mab17.htm#fr_121.md) See [p.
+261](#page_261.md).
 
-<span id="fn_121"></span>[276:3](mab17.htm#fr_122) Triad ii.
+<span id="fn_121"></span>[276:3](mab17.htm#fr_122.md) Triad ii.
 
-<span id="fn_122"></span>[277:1](mab17.htm#fr_123) Myv. Arch. I. p. 174.
+<span id="fn_122"></span>[277:1](mab17.htm#fr_123.md) Myv. Arch. I. p. 174.
 
-<span id="fn_123"></span>[279:1](mab17.htm#fr_124) Triad 64.
+<span id="fn_123"></span>[279:1](mab17.htm#fr_124.md) Triad 64.
 
-<span id="fn_124"></span>[279:2](mab17.htm#fr_125) Myv. Arch. I. p. 173.
+<span id="fn_124"></span>[279:2](mab17.htm#fr_125.md) Myv. Arch. I. p. 173.
 
-<span id="fn_125"></span>[279:3](mab17.htm#fr_126) Triad 110.
+<span id="fn_125"></span>[279:3](mab17.htm#fr_126.md) Triad 110.
 
-<span id="fn_126"></span>[279:4](mab17.htm#fr_127) Tr. lii. liii.
+<span id="fn_126"></span>[279:4](mab17.htm#fr_127.md) Tr. lii. liii.
 
-<span id="fn_127"></span>[279:5](mab17.htm#fr_128) Triad 105.
+<span id="fn_127"></span>[279:5](mab17.htm#fr_128.md) Triad 105.
 
-<span id="fn_128"></span>[280:1](mab17.htm#fr_129) Myv. Arch. I. p. 167.
+<span id="fn_128"></span>[280:1](mab17.htm#fr_129.md) Myv. Arch. I. p. 167.
 
-<span id="fn_129"></span>[281:1](mab17.htm#fr_130) Myv. Arch. I. p. 70.
+<span id="fn_129"></span>[281:1](mab17.htm#fr_130.md) Myv. Arch. I. p. 70.
 
-<span id="fn_130"></span>[281:2](mab17.htm#fr_131) Myv. Arch. I. p. 45.
+<span id="fn_130"></span>[281:2](mab17.htm#fr_131.md) Myv. Arch. I. p. 45.
 
-<span id="fn_131"></span>[281:3](mab17.htm#fr_132) Jones's Hist. of
+<span id="fn_131"></span>[281:3](mab17.htm#fr_132.md) Jones's Hist. of
 Breconshire, I. p. 42.
 
-<span id="fn_132"></span>[282:1](mab17.htm#fr_133) Ergyng, or
+<span id="fn_132"></span>[282:1](mab17.htm#fr_133.md) Ergyng, or
 Archenfield, comprehended the portion of Herefordshire, S.W. of the
 river Wye, of which the present Ecclesiastical Deanery of Archfield, or
 Irchenfield, constitutes a part.
 
-<span id="fn_133"></span>[282:2](mab17.htm#fr_134) "Madley is a parish
+<span id="fn_133"></span>[282:2](mab17.htm#fr_134.md) "Madley is a parish
 in Herefordshire, on the S. of the river Wye."
 
-<span id="fn_134"></span>[282:3](mab17.htm#fr_135) Liber Landavensis, p.
+<span id="fn_134"></span>[282:3](mab17.htm#fr_135.md) Liber Landavensis, p.
 323, 4.
 
-<span id="fn_135"></span>[284:1](mab17.htm#fr_136) "This meane wbyle
+<span id="fn_135"></span>[284:1](mab17.htm#fr_136.md) "This meane wbyle
 came a messager from kynge Ryons of Northwalys. And kynge he was of all
 Ireland and of many Iles. And this was his message gretynge wel kynge
 Arthur in this manere wyse sayenge, that kynge Ryons had discomfyte and
@@ -2001,55 +2001,55 @@ aspyed, thy kyng met neuer yet with worshipful man, but telle hym, I
 wyll haue his hede withoute he doo me homage, thenne the messager
 departed."--Morte Arthur, I, c. xxvii.
 
-<span id="fn_136"></span>[284:2](mab17.htm#fr_137) Cambro-Briton, I. p.
+<span id="fn_136"></span>[284:2](mab17.htm#fr_137.md) Cambro-Briton, I. p.
 129-11. p. 61. Cambrian Register, III. p. 165.
 
-<span id="fn_137"></span>[285:1](mab17.htm#fr_138) Triads 4, 5, 54, 56,
+<span id="fn_137"></span>[285:1](mab17.htm#fr_138.md) Triads 4, 5, 54, 56,
 57, 92, 97.
 
-<span id="fn_138"></span>[285:2](mab17.htm#fr_139) Cambro Briton II. p.
+<span id="fn_138"></span>[285:2](mab17.htm#fr_139.md) Cambro Briton II. p.
 61, where will be found a summary of the opinions concerning Hu Gadarn.
 
-<span id="fn_139"></span>[286:1](mab17.htm#fr_140) Jones's Welsh Bards,
+<span id="fn_139"></span>[286:1](mab17.htm#fr_140.md) Jones's Welsh Bards,
 II. p. 47.
 
-<span id="fn_140"></span>[287:1](mab17.htm#fr_141) Jones's Welsh Bards,
+<span id="fn_140"></span>[287:1](mab17.htm#fr_141.md) Jones's Welsh Bards,
 I. p. 44.
 
-<span id="fn_141"></span>[287:2](mab17.htm#fr_142) Myth. of the Druids,
+<span id="fn_141"></span>[287:2](mab17.htm#fr_142.md) Myth. of the Druids,
 p. 42.
 
-<span id="fn_142"></span>[287:3](mab17.htm#fr_143) Jones's Welsh Bards,
+<span id="fn_142"></span>[287:3](mab17.htm#fr_143.md) Jones's Welsh Bards,
 II. p. 13.
 
-<span id="fn_143"></span>[287:4](mab17.htm#fr_144) Gentleman's Magazine,
+<span id="fn_143"></span>[287:4](mab17.htm#fr_144.md) Gentleman's Magazine,
 Nov. 1790.
 
-<span id="fn_144"></span>[289:1](mab17.htm#fr_145) See Dr. Owen Pughe's
+<span id="fn_144"></span>[289:1](mab17.htm#fr_145.md) See Dr. Owen Pughe's
 Dictionary, II. p, 206. 8vo. 1832.
 
-<span id="fn_145"></span>[289:2](mab17.htm#fr_146) See Mr. Stevenson's
+<span id="fn_145"></span>[289:2](mab17.htm#fr_146.md) See Mr. Stevenson's
 Preface to the Edition of Nennius, published by the English Historical
 Society. London, 1838, p. xxi.
 
-<span id="fn_146"></span>[289:3](mab17.htm#fr_147) Another MS. has
+<span id="fn_146"></span>[289:3](mab17.htm#fr_147.md) Another MS. has
 Troit, which is still nearer to the Welsh Trwyth.
 
-<span id="fn_147"></span>[294:1](mab17.htm#fr_148) The summit of which
+<span id="fn_147"></span>[294:1](mab17.htm#fr_148.md) The summit of which
 still retains the name of Cadair Arthur. There is also in Breconshire a
 valley bearing the name of one of the pigs; Cwm Banw.
 
-<span id="fn_148"></span>[294:2](mab17.htm#fr_149) Probably a corrupted
+<span id="fn_148"></span>[294:2](mab17.htm#fr_149.md) Probably a corrupted
 form of the Welsh "Aber Llyn Llivan."
 
-<span id="fn_149"></span>[294:3](mab17.htm#fr_150) Nennius. Published by
+<span id="fn_149"></span>[294:3](mab17.htm#fr_150.md) Nennius. Published by
 the English Historical Society. London, 1838, p. 57.
 
-<span id="fn_150"></span>[295:1](mab17.htm#fr_151) This appears to be
+<span id="fn_150"></span>[295:1](mab17.htm#fr_151.md) This appears to be
 the same as the marvel described in the Catalogue appended to Nennius,
 where it is styled Finnaun Guur Helic, and is placed in the region of
 Cinlipluc.
 
 ------------------------------------------------------------------------
 
-[Next: The Dream of Rhonabwy](mab18)
+[Next: The Dream of Rhonabwy](mab18.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh04)  [Next](lsbh06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh04)  [Next](lsbh06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -50,6 +50,6 @@ Budge, \[1897\], at Intangible Textual Heritage
 ------------------------------------------------------------------------
 
 [Next: The First Chapter: Profitable Sayings of the Greek
-Philosophers](lsbh06)
+Philosophers](lsbh06.md)
 
 </div>

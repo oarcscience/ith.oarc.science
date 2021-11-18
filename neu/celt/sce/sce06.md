@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce05)  [Next](sce07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce05)  [Next](sce07.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ story.
 There remain the less easily explicable tales of strange and humorous
 disturbances, accompanied by loud sounds, rappings, the moving of
 objects without visible contact, and so forth. <span
-id="fr_6"></span>[1](#fn_6) Perhaps we may best examine these by taking
+id="fr_6"></span>[1](#fn_6.md) Perhaps we may best examine these by taking
 modern instances, collected by the Psychical Society, in the first
 place, and then comparing them with cases recorded at distant times and
 in remote places. Some curious common features
@@ -110,17 +110,17 @@ we find
 <span id="page_xl">p. xl</span>
 
 similar occurrences in the Empire of the Incas not long after the
-Spanish conquest of Peru. <span id="fr_7"></span>[1](#fn_7)
+Spanish conquest of Peru. <span id="fr_7"></span>[1](#fn_7.md)
 
 Beginning, then, with what is nearest to us in time, we take Mr. F. W.
 H. Myers's essays "On the Alleged Movement of Objects without Contact,
 occurring not in the Presence of a Paid Medium." <span
-id="fr_8"></span>[2](#fn_8) The alleged phenomena are, of course, as
+id="fr_8"></span>[2](#fn_8.md) The alleged phenomena are, of course, as
 common as blackberries in the presence of paid mediums, but are to the
 last degree untrustworthy. Even when there is no paid medium present,
 the mere contagious excitement which is said to be developed at
 *séances* makes all that is thought to occur there a story to be taken
-with plenty of salt. <span id="fr_9"></span>[3](#fn_9) One of Mr.
+with plenty of salt. <span id="fr_9"></span>[3](#fn_9.md) One of Mr.
 Myers's examples was the result of *séances*, but it had features of
 great importance for the argument. It will be found in *Proc. S. P. R.*,
 vol. xix. p. 139, July 1891. The performers are Mr. C., Mrs. C., and Mr.
@@ -157,7 +157,7 @@ vexed by "figures," noises, knockings; "we were sprinkled with water in
 the night," haunted by sounds of drums and horns, and so forth. Before a
 "manifestation," "we all felt a sudden chill, like either a wave of
 intensely cold air passing, or a rapid decrease of temperature." <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 This is a disgusting story if Mr. H's health was ruined by his presence
 at the performances. The point, however, is that he did behave in
@@ -171,7 +171,7 @@ but would account for many of them.
 
 We now take an ancient instance, similar disturbances at Newberry, in
 New England, in 1679, similarly accompanied by the presence of an
-epileptic patient. <span id="fr_11"></span>[1](#fn_11) The house of
+epileptic patient. <span id="fr_11"></span>[1](#fn_11.md) The house of
 William Morse was "strangely disquieted by a dæmon." The inmates were
 Morse, his wife, and their grandson, a boy whose age is not given. The
 trouble began on December 3, with a sound of heavy objects falling on
@@ -205,7 +205,7 @@ boy into the fire, and the child was tossed about in such a manner as
 that they feared his brains would have been beaten out."
 
 All these contortions of the boy were apparently what M. Charcot calls
-*clownisms*. <span id="fr_12"></span>[1](#fn_12) When
+*clownisms*. <span id="fr_12"></span>[1](#fn_12.md) When
 
 <span id="page_xlv">p. xlv</span>
 
@@ -236,14 +236,14 @@ case, analogous to that of Mr. H. In a modern case of bell-ringing,
 heavy thumps, and movement of objects, the agent was "a young girl who
 had never been out to service before," and who passed the night in a
 state of wildly agitated somnambulism, repeating the whole of the
-Service for the day. <span id="fr_13"></span>[1](#fn_13) Mather gives
+Service for the day. <span id="fr_13"></span>[1](#fn_13.md) Mather gives
 several other examples, in which motives for trickery are manifest,
 while we hear nothing of an epileptic or hysterical patient.
 
 In the majority of instances, ancient or modern, children are the
 agents. Thus we have "Physical Phenomena obtained in a Family Circle,"
 that of Mr. and Mrs. Davis, with their children, at Rio Janeiro. <span
-id="fr_14"></span>[2](#fn_14) The time was 1888. Curiosity had been
+id="fr_14"></span>[2](#fn_14.md) The time was 1888. Curiosity had been
 caused by "the notorious Henry Slade." There were "touches and grasps of
 hands." A table "ran after me" (Professor Alexander) "and attempted to
 hem me in," when only C., a little girl, was in the room. "As far as I
@@ -263,7 +263,7 @@ were seen.
 
 All this answers to an ancient example--the disturbances in Mr. Wesley's
 house at Epworth, December 1715 to January 1716. <span
-id="fr_15"></span>[1](#fn_15) The house was a new one, rebuilt in 1709.
+id="fr_15"></span>[1](#fn_15.md) The house was a new one, rebuilt in 1709.
 We have Mr. Samuel Wesley's Journal, with many contemporary letters from
 members of the family, and later reminiscences. There were many lively
 girls in the house, and two servants--a maid and a man, recently
@@ -296,20 +296,20 @@ agent in building it, was dying in London. The racket occurred on April
 
 \[paragraph continues\] 28 and 29, 1818, and Scott examined the scene
 "with Beardie's broadsword under my arm." <span
-id="fr_16"></span>[1](#fn_16) Bullock died in Tenterden Street, in
+id="fr_16"></span>[1](#fn_16.md) Bullock died in Tenterden Street, in
 London, whether on April 28 or 29 is not easily to be ascertained. "The
 noise resembled half a dozen men putting up boards and furniture, and
 nothing can be more certain than that there was nobody on the premises
-at the time." <span id="fr_17"></span>[2](#fn_17) The noises used to
+at the time." <span id="fr_17"></span>[2](#fn_17.md) The noises used to
 follow Hetty Wesley, and thump under her feet, as under those of C. in
 Professor Alexander's narrative. Mr. Wesley's plate "danced before him
 on the table a pretty while, without anybody's stirring the
-table." <span id="fr_18"></span>[3](#fn_18) The disturbances quieted
+table." <span id="fr_18"></span>[3](#fn_18.md) The disturbances quieted
 down in January, but recurred on March 31. Similar phenomena had
 occurred "long before" in the family. <span
-id="fr_19"></span>[4](#fn_19) "The sound very often seemed in the air,
+id="fr_19"></span>[4](#fn_19.md) "The sound very often seemed in the air,
 in the middle of a room, nor could they ever make any such themselves by
-any contrivance." <span id="fr_20"></span>[5](#fn_20) On February 16,
+any contrivance." <span id="fr_20"></span>[5](#fn_20.md) On February 16,
 1740, twenty-three years later, Emily writes to Jack about "that
 *wonderful thing* called by us *Jeffrey*.
 
@@ -322,7 +322,7 @@ Priestley styles this affair "the best-authenticated that is anywhere
 extant." He supposes it to have been "a trick of the servants, for mere
 amusement." The *modus operandi* is difficult to explain. We hear
 nothing of bad health or hysterics in the household. <span
-id="fr_21"></span>[1](#fn_21) For our purpose it is enough that a few
+id="fr_21"></span>[1](#fn_21.md) For our purpose it is enough that a few
 incidents of this kind, however produced, might originate and keep alive
 the belief in Brownies, and
 
@@ -345,7 +345,7 @@ witnessed similar events. It thus became necessary to consult his *Life*
 <span id="page_li">p. li</span>
 
 1833). "In the history of my own life," says Dr. Clarke, "I have related
-this matter in sufficient detail." <span id="fr_22"></span>[1](#fn_22)
+this matter in sufficient detail." <span id="fr_22"></span>[1](#fn_22.md)
 Unluckily, in his *Life* (pp. 76, 77) he gives scarce any details.
 Previous to sudden deaths in a family called Church, the phenomena of
 falling plates, heavy tread, and other noises occurred. Mr. Clarke "sat
@@ -372,7 +372,7 @@ to Fairies. It is a mere difference of terminology.
 
 Another old example may be given. It is Alexander Telfair's "True
 Relation" of disturbances at Ringcroft, in the parish of Rerrick. <span
-id="fr_23"></span>[1](#fn_23) The story is attested by the signatures of
+id="fr_23"></span>[1](#fn_23.md) The story is attested by the signatures of
 Ewart, minister of Kells, in Galloway; Monteith, minister of Borg;
 Murdoch, minister of Crosmichael, on Loch Ken; Spalding, minister at
 Parton, also by Loch Ken; Falconer, minister at Keltown; Mr. M'Lellan of
@@ -402,7 +402,7 @@ lifting up my arm. I, casting my eyes thither, perceived a little white
 hand and arm from the elbow down, but presently it evanished." "There
 was never anything seen except that hand I saw," and an apparition of a
 boy in grey clothes. Sometimes the stoning went on in the open
-air. <span id="fr_24"></span>[1](#fn_24) There were plenty
+air. <span id="fr_24"></span>[1](#fn_24.md) There were plenty
 
 <span id="page_liv">p. liv</span>
 
@@ -459,7 +459,7 @@ noise was persistent in the woodwork of the children's beds, while their
 hands were outside. The knocks answered knocks made by visitors. There
 were divers other marvels. The Drummer was suspected, but, consciously
 or not, the children were probably the agents. They seem to have been in
-their usual health. <span id="fr_25"></span>[1](#fn_25) In Galashiels
+their usual health. <span id="fr_25"></span>[1](#fn_25.md) In Galashiels
 (date not given), loud knocks on the floor accompanied a
 hystero-epileptic girl wherever she sat. In bed, "her body was so lifted
 up that many strong men were not able to keep it down." The minister,
@@ -480,82 +480,82 @@ old traditional form of imposture. The moral that parents should not
 allow their children to be present at *séances* hardly needs enforcing.
 Some of them may escape unharmed, but frightful injuries may be
 inflicted on health and on character. <span
-id="fr_26"></span>[1](#fn_26)
+id="fr_26"></span>[1](#fn_26.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_6"></span>[xxxviii:1](sce06.htm#fr_6) Many instances may be
+<span id="fn_6"></span>[xxxviii:1](sce06.htm#fr_6.md) Many instances may be
 read of in a little anonymous work, *Obeah*. The scene is Hayti.
 
-<span id="fn_7"></span>[xl:1](sce06.htm#fr_7) Note
-( [c](sce29.htm#xref_c)), [p. 82](sce29.htm#page_82).
+<span id="fn_7"></span>[xl:1](sce06.htm#fr_7.md) Note
+( [c](sce29.htm#xref_c)), [p. 82](sce29.htm#page_82.md).
 
-<span id="fn_8"></span>[xl:2](sce06.htm#fr_8) *Proc. S. P. R.*, July
+<span id="fn_8"></span>[xl:2](sce06.htm#fr_8.md) *Proc. S. P. R.*, July
 1891, February 1892.
 
-<span id="fn_9"></span>[xl:3](sce06.htm#fr_9) As far as the author has
+<span id="fn_9"></span>[xl:3](sce06.htm#fr_9.md) As far as the author has
 watched *séances* personally, they have ended in nothing but "giggling
 and making giggle."
 
-<span id="fn_10"></span>[xlii:1](sce06.htm#fr_10) Some *séances* were
+<span id="fn_10"></span>[xlii:1](sce06.htm#fr_10.md) Some *séances* were
 held at ------ College, Oxford, about 1875. The performers were all
 athletic undergraduates. The breath of chill air was always felt "before
 anything happened," and, when the out-college men had gone, the owner of
 the rooms, in his bedchamber, was disturbed by the racket which
 continued in the sitting-room. But I know not if he had sported his oak!
 
-<span id="fn_11"></span>[xliii:1](sce06.htm#fr_11) *An Essay for the
+<span id="fn_11"></span>[xliii:1](sce06.htm#fr_11.md) *An Essay for the
 Recording of Illustrious Providences*, by Increase Mather. Boston, 1684;
 London, Reeves & Turner, 1890, pp. 101-111.
 
-<span id="fn_12"></span>[xliv:1](sce06.htm#fr_12) *Diseases of the
+<span id="fn_12"></span>[xliv:1](sce06.htm#fr_12.md) *Diseases of the
 Nervous System*, iii. 249. London, 1890.
 
-<span id="fn_13"></span>[xlvi:1](sce06.htm#fr_13) *Proc. S. P. R.*, xix.
+<span id="fn_13"></span>[xlvi:1](sce06.htm#fr_13.md) *Proc. S. P. R.*, xix.
 160-173.
 
-<span id="fn_14"></span>[xlvi:2](sce06.htm#fr_14) *op. cit.*, pp.
+<span id="fn_14"></span>[xlvi:2](sce06.htm#fr_14.md) *op. cit.*, pp.
 173-189.
 
-<span id="fn_15"></span>[xlvii:1](sce06.htm#fr_15) *Memoirs of the
+<span id="fn_15"></span>[xlvii:1](sce06.htm#fr_15.md) *Memoirs of the
 Wesley Family*, by Adam Clarke, LL.D., F.A.S. London, 1823, pp. 161-200.
 
-<span id="fn_16"></span>[xlix:1](sce06.htm#fr_16) Letter to Terry, April
+<span id="fn_16"></span>[xlix:1](sce06.htm#fr_16.md) Letter to Terry, April
 30. Lockhart, v. 309.
 
-<span id="fn_17"></span>[xlix:2](sce06.htm#fr_17) Scott to Terry, May
+<span id="fn_17"></span>[xlix:2](sce06.htm#fr_17.md) Scott to Terry, May
 16.
 
-<span id="fn_18"></span>[xlix:3](sce06.htm#fr_18) Susannah Wesley to
+<span id="fn_18"></span>[xlix:3](sce06.htm#fr_18.md) Susannah Wesley to
 Samuel Wesley, March 27, 1717.
 
-<span id="fn_19"></span>[xlix:4](sce06.htm#fr_19) *Op. cit.*, p. 193.
+<span id="fn_19"></span>[xlix:4](sce06.htm#fr_19.md) *Op. cit.*, p. 193.
 
-<span id="fn_20"></span>[xlix:5](sce06.htm#fr_20) *Op. cit.*, p. 194.
+<span id="fn_20"></span>[xlix:5](sce06.htm#fr_20.md) *Op. cit.*, p. 194.
 
-<span id="fn_21"></span>[l:1](sce06.htm#fr_21) Note
-( [d](sce29.htm#xref_d)), [p. 83](sce29.htm#page_83).
+<span id="fn_21"></span>[l:1](sce06.htm#fr_21.md) Note
+( [d](sce29.htm#xref_d)), [p. 83](sce29.htm#page_83.md).
 
-<span id="fn_22"></span>[li:1](sce06.htm#fr_22) *Memoirs of the Wesley
+<span id="fn_22"></span>[li:1](sce06.htm#fr_22.md) *Memoirs of the Wesley
 Family*, p. 198.
 
-<span id="fn_23"></span>[lii:1](sce06.htm#fr_23) Edinburgh: Mossman,
+<span id="fn_23"></span>[lii:1](sce06.htm#fr_23.md) Edinburgh: Mossman,
 1696. There is a London reprint, of which I have a copy. The pamphlet is
 republished in Mr. Stevenson's edition of Sinclair's *Satan's Invisible
 World Discovered*, 1685-1871, Appendix, p. xix.
 
-<span id="fn_24"></span>[liii:1](sce06.htm#fr_24) Compare similar
+<span id="fn_24"></span>[liii:1](sce06.htm#fr_24.md) Compare similar
 phenomena in *Obeah*, and in Peruvian example, note
-( [c](sce29.htm#xref_c)), [p. 82](sce29.htm#page_82).
+( [c](sce29.htm#xref_c)), [p. 82](sce29.htm#page_82.md).
 
-<span id="fn_25"></span>[lvi:1](sce06.htm#fr_25) Glanvil's version is
+<span id="fn_25"></span>[lvi:1](sce06.htm#fr_25.md) Glanvil's version is
 given in Sinclair's *Satan's Invisible World*.
 
-<span id="fn_26"></span>[lvii:1](sce06.htm#fr_26) Note
-( [e](sce29.htm#xref_e)), [p. 85](sce29.htm#page_85).
+<span id="fn_26"></span>[lvii:1](sce06.htm#fr_26.md) Note
+( [e](sce29.htm#xref_e)), [p. 85](sce29.htm#page_85.md).
 
 ------------------------------------------------------------------------
 
-[Next: VI. Second Sight and Telepathy.](sce07)
+[Next: VI. Second Sight and Telepathy.](sce07.md)

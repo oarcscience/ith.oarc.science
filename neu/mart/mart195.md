@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK IX CHAPTER I
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK IX](book08) 
-[Previous](mart194)  [Next](mart196) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK IX](book08.md) 
+[Previous](mart194)  [Next](mart196.md) </span>
 
 ------------------------------------------------------------------------
 

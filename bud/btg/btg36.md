@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg35)  [Next](btg37) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg35)  [Next](btg37.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ treated duly.'"
 
 ------------------------------------------------------------------------
 
-[Next: The Schism](btg37)
+[Next: The Schism](btg37.md)

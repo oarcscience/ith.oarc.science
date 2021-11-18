@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Next](stc01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Next](stc01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Preface](stc01)
+[Next: Preface](stc01.md)

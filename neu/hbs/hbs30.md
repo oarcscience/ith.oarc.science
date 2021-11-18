@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs29) [Next](hbs31)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs29) [Next](hbs31.md)
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ And gave them to Marko, saying: “Marko, go drink the wine.”
 
 ------------------------------------------------------------------------
 
-[Next](hbs31)
+[Next](hbs31.md)
 
  
 

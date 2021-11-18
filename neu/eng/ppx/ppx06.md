@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](ppx05)  [Next](ppx07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](ppx05)  [Next](ppx07.md) 
 
 ------------------------------------------------------------------------
 
 # The Seven Crosses of Tiverton; or, The Story of Pixy Picket
 
 <span id="img_06"></span> [![](tn/06.jpg)  
-Click to enlarge](img/06.jpg)  
+Click to enlarge](img/06.jpg.md)  
 THE SEVEN CROSSES OF TIVERTON
 
 THE events I am now about to relate occurred soon after that cruel king,
@@ -1248,4 +1248,4 @@ SEVEN CROSSES OF TIVERTON.
 
 ------------------------------------------------------------------------
 
-[Next: Background Notes on the Seven Crosses of Tiverton](ppx07)
+[Next: Background Notes on the Seven Crosses of Tiverton](ppx07.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tiu00)
+[Contents](#contents)    [Start Reading](tiu00.md)
 
 ------------------------------------------------------------------------
 
@@ -35,32 +35,32 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](tiu00)  
-[Table Of Contents](tiu01)  
-[Notice to the Reader](tiu02)  
-[On the Improvement of the Understanding](tiu03)  
-[Of the Ordinary Objects of Men's Desires](tiu04)  
-[Of the True and Final Good](tiu05)  
-[Certain Rules of Life](tiu06)  
-[Of the Four Modes of Perception](tiu07)  
-[Of the Best Mode of Perception](tiu08)  
-[Of the Instruments of the Intellect, Or True Ideas](tiu09)  
-[Answers to Objections](tiu10)  
+<span id="contents"></span> [Title Page](tiu00.md)  
+[Table Of Contents](tiu01.md)  
+[Notice to the Reader](tiu02.md)  
+[On the Improvement of the Understanding](tiu03.md)  
+[Of the Ordinary Objects of Men's Desires](tiu04.md)  
+[Of the True and Final Good](tiu05.md)  
+[Certain Rules of Life](tiu06.md)  
+[Of the Four Modes of Perception](tiu07.md)  
+[Of the Best Mode of Perception](tiu08.md)  
+[Of the Instruments of the Intellect, Or True Ideas](tiu09.md)  
+[Answers to Objections](tiu10.md)  
 <span id="section_000"></span>
 
 ### First Part of Method
 
-[Distinction of True Ideas From Fictitious Ideas](tiu11)  
-[And From False Ideas](tiu12)  
-[Of Doubt](tiu13)  
-[Of Memory and Forgetfulness](tiu14)  
+[Distinction of True Ideas From Fictitious Ideas](tiu11.md)  
+[And From False Ideas](tiu12.md)  
+[Of Doubt](tiu13.md)  
+[Of Memory and Forgetfulness](tiu14.md)  
 [Mental Hindrances From Words—And From the Popular Confusion of Ready
-Imagination With Distinct Understanding](tiu15)  
+Imagination With Distinct Understanding](tiu15.md)  
 <span id="section_001"></span>
 
 ### Second Part of Method
 
-[Its Object, the Acquisition of Clear and Distinct Ideas](tiu16)  
-[Its Means, Good Definitions—Conditions of Definition](tiu17)  
-[How To Define Understanding](tiu18)  
-[Endnotes](tiu19)  
+[Its Object, the Acquisition of Clear and Distinct Ideas](tiu16.md)  
+[Its Means, Good Definitions—Conditions of Definition](tiu17.md)  
+[How To Define Understanding](tiu18.md)  
+[Endnotes](tiu19.md)  

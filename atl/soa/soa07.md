@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa06)  [Next](soa08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa06)  [Next](soa08.md) 
 
 ------------------------------------------------------------------------
 
@@ -156,4 +156,4 @@ before the writing of this book."
 
 ------------------------------------------------------------------------
 
-[Next: The Occult Records](soa08)
+[Next: The Occult Records](soa08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe128)  [Next](prwe130) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe128)  [Next](prwe130.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ with gore, whereas they never were so previously to this dreadful deed.
 
 ------------------------------------------------------------------------
 
-[Next: St Kea's Boat](prwe130)
+[Next: St Kea's Boat](prwe130.md)

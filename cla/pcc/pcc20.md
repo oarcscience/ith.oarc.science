@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc19)  [Next](pcc21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc19)  [Next](pcc21.md) 
 
 ------------------------------------------------------------------------
 
@@ -319,7 +319,7 @@ beauty,
 And the antelope shall descend to drink, and the lion to quench his
 thirst,  
 And Love himself shall come and bend over, and catch his own likeness in
-you. <span id="fr_292"></span>[1](#fn_292)
+you. <span id="fr_292"></span>[1](#fn_292.md)
 
 Yes, there is this priceless thing within us, but hoofing along the
 roads in the mud we fail to find it; there is this region of calm, but
@@ -495,9 +495,9 @@ forward, and one step nearer the light.
 
 ### Footnotes
 
-<span id="fn_292"></span>[290:1](pcc20.htm#fr_292) *Towards Democracy*,
+<span id="fn_292"></span>[290:1](pcc20.htm#fr_292.md) *Towards Democracy*,
 p. 373.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Nature Of The Self](pcc21)
+[Next: II. The Nature Of The Self](pcc21.md)

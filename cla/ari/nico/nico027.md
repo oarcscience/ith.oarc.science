@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico026) 
-[Next](nico028) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico026.md) 
+[Next](nico028.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ first let us speak of courage.
 
 [Next: Chapter 6. Courage concerned with the feelings of fear and
 confidence--strictly speaking, with the fear of death in
-battle](nico028)
+battle](nico028.md)

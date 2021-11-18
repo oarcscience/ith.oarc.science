@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb09)  [Next](isb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb09)  [Next](isb11.md) 
 
 ------------------------------------------------------------------------
 
@@ -319,4 +319,4 @@ Lane?
 
 ------------------------------------------------------------------------
 
-[Next: Killarney--Stag-hunting on the Lake.](isb11)
+[Next: Killarney--Stag-hunting on the Lake.](isb11.md)

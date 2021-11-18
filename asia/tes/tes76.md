@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes75)  [Next](tes77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes75)  [Next](tes77.md) 
 
 ------------------------------------------------------------------------
 
 ### 11. LAY OF BÓNDANDI.
 
-(*Kolyma Version*). <span id="fr_112"></span>[1](#fn_112)
+(*Kolyma Version*). <span id="fr_112"></span>[1](#fn_112.md)
 
 <table data-cellspacing="0" data-border="0" data-cellpadding="9" width="798">
 <colgroup>
@@ -73,9 +73,9 @@ Pokhotsk, winter of 1900.
 
 ### Footnotes
 
-<span id="fn_112"></span>[138:1](tes76.htm#fr_112) Inserted here for
+<span id="fn_112"></span>[138:1](tes76.htm#fr_112.md) Inserted here for
 more ready comparison
 
 ------------------------------------------------------------------------
 
-[Next: 12. Story About Kundirik](tes77)
+[Next: 12. Story About Kundirik](tes77.md)

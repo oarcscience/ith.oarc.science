@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft10)  [Next](meft12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft10)  [Next](meft12.md) 
 
 ------------------------------------------------------------------------
 
 # The Hedley Kow
 
 <span id="img_012"></span> [![](tn/012.jpg)  
-Click to enlarge](img/012.jpg)
+Click to enlarge](img/012.jpg.md)
 
 THERE was once an old woman, who earned a poor living by going errands
 and suchlike, for the farmers' wives round about the village where she
@@ -113,4 +113,4 @@ her good luck.
 
 ------------------------------------------------------------------------
 
-[Next: Gobborn Seer](meft12)
+[Next: Gobborn Seer](meft12.md)

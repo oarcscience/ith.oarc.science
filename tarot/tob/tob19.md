@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob18) 
-[Next](tob20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob18.md) 
+[Next](tob20.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob18) 
 
 <span id="img_wiar06"></span>
 
-![THE LOVERS.](img/wiar06.jpg)  
+![THE LOVERS.](img/wiar06.jpg.md)  
 THE LOVERS.
 
    <span id="img_msar06"></span>
 
-![THE LOVERS.](img/msar06.jpg)  
+![THE LOVERS.](img/msar06.jpg.md)  
 THE LOVERS.
 
 6\. ו
@@ -187,11 +187,11 @@ The Lovers.
 
 <span id="img_13200"></span> [![1ST SEPTENARY. CONSTITUTION OF
 GOD.](tn/13200.jpg)  
-Click to enlarge](img/13200.jpg)  
+Click to enlarge](img/13200.jpg.md)  
 1ST SEPTENARY. CONSTITUTION OF GOD.  
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Key to the Second Septenary](tob20)
+[Next: Key to the Second Septenary](tob20.md)

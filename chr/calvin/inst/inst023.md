@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst022)  [Next](inst024) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst022)  [Next](inst024.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ meaning. How the Spirit and the written Word are indissolubly connected.
 <span id="iv.i.x-p6"></span>1. Those who, rejecting Scripture, imagine
 that they have some peculiar way of penetrating to God, are to be deemed
 not so much under the influence of error as madness. For certain giddy
-men7  <span id="fr_70"></span>[71](#fn_70) have lately appeared, who,
+men7  <span id="fr_70"></span>[71](#fn_70.md) have lately appeared, who,
 while they make a great display of the superiority of the Spirit, reject
 all reading of the Scriptures themselves, and deride the simplicity of
 those who only delight in what they call the dead and deadly letter. But
@@ -55,7 +55,7 @@ mouth, shall not depart out of thy mouth, nor out of the mouth of thy
 seed, nor out of the mouth of thy seed’s seed, saith the Lord, from
 henceforth and for ever,” he does not tie down the ancient Church to
 external doctrine, as he were a mere teacher of elements;7  <span
-id="fr_71"></span>[72](#fn_71) he rather shows that, under the reign of
+id="fr_71"></span>[72](#fn_71.md) he rather shows that, under the reign of
 Christ, the true and full felicity of the new Church will consist in
 their being ruled not less by the Word than by the Spirit of God. Hence
 we infer that these miscreants are guilty of fearful sacrilege in
@@ -64,12 +64,12 @@ this, that Paul, though carried up even to the third heaven, ceased not
 to profit by the doctrine of the law and the prophets, while, in like
 manner, he exhorts Timothy, a teacher of singular excellence, to give
 attention to reading (<span id="iv.i.x-p8.1"></span>[1 Tim.
-4:13](../../../bib/kjv/ti1004.htm#013)<span id="iv.i.x-p8.1"></span>).
+4:13](../../../bib/kjv/ti1004.htm#013)<span id="iv.i.x-p8.1"></span>.md).
 And the eulogium which he pronounces on Scripture well deserves to be
 remembered—viz. that “it is profitable for doctrine, for reproof, for
 correction, and for instruction in righteousness, that the man of God
 may be perfect,” (<span id="iv.i.x-p8.2"></span>[2 Tim.
-3:16](../../../bib/kjv/ti2003.htm#016)<span id="iv.i.x-p8.2"></span>).
+3:16](../../../bib/kjv/ti2003.htm#016)<span id="iv.i.x-p8.2"></span>.md).
 What an infatuation of the devil, therefore, to fancy that Scripture,
 which conducts the sons of God to the final goal, is of transient and
 temporary use? Again, I should like those people to tell me whether they
@@ -78,7 +78,7 @@ disciples. Though their madness is extreme, it will scarcely carry them
 the length of making this their boast. But what kind of Spirit did our
 Saviour promise to send? One who should not speak of himself (<span
 id="iv.i.x-p8.3"></span>[John
-16:13](../../../bib/kjv/joh016.htm#013)<span id="iv.i.x-p8.3"></span>),
+16:13](../../../bib/kjv/joh016.htm#013)<span id="iv.i.x-p8.3"></span>.md),
 but suggest and instil the truths which he himself had delivered through
 the word. Hence the office of the Spirit promised to us, is not to form
 new and unheard-of revelations, or to coin a new form of doctrine, by
@@ -90,7 +90,7 @@ must give diligent heed both to the reading and hearing of Scripture, if
 we would obtain any benefit from the Spirit of God (just as Peter
 praises those who attentively study the doctrine of the prophets (<span
 id="iv.i.x-p9.1"></span>[2 Pet.
-1:19](../../../bib/kjv/pe2001.htm#019)<span id="iv.i.x-p9.1"></span>),
+1:19](../../../bib/kjv/pe2001.htm#019)<span id="iv.i.x-p9.1"></span>.md),
 though it might have been thought to be superseded after the gospel
 light arose), and, on the contrary, that any spirit which passes by the
 wisdom of God’s Word, and suggests any other doctrine, is deservedly
@@ -121,7 +121,7 @@ honourable for him to degenerate, and revolt against himself.
 dead letter carries with it the punishment which they deserve for
 despising Scripture. It is clear that Paul is there arguing against
 false apostles (<span id="iv.i.x-p10.1"></span>[2 Cor.
-3:6](../../../bib/kjv/co2003.htm#006)<span id="iv.i.x-p10.1"></span>),
+3:6](../../../bib/kjv/co2003.htm#006)<span id="iv.i.x-p10.1"></span>.md),
 who, by recommending the law without Christ, deprived the people of the
 benefit of the New Covenant, by which the Lord engages that he will
 write his law on the hearts of believers, and engrave it on their inward
@@ -132,7 +132,7 @@ impressed on the heart by the Spirit; if it exhibits Christ, it is the
 word of life converting the soul, and making wise the simple. Nay, in
 the very same passage, the apostle calls his own preaching the
 ministration of the Spirit (<span id="iv.i.x-p10.2"></span>[2 Cor.
-3:8](../../../bib/kjv/co2003.htm#008)<span id="iv.i.x-p10.2"></span>),
+3:8](../../../bib/kjv/co2003.htm#008)<span id="iv.i.x-p10.2"></span>.md),
 intimating that the Holy Spirit so cleaves to his own truth, as he has
 expressed it in Scripture, that he then only exerts and puts forth his
 strength when the word is received with due honour and respect.
@@ -151,15 +151,15 @@ employed the same Spirit, by whose agency he had administered the word,
 to complete his work by the efficacious confirmation of the word. In
 this way Christ explained to the two disciples (<span
 id="iv.i.x-p11.1"></span>[Luke
-24:27](../../../bib/kjv/luk024.htm#027)<span id="iv.i.x-p11.1"></span>),
+24:27](../../../bib/kjv/luk024.htm#027)<span id="iv.i.x-p11.1"></span>.md),
 not that they were to reject the Scriptures and trust to their own
 wisdom, but that they were to understand the Scriptures. In like manner,
 when Paul says to the Thessalonians, “Quench not the Spirit,” he does
 not carry them aloft to empty speculation apart from the word; he
 immediately adds, “Despise not prophesying,” (<span
 id="iv.i.x-p11.2"></span>[1 Thess.
-5:19](../../../bib/kjv/th1005.htm#019),
-[20](../../../bib/kjv/th1005.htm#020)<span id="iv.i.x-p11.2"></span>).
+5:19](../../../bib/kjv/th1005.htm#019.md),
+[20](../../../bib/kjv/th1005.htm#020)<span id="iv.i.x-p11.2"></span>.md).
 By this, doubtless, he intimates that the light of the Spirit is
 quenched the moment prophesying fall into contempt. How is this answered
 by those swelling enthusiasts, in whose idea the only true illumination
@@ -177,14 +177,14 @@ oracles they are daily invited to the hearing of the word.
 
 ### Footnotes
 
-<span id="fn_70"></span>[71](inst023.htm#fr_70) <span
+<span id="fn_70"></span>[71](inst023.htm#fr_70.md) <span
 id="iv.i.x-p6.1"></span>
 
 <span id="iv.i.x-p7"></span>7 77 Lactantius: Cœlestes literas
 corruperunt, ut novam sibi doctrinam sine ulla radice ac stabilitate
 componerent. Vide Calvin in Instruct. adv. Libertinos, cap. 9 and 10.
 
-<span id="fn_71"></span>[72](inst023.htm#fr_71) <span
+<span id="fn_71"></span>[72](inst023.htm#fr_71.md) <span
 id="iv.i.x-p7.1"></span>
 
 <span id="iv.i.x-p8"></span>8 78 For the Latin, “ac si elementarius
@@ -194,4 +194,4 @@ C;”—as if they were little children at their A, B, C.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 10. - IN SCRIPTURE, THE TRUE GOD OPPOSED, EXCLUSIVELY, TO
-ALL THE GODS OF THE HEATHEN.](inst024)
+ALL THE GODS OF THE HEATHEN.](inst024.md)

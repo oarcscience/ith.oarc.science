@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](morg02)  [Next](morg04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](morg02)  [Next](morg04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Illustrations of Masonry*, by William Morgan, \[1827\], at Intangible
 Textual Heritage
 
@@ -167,7 +167,7 @@ Ans. 'As the sun rises in the east to open and adorn the
 <span id="page_14">p. 14</span>
 
 <span id="img_01400"></span> <span align="CENTER"> [![](tn/01400.jpg)  
-Click to enlarge](img/01400.jpg)</span>
+Click to enlarge](img/01400.jpg.md)</span>
 
 <span id="page_15">p. 15</span>
 
@@ -235,4 +235,4 @@ naturally brings to view the business of the present.
 
 ------------------------------------------------------------------------
 
-[Next: First Degree Initiation](morg04)
+[Next: First Degree Initiation](morg04.md)

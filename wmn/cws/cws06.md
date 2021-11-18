@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws05)  [Next](cws07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws05)  [Next](cws07.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 #### PART I
 
-##### CONCERNING INSPIRATION AND PROPHESYING <span id="fr_44"></span>[1](#fn_44)
+##### CONCERNING INSPIRATION AND PROPHESYING <span id="fr_44"></span>[1](#fn_44.md)
 
 I HEARD last night in my sleep a voice speaking to me, and saying--
 
@@ -58,7 +58,7 @@ his eyes are open, and his interior man knoweth what is spoken by him.
 
 14\. But when a man speaketh that which he knoweth not, he is obsessed:
 an impure spirit, or one that is bound, hath entered into him. <span
-id="fr_45"></span>[1](#fn_45)
+id="fr_45"></span>[1](#fn_45.md)
 
 15\. There are many such, but their words are as the words of men who
 know not: these are not prophets nor inspired.
@@ -66,7 +66,7 @@ know not: these are not prophets nor inspired.
 16\. God obsesseth no man; God is revealed: and he to whom God is
 revealed speaketh that which he knoweth.
 
-17\. Christ Jesus <span id="fr_46"></span>[2](#fn_46) understandeth God:
+17\. Christ Jesus <span id="fr_46"></span>[2](#fn_46.md) understandeth God:
 he knoweth that of which he beareth witness.
 
 18\. But they who, being mediums, utter in trance things of which they
@@ -84,7 +84,7 @@ knowledge of the prophet instructeth him.
 21\. Even though he speak in an ecstasy, he uttereth nothing that he
 knoweth not.
 
-22\. Thou who art a prophet <span id="fr_47"></span>[3](#fn_47) hast had
+22\. Thou who art a prophet <span id="fr_47"></span>[3](#fn_47.md) hast had
 many lives: yea, thou hast taught many nations, and hast stood before
 kings.
 
@@ -111,7 +111,7 @@ truth to thee from within.
 #### PART 2
 
 A Prophecy of the Kingdom of the Soul, mystically called the Day of the
-Woman <span id="fr_48"></span>[1](#fn_48)
+Woman <span id="fr_48"></span>[1](#fn_48.md)
 
 1\. And now I show you a mystery and a new thing, which is part of the
 mystery of the fourth day of creation.
@@ -187,15 +187,15 @@ worlds.
 
 ### Footnotes
 
-<span id="fn_44"></span>[4:1](cws06.htm#fr_44) Paris, February 7, 1880.
+<span id="fn_44"></span>[4:1](cws06.htm#fr_44.md) Paris, February 7, 1880.
 This Part and Part 2 are referred to in the *Life of Anna Kingsford*,
 vol. i, pp. 330-336.
 
-<span id="fn_45"></span>[5:1](cws06.htm#fr_45) "By 'bound' in this
+<span id="fn_45"></span>[5:1](cws06.htm#fr_45.md) "By 'bound' in this
 connection is meant the soul in prison of the astral, and unable to
 transcend that level" (Letter of E. M. in *Light*, 1894, p. 478)
 
-<span id="fn_46"></span>[5:2](cws06.htm#fr_46) Here implying the Christ
+<span id="fn_46"></span>[5:2](cws06.htm#fr_46.md) Here implying the Christ
 Jesus within, or the regenerated human nature, in whomsoever
 occurring.    E. M.
 
@@ -207,11 +207,11 @@ insisted on the Christ formed within' as the agent of salvation," and
 "the one way of salvation--in opposition to the sacerdotal doctrine of
 "salvation by Substitution."    S. H. H.
 
-<span id="fn_47"></span>[5:3](cws06.htm#fr_47) Thus Utterance may be
+<span id="fn_47"></span>[5:3](cws06.htm#fr_47.md) Thus Utterance may be
 regarded as "an apostrophe to the prophet in general" (*Life of Anna
 Kingsford*, Vol. i, p. 333).
 
-<span id="fn_48"></span>[6:1](cws06.htm#fr_48) Paris, February 7, 1880.
+<span id="fn_48"></span>[6:1](cws06.htm#fr_48.md) Paris, February 7, 1880.
 See note to Part 1. This Illumination refers not to persons, but to
 principles--*e.g.* the "man" and "woman" of the mind are the intellect
 and intuition, respectively; and, while "Adam" is the old Adam of sense,
@@ -220,4 +220,4 @@ and intuition, respectively; and, while "Adam" is the old Adam of sense,
 ------------------------------------------------------------------------
 
 [Next: No. III: Concerning The Prophecy Of The Immaculate
-Conception](cws07)
+Conception](cws07.md)

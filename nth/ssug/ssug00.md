@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Next](ssug01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Next](ssug01.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Self-Suggestion and the New Huna Theory of Mesmerism and Hypnosis*, by
 Max Freedom Long, \[1958\], at Intangible Textual Heritage
 
@@ -36,4 +36,4 @@ because its copyright was not renewed in a timely fashion.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](ssug01)
+[Next: Introduction](ssug01.md)

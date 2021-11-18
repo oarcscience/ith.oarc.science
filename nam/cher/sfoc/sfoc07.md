@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc06)  [Next](sfoc08) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc06)  [Next](sfoc08.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ to part with them.
 
 ------------------------------------------------------------------------
 
-[Next: Other Manuscripts](sfoc08)
+[Next: Other Manuscripts](sfoc08.md)

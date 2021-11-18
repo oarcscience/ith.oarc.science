@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp76) 
-[Next](alp78) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp76.md) 
+[Next](alp78.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ Though lightning-winged the winds cry o’er the moor,
 
 ------------------------------------------------------------------------
 
-[Next: Pasqua Armena](alp78)
+[Next: Pasqua Armena](alp78.md)

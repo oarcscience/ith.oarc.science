@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](woe06)  [Next](woe08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](woe06)  [Next](woe08.md) 
 
 ------------------------------------------------------------------------
 
@@ -1324,4 +1324,4 @@ upon the deep with nothing steady under him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Egyptian Magic](woe08)
+[Next: Chapter VI: Egyptian Magic](woe08.md)

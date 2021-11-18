@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe149)  [Next](prwe151) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe149)  [Next](prwe151.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ added.
 
 ------------------------------------------------------------------------
 
-[Next: St Cuthbert's or Cubert's Well](prwe151)
+[Next: St Cuthbert's or Cubert's Well](prwe151.md)

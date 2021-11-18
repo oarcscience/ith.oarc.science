@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](inc00)  [Next](inc02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](inc00)  [Next](inc02.md) 
 
 ------------------------------------------------------------------------
 
@@ -732,4 +732,4 @@ a pullet one day old knows the order of its life better than an infant.
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](inc02)
+[Next: 51-100](inc02.md)

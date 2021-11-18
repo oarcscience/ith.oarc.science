@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey02)  [Next](grey04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey02)  [Next](grey04.md) 
 
 ------------------------------------------------------------------------
 
@@ -357,4 +357,4 @@ them dew-drops.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Maui](grey04)
+[Next: The Legend of Maui](grey04.md)

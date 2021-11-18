@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas124n)  [Next](jas126n)   
- \[[125. The Three Sillies.](jas125)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas124n)  [Next](jas126n.md)   
+ \[[125. The Three Sillies.](jas125.md)\]
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ Islands, 94.
 
 ------------------------------------------------------------------------
 
-[Next: Note 126. A Misunderstanding.](jas126n)
+[Next: Note 126. A Misunderstanding.](jas126n.md)

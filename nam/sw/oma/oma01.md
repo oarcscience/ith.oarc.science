@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma00)  [Next](oma02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma00)  [Next](oma02.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ Secretary of the Smithsonian Institution.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](oma02)
+[Next: Contents](oma02.md)

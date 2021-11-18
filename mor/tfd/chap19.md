@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap18) [Next](chap20)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap18) [Next](chap20.md)
 
 ------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ Union.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX: A Latter Day View of a Latter Day State](chap20)
+[Next: Chapter XX: A Latter Day View of a Latter Day State](chap20.md)

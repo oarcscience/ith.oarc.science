@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Theosophy](../../the/index)  [Index](index)  [Previous](theo02) 
-[Next](theo04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Theosophy](../../the/index)  [Index](index)  [Previous](theo02.md) 
+[Next](theo04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Theosophy*, by Rudolf Steiner, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -95,4 +95,4 @@ dealt with will be found.
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the Third Edition](theo04)
+[Next: Preface to the Third Edition](theo04.md)

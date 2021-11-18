@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml59)  [Next](yml61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml59)  [Next](yml61.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ because the sticks have fire in them. LC
 
 ------------------------------------------------------------------------
 
-[Next: The Spirit Fox](yml61)
+[Next: The Spirit Fox](yml61.md)

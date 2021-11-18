@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw301)  [Next](ataw303) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw301)  [Next](ataw303.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -52,7 +52,7 @@ Hector. Alexander the Great
  
 
 <span id="img_13700"></span> <span align="CENTER"> [![](tn/13700.jpg)  
-Click to enlarge](img/13700.jpg)</span>  
+Click to enlarge](img/13700.jpg.md)</span>  
 MOSAICS AT MITLA, MEXICO.
 
  
@@ -194,7 +194,7 @@ and that of the Chinese and other Eastern nations. ("Anthropology," p.
 Weapons.--The weapons of the New World were identically the same as
 those of the Old World; they consisted of bows and arrows, spears,
 darts, <span id="img_14300"></span> ![ANCIENT VASE FROM THE MOUNDS OF
-THE UNITES STATES](img/14300.jpg)  
+THE UNITES STATES](img/14300.jpg.md)  
 ANCIENT VASE FROM THE MOUNDS OF THE UNITES STATES short swords,
 battle-axes, and slings; and both peoples used shields or bucklers, and
 casques of wood or hide covered with metal. If these weapons had been
@@ -985,4 +985,4 @@ down to all the minor details treated of in this chapter.
 ------------------------------------------------------------------------
 
 [Next: Chapter III: American Evidences of Intercourse with Europe or
-Atlantis.](ataw303)
+Atlantis.](ataw303.md)

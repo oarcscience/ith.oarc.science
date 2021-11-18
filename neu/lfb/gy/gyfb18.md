@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb17)  [Next](gyfb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb17)  [Next](gyfb19.md) 
 
 </div>
 
@@ -268,6 +268,6 @@ again.'
 
 ------------------------------------------------------------------------
 
-[Next: Mohammed with the Magic Finger](gyfb19)
+[Next: Mohammed with the Magic Finger](gyfb19.md)
 
 </div>

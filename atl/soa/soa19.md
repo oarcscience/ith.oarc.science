@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa18)  [Next](soa20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa18)  [Next](soa20.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ neighbours, especially with the then growing power of the Akkadians.
 
 ------------------------------------------------------------------------
 
-[Next: The Akkadian Race](soa20)
+[Next: The Akkadian Race](soa20.md)

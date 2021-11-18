@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob06)  [Next](lbob08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob06)  [Next](lbob08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -60,7 +60,7 @@ Joseph sawed too short.\]
 informed his mother, that he was the Son. of God.* 5 *Joseph and Mary
 going to Bethlehem to be taxed, Mary's time of bringing forth arrives,
 and she goes into a cave.* 8 *Joseph fetches in a Hebrew woman, the cave
-[filled](errata.htm#1) with great lights.* 11 *The infant born,* 17
+[filled](errata.htm#1.md) with great lights.* 11 *The infant born,* 17
 *cures the woman,* 19 *arrival of the shepherds*.</span>
 
 THE following accounts we found in the book of Joseph the high-priest,
@@ -198,7 +198,7 @@ put it in the fire, where it remains unconsumed*.</span>
 AND it came to pass, when the Lord Jesus was born at Bethlehem, a city
 of Judæa, in the time of Herod the King; the wise men came from the East
 to Jerusalem, according to the prophecy of Zoradascht, <span
-id="fr_34"></span>[1](#fn_34) and brought with them offerings: namely,
+id="fr_34"></span>[1](#fn_34.md) and brought with them offerings: namely,
 gold, frankincense, and myrrh, and worshipped him, and offered to him
 their gifts.
 
@@ -244,7 +244,7 @@ angel warns Joseph to take the child and its mother into Egypt.* 6
 <span id="img_04100"></span> <span align="CENTER"> [![THE ADORATION OF
 THE MAGI. FROM A BAS-RELIEF OF THE TWELFTH CENTURY OVER THE DOOR OF THE
 CHURCH OF ST. ANDREW, PISTOJA.](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)  
+Click to enlarge](img/04100.jpg.md)  
 THE ADORATION OF THE MAGI. FROM A BAS-RELIEF OF THE TWELFTH CENTURY OVER
 THE DOOR OF THE CHURCH OF ST. ANDREW, PISTOJA.  
 </span>
@@ -824,7 +824,7 @@ cast him into the oven, which was very hot, and then went away.
 <span id="img_04900"></span> <span align="CENTER"> [![THE BIRTH OF JOHN
 THE BAPTIST. FROM A ''BOOK OF THE EVANGELISTS.'' GREEK MANUSCRIPT OF THE
 TWELFTH CENTURY.](tn/04900.jpg)  
-Click to enlarge](img/04900.jpg)  
+Click to enlarge](img/04900.jpg.md)  
 THE BIRTH OF JOHN THE BAPTIST. FROM A ''BOOK OF THE EVANGELISTS.'' GREEK
 MANUSCRIPT OF THE TWELFTH CENTURY.  
 </span>
@@ -1430,7 +1430,7 @@ had made, they fled away chirping.
 <span id="img_05700"></span> <span align="CENTER"> [![THE PRESENTATION
 IN THE TEMPLE. FROM A GREEK PAINTING IN DISTEMPER ON
 WOOD.](tn/05700.jpg)  
-Click to enlarge](img/05700.jpg)  
+Click to enlarge](img/05700.jpg.md)  
 THE PRESENTATION IN THE TEMPLE. FROM A GREEK PAINTING IN DISTEMPER ON
 WOOD.  
 </span>
@@ -1642,12 +1642,12 @@ Supreme God, according to what we found in the original*.
 
 ### Footnotes
 
-<span id="fn_34"></span>[40:1](lbob07.htm#fr_34) Zoroaster.
+<span id="fn_34"></span>[40:1](lbob07.htm#fr_34.md) Zoroaster.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Thomas's Gospel of the Infancy of Jesus Christ](lbob08)
+[Next: Thomas's Gospel of the Infancy of Jesus Christ](lbob08.md)
 
 </div>

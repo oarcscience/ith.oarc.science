@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](ch2)  [Next](neh) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](ch2)  [Next](neh.md) 
 
 ------------------------------------------------------------------------
 
@@ -1112,4 +1112,4 @@ some of them had wives by whom they had offspring.
 
 ------------------------------------------------------------------------
 
-[Next: Nehemiah](neh)
+[Next: Nehemiah](neh.md)

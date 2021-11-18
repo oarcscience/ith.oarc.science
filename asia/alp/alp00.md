@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Next](alp01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Next](alp01.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,14 +17,14 @@ LEGENDS AND POEMS
 <span id="page_ii">p. ii</span>
 
 <span id="img__00200"></span> ![Leo VI, LAST KING OF
-ARMENIA](img/_00200.jpg)
+ARMENIA](img/_00200.jpg.md)
 
 <span id="page_iii">p. iii</span>
 
 <span id="img_front"></span>
 
 [![ARMENIA](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 ARMENIA  
 
 <span id="page_iv">p. iv</span>
@@ -40,7 +40,7 @@ ARMENIA
 ## ZABELLE C. BOYAJIAN
 
 <span id="img__00400"></span> ![TIGRANES THE GREAT, KING OF
-ARMENIA](img/_00400.jpg)
+ARMENIA](img/_00400.jpg.md)
 
 ##### WITH AN INTRODUCTION BY THE RIGHT HON. VISCOUNT BRYCE, O.M.
 
@@ -75,4 +75,4 @@ THE UNDYING SPIRIT OF ARMENIA
 
 ------------------------------------------------------------------------
 
-[Next: Preface](alp01)
+[Next: Preface](alp01.md)

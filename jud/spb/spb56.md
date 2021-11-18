@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb55)  [Next](spb57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb55)  [Next](spb57.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -31,8 +31,8 @@ Therefore the wicked shall not stand in the judgment, nor sinners in the
 congregation of the righteous. For the Lord knoweth the way of the
 righteous, but the way of the wicked shall perish.
 
-*Psalm xv., [p. 445](spb47.htm#page_445); xvi. [p.
-460](spb54.htm#page_460); xc. [p. 26](spb05.htm#page_26)*.
+*Psalm xv., [p. 445](spb47.htm#page_445.md); xvi. [p.
+460](spb54.htm#page_460); xc. [p. 26](spb05.htm#page_26.md)*.
 
 As for man, his days are as grass; as the flower of the field, so he
 flourisheth. For the wind passeth over it, and it is gone; and the place
@@ -50,14 +50,14 @@ and thou givest them to drink of the river of thy pleasures. He shall
 enter into peace; they shall rest on their beds—each one that walketh in
 his uprightness.
 
-*Psalm xci [p. 27](spb05.htm#page_27); "O Lord and King, who art full of
-compassion," etc., [p. 464](spb55.htm#page_464); Mourner's Kaddish, [p.
-94](spb05.htm#page_94)*.
+*Psalm xci [p. 27](spb05.htm#page_27.md); "O Lord and King, who art full of
+compassion," etc., [p. 464](spb55.htm#page_464.md); Mourner's Kaddish, [p.
+94](spb05.htm#page_94.md)*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Memorial Service for the Dead](spb57)
+[Next: Memorial Service for the Dead](spb57.md)
 
 </div>

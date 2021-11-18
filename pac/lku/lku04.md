@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku03)  [Next](lku05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku03)  [Next](lku05.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ And bring forth in their birth many branches.
 
 ------------------------------------------------------------------------
 
-[Next: The Fourth Era](lku05)
+[Next: The Fourth Era](lku05.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft55)  [Next](pft57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft55)  [Next](pft57.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -209,8 +209,8 @@ They were married amid great festivities and became king and queen of
 that broad and fertile land. During all the great rejoicing, however,
 Benito never forgot his parents. One of the finest portions of his
 kingdom he gave to them, and from that time they all lived in great
-happiness.  <span id="fr_155"></span>[156](pft68.htm#fn_155)
+happiness.  <span id="fr_155"></span>[156](pft68.htm#fn_155.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Adventures of Juan](pft57)
+[Next: The Adventures of Juan](pft57.md)

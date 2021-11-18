@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc005) 
-[Next](motc007) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc005.md) 
+[Next](motc007.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ planted the seed and have had tobacco ever since.
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Journey To The Sunrise](motc007)
+[Next: 7. The Journey To The Sunrise](motc007.md)

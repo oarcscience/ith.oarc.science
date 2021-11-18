@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf27)  [Next](taf29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf27)  [Next](taf29.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,13 +59,13 @@ How should they practise morality (*çîla*)?
 Those Bodhisattvas who have families \[i.e., lay members of Buddhism\]
 should abstain from killing, stealing, adultery, lying, duplicity,
 slander, frivolous talk, covetousness, malice, currying favor, and false
-doctrines. <span id="fr_184"></span>[1](#fn_184)
+doctrines. <span id="fr_184"></span>[1](#fn_184.md)
 
 In the case of Çramanas, they should, in order to vanquish all
 prejudices (*kleça* or *âçrava*), retire from the boisterousness of
 worldly life, and, abiding in solitude (*aranya*), should practise those
 deeds which lead to moderation and contentment as well as those of the
-Dhûtaguna. <span id="fr_185"></span>[2](#fn_185) Even at the violation
+Dhûtaguna. <span id="fr_185"></span>[2](#fn_185.md) Even at the violation
 of minor
 
 <span id="page_130">p. 130</span>
@@ -74,7 +74,7 @@ rules (*çila*) they should deeply feel fear, shame, and remorse.
 Strictly observing all those precepts given by the Tathâgata, they
 should not call forth the blame or disgust of the outsider, but they
 should endeavor to induce all beings to abandon the evil and to practise
-the good. <span id="fr_186"></span>[1](#fn_186)
+the good. <span id="fr_186"></span>[1](#fn_186.md)
 
 How should they practise patience (*kshânti*)?
 
@@ -84,7 +84,7 @@ If they meet with the ills of life they should not
 
 shun them. If they suffer sufferings, they should not feel afflicted.
 But they should always rejoice in contemplating the deepest significance
-of the Dharma. <span id="fr_187"></span>[1](#fn_187)
+of the Dharma. <span id="fr_187"></span>[1](#fn_187.md)
 
 How should they practise energy (*vîrya*)?
 
@@ -121,26 +121,26 @@ is called cessation. To understand adequately the law of causality and
 transformation is called intellectual insight. Each of them should be
 practised separately by the beginner. But when by degrees he obtains
 facility and finally attains to perfection, the two will naturally
-become harmonised. <span id="fr_188"></span>[1](#fn_188)
+become harmonised. <span id="fr_188"></span>[1](#fn_188.md)
 
 Those who practise cessation should dwell in solitude (*âranyaka*) and,
-sitting cross-legged <span id="fr_189"></span>[2](#fn_189) rectify the
+sitting cross-legged <span id="fr_189"></span>[2](#fn_189.md) rectify the
 
 <span id="page_133">p. 133</span>
 
-attitude and pacify the mind. <span id="fr_190"></span>[1](#fn_190) Do
+attitude and pacify the mind. <span id="fr_190"></span>[1](#fn_190.md) Do
 not fix the thoughts on the breath (*ânâpânasmrti*) <span
-id="fr_191"></span>[2](#fn_191); do not fix the thoughts on the forms
-([*samjñâ*](errata.htm#22)) <span id="fr_192"></span>[3](#fn_192) and
+id="fr_191"></span>[2](#fn_191.md); do not fix the thoughts on the forms
+([*samjñâ*](errata.htm#22)) <span id="fr_192"></span>[3](#fn_192.md) and
 colors; do not fix the
 
 <span id="page_134">p. 134</span>
 
-thoughts on space (*âkâça*); <span id="fr_193"></span>[1](#fn_193) do
+thoughts on space (*âkâça*); <span id="fr_193"></span>[1](#fn_193.md) do
 not fix the thoughts on earth, water, fire, and ether; <span
-id="fr_194"></span>[1](#fn_193) do not fix the thoughts on what you see,
+id="fr_194"></span>[1](#fn_193.md) do not fix the thoughts on what you see,
 hear, learn, or memorise (*vijñânakrtsnâyatana*) <span
-id="fr_195"></span>[1](#fn_193). All particularisations, imaginations
+id="fr_195"></span>[1](#fn_193.md). All particularisations, imaginations
 and recollections should be excluded from consciousness, even the idea
 of exclusion being excluded; because \[the suchness of\] all things is
 uncreate, eternal, and devoid of all attributes (*alakshana*).
@@ -163,7 +163,7 @@ At all times, while moving, standing, sitting, or
 
 lying, the practiser should constantly discipline himself as above
 stated. Gradually entering the samâdhi of suchness, <span
-id="fr_196"></span>[1](#fn_194) he will finally vanquish all prejudices
+id="fr_196"></span>[1](#fn_194.md) he will finally vanquish all prejudices
 (*kleça* or *âçrava*), be strengthened in faith (*çraddhâ*),--and
 immediately attain to the state of never-returning (*avaivartikatva*).
 But those who are sceptical, sacrilegious, destitute of faith,
@@ -171,7 +171,7 @@ encumbered with the hindrances (*âvarana*) of karma, arrogant, or
 indolent, are not entitled to enter therein.
 
 And again when the practiser by virtue of his samâdhi <span
-id="fr_197"></span>[2](#fn_195) attains an immediate insight into the
+id="fr_197"></span>[2](#fn_195.md) attains an immediate insight into the
 nature of the universe (*dharmadhâtu*), he will recognise that the
 Dharmakâya of all Tathâgatas and the body of all beings are one and the
 same (*samatâ*), are consubstantial (ekalakshana). On that account it is
@@ -186,11 +186,11 @@ Some people scantily supplied with the root of merit (*kuçalamûla*) may
 yield to the temptation of Mâras, tîrthakas, or evil spirits. \[For
 instance\] those evil ones sometimes assuming horrible forms may
 frighten the practiser; sometimes manifesting themselves in beautiful
-figures, they may fascinate him; <span id="fr_198"></span>[1](#fn_196)
+figures, they may fascinate him; <span id="fr_198"></span>[1](#fn_196.md)
 sometimes appearing in form of a deva, or of a Boddhisattva, or even of
 a Buddha with all his excellent and magnified features, <span
-id="fr_199"></span>[2](#fn_197) they may speak about *dhârani* <span
-id="fr_200"></span>[3](#fn_198) or the pâramitâ, or may give
+id="fr_199"></span>[2](#fn_197.md) they may speak about *dhârani* <span
+id="fr_200"></span>[3](#fn_198.md) or the pâramitâ, or may give
 instructions about various means of emancipation (*mukti*), declaring
 that there is no hatred, no friendship, no causation, no
 
@@ -200,7 +200,7 @@ retribution, or declaring that all things in the world are absolute
 nothingness (*atyantaçûnyatâ*), that they are in their essence Nirvâna
 itself. Or they may reveal to the practiser his own past and future
 states of existence, they may teach him to read the thoughts of
-others, <span id="fr_201"></span>[1](#fn_199) may grant him incomparable
+others, <span id="fr_201"></span>[1](#fn_199.md) may grant him incomparable
 power of eloquence, may induce him to crave covetously for worldly fame
 and advantages.
 
@@ -222,7 +222,7 @@ he may sometimes attain to the samâdhi of heretics \[i.e., tîrthaka\]
 and, remaining in a state of trance a day or two, or even seven, and
 being supplied imaginarily with some palatable food and drink, and
 feeling very comfortable mentally and physically, he may have no
-sensation of hunger or thirst; <span id="fr_202"></span>[1](#fn_200) he
+sensation of hunger or thirst; <span id="fr_202"></span>[1](#fn_200.md) he
 may sometimes be induced to enjoy female fascinations; he may sometimes
 be very irregular in taking meals, either too much or too little; he may
 sometimes look either very handsome or very ugly in appearance.
@@ -250,7 +250,7 @@ illusion through the power of the samâdhi. On the contrary, all the
 excellent and virtuous deeds which are in conformity with suchness will
 be constantly performed by him, while all hindrances without exception
 will be removed by him, who now exhibiting great spiritual energy will
-never become exhausted. <span id="fr_203"></span>[1](#fn_201)
+never become exhausted. <span id="fr_203"></span>[1](#fn_201.md)
 
 Those who do not practise this kind of samâdhi will not be able to enter
 into the essence of the Tathâgata, for all other samâdhis practised in
@@ -271,7 +271,7 @@ Bodhisattvas in all quarters.
 2\. They will not be molested by Mâras or evil spirits.
 
 3\. They will not be led astray by false doctrines. <span
-id="fr_204"></span>[1](#fn_202)
+id="fr_204"></span>[1](#fn_202.md)
 
 4\. They will be free from disparaging the deepest Doctrine
 (*gambhîradharma*). Their serious misdemeanors as well as their
@@ -308,7 +308,7 @@ In what does this discipline consist?
 The practiser should contemplate that all things in the world are
 subject to a constant transformation, that since they are transient they
 are misery, that since they are misery they are not things-in-themselves
-\[i.e., atman\]. <span id="fr_205"></span>[1](#fn_203)
+\[i.e., atman\]. <span id="fr_205"></span>[1](#fn_203.md)
 
 He should contemplate that all things in the past are like a dream,
 those in the present are like the lightning, those in the future are
@@ -332,7 +332,7 @@ are like a chimera, having \[only a transitory existence and\] no
 Contemplate that the highest truth (*paramârthasatya*) is not a
 production of mind \[or subjectivity\], cannot be \[fully\] illustrated
 by analogy, cannot be \[exhaustively\] treated by reasoning. <span
-id="fr_206"></span>[1](#fn_204)
+id="fr_206"></span>[1](#fn_204.md)
 
 Contemplate that on account of the perfuming power of ignorance
 (*avidya*) all beings from eternity suffer great mental and physical
@@ -345,7 +345,7 @@ the more pitiable.
 
 After these contemplations the practiser should awake positive knowledge
 \[or unerring understanding\], feel the highest and deepest compassion
-([*karunâ*](errata.htm#23)) for all suffering beings, rouse dauntless
+([*karunâ*](errata.htm#23).md) for all suffering beings, rouse dauntless
 energy, and make great vows (*mahâpranidhâna*) as follows:
 
 "May my mind be freed from all contradictions; may I abandon
@@ -396,7 +396,7 @@ raise deep compassion \[for mankind\].
 
 Therefore, cessation and-intellectual insight are supplementary to, not
 independent of, each other. If one of the two is wanting, the practiser
-will surely be unable to attain to the most [excellent](errata.htm#24)
+will surely be unable to attain to the most [excellent](errata.htm#24.md)
 knowledge (*bodhiparinishpatti*).
 
 And again when those novice Bodhisattvas who are living in this present
@@ -427,9 +427,9 @@ doubts, they will assuredly be able to be born in the Buddha-country
 beyond (*buddha-kshetra*), when they pass away from this present life,
 and seeing there Buddhas and Bodhisattvas, to complete their faith and
 to eternally escape from all evil creations (*apâya*). <span
-id="fr_207"></span>[1](#fn_205)
+id="fr_207"></span>[1](#fn_205.md)
 
-Therefore, it is said in the Sûtra <span id="fr_208"></span>[2](#fn_206)
+Therefore, it is said in the Sûtra <span id="fr_208"></span>[2](#fn_206.md)
 that if devoted
 
 <span id="page_146">p. 146</span>
@@ -449,11 +449,11 @@ Buddhahood\] (*samyaktva-râçi*).
 
 ### Footnotes
 
-<span id="fn_184"></span>[129:1](taf28.htm#fr_184) Açvaghosha evidently
+<span id="fn_184"></span>[129:1](taf28.htm#fr_184.md) Açvaghosha evidently
 refers to the ten virtues (*daçakuçalâni*), for which see [p.
-114](taf27.htm#page_114), though this list counts more than ten.
+114](taf27.htm#page_114.md), though this list counts more than ten.
 
-<span id="fn_185"></span>[129:2](taf28.htm#fr_185) There are twelve
+<span id="fn_185"></span>[129:2](taf28.htm#fr_185.md) There are twelve
 dhûtagunas or dhûtagangas to be observed by Bhikshus; *dhûta* means
 shaking off, that is, shaking off the dust of evil passions: (1)
 *Paindapâtika*, the rule to live on whatever food they can get by
@@ -481,19 +481,19 @@ due order, corresponding to *Sâpadâna-cârikâ* in the Pâli list, and the
 rule of prohibiting taking too much food at one time, which overtaxing
 the stomach will obscure the clearness of mind.
 
-<span id="fn_186"></span>[130:1](taf28.htm#fr_186) The reference is to
+<span id="fn_186"></span>[130:1](taf28.htm#fr_186.md) The reference is to
 the threefold precept (*trividhaçîla*) which is (1) the precept of good
 behavior (*sambhâraçîla*); (2) the precept of accumulating virtues
 (*kuçalasamgrâhaçîla*); (3) the precept of being benevolent towards all
 beings (*sattvârthakriyâçîla*).
 
-<span id="fn_187"></span>[131:1](taf28.htm#fr_187) The older translation
+<span id="fn_187"></span>[131:1](taf28.htm#fr_187.md) The older translation
 reads: "Patiently bearing evils inflicted by others, they should not
 cherish any idea of revenge. They should also bear such \[worldly
 vicissitudes\] as prosperity and decline, reprehension and commendation,
 renown and defamation, worry and ease, etc."
 
-<span id="fn_188"></span>[132:1](taf28.htm#fr_188) Observe that
+<span id="fn_188"></span>[132:1](taf28.htm#fr_188.md) Observe that
 cessation should be practised by the beginner, and for a time only, for
 the purpose of affording the mind an appreciation of suchness in its
 purity; the conception of this state of abstraction should then be
@@ -503,14 +503,14 @@ fixing the thoughts on objects, are rejected as improper. The practice
 should assist a beginner to understand that suchness, though all
 particulars are dependent on it, is in its purity a reality.
 
-<span id="fn_189"></span>[132:2](taf28.htm#fr_189) Those who practise
+<span id="fn_189"></span>[132:2](taf28.htm#fr_189.md) Those who practise
 this have to place the left leg above the right with both close to the
 body, so that the toes of the left foot shall rest on the right thigh,
 and those of the right foot on the left thigh, while the soles are
 turned upwards. This posture is considered to be the best adapted for
 meditation or for obtaining mental equilibrium.
 
-<span id="fn_190"></span>[133:1](taf28.htm#fr_190) Among the followers
+<span id="fn_190"></span>[133:1](taf28.htm#fr_190.md) Among the followers
 of the Dhyâna sect both in Japan and China, it is customary, while
 sitting cross-legged and meditating on religious subjects, to expand the
 abdomen outwards and to breathe very slowly, by which they can, in their
@@ -527,7 +527,7 @@ which may be upon it from the surrounding organs. Further the increased
 heart-action which is itself a part of shyness requires all the space it
 can get."
 
-<span id="fn_191"></span>[133:2](taf28.htm#fr_191) One of the eight
+<span id="fn_191"></span>[133:2](taf28.htm#fr_191.md) One of the eight
 subjects of recollection (*anusmrti*), or of the five methods of mental
 pacification. The eight subjects are: (1) Buddha; (2) dharma; (3)
 samgha; (4) *çîla*, morality; (5) *câga* or *tyâga*, liberality; (6)
@@ -538,7 +538,7 @@ compassion; (3) *ânâpânasmrti*, the regulation of inspiration and
 respiration; (4) *nidâna*, law of transformation; (5) *buddhasmrti*,
 recollection on Buddha.
 
-<span id="fn_192"></span>[133:3](taf28.htm#fr_192) There are nine
+<span id="fn_192"></span>[133:3](taf28.htm#fr_192.md) There are nine
 Açbhasamjnâs, notions arising from the contemplation of the impurity of
 a dead body, which is intended to convince one of the fact that our body
 is not worth while clinging to: (1) Swelling (*vyâdhmataka*); (2)
@@ -548,7 +548,7 @@ by animals (*vikhâditaka*); (7) scattering (*vikshiptaka*); (8) bone
 (*asthi*); (9) burned up (*vidagdhaka*). The Pâli Açubhas count one
 more.
 
-<span id="fn_193"></span>[134:1](taf28.htm#fr_195) These constitute the
+<span id="fn_193"></span>[134:1](taf28.htm#fr_195.md) These constitute the
 ten *Krtsâyatanas* which are: (1) Blue (*nîla*); (2) yellow (*pîta*);
 (3) red (*lohita*); (4) white (*avadâta*); (5) earth (*prtivî*); (6)
 water (*ap*); (7) fire (*tejas*); (8) air (*vâyu*); (9) space (*âkâsa*);
@@ -556,10 +556,10 @@ water (*ap*); (7) fire (*tejas*); (8) air (*vâyu*); (9) space (*âkâsa*);
 universal object or element on which the attention of a
 samâdhi-practiser is to be fixed.
 
-<span id="fn_194"></span>[135:1](taf28.htm#fr_196) That is, perfect
+<span id="fn_194"></span>[135:1](taf28.htm#fr_196.md) That is, perfect
 identification of oneself with suchness.
 
-<span id="fn_195"></span>[135:2](taf28.htm#fr_197) *Samâdhi* is commonly
+<span id="fn_195"></span>[135:2](taf28.htm#fr_197.md) *Samâdhi* is commonly
 rendered by ecstasy, trance, concentration, or meditation, all of which
 are misleading. The term means mental equilibrium, and the reasons why
 Buddhism recommends the practising of it are, that it helps us in
@@ -573,17 +573,17 @@ and S. Beal agrees with him in his translation of Açvaghosha's
 *Buddhacarita*; but I doubt its correctness for the above-stated
 reasons.
 
-<span id="fn_196"></span>[136:1](taf28.htm#fr_198) The older translation
+<span id="fn_196"></span>[136:1](taf28.htm#fr_198.md) The older translation
 has the following passage inserted here. "If he \[the practiser\]
 remembers that these are merely subjective, the phenomena will disappear
 by themselves and will no more trouble him."
 
-<span id="fn_197"></span>[136:2](taf28.htm#fr_199) Buddha is supposed to
+<span id="fn_197"></span>[136:2](taf28.htm#fr_199.md) Buddha is supposed to
 have thirty-two general and eighty minor marks of bodily perfection. For
 particulars see the *Dharmasamgraha*, pp. 18, 19, 51 et seq., edited by
 Kasawara Kenjiu.
 
-<span id="fn_198"></span>[136:3](taf28.htm#fr_200) *Dhârani*, which
+<span id="fn_198"></span>[136:3](taf28.htm#fr_200.md) *Dhârani*, which
 comes from the root *dhr*, meaning to bold, to maintain, to retain, to
 support, etc., is the name given to any concise statement describing
 Buddha's virtue, or stating some essential points of Buddhist teachings,
@@ -596,7 +596,7 @@ to destroy enemies, to keep away calamities, etc., etc. Here *dhârani*
 means simply any epigrammatic proposition which will serve as a key to
 the deep significance of the Doctrine.
 
-<span id="fn_199"></span>[137:1](taf28.htm#fr_201) Some of these
+<span id="fn_199"></span>[137:1](taf28.htm#fr_201.md) Some of these
 miraculous powers here mentioned are considered to be possessed by the
 Arhat. Six supernatural faculties (*abhijnâ*) are commonly enumerated:
 (1) divine eyes (*divyacakshu*) by which the Arhat perceives all that is
@@ -606,11 +606,11 @@ he hears all sounds in the world; (3) reading the thoughts of others
 (*pûrvanivâsânu-smrti*); (5) miraculous powers (*rddhi*); (6) knowledge
 how to destroy evil passions (*âçravakshaya*).
 
-<span id="fn_200"></span>[138:1](taf28.htm#fr_202) This apparently
+<span id="fn_200"></span>[138:1](taf28.htm#fr_202.md) This apparently
 alludes to the Yoga-praxis, by which man is said to be able to perform
 several sorts of miracles beside those mentioned here.
 
-<span id="fn_201"></span>[139:1](taf28.htm#fr_203) The two preceding
+<span id="fn_201"></span>[139:1](taf28.htm#fr_203.md) The two preceding
 paragraphs read in the older translation as follows: "On this account,
 the practiser, always exercising intellectual insight, should save his
 mind from being entangled in the netting of falsity; he should, dwelling
@@ -624,18 +624,18 @@ suchness \[on the other hand\] has nothing to do with subjectivity and
 attachment. If one is free from indolence even when rising from
 meditation one's prejudices will by degrees get attenuated."
 
-<span id="fn_202"></span>[140:1](taf28.htm#fr_204) The older translation
+<span id="fn_202"></span>[140:1](taf28.htm#fr_204.md) The older translation
 reads: "the ninety-five heretical doctrines."
 
-<span id="fn_203"></span>[141:1](taf28.htm#fr_205) The idea is: that
+<span id="fn_203"></span>[141:1](taf28.htm#fr_205.md) The idea is: that
 which is transient is dependent, conditional and not self-regulating;
 and that which is without freedom is necessarily miserable, that is to
 say, it has no self-regulating Atman within itself.
 
-<span id="fn_204"></span>[142:1](taf28.htm#fr_206) The last three
+<span id="fn_204"></span>[142:1](taf28.htm#fr_206.md) The last three
 clauses are missing in the older translation.
 
-<span id="fn_205"></span>[145:1](taf28.htm#fr_207) The same idea of
+<span id="fn_205"></span>[145:1](taf28.htm#fr_207.md) The same idea of
 salvation is expressed in the *Bhagavadgîtâ*, Chap. VIII., p. 78: "And
 he who leaves this body and departs (from this world) remembering me in
 (his) last moment, comes into my essence. There is no doubt of that. . .
@@ -645,7 +645,7 @@ of the supreme divine being, O son of Prithâ! with the mind not
 (running) to other (objects), and possessed of abstraction in the shape
 of continuous meditation (about the Supreme) goes to him.'
 
-<span id="fn_206"></span>[145:2](taf28.htm#fr_208) It is not exactly
+<span id="fn_206"></span>[145:2](taf28.htm#fr_208.md) It is not exactly
 known from what Sûtra this passage is taken, but it is not difficult to
 discover similar passages in the Sûtras which constitute the canonical
 books of the Sukhâvatî sect, i.e., in the larger or smaller
@@ -669,4 +669,4 @@ a few original Sanskrit texts have been recovered.
 
 ------------------------------------------------------------------------
 
-[Next: V. Benefits](taf29)
+[Next: V. Benefits](taf29.md)

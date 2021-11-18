@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](stc00)  [Next](stc02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](stc00)  [Next](stc02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -299,4 +299,4 @@ LONDON, July 31st, 1902.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](stc02)
+[Next: Contents](stc02.md)

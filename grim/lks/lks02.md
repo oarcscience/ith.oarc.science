@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks01)  [Next](lks03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks01)  [Next](lks03.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ Such are the Words!
 
 ------------------------------------------------------------------------
 
-[Next: The Initiated Interpretation Of Ceremonial Magic](lks03)
+[Next: The Initiated Interpretation Of Ceremonial Magic](lks03.md)

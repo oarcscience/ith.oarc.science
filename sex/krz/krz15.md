@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz14)  [Next](krz16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz14)  [Next](krz16.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ did not appear or were unrecognized as such.
 
 ------------------------------------------------------------------------
 
-[Next: The Woman's Shock](krz16)
+[Next: The Woman's Shock](krz16.md)

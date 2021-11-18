@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki215)  [Next](liki217) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki215)  [Next](liki217.md) 
 
 ------------------------------------------------------------------------
 
@@ -298,6 +298,6 @@ aims to what is fundamental.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Yo Kî or Record of Music](liki217)
+[Next: XVII. Yo Kî or Record of Music](liki217.md)
 
   

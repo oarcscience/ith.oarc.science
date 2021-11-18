@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](ros01)  [Next](ros03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](ros01)  [Next](ros03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -16,7 +16,7 @@ by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
 ###### OF
 
-# TRACT ROSH HASHANA <span id="fr_1"></span>[1](#fn_1)
+# TRACT ROSH HASHANA <span id="fr_1"></span>[1](#fn_1.md)
 
 ### CHAPTER I.
 
@@ -75,7 +75,7 @@ for giving tithes is for a tree from the time the fruits form; for grain
 and olives, when they are one-third ripe; and for herbs, when they are
 gathered. R. Aqiba picked the fruit of a citron-tree on the first of
 Shebhat and gave two tithes of them,
-[1](ros03.htm#page_1)-[20](ros03.htm#page_20)
+[1](ros03.htm#page_1)-[20](ros03.htm#page_20.md)
 
 MISHNA II. At four periods in each year the world is judged. All are
 judged on New Year's Day and the sentence is fixed on the Day of
@@ -103,7 +103,7 @@ been pronounced. The legend of a certain family in Jerusalem whose
 members died at eighteen years of age. They came and informed R. Johanan
 ben Zakkai. The Creator sees all their hearts (at a glance) and (at
 once) understands all their works,
-[20](ros03.htm#page_20)-[28](ros03.htm#page_28)
+[20](ros03.htm#page_20)-[28](ros03.htm#page_28.md)
 
 MISHNA III. Messengers were sent out in the following six months: in
 Nissan, Abb, Elul, Tishri, Kislev, and in Adar. The legend of the king
@@ -129,7 +129,7 @@ R. Gamaliel (heard of it, he) sent and dismissed him. It once happened,
 that Tobias the physician, his son, and his freed slave saw the new moon
 in Jerusalem. The explanation of the passage Exodus xii. 1, by R. Simeon
 and the rabbis. Who are incompetent witnesses? Gamblers with dice, etc.,
-[34](ros03.htm#page_34)-[36](ros03.htm#page_36)
+[34](ros03.htm#page_34)-[36](ros03.htm#page_36.md)
 
 ### CHAPTER II.
 
@@ -150,7 +150,7 @@ the clouds," "their testimony is not to be accepted." The chief of the
 Beth Din says: "It (the new moon) is consecrated," and all the people
 repeated after Him: "It is consecrated, it is consecrated." Pelimo
 teaches: "When the new moon appeared at its proper time, they used not
-to consecrate it," [37](ros03.htm#page_37)-[42](ros04.htm#page_42)
+to consecrate it," [37](ros03.htm#page_37)-[42](ros04.htm#page_42.md)
 
 MISHNAS V. and VI. R. Gamaliel had on a tablet, and on the wall of his
 upper room, illustrations of the various phases of the moon. Is this
@@ -181,7 +181,7 @@ the greatest of his antecedents. Gamaliel said to R. Joshua: "Happy is
 the generation in which the leaders listen to their followers, and
 through this the followers consider it so much the more their duty (to
 heed the teachings of the leaders),"
-[42](ros04.htm#page_42)-[44](ros04.htm#page_44)
+[42](ros04.htm#page_42)-[44](ros04.htm#page_44.md)
 
 ### CHAPTER III.
 
@@ -193,7 +193,7 @@ substitute two of their learned friends with the remaining one (to form
 a Beth Din). No greater authority than Moses, our master, yet God said
 to him that Aaron should act with him. No witness of a crime may act as
 judge, but in civil cases he may,
-[45](ros04.htm#page_45)-[46](ros04.htm#page_46)
+[45](ros04.htm#page_45)-[46](ros04.htm#page_46.md)
 
 MISHNAS II. to IV. Concerning what kind of cornets may be used on New
 Year's and jubilee days. Some words in the Scripture which the rabbis
@@ -231,7 +231,7 @@ proselytes, freed slaves, a monstrosity, a hermaphrodite, and one who is
 half-slave and half-free. One may not say the benediction over bread for
 guests unless he eats with them, but he may for the members of the
 family, to initiate them into their religious duties,
-[46](ros04.htm#page_46)-[52](ros05.htm#page_52)
+[46](ros04.htm#page_46)-[52](ros05.htm#page_52.md)
 
 ### CHAPTER IV.
 
@@ -255,7 +255,7 @@ corresponding number of times was the Sanhedrin exiled. The witnesses
 need only go to the meeting place (of the Beth Din). Priests may not
 ascend the platform in sandals, to bless the people; and this is one of
 the nine ordinances instituted by R. Johanan b. Zakkai,
-[53](ros05.htm#page_53)-[57](ros05.htm#page_57)
+[53](ros05.htm#page_53)-[57](ros05.htm#page_57.md)
 
 MISHNA V. Regarding the order of the benedictions on New Year's Day at
 the morning prayer, additional prayers, and at what time the cornet must
@@ -287,15 +287,15 @@ to his attendant, "When I nod to you, sound (the cornet) for me." Rabha
 said to him, that this may only be done in the congregation. A man
 should always first prepare himself for prayer, and then pray. R.
 Jehudah prayed only once in thirty days,
-[57](ros05.htm#page_57)-[66](ros06.htm#page_66)
+[57](ros05.htm#page_57)-[66](ros06.htm#page_66.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[xxiii:1](ros02.htm#fr_1) See introduction to
+<span id="fn_1"></span>[xxiii:1](ros02.htm#fr_1.md) See introduction to
 synopsis of Tract Sabbath, Vol. I., p. xxix.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I.](ros03)
+[Next: Chapter I.](ros03.md)

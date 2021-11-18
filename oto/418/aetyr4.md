@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 4th Aethyr,  
-Which is Called PAZ**[**1**](#1)
+Which is Called PAZ**[**1**](#1.md)
 
 The Stone is translucent and luminous, and no images enter therein.
 
 A voice says: Behold the brilliance of the Lord, whose feet are set upon
 him that pardoneth transgression. Behold the six-fold Star that flameth
 in the Vault, the seal of the marriage of the great White King and his
-black slave[**2**](#2).
+black slave[**2**](#2.md).
 
 So I looked into the Stone, and beheld the six-fold Star: the whole
 Aethyr is as tawny clouds, like the flame of a furnace. And there is a
@@ -39,7 +39,7 @@ the pressure of her fingers. Their joint cry is an intolerable anguish,
 yet it is the cry of their rapture, so that every pain, and every curse,
 and every bereavement, and every death of everything in the whole
 universe, is but one little gust of wind in that tempest-scream of
-ecstasy[**3**](#3).
+ecstasy[**3**](#3.md).
 
 The voice thereof is not articulate. It is in vain to seek comparison.
 It is absolutely continuous, without breaks or beats. If there seem to
@@ -53,7 +53,7 @@ trained scarcely at all, and therefore the Aethyrs are almost silent to
 him on those planes. By the senses are meant the spiritual correlations
 of the senses, not the physical senses. But this matters little, because
 the Seer, so far as he is a seer, is the expression of the spirit of
-humanity[**4**](#4). What is true of him is true of humanity, so that
+humanity[**4**](#4.md). What is true of him is true of humanity, so that
 even if he had been able to receive the full Aethyrs, he could not have
 communicated them.
 
@@ -64,12 +64,12 @@ dreadful marriage-bed.
 So I am torn asunder, nerve from nerve and vein from vein, and more
 intimately --- cell from cell, molecule from molecule, and atom from
 atom, and at the same time all crushed together. Write down that the
-tearing asunder *is* a crushing together[**5**](#5). All the double
+tearing asunder *is* a crushing together[**5**](#5.md). All the double
 phenomena are only two ways of looking at a single phenomenon; and the
 single phenomenon is Peace. There is no sense in my words or in my
 thoughts. "Faces half- formed arose." This is the meaning of that
 passage; they are attempts to interpret Chaos, but Chaos is Peace.
-Cosmos is the War of the Rose and the Cross[**6**](#6). That was "a
+Cosmos is the War of the Rose and the Cross[**6**](#6.md). That was "a
 half-formed face" that I said then. All images are useless.
 
 Blackness, blackness intolerable, before the beginning of the light.
@@ -88,7 +88,7 @@ and gluttony, and murder, and tyranny, and to the nameless Horror, cover
 us, cover us, cover us from the Rod of Destiny; for Cosmos must come,
 and the balance be set up where there was no need of balance, because
 there was no injustice, but only truth. But when the balances are equal,
-scale matched with scale, then will Chaos[**7**](#7) return.
+scale matched with scale, then will Chaos[**7**](#7.md) return.
 
 Yea, as in a looking-glass, so in thy mind, that is backed with the
 false metal of lying, is every symbol read averse. Lo! everything
@@ -96,7 +96,7 @@ wherein thou hast trusted must confound thee, and that thou didst flee
 from was thy saviour. So therefore didst thou shriek in the Black
 Sabbath when thou didst kiss the hairy buttocks of the goat, when the
 gnarled god tore thee asunder, when the icy cataract of death swept thee
-away[**8**](#8).
+away[**8**](#8.md).
 
 Shriek, therefore, shriek aloud; mingle the roar of the gored lion and
 the moan of the torn bull, and the cry of the man that is torn by the
@@ -105,8 +105,8 @@ hands of the Man. Mingle all these in the death-shriek of the Sphinx,
 for the blind man hath profaned her mystery. Who is this, Oedipus,
 Tiresias, Erinyes? Who is this, that is blind and a seer, a fool above
 wisdom? Whom do the hounds of heaven follow, and the crocodiles of hell
-await[**9**](#9)? Aleph, vau, yod, ayin, resh, tau, is his
-name[**10**](#10).
+await[**9**](#9.md)? Aleph, vau, yod, ayin, resh, tau, is his
+name[**10**](#10.md).
 
 Beneath his feet is the kingdom, and upon his head the crown. He is
 spirit and matter; he is peace and power; in him is Chaos and Night and
@@ -114,17 +114,17 @@ Pan, and upon BABALON his concubine, that hath made him drunk upon the
 blood of the saints that she hath gathered in her golden cup, hath he
 begotten the virgin that now he doth deflower. And this is that which is
 written: Malkuth shall be uplifted and set upon the throne of
-Binah[**11**](#11). And this is the stone of the philosophers that is
+Binah[**11**](#11.md). And this is the stone of the philosophers that is
 set as a seal upon the tomb of Tetragrammaton, and the elixir of life
 that is distilled from the blood of the saints, and the red powder that
 is the grinding-up of the bones of Choronzon.
 
 Terrible and wonderful is the Mystery thereof, O thou Titan that hast
 climbed into the bed of Juno! Surely thou art bound unto, and broken
-upon, the wheel[**12**](#12); yet hast thou uncovered the nakedness of
+upon, the wheel[**12**](#12.md); yet hast thou uncovered the nakedness of
 the Holy One, and the Queen of Heaven is in travail of child, and his
 name shall be called Vir, and Vis, and Virus, and Virtus, and Viridis,
-in one name that is all these, and above all these[**13**](#13).
+in one name that is all these, and above all these[**13**](#13.md).
 
 Desolate, desolate is the Aethyr, for thou must return unto the
 habitations of the Owl and the Bat, unto the Scorpions of the sand, and

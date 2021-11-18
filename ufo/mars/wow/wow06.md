@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow05)  [Next](wow07) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow05)  [Next](wow07.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ and trampled there, and left to die amid the terror and the darkness.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seven: How I Reached Home](wow07)
+[Next: Chapter Seven: How I Reached Home](wow07.md)

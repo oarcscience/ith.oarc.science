@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut05)  [Next](hut07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut05)  [Next](hut07.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 ### III.
 
-### Xontcūwditcetc. <span id="fr_25"></span>[1](#fn_25)--Rough-nose <span id="fr_26"></span>[2](#fn_26)
+### Xontcūwditcetc. <span id="fr_25"></span>[1](#fn_25)--Rough-nose <span id="fr_26"></span>[2](#fn_26.md)
 
 <span id="page_154">p. 154</span>
 
@@ -88,14 +88,14 @@ his brother, went safely home.
 
 ### Footnotes
 
-<span id="fn_25"></span>[150:1](hut06.htm#fr_25) Told at Hupa, July,
+<span id="fn_25"></span>[150:1](hut06.htm#fr_25.md) Told at Hupa, July,
 1901, by Mary Marshall, wife of James Marshall. She was born at Miskût
 about 1868, where she lived most of the time until her marriage. Her
 mother was a Yurok who was married to a Hupa.
 
-<span id="fn_26"></span>[150:2](hut06.htm#fr_26) A wood rasp is called
+<span id="fn_26"></span>[150:2](hut06.htm#fr_26.md) A wood rasp is called
 by the Hupa tsel-tce ditc-tcetc, "iron rough."
 
 ------------------------------------------------------------------------
 
-[Next: IV. Yīnûkatsisdai.--He-lives-South.](hut07)
+[Next: IV. Yīnûkatsisdai.--He-lives-South.](hut07.md)

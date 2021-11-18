@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar47)  [Next](gar49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar47)  [Next](gar49.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ inquire and I will declare the same unto thee, face to face, and without
 a parable.' Then Andrew answered and said: 'Lord, I wonder and marvel
 greatly how men that be in this world, when they are departed from out
 of this body of *Matter*, and have gone out of the world, how shall they
-pass through these [firmaments](errata.htm#23), and all these rulers,
+pass through these [firmaments](errata.htm#23.md), and all these rulers,
 and lords, and gods, and all these Great Invisible Ones, and all these
 that belong to the Middle-space, and those that belong to the place of
 them upon the right hand, and all the great emanations of the same, so
@@ -46,7 +46,7 @@ all angels, and archangels, and rulers, and lords, and gods, and the
 other Powers, and the glory thereof; you *from* yourselves and *in*
 yourselves in turn, proceeding out of one mass, and one matter, and one
 being, and all proceeding out of one *confusion*. <span
-id="fr_202"></span>[\*](#fn_200)
+id="fr_202"></span>[\*](#fn_200.md)
 
 <span id="page_342">p. 342</span>
 
@@ -77,10 +77,10 @@ attainment of *knowledge*, of a perfection superior to theirs.
 
 ### Footnotes
 
-<span id="fn_200"></span>[341:\*](gar48.htm#fr_202) Κερασμὸς, *i.e.* the
+<span id="fn_200"></span>[341:\*](gar48.htm#fr_202.md) Κερασμὸς, *i.e.* the
 mixture of the Light Divine with brute Matter, which it was the object
 of the Saviour's coming to rectify.
 
 ------------------------------------------------------------------------
 
-[Next: The Scheme of the Ophites](gar49)
+[Next: The Scheme of the Ophites](gar49.md)

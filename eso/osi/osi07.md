@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi06)  [Next](osi08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi06)  [Next](osi08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -21,7 +21,7 @@ Textual Heritage
 
 ### THE FIRST DEGREE OF INITIATION.—(*Continued*.)
 
-*Morning, Noon, and Evening Sandyas*. <span id="fr_6"></span>[1](#fn_6)
+*Morning, Noon, and Evening Sandyas*. <span id="fr_6"></span>[1](#fn_6.md)
 
 When ten years have been spent in the first degree of initiation and
 there still remains an equal period of time before the Grihastas and
@@ -384,9 +384,9 @@ men. (Agrouchada-Parikchai.)
 
 ### Footnotes
 
-<span id="fn_6"></span>[61:1](osi07.htm#fr_6) Translated from the
+<span id="fn_6"></span>[61:1](osi07.htm#fr_6.md) Translated from the
 Agrouchada-Parikchai.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Second Degree of Initiation](osi08)
+[Next: Chapter VII. The Second Degree of Initiation](osi08.md)

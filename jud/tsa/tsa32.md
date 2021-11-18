@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa31)  [Next](tsa33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa31)  [Next](tsa33.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Heritage
 ### Those who may be killed untried.
 
 <span class="margnote">**M**.</span>VIII. 7. These may be saved (from
-sin) at the cost of their lives: <span id="fr_370"></span>[1](#fn_366)
+sin) at the cost of their lives: <span id="fr_370"></span>[1](#fn_366.md)
 he who pursues after his fellow to kill him, or after a male, or after a
 betrothed damsel. But he who pursues after a beast, or he who defiles
 the Sabbath, or he who commits idolatry, may not be saved (from sin) at
@@ -41,9 +41,9 @@ saved (from sin) at the cost of his life.
 
 ### Footnotes
 
-<span id="fn_366"></span>[113:1](tsa32.htm#fr_370) Cases of justifiable
+<span id="fn_366"></span>[113:1](tsa32.htm#fr_370.md) Cases of justifiable
 homicide.
 
 ------------------------------------------------------------------------
 
-[Next: B. Those Who Are Punishable By Burning](tsa33)
+[Next: B. Those Who Are Punishable By Burning](tsa33.md)

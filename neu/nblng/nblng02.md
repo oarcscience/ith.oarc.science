@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng01)  [Next](nblng03) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng01)  [Next](nblng03.md) 
 
 ------------------------------------------------------------------------
 
@@ -935,4 +935,4 @@ daughter.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure I](nblng03)
+[Next: Adventure I](nblng03.md)

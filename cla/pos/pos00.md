@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Sappho](../saph/index)  [Index](index)  [Next](pos01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Sappho](../saph/index)  [Index](index)  [Next](pos01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00087A7F8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00087A7F8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Poems of Sappho*, by John Myers O'Hara, \[1910\], at Intangible
 Textual Heritage
 
@@ -31,25 +31,25 @@ Textual Heritage
 
 <span id="img_cover"></span> <span align="CENTER"> [![Front Cover and
 Spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover and Spine  
 </span>
 
 <span id="img_front"></span> <span align="CENTER"> [![SAPPHO AND HER
 COMPANIONS](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 SAPPHO AND HER COMPANIONS  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
@@ -78,4 +78,4 @@ in July, MDCCCCX</em>
 
 ------------------------------------------------------------------------
 
-[Next: Prologue](pos01)
+[Next: Prologue](pos01.md)

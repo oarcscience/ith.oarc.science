@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,14 +21,14 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ssug00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ssug.txt.gz)
+[Contents](#contents)    [Start Reading](ssug00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ssug.txt.gz.md)
 
 ------------------------------------------------------------------------
 
 This is one of Max Freedom Long's latter books. In this we can see the
 evolution of his ideas, consistent with the views expressed in [The
-Secret Science Behind Miracles](../ssbm/index). One of the highlights of
+Secret Science Behind Miracles](../ssbm/index.md). One of the highlights of
 this book is the review of the self-help scene during the mid-50s,
 including a mention of Dianetics, as well as General Semantics and other
 belief systems. Mostly though, this is a practical manual of
@@ -38,15 +38,15 @@ larger context of this in the Huna world.--J.B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ssug00)  
-[Introduction](ssug01)  
-[Chapter 1](ssug02)  
-[Chapter 2](ssug03)  
-[Chapter 3](ssug04)  
-[Chapter 4](ssug05)  
-[Chapter 5](ssug06)  
-[Chapter 6](ssug07)  
-[Chapter 7](ssug08)  
-[Chapter 8](ssug09)  
-[Appendix](ssug10)  
-[Addendum](ssug11)  
+<span id="contents"></span> [Title Page](ssug00.md)  
+[Introduction](ssug01.md)  
+[Chapter 1](ssug02.md)  
+[Chapter 2](ssug03.md)  
+[Chapter 3](ssug04.md)  
+[Chapter 4](ssug05.md)  
+[Chapter 5](ssug06.md)  
+[Chapter 6](ssug07.md)  
+[Chapter 7](ssug08.md)  
+[Chapter 8](ssug09.md)  
+[Appendix](ssug10.md)  
+[Addendum](ssug11.md)  

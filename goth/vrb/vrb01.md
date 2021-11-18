@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vrb00)  [Next](vrb02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vrb00)  [Next](vrb02.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ website. For more information, consult www.kheperu.org
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](vrb02)
+[Next: Introduction](vrb02.md)

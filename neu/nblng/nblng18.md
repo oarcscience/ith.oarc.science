@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng17)  [Next](nblng19) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng17)  [Next](nblng19.md) 
 
 ------------------------------------------------------------------------
 
@@ -324,4 +324,4 @@ rising to his feet would give his opponent quite a start.
 ------------------------------------------------------------------------
 
 [Next: Adventure XVII: How Kriemhild Mourned Her Husband And How He Was
-Buried.](nblng19)
+Buried.](nblng19.md)

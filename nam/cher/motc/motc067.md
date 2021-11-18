@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc066) 
-[Next](motc068) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc066.md) 
+[Next](motc068.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ life-that gift was his.
 
 ------------------------------------------------------------------------
 
-[Next: 68. The Hunter In The Däkwä'](motc068)
+[Next: 68. The Hunter In The Däkwä'](motc068.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft35)  [Next](ftft37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft35)  [Next](ftft37.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_274">p. 274</span>
 
-<span id="img_27400"></span> ![Prince Ahmed](img/27400.jpg)
+<span id="img_27400"></span> ![Prince Ahmed](img/27400.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a Padishah who had a son. One day the Padishah, being
 angry with his son, commanded that he should be beheaded. The Vezir
@@ -53,7 +53,7 @@ stone, as when its brightness was perceived it
 would be taken from them, and moreover they might get into trouble on
 account of it. But the Prince would not listen to her, arguing that as
 they had lighted neither candle nor lamp they had not
-[transgressed](errata.htm#5) the royal command.
+[transgressed](errata.htm#5.md) the royal command.
 
 One night the Padishah, looking out of his window, saw the bright light
 which emanated from the glistening stone. He called his Vezir and
@@ -103,7 +103,7 @@ who said: "O youth, it is ten years since I was taken captive by the
 dragon; now I am yours;
 
 <span id="img_27600"></span> ![He struck off six of the Dragon's heads
-at one blow](img/27600.jpg)
+at one blow](img/27600.jpg.md)
 
 <span id="page_277">p. 277</span>
 
@@ -172,7 +172,7 @@ such a difficult task, but he made known to him the royal will, and gave
 him forty days' grace in which to fulfil it. The youth deeply
 
 <span id="img_27800"></span> ![He delivered them to the
-Padishah](img/27800.jpg)
+Padishah](img/27800.jpg.md)
 
 <span id="page_279">p. 279</span>
 
@@ -223,7 +223,7 @@ their native land.
 
 |                                |
 |--------------------------------|
-| ![The lame Dew](img/28000.jpg) |
+| ![The lame Dew](img/28000.jpg.md) |
 
 On the road they encountered a lame Dew. The youth would have slain him
 instantly, but the Dew implored him to spare his life, hinting that the
@@ -324,7 +324,7 @@ Meanwhile a caravan stopped in the neighbourhood of the well into
 <span id="img_28300"></span>
 
 [![The Padishah called in the executioner](tn/28300.jpg)  
-Click to enlarge](img/28300.jpg)  
+Click to enlarge](img/28300.jpg.md)  
   
 
 <span id="page_284">p. 284</span>
@@ -365,7 +365,7 @@ mounting his steed he sallied forth to meet the Dew.
 <span id="page_285">p. 285</span>
 
 <span id="img_28500"></span> ![The Dew threw him down from his
-throne](img/28500.jpg)
+throne](img/28500.jpg.md)
 
 When the maidens saw this youth coming alone against them, they
 concluded the Padishah had no more men to send. As the Prince
@@ -386,4 +386,4 @@ maidens, who all shared in the happiness of his glorious reign.
 
 ------------------------------------------------------------------------
 
-[Next: The Liver](ftft37)
+[Next: The Liver](ftft37.md)

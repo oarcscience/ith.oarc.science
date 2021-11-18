@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Euripides](../index)  [Index](index)  [Previous](eaha04) 
-[Next](eaha06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Euripides](../index)  [Index](index)  [Previous](eaha04.md) 
+[Next](eaha06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Euripides and His Age*, by Gilbert Murray, \[1913\], at Intangible
 Textual Heritage
 
@@ -25,7 +25,7 @@ consummate achievements of the Greek tragic genius. Its stamp is fixed
 on all the imagination of antiquity.
 
 The plot of the *Medea* begins where that of the *Daughters of Pelias*
-([p. 68](eaha04.htm#page_68)) ended. Jason had fled with Medea and her
+([p. 68](eaha04.htm#page_68).md) ended. Jason had fled with Medea and her
 two children to Corinth, which is ruled by Creon, an old king with a
 daughter but no son to succeed him. The famous warrior-prince will just
 suit Creon as a son-in-law, if only he will dismiss his discreditable
@@ -65,7 +65,7 @@ dragon chariot and an ecstasy of hate seems to blind the sky.
 
 The *Medea* shows a new mastery of tragic technique, especially in the
 extraordinary value it gets out of the chorus ([p.
-238](eaha10.htm#page_238)). But as illustrating the life of Euripides
+238](eaha10.htm#page_238).md). But as illustrating the life of Euripides
 there are one or two special points in it that claim notice. In the
 first place it states the cause of a barbarian woman against a Greek man
 who has wronged her. Civilized men have loved and deserted savage women
@@ -277,7 +277,7 @@ average Athenian paterfamilias.
 
 Towards the beginning of the war we may safely date the *Children of
 Heracles*, a mutilated but beautiful piece, which rings with this
-particular spirit of patriotism (cf. [p. 41](eaha03.htm#page_41) above).
+particular spirit of patriotism (cf. [p. 41](eaha03.htm#page_41) above.md).
 Heracles is dead; his children and mother are persecuted and threatened
 with death by his enemy, Eurystheus, king of Argos. Under the guidance
 of their father's old comrade, Iolaus, they have fled from Argos, and
@@ -412,7 +412,7 @@ lost plays *Aigeus*, *Theseus*, *Erechtheus*, all on Attic subjects, can
 be dated in the first years of the war; the *Hippolytus* is built on an
 old legend of the Acropolis and a poetic love of Athens shines through
 the story. The Andromache especially is a curious document, the meaning
-of which is discussed later on ([p. 110](eaha06.htm#page_110)). But the
+of which is discussed later on ([p. 110](eaha06.htm#page_110).md). But the
 two plays we have described at length, The *Children of Heracles* and
 the *Suppliant Women*, give the best idea of what patriotism meant to
 our poet. With most men patriotism is a matter of association and
@@ -599,4 +599,4 @@ prayer, and the Muses in granting it granted it at a heavy price.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](eaha06)
+[Next: Chapter V](eaha06.md)

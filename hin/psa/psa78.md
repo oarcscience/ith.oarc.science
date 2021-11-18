@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa77)  [Next](psa79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa77)  [Next](psa79.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 ### CHAPTER LXXVII.
 
 SHREE SHOOKDEO JEE said,--O great king! when Shree Krishnù Chund and
-Bulram Jee were at [Hustinapoor](errata.htm#22), a demon, named Salub, a
+Bulram Jee were at [Hustinapoor](errata.htm#22.md), a demon, named Salub, a
 follower of Sissoopal, who, at the marriage of Rookmunee, had been
 wounded by Shree Krishnù Chund Jee, and had run away, began to perform a
 penance in honour of Muhadeo Jee, saying to himself, "I will now take
@@ -214,4 +214,4 @@ of Shree Krishnù Chund.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXVIII](psa79)
+[Next: Chapter LXXVIII](psa79.md)

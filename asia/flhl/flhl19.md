@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl18)  [Next](flhl20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl18)  [Next](flhl20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ together with a bowl of water were given to him. When this had been
 done, the Rabbi wrote on the paper the tetra-grammaton, or
 unpronounceable name of the Most High, together with certain passages
 from Scripture, and from Kabbalistic writings. He then washed the
-document in the water, <span id="fr_52"></span>[1](#fn_52) repeating
+document in the water, <span id="fr_52"></span>[1](#fn_52.md) repeating
 certain magic formulæ all the time. The next thing he did was to apply
 the wet paper to the dead lad's lips and forehead, the result being that
 the murdered boy immediately sat up, and, after gazing about him for a
@@ -129,7 +129,7 @@ shop: "Even this door," he said, "shall be punished for failing in its
 duty, which is to keep out thieves, unless it tell me who it was that
 passed it the night before last, and stole things out of the shop." The
 door giving no answer, he bade the executioner, administer one hundred
-lashes with his kurbâj. <span id="fr_53"></span>[1](#fn_53)
+lashes with his kurbâj. <span id="fr_53"></span>[1](#fn_53.md)
 
 When the punishment was ended, he again exhorted the door to speak,
 saying that, if it feared to utter the name aloud, it could whisper in
@@ -155,7 +155,7 @@ in Jerusalem, he encouraged the fellahìn of the country to bring their
 produce to t city, assuring them that his soldiers would e punished if
 they hurt them or took anything fr m them without payment. One day, a
 woman from Silwân, with a basket of jars filled with leben, <span
-id="fr_54"></span>[1](#fn_54) came and complained of a soldier having
+id="fr_54"></span>[1](#fn_54.md) came and complained of a soldier having
 seized one of her jars and drunk off the contents without so much as "By
 your leave." Ibrahìm asked her when this had happened, and if she
 thought she could identify the soldier. She replied that it had happened
@@ -176,15 +176,15 @@ been far worse than this soldier's."
 
 ### Footnotes
 
-<span id="fn_52"></span>[100:1](flhl19.htm#fr_52) For a somewhat similar
+<span id="fn_52"></span>[100:1](flhl19.htm#fr_52.md) For a somewhat similar
 ceremony in the Mosaic ritual see Numb v. 23.
 
-<span id="fn_53"></span>[103:1](flhl19.htm#fr_53) A whip of
+<span id="fn_53"></span>[103:1](flhl19.htm#fr_53.md) A whip of
 hippopotamus-hide.
 
-<span id="fn_54"></span>[104:1](flhl19.htm#fr_54) Curds, or else
+<span id="fn_54"></span>[104:1](flhl19.htm#fr_54.md) Curds, or else
 buttermilk.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Scraps of Unwritten History](flhl20)
+[Next: VI. Scraps of Unwritten History](flhl20.md)

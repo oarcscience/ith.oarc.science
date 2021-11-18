@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](oprt17)  [Next](oprt19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](oprt17)  [Next](oprt19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Old Peter's Russian Tales*, by Arthur Ransome, \[1916\], at Intangible
 Textual Heritage
 
@@ -30,8 +30,8 @@ Once upon a time there were two orphan children, a little boy and a
 little girl. Their father and mother were dead, and they had not even an
 old grandfather to spend his time in telling them stories. They were
 alone. The little boy was called Vanoushka, <span
-id="fr_2"></span>[3](#fn_2) and the little girl's name was
-Alenoushka. <span id="fr_3"></span>[3](#fn_2)
+id="fr_2"></span>[3](#fn_2.md) and the little girl's name was
+Alenoushka. <span id="fr_3"></span>[3](#fn_2.md)
 
 They set out together to walk through the whole of the great wide world.
 It was a long journey they set out on, and they did not think of any end
@@ -268,7 +268,7 @@ what was happening.
 
 <span id="img_24000"></span> <span align="CENTER"> [![He stepped on one
 of its fiery wings and pressed it to the ground.](tn/24000.jpg)  
-Click to enlarge](img/24000.jpg)  
+Click to enlarge](img/24000.jpg.md)  
 He stepped on one of its fiery wings and pressed it to the ground.  
 </span>
 
@@ -336,11 +336,11 @@ new milk."
 
 ### Footnotes
 
-<span id="fn_2"></span>[231:3](oprt18.htm#fr_3) That means that they
+<span id="fn_2"></span>[231:3](oprt18.htm#fr_3.md) That means that they
 were called Ivan and Elena. Vanoushka and Alenoushka are affectionate
 forms of these names.
 
 ------------------------------------------------------------------------
 
 [Next: The Fire-Bird, the Horse of Power, and the Princess
-Vasilissa](oprt19)
+Vasilissa](oprt19.md)

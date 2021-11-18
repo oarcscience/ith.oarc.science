@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps07)  [Next](rps09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps07)  [Next](rps09.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ Pope of Rome and The Monarch of Hell's Bottom.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7. Ethiopia's Balm Yard Poison No. 666](rps09)
+[Next: Chapter 7. Ethiopia's Balm Yard Poison No. 666](rps09.md)

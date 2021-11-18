@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hby06)  [Next](hby08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hby06)  [Next](hby08.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ pleasure of this little personality which is now the chief center of our
 interest and effort, but shall strive for the good of all.
 
 Anyone who wishes to become a true Karma Yogi should clearly understand
-the philosophy of work, <span id="fr_4"></span>[1](#fn_4) and should
+the philosophy of work, <span id="fr_4"></span>[1](#fn_4.md) and should
 remember that every action of body and mind must produce some effect
 which will eventually
 
@@ -199,9 +199,9 @@ of Karma Yoga.
 
 ### Footnotes
 
-<span id="fn_4"></span>[87:1](hby07.htm#fr_4) See "Philosophy of Work,"
+<span id="fn_4"></span>[87:1](hby07.htm#fr_4.md) See "Philosophy of Work,"
 by the same author.
 
 ------------------------------------------------------------------------
 
-[Next: Bhakti Yoga](hby08)
+[Next: Bhakti Yoga](hby08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico009) 
-[Next](nico011) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico009.md) 
+[Next](nico011.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ fulfilled--but happy men. So much for these questions.
 ------------------------------------------------------------------------
 
 [Next: Chapter 11. Do the fortunes of the living affect the
-dead?](nico011)
+dead?](nico011.md)

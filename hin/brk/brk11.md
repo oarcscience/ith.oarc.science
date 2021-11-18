@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk10)  [Next](brk12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk10)  [Next](brk12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
@@ -57,4 +57,4 @@ iii. 14 f., III. ii. 11 f.).
 
 ------------------------------------------------------------------------
 
-[Next: Origin of the Universe from Brahma](brk12)
+[Next: Origin of the Universe from Brahma](brk12.md)

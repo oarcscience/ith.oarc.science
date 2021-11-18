@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Next](toah01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Next](toah01.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ American](../../index)  [Hopi](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](toah01)
+[Next: Foreword](toah01.md)

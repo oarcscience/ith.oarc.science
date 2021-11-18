@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](damn19)  [Next](damn21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](damn19)  [Next](damn21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of the Damned*, by Charles Fort, \[1919\], at Intangible
 Textual Heritage
 
@@ -59,7 +59,7 @@ That in a dreaming mind awakening is accelerated—if phantoms in that
 mind know that they're only phantoms in a dream. Of course, they too are
 quasi, or—but in a relative sense—they have an essence of what is called
 realness. They are derived from experience or from
-[sense](errata.htm#5)-relations, even though grotesque distortions. It
+[sense](errata.htm#5.md)-relations, even though grotesque distortions. It
 seems acceptable that a table that is seen when one is awake is more
 nearly real than a dreamed table, which, with fifteen or twenty legs,
 chases one.
@@ -603,4 +603,4 @@ week.
 
 ------------------------------------------------------------------------
 
-[Next: 21](damn21)
+[Next: 21](damn21.md)

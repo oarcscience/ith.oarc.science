@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prpc)  [Next](prp00) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prpc)  [Next](prp00.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ OUTIDANOS
 
 ------------------------------------------------------------------------
 
-[Next: To the Reader](prp00)
+[Next: To the Reader](prp00.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes07)  [Next](tes09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes07)  [Next](tes09.md) 
 
 ------------------------------------------------------------------------
 
-### 5. (CREATION STORY.) <span id="fr_9"></span>[2](#fn_9)
+### 5. (CREATION STORY.) <span id="fr_9"></span>[2](#fn_9.md)
 
 When the Creator created the earth, the bear was made the master of all
 the beasts. The wolf, the fox, and the wolverene paid homage to him. But
@@ -58,9 +58,9 @@ of the Kolyma country, winter of 1895.
 
 ### Footnotes
 
-<span id="fn_9"></span>[19:2](tes08.htm#fr_9) Cf. Bogoras, "Chukchee
+<span id="fn_9"></span>[19:2](tes08.htm#fr_9.md) Cf. Bogoras, "Chukchee
 Materials," No. 32, 131.
 
 ------------------------------------------------------------------------
 
-[Next: 6. The Shaman who Turned into a Fox](tes09)
+[Next: 6. The Shaman who Turned into a Fox](tes09.md)

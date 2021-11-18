@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft01) 
-[Next](gsft03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft01.md) 
+[Next](gsft03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gypsy Sorcery and Fortune Telling*, by Charles Godfrey Leland,
 \[1891\], at Intangible Textual Heritage
 
@@ -306,7 +306,7 @@ of incantations, charms, and spells, every one of them every whit as
 I am convinced, from much inquiry, that next to the Bible and the
 Almanac there is no one book which is so much disseminated among the
 million as the fortune-teller, in some form or other. <span
-id="fr_0"></span>[1](#fn_0) That is to say, there are, numerically, many
+id="fr_0"></span>[1](#fn_0.md) That is to say, there are, numerically, many
 millions more of believers in such small sorcery now in Great Britain
 than there were centuries ago, for, be it remembered, the superstitions
 of the masses were always petty ones, like those of the fate-books; it
@@ -323,7 +323,7 @@ Understand ye this—or what?
 
 ### Footnotes
 
-<span id="fn_0"></span>[xii:1](gsft02.htm#fr_0) I was once myself made
+<span id="fn_0"></span>[xii:1](gsft02.htm#fr_0.md) I was once myself made
 to contribute, involuntarily, to this kind of literature. Forty years
 ago I published a Folk-lore book entitled "The Poetry and Mystery of
 Dreams," in which the explanations of dreams, as given by
@@ -339,6 +339,6 @@ common sixpenny dream-book.
 ------------------------------------------------------------------------
 
 [Next: Chapter I: The Origin of Witchcraft, Shamanism and
-Sorcery](gsft03)
+Sorcery](gsft03.md)
 
 </div>

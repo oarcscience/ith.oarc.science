@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp58) 
-[Next](alp60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp58.md) 
+[Next](alp60.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ And all the world is but God's mockery!
 
 ------------------------------------------------------------------------
 
-[Next: A Day After](alp60)
+[Next: A Day After](alp60.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal007)  [Next](njal009) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal007)  [Next](njal009.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ and that was the end of Mord's and Hrut's quarrel,
 
 ------------------------------------------------------------------------
 
-[Next: 9. Thorwald Gets Hallgerda To Wife](njal009)
+[Next: 9. Thorwald Gets Hallgerda To Wife](njal009.md)

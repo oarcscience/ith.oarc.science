@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb32)  [Next](brfb34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb32)  [Next](brfb34.md) 
 
 </div>
 
@@ -537,6 +537,6 @@ last we heard of him.
 
 ------------------------------------------------------------------------
 
-[Next: The Knights of the Fish](brfb34)
+[Next: The Knights of the Fish](brfb34.md)
 
 </div>

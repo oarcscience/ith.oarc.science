@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe15) 
-[Next](ioe17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe15.md) 
+[Next](ioe17.md) 
 
 ------------------------------------------------------------------------
 
@@ -584,4 +584,4 @@ in every detail. All thus becomes equally precious.
 
 ------------------------------------------------------------------------
 
-[Next: The Vista](ioe17)
+[Next: The Vista](ioe17.md)

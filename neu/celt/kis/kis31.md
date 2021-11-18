@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis30)  [Next](kis32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis30)  [Next](kis32.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ hard for the robbers to take her from me."
 
 ------------------------------------------------------------------------
 
-[Next: Part XI](kis32)
+[Next: Part XI](kis32.md)

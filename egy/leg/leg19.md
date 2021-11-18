@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg18)  [Next](leg20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg18)  [Next](leg20.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ the Soul of
 <span id="page_38">p. 38</span> <span id="page_39">p. 39</span>
 
 \[paragraph continues\] Shu, it is the Soul of Khnemu (?), <span
-id="fr_65"></span>[1](#fn_64) it is the Soul of Heh, it is the Soul of
+id="fr_65"></span>[1](#fn_64.md) it is the Soul of Heh, it is the Soul of
 Kek and Kerh (i.e., Night and Darkness), it is the Soul of Nu and of Ra,
 it is the Soul of Osiris, the lord of Tettu, it is the Soul of the Sebak
 Crocodile-gods and of the Crocodiles, it is the Soul of every god \[who
@@ -92,9 +92,9 @@ words of power.
 
 ### Footnotes
 
-<span id="fn_64"></span>[39:1](leg19.htm#fr_65) There are mistakes in
+<span id="fn_64"></span>[39:1](leg19.htm#fr_65.md) There are mistakes in
 the text here.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of Ra And Isis.](leg20)
+[Next: The Legend Of Ra And Isis.](leg20.md)

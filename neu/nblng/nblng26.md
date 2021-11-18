@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng25)  [Next](nblng27) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng25)  [Next](nblng27.md) 
 
 ------------------------------------------------------------------------
 
@@ -310,4 +310,4 @@ Budapest.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XXV: How The Lords All Journeyed To The Huns.](nblng27)
+[Next: Adventure XXV: How The Lords All Journeyed To The Huns.](nblng27.md)

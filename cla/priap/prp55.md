@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp54)  [Next](prp56) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp54)  [Next](prp56.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ turned to madness those who drank of its waters.\]
 
 ------------------------------------------------------------------------
 
-[Next: 56. Thou too dost mock me, Thief! and the infamous](prp56)
+[Next: 56. Thou too dost mock me, Thief! and the infamous](prp56.md)

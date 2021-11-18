@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sft18)  [Next](sft20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sft18)  [Next](sft20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003CN6KYW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003CN6KYW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *South-African Folk-Tales*, by James A. Honeÿ, \[1910\], at Intangible
 Textual Heritage
 
@@ -132,6 +132,6 @@ life. Jackal did creep out, and left Lion there to starve and die.
 
 ------------------------------------------------------------------------
 
-[Next: The Dance For Water Or Rabbit's Triumph](sft20)
+[Next: The Dance For Water Or Rabbit's Triumph](sft20.md)
 
 </div>

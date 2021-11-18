@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp50)  [Next](dmp52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp50)  [Next](dmp52.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ Then she comes at once.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XX](dmp52)
+[Next: Verso Col. XX](dmp52.md)

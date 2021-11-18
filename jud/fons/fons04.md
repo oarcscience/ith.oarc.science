@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](fons03)  [Next](fons05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](fons03)  [Next](fons05.md) 
 
 ------------------------------------------------------------------------
 
@@ -594,4 +594,4 @@ has one figure only and one form only.
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](fons05)
+[Next: Part IV](fons05.md)

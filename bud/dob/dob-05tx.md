@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-05in) [Next](dob-06in)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-05in) [Next](dob-06in.md)
 
 ------------------------------------------------------------------------
 
@@ -36,10 +36,10 @@ terrace of his house for his siesta; and seeing the people thus go by.
 he asked his doorkeeper the reason. And the doorkeeper told him{3}.
 
 {1. Not the same as the one with the same name half way between
-Râ*g*agaha and Nâlânda (above, [p. 1](dob-01tx) of the text).
+Râ*g*agaha and Nâlânda (above, [p. 1](dob-01tx) of the text.md).
 Buddhaghosa (p. 294) says it was like it.
 
-2\. The whole of [§ 2](dob-04tx) of the So*n*ada*nd*a is here repeated.
+2\. The whole of [§ 2](dob-04tx.md) of the So*n*ada*nd*a is here repeated.
 
 3\. All given in the text in full, as in the So*n*ada*nd*a Sutta.}
 
@@ -69,7 +69,7 @@ Blessed One what he had heard{2}, and requested him to tell him about
 success in performing a sacrifice in its three modes{3} and with its
 accessory articles of furniture of sixteen kinds{4}.
 
-{1. [§§ 3-7](dob-04tx.htm#text%20p.%20112) inclusive of the
+{1. [§§ 3-7](dob-04tx.htm#text%20p.%20112.md) inclusive of the
 So*n*ada*nd*a are here repeated in full in the text.
 
 2\. As in § 4.
@@ -451,7 +451,7 @@ these five?'
 be?'
 
    \[The answer is the long passage from the Sâma*ññ*a-phala, § 40, [p.
-62](dob-02tx.htm#text%20p.%2062) (of the text), down to § 75 (p. 74), on
+62](dob-02tx.htm#text%20p.%2062) (of the text), down to § 75 (p. 74.md), on
 the First *Gh*âna, as follows;--
 
    1. The Introductory paragraphs on the appearance of a Buddha, his
@@ -479,11 +479,11 @@ of greater fruit and greater advantage than the previous sacrifices.'
 
    \[The same is then said of the Second, Third, and Fourth *Gh*ânas, in
 succession (as in the Sâma*nn*a-phala, [§§
-77-82](dob-02tx.htm#p.%2085)), and of the Insight arising from knowledge
-(ibid. [§§ 83, 84](dob-02tx.htm#p.%2086)), and further (omitting direct
-mention either way of [§§ 85-96](dob-02tx.htm#p.%2087) inclusive) of the
+77-82](dob-02tx.htm#p.%2085).md), and of the Insight arising from knowledge
+(ibid. [§§ 83, 84](dob-02tx.htm#p.%2086).md), and further (omitting direct
+mention either way of [§§ 85-96](dob-02tx.htm#p.%2087) inclusive.md) of the
 knowledge of the destruction of the Âsavas, the deadly intoxications or
-floods (ibid. [§§ 97-98](dob-02tx.htm#text%20p.%2092)).\]
+floods (ibid. [§§ 97-98](dob-02tx.htm#text%20p.%2092).md).\]
 
    'And there is no sacrifice man can celebrate, O Brahman, higher and
 sweeter than this,'
@@ -559,5 +559,5 @@ Kû*t*adanta Sutta is ended.
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Introduction to the Mahâli
-Sutta](dob-06in)
+[Return to top](#top.md)   [Next: Introduction to the Mahâli
+Sutta](dob-06in.md)

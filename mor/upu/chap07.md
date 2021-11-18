@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap06) [Next](chap08)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap06) [Next](chap08.md)
 
 ------------------------------------------------------------------------
 
@@ -516,4 +516,4 @@ Committee on Privileges and Elections, 1904, Vol. 1, pages 110, 126,
 
 ------------------------------------------------------------------------
 
-[Next: VIII The Church and the Interests](chap08)
+[Next: VIII The Church and the Interests](chap08.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl04)  [Next](irl06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl04)  [Next](irl06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -65,7 +65,7 @@ To get the shuttle ship on its way gravity was neutralized by an upward
 beam of semi-penetrative force traveling at light speed which was turned
 on gradually until the car just floated in its cradle under the effect
 of the reverse friction to gravity of the force blast passing through
-the car. <span id="fr_18"></span>[19](#fn_18)
+the car. <span id="fr_18"></span>[19](#fn_18.md)
 
 When the weight of the car was thus reduced to less than a pound, I
 turned on the rocket blasts very gradually and traveled up the reverse
@@ -211,7 +211,7 @@ these is Quanto, on the very rim of this solar system."
 "A good choice," approved the big-heads. "But one that rouses our
 curiosity in your 'mechanical trick' to a high pitch. Obviously you know
 that Quanto is seventeen and one-third billion miles away." <span
-id="fr_19"></span>[20](#fn_19)
+id="fr_19"></span>[20](#fn_19.md)
 
 I could almost read their minds. "Yes. Weeks away at the speed of this
 ship—and we have no food."
@@ -401,7 +401,7 @@ We circled Mercury, straightening out on a direct path for Quanto,
 constantly accelerating until it was unnecessary to explain why lack of
 food did not worry me. The young Titan remarked: "We will be at Quanto
 within twenty-four hours. Already our speed is approaching that of
-light. <span id="fr_20"></span>[21](#fn_20)
+light. <span id="fr_20"></span>[21](#fn_20.md)
 
 <span id="page_49">p. 49</span>
 
@@ -425,7 +425,7 @@ knew I would become a man or die.
 
 ### Footnotes
 
-<span id="fn_18"></span>[38:19](irl05.htm#fr_18) Mutan Mion explains
+<span id="fn_18"></span>[38:19](irl05.htm#fr_18.md) Mutan Mion explains
 that gravity is the friction of condensing exd, ex-disentegrance,
 falling through matter into earth. By using a beam of similarly
 condensing particles of ex-disintegrance a harmless beam of upward
@@ -434,13 +434,13 @@ at immense speed. All space is filled with the ash from disintegrance of
 the suns of the universe. This, condensing again into matter, is
 integrance or gravity.—Ed.
 
-<span id="fn_19"></span>[42:20](irl05.htm#fr_19) Mutan Mion says this is
+<span id="fn_19"></span>[42:20](irl05.htm#fr_19.md) Mutan Mion says this is
 the eleventh and last planet of the solar system. The tenth (and yet
 undiscovered, though predicted by astronomers) is two billion miles
 beyond Pluto, which is itself nearly four billion miles from the
 sun.—Ed.
 
-<span id="fn_20"></span>[47:21](irl05.htm#fr_20) Mutan Mion, apparently,
+<span id="fn_20"></span>[47:21](irl05.htm#fr_20.md) Mutan Mion, apparently,
 holds no brief for the 'limit velocity" of light; or that the speed of
 light is the ultimate speed. According to Mr. Shaver's letters on the
 subject: "Light speed is due to 'escape velocity' on the sun, which is
@@ -486,7 +486,7 @@ under the influence of a magnetic field which draws the exd
 On Quanto, we knew, a group of Elder technicons from sunless Nor, a
 group of sunless planets 0.16 light years away, had lately established
 an observatory for the study of our planetary system. <span
-id="fr_21"></span>[22](#fn_21) It was these Elders I wished to contact
+id="fr_21"></span>[22](#fn_21.md) It was these Elders I wished to contact
 in my effort to enlist aid for our cause.
 
 Our trip to Quanto consumed slightly over twenty-four hours, the hunger
@@ -509,7 +509,7 @@ concerning this theory which are not necessary to the reader's
 understanding of this manuscript; but they are being prepared in a
 monograph which is to be submitted to scientific circles.—Ed.
 
-<span id="fn_21"></span>[48:22](irl05.htm#fr_21) Quanto lies beyond the
+<span id="fn_21"></span>[48:22](irl05.htm#fr_21.md) Quanto lies beyond the
 jurisdiction of Mu's government, which holds sway over all the planets
 of the solar system except this tiny world. Quanto is on the rim of Nor
 influence and is used by them as an observation station. Because of its
@@ -517,4 +517,4 @@ small size, it is unimportant to the government of Mu.—Ed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V, The Princess Vanue](irl06)
+[Next: Chapter V, The Princess Vanue](irl06.md)

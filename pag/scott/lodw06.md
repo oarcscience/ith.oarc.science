@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](lodw05)  [Next](lodw07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](lodw05)  [Next](lodw07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ This was the old opinion, as I rede
 I speake of many hundred years ago,  
 But now can no man see no elves mo.  
 For now the great charity and prayers  
-Of limitours, <span id="fr_38"></span>[39](#fn_38) and other holy
+Of limitours, <span id="fr_38"></span>[39](#fn_38.md) and other holy
 freres,  
 That searchen every land and every stream,  
 As thick as motes in the sunne-beam,  
@@ -76,7 +76,7 @@ Women may now go safely up and doun
 In every bush, and under every tree,  
 There is no other incubus than he,  
 And he ne will don them no dishonour." <span
-id="fr_39"></span>[40](#fn_39)  
+id="fr_39"></span>[40](#fn_39.md)  
 
       When we see the opinion which Chaucer has expressed of the regular
 clergy of his time, in some of his other tales, we are tempted to
@@ -150,7 +150,7 @@ pranks and feats, whence the concluding verse --
 "To William all give audience,  
 And pray ye for his noddle,  
 For all the fairies' evidence  
-Were lost if that were addle." <span id="fr_40"></span>[41](#fn_40)  
+Were lost if that were addle." <span id="fr_40"></span>[41](#fn_40.md)  
 
       This William Chourne appears to have attended Dr. Corbett's party
 on the *iter septentrionale,* "two of which were, and two desired to be,
@@ -176,7 +176,7 @@ But 'twas a gentle keeper, one that knew
 Humanity and manners, where they grew,  
 And rode along so far. tili he could say,  
 'See, yonder Bosworth stands, and this your way."'  <span
-id="fr_41"></span>[42](#fn_41)  
+id="fr_41"></span>[42](#fn_41.md)  
 
       In this passage the bishop plainly shows the fairies maintained
 their influence in William's imagination, since the courteous keeper was
@@ -185,7 +185,7 @@ spells resorted to to get rid of his supposed delusions are alternative
 that of turning the cloak -- (recommended in visions of the second-sight
 or similar illusions as a means of obtaining a certainty concerning the
 being which is before imperfectly seen  <span
-id="fr_42"></span>[43](#fn_42)) -- and that of exorcising the spirit
+id="fr_42"></span>[43](#fn_42).md) -- and that of exorcising the spirit
 with a cudgel which last, Corbett prudently thinks, ought not to be
 resorted to unless under an absolute conviction that the exorcist is the
 stronger party. Chaucer, therefore, could not be serious in averring
@@ -219,7 +219,7 @@ durst not to have passed by night but his hair would stand upright.
 Well, thanks be to God, this wretched and cowardly infidelity, since the
 preaching of the Gospel, is in part forgotten, and doubtless the rest of
 these illusions will in a short time, by God's grace, be detected and
-vanish away." <span id="fr_43"></span>[44](#fn_43)
+vanish away." <span id="fr_43"></span>[44](#fn_43.md)
 
       It would require a better demonologist than I am to explain the
 various obsolete superstitions which Reginald Scot has introduced as
@@ -247,7 +247,7 @@ delicacy; and I cannot discern, except, perhaps, from the insinuations
 of some scrupulous divines, that they were vassals to or in close
 alliance with the infernals, as there is too much reason to believe was
 the case with their North British sisterhood. <span
-id="fr_44"></span>[45](#fn_44) The common nursery story cannot be
+id="fr_44"></span>[45](#fn_44.md) The common nursery story cannot be
 forgotten, how, shortly after the death of what is called a nice tidy
 housewife, the Elfin band was shocked to see that a person of different
 character, with whom the widower had filled his deserted arms, instead
@@ -299,7 +299,7 @@ Robin Goodfellow, upon whom there have gone as many and as credible
 tales as witchcraft, saving that it hath not pleased the translators of
 tile Bible to call spirits by the name of Robin Goodfellow, as they have
 diviners, soothsayers, poisoners, and cozeners by the name of
-witches." <span id="fr_45"></span>[46](#fn_45) In the same tone Reginald
+witches." <span id="fr_45"></span>[46](#fn_45.md) In the same tone Reginald
 Scot addresses the reader in the preface: -- "To make a solemn suit to
 you that are partial readers to set aside partiality, to take in good
 part my writings, and with indifferent eyes to look upon my book, were
@@ -580,25 +580,25 @@ philosophy.
 
 ### Footnotes
 
-<span id="fn_38"></span>[39](lodw06.htm#fr_38) Friars limited to beg
+<span id="fn_38"></span>[39](lodw06.htm#fr_38.md) Friars limited to beg
 within a certain district.
 
-<span id="fn_39"></span>[40](lodw06.htm#fr_39) "Wife of Bath's Tale."
+<span id="fn_39"></span>[40](lodw06.htm#fr_39.md) "Wife of Bath's Tale."
 
-<span id="fn_40"></span>[41](lodw06.htm#fr_40) Corbett's Poems, edited
+<span id="fn_40"></span>[41](lodw06.htm#fr_40.md) Corbett's Poems, edited
 by Octavius Gilchrist, p. 213.
 
-<span id="fn_41"></span>[42](lodw06.htm#fr_41) Corbett's Poems, p. 191.
+<span id="fn_41"></span>[42](lodw06.htm#fr_41.md) Corbett's Poems, p. 191.
 
-<span id="fn_42"></span>[43](lodw06.htm#fr_42) A common instance is that
+<span id="fn_42"></span>[43](lodw06.htm#fr_42.md) A common instance is that
 of person haunted with resemblance whose face he cannot see. If turn his
 cloak or plaid, will obtain the full sight which he desires, and may
 probably find it to be own fetch, wraith, double-ganger.
 
-<span id="fn_43"></span>[44](lodw06.htm#fr_43) Reginald Scot's
+<span id="fn_43"></span>[44](lodw06.htm#fr_43.md) Reginald Scot's
 "Discovery of Witchcraft," book vii. chap. 15.
 
-<span id="fn_44"></span>[45](lodw06.htm#fr_44) Dr. Jackson, in his "
+<span id="fn_44"></span>[45](lodw06.htm#fr_44.md) Dr. Jackson, in his "
 Treatise on Unbelief," opines for the severe opinion, "Thus are the
 Fayries, from difference of events ascribed to them, divided into good
 and bad, when as it is but one and the same malignant fiend that meddles
@@ -606,9 +606,9 @@ in both; seeking sometimes to be feared, otherwhiles to he loued as God,
 for the bodily harmes or good turncs supposed to be in his power." --
 Jackson on Unbelief, p. 178, edit. 1625.
 
-<span id="fn_45"></span>[46](lodw06.htm#fr_45) Reginald Scot's
+<span id="fn_45"></span>[46](lodw06.htm#fr_45.md) Reginald Scot's
 "Discovery of Witchcraft," book, vii. chap. ii.
 
 ------------------------------------------------------------------------
 
-[Next: Letter 7](lodw07)
+[Next: Letter 7](lodw07.md)

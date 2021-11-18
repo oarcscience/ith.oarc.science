@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb27)  [Next](brfb29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb27)  [Next](brfb29.md) 
 
 </div>
 
@@ -196,6 +196,6 @@ knew whose husband was the most foolish.
 
 ------------------------------------------------------------------------
 
-[Next: Asmund and Signy](brfb29)
+[Next: Asmund and Signy](brfb29.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr15)  [Next](ppr17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr15)  [Next](ppr17.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ of the fathers of the gods; we worship thy spirit which is in us.
 
 ------------------------------------------------------------------------
 
-[Next: Prayer of the Sower (Finnish)](ppr17)
+[Next: Prayer of the Sower (Finnish)](ppr17.md)

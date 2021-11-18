@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](inca01)  [Next](inca03) 
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](inca01)  [Next](inca03.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ years.
 
 ------------------------------------------------------------------------
 
-[Next: The Festival of The Sun](inca03)
+[Next: The Festival of The Sun](inca03.md)

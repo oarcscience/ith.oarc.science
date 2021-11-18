@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft28)  [Next](efft30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft28)  [Next](efft30.md) 
 
 ------------------------------------------------------------------------
 
-# COLMAN GREY.  <span id="fr_35"></span>[1](#fn_35)
+# COLMAN GREY.  <span id="fr_35"></span>[1](#fn_35.md)
 
 A FARMER, who formerly lived on an estate in our vicinity, was returning
 one evening from a distant part of the farm, when, in crossing a
@@ -31,9 +31,9 @@ and was never afterwards heard of.
 
 ### Footnotes
 
-<span id="fn_35"></span>[1](efft29.htm#fr_35) *Choice Notes: Folk-Lore*,
+<span id="fn_35"></span>[1](efft29.htm#fr_35.md) *Choice Notes: Folk-Lore*,
 p. 73.
 
 ------------------------------------------------------------------------
 
-[Next: The King of the Cats](efft30)
+[Next: The King of the Cats](efft30.md)

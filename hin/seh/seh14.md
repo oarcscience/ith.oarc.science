@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh13)  [Next](seh15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh13)  [Next](seh15.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ hidden joy.
 
 ------------------------------------------------------------------------
 
-[Next: The Plague](seh15)
+[Next: The Plague](seh15.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal116)  [Next](njal118) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal116)  [Next](njal118.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ Thing-field, and fit up their booths.
 
 ------------------------------------------------------------------------
 
-[Next: 118. Asgrim And Njal's Sons Pray Men For Help](njal118)
+[Next: 118. Asgrim And Njal's Sons Pray Men For Help](njal118.md)

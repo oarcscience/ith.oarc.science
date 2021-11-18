@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](wos10)  [Next](wos12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](wos10)  [Next](wos12.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,13 +33,13 @@ Whence, then, did this ONLY-UNIVERSAL IDOLATRY originate? That it
 and the consecration of the symbolical serpent to so many of the heathen
 deities. The title Ors was conferred upon Terra, Vesta, Rhea, Cybele,
 Juno, Diana--and even Vulcan is called by Cicero, *Opas* <span
-id="fr_561"></span>[1](#fn_560).
+id="fr_561"></span>[1](#fn_560.md).
 
 In Grecian mythology, the symbolical serpent was sacred to Saturn,
 Jupiter, Apollo, Bacchus, Mars, Æsculapius, Rhea, Juno, Minerva, Diana,
 Ceres, and Proserpine--that is, the serpent was a sacred emblem of
 *nearly all the gods and goddesses* <span
-id="fr_562"></span>[2](#fn_561).
+id="fr_562"></span>[2](#fn_561.md).
 
 The same remark may be extended to the Theogonies of Egypt, Hindûstan,
 and Mexico--in all of which we find the serpent emblematic, not of *one*
@@ -77,7 +77,7 @@ and of the life of angels, was symbolically remembered and fatally
 celebrated in the orgies of Bacchus, where *serpents* crowned the heads
 of the Bacchantes, and the "Poculum Boni Dæmonis" circulated under the
 auspices of the Ophite hierogram chased upon its rim <span
-id="fr_563"></span>[1](#fn_562). But the most remarkable remembrance of
+id="fr_563"></span>[1](#fn_562.md). But the most remarkable remembrance of
 the power of the paradisiacal serpent is displayed in the position which
 he retains in Tartarus. A *cunodracontic* Cerberus guards the gates;
 *serpents* are coiled upon the chariot wheels of Proserpine; *serpents*
@@ -103,7 +103,7 @@ Bahar, is a remarkable rock, upon which is sculptured a figure of Veshnu
 reposing upon a serpent. This serpent is fabled to have been the goddess
 DEVI or ISI, who assumed the form to carry Veshnu over the deluge. The
 sleep of Veshnu indicates the period between *the two worlds* <span
-id="fr_564"></span>[1](#fn_563). May we not then infer that this legend
+id="fr_564"></span>[1](#fn_563.md). May we not then infer that this legend
 alludes to the existence of the sacred serpent in the world before the
 flood? And further, is it not probable, since this sacred serpent is
 confounded with ISI,
@@ -111,7 +111,7 @@ confounded with ISI,
 <span id="page_446">p. 446</span>
 
 \[paragraph continues\] (the Isis of Egypt--the Eve of Scripture <span
-id="fr_565"></span>[1](#fn_564)), that the tradition recognises THE
+id="fr_565"></span>[1](#fn_564).md), that the tradition recognises THE
 SERPENT OF PARADISE?
 
 The only worship which can vie with that of the serpent in antiquity or
@@ -127,7 +127,7 @@ Egyptian mythology informs us, that HELIUS (*the sun*) was the first of
 the Egyptian gods; for in early history, kings and gods are generally
 confounded. But Helius married OPS, *the serpent deity!* and became
 father of Osiris, Isis, Typhon, Apollo, and Venus <span
-id="fr_566"></span>[2](#fn_565): a tradition
+id="fr_566"></span>[2](#fn_565.md): a tradition
 
 <span id="page_447">p. 447</span>
 
@@ -156,10 +156,10 @@ The reviver of Ophiolatreia, after the flood, must have been one of the
 family of Noah; for so high can we trace its post-diluvian history.
 Sanchoniathon tells us, that "SATURN, coming into the south country,
 gave the whole of Egypt to THE GOD TAAUTUS for his kingdom <span
-id="fr_567"></span>[1](#fn_566)."
+id="fr_567"></span>[1](#fn_566.md)."
 
 Now Taautus was the inventor of post-diluvian Ophiolatreia <span
-id="fr_568"></span>[2](#fn_567); and since Saturn was Noah, according to
+id="fr_568"></span>[2](#fn_567.md); and since Saturn was Noah, according to
 every system for the interpretation of mythology, it is historically
 certain that, during the lifetime of this patriarch, or shortly after
 his death, THE WORSHIP OF THE SERPENT was revived in Egypt.
@@ -244,7 +244,7 @@ navigation.
 
 It appears, then, that no nations were so geographically remote, or so
 religiously discordant, but that one--and ONLY ONE <span
-id="fr_569"></span>[1](#fn_568)--superstitious characteristic was common
+id="fr_569"></span>[1](#fn_568.md)--superstitious characteristic was common
 to all: that the most civilized and the most barbarous bowed down with
 the same devotion to the same engrossing deity; and that this deity
 either *was*, or was *represented by*, the same SACRED SERPENT.
@@ -311,7 +311,7 @@ For what was this faith in respect of THE VANQUISHED SERPENT, and the
 TRIUMPHANT GOD?--APOLLO slays *Python*; HERCULES, *the Hesperian
 dragon*; CRISHNA, *the king of the Nagas*; and THOR, "*the serpent which
 is cast into the sea*," But Apollo for his victory is doomed "*to depart
-from the world* <span id="fr_570"></span>[1](#fn_569);" Hercules and
+from the world* <span id="fr_570"></span>[1](#fn_569.md);" Hercules and
 Crishna are *bitten by the serpent*; the former in the HEEL! while Thor
 gains the victory *only with his life*. Yet Apollo, Hercules, Crishna,
 and Thor, are all INCARNATE DEITIES!
@@ -334,11 +334,11 @@ accumulated miseries.
 
 To the serpent God said, "*I will put enmity between thee and the woman,
 and between thy seed and her seed; it shall bruise thy head, and thou
-shalt bruise his heel* <span id="fr_571"></span>[1](#fn_570)." Darkly as
+shalt bruise his heel* <span id="fr_571"></span>[1](#fn_570.md)." Darkly as
 this promise may have conveyed the hope, that a hope of redemption *was*
 effectually conveyed by it, we have every reason to believe, from the
 mere fact that "*the days of Adam were nine hundred and thirty years,
-and he died* <span id="fr_572"></span>[2](#fn_571)." He died at an age
+and he died* <span id="fr_572"></span>[2](#fn_571.md)." He died at an age
 to which he could not, humanly calculating, have arrived, had his life
 been so wretched as the fall from innocence and the curse of God would
 have made it, had that fall been irrecoverable, and
@@ -376,28 +376,28 @@ REDEMPTION.
 
 ### Footnotes
 
-<span id="fn_560"></span>[442:1](wos11.htm#fr_561) Bryant, i. 61.
+<span id="fn_560"></span>[442:1](wos11.htm#fr_561.md) Bryant, i. 61.
 
-<span id="fn_561"></span>[442:2](wos11.htm#fr_562) *Just. Mart.* Apol i.
+<span id="fn_561"></span>[442:2](wos11.htm#fr_562.md) *Just. Mart.* Apol i.
 60.
 
-<span id="fn_562"></span>[444:1](wos11.htm#fr_563) See Archæol. vol. 7.
+<span id="fn_562"></span>[444:1](wos11.htm#fr_563.md) See Archæol. vol. 7.
 
-<span id="fn_563"></span>[445:1](wos11.htm#fr_564) See "Ophiol. in
+<span id="fn_563"></span>[445:1](wos11.htm#fr_564.md) See "Ophiol. in
 Hindûstan."
 
-<span id="fn_564"></span>[446:1](wos11.htm#fr_565) See
+<span id="fn_564"></span>[446:1](wos11.htm#fr_565.md) See
 "FABLES"--*Typon*.
 
-<span id="fn_565"></span>[446:2](wos11.htm#fr_566) Euseb. Præp. Evang.
+<span id="fn_565"></span>[446:2](wos11.htm#fr_566.md) Euseb. Præp. Evang.
 p. 45, citing Manetho.
 
-<span id="fn_566"></span>[448:1](wos11.htm#fr_567) Apud. Euseb. Præp.
+<span id="fn_566"></span>[448:1](wos11.htm#fr_567.md) Apud. Euseb. Præp.
 Ev. p. 39.
 
-<span id="fn_567"></span>[448:2](wos11.htm#fr_568) ibid.
+<span id="fn_567"></span>[448:2](wos11.htm#fr_568.md) ibid.
 
-<span id="fn_568"></span>[452:1](wos11.htm#fr_569) It is but justice to
+<span id="fn_568"></span>[452:1](wos11.htm#fr_569.md) It is but justice to
 the reader to state that Mr. Faber objects to this *exclusiveness* which
 I have attributed to the universality of serpent-worship:--"It formed
 part of a regular system," he observes, "which *system* was *universal*;
@@ -408,13 +408,13 @@ supreme deity, there are no traces of any dæmon-worship or Sabianism.
 Whereas in *every* country where the SUN was an object of idolatry, the
 SERPENT was also venerated as divine.
 
-<span id="fn_569"></span>[455:1](wos11.htm#fr_570) Plutarch de def.
+<span id="fn_569"></span>[455:1](wos11.htm#fr_570.md) Plutarch de def.
 Orac.
 
-<span id="fn_570"></span>[456:1](wos11.htm#fr_571) Gen. iii. 15.
+<span id="fn_570"></span>[456:1](wos11.htm#fr_571.md) Gen. iii. 15.
 
-<span id="fn_571"></span>[456:2](wos11.htm#fr_572) Gen. v. 5.
+<span id="fn_571"></span>[456:2](wos11.htm#fr_572.md) Gen. v. 5.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Concluding Remarks on the Redemption of Man.](wos12)
+[Next: Chapter IX. Concluding Remarks on the Redemption of Man.](wos12.md)

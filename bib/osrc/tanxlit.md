@@ -1,6 +1,6 @@
 <div align="center">
 
-[Intangible Textual Heritage](../../index) [Bible](../index)
+[Intangible Textual Heritage](../../index) [Bible](../index.md)
 
 </div>
 
@@ -9,7 +9,7 @@
 ### SYSTEM OF HEBREW TRANSLITERATION
 
 This page documents the system of Hebrew transliteration used in the
-right hand column of the [Tanach](../tan/index) at this site.
+right hand column of the [Tanach](../tan/index.md) at this site.
 
 ------------------------------------------------------------------------
 

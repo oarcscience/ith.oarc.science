@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -342,7 +342,7 @@ if thou dost bring him hither, none of the dead will be left to me."
 
    While Satan and Hades were thus talking together, there came a great
 voice like thunder, quoting [*Psalm* xxiv.
-7](../../bib/kjv/psa.htm#24:7). "And when Hades heard, he said to Satan,
+7](../../bib/kjv/psa.htm#24:7.md). "And when Hades heard, he said to Satan,
 'Go forth if thou art able and resist him.' Therefore Satan went forth.
 Then said Hades to his demons, 'secure well and firmly the brazen gates
 and the iron bars, and hold down my bolts, and stand upright and watch
@@ -421,4 +421,4 @@ known Tibetan translators of the 9th cetury (p. 527).\]
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Buddhist Articles](../../bud/etc/index)
+[Journals](../index) [Buddhist Articles](../../bud/etc/index.md)

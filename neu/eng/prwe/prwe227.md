@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe226)  [Next](prwe228) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe226)  [Next](prwe228.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ up in the farmhouse, where it often remains for three or four years.
 
 ------------------------------------------------------------------------
 
-[Next: Drinking the Apple-Trees on Twelfth-Night](prwe228)
+[Next: Drinking the Apple-Trees on Twelfth-Night](prwe228.md)

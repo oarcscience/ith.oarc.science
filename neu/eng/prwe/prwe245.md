@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe244)  [Next](prwe246) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe244)  [Next](prwe246.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ In the name of the Father," &c.
 
 ------------------------------------------------------------------------
 
-[Next: J - H - The Conjurer of St Columb](prwe246)
+[Next: J - H - The Conjurer of St Columb](prwe246.md)

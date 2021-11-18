@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe17)  [Next](toe19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe17)  [Next](toe19.md) 
 
 ------------------------------------------------------------------------
 
@@ -360,4 +360,4 @@ disgrace an agent possessed of wisdom and working with design.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Opinions examined with regard to Petrifaction, or
-Mineral Concretion](toe19)
+Mineral Concretion](toe19.md)

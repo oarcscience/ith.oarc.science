@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck11)  [Next](peck13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck11)  [Next](peck13.md) 
 
 ------------------------------------------------------------------------
 
@@ -285,4 +285,4 @@ River.
 
 ------------------------------------------------------------------------
 
-[Next: The First Kangaroo](peck13)
+[Next: The First Kangaroo](peck13.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](sos09)  [Next](sos11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](sos09)  [Next](sos11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Saucers*, by Orfeo M. Angelucci, \[1955\], at
 Intangible Textual Heritage
 
@@ -126,7 +126,7 @@ The intervening period was a total blank.
 Noticing a copy of the *Los Angeles Times* on one of the tables, I
 nervously picked it up and glanced at the date. Perspiration broke out
 on my forehead; the date of the paper was January 19, 1953. Seven
-[days](errata.htm#10) had elapsed of which I had absolutely no
+[days](errata.htm#10.md) had elapsed of which I had absolutely no
 recollection! But even the date on the paper couldn't convince me.
 Trying to keep my voice casual, I asked a worker at a nearby table. He
 confirmed the date on the newspaper.
@@ -401,7 +401,7 @@ slightly louder. Also, I saw brilliant slow-moving fireballs,
 
 <span id="page_97">p. 97</span>
 
-[bolides](errata.htm#11), vari-colored flares and showers of brilliant
+[bolides](errata.htm#11.md), vari-colored flares and showers of brilliant
 sparks.
 
 I was deeply puzzled, for all of this phenomena did not seem at all
@@ -525,7 +525,7 @@ as I thought of the magnificent world I had lost, the great heritage I
 had cast away to become a bondsman chained in a steel-like dungeon of
 dense matter with its erroneous manifestations of sin, sickness,
 corruption, evil, decay and repeated deaths. Sobs wracked my body as I
-[thought](errata.htm#12) of my blinded, lost fellows of Earth. At last I
+[thought](errata.htm#12.md) of my blinded, lost fellows of Earth. At last I
 murmured hesitantly: "Then all of the peoples of Earth have fallen from
 this former high estate?"
 
@@ -631,7 +631,7 @@ No servants waited upon the table. Yet it was laid out exquisitely with
 the most delicate plates and shimmering silverware. On each plate were
 three portions. A triangle portion of pale amber; as square portion of
 varying shades of green; and a round portion of
-[lavender](errata.htm#13). The beverage was clear and sparkling in a
+[lavender](errata.htm#13.md). The beverage was clear and sparkling in a
 crystal goblet. These strange
 
 <span id="page_105">p. 105</span>
@@ -889,4 +889,4 @@ similar), meaning "No, you have lost weight."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Trip East](sos11)
+[Next: Chapter IX. The Trip East](sos11.md)

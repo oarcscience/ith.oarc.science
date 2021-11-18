@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](rosa12)  [Next](rosa14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](rosa12)  [Next](rosa14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH64/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH64/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Samurai*, by Kaiten Nukariya, \[1913\], at
 Intangible Textual Heritage
 
@@ -258,4 +258,4 @@ customs and manners.\]
 ------------------------------------------------------------------------
 
 [Next: Chapter II: Refutation of Incomplete and Superficial
-(Doctrine)](rosa14)
+(Doctrine)](rosa14.md)

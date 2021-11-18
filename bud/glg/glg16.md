@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](glg15)  [Next](glg17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](glg15)  [Next](glg17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3WHK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3WHK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gateless Gate*, by Ekai, called Mu-mon, tr. Nyogen Senzaki and Paul
 Reps \[1934\], at Intangible Textual Heritage
 
@@ -43,4 +43,4 @@ And when they understand they are strangers*.
 
 ------------------------------------------------------------------------
 
-[Next: 17. The Three Calls of the Emperor's Teacher](glg17)
+[Next: 17. The Three Calls of the Emperor's Teacher](glg17.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](lus03)  [Next](lus05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](lus03)  [Next](lus05.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ of the noblest virtues; and, if the seeds of virtue are indeed in the
 heart, they often lie dormant, and even unknown to the savage possessor.
 The most beautiful description of a tribe of savages (which we may be
 assured is from real life) occurs in these words: <span
-id="fr_22"></span>[\*](#fn_22) And the five spies of Dan "came to Laish,
+id="fr_22"></span>[\*](#fn_22.md) And the five spies of Dan "came to Laish,
 and saw the people that were there, how they dwelt careless, after the
 manner of the Zidonians, quiet and secure; and there was no magistrate
 in the land, that might put them to shame in anything . . . ." And the
@@ -139,7 +139,7 @@ their own tribe constitutes their highest idea of virtue; but this
 virtue includes the most brutal depravity, makes them esteem the man of
 every other tribe as an enemy, as one with whom nature had placed them
 in a state of war, and had commanded to destroy. <span
-id="fr_23"></span>[\*](#fn_23) And to this principle their customs and
+id="fr_23"></span>[\*](#fn_23.md) And to this principle their customs and
 ideas of honour serve as rituals and ministers. The cruelties practised
 by the American savages on their prisoners of war (and war is their
 chief employment) convey every idea expressed by the word diabolical,
@@ -163,7 +163,7 @@ the proportionate attendants of ignorance and severe want. And ignorance
 and want are only removed by intercourse and the offices of society. So
 self-evident are these positions, that it requires an apology for
 insisting upon them; but the apology is at hand. He who has read knows
-how many eminent writers, <span id="fr_24"></span>[\*](#fn_24) and he
+how many eminent writers, <span id="fr_24"></span>[\*](#fn_24.md) and he
 who has conversed knows how many respectable names, connect the idea of
 innocence and happiness with the life of the savage and the unimproved
 rustic. To fix the character of the savage is therefore necessary, ere
@@ -201,7 +201,7 @@ The customs and cruelties of many American tribes still disgrace human
 nature, but in Paraguay and Canada the natives have been brought to
 relish the blessings of society, and the arts of virtuous and civil
 life. If Mexico is not so populous as it once was, neither is it so
-barbarous; <span id="fr_25"></span>[\*](#fn_25) the
+barbarous; <span id="fr_25"></span>[\*](#fn_25.md) the
 
 <span id="page_xl">p. xl</span>
 
@@ -285,7 +285,7 @@ of the Portuguese governors, and many of the English officers, have
 taught them that humanity to the conquered is the best, the truest
 policy. The brutal ferocity of their own conquerors is now the object of
 their greatest dread; and the superiority of the British in war has
-convinced their princes, <span id="fr_26"></span>[\*](#fn_26) that an
+convinced their princes, <span id="fr_26"></span>[\*](#fn_26.md) that an
 alliance with the British is the surest guarantee of their national
 peace and prosperity. While the English East India Company are possessed
 of their present greatness, it is in their power to diffuse over the
@@ -321,7 +321,7 @@ political philosopher be deemed an enthusiast who would boldly prophesy,
 that unless the British be driven from India the general superiority
 which they bear will, ere many generations shall have passed, induce the
 most intelligent of India to break the shackles of their absurd
-superstitions, <span id="fr_27"></span>[\*](#fn_27) and lead them to
+superstitions, <span id="fr_27"></span>[\*](#fn_27.md) and lead them to
 partake of those advantages which arise from the free scope and due
 cultivation of the rational powers. In almost every instance the Indian
 institutions are contrary to the feelings and wishes of nature. And
@@ -516,7 +516,7 @@ then severely felt, and two bad harvests in succession were almost
 insupportable. But commerce has now opened another scene, has armed
 government with the happiest power that can be exerted by the rulers of
 a nation--the power to prevent every extremity <span
-id="fr_28"></span>[\*](#fn_28) which may possibly arise from bad
+id="fr_28"></span>[\*](#fn_28.md) which may possibly arise from bad
 harvests; extremities, which, in former ages, were esteemed more
 dreadful visitations of the wrath of Heaven than the pestilence itself.
 Yet modern London is not so certainly defended against the latter, its
@@ -607,9 +607,9 @@ excessive, and murderous; that of a more polished one, much happier
 
 <span id="page_l">p. l</span>
 
-for the fair sex, <span id="fr_29"></span>[\*](#fn_29) and certainly in
+for the fair sex, <span id="fr_29"></span>[\*](#fn_29.md) and certainly in
 no sense so big with political unhappiness. If one disease has been
-imported from America, <span id="fr_30"></span>[†](#fn_30) the most
+imported from America, <span id="fr_30"></span>[†](#fn_30.md) the most
 valuable medicines have likewise been brought from these regions; and
 distempers, which were thought invincible by our forefathers, are now
 cured. If the luxuries of the Indies usher disease to our tables the
@@ -621,7 +621,7 @@ ages were not men of intellectual cultivation. The enlarged ideas, the
 generous and manly feelings inspired by a liberal education, were
 utterly unknown to them. Unformed by that wisdom which arises from
 science and true philosophy, they were gross barbarians, dressed in the
-mere outward tinsel of civilization. <span id="fr_31"></span>[‡](#fn_31)
+mere outward tinsel of civilization. <span id="fr_31"></span>[‡](#fn_31.md)
 Where the enthusiasm of military honour characterizes the rank of
 gentlemen that nation will rise into empire. But no sooner does conquest
 give a continued security than the mere soldier degenerates; and the old
@@ -645,7 +645,7 @@ much wider one of Portugal. Though the increase of wealth did, indeed,
 contribute to that corruption of manners which unnerved the Portuguese,
 certain it is the wisdom of legislature might certainly have prevented
 every evil which Spain and Portugal have experienced from their
-acquisitions in the two Indies. <span id="fr_32"></span>[\*](#fn_32)
+acquisitions in the two Indies. <span id="fr_32"></span>[\*](#fn_32.md)
 Every evil which they have suffered from their acquirements arose, as
 shall be hereafter demonstrated, from their general ignorance, which
 rendered them unable to investigate or apprehend even the first
@@ -665,10 +665,10 @@ other than that ascribed to his countrymen by Camoëns.
 
 ### Footnotes
 
-<span id="fn_22"></span>[xxxv:\*](lus04.htm#fr_22) Judges xviii. 7, 9,
+<span id="fn_22"></span>[xxxv:\*](lus04.htm#fr_22.md) Judges xviii. 7, 9,
 27, 28.
 
-<span id="fn_23"></span>[xxxvii:\*](lus04.htm#fr_23) This ferocity of
+<span id="fn_23"></span>[xxxvii:\*](lus04.htm#fr_23.md) This ferocity of
 savage manners affords a philosophical account how the most distant and
 inhospitable climes were first peopled. When a Romulus erects a monarchy
 and makes war on his neighbours, some naturally fly to the wilds. As
@@ -677,7 +677,7 @@ and thus from generation to generation, they who either dread just
 punishment or unjust oppression, fly farther and farther in search of
 that protection which is only to be found in civilized society.
 
-<span id="fn_24"></span>[xxxviii:\*](lus04.htm#fr_24) The author of that
+<span id="fn_24"></span>[xxxviii:\*](lus04.htm#fr_24.md) The author of that
 voluminous work, *Histoire Philosophique et Politique des Etablissements
 et du Commerce des Européens dans les deux Indes*, is one of the many
 who assert that savage life is happier than civil. His reasons are thus
@@ -703,7 +703,7 @@ of the civilized and the savage; a difference, all entirely to the
 disadvantage of society, that injustice which reigns in the inequality
 of fortunes and conditions.
 
-<span id="fn_25"></span>[xxxix:\*](lus04.htm#fr_25) The innocent
+<span id="fn_25"></span>[xxxix:\*](lus04.htm#fr_25.md) The innocent
 simplicity of the Americans in their conferences with the Spaniards, and
 the horrid cruelties they suffered from them, divert our view from their
 complete character. Almost everything was horrid in their civil customs
@@ -739,21 +739,21 @@ usual sacrifices, till priest and people were tired of their bloody
 religion.--See, for ample justification of these statements, the
 *Histories of the Conquest of Mexico and Peru*, by Prescott.--*Ed*.
 
-<span id="fn_26"></span>[xlii:\*](lus04.htm#fr_26) Mahommed Ali Khan,
+<span id="fn_26"></span>[xlii:\*](lus04.htm#fr_26.md) Mahommed Ali Khan,
 Nawab of the Carnatic, declared, "I met the British with that freedom of
 openness which they love, and I esteem it my honour as well as security
 to be the ally of such a nation of princes."
 
-<span id="fn_27"></span>[xliii:\*](lus04.htm#fr_27) Every man must
+<span id="fn_27"></span>[xliii:\*](lus04.htm#fr_27.md) Every man must
 follow his father’s trade, and must marry a daughter of the same
 occupation. Innumerable are their other barbarous restrictions of genius
 and inclination.
 
-<span id="fn_28"></span>[xlvii:\*](lus04.htm#fr_28) Extremity; for it
+<span id="fn_28"></span>[xlvii:\*](lus04.htm#fr_28.md) Extremity; for it
 were both highly unjust and impolitic in government to allow importation
 in such a degree as might be destructive of domestic agriculture.
 
-<span id="fn_29"></span>[l:\*](lus04.htm#fr_29) Even that warm admirer
+<span id="fn_29"></span>[l:\*](lus04.htm#fr_29.md) Even that warm admirer
 of savage happiness, the author of *Histoire Philosophique et Politique
 des Etablissements*, confesses that the wild Americans seem destitute of
 the feeling of love. When the heat of passion, says he, is gratified,
@@ -764,20 +764,20 @@ compassionate sentiments of honour; all these delicate feelings, which
 arise into affection, and bind attachment, are indeed, incompatible with
 the ferocious and gross sensations of barbarians.
 
-<span id="fn_30"></span>[l:†](lus04.htm#fr_30) It is a question still
+<span id="fn_30"></span>[l:†](lus04.htm#fr_30.md) It is a question still
 debated among medical writers, and by no means yet decided, whether the
 disease referred to is of American origin. We do not read, it is true,
 of any such disease in the pages of the ancient classic writers; it has
 hence been inferred that it was unknown to them.--*Ed*.
 
-<span id="fn_31"></span>[l:‡](lus04.htm#fr_31) The degeneracy of the
+<span id="fn_31"></span>[l:‡](lus04.htm#fr_31.md) The degeneracy of the
 Roman literature preceded the fate of the state, and the reason is
 obvious. The men of fortune grew frivolous, and superficial in every
 branch of knowledge, and were therefore unable to hold the reigns of
 empire. The degeneracy of literary taste is, therefore, the surest proof
 of the general ignorance.
 
-<span id="fn_32"></span>[li:\*](lus04.htm#fr_32) The soldiers and
+<span id="fn_32"></span>[li:\*](lus04.htm#fr_32.md) The soldiers and
 navigators were the only considerable gainers by their acquirements in
 the Indies. Agriculture and manufactures are the natural strength of a
 nation; these received little or no increase in Spain and Portugal by
@@ -785,4 +785,4 @@ the great acquisitions of these crowns.
 
 ------------------------------------------------------------------------
 
-[Next: Mickle’s Sketch of the History of the Discovery of India](lus05)
+[Next: Mickle’s Sketch of the History of the Discovery of India](lus05.md)

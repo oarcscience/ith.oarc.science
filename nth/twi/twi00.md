@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Next](twi01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Next](twi01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRL0Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Tune With the Infinite*, by Ralph Waldo Trine, \[1910\], at
 Intangible Textual Heritage
 
@@ -41,31 +41,31 @@ United States because it was published prior to 1923.
 
 <span id="img_cover"></span> <span align="CENTER"> [![Cover and
 Spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover and Spine  
 </span>
 
 <span id="img_jacket"></span> <span align="CENTER"> [![Dust
 Jacket](tn/jacket.jpg)  
-Click to enlarge](img/jacket.jpg)  
+Click to enlarge](img/jacket.jpg.md)  
 Dust Jacket  
 </span>
 
 <span id="img_front"></span> <span align="CENTER">
 [![Frontispiece](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
@@ -75,4 +75,4 @@ BY RALPH WALDO TRINE.
 
 ------------------------------------------------------------------------
 
-[Next: Front Matter](twi01)
+[Next: Front Matter](twi01.md)

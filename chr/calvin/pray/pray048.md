@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray047)  [Next](pray049) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray047)  [Next](pray049.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Textual Heritage
 #### <span id="iii.xlvi-p0.1"></span>46.
 
 <span id="iii.xlvi-p1"></span>The sixth petition corresponds (as we have
-observed) to the promise <span id="fr_25"></span>[26](#fn_25) of
+observed) to the promise <span id="fr_25"></span>[26](#fn_25.md) of
 *writing the law upon our hearts;* but because we do not obey God
 without a continual warfare, without sharp and arduous contests, we here
 pray that he would furnish us with armour, and defend us by his
@@ -29,9 +29,9 @@ The depraved conceptions of our minds provoking us to transgress the law
 temptations; and things which in their own nature are not evil, become
 temptations by the wiles of the devil, when they are presented to our
 eyes in such a way that the view of them makes us withdraw or decline
-from God. <span id="fr_26"></span>[27](#fn_26) These temptations are
+from God. <span id="fr_26"></span>[27](#fn_26.md) These temptations are
 both on the right hand and on the left. <span
-id="fr_27"></span>[28](#fn_27) On the right, when riches, power, and
+id="fr_27"></span>[28](#fn_27.md) On the right, when riches, power, and
 honours, which by their glare, and the semblance of good which they
 present, generally dazzle the eyes of men, and so entice by their
 blandishments, that, caught by their snares, and intoxicated by their
@@ -50,10 +50,10 @@ neither be inflated with prosperity, nor cast down by adversity. Here,
 however, we do not ask to be altogether exempted from temptation, which
 is very necessary to excite, stimulate, and urge us on, that we may not
 become too lethargic. It was not without reason that David wished to be
-tried, <span id="fr_28"></span>[29](#fn_28) nor is it without cause that
+tried, <span id="fr_28"></span>[29](#fn_28.md) nor is it without cause that
 the Lord daily tries his elect, chastising them by disgrace, poverty,
 tribulation, and other kinds of cross. <span
-id="fr_29"></span>[30](#fn_29) But the temptations of God and Satan are
+id="fr_29"></span>[30](#fn_29.md) But the temptations of God and Satan are
 very different: Satan tempts, that he may destroy, condemn, confound,
 throw headlong; God, that by proving his people he may make trial of
 their sincerity, and by exercising their strength confirm it; may
@@ -62,10 +62,10 @@ manner, would wanton and exult above measure. Besides, Satan attacks
 those who are unarmed and unprepared, that he may destroy them unawares;
 whereas whatever God sends, he "will with the temptation also make a way
 to escape, that ye may be able to bear it." <span
-id="fr_30"></span>[31](#fn_30) Whether by the term evil we understand
+id="fr_30"></span>[31](#fn_30.md) Whether by the term evil we understand
 the devil or sin, is not of the least consequence. Satan is indeed the
 very enemy who lays snares for our life, <span
-id="fr_31"></span>[32](#fn_31) but it is by sin that he is armed for our
+id="fr_31"></span>[32](#fn_31.md) but it is by sin that he is armed for our
 destruction.
 
 <span id="iii.xlvi-p2"></span>Our petition, therefore, is, that we may
@@ -86,7 +86,7 @@ swallow us up, did not the Lord rescue us from the midst of death; at
 the same time knowing that if the Lord is present and will fight for us
 while we stand by, through him "we shall do valiantly" (<span
 id="iii.xlvi-p2.1"></span>[Psalm
-60:12](../../../bib/kjv/psa060.htm#012)<span
+60:12](../../../bib/kjv/psa060.htm#012.md)<span
 id="iii.xlvi-p2.1"></span>). Let others if they will confide in the
 powers and resources of their free will which they think they possess;
 enough for us that we stand and are strong in the power of God alone.
@@ -99,7 +99,7 @@ with new supplies of divine grace, until completely replenished with
 them, we triumph over every evil. To some it seems rude and harsh to ask
 God not to lead us into temptation, since, as James declares (<span
 id="iii.xlvi-p2.2"></span>[James
-1:13](../../../bib/kjv/jam001.htm#013)<span id="iii.xlvi-p2.2"></span>),
+1:13](../../../bib/kjv/jam001.htm#013)<span id="iii.xlvi-p2.2"></span>.md),
 it is contrary to his nature to do so. This difficulty has already been
 partly solved by the fact that our concupiscence is the cause, and
 therefore properly bears the blame of all the temptations by which we
@@ -118,51 +118,51 @@ reprobate, and hardening their hearts.
 
 ### Footnotes
 
-<span id="fn_25"></span>[26](pray048.htm#fr_25) <span
+<span id="fn_25"></span>[26](pray048.htm#fr_25.md) <span
 id="iii.xlvi-p1.1"></span>The French adds, "<span
 id="iii.xlvi-p1.2"></span>que Dieu nous a donnee et faite;"—which God
 has given and performed to us.
 
-<span id="fn_26"></span>[27](pray048.htm#fr_26) <span
+<span id="fn_26"></span>[27](pray048.htm#fr_26.md) <span
 id="iii.xlvi-p1.3"></span><span id="iii.xlvi-p1.4"></span>[Jas.
-1:2](../../../bib/kjv/jam001.htm#002),
-[14](../../../bib/kjv/jam001.htm#014)<span id="iii.xlvi-p1.4"></span>;
+1:2](../../../bib/kjv/jam001.htm#002.md),
+[14](../../../bib/kjv/jam001.htm#014.md)<span id="iii.xlvi-p1.4"></span>;
 <span id="iii.xlvi-p1.5"></span>[Matt.
-4:1](../../../bib/kjv/mat004.htm#001),
-[3](../../../bib/kjv/mat004.htm#003)<span id="iii.xlvi-p1.5"></span>;
+4:1](../../../bib/kjv/mat004.htm#001.md),
+[3](../../../bib/kjv/mat004.htm#003.md)<span id="iii.xlvi-p1.5"></span>;
 <span id="iii.xlvi-p1.6"></span>[1 Thessalonians
-3:5](../../../bib/kjv/th1003.htm#005)<span id="iii.xlvi-p1.6"></span>.
+3:5](../../../bib/kjv/th1003.htm#005.md)<span id="iii.xlvi-p1.6"></span>.
 
-<span id="fn_27"></span>[28](pray048.htm#fr_27) <span
+<span id="fn_27"></span>[28](pray048.htm#fr_27.md) <span
 id="iii.xlvi-p1.7"></span><span id="iii.xlvi-p1.8"></span>[2 Cor.
-6:7](../../../bib/kjv/co2006.htm#007),
-[8](../../../bib/kjv/co2006.htm#008)<span id="iii.xlvi-p1.8"></span>.
+6:7](../../../bib/kjv/co2006.htm#007.md),
+[8](../../../bib/kjv/co2006.htm#008.md)<span id="iii.xlvi-p1.8"></span>.
 
-<span id="fn_28"></span>[29](pray048.htm#fr_28) <span
+<span id="fn_28"></span>[29](pray048.htm#fr_28.md) <span
 id="iii.xlvi-p1.9"></span><span id="iii.xlvi-p1.10"></span>[Psalm
-26:2](../../../bib/kjv/psa026.htm#002)<span id="iii.xlvi-p1.10"></span>.
+26:2](../../../bib/kjv/psa026.htm#002.md)<span id="iii.xlvi-p1.10"></span>.
 
-<span id="fn_29"></span>[30](pray048.htm#fr_29) <span
+<span id="fn_29"></span>[30](pray048.htm#fr_29.md) <span
 id="iii.xlvi-p1.11"></span><span id="iii.xlvi-p1.12"></span>[Genesis
-22:1](../../../bib/kjv/gen022.htm#001)<span id="iii.xlvi-p1.12"></span>;
+22:1](../../../bib/kjv/gen022.htm#001.md)<span id="iii.xlvi-p1.12"></span>;
 <span id="iii.xlvi-p1.13"></span>[Deuteronomy
-8:2](../../../bib/kjv/deu008.htm#002)<span id="iii.xlvi-p1.13"></span>;
+8:2](../../../bib/kjv/deu008.htm#002.md)<span id="iii.xlvi-p1.13"></span>;
 <span id="iii.xlvi-p1.14"></span>[Deuteronomy
-13:3](../../../bib/kjv/deu013.htm#003)<span id="iii.xlvi-p1.14"></span>.
+13:3](../../../bib/kjv/deu013.htm#003.md)<span id="iii.xlvi-p1.14"></span>.
 For the sense in which God is said to lead us into temptation, see the
 end of this section.
 
-<span id="fn_30"></span>[31](pray048.htm#fr_30) <span
+<span id="fn_30"></span>[31](pray048.htm#fr_30.md) <span
 id="iii.xlvi-p1.15"></span><span id="iii.xlvi-p1.16"></span>[1
-Corinthians 10:13](../../../bib/kjv/co1010.htm#013)<span
+Corinthians 10:13](../../../bib/kjv/co1010.htm#013.md)<span
 id="iii.xlvi-p1.16"></span>; <span id="iii.xlvi-p1.17"></span>[2 Peter
-2:9](../../../bib/kjv/pe2002.htm#009)<span id="iii.xlvi-p1.17"></span>2
+2:9](../../../bib/kjv/pe2002.htm#009.md)<span id="iii.xlvi-p1.17"></span>2
 Pet. 2:9.
 
-<span id="fn_31"></span>[32](pray048.htm#fr_31) <span
+<span id="fn_31"></span>[32](pray048.htm#fr_31.md) <span
 id="iii.xlvi-p1.18"></span><span id="iii.xlvi-p1.19"></span>[1 Peter
-5:8](../../../bib/kjv/pe1005.htm#008)<span id="iii.xlvi-p1.19"></span>.
+5:8](../../../bib/kjv/pe1005.htm#008.md)<span id="iii.xlvi-p1.19"></span>.
 
 ------------------------------------------------------------------------
 
-[Next: 47.](pray049)
+[Next: 47.](pray049.md)

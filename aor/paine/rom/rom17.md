@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Thomas Paine](../index)  [Index](index) 
-[Previous](rom16)  [Next](rom18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Thomas Paine](../index)  [Index](index.md) 
+[Previous](rom16)  [Next](rom18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ Thomas Paine
 
 ------------------------------------------------------------------------
 
-[Next: Notes](rom18)
+[Next: Notes](rom18.md)

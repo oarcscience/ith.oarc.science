@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr65)  [Next](corr67) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr65)  [Next](corr67.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 ### LETTER LXVIII. (LXVI.)
 
-#### SPINOZA TO \* \* \* \*. <span id="fr_72"></span>[1](#fn_71)
+#### SPINOZA TO \* \* \* \*. <span id="fr_72"></span>[1](#fn_71.md)
 
 \[*In this fragment of a letter Spinoza refers his friend to Ethics*, I.
 x. *and* II. vii. *note*.\]
@@ -39,8 +39,8 @@ The Hague, 18 August, 1675.
 
 ### Footnotes
 
-<span id="fn_71"></span>[401:1](corr66.htm#fr_72) Tschirnhausen.
+<span id="fn_71"></span>[401:1](corr66.htm#fr_72.md) Tschirnhausen.
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXVIII.A. From G. H. Schaller](corr67)
+[Next: Letter LXVIII.A. From G. H. Schaller](corr67.md)

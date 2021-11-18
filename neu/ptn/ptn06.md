@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ptn05)  [Next](ptn07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ptn05)  [Next](ptn07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Popular Tales from the Norse*, by George Webbe Dasent, \[1904\], at
 Intangible Textual Heritage
 
@@ -70,7 +70,7 @@ a supposition as absurd as that of those good country-folk, who, when
 they see an Aurora, fancy it must be a great fire, the work of some
 incendiary, and send off the parish engine to put it out. No! when we
 find in such a story as "The Master Thief" traits which are to be found
-in the Sanscrit *Hitopadesa*, <span id="fr_21"></span>[1](#fn_21) and
+in the Sanscrit *Hitopadesa*, <span id="fr_21"></span>[1](#fn_21.md) and
 which
 
 <span id="page_lx">p. lx</span>
@@ -111,15 +111,15 @@ without hurting the child. Eindridi is ready, but declares he will
 revenge himself if the child is hurt. The king has the first shot, and
 his arrow strikes close to the tablet. Then Eindridi is to shoot, but at
 the prayers of his mother and sister, refuses the shot, and has to yield
-and be converted. <span id="fr_22"></span>[1](#fn_22) So, also, King
+and be converted. <span id="fr_22"></span>[1](#fn_22.md) So, also, King
 Harold Sigurdarson, who died 1066, backed himself against a famous
 marksman, Hemingr, and ordered him to shoot a hazel-nut off the head of
 his brother Björn, and Hemingr performed the feat. <span
-id="fr_23"></span>[2](#fn_23) In the middle of the fourteenth century,
+id="fr_23"></span>[2](#fn_23.md) In the middle of the fourteenth century,
 the *Malleus Maleficarum* refers it to Puncher, a magician of the Upper
 Rhine. Here in England, we have it in the old English ballad of Adam
 Bell, Clym. of the Clough, and William of Cloudesly, where William
-performs the feat. <span id="fr_24"></span>[3](#fn_24) It is not told at
+performs the feat. <span id="fr_24"></span>[3](#fn_24.md) It is not told at
 all of Tell in Switzerland before the year 1499, and the earlier Swiss
 chronicles omit it altogether. It is common to the Turks and Mongolians;
 and a legend of the wild Samoyeds, who never heard of Tell
@@ -133,7 +133,7 @@ that it only crystallised itself round the great name of Tell by that
 process of attraction which invariably leads a grateful people to throw
 such mythic wreaths, such garlands of bold deeds of precious memory,
 round the brow of its darling champion. <span
-id="fr_25"></span>[1](#fn_25)
+id="fr_25"></span>[1](#fn_25.md)
 
 <span id="page_lxiii">p. lxiii</span>
 
@@ -157,7 +157,7 @@ the *Pantcha-Tantra*, in the *Hitopadesa*, in Bidpai's
 Arabic original of the Seven Wise Masters,—that famous collection of
 stories which illustrate a stepdame's calumny and hate—and in many
 medieval versions of those originals. <span
-id="fr_26"></span>[1](#fn_26) Thence it passed into the Latin *Gesta
+id="fr_26"></span>[1](#fn_26.md) Thence it passed into the Latin *Gesta
 Romanorum*, where, as well as in the Old English version published by
 Sir Frederick Madden, it may be read as a
 
@@ -317,7 +317,7 @@ lengthened story," in order to amuse his mistress, the Queen of
 Cashmere. Somadeva's collection has only been recently known and
 translated. But west the story certainly came long before, and in the
 extreme north-west we still find it in these Norse Tales in "The Three
-Princesses of Whiteland," [p. 181](ptn36.htm#page_181).
+Princesses of Whiteland," [p. 181](ptn36.htm#page_181.md).
 
 "'Well!' said the man, 'as this is so, I'll give you a bit of advice.
 Hereabouts, on a moor, stand three brothers, and there they have stood
@@ -358,15 +358,15 @@ them run a race for it, but meanwhile puts it on and vanishes from their
 sight. A little further on he meets another group, who are quarrelling
 for a pair of boots, the wearer of which can wish himself whithersoever
 he pleases, and gains possession of them in the same way. <span
-id="fr_27"></span>[1](#fn_27)
+id="fr_27"></span>[1](#fn_27.md)
 
 Nor in one Norse tale alone, but in many, we find traces of these three
 wonderful things, or of things like them. They are very like the cloth,
 the ram, and the stick, which the lad got from the North Wind instead of
 his meal. Very like, too, the cloth, the scissors, and the tap, which
-will be found in [p. 252](ptn46.htm#page_252), "The Best Wish." If we
+will be found in [p. 252](ptn46.htm#page_252.md), "The Best Wish." If we
 drop the number three, we find the Boots again in "Soria Moria Castle,"
-[p. 396](ptn66.htm#page_396). Leaving the Norse Tales, we see at once
+[p. 396](ptn66.htm#page_396.md). Leaving the Norse Tales, we see at once
 that they are the seven-league boots of Jack the Giant Killer. In the
 Nibelungen Lied, when Siegfried finds Schilbung and Niblung, the weird
 heirs of the famous "Hoard," striving for the possession of that heap of
@@ -379,7 +379,7 @@ possession of he *tarnhut*, the "cloak of darkness," which gave its
 
 wearer the strength of twelve men, and enabled him to go where he would
 unseen, and which was the great prize among the treasures of the
-dwarfs; <span id="fr_28"></span>[1](#fn_28) who is there that does not
+dwarfs; <span id="fr_28"></span>[1](#fn_28.md) who is there that does not
 see the broken fragments of that old Eastern story of the heirs
 struggling for their inheritance, and calling in the aid of some one of
 better wit or strength, who ends by making the very prize for which they
@@ -388,7 +388,7 @@ fight his own?
 And now to return for a moment to *Calila* and *Dimna*, and "The Seven
 Sages." Since we have seen that there are other stories, and many of
 them, for this is by no means the only resemblance to be found in
-*Somadeva's* book <span id="fr_29"></span>[2](#fn_29) which are common
+*Somadeva's* book <span id="fr_29"></span>[2](#fn_29.md) which are common
 to the Eastern and
 
 <span id="page_lxxiv">p. lxxiv</span>
@@ -404,7 +404,7 @@ West? That they came from the East is certain; but by what
 way?—certainly not by translation or copying, for they had travelled
 west long before translations were thought of. How was it that
 Themistius, a Greek orator of the fourth century, <span
-id="fr_30"></span>[1](#fn_30) had heard of that fable of the lion, fox,
+id="fr_30"></span>[1](#fn_30.md) had heard of that fable of the lion, fox,
 and bull, which is in substance the same as that of the lion, the bull,
 and the two jackals in the *Pantcha-Tantra* and the *Hitopadesa*? How,
 but along the path of that primeval Aryan migration, and by that deep
@@ -443,7 +443,7 @@ of each race by natural objects and every-day events, and these might
 spring up spontaneously all over the earth as home growths, neither
 derived by imitation from other tribes, nor from seeds of common
 tradition shed from a common stock. Such resemblances have been well
-compared by William Grimm <span id="fr_31"></span>[1](#fn_31) to
+compared by William Grimm <span id="fr_31"></span>[1](#fn_31.md) to
 
 <span id="page_lxxvi">p. lxxvi</span>
 
@@ -456,9 +456,9 @@ arises a like impression on the mind, if we find the same tradition in
 two tribes at the opposite ends of the earth, as is produced by meeting
 twin brothers, one in Africa and the other in Asia; we say at once, "I
 know you are so-and-so's brother, you are so like him." Take an
-instance: In these Norse Tales, [p. 172](ptn33.htm#page_172), we are
+instance: In these Norse Tales, [p. 172](ptn33.htm#page_172.md), we are
 told how it was the bear came to have a stumpy tail, and in an African
-tale <span id="fr_32"></span>[1](#fn_32) we find how it was the hyæna
+tale <span id="fr_32"></span>[1](#fn_32.md) we find how it was the hyæna
 became tailless and earless. Now, the tailless condition both of the
 bear and the hyæna could scarcely fail to attract attention in a race of
 hunters, and we might expect that popular tradition would attempt to
@@ -488,7 +488,7 @@ weasel said again to it, 'Pull,' it pulled, but could not draw it out;
 so it became vexed, and on pulling with force, its tail broke. The tail
 being torn out, the weasel was no more seen by the hyæna: the weasel was
 hidden in the hole with its meat, and the hyæna saw it not." <span
-id="fr_33"></span>[1](#fn_33)
+id="fr_33"></span>[1](#fn_33.md)
 
 Here we have a fact in natural history accounted for, but accounted for
 in such a peculiar way as shews that the races among which they are
@@ -510,7 +510,7 @@ doubts what to do, he hears the cock say to the house-dog, "Our master
 is not wise; I have fifty hens who obey me; if he followed my advice,
 he'd just take a good stick, shut up his wife in a room with him, and
 give her a good cudgelling." The same story is told in Straparola <span
-id="fr_34"></span>[1](#fn_34) with so many variations as to show it is
+id="fr_34"></span>[1](#fn_34.md) with so many variations as to show it is
 no copy; it is also told in a Servian popular tale, with variations of
 its own; and now here we find it in Bornou, as told by Kölle.
 
@@ -570,9 +570,9 @@ the abode of the Israelites in Egypt? and how is it that that same
 Egyptian tale has other traits which remind us of the Dun Bull in "Katie
 Woodencloak," as well as incidents which are the germ of stories long
 since reduced to writing in Norse Sagas of the twelfth and thirteenth
-centuries? <span id="fr_35"></span>[1](#fn_35) How is it that we still
+centuries? <span id="fr_35"></span>[1](#fn_35.md) How is it that we still
 find among the Negroes in the West Indies <span
-id="fr_36"></span>[2](#fn_36) a rich store of popular tales, and the
+id="fr_36"></span>[2](#fn_36.md) a rich store of popular tales, and the
 Beast Epic in full bloom, brought with them from Africa to the islands
 of the West; and among those tales and traditions, how is it that we
 find a "Wishing Tree," the counterpart of that in a German popular tale,
@@ -588,7 +588,7 @@ very groundwork, nay the very words, that we meet in "Bushy Bride,"
 another Norse tale? How is it that we find a Mongolian tale, which came
 confessedly from India, made up of two of our Norse Tales, "Rich Peter
 the Pedlar," and "The Giant that had no heart in his body"? <span
-id="fr_37"></span>[1](ptn07.htm#fn_37) How should all these things be,
+id="fr_37"></span>[1](ptn07.htm#fn_37.md) How should all these things be,
 and how could they possibly be, except on that theory which day by day
 becomes more and more a matter of fact: this, that the whole human race
 sprung from one stock, planted in the East, which has stretched out its
@@ -600,7 +600,7 @@ of the earth.
 
 ### Footnotes
 
-<span id="fn_21"></span>[lix:1](ptn06.htm#fr_21) "A Brahmin, who had
+<span id="fn_21"></span>[lix:1](ptn06.htm#fr_21.md) "A Brahmin, who had
 vowed a sacrifice, went to the market to buy a goat. Three thieves saw
 him, and wanted to get hold of the goat. They stationed themselves at
 intervals on the high-road. When the Brahmin, who carried the goat on
@@ -623,15 +623,15 @@ rimane." In which tale the beginning is a parallel to the first part of
 "The Master Thief," while the end answers exactly to the Norse tale
 added in this edition, and called "Big Peter and Little Peter."
 
-<span id="fn_22"></span>[lxi:1](ptn06.htm#fr_22) Forum. Sög., ii. 272.
+<span id="fn_22"></span>[lxi:1](ptn06.htm#fr_22.md) Forum. Sög., ii. 272.
 
-<span id="fn_23"></span>[lxi:2](ptn06.htm#fr_23) Müller's *Saga Bibl*.,
+<span id="fn_23"></span>[lxi:2](ptn06.htm#fr_23.md) Müller's *Saga Bibl*.,
 iii. 359.
 
-<span id="fn_24"></span>[lxi:3](ptn06.htm#fr_24) See the ballad in
+<span id="fn_24"></span>[lxi:3](ptn06.htm#fr_24.md) See the ballad in
 Percy's *Reliques*.
 
-<span id="fn_25"></span>[lxii:1](ptn06.htm#fr_25) The following are
+<span id="fn_25"></span>[lxii:1](ptn06.htm#fr_25.md) The following are
 translations from Saxo, the *Wilkina Saga*, and the *Malleus
 Maleficarum*. The question is completely set at rest by Grimm, D. M. p.
 353 fol. and p. 1214.
@@ -716,23 +716,23 @@ the boy, when I needs must die, I would have transfixed you suddenly
 with the other arrow, that even so I might have avenged my
 death.'"—*Malleus Malef*., P. ii. ch. 16.
 
-<span id="fn_26"></span>[lxv:1](ptn06.htm#fr_26) See *Pantcha-Tantra*,
+<span id="fn_26"></span>[lxv:1](ptn06.htm#fr_26.md) See *Pantcha-Tantra*,
 v. ii. of Wilson's Analysis, quoted by Loiseleur Deslongchamps, *Essai
 sur les Fables Indiennes*, Paris (Techener), 1838, p. 54, where the
 animal that protects the child is a mangouste (Viverra Mungo). See also
 *Hitopadesa*, Max Müller's Translation, Leipzig (Brockhaus), p. 178,
 where the guardian is an otter. In both the foe is a snake.
 
-<span id="fn_27"></span>[lxxii:1](ptn06.htm#fr_27) Moe: Introd.
+<span id="fn_27"></span>[lxxii:1](ptn06.htm#fr_27.md) Moe: Introd.
 xxxii.-iii.
 
-<span id="fn_28"></span>[lxxiii:1](ptn06.htm#fr_28) The account in the
+<span id="fn_28"></span>[lxxiii:1](ptn06.htm#fr_28.md) The account in the
 Nibelungen respecting the *tarnhut* is confused, and the text probably
 corrupt; but so much is plain, that Siegfried got it from Elberich in
 the struggle which ensued with Schilbung and Niblung, after he had
 shared the Hoard.
 
-<span id="fn_29"></span>[lxxiii:2](ptn06.htm#fr_29) Thus we find in it
+<span id="fn_29"></span>[lxxiii:2](ptn06.htm#fr_29.md) Thus we find in it
 the originals or the parallels of Grendel in Beowulf, of
 Rumpelstiltskin, of the recovery of the Bride by the ring dropped into
 the cup, as related in Soria Moria Castle, and other tales; of the
@@ -748,34 +748,34 @@ in many of their incidents as "East o' the Sun, and West o' <span
 id="page_lxxiv">p. lxxiv</span> the Moon," "The Three Princesses of
 Whiteland," and "Soria Moria Castle."
 
-<span id="fn_30"></span>[lxxiv:1](ptn06.htm#fr_30) J. Grimm: Reinhart
+<span id="fn_30"></span>[lxxiv:1](ptn06.htm#fr_30.md) J. Grimm: Reinhart
 Fuchs, cclxiii. Intr.
 
-<span id="fn_31"></span>[lxxv:1](ptn06.htm#fr_31) *Kinder- und
+<span id="fn_31"></span>[lxxv:1](ptn06.htm#fr_31.md) *Kinder- und
 Hausmärchen*, vol. iii., 3d ed., Göttingen, 1856; a volume worthy of the
 utmost attention.
 
-<span id="fn_32"></span>[lxxvi:1](ptn06.htm#fr_32) Kölle: *Kanuri
+<span id="fn_32"></span>[lxxvi:1](ptn06.htm#fr_32.md) Kölle: *Kanuri
 Proverbs and Fables*, London Church Missionary House, 1854. A book of
 great philological interest, and one which reflects great credit on the
 religious society by which it was published.
 
-<span id="fn_33"></span>[lxxvii:1](ptn06.htm#fr_33) *Kanuri Proverbs*,
+<span id="fn_33"></span>[lxxvii:1](ptn06.htm#fr_33.md) *Kanuri Proverbs*,
 p. 167.
 
-<span id="fn_34"></span>[lxxviii:1](ptn06.htm#fr_34) Notte Duodecima.
+<span id="fn_34"></span>[lxxviii:1](ptn06.htm#fr_34.md) Notte Duodecima.
 Favola terza. "Federigo da Pozzuolo che intendeva il linguaggio de gli
 animali, astretto dalla moglie dirle un segreto, quella stranamente
 battè."
 
-<span id="fn_35"></span>[lxxx:1](ptn06.htm#fr_35) The Story of the Two
+<span id="fn_35"></span>[lxxx:1](ptn06.htm#fr_35.md) The Story of the Two
 Brothers Anesou and Satou, from the D'Orbiney Papyrus, by De Rougé:
 Paris, 1852.
 
-<span id="fn_36"></span>[lxxx:2](ptn06.htm#fr_36) See the Ananzi Stories
+<span id="fn_36"></span>[lxxx:2](ptn06.htm#fr_36.md) See the Ananzi Stories
 in the Appendix, which have been taken down from the mouth of a West
 Indian nurse.
 
 ------------------------------------------------------------------------
 
-[Next: Norse Mythology](ptn07)
+[Next: Norse Mythology](ptn07.md)

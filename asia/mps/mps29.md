@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps28) 
-[Next](mps30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps28.md) 
+[Next](mps30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -57,16 +57,16 @@ never hurt! A knife cannot cure a wound; it cuts or causes a swelling."
 he laments to the sky, he speaks; to the sun he says: "O sun, to thee I
 pray, thou mighty of the mightiest mights, who exaltest the humble,
 givest sovereignty, happiness (?); part me not from my beloved, turn not
-my day to night!" <span id="fr_20"></span>[1](#fn_20)
+my day to night!" <span id="fr_20"></span>[1](#fn_20.md)
 
 <span class="margnote"><span id="938">938</span></span>"Come, O
-Zual, <span id="fr_21"></span>[2](#fn_21) add tear to tear, woe to woe;
+Zual, <span id="fr_21"></span>[2](#fn_21.md) add tear to tear, woe to woe;
 dye my heart black, give me to thick gloom, heap upon me a heavy load of
 grief as on an ass; (but) say to her: 'Forsake him not! Thine he is, and
 for thee he weeps.'
 
 <span class="margnote"><span id="939">939</span></span>"O
-Musht’har, <span id="fr_22"></span>[3](#fn_22) I entreat thee, thou
+Musht’har, <span id="fr_22"></span>[3](#fn_22.md) I entreat thee, thou
 just, perfect judge, come and do justice, heart takes counsel with
 heart; twist not justice, destroy not thus thy soul. I am righteous,
 judge me, why wouldst thou wound afresh me
@@ -74,19 +74,19 @@ judge me, why wouldst thou wound afresh me
 <span id="page_151">p. 151</span>
 
 <span class="margnote"><span id="940">940</span></span>"Come, O
-Marikh, <span id="fr_23"></span>[1](#fn_23) mercilessly pierce me with
+Marikh, <span id="fr_23"></span>[1](#fn_23.md) mercilessly pierce me with
 thy spear, dye me and stain me red with the flow of blood; tell her my
 sufferings, let her hear them with the tongue; thou knowest what I am
 become, no longer my heart path joy."
 
 <span class="margnote"><span id="941">941</span></span>"Come,
-Aspiroz, <span id="fr_24"></span>[2](#fn_24) aid me somewhat; she has
+Aspiroz, <span id="fr_24"></span>[2](#fn_24.md) aid me somewhat; she has
 consumed me with the flame of fires, she who encircles the pearl (of her
 teeth) with lip of coral; thou beautifiest the fair with such charm (?
 as thine); one like me thou abandonest and maddenest."
 
 <span class="margnote"><span id="942">942</span></span>"Otarid! <span
-id="fr_25"></span>[3](#fn_25) save thee none other's fate is like to
+id="fr_25"></span>[3](#fn_25.md) save thee none other's fate is like to
 mine. The sun whirls me, lets me not go, unites with me and gives me
 over to burning. Sit down to write my woes! For ink I give thee a lake
 of tears, for pen I cut for thee a trim form, slim as a reed."
@@ -129,32 +129,32 @@ like a fount.
 creatures on earth came to applaud: game from the forest, fishes in the
 water, crocodiles in the sea, birds from the sky, from India, Arabia,
 Greece, Orientals and Occidentals, Russians, Persians, Franks and
-Egyptians from Misret’hi. <span id="fr_26"></span>[1](#fn_26)
+Egyptians from Misret’hi. <span id="fr_26"></span>[1](#fn_26.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_20"></span>[150:1](mps29.htm#fr_20) Invocation to the sun,
-[816](mps27.htm#816), [817](mps27.htm#817), [935](mps29.htm#935).
+<span id="fn_20"></span>[150:1](mps29.htm#fr_20.md) Invocation to the sun,
+[816](mps27.htm#816), [817](mps27.htm#817), [935](mps29.htm#935.md).
 
-<span id="fn_21"></span>[150:2](mps29.htm#fr_21) Saturn, planet of woe.
+<span id="fn_21"></span>[150:2](mps29.htm#fr_21.md) Saturn, planet of woe.
 
-<span id="fn_22"></span>[150:3](mps29.htm#fr_22) Jupiter, planet of
+<span id="fn_22"></span>[150:3](mps29.htm#fr_22.md) Jupiter, planet of
 justice.
 
-<span id="fn_23"></span>[151:1](mps29.htm#fr_23) Mars, planet of
+<span id="fn_23"></span>[151:1](mps29.htm#fr_23.md) Mars, planet of
 vengeance.
 
-<span id="fn_24"></span>[151:2](mps29.htm#fr_24) Hesperus, Venus, planet
+<span id="fn_24"></span>[151:2](mps29.htm#fr_24.md) Hesperus, Venus, planet
 of healing.
 
-<span id="fn_25"></span>[151:3](mps29.htm#fr_25) Mercury, planet of
+<span id="fn_25"></span>[151:3](mps29.htm#fr_25.md) Mercury, planet of
 learning.
 
-<span id="fn_26"></span>[152:1](mps29.htm#fr_26) Egypt.
+<span id="fn_26"></span>[152:1](mps29.htm#fr_26.md) Egypt.
 
 ------------------------------------------------------------------------
 
 [Next: XXVII. Of Avt’handil's Going to P’hridon's When He Parted From
-Tariel](mps30)
+Tariel](mps30.md)

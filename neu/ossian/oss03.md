@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss02)  [Next](oss04) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss02)  [Next](oss04.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,9 +83,9 @@ is the most literal version.
 FRAGMENT OF A NORTHERN TALE.
 
 WHERE Harold, with golden hair, spread o'er Lochlinn <span
-id="fr_26"></span>[1](#fn_26) his high commands; where, with justice, he
+id="fr_26"></span>[1](#fn_26.md) his high commands; where, with justice, he
 ruled the tribes, who sunk, subdued, beneath his sword; abrupt rises
-Gormal <span id="fr_27"></span>[2](#fn_27) in snow! the tempests roll
+Gormal <span id="fr_27"></span>[2](#fn_27.md) in snow! the tempests roll
 dark on his sides, but calm, above, his vast forehead appears.
 White-issuing from the skirt of his storms, the troubled torrents pour
 down his sides. Joining, as they roar along, they bear the Torno, in
@@ -197,11 +197,11 @@ beauties.
 
 ### Footnotes
 
-<span id="fn_26"></span>[40:1](oss03.htm#fr_26) Gaelic name of
+<span id="fn_26"></span>[40:1](oss03.htm#fr_26.md) Gaelic name of
 Scandinavia, or Scandinia
 
-<span id="fn_27"></span>[40:2](oss03.htm#fr_27) The mountains of Sevo
+<span id="fn_27"></span>[40:2](oss03.htm#fr_27.md) The mountains of Sevo
 
 ------------------------------------------------------------------------
 
-[Next: A Dissertation Concerning the Æra of Ossian](oss04)
+[Next: A Dissertation Concerning the Æra of Ossian](oss04.md)

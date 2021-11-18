@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](trw20)  [Next](trw22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](trw20)  [Next](trw22.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *The Revealing Word*, by Charles Fillmore, \[1959\], at Intangible
 Textual Heritage
 
@@ -435,4 +435,4 @@ perseverance toward perfection.
 
 ------------------------------------------------------------------------
 
-[Next: U](trw22)
+[Next: U](trw22.md)

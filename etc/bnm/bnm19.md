@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm18)  [Next](bnm20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm18)  [Next](bnm20.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ voice of the father wailing because he was so cruel.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Rabbit Is Timid.](bnm20)
+[Next: Why The Rabbit Is Timid.](bnm20.md)

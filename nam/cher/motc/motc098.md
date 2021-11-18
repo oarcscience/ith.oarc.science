@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc097) 
-[Next](motc099) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc097.md) 
+[Next](motc099.md) 
 
 ------------------------------------------------------------------------
 
@@ -164,4 +164,4 @@ stronger."--Arranged from Curtin, Seneca manuscript.
 
 ------------------------------------------------------------------------
 
-[Next: 99. The Shawano Wars](motc099)
+[Next: 99. The Shawano Wars](motc099.md)

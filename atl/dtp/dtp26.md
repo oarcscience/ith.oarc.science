@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp25)  [Next](dtp27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp25)  [Next](dtp27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -267,7 +267,7 @@ Incaliz Mainin had stood quietly by during the excitement. He now said:
 "Aye, Astiku from Salda, there thou shalt stay, indeed, even longer than
 thou thinkest!"
 
-He had spoken very [calmly](errata.htm#12), even softly, gazing the
+He had spoken very [calmly](errata.htm#12.md), even softly, gazing the
 while at the unhappy girl. When he turned towards the Rai, he saw a look
 of horror on his face, and hurriedly looked away again, finishing the
 reading of the banns. I scarcely heard him, being engaged partly with my
@@ -370,4 +370,4 @@ mock me, unheeded.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII: A Witness Before The Criminal](dtp27)
+[Next: Chapter XXIII: A Witness Before The Criminal](dtp27.md)

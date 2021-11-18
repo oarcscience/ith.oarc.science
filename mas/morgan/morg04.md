@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](morg03)  [Next](morg05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](morg03)  [Next](morg05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Illustrations of Masonry*, by William Morgan, \[1827\], at Intangible
 Textual Heritage
 
@@ -534,4 +534,4 @@ established, and the world at large convinced of its good effects."
 
 ------------------------------------------------------------------------
 
-[Next: Closing the Lodge](morg05)
+[Next: Closing the Lodge](morg05.md)

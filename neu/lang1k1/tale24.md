@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale23)  [Next](tale25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale23)  [Next](tale25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ daughter or to approach her. She only
 <span id="img_19900"></span>
 
 [![ALNASCHAR KICKS OVER HIS BASKET](tn/19900.jpg)  
-Click to enlarge](img/19900.jpg)  
+Click to enlarge](img/19900.jpg.md)  
 ALNASCHAR KICKS OVER HIS BASKET  
 
 lives to please you, and loves you with all her soul." But I shall pay
@@ -323,7 +323,7 @@ he bade her to tell him how she had got into
 
 [![THE LADY SHOWS ALNASCHAR THE COFFERS PACKED WITH
 GOLD](tn/20500.jpg)  
-Click to enlarge](img/20500.jpg)  
+Click to enlarge](img/20500.jpg.md)  
 THE LADY SHOWS ALNASCHAR THE COFFERS PACKED WITH GOLD  
 
 <span id="page_206">p. 206</span> <span id="page_207">p. 207</span>
@@ -393,4 +393,4 @@ where I have since given him all the care I bestow on my other brothers.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Barber's Sixth Brother](tale25)
+[Next: The Story of the Barber's Sixth Brother](tale25.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly62)  [Next](lly64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly62)  [Next](lly64.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [California](../index)  [Index](index) 
 <span id="img_12600"></span> [![THE MERCED RIVER AT HAPPY
 ISLES.&lt;BR&gt; &lt;I&gt;Photo A. C.
 Pillsbury&lt;/I&gt;](tn/12600.jpg)  
-Click to enlarge](img/12600.jpg)  
+Click to enlarge](img/12600.jpg.md)  
 THE MERCED RIVER AT HAPPY ISLES.  
 *Photo A. C. Pillsbury*  
 
@@ -75,7 +75,7 @@ picturesque and practical clothing of furs and skins was replaced by the
 <span id="img_12900"></span> [![MT. WATKINS AND MIRROR LAKE
 (AH-WEI-YA).&lt;BR&gt; &lt;I&gt;Photo A. C.
 Pillsbury&lt;/I&gt;](tn/12900.jpg)  
-Click to enlarge](img/12900.jpg)  
+Click to enlarge](img/12900.jpg.md)  
 MT. WATKINS AND MIRROR LAKE (AH-WEI-YA).  
 *Photo A. C. Pillsbury*  
 
@@ -165,4 +165,4 @@ to part."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Geology of the Yosemite Valley](lly64)
+[Next: Chapter X. Geology of the Yosemite Valley](lly64.md)

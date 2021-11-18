@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits018) [Next](bits020)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits018) [Next](bits020.md)
 
 ------------------------------------------------------------------------
 
@@ -153,7 +153,7 @@ was the wandering ascetic of this. The anchorite was I myself."
 
 ------------------------------------------------------------------------
 
-[Next: § 20. Analysis of the Human Being](bits020)
+[Next: § 20. Analysis of the Human Being](bits020.md)
 
  
 

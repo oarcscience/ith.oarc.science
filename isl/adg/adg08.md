@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg07)  [Next](adg09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg07)  [Next](adg09.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ adversity.
 
 ------------------------------------------------------------------------
 
-[Next: Adages of imam Ali (puh) about viceroys and rulers](adg09)
+[Next: Adages of imam Ali (puh) about viceroys and rulers](adg09.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg90)  [Next](btg92) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg90)  [Next](btg92.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ Tathagata so the people called this passage of the river "Gotama Ford."
 
 ------------------------------------------------------------------------
 
-[Next: The Mirror Of Truth](btg92)
+[Next: The Mirror Of Truth](btg92.md)

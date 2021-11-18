@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl030)  [Next](cohl032) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl030)  [Next](cohl032.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,9 +37,9 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_30"></span>[35:1](cohl030.htm#fr_30) The wisdom of the
+<span id="fn_30"></span>[35:1](cohl030.htm#fr_30.md) The wisdom of the
 aged, especially upon ceremonial matters, was never questioned.
 
 ------------------------------------------------------------------------
 
-[Next: Section 21](cohl032)
+[Next: Section 21](cohl032.md)

@@ -1,8 +1,8 @@
-[Previous: 1 Nephi](book00)
+[Previous: 1 Nephi](book00.md)
 
-[Next: Jacob](book02)
+[Next: Jacob](book02.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -4515,4 +4515,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Jacob](book02)
+[Next: Jacob](book02.md)

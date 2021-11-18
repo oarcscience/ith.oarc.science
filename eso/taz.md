@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../index)  [Esoteric](index)
+[Intangible Textual Heritage](../index)  [Esoteric](index.md)
 
 ------------------------------------------------------------------------
 
@@ -26,82 +26,82 @@ Printed in the United States of America
 
 ### CONTENTS
 
-#### [ACKNOWLEDGMENTS](#labelAcknowledgements)
+#### [ACKNOWLEDGMENTS](#labelAcknowledgements.md)
 
-#### [CHAOS: THE BROADSHEETS OF ONTOLOGICAL ANARCHISM](#labelChaosSection)
+#### [CHAOS: THE BROADSHEETS OF ONTOLOGICAL ANARCHISM](#labelChaosSection.md)
 
--   [Chaos](#labelChaosSection)
--   [Poetic Terrorism](#labelPoeticTerrorism)
--   [Amour Fou](#labelAmourFou)
--   [Wild Children](#labelWildChildren)
--   [Paganism](#labelPaganism)
--   [Art Sabotage](#labelArtSabotage)
--   [The Assassins](#labelTheAssassins)
--   [Pyrotechnics](#labelPyrotechnics)
--   [Chaos Myths](#labelChaosMyths)
--   [Pornography](#labelPornography)
--   [Crime](#labelCrime)
--   [Sorcery](#labelSorcery)
--   [Advertisement](#labelAdvertisement)
+-   [Chaos](#labelChaosSection.md)
+-   [Poetic Terrorism](#labelPoeticTerrorism.md)
+-   [Amour Fou](#labelAmourFou.md)
+-   [Wild Children](#labelWildChildren.md)
+-   [Paganism](#labelPaganism.md)
+-   [Art Sabotage](#labelArtSabotage.md)
+-   [The Assassins](#labelTheAssassins.md)
+-   [Pyrotechnics](#labelPyrotechnics.md)
+-   [Chaos Myths](#labelChaosMyths.md)
+-   [Pornography](#labelPornography.md)
+-   [Crime](#labelCrime.md)
+-   [Sorcery](#labelSorcery.md)
+-   [Advertisement](#labelAdvertisement.md)
 
-#### [COMMUNIQUES OF THE ASSOCIATION FOR ONTOLOGICAL ANARCHY](#labelCommunique1)
+#### [COMMUNIQUES OF THE ASSOCIATION FOR ONTOLOGICAL ANARCHY](#labelCommunique1.md)
 
--   [Communique \#1:](#labelCommunique1)
+-   [Communique \#1:](#labelCommunique1.md)
     -   [I. Slogans & Mottos for Subway Graffiti & Other
-        Purposes](#labelCommunique1)
+        Purposes](#labelCommunique1.md)
     -   [II. Some Poetic-Terrorist Ideas Still Sadly Languishing in the
-        Realm of "Conceptual Art,"](#labelSomePoetic)
+        Realm of "Conceptual Art,"](#labelSomePoetic.md)
 -   [Communique \#2: The Kallikak Memorial Bolo & Chaos Ashram: A
-    Proposal](#labelCommunique2)
--   [Communique \#3: Haymarket Issue](#labelCommunique3)
--   [Communique \#4: The End of the World](#labelCommunique4)
+    Proposal](#labelCommunique2.md)
+-   [Communique \#3: Haymarket Issue](#labelCommunique3.md)
+-   [Communique \#4: The End of the World](#labelCommunique4.md)
 -   [Communique \#5: "Intellectual S/M Is the Fascism of the
     Eighties--The Avant-Garde Eats Shit and Likes
-    It,"](#labelCommunique5)
--   [Communique \#6:](#labelCommunique6)
-    -   [I. Salon Apocalypse: "Secret Theater,"](#labelCommunique6)
-    -   [II. Murder--War--Famine--Greed](#labelMurderWarFamine)
+    It,"](#labelCommunique5.md)
+-   [Communique \#6:](#labelCommunique6.md)
+    -   [I. Salon Apocalypse: "Secret Theater,"](#labelCommunique6.md)
+    -   [II. Murder--War--Famine--Greed](#labelMurderWarFamine.md)
 -   [Communique \#7: Psychic Paleolithism & High Technology: A Position
-    Paper](#labelCommunique7)
+    Paper](#labelCommunique7.md)
 -   [Communique \#8: Chaos Theory & the Nuclear
-    Family](#labelCommunique8)
--   [Communique \#9: Double-Dip Denunciations](#labelCommunique9)
+    Family](#labelCommunique8.md)
+-   [Communique \#9: Double-Dip Denunciations](#labelCommunique9.md)
 -   [Communique \#10: Plenary Session Issues New Denunciations--Purges
-    Expected](#labelCommunique10)
+    Expected](#labelCommunique10.md)
 -   [Communique \#11: Special Holiday Season Food Issue Rant: Turn Off
-    the Lite!](#labelCommunique11)
+    the Lite!](#labelCommunique11.md)
 -   [Special Halloween Communique: Black Magic as Revolutionary
-    Action](#labelCommuniqueHalloween)
+    Action](#labelCommuniqueHalloween.md)
 -   [Special Communique: A.O.A. Announces Purges in Chaos
-    Movement](#labelCommuniqueAOA)
--   [Post-Anarchism Anarchy](#labelPostAnarchismAnarchy)
+    Movement](#labelCommuniqueAOA.md)
+-   [Post-Anarchism Anarchy](#labelPostAnarchismAnarchy.md)
 -   [Black Crown & Black Rose: Anarcho-Monarchism &
-    Anarcho-Mysticism](#labelBlackCrown)
--   [Instructions for the Kali Yuga](#labelInstructions)
--   [Against the Reproduction of Death](#labelAgainst)
--   [Ringing Denunciation of Surrealism](#labelRingingDenunciation)
--   [For a Congress of Weird Religions](#labelForACongress)
--   [Hollow Earth](#labelHollowEarth)
--   [Nietzsche & the Dervishes](#labelNietzsche)
+    Anarcho-Mysticism](#labelBlackCrown.md)
+-   [Instructions for the Kali Yuga](#labelInstructions.md)
+-   [Against the Reproduction of Death](#labelAgainst.md)
+-   [Ringing Denunciation of Surrealism](#labelRingingDenunciation.md)
+-   [For a Congress of Weird Religions](#labelForACongress.md)
+-   [Hollow Earth](#labelHollowEarth.md)
+-   [Nietzsche & the Dervishes](#labelNietzsche.md)
 -   [Resolution for the 1990's: Boycott Cop
-    Culture!!!](#labelResolution)
+    Culture!!!](#labelResolution.md)
 
-#### [THE TEMPORARY AUTONOMOUS ZONE](#labelTAZ)
+#### [THE TEMPORARY AUTONOMOUS ZONE](#labelTAZ.md)
 
--   [Pirate Utopias](#labelPirateUtopias)
--   [Waiting for the Revolution](#labelWaiting)
--   [The Psychotopology of Everyday Life](#labelThePsychotopology)
--   [The Net and the Web](#labelTheNetAndTheWeb)
--   ["Gone to Croatan"](#labelGoneToCroatan)
--   [Music as an Organizational Principle](#labelMusic)
--   [The Will To Power as Disappearance](#labelWillToPower)
--   [Ratholes in the Babylon of Information](#labelRatholes)
+-   [Pirate Utopias](#labelPirateUtopias.md)
+-   [Waiting for the Revolution](#labelWaiting.md)
+-   [The Psychotopology of Everyday Life](#labelThePsychotopology.md)
+-   [The Net and the Web](#labelTheNetAndTheWeb.md)
+-   ["Gone to Croatan"](#labelGoneToCroatan.md)
+-   [Music as an Organizational Principle](#labelMusic.md)
+-   [The Will To Power as Disappearance](#labelWillToPower.md)
+-   [Ratholes in the Babylon of Information](#labelRatholes.md)
 
-#### [Appendix A: Chaos Linguistics](#labelAppendixA)
+#### [Appendix A: Chaos Linguistics](#labelAppendixA.md)
 
-#### [Appendix B: Applied Hedonics](#labelAppendixB)
+#### [Appendix B: Applied Hedonics](#labelAppendixB.md)
 
-#### [Appendix C: Extra Quotes](#labelAppendixC)
+#### [Appendix C: Extra Quotes](#labelAppendixC.md)
 
 ## <span id="labelAcknowledgments">ACKNOWLEDGMENTS</span>
 

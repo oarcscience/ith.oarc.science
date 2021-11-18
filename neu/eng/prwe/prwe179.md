@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe178)  [Next](prwe180) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe178)  [Next](prwe180.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ going to bed.
 
 ------------------------------------------------------------------------
 
-[Next: The Witches of the Logan Stone](prwe180)
+[Next: The Witches of the Logan Stone](prwe180.md)

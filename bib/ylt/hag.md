@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](zep)  [Next](zac) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](zep)  [Next](zac.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ have fixed, An affirmation of Jehovah of Hosts!
 
 ------------------------------------------------------------------------
 
-[Next: Zechariah](zac)
+[Next: Zechariah](zac.md)

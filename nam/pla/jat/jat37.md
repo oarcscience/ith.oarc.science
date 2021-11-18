@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat36)  [Next](jat38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat36)  [Next](jat38.md) 
 
 ------------------------------------------------------------------------
 
-### 35. COYOTE IS REVENGED ON WILDCAT. <span id="fr_54"></span>[2](#fn_54)
+### 35. COYOTE IS REVENGED ON WILDCAT. <span id="fr_54"></span>[2](#fn_54.md)
 
 Coyote started off to find Wildcat. He came upon him while he was
 sleeping. Having built a fire he took out Wildcat's rectum and cooked
@@ -18,15 +18,15 @@ although they have been killing plenty." He gave the piece to Wildcat
 who began to eat it. When there was little left, he told him the source
 of the food. Wildcat put back the small part that remained. That is why
 the fat of Wildcat is spotted. <span
-id="fr_55"></span>[1](jat38.htm#fn_55)
+id="fr_55"></span>[1](jat38.htm#fn_55.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_54"></span>[230:2](jat37.htm#fr_54) Mrs. Stevenson has the
+<span id="fn_54"></span>[230:2](jat37.htm#fr_54.md) Mrs. Stevenson has the
 incident in greater detail from the Sia, p. 148.
 
 ------------------------------------------------------------------------
 
-[Next: 36. Coyote and Beaver Play Tricks On Each Other](jat38)
+[Next: 36. Coyote and Beaver Play Tricks On Each Other](jat38.md)

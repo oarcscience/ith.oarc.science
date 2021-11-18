@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb25)  [Next](pifb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb25)  [Next](pifb27.md) 
 
 </div>
 
@@ -240,6 +240,6 @@ showered upon her.
 
 ------------------------------------------------------------------------
 
-[Next: The Man Without a Heart](pifb27)
+[Next: The Man Without a Heart](pifb27.md)
 
 </div>

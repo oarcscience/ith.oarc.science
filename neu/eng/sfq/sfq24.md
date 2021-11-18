@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq23)  [Next](sfq25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq23)  [Next](sfq25.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_09200"></span>
 
 [![](tn/09200.jpg)  
-Click to enlarge](img/09200.jpg)
+Click to enlarge](img/09200.jpg.md)
 
 # "The Good Sir Guyon"
 
@@ -111,4 +111,4 @@ found a way of revenging himself on the Red Cross Knight.
 
 ------------------------------------------------------------------------
 
-[Next: Friend or Foe?](sfq25)
+[Next: Friend or Foe?](sfq25.md)

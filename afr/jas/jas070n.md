@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas069n)  [Next](jas071n)   
- \[[70. Jack and Harry.](jas070)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas069n)  [Next](jas071n.md)   
+ \[[70. Jack and Harry.](jas070.md)\]
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ Bolte u. Polívka 2:285-297; as also Grimm's Thumbling stories, numbers
 
 ------------------------------------------------------------------------
 
-[Next: Note 71. Pea-fowl as Messenger.](jas071n)
+[Next: Note 71. Pea-fowl as Messenger.](jas071n.md)

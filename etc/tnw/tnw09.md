@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw08)  [Next](tnw10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw08)  [Next](tnw10.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ elements, which he sometimes carelessly calls atoms, the author of the
 Scientology (page image: see
 https://ith.oarc.science/etc/tnw/tnw09.htm\#page\_119 for
 text)](tn/11900.jpg)  
-Click to enlarge](img/11900.jpg)  
+Click to enlarge](img/11900.jpg.md)  
   
 
 <span class="contnote">\[paragraph continues\]</span> "Since the present
@@ -289,4 +289,4 @@ was too long by half.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Dynamics: The Demon in the Stone](tnw10)
+[Next: 9. Dynamics: The Demon in the Stone](tnw10.md)

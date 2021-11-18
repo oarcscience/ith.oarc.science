@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](dast01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](dast01.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dakshinamurti Stotra*, translated by Alladi Mahadeva Sastri, \[1920\],
 at Intangible Textual Heritage
 
@@ -48,4 +48,4 @@ because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the First Edition](dast01)
+[Next: Preface to the First Edition](dast01.md)

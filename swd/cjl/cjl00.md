@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Next](cjl01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Next](cjl01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402180012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402180012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ Insaniæ de Amore Scortatorio" (Amstelodami 1768)
 
 ------------------------------------------------------------------------
 
-[Next: 1-50](cjl01)
+[Next: 1-50](cjl01.md)

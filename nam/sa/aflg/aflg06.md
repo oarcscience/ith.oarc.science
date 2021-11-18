@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg05) [Next](aflg07)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg05) [Next](aflg07.md)
 
 ------------------------------------------------------------------------
 
@@ -8,13 +8,13 @@ American](../index) [Index](index) [Previous](aflg05) [Next](aflg07)
 ## C<span class="small">HAPTER</span> VI DREAMS; IDIOCY
 
    <span class="small">Head Spirits are the causes of Dreams
-(*[86](#pp_86)*); the Unreality and Reality of Dream-life
-(*[87](#pp_87)*). Idiocy (*[88](#pp_88)*).</span>
+(*[86](#pp_86)*.md); the Unreality and Reality of Dream-life
+(*[87](#pp_87)*). Idiocy (*[88](#pp_88)*.md).</span>
 
-   <span id="pp_86"></span>**86.**[\*](#pp_86) From Mainland Caribs,
+   <span id="pp_86"></span>**86.**[\*](#pp_86.md) From Mainland Caribs,
 those on the Pomeroon and Moruca Rivers, I have learned that the Aka, or
-Akari, Spirit ([Sect. *69*](aflg05.htm#pp_69)) resides in the head.
-Yurokon, their Bush Spirit ([Sect. *94*](aflg08.htm#pp_94)), comes along
+Akari, Spirit ([Sect. *69*](aflg05.htm#pp_69).md) resides in the head.
+Yurokon, their Bush Spirit ([Sect. *94*](aflg08.htm#pp_94).md), comes along
 when the person is asleep, seizes the Akari, and takes it with him into
 the forest; this causes people to dream, but sometimes Yurokon forgets,
 and does not bring it back, with the consequence that the individual
@@ -22,7 +22,7 @@ dies. In dreaming, the Indians say that the spirit is paying a visit to
 the world to come (KG, <span class="small">I</span>, 167) or has gone
 for a walk, etc. (ibid., <span class="small">II</span>, 151).
 
-   <span id="pp_87"></span>**87.**[\*](#pp_87) While Coudreau (<span
+   <span id="pp_87"></span>**87.**[\*](#pp_87.md) While Coudreau (<span
 class="small">II</span>, 198) seems emphatic in his remark concerning
 the Uaupes River Indians, that they have the correct idea of a dream,
 and do not take for reality the visions of sleep, im Thurn would seem to
@@ -50,7 +50,7 @@ confirm this for the same people: the Caribs are also subject to other
 ills which they say come from Maboya, and often complain that he is
 hitting them, especially during sleep (RoP, 474). The medicine-men
 appear generally to have enjoyed a great reputation as dreamers ([Sects.
-*264*](aflg15.htm#pp_264), [*300*](aflg17.htm#pp_300)). More than this,
+*264*](aflg15.htm#pp_264), [*300*](aflg17.htm#pp_300).md). More than this,
 dreams were sometimes interpreted as omens and auguries; thus, in token
 of the missionary coming to visit them, and a sign of his approach, a
 certain cacique told Gumilla that he had dreamed that his lands sown
@@ -59,7 +59,7 @@ of time (G, <span class="small">I</span>, 311).
 
 <span id="page_166">p. 166</span>
 
-   <span id="pp_88"></span>**88.**[\*](#pp_88) In connection with the
+   <span id="pp_88"></span>**88.**[\*](#pp_88.md) In connection with the
 idea of at least one of the individual's Spirits being located in his
 head, it is of interest to record Schomburgk's observations among the
 Wapisiana on the Takutu River with regard to idiocy: imbeciles are
@@ -74,7 +74,7 @@ Here is a case in point, from the Warraus.
 
  
 
-<span id="story_13"></span>[\*](#story_13)T<span class="small">HE</span>
+<span id="story_13"></span>[\*](#story_13.md)T<span class="small">HE</span>
 I<span class="small">DIOT</span> W<span class="small">HO</span> W<span
 class="small">ANTED TO</span> F<span class="small">LY</span> (W)
 
@@ -109,10 +109,10 @@ class="small">ANTED TO</span> F<span class="small">LY</span> (W)
 > and he fell to earth. "How splendidly I can fly!" he remarked, when he
 > picked himself up.
 
-   <span id="pp_88A"></span>**88A.**[\*](#pp_88A) The picking up, or
+   <span id="pp_88A"></span>**88A.**[\*](#pp_88A.md) The picking up, or
 handling of, certain birds' feathers conduces to loss of memory and to
-insanity ([Sect. *223*](aflg14.htm#pp_223)).
+insanity ([Sect. *223*](aflg14.htm#pp_223).md).
 
 ------------------------------------------------------------------------
 
-[Next](aflg07)
+[Next](aflg07.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby27)  [Next](sby29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby27)  [Next](sby29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,12 +31,12 @@ of their chief, the tradition has led some critics to believe that they
 are archangels; others, different attributes of God; and still others,
 the seven Amshaps of Zoroaster, or immortal spirits of the Avesta. The
 last conjecture is made by Victor Dingelstadt. <span
-id="fr_152"></span>[1](#fn_151) Cholsohn goes a step further in making
+id="fr_152"></span>[1](#fn_151.md) Cholsohn goes a step further in making
 the assertion, "Der Tempel des sheikh Shams ist ohne allen Zweifel ein
 sonnentempel der so gebaut ist, dass die ernsten Strahlen der sonne so
 hàufig als möglich auf ihn fallen." The ground for this positive
 statement is, we are told "Layard berichtet." <span
-id="fr_153"></span>[2](#fn_152) Now, the English scholar seems to base
+id="fr_153"></span>[2](#fn_152.md) Now, the English scholar seems to base
 his contention on the fact that the building is called the sanctuary of
 Šeiḫ Šams; that the herd of white oxen which are slain on great
 festivals at Šeiḫ ‘Adî's M
@@ -47,7 +47,7 @@ are dedicated to Šams; "that the dedication of the bull to the sun" was
 generally recognized in the religious system of the ancients, which
 probably originated in Assyria; and that the Yezidis may have
 unconsciously preserved a myth of their ancestors. <span
-id="fr_154"></span>[3](#fn_153) To my mind the ground for such a view is
+id="fr_154"></span>[3](#fn_153.md) To my mind the ground for such a view is
 the apriori assumption that the religion of the devil-worshippers is the
 remnant of an ancient cult, and that every phenomenon in it is to be
 regarded, therefore, a survival of the past system. For certain reasons
@@ -56,7 +56,7 @@ I hold that such is not the case.
 One reason, as Badger rightly remarks, the Yezidis so designate the
 place for the sake of brevity, is the entablature over the doorway
 records the name in full, "Sheikh Shams Ali Beg and Faris." Two persons
-are mentioned in the inscription. <span id="fr_155"></span>[4](#fn_154)
+are mentioned in the inscription. <span id="fr_155"></span>[4](#fn_154.md)
 In like manner, the word Šams frequently enters into the construction of
 Mohammedan names. The most celebrated one that bore this name was Šams
 u-d-Din of Tabriz, the friend and spiritual guide of Jalal ad-Din, who
@@ -135,7 +135,7 @@ at Kadish (Num. 26: 1). Even to-day tombs of saints are common in
 Arabia, and thousands of people visit them annually to ask the
 intercession of the saints. Likewise, the Nuṣairiyeh of Syria have
 deified ‘Ali, the Drus their chief Hakim, the Babis their Beha, and the
-Christians their saints. <span id="fr_156"></span>[5](#fn_155) We
+Christians their saints. <span id="fr_156"></span>[5](#fn_155.md) We
 cannot, therefore, be surprised that the Yezidis have defined their
 šeiḫs and heroes. They have only shown that common trait of the
 mind--the tendency to deify man.
@@ -145,9 +145,9 @@ religions we find that when the stage of the mere belief in spirits is
 past, individual deities stand out from the great mass of the spirits,
 and these are plainly imagined to be personal gods, such as Astarte and
 Ba‘al by the side of Hadad and Aschirat. <span
-id="fr_157"></span>[6](#fn_156) Now this is practically what we find in
+id="fr_157"></span>[6](#fn_156.md) Now this is practically what we find in
 the evolution of modern Yezidism. Out of many šeiḫs and murids, seven,
-next to šeiḫ ‘Adî, stand out as individual [divinities](errata.htm#19).
+next to šeiḫ ‘Adî, stand out as individual [divinities](errata.htm#19.md).
 
 Yearly festivals in honor of these šeiḫs are commemorated in April at
 different villages with the same rites as those observed at Šeiḫ ‘Adî's
@@ -179,22 +179,22 @@ festivals are suspended and visits are paid to it.
 
 ### Footnotes
 
-<span id="fn_151"></span>[169:1](sby28.htm#fr_152) S. G. M., ibid.
+<span id="fn_151"></span>[169:1](sby28.htm#fr_152.md) S. G. M., ibid.
 
-<span id="fn_152"></span>[169:2](sby28.htm#fr_153) *Die Sabien*, I, 296.
+<span id="fn_152"></span>[169:2](sby28.htm#fr_153.md) *Die Sabien*, I, 296.
 
-<span id="fn_153"></span>[170:3](sby28.htm#fr_154) *Nineveh and Its
+<span id="fn_153"></span>[170:3](sby28.htm#fr_154.md) *Nineveh and Its
 Remains*, Vol. II, p. 239.
 
-<span id="fn_154"></span>[170:4](sby28.htm#fr_155) *Nestorians and Their
+<span id="fn_154"></span>[170:4](sby28.htm#fr_155.md) *Nestorians and Their
 Rituals*, vol. I, p. 117.
 
-<span id="fn_155"></span>[173:5](sby28.htm#fr_156) S. J. Curtis.
+<span id="fn_155"></span>[173:5](sby28.htm#fr_156.md) S. J. Curtis.
 *Primitive Semitic Religion To-day*, p. 96; J. A. O. S., vol. 8, 223.
 
-<span id="fn_156"></span>[173:6](sby28.htm#fr_157) Cf. Marti's *Die
+<span id="fn_156"></span>[173:6](sby28.htm#fr_157.md) Cf. Marti's *Die
 Religion des A. T.*, pp. 28-29.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Day of Sarsal](sby29)
+[Next: II. The Day of Sarsal](sby29.md)

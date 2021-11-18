@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits061) [Next](bits063)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits061) [Next](bits063.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ inquiringly, and observing
 
 her teeth, realized the impurity of the body,<span
 id="page_298_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_298_note_1) and attained to
+class="small">1</span></sup>](#page_298_note_1.md) and attained to
 saintship. Therefore was it said:
 
 <table data-align="center" data-cellpadding="5">
@@ -243,7 +243,7 @@ attainment-concentration.
 
 ------------------------------------------------------------------------
 
-[Next: § 63. The Conversion of Animals](bits063)
+[Next: § 63. The Conversion of Animals](bits063.md)
 
 ------------------------------------------------------------------------
 
@@ -251,13 +251,13 @@ attainment-concentration.
 
 <span id="footnotes_page_298">p. 298</span>
 
-<span id="page_298_note_1"></span>[1](#page_298_fr_1) By means of the
+<span id="page_298_note_1"></span>[1](#page_298_fr_1.md) By means of the
 tenth impurity, the teeth being reckoned as bone. Compare [page
-292](bits060.htm#page_292).
+292](bits060.htm#page_292.md).
 
 <span id="footnotes_page_300">p. 300</span>
 
-<span id="page_300_note_1"></span>[1](#page_300_fr_1) Hampole, *Prick of
+<span id="page_300_note_1"></span>[1](#page_300_fr_1.md) Hampole, *Prick of
 Conscience*, as quoted in The Century Dictionary, s.v. *midding*:
 
 <table data-align="center" data-cellpadding="5">

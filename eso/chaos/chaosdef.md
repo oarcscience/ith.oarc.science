@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [Chaos
-Magic](index) 
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [Chaos
+Magic](index.md) 
 
 ------------------------------------------------------------------------
 
 # Defining Chaos
 
-by [Jaq D Hawkins](https://www.kiamagic.com/jaq/) aka Mark Chao  
+by [Jaq D Hawkins](https://www.kiamagic.com/jaq/.md) aka Mark Chao  
 **Introduction**  
 
 Chaos, according to the “Oxford English Dictionary”, means:  
@@ -302,6 +302,6 @@ three collections which are available from TOPY.
 *Practical Sigil Magick* by Frater U.D.  
 *Condensed Chaos* by Phil Hine  
 For an expansion of the overview expressed in this essay:  
-[*Understanding Chaos Magic*](https://jaq.chaosmagic.com/chaosbooks) by
+[*Understanding Chaos Magic*](https://jaq.chaosmagic.com/chaosbooks.md) by
 Jaq D Hawkins  
   

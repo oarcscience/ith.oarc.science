@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal19)  [Next](goal21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal19)  [Next](goal21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -126,7 +126,7 @@ to the
 sun—when it is in the sign Libra. (See accompanying diagram.)
 
 <span id="img_19600"></span> <span align="CENTER"> [![](tn/19600.jpg)  
-Click to enlarge](img/19600.jpg)</span>
+Click to enlarge](img/19600.jpg.md)</span>
 
 We particularize in regard to this matter because it is an important
 truth in psychology that this reversal is indicated in the fact that
@@ -380,4 +380,4 @@ subject will be further discussed.
 ------------------------------------------------------------------------
 
 [Next: Chapter XVII. The Likeness of God: The Office of the
-Christ](goal21)
+Christ](goal21.md)

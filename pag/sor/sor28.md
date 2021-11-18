@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor27)  [Next](sor29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor27)  [Next](sor29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -284,7 +284,7 @@ With regard to their love-potions, philtres, etc., it has not been
 noticed how closely the *covenants between lovers* resembled those
 between friends and brothers in arms. For the latter consult Grimm
 (*Rechts Alterthümer*) and my *Origines;* for the first,
-[Calcagnini](errata.htm#10), Sprenger, Grillandus, and a host of other
+[Calcagnini](errata.htm#10.md), Sprenger, Grillandus, and a host of other
 writers. In all cases they follow identically the same lines. It is
 invariably either Nature called upon and taken to witness, or the
 employment, more or less blasphemous, of the sacraments and holy things
@@ -725,4 +725,4 @@ God.
 
 ------------------------------------------------------------------------
 
-[Next: Principal Authorities](sor29)
+[Next: Principal Authorities](sor29.md)

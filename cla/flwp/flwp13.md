@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp12)  [Next](flwp14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp12)  [Next](flwp14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ motion. Moreover, soul, through being self-motive, is unbegotten and
 incorruptible. The universe, therefore, is un-begotten and
 incorruptible. Hence it is evident that every \[rational soul\] first
 ascends into a perpetual body \[as into a vehicle\], and always moves
-this body. <span id="fr_40"></span>[\*](#fn_40) And likewise, when it is
+this body. <span id="fr_40"></span>[\*](#fn_40.md) And likewise, when it is
 in corruptible bodies, it moves them, though the bodies which are
 perpetually moved by it.
 
@@ -40,10 +40,10 @@ perpetually moved by it.
 
 ### Footnotes
 
-<span id="fn_40"></span>[46:\*](flwp13.htm#fr_40) Concerning this
+<span id="fn_40"></span>[46:\*](flwp13.htm#fr_40.md) Concerning this
 vehicle of the soul, which is ethereal, ace my Translation of the Fifth
 Book of Proclus on the Timæus of Plato.
 
 ------------------------------------------------------------------------
 
-[Next: Argument the Eighth](flwp14)
+[Next: Argument the Eighth](flwp14.md)

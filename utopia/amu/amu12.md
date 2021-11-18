@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](amu11)  [Next](amu13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](amu11)  [Next](amu13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ savage or brutalising surroundings that gave their gifts no scope, did
 in Utopia encounter happier chances, and take up the development and
 application of social theory—from the time of the first Utopists in a
 steady onward progress, down to the present hour.  <span
-id="fr_30"></span>[31](#fn_30) The differences of conditions, therefore,
+id="fr_30"></span>[31](#fn_30.md) The differences of conditions, therefore,
 had widened with each successive year. Jesus Christ had been born into a
 liberal and progressive Roman Empire that spread from the Arctic Ocean
 to the Bight of Benin, and was to know no Decline and Fall, and Mahomet,
@@ -173,7 +173,7 @@ schemes upon the classification of men into labour and capital, the
 landed interest, the liquor trade, and the like. They esteemed these as
 accidental categories, indefinitely amenable to statesmanship, and they
 looked for some practical and real classification upon which to base
-organisation.  <span id="fr_31"></span>[32](#fn_31) But, on the other
+organisation.  <span id="fr_31"></span>[32](#fn_31.md) But, on the other
 hand, the assumption that men are unclassifiable, because practically
 homogeneous, which underlies modern democratic methods and all the
 fallacies of our equal justice, is even more alien to the Utopian mind.
@@ -436,7 +436,7 @@ supplemented these academic resources, and ensured that no possible
 contributor to the wide flow of the Utopian mind slipped into neglect.
 Apart from those who engaged mainly in teaching and administration, my
 double told me that the world-wide House of Saloman  <span
-id="fr_32"></span>[33](#fn_32) thus created sustained over a million
+id="fr_32"></span>[33](#fn_32.md) thus created sustained over a million
 men. For all the rarity of large fortunes, therefore, no original man
 with the desire and capacity for material or mental experiments went
 long without resources and the stimulus of attention, criticism, and
@@ -1468,13 +1468,13 @@ I am reminded of what my double said to me of race.
 
 ### Footnotes
 
-<span id="fn_30"></span>[31](amu12.htm#fr_30) One might assume as an
+<span id="fn_30"></span>[31](amu12.htm#fr_30.md) One might assume as an
 alternative to this that amidst the four-fifths of the Greek literature
 now lost to the world, there perished, neglected, some book of
 elementary significance, some earlier *Novum* *Organum*, that in Utopia
 survived to achieve the profoundest consequences.
 
-<span id="fn_31"></span>[32](amu12.htm#fr_31) In that they seem to have
+<span id="fn_31"></span>[32](amu12.htm#fr_31.md) In that they seem to have
 profited by a more searching criticism of early social and political
 speculations than our earth has yet undertaken. The social speculations
 of the Greeks, for example, had just the same primary defect as the
@@ -1482,8 +1482,8 @@ economic speculations of the eighteenth century they began with the
 assumption that the general conditions of the prevalent state of affairs
 were permanent.
 
-<span id="fn_32"></span>[33](amu12.htm#fr_32) *The New Atlantis*.
+<span id="fn_32"></span>[33](amu12.htm#fr_32.md) *The New Atlantis*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Ten](amu13)
+[Next: Chapter Ten](amu13.md)

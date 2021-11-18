@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](hos)  [Next](amo) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](hos)  [Next](amo.md) 
 
 ------------------------------------------------------------------------
 
@@ -300,4 +300,4 @@ have not cleansed: for the LORD dwelleth in Zion.
 
 ------------------------------------------------------------------------
 
-[Next: Amos](amo)
+[Next: Amos](amo.md)

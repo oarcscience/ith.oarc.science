@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Japan](../index) [Ainu](../ainu/index) [Index](index)
+Heritage](../../index) [Japan](../index) [Ainu](../ainu/index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ information on a subject so excellently handled, but the request of the
 Editor of the *Folk-Lore Journal* that I would write an Introduction
 enables me to draw attention to the views put forward by Professor
 Chamberlain in another publication,<span
-id="page_v_fr_*"></span>[\*](#page_v_note_*) which, being printed in
+id="page_v_fr_*"></span>[\*](#page_v_note_*.md) which, being printed in
 Japan, may be overlooked by many English folk-lore students, even of
 those interested in the curious Aino problem.
 
@@ -98,12 +98,12 @@ Europe."
 
    As with their language, so with their folk-lore, which largely shows
 itself adopted from the Japanese. In the present collection the stories
-of the Salmon-king ([xxxiv.](#xxxiv)), the Island of Women
-([xxxiii.](#xxxiii)), and others, are based on episodes of Japanese
+of the Salmon-king ([xxxiv.](#xxxiv).md), the Island of Women
+([xxxiii.](#xxxiii).md), and others, are based on episodes of Japanese
 tales, sometimes belonging to world-wide cycles of myth, as in the theme
-of the mortal who eats the deadly food of Hades ([xxxv.](#xxxv)), which
+of the mortal who eats the deadly food of Hades ([xxxv.](#xxxv).md), which
 has its typical example in the story of Persephone. On reading the short
-but curious tale ([xvi.](#xvi)), How it was settled who should rule the
+but curious tale ([xvi.](#xvi).md), How it was settled who should rule the
 World, one sees at once that the cunning Fox-god has come in from the
 well-known fox mythology of Japan; and as to the very clever mythic
 episode of looking for the sunrise in the west, I find, on inquiry of a
@@ -384,7 +384,7 @@ BASIL HALL CHAMBERLAIN.   
  
 
 <span id="i"></span>i.—*The Rat and the Owl*.<span
-id="page_7_fr_*"></span>[\*](#page_7_note_*)
+id="page_7_fr_*"></span>[\*](#page_7_note_*.md)
 
    An owl had put by for next day the remains of something dainty which
 he had to eat. But a rat stole it, whereupon the owl was very angry, and
@@ -1106,7 +1106,7 @@ from people. Then, after a time, when wanting to extort again, he went
 on to another place. While walking along he used to think of what lies
 he could tell. Afterwards he heard a voice. It was not human language.
 He walked saying—"Pau! pau!"<span
-id="page_25_fr_*"></span>[\*](#page_25_note_*) When he looked at his own
+id="page_25_fr_*"></span>[\*](#page_25_note_*.md) When he looked at his own
 body, it was a fox's. Then he thought that, whether he might return to
 his own village, or go to another place, the dogs would kill him. So,
 with tears, he went away from the road into the mountains. There he
@@ -1346,7 +1346,7 @@ November, 1886.)
  
 
 <span id="III"></span>III.—TALES OF THE PANAUMBE AND PENAUMBE
-CYCLE.<span id="page_31_fr_*"></span>[\*](#page_31_note_*)
+CYCLE.<span id="page_31_fr_*"></span>[\*](#page_31_note_*.md)
 
  
 
@@ -1504,7 +1504,7 @@ like Panaumbe.—(Written down from memory. Told by Kannariki, June,
  
 
 <span id="xxxi"></span>xxxi.—*Panaumbe, Penaumbe, and the Lord of
-Matomai*.<span id="page_35_fr_*"></span>[\*](#page_35_note_*)
+Matomai*.<span id="page_35_fr_*"></span>[\*](#page_35_note_*.md)
 
    Panaumbe wanted very much to become rich. For this reason, he
 stretched his penis across to the town of Matomai. Then the lord of
@@ -2271,7 +2271,7 @@ from memory. Told by Penri, July, 1886.)
 
    Before birth, clothes are got ready for the expected baby, who is
 washed as soon as born.<span
-id="page_55_fr_*"></span>[\*](#page_55_note_*) The divine symbols are
+id="page_55_fr_*"></span>[\*](#page_55_note_*.md) The divine symbols are
 set up, and thanks are offered to the gods. Only women are present on
 the occasion. Generally in each village there are one or two old women
 who act as midwives.
@@ -2387,7 +2387,7 @@ Ishanashte, November, 1886.)
 ------------------------------------------------------------------------
 
 [Intangible Textual
-Heritage](../../index) [Shinto](../index) [Index](index)
+Heritage](../../index) [Shinto](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -2395,7 +2395,7 @@ Heritage](../../index) [Shinto](../index) [Index](index)
 
 <span id="footnotes_page_v">p. v</span>
 
-<span id="page_v_note_*"></span>[\*](#page_v_fr_*) *The Language,
+<span id="page_v_note_*"></span>[\*](#page_v_fr_*.md) *The Language,
 Mythology, and Geographical Nomenclature of Japan, viewed in the light
 of Aino Studies.* By Basil Hall Chamberlain. Including an *Ainu Grammar*
 by John Batchelor. (Memoirs of the Literature College, Imperial
@@ -2403,30 +2403,30 @@ University of Japan, No. 1.) Tōkyō: 1887.
 
 <span id="footnotes_page_7">p. 7</span>
 
-<span id="page_7_note_*"></span>[\*](#page_7_fr_*) The Aino name here
+<span id="page_7_note_*"></span>[\*](#page_7_fr_*.md) The Aino name here
 used (*ahunrashambe*) denotes a horned species.
 
 <span id="footnotes_page_25">p. 25</span>
 
-<span id="page_25_note_*"></span>[\*](#page_25_fr_*) An onomatopœia for
+<span id="page_25_note_*"></span>[\*](#page_25_fr_*.md) An onomatopœia for
 the bark of the fox.
 
 <span id="footnotes_page_31">p. 31</span>
 
-<span id="page_31_note_*"></span>[\*](#page_31_fr_*) Panaumbe means "the
+<span id="page_31_note_*"></span>[\*](#page_31_fr_*.md) Panaumbe means "the
 person on the lower course of the stream." Penaumbe means "the person on
 the upper course of the stream." Conf. Aino "Memoir," p. 28.
 
 <span id="footnotes_page_35">p. 35</span>
 
-<span id="page_35_note_*"></span>[\*](#page_35_fr_*) The Aino
+<span id="page_35_note_*"></span>[\*](#page_35_fr_*.md) The Aino
 pronunciation of *Matsumae*. Matsumae is a town in the south of Yezo.
 The lord or *Daimyo* resident there was formerly the chief Japanese
 authority in the country.
 
 <span id="footnotes_page_55">p. 55</span>
 
-<span id="page_55_note_*"></span>[\*](#page_55_fr_*) For the only time
+<span id="page_55_note_*"></span>[\*](#page_55_fr_*.md) For the only time
 in its whole life!
 
  

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](osgp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](osgp09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Origin and Significance of the Great Pyramid*, by C. Staniland
 Wake, \[1882\], at Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Wake, \[1882\], at Intangible Textual Heritage
 
 MASOUDI, who died in the year 967 A.D., professes to relate the Coptic
 tradition, which says, "that Surid <span
-id="fr_103"></span>[\*](#fn_103) Ben Shaluk Ben Sermuni Ben Termidun Ben
+id="fr_103"></span>[\*](#fn_103.md) Ben Shaluk Ben Sermuni Ben Termidun Ben
 Tedresan Ben Sal, one of the kings of Egypt before the Flood, built the
 two great pyramids; and notwithstanding they were subsequently named
 after a person called Shed-dad Ben Ad, that they were not built by the
@@ -52,7 +52,7 @@ astrologers to ascertain, by taking the altitude,
 <span id="page_100">p. 100</span>
 
 whether the stars foretold any great catastrophe, and the result
-announced an approaching deluge. <span id="fr_104"></span>[\*](#fn_104)
+announced an approaching deluge. <span id="fr_104"></span>[\*](#fn_104.md)
 The king ordered them to inquire, whether or not this calamity would
 befal Egypt; and they answered, Yes, the flood will overwhelm the land,
 and destroy a large portion of it for some years. He ordered them to
@@ -71,7 +71,7 @@ wisdom and acquirements in the different arts
 
 <span id="page_101">p. 101</span>
 
-and sciences. <span id="fr_105"></span>[\*](#fn_105) Subterraneous
+and sciences. <span id="fr_105"></span>[\*](#fn_105.md) Subterraneous
 channels were also constructed to convey to them the waters of the Nile.
 He filled the passages with talismans, with wonderful things and idols,
 and with the writings of the priests, containing all manner of wisdom,
@@ -108,7 +108,7 @@ have built these Pyramids, and have finished them in sixty-one years.
 Let him, who comes after me, and imagines himself a king like me,
 attempt to destroy them in six hundred. To destroy is easier than to
 build. I have clothed them with silk: let him try to cover them with
-mats." <span id="fr_106"></span>[\*](#fn_106)
+mats." <span id="fr_106"></span>[\*](#fn_106.md)
 
  
 
@@ -120,7 +120,7 @@ mats." <span id="fr_106"></span>[\*](#fn_106)
 
 ### Footnotes
 
-<span id="fn_103"></span>[98:\*](osgp10.htm#fr_103) Surid may be the
+<span id="fn_103"></span>[98:\*](osgp10.htm#fr_103.md) Surid may be the
 same as Suphis or Cheops, as in a papyrus said to have been found in the
 monastery of Abou-Hormeis, Surid is said to have been buried in the
 eastern (Great) Pyramid, his brother Haukith in the western, and his
@@ -136,16 +136,16 @@ Ghizeh, and in the quarry marks of the northern pyramid of Abou-Seir,
 which is, therefore, thought to be his tomb. (Sir J. G. 'Wilkinson, in
 Rawlinson's "Herodotus," vol. ii. p. 344, 346).
 
-<span id="fn_104"></span>[100:\*](osgp10.htm#fr_104) According to
+<span id="fn_104"></span>[100:\*](osgp10.htm#fr_104.md) According to
 Makrizi, fire was to proceed from the sign Leo, and to consume the
 world.
 
-<span id="fn_105"></span>[101:\*](osgp10.htm#fr_105) Masoudi says that
+<span id="fn_105"></span>[101:\*](osgp10.htm#fr_105.md) Masoudi says that
 all these marvellous things were placed within the Pyramids; whilst
 Makrizi, on the authority of Usted Ibrahim, particularises the
 subterraneous passages as the depositories. On the margin of one of
 Makrizi's MSS., we read that the inscriptions of the priests were on the
 ceilings, roofs, etc., of the subterraneous passages.
 
-<span id="fn_106"></span>[102:\*](osgp10.htm#fr_106) Col. Vyse,
+<span id="fn_106"></span>[102:\*](osgp10.htm#fr_106.md) Col. Vyse,
 "Operations," etc., Vol. ii. p. 322 *seq*.

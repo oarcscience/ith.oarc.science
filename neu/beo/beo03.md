@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo02)  [Next](beo04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo02)  [Next](beo04.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ the hall.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](beo04)
+[Next: Part III](beo04.md)

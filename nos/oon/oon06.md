@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon05)  [Next](oon07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon05)  [Next](oon07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 ### THE PREFACE OF MICHAEL NOSTRADAMUS TO HIS PROPHECIES
 
 To César Nostradamus his son, life and felicity. Thy late arrival, <span
-id="fr_20"></span>[1](#fn_20) César Nostradamus my son, has made me
+id="fr_20"></span>[1](#fn_20.md) César Nostradamus my son, has made me
 bestow much time, through nightly vigils, to leave you in writing a
 memorial to refer to, after the corporal extinction of your progenitor,
 that might serve for the common profit of mankind, out of what the
@@ -41,9 +41,9 @@ incalculable power of Heaven, guiding us, not by
 <span id="page_40">p. 40</span>
 
 <span class="contnote">\[paragraph continues\]</span> Bacchic fury, nor
-yet by Lymphatic <span id="fr_21"></span>[1](#fn_21) motion, but by
+yet by Lymphatic <span id="fr_21"></span>[1](#fn_21.md) motion, but by
 astronomical assertion--"*Soli numine divino afflati præsagiunt et
-spirito prophetico particularia*." <span id="fr_22"></span>[2](#fn_22)
+spirito prophetico particularia*." <span id="fr_22"></span>[2](#fn_22.md)
 
 Although for years past I have predicted, a long time in advance, what
 has afterwards come to pass, and in particular regions attributing the
@@ -78,7 +78,7 @@ hearers), and write all down under a cloudy figure that shall
 essentially and above all things be prophetical. Although
 "*Abscondidisti hæc à sapientibus, et prudentibus, id est, potentibus et
 regibus, et enucleasti ea exiguis et tenuibus*." <span
-id="fr_23"></span>[1](#fn_23) By the grace of God and the good angels,
+id="fr_23"></span>[1](#fn_23.md) By the grace of God and the good angels,
 the Prophets have had committed to them the spirit of vaticination, by
 which they see things at a distance, and are enabled to forecast future
 events. For there is nothing that can be accomplished without Him, whose
@@ -95,17 +95,17 @@ nostrum noscere tempora*,
 
 <span id="page_42">p. 42</span>
 
-nec momenta," <span id="fr_24"></span>[1](#fn_24) etc. Although, indeed,
+nec momenta," <span id="fr_24"></span>[1](#fn_24.md) etc. Although, indeed,
 now or hereafter some persons may arrive to whom God Almighty may be
 pleased to reveal by imaginative impression some secrets of the future,
 as accorded in time past to judicial astrology, when \[*que* for
 *quand*\] a certain power and volitional faculty came upon them, as a
-flame of fire appears. <span id="fr_25"></span>[2](#fn_25) They grew
+flame of fire appears. <span id="fr_25"></span>[2](#fn_25.md) They grew
 inspired, and were able to judge of all inspiration, human and divine,
 alike. For the divine works, which are absolutely universal, God will
 complete; those which are contingent, or medial, the good angels direct;
 and the third sort come under the evil angels. <span
-id="fr_26"></span>[3](#fn_26)
+id="fr_26"></span>[3](#fn_26.md)
 
 Perhaps, my son, I speak to thee here a little too occultly. But as to
 the hidden vaticinations which come to one by the subtle spirit of fire,
@@ -121,7 +121,7 @@ the great eternal Deity from whom all goodness emanates. Further, my
 son, although I have inserted the name of prophet, I do not desire to
 assume a title of so high sublimity at the present moment. For he who
 "*Propheta dicitur hodie, olim vocabatur videns*;" <span
-id="fr_27"></span>[1](#fn_27) for, strictly speaking, my son, a prophet
+id="fr_27"></span>[1](#fn_27.md) for, strictly speaking, my son, a prophet
 is one who sees things remote from the knowledge of all mankind. Or, to
 put the case; to the prophet, by means of the perfect light of prophecy,
 there he opened up very manifestly divine things as well as human; which
@@ -153,7 +153,7 @@ then from nature. Wherefore the independent causes being independently
 produced, or not produced, the presage partially happens, where it was
 predicted. For the human understanding, being intellectually create',
 cannot a penetrate occult causes, otherwise than by the voice of a
-genius by means of the thin flame (vid. page [68](oon08.htm#page_68))
+genius by means of the thin flame (vid. page [68](oon08.htm#page_68).md)
 \[showing\] to what direction future causes incline to develop
 themselves. And further, my son, I implore you never to apply your
 understanding on such reveries and vanities as dry up the body and bring
@@ -187,7 +187,7 @@ that part of time, which the occult property has relation to, by the
 potential virtue and faculty divine, in whose presence the three aspects
 of time are clasped in one by eternity--an evolution that connects in
 one causes past, present, and future--"*quia omnia sunt nuda et aperta*,
-etc." <span id="fr_28"></span>[1](#fn_28)--
+etc." <span id="fr_28"></span>[1](#fn_28.md)--
 
 From all which, my son, you can easily comprehend, notwithstanding your
 tender brain, the things that are to happen can be foretold by nocturnal
@@ -195,7 +195,7 @@ and celestial lights, which are natural, coupled to a spirit of
 prophecy,--not that I would assume the name or efficacy of a prophet,
 but, by revealed inspiration, as a mortal man the senses place me no
 farther from heaven than the feet are from the earth. "*Possum non
-errare, falli, decipi*," <span id="fr_29"></span>[2](#fn_29) (albeit) I
+errare, falli, decipi*," <span id="fr_29"></span>[2](#fn_29) (albeit.md) I
 am the greatest sinner in this world, and heir to every human
 affliction. But being surprised sometimes in the ecstatic work, amid
 prolonged calculation, and engaged in nocturnal studies of sweet odour,
@@ -267,7 +267,7 @@ firmament of the eighth sphere, which, in a latitudinary dimension, is
 where the Almighty will come to complete the revolution, where the
 celestial figures will return to their courses, and the upper motion
 which renders the earth stable for us and fixed, "*non inclinabitur in
-seculum seculorum*," <span id="fr_30"></span>[1](#fn_30) unless His will
+seculum seculorum*," <span id="fr_30"></span>[1](#fn_30.md) unless His will
 be accomplished, and no otherwise.
 
 Although by ambiguous opinions exceeding all natural reason by
@@ -298,7 +298,7 @@ war (more horrible than has been known for three generations of men),
 and famine, that shall fall upon the earth, and return upon it at
 frequent intervals. For the stars accord with such a revolution, and
 with the written word, "*Visitabo in virgâ ferrea iniquitates eorum, et
-in verberibus percutiam eos*." <span id="fr_31"></span>[1](#fn_31) For
+in verberibus percutiam eos*." <span id="fr_31"></span>[1](#fn_31.md) For
 the mercy of God, my son, will not be spread abroad for a time, till the
 major part of my prophesies shall have been accomplished, and have
 become by accomplishment resolved. Thus oftentimes in the course of
@@ -307,17 +307,17 @@ et* 
 
 <span id="page_49">p. 49</span>
 
-non miserebor." <span id="fr_32"></span>[1](#fn_32) And a thousand other
+non miserebor." <span id="fr_32"></span>[1](#fn_32.md) And a thousand other
 accidents will come by waters and continual rain, as I have more fully
 and at large set forth in my other Prophecies, which are drawn out at
-length, *in solutâ oratione*; <span id="fr_33"></span>[2](#fn_33) (in
+length, *in solutâ oratione*; <span id="fr_33"></span>[2](#fn_33.md) (in
 these I) designate the localities, times, and terms prefixed, that all
 men who come after may see, recognizing the circumstances that come
 about by infallible indications. As we have marked by the others where
 we speak more clearly, for although they are covered with a veil of
 cloud, they are clear enough to be comprehended by men of good
 intelligence: "*Sed quando submoventa erit ignorantia*," <span
-id="fr_34"></span>[3](#fn_34) the total will stand out with greater
+id="fr_34"></span>[3](#fn_34.md) the total will stand out with greater
 clearance still. Making an end here, my son, take now this gift of thy
 father, Michael Nostradamus, hoping to expound to thee each several
 prophecy of these quatrains here given, beseeching the immortal Father
@@ -332,14 +332,14 @@ From Salon, this 1st of March, 1555.
 
 ### Footnotes
 
-<span id="fn_20"></span>[39:1](oon06.htm#fr_20) César Nostradamus was
+<span id="fn_20"></span>[39:1](oon06.htm#fr_20.md) César Nostradamus was
 born at the beginning of 1555, so he was but a few weeks old when his
 father dedicated to him the first four "Centuries," published for the
 first time in 1555, by Macé Bonhonune, the printer at Lyons. In the name
 of this son the epistle is really a dedication to his spiritual sons;
 that is, to his interpreters and students in all future ages.
 
-<span id="fn_21"></span>[40:1](oon06.htm#fr_21) Lymphatics, Garencières
+<span id="fn_21"></span>[40:1](oon06.htm#fr_21.md) Lymphatics, Garencières
 (p. 16) tells, were anciently those who were mad for love; and he
 absurdly adds that the sign of it was, that such persons threw
 themselves into the water,--*lympha* meaning water. Varro says that in
@@ -357,18 +357,18 @@ most apt for study, poetry, and vaticination. Garencières invents a word
 for the occasion, or uses one that has since grown obsolete. He employs
 the verb *lymphatize*.
 
-<span id="fn_22"></span>[40:2](oon06.htm#fr_22) "Such alone as are
+<span id="fn_22"></span>[40:2](oon06.htm#fr_22.md) "Such alone as are
 inspired by the divine power can predict particular events in a spirit
 of prophecy"
 
-<span id="fn_23"></span>[41:1](oon06.htm#fr_23) "Thou hast hidden these
+<span id="fn_23"></span>[41:1](oon06.htm#fr_23.md) "Thou hast hidden these
 things from the wise and prudent, *i.e.* from the powerful and from
 kings, and hast revealed them to the small and weak." This is
 Nostradamus's gloss upon Matt. xi. 25.
 
-<span id="fn_24"></span>[42:1](oon06.htm#fr_24) Acts i. 7.
+<span id="fn_24"></span>[42:1](oon06.htm#fr_24.md) Acts i. 7.
 
-<span id="fn_25"></span>[42:2](oon06.htm#fr_25) Nostradamus seems,
+<span id="fn_25"></span>[42:2](oon06.htm#fr_25.md) Nostradamus seems,
 whenever he alludes to this appearance of flame as preceding
 vaticination, to have in his mind the descent of tongues of fire at
 Pentecost (Acts ii. 3), διαμεριζόμεναι γλῶσσαι ὡσεὶ πυρόσ. A flame of
@@ -381,7 +381,7 @@ out that as in Genesis (xi. g), confusion of tongues scattered mankind,
 so hero (Acts ii. 3) the gift of tongues was to bring men again into one
 brotherhood.
 
-<span id="fn_26"></span>[42:3](oon06.htm#fr_26) This passage is very
+<span id="fn_26"></span>[42:3](oon06.htm#fr_26.md) This passage is very
 difficult to bring to a clear sense in translation, Garencières has
 simply evaded it. It seems to mean that God operates all the great
 effects in the universe; that, as He is the Maker, so is He the
@@ -392,33 +392,33 @@ respect of mankind. This is in conformity with the Cabala and Hermetical
 teaching; but what he precisely means cannot, I think, be quite
 absolutely stated.
 
-<span id="fn_27"></span>[43:1](oon06.htm#fr_27) "He who is called
+<span id="fn_27"></span>[43:1](oon06.htm#fr_27.md) "He who is called
 prophet now, once was called seer."
 
-<span id="fn_28"></span>[45:1](oon06.htm#fr_28) "For all things are
+<span id="fn_28"></span>[45:1](oon06.htm#fr_28.md) "For all things are
 naked and open."
 
-<span id="fn_29"></span>[45:2](oon06.htm#fr_29) "I am able not to err,
+<span id="fn_29"></span>[45:2](oon06.htm#fr_29.md) "I am able not to err,
 fail, or be deceived."
 
-<span id="fn_30"></span>[47:1](oon06.htm#fr_30) "Whence it shall not
+<span id="fn_30"></span>[47:1](oon06.htm#fr_30.md) "Whence it shall not
 deviate from age to age."
 
-<span id="fn_31"></span>[48:1](oon06.htm#fr_31) "I will visit their
+<span id="fn_31"></span>[48:1](oon06.htm#fr_31.md) "I will visit their
 iniquities with a rod of iron, and with blows will strike them." This
 somewhat resembles a passage in the Psalms (ii. 7), but it is not a
 quotation.
 
-<span id="fn_32"></span>[49:1](oon06.htm#fr_32) "I will trample them and
+<span id="fn_32"></span>[49:1](oon06.htm#fr_32.md) "I will trample them and
 break them, and not show pity." This resembles Isai. lxiii. 3.
 
-<span id="fn_33"></span>[49:2](oon06.htm#fr_33) In prose, and not in
+<span id="fn_33"></span>[49:2](oon06.htm#fr_33.md) In prose, and not in
 verse, as the quatrains are. These prose forcastings have, I am afraid,
 been altogether lost.
 
-<span id="fn_34"></span>[49:3](oon06.htm#fr_34) "When the time arrives
+<span id="fn_34"></span>[49:3](oon06.htm#fr_34.md) "When the time arrives
 for the removal of ignorance."
 
 ------------------------------------------------------------------------
 
-[Next: Epistle to Henry II](oon07)
+[Next: Epistle to Henry II](oon07.md)

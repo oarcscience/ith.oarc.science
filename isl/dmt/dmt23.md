@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt22)  [Next](dmt24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt22)  [Next](dmt24.md) 
 
 ------------------------------------------------------------------------
 
@@ -176,7 +176,7 @@ limited. So, according to this doctrine--that existence is a state--the
 essence of God is not His existence and the essences of the created
 things are not their existences. But al-Ash‘ari and his followers hold
 that existence is the self (*ayn*) of an entity, and according to their
-view the [existence](errata.htm#6) of God is the self of His essence and
+view the [existence](errata.htm#6.md) of God is the self of His essence and
 not an addition to it externally, and the existence of a created thing
 is the self
 
@@ -379,7 +379,7 @@ bringer-into-existence of all things. The proof that He subsists in
 Himself is that you say, "If God had need of a *locus*, that is an
 essence, in which He might subsist, as whiteness has need of an essence
 in which it may subsist, He would be a quality, as whiteness, for
-example, is a quality. But [it](errata.htm#7) is not sound to say of Him
+example, is a quality. But [it](errata.htm#7.md) is not sound to say of Him
 that He is a quality, for He is described by qualities, and a quality is
 not described by qualities, so He is not a quality. And if He had need
 of a bringer-into-existence, He would be an originated thing, and His
@@ -1380,10 +1380,10 @@ complexion, according to what some of them have said.
 
 This is the last of that which God has made easy by His grace. His
 Blessing be upon our Lord Muhammad and upon his family and his
-Companions and his descendants, [so](errata.htm#8) long as the mindful
+Companions and his descendants, [so](errata.htm#8.md) long as the mindful
 are mindful of him and the heedless are heedless of the thought of him.
 And Praise belongeth unto God, the Lord of the Worlds.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Analysis of the Taqrib of Abu Shuja Al-Ispahani](dmt24)
+[Next: VII. Analysis of the Taqrib of Abu Shuja Al-Ispahani](dmt24.md)

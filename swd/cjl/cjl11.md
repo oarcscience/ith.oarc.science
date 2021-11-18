@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](cjl10)  [Next](cjl12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](cjl10)  [Next](cjl12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402180012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402180012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1177,4 +1177,4 @@ miracles done by the Lord himself, while he was in the world."
 
 ------------------------------------------------------------------------
 
-[Next: GENERAL INDEX](cjl12)
+[Next: GENERAL INDEX](cjl12.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe26)  [Next](boe28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe26)  [Next](boe28.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ the Purgatorial *Montagna malagevole altissima et cinta de* 
 Dante&lt;/i&gt;.&lt;br&gt; &lt;i&gt;a&lt;/i&gt;. City of Jerusalem.
 &lt;i&gt;b&lt;/i&gt;. Mountain of Purgatory. &lt;i&gt;c&lt;/i&gt;.
 Inferno within the Earth.&lt;br&gt; (From &lt;i&gt;Paradise
-Found&lt;/i&gt;; William Fairfield Warren, 1885.)](img/fig090.jpg)  
+Found&lt;/i&gt;; William Fairfield Warren, 1885.)](img/fig090.jpg.md)  
 FIGURE 90. *The Earth of Dante*.  
 *a*. City of Jerusalem. *b*. Mountain of Purgatory. *c*. Inferno within
 the Earth.  
@@ -64,7 +64,7 @@ Dante Alighieri dichiarata in Vi tavole, Monte Cassino,
 1855&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Studies in the History and
 Method of Science&lt;/i&gt;, ed. by Charles Singer, 1917, Vol. I, Fig.
 4.)](tn/fig091.jpg)  
-Click to enlarge](img/fig091.jpg)  
+Click to enlarge](img/fig091.jpg.md)  
 FIGURE 91. *Dante's Scheme of the Universe*.  
 Slightly modified from Michelangelo Caetani, duca di Sermoneta, *La
 materia della Divina Commedia di Dante Alighieri dichiarata in Vi
@@ -123,4 +123,4 @@ of the cosmos, "small and round as a threshing floor."
 
 ------------------------------------------------------------------------
 
-[Next: Earth the Heart of the Cosmos](boe28)
+[Next: Earth the Heart of the Cosmos](boe28.md)

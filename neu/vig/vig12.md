@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig11)  [Next](vig13) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig11)  [Next](vig13.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ in this story.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](vig13)
+[Next: Chapter X](vig13.md)

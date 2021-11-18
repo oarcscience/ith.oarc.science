@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss24)  [Next](oss26) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss24)  [Next](oss26.md) 
 
 ------------------------------------------------------------------------
 
@@ -160,7 +160,7 @@ the brave.
 
 "Where," said the mouth of the song, "where is the fallen Crugal? He
 lies forgot on earth; the hall of shells  <span
-id="fr_77"></span>[1](#fn_77) is silent. Sad is the spouse of Crugal.
+id="fr_77"></span>[1](#fn_77.md) is silent. Sad is the spouse of Crugal.
 She is a stranger in the hall of her grief. But who is she that, like a
 sunbeam, flies before the ranks of the foe?
 
@@ -258,7 +258,7 @@ since he slew his friend! Ferda, son of Damman, I loved thee as myself!"
 "How, Cuthullin, son of Semo, how fell the breaker of the shields? Well
 I remember," said Connal, "the son of the noble Damman. Tall and fair,
 he was like the rainbow of heaven. Ferda from Albion came, the chief of
-a hundred hills. In Muri's  <span id="fr_78"></span>[1](#fn_78) hall he
+a hundred hills. In Muri's  <span id="fr_78"></span>[1](#fn_78.md) hall he
 learned the sword, and won the friendship of Cuthullin. We moved to the
 chase together: one was our bed in the heath."
 
@@ -349,13 +349,13 @@ by the mariner, when he bounds on the waves of the north.
 
 ### Footnotes
 
-<span id="fn_77"></span>[311:1](oss25.htm#fr_77) The ancient Scots, well
+<span id="fn_77"></span>[311:1](oss25.htm#fr_77.md) The ancient Scots, well
 as the present Highlanders, drunk in shells; hence it is, that we so
 often meet in the old poetry with "chief of shells," and "the hall of
 shells."
 
-<span id="fn_78"></span>[314:1](oss25.htm#fr_78) A place in Ulster.
+<span id="fn_78"></span>[314:1](oss25.htm#fr_78.md) A place in Ulster.
 
 ------------------------------------------------------------------------
 
-[Next: Book III](oss26)
+[Next: Book III](oss26.md)

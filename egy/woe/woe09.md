@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](woe08)  [Next](woe10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](woe08)  [Next](woe10.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 # CHAPTER VII
 
-### THE VISION OF HERMES <span id="fr_51"></span>[1](#fn_51)
+### THE VISION OF HERMES <span id="fr_51"></span>[1](#fn_51.md)
 
 ONE day, Hermes, after reflecting on the origin of things, fell asleep.
 A dull torpor took possession of his body; but in proportion as the
@@ -106,7 +106,7 @@ divine intelligence. At the boundaries of the world, beneath the
 <span id="page_267">p. 267</span>
 
 signs of the Zodiac, Saturn bears the globe of universal wisdom. <span
-id="fr_52"></span>[1](#fn_52)
+id="fr_52"></span>[1](#fn_52.md)
 
 "I see," said Hermes, "the seven regions which comprise the visible and
 invisible world; I see the seven rays of the word-light, of the one God
@@ -329,7 +329,7 @@ foreshadowed? A wonder and a mystery! Surely it was a reality, and if
 that soul was only his own, it was the true one. What would he not do to
 recover it? Were he to live millions of years he would never forget that
 divine hour in which he had seen his other self, so pure and
-radiant. <span id="fr_53"></span>[1](#fn_53)
+radiant. <span id="fr_53"></span>[1](#fn_53.md)
 
 <span id="page_277">p. 277</span>
 
@@ -369,21 +369,21 @@ forth like an immortal lamp."
 
 ### Footnotes
 
-<span id="fn_51"></span>[263:1](woe09.htm#fr_51) *The Vision of Hermes*
+<span id="fn_51"></span>[263:1](woe09.htm#fr_51.md) *The Vision of Hermes*
 is found at the beginning of the books of *Hermes Trismegistus*, under
 the name of *Poimandres*. The ancient Egyptian tradition has come down
 to us only in a slightly changed Alexandrian form. It has been attempted
 here to constitute this important fragment of Hermetic doctrine in the
 sense of the lofty initiation and esoteric synthesis it represents.
 
-<span id="fn_52"></span>[267:1](woe09.htm#fr_52) It is unnecessary to
+<span id="fn_52"></span>[267:1](woe09.htm#fr_52.md) It is unnecessary to
 state that these gods bore other names in the Egyptian tongue. The seven
 cosmogonic gods, however, correspond with one another in all
 mythologies, in meaning and attributes. They have their common root in
 the ancient esoteric tradition. As the western tradition has adopted the
 Latin names, we keep them for greater clearness.
 
-<span id="fn_53"></span>[276:1](woe09.htm#fr_53) In the Egyptian
+<span id="fn_53"></span>[276:1](woe09.htm#fr_53.md) In the Egyptian
 teachings, man was considered in this life to have consciousness only of
 the animal and the rational soul, called *hati* and *bai*. The higher
 part of his being, the spiritual soul and the divine being, *cheybi* and
@@ -391,4 +391,4 @@ part of his being, the spiritual soul and the divine being, *cheybi* and
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: The Story of the Book of Thoth](woe10)
+[Next: Chapter VIII: The Story of the Book of Thoth](woe10.md)

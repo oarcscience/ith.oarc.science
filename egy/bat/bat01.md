@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](bat00)  [Next](bat02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](bat00)  [Next](bat02.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ the whole work, will be found in the third volume.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](bat02)
+[Next: Contents](bat02.md)

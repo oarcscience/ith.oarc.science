@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,12 +20,12 @@
 
 ### Tract Baba Kama (First Gate, part II)
 
-[Title Page](kam00)  
-[Explanatory Remarks](kam01)  
-[Contents](kam02)  
-[Synopsis of Subjects](kam03)  
-[Chapter IX](kam04)  
-[Chapter X](kam05)  
+[Title Page](kam00.md)  
+[Explanatory Remarks](kam01.md)  
+[Contents](kam02.md)  
+[Synopsis of Subjects](kam03.md)  
+[Chapter IX](kam04.md)  
+[Chapter X](kam05.md)  
 
 ------------------------------------------------------------------------
 
@@ -33,12 +33,12 @@
 
 ### Tract Baba Metzia (Middle Gate), Part I
 
-[Contents](me100)  
-[Synopsis of Subjects](me101)  
-[Chapter I](me102)  
-[Chapter II](me103)  
-[Chapter III](me104)  
-[Chapter IV](me105)  
+[Contents](me100.md)  
+[Synopsis of Subjects](me101.md)  
+[Chapter I](me102.md)  
+[Chapter II](me103.md)  
+[Chapter III](me104.md)  
+[Chapter IV](me105.md)  
 
 ------------------------------------------------------------------------
 
@@ -46,13 +46,13 @@
 
 ### Tract Baba Metzia (Middle Gate), Part II
 
-[Title Page](me200)  
-[Explanatory Remarks](me201)  
-[Contents](me202)  
-[Synopsis of Subjects](me203)  
-[Chapter V](me204)  
-[Chapter VI.](me205)  
-[Chapter VII](me206)  
-[Chapter VIII.](me207)  
-[Chapter IX](me208)  
-[Chapter X](me209)  
+[Title Page](me200.md)  
+[Explanatory Remarks](me201.md)  
+[Contents](me202.md)  
+[Synopsis of Subjects](me203.md)  
+[Chapter V](me204.md)  
+[Chapter VI.](me205.md)  
+[Chapter VII](me206.md)  
+[Chapter VIII.](me207.md)  
+[Chapter IX](me208.md)  
+[Chapter X](me209.md)  

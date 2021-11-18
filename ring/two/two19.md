@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Index](index)  [Previous](two18)  [Next](two20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Index](index)  [Previous](two18)  [Next](two20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Worm Ouroboros*, by E. R. Eddison, \[1922\], at Intangible Textual
 Heritage
 
@@ -313,7 +313,7 @@ speak it not again."
 
 <span id="img_22900"></span> <span align="CENTER"> [![IN KOSHTRA
 BELORN.](tn/22900.jpg)  
-Click to enlarge](img/22900.jpg)  
+Click to enlarge](img/22900.jpg.md)  
 IN KOSHTRA BELORN.  
 </span>
 
@@ -566,4 +566,4 @@ make the stoutest blench."
 
 ------------------------------------------------------------------------
 
-[Next: XIV. The Lake of Ravary](two20)
+[Next: XIV. The Lake of Ravary](two20.md)

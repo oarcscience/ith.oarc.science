@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](ic64)  [Next](icap1-2) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](ic64)  [Next](icap1-2.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,12 +10,12 @@
 
 ## APPENDIX I
 
-Treatise on the Thwan <span id="fr_124"></span>[1](#fn_124), or king
+Treatise on the Thwan <span id="fr_124"></span>[1](#fn_124.md), or king
 Wăn's Explanations of the entire Hexagrams
 
 ### SECTION I
 
- <span id="fr_125"></span>[I](#fn_125). 1. Vast is the 'great and
+ <span id="fr_125"></span>[I](#fn_125.md). 1. Vast is the 'great and
 originating (power)' indicated by *Kh*ien! All things owe to it their
 beginning:--it contains all the meaning belonging to (the name) heaven.
 
@@ -38,7 +38,7 @@ states all enjoy repose.
 
 <span id="page_214">p. 214</span>
 
- <span id="fr_126"></span>[II](#fn_126). 1. Complete is the 'great and
+ <span id="fr_126"></span>[II](#fn_126.md). 1. Complete is the 'great and
 originating (capacity)' indicated by Khwăn! All things owe to it their
 birth;--it receives obediently the influences of Heaven.
 
@@ -62,7 +62,7 @@ friends:'--but in the end there will be ground for congratulation.
 5\. 'The good fortune arising from resting in firmness' corresponds to
 the unlimited capacity of the earth.
 
- <span id="fr_127"></span>[III](#fn_127). 1. In Kun we have the strong
+ <span id="fr_127"></span>[III](#fn_127.md). 1. In Kun we have the strong
 (*Kh*ien) and the weak (Khwăn) commencing their intercourse, and
 difficulties arising.
 
@@ -78,7 +78,7 @@ up. But the condition of the time is full of irregularity and obscurity.
 Feudal princes should be established, but the feeling that rest and
 peace have been secured should not be indulged (even then).
 
- <span id="fr_128"></span>[IV](#fn_128). 1. In Măng we have (the trigram
+ <span id="fr_128"></span>[IV](#fn_128.md). 1. In Măng we have (the trigram
 for) a mountain, and below it that of a rugged defile with a stream in
 it. The conditions of peril and arrest
 
@@ -102,7 +102,7 @@ the sage.
 
 <span id="page_218">p. 218</span>
 
- <span id="fr_129"></span>[V](#fn_129). 1. Hsü denotes waiting. (The
+ <span id="fr_129"></span>[V](#fn_129.md). 1. Hsü denotes waiting. (The
 figure) shows peril in front; but notwithstanding the firmness and
 strength (indicated by the inner trigram), its subject does not allow
 himself to be involved (in the dangerous defile);--it is right he should
@@ -118,7 +118,7 @@ achievement.
 
 <span id="page_219">p. 219</span>
 
- <span id="fr_130"></span>[VI](#fn_130). 1. The upper portion of Sung is
+ <span id="fr_130"></span>[VI](#fn_130.md). 1. The upper portion of Sung is
 (the trigram representing) strength, and the lower (that representing)
 peril. (The coming together of) strength and peril gives (the idea in)
 Sung.
@@ -139,7 +139,7 @@ value on is the due mean, and the correct place.
 
 <span id="page_220">p. 220</span>
 
- <span id="fr_131"></span>[VII](#fn_131). 1. (The name) Sze describes
+ <span id="fr_131"></span>[VII](#fn_131). 1. (The name.md) Sze describes
 the multitude (of the host). The 'firmness and correctness' (which the
 hexagram indicates) refer to (moral) correctness (of aim). When (the
 mover) is able to use the multitude with such correctness, he may attain
@@ -152,7 +152,7 @@ sentiments of men). (Its mover) may by such action distress all the
 country, but the people will follow him;--there will be good fortune,
 and what error should there be?
 
- <span id="fr_132"></span>[VIII](#fn_132). 1. 'Pî indicates that there
+ <span id="fr_132"></span>[VIII](#fn_132.md). 1. 'Pî indicates that there
 is good fortune:'--(the name) Pî denotes help; (and we see in the
 figure) inferiors docilely following (their superior).
 
@@ -166,7 +166,7 @@ who have not rest will come to him:'--high and low will respond to its
 subject. 'With those who are (too) late in coming it will be ill:'--(for
 them) the way (of good fortune here indicated) has been exhausted.
 
- <span id="fr_133"></span>[IX](#fn_133). 1. In Hsiâo *Kh*û the weak line
+ <span id="fr_133"></span>[IX](#fn_133.md). 1. In Hsiâo *Kh*û the weak line
 occupies its (proper) position, and (the lines) above and below respond
 to it. Hence comes the name of Hsiâo *Kh*û (Small Restraint).
 
@@ -182,7 +182,7 @@ lines) still going forward. The
 'Commencing at our western border' indicates that the (beneficial)
 influence has not yet been widely displayed.
 
- <span id="fr_134"></span>[X](#fn_134). 1. In Lî we have (the symbol of)
+ <span id="fr_134"></span>[X](#fn_134). 1. In Lî we have (the symbol of.md)
 weakness treading on (that of) strength.
 
 2\. (The lower trigram) indicates pleasure and satisfaction, and
@@ -197,7 +197,7 @@ progress and success.'
 its correct place. (Its subject) occupies the God-(given) position, and
 falls into no distress or failure;--(his) action will be brilliant.
 
- <span id="fr_135"></span>[XI](#fn_135). 'The little come and the great
+ <span id="fr_135"></span>[XI](#fn_135.md). 'The little come and the great
 gone in Thâi, and its indication that there will be good fortune with
 progress and success' show to us heaven and earth in communication with
 each other, and all things in consequence having free course, and (also)
@@ -213,7 +213,7 @@ small man. (Thus) the way of
 the superior man appears increasing, and that of the small man
 decreasing.
 
- <span id="fr_136"></span>[XII](#fn_136). 'The want of good
+ <span id="fr_136"></span>[XII](#fn_136.md). 'The want of good
 understanding between the (different classes of) men in Phî, and its
 indication as unfavourable to the firm and correct course of the
 superior man; with the intimation that the great are gone and the little
@@ -230,7 +230,7 @@ man decreasing.
 
 <span id="page_225">p. 225</span>
 
- <span id="fr_137"></span>[XIII](#fn_137). 1. In Thung *Z*ăn the weak
+ <span id="fr_137"></span>[XIII](#fn_137.md). 1. In Thung *Z*ăn the weak
 (line) has the place (of influence), the central place, and responds to
 (the corresponding line in) *Kh*ien (above); hence comes its name of
 Thung *Z*ăn (or 'Union of men').
@@ -248,7 +248,7 @@ representing) the correct course of the superior man. It is only the
 superior man who can comprehend and affect the minds of all under the
 sky.
 
- <span id="fr_138"></span>[XIV](#fn_138). 1. In Tâ Yû the weak (line)
+ <span id="fr_138"></span>[XIV](#fn_138). 1. In Tâ Yû the weak (line.md)
 has the place of honour, is grandly central, and (the strong lines)
 above and below respond to it. Hence comes its name of Tâ Yû (Having
 what is Great).
@@ -261,7 +261,7 @@ ruling line in the symbol of) heaven, and (consequently) its action is
 (all) at the proper times. In this way (it is said to) indicate great
 progress and success.
 
- <span id="fr_139"></span>[XV](#fn_139). 1. *Kh*ien indicates progress
+ <span id="fr_139"></span>[XV](#fn_139.md). 1. *Kh*ien indicates progress
 and success. It is the way of heaven to send down its beneficial
 influences below, where they are brilliantly displayed. It is the way of
 earth, lying low, to send its influences upwards and (there) to act.
@@ -276,7 +276,7 @@ superior man will have a (good) issue (to his undertakings).'
 
 <span id="page_227">p. 227</span>
 
- <span id="fr_140"></span>[XVI](#fn_140). 1. In Yü we see the strong
+ <span id="fr_140"></span>[XVI](#fn_140.md). 1. In Yü we see the strong
 (line) responded to by all the others, and the will (of him whom it
 represents) being carried out; and (also) docile obedience employing
 movement (for its purposes). (From these things comes) Yü (the Condition
@@ -297,7 +297,7 @@ indicated in Yü!
 
 <span id="page_228">p. 228</span>
 
- <span id="fr_141"></span>[XVII](#fn_141). 1. In Sui we see the strong
+ <span id="fr_141"></span>[XVII](#fn_141.md). 1. In Sui we see the strong
 (trigram) come and place itself under the weak; we see (in the two) the
 attributes of movement and pleasure:--this gives (the idea of) Sui.
 
@@ -307,7 +307,7 @@ a time.
 
 3\. Great indeed are the time and significance indicated in Sui.
 
- <span id="fr_142"></span>[XVIII](#fn_142). 1. In Kû we have the strong
+ <span id="fr_142"></span>[XVIII](#fn_142.md). 1. In Kû we have the strong
 (trigram) above, and the weak one below; we have (below) pliancy, and
 (above) stopping:--these give the idea of Kû (a Troublous Condition of
 affairs verging to ruin).
@@ -324,7 +324,7 @@ turning-point), and those (to be done) three days after it:'--the end
 (of confusion) is the beginning (of order); such is the procedure of
 Heaven.
 
- <span id="fr_143"></span>[XIX](#fn_143). 1. In Lin (we see) the strong
+ <span id="fr_143"></span>[XIX](#fn_143). 1. In Lin (we see.md) the strong
 (lines) gradually increasing and advancing.
 
 2\. (The lower trigram is the symbol of) being pleased, and (the upper
@@ -337,7 +337,7 @@ correctness:'--this is the way of Heaven.
 4\. 'In the eighth month there will be evil:'--(the advancing power)
 will decay after no long time.
 
- <span id="fr_144"></span>[XX](#fn_144). 1. The great Manifester
+ <span id="fr_144"></span>[XX](#fn_144.md). 1. The great Manifester
 occupies an upper place (in the figure), which consists of (the trigrams
 
 <span id="page_230">p. 230</span>
@@ -356,7 +356,7 @@ four seasons proceed without error. The sages, in accordance with (this)
 spirit-like way, laid down their instructions, and all under heaven
 yield submission to them.
 
- <span id="fr_145"></span>[XXI](#fn_145). 1. The existence of something
+ <span id="fr_145"></span>[XXI](#fn_145.md). 1. The existence of something
 between the jaws gives rise to the name Shih Ho (Union by means of
 biting through the intervening article).
 
@@ -373,7 +373,7 @@ manifestation. The weak (fifth) line is in
 the centre, and acts in its high position. Although it is not in its
 proper position, this is advantageous for the use of legal constraints.
 
- <span id="fr_146"></span>[XXII](#fn_146). 1. (When it is said that) Pî
+ <span id="fr_146"></span>[XXII](#fn_146). 1. (When it is said that.md) Pî
 indicates that there should be free course (in what it denotes):--
 
 2\. (We see) the weak line coming and ornamenting the strong lines (of
@@ -395,7 +395,7 @@ accomplished all under heaven.
 
 <span id="page_232">p. 232</span>
 
- <span id="fr_147"></span>[XXIII](#fn_147). 1. Po denotes overthrowing
+ <span id="fr_147"></span>[XXIII](#fn_147.md). 1. Po denotes overthrowing
 or being overthrown. We see (in the figure) the weak lines (threatening
 to) change the (last) strong line (into one of themselves).
 
@@ -409,7 +409,7 @@ in the movements of the heavenly bodies.
 
 <span id="page_233">p. 233</span>
 
- <span id="fr_148"></span>[XXIV](#fn_148). 1. 'Fû indicates the free
+ <span id="fr_148"></span>[XXIV](#fn_148.md). 1. 'Fû indicates the free
 course and progress (of what it denotes):'--it is the coming back of
 what is intended by the undivided line.
 
@@ -425,7 +425,7 @@ made:--the strong lines are growing and increasing.
 
 5\. Do we not see in Fû the mind of heaven and earth?
 
- <span id="fr_149"></span>[XXV](#fn_149). In Wû Wang we have the strong
+ <span id="fr_149"></span>[XXV](#fn_149.md). In Wû Wang we have the strong
 (first) line come from the outer (trigram), and become in the inner
 trigram lord (of the whole figure); we have (the attributes of) motive
 power and strength; we have the strong line (of the fifth place) in the
@@ -443,7 +443,7 @@ insincerity, (and yet is as here described) proceed? Can anything be
 done (advantageously) by him whom the (will and) appointment of Heaven
 do not help?
 
- <span id="fr_150"></span>[XXVI](#fn_150). 1. In (the trigrams
+ <span id="fr_150"></span>[XXVI](#fn_150.md). 1. In (the trigrams
 composing) Tâ *Kh*û we have (the attributes) of the greatest strength
 and of substantial solidity, which emit a brilliant light; and indicate
 a daily renewal of his virtue (by the subject of it).
@@ -462,7 +462,7 @@ revenues in his own family' shows how talents and virtue are nourished.
 line, representing the ruler,) is responded to by (the second, the
 central line of *Kh*ien, representing) Heaven.
 
- <span id="fr_151"></span>[XXVII](#fn_151). 1. 'Î indicates that with
+ <span id="fr_151"></span>[XXVII](#fn_151.md). 1. 'Î indicates that with
 firm correctness there will be good fortune:'--when the nourishing is
 correct, there will be good fortune. 'We must look at what we are
 seeking to nourish:'--we must look at those whom we wish to nourish. 'We
@@ -475,7 +475,7 @@ is (the work intended by this) nourishing in its time!
 
 <span id="page_236">p. 236</span>
 
- <span id="fr_152"></span>[XXVIII](#fn_152). 1. Tâ Kwo shows the great
+ <span id="fr_152"></span>[XXVIII](#fn_152.md). 1. Tâ Kwo shows the great
 ones (= the undivided lines) in excess.
 
 2\. In 'the beam that is weak' we see weakness both in the lowest and
@@ -490,7 +490,7 @@ success. '
 4\. Great indeed is (the work to be done in) this very extraordinary
 time.
 
- <span id="fr_153"></span>[XXIX](#fn_153). 1. Khan repeated shows us one
+ <span id="fr_153"></span>[XXIX](#fn_153.md). 1. Khan repeated shows us one
 defile succeeding another.
 
 2\. This is the nature of water;--it flows on, without accumulating its
@@ -510,7 +510,7 @@ rivers, hills, and mounds. Kings and princes arrange by means of such
 strengths, to maintain their territories. Great indeed is the use of
 (what is here) taught about seasons of peril.
 
- <span id="fr_154"></span>[XXX](#fn_154). Lî means being attached to.
+ <span id="fr_154"></span>[XXX](#fn_154.md). Lî means being attached to.
 The sun and moon have their place in the sky. All the grains, grass, and
 trees have their place on the earth. The double brightness (of the two
 trigrams) adheres to what is correct, and the result is the transforming
@@ -524,16 +524,16 @@ gives the indication of 'a free and successful course;' and, moreover,
 
 ### Footnotes
 
-<span id="fn_124"></span>[213:1](icap1-1.htm#fr_124) The name Thwan, and
+<span id="fn_124"></span>[213:1](icap1-1.htm#fr_124.md) The name Thwan, and
 the meaning of the character so-called, are sufficiently established.
 The Thwan are king Wăn's explanations of the entire hexagrams. It seems
 impossible now to <span id="page_214">p. 214</span> ascertain how the
 character arose, and how it was named Thwan. The treatise on the Thwan
 is ascribed to Confucius; and I have considered in the Introduction, [p.
-30](icintr03.htm#page_30), whether the tradition to this effect may to
+30](icintr03.htm#page_30.md), whether the tradition to this effect may to
 any extent be admitted.
 
-<span id="fn_125"></span>[214:I](icap1-1.htm#fr_125) The hexagram
+<span id="fn_125"></span>[214:I](icap1-1.htm#fr_125.md) The hexagram
 *Kh*ien is made up of six undivided lines, or of the trigram *Kh*ien,
 Fû-hsî's symbol for heaven, repeated. The Thwan does not dwell upon
 this, but starts, in its exposition, from the word 'heaven,' supposing
@@ -556,7 +556,7 @@ sky in a carriage drawn by six dragons. *K*û Hsî extravagantly says that
 'the sage is Heaven, and Heaven is the sage;' but there is nothing like
 this in the text.
 
-<span id="fn_126"></span>[215:II](icap1-1.htm#fr_126) As the writer in
+<span id="fn_126"></span>[215:II](icap1-1.htm#fr_126.md) As the writer in
 expounding the Thwan of hexagram 1 starts from the word 'heaven,' so
 here he does so from the symbolic meaning attached to 'earth.' What I
 have said on the Text about the difference with which the same
@@ -578,7 +578,7 @@ See the note, corresponding to paragraph 4, on the Text. 'Resting in
 firmness' is the normal course of Khwăn. Where it is pursued, the good
 effect will be great, great as the unlimited capacity of the earth.
 
-<span id="fn_127"></span>[216:III](icap1-1.htm#fr_127) *K*un is made up
+<span id="fn_127"></span>[216:III](icap1-1.htm#fr_127.md) *K*un is made up
 of the trigrams *K*ăn and Khan; but according to the views on king Wăn's
 arrangement of the trigrams, as set forth especially in Appendix V,
 chap. 14, the six others come from *Kh*ien and Khwăn, and are said to be
@@ -609,12 +609,12 @@ of the time. Good princes throughout the nation would help to remedy
 that; but the supreme authority should not resign itself to
 indifference, trusting to them.
 
-<span id="fn_128"></span>[217:IV](icap1-1.htm#fr_128) The trigram Kăn
+<span id="fn_128"></span>[217:IV](icap1-1.htm#fr_128.md) The trigram Kăn
 has for its symbol in the natural world a mountain, which stands up
 frowningly, and stops or arrests the progress of the traveller.
 Stoppage, understood sometimes actively, and sometimes passive\]y, is
 called the virtue or attribute indicated by it. Khan, as I said on [p.
-32](icintr03.htm#page_32), has water for its symbol, and especially in
+32](icintr03.htm#page_32.md), has water for its symbol, and especially in
 the form of rain. Here, however, the water appears as a stream in a
 difficult defile, such as ordinarily appears on an approach to a
 mountain, and suggesting perilousness as the attribute of such a
@@ -639,7 +639,7 @@ moral state made for goodness. The efficient teacher directing his
 efforts to bring out and nourish that, the progress and success will be
 'great;' the service done will be worthy of 'a sage.'
 
-<span id="fn_129"></span>[218:V](icap1-1.htm#fr_129) Hsü is composed of
+<span id="fn_129"></span>[218:V](icap1-1.htm#fr_129.md) Hsü is composed of
 *Kh*ien, having the quality of strength, and of Khan, having the quality
 of perilousness. Thc strong one might readily dare the peril, but he
 restrains himself and waits. This is the lesson of the hexagram,--the
@@ -652,9 +652,9 @@ from its occurrence in the Shih, III, i, ode 2. 1. Five is an odd
 number, and the fifth is therefore the 'correct' place for an undivided
 line; it is also the central place of the trigram, indicating. how its
 occupant is sure to walk in the due mean. See further the notes on the
-Text, [p. 68](ic05.htm#page_68).
+Text, [p. 68](ic05.htm#page_68.md).
 
-<span id="fn_130"></span>[219:VI](icap1-1.htm#fr_130) Paragraph 1 here
+<span id="fn_130"></span>[219:VI](icap1-1.htm#fr_130.md) Paragraph 1 here
 is much to the same effect as the first sentence in the notes on the
 Thwan of the Text. It is said, 'Strength without peril would not produce
 contention; peril without strength would not be able to contend.'
@@ -681,7 +681,7 @@ equivalent simply to a strong line is there.'
 What 'the great man sets a value on being the due mean and the correct
 place,' his decision in any matter of contention is sure to be right.
 
-<span id="fn_131"></span>[220:VII](icap1-1.htm#fr_131) That 'multitude'
+<span id="fn_131"></span>[220:VII](icap1-1.htm#fr_131.md) That 'multitude'
 is given here as if it were the meaning of the name Sze arose, probably,
 from there being but one undivided line in the figure. That is the
 symbol of the general, all the other lines, divided, suggest the idea of
@@ -700,7 +700,7 @@ is like 'poison' to a country, injurious, and threatening ruin to it,
 and yet the people will endure and encounter it in behalf of the
 sovereign whom they esteem and love.
 
-<span id="fn_132"></span>[221:VIII](icap1-1.htm#fr_132) There is some
+<span id="fn_132"></span>[221:VIII](icap1-1.htm#fr_132.md) There is some
 error in the text here,--as all the critics acknowledge. I have adopted
 the decision of *K*û Hsî, which by a very small change makes the whole
 read consistently, and in harmony with other explanations of the Thwan.
@@ -711,7 +711,7 @@ their superior, represented in the fifth line.
 union till it is too late. The sentiment is the same as that in the
 lines of Shakespeare about the tide in the affairs of men.
 
-<span id="fn_133"></span>[222:IX](icap1-1.htm#fr_133) The weak line' is
+<span id="fn_133"></span>[222:IX](icap1-1.htm#fr_133.md) The weak line' is
 said to occupy 'its proper position,' because it is in the fourth,--an
 even place. The 'responding' on the part of all the other lines above
 and below is their submitting to be restrained by it; and this arises
@@ -738,7 +738,7 @@ meaning of the paragraph. This is the answer to the riddle of it.
 Confucius, in his treatise on the Thwan, hints at it, but no Chinese
 critic has the boldness to declare it fully.
 
-<span id="fn_134"></span>[223:X](icap1-1.htm#fr_134) '(The symbol of)
+<span id="fn_134"></span>[223:X](icap1-1.htm#fr_134) '(The symbol of.md)
 weakness' in paragraph 1, according to Wang Shăn-žze (Yüan dynasty), is
 line 3, urged by the two strong lines below, and having to encounter the
 three strong lines above. Hû Ping-wan (also of the Yüan dynasty) says
@@ -759,7 +759,7 @@ phrase as it occurs in the Shû, I, 12, the force of Tî will depend on
 the meaning assigned to it in that part of the Shû. That the fifth line
 occupies the place of authority is here the only important point.
 
-<span id="fn_135"></span>[224:XI](icap1-1.htm#fr_135) There is nothing
+<span id="fn_135"></span>[224:XI](icap1-1.htm#fr_135.md) There is nothing
 to be said on the explanation of the Thwan here beyond what has been
 noticed on the different paragraphs of the Text. Canon McClatchie
 translates:--'The Thwan means that Heaven and Earth have now conjugal
@@ -773,7 +773,7 @@ here well illustrates how the ruling idea in all the antinomies of the
 Yî is that of authority and strength on the one side, and of inferiority
 and weakness on the other.
 
-<span id="fn_136"></span>[224:XII](icap1-1.htm#fr_136) All the symbolism
+<span id="fn_136"></span>[224:XII](icap1-1.htm#fr_136.md) All the symbolism
 here springs from the trigram Khwăn occupying in the figure the inner or
 lower place, and *Kh*ien the outer or upper. It is for the inner trigram
 to take the initiative; <span id="page_225">p. 225</span> but how can
@@ -781,7 +781,7 @@ earth (symbolised by Khwăn) take the place of heaven (symbolised by
 *Kh*ien)? As in nature it is heaven that originates and not earth, so in
 a state the upper classes must take the initiative, and not the lower.
 
-<span id="fn_137"></span>[225:XIII](icap1-1.htm#fr_137) To understand
+<span id="fn_137"></span>[225:XIII](icap1-1.htm#fr_137.md) To understand
 the various points in this commentary, it is only necessary to refer to
 the Text of the hexagram. The proper correlate of line 2 is line 5, and
 I have said therefore that it 'responds to (the corresponding line in)
@@ -793,7 +793,7 @@ I do not think that a second paragraph has been lost. The <span
 id="page_226">p. 226</span> 'Thung *Z*ăn says' is merely a careless
 repetition of the three concluding characters of paragraph 1.
 
-<span id="fn_138"></span>[226:XIV](icap1-1.htm#fr_138) The position in
+<span id="fn_138"></span>[226:XIV](icap1-1.htm#fr_138.md) The position in
 the fifth place indicates the dignity, and its being central, in the
 centre of the upper trigram, indicates the virtue, of the lord of the
 figure.
@@ -801,7 +801,7 @@ figure.
 The strength of the lord, moreover, is directed by intelligence and his
 actions are always at the proper time, like the seasons of heaven.
 
-<span id="fn_139"></span>[226:XV](icap1-1.htm#fr_139) The Thwan on this
+<span id="fn_139"></span>[226:XV](icap1-1.htm#fr_139.md) The Thwan on this
 hexagram was so brief, that the writer here deals generally with the
 subject of humility, showing how it is valued by heaven and earth, by
 spirits and by men. The descent of the heavenly influences, and the low
@@ -812,12 +812,12 @@ of the earth.
 The way of heaven is seen, e.g. in the daily declining of the sun, and
 the waning of the moon after it is full; the way of earth in the fall of
 the year. On the meaning of 'Spiritual Beings (Kwei Shăn),' see the
-Introduction, pp. [34](icintr03.htm#page_34),
-[35](icintr03.htm#page_35). It is difficult to say what idea the writer
+Introduction, pp. [34](icintr03.htm#page_34.md),
+[35](icintr03.htm#page_35.md). It is difficult to say what idea the writer
 attached to the name. What he says of man's appreciation of humility is
 striking, and, I believe, correct.
 
-<span id="fn_140"></span>[227:XVI](icap1-1.htm#fr_140) What is said in
+<span id="fn_140"></span>[227:XVI](icap1-1.htm#fr_140.md) What is said in
 paragraph 1 about the lines has been pointed out in the notes on the
 Text. 'Obedience' is the attribute of Khwăn, the lower trigram, which
 takes the initiative in the action of the figure; and here makes use of
@@ -833,7 +833,7 @@ Paragraph 3 is also tantalising. Why does the writer introduce the
 subject of punishments and penalties? Are they a consequence of putting
 the hosts in motion?
 
-<span id="fn_141"></span>[228:XVII](icap1-1.htm#fr_141) The trigrams
+<span id="fn_141"></span>[228:XVII](icap1-1.htm#fr_141.md) The trigrams
 *K*ăn and Tui are distinguished as strong and weak, *K*ăn representing,
 on king Wăn's scheme, 'the eldest son,' and Tui, 'the youngest
 daughter.' But 'the strong' here may mean the strong line, the lowest in
@@ -845,7 +845,7 @@ idea of following. Then *K*ân denotes the production or excitement of
 motion, and Tui denotes pleasure; and the union of these things suggests
 the same idea.
 
-<span id="fn_142"></span>[229:XVIII](icap1-1.htm#fr_142) The symbolism
+<span id="fn_142"></span>[229:XVIII](icap1-1.htm#fr_142.md) The symbolism
 here is the opposite of that in Sui. The upper trigram *K*ăn is strong,
 denoting, according to king Wăn, 'the youngest son;' and the lower, Sun,
 is weak, denoting 'the eldest daughter.' For the eldest daughter to be
@@ -863,12 +863,12 @@ a narrative of change, one condition of affairs constantly giving place
 to another and opposite. 'A kingdom that cannot be moved' does not enter
 into the circle of Chinese ideas.
 
-<span id="fn_143"></span>[229:XIX](icap1-1.htm#fr_143) See what has been
-said on the fourth paragraph in pp. [98](ic19.htm#page_98),
-[99](ic20.htm#page_99) on the Text. The other paragraphs need no
+<span id="fn_143"></span>[229:XIX](icap1-1.htm#fr_143.md) See what has been
+said on the fourth paragraph in pp. [98](ic19.htm#page_98.md),
+[99](ic20.htm#page_99.md) on the Text. The other paragraphs need no
 explanation beyond what appears in the supplemented translation.
 
-<span id="fn_144"></span>[230:XX](icap1-1.htm#fr_144) 'The great
+<span id="fn_144"></span>[230:XX](icap1-1.htm#fr_144.md) 'The great
 Manifester' is the ruler, the principal subject of the hexagram, and
 represented by line 5, near the top of the figure. In that figure the
 lower trigram. is *Kh*wăn, representing the earth, with the attribute of
@@ -882,7 +882,7 @@ we call nature. Compare with this paragraph, the definition of Shăn or
 Spirit in Appendix III, i, 32; and the doctrine of the agency of God,
 taught in Appendix VI, 8, 9.
 
-<span id="fn_145"></span>[231:XXI](icap1-1.htm#fr_145) The 'equal
+<span id="fn_145"></span>[231:XXI](icap1-1.htm#fr_145.md) The 'equal
 division of the strong and weak lines' is seen by taking them in pairs,
 though the order in the first pair is different from that in the two
 others. This is supposed to indicate the intelligence of the judgments
@@ -893,12 +893,12 @@ high position does not intimate the formation of the figure from Yî, the
 'lord of judgment.' This does not seem natural, but the effect is
 good;--judgment is tempered by leniency.
 
-<span id="fn_146"></span>[231:XXII](icap1-1.htm#fr_146) The first
+<span id="fn_146"></span>[231:XXII](icap1-1.htm#fr_146.md) The first
 paragraph is either superfluous or incomplete.
 
 The language of paragraph 2 has naturally been pressed into the <span
 id="page_232">p. 232</span> service of the doctrine of changing the
-figures by divining manipulation; see [p. 219](#page_219), on paragraph
+figures by divining manipulation; see [p. 219](#page_219.md), on paragraph
 2 of the Thwan of hexagram 6. But as the Khang-hsî editors point out,
 'the weak line coming and ornamenting the two strong ones' simply
 indicates how substantiality should have the help of ornament, and 'the
@@ -914,7 +914,7 @@ of society are the ceremonies and performances which regulate and
 beautify the intercourse of men, and constitute the transforming lessons
 of sagely wisdom.
 
-<span id="fn_147"></span>[232:XXIII](icap1-1.htm#fr_147) 'The symbolic
+<span id="fn_147"></span>[232:XXIII](icap1-1.htm#fr_147.md) 'The symbolic
 figures in the hexagram' are Khwăn, below, the representative of
 docility, acting as circumstances require; and Kăn, the representative
 of a mountain, which arrests the progress of the traveller. The superior
@@ -925,7 +925,7 @@ then begins to wax again. So will it be in political life. As we read in
 the Hebrew prophet Isaiah, 'In returning and rest shall ye be saved; in
 quietness and in confidence shall be your strength.'
 
-<span id="fn_148"></span>[233:XXIV](icap1-1.htm#fr_148) 'The movement of
+<span id="fn_148"></span>[233:XXIV](icap1-1.htm#fr_148.md) 'The movement of
 the heavenly revolution' in paragraph 3 has reference to the regular
 alternations of darkness and light, and of cold and heat, as seen in the
 different months of the year. Hâu Hsing-kwo (of the Thang dynasty)
@@ -938,7 +938,7 @@ days' is here equivalent to 'seven months.'
 'The mind of heaven and earth' is the love of life and of all goodness
 that rules in the course of nature and providence.
 
-<span id="fn_149"></span>[234:XXV](icap1-1.htm#fr_149) The advocates of
+<span id="fn_149"></span>[234:XXV](icap1-1.htm#fr_149.md) The advocates of
 one trigram's changing into another, which ought not to be admitted, we
 have seen, into the interpretation of the Yî, make Wû Wang to be derived
 from Sung (No. 6), the second line there being manipulated into the
@@ -951,7 +951,7 @@ peculiarities in the structure of the figure afford the auspice of
 progress and success; and very striking is the brief and emphatic
 declaration, that such progress is 'the appointment of Heaven.'
 
-<span id="fn_150"></span>[235:XXVI](icap1-1.htm#fr_150) In paragraph 1,
+<span id="fn_150"></span>[235:XXVI](icap1-1.htm#fr_150.md) In paragraph 1,
 Tâ *Kh*û evidently means the 'grand accumulation' of virtue, indicated
 by the attributes of its component trigrams. 'Substantial solidity' may
 very well be given as the attribute of mountains.
@@ -968,7 +968,7 @@ virtue, good and able men will not be left in obscurity.
 What will not a high and good purpose, supported by the greatest
 strength, be able to do?
 
-<span id="fn_151"></span>[235:XXVII](icap1-1.htm#fr_151) Many of the
+<span id="fn_151"></span>[235:XXVII](icap1-1.htm#fr_151.md) Many of the
 critics, in illustration of paragraph 1, refer appropriately to Mencius,
 VI, i, chap. 14.
 
@@ -978,7 +978,7 @@ assuage the waters of the deluge, Žî to teach the people agriculture,
 Hsieh as minister of instruction, Kâo Yâo as minister of crime, and
 others;--all to do the work of nourishing the people.
 
-<span id="fn_152"></span>[236:XXVIII](icap1-1.htm#fr_152) Paragraph 3.
+<span id="fn_152"></span>[236:XXVIII](icap1-1.htm#fr_152.md) Paragraph 3.
 In the Great Symbolism 'wood' appears as the natural object symbolised
 by Sun, and not 'wind,' which we find more commonly. The attribute of
 'flexibility,' however, is the quality of Sun, whether used of wind or
@@ -989,7 +989,7 @@ the Successful, and of king Wû. What these heroes did, however, was all
 called for by the exigency of their times, and not by whim or principle
 of their own, which they wished to make prominent.
 
-<span id="fn_153"></span>[237:XXIX](icap1-1.htm#fr_153) On paragraph 2
+<span id="fn_153"></span>[237:XXIX](icap1-1.htm#fr_153.md) On paragraph 2
 Liang Yin says:--'Water stops at the proper time, and moves at the
 proper time. Is not this an emblem of the course of the superior man in
 dealing with danger?'
@@ -1001,7 +1001,7 @@ for self-defence, there being no helmet and mail like leal-heartedness
 and good faith, and no shield and tower like propriety and
 righteousness.
 
-<span id="fn_154"></span>[237:XXX](icap1-1.htm#fr_154) 'The double
+<span id="fn_154"></span>[237:XXX](icap1-1.htm#fr_154.md) 'The double
 brightness' in paragraph 1 has been much discussed. Some say that it
 means 'the ruler,' becoming brighter and brighter. Others say that it
 means both the ruler and his ministers, combining their brightness. The
@@ -1016,4 +1016,4 @@ conjunction.
 
 ------------------------------------------------------------------------
 
-[Next: Section II](icap1-2)
+[Next: Section II](icap1-2.md)

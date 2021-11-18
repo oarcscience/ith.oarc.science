@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Theosophy](../../the/index)  [Index](index)  [Previous](theo06) 
-[Next](theo08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Theosophy](../../the/index)  [Index](index)  [Previous](theo06.md) 
+[Next](theo08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Theosophy*, by Rudolf Steiner, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -75,4 +75,4 @@ alone, a kingdom by himself.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Soul Being of Man](theo08)
+[Next: 2. The Soul Being of Man](theo08.md)

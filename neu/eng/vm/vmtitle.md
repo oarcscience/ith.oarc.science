@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index)  [Next](vmeng) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index)  [Next](vmeng.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ Sagas](../../index)  [England](../index)  [Index](index)  [Next](vmeng) 
 
 ------------------------------------------------------------------------
 
-[Next: The Life of Merlin](vmeng)
+[Next: The Life of Merlin](vmeng.md)

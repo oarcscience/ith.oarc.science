@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](asw01)  [Next](asw03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](asw01)  [Next](asw03.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ Fig. 6.</td>
 </tbody>
 </table>
 
-The Argha, [Fig. 6](#img_fig06), is a contrite form, or boat-shaped dish
+The Argha, [Fig. 6](#img_fig06.md), is a contrite form, or boat-shaped dish
 or plate used as a sacrificial cup in the worship of Astarte, Isis, and
 Venus. Its shape portrays its own significance. The Argha and *crux
 ansata* were often seen on Egyptian monuments, and yet more frequently
@@ -115,7 +115,7 @@ Fig. 7.</td>
 </tbody>
 </table>
 
-[Fig. 7](#img_fig07) is a Buddhist emblem in which the two triangles
+[Fig. 7](#img_fig07.md) is a Buddhist emblem in which the two triangles
 typifying the male and female principles are united by a serpent, the
 emblem of desire. It also typifies wisdom.
 
@@ -149,7 +149,7 @@ Fig. 8.</td>
 </tbody>
 </table>
 
-[Fig. 8](#img_fig08) is a fearless emblem of the maternal door. Jesus is
+[Fig. 8](#img_fig08.md) is a fearless emblem of the maternal door. Jesus is
 reported to have said, "I am the door," and some one in a sacred book
 said, "My beloved put in his hand by the hole of the door" (Sol. Song v,
 4). But this picture is a Buddhist theological badge, showing the God
@@ -173,7 +173,7 @@ mother altogether, except among the Catholics. The sacred four
 "dignitaries"--of which Rev. Cotton Mather said "the Devil is one"--are
 only made up by adding Satan, the Typhon or Dagon of antiquity.
 
-Our singular [Fig. 8](#img_fig08) has, in some measure, descended
+Our singular [Fig. 8](#img_fig08.md) has, in some measure, descended
 
 <span id="page_29">p. 29</span>
 
@@ -257,7 +257,7 @@ Fig. 9.</td>
 
 Further generous light is thrown upon the subject of male sanctities and
 female worship by a religio-historic gem unearthed at Nineveh. [Fig.
-9](#img_fig09) is a copy of that keepsake. It is an Egyptian seal,
+9](#img_fig09.md) is a copy of that keepsake. It is an Egyptian seal,
 copied from Layard ("Nineveh and Babylon," p.156). On it is engraved the
 Egyptian God Harpocrates seated on the mystic lotus in profound
 adoration of the Yoni, or *havah*, the "Divine Mother of all," which is
@@ -265,7 +265,7 @@ set in the field before him.
 
 "Set me as a seal upon thine heart, as a seal upon thine arm, for love
 is strong as death" (Sol. Song viii, 6). Solomon's *seal* was in outline
-the shape of the unit in the field of [Fig. 9](#img_fig09). The same
+the shape of the unit in the field of [Fig. 9](#img_fig09.md). The same
 lozenge-shaped figure was the symbol of Astarte, the Celestial Virgin,
 wherefrom Solomon may have obtained it. Layard and others state that
 such homage as is here depicted in the above seal is actually paid, in
@@ -321,7 +321,7 @@ Fig. 10.</td>
 </tbody>
 </table>
 
-[Figure 10](#img_fig10) is a Buddhist emblem of the quadruple deity. The
+[Figure 10](#img_fig10.md) is a Buddhist emblem of the quadruple deity. The
 rudimentary fig-leaf at the summit is the triad or male feature. The
 fish yield in a fanning bias for the yoni and female person. Imagine an
 Oriental priest expounding the mystery of the Godhead and unfolding, the
@@ -344,7 +344,7 @@ To attain to God, within you
                   *Caldwell's Indian Folk Lore*.
 
 The statue of Isis with her child Horus has a fish on her head; likewise
-in [Fig. 12](asw03.htm#img_fig12) Ardanari stands with an intrepid
+in [Fig. 12](asw03.htm#img_fig12.md) Ardanari stands with an intrepid
 dolphin on his or her head--for one head seems to answer for the two
 persons.
 
@@ -423,7 +423,7 @@ Fig. 11.</td>
 </tbody>
 </table>
 
-[Fig. 11](#img_fig11) enables us to understand how the tortoise came to
+[Fig. 11](#img_fig11.md) enables us to understand how the tortoise came to
 be regarded as sacred to Venus. It represents, by the extended head and
 neck, the acting linga--virile member, a sustainer of creation, a symbol
 of regeneration, a renewer of life, a supporter of the world, a type of
@@ -486,4 +486,4 @@ if from envy: they called these holes "Cunni Diaboli" ("Anacalypsis," p.
 
 ------------------------------------------------------------------------
 
-[Next: III. Unity](asw03)
+[Next: III. Unity](asw03.md)

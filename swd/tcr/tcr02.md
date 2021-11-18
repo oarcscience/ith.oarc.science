@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](tcr01)  [Next](tcr03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](tcr01)  [Next](tcr03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930985/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930985/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -2197,4 +2197,4 @@ Charity and Faith.
 
 ------------------------------------------------------------------------
 
-[Next: 101-150](tcr03)
+[Next: 101-150](tcr03.md)

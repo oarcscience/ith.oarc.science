@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat59)  [Next](jat61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat59)  [Next](jat61.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Plains](../index)  [Index](index) 
 A company of Ute who was traveling down the Canadian River was met near
 Salt River by a band of the enemy from the east. Early one morning, two
 of the enemy rode up to a tipi where a Ute woman was staying by
-herself. <span id="fr_74"></span>[1](#fn_74) When she started to run to
+herself. <span id="fr_74"></span>[1](#fn_74.md) When she started to run to
 the main camp the enemy rode away. Her relatives, on being told what had
 happened, drove up their horses and, selecting the best ones, rode after
 the enemy. These, whom they found to be numerous, turning, rode back
@@ -29,7 +29,7 @@ enemy came directly at them and they began to fight. When they were
 close one of the enemy fell from his horse, wounded. An Apache woman
 having an ax in her hand jumped upon him and although he was not yet
 dead, cut off both his arms with the ax. She pulled his wrist guard off
-and threw it upon his stomach. <span id="fr_75"></span>[2](#fn_75)
+and threw it upon his stomach. <span id="fr_75"></span>[2](#fn_75.md)
 
 They began to fight again, the Ute driving the enemy forward. They
 captured four horses from the enemy. The Ute, mounted, rode on both
@@ -45,11 +45,11 @@ camp there and held the dance.
 
 ### Footnotes
 
-<span id="fn_74"></span>[248:1](jat60.htm#fr_74) The woman was by
+<span id="fn_74"></span>[248:1](jat60.htm#fr_74.md) The woman was by
 herself because of her condition at that time. She nevertheless broke
 the established custom in the time of peril.
 
-<span id="fn_75"></span>[248:2](jat60.htm#fr_75) This story was told to
+<span id="fn_75"></span>[248:2](jat60.htm#fr_75.md) This story was told to
 explain the giving of names to children. This old woman when she
 returned from the expedition, gave an account of what she had done and
 named the narrator, Casa Maria, then an infant, bet'ô, wrist guard. It
@@ -59,4 +59,4 @@ pollution.
 
 ------------------------------------------------------------------------
 
-[Next: 59. The Horses of the Ollero are Stolen](jat61)
+[Next: 59. The Horses of the Ollero are Stolen](jat61.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar11)  [Next](gar13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar11)  [Next](gar13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -45,53 +45,53 @@ immortality."—STONE.
 <span id="page_31">p. 31</span>
 
 <span id="img_03100"></span> <span align="CENTER"> [![](tn/03100.jpg)  
-Click to enlarge](img/03100.jpg)</span>
+Click to enlarge](img/03100.jpg.md)</span>
 
 <span id="page_32">p. 32</span> <span id="page_33">p. 33</span>
 
 <span id="img_03300"></span> <span align="CENTER"> [![](tn/03300.jpg)  
-Click to enlarge](img/03300.jpg)</span>
+Click to enlarge](img/03300.jpg.md)</span>
 
 <span id="page_34">p. 34</span> <span id="page_35">p. 35</span>
 
 <span id="img_03500"></span> <span align="CENTER"> [![](tn/03500.jpg)  
-Click to enlarge](img/03500.jpg)</span>
+Click to enlarge](img/03500.jpg.md)</span>
 
 <span id="page_36">p. 36</span> <span id="page_37">p. 37</span>
 
 <span id="img_03700"></span> <span align="CENTER"> [![](tn/03700.jpg)  
-Click to enlarge](img/03700.jpg)</span>
+Click to enlarge](img/03700.jpg.md)</span>
 
 <span id="page_38">p. 38</span> <span id="page_39">p. 39</span>
 
 <span id="img_03900"></span> <span align="CENTER"> [![](tn/03900.jpg)  
-Click to enlarge](img/03900.jpg)</span>
+Click to enlarge](img/03900.jpg.md)</span>
 
 <span id="page_40">p. 40</span> <span id="page_41">p. 41</span>
 
 <span id="img_04100"></span> <span align="CENTER"> [![](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)</span>
+Click to enlarge](img/04100.jpg.md)</span>
 
 <span id="page_42">p. 42</span> <span id="page_43">p. 43</span>
 
 <span id="img_04300"></span> <span align="CENTER"> [![](tn/04300.jpg)  
-Click to enlarge](img/04300.jpg)</span>
+Click to enlarge](img/04300.jpg.md)</span>
 
 <span id="page_44">p. 44</span> <span id="page_45">p. 45</span>
 
 <span id="img_04500"></span> <span align="CENTER"> [![](tn/04500.jpg)  
-Click to enlarge](img/04500.jpg)</span>
+Click to enlarge](img/04500.jpg.md)</span>
 
 <span id="page_46">p. 46</span> <span id="page_47">p. 47</span>
 
 <span id="img_04700"></span> <span align="CENTER"> [![](tn/04700.jpg)  
-Click to enlarge](img/04700.jpg)</span>
+Click to enlarge](img/04700.jpg.md)</span>
 
 <span id="page_48">p. 48</span> <span id="page_49">p. 49</span>
 
 <span id="img_04900"></span> <span align="CENTER"> [![](tn/04900.jpg)  
-Click to enlarge](img/04900.jpg)</span>
+Click to enlarge](img/04900.jpg.md)</span>
 
 ------------------------------------------------------------------------
 
-[Next: Symbolism of the Degree](gar13)
+[Next: Symbolism of the Degree](gar13.md)

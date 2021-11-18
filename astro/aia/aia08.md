@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia07)  [Next](aia09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia07)  [Next](aia09.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 ### OF SATURN, AND HIS SIGNIFICATION.
 
 Hs is the supremest or highest of all the planets, <span
-id="fr_20"></span>[1](#fn_20) and is placed between Jupiter and the
+id="fr_20"></span>[1](#fn_20.md) and is placed between Jupiter and the
 firmament; he is not very bright or glorious, nor does he twinkle or
 sparkle, but is of a pale or wan ashy colour; slow in motion, finishing
 his course through the twelve signs of the zodiac in 29 years, 167 days,
@@ -29,7 +29,7 @@ If in any question he be in any degree wherein he has a term, he cannot
 be said to be peregrine, or void of essential dignities; or if he be in
 any of those degrees allotted him for his face or decanate, he cannot
 then be said to be peregrine: understand this in all the other
-planets. <span id="fr_21"></span>[2](#fn_21)
+planets. <span id="fr_21"></span>[2](#fn_21.md)
 
 He continues retrograde 140 days; is five days in his first stage before
 retrogradation, and so many in his second station before becoming
@@ -44,7 +44,7 @@ malevolent, &c.
 acts severe, in words reserved, in speaking and giving very spare; in
 labour patient, in arguing or disputing grave, in obtaining the goods of
 this life studious and solicitous, in all manner of actions
-austere. <span id="fr_22"></span>[1](#fn_22)
+austere. <span id="fr_22"></span>[1](#fn_22.md)
 
 *When ill dignified*, he is envious, covetous, jealous, and mistrustful;
 timorous, sordid, outwardly dissembling, sluggish, auspicious, stubborn;
@@ -119,17 +119,17 @@ Romandiola, Ravenna. Constantia, Ingoldstadt.
 
 ### Footnotes
 
-<span id="fn_20"></span>[35:1](aia08.htm#fr_20) This was true, as far as
+<span id="fn_20"></span>[35:1](aia08.htm#fr_20.md) This was true, as far as
 the author knew; the planet Herschel not having been then discovered.
 
-<span id="fn_21"></span>[35:2](aia08.htm#fr_21) For the terms, &c., see
+<span id="fn_21"></span>[35:2](aia08.htm#fr_21.md) For the terms, &c., see
 the table of Essential Dignities.
 
-<span id="fn_22"></span>[36:1](aia08.htm#fr_22) By these descriptions is
+<span id="fn_22"></span>[36:1](aia08.htm#fr_22.md) By these descriptions is
 meant, that persons signified in horary questions by this planet are of
 such a character; and if he influence the native by being in the
 ascendant at the time of birth, it applies also in nativities.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Of the Planet Jupiter, and his Signification](aia09)
+[Next: Chapter VI. Of the Planet Jupiter, and his Signification](aia09.md)

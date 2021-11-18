@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic20)  [Next](tic22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic20)  [Next](tic22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ Revelations of future bliss. 14. The soul's preparation. 15. The soul
 blinded by its faults. 16. God ready to give these graces to all. 17.
 Faculties lost during ecstasy. 18. Spiritual inebriation. 19. Fervour
 and love of suffering left in the soul. 20. Scandal caused to spectators
-by such favours. 21. Our Lord's [predilection](errata.htm#4) for such a
+by such favours. 21. Our Lord's [predilection](errata.htm#4.md) for such a
 soul. 22. Illusionary raptures*.
 
 1\. WHAT rest can the poor little butterfly find, with all the trials I
@@ -44,7 +44,7 @@ Perhaps you will laugh and think I am talking foolishly: there can be no
 call for courage here; there is no woman, however low her class, who
 would not dare to wed a king. So I think, were he an earthly monarch,
 but there is need of more fortitude than you suppose in order to espouse
-the King of heaven. <span id="fr_265"></span>[1](#fn_265) Our nature
+the King of heaven. <span id="fr_265"></span>[1](#fn_265.md) Our nature
 appears too timid and base for anything so high; without doubt, unless
 God gave us the grace it would be
 
@@ -59,19 +59,19 @@ of life. I am speaking of genuine raptures, not fancies that come from
 women's weakness--which so often occur nowadays--making them imagine
 everything to be a rapture or an ecstasy. As I think I said, some are so
 feebly constituted as to die of a single prayer of quiet. <span
-id="fr_266"></span>[2](#fn_266)
+id="fr_266"></span>[2](#fn_266.md)
 
 2\. I should like to describe here several kinds of raptures of which I
 have learnt from spiritual persons with whom I have discussed the
 subject, but I am not sure whether I shall succeed in explaining them as
-I did elsewhere. <span id="fr_267"></span>[3](#fn_267) It has been
+I did elsewhere. <span id="fr_267"></span>[3](#fn_267.md) It has been
 decided that it will not be amiss to repeat what was said about these
 and other things that happen in this state, if only that I may treat of
 all the mansions contain in proper order.
 
 3\. In one sort of rapture the soul, although perhaps not engaged in
 prayer at the time, is struck by some word of God which it either
-remembers or hears. <span id="fr_268"></span>[4](#fn_268) His Majesty,
+remembers or hears. <span id="fr_268"></span>[4](#fn_268.md) His Majesty,
 touched with pity by what He has seen it suffer for so long past in its
 longing for Him, appears to increase the spark I described in the
 interior of the spirit until it entirely inflames the soul which rises
@@ -80,7 +80,7 @@ believe
 
 <span id="page_189">p. 189</span>
 
-her sins are now forgiven, <span id="fr_269"></span>[5](#fn_269)
+her sins are now forgiven, <span id="fr_269"></span>[5](#fn_269.md)
 supposing that she is in the disposition and has made use of the means
 required by the Church. The soul being thus purified, God unites it to
 Himself in a way known only to Him and the spirit, nor does even the
@@ -112,7 +112,7 @@ received at such
 a time being so sublime that it is not fitting for man, while living in
 this world, to understand them in a way that can be told, although when
 the use of the faculties returns much can be described
-[of](errata.htm#5) what was seen in intellectual vision. Possibly you do
+[of](errata.htm#5.md) what was seen in intellectual vision. Possibly you do
 not know what a vision is, especially an intellectual one. Since I have
 been bidden by one who has authority, I will tell you at the proper
 time. Although seemingly superfluous, it may prove useful to certain
@@ -120,7 +120,7 @@ people.
 
 6\. 'But,' you will ask me, 'if the very sublime favours our Lord
 bestows in this mansion cannot afterwards be remembered, what profit do
-they bring?' <span id="fr_270"></span>[6](#fn_270) O daughters! their
+they bring?' <span id="fr_270"></span>[6](#fn_270.md) O daughters! their
 value cannot be overrated; for though the recipient is incapable of
 describing them, they are deeply imprinted in the centre of the soul and
 are never forgotten. 'How can they be remembered if no image is seen and
@@ -129,7 +129,7 @@ understand this, but I know that certain truths of the greatness of God
 remain so impressed on the spirit by this favour that, did not faith
 teach Who He is and that it is bound to believe He is God, the soul
 would henceforth worship Him as such, as did Jacob when he saw the
-ladder. <span id="fr_271"></span>[7](#fn_271) Doubtless the Patriarch
+ladder. <span id="fr_271"></span>[7](#fn_271.md) Doubtless the Patriarch
 learnt other secrets he was unable to reveal, for unless he had received
 more interior light he could never have discovered such sublime
 mysteries merely by watching angels ascending and descending the steps.
@@ -141,7 +141,7 @@ although I have heard the passage, I cannot feel sure of recalling it
 exactly.
 
 7\. Neither was Moses able to relate more than God willed of what he had
-seen in the burning bush; <span id="fr_272"></span>[8](#fn_272) but
+seen in the burning bush; <span id="fr_272"></span>[8](#fn_272.md) but
 unless the Almighty had clearly revealed certain mysteries to his soul,
 causing it to see and know its God was present, the lawgiver could never
 have undertaken so many and such great labours. Such sublime revelations
@@ -162,7 +162,7 @@ arranged that most of them are at once seen on entering the room.
 
 9\. While on a visit to the house of the Duchess of Alva (where at her
 request I was bidden by obedience to stay during a journey) <span
-id="fr_273"></span>[9](#fn_273) I was taken
+id="fr_273"></span>[9](#fn_273.md) I was taken
 
 <span id="page_192">p. 192</span>
 
@@ -200,7 +200,7 @@ raptures, they are no true raptures but some natural weakness that may
 occur to people of delicate constitutions, such as women, when by its
 strenuous efforts the spirit overpowers physical nature, and produces
 stupor, as I think I said in connection with the prayer of quiet. <span
-id="fr_274"></span>[10](#fn_274)
+id="fr_274"></span>[10](#fn_274.md)
 
 13\. This is not so in genuine raptures, for then I believe God ravishes
 the soul wholly to Himself, as being His very own and His bride, and
@@ -215,13 +215,13 @@ may men be accursed who do not seek to profit by it, but who forfeit it!
 do, or ever could do for a God who thus wills to communicate Himself to
 a worm! If we hope to enjoy this favour even during our mortal life,
 what are we doing? Why do we delay? What can repay the loss of the time
-of a 'Memento' <span id="fr_275"></span>[11](#fn_275) in searching for
+of a 'Memento' <span id="fr_275"></span>[11](#fn_275.md) in searching for
 this Lord, like the
 
 <span id="page_194">p. 194</span>
 
 bride through the streets and squares. <span
-id="fr_276"></span>[12](#fn_276) Oh, what a mockery is everything in
+id="fr_276"></span>[12](#fn_276.md) Oh, what a mockery is everything in
 this world that does not lead towards and help us to attain to this
 state! Even though all the earthly pleasures, riches, and happiness that
 can be imagined could last for eternity, they would be disappointing and
@@ -235,7 +235,7 @@ little motes or grains of dust which, if left to spread, will suffice to
 harm us greatly. At least, for the love of God, my sisters, let these
 faults convince us of our misery, serving to clear our sight as did the
 clay the eyes of the blind man who was cured by the Spouse. <span
-id="fr_277"></span>[13](#fn_277) Then, realizing our imperfections, we
+id="fr_277"></span>[13](#fn_277.md) Then, realizing our imperfections, we
 shall beg Him more fervently to let us benefit by our defers so as to
 please Him in all things.
 
@@ -254,18 +254,18 @@ Bridegroom, the doors of the mansions and even those of the keep and of
 the whole castle are closed; for when He intends ravishing the soul He
 takes away the power of speech, and although occasionally the other
 faculties are retained rather longer, no word can be uttered. <span
-id="fr_278"></span>[14](#fn_278) Sometimes the person is at once
+id="fr_278"></span>[14](#fn_278.md) Sometimes the person is at once
 deprived of all the senses, the hands and body becoming as cold as if
 the soul had fled; occasionally no breathing can be detected. <span
-id="fr_279"></span>[15](#fn_279) This condition lasts but a short while;
-I mean in the same degree, <span id="fr_280"></span>[16](#fn_280) for
+id="fr_279"></span>[15](#fn_279.md) This condition lasts but a short while;
+I mean in the same degree, <span id="fr_280"></span>[16](#fn_280.md) for
 when this profound suspension diminishes the body seems to come to
 itself and gain strength to return again to this *death* which gives
 more vigorous *life* to the soul.
 
 18\. This supreme state of ecstasy never lasts long, but although it
 ceases, it leaves the will so inebriated, <span
-id="fr_281"></span>[17](#fn_281) and the mind so transported out of
+id="fr_281"></span>[17](#fn_281.md) and the mind so transported out of
 itself that for a day, or sometimes for several days, such a person is
 incapable of attending to anything but what excites the will to the love
 of God;
@@ -280,14 +280,14 @@ feel at having received this favour and how passionate are its desires
 of serving God in any way He asks of it! If the former states of prayer
 caused the powerful effects described, what will not such a signal grace
 as this do? Such a person wishes she had a thousand lives <span
-id="fr_282"></span>[18](#fn_282) to spend for God; she would have all
+id="fr_282"></span>[18](#fn_282.md) to spend for God; she would have all
 earthly creatures changed into as many tongues to praise Him on her
 account. She longs to perform most severe penances, <span
-id="fr_283"></span>[19](#fn_283) nor do they cost her much, for the
+id="fr_283"></span>[19](#fn_283.md) nor do they cost her much, for the
 power of her love almost prevents their being felt. She realizes how
 little the martyrs suffered during their tortures, for pain is easy when
 our Lord thus aids us: therefore such a soul complains to His Majesty
-when He gives her no suffering? <span id="fr_284"></span>[20](#fn_284)
+when He gives her no suffering? <span id="fr_284"></span>[20](#fn_284.md)
 
 20\. She considers it a great favour when God sends her this rapture in
 secret, for when others see it the shame and confusion she feels are so
@@ -296,14 +296,14 @@ world, she fears her ecstasy will not be attributed to its proper cause
 but may give rise to rash judgment instead of the praise due for it to
 God. Although this pain and distress are unavoidable, they seem to me to
 show a certain want of humility, for if she wished to be despised, what
-would she care? <span id="fr_285"></span>[21](#fn_285)
+would she care? <span id="fr_285"></span>[21](#fn_285.md)
 
 <span id="page_197">p. 197</span>
 
 21\. Our Lord once said to some one who was troubled by such thoughts:
 'Do not be disturbed; people will either praise Me or condemn thee; in
 either case thou wilt be the gainer.' <span
-id="fr_286"></span>[22](#fn_286) I learnt afterwards that she was
+id="fr_286"></span>[22](#fn_286.md) I learnt afterwards that she was
 greatly encouraged and comforted by this speech; I speak of it in case
 others may suffer in the same way. Apparently our Lord would have all
 men know that this soul is His own and that none may molest it, for it
@@ -332,54 +332,54 @@ ever blessed and praised! Amen, Amen!
 
 ### Footnotes
 
-<span id="fn_265"></span>[187:1](tic21.htm#fr_265) *Life*, ch. xxxix.
+<span id="fn_265"></span>[187:1](tic21.htm#fr_265.md) *Life*, ch. xxxix.
 30.
 
-<span id="fn_266"></span>[188:2](tic21.htm#fr_266) *Castle*, M. iv. ch.
+<span id="fn_266"></span>[188:2](tic21.htm#fr_266.md) *Castle*, M. iv. ch.
 iii. 11.
 
-<span id="fn_267"></span>[188:3](tic21.htm#fr_267) *Life*, ch. xx.
+<span id="fn_267"></span>[188:3](tic21.htm#fr_267.md) *Life*, ch. xx.
 *passim*.
 
-<span id="fn_268"></span>[188:4](tic21.htm#fr_268) Philippus a SS.
+<span id="fn_268"></span>[188:4](tic21.htm#fr_268.md) Philippus a SS.
 Trinitate, *l.c.* tr. i. disc. iii. art. 3.
 
-<span id="fn_269"></span>[189:5](tic21.htm#fr_269) *Rel*. ix. 4. *Way of
+<span id="fn_269"></span>[189:5](tic21.htm#fr_269.md) *Rel*. ix. 4. *Way of
 Perf.* ch. xix. 8.
 
-<span id="fn_270"></span>[190:6](tic21.htm#fr_270) Philippus a SS.
+<span id="fn_270"></span>[190:6](tic21.htm#fr_270.md) Philippus a SS.
 Trinitate, *l.c*.
 
-<span id="fn_271"></span>[190:7](tic21.htm#fr_271) Gen. xxviii. 2.
+<span id="fn_271"></span>[190:7](tic21.htm#fr_271.md) Gen. xxviii. 2.
 
-<span id="fn_272"></span>[191:8](tic21.htm#fr_272) Exod. 2.
+<span id="fn_272"></span>[191:8](tic21.htm#fr_272.md) Exod. 2.
 
-<span id="fn_273"></span>[191:9](tic21.htm#fr_273) Doña Maria Enriquez,
+<span id="fn_273"></span>[191:9](tic21.htm#fr_273.md) Doña Maria Enriquez,
 wife of Ferdinand de Toledo, Duke of Alva. This visit took place in
 February, 1574, and lasted two days <span id="page_192">p. 192</span>
 the Saint being then on her journey from Salamanca to Alva de Tormes.
 (*Found*. ch. xxi.)
 
-<span id="fn_274"></span>[193:10](tic21.htm#fr_274) *Castle*, M. iv. ch.
+<span id="fn_274"></span>[193:10](tic21.htm#fr_274.md) *Castle*, M. iv. ch.
 iii. 2.
 
-<span id="fn_275"></span>[193:11](tic21.htm#fr_275) The Saint wrote here
+<span id="fn_275"></span>[193:11](tic21.htm#fr_275.md) The Saint wrote here
 and elsewhere *Memento*, and not *momenta* as is commonly printed. It
 refers, of course, to that short interruption at Mass when the priest
 makes a Memento of those for whom he intends to pray. Likewise St.
 Teresa often speaks of the 'space of a Credo or an Ave Maria' always
 implying a very short duration.
 
-<span id="fn_276"></span>[194:12](tic21.htm#fr_276) Cant. iii. 2: 'Per
+<span id="fn_276"></span>[194:12](tic21.htm#fr_276.md) Cant. iii. 2: 'Per
 vicos et plateas quæram quem diligit anima mea.'
 
-<span id="fn_277"></span>[194:13](tic21.htm#fr_277) St. John ix. 6.
+<span id="fn_277"></span>[194:13](tic21.htm#fr_277.md) St. John ix. 6.
 
-<span id="fn_278"></span>[195:14](tic21.htm#fr_278) *Life*, ch. xx. 18.
+<span id="fn_278"></span>[195:14](tic21.htm#fr_278.md) *Life*, ch. xx. 18.
 'Like a person who, having a rope around his neck and being strangled,
 tries to breathe.'
 
-<span id="fn_279"></span>[195:15](tic21.htm#fr_279) *Life*, ch. xx 23,
+<span id="fn_279"></span>[195:15](tic21.htm#fr_279.md) *Life*, ch. xx 23,
 29. *Way of Perf*. ch. xxxii. Rel. viii. 8, 11. 'The first effect of
 ecstatic prayer concerns the body, which remains as if the soul had
 departed; it grows cold from a deficiency of natural heat, the eyes
@@ -387,10 +387,10 @@ close gently, and the other senses are suspended; and yet a weak body
 recovers health in this prayer.' (Anton. a Spiritu Sancto, *Direct.
 Mystic*. tr. iv. d. 2, § 4, n. 150).
 
-<span id="fn_280"></span>[195:16](tic21.htm#fr_280) 'Digo para estar in
+<span id="fn_280"></span>[195:16](tic21.htm#fr_280.md) 'Digo para estar in
 un ser.'
 
-<span id="fn_281"></span>[195:17](tic21.htm#fr_281)
+<span id="fn_281"></span>[195:17](tic21.htm#fr_281.md)
 
 <div style="margin-left: 32px">
 
@@ -405,19 +405,19 @@ Hymn for Lauds, Feria secunda, old version.
 
 (Compare Anton. a Sp. S. *l.c.* tr. iv. n. 30.)
 
-<span id="fn_282"></span>[196:18](tic21.htm#fr_282) *Life*, ch. xx. 30.
+<span id="fn_282"></span>[196:18](tic21.htm#fr_282.md) *Life*, ch. xx. 30.
 
-<span id="fn_283"></span>[196:19](tic21.htm#fr_283) *Castle*, M. vii.
+<span id="fn_283"></span>[196:19](tic21.htm#fr_283.md) *Castle*, M. vii.
 ch. iii. 4. *Way of Perf*. ch. xxxviii. 1. *Excl*. xiv. 3. *Life*, ch.
 xl. 27.
 
-<span id="fn_284"></span>[196:20](tic21.htm#fr_284) *Life*, ch. xvi. 6.
+<span id="fn_284"></span>[196:20](tic21.htm#fr_284.md) *Life*, ch. xvi. 6.
 *Rel*. i. 4.
 
-<span id="fn_285"></span>[196:21](tic21.htm#fr_285) *Ibid*. ch. xx. 5,
+<span id="fn_285"></span>[196:21](tic21.htm#fr_285.md) *Ibid*. ch. xx. 5,
 6.
 
-<span id="fn_286"></span>[197:22](tic21.htm#fr_286) *Life*, ch. xxxi.
+<span id="fn_286"></span>[197:22](tic21.htm#fr_286.md) *Life*, ch. xxxi.
 15. St. John of the Cross in stanza xiii. 8. of the *Spiritual
 Canticle*, refers to this and the following chapters. 'This,' he says,
 'is an appropriate opportunity for discussing the difference between
@@ -430,4 +430,4 @@ matter, whose writings I hope to see soon published,'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Flight of the Spirit](tic22)
+[Next: Chapter V. The Flight of the Spirit](tic22.md)

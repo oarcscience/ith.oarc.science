@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub71) 
-[Next](jub73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub71.md) 
+[Next](jub73.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 
 ### Esau and his Sons wage War with Jacob (xxxvii. 1-25).
 
-XXXVII. <span id="fr_814"></span>[1](#fn_806) And on the day that Isaac
+XXXVII. <span id="fr_814"></span>[1](#fn_806.md) And on the day that Isaac
 the father
 
 |           |
@@ -28,18 +28,18 @@ and drink, and my father blessed him and put me under his hand. 4. And
 now our father hath caused us to swear, me and him, that we shall not
 mutually devise evil, either against his brother, and that we shall
 continue in love and in peace each with his brother and not make our
-ways corrupt." <span id="fr_815"></span>[2](#fn_807) 5. And they said
+ways corrupt." <span id="fr_815"></span>[2](#fn_807.md) 5. And they said
 unto him, "We shall not hearken unto thee to make peace with him; for
 our strength is greater than his strength, and we are more powerful than
 he; we shall go against him and slay him, and destroy him and his sons.
 And if thou wilt not go with us, we shall do hurt to thee also. 6. And
 now hearken unto us: Let us send to Aram <span
-id="fr_816"></span>[3](#fn_808) and Philistia <span
-id="fr_817"></span>[4](#fn_809) and Moab
+id="fr_816"></span>[3](#fn_808.md) and Philistia <span
+id="fr_817"></span>[4](#fn_809.md) and Moab
 
 <span id="page_180">p. 180</span>
 
-and Ammon, <span id="fr_818"></span>[1](#fn_810) and let us choose for
+and Ammon, <span id="fr_818"></span>[1](#fn_810.md) and let us choose for
 ourselves chosen men who are ardent for battle, and let us go against
 him and do battle with him, and let us exterminate him from the earth
 before he groweth strong." 7. And their father said unto them, "Do not
@@ -47,13 +47,13 @@ go and do not make war with him lest ye fall before him." 8. And they
 said unto him, "This too, is exactly thy mode of action from thy youth
 until this day, and thou art putting thy neck under his yoke. We shall
 not hearken to these words." 9. And they sent to Aram, and to
-’Adurâm <span id="fr_819"></span>[2](#fn_811) to the friend of their
+’Adurâm <span id="fr_819"></span>[2](#fn_811.md) to the friend of their
 father, and they hired along with them one thousand fighting men, chosen
 men of war. 10. And there came to them from Moab and from the children
 of Ammon, those who were hired, one thousand chosen men, and from
 Philistia, one thousand chosen men of war, and from Edom <span
-id="fr_820"></span>[3](#fn_812) and from the Horites one thousand chosen
-fighting men, and from the Kittim <span id="fr_821"></span>[4](#fn_813)
+id="fr_820"></span>[3](#fn_812.md) and from the Horites one thousand chosen
+fighting men, and from the Kittim <span id="fr_821"></span>[4](#fn_813.md)
 mighty men of war. 11. And they said unto their father: "Go forth with
 them and lead them, else we shall slay thee." 12. And he was filled with
 wrath and indignation on seeing that his sons were forcing him to go
@@ -91,9 +91,9 @@ If the boar can change its skin and make its bristles as soft as wool,
 Or if it can cause horns to sprout forth on its head like the horns of a
 stag or of a sheep,  
 Then shall I observe the tie of brotherhood with thee. <span
-id="fr_822"></span>[1](#fn_814)  
+id="fr_822"></span>[1](#fn_814.md)  
 \[And if the breasts separated themselves from their mother; for thou
-hast not been a brother to me.\] <span id="fr_823"></span>[2](#fn_815)  
+hast not been a brother to me.\] <span id="fr_823"></span>[2](#fn_815.md)  
 21. And if the wolves make peace with the lambs so as not to devour or
 do them violence,  
 And if their hearts are towards them for good,  
@@ -103,7 +103,7 @@ him, <span id="page_182">p. 182</span>
 And if he is bound under one yoke with him and plougheth with him,  
 Then shall I make peace with thee.  
 23. And when the raven becometh white as the râzâ, <span
-id="fr_824"></span>[1](#fn_816)  
+id="fr_824"></span>[1](#fn_816.md)  
 Then know that -I have loved thee  
 And shall make peace with thee.  
 Thou shalt be rooted out,  
@@ -121,47 +121,47 @@ and all his companions.
 
 ### Footnotes
 
-<span id="fn_806"></span>[179:1](jub72.htm#fr_814) The legend of the
+<span id="fn_806"></span>[179:1](jub72.htm#fr_814.md) The legend of the
 wars between the sons of Jacob and Esau contained in chaps.
 xxxvii-xxxviii. here seems to be ancient. It is also found in *Test.
 Judah* ix. and in the Jewish Midrashic literature. Our text contains the
 oldest form.
 
-<span id="fn_807"></span>[179:2](jub72.htm#fr_815) This representation
+<span id="fn_807"></span>[179:2](jub72.htm#fr_815.md) This representation
 gives a favourable view of Esau's own attitude. In the later form of the
 legend (in the *Yalḳut*) this is altered to Esau's disadvantage.
 
-<span id="fn_808"></span>[179:3](jub72.htm#fr_816) The peoples mentioned
+<span id="fn_808"></span>[179:3](jub72.htm#fr_816.md) The peoples mentioned
 here and in the context nearly all played a prominent part in the
 campaigns of the Maccabees. "Aram," *i. e.* Syria, was, of course, the
 suzerain power in their day, who sought to oppress the Jews, and whose
 yoke was ultimately entirely thrown off.
 
-<span id="fn_809"></span>[179:4](jub72.htm#fr_817) Cf. xxiv. 28 (note).
+<span id="fn_809"></span>[179:4](jub72.htm#fr_817) Cf. xxiv. 28 (note.md).
 
-<span id="fn_810"></span>[180:1](jub72.htm#fr_818) Cf. 1 Macc. v. 6-8.
+<span id="fn_810"></span>[180:1](jub72.htm#fr_818.md) Cf. 1 Macc. v. 6-8.
 
-<span id="fn_811"></span>[180:2](jub72.htm#fr_819) An Aramaean; cf.
+<span id="fn_811"></span>[180:2](jub72.htm#fr_819.md) An Aramaean; cf.
 xxxviii. 3.
 
-<span id="fn_812"></span>[180:3](jub72.htm#fr_820) Cf. 1 Macc. v. 3, 65
+<span id="fn_812"></span>[180:3](jub72.htm#fr_820.md) Cf. 1 Macc. v. 3, 65
 (also iv. 29, 61).
 
-<span id="fn_813"></span>[180:4](jub72.htm#fr_821) Cf. xxiv. 28.
+<span id="fn_813"></span>[180:4](jub72.htm#fr_821.md) Cf. xxiv. 28.
 
-<span id="fn_814"></span>[181:1](jub72.htm#fr_822) For the construction
+<span id="fn_814"></span>[181:1](jub72.htm#fr_822.md) For the construction
 of such sayings cf. the rebuke administered to Aḳiba (when the latter
 recognized Bar-Kokba as the Messiah) by Jochanan ben Torta: "Sooner
 shall grass grow from thy beard, Aḳiba, than that Messiah should
 appear." The "boar" may symbolize Esau.
 
-<span id="fn_815"></span>[181:2](jub72.htm#fr_823) Charles thinks the
+<span id="fn_815"></span>[181:2](jub72.htm#fr_823.md) Charles thinks the
 bracketed words may be out of place or corrupt.
 
-<span id="fn_816"></span>[182:1](jub72.htm#fr_824) "A large white bird
+<span id="fn_816"></span>[182:1](jub72.htm#fr_824.md) "A large white bird
 which eats grasshoppers" (Isenberg, quoted by Charles).
 
 ------------------------------------------------------------------------
 
 [Next: The War between Jacob and Esau at the Tower of Hebron. The Death
-of Esau and Overthrow of his Forces (xxxviii. 1-4)](jub73)
+of Esau and Overthrow of his Forces (xxxviii. 1-4)](jub73.md)

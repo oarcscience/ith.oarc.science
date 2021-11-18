@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist077) 
-[Next](hist079) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist077.md) 
+[Next](hist079.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ from the holy font.
 
 [Next: XXIII. How Bishop Cedd, having a place for building a monastery
 given him by King Etheiwald, consecrated it to the Lord with prayer and
-fasting; and concerning his death. \[659-664 A. D.\]](hist079)
+fasting; and concerning his death. \[659-664 A. D.\]](hist079.md)

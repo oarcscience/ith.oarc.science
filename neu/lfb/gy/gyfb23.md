@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb22)  [Next](gyfb24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb22)  [Next](gyfb24.md) 
 
 </div>
 
@@ -545,6 +545,6 @@ Cadi at the hour of noon.
 
 ------------------------------------------------------------------------
 
-[Next: The Jackal and the Spring](gyfb24)
+[Next: The Jackal and the Spring](gyfb24.md)
 
 </div>

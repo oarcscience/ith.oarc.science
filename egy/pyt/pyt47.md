@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt46)  [Next](pyt48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt46)  [Next](pyt48.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ descending and ferrying over.
 ------------------------------------------------------------------------
 
 [Next: 45. The Deceased King on Earth and in Heaven Utterance
-610](pyt48)
+610](pyt48.md)

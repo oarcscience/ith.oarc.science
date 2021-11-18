@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait14)  [Next](ait16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait14)  [Next](ait16.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![L](img/12500.jpg) |
+| ![L](img/12500.jpg.md) |
 
 IVING STATUE was a great magician of the Ottawas, who lived on the
 shores of Lake Huron. His wigwam was of skin that had been scrubbed and
@@ -211,9 +211,9 @@ fields of the sky, near the white, misty road of the dead.
 <span id="img_13200"></span>
 
 [![“Near the white, misty road of the dead.”](tn/13200.jpg)  
-Click to enlarge](img/13200.jpg)  
+Click to enlarge](img/13200.jpg.md)  
 “Near the white, misty road of the dead.”  
 
 ------------------------------------------------------------------------
 
-[Next: Turtle-Dove, Sage-Cock, and the Witch](ait16)
+[Next: Turtle-Dove, Sage-Cock, and the Witch](ait16.md)

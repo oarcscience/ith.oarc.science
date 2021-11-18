@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw13)  [Next](omw15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw13)  [Next](omw15.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ family claim descent from the Sun Goddess.
 
 ------------------------------------------------------------------------
 
-[Next: Polynesian](omw15)
+[Next: Polynesian](omw15.md)

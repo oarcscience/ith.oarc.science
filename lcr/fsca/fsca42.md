@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca41)  [Next](fsca43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca41)  [Next](fsca43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ id="img_18601"></span>
 
 |                               |
 |-------------------------------|
-| ![\[Martlet\]](img/18601.jpg) |
+| ![\[Martlet\]](img/18601.jpg.md) |
 
 swallow is a favourite device in heraldry all over Europe, and has
 assumed a somewhat unreal character from the circumstance that it
@@ -88,4 +88,4 @@ bordure*"; showing it was some difference of a family coat.
 
 ------------------------------------------------------------------------
 
-[Next: The Alerion](fsca43)
+[Next: The Alerion](fsca43.md)

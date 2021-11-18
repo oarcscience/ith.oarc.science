@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](sft06)  [Next](sft08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](sft06)  [Next](sft08.md) 
 
 ------------------------------------------------------------------------
 
@@ -1407,4 +1407,4 @@ daily additions, in the folk-lore journals of the various countries.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Classes of Fairy Tales](sft08)
+[Next: Chapter V. Classes of Fairy Tales](sft08.md)

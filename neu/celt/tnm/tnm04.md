@@ -1,8 +1,8 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index) 
-[Iceland](../../ice/index)  [Index](index)  [Previous](tnm03) 
-[Next](tnm05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index.md) 
+[Iceland](../../ice/index)  [Index](index)  [Previous](tnm03.md) 
+[Next](tnm05.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,14 +10,14 @@
 
 [![PLATE I. UNINSCRIBED CROSS-SLAB, JURBY.&lt;br&gt; ODIN CARRIES THE
 HERO TO VALHALL.](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 PLATE I. UNINSCRIBED CROSS-SLAB, JURBY.  
 ODIN CARRIES THE HERO TO VALHALL.  
 
 <span id="img_pl02"></span>
 
 [![UNINSCRIBED CROSS-SLAB, JURBY. (obverse)](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 UNINSCRIBED CROSS-SLAB, JURBY. (obverse)  
 
 ### II.--ODIN CARRIES THE HERO TO VALHALL.
@@ -35,14 +35,14 @@ At the left of the lower part of the shaft of a cross we
 <span id="page_19">p. 19</span>
 
 see a man with a pole over his shoulder, from the end of which a smaller
-being is hanging <span id="fr_15"></span>[1](#fn_15) ([pl.
-I.](#img_pl01)).
+being is hanging <span id="fr_15"></span>[1](#fn_15.md) ([pl.
+I.](#img_pl01).md).
 
 Now there is in the Norse heroic Sagas an old story of the sacrifice of
 King Wiker by Starkad, Odin's foster-son, who *marked him with the
-spear*, and dedicated him to Odin. <span id="fr_16"></span>[2](#fn_16)
+spear*, and dedicated him to Odin. <span id="fr_16"></span>[2](#fn_16.md)
 But, as Professor Sophus Bugge points out, <span
-id="fr_17"></span>[3](#fn_17) the motives from the Volsunga Saga are
+id="fr_17"></span>[3](#fn_17.md) the motives from the Volsunga Saga are
 those most frequently represented on the Manks stones, and it seems
 altogether more likely that the reference here is to Randver,
 Jormanrek's son, whom Odin, under the guise of Bikke, the evil
@@ -82,7 +82,7 @@ Above the Boar we see remains of a design which may be intended for a
 shield, as suggested by Dr. S. Bugge, representing the shield-panelling
 of Valhall.
 
-On the other face of the stone ([pl. II.](#img_pl02)) is a curious
+On the other face of the stone ([pl. II.](#img_pl02).md) is a curious
 circular design of agglomerated flat pellets within a border of
 step-pattern Can this be a reference to the roof of golden shields?
 
@@ -90,17 +90,17 @@ step-pattern Can this be a reference to the roof of golden shields?
 
 ### Footnotes
 
-<span id="fn_15"></span>[19:1](tnm04.htm#fr_15) In a paper on Saga
+<span id="fn_15"></span>[19:1](tnm04.htm#fr_15.md) In a paper on Saga
 Illustrations on Manks Monuments, Viking Club Saga Book, 1895-6, I took
 this to be the capture of Loki, but the above seems a more likely
 explanation.
 
-<span id="fn_16"></span>[19:2](tnm04.htm#fr_16) Gautreks S., ch.
+<span id="fn_16"></span>[19:2](tnm04.htm#fr_16.md) Gautreks S., ch.
 7--"Corp. Poet. Bor.", I, 466-7.
 
-<span id="fn_17"></span>[19:3](tnm04.htm#fr_17) Nordiske Runeindskifter,
+<span id="fn_17"></span>[19:3](tnm04.htm#fr_17.md) Nordiske Runeindskifter,
 &c., Saertryk of Aarb. for Nord Oldkynd og Hist., 1899, p. 253.
 
 ------------------------------------------------------------------------
 
-[Next: III.--View of Valhalla](tnm05)
+[Next: III.--View of Valhalla](tnm05.md)

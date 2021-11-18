@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mgr05)  [Next](mgr07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mgr05)  [Next](mgr07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ Bird of Wisdom.
 
 ------------------------------------------------------------------------
 
-[Next: Aphrodite (Venus)](mgr07)
+[Next: Aphrodite (Venus)](mgr07.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram14)  [Next](ram16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram14)  [Next](ram16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -50,7 +50,7 @@ The king, as the father of his people, is responsible for village
 hospitality, and by a kind of fiscal arrangement he levies a tax for
 this purpose on those of his people best able to bear a burden. His acts
 of kindness to strangers are representative acts, and any failure on his
-part is a disgrace to the tribe. <span id="fr_199"></span>[\*](#fn_199)
+part is a disgrace to the tribe. <span id="fr_199"></span>[\*](#fn_199.md)
 I remember once visiting a man of some local standing. He sent me a fowl
 for my supper, and the councillor who brought it seemed to be ashamed of
 his commission. Little was said, but I felt the reception I met with did
@@ -157,7 +157,7 @@ dire distress.
 
 When primitive men walk abroad in nature's robes, and women adorn
 themselves with a tail of grass behind their backs as their sole garment
-after the manner of the Baris, <span id="fr_200"></span>[\*](#fn_200) we
+after the manner of the Baris, <span id="fr_200"></span>[\*](#fn_200.md) we
 are shocked at their immodesty, and cry out that they must be devoid of
 all sense of morality. This is exactly what a Monbutto mother would say
 to her daughter, if she appeared arrayed in the ample loin cloth worn by
@@ -193,13 +193,13 @@ prescribed by ritual.
 
 When iron ore is dug and smelted, the smith must observe certain rules
 and conform to the necessary religious observances. <span
-id="fr_201"></span>[\*](#fn_201) His forge must be placed at a distance
+id="fr_201"></span>[\*](#fn_201.md) His forge must be placed at a distance
 from the village dwellings, and no one dare approach at the critical
 moment when the molten metal begins to flow, except those versed in the
-mysteries of the art. <span id="fr_202"></span>[†](#fn_202) The fire
+mysteries of the art. <span id="fr_202"></span>[†](#fn_202.md) The fire
 used to cook first-fruits must not be kindled by a vulgar brand snatched
 from the domestic hearth, but must be sacred fire made by the magician
-in the time-honoured way. <span id="fr_203"></span>[‡](#fn_203) While
+in the time-honoured way. <span id="fr_203"></span>[‡](#fn_203.md) While
 the crops are growing and before the feast of first-fruits is held, no
 forest tree may be cut, as that would be to wound the spirit of
 vegetation, which, to primitive man, would be equivalent to wounding the
@@ -216,7 +216,7 @@ prosperity on one's foes. The sun is regarded as the father of fire. The
 moon too has her votaries and the devil dances of the Damaras are
 usually observed when the moon is full. So too the moon dances of West
 Africa, where their devil-houses are roofed with human skulls. <span
-id="fr_204"></span>[\*](#fn_204) Dances before engaging in war are held
+id="fr_204"></span>[\*](#fn_204.md) Dances before engaging in war are held
 during moonlight, and must not be neglected on pain of defeat and dire
 calamity. These and a thousand other minute observances enter into the
 daily religious life of the African, as they do into that of all
@@ -282,20 +282,20 @@ of human life and the destiny that awaits humanity.
 
 ### Footnotes
 
-<span id="fn_199"></span>[205:\*](ram15.htm#fr_199) J. Sutton, M.S.
+<span id="fn_199"></span>[205:\*](ram15.htm#fr_199.md) J. Sutton, M.S.
 notes.
 
-<span id="fn_200"></span>[209:\*](ram15.htm#fr_200) Felkin.
+<span id="fn_200"></span>[209:\*](ram15.htm#fr_200.md) Felkin.
 
-<span id="fn_201"></span>[210:\*](ram15.htm#fr_201) Myer,
+<span id="fn_201"></span>[210:\*](ram15.htm#fr_201.md) Myer,
 *Killimanjaro*.
 
-<span id="fn_202"></span>[210:†](ram15.htm#fr_202) G. M. Theal.
+<span id="fn_202"></span>[210:†](ram15.htm#fr_202.md) G. M. Theal.
 
-<span id="fn_203"></span>[210:‡](ram15.htm#fr_203) J. Sutton, MS. notes.
+<span id="fn_203"></span>[210:‡](ram15.htm#fr_203.md) J. Sutton, MS. notes.
 
-<span id="fn_204"></span>[211:\*](ram15.htm#fr_204) Waddell.
+<span id="fn_204"></span>[211:\*](ram15.htm#fr_204.md) Waddell.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Reforms](ram16)
+[Next: Chapter XIV. Reforms](ram16.md)

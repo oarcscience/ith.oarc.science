@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim12)  [Next](mim14) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim12)  [Next](mim14.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ high in the Sierra Nevada.\]
 
 ------------------------------------------------------------------------
 
-[Next: 12. The Theft of Fire](mim14)
+[Next: 12. The Theft of Fire](mim14.md)

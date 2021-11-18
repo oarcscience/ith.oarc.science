@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc54)  [Next](osc56) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc54)  [Next](osc56.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ overturning the salt, is the real origin of the salt superstition.
 
 ------------------------------------------------------------------------
 
-[Next: (15) Thirteen at Table](osc56)
+[Next: (15) Thirteen at Table](osc56.md)

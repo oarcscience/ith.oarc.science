@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo25)  [Next](aoo27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo25)  [Next](aoo27.md) 
 
 ------------------------------------------------------------------------
 
@@ -306,4 +306,4 @@ around his head turned round to the company.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](aoo27)
+[Next: Chapter IV](aoo27.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi253)  [Next](mtsi255) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi253)  [Next](mtsi255.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ Rabbit said, "I told you I would come back."
 
 ------------------------------------------------------------------------
 
-[Next: 55. Rabbit Fools Big Man-eater](mtsi255)
+[Next: 55. Rabbit Fools Big Man-eater](mtsi255.md)

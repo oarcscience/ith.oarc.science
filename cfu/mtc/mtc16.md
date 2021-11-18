@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc15)  [Next](mtc17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc15)  [Next](mtc17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -48,6 +48,6 @@ And all day the thought lingered in my head.
 
 ------------------------------------------------------------------------
 
-[Next: Going Alone to Spend a Night at the Hsien-Yu Temple](mtc17)
+[Next: Going Alone to Spend a Night at the Hsien-Yu Temple](mtc17.md)
 
 </div>

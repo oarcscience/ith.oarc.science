@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst103)  [Next](inst105) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst103)  [Next](inst105.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,4 +208,4 @@ Because Christ rose in our flesh. 3. Because God is Almighty.
 
 ------------------------------------------------------------------------
 
-[Next: BOOK 4](inst105)
+[Next: BOOK 4](inst105.md)

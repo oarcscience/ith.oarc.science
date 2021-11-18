@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](dan)  [Next](joe) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](dan)  [Next](joe.md) 
 
 ------------------------------------------------------------------------
 
@@ -760,4 +760,4 @@ giusti cammineranno per esse, ma i trasgressori vi cadranno.
 
 ------------------------------------------------------------------------
 
-[Next: Joel](joe)
+[Next: Joel](joe.md)

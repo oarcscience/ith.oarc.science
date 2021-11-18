@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut01)  [Next](hut03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut01)  [Next](hut03.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ lore of their people.
 
 ------------------------------------------------------------------------
 
-[Next: Key to the Sounds Represented by the Characters Used](hut03)
+[Next: Key to the Sounds Represented by the Characters Used](hut03.md)

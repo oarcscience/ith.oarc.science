@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sdr13)  [Next](sdr15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sdr13)  [Next](sdr15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Doctrine of the Rosicrucians*, by Magus Incognito, \[1918\],
 at Intangible Textual Heritage
 
@@ -468,7 +468,7 @@ The term "periodicity" so often employed in connection with the subject
 of Rhythm, means "state of occurring or recurring at fixed intervals of
 time." Every phenomenal thing manifests periodicity, by reason of the
 presence and activity of the Principle of Rhythm. Every phenomenal thing
-has its own rhythmic beat, or [measure](errata.htm#25) of periodicity.
+has its own rhythmic beat, or [measure](errata.htm#25.md) of periodicity.
 All scientific investigation tends to corroborate the ancient occult
 axiom: "Everything beats time." A leading scientist has said: "Rhythm is
 a necessary characteristic of all motion. Given the co-existence
@@ -1145,4 +1145,4 @@ generation, and all generation proceeds from Sex."
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](sdr15)
+[Next: Advertisements](sdr15.md)

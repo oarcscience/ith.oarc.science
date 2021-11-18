@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml04)  [Next](eml06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml04)  [Next](eml06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -82,7 +82,7 @@ He desired to stir up rebellion in the kingdom. The queen frustrated his
 wicked designs. He sought in vain to prevail in battle against her, so
 he plotted to overcome Osiris by guile. His followers were seventy and
 two men who were subjects of the dusky queen of Ethiopia. <span
-id="fr_25"></span>[1](#fn_25)
+id="fr_25"></span>[1](#fn_25.md)
 
 <table data-border="0" width="798">
 <colgroup>
@@ -181,7 +181,7 @@ questioned each one she encountered, and one after another they answered
 her without knowledge. Long she made search in vain, but at length she
 was told by shoreland children that they had beheld the chest floating
 down the Nile and entering the sea by the Delta mouth which takes its
-name from the city of Tanis. <span id="fr_26"></span>[1](#fn_26)
+name from the city of Tanis. <span id="fr_26"></span>[1](#fn_26.md)
 
 Meanwhile Set, the usurper, ascended the throne of Osiris and reigned
 over the land of Egypt. Men were wronged and despoiled of their
@@ -208,14 +208,14 @@ unto the queen with gratitude while she remained in the house.
 
 Then Isis gave birth unto her son Horus; but Set came to know where the
 mother and babe were concealed, and he made them prisoners in the
-house. <span id="fr_27"></span>[1](#fn_27)
+house. <span id="fr_27"></span>[1](#fn_27.md)
 
 It was his desire to put Horus to death, lest he should become his enemy
 and the claimant of the throne of Osiris. But wise Thoth came out of
 heaven and gave warning unto Isis, and she fled with her child into the
 night. She took refuge in Buto, where she gave Horus into the keeping of
 Uazit, the virgin goddess of the city, who was a serpent, <span
-id="fr_28"></span>[2](#fn_28) So that he might have protection against
+id="fr_28"></span>[2](#fn_28.md) So that he might have protection against
 the jealous wrath of Set, his wicked uncle, while she went forth to
 search for the body of Osiris. But one day, when she came to gaze upon
 the child, she found him lying dead. A scorpion had bitten him, nor was
@@ -224,7 +224,7 @@ called upon the great god Ra. Her voice ascended to high heaven, and the
 sun boat was stayed in its course. Then wise Thoth came down to give
 aid. He worked a mighty spell; he spoke magical words over the child
 Horus, who was immediately restored to life again. <span
-id="fr_29"></span>[3](#fn_29) It was the will of the gods that he should
+id="fr_29"></span>[3](#fn_29.md) It was the will of the gods that he should
 grow into strong manhood and then smite his father's slayer.
 
 The coffin of Osiris was driven by the waves to Byblos, in Syria, and it
@@ -260,7 +260,7 @@ uttering broken cries of sorrow, round about the sacred pillar which
 contained the body of Osiris. It chanced that the queen came nigh and
 beheld her babe in the flames. She immediately plucked him forth; but
 although she rescued his body she caused him to be denied
-immortality. <span id="fr_30"></span>[1](#fn_30)
+immortality. <span id="fr_30"></span>[1](#fn_30.md)
 
 Isis again assumed her wonted form, and she confessed
 
@@ -289,7 +289,7 @@ and he fell back dead into the sea.
 When Isis reached the land of Egypt she concealed the body of the dead
 king in a secret place, and hastened towards the city of Buto to embrace
 her son Horus; but shortlived was her triumph. It chanced that Set came
-hunting the boar <span id="fr_31"></span>[1](#fn_31) at full moon in the
+hunting the boar <span id="fr_31"></span>[1](#fn_31.md) at full moon in the
 Delta jungle, and he found the chest which Isis had taken back from
 Syria. He caused it to be opened, and the body of Osiris was taken forth
 and rent into fourteen pieces, which he cast into the Nile, so that the
@@ -299,7 +299,7 @@ touched them not,
 <span id="page_22">p. 22</span>
 
 and they were scattered along the river banks. <span
-id="fr_32"></span>[1](#fn_32) A fish (Oxyrhynchus) swallowed the
+id="fr_32"></span>[1](#fn_32) A fish (Oxyrhynchus.md) swallowed the
 phallus.
 
 The heart of Isis was filled with grief when she came to know what Set
@@ -319,7 +319,7 @@ his followers were cunning workers in metal who were called Mesniu
 was blazoned on their battle banners.
 
 One night there appeared to Horus in a. dream a vision of his father
-Osiris. <span id="fr_33"></span>[2](#fn_33) The ghost urged him to
+Osiris. <span id="fr_33"></span>[2](#fn_33.md) The ghost urged him to
 overthrow Set) by whom he had been so treacherously put to death, and
 Horus vowed to drive his wicked uncle and all his followers out of the
 land of Egypt. So he gathered his army together and went forth to
@@ -333,7 +333,7 @@ frontier. The usurper uttered a
 great cry of grief when he was forced to take flight. He rested at Zaru,
 and there was the last battle fought. It was waged for many days, and
 Horus lost an eye. But Set was still more grievously wounded, <span
-id="fr_34"></span>[1](#fn_34) and he was at length driven with his army
+id="fr_34"></span>[1](#fn_34.md) and he was at length driven with his army
 out of the kingdom.
 
 It is told that the god Thoth descended out of heaven and healed the
@@ -357,7 +357,7 @@ Nepthys cries,
 
 Subdue every sorrow which is in the hearts of us thy sisters . . .  
 Live before us, desiring to behold thee. <span
-id="fr_35"></span>[2](#fn_35)
+id="fr_35"></span>[2](#fn_35.md)
 
 The lamentations of the goddesses were heard by Ra, and he sent down
 from heaven the god Anubis, who, with the assistance of Thoth and Horus,
@@ -396,7 +396,7 @@ were opened in ancient days, so that the waters might fertilize the
 fields.
 
 "As the Nile rose," writes Wilkinson, <span
-id="fr_36"></span>[1](#fn_36) "the peasants were careful to remove the
+id="fr_36"></span>[1](#fn_36.md) "the peasants were careful to remove the
 flocks and herds from the lowlands; and when a sudden irruption of the
 water, owing to the bursting. of a dike, or an unexpected and
 
@@ -474,7 +474,7 @@ fused. As a result we find that the inundation is symbolized now as the
 male principle and now as the female principle; the Nile god, Hapi, is
 depicted as a man with female breasts. In an Abydos temple chant Isis
 makes reference to herself as "the woman who was made a male by her
-father, Osiris". <span id="fr_37"></span>[1](#fn_37)
+father, Osiris". <span id="fr_37"></span>[1](#fn_37.md)
 
 The Scottish Osiris
 
@@ -569,54 +569,54 @@ Burns.
 
 ### Footnotes
 
-<span id="fn_25"></span>[16:1](eml05.htm#fr_25) After the period of
+<span id="fn_25"></span>[16:1](eml05.htm#fr_25.md) After the period of
 Ethiopian supremacy (Twenty-fifth Dynasty) Set was identified with the
 Ethiopians.
 
-<span id="fn_26"></span>[18:1](eml05.htm#fr_26) Tanis was during the
+<span id="fn_26"></span>[18:1](eml05.htm#fr_26.md) Tanis was during the
 later Dynasties associated with the worship of Set as Sutekh
 
-<span id="fn_27"></span>[19:1](eml05.htm#fr_27) Another version of the
+<span id="fn_27"></span>[19:1](eml05.htm#fr_27.md) Another version of the
 myth places the birth of Horus after the body of Osiris was found.
 
-<span id="fn_28"></span>[19:2](eml05.htm#fr_28) She took the form of a
+<span id="fn_28"></span>[19:2](eml05.htm#fr_28.md) She took the form of a
 shrew mouse to escape Set when he searched for Horus.
 
-<span id="fn_29"></span>[19:3](eml05.htm#fr_29) Thoth in his lunar
+<span id="fn_29"></span>[19:3](eml05.htm#fr_29.md) Thoth in his lunar
 character as divine physician.
 
-<span id="fn_30"></span>[20:1](eml05.htm#fr_30) We have here a
+<span id="fn_30"></span>[20:1](eml05.htm#fr_30.md) We have here a
 suggestion of belief in cremation, which was practised by the
 cave-dwellers of southern Palestine. The ghost of Patroklos says: "Never
 again will I return from Hades when I receive from you my meed of
 fire".--Iliad, xxiii, 75.
 
-<span id="fn_31"></span>[21:1](eml05.htm#fr_31) The Osiris boar. See
+<span id="fn_31"></span>[21:1](eml05.htm#fr_31.md) The Osiris boar. See
 Chapter V.
 
-<span id="fn_32"></span>[22:1](eml05.htm#fr_32) The crocodile
+<span id="fn_32"></span>[22:1](eml05.htm#fr_32.md) The crocodile
 worshippers held that their sacred reptile recovered the body of Osiris
 for Isis.
 
-<span id="fn_33"></span>[22:2](eml05.htm#fr_33) This is the earliest
+<span id="fn_33"></span>[22:2](eml05.htm#fr_33.md) This is the earliest
 known form of the Hamlet myth.
 
-<span id="fn_34"></span>[23:1](eml05.htm#fr_34) He was mutilated by
+<span id="fn_34"></span>[23:1](eml05.htm#fr_34.md) He was mutilated by
 Horus as he himself had mutilated Osiris.
 
-<span id="fn_35"></span>[23:2](eml05.htm#fr_35) *The Burden of Isis*,
+<span id="fn_35"></span>[23:2](eml05.htm#fr_35.md) *The Burden of Isis*,
 translated by J. T. Dennis (Wisdom of the East Series).
 
-<span id="fn_36"></span>[24:1](eml05.htm#fr_36) *The Ancient Egyptians*,
+<span id="fn_36"></span>[24:1](eml05.htm#fr_36.md) *The Ancient Egyptians*,
 Sir J. Gardner Wilkinson.
 
-<span id="fn_37"></span>[27:1](eml05.htm#fr_37) *The Burden of Isis*,
+<span id="fn_37"></span>[27:1](eml05.htm#fr_37.md) *The Burden of Isis*,
 Dennis, p. 49.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Dawn of Civilization](eml06)
+[Next: Chapter III: Dawn of Civilization](eml06.md)
 
 </div>

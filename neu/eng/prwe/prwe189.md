@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe188)  [Next](prwe190) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe188)  [Next](prwe190.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ of the honest Jew tin merchant and his wife.
 
 ------------------------------------------------------------------------
 
-[Next: Who are the Knockers ?](prwe190)
+[Next: Who are the Knockers ?](prwe190.md)

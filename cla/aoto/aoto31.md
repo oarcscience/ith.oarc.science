@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto30) 
-[Next](aoto32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto30.md) 
+[Next](aoto32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -81,7 +81,7 @@ Clytemnestra's treachery has inflicted upon all women "even on the good
 ones." Why should she be at such pains to tell us that Clytemnestra was
 a person of good natural disposition (iii. 266), and was irreproachable
 until death had removed the bard under whose protection Agamemnon had
-placed her? <span id="fr_50"></span>[\*](#fn_50) When she was left
+placed her? <span id="fr_50"></span>[\*](#fn_50.md) When she was left
 alone—without either husband or guardian, and with an insidious wretch
 like Ægisthus beguiling her with his incessant flattery, she yielded,
 and there is no more to be said, except that it was very dreadful
@@ -91,7 +91,7 @@ and there is no more to be said, except that it was very dreadful
 and she must be abandoned to her fate. I see Mr. Gladstone has wondered
 what should have induced Homer (whom he holds to have written the
 "Odyssey" as well as the "Iliad") to tell us that Clytemnestra was a
-good woman to start with, <span id="fr_51"></span>[\*](#fn_51) but with
+good woman to start with, <span id="fr_51"></span>[\*](#fn_51.md) but with
 all my respect for his great services to Homeric literature, I cannot
 think that he has hit upon the right explanation. It should not be
 forgotten, moreover, that this extenuation of Clytemnestra's guilt
@@ -159,7 +159,7 @@ the one his father had prescribed for them—perhaps also he may have
 thought he should have less blood to clean up than if he stabbed
 them—but see note on p. 98. The writer tells us in a line which she
 borrows in great part from the "Iliad," <span
-id="fr_52"></span>[\*](#fn_52) that their feet move convulsively for a
+id="fr_52"></span>[\*](#fn_52.md) that their feet move convulsively for a
 short time though not for very long, but her ideas of the way in which
 Telemachus hanged them are of the vaguest. No commentator has ever yet
 been able to understand it; the only explanation seems to be that the
@@ -200,7 +200,7 @@ I suppose her to have been in both cases, she was in a roofed cloister
 that ran round an open court.
 
 There is a flavour of consecutive fifths in these flights, <span
-id="fr_53"></span>[\*](#fn_53) if
+id="fr_53"></span>[\*](#fn_53.md) if
 
 <span id="page_120">p. 120</span>
 
@@ -218,7 +218,7 @@ The seriousness, again, with which Telemachus is taken, the closeness
 with which he adheres to his programme, the precision with which he
 invariably does what his father, his mother, Minerva, or any responsible
 person tells him that he should do, except in one passage which is taken
-almost *verbatim* from the "Iliad," <span id="fr_54"></span>[\*](#fn_54)
+almost *verbatim* from the "Iliad," <span id="fr_54"></span>[\*](#fn_54.md)
 the way in which Minerva beautifies him and preaches to him; the
 unobtrusive but exemplary manner in which he discharges all his
 religious, moral, and social duties—all seem to me to point in the
@@ -283,8 +283,8 @@ femininely.
 
 Again, the fidelity with which people go on crying incessantly for a son
 who has been lost to them for twenty years, though they have still three
-sons left, <span id="fr_55"></span>[\*](#fn_55) or for a brother whom
-they have never even seen, <span id="fr_56"></span>[†](#fn_56) is part
+sons left, <span id="fr_55"></span>[\*](#fn_55.md) or for a brother whom
+they have never even seen, <span id="fr_56"></span>[†](#fn_56.md) is part
 and parcel of that jealousy for the sanctity of domestic life, in
 respect of which women are apt to be more exacting than men.
 
@@ -387,28 +387,28 @@ person.
 
 ### Footnotes
 
-<span id="fn_50"></span>[116:\*](aoto31.htm#fr_50) The part about the
+<span id="fn_50"></span>[116:\*](aoto31.htm#fr_50.md) The part about the
 bard is omitted in my abridgement.
 
-<span id="fn_51"></span>[117:\*](aoto31.htm#fr_51) Studies on Homer and
+<span id="fn_51"></span>[117:\*](aoto31.htm#fr_51.md) Studies on Homer and
 the Homeric age.—Oxford University Press, 1858, Vol. I., p. 28.
 
-<span id="fn_52"></span>[118:\*](aoto31.htm#fr_52) "Od." xxii. 493,
+<span id="fn_52"></span>[118:\*](aoto31.htm#fr_52.md) "Od." xxii. 493,
 *cf*. "Il." xiii. 573.
 
-<span id="fn_53"></span>[119:\*](aoto31.htm#fr_53) I should explain to
+<span id="fn_53"></span>[119:\*](aoto31.htm#fr_53.md) I should explain to
 the non-musical reader that it is forbidden in music to have consecutive
 fifths or octaves between the same parts.
 
-<span id="fn_54"></span>[120:\*](aoto31.htm#fr_54) "Od." i. 356-359,
+<span id="fn_54"></span>[120:\*](aoto31.htm#fr_54.md) "Od." i. 356-359,
 *cf*. "Il." vi. 490-493. The word "war" in the "Iliad" becomes "speech"
 in the "Odyssey." There is no other change.
 
-<span id="fn_55"></span>[121:\*](aoto31.htm#fr_55) "Od." ii. 15-23.
+<span id="fn_55"></span>[121:\*](aoto31.htm#fr_55.md) "Od." ii. 15-23.
 
-<span id="fn_56"></span>[121:†](aoto31.htm#fr_56) "Od." iv. 186-188.
+<span id="fn_56"></span>[121:†](aoto31.htm#fr_56.md) "Od." iv. 186-188.
 Neither of these passages is given in my abridgement.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Whether Penelope is Being Whitewashed](aoto32)
+[Next: Chapter V. Whether Penelope is Being Whitewashed](aoto32.md)

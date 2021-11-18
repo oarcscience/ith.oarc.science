@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,8 +24,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](stc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](stc.txt.gz)
+[Contents](#contents)    [Start Reading](stc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](stc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -52,32 +52,32 @@ that this is a legend about the overthrow of the matriarchy or records
 of some cosmic catastrophe.
 
 A prior etext of this file, scanned at Intangible Textual Heritage, can
-be found [here.](../enuma)
+be found [here.](../enuma.md)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](stc00)  
-[Preface](stc01)  
-[Contents](stc02)  
-[Introduction](stc03)  
+<span id="contents"></span> [Title Page](stc00.md)  
+[Preface](stc01.md)  
+[Contents](stc02.md)  
+[Introduction](stc03.md)  
 <span id="section_000"></span>
 
 ### The Seven Tablets of the History of Creation
 
-[The First Tablet](stc04)  
-[The Second Tablet](stc05)  
-[The Third Tablet](stc06)  
-[The Fourth Tablet](stc07)  
-[The Fifth Tablet](stc08)  
-[The Sixth Tablet](stc09)  
-[The Seventh Tablet](stc10)  
+[The First Tablet](stc04.md)  
+[The Second Tablet](stc05.md)  
+[The Third Tablet](stc06.md)  
+[The Fourth Tablet](stc07.md)  
+[The Fifth Tablet](stc08.md)  
+[The Sixth Tablet](stc09.md)  
+[The Seventh Tablet](stc10.md)  
 <span id="section_001"></span>
 
 ### II: Other Accounts of the History of Creation
 
-[I. Another Version of the Dragon-Myth](stc11)  
+[I. Another Version of the Dragon-Myth](stc11.md)  
 [II. A Reference to the Creation of the Cattle and the Beasts of the
-Field](stc12)  
-[III. A reference to the Creation of the Moon and the Sun](stc13)  
-[IV. An Address to the River of Creation](stc14)  
-[V. Another Version of the Creation of the World by Marduk](stc15)  
+Field](stc12.md)  
+[III. A reference to the Creation of the Moon and the Sun](stc13.md)  
+[IV. An Address to the River of Creation](stc14.md)  
+[V. Another Version of the Creation of the World by Marduk](stc15.md)  

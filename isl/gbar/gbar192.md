@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar191) [Next](gbar193)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar191) [Next](gbar193.md)
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ fathers.
 
 ------------------------------------------------------------------------
 
-[Next](gbar193)
+[Next](gbar193.md)

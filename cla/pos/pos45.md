@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Sappho](../saph/index)  [Index](index)  [Previous](pos44) 
-[Next](pos46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Sappho](../saph/index)  [Index](index)  [Previous](pos44.md) 
+[Next](pos46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00087A7F8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00087A7F8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Poems of Sappho*, by John Myers O'Hara, \[1910\], at Intangible
 Textual Heritage
 
@@ -49,4 +49,4 @@ Accord this sacrifice
 
 ------------------------------------------------------------------------
 
-[Next: Leda](pos46)
+[Next: Leda](pos46.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj53) 
-[Next](npj55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj53.md) 
+[Next](npj55.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 
 ### (FARCICAL INTERLUDE)
 
-### THE BIRD-CATCHER IN HELL <span id="fr_216"></span>[1](#fn_214)
+### THE BIRD-CATCHER IN HELL <span id="fr_216"></span>[1](#fn_214.md)
 
 ### (ESASHI JŪŌ)
 
@@ -28,7 +28,7 @@ CHORUS.
 YAMA.
 
 Yama the King of Hell comes forth to stand  
-At the Meeting of the Way, <span id="fr_217"></span>[2](#fn_215)
+At the Meeting of the Way, <span id="fr_217"></span>[2](#fn_215.md)
 
 (*Shouting*.)
 
@@ -75,7 +75,7 @@ Then bustle him to Hell at once.
 
 DEMON.
 
-"Hell is ever at hand," <span id="fr_218"></span>[1](#fn_216) which is
+"Hell is ever at hand," <span id="fr_218"></span>[1](#fn_216.md) which is
 more than  
 Can he said of Heaven. (*Seizing* KIYOYORI.)  
 Come on, now, come on! (KIYOYORI *resists*.)  
@@ -241,14 +241,14 @@ There to begin his second span of life.
 
 ### Footnotes
 
-<span id="fn_214"></span>[255:1](npj54.htm#fr_216) *Kyōgen Zenshū*, p.
+<span id="fn_214"></span>[255:1](npj54.htm#fr_216.md) *Kyōgen Zenshū*, p.
 541. This farce is a parody of such Nō-plays as Ukai.
 
-<span id="fn_215"></span>[255:2](npj54.htm#fr_217) The Buddhist "Six
+<span id="fn_215"></span>[255:2](npj54.htm#fr_217.md) The Buddhist "Six
 Ways," *Rokudō*.
 
-<span id="fn_216"></span>[256:1](npj54.htm#fr_218) See *Ukai*, p. 169.
+<span id="fn_216"></span>[256:1](npj54.htm#fr_218.md) See *Ukai*, p. 169.
 
 ------------------------------------------------------------------------
 
-[Next: Short Bibliography](npj55)
+[Next: Short Bibliography](npj55.md)

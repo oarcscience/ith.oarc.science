@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt59)  [Next](pyt61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt59)  [Next](pyt61.md) 
 
 ------------------------------------------------------------------------
 
@@ -171,4 +171,4 @@ which thou livest as a god.
 
 ------------------------------------------------------------------------
 
-[Next: 58. Texts of Miscellaneous Contents, Utterances 691-704](pyt61)
+[Next: 58. Texts of Miscellaneous Contents, Utterances 691-704](pyt61.md)

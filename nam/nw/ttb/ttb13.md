@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb12)  [Next](ttb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb12)  [Next](ttb14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 <span id="page_26">p. 26</span>
 
 <span id="img_02600"></span> ![Sisuith or Se-Sook, The Two Headed
-Snake](img/02600.jpg)
+Snake](img/02600.jpg.md)
 
 ### Sisuith or Se-Sook, THE TWO-HEADED SNAKE
 
@@ -33,8 +33,8 @@ backwards until the head touched the heels. Wherever Sisuith's
 **pil-pil** (blood) touched the skin of a human being, it turned to
 stone.
 
-The ancestors of the Indians possessed [supernatural](errata.htm#16)
-**Skookum** (power) and were favored by [**Sisuith**](errata.htm#17). If
+The ancestors of the Indians possessed [supernatural](errata.htm#16.md)
+**Skookum** (power) and were favored by [**Sisuith**](errata.htm#17.md). If
 they possessed a belt made of his cast-off skin they were capable of
 performing magical feats such as turning **Sisuith** into a canoe which
 could move very rapidly through the water with the aid of its powerful
@@ -51,4 +51,4 @@ Poles.
 
 ------------------------------------------------------------------------
 
-[Next: The Ill-Jow](ttb14)
+[Next: The Ill-Jow](ttb14.md)

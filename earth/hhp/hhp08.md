@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](hhp07)  [Next](hhp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](hhp07)  [Next](hhp09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Hidden Places*, by W. Marsham Adams, \[1895\], at
 Intangible Textual Heritage
 
@@ -186,7 +186,7 @@ of that brief but steep ascent, of the
 
 preparation which awaits him when the last glimpse of earth is hidden
 from his sight. Thus we learn how (ii., iii.) <span
-id="fr_31"></span>[\*](#fn_31) after death, the departed comes forth
+id="fr_31"></span>[\*](#fn_31.md) after death, the departed comes forth
 into the light of immortality, even as the sun when he sets, bursts
 forth in radiance on the world which is hidden from our view. Then,
 since the departed cannot yet bear the judgment of interior justice, he
@@ -560,7 +560,7 @@ depths below, but in the heights above the open sarkophagus, speaks to
 him of Osiris, "the
 
 <span id="img_21900"></span> ![The Anchor and the Coffin of the Lord of
-Earth. (Sarkophagus and highest chamber.)](img/21900.jpg)  
+Earth. (Sarkophagus and highest chamber.)](img/21900.jpg.md)  
 The Anchor and the Coffin of the Lord of Earth. (Sarkophagus and highest
 chamber.)
 
@@ -591,7 +591,7 @@ lustrous chamber, with its starry rays, images to him whose eyes are
 opened, the "Sail of the Firmament," which, by its starry grandeur,
 
 <span id="img_22100"></span> ![The Sail of the
-Firmament.](img/22100.jpg)  
+Firmament.](img/22100.jpg.md)  
 The Sail of the Firmament.
 
 draws the soul irresistibly to God. The Well reflects to him the
@@ -610,14 +610,14 @@ shape given in the text. But if above the Chamber
 of New Birth we indicate the throne of Ra, which immediately surmounts
 it, we shall have
 
-<span id="img_22200"></span> ![The Cabin.](img/22200.jpg)  
+<span id="img_22200"></span> ![The Cabin.](img/22200.jpg.md)  
 The Cabin.
 
 the shape in question; so that the form implies the enthronization of
 the Uncreated Light upon the Mystery of the Divine Mother, Isis.
 
 <span id="img_22201"></span> ![Chamber of New Birth, surmounted by
-Throne.](img/22201.jpg)  
+Throne.](img/22201.jpg.md)  
 Chamber of New Birth, surmounted by Throne.
 
 <span class="contnote">\[paragraph continues\]</span> Upon that bark of
@@ -667,7 +667,7 @@ the Fiery Ordeal.
 
 ### Footnotes
 
-<span id="fn_31"></span>[199:\*](hhp08.htm#fr_31) If these numbers be
+<span id="fn_31"></span>[199:\*](hhp08.htm#fr_31.md) If these numbers be
 placed on a print of the interior of the Pyramid, in the order here
 indicated, they will show how the titles here assigned to the different
 parts are obtained from the Ritual.
@@ -676,6 +676,6 @@ parts are obtained from the Ritual.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Illumination of the Adept](hhp09)
+[Next: Chapter VII. The Illumination of the Adept](hhp09.md)
 
 </div>

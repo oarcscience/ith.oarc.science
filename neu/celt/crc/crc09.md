@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc08)  [Next](crc10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc08)  [Next](crc10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -29,14 +29,14 @@ their chariots broke in the battle on the ford by him; hence it is Ath
 Carpat. Mulcha, Lethan's charioteer, fell on the shoulder of the hill
 that is between them; hence is Gulo Mulchai. While the hosts were going
 over Mag Breg, he struck (?) their ——— still. <span
-id="fr_40"></span>[2](#fn_40)
+id="fr_40"></span>[2](#fn_40.md)
 
  
 
 Yet that was the Morrigan in the form of a bird on the pillar in Temair
 Cuailnge; and she spoke to the Bull:
 
-'Does the Black know,' etc. <span id="fr_41"></span>[3](#fn_41)
+'Does the Black know,' etc. <span id="fr_41"></span>[3](#fn_41.md)
 
 Then the Bull went, and fifty heifers with him, to
 
@@ -51,7 +51,7 @@ of his boys, and dug a trench in Tir Marcceni in Cualnge before he went.
 
 ### Footnotes
 
-<span id="fn_40"></span>[40:2](crc09.htm#fr_40) Something; apparently
+<span id="fn_40"></span>[40:2](crc09.htm#fr_40.md) Something; apparently
 missing here. The passage in LL is as follows: 'It is the same day that
 the Morrigan, daughter of Ernmas, came from the Sid, so that she was on
 the pillar in Temair Cuailnge, taking a warning to the Dun of Cualnge
@@ -61,12 +61,12 @@ men of Ireland have reached thee, and they will take thee to their camp
 unless thou keepest watch"; and she began to take a warning to him thus,
 and uttered her words on high.' (The Rhetoric follows as in LU.)
 
-<span id="fn_41"></span>[40:3](crc09.htm#fr_41) A Rhetoric.
+<span id="fn_41"></span>[40:3](crc09.htm#fr_41.md) A Rhetoric.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Lochu](crc10)
+[Next: The Death of Lochu](crc10.md)
 
 </div>

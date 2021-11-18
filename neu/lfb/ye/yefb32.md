@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb31)  [Next](yefb33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb31)  [Next](yefb33.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_198">p. 198</span>
 
-THE FLYING SHIP <span id="fr_23"></span>[1](#fn_23)
+THE FLYING SHIP <span id="fr_23"></span>[1](#fn_23.md)
 
 Once upon a time there lived an old couple who had three sons; the two
 elder were clever, but the third was a regular dunce.  The clever sons
@@ -362,12 +362,12 @@ to eat and drink.
 
 ### Footnotes
 
-<span id="fn_23"></span>[198:1](yefb32.htm#fr_23) From the Russian.
+<span id="fn_23"></span>[198:1](yefb32.htm#fr_23.md) From the Russian.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Snow-Daughter and the Fire-Son](yefb33)
+[Next: The Snow-Daughter and the Fire-Son](yefb33.md)
 
 </div>

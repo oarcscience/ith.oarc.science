@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](tpt03)  [Next](tpt05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](tpt03)  [Next](tpt05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -591,4 +591,4 @@ vocation of the Hebrews, all of which I shall do in the ensuing chapter.
 ------------------------------------------------------------------------
 
 [Next: Chapter III.—Of the Vocation of the Hebrews, and Whether the Gift
-of Prophecy Was Peculiar To Them](tpt05)
+of Prophecy Was Peculiar To Them](tpt05.md)

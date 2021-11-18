@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Next](pop01) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Next](pop01.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Contents](pop01)
+[Next: Contents](pop01.md)

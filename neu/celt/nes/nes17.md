@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes16)  [Next](nes18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes16)  [Next](nes18.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE belief in witches was universal. The witch was usually an old woman,
 who lived in a lonely house by herself, and kept all her affairs very
@@ -54,15 +54,15 @@ fire. The man did so, and be was left in peace ever after.
 
 The power of witchcraft was sometimes possessed by men. It was also
 inherent in certain families, and went down from generation to
-generation. <span id="fr_55"></span>[1](#fn_55)
+generation. <span id="fr_55"></span>[1](#fn_55.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_55"></span>[72:1](nes17.htm#fr_55) Cf. Henderson, pp. 180,
+<span id="fn_55"></span>[72:1](nes17.htm#fr_55.md) Cf. Henderson, pp. 180,
 &c., and *F. L. Record*, vol. i. pp. 23-26.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. ''Black Airt'' and Devil Compacts](nes18)
+[Next: Chapter XV. ''Black Airt'' and Devil Compacts](nes18.md)

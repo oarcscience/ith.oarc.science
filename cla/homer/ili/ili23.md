@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](ili22)  [Next](ili24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](ili22)  [Next](ili24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE78VC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE78VC/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Iliad of Homer*, tr. by Samuel Butler, \[1898\], at Intangible
 Textual Heritage
 
@@ -786,6 +786,6 @@ handed the goodly cauldron to Talthybius his esquire.
 
 ------------------------------------------------------------------------
 
-[Next: Book XXIV](ili24)
+[Next: Book XXIV](ili24.md)
 
 </div>

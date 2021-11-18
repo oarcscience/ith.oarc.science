@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku42)  [Next](tku44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku42)  [Next](tku44.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ doth not make itself manifest.
 together, and that herefrom, even from Microprosopus, there flow down
 four fountains in four directions, and that they are all distributed
 from one fountain, which proceedeth from them all, therefore are there
-four. <span id="fr_147"></span>[1](#fn_146)
+four. <span id="fr_147"></span>[1](#fn_146.md)
 
 832\. Also we have learned: From the Wisdom which is comprehended in the
 Quaternary the hairs flow down,
@@ -99,7 +99,7 @@ to light the shadow of death.'
 838\. "Also we have learned that those hairs of the beard are so much
 harder than those hairs of the head, because these alone make themselves
 so prominent, and are easily found, and are hard in their paths. <span
-id="fr_148"></span>[1](#fn_147)
+id="fr_148"></span>[1](#fn_147.md)
 
 839\. "Wherefore sayest thou that they are hard? Is it because they all
 symbolize Judgment? By no means; for truly in those dispositions Mercy
@@ -131,7 +131,7 @@ mercies.
 only (*which denote judgment*), and all consist in judgments.
 
 846\. "But when that holy white beard <span
-id="fr_149"></span>[1](#fn_148) is uncovered, all these (*hairs denoting
+id="fr_149"></span>[1](#fn_148.md) is uncovered, all these (*hairs denoting
 Mercy*) and all those (hairs denoting Judgment) are alike illuminated
 and made brilliant, like as when a man cleanseth himself in a deep river
 from his uncleanness.
@@ -139,7 +139,7 @@ from his uncleanness.
 847\. "And all consist together in Mercy, and there is no Judgment to be
 found at all.
 
-848\. "And when all those <span id="fr_150"></span>[2](#fn_149) nine
+848\. "And when all those <span id="fr_150"></span>[2](#fn_149.md) nine
 forms shine together, all are made white with Mercy.
 
 849\. "And therefore Moses saith in another place, Num. xiv. 18:
@@ -147,7 +147,7 @@ forms shine together, all are made white with Mercy.
 long of nose*), and of great mercy.'
 
 850\. "And that which he had said concerning truth, <span
-id="fr_151"></span>[3](#fn_150)
+id="fr_151"></span>[3](#fn_150.md)
 
 <span id="page_217">p. 217</span>
 
@@ -166,7 +166,7 @@ Ancient One; whence in this passage Moses saith not: 'And in truth.'
 
 853\. "We have learned that the hairs of the head of Microprosopus are
 all hard and curling, and not soft. <span
-id="fr_152"></span>[1](#fn_151)
+id="fr_152"></span>[1](#fn_151.md)
 
 854\. "For we see that in Him three forms of the brain are found in the
 three cavities (*of the skull*), which shine forth from the hidden and
@@ -183,7 +183,7 @@ wool.'
 not hard, because they all hang down, and are not diverted from their
 course.
 
-858\. "And therefore Wisdom <span id="fr_153"></span>[2](#fn_152)
+858\. "And therefore Wisdom <span id="fr_153"></span>[2](#fn_152.md)
 floweth forth and proceedeth (*therefrom*); but it is not the Wisdom of
 Wisdom, for that is quiet and tranquil.
 
@@ -203,7 +203,7 @@ that Holy and Blessed One, in this world and in the world to come!"
 
 ### Footnotes
 
-<span id="fn_146"></span>[214:1](tku43.htm#fr_147) This four proceeding
+<span id="fn_146"></span>[214:1](tku43.htm#fr_147.md) This four proceeding
 from one, and containing all things, is precisely the Pythagorean
 doctrine of the Tetractys, which Pythagoras probably obtained from
 qabalistic sources, though indeed most religions of antiquity attached
@@ -215,16 +215,16 @@ of the Decans (or groups of ten degrees) in the Zodiac. But 5 + 6 + 7 +
 8 = 26, the number of the IHVH. Therefore thirty-six represents the sum
 of the letters of the Tetragrammaton, and the number of the Sephiroth.
 
-<span id="fn_147"></span>[215:1](tku43.htm#fr_148) See definition of
+<span id="fn_147"></span>[215:1](tku43.htm#fr_148.md) See definition of
 term "path" in Introduction.
 
-<span id="fn_148"></span>[216:1](tku43.htm#fr_149) Which is of course
+<span id="fn_148"></span>[216:1](tku43.htm#fr_149.md) Which is of course
 that of Macroprosopus. the Ancient of Days.
 
-<span id="fn_149"></span>[216:2](tku43.htm#fr_150) The nine
+<span id="fn_149"></span>[216:2](tku43.htm#fr_150.md) The nine
 conformations into which the beard of Microprosopus is divided.
 
-<span id="fn_150"></span>[216:3](tku43.htm#fr_151) I give these two
+<span id="fn_150"></span>[216:3](tku43.htm#fr_151.md) I give these two
 passages side by side for the reader's benefit.
 
 Exod. xxxiv. 6 and 7: "The LORD, the LORD God, merciful and gracious,
@@ -240,17 +240,17 @@ iniquity and transgression, and by no means clearing the guilty.
 visiting the iniquity of the fathers upon the children unto the third
 and fourth generation."
 
-<span id="fn_151"></span>[217:1](tku43.htm#fr_152) It appears to read
+<span id="fn_151"></span>[217:1](tku43.htm#fr_152.md) It appears to read
 thus in the Chaldee and in the Latin alike, though this statement is
 contradicted distinctly both in § 587 and in § 857. I should think the
 word "LA, not," before "soft," is a mistake, or else that the passage
 refers to the hair of the *beard*, and not that of the *head*.
 
-<span id="fn_152"></span>[217:2](tku43.htm#fr_153) That is, Chokmah of
+<span id="fn_152"></span>[217:2](tku43.htm#fr_153.md) That is, Chokmah of
 the second Sephira, and not that Chokmah which is its root concealed in
 Kether: for in Kether are all the other Sephiroth contained.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXVI: Concerning the Second Part of the Beard of
-Microprosopus](tku44)
+Microprosopus](tku44.md)

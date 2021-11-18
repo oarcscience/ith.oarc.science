@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sss04)  [Next](sss06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sss04)  [Next](sss06.md) 
 
 ------------------------------------------------------------------------
 
@@ -239,4 +239,4 @@ have been alike the object of worship.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Malay Charm](sss06)
+[Next: IV. The Malay Charm](sss06.md)

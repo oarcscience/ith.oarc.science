@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft58)  [Next](efft60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft58)  [Next](efft60.md) 
 
 ------------------------------------------------------------------------
 
 # GHOST-LAYING STORIES.
 
-### I  <span id="fr_67"></span>[1](#fn_67)
+### I  <span id="fr_67"></span>[1](#fn_67.md)
 
 SOME years back a clergyman, on taking possession of a living on the
 confines of Dartmoor, found it necessary to enlarge the house, which was
@@ -69,7 +69,7 @@ knew the very spot in which he was reposing. So the other corners were
 blocked up, and with success. What matters it if the room be
 smaller!--the parsonage has never been haunted since.
 
-### II.  <span id="fr_68"></span>[2](#fn_68)
+### II.  <span id="fr_68"></span>[2](#fn_68.md)
 
 There lived in the town of-----, in that part of England which lies
 towards the borders of Wales, a very curious simple kind of a man;
@@ -113,12 +113,12 @@ ghost was never heard of after.
 
 ### Footnotes
 
-<span id="fn_67"></span>[1](efft59.htm#fr_67) W. Henderson, Notes on the
+<span id="fn_67"></span>[1](efft59.htm#fr_67.md) W. Henderson, Notes on the
 Folk-Lore of the Northern Counties of England and the Borders, p. 336.
 
-<span id="fn_68"></span>[2](efft59.htm#fr_68) *Folk-Lore Record*, vol.
+<span id="fn_68"></span>[2](efft59.htm#fr_68.md) *Folk-Lore Record*, vol.
 ii. p. 176.
 
 ------------------------------------------------------------------------
 
-[Next: The Roaring Bull of Bagbury](efft60)
+[Next: The Roaring Bull of Bagbury](efft60.md)

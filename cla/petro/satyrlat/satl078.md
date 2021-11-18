@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat11.htm#LXXVIII) 
-[Previous](satl077)  [Next](satl079) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat11.htm#LXXVIII.md) 
+[Previous](satl077)  [Next](satl079.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ Agamemnoni verba dedimus, raptimque tam plane quam ex incendio fugimus.
 
 ------------------------------------------------------------------------
 
-[Next: LXXIX](satl079)
+[Next: LXXIX](satl079.md)

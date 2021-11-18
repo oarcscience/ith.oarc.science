@@ -1,11 +1,11 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_88">p. 88</span>
 
-## NAVAJO ORIGIN LEGEND.<span id="page_88_fr_1"></span>[1](#page_88_note_1)
+## NAVAJO ORIGIN LEGEND.<span id="page_88_fr_1"></span>[1](#page_88_note_1.md)
 
 B<span class="small">Y</span> A. M. S<span class="small">TEPHEN</span>.
 
@@ -438,7 +438,7 @@ Coyote and Badger belong to the Navajos, but Great Wolf was the chief
 people’s dwellings and calls to the people to go to work in the fields
 <span id="page_97">p. 97</span> He advises them to get early to work
 planting corn, gardening and irrigating.<span
-id="page_97_fr_1"></span>[1](#page_97_note_1)
+id="page_97_fr_1"></span>[1](#page_97_note_1.md)
 
  He had a very smart woman for a wife and they had two children. After a
 time this woman made herself three small sticks for gambling and would
@@ -620,7 +620,7 @@ to Navajo Mt., north; and one to San Mateo Mt., east. They brought earth
 from all these. When Old Man left the lower world Old Woman brought the
 springs up with her under her arms.
 
- The two youths<span id="page_100_fr_1"></span>[1](#page_100_note_1)
+ The two youths<span id="page_100_fr_1"></span>[1](#page_100_note_1.md)
 came back from the mountain called Tcolii. Everybody saw them. One had a
 piece of hollow reed with four holes in its side, <span id="page_101">p.
 101</span> the other a sunflower stem with four holes in its stem (i.e.
@@ -704,12 +704,12 @@ closed over the water.
 plants and of trees and of all things that grow.
 
  Navajos and Mokis came up at the same time, (all this legend concerns
-them both).<span id="page_102_fr_1"></span>[1](#page_102_note_1)
+them both).<span id="page_102_fr_1"></span>[1](#page_102_note_1.md)
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -717,7 +717,7 @@ American](../../index) [Navajo](../index)
 
 <span id="footnotes_page_88">p. 88</span>
 
-<span id="page_88_note_1"></span>[1](#page_88_fr_1) This version of the
+<span id="page_88_note_1"></span>[1](#page_88_fr_1.md) This version of the
 Navajo origin myth was taken down from a Navajo priest whose name
 Stephen writes as Guisheen Bige, at Keam’s Canyon, August 5, 1885. It
 has been transcribed by Olive Bushnell. The account begins: “I have no
@@ -726,16 +726,16 @@ strange to the Americans. I wish to tell you of things as they began.”
 
 <span id="footnotes_page_97">p. 97</span>
 
-<span id="page_97_note_1"></span>[1](#page_97_fr_1) Almost certainly an
+<span id="page_97_note_1"></span>[1](#page_97_fr_1.md) Almost certainly an
 identification with Peace Chief — G. A. R.
 
 <span id="footnotes_page_100">p. 100</span>
 
-<span id="page_100_note_1"></span>[1](#page_100_fr_1) See p. 104.
+<span id="page_100_note_1"></span>[1](#page_100_fr_1.md) See p. 104.
 
 <span id="footnotes_page_102">p. 102</span>
 
-<span id="page_102_note_1"></span>[1](#page_102_fr_1) Stephen’s full
+<span id="page_102_note_1"></span>[1](#page_102_fr_1.md) Stephen’s full
 transcription ends here, but in the manuscript there follow immediately
 some fragmentary notes on the creation of the universe under the image
 of the building of a native house. It evidently has reference to ritual
@@ -747,7 +747,7 @@ held a four days’ council. They appointed Hosjelti, Mountain Guardian, a
 good man, and said, “Let him go and build our house for us. There is no
 sun, there is no moon, but we must have these things.” They built a
 house of all the colors of the cardinal directions. Nasdjeasan sat at B
-(see [diagram](nol.jpg), p. 103.) Etsi-istsan sat at C. Hoshjelti and
+(see [diagram](nol.jpg), p. 103..md) Etsi-istsan sat at C. Hoshjelti and
 Hostjog<sup>r</sup>wan on either side of A. These two made the sun and
 moon, the sun out of turquoise, the moon out of white shell. All the
 supernaturals worked on the blue blanket hung to the south which

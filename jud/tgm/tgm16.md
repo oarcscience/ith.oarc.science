@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm15)  [Next](tgm17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm15)  [Next](tgm17.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ Torah.
 <span id="img_07300"></span>
 
 [![](tn/07300.jpg)  
-Click to enlarge](img/07300.jpg)
+Click to enlarge](img/07300.jpg.md)
 
  
 
@@ -169,4 +169,4 @@ his fortune with them.
 
 ------------------------------------------------------------------------
 
-[Next: 14. The Wicked Neighbor](tgm17)
+[Next: 14. The Wicked Neighbor](tgm17.md)

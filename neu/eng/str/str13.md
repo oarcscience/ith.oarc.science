@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](str12)  [Next](str14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](str12)  [Next](str14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stonehenge, A Temple Restor'd to the British Druids*, by William
 Stukeley, \[1740\], at Intangible Textual Heritage
 
@@ -117,7 +117,7 @@ from the *Celtic* word *taeog dux*. Whence, perhaps, the *Etruscan*
 *Tages*, so much boasted of in their antiquities; likewise the modern
 *Doge* of *Venice*. So that *Divitiacus* may well be *Divisus dux*. The
 name of the *Wansdike*, I shewed to be purely *Celtic*, [p.
-4](str03.htm#page_4).
+4](str03.htm#page_4.md).
 
 It is an ancient oriental custom to make these boundary ditches. Thus
 the land belonging to the several tribes of *Israel* was marked out by a
@@ -146,7 +146,7 @@ that the stones were of a medicinal Virtue. These matters we read in
 Radfin fronting the Avenue of Stonehenge 8. June 1724.&lt;br&gt; A. the
 avenue. B. the old Kings barrows. C. The new Kings barrows. D.
 Vespasians camp. E. the beginning of the avenue.](tn/pl25.jpg)  
-Click to enlarge](img/pl25.jpg)  
+Click to enlarge](img/pl25.jpg.md)  
 The Approach to Radfin fronting the Avenue of Stonehenge 8. June 1724.  
 A. the avenue. B. the old Kings barrows. C. The new Kings barrows. D.
 Vespasians camp. E. the beginning of the avenue.  
@@ -225,7 +225,7 @@ leads us to consider the famous
 *petræ Amhrosiæ*, on the coins of the city of *Tyre*. A specimen of
 them, I have drawn on the *Plate* following.
 
-<span id="img_05000"></span> ![Coins of the city of Tyre](img/05000.jpg)
+<span id="img_05000"></span> ![Coins of the city of Tyre](img/05000.jpg.md)
 
 These, and many more of the like sort, struck by the city of *Tyre*, in
 honour of their founder *Hercules*, may be seen in *Vaillant*'s second
@@ -252,7 +252,7 @@ intimates, *Tibullus*.
 
 They acquaint us that he ordered *Tyre* to be built, where the *petræ
 ambrosiæ* stood, which were two moveable rocks, standing by an olive
-tree. He was to [sacrifice](errata.htm#6) on them, and they should
+tree. He was to [sacrifice](errata.htm#6.md) on them, and they should
 become fixt and stable: rather, the City should be built with happy
 auspice, and become permanent.
 
@@ -279,7 +279,7 @@ Prospect of Vespasians Camp near Ambersbury. Aug. 7 1723&lt;br&gt;
 (below) Prospect from the 7 barrows east of Ambersbury to the opening of
 the Avenue of Stonehenge, &c.&lt;br&gt; A. the beginning of the
 avenue.](tn/pl26.jpg)  
-Click to enlarge](img/pl26.jpg)  
+Click to enlarge](img/pl26.jpg.md)  
 Plate 26. (above) Prospect of Vespasians Camp near Ambersbury. Aug. 7
 1723  
 (below) Prospect from the 7 barrows east of Ambersbury to the opening of
@@ -298,7 +298,7 @@ goddess, teaches *Menelaus* and his companions, to cure the odious smell
 of the sea calves.
 
 <span id="img_05100"></span> ![greek text
-(untranscribed)](img/05100.jpg)
+(untranscribed)](img/05100.jpg.md)
 
 <span class="contnote">\[paragraph continues\]</span> She put *ambrosia*
 to their noses, sweetly smelling. Again, in his hymn to *Venus*, the
@@ -306,14 +306,14 @@ graces washt the goddess, and anointed her with oil ambrosial: such as
 becomes the immortals.
 
 <span id="img_05101"></span> ![greek text
-(untranscribed)](img/05101.jpg)
+(untranscribed)](img/05101.jpg.md)
 
 <span class="contnote">\[paragraph continues\]</span> Lastly, in
 *Iliad*. XXIII. *Venus* anoints *Hector*'s body with ambrosial oil of
 roses,
 
 <span id="img_05102"></span> ![greek text
-(untranscribed)](img/05102.jpg)
+(untranscribed)](img/05102.jpg.md)
 
 <span class="contnote">\[paragraph continues\]</span> Which is a
 tautology. For from length of time, they scarce knew the true meaning of
@@ -438,7 +438,7 @@ Desanaus,
 Beginning of the Avenue to Stonehenge, where it is Plowd up.&lt;br&gt;
 A. The 7 Kings Barrows. B. The Avenue going towards Stonehenge. C. The 6
 Old Barrows.](tn/pl27.jpg)  
-Click to enlarge](img/pl27.jpg)  
+Click to enlarge](img/pl27.jpg.md)  
 Plate 27. The Beginning of the Avenue to Stonehenge, where it is Plow’d
 up.  
 A. The 7 Kings Barrows. B. The Avenue going towards Stonehenge. C. The 6
@@ -588,7 +588,7 @@ informs us, the Druids had them.
 <span id="img_pl28"></span> <span align="CENTER"> [![Plate 28. A direct
 View of Stonehenge from the union of the two Avenues.&lt;br&gt; A. the
 wing of the avenue going to Radfin. B. to the Cursus.](tn/pl28.jpg)  
-Click to enlarge](img/pl28.jpg)  
+Click to enlarge](img/pl28.jpg.md)  
 Plate 28. A direct View of Stonehenge from the union of the two
 Avenues.  
 A. the wing of the avenue going to Radfin. B. to the Cursus.  
@@ -669,4 +669,4 @@ these works in general. 2. We are to speak of the time of founding
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](str14)
+[Next: Chapter XII](str14.md)

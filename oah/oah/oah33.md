@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah32)  [Next](oah34) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah32)  [Next](oah34.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ western division of Hored under Whaga.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII](oah34)
+[Next: Chapter XVIII](oah34.md)

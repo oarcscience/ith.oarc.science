@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv16)  [Next](rsv18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv16)  [Next](rsv18.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ hindered the growth of arts, crafts, industry and technological
 developments.
 
 Until very recently, and in many areas is still fact, the pagoda, the
-wat, the shrine, the [communal](errata.htm#27) house, the mosque, have
+wat, the shrine, the [communal](errata.htm#27.md) house, the mosque, have
 been the focus of village life. Birth, marriage, festivals, death, lunar
 occasions, etc., as well as health, posterity, travels, planting of
 crops, house building, are all governed by religious beliefs and
@@ -88,4 +88,4 @@ held by many Americans that all men are accountable to a supreme God.
 
 ------------------------------------------------------------------------
 
-[Next: Vietnamese Village--Homes](rsv18)
+[Next: Vietnamese Village--Homes](rsv18.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca04) 
-[Next](lca06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca04.md) 
+[Next](lca06.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,7 +128,7 @@ the type of the
 <span id="page_40">p. 40</span>
 
 race than the male. <span
-id="fr_5"></span>[1](#fn_5) [40](lca15.htm#xref_40) With these
+id="fr_5"></span>[1](#fn_5) [40](lca15.htm#xref_40.md) With these
 physiological differences are naturally allied the facts that, of the
 two, Woman is the more primitive, the more intuitive, the more
 emotional. If not so large and cosmic in her scope, the great
@@ -155,7 +155,7 @@ creatures; women are for men the human embodiments of the restful
 responsiveness of Nature. To every man, as Michelet has put it, the
 woman whom he loves is as the Earth was to her legendary son; he has but
 to fall down and kiss her breast and he is strong again." <span
-id="fr_6"></span>[1](#fn_6)
+id="fr_6"></span>[1](#fn_6.md)
 
 If it be true that by natural and physiological right Woman stands in
 some such primitive relationship to Man, then we may expect this
@@ -369,7 +369,7 @@ she may easily make use of him by craft. *Finesse*,
 
 <span id="page_50">p. 50</span>
 
-developed through scores of generations [50](lca15.htm#xref_50),
+developed through scores of generations [50](lca15.htm#xref_50.md),
 combined with the skilful use of the glamor belonging to her sex, have
 given her an extraordinary faculty of carrying out her own purposes,
 often through the most difficult passes, without ever exposing her hand.
@@ -384,7 +384,7 @@ unsatisfactory relation between the sexes has doubtless created, one
 seems to discern some of those more vital and deep-rooted
 differentiations spoken of on an earlier page. It is a commonly received
 opinion that woman tends more to intuition and man to logic; <span
-id="fr_7"></span>[1](#fn_7) and certainly the male mind seems better
+id="fr_7"></span>[1](#fn_7.md) and certainly the male mind seems better
 able to deal with abstractions and generalisations, and the female mind
 with the personal and the detailed and the concrete. And while this
 difference may be in part attributable to the artificial confinement of
@@ -441,16 +441,16 @@ point is behind us now.
 
 ### Footnotes
 
-<span id="fn_5"></span>[40:1](lca05.htm#fr_5) For other points of
-difference see Appendix. [40](lca15.htm#xref_40)
+<span id="fn_5"></span>[40:1](lca05.htm#fr_5.md) For other points of
+difference see Appendix. [40](lca15.htm#xref_40.md)
 
-<span id="fn_6"></span>[41:1](lca05.htm#fr_6) *Man and Woman*, by
+<span id="fn_6"></span>[41:1](lca05.htm#fr_6.md) *Man and Woman*, by
 Havelock Ellis. Contemporary Science Series, p. 371,
 
-<span id="fn_7"></span>[50:1](lca05.htm#fr_7) Physiologically speaking a
+<span id="fn_7"></span>[50:1](lca05.htm#fr_7.md) Physiologically speaking a
 certain excess of affectability and excitability in women over men seems
 to be distinctly traceable.
 
 ------------------------------------------------------------------------
 
-[Next: Woman, In Freedom](lca06)
+[Next: Woman, In Freedom](lca06.md)

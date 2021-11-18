@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre09)  [Next](gre11) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre09)  [Next](gre11.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ some winters after withal.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](gre11)
+[Next: Chapter VI](gre11.md)

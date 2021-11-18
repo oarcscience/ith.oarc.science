@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt48)  [Next](pyt50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt48)  [Next](pyt50.md) 
 
 ------------------------------------------------------------------------
 
@@ -349,4 +349,4 @@ him\]; the two nomes of the god have been given to him.
 ------------------------------------------------------------------------
 
 [Next: 47. The Ascended King, His Works, and Identifications, Utterance
-627](pyt50)
+627](pyt50.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Next](spe01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Next](spe01.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 
 [![Joseph Strutt, 1749-1802.&lt;br&gt; From the Portrait in the National
 Portrait Gallery.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Joseph Strutt, 1749-1802.  
 From the Portrait in the National Portrait Gallery.  
 
@@ -40,4 +40,4 @@ intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](spe01)
+[Next: Preface](spe01.md)

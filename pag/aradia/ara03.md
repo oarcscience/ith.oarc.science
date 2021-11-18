@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara02)  [Next](ara04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara02)  [Next](ara04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ And thou shalt teach the art of poisoning,
 Of poisoning those who are great lords of all;  
 Yea, thou shalt make them die in their palaces;  
 And thou shalt bind the oppressor's soul (with power); <span
-id="fr_2"></span>[1](#fn_2)  
+id="fr_2"></span>[1](#fn_2.md)  
 And when ye find a peasant who is rich,  
 Then ye shall teach the witch, your pupil, how  
 To ruin all his crops with tempests dire,  
@@ -219,10 +219,10 @@ Shall hold your supper thus:
 
 ### Footnotes
 
-<span id="fn_2"></span>[4:1](ara03.htm#fr_2) Legare, the binding and
+<span id="fn_2"></span>[4:1](ara03.htm#fr_2.md) Legare, the binding and
 paralysing human faculties by means of witchcraft.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. The Sabbat: Treguenda or Witch-Meeting--How to
-Consecrate the Supper](ara04)
+Consecrate the Supper](ara04.md)

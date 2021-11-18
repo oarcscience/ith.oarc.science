@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Procopius](../index)  [Index](index)  [Previous](shp14)  [Next](shp16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Procopius](../index)  [Index](index)  [Previous](shp14)  [Next](shp16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -183,4 +183,4 @@ opinion of most people.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Deceptive Affability and Piety of a Tyrant](shp16)
+[Next: XIII. Deceptive Affability and Piety of a Tyrant](shp16.md)

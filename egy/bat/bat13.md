@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](bat12)  [Next](bat14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](bat12)  [Next](bat14.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ by the serpent Mehen; he
  
 
 <span id="img_20800"></span> [![](tn/generic.jpg)  
-Click to view](img/20800.jpg)  
+Click to view](img/20800.jpg.md)  
 The Boat of Af, the dead Sun-god, in the Tenth Hour.
 
  
@@ -59,14 +59,14 @@ the right and the other to the left
  
 
 <span id="img_20900"></span> [![](tn/generic.jpg)  
-Click to view](img/20900.jpg)  
+Click to view](img/20900.jpg.md)  
 (*Left*) Shemerti.     (*Center*) The serpent Thes-hrau.     (*Right*)
 Hert-erment.
 
  
 
 Within the curve is a large hawk, which bears the, name of
-HERU-KHENTI. <span id="fr_3"></span>[1](#fn_3)
+HERU-KHENTI. <span id="fr_3"></span>[1](#fn_3.md)
 
 3\. A boat, wherein lies at full length the serpent ANKH-TA.
 
@@ -75,7 +75,7 @@ HERU-KHENTI. <span id="fr_3"></span>[1](#fn_3)
  
 
 <span id="img_21000"></span> [![](tn/generic.jpg)  
-Click to view](img/21000.jpg)  
+Click to view](img/21000.jpg.md)  
 The serpent Ankh-ta.
 
  
@@ -110,11 +110,11 @@ on his shoulder, and is pointed upwards; their names are:--
  
 
 <span id="img_21100"></span> [![](tn/generic.jpg)  
-Click to view](img/21100.jpg)  
+Click to view](img/21100.jpg.md)  
 Setu.     Ertau.     Khesefu.     Sekennu.
 
 <span id="img_21101"></span> [![](tn/generic.jpg)  
-Click to view](img/21101.jpg)  
+Click to view](img/21101.jpg.md)  
 Petthi.     Shemerthi.     Thesu.     Kha-a.
 
  
@@ -202,7 +202,7 @@ and in the space between them rests a disk; the serpents are called
  
 
 <span id="img_21600"></span> [![](tn/generic.jpg)  
-Click to view](img/21600.jpg)  
+Click to view](img/21600.jpg.md)  
 (*Left*) P-ankhi.     (*Right*) Kheper-ankh.
 
  
@@ -218,11 +218,11 @@ lacks a seat or throne.
  
 
 <span id="img_21700"></span> [![](tn/generic.jpg)  
-Click to view](img/21700.jpg)  
+Click to view](img/21700.jpg.md)  
 The Menenui serpents and the goddesses of the South and North.
 
 <span id="img_21701"></span> [![](tn/generic.jpg)  
-Click to view](img/21701.jpg)  
+Click to view](img/21701.jpg.md)  
 The axe of god and the solar disk.
 
  
@@ -260,7 +260,7 @@ and are called:--
  
 
 <span id="img_21900"></span> [![](tn/generic.jpg)  
-Click to view](img/21900.jpg)  
+Click to view](img/21900.jpg.md)  
 Sekhet.     Menkert.     Huntheth.     Usrit.
 
  
@@ -287,7 +287,7 @@ the text says:
  
 
 <span id="img_22000"></span> [![](tn/generic.jpg)  
-Click to view](img/22000.jpg)  
+Click to view](img/22000.jpg.md)  
 Abet-neteru-s.     Arit-Tatheth.     Ahat.     Themath-ermen (?).
 
  
@@ -307,7 +307,7 @@ words on behalf of Horus, O ye who cause to come
  
 
 <span id="img_22100"></span> [![](tn/generic.jpg)  
-Click to view](img/22100.jpg)  
+Click to view](img/22100.jpg.md)  
 (*Left*) Af-ermen-maat-f. (*Center*) Ermenui. (*Right*) Neb-aqet.
 
  
@@ -348,11 +348,11 @@ them
  
 
 <span id="img_22300"></span> [![](tn/generic.jpg)  
-Click to view](img/22300.jpg)  
+Click to view](img/22300.jpg.md)  
 (*Left*) Amen-khu. (*Center*) Her-sheta-taui. (*Right*) Sem-Heru.
 
 <span id="img_22301"></span> [![](tn/generic.jpg)  
-Click to view](img/22301.jpg)  
+Click to view](img/22301.jpg.md)  
 (*Left*) Amen Heru. (*Center*) Khent-ast-f. (*Right*) Khent-ment-f.
 
  
@@ -372,16 +372,16 @@ In the lower register are:--
  
 
 <span id="img_22400"></span> [![](tn/generic.jpg)  
-Click to view](img/22400.jpg)  
+Click to view](img/22400.jpg.md)  
 Horus.
 
  
 
-2\. Five <span id="fr_4"></span>[1](#fn_4) lakes of water, in each of
+2\. Five <span id="fr_4"></span>[1](#fn_4.md) lakes of water, in each of
 which is submerged a male form; these figures are called the
 "submerged."
 
-3\. Three <span id="fr_5"></span>[2](#fn_5) lakes of water, in each of
+3\. Three <span id="fr_5"></span>[2](#fn_5.md) lakes of water, in each of
 which is a male form swimming, turned over on his breast; these are
 called the "swimmers."
 
@@ -401,7 +401,7 @@ which accompanied the lakes of water:
  
 
 <span id="img_22600"></span> [![](tn/generic.jpg)  
-Click to view](img/22600.jpg)
+Click to view](img/22600.jpg.md)
 
  
 
@@ -410,7 +410,7 @@ Click to view](img/22600.jpg)
  
 
 <span id="img_22700"></span> [![](tn/generic.jpg)  
-Click to view](img/22700.jpg)
+Click to view](img/22700.jpg.md)
 
  
 
@@ -434,7 +434,7 @@ descend ye on these waves, fill ye HAP-UR, and arrive ye at its furrows,
  
 
 <span id="img_22900"></span> [![](tn/generic.jpg)  
-Click to view](img/22900.jpg)  
+Click to view](img/22900.jpg.md)  
 Hetemit.     Bekhkhit.     Tchetmit.     Senthes.
 
  
@@ -460,7 +460,7 @@ bearer, and its tail hangs down her back; their names are:--
  
 
 <span id="img_23000"></span> [![](tn/generic.jpg)  
-Click to view](img/23000.jpg)  
+Click to view](img/23000.jpg.md)  
 Set-nehes.
 
  
@@ -485,17 +485,17 @@ i.e., "Set who wakens."
 
 ### Footnotes
 
-<span id="fn_3"></span>[209:1](bat13.htm#fr_3) Or, KHENT-HERU, which
+<span id="fn_3"></span>[209:1](bat13.htm#fr_3.md) Or, KHENT-HERU, which
 became one of the Dekans among the Greeks, i.e., χοντάρ see Maspero,
 *op. cit.*, p. 127.
 
-<span id="fn_4"></span>[224:1](bat13.htm#fr_4) These should be four in
+<span id="fn_4"></span>[224:1](bat13.htm#fr_4.md) These should be four in
 number.
 
-<span id="fn_5"></span>[224:2](bat13.htm#fr_5) These should be four in
+<span id="fn_5"></span>[224:2](bat13.htm#fr_5.md) These should be four in
 number.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. The Eleventh Division of the Tuat, Which Is Called
-Re-En-Qerert-Apt-Khatu](bat14)
+Re-En-Qerert-Apt-Khatu](bat14.md)

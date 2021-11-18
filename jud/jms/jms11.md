@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms10)  [Next](jms12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms10)  [Next](jms12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ hiding-places. Another frequent injunction was that one
 <span id="page_115">p. 115</span>
 
 must be silent while performing the act; incantations were not to be
-uttered above a whisper.[1](jms30.htm#an_9_1)
+uttered above a whisper.[1](jms30.htm#an_9_1.md)
 
 #### INCANTATIONS
 
@@ -84,7 +84,7 @@ uttered their names. The body of the formula, the command, often reads
 very much like a legal document in its solicitude to include every least
 aspect of the function it wishes performed, to leave nothing to the
 imagination or the initiative of the spirit
-addressed.[2](jms30.htm#an_9_2)
+addressed.[2](jms30.htm#an_9_2.md)
 
 A curious feature of the spell was its manner of identifying the
 individual in whose behalf it was voiced. In the Talmud we read that
@@ -114,7 +114,7 @@ relationship was traced through the mother and not through the father.
 Of course medieval Jews had no thought of such an origin, but based it
 on the *Zohar's* theory, or on Menaḥem Recanati's explanation that "all
 magic comes from woman," or on the precedent voiced in Ps. 116:16, "I am
-thy servant, the son of thy handmaid."[3](jms30.htm#an_9_3)
+thy servant, the son of thy handmaid."[3](jms30.htm#an_9_3.md)
 
 A familiar characteristic of magic is the injunction to do things in
 reverse, to walk backward, to put one's clothing on backward, to throw
@@ -127,7 +127,7 @@ mental agility not to be taken in by the unnatural rendering. Phrases
 that are capable of being read alike in either direction were especially
 highly prized. The purpose was to capitalize the mystery of the bizarre
 and unfamiliar, and the power that is associated with the ability to
-reverse the natural order of things.[4](jms30.htm#an_9_4)
+reverse the natural order of things.[4](jms30.htm#an_9_4.md)
 
 One type of incantation whose power derived from its form rather than
 its content was especially suited to dispel demons. Its Jewish archetype
@@ -166,7 +166,7 @@ enhance the potency of an invocation, by building up a name. One such
 charm, from the Hebrew version of the famous *Clavicula Salomonis*,
 employing the word Tetragrammaton as a mystical name, reads: ton,
 ramaton, gramaton, ragramaton, tragramaton, and concludes triumphantly,
-tetragrammaton.[5](jms30.htm#an_9_5)
+tetragrammaton.[5](jms30.htm#an_9_5.md)
 
 #### NUMBERS
 
@@ -183,7 +183,7 @@ wood, so repetition of an incantation enhances its force, by making it
 so much more difficult for the spirits to escape its compulsion.
 Directions must be meticulously observed; "incantations which are not
 repeated the prescribed number of times must be said forty-one times,"
-we read in the Talmud.[6](jms30.htm#an_9_6) Yet repetition
+we read in the Talmud.[6](jms30.htm#an_9_6.md) Yet repetition
 
 <span id="page_118">p. 118</span>
 
@@ -207,7 +207,7 @@ that four cups would do because Passover night was a "night of
 protection" against the demons. According to him, however, "a sick or
 weak man" had best imbibe a fifth cup, for his condition rendered him
 peculiarly susceptible to demonic attack, and the "night of protection"
-might not prove an adequate shield.[7](jms30.htm#an_9_7)
+might not prove an adequate shield.[7](jms30.htm#an_9_7.md)
 
 The medieval writings contain many warnings against doing two things at
 one time, or repeating an action, such as "taking fire twice from the
@@ -233,7 +233,7 @@ father
 
 and son; in short, any dual unions within two families. Nor should a man
 be permitted to serve as godfather for two brothers, else one of them
-must die.[8](jms30.htm#an_9_8)
+must die.[8](jms30.htm#an_9_8.md)
 
 Three is the favored mystical number of all times—the first odd numeral
 after the unit. Religion, no less than superstition and magic, has done
@@ -249,7 +249,7 @@ triads of letters; any experience that was repeated thrice was regarded
 as a portent; incantations were most often to be recited three times.
 The number three came to be recognized as a mark of magic, so that
 "anything that is repeated three times is magical" was a frequently
-quoted rule.[9](jms30.htm#an_9_9)
+quoted rule.[9](jms30.htm#an_9_9.md)
 
 "All sevens are beloved," says the *Midrash*, and we may well accept its
 verdict when we recall the manifold sacred associations of that numeral
@@ -265,7 +265,7 @@ pitch from seven ships, seven handfuls of cumin, and seven hairs from
 the beard of an old dog, and tie them to the neck-hole of the shirt with
 a white twisted cord." Extravagant as medieval magic often was, it
 cannot duplicate such an outbreak of sevens in one
-recipe.[10](jms30.htm#an_9_10)
+recipe.[10](jms30.htm#an_9_10.md)
 
 The number nine also has a long mystical history, resting upon its
 peculiar virtue as the square of three, but it appeared hardly at all in
@@ -288,12 +288,12 @@ is the key to this novel Jewish enthusiasm for nine, for native Teutonic
 magic was characterized by the doctrine of the nines, and in medieval
 German magic nine occurs very frequently. Along with other German
 folk-beliefs the potent nine wormed its way into Jewish
-superstition.[11](jms30.htm#an_9_11)
+superstition.[11](jms30.htm#an_9_11.md)
 
 These three numerals, of course, are not the only ones we meet in Jewish
 magic. Multiples of them occurred occasionally, and sometimes even
 numbers were inadvertently permitted to slip through the censorship
-exercised by superstition.[12](jms30.htm#an_9_12) But these other
+exercised by superstition.[12](jms30.htm#an_9_12.md) But these other
 numbers do not appear often or consistently enough to warrant the
 supposition that they were accredited with any special occult powers.
 Three, seven and nine were the potent numbers *par excellence* of
@@ -327,7 +327,7 @@ a fasting than of a full man. Maimonides wrote, in his capacity of
 physician, that the spittle of a fasting person is hostile to poisons.
 In consequence of this belief charms to heal an ailment or to drive off
 demons or to counteract magic were usually prefaced by a threefold
-expectoration.[13](jms30.htm#an_9_13)
+expectoration.[13](jms30.htm#an_9_13.md)
 
 The circle is another ancient and universal magical symbol. The
 invocation of demons is a dangerous business, and the magician must take
@@ -358,7 +358,7 @@ or seven times, was probably originally intended to keep off the demons
 who were waiting to pounce upon them. The magician's circle was usually
 inscribed with a sword or knife, and sometimes the directions require
 three, or seven concentric circles, the metal and the number adding to
-the protective virtues of this device.[14](jms30.htm#an_9_14)
+the protective virtues of this device.[14](jms30.htm#an_9_14.md)
 
 Of similar magical import was the insistence upon the use of new things,
 which is universally encountered. When the prophet
@@ -388,7 +388,7 @@ interesting variation on this theme, however, is the frequency with
 which "old wine" occurs in these charms, perhaps because of its natural
 superiority over the new, which men expected the spirits to appreciate
 as much as they did, or perhaps because it, too, was a
-"first."[15](jms30.htm#an_9_15)
+"first."[15](jms30.htm#an_9_15.md)
 
 Despite the universal respect and fear which primitive peoples display
 toward magic, there is discernible in magic itself a paradoxical
@@ -453,7 +453,7 @@ of rose-oil, water and salt over which the charm had been
 
 whispered, were recommended. Such prescriptions are legion, the purpose
 of all being to provide a physical agent to transmit the magic of the
-name to its destination.[16](jms30.htm#an_9_16)
+name to its destination.[16](jms30.htm#an_9_16.md)
 
 #### SYMPATHETIC MAGIC
 
@@ -494,7 +494,7 @@ shoot with it, and
 <span id="page_125">p. 125</span>
 
 with each shot say . . . \[a series of names\] and may —— be
-destroyed."[17](jms30.htm#an_9_17)
+destroyed."[17](jms30.htm#an_9_17.md)
 
 Medieval Jewry was acquainted with this technique, as several references
 to "witches who prepare images of wax" indicate, but, apart from the two
@@ -546,7 +546,7 @@ the name of Gabriel, and the third time in the name of Raphael, and
 immerse it in some urine. Then dry it, and when you wish to arouse
 passion in her, pierce the heart of the image with a new needle, in that
 spot where it will cause most pain. So will she daily experience now
-this pain, now that."[18](jms30.htm#an_9_18) Apparently the poor girl is
+this pain, now that."[18](jms30.htm#an_9_18.md) Apparently the poor girl is
 to suffer doubly, from the pain of her love and her wound. Incidentally,
 this entire prescription is written backward.
 
@@ -571,7 +571,7 @@ in which the occasional seemingly successful employment of such images
 can be accounted for is that when the magician does anything to the
 image, demons inflict the same sufferings upon the person against whom
 the image is used, and thus deceive men into thinking that the virtue of
-the image accomplishes this result."[19](jms30.htm#an_9_19) The point is
+the image accomplishes this result."[19](jms30.htm#an_9_19.md) The point is
 important because it marks the distinction between the legally forbidden
 type of magic, which operated exclusively through "the performance of an
 action," namely, the sympathetic principle, and the more acceptable
@@ -615,7 +615,7 @@ remark. We hear much complaint in medieval Hebrew literature about the
 bewitching of man and wife so that they cannot cohabit, and the word
 *asar*, "to bind," occurs more than once with the meaning "to tie
 somebody by a knot-charm so that he cannot enjoy relations with his
-wife."[20](jms30.htm#an_9_20)
+wife."[20](jms30.htm#an_9_20.md)
 
 There were many other magical acts which utilized the sympathetic
 principle, though its presence is sometimes obscured by the incidental
@@ -651,13 +651,13 @@ place them under your head at night. Here the intention, though
 admittedly far-fetched, is no doubt to create the illusion of a
 household by assembling household articles, and thus to induce the
 apparition of the woman who will preside over one's
-home.[21](jms30.htm#an_9_21)
+home.[21](jms30.htm#an_9_21.md)
 
 The use of parts of the human body and of animals in sympathetic magic
 was very common in medieval Europe, but exceedingly rare in Jewish
 practice. Although Jews were aware that the body suffers from misuse of
 any cast-off part of it, such as burning hair or finger-nails, or
-covering excrement with hot ashes,[22](jms30.htm#an_9_22) this knowledge
+covering excrement with hot ashes,[22](jms30.htm#an_9_22.md) this knowledge
 entered hardly at all into their magic. Christian sorcery prescribed the
 most various and obscene ingredients, such as human and animal blood,
 fat, hearts, sex organs, brains, excrement, etc., for internal and
@@ -715,7 +715,7 @@ a man will hang the tongue of the hoopoe at the right of his heart, he
 will vanquish every opponent, even the king himself; and if a woman will
 hang its left eye on her neck, her husband will love her, no matter how
 ugly she may be, and will never love another. Many Greek sages have
-tested this, and we also, and it is true."[23](jms30.htm#an_9_23)
+tested this, and we also, and it is true."[23](jms30.htm#an_9_23.md)
 
 These few charms are altogether insignificant compared with the infinite
 variety current in Christian circles. One may marvel that such fantastic
@@ -746,7 +746,7 @@ like its mother, and let no man loose him but I." The symbolism of the
 poor dog's struggles, and its mother's sleepless search for it, sealed,
 and stamped with the figure of the mighty lion, coupled with the magical
 binding, is calculated to rob the victim of his
-rest.[24](jms30.htm#an_9_24)
+rest.[24](jms30.htm#an_9_24.md)
 
 —————
 
@@ -776,8 +776,8 @@ words, "I conjure you, spirit of the grave . . . to accept this offering
 from my hand and do my bidding." Such a frank confession of the purpose
 of a food offering was unusual indeed. These examples will suffice to
 illustrate a feature of magic that occurs
-frequently.[25](jms30.htm#an_9_25)
+frequently.[25](jms30.htm#an_9_25.md)
 
 ------------------------------------------------------------------------
 
-[Next: 10. Amulets](jms12)
+[Next: 10. Amulets](jms12.md)

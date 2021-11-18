@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ftmg08)  [Next](ftmg10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ftmg08)  [Next](ftmg10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fairy Tales of Modern Greece*, by Theodore P. Gianakoulis and Georgia
 H. MacPherson, \[1930\], at Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ communicate with the fairy world. He knew
 <span id="img_06700"></span> <span align="CENTER"> [![Vassos was seen on
 the hill of Trikkala running or rather gliding above the
 earth.](tn/06700.jpg)  
-Click to enlarge](img/06700.jpg)  
+Click to enlarge](img/06700.jpg.md)  
 Vassos was seen on the hill of Trikkala running or rather gliding above
 the earth.  
 </span>
@@ -88,7 +88,7 @@ distinguished, and their clothes like milky foam transcended all
 description.
 
 Colored lights played through the palace, at one moment
-[tingeing](errata.htm#0) all things with gold, the next with rose, then
+[tingeing](errata.htm#0.md) all things with gold, the next with rose, then
 violet, crimson, green and lavender. The music of harps and violins and
 the steps of the dance changed with the shifting colors, but laughter
 and joy went on ceaselessly. In each room a thousand candles burned in
@@ -130,4 +130,4 @@ only mortal guest at the fairy wedding."
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Fairy Ring](ftmg10)
+[Next: VII. The Fairy Ring](ftmg10.md)

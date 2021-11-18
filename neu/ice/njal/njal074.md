@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal073)  [Next](njal075) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal073)  [Next](njal075.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ Allthing on one side.
 
 ------------------------------------------------------------------------
 
-[Next: 75. The Riding To Lithend](njal075)
+[Next: 75. The Riding To Lithend](njal075.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htg00)  [Next](htg02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htg00)  [Next](htg02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ greater manifestation, women are called Śakti. From this, however, it
 must not be supposed that Śakti is less present in such forms as Śiva
 and Kṛṣṇa and others. If, as the author of the Tantra Tattva says, a
 sādhaka who is a worshipper of the Kṛṣṇamūrti desires to see Him
-[as](errata.htm#0) Kālī, Bhagavān, who fulfils the desires of devotees,
+[as](errata.htm#0.md) Kālī, Bhagavān, who fulfils the desires of devotees,
 will assume that form. All forms come into existence upon the
 manifestation of consciousness in the play of Her whose substance is
 consciousness.
@@ -180,4 +180,4 @@ JOHN WOODROFFE
 
 ------------------------------------------------------------------------
 
-[Next: Contents](htg02)
+[Next: Contents](htg02.md)

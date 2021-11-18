@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb11)  [Next](olfb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb11)  [Next](olfb13.md) 
 
 </div>
 
@@ -363,6 +363,6 @@ where Imani was married to the king and lived happily ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The Strange Adventures of Little Maia](olfb13)
+[Next: The Strange Adventures of Little Maia](olfb13.md)
 
 </div>

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat13.htm#XCVIII) 
-[Previous](satl097)  [Next](satl099) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat13.htm#XCVIII.md) 
+[Previous](satl097)  [Next](satl099.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ scelerum materia, ego causa sum. Si perirem, conveniret inimicis." &lt;.
 
 ------------------------------------------------------------------------
 
-[Next: XCIX](satl099)
+[Next: XCIX](satl099.md)

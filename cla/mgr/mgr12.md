@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mgr11)  [Next](mgr13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mgr11)  [Next](mgr13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -435,4 +435,4 @@ probable that they are of Mediterranean stock much nearer akin to the
 
 ------------------------------------------------------------------------
 
-[Next: The Mother of the Gods](mgr13)
+[Next: The Mother of the Gods](mgr13.md)

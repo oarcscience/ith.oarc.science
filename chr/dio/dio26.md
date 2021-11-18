@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio25)  [Next](dio27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio25)  [Next](dio27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 Therapeutes.*
 
 <span id="ii.iv.ii.ii-p2"></span>How is He, Who is beyond all <span
-id="fr_62"></span>[63](#fn_62) , both above source of Divinity and above
+id="fr_62"></span>[63](#fn_62.md) , both above source of Divinity and above
 source of Good? Provided you <span id="page_142">p. 142</span> <span
 id="ii.iv.ii.ii-Page_142"></span> understand Deity and Goodness, as the
 very Actuality of the Good-making and God-making gift, and the
@@ -37,9 +37,9 @@ imitated and those participating.
 
 ### Footnotes
 
-<span id="fn_62"></span>[p140:63](dio26.htm#fr_62) <span
+<span id="fn_62"></span>[p140:63](dio26.htm#fr_62.md) <span
 id="ii.iv.ii.ii-p2.1"></span>C. II. § 6.
 
 ------------------------------------------------------------------------
 
-[Next: Letter III. To the same Gaius.](dio27)
+[Next: Letter III. To the same Gaius.](dio27.md)

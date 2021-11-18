@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng50)  [Next](vlsng52) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng50)  [Next](vlsng52.md) 
 
 ------------------------------------------------------------------------
 
@@ -380,4 +380,4 @@ this refer much more directly to the slaying of her sons by Gudrun.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix VII: The Song Of Atli](vlsng52)
+[Next: Appendix VII: The Song Of Atli](vlsng52.md)

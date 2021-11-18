@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0385023510/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0385023510/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0385023510/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pl01)
+[Contents](#contents)    [Start Reading](pl01.md)
 
 |                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------|
@@ -37,23 +37,23 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0385023510/internetsacredte)
 
 ### Paradise Lost
 
-[Book 1](pl01)  
-[Book 2](pl02)  
-[Book 3](pl03)  
-[Book 4](pl04)  
-[Book 5](pl05)  
-[Book 6](pl06)  
-[Book 7](pl07)  
-[Book 8](pl08)  
-[Book 9](pl09)  
-[Book 10](pl10)  
-[Book 11](pl11)  
-[Book 12](pl12)  
+[Book 1](pl01.md)  
+[Book 2](pl02.md)  
+[Book 3](pl03.md)  
+[Book 4](pl04.md)  
+[Book 5](pl05.md)  
+[Book 6](pl06.md)  
+[Book 7](pl07.md)  
+[Book 8](pl08.md)  
+[Book 9](pl09.md)  
+[Book 10](pl10.md)  
+[Book 11](pl11.md)  
+[Book 12](pl12.md)  
 <span id="section_001"></span>
 
 ### Paradise Regained
 
-[Book 1](pr01)  
-[Book 2](pr02)  
-[Book 3](pr03)  
-[Book 4](pr04)  
+[Book 1](pr01.md)  
+[Book 2](pr02.md)  
+[Book 3](pr03.md)  
+[Book 4](pr04.md)  

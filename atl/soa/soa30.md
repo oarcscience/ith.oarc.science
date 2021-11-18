@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa29)  [Next](soa31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa29)  [Next](soa31.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ jaguars.
 
 ------------------------------------------------------------------------
 
-[Next: City of the Golden Gates](soa31)
+[Next: City of the Golden Gates](soa31.md)

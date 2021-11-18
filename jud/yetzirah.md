@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../index)  [Judaism](index) 
-[Kabbalah](index.htm#kabbalah)
+[Intangible Textual Heritage](../index)  [Judaism](index.md) 
+[Kabbalah](index.htm#kabbalah.md)
 
 ------------------------------------------------------------------------
 

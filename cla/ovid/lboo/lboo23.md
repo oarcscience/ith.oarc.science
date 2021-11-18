@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo22)  [Next](lboo24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo22)  [Next](lboo24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ ad mea formosos vultus adhibete, puellae,<br />
 ------------------------------------------------------------------------
 
 [Next: Elegy II: To The Eunuch Bagoas, Begging Him To Give Him Access To
-The Fair One Committed To His Charge.](lboo24)
+The Fair One Committed To His Charge.](lboo24.md)

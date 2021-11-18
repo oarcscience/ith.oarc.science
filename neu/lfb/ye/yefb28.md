@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb27)  [Next](yefb29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb27)  [Next](yefb29.md) 
 
 </div>
 
@@ -219,6 +219,6 @@ King's command, and she came to no good end.
 
 ------------------------------------------------------------------------
 
-[Next: The Witch and her Servants](yefb29)
+[Next: The Witch and her Servants](yefb29.md)
 
 </div>

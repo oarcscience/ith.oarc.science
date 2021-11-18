@@ -12,25 +12,25 @@ title: "Intangible Textual Heritage: Traditions"
 
 ![](trad.jpg)
 
-[DNA](dna/index)  
+[DNA](dna/index.md)  
 [  
-](nel/index)[  
-](sha/index)[  
-](aus/index)[  
-](pac/index)[  
-](afr/index)[  
-](asia/index)[  
-](ane/index)[  
-](nam/index)[  
-](egy/index)[  
-   ](neu/index)[Arthurian](neu/eng/index.htm#arthurian)  
+](nel/index.md)[  
+](sha/index.md)[  
+](aus/index.md)[  
+](pac/index.md)[  
+](afr/index.md)[  
+](asia/index.md)[  
+](ane/index.md)[  
+](nam/index.md)[  
+](egy/index.md)[  
+   ](neu/index)[Arthurian](neu/eng/index.htm#arthurian.md)  
    [  
-   ](neu/celt/index)[Kalevala](neu/index.htm#finland)  
+   ](neu/celt/index)[Kalevala](neu/index.htm#finland.md)  
    [  
-](neu/ice/index)[  
-](wmn/index)[  
-](cla/index)[  
-](pag/index)[  
-](bos/index)
+](neu/ice/index.md)[  
+](wmn/index.md)[  
+](cla/index.md)[  
+](pag/index.md)[  
+](bos/index.md)
 
   

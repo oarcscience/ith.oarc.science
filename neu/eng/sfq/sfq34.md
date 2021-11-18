@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq33)  [Next](sfq35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq33)  [Next](sfq35.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ reviled the Palmer, and began
 <span id="img_14000"></span>
 
 [![](tn/14000.jpg)  
-Click to enlarge](img/14000.jpg)
+Click to enlarge](img/14000.jpg.md)
 
 heaping abuse on Sir Guyon, whom they thought dead, and declared that
 they would strip him of his armour,
@@ -156,4 +156,4 @@ courtesy.
 
 ------------------------------------------------------------------------
 
-[Next: The House of Temperance](sfq35)
+[Next: The House of Temperance](sfq35.md)

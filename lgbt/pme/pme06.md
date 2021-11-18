@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](pme05)  [Next](pme07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](pme05)  [Next](pme07.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 SEXUAL inversion can boast a voluminous modern literature, little known
 to general readers. A considerable part of this is pornographic, and
-need not arrest our attention. <span id="fr_6"></span>[1](#fn_6) A good
+need not arrest our attention. <span id="fr_6"></span>[1](#fn_6.md) A good
 deal is descriptive, scientific,
 
 <span id="page_17">p. 17</span>
@@ -22,7 +22,7 @@ books in each of these kinds I propose to deal now.
 
 The first which falls under my hand is written by a French official, who
 was formerly Chief of the Police Department for Morals in Paris. <span
-id="fr_7"></span>[1](#fn_7) M. Carlier, during ten years, had excellent
+id="fr_7"></span>[1](#fn_7.md) M. Carlier, during ten years, had excellent
 opportunities for studying the habits of professional male prostitutes
 and their frequenters. He had condensed the results of his experience in
 seven very disagreeable chapters, which offer a revolting picture of
@@ -95,11 +95,11 @@ could not be convicted of illegal acts.
 
 While devoting most of his attention to professionals who dress like
 women, and have become exactly similar to the efferninated youth
-described in *Monsieur Vénus*, <span id="fr_8"></span>[1](#fn_8) Carlier
+described in *Monsieur Vénus*, <span id="fr_8"></span>[1](#fn_8.md) Carlier
 gives some curious details about the French army. Soldiers are no less
 sought after in France than in England or in Germany, and special houses
 exist for military prostitution both in Paris and the garrison
-towns. <span id="fr_9"></span>[2](#fn_9) Upon this point it should be
+towns. <span id="fr_9"></span>[2](#fn_9.md) Upon this point it should be
 remarked that
 
 <span id="page_20">p. 20</span>
@@ -108,20 +108,20 @@ remarked that
 regarding the contagiousness of antiphysical passion. And certainly many
 facts known about the French army go to prove that these habits have
 been contracted in Algeria, and have spread to a formidable extent
-through whole regiments. <span id="fr_10"></span>[1](#fn_10)
+through whole regiments. <span id="fr_10"></span>[1](#fn_10.md)
 
 In conclusion, M. Carlier, though he so strongly deplores the impunity
 extended by French law to sexual inversion, admits that this has not
 augmented the evil. Speaking about England, where legal penalties are
 heavy enough, he says: "Though they call it the *nameless crime* there,
 it has in England at least as many votaries as in France, and they are
-quite as depraved." <span id="fr_11"></span>[2](#fn_11)
+quite as depraved." <span id="fr_11"></span>[2](#fn_11.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_6"></span>[16:1](pme06.htm#fr_6) Ancient literature abounds
+<span id="fn_6"></span>[16:1](pme06.htm#fr_6.md) Ancient literature abounds
 in prose and poetry which are both of them concerned with homosexual
 love. Only a portion of this can be called pornographic: among the
 Greeks, the Μοῦσα Παιδική, parts of Lucian, and occasional hints in
@@ -142,13 +142,13 @@ acquainted with more than the titles of some distinctly pornographic
 German books. The following appears to be of this sort: Mannesliebe,
 oder drei Jahre aus dem Leben eines jungen Mannes."
 
-<span id="fn_7"></span>[17:1](pme06.htm#fr_7) Les Deux Prostitutions,
+<span id="fn_7"></span>[17:1](pme06.htm#fr_7.md) Les Deux Prostitutions,
 par F. Carlier, Ancien Chef du Service actif des Mœurs à la Préfecture
 de Police. Paris, Dentu, 1889.
 
-<span id="fn_8"></span>[19:1](pme06.htm#fr_8) Paris, Brossier, 1889.
+<span id="fn_8"></span>[19:1](pme06.htm#fr_8.md) Paris, Brossier, 1889.
 
-<span id="fn_9"></span>[19:2](pme06.htm#fr_9) In the recently published
+<span id="fn_9"></span>[19:2](pme06.htm#fr_9.md) In the recently published
 military novel "Sous Offs." (by Lucien Descaves, Paris, Tresse et Stock,
 1890) some details are given regarding establishments of this nature.
 See pp. 322, 412, 417, for a description of the drinking-shop called
@@ -156,13 +156,13 @@ See pp. 322, 412, 417, for a description of the drinking-shop called
 its frequenters, including in particular the adjutant Laprévotte (cp.
 44).
 
-<span id="fn_10"></span>[20:1](pme06.htm#fr_10) On the morals of the
+<span id="fn_10"></span>[20:1](pme06.htm#fr_10.md) On the morals of the
 Foreign Legions, see Ulrichs, Ara Spei, p. 20; Memnon, p. 27. Also
 General Brossier's report, quoted by Burton, Arabian Nights, vol. X. p.
 251.
 
-<span id="fn_11"></span>[20:2](pme06.htm#fr_11) p. 459.
+<span id="fn_11"></span>[20:2](pme06.htm#fr_11.md) p. 459.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Literature--Medico-Forensic](pme07)
+[Next: Chapter IV. Literature--Medico-Forensic](pme07.md)

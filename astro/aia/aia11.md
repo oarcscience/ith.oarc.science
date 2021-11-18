@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia10)  [Next](aia12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia10)  [Next](aia12.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ loquacious.
 <span id="page_44">p. 44</span>
 
 or in an oriental quarter of the figure, or occidental, &c. <span
-id="fr_28"></span>[1](#fn_28) The planets are oriental when they rise,
+id="fr_28"></span>[1](#fn_28.md) The planets are oriental when they rise,
 or appear before him in the morning, and occidental when they set after
 him.
 
@@ -87,7 +87,7 @@ magnificent structures, being clean and decent; halls, and dining rooms.
 *Orb*.--Is 15 degrees.
 
 *Years*.--In age he rules youth, or when one is at the strongest; his
-greatest years are 1460, <span id="fr_29"></span>[2](#fn_29) greater
+greatest years are 1460, <span id="fr_29"></span>[2](#fn_29.md) greater
 120, lesser 69 and least 19.
 
 *Countries*.--Italy, Sicily, Bohemia, Phenicia, and Chaldea.
@@ -96,7 +96,7 @@ greatest years are 1460, <span id="fr_29"></span>[2](#fn_29) greater
 
 ### Footnotes
 
-<span id="fn_28"></span>[44:1](aia11.htm#fr_28) In nativities the ☉ and
+<span id="fn_28"></span>[44:1](aia11.htm#fr_28.md) In nativities the ☉ and
 ☽ are oriental between the 1st and 10th houses, and in the opposite
 quarter of the figure; they are occidental between the 10th and 7th
 houses, and in the opposite quarter: but in horary questions they are
@@ -104,7 +104,7 @@ oriental between the 4th and 10th, and occidental after leaving the
 10th, until they reach the 4th; oriental when rising, and occidental
 when setting.
 
-<span id="fn_29"></span>[44:2](aia11.htm#fr_29) It is a very remarkable
+<span id="fn_29"></span>[44:2](aia11.htm#fr_29.md) It is a very remarkable
 fact, that this period is the *sothic* or *canicular* year of the
 Egyptians; whence it is pretty evident that these astrological doctrines
 came originally from that people, and are, in fact, of the very highest
@@ -113,4 +113,4 @@ antiquity.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. Of the Planet Venus, and her Several Signification
-and Nature](aia12)
+and Nature](aia12.md)

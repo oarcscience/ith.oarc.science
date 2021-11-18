@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg10)  [Next](cdg12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg10)  [Next](cdg12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
 
 ### MAP OF THE HOROSCOPE.
 
-<span id="img_20600"></span> ![T](img/20600.jpg)HE charted observation
+<span id="img_20600"></span> ![T](img/20600.jpg.md)HE charted observation
 which an astrologer makes of the state of the heavens at the hour of a
 child's birth and from which he seeks to determine the events of the
 child's life. By Initiates, the planetary aspects at the moment of birth
@@ -44,4 +44,4 @@ influence and their fludtuations are visible to the seer.
 
 ------------------------------------------------------------------------
 
-[Next: B. Harmony of the World](cdg12)
+[Next: B. Harmony of the World](cdg12.md)

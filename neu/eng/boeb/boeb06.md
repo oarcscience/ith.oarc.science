@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb05)  [Next](boeb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb05)  [Next](boeb07.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_59">p. 59</span>
 
 <span id="img_05900"></span> [![](tn/05900.jpg)  
-Click to enlarge](img/05900.jpg)
+Click to enlarge](img/05900.jpg.md)
 
 <span id="img_05901"></span> ![](img/05901.jpg)
 
@@ -221,7 +221,7 @@ And drinke thou up this deadlye draught
  
 
 <span id="img_06600"></span> [![](tn/06600.jpg)  
-Click to enlarge](img/06600.jpg)
+Click to enlarge](img/06600.jpg.md)
 
  
 
@@ -281,4 +281,4 @@ At Godstowe, neare to Oxford towne,
 
 ------------------------------------------------------------------------
 
-[Next: Phillida and Corydon](boeb07)
+[Next: Phillida and Corydon](boeb07.md)

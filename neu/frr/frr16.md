@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr15) 
-[Next](frr17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr15.md) 
+[Next](frr17.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ voices, and the general impression is that this is an adventure in which
 supernatural, and evil, forces are engaged.
 
 Such an adventure befalls Gawain on his way to the Grail Castle <span
-id="fr_260"></span>[1](#fn_260). He is overtaken by a terrible storm,
+id="fr_260"></span>[1](#fn_260.md). He is overtaken by a terrible storm,
 and coming to a Chapel, standing at a crossways in the middle of a
 forest, enters for shelter. The altar is bare, with no cloth, or
 covering, nothing is thereon but a great golden candlestick with a tall
@@ -34,7 +34,7 @@ to find the storm abated, and the great wind fallen. Thereafter the
 night was calm and clear.
 
 In the *Perceval* section of Wauchier and Manessier we find the same
-adventure in a dislocated form <span id="fr_261"></span>[2](#fn_261).
+adventure in a dislocated form <span id="fr_261"></span>[2](#fn_261.md).
 
 <span id="page_166">p. 166</span>
 
@@ -95,7 +95,7 @@ Manessier sequel, the Hand appearing, and extinguishing the light.
 Sometimes the Hand holds a bridle, a feature probably due to
 contamination with a Celtic Folk-tale, in which a mysterious Hand (here
 that of a giant) steals on their birth-night a Child, and a foal <span
-id="fr_262"></span>[1](#fn_262). These *Perceval* versions are
+id="fr_262"></span>[1](#fn_262.md). These *Perceval* versions are
 manifestly confused and dislocated, and are probably drawn from more
 than one source.
 
@@ -109,7 +109,7 @@ and upon that hung a bridle, not rich, and held within the
 
 fist a great candle that burnt right clear, and so passed afore them,
 and entered into the Chapel, and then vanished away, and they wist not
-where <span id="fr_263"></span>[1](#fn_263)." This seems to be an
+where <span id="fr_263"></span>[1](#fn_263.md)." This seems to be an
 unintelligent borrowing from the *Perceval* version.
 
 We have, also, a group of visits to the Perilous Chapel, or Perilous
@@ -117,7 +117,7 @@ Cemetery, which appear to be closely connected with each other. In each
 case the object of the visit is to obtain a portion of the cloth which
 covers the altar, or a dead body lying upon the altar. The romances in
 question are the *Perlesvaus*, the prose *Lancelot*, and the *Chevalier
-à deux Espées* <span id="fr_264"></span>[2](#fn_264). The respective
+à deux Espées* <span id="fr_264"></span>[2](#fn_264.md). The respective
 protagonists being Perceval's sister, Sir Lancelot, and the young Queen
 of Garadigan, whose city has been taken by King Ris and who dares the
 venture to win her freedom.
@@ -151,12 +151,12 @@ Les merveilles del chimetire
 car si sont diverses et grans  
 qu'il n'est hom terriens vivans  
 qui poist pas quidier ne croire  
-que ce fust onques chose voire <span id="fr_265"></span>[1](#fn_265)."
+que ce fust onques chose voire <span id="fr_265"></span>[1](#fn_265.md)."
 
 But there is no hint of a Perilous Chapel here.
 
 The adventures of Gawain in the *Atre Perilleus* <span
-id="fr_266"></span>[2](#fn_266), and of Gawain and Hector in the
+id="fr_266"></span>[2](#fn_266.md), and of Gawain and Hector in the
 *Lancelot* of the final cyclic prose version, are of the most *banal*
 description; the theme, originally vivid and picturesque, has become
 watered down into a meaningless adventure of the most conventional type.
@@ -165,12 +165,12 @@ But originally a high importance seems to have been attached to it. If
 we turn back to the first version given, that of which Gawain is the
 hero, we shall find that special stress is laid on this adventure, as
 being part of 'the Secret of the Grail,' of which no man may speak
-without grave danger <span id="fr_267"></span>[3](#fn_267). We are told
+without grave danger <span id="fr_267"></span>[3](#fn_267.md). We are told
 that, but for Gawain's loyalty and courtesy, he would not have survived
 the perils of that night. In the same way Perceval, before reaching the
 Fisher King's castle, meets a maiden, of whom he asks the meaning of the
 lighted tree, Chapel, etc. She tells him it is all part of the *saint
-secret* of the Grail <span id="fr_268"></span>[4](#fn_268). Now what
+secret* of the Grail <span id="fr_268"></span>[4](#fn_268.md). Now what
 does this mean? Unless I am much mistaken the key is to be found in a
 very curious story related in the *Perlesvaus*, which is twice referred
 to in texts of a professedly historical
@@ -211,7 +211,7 @@ marvellous
 <span id="page_171">p. 171</span>
 
 adventure should everywhere be known, and that prayer should be made for
-the soul of the squire <span id="fr_269"></span>[1](#fn_269)."
+the soul of the squire <span id="fr_269"></span>[1](#fn_269.md)."
 
 The pious wish of the King seems to have been fulfilled, as the story
 was certainly well known, and appears to have been accepted as a genuine
@@ -226,9 +226,9 @@ obviously refers to the *Perlesvaus* romance, though whether in its
 present, or in an earlier form, it is impossible to say. In any case the
 author of the *Histoire* evidently thought that the Chapel in question
 really existed, and was to be located in Shropshire <span
-id="fr_270"></span>[2](#fn_270). But John of Glastonbury also refers to
+id="fr_270"></span>[2](#fn_270.md). But John of Glastonbury also refers to
 the story, and he connects it with Glastonbury <span
-id="fr_271"></span>[3](#fn_271).
+id="fr_271"></span>[3](#fn_271.md).
 
 Now how can we account for so wild, and at first sight so improbable, a
 tale assuming what we may term a semi-historical character, and becoming
@@ -253,14 +253,14 @@ We have already seen in the Naassene document that the Mystery ritual
 comprised a double initiation, the Lower, into the mysteries of
 generation, *i.e.*, of physical Life; the higher, into the Spiritual
 Divine Life, where man is made one with God <span
-id="fr_272"></span>[1](#fn_272).
+id="fr_272"></span>[1](#fn_272.md).
 
 Some years ago I offered the suggestion that the test for the primary
 initiation, that into the sources of physical life, would probably
 consist in a contact with the horrors of physical death, and that the
 tradition of the Perilous Chapel, which survives in the Grail romances
 in confused and contaminated form, was a reminiscence of the test for
-this lower initiation <span id="fr_273"></span>[2](#fn_273). This would
+this lower initiation <span id="fr_273"></span>[2](#fn_273.md). This would
 fully account for the importance ascribed to it in the *Bleheris-Gawain*
 form, and for the asserted connection with the Grail. It was not till I
 came to study the version of the *Perlesvaus*, with a view to
@@ -317,7 +317,7 @@ where we have an account of the hero, after purification by fasting and
 prayer, descending into the Nether World, passing through the abodes of
 the Lost, finally reaching Paradise, and returning to earth after Three
 Days, a reformed and regenerated character <span
-id="fr_274"></span>[1](#fn_274).
+id="fr_274"></span>[1](#fn_274.md).
 
 "*Then with his monks the Prior anon,  
 With Crosses and with Gonfanon  
@@ -333,7 +333,7 @@ And Purgatory's pains had seen,
 And was a holy man*."
 
 Now if we turn to Bousset's article *Himmelfahrt der Seele*, to which I
-have previously referred ([p. 157](frr15.htm#page_157)), we shall find
+have previously referred ([p. 157](frr15.htm#page_157).md), we shall find
 abundant evidence that such a journey to the Worlds beyond was held to
 be a high spiritual adventure of actual possibility--a venture to be
 undertaken by those who, greatly daring, felt that the attainment of
@@ -348,7 +348,7 @@ into the Third Heaven' and points out
 that such an experience was the property of the Rabbinical school to
 which Saul of Tarsus had belonged, and was brought over by him from his
 Jewish past; such experiences were rare in Orthodox Christianity <span
-id="fr_275"></span>[1](#fn_275). According to Jewish classical tradition
+id="fr_275"></span>[1](#fn_275.md). According to Jewish classical tradition
 but one Rabbi had successfully passed the test, other aspirants either
 failing at a preliminary stage, or, if they persevered, losing their
 senses permanently. The practice of this ecstatic ascent ceased among
@@ -358,7 +358,7 @@ Bousset also gives instances of the soul leaving the body for three
 days, and wandering through other worlds, both good and evil, and also
 discusses the origin of the bridge which must be crossed to reach
 Paradise, both features characteristic of the *Owain* poem <span
-id="fr_276"></span>[2](#fn_276). In fact the whole study is of immense
+id="fr_276"></span>[2](#fn_276.md). In fact the whole study is of immense
 importance for a critical analysis of the sources of the romance in
 question.
 
@@ -444,49 +444,49 @@ the genius of Tennyson and Wagner.
 
 ### Footnotes
 
-<span id="fn_260"></span>[165:1](frr16.htm#fr_260) MS B.N. 12576, ff.
+<span id="fn_260"></span>[165:1](frr16.htm#fr_260.md) MS B.N. 12576, ff.
 87*vo* et seq. A translation will be found in my *Sir Gawain at the
 Grail Castle*, pp. 13-15.
 
-<span id="fn_261"></span>[165:2](frr16.htm#fr_261) MS B.N. 12576, ff.
+<span id="fn_261"></span>[165:2](frr16.htm#fr_261.md) MS B.N. 12576, ff.
 150*vo*, 222, 238*vo*.
 
-<span id="fn_262"></span>[167:1](frr16.htm#fr_262) Cf. here Prof.
+<span id="fn_262"></span>[167:1](frr16.htm#fr_262.md) Cf. here Prof.
 Kittredge's monograph *Arthur and Gorlagon*.
 
-<span id="fn_263"></span>[168:1](frr16.htm#fr_263) Cf. Malory, Book XVI.
+<span id="fn_263"></span>[168:1](frr16.htm#fr_263.md) Cf. Malory, Book XVI.
 Chap. 2.
 
-<span id="fn_264"></span>[168:2](frr16.htm#fr_264) Cf. Perlesvaus,
+<span id="fn_264"></span>[168:2](frr16.htm#fr_264.md) Cf. Perlesvaus,
 Branch XV. sections XII.-XX.; Malory, Book VI. Chap. 15; *Chevalier à
 deux Espées*, ll. 531 et seq.
 
-<span id="fn_265"></span>[169:1](frr16.htm#fr_265) B.N. 12576, fo.
+<span id="fn_265"></span>[169:1](frr16.htm#fr_265.md) B.N. 12576, fo.
 74*vo*.
 
-<span id="fn_266"></span>[169:2](frr16.htm#fr_266) Cf. B.N. MS 1433, ff.
+<span id="fn_266"></span>[169:2](frr16.htm#fr_266.md) Cf. B.N. MS 1433, ff.
 10, 11, and the analysis and remarks in my *Legend of Sir Lancelot*, p.
 219 and note.
 
-<span id="fn_267"></span>[169:3](frr16.htm#fr_267) Cf. passage in
-question quoted on [p. 137](frr13.htm#page_137).
+<span id="fn_267"></span>[169:3](frr16.htm#fr_267.md) Cf. passage in
+question quoted on [p. 137](frr13.htm#page_137.md).
 
-<span id="fn_268"></span>[169:4](frr16.htm#fr_268) B.N. 12576, fo.
+<span id="fn_268"></span>[169:4](frr16.htm#fr_268.md) B.N. 12576, fo.
 150*vo*.
 
-<span id="fn_269"></span>[171:1](frr16.htm#fr_269) *Perlesvaus*, Branch
+<span id="fn_269"></span>[171:1](frr16.htm#fr_269.md) *Perlesvaus*, Branch
 I. sections III., IV.
 
-<span id="fn_270"></span>[171:2](frr16.htm#fr_270) Cf. my notes on the
+<span id="fn_270"></span>[171:2](frr16.htm#fr_270.md) Cf. my notes on the
 subject, *Romania*, Vol. XLIII. pp. 420-426.
 
-<span id="fn_271"></span>[171:3](frr16.htm#fr_271) Cf. Nitze,
+<span id="fn_271"></span>[171:3](frr16.htm#fr_271.md) Cf. Nitze,
 *Glastonbury and the Holy Grail*, where the reference is given.
 
-<span id="fn_272"></span>[172:1](frr16.htm#fr_272) *Vide supra*, [p.
-147](frr14.htm#page_147).
+<span id="fn_272"></span>[172:1](frr16.htm#fr_272.md) *Vide supra*, [p.
+147](frr14.htm#page_147.md).
 
-<span id="fn_273"></span>[172:2](frr16.htm#fr_273) Cf. *Legend of Sir
+<span id="fn_273"></span>[172:2](frr16.htm#fr_273.md) Cf. *Legend of Sir
 Perceval*, Vol. II. p. 261. I suggested then that the actual initiation
 would probably consist in enlightenment into the meaning of Lance and
 Cup, in their sexual juxtaposition. I would now go a step further, and
@@ -495,19 +495,19 @@ may quite well have replaced the original explanation as given by
 Bleheris. In *The Quest*, Oct. 1916, I have given, under the title "The
 Ruined Temple," a hypothetical reconstruction of the Grail Initiation.
 
-<span id="fn_274"></span>[174:1](frr16.htm#fr_274) *Owain Miles*, edited
+<span id="fn_274"></span>[174:1](frr16.htm#fr_274.md) *Owain Miles*, edited
 from the unique MS. by Turnbull and Laing, Edinburgh, 1837. *The
 Purgatory of Saint Patrick* will be found in Horstmann's Southern
 Legendary. I have given a modern English rendering of part of *Owain
 Miles* in my *Chief Middle-English Poets*, published by Houghton Mifflin
 Co., Boston, U.S.A.
 
-<span id="fn_275"></span>[175:1](frr16.htm#fr_275) Cf. *op. cit.* pp.
+<span id="fn_275"></span>[175:1](frr16.htm#fr_275.md) Cf. *op. cit.* pp.
 148 *et seq*.
 
-<span id="fn_276"></span>[175:2](frr16.htm#fr_276) *Op. cit.* pp. 155
+<span id="fn_276"></span>[175:2](frr16.htm#fr_276.md) *Op. cit.* pp. 155
 and 254.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. The Author](frr17)
+[Next: Chapter XIV. The Author](frr17.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](bet07)  [Next](bet09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](bet07)  [Next](bet09.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -157,7 +157,7 @@ pieces. Is this also a necessary teaching? Yea, as we have learned in a
 Boraitha, a man shall not commence eating garlic or onions from the
 roots, but from the leaves; otherwise his taste is coarse. Likewise, a
 man should not empty his goblet at a draught, otherwise he resembles a
-drunkard. <span id="fr_20"></span>[1](#fn_20)
+drunkard. <span id="fr_20"></span>[1](#fn_20.md)
 
 A Boraitha states in the name of R. Meir: Why was the Law given to
 Israel? Because they are bold (difficult to be vanquished). The
@@ -167,7 +167,7 @@ He, said: The Israelites are so bold that a fiery law must be given to
 them. According to others, the law of this people is like fire, because
 if such a law had not been given to them, no nation and tongue could
 stand before them. And this is as R. Simeon b. Lakish said: The boldest
-nation of all nations is Israel. <span id="fr_21"></span>[2](#fn_21)
+nation of all nations is Israel. <span id="fr_21"></span>[2](#fn_21.md)
 
 "*The entire carcass may not be brought on poles*." The rabbis taught: A
 blind man should not walk with his stick on a festival, nor a shepherd
@@ -219,7 +219,7 @@ him say so plainly. Why do they differ here when it fell in a pit? This
 case was necessary, lest one say that, because here is pity for the
 living thing which falls in the pit, it shall be allowed to be taken out
 for the purpose of slaughtering it, if it has a blemish, as R. Joshua
-said further on (Chap. V., [p. 75](bet10.htm#page_75)). Therefore it
+said further on (Chap. V., [p. 75](bet10.htm#page_75).md). Therefore it
 comes to teach us that even in this case there is yet a difference of
 opinion.
 
@@ -251,7 +251,7 @@ was not prepared from the day before. They all agree, however, that if
 it was born on a festival with a blemish, it is considered as prepared.
 Rabba bar R. Huna lectured: If the animal was born with a blemish, the
 examination may be commenced on the festival. Said R. Na'hman to him:
-Abba, <span id="fr_22"></span>[1](#fn_22) we have learned if he has
+Abba, <span id="fr_22"></span>[1](#fn_22.md) we have learned if he has
 transgressed and had already examined, the examination can be useful,
 and thou sayest that they may *commence* the examination? Said Abayi: It
 seems to me that Rabba bar Huna is right, because the Boraitha teaches
@@ -280,7 +280,7 @@ the examination, as R. Na'hman said above?) Yea, it can be said so, but
 the following Boraitha is yet a contradiction to him (why, then, should
 you prefer the Boraitha which R. Oshiya brought to *the former*?)
 Because the former Boraitha came from the sources of Adda bar
-Ukhmi, <span id="fr_23"></span>[1](#fn_23) who was known to be erratic
+Ukhmi, <span id="fr_23"></span>[1](#fn_23.md) who was known to be erratic
 in the Boraithas which he taught. Said R. Na'hman bar Itz'hak: It seems
 from our Mishna also that it is in accordance with the Boraitha of R.
 Oshiya, because it states: R. Simeon said: If the blemish was not
@@ -490,7 +490,7 @@ vessel is a measure he may do so. And R. Jehudah comes to teach that
 even this must not be done. From this we see that, about the enjoyment
 of the festival, R. Jehudah is more rigorous, and the sages are more
 lenient; but did we not learn in the Mishna about the scales ([p.
-55](#page_55)), that R. Jehudah is more lenient and the sages are more
+55](#page_55).md), that R. Jehudah is more lenient and the sages are more
 rigorous? And this would be a contradiction to that teaching? It
 presents no difficulty. The above Mishna referred to a thing which was
 not a weight, but this speaks of a vessel that is a measure. This
@@ -507,7 +507,7 @@ college).
 
 The rabbis taught: Abba Saul collected three hundred pitchers of wine
 barely from the froth of the measures; <span
-id="fr_24"></span>[1](#fn_24) and his colleagues collected the same
+id="fr_24"></span>[1](#fn_24.md) and his colleagues collected the same
 amount from what remained in the measures after emptying them for the
 customers. Both brought this wine to the treasurers of charity at
 Jerusalem. The treasurers said to them: It is not necessary for you to
@@ -574,18 +574,18 @@ b. Elazar said: Provided one does not mention the prices.
 
 ### Footnotes
 
-<span id="fn_20"></span>[48:1](bet08.htm#fr_20) See Tract Pesachim, p.
+<span id="fn_20"></span>[48:1](bet08.htm#fr_20.md) See Tract Pesachim, p.
 171.
 
-<span id="fn_21"></span>[48:2](bet08.htm#fr_21) This is explained in our
+<span id="fn_21"></span>[48:2](bet08.htm#fr_21.md) This is explained in our
 periodical "Hakol," also in our "Lebaker Mishpat," and we will touch
 upon it in our present translation.
 
-<span id="fn_22"></span>[51:1](bet08.htm#fr_22) Rabba's name was *Abba*,
+<span id="fn_22"></span>[51:1](bet08.htm#fr_22.md) Rabba's name was *Abba*,
 and Rabba means Rab Abba. R. Na'hman as a colleague addresses him by
 name.
 
-<span id="fn_23"></span>[52:1](bet08.htm#fr_23) This name is mentioned
+<span id="fn_23"></span>[52:1](bet08.htm#fr_23.md) This name is mentioned
 only once in the whole Babylonian Talmud. In the Palestinian Talmud,
 however (Chap. I., Halakha 3) is mentioned R. Adda bar Uikhuma. The
 different pronunciation of the two Talmuds is usual, and so this Amora
@@ -605,7 +605,7 @@ paragraph of Adda bar Abhimi, and gives also all our citation mentioned
 above. We also do not know the sources from which Heilprin states that
 according to others it is Abba bar Abhimi.
 
-<span id="fn_24"></span>[57:1](bet08.htm#fr_24) Rashi explains thus: It
+<span id="fn_24"></span>[57:1](bet08.htm#fr_24.md) Rashi explains thus: It
 was known to him how many lugs there had been in his barrel, and also
 how many he sold out to his customers, and the remainder which was in
 the barrel he considered was left because of the froth of the measures,
@@ -616,4 +616,4 @@ them, and during many years they collected from this the same amount.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](bet09)
+[Next: Chapter IV](bet09.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat63)  [Next](jat65) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat63)  [Next](jat65.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ Canadian River and the next day got back to Cimarron.
 
 ------------------------------------------------------------------------
 
-[Next: 63. A Ute is Saved by his War-Medicine](jat65)
+[Next: 63. A Ute is Saved by his War-Medicine](jat65.md)

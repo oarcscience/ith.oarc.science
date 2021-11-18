@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](tah06)  [Next](tah08) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](tah06)  [Next](tah08.md) 
 
 ------------------------------------------------------------------------
 
@@ -198,4 +198,4 @@ God, and that which aids it."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Knowledge Of The Next World](tah08)
+[Next: Chapter IV: The Knowledge Of The Next World](tah08.md)

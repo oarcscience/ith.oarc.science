@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bok06)  [Next](bok08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bok06)  [Next](bok08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Kells*, by Edward Sullivan, \[1920\], at Intangible Textual
 Heritage
 
@@ -23,7 +23,7 @@ PORTION OF THE "ARGUMENT" TO THE GOSPEL OF ST. JOHN. FOL. 19 V.
 
 <span id="img_pl03"></span> <span align="CENTER"> [![Plate
 III](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 Plate III  
 </span>
 
@@ -31,6 +31,6 @@ Plate III
 
 ------------------------------------------------------------------------
 
-[Next: Plate IV. The Evangelical Symbols. Fol. 27 V.](bok08)
+[Next: Plate IV. The Evangelical Symbols. Fol. 27 V.](bok08.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj08)  [Next](chj10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj08)  [Next](chj10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -37,8 +37,8 @@ speak, through which the commerce between Asia and Europe was
 effectuated in the early days of the Roman Empire, were the native homes
 of that syncretic miscellany of religious ideas, known as Gnosticism.
 Alexandrian Gnosticism is connected with the name of Basilides, <span
-id="fr_75"></span>[1](#fn_75) that of Antioch (or, rather, Syria) with
-Valentinus. <span id="fr_76"></span>[2](#fn_76)
+id="fr_75"></span>[1](#fn_75) that of Antioch (or, rather, Syria.md) with
+Valentinus. <span id="fr_76"></span>[2](#fn_76.md)
 
 Gnosticism is derived from the Greek *gnosis*, which is identical in
 meaning with the word *Bodhi*, from which we get *Buddha*, "the
@@ -69,7 +69,7 @@ only things to come, but even things past as well as present;" it had
 great "skill in divination;" "it was (or claimed to be) the messenger
 and interpreter of all antiquities and hidden mysteries." But it was at
 liberty, nevertheless, "to turn itself into all manner of forms and
-wonders of nature." <span id="fr_77"></span>[1](#fn_77) The underlying
+wonders of nature." <span id="fr_77"></span>[1](#fn_77.md) The underlying
 matter was always the same; the form differed from a country to country
 and from age to age. The Mahāyāna exhibits a precisely similar Protean
 power of assuming the most varied shapes.
@@ -113,7 +113,7 @@ Alexandrian Christianity show it to have been for many years of a
 
 <span id="page_61">p. 61</span>
 
-very vague and mixed character. <span id="fr_78"></span>[1](#fn_78)
+very vague and mixed character. <span id="fr_78"></span>[1](#fn_78.md)
 Evidently the spiritual soil of Alexandria was different from that of
 Jerusalem, Ephesus, or Rome, and required a different treatment.
 
@@ -123,10 +123,10 @@ Christian, and his efforts to adapt the fact of Christ to the spiritual
 prejudices of the Egyptian or Egyptianized Alexandrians were probably
 quite praiseworthy. A missionary religion must adapt itself to the
 circumstances and thought of the people to whom it comes. <span
-id="fr_79"></span>[2](#fn_79)
+id="fr_79"></span>[2](#fn_79.md)
 
 The system of Basilides was, like the system of ancient Egypt, <span
-id="fr_80"></span>[3](#fn_80) and like that of the Japanese Shingon,
+id="fr_80"></span>[3](#fn_80.md) and like that of the Japanese Shingon,
 dualistic. It represented two Worlds (βύθος and ζώη), the World of Light
 and the World of Darkness. The former—like the glaring noon of an
 Egyptian summer's day—was still, immovable, fixed, the world of
@@ -146,8 +146,8 @@ Four Quarters. The Gnostics termed
 <span id="page_62">p. 62</span>
 
 them Logos, Phronesis, Sophia, Dynamis. <span
-id="fr_81"></span>[1](#fn_81) The Shingon personifies them as Ashuku,
-Hōshō, Amida, Fukūjōjū; <span id="fr_82"></span>[2](#fn_82) but it
+id="fr_81"></span>[1](#fn_81.md) The Shingon personifies them as Ashuku,
+Hōshō, Amida, Fukūjōjū; <span id="fr_82"></span>[2](#fn_82.md) but it
 treats Ashuku as representing that reason (λόγος) by which a man is
 capable of faith, Hōshō as the sense (φρόνησις) which enables a man to
 regulate his conduct, Amida as the Wisdom (σοφία) which enables a man to
@@ -169,7 +169,7 @@ world. It is evidently in opposition to this splitting up of the Godhead
 amongst many minor and unsubstantial beings that St. Paul insists that
 there is but one God, the Father, one Lord (and not four)—and that in
 that one Lord dwells the whole Pleroma of the Godhead in a bodily
-manner. <span id="fr_83"></span>[1](#fn_83) St. Paul scarcely seems to
+manner. <span id="fr_83"></span>[1](#fn_83.md) St. Paul scarcely seems to
 be conscious of the gods of Greece and Rome; he never speaks against the
 great goddess of Ephesine superstition. He is keenly alive to the
 dangers which may beset the Faith which he is commissioned to preach
@@ -179,7 +179,7 @@ In Japan, the Shingon creed fills up the *Mandara* or pleroma of the
 Diamond World with many Æons, whom it calls sometimes Buddhas, sometimes
 Bodhisattvas, and sometimes *Myō-O*, or "mysterious kings." As a term
 for the whole it employs two words, *Abarakakia* and
-*Kha-la-ka-ba-a*. <span id="fr_84"></span>[2](#fn_84) The one is used in
+*Kha-la-ka-ba-a*. <span id="fr_84"></span>[2](#fn_84.md) The one is used in
 the Shingon funeral rites, where it is invoked *first*, before any
 invocation of personified Buddhas. The second is written in Sanskrit
 characters on the wooden post which is erected over a Buddhist grave
@@ -197,18 +197,18 @@ moving Life, of Darkness, and of
 worth while noticing that the expression "womb-world" is not confined to
 the Japanese Shingon. It is also found in Epiphanius in his description
 of the Basilidean conception of the World of Darkness. <span
-id="fr_85"></span>[1](#fn_85)) In the centre of the Womb-world we have,
+id="fr_85"></span>[1](#fn_85).md) In the centre of the Womb-world we have,
 in the ancient Egyptian religion, Osiris; in the Gnostic system, the
 Pater Innatus; in Shingon, Vairoc’ana or Dainichi. All three systems
 identify this central Deity with the Sun. <span
-id="fr_86"></span>[2](#fn_86) From Him, in all three systems, emanates
+id="fr_86"></span>[2](#fn_86.md) From Him, in all three systems, emanates
 an "ogdoad," or eight-petalled flower, known in Sanskrit as *ashṭapattra
 vṛiti*, in Japanese as *hachi-yō-in*, and composed in Gnosticism of
 various Æons, in Shingon of Eight Ideal Buddhas and Bodhisattvas, whose
 names we need not enter into. Thus the Ogdoad *plus* the Pater Innatus
 becomes an Ennead, or group of Nine, and the Shingon *hachi-yō-in* plus
 Vairoc’ana becomes a similar ninefold constellation. <span
-id="fr_87"></span>[3](#fn_87) The three systems are strikingly alike.
+id="fr_87"></span>[3](#fn_87.md) The three systems are strikingly alike.
 
 <span id="page_65">p. 65</span>
 
@@ -219,7 +219,7 @@ same thirteen kingdoms are to be found in the Gnostic book, "Pistis
 Sophia," and the soul is represented as passing through them in a
 similar manner. Only he who plays the part of Osiris in the Gnostic
 version is Jesus. In the Shingon sect there are thirteen Buddhas <span
-id="fr_88"></span>[1](#fn_88) and Bodhisattvas, who take charge of the
+id="fr_88"></span>[1](#fn_88.md) and Bodhisattvas, who take charge of the
 soul at death, the two last, Vairoc’ana and Kokūzō, remaining its
 permanent guardians. The whole conception of the state of the dead in
 Shingonism is Egyptian. It is certainly not Buddhist.
@@ -234,14 +234,14 @@ astronomy speaks of twenty-eight *chiku*, or constellations, seven in
 each quarter of the heavens; the Egyptian astronomer knew the same, and
 spoke of them as the "gods of the twenty-eight finger-breadths of the
 Royal cubit." The Shingon astronomer uses the Egyptian signs of the
-Zodiac, <span id="fr_89"></span>[2](#fn_89) the same as ours,
+Zodiac, <span id="fr_89"></span>[2](#fn_89.md) the same as ours,
 
 <span id="page_66">p. 66</span>
 
 and not the Turkish cycle in ordinary use in Japan. The opening chapter
 of the "Saddharma pundarika Sūtra" (the *Hokekyō* of Japan) is so like
 the opening chapters of the "Pistis Sophia" <span
-id="fr_90"></span>[1](#fn_90) that it is impossible to resist the
+id="fr_90"></span>[1](#fn_90.md) that it is impossible to resist the
 conclusion that the author of the latter work must have had before him
 either the "Saddharma pundarika Sutra" itself or a Sūtra of a very
 similar type. The latter alternative is the more probable one. The
@@ -251,7 +251,7 @@ Mahāyāna Sūtra by some early Mahāyānist writer. There are grounds for
 such a conjecture. In the list of Scriptures taken to China in A.D. 147
 by Anshikao the Prince of Parthia, and translated by him into Chinese
 during the Han period, there is one, the "Marghabhūmi Sūtra" (Jap.
-Dōshikyō <span id="fr_91"></span>[2](#fn_91)), the last three chapters
+Dōshikyō <span id="fr_91"></span>[2](#fn_91).md), the last three chapters
 of which are said by Nanjo to be based on the "Saddharma pundarika."
 Nanjo's statement is denied by some Japanese students, still the fact
 remains that there are portions of this Sūtra which
@@ -262,7 +262,7 @@ strongly resemble the spirit and tone of the longer Scripture, which, in
 its longer and completer, form is evidently of later date.
 
 There is also the statement made concerning the Manichean books by Cyril
-of Jerusalem, <span id="fr_92"></span>[1](#fn_92) whom, as a bishop, we
+of Jerusalem, <span id="fr_92"></span>[1](#fn_92.md) whom, as a bishop, we
 must credit with trying to speak only what he believed to be truth, and
 who, as Bishop of Jerusalem, probably knew a good deal about the earlier
 history of his own diocese. Cyril tells us of a certain Scythianus who
@@ -271,7 +271,7 @@ but "had not the acts of Christ but the mere name only," to which the
 "Acta Archelai" adds that he founded his sect during the lifetime of the
 Apostles, and came to Jerusalem in the hope of getting them approved.
 Scythianus had a disciple named Terebinthus, <span
-id="fr_93"></span>[2](#fn_93) who apparently came to Jerusalem for the
+id="fr_93"></span>[2](#fn_93.md) who apparently came to Jerusalem for the
 same purpose, but was rejected by the authorities and retired to Persia,
 where he assumed the name of Buddas. These books were the basis upon
 which Manes founded his teachings. The resemblances between the
@@ -283,7 +283,7 @@ books which was the Ur-evangelium" of several heresies.
 How far was the Gnostico-Shingon system which I have described
 influenced by the speculations of the mystic school of Judaism which
 eventually blossomed out into the Cabbalah? <span
-id="fr_94"></span>[2](#fn_93) And how far was the Cabbalah influenced by
+id="fr_94"></span>[2](#fn_93.md) And how far was the Cabbalah influenced by
 the thoughts of the Mahāyānists? It would take us too long to
 investigate the problem here. A thorough investigation of this subject
 would necessitate a long
@@ -293,19 +293,19 @@ would necessitate a long
 excursion into the realms of theurgy and magic, and I must therefore
 content myself with a few brief remarks. Theurgy was practised by the
 Egyptians; it was a prominent feature of Gnosticism; <span
-id="fr_95"></span>[1](#fn_94) it is at the present moment the main and
+id="fr_95"></span>[1](#fn_94.md) it is at the present moment the main and
 distinctive element of the Shingon worship, which consists very largely
 of manual gestures and the repetition of certain meaningless Sanskrit
-formulæ <span id="fr_96"></span>[2](#fn_95) The mystic formulæ are Greek
+formulæ <span id="fr_96"></span>[2](#fn_95.md) The mystic formulæ are Greek
 or Coptic in the one case, Sanskrit in the other; but the manual
 gestures are much the same in both. It is probable that the Gnostic
 system was taken by Alexandrian merchants to Southern India, a district
 which had intimate trade relations with Alexandria during the whole of
-the first century, <span id="fr_97"></span>[3](#fn_96) though it fell
+the first century, <span id="fr_97"></span>[3](#fn_96.md) though it fell
 off in volume after the death of Nero in A.D. 68; and it was in Southern
 India, according to the Shingon story, that Nāgārjuna found the mystic
 books which lie at the base of their system. <span
-id="fr_98"></span>[4](#fn_97) This migration from Egypt to South India
+id="fr_98"></span>[4](#fn_97.md) This migration from Egypt to South India
 would account for the Sanskritizing of a system mainly Egyptian, and
 there is a certain amount of historical probability in the story as
 related by the Shingon authorities; for Nanjo tell us that Nāgārjuna
@@ -318,7 +318,7 @@ at an assembly called the Joshōe
 <span id="page_69">p. 69</span>
 
 <span class="contnote">\[paragraph continues\]</span>
-("self-nature-assembly"). <span id="fr_99"></span>[1](#fn_98) If we may
+("self-nature-assembly"). <span id="fr_99"></span>[1](#fn_98.md) If we may
 apply to a Buddhist assembly the ordinary rules of chronological
 computation (which is perhaps a little hazardous), that
 "self-nature-assembly" must have taken place about the end of the first
@@ -329,7 +329,7 @@ of trade with the Orient. Antioch was the centre of much Christian life.
 From it went forth St. Paul and all that missionary activity which
 laboured in Asia Minor, in Greece, and in Italy. From it, likewise, went
 forth, Eastward, the missions to Edessa, to Nisibis, to Armenia, <span
-id="fr_100"></span>[2](#fn_99) to Persia and beyond. From it came the
+id="fr_100"></span>[2](#fn_99.md) to Persia and beyond. From it came the
 churches which were cut off in consequence of the quarrels over
 Nestorius, and through the Nestorians Antioch became the grandmother of
 the earliest missions—at least as far as definite records are at hand—to
@@ -337,7 +337,7 @@ China.
 
 Antioch originated the word "Christian;" the first Christian from
 Antioch whose name is recorded in the Acts of the Apostles, was a
-certain Nicolas, <span id="fr_101"></span>[3](#fn_100) a proselyte of
+certain Nicolas, <span id="fr_101"></span>[3](#fn_100.md) a proselyte of
 that city, who was chosen to be one of the Seven Deacons. The term
 "proselyte" would seem to imply that Nicolas was a Gentile by birth,
 converted to Judaism, and again to Christianity. He must have been a
@@ -366,35 +366,35 @@ of an immoral sect of the Japanese Shingon which had to be suppressed on
 account of its filthy practices. So I conclude that the Shingon, like
 its parent Gnosticism, has, at some period in its history, presented the
 same sad contrast of the pure and the impure. <span
-id="fr_102"></span>[1](#fn_101)
+id="fr_102"></span>[1](#fn_101.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_75"></span>[58:1](chj09.htm#fr_75) Basilides, A.D.
+<span id="fn_75"></span>[58:1](chj09.htm#fr_75.md) Basilides, A.D.
 (*circa*) 110.
 
-<span id="fn_76"></span>[58:2](chj09.htm#fr_76) Valentinus, A.D. (circa)
+<span id="fn_76"></span>[58:2](chj09.htm#fr_76) Valentinus, A.D. (circa.md)
 130.
 
-<span id="fn_77"></span>[59:1](chj09.htm#fr_77) Bacon, "Wisdom of the
+<span id="fn_77"></span>[59:1](chj09.htm#fr_77.md) Bacon, "Wisdom of the
 Ancients," ch. xiii.
 
-<span id="fn_78"></span>[61:1](chj09.htm#fr_78) See *Church Quarterly
+<span id="fn_78"></span>[61:1](chj09.htm#fr_78.md) See *Church Quarterly
 Review*, October, 1909.
 
-<span id="fn_79"></span>[61:2](chj09.htm#fr_79) This thought is
+<span id="fn_79"></span>[61:2](chj09.htm#fr_79.md) This thought is
 constantly expressed in the Saddharma pundarika. It was one of
 Nichiren's favourite topics.
 
-<span id="fn_80"></span>[61:3](chj09.htm#fr_80) I have taken my matter
+<span id="fn_80"></span>[61:3](chj09.htm#fr_80.md) I have taken my matter
 mainly from Irenæus and Epiphanius.
 
-<span id="fn_81"></span>[62:1](chj09.htm#fr_81) See "Dissertations
+<span id="fn_81"></span>[62:1](chj09.htm#fr_81.md) See "Dissertations
 Præviæ in Irenæi Libros," in Migne's edition of Irenæus, p. xxxviii.
 
-<span id="fn_82"></span>[62:2](chj09.htm#fr_82) In Sanskrit Akshobya,
+<span id="fn_82"></span>[62:2](chj09.htm#fr_82.md) In Sanskrit Akshobya,
 Ratnasambhava, Amitābha, Amoghasiddhi. These, with the Central Roshana
 or Vairoc’ana, form the Five Dhyāni Buddhas, the Gochi Nyorai of Japan.
 It is to be noted that Fukūjōjū is identified with S’akyamuni. Millioué
@@ -417,21 +417,21 @@ Teachers, who guide men through the emotions and affections. Men do not
 always express themselves alike; in this case, however, the underlying
 thought is the same. God has many ways of saving lost mankind.
 
-<span id="fn_83"></span>[63:1](chj09.htm#fr_83) *E.g.* Col. i. 19.
+<span id="fn_83"></span>[63:1](chj09.htm#fr_83.md) *E.g.* Col. i. 19.
 
-<span id="fn_84"></span>[63:2](chj09.htm#fr_84) Japanese has no *l*
+<span id="fn_84"></span>[63:2](chj09.htm#fr_84.md) Japanese has no *l*
 sound. Hence I write here *mandara*, not *mandala*. This word has become
 naturalized. But *Kha-la-ka-ba-a* is always written in Sanskrit letters,
 hence I write it with an *l*.
 
-<span id="fn_85"></span>[64:1](chj09.htm#fr_85) I have consulted, for
+<span id="fn_85"></span>[64:1](chj09.htm#fr_85.md) I have consulted, for
 the purposes of this comparison, (i.) the chapter on Shingon in Dr.
 Nanjo's "Short History of the Twelve Japanese Buddhist Sects;" (ii.) Dr.
 Wallis Budge, the "Gods of Egypt;" and (iii.) the accounts of the
 Gnostic sects given by Hippolytus, Irenæus, and Epiphanius. The Greek
 word used is μήτρα. See Bousset on Gnosticism.
 
-<span id="fn_86"></span>[64:2](chj09.htm#fr_86) This gives us the point
+<span id="fn_86"></span>[64:2](chj09.htm#fr_86.md) This gives us the point
 of contact with the Japanese Shinto. It was the policy of the Shingon
 and other early sects to identify the Japanese Sun-goddess Amaterasu
 with Vairoc’ana. Amaterasu is the fabled divine ancestress of the
@@ -442,14 +442,14 @@ Buddhist monk by the Emperor Toba, who was an ardent Buddhist. Strangely
 enough, Dr. N. G. Munro, of Yokohama, has found the sixteen-petal
 chrysanthemum on an Egyptian tomb. It is also found in "Pistis Sophia."
 
-<span id="fn_87"></span>[64:3](chj09.htm#fr_87) Dr. Nanjo (p. 91) speaks
+<span id="fn_87"></span>[64:3](chj09.htm#fr_87) Dr. Nanjo (p. 91.md) speaks
 of the "Mandala of nine Assemblies of the Vajradhatu, which corresponds
 to the *nine* Beings of the *Hachi-yō-in*." It is also noteworthy that
 there are nine stages in our knowledge of Amida, who is accordingly
 sometimes represented by nine figures, each a little different from the
 rest. There are also nine forms of Osiris.
 
-<span id="fn_88"></span>[65:1](chj09.htm#fr_88) The thirteen Buddhas of
+<span id="fn_88"></span>[65:1](chj09.htm#fr_88.md) The thirteen Buddhas of
 the Shingon are Fudō (one week after death), S’akyamuni (2nd week),
 Manjus’ri (3rd week), Samantabhadra (4th week), Kshitigarbha (5th week),
 Maitreya (6th week), Bhaishajyaguru (7th week); Avalokites’vara (100
@@ -458,7 +458,7 @@ years), Vairoc’ana and Kokūzō, for ever. To these correspond a series of
 thirteen planets and heavenly deities. See "Catalogue of Musée Guimet,"
 p. 191 (1883).
 
-<span id="fn_89"></span>[65:2](chj09.htm#fr_89) The Shingon signs of
+<span id="fn_89"></span>[65:2](chj09.htm#fr_89.md) The Shingon signs of
 the, Zodiac are: (1) Hōbyōgū, *Aquarius*; (2) Suigyōgū, *Pisces;* (3)
 Byakuyōgū, *Aries;* (4) Go mitsugū, *Taurus;* (5) Nannyōgū, *Virgo*
 (though this is bisexual); (6) Būgegū, *Cancer;* (7) Sonyōgū, <span
@@ -471,7 +471,7 @@ Ram, Monkey, Cock, Dog, Boar. This is the Turkish cycle. In some of the
 trades, such as the building trade, which abounds in ancient customs, I
 have found an occasional use of the Buddhist cycle.
 
-<span id="fn_90"></span>[66:1](chj09.htm#fr_90) The resemblances between
+<span id="fn_90"></span>[66:1](chj09.htm#fr_90.md) The resemblances between
 these two books are extremely striking. I have called attention to the
 subject in a lecture delivered before the Asiatic Society of Japan. The
 resemblances lie principally in the structure and conception of the two
@@ -480,47 +480,47 @@ that emanates from the Teacher in either case. There is also a śtrong
 similarity between the two books in respect to the use of *gāthās* and
 songs.
 
-<span id="fn_91"></span>[66:2](chj09.htm#fr_91) In Nanjo's "Catalogue of
+<span id="fn_91"></span>[66:2](chj09.htm#fr_91.md) In Nanjo's "Catalogue of
 the Tripitaka," No. 1326. Another Han book, the earliest edition of the
 *Sukhāvati Vyūha*, differs largely from the versions made in the fourth
 and fifth centuries which are now current in Japan.
 
-<span id="fn_92"></span>[67:1](chj09.htm#fr_92) Cyril, "Cat. Lect.," vi.
+<span id="fn_92"></span>[67:1](chj09.htm#fr_92.md) Cyril, "Cat. Lect.," vi.
 22. Also "Acta Archelai," c. li.
 
-<span id="fn_93"></span>[67:2](chj09.htm#fr_94) See, below, the chapter
+<span id="fn_93"></span>[67:2](chj09.htm#fr_94.md) See, below, the chapter
 on Manichæism, p. 147.
 
-<span id="fn_94"></span>[68:1](chj09.htm#fr_95) See, *e.g.*, "Pistis
+<span id="fn_94"></span>[68:1](chj09.htm#fr_95.md) See, *e.g.*, "Pistis
 Sophia," cap. 64.
 
-<span id="fn_95"></span>[68:2](chj09.htm#fr_96) I have worked out many
+<span id="fn_95"></span>[68:2](chj09.htm#fr_96.md) I have worked out many
 of these in an article on the "Care of the Dead," written for Hasting's"
 Encyclopædia of Sects and Religion," and one of the publications of the
 Musée Guimet is entirely devoted to them.
 
-<span id="fn_96"></span>[68:3](chj09.htm#fr_97) See article by Sewell on
+<span id="fn_96"></span>[68:3](chj09.htm#fr_97.md) See article by Sewell on
 "Roman Coins found in India," in *J.R.A.S* for October, 1904.
 
-<span id="fn_97"></span>[68:4](chj09.htm#fr_98) Nanjo, "Twelve Buddhist
+<span id="fn_97"></span>[68:4](chj09.htm#fr_98.md) Nanjo, "Twelve Buddhist
 Sects," p. 79.
 
-<span id="fn_98"></span>[69:1](chj09.htm#fr_99) This points to a belief,
+<span id="fn_98"></span>[69:1](chj09.htm#fr_99.md) This points to a belief,
 of which I have found traces elsewhere in Japan, of a reappearance of
 S’akyamuni somewhere about the beginning of the Christian era.
 
-<span id="fn_99"></span>[69:2](chj09.htm#fr_100) In an article by J.
+<span id="fn_99"></span>[69:2](chj09.htm#fr_100.md) In an article by J.
 Kennedy in *J.R.A.S*, 1904, we learn that there was an Indian colony in
 Armenia from B.C. 130 to A.D. 300, when it was broken up by St. Gregory
 the Illuminator. They were snake-worshippers ("Nāgas") from Nāgpur, and
 may thus have had some connection with Ophitism.
 
-<span id="fn_100"></span>[69:3](chj09.htm#fr_101) Acts vi. 5; Rev. ii.
+<span id="fn_100"></span>[69:3](chj09.htm#fr_101.md) Acts vi. 5; Rev. ii.
 15
 
-<span id="fn_101"></span>[70:1](chj09.htm#fr_102) Ekai Kawaguchi, "Three
+<span id="fn_101"></span>[70:1](chj09.htm#fr_102.md) Ekai Kawaguchi, "Three
 Years in Tibet," pp. 409–411.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Legend of St. Thomas](chj10)
+[Next: Chapter VIII. The Legend of St. Thomas](chj10.md)

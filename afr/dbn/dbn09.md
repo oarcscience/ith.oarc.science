@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](dbn08)  [Next](dbn10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](dbn08)  [Next](dbn10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Negro*, by W.E.B. Du Bois, \[1915\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -62,7 +62,7 @@ their land. Still they were brave people. "In this struggle for
 existence their bitterest enemies, of whatever shade of color they might
 be, were forced to make an unqualified acknowledgement of the courage
 and daring they so invariably exhibited." <span
-id="fr_33"></span>[1](#fn_33)
+id="fr_33"></span>[1](#fn_33.md)
 
 Here, to a remote corner of the world, where, as one of their number
 said, they had supposed that the only beings in the world were Bushmen
@@ -235,7 +235,7 @@ of its dangerous features by appointing paid village
 
 <span id="img_05800"></span> <span align="CENTER"> [![Ancient Kingdoms
 of Africa](tn/05800.jpg)  
-Click to enlarge](img/05800.jpg)  
+Click to enlarge](img/05800.jpg.md)  
 Ancient Kingdoms of Africa  
 </span>
 
@@ -290,7 +290,7 @@ North of the Zambesi, in British territory, the chief role in recent
 
 <span id="img_06000"></span> <span align="CENTER"> [![Races in
 Africa](tn/06000.jpg)  
-Click to enlarge](img/06000.jpg)  
+Click to enlarge](img/06000.jpg.md)  
 Races in Africa  
 </span>
 
@@ -338,13 +338,13 @@ on its endless quest.
 
 ### Footnotes
 
-<span id="fn_33"></span>[54:1](dbn09.htm#fr_33) Stowe: *Native Races of
+<span id="fn_33"></span>[54:1](dbn09.htm#fr_33.md) Stowe: *Native Races of
 South Africa*, pp. 115-216.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: VIII. African Culture](dbn10)
+[Next: VIII. African Culture](dbn10.md)
 
 </div>

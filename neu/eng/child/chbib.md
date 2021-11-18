@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](chpref)  [Next](ch001) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](chpref)  [Next](ch001.md) 
 
 ------------------------------------------------------------------------
 
@@ -218,7 +218,7 @@ vols. Edinburgh, 1806.
 "Ancient (!) Historic Ballads." Newcastle, 1807.
 
 "Scottish Historical and Romantic Ballads, chiefly ancient." By John
-Finlay. 2 vols. [Edinburgh](errata.htm#0), 1808.
+Finlay. 2 vols. [Edinburgh](errata.htm#0.md), 1808.
 
 <span id="page_xix">p. xix</span>
 
@@ -766,4 +766,4 @@ Fallersleben." 2d ed. Hannover, 1856.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Riddles Wisely Expounded](ch001)
+[Next: 1. Riddles Wisely Expounded](ch001.md)

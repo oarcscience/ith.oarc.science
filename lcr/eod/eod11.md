@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod10)  [Next](eod12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod10)  [Next](eod12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -48,7 +48,7 @@ lives, the people live, thy flesh lives, thy members are vigorous" (*op.
 cit.* p. 72). In his comments upon this passage Mr. Blackman states: "In
 the light of the Pyramid libation-formulæ the expressions in this text
 are quite comprehensible. Like the libations. the grains of incense are
-the exudations of a divinity, <span id="fr_58"></span>[1](#fn_58) 'the
+the exudations of a divinity, <span id="fr_58"></span>[1](#fn_58.md) 'the
 fluid which issued from his flesh,' the god's sweat descending to the
 ground. … Here incense is not merely the 'Odour of the god,' but the
 grains of resin are said to be the god's sweat" (*op. cit.* p. 72).
@@ -70,7 +70,7 @@ of resinous material as an essential ingredient (what a pharmacist would
 call the adhesive "vehicle") of cosmetics. One of the results of this
 practice in a hot climate must have been the association of a strong
 aroma of resin or balsam with a living person. <span
-id="fr_59"></span>[1](#fn_59) Whether or not it was the practice to burn
+id="fr_59"></span>[1](#fn_59.md) Whether or not it was the practice to burn
 incense to give pleasure to the living is not known. The fact that such
 a procedure was customary among their successors may mean that it was
 really archaic; or on the other hand the possibility must not be
@@ -91,7 +91,7 @@ whose drops of sweat were the means of conveying life to the mummy.
 
 The reason why the deity which dwelt in these trees was usually
 identified with the Mother-Goddess will become clear in the course of
-the subsequent discussion ([p. 38](#page_38)). It is probable that this
+the subsequent discussion ([p. 38](#page_38).md). It is probable that this
 was due mainly to the geographical circumstance that the chief source of
 incense was Southern Arabia, which was also the home of the primitive
 goddesses of fertility. For they were originally nothing more than
@@ -103,7 +103,7 @@ acacia as an amulet is connected with the idea that it is a clot of
 <span id="page_38">p. 38</span>
 
 menstruous blood, *i.e.*, that the tree is a woman" <span
-id="fr_60"></span>[1](#fn_60) is probably an inversion of cause and
+id="fr_60"></span>[1](#fn_60.md) is probably an inversion of cause and
 effect. It was the value attached to the gum that conferred animation
 upon the tree. The rest of the legend is merely a rationalization based
 upon the idea that the tree was identified with the mother-goddess. The
@@ -119,7 +119,7 @@ were credited with the power of animating the dead. But at a very early
 epoch many other considerations helped to confirm and extend the
 conception of deification. When Osiris was buried, a sacred sycamore
 grew up as "the visible symbol of the imperishable life of
-Osiris". <span id="fr_61"></span>[2](#fn_61) But the sap of trees was
+Osiris". <span id="fr_61"></span>[2](#fn_61.md) But the sap of trees was
 brought into relationship with life-giving water and thus constituted
 another link with Osiris. The sap was also regarded as the blood of
 trees and the incense that exuded as the sweat. Just as the water of
@@ -133,10 +133,10 @@ ritual act for animating the funerary statue, ultimately developed into
 an act of homage to the deity.
 
 But it also acquired a special significance when the cult of sky-gods
-developed, <span id="fr_62"></span>[3](#fn_62) for the smoke of the
+developed, <span id="fr_62"></span>[3](#fn_62.md) for the smoke of the
 burning incense then came to be regarded as the vehicle which wafted the
 deceased's soul to the sky or conveyed there the requests of the
-dwellers upon earth. <span id="fr_63"></span>[4](#fn_63)
+dwellers upon earth. <span id="fr_63"></span>[4](#fn_63.md)
 
 "The soul of a human being is generally conceived \[by the
 
@@ -166,9 +166,9 @@ the like" (p. 276).
 
 Thus in China are found all the elements out of which Dr. Rendel Harris
 believes the Aphrodite cult was compounded in Cyprus, <span
-id="fr_64"></span>[1](#fn_64) the animation of the anthropoid plant, its
+id="fr_64"></span>[1](#fn_64.md) the animation of the anthropoid plant, its
 human cry, its association with a beautiful maiden and a dog. <span
-id="fr_65"></span>[2](#fn_65)
+id="fr_65"></span>[2](#fn_65.md)
 
 The immemorial custom of planting trees on graves in China is supposed
 by De Groot (p. 277) to be due to "the desire to strengthen the soul of
@@ -191,12 +191,12 @@ a future existence. Hence in course of time they came to be regarded as
 charged with the spirit of vitality, the Shen or "soul-substance".
 
 In China also it was because the woods of the pine or fir and the
-[cypress](errata.htm#1) were used for making coffins and grave-vaults
+[cypress](errata.htm#1.md) were used for making coffins and grave-vaults
 and that pine-resin was regarded as a means of attaining immortality (De
 Groot, *op. cit.* pp. 296 and 297) that such veneration was bestowed
 upon these trees. "At an early date, Taoist seekers after immortality
 transplanted that animation \[of the hardy long-lived fir and
-cypress <span id="fr_66"></span>[1](#fn_66)\] into themselves by
+cypress <span id="fr_66"></span>[1](#fn_66.md)\] into themselves by
 consuming the resin of those trees, which, apparently, they looked upon
 as coagulated soul-substance, the counterpart of the blood in men and
 animals" (p. 296).
@@ -226,31 +226,31 @@ Osiris.
 
 ### Footnotes
 
-<span id="fn_58"></span>[36:1](eod11.htm#fr_58) As I shall explain later
-(see page [38](#page_38)), the idea of the divinity of the incense-tree
+<span id="fn_58"></span>[36:1](eod11.htm#fr_58.md) As I shall explain later
+(see page [38](#page_38).md), the idea of the divinity of the incense-tree
 was a result of, and not the reason for, the practice of
 incense-burning. As one of the means by which the resurrection was
 attained incense became a giver of divinity; and by a simple process of
 rationalization the tree which produced this divine substance became a
 god.
 
-The reference to the "eye of the body" (see [p. 55](eod13.htm#page_55))
+The reference to the "eye of the body" (see [p. 55](eod13.htm#page_55).md)
 means the life-giving god or goddess who is the "eye" of the sky, *i.e.*
 the god with whom the dead king is identified.
 
-<span id="fn_59"></span>[37:1](eod11.htm#fr_59) It would lead me too far
+<span id="fn_59"></span>[37:1](eod11.htm#fr_59.md) It would lead me too far
 afield to enter into a discussion of the use of scents and unguents,
 which is closely related to this question.
 
-<span id="fn_60"></span>[38:1](eod11.htm#fr_60) "The Religion of the
+<span id="fn_60"></span>[38:1](eod11.htm#fr_60.md) "The Religion of the
 Semites," p. 133.
 
-<span id="fn_61"></span>[38:2](eod11.htm#fr_61) Breasted, p. 28.
+<span id="fn_61"></span>[38:2](eod11.htm#fr_61.md) Breasted, p. 28.
 
-<span id="fn_62"></span>[38:3](eod11.htm#fr_62) For reasons explained on
-a subsequent page ([56](eod14.htm#page_56)).
+<span id="fn_62"></span>[38:3](eod11.htm#fr_62.md) For reasons explained on
+a subsequent page ([56](eod14.htm#page_56).md).
 
-<span id="fn_63"></span>[38:4](eod11.htm#fr_63) It is also worth
+<span id="fn_63"></span>[38:4](eod11.htm#fr_63.md) It is also worth
 considering whether the extension of this idea may not have been
 responsible for originating the practice of cremation—as a device for
 transferring, not merely the animating incense and the supplications of
@@ -259,14 +259,14 @@ course, did not happen in Egypt, but in some other country which adopted
 the Egyptian practice of incense-burning, but was not hampered by the
 religious conservatism that guarded the sacredness of the corpse.
 
-<span id="fn_64"></span>[39:1](eod11.htm#fr_64) "The Ascent of Olympus,"
+<span id="fn_64"></span>[39:1](eod11.htm#fr_64.md) "The Ascent of Olympus,"
 1917.
 
-<span id="fn_65"></span>[39:2](eod11.htm#fr_65) For a collection of
+<span id="fn_65"></span>[39:2](eod11.htm#fr_65.md) For a collection of
 stories relating to human beings, generally women, dwelling in trees,
 see Hartland's "Legend of Perseus".
 
-<span id="fn_66"></span>[40:1](eod11.htm#fr_66) The fact that the fir
+<span id="fn_66"></span>[40:1](eod11.htm#fr_66.md) The fact that the fir
 and cypress are "hardy and long-lived" is not the reason for their being
 accredited with these life-prolonging qualities. But once the latter
 virtues had become attributed to them the fact that the trees were
@@ -275,4 +275,4 @@ process of rationalization.
 
 ------------------------------------------------------------------------
 
-[Next: The Breath of Life](eod12)
+[Next: The Breath of Life](eod12.md)

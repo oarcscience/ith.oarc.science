@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico114) 
-[Next](nico116) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico114.md) 
+[Next](nico116.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ man. This life therefore is also the happiest.
 ------------------------------------------------------------------------
 
 [Next: Chapter 8. Superiority of the contemplative life further
-considered](nico116)
+considered](nico116.md)

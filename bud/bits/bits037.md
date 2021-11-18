@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits036) [Next](bit-int3)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits036) [Next](bit-int3.md)
 
 ------------------------------------------------------------------------
 
@@ -284,7 +284,7 @@ to appear in its present shape."
 
 ------------------------------------------------------------------------
 
-[Next: Introduction to Chapter III: Karma and Rebirth](bit-int3)
+[Next: Introduction to Chapter III: Karma and Rebirth](bit-int3.md)
 
  
 

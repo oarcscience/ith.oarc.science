@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat30)  [Next](jat32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat30)  [Next](jat32.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ be afraid." In this manner the arrows were taken from Coyote.
 
 ------------------------------------------------------------------------
 
-[Next: 30. Coyote Tries to Make His Children Spotted](jat32)
+[Next: 30. Coyote Tries to Make His Children Spotted](jat32.md)

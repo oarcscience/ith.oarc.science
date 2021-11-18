@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn04)  [Next](rmn06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn04)  [Next](rmn06.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ couple.
 
 ------------------------------------------------------------------------
 
-[Next: Plate V: The God Pan on a Mule](rmn06)
+[Next: Plate V: The God Pan on a Mule](rmn06.md)

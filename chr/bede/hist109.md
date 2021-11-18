@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist108) 
-[Next](hist110) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist108.md) 
+[Next](hist110.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -200,4 +200,4 @@ admitted into the fellowship of the community.
 ------------------------------------------------------------------------
 
 [Next: XXIV. That there was in her monastery a brother, on whom a gift
-of song was bestowed by Heaven. \[680 A.D.\]](hist110)
+of song was bestowed by Heaven. \[680 A.D.\]](hist110.md)

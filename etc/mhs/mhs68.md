@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs67)  [Next](mhs69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs67)  [Next](mhs69.md) 
 
 ------------------------------------------------------------------------
 
@@ -159,4 +159,4 @@ Diligence, Counsel, Reason, Wisdom, and Experience.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Odd Numbers In Witchcraft](mhs69)
+[Next: IV. Odd Numbers In Witchcraft](mhs69.md)

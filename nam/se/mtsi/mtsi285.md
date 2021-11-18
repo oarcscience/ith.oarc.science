@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi284)  [Next](mtsi286) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi284)  [Next](mtsi286.md) 
 
 ------------------------------------------------------------------------
 
-### 20. THE FROG <span id="fr_84"></span>[1](mtsi286.htm#fn_83) THAT LOST HIS WIFE
+### 20. THE FROG <span id="fr_84"></span>[1](mtsi286.htm#fn_83.md) THAT LOST HIS WIFE
 
 A Frog living with his grandmother took a wife. He did nothing all day
 but swim about in the river whooping and his grandmother kept saying to
@@ -36,4 +36,4 @@ life, poked up their heads and went straight westward.
 
 ------------------------------------------------------------------------
 
-[Next: 21. The Panther and the Crane](mtsi286)
+[Next: 21. The Panther and the Crane](mtsi286.md)

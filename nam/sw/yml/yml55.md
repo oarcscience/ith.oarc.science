@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml54)  [Next](yml56) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml54)  [Next](yml56.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ After that none of the animals ever wanted to imitate men.
 
 ------------------------------------------------------------------------
 
-[Next: Coyote Woman](yml56)
+[Next: Coyote Woman](yml56.md)

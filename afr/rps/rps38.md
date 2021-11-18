@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps37)  [Next](rps39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps37)  [Next](rps39.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ The Militant Abraham is guilty of Eternal-Leze-majesty, S.S.S.S., A.D.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 37. None Matrimonial Prosecution](rps39)
+[Next: Chapter 37. None Matrimonial Prosecution](rps39.md)

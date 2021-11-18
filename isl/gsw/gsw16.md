@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw15)  [Next](gsw17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw15)  [Next](gsw17.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_191">p. 191</span>
 
-<span id="img_19100"></span> ![FROM AN ENAMELLED BOX](img/19100.jpg)
+<span id="img_19100"></span> ![FROM AN ENAMELLED BOX](img/19100.jpg.md)
 
 ### CHAPTER XII
 
@@ -133,7 +133,7 @@ His forgiveness be on the members of his band and on Al Hurr!
 
 <span id="img_19500"></span> <span align="CENTER"> [![LEADERS OF THE
 MUHARRAM PROCESSION](tn/19500.jpg)  
-Click to enlarge](img/19500.jpg)  
+Click to enlarge](img/19500.jpg.md)  
 LEADERS OF THE MUHARRAM PROCESSION  
 </span>
 
@@ -196,7 +196,7 @@ their breasts in rhythm, and as they advanced they recited:
 YEZD&lt;br&gt; (Showing the bier of the &lt;i&gt;Imam&lt;/i&gt; in the
 background)&lt;br&gt; &lt;i&gt;Mirza Daud,
 phot&lt;/i&gt;.](tn/19900.jpg)  
-Click to enlarge](img/19900.jpg)  
+Click to enlarge](img/19900.jpg.md)  
 THE MUHARRAM AT YEZD  
 (Showing the bier of the *Imam* in the background)  
 *Mirza Daud, phot*.  
@@ -204,7 +204,7 @@ THE MUHARRAM AT YEZD
 
 <span id="page_200">p. 200</span> <span id="page_201">p. 201</span>
 
-O our *Imam* Jafar! <span id="fr_57"></span>[1](#fn_55)  
+O our *Imam* Jafar! <span id="fr_57"></span>[1](#fn_55.md)  
 Husein our Lord  
 Has been murdered on the plain of Kerbela;  
 Dust be on our heads.
@@ -268,7 +268,7 @@ No summons to prayers of the Mussulman.
 
 In all this huge waterless tract there is unlimited grazing for camels,
 but little else. I have read that the camel-bird <span
-id="fr_58"></span>[1](#fn_56) in ancient days inhabited this desert, and
+id="fr_58"></span>[1](#fn_56.md) in ancient days inhabited this desert, and
 the Doctor *Sahib* told me that the English in Africa now make much
 profit from selling its feathers. In the name of Allah, then, let them
 come and show us Persians how to become rich from our boundless Lut!
@@ -286,14 +286,14 @@ About a *farsakh* from Yezd we dismounted
 to smoke a water pipe, and, sitting on a ridge overlooking the city, we
 swore with an oath that it was not fit for any one to live in but the
 Yezdis. As Ali Khan truly remarked, the city was composed mainly of
-wind-towers. <span id="fr_59"></span>[1](#fn_57)
+wind-towers. <span id="fr_59"></span>[1](#fn_57.md)
 
 We rode slowly forward, and as we were descending a little valley, a
 hare suddenly crossed our track to the left. Mahmud Khan turned white
 like curds at this evil omen; but, angry at his behaviour in the
 morning, I pointed out that what fate ordained would be; and that
 avarice was composed of three letters, and that all three were
-empty. <span id="fr_60"></span>[2](#fn_58)
+empty. <span id="fr_60"></span>[2](#fn_58.md)
 
 In truth, I could not content myself with this proverb, but said to
 them, "Have you not heard the story about the late Commander-in-Chief of
@@ -380,7 +380,7 @@ The morning we left Kharana it was arranged that we *Khans* with our
 armed servants should ride in front of the caravan in order to protect
 it; and we warned all the pilgrims not to straggle. No one would,
 however, pay attention to our warning, and the *Chaoush*, <span
-id="fr_61"></span>[1](#fn_59) who was reading suitable passages from the
+id="fr_61"></span>[1](#fn_59.md) who was reading suitable passages from the
 Koran, to which every one replied by *Salawat* or "Blessings," said that
 we should not be troubled, as His Highness the *Imam* Riza would protect
 his servants.
@@ -400,7 +400,7 @@ and we all
 
 <span id="img_20800"></span> <span align="CENTER"> [![THE CARAVANSERAI
 AT RIZAB &lt;i&gt;H. R. Sykes, phot&lt;/i&gt;.](tn/20800.jpg)  
-Click to enlarge](img/20800.jpg)  
+Click to enlarge](img/20800.jpg.md)  
 THE CARAVANSERAI AT RIZAB *H. R. Sykes, phot*.  
 </span>
 
@@ -417,7 +417,7 @@ he recognised Assad Ullah Khan, he glared at him like a Div. Assad
 <span id="img_20900"></span> <span align="CENTER"> [![GHOLAM ALI, CUT
 HAND&lt;br&gt; (Only the thumb of the right hand is left)&lt;br&gt;
 &lt;i&gt;W. Carter,. phot&lt;/i&gt;.](tn/20900.jpg)  
-Click to enlarge](img/20900.jpg)  
+Click to enlarge](img/20900.jpg.md)  
 GHOLAM ALI, “CUT HAND”  
 (Only the thumb of the right hand is left)  
 *W. Carter,. phot*.  
@@ -433,14 +433,14 @@ was at that time the Governor. The blackhearted
 
 <span id="img_21100"></span> <span align="CENTER"> [![A MESHED
 BANKER&lt;br&gt; &lt;i&gt;A. Wright, phot&lt;/i&gt;.](tn/21100.jpg)  
-Click to enlarge](img/21100.jpg)  
+Click to enlarge](img/21100.jpg.md)  
 A MESHED BANKER  
 *A. Wright, phot*.  
 </span>
 
 ruffian, whose nickname was "Cut Hand," was so furious that his eyes
 became red, and he swore that, in revenge: he would shoe Assad Ullah
-Khan with horse-shoes; <span id="fr_62"></span>[1](#fn_60) and that he
+Khan with horse-shoes; <span id="fr_62"></span>[1](#fn_60.md) and that he
 would only grant him a respite until he had collected the booty.
 
 Everything belonging to us was seized. Personally I had not brought much
@@ -503,27 +503,27 @@ in grief."
 
 ### Footnotes
 
-<span id="fn_55"></span>[201:1](gsw16.htm#fr_57) Jafar was the sixth
+<span id="fn_55"></span>[201:1](gsw16.htm#fr_57.md) Jafar was the sixth
 *Imam*.
 
-<span id="fn_56"></span>[203:1](gsw16.htm#fr_58) This is the Persian
+<span id="fn_56"></span>[203:1](gsw16.htm#fr_58.md) This is the Persian
 term for the ostrich, which ranged the Lut many hundreds of years ago.
 
-<span id="fn_57"></span>[204:1](gsw16.htm#fr_59) These wind-towers are
+<span id="fn_57"></span>[204:1](gsw16.htm#fr_59.md) These wind-towers are
 high chimneys, and convey a draught of air to subterraneous rooms which
 are resorted to during the summer.
 
-<span id="fn_58"></span>[204:2](gsw16.htm#fr_60) This refers to the
+<span id="fn_58"></span>[204:2](gsw16.htm#fr_60.md) This refers to the
 Persian word for avarice, which is spelt by three letters, none of which
 are dotted.
 
-<span id="fn_59"></span>[207:1](gsw16.htm#fr_61) The *Chaoush* is the
+<span id="fn_59"></span>[207:1](gsw16.htm#fr_61.md) The *Chaoush* is the
 leader of the party. He generally carries a flag on a lance and protests
 that he is the bravest of the brave.
 
-<span id="fn_60"></span>[211:1](gsw16.htm#fr_62) This has frequently
+<span id="fn_60"></span>[211:1](gsw16.htm#fr_62.md) This has frequently
 been done, death generally resulting.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. The Arrival at the Sacred Threshold](gsw17)
+[Next: Chapter XIII. The Arrival at the Sacred Threshold](gsw17.md)

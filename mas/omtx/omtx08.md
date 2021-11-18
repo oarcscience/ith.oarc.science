@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx07)  [Next](omtx09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx07)  [Next](omtx09.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ Response: So mote it be!
 
 ------------------------------------------------------------------------
 
-[Next: Installation Ceremony of the Grand Lodge](omtx09)
+[Next: Installation Ceremony of the Grand Lodge](omtx09.md)

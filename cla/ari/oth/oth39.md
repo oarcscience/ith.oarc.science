@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth38)  [Next](oth40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth38)  [Next](oth40.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ downward movement, as we have already often said.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6](oth40)
+[Next: Chapter 6](oth40.md)

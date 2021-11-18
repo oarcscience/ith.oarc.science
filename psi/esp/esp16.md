@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp15)  [Next](esp17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp15)  [Next](esp17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -140,7 +140,7 @@ work stands on its own merit, individually. I can think easily of 6
 such, whose X value has been computed separately. There are, then, in
 addition, my colleagues and friends who have witnessed the subjects at
 work. Some of these, those who have seen Pearce work, are listed in
-[Table XIX](esp14.htm#an_tab19) in Chapter VII. Among these seven
+[Table XIX](esp14.htm#an_tab19.md) in Chapter VII. Among these seven
 witnesses are three psychologists, an education official and a
 professional magician. The very magnitude of the system of persons
 involved, whose names are herein published, must discourage any attempt
@@ -157,11 +157,11 @@ more complex obstacle to the "Fraud Hypothesis". Each one witnessed
 results of ample significance to prove E.S.P. on their own merit. Those
 subjects who have not been wholly witnessed throughout have in many
 cases shown better results when witnessed than when unwitnessed (see
-[Table XXVIII](esp15.htm#an_tab28), for one illustration; Stuart is
+[Table XXVIII](esp15.htm#an_tab28.md), for one illustration; Stuart is
 another instance). And, finally, on the point of witnessing of subjects,
 there are several long and very significant series of tests by major
 subjects *doubly* witnessed, *i.e.*, with two of us present. See, for
-example, [Table XIX](esp15.htm#an_tab29), Columns headed B and C. Note
+example, [Table XIX](esp15.htm#an_tab29.md), Columns headed B and C. Note
 that Column C totals with a deviation over 23 times the p.e.—doubly
 witnessed figures. The honesty of the subjects does not matter under
 such conditions. But, in my judgment of them, these subjects are all
@@ -174,11 +174,11 @@ and one of these an ordained minister.
 
 No one can, I think, long hold to the "Fraud Hypothesis" after reading
 the excellent results obtained, (1) with P.T. at a distance <span
-id="fr_83"></span>[1](#fn_83) (Tables [XXXVII](esp15.htm#an_tab37) and
-[XXXVIII](esp18.htm#an_tab38)), (2) under the D.T. conditions,
+id="fr_83"></span>[1](#fn_83) (Tables [XXXVII](esp15.htm#an_tab37.md) and
+[XXXVIII](esp18.htm#an_tab38)), (2.md) under the D.T. conditions,
 witnessed, and with no sensory contact with the individual cards (Item
-6, [Table XVII](esp13.htm#an_tab17a)) and (3) with the screen data (Item
-5, [XVII)](esp13.htm#an_tab17a), no matter how doubtful of the subjects’
+6, [Table XVII](esp13.htm#an_tab17a)) and (3.md) with the screen data (Item
+5, [XVII)](esp13.htm#an_tab17a.md), no matter how doubtful of the subjects’
 honesty one may be. The Fraud Hypothesis, then, may be abandoned also.
 The possibilities for the unconscious following of cues or marks on the
 cards, though equally well excluded by these results, will be considered
@@ -273,7 +273,7 @@ run, as a rule, with perhaps 10 to 20 packs lying about on the table in
 my laboratory. And, again, I repeat, Pearce's favorite posture for D.T.
 was with eyes closed, sometimes hand on his eyes or forehead, as if in
 deep abstraction. The 1,625 D.T. trials yielded a positive deviation 14
-times the p.e. (see [Table XVIII](esp14.htm#an_tab18)).
+times the p.e. (see [Table XVIII](esp14.htm#an_tab18).md).
 
 Combining these data and in view of their significance, what sensory
 perception is possible? No one present at the tests or absent, has been
@@ -308,7 +308,7 @@ over 250 miles away from the agent, Miss Ownbey, and the already very
 successful distance P.C. work of Pearce from one building to another on
 the campus. For the details of these various P.T. scores and totals
 under the various conditions, consult [Table
-XXXVII](esp15.htm#an_tab37), in Chapter 8. The results are all
+XXXVII](esp15.htm#an_tab37.md), in Chapter 8. The results are all
 splendidly rich in significance. In fact, the anti-chance index, X, for
 the distance P.T. data alone on Misses Bailey and Turner, and for Cooper
 and Zirkle is 46, an enormous value.
@@ -416,11 +416,11 @@ functioning.
 
 ### Footnotes
 
-<span id="fn_83"></span>[112:1](esp16.htm#fr_83) And to this we can now
+<span id="fn_83"></span>[112:1](esp16.htm#fr_83.md) And to this we can now
 add the excellent distance-P.C. results of Pearce, mentioned at the
 close of Chapters 3 and 7.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter 10. Physical Conditions in the Functioning of
-E.S.P.](esp17)
+E.S.P.](esp17.md)

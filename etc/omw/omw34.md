@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw33)  [Next](omw35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw33)  [Next](omw35.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,4 +135,4 @@ the Erinyes could not torment with memories of crimes and faults.
 
 ------------------------------------------------------------------------
 
-[Next: Dionysos](omw35)
+[Next: Dionysos](omw35.md)

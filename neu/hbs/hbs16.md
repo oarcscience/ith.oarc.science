@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs15) [Next](hbs17)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs15) [Next](hbs17.md)
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ That same betrayed Tsar Lazar, the lord of thee and me.”
 
 ------------------------------------------------------------------------
 
-[Next](hbs17)
+[Next](hbs17.md)
 
  
 

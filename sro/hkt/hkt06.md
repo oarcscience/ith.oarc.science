@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt05)  [Next](hkt07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt05)  [Next](hkt07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ after a short government of three years, and was succeeded by Brother
 Odo de St. Amand, a proud and fiery warrior, of undaunted courage and
 resolution; having, according to William, Archbishop of Tyre, the fear
 neither of God nor of man before his eyes. <span
-id="fr_75"></span>[\*](#fn_75)
+id="fr_75"></span>[\*](#fn_75.md)
 
 The Templars were now destined to meet with a more formidable
 
@@ -119,7 +119,7 @@ prayed, and invoked the aid of the God of battles; the gates of the city
 were thrown open, and in an unexpected sally upon the enemy's camp they
 performed such prodigies of valour, that Saladin, despairing of being
 able to take the place, abandoned the siege, and retired into
-Egypt. <span id="fr_76"></span>[\*](#fn_76)
+Egypt. <span id="fr_76"></span>[\*](#fn_76.md)
 
 The year following, Pope Alexander's famous bull, *omne datum optimum*,
 confirming the previous privileges of the Templars, and conferring upon
@@ -137,7 +137,7 @@ A.D. 1172.</span>which is situated at Jerusalem, and to his successors,
 and to all the regularly professed brethren.
 
 "Every good gift and every perfect reward <span
-id="fr_77"></span>[\*](#fn_77) cometh from above, descending from the
+id="fr_77"></span>[\*](#fn_77.md) cometh from above, descending from the
 Father of light, with whom there is no change nor shadow of variety.
 Therefore, O beloved children in the Lord, we praise the Almighty God,
 in respect of your holy fraternity, since your religion and venerated
@@ -335,11 +335,11 @@ brethren, as well as to the knights. It also confers upon the fraternity
 the important privilege of causing the churches of towns and villages
 lying under sentence of interdict to be opened once a year, and divine
 service to be celebrated within them. <span
-id="fr_78"></span>[\*](#fn_78)
+id="fr_78"></span>[\*](#fn_78.md)
 
 A bull exactly similar to the above appears to have been issued by Pope
 Alexander, on the seventh id. Jan. A.D. 1162, addressed to the Master
-Bertrand de Blanquefort. <span id="fr_79"></span>[†](#fn_79) Both the
+Bertrand de Blanquefort. <span id="fr_79"></span>[†](#fn_79.md) Both the
 above instruments are to a great extent merely confirmatory of the
 privileges previously conceded to the Templars.
 
@@ -374,7 +374,7 @@ not cause service to be said, in churches under interdict, above once a
 year, nor give burial there to any person whatever; and that none of
 their fraternity or *associates* should be allowed to partake of their
 privileges, if not actually professed. <span
-id="fr_80"></span>[\*](#fn_80)
+id="fr_80"></span>[\*](#fn_80.md)
 
 Several bishops from Palestine were present at this council, together
 with the archbishop of Cæsarea, and William archbishop of Tyre, the
@@ -419,12 +419,12 @@ The order of the Temple always had in its pay a large number of
 retainers, and of mercenary troops, both cavalry and infantry, I which
 were officered by the knights. These were clothed in black or brown
 garments, that they might, in obedience to the rule, <span
-id="fr_81"></span>[\*](#fn_81) be plainly distinguished from the
+id="fr_81"></span>[\*](#fn_81.md) be plainly distinguished from the
 professed soldiers of Christ, who were habited in white. The black or
 brown garment was directed to be worn by all connected with the Templars
 who had not been admitted to the vows, that the holy soldiers might not
 suffer, in character or reputation, from the irregularities of secular
-men their dependents. <span id="fr_82"></span>[†](#fn_82)
+men their dependents. <span id="fr_82"></span>[†](#fn_82.md)
 
 The white mantle of the Templars was a regular monastic
 
@@ -460,7 +460,7 @@ superfluity" to all the brethren. He is directed to take especial care
 that the habits be "neither too long nor too short, but properly
 measured for the wearer, with equal measure, and with brotherly regard,
 that the eye of the whisperer or the accuser may not presume to notice
-anything." <span id="fr_83"></span>[\*](#fn_83)
+anything." <span id="fr_83"></span>[\*](#fn_83.md)
 
 The Standard Bearer (*Balcanifer*) bore the glorious *Beauseant*, or
 war-banner, to the field; he was supported by a certain number
@@ -508,7 +508,7 @@ army. The Templars marched on the right
 ST. AMAND.  
 A.D. 1172.</span>of the sacred emblem, and the Hospitaliers on the left;
 and the same position was taken up by the two orders in the line of
-battle. <span id="fr_84"></span>[\*](#fn_84)
+battle. <span id="fr_84"></span>[\*](#fn_84.md)
 
 An eye-witness of the conduct of the Templars in the field tells us that
 they were always foremost in the fight and the last in the retreat; that
@@ -533,7 +533,7 @@ community of the brethren. The Templars do indeed practise the
 observance of a stern religion, living in humble obedience to their
 Master, without property, and spending nearly all the days of their
 lives under tents in the open fields." <span
-id="fr_85"></span>[†](#fn_85) Such is the picture
+id="fr_85"></span>[†](#fn_85.md) Such is the picture
 
 <span id="page_74">p. 74</span>
 
@@ -560,7 +560,7 @@ arms except a small poniard concealed in the folds of their dress,
 called in the Persian tongue *hassissin*, whence these wretches were
 called assassins, their chief the prince of the assassins; and the word
 itself, in all its odious import, has passed into most European
-languages. <span id="fr_86"></span>[\*](#fn_86)
+languages. <span id="fr_86"></span>[\*](#fn_86.md)
 
 Raimond, son of the count of Tripoli, was slain by these fanatics whilst
 kneeling at the foot of the altar in the church of the Blessed Virgin at
@@ -584,7 +584,7 @@ safety to the frontier. The Ismaelite had reached the borders of the
 Latin kingdom, and was almost in sight of the castles of his brethren,
 when he was cruelly murdered by the Knight Templar Walter du Mesnil, who
 attacked the escort with a body of armed followers. <span
-id="fr_87"></span>[\*](#fn_87)
+id="fr_87"></span>[\*](#fn_87.md)
 
 The king of Jerusalem, justly incensed at this perfidious action,
 assembled the barons of the kingdom at Sidon to determine on the best
@@ -599,7 +599,7 @@ offence. He declared, however, that the crime should meet with due
 punishment; that he had caused the criminal to be arrested and put in
 irons, and would forthwith send him to Rome, but till judgment was given
 in his case, he forbade all persons of whatsoever degree to meddle with
-him. <span id="fr_88"></span>[†](#fn_88)
+him. <span id="fr_88"></span>[†](#fn_88.md)
 
 Shortly afterwards, however, the Master found it expedient to alter his
 determination, and insist less strongly upon the privileges of his
@@ -629,7 +629,7 @@ penetrated to the imperial tent, from whence the sultan escaped with
 great difficulty, almost naked, upon a fleet dromedary; the infidels,
 thrown into confusion, were slaughtered or driven into the desert, where
 they perished from hunger, fatigue, or the inclemency of the
-weather. <span id="fr_89"></span>[\*](#fn_89) The year following,
+weather. <span id="fr_89"></span>[\*](#fn_89.md) The year following,
 Saladin collected a vast army at Damascus; and the Templars, in order to
 protect and cover the road leading from that city to Jerusalem,
 commenced the erection of a strong fortress on the northern frontier of
@@ -662,7 +662,7 @@ Beaufort; and the Templars, after fighting with their customary zeal and
 fanaticism around the red-cross banner, which waved to the last over the
 field of blood, were all killed or taken prisoners, and the Master, Odo
 de St. Amand, fell alive into the hands of the enemy. <span
-id="fr_90"></span>[\*](#fn_90) Saladin then laid siege to the
+id="fr_90"></span>[\*](#fn_90.md) Saladin then laid siege to the
 newly-erected fortress, which was of some strength, being defended by
 thick walls, flanked with large towers furnished with military engines.
 After a gallant resistance on the part of the garrison, it was set on
@@ -680,7 +680,7 @@ TORROGE.
 A.D. 1180.</span>ordered all the Templars taken in the place to be sawn
 in two, excepting the most distinguished of the knights, who were
 reserved for a ransom, and were sent in chains to Aleppo. <span
-id="fr_91"></span>[\*](#fn_91)
+id="fr_91"></span>[\*](#fn_91.md)
 
 Saladin offered Odo de St. Amand his liberty in exchange for the freedom
 of his own nephew, who was a prisoner in the hands of the Templars; but
@@ -688,11 +688,11 @@ the Master of the Temple haughtily replied, that he would never, by his
 example, encourage any of his knights to be mean enough to surrender,
 that a Templar ought either to vanquish or die, and that be had nothing
 to give for his ransom but his girdle and his knife. <span
-id="fr_92"></span>[†](#fn_92) The proud spirit of Odo de St. Amand could
+id="fr_92"></span>[†](#fn_92.md) The proud spirit of Odo de St. Amand could
 but ill brook confinement; he languished and died in the dungeons of
 Damascus, and was succeeded by Brother Arnold de Torroge, who had filled
 some of the chief situations of the order in Europe. <span
-id="fr_93"></span>[‡](#fn_93)
+id="fr_93"></span>[‡](#fn_93.md)
 
 The affairs of the Latin Christians were at this period in a deplorable
 situation. Saladin encamped near Tiberias, and extended his ravages into
@@ -701,7 +701,7 @@ the Jordan to within a day's march of Jerusalem, and the whole country
 as far as Panias on the one side, and Beisan, D’Jenneen, and Sebaste, on
 the other, was destroyed by fire and the sword. The houses of the
 Templars were pillaged and burnt; various castles belonging to the order
-were taken by assault; <span id="fr_94"></span>[§](#fn_94) but the
+were taken by assault; <span id="fr_94"></span>[§](#fn_94.md) but the
 immediate destruction of the Latin power was arrested by some partial
 successes obtained by the christian warriors, and by the skilful
 generalship of their
@@ -724,13 +724,13 @@ was determined that Heraclius, the patriarch of the Holy City, and the
 Masters of the Temple and Hospital, should forthwith proceed to Europe,
 to obtain succour from the western princes. The sovereign mostly
 depended upon for assistance was Henry the Second, king of
-England, <span id="fr_95"></span>[\*](#fn_95) grandson of Fulk, the late
+England, <span id="fr_95"></span>[\*](#fn_95.md) grandson of Fulk, the late
 king of Jerusalem, and cousin-german to Baldwin, the then reigning
 sovereign. Henry had received absolution for the murder of Saint Thomas
 a Becket, on condition that he should proceed in person at the head of a
 powerful army to the succour of Palestine, and should, at his own
 expense, maintain two hundred Templars for the defence. of the holy
-territory. <span id="fr_96"></span>[†](#fn_96)
+territory. <span id="fr_96"></span>[†](#fn_96.md)
 
 The Patriarch and the two Masters landed in Italy, and after furnishing
 themselves with the letters of the pope, threatening the English monarch
@@ -742,7 +742,7 @@ Temple fell sick and
 
 <span class="margnote">ARNOLD DE  
 TORROGE.  
-A.D. 1185.</span>died, <span id="fr_97"></span>[\*](#fn_97) but his
+A.D. 1185.</span>died, <span id="fr_97"></span>[\*](#fn_97.md) but his
 companions proceeding on their journey, landed in safety in England at
 the commencement of the year 1185. They were received by the king at
 Reading, and throwing themselves at the feet of the English monarch,
@@ -751,10 +751,10 @@ the princes, and the people of the kingdom of Jerusalem. They explained
 the object of their visit, and presented him with the pope's letters,
 with the keys of the holy sepulchre, of the tower of David, and of the
 city of Jerusalem, together with the royal banner of the Latin
-kingdom. <span id="fr_98"></span>[†](#fn_98) Their eloquent and pathetic
+kingdom. <span id="fr_98"></span>[†](#fn_98.md) Their eloquent and pathetic
 narrative of the fierce inroads of Saladin, and of the miserable
 condition of Palestine, drew tears from king Henry and all his
-court. <span id="fr_99"></span>[‡](#fn_99) The English sovereign gave
+court. <span id="fr_99"></span>[‡](#fn_99.md) The English sovereign gave
 encouraging assurances to the patriarch and his companions, and promised
 to bring the whole matter before the parliament, which was to meet the
 first Sunday in Lent.
@@ -763,83 +763,83 @@ The patriarch, in the mean time, proceeded to London, and was received
 by the Knights Templars at the Temple in that city, the chief house of
 the order in Britain, where, in the month of February, he consecrated
 the beautiful Temple church, dedicated to the blessed Virgin Mary, which
-had just then been erected. <span id="fr_100"></span>[§](#fn_100)
+had just then been erected. <span id="fr_100"></span>[§](#fn_100.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_75"></span>[60:\*](hkt06.htm#fr_75) *Will. Tyr.* lib. xxi.
+<span id="fn_75"></span>[60:\*](hkt06.htm#fr_75.md) *Will. Tyr.* lib. xxi.
 cap. 29.
 
-<span id="fn_76"></span>[62:\*](hkt06.htm#fr_76) *Will. Tyr.* lib. xx.
+<span id="fn_76"></span>[62:\*](hkt06.htm#fr_76.md) *Will. Tyr.* lib. xx.
 xxi. xxii.
 
-<span id="fn_77"></span>[63:\*](hkt06.htm#fr_77) *Omne datum optimum* et
+<span id="fn_77"></span>[63:\*](hkt06.htm#fr_77.md) *Omne datum optimum* et
 omne donum perfectum desursum est, descendens a Patre luminum, apud quem
 non est transmutatio, nec vicissitudinis obumbratio.
 
-<span id="fn_78"></span>[68:\*](hkt06.htm#fr_78) Acta Rymeri, tom. i. ad
+<span id="fn_78"></span>[68:\*](hkt06.htm#fr_78.md) Acta Rymeri, tom. i. ad
 ann. 1172, p. 30, 31, 32.
 
-<span id="fn_79"></span>[68:†](hkt06.htm#fr_79) *Wilcke*, Geschichte des
+<span id="fn_79"></span>[68:†](hkt06.htm#fr_79.md) *Wilcke*, Geschichte des
 Tempelherrenordens, vol. ii. p. 230.
 
-<span id="fn_80"></span>[69:\*](hkt06.htm#fr_80) 3 Concil. Lat. cap. 9.
+<span id="fn_80"></span>[69:\*](hkt06.htm#fr_80.md) 3 Concil. Lat. cap. 9.
 
-<span id="fn_81"></span>[70:\*](hkt06.htm#fr_81) Regula, cap. 20.
+<span id="fn_81"></span>[70:\*](hkt06.htm#fr_81.md) Regula, cap. 20.
 
-<span id="fn_82"></span>[70:†](hkt06.htm#fr_82) Cap. 21, 22.
+<span id="fn_82"></span>[70:†](hkt06.htm#fr_82.md) Cap. 21, 22.
 
-<span id="fn_83"></span>[71:\*](hkt06.htm#fr_83) Cap. 20, 27, of the
+<span id="fn_83"></span>[71:\*](hkt06.htm#fr_83.md) Cap. 20, 27, of the
 rule.
 
-<span id="fn_84"></span>[73:\*](hkt06.htm#fr_84) *Jac. de Vitr.* Hist.
+<span id="fn_84"></span>[73:\*](hkt06.htm#fr_84.md) *Jac. de Vitr.* Hist.
 Orient. apud *Martene* thesaur. nov. anecdot. tom. iii. col. 276, 277.
 
-<span id="fn_85"></span>[73:†](hkt06.htm#fr_85) Narratio Patriarchæ
+<span id="fn_85"></span>[73:†](hkt06.htm#fr_85.md) Narratio Patriarchæ
 Hierosolymitani coram summo Pontifice de statu Terræ Sanctæ. ex M. S.
 Cod. Bigotiano, apud *Martene* thesaur. nov. anecdot. tom. iii. col.
 276, 277.
 
-<span id="fn_86"></span>[74:\*](hkt06.htm#fr_86) Dissertation sur les
+<span id="fn_86"></span>[74:\*](hkt06.htm#fr_86.md) Dissertation sur les
 Assassins, Académie des Inscriptions, tom. xvii. p. 127, 170. *De
 Guignes*. Hist. des Huns.--*Will. Tyr.* lib. xx. cap. 31.
 
-<span id="fn_87"></span>[75:\*](hkt06.htm#fr_87) *Jac. de Vitr.* Hist.
+<span id="fn_87"></span>[75:\*](hkt06.htm#fr_87.md) *Jac. de Vitr.* Hist.
 Orient. lib. iii. p.1142. *Will. Tyr.* lib. xx. cap. 32.
 
-<span id="fn_88"></span>[75:†](hkt06.htm#fr_88)Adjecit etiam et alia *a
+<span id="fn_88"></span>[75:†](hkt06.htm#fr_88.md)Adjecit etiam et alia *a
 spiritu superbiæ*, quo ipso plurimum abundabat, dictata, quæ præsenti
-narrationi [non](errata.htm#1) multum necessarium est
+narrationi [non](errata.htm#1.md) multum necessarium est
 interserere.--*Will. Tyr.* lib. xx. cap. 32.
 
-<span id="fn_89"></span>[76:\*](hkt06.htm#fr_89) *Will. Tyr.* lib. xxi.
+<span id="fn_89"></span>[76:\*](hkt06.htm#fr_89.md) *Will. Tyr.* lib. xxi.
 cap. 20, 22, 23. Abulfeda Abulpharadge, Chron, Syr. p. 379.
 
-<span id="fn_90"></span>[77:\*](hkt06.htm#fr_90) Capti sunt ibi de
+<span id="fn_90"></span>[77:\*](hkt06.htm#fr_90.md) Capti sunt ibi de
 nostris, Otto de Sancto Amando militiæ Templi Magister, homo nequaquam
 superbus et arrogans, spiritum furoris habens in naribus, nec Deum
 timens, nec ad homines habens reverentiam.--*Will. Tyr.* lib. xxi. cap.
 29. Abulpharadge, Chron. Syr. p. 380, 381.
 
-<span id="fn_91"></span>[78:\*](hkt06.htm#fr_91) *Abulpharadge*, Chron.
+<span id="fn_91"></span>[78:\*](hkt06.htm#fr_91.md) *Abulpharadge*, Chron.
 Syr. ut sup. Menologium Cisterciente, p. 194. *Bernardus Thesaurarius*
 de acq. *Terr. Sanc.* cap. 139.
 
-<span id="fn_92"></span>[78:†](hkt06.htm#fr_92) Dicens non esse
+<span id="fn_92"></span>[78:†](hkt06.htm#fr_92.md) Dicens non esse
 consuetudiuis militum Templi ut aliqua redemptio daretur pro eis præter
 cingulum et cultellum. Chron. *Trivet* apud *Hall*, vol. i. p. 77.
 
-<span id="fn_93"></span>[78:‡](hkt06.htm#fr_93) Eodem anno quo captus
+<span id="fn_93"></span>[78:‡](hkt06.htm#fr_93.md) Eodem anno quo captus
 est in vinculis et squalore carceris, nulli lugendus, dicitur
 obiisse.--*Will. Tyr.* lib. xxi. cap. 29. Ib. lib. xxii. cap. 7. Gallia
 christiana nova, tom. i. col. 258; ibid p. 172, instrumentorum.
 
-<span id="fn_94"></span>[78:§](hkt06.htm#fr_94) *Abulfeda*, ad ann.
+<span id="fn_94"></span>[78:§](hkt06.htm#fr_94.md) *Abulfeda*, ad ann.
 1182, 3. *Will. Tyr.* lib. xxii. cap. 16-20.
 
-<span id="fn_95"></span>[79:\*](hkt06.htm#fr_95) Unde propter causas
+<span id="fn_95"></span>[79:\*](hkt06.htm#fr_95.md) Unde propter causas
 prædictas generali providentia statutum est, ut Jerosolymitanus
 Patriarcha, petendi contra immanissimum hostem Saladinum auxilii gratia,
 ad christianos principos in Europam mitteretur; sed maxime ad illustrem
@@ -847,13 +847,13 @@ Anglorum regem, cujus efficacior et promptia opera
 sperabatur.--*Hemingford*, cap. 33; *Radulph de Diceto*, inter; *Hist.
 Angl*. X. script. p. 622.
 
-<span id="fn_96"></span>[79:†](hkt06.htm#fr_96) Concil. Magn. Brit. tom.
+<span id="fn_96"></span>[79:†](hkt06.htm#fr_96.md) Concil. Magn. Brit. tom.
 iv. p. 788, 789.
 
-<span id="fn_97"></span>[80:\*](hkt06.htm#fr_97) *Arnauld* of Troy.
+<span id="fn_97"></span>[80:\*](hkt06.htm#fr_97.md) *Arnauld* of Troy.
 *Radulph de Diceto*, ut sup. p. 625.
 
-<span id="fn_98"></span>[80:†](hkt06.htm#fr_98) Eodem anno (1185,)
+<span id="fn_98"></span>[80:†](hkt06.htm#fr_98) Eodem anno (1185,.md)
 Baldewinus rex Jerusalem, et Templares et Hospitalares, miserunt ad
 regem Angliæ Heraclium, sanctæ civitatis Jerusalem Patriarcha, et summos
 Hospitalis et Templi Magistros una cum vexillo regio, et clavibus
@@ -864,16 +864,16 @@ et universæ plebis terræ Jerosolymitanæ proferebant. . . . . tradiderunt
 ei vexillum regium, etc. etc. *Hoveden*, ad ann. 1185; *Radulph de
 Diceto*, p. 626.
 
-<span id="fn_99"></span>[80:‡](hkt06.htm#fr_99) *Matt. Westin*. ad ann.
+<span id="fn_99"></span>[80:‡](hkt06.htm#fr_99.md) *Matt. Westin*. ad ann.
 1185; *Guill. Neubr*. tom. i. lib iii. cap. 12, 13. *Chron. Dunst*.
 
-<span id="fn_100"></span>[80:§](hkt06.htm#fr_100) *Speed*. Hist.
+<span id="fn_100"></span>[80:§](hkt06.htm#fr_100.md) *Speed*. Hist.
 Britain, p. 50G. A.D. 1185.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](hkt07)
+[Next: Chapter V](hkt07.md)
 
 </div>

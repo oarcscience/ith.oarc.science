@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi06)  [Next](vbwi08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi06)  [Next](vbwi08.md) 
 
 ------------------------------------------------------------------------
 
@@ -310,4 +310,4 @@ heap of dung. It's best to leave such things alone.
 
 ------------------------------------------------------------------------
 
-[Next: Banshees and Warnings](vbwi08)
+[Next: Banshees and Warnings](vbwi08.md)

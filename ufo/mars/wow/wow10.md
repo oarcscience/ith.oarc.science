@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow09)  [Next](wow11) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow09)  [Next](wow11.md) 
 
 ------------------------------------------------------------------------
 
@@ -224,4 +224,4 @@ shivering violently.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eleven: At The Window](wow11)
+[Next: Chapter Eleven: At The Window](wow11.md)

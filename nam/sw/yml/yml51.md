@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml50)  [Next](yml52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml50)  [Next](yml52.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ There you have it, Señores.
 
 ------------------------------------------------------------------------
 
-[Next: The Calabazas Funeral](yml52)
+[Next: The Calabazas Funeral](yml52.md)

@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jesus, the Last Great Initiate*, by Edouard Schuré, \[1908\], at
 Intangible Textual Heritage
 

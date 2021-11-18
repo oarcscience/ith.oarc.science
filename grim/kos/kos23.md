@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos22)  [Next](kos24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos22)  [Next](kos24.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ As regards the size of the Pentacles it is arbitrary, so long as they
 are made according to the rules, and with the requisite solemnities, as
 hath been ordained.
 
-The <span id="fr_71"></span>[1](#fn_71) virtues of the Holy Pentacles
+The <span id="fr_71"></span>[1](#fn_71.md) virtues of the Holy Pentacles
 are no less advantageous unto thee than the knowledge of the secrets
 which I have already given unto thee; and thou shouldest take particular
 care if thou makest them upon virgin parchment to use the proper
@@ -91,7 +91,7 @@ contrary, from one Sage the secret knowledge should pass unto another
 Sage, for in this manner shall the Treasure of Treasures never descend
 into oblivion.
 
-Adore <span id="fr_72"></span>[2](#fn_72) and revere the Most Holy Names
+Adore <span id="fr_72"></span>[2](#fn_72.md) and revere the Most Holy Names
 of God which are found in these Pentacles and Characters, for without
 this never shalt thou be able to come to the end of any enterprise, nor
 to accomplish the Mystery of Mysteries.
@@ -125,12 +125,12 @@ THE END OF THE FIRST BOOK
 
 ### Footnotes
 
-<span id="fn_71"></span>[64:1](kos23.htm#fr_71) This and the four
+<span id="fn_71"></span>[64:1](kos23.htm#fr_71.md) This and the four
 following paragraphs are from 1203 Lansdowne MSS.
 
-<span id="fn_72"></span>[64:2](kos23.htm#fr_72) The rest of the Chapter
+<span id="fn_72"></span>[64:2](kos23.htm#fr_72.md) The rest of the Chapter
 is from 1202 Lansdowne MSS., except the last sentence.
 
 ------------------------------------------------------------------------
 
-[Next: The Order of the Pentacles](kos24)
+[Next: The Order of the Pentacles](kos24.md)

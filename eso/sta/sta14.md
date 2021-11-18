@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta13)  [Next](sta15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta13)  [Next](sta15.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,7 +140,7 @@ In England a curious tomb was found containing
 <span id="img_06100"></span>
 
 [![BASE OF A DELPHIAN TRIPOD.](tn/06100.jpg)  
-Click to enlarge](img/06100.jpg)  
+Click to enlarge](img/06100.jpg.md)  
 BASE OF A DELPHIAN TRIPOD.  
 
 From Montfaucon's *Antiquities*.
@@ -154,7 +154,7 @@ small ornamental tripods discovered in various temples.
 <span id="img_06101"></span>
 
 [![THE DELPHIAN TRIPOD RESTORED.](tn/06101.jpg)  
-Click to enlarge](img/06101.jpg)  
+Click to enlarge](img/06101.jpg.md)  
 THE DELPHIAN TRIPOD RESTORED.  
 
 From Beaumont's *Gleanings of Antiquities*.
@@ -326,7 +326,7 @@ the oracles because their sensitive and emotional nature responded
 <span id="img_06200"></span>
 
 [![THE PYTHIAN APOLLO.](tn/06200.jpg)  
-Click to enlarge](img/06200.jpg)  
+Click to enlarge](img/06200.jpg.md)  
 THE PYTHIAN APOLLO.  
 
 From *Historia Deorum Fatidicorum*.
@@ -500,7 +500,7 @@ cavern. Thereupon his entire body was precipitately
 <span id="img_06300"></span>
 
 [![THE DODONEAN JUPITER.](tn/06300.jpg)  
-Click to enlarge](img/06300.jpg)  
+Click to enlarge](img/06300.jpg.md)  
 THE DODONEAN JUPITER.  
 
 From *Historia Deorum Fatidicorum*.
@@ -671,7 +671,7 @@ messenger of the gods, and the universal symbol of wisdom and letters.
 <span id="img_06400"></span>
 
 [![TROPHONIUS OF LEBADIA.](tn/06400.jpg)  
-Click to enlarge](img/06400.jpg)  
+Click to enlarge](img/06400.jpg.md)  
 TROPHONIUS OF LEBADIA.  
 
 from *Historia Deorum Fatidicorum*.
@@ -695,4 +695,4 @@ pointed stakes that it could not be touched.
 
 ------------------------------------------------------------------------
 
-[Next: The Life and Philosophy of Pythagoras](sta15)
+[Next: The Life and Philosophy of Pythagoras](sta15.md)

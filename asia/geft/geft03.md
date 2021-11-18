@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft02)  [Next](geft04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft02)  [Next](geft04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -34,7 +34,7 @@ thee?' The wife importuned him; she gave him no rest. So the peasant
 took his child, and went to seek a master for him. On the way they were
 thirsty. He saw a rivulet, drank eagerly till his thirst was quenched,
 and when he lifted up his head he cried out: 'Ah! how good thou
-art!' <span id="fr_1"></span>[1](#fn_1) On saying this, there came forth
+art!' <span id="fr_1"></span>[1](#fn_1.md) On saying this, there came forth
 from the water a devil in the form of a man, and said to the peasant:
 'What dost thou want, O man! I am Vakhraca; what troubles thee?' The
 peasant told him all his story. The devil, when he learnt this, said:
@@ -142,18 +142,18 @@ front of the hen, which changed into a thread in the eye of the needle.
 As it was about to hold back the needle, the needle ran into the fire
 and burned the thread. The boy thus escaped from the devil, went home to
 his father, and lived happily ever afterwards. <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[1:1](geft03.htm#fr_1) In Georgian: *Vakh ra
+<span id="fn_1"></span>[1:1](geft03.htm#fr_1.md) In Georgian: *Vakh ra
 cargi kharo!*
 
-<span id="fn_2"></span>[5:1](geft03.htm#fr_2) Cf. Lady Charlotte Guest's
+<span id="fn_2"></span>[5:1](geft03.htm#fr_2.md) Cf. Lady Charlotte Guest's
 *Mabinogion* (1877), p. 472. Taliesin.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Three Sisters and their Stepmother](geft04)
+[Next: II. The Three Sisters and their Stepmother](geft04.md)

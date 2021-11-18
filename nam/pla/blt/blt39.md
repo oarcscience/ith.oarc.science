@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt38)  [Next](blt40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt38)  [Next](blt40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ The Gros Ventres of the prairie, of Arapaho stock, known to the
 Blackfeet as *At-séna,* or Gut People, had been friends and allies of
 the Blackfeet from the time they first came into the country, early in
 this century, up to about the year 1862, when, according to Clark, peace
-was broken through a mistake. <span id="fr_33"></span>[1](#fn_33) A war
+was broken through a mistake. <span id="fr_33"></span>[1](#fn_33.md) A war
 party of Snakes had gone to a Gros Ventres camp near the Bear Paw
 Mountains and there killed two Gros Ventres and taken a white pony,
 which they subsequently
@@ -498,9 +498,9 @@ a war party he accompanied which went as far as this.
 
 ### Footnotes
 
-<span id="fn_33"></span>[244:1](blt39.htm#fr_33) Indian Sign Language,
+<span id="fn_33"></span>[244:1](blt39.htm#fr_33.md) Indian Sign Language,
 p. 70.
 
 ------------------------------------------------------------------------
 
-[Next: Religion](blt40)
+[Next: Religion](blt40.md)

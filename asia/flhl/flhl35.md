@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl34)  [Next](flhl36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl34)  [Next](flhl36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ The cat is a clean beast, and has the blessing and seal of Solomon set
 upon it. Therefore, if a cat drinks out of a can containing milk or
 drinking-water, what remains after she has quenched her thirst is not
 unclean, and may be used by human beings; so, at least, I was assured by
-a fellâh of [Bethlehem](errata.htm#8). The dog, however, is unclean, and
+a fellâh of [Bethlehem](errata.htm#8.md). The dog, however, is unclean, and
 a vessel from which he has drunk is polluted. Indeed, the dog is
 considered so foul an animal by the stricter Moslems, more especially
 members of the Shafe’i sect, that if, while they are at prayers, a dog
@@ -70,7 +70,7 @@ them, they at once arise, perform
 the preliminary ablutions, and start afresh from the very beginning. On
 the other hand, there are always to be found people who are fond of
 dogs. A story is told of a Moslem who owned a handsome "Slugi" <span
-id="fr_150"></span>[1](#fn_149) to which he was very much attached. When
+id="fr_150"></span>[1](#fn_149.md) to which he was very much attached. When
 it died he buried it in his garden reverently, with his own hands. His
 enemies thereupon went to the Kadi and accused him of having buried an
 unclean beast with the respect and ceremonies due only to a believer.
@@ -112,7 +112,7 @@ constructed on the fatal spot for the free use of men and beasts. Since
 then the spectres have no longer been seen, but the cistern is still
 called "Bìr el Kelb," the dog's well. Another version of the story is,
 "that the dog discovered the body of his murdered master which had been
-thrown into the well." <span id="fr_151"></span>[1](#fn_150)
+thrown into the well." <span id="fr_151"></span>[1](#fn_150.md)
 
  
 
@@ -150,7 +150,7 @@ there, and
 <span id="page_266">p. 266</span>
 
 so the would-be guest must go elsewhere. The female demon "Lilith," the
-first wife of Adam, <span id="fr_152"></span>[1](#fn_151) sometimes
+first wife of Adam, <span id="fr_152"></span>[1](#fn_151.md) sometimes
 disguises herself as an owl, but more frequently as a cat. The following
 story related by a Spanish Jewess illustrates this belief. "It is quite
 true that La-Brûsha" (that is, Lilith) "often takes the form of a cat.
@@ -223,8 +223,8 @@ you see from this rosary round my neck, I now devote myself to prayer,
 meditation, and the recital of holy books, the whole of which I have
 learnt by heart, and was just beginning to repeat when you happened to
 look out of your hole. Besides this, I have visited the holy places, so
-am a Hajji <span id="fr_153"></span>[1](#fn_152) as well as a
-Hâfiz. <span id="fr_154"></span>[2](#fn_153) Go, my injured but
+am a Hajji <span id="fr_153"></span>[1](#fn_152.md) as well as a
+Hâfiz. <span id="fr_154"></span>[2](#fn_153.md) Go, my injured but
 nevertheless generous and forgiving, friend, make my change
 
 <span id="page_269">p. 269</span>
@@ -307,7 +307,7 @@ fellâh let the hyæna dig on till the ridge of its back was below the
 level of the ground. Then, starting up, he rolled the sack of corn on to
 the animal, and thus kept him down in the grave till morning, when it
 was an easy task to secure him, for, though a lion at night, <span
-id="fr_155"></span>[1](#fn_154) the hyæna is but a cur in the day-time.
+id="fr_155"></span>[1](#fn_154.md) the hyæna is but a cur in the day-time.
 
 <span id="page_272">p. 272</span>
 
@@ -401,7 +401,7 @@ almost invisible." The fox looked incredulous, so the eagle invited him
 to mount on his shoulders while he soared, so that he might judge for
 himself, "How big does the earth look now?" he asked, when they had
 risen a great way. "As large as a straw basket made at Lydda," answered
-Abu Hassan. <span id="fr_156"></span>[1](#fn_155) They still went up and
+Abu Hassan. <span id="fr_156"></span>[1](#fn_155.md) They still went up and
 up, and the eagle repeated his question. "No bigger than an onion," said
 the fox. Higher they went, and higher still, and at last, when
 questioned, the fox acknowledged that the world was out of sight. "How
@@ -416,7 +416,7 @@ narrow escape, the fox slipped under the jacket and ran off with it upon
 his back. He was out of sight before the ploughman realised what had
 happened. As he ran he came suddenly face to face with a leopard who
 asked from whence he had obtained his new dress. Abu Suleymân <span
-id="fr_157"></span>[2](#fn_156) promptly replied that he had become a
+id="fr_157"></span>[2](#fn_156.md) promptly replied that he had become a
 furrier and dealt in sheep-skin jackets, and advised the leopard to
 order
 
@@ -515,8 +515,8 @@ dib, was attending, and which it "would be sure to torment to-morrow."
 One thing seemed certain to the crouching wild beast, and that was that
 the "dib, dib," must be a very frightful monster, with whom he had
 better not contend. "I know what the 'dûb' <span
-id="fr_158"></span>[1](#fn_157) is," said the wild beast, "and I know
-what the 'dìb' <span id="fr_159"></span>[2](#fn_158) is, but I have
+id="fr_158"></span>[1](#fn_157.md) is," said the wild beast, "and I know
+what the 'dìb' <span id="fr_159"></span>[2](#fn_158.md) is, but I have
 never before heard of the 'dib, dib,' and as I do not care to run
 unnecessary risk, I think I will leave the old woman alone. She has not
 much flesh on her, as it is, and if the 'dib, dib,' finds her a
@@ -595,7 +595,7 @@ water-seller had been left. The latter was still in the tree, for,
 though it was now broad daylight, he feared to descend before all the
 world was astir lest he should be ambushed by the leopard. So, although
 it was the kind of day on which the sheykh of the Haradìn <span
-id="fr_160"></span>[1](#fn_159) gives his daughter in marriage, the poor
+id="fr_160"></span>[1](#fn_159.md) gives his daughter in marriage, the poor
 drenched fellow stayed shivering in his tree. At last he made up his
 mind, and was just on the point to climb down when he saw the leopard,
 accompanied by the fox, emerge from a thicket and come towards him. At
@@ -710,35 +710,35 @@ eyes."
 
 ### Footnotes
 
-<span id="fn_149"></span>[263:1](flhl35.htm#fr_150) Properly selûki
+<span id="fn_149"></span>[263:1](flhl35.htm#fr_150.md) Properly selûki
 (from the town of Selûk) a kind of greyhound.--ED.
 
-<span id="fn_150"></span>[264:1](flhl35.htm#fr_151) See special note.
+<span id="fn_150"></span>[264:1](flhl35.htm#fr_151.md) See special note.
 
-<span id="fn_151"></span>[266:1](flhl35.htm#fr_152) See Section I. "Our
+<span id="fn_151"></span>[266:1](flhl35.htm#fr_152.md) See Section I. "Our
 Father Adam."
 
-<span id="fn_152"></span>[268:1](flhl35.htm#fr_153) Pilgrim.
+<span id="fn_152"></span>[268:1](flhl35.htm#fr_153.md) Pilgrim.
 
-<span id="fn_153"></span>[268:2](flhl35.htm#fr_154) One who has the
+<span id="fn_153"></span>[268:2](flhl35.htm#fr_154.md) One who has the
 whole of the Corán by heart.--ED.
 
-<span id="fn_154"></span>[271:1](flhl35.htm#fr_155) Ed-dab’ bil-leyl
+<span id="fn_154"></span>[271:1](flhl35.htm#fr_155.md) Ed-dab’ bil-leyl
 sab’.--Arabic proverb.
 
-<span id="fn_155"></span>[275:1](flhl35.htm#fr_156) = Reynard.
+<span id="fn_155"></span>[275:1](flhl35.htm#fr_156.md) = Reynard.
 
-<span id="fn_156"></span>[275:2](flhl35.htm#fr_157) Another name for the
+<span id="fn_156"></span>[275:2](flhl35.htm#fr_157.md) Another name for the
 fox.
 
-<span id="fn_157"></span>[279:1](flhl35.htm#fr_158) Bear.
+<span id="fn_157"></span>[279:1](flhl35.htm#fr_158.md) Bear.
 
-<span id="fn_158"></span>[279:2](flhl35.htm#fr_159) Wolf.
+<span id="fn_158"></span>[279:2](flhl35.htm#fr_159.md) Wolf.
 
-<span id="fn_159"></span>[282:1](flhl35.htm#fr_160) Haradìn=a kind of
+<span id="fn_159"></span>[282:1](flhl35.htm#fr_160.md) Haradìn=a kind of
 lizards (Stellio vulgaris). The phrase is a proverbial expression for a
 day of heavy showers alternating with sickly gleams of sunshine.
 
 ------------------------------------------------------------------------
 
-[Next: XI. About Plants](flhl36)
+[Next: XI. About Plants](flhl36.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf20)  [Next](taf22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf20)  [Next](taf22.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 What is meant by the soul as suchness (*bhûtatathatâ*), is the oneness
 of the totality of things (*dharmadhâtu*), <span
-id="fr_76"></span>[2](#fn_76) the great all-including whole, the
+id="fr_76"></span>[2](#fn_76.md) the great all-including whole, the
 quintessence
 
 <span id="page_56">p. 56</span>
@@ -17,11 +17,11 @@ of the Doctrine. For the essential nature of the soul is uncreate and
 eternal.
 
 All things, simply on account of our confused subjectivity
-(*smrti*), <span id="fr_77"></span>[1](#fn_77) appear under the forms of
+(*smrti*), <span id="fr_77"></span>[1](#fn_77.md) appear under the forms of
 individuation. If we could overcome our confused subjectivity, the signs
 of individuation would disappear, and there would be no trace of a world
 of \[individual and isolated\] objects. <span
-id="fr_78"></span>[2](#fn_78)
+id="fr_78"></span>[2](#fn_78.md)
 
 Therefore all things in their fundamental nature are not namable or
 explicable. They cannot be adequately expressed in any form of language.
@@ -35,7 +35,7 @@ without the range of apperception. \[They are universals.\] They
 \[They are universals.\] They are subject neither to transformation, nor
 to destruction. They are nothing but the one soul, for which suchness is
 another designation. Therefore they cannot be \[fully\] explained by
-words or exhausted by reasoning. <span id="fr_79"></span>[1](#fn_79)
+words or exhausted by reasoning. <span id="fr_79"></span>[1](#fn_79.md)
 
 While all words and expressions are nothing but representations and not
 realities, and their existence depends simply on our confused
@@ -47,7 +47,7 @@ through this term all other terms may be disposed of.
 
 In the essence of suchness, there is neither anything which has to be
 excluded, nor anything which has to be added. <span
-id="fr_80"></span>[2](#fn_80)
+id="fr_80"></span>[2](#fn_80.md)
 
 <span id="page_58">p. 58</span>
 
@@ -63,7 +63,7 @@ insight.
 
 Again there is a twofold aspect in suchness if viewed from the point of
 its explicability. The first is trueness as negation (*çûnyatâ*), <span
-id="fr_81"></span>[1](#fn_81) in the sense that
+id="fr_81"></span>[1](#fn_81.md) in the sense that
 
 <span id="page_59">p. 59</span>
 
@@ -83,7 +83,7 @@ is existence, nor that which is non-existence, nor that which is at once
 existence and non-existence, nor that which is not at once existence and
 non-existence; that it is neither that which is unity, nor that which is
 plurality, nor that which is at once unity and plurality, nor that which
-is not at once unity and plurality. <span id="fr_82"></span>[1](#fn_82)
+is not at once unity and plurality. <span id="fr_82"></span>[1](#fn_82.md)
 
 <span id="page_60">p. 60</span>
 
@@ -95,7 +95,7 @@ The truth is that subjectivity does not exist by itself, that the
 negation (*çûnyatâ*) is also void (*çûnya*) in its nature, that neither
 that which is negated \[viz., the external world\] nor that which
 negates \[viz., the mind\] is an independent entity. <span
-id="fr_83"></span>[1](#fn_83)
+id="fr_83"></span>[1](#fn_83.md)
 
 By the so-called trueness as affirmation, we mean that \[as soon as we
 understand\] subjectivity is empty and unreal, we perceive the pure soul
@@ -110,7 +110,7 @@ a confused subjectivity, because only by transcending subjectivity
 
 ### Footnotes
 
-<span id="fn_76"></span>[55:2](taf21.htm#fr_76) S. Beal in his English
+<span id="fn_76"></span>[55:2](taf21.htm#fr_76.md) S. Beal in his English
 translation of Açvaghosha's *Buddha-carita* (*Sacred Books of the East*,
 Vol. XIX., p. 324, footnote) considers *dharmadhâtu* to be "the mystic
 or ideal world of the Northern Buddhists" and says it means literally
@@ -126,7 +126,7 @@ the basis of the law; or, to use modern scientific terminology, it is
 existence in its organised totality. Açvaghosha uses the term here in
 this sense.
 
-<span id="fn_77"></span>[56:1](taf21.htm#fr_77) The term is usually
+<span id="fn_77"></span>[56:1](taf21.htm#fr_77.md) The term is usually
 rendered by recollection or memory, but Açvaghosha uses it apparently in
 a different sense. It must mean subjectivity, or the perception of
 particularity, or that mental activity which is not in accordance with
@@ -139,12 +139,12 @@ causes particularisation to take place. Particularisation does not
 annihilate suchness, but it overshadows the light of its perfect
 spiritual wisdom.
 
-<span id="fn_78"></span>[56:2](taf21.htm#fr_78) Schopenhauer who says,
+<span id="fn_78"></span>[56:2](taf21.htm#fr_78.md) Schopenhauer who says,
 "no subject without object," seems to express a similar idea that
 without subjectivity, "the objective world," i.e., "the world as
 *Vorstellung*, as representation of objects" would vanish.
 
-<span id="fn_79"></span>[57:1](taf21.htm#fr_79) If I understand
+<span id="fn_79"></span>[57:1](taf21.htm#fr_79.md) If I understand
 Açvaghosha correctly, he intends to say that to the sentient subject the
 world consists of a number of isolated objects. The nature of
 subjectivity is sense-apperception; and in sense-apperception the
@@ -154,14 +154,14 @@ subjectivity in order to discover suchness; but when suchness is
 recognised, it is at once understood to constitute the essence and only
 true reality of things.
 
-<span id="fn_80"></span>[57:2](taf21.htm#fr_80) The older translation
+<span id="fn_80"></span>[57:2](taf21.htm#fr_80.md) The older translation
 has: "In the essence of suchness, there is nothing to be excluded, for
 all things are true; nor is there anything to be added, for all things
 are such as they are. Be it known therefore that as thus all things are
 undemonstrable and unrepresentable \[by our confused understanding\],
 they are called suchness."
 
-<span id="fn_81"></span>[58:1](taf21.htm#fr_81) The term *çûnyatâ* which
+<span id="fn_81"></span>[58:1](taf21.htm#fr_81.md) The term *çûnyatâ* which
 means literally void or emptiness, has suffered a great deal of
 misunderstanding by those who are not well acquainted with Buddhist
 phraseology. If Mahâyânists used the term, as imagined by some critics,
@@ -193,7 +193,7 @@ designated it çûnya, empty, and he hoped by thus abnegating all
 phenomenal existences, we could reach the highest reality, for ignorant
 minds are deeply saturated with wrong affirmations and false judgements.
 
-<span id="fn_82"></span>[59:1](taf21.htm#fr_82) Cf. Nâgârjuna's "Eight
+<span id="fn_82"></span>[59:1](taf21.htm#fr_82.md) Cf. Nâgârjuna's "Eight
 No's" doctrine which says: "There is no production (*utpâda*), no
 destruction (*uccheda*), no annihilation (*nirodha*), no persistence
 (*çâçvata*), no unity (*ekârtha*), no <span id="page_60">p. 60</span>
@@ -202,11 +202,11 @@ plurality (*nânârtha*), no coming in (*âgamana*), no going out
 transcends all modes of relativity. (See the first chapter of the
 *Mâdhyamika-çâstra*.)
 
-<span id="fn_83"></span>[60:1](taf21.htm#fr_83) In the Kantian sense of
+<span id="fn_83"></span>[60:1](taf21.htm#fr_83.md) In the Kantian sense of
 ''things in themselves." The Mâdhyamika school would say they are all
 *Atyanta-çûnyatâ*, complete void, meaning that things are subject to
 transformation and have no absolute existence.
 
 ------------------------------------------------------------------------
 
-[Next: B. The Soul as Birth-and-Death](taf22)
+[Next: B. The Soul as Birth-and-Death](taf22.md)

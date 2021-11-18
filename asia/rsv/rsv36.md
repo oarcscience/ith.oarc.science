@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv35)  [Next](rsv37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv35)  [Next](rsv37.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ country.
 
 ------------------------------------------------------------------------
 
-[Next: Vietnamese Self-Sacrifice Customs](rsv37)
+[Next: Vietnamese Self-Sacrifice Customs](rsv37.md)

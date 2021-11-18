@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav08)  [Next](vav10) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav08)  [Next](vav10.md) 
 
 ------------------------------------------------------------------------
 
@@ -493,4 +493,4 @@ Vikram, and the loquacious thing again began to talk.
 ------------------------------------------------------------------------
 
 [Next: The Vampire's Sixth Story. In Which Three Men Dispute about a
-Woman.](vav10)
+Woman.](vav10.md)

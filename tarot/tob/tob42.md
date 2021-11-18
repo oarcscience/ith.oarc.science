@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob41) 
-[Next](tob43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob41.md) 
+[Next](tob43.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ or INVOLUTION, and of the *Progressive Divinization* of the Material, or
 EVOLUTION, has been too well studied by our eminent friend CH. BARLET,
 for us intentionally to vary from him in any way; we shall therefore
 quote his interesting work *in extenso*, <span
-id="fr_65"></span>[1](#fn_65) and thus enable the reader to see that our
+id="fr_65"></span>[1](#fn_65.md) and thus enable the reader to see that our
 conclusions are absolutely identical, although we have been led to them
 by very different paths.
 
@@ -61,7 +61,7 @@ THEOGONY.
 The Tarot places at the origin of all things the Absolute undetermined,
 undeterminable, the ONE, both knowing and unknowing, affirmative and
 negative, force and matter., unnamable, incomprehensible to man. <span
-id="fr_66"></span>[2](#fn_66)
+id="fr_66"></span>[2](#fn_66.md)
 
 The Unity manifests itself to itself by three terms, the highest and
 most general terms which the human comprehension can grasp; terms which
@@ -168,8 +168,8 @@ Every reality, of whatever kind it mar be, is therefore composed of
 *three terms*, and these three terms are contained in *one sole whole*.
 This truth is quite as applicable to physics as to metaphysics; the
 works of Louis Lucas upon physics and chemistry, <span
-id="fr_67"></span>[1](#fn_67) and of Wronski in mathematics, <span
-id="fr_68"></span>[2](#fn_68) are an irresistible argument against those
+id="fr_67"></span>[1](#fn_67.md) and of Wronski in mathematics, <span
+id="fr_68"></span>[2](#fn_68.md) are an irresistible argument against those
 who think that a philosophical principle is a *foolish idea*, without
 any practical import.
 
@@ -257,7 +257,7 @@ The constitution of God is thus defined by the Tarot--
 The Spirit of God, or *God the Father*.  
 The Soul of God, or *God the Son*.  
 The Body of God, or *God the Holy Spirit*. <span
-id="fr_69"></span>[1](#fn_69)
+id="fr_69"></span>[1](#fn_69.md)
 
 \*  
 \*    \*
@@ -596,7 +596,7 @@ Absolute Equilibrist Power</p></td>
 
 We might carry these comparisons much further; but it is useless to
 prolong our studies unreasonably. The curious reader can refer to the
-works on the ancient theogonies, <span id="fr_70"></span>[1](#fn_70) and
+works on the ancient theogonies, <span id="fr_70"></span>[1](#fn_70.md) and
 see the universal harmony that exists in the primitive principles of all
 religions.
 
@@ -654,7 +654,7 @@ balanced creation of Adam-Eve, or of HUMANITY.
 
 Humanity, the image of *Love*, also contains in itself a rough,
 astringent principle (see Jacob Boëhm <span
-id="fr_71"></span>[1](#fn_71)), and a gentle, insinuating principle
+id="fr_71"></span>[1](#fn_71).md), and a gentle, insinuating principle
 (Jacob Boëhm). The first of these principles, symbolized by Adam, is the
 origin of brute Force, of Power in all its manifestations. The second,
 symbolized by Eye, is the origin of feminine Grace, of Authority. We
@@ -726,7 +726,7 @@ Universe as body, of Humanity as soul, and of himself as Spirit.
 
 THEOGONY.  
 <span id="img_20900"></span> [![](tn/20900.jpg)  
-Click to enlarge](img/20900.jpg)
+Click to enlarge](img/20900.jpg.md)
 
  
 
@@ -736,7 +736,7 @@ ANDROGONY.
 
 Each man contains in himself an *Adam*, source of the Will, *i.e.* the
 Brain; an *Eve*, source of the Intelligence, <span
-id="fr_72"></span>[1](#fn_72) *i.e.* the Heart, and he should balance
+id="fr_72"></span>[1](#fn_72.md) *i.e.* the Heart, and he should balance
 the heart by the brain, and the brain by the heart, if he would become a
 centre of divine love.
 
@@ -753,9 +753,9 @@ father, queen or mother, knight or young man, knave or child); and it
 was so thoroughly understood by ancient science, that the whole social
 organization was based upon the *family*, instead of upon the
 *individual*, as it is in modern times. <span
-id="fr_73"></span>[2](#fn_73) That the social organization of China has
+id="fr_73"></span>[2](#fn_73.md) That the social organization of China has
 been maintained for so many centuries, is solely due to the principle of
-basing everything upon the family. <span id="fr_74"></span>[3](#fn_74)
+basing everything upon the family. <span id="fr_74"></span>[3](#fn_74.md)
 
 The characteristics of the human Ternary are: Adam, Necessity, the image
 and reflection of Will and Power; Eve, Liberty, the image and reflection
@@ -800,11 +800,11 @@ The Septenary formed of "two Ternaries in the midst of
 
 <span id="page_212">p. 212</span>
 
-which the Unity upholds itself," <span id="fr_75"></span>[1](#fn_75) is
+which the Unity upholds itself," <span id="fr_75"></span>[1](#fn_75.md) is
 therefore the expression of a being completely constituted. This is now
 confirmed by the recent data given by Hindu Theosophy upon the *seven
 principles of Man*, and upon the *seven principles of the
-Universe*. <span id="fr_76"></span>[2](#fn_76)
+Universe*. <span id="fr_76"></span>[2](#fn_76.md)
 
 We could apply the Tarot to the explanation of these data; but we feel
 sure that it will soon be done, and we consider it useless to lengthen
@@ -813,13 +813,13 @@ our work too much.
 We will therefore conclude our study upon man by pointing out his
 constitution as given by the Tarot, which teaches that his body comes
 from the Universe, his soul from the Astral plane, whilst his Spirit is
-a direct emanation from God. <span id="fr_77"></span>[3](#fn_77)
+a direct emanation from God. <span id="fr_77"></span>[3](#fn_77.md)
 
 <span id="page_213">p. 213</span>
 
 ANDROGONY.  
 <span id="img_21300"></span> [![](tn/21300.jpg)  
-Click to enlarge](img/21300.jpg)
+Click to enlarge](img/21300.jpg.md)
 
 <span id="page_214">p. 214</span>
 
@@ -880,7 +880,7 @@ intention of discussing them in a few pages.
 
 COSMOGONY.  
 <span id="img_21600"></span> [![](tn/21600.jpg)  
-Click to enlarge](img/21600.jpg)
+Click to enlarge](img/21600.jpg.md)
 
  
 
@@ -1011,7 +1011,7 @@ TABLEAU
 
 Recapitulating the Symbolism of all the Major Arcana, enabling the
 definition of any one of these Arcana to be immediately determined.
-(*See its use on page* [219](#page_219).)
+(*See its use on page* [219](#page_219)..md)
 
 <table data-border="" data-cellspacing="1" data-cellpadding="8" width="779">
 <colgroup>
@@ -1433,49 +1433,49 @@ arcana*): (*yod* = 1, *he* = 2, *vau* = 3, 2*nd he* = 4).
 
 ### Footnotes
 
-<span id="fn_65"></span>[194:1](tob42.htm#fr_65) See [p.
-253](tob45.htm#page_253).
+<span id="fn_65"></span>[194:1](tob42.htm#fr_65.md) See [p.
+253](tob45.htm#page_253.md).
 
-<span id="fn_66"></span>[194:2](tob42.htm#fr_66) Ch. Barlet,
+<span id="fn_66"></span>[194:2](tob42.htm#fr_66.md) Ch. Barlet,
 *Initiation*, p. 10,
 
-<span id="fn_67"></span>[197:1](tob42.htm#fr_67) Louis Lucas, *La Chimie
+<span id="fn_67"></span>[197:1](tob42.htm#fr_67.md) Louis Lucas, *La Chimie
 Nouvelle*, Paris, 1854. 18mo.
 
-<span id="fn_68"></span>[197:2](tob42.htm#fr_68) Wronski, *Messianisme*,
+<span id="fn_68"></span>[197:2](tob42.htm#fr_68.md) Wronski, *Messianisme*,
 1825, fol.; and above all *Apodictique Messianique*, 1876, fol.
 
-<span id="fn_69"></span>[198:1](tob42.htm#fr_69) Spirit is here taken in
+<span id="fn_69"></span>[198:1](tob42.htm#fr_69.md) Spirit is here taken in
 the sense of the superior and creative principle: soul in the sense of
 median and animator. Since many writers use these words in a different
 sense, it is useful to explain what is our meaning in this case.
 
-<span id="fn_70"></span>[205:1](tob42.htm#fr_70) See particularly P.
+<span id="fn_70"></span>[205:1](tob42.htm#fr_70.md) See particularly P.
 Renand, *Nouvelle Symbolique*, Paris, 1877. 8vo.
 
-<span id="fn_71"></span>[206:1](tob42.htm#fr_71) Jacob Boëhm, *The Three
+<span id="fn_71"></span>[206:1](tob42.htm#fr_71.md) Jacob Boëhm, *The Three
 Principles*.
 
-<span id="fn_72"></span>[210:1](tob42.htm#fr_72) Intelligence is here
+<span id="fn_72"></span>[210:1](tob42.htm#fr_72.md) Intelligence is here
 taken in the sense of *Intuition*, and not in the sense usually
 attributed to it by the Philosophy of the Universities.
 
-<span id="fn_73"></span>[210:2](tob42.htm#fr_73) See Saint-Yves
+<span id="fn_73"></span>[210:2](tob42.htm#fr_73.md) See Saint-Yves
 d'Alveydre, *Mission des Juifs*, 1884.
 
-<span id="fn_74"></span>[210:3](tob42.htm#fr_74) See Simon, *La Cité
+<span id="fn_74"></span>[210:3](tob42.htm#fr_74.md) See Simon, *La Cité
 Chinoise*, 1886. 8vo.
 
-<span id="fn_75"></span>[212:1](tob42.htm#fr_75) *Sepher Yetzirah*
+<span id="fn_75"></span>[212:1](tob42.htm#fr_75.md) *Sepher Yetzirah*
 (trans. Papus), chap. vi.
 
-<span id="fn_76"></span>[212:2](tob42.htm#fr_76) See Sinnet, *Esoteric
+<span id="fn_76"></span>[212:2](tob42.htm#fr_76.md) See Sinnet, *Esoteric
 Buddhism*; H. P. Blavatsky, *Secret Doctrine*; and all the publications
 of the Theosophical Society.
 
-<span id="fn_77"></span>[212:3](tob42.htm#fr_77) See for further
+<span id="fn_77"></span>[212:3](tob42.htm#fr_77.md) See for further
 developments the works of Paracelsus and Van Helmont.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. General Key to the Applications of the Tarot](tob43)
+[Next: Chapter XV. General Key to the Applications of the Tarot](tob43.md)

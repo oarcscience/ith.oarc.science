@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt19)  [Next](dmt21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt19)  [Next](dmt21.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ punishment of the grave. We believe that the Tank (*hawd*) and the
 Balance are Verities: that the Bridge *as-Sirat* is a Verity; that the
 Arousing (*ba‘th*) after death is a Verity; that God will set up His
 creatures in a place (*mawqif*) and will hold a reckoning with the
-Believers. <span id="fr_0"></span>[1](#fn_0) We believe that Faith
+Believers. <span id="fr_0"></span>[1](#fn_0.md) We believe that Faith
 (*iman*) consists in word (*qawl*) and in work (*amal*) and that it
 increases and diminishes. We trust in the sound Traditions handed down
 from the Apostle of God, which trustworthy people (*thiqat*), just man
@@ -171,7 +171,7 @@ every person, pious and profane--so are the conditions for
 congregational prayers, as it is handed down from Abd Allah ibn Umar
 that he prayed behind al-Hajjaj. To our Religion belongs the wiping
 (*mash*) of the inner boots (*khuffs*) upon a journey and at home, in
-contradiction to the deniers of this. <span id="fr_1"></span>[1](#fn_1)
+contradiction to the deniers of this. <span id="fr_1"></span>[1](#fn_1.md)
 We uphold the prayer for peace for the Imams of the Muslims, submission
 to their office, and maintain the error of those who hold it right to
 rise against them whenever there may be apparent in them a falling away
@@ -192,7 +192,7 @@ we uphold also their right of testation. We acknowledge that Paradise
 and Hell are created, and that whoever dies or is killed, dies or is
 killed at his appointed time (*ajal*); that the articles of sustenance
 (*rizq*) from God, with which He sustains His creatures, are permitted
-(*halal*) and forbidden (*haram*); <span id="fr_2"></span>[2](#fn_2)
+(*halal*) and forbidden (*haram*); <span id="fr_2"></span>[2](#fn_2.md)
 that Satan makes evil suggestions to men, and puts
 
 <span id="page_299">p. 299</span>
@@ -207,7 +207,7 @@ Jinn." We affirm that God may distinguish the pious by signs which He
 manifests through them. Our teaching concerning the little children of
 the polytheists (*mushriqs*) is this, that God will kindle a fire in the
 other world for them, and will say, "Run in there;"--as the tradition
-says. <span id="fr_3"></span>[1](#fn_3) We believe that God knows what
+says. <span id="fr_3"></span>[1](#fn_3.md) We believe that God knows what
 men do and what they will to do, what happens and how that which does
 not happen, if it should happen, would happen. We believe in the
 obedience of the Imams and in their counsel of the Muslims. We consider
@@ -220,7 +220,7 @@ al-As‘ari's*, pp. 133 *ff*.
 
 ### Footnotes
 
-<span id="fn_0"></span>[296:1](dmt20.htm#fr_0) For Muslim eschatology
+<span id="fn_0"></span>[296:1](dmt20.htm#fr_0.md) For Muslim eschatology
 reference may still he made to Sale's introduction to the Qur’an, § 4.
 The punishment of the grave is what, in the case of unbelievers, follows
 the inquisition by the two angels *Munkar* and *Nakir*; see on them
@@ -228,12 +228,12 @@ Lane's *Modern Egyptians*, chap. xxviii; on the whole subject, see
 translations by Gautier and Wolff and tractate by Rüling (Bibliography,
 p. 367)
 
-<span id="fn_1"></span>[298:1](dmt20.htm#fr_1) This, one of the dividing
+<span id="fn_1"></span>[298:1](dmt20.htm#fr_1.md) This, one of the dividing
 questions between Sunnites and Shi’ites, belongs to theology as well as
-law. See [p. 314](dmt22.htm#page_314) and Goldziher, *Zur
+law. See [p. 314](dmt22.htm#page_314.md) and Goldziher, *Zur
 Literaturgeschichte der Si‘a*, p. 87.
 
-<span id="fn_2"></span>[298:2](dmt20.htm#fr_2) The Mu‘tazilites held
+<span id="fn_2"></span>[298:2](dmt20.htm#fr_2.md) The Mu‘tazilites held
 that articles of sustenance of a forbidden nature, such as pork or wine,
 could not be called *rizq* in this technical sense; that God could not
 so use them. The orthodox retorted <span id="page_299">p. 299</span>
@@ -243,10 +243,10 @@ as "a possession which its possessor eats" and as "that from which one
 is not hindered from profiting"; the orthodox, as a name for that which
 God sends to man and the other animals and they eat it and profit by it.
 
-<span id="fn_3"></span>[299:1](dmt20.htm#fr_3) Some will run into the
+<span id="fn_3"></span>[299:1](dmt20.htm#fr_3.md) Some will run into the
 fire and find themselves immediately in Paradise; these would have been
 believers. Others will refuse, and will be treated as their parents.
 
 ------------------------------------------------------------------------
 
-[Next: IV: A Short Creed by Al-Ghazzali](dmt21)
+[Next: IV: A Short Creed by Al-Ghazzali](dmt21.md)

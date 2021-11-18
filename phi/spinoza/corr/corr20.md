@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr19)  [Next](corr21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr19)  [Next](corr21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -55,7 +55,7 @@ necessary or contingent, we are led by hope and fear.
 Men are only without excuse before God, because they are in God's power,
 as clay is in the hands of the potter, who from the same lump makes
 vessels, some to honour, some to dishonour. <span
-id="fr_19"></span>[1](#fn_19) If you will reflect a little on this, you
+id="fr_19"></span>[1](#fn_19.md) If you will reflect a little on this, you
 will, I doubt not, easily be able to reply to any objections which may
 be urged against my opinion, as many of my friends have already done.
 
@@ -90,7 +90,7 @@ the resurrection of Christ from the dead was in reality spiritual, and
 that to the faithful alone, according to their understanding, it was
 revealed that Christ was endowed with eternity, and had risen from the
 dead (using *dead* in the sense in which Christ said, "let the dead bury
-their dead" <span id="fr_20"></span>[1](#fn_20)), giving by His life and
+their dead" <span id="fr_20"></span>[1](#fn_20).md), giving by His life and
 death a matchless example of holiness. Moreover, He to this extent
 raises his disciples from the dead, in so far as they follow the example
 of His own life and death. It would not be difficult to explain the
@@ -118,7 +118,7 @@ says of Himself is, that He is the Temple
 
 <span id="page_304">p. 304</span>
 
-of God, <span id="fr_21"></span>[1](#fn_21) because, as I said before,
+of God, <span id="fr_21"></span>[1](#fn_21.md) because, as I said before,
 God had specially manifested Himself in Christ. John, wishing to express
 the same truth more forcibly, said that "the Word was made flesh." But I
 have said enough on the subject.
@@ -127,14 +127,14 @@ have said enough on the subject.
 
 ### Footnotes
 
-<span id="fn_19"></span>[302:1](corr20.htm#fr_19) Romans ix. 21.
+<span id="fn_19"></span>[302:1](corr20.htm#fr_19.md) Romans ix. 21.
 
-<span id="fn_20"></span>[303:1](corr20.htm#fr_20) Matt. viii. 22; Luke
+<span id="fn_20"></span>[303:1](corr20.htm#fr_20.md) Matt. viii. 22; Luke
 ix. 60.
 
-<span id="fn_21"></span>[304:1](corr20.htm#fr_21) John ii. 19. Cf. Matt.
+<span id="fn_21"></span>[304:1](corr20.htm#fr_21.md) John ii. 19. Cf. Matt.
 xxvi. 60; Mark xiv. 58.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXIV. From Oldenburg](corr21)
+[Next: Letter XXIV. From Oldenburg](corr21.md)

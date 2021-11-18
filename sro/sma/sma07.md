@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma06)  [Next](sma08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma06)  [Next](sma08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -48,13 +48,13 @@ they were named the White (*Mubeiyazah*),
 
 <span id="page_67">p. 67</span>
 
-and the Red (*Muhammeré* <span id="fr_29"></span>[\*](#fn_29)); but they
+and the Red (*Muhammeré* <span id="fr_29"></span>[\*](#fn_29).md); but they
 could with ease assume any guise, even that of the Christian monk, to
 accomplish their murderous designs.
 
 The gradations in the society were these. At the head of it stood Hassan
 himself and his successors, with the title of Seydna, or Sidna <span
-id="fr_30"></span>[†](#fn_30) (*Our Lord*), and Sheikh-al-Jebal
+id="fr_30"></span>[†](#fn_30) (*Our Lord*.md), and Sheikh-al-Jebal
 (*Mountain Chief*), a name derived from that of the territory which was
 the chief seat of the power of the society. This last, owing to the
 ambiguity of the word sheikh (which, like seigneur and signore,
@@ -62,7 +62,7 @@ signifies either an elder or chief), has been ridiculously translated by
 the early European historians *Old Man of the Mountain*. Under him were
 the Dai-’l-Kebir (*Great Missionaries*), of which there were three, for
 the three provinces of Jebal, Kuhistan and Syria <span
-id="fr_31"></span>[‡](#fn_31). Then came the Dais, next the Refeek, then
+id="fr_31"></span>[‡](#fn_31.md). Then came the Dais, next the Refeek, then
 the Fedavee, and lastly the Lazik, or aspirants.
 
 Hassan was perfectly aware that without the compressing power of
@@ -136,7 +136,7 @@ is not repugnant to the spirit of Soofeïsm.
 This last doctrine, which is a kind of mystic Pantheism, viewing God in
 all and all in God, may produce, like fatalism, piety or its opposite.
 In the eyes of one who thus views God, all the distinctions
-[between](errata.htm#3) vice and virtue become fleeting and uncertain,
+[between](errata.htm#3.md) vice and virtue become fleeting and uncertain,
 and crime may gradually lose its atrocity, and be regarded as only a
 mean for the production of a good end. That the Ismaïlite Fedavee
 murdered innocent persons without compunction, when ordered so to do by
@@ -180,7 +180,7 @@ It is a curious question how Hassan Sabah contrived
 to infuse into the Fedavee the recklessness of life, joined with the
 spirit of implicit obedience to the commands of their superiors, which
 they so invariably displayed. We are told <span
-id="fr_32"></span>[\*](#fn_32) that the system adopted for this purpose
+id="fr_32"></span>[\*](#fn_32.md) that the system adopted for this purpose
 was to obtain, by purchase or otherwise, from their parents, stout and
 healthy children. These were reared up in implicit obedience to the will
 of the Sheikh, and, to fit them for their future office, carefully
@@ -215,7 +215,7 @@ whom he calls Mulehetites (that is, Moolahid), and their prince the Old
 Man of the Mountain. He describes correctly the nature of this society,
 and gives the following romantic narrative of the mode employed by that
 prince to infuse the principle of implicit obedience into the minds of
-his followers <span id="fr_33"></span>[\*](#fn_33).
+his followers <span id="fr_33"></span>[\*](#fn_33.md).
 
 "In a beautiful valley," says he, "enclosed between two lofty mountains,
 he had formed a luxurious garden, stored with every delicious fruit and
@@ -296,7 +296,7 @@ proof.
 In the Siret-al-Hakem (*Memoirs of Hakem*), a species of Arabian
 historic romance, the following account of the gardens at Massyat, the
 chief seat of the Assassins in Syria, was discovered by Hammer <span
-id="fr_34"></span>[\*](#fn_34):--
+id="fr_34"></span>[\*](#fn_34.md):--
 
 "Our narrative now returns to Ismaïl the chief of the Ismaïlites. He
 took with him his people laden with gold, silver, pearls, and other
@@ -308,7 +308,7 @@ sultan of Egypt at Tripolis, they proceeded to Massyat, when
 <span id="page_75">p. 75</span>
 
 the inhabitants of the castles and fortresses assembled to enjoy
-themselves, along with the chief [Ismaïl](errata.htm#4) and his people.
+themselves, along with the chief [Ismaïl](errata.htm#4.md) and his people.
 They put on the rich dresses with which the sultan had supplied them,
 and adorned the castle of Massyat with everything that was good and
 fine. Ismaïl made his entry into Massyat with the Devoted (*Fedavee*),
@@ -357,7 +357,7 @@ and seat thyself near me.' It is thus that Ismail made those whom he had
 chosen sit near him on the sofa and drink. He then spoke to them of the
 great and excellent qualities of the imam Ali, of his bravery, his
 nobleness, and his generosity, until they fell asleep, overcome by the
-power of the *benjeh* <span id="fr_35"></span>[\*](#fn_35) which he had
+power of the *benjeh* <span id="fr_35"></span>[\*](#fn_35.md) which he had
 given them, and which never failed to produce its effects in less than a
 quarter of an hour, so that they fell down as if they were inanimate. As
 soon as the man had fallen the chief Ismail arose, and, taking him up,
@@ -436,7 +436,7 @@ furnished by the learned and venerable Sheikh Abd-ur-Rahman (*Servant of
 the Compassionate*, *i.e.*, *of God*) Ben Ebubekr Al-Jeriri of Damascus,
 in the twenty-fourth chapter of his work entitled "A Choice Book for
 discovering the Secrets of the Art of Imposture <span
-id="fr_36"></span>[\*](#fn_36)."
+id="fr_36"></span>[\*](#fn_36.md)."
 
 After giving some account of Sinan, the chief of the Syrian Assassins,
 whom we shall presently have occasion to mention, the sheikh proceeds to
@@ -486,7 +486,7 @@ promised to the faithful.
 But, laying aside supposition, we may observe that the very power over
 the minds of their followers ascribed to Hassan Sabah and his successors
 has been actually exercised in our own days by the chief of the
-Wahabees. Sir John Malcolm <span id="fr_37"></span>[\*](#fn_37) informs
+Wahabees. Sir John Malcolm <span id="fr_37"></span>[\*](#fn_37.md) informs
 us, from a Persian manuscript, that a few years ago one of that sect,
 who had stabbed an Arab chief near Bussora, when taken, not only refused
 to do anything towards saving his life, but, on the contrary, seemed
@@ -504,7 +504,7 @@ suspect that it has originated in some misapprehension.
 
 The following instance of the implicit obedience of the Fedavee to the
 orders of Hassan Sabah is given 'by a respectable oriental
-historian <span id="fr_38"></span>[\*](#fn_38). An ambassador from the
+historian <span id="fr_38"></span>[\*](#fn_38.md). An ambassador from the
 Sultan Malek Shah having come to Alamoot to demand the submission and
 obedience of the sheikh, Hassan received him in a hall in which he had
 assembled several of his followers. Making a sign to one youth, he said,
@@ -516,9 +516,9 @@ have seventy thousand followers who obey me after this fashion. This be
 my answer to thy master."
 
 Very nearly the same tale is told of the Assassins of Syria by a western
-writer <span id="fr_39"></span>[†](#fn_39). As Henry Count of Champagne
+writer <span id="fr_39"></span>[†](#fn_39.md). As Henry Count of Champagne
 was journeying, in the year 1194, from Palestine to Armenia <span
-id="fr_40"></span>[‡](#fn_40), his road lay through the confines of the
+id="fr_40"></span>[‡](#fn_40.md), his road lay through the confines of the
 territory of the Ismaïlites. The chief sent some persons to salute him,
 and to beg that, on his return, he would stop at, and partake of the
 hospitality of his castle. The count accepted the invitation. As he
@@ -567,7 +567,7 @@ of his enemies. I give thyself quarter; but know that I shall soon let
 thee see thy general Aboo Saj chained among my dogs." In fact, that very
 night he attacked and routed the troops of the khalif, and Aboo Saj,
 happening to fall into his hands, soon appeared chained among the
-mastiffs of the Carmathite chief <span id="fr_41"></span>[\*](#fn_41).
+mastiffs of the Carmathite chief <span id="fr_41"></span>[\*](#fn_41.md).
 
 The preceding details on the paradise of the Sheikh-al-Jebal, and his
 power over the minds of his followers, will at least help to illustrate
@@ -579,45 +579,45 @@ Assassins, as we shall henceforth designate them.
 
 ### Footnotes
 
-<span id="fn_29"></span>[67:\*](sma07.htm#fr_29) Ahmar, fem. Hamra, is
+<span id="fn_29"></span>[67:\*](sma07.htm#fr_29.md) Ahmar, fem. Hamra, is
 *red* in Arabic; hence the celebrated Moorish palace at Granada was
 called Alhambra (*Al Hamra*), *i.e.* the Red.
 
-<span id="fn_30"></span>[67:†](sma07.htm#fr_30) Hence the Spanish Cid.
+<span id="fn_30"></span>[67:†](sma07.htm#fr_30.md) Hence the Spanish Cid.
 
-<span id="fn_31"></span>[67:‡](sma07.htm#fr_31) Hammer, book ii.
+<span id="fn_31"></span>[67:‡](sma07.htm#fr_31.md) Hammer, book ii.
 
-<span id="fn_32"></span>[71:\*](sma07.htm#fr_32) Wilken, Geschichte der
+<span id="fn_32"></span>[71:\*](sma07.htm#fr_32.md) Wilken, Geschichte der
 Kreuzzüge, vol. ii
 
-<span id="fn_33"></span>[72:\*](sma07.htm#fr_33) Marsden's Translation.
+<span id="fn_33"></span>[72:\*](sma07.htm#fr_33.md) Marsden's Translation.
 
-<span id="fn_34"></span>[74:\*](sma07.htm#fr_34) Fundgruben des Orients,
+<span id="fn_34"></span>[74:\*](sma07.htm#fr_34.md) Fundgruben des Orients,
 vol. i 11.
 
-<span id="fn_35"></span>[76:\*](sma07.htm#fr_35) The Arabic name of the
+<span id="fn_35"></span>[76:\*](sma07.htm#fr_35.md) The Arabic name of the
 hyoscyamus, or henbane. Hammer conjectures that the word *benge*, or,
 with the Coptic article in the plural, *ni-benje*, is the same with the
 nepenthe of the ancients.--Fundgruben des Orients, iii. 202.
 
-<span id="fn_36"></span>[79:\*](sma07.htm#fr_36) Fundgruben des Orients,
+<span id="fn_36"></span>[79:\*](sma07.htm#fr_36.md) Fundgruben des Orients,
 vol. iv.
 
-<span id="fn_37"></span>[80:\*](sma07.htm#fr_37) History of Persia, vol.
+<span id="fn_37"></span>[80:\*](sma07.htm#fr_37.md) History of Persia, vol.
 i.
 
-<span id="fn_38"></span>[81:\*](sma07.htm#fr_38) Elmacin, Historia
+<span id="fn_38"></span>[81:\*](sma07.htm#fr_38.md) Elmacin, Historia
 Saracenica, l. iii. p. 286.
 
-<span id="fn_39"></span>[81:†](sma07.htm#fr_39) Marinus Sanutus, l. iii.
+<span id="fn_39"></span>[81:†](sma07.htm#fr_39.md) Marinus Sanutus, l. iii.
 p. x. c. 8.
 
-<span id="fn_40"></span>[81:‡](sma07.htm#fr_40) This was the Armenia in
+<span id="fn_40"></span>[81:‡](sma07.htm#fr_40.md) This was the Armenia in
 Cilicia.
 
-<span id="fn_41"></span>[83:\*](sma07.htm#fr_41) D’Herbelot, *titre*
+<span id="fn_41"></span>[83:\*](sma07.htm#fr_41.md) D’Herbelot, *titre*
 Carmath.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](sma08)
+[Next: Chapter VI](sma08.md)

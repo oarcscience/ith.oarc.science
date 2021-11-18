@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll09)  [Next](oll11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll09)  [Next](oll11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -23,11 +23,11 @@ A wild place the mountains. Distant view of Ollantay-tampu.
 attendants*.)
 
   *Rumi-ñaui*. Ah! Rumi-ñaui--Rumi-ñaui, <span
-id="fr_49"></span>[5](#fn_49)
+id="fr_49"></span>[5](#fn_49.md)
 
 <span id="page_373">p. 373</span>
 
-Thou art a fated rolling stone, <span id="fr_50"></span>[1](#fn_50)  
+Thou art a fated rolling stone, <span id="fr_50"></span>[1](#fn_50.md)  
 Escaped indeed, but quite alone,  
 And this is now thy *yarahui*.
 
@@ -88,7 +88,7 @@ Yet may it not be useful still?
 
 (*Turns again*.)
 
-When bold Ollantay's end has come. <span id="fr_51"></span>[1](#fn_51)
+When bold Ollantay's end has come. <span id="fr_51"></span>[1](#fn_51.md)
 
 \[*Exit*.
 
@@ -96,14 +96,14 @@ When bold Ollantay's end has come. <span id="fr_51"></span>[1](#fn_51)
 
 ### Footnotes
 
-<span id="fn_49"></span>[372:5](oll10.htm#fr_49) like Ollantay in his
+<span id="fn_49"></span>[372:5](oll10.htm#fr_49.md) like Ollantay in his
 appeal to the Inca, Rumi-ñaui, in the <span id="page_373">p. 373</span>
 original Quichua, has recourse to octosyllabic quatrains, the first and
 last lines rhyming, and the second and third.
 
-<span id="fn_50"></span>[373:1](oll10.htm#fr_50) *Rumi*, a stone.
+<span id="fn_50"></span>[373:1](oll10.htm#fr_50.md) *Rumi*, a stone.
 
-<span id="fn_51"></span>[374:1](oll10.htm#fr_51) Clearly, from
+<span id="fn_51"></span>[374:1](oll10.htm#fr_51.md) Clearly, from
 Rumi-ñaui's own account, the strategy of Urco Huaranca had been a
 complete and brilliant success.
 
@@ -111,6 +111,6 @@ complete and brilliant success.
 
 ------------------------------------------------------------------------
 
-[Next: Scene 3](oll11)
+[Next: Scene 3](oll11.md)
 
 </div>

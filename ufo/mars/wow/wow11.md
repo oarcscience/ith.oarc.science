@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow10)  [Next](wow12) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow10)  [Next](wow12.md) 
 
 ------------------------------------------------------------------------
 
@@ -217,4 +217,4 @@ bloodshot smoke at the first touch of day.
 ------------------------------------------------------------------------
 
 [Next: Chapter Twelve: What I Saw Of The Destruction Of Weybridge And
-Shepperton](wow12)
+Shepperton](wow12.md)

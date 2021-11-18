@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf23) [Next](bulf25) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf23) [Next](bulf25.md) 
 
 # CHAPTER XXV.
 
@@ -328,4 +328,4 @@ Those who wish to know more of Sappho and her "leap" are referred to the
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XXVI. Endymion- Orion- Aurora And Tithonus- Acis And
-Galatea.](bulf25)
+Galatea.](bulf25.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg06)  [Next](leg08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg06)  [Next](leg08.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,25 +22,25 @@ is far older,
  
 
 <span id="img_pl01"></span> [![](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 PLATE I.  
 Horus holding the Hippopotamus-fiend with chain and spear. Behind stand
 Isis and Heru Khenti-Khatti.
 
 <span id="img_pl02"></span> [![](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 PLATE II.  
 Horus driving his spear into the Hippopotamus-fiend; behind him stands
 one of his "Blacksmiths".
 
 <span id="img_pl03"></span> [![](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 PLATE III.  
 Horus driving his spear into the belly of the Hippopotamus-fiend as he
 lies on his back; behind stands on of his "Blacksmiths".
 
 <span id="img_pl04"></span> [![](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 PLATE IV.  
 Horus and Isis capturing the Hippopotamus-fiend.
 
@@ -66,7 +66,7 @@ earth, though he was old and feeble, and had probably deputed his power
 to his successor, whom the legend regards as his son.
 
 In the 363rd year of his reign Ra-Harmakhis <span
-id="fr_22"></span>[1](#fn_22) was in Nubia with his army with the
+id="fr_22"></span>[1](#fn_22.md) was in Nubia with his army with the
 intention of destroying those who had conspired against him; because of
 their conspiracy (*auu*) Nubia is called "Uaua" to this day. From Nubia
 Ra-Harmakhis sailed down the river to Edfu, where Heru-Behutet entered
@@ -101,13 +101,13 @@ crocodiles and hippopotami,
  
 
 <span id="img_pl05"></span> [![](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 PLATE V.  
 Horus standing on the back of the Hippopotamus-fiend, and spearing him
 in the presence of Isis.
 
 <span id="img_pl06"></span> [![](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
 PLATE VI.  
 The "Butcher-priest" slicing open the Hippopotamus-fiend.
 
@@ -168,22 +168,22 @@ well-armed Blacksmiths pursued them, and came up with them at the town
  
 
 <span id="img_pl07"></span> [![](tn/pl07.jpg)  
-Click to enlarge](img/pl07.jpg)  
+Click to enlarge](img/pl07.jpg.md)  
 PLATE VII.  
 Horus of Behutet and Ra-Harmakhis in a shrine.
 
 <span id="img_pl08"></span> [![](tn/pl08.jpg)  
-Click to enlarge](img/pl08.jpg)  
+Click to enlarge](img/pl08.jpg.md)  
 PLATE VIII.  
 Horus of Behutet and Harmakhis in a shrine.
 
 <span id="img_pl09"></span> [![](tn/pl09.jpg)  
-Click to enlarge](img/pl09.jpg)  
+Click to enlarge](img/pl09.jpg.md)  
 PLATE IX.  
 Ashthertet ('Ashtoreth') driving her chariot over the prostrate foe.
 
 <span id="img_pl10"></span> [![](tn/pl10.jpg)  
-Click to enlarge](img/pl10.jpg)  
+Click to enlarge](img/pl10.jpg.md)  
 PLATE X.  
 *Left*: Horus of Behutet spearing a Typhonic animal, and holding his
 prisoners with rope.  
@@ -247,13 +247,13 @@ hawk-headed staff to prevent him from coming out. In spite of this,
  
 
 <span id="img_pl11"></span> [![](tn/pl11.jpg)  
-Click to enlarge](img/pl11.jpg)  
+Click to enlarge](img/pl11.jpg.md)  
 PLATE XI.  
 Horus of Behutet and Thoth spearing human victims with the assistance of
 Isis.
 
 <span id="img_pl12"></span> [![](tn/pl12.jpg)  
-Click to enlarge](img/pl12.jpg)  
+Click to enlarge](img/pl12.jpg.md)  
 PLATE XII.  
 Horus of Behutet and Thoth spearing Set in the form of a crocodile.
 
@@ -315,7 +315,7 @@ faithfully carried out by the priests.
  
 
 <span id="img_pl13"></span> [![](tn/pl13.jpg)  
-Click to enlarge](img/pl13.jpg)  
+Click to enlarge](img/pl13.jpg.md)  
 PLATE XIII.  
 Horus of Behutet in the form of a lion slaying his foes.
 
@@ -325,10 +325,10 @@ Horus of Behutet in the form of a lion slaying his foes.
 
 ### Footnotes
 
-<span id="fn_22"></span>[xxxix:1](leg07.htm#fr_22) I.e., Ra on the
+<span id="fn_22"></span>[xxxix:1](leg07.htm#fr_22.md) I.e., Ra on the
 horizon.
 
 ------------------------------------------------------------------------
 
 [Next: Summary: V. Legend of the Birth of Horus, Son of Isis and
-Osiris.](leg08)
+Osiris.](leg08.md)

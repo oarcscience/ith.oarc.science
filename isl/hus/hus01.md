@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index)  [Shiite
-Documents](../shi)  [Index](index)  [Previous](hus00)  [Next](hus02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)  [Shiite
+Documents](../shi)  [Index](index)  [Previous](hus00)  [Next](hus02.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,4 +165,4 @@ preached and guided, and may Allah have mercy upon him when he fought
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](hus02)
+[Next: Introduction](hus02.md)

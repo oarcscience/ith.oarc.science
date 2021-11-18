@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk17)  [Next](htk19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk17)  [Next](htk19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -27,12 +27,12 @@ at Intangible Textual Heritage
 
 ### VERSE 14
 
-O KĀLĪ, spouse of Giriśa, <span id="fr_109"></span>[1](#fn_109) Thou art
-Earth, Water, Fire, Air and Ether. <span id="fr_110"></span>[2](#fn_110)
+O KĀLĪ, spouse of Giriśa, <span id="fr_109"></span>[1](#fn_109.md) Thou art
+Earth, Water, Fire, Air and Ether. <span id="fr_110"></span>[2](#fn_110.md)
 Thou art all. Thou art one and beneficent. <span
-id="fr_111"></span>[3](#fn_111) What can be said in praise of Thee, O
+id="fr_111"></span>[3](#fn_111.md) What can be said in praise of Thee, O
 Mother? Of Thy mercy show Thy favour towards me, helpless as I am. By
-Thy grace may I never be reborn. <span id="fr_112"></span>[4](#fn_112)
+Thy grace may I never be reborn. <span id="fr_112"></span>[4](#fn_112.md)
 
 COMMENTARY
 
@@ -85,21 +85,21 @@ On account of liability to rebirth despite Sādhana.
 
 ### Footnotes
 
-<span id="fn_109"></span>[76:1](htk18.htm#fr_109) <span id="page_77">p.
+<span id="fn_109"></span>[76:1](htk18.htm#fr_109.md) <span id="page_77">p.
 77</span> The Lord who inhabits the mountain, whereas, *Giriśa* is Lord
 thereof.
 
-<span id="fn_110"></span>[76:2](htk18.htm#fr_110) Liṅgapurāṇa says, Devī
+<span id="fn_110"></span>[76:2](htk18.htm#fr_110.md) Liṅgapurāṇa says, Devī
 becomes matter' (*Kṣetra*). She is *Kṣetrasvarūpā*, that is, the field
 or matter which is known by the soul (*Kṣetrajña*). See Lalitā
 Sahasranāma (fourth hundred) for the Brahman who creates the visible
 world Itself enters into it (*Tat sṛṣtvā tād evānuprāviśat*.)
 
-<span id="fn_111"></span>[76:3](htk18.htm#fr_111) *Kalyāṇi*. According
+<span id="fn_111"></span>[76:3](htk18.htm#fr_111.md) *Kalyāṇi*. According
 to the Padma-Purāṇa, Devī is worshipped as *Kalyāṇi* in the Malaya
 Mountain.
 
-<span id="fn_112"></span>[76:4](htk18.htm#fr_112) *Bhavaṁ anu na bhūyān
+<span id="fn_112"></span>[76:4](htk18.htm#fr_112.md) *Bhavaṁ anu na bhūyān
 mama januh*, that is, liberated. The Śyāmārahasya reads *Bhavaṁ
 ananubhūyāt*, using *bhavaṁ* as meaning *duhkhaṁ* (pain), arising from
 *bhava* (the world) (K. B.).
@@ -108,6 +108,6 @@ ananubhūyāt*, using *bhavaṁ* as meaning *duhkhaṁ* (pain), arising from
 
 ------------------------------------------------------------------------
 
-[Next: Verse 15](htk19)
+[Next: Verse 15](htk19.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bups09)  [Next](bups11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bups09)  [Next](bups11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4KM0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4KM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Psalms*, by S. Yamabe and L. Adams Beck, \[1921\], at
 Intangible Textual Heritage
 
@@ -72,4 +72,4 @@ all our sin."
 ------------------------------------------------------------------------
 
 [Next: Of Thanksgiving for Vasubandh, the Great Teacher of
-India](bups11)
+India](bups11.md)

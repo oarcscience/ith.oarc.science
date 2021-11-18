@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof35)  [Next](sof37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof35)  [Next](sof37.md) 
 
 ------------------------------------------------------------------------
 
@@ -707,4 +707,4 @@ principle of Darkness, and the world.
 
 ------------------------------------------------------------------------
 
-[Next: Footnotes](sof37)
+[Next: Footnotes](sof37.md)

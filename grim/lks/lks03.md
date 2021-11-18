@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks02)  [Next](lks04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks02)  [Next](lks04.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ I am not concerned to deny the objective reality of all "*magical*"
 phenomena; if they are illusions, they are at least as real as many
 unquestioned facts of daily life; and, if we follow Herbert Spencer,
 they are at least evidence of some cause. <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 Now, this fact is our base. What is the cause of my illusion of seeing a
 spirit in the triangle of Art?
@@ -57,7 +57,7 @@ brain. By assuming higher dimensions of space, we can assimilate this
 fact to Realism; but we have no need to take so much trouble.
 
 This being true for the ordinary Universe, that all sense-impressions
-are dependent on changes in the brain, <span id="fr_4"></span>[2](#fn_4)
+are dependent on changes in the brain, <span id="fr_4"></span>[2](#fn_4.md)
 we must include illusions, which are after all sense-impressions as much
 as "realities" are, in the class of "phenomena dependent on
 brain-changes."
@@ -94,7 +94,7 @@ their summary (6) is of unusual kind. Its projection back into the
 apparently phenomenal world is therefore unusual.
 
 Herein then consists the reality of the operations and effects of
-ceremonial magic, <span id="fr_5"></span>[1](#fn_5) and I conceive that
+ceremonial magic, <span id="fr_5"></span>[1](#fn_5.md) and I conceive that
 the apology is ample, as far as the "effects" refer only to those
 phenomena which appear to the magician himself, the appearance of the
 spirit, his conversation, possible shocks from imprudence, and so on,
@@ -207,17 +207,17 @@ Boleskine House,
 
 ### Footnotes
 
-<span id="fn_3"></span>[10:1](lks03.htm#fr_3) This, incidentally, is
+<span id="fn_3"></span>[10:1](lks03.htm#fr_3.md) This, incidentally, is
 perhaps the greatest argument we possess, pushed to its extreme, against
 the Advaitist theories.
 
-<span id="fn_4"></span>[10:2](lks03.htm#fr_4) Thought is a secretion of
+<span id="fn_4"></span>[10:2](lks03.htm#fr_4.md) Thought is a secretion of
 the brain (Weissmann). Consciousness is a function of the brain
 (Huxley).
 
-<span id="fn_5"></span>[11:1](lks03.htm#fr_5) Apart from its value in
+<span id="fn_5"></span>[11:1](lks03.htm#fr_5.md) Apart from its value in
 obtaining one-pointedness.
 
 ------------------------------------------------------------------------
 
-[Next: Preliminary Definition Of Magic](lks04)
+[Next: Preliminary Definition Of Magic](lks04.md)

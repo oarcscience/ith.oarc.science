@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg67)  [Next](cdg69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg67)  [Next](cdg69.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ ZEDLER, UNIVERSAL LEXICON.</span>
 
 ------------------------------------------------------------------------
 
-[Next: FFF. Karoli Magni Et Ludovici Pii Christioniss:--Capitula](cdg69)
+[Next: FFF. Karoli Magni Et Ludovici Pii Christioniss:--Capitula](cdg69.md)

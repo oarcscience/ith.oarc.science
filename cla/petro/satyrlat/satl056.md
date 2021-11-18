@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat09.htm#LVI)  [Previous](satl055) 
-[Next](satl057) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat09.htm#LVI)  [Previous](satl055.md) 
+[Next](satl057.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ meae.
 
 ------------------------------------------------------------------------
 
-[Next: LVII](satl057)
+[Next: LVII](satl057.md)

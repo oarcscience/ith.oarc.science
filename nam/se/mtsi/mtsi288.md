@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi287)  [Next](mtsi289) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi287)  [Next](mtsi289.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ bark through them and hung them about his neck.
 
 Now the Fawn walked along in front of some other Wolves singing,
 "Yaha-gonega~~l~~ga~~l~~ tsanåndēc wī~~l~~wī~~l~~ tsanåndēc
-compcomp." <span id="fr_85"></span>[1](#fn_84) When they heard him the
+compcomp." <span id="fr_85"></span>[1](#fn_84.md) When they heard him the
 people asked him what he was saying in his song, and he answered that he
 was singing about wearing his own bones. They thought it was all right,
 and he started on again. When he got a short distance away, however, he
@@ -118,9 +118,9 @@ husband's eyes, and that is what caused the Terrapin's eyes to be red.
 
 ### Footnotes
 
-<span id="fn_84"></span>[250:1](mtsi288.htm#fr_85) These words are
+<span id="fn_84"></span>[250:1](mtsi288.htm#fr_85.md) These words are
 probably intended for Creek, yaha being the word for "wolf."
 
 ------------------------------------------------------------------------
 
-[Next: 24. Terrapin and Deer](mtsi289)
+[Next: 24. Terrapin and Deer](mtsi289.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo05)  [Next](sdo07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo05)  [Next](sdo07.md) 
 
 ------------------------------------------------------------------------
 
@@ -282,4 +282,4 @@ his Mentor may prescribe before he can proceed with his undertaking.
 
 ------------------------------------------------------------------------
 
-[Next: Instruction Of A Shaman](sdo07)
+[Next: Instruction Of A Shaman](sdo07.md)

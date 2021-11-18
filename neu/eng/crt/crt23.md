@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt22)  [Next](crt24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt22)  [Next](crt24.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ brothers-in-arms.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter First](crt24)
+[Next: Chapter First](crt24.md)

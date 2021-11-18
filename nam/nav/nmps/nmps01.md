@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](nmps00)  [Next](nmps02) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](nmps00)  [Next](nmps02.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,9 +58,9 @@ American](../../index)  [Navajo](../index)  [Index](index) 
 
 ### Footnotes
 
-<span id="fn_0"></span>[:1](#fr_0) This paper may be cited as Univ.
+<span id="fn_0"></span>[:1](#fr_0.md) This paper may be cited as Univ.
 Calif. Publ. Am. Arch. Ethn., Vol. 5, No. 2.
 
 ------------------------------------------------------------------------
 
-[Next: Alphabet.](nmps02)
+[Next: Alphabet.](nmps02.md)

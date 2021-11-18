@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml51)  [Next](yml53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml51)  [Next](yml53.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ squashes, so I revived.
 
 ------------------------------------------------------------------------
 
-[Next: Suawaka](yml53)
+[Next: Suawaka](yml53.md)

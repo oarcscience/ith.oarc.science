@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar04)  [Next](pktar06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar04)  [Next](pktar06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Hierophant
 
 <span id="img_ar05"></span> <span align="CENTER"> [![](tn/ar05.jpg)  
-Click to enlarge](img/ar05.jpg)</span>
+Click to enlarge](img/ar05.jpg.md)</span>
 
 He wears the triple crown and is seated between two pillars, but they
 are not those of the Temple which is guarded by the High Priestess. In
@@ -55,4 +55,4 @@ expression.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Lovers](pktar06)
+[Next: VI. The Lovers](pktar06.md)

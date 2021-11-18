@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh29)  [Next](ulh31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh29)  [Next](ulh31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -38,13 +38,13 @@ This they did with no instrumental accompaniment:
 
 <div style="margin-left: 32px">
 
-He ala kai olohia, <span id="fr_400"></span>[a](#fn_387)  
+He ala kai olohia, <span id="fr_400"></span>[a](#fn_387.md)  
 He hiwahiwa na ka la’i luahine,  
 He me’ aloha na’u ka makani hanai-loli, <span
-id="fr_401"></span>[b](#fn_388)  
+id="fr_401"></span>[b](#fn_388.md)  
 E uwe ana i ke kai pale iliahi.  
 5 Kauwá ke aloha i na lehua o Kaana. <span
-id="fr_402"></span>[c](#fn_389)  
+id="fr_402"></span>[c](#fn_389.md)  
 Pomaikai au i kou aloha e noho nei;  
 Ka haluku wale no ia a ka waimaka,  
 Me he makamaka puka a la  
@@ -106,7 +106,7 @@ Ho’i ka ena a ka makani;
 5 Noho ka la’i i ka malino--  
 Makani ua ha-aó;  
 Ko ke au i hale, ea.  
-Punawai o Maná, <span id="fr_403"></span>[a](#fn_390)  
+Punawai o Maná, <span id="fr_403"></span>[a](#fn_390.md)  
 Wai ola na ke kupa  
 10 A ka ilio naná,  
 Hae, nanahu i ke kai;  
@@ -119,11 +119,11 @@ Ka pua o ka iliau,
 
 <div style="margin-left: 32px">
 
-Ka ohai o Mapépe, <span id="fr_404"></span>[a](#fn_391)  
+Ka ohai o Mapépe, <span id="fr_404"></span>[a](#fn_391.md)  
 15 Ka moena we’u-we’u,  
 I ulana ia e ke A’e,  
 Ka naku loloa.  
-Hea mai o Kawelo-hea, <span id="fr_405"></span>[b](#fn_392)  
+Hea mai o Kawelo-hea, <span id="fr_405"></span>[b](#fn_392.md)  
 Nawai la, e, ke kapu?  
 20 No Náhi-éna-éna.  
 Ena na pua i ka wai,  
@@ -173,20 +173,20 @@ motive to the mele.
 
 ### Footnotes
 
-<span id="fn_387"></span>[207:a](ulh30.htm#fr_400) *Kai olohia*. A calm
+<span id="fn_387"></span>[207:a](ulh30.htm#fr_400.md) *Kai olohia*. A calm
 and tranquil sea. This expression has gained a poetic vogue that almost
 makes it pass current as a single word, meaning tranquillity, calmness
 of mind. As thus explained. it is here translated by the expression
 "heart's-ease."
 
-<span id="fn_388"></span>[207:b](ulh30.htm#fr_401) *Makani hanai-loli*.
+<span id="fn_388"></span>[207:b](ulh30.htm#fr_401.md) *Makani hanai-loli*.
 A wind so gentle as not to prevent the bêche de mer (*loli*),
 sea-anemones, and other marine slugs from coming out of their holes to
 feed. A similar figure is used in the next line in the expression *kai
 pale iliahi*. The thought is that the calmness of the ocean invites one
 to strip and plunge in for a bath.
 
-<span id="fn_389"></span>[207:c](ulh30.htm#fr_402) *Kauwá ke aloha i na
+<span id="fn_389"></span>[207:c](ulh30.htm#fr_402.md) *Kauwá ke aloha i na
 lehua o Kaana*. Kaana is said to be a hill on the road from Keaau to
 Olaa, a spot where travelers were wont to rest and where they not
 infrequently made up wreaths of the scarlet lehua bloom which there
@@ -197,15 +197,15 @@ weary traveler, halting at Kaana, employed his time of rest in plaiting
 flowers into a wreath for some loved one, there would be truth as well
 as poetry in the saying, "Love slaves for the lehuas of Kaana."
 
-<span id="fn_390"></span>[208:a](ulh30.htm#fr_403) *Punawai o Maná*. A
+<span id="fn_390"></span>[208:a](ulh30.htm#fr_403.md) *Punawai o Maná*. A
 spring of water at Honuapo, Hawaii, which bubbled up at such a level
 that the ocean covered it at high tide.
 
-<span id="fn_391"></span>[209:a](ulh30.htm#fr_404) *Ka ohai o Mapépe*. A
+<span id="fn_391"></span>[209:a](ulh30.htm#fr_404.md) *Ka ohai o Mapépe*. A
 beautiful flowering shrub, also spoken of as *ka ohai o Papi’o-huli*,
 said to have been brought from Kahiki by Namaka-o-kaha’i.
 
-<span id="fn_392"></span>[209:b](ulh30.htm#fr_405) *Kawelo-hea*. A
+<span id="fn_392"></span>[209:b](ulh30.htm#fr_405.md) *Kawelo-hea*. A
 blowhole or spouting horn, also at Honuapo, through which the ocean at
 certain times sent up a column of spray or of water. After the volcanic
 disturbance of 1868 this spouting horn ceased action. The rending force
@@ -214,4 +214,4 @@ channel through which the ocean had forced its way.
 
 ------------------------------------------------------------------------
 
-[Next: XXVII.--The Hula Kieléi](ulh31)
+[Next: XXVII.--The Hula Kieléi](ulh31.md)

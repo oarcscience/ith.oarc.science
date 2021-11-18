@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe322)  [Next](prwe324) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe322)  [Next](prwe324.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ heard, and there were no more demands for the teeth.
 
 ------------------------------------------------------------------------
 
-[Next: The Spaniard at Penryn](prwe324)
+[Next: The Spaniard at Penryn](prwe324.md)

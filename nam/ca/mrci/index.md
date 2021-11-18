@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,15 +23,15 @@ American](../../index)  [California](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mrci00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mrcitxt.zip)
+[Contents](#contents)    [Start Reading](mrci00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mrcitxt.zip.md)
 
 ------------------------------------------------------------------------
 
 This is an 'interrogatorio,' a survey taken in 1811 by the Spanish
 government of Mexico regarding the status of the Native Californians at
 each mission in Alta California, translated and heavily annotated by
-A.L. Kroeber. Along with [Boscana's account](../bosc/index), this one of
+A.L. Kroeber. Along with [Boscana's account](../bosc/index.md), this one of
 the few glimpses we have of the Native Californians, when pre-contact
 individuals were still alive. The accounts vary from friar to friar, but
 some are very detailed and mention completely unknown placenames and
@@ -40,28 +40,28 @@ beliefs, mythology, language, dance, music and ethnobotany.
 
 Most notably, this includes one of the few published accounts of the
 elusive Esselen people, who inhabited the Big Sur coast (see [San
-Carlos](mrci12)). Herein is recorded probably the only remaining
+Carlos](mrci12).md). Herein is recorded probably the only remaining
 complete sentence in Esselen: *egenoch lalucuimxs talogpami ege salegua
 lottos tahezapami laxlachis*, "The men who shoot well with a bow are
 esteemed and well liked."
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mrci00)  
-[Introduction](mrci01)  
-[San Diego](mrci02)  
-[San Luis Rey](mrci03)  
-[San Juan Capistrano](mrci04)  
-[San Gabriel](mrci05)  
-[San Fernando](mrci06)  
-[Santa Barbara](mrci07)  
-[Santa Ynez](mrci08)  
-[San Luis Obispo](mrci09)  
-[San Miguel](mrci10)  
-[San Antonio](mrci11)  
-[San Carlos](mrci12)  
-[San Juan Bautista](mrci13)  
-[Santa Cruz](mrci14)  
-[Santa Clara](mrci15)  
-[San Jose](mrci16)  
-[San Francisco](mrci17)  
+<span id="contents"></span> [Title Page](mrci00.md)  
+[Introduction](mrci01.md)  
+[San Diego](mrci02.md)  
+[San Luis Rey](mrci03.md)  
+[San Juan Capistrano](mrci04.md)  
+[San Gabriel](mrci05.md)  
+[San Fernando](mrci06.md)  
+[Santa Barbara](mrci07.md)  
+[Santa Ynez](mrci08.md)  
+[San Luis Obispo](mrci09.md)  
+[San Miguel](mrci10.md)  
+[San Antonio](mrci11.md)  
+[San Carlos](mrci12.md)  
+[San Juan Bautista](mrci13.md)  
+[Santa Cruz](mrci14.md)  
+[Santa Clara](mrci15.md)  
+[San Jose](mrci16.md)  
+[San Francisco](mrci17.md)  

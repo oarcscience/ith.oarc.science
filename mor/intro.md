@@ -1,6 +1,6 @@
-[Index](index)
+[Index](index.md)
 
-[Start of text: 1 Nephi](book00)
+[Start of text: 1 Nephi](book00.md)
 
 ------------------------------------------------------------------------
 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo41)  [Next](sdo43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo41)  [Next](sdo43.md) 
 
 ------------------------------------------------------------------------
 
@@ -190,4 +190,4 @@ by the Gods.
 
 ------------------------------------------------------------------------
 
-[Next: Rites of the Buffalo Skull](sdo43)
+[Next: Rites of the Buffalo Skull](sdo43.md)

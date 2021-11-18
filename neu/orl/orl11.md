@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl10)  [Next](orl12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl10)  [Next](orl12.md) 
 
 ------------------------------------------------------------------------
 
@@ -951,4 +951,4 @@ What chanced, and may be heard in future lay.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 12](orl12)
+[Next: Canto 12](orl12.md)

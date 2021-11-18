@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](ycw04)  [Next](ycw06) 
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](ycw04)  [Next](ycw06.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,9 +30,9 @@ render them easily recognizable. For all we know the passages may be a
 later addition which has crept into the text, but even then, of course,
 they must be older than the commentaries belonging to them in which the
 stories alluded to are told. For further details see the Chinese
-Commentary 3-6, entitled "A Good Judge," [CC4](ycw04.htm#xref_CC4)
-"Humaneness Rewarded," [CC5](ycw04.htm#xref_CC5) "Saving Many Lives,"
-and "The Double-Headed Snake." [CC6](ycw04.htm#xref_CC6)
+Commentary 3-6, entitled "A Good Judge," [CC4](ycw04.htm#xref_CC4.md)
+"Humaneness Rewarded," [CC5](ycw04.htm#xref_CC5.md) "Saving Many Lives,"
+and "The Double-Headed Snake." [CC6](ycw04.htm#xref_CC6.md)
 
 <span id="xref_4"></span>4. "Bliss of happiness" is a Buddhist term and
 its Sanskrit original is probably *punyakshetra*.
@@ -182,4 +182,4 @@ translated by "angel."
 
 ------------------------------------------------------------------------
 
-[Next: Index.](ycw06)
+[Next: Index.](ycw06.md)

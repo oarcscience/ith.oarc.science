@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim68)  [Next](sim70) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim68)  [Next](sim70.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,4 +167,4 @@ brave man, and here is where I live." Then he sank out of sight.
 
 ------------------------------------------------------------------------
 
-[Next: The Great Snake Battle](sim70)
+[Next: The Great Snake Battle](sim70.md)

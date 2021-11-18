@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy04)  [Next](phy06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy04)  [Next](phy06.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 
 |                     |
 |---------------------|
-| ![O](img/00701.jpg) |
+| ![O](img/00701.jpg.md) |
 
 NE summer evening Kitty was seated as usual under the shade of the
 fuchsia trees at the cottage door, her delicate fingers busy with the
@@ -188,4 +188,4 @@ curds-and-whey), for the making of which in perfection Kitty was famous.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](phy06)
+[Next: Chapter III](phy06.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut42)  [Next](hut44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut42)  [Next](hut44.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XL.
 
-### Formula of Medicine for Going in Dangerous Places with a Canoe. <span id="fr_86"></span>[1](#fn_86)
+### Formula of Medicine for Going in Dangerous Places with a Canoe. <span id="fr_86"></span>[1](#fn_86.md)
 
 <span id="page_315">p. 315</span>
 
@@ -39,9 +39,9 @@ boat."
 
 ### Footnotes
 
-<span id="fn_86"></span>[314:1](hut43.htm#fr_86) Told at Hupa, December
+<span id="fn_86"></span>[314:1](hut43.htm#fr_86.md) Told at Hupa, December
 1901, by Emma Lewis.
 
 ------------------------------------------------------------------------
 
-[Next: XLI. Formula of Medicine for Going Among Rattlesnakes](hut44)
+[Next: XLI. Formula of Medicine for Going Among Rattlesnakes](hut44.md)

@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](tsg07)  [Next](tsg09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](tsg07)  [Next](tsg09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE91S/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE91S/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Syrian Goddess*, by Lucian, tr. by Herbert A. Strong and John
 Garstang, \[1913\], at Intangible Textual Heritage
 
@@ -72,7 +72,7 @@ has much the same name, being called Pambouk Calasi (the cotton castle).
 The Tables make it twenty-four miles distant from Zeuma on the Euphrates
 and from Ceciliana: They place it also seventy-two miles from Berya,
 though this is not above fifty from Aleppo. One of the Syrian names of
-this place was Magog; <span id="fr_148"></span>[1](#fn_148) which was a
+this place was Magog; <span id="fr_148"></span>[1](#fn_148.md) which was a
 city of the Cyrrhestica, and is situated at the south end of a long
 vale, which is about a quarter of a mile broad, watered
 
@@ -160,7 +160,7 @@ By COLONEL CHESNEY. London, 1850. Vol. I., Ch. XVIII., pp. 420 and 421.
 of Kal-at-en-Nejm commands the remains of the great Zeugma leading to
 Seroug, Haran, etc., and 11 miles directly south by west from thence on
 four hills, are the extensive remains of the castle and town of Kara
-Bambuche, or Buyuk Munbedj, <span id="fr_149"></span>[1](#fn_149) which
+Bambuche, or Buyuk Munbedj, <span id="fr_149"></span>[1](#fn_149.md) which
 contains some fine excavations near the river, and also a Zeugma, but in
 a more dilapidated state, being without the slopes which, when passing
 at Kal-at-en-Nejm, served for landing places at different heights of the
@@ -176,17 +176,17 @@ deprived of running water, but likewise
 
 of every other advantage which was likely to create and preserve a place
 of importance. Yet we know that the Syrian city of Ninus Vetus  <span
-id="fr_150"></span>[1](#fn_150) flourished under the name of Bambyce
- <span id="fr_151"></span>[2](#fn_151) and subsequently of
-Hierapolis, <span id="fr_152"></span>[3](#fn_152) or the Sacred City of
-the Greeks, <span id="fr_153"></span>[4](#fn_153) and that it contained
+id="fr_150"></span>[1](#fn_150.md) flourished under the name of Bambyce
+ <span id="fr_151"></span>[2](#fn_151.md) and subsequently of
+Hierapolis, <span id="fr_152"></span>[3](#fn_152.md) or the Sacred City of
+the Greeks, <span id="fr_153"></span>[4](#fn_153.md) and that it contained
 the rich temple which was plundered by Crassus; <span
-id="fr_154"></span>[5](#fn_154) finally it bore the name of Munbedj
- <span id="fr_155"></span>[6](#fn_155) or Bambuche, and had a succession
+id="fr_154"></span>[5](#fn_154.md) finally it bore the name of Munbedj
+ <span id="fr_155"></span>[6](#fn_155.md) or Bambuche, and had a succession
 of sovereigns in the 5th century of the Hijrah <span
-id="fr_156"></span>[7](#fn_156). The ancient city was near the eastern
+id="fr_156"></span>[7](#fn_156.md). The ancient city was near the eastern
 extremity of Commagene, or Euphratensis, which had Samosat at the
-opposite extremity. <span id="fr_157"></span>[8](#fn_157)
+opposite extremity. <span id="fr_157"></span>[8](#fn_157.md)
 
 Some ruined mosques and square Saracenic towers, with the remains of its
 surrounding walls and ditch, marked the limits of the Muslim city;
@@ -195,13 +195,13 @@ other ancient remains the sculptured ruins of an acropolis, and those of
 two temples. Of the smaller, the enclosure and portions of seven columns
 remain; but it seems to possess little interest compared with the
 larger, which may have been that of the Assyrian and Phœnician
-Astarte, <span id="fr_158"></span>[9](#fn_158) or Astroarche (queen of
+Astarte, <span id="fr_158"></span>[9](#fn_158.md) or Astroarche (queen of
 stars), which afterwards
 
 <span id="page_97">p. 97</span>
 
-became the Syrian Atargatis, <span id="fr_159"></span>[1](#fn_159) or
-Venus Decerto. <span id="fr_160"></span>[2](#fn_160) Amongst the remains
+became the Syrian Atargatis, <span id="fr_159"></span>[1](#fn_159.md) or
+Venus Decerto. <span id="fr_160"></span>[2](#fn_160.md) Amongst the remains
 of the latter are some fragments of massive architecture, not unlike the
 Egyptian, and 11 arches from one side of a square paved court, over
 which are scattered the shafts of columns and capitals displaying the
@@ -216,52 +216,52 @@ character.
 
 ### Footnotes
 
-<span id="fn_148"></span>[92:1](tsg08.htm#fr_148) Caele habet—Bambycen,
+<span id="fn_148"></span>[92:1](tsg08.htm#fr_148.md) Caele habet—Bambycen,
 quae alio nomine Hierapolis vocatur, Syris vero Magog. Ibi prodigiosa
 Atargatis, Graecis autem Derceto dicta, colitur. Plin. *Nat. Hist.* V.
 19.
 
-<span id="fn_149"></span>[95:1](tsg08.htm#fr_149) Jisr Munbedj, two days
+<span id="fn_149"></span>[95:1](tsg08.htm#fr_149.md) Jisr Munbedj, two days
 from Haran. Jaubert's *Edrisi*, p. 155, tome VI.; *Recueil dc Voyages*,
 etc. Paris, 1840.
 
-<span id="fn_150"></span>[96:1](tsg08.htm#fr_150) Ammian. *Mar*., XIV.,
+<span id="fn_150"></span>[96:1](tsg08.htm#fr_150.md) Ammian. *Mar*., XIV.,
 c. viii.
 
-<span id="fn_151"></span>[96:2](tsg08.htm#fr_151) The Syrian name of the
+<span id="fn_151"></span>[96:2](tsg08.htm#fr_151.md) The Syrian name of the
 city, which the Greeks afterwards called Hierapolis. Strabo, XVI., p.
 747.
 
-<span id="fn_152"></span>[96:3](tsg08.htm#fr_152) Ammian. *Mar*., XIV.,
+<span id="fn_152"></span>[96:3](tsg08.htm#fr_152.md) Ammian. *Mar*., XIV.,
 c. viii.
 
-<span id="fn_153"></span>[96:4](tsg08.htm#fr_153) Hierapolis, or Magog,
+<span id="fn_153"></span>[96:4](tsg08.htm#fr_153.md) Hierapolis, or Magog,
 in Syriac. Plin. lib. V., c. xxiii.
 
-<span id="fn_154"></span>[96:5](tsg08.htm#fr_154) Plutarch in Crassus.
+<span id="fn_154"></span>[96:5](tsg08.htm#fr_154.md) Plutarch in Crassus.
 
-<span id="fn_155"></span>[96:6](tsg08.htm#fr_155) It was first built by
+<span id="fn_155"></span>[96:6](tsg08.htm#fr_155.md) It was first built by
 the Persians, who had a fine temple there. Muhammed Ibn Sepahi's *Clear
 Knowledge of Cities and Kingdoms*.
 
-<span id="fn_156"></span>[96:7](tsg08.htm#fr_156) Des Guignes, *His. des
+<span id="fn_156"></span>[96:7](tsg08.htm#fr_156.md) Des Guignes, *His. des
 Huns*, tome II., p. 275.
 
-<span id="fn_157"></span>[96:8](tsg08.htm#fr_157) Amm. *Mar*. XIV., c.
+<span id="fn_157"></span>[96:8](tsg08.htm#fr_157.md) Amm. *Mar*. XIV., c.
 viii.
 
-<span id="fn_158"></span>[96:9](tsg08.htm#fr_158) There were temples of
+<span id="fn_158"></span>[96:9](tsg08.htm#fr_158.md) There were temples of
 this goddess in Palestine. Jos. Ant., lib. V., c. xiv. 8; at Tyre,
 *ibid*.; against Apion, lib. I., s. 19; and at Sidon, 1. Kings, c. v.,
 and v. 33.
 
-<span id="fn_159"></span>[97:1](tsg08.htm#fr_159) Strabo, XVI., p. 748.
+<span id="fn_159"></span>[97:1](tsg08.htm#fr_159.md) Strabo, XVI., p. 748.
 
-<span id="fn_160"></span>[97:2](tsg08.htm#fr_160) Herod., lib. I., c.
+<span id="fn_160"></span>[97:2](tsg08.htm#fr_160.md) Herod., lib. I., c.
 cv., mentions the temple of Venus at Askalon, which, in Diod. *Sic*.,
 lib. II., is called that of Decerto. There was another temple of Venus,
 or Atargatis, at Joppa. Plin., lib. V., c. xiii. and xxiii.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](tsg09)
+[Next: Bibliography](tsg09.md)

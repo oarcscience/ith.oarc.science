@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph01)  [Next](sph03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph01)  [Next](sph03.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@
 ἔλθε μοι καὶ νῦν, χαλεπᾶν δὲ λῦσον  
 ἐκ μερίμναν ὄσσα δέ μοι τέλεσσαι  
 θῦμοσ ἰμμέρρει τέλεσον, σὐ δ᾽ αὔτα  
-σύμμαχοσ ἔσσο. [\[transcription\]](xlatall.htm#0)
+σύμμαχοσ ἔσσο. [\[transcription\]](xlatall.htm#0.md)
 
 Immortal Aphrodite of the shimmering thone, daughter of Zeus, weaver of
 wiles, I pray thee crush not my spirit with anguish and distress, O
@@ -109,4 +109,4 @@ Fulfil for me what I yearn to accomplish,
 
 ------------------------------------------------------------------------
 
-[Next: 2: That one seems to me the equal of the gods...](sph03)
+[Next: 2: That one seems to me the equal of the gods...](sph03.md)

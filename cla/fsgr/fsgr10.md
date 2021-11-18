@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](fsgr09)  [Next](fsgr11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](fsgr09)  [Next](fsgr11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Five Stages of Greek Religion*, by Gilbert Murray, \[1925\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 
 SALLUSTIUS  
 'ON THE GODS AND THE WORLD' <span
-id="an_fr_200_1"></span>[200\_1](fsgr10.htm#an_fn_200_1)
+id="an_fr_200_1"></span>[200\_1](fsgr10.htm#an_fn_200_1.md)
 
 ### I. *What the Disciple should be; and concerning Common Conceptions.*
 
@@ -116,7 +116,7 @@ stones and animals, is possible to sensible men, but to say that they
 are gods is the notion of madmen—except, perhaps, in the sense in which
 both the orb of the sun and the ray which comes from the orb are
 colloquially called 'the Sun'.<span
-id="an_fr_203_1"></span>[203\_1](fsgr10.htm#an_fn_203_1)
+id="an_fr_203_1"></span>[203\_1](fsgr10.htm#an_fn_203_1.md)
 
 The mixed kind of myth may be seen in many instances: for example they
 say that in a banquet of the Gods Discord threw down a golden apple; the
@@ -147,7 +147,7 @@ why she is called Mother. Attis is the creator of all things which are
 born and die; that is why he is said to have been found by the river
 Gallus. For Gallus signifies the Galaxy, or Milky Way, the point at
 which body subject to passion begins.<span
-id="an_fr_204_1"></span>[204\_1](fsgr10.htm#an_fn_204_1) Now as the
+id="an_fr_204_1"></span>[204\_1](fsgr10.htm#an_fn_204_1.md) Now as the
 primary gods make perfect the secondary, the Mother loves Attis and
 gives him celestial powers. That is what the cap means. Attis loves a
 nymph: the nymphs preside over generation, since all that is generated
@@ -267,13 +267,13 @@ water downward. Of those that move in orbits the fixed sphere goes from
 the east, the Seven from the west. (This is so for various causes,
 especially lest the creation should be imperfect owing to the rapid
 circuit of the spheres.<span
-id="an_fr_208_1"></span>[208\_1](fsgr10.htm#an_fn_208_1))
+id="an_fr_208_1"></span>[208\_1](fsgr10.htm#an_fn_208_1).md)
 
 The movement being different, the nature of the bodies must also be
 different; hence the celestial <span id="page_209">p. 209</span> body
 does not burn or freeze what it touches, or do anything else that
 pertains to the four elements.<span
-id="an_fr_209_1"></span>[209\_1](fsgr10.htm#an_fn_209_1)
+id="an_fr_209_1"></span>[209\_1](fsgr10.htm#an_fn_209_1.md)
 
 And since the Cosmos is a sphere—the zodiac proves that—and in every
 sphere 'down' means 'towards the centre', for the centre is farthest
@@ -286,7 +286,7 @@ About the Gods we have spoken already.
 ### VIII. *On Mind and Soul, and that the latter is immortal.*
 
 There is a certain force,<span
-id="an_fr_209_2"></span>[209\_2](fsgr10.htm#an_fn_209_2) less primary
+id="an_fr_209_2"></span>[209\_2](fsgr10.htm#an_fn_209_2.md) less primary
 than Being but more primary than the Soul, which draws its existence
 from Being and completes the Soul as the Sun completes the eyes. Of
 Souls some are rational and immortal, some irrational and mortal. The
@@ -305,7 +305,7 @@ fighting against the irrational soul, produces either virtue or vice,
 according as it is victorious or defeated.
 
 It must be immortal, both because it knows the gods (and nothing mortal
-knows<span id="an_fr_210_1"></span>[210\_1](fsgr10.htm#an_fn_210_1) what
+knows<span id="an_fr_210_1"></span>[210\_1](fsgr10.htm#an_fn_210_1.md) what
 is immortal), it looks down upon human affairs as though it stood
 outside them, and, like an unbodied thing, it is affected in the
 opposite way to the body. For while the body is young and fine, the soul
@@ -349,7 +349,7 @@ from this, and is called Fate, Heimarmenê, because the chain of causes
 (Heirmos) is more visible in the case of bodies; and it is for dealing
 with this Fate that the science of 'Mathematic' has been
 discovered.<span
-id="an_fr_211_1"></span>[211\_1](fsgr10.htm#an_fn_211_1)
+id="an_fr_211_1"></span>[211\_1](fsgr10.htm#an_fn_211_1.md)
 
 Therefore, to believe that human things, especially their material
 constitution, are ordered not only by celestial beings but by the
@@ -364,7 +364,7 @@ changes the goods of Fate for the worse. Just as it happens that the
 Sun, which is good for all, may be injurious to persons with ophthalmia
 or fever. Else why do the Massagetae eat their fathers, the Hebrews
 practise circumcision, and the Persians preserve rules of rank?<span
-id="an_fr_212_1"></span>[212\_1](fsgr10.htm#an_fn_212_1) Why do
+id="an_fr_212_1"></span>[212\_1](fsgr10.htm#an_fn_212_1.md) Why do
 astrologers, while calling Saturn and Mars 'malignant', proceed to make
 them good, attributing to them philosophy and royalty, generalships and
 treasures? And if they are going to talk of triangles and squares, it is
@@ -415,7 +415,7 @@ Unrighteousness.
 The virtues are produced by the right social organization and by good
 rearing and education, the vices by the opposite.
 
-### XI. *Concerning right and wrong Social Organization.*<span id="an_fr_214_1"></span>[214\_1](fsgr10.htm#an_fn_214_1)
+### XI. *Concerning right and wrong Social Organization.*<span id="an_fr_214_1"></span>[214\_1](fsgr10.htm#an_fn_214_1.md)
 
 Constitutions also depend on the tripartite nature of the Soul. The
 rulers are analogous to Reason, the soldiers to Fight, the common folk
@@ -485,7 +485,7 @@ secondary substances were 'made' by the first.
 
 Everything made is made either by art or by a physical process or
 according to some power.<span
-id="an_fr_216_1"></span>[216\_1](fsgr10.htm#an_fn_216_1) Now in art or
+id="an_fr_216_1"></span>[216\_1](fsgr10.htm#an_fn_216_1.md) Now in art or
 nature the maker must needs be prior to the made: but the maker,
 according to power, constitutes the made absolutely together with
 itself, since its power is inseparable from it; as the sun makes light,
@@ -519,7 +519,7 @@ Therefore he who makes all things by his own power makes all things
 subsist together with himself. And since his power is the greatest power
 he must needs be the maker not only of men and animals, but of Gods,
 men, and spirits.<span
-id="an_fr_217_1"></span>[217\_1](fsgr10.htm#an_fn_217_1) And the further
+id="an_fr_217_1"></span>[217\_1](fsgr10.htm#an_fn_217_1.md) And the further
 removed the First God is from our nature, the more powers there must be
 between us and him. For all things that are very far apart have many
 intermediate points between them.
@@ -555,13 +555,13 @@ This solves the question about sacrifices and other rites performed to
 the Gods. The Divine itself is without needs, and the worship is paid
 for our own benefit. The providence of the Gods reaches everywhere and
 needs only some congruity<span
-id="an_fr_218_1"></span>[218\_1](fsgr10.htm#an_fn_218_1) for its
+id="an_fr_218_1"></span>[218\_1](fsgr10.htm#an_fn_218_1.md) for its
 reception. All congruity comes about by representation <span
 id="page_219">p. 219</span> and likeness; for which reason the temples
 are made in representation of heaven, the altar of earth, the images of
 life (that is why they are made like living things), the prayers of the
 element of thought, the mystic letters<span
-id="an_fr_219_1"></span>[219\_1](fsgr10.htm#an_fn_219_1) of the
+id="an_fr_219_1"></span>[219\_1](fsgr10.htm#an_fn_219_1.md) of the
 unspeakable celestial forces, the herbs and stones of matter, and the
 sacrificial animals of the irrational life in us.
 
@@ -654,7 +654,7 @@ and to depart into nothing.
 Again, if the World is destroyed, it must needs either be destroyed
 according to Nature or against Nature. Against Nature is impossible, for
 that which is against nature is not stronger than Nature.<span
-id="an_fr_222_1"></span>[222\_1](fsgr10.htm#an_fn_222_1) If according to
+id="an_fr_222_1"></span>[222\_1](fsgr10.htm#an_fn_222_1.md) If according to
 Nature, there must be another Nature which changes the Nature of the
 World: which does not appear.
 
@@ -694,7 +694,7 @@ God.
 
 There is no need to be surprised if neither these sins nor yet others
 bring immediate punishment upon sinners. For it is not only Spirits<span
-id="an_fr_223_1"></span>[223\_1](fsgr10.htm#an_fn_223_1) who punish the
+id="an_fr_223_1"></span>[223\_1](fsgr10.htm#an_fn_223_1.md) who punish the
 soul, the Soul brings itself to judgement: and also it is not right for
 those who endure for ever to attain everything in a short time: and
 also, there is need of human virtue. If punishment followed instantly
@@ -705,7 +705,7 @@ wandering among us, some going to hot or cold places of the earth, some
 harassed by Spirits. Under all circumstances they suffer with the <span
 id="page_224">p. 224</span> irrational part of their nature, with which
 they also sinned. For its sake<span
-id="an_fr_224_1"></span>[224\_1](fsgr10.htm#an_fn_224_1) there subsist
+id="an_fr_224_1"></span>[224\_1](fsgr10.htm#an_fn_224_1.md) there subsist
 that shadowy body which is seen about graves, especially the graves of
 evil livers.
 
@@ -732,7 +732,7 @@ being made by a perfect author, ought naturally to be perfect.
 ### XXI. *That the Good are happy, both living and dead.*
 
 Souls that have lived in virtue are in general happy,<span
-id="an_fr_224_2"></span>[224\_2](fsgr10.htm#an_fn_224_2) <span
+id="an_fr_224_2"></span>[224\_2](fsgr10.htm#an_fn_224_2.md) <span
 id="page_225">p. 225</span> and when separated from the irrational part
 of their nature, and made clean from all matter, have communion with the
 gods and join them in the governing of the whole world. Yet even if none
@@ -747,7 +747,7 @@ to virtue and have achieved it.
 
 <div class="footnote">
 
-<span id="an_fn_200_1"></span>[200\_1](fsgr10.htm#an_fr_200_1) I
+<span id="an_fn_200_1"></span>[200\_1](fsgr10.htm#an_fr_200_1.md) I
 translate <u>κόσμος</u> generally as 'World', sometimes as 'Cosmos'. It
 always has the connotation of 'divine order'; <u>ψυχή</u> always 'Soul',
 to keep it distinct from <u>ζωή</u>, 'physical life', though often
@@ -760,7 +760,7 @@ animate'; <u>οὐσία</u> sometimes 'essence', sometimes 'being' (never
 
 <div class="footnote">
 
-<span id="an_fn_203_1"></span>[203\_1](fsgr10.htm#an_fr_203_1) e. g.
+<span id="an_fn_203_1"></span>[203\_1](fsgr10.htm#an_fr_203_1.md) e. g.
 when we say 'The sun is coming in through the window', or in Greek
 <u>ἐξαίφνης ἥκων ἐκ τοῦ ἡλίου</u>, Plat. *Rep.* 516 <span
 class="smcap">e</span>. This appears to mean that you can loosely apply
@@ -774,7 +774,7 @@ effects and symbols of the true spiritual Sun, as corn is of Osiris.
 
 <div class="footnote">
 
-<span id="an_fn_204_1"></span>[204\_1](fsgr10.htm#an_fr_204_1)
+<span id="an_fn_204_1"></span>[204\_1](fsgr10.htm#an_fr_204_1.md)
 <u>ἄρχεσθαι</u> Mr. L. W. Hunter, <u>ἔρχεσθαι</u> MS. Above the Milky
 Way there is no such body, only <u>σῶμα ἀπαθές</u>. Cf. Macrob. in
 *Somn. Scip.* i. 12.
@@ -783,7 +783,7 @@ Way there is no such body, only <u>σῶμα ἀπαθές</u>. Cf. Macrob. in
 
 <div class="footnote">
 
-<span id="an_fn_208_1"></span>[208\_1](fsgr10.htm#an_fr_208_1) i. e. if
+<span id="an_fn_208_1"></span>[208\_1](fsgr10.htm#an_fr_208_1.md) i. e. if
 the Firmament or Fixed Sphere moved in the same direction as the seven
 Planets, the speed would become too great. On the circular movement cf.
 Plot. *Eun.* ii. 2.
@@ -792,16 +792,16 @@ Plot. *Eun.* ii. 2.
 
 <div class="footnote">
 
-<span id="an_fn_209_1"></span>[209\_1](fsgr10.htm#an_fr_209_1) The fire
+<span id="an_fn_209_1"></span>[209\_1](fsgr10.htm#an_fr_209_1.md) The fire
 of which the heavenly bodies are made is the <u>πέμπτον σῶμα</u>,
 matter, but different from earthly matter. See p.
-[137](fsgr08.htm#page_137).
+[137](fsgr08.htm#page_137.md).
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_209_2"></span>[209\_2](fsgr10.htm#an_fr_209_2) Proclus,
+<span id="an_fn_209_2"></span>[209\_2](fsgr10.htm#an_fr_209_2.md) Proclus,
 *Elem. Theol.* xx, calls it <u>ἡ νοερὰ φύσις</u>, *Natura
 Intellectualis*. There are four degrees of existence: lowest of all,
 Bodies; above that, Soul; above all Souls, this 'Intellectual Nature';
@@ -811,28 +811,28 @@ above that, The One.
 
 <div class="footnote">
 
-<span id="an_fn_210_1"></span>[210\_1](fsgr10.htm#an_fr_210_1) i. e. in
+<span id="an_fn_210_1"></span>[210\_1](fsgr10.htm#an_fr_210_1.md) i. e. in
 the full sense of Gnôsis.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_211_1"></span>[211\_1](fsgr10.htm#an_fr_211_1) i. e.
+<span id="an_fn_211_1"></span>[211\_1](fsgr10.htm#an_fr_211_1.md) i. e.
 Astrology, dealing with the 'Celestial Bodies'.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_212_1"></span>[212\_1](fsgr10.htm#an_fr_212_1) Cf. Hdt.
+<span id="an_fn_212_1"></span>[212\_1](fsgr10.htm#an_fr_212_1.md) Cf. Hdt.
 i. 134.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_214_1"></span>[214\_1](fsgr10.htm#an_fr_214_1) \[This
+<span id="an_fn_214_1"></span>[214\_1](fsgr10.htm#an_fr_214_1.md) \[This
 section is a meagre reminiscence of Plato's discussion in *Repub.* viii.
 The interest in politics and government had died out with the loss of
 political freedom.\]
@@ -841,7 +841,7 @@ political freedom.\]
 
 <div class="footnote">
 
-<span id="an_fn_216_1"></span>[216\_1](fsgr10.htm#an_fr_216_1) <u>κατὰ
+<span id="an_fn_216_1"></span>[216\_1](fsgr10.htm#an_fr_216_1.md) <u>κατὰ
 δύναμιν</u>, secundum potentiam quandam; i. e. in accordance with some
 indwelling 'virtue' or quality.
 
@@ -849,49 +849,49 @@ indwelling 'virtue' or quality.
 
 <div class="footnote">
 
-<span id="an_fn_217_1"></span>[217\_1](fsgr10.htm#an_fr_217_1) The
+<span id="an_fn_217_1"></span>[217\_1](fsgr10.htm#an_fr_217_1.md) The
 repetition of <u>ἀνθρώπους</u> in this sentence seems to be a mistake.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_218_1"></span>[218\_1](fsgr10.htm#an_fr_218_1)
+<span id="an_fn_218_1"></span>[218\_1](fsgr10.htm#an_fr_218_1.md)
 <u>ἐπιτηδειότης.</u>
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_219_1"></span>[219\_1](fsgr10.htm#an_fr_219_1) On the
-mystic letters see above, p. [142](fsgr08.htm#page_142).
+<span id="an_fn_219_1"></span>[219\_1](fsgr10.htm#an_fr_219_1.md) On the
+mystic letters see above, p. [142](fsgr08.htm#page_142.md).
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_222_1"></span>[222\_1](fsgr10.htm#an_fr_222_1) The text
+<span id="an_fn_222_1"></span>[222\_1](fsgr10.htm#an_fr_222_1.md) The text
 here is imperfect: I have followed Mullach's correction.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_223_1"></span>[223\_1](fsgr10.htm#an_fr_223_1)
+<span id="an_fn_223_1"></span>[223\_1](fsgr10.htm#an_fr_223_1.md)
 <u>δαίμονες.</u>
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_224_1"></span>[224\_1](fsgr10.htm#an_fr_224_1) i. e.
+<span id="an_fn_224_1"></span>[224\_1](fsgr10.htm#an_fr_224_1.md) i. e.
 that it may continue to exist and satisfy justice.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_224_2"></span>[224\_2](fsgr10.htm#an_fr_224_2)
+<span id="an_fn_224_2"></span>[224\_2](fsgr10.htm#an_fr_224_2.md)
 <u>εὐδαιμονοῦσι.</u>
 
 </div>
@@ -900,6 +900,6 @@ that it may continue to exist and satisfy justice.
 
 ------------------------------------------------------------------------
 
-[Next: Index](fsgr11)
+[Next: Index](fsgr11.md)
 
 </div>

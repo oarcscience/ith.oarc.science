@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb01)  [Next](wfb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb01)  [Next](wfb03.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ in wooed.
 
 ------------------------------------------------------------------------
 
-[Next: The Lady of the Lake](wfb03)
+[Next: The Lady of the Lake](wfb03.md)

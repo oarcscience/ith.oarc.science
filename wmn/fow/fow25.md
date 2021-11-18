@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow24)  [Next](fow26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow24)  [Next](fow26.md) 
 
 ------------------------------------------------------------------------
 
@@ -351,4 +351,4 @@ This night to my bedside.'"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV: Woman's Tears](fow26)
+[Next: Chapter XXIV: Woman's Tears](fow26.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lgc23)  [Next](lgc25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lgc23)  [Next](lgc25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267T84E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267T84E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Cuchulain of Muirthemne*, by Lady Augusta Gregory, \[1902\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="page_351">p. 351</span>
 
-#### NOTE BY W.B. YEATS ON THE CONVERSATION OF CUCHULAIN AND EMER. (PAGE [23](lgc06.htm#page_23).)
+#### NOTE BY W.B. YEATS ON THE CONVERSATION OF CUCHULAIN AND EMER. (PAGE [23](lgc06.htm#page_23)..md)
 
 THIS conversation, so full of strange mythological information, is an
 example of the poet speech of ancient Ireland. One comes upon this
@@ -117,4 +117,4 @@ a little of this habit of mind caught as in the beryl stone of a Wizard?
 
 ------------------------------------------------------------------------
 
-[Next: Notes by Lady Gregory](lgc25)
+[Next: Notes by Lady Gregory](lgc25.md)

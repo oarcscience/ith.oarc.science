@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](biob05)  [Next](biob07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](biob05)  [Next](biob07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE954/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE954/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Biography of the Bible*, by Ernest Sutherland Bates, \[1937\], at
 Intangible Textual Heritage
 
@@ -157,7 +157,7 @@ translations, through a pre-Puritan puritanism, the Song of
 
 <span id="img_10400"></span> <span align="CENTER"> [![Title page of the
 Great Bible (1539)](tn/10400.jpg)  
-Click to enlarge](img/10400.jpg)  
+Click to enlarge](img/10400.jpg.md)  
 Title page of the Great Bible (1539)  
 </span>
 
@@ -165,7 +165,7 @@ Title page of the Great Bible (1539)
 
 <span id="img_10500"></span> <span align="CENTER"> [![Title page of the
 Douai Bible (1609)](tn/10500.jpg)  
-Click to enlarge](img/10500.jpg)  
+Click to enlarge](img/10500.jpg.md)  
 Title page of the Douai Bible (1609)  
 </span>
 
@@ -537,7 +537,7 @@ superior to the later Protestant versions from the literary point
 
 <span id="img_12000"></span> <span align="CENTER"> [![Original woodcut
 title page of the King James version (1611)](tn/12000.jpg)  
-Click to enlarge](img/12000.jpg)  
+Click to enlarge](img/12000.jpg.md)  
 Original woodcut title page of the King James version (1611)  
 </span>
 
@@ -546,7 +546,7 @@ Original woodcut title page of the King James version (1611)
 <span id="img_12100"></span> <span align="CENTER"> [![Original engraved
 title page used at the beginning of the New Testament in the King James
 version](tn/12100.jpg)  
-Click to enlarge](img/12100.jpg)  
+Click to enlarge](img/12100.jpg.md)  
 Original engraved title page used at the beginning of the New Testament
 in the King James version  
 </span>
@@ -805,4 +805,4 @@ understanding of the Bible that its story demands a separate chapter.
 
 ------------------------------------------------------------------------
 
-[Next: Six. The Higher Criticism](biob07)
+[Next: Six. The Higher Criticism](biob07.md)

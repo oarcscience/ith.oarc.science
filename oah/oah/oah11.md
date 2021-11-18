@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah10)  [Next](oah12) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah10)  [Next](oah12.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ atmospherean, and the etherean.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](oah12)
+[Next: Chapter IV](oah12.md)

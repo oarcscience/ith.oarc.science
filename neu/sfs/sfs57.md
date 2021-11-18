@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs56)  [Next](sfs58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs56)  [Next](sfs58.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -107,7 +107,7 @@ stump, and the hounds and bagpipes under the stump, then tucked up his
 hose and sleeves, waded into the lake, and began to shout 'Dragon!
 dragon! come out to single combat with me to-day that we may measure
 ourselves together, unless you're a woman.' <span
-id="fr_14"></span>[\*](#fn_14) The dragon called out in reply, 'I will
+id="fr_14"></span>[\*](#fn_14.md) The dragon called out in reply, 'I will
 
 <span id="page_227">p. 227</span>
 
@@ -244,9 +244,9 @@ his days.
 
 ### Footnotes
 
-<span id="fn_14"></span>[226:\*](sfs57.htm#fr_14) This is intended as an
+<span id="fn_14"></span>[226:\*](sfs57.htm#fr_14.md) This is intended as an
 insult. 'Azhdaja,' a dragon, is feminine in Servian.
 
 ------------------------------------------------------------------------
 
-[Next: XLIV. Fate](sfs58)
+[Next: XLIV. Fate](sfs58.md)

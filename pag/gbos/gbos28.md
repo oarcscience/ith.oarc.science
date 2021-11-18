@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos27)  [Next](gbos29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos27)  [Next](gbos29.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ other games can be played.
 
 ------------------------------------------------------------------------
 
-[Next: The Sabbat Rituals: Summer Solstice](gbos29)
+[Next: The Sabbat Rituals: Summer Solstice](gbos29.md)

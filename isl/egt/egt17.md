@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt16)  [Next](egt18) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt16)  [Next](egt18.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ not woven about the feet of everyone.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE STEPS OF ASCENT.](egt18)
+[Next: ON THE STEPS OF ASCENT.](egt18.md)

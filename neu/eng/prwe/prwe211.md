@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe210)  [Next](prwe212) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe210)  [Next](prwe212.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ thousands are piled in a mass, is not unusual, the sound is a loud one.
 
 ------------------------------------------------------------------------
 
-[Next: The Pressing-Stones](prwe212)
+[Next: The Pressing-Stones](prwe212.md)

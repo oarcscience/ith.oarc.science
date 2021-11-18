@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml13)  [Next](hml15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml13)  [Next](hml15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -117,14 +117,14 @@ the cruel eldest brother, now, in his turn, Sir John.
 <span id="img_20600"></span>
 
 [![''Go and do your own baking!''](tn/20600.jpg)  
-Click to enlarge](img/20600.jpg)  
+Click to enlarge](img/20600.jpg.md)  
 ''Go and do your own baking!''  
 
 <span id="img_20700"></span>
 
 [![''Lords, for Christ's sake help poor Gamelyn out of
 prison!''](tn/20700.jpg)  
-Click to enlarge](img/20700.jpg)  
+Click to enlarge](img/20700.jpg.md)  
 ''Lords, for Christ's sake help poor Gamelyn out of prison!''  
 
  
@@ -556,13 +556,13 @@ mounted his steed, and
 <span id="img_21800"></span>
 
 [![''Then cheer thee, Adam''](tn/21800.jpg)  
-Click to enlarge](img/21800.jpg)  
+Click to enlarge](img/21800.jpg.md)  
 ''Then cheer thee, Adam''  
 
 <span id="img_21900"></span>
 
 [![''Come from the seat of justice''](tn/21900.jpg)  
-Click to enlarge](img/21900.jpg)  
+Click to enlarge](img/21900.jpg.md)  
 ''Come from the seat of justice''  
 
  
@@ -774,4 +774,4 @@ with her in joy till his life's end.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. William of Cloudeslee](hml15)
+[Next: Chapter XI. William of Cloudeslee](hml15.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar15)  [Next](pktar17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar15)  [Next](pktar17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Tower
 
 <span id="img_ar16"></span> <span align="CENTER"> [![](tn/ar16.jpg)  
-Click to enlarge](img/ar16.jpg)</span>
+Click to enlarge](img/ar16.jpg.md)</span>
 
 Occult explanations attached to this card are meagre and mostly
 disconcerting. It is idle to indicate that it depicts min in all its
@@ -54,4 +54,4 @@ this involved question.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. The Star](pktar17)
+[Next: XVII. The Star](pktar17.md)

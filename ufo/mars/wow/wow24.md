@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow23)  [Next](wow25) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow23)  [Next](wow25.md) 
 
 ------------------------------------------------------------------------
 
@@ -582,4 +582,4 @@ upon the roof when the late moon rose.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eight: Dead London](wow25)
+[Next: Chapter Eight: Dead London](wow25.md)

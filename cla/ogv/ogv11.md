@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv10)  [Next](ogv12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv10)  [Next](ogv12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -458,12 +458,12 @@ Au sein des Immortels, tu sois un Dieu toi-même!</p></td>
 
 ### Footnotes
 
-<span id="fn_228"></span>[114:1](ogv11.htm#fr_228) The final sigma is
+<span id="fn_228"></span>[114:1](ogv11.htm#fr_228.md) The final sigma is
 printed in the original book as the medial form here.—JBH
 
-<span id="fn_229"></span>[120:1](ogv11.htm#fr_230) The epsilon in these
+<span id="fn_229"></span>[120:1](ogv11.htm#fr_230.md) The epsilon in these
 words is rotated 180 degrees in the printed original.—JBH.
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Golden Verses of the Pythagoreans](ogv12)
+[Next: 1. The Golden Verses of the Pythagoreans](ogv12.md)

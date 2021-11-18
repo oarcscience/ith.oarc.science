@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](taa07)  [Next](taa09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](taa07)  [Next](taa09.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -77,7 +77,7 @@ rain.
 
 It once happened that Honi Hama'gel (the circle-drawer) was asked by the
 people to pray for them, that rain might descend. Said he to them: "Go
-and bring in the Passover ovens, <span id="fr_25"></span>[1](#fn_25)
+and bring in the Passover ovens, <span id="fr_25"></span>[1](#fn_25.md)
 that they may not be spoiled by the rain." He prayed, but the rain did
 not descend. What did he then? He drew (marked out) a circle around him,
 and placing himself within it, prayed as follows: "Creator of the
@@ -97,7 +97,7 @@ cease."
 <span id="page_49">p. 49</span>
 
 <span class="contnote">\[paragraph continues\]</span> And he replied:
-"Go and see whether the stone To'yim <span id="fr_26"></span>[1](#fn_26)
+"Go and see whether the stone To'yim <span id="fr_26"></span>[1](#fn_26.md)
 is covered by the waters." Simeon b. Sheta'h sent him word, saying: "If
 thou wert not Honi, I would order that thou be anathematized. But what
 shall I do with thee, since thou art petulant towards God, and yet He
@@ -187,9 +187,9 @@ capital of the province concerned.
 On account of croup (quinsy or whooping-cough), if fatalities arise
 therefrom, the alarm must be sounded; but if all affected become cured
 an alarm is not necessary. On account of locusts (Gobai), <span
-id="fr_27"></span>[1](#fn_27) as soon as they make their appearance the
+id="fr_27"></span>[1](#fn_27.md) as soon as they make their appearance the
 alarm is to be sounded. R. Simeon ben Elazar said: "Also on account of
-grasshoppers" (Chagabim). <span id="fr_28"></span>[2](#fn_28)
+grasshoppers" (Chagabim). <span id="fr_28"></span>[2](#fn_28.md)
 
 The rabbis taught: An alarm may be sounded on account of the trees (when
 they have not succeeded) in ordinary years; but when there is a want of
@@ -241,7 +241,7 @@ The master seeing Nakdimon, said to him: "Had the sun not reappeared, I
 should have had a valid claim for the amount of money due me." We have
 learned in a Boraitha: His name was not Nakdimon, but Boni, and he was
 called Nakdimon because on his account the sun hastened. <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 The rabbis taught: "For the sake of each of three men alone the sun
 shone, and they are Moses, Joshua, and Nakdimon ben Gurion." This is
@@ -268,7 +268,7 @@ Elazar) went from the tower of Gador, where resided his Master, riding
 on an ass. He rode leisurely on the banks of the river, being greatly
 rejoiced and feeling very proud on account of the wealth of knowledge he
 had accumulated from his Master. On the way he met a man who was
-terribly ugly (of face). <span id="fr_30"></span>[1](#fn_30) That man
+terribly ugly (of face). <span id="fr_30"></span>[1](#fn_30.md) That man
 greeted R. Elazar respectfully, and said to him: "Peace be with thee,
 Rabbi!" The rabbi did not, however, return the greeting, and, moreover,
 said: "Vain man, how terribly ugly art thou! Are all thy townsmen as
@@ -345,7 +345,7 @@ to commence
 <span id="page_55">p. 55</span>
 
 with.\] "Whenever the sickness of Shaibatha <span
-id="fr_31"></span>[1](#fn_31) occurred in his city, he would examine it
+id="fr_31"></span>[1](#fn_31.md) occurred in his city, he would examine it
 and give the sufferers relief; outside of his house he placed a jar of
 water for the use of all who desired him to relieve them. When sitting
 down to a meal, he would order a servant to throw open the doors and
@@ -382,7 +382,7 @@ R. Johanan became the chief of the college. The schoolmen afterwards
 <span id="page_56">p. 56</span>
 
 said to Ilpha: If thou hadst stayed here with us, we would have made
-thee the chief of the college. <span id="fr_32"></span>[1](#fn_32)
+thee the chief of the college. <span id="fr_32"></span>[1](#fn_32.md)
 
 It was said of Nahum the man of Gim-Zu--who was blind in both eyes,
 crippled in both hands, both of whose legs were crushed and whose whole
@@ -411,7 +411,7 @@ to him: "Woe is unto us that we must see thee in this condition." And he
 replied: "Woe would be unto me if ye did not see me in this condition."
 
 Why was he called Nahum the man of Gim-Zu? <span
-id="fr_33"></span>[2](#fn_33) Because whenever something happened to him
+id="fr_33"></span>[2](#fn_33.md) Because whenever something happened to him
 he would say: "Gam Zu Le-Toboh" (This also is for good).
 
 It once happened that the Israelites had to send a present to the
@@ -436,7 +436,7 @@ father had within his domain, and which possessed the merit of turning
 into swords which would cut down the enemy when thrown at a hostile
 army. The coarser pieces would turn into arrows when thrown at the
 enemy, as it is written \[Isaiah, xli. 2\]: He rendered as earth his
-sword, as driven stubble his bow.'" <span id="fr_34"></span>[1](#fn_34)
+sword, as driven stubble his bow.'" <span id="fr_34"></span>[1](#fn_34.md)
 
 His advice was taken, and they said: "There is one land which we cannot
 conquer, let us try this earth and test its powers." This was done, and
@@ -814,7 +814,7 @@ About that time Honi became hungry, and sat down to eat near the newly
 <span id="page_66">p. 66</span>
 
 planted tree. After the meal he fell asleep, and a bay <span
-id="fr_35"></span>[1](#fn_35) formed about him so that he could not be
+id="fr_35"></span>[1](#fn_35.md) formed about him so that he could not be
 noticed, and thus he slept for seventy years. When he awoke, he observed
 a man gathering the fruit from the carob-tree; and he asked the man:
 "Didst thou plant this tree?" The man replied: "Nay; I am the grandson
@@ -1037,7 +1037,7 @@ Section of Damages, while we study now all the six sections. And when R.
 Jehudah came to the Section of Taharath (Purification), Tract Uqtsin,
 and the Halakha, 'When a woman put herbs in a pot,' or, according to
 others, to the Halakha, 'If olives were soaked with their leaves, they
-are clean,' <span id="fr_36"></span>[1](#fn_36) R. Jehudah used to say:
+are clean,' <span id="fr_36"></span>[1](#fn_36.md) R. Jehudah used to say:
 'I find it as deep as would befit the times of Rabh and Samuel.' But we
 have thirteen colleges which are studying the Tract Uqtsin, and
 nevertheless when R. Jehudah would put off one shoe, the rain would
@@ -1109,7 +1109,7 @@ R. Papa also ordered a fast: no rain came. Meanwhile he
 
 felt too weak from fasting. He took a spoonful of *daitha* \[a kind of
 dish\], and went on praying. Still, however, no rain came. R. Na'hman,
-his fellow-lodger in the inn, <span id="fr_37"></span>[1](#fn_37) said
+his fellow-lodger in the inn, <span id="fr_37"></span>[1](#fn_37.md) said
 to him: "If the Master would partake of another spoon of *daitha*, then
 rain would surely come" (ironically). He felt shame, he became downcast,
 and rain came. (See Yomah, p. 76: "R. Hanina b. Dosa," etc.)
@@ -1172,7 +1172,7 @@ with the proceeds purchased goats. Subsequently the man who left the
 chickens returned to claim them. He was asked for a description of his
 property, which he gave correctly, whereupon Hanina turned over the
 goats to him, and these are the goats that brought bears upon their
-horns. <span id="fr_38"></span>[1](#fn_38)
+horns. <span id="fr_38"></span>[1](#fn_38.md)
 
 The same Hanina had a neighbor who was building a house, and the beams
 were too short. So she came to him, and said: "I have built my house,
@@ -1302,33 +1302,33 @@ they are generally drunkards.
 
 ### Footnotes
 
-<span id="fn_25"></span>[48:1](taa08.htm#fr_25) The ovens were movable,
+<span id="fn_25"></span>[48:1](taa08.htm#fr_25.md) The ovens were movable,
 and were used to roast the paschal lamb on the Passover. When not in use
 they were kept outside of the house.
 
-<span id="fn_26"></span>[49:1](taa08.htm#fr_26) This was the name of a
+<span id="fn_26"></span>[49:1](taa08.htm#fr_26.md) This was the name of a
 high stone in Jerusalem, where the finders of lost articles would
 deposit what they had found, and then proclaim that they had found
 something. The owners would then come, and upon sufficient
 identification of the lost article it would be restored to them.
 
-<span id="fn_27"></span>[51:1](taa08.htm#fr_27) In Tract Chullin, 65
+<span id="fn_27"></span>[51:1](taa08.htm#fr_27.md) In Tract Chullin, 65
 *a*, it says Go-bai zeh Arbah = Gobai, and means locust.
 
-<span id="fn_28"></span>[51:2](taa08.htm#fr_28) Chagab is also a locust,
+<span id="fn_28"></span>[51:2](taa08.htm#fr_28.md) Chagab is also a locust,
 and presumably a grasshopper. See Numbers, xiii. 33; Isaiah, xl. 22,
 etc.
 
-<span id="fn_29"></span>[52:1](taa08.htm#fr_29) Hastening is called in
+<span id="fn_29"></span>[52:1](taa08.htm#fr_29.md) Hastening is called in
 Hebrew "K'dimah," and Nakdimon is derived from K'dimah, according to the
 annotations of Joel Sirkosh.
 
-<span id="fn_30"></span>[53:1](taa08.htm#fr_30) In Tract Derech Eretz,
+<span id="fn_30"></span>[53:1](taa08.htm#fr_30.md) In Tract Derech Eretz,
 as well as in the commentaries of Rashi and Tosphath, this man is said
 to have been Elijah the Prophet, who assumed that disguise in order to
 humble R. Elazar.
 
-<span id="fn_31"></span>[55:1](taa08.htm#fr_31) Concerning the sickness
+<span id="fn_31"></span>[55:1](taa08.htm#fr_31.md) Concerning the sickness
 of Shaibatha there is a lengthy discussion among the commentators of the
 Talmud. Some say that it was a muscular disease peculiar to children
 between the age of two months and seven years. Others say that it was a
@@ -1336,34 +1336,34 @@ disease produced by evil spirits, etc. No definite term for the word can
 be found. The Aruch devotes two whole pages to the different opinions
 regarding this disease.
 
-<span id="fn_32"></span>[56:1](taa08.htm#fr_32) Here follow the
+<span id="fn_32"></span>[56:1](taa08.htm#fr_32.md) Here follow the
 questions put to and answered by Ilpha, which are, however, not
 essential in this tract, and which will appear in Tract Kethuboth.
 
-<span id="fn_33"></span>[56:2](taa08.htm#fr_33) According to Zach.
+<span id="fn_33"></span>[56:2](taa08.htm#fr_33.md) According to Zach.
 Frankel, in his work about the generations of the Tanaim and Amoraim,
 and also according to Dr. I. M. Wise, Dr. H. Strack, and Mielziner,
 Nahum was a resident of Gimzo, a town in southwestern Judea.
 
-<span id="fn_34"></span>[57:1](taa08.htm#fr_34) This is a literal and
+<span id="fn_34"></span>[57:1](taa08.htm#fr_34.md) This is a literal and
 not a figurative translation of that verse.
 
-<span id="fn_35"></span>[66:1](taa08.htm#fr_35) The Hebrew term is
+<span id="fn_35"></span>[66:1](taa08.htm#fr_35.md) The Hebrew term is
 "Meshunitha." Rashi explains it to mean a rock, while the dictionaries
 define it as given in our text.
 
-<span id="fn_36"></span>[71:1](taa08.htm#fr_36) This will be explained
+<span id="fn_36"></span>[71:1](taa08.htm#fr_36.md) This will be explained
 in its place in Tract Uqtsin.
 
-<span id="fn_37"></span>[73:1](taa08.htm#fr_37) According to the Aruch
+<span id="fn_37"></span>[73:1](taa08.htm#fr_37.md) According to the Aruch
 the text should read, "Bar-Ushpirti," *i.e.*, the son of Ushpirti, who
 was the mother of R. Papa, and he said to him thus: "You, son of
 Ushpirti," etc.
 
-<span id="fn_38"></span>[74:1](taa08.htm#fr_38) According to Hananel and
+<span id="fn_38"></span>[74:1](taa08.htm#fr_38.md) According to Hananel and
 other commentaries the whole paragraph was inserted here from other
 sources than the Gemara. In the Ain Jacob this is not to be found.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](taa09)
+[Next: Chapter IV](taa09.md)

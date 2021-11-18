@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth045)  [Next](toth047) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth045)  [Next](toth047.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_153">p. 153</span>
 
-## 43. BIG HEAD AND GOAT HORN. <span id="fr_105"></span>[1](toth047.htm#fn_103)
+## 43. BIG HEAD AND GOAT HORN. <span id="fr_105"></span>[1](toth047.htm#fn_103.md)
 
 Halíksai! In Oraíbi they were living. East of the Kwan kiva a youth
 lived, by the name of Big Head (Wuyákqötö), Away south are the Hopi
@@ -36,4 +36,4 @@ goat, cut it up.
 
 ------------------------------------------------------------------------
 
-[Next: 44. Kavúshkavuwnöm And Shovíviounöm](toth047)
+[Next: 44. Kavúshkavuwnöm And Shovíviounöm](toth047.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot09) 
-[Next](sot11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot09.md) 
+[Next](sot11.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](sot09) 
 
 # THE CHARIOT.
 
-I saw a chariot drawn [dy](errata.htm#3) two sphinxes, one white, the
+I saw a chariot drawn [dy](errata.htm#3.md) two sphinxes, one white, the
 other black. Four pillars supported a blue canopy, on which were
 scattered five-pointed stars. The Conqueror, clad in steel armour, stood
 under this canopy guiding the sphinxes. He held a sceptre, on the end of
@@ -66,4 +66,4 @@ Earth, and again walking across a hot desert to a precipice.
 
 ------------------------------------------------------------------------
 
-[Next: Card XVIII. The Moon](sot11)
+[Next: Card XVIII. The Moon](sot11.md)

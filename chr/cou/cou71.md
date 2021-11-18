@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](cou70)  [Next](cou72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](cou70)  [Next](cou72.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S2X6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cloud of Unknowing*, ed. by Evelyn Underhill, \[1922\], at
 Intangible Textual Heritage
 
@@ -64,4 +64,4 @@ manly or ghostly. <span id="an_lxxii-p6.2"></span><span id="page_285">p.
 [Next: Chapter 67: That whoso knoweth not the powers of a soul and the
 manner of her working, may lightly be deceived in understanding of
 ghostly words and of ghostly working; and how a soul is made a God in
-grace](cou72)
+grace](cou72.md)

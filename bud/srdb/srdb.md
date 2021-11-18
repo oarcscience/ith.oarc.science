@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](pref)
+Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](pref.md)
 
 ------------------------------------------------------------------------
 
@@ -2022,12 +2022,12 @@ We should not transgress the moral codes.</td>
 
    Book II of the Commentary of Manners, called the Tree of Wisdom,
 written by Lu-trub, the Teacher, which has been translated<span
-id="page_132_fr_*"></span>[\*](#page_132_note_*) separately, is
+id="page_132_fr_*"></span>[\*](#page_132_note_*.md) separately, is
 finished.
 
 ------------------------------------------------------------------------
 
-[Intangible Textual Heritage](../../index) [Buddhism](../index)
+[Intangible Textual Heritage](../../index) [Buddhism](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -2035,53 +2035,53 @@ finished.
 
 <span id="footnotes_page_4">p. 4</span>
 
-<span id="page_4_note_*"></span>[\*](#page_4_fr_*) Avoid *or* abandon.
+<span id="page_4_note_*"></span>[\*](#page_4_fr_*.md) Avoid *or* abandon.
 
 <span id="footnotes_page_6">p. 6</span>
 
-<span id="page_6_note_*"></span>[\*](#page_6_fr_*) སོ་བ་ = a watchman.
+<span id="page_6_note_*"></span>[\*](#page_6_fr_*.md) སོ་བ་ = a watchman.
 སོ་བ་མཁན་ is said to be one who watches or looks after something, hence
 (here) a gardener.
 
-<span id="page_6_note_dagger"></span>[†](#page_6_fr_dagger) Such
+<span id="page_6_note_dagger"></span>[†](#page_6_fr_dagger.md) Such
 five-line verses are rare in this book. སྨད་འཚོང་ = selling the lower
 (part of the body), hence prostitution.
 
 <span id="footnotes_page_10">p. 10</span>
 
-<span id="page_10_note_*"></span>[\*](#page_10_fr_*) This refers to the
+<span id="page_10_note_*"></span>[\*](#page_10_fr_*.md) This refers to the
 story of a man who was threading pearls in a room on the wall of which
 there was a painting of a peacock. The peacock came out of the picture
 and swallowed the pearls but no one would believe his story. (D.S.).
 
-<span id="page_10_note_dagger"></span>[†](#page_10_fr_dagger) The
+<span id="page_10_note_dagger"></span>[†](#page_10_fr_dagger.md) The
 Tibetans say that this is still done by hunters.
 
-<span id="page_10_note_ddagger"></span>[‡](#page_10_fr_ddagger) A
+<span id="page_10_note_ddagger"></span>[‡](#page_10_fr_ddagger.md) A
 synonym for ཡིད་བཞིན་ནོར་བུ the usual name of the wishing gem. (Ge-she).
 
 <span id="footnotes_page_12">p. 12</span>
 
-<span id="page_12_note_*"></span>[\*](#page_12_fr_*) D.S. prefers "Pride
+<span id="page_12_note_*"></span>[\*](#page_12_fr_*.md) D.S. prefers "Pride
 and violence."
 
-<span id="page_12_note_dagger"></span>[†](#page_12_fr_dagger) i.e., he
+<span id="page_12_note_dagger"></span>[†](#page_12_fr_dagger.md) i.e., he
 is risking his life.
 
-<span id="page_12_note_ddagger"></span>[‡](#page_12_fr_ddagger) The
+<span id="page_12_note_ddagger"></span>[‡](#page_12_fr_ddagger.md) The
 Ge-she Ka-chen Töndrup says that this is read to mean "May I not see"
 etc.
 
 <span id="footnotes_page_14">p. 14</span>
 
-<span id="page_14_note_*"></span>[\*](#page_14_fr_*) The last two lines
+<span id="page_14_note_*"></span>[\*](#page_14_fr_*.md) The last two lines
 are obscure. They are compressed into one line in the S.C.D. edition but
 now stand as given in the P.T.
 
-<span id="page_14_note_dagger"></span>[†](#page_14_fr_dagger) He prefers
+<span id="page_14_note_dagger"></span>[†](#page_14_fr_dagger.md) He prefers
 the life of a hermit.
 
-<span id="page_14_note_ddagger"></span>[‡](#page_14_fr_ddagger) The last
+<span id="page_14_note_ddagger"></span>[‡](#page_14_fr_ddagger.md) The last
 two lines are obscure. The translation given above is my own, based on
 the text as it stands. The Ge-she considers that the text is corrupt and
 proposes to alter the third line to འཛད་དང་མཁྲས་ etc., and translate
@@ -2095,11 +2095,11 @@ to think that it must be taken to mean 'modest' here.
 
 <span id="footnotes_page_16">p. 16</span>
 
-<span id="page_16_note_*"></span>[\*](#page_16_fr_*) Cf. the story in
+<span id="page_16_note_*"></span>[\*](#page_16_fr_*.md) Cf. the story in
 the འངུལ་བ་ volume ག་ leaf 165. The fox bit the bow string and was
 killed by the poisoned arrow.
 
-<span id="page_16_note_dagger"></span>[†](#page_16_fr_dagger) The two
+<span id="page_16_note_dagger"></span>[†](#page_16_fr_dagger.md) The two
 last lines of this verse are very obscure. They are possibly a reference
 to some story. The Ge she's explanation is to the effect that the curds
 are a reference to churning, and that the lines mean that a man who
@@ -2108,84 +2108,84 @@ butter to come.
 
 <span id="footnotes_page_18">p. 18</span>
 
-<span id="page_18_note_*"></span>[\*](#page_18_fr_*) This refers to a
+<span id="page_18_note_*"></span>[\*](#page_18_fr_*.md) This refers to a
 story of Sanskrit origin. The noise caused by the fall of the 'bel'
 fruit frightened the smaller animals who communicated their fear to the
 larger, thus causing the forest to be deserted.
 
-<span id="page_18_note_dagger"></span>[†](#page_18_fr_dagger) i.e. he
+<span id="page_18_note_dagger"></span>[†](#page_18_fr_dagger.md) i.e. he
 remains on his guard.
 
 <span id="footnotes_page_20">p. 20</span>
 
-<span id="page_20_note_*"></span>[\*](#page_20_fr_*) For བསྒྲུངས་ read
+<span id="page_20_note_*"></span>[\*](#page_20_fr_*.md) For བསྒྲུངས་ read
 གྲུང་ clever or pushing. The first form is unknown the dictionares.
 
-<span id="page_20_note_dagger"></span>[†](#page_20_fr_dagger) i.e.
+<span id="page_20_note_dagger"></span>[†](#page_20_fr_dagger.md) i.e.
 whatever you do you cannot please everybody.
 
 <span id="footnotes_page_22">p. 22</span>
 
-<span id="page_22_note_*"></span>[\*](#page_22_fr_*) i.e. really of
+<span id="page_22_note_*"></span>[\*](#page_22_fr_*.md) i.e. really of
 great importance
 
 <span id="footnotes_page_24">p. 24</span>
 
-<span id="page_24_note_*"></span>[\*](#page_24_fr_*) Refers to the story
+<span id="page_24_note_*"></span>[\*](#page_24_fr_*.md) Refers to the story
 of the fox who fell into a vat of indigo and then said he was a tiger.
 (D.S.)
 
 <span id="footnotes_page_26">p. 26</span>
 
-<span id="page_26_note_*"></span>[\*](#page_26_fr_*) A difficult line.
+<span id="page_26_note_*"></span>[\*](#page_26_fr_*.md) A difficult line.
 Might be rendered: What is the use of a familiar spirit. to an ascetic?
 
 <span id="footnotes_page_28">p. 28</span>
 
-<span id="page_28_note_*"></span>[\*](#page_28_fr_*) This is obviously
+<span id="page_28_note_*"></span>[\*](#page_28_fr_*.md) This is obviously
 an allusion to some story but the reference has not been traced.
 
 <span id="footnotes_page_30">p. 30</span>
 
-<span id="page_30_note_*"></span>[\*](#page_30_fr_*) For མི་ read མེ་
+<span id="page_30_note_*"></span>[\*](#page_30_fr_*.md) For མི་ read མེ་
 
-<span id="page_30_note_dagger"></span>[†](#page_30_fr_dagger) Apparently
+<span id="page_30_note_dagger"></span>[†](#page_30_fr_dagger.md) Apparently
 a reference to a story which, however, has not been traced.
 
 <span id="footnotes_page_36">p. 36</span>
 
-<span id="page_36_note_*"></span>[\*](#page_36_fr_*) Refers to some
+<span id="page_36_note_*"></span>[\*](#page_36_fr_*.md) Refers to some
 story which has not been traced.
 
-<span id="page_36_note_dagger"></span>[†](#page_36_fr_dagger) This
+<span id="page_36_note_dagger"></span>[†](#page_36_fr_dagger.md) This
 reference has not been traced.
 
 <span id="footnotes_page_38">p. 38</span>
 
-<span id="page_38_note_*"></span>[\*](#page_38_fr_*) This reference has
+<span id="page_38_note_*"></span>[\*](#page_38_fr_*.md) This reference has
 not been traced.
 
 <span id="footnotes_page_40">p. 40</span>
 
-<span id="page_40_note_*"></span>[\*](#page_40_fr_*) i.e. if water be
+<span id="page_40_note_*"></span>[\*](#page_40_fr_*.md) i.e. if water be
 set on fire.
 
 <span id="footnotes_page_44">p. 44</span>
 
-<span id="page_44_note_*"></span>[\*](#page_44_fr_*) D. S. explains that
+<span id="page_44_note_*"></span>[\*](#page_44_fr_*.md) D. S. explains that
 the snake lived at the foot of the tree in which the crow lived who
 owned the beads. The crow wished to kill the snake and accordingly
 dropped the beads. A passer-by who wished to take the beads killed the
 snake in order to do so.
 
-<span id="page_44_note_dagger"></span>[†](#page_44_fr_dagger) The hare
+<span id="page_44_note_dagger"></span>[†](#page_44_fr_dagger.md) The hare
 told the lion to look at his reflection in a well, and the lion fell in.
 One of the few stories referred to in this book which are known in
 Tibet.
 
 <span id="footnotes_page_46">p. 46</span>
 
-<span id="page_46_note_*"></span>[\*](#page_46_fr_*) D. S. prefers to
+<span id="page_46_note_*"></span>[\*](#page_46_fr_*.md) D. S. prefers to
 read སྤ་ as bricks, but this meaning of the word appears to be modern,
 This line may possibly mean "when a brave man is asleep", or again སྤ་
 might be read སྤང་ and the line translated "when a man is resting on the
@@ -2193,243 +2193,243 @@ greensward."
 
 <span id="footnotes_page_48">p. 48</span>
 
-<span id="page_48_note_*"></span>[\*](#page_48_fr_*) It is believed that
+<span id="page_48_note_*"></span>[\*](#page_48_fr_*.md) It is believed that
 certain jewels have the inherent quality of emitting light.
 
 <span id="footnotes_page_50">p. 50</span>
 
-<span id="page_50_note_*"></span>[\*](#page_50_fr_*) Refers to some
+<span id="page_50_note_*"></span>[\*](#page_50_fr_*.md) Refers to some
 story which has not been traced.
 
 <span id="footnotes_page_52">p. 52</span>
 
-<span id="page_52_note_*"></span>[\*](#page_52_fr_*) This line is
+<span id="page_52_note_*"></span>[\*](#page_52_fr_*.md) This line is
 obscure but may mean that the evil and stupid course is preferred.
 
 <span id="footnotes_page_54">p. 54</span>
 
-<span id="page_54_note_*"></span>[\*](#page_54_fr_*) Here generosity is
+<span id="page_54_note_*"></span>[\*](#page_54_fr_*.md) Here generosity is
 the friend and religion the gem.
 
-<span id="page_54_note_dagger"></span>[†](#page_54_fr_dagger) This verse
+<span id="page_54_note_dagger"></span>[†](#page_54_fr_dagger.md) This verse
 was referred to a learned 'incarnation' in Tibet who considered that
 there was a reference to some story.
 
 <span id="footnotes_page_56">p. 56</span>
 
-<span id="page_56_note_*"></span>[\*](#page_56_fr_*) Cf. Sakya Legshe
+<span id="page_56_note_*"></span>[\*](#page_56_fr_*.md) Cf. Sakya Legshe
 (Csomo de Körös' translation), verse 9.
 
 <span id="footnotes_page_62">p. 62</span>
 
-<span id="page_62_note_*"></span>[\*](#page_62_fr_*) This five-line
+<span id="page_62_note_*"></span>[\*](#page_62_fr_*.md) This five-line
 verse is unusually complicated and the only verse in the book with lines
 of nineteen syllables. In line 3 རིག་ is probably རིད་ and has been
 translated in the latter sense.
 
 <span id="footnotes_page_64">p. 64</span>
 
-<span id="page_64_note_*"></span>[\*](#page_64_fr_*) Or disciplined.
+<span id="page_64_note_*"></span>[\*](#page_64_fr_*.md) Or disciplined.
 
-<span id="page_64_note_dagger"></span>[†](#page_64_fr_dagger) D.S. takes
+<span id="page_64_note_dagger"></span>[†](#page_64_fr_dagger.md) D.S. takes
 the first two lines to mean that friends and kindred return home after
 they have seen you burned at the ghat. The translation given above seems
 nearer the original.
 
 <span id="footnotes_page_66">p. 66</span>
 
-<span id="page_66_note_*"></span>[\*](#page_66_fr_*) Wealth or property
+<span id="page_66_note_*"></span>[\*](#page_66_fr_*.md) Wealth or property
 in general.
 
 <span id="footnotes_page_68">p. 68</span>
 
-<span id="page_68_note_*"></span>[\*](#page_68_fr_*) The last two lines
+<span id="page_68_note_*"></span>[\*](#page_68_fr_*.md) The last two lines
 are obscure. མཛངས་པོ might have been rendered as 'a genius' but appears
 to mean here a man who possesses both courage and learning.
 
 <span id="footnotes_page_70">p. 70</span>
 
-<span id="page_70_note_*"></span>[\*](#page_70_fr_*) ཡོན་ཏན་
+<span id="page_70_note_*"></span>[\*](#page_70_fr_*.md) ཡོན་ཏན་
 accomplishments, moral virtues, talents, etc. The words can be rendered
 in a variety of ways.
 
 <span id="footnotes_page_74">p. 74</span>
 
-<span id="page_74_note_*"></span>[\*](#page_74_fr_*) i.e. without
+<span id="page_74_note_*"></span>[\*](#page_74_fr_*.md) i.e. without
 emulating them in endeavour.
 
 <span id="footnotes_page_78">p. 78</span>
 
-<span id="page_78_note_*"></span>[\*](#page_78_fr_*) Sanscrit 'chaitya',
+<span id="page_78_note_*"></span>[\*](#page_78_fr_*.md) Sanscrit 'chaitya',
 a stupa.
 
-<span id="page_78_note_dagger"></span>[†](#page_78_fr_dagger) i.e. Holy
+<span id="page_78_note_dagger"></span>[†](#page_78_fr_dagger.md) i.e. Holy
 men are ready to praise the lesser accomplishments of others without
 advertising their own superior accomplishments.
 
-<span id="page_78_note_ddagger"></span>[‡](#page_78_fr_ddagger) Read
+<span id="page_78_note_ddagger"></span>[‡](#page_78_fr_ddagger.md) Read
 ལྕི་བའི་ཚད་ = measure of lightness.
 
-<span id="page_78_note_sect"></span>[§](#page_78_fr_sect) Ananta, the
+<span id="page_78_note_sect"></span>[§](#page_78_fr_sect.md) Ananta, the
 serpent-god who supports the globe.
 
 <span id="footnotes_page_80">p. 80</span>
 
-<span id="page_80_note_*"></span>[\*](#page_80_fr_*) བཅནུ must be a
+<span id="page_80_note_*"></span>[\*](#page_80_fr_*.md) བཅནུ must be a
 mistake. Read བཙནུ
 
-<span id="page_80_note_dagger"></span>[†](#page_80_fr_dagger) *Or* those
+<span id="page_80_note_dagger"></span>[†](#page_80_fr_dagger.md) *Or* those
 naked, without clothing.
 
-<span id="page_80_note_ddagger"></span>[‡](#page_80_fr_ddagger) The
+<span id="page_80_note_ddagger"></span>[‡](#page_80_fr_ddagger.md) The
 translation of this line is due to the Ge-she. It appears to mean that
 worldly people are lost in the round of material things.
 
 <span id="footnotes_page_82">p. 82</span>
 
-<span id="page_82_note_*"></span>[\*](#page_82_fr_*) For སྐྱས་ read
+<span id="page_82_note_*"></span>[\*](#page_82_fr_*.md) For སྐྱས་ read
 སྐྱེས་ D.S. translates the last two lines: He is frightened away by
 seeing his own mother in pain. What good is he, even if he be born a
 male.
 
-<span id="page_82_note_dagger"></span>[†](#page_82_fr_dagger) D.S.
+<span id="page_82_note_dagger"></span>[†](#page_82_fr_dagger.md) D.S.
 prefers "folly" here.
 
-<span id="page_82_note_ddagger"></span>[‡](#page_82_fr_ddagger) For མི་
+<span id="page_82_note_ddagger"></span>[‡](#page_82_fr_ddagger.md) For མི་
 read ཡི་
 
 <span id="footnotes_page_84">p. 84</span>
 
-<span id="page_84_note_*"></span>[\*](#page_84_fr_*) D. S. prefers
+<span id="page_84_note_*"></span>[\*](#page_84_fr_*.md) D. S. prefers
 'chosen truths.'
 
-<span id="page_84_note_dagger"></span>[†](#page_84_fr_dagger) A
+<span id="page_84_note_dagger"></span>[†](#page_84_fr_dagger.md) A
 reference which has not been traced.
 
 <span id="footnotes_page_86">p. 86</span>
 
-<span id="page_86_note_*"></span>[\*](#page_86_fr_*) The references have
+<span id="page_86_note_*"></span>[\*](#page_86_fr_*.md) The references have
 not been traced.
 
 <span id="footnotes_page_88">p. 88</span>
 
-<span id="page_88_note_*"></span>[\*](#page_88_fr_*) *Or* Than to share
+<span id="page_88_note_*"></span>[\*](#page_88_fr_*.md) *Or* Than to share
 a kingdom with the wicked.
 
 <span id="footnotes_page_94">p. 94</span>
 
-<span id="page_94_note_*"></span>[\*](#page_94_fr_*) The reference has
+<span id="page_94_note_*"></span>[\*](#page_94_fr_*.md) The reference has
 not been traced.
 
-<span id="page_94_note_dagger"></span>[†](#page_94_fr_dagger) The text
+<span id="page_94_note_dagger"></span>[†](#page_94_fr_dagger.md) The text
 of this line appears to be very corrupt. D. S. suggests the following
 amended version, on which the translation given has been based:
 གང་ཞིག་བཏང་བས་མཆོག་བཏང་འགྱུར།
 
 <span id="footnotes_page_96">p. 96</span>
 
-<span id="page_96_note_*"></span>[\*](#page_96_fr_*) i.e. the diseases
+<span id="page_96_note_*"></span>[\*](#page_96_fr_*.md) i.e. the diseases
 of the body are like an unhelpful relative and solitude like a helpful
 outsider.
 
-<span id="page_96_note_dagger"></span>[†](#page_96_fr_dagger) This verse
+<span id="page_96_note_dagger"></span>[†](#page_96_fr_dagger.md) This verse
 is rather elliptical--it is to be inferred that the evil man's
 excitement is to be compared to the water splashing over.
 
 <span id="footnotes_page_98">p. 98</span>
 
-<span id="page_98_note_*"></span>[\*](#page_98_fr_*) These two admire
+<span id="page_98_note_*"></span>[\*](#page_98_fr_*.md) These two admire
 each other at a distance.
 
-<span id="page_98_note_dagger"></span>[†](#page_98_fr_dagger) The dog
+<span id="page_98_note_dagger"></span>[†](#page_98_fr_dagger.md) The dog
 has not the ability to melt the ice.
 
 <span id="footnotes_page_100">p. 100</span>
 
-<span id="page_100_note_*"></span>[\*](#page_100_fr_*) There appears to
+<span id="page_100_note_*"></span>[\*](#page_100_fr_*.md) There appears to
 be a superfluous 'ya-ta' at the end of this line.
 
-<span id="page_100_note_dagger"></span>[†](#page_100_fr_dagger) ཛས་མཐུན་
+<span id="page_100_note_dagger"></span>[†](#page_100_fr_dagger.md) ཛས་མཐུན་
 the future adjustment. Described by the Ge-she as that form of charity
 which brings its own reward in kind.
 
 <span id="footnotes_page_102">p. 102</span>
 
-<span id="page_102_note_*"></span>[\*](#page_102_fr_*) བསྔོ་བ་ Mental
+<span id="page_102_note_*"></span>[\*](#page_102_fr_*.md) བསྔོ་བ་ Mental
 dedication of the reward of a good action to some definite object, such
 as the salvation of a parent. It is not the material value of the alms
 but the spirit in which they are given which matters. The second མཕའ་ཡང
 in this line should be read མཐའ་ཡས་
 
-<span id="page_102_note_dagger"></span>[†](#page_102_fr_dagger) A ལ་
+<span id="page_102_note_dagger"></span>[†](#page_102_fr_dagger.md) A ལ་
 seems to be required at the end of this line.
 
-<span id="page_102_note_ddagger"></span>[‡](#page_102_fr_ddagger) མ་གོས་
+<span id="page_102_note_ddagger"></span>[‡](#page_102_fr_ddagger.md) མ་གོས་
 = not apply.
 
 <span id="footnotes_page_104">p. 104</span>
 
-<span id="page_104_note_*"></span>[\*](#page_104_fr_*) The kimpaka is
+<span id="page_104_note_*"></span>[\*](#page_104_fr_*.md) The kimpaka is
 described as a pretty but bitter fruit,
 
-<span id="page_104_note_dagger"></span>[†](#page_104_fr_dagger) In line
+<span id="page_104_note_dagger"></span>[†](#page_104_fr_dagger.md) In line
 2. For གསེ་ read གསོ་
 
 <span id="footnotes_page_106">p. 106</span>
 
-<span id="page_106_note_*"></span>[\*](#page_106_fr_*) For གསེར་ read
+<span id="page_106_note_*"></span>[\*](#page_106_fr_*.md) For གསེར་ read
 མསོད་
 
 <span id="footnotes_page_108">p. 108</span>
 
-<span id="page_108_note_*"></span>[\*](#page_108_fr_*) ཕོ་ལོང་ is
+<span id="page_108_note_*"></span>[\*](#page_108_fr_*.md) ཕོ་ལོང་ is
 obscure. I have taken a secondary meaning given in the Dictionnaire
 Thibetain-Latin-Francais published at Hongkong in 1899.
 
 <span id="footnotes_page_110">p. 110</span>
 
-<span id="page_110_note_*"></span>[\*](#page_110_fr_*) i.e. could
+<span id="page_110_note_*"></span>[\*](#page_110_fr_*.md) i.e. could
 foretell the time of their own death.
 
-<span id="page_110_note_dagger"></span>[†](#page_110_fr_dagger) lit. the
+<span id="page_110_note_dagger"></span>[†](#page_110_fr_dagger.md) lit. the
 animals which walk in a stooping position.
 
 <span id="footnotes_page_112">p. 112</span>
 
-<span id="page_112_note_*"></span>[\*](#page_112_fr_*) For བཅུན་ read
+<span id="page_112_note_*"></span>[\*](#page_112_fr_*.md) For བཅུན་ read
 བཙུན་
 
-<span id="page_112_note_dagger"></span>[†](#page_112_fr_dagger) For རྔན་
+<span id="page_112_note_dagger"></span>[†](#page_112_fr_dagger.md) For རྔན་
 read རྔོན་ It might also be read "seducer's son."
 
 <span id="footnotes_page_114">p. 114</span>
 
-<span id="page_114_note_*"></span>[\*](#page_114_fr_*) Cf. [verse
-135](#pp_135). The third lines are identical.
+<span id="page_114_note_*"></span>[\*](#page_114_fr_*.md) Cf. [verse
+135](#pp_135.md). The third lines are identical.
 
 <span id="footnotes_page_118">p. 118</span>
 
-<span id="page_118_note_*"></span>[\*](#page_118_fr_*) འཁྱོན་ is
+<span id="page_118_note_*"></span>[\*](#page_118_fr_*.md) འཁྱོན་ is
 possibly an old form of ཁྱོན་
 
 <span id="footnotes_page_120">p. 120</span>
 
-<span id="page_120_note_*"></span>[\*](#page_120_fr_*) The last two
+<span id="page_120_note_*"></span>[\*](#page_120_fr_*.md) The last two
 lines are obscure and the text is probably corrupt.
 
 <span id="footnotes_page_126">p. 126</span>
 
-<span id="page_126_note_*"></span>[\*](#page_126_fr_*) The kitaka is a
+<span id="page_126_note_*"></span>[\*](#page_126_fr_*.md) The kitaka is a
 magic tree and the kurura a sour fruit.
 
 <span id="footnotes_page_128">p. 128</span>
 
-<span id="page_128_note_*"></span>[\*](#page_128_fr_*) Not dry--without
+<span id="page_128_note_*"></span>[\*](#page_128_fr_*.md) Not dry--without
 craving.
 
 <span id="footnotes_page_132">p. 132</span>
 
-<span id="page_132_note_*"></span>[\*](#page_132_fr_*) i.e. from
+<span id="page_132_note_*"></span>[\*](#page_132_fr_*.md) i.e. from
 Sanscrit into Tibetan.
 
  

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,10 +21,10 @@ Legends](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](cog00)  
-[Book 1--The Coming of Pan](cog01)  
-[Book 2--The Philosophers Journey](cog02)  
-[Book 3--The Two Gods](cog03)  
-[Book 4--The Philosophers Return](cog04)  
-[Book 5--The Policemen](cog05)  
-[Book 6--The Thin Woman's Journey](cog06)  
+[Title Page](cog00.md)  
+[Book 1--The Coming of Pan](cog01.md)  
+[Book 2--The Philosophers Journey](cog02.md)  
+[Book 3--The Two Gods](cog03.md)  
+[Book 4--The Philosophers Return](cog04.md)  
+[Book 5--The Policemen](cog05.md)  
+[Book 6--The Thin Woman's Journey](cog06.md)  

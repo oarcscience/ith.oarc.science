@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](hif00)
+[Contents](#contents)    [Start Reading](hif00.md)
 
 ------------------------------------------------------------------------
 
@@ -71,13 +71,13 @@ January 26th, 2004
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Headline](hif00)  
-[Illustration: Atlantis](hif01)  
-[Illustration: The New Diving Armor](hif02)  
-[Illustration: The Owl-Headed Vase and Two Other Objects](hif03)  
-[Illustration: Siegfried and the Dragon](hif04)  
-[Introduction](hif05)  
-[How I Found the Lost Atlantis, The Source of All Civilization](hif06)  
-[Sidebar: What the Lost Atlantis Is Supposed to Have Been](hif07)  
+<span id="contents"></span> [Headline](hif00.md)  
+[Illustration: Atlantis](hif01.md)  
+[Illustration: The New Diving Armor](hif02.md)  
+[Illustration: The Owl-Headed Vase and Two Other Objects](hif03.md)  
+[Illustration: Siegfried and the Dragon](hif04.md)  
+[Introduction](hif05.md)  
+[How I Found the Lost Atlantis, The Source of All Civilization](hif06.md)  
+[Sidebar: What the Lost Atlantis Is Supposed to Have Been](hif07.md)  
 [Sidebar: Who Dr. Heinrich Schliemann Was and the Treasures He
-Found](hif08)  
+Found](hif08.md)  

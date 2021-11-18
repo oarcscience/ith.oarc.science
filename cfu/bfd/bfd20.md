@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](bfd19)  [Next](bfd21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](bfd19)  [Next](bfd21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402152167/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402152167/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Filial Duty*, by Ivan Chen, \[1908\], at Intangible Textual
 Heritage
 
@@ -35,4 +35,4 @@ distance. He is so attached to him that he thinks of him every day."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII: Mourning for One's Parents](bfd21)
+[Next: Chapter XVIII: Mourning for One's Parents](bfd21.md)

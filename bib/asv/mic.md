@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](jon)  [Next](nah) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](jon)  [Next](nah.md) 
 
 ------------------------------------------------------------------------
 
@@ -443,4 +443,4 @@ fathers from the days of old.
 
 ------------------------------------------------------------------------
 
-[Next: Nahum](nah)
+[Next: Nahum](nah.md)

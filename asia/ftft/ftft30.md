@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft29)  [Next](ftft31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft29)  [Next](ftft31.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_228">p. 228</span>
 
 <span id="img_22800"></span> ![Shah Meram and Sultan
-Sade](img/22800.jpg)
+Sade](img/22800.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a Padishah who had three sons, and when the Padishah their
 father died the three brothers disputed for the succession to the
@@ -47,7 +47,7 @@ into this serai, but so far
 <span id="img_22802"></span>
 
 [![](tn/22802.jpg)  
-Click to enlarge](img/22802.jpg)
+Click to enlarge](img/22802.jpg.md)
 
 <span id="page_229">p. 229</span>
 
@@ -109,7 +109,7 @@ pieces." Nevertheless he approached her with apparent boldness, embraced
 her, and accosted her as "Mother." "My son,"
 
 <span id="img_23000"></span> ![The Dew disappeared with the
-girl](img/23000.jpg)
+girl](img/23000.jpg.md)
 
 <span id="page_231">p. 231</span>
 
@@ -123,7 +123,7 @@ disposed to help you."<span id="img_23100"></span>
 
 |                                              |
 |----------------------------------------------|
-| ![He embraced the Dew-Mother](img/23100.jpg) |
+| ![He embraced the Dew-Mother](img/23100.jpg.md) |
 
 The youth accordingly set out; and when he found the Dew-woman's elder
 sister, he embraced her, addressed her as "Mother," and delivered his
@@ -149,7 +149,7 @@ wheresoever you desire to go."
 
 |                                                   |
 |---------------------------------------------------|
-| ![The youth mounted the Sea Horse](img/23200.jpg) |
+| ![The youth mounted the Sea Horse](img/23200.jpg.md) |
 
 So the young man set off once more, and, arriving at the seashore, he
 prepared for his forty days vigil. On the fortieth day the little
@@ -213,7 +213,7 @@ awake to make any attempt to prevent him.
 
 |                                                                    |
 |--------------------------------------------------------------------|
-| ![''What seek you here young man,'' asked the bird](img/23400.jpg) |
+| ![''What seek you here young man,'' asked the bird](img/23400.jpg.md) |
 
 For the second time bereft, gazing around in despair he saw a well from
 which he was astonished to hear an earsplitting noise and uproarious
@@ -283,7 +283,7 @@ delivered from the spell upon him.
 
 |                                                              |
 |--------------------------------------------------------------|
-| ![He drew his handschar and attacked the Dew](img/23600.jpg) |
+| ![He drew his handschar and attacked the Dew](img/23600.jpg.md) |
 
 One day, long after these events, it came to pass that in a dream the
 Princess saw a dervish, who addressed her as follows: "Should you again
@@ -325,4 +325,4 @@ pass their lives in happiness and peace.
 
 ------------------------------------------------------------------------
 
-[Next: The Wizard and his Pupil](ftft31)
+[Next: The Wizard and his Pupil](ftft31.md)

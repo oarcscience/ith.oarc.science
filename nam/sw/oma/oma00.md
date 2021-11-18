@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Next](oma01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Next](oma01.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,10 +37,10 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 
 [![KATSINA MASKS&lt;BR&gt; FOR DESCRIPTION SEE EXPLANATION OF
 PLATES](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 KATSINA MASKS  
 FOR DESCRIPTION SEE EXPLANATION OF PLATES  
 
 ------------------------------------------------------------------------
 
-[Next: Letter of Transmittal](oma01)
+[Next: Letter of Transmittal](oma01.md)

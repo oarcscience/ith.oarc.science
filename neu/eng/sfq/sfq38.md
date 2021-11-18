@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq37)  [Next](sfq39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq37)  [Next](sfq39.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ force could disentangle her.
 <span id="img_16400"></span>
 
 [![](tn/16400.jpg)  
-Click to enlarge](img/16400.jpg)
+Click to enlarge](img/16400.jpg.md)
 
 Then Sir Guyon broke down without pity all the pleasant bowers, and the
 stately palace, and trampled down the gardens, and burnt the
@@ -188,4 +188,4 @@ adventures.
 
 ------------------------------------------------------------------------
 
-[Next: How Sir Guyon met a Champion mightier than himself](sfq39)
+[Next: How Sir Guyon met a Champion mightier than himself](sfq39.md)

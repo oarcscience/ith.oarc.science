@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap33) 
-[Next](bap35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap33.md) 
+[Next](bap35.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ he brought him to be laid upon the altar, but I restored him to his
 father. And because he resisted not, his offering was acceptable in my
 sight, and for the blood of him did I choose this people. And then I
 said unto the angels that work subtilly: <span
-id="fr_79"></span>[1](#fn_79)
+id="fr_79"></span>[1](#fn_79.md)
 
 |            |
 |------------|
@@ -102,7 +102,7 @@ Lo, the son of Sephor is foolish, and knoweth not that he
 | Num. 22:19 |
 
 dwelleth hard by (*lit*. round about) the dead: <span
-id="fr_80"></span>[2](#fn_80) *And* 
+id="fr_80"></span>[2](#fn_80.md) *And* 
 
 <span id="page_125">p. 125</span>
 
@@ -134,7 +134,7 @@ mind is puffed up, to the intent his destruction may come swiftly. 11.
 For behold, I see the heritage which the Most Mighty showed me in the
 night, and lo the days come when Moab shall be amazed at that which
 befalleth her, for Balac desired to persuade the Most Mighty with gifts
-and to purchase decision <span id="fr_81"></span>[1](#fn_81) with money.
+and to purchase decision <span id="fr_81"></span>[1](#fn_81.md) with money.
 Oughtest thou not to have asked what he sent upon Pharao and upon his
 land because he would bring them into bondage? Behold an overshadowing
 vine, desirable exceedingly, and who shall be
@@ -148,7 +148,7 @@ am restrained in the speech of my voice and I cannot express that which
 I see with mine eyes, for but a little is left to me of the holy spirit
 which abideth in me, since I know that in that I was persuaded of Balac
 I have lost the days of my life: 12. Lo, again I see the heritage of the
-abode of this people, <span id="fr_82"></span>[1](#fn_82) and the light
+abode of this people, <span id="fr_82"></span>[1](#fn_82.md) and the light
 of it shineth above the brightness of lightning, and the running of it
 is swifter than arrows. And the time shall come when Moab shall groan,
 and they that serve Cham (Chemosh?) shall be weak, even such as took
@@ -165,7 +165,7 @@ peace. And
 
 Balac said: Thy God hath defrauded thee of many gifts from me.
 
-13\. Then Balaam said unto him: <span id="fr_83"></span>[2](#fn_83) Come
+13\. Then Balaam said unto him: <span id="fr_83"></span>[2](#fn_83.md) Come
 and let
 
 |            |
@@ -189,7 +189,7 @@ had showed him.
 
 ### Footnotes
 
-<span id="fn_79"></span>[124:1](bap34.htm#fr_79) XVIII. 5. *And then I
+<span id="fn_79"></span>[124:1](bap34.htm#fr_79.md) XVIII. 5. *And then I
 said unto the angels that work subtilly*. The clause has dropped out of
 AP, but must be genuine. *Angelis minute operantibus* is a curious
 expression. Minute should be λεπτῶσ. Is the reference to evil angels (as
@@ -200,23 +200,23 @@ Probably we ought to follow R in the next words also, and read: "Unto
 Abraham will I reveal all that I do, and unto Jacob his son's son whom
 he (1) called (my) first born. Who when he wrestled," etc.
 
-<span id="fn_80"></span>[124:2](bap34.htm#fr_80) 8. *nescit quoniam
+<span id="fn_80"></span>[124:2](bap34.htm#fr_80.md) 8. *nescit quoniam
 inhabitat in gyro mortuorum*. Are the "mortui" anything more than
 Balak's idols?
 
-<span id="fn_81"></span>[125:1](bap34.htm#fr_81) 11. *decision*:
+<span id="fn_81"></span>[125:1](bap34.htm#fr_81.md) 11. *decision*:
 *dogma*.
 
-<span id="fn_82"></span>[126:1](bap34.htm#fr_82) 12. *the heritage of
+<span id="fn_82"></span>[126:1](bap34.htm#fr_82.md) 12. *the heritage of
 the abode of this people: haereditatem dissolutionis*. I take
 *dissolutionis* to be a wrong rendering of κατάλυσισ, which means
 "abode" in Jer. 49:19 (LXX).
 
-<span id="fn_83"></span>[126:2](bap34.htm#fr_83) 13. *Pirke R. Eliezer*
+<span id="fn_83"></span>[126:2](bap34.htm#fr_83.md) 13. *Pirke R. Eliezer*
 47: Balaam said: "You will not be able to prevail against this people,
 unless they have <span id="page_127">p. 127</span> sinned before their
 Creator." *peccabunt domino suo . . . aliter expugnare eos non poteris*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX](bap35)
+[Next: Chapter XIX](bap35.md)

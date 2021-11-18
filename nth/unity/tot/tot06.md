@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](tot05)  [Next](tot07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](tot05)  [Next](tot07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Talks on Truth*, by Charles Fillmore, \[1912\], at Intangible Textual
 Heritage
 
@@ -458,4 +458,4 @@ love, Thy love, Thy never-failing love!
 
 ------------------------------------------------------------------------
 
-[Next: Lesson 6](tot07)
+[Next: Lesson 6](tot07.md)

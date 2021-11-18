@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi121)  [Next](mtsi123) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi121)  [Next](mtsi123.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ That is the way they tell it.
 
 ------------------------------------------------------------------------
 
-[Next: 30. Rabbit and Wildcat](mtsi123)
+[Next: 30. Rabbit and Wildcat](mtsi123.md)

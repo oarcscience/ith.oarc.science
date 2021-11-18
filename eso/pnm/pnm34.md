@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm33)  [Next](pnm35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm33)  [Next](pnm35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ cypress-tree, and a certain tree used at burials, which never springs
 afresh with berries, rough, of a bitter taste, of a strong smell, of a
 black shadow, yielding a most sharp pitch, bearing a most unprofitable
 fruit, never dies with age, deadly, and dedicated to Pluto. As is the
-herb pas-flower, <span id="fr_24"></span>[\*](#fn_24) with which they
+herb pas-flower, <span id="fr_24"></span>[\*](#fn_24.md) with which they
 were wont, anciently, to
 
 <span id="page_103">p. 103</span>
@@ -69,7 +69,7 @@ added sea-sponges and all such things as come of them.
 
 ### Footnotes
 
-<span id="fn_24"></span>[102:\*](pnm34.htm#fr_24) Pas, from the Latin
+<span id="fn_24"></span>[102:\*](pnm34.htm#fr_24.md) Pas, from the Latin
 word "passus," meaning step, pace, or "right of going foremost;
 precedence." Thus the pas-flower means a plant blooming ahead of other
 flowers. A co-ordinate word is "pascha," meaning to "pass over," giving
@@ -146,4 +146,4 @@ joy and hope.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVI. What Things Are Under the Power of Jupiter, and Are
-Called Jovial](pnm35)
+Called Jovial](pnm35.md)

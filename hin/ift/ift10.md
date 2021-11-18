@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift09) 
-[Next](ift11) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift09.md) 
+[Next](ift11.md) 
 
 ------------------------------------------------------------------------
 
 # The Tiger, the Brahman and the Jackal
 
 <span id="img_31"></span> [![](tn/31.jpg)  
-Click to enlarge](img/31.jpg)
+Click to enlarge](img/31.jpg.md)
 
 <span id="img_32"></span> ![](img/32.jpg)NCE upon a time, a tiger was
 caught in a trap. He tried in vain to get out through the bars, and
@@ -130,4 +130,4 @@ were!"
 
 ------------------------------------------------------------------------
 
-[Next: The Soothsayers Son](ift11)
+[Next: The Soothsayers Son](ift11.md)

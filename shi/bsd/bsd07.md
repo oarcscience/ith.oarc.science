@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd06)  [Next](bsd08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd06)  [Next](bsd08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -29,7 +29,7 @@ utmost of his art, told him, "Beyond this my instruction must give way
 to Zen teaching." "Zen" is the Japanese equivalent for the Dhyâna, which
 "represents human effort to reach through meditation zones of thought
 beyond the range of verbal expression." <span
-id="fr_3"></span>[1](#fn_3) Its method is contemplation, and its
+id="fr_3"></span>[1](#fn_3.md) Its method is contemplation, and its
 purport, so far as I understand it, to be convinced of a principle that
 underlies all phenomena, and, if it can, of the
 
@@ -80,7 +80,7 @@ the spirits of our forefathers: to us the Emperor is more than the Arch
 Constable of a *Rechtsstaat*, or even the Patron of a *Culturstaat*--he
 is the bodily representative of Heaven on earth, blending in his person
 its power and its mercy. If what M. Boutmy <span
-id="fr_4"></span>[1](#fn_4) says is true of English royalty--that it "is
+id="fr_4"></span>[1](#fn_4.md) says is true of English royalty--that it "is
 not only the image of authority, but the author and symbol of national
 unity," as I believe it to be, doubly and trebly may this be affirmed of
 royalty in Japan.
@@ -93,7 +93,7 @@ or of Jerusalem; of
 
 <span id="page_15">p. 15</span>
 
-the Messiah or of the Nation itself." <span id="fr_5"></span>[1](#fn_5)
+the Messiah or of the Nation itself." <span id="fr_5"></span>[1](#fn_5.md)
 A similar confusion may be noticed in the nomenclature of our national
 faith. I said confusion, because it will be so deemed by a logical
 intellect on account of its verbal ambiguity; still, being a frame work
@@ -168,7 +168,7 @@ allowance for the terms peculiar to either teaching, the passage, "Seek
 ye first the kingdom of God and his righteousness; and all these things
 shall be added unto you," conveys a thought that may be found on almost
 any page of Wan Yang Ming. A Japanese disciple <span
-id="fr_6"></span>[1](#fn_6) of his says--"The lord of
+id="fr_6"></span>[1](#fn_6.md) of his says--"The lord of
 
 <span id="page_19">p. 19</span>
 
@@ -239,17 +239,17 @@ writes, let us now address ourselves. I shall begin with Rectitude.
 
 ### Footnotes
 
-<span id="fn_3"></span>[11:1](bsd07.htm#fr_3) Lafcadio Hearn, *Exotics
+<span id="fn_3"></span>[11:1](bsd07.htm#fr_3.md) Lafcadio Hearn, *Exotics
 and Retrospectives*, p. 84.
 
-<span id="fn_4"></span>[14:1](bsd07.htm#fr_4) The English People, p.
+<span id="fn_4"></span>[14:1](bsd07.htm#fr_4.md) The English People, p.
 188.
 
-<span id="fn_5"></span>[15:1](bsd07.htm#fr_5) *Feudal and Modern Japan*,
+<span id="fn_5"></span>[15:1](bsd07.htm#fr_5.md) *Feudal and Modern Japan*,
 vol. i., p. 183
 
-<span id="fn_6"></span>[18:1](bsd07.htm#fr_6) Miwa Shissai.
+<span id="fn_6"></span>[18:1](bsd07.htm#fr_6.md) Miwa Shissai.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Rectitude or Justice](bsd08)
+[Next: Chapter III: Rectitude or Justice](bsd08.md)

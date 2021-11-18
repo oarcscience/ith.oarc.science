@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dlt06)  [Next](dlt08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dlt06)  [Next](dlt08.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,7 +126,7 @@ long passage of similar content follows; see also xxxvi. 10 ff. *The
 Ascension of Isaiah*, which is to a large extent of Christian origin,
 evidently, however, utilises much earlier material; a passage from a
 work called *The Testament of Hezekiah*, which has been incorporated
-into the *Ascension*, <span id="fr_21"></span>[1](#fn_21) runs: ". . .
+into the *Ascension*, <span id="fr_21"></span>[1](#fn_21.md) runs: ". . .
 And at his word the sun will rise at night, and he will make the moon to
 appear at the sixth hour" (iv. 5.); a description of the Second Advent
 follows later on. Of more interest, because of its greater details, is a
@@ -191,9 +191,9 @@ in the world:
 
 Revolution in the lands,  
 Disquietude among the peoples,  
-Devices of the nations, <span id="fr_22"></span>[1](#fn_22)  
+Devices of the nations, <span id="fr_22"></span>[1](#fn_22.md)  
 Fightings among princes,  
-Enmity among rulers, <span id="fr_23"></span>[2](#fn_23)--
+Enmity among rulers, <span id="fr_23"></span>[2](#fn_23.md)--
 
 then wilt thou understand that these are the things that the Most High
 spoke of since the days which were from the beginning. . . ." See the
@@ -206,7 +206,7 @@ whole passage, which is very suggestive all through.
 The thought of the end of the age and that of the actual Advent belong
 of course together, one presupposes the other; and therefore we shall
 not expect to find in every passage dealing with the approach of God, or
-of the Messiah, <span id="fr_24"></span>[1](#fn_24) the direct statement
+of the Messiah, <span id="fr_24"></span>[1](#fn_24.md) the direct statement
 that this approach heralds the end of all things; nor shall we expect to
 find in every passage dealing with the "end of the age" a direct
 statement of the actual Advent. The whole cycle of eschatological
@@ -250,7 +250,7 @@ Similitudes* also refers to the Advent, *e.g.*, xxxviii. 2: "And when
 the Righteous One shall appear before the eyes of the elect righteous
 whose works are wrought in dependence on the Lord of spirits . . . ."
 See also xxxix. 6: "In that place did mine eyes behold the 'Chosen One'
-(*i.e.*, the Messiah) <span id="fr_25"></span>[1](#fn_25) of
+(*i.e.*, the Messiah) <span id="fr_25"></span>[1](#fn_25.md) of
 righteousness and faithfulness; in his days shall righteousness reign."
 So, too, in the other portion of this work, called "The Book of
 Celestial Physics," the Advent is clearly referred to in the words: "And
@@ -427,7 +427,7 @@ multitude. And there were nigh unto him the figures of many men, some of
 them joyful, others sad; some of them bound, others led those whom they
 brought as offerings." In this passage there are a number of *traits*
 which are very much older than the book in which they have been
-embodied, <span id="fr_26"></span>[1](#fn_26) but
+embodied, <span id="fr_26"></span>[1](#fn_26.md) but
 
 <span id="page_97">p. 97</span>
 
@@ -491,8 +491,8 @@ wrath and indignation will He (God) burn, in the fire that burns and
 destroys, his (*i.e.* the wicked) land and his city and all that is his,
 like as He (God) burned Sodom; and he (*i.e.* the wicked man) shall be
 blotted out of the book of remembrance <span
-id="fr_27"></span>[1](#fn_27) of the children of men, and shall not be
-written in the book of life, <span id="fr_28"></span>[2](#fn_28) but in
+id="fr_27"></span>[1](#fn_27.md) of the children of men, and shall not be
+written in the book of life, <span id="fr_28"></span>[2](#fn_28.md) but in
 that of those who are destined to destruction; and he shall
 
 <span id="page_100">p. 100</span>
@@ -512,7 +512,7 @@ cause fire to go forth from Him, and it will consume all the godless,
 and they will be as though they had not been created." Once more, in
 *The Assumption of Moses* x. 3, we read: "For the Heavenly One will rise
 up from His throne, and will come forth from His holy
-dwelling-place <span id="fr_29"></span>[1](#fn_29) in indignation and in
+dwelling-place <span id="fr_29"></span>[1](#fn_29.md) in indignation and in
 wrath because of His children." The whole passage needs to be read in
 order to realise to the full its eschatological character. Then we have
 in the Syriac
@@ -526,7 +526,7 @@ upon them, and that their destruction is at hand." (See also xliv. 15,
 and the whole of li.) Lastly, in *iv. Esdras* vi. 18-20, we read:
 "Behold, days are coming in the which I will come near to punish the
 inhabitants of the earth, when I shall come to make
-[inquisition](errata.htm#1) concerning the iniquity of the evil doers. .
+[inquisition](errata.htm#1.md) concerning the iniquity of the evil doers. .
 . ." (See also xi. 37, 38.)
 
 On comparing the ideas on this subject with those contained in the Old
@@ -554,7 +554,7 @@ l; lviii. 3-6; lxix. 26.) *Sibylline Oracles* iii. 580-582: "In
 righteousness and in joy shall they inherit the cities and the fruitful
 fields, for they have attained to the Law of the Most High. They shall
 become prophets themselves, raised up by the Immortal One, and shall
-bring great joy to all men." <span id="fr_30"></span>[1](#fn_30) (See,
+bring great joy to all men." <span id="fr_30"></span>[1](#fn_30.md) (See,
 further, verses 702-731, 767-784.) *The Testaments of the Twelve
 Patriarchs*, Levi xviii. 12, 13: "And Beliar shall be bound by Him, and
 He shall give power to His children to tread upon the evil spirits. And
@@ -576,14 +576,14 @@ life, and for ever and ever the just shall be gathered together, and
 they shall be eternal." (See also lxi. 1 ff; lxvi. 7.) *The Ascension of
 Isaiah* (*The Testament of Hezekiah*) iv. 15-17: "And He will give rest
 to the godly whom He shall find in the body in this world. . . . But the
-saints will come with the Lord <span id="fr_31"></span>[1](#fn_31) with
+saints will come with the Lord <span id="fr_31"></span>[1](#fn_31.md) with
 their garments which are stored up on high in the seventh heaven; with
 the Lord will they come, whose spirits are clothed, they will descend
 and be present in the world, and He will strengthen those that have been
 found in the body, together with the saints, in the garments of the
-saints, <span id="fr_32"></span>[2](#fn_32) and the Lord will minister
+saints, <span id="fr_32"></span>[2](#fn_32.md) and the Lord will minister
 to those who have kept watch in this world." <span
-id="fr_33"></span>[3](#fn_33) *The Assumption of Moses* x. i: "And then
+id="fr_33"></span>[3](#fn_33.md) *The Assumption of Moses* x. i: "And then
 shall appear his rule over all creatures; then shall the devil come to
 an end, and with him sorrow shall be taken
 
@@ -592,7 +592,7 @@ an end, and with him sorrow shall be taken
 away" (*cf.* verses 8-10). The Syriac *Apocalypse of Baruch* has many
 passages of a similar kind, *e.g.*, li. 7-12: ". . . . For they shall
 dwell in the high places of that world, and they shall be like the
-angels <span id="fr_34"></span>[1](#fn_34) and shall be comparable with
+angels <span id="fr_34"></span>[1](#fn_34.md) and shall be comparable with
 the stars. . . . And then shall the glory of the righteous be greater
 than that of the angels. . . ." (See, further, xxix. 6-8, xliv. 13-15,
 and the beautiful passage lxxiii. 1-7.) Finally, *iv. Esdras* vi. 25-28:
@@ -601,7 +601,7 @@ shall be saved and shall see my salvation, and shall behold the end of
 my world. Then shall appear the men who were aforetime taken up and who
 have not tasted of death since their birth; then shall the heart of
 those who inhabit the earth be turned and be changed to a new
-spirit. <span id="fr_35"></span>[2](#fn_35) . . ." (See also xiii. 39,
+spirit. <span id="fr_35"></span>[2](#fn_35.md) . . ." (See also xiii. 39,
 40.) By those who "have not tasted death" are meant Enoch and Elijah,
 and possibly Moses, in view of the words in Deut. xxxvi. 6: *No man
 knoweth of his sepulchre unto this day*; as regards Enoch, see *Slav.
@@ -612,49 +612,49 @@ brings me back to you."
 
 ### Footnotes
 
-<span id="fn_21"></span>[82:1](dlt07.htm#fr_21) See Charles's edition,
+<span id="fn_21"></span>[82:1](dlt07.htm#fr_21.md) See Charles's edition,
 pp. xxxvi.--xliii.
 
-<span id="fn_22"></span>[85:1](dlt07.htm#fr_22) *Cf.* Ezek. xxxviii. 10.
+<span id="fn_22"></span>[85:1](dlt07.htm#fr_22.md) *Cf.* Ezek. xxxviii. 10.
 
-<span id="fn_23"></span>[85:2](dlt07.htm#fr_23) The poetic form of these
+<span id="fn_23"></span>[85:2](dlt07.htm#fr_23.md) The poetic form of these
 lines suggests ancient material.
 
-<span id="fn_24"></span>[86:1](dlt07.htm#fr_24) On this point see *The
+<span id="fn_24"></span>[86:1](dlt07.htm#fr_24.md) On this point see *The
 Evolution of the Messianic Idea*, pp. 230 ff.
 
-<span id="fn_25"></span>[88:1](dlt07.htm#fr_25) See Luke ix. 35: *This
+<span id="fn_25"></span>[88:1](dlt07.htm#fr_25.md) See Luke ix. 35: *This
 is my Son, my chosen; hear ye him*; xxiii. 35: *Let him save himself if
 this is the Christ of God, his chosen*. (*Cf.* Isa. xliii. 1, 2; *Eth.
 Enoch* xl. 5; xlv. 3, 4; xlix. 2, 4; li. 3, 5.)
 
-<span id="fn_26"></span>[96:1](dlt07.htm#fr_26) See further on this,
+<span id="fn_26"></span>[96:1](dlt07.htm#fr_26.md) See further on this,
 *The Messianic Teaching of iv. Esdras* in "The International Journal of
 Apocrypha," pp. 11 ff. (Jan. 1908).
 
-<span id="fn_27"></span>[99:1](dlt07.htm#fr_27) *Cf.* Mal. iii. 16.
+<span id="fn_27"></span>[99:1](dlt07.htm#fr_27.md) *Cf.* Mal. iii. 16.
 
-<span id="fn_28"></span>[99:2](dlt07.htm#fr_28) *Cf.* Ps. lxix. 28.
+<span id="fn_28"></span>[99:2](dlt07.htm#fr_28.md) *Cf.* Ps. lxix. 28.
 
-<span id="fn_29"></span>[100:1](dlt07.htm#fr_29) *Cf.* Mic. i.
+<span id="fn_29"></span>[100:1](dlt07.htm#fr_29.md) *Cf.* Mic. i.
 
-<span id="fn_30"></span>[102:1](dlt07.htm#fr_30) *Cf.* Dan. xii. 3.
+<span id="fn_30"></span>[102:1](dlt07.htm#fr_30.md) *Cf.* Dan. xii. 3.
 
-<span id="fn_31"></span>[103:1](dlt07.htm#fr_31) *Cf.* 1 Thess. iii. 13;
+<span id="fn_31"></span>[103:1](dlt07.htm#fr_31.md) *Cf.* 1 Thess. iii. 13;
 2 Thess. i. 10.
 
-<span id="fn_32"></span>[103:2](dlt07.htm#fr_32) *Cf.* Luke xxiv. 4.
+<span id="fn_32"></span>[103:2](dlt07.htm#fr_32.md) *Cf.* Luke xxiv. 4.
 
-<span id="fn_33"></span>[103:3](dlt07.htm#fr_33) *Cf.* 1 Thess. v. 6;
+<span id="fn_33"></span>[103:3](dlt07.htm#fr_33.md) *Cf.* 1 Thess. v. 6;
 Rev. xvi. 15.
 
-<span id="fn_34"></span>[104:1](dlt07.htm#fr_34) *Cf.* Luke xx. 36: *For
+<span id="fn_34"></span>[104:1](dlt07.htm#fr_34.md) *Cf.* Luke xx. 36: *For
 they are equal to the angels; and are sons of God, being sons of the
 resurrection*.
 
-<span id="fn_35"></span>[104:2](dlt07.htm#fr_35) *Cf.* Ezek. xxxvi. 26.
+<span id="fn_35"></span>[104:2](dlt07.htm#fr_35.md) *Cf.* Ezek. xxxvi. 26.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. Some Further Eschatological Elements in the
-Apocalyptic Literature](dlt08)
+Apocalyptic Literature](dlt08.md)

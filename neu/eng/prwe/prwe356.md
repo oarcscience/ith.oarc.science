@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe355)  [Next](prwe357) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe355)  [Next](prwe357.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ net, or pilchard seine.
 
 ------------------------------------------------------------------------
 
-[Next: The North Side of a Church](prwe357)
+[Next: The North Side of a Church](prwe357.md)

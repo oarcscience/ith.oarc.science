@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe100)  [Next](prwe102) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe100)  [Next](prwe102.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ to have, died when he was more than a hundred and fifty years old.
 
 ------------------------------------------------------------------------
 
-[Next: Dando and his Dogs](prwe102)
+[Next: Dando and his Dogs](prwe102.md)

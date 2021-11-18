@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[2 Timothy](ti2)  [Philemon](plm)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[2 Timothy](ti2)  [Philemon](plm.md)
 
 ------------------------------------------------------------------------
 
@@ -9,8 +9,8 @@
 
 ------------------------------------------------------------------------
 
-[Titus 1](tit001)  
+[Titus 1](tit001.md)  
 
-[Titus 2](tit002)  
+[Titus 2](tit002.md)  
 
-[Titus 3](tit003)  
+[Titus 3](tit003.md)  

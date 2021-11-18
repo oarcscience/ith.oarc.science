@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tgr07)  [Next](tgr09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tgr07)  [Next](tgr09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Think and Grow Rich*, by Napoleon Hill \[1938\], at Intangible Textual
 Heritage
 
@@ -892,4 +892,4 @@ that he quickly rose to a position of power, fame, and riches.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4. Auto-Suggestion (The Third Step toward Riches)](tgr09)
+[Next: Chapter 4. Auto-Suggestion (The Third Step toward Riches)](tgr09.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt29)  [Next](egt31) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt29)  [Next](egt31.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ shine splendid both by night, and day.
 
 ------------------------------------------------------------------------
 
-[Next: IN PRAISE OF HIS OMNIPOTENCE.](egt31)
+[Next: IN PRAISE OF HIS OMNIPOTENCE.](egt31.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag04)  [Next](rag06) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag04)  [Next](rag06.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ the next.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Was It Caused By Icebergs?](rag06)
+[Next: Chapter IV. Was It Caused By Icebergs?](rag06.md)

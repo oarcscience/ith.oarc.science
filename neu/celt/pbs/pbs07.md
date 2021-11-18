@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index) 
-[Index](index)  [Previous](pbs06)  [Next](pbs08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index.md) 
+[Index](index)  [Previous](pbs06)  [Next](pbs08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![T](img/02801.jpg) |
+| ![T](img/02801.jpg.md) |
 
 ERE are several additional predictions which have been wholly or partly
 fulfilled. "The day will come when the Mackenzies will lose all their
@@ -397,7 +397,7 @@ noticed by a lady relative of their mother, an aunt, of the name of
 Fletcher, who encouraged and helped on the education of the boys, and
 who took one or more of them to her own home, and brought them up;
 afterwards they found their way south, and ultimately became successful
-merchants and landed proprietors. <span id="fr_1"></span>[\*](#fn_1)
+merchants and landed proprietors. <span id="fr_1"></span>[\*](#fn_1.md)
 These are facts of which we were entirely ignorant when first writing
 down the stanzas already given. The verses were sent to us from various
 quarters, and they have undoubtedly been floating about the country for
@@ -1065,7 +1065,7 @@ Fasaidh a mar luibh,
 Like a bird from a bush;  
 He will grow like an herb;  
 He will spread like seed,  
-And set fire to Ardross.) <span id="fr_2"></span>[\*](#fn_2)
+And set fire to Ardross.) <span id="fr_2"></span>[\*](#fn_2.md)
 
 "Mhac Shimidh ball-dubh, a dh‘fhagus an oighreachd gun an t-oighre
 dligheach." (Mac Shimidh (Lovat), the black-spotted, who will leave the
@@ -1078,7 +1078,7 @@ Gairloch without the rightful heir), are also fragments.
 
 We do not know whether there has been any Lovat or Chisholm with the
 peculiar personal characteristics mentioned by the Seer, <span
-id="fr_3"></span>[†](#fn_3) and shall be glad to receive information
+id="fr_3"></span>[†](#fn_3.md) and shall be glad to receive information
 
 <span id="page_60">p. 60</span>
 
@@ -1106,7 +1106,7 @@ history.
 
 ### Footnotes
 
-<span id="fn_1"></span>[39:\*](pbs07.htm#fr_1) In corroboration of the
+<span id="fn_1"></span>[39:\*](pbs07.htm#fr_1.md) In corroboration of the
 main facts here stated, we quote the following from "Walford's County
 Families of the United Kingdom":--"FLETCHER, JAMES, Esq. of Rosehaugh,
 Ross-shire, son of the late Wm. Jack, Esq., by Isabel, dau. of the late
@@ -1117,10 +1117,10 @@ Alexander Hay, Esq., of the 58th Regt. . . . . . . He assumed the name
 of Fletcher in lieu of his patronymic on the death of his mother in
 1856."
 
-<span id="fn_2"></span>[59:\*](pbs07.htm#fr_2) A place of that name near
+<span id="fn_2"></span>[59:\*](pbs07.htm#fr_2.md) A place of that name near
 Beauly.
 
-<span id="fn_3"></span>[59:†](pbs07.htm#fr_3) Since the above was in
+<span id="fn_3"></span>[59:†](pbs07.htm#fr_3.md) Since the above was in
 type, we came across the following in Anderson's History of the Family
 of Fraser, p. 114:--"Hugh, son of the 10th Lord Lovat, was born on the
 28th September, 1666. From a large black spot on his upper lip he was
@@ -1132,4 +1132,4 @@ Càm, crooked or one-eyed Chisholm."
 
 ------------------------------------------------------------------------
 
-[Next: Sketch of the Family of Seaforth](pbs08)
+[Next: Sketch of the Family of Seaforth](pbs08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly14)  [Next](lly16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly14)  [Next](lly16.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ colors, can be felt a quarter mile away.
 
 ------------------------------------------------------------------------
 
-[Next: Glacier Point](lly16)
+[Next: Glacier Point](lly16.md)

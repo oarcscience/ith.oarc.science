@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia31)  [Next](aia33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia31)  [Next](aia33.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 IN the first place, we ought to take the figure for the exact moment of
 the person falling sick, or rather of being obliged to take to his
-bed. <span id="fr_91"></span>[1](#fn_91)
+bed. <span id="fr_91"></span>[1](#fn_91.md)
 
 Secondly, if that cannot be had, accept of that time when first any
 person spoke to a physician, &c. regarding the patient. And if it was
@@ -27,7 +27,7 @@ Thirdly, or let the physician note the time of his own first
 
 <span id="page_159">p. 159</span>
 
-speaking with the patient, <span id="fr_92"></span>[1](#fn_92) and let a
+speaking with the patient, <span id="fr_92"></span>[1](#fn_92.md) and let a
 figure be erected for that moment.
 
 Then consider carefully, first, the ascendant and planets therein;
@@ -51,7 +51,7 @@ those parts; or else with some rotten cough, as ♄ denotes coughs, and ♋
 rules the breast. If the lord of the ascendant, ☽, or lord of the 6th,
 be in a sign signifying the same member or parts as ♄, or if the sign on
 the 6th represent the same, your judgment will be more certain; I may
-say, infallible. <span id="fr_93"></span>[2](#fn_93)
+say, infallible. <span id="fr_93"></span>[2](#fn_93.md)
 
 I also would observe, in like manner, the 6th house, its
 
@@ -107,7 +107,7 @@ members of generation.
 11th. The leg from the knee to the ancle, the shin-bone, shank, &c.
 
 12th. The feet, ancles and toes, with all hurts or disease incident to
-them. <span id="fr_94"></span>[1](#fn_94)
+them. <span id="fr_94"></span>[1](#fn_94.md)
 
 *Whether the Disease will be long or short*.
 
@@ -122,7 +122,7 @@ and ☉ shorter; ♂ short, violent, and quick, such as cuts, bleedings, &c.
 ♀ a mean between both, and such as proceed from intemperance; ☿ various
 and changeable, such as fits, &c.; ☽ such as return at periods, as the
 falling sickness or epilepsy, giddiness, swimming in the head, gout,
-periodical illness in females, &c. <span id="fr_95"></span>[2](#fn_95)
+periodical illness in females, &c. <span id="fr_95"></span>[2](#fn_95.md)
 
 *Signs of a short Disease*.
 
@@ -290,7 +290,7 @@ or 4th, the same; and especially if the lord of the 8th be afflicted.
 
 The ☌ of ☽ with ☉ is a very ill sign, especially when she has not yet
 passed ☉; however, when the ☌ is in ♈ or ♌ it is not quite so
-evil. <span id="fr_96"></span>[1](#fn_96)
+evil. <span id="fr_96"></span>[1](#fn_96.md)
 
 In all cases the multiplicity of testimonies must be observed, the
 strength of the afflicting planets, and the absence of assistance to
@@ -401,11 +401,11 @@ I say, that the disease will vary in two weeks.
 
 JUDGMENT OF THE DISEASE FROM THE AFFLICTION OF THE MOON AT THE FIRST
 ILLNESS OF THE PATIENT, OR THE TIME OF ASKING THE QUESTION. <span
-id="fr_97"></span>[1](#fn_97)
+id="fr_97"></span>[1](#fn_97.md)
 
 *Whoever shall be first taken ill, or compelled to take to his bed when
 the* ☽ *is afflicted by* ♄, *or by* ☿, *if he have the nature of ♄,
-will, in a great* [*measure*](errata.htm#1), *suffer as here described*.
+will, in a great* [*measure*](errata.htm#1.md), *suffer as here described*.
 
 *The ☽ in ♈, in ☌, ☐, or ☍ of ♄*.--Headache or heaviness in the head,
 much discharge at the nostrils, dulness, or weariness of the eyes,
@@ -465,7 +465,7 @@ parts, and fear of sciatica.
 *sphincter muscle*, piles, hemorrhoids, or fistula. There is very likely
 a retention of urine, or the reverse; stone in the bladder, dropsical
 humour, &c. It may be that it is gonorrhea, &c., or the diseases of the
-matrix. <span id="fr_98"></span>[1](#fn_98)
+matrix. <span id="fr_98"></span>[1](#fn_98.md)
 
 *The ☽ in ♐ in ☌, &c. of ♄*.--The patient suffers by pains in the
 joints, &c., or fever, extremes of heat and cold. Illness often happens
@@ -479,19 +479,19 @@ It brings heaviness of the breast and stomach, difficulty of breathing,
 dry coughs, the lungs oppressed, and a fever is approaching. The pain is
 greater at night than in the day. The patient continually complains of
 headache, or pain in the left ear, or of a rumbling noise in his
-head. <span id="fr_99"></span>[2](#fn_99)
+head. <span id="fr_99"></span>[2](#fn_99.md)
 
 <span id="page_172">p. 172</span>
 
 *The ☉ in ♒ in ☌, &c. ♄*.--The illness is occasioned by too much toil of
 mind or body, want of sleep, or due refreshment. The malady comes on
 unequally with remission or intension. <span
-id="fr_100"></span>[1](#fn_100) The patient suffers by noise in the
+id="fr_100"></span>[1](#fn_100.md) The patient suffers by noise in the
 head, by wind, or faintness at the heart, or a rising and danger of
 suffocation by hysterical fits, &c.; and by sore throat.
 
 *The ☽ in ♓ in ☌, &c. ♄*.--The complaint arises from cold, <span
-id="fr_101"></span>[2](#fn_101) and the patient is afflicted with
+id="fr_101"></span>[2](#fn_101.md) and the patient is afflicted with
 continual fever, frequently sighs, suffers pains under the nipples of
 the breast, and about the heart; the throat suffers from much phlegm, or
 there is water in the chest, rotten cough, &c.
@@ -579,14 +579,14 @@ shews that they are yet drunk), they have vehement thirst, sharp burning
 fevers, and are desirous of wine. They have generally a looseness and
 much pain in the bowels, or a violent cough and great expectoration, and
 are almost suffocated with phlegm; the body is swollen, and there is
-danger of dropsy. <span id="fr_102"></span>[1](#fn_102)
+danger of dropsy. <span id="fr_102"></span>[1](#fn_102.md)
 
 <span id="page_175">p. 175</span>
 
 <span id="img_fig12"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt; 12.](tn/fig12.jpg)  
-Click to enlarge](img/fig12.jpg)  
+Click to enlarge](img/fig12.jpg.md)  
 *Fig* 12.  
 
 QUESTION. *A sick Doctor, what is his Disease? Is it curable?*
@@ -601,10 +601,10 @@ must require the part aggrieved.
 
 <span id="page_176">p. 176</span>
 
-♄ in ♈ shews the breast. <span id="fr_103"></span>[1](#fn_103)
+♄ in ♈ shews the breast. <span id="fr_103"></span>[1](#fn_103.md)
 
 ♂, lord of the ascendant, in ♌, signifies the heart. <span
-id="fr_104"></span>[1](#fn_103) The Lord of the ascendant has just
+id="fr_104"></span>[1](#fn_103.md) The Lord of the ascendant has just
 separated from a ☐ of ♄, being at that time in ♋, which signifies and
 rules over the breast and stomach. From all these testimonies I
 concluded that the parts of the body grieved were the head, breast,
@@ -649,7 +649,7 @@ following*.
 <span id="img_fig13"></span>
 
 [![Fig 13.](tn/fig13.jpg)  
-Click to enlarge](img/fig13.jpg)  
+Click to enlarge](img/fig13.jpg.md)  
 Fig 13.  
 
 <span id="page_178">p. 178</span>
@@ -1273,16 +1273,16 @@ parts.
 
 ☽ in ♓ shews cold taken in the feet, and body disordered thereby;
 swellings in the legs, dropsies, and the body over-charged with moist
-humours. <span id="fr_105"></span>[1](#fn_104)
+humours. <span id="fr_105"></span>[1](#fn_104.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_91"></span>[158:1](aia32.htm#fr_91) If the illness be
+<span id="fn_91"></span>[158:1](aia32.htm#fr_91.md) If the illness be
 produced by an accident, then take the time at which it occurred.
 
-<span id="fn_92"></span>[159:1](aia32.htm#fr_92) Our author adds, "or
+<span id="fn_92"></span>[159:1](aia32.htm#fr_92.md) Our author adds, "or
 when first the *urine* was brought to him." This makes it evident that
 the water doctors, as they were termed, even until a very recent period,
 had recourse to astrology to ascertain the nature and result of their
@@ -1291,29 +1291,29 @@ may be accurately learned by the science; and we believe that many
 medical men call it to their aid even now. The day is coming when this
 will be generally the case.
 
-<span id="fn_93"></span>[159:2](aia32.htm#fr_93) In all cases where the
+<span id="fn_93"></span>[159:2](aia32.htm#fr_93.md) In all cases where the
 ☽ is afflicted by either ♄ or ♂, we should regard the rules for that
 situation as of the chief importance; we have ever known them fail.
 
-<span id="fn_94"></span>[161:1](aia32.htm#fr_94) For the diseases
+<span id="fn_94"></span>[161:1](aia32.htm#fr_94.md) For the diseases
 signified by the *signs*, see CHAPTER XV; and for those of the
-*planets*, see the nature, &c. of each, at page [35](aia08.htm#page_35).
+*planets*, see the nature, &c. of each, at page [35](aia08.htm#page_35.md).
 
-<span id="fn_95"></span>[161:2](aia32.htm#fr_95) ♅ causes all uncommon
+<span id="fn_95"></span>[161:2](aia32.htm#fr_95.md) ♅ causes all uncommon
 and extraordinary complaints; or gives remarkable features to the
 sickness.
 
-<span id="fn_96"></span>[166:1](aia32.htm#fr_96) We should say, if it be
+<span id="fn_96"></span>[166:1](aia32.htm#fr_96.md) We should say, if it be
 in ♋, where ☽ disposes of ☉, it is not so evil.
 
-<span id="fn_97"></span>[169:1](aia32.htm#fr_97) The student may rely
+<span id="fn_97"></span>[169:1](aia32.htm#fr_97.md) The student may rely
 that he will find these rules, when they apply, to be
 infallible.--ZADKIEL.
 
-<span id="fn_98"></span>[171:1](aia32.htm#fr_98) These latter
+<span id="fn_98"></span>[171:1](aia32.htm#fr_98.md) These latter
 especially, if ♀ throw an ill aspect, or the lord of the 5th house.
 
-<span id="fn_99"></span>[171:2](aia32.htm#fr_99) We can speak personally
+<span id="fn_99"></span>[171:2](aia32.htm#fr_99.md) We can speak personally
 as to this effect. We were taken ill in the evening of the 1st March,
 1829, when ☽ was in ♑, 19°, and ♄ in ♋ 28°, and we suffered extremely
 during the night, and had violent pains in the left side of the head,
@@ -1323,21 +1323,21 @@ having caught cold after taking mercury. The direction in our nativity
 was M.C. ☌ ☉, who, being in ☌ with ♂ at birth, partook of his ill
 qualities, and afflicted the ascendant by his mundane square.
 
-<span id="fn_100"></span>[172:1](aia32.htm#fr_100) This till ☽ is past ☍
+<span id="fn_100"></span>[172:1](aia32.htm#fr_100.md) This till ☽ is past ☍
 of her own place, when, if there be good aspects the sick is
 recoverable.
 
-<span id="fn_101"></span>[172:2](aia32.htm#fr_101) Especially wet feet,
+<span id="fn_101"></span>[172:2](aia32.htm#fr_101.md) Especially wet feet,
 damp linen, &c.
 
-<span id="fn_102"></span>[174:1](aia32.htm#fr_102) Where various
+<span id="fn_102"></span>[174:1](aia32.htm#fr_102.md) Where various
 diseases are named, the student must look to other testimonies to
 ascertain the exact complaint.
 
-<span id="fn_103"></span>[176:1](aia32.htm#fr_104) This will be seen by
+<span id="fn_103"></span>[176:1](aia32.htm#fr_104.md) This will be seen by
 the Table at the end of this chapter.
 
-<span id="fn_104"></span>[186:1](aia32.htm#fr_105) This table is taken
+<span id="fn_104"></span>[186:1](aia32.htm#fr_105.md) This table is taken
 from the old Arab writers on astrology, who flourished many centuries
 back: they used many terms inconsistent with the modern nomenclature of
 diseases; but as the human frame is still the same, so are its diseases,
@@ -1347,4 +1347,4 @@ action, arising from debility.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX. The Seventh House, and its Questions](aia33)
+[Next: Chapter XXX. The Seventh House, and its Questions](aia33.md)

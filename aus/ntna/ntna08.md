@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna07)  [Next](ntna09) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna07)  [Next](ntna09.md) 
 
 ------------------------------------------------------------------------
 
@@ -954,4 +954,4 @@ time as it is washed away by a flood.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Magic and Medicine](ntna09)
+[Next: Chapter VII: Magic and Medicine](ntna09.md)

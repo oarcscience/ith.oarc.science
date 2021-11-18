@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre60)  [Next](gre62) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre60)  [Next](gre62.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ he bear to be alone.
 ------------------------------------------------------------------------
 
 [Next: Chapter LVII: How Thorir of Garth set on Grettir on
-Ernewaterheath](gre62)
+Ernewaterheath](gre62.md)

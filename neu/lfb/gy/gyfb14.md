@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb13)  [Next](gyfb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb13)  [Next](gyfb15.md) 
 
 </div>
 
@@ -161,6 +161,6 @@ together till they died.
 
 ------------------------------------------------------------------------
 
-[Next: Herr Lazarus and the Draken](gyfb15)
+[Next: Herr Lazarus and the Draken](gyfb15.md)
 
 </div>

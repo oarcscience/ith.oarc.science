@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy08) 
-[Next](gsoy10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy08.md) 
+[Next](gsoy10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -260,4 +260,4 @@ Nor what light shines beyond their broken lamps,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eight. The Chinese Yoga](gsoy10)
+[Next: Chapter Eight. The Chinese Yoga](gsoy10.md)

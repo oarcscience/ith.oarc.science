@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale31)  [Next](tale33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale31)  [Next](tale33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -130,7 +130,7 @@ the vase, and saw that all the
 <span id="img_34900"></span>
 
 [![THE GOLD PIECES FALL OUT OF THE JAR OF OLIVES](tn/34900.jpg)  
-Click to enlarge](img/34900.jpg)  
+Click to enlarge](img/34900.jpg.md)  
 THE GOLD PIECES FALL OUT OF THE JAR OF OLIVES  
 
 bottom was filled with gold. He then replaced the olives and returned to
@@ -429,4 +429,4 @@ of gold as a mark of his favour.
 
 ------------------------------------------------------------------------
 
-[Next: The Enchanted Horse](tale33)
+[Next: The Enchanted Horse](tale33.md)

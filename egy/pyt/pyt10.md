@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt09)  [Next](pyt11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt09)  [Next](pyt11.md) 
 
 ------------------------------------------------------------------------
 
@@ -608,4 +608,4 @@ in *Wn.w*.
 ------------------------------------------------------------------------
 
 [Next: 8. The Deceased King Triumphs Over His Enemies and is Recognized
-by the Gods, Utterances 260-262](pyt11)
+by the Gods, Utterances 260-262](pyt11.md)

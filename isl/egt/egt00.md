@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](egt01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](egt01.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ Asiatic Society of Bengal*.
 
 ------------------------------------------------------------------------
 
-[Next: Preface.](egt01)
+[Next: Preface.](egt01.md)

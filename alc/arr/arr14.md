@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr13)  [Next](arr15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr13)  [Next](arr15.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,4 +135,4 @@ through the inner powers of the mind.
 
 ------------------------------------------------------------------------
 
-[Next: The Quintessence. (II)](arr15)
+[Next: The Quintessence. (II)](arr15.md)

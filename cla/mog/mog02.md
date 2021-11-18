@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mog01)  [Next](mog03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mog01)  [Next](mog03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ mythical genealogies and the mythical chronology. I am unable to do
 this. I know and appreciate the tenacity of folk memory, but I know also
 how popular tradition is preserved--and confused and remodeled. The
 remodeling affects especially the chronological relations of the
-personages, which are changed freely. <span id="fr_0"></span>[1](#fn_0)
+personages, which are changed freely. <span id="fr_0"></span>[1](#fn_0.md)
 In so far as epical tradition is concerned, the right analogy is not the
 traditions which have an historical aspect but the Nibelungenlied and
 the Beowulf and similar epical traditions which I shall characterize
@@ -115,7 +115,7 @@ places of settlement, mixed up and confused their traditions, too. The
 historical aspect of Greek mythology and especially the mythical
 chronology are products of the systematizing of the myths by the poets
 of cyclical epics and still more the product of rationalization and
-historification by the logographers. <span id="fr_1"></span>[2](#fn_1)
+historification by the logographers. <span id="fr_1"></span>[2](#fn_1.md)
 
 <span id="page_5">p. 5</span>
 
@@ -154,7 +154,7 @@ examples to illustrate the methods of the historical school and the
 discrepancies to which they lead.
 
 Several years ago Professor Friedländer tried to trace the development
-of the Heracles cycle. <span id="fr_2"></span>[3](#fn_2) According to
+of the Heracles cycle. <span id="fr_2"></span>[3](#fn_2.md) According to
 his theory, the fundamental fact is the belief of the Tirynthians in
 their helpful hero. From the Peloponnese, Heracles emigrated to the
 island of Rhodes and here new adventures were added to those which had
@@ -163,7 +163,7 @@ adventures was developed and formed on Rhodes.
 
 The most comprehensive and significant example, however, is Professor
 Bethe's attempt to explain the origin and development of the Trojan
-cycle. <span id="fr_3"></span>[4](#fn_3) He finds the old kernels of
+cycle. <span id="fr_3"></span>[4](#fn_3.md) He finds the old kernels of
 this cycle in the duels between heroes who, according to him, were
 originally localized on the mainland of Greece. These simple and
 unconnected myths were brought to Aeolia by the different tribes to
@@ -191,7 +191,7 @@ and has not succeeded in gaining approval.
 Another great scholar, Professor Wilamowitz, differs from Professor
 Bethe in the analysis of the poems but takes the same point of view in
 regard to the development of the myths. In a recent paper <span
-id="fr_4"></span>[5](#fn_4) he states briefly that Phthiotians and
+id="fr_4"></span>[5](#fn_4.md) he states briefly that Phthiotians and
 Magnesians who emigrated from Thessaly to Aeolia brought Achilles with
 them; that the house of Agamemnon originated at Cyme and in Lesbos,
 whilst his appearing as king on the mainland of Greece is due to epic
@@ -228,7 +228,7 @@ cults and heroes must be regarded with a critical eye and must not be
 used as arguments unless their reliability is tested, for they are often
 due to the influence of epics. The localizations of Agamemnon are
 illuminating examples to which I shall recur in another place. <span
-id="fr_5"></span>[6](#fn_5)
+id="fr_5"></span>[6](#fn_5.md)
 
 <span id="page_9">p. 9</span>
 
@@ -249,9 +249,9 @@ failure and showed the frailty of the principle, for in this case we
 have the epos and can use it as a control. To take another instance,
 Professor Wilamowitz contends that the bravery of Diomedes is the oldest
 song of the Iliad and an imitation of the Thebais. <span
-id="fr_6"></span>[7](#fn_6) If this is true, it is extremely remarkable
+id="fr_6"></span>[7](#fn_6.md) If this is true, it is extremely remarkable
 that the Theban myths in Homer and Hesiod differ so markedly from the
-common version. <span id="fr_7"></span>[8](#fn_7) The unavoidable
+common version. <span id="fr_7"></span>[8](#fn_7.md) The unavoidable
 conclusion would be that the Thebais, supposed to be earlier than Homer,
 has not been able to impress its version either upon Homer or upon
 Hesiod. Wild shoots of the myth have lived in spite of epical
@@ -331,7 +331,7 @@ Archaeology affords means of dating certain elements appearing in
 Homeric poetry. The latest of these elements belong to the Orientalizing
 period; here we are concerned with the oldest. These go back to the
 Mycenaean age and moreover, what is most remarkable, many of them to its
-earliest phase. <span id="fr_8"></span>[9](#fn_8) At this point a few
+earliest phase. <span id="fr_8"></span>[9](#fn_8.md) At this point a few
 hints concerning this important subject must suffice. Homeric arms have
 given rise to a vast literature, and Nestor's cup is often mentioned;
 yet the body shield was already superseded by the small shield in late
@@ -358,12 +358,12 @@ already long inhabited the Peloponnese. The king of Mycenae is the
 overlord of the Greeks, and the other heroes are his vassals. Mycenae
 rich in gold is the foremost city of Greece and its king the mightiest
 monarch of Greece. The attempt to derogate these facts <span
-id="fr_9"></span>[10](#fn_9) is vain, for it is inconceivable that an
+id="fr_9"></span>[10](#fn_9.md) is vain, for it is inconceivable that an
 Ionian minstrel of the seventh century B.C. should have happened on the
 idea of ascribing such a position to the town and the king of Mycenae,
 which at that time was in fact a rotten borough. Nor has Agamemnon any
 real existence except in the Trojan cycle, although the contrary often
-is asserted. <span id="fr_10"></span>[11](#fn_10) Attempts to deny these
+is asserted. <span id="fr_10"></span>[11](#fn_10.md) Attempts to deny these
 facts can only lead us into error and to the erection of frail
 hypotheses. Here we ought also to speak of the really kingly power of
 Agamemnon, but as this is not so evident I shall recur to it in a later
@@ -419,8 +419,8 @@ poetry. A comprehensive study of this vast subject has never been taken
 up, only hints and minor attempts have been made. Professor von Pöhlmann
 drew attention to living epic poetry and pointed to the failure of
 Homeric research in not taking this into account, <span
-id="fr_11"></span>[12](#fn_11) but in vain. Professor Drerup gave a
-survey of various popular epics <span id="fr_12"></span>[13](#fn_12) but
+id="fr_11"></span>[12](#fn_11.md) but in vain. Professor Drerup gave a
+survey of various popular epics <span id="fr_12"></span>[13](#fn_12.md) but
 seems to have been forgotten, perhaps because these materials were not
 utilized by him in their true bearing upon Greek epics. English works
 are one-sided, and that is true not only of Professor Andrew
@@ -429,12 +429,12 @@ are one-sided, and that is true not only of Professor Andrew
 
 <span class="contnote">\[paragraph continues\]</span> Lang's more
 cursory comparison of Homeric epics with the *chansons de geste* <span
-id="fr_13"></span>[14](#fn_13) but also of Professor Chadwick's
+id="fr_13"></span>[14](#fn_13.md) but also of Professor Chadwick's
 important book, in which he institutes a detailed comparison between
-Greek and Teutonic epics. <span id="fr_14"></span>[15](#fn_14) It is
+Greek and Teutonic epics. <span id="fr_14"></span>[15](#fn_14.md) It is
 self-evident that a comparison ought to be instituted on the largest
 possible basis, and that everything which is accidental and not
-essential ought to be discarded. <span id="fr_15"></span>[16](#fn_15)
+essential ought to be discarded. <span id="fr_15"></span>[16](#fn_15.md)
 
 It is impossible here to give an account of the numerous instances of
 popular epics. I simply enumerate them. We have, in the first place,
@@ -536,7 +536,7 @@ Kara Kirgiz minstrels is applicable to all: The singer has a large store
 of poetical parts ready, and his art consists in coordinating these
 parts according to the course of events and connecting them by the aid
 of new-made verses. A skilled poet is able to improvise a poem on every
-subject. <span id="fr_16"></span>[17](#fn_16)
+subject. <span id="fr_16"></span>[17](#fn_16.md)
 
 <span id="page_20">p. 20</span>
 
@@ -550,7 +550,7 @@ old elements with new taken from his own time.
 
 These general statements agree completely with what Greek epics
 themselves, especially the Odyssey, say as to the art and manner of the
-recital of Greek [minstrels](errata.htm#0), and we may surmise with
+recital of Greek [minstrels](errata.htm#0.md), and we may surmise with
 certainty that it was not otherwise in the pre-Homeric age. The fact
 that the stock expressions often are philologically very old-fashioned
 and that their meaning was no longer understood by the minstrels
@@ -576,7 +576,7 @@ who have established themselves on the mainland of Greece and subjugated
 the indigenous population. He admits the view that epics go back into
 the Mycenaean age and supposes consequently that they were at first
 chanted in the Minoan language and afterwards, in a bilingual society,
-transferred into Greek. <span id="fr_17"></span>[18](#fn_17) A similar
+transferred into Greek. <span id="fr_17"></span>[18](#fn_17.md) A similar
 process took place elsewhere, but the result was in reality new epics,
 and such a process would of course invalidate the above reasoning
 concerning the preservation of old elements through the epical
@@ -591,7 +591,7 @@ In spite of the great authority of the scholar I have mentioned, I am
 firmly convinced that the Mycenaeans were immigrated Greeks who took
 over the Minoan civilization. It would take too long to set forth my
 reasons and I refer the reader to previous writings in which I have
-dwelt upon this question. <span id="fr_18"></span>[19](#fn_18) This view
+dwelt upon this question. <span id="fr_18"></span>[19](#fn_18.md) This view
 is prevailing nowadays. Younger archaeologists are prone to throw back
 the commencement of the Greek immigration
 
@@ -717,14 +717,14 @@ account not only of epics but also of plain tales told in prose
 and preserving a great number of myths which lyric and tragic poets made
 famous in a later age. Such prose epics are not unparalleled. The cycle
 of the Nartes, heroes of the Ossetes and other peoples of the Caucasus,
-is told in prose. <span id="fr_19"></span>[20](#fn_19)
+is told in prose. <span id="fr_19"></span>[20](#fn_19.md)
 
 It can be demonstrated that numerous other myths and cycles of myths go
 back into the Mycenaean age. I begin by referring to an acute
 philological observation which proves that a number of mythical heroes
 must go back to an age much earlier than that of Homer. Professor
 Kretschmer drew attention to the fundamental difference between two
-series of heroic names. <span id="fr_20"></span>[21](#fn_20) The names
+series of heroic names. <span id="fr_20"></span>[21](#fn_20.md) The names
 of the older series have the ending -*eus* and are generally abbreviated
 forms; the names of the sons of these mythical personages are on the
 contrary chiefly common compound names; e.g., Peleus, Achilleus, as
@@ -751,7 +751,7 @@ It may be rightly objected that hereby only the great antiquity of
 isolated myths is demonstrated, but it can also be proved that the great
 mythical cycles are very much older than Homer, that, in fact, they go
 back to the Mycenaean age. I have briefly given the proof of this in
-earlier writings <span id="fr_21"></span>[22](#fn_21) and a detailed
+earlier writings <span id="fr_21"></span>[22](#fn_21.md) and a detailed
 discussion will be the chief content of my subsequent lectures; here I
 dwell only on the question of principles. We know that mythology was the
 guide which led to the discovery of the Mycenaean and Minoan sites; it
@@ -790,7 +790,7 @@ purpose to add some methodological remarks.
 
 In regard to the Mycenaean remains, it may be objected that they are
 known only incompletely and that they have not been methodically
-explored all over Greece. <span id="fr_22"></span>[23](#fn_22) That is
+explored all over Greece. <span id="fr_22"></span>[23](#fn_22.md) That is
 true, for every year new
 
 <span id="page_29">p. 29</span>
@@ -803,7 +803,7 @@ other provinces that it is hardly to be expected that new discoveries
 will greatly change their relative importance. The map of Mycenaean
 sites and civilization will be completed, not turned upside down nor
 even substantially altered. Certain irregularities exist which will be
-treated in due course. <span id="fr_23"></span>[24](#fn_23)
+treated in due course. <span id="fr_23"></span>[24](#fn_23.md)
 
 In regard to mythology, certain points ought to be emphasized. We have
 noted that myths were remodeled in late and even in very late times. The
@@ -884,15 +884,15 @@ One is the so-called Scylla of a Cretan seal impression depicting a man
 in a boat who seems to fight with a marine monster rising up from the
 sea. The monster is not like Scylla and it is very doubtful whether a
 mythical incident is here represented. <span
-id="fr_24"></span>[25](#fn_24) The second instance is a gold ring from a
+id="fr_24"></span>[25](#fn_24.md) The second instance is a gold ring from a
 find near Tiryns, the engravings on which represent a ship and two
 couples, each consisting of a man and a woman. The scene is called the
 abduction of Helen, but this interpretation has never been taken in
 earnest; it is quite arbitrary; the scene may as well be a scene of
 salutation or of congée. It belongs probably to the scenes of daily life
 which sometimes occur in Mycenaean art. <span
-id="fr_25"></span>[26](#fn_25) I prefer to pass over the famous treasure
-from Thisbe in silence. <span id="fr_26"></span>[27](#fn_26)
+id="fr_25"></span>[26](#fn_25.md) I prefer to pass over the famous treasure
+from Thisbe in silence. <span id="fr_26"></span>[27](#fn_26.md)
 
 In the light of these facts one must needs reason as follows: the Minoan
 art, which had no mythical but only cultual representations, was taken
@@ -919,7 +919,7 @@ very rich and beautiful contents of the bee-hive tomb at Dendra, near
 old Mideia, which was excavated in 1926 by Professor Persson, were eight
 plaques of blue glass, evidently made in a mold, for they are identical.
 They show a woman sitting on the back of a big bull. <span
-id="fr_27"></span>[28](#fn_27) The representation is very similar to
+id="fr_27"></span>[28](#fn_27.md) The representation is very similar to
 that of the well-known metope from Selinus, and if it had belonged to
 classical times everybody would have immediately recognized Europa on
 the back of the bull. I am unable to see why we should not accept this
@@ -927,7 +927,7 @@ identification, even if the object is Mycenaean.
 
 Among the same finds there are also another glass plaque and fragments
 of two others which represent a big standing lion and before it a
-man. <span id="fr_28"></span>[29](#fn_28) From the back of the lion a
+man. <span id="fr_28"></span>[29](#fn_28.md) From the back of the lion a
 head seems to grow up; the lion's tail is very long. The plaques are in
 a bad state of preservation so that details are uncertain, but it
 
@@ -937,10 +937,10 @@ cannot reasonably be doubted that this is another mythical
 representation, the Chimaera and Bellerophon. It may seem astonishing
 that of the two myths illustrated the scenes of both are laid in foreign
 countries--I shall recur to this topic later. <span
-id="fr_29"></span>[30](#fn_29) A third representation referring to a
+id="fr_29"></span>[30](#fn_29.md) A third representation referring to a
 Greek myth is that of two centaurs, each with a dagger in his hand, on a
 steatite gem found by Dr. Blegen in a Late Mycenaean tomb during his
-excavations at the Argive Heraeum. <span id="fr_30"></span>[31](#fn_30)
+excavations at the Argive Heraeum. <span id="fr_30"></span>[31](#fn_30.md)
 Here I wish only to stress the fact that Mycenaean representations of
 Greek myths actually have come to light. If it is proved that the myths
 of Europa, of Bellerophon, and of the Centaurs go back into the
@@ -952,12 +952,12 @@ into the Mycenaean age.
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:1](mog02.htm#fr_0) See my article "Ueber die
+<span id="fn_0"></span>[4:1](mog02.htm#fr_0.md) See my article "Ueber die
 Glaubwürdigkeit der Volksüberlieferung bes. in Bezug auf die alte
 Geschichte" in the Italian periodical *Scientia*, 1930, pp. 319 *et
 seq*.
 
-<span id="fn_1"></span>[4:2](mog02.htm#fr_1) The lectures of one of my
+<span id="fn_1"></span>[4:2](mog02.htm#fr_1.md) The lectures of one of my
 predecessors in the Sather professorship, Professor Myres, came into my
 hands through the kindness of the author after my lectures had already
 been written down. Professor Myres thinks that heroic genealogy makes up
@@ -966,38 +966,38 @@ to justify in the following pages. I have tried to take justly into
 account the circumstances of time, of popular tradition, and of the
 transmission of epic poetry.
 
-<span id="fn_2"></span>[6:3](mog02.htm#fr_2) P. Friedländer, "Herakles,"
+<span id="fn_2"></span>[6:3](mog02.htm#fr_2.md) P. Friedländer, "Herakles,"
 *Philologische Untersuchungen*, H. XIX (1907).
 
-<span id="fn_3"></span>[6:4](mog02.htm#fr_3) E. Bethe, Homer, I-III
+<span id="fn_3"></span>[6:4](mog02.htm#fr_3.md) E. Bethe, Homer, I-III
 (1914-27; Vol. II, ed. 2, with only slight additions, 1929).
 
-<span id="fn_4"></span>[7:5](mog02.htm#fr_4) U. v.
+<span id="fn_4"></span>[7:5](mog02.htm#fr_4.md) U. v.
 Wilamowitz-Moellendorff, "*Die griechische Heldensage*, II,"
 *Sitzungsberichte der preussischen Akademie der Wissenschaften*, 1925,
 p. 241.
 
-<span id="fn_5"></span>[8:6](mog02.htm#fr_5) Below pp.
-[148](mog10.htm#page_148) *et seq*.
+<span id="fn_5"></span>[8:6](mog02.htm#fr_5.md) Below pp.
+[148](mog10.htm#page_148.md) *et seq*.
 
-<span id="fn_6"></span>[9:7](mog02.htm#fr_6) U. v.
+<span id="fn_6"></span>[9:7](mog02.htm#fr_6.md) U. v.
 Wilamowitz-Moellendorff, *Die Ilias and Homer* (1916), p. 339.
 
-<span id="fn_7"></span>[9:8](mog02.htm#fr_7) *Il*. xxiii, v. 676 *et
+<span id="fn_7"></span>[9:8](mog02.htm#fr_7.md) *Il*. xxiii, v. 676 *et
 seq*.; Hesiod, *Erga*, v. 161 *et seq*.
 
-<span id="fn_8"></span>[12:9](mog02.htm#fr_8) H. L. Lorimer, "Defensive
+<span id="fn_8"></span>[12:9](mog02.htm#fr_8.md) H. L. Lorimer, "Defensive
 Armour in Homer," *Liverpool Annals of Archaeology and Anthropology*, XV
 (1928), pp. 89 *et seq*.; and "Homer's Use of the Past," *Journal of
 Hellenic Studies*, XLIX (1929), pp. 145 *et seq*.
 
-<span id="fn_9"></span>[13:10](mog02.htm#fr_9) Bethe, *loc. cit.*; cp.
-below [p. 45](mog04.htm#page_45).
+<span id="fn_9"></span>[13:10](mog02.htm#fr_9.md) Bethe, *loc. cit.*; cp.
+below [p. 45](mog04.htm#page_45.md).
 
-<span id="fn_10"></span>[13:11](mog02.htm#fr_10) *Vide* below, pp.
-[46](mog04.htm#page_46) *et seq*.
+<span id="fn_10"></span>[13:11](mog02.htm#fr_10.md) *Vide* below, pp.
+[46](mog04.htm#page_46.md) *et seq*.
 
-<span id="fn_11"></span>[15:12](mog02.htm#fr_11) R. v. Pöhlmann, "Zur
+<span id="fn_11"></span>[15:12](mog02.htm#fr_11.md) R. v. Pöhlmann, "Zur
 geschichtlichen Beurteilung Homers," *Sybel's historische Zeitschrift*,
 LXXIII (1894), pp. 385 *et seq*.; reprinted in his "Gesammelte
 Abhandlungen," *Aus Altertum und Gegenwart*, I., pp. 56 *et seq*. What
@@ -1007,44 +1007,44 @@ Seite der homerischen Frage so überaus wichtige Material bei weitem noch
 nicht in dem Umfang herangezogen und verwertet hat, in welchem es uns
 jetzt vorliegt."
 
-<span id="fn_12"></span>[15:13](mog02.htm#fr_12) E. Drerup, "Homerische
+<span id="fn_12"></span>[15:13](mog02.htm#fr_12.md) E. Drerup, "Homerische
 Poetik," I., *Das Homerproblem in der Gegenwart* (1921), pp. 27 *et
 seq*. Cp. the brief survey by John Meier, *Werden und Leben des
 Volksepos* (1909).
 
-<span id="fn_13"></span>[16:14](mog02.htm#fr_13) A. Lang, *Homer and his
+<span id="fn_13"></span>[16:14](mog02.htm#fr_13.md) A. Lang, *Homer and his
 Age* (1906), pp. 297 *et seq*.
 
-<span id="fn_14"></span>[16:15](mog02.htm#fr_14) H. M. Chadwick, *The
+<span id="fn_14"></span>[16:15](mog02.htm#fr_14.md) H. M. Chadwick, *The
 Heroic Age* (1912).
 
-<span id="fn_15"></span>[16:16](mog02.htm#fr_15) I hope to be able to
+<span id="fn_15"></span>[16:16](mog02.htm#fr_15.md) I hope to be able to
 give a fuller exposition of this subject in a forthcoming book with the
 title *Homer and Mycenae*, the basis of which is a series of lectures
 delivered in the University of London in 1929.
 
-<span id="fn_16"></span>[19:17](mog02.htm#fr_16) W. Radloff, "Die
+<span id="fn_16"></span>[19:17](mog02.htm#fr_16.md) W. Radloff, "Die
 Sprachen der nördlichen Türkstämme," V, *Der Dialekt der Kara-Kirgizen*
 (1885), p. xvi.
 
-<span id="fn_17"></span>[21:18](mog02.htm#fr_17) A. J. Evans, *Journal
+<span id="fn_17"></span>[21:18](mog02.htm#fr_17.md) A. J. Evans, *Journal
 of Hellenic Studies*, XXXII (1912), pp. 387 *et seq*.
 
-<span id="fn_18"></span>[21:19](mog02.htm#fr_18) In my *Minoan-Mycenaean
+<span id="fn_18"></span>[21:19](mog02.htm#fr_18.md) In my *Minoan-Mycenaean
 Religion*, pp. 11 *et seq*.
 
-<span id="fn_19"></span>[26:20](mog02.htm#fr_19) G. Dumézil, *Légendes
+<span id="fn_19"></span>[26:20](mog02.htm#fr_19.md) G. Dumézil, *Légendes
 sur les Nartes* (1930).
 
-<span id="fn_20"></span>[26:21](mog02.htm#fr_20) P. Kretschmer, in the
+<span id="fn_20"></span>[26:21](mog02.htm#fr_20.md) P. Kretschmer, in the
 periodical *Glotta*, X (1920), pp. 305 *et seq*.
 
-<span id="fn_21"></span>[27:22](mog02.htm#fr_21) See my article, "Der
+<span id="fn_21"></span>[27:22](mog02.htm#fr_21.md) See my article, "Der
 mykenische Ursprung der griechischen Mythologie," Ἀντίδωρον,
 *Festschrift für J. Wackernagel* (1924), pp. 137, *et seq*. and my
 *History of Greek Religion*, pp. 38 *et seq*.
 
-<span id="fn_22"></span>[28:23](mog02.htm#fr_22) A good but very summary
+<span id="fn_22"></span>[28:23](mog02.htm#fr_22.md) A good but very summary
 review of the prehistoric sites and find-places is given by Dr. Fimmen
 in his book, *Die kretisch-mykenische Kultur* (1921). The second edition
 (1924) is merely a reprint with very slight additions. In particular, a
@@ -1056,37 +1056,37 @@ given by the late Professor O. Montelius in his work, *La Grèce
 préclassique*, I, II:2 (1924-28). It is to be regretted that this
 posthumous work has not been brought up to date.
 
-<span id="fn_23"></span>[29:24](mog02.htm#fr_23) Cp. below pp.
-[128](mog10.htm#page_128) and [182](mog12.htm#page_182).
+<span id="fn_23"></span>[29:24](mog02.htm#fr_23.md) Cp. below pp.
+[128](mog10.htm#page_128) and [182](mog12.htm#page_182.md).
 
-<span id="fn_24"></span>[32:25](mog02.htm#fr_24) British School at
+<span id="fn_24"></span>[32:25](mog02.htm#fr_24.md) British School at
 Athens, *Annual*, IX, p. 58, fig. 36; the latest treatment by S.
 Marinatos, Μινωικὴ καὶ Ὁμηρικὴ Σκύλλα in Δελτίον ἀρχαιολογικόν, X, pp.
 51 *et seq*.
 
-<span id="fn_25"></span>[32:26](mog02.htm#fr_25) See e.g. my
+<span id="fn_25"></span>[32:26](mog02.htm#fr_25.md) See e.g. my
 *Minoan-Mycenaean Religion*, p. 44, n. 3.
 
-<span id="fn_26"></span>[32:27](mog02.htm#fr_26) A. J. Evans, "The Ring
+<span id="fn_26"></span>[32:27](mog02.htm#fr_26.md) A. J. Evans, "The Ring
 of Nestor, etc.", *Journal of Hellenic Studies*, XL (1925), pp. 1 *et
 seq*. The genuineness of this most amazing find is vigorously contested;
 I have given some objections in my *Minoan-Mycenaean Religion*, pp. 304
 *et seq*.
 
-<span id="fn_27"></span>[33:28](mog02.htm#fr_27) A. W. Persson,
+<span id="fn_27"></span>[33:28](mog02.htm#fr_27.md) A. W. Persson,
 *Kungagraven i Dendra* (1928), p. 123; cp. below [p.
-38](mog04.htm#page_38), n. [6](mog04.htm#fn_36).
+38](mog04.htm#page_38), n. [6](mog04.htm#fn_36.md).
 
-<span id="fn_28"></span>[33:29](mog02.htm#fr_28) *Loc. cit.*, p. 125.
+<span id="fn_28"></span>[33:29](mog02.htm#fr_28.md) *Loc. cit.*, p. 125.
 
-<span id="fn_29"></span>[34:30](mog02.htm#fr_29) Below pp.
-[53](mog04.htm#page_53) *et seq*.
+<span id="fn_29"></span>[34:30](mog02.htm#fr_29.md) Below pp.
+[53](mog04.htm#page_53.md) *et seq*.
 
-<span id="fn_30"></span>[34:31](mog02.htm#fr_30) Dr. Blegen has kindly
+<span id="fn_30"></span>[34:31](mog02.htm#fr_30.md) Dr. Blegen has kindly
 shown me a design of this gem, which will be published in his
 forthcoming work, *Prosymna*, and has given me his permission to mention
 it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Introduction](mog03)
+[Next: Chapter II: Introduction](mog03.md)

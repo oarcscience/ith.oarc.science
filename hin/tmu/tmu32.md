@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu31)  [Next](tmu33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu31)  [Next](tmu33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_260">p. 260</span>
 
-### YOGAKUṆDALĪ <span id="fr_247"></span>[1](#fn_232)-UPANISHAḌ
+### YOGAKUṆDALĪ <span id="fr_247"></span>[1](#fn_232.md)-UPANISHAḌ
 
 ### OF
 
@@ -30,18 +30,18 @@ Intangible Textual Heritage
 ##### <span class="smallcaps">Chapter</span> I
 
 <span class="smallcaps">Chiṭṭa</span> <span
-id="fr_248"></span>[2](#fn_233) has two causes, vāsanās and (prāṇa)
+id="fr_248"></span>[2](#fn_233) has two causes, vāsanās and (prāṇa.md)
 vāyu. If-one of them is controlled, then both are controlled. Of these
 two, a person should control (prāṇa) vāyu always through moderate food,
-postures, and thirdly śakṭi-chāla. <span id="fr_249"></span>[3](#fn_234)
+postures, and thirdly śakṭi-chāla. <span id="fr_249"></span>[3](#fn_234.md)
 I shall explain the nature of these. Listen to it, O Gauṭama. One should
-take a sweet and nutritious food, <span id="fr_250"></span>[4](#fn_235)
+take a sweet and nutritious food, <span id="fr_250"></span>[4](#fn_235.md)
 leaving a fourth (of his stomach) unfilled) in order to please Śiva (the
 patron of yogins). This is called moderate food. Posture herein required
 is of two kinds, paḍma and vajra. Placing the two heels over the two
 opposite thighs (respectively) is the paḍma (posture) which is the
 destroyer of all sins. Placing one heel below the mūlakanḍa <span
-id="fr_251"></span>[5](#fn_236) and the other over it and sitting with
+id="fr_251"></span>[5](#fn_236.md) and the other over it and sitting with
 the neck, body and head erect is the vajra posture. The śakṭi (mentioned
 above) is only kunḍalinī. A wise man should take it up from its place
 (*viz*., the navel, upwards) to the middle of the eyebrows. This is
@@ -50,15 +50,15 @@ called śakṭi-chāla. In practising it, two things are necessary,
 <span id="page_261">p. 261</span>
 
 <span class="contnote">\[paragraph continues\]</span>
-Sarasvatīchālana <span id="fr_252"></span>[1](#fn_237) and the restraint
+Sarasvatīchālana <span id="fr_252"></span>[1](#fn_237.md) and the restraint
 of prāṇa (breath). Then through practice, kunḍalinī (which is spiral)
 becomes straightened. Of these two, I shall explain to you first
 Sarasvaṭī-chālaṇa. It is said by the wise of old that Sarasvaṭī is no
-other than Arunḍhaṭī. <span id="fr_253"></span>[2](#fn_238) It is only
+other than Arunḍhaṭī. <span id="fr_253"></span>[2](#fn_238.md) It is only
 by rousing her up that kunḍalinī is roused. When prāṇa (breath) is
 passing through (one's) Idā (left nostril), he should assume firmly
 paḍma-posture and should lengthen (inwards) 4 digits the ākāś of 12
-digits. <span id="fr_254"></span>[3](#fn_239) Then the wise man should
+digits. <span id="fr_254"></span>[3](#fn_239.md) Then the wise man should
 bind the (sarasvaṭī) nādi by means of this lengthened (breath) and
 holding firmly together(both his ribs near the navel) by means of the
 forefingers and thumbs of both hands, (one hand on each side) should
@@ -78,7 +78,7 @@ undoubtedly destroyed by shaking this Śakṭi.
 
 I shall now briefly describe to you prāṇāyāma. Prāṇa is the vāyu that
 moves in the body and its restraint within is known as kumbhaka. It is
-of two kinds, sahiṭa and kevala. <span id="fr_255"></span>[4](#fn_240)
+of two kinds, sahiṭa and kevala. <span id="fr_255"></span>[4](#fn_240.md)
 One should practise sahiṭa till he gets kevala. There are four bheḍas
 (lit., piercings or divisions) *viz*., sūrya, ujjāyī, śiṭalī, and
 bhasṭrī.
@@ -133,13 +133,13 @@ gastric fire within, enables one to know the kunḍalinī, produces purity
 removing sins, gives happiness and pleasure and destroys phlegm which is
 the bolt (or obstacle) to the door at the mouth of brahmanādi (*viz*.,
 sushumnā). It pierces also the three granṭhis <span
-id="fr_256"></span>[1](#fn_241) (or knots) differentiated through the
+id="fr_256"></span>[1](#fn_241) (or knots.md) differentiated through the
 three guṇas. This kumbhaka is known as bhasṭrī and should especially be
 performed.
 
 Through these four ways when kumbhaka is near (or is about to be
 performed.), the sinless yogin should practise the three bandhas. <span
-id="fr_257"></span>[2](#fn_242) The first is called mūlabanḍha. The
+id="fr_257"></span>[2](#fn_242.md) The first is called mūlabanḍha. The
 second is called uddiyāṇa, and the third is jālanḍhara. Their nature
 will be thus described. Apāna (breath) which has a downward tendency is
 forced up by one bending down. This process is called mūlabanḍha. When
@@ -156,7 +156,7 @@ of kumbhaka and at the beginning of expiration. Because prāṇa uddīyaṭē
 uddiyāṇa by the yogins. Being seated in the vajra posture, and holding
 firmly the two toes by the two hands, he should press at the kanḍa and
 at the place near the two ankles. Then he should gradually upbear the
-ṭāna <span id="fr_258"></span>[3](#fn_243) (thread or nādi) which is on
+ṭāna <span id="fr_258"></span>[3](#fn_243) (thread or nādi.md) which is on
 the western side first to uḍara (the upper part of the abdomen above the
 navel), then to the heart and then to the neck. When prāṇa reaches the
 sanḍhi (junction) of navel, slowly it removes
@@ -186,7 +186,7 @@ discontinue this practice. This is said to be the first obstacle to yoga
 The second (obstacle) is doubt; the third is carelessness; the fourth,
 laziness; the fifth, sleep; the sixth, the not leaving of objects (of
 sense); the seventh, erroneous perception; the eighth, sensual objects;
-the ninth, want of faith; <span id="fr_259"></span>[1](#fn_244) and the
+the ninth, want of faith; <span id="fr_259"></span>[1](#fn_244.md) and the
 tenth, the failure to attain the truth of yoga. A wise man should
 abandon these ten obstacles after great deliberation. The practice of
 prāṇāyāma should be performed daily with the mind firmly fixed on Truth.
@@ -208,25 +208,25 @@ at once through vishṇūgranṭhi to the heart. Then it goes up through
 ruḍragranṭhi and above it to the middle of the eyebrows; having pierced
 this place, it goes up to the maṇdala (sphere) of the moon. It dries up
 the moisture produced by the moon in the anāhaṭachakra having sixteen
-petals. <span id="fr_260"></span>[1](#fn_245) When the blood is agitated
+petals. <span id="fr_260"></span>[1](#fn_245.md) When the blood is agitated
 through the speed of prāṇa, it becomes bile from its contact with the
 sun, after which it goes to the sphere of the moon where it becomes of
 the nature of the flow of pure phlegm. How does it (blood) which is very
 cold become hot when it flows there? (Since) at the same time the
 intense white form of moon is speedily heated. <span
-id="fr_261"></span>[2](#fn_246) Then being agitated, it goes up. Through
+id="fr_261"></span>[2](#fn_246.md) Then being agitated, it goes up. Through
 taking in this, chiṭṭa which was moving amidst sensual objects
 externally, is restrained there. The novice enjoying this high state
 attains peace and becomes devoted to Āṭmā. Kuṇdalinī assumes the
-eight <span id="fr_262"></span>[3](#fn_247) forms of prakṛṭi (matter)
+eight <span id="fr_262"></span>[3](#fn_247) forms of prakṛṭi (matter.md)
 and attains Śiva by encircling him and dissolves itself in Śiva. Thus
-rajas-śukla <span id="fr_263"></span>[4](#fn_248) (seminal fluid) which
+rajas-śukla <span id="fr_263"></span>[4](#fn_248) (seminal fluid.md) which
 rises up goes to Śiva along with maruṭ (vāyu); prāṇa and apāna which are
 always produced become equal. Prāṇas flow in all things, great and
 small, describable or indescribable, as fire in gold. Then this body
 which is āḍhibhauṭika (composed of elements) becomes āḍhiḍaivaṭa
 (relating to a tutelar deity) and is thus purified. Then it attains the
-stage of aṭivāhika. <span id="fr_264"></span>[5](#fn_249) Then the body
+stage of aṭivāhika. <span id="fr_264"></span>[5](#fn_249.md) Then the body
 being freed from the inert state
 
 <span id="page_266">p. 266</span>
@@ -270,7 +270,7 @@ science of khecharī is not easily attainable, as also its practice.
 <span id="page_267">p. 267</span>
 
 <span class="contnote">\[paragraph continues\]</span> Its practice and
-melana <span id="fr_265"></span>[1](#fn_250) are not accomplished
+melana <span id="fr_265"></span>[1](#fn_250.md) are not accomplished
 simultaneously. Those that are bent upon practice alone do not get
 melana. Only some get the practice, O Brahman, after several births, but
 melana is not obtained even after a hundred births. Having undergone the
@@ -307,7 +307,7 @@ letter should be pronounced in
 
 the reverse order; then consider it as the supreme and its beginning as
 the fifth, and this is said to the kūta (horns) of the several bhinnas
-(or parts) of the moon. <span id="fr_266"></span>[1](#fn_251) This which
+(or parts) of the moon. <span id="fr_266"></span>[1](#fn_251.md) This which
 tends to the accomplishment of all yogas, should be learnt through the
 initiation of a guru. He who recites this twelve times every day, will
 not get even in sleep that māyā (illusion) which is born in his body and
@@ -331,7 +331,7 @@ paṭhya (sea-salt), he should apply it to the place. On the seventh day,
 he should again cut for the space of a hair. Thus for the space of six
 months, he should continue it always gradually with great care. In six
 months, Śiro-banḍha (banḍha at the head), <span
-id="fr_267"></span>[1](#fn_251) which is at the root of the tongue is
+id="fr_267"></span>[1](#fn_251.md) which is at the root of the tongue is
 destroyed. Then the yogin who knows timely action should encircle with
 Śiro-vasṭra (lit., the cloth of the head) the Vāk-Īśvarī (the deity
 presiding over speech) and should draw (it) up. Again by daily drawing
@@ -342,7 +342,7 @@ practised, it goes to the root of the chin. Then in
 <span id="page_269">p. 269</span>
 
 three years, it goes up easily to the end of the hair (of the head) It
-goes up obliquely to Śākha <span id="fr_268"></span>[1](#fn_252) and
+goes up obliquely to Śākha <span id="fr_268"></span>[1](#fn_252.md) and
 downwards to the well of the throat. In another three years, it occupies
 brahmaranḍhra and stops there without doubt. Crosswise it goes up to the
 top of the head and downwards to the well of the throat. Gradually it
@@ -350,7 +350,7 @@ opens the great adamantine door in the head. The rare science (of
 khecharī) bīja has been explained before. One should perform the six
 aṅgas (parts) of this manṭra by pronouncing it in six different
 intonations. One should do this in order to attain all the siḍḍhis; and
-this karanyāsam <span id="fr_269"></span>[2](#fn_253) should be done
+this karanyāsam <span id="fr_269"></span>[2](#fn_253.md) should be done
 gradually and not all at a time, since the body of one who does it all
 at once will soon decay. Therefore it should be practised, O best of
 sages, little by little. When the tongue goes to the brahmaranḍhra
@@ -390,7 +390,7 @@ object through passion and is infatuated with passion for objects. One
 should always leave these two and seek the Nirañjana (stainless). He
 should abandon everything else which he thinks is favourable to himself.
 Keeping the manas in the midst of śakṭi, and śakṭi in the midst of
-manas, one should look into manas by means [of](errata.htm#21) manas.
+manas, one should look into manas by means [of](errata.htm#21.md) manas.
 Then he leaves even the highest stage. Manas alone is the binḍu, the
 cause of creation and preservation. It is only through manas that binḍu
 is produced, like the curd from milk. The organs of manas is not that
@@ -422,7 +422,7 @@ is the fire (or light) within; and when it (the body) is broken through
 the words of a guru, the light of brahmajñāna becomes resplendent. With
 the guru as the helmsman, one crosses the subtle body and the ocean of
 samsāra through the affinities of practice. That vāk <span
-id="fr_270"></span>[1](#fn_254) (power of speech) which sprouts in parā,
+id="fr_270"></span>[1](#fn_254) (power of speech.md) which sprouts in parā,
 gives forth two leaves in paśyanṭī, buds forth in maḍhyamā and blossoms
 in vaikharī—that vāk which has before been described, reaches the stage
 of the absorption of sound, reversing the above order (*viz*., beginning
@@ -430,10 +430,10 @@ with vaikharī, etc). Whoever thinks that He who is the great lord of
 that vāk, who is the undifferentiated and who is the illuminator of that
 vāk is Self; whoever thinks over thus, is never affected by words, high
 or low (or good or bad). The three (aspects <span
-id="fr_271"></span>[2](#fn_255) of consciousness), viśva, ṭaijasa, and
+id="fr_271"></span>[2](#fn_255) of consciousness.md), viśva, ṭaijasa, and
 prājña (in man), the three Virat, Hiraṇyagarbha, and Īśvara in the
 universe, the egg of the universe, the egg of man <span
-id="fr_272"></span>[3](#fn_256) and the seven worlds—all these in turn
+id="fr_272"></span>[3](#fn_256.md) and the seven worlds—all these in turn
 are absorbed in Praṭyagāṭma through the absorption of their respective
 upāḍhis (vehicles). The egg being heated by the fire of jñāna is
 absorbed with its kāraṇa (cause) into Paramāṭmā (Universal Self). Then
@@ -452,7 +452,7 @@ owing to the effect of good karma, it wishes to attain its own state.
 Who am I? How has this stain of mundane existence accrued to me? What
 becomes in the dreamless sleep of me who am engaged in business in the
 waking and dreaming states? Just as a bale of cotton is burnt by fire,
-so the Chiḍābhāsa <span id="fr_273"></span>[1](#fn_257) which is the
+so the Chiḍābhāsa <span id="fr_273"></span>[1](#fn_257.md) which is the
 result of non-wisdom, is burnt by the (wise) thoughts like the above and
 by its own supreme illumination. The outer burning (of body as done in
 the world) is no burning at all. When the wordly wisdom is destroyed,
@@ -477,105 +477,105 @@ Thus ends the Upanishaḍ.
 
 ### Footnotes
 
-<span id="fn_232"></span>[260:1](tmu32.htm#fr_247) In this Upanishaḍ are
+<span id="fn_232"></span>[260:1](tmu32.htm#fr_247.md) In this Upanishaḍ are
 stated the ways by which the Kuṇdalinī power is roused from the navel
 upwards to the middle of the eyebrows and then up to sahasrāra in the
 head: this being one of the important works of an adept to master the
 forces of nature.
 
-<span id="fn_233"></span>[260:2](tmu32.htm#fr_248) Chiṭṭa is the
+<span id="fn_233"></span>[260:2](tmu32.htm#fr_248.md) Chiṭṭa is the
 flitting aspect of Antaḥkaraṇa.
 
-<span id="fn_234"></span>[260:3](tmu32.htm#fr_249) Lit., the moving of
+<span id="fn_234"></span>[260:3](tmu32.htm#fr_249.md) Lit., the moving of
 śakṭi which is Kuṇdalinī.
 
-<span id="fn_235"></span>[260:4](tmu32.htm#fr_250) Regarding the
+<span id="fn_235"></span>[260:4](tmu32.htm#fr_250.md) Regarding the
 quantity to be taken, one should take of solid food half of his stomach:
 of liquid food, one quarter, leaving the remaining quarter empty for the
 air to percolate.
 
-<span id="fn_236"></span>[260:5](tmu32.htm#fr_251) Mūlakanḍa is the root
+<span id="fn_236"></span>[260:5](tmu32.htm#fr_251.md) Mūlakanḍa is the root
 of kanḍa, the genital organ.
 
-<span id="fn_237"></span>[261:1](tmu32.htm#fr_252) The moving of
+<span id="fn_237"></span>[261:1](tmu32.htm#fr_252.md) The moving of
 sarasvaṭī nādi situated on the west of the navel among the 14 nādis
 (Vide Vāraha and other Upanishaḍs).
 
-<span id="fn_238"></span>[261:2](tmu32.htm#fr_253) Sarasvaṭī is called
+<span id="fn_238"></span>[261:2](tmu32.htm#fr_253.md) Sarasvaṭī is called
 also Arunḍhaṭī who is literally one that helps good actions being done
 and the wife of Ṛshi Vasishtha—also the star that is shown to the bride
 on marriage occasions.
 
-<span id="fn_239"></span>[261:3](tmu32.htm#fr_254) In exhalation, prāṇa
+<span id="fn_239"></span>[261:3](tmu32.htm#fr_254.md) In exhalation, prāṇa
 goes out 16 digits and in inhalation, goes in only for 12, thus losing
 4. But if inhaled for 16, then the power is aroused.
 
-<span id="fn_240"></span>[261:4](tmu32.htm#fr_255) Lit., associated with
+<span id="fn_240"></span>[261:4](tmu32.htm#fr_255.md) Lit., associated with
 and alone. *Vide* Śāṇdilya-Upanishaḍ.
 
-<span id="fn_241"></span>[263:1](tmu32.htm#fr_256) They are
+<span id="fn_241"></span>[263:1](tmu32.htm#fr_256.md) They are
 Brahmagranṭhi, Vishṇugranṭhi, and Ruḍragranṭhi.
 
-<span id="fn_242"></span>[263:2](tmu32.htm#fr_257) Bandhas are certain
+<span id="fn_242"></span>[263:2](tmu32.htm#fr_257.md) Bandhas are certain
 kinds of position of the body.
 
-<span id="fn_243"></span>[263:3](tmu32.htm#fr_258) This probably refers
+<span id="fn_243"></span>[263:3](tmu32.htm#fr_258.md) This probably refers
 to Sarasvaṭī Nādi.
 
-<span id="fn_244"></span>[264:1](tmu32.htm#fr_259) The text is Anākhiam
+<span id="fn_244"></span>[264:1](tmu32.htm#fr_259.md) The text is Anākhiam
 which has no sense. It has been translated as Anāstha.
 
-<span id="fn_245"></span>[265:1](tmu32.htm#fr_260) Twelve seems to be
+<span id="fn_245"></span>[265:1](tmu32.htm#fr_260.md) Twelve seems to be
 the right number of petals in the anāhaṭa-chakra of the heart; but the
 moon is probably meant having sixteen rays.
 
-<span id="fn_246"></span>[265:2](tmu32.htm#fr_261) The passages here are
+<span id="fn_246"></span>[265:2](tmu32.htm#fr_261.md) The passages here are
 obscure.
 
-<span id="fn_247"></span>[265:3](tmu32.htm#fr_262) They are Mūlaprakṛṭi,
+<span id="fn_247"></span>[265:3](tmu32.htm#fr_262.md) They are Mūlaprakṛṭi,
 Mahaṭ, Ahaṅkāra and the five elements.
 
-<span id="fn_248"></span>[265:4](tmu32.htm#fr_263) Here it is the astral
+<span id="fn_248"></span>[265:4](tmu32.htm#fr_263.md) Here it is the astral
 seminal fluid which, in the case of a neophyte, not having descended to
 a gross fluid through the absence of sexual desire, rises up being
 conserved as a spiritual energy.
 
-<span id="fn_249"></span>[265:5](tmu32.htm#fr_264) A stage of being able
+<span id="fn_249"></span>[265:5](tmu32.htm#fr_264.md) A stage of being able
 to convey to other bodies the deity appointed by God to help in the
 conveying of sūkshma (subtle) body to other bodies at the expiry of good
 actions which contribute to the enjoyment of material pleasures (*vide*
 Apte's Dictionary).
 
-<span id="fn_250"></span>[267:1](tmu32.htm#fr_265) Melana is lit.,
+<span id="fn_250"></span>[267:1](tmu32.htm#fr_265.md) Melana is lit.,
 joining. This is the key to this science which seems to be kept
 profoundly secret and revealed by adepts only at initiation, as will
 appear from the subsequent passages in this Upanishaḍ.
 
-<span id="fn_251"></span>[268:1](tmu32.htm#fr_267) All these are very
+<span id="fn_251"></span>[268:1](tmu32.htm#fr_267.md) All these are very
 mystic.
 
-<span id="fn_252"></span>[269:1](tmu32.htm#fr_268) Probably it here
+<span id="fn_252"></span>[269:1](tmu32.htm#fr_268.md) Probably it here
 means some part below the skull.
 
-<span id="fn_253"></span>[269:2](tmu32.htm#fr_269) Certain motions of
+<span id="fn_253"></span>[269:2](tmu32.htm#fr_269.md) Certain motions of
 the fingers and hands in the pronunciation of manṭras.
 
-<span id="fn_254"></span>[271:1](tmu32.htm#fr_270) Vāk is of four kinds
+<span id="fn_254"></span>[271:1](tmu32.htm#fr_270.md) Vāk is of four kinds
 (as said here) parā, pasyanṭī, maḍhyamā, and vaikharī. Vaikharī being
 the lowest and the grossest of sounds, and part being the highest. In
 evolution vāk begins from the highest to the lowest and in involution it
 takes a reverse order, to merge into the highest subtle sound (Parā).
 
-<span id="fn_255"></span>[271:2](tmu32.htm#fr_271) The first three
+<span id="fn_255"></span>[271:2](tmu32.htm#fr_271.md) The first three
 aspects of consciousness refer to the gross, subtle, and kāraṇa bodies
 of men, while the second three aspects refer to the three bodies of the
 universe. This is from the standpoint of the three bodies.
 
-<span id="fn_256"></span>[271:3](tmu32.htm#fr_272) The egg of man—this
+<span id="fn_256"></span>[271:3](tmu32.htm#fr_272.md) The egg of man—this
 shows that man in his formation is and appears as an egg, just as the
 universe is, and appears as an egg.
 
-<span id="fn_257"></span>[272:1](tmu32.htm#fr_273) It is the
+<span id="fn_257"></span>[272:1](tmu32.htm#fr_273.md) It is the
 consciousness that becomes distorted and is unable to cognise itself
 through the bodies.
 
@@ -583,6 +583,6 @@ through the bodies.
 
 ------------------------------------------------------------------------
 
-[Next: Index of Proper Names](tmu33)
+[Next: Index of Proper Names](tmu33.md)
 
 </div>

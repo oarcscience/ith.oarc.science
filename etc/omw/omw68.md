@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw67)  [Next](omw69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw67)  [Next](omw69.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_23200"></span>
 
 [![Gotama's Attainment](tn/23200.jpg)  
-Click to enlarge](img/23200.jpg)  
+Click to enlarge](img/23200.jpg.md)  
 Gotama's Attainment  
 
 ### BUDDHIST
@@ -162,4 +162,4 @@ went forth to instruct mankind.
 
 ------------------------------------------------------------------------
 
-[Next: In the Beginning](omw69)
+[Next: In the Beginning](omw69.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm42)  [Next](rrm44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm42)  [Next](rrm44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -90,8 +90,8 @@ adopted in India', adds, 'subsequently to the ritual of the *Vedhas*,
 which was chiefly, if not wholly, addressed to the Elements, *and
 particularly to Fire*. How far the worship of the *Linga* is authorized
 by the *Vedhas* is doubtful, but that it is the main purport of several
-of the *Puranas* <span id="fr_17"></span>[1](#fn_17) there can be no
-doubt.' <span id="fr_18"></span>[2](#fn_18)
+of the *Puranas* <span id="fr_17"></span>[1](#fn_17.md) there can be no
+doubt.' <span id="fr_18"></span>[2](#fn_18.md)
 
 The universality of *Linga puja* (or worship) at the period of the
 Mohammedan invasion of India is well attested. The idol destroyed by
@@ -130,7 +130,7 @@ the celebration of Mass in Roman Catholic countries.
 Prakriti, the mother of gods and men, one with matter, the source of
 error, is identified with Maya or delusion, and coexistent with the
 Omnipotent, as his *Sacti*, his personified energy, his bride.
-[*Prakriti*](errata.htm#9) is inherent *Maya*, 'because she beguiles all
+[*Prakriti*](errata.htm#9.md) is inherent *Maya*, 'because she beguiles all
 things'.--*As. Res.* xvii. It is stated in one of the *Purans* that
 *Brahma*, having determined to create the universe, became androgynous,
 male and female (or
@@ -353,15 +353,15 @@ Mysteries of Eleusis (Demosthenes, *On the Crown*).
 
 ### Footnotes
 
-<span id="fn_17"></span>[392:1](rrm43.htm#fr_17) *Puranas* (New
+<span id="fn_17"></span>[392:1](rrm43.htm#fr_17.md) *Puranas* (New
 Testament), the Modern Scriptures of the Hindus, as distinguished from
 the *Vedhas* (as Bible), or more Ancient Scriptures. Wilson on Hindu
 Sects--*As. Res.* vol. xvii.
 
-<span id="fn_18"></span>[392:2](rrm43.htm#fr_18) *As. Res.* vol. xvii.
+<span id="fn_18"></span>[392:2](rrm43.htm#fr_18.md) *As. Res.* vol. xvii.
 pp. 208-10.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV: Doctrine and Rationale. The Embodied 'Children of
-the Elements', Both of Heathen and of Christian Periods](rrm44)
+the Elements', Both of Heathen and of Christian Periods](rrm44.md)

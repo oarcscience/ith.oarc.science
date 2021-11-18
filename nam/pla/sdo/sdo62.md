@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo61)  [Next](sdo63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo61)  [Next](sdo63.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,4 +204,4 @@ her no more.
 
 ------------------------------------------------------------------------
 
-[Next: When the Wizard Came](sdo63)
+[Next: When the Wizard Came](sdo63.md)

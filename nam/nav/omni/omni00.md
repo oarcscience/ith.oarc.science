@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Next](omni01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Next](omni01.md) 
 
 ------------------------------------------------------------------------
 
@@ -171,4 +171,4 @@ Frontispiece. First Man and First Woman.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](omni01)
+[Next: Preface](omni01.md)

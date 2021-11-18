@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai32)  [Next](tai34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai32)  [Next](tai34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,11 +23,11 @@ THE MONOMÁKHOVIČI
 
 [![Table VI. The Monomákhoviči \[Seven Generations from
 Rurik\]](tn/tab06.jpg)  
-Click to enlarge](img/tab06.jpg)  
+Click to enlarge](img/tab06.jpg.md)  
   
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Table VII. The House of Galicia](tai34)
+[Next: Table VII. The House of Galicia](tai34.md)

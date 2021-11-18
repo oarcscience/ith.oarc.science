@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](suc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](suc06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -149,8 +149,8 @@ rejoicing, and the passions can have power over them.
 
 What was the mourning for? R. Dosa and the rabbis differ: One holds that
 it was for the Messiah the son of Joseph, who was killed; <span
-id="fr_26"></span>[1](#fn_26) and one holds that it was for the evil
-angel, who was killed. <span id="fr_27"></span>[2](#fn_27) It would be
+id="fr_26"></span>[1](#fn_26.md) and one holds that it was for the evil
+angel, who was killed. <span id="fr_27"></span>[2](#fn_27.md) It would be
 right according to one who holds that it was for the Messiah the son of
 Joseph, because he explains as supporting him the passage \[Zech. xii.
 10\]: "And they will look up toward me (for every one) whom they have
@@ -173,10 +173,10 @@ If it
 
 should be marvellous in the eyes of the remnant of this people in those
 days, should it also be marvellous in my eyes. <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 R. Assi said: In the beginning the evil angel appears as insignificant
-and thin as a cobweb, <span id="fr_29"></span>[2](#fn_29) and finally he
+and thin as a cobweb, <span id="fr_29"></span>[2](#fn_29.md) and finally he
 becomes as thick as a wagon-rope, as it is written \[Is. v. 18\]: "Wo
 unto those that draw iniquity with the cords of falsehood, and as with a
 wagon-rope, sinfulness.
@@ -264,7 +264,7 @@ in this world, and bears testimony in the world to come, as it is
 written \[Prov. xxix. 21\]: "If one rear his slave delicately from his
 youth, then will he at length become *Manon*"; and in the *Alpha Betha*
 of R. Hiya, which was called Atbach, a witness was called *Manon*. <span
-id="fr_30"></span>[1](#fn_30)
+id="fr_30"></span>[1](#fn_30.md)
 
 Rabh Huna pointed out a contradiction: It is written \[Hosea, iv. 12\]:
 "For the spirit of lewdness *has caused them to err*," and \[ibid. v.
@@ -301,7 +301,7 @@ his left. And who are the eight
 <span id="page_83">p. 83</span>
 
 anointed men? Jesse, Saul, Samuel, Amos, Zephaniah, Zedekiah, Messiah,
-and Elijah. <span id="fr_31"></span>[1](#fn_31)
+and Elijah. <span id="fr_31"></span>[1](#fn_31.md)
 
 "*And four ladders*," etc. It was taught in a Boraitha, that the height
 of every candelabrum was fifty ells.
@@ -342,7 +342,7 @@ written \[Ex. xx. 21\]: "In every place where I
 <span id="page_84">p. 84</span>
 
 shall permit my name to be mentioned, I will come unto thee, and I will
-bless thee." <span id="fr_32"></span>[1](#fn_32) R. Johanan said: The
+bless thee." <span id="fr_32"></span>[1](#fn_32.md) R. Johanan said: The
 feet of the man are securities for him: where he is needed, they bring
 him thither. Two Ethiopians were in the service of King Solomon, named
 Elihoreph and Achiyah the son of Shisha, and were his scribes. One day
@@ -393,7 +393,7 @@ fifteen songs of degrees, and therewith checked it.
 
 "*We belong to God and we raise our eyes to God*." This is not so? Did
 not R. Zera say: One who said twice, "Shema, Shema," is the same as if
-he had said, "*Modim, Modim*," <span id="fr_33"></span>[1](#fn_33) of
+he had said, "*Modim, Modim*," <span id="fr_33"></span>[1](#fn_33.md) of
 which a Mishna says, that he must be silenced? The Mishna meant thus:
 Our ancestors bowed toward the east to the sun, but only to God we bow,
 and our eyes we raise in hope to God.
@@ -605,7 +605,7 @@ continual daily offerings, vows, and voluntary offerings, and all
 congregational offerings, and every sacrifice.
 
 GEMARA: The pieces of the offerings? They were brought to the altar?
-Said R. Hisda: Do not read "*pieces* <span id="fr_34"></span>[1](#fn_34)
+Said R. Hisda: Do not read "*pieces* <span id="fr_34"></span>[1](#fn_34.md)
 of the offering," but "the offerings that were said to be sacrificed on
 the festivals." The rabbis taught: Whence do we deduce that all the
 orders of the priests had equal shares of the offerings of the festival?
@@ -733,7 +733,7 @@ END OF TRACT SUCCAH.
 
 ### Footnotes
 
-<span id="fn_26"></span>[79:1](suc07.htm#fr_26) There was a tradition
+<span id="fn_26"></span>[79:1](suc07.htm#fr_26.md) There was a tradition
 among the ancient Hebrews that two Messiahs would appear before the
 redemption of Israel one of the tribe of Joseph and one of the tribe of
 Jehudah, a descendant of David and the expression "who was killed" means
@@ -744,39 +744,39 @@ name of Joseph, but not of the tribe of Joseph, as Christ was, and that
 his fate was to be killed before the appearance of Messiah b. David),
 explain this passage to have reference to Christ.
 
-<span id="fn_27"></span>[79:2](suc07.htm#fr_27) See Tract Yomah, p. 100.
+<span id="fn_27"></span>[79:2](suc07.htm#fr_27.md) See Tract Yomah, p. 100.
 
-<span id="fn_28"></span>[80:1](suc07.htm#fr_28) Leeser in his
+<span id="fn_28"></span>[80:1](suc07.htm#fr_28.md) Leeser in his
 translation has it in the form of an interrogation, but the Talmud takes
 it in simple form.
 
-<span id="fn_29"></span>[80:2](suc07.htm#fr_29) According to Rashi;
+<span id="fn_29"></span>[80:2](suc07.htm#fr_29.md) According to Rashi;
 according to Scheinhack, however, it means the thread of the χροχη; and
 so it seems also from the Aruch.
 
-<span id="fn_30"></span>[82:1](suc07.htm#fr_30) In Leeser's version of
+<span id="fn_30"></span>[82:1](suc07.htm#fr_30.md) In Leeser's version of
 the Bible he translates Manon "son," for which we do not know the
 authority; but the Mashbir translates Manon μενοιναω, *i.e.*, "violent,"
 and quotes a Midrash where the evil angel is meant.
 
-<span id="fn_31"></span>[83:1](suc07.htm#fr_31) It is strange to Rashi
+<span id="fn_31"></span>[83:1](suc07.htm#fr_31.md) It is strange to Rashi
 why Isaac is not mentioned here among the patriarchs. He says it seems
 to him that it is stated elsewhere that it is because Isaac went to
 redeem his children from Gehenna. It is so. This can be found in Midrash
 "Chronicles and in Jalkut Shimoni Micah, v. The strangeness of this
 saying, however, remains.
 
-<span id="fn_32"></span>[84:1](suc07.htm#fr_32) Rashi explains this that
+<span id="fn_32"></span>[84:1](suc07.htm#fr_32.md) Rashi explains this that
 Hillel said so in the name of the Shekhina--that the Shekhina says: "As
 long as I am in the Temple, all are here; but if I am not here, who
 shall be here?" In the Palestinian Talmud, however, it is explained that
 he says it of himself; Tosphoth, however, said that the second part
 based on the verse shows that Rashi's explanation is correct.
 
-<span id="fn_33"></span>[85:1](suc07.htm#fr_33) This is explained in
+<span id="fn_33"></span>[85:1](suc07.htm#fr_33.md) This is explained in
 Tract Berachoth, Chap. V., Mishna 3.
 
-<span id="fn_34"></span>[90:1](suc07.htm#fr_34) The expression in the
+<span id="fn_34"></span>[90:1](suc07.htm#fr_34.md) The expression in the
 Mishna for pieces is ‏אימורי‎, and in Hebrew signifies also "saying";
 and R. Hisda interprets it not *pieces*, but the *saying*, what ought to
 be sacrificed.

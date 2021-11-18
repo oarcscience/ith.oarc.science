@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre17)  [Next](gre19) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre17)  [Next](gre19.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ heritage after him and dwelt there.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV: Of Grettir as a Child, and his froward ways with his
-Father](gre19)
+Father](gre19.md)

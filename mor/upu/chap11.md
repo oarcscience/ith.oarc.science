@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap10) [Next](chap12)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap10) [Next](chap12.md)
 
 ------------------------------------------------------------------------
 
@@ -320,4 +320,4 @@ It is "the will of the Lord!"
 
 ------------------------------------------------------------------------
 
-[Next: XII The Conspiracy Completed](chap12)
+[Next: XII The Conspiracy Completed](chap12.md)

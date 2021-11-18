@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste03)  [Next](ste05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste03)  [Next](ste05.md) 
 
 ------------------------------------------------------------------------
 
@@ -219,4 +219,4 @@ but as to the Theory we require nothing but attention and impartiality.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](ste05)
+[Next: Chapter II](ste05.md)

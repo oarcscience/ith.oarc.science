@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](bkt01) [Next](bkt03)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](bkt01) [Next](bkt03.md)
 
 ------------------------------------------------------------------------
 
@@ -156,7 +156,7 @@ to believe the Crucifixion, <span id="page_xiv">p. xiv</span> because it
 appears to him to reflect upon the justice of G<span
 class="small">OD</span>, and to conflict with the history of former
 prophets, whom He had delivered out of every danger.<span
-id="page_xiv_fr_*"></span>[\*](#page_xiv_note_*) "No man shall suffer
+id="page_xiv_fr_*"></span>[\*](#page_xiv_note_*.md) "No man shall suffer
 for the sins of his neighbor," says the Koran: hence, though Christ
 might have followed out his designs without the fear of death, it seemed
 to him impossible that the Lord should have permitted Christ, the
@@ -223,7 +223,7 @@ Paris.)
 
 ------------------------------------------------------------------------
 
-[Next](bkt03)
+[Next](bkt03.md)
 
 ------------------------------------------------------------------------
 
@@ -231,7 +231,7 @@ Paris.)
 
 <span id="footnotes_page_xiv">p. xiv</span>
 
-   <span id="page_xiv_note_*"></span>[\*](#page_xiv_fr_*) The reader is
+   <span id="page_xiv_note_*"></span>[\*](#page_xiv_fr_*.md) The reader is
 reminded of what our Savior says of all the righteous blood shed upon
 the earth, from the blood of righteous Abel unto the blood of Zacharias,
 the son of Barachias, who perished between the temple and the altar.—*E.

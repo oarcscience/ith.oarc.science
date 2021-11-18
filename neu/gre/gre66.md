@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre65)  [Next](gre67) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre65)  [Next](gre67.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,4 +123,4 @@ places.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXII: Of the Death of Hallmund, Grettir's Friend](gre67)
+[Next: Chapter LXII: Of the Death of Hallmund, Grettir's Friend](gre67.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm56)  [Next](rrm58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm56)  [Next](rrm58.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
 <span id="img_pl03"></span>
 
 [![No. 3. GNOSTIC GEMS](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 No. 3. GNOSTIC GEMS  
 
 GNOSTIC GEMS.  
@@ -24,4 +24,4 @@ This Plate is illustrative of the Mysteries of the Gnostics.
 
 ------------------------------------------------------------------------
 
-[Next: Plate 4. The Round Table of King Arthur](rrm58)
+[Next: Plate 4. The Round Table of King Arthur](rrm58.md)

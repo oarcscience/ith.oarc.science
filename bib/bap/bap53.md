@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap52) 
-[Next](bap54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap52.md) 
+[Next](bap54.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ same slew all his brethren, desiring to be ruler over the people.
 
 \[*A leaf gone*.\]
 
-2\.  <span id="fr_130"></span>[2](#fn_130) Then all the trees of the
+2\.  <span id="fr_130"></span>[2](#fn_130.md) Then all the trees of the
 field came together
 
 |                 |
@@ -77,7 +77,7 @@ him the half of a millstone.
 
 ### Footnotes
 
-<span id="fn_130"></span>[185:2](bap53.htm#fr_130) XXXVII. 2 *seq*. This
+<span id="fn_130"></span>[185:2](bap53.htm#fr_130.md) XXXVII. 2 *seq*. This
 adaptation of the parable of Jotham is singularly inept as it stands:
 possibly the lost beginning of it may have made it more plausible:
 possibly it may contain plays upon Hebrew words which I do not detect.
@@ -90,4 +90,4 @@ praecessores*. Ought we to render facta est by "stands for" or
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVIII](bap54)
+[Next: Chapter XXXVIII](bap54.md)

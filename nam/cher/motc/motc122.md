@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc121) 
-[Next](motc123) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc121.md) 
+[Next](motc123.md) 
 
 ------------------------------------------------------------------------
 
@@ -394,4 +394,4 @@ people were afraid to go near it.
 
 ------------------------------------------------------------------------
 
-[Next: 123. Local Legends Of South Carolina](motc123)
+[Next: 123. Local Legends Of South Carolina](motc123.md)

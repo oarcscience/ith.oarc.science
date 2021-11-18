@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi306)  [Next](mtsi308) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi306)  [Next](mtsi308.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ cannibal fell with it, but what became of him is not known.
 
 ------------------------------------------------------------------------
 
-[Next: 43. The Simpleton](mtsi308)
+[Next: 43. The Simpleton](mtsi308.md)

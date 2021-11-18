@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl08)  [Next](mhl10) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl08)  [Next](mhl10.md) 
 
 ------------------------------------------------------------------------
 
@@ -461,4 +461,4 @@ Heaven and earth wept at the death of Moses.
 
 ------------------------------------------------------------------------
 
-[Next: Ashmedai, The King Of Demons](mhl10)
+[Next: Ashmedai, The King Of Demons](mhl10.md)

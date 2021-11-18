@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz05)  [Next](krz07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz05)  [Next](krz07.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ The clean may be mistaken, but whatever they do they cannot be impure.
 
 ------------------------------------------------------------------------
 
-[Next: Sex and Soul](krz07)
+[Next: Sex and Soul](krz07.md)

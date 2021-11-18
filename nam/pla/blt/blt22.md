@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt21)  [Next](blt23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt21)  [Next](blt23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ sinks, there will be an end to them." He threw the chip into the river,
 and it floated. The woman turned and picked up a stone, and said: "No, I
 will throw this stone in the river; if it floats we will always live, if
 it sinks people must die, that they may always be sorry for each
-other." <span id="fr_24"></span>[1](#fn_24) The woman threw the stone
+other." <span id="fr_24"></span>[1](#fn_24.md) The woman threw the stone
 into the water, and it sank. "There," said Old Man, "you have chosen.
 There will be an end to them."
 
@@ -245,7 +245,7 @@ This is as far as the Blackfeet followed Old Man. The Crees know what he
 did further north.
 
 In later times once, *Na´pi* said, "Here I will mark you off a piece of
-ground," and he did so. <span id="fr_25"></span>[1](#fn_25) Then he
+ground," and he did so. <span id="fr_25"></span>[1](#fn_25.md) Then he
 said: "There is your land, and it is full of all kinds of animals, and
 many things grow in this land. Let no other people come into it. This is
 for you five tribes (Blackfeet, Bloods, Piegans, Gros Ventres, Sarcees).
@@ -266,10 +266,10 @@ to obey his laws.
 
 ### Footnotes
 
-<span id="fn_24"></span>[139:1](blt22.htm#fr_24) That is, that their
+<span id="fn_24"></span>[139:1](blt22.htm#fr_24.md) That is, that their
 friends who survive may always remember them.
 
-<span id="fn_25"></span>[143:1](blt22.htm#fr_25) The boundaries of this
+<span id="fn_25"></span>[143:1](blt22.htm#fr_25.md) The boundaries of this
 land are given as running east from a point in the summit of the Rocky
 Mountains west of Fort Edmonton, taking in the country to the east and
 south, including the Porcupine Hills, Cypress Mountains, and Little
@@ -280,4 +280,4 @@ along them to the starting-point.
 
 ------------------------------------------------------------------------
 
-[Next: The Dog And The Stick](blt23)
+[Next: The Dog And The Stick](blt23.md)

@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi08) 
-[Next](jlgi10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi08.md) 
+[Next](jlgi10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jesus, the Last Great Initiate*, by Edouard Schuré, \[1908\], at
 Intangible Textual Heritage
 
@@ -140,7 +140,7 @@ of Science and Religion on esoteric grounds. The work will not progress
 without considerable difficulty at first, but the future of European
 Society depends on it. The transformation of Christianity, in its
 esoteric sense would bring with it that of Judaism and Islam, as well as
-a regeneration of [Brahmanism](errata.htm#12) and Buddhism in the same
+a regeneration of [Brahmanism](errata.htm#12.md) and Buddhism in the same
 fashion, it would accordingly furnish a religious basis for the
 reconciliation of Asia and Europe.
 
@@ -192,6 +192,6 @@ the Sons of God.
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](jlgi10)
+[Next: Advertisements](jlgi10.md)
 
 </div>

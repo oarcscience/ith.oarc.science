@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp15)  [Next](dmp17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp15)  [Next](dmp17.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ you wrap up the \[shrew-mouse (?)\].
 
 ------------------------------------------------------------------------
 
-[Next: Col. XIV](dmp17)
+[Next: Col. XIV](dmp17.md)

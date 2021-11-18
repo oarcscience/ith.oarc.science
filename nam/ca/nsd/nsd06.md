@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](nsd05)  [Next](nsd07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](nsd05)  [Next](nsd07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Notes on the Shoshonean Dialects of Southern California*, by A. L.
 Kroeber, \[1909\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Kroeber, \[1909\], at Intangible Textual Heritage
 
 The following Gabrielino vocabulary supplementary of that previously
 published was obtained from the same informant, Jose Sevaldeo. <span
-id="fr_13"></span>[13](#fn_13) He had however become so feeble that it
+id="fr_13"></span>[13](#fn_13.md) He had however become so feeble that it
 was only possible to question him for a short time.
 
 Among the new Gabrielino words given below two are particularly
@@ -58,7 +58,7 @@ yetamku-a; speak, sirawa; see, huta-a; kill, muka-a; sit, yatco; walk,
 nuñino; work, hoaixo-a; give, ua.</span>
 
 The following Fernandeño words were obtained in 1906 in addition to
-those already printed: <span id="fr_14"></span>[13](#fn_13)
+those already printed: <span id="fr_14"></span>[13](#fn_13.md)
 
 <span class="small">Young man, koti; young woman, taxai; my father,
 ne-na; my mother, ni-ok; forehead, mo-koya-n; eyebrow, a-aux; rib,
@@ -163,9 +163,9 @@ any others.
 
 ### Footnotes
 
-<span id="fn_13"></span>[251:13](nsd06.htm#fr_14) Present series, IV,
+<span id="fn_13"></span>[251:13](nsd06.htm#fr_14.md) Present series, IV,
 70, 1907. See also VIII, 38, 1908.
 
 ------------------------------------------------------------------------
 
-[Next: Serrano](nsd07)
+[Next: Serrano](nsd07.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic044)  [Next](lfic046) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic044)  [Next](lfic046.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ Horse," the "Ford of the Evil Spirits," and the "Ford of the Naked Man."
 
 ------------------------------------------------------------------------
 
-[Next: The Woman in White](lfic046)
+[Next: The Woman in White](lfic046.md)

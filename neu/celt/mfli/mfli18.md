@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli17)  [Next](mfli19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli17)  [Next](mfli19.md) 
 
 ------------------------------------------------------------------------
 
@@ -287,4 +287,4 @@ Fenians of Erin ever after.
 
 ------------------------------------------------------------------------
 
-[Next: Cuculin](mfli19)
+[Next: Cuculin](mfli19.md)

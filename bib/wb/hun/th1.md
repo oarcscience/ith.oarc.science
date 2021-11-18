@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](col)  [Next](th2) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](col)  [Next](th2.md) 
 
 ------------------------------------------------------------------------
 
@@ -330,4 +330,4 @@ veletek! Ámen.
 
 ------------------------------------------------------------------------
 
-[Next: 2 Thessalonians](th2)
+[Next: 2 Thessalonians](th2.md)

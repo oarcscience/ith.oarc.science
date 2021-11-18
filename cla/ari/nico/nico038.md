@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico037) 
-[Next](nico039) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico037.md) 
+[Next](nico039.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ contradictories because the mean has not received a name.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5. Good temper, irascibility, inirascibility.](nico039)
+[Next: Chapter 5. Good temper, irascibility, inirascibility.](nico039.md)

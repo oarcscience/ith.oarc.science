@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Next](esp01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Next](esp01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 BAILEY&lt;br&gt; A. J. LINZMAYER&lt;br&gt; T. COLEMAN COOPER&lt;br&gt;
 J. G. PRATT&lt;br&gt; Mr. Pratt (assistant) was photographed while
 experimenting.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece:  
 MAY FRANCES TURNER  
 JUNE BAILEY  
@@ -58,7 +58,7 @@ Mr. Pratt (assistant) was photographed while experimenting.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
@@ -68,4 +68,4 @@ Title Page
 
 ------------------------------------------------------------------------
 
-[Next: Contents](esp01)
+[Next: Contents](esp01.md)

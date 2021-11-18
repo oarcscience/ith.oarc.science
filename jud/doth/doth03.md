@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth02)  [Next](doth04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth02)  [Next](doth04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -46,19 +46,19 @@ that which is most necessary to Religion. It is our duty to study this
 philosophy, in order, by means of Reason and discriminating
 intelligence, to attain to our religion, to morality and the laws of
 life that make for the health of our bodies and our souls. <span
-id="fr_1"></span>[\*](#fn_1)
+id="fr_1"></span>[\*](#fn_1.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[16:\*](doth03.htm#fr_1) The word here used is
-*Torah* (see note on [p. 17](doth05.htm#page_17)).
+<span id="fn_1"></span>[16:\*](doth03.htm#fr_1.md) The word here used is
+*Torah* (see note on [p. 17](doth05.htm#page_17).md).
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Seek no Reward but Wisdom's Self](doth04)
+[Next: Seek no Reward but Wisdom's Self](doth04.md)
 
 </div>

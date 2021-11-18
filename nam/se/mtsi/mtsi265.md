@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi264)  [Next](mtsi266) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi264)  [Next](mtsi266.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ them. She went along driving them. After a while she became tired and
 coughed, and she coughed up a little frog. Going on again, she coughed
 and spit up two frogs. Still doing this she arrived home. She lay down
 there and kept coughing up frogs until she died. <span
-id="fr_67"></span>[1](#fn_66)
+id="fr_67"></span>[1](#fn_66.md)
 
 The white men heard of that first girl who spit out money, came to the
 place where she lived, and tried to get hold of her. At first the old
@@ -53,10 +53,10 @@ her only cornmeal.
 
 ### Footnotes
 
-<span id="fn_66"></span>[213:1](mtsi265.htm#fr_67) In this version of
+<span id="fn_66"></span>[213:1](mtsi265.htm#fr_67.md) In this version of
 the story the point that power to spit money came as the result of
 generosity is lost.
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Flood](mtsi266)
+[Next: 1. The Flood](mtsi266.md)

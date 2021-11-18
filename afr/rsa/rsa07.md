@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa06) [Next](rsa08)
+[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa06) [Next](rsa08.md)
 
 ------------------------------------------------------------------------
 
@@ -36,16 +36,16 @@ incomplete.
 > the Itongo brought the beast to you, that you might know that if you
 > do not take care you may die. If you go to the hunt, you are on your
 > guard. Perhaps you do not go, saying, "Isalakutshelwa hears through
-> trouble.<span id="page_229_fr_82"></span>[82](#page_229_note_82) Let
+> trouble.<span id="page_229_fr_82"></span>[82](#page_229_note_82.md) Let
 > me stay at home." And you stay at home and take care of yourself,
 > saying, "What do I want further, when the Itongo has already told me
 > that I am going into danger?"<span
-> id="page_229_fr_83"></span>[83](#page_229_note_83)
+> id="page_229_fr_83"></span>[83](#page_229_note_83.md)
 >
 >  Again, if during sleep you dream of returning to your people from
 > whom you separated a long time ago; and see that So-and-so and
 > So-and-so are unhappy; and when you wake your body is unstrung;<span
-> id="page_229_fr_84"></span>[84](#page_229_note_84) you know that the
+> id="page_229_fr_84"></span>[84](#page_229_note_84.md) you know that the
 > Itongo has taken you to your people that you might see the trouble in
 > which they are; and that if you go to them you will find out the cause
 > of their unhappiness. And you continue listening and expecting to hear
@@ -84,9 +84,9 @@ incomplete.
 > they call one another, saying, "There is a snake." All the people
 > hurry to look at the snake if it does not run away. They say if it
 > were a wild snake<span
-> id="page_231_fr_85"></span>[85](#page_231_note_85) it would run away
+> id="page_231_fr_85"></span>[85](#page_231_note_85.md) it would run away
 > when it sees men. But as it does not run away, it is a tame
-> snake.<span id="page_231_fr_86"></span>[86](#page_231_note_86) Others
+> snake.<span id="page_231_fr_86"></span>[86](#page_231_note_86.md) Others
 > say, "It is a beast; let it be killed." They dispute, and one kills it
 > and throws it away. They go to sleep, and a dream comes, and the dead
 > man says, "How is it that you kill me when you see me? It is me whom
@@ -109,7 +109,7 @@ incomplete.
 > afar off from him. He would sometimes see what was going on on the
 > other side of a hill, and tell the people, saying, "There is a man
 > coming by that path," whether it was a friend, or a stranger.<span
-> id="page_232_fr_87"></span>[87](#page_232_note_87)
+> id="page_232_fr_87"></span>[87](#page_232_note_87.md)
 >
 >  Sometimes in our country they hunted buffalo. If he had slept at
 > night, he would awake in the morning and tell us, saying, "Sirs, if we
@@ -170,7 +170,7 @@ incomplete.
 > to go to that place again. There is some one who for some time has
 > seen that you are accustomed to look at yourselves there. And he has
 > put bad medicine<span
-> id="page_235_fr_88"></span>[88](#page_235_note_88) into the hollow.
+> id="page_235_fr_88"></span>[88](#page_235_note_88.md) into the hollow.
 > Leave the place." And because he was a man whom we knew, we saw that
 > he spoke the truth, and did not refuse to obey, but left the place.
 > This he did not see in an ecstatic state, but during sleep.
@@ -186,7 +186,7 @@ incomplete.
 >  And as regards the ecstasy into which he fell, he was a man who did
 > not like to sit in the midst of many people; but liked to sit alone,
 > for he was a man who, we said, spoke the truth.<span
-> id="page_235_fr_89"></span>[89](#page_235_note_89) I do not <span
+> id="page_235_fr_89"></span>[89](#page_235_note_89.md) I do not <span
 > id="page_236">p. 236</span> mean that he never sat amidst other
 > people, but he did not usually do so.
 >
@@ -205,7 +205,7 @@ incomplete.
 > is ill, is one in which they dream that someone is dead and about to
 > be buried, and that they see the earth poured into the grave, and hear
 > the funeral lamentation for him, and see the destruction<span
-> id="page_236_fr_90"></span>[90](#page_236_note_90) of all his things
+> id="page_236_fr_90"></span>[90](#page_236_note_90.md) of all his things
 > during the night. They say of such a dream, "Because we have dreamt of
 > his death he will not die."
 >
@@ -266,10 +266,10 @@ incomplete.
 > have given him. And if he has gained many cattle he does the same.
 >
 >  It happened once when the Amazulu had gone out to battle,<span
-> id="page_239_fr_91"></span>[91](#page_239_note_91) the word was passed
+> id="page_239_fr_91"></span>[91](#page_239_note_91.md) the word was passed
 > among the people telling them that the cattle were standing without
 > guard at <span id="page_240">p. 240</span> Idhlokwe.<span
-> id="page_240_fr_92"></span>[92](#page_240_note_92) And all the people
+> id="page_240_fr_92"></span>[92](#page_240_note_92.md) And all the people
 > started up, thinking they should get cattle; and even old men went
 > out, leaning on their staves; and at length our father was carried
 > away by the infection. And as the news came in the afternoon, he said
@@ -538,14 +538,14 @@ incomplete.
 > which overflowed my heart. So it was. But I do not say that I have
 > mentioned every thing that I saw at that time before the time came for
 > me to be baptised.<span
-> id="page_252_fr_95"></span>[95](#page_252_note_95)
+> id="page_252_fr_95"></span>[95](#page_252_note_95.md)
 >
 > U<span class="small">SETEMBA</span> D<span
 > class="small">HLADHLA.</span> 
 
 ------------------------------------------------------------------------
 
-[Next](rsa08)
+[Next](rsa08.md)
 
 ------------------------------------------------------------------------
 
@@ -553,63 +553,63 @@ incomplete.
 
 <span id="footnotes_page_229">p. 229</span>
 
- <span id="page_229_note_82"></span>[82](#page_229_fr_82)
+ <span id="page_229_note_82"></span>[82](#page_229_fr_82.md)
 *Is’-ala-’kutshelwa*, He who when told refuses to listen, hears in the
 time of trouble. A proverbial saying. Another form is, *Ihlonga-’ndhlebe
 li zwa ngomopo*, He who is without an ear hears in the time of trouble.
 
- <span id="page_229_note_83"></span>[83](#page_229_fr_83) *Empini*,
+ <span id="page_229_note_83"></span>[83](#page_229_fr_83.md) *Empini*,
 lit., to an army, or enemy.
 
- <span id="page_229_note_84"></span>[84](#page_229_fr_84) *Umzimba u
+ <span id="page_229_note_84"></span>[84](#page_229_fr_84.md) *Umzimba u
 mude*, your body is long, that is, relaxed, unstrung.
 
 <span id="footnotes_page_231">p. 231</span>
 
- <span id="page_231_note_85"></span>[85](#page_231_fr_85) *Eyasendhle*,
+ <span id="page_231_note_85"></span>[85](#page_231_fr_85.md) *Eyasendhle*,
 a wild snake, that is, not an Itongo.
 
- <span id="page_231_note_86"></span>[86](#page_231_fr_86) *Eyasekaya*, a
+ <span id="page_231_note_86"></span>[86](#page_231_fr_86.md) *Eyasekaya*, a
 home snake, that is, an Itongo.
 
 <span id="footnotes_page_232">p. 232</span>
 
- <span id="page_232_note_87"></span>[87](#page_232_fr_87) That is, in
+ <span id="page_232_note_87"></span>[87](#page_232_fr_87.md) That is, in
 the ecstatic state he could see that some one was coming, but could not
 see whether it was an acquaintance, or a stranger.
 
 <span id="footnotes_page_235">p. 235</span>
 
- <span id="page_235_note_88"></span>[88](#page_235_fr_88) *Ububi*, that
+ <span id="page_235_note_88"></span>[88](#page_235_fr_88.md) *Ububi*, that
 is, some medicinal substance, capable of making any one who looked into
 the water hateful to others. See "Superstitious Use of Medicines."—Among
 the Highland Tales there is mentioned a magic basin which made a person
 beautiful when he washed in it. (Campbell. Vol. I., p. 97.)
 
- <span id="page_235_note_89"></span>[89](#page_235_fr_89) He sat alone
+ <span id="page_235_note_89"></span>[89](#page_235_fr_89.md) He sat alone
 that he might become ecstatic, and in that state see what he could not
 see in his ordinary condition.
 
 <span id="footnotes_page_236">p. 236</span>
 
- <span id="page_236_note_90"></span>[90](#page_236_fr_90) Some of the
+ <span id="page_236_note_90"></span>[90](#page_236_fr_90.md) Some of the
 dead man's personal property—as his assagais, his blanket, and dress—is
 buried with him, and some is burnt.
 
 <span id="footnotes_page_239">p. 239</span>
 
- <span id="page_239_note_91"></span>[91](#page_239_fr_91) To fight with
+ <span id="page_239_note_91"></span>[91](#page_239_fr_91.md) To fight with
 the Dutch in the time of Udingane.
 
 <span id="footnotes_page_240">p. 240</span>
 
- <span id="page_240_note_92"></span>[92](#page_240_fr_92) *Idhlokwe*, a
+ <span id="page_240_note_92"></span>[92](#page_240_fr_92.md) *Idhlokwe*, a
 secure place, where there was abundant pasture and forest, where the
 cattle could feed in concealment.
 
 <span id="footnotes_page_252">p. 252</span>
 
- <span id="page_252_note_95"></span>[95](#page_252_fr_95) The reader
+ <span id="page_252_note_95"></span>[95](#page_252_fr_95.md) The reader
 will see repeated in these narratives the experiences of St. Antony,
 Hilarion, and other early saints.
 

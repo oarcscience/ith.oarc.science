@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm14)  [Next](bnm16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm14)  [Next](bnm16.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ the bear, and that is why he says Hoo, hoo! '"
 
 ------------------------------------------------------------------------
 
-[Next: Why The Parrot Repeats The Words Of Men.](bnm16)
+[Next: Why The Parrot Repeats The Words Of Men.](bnm16.md)

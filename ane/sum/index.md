@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,15 +23,15 @@ gives translations or summaries of the most important Sumerian myths.
 
 ------------------------------------------------------------------------
 
-[Frontispiece](sum00)  
-[Title Page](sum01)  
-[Preface](sum02)  
-[Contents](sum03)  
-[List of Illustrations](sum04)  
-[Introduction](sum05)  
-[Chapter I. The Scope and Significance of Sumerian Mythology](sum06)  
-[Chapter II. Myths of Origins](sum07)  
-[Chapter III. Myths of Kur](sum08)  
-[Chapter IV. Miscellaneous Myths](sum09)  
-[Chapter V. References and Notes](sum10)  
-[Supplementary Notes](sum11)  
+[Frontispiece](sum00.md)  
+[Title Page](sum01.md)  
+[Preface](sum02.md)  
+[Contents](sum03.md)  
+[List of Illustrations](sum04.md)  
+[Introduction](sum05.md)  
+[Chapter I. The Scope and Significance of Sumerian Mythology](sum06.md)  
+[Chapter II. Myths of Origins](sum07.md)  
+[Chapter III. Myths of Kur](sum08.md)  
+[Chapter IV. Miscellaneous Myths](sum09.md)  
+[Chapter V. References and Notes](sum10.md)  
+[Supplementary Notes](sum11.md)  

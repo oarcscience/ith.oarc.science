@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx01) [Next](ttx03)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx01) [Next](ttx03.md)
 
 ------------------------------------------------------------------------
 
@@ -1970,7 +1970,7 @@ well worth study.
 
 ------------------------------------------------------------------------
 
-[Next](ttx03)
+[Next](ttx03.md)
 
  
 

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes03)  [Next](tes05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes03)  [Next](tes05.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_9">p. 9</span>
 
-# I. TALES OF THE TUNDRA YUKAGHIR. <span id="fr_1"></span>[1](#fn_1)
+# I. TALES OF THE TUNDRA YUKAGHIR. <span id="fr_1"></span>[1](#fn_1.md)
 
 ### 1. (THE GIRL AND THE EVIL SPIRIT.)
 
@@ -22,13 +22,13 @@ or trouble.
 One day she saw that half the sky was darkened. This darkness approached
 nearer and nearer. It was the evil spirit. One of his lips touched the
 sky, the other dragged along the ground. <span
-id="fr_2"></span>[2](#fn_2) Between was an open mouth, ready to swallow
+id="fr_2"></span>[2](#fn_2.md) Between was an open mouth, ready to swallow
 up whatever came in its way. "Ah!" said the girl, "my death is coming.
 What shall I do?" She took her iron-tipped staff and fled.
 
 The evil spirit gave chase, and was gaining on her. She drew from her
 pocket a small comb of ivory and threw it back over her shoulder. <span
-id="fr_3"></span>[3](#fn_3) The comb turned into a dense forest. The
+id="fr_3"></span>[3](#fn_3.md) The comb turned into a dense forest. The
 girl ran onward. When the evil spirit reached the forest he swallowed
 it, chewed it, and gulped it down. He digested it and then defecated.
 The dense forest turned again into a small ivory comb. After that he
@@ -75,7 +75,7 @@ Kolyma, spring of 1895.
 
 ### Footnotes
 
-<span id="fn_1"></span>[9:1](tes04.htm#fr_1) These tales were collected
+<span id="fn_1"></span>[9:1](tes04.htm#fr_1.md) These tales were collected
 among the Tundra Yukaghir on the western tundra of the Kolyma country.
 The Tundra Yukaghir have a mixture of Tungus blood, and call themselves
 "Tungus" in the Russian and in the Yakut languages. Though the language
@@ -86,15 +86,15 @@ well-known episodes of Old World folklore, borrowed from the Yakut or
 from Russian neighbors. Most of them had no titles. The titles have been
 introduced by me according to the contents of the tales.
 
-<span id="fn_2"></span>[9:2](tes04.htm#fr_2) Altai-Katunja (W. Radloff,
+<span id="fn_2"></span>[9:2](tes04.htm#fr_2.md) Altai-Katunja (W. Radloff,
 *Proben der Volkslitteratur der Türkischen Stämme Süd-Sibiriens*, vol.
 1, 39, 73); Ainu (B. Pilsudski, *Materials for the Study of the Ainu
 Language and Folklore* \[Cracow, 1912\], 205, 240).--F. B.
 
-<span id="fn_3"></span>[9:3](tes04.htm#fr_3) Bolte und Polívka,
+<span id="fn_3"></span>[9:3](tes04.htm#fr_3.md) Bolte und Polívka,
 *Anmerkungen zu den Kinder-u. Hausmärchen der Brüder Grimm*, vol. 2,
 140.--F. B.
 
 ------------------------------------------------------------------------
 
-[Next: 2. A Tale About the Wood-Master](tes05)
+[Next: 2. A Tale About the Wood-Master](tes05.md)

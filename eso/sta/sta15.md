@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta14)  [Next](sta16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta14)  [Next](sta16.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,7 +138,7 @@ formula concealed within
 <span id="img_06500"></span>
 
 [![PYTHAGORAS, THE FIRST PHILOSOPHER.](tn/06500.jpg)  
-Click to enlarge](img/06500.jpg)  
+Click to enlarge](img/06500.jpg.md)  
 PYTHAGORAS, THE FIRST PHILOSOPHER.  
 
 From *Historia Deorum Fatidicorum*.
@@ -318,7 +318,7 @@ separated into two parts, one branching to
 <span id="img_06600"></span>
 
 [![THE SYMMETRICAL GEOMETRIC SOLIDS.](tn/06600.jpg)  
-Click to enlarge](img/06600.jpg)  
+Click to enlarge](img/06600.jpg.md)  
 THE SYMMETRICAL GEOMETRIC SOLIDS.  
 
 To the five symmetrical solids of the ancients is added the sphere (1),
@@ -499,7 +499,7 @@ solitude.
 <span id="img_06700"></span>
 
 [![NUMBER RELATED TO FORM.](tn/06700.jpg)  
-Click to enlarge](img/06700.jpg)  
+Click to enlarge](img/06700.jpg.md)  
 NUMBER RELATED TO FORM.  
 
 Pythagoras taught that the dot symbolized the power of the number 1, the
@@ -669,7 +669,7 @@ of "shadows," philosophical astronomy the science of "realities."
 <span id="img_06800"></span>
 
 [![THE TETRACTYS.](tn/06800.jpg)  
-Click to enlarge](img/06800.jpg)  
+Click to enlarge](img/06800.jpg.md)  
 THE TETRACTYS.  
 
 Theon of Smyrna declares that the ten dots, or tetractys of Pythagoras,
@@ -681,7 +681,7 @@ tetractys, which hath the fountain and root of ever-springing nature."
 <span id="img_06801"></span>
 
 [![ THE CUBE AND THE STAR.](tn/06801.jpg)  
-Click to enlarge](img/06801.jpg)  
+Click to enlarge](img/06801.jpg.md)  
 THE CUBE AND THE STAR.  
 
 By connecting the ten dots of the tetractys, nine triangles are formed.
@@ -696,4 +696,4 @@ seventh day, is the central dot.
 
 ------------------------------------------------------------------------
 
-[Next: Pythagorean Mathematics](sta16)
+[Next: Pythagorean Mathematics](sta16.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mgr03)  [Next](mgr05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mgr03)  [Next](mgr05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ Such is the life history of Zeus from thunderstorm to Paraclete.
 
 ------------------------------------------------------------------------
 
-[Next: Hera](mgr05)
+[Next: Hera](mgr05.md)

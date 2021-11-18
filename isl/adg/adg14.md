@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg13)  [Next](adg15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg13)  [Next](adg15.md) 
 
 ------------------------------------------------------------------------
 
@@ -473,4 +473,4 @@ worries.
 
 ------------------------------------------------------------------------
 
-[Next: Most important sources of the book](adg15)
+[Next: Most important sources of the book](adg15.md)

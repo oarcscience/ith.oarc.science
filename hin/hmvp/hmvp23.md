@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp22)  [Next](hmvp24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp22)  [Next](hmvp24.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ dwarf, Vishnu appears, and asks, as a gift, all he could cross over in
 three steps. This the king grants. Immediately the pigmy becomes a
 giant, and with one step strides over heaven, and with the second over
 the earth, and thus fulfils his purpose. The "Skanda Purāna" <span
-id="fr_155"></span>[\*](#fn_155) gives the following legend as the
+id="fr_155"></span>[\*](#fn_155.md) gives the following legend as the
 reason of this incarnation.
 
 In the battle between the gods and asuras for the possession of the
@@ -56,7 +56,7 @@ perform a severe
 
 <span id="img_15700"></span> <span align="CENTER"> [![THE VĀMANA
 AVATĀRA.](tn/15700.jpg)  
-Click to enlarge](img/15700.jpg)  
+Click to enlarge](img/15700.jpg.md)  
 THE VĀMANA AVATĀRA.  
 </span>
 
@@ -73,7 +73,7 @@ in chronological order.
 
 The legend just quoted from the "Skanda Purāna" was written as an answer
 to the question why Vishnu had appeared in this strange form. In the
-Rig-Veda <span id="fr_156"></span>[\*](#fn_156) the germ of the story is
+Rig-Veda <span id="fr_156"></span>[\*](#fn_156.md) the germ of the story is
 found: "Vishnu strode over this \[universe\]; in three places he planted
 his step." This passage is interpreted by the commentators in various
 ways. One taught "that the triple manifestation of the god in the form
@@ -85,7 +85,7 @@ therefore, Vishnu is simply the sun. Frequently in the Rig-Veda the term
 "wide-stepping" is applied to him, an evident allusion to his three
 steps.
 
-In the "Satapatha Brāhmana," <span id="fr_157"></span>[†](#fn_157) the
+In the "Satapatha Brāhmana," <span id="fr_157"></span>[†](#fn_157.md) the
 simple statement of the earlier book respecting Vishnu's strides assumes
 a larger form. " The gods and the asuras, who both sprung from
 Prajāpati, strove together. Then the gods were worsted; and the asuras
@@ -216,16 +216,16 @@ enjoyable.
 
 ### Footnotes
 
-<span id="fn_154"></span>[155:\*](hmvp22.htm#fr_154) Ward, ii. 7, 8.
+<span id="fn_154"></span>[155:\*](hmvp22.htm#fr_154.md) Ward, ii. 7, 8.
 
-<span id="fn_155"></span>[156:\*](hmvp23.htm#fr_155) Kennedy's "Hindu
+<span id="fn_155"></span>[156:\*](hmvp23.htm#fr_155.md) Kennedy's "Hindu
 Mythology," p. 363.
 
-<span id="fn_156"></span>[158:\*](hmvp23.htm#fr_156) Muir, O. S. T., iv.
+<span id="fn_156"></span>[158:\*](hmvp23.htm#fr_156.md) Muir, O. S. T., iv.
 63-156.
 
-<span id="fn_157"></span>[158:†](hmvp23.htm#fr_157) Ibid.
+<span id="fn_157"></span>[158:†](hmvp23.htm#fr_157.md) Ibid.
 
 ------------------------------------------------------------------------
 
-[Next: 6. The Parasurāma Avatāra](hmvp24)
+[Next: 6. The Parasurāma Avatāra](hmvp24.md)

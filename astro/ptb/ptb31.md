@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb30)  [Next](ptb32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb30)  [Next](ptb32.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ greater and more compulsatory than the causes of particular events;
 secondly, because natures of more extended potency must invariably
 control those which are more limited in action; and, thirdly, because
 particular events, or individual affections, are comprehended in those
-of general influence. <span id="fr_78"></span>[1](#fn_78) It is
+of general influence. <span id="fr_78"></span>[1](#fn_78.md) It is
 therefore especially necessary, in desiring to investigate particular
 events, to treat first of those which are general.
 
@@ -76,10 +76,10 @@ and signs whence the natural cause of their peculiarities duly proceeds.
 
 ### Footnotes
 
-<span id="fn_78"></span>[40:1](ptb31.htm#fr_78) *Vide* Chap. iii, Book
-I, pp. [13](ptb06.htm#page_13)-14.
+<span id="fn_78"></span>[40:1](ptb31.htm#fr_78.md) *Vide* Chap. iii, Book
+I, pp. [13](ptb06.htm#page_13.md)-14.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. Peculiarities Observable Throughout Every Entire
-Climate](ptb32)
+Climate](ptb32.md)

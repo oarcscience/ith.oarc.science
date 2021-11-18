@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht07)  [Next](cht09) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht07)  [Next](cht09.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ people went home.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Coyote](cht09)
+[Next: 6. Coyote](cht09.md)

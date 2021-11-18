@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](arw48)  [Next](arw50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](arw48)  [Next](arw50.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabian Wisdom*, by John Wortabet, \[1913\], at Intangible Textual
 Heritage
 
@@ -48,4 +48,4 @@ If it were not for my own arm, my mouth would have nothing to eat.
 
 ------------------------------------------------------------------------
 
-[Next: Friends, Companions](arw50)
+[Next: Friends, Companions](arw50.md)

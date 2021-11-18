@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim87)  [Next](sim89) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim87)  [Next](sim89.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ of the Bear's claws. And Chipmunks carry those marks to this day.
 
 ------------------------------------------------------------------------
 
-[Next: The Wren](sim89)
+[Next: The Wren](sim89.md)

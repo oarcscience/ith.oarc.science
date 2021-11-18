@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht10)  [Next](cht12) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht10)  [Next](cht12.md) 
 
 ------------------------------------------------------------------------
 
@@ -177,4 +177,4 @@ already." Now the people went home and left Ênts<u>!</u>x.
 
 ------------------------------------------------------------------------
 
-[Next: 9. The Crow](cht12)
+[Next: 9. The Crow](cht12.md)

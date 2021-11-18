@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat11)  [Next](sat13) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat11)  [Next](sat13.md) 
 
 ------------------------------------------------------------------------
 
 # CHAPTER ELEVEN
 
-\[LXXIX <span id="LXXIX"></span>[(Latin)](../satyrlat/satl079) \] We had
+\[LXXIX <span id="LXXIX"></span>[(Latin)](../satyrlat/satl079.md) \] We had
 never a torch to guide our wandering steps, while the silent hour of
 midnight gave small hope of procuring light from chance wayfarers. Added
 to this was our own intoxication and ignorance of the locality, baffling
@@ -53,7 +53,7 @@ scene of your abominations."
 
 He made no objection to this, but after we had divided our loot with
 scrupulous exactness, "Come now," said he, "let's divide the boy."
-\[LXXX <span id="LXXX"></span>[(Latin)](../satyrlat/satl080) \] I
+\[LXXX <span id="LXXX"></span>[(Latin)](../satyrlat/satl080.md) \] I
 thought this was merely a parting jest. But murderously drawing a sword,
 "Never," he cried, "shall you enjoy this prey you gloat over so
 selfishly. I've been slighted, and I must have my share, even if I have
@@ -96,7 +96,7 @@ A son's, a rich man's, each with pliant art;
 But when the play is ended, grave or gay,  
 Dropped is the mask, and truth resumes her sway.
 
-\[LXXXI <span id="LXXXI"></span>[(Latin)](../satyrlat/satl081) \]
+\[LXXXI <span id="LXXXI"></span>[(Latin)](../satyrlat/satl081.md) \]
 However, I had no time to indulge my grief, but dreading lest, to
 complete my misfortunes, Menelaus, the under-professor, should find me
 alone at the inn, I collected my traps together, and with a sad heart
@@ -123,7 +123,7 @@ excesses, make mock of my loneliness. But they shall not go unpunished.
 As I am a man, and a Roman citizen, I will avenge the wrong they have
 done me in their guilty blood!"
 
-\[LXXXII <span id="LXXXII"></span>[(Latin)](../satyrlat/satl082) \] So
+\[LXXXII <span id="LXXXII"></span>[(Latin)](../satyrlat/satl082.md) \] So
 saying, I gird on a sword, and that bodily weakness might not hinder my
 warlike intentions, recruit my strength with a copious meal. Presently I
 sally forth, and stalk like a madman through all the public colonnades.
@@ -144,7 +144,7 @@ Fortune has her own way of doing things.
 
 Meantime I found it no easy task to overcome my thirst for revenge, and
 spent half the night in anxious debate. \[LXXXIII <span
-id="LXXXIII"></span>[(Latin)](../satyrlat/satl083) \] In hopes, however,
+id="LXXXIII"></span>[(Latin)](../satyrlat/satl083.md) \] In hopes, however,
 of beguiling my melancholy and forgetting my wrongs, I rose at dawn and
 visited all the different colonnades, finally entering a picture
 gallery, containing admirable paintings in various styles. There I
@@ -189,7 +189,7 @@ The base adulterer with Croesus vies.
 Learning alone, in shuddering rags arrayed,  
 Vainly invokes th' indifferent Muses' aid!
 
-\[LXXXIV <span id="LXXXIV"></span>[(Latin)](../satyrlat/satl084) \] "No
+\[LXXXIV <span id="LXXXIV"></span>[(Latin)](../satyrlat/satl084.md) \] "No
 doubt about it; if any man declare himself the foe of every vice, and
 start boldly on the path of rectitude, in the first place the
 singularity of his principles makes him odious, for who can approve
@@ -218,7 +218,7 @@ Pleased by my frankness, the old man tried to comfort me; and in order
 to divert my melancholy thoughts, told me of an amorous adventure that
 had once happened to himself.
 
-\[LXXXV <span id="LXXXV"></span>[(Latin)](../satyrlat/satl085) \] "When
+\[LXXXV <span id="LXXXV"></span>[(Latin)](../satyrlat/satl085.md) \] "When
 I went to Asia," he began, "as a paid officer in the Quaestor's suite, I
 lodged with a family at Pergamus. I found my quarters very pleasant,
 first on account of the convenience and elegance of the apartments, and
@@ -246,7 +246,7 @@ pretense to be asleep, I stole two or three flying kisses. Satisfied
 with this beginning, I rose betimes next morning, and discharged my vow
 by bringing the eager lad a choice and costly pair of doves.
 
-\[LXXXVI <span id="LXXXVI"></span>[(Latin)](../satyrlat/satl086) \] "The
+\[LXXXVI <span id="LXXXVI"></span>[(Latin)](../satyrlat/satl086.md) \] "The
 following night, the same opportunity occurring, I changed my petition,
 'If I may pass a naughty hand over this boy, and he not feel it, I will
 present him for his complaisance with a brace of the best fighting cocks
@@ -257,7 +257,7 @@ longings, short of the supreme bliss, on every part of his beautiful
 body. Then when daylight came, I made him happy with the gift I had
 promised him.
 
-\[LXXXVII <span id="LXXXVII"></span>[(Latin)](../satyrlat/satl087) \]
+\[LXXXVII <span id="LXXXVII"></span>[(Latin)](../satyrlat/satl087.md) \]
 "As soon as the third night left me free to try again, I rose as before,
 and creeping up to the rascal, who was lying awake expecting me,
 whispered at his ear, 'If only, ye Immortal Gods, I may win of this
@@ -314,7 +314,7 @@ work?' Hereupon, sick to death of being so often disturbed, I flew into
 a regular rage, and retorted his own words upon him; 'Go to sleep,' I
 cried, 'or I'll tell your father!'"
 
-\[LXXXVIII <span id="LXXXVIII"></span>[(Latin)](../satyrlat/satl088) \]
+\[LXXXVIII <span id="LXXXVIII"></span>[(Latin)](../satyrlat/satl088.md) \]
 Enlivened by this discourse, I now began to question my companion, who
 was better informed on these points than myself, as to the dates of the
 different pictures and the subjects of some that baffled me. At the same
@@ -357,7 +357,7 @@ when all, gods and men alike, find a big lump of gold a fairer sight
 than anything those crack-brained Greek fellows, Apelles and Phidias,
 ever wrought.
 
-\[LXXXIX <span id="LXXXIX"></span>[(Latin)](../satyrlat/satl089) \] "But
+\[LXXXIX <span id="LXXXIX"></span>[(Latin)](../satyrlat/satl089.md) \] "But
 there! I see your attention is riveted on that picture representing the
 capture of Troy; so I will endeavor to expound the theme in a copy of
 verses:
@@ -433,7 +433,7 @@ With wine oppressed, one from the altar flames
 Snatches a burning brand and fires the town,--  
 And Troy's own temples arm her foemen's hands."
 
-\[XC <span id="XC"></span>[(Latin)](../satyrlat/satl090) \] Sundry of
+\[XC <span id="XC"></span>[(Latin)](../satyrlat/satl090.md) \] Sundry of
 the public who were strolling in the colonnades now proceeded to pelt
 the aged reciter with stones. But Eumolpus, who was familiar with the
 sort of applause his talents usually met with, merely covered up his
@@ -460,4 +460,4 @@ straight to the Baths.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Twelve](sat13)
+[Next: Chapter Twelve](sat13.md)

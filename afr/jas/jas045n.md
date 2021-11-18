@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas044n)  [Next](jas046n)   
- \[[45. The Chain of Victims.](jas045)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas044n)  [Next](jas046n.md)   
+ \[[45. The Chain of Victims.](jas045.md)\]
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ Compare Koelle, 158-161; Dayrell, 6-10; Nassau, 245-247; Tremearne,
 
 ------------------------------------------------------------------------
 
-[Next: Note 46. Why Tumble-bug Rolls in the Dung.](jas046n)
+[Next: Note 46. Why Tumble-bug Rolls in the Dung.](jas046n.md)

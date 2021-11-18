@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi14)  [Next](osi16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi14)  [Next](osi16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -69,4 +69,4 @@ produced by his disciples, the Nirvanys and Yoguys.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. The Frontal Sign of the Initiates According to the
-Agrouchada-Parikchai](osi16)
+Agrouchada-Parikchai](osi16.md)

@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft14)  [Next](meft16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft14)  [Next](meft16.md) 
 
 ------------------------------------------------------------------------
 
 # The Wee Bannock
 
 <span id="img_016"></span> [![](tn/016.jpg)  
-Click to enlarge](img/016.jpg)
+Click to enlarge](img/016.jpg.md)
 
  
 
@@ -137,4 +137,4 @@ it in two in the middle. And that was the end of the wee bannock.
 
 ------------------------------------------------------------------------
 
-[Next: Johnny Gloke](meft16)
+[Next: Johnny Gloke](meft16.md)

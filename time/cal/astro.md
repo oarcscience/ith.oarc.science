@@ -2,7 +2,7 @@
 layout: seclanding
 title: "Plantary Positions"
 ---
-[![](../../cdshop/ithlogo.png)](../../index)
+[![](../../cdshop/ithlogo.png)](../../index.md)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ of the equinox.
 
 This page defaults to the current local time, but you can also set other
 values for the date and time using the [form at the bottom of this
-page](#a_datetimeform). The entered time must be Greenwich Mean Time.
+page](#a_datetimeform.md). The entered time must be Greenwich Mean Time.
 Note that you can set a value B.C.E. by using negative numbers in the
 year field. Dates prior to 15 October 1582 are considered be Julian,
 after that, Gregorian. Since not all countries (e.g. Russia) changed
@@ -84,7 +84,7 @@ savings time (if applicable) and your timezone.\] </span>
 <span class="p-small2">msec</span>
 
   
-<span class="p-small2">[Reset to Current Local Time](astro)</span>
+<span class="p-small2">[Reset to Current Local Time](astro.md)</span>
 
 ------------------------------------------------------------------------
 

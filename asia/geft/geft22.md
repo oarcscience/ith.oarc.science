@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft21)  [Next](geft23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft21)  [Next](geft23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 THERE was a king, and he had three sons. Once he fell ill, and became
 blind in both eyes. He sent his sons for a surgeon. All the surgeons
 agreed that there was a fish of a rare kind by the help of which the
-king might be cured. <span id="fr_41"></span>[3](#fn_40) They made a
+king might be cured. <span id="fr_41"></span>[3](#fn_40.md) They made a
 sketch of the fish, and left it with the sick monarch.
 
 <span id="page_125">p. 125</span>
@@ -35,7 +35,7 @@ what could he do? Then the second son set out, taking with him a hundred
 men also, but all his men were lost too, and he brought back nothing.
 
 After this, the youngest brother went. He had recourse to cunning; he
-took with him a hundred kilas <span id="fr_42"></span>[1](#fn_41) of
+took with him a hundred kilas <span id="fr_42"></span>[1](#fn_41.md) of
 flour and one man. He came to the sea, and every day he strewed flour in
 the water, near the shore, until all the flour was used up; the fishes
 grew fat on the flour, and said: 'Let us do a service to this youth
@@ -175,13 +175,13 @@ began.
 
 ### Footnotes
 
-<span id="fn_40"></span>[124:3](geft22.htm#fr_41) Cf. the beginning of
-'Gulambara and Sulambara' on [p. 42](geft09.htm#page_42); also the
+<span id="fn_40"></span>[124:3](geft22.htm#fr_41.md) Cf. the beginning of
+'Gulambara and Sulambara' on [p. 42](geft09.htm#page_42.md); also the
 Biblical story of Tobit and the Angel.
 
-<span id="fn_41"></span>[125:1](geft22.htm#fr_42) *Kila*, a measure of
+<span id="fn_41"></span>[125:1](geft22.htm#fr_42.md) *Kila*, a measure of
 flour=about 36 to 40 pounds.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Cunning Old Man and the *Demi*](geft23)
+[Next: V. The Cunning Old Man and the *Demi*](geft23.md)

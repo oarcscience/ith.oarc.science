@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb20)  [Next](boeb22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb20)  [Next](boeb22.md) 
 
 ------------------------------------------------------------------------
 
@@ -344,7 +344,7 @@ For, in my mind, of all mankind
  
 
 <span id="img_14200"></span> [![](tn/14200.jpg)  
-Click to enlarge](img/14200.jpg)
+Click to enlarge](img/14200.jpg.md)
 
  
 
@@ -470,4 +470,4 @@ Much more ought they to God obey,
 
 ------------------------------------------------------------------------
 
-[Next: The Fause Lover](boeb22)
+[Next: The Fause Lover](boeb22.md)

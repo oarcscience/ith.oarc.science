@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh10)  [Next](boh12) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh10)  [Next](boh12.md) 
 
 ------------------------------------------------------------------------
 
@@ -446,4 +446,4 @@ Our home-coming dead.'"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: In Wales](boh12)
+[Next: Chapter X: In Wales](boh12.md)

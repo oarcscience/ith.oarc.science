@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj25) 
-[Next](npj27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj25.md) 
+[Next](npj27.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Note On Kantan](npj27)
+[Next: Note On Kantan](npj27.md)

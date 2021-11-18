@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ssm00)
+[Contents](#contents)    [Start Reading](ssm00.md)
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ during which our species was reduced to a few hundred individuals; this
 has emerged from mitochondrial DNA studies. Some have hypothesized that
 Sundaland may have been home to an early lost civilization, perhaps the
 home of the mysterious voyagers who charted the [anomalous ice-age
-maps](../../piri/index) which the early modern map-makers incorporated
+maps](../../piri/index.md) which the early modern map-makers incorporated
 in their atlases. While not Mu or Lemuria, of all of the nooks and
 crannies where a lost civilization might have existed, Sundaland is one
 of the most plausible; only time will tell.
@@ -96,17 +96,17 @@ of the most plausible; only time will tell.
 
 ------------------------------------------------------------------------
 
-<span id="#contents"></span> [Title Page](ssm00)  
-[Contents](ssm01)  
-[List of Illustrations](ssm02)  
-[Preface](ssm03)  
-[Chapter I. Introduction](ssm04)  
-[Chapter II. Religions](ssm05)  
-[Chapter III. Symbols of the Deity and his Attributes](ssm06)  
-[Chapter IV. The Creation](ssm07)  
-[Chapter V. Symbols Used In Religious Teachings](ssm08)  
-[Chapter VI. Symbols Relating to Mu](ssm09)  
-[Chapter VII. Sacred Symbols Connecting North America to Mu](ssm10)  
-[Chapter VIII. The Mound Builders Of North America](ssm11)  
-[Chapter IX. Religion in Egypt and India](ssm12)  
-[Chapter X. The Twin Sisters--Religion and Science](ssm13)  
+<span id="#contents"></span> [Title Page](ssm00.md)  
+[Contents](ssm01.md)  
+[List of Illustrations](ssm02.md)  
+[Preface](ssm03.md)  
+[Chapter I. Introduction](ssm04.md)  
+[Chapter II. Religions](ssm05.md)  
+[Chapter III. Symbols of the Deity and his Attributes](ssm06.md)  
+[Chapter IV. The Creation](ssm07.md)  
+[Chapter V. Symbols Used In Religious Teachings](ssm08.md)  
+[Chapter VI. Symbols Relating to Mu](ssm09.md)  
+[Chapter VII. Sacred Symbols Connecting North America to Mu](ssm10.md)  
+[Chapter VIII. The Mound Builders Of North America](ssm11.md)  
+[Chapter IX. Religion in Egypt and India](ssm12.md)  
+[Chapter X. The Twin Sisters--Religion and Science](ssm13.md)  

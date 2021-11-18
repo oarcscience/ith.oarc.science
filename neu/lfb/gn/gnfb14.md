@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb13)  [Next](gnfb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb13)  [Next](gnfb15.md) 
 
 </div>
 
@@ -289,6 +289,6 @@ Fenelon.
 
 ------------------------------------------------------------------------
 
-[Next: The Snuff-Box](gnfb15)
+[Next: The Snuff-Box](gnfb15.md)
 
 </div>

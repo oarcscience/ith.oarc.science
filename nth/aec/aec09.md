@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec08)  [Next](aec10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec08)  [Next](aec10.md) 
 
 ------------------------------------------------------------------------
 
@@ -305,4 +305,4 @@ death.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Religion](aec10)
+[Next: VII. Religion](aec10.md)

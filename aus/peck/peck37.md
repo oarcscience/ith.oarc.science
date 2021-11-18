@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck36)  [Next](peck38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck36)  [Next](peck38.md) 
 
 ------------------------------------------------------------------------
 
@@ -220,4 +220,4 @@ the true story of the black satin.
 
 ------------------------------------------------------------------------
 
-[Next: The End: The Aborigines](peck38)
+[Next: The End: The Aborigines](peck38.md)

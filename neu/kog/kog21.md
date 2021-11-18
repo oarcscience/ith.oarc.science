@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog20)  [Next](kog22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog20)  [Next](kog22.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 <span id="img_17200"></span>
 
 [![](tn/17200.jpg)  
-Click to enlarge](img/17200.jpg)
+Click to enlarge](img/17200.jpg.md)
 
  
 
@@ -95,4 +95,4 @@ Robinson" he was off. So it all turned out all right.
 
 ------------------------------------------------------------------------
 
-[Next: 19. The Knight Bambus](kog22)
+[Next: 19. The Knight Bambus](kog22.md)

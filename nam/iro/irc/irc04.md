@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](irc03)  [Next](irc05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](irc03)  [Next](irc05.md) 
 
 ------------------------------------------------------------------------
 
@@ -227,7 +227,7 @@ kinds of animal \[man-beings\]; and by all means still something else
 that will be an aid to me." So now he started. He had not gone far when
 in the distance he saw the place where stood the lodge of his father. He
 arrived there, and there a man-being abode who had four <span
-id="fr_17"></span>[a](#fn_16) children, two males and two females. The
+id="fr_17"></span>[a](#fn_16.md) children, two males and two females. The
 youth said: "I have now arrived. O father, it is necessary that thou
 shouldst aid me. And that which I need are the game \[animals\] and also
 some other things." They were all pleased that they saw him. So now he,
@@ -243,7 +243,7 @@ whereby ye shall enjoy yourselves. And I say that ye shall make a
 circuit of this earth here present, and also that ye shall take this
 flute." So now they stood at the line whence they should start. Now the
 visiting youth said: "I desire that here shall stand he, the
-Defender <span id="fr_18"></span>[a](#fn_17) \[the False-face,
+Defender <span id="fr_18"></span>[a](#fn_17.md) \[the False-face,
 He-defends-them\], that he may aid me." Truly, it thus came to pass; the
 Defender came and stood there. And now, moreover, the youth said: "And I
 say that thou must put forth thy utmost speed for that I am going to
@@ -377,7 +377,7 @@ the habit of setting traps. So then day after day they two
 <span id="page_242">p. 242</span>
 
 were in the habit of going away. So for some time now they \[masc.
-anthropic\] who severally had otgon <span id="fr_19"></span>[a](#fn_18)
+anthropic\] who severally had otgon <span id="fr_19"></span>[a](#fn_18.md)
 natures, and they also whose bodies were otgon in nature, hated them
 \[the two boys\]. Now, of course, they two, verily, in going away, were
 in the habit of going together. So that \[I say\], moreover, one day the
@@ -416,9 +416,9 @@ seat thyself. So there now thou shalt observe the kind of life that
 customarily the human man-beings will live who will dwell on the earth.
 So now there, moreover, the path will divide itself where thou wilt
 abide. One of the ways will lead thither to the place where is the abode
-of His-word-is-master, <span id="fr_20"></span>[a](#fn_19) and the other
+of His-word-is-master, <span id="fr_20"></span>[a](#fn_19.md) and the other
 will lead to the place where abides He-dwells-in-caves. <span
-id="fr_21"></span>[b](#fn_20) And also thou wilt have servants,
+id="fr_21"></span>[b](#fn_20.md) And also thou wilt have servants,
 they-\[masc.\]-dwell-in-caves. So that., moreover \[I say\], thou shalt
 take this thing-to-blow, this flute, and that thou shalt constantly
 continue to blow it. Just as soon, customarily, as one's breath ends,
@@ -455,7 +455,7 @@ popped. There was quite a pile of the popped corn. Now, verily, she took
 out a mortar of small size. Moreover, she struck repeated blows on the
 mortar, and the mortar grew in size, and it grew to a size that was just
 right. Now she took out the upper mortar <span
-id="fr_22"></span>[a](#fn_21) \[pestle\] from her bag. Now again she
+id="fr_22"></span>[a](#fn_21.md) \[pestle\] from her bag. Now again she
 struck it repeated blows and it, too, increased in size. So now she
 pounded the corn, making meal. So now again she searched in her bag. She
 took thence again a small pot, and she, too, again did in like manner,
@@ -572,7 +572,7 @@ said. "I would accept the number of stripes on the back of a chipmunk,"
 she said. "So be it," said the youth. So then he said: "Customarily,
 four days shall a woman-being remain out of doors. Then, customarily, as
 soon as she has washed all her garments, she shall reenter the place
-where they, her ohwachira <span id="fr_23"></span>[a](#fn_22), abide."
+where they, her ohwachira <span id="fr_23"></span>[a](#fn_22.md), abide."
 
 <span id="page_254">p. 254</span>
 
@@ -594,7 +594,7 @@ verily, they two went up on high. So this is the end of the legend.
 
 ### Footnotes
 
-<span id="fn_16"></span>[233:a](irc04.htm#fr_17) The use of the number
+<span id="fn_16"></span>[233:a](irc04.htm#fr_17.md) The use of the number
 four here is remarkable. It seems that the two female children are
 introduced merely to retain the number four, since they do not take any
 part in the events of the legend. It appears to the writer that the
@@ -609,25 +609,25 @@ Algonquian narrators, four male children are named as the offspring of
 the personage here called Wind. For the Potawatomi version consult De
 Smet, Oregon Missions, page 347.
 
-<span id="fn_17"></span>[234:a](irc04.htm#fr_18) This is the Seneca name
+<span id="fn_17"></span>[234:a](irc04.htm#fr_18.md) This is the Seneca name
 for the Hadu’'ĭ of the Onondagas.
 
-<span id="fn_18"></span>[242:a](irc04.htm#fr_19) Otgon signifies
+<span id="fn_18"></span>[242:a](irc04.htm#fr_19.md) Otgon signifies
 malefic. It denotes specifically the evil or destructive use of orenda,
 or magic power.
 
-<span id="fn_19"></span>[244:a](irc04.htm#fr_20) This is the name of the
+<span id="fn_19"></span>[244:a](irc04.htm#fr_20.md) This is the name of the
 God of the Christians.
 
-<span id="fn_20"></span>[244:b](irc04.htm#fr_21) This is the name of the
+<span id="fn_20"></span>[244:b](irc04.htm#fr_21.md) This is the name of the
 devil of the Christians.
 
-<span id="fn_21"></span>[246:a](irc04.htm#fr_22) This term goes back to
+<span id="fn_21"></span>[246:a](irc04.htm#fr_22.md) This term goes back to
 the time when upper and lower grinder had the same name.
 
-<span id="fn_22"></span>[253:a](irc04.htm#fr_23) See first note on page
-255 ( [a](irc05.htm#fn_23)).
+<span id="fn_22"></span>[253:a](irc04.htm#fr_23.md) See first note on page
+255 ( [a](irc05.htm#fn_23).md).
 
 ------------------------------------------------------------------------
 
-[Next: A Mohawk Version](irc05)
+[Next: A Mohawk Version](irc05.md)

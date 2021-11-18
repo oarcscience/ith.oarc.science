@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw05)  [Next](tfgw07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw05)  [Next](tfgw07.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,4 +185,4 @@ The Cattle Jobber of Awnascawil
 
 ------------------------------------------------------------------------
 
-[Next: The Midwife of Listowel](tfgw07)
+[Next: The Midwife of Listowel](tfgw07.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc024) 
-[Next](motc026) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc024.md) 
+[Next](motc026.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ split it, as we still see it.
 
 ------------------------------------------------------------------------
 
-[Next: 26. How The Deer Got His Horns](motc026)
+[Next: 26. How The Deer Got His Horns](motc026.md)

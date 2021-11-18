@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam03)  [Next](lam05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam03)  [Next](lam05.md) 
 
 ------------------------------------------------------------------------
 
@@ -376,4 +376,4 @@ mind*.
 
 ------------------------------------------------------------------------
 
-[Next: III. Thought](lam05)
+[Next: III. Thought](lam05.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr00)  [Next](wsgr02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr00)  [Next](wsgr02.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ FLORENCE STRATTON.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](wsgr02)
+[Next: Contents](wsgr02.md)

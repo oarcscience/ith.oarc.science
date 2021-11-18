@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl22)  [Next](orl24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl22)  [Next](orl24.md) 
 
 ------------------------------------------------------------------------
 
@@ -1534,4 +1534,4 @@ Rather than by my tediousness offend.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 24](orl24)
+[Next: Canto 24](orl24.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr34)  [Next](wsgr36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr34)  [Next](wsgr36.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ In what kind of place the mescal plant grows.
 
 Whether orioles nest in the pecan trees.
 
-If there are many birds on the islands off [the](errata.htm#0) coast of
+If there are many birds on the islands off [the](errata.htm#0.md) coast of
 Texas.
 
 <span id="page_235">p. 235</span>
@@ -91,4 +91,4 @@ Compare the story *Why Hummingbirds Drink Only Dew* with the fable of
 
 ------------------------------------------------------------------------
 
-[Next: Indian Symbols](wsgr36)
+[Next: Indian Symbols](wsgr36.md)

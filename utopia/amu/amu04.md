@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](amu03)  [Next](amu05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](amu03)  [Next](amu05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -368,7 +368,7 @@ expression of the human mind, than the Scottish Longer Catechism. Amidst
 the welter of modern thought, a philosophy long lost to men rises again
 into being, like some blind and almost formless embryo, that must
 presently develop sight, and form, and power, a philosophy in which this
-assumption is denied. <span id="fr_0"></span>[1](#fn_0)
+assumption is denied. <span id="fr_0"></span>[1](#fn_0.md)
 
 All through this Utopian excursion, I must warn you, you shall feel the
 thrust and disturbance of the insurgent movement. In the reiterated use
@@ -414,7 +414,7 @@ spacious coalescence, and hold in the frame of such an uninflected or
 slightly inflected idiom as English already presents, a profuse
 vocabulary into which have been cast a dozen once separate tongues,
 superposed and then welded together through bilingual and trilingual
-compromises. <span id="fr_1"></span>[2](#fn_1) In the past ingenious men
+compromises. <span id="fr_1"></span>[2](#fn_1.md) In the past ingenious men
 have speculated on the inquiry, "Which language will survive?" The
 question was badly put. I think now that this wedding and survival of
 several in a common offspring is a far more probable thing.
@@ -615,7 +615,7 @@ has been unravelled and made right.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](amu04.htm#fr_0) The serious reader may refer
+<span id="fn_0"></span>[1](amu04.htm#fr_0.md) The serious reader may refer
 at leisure to Sidgwick's *Use of Words in Reasoning* (particularly), and
 to Bosanquet's *Essentials of Logic*, Bradley's *Principles of Logic*,
 and Sigwart's *Logik*; the lighter minded may read and mark the temper
@@ -623,10 +623,10 @@ of Professor Case in the *British Encyclopædia*, article "Logic" (vol.
 xxx.). I have appended to his book a rude sketch of a philosophy upon
 new lines, originally read by me to the Oxford Phil. Soc. in 1903.
 
-<span id="fn_1"></span>[2](amu04.htm#fr_1) *Vide* an excellent article,
+<span id="fn_1"></span>[2](amu04.htm#fr_1.md) *Vide* an excellent article,
 "La Langue Française en l'an 2003," par Leon Bollack, in *La Revue*, 15
 Juillet, 1903.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two](amu05)
+[Next: Chapter Two](amu05.md)

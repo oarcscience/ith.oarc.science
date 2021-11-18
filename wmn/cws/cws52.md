@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws51)  [Next](cws53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws51)  [Next](cws53.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XLVIII
 
-#### CONCERNING THE CHRISTIAN MYSTERIES <span id="fr_182"></span>[1](#fn_182)
+#### CONCERNING THE CHRISTIAN MYSTERIES <span id="fr_182"></span>[1](#fn_182.md)
 
 ##### PART I
 
@@ -14,7 +14,7 @@ THE two terms of the history of creation or evolution are formulated by
 the Catholic Church in two precious and all-important dogmas. These
 are--first, the Immaculate Conception of the Blessed Virgin Mary; and,
 secondly, the Assumption of the Blessed Virgin Mary. <span
-id="fr_183"></span>[2](#fn_183) By the doctrine of the first we are
+id="fr_183"></span>[2](#fn_183.md) By the doctrine of the first we are
 secretly enlightened concerning the generation of the soul, who is
 begotten in the womb of matter, and yet from the first instant of her
 being is pure and incorrupt. Sin comes through the material and
@@ -24,7 +24,7 @@ of original sin. "Salem, which is from above, is free, which is the
 mother of us all. But Agar"--the intellectual and astral part--"is a
 bond slave, both she and her son." The soul, born of time (Anna), is yet
 conceived without taint of corruption or decay, because her essence is
-divine. <span id="fr_184"></span>[3](#fn_184) Contained in matter, and
+divine. <span id="fr_184"></span>[3](#fn_184.md) Contained in matter, and
 brought into the world by means of it, she is yet not of it, else she
 could not be mother of God. In her bosom is conceived that bright and
 holy light--the Nucleolus--which dwells in her from the beginning, and
@@ -58,7 +58,7 @@ history, that is, of humanity and of the kosmic drama--is contained and
 enacted in the cultus of the Blessed Virgin Mary. The acts and the
 glories of Mary are the one supreme subject of the holy mysteries.
 
-##### PART 2 <span id="fr_185"></span>[1](#fn_185)
+##### PART 2 <span id="fr_185"></span>[1](#fn_185.md)
 
 It is necessary, in relation to the Mysteries, to distinguish between
 the unmanifest and the manifest, and between the
@@ -98,7 +98,7 @@ creative energy of whom is begotten the Manifestor, Adonai, *the* Lord.
 This "Mother" is co-equal with the Father, being primary and eternal. In
 manifestation the "Mother" is derived, being born of Time (Anna), and
 has for Father the Planet-God--for our planet, Iacchos Joachim, or
-Jacob; <span id="fr_186"></span>[1](#fn_186) so that the paternity of
+Jacob; <span id="fr_186"></span>[1](#fn_186.md) so that the paternity of
 the first person of the Trinity is vicarious only. The Church,
 therefore, being a Church of the manifest, deals with
 
@@ -112,16 +112,16 @@ unmanifest being underived, she has no relation to time.
 
 ### Footnotes
 
-<span id="fn_182"></span>[120:1](cws52.htm#fr_182) Paris, December 12,
+<span id="fn_182"></span>[120:1](cws52.htm#fr_182.md) Paris, December 12,
 1882. Referred to in *Life of Anna Kingsford*, Vol. ii, pp. 98, 99.
 
-<span id="fn_183"></span>[120:2](cws52.htm#fr_183) The latter is not yet
+<span id="fn_183"></span>[120:2](cws52.htm#fr_183.md) The latter is not yet
 promulgated. See *The Perfect Way*, V. 43, n. 13.    E. M.
 
-<span id="fn_184"></span>[120:3](cws52.htm#fr_184) See Part I, No. III,
+<span id="fn_184"></span>[120:3](cws52.htm#fr_184.md) See Part I, No. III,
 "Concerning the Immaculate Conception," and No. XLII, "Concerning God."
 
-<span id="fn_185"></span>[121:1](cws52.htm#fr_185) Home, August 19,
+<span id="fn_185"></span>[121:1](cws52.htm#fr_185.md) Home, August 19,
 1883. Mrs Kingsford thus prefaces this; exposition in her diary:--
 
 "How wonderfully the Church helps one in matters of Theosophy! When I am
@@ -141,7 +141,7 @@ followers idolaters."    E. M.
 
 Referred to in *Life of Anna Kingsford*, vol. ii, pp. 133-135.
 
-<span id="fn_186"></span>[122:1](cws52.htm#fr_186) Ps. xxiv, 6; cxxxii,
+<span id="fn_186"></span>[122:1](cws52.htm#fr_186.md) Ps. xxiv, 6; cxxxii,
 2, 5, etc. See Appendix, "Definitions." Every kosmic entity, whether a
 system, a planet, or a person, is constituted of a certain portion of
 Divinity, segregated and assigned to be its life and substance. These
@@ -154,4 +154,4 @@ daughter, mother, and spouse of man.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: No. XLIX: Concerning Dying](cws53)
+[Next: No. XLIX: Concerning Dying](cws53.md)

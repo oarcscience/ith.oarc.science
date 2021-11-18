@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](cbc35)  [Next](cbc37) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](cbc35)  [Next](cbc37.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,9 +27,9 @@ may have been, was something quite different from that of their European
 conquerors. They simply superimposed it upon their old religion, just as
 they had previously superimposed the Quetzalcoatl cult of the Nahua
 invaders upon the original Maya faith. <span
-id="fr_1078"></span>[1](#fn_1071) They sometimes called their old
+id="fr_1078"></span>[1](#fn_1071.md) They sometimes called their old
 deities perishable gods (*hauay kuob*), <span
-id="fr_1079"></span>[2](#fn_1072) but they continued to worship them
+id="fr_1079"></span>[2](#fn_1072.md) but they continued to worship them
 surreptitiously.
 
 Even in their Christian worship we find among the Maya an unconscious
@@ -47,7 +47,7 @@ tendency was already anticipated by the statutes of Tomás López little
 more than a decade after the country was pacified. In one of these we
 find the Indians forbidden to found or conduct schools for the teaching
 of Christian doctrine except by the express authority of the prelate of
-the province. <span id="fr_1080"></span>[3](#fn_1073)
+the province. <span id="fr_1080"></span>[3](#fn_1073.md)
 
 We do not know just when the Indians of Yucatan began to combine some
 form of Christian worship with their old idolatrous practises, but we
@@ -58,19 +58,19 @@ as a perverse dogmatizer
 <span id="page_202">p. 202</span>
 
 and the inventor of new abominations among the Indians." <span
-id="fr_1081"></span>[1](#fn_1074) Condemned to exile and imprisonment,
+id="fr_1081"></span>[1](#fn_1074.md) Condemned to exile and imprisonment,
 he escaped and attempted to instigate a native rebellion before he was
 finally captured and punished.
 
 In 1597 Andres Chi, also of Zotuta, "incited the Indians of that
 territory to go into the forests to practise idolatry. Falsely
 pretending and saying that he was another Moses <span
-id="fr_1082"></span>[2](#fn_1075) he deceived the people of his town,
+id="fr_1082"></span>[2](#fn_1075.md) he deceived the people of his town,
 persuading them that what he did was revealed to him by the Holy Spirit.
 For this purpose he hid a boy in his house to speak to him at night and
 say what he wished him to. When the Indians heard this, as they were
 ignorant of the fraud, they blindly allowed themselves to be
-deceived." <span id="fr_1083"></span>[3](#fn_1076) Chi was convicted and
+deceived." <span id="fr_1083"></span>[3](#fn_1076.md) Chi was convicted and
 condemned to death for this offense.
 
 A similar case occurred in 1610. "There were two Indians, one named
@@ -86,17 +86,17 @@ idols which they placed on the altar. They ordained priests for service,
 anointing their hands with the oil and the holy chrism, and when they
 ordained them they put on a miter and took a crozier in their hands.
 They commanded the Indians to give them offerings and openly taught
-other deadly heresies." <span id="fr_1084"></span>[4](#fn_1077)
+other deadly heresies." <span id="fr_1084"></span>[4](#fn_1077.md)
 
 In addition to all this they were said to have practised witchcraft.
 
 In the year 1636 there was a general uprising of the Indians in the
 district of Bacalar in southeastern Yucatan. They relapsed into
 idolatry, and many of them fled to Tipu, <span
-id="fr_1085"></span>[5](#fn_1078) the southernmost of the towns which
+id="fr_1085"></span>[5](#fn_1078.md) the southernmost of the towns which
 had been christianized up to this time. This place continued to be the
 center of the insurrection, and finally in 1641 Fr. Bartolomé
-Fuensalida <span id="fr_1086"></span>[6](#fn_1079) and Fr. Juan de
+Fuensalida <span id="fr_1086"></span>[6](#fn_1079.md) and Fr. Juan de
 Estrada determined to go there and try to conciliate the inhabitants.
 The expedition was a failure and they did not quite reach Tipu. At the
 neighboring village of Hubelná the Indian companions of the priests
@@ -109,7 +109,7 @@ them, and with the mass his
 food was tortillas and his drink, maize gruel. The other idolatrous
 Indians said to them: 'This is indeed a mass which your companion (one
 of the two Spanish priests) does not say.' " <span
-id="fr_1087"></span>[1](#fn_1080) It was years before these Indians were
+id="fr_1087"></span>[1](#fn_1080.md) It was years before these Indians were
 again reconciled with the Church, and during this period the people of
 the district doubtless had an excellent opportunity to develop a form of
 Christianity suited to their own psychology.
@@ -130,12 +130,12 @@ worshipped together. "They became drunk in front of it with a drink
 called balché. Also they said that on Ash Wednesday he put on a stole,
 blessed it and gave it to the Indians. On Palm Sunday he blessed palms
 and distributed them. During Holy Week he made a *monumento* <span
-id="fr_1088"></span>[2](#fn_1081) and placed on it the idol of his
+id="fr_1088"></span>[2](#fn_1081.md) and placed on it the idol of his
 Indian woman; and on Holy Saturday he blessed the baptismal font. All
 these things and others which are unspeakable were done by this insolent
 fellow, who possessed an entire set of sacred vestments and a chalice.
 He only refrained from saying mass." <span
-id="fr_1089"></span>[3](#fn_1082)
+id="fr_1089"></span>[3](#fn_1082.md)
 
 The incidents related here are sufficient to account for the mixture of
 Christianity and paganism which we find in the Book of Chilam Balam of
@@ -147,7 +147,7 @@ Yucatan, particularly in the Territory of Quintana Roo, many nominal
 Catholics are at heart polytheists. "The Christian god is the Zeus of
 the Pantheon. The Virgin Mary, the Saints of the Catholic Church, and
 such of the old gods as have survived, form a less powerful, but more
-friendly group of divinities." <span id="fr_1090"></span>[4](#fn_1083)
+friendly group of divinities." <span id="fr_1090"></span>[4](#fn_1083.md)
 The present psychology of the Maya Indian is the result of centuries of
 conflict between European and native religious concepts. During this
 time each reacted upon the other unceasingly, and the Book of Chilam
@@ -158,7 +158,7 @@ have to illustrate the history of the process.
 
 ### Footnotes
 
-<span id="fn_1071"></span>[201:1](cbc36.htm#fr_1078) "It is said that
+<span id="fn_1071"></span>[201:1](cbc36.htm#fr_1078.md) "It is said that
 the first founders of Chichen Itzá were not idolaters until Kukulcan, a
 Mexican captain, entered these provinces. He it was who taught them
 idolatry" (Relaciones de Yucatan, I, p. 270). Kukulcan is the Maya
@@ -166,44 +166,44 @@ equivalent of the Nahuatl name, Quetzalcoatl. Although we may doubt the
 statement that the original inhabitants did not worship idols, there is
 considerable evidence that a new religion was introduced.
 
-<span id="fn_1072"></span>[201:2](cbc36.htm#fr_1079) *Cf.* [p.
-98](cbc14.htm#page_98).
+<span id="fn_1072"></span>[201:2](cbc36.htm#fr_1079.md) *Cf.* [p.
+98](cbc14.htm#page_98.md).
 
-<span id="fn_1073"></span>[201:3](cbc36.htm#fr_1080) Cogolludo 1868,
+<span id="fn_1073"></span>[201:3](cbc36.htm#fr_1080.md) Cogolludo 1868,
 Book 5, chap. 17.
 
-<span id="fn_1074"></span>[202:1](cbc36.htm#fr_1081) Cogolludo 1868,
+<span id="fn_1074"></span>[202:1](cbc36.htm#fr_1081.md) Cogolludo 1868,
 Book 7, chap. 11.
 
-<span id="fn_1075"></span>[202:2](cbc36.htm#fr_1082) We have already
+<span id="fn_1075"></span>[202:2](cbc36.htm#fr_1082.md) We have already
 noted that Moses was identified with the Yellow Pauahtun on page 113.
 
-<span id="fn_1076"></span>[202:3](cbc36.htm#fr_1083) Cogolludo 1868,
+<span id="fn_1076"></span>[202:3](cbc36.htm#fr_1083.md) Cogolludo 1868,
 Book 7, chap. 15.
 
-<span id="fn_1077"></span>[202:4](cbc36.htm#fr_1084) Cogolludo 1868,
+<span id="fn_1077"></span>[202:4](cbc36.htm#fr_1084.md) Cogolludo 1868,
 Book 9, chap. 1.
 
-<span id="fn_1078"></span>[202:5](cbc36.htm#fr_1085) Tipu is believed to
+<span id="fn_1078"></span>[202:5](cbc36.htm#fr_1085.md) Tipu is believed to
 have been located on Booths River in what is now British Honduras. See
 Means 1917, map.
 
-<span id="fn_1079"></span>[202:6](cbc36.htm#fr_1086) This was the same
+<span id="fn_1079"></span>[202:6](cbc36.htm#fr_1086.md) This was the same
 Fr. Fuensalida who went to Tayasal in 1618 to attempt to convert the
 Itzá. Means 1917, pp. 59-74.
 
-<span id="fn_1080"></span>[203:1](cbc36.htm#fr_1087) Cogolludo 1868,
+<span id="fn_1080"></span>[203:1](cbc36.htm#fr_1087.md) Cogolludo 1868,
 Book 11, chap. 14.
 
-<span id="fn_1081"></span>[203:2](cbc36.htm#fr_1088) An altar raised in
+<span id="fn_1081"></span>[203:2](cbc36.htm#fr_1088.md) An altar raised in
 churches on Holy Thursday to resemble a sepulcher.
 
-<span id="fn_1082"></span>[203:3](cbc36.htm#fr_1089) Cogolludo 1868,
+<span id="fn_1082"></span>[203:3](cbc36.htm#fr_1089.md) Cogolludo 1868,
 Book 12, chap. 5.
 
-<span id="fn_1083"></span>[203:4](cbc36.htm#fr_1090) J. E. Thompson
+<span id="fn_1083"></span>[203:4](cbc36.htm#fr_1090.md) J. E. Thompson
 1930, p. 106. See also Tozzer 1907 and Gann 1918.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix H: Chronological Summary](cbc37)
+[Next: Appendix H: Chronological Summary](cbc37.md)

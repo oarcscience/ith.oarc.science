@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe214)  [Next](prwe216) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe214)  [Next](prwe216.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ Tirell.
 
 ------------------------------------------------------------------------
 
-[Next: Sir John Arundell](prwe216)
+[Next: Sir John Arundell](prwe216.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal095)  [Next](njal097) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal095)  [Next](njal097.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ Oblaud, the son of Hjorleif the lover of women, King of Hordaland.
 
 ------------------------------------------------------------------------
 
-[Next: 97. Of Thangbrand's Journeys](njal097)
+[Next: 97. Of Thangbrand's Journeys](njal097.md)

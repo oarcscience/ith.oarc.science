@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm30)  [Next](rotm32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm30)  [Next](rotm32.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -206,6 +206,6 @@ tidings after the holding of the Folk-mote.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXI. Of The Weapon-Show of the Men of Burgdale and Their
-Neighbours](rotm32)
+Neighbours](rotm32.md)
 
 </div>

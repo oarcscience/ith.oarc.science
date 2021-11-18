@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth01)  [Next](oth03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth01)  [Next](oth03.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ proportionate to its distance from this world of ours.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](oth03)
+[Next: Chapter 3](oth03.md)

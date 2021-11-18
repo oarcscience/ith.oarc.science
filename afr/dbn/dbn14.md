@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](dbn13)  [Next](dbn15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](dbn13)  [Next](dbn15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Negro*, by W.E.B. Du Bois, \[1915\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -29,7 +29,7 @@ European whites, and Asiatic and American brown and yellow peoples, we
 have approximately 150,000,000 Negroes, 500,000,000 whites, and
 900,000,000 yellow and brown peoples. Of the 150,000,000 Negroes,
 121,000,000 live in Africa, 27,000,000 <span
-id="fr_109"></span>[1](#fn_109) in the new world, and 2,000,000 in Asia.
+id="fr_109"></span>[1](#fn_109.md) in the new world, and 2,000,000 in Asia.
 
 What is to be the future relation of the Negro race to the rest of the
 world? The visitor from Altruria might see here no peculiar problem. He
@@ -135,7 +135,7 @@ Uganda and Zanzibar, Nigeria, and British West Africa. The French hold
 4,106,950 square miles, including nearly all North Africa (except
 Tripoli) west of the Niger valley and Libyan Desert, and touching the
 Atlantic at four points. To this is added the Island of Madagascar. The
-Germans have 910,150 square [miles](errata.htm#2), principally in
+Germans have 910,150 square [miles](errata.htm#2.md), principally in
 Southeast and South-west Africa and the Kamerun. The Portuguese retain
 787,500 square miles in Southeast and Southwest Africa. The Belgians
 have 900,000 square miles, while Liberia (43,000 square miles) and
@@ -169,7 +169,7 @@ wages, and not intelligent enough to unite in labor unions, was to be
 developed. The peonage systems in parts of the United States and the
 labor systems of many of the African colonies of Great Britain an
 Germany illustrate this phase of solution. <span
-id="fr_110"></span>[1](#fn_110) It is also illustrated in many of the
+id="fr_110"></span>[1](#fn_110.md) It is also illustrated in many of the
 West Indian islands where we have a predominant Negro population, and
 this population freed from slavery and partially enfranchised. Land and
 capital, however, have for the most part been so managed and monopolized
@@ -210,7 +210,7 @@ industry is degraded and changed to the demands of European markets. The
 most ruthless class of white mercantile exploiters is allowed large
 liberty, if not a free hand, and protected by a concerted attempt to
 deify white men as such in the eyes of the native and in their own
-imagination. <span id="fr_111"></span>[1](#fn_111)
+imagination. <span id="fr_111"></span>[1](#fn_111.md)
 
 White missionary societies are spending perhaps as much as five million
 dollars a year in Africa and accomplishing much good, but at the same
@@ -227,7 +227,7 @@ Under this last mentioned solution of the Negro problems we
 
 <span id="img_14400"></span> <span align="CENTER"> [![Distribution of
 Negro Blood, Ancient and Modern](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 Distribution of Negro Blood, Ancient and Modern  
 </span>
 
@@ -257,7 +257,7 @@ Such figures and facts give some slight idea of the economic meaning of
 the Negro to-day as a worker and industrial factor. "Tropical Africa and
 its peoples are being brought more irrevocably every year into the
 vortex of the economic influences that sway the western world." <span
-id="fr_112"></span>[1](#fn_112)
+id="fr_112"></span>[1](#fn_112.md)
 
 What do Negroes themselves think of these their problems and the
 attitude of the world toward them? First and most significant, they are
@@ -303,11 +303,11 @@ of men: "Semper novi quid ex Africa!"
 
 ### Footnotes
 
-<span id="fn_109"></span>[139:1](dbn14.htm#fr_109) Sir Harry Johnston
+<span id="fn_109"></span>[139:1](dbn14.htm#fr_109.md) Sir Harry Johnston
 estimates 135,000,000 Negroes, of whom 24,591,000 live in America. See
 *Inter-Racial Problems*, p. 335.
 
-<span id="fn_110"></span>[142:1](dbn14.htm#fr_110) The South African
+<span id="fn_110"></span>[142:1](dbn14.htm#fr_110.md) The South African
 natives, in an appeal to the English Parliament, show in an astonishing
 way the confiscation o their land by the English. They say that in the
 Union of South Africa 1,250,000 whites own 264,000,000 acres of land,
@@ -315,19 +315,19 @@ while the 4,500,000 natives have only 21,000,000 acres. On top of this
 the Union Parliament has passed a law making even the future purchase of
 land by Negroes illegal save in restricted areas!
 
-<span id="fn_111"></span>[143:1](dbn14.htm#fr_111) The traveler Glave
+<span id="fn_111"></span>[143:1](dbn14.htm#fr_111.md) The traveler Glave
 writes in the *Century Magazine* (LIII, 913): "Formerly \[in the Congo
 Free State\] an ordinary white man was merely called 'bwana' or
 'Mzunga'; now the merest insect of a pale face earns the tide of 'bwana
 Mkubwa' \[big master\]."
 
-<span id="fn_112"></span>[145:1](dbn14.htm#fr_112) E. D. Morel, in the
+<span id="fn_112"></span>[145:1](dbn14.htm#fr_112.md) E. D. Morel, in the
 *Nineteenth Century*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Suggestions For Further Reading](dbn15)
+[Next: Suggestions For Further Reading](dbn15.md)
 
 </div>

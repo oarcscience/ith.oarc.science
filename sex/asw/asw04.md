@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](asw03)  [Next](asw05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](asw03)  [Next](asw05.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ with each other: they were tenets which mingled together under
 the same faith. All had the same or similar significance; both embody
 sex divinity. The sun was male and the moon and earth were females; the
 moon, an attendant emblem of the feminine Deities, and the earth, with
-the aid of concurring deities, gave birth to man. [Fig. 24](#img_fig24)
+the aid of concurring deities, gave birth to man. [Fig. 24](#img_fig24.md)
 represents certain articles of<span id="img_fig24"></span>
 
 <table data-align="RIGHT">
@@ -166,4 +166,4 @@ Kings xxiii, 13)," ("Inman's Ancient Faiths").
 
 ------------------------------------------------------------------------
 
-[Next: V. The Phallus in California](asw05)
+[Next: V. The Phallus in California](asw05.md)

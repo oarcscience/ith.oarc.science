@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](dwf06)  [Next](dwf08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](dwf06)  [Next](dwf08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7C6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7C6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Devil Worship in France*, by A.E. Waite, \[1896\], at Intangible
 Textual Heritage
 
@@ -173,4 +173,4 @@ was pledged to its return.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Art Sacerdotal](dwf08)
+[Next: Chapter VI. Art Sacerdotal](dwf08.md)

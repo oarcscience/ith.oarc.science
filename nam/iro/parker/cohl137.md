@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl136)  [Next](cohl138) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl136)  [Next](cohl138.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ followed him that they might hear him speak. They had no conveyances but
 traveled afoot.
 
 "Now when they came to their camping spot at Ganowa'gês, <span
-id="fr_93"></span>[2](#fn_93) he said to them in a commanding voice,
+id="fr_93"></span>[2](#fn_93.md) he said to them in a commanding voice,
 'Assemble early in the morning.' Now when they did he offered thanks and
 afterward he said, 'I have had a dream, a wondrous vision. I seemed to
 see a pathway, a trail overgrown and covered with grass so that it
@@ -26,9 +26,9 @@ on their journey."
 
 ### Footnotes
 
-<span id="fn_93"></span>[78:2](cohl137.htm#fr_93) The site of the
+<span id="fn_93"></span>[78:2](cohl137.htm#fr_93.md) The site of the
 village opposite the present Avon, N. Y.
 
 ------------------------------------------------------------------------
 
-[Next: Section 127](cohl138)
+[Next: Section 127](cohl138.md)

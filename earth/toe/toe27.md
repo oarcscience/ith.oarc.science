@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe26)  [Next](toe28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe26)  [Next](toe28.md) 
 
 ------------------------------------------------------------------------
 
@@ -547,4 +547,4 @@ acknowledge in this view of present things.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. The same Subject continued, in giving still farther
-Views of the Dissolution of the Earth](toe28)
+Views of the Dissolution of the Earth](toe28.md)

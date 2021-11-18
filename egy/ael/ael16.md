@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index) 
-[Index](index)  [Previous](ael15)  [Next](ael17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index.md) 
+[Index](index)  [Previous](ael15)  [Next](ael17.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Egyptian Legends*, by M. A. Murray, \[1920\], at Intangible
 Textual Heritage
 
@@ -144,4 +144,4 @@ ENGLAND.
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](ael17)
+[Next: Advertisements](ael17.md)

@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft72)  [Next](efft74) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft72)  [Next](efft74.md) 
 
 ------------------------------------------------------------------------
 
-# LAZY JACK  <span id="fr_88"></span>[1](#fn_88)
+# LAZY JACK  <span id="fr_88"></span>[1](#fn_88.md)
 
 <span id="img_14"></span> [![](tn/14.jpg)  
-Click to enlarge](img/14.jpg)  
+Click to enlarge](img/14.jpg.md)  
 "TO HIS UTTER AMAZEMENT AROSE A BEAUTIFUL YOUNG LADY."
 
 ONCE upon a time there was a boy whose name was Jack, and he lived with
@@ -78,9 +78,9 @@ with them in great happiness until she died.
 
 ### Footnotes
 
-<span id="fn_88"></span>[1](efft73.htm#fr_88) J. O. Halliwell, *Popular
+<span id="fn_88"></span>[1](efft73.htm#fr_88.md) J. O. Halliwell, *Popular
 Rhymes and Nursery Tales*; p. 37.
 
 ------------------------------------------------------------------------
 
-[Next: The History of Tom Thumb](efft74)
+[Next: The History of Tom Thumb](efft74.md)

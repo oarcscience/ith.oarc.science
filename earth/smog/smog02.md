@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](smog01)  [Next](smog03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](smog01)  [Next](smog03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Smoky God*, by Willis George Emerson, \[1908\], at Intangible
 Textual Heritage
 
@@ -453,7 +453,7 @@ electricity, and, weary of their continuously mild and pleasant
 atmosphere, followed the brighter light, and were finally led beyond the
 ice belt and scattered over the "outer" surface of the earth, through
 Asia, Europe, North America and, later, Africa, Australia and South
-America. <span id="fr_0"></span>[1](#fn_0)
+America. <span id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_39">p. 39</span>
 
@@ -528,7 +528,7 @@ Odin and Thor:
 
 ### Footnotes
 
-<span id="fn_0"></span>[38:1](smog02.htm#fr_0) *The following quotation
+<span id="fn_0"></span>[38:1](smog02.htm#fr_0.md) *The following quotation
 is significant; "It follows that man issuing from a mother-region still
 undetermined but which a number of considerations indicate to have been
 in the North, has radiated in several directions; that his migrations
@@ -538,4 +538,4 @@ October,* 1883*, page* 753.
 
 ------------------------------------------------------------------------
 
-[Next: Part Two: Olaf Jansen's Story](smog03)
+[Next: Part Two: Olaf Jansen's Story](smog03.md)

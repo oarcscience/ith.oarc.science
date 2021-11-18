@@ -1,10 +1,10 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Deuteronomy Index](deu)  
-  [Previous](deu034)  [Next](jos001) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Deuteronomy Index](deu.md)  
+  [Previous](deu034)  [Next](jos001.md) 
 
 </div>
 
@@ -26,12 +26,12 @@ Textual Heritage
 |            |                                 |     |           |                                 |
 |------------|---------------------------------|-----|-----------|---------------------------------|
 |            | <span class="small">PAGE</span> |     |           | <span class="small">PAGE</span> |
-| Joshua     | [261](jos001.htm#page_261)      |     | Joel      | 720                             |
-| Judges     | [293](jdg001.htm#page_293)      |     | Amos      | 725                             |
-| I Samuel   | [325](sa1001.htm#page_325)      |     | Obadiah   | 734                             |
-| II Samuel  | [366](sa2001.htm#page_366)      |     | Jonah     | 736                             |
-| I Kings    | [401](kg1000.htm#page_401)      |     | Micah     | 739                             |
-| II Kings   | [441](kg2001.htm#page_441)      |     | Nahum     | 746                             |
+| Joshua     | [261](jos001.htm#page_261.md)      |     | Joel      | 720                             |
+| Judges     | [293](jdg001.htm#page_293.md)      |     | Amos      | 725                             |
+| I Samuel   | [325](sa1001.htm#page_325.md)      |     | Obadiah   | 734                             |
+| II Samuel  | [366](sa2001.htm#page_366.md)      |     | Jonah     | 736                             |
+| I Kings    | [401](kg1000.htm#page_401.md)      |     | Micah     | 739                             |
+| II Kings   | [441](kg2001.htm#page_441.md)      |     | Nahum     | 746                             |
 | Isaiah     | 479                             |     | Habakkuk  | 749                             |
 | Jeremiah   | 561                             |     | Zephaniah | 753                             |
 | Ezekiel    | 644                             |     | Haggai    | 757                             |
@@ -46,6 +46,6 @@ Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Joshua Chapter 1](jos001)
+[Next: Joshua Chapter 1](jos001.md)
 
 </div>

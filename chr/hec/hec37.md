@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](hec36)  [Next](hec38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](hec36)  [Next](hec38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Eastern Church*, by J.M. Neale, \[1884\], at Intangible
 Textual Heritage
 
@@ -48,7 +48,7 @@ creation,
 
 For the Maker, when His foe,  
 Wrought the creature death and woe,  
-Bowed the Heav’ns, and came below, <span id="fr_3"></span>[\*](#fn_3)  
+Bowed the Heav’ns, and came below, <span id="fr_3"></span>[\*](#fn_3.md)  
 And in the Virgin's womb His dwelling making,  
 Became true man, man's very nature taking;  
                 For He hath triumphed gloriously!
@@ -68,9 +68,9 @@ Schroeder.</span>\]
 
 ### Footnotes
 
-<span id="fn_3"></span>[131:\*](hec37.htm#fr_3) The reference is, of
+<span id="fn_3"></span>[131:\*](hec37.htm#fr_3.md) The reference is, of
 course, to Psalm xviii. 9; "He bowed the Heavens also, and came down."
 
 ------------------------------------------------------------------------
 
-[Next: Canon For Christmas Day, Ode III.](hec38)
+[Next: Canon For Christmas Day, Ode III.](hec38.md)

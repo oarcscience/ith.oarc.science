@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv27)  [Next](ogv29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv27)  [Next](ogv29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -20,9 +20,9 @@ Lysis has enclosed in these two lines the summary of the doctrine of
 Pythagoras regarding science: according to this philosopher, all science
 consists of knowing how to distinguish what one does not know and of
 desiring to learn that of which one knows nothing. <span
-id="fr_451"></span>[c](#fn_450) Socrates had adopted this idea, as
+id="fr_451"></span>[c](#fn_450.md) Socrates had adopted this idea, as
 simple as profound; and Plato has consecrated several of his dialogues
-to its development. <span id="fr_452"></span>[d](#fn_451)
+to its development. <span id="fr_452"></span>[d](#fn_451.md)
 
 But the distinction between what one does not know and the desire to
 learn that of which one is ignorant, is a thing much rarer than one
@@ -47,7 +47,7 @@ which one can consequently have no knowledge. It is Plato who has made
 this irresistible reasoning, and who has drawn this conclusion: that all
 the mistakes that man commits come from that sort of ignorance which
 makes him believe that he knows what he does not know. <span
-id="fr_453"></span>[a](#fn_452)
+id="fr_453"></span>[a](#fn_452.md)
 
 From time immemorial this sort of ignorance has been quite considerable;
 but I believe that it will never again show itself to the extent it did
@@ -60,7 +60,7 @@ who seriously assure me that the Greeks were rustics in the way of
 music; that all that can be said of the wonders effected by this art is
 idle talk, and that we have not a village fiddler who could not produce
 as much effect as Orpheus, Terpander, or Timotheus, if he had similar
-auditors. <span id="fr_454"></span>[b](#fn_453) There, are the critics
+auditors. <span id="fr_454"></span>[b](#fn_453.md) There, are the critics
 who
 
 <span id="page_190">p. 190</span>
@@ -68,19 +68,19 @@ who
 tell me with the same phlegmatic air that the Greeks of the time of
 Homer knew neither how to read nor how to write; that this poet himself,
 assuming that he really existed, did not know the letters of the
-alphabet <span id="fr_455"></span>[a](#fn_454); but that his existence
-is a fancy, <span id="fr_456"></span>[b](#fn_455) and that the works
+alphabet <span id="fr_455"></span>[a](#fn_454.md); but that his existence
+is a fancy, <span id="fr_456"></span>[b](#fn_455.md) and that the works
 attributed to him are the crude productions of certain plagiarist
-rhapsodists. <span id="fr_457"></span>[c](#fn_456) Further on I see, to
+rhapsodists. <span id="fr_457"></span>[c](#fn_456.md) Further on I see, to
 complete the singularity, a research worker who finds, doubtless to the
 support of all this, that the first editor of the poems of Homer, the
 virile legislator of Sparta, Lycurgus in short, was a man ignorant and
 unlettered, knowing neither how to read nor write <span
-id="fr_458"></span>[d](#fn_457): quite an original idea and a comparison
+id="fr_458"></span>[d](#fn_457.md): quite an original idea and a comparison
 wholly bizarre, between the author and the editor of the *Iliad!* But
 this is nothing. Here is an archbishop of Thessalonica, who, animated by
 a righteous indignation, declared that Homer may have been an instrument
-of the devil, <span id="fr_459"></span>[e](#fn_458) and that one may be
+of the devil, <span id="fr_459"></span>[e](#fn_458.md) and that one may be
 damned in reading him. That one shrugs the shoulders at the allegories
 of this poet, that one finds them not in the least interesting, that one
 falls asleep even, let all that pass; but to be damned! I have said that
@@ -100,7 +100,7 @@ taking up his time; but that was the thing about which he thought the
 least. Open whatever book you will; if the authors are theologians, they
 will say to you that Socrates, Pythagoras, Zoroaster, Kong-Tse or
 Confucius, as they call him, are pagans, <span
-id="fr_460"></span>[a](#fn_459) whose damnation is, if not certain, at
+id="fr_460"></span>[a](#fn_459.md) whose damnation is, if not certain, at
 least very probable; they will treat their theosophy with the most
 profound contempt: if they are physicists, they will assure you that
 Thales, Leucippus, Heraclitus, Parmenides, Anaxagoras, Empedocles,
@@ -140,12 +140,12 @@ disciples. Bacon, at the risk of contradicting himself, yielding to the
 sentiment of truth, although he subjected all to the light of
 experience, admitted, however, positive and real universals, which, by
 his method are wholly inexplicable. <span
-id="fr_461"></span>[a](#fn_460) Forgetting what he had said of Plato in
+id="fr_461"></span>[a](#fn_460.md) Forgetting what he had said of Plato in
 one book, he declared in another: that this philosopher, endowed with a
 sublime genius, turning his attention upon all nature and contemplating
 all things from a lofty elevation, had seen very clearly, in his
 doctrine of ideas, what the veritable objects of science are. <span
-id="fr_462"></span>[b](#fn_461) Finally recognizing the principles of
+id="fr_462"></span>[b](#fn_461.md) Finally recognizing the principles of
 physics and the *ensemble* of things as the foremost to be considered,
 he made astrological science, which he likened to astronomy, depend upon
 it, in such a manner as to show that he did not confound it with vulgar
@@ -175,7 +175,7 @@ these phenomena, but not the veritable causes and the reality of things:
 and as to this subject \[he continues\], it is with very little judgment
 that astronomy is ranked among the mathematical sciences; this
 classification derogates from its dignity. <span
-id="fr_463"></span>[a](#fn_462)
+id="fr_463"></span>[a](#fn_462.md)
 
 Regarding astrological science, Bacon wished that it might be
 regenerated completely by bringing it back to its real principles, that
@@ -189,15 +189,15 @@ of them refrain from citing similar passages.
 
 ### Footnotes
 
-<span id="fn_450"></span>[188:c](ogv28.htm#fr_451) Hierocl., In *Aurea
+<span id="fn_450"></span>[188:c](ogv28.htm#fr_451.md) Hierocl., In *Aurea
 Carm.*, v. 31.
 
-<span id="fn_451"></span>[188:d](ogv28.htm#fr_452) *Alcibiad.*, i. et
+<span id="fn_451"></span>[188:d](ogv28.htm#fr_452.md) *Alcibiad.*, i. et
 ii.; *Lachès*, etc.
 
-<span id="fn_452"></span>[189:a](ogv28.htm#fr_453) *In Alcibiad.*, i.
+<span id="fn_452"></span>[189:a](ogv28.htm#fr_453.md) *In Alcibiad.*, i.
 
-<span id="fn_453"></span>[189:b](ogv28.htm#fr_454) *Voyez* Burette,
+<span id="fn_453"></span>[189:b](ogv28.htm#fr_454.md) *Voyez* Burette,
 *Mém. de l’Acad. des Belles-Lett.*, t. v.; Laborde, *Essai sur la
 Musique*, t. i., introd., p. 20.
 
@@ -207,23 +207,23 @@ but had disappeared as did the masterpieces of Polygnotus and of Zeuxis,
 <span id="page_190">p. 190</span> the modern sculptors would have said
 that the ancients failed as much in pattern as in colouring.
 
-<span id="fn_454"></span>[190:a](ogv28.htm#fr_455) Wood, *Essai sur le
+<span id="fn_454"></span>[190:a](ogv28.htm#fr_455.md) Wood, *Essai sur le
 Génie orig. d’Homère*, p. 220.
 
-<span id="fn_455"></span>[190:b](ogv28.htm#fr_456) Bryant, cité par
+<span id="fn_455"></span>[190:b](ogv28.htm#fr_456.md) Bryant, cité par
 Desalles, *Hist. d’Homère*, p. 18.
 
-<span id="fn_456"></span>[190:c](ogv28.htm#fr_457) Wolf et Klotz, cités
+<span id="fn_456"></span>[190:c](ogv28.htm#fr_457.md) Wolf et Klotz, cités
 par le même. *Ibid*., p. 36 et 117.
 
-<span id="fn_457"></span>[190:d](ogv28.htm#fr_458) Paw, *Recherches sur
+<span id="fn_457"></span>[190:d](ogv28.htm#fr_458.md) Paw, *Recherches sur
 les Grecs*, t. ii., p. 355.
 
-<span id="fn_458"></span>[190:e](ogv28.htm#fr_459) C’est un certain
+<span id="fn_458"></span>[190:e](ogv28.htm#fr_459.md) C’est un certain
 Grégoire, cité par Leo Allazi, dans son Livre *de Patriâ Homeri*.
 Voltaire, *Dict. philos.*, art. EPOPÉE.
 
-<span id="fn_459"></span>[191:a](ogv28.htm#fr_460) The name of *Pagan*
+<span id="fn_459"></span>[191:a](ogv28.htm#fr_460.md) The name of *Pagan*
 is an injurious and ignoble term derived from the Latin *Paganus*, which
 signifies a rustic, a peasant. When Christianity had entirely triumphed
 over Greek and Roman polytheism, and when by the order of the Emperor
@@ -242,14 +242,14 @@ disobedient to the laws of Theodosius. These are polytheists,
 monotheists, mythologists, whatever one wishes, idolators perhaps, but
 not *Pagans*.
 
-<span id="fn_460"></span>[192:a](ogv28.htm#fr_461) *Novum Organ.*, aph.
+<span id="fn_460"></span>[192:a](ogv28.htm#fr_461.md) *Novum Organ.*, aph.
 48.
 
-<span id="fn_461"></span>[192:b](ogv28.htm#fr_462) *De Dign. et Increm.
+<span id="fn_461"></span>[192:b](ogv28.htm#fr_462.md) *De Dign. et Increm.
 Science*, l. iii., c. 4.
 
-<span id="fn_462"></span>[193:a](ogv28.htm#fr_463) *Ut suprà*.
+<span id="fn_462"></span>[193:a](ogv28.htm#fr_463.md) *Ut suprà*.
 
 ------------------------------------------------------------------------
 
-[Next: 18. Neglect not thy health](ogv29)
+[Next: 18. Neglect not thy health](ogv29.md)

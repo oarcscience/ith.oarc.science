@@ -1,21 +1,21 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk38)  [Next](brk40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk38)  [Next](brk40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
 ------------------------------------------------------------------------
 
-#### XI. <span class="smallcaps">The Wisdom of Raikva</span> <span id="fr_39"></span>[1](#fn_39)
+#### XI. <span class="smallcaps">The Wisdom of Raikva</span> <span id="fr_39"></span>[1](#fn_39.md)
 
 Jānaśruti Pautrāyaṇa was a devout giver, bestowing much largesse,
 preparing much food. He caused lodgings to be built everywhere, that he
@@ -36,11 +36,11 @@ though he were Raikva of the Cart?"
 "As the lower dice-throws fall under the winning four-throw, so
 whatsoever good deed the people do falls to him; of him who knows this
 and of that which he knows do I speak." <span
-id="fr_40"></span>[1](#fn_40)
+id="fr_40"></span>[1](#fn_40.md)
 
 Jānaśruti Pautrāyaṇa overheard this. When he rose up, he said to his
 chamberlain, "Ho, thou speakest as of Raikva of the Cart <span
-id="fr_41"></span>[2](#fn_41); what meanest thou by Raikva of the Cart?"
+id="fr_41"></span>[2](#fn_41.md); what meanest thou by Raikva of the Cart?"
 
 "As the lower dice-throws fall under the winning four-throw, so
 whatsoever good deed the people do falls to him; of him who knows this
@@ -53,7 +53,7 @@ a Brahman is to be sought."
 <span id="page_82">p. 82</span>
 
 \[Raikva\] was under a waggon, scratching his scabs; and he <span
-id="fr_42"></span>[1](#fn_42) sat down before him, and said to him, "Art
+id="fr_42"></span>[1](#fn_42.md) sat down before him, and said to him, "Art
 thou Raikva of the Cart, my lord?"
 
 "Yea, I am," he answered.
@@ -91,7 +91,7 @@ sink into the Wind. For the Wind gathers in all these. Thus as to
 godhead.
 
 Now as to personality. The Breath is an in-gatherer. <span
-id="fr_43"></span>[1](#fn_43) When one sleeps, the speech sinks into the
+id="fr_43"></span>[1](#fn_43.md) When one sleeps, the speech sinks into the
 Breath, the eye into the Breath, the ear into the Breath, the mind into
 the Breath. For the Breath gathers in all these. These are the two
 ingatherers, the Wind among the gods and the Breath among the breaths.
@@ -130,7 +130,7 @@ For he uneaten eats what none may eat.
 And they gave to him.
 
 These in sooth are the ten, five and five <span
-id="fr_44"></span>[1](brk40.htm#fn_44); this is the four-throw.
+id="fr_44"></span>[1](brk40.htm#fn_44.md); this is the four-throw.
 Therefore the ten, the four-throw, are in all parts of the world as
 food. This is Virāṭ, eater of food; thereby all the world is seen. All
 the world is seen by him, he becomes an eater of food, who has this
@@ -140,25 +140,25 @@ knowledge."
 
 ### Footnotes
 
-<span id="fn_39"></span>[80:1](brk39.htm#fr_39) Chhāndogya Upanishad,
+<span id="fn_39"></span>[80:1](brk39.htm#fr_39.md) Chhāndogya Upanishad,
 IV. 1-3.
 
-<span id="fn_40"></span>[81:1](brk39.htm#fr_40) The Hindus know of four
+<span id="fn_40"></span>[81:1](brk39.htm#fr_40.md) The Hindus know of four
 casts of the dice—the *kṛita,* counting as four, the *tretā,* counting
 as three, the *dvāpara,* counting as two, and the *kali,* reckoned as
 one; the *kṛita* outweighs all the other throws, and hence has the value
 of 10. Raikva has universal wisdom; hence the virtues of all other men
 are merely parts of his excellence, which includes them all.
 
-<span id="fn_41"></span>[81:2](brk39.htm#fr_41) The chamberlain, after
+<span id="fn_41"></span>[81:2](brk39.htm#fr_41.md) The chamberlain, after
 Hindu custom, had addressed him in strains of panegyric on his rising
 from bed.
 
-<span id="fn_42"></span>[82:1](brk39.htm#fr_42) The chamberlain of
+<span id="fn_42"></span>[82:1](brk39.htm#fr_42.md) The chamberlain of
 Jānaśruti
 
-<span id="fn_43"></span>[83:1](brk39.htm#fr_43) See § 18.
+<span id="fn_43"></span>[83:1](brk39.htm#fr_43.md) See § 18.
 
 ------------------------------------------------------------------------
 
-[Next: XII: Satyakama](brk40)
+[Next: XII: Satyakama](brk40.md)

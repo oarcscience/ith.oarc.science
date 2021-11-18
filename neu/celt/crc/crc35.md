@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc34)  [Next](crc36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc34)  [Next](crc36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ head, and threw me on my back; and yet the wind of the day was not
 great.'
 
 'What is it yonder, O Fergus?' said Ailill. 'Say what it means.' <span
-id="fr_105"></span>[1](#fn_100)
+id="fr_105"></span>[1](#fn_100.md)
 
 'That is not hard; this is what it means,' said
 
@@ -113,7 +113,7 @@ warrior, heroic, is in the front of this company. A green cloak folded
 round him; a brooch of gold over his arm; hair curly and yellow: an
 ivory-hilted sword with a hilt of ivory at his left. A shirt with ——— to
 his knee; a wound-giving shield with engraved edge; the candle of a
-palace <span id="fr_106"></span>[1](#fn_101) in his hand; a ring of
+palace <span id="fr_106"></span>[1](#fn_101.md) in his hand; a ring of
 silver about it, and
 
 <span id="page_120">p. 120</span>
@@ -152,7 +152,7 @@ has come,' said Fergus.
 <span id="page_121">p. 121</span>
 
 said Fergus, 'there has not been born in Ireland hitherto a man who
-would check the host of Ulster.' <span id="fr_107"></span>[1](#fn_102)
+would check the host of Ulster.' <span id="fr_107"></span>[1](#fn_102.md)
 
 'Another company has come there,' said Mac Roth. 'Greater than a cantred
 its number. A great warrior, brave, with horror and terror, and he
@@ -377,7 +377,7 @@ hand; a shirt white, hooded, to his knee. A company very red, with
 wounds, about him, and he himself wounded and bleeding.'
 
 'That,' said Fergus, 'is the bold one, unsparing; that is the tearing ;
-it is the boar <span id="fr_108"></span>[1](#fn_103) of combat, it is
+it is the boar <span id="fr_108"></span>[1](#fn_103.md) of combat, it is
 
 <span id="page_128">p. 128</span>
 
@@ -392,7 +392,7 @@ broad, tall, before it. Hair dark, curly, on him; a cloak red, woollen,
 about him; a shirt excellent; a brooch of gold over his arms in his
 cloak; a sword, excellent, with hilt of white silver on his left; a red
 shield has he; a spear-head broad-grey on a fair shaft <span
-id="fr_109"></span>[1](#fn_104) of ash in his hand.
+id="fr_109"></span>[1](#fn_104.md) of ash in his hand.
 
 'A man of three strong blows who has so come,' said Fergus; 'a man of
 three roads, a man of three highways, a man of three gifts, a man of
@@ -471,7 +471,7 @@ on strings and thongs. The charioteer in front of him; the back of the
 charioteer's head towards the horses, the reins grasped by his toes (?)
 before him; the chessboard spread between them, half the men of yellow
 gold, the others of white metal; the *buanfach* <span
-id="fr_110"></span>[1](#fn_105) under their thighs. Nine feats were
+id="fr_110"></span>[1](#fn_105.md) under their thighs. Nine feats were
 performed by him on high.'
 
 <span id="page_131">p. 131</span>
@@ -479,7 +479,7 @@ performed by him on high.'
 'Who is that, O Fergus?' said Ailill.
 
 'An easy question,' said Fergus. 'Cuchulainn Mac Sualtaim from the
-*Sid*, <span id="fr_111"></span>[1](#fn_106) and Loeg Mac Riangabra his
+*Sid*, <span id="fr_111"></span>[1](#fn_106.md) and Loeg Mac Riangabra his
 charioteer. Cuchulainn is that,' said Fergus.
 
 'Many hundreds and thousands,' said Mac Roth, 'have reached the camp of
@@ -500,7 +500,7 @@ Ailill ratified it for the men of Ireland and for the exiles, and
 Conchobar ratified it for the Ulstermen; and then Conchobar's tents are
 pitched. The ground between them is a space, ———, bare, and the
 Ulstermen came to it before sunset. Then said the Morrigan in the
-twilight between the two camps: <span id="fr_112"></span>[2](#fn_107)
+twilight between the two camps: <span id="fr_112"></span>[2](#fn_107.md)
 
 .      .      .      .      .      .      .
 
@@ -579,7 +579,7 @@ tent is east, has come out through it west.'
 
 The adventures of the Ulstermen are not followed up here now. As for the
 men of Ireland, Badb and Net's wife and Nemain <span
-id="fr_113"></span>[1](#fn_108) called upon them that night on Garach
+id="fr_113"></span>[1](#fn_108.md) called upon them that night on Garach
 and Irgarach, so that a hundred warriors of them died for terror; that
 was not the most peaceful of nights for them.
 
@@ -587,35 +587,35 @@ was not the most peaceful of nights for them.
 
 ### Footnotes
 
-<span id="fn_100"></span>[117:1](crc35.htm#fr_105) Literally, 'is like.'
+<span id="fn_100"></span>[117:1](crc35.htm#fr_105.md) Literally, 'is like.'
 
-<span id="fn_101"></span>[119:1](crc35.htm#fr_106) *i.e.* spear.
+<span id="fn_101"></span>[119:1](crc35.htm#fr_106.md) *i.e.* spear.
 
-<span id="fn_102"></span>[121:1](crc35.htm#fr_107) Conjectural; the line
+<span id="fn_102"></span>[121:1](crc35.htm#fr_107.md) Conjectural; the line
 is corrupt in the MS.
 
-<span id="fn_103"></span>[127:1](crc35.htm#fr_108) Ir. *rop*, said to be
+<span id="fn_103"></span>[127:1](crc35.htm#fr_108.md) Ir. *rop*, said to be
 a beast that wounds or gores.
 
-<span id="fn_104"></span>[128:1](crc35.htm#fr_109) Conjecture; the Irish
+<span id="fn_104"></span>[128:1](crc35.htm#fr_109.md) Conjecture; the Irish
 is obscure.
 
-<span id="fn_105"></span>[130:1](crc35.htm#fr_110) See note on [p.
-103](crc31.htm#page_103).
+<span id="fn_105"></span>[130:1](crc35.htm#fr_110.md) See note on [p.
+103](crc31.htm#page_103.md).
 
-<span id="fn_106"></span>[131:1](crc35.htm#fr_111) Cuchulainn was of
+<span id="fn_106"></span>[131:1](crc35.htm#fr_111.md) Cuchulainn was of
 fairy birth.
 
-<span id="fn_107"></span>[131:2](crc35.htm#fr_112) Rhetoric, seven
+<span id="fn_107"></span>[131:2](crc35.htm#fr_112.md) Rhetoric, seven
 lines.
 
-<span id="fn_108"></span>[133:1](crc35.htm#fr_113) Nemain was the wife
+<span id="fn_108"></span>[133:1](crc35.htm#fr_113.md) Nemain was the wife
 of Net, the war-god, according to Cormac.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Muster of the Men of Ireland](crc36)
+[Next: The Muster of the Men of Ireland](crc36.md)
 
 </div>

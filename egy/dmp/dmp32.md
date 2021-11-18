@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp31)  [Next](dmp33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp31)  [Next](dmp33.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ yourself as a person (acting) alone.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. I](dmp33)
+[Next: Verso Col. I](dmp33.md)

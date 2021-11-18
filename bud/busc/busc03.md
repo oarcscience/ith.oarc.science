@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc02)  [Next](busc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc02)  [Next](busc04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -344,7 +344,7 @@ discussed in Dr. Carus's *Buddhism and its Christian Critics* (London,
 1897). The resemblances in earlier Buddhism do not amount to more than
 independent parallels, although Fausböll was inclined to think that the
 Sutta-Nipāta, in which several of them occur, was not anterior to the
-time of Christ. These are given below, [p. 107](busc22.htm#page_107).
+time of Christ. These are given below, [p. 107](busc22.htm#page_107.md).
 
 Buddhism, in spite of fundamental differences from Christianity, has
 more in common with it than appears at first sight. Its deepest
@@ -409,6 +409,6 @@ Silence, the Utter Peace whereunto He had shown the way."
 
 ------------------------------------------------------------------------
 
-[Next: I. The Dream of Queen Māyā](busc04)
+[Next: I. The Dream of Queen Māyā](busc04.md)
 
 </div>

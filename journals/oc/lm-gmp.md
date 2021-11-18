@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Zoroastrian
-Articles](../../zor/etc/index)
+Heritage](../../index) [Journals](../index.md) [Zoroastrian
+Articles](../../zor/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ into any detailed discussion of personification, this particular
 personification of all others should meet our close attention. We have
 dwelt upon the sublime though simple scheme of a pure God with His
 clustered attributes,<span id="page_547_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_547_note_1) if indeed qualities so
+class="small">1</span></sup>](#page_547_note_1.md) if indeed qualities so
 imposing as the characteristics of a Deity could be said to
 "cluster";—better had we said "which surround Him" as the strong rays
 spread out from a morning sun.
@@ -73,7 +73,7 @@ even the negative suggestions of the entire system; and just at this
 next point in the logical sequence of development we come upon this *per
 contra* again, as in addition to that already treated.<span
 id="page_547_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_547_note_2) And it is indeed a
+class="small">2</span></sup>](#page_547_note_2.md) And it is indeed a
 curious form of negative which soon transforms itself into a positive;
 for in fact we are obliged to proceed here in reference to a
 circumstance which, whether really <span id="page_548">p. 548</span>
@@ -213,7 +213,7 @@ down; and this great Power is <span id="page_551">p. 551</span> no less
 than *Reason*; or, as I should rather say, it is that startling evidence
 of all-controlling and all-incisive *intention*<span
 id="page_551_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_551_note_3) which presses upon us
+class="small">3</span></sup>](#page_551_note_3.md) which presses upon us
 everywhere, and which is as pervading as it is obvious,—though how it
 can be conceivably regarded as being in any sense of it extant, is of
 course difficult, if not indeed quite impossible, for us to place before
@@ -444,7 +444,7 @@ hindrances and many,—and above all one chief one.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Zoroastrian Articles](../../zor/etc/index)
+[Journals](../index) [Zoroastrian Articles](../../zor/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -452,15 +452,15 @@ hindrances and many,—and above all one chief one.
 
 <span id="footnotes_page_547">p. 547</span>
 
-<span id="page_547_note_1"></span>[1](#page_547_fr_1) See "God and His
+<span id="page_547_note_1"></span>[1](#page_547_fr_1.md) See "God and His
 Immortals" in *The Open Court* of January and March, 1907.
 
-<span id="page_547_note_2"></span>[2](#page_547_fr_2) See "God and His
+<span id="page_547_note_2"></span>[2](#page_547_fr_2.md) See "God and His
 Immortals, Their Counterparts," *The Open Court*, March, 1907.
 
 <span id="footnotes_page_551">p. 551</span>
 
-<span id="page_551_note_3"></span>[3](#page_551_fr_3) Aristotle.
+<span id="page_551_note_3"></span>[3](#page_551_fr_3.md) Aristotle.
 
  
 

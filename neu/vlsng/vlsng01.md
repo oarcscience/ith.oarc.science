@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng00)  [Next](vlsng02) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng00)  [Next](vlsng02.md) 
 
 ------------------------------------------------------------------------
 
@@ -682,4 +682,4 @@ forgotten in this century.--DBK.
 
 ------------------------------------------------------------------------
 
-[Next: Translators' Preface](vlsng02)
+[Next: Translators' Preface](vlsng02.md)

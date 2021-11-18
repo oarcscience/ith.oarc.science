@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth101)  [Next](toth103) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth101)  [Next](toth103.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 99. WHY THE ANTS ARE SO THIN. <span id="fr_184"></span>[1](toth103.htm#fn_182)
+## 99. WHY THE ANTS ARE SO THIN. <span id="fr_184"></span>[1](toth103.htm#fn_182.md)
 
 Ishyaoí! East of Tcöokávü lived a great many Ants. One time the chief of
 the Ants said to them that they were going to have a Katcina initiation
@@ -43,4 +43,4 @@ because they were almost cut in two on that occasion.
 
 ------------------------------------------------------------------------
 
-[Next: 100. Lâ'vövölvipiki and Nö'nvövölpiki](toth103)
+[Next: 100. Lâ'vövölvipiki and Nö'nvövölpiki](toth103.md)

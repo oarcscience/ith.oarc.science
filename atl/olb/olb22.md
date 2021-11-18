@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb21)  [Next](olb23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb21)  [Next](olb23.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ cheerfulness. In the midst of this stillness the earth began to tremble
 as if she was dying. The mountains opened to vomit forth fire and
 flames. Some sank into the bosom of the earth, and in other places
 mountains rose out of the plain. Aldland <span
-id="fr_14"></span>[†](#fn_14), called by the seafaring people, Atland,
+id="fr_14"></span>[†](#fn_14.md), called by the seafaring people, Atland,
 disappeared, and the wild waves rose so high over hill and dale that
 everything was buried in the sea. Many people were swallowed up by the
 earth, and others who had escaped the fire perished in the water.
@@ -43,9 +43,9 @@ union is force.
 
 ### Footnotes
 
-<span id="fn_14"></span>[71:†](olb22.htm#fr_14) *Aldland*, in Latin
+<span id="fn_14"></span>[71:†](olb22.htm#fr_14.md) *Aldland*, in Latin
 *Atlantis*.
 
 ------------------------------------------------------------------------
 
-[Next: This is inscribed on the Waraburgt by the Aldegamude](olb23)
+[Next: This is inscribed on the Waraburgt by the Aldegamude](olb23.md)

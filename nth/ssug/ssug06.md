@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssug05)  [Next](ssug07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssug05)  [Next](ssug07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Self-Suggestion and the New Huna Theory of Mesmerism and Hypnosis*, by
 Max Freedom Long, \[1958\], at Intangible Textual Heritage
 
@@ -432,7 +432,7 @@ purposes, desires and determinations.
 If integration and full, smoothly working cooperation between the low
 and middle selves is brought about, little difficulty will be
 experienced in including the High Self in the team and so completing
-[the](errata.htm#2) normal state of integration which, in all ages, has
+[the](errata.htm#2.md) normal state of integration which, in all ages, has
 been the goal of Huna and of closely related systems such as
 Christianity, Gnosticism and early Yoga. One day it will become the goal
 of philosophy. Then we shall have perfected a philosophical system which
@@ -442,4 +442,4 @@ in hit-and-miss fashion.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6](ssug07)
+[Next: Chapter 6](ssug07.md)

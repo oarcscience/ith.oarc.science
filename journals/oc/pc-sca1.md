@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Christian
-Articles](../../chr/etc/index)
+Heritage](../../index) [Journals](../index.md) [Christian
+Articles](../../chr/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ Articles](../../chr/etc/index)
 
 <span id="page_664">p. 664</span>
 
-## ST. CATHARINE OF ALEXANDRIA<span id="page_664_fr_*"></span>[\*](#page_664_note_*).
+## ST. CATHARINE OF ALEXANDRIA<span id="page_664_fr_*"></span>[\*](#page_664_note_*.md).
 
    WE have seen in a former article ("The Bride of Christ," published in
 *The Open Court* for August) that the tradition of the bride of Christ
@@ -505,7 +505,7 @@ into the Catharine legend.
 
 ------------------------------------------------------------------------
 
-[Next](pc-sca2)
+[Next](pc-sca2.md)
 
 ------------------------------------------------------------------------
 
@@ -513,7 +513,7 @@ into the Catharine legend.
 
 <span id="footnotes_page_664">p. 664</span>
 
-<span id="page_664_note_*"></span>[\*](#page_664_fr_*) We have tried to
+<span id="page_664_note_*"></span>[\*](#page_664_fr_*.md) We have tried to
 make the illustrations in this article and the preceding one on "The
 Bride of Christ" as complete a collection as possible of reproductions
 of valuable paintings which have for their subject St. Catharine or the

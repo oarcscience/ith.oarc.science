@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar023) [Next](gbar025)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar023) [Next](gbar025.md)
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ and live in pride."
 
 ------------------------------------------------------------------------
 
-[Next](gbar025)
+[Next](gbar025.md)
 
  
 

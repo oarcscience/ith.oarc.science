@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml11)  [Next](cml13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml11)  [Next](cml13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
 The preparations for this war are said to have lasted seven years. It
 was during the interval that there befel an episode which might almost
 be called the "Argonautica" of the Gaelic mythology. <span
-id="fr_114"></span>[1](#fn_114)
+id="fr_114"></span>[1](#fn_114.md)
 
 In spite of the dethronement of Bress, the Fomors still claimed their
 annual tribute from the tribe of the goddess Danu, and sent their
@@ -43,7 +43,7 @@ gods had received them.
 
 There was consternation in the under-sea country. "Who can this terrible
 warrior be?" asked Balor. "I know," said Balor's wife; "he must be the
-son of our [daughter](errata.htm#1) Ethniu; and I foretell that, since
+son of our [daughter](errata.htm#1.md) Ethniu; and I foretell that, since
 he has cast in his lot with his father's people, we shall never bear
 rule in Erin again."
 
@@ -57,9 +57,9 @@ the chief Fomorian warriors and druids.
 Meanwhile, upon earth, Lugh was sending messengers all over Erin to
 assemble the Tuatha Dé Danann. Upon this errand went Lugh's father Cian,
 who seems to have been a kind of lesser solar deity, <span
-id="fr_115"></span>[1](#fn_115) son of Diancecht, the god of medicine.
+id="fr_115"></span>[1](#fn_115.md) son of Diancecht, the god of medicine.
 As Cian was going over the plain of Muirthemne, <span
-id="fr_116"></span>[2](#fn_116) he saw three armed warriors approaching
+id="fr_116"></span>[2](#fn_116.md) he saw three armed warriors approaching
 him, and, when they got nearer, he recognized them as the three sons of
 Tuirenn, son of Ogma, whose names were Brian, Iuchar, and Iucharba.
 Between these three and Cian, with his brothers Cethé and Cu,
@@ -136,7 +136,7 @@ itself, which had witnessed the murder, spoke to Lugh, and told him
 everything. So Lugh dug up his father's corpse, and made certain how he
 had come to his death; then he mourned over him, and laid him back in
 the earth, and heaped a barrow over him, and set up a pillar with his
-name on it in "ogam". <span id="fr_117"></span>[1](#fn_117)
+name on it in "ogam". <span id="fr_117"></span>[1](#fn_117.md)
 
 He went back to Tara, and entered the great hall. It was filled with the
 people of the goddess Danu, and among them Lugh saw the three sons of
@@ -227,24 +227,24 @@ the King of Greece, either with his consent or without it.
 
 "And can you guess what spear it is that I have demanded?" asked Lugh.
 "We cannot," they said. "It is the poisoned spear of Pisear <span
-id="fr_118"></span>[1](#fn_118), King of Persia; it is irresistible in
+id="fr_118"></span>[1](#fn_118.md), King of Persia; it is irresistible in
 battle; it is so fiery that its blade must always be held under water,
 lest it destroy the city in which it is kept. You will find it very
 difficult to obtain.
 
 "And the two horses and the chariot are the two wonderful horses of
-Dobhar <span id="fr_119"></span>[2](#fn_119), King of Sicily, which run
+Dobhar <span id="fr_119"></span>[2](#fn_119.md), King of Sicily, which run
 equally well over land and sea; there are no other horses in the world
 like them, and no other vehicle equal to the chariot.
 
 "And the seven pigs are the pigs of Easal <span
-id="fr_120"></span>[3](#fn_120), King of the Golden Pillars; though they
+id="fr_120"></span>[3](#fn_120.md), King of the Golden Pillars; though they
 may be killed every night, they are found alive again the next day, and
 every person that eats part of them can never be afflicted with any
 disease.
 
 "And the hound-whelp I claim is the hound-whelp of the King of
-Ioruaidhe <span id="fr_121"></span>[4](#fn_121); her name is Failinis;
+Ioruaidhe <span id="fr_121"></span>[4](#fn_121.md); her name is Failinis;
 every wild beast she sees she catches at once. It will not be easy for
 you to secure her.
 
@@ -253,13 +253,13 @@ of the women of the Island
 
 <span id="page_97">p. 97</span>
 
-of Fianchuivél <span id="fr_122"></span>[1](#fn_122), which is at the
+of Fianchuivél <span id="fr_122"></span>[1](#fn_122.md), which is at the
 bottom of the sea, between Erin and Alba.
 
 "You have also pledged yourselves to give three shouts upon a hill. The
 hill upon which they must be given is the hill called Cnoc
-Miodhchaoin <span id="fr_123"></span>[2](#fn_123), in the north of
-Lochlann <span id="fr_124"></span>[3](#fn_124). Miodhchaoin and his sons
+Miodhchaoin <span id="fr_123"></span>[2](#fn_123.md), in the north of
+Lochlann <span id="fr_124"></span>[3](#fn_124.md). Miodhchaoin and his sons
 do not allow shouts to be given on that hill; besides this, it was they
 who gave my father his military education, and, even if I were to
 forgive you, they would not; so that, though you achieve all the other
@@ -276,10 +276,10 @@ of how the Gaelic gods obtained their legendary possessions. The spear
 of Pisear, King of Persia, is obviously the same weapon as the lance of
 Lugh, which another tradition describes as having been brought by the
 Tuatha Dé Danann from their original home in the city of Gorias; <span
-id="fr_125"></span>[4](#fn_125) Failinis, the whelp of the King of
+id="fr_125"></span>[4](#fn_125.md) Failinis, the whelp of the King of
 Ioruaidhe, is Lugh's "hound of mightiest deeds", which was irresistible
 in battle, and which turned any running water it bathed in into
-wine, <span id="fr_126"></span>[5](#fn_126) a property here transferred
+wine, <span id="fr_126"></span>[5](#fn_126.md) a property here transferred
 to the magic pig's-skin of King Tuis: the seven swine of the King of the
 
 <span id="page_98">p. 98</span>
@@ -287,16 +287,16 @@ to the magic pig's-skin of King Tuis: the seven swine of the King of the
 <span class="contnote">\[paragraph continues\]</span> Golden Pillars
 must be the same undying porkers from whose flesh Manannán mac Lir made
 the "Feast of Age" which preserved the eternal youth of the gods; <span
-id="fr_127"></span>[1](#fn_127) it was with horses and chariot that ran
+id="fr_127"></span>[1](#fn_127.md) it was with horses and chariot that ran
 along the surface of the sea that Manannán used to journey to and fro
 between Erin and the Celtic Elysium in the West; <span
-id="fr_128"></span>[2](#fn_128) the apples that grew in the Garden of
+id="fr_128"></span>[2](#fn_128.md) the apples that grew in the Garden of
 the Hesperides were surely of the same celestial growth as those that
 fed the inhabit-ants of that immortal country; <span
-id="fr_129"></span>[3](#fn_129) while the cooking-spit reminds us of
+id="fr_129"></span>[3](#fn_129.md) while the cooking-spit reminds us of
 three such implements at Tara, made by Goibniu and associated with the
 names of the Dagda and the Morrígú. <span
-id="fr_130"></span>[4](#fn_130)
+id="fr_130"></span>[4](#fn_130.md)
 
 The burden of collecting all these treasures was placed upon the
 shoulders of the three sons of Tuirenn.
@@ -381,7 +381,7 @@ the skin, and you shall have those."
 
 [![BRIAN SEIZES THE PIG-SKIN&lt;br&gt; From the Drawing by J. H. Bacon,
 A R.A.](tn/10000.jpg)  
-Click to enlarge](img/10000.jpg)  
+Click to enlarge](img/10000.jpg.md)  
 BRIAN SEIZES THE PIG-SKIN  
 From the Drawing by J. H. Bacon, A R.A.  
 
@@ -495,7 +495,7 @@ the three sons of Tuirenn. He proposed to Brian and his brothers that he
 should sail with them to Ioruaidhe, and try to persuade the king of the
 country to give up the hound-whelp peacefully. They consented, and all
 set foot safely on the "delightful, wonderful shores of Ioruaidhe
-", <span id="fr_131"></span>[1](#fn_131) as the manuscript calls them.
+", <span id="fr_131"></span>[1](#fn_131.md) as the manuscript calls them.
 But King Easal's son-in-law would not listen to reason. He assembled his
 warriors, and fought; but the sons of Tuirenn defeated them, and
 compelled their king to yield up the hound-whelp as the ransom for his
@@ -534,7 +534,7 @@ Hill?"
 Then the magic mist of forgetfulness fell from them, and they
 remembered. Sorrowfully they went back to complete their task.
 
-Miodhchaoin <span id="fr_132"></span>[1](#fn_132) himself was watching
+Miodhchaoin <span id="fr_132"></span>[1](#fn_132.md) himself was watching
 for them, and, when he saw them land, he came down to the beach. Brian
 attacked him, and they fought with the swiftness of two bears and the
 ferocity of two lions until Miodhchaoin fell.
@@ -565,74 +565,74 @@ song over them and over himself, and died with them.
 
 Thus ends that famous tale--"The Fate of the Sons of Tuirenn", known as
 one of the "Three Sorrowful Stories of Erin". <span
-id="fr_133"></span>[1](#fn_133)
+id="fr_133"></span>[1](#fn_133.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_114"></span>[89:1](cml12.htm#fr_114) This story of the
+<span id="fn_114"></span>[89:1](cml12.htm#fr_114.md) This story of the
 *Fate of the Children of Tuirenn* is mentioned in the ninth-century
 "Cormac's Glossary". It is found in various Irish and Scottish MSS.,
 including the Book of Lecan. The present retelling is from Eugene
 O’Curry's translation, published in *Atlantis*, Vol. IV.
 
-<span id="fn_115"></span>[90:1](cml12.htm#fr_115) Rhys: *Hibbert
+<span id="fn_115"></span>[90:1](cml12.htm#fr_115.md) Rhys: *Hibbert
 Lectures*, pp. 390-396.
 
-<span id="fn_116"></span>[90:2](cml12.htm#fr_116) A part of County
+<span id="fn_116"></span>[90:2](cml12.htm#fr_116.md) A part of County
 Louth, between the Boyne and Dundalk. The heroic cycle connects it
 especially with Cuchulainn. Pronounced M\\ŭrthemna or M\\ŭrhevna.
 
-<span id="fn_117"></span>[93:1](cml12.htm#fr_117) There is known to have
+<span id="fn_117"></span>[93:1](cml12.htm#fr_117.md) There is known to have
 been a hill called Ard Chein (Cian's Mound) in the district of
 Muirthemne, and O’Curry identifies it tentatively with one now called
 Dromslian.
 
-<span id="fn_118"></span>[96:1](cml12.htm#fr_118) Pronounced *Pēzar*.
+<span id="fn_118"></span>[96:1](cml12.htm#fr_118.md) Pronounced *Pēzar*.
 
-<span id="fn_119"></span>[96:2](cml12.htm#fr_119) Pronounced *Dobar*.
+<span id="fn_119"></span>[96:2](cml12.htm#fr_119.md) Pronounced *Dobar*.
 
-<span id="fn_120"></span>[96:3](cml12.htm#fr_120) Pronounced Asal.
+<span id="fn_120"></span>[96:3](cml12.htm#fr_120.md) Pronounced Asal.
 
-<span id="fn_121"></span>[96:4](cml12.htm#fr_121) Pronounced *Irōda*.
+<span id="fn_121"></span>[96:4](cml12.htm#fr_121.md) Pronounced *Irōda*.
 
-<span id="fn_122"></span>[97:1](cml12.htm#fr_122) Pronounced *Fincāra*.
+<span id="fn_122"></span>[97:1](cml12.htm#fr_122.md) Pronounced *Fincāra*.
 
-<span id="fn_123"></span>[97:2](cml12.htm#fr_123) The *Hill* (cnoc) *of
+<span id="fn_123"></span>[97:2](cml12.htm#fr_123) The *Hill* (cnoc.md) *of
 Midkēna*.
 
-<span id="fn_124"></span>[97:3](cml12.htm#fr_124) A mythical country
+<span id="fn_124"></span>[97:3](cml12.htm#fr_124.md) A mythical country
 inhabited by Fomors.
 
-<span id="fn_125"></span>[97:4](cml12.htm#fr_125) See [chap.
-VI](cml10.htm#ch-06)--"The Gods Arrive".
+<span id="fn_125"></span>[97:4](cml12.htm#fr_125.md) See [chap.
+VI](cml10.htm#ch-06.md)--"The Gods Arrive".
 
-<span id="fn_126"></span>[97:5](cml12.htm#fr_126)
-[*Ibid*.](cml10.htm#ch-06)
+<span id="fn_126"></span>[97:5](cml12.htm#fr_126.md)
+[*Ibid*.](cml10.htm#ch-06.md)
 
-<span id="fn_127"></span>[98:1](cml12.htm#fr_127) See [chap.
-VI](cml10.htm#ch-06)--"The Gods Arrive".
+<span id="fn_127"></span>[98:1](cml12.htm#fr_127.md) See [chap.
+VI](cml10.htm#ch-06.md)--"The Gods Arrive".
 
-<span id="fn_128"></span>[98:2](cml12.htm#fr_128) See [chap.
-XI](cml15.htm#ch-11)--"The Gods in Exile"
+<span id="fn_128"></span>[98:2](cml12.htm#fr_128.md) See [chap.
+XI](cml15.htm#ch-11.md)--"The Gods in Exile"
 
-<span id="fn_129"></span>[98:3](cml12.htm#fr_129)
-[*Ibid*](cml15.htm#ch-11).
+<span id="fn_129"></span>[98:3](cml12.htm#fr_129.md)
+[*Ibid*](cml15.htm#ch-11.md).
 
-<span id="fn_130"></span>[98:4](cml12.htm#fr_130) Petrie: *Hist. and
+<span id="fn_130"></span>[98:4](cml12.htm#fr_130.md) Petrie: *Hist. and
 Antiq. of Tara Hill*.
 
-<span id="fn_131"></span>[104:1](cml12.htm#fr_131) The country seems to
+<span id="fn_131"></span>[104:1](cml12.htm#fr_131.md) The country seems to
 have been identified with Norway or Iceland.
 
-<span id="fn_132"></span>[105:1](cml12.htm#fr_132) Pronounced *Midkēna*.
+<span id="fn_132"></span>[105:1](cml12.htm#fr_132.md) Pronounced *Midkēna*.
 
-<span id="fn_133"></span>[106:1](cml12.htm#fr_133) The other two are
-"The Fate of the Children of Lêr", told in [chap. XI](cml15.htm#ch-11),
+<span id="fn_133"></span>[106:1](cml12.htm#fr_133.md) The other two are
+"The Fate of the Children of Lêr", told in [chap. XI](cml15.htm#ch-11.md),
 and "The Fate of the Sons of Usnach", an episode of the Heroic Cycle,
-related in [chap XIII](cml17.htm#ch-13).
+related in [chap XIII](cml17.htm#ch-13.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The War with the Giants](cml13)
+[Next: Chapter IX. The War with the Giants](cml13.md)

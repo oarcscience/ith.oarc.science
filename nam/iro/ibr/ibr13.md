@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr12)  [Next](ibr14) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr12)  [Next](ibr14.md) 
 
 ------------------------------------------------------------------------
 
@@ -200,15 +200,15 @@ whenever you shall know that there is death among us, when the fire is
 made and the smoke is rising. This we say and do, we three brothers.
 
 7\. *b*. Now I have finished. Now show me the man! <span
-id="fr_65"></span>[1](#fn_65)
+id="fr_65"></span>[1](#fn_65.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_65"></span>[145:1](ibr13.htm#fr_65) *i.e.*, "Point out to
+<span id="fn_65"></span>[145:1](ibr13.htm#fr_65.md) *i.e.*, "Point out to
 me the man whom I am to proclaim as chief, in place of the deceased."
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Canienga Book](ibr14)
+[Next: Notes on the Canienga Book](ibr14.md)

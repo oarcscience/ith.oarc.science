@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc15)  [Next](motc17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc15)  [Next](motc17.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,4 +129,4 @@ may say good-bye to this man!
 
 ------------------------------------------------------------------------
 
-[Next: The Philosopher](motc17)
+[Next: The Philosopher](motc17.md)

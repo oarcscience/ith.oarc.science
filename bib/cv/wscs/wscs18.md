@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs17) 
-[Next](wscs19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs17.md) 
+[Next](wscs19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ histories of all Gods and divine personages run in parallel grooves.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: The Saviors’ Kingdoms Not of this World](wscs19)
+[Next: Chapter XIV: The Saviors’ Kingdoms Not of this World](wscs19.md)

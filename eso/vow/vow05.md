@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow04)  [Next](vow06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow04)  [Next](vow06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ regard this analogy of names as wholly unintentional and uninstructive.
 For Koré, or Persephone, the Maiden, is the personified soul, whose
 "apostasy," or "descent," from the heavenly sphere into earthly
 generation, is the theme of the following Hermetic parable. <span
-id="fr_7"></span>[1](#fn_7) The Greek mysteries dealt
+id="fr_7"></span>[1](#fn_7.md) The Greek mysteries dealt
 
 \[only
 
@@ -62,7 +62,7 @@ dissoluble. The spirit, or Dionysos, was regarded as of a specially
 divine genesis, being the Son of Zeus by the immaculate
 Maiden--Koré-Persephoneia, herself the daughter of Demeter, or the
 parent and super-mundane Intelligence, addressed in the Mysteries as the
-"Mother." <span id="fr_8"></span>[1](#fn_8) But Koré, although thus of
+"Mother." <span id="fr_8"></span>[1](#fn_8.md) But Koré, although thus of
 heavenly origin, participates more closely than her Son in an earthly
 and terrestrial nature. "Hence," says Proclos, "according to the
 theologians who delivered to us the most holy Mysteries, Persephone
@@ -111,7 +111,7 @@ In perfect accord with Kabbalistic doctrine, the allegory of the "Koré
 Kosmou" thus clearly indicates the nature of the Soul's original
 apostacy; "she receded from the prescribed limits; not willing to remain
 in the same abode, she moved ceaselessly, and repose seemed
-death." <span id="fr_9"></span>[1](#fn_9)
+death." <span id="fr_9"></span>[1](#fn_9.md)
 
 In this phrase we have the parallel to the scene represented in the
 Mysteries, where Persephone, wilfully straying from the mansions of
@@ -165,7 +165,7 @@ pathetically exclaim with Proserpina:
 
 'O male dilecti flores, despectaque Matris  
 Consilia; O Veneris deprensæ serius artes!' <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 </div>
 
@@ -231,7 +231,7 @@ shall we behold the divine and luminous heavens!"
 
 Who, in reading this, is not reminded of the pathetic lament of Eve on
 quitting the fair "ambrosial bowers" of Paradise? <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 From the sad and woful state into which the Virgin thus falls, she is
 finally rescued and restored to the supernal abodes. But not until the
@@ -293,7 +293,7 @@ discretion of the adept. The initiates of HERMES acknowledge no
 authority but the Understanding; they call no man king or master upon
 earth; they are true Free-Thinkers and Republicans. "For where the
 Spirit of the Lord is, there is liberty." <span
-id="fr_12"></span>[1](#fn_12) Hence Lactantius, in his "Divine
+id="fr_12"></span>[1](#fn_12.md) Hence Lactantius, in his "Divine
 Institutions," says:--"Hermes affirms that those who know God are safe
 from the attacks of the demon, and that they, are not even subjected to
 Fate." Now, the powers of Fate reside in the stars--that is, in the
@@ -375,7 +375,7 @@ identical with the Ephesian Artemis, the Greek personification of the
 fructifying and all-nourishing power of Nature. She was regarded as the
 "inviolable and perpetual Maid of heaven;" her priests were eunuchs, and
 her image in the magnificent temple of Ephesus represented her with many
-breasts--πολυμαστὸς. <span id="fr_13"></span>[1](#fn_13) In works of art
+breasts--πολυμαστὸς. <span id="fr_13"></span>[1](#fn_13.md) In works of art
 Artemis appears variously, as the huntress, accompanied by hounds, and
 carrying the implements of the chase; as the Goddess of the Moon,
 covered with a long veil reaching to her feet, and her head adorned with
@@ -419,7 +419,7 @@ upon them the fruition of their past. Hence, too, in the Orphic Hymn to
 Nature, that Goddess is identified with Fortune, and represented as
 standing with her feet upon a wheel which she continually
 turns,--"moving with rapid motion on an eternal wheel." <span
-id="fr_14"></span>[1](#fn_14) And again, in another Orphic Hymn, Fortune
+id="fr_14"></span>[1](#fn_14.md) And again, in another Orphic Hymn, Fortune
 herself is invoked as Diana. Proclos, in the Commentary to which
 reference has already been made, declares that "the moon is the cause of
 Nature to mortals, and the self-revealing image of the Fountain of
@@ -506,7 +506,7 @@ applied by the writer of S. John's Gospel to the Word of God. The
 micro-cosmic Sun, or Osiris, was the image and correspondence of this
 macrocosmic Sun; the regenerating principle within the man, begotten by
 means of the soul's experience in Time and Generation. And hence the
-intimate association between this [regenerating](errata.htm#0) principle
+intimate association between this [regenerating](errata.htm#0.md) principle
 by which the redemption of the individual was effected, and the divine
 power in Nature, personified by Isis, whose function it was to minister
 to that redemption by the ordination of events and conditions
@@ -522,13 +522,13 @@ A.K.
 
 ### Footnotes
 
-<span id="fn_7"></span>[xix:1](vow05.htm#fr_7) Dr. Wilder, in his
+<span id="fn_7"></span>[xix:1](vow05.htm#fr_7.md) Dr. Wilder, in his
 Introduction to the work of Mr. Thomas Taylor, the Platonist, entitled
 "Dissertation on the Eleusinian Mysteries," asserts that the name Koré
 is also Sanscrit, and that the Hindu goddess Parasu-pani, also called
 Gorée, is identical with the Koré-Persephoneia of Hellenic worship.
 
-<span id="fn_8"></span>[xx:1](vow05.htm#fr_8) The Spirit, under the name
+<span id="fn_8"></span>[xx:1](vow05.htm#fr_8.md) The Spirit, under the name
 of *Atman*, is the chief topic of Hindu esoteric philosophy, the
 Upanishads being exclusively devoted to it. They ascribe to *Atman* the
 qualities of self-subsistence, unity, universality, immutability, and
@@ -538,10 +538,10 @@ personality informed of it. *Atman* is also the all-seeing; and, as the
 *Mantras* say, He who recognises the universe in his own *Atman*, and
 his own *Atman* in the universe, knows no hatred.
 
-<span id="fn_9"></span>[xxi:1](vow05.htm#fr_9) I substitute the singular
+<span id="fn_9"></span>[xxi:1](vow05.htm#fr_9.md) I substitute the singular
 for the plural number, but this alters nothing in the sense.
 
-<span id="fn_10"></span>[xxii:1](vow05.htm#fr_10)
+<span id="fn_10"></span>[xxii:1](vow05.htm#fr_10.md)
 
 <div style="margin-left: 32px">
 
@@ -550,14 +550,14 @@ O cruel arts of crafty Venus!'
 
 </div>
 
-<span id="fn_11"></span>[xxiv:1](vow05.htm#fr_11) Milton's "Paradise
+<span id="fn_11"></span>[xxiv:1](vow05.htm#fr_11.md) Milton's "Paradise
 Lost," Book XI.
 
-<span id="fn_12"></span>[xxv:1](vow05.htm#fr_12) "Follow no man," said
+<span id="fn_12"></span>[xxv:1](vow05.htm#fr_12.md) "Follow no man," said
 *John Inglesant's* adviser--"there is nothing in the world of any value
 but the Divine Light--follow it."
 
-<span id="fn_13"></span>[xxvii:1](vow05.htm#fr_13) The many-breasted
+<span id="fn_13"></span>[xxvii:1](vow05.htm#fr_13.md) The many-breasted
 figure which forms the frontispiece of this volume, represents Isis
 under this aspect. The black face and hands are, of course, equivalent
 to the celebrated Veil, and indicate the inscrutable nature of the
@@ -565,9 +565,9 @@ occult influence which directs Destiny; and which, to the uninitiate,
 even appears to be blind and fortuitous. The well-known "black virgin"
 has the same significance.
 
-<span id="fn_14"></span>[xxviii:1](vow05.htm#fr_14) Αεναω στρόφαλιγγι
+<span id="fn_14"></span>[xxviii:1](vow05.htm#fr_14.md) Αεναω στρόφαλιγγι
 θοόν ῥύμα δινεύουσα.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](vow06)
+[Next: Part I](vow06.md)

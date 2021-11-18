@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo50)  [Next](sdo52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo50)  [Next](sdo52.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ What becomes of the body when it dies? It rots and becomes nothing.
 
 ------------------------------------------------------------------------
 
-[Next: The Concept Ni](sdo52)
+[Next: The Concept Ni](sdo52.md)

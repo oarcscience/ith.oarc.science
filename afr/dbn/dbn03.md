@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](dbn02)  [Next](dbn04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](dbn02)  [Next](dbn04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Negro*, by W.E.B. Du Bois, \[1915\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -24,7 +24,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
 
 <span id="img_00400"></span> <span align="CENTER"> [![I. The Physical
 Geography of Africa](tn/00400.jpg)  
-Click to enlarge](img/00400.jpg)  
+Click to enlarge](img/00400.jpg.md)  
 I. The Physical Geography of Africa  
 </span>
 
@@ -150,7 +150,7 @@ importance now to know bow many human races there are than to know how
 many angels can dance on the point of a needle. Our aim now is to find
 out how ancient and primitive races developed from others and how races
 changed or evolved through migration and inter-breeding." <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_8">p. 8</span>
 
@@ -284,7 +284,7 @@ convey to the skin, veins, intestines, and spinal marrow of men and
 other vertebrates the microorganisms which cause deadly, disfiguring, or
 debilitating diseases, or themselves create the morbid condition of the
 persecuted human being, beasts, bird, reptile, frog, or fish." <span
-id="fr_1"></span>[1](#fn_1) The inhabitants of this land have had a
+id="fr_1"></span>[1](#fn_1.md) The inhabitants of this land have had a
 sheer fight for physical survival comparable with that in no other great
 continent, and this must not be forgotten when we consider their
 history.
@@ -293,16 +293,16 @@ history.
 
 ### Footnotes
 
-<span id="fn_0"></span>[7:1](dbn03.htm#fr_0) Von Luschan: in
+<span id="fn_0"></span>[7:1](dbn03.htm#fr_0.md) Von Luschan: in
 *Inter-Racial Problems*, p. 16.
 
-<span id="fn_1"></span>[10:1](dbn03.htm#fr_1) Johnston: *Negro in the
+<span id="fn_1"></span>[10:1](dbn03.htm#fr_1.md) Johnston: *Negro in the
 New World*, pp. 14-15.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: II. The Coming of Black Men](dbn04)
+[Next: II. The Coming of Black Men](dbn04.md)
 
 </div>

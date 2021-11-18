@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sft33)  [Next](sft35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sft33)  [Next](sft35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003CN6KYW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003CN6KYW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *South-African Folk-Tales*, by James A. Honeÿ, \[1910\], at Intangible
 Textual Heritage
 
@@ -93,6 +93,6 @@ privilege of walking erect through this foolish judgment.
 
 ------------------------------------------------------------------------
 
-[Next: Lion And Baboon](sft35)
+[Next: Lion And Baboon](sft35.md)
 
 </div>

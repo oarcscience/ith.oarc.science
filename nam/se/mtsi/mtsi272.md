@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi271)  [Next](mtsi273) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi271)  [Next](mtsi273.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ hoes which were helping them and they themselves spoiled it.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Corn-Woman's Son](mtsi273)
+[Next: 8. Corn-Woman's Son](mtsi273.md)

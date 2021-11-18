@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon10)  [Next](oon12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon10)  [Next](oon12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -25,14 +25,14 @@ PUNISHMENT OF THE GREAT MONTMORENCY (OCTOBER 30, 1632.) \[I. 113.\]
 
 Century IX.--*Quatrain* 18.
 
-Le lys Dauffois <span id="fr_135"></span>[1](#fn_135) portera <span
-id="fr_136"></span>[2](#fn_136) dans Nanci  
+Le lys Dauffois <span id="fr_135"></span>[1](#fn_135.md) portera <span
+id="fr_136"></span>[2](#fn_136.md) dans Nanci  
 Jusques en Flandres electeur de l'Empire;  
-Neufve obturée <span id="fr_137"></span>[3](#fn_137) an grand
+Neufve obturée <span id="fr_137"></span>[3](#fn_137.md) an grand
 Montmorency,  
-Hors lieux prouvés <span id="fr_138"></span>[4](#fn_138) delivré <span
-id="fr_139"></span>[5](#fn_139) á clere peyne. <span
-id="fr_140"></span>[6](#fn_140)
+Hors lieux prouvés <span id="fr_138"></span>[4](#fn_138.md) delivré <span
+id="fr_139"></span>[5](#fn_139.md) á clere peyne. <span
+id="fr_140"></span>[6](#fn_140.md)
 
 Translation.
 
@@ -123,11 +123,11 @@ THE CONSPIRACY OF CINQ MARS (MARCH 13, 1642.) \[I. 115.\]
 Century VIII--*Quatrain* 68.
 
 Vieux Cardinal par la jeusne deccu, <span
-id="fr_141"></span>[1](#fn_141)  
+id="fr_141"></span>[1](#fn_141.md)  
 Hors de sa charge sa verra desarmé,  
-Arles ne monstres <span id="fr_142"></span>[2](#fn_142) double <span
-id="fr_143"></span>[3](#fn_143) soit apperceu;  
-Et Liqueduct <span id="fr_144"></span>[4](#fn_144) et le Prince
+Arles ne monstres <span id="fr_142"></span>[2](#fn_142.md) double <span
+id="fr_143"></span>[3](#fn_143.md) soit apperceu;  
+Et Liqueduct <span id="fr_144"></span>[4](#fn_144.md) et le Prince
 embausmé.
 
 Translation.
@@ -144,7 +144,7 @@ difficulty.
 
 The old Cardinal Richelieu shall find himself supplanted by the young
 Cinq Mars. He was but twenty-two when he achieved this bit of dexterous
-Court intrigue against Richelieu, <span id="fr_145"></span>[5](#fn_145)
+Court intrigue against Richelieu, <span id="fr_145"></span>[5](#fn_145.md)
 the most rusé fox in Europe, as rumour ran.
 
 <span id="page_129">p. 129</span>
@@ -176,16 +176,16 @@ IMPROVEMENT IN FIREARMS (1630-1671.) \[I. 116.\]
 Century III.--*Quatrain* 44.
 
 Quand l'animal à l'homme domestique,  <span
-id="fr_146"></span>[1](#fn_146) <span id="page_130">p. 130</span>  
+id="fr_146"></span>[1](#fn_146.md) <span id="page_130">p. 130</span>  
 Après grands peines et sauts viendra parler,  
-Le foudre à vierge <span id="fr_147"></span>[1](#fn_147) sera sit <span
-id="fr_148"></span>[2](#fn_148) malefique,  
-De terre prinse <span id="fr_149"></span>[3](#fn_149) et suspendue en
+Le foudre à vierge <span id="fr_147"></span>[1](#fn_147.md) sera sit <span
+id="fr_148"></span>[2](#fn_148.md) malefique,  
+De terre prinse <span id="fr_149"></span>[3](#fn_149.md) et suspendue en
 l'air.
 
 Translation.
 
-When the dog, <span id="fr_150"></span>[4](#fn_150) after many trials,
+When the dog, <span id="fr_150"></span>[4](#fn_150.md) after many trials,
 shall begin to leap and speak, the powder loaded by ram-rod shall spread
 destruction round (*sera très malefique*.) Powder taken from the earth
 and exploded in the air.
@@ -220,7 +220,7 @@ lines of the
 
 prophecy are *Quand après grande peine l'animal domestique viendra
 parler a l'homme et qu'il sautera*,--just as dogs do in approaching
-their master. A [further](errata.htm#1) thing is to happen that is no
+their master. A [further](errata.htm#1.md) thing is to happen that is no
 less astonishing: a demon is to mingle himself with powder, and suddenly
 transport a girl into the air, when she will remain suspended for
 possibly a whole day long, according to these words: '*La foudre â
@@ -235,23 +235,23 @@ delighting to work evil, as the devil always is."--GUYNAUD,
 
 ### Footnotes
 
-<span id="fn_135"></span>[125:1](oon11.htm#fr_135) *Dauffois*, for
+<span id="fn_135"></span>[125:1](oon11.htm#fr_135.md) *Dauffois*, for
 *Dauphinois* synonym, for *Dauphin*.
 
-<span id="fn_136"></span>[125:2](oon11.htm#fr_136) *Portera*, for
+<span id="fn_136"></span>[125:2](oon11.htm#fr_136.md) *Portera*, for
 supportera, says Le Pelletier. For my part, it seems best to leave it to
 its natural rendering, that he will carry his colours into Nancy.
 
-<span id="fn_137"></span>[125:3](oon11.htm#fr_137) Latin, *obturare*, to
+<span id="fn_137"></span>[125:3](oon11.htm#fr_137.md) Latin, *obturare*, to
 shut up in.
 
-<span id="fn_138"></span>[125:4](oon11.htm#fr_138) *Prouvés* is for
+<span id="fn_138"></span>[125:4](oon11.htm#fr_138.md) *Prouvés* is for
 approuvés.
 
-<span id="fn_139"></span>[125:5](oon11.htm#fr_139) *Delivré*, is for
+<span id="fn_139"></span>[125:5](oon11.htm#fr_139.md) *Delivré*, is for
 livré.
 
-<span id="fn_140"></span>[125:6](oon11.htm#fr_140) This is a play upon
+<span id="fn_140"></span>[125:6](oon11.htm#fr_140.md) This is a play upon
 words, unrecognized by Garencières, as he did not know that *Clerepeyne*
 was the name of the man who cut off Montmorency's head, although, of
 course, Garencières is quite alive to the fact that the quatrain refers
@@ -264,20 +264,20 @@ before Clerepeyne became the midge-mote of a sunbeam upon that late
 autumnal day in history, when the night struck chilly on high roofs in
 Dauphiny.
 
-<span id="fn_141"></span>[128:1](oon11.htm#fr_141) Latin, *decisus*,
+<span id="fn_141"></span>[128:1](oon11.htm#fr_141.md) Latin, *decisus*,
 suppressed cut off.
 
-<span id="fn_142"></span>[128:2](oon11.htm#fr_142) *Ne monstres*. I
+<span id="fn_142"></span>[128:2](oon11.htm#fr_142.md) *Ne monstres*. I
 think there is a printer's error here in the *texte-type*, and that we
 should read *le monstre*.
 
-<span id="fn_143"></span>[128:3](oon11.htm#fr_143) *Double*, diploma, or
+<span id="fn_143"></span>[128:3](oon11.htm#fr_143.md) *Double*, diploma, or
 duplicate of a treaty.
 
-<span id="fn_144"></span>[128:4](oon11.htm#fr_144) Latin, *ille aquâ
+<span id="fn_144"></span>[128:4](oon11.htm#fr_144.md) Latin, *ille aquâ
 ductus*, he that is taken by water.
 
-<span id="fn_145"></span>[128:5](oon11.htm#fr_145) Richelieu, if you
+<span id="fn_145"></span>[128:5](oon11.htm#fr_145.md) Richelieu, if you
 examine him by Philippe de Champagne's splendid triple portrait of him,
 hanging in our Gallery, may be read as if in life by any physiognomist
 who pleases to devote the time to it. I have gazed many a time, through
@@ -298,21 +298,21 @@ antagonist, he might even throw a giant unawares. Richelieu was an
 artificial contriver, not a born ruler, if a mature face of fifty be any
 index to the volume or memoir of a man's life.
 
-<span id="fn_146"></span>[129:1](oon11.htm#fr_146) Arrange these words,
+<span id="fn_146"></span>[129:1](oon11.htm#fr_146.md) Arrange these words,
 *l'animal domestique à l'homme*, *i.e.* *the dog*.
 
-<span id="fn_147"></span>[130:1](oon11.htm#fr_147) Latinism, *fulmen à
+<span id="fn_147"></span>[130:1](oon11.htm#fr_147.md) Latinism, *fulmen à
 virgâ*, saltpetre; that is, the powder and ram-rod.
 
-<span id="fn_148"></span>[130:2](oon11.htm#fr_148) Romance, *si*,
+<span id="fn_148"></span>[130:2](oon11.htm#fr_148.md) Romance, *si*,
 synonym of *très*, very.
 
-<span id="fn_149"></span>[130:3](oon11.htm#fr_149) Romance, *prinse*,
+<span id="fn_149"></span>[130:3](oon11.htm#fr_149.md) Romance, *prinse*,
 *prise*, taken, brought.
 
-<span id="fn_150"></span>[130:4](oon11.htm#fr_150) The *chien* is the
+<span id="fn_150"></span>[130:4](oon11.htm#fr_150.md) The *chien* is the
 cock or hammer of the lock.
 
 ------------------------------------------------------------------------
 
-[Next: Louis XIV](oon12)
+[Next: Louis XIV](oon12.md)

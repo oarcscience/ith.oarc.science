@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dlw02)  [Next](dlw04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dlw02)  [Next](dlw04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406804029/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406804029/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -855,4 +855,4 @@ enlightenment from the Lord alone.
 
 ------------------------------------------------------------------------
 
-[Next: 151-200](dlw04)
+[Next: 151-200](dlw04.md)

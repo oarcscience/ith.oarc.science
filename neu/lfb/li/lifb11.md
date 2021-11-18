@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb10)  [Next](lifb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb10)  [Next](lifb12.md) 
 
 </div>
 
@@ -137,6 +137,6 @@ From 'Litterature Orale de l'Auvergne,' par Paul Sebillot.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Crowns](lifb12)
+[Next: The Three Crowns](lifb12.md)
 
 </div>

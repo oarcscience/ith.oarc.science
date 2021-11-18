@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Index](index)  [Previous](mosy00)  [Next](mosy02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Index](index)  [Previous](mosy00)  [Next](mosy02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Migration of Symbols*, by Goblet d'Alviella, \[1894\], at
 Intangible Textual Heritage
 
@@ -115,10 +115,10 @@ Alexander III. of Scotland, when,
 in 1266, that prince took over the island from the Norwegians; he having
 become familiar with the device at the English Court of Henry III.
 \[1216–72\], who for a short time was the nominal sovereign of
-Sicily. <span id="fr_0"></span>[1](#fn_0) The *triskelion* of Lycia is
+Sicily. <span id="fr_0"></span>[1](#fn_0.md) The *triskelion* of Lycia is
 made up of three cocks’ heads, a proof added to that presented by the
 cock sculptured on the "Harpy Monument" at Xanthus, that in the fifth
-century B. C. <span id="fr_1"></span>[2](#fn_1) this exclusively Indian
+century B. C. <span id="fr_1"></span>[2](#fn_1.md) this exclusively Indian
 bird had already reached the Mediterranean Sea. But on the coins of
 Sicily and the Isle of Man the *triskelion* consists of three human legs
 of an identical type, excepting that those of the latter island are
@@ -143,7 +143,7 @@ by the decisive legend <span id="img__01100"></span>
 science," and inspires the sequestered student of "the days of old, the
 years of ancient times," with the perennial enthusiasm that is the true
 end and highest recreation of all labour. <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 The *gammadion* or *swastika*, for we may now absolutely identify them,
 has travelled farther afield than any other sacred type of antiquity;
@@ -151,7 +151,7 @@ and from Iceland, which it reached in the ninth century A.D., and Thibet
 and Japan, between the third and eighth, and China, Persia, North
 Africa, France, Germany, Scandinavia, and the British Isles, between the
 second century A.D. and the second B.C., and India <span
-id="fr_3"></span>[2](#fn_3) and Sicily between the
+id="fr_3"></span>[2](#fn_3.md) and Sicily between the
 
 <span id="page_xii">p. xii</span>
 
@@ -168,7 +168,7 @@ Southern India,—on the temple sculptures, in wood carvings, on
 embroidered, printed, and woven cloths, and on amulets. Also the
 cherubim guarding the "Tree of Life," on the modern Syrian amulet
 presented by me to the Count Goblet d’Alviella, and figured by him at
-page 249 of his original volume, and page [202](mosy14.htm#page_202) of
+page 249 of his original volume, and page [202](mosy14.htm#page_202.md) of
 the present translation, are distinctly modelled on the traditional type
 of the "Double-headed Eagle." It first appears on the so-called Hittite
 sculptures at Eyuk, the ancient Pteria, in Phrygia. In 1217 it is seen
@@ -201,7 +201,7 @@ the doors of the Secretary of State's rooms at the India Office, reduced
 to a meaningless circle, with two appended flowing ribbons, representing
 the two *uræus* snakes of the original Egyptian "Winged Globe," the
 *urim-thummim* jewel, attached to the divining zodiacal "breastplate of
-Aaron." <span id="fr_4"></span>[1](#fn_4)
+Aaron." <span id="fr_4"></span>[1](#fn_4.md)
 
 One of the most unexpected results of the critical study of these
 symbols is the establishment of their essential paucity. They undergo,
@@ -263,7 +263,7 @@ neighbours they are called *sabiun*, literally, "washers," *i.e.*, in
 the ritualistic sense, "Baptists." They are, and they are not,
 confoundable with the Sabæans,—not the people of that name in ancient
 South Arabia, but the Chaldæan worshippers of the "Host \[*saba*\] of
-Heaven." <span id="fr_5"></span>[1](#fn_5) The Saibis of Mahomet were
+Heaven." <span id="fr_5"></span>[1](#fn_5.md) The Saibis of Mahomet were
 not idolaters in any form, but their modern representatives combine with
 pseudo-Christian and pseudo-Zoroastrian doctrines, the whole remaining
 body of ancient Chaldæan astrolatry; and how this carne
@@ -288,7 +288,7 @@ Cairo, and now largely imported into Paris and London, is fabricated by
 these "Saibis." The "Tree of Life" appears everywhere on their brass
 dishes and bowls, and on a dish presented to me by the Count Goblet
 d’Alviella, and figured in his original volume and in the present
-translation on [Plate V.](mosy11.htm#img_pl05), letter *l*, the Sacred
+translation on [Plate V.](mosy11.htm#img_pl05.md), letter *l*, the Sacred
 Tree is realistically rendered by the date palm. The conventional "Tree
 of Life," under the name of *satarvan* is an object of still living
 adoration among them, and as its worship has been traditionally handed
@@ -309,7 +309,7 @@ was indeed none other than the date palm of "the
 waters of Babylon,"—associated, at times, with the half mythical *homa*
 plant of the Iranian Aryas, the *soma* of the Vedic Hindus, as the
 source of the earliest intoxicating sap known in Persia and India. <span
-id="fr_6"></span>[1](#fn_6) In *The Industrial Arts of India* \[Chapman
+id="fr_6"></span>[1](#fn_6.md) In *The Industrial Arts of India* \[Chapman
 
 <span id="page_xviii">p. xviii</span>
 
@@ -364,7 +364,7 @@ world of Christendom and Islam, which constitutes one of the greatest
 difficulties besetting British rule in India.
 
 Only three years ago I recorded in the *Times* <span
-id="fr_7"></span>[1](#fn_7) the flogging, by order of the Police
+id="fr_7"></span>[1](#fn_7.md) the flogging, by order of the Police
 Magistrate of Black Town, Madras, of a Hindu boy "for exhibiting an
 indecent figure in public view." What he had explicitly done was to set
 up, in accordance with universal custom, a phallic image before a house
@@ -395,17 +395,17 @@ Chipiez and Perrot, although they disclose none of the offensive realism
 sometimes observed in similar phallic presentments in the Madras
 Presidency, are not nearly so severely conventional as those to be
 everywhere seen in Northern and Western India. <span
-id="fr_8"></span>[1](#fn_8) The ultimate
+id="fr_8"></span>[1](#fn_8.md) The ultimate
 
 <span id="page_xxi">p. xxi</span>
 
 artistic form of the symbol, as I have been able to trace it, step by
 step, from India to Greece and Italy, is the conventional "Tree of
 Life," or "Symbolical Tree," guarded by affronted beasts or cherubim,
-that is, "the Two Witnesses." <span id="fr_9"></span>[1](#fn_9)
+that is, "the Two Witnesses." <span id="fr_9"></span>[1](#fn_9.md)
 
 At every page we have similar exemplifications of "the long results of
-time," <span id="fr_10"></span>[2](#fn_10) worked out with rare
+time," <span id="fr_10"></span>[2](#fn_10.md) worked out with rare
 
 <span id="page_xxii">p. xxii</span>
 
@@ -448,7 +448,7 @@ Near London</span>, W.
 
 ### Footnotes
 
-<span id="fn_0"></span>[x:1](mosy01.htm#fr_0) Cæsar, *De Bello Gallico*,
+<span id="fn_0"></span>[x:1](mosy01.htm#fr_0.md) Cæsar, *De Bello Gallico*,
 v. 13, describes Britannia as: "Insula natura triquetra;" and one of the
 coins of Edward I. has the king's head in a triangle, such as is seen on
 the Irish money of the time, but here its symbolism, if there be any, is
@@ -464,7 +464,7 @@ one of the warriors in the well-known sea fight painted by Aristonophos,
 in the seventh century B.C., on a crater from Cervetri \[Cære, Agylla\],
 now in the Museo Etrusco Capitolino, Rome.
 
-<span id="fn_1"></span>[x:2](mosy01.htm#fr_1) We find the cock also
+<span id="fn_1"></span>[x:2](mosy01.htm#fr_1.md) We find the cock also
 blazoned on the shield of one of the young men assisting Herakles in
 capturing the herd of Geryones, as the myth is painted by Euphronios on
 a cylex by Chachrylion, now in the Munich Pinakothek; and two cocks
@@ -477,7 +477,7 @@ the *Monuments inediti dell’ Institute Correspondenza Archæologica*
 Sagenkreis*, Leipzig, 1886\], the Indian cock was familiarly known in
 Greece even so early as the seventh century B.C.
 
-<span id="fn_2"></span>[xi:1](mosy01.htm#fr_2) "Das Beste, was wir von
+<span id="fn_2"></span>[xi:1](mosy01.htm#fr_2.md) "Das Beste, was wir von
 der Geschichte haben, is der Enthusiasmus, den sie erregt."—<span
 class="smallcaps">Goethe</span>.
 
@@ -487,7 +487,7 @@ class="smallcaps">Cicero</span>.
 This last is a distinct reflection of the Buddhist doctrine of *karma*,
 with the hope of immortality for a difference.
 
-<span id="fn_3"></span>[xi:2](mosy01.htm#fr_3) At the close of Chapter
+<span id="fn_3"></span>[xi:2](mosy01.htm#fr_3.md) At the close of Chapter
 III. the Count Goblet d’Alviella would seem to imply that the *swastika*
 had now almost disappeared from the symbolism of India. But this is by
 no means the case. It is universally found worked into the mats, and
@@ -499,7 +499,7 @@ ladles with which the libations of *ghi* \[clarified butter\] are
 offered to Agni is surely some proof of at least a congenital connection
 between the *swastika* and the *arani*.
 
-<span id="fn_4"></span>[xiii:1](mosy01.htm#fr_4) See my remarks on the
+<span id="fn_4"></span>[xiii:1](mosy01.htm#fr_4.md) See my remarks on the
 "Breastplate of Aaron," in the *Journal of the Society of Arts* for
 March 18th, 1887; and with reference to "the Hand of Providence"
 sometimes associated with the Winged Globe, see my letters on "*The
@@ -513,11 +513,11 @@ identifiable by the representation on others of these "St. Peter's
 coins" of the bow \[with an arrow here\] seen in the Hand associated
 with the Winged Globe of the Persians.
 
-<span id="fn_5"></span>[xv:1](mosy01.htm#fr_5) The name of the Joktanite
+<span id="fn_5"></span>[xv:1](mosy01.htm#fr_5.md) The name of the Joktanite
 Sabæans is spelt with the letter *samech*, and that of the Cushite
 Sabæans with a *sin*.
 
-<span id="fn_6"></span>[xvii:1](mosy01.htm#fr_6) It is difficult to
+<span id="fn_6"></span>[xvii:1](mosy01.htm#fr_6.md) It is difficult to
 determine the ultimate botanical source of the *homa* of the ancient
 Persians, the *soma* of the Hindus. The proximate source of *homa* in
 Persia was the vine, and, later, the date palm. In India the plants
@@ -565,9 +565,9 @@ the ceremony observed by the women of Maharashtra by circumambulating
 the sacred fig-tree \[*Urostigma religiosum*\] whenever the new moon
 falls on a Monday.
 
-<span id="fn_7"></span>[xix:1](mosy01.htm#fr_7) Of Sept. 3rd, 1891.
+<span id="fn_7"></span>[xix:1](mosy01.htm#fr_7.md) Of Sept. 3rd, 1891.
 
-<span id="fn_8"></span>[xx:1](mosy01.htm#fr_8) These closely resemble
+<span id="fn_8"></span>[xx:1](mosy01.htm#fr_8.md) These closely resemble
 the *omphalos* of Apollo Pythius at Delphi, which, as we learn from the
 accounts of Pausanias \[X. 16\] and Strabo \[IX. iii. 6\], and various
 Greek coins and fictile paintings, was simply a *beth-El* or *lingam*.
@@ -611,7 +611,7 @@ eight-petalled "Lotus Throne" of some of the Saivite combined *lingam
 yoni* images: the *yoni* and the symbolical Lotus being in India one and
 the same matrical emblem.
 
-<span id="fn_9"></span>[xxi:1](mosy01.htm#fr_9) One of the most
+<span id="fn_9"></span>[xxi:1](mosy01.htm#fr_9.md) One of the most
 interesting of the Mediæval Christian Trees of Life was the "Arbor
 Perindex," known also as the *arbre de Judée*. The legend was that it
 grew in India, and typified the Catholic Roman Church, the doves, cooing
@@ -621,7 +621,7 @@ to destroy them, "that ancient worm the Devil." Not the least
 interesting point in connection with this Tree of Life is its name,
 "Arbor Perindex," *parinda* being the Hindustani and Persian for "bird."
 
-<span id="fn_10"></span>[xxi:2](mosy01.htm#fr_10) The reader will have
+<span id="fn_10"></span>[xxi:2](mosy01.htm#fr_10.md) The reader will have
 understood from the first that the Count Goblet d’Alviella here treats
 of symbols only after they <span id="page_xxii">p. xxii</span>have
 become historical, and indeed monumental, and that the symbolism of
@@ -632,7 +632,7 @@ making "long-noses," *et cætera*, is beyond the sphere of his work; as
 is also the symbolism of colours, numbers, and purely geometrical
 figures, such as the Pythagorean talisman, known by the various names of
 *pentalpha*, Signum Solomonis, Fuga Dæmonorum, Druid's Foot, pentangle,
-*et cætera*. <span id="fr_11"></span>[\*](#fn_11) A very piquant form of
+*et cætera*. <span id="fr_11"></span>[\*](#fn_11.md) A very piquant form of
 the archaic, and probably primitive, or, it may even be, primæval
 practices in which the Greek word symbol originated still widely
 survives in India; where, when "our Mr. Thomas Atkins" arranges a tryst
@@ -647,7 +647,7 @@ ago the boys in pledging themselves to any secrecy invariably did so by
 holding a potsherd between them. If it was a very dark and direful
 conspiracy to which we bound ourselves we spat on the sherd.
 
-<span id="fn_11"></span>[xxi:\*](mosy01.htm#fr_11) It is sometimes
+<span id="fn_11"></span>[xxi:\*](mosy01.htm#fr_11.md) It is sometimes
 identified with the Scutum Davidis, which appears to me to rather be the
 figure formed by the intersection of two equilateral triangles, one of
 the symbols of supreme Deity. It is also sometimes denominated the
@@ -656,4 +656,4 @@ able to accurately determine.
 
 ------------------------------------------------------------------------
 
-[Next: Postscriptum](mosy02)
+[Next: Postscriptum](mosy02.md)

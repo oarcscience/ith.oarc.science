@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta38)  [Next](sta40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta38)  [Next](sta40.md) 
 
 ------------------------------------------------------------------------
 
@@ -130,7 +130,7 @@ the heart of the one who knows.
 <span id="img_leaf01"></span>
 
 [![](tn/leaf01.jpg)  
-Click to enlarge](img/leaf01.jpg)
+Click to enlarge](img/leaf01.jpg.md)
 
 *Leaf 1*. The top line reads: "Our earliest medicine was made of natural
 objects." About the king and queen appears the statement that to them a
@@ -149,7 +149,7 @@ speak them without veil and without deception.
 <span id="img_leaf02"></span>
 
 [![](tn/leaf02.jpg)  
-Click to enlarge](img/leaf02.jpg)
+Click to enlarge](img/leaf02.jpg.md)
 
 *Leaf 2*. At the top is a quotation from St. Thomas Aquinas concerning
 the composition of the Philosopher's Stone, which is described as of the
@@ -170,7 +170,7 @@ mutilated at this point.)
 <span id="img_leaf03"></span>
 
 [![](tn/leaf03.jpg)  
-Click to enlarge](img/leaf03.jpg)
+Click to enlarge](img/leaf03.jpg.md)
 
 *Leaf 3*. The writing at the top of the page reads: "Death of Saturn;
 life of Mercury." After describing the use of the saturnine substances,
@@ -189,7 +189,7 @@ heat to air, air its moisture to water, and water its coldness to earth.
 <span id="img_leaf04"></span>
 
 [![](tn/leaf04.jpg)  
-Click to enlarge](img/leaf04.jpg)
+Click to enlarge](img/leaf04.jpg.md)
 
 *Leaf 4*. At the top: "Let them believe that . everything is possible.
 The art is fleeting, bright and rare, and not believed by the foolish."
@@ -208,7 +208,7 @@ dignity above its head.
 <span id="img_leaf05"></span>
 
 [![](tn/leaf05.jpg)  
-Click to enlarge](img/leaf05.jpg)
+Click to enlarge](img/leaf05.jpg.md)
 
 *Leaf 5*. In the upper panel it is declared that the sun-bird battles
 with the earth-serpent, who, tearing out his own entrails, gives them to
@@ -227,7 +227,7 @@ right was deliberately mutilated to conceal a too evident secret.
 <span id="img_leaf06"></span>
 
 [![](tn/leaf06.jpg)  
-Click to enlarge](img/leaf06.jpg)
+Click to enlarge](img/leaf06.jpg.md)
 
 *Leaf 6*. This plate shows all the secrets of the great Stone. In the
 center stands the Paschal Virgin, in her hair the prime virtue which is
@@ -248,7 +248,7 @@ above the circles of world."
 <span id="img_leaf07"></span>
 
 [![](tn/leaf07.jpg)  
-Click to enlarge](img/leaf07.jpg)
+Click to enlarge](img/leaf07.jpg.md)
 
 *Leaf 7*. The verse at the top reads:," This Stone is so noble and
 worthy that Nature has hidden it in her recesses. Its soul is all fair,
@@ -267,7 +267,7 @@ of the four men are extremely well drawn.
 <span id="img_leaf08"></span>
 
 [![](tn/leaf08.jpg)  
-Click to enlarge](img/leaf08.jpg)
+Click to enlarge](img/leaf08.jpg.md)
 
 *Leaf 8*. Under the sun, moon, and Mercury are the words *Three and
 One*, an inference that the three are one. The words under the flower
@@ -286,7 +286,7 @@ the words: "A moderate fire is the master of the work."
 <span id="img_leaf09"></span>
 
 [![](tn/leaf09.jpg)  
-Click to enlarge](img/leaf09.jpg)
+Click to enlarge](img/leaf09.jpg.md)
 
 *Leaf 9*. In the upper left it is written that without the light of the
 Moon the Sun does not heat the earth and that into the Moon the Sun
@@ -305,7 +305,7 @@ let the Philosopher's Stone be made."
 <span id="img_leaf10"></span>
 
 [![](tn/leaf10.jpg)  
-Click to enlarge](img/leaf10.jpg)
+Click to enlarge](img/leaf10.jpg.md)
 
 *Leaf 10*. The two short lines of text at upper left read: "Some take a
 recent stone." The lines to the right of the symbol of Mars (iron)
@@ -326,7 +326,7 @@ metals are like plants and grow in the rocks, spreading their branches
 <span id="img_leaf11"></span>
 
 [![](tn/leaf11.jpg)  
-Click to enlarge](img/leaf11.jpg)
+Click to enlarge](img/leaf11.jpg.md)
 
 *Leaf 11*. The fount is described as that from which the two Mercuries
 of the Philosophers are extracted. At the upper left is described the
@@ -345,7 +345,7 @@ describe distilling and calcining processes.
 <span id="img_leaf12"></span>
 
 [![](tn/leaf12.jpg)  
-Click to enlarge](img/leaf12.jpg)
+Click to enlarge](img/leaf12.jpg.md)
 
 *Leaf 12*. The three words at the top read: "This is Nature." The lines
 above the donkey read: "This is the Philosophers' donkey who wished to
@@ -364,7 +364,7 @@ frog symbolized both metempsychosis and earthly humidity.
 <span id="img_leaf13"></span>
 
 [![](tn/leaf13.jpg)  
-Click to enlarge](img/leaf13.jpg)
+Click to enlarge](img/leaf13.jpg.md)
 
 *Leaf 13*. This Page contains but two figures. At the left stands
 Morienus, the philosopher, pointing towards the salamander who "lives
@@ -383,7 +383,7 @@ treasure in the world."
 <span id="img_leaf14"></span>
 
 [![](tn/leaf14.jpg)  
-Click to enlarge](img/leaf14.jpg)
+Click to enlarge](img/leaf14.jpg.md)
 
 *Leaf 14*. The three words at the top of the left page are translated:
 "The man that digs." Above the birds it is declared that none but the
@@ -404,7 +404,7 @@ discovered the "Stone."
 <span id="img_leaf15"></span>
 
 [![](tn/leaf15.jpg)  
-Click to enlarge](img/leaf15.jpg)
+Click to enlarge](img/leaf15.jpg.md)
 
 *Leaf 15*. The first sentence reads: "The fruit of plants by virtue of
 the Sun, our Stone." The boy holding the dish is made to say: "Drink
@@ -423,7 +423,7 @@ with thee. Blessed thou among women."
 <span id="img_leaf16"></span>
 
 [![](tn/leaf16.jpg)  
-Click to enlarge](img/leaf16.jpg)
+Click to enlarge](img/leaf16.jpg.md)
 
 *Leaf 16*. The first sentence reads: "The dead bodies remain; the
 spirits are freed by the death in the bodies. You will ride with that
@@ -442,7 +442,7 @@ it can attain to a truly spiritual state.
 <span id="img_leaf17"></span>
 
 [![](tn/leaf17.jpg)  
-Click to enlarge](img/leaf17.jpg)
+Click to enlarge](img/leaf17.jpg.md)
 
 *Leaf 17*. The verse at the top of the page reads: "Not only must this
 material be fixed, but it must be allowed to enter into everything so
@@ -461,7 +461,7 @@ is intended to give only a hint of the "Art."
 <span id="img_leaf18"></span>
 
 [![](tn/leaf18.jpg)  
-Click to enlarge](img/leaf18.jpg)
+Click to enlarge](img/leaf18.jpg.md)
 
 *Leaf 18*. At the left holding a book stands Aristotle, who is described
 as the most learned of all the Greeks. The tree surmounted by the Sun
@@ -482,7 +482,7 @@ is nourished by man's corporeal body.
 <span id="img_leaf19"></span>
 
 [![](tn/leaf19.jpg)  
-Click to enlarge](img/leaf19.jpg)
+Click to enlarge](img/leaf19.jpg.md)
 
 *Leaf 19*. At the top it reads: "He that comes to know this figure will
 have knowledge of the Stone." The seated man probably represents
@@ -501,7 +501,7 @@ their wit to the secret."
 <span id="img_leaf20"></span>
 
 [![](tn/leaf20.jpg)  
-Click to enlarge](img/leaf20.jpg)
+Click to enlarge](img/leaf20.jpg.md)
 
 *Leaf 20*. At the top is written: "Rains are made by six stars." Under
 the inverted man it reads: "Receive new spirit. Arise, for you are
@@ -520,7 +520,7 @@ statement: "He was resurrected after new Moon," and under the eagle:
 <span id="img_leaf21"></span>
 
 [![](tn/leaf21.jpg)  
-Click to enlarge](img/leaf21.jpg)
+Click to enlarge](img/leaf21.jpg.md)
 
 *Leaf 21*. The upper line reads: "Two things and double, but finally one
 is dissolved into the first and they make sperm." The four capitals. *I
@@ -539,7 +539,7 @@ bright and cheerful little chamber \[retort\]."
 <span id="img_leaf22"></span>
 
 [![](tn/leaf22.jpg)  
-Click to enlarge](img/leaf22.jpg)
+Click to enlarge](img/leaf22.jpg.md)
 
 *Leaf 22*. The verse in the upper left is as follows: "This group is
 composed of three stones: lunar, solar, and mercurial. In the lunar is
@@ -560,7 +560,7 @@ the circle in the upper left corner.
 <span id="img_leaf23"></span>
 
 [![](tn/leaf23.jpg)  
-Click to enlarge](img/leaf23.jpg)
+Click to enlarge](img/leaf23.jpg.md)
 
 *Leaf 23*. The writing at the upper left is, in substance, the Lord's
 Prayer, with the addition of the words *Jesus and Mary* at the end. The
@@ -579,7 +579,7 @@ understood the "fifth essence" of the most wise.
 <span id="img_leaf24"></span>
 
 [![](tn/leaf24.jpg)  
-Click to enlarge](img/leaf24.jpg)
+Click to enlarge](img/leaf24.jpg.md)
 
 *Leaf 24*. The words at the top read: "I, the bird \[*the adept*\],
 speak into thine ears from the Sun, Moon and Azoth. The work is
@@ -598,7 +598,7 @@ upon a pedestal to signify their dignity.
 <span id="img_leaf25"></span>
 
 [![](tn/leaf25.jpg)  
-Click to enlarge](img/leaf25.jpg)
+Click to enlarge](img/leaf25.jpg.md)
 
 *Leaf 25*. Above the figure of the Queen are three lines stating, in
 substance, that in the beginning of the book it was written of her that
@@ -617,7 +617,7 @@ substance should be preserved.
 <span id="img_leaf26"></span>
 
 [![](tn/leaf26.jpg)  
-Click to enlarge](img/leaf26.jpg)
+Click to enlarge](img/leaf26.jpg.md)
 
 *Leaf 26*. This page, which concludes that part of the Hermetic
 manuscript bearing the symbols of the Secret Work, contains a number of
@@ -635,4 +635,4 @@ being termed a *Hermetic Seal*.
 
 ------------------------------------------------------------------------
 
-[Next: The Chemical Marriage](sta40)
+[Next: The Chemical Marriage](sta40.md)

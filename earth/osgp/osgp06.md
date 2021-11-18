@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](osgp05)  [Next](osgp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](osgp05)  [Next](osgp07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Origin and Significance of the Great Pyramid*, by C. Staniland
 Wake, \[1882\], at Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ worship," and, secondly, that it gives no explanation
 <span id="page_56">p. 56</span>
 
 of the fact that each king built a pyramid, and each king only
-one. <span id="fr_47"></span>[\*](#fn_47)
+one. <span id="fr_47"></span>[\*](#fn_47.md)
 
 These objections would, however, present no difficulty if the temple
 theory were restricted to the Great Pyramid, the other pyramids being
@@ -71,7 +71,7 @@ that they sacrificed hens and black calves, and burnt incense. He says
 also that Seth took possession of Egypt, and his son was Hermes, and
 that he introduced Sabaism, which inculcated, among other things, a
 pilgrimage to the Pyramids. He adds that, according to some accounts,
-one pyramid is the tomb of Seth. <span id="fr_48"></span>[†](#fn_48) An
+one pyramid is the tomb of Seth. <span id="fr_48"></span>[†](#fn_48.md) An
 earlier writer, Eddin Ahmed Ben Yahya, does not refer to Seth, but he
 says that each pyramid was consecrated to a star, and that the Sabæans
 performed religious pilgrimages to the greatest
@@ -80,17 +80,17 @@ performed religious pilgrimages to the greatest
 
 and also visited the others. He observes that every pyramid presents the
 form of a lantern surrounded by equilateral sides, which indicates that
-it was sacred to a star. <span id="fr_49"></span>[\*](#fn_49) Abd
+it was sacred to a star. <span id="fr_49"></span>[\*](#fn_49.md) Abd
 Allatif, who wrote nearly 200 years earlier, also refers to the
 pilgrimages made to the Pyramids, and he affirms that he had read in
 ancient Sabæan books that one pyramid was the tomb of Agathodæmon, and
-the other of Hermes. <span id="fr_50"></span>[†](#fn_50) Agathodæmon was
+the other of Hermes. <span id="fr_50"></span>[†](#fn_50.md) Agathodæmon was
 none other than Seth, and according to some writers Hermes was his
-son. <span id="fr_51"></span>[‡](#fn_51)
+son. <span id="fr_51"></span>[‡](#fn_51.md)
 
 A modern author, Mr. Palgrave, states that frequent enquiries were made
 of him in Oman regarding the Egyptian Pyramids, a memory, he thinks,
-derived from old Sabæan times. <span id="fr_52"></span>[§](#fn_52) This
+derived from old Sabæan times. <span id="fr_52"></span>[§](#fn_52.md) This
 traveller remarks elsewhere that the Arab writers give us the following
 information as to the ancient Sabæans. "That they worshipped the seven
 planets, and pre-eminently the sun; that they observed a fast of thirty
@@ -110,7 +110,7 @@ and believed to contain the dogmas and institutions of that primeval
 patriarch." Mr. Palgrave adds, that two points of great importance seem
 to have distinguished the ancient form of Sabaism: one, the absence of
 image-idols and idolatry; the other, the absence of any priestly
-caste <span id="fr_53"></span>[\*](#fn_53) These points are, indeed, of
+caste <span id="fr_53"></span>[\*](#fn_53.md) These points are, indeed, of
 great importance, and if it can be shown that the two great pyramids had
 really anything to do with Sabaism, it is not surprising that their
 founders were regarded with hatred by the Egyptian priests. The builder
@@ -126,7 +126,7 @@ discovery of a mystical text, which formed the most profound passage in
 the Book of the Dead. M. Lenormant states that numerous legends of the
 discoveries of books of a supernatural and divine origin were current
 among the Egyptians, who generally placed them under the earliest
-dynasties. <span id="fr_54"></span>[\*](#fn_54)
+dynasties. <span id="fr_54"></span>[\*](#fn_54.md)
 
 We have already had occasion to notice that the city of Memphis, near
 which the Pyramids were situated, was founded by Menes, who established
@@ -142,7 +142,7 @@ was common to all Egypt; Thebes, which boasted itself to have
 been the birth-place of the same god; Tentyris, the favorite abode of
 the goddess Hathor; Deb or Edfou, where Har-m-akhouti, with his son
 Har-houd, are supposed to have assembled the army with which they
-combatted Set or Typhon. <span id="fr_55"></span>[\*](#fn_55) Set or
+combatted Set or Typhon. <span id="fr_55"></span>[\*](#fn_55.md) Set or
 Seth is thus brought into connection with the Egyptian mythology, and he
 occupies a remarkable position in relation to it. "Seth was at one
 time," says Bunsen, "a great god, universally adored throughout Egypt,
@@ -166,7 +166,7 @@ was the primitive god of Northern Egypt and Palestine, and appears as
 the background of religious consciousness among the Semites. Moreover,
 his genealogy as "the Seth of Genesis, the father of Enoch (the man)
 must be considered as originally running parallel with that derived from
-the Elohim, Adam's father." <span id="fr_56"></span>[\*](#fn_56) Seth,
+the Elohim, Adam's father." <span id="fr_56"></span>[\*](#fn_56.md) Seth,
 therefore, is not only the primitive god of the Semites, but also their
 semi-divine ancestor. We have here, probably, the explanation of a fact
 mentioned by Herodotus, who, after speaking of the aversion of the
@@ -185,7 +185,7 @@ temples were closed during the reigns of Cheops and Cephren. M.
 Lenormant has, indeed, shown that this statement cannot have been
 correct, as an inscription preserved in the Museum at Boulak enumerates
 the temples built by Cheops, the pious foundations made by him, and his
-splendid offerings to the gods, <span id="fr_57"></span>[\*](#fn_57)
+splendid offerings to the gods, <span id="fr_57"></span>[\*](#fn_57.md)
 thus confirming the opinion expressed by Dr. Ebers. Nevertheless, there
 may have been some ground for the accusation of impiety made against
 Cheops, and it was probably his recognition of the supremacy of a god
@@ -195,7 +195,7 @@ the strange deity was may probably be determined by the nationality of
 Philitis, whose name is mentioned in connection with the Pyramids,
 although they may have been erected long before his time; unless indeed
 the name stands for a people and not merely an individual. M.
-Büdenger <span id="fr_58"></span>[†](#fn_58) ingeniously identifies
+Büdenger <span id="fr_58"></span>[†](#fn_58.md) ingeniously identifies
 Philitis with Salatis, the first Hyksos king, and Prof. Duncker states
 that the name of the former
 
@@ -204,7 +204,7 @@ that the name of the former
 points to a Semitic tribe for the Hyksos, "and one immediately bordering
 on Egypt on the Syrian coast—the Philistines (Pelischtim), from whom the
 whole Syrian coast was called by the Greeks Palæstina." <span
-id="fr_59"></span>[\*](#fn_59) The first Hyksos king fixed his residence
+id="fr_59"></span>[\*](#fn_59.md) The first Hyksos king fixed his residence
 at Memphis in the neighbourhood of the great pyramids, which had perhaps
 already become connected with the shepherd princes, and among a people
 who were probably prepared to receive him as a friend rather than as an
@@ -225,7 +225,7 @@ country—of whose name the Soutekh of the Shepherds and of the Kheta is
 only an enlarged form; whom we find adored under the name of Schita in
 several parts of Assyria; and whom it is perhaps necessary to compare
 with the antediluvian patriarch Scheth (Seth) in the narrative of
-Genesis." <span id="fr_60"></span>[\*](#fn_60) We see thus that not only
+Genesis." <span id="fr_60"></span>[\*](#fn_60.md) We see thus that not only
 was Set (Seth) by his name Soutekh the rational god of the Hyksos, but
 he was also the chief deity of the semi-Semitic population of the
 Memphitic region in which that shepherd race established itself. It is
@@ -245,7 +245,7 @@ of it, however, are still
 
 to be found in the territory between the Hedjaz and Yemen, and also in
 the Hadramaut and Mahrah, between Yemen and Oman, where a large number
-of independent tribes exist. <span id="fr_61"></span>[\*](#fn_61) The
+of independent tribes exist. <span id="fr_61"></span>[\*](#fn_61.md) The
 religion of these tribes was down to a comparatively recent period
 star-worship, and their ancestors, the people of Ad, were adherents of
 the Sabaism which was so widely spread in the ancient world. To this
@@ -265,14 +265,14 @@ moreover, furnished the Babylonians with the
 models on which their temples were built, "namely, in the form of
 terraced pyramids, such as were erected also in Elam, and among the
 oldest inhabitants of Media and India, to which class belonged the
-famous Tower of Babel." <span id="fr_62"></span>[\*](#fn_62) The Great
+famous Tower of Babel." <span id="fr_62"></span>[\*](#fn_62.md) The Great
 Pyramid of Egypt may well, therefore, have been a monument of
 star-worship, dedicated to the god Seth.
 
 Nor is this conclusion, that the Great Pyramid was intimately associated
 with the worship of Seth, inconsistent with the fact that it appears to
 have been sometimes referred to by the Egyptians as the tomb of
-Osiris. <span id="fr_63"></span>[†](#fn_63) This opinion is connected
+Osiris. <span id="fr_63"></span>[†](#fn_63.md) This opinion is connected
 with the myth of Osiris and Isis in its later form, which introduces
 Seth (Typhon) as the great enemy of Osiris. According to Bunsen,
 however, this form was not known earlier than the 13th or 14th century
@@ -297,7 +297,7 @@ been traced in the structure. The worshippers of the heavenly host
 would, undoubtedly, in so grand a religious monument as the Great
 Pyramid, embody all the astronomical knowledge they possessed, and this
 must have been considerable. The Arabian historian, Abulfaraj, as quoted
-by Dupuis, <span id="fr_64"></span>[\*](#fn_64) says that the religion
+by Dupuis, <span id="fr_64"></span>[\*](#fn_64.md) says that the religion
 of the Chaldeans and of the Sabæans was the same, and that the former
 were distinguished by their astronomical observations and studied the
 nature of the stars and their secret influences. Nor was this true
@@ -309,7 +309,7 @@ who considers the wonderful accuracy with which, nearly 2,000 years
 before the Christian era, the Chaldeans had determined the famous cycle
 of the Saros, can doubt that they must have observed the heavenly bodies
 for several centuries before they could have achieved such a
-success." <span id="fr_65"></span>[\*](#fn_65) As to the later
+success." <span id="fr_65"></span>[\*](#fn_65.md) As to the later
 Chaldeans, the Jewish writer Philo observes that they make everything
 depend on the movement of the stars, which they regard as the sovereign
 arbiters of the order of the world. They limit their homage to the
@@ -318,7 +318,7 @@ being; on the contrary, in observing the order of the world, they think
 they see in it the divinity itself, which exercises its power by the
 movements of the sun, the moon, the planets, and the fixed stars, by the
 successive revolutions of the seasons, and by the combined action of the
-heaven and the earth. <span id="fr_66"></span>[†](#fn_66)
+heaven and the earth. <span id="fr_66"></span>[†](#fn_66.md)
 
 A religion such as this could have no fitter monument than a vast
 astronomical observatory, which the Great Pyramid probably was, until at
@@ -338,64 +338,64 @@ he had not before suspected.
 
 ### Footnotes
 
-<span id="fn_47"></span>[56:\*](osgp06.htm#fr_47) "Myths and Marvels of
+<span id="fn_47"></span>[56:\*](osgp06.htm#fr_47.md) "Myths and Marvels of
 Astronomy," p. 89.
 
-<span id="fn_48"></span>[56:†](osgp06.htm#fr_48) See Vyse, "Operations,"
+<span id="fn_48"></span>[56:†](osgp06.htm#fr_48.md) See Vyse, "Operations,"
 etc., Vol. ii. p. 358.
 
-<span id="fn_49"></span>[57:\*](osgp06.htm#fr_49) Vyse, "Operations,"
+<span id="fn_49"></span>[57:\*](osgp06.htm#fr_49.md) Vyse, "Operations,"
 Vol. ii. p. 349. According to the Platonists, a pyramid is the *figure*
 of fire.
 
-<span id="fn_50"></span>[57:†](osgp06.htm#fr_50) Vyse, vol. ii., p. 342.
+<span id="fn_50"></span>[57:†](osgp06.htm#fr_50.md) Vyse, vol. ii., p. 342.
 
-<span id="fn_51"></span>[57:‡](osgp06.htm#fr_51) See Appendix I. for
+<span id="fn_51"></span>[57:‡](osgp06.htm#fr_51.md) See Appendix I. for
 various ancient references to Seth and Hermes, as give by Dr. Sprenger.
 
-<span id="fn_52"></span>[57:§](osgp06.htm#fr_52) Vol. ii. p. 264.
+<span id="fn_52"></span>[57:§](osgp06.htm#fr_52.md) Vol. ii. p. 264.
 
-<span id="fn_53"></span>[58:\*](osgp06.htm#fr_53) Vyse, vol. ii. p. 258.
+<span id="fn_53"></span>[58:\*](osgp06.htm#fr_53.md) Vyse, vol. ii. p. 258.
 
-<span id="fn_54"></span>[59:\*](osgp06.htm#fr_54) "Histoire Ancienne de
+<span id="fn_54"></span>[59:\*](osgp06.htm#fr_54.md) "Histoire Ancienne de
 l’Orient," 9th edition, Tom. ii. p. 74.
 
-<span id="fn_55"></span>[60:\*](osgp06.htm#fr_55) Tom. ii. p. 55.
+<span id="fn_55"></span>[60:\*](osgp06.htm#fr_55.md) Tom. ii. p. 55.
 
-<span id="fn_56"></span>[61:\*](osgp06.htm#fr_56) God in History, Vol.
+<span id="fn_56"></span>[61:\*](osgp06.htm#fr_56.md) God in History, Vol.
 i., pp. 233-4.
 
-<span id="fn_57"></span>[62:\*](osgp06.htm#fr_57) Tom. ii., p. 72.
+<span id="fn_57"></span>[62:\*](osgp06.htm#fr_57.md) Tom. ii., p. 72.
 
-<span id="fn_58"></span>[62:†](osgp06.htm#fr_58) Quoted in Duncker's
+<span id="fn_58"></span>[62:†](osgp06.htm#fr_58.md) Quoted in Duncker's
 "History of Antiquity." Vol. i. p. 98 *n*.
 
-<span id="fn_59"></span>[63:\*](osgp06.htm#fr_59) Ducker, Vol. i. p.
+<span id="fn_59"></span>[63:\*](osgp06.htm#fr_59.md) Ducker, Vol. i. p.
 127.
 
-<span id="fn_60"></span>[64:\*](osgp06.htm#fr_60) Histoire Ancienne de
+<span id="fn_60"></span>[64:\*](osgp06.htm#fr_60.md) Histoire Ancienne de
 l’Orient, Tom. ii. p. 147.
 
-<span id="fn_61"></span>[65:\*](osgp06.htm#fr_61) M. Vivien de
+<span id="fn_61"></span>[65:\*](osgp06.htm#fr_61.md) M. Vivien de
 Saint-Martin, in his "Nouveau Dictionnaire de Geographie
 Universelle,"—art. *Arabie*. And see the "Preliminary Discourse," in
 Sale's "Koran," as to the tribe of Ad, and other early peoples of
 Arabia.
 
-<span id="fn_62"></span>[66:\*](osgp06.htm#fr_62) "Outlines of the
+<span id="fn_62"></span>[66:\*](osgp06.htm#fr_62.md) "Outlines of the
 History of Religion" (Eng. Trans.), p. 75.
 
-<span id="fn_63"></span>[66:†](osgp06.htm#fr_63) Dupuis, "L’Origine de
+<span id="fn_63"></span>[66:†](osgp06.htm#fr_63.md) Dupuis, "L’Origine de
 tous les Cultes," Tom. i. p. 424.
 
-<span id="fn_64"></span>[67:\*](osgp06.htm#fr_64) Tom, i. p. 7.
+<span id="fn_64"></span>[67:\*](osgp06.htm#fr_64.md) Tom, i. p. 7.
 
-<span id="fn_65"></span>[68:\*](osgp06.htm#fr_65) "Myths and Marvels of
+<span id="fn_65"></span>[68:\*](osgp06.htm#fr_65.md) "Myths and Marvels of
 Astronomy," p. 73.
 
-<span id="fn_66"></span>[68:†](osgp06.htm#fr_66) Treatise on Abraham,
+<span id="fn_66"></span>[68:†](osgp06.htm#fr_66.md) Treatise on Abraham,
 Sec. 15.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Seth And Serpent Worship](osgp07)
+[Next: Chapter V. Seth And Serpent Worship](osgp07.md)

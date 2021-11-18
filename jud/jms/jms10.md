@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms09)  [Next](jms11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms09)  [Next](jms11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -109,7 +109,7 @@ intended only for a healing of the soul." But such voices did not carry
 far. The curious womb-exhortation illustrates the popular attitude
 toward the Bible: "*Baermutter* \[womb\] lie down! With these words I
 adjure thee, with nine *Torahs*, with nine pure *Sefer
-Torahs!*"[1](jms29.htm#an_8_1)
+Torahs!*"[1](jms29.htm#an_8_1.md)
 
 The report that the book of Leviticus was placed under the head of an
 infant in its cradle is too reminiscent of the above-mentioned use of
@@ -168,7 +168,7 @@ wholeheartedly that God is first and last and besides Him there is no
 other god is certainly impervious to such harm." With due deference to
 the worthy and pious intention of this writer, the point is that the
 mere recital of these words has the indicated
-effect.[4](jms29.htm#an_8_4)
+effect.[4](jms29.htm#an_8_4.md)
 
 In Talmudic times Biblical verses were often employed to heal wounds and
 diseases, despite rabbinic opposition to this practice. Even stronger
@@ -204,7 +204,7 @@ centuries. Biblical verses were recited to ward off all sorts of
 dangers, imagined or real, danger from demons or snakes, from robbers
 and from "acts of God." Sabbath or week-day, the Bible performed
 functions for which its inspired creators had never intended
-it.[5](jms29.htm#an_8_5)
+it.[5](jms29.htm#an_8_5.md)
 
 One other purpose for which Biblical texts were employed was that of
 divination, which again is paralleled by similar usages among other
@@ -230,7 +230,7 @@ names were pried out of the text and used independently. The texts were
 also employed, but rarely without the instruction, "Recite this verse
 with its name . . ." or the note, "the name that comes from these words
 is . . ." and the implication that were it not for this name the
-utterance of the verse would have no effect.[6](jms29.htm#an_8_6)
+utterance of the verse would have no effect.[6](jms29.htm#an_8_6.md)
 
 <span id="page_109">p. 109</span>
 
@@ -259,7 +259,7 @@ listed these "uses of the Psalms" in the *Jewish Encyclopedia* (III, pp.
 sorts of ailments, protection against dangers, especially attack by evil
 spirits, highwaymen, and wild animals, to find favor with the
 authorities, against imprisonment, against compulsory baptism, and to
-escape arrest by the night watchman![7](jms29.htm#an_8_7)
+escape arrest by the night watchman![7](jms29.htm#an_8_7.md)
 
 Other portions of the Bible were also extensively drawn upon for similar
 purposes. The magical literature is replete with directions for the use
@@ -268,7 +268,7 @@ in German-Jewish folklore periodicals, and utilized some in his
 above-mentioned compilation for the *Jewish Encyclopedia*. As an
 illustration of this type of material I shall list here the
 prescriptions found in a fourteenth-century manuscript work, *Sefer
-Gematriaot*,[8](jms29.htm#an_8_8) which, true to its title, consists of
+Gematriaot*,[8](jms29.htm#an_8_8.md) which, true to its title, consists of
 mathematical speculations and permutations on the text of the Bible, but
 is yet strikingly similar to *Shimmush Tehillim* in its listing of the
 magical uses of Biblical verses and the stress it lays upon the name
@@ -436,7 +436,7 @@ traced on the skin of an apple and then eaten, etc. In other words,
 every device known to magic which was calculated to cause a certain
 effect to occur upon or within an individual, was called into play to
 bring out the occult forces inherent in the verses of the
-Bible.[9](jms29.htm#an_8_9)
+Bible.[9](jms29.htm#an_8_9.md)
 
 The most popular selection from the Bible thus used was the so-called
 *Shir shel Pega‘im*, commonly interpreted the "anti-demonic psalm." The
@@ -469,7 +469,7 @@ Weil made it a point to speak these lines even before taking a nap
 during the day. It appeared frequently in magical formulas intended to
 drive off demons and to counteract magic, and was recited at funerals,
 when the spirits were unusually active, and upon all other such critical
-occasions.[10](jms29.htm#an_8_10)
+occasions.[10](jms29.htm#an_8_10.md)
 
 Such employment did not exhaust the potentialities of the psalm. Because
 the letter *zayin* is not to be found in it, it was believed to serve as
@@ -485,8 +485,8 @@ function; the remedy employed was to breathe the words of the *Shir shel
 Pega‘im* three times into the wide opening of the ram's horn, whereupon
 its hoarse notes were restored. Satan had seated himself inside the horn
 and had impeded its call until dislodged by the
-charm![11](jms29.htm#an_8_11)
+charm![11](jms29.htm#an_8_11.md)
 
 ------------------------------------------------------------------------
 
-[Next: 9. The Magical Procedure](jms11)
+[Next: 9. The Magical Procedure](jms11.md)

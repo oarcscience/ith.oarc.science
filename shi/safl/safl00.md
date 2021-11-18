@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Ainu](../ainu/index) [Index](index)  [Next](safl01)
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Ainu](../ainu/index) [Index](index)  [Next](safl01.md)
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ of each legend.
 
 ------------------------------------------------------------------------
 
-[Next](safl01)
+[Next](safl01.md)

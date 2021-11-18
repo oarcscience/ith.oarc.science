@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu10)  [Next](cwiu12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu10)  [Next](cwiu12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -28,9 +28,9 @@ It is therefore not surprising that, fifteen years after the publication
 of the *Mathematical Principles of Natural Philosophy*, their connection
 was openly proclaimed by Joseph Raphson, a promising young
 mathematician, Master of Arts and Fellow of the Royal
-Society,[1](cwiu16.htm#an_8_1) in an extremely interesting and valuable
+Society,[1](cwiu16.htm#an_8_1.md) in an extremely interesting and valuable
 Appendix which he added, in 1702, to the second edition of his
-*Universal Analysis of Equations*.[2](cwiu16.htm#an_8_2)
+*Universal Analysis of Equations*.[2](cwiu16.htm#an_8_2.md)
 
 In this *Appendix*, which bears the title *On the real space or the
 Infinite Being*, Joseph Raphson, who obviously has neither Newton's
@@ -46,7 +46,7 @@ criticism of the Cartesian
 identification of extension with matter, his characterization of matter
 by impenetrability, and his demonstration of the existence of an
 immovable and immaterial extension, Raphson states his
-conclusion:[3](cwiu16.htm#an_8_3)
+conclusion:[3](cwiu16.htm#an_8_3.md)
 
 <div class="iq">
 
@@ -66,7 +66,7 @@ demonstrates the hypothetical necessity of this immovable extended
 
 There is an unmistakable Spinozistic flavor in Raphson's terminology and
 manner of speaking. Yet, though deeply influenced by
-Spinoza,[4](cwiu16.htm#an_8_4) Raphson is by no means Spinozist. On the
+Spinoza,[4](cwiu16.htm#an_8_4.md) Raphson is by no means Spinozist. On the
 contrary, More's distinction between the infinite, immovable, immaterial
 extension and the material, mobile and therefore finite one is,
 according to him, the sole and only means of avoiding the Spinozistic
@@ -83,9 +83,9 @@ and
 
 continuously filled with matter rectilinear motion would be utterly
 impossible, and even circular motion would be extremely difficult to
-achieve.[5](cwiu16.htm#an_8_5) The real existence of really void spaces
+achieve.[5](cwiu16.htm#an_8_5.md) The real existence of really void spaces
 can thus be considered as fully demonstrated. Wherefrom we can draw the
-following corollaries:[6](cwiu16.htm#an_8_6)
+following corollaries:[6](cwiu16.htm#an_8_6.md)
 
 <div class="iq">
 
@@ -146,9 +146,9 @@ Matter, as we know, is characterized by Raphson by its mobility (which
 implies finitude) and impenetrability. As for the immaterial extension,
 or more simply, space, its properties, nature and existence are derived
 by him *more geometrico* "from the necessary and natural concatenation
-of simple ideas."[7](cwiu16.htm#an_8_7)
+of simple ideas."[7](cwiu16.htm#an_8_7.md)
 
-Space is defined as[8](cwiu16.htm#an_8_8) "the innermost extended
+Space is defined as[8](cwiu16.htm#an_8_8.md) "the innermost extended
 \[entity\] (whatever it be) which is the first by nature and the very
 last to be obtained by continuous division and separation"; Raphson
 informs us that it is an imperfect definition or description of the
@@ -166,7 +166,7 @@ space* really distinct from matter.
 The investigation starts with a postulate, according to which a "given
 idea" always enables us to derive from it the properties of the object,
 even making abstraction of its existence. Three corollaries are added,
-and these tell us that:[9](cwiu16.htm#an_8_9)
+and these tell us that:[9](cwiu16.htm#an_8_9.md)
 
 <div class="iq">
 
@@ -181,7 +181,7 @@ by the mind), or be conceived as being removed.
 
 </div>
 
-An axiom then asserts that:[10](cwiu16.htm#an_8_10)
+An axiom then asserts that:[10](cwiu16.htm#an_8_10.md)
 
 <div class="iq">
 
@@ -191,7 +191,7 @@ distance (be it great or small), that is *something extended*.
 </div>
 
 A series of propositions now follows in quick
-succession:[11](cwiu16.htm#an_8_11)
+succession:[11](cwiu16.htm#an_8_11.md)
 
 <div class="iq">
 
@@ -236,7 +236,7 @@ immovability.
 
 To pave the way to further development, that is, to the identification
 of space with an attribute of God, Raphson adds
-that[12](cwiu16.htm#an_8_12)
+that[12](cwiu16.htm#an_8_12.md)
 
 <div class="iq">
 
@@ -252,7 +252,7 @@ the Gentiles about the all permeant, the all-embracing etc.
 
 But let us not think that space is a kind of immaterial stuff—Raphson,
 obviously, wants to oppose *space* to More's
-*spirit*:[13](cwiu16.htm#an_8_13)
+*spirit*:[13](cwiu16.htm#an_8_13.md)
 
 <div class="iq">
 
@@ -263,7 +263,7 @@ conceived as penetrated.
 
 </div>
 
-It is clear thus that[14](cwiu16.htm#an_8_14)
+It is clear thus that[14](cwiu16.htm#an_8_14.md)
 
 <div class="iq">
 
@@ -290,7 +290,7 @@ infinite. It was therefore always.
 <span class="contnote">\[paragraph continues\]</span> This means that it
 is, or has, a necessary being, that the eternity of the infinite is the
 same thing as its existence, and that both imply the same
-necessity[15](cwiu16.htm#an_8_15)
+necessity[15](cwiu16.htm#an_8_15.md)
 
 <div class="iq">
 
@@ -307,7 +307,7 @@ therefore
 
 This last proposition, according to Raphson, can also be demonstrated in
 a much easier and more direct way: as, indeed, the First
-Cause[16](cwiu16.htm#an_8_16)
+Cause[16](cwiu16.htm#an_8_16.md)
 
 <div class="iq">
 
@@ -350,7 +350,7 @@ to God logically as well as metaphysically unavoidable.
 Having established the attribution to the *First Cause* of infinite
 space (which taken abstractly is the object of geometry, and taken as
 reality is the very immensity of God), Raphson now goes on to a more
-careful consideration of their connection:[17](cwiu16.htm#an_8_17)
+careful consideration of their connection:[17](cwiu16.htm#an_8_17.md)
 
 <div class="iq">
 
@@ -398,7 +398,7 @@ misunderstanding of the very essence of extension that has been falsely
 held to be necessarily something imperfect and lacking all unity and
 reality. In truth, however, extension, as such, is something positive
 and denotes a very real perfection. Accordingly, as
-generally[18](cwiu16.htm#an_8_18)
+generally[18](cwiu16.htm#an_8_18.md)
 
 <span id="page_199">p. 199</span>
 
@@ -417,7 +417,7 @@ metaphorically, attributed to the First Cause.
 
 The First Cause appears thus as the twofold source, or cause, of the
 perfections of the created things that it contains, as the Schoolmen
-say, in an eminent and transcendent manner.[19](cwiu16.htm#an_8_19)
+say, in an eminent and transcendent manner.[19](cwiu16.htm#an_8_19.md)
 
 <div class="iq">
 
@@ -445,7 +445,7 @@ one, from the source of these
 <span id="page_200">p. 200</span>
 
 perfections in the First Cause, and, in relation to it, they are both
-equally imperfect.[20](cwiu16.htm#an_8_20)
+equally imperfect.[20](cwiu16.htm#an_8_20.md)
 
 <div class="iq">
 
@@ -474,7 +474,7 @@ of, and a participation in, God's cogitativeness, so in spite of its
 divisibility and mobility our bodily extension is an imitation of, and a
 participation in, God's own and perfect extensiveness.
 
-As for the latter, we have already proved that:[21](cwiu16.htm#an_8_21)
+As for the latter, we have already proved that:[21](cwiu16.htm#an_8_21.md)
 
 <div class="iq">
 
@@ -515,7 +515,7 @@ center is everywhere and the limits nowhere; it is something of which
 the center is nowhere also, something that has neither limits nor
 center, something in respect to which the question "where?" cannot be
 asked, as in respect to it everywhere is nowhere,
-*nullibi*.[22](cwiu16.htm#an_8_22)
+*nullibi*.[22](cwiu16.htm#an_8_22.md)
 
 <div class="iq">
 
@@ -531,7 +531,7 @@ completely.
 Raphson is obviously right. In the infinite homogeneous space all
 "places" are perfectly equivalent and cannot be distinguished from each
 other: they all have the same "position" in respect to the
-whole.[23](cwiu16.htm#an_8_23)
+whole.[23](cwiu16.htm#an_8_23.md)
 
 <div class="iq">
 
@@ -557,7 +557,7 @@ in contradistinction to the finitude of the created world, it is by no
 means his intention to assign to this latter determinate, or even
 determinable—by us—dimensions. Quite the contrary: in infinite space
 there is room enough for a practically indeterminate and indefinitely
-large world. Thus he tells us that if[24](cwiu16.htm#an_8_24)
+large world. Thus he tells us that if[24](cwiu16.htm#an_8_24.md)
 
 <div class="iq">
 
@@ -579,7 +579,7 @@ is completely hidden to us.
 
 </div>
 
-Raphson himself would[25](cwiu16.htm#an_8_25)
+Raphson himself would[25](cwiu16.htm#an_8_25.md)
 
 <div class="iq">
 
@@ -608,7 +608,7 @@ as it is considered as the immense *locus* of things.
 
 We see it thus quite clearly: the difference between the infinite and
 the finite is not a difference between "more" and "less"; it is not a
-[quantitative](errata.htm#3), but a qualitative one, and, though studied
+[quantitative](errata.htm#3.md), but a qualitative one, and, though studied
 by mathematicians, it is fundamentally a metaphysical difference. It is
 this difference which,
 
@@ -618,7 +618,7 @@ fully understood, enables us not to lapse into the error of a
 pantheistic confusion of the Creator God with the created world, and it
 is this selfsame difference which provides us with a firm ground for the
 study of the nearly infinite variety of created things. Indeed,
-those[26](cwiu16.htm#an_8_26)
+those[26](cwiu16.htm#an_8_26.md)
 
 <div class="iq">
 
@@ -662,7 +662,7 @@ As we see, empiricism and metaphysics, and even a very definite kind of
 metaphysics, the creationist, are closely linked together. What other
 means, indeed, but observation and experience can we possibly use for
 the study of a world freely created by an Infinite God? Raphson
-concludes therefore:[27](cwiu16.htm#an_8_27)
+concludes therefore:[27](cwiu16.htm#an_8_27.md)
 
 <div class="iq">
 
@@ -677,4 +677,4 @@ perpetually geometrizing God.
 
 ------------------------------------------------------------------------
 
-[Next: IX. God and the World: Space, Matter, Ether and Spirit](cwiu12)
+[Next: IX. God and the World: Space, Matter, Ether and Spirit](cwiu12.md)

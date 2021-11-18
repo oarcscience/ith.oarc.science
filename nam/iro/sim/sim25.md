@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim24)  [Next](sim26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim24)  [Next](sim26.md) 
 
 ------------------------------------------------------------------------
 
@@ -173,7 +173,7 @@ seems to me that I hear a woman speaking."
 
 The girl spoke louder.
 
-[The](errata.htm#2) old man looked up and said, "I don't think he is at
+[The](errata.htm#2.md) old man looked up and said, "I don't think he is at
 home. I don't think he will be here for ten days."
 
 "Very well" said the girl, "I will come in ten days." And she went home.
@@ -282,4 +282,4 @@ and beautiful. Now they lived in HÁIENDONIS' house and were happy.
 
 ------------------------------------------------------------------------
 
-[Next: Cold and Frost, or Stone Coat Women](sim26)
+[Next: Cold and Frost, or Stone Coat Women](sim26.md)

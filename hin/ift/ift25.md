@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift24) 
-[Next](ift26) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift24.md) 
+[Next](ift26.md) 
 
 ------------------------------------------------------------------------
 
 # Why the Fish Laughed
 
 <span id="img_67"></span> [![](tn/67.jpg)  
-Click to enlarge](img/67.jpg)
+Click to enlarge](img/67.jpg.md)
 
 <span id="img_68"></span> ![](img/68.jpg)S a certain fisherwoman passed
 by a palace crying her fish, the Queen appeared at one of the windows
@@ -240,10 +240,10 @@ farmer's daughter and a most happy marriage it was.
  
 
 <span id="img_69"></span> [![](tn/69.jpg)  
-Click to enlarge](img/69.jpg)
+Click to enlarge](img/69.jpg.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: The Demon with the Matted Hair](ift26)
+[Next: The Demon with the Matted Hair](ift26.md)

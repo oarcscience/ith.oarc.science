@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos19)  [Next](mos21) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos19)  [Next](mos21.md) 
 
 ------------------------------------------------------------------------
 
@@ -163,4 +163,4 @@ blessings.
 
 ------------------------------------------------------------------------
 
-[Next: Worshipping The Calf](mos21)
+[Next: Worshipping The Calf](mos21.md)

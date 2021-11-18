@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou23)  [Next](hou25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou23)  [Next](hou25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ the judges as a personal insult to the governor.
 
 After the arrival of the army, Brigham never appeared in public without
 a body-guard of his own intimate friends; <span
-id="fr_876"></span>[1](#fn_876) and for many months he attended no
+id="fr_876"></span>[1](#fn_876.md) and for many months he attended no
 public assemblies. At the door of his residence sentries kept watch by
 day, and at night a strong guard was stationed within its walls. Nor
 were these precautions unnecessary. About the end of March 1859 a writ
@@ -48,11 +48,11 @@ forging notes on
 
 <span id="page_573">p. 573</span>
 
-the United States treasury. <span id="fr_877"></span>[2](#fn_877) The
+the United States treasury. <span id="fr_877"></span>[2](#fn_877.md) The
 officers deputed to make the arrest repaired to the governor's quarters
 and besought his coöperation, but were promptly refused, Cumming
 protesting against the measure as an unjustifiable outrage, <span
-id="fr_878"></span>[3](#fn_878) whereupon they returned in discomfiture
+id="fr_878"></span>[3](#fn_878.md) whereupon they returned in discomfiture
 to Camp Floyd.
 
     But the trouble was not yet ended. In May, Judge Sinclair was to
@@ -61,7 +61,7 @@ detachment of troops. On Sunday the 17th of April it was reported that
 two regiments were on their way to the city for the purpose of making
 arrests, whereat General Wells at once ordered out the militia, and
 within a few hours five thousand men were under arms. <span
-id="fr_879"></span>[4](#fn_879) It was now expected
+id="fr_879"></span>[4](#fn_879.md) It was now expected
 
 <span id="page_574">p. 574</span>
 
@@ -80,12 +80,12 @@ and all his deputies, with this tremendous authority. Especially does
 this construction seem erroneous when we reflect that these different
 officers might make requisitions conflicting with one another, and all
 of them crossing the path of the governor." <span
-id="fr_880"></span>[5](#fn_880) The judges were superseded a few months
-later; <span id="fr_881"></span>[6](#fn_881) and thus the matter was
+id="fr_880"></span>[5](#fn_880.md) The judges were superseded a few months
+later; <span id="fr_881"></span>[6](#fn_881.md) and thus the matter was
 finally set at rest, the action of the governor being sustained,
 although he became so unpopular with the cabinet that for a time his
 removal was also under consideration. <span
-id="fr_882"></span>[7](#fn_882) Though his resignation was not demanded,
+id="fr_882"></span>[7](#fn_882.md) Though his resignation was not demanded,
 
 <span id="page_575">p. 575</span>
 
@@ -93,7 +93,7 @@ he set forth from Salt Lake City in May 1861, about two months before
 his term of office expired. He had entered that city amid a forced
 display of welcome, but he left it with the sincere regrets of a people
 whose hearts he had won by kind treatment. <span
-id="fr_883"></span>[8](#fn_883)
+id="fr_883"></span>[8](#fn_883.md)
 
     In 1860 most of the troops were removed to Mexico and Arizona, and
 about a year later, war between north and south being then almost a
@@ -106,7 +106,7 @@ nation $570 per ton, sold for less than $11 per ton, and other stores in
 the same proportion; the entire proceeds of the sale did not exceed
 $100,000, or little more than two per cent of the outlay; and of this
 sum $40,000 was contributed by Brigham. <span
-id="fr_884"></span>[9](#fn_884)
+id="fr_884"></span>[9](#fn_884.md)
 
     At the sale at Camp Floyd some of the leading
 
@@ -121,29 +121,29 @@ wear. The ammunition and spare arms were destroyed, some of the cannon
 being exploded and others thrown into wells, though the latter were
 recovered by the Mormons, and are still used on the 4th and 24th of
 July, and other of their festivities. <span
-id="fr_885"></span>[10](#fn_885)
+id="fr_885"></span>[10](#fn_885.md)
 
     We have now arrived at a period in the history of Utah when it may
 be of interest to give a brief description of the industrial and social
 condition of the Mormons. Between the years 1850 and 1862 they had
 increased in number from 11,380 to about 65,000, a gain that has seldom
 been equalled in any of the states or territories of the republic. <span
-id="fr_886"></span>[11](#fn_886) They were a very healthy community, the
+id="fr_886"></span>[11](#fn_886.md) They were a very healthy community, the
 number of deaths recorded in the census report for the year ending June
 1860 being little more than nine per thousand, <span
-id="fr_887"></span>[12](#fn_887) though this is doubtless a mistake, the
+id="fr_887"></span>[12](#fn_887.md) though this is doubtless a mistake, the
 actual death rate being probably at least twelve per thousand. <span
-id="fr_888"></span>[13](#fn_888) Of the mortality,
+id="fr_888"></span>[13](#fn_888.md) Of the mortality,
 
 <span id="page_577">p. 577</span>
 
 about twenty-six per cent occurred among infants, <span
-id="fr_889"></span>[14](#fn_889) the most prominent diseases among
+id="fr_889"></span>[14](#fn_889.md) the most prominent diseases among
 adults being consumption and enteriris. It is worthy of note that up to
 this date there occurred in the territory but one case of suicide among
-the Mormons. <span id="fr_890"></span>[15](#fn_890) There was little
+the Mormons. <span id="fr_890"></span>[15](#fn_890.md) There was little
 pauperism in their midst, and there was little crime, or such crime as
-was punished by imprisonment. <span id="fr_891"></span>[16](#fn_891)
+was punished by imprisonment. <span id="fr_891"></span>[16](#fn_891.md)
 
     The saints were now a fairly prosperous community. The value of
 their real and personal property was reported in 1860 at $5,596,118, of
@@ -152,7 +152,7 @@ live-stock $1,516,707, and of manufactures $900,153. To these figures
 about 50 per cent must be added in order to obtain the actual value.
 Among the list of premiums bestowed in this year by the Deseret
 Agricultural and Manufacturing Society, <span
-id="fr_892"></span>[17](#fn_892) we find prizes and diplomas awarded for
+id="fr_892"></span>[17](#fn_892.md) we find prizes and diplomas awarded for
 agricultural and gardening implements of all kinds, for steam-engines
 and fire-engines, for leathern manufactures of every description from
 heavy harness to ladies' kid boots of many
@@ -162,13 +162,13 @@ heavy harness to ladies' kid boots of many
 buttons, for woollen and cotton goods, including carpets, blankets,
 flannels, jeans, linseys, kerseys, and cassimeres, for many articles of
 furniture, and for the most needed articles of cutlery and
-hardware. <span id="fr_893"></span>[18](#fn_893)
+hardware. <span id="fr_893"></span>[18](#fn_893.md)
 
     The prices of most necessaries of life were moderate throughout the
 territory, but on account of high freights—averaging from the eastern
 states about $28 and from the Pacific seaboard $50 to $60 per
 ton—imported commodities were inordinately dear. <span
-id="fr_894"></span>[19](#fn_894) The cost of luxuries mattered but
+id="fr_894"></span>[19](#fn_894.md) The cost of luxuries mattered but
 little, however, to a community that subsisted mainly on the fruits and
 vegetables of their own gardens, and the bread, milk, and butter
 produced on their own farms.
@@ -198,11 +198,11 @@ probably refuse; "for," he would argue, "if I sell all my cash-goods for
 cash, without also getting rid of my shelf-goods, I shall not be able to
 dispose of the latter for cash at all. I must dole out the one with care
 that I may be able to get rid of the other." <span
-id="fr_895"></span>[20](#fn_895)
+id="fr_895"></span>[20](#fn_895.md)
 
     In some of the shop windows on Main Street were displayed costly
 imported commodities—silks, velvets, and shawls of diverse pattern,
-jewelry, laces, and millinery; <span id="fr_896"></span>[21](#fn_896)
+jewelry, laces, and millinery; <span id="fr_896"></span>[21](#fn_896.md)
 near by were less pretentious stores, where home-made and second-hand
 articles were retailed. In some of the latter might be seen a curious
 collection of dilapidated merchandise, and people almost as singular as
@@ -233,7 +233,7 @@ boards. Both seemed like mere enclosures in which to eat and sleep, and
 
 <span id="img_58000"></span> <span align="CENTER"> [![SALT LAKE CITY IN
 1860.](tn/58000.jpg)  
-Click to enlarge](img/58000.jpg)  
+Click to enlarge](img/58000.jpg.md)  
 SALT LAKE CITY IN 1860.  
 </span>
 
@@ -262,7 +262,7 @@ one-storied, and some with several entrances. At this date the entire
 city, except on its southern side, was enclosed by a wall some ten or
 twelve feet high, with semi-bastions placed at half musket-range, and
 pierced here and there with gateways. <span
-id="fr_897"></span>[22](#fn_897)
+id="fr_897"></span>[22](#fn_897.md)
 
     In driving through the suburbs the visitor would find the
 thoroughfares in bad condition, dusty in summer, and in winter filled
@@ -279,7 +279,7 @@ tall flag-staff. Here fair accommodation
 <span id="page_582">p. 582</span>
 
 could be had at very moderate charges. <span
-id="fr_898"></span>[23](#fn_898) Even in its business portion, Main
+id="fr_898"></span>[23](#fn_898.md) Even in its business portion, Main
 Street had at this date many vacant lots, being then in the embryo
 condition through which all cities must pass, the log building standing
 side by side with the adobe hut and the stone or brick store, with here
@@ -295,19 +295,19 @@ foundations of the edifice already amounted to $1,000,000, a sum equal
 to the entire outlay on the temple at Nauvoo. The block was consecrated
 on the 3d of February, 1853, and the corner-stones laid with imposing
 ceremonies on the 6th of the following April. <span
-id="fr_899"></span>[24](#fn_899) In August 1860, the foundations, which
+id="fr_899"></span>[24](#fn_899.md) In August 1860, the foundations, which
 were sixteen feet deep and of gray granite, had been completed, but no
 further progress had been made. I shall reserve until later a
 description of the building as it now stands. Of the tabernacle which
 occupied the southwest corner of the block, and the bowery immediately
 north of the tabernacle, mention has already been made. <span
-id="fr_900"></span>[25](#fn_900) In the north-west corner, and separated
+id="fr_900"></span>[25](#fn_900.md) In the north-west corner, and separated
 from
 
 <span id="page_583">p. 583</span>
 
 the tabernacle by a high fence, stood the endowment house, <span
-id="fr_901"></span>[26](#fn_901) where, as evil-minded gentiles
+id="fr_901"></span>[26](#fn_901.md) where, as evil-minded gentiles
 declared, human sacrifices were offered. The ceremonies that actually
 took place within its walls have been described elsewhere in this
 volume.
@@ -315,17 +315,17 @@ volume.
     In the blocks adjacent to the tabernacle were the residences of
 Brigham, Heber, Orson Hyde, George A. Smith, Wilford Woodruff, John
 Taylor, and Daniel H. Wells, the first two occupying entire
-blocks. <span id="fr_902"></span>[27](#fn_902) South of temple block was
-the council-house, <span id="fr_903"></span>[28](#fn_903) south of
+blocks. <span id="fr_902"></span>[27](#fn_902.md) South of temple block was
+the council-house, <span id="fr_903"></span>[28](#fn_903.md) south of
 Brigham's dwelling and adjoining that of Wells was the historian's
 office, where the church records were kept, and in the next plat to the
-east was the social hall, <span id="fr_904"></span>[29](#fn_904) where
+east was the social hall, <span id="fr_904"></span>[29](#fn_904.md) where
 the fashion of the city held festivities.
 
     Balls held at the social hall were extremely select, and sometimes a
 little expensive, tickets for the more pretentious fêtes costing ten
 dollars for each couple, and the invitations, which were difficult to
-obtain even at that price, <span id="fr_905"></span>[30](#fn_905) being
+obtain even at that price, <span id="fr_905"></span>[30](#fn_905.md) being
 issued on embossed and bordered
 
 <span id="page_584">p. 584</span>
@@ -337,7 +337,7 @@ apostles, and bishops set the example, the saltations not being in the
 languid gliding pace then fashionable in other cities, but elaborately
 executed steps requiring severe muscular exercise. At eight came supper,
 a substantial repast, with four courses, <span
-id="fr_906"></span>[31](#fn_906) after which dancing was resumed, varied
+id="fr_906"></span>[31](#fn_906.md) after which dancing was resumed, varied
 at intervals with song until four or five o'clock in the morning, when
 the party broke up, the entertainment closing with prayer and
 benediction.
@@ -349,17 +349,17 @@ rich and poor assembled, bringing with them their children, and setting
 their own tables, or ordering dainties from an adjoining kitchen
 provided for that purpose. Here, also, until 1862, when the first
 theatre was built, theatrical entertainments were given in winter, <span
-id="fr_907"></span>[32](#fn_907) and these of no mean order, for among
+id="fr_907"></span>[32](#fn_907.md) and these of no mean order, for among
 the Mormons there was no lack of amateur talent. <span
-id="fr_908"></span>[33](#fn_908) Among those who participated
+id="fr_908"></span>[33](#fn_908.md) Among those who participated
 
 <span id="page_585">p. 585</span>
 
 were several of the wives and daughters of Brigham. <span
-id="fr_909"></span>[34](#fn_909) All the actors attended rehearsal each
+id="fr_909"></span>[34](#fn_909.md) All the actors attended rehearsal each
 night in the week, except on Wednesdays and Saturdays, when the
 performances took place; most of them found their own costumes, and none
-received any fixed remuneration. <span id="fr_910"></span>[35](#fn_910)
+received any fixed remuneration. <span id="fr_910"></span>[35](#fn_910.md)
 
     While the amusements of the people were thus cared for, there was no
 lack of more solid entertainment. All had access to the public library
@@ -368,10 +368,10 @@ the first reading-room, which was supplied with newspapers and magazines
 from all parts of the world. Among the scientific associations may be
 mentioned the Universal Scientific Society, established in 1854, with
 Wilford Woodruff as president, and the Polysophical Society, over which
-Lorenzo Snow presided. <span id="fr_911"></span>[36](#fn_911) The
+Lorenzo Snow presided. <span id="fr_911"></span>[36](#fn_911.md) The
 musical talent of Salt Lake City formed themselves, in 1855, into the
 Deseret Philharmonic Society, and in June of that year a music hall was
-in course of construction. <span id="fr_912"></span>[37](#fn_912) In the
+in course of construction. <span id="fr_912"></span>[37](#fn_912.md) In the
 same
 
 <span id="page_586">p. 586</span>
@@ -392,7 +392,7 @@ of the poor, and by its efforts it prevented the necessity for
 poor-houses, which are still unknown among the latter-day saints, and
 otherwise it rendered good service—by educating orphans, by promoting
 home industries, and by giving tone and character to society through its
-moral and social influence. <span id="fr_913"></span>[38](#fn_913)
+moral and social influence. <span id="fr_913"></span>[38](#fn_913.md)
 
  
 
@@ -418,7 +418,7 @@ could not but observe in those born hereabouts," writes an English
 traveller in 1860, "the noble, regular features, the lofty, thoughtful
 brow, the clear, transparent complexion, the long, silky hair, and,
 greatest charm of all, the soft smile of the American woman when she
-does smile." <span id="fr_914"></span>[39](#fn_914)
+does smile." <span id="fr_914"></span>[39](#fn_914.md)
 
     Much has been said about race deterioration arising
 
@@ -434,28 +434,28 @@ whose highest ambition was satisfied when they could ride through the
 streets, hallooing and shouting, fantastically attired in fringed and
 embroidered buckskin leggings, gaudily colored shirt, and slouched hat,
 and with the orthodox revolver and bowie-knife conspicuously
-displayed. <span id="fr_915"></span>[40](#fn_915) They resembled
+displayed. <span id="fr_915"></span>[40](#fn_915.md) They resembled
 somewhat the cow-boy of the present day; but their presence was barely
 felt amid this staid and order-loving community, <span
-id="fr_916"></span>[41](#fn_916) the forwardness of the second
+id="fr_916"></span>[41](#fn_916.md) the forwardness of the second
 generation of the saints being attributed, not without show of reason,
 to the corrupting influence of the gentiles.
 
     In order to estimate fairly the character of the population of Salt
 Lake City, which numbered in 1860 about 14,000, <span
-id="fr_917"></span>[42](#fn_917) the visitor should attend the bowery or
+id="fr_917"></span>[42](#fn_917.md) the visitor should attend the bowery or
 tabernacle, where according to the season of the year about 3,000 of the
 populace assembled on Sunday. The men appeared, in warm weather, without
 coats and with open vests, but always in decent and cleanly garb, most
 of them being clad in gray tweed, though some of the elders and
 dignitaries wore black broadcloth. <span
-id="fr_918"></span>[43](#fn_918) The women wore silks, woollen stuffs,
+id="fr_918"></span>[43](#fn_918.md) The women wore silks, woollen stuffs,
 
 <span id="page_589">p. 589</span>
 
 or calicoes, as they were able to afford, usually of plain pattern and
 dark color, though a few were dressed in gaudy attire, and with a little
-faded finery. <span id="fr_919"></span>[44](#fn_919) The congregation
+faded finery. <span id="fr_919"></span>[44](#fn_919.md) The congregation
 was seated on long rows of benches opposite the platform, from which
 they were separated by the space allotted to the orchestra, then
 consisting of a violin and bass viol, vocal music being rendered by two
@@ -490,7 +490,7 @@ in that region, being then very considerable. During the following year
 several Mormons entered the valley, John Reese, who arrived there in the
 spring with thirteen wagon-loads of provisions, building the first
 house, known for several years as the Mormon station, on the site of the
-present village of Genoa. <span id="fr_920"></span>[45](#fn_920) Reese
+present village of Genoa. <span id="fr_920"></span>[45](#fn_920.md) Reese
 first came to the valley alone, his nearest neighbor, James Fennimore,
 living in Gold Cañon, some twenty-five miles distant, in a "dug-out," or
 hole scooped out of the bank, the front part covered in this instance
@@ -498,13 +498,13 @@ with rags and strips of canvas, the man being thriftless and a
 dram-drinker. He was nicknamed Virginia, and after him was named the
 city whence more bullion has been shipped in a single year than would
 now replace the floating capital of the states of California and
-Nevada. <span id="fr_921"></span>[46](#fn_921)
+Nevada. <span id="fr_921"></span>[46](#fn_921.md)
 
 <span id="page_591">p. 591</span>
 
     By an act of the Utah legislature, approved January 17, 1854, the
 limits of Carson county were defined, <span
-id="fr_922"></span>[47](#fn_922) and the governor was authorized to
+id="fr_922"></span>[47](#fn_922.md) and the governor was authorized to
 appoint for it a probate judge whose duty it should be to organize the
 county, by dividing it into precincts, holding an election, filling the
 various offices, and locating the county seat. The choice fell on Orson
@@ -530,12 +530,12 @@ which contained several criminal indictments of a serious
 
 <span id="page_592">p. 592</span>
 
-nature, <span id="fr_923"></span>[48](#fn_923) were removed to Salt Lake
+nature, <span id="fr_923"></span>[48](#fn_923.md) were removed to Salt Lake
 City. When news arrived of the approach of the army of Utah, the Carson
 Mormons were ordered, as we have seen, to return to Zion and aid in its
 defence, though a few remained in the valley. In 1859 the gentile
 inhabitants, after several fruitless appeals to congress, formally
-declared their independence, <span id="fr_924"></span>[49](#fn_924) and
+declared their independence, <span id="fr_924"></span>[49](#fn_924.md) and
 demanded admission as a territory. Two years later the request was
 granted, and the territory of Nevada was cut off from Utah, its eastern
 limit being fixed at the thirty-ninth meridian, but extended by act of
@@ -553,16 +553,16 @@ substantial dwellings, saw and grist mills, and surrounded
 
 <span id="page_593">p. 593</span>
 
-with thriving farms; <span id="fr_925"></span>[50](#fn_925) a road was
+with thriving farms; <span id="fr_925"></span>[50](#fn_925.md) a road was
 constructed as far as the timber belt in the neighboring mountains, each
 man working incessantly until it was completed, and all this was
 accomplished without incurring debt, a small balance remaining in the
 county treasury when the settlers were ordered by Brigham to Salt Lake
-City. <span id="fr_926"></span>[51](#fn_926)
+City. <span id="fr_926"></span>[51](#fn_926.md)
 
     Of Elder Samuel Brannan's party which arrived in San Francisco, as
 will be remembered, in the summer of 1846, mention is made in connection
-with my *History of California*. <span id="fr_927"></span>[52](#fn_927)
+with my *History of California*. <span id="fr_927"></span>[52](#fn_927.md)
 During this year, a settlement named New Hope was founded by a portion
 of the company on the north bank of the Stanislaus River, near its
 junction with the San Joaquin, but was abandoned when news was received
@@ -574,7 +574,7 @@ discovery, when they gathered at the mines on Mormon Island. Between
 the remainder cast in their lot with the gentiles, and most of them,
 among whom was their leader, apostatized, though a few afterward joined
 the Mormon communities at San Bernardino and in Arizona. <span
-id="fr_928"></span>[53](#fn_928)
+id="fr_928"></span>[53](#fn_928.md)
 
 <span id="page_594">p. 594</span>
 
@@ -585,7 +585,7 @@ county was organized, and soon became noted for
 
 <span id="img_59400"></span> <span align="CENTER"> [![PRINCIPAL
 SETTLEMENTS IN 1862.](tn/59400.jpg)  
-Click to enlarge](img/59400.jpg)  
+Click to enlarge](img/59400.jpg.md)  
 PRINCIPAL SETTLEMENTS IN 1862.  
 </span>
 
@@ -595,29 +595,29 @@ coal, iron, and mica. Its coal-fields first
 <span id="page_595">p. 595</span>
 
 brought it into prominence, and to aid in their development a short line
-of railroad was built, <span id="fr_929"></span>[54](#fn_929) but
+of railroad was built, <span id="fr_929"></span>[54](#fn_929.md) but
 afterward dismantled and abandoned. Coalville, the present county seat,
-was first settled in 1859. <span id="fr_930"></span>[55](#fn_930) In
+was first settled in 1859. <span id="fr_930"></span>[55](#fn_930.md) In
 1858 the site of the present town of Kamas was occupied as a grazing
 ground by Thomas Rhoads, and was then known as Rhoads Valley. Two years
 later a few families settled there, and in 1862 a ward was organized,
 with William G. Russell as presiding elder. <span
-id="fr_931"></span>[56](#fn_931)
+id="fr_931"></span>[56](#fn_931.md)
 
     About seven miles north-west of Kamas, and on the east bank of the
 Weber, the village of Peoa was founded in 1860 by a party of ten
-settlers. <span id="fr_932"></span>[57](#fn_932)
+settlers. <span id="fr_932"></span>[57](#fn_932.md)
 
     In 1853 Fort Bridger, with its Mexican grant of thirty square miles
 of land, on which stood a few cabins, was sold for $8,000 to the
-Mormons, <span id="fr_933"></span>[58](#fn_933) who during the following
+Mormons, <span id="fr_933"></span>[58](#fn_933.md) who during the following
 year expended an equal sum in improvements. This was the first property
 owned by the saints in Green River county. At Fort Supply, in this
 neighborhood, a settlement was formed about the same time by John
 Nebeker, Isaac Bullock, and about fifty others from Salt Lake and Utah
 counties. In 1862 the first settlement was made in Wasatch county, south
 of Green River and Summit counties, on the site of the present village
-of Wallsburg. <span id="fr_934"></span>[59](#fn_934) Situated for the
+of Wallsburg. <span id="fr_934"></span>[59](#fn_934.md) Situated for the
 most part at an elevation of about seven thousand feet, with a heavy
 snow-fall and prolific of streams, this section of the territory was and
 is yet mainly used for stock-ranges, though in the
@@ -646,7 +646,7 @@ never penetrates, and where the foot of man has never trod. Minerals are
 also abundant, though little utilized at present. During the year 1856 a
 fort was built at Wellsville, the site of the town being laid out in
 1862, when a hundred and fifty families were gathered there. <span
-id="fr_935"></span>[60](#fn_935) Logan City, about six miles north of
+id="fr_935"></span>[60](#fn_935.md) Logan City, about six miles north of
 Wellsville, and the capital of Cache county, was located by Peter
 Maughan in the spring of 1859, the spot being selected on account of its
 rich soil and pasture, and the ample water power afforded by the Logan
@@ -654,15 +654,15 @@ River. The first settlers drew lots for their
 
 <span id="page_597">p. 597</span>
 
-land, <span id="fr_936"></span>[61](#fn_936) and in 1860 the site was
+land, <span id="fr_936"></span>[61](#fn_936.md) and in 1860 the site was
 surveyed, the city being divided into four wards in 1861, and
 incorporated five years later. About five miles to the west of
 Wellsville the settlement of Mendon was commenced in 1857, <span
-id="fr_937"></span>[62](#fn_937) the settlers removing to Wellsville in
+id="fr_937"></span>[62](#fn_937.md) the settlers removing to Wellsville in
 the winter of 1858-59 for protection against Indians, and returning the
 following year in greater number. The first buildings were of logs, with
 roofs and floors of mud, timber being scarce in that neighborhood. <span
-id="fr_938"></span>[63](#fn_938)
+id="fr_938"></span>[63](#fn_938.md)
 
     In 1859 Seth and Robert Langton, Robert and John Thornley, travelled
 northward from Salt Lake City in search of an agricultural site.
@@ -670,24 +670,24 @@ Arriving at Summit creek, they settled within half a mile of the present
 town of Smithfield, Cache county. In November the settlement was
 organized as a ward, with John G. Smith as bishop, and in March 1860 a
 survey was begun. A few weeks later troubles arose with the
-Indians, <span id="fr_939"></span>[64](#fn_939) compelling the settlers
+Indians, <span id="fr_939"></span>[64](#fn_939.md) compelling the settlers
 to build and take refuge in a fort, in which they remained until late in
 the following year. At the close of 1861 there were in operation a
 lumber-mill, a molasses-mill, and a tannery, <span
-id="fr_940"></span>[65](#fn_940) and the town had then been laid out in
+id="fr_940"></span>[65](#fn_940.md) and the town had then been laid out in
 its present form. Other settlements in Cache county were Hyde Park, five
 miles north of Logan, and now on the line of the Utah and northern
 railroad, where, in 1860, sixteen families were gathered; <span
-id="fr_941"></span>[66](#fn_941) Providence, two miles south of Logan,
+id="fr_941"></span>[66](#fn_941.md) Providence, two miles south of Logan,
 
 <span id="page_598">p. 598</span>
 
-where the first settlers <span id="fr_942"></span>[67](#fn_942) took up
+where the first settlers <span id="fr_942"></span>[67](#fn_942.md) took up
 their abode in April 1859; Millville, two miles farther south, located
-in June 1860; <span id="fr_943"></span>[68](#fn_943) Paradise, at the
+in June 1860; <span id="fr_943"></span>[68](#fn_943.md) Paradise, at the
 southern extremity of the valley, containing in 1861 about thirty
-inhabitants, <span id="fr_944"></span>[69](#fn_944) and Hyrum, settled
-in 1860 by about twenty families. <span id="fr_945"></span>[70](#fn_945)
+inhabitants, <span id="fr_944"></span>[69](#fn_944.md) and Hyrum, settled
+in 1860 by about twenty families. <span id="fr_945"></span>[70](#fn_945.md)
 
     Thus far the progress of Mormon colonization in the north, east, and
 west. Toward the south, the first settlement in Beaver county, between
@@ -696,7 +696,7 @@ Howd, James P. Anderson, and Wilson G. Mowers arrived in Beaver Valley,
 commenced to build a log cabin, and made preparations for farming and
 stock-raising. Soon afterward they were joined by others, making in all
 some thirty or forty families, and in the spring of 1858 the site of
-Beaver City was laid out. <span id="fr_946"></span>[71](#fn_946) The
+Beaver City was laid out. <span id="fr_946"></span>[71](#fn_946.md) The
 appearance of the valley was not inviting. Situated at an altitude of
 6,500 feet, frosty and barren, its surface covered in parts with
 sage-brush and its soil everywhere impregnated with alkali, it was at
@@ -715,14 +715,14 @@ ward.
     The principal settlement in Kane county, which lay south of Iron and
 east of Washington county, and at one time included a portion of the
 latter, was Virgin City, founded in 1858, on the upper Virgin
-River. <span id="fr_947"></span>[72](#fn_947) Its site is in a valley
+River. <span id="fr_947"></span>[72](#fn_947.md) Its site is in a valley
 about seven miles in width, and enclosed by mountains, their foothills,
 seamed and broken by the rains, leaving but a narrow margin for
 cultivation on the banks of the stream, covered with a dense growth of
 cotton-woods and an undergrowth of sage and rabbit brush. Five or six
 miles west of Virgin City was the town of Toquerville, established in
 1858 by several families front Cedar City. <span
-id="fr_948"></span>[73](#fn_948)
+id="fr_948"></span>[73](#fn_948.md)
 
     In 1854 Jacob Hamblin and two others were sent as missionaries to
 the Lamanites in the valley of the Virgin and Santa Clara rivers in
@@ -730,7 +730,7 @@ Washington county, with orders to establish a settlement in that
 neighborhood. They found the Indians peaceably disposed, and in a
 measure civilized, many of them being engaged in planting corn, wheat,
 and squashes, but depending mainly for bread on the seeds of wild
-grasses. <span id="fr_949"></span>[74](#fn_949)
+grasses. <span id="fr_949"></span>[74](#fn_949.md)
 
 <span id="page_600">p. 600</span>
 
@@ -744,11 +744,11 @@ Orson Pratt and Erastus Snow, were ordered to proceed to this district,
 and build a city, to be named St George, near the junction of the Virgin
 and Santa Clara rivers in Washington county. In January 1862 a site was
 selected and surveyed, the city incorporated, <span
-id="fr_950"></span>[75](#fn_950) though yet unbuilt, and the people took
+id="fr_950"></span>[75](#fn_950.md) though yet unbuilt, and the people took
 possession of their lots. Before doing so it was decided by unanimous
 vote that the first building erected should be a social hall, to be used
 for educational and other purposes. <span
-id="fr_951"></span>[76](#fn_951) In September Brigham visited the
+id="fr_951"></span>[76](#fn_951.md) In September Brigham visited the
 settlers, and advised them to build, as soon as possible, a substantial,
 commodious, and well-finished meeting-house, or tabernacle, large enough
 to seat at least two thousand persons, and one that would be an ornament
@@ -762,19 +762,19 @@ alkaline soil. Its climate was mild, and, with irrigation, crops of many
 kinds could be raised; but water was scarce, an artesian well sunk in
 1862, at a cost of $5,000, being abandoned as a failure, after attaining
 a depth of more than two hundred feet. <span
-id="fr_952"></span>[77](#fn_952) Notwithstanding these drawbacks, the
+id="fr_952"></span>[77](#fn_952.md) Notwithstanding these drawbacks, the
 city became
 
 <span id="page_601">p. 601</span>
 
 the county seat of Washington, and is to-day the leading town in
-southern Utah. <span id="fr_953"></span>[78](#fn_953)
+southern Utah. <span id="fr_953"></span>[78](#fn_953.md)
 
     Of the counties organized between 1850 and 1852, and the settlements
 founded therein up to the latter date, mention has already been
-made. <span id="fr_954"></span>[79](#fn_954) During the next decade many
+made. <span id="fr_954"></span>[79](#fn_954.md) During the next decade many
 small villages and towns were located in the older counties, <span
-id="fr_955"></span>[80](#fn_955) and I shall describe later
+id="fr_955"></span>[80](#fn_955.md) and I shall describe later
 
 <span id="page_602">p. 602</span>
 
@@ -784,7 +784,7 @@ United States, except in one particular. Throughout the entire
 territory, there was rarely to be seen, except in Salt Lake City, a
 store or a mechanic's sign, traffic being carried on from house to
 house, and the few extraneous wants of the settlers being mainly
-supplied by peddlers. <span id="fr_956"></span>[81](#fn_956)
+supplied by peddlers. <span id="fr_956"></span>[81](#fn_956.md)
 
 <span id="page_603">p. 603</span>
 
@@ -802,10 +802,10 @@ represented, and all that was needful could be obtained for money.
 
 ### Footnotes
 
-<span id="fn_876"></span>[572:1](hou24.htm#fr_876) *Stenhouse's Rocky
+<span id="fn_876"></span>[572:1](hou24.htm#fr_876.md) *Stenhouse's Rocky
 Mountain Saints*, 419-20; *S. F. Alta*, Sept. 29, 1858.
 
-<span id="fn_877"></span>[573:2](hou24.htm#fr_877) Stenhouse says that a
+<span id="fn_877"></span>[573:2](hou24.htm#fr_877.md) Stenhouse says that a
 counterfeit plate was engraved at S. L. City, resembling the one used by
 the quartermaster at Camp Floyd for drafts drawn on the assistant U.S.
 treasurers at New York and St Louis. When the fraud was discovered the
@@ -825,7 +825,7 @@ distillery, afterward becoming express and mail agent. In 1855 he was
 appointed U.S. marshal for Utah, and in 1857 proceeded to Washington,
 returning with the army during that year. *Dotson's Doings*, MS.
 
-<span id="fn_878"></span>[573:3](hou24.htm#fr_878) In a conversation
+<span id="fn_878"></span>[573:3](hou24.htm#fr_878.md) In a conversation
 with Stenhouse, the governor stated that, in case of resistance, the
 wall surrounding Brigham's premises was to be battered down with
 artillery, and the president taken by force to Camp Floyd. So, at least,
@@ -842,7 +842,7 @@ court, though his followers were very unwilling to allow it, as they
 feared a repetition of the Carthage-jail tragedy, but that no
 proceedings were taken against him.
 
-<span id="fn_879"></span>[573:4](hou24.htm#fr_879) A correspondent of
+<span id="fn_879"></span>[573:4](hou24.htm#fr_879.md) A correspondent of
 the *New York Herald*, writing from S. L. City, May 23, 1859, says that
 the governor notified Wells to hold the militia in readiness to resist
 the troops. A copy of his letter will be found in *Tullidge's Hist.
@@ -864,20 +864,20 @@ gave us a good deal of trouble, and anxiety as well, to prepare against
 it, as it occurred at a time when we were putting in our crops.'
 *Narr*., MS., 634.
 
-<span id="fn_880"></span>[574:5](hou24.htm#fr_880) Soon after a
+<span id="fn_880"></span>[574:5](hou24.htm#fr_880.md) Soon after a
 mass-meeting of gentiles was held at Camp Floyd, at which the judges
 took a prominent part. An address was drawn up, rehearsing all the
 crimes imputed to Mormons, stating that they were still disloyal to the
 government, and censuring the president for his interference.
 
-<span id="fn_881"></span>[574:6](hou24.htm#fr_881) Their successors are
+<span id="fn_881"></span>[574:6](hou24.htm#fr_881.md) Their successors are
 mentioned in the next chapter. Cradlebaugh, refusing to recognize the
 right of the president to remove him, continued in office for a short
 time, but finding himself unsupported by the government, left Utah and
 settled in Nevada, whence he was twice sent as delegate to congress.
 *Waite's The Mormon Prophet*, 75-6.
 
-<span id="fn_882"></span>[574:7](hou24.htm#fr_882) *Stenhouse's Rocky
+<span id="fn_882"></span>[574:7](hou24.htm#fr_882.md) *Stenhouse's Rocky
 Mountain Saints*, 413; *Tullidge's Hist. S. L. City*, 233. <span
 id="page_575">p. 575</span> Both these authorities claim that Cumming
 was aided by Col Kane, who about this time delivered a lecture before
@@ -887,7 +887,7 @@ the very man for the trying position. Stenhouse was present at the
 lecture as reporter for the *New York Herald*, and notices of it were
 widely published throughout the country.
 
-<span id="fn_883"></span>[575:8](hou24.htm#fr_883) Before his departure
+<span id="fn_883"></span>[575:8](hou24.htm#fr_883.md) Before his departure
 the citizens desired to show their respect by some public demonstration,
 but this he declined, slipping away so quietly that his departure was
 not known until it was published in the *Deseret News* of May 22d. His
@@ -902,7 +902,7 @@ the Mexican war he was attached to the staff of Gen. Scott, and was
 afterward appointed by government to visit several Indian tribes in the
 far west. *Waite's The Mormon Prophet*, 75.
 
-<span id="fn_884"></span>[575:9](hou24.htm#fr_884) Through his business
+<span id="fn_884"></span>[575:9](hou24.htm#fr_884.md) Through his business
 agent, H. B. Clawson. As Horace Greeley remarks in his *Overland Jour*.,
 254, the live-stock would have brought much better prices had it been
 driven to California, or even to Fort Leavenworth. He states that, in
@@ -913,7 +913,7 @@ observations, apart from his account of an interview with Brigham,
 already mentioned, contain little of historical value. His reception at
 S. L. City is described in the *Deseret News*, July 20, 1859.
 
-<span id="fn_885"></span>[576:10](hou24.htm#fr_885) For descriptions of
+<span id="fn_885"></span>[576:10](hou24.htm#fr_885.md) For descriptions of
 public festivities, between 1855 and 1865, see *Deseret News*, Jan. 4,
 July 18, 1855; July 9, 30, Aug. 6, 1856; July 8, 15, 22, 1857; July 11,
 Aug. 1, 1860; July 10, 1861; July 9, 30, 1862; July 8, 1863; July 6, 20,
@@ -926,7 +926,7 @@ remarks Tullidge, 'brought Stephen S. Harding to the full realization of
 the fact that, though he was governor of Utah, Brigham Young was
 governor of the Mormon people.'
 
-<span id="fn_886"></span>[576:11](hou24.htm#fr_886) I have already
+<span id="fn_886"></span>[576:11](hou24.htm#fr_886.md) I have already
 mentioned that the census report for 1860 gives the population at only a
 little over 40,000, and stated my reasons for supposing this to be an
 error. Beadle says that a judge who travelled extensively throughout the
@@ -936,10 +936,10 @@ Utah*, 483. Bowles, *Our New West*, about the same date, at 100,000 to
 125,000. See also *S. F. Herald*, Jan. 30, 1861; *Sac. Union*, Feb. 11,
 1860. In the census of 1870 the population is given at 86,786.
 
-<span id="fn_887"></span>[576:12](hou24.htm#fr_887) *U.S. Census Rept*,
+<span id="fn_887"></span>[576:12](hou24.htm#fr_887.md) *U.S. Census Rept*,
 for 1860, li. 43. The total number of deaths reported is 374.
 
-<span id="fn_888"></span>[576:13](hou24.htm#fr_888) For the year ending
+<span id="fn_888"></span>[576:13](hou24.htm#fr_888.md) For the year ending
 June 1, 1850, it was about 22 per 1,000, the rate <span id="page_577">p.
 577</span> being then greater on account of the hardships and exposure
 incidental to new settlements. The following extracts from the sanitary
@@ -958,15 +958,15 @@ Mormonism received no addition from outside sources, these influences
 continuing, it is not difficult to see that it would eventually die
 out.'
 
-<span id="fn_889"></span>[577:14](hou24.htm#fr_889) From cholera
+<span id="fn_889"></span>[577:14](hou24.htm#fr_889.md) From cholera
 infantum 4, croup 23, infantile 57, measles 1, scarlatina 2, teething
 11. *Id*. 43.
 
-<span id="fn_890"></span>[577:15](hou24.htm#fr_890) After the railroad
+<span id="fn_890"></span>[577:15](hou24.htm#fr_890.md) After the railroad
 connected the territory with the Altantic and Pacific states, suicides
 became not infrequent.
 
-<span id="fn_891"></span>[577:16](hou24.htm#fr_891) In *Compend. Ninth
+<span id="fn_891"></span>[577:16](hou24.htm#fr_891.md) In *Compend. Ninth
 Census*, 533, the table of pauperism and crime shows only one person
 receiving support as a pauper, and eight criminals. At the time of
 Burton's visit, in 1860, there were only six prisoners in the
@@ -974,16 +974,16 @@ penitentiary at S. L. City, of whom two were Indians. *City of the
 Saints*, 329. In the *Deseret News* of June 18, 1856, it is stated,
 however, that there were many beggars among the women and children.
 
-<span id="fn_892"></span>[577:17](hou24.htm#fr_892) Incorporated by act
+<span id="fn_892"></span>[577:17](hou24.htm#fr_892.md) Incorporated by act
 approved Jan. 17, 1856, 'with a view of promoting the arts of domestic
 industry, and to encourage the production of articles from the native
 elements in this territory.' A copy of it will be found in *Utah Acts
 Legisl*. (ed. 1866), 111.
 
-<span id="fn_893"></span>[578:18](hou24.htm#fr_893) For list of premiums
+<span id="fn_893"></span>[578:18](hou24.htm#fr_893.md) For list of premiums
 and diplomas, see *Burton's City of the Saints*, 384-7.
 
-<span id="fn_894"></span>[578:19](hou24.htm#fr_894) From the list of
+<span id="fn_894"></span>[578:19](hou24.htm#fr_894.md) From the list of
 prices-current at the tithing-office in 1860, we learn that cereals were
 rated in Salt Lake City at $1.50 per bushel, butcher's meat at 3 to 12½
 cents per pound, chickens and ducks at 10 to 25 cents each, eggs at 18
@@ -993,7 +993,7 @@ pound; but sugar worth in New York about 6 cents per pound cost in Utah
 coffee from 40 to 60 cents per pound, or at least fivefold their cost in
 the Atlantic states.
 
-<span id="fn_895"></span>[579:20](hou24.htm#fr_895) William Chandless,
+<span id="fn_895"></span>[579:20](hou24.htm#fr_895.md) William Chandless,
 who visited Salt Lake City in the winter of 1855-6, states that, if one
 wanted to sell anything, he could get nothing for it, because of the
 scarcity of money; while if an offer were made to buy the same article
@@ -1005,11 +1005,11 @@ of furniture for wheat and flour; George B. Wallace that he will give
 five gallons of molasses per cord for wood; and Felt and Allen that they
 pay cash and store goods for wheat delivered at the Jordan mills.
 
-<span id="fn_896"></span>[579:21](hou24.htm#fr_896) In 1860 there were
+<span id="fn_896"></span>[579:21](hou24.htm#fr_896.md) In 1860 there were
 three milliner's stores, thirteen dry-goods and two variety stores.
 *Burton's City of the Saints*, 277-8.
 
-<span id="fn_897"></span>[581:22](hou24.htm#fr_897) *Woodruff's
+<span id="fn_897"></span>[581:22](hou24.htm#fr_897.md) *Woodruff's
 Journal*, MS.; *Richards’ Hist. Incidents of Utah*, MS., 28-91 *Wells’
 Narr.*, MS., 60; *Chandless, Visit to S. L*., 153; *Sloan's Utah
 Gazetteer*, 25. The wall was built in 1853. Chandless remarks that for
@@ -1020,7 +1020,7 @@ only because the people wanted work. It was of mud mixed with hay and
 gravel; in 1860 it had already begun to crumble, and in 1883 there were
 few traces of it remaining.
 
-<span id="fn_898"></span>[582:23](hou24.htm#fr_898) Burton relates that
+<span id="fn_898"></span>[582:23](hou24.htm#fr_898.md) Burton relates that
 at the time of his visit, in Aug. 1860, the Salt Lake House was kept by
 a Mr Townsend, a Mormon convert from Maine, who had been expelled from
 Nauvoo, where he sold his house, land, and furniture, for $50. *City of
@@ -1029,7 +1029,7 @@ The bill, which is curiously worded, is given in full in *Id*., 537.
 Among its items are '14 Bottle Beer 600' (cents), '2 Bottles Branday
 450.'
 
-<span id="fn_899"></span>[582:24](hou24.htm#fr_899) The original plans
+<span id="fn_899"></span>[582:24](hou24.htm#fr_899.md) The original plans
 will be found in the *Millennial Star*, xvi. 635, and *Linforth's Route
 from Liverpool*, 109-10. Those given by Truman O. Angell, the architect,
 in the *Deseret News*, Aug. 17, 1854, differ somewhat from the above,
@@ -1041,7 +1041,7 @@ Contributor*, iii. 79; *Deseret News*, Feb. 19, Apr. 16. 1853. Seven
 thousand four hundred and seventy-eight tons of rock were used for the
 foundation. *Richards’ Incidents in Utah Hist*., MS., 81.
 
-<span id="fn_900"></span>[582:25](hou24.htm#fr_900) Burton describes the
+<span id="fn_900"></span>[582:25](hou24.htm#fr_900.md) Burton describes the
 tabernacle, in 1860, as an adobe building, capable <span
 id="page_583">p. 583</span> of accommodating 2,000 to 3,000 persons, the
 interior of which was spanned by an elliptical arch. Over the entrances
@@ -1050,11 +1050,11 @@ yellow beams, like a Somali's wig, or the symbol of the Persian empire.'
 *City of the Saints*, 270. A few years later the tabernacle was
 enlarged, and had a seating capacity of 7,000. *Utah Notes*, MS., 2.
 
-<span id="fn_901"></span>[583:26](hou24.htm#fr_901) Cuts of the
+<span id="fn_901"></span>[583:26](hou24.htm#fr_901.md) Cuts of the
 tabernacle and endowment house will be found in *City of the Saints*,
 facing p. 271.
 
-<span id="fn_902"></span>[583:27](hou24.htm#fr_902) The residences of
+<span id="fn_902"></span>[583:27](hou24.htm#fr_902.md) The residences of
 Young, Kimball, and Wells were on Main St, properly East Temple St,
 which runs past the temple block. Remy says that one of Brigham's houses
 was 80 x 40 ft, built of granite and other kinds of stones, with long
@@ -1065,13 +1065,13 @@ the court-house. *Jour. to S. L. City*, i. 193-4. In *Id*., i. 193-200;
 *Schiel, Reise durch Felsengebirge*, 100-2, are descriptions of S. L.
 City about this date.
 
-<span id="fn_903"></span>[583:28](hou24.htm#fr_903) This building, which
+<span id="fn_903"></span>[583:28](hou24.htm#fr_903.md) This building, which
 was begun in 1849, and haa already been described, was afterward
 destroyed by fire. *Nebeker's Early Justice*, MS., 3. Except for a small
 structure used as a post-office, this was the first public building
 erected in S. L. City. See also *Wells’ Narr.*, MS., 42.
 
-<span id="fn_904"></span>[583:29](hou24.htm#fr_904) The opening of the
+<span id="fn_904"></span>[583:29](hou24.htm#fr_904.md) The opening of the
 social hall is described in the *Deseret News*, Jan. 22, 1853. Among
 other buildings worthy of note were the arsenal, built on the bench
 north of the city, the penitentiary in the south-eastern suburb, and the
@@ -1079,11 +1079,11 @@ hall of seventies on the 'states road.' *Linforth's Route from
 Liverpool*, 110; *Burton's City of the Saints*, 279-80. The court-house
 was yet unfinished. *Atlantic Monthly*, iii. 574.
 
-<span id="fn_905"></span>[583:30](hou24.htm#fr_905) They were issued on
+<span id="fn_905"></span>[583:30](hou24.htm#fr_905.md) They were issued on
 special occasions only for 75 or 80 guests, including a few of the more
 prominent gentiles.
 
-<span id="fn_906"></span>[584:31](hou24.htm#fr_906) Copies of the card
+<span id="fn_906"></span>[584:31](hou24.htm#fr_906.md) Copies of the card
 of invitation and the ménu at a 'territorial and civil ball' held at the
 social hall, Feb. 7, 1860, will be found in *Burton's City of the
 Saints*, 231-2. Among the dishes are bear, beaver-tails, slaw, mountain,
@@ -1091,7 +1091,7 @@ pioneer, and snowballs. What the names all signify I am unable to state.
 Otherwise the bill of fare contains a large and choice variety of
 viands.
 
-<span id="fn_907"></span>[584:32](hou24.htm#fr_907) *Cooke's Theatr. and
+<span id="fn_907"></span>[584:32](hou24.htm#fr_907.md) *Cooke's Theatr. and
 Soc. Affairs in Utah*, MS., 9. In summer they were held at the bowery.
 The S. L. theatre, or as it was usually termed the opera-house, was
 dedicated March 6th of this year. *Sloan's Utah Gazetteer*, 1884, p. 28.
@@ -1101,7 +1101,7 @@ its interior resembled the opera-house at New York, having seats for
 not ungraceful structure of stone, brick, and stucco. *Atlantic
 Monthly*, Apr. 1864, p. 490.
 
-<span id="fn_908"></span>[584:33](hou24.htm#fr_908) Among others Burton
+<span id="fn_908"></span>[584:33](hou24.htm#fr_908.md) Among others Burton
 mentions H. B. Clawson, B. Snow, and W. C. Dunbar. During his stay the
 'Lady or Lyons' was performed. *City of the Saints*, 280. See also
 *Deseret News*, March 2, 1864; *Busch, Gesch. Morm*., 311-12, 330; *The
@@ -1116,7 +1116,7 @@ third-rate hotel for a quarter of a <span id="page_585">p. 585</span>
 century…The afterpiece was, on the contrary, very well performed.'
 *Visit to S. Lake*, 224.
 
-<span id="fn_909"></span>[585:34](hou24.htm#fr_909) Three of Brigham's
+<span id="fn_909"></span>[585:34](hou24.htm#fr_909.md) Three of Brigham's
 daughters, Alice, Emily, and Zina, were on the stage. Hepworth Dixon,
 who was well acquainted with Alice, the youngest wife of Elder Clawson,
 says that she remarked to him one day at dinner, 'I am not myself very
@@ -1125,7 +1125,7 @@ act sometimes, as he does not think it right to ask any poor man's child
 to do anything which his own children would object to do.' *New
 America*, 144.
 
-<span id="fn_910"></span>[585:35](hou24.htm#fr_910) *Cooke's Theatr. and
+<span id="fn_910"></span>[585:35](hou24.htm#fr_910.md) *Cooke's Theatr. and
 Soc. Affairs in Utah*, MS., 9-10; *Stenhouse's Tell It All*, 380-1. Mrs
 Cooke states that the performers often remained at rehearsal until 12 or
 1 o'clock, and that after a hard day's work. Occasionally a benefit was
@@ -1142,20 +1142,20 @@ remain only until the following spring, but was converted to Mormonism.
 For 16 years she was employed as a teacher, among her pupils in Zion
 being the children of Brigham Young.
 
-<span id="fn_911"></span>[585:36](hou24.htm#fr_911) There was also a
+<span id="fn_911"></span>[585:36](hou24.htm#fr_911.md) There was also a
 horticultural society, organized in connection with the American
 Pomological Society, and the Deseret Typographical Association formed
 for the advancement of their art. *Linforth's Route from Liverpool*,
 111.
 
-<span id="fn_912"></span>[585:37](hou24.htm#fr_912) By the members of
+<span id="fn_912"></span>[585:37](hou24.htm#fr_912.md) By the members of
 Capt. Ballo's band. *Deseret News*, June 27, 1855.
 
-<span id="fn_913"></span>[586:38](hou24.htm#fr_913) In 1880 this society
+<span id="fn_913"></span>[586:38](hou24.htm#fr_913.md) In 1880 this society
 had nearly 300 branches. *Snow's Brief Sketch of Organizations*, MS.,
 1-2.
 
-<span id="fn_914"></span>[587:39](hou24.htm#fr_914) *Burton's City of
+<span id="fn_914"></span>[587:39](hou24.htm#fr_914.md) *Burton's City of
 the Saints*, 278. Burton attributes this improvement in the race to
 climate. In amusing contrast with Burton's remarks are those of Surgeon
 Bartholow, who in his sanitary report says: 'It is a curious fact that
@@ -1204,25 +1204,25 @@ slept, and where he dined, and what he had for dinner, he occasionally
 finds time to tell us something about the condition of the settlements
 through which he journeyed.
 
-<span id="fn_915"></span>[588:40](hou24.htm#fr_915) *Jennings’ Mat.
+<span id="fn_915"></span>[588:40](hou24.htm#fr_915.md) *Jennings’ Mat.
 Progr. of Utah*, MS., 3-4. Mr W. Jennings, ex-mayor of S. L. City, who
 supplied me with the above MS. in 1884, says that this condition of
 affairs came to an end when the railroad reached Utah.
 
-<span id="fn_916"></span>[588:41](hou24.htm#fr_916) 'There were no lamps
+<span id="fn_916"></span>[588:41](hou24.htm#fr_916.md) 'There were no lamps
 in any but Main Street, yet the city is as safe as St James Square,
 London. There are perhaps not more than 25 or 35 constables or policemen
 in the whole place.' *Burton's City of the Saints*, 273. 'The few
 policemen that have been on duty during the summer were discharged on
 Monday last.' *Deseret News*, Sept. 12, 1860.
 
-<span id="fn_917"></span>[588:42](hou24.htm#fr_917) In 1863 Brigham
+<span id="fn_917"></span>[588:42](hou24.htm#fr_917.md) In 1863 Brigham
 stated its population at 16,000. *Atlantic Monthly*, Apr. 1864, p. 492;
 Burton, in 1860, 9,000. *City of the Saints*, 284; Bowles, in 1865,
 25,000 to 30,000. *Our New West*, 227. The last two are wide of the
 mark.
 
-<span id="fn_918"></span>[588:43](hou24.htm#fr_918) Before this date
+<span id="fn_918"></span>[588:43](hou24.htm#fr_918.md) Before this date
 Brigham attempted to lead the fashion, appearing in a yellow slouched
 hat, much too large for his head, green frock-coat, pants <span
 id="page_XXX">p. XXX</span> large and loose, and white socks and
@@ -1249,18 +1249,18 @@ good mimic and has much of the old New English quaint humor, raised his
 right arm, and gave, to the amusement of the congregation, a droll
 imitation of Anne Lee's followers.' *City of the Saints*, 317.
 
-<span id="fn_919"></span>[589:44](hou24.htm#fr_919) For many years after
+<span id="fn_919"></span>[589:44](hou24.htm#fr_919.md) For many years after
 their arrival in the valley the women dressed in homespun linseys, as
 there was nothing else to wear. At one time Brigham, in order to
 discourage extravagance, decreed that the men must not dance with women
 who were dressed in other than homespun garments. *Jennings, Mat.
 Progress*, MS., 1.
 
-<span id="fn_920"></span>[590:45](hou24.htm#fr_920) It served as hotel
+<span id="fn_920"></span>[590:45](hou24.htm#fr_920.md) It served as hotel
 and store, and was a two-story log building, 50 x 30 ft. *Reese's Mormon
 Station*, MS.; *Taylor's Rem*., MS.
 
-<span id="fn_921"></span>[590:46](hou24.htm#fr_921) Reese states that
+<span id="fn_921"></span>[590:46](hou24.htm#fr_921.md) Reese states that
 Virginia had a flume in the cañon for gold-washing, and that Comstock,
 who came to Carson Valley in 1856, bought him out, the latter living but
 a short time afterward. *Id*., 5. In *Jennings’ Carson Valley*, MS., 3,
@@ -1276,12 +1276,12 @@ persons named Lee, and others named Condie and Gibson. *Early Hist.
 Carson Valley*, MS., 1. The place was first known as 'the Mormon
 station,' Genoa being laid out in 1856. *Id*., 3.
 
-<span id="fn_922"></span>[591:47](hou24.htm#fr_922) It was bounded on
+<span id="fn_922"></span>[591:47](hou24.htm#fr_922.md) It was bounded on
 the north by Deseret co., east by the 118th meridian, south by the
 boundary line of Utah, and west by California. *Utah Acts Legisl*. (ed.
 1855), 261.
 
-<span id="fn_923"></span>[592:48](hou24.htm#fr_923) A letter of James B.
+<span id="fn_923"></span>[592:48](hou24.htm#fr_923.md) A letter of James B.
 Crane, dated Washington, Jan. 17, 1859, and of which copies will be
 found in *Waite's The Mormon Prophet*, 31-5, and *Tucker's Mormonism*,
 226-9, gives a detailed account of the Carson-valley troubles. The
@@ -1299,7 +1299,7 @@ escaped by bribing his captors. The rest were released. *Van Sickles'
 Utah Desperadoes*, MS.; *Placerville Tri-weekly Register*, June 24,
 1858; *Popular Tribunals*, this series.
 
-<span id="fn_924"></span>[592:49](hou24.htm#fr_924) The declaration
+<span id="fn_924"></span>[592:49](hou24.htm#fr_924.md) The declaration
 contains a number of charges against the Mormons, which will be found in
 *Remy's Jour. to G. S. L. City*, i. 493-4. On May 6, 1856, joint
 resolutions of the California legislature were read in the U.S. senate,
@@ -1309,22 +1309,22 @@ to California, and had asked the coöperation of the California
 legislature, that the latter body acquiesced, and urged the passage of a
 law to that effect, *Cong. Globe*, 1855-6, 1089.
 
-<span id="fn_925"></span>[593:50](hou24.htm#fr_925) Elder Rich, who
+<span id="fn_925"></span>[593:50](hou24.htm#fr_925.md) Elder Rich, who
 arrived at S. L. City from San Bernardino in April 1852, reported 1,800
 acres in grain, and about 1,000 in vegetables. *Deseret News*, May l,
 1852.
 
-<span id="fn_926"></span>[593:51](hou24.htm#fr_926) *Shepherd's
+<span id="fn_926"></span>[593:51](hou24.htm#fr_926.md) *Shepherd's
 Colonizing of San Bernardino*, MS. See also letter of Amasa Lyman, in
 *Millennial Star*, xiv. 491-2; and extract from *N. Y. Herald*, in
 *Id*., xv. 61; *Richards’ Hist. Incidents of Utah*, MS., 23; *S. F.
 Herald*, Aug. 21, 1852; *Hughes*, in *Hastings' Or. and Cal*., 96; *Utah
 Scraps*, 11.
 
-<span id="fn_927"></span>[593:52](hou24.htm#fr_927) Vol. v., 544-54. On
+<span id="fn_927"></span>[593:52](hou24.htm#fr_927.md) Vol. v., 544-54. On
 pp. 543-4 (note 35) is a list of the members.
 
-<span id="fn_928"></span>[593:53](hou24.htm#fr_928) Frisbie states that
+<span id="fn_928"></span>[593:53](hou24.htm#fr_928.md) Frisbie states that
 after the gold discovery the Mormons, many of whom had now become
 wealthy, refused to pay tithes, whereupon Brannan appealed to their
 sense of duty, but finding them fixed in their resolve, frankly told
@@ -1346,32 +1346,32 @@ commenced the issue in San Francisco of a weekly paper named the
 *Western Standard*. It was discontinued in Sept. 1857, when the brethren
 were recalled to Utah, *Id*., 14.
 
-<span id="fn_929"></span>[595:54](hou24.htm#fr_929) The Summit County
+<span id="fn_929"></span>[595:54](hou24.htm#fr_929.md) The Summit County
 Railroad.
 
-<span id="fn_930"></span>[595:55](hou24.htm#fr_930) By H. B. Wild, A. B.
+<span id="fn_930"></span>[595:55](hou24.htm#fr_930.md) By H. B. Wild, A. B.
 Williams, W. H. Smith, and others. It was incorporated in 1867. *Sloan's
 Utah Gazetteer*, 1884, 149. Summit co. was so named from the fact that
 it included the summit of the Wasatch range. *Richards’ Utah Misc*.,
 MS., 1.
 
-<span id="fn_931"></span>[595:56](hou24.htm#fr_931) The settlers lived
+<span id="fn_931"></span>[595:56](hou24.htm#fr_931.md) The settlers lived
 in a fort until 1870, when a city survey was made, and they moved out to
 their lots.
 
-<span id="fn_932"></span>[595:57](hou24.htm#fr_932) The first house was
+<span id="fn_932"></span>[595:57](hou24.htm#fr_932.md) The first house was
 built by Henry Barnum and Jacob M. Truman. *Id*., 150.
 
-<span id="fn_933"></span>[595:58](hou24.htm#fr_933) The deeds are now in
+<span id="fn_933"></span>[595:58](hou24.htm#fr_933.md) The deeds are now in
 the possession of the church officials at S. L. City. *Trans. Wyom.
 Acad. Sciences*, 1882, pp. 81-2. Miles Goodyear, the owner, was married
 to a sister of the Indian chief Walker. *Young's Early Exper*., MS., 5.
 
-<span id="fn_934"></span>[595:59](hou24.htm#fr_934) By Wm Wall, E. Garr,
+<span id="fn_934"></span>[595:59](hou24.htm#fr_934.md) By Wm Wall, E. Garr,
 and Jas Laird. *Sloan's Utah Gazetteer*, 1884, p. 158. In 1866 Wallsburg
 was organized as a ward.
 
-<span id="fn_935"></span>[596:60](hou24.htm#fr_935) Cache co. was so
+<span id="fn_935"></span>[596:60](hou24.htm#fr_935.md) Cache co. was so
 called from the fact that certain trappers or emigrants cached some
 goods there as they passed through; Wellsville was named for Gen. Wells.
 *Richards’ Utah Miscell*., MS., 4. The first house was built at
@@ -1380,41 +1380,41 @@ Francis Gunnell, and Wm H. Maughan, and the first grist-mill by Dan.
 Hill & Co. A school-house, which served also for meeting-house, was
 constructed in 1857. *William H. Maughan*, in *Utah Sketches*, MS., 33.
 
-<span id="fn_936"></span>[597:61](hou24.htm#fr_936) The first house was
+<span id="fn_936"></span>[597:61](hou24.htm#fr_936.md) The first house was
 built by W. B. Preston and John and Aaron Thatcher, who have since been
 the prominent men in Cache Valley. *Sloan's Utah Gazetteer*, 1884, p.
 332. Hezekiah, the father of the Thatchers, had made money at the mines
 in California, and was then esteemed the richest man in Utah, next to
 Brigham. In 1879 his son Moses was ordained an apostle.
 
-<span id="fn_937"></span>[597:62](hou24.htm#fr_937) The first settlers
+<span id="fn_937"></span>[597:62](hou24.htm#fr_937.md) The first settlers
 were Wm Gardener and Alex. and Robt Hill. Walter Paul, in *Utah
 Sketches*, 41.
 
-<span id="fn_938"></span>[597:63](hou24.htm#fr_938) The first stone
+<span id="fn_938"></span>[597:63](hou24.htm#fr_938.md) The first stone
 dwelling was begun in 1866 by Jos. Baker; others soon followed. *Id*.,
 41-2.
 
-<span id="fn_939"></span>[597:64](hou24.htm#fr_939) Caused by their
+<span id="fn_939"></span>[597:64](hou24.htm#fr_939.md) Caused by their
 stealing a horse. In a fight which ensued, Ira Merrill of Smithfield and
 an Indian chief were killed. Another of the settlers was wounded.
 
-<span id="fn_940"></span>[597:65](hou24.htm#fr_940) In 1861 a
+<span id="fn_940"></span>[597:65](hou24.htm#fr_940.md) In 1861 a
 lumber-mill was completed, and in 1864 a grist-mill. *Francis Sharp*, in
 *Id*., 117.
 
-<span id="fn_941"></span>[597:66](hou24.htm#fr_941) At this date they
+<span id="fn_941"></span>[597:66](hou24.htm#fr_941.md) At this date they
 lived in a fort. The town site was laid out in 1864. *Robt Daines*, in
 *Id*., 120.
 
-<span id="fn_942"></span>[598:67](hou24.htm#fr_942) Ira Rich, John F.
+<span id="fn_942"></span>[598:67](hou24.htm#fr_942.md) Ira Rich, John F.
 Maddison, and five others. *Sloan's Utah Gazetteer*, 1884, p. 128.
 
-<span id="fn_943"></span>[598:68](hou24.htm#fr_943) By Ezra T. Benson,
+<span id="fn_943"></span>[598:68](hou24.htm#fr_943.md) By Ezra T. Benson,
 P. Maughan, and several others. George O. Pitkin, the present bishop,
 was appionted March 12, 1862. *Ibid*.
 
-<span id="fn_944"></span>[598:69](hou24.htm#fr_944) A. M. Montierth from
+<span id="fn_944"></span>[598:69](hou24.htm#fr_944.md) A. M. Montierth from
 Box Elder co. was the first settler in Paradise. H. C. Jackson built the
 first saw-mill in 1860, and the first grist-mill in 1864, in which
 latter year the town site was laid out under the direction of Ezra T.
@@ -1422,7 +1422,7 @@ Benson. A log meeting-house was built in 1861. In 1868 the settlement
 was removed three miles father to the north, for better protection
 against Indians. *Orson Smith*, in *Utah Sketches*, MS., 1-2.
 
-<span id="fn_945"></span>[598:70](hou24.htm#fr_945) Those of Alva
+<span id="fn_945"></span>[598:70](hou24.htm#fr_945.md) Those of Alva
 Benson, Ira Allen, and others. It is related that the settlers brought
 the waters of Little Bear River to their farms in 21 working-days, by
 means of a canal eight feet wide, which afterward furnished the water
@@ -1431,7 +1431,7 @@ water, and their tools consisted only of a few old shovels and spades.
 Some of them dwelt for several years in holes or cellars dug in the
 ground.
 
-<span id="fn_946"></span>[598:71](hou24.htm#fr_946) In the winter of
+<span id="fn_946"></span>[598:71](hou24.htm#fr_946.md) In the winter of
 1856-7 the first log school-house was built, but gave place in 1862 to a
 brick building known as the Beaver Institute. In 1867, also, the first
 saw-mill was erected on the site now occupied by the coöperative
@@ -1439,18 +1439,18 @@ woollen-mills. *Jas H. Glines*, in *Utah Sketches*, MS., 18. Beaver city
 and co. were so named from the beaver dams found there. *Richards’ Utah
 Misc*., MS., 7.
 
-<span id="fn_947"></span>[599:72](hou24.htm#fr_947) The city was laid
+<span id="fn_947"></span>[599:72](hou24.htm#fr_947.md) The city was laid
 out by Nephi Johnson and others. The first school was organized in 1860,
 and the first meeting-house built in 1861. John Parker, in *Id*., 8.
 Kane co. was so named after Col Thos L. Kane. *Richards’ Utah Misc*.,
 MS., 7.
 
-<span id="fn_948"></span>[599:73](hou24.htm#fr_948) Among them was the
+<span id="fn_948"></span>[599:73](hou24.htm#fr_948.md) Among them was the
 family of Phillip Klingensmith, of Mountain-Meadows fame. John Steele,
 in *Utah Sketches*, MS., 9. Mr Steele went to Southern Utah in 1850, in
 company with Geo. A. Smith.
 
-<span id="fn_949"></span>[599:74](hou24.htm#fr_949) On account of the
+<span id="fn_949"></span>[599:74](hou24.htm#fr_949.md) On account of the
 warm climate, it was supposed that cotton might be raised in the valley
 of the Santa Clara. About one quart of cotton-seed was planted in the
 spring of 1855, yielding enough to produce 30 yards of cloth. The
@@ -1464,21 +1464,21 @@ to be unprofitable. *Id*., 70-1; *Jennings’ Mat. Progress of Utah*, MS.,
 that was needed for its population. *Harrison's Crit. Notes on Utah*,
 MS., 25.
 
-<span id="fn_950"></span>[600:75](hou24.htm#fr_950) By act approved Jan.
+<span id="fn_950"></span>[600:75](hou24.htm#fr_950.md) By act approved Jan.
 17, 1862. See *Utah Acts Legisl*. (ed. 1866), pp. 166-7. It was named St
 George after Pres. Geo. A. Smith. *Richards’ Utah Misc*., MS., 4.
 
-<span id="fn_951"></span>[600:76](hou24.htm#fr_951) The foundation stone
+<span id="fn_951"></span>[600:76](hou24.htm#fr_951.md) The foundation stone
 was laid March 22, 1862, and when completed, at a cost of more than
 $6,000, it was named St George Hall. James G. Bleak, in *Utah Sketches*,
 MS., 73-4.
 
-<span id="fn_952"></span>[600:77](hou24.htm#fr_952) The people farmed on
+<span id="fn_952"></span>[600:77](hou24.htm#fr_952.md) The people farmed on
 the joint enclosure system, the first enclosed field, named the St
 George, being irrigated by the 'Virgin ditch,' the cost of which between
 Dec. 1861 and Aug. 1866 was $26,611.59. *Id*., 76.
 
-<span id="fn_953"></span>[601:78](hou24.htm#fr_953) Other settlements in
+<span id="fn_953"></span>[601:78](hou24.htm#fr_953.md) Other settlements in
 Washington co. were Santa Clara, on the river of that name, and about
 five miles north-west of St George, settled in 1853 by Jacob Hamblin and
 a company of missionaries; Gunlock, founded by W. Hamblin on the Santa
@@ -1493,10 +1493,10 @@ and others. *Sloan's Utah Gazetteer*, 1884, 161-2. In this and other
 counties, settled between 1852 and 1862, were numerous small
 settlements, some of which will be mentioned later.
 
-<span id="fn_954"></span>[601:79](hou24.htm#fr_954) See chaps xiii. and
+<span id="fn_954"></span>[601:79](hou24.htm#fr_954.md) See chaps xiii. and
 xvii., this vol.
 
-<span id="fn_955"></span>[601:80](hou24.htm#fr_955) In 1852 Call's Fort,
+<span id="fn_955"></span>[601:80](hou24.htm#fr_955.md) In 1852 Call's Fort,
 in Box Elder co., now on the line of the Utah and Northern railway, was
 built by Anson Call and two others. In 1883 it contained about 35
 families. Deseret, near the centre of Millard co., now having a station
@@ -1537,7 +1537,7 @@ miles east of Ogden, in the same year, by Jefferson Hunt and others.
 the left bank of the Grand River, in the Elk Mountain region, by Alfred
 N. Billings. *Richards’ Incidents in Utah Hist*., MS., 80.
 
-<span id="fn_956"></span>[602:81](hou24.htm#fr_956) Among other works
+<span id="fn_956"></span>[602:81](hou24.htm#fr_956.md) Among other works
 consulted in this chapter are the *Route from Liverpool to Great Salt
 Lake Valley: Illustrated with Steel Engravings and Wood-cuts from
 Sketches made by Frederick Piercy, together with a Geographical and
@@ -1597,4 +1597,4 @@ Mormons*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. Progress of Events. 1861-1869.](hou25)
+[Next: Chapter XXII. Progress of Events. 1861-1869.](hou25.md)

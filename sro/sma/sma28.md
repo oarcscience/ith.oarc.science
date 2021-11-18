@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma27)  [Next](sma29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma27)  [Next](sma29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ refuge. If he did not appear to answer the charm
 <span id="page_361">p. 361</span>
 
 within six weeks and three days, he was again summoned by four persons.
-Six weeks was the least [term](errata.htm#23) set for appearing to this
+Six weeks was the least [term](errata.htm#23.md) set for appearing to this
 summons, and it was requisite that a piece of imperial coin should be
 given with it. Should he still neglect appearing, he was summoned for
 the third and last time by six schöppen and a count, and the term set
@@ -120,7 +120,7 @@ sitting. This, however, is all mere fiction; for the place where the
 court was to be held was expressly mentioned in every summons.
 
 The Fehm-courts (like the German courts in general) were holden on a
-Tuesday <span id="fr_124"></span>[\*](#fn_124). If on this day the
+Tuesday <span id="fr_124"></span>[\*](#fn_124.md). If on this day the
 accused, or his attorney, appeared at the appointed place, and no court
 was holden, the summons abated or lost its force; the same was the case
 when admission was refused to him and his suite, a circumstance which
@@ -376,7 +376,7 @@ emperor from his sentence, or from that of the chapter.
 There were, besides the right of appeal, other means of averting the
 execution of the sentence of a Fehm-court. Such was what was called
 *replacing in the former state*, of which, however, it was only the
-initiated who could avail himself. [Sentence](errata.htm#24) having been
+initiated who could avail himself. [Sentence](errata.htm#24.md) having been
 passed on a person who had not appeared, he might voluntarily and
 personally repair to
 
@@ -396,9 +396,9 @@ been violated. Some other means shall presently be noticed.
 
 ### Footnotes
 
-<span id="fn_124"></span>[363:\*](sma28.htm#fr_124) In German,
+<span id="fn_124"></span>[363:\*](sma28.htm#fr_124.md) In German,
 *Dienstag*, probably *Dinstag*, i.e. *Court-day*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](sma29)
+[Next: Chapter IV](sma29.md)

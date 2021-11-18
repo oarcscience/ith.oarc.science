@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Sexuality](../../sex/index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](lca00)
+[Contents](#contents)    [Start Reading](lca00.md)
 
 ------------------------------------------------------------------------
 
@@ -38,35 +38,35 @@ which are still relevant.
 Carpenter is primarily known as a pioneering writer on gay liberation.
 While the focus of this work is not primarily on gay issues, Carpenter
 wrote several other books which dealt with this subject, including
-[Intermediate Types Among Primitive Folk](../itp/index) and [Ioläus, An
-Anthology of Friendship](../iol/index), both also available at this
+[Intermediate Types Among Primitive Folk](../itp/index.md) and [Ioläus, An
+Anthology of Friendship](../iol/index.md), both also available at this
 website. This particular book appears for the first time on the Internet
 here at Intangible Textual Heritage.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](lca00)  
-[Dedication](lca01)  
-[Contents](lca02)  
-[The Sex-Passion](lca03)  
-[Man, the Ungrown](lca04)  
-[Woman, the Serf](lca05)  
-[Woman, In Freedom](lca06)  
-[Marriage, A Retrospect](lca07)  
-[Marriage, A Forecast](lca08)  
-[The Intermediate Sex](lca09)  
-[The Free Society](lca10)  
+<span id="contents"></span> [Title Page](lca00.md)  
+[Dedication](lca01.md)  
+[Contents](lca02.md)  
+[The Sex-Passion](lca03.md)  
+[Man, the Ungrown](lca04.md)  
+[Woman, the Serf](lca05.md)  
+[Woman, In Freedom](lca06.md)  
+[Marriage, A Retrospect](lca07.md)  
+[Marriage, A Forecast](lca08.md)  
+[The Intermediate Sex](lca09.md)  
+[The Free Society](lca10.md)  
 <span id="section_000"></span>
 
 ### Remarks and Notes
 
-[Some Remarks on the Early Star and Sex Worships](lca11)  
-[Note on the Primitive Group-Marriage](lca12)  
-[On Jealousy](lca13)  
-[On the Family](lca14)  
-[On Preventive Checks to Population](lca15)  
+[Some Remarks on the Early Star and Sex Worships](lca11.md)  
+[Note on the Primitive Group-Marriage](lca12.md)  
+[On Jealousy](lca13.md)  
+[On the Family](lca14.md)  
+[On Preventive Checks to Population](lca15.md)  
 <span id="section_001"></span>
 
 ### Appendix
 
-[Works by the Same Author](lca16)  
+[Works by the Same Author](lca16.md)  

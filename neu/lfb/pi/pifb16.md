@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb15)  [Next](pifb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb15)  [Next](pifb17.md) 
 
 </div>
 
@@ -435,6 +435,6 @@ ever seen Hans, the Mermaid's son.
 
 ------------------------------------------------------------------------
 
-[Next: Peter Bull](pifb17)
+[Next: Peter Bull](pifb17.md)
 
 </div>

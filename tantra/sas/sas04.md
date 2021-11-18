@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas03)  [Next](sas05)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas03)  [Next](sas05.md)  
 
 ------------------------------------------------------------------------
 
@@ -1266,4 +1266,4 @@ the Tantrik ritual.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Five: The Tantras and the Religion of the Shaktas](sas05)
+Next: [Chapter Five: The Tantras and the Religion of the Shaktas](sas05.md)

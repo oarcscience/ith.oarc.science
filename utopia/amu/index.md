@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](amu00)
+[Contents](#contents)    [Start Reading](amu00.md)
 
 ------------------------------------------------------------------------
 
@@ -31,19 +31,19 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte)
 |---------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
-<span id="contents"></span> [Title Page](amu00)  
-[Contents](amu01)  
-[A Note To The Reader](amu02)  
-[The Owner Of The Voice](amu03)  
-[Chapter One](amu04)  
-[Chapter Two](amu05)  
-[Chapter Three](amu06)  
-[Chapter Four](amu07)  
-[Chapter Five](amu08)  
-[Chapter Six](amu09)  
-[Chapter Seven](amu10)  
-[Chapter Eight](amu11)  
-[Chapter Nine](amu12)  
-[Chapter Ten](amu13)  
-[Chapter Eleven](amu14)  
-[Appendix](amu15)  
+<span id="contents"></span> [Title Page](amu00.md)  
+[Contents](amu01.md)  
+[A Note To The Reader](amu02.md)  
+[The Owner Of The Voice](amu03.md)  
+[Chapter One](amu04.md)  
+[Chapter Two](amu05.md)  
+[Chapter Three](amu06.md)  
+[Chapter Four](amu07.md)  
+[Chapter Five](amu08.md)  
+[Chapter Six](amu09.md)  
+[Chapter Seven](amu10.md)  
+[Chapter Eight](amu11.md)  
+[Chapter Nine](amu12.md)  
+[Chapter Ten](amu13.md)  
+[Chapter Eleven](amu14.md)  
+[Appendix](amu15.md)  

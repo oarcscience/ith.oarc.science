@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps30)  [Next](rps32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps30)  [Next](rps32.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ S.J.W.K.A.Q.O.K.O.K.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 30. The Soldiers at Camp and Police Dept.](rps32)
+[Next: Chapter 30. The Soldiers at Camp and Police Dept.](rps32.md)

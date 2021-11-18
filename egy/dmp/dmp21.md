@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp20)  [Next](dmp22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp20)  [Next](dmp22.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ ceased asking him as to that which you desire, you send them away.
 
 ------------------------------------------------------------------------
 
-[Next: Col. XIX](dmp22)
+[Next: Col. XIX](dmp22.md)

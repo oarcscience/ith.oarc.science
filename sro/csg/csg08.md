@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](csg07)  [Next](csg09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](csg07)  [Next](csg09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ J’expliquai par quel art l’âme aux flancs d’une mère,
 Fait sa maison, l’emporte, et comment un pépin  
 Mis contre un grain de blé, sous l’humide poussière,  
 L’un plante et l’autre cep, sont le pain et le vin. <span
-id="fr_60"></span>[1](#fn_60)
+id="fr_60"></span>[1](#fn_60.md)
 
 Rien n’était, Dieu voulut, rien devint quelque chose,  
 J’en doutais, je cherchai sur quoi l’univers pose,  
@@ -44,7 +44,7 @@ Rien gardait l’équilibre et servait de soutien.
 Enfin, avec le poids de l’éloge et du blâme,  
 Je pesai l’éternel, il appela mon âme,  
 Je mourus, j’adorai, je ne savais plus rien. <span
-id="fr_61"></span>[2](#fn_61)
+id="fr_61"></span>[2](#fn_61.md)
 
 </div>
 
@@ -84,10 +84,10 @@ Brunswick, Baron de Gleichen, Russworm, von Wöllner, Lavater, Ludwig
 Prince of Hesse, Ross-Kampf, Stork, Thaden von Wächter. . . . The French
 were honourably represented by *St. Germain*, St. Martin,
 Touzet-Duchanteau, Etteila, Mesmer, Dutrousset, d’Hérecourt, and
-Cagliostro." <span id="fr_62"></span>[1](#fn_62)
+Cagliostro." <span id="fr_62"></span>[1](#fn_62.md)
 
 The same category of names, but with more detail, is given by N.
-Deschamps. <span id="fr_63"></span>[2](#fn_63) We find Deschamps
+Deschamps. <span id="fr_63"></span>[2](#fn_63.md) We find Deschamps
 speaking of M. de St. Germain as one of the Templars. An account is also
 given of the initiation of Cagliostro by the Comte de St. Germain, and
 the ritual used on this occasion is said to have been that of the
@@ -104,7 +104,7 @@ Count de
 
 <span class="contnote">\[paragraph continues\]</span> Gebelin, and all
 the really mystic students of the time were in this Order. The Abbé
-Barruel <span id="fr_64"></span>[1](#fn_64) indicted the whole body,
+Barruel <span id="fr_64"></span>[1](#fn_64.md) indicted the whole body,
 individually and collectively, in terms so violent and on charges so
 unfounded that even non-Masons and anti-Mystics protested. He accused M.
 de St. Germain and his followers of being Jacobins, of fomenting and
@@ -120,7 +120,7 @@ and, where the law fails, by all right-minded people. Such is the
 procedure adopted by M. Barruel against a Society that used to meet at
 Ermenonville after the death of Jean Jacques Rousseau, under the
 direction of the Charlatan St. Germain." <span
-id="fr_65"></span>[2](#fn_65)
+id="fr_65"></span>[2](#fn_65.md)
 
 This view appears to be well corroborated, and
 
@@ -134,7 +134,7 @@ Another writer says: "At this time Catholic Lodges were formed in Paris;
 their protectors were the Marquises de Girardin and de Bouillé. Several
 Lodges were held at Ermenonville, the property of the first-named. Their
 chief aim was 'd’établir une communication entre Dieu et l’homme par le
-moyen des êtres intermédiaires.'" <span id="fr_66"></span>[1](#fn_66)
+moyen des êtres intermédiaires.'" <span id="fr_66"></span>[1](#fn_66.md)
 
 Now both the Marquis de Girardin and the Marquis de Bouillé were staunch
 Royalists and Catholics; it was the latter, moreover, who aided the
@@ -145,7 +145,7 @@ Barruel and Migne had any veracious foundation, since the establishing
 of "Catholic Lodges" certainly does not appear atheistical in tendency,
 nor the close friendship of true Royalists alarmingly revolutionary.
 According to the well-known writer Éliphas Lévi, <span
-id="fr_67"></span>[2](#fn_67) M. de St. Germain was a Catholic in
+id="fr_67"></span>[2](#fn_67.md) M. de St. Germain was a Catholic in
 outward religious observance. Although he was the founder of the Order
 of St. Joachim in Bohemia, he separated himself from
 
@@ -238,7 +238,7 @@ effects have been legally sealed, and it has been found necessary as
 well to his eventual intestate heirs, as until now nothing has been
 ascertained concerning a left will . . . . etc. . . . Therefore all
 creditors are called upon to come forward with their claims on October
-14th." <span id="fr_68"></span>[1](#fn_68)
+14th." <span id="fr_68"></span>[1](#fn_68.md)
 
 This passage shows definitely that M. de St. Germain was well known
 under the name of Welldown (it is written in very many different ways).
@@ -251,7 +251,7 @@ Elector of Hesse-Cassel; the Count de Châlons, however, on returning
 from his Venetian embassy in 1788, told me of his having spoken to the
 Comte de Saint-Germain in the Place Saint Marc the day before he left
 Venice to go on an embassy to Portugal. I saw him again on one other
-occasion." <span id="fr_69"></span>[2](#fn_69)
+occasion." <span id="fr_69"></span>[2](#fn_69.md)
 
 And *again from a Masonic source* we get the following statement:--
 
@@ -261,7 +261,7 @@ And *again from a Masonic source* we get the following statement:--
 <span id="page_137">p. 137</span>
 
 find St. Germain included with St. Martin and many others." <span
-id="fr_70"></span>[1](#fn_70)
+id="fr_70"></span>[1](#fn_70.md)
 
 And again from a thoroughly Catholic source: the late Librarian of the
 Great Ambrosiana Library at Milan says:--
@@ -271,7 +271,7 @@ sects of the Rosicrucians, the Necromantists, the Cabalists, the
 Illuminati, the Humanitarians, there was held a great Congress at
 Wilhelmsbad, then in the Lodge of the "Amici riuniti" there also was
 Cagliostro, with St. Martin, Mesmer and Saint-Germain." <span
-id="fr_71"></span>[2](#fn_71)
+id="fr_71"></span>[2](#fn_71.md)
 
 Evidence there is on both sides, and "Church records" are not always
 infallible; how many a *cause célèbre* has arisen from a fictitious
@@ -282,46 +282,46 @@ this was the best way to accomplish his wish.
 
 ### Footnotes
 
-<span id="fn_60"></span>[128:1](csg08.htm#fr_60) Referring to occult
+<span id="fn_60"></span>[128:1](csg08.htm#fr_60.md) Referring to occult
 embryology.
 
-<span id="fn_61"></span>[128:2](csg08.htm#fr_61) *Poëmes Philosophiques
+<span id="fn_61"></span>[128:2](csg08.htm#fr_61.md) *Poëmes Philosophiques
 sur l’Homme*. Chez Mercier. Paris, 1795.
 
-<span id="fn_62"></span>[130:1](csg08.htm#fr_62) *Magazin der
+<span id="fn_62"></span>[130:1](csg08.htm#fr_62.md) *Magazin der
 Beweisführer für Verurtheilung des Freimaurer-Ordens*, i., p. 137; von
 Dr. E. E. ECKERT, Leipzig, 1857.
 
-<span id="fn_63"></span>[130:2](csg08.htm#fr_63) *Les Sociétés Secrètes
+<span id="fn_63"></span>[130:2](csg08.htm#fr_63.md) *Les Sociétés Secrètes
 et la Société, ou Philosophie de l’Histoire Contemporaine*, ii., p. 121.
 Paris, 1881.
 
-<span id="fn_64"></span>[131:1](csg08.htm#fr_64) *Mémoires sur
+<span id="fn_64"></span>[131:1](csg08.htm#fr_64.md) *Mémoires sur
 l’Histoire du Jacobinisme*, ii., p. 554. Paris, 1797.
 
-<span id="fn_65"></span>[131:2](csg08.htm#fr_65) *De l’Influence
+<span id="fn_65"></span>[131:2](csg08.htm#fr_65.md) *De l’Influence
 attribuée aux Philosophes, aux Franc-maçons et aux Illuminés, sur la
 Révolution de France*, p. 154. Tübingen, 1801.
 
-<span id="fn_66"></span>[132:1](csg08.htm#fr_66) *Der Signatstern*, v.,
+<span id="fn_66"></span>[132:1](csg08.htm#fr_66.md) *Der Signatstern*, v.,
 art. 19. Berlin, 1809.
 
-<span id="fn_67"></span>[132:2](csg08.htm#fr_67) *Histoire de la Haute
+<span id="fn_67"></span>[132:2](csg08.htm#fr_67.md) *Histoire de la Haute
 Magie*, pp. 419, 420. Paris, 1860.
 
-<span id="fn_68"></span>[136:1](csg08.htm#fr_68) BOBÉ (Louis), Johan
+<span id="fn_68"></span>[136:1](csg08.htm#fr_68) BOBÉ (Louis.md), Johan
 Caspar Lavater's Rejse til Danmark i Sommeren 1793, viii., p. 156.
 Copenhagen, 1898.
 
-<span id="fn_69"></span>[136:2](csg08.htm#fr_69) ADHÉMAR, *op. cit.*,
+<span id="fn_69"></span>[136:2](csg08.htm#fr_69.md) ADHÉMAR, *op. cit.*,
 1., p. 229.
 
-<span id="fn_70"></span>[137:1](csg08.htm#fr_70) *Freimaurer
+<span id="fn_70"></span>[137:1](csg08.htm#fr_70.md) *Freimaurer
 Brüderschaft in Frankreich*, Latomia, Vol. ii., p. 9.
 
-<span id="fn_71"></span>[137:2](csg08.htm#fr_71) CANTÙ CESARE, *Gli
+<span id="fn_71"></span>[137:2](csg08.htm#fr_71.md) CANTÙ CESARE, *Gli
 Eretici d’Italia*. Turin, 1867, Vol. iii., Disc. lii., p. x, 402.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Masonic Work and Austrian Traditions](csg09)
+[Next: Chapter VIII. Masonic Work and Austrian Traditions](csg09.md)

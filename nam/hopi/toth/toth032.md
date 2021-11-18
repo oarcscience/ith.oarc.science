@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth031)  [Next](toth033) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth031)  [Next](toth033.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 29. A JOURNEY TO THE SKELETON HOUSE. <span id="fr_78"></span>[1](#fn_76)
+## 29. A JOURNEY TO THE SKELETON HOUSE. <span id="fr_78"></span>[1](#fn_76.md)
 
 Halíksai! In Shongópavi the people were living first, and there a young
 man was often sitting at the edge of the village looking at the
@@ -155,7 +155,7 @@ were submitted to these punishments for a certain length of time, when
 they were relieved of them and then lived with the other people there.
 At another place in the Skeleton house he saw the chiefs who had been
 good here in this world and had made a good road for other people. They
-had taken their típonis <span id="fr_79"></span>[1](#fn_77) with them
+had taken their típonis <span id="fr_79"></span>[1](#fn_77.md) with them
 and set them up there, and when the people here in the villages have
 their ceremonies and smoke during the ceremonies, this smoke goes down
 into the other world to the típonis or mothers and from there rises up
@@ -258,10 +258,10 @@ and live there strong. Do not think about these things any more."
 
 ### Footnotes
 
-<span id="fn_76"></span>[114:1](toth032.htm#fr_78) Told by Sikáhpiki
+<span id="fn_76"></span>[114:1](toth032.htm#fr_78.md) Told by Sikáhpiki
 (Shupaúlavi).
 
-<span id="fn_77"></span>[117:1](toth032.htm#fr_79) The típoni is the
+<span id="fn_77"></span>[117:1](toth032.htm#fr_79.md) The típoni is the
 palladium of the priest, and usually consists of an ear of corn to which
 are wrapped feathers of different bird, pieces of turquoise and shells,
 etc., and into which are sometimes placed different objects held sacred
@@ -269,4 +269,4 @@ by the priest.
 
 ------------------------------------------------------------------------
 
-[Next: 30. Skeleton Woman and the Hunter](toth033)
+[Next: 30. Skeleton Woman and the Hunter](toth033.md)

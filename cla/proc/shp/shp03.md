@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Procopius](../index)  [Index](index)  [Previous](shp02)  [Next](shp04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Procopius](../index)  [Index](index)  [Previous](shp02)  [Next](shp04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ Belisarius, and then the depravity of Justinian and Theodora.
 ------------------------------------------------------------------------
 
 [Next: I. How The Great General Belisarius Was Hoodwinked By His Wife,
-Whose Lover Became A Monk](shp04)
+Whose Lover Became A Monk](shp04.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit18)  [Next](bit20) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit18)  [Next](bit20.md) 
 
 ------------------------------------------------------------------------
 
@@ -1202,4 +1202,4 @@ I have found nothing at all tending to confirm the statement.\]
 ------------------------------------------------------------------------
 
 [Next: Chapter XVII. Description of Various Tables used for Astrological
-Purposes](bit20)
+Purposes](bit20.md)

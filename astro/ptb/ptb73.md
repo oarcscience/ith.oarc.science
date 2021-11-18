@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb72)  [Next](ptb74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb72)  [Next](ptb74.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,10 +48,10 @@ to adapt, on the contrary, to each separate age such circumstances as
 seem, by due observation of the periods, to be suitable and appropriate
 thereto.
 
-The mode of consideration <span id="fr_282"></span>[1](#fn_282)
+The mode of consideration <span id="fr_282"></span>[1](#fn_282.md)
 applicable to human nature is universally one and the same; and it is
 analogous to the arrangement of the seven planetary orbs <span
-id="fr_283"></span>[2](#fn_283) It, therefore, duly commences with the
+id="fr_283"></span>[2](#fn_283.md) It, therefore, duly commences with the
 first age of human life, and the first sphere next above the earth, that
 of the Moon; and it terminates with the final age of man, and the last
 of the planetary spheres, which is that of Saturn; and, in fact, it
@@ -117,7 +117,7 @@ life. For example, prorogation made from the ascendant is to be applied
 to events affecting the body, and to travelling, or change of residence;
 that from the part of Fortune, to incidents affecting the substance or
 wealth; that from the Moon, to actions of the mind, and to
-communion <span id="fr_284"></span>[1](#fn_284) and cohabitation; that
+communion <span id="fr_284"></span>[1](#fn_284.md) and cohabitation; that
 from the Sun, to dignities and glory; and that from the mid-heaven, to
 other particular circumstances of life, such as employment, friendship,
 and the possession of children. So that thus, at one and the same time
@@ -145,7 +145,7 @@ The prorogatory places must, therefore, be separately distinguished in
 the mode before pointed out; and the planets meeting the prorogations
 must again be all taken into consideration: not only those which may be
 anæretic (as in the case of the duration of life), nor those only which
-may be configurated bodily, <span id="fr_285"></span>[1](#fn_285) or in
+may be configurated bodily, <span id="fr_285"></span>[1](#fn_285.md) or in
 opposition or quartile, but also those in trine or sextile. And, first,
 the times in each prorogation will be governed by the planet occupying
 or configurated with the actual prorogatory degree itself: if, however,
@@ -153,7 +153,7 @@ there be found no planet thus constituted, the nearest preceding planet
 will govern the times until another, which may be in aspect to the
 degree following in the order of the signs, shall take them; and this
 one, again, will do the same until the next in succession shall take
-them. <span id="fr_286"></span>[2](#fn_286) The like rule obtains with
+them. <span id="fr_286"></span>[2](#fn_286.md) The like rule obtains with
 respect to any other planets received into dominion, and with respect to
 those in occupation of the terms.
 
@@ -163,18 +163,18 @@ but, in prorogation, from the mid-heaven, to the times of culmination;
 and, in other prorogations, they will be in proportion to the
 ascensions, or descensions, or culminations, and will depend on their
 proximity to the angles; as has been already said in treating of the
-duration of life. <span id="fr_287"></span>[3](#fn_287)
+duration of life. <span id="fr_287"></span>[3](#fn_287.md)
 
 The arbiters of general times are to be determined by the foregoing
 method; but arbiters of annual periods as follows: viz. after the number
 of years which have elapsed since the birth has been ascertained, the
 amount is to be projected from each place of prorogation, in the
 succession of the signs, at the rate of one sign for a year, <span
-id="fr_288"></span>[4](#fn_288) and the lord
+id="fr_288"></span>[4](#fn_288.md) and the lord
 
 <span id="page_141">p. 141</span>
 
-of the last sign <span id="fr_289"></span>[1](#fn_289) is to be assumed
+of the last sign <span id="fr_289"></span>[1](#fn_289.md) is to be assumed
 as arbiter. And, with regard to periods reckoned by months, the same
 rule is to be observed: for in this case also, the number of the month,
 as counted from the month of the nativity, is to be projected from such
@@ -182,7 +182,7 @@ places as possess the dominion of the year, in the proportion of
 twenty-eight days per sign. So, likewise, in the case of periods
 reckoned by days, the number of the day, counted from the day of birth,
 must be projected from the monthly places of dominion, allowing for each
-sign two days and a third. <span id="fr_290"></span>[2](#fn_290)
+sign two days and a third. <span id="fr_290"></span>[2](#fn_290.md)
 
 It is, however, necessary to notice the ingresses made on places
 allotted to different periods; for they take effect in no small degree
@@ -195,7 +195,7 @@ chiefly paramount over the events; and that, to their influence, the
 arbiters of particular periods (each of whom acting by its own proper
 nature) present either co-operation or obstruction; and that the
 ingresses also operate on events, by increasing or diminishing their
-force and extent. <span id="fr_291"></span>[3](#fn_291)
+force and extent. <span id="fr_291"></span>[3](#fn_291.md)
 
 The general characteristic property, and the duration of the period,
 will be indicated by the place of prorogation, as also by the lord of
@@ -213,7 +213,7 @@ strongly evident, is shown
 
 by the relative positions of the annual and monthly signs towards the
 places wherein the causes exist, and also by the ingresses of the
-planets. <span id="fr_292"></span>[1](#fn_292)
+planets. <span id="fr_292"></span>[1](#fn_292.md)
 
 The mode in which the Sun and Moon may be disposed, in reference to the
 signs relating to annual and monthly periods, is also indicative. For
@@ -227,7 +227,7 @@ quartile, nor in opposition, but otherwise configurated, their influence
 then will not be equally malefic.
 
 Should it happen that the same planets may be lords of the times, <span
-id="fr_293"></span>[2](#fn_293) as well as of the ingresses, the effect
+id="fr_293"></span>[2](#fn_293.md) as well as of the ingresses, the effect
 will be extreme and unalloyed, if of a favourable nature; and more
 particularly unmitigated, if evil. And should the said planets be not
 only lords of the times, but likewise hold dominion from the date of the
@@ -260,7 +260,7 @@ THE END
 
 ### Footnotes
 
-<span id="fn_281"></span>[137:1](ptb72.htm#fr_281) On this chapter
+<span id="fn_281"></span>[137:1](ptb72.htm#fr_281.md) On this chapter
 Whalley makes the following annotations: "One direction, how malevolent
 soever, rarely kills; and, in most nativities, there is required a train
 of malevolent directions to concur to death: where several malevolent
@@ -282,20 +282,20 @@ deaths, the genethliacal positions of the lights are to be observed, and
 how the malefics affect them, and \[*how they*\] are also concerned by
 directions in the quality or death." See also Chap. XIV, Book II.
 
-<span id="fn_282"></span>[138:1](ptb73.htm#fr_282) With respect to the
+<span id="fn_282"></span>[138:1](ptb73.htm#fr_282.md) With respect to the
 periodical divisions of time.
 
-<span id="fn_283"></span>[138:2](ptb73.htm#fr_283) It will, of course,
+<span id="fn_283"></span>[138:2](ptb73.htm#fr_283.md) It will, of course,
 be remembered, that the Sun, in the Ptolemaic astronomy, is counted as a
 planetary orb.
 
-<span id="fn_284"></span>[139:1](ptb73.htm#fr_284) The Latin copy of
+<span id="fn_284"></span>[139:1](ptb73.htm#fr_284.md) The Latin copy of
 Basle, 1541, says, "to marriages."
 
-<span id="fn_285"></span>[140:1](ptb73.htm#fr_285) "*Bodily*," or in
+<span id="fn_285"></span>[140:1](ptb73.htm#fr_285.md) "*Bodily*," or in
 conjunction.
 
-<span id="fn_286"></span>[140:2](ptb73.htm#fr_286) On this passage,
+<span id="fn_286"></span>[140:2](ptb73.htm#fr_286.md) On this passage,
 Whalley remarks, "we are to observe in direction, that the star in exact
 ray with the prorogator shall be ruler until the prorogator meets
 another ray; that then the planet whose ray it is shall take the
@@ -305,10 +305,10 @@ for ruler of the time, till another planet's ray comes in by direction.
 And the lord of the term, in which the direction falls, must be
 considered as a co-partner in this dominion."
 
-<span id="fn_287"></span>[140:3](ptb73.htm#fr_287) *Vide* Chap. XIV,
+<span id="fn_287"></span>[140:3](ptb73.htm#fr_287.md) *Vide* Chap. XIV,
 Book 3.
 
-<span id="fn_288"></span>[140:4](ptb73.htm#fr_288) The Greek is simply
+<span id="fn_288"></span>[140:4](ptb73.htm#fr_288.md) The Greek is simply
 as εισ τα επομενα κατα ξωδιον; but the context proves that the entire
 meaning must be as now given, although the Latin translation of Perugio
 renders it "one year to each degree." Whalley explains that by annual
@@ -322,11 +322,11 @@ reach. For example, if a prorogator at birth <span id="page_141">p.
 but the first six months are ruled by Mercury, and the last six by the
 Moon and Jupiter; and so on.
 
-<span id="fn_289"></span>[141:1](ptb73.htm#fr_289) The Latin translation
+<span id="fn_289"></span>[141:1](ptb73.htm#fr_289.md) The Latin translation
 of Basle, 1541, says, "the lord of that sign in which the number shall
 terminate."
 
-<span id="fn_290"></span>[141:2](ptb73.htm#fr_290) Whalley says here,
+<span id="fn_290"></span>[141:2](ptb73.htm#fr_290.md) Whalley says here,
 "let a sign be added for each month to the sign of the year. So, in the
 example before proposed, the last 15° of Gemini, and the first 15° of
 Cancer, shall serve for the first month: the last 15° of Cancer and the
@@ -339,13 +339,13 @@ be understood of the places of secondary directions; and that when he
 speaks of the menstrual, he hints at the places of progressions."
 (Cooper's Translation, pp. 25 and 57.)
 
-<span id="fn_291"></span>[141:3](ptb73.htm#fr_291) Placidus says, that
+<span id="fn_291"></span>[141:3](ptb73.htm#fr_291.md) Placidus says, that
 "active ingresses, if they be similar, to the pre-ordained effects,
 cause them to influence; if dissimilar, they either diminish or retard;
 as Ptolemy has it in the last Chapter of Book IV." (Cooper's
 Translation, p. 27.)
 
-<span id="fn_292"></span>[142:1](ptb73.htm#fr_292) Placidus observes,
+<span id="fn_292"></span>[142:1](ptb73.htm#fr_292.md) Placidus observes,
 that "the primary directions of the significators to their promittors,
 and the lords of the terms, Ptolemy calls the General Arbiters of Times,
 because they pre-ordain the general times of their effects; which, as
@@ -371,9 +371,9 @@ birth, has arrived at that degree and minute. The number of days
 indicate as many years; every two hours over, reckon a month." (*Ibid*.,
 p. 55.)
 
-<span id="fn_293"></span>[142:2](ptb73.htm#fr_293) Whether general or
+<span id="fn_293"></span>[142:2](ptb73.htm#fr_293.md) Whether general or
 annual.
 
 ------------------------------------------------------------------------
 
-[Next: No. I. Almagest; Book VIII, Chap. IV](ptb74)
+[Next: No. I. Almagest; Book VIII, Chap. IV](ptb74.md)

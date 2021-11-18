@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj33)  [Next](atfj35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj33)  [Next](atfj35.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_37"></span> <span align="CENTER"> [![37. Yoda Emon Finds
 Himself on a Whale's Back](tn/37.jpg)  
-Click to enlarge](img/37.jpg)  
+Click to enlarge](img/37.jpg.md)  
 37. Yoda Emon Finds Himself on a Whale's Back  
 </span>
 
@@ -37,7 +37,7 @@ Some hundred and seventy-two years ago, when the 'Hoen' period began,
 the shrine of Atsuta at Nagoya was burned down. For some reason this
 calamity was said at the time to have happened because the head
 shrine-watcher, Yoda Emon, had startled one of the gods. <span
-id="fr_36"></span>[1](#fn_36)
+id="fr_36"></span>[1](#fn_36.md)
 
 Well, at any rate the holy shrine was burned down, and the caretaker was
 exiled to Oshima Island, in Idzu
@@ -175,19 +175,19 @@ caught whales carrying babies. (Translated by Mr. Ando.)
 
 ### Footnotes
 
-<span id="fn_36"></span>[196:1](atfj34.htm#fr_36) The gods principally
+<span id="fn_36"></span>[196:1](atfj34.htm#fr_36.md) The gods principally
 worshipped at Atsuta are the Sun Goddess Amateras, her brother
 Susa-no-o, Prince Yamato-take, his wife Miyazu-hime, and her brother
 Take-ino-tane; but the object most venerated is the sword called
 'Kusa-nagi no Tsurugi,' one of the three principal antique objects which
 form the Imperial Regalia of Japan, and of which I have previously told
 a story or two, notably that of 'Yamato-dake no Mikoto' ([p.
-56](atfj10.htm#page_56) *et seq*.).
+56](atfj10.htm#page_56) *et seq*..md).
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XXXIII. The Holy Cherry Tree of Musubi-no-Kami Temple](atfj35)
+[Next: XXXIII. The Holy Cherry Tree of Musubi-no-Kami Temple](atfj35.md)
 
 </div>

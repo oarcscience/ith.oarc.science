@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal107)  [Next](njal109) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal107)  [Next](njal109.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ Next spring was an early spring, and men are busy sowing their corn.
 
 ------------------------------------------------------------------------
 
-[Next: 109. Of Mord And Njal's Sons](njal109)
+[Next: 109. Of Mord And Njal's Sons](njal109.md)

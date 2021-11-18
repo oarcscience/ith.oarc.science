@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi267)  [Next](mtsi269) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi267)  [Next](mtsi269.md) 
 
 ------------------------------------------------------------------------
 
-### 3. THE CANNIBAL'S SEVEN SONS <span id="fr_71"></span>[2](#fn_70) (20)
+### 3. THE CANNIBAL'S SEVEN SONS <span id="fr_71"></span>[2](#fn_70) (20.md)
 
 There was a man eater who had seven sons. He used to hunt and kill
 beaver, hang them up to dry and eat them by himself. His boys said to
@@ -79,8 +79,8 @@ westward, the son beating upon the chief's drum as they went.
 
 ### Footnotes
 
-<span id="fn_70"></span>[218:2](mtsi268.htm#fr_71) An old Natchez story.
+<span id="fn_70"></span>[218:2](mtsi268.htm#fr_71.md) An old Natchez story.
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Cannibal Woman](mtsi269)
+[Next: 4. The Cannibal Woman](mtsi269.md)

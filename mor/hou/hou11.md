@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou10)  [Next](hou12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou10)  [Next](hou12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -33,12 +33,12 @@ preparing to vacate their homes. Hundreds were making tents and wagon
 covers out of cloth bought with anything they happened to have;
 companies were organized and numbered, each of which had its own
 wagon-shop, wheelwrights, carpenters, and cabinetmakers, who were all
-busily employed. <span id="fr_253"></span>[1](#fn_253) Green timber was
+busily employed. <span id="fr_253"></span>[1](#fn_253.md) Green timber was
 prepared for spokes and felloes, some kiln-dried, and some boiled in
 salt and water. it the Nauvoo house shops were established as well as at
 the mason's hall and arsenal. Iron was brought from different parts of
 the country, and blacksmiths were at work night and day. <span
-id="fr_254"></span>[2](#fn_254)
+id="fr_254"></span>[2](#fn_254.md)
 
     Some three years previous, the prophet Joseph had ordered that there
 should not be another general conference
@@ -56,7 +56,7 @@ building was to them as a temple "where the children of the last kingdom
 could come together to praise the Lord." As they cast one last gaze on
 their homes and the monuments reared to their faith, they asked, "Who is
 the God of the gentiles? Can he be our God?" <span
-id="fr_255"></span>[3](#fn_255)
+id="fr_255"></span>[3](#fn_255.md)
 
     In the same number of the *Times and Seasons* in which appeared a
 notice of this meeting was published a circular signed by Brigham Young,
@@ -66,7 +66,7 @@ the only true Israel from these United States to a far distant region of
 the west, where bigotry, intolerance, and insatiable oppression will
 have lost its power over them, forms a new epoch, not only in the
 history of the church, but of this nation." <span
-id="fr_256"></span>[4](#fn_256)
+id="fr_256"></span>[4](#fn_256.md)
 
 <span id="page_216">p. 216</span>
 
@@ -118,12 +118,12 @@ itself sufficient to depreciate property. The best they could do was to
 exchange their lands for wagons and horses and cattle, and this they did
 to as large an extent as possible, scouring the country for a hundred
 miles around in search of live-stock. <span
-id="fr_257"></span>[5](#fn_257)
+id="fr_257"></span>[5](#fn_257.md)
 
     And now, putting upon their animals and vehicles such of their
 household effects as they could carry, in small detachments the
 migratory saints began to leave Nauvoo. <span
-id="fr_258"></span>[6](#fn_258) Before them was the ice-bound river, and
+id="fr_258"></span>[6](#fn_258.md) Before them was the ice-bound river, and
 beyond that the wilderness.
 
     There is no parallel in the world's history to this migration from
@@ -152,7 +152,7 @@ passengers and baggage. The cold increased. On the 16th snow fell
 heavily; and the river was frozen over, so that the remainder of the
 emigration crossed on the ice. Their first camp, the camp of the
 congregation, was on Sugar Creek, a few miles from Nauvoo and almost
-within sight of the city. <span id="fr_259"></span>[7](#fn_259) All
+within sight of the city. <span id="fr_259"></span>[7](#fn_259.md) All
 their movements were directed by Brigham, who with his family and a
 quorum of the twelve, John Taylor, George A. Smith, Heber C. Kimball,
 Willard Richards, Orson Hyde, Orson Pratt, Parley P. Pratt, and Amasa
@@ -166,12 +166,12 @@ stood upright in his wagon, and cried with a loud voice, "Attention! the
 
 <span id="page_219">p. 219</span>
 
-whole camp of Israel." <span id="fr_260"></span>[8](#fn_260) He then
+whole camp of Israel." <span id="fr_260"></span>[8](#fn_260.md) He then
 went on to say that as the Lord had been with them in times past,
 howsoever singular had been his method of proving his presence, so would
 he be with them in the future. His empire, the empire of his people, was
 established, and the powers of hell should not prevail against it. <span
-id="fr_261"></span>[9](#fn_261)
+id="fr_261"></span>[9](#fn_261.md)
 
     After this, with comparatively light hearts, they broke camp, and
 slowly wending their way westward, disappeared at length beyond the
@@ -205,7 +205,7 @@ they held a dance, and as the men of Iowa looked on they wondered how
 these homeless outcasts from Christian civilization could thus praise
 and make merry in view of their near abandoning of themselves to the
 mercies of savages and wild beasts. <span
-id="fr_262"></span>[10](#fn_262) Food and raiment were provided for all;
+id="fr_262"></span>[10](#fn_262.md) Food and raiment were provided for all;
 for shelter they had their tents and wagons, and after the weather had
 spent somewhat of its ruggedness, no extreme hardships were suffered.
 Without attempting long distances in a single day, they made camp rather
@@ -238,11 +238,11 @@ head, or standing with uplifted and extended hands as his people passed
 by, blessing and comforting them. "We were happy and contented," says
 John Taylor, "and the songs of Zion resounded from wagon to wagon,
 reverberating through the woods, while the echo was returned from the
-distant hills." <span id="fr_263"></span>[11](#fn_263)
+distant hills." <span id="fr_263"></span>[11](#fn_263.md)
 
     There were brass or stringed instruments in every company, and night
 and morning all were called to prayers <span
-id="fr_264"></span>[12](#fn_264) at the sound of the bugle. Camp-fires
+id="fr_264"></span>[12](#fn_264.md) at the sound of the bugle. Camp-fires
 drew around them the saints when their day s work was finished, and
 singing, dancing, and story-telling enlivened the hour.
 
@@ -253,15 +253,15 @@ great number of mules and horses, and immense flocks of sheep.
 <span id="page_222">p. 222</span>
 
 <span class="contnote">\[paragraph continues\]</span> Richardson
-Point <span id="fr_265"></span>[13](#fn_265) they made their second
+Point <span id="fr_265"></span>[13](#fn_265.md) they made their second
 stationary camp, the third at Chariton River, the fourth at Locust
 Creek, where a considerable time was spent. Then there were—so named by
-the saints—Garden Grove, <span id="fr_266"></span>[14](#fn_266) a large
+the saints—Garden Grove, <span id="fr_266"></span>[14](#fn_266.md) a large
 timbered tract which had been burned over, Mount Pisgah, <span
-id="fr_267"></span>[15](#fn_267) and finally Winter Quarters, in
+id="fr_267"></span>[15](#fn_267.md) and finally Winter Quarters, in
 Nebraska, on the west side of the Missouri, a little above the modern
 Omaha, on the site of the present town of Florence. <span
-id="fr_268"></span>[16](#fn_268) At Garden Grove and Mount Pisgah were
+id="fr_268"></span>[16](#fn_268.md) At Garden Grove and Mount Pisgah were
 established farming settlements for the benefit of those who were to
 follow. In July the main body reached the Missouri at the spot now known
 as Council Bluffs, and soon afterward many crossed the river in a
@@ -270,7 +270,7 @@ Quarters. Other large encampments
 
 <span id="img_22200"></span> <span align="CENTER"> [![BETWEEN THE
 MISSISSIPPI AND MISSOURI.](tn/22200.jpg)  
-Click to enlarge](img/22200.jpg)  
+Click to enlarge](img/22200.jpg.md)  
 BETWEEN THE MISSISSIPPI AND MISSOURI.  
 </span>
 
@@ -305,7 +305,7 @@ careful lines of fruitful husbandry."
 16th of April, that he had been directed by the governor to disband on
 the 1st of May the force which had been kept there ostensibly for the
 protection of the saints, as the time appointed for their departure
-would expire on that day. <span id="fr_269"></span>[17](#fn_269) The day
+would expire on that day. <span id="fr_269"></span>[17](#fn_269.md) The day
 arrived, and there were yet many Mormons remaining, many who had found
 it impossible to remove on
 
@@ -319,7 +319,7 @@ into service again. This he did; for he would, if possible, see the
 treaty between the Mormons and the governor faithfully carried out, and
 while urging the saints to haste, he endeavored to stand between them
 and the mob which now threatened their lives and the destruction of
-their property. <span id="fr_270"></span>[18](#fn_270)
+their property. <span id="fr_270"></span>[18](#fn_270.md)
 
     Major Warren appears to have performed his duty firmly and well, and
 to have done all that lay in his power to protect the Mormons. In a
@@ -391,7 +391,7 @@ kept almost without food or rest, and under constant threat of death.
     Fears are now entertained that, by reason of the popular feeling
 throughout the country, Nauvoo city will be again attacked; the gentile
 citizens therefore ask Governor Ford for protection, whereupon Major
-Parker is sent to their relief. <span id="fr_271"></span>[19](#fn_271)
+Parker is sent to their relief. <span id="fr_271"></span>[19](#fn_271.md)
 All through August
 
 <span id="page_227">p. 227</span>
@@ -405,7 +405,7 @@ to disperse, otherwise he threatens to treat them as a mob. The
 constable replies that if the major should attempt to molest them in
 discharge of their duty he will regard him and his command as a mob and
 so treat them. "Now, fellow-citizens," declares a committee selected
-from four counties, <span id="fr_272"></span>[20](#fn_272) in a
+from four counties, <span id="fr_272"></span>[20](#fn_272.md) in a
 proclamation issued at Carthage, "an issue is fairly raised. On the one
 hand, a large body of men have assembled at Carthage, under the command
 of a legal officer, to assist him in performing legal duties. They are
@@ -422,7 +422,7 @@ under command of Colonel Singleton, who at once throws off the mask, and
 on the 7th of September announces to Major Parker that the Mormons must
 go. On the same day a stipulation is made, granting to the saints sixty
 days' extension of time, and signed by representatives on both
-sides. <span id="fr_273"></span>[21](#fn_273)
+sides. <span id="fr_273"></span>[21](#fn_273.md)
 
 <span id="page_228">p. 228</span>
 
@@ -445,12 +445,12 @@ who remained could not be relied upon as combatants, for they were of
 course unwilling to risk their lives in a conflict which, if successful,
 would bring them no credit. Nothing daunted, the little band, under
 command of colonels Daniel H. Wells <span
-id="fr_274"></span>[22](#fn_274) and William Cutler, took up its
+id="fr_274"></span>[22](#fn_274.md) and William Cutler, took up its
 position on the edge of a wood in the suburbs of Nauvoo, and less than a
-mile from the enemy's camp. <span id="fr_275"></span>[23](#fn_275)
+mile from the enemy's camp. <span id="fr_275"></span>[23](#fn_275.md)
 
     Before hostilities commenced, a deputation from Quincy <span
-id="fr_276"></span>[24](#fn_276) visited the camp of the assailants, and
+id="fr_276"></span>[24](#fn_276.md) visited the camp of the assailants, and
 in vain attempted to dissuade them from their purpose. No sooner had
 they departed than fire was opened on the Mormons from a battery of
 six-pounders, but without effect. Here for the day matters rested. At
@@ -460,12 +460,12 @@ storm, but were held in cheek by
 <span id="page_229">p. 229</span>
 
 <span class="contnote">\[paragraph continues\]</span> Captain
-Anderson <span id="fr_277"></span>[25](#fn_277) at the head of
+Anderson <span id="fr_277"></span>[25](#fn_277.md) at the head of
 thirty-five men, termed by the saints the Spartan band. The enemy now
 fired some rounds of grape-shot, forcing the besieged to retire out of
 range; and after some further cannonading, darkness put an end to the
 skirmish, the Mormons throwing up breastworks during the night. <span
-id="fr_278"></span>[26](#fn_278)
+id="fr_278"></span>[26](#fn_278.md)
 
     On the morning of the 12th the demand of unconditional surrender was
 promptly rejected; whereupon, at a given signal, several hundred men who
@@ -481,7 +481,7 @@ temple square. But this movement had been anticipated, and posted in the
 woods to the north of the Mormon position lay the Spartan band. Leading
 on his men at double-quick, Anderson suddenly confronted the enemy and
 opened a brisk fire from revolving rifles. <span
-id="fr_279"></span>[27](#fn_279) The posse advanced no farther, but for
+id="fr_279"></span>[27](#fn_279.md) The posse advanced no farther, but for
 an hour and a half held their ground bravely against the Spartan band,
 the expense of ammunition in proportion to casualties being greater than
 has yet been recorded in modern warfare. Then they retreated in
@@ -490,7 +490,7 @@ and a few slightly wounded; the losses of the gentiles are variously
 
 <span id="page_230">p. 230</span>
 
-stated. <span id="fr_280"></span>[28](#fn_280) Among those who fell were
+stated. <span id="fr_280"></span>[28](#fn_280.md) Among those who fell were
 Captain Anderson and his son, a youth of sixteen, the former dying, as
 he had vowed that he would die, in defence of the holy sanctuary.
 
@@ -504,17 +504,17 @@ hundred proceeded to Nauvoo and attempted mediation. At the same time
 the Reverend Brockman sent in his ultimatum, the terms being that the
 Mormons surrender their arms, and immediately cross the river or
 disperse, and that all should be protected from violence. <span
-id="fr_281"></span>[29](#fn_281) There was no alternative. The armed mob
+id="fr_281"></span>[29](#fn_281.md) There was no alternative. The armed mob
 in their front was daily swelling in number, while beyond the river
 still appeared the red flag; their own ranks, meanwhile, were being
 rapidly thinned by defection among the new citizens. <span
-id="fr_282"></span>[30](#fn_282)
+id="fr_282"></span>[30](#fn_282.md)
 
 <span id="page_231">p. 231</span>
 
     On the 17th of September the remnant of the Mormons crossed the
 Mississippi, and on the same day the gentiles took possession of
-Nauvoo. <span id="fr_283"></span>[31](#fn_283)
+Nauvoo. <span id="fr_283"></span>[31](#fn_283.md)
 
  
 
@@ -551,17 +551,17 @@ politics and government were subordinated to religion.
     And in regard to the late occupants of the place, the last of the
 Mormon host that now lay huddled to the number of 640 on the western
 bank of the river in sight of the city: <span
-id="fr_284"></span>[32](#fn_284) if the first departures from Nauvoo
+id="fr_284"></span>[32](#fn_284.md) if the first departures from Nauvoo
 escaped extreme hardships, not so these. It was the
 
 <span id="page_233">p. 233</span>
 
 latter part of September, and nearly all were prostrated with chills and
-fevers; <span id="fr_285"></span>[33](#fn_285) there at the river bank,
+fevers; <span id="fr_285"></span>[33](#fn_285.md) there at the river bank,
 among the dock and rushes, poorly protected, without the shelter of a
 roof or anything to keep off the force of wind or rain, little ones came
 into life and were left motherless at birth. <span
-id="fr_286"></span>[34](#fn_286) They had not food enough to satisfy the
+id="fr_286"></span>[34](#fn_286.md) They had not food enough to satisfy the
 cravings of the sick, nor clothing fit to wear. For months thereafter
 there were periods when all the flour they used was of the coarsest, the
 wheat being ground in coffee and hand mills, which only cut the grain;
@@ -575,27 +575,27 @@ the trees along their route.
 Mississippi, and was called the Poor Camp. Aid was solicited, and within
 three weeks a little over one hundred dollars was collected, mostly in
 Quincy, with provisions and clothing, though the prejudice against them
-was deep and strong. <span id="fr_287"></span>[35](#fn_287) Some of the
+was deep and strong. <span id="fr_287"></span>[35](#fn_287.md) Some of the
 people were crowded into tents, made frequently of quilts and blankets;
 others in bowers made of brush; others had only wagons for shelter. They
 suffered from heavy thunder-storms, when the rain was bailed out with
 basins from their beds. Mothers huddled their children in the one dress
 which often was all they possessed, and shaking with ague or burning
 with fever, took refuge from the pitiless storms under wagons and
-bushes. <span id="fr_288"></span>[36](#fn_288)
+bushes. <span id="fr_288"></span>[36](#fn_288.md)
 
 <span id="page_234">p. 234</span>
 
     "While the people for the most part were ill with chills and fever,"
 says Wells, "quail fell into camp and were picked up with ease. <span
-id="fr_289"></span>[37](#fn_289) This supply was looked upon as
+id="fr_289"></span>[37](#fn_289.md) This supply was looked upon as
 miraculous by the half famished people. So long had they been lashed by
 the fierce winds of misfortune, that now they accepted with gratitude
 this indication of providential care.
 
     Wagons were sent from Winter Quarters for the removal of the people
 from Poor Camp; and gradually all reached the various stations in which
-the Mormons had gathered. <span id="fr_290"></span>[38](#fn_290)
+the Mormons had gathered. <span id="fr_290"></span>[38](#fn_290.md)
 
     Of their long journey many painful incidents are recorded. Weakened
 by fever or crippled with rheumatism, and with sluggish circulation,
@@ -604,7 +604,7 @@ nearly worn-out teams, while tending on their knees, perhaps, their sick
 children. The strength of the beasts was failing, as there were
 intervals when *they* could be kept froth starving only by the browse or
 tender buds and branches of the cotton-wood, felled for the
-purpose. <span id="fr_291"></span>[39](#fn_291)
+purpose. <span id="fr_291"></span>[39](#fn_291.md)
 
     At one time no less than two thousand wagons could be counted, it
 was said, along the three hundred miles of road that separated Nauvoo
@@ -627,25 +627,25 @@ branches, and served as a promenade for convalescents and a playground
 for children.
 
     And what became of Nauvoo? The temple was destroyed by fire and
-tempest, <span id="fr_292"></span>[40](#fn_292) and all the wood-work
+tempest, <span id="fr_292"></span>[40](#fn_292.md) and all the wood-work
 consumed, while the rock was utilized for miles around as foundations of
 houses, for door-steps, and other purposes. A French company coming in
 later bought the stone from those in possession, and built wine-vaults.
 Foundations of buildings were broken up, and houses once surrounded by
 carefully tended flower-gardens, pillaged of all that was valuable, were
 now abandoned by their ruthless destroyers. <span
-id="fr_293"></span>[41](#fn_293) "At present," writes Linforth, "the
+id="fr_293"></span>[41](#fn_293.md) "At present," writes Linforth, "the
 Icarians form the most important part of the population of Nauvoo…They
 live in a long ugly row of buildings, the architect of which and of the
 school-house was a cobbler." In the house built for the prophet and his
 family dwelt in 1854 the prophet's widow, his mother, and his
-family. <span id="fr_294"></span>[42](#fn_294)
+family. <span id="fr_294"></span>[42](#fn_294.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_253"></span>[214:1](hou11.htm#fr_253) Parley Pratt's
+<span id="fn_253"></span>[214:1](hou11.htm#fr_253.md) Parley Pratt's
 calculation for an outfit of every family of 5 persons was 1 good wagon,
 3 yoke cattle, 2 cows, 2 beef cattle, 3 sheep, 1,000 lbs flour, 20 lbs
 sugar, 1 rifle and ammunition, a tent and tent-poles, from 10 to 20 lbs
@@ -653,11 +653,11 @@ seed to a family, from 25 to 100 lbs tools for farming, and a few other
 items, the cost being about $250, provided they had nothing else but
 bedding and cooking utensils. *Hist. B. Young*, MS., 125.
 
-<span id="fn_254"></span>[214:2](hou11.htm#fr_254) In December the
+<span id="fn_254"></span>[214:2](hou11.htm#fr_254.md) In December the
 drying-house of emigrating company no. 18 was burned to the ground,
 consuming $300 worth of wagon timber. *Id*., MS., Dec, 1845.
 
-<span id="fn_255"></span>[215:3](hou11.htm#fr_255) Kane, with the
+<span id="fn_255"></span>[215:3](hou11.htm#fr_255.md) Kane, with the
 carelessness usual in his statements, says that the temple was completed
 and consecrated in May, and that the day after its consecration its
 ornaments were carried away. 'For that one day the temple shone
@@ -677,11 +677,11 @@ they disappeared, were to be seen looking back, like banished Moors, on
 their abandoned homes and the far-seen temple and its glittering spire.'
 *The Mormons*, 21.
 
-<span id="fn_256"></span>[215:4](hou11.htm#fr_256) *Times and Seasons*,
+<span id="fn_256"></span>[215:4](hou11.htm#fr_256.md) *Times and Seasons*,
 vi. 1018. In this number is a notice, signed by Willard Richards,
 cutting off William Smith, the prophet's brother, for apostasy.
 
-<span id="fn_257"></span>[217:5](hou11.htm#fr_257) 'The Mormons went up
+<span id="fn_257"></span>[217:5](hou11.htm#fr_257.md) 'The Mormons went up
 and down with their furniture, etc., and traded for anything that could
 travel, such as an animal or a wagon…Another company went out in May,
 but they did not sell their property, leaving it in the hands of
@@ -691,7 +691,7 @@ denied themselves in every way to build, Mrs Richards says was sold for
 'two yoke of half-broken cattle and an old wagon.' *Reminiscences*, MS.,
 20.
 
-<span id="fn_258"></span>[217:6](hou11.htm#fr_258) When we were to leave
+<span id="fn_258"></span>[217:6](hou11.htm#fr_258.md) When we were to leave
 Mo., the saints entered into a covenant not to cease their exertions
 until every saint who wished to go was removed, which was done…We are
 better off now than we were then;…he \[B. Y.\] wants to see this
@@ -701,15 +701,15 @@ influence and property; seconded by Elder Kimball, and carried
 unanimously.' This covenant was entered into Oct. 6, 1845. *Times and
 Seasons*, vi. 1011.
 
-<span id="fn_259"></span>[218:7](hou11.htm#fr_259) 'We encamped at Sugar
+<span id="fn_259"></span>[218:7](hou11.htm#fr_259.md) 'We encamped at Sugar
 Creek, in the snow, while two of my children were very ill. We slept in
 our wagons, which were placed close to our tents.' *Horne's Migrations*,
 MS., 16.
 
-<span id="fn_260"></span>[219:8](hou11.htm#fr_260) The camp of Israel
+<span id="fn_260"></span>[219:8](hou11.htm#fr_260.md) The camp of Israel
 was wherever the president and apostles were.
 
-<span id="fn_261"></span>[219:9](hou11.htm#fr_261) It has been stated
+<span id="fn_261"></span>[219:9](hou11.htm#fr_261.md) It has been stated
 that after dismissing his congregation on the 17th the president led
 several of the twelve aside to a valley east of the camp, and held a
 council. A letter was then read from Samuel Brennan, a Mormon elder then
@@ -729,7 +729,7 @@ Britain against the United States, and order them to be disarmed or
 dispersed! Further mention of this matter is made in *History of
 California*, vol. v. cap. xx., this series.
 
-<span id="fn_262"></span>[220:10](hou11.htm#fr_262) 'In the latter part
+<span id="fn_262"></span>[220:10](hou11.htm#fr_262.md) 'In the latter part
 of March we started for Council Bluffs, 400 miles distant, and were
 three months on the way. Crossing a long prairie in a fearful storm, the
 mud became so soft that we could not travel, and we were obliged to
@@ -740,20 +740,20 @@ frozen…Frequently boughs were laid on the ground before the teams could
 pass…We had to camp in mad until the roads were dry enough to travel.'
 *Horne's Migrations*, MS., 18-19.
 
-<span id="fn_263"></span>[221:11](hou11.htm#fr_263) 'It is true,' he
+<span id="fn_263"></span>[221:11](hou11.htm#fr_263.md) 'It is true,' he
 writes, 'that in our sojourning we do not possess all the luxuries and
 delicacies of old-established countries and cities, but we have
 abundance of the staple commodities, such as flour, meal, beef, mutton,
 pork, milk, butter, and in some instances cheese, sugar, coffee, tea,
 etc.' Letter in *Millennial Star*, viii. 114.
 
-<span id="fn_264"></span>[221:12](hou11.htm#fr_264) Each family had
+<span id="fn_264"></span>[221:12](hou11.htm#fr_264.md) Each family had
 prayers separately. *Taylor's Rem*., MS., 9.
 
-<span id="fn_265"></span>[222:13](hou11.htm#fr_265) In Lee County, Iowa,
+<span id="fn_265"></span>[222:13](hou11.htm#fr_265.md) In Lee County, Iowa,
 three weeks from their staging-point.
 
-<span id="fn_266"></span>[222:14](hou11.htm#fr_266) About 150 miles from
+<span id="fn_266"></span>[222:14](hou11.htm#fr_266.md) About 150 miles from
 Nauvoo, on the east fork of the Grand River. 'Many located there,
 ploughing and sowing, and preparing homes for their poor brethren for a
 longer period.' *Horne's Migrations*, MS., 19. 'On the morning of the
@@ -771,22 +771,22 @@ passed; so that, in a scarcely conceivable space of time, at Garden
 Grove and Mount Pisgah, industrious settlements sprung up almost as if
 by magic.' *Tullidge's Life of Brigham Young*, 41.
 
-<span id="fn_267"></span>[222:15](hou11.htm#fr_267) This site was
+<span id="fn_267"></span>[222:15](hou11.htm#fr_267.md) This site was
 discovered by Parley, who was sent forward to reconnoitre by Brigham. It
 was situated on a branch of Grand River, and for years was the
 resting-place for the saints on their way to Utah. *Autobiog. P. Pratt*,
 381.
 
-<span id="fn_268"></span>[222:16](hou11.htm#fr_268) Here 700 log cabins
+<span id="fn_268"></span>[222:16](hou11.htm#fr_268.md) Here 700 log cabins
 and 150 dugouts (cabins half under ground) were built. A large quantity
 of hay was cut, and a flouring mill erected. *Id*., 383.
 
-<span id="fn_269"></span>[223:17](hou11.htm#fr_269) 'The removal of the
+<span id="fn_269"></span>[223:17](hou11.htm#fr_269.md) 'The removal of the
 entire population,' the major adds, has been looked forward to as an
 event that could alone restore peace and quiet to this portion of our
 state,' *Fullmer's Expulsion*, 24.
 
-<span id="fn_270"></span>[224:18](hou11.htm#fr_270) 'Thus while with one
+<span id="fn_270"></span>[224:18](hou11.htm#fr_270.md) 'Thus while with one
 hand he pushed the saints from their *possessions* across the river to
 save their lives, with the other he kept at bay the savage fiends who
 thirsted for blood, and who would fain have washed their hands in the
@@ -806,7 +806,7 @@ portion of the old citizens, my force is able to meet successfully any
 mob which can be assembled in the county, and if any such force does
 assemble, they or I will leave the field in double-quick time.'
 
-<span id="fn_271"></span>[226:19](hou11.htm#fr_271) 'Sir—I have received
+<span id="fn_271"></span>[226:19](hou11.htm#fr_271.md) 'Sir—I have received
 information that another effort is to be made on Monday next to drive
 out the inhabitants of Nauvoo, new as well as old, and destroy the city.
 I am informed that it is believed in the surrounding counties that the
@@ -823,43 +823,43 @@ such <span id="page_227">p. 227</span> volunteers as may offer
 themselves, free of cost to the state, to repel it and defend the city.'
 *Fullmer's Expulsion*, 29-30.
 
-<span id="fn_272"></span>[227:20](hou11.htm#fr_272) Among the members
+<span id="fn_272"></span>[227:20](hou11.htm#fr_272.md) Among the members
 was the Rev. Thomas S. Brockman, who afterward took command of the
 posse.
 
-<span id="fn_273"></span>[227:21](hou11.htm#fr_273) Hostilities to
+<span id="fn_273"></span>[227:21](hou11.htm#fr_273.md) Hostilities to
 cease; the city to be evacuated in 60 days, 25 men remaining to see the
 stipulation carried out. *Id*., 34-5.
 
-<span id="fn_274"></span>[228:22](hou11.htm#fr_274) Who afterward became
+<span id="fn_274"></span>[228:22](hou11.htm#fr_274.md) Who afterward became
 lieut-gen. of the Nauvoo legion in Utah.
 
-<span id="fn_275"></span>[228:23](hou11.htm#fr_275) There were about 300
+<span id="fn_275"></span>[228:23](hou11.htm#fr_275.md) There were about 300
 Mormons and new citizens who could then bear arms against the mob, but
 on the day of the fight no more than 100 could be found to go, as the
 Mormons were continually leaving.' *Wells’ Narrative*, MS., 39.
 
-<span id="fn_276"></span>[228:24](hou11.htm#fr_276) John Wood, the
+<span id="fn_276"></span>[228:24](hou11.htm#fr_276.md) John Wood, the
 mayor, Major Flood, Dr Conyera, and Joel Rice. See *Wells’ Narrative*,
 MS., passim.
 
-<span id="fn_277"></span>[229:25](hou11.htm#fr_277) He was more than
+<span id="fn_277"></span>[229:25](hou11.htm#fr_277.md) He was more than
 brave, he was presumptuous. Wells, in *Utah Notes*, MS., p. 7.
 
-<span id="fn_278"></span>[229:26](hou11.htm#fr_278) 'Many of our log
+<span id="fn_278"></span>[229:26](hou11.htm#fr_278.md) 'Many of our log
 houses were torn down by the mob, which numbered 1,000 men; we made
 barricades of corn-stalks stacked up.' Wells, in *Utah Notes*, MS., 7.
 
-<span id="fn_279"></span>[229:27](hou11.htm#fr_279) Elder John S.
+<span id="fn_279"></span>[229:27](hou11.htm#fr_279.md) Elder John S.
 Fullmer, then a colonel in the Nauvoo legion, claims that he directed
 this movement. *Expulsion*, 38.
 
-<span id="fn_280"></span>[230:28](hou11.htm#fr_280) 'But three in all
+<span id="fn_280"></span>[230:28](hou11.htm#fr_280.md) 'But three in all
 were killed…Meetings were held to stop the effusion of blood,…but there
 was no necessity for such action, when no blood was shed.' Wells, in
 *Utah Notes*, 7.
 
-<span id="fn_281"></span>[230:29](hou11.htm#fr_281) '1st. The city of
+<span id="fn_281"></span>[230:29](hou11.htm#fr_281.md) '1st. The city of
 Nauvoo will surrender. The force of Reverend Brockman to enter and take
 possession of the city to-morrow, the 17th of September, at three
 o'clock P.M. 2d. The arms to be delivered to the Quincy committee, to be
@@ -877,7 +877,7 @@ Quincy committee to enter the city in the execution of their duty as
 soon as they think proper.' It will be observed that nothing is said
 about the surrender of Pickett. He was not even arrested.
 
-<span id="fn_282"></span>[230:30](hou11.htm#fr_282) 'The mob entered the
+<span id="fn_282"></span>[230:30](hou11.htm#fr_282.md) 'The mob entered the
 temple, instituted an inquisition, and regardless of the Mormons or new
 citizens, went from house to house plundering cow-yards, pig-pens,
 hen-roosts, and bee-stands indiscriminately; thus turning some of their
@@ -888,7 +888,7 @@ several to the river and baptized them, swearing, throwing them
 backward, then on to their faces, saying: "The commandments must be
 fulfilled, and God damn you."'. *Hist. B. Young*, MS., 345.
 
-<span id="fn_283"></span>[231:31](hou11.htm#fr_283) The best narrative,
+<span id="fn_283"></span>[231:31](hou11.htm#fr_283.md) The best narrative,
 and indeed the only one that enters circumstantially into all the
 details of the expulsion from Nauvoo, is contained in the *Assassination
 of Joseph and Hyrum Smith, the Prophet and the Patriarch of the Church
@@ -936,13 +936,13 @@ perhaps in one or two of the meet rabid anti-Mormon works, which I have
 not thought it worth while to notice, is the conduct of the Illinois mob
 defended.
 
-<span id="fn_284"></span>[232:32](hou11.htm#fr_284) A few months before,
+<span id="fn_284"></span>[232:32](hou11.htm#fr_284.md) A few months before,
 Nauvoo with the neighboring Mormon settlements had contained some 20,000
 saints, of whom in July about 15,000 were encamped on the Missouri
 River, or were scattered through the western states in search of
 employment.
 
-<span id="fn_285"></span>[233:33](hou11.htm#fr_285) While at Montrose,
+<span id="fn_285"></span>[233:33](hou11.htm#fr_285.md) While at Montrose,
 Heber C. Kimball writes thus in his journal of the condition of his
 family, his wife having a babe a few days old, and he himself ill with
 ague. 'I went to the bed; my wife, who was shaking with the ague, having
@@ -950,18 +950,18 @@ two children lying sick by her side;…the only child well was little
 Heber Parley, and it was with difficulty he could carry a two-quart pail
 full of water from a spring at the bottom of the hill.'
 
-<span id="fn_286"></span>[233:34](hou11.htm#fr_286) 'Such deaths
+<span id="fn_286"></span>[233:34](hou11.htm#fr_286.md) 'Such deaths
 occurred from exposure and fright in Nauvoo. The camp journalist
 recorded: Effect of persecution by the Illinois mob.'
 
-<span id="fn_287"></span>[233:35](hou11.htm#fr_287) The trustees from
+<span id="fn_287"></span>[233:35](hou11.htm#fr_287.md) The trustees from
 Nauvoo also distributed clothing, and molasses, salt, and salt pork.
 *Hist. B. Young*, MS., 1846, 383.
 
-<span id="fn_288"></span>[233:36](hou11.htm#fr_288) *Mrs Clara Young's
+<span id="fn_288"></span>[233:36](hou11.htm#fr_288.md) *Mrs Clara Young's
 Experience*, MS., 3.
 
-<span id="fn_289"></span>[234:37](hou11.htm#fr_289) 'On the 9th of
+<span id="fn_289"></span>[234:37](hou11.htm#fr_289.md) 'On the 9th of
 October, while our teams were waiting on the banks of the Miss. for the
 poor saints…left without any of the necessaries of life,…and nothing to
 start their journey with, the Lord sent flocks of quail, which lit upon
@@ -973,7 +973,7 @@ generally observed. The quail in immense quantities had attempted to
 cross the river, but it being beyond their strength, had dropped into
 the river boats or on the bank.' Wells, in *Utah Notes*, MS., 7.
 
-<span id="fn_290"></span>[234:38](hou11.htm#fr_290) See *The Mormons: A
+<span id="fn_290"></span>[234:38](hou11.htm#fr_290.md) See *The Mormons: A
 Discourse delivered before the Historical Society of Pennsylvania, March
 26, 1850, by Thomas L. Kane*. Philadelphia, 1850. A copy of it will be
 found at the end of *Orson Pratt's Works*, and in *Mackay's The
@@ -984,10 +984,10 @@ sacrificed to diction. Among Mormon writers we find no detailed
 narrative of this exodus, and among others little that is not borrowed
 from the colonel's discourse.
 
-<span id="fn_291"></span>[234:39](hou11.htm#fr_291) *Snow's Biography*,
+<span id="fn_291"></span>[234:39](hou11.htm#fr_291.md) *Snow's Biography*,
 89.
 
-<span id="fn_292"></span>[235:40](hou11.htm#fr_292) The temple was half
+<span id="fn_292"></span>[235:40](hou11.htm#fr_292.md) The temple was half
 destroyed by fire on Nov. 19, 1848. *Nauvoo Patriot*, in *Millennial
 Star*, xi. p. 46; and on May 27, 1850, further damaged by a tornado.
 *Hancock Patriot*, in *Mackay's The Mormons*, 210. For cut of remnants,
@@ -996,12 +996,12 @@ see *Linforth's Route from Liverpool to G. S. L. Valley*, 62, and
 Instuctor*, vol. ix. no. 5, and *Wells’ Narrative*, MS., 41; *Deseret
 News*, Aug. 24, 1850; *Frontier Guardian*, July 24, 1850.
 
-<span id="fn_293"></span>[235:41](hou11.htm#fr_293) As James Linforth
+<span id="fn_293"></span>[235:41](hou11.htm#fr_293.md) As James Linforth
 describes in writing of Nauvoo in 1858.
 
-<span id="fn_294"></span>[235:42](hou11.htm#fr_294) *Route from
+<span id="fn_294"></span>[235:42](hou11.htm#fr_294.md) *Route from
 Liverpool to G. S. L. Valley*, 63.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. At The Missouri. 1846-1847.](hou12)
+[Next: Chapter IX. At The Missouri. 1846-1847.](hou12.md)

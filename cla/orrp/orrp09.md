@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp08)  [Next](orrp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp08)  [Next](orrp10.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,11 +36,11 @@ frequently mistaken for the Phœnician Astarte, who had a famous temple
 at Bambyce or Hierapolis, not far from the Euphrates, and was worshiped
 with her husband, Hadad, in a considerable part of Syria besides. The
 Greeks considered her as the principal Syrian goddess, <span
-id="fr_9"></span>[1](#fn_9) and in the Latin countries she was commonly
+id="fr_9"></span>[1](#fn_9.md) and in the Latin countries she was commonly
 known as *dea Syria*, a name corrupted into *Iasura* by popular use.
 
 We all remember the unedifying descriptions of her itinerant priests
-that Lucian and Apuleius [5\_1](orrp18.htm#xref_5_1) have left. Led by
+that Lucian and Apuleius [5\_1](orrp18.htm#xref_5_1.md) have left. Led by
 an old eunuch of dubious habits, a crowd of painted young men marched
 along the highways with an ass that bore an elaborately adorned image of
 the goddess. Whenever they passed through a village or by some rich
@@ -72,22 +72,22 @@ It is certain that the first worshipers of the Syrian goddess in the
 Latin world were slaves. During the wars against Antiochus the Great a
 number of prisoners were sent to Italy to be sold at public auction, as
 was the custom, and the first appearance in Italy of the
-*Chaldaei* [5\_2](orrp18.htm#xref_5_2) has been connected with that
+*Chaldaei* [5\_2](orrp18.htm#xref_5_2.md) has been connected with that
 event. The *Chaldaei* were Oriental fortune-tellers who asserted that
 their predictions were based on the Chaldean astrology. They found
 credulous clients among the farm laborers, and Cato gravely exhorts the
-good landlord to oust them from his estate. [5\_3](orrp18.htm#xref_5_3)
+good landlord to oust them from his estate. [5\_3](orrp18.htm#xref_5_3.md)
 
 Beginning with the second century before Christ, merchants began to
 import Syrian slaves. At that time Delos was the great trade center in
 this human commodity, and in that island especially Atargatis was
-worshiped by citizens of Athens and Rome. [5\_4](orrp18.htm#xref_5_4)
-Trade spread her worship in the Occident. [5\_5](orrp18.htm#xref_5_5) We
+worshiped by citizens of Athens and Rome. [5\_4](orrp18.htm#xref_5_4.md)
+Trade spread her worship in the Occident. [5\_5](orrp18.htm#xref_5_5.md) We
 know that the great slave revolution that devastated Sicily in 134 B. C.
 was started by a slave from Apamea, a votary of the Syrian goddess.
 Simulating divine madness, he called his companions to arms, pretending
 to act in accordance with orders from
-heaven. [5\_6](orrp18.htm#xref_5_6) This detail, which we know by
+heaven. [5\_6](orrp18.htm#xref_5_6.md) This detail, which we know by
 chance, shows how considerable a proportion of Semites there was in the
 gangs working the fields, and how much authority Atargatis enjoyed in
 the rural centers. Being too poor to build temples for their national
@@ -104,7 +104,7 @@ supported them by sacrificing a part of their poor savings.
 Towards the end of the republic those diviners appear to have enjoyed
 rather serious consideration at Rome. It was a pythoness from Syria that
 advised Marius on the sacrifices he was to
-perform. [5\_7](orrp18.htm#xref_5_7)
+perform. [5\_7](orrp18.htm#xref_5_7.md)
 
 Under the empire the importation of slaves increased. Depopulated Italy
 needed more and more foreign hands, and Syria furnished a large quota of
@@ -112,7 +112,7 @@ the forced immigration of cultivators. But those Syrians, quick and
 intelligent as they were strong and industrious, performed many other
 functions. They filled the countless domestic positions in the palaces
 of the aristocracy and were especially appreciated as
-litter-bearers. [5\_8](orrp18.htm#xref_5_8) The imperial and municipal
+litter-bearers. [5\_8](orrp18.htm#xref_5_8.md) The imperial and municipal
 administrations, as well as the big contractors to whom customs and the
 mines were farmed out, hired or bought them in large numbers, and even
 in the remotest border provinces the *Syrus* was found serving princes,
@@ -121,9 +121,9 @@ profited considerably by the economic current that continually brought
 new worshipers. We find her mentioned in the first century of our era in
 a Roman inscription referring in precise terms to the slave market, and
 we know that Nero took a devout fancy to the stranger that did not,
-however, last very long. [5\_9](orrp18.htm#xref_5_9) In the popular
+however, last very long. [5\_9](orrp18.htm#xref_5_9.md) In the popular
 Trastevere quarter she had a temple until the end of
-paganism. [5\_10](orrp18.htm#xref_5_10)
+paganism. [5\_10](orrp18.htm#xref_5_10.md)
 
 <span id="page_107">p. 107</span>
 
@@ -135,7 +135,7 @@ different manner under the empire.
 
 At the beginning of our era the Syrian merchants, *Syri negotiatores*,
 undertook a veritable colonization of the Latin
-provinces. [5\_11](orrp18.htm#xref_5_11) During the second century
+provinces. [5\_11](orrp18.htm#xref_5_11.md) During the second century
 before Christ the traders of that nation had established settlements
 along the coast of Asia Minor, on the Piræus, and in the Archipelago. At
 Delos, a small island but a large commercial center, they maintained
@@ -158,7 +158,7 @@ coasts of the Mediterranean, even in
 
 <span id="page_108">p. 108</span>
 
-Spain. [5\_12](orrp18.htm#xref_5_12) At Malaga an inscription mentions a
+Spain. [5\_12](orrp18.htm#xref_5_12.md) At Malaga an inscription mentions a
 corporation formed by them. The Italian ports where business was
 especially active, Pozzuoli, Ostia, later Naples, attracted them in
 great numbers. But they did not confine themselves to the seashore; they
@@ -173,7 +173,7 @@ of the transportation of grain, and in the department of Ain a bilingual
 epitaph has been found mentioning a merchant of the third century, Thaïm
 or Julian, son of Saad, decurion of the city of Canatha in Syria, who
 owned two factories in the Rhone basin, where he handled goods from
-Aquitania. [5\_13](orrp18.htm#xref_5_13) Thus the Syrians spread over
+Aquitania. [5\_13](orrp18.htm#xref_5_13.md) Thus the Syrians spread over
 the entire province as far as Treves, where they had a strong colony.
 Not even the barbarian invasions of the fifth century stopped their
 immigration. Saint Jerome describes them traversing the entire Roman
@@ -188,7 +188,7 @@ entering the city of Orleans
 <span id="page_109">p. 109</span>
 
 in 585, was received by a crowd praising him "in the language of the
-Latins, the Jews and the Syrians." [5\_14](orrp18.htm#xref_5_14) The
+Latins, the Jews and the Syrians." [5\_14](orrp18.htm#xref_5_14.md) The
 merchant colonies existed until the Saracen corsairs destroyed the
 commerce of the Mediterranean.
 
@@ -201,7 +201,7 @@ silks and purple fabrics, also objects wrought by goldsmiths, to be used
 as patterns by the native artisans. Their moral and religious influence
 was not less considerable: for instance, it has been shown that they
 furthered the development of monastic life during the Christian period,
-and that the devotion to the crucifix [5\_15](orrp18.htm#xref_5_15) that
+and that the devotion to the crucifix [5\_15](orrp18.htm#xref_5_15.md) that
 grew up in opposition to the monophysites, was introduced into the
 Occident by them. During the first five centuries Christians felt an
 unconquerable repugnance to the representation of the Saviour of the
@@ -226,7 +226,7 @@ founded chapels in which they practised their exotic rites.
 It was easy for the divinities of the Phœnician coast to cross the seas.
 Among them were Adonis, whom the women of Byblos mourned; Balmarcodes,
 "the Lord of the dances," who came from Beirut; Marna, the master of
-rain, worshiped at Gaza; and Maiuma, [5\_16](orrp18.htm#xref_5_16) whose
+rain, worshiped at Gaza; and Maiuma, [5\_16](orrp18.htm#xref_5_16.md) whose
 nautical holiday was celebrated every spring on the coast near Ostia as
 well as in the Orient.
 
@@ -259,17 +259,17 @@ These annexations, therefore, were followed by a renewed influx of
 Syrian divinities into the Occident. At Pozzuoli, the last port of call
 of the Levantine vessels, there was a temple to the Baal of Damascus
 (*Jupiter Damascenus*) in which leading citizens officiated, and there
-were altars on which two golden camels [5\_17](orrp18.htm#xref_5_17)
+were altars on which two golden camels [5\_17](orrp18.htm#xref_5_17.md)
 were offered to Dusares, a divinity who had come from the interior of
 Arabia. They kept company with a divinity of more ancient repute, the
 Hadad of Baabek-Heliopolis (*Jupiter Heliopolitanus*), whose immense
 temple, considered one of the world's
-wonders, [5\_18](orrp18.htm#xref_5_18) had been restored by Antoninus
+wonders, [5\_18](orrp18.htm#xref_5_18.md) had been restored by Antoninus
 Pius, and may still be seen facing Lebanon in majestic elegance.
 Heliopolis and Beirut had been the most ancient colonies founded by
 Augustus in Syria. The god of Heliopolis participated in the privileged
 position granted to the inhabitants of those two cities, who worshiped
-in a common devotion, [5\_19](orrp18.htm#xref_5_19) and he was
+in a common devotion, [5\_19](orrp18.htm#xref_5_19.md) and he was
 naturalized as a Roman with greater ease than the others.
 
 The conquest of all Syria as far as Euphrates and the subjection of even
@@ -289,7 +289,7 @@ received irregulars from Palmyra, and bodies of troops levied in
 Ituraea, on the outskirts of the Arabian desert, were, encamped in
 Dacia, Germany, Egypt and Cappadocia at the same time. Commagene alone
 furnished no less than six cohorts of five hundred men each that were
-sent to the Danube and into Numidia. [5\_20](orrp18.htm#xref_5_20)
+sent to the Danube and into Numidia. [5\_20](orrp18.htm#xref_5_20.md)
 
 The number of inscriptions consecrated by soldiers proves both the ardor
 of their faith and the diversity of their beliefs. Like the sailors of
@@ -302,7 +302,7 @@ religion of their Baals in the neighborhood of their camps. In the north
 of England, near the wall of Hadrian, an inscription in verse in honor
 of the goddess of Hierapolis has been found; its author was a prefect,
 probably of a cohort of Hamites stationed at this distant
-post. [5\_21](orrp18.htm#xref_5_21)
+post. [5\_21](orrp18.htm#xref_5_21.md)
 
 Not all the soldiers, however, went to swell the ranks of believers
 worshiping divinities that had long been adopted by the Latin world, as
@@ -314,12 +314,12 @@ still greater distance than their predecessors, in fact
 from the outskirts of the barbarian world, because from those regions in
 particular trained men could be obtained. There were, for instance,
 *Baltis*, an "Our Lady" from Osroene beyond the
-Euphrates; [5\_22](orrp18.htm#xref_5_22) *Aziz*, the "strong god" of
+Euphrates; [5\_22](orrp18.htm#xref_5_22.md) *Aziz*, the "strong god" of
 Edessa, who was identified with the star
-Lucifer; [5\_23](orrp18.htm#xref_5_23) *Malakbel*, the "Lord's
+Lucifer; [5\_23](orrp18.htm#xref_5_23.md) *Malakbel*, the "Lord's
 messenger," patron of the soldiers from Palmyra, who appeared with
 several companions at Rome, in Numidia and in
-Dacia. [5\_24](orrp18.htm#xref_5_24) The most celebrated of those gods
+Dacia. [5\_24](orrp18.htm#xref_5_24.md) The most celebrated of those gods
 then was the Jupiter of Doliche, a small city of Commagene, that owed
 its fame to him. Because of the troops coming from that region, this
 obscure Baal, whose name is mentioned by no author, found worshipers in
@@ -328,7 +328,7 @@ of known inscriptions consecrated to him exceeds a hundred, and it is
 still growing. Being originally nothing but a god of lightning,
 represented as brandishing an ax, this local genius of the tempest was
 elevated to the rank of tutelary divinity of the imperial
-armies. [5\_25](orrp18.htm#xref_5_25)
+armies. [5\_25](orrp18.htm#xref_5_25.md)
 
 The diffusion of the Semitic religions in Italy that commenced
 imperceptibly under the republic became more marked after the first
@@ -354,7 +354,7 @@ of supreme divinity of the empire by subordinating the whole ancient
 pantheon to it; they never tire of giving revolting details about the
 dissoluteness of the debaucheries for which the festivities of the new
 *Sol invictus Elagabal* furnished a
-pretext. [5\_26](orrp18.htm#xref_5_26) However, the question arises
+pretext. [5\_26](orrp18.htm#xref_5_26.md) However, the question arises
 whether the Roman historians, being very hostile to that foreigner who
 haughtily favored the customs of his own country, did not misrepresent
 or partly misunderstand the facts. Heliogabalus's attempt to have his
@@ -365,7 +365,7 @@ time, and it must be remembered that the imperial policy could find the
 support of powerful Syrian colonies not only at Rome but all over the
 empire.
 
-Half a century later Aurelian [5\_27](orrp18.htm#xref_5_27) was inspired
+Half a century later Aurelian [5\_27](orrp18.htm#xref_5_27.md) was inspired
 by the same idea when he created a new worship, that of the "Invincible
 Sun." Worshiped in a splendid temple, by pontiffs equal in rank to those
 of ancient Rome, having magnificent plays held in his honor every fourth
@@ -415,7 +415,7 @@ if judged by those noticeable features that first attract our attention.
 It had retained a stock of very primitive ideas and some aboriginal
 nature worship that had lasted through many centuries and was to
 persist, in part, under Christianity and Islam until the present
-day. [5\_28](orrp18.htm#xref_5_28) Such were the worship of high
+day. [5\_28](orrp18.htm#xref_5_28.md) Such were the worship of high
 elevations on which a rustic enclosure sometimes marked the limits of
 the consecrated territory; the worship of the waters that flow to the
 sea, the streams that arise in the mountains, the springs that gush out
@@ -426,7 +426,7 @@ worship of the trees that shaded the altars and that nobody dared to
 fell or mutilate; the worship of stones, especially of the rough stones
 called bethels that were regarded, as their name (*beth-El*) indicates,
 as the residence of the god, or rather, as the matter in which the god
-was embodied. [5\_29](orrp18.htm#xref_5_29) Aphrodite Astarte was
+was embodied. [5\_29](orrp18.htm#xref_5_29.md) Aphrodite Astarte was
 worshiped in the shape of a conical stone at Paphos, and a black
 aerolite covered with projections and depressions to which a symbolic
 meaning was attributed represented Elagabal, and was transferred from
@@ -441,31 +441,31 @@ represented
 
 standing erect on animals. Thus the Dolichean Baal stood on a steer, and
 his spouse on a lion. Around certain temples there were sacred parks, in
-which savage beasts roamed at liberty, [5\_30](orrp18.htm#xref_5_30) a
+which savage beasts roamed at liberty, [5\_30](orrp18.htm#xref_5_30.md) a
 reminder of the time when they were considered divine. Two animals
 especially were the objects of universal veneration, the pigeon and the
 fish. Vagrant multitudes of pigeons received the traveler landing at
-Ascalon, [5\_31](orrp18.htm#xref_5_31) and they played about the
-enclosures of all the temples of Astarte [5\_32](orrp18.htm#xref_5_32)
+Ascalon, [5\_31](orrp18.htm#xref_5_31.md) and they played about the
+enclosures of all the temples of Astarte [5\_32](orrp18.htm#xref_5_32.md)
 in flocks resembling white whirlwinds. The pigeon belonged, properly
 speaking, to the goddess of love, whose symbol it has remained above all
 to the people worshiping that goddess.
 
 "Quid referam ut volitet crebras intacta per urbes  
-Alba Palaestino sancta columba Syro?" [5\_33](orrp18.htm#xref_5_33)
+Alba Palaestino sancta columba Syro?" [5\_33](orrp18.htm#xref_5_33.md)
 
 The fish was sacred to Atargatis, who undoubtedly had been represented
 in that shape at first, as Dagon always
-was. [5\_34](orrp18.htm#xref_5_34) The fish were kept in ponds in the
-proximity of the temples. [5\_35](orrp18.htm#xref_5_35) A superstitious
+was. [5\_34](orrp18.htm#xref_5_34.md) The fish were kept in ponds in the
+proximity of the temples. [5\_35](orrp18.htm#xref_5_35.md) A superstitious
 fear prevented people from touching them, because the goddess punished
 the sacrilegious by covering their bodies with ulcers and
-tumors. [5\_36](orrp18.htm#xref_5_36) At certain mystic repasts,
+tumors. [5\_36](orrp18.htm#xref_5_36.md) At certain mystic repasts,
 however, the priests and initiates consumed the forbidden food in the
 belief that they were absorbing the flesh of the divinity herself. That
 worship and its practices, which were spread over Syria, probably
 suggested the ichthus symbolism in the Christian
-period. [5\_37](orrp18.htm#xref_5_37)
+period. [5\_37](orrp18.htm#xref_5_37.md)
 
 However, over this lower and primordial stratum that still cropped out
 here and there, other less rudimentary beliefs had formed. Besides
@@ -475,13 +475,13 @@ adored by the Semitic tribes has been
 
 <span id="page_118">p. 118</span>
 
-ingeniously reconstructed. [5\_38](orrp18.htm#xref_5_38) Each tribe had
+ingeniously reconstructed. [5\_38](orrp18.htm#xref_5_38.md) Each tribe had
 its Baal and Baalat who protected it and whom only its members were
 permitted to worship. The name of *Ba‘al*, "master," summarizes the
 conception people had of him. In the first place he was regarded as the
 sovereign of his votaries, and his position in regard to them was that
 of an Oriental potentate towards his subjects; they were his servants,
-or rather his slaves. [5\_39](orrp18.htm#xref_5_39) The Baal was at the
+or rather his slaves. [5\_39](orrp18.htm#xref_5_39.md) The Baal was at the
 same time the "master" or proprietor of the country in which he resided
 and which he made fertile by causing springs to gush from its soil. Or
 his domain was the firmament and he was the *dominus caeli*, whence he
@@ -497,18 +497,18 @@ temples of Astarte, whose female servants honored the goddess with
 untiring ardor. In no country was sacred prostitution so developed as in
 Syria, and in the Occident it was to be found practically only where the
 Phœnicians had imported it, as on Mount Eryx. Those aberrations, that
-were kept up until the end of paganism, [5\_40](orrp18.htm#xref_5_40)
+were kept up until the end of paganism, [5\_40](orrp18.htm#xref_5_40.md)
 probably have their explanation in the primitive constitution of the
 Semitic tribe, and the religious custom must have been originally one of
 the forms of exogamy, which compelled the woman to unite herself first
-with a stranger. [5\_41](orrp18.htm#xref_5_41)
+with a stranger. [5\_41](orrp18.htm#xref_5_41.md)
 
 <span id="page_119">p. 119</span>
 
 As a second blemish, the Semitic religions practised human immolations
 longer than any other religion, sacrificing children and grown men in
 order to please sanguinary gods. In spite of Hadrian's prohibition of
-those murderous offerings, [5\_42](orrp18.htm#xref_5_42) they were
+those murderous offerings, [5\_42](orrp18.htm#xref_5_42.md) they were
 maintained in certain clandestine rites and in the lowest practices of
 magic, up to the fall of the idols, and even later. They corresponded to
 the ideas of a period during which the life of a captive or slave had no
@@ -523,11 +523,11 @@ origin coexisted, without any attempt to make them agree, or without
 success when the task was undertaken. In these beliefs zoolatry,
 litholatry and all the other nature worships outlived the savagery that
 had created them. More than anywhere else the gods had remained the
-chieftains of clans [5\_43](orrp18.htm#xref_5_43) because the tribal
+chieftains of clans [5\_43](orrp18.htm#xref_5_43.md) because the tribal
 organizations of Syria were longer lived and more developed than those
 of any other region. Under the empire many districts were still
 subjected to the tribal régime and commanded by "ethnarchs" or
-"phylarchs." [5\_44](orrp18.htm#xref_5_44) Religion, which sacrificed
+"phylarchs." [5\_44](orrp18.htm#xref_5_44.md) Religion, which sacrificed
 the lives of the men and the honor of the women to the divinity, had in
 many regards remained on the moral level of unsocial and sanguinary
 tribes. Its obscene and atrocious rites called forth exasperated
@@ -556,7 +556,7 @@ and modified their spirit when the letter was immutable, in order to
 make them agree with the new aspirations of a more advanced period. They
 had their mysteries and their initiates to whom they revealed a wisdom
 that was above the vulgar beliefs of the
-masses. [5\_45](orrp18.htm#xref_5_45)
+masses. [5\_45](orrp18.htm#xref_5_45.md)
 
 Frequently we can draw diametrically opposite conclusions from the same
 principle. In that manner the old idea of *tabu*, that seems to have
@@ -580,9 +580,9 @@ every violation of which meant a fall and demanded penance. The anxiety
 to remain constantly in a state of holiness or regain that state when it
 had been lost, filled one's entire existence. It was not peculiar to the
 Semitic tribes, but they ascribed a prime importance to
-it. [5\_46](orrp18.htm#xref_5_46) And the gods, who necessarily
+it. [5\_46](orrp18.htm#xref_5_46.md) And the gods, who necessarily
 possessed this quality in an eminent degree, were holy beings
-(ἅγιοι) [5\_47](orrp18.htm#xref_5_47) *par excellence*.
+(ἅγιοι) [5\_47](orrp18.htm#xref_5_47.md) *par excellence*.
 
 In this way principles of conduct and dogmas of faith have frequently
 been derived from instinctive and absurd old beliefs. All theological
@@ -593,7 +593,7 @@ influences contributed, from the conquests of Alexander to the Roman
 domination, to make the Syrian paganism what it became under the Cæsars.
 The civilization of the Seleucid empire is little known, and we cannot
 determine what caused the alliance of Greek thought with the Semitic
-traditions. [5\_48](orrp18.htm#xref_5_48) The religions of the
+traditions. [5\_48](orrp18.htm#xref_5_48.md) The religions of the
 neighboring nations
 
 <span id="page_122">p. 122</span>
@@ -603,9 +603,9 @@ tributaries of Egypt long after they had liberated themselves from the
 suzerainty of the Pharaohs. The theogony of Philo of Byblos took gods
 and myths from that country, and at Heliopolis Hadad was honored
 "according to Egyptian rather than Syrian
-rite." [5\_49](orrp18.htm#xref_5_49) The rigorous monotheism of the
+rite." [5\_49](orrp18.htm#xref_5_49.md) The rigorous monotheism of the
 Jews, who were dispersed over the entire country, must also have acted
-as an active ferment of transformation. [5\_50](orrp18.htm#xref_5_50)
+as an active ferment of transformation. [5\_50](orrp18.htm#xref_5_50.md)
 But it was Babylon that retained the intellectual supremacy, even after
 its political ruin. The powerful sacerdotal caste ruling it did not fall
 with the independence of the country, and it survived the conquests of
@@ -613,7 +613,7 @@ Alexander as it had previously lived through the Persian domination. The
 researches of Assyriologists have shown that its ancient worship
 persisted under the Seleucides, and at the time of Strabo the
 "Chaldeans" still discussed cosmology and first principles in the rival
-schools of Borsippa and Orchoë. [5\_51](orrp18.htm#xref_5_51) The
+schools of Borsippa and Orchoë. [5\_51](orrp18.htm#xref_5_51.md) The
 ascendancy of that erudite clergy affected all surrounding regions; it
 was felt by Persia in the east, Cappadocia in the north, but more than
 anywhere else by the Syrians, who were connected with the Oriental
@@ -624,7 +624,7 @@ Mesopotamia, inhabited by races of like origin, extended on both sides
 of an artificial border line; great commercial roads followed the course
 of the two rivers flowing into the Persian Gulf or cut across the
 desert, and the pilgrims came to Babylon, as Lucian tells us, to perform
-their devotions to the Lady of Bambyce. [5\_52](orrp18.htm#xref_5_52)
+their devotions to the Lady of Bambyce. [5\_52](orrp18.htm#xref_5_52.md)
 
 <span id="page_123">p. 123</span>
 
@@ -633,7 +633,7 @@ between Judaism and the great religious metropolis. At the birth of
 Christianity they manifested themselves in the rise of gnostic sects in
 which the Semitic mythology formed strange combinations with Jewish and
 Greek ideas and furnished the foundation for extravagant
-superstructures. [5\_53](orrp18.htm#xref_5_53) Finally, during the
+superstructures. [5\_53](orrp18.htm#xref_5_53.md) Finally, during the
 decline of the empire, it was Babylon again from which emanated
 Manicheism, the last form of idolatry received in the Latin world. We
 can imagine how powerful the religious influence of that country on the
@@ -642,13 +642,13 @@ Syrian paganism must have been.
 That influence manifested itself in various ways. First, it introduced
 new gods. In this way Bel passed from the Babylonian pantheon into that
 of Palmyra and was honored throughout northern
-Syria. [5\_54](orrp18.htm#xref_5_54) It also caused ancient divinities
+Syria. [5\_54](orrp18.htm#xref_5_54.md) It also caused ancient divinities
 to be arranged in new groups. To the primitive couple of the Baal and
 the Baalat a third member was added in order to form one of those triads
 dears to Chaldean theology. This took place at Hierapolis as well as at
 Heliopolis, and the three gods of the latter city, Hadad, Atargatis and
 Simios, became Jupiter, Venus and Mercury in Latin
-inscriptions. [5\_55](orrp18.htm#xref_5_55) Finally, and most important,
+inscriptions. [5\_55](orrp18.htm#xref_5_55.md) Finally, and most important,
 astrolatry wrought radical changes in the characters of the celestial
 powers, and, as a further consequence, in the entire Roman paganism. In
 the first place it gave them a second personality in addition to their
@@ -656,17 +656,17 @@ own nature. The sidereal myths superimposed themselves upon the agrarian
 myths, and gradually obliterated them. Astrology, born on the banks of
 the Euphrates, imposed itself in Egypt upon the haughty and
 unapproachable clergy of the most conservative of all
-nations. [5\_56](orrp18.htm#xref_5_56) Syria received
+nations. [5\_56](orrp18.htm#xref_5_56.md) Syria received
 
 <span id="page_124">p. 124</span>
 
 it without reserve and surrendered
-unconditionally; [5\_57](orrp18.htm#xref_5_57) numismatics and
+unconditionally; [5\_57](orrp18.htm#xref_5_57.md) numismatics and
 archeology as well as literature prove this. King Antiochus of
 Commagene, for instance, who died 34 B. C., built himself a monumental
 tomb on a spur of the Taurus, in which he placed his horoscope, designed
 on a large bas-relief, beside the images of his ancestral
-divinities. [5\_58](orrp18.htm#xref_5_58)
+divinities. [5\_58](orrp18.htm#xref_5_58.md)
 
 The importance which the introduction of the Syrian religions into the
 Occident has for us consists therefore in the fact that indirectly they
@@ -676,7 +676,7 @@ Occident. The Roman empire received successively the religious tribute
 of the two great nations that had formerly ruled the Oriental world. It
 is characteristic that the god Bel whom Aurelian brought from Asia to
 set up as the protector of his states, was in reality a Babylonian who
-had emigrated to Palmyra, [5\_59](orrp18.htm#xref_5_59) a cosmopolitan
+had emigrated to Palmyra, [5\_59](orrp18.htm#xref_5_59.md) a cosmopolitan
 center apparently predestined by virtue of its location to become the
 intermediary between the civilizations of the Euphrates and the
 Mediterranean.
@@ -688,7 +688,7 @@ popular. The entire neo-Platonist school used the names of those
 venerable masters, but it cannot be determined how much it really owes
 to them. A selection of poems that has often been quoted since the third
 century, under the title of "Chaldaic Oracles" <span
-id="fr_10"></span>[1](#fn_10) combines the ancient Hellenic theories
+id="fr_10"></span>[1](#fn_10.md) combines the ancient Hellenic theories
 with a fantastic
 
 <span id="page_125">p. 125</span>
@@ -725,20 +725,20 @@ it escaped that fate and even the limits of time;
 <span id="page_126">p. 126</span>
 
 it shared equally in the immortality of the sidereal gods that
-surrounded it. [5\_60](orrp18.htm#xref_5_60) In the opinion of some, the
+surrounded it. [5\_60](orrp18.htm#xref_5_60.md) In the opinion of some, the
 soul was attracted by the rays of the sun, and after passing through the
 moon, where it was purified, it lost itself in the shining star of
-day. [5\_61](orrp18.htm#xref_5_61) Another more purely astrological
+day. [5\_61](orrp18.htm#xref_5_61.md) Another more purely astrological
 theory, that was undoubtedly a development of the former, taught that
 the soul descended to earth from the heights of heaven by passing
 through the spheres of the seven planets. During its passage it acquired
 the dispositions and qualities proper to each planet. After death it
 returned to its original abode by the same route. To get from one sphere
 to another, it had to pass a door guarded by a commandant <span
-id="fr_11"></span>[1](#fn_11) [5\_62](orrp18.htm#xref_5_62) Only the
+id="fr_11"></span>[1](#fn_11) [5\_62](orrp18.htm#xref_5_62.md) Only the
 souls of initiates knew the password that made those incorruptible
 guardians yield, and under the conduct of a
-psychopompus [5\_63](orrp18.htm#xref_5_63) they ascended safely from
+psychopompus [5\_63](orrp18.htm#xref_5_63.md) they ascended safely from
 zone to zone. As the soul rose it divested itself of the passions and
 qualities it had acquired on its descent to the earth as though they
 were garments, and, free from sensuality, it penetrated into the eighth
@@ -749,19 +749,19 @@ generally accepted by the Syrian religions, as it was by the mysteries
 of Mithra, but these religions, impregnated with astrology, certainly
 propagated the belief that the souls of those worshipers that had led
 pious lives were elevated to the heights of heaven, where an apotheosis
-made them the equals of the luminous gods. [5\_64](orrp18.htm#xref_5_64)
+made them the equals of the luminous gods. [5\_64](orrp18.htm#xref_5_64.md)
 Under the empire this doctrine slowly supplanted all others; the Elysian
 fields, which the votaries of Isis and Serapis still located in
 
 <span id="page_127">p. 127</span>
 
 the depths of the earth, were transferred into the ether bathing the
-fixed stars, [5\_65](orrp18.htm#xref_5_65) and the underworld was
+fixed stars, [5\_65](orrp18.htm#xref_5_65.md) and the underworld was
 thereafter reserved for the wicked who had not been allowed to pass
 through the celestial gates.
 
 The sublime regions occupied by the purified souls were also the abode
-of the supreme god. [5\_66](orrp18.htm#xref_5_66) When it transformed
+of the supreme god. [5\_66](orrp18.htm#xref_5_66.md) When it transformed
 the ideas on the destiny of man, astrology also modified those relating
 to the nature of the divinity. In this matter the Syrian religions were
 especially original; for even if the Alexandrian mysteries offered man
@@ -773,41 +773,41 @@ times to which we can trace their existence, broaden and rise until they
 form a kind of monotheism.
 
 As we have seen, the Syrian tribes worshiped a god of
-lightning, [5\_67](orrp18.htm#xref_5_67) like all primitive races. That
+lightning, [5\_67](orrp18.htm#xref_5_67.md) like all primitive races. That
 god opened the reservoirs of the firmament to let the rain fall and
 split the giant trees of the woods with the double ax that always
-remained his emblem. [5\_68](orrp18.htm#xref_5_68) When the progress of
+remained his emblem. [5\_68](orrp18.htm#xref_5_68.md) When the progress of
 astronomy removed the constellations to incommensurable distances, the
 "Baal of the Heavens" (*Ba‘al šamîn*) had to grow in majesty.
 Undoubtedly at the time of the Achemenides, he was connected with the
 Ahura-Mazda of the Persians, the ancient god of the vault of heaven, who
 had become the highest physical and moral power, and this connection
 helped to transform the old genius of
-thunder. [5\_69](orrp18.htm#xref_5_69) People continued to worship the
+thunder. [5\_69](orrp18.htm#xref_5_69.md) People continued to worship the
 material heaven in him; under the Romans he was still simply called
 
 <span id="page_128">p. 128</span>
 
 \[paragraph continues\] *Caelus*, as well as "Celestial Jupiter"
-(*Jupiter Caelestis*, Ζεὺς Οὐράνιος), [5\_70](orrp18.htm#xref_5_70) but
+(*Jupiter Caelestis*, Ζεὺς Οὐράνιος), [5\_70](orrp18.htm#xref_5_70.md) but
 it was a heaven studied by a sacred science that venerated its
 harmonious mechanism. The Seleucides represented him on their coins with
 a crescent over his forehead and carrying a sun with seven rays, to
 symbolize the fact that he presided over the course of the
-stars; [5\_71](orrp18.htm#xref_5_71) or else he was shown with the two
+stars; [5\_71](orrp18.htm#xref_5_71.md) or else he was shown with the two
 Dioscuri at his side, heroes who enjoyed life and suffered death in
 turn, according to the Greek myth, and who had become the symbols of the
 two celestial hemispheres. Religious uranography placed the residence of
 the supreme divinity in the most elevated region of the world, fixing
 its abode in the zone most distant from the earth, above the planets and
 the fixed stars. This fact was intended to be expressed by the term
-Most-High <span id="fr_12"></span>[1](#fn_12) applied to the Syrian
-Baals as well as to Jehovah. [5\_72](orrp18.htm#xref_5_72) According to
+Most-High <span id="fr_12"></span>[1](#fn_12.md) applied to the Syrian
+Baals as well as to Jehovah. [5\_72](orrp18.htm#xref_5_72.md) According to
 this cosmic religion, the Most High resided in the immense orb that
 contained the spheres of all the stars and embraced the entire universe
 which was subject to his domination. The Latins translated the name of
 this "Hypsistos" by *Jupiter summus
-exsuperantissimus* [5\_73](orrp18.htm#xref_5_73) to indicate his
+exsuperantissimus* [5\_73](orrp18.htm#xref_5_73.md) to indicate his
 preeminence overall divine beings.
 
 As a matter of fact, his power was infinite. The primary postulate of
@@ -826,14 +826,14 @@ after the image of an Asiatic monarch, and the religious terminology was
 evidently intended to display the humility of their priests toward them.
 In Syria we find nothing analogous to what existed in Egypt, where the
 priest thought he could compel the gods to act, and even dared to
-threaten them. [5\_74](orrp18.htm#xref_5_74) The distance separating the
+threaten them. [5\_74](orrp18.htm#xref_5_74.md) The distance separating the
 human and the divine always was much greater with the Semitic tribes,
 and all that astrology did was to emphasize the distance more strongly
 by giving it a doctrinal foundation and a scientific appearance. In the
 Latin world the Asiatic religions propagated the conception of the
 absolute and illimitable sovereignty of God over the earth. Apuleius
 calls the Syrian goddess *omnipotens et omniparens*, "mistress and
-mother of all things." [5\_75](orrp18.htm#xref_5_75)
+mother of all things." [5\_75](orrp18.htm#xref_5_75.md)
 
 The observation of the starry skies, moreover, had led the Chaldeans to
 the notion of a divine eternity. The constancy of the sidereal
@@ -842,10 +842,10 @@ follow their ever uncompleted courses unceasingly; as soon as the end of
 their journey is reached, they resume without stopping the road already
 covered, and the cycles of years in which their movements take place
 extend from the indefinite past into the indefinite
-future. [5\_76](orrp18.htm#xref_5_76) Thus a clergy of astronomers
+future. [5\_76](orrp18.htm#xref_5_76.md) Thus a clergy of astronomers
 necessarily conceived Baal, "Lord of the heavens," as the "Master of
 eternity" or "He whose name is praised through all
-eternity" [5\_77](orrp18.htm#xref_5_77)--titles which constantly recur
+eternity" [5\_77](orrp18.htm#xref_5_77.md)--titles which constantly recur
 in Semitic inscriptions. The divine stars did not die, like Osiris or
 Attis; whenever they seemed to weaken, they were
 
@@ -854,12 +854,12 @@ Attis; whenever they seemed to weaken, they were
 born to a new life and always remained invincible (*invicti*).
 
 Together with the mysteries of the Syrian Baals, this theological notion
-penetrated into Occidental paganism. [5\_78](orrp18.htm#xref_5_78)
+penetrated into Occidental paganism. [5\_78](orrp18.htm#xref_5_78.md)
 Whenever an inscription to a *deus aeternus* is found in the Latin
 provinces it refers to a Syrian sidereal god, and it is a remarkable
 fact that this epithet did not enter the ritual before the second
 century, at the time the worship of the god Heaven
-(*Caelus*) [5\_79](orrp18.htm#xref_5_79) was propagated. That the
+(*Caelus*) [5\_79](orrp18.htm#xref_5_79.md) was propagated. That the
 philosophers had long before placed the first cause beyond the limits of
 time was of no consequence, for their theories had not penetrated into
 the popular consciousness nor modified the traditional formulary of the
@@ -876,21 +876,21 @@ limitless in regard to space as it had been in regard to time. These two
 principles were correlative. The title of "*mar‘olam*" which the Baals
 bore occasionally may be translated by "Lord of the universe," or by
 "Lord of eternity," and efforts certainly have been made to claim the
-twofold quality for them. [5\_80](orrp18.htm#xref_5_80) Peopled with
+twofold quality for them. [5\_80](orrp18.htm#xref_5_80.md) Peopled with
 divine constellations and traversed by planets assimilated to the
 inhabitants of Olympus, the heavens determined the destinies of the
 
 <span id="page_131">p. 131</span>
 
 entire human race by their movements, and the whole earth was subject to
-the changes produced by their revolutions. [5\_81](orrp18.htm#xref_5_81)
+the changes produced by their revolutions. [5\_81](orrp18.htm#xref_5_81.md)
 Consequently the old *Ba‘al šamîn* was necessarily transformed into a
 universal power. Of course, even under the Cæsars there existed in Syria
 traces of a period when the local god was the fetich of a clan and could
 be worshiped by the members of that clan only, a period when strangers
 were admitted to his altars only after a ceremony of initiation, as
 brothers, or at least as guests and
-clients. [5\_82](orrp18.htm#xref_5_82) But from the period when our
+clients. [5\_82](orrp18.htm#xref_5_82.md) But from the period when our
 knowledge of the history of the great divinities of Heliopolis or
 Hierapolis begins, these divinities were regarded as common to all
 Syrians, and crowds of pilgrims came from distant countries to obtain
@@ -916,11 +916,11 @@ life full of adventures and experiences, and each followed its special
 calling to the exclusion of all the others. One was a physician, another
 a poet, a third a shepherd, hunter or blacksmith. The Greek inscriptions
 found in Syria are, in this regard, eloquently
-concise. [5\_83](orrp18.htm#xref_5_83) Usually they have the name of
+concise. [5\_83](orrp18.htm#xref_5_83.md) Usually they have the name of
 Zeus accompanied by some simple epithet: *kurios* <span
-id="fr_13"></span>[1](#fn_13) (Lord), *aniketos* <span
-id="fr_14"></span>[2](#fn_14) (invincible), *megistos* <span
-id="fr_15"></span>[3](#fn_15) (greatest). All these Baals seem to have
+id="fr_13"></span>[1](#fn_13) (Lord.md), *aniketos* <span
+id="fr_14"></span>[2](#fn_14) (invincible.md), *megistos* <span
+id="fr_15"></span>[3](#fn_15) (greatest.md). All these Baals seem to have
 been brothers. They were personalities of indeterminate outline and
 interchangeable powers and were readily confused.
 
@@ -929,12 +929,12 @@ passed through a period of syncretism similar to the one we can study
 with greater precision in the Latin world. The ancient exclusiveness and
 the national particularism had been overcome. The Baals of the great
 sanctuaries had enriched themselves with the
-virtues [5\_84](orrp18.htm#xref_5_84) of their neighbors; then, always
+virtues [5\_84](orrp18.htm#xref_5_84.md) of their neighbors; then, always
 following the same process, they had taken certain features from foreign
 divinities brought over by the Greek conquerors. In that manner their
 characters had become indefinable, they performed incompatible functions
 and possessed irreconcilable attributes. An inscription found in
-Britain [5\_85](orrp18.htm#xref_5_85) assimilates the Syrian goddess to
+Britain [5\_85](orrp18.htm#xref_5_85.md) assimilates the Syrian goddess to
 Peace, Virtue, Ceres, Cybele, and even to the sign of the Virgin.
 
 In conformity with the law governing the development of paganism, the
@@ -948,7 +948,7 @@ itself. Although Syria remained
 deeply and even coarsely idolatrous in practice, in theory it approached
 monotheism or, better perhaps, henotheism. By an absurd but curious
 etymology the name Hadad has been explained as "one, one" (*‘ad
-‘ad*). [5\_86](orrp18.htm#xref_5_86)
+‘ad*). [5\_86](orrp18.htm#xref_5_86.md)
 
 Everywhere the narrow and divided polytheism showed a confused tendency
 to elevate itself into a superior synthesis, but in Syria astrology lent
@@ -966,7 +966,7 @@ the planets that governed the course of time and of all things.
 
 The sun was supreme because it led the starry choir, because it was the
 king and guide of all the other luminaries and therefore the master of
-the whole world. [5\_87](orrp18.htm#xref_5_87) The astronomical
+the whole world. [5\_87](orrp18.htm#xref_5_87.md) The astronomical
 doctrines of the "Chaldeans" taught that this incandescent globe
 alternately attracted and repelled the other sidereal bodies, and from
 this principle the Oriental theologians had concluded that it must
@@ -986,7 +986,7 @@ the universe, the radiant star that gives us light became the visible
 image of the supreme power, the source of all life and all intelligence,
 the intermediary between an inaccessible god and mankind, and the one
 object of special homage from the
-multitude. [5\_88](orrp18.htm#xref_5_88)
+multitude. [5\_88](orrp18.htm#xref_5_88.md)
 
 Solar pantheism, which grew up among the Syrians of the Hellenistic
 period as a result of the influence of Chaldean astrolatry, imposed
@@ -998,7 +998,7 @@ of the pagan Semites and in consequence by that of the Romans, was a
 divinity unique, almighty, eternal, universal and ineffable, that
 revealed itself throughout nature, but whose most splendid and most
 energetic manifestation was the sun. To arrive at the Christian
-monotheism [5\_89](orrp18.htm#xref_5_89) only one final tie had to be
+monotheism [5\_89](orrp18.htm#xref_5_89.md) only one final tie had to be
 broken, that is to say, this supreme being residing in a distant heaven
 had to be removed beyond the world. So we see once more in this
 instance, how the propagation of the Oriental cults levelled the roads
@@ -1010,20 +1010,20 @@ dogmas the church was to proclaim.
 
 ### Footnotes
 
-<span id="fn_9"></span>[104:1](orrp09.htm#fr_9) Συρία θεά.
+<span id="fn_9"></span>[104:1](orrp09.htm#fr_9.md) Συρία θεά.
 
-<span id="fn_10"></span>[124:1](orrp09.htm#fr_10) Λόγια Χαλδαϊκά.
+<span id="fn_10"></span>[124:1](orrp09.htm#fr_10.md) Λόγια Χαλδαϊκά.
 
-<span id="fn_11"></span>[126:1](orrp09.htm#fr_11) ἅρχων.
+<span id="fn_11"></span>[126:1](orrp09.htm#fr_11.md) ἅρχων.
 
-<span id="fn_12"></span>[128:1](orrp09.htm#fr_12) Ὕψιστος.
+<span id="fn_12"></span>[128:1](orrp09.htm#fr_12.md) Ὕψιστος.
 
-<span id="fn_13"></span>[132:1](orrp09.htm#fr_13) κύριος.
+<span id="fn_13"></span>[132:1](orrp09.htm#fr_13.md) κύριος.
 
-<span id="fn_14"></span>[132:2](orrp09.htm#fr_14) ἀνίκητος.
+<span id="fn_14"></span>[132:2](orrp09.htm#fr_14.md) ἀνίκητος.
 
-<span id="fn_15"></span>[132:3](orrp09.htm#fr_15) μέγιστος.
+<span id="fn_15"></span>[132:3](orrp09.htm#fr_15.md) μέγιστος.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Persia](orrp10)
+[Next: VI. Persia](orrp10.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](chj00)    [Page
-Index](pageidx)    [Text \[Zipped\]](chj.txt.gz)
+[Contents](#contents)    [Start Reading](chj00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](chj.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -58,37 +58,37 @@ religions.--<span class="small">J. B. Hare, November 26th, 2008.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](chj00)  
-[Preface](chj01)  
-[Contents](chj02)  
-[Chapter I. Mahāyāna](chj03)  
-[Chapter II. The Stage on which S’akyamuni made his Appearance](chj04)  
-[Chapter III. The Buddha and his Greatest Disciple](chj05)  
-[Chapter IV. The Pre-Christian Expansion of Buddhism](chj06)  
-[Chapter V. Pusityamitra](chj07)  
-[Chapter IV. The New Testament in Touch with the East](chj08)  
-[Chapter VII. Alexandria and Antioch at the Time of Christ](chj09)  
-[Chapter VIII. The Legend of St. Thomas](chj10)  
-[Chapter IX. The Call from China](chj11)  
-[Chapter X. Buddhism just before the Coming of Christianity](chj12)  
-[Chapter XI. As’vaghosha](chj13)  
-[Chapter XII. Nāgārjuna](chj14)  
-[Chapter XIII. The Missionaries of the Han](chj15)  
-[Chapter XIV. Dharmagupta](chj16)  
-[Chapter XV. Manichæism](chj17)  
-[Chapter XVI. China in the Third, Fourth, and Fifth Centuries](chj18)  
-[Chapter XVII. Buddhism Reaches Japan](chj19)  
-[Chapter XVIII. The Crown Prince Shōtoku Taishi](chj20)  
-[Chapter XIX. Buddhism during the Nara Period](chj21)  
-[Chapter XX. Heian Buddhism](chj22)  
-[Chapter XXI. “Namudaishi”](chj23)  
-[Chapter XXII. The Buddhism of the Gempei Period](chj24)  
-[Chapter XXIII. The Buddhism of Kamakura](chj25)  
-[Chapter XXIV. Nichiren and the Earlier Sects](chj26)  
-[Chapter XXV. “Risshō Ankoku Ron”](chj27)  
-[Chapter XXVI. The Mongols](chj28)  
-[Chapter XXVII. The Buddhism of the Muromachi Age](chj29)  
-[Chapter XXVIII. The Period of the Catholic Missions](chj30)  
-[Chapter XXIX. The Buddhism of the Tokugawa Period](chj31)  
-[Chapter XXX. Recapitulation](chj32)  
-[Index](chj33)  
+<span id="contents"></span> [Title Page](chj00.md)  
+[Preface](chj01.md)  
+[Contents](chj02.md)  
+[Chapter I. Mahāyāna](chj03.md)  
+[Chapter II. The Stage on which S’akyamuni made his Appearance](chj04.md)  
+[Chapter III. The Buddha and his Greatest Disciple](chj05.md)  
+[Chapter IV. The Pre-Christian Expansion of Buddhism](chj06.md)  
+[Chapter V. Pusityamitra](chj07.md)  
+[Chapter IV. The New Testament in Touch with the East](chj08.md)  
+[Chapter VII. Alexandria and Antioch at the Time of Christ](chj09.md)  
+[Chapter VIII. The Legend of St. Thomas](chj10.md)  
+[Chapter IX. The Call from China](chj11.md)  
+[Chapter X. Buddhism just before the Coming of Christianity](chj12.md)  
+[Chapter XI. As’vaghosha](chj13.md)  
+[Chapter XII. Nāgārjuna](chj14.md)  
+[Chapter XIII. The Missionaries of the Han](chj15.md)  
+[Chapter XIV. Dharmagupta](chj16.md)  
+[Chapter XV. Manichæism](chj17.md)  
+[Chapter XVI. China in the Third, Fourth, and Fifth Centuries](chj18.md)  
+[Chapter XVII. Buddhism Reaches Japan](chj19.md)  
+[Chapter XVIII. The Crown Prince Shōtoku Taishi](chj20.md)  
+[Chapter XIX. Buddhism during the Nara Period](chj21.md)  
+[Chapter XX. Heian Buddhism](chj22.md)  
+[Chapter XXI. “Namudaishi”](chj23.md)  
+[Chapter XXII. The Buddhism of the Gempei Period](chj24.md)  
+[Chapter XXIII. The Buddhism of Kamakura](chj25.md)  
+[Chapter XXIV. Nichiren and the Earlier Sects](chj26.md)  
+[Chapter XXV. “Risshō Ankoku Ron”](chj27.md)  
+[Chapter XXVI. The Mongols](chj28.md)  
+[Chapter XXVII. The Buddhism of the Muromachi Age](chj29.md)  
+[Chapter XXVIII. The Period of the Catholic Missions](chj30.md)  
+[Chapter XXIX. The Buddhism of the Tokugawa Period](chj31.md)  
+[Chapter XXX. Recapitulation](chj32.md)  
+[Index](chj33.md)  

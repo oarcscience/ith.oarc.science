@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Ainu](../ainu/index)  [Index](index) [Previous](safl04) [Next](safl06)
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Ainu](../ainu/index)  [Index](index) [Previous](safl04) [Next](safl06.md)
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ like a sensible man.
  
 
 A<span class="small">HETENRAI</span>.<span
-id="page_130_fr_*"></span>[\*](#page_130_note_*)
+id="page_130_fr_*"></span>[\*](#page_130_note_*.md)
 
 1\.
 
@@ -214,7 +214,7 @@ shadow; or as the words are:—"it is not." i.e. it ceases to be.
 
 ------------------------------------------------------------------------
 
-[Next](safl06)
+[Next](safl06.md)
 
 ------------------------------------------------------------------------
 
@@ -222,7 +222,7 @@ shadow; or as the words are:—"it is not." i.e. it ceases to be.
 
 <span id="footnotes_page_130">p. 130</span>
 
-<span id="page_130_note_*"></span>[\*](#page_130_fr_*) *Ahetenrai* is
+<span id="page_130_note_*"></span>[\*](#page_130_fr_*.md) *Ahetenrai* is
 the tune or tone of voice in which this legend is recited.
 
  

@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mrci10)  [Next](mrci12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mrci10)  [Next](mrci12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Mission Record of the California Indians*, by A.L. Kroeber, \[1908\],
 at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-#### *San Antonio*. <span id="fr_46"></span>[46](#fn_46)
+#### *San Antonio*. <span id="fr_46"></span>[46](#fn_46.md)
 
 Two distinct languages spoken by the Indians are known: the predominant
 language, that of the site of the mission, which is understood to the
@@ -58,18 +58,18 @@ that when many sing together some go an octave higher than the rest. Of
 their songs most are merry, but some are somewhat mistes in parts. In
 all these songs they do not make any statement (proposicion), but only
 use fluent words, naming birds, places of their country, and so
-on. <span id="fr_47"></span>[47](#fn_47)
+on. <span id="fr_47"></span>[47](#fn_47.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_46"></span>[18:46](mrci11.htm#fr_46) San Antonio is the
+<span id="fn_46"></span>[18:46](mrci11.htm#fr_46.md) San Antonio is the
 northernmost of the two missions in Salinan territory. The missionaries
 there who might have contributed to this report were Pedro Cabot and
 Juan Bautista Sancho.
 
-<span id="fn_47"></span>[19:47](mrci11.htm#fr_47) The description of the
+<span id="fn_47"></span>[19:47](mrci11.htm#fr_47.md) The description of the
 flute accords well with specimens that have been collected from Indians
 of other parts of California, except that it is very doubtful whether
 any such flute could produce eight tones or had as many as eleven stops.
@@ -85,4 +85,4 @@ this series.
 
 ------------------------------------------------------------------------
 
-[Next: San Carlos](mrci12)
+[Next: San Carlos](mrci12.md)

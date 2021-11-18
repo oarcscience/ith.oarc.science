@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi06)  [Next](hpi08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi06)  [Next](hpi08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -88,7 +88,7 @@ needful" was the only thing cared for.
 4\. The Mesopotamian city of Harran, in the neighbourhood of Edessa,
 takes a place of its own. In this city, especially when it began to
 flourish again after the Arab conquest, ancient Semitic paganism comes
-into association with [mathematical](errata.htm#1) and astronomical
+into association with [mathematical](errata.htm#1.md) and astronomical
 studies and Neo-Pythagorean and Neo-Platonic speculation. The
 Harranaeans or Sabaeans, as they were called in the 9<sup>th</sup> and
 10<sup>th</sup> centuries, traced their mystic lore back to Hermes
@@ -181,7 +181,7 @@ the early scholasticism of the West, extended to the Categories, the
 Hermeneutics, and the first Analytics as far as the Categorical Figures.
 They stood in need of the Logic in order to comprehend the writings of
 Greek ecclesiastical teachers, since these, at least in form, were
-influenced thereby. But as they did not [possess](errata.htm#2) it
+influenced thereby. But as they did not [possess](errata.htm#2.md) it
 complete, as little did they possess it pure. They had it before them
 only in a Neo-Platonic redaction, as may be seen, for example, from the
 work of Paulus Persa, which was written in Syriac for Khosrau
@@ -418,7 +418,7 @@ Pythagorising Platonism or Neo-Platonism, or even a barren Syncretism
 was quite frankly taught.
 
 Let us take here as our first example "the Book of the Apple" <span
-id="fr_6"></span>[1](#fn_6), wherein Aristotle plays the same part as
+id="fr_6"></span>[1](#fn_6.md), wherein Aristotle plays the same part as
 Socrates in the Phaedo of Plato. As his end draws near, the Philosopher
 is visited by some of his disciples who find him in a cheerful frame of
 mind. This leads them to request their departing Master to give them
@@ -506,7 +506,7 @@ above, for the good and blessed stars, which spend their contemplative
 existence as sources of light, exalted above presentation and effort.
 
 That then is the oriental Aristotle, as he was acknowledged by the
-earliest Peripatetics in Islam <span id="fr_7"></span>[1](#fn_7).
+earliest Peripatetics in Islam <span id="fr_7"></span>[1](#fn_7.md).
 
 14\. We need not wonder that the Easterns did not succeed in reaching an
 unadulterated conception of the Aristotelian philosophy. Our critical
@@ -604,16 +604,16 @@ materials which were before them.
 
 ### Footnotes
 
-<span id="fn_6"></span>[24:1](hpi07.htm#fr_6) The dialogue has received
+<span id="fn_6"></span>[24:1](hpi07.htm#fr_6.md) The dialogue has received
 this name from the circumstance that during the conversation Aristotle
 holds in his hand an apple, the smell of which keeps awake what remains
 of his vital powers. At the close, his hand drops powerless, and the
 apple falls to the ground.
 
-<span id="fn_7"></span>[27:1](hpi07.htm#fr_7) Farther, an epitome of the
+<span id="fn_7"></span>[27:1](hpi07.htm#fr_7.md) Farther, an epitome of the
 στοιχείωσις θεολογική of Proclus, was held even in later times to be a
 genuine work of Aristotle's.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Grammatical Science](hpi08)
+[Next: 1. Grammatical Science](hpi08.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl08)  [Next](isl10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl08)  [Next](isl10.md) 
 
 ------------------------------------------------------------------------
 
@@ -159,7 +159,7 @@ Woe that day unto those who cry it lies!
 
 Did We not create you of a mean water,  
 that We laid within a sure lodging  
-  till a known term decreed? <span id="fr_6"></span>[7](#fn_6)  
+  till a known term decreed? <span id="fr_6"></span>[7](#fn_6.md)  
 We determined; excellent determiners are We.  
 Woe that day unto those who cry it lies!
 
@@ -207,9 +207,9 @@ In what discourse after this will they believe? (77:1-50)
 
 ### Footnotes
 
-<span id="fn_6"></span>[56:7](isl09.htm#fr_6) These verses refer to
+<span id="fn_6"></span>[56:7](isl09.htm#fr_6.md) These verses refer to
 human conception and gestation.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](isl10)
+[Next: Introduction](isl10.md)

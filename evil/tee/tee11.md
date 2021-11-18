@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](tee10)  [Next](tee12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](tee10)  [Next](tee12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Evil Eye*, by Frederick Thomas Elworthy, \[1895\], at Intangible
 Textual Heritage
 
@@ -102,12 +102,12 @@ than with this. The
 
 <span id="page_236">p. 236</span>
 
-latter is defined <span id="fr_398"></span>[377](#fn_398) as "the art or
+latter is defined <span id="fr_398"></span>[377](#fn_398.md) as "the art or
 science of gesticulation, or of moving the hands according to rule in
 oratory, pantomime," etc. To this definition we venture to add, "the art
 of representing such gesticulation," etc., and this will be found later
 a needful qualification. As a science we are told <span
-id="fr_399"></span>[378](#fn_399) that chironomy is of great antiquity.
+id="fr_399"></span>[378](#fn_399.md) that chironomy is of great antiquity.
 "Numa Pompilius, the successor of Romulus, publicly made use of the art
 of chironomy, or of gesture with the hands, as a means of counting" (or
 reckoning, *per conteggiare*). "Not only Pliny the historian, but also
@@ -115,8 +115,8 @@ Macrobius assures us, that Numa, in establishing a religion for the
 fierce Romans, caused a statue of Janus to be made with two heads, or
 with two faces, but with the fingers bent (*piegate*) in such a manner
 as to represent, according to Pliny, <span
-id="fr_400"></span>[379](#fn_400) the number 350, and according to
-Macrobius <span id="fr_401"></span>[380](#fn_401) the number 365."
+id="fr_400"></span>[379](#fn_400.md) the number 350, and according to
+Macrobius <span id="fr_401"></span>[380](#fn_401.md) the number 365."
 
 In considering this evidence, we speak of making by the hand a certain
 gesture, a certain sign, which may convey (*significasse*) to all the
@@ -128,7 +128,7 @@ with the previous habit or convention of the people, he would have been
 considered the most foolish of mankind. And therefore we are compelled
 to conclude the Romans to have then understood (*intendessero*) that
 part of chironomy as belonging to the gesture of counting. <span
-id="fr_402"></span>[381](#fn_402)
+id="fr_402"></span>[381](#fn_402.md)
 
 <span id="page_237">p. 237</span>
 
@@ -137,7 +137,7 @@ that the Greek word
 
 <span id="img_23700"></span> <span align="CENTER"> [![FIG.
 93.](tn/23700.jpg)  
-Click to enlarge](img/23700.jpg)  
+Click to enlarge](img/23700.jpg.md)  
 FIG. 93.  
 </span>
 
@@ -152,7 +152,7 @@ to the source whence the
 
 <span id="img_23800"></span> <span align="CENTER"> [![FIG.
 94.](tn/23800.jpg)  
-Click to enlarge](img/23800.jpg)  
+Click to enlarge](img/23800.jpg.md)  
 FIG. 94.  
 </span>
 
@@ -162,12 +162,12 @@ position of the fingers of the left hand, so as to indicate any
 
 <span id="page_239">p. 239</span>
 
-number up to go (Figs. [93](#img_23700), [94](#img_23800)). For instance
+number up to go (Figs. [93](#img_23700), [94](#img_23800).md). For instance
 he says:--
 
 <span id="img_23900"></span> <span align="CENTER"> [![FIG.
 95.](tn/23900.jpg)  
-Click to enlarge](img/23900.jpg)  
+Click to enlarge](img/23900.jpg.md)  
 FIG. 95.  
 </span>
 
@@ -199,12 +199,12 @@ index. For 90, make the nail of the index touch the root of the thumb.
 No signs for the hundreds are made by the left hand. "One sees an
 exemplification of this, when Juvenal, alluding to Nestor, said that he
 counted the years with his right hand." <span
-id="fr_403"></span>[382](#fn_403)
+id="fr_403"></span>[382](#fn_403.md)
 
 To denote hundreds, make the same gestures with the right hand as have
 been described for denoting the tens with the left. Hence to indicate
 100, make with the right hand the same sign as is made with the left for
-10 (Fig. [95](#img_23900)).
+10 (Fig. [95](#img_23900).md).
 
 Consequently you denote 200 with the right hand in the same manner as 20
 with the left; and so on with the other hundreds.
@@ -215,10 +215,10 @@ hand in the same way as 1 by the left, and so on.
 
 Our author describes the way to denote tens up to hundreds of thousands,
 but enough has been extracted for our purpose, and to complete the
-explanation we here reproduce the plates (Figs. [93](#img_23700),
-[94](#img_23800), [95](#img_23900)) with which he illustrates his
+explanation we here reproduce the plates (Figs. [93](#img_23700.md),
+[94](#img_23800), [95](#img_23900).md) with which he illustrates his
 subject, and which make it quite clear, so far as we have dealt with
-it. <span id="fr_404"></span>[383](#fn_404)
+it. <span id="fr_404"></span>[383](#fn_404.md)
 
 <span id="page_241">p. 241</span>
 
@@ -242,7 +242,7 @@ the writer,
 
 <span id="img_24100"></span> <span align="CENTER"> [![FIG.
 96.-101.](tn/24100.jpg)  
-Click to enlarge](img/24100.jpg)  
+Click to enlarge](img/24100.jpg.md)  
 FIG. 96.-101.  
 </span>
 
@@ -257,7 +257,7 @@ belonging "to the first age of iron," a period of extreme antiquity. The
 eyelets for suspension show that these objects were intended to be worn.
 They are mere pieces of bronze plate cut into the shapes, and about the
 sizes here drawn-perhaps a little larger. It is not easy to measure an
-article in a glass case. [Fig. 100](tee08.htm#img_21400) has two hands
+article in a glass case. [Fig. 100](tee08.htm#img_21400.md) has two hands
 remaining out of four which originally hung upon the same triangle.
 Whether or not the triangle represented anything more than a convenient
 shape for the suspender we cannot now decide--probably it did; but the
@@ -285,13 +285,13 @@ FIG. 102<br />
 one is any particular gesture depicted. All the rest have the mere open
 palm and extended fingers; but as skill improved, we find attempts more
 or less successful to represent the hand in definite positions or
-gestures. [Fig. 102](#img_24200) is decidedly of much later work than
+gestures. [Fig. 102](#img_24200.md) is decidedly of much later work than
 the others, though exhibited at Bologna in the same case with the
 others.
 
 In the Ashmolean Museum are many examples of the open hand, in blue
 pottery, showing piercings or handle attachments for suspension as
-amulets. <span id="fr_405"></span>[384](#fn_405)
+amulets. <span id="fr_405"></span>[384](#fn_405.md)
 
 <span id="page_243">p. 243</span>
 
@@ -311,11 +311,11 @@ excavated by that monotheistic Pharaoh, Khuenaten ("the beloved of the
 Sun's disc"), at Tel-el-Amarna. There he and his court are adoring the
 sun, whose rays are stretching out towards them; but in every case, and
 there are several such scenes in the tombs, each ray terminates in an
-open hand. The accompanying illustration ([Fig. 103](#img_24400)) is
+open hand. The accompanying illustration ([Fig. 103](#img_24400).md) is
 from *Wilkinson*, vol. iii. p. 52, the only drawing available, but it is
 unsatisfactory, and the writer regrets he made no sketch on the
-spot. <span id="fr_406"></span>[385](#fn_406) The date of these tombs is
-given as 1500 B.C., <span id="fr_407"></span>[386](#fn_407) and as their
+spot. <span id="fr_406"></span>[385](#fn_406.md) The date of these tombs is
+given as 1500 B.C., <span id="fr_407"></span>[386](#fn_407.md) and as their
 history is well known, this is probably one of the most exact in
 Egyptian chronology. The use of the hand as a sign of the divine
 presence and power is thus fixed at least as early as the sojourn of
@@ -333,13 +333,13 @@ inches
 
 <span id="img_24400"></span> <span align="CENTER"> [![FIG.
 103.](tn/24400.jpg)  
-Click to enlarge](img/24400.jpg)  
+Click to enlarge](img/24400.jpg.md)  
 FIG. 103.  
 </span>
 
 high, and fixed upright upon a flat plinth; another of the same kind,
 but larger, is late Greek, found at Taranto, in the temple of Dionysos.
-These are both exactly like [Fig. 104](#img_24500), which has lost its
+These are both exactly like [Fig. 104](#img_24500.md), which has lost its
 stand, though retaining the pin by which it was fixed; the Oxford ones
 are both right hands. In the Naples Museum two are alike, Nos. 5507,
 550S, a right hand
@@ -369,9 +369,9 @@ believes that there are Greek examples of the like kind at the Museums
 of Girgenti and Syracuse; at Cortona there certainly are more than one,
 and also in the Museo Kircheriano at Rome; but whether these latter are
 Roman or Etruscan he has omitted to note. <span
-id="fr_408"></span>[387](#fn_408)
+id="fr_408"></span>[387](#fn_408.md)
 
-[Fig. 105](#img_24501) is an Etruscan statuette from the Collegio Romano
+[Fig. 105](#img_24501.md) is an Etruscan statuette from the Collegio Romano
 at Rome. <span id="img_24501"></span>
 
 <table data-align="LEFT">
@@ -400,7 +400,7 @@ probably Phœnician. Ancient statues of this kind, of
 <span id="page_246">p. 246</span>
 
 unknown age, as well as modern Indian ones, <span
-id="fr_409"></span>[388](#fn_409) show that the pose and gesture of the
+id="fr_409"></span>[388](#fn_409.md) show that the pose and gesture of the
 hands are full of <span id="img_24600"></span>
 
 <table data-align="LEFT">
@@ -419,16 +419,16 @@ FIG. 106<br />
 
 meaning, and that many ancient statues, now regarded simply as works of
 art, were intended to exhibit actions that conveyed in their day very
-distinct ideas. <span id="fr_410"></span>[389](#fn_410)
+distinct ideas. <span id="fr_410"></span>[389](#fn_410.md)
 
 Belonging to later times, over the great gate of the Alhambra ([Fig.
-106](#img_24600)) called "*La Torre de Justicia*," where the King or his
+106](#img_24600).md) called "*La Torre de Justicia*," where the King or his
 Kaid dispensed judgment in Oriental fashion, <span
-id="fr_411"></span>[390](#fn_411) is a large upright hand on the
+id="fr_411"></span>[390](#fn_411.md) is a large upright hand on the
 keystone of the outer Moorish arch, in defiance of the strict objection
 of the Moslem to images. It is sculptured in low relief, the palm
 outwards, with the fingers and thumb in natural position. On this hand
-Ford <span id="fr_412"></span>[391](#fn_412) remarks that some consider
+Ford <span id="fr_412"></span>[391](#fn_412.md) remarks that some consider
 it
 
 an emblem of hospitality and generosity, the redeeming qualities of the
@@ -452,10 +452,10 @@ Fully agreeing with Ford as to its real meaning, it may be noted as a
 coincidence that the act of taking a judicial oath is performed by Jews
 and other Orientals by holding up the right hand as thus depicted, also
 that a hand in this position upon the shield is the modern heraldic sign
-of baronetcy. <span id="fr_413"></span>[392](#fn_413)
+of baronetcy. <span id="fr_413"></span>[392](#fn_413.md)
 
 In the mosaics at Ravenna, seven centuries older than the Alhambra
-([Fig. 107](#img_24800)), our Lord and two angels are all in the act of
+([Fig. 107](#img_24800).md), our Lord and two angels are all in the act of
 holding up the right hand in the attitude of benediction. One has the
 hand open and extended, another angel in the same group, not here shown,
 has the hand in the like position; at the same time more angels have the
@@ -474,7 +474,7 @@ the cross is an open hand coming out of a cloud,
 <span id="img_24800"></span> <span align="CENTER"> [![FIG. 107.--From
 San Apollinare Nuova, Ravenna. Mosaic of sixth cent. From a
 Photograph.](tn/24800.jpg)  
-Click to enlarge](img/24800.jpg)  
+Click to enlarge](img/24800.jpg.md)  
 FIG. 107.--From San Apollinare Nuova, Ravenna. Mosaic of sixth cent.
 From a Photograph.  
 </span>
@@ -493,13 +493,13 @@ first fingers and the thumb. On either side of the medallion are the
 typical symbol-figures representing the four Evangelists, each of whom
 seems to be presenting a book to the central figure.
 
-St. Mark, the companion figure to St. Luke ([Fig. 114](#img_26600)), is
+St. Mark, the companion figure to St. Luke ([Fig. 114](#img_26600).md), is
 shown with his right hand raised high, palm open and thumb extended. It
 is not of course suggested here that all these persons are making
 gestures against the evil eye, but they are singular pieces of evidence
 as to the importance of the hand itself, and of the position in which it
 is held both in acts of devotion and of benediction. <span
-id="fr_414"></span>[393](#fn_414)
+id="fr_414"></span>[393](#fn_414.md)
 
 Considering the open hand as a distinctly used amulet of both ancient
 and modern times, we would call attention to its frequency at Tunis,
@@ -517,7 +517,7 @@ hoops of about two inches broad, having parchment
 
 stretched on both sides, just as if an ordinary tambourine had two
 diaphragms instead of one. Each of these drums has a hand upon it like
-[Fig. 104](#img_24500) upon one side, and on the other a double
+[Fig. 104](#img_24500.md) upon one side, and on the other a double
 triangle. <span id="img_25000"></span>
 
 <table data-align="LEFT">
@@ -535,7 +535,7 @@ FIG. 108.<br />
 </table>
 
 Some of these have, besides the hand, a crescent and a double triangle,
-as in [Fig. 108](#img_25000): in every case the crescent is placed above
+as in [Fig. 108](#img_25000.md): in every case the crescent is placed above
 the index and middle finger, while the double triangle, which we believe
 to represent the sun, is always over the third and fourth finger. The
 drawing is so rude that it is difficult to tell whether the hand is
@@ -546,11 +546,11 @@ of the Prophet. Seeing, however, that these drums are all ornamented
 round the rings with cowrie shells, fixed as they always are with the
 opening in the shells outwards, one could but form a further opinion:
 cowries have always been distinct amulets against the evil eye, <span
-id="fr_415"></span>[393a](#fn_415) and it is but reasonable to assign
+id="fr_415"></span>[393a](#fn_415.md) and it is but reasonable to assign
 the same purpose to the entire decorations. Tunisian Moslems are like
 other people, and pile up their defences by a combination frequently
 alluded to. The open hand is a very common amulet upon Neapolitan
-cab-horses ([Fig. 83](tee08.htm#img_20800)); indeed it may be accepted
+cab-horses ([Fig. 83](tee08.htm#img_20800).md); indeed it may be accepted
 as a well-understood and completely-recognised protective amulet among
 all nations, whether represented by painting, by sculpture, or by
 gesture. We give two more convincing examples from far-distant quarters.
@@ -571,9 +571,9 @@ the people as the hand of the Prophet. It is believed to protect all who
 go to pray near it from the evil eye. If this fine column had, as some
 declare, a previous existence in an ancient temple, who shall say to how
 many generations of men this strange piece of nature's art may have been
-an object of veneration? <span id="fr_416"></span>[394](#fn_416)
+an object of veneration? <span id="fr_416"></span>[394](#fn_416.md)
 
-In [Fig. 77](tee08.htm#img_20000), from far-off North America upon the
+In [Fig. 77](tee08.htm#img_20000.md), from far-off North America upon the
 Mandan chief's robe, is the representation of the hand in the same
 position, placed there intentionally to ward off the evil eye of his
 enemy and to protect the wearer. How instinctively we throw up our open
@@ -587,25 +587,25 @@ negative to a question or
 <span id="page_252">p. 252</span>
 
 demand. It also signifies surprise, as with ourselves, and
-disapproval; <span id="fr_417"></span>[395](#fn_417) but to add effect
+disapproval; <span id="fr_417"></span>[395](#fn_417.md) but to add effect
 to the gesture when vehemence is intended, in addition to the expression
 on his face, the actor violently spreads out his fingers, "le dita
 saranno violentemente
 
 <span id="img_25200"></span> <span align="CENTER"> [![FIG.
 109.](tn/25200.jpg)  
-Click to enlarge](img/25200.jpg)  
+Click to enlarge](img/25200.jpg.md)  
 FIG. 109.  
 </span>
 
 allargate l'uno dall' altro," precisely as drawn upon the robe of
-Mah-to-wo-pa ([p. 200](tee08.htm#page_200)).
+Mah-to-wo-pa ([p. 200](tee08.htm#page_200).md).
 
 Judging, however, from Canon Jorio's description of his plates, in four
 of which (Nos. 5, 6, 17, 18) the attitude is shown, with descriptions in
 the text, it would seem to be more like our own, an involuntary act of
 astonishment than of well-understood and significant gesture. <span
-id="fr_418"></span>[396](#fn_418) As a sacerdotal act it is of course
+id="fr_418"></span>[396](#fn_418.md) As a sacerdotal act it is of course
 recognised everywhere, though he does not
 
 <span id="page_253">p. 253</span>
@@ -616,7 +616,7 @@ Precisely the attitude we are describing is to be
 
 <span id="img_25300"></span> <span align="CENTER"> [![FIG.
 110.](tn/25300.jpg)  
-Click to enlarge](img/25300.jpg)  
+Click to enlarge](img/25300.jpg.md)  
 FIG. 110.  
 </span>
 
@@ -650,7 +650,7 @@ in the Ashmolean Museum among the Egyptian amulets is a clenched hand
 pierced for suspension; it is of rude modelling in blue porcelain, but
 it is evident from its general contour that it is meant for the same
 position as that shown in the Etruscan hand from Bologna ([Fig.
-102](#img_24200)).
+102](#img_24200).md).
 
 There is another of these in the Ashmolean which is also a small amulet
 to be worn, from Umrît, said to be Phœnician. The position of these
@@ -659,17 +659,17 @@ times, and is still common everywhere, even here in England: in Italy it
 is so common that it has a technical name of its own, the *mano fica*.
 This has ever been a gesture of defiance and of insult among all
 nations. It denoted *persumma ignominia* to the Romans, <span
-id="fr_419"></span>[397](#fn_419) and among all the Latin races it was
-connected with the fig, <span id="fr_420"></span>[398](#fn_420) and so
+id="fr_419"></span>[397](#fn_419.md) and among all the Latin races it was
+connected with the fig, <span id="fr_420"></span>[398](#fn_420.md) and so
 conveyed a *hässlich* idea. In French *faire la figue*, Italian *far la
 fica*, Spanish *hacer el higo*, all denote this particular gesture of
 the thumb between the first and second fingers. Our English idiom of
 "Don't care a fig," which expresses the contemptuous idea, and implies
 the gesture, has its counterpart in the German *Fragen den Teufel*. The
 gesture is everywhere perfectly well understood, though the Teuton does
-not connect it with the fruit. <span id="fr_421"></span>[399](#fn_421)
+not connect it with the fruit. <span id="fr_421"></span>[399](#fn_421.md)
 In classic times the hand in this position was well known as *manus
-obscæna*. <span id="fr_422"></span>[400](#fn_422) Everybody is familiar
+obscæna*. <span id="fr_422"></span>[400](#fn_422.md) Everybody is familiar
 
 <span id="page_256">p. 256</span>
 
@@ -682,7 +682,7 @@ Dean Ramsay remembered how in Yorkshire he and his schoolfellows, from
 1800 to 1810, "used to put our thumb between the first and second
 finger, pointing it downwards as the infallible protection against the
 evil influences of one particularly malevolent and powerful
-witch." <span id="fr_423"></span>[401](#fn_423)
+witch." <span id="fr_423"></span>[401](#fn_423.md)
 
 They placed in the hand of the Midsummer Witch a vessel of the same kind
 with a long, narrow neck.
@@ -691,9 +691,9 @@ with a long, narrow neck.
 sea on this very evening. Now, child, double thumb and come along."
 
 Everybody knows that to double your thumb in your right hand averts
-danger. <span id="fr_424"></span>[402](#fn_424)
+danger. <span id="fr_424"></span>[402](#fn_424.md)
 
-We have already fully described ([p. 150](tee06.htm#page_150)) the
+We have already fully described ([p. 150](tee06.htm#page_150).md) the
 amulet <span id="img_25600"></span>
 
 <table data-align="LEFT">
@@ -711,9 +711,9 @@ FIG. 111<br />
 </table>
 
 known as *turpicula res*, of which this *mano fica* formed one branch.
-Jorio, <span id="fr_425"></span>[403](#fn_425) who always calls this
+Jorio, <span id="fr_425"></span>[403](#fn_425.md) who always calls this
 gesture *mano in fica*, says that there are many meanings conveyed by
-this sign ([Fig. 111](#img_25600)).
+this sign ([Fig. 111](#img_25600).md).
 
 The most used amongst us is as an amulet against the evil eye; and the
 Neapolitans utter the expression, "*Te faccio na fica*," as if they
@@ -733,15 +733,15 @@ have faith in it.
 Among Italians this gesture has the same meaning as among us and other
 people far and near--that of intense contempt or defiant insult. In this
 sense it is referred to by Dante, <span
-id="fr_426"></span>[404](#fn_426) and twice by Frezzi. <span
-id="fr_427"></span>[405](#fn_427) Trissino <span
-id="fr_428"></span>[406](#fn_428) also uses it, almost copying Dante.
+id="fr_426"></span>[404](#fn_426.md) and twice by Frezzi. <span
+id="fr_427"></span>[405](#fn_427.md) Trissino <span
+id="fr_428"></span>[406](#fn_428.md) also uses it, almost copying Dante.
 
 Jorio describes this as a most insulting gesture, equivalent to our "A
 fig for you! Go to Bath!" except that the Neapolitan equivalent *fuori
 grotta*, as a low, "outside-the-barrier" sort of place, carries
 infinitely more scorn than "to Bath." <span
-id="fr_429"></span>[407](#fn_429)
+id="fr_429"></span>[407](#fn_429.md)
 
 Another meaning of the sign, beyond the limits of our present purpose,
 is discussed under the heading: "*Invito turpe*."
@@ -757,17 +757,17 @@ hand (*pugno*), it ought, in such case, to be held in the position of
 thumb above and finger under, then the other fingers are to be placed *a
 mano cornuta*, of which we have now to speak.
 
-This position of the hand is shown five times in [Fig. 112](#img_25900)
+This position of the hand is shown five times in [Fig. 112](#img_25900.md)
 by the hand alone, also grasping a key and a flower, as amulets in
 silver and other materials; also on the Indian goddess ([Fig.
-115](#img_26700)) grasping rings.
+115](#img_26700).md) grasping rings.
 
 The Neapolitans have but one *gesto* to imitate horns, but so great and
 so many are the qualities and diversities of its signification, that
 these (latter) apply not only to this gesture, but also to natural
 horns, to their resemblances, and even to their simple name.
 
-Thus Jorio <span id="fr_430"></span>[408](#fn_430) begins his
+Thus Jorio <span id="fr_430"></span>[408](#fn_430.md) begins his
 dissertation of over thirty pages upon *Corna, far le corna*, and after
 referring to the multitude of writings on the subject, says he shall
 consider it under the following heads:--
@@ -793,7 +793,7 @@ those of the stag, which may be seen dangling
 
 <span id="img_25900"></span> <span align="CENTER"> [![FIG. 112.--From
 the Author's Collection.](tn/25900.jpg)  
-Click to enlarge](img/25900.jpg)  
+Click to enlarge](img/25900.jpg.md)  
 FIG. 112.--From the Author's Collection.  
 </span>
 
@@ -827,7 +827,7 @@ The word horn. When the Neapolitan has need of a horn for any purpose,
 and has not either a real or artificial, nor anything resembling one, he
 makes use of the name, uttering the word horn or horns once or oftener
 according to the force he intends to give. <span
-id="fr_431"></span>[409](#fn_431)
+id="fr_431"></span>[409](#fn_431.md)
 
 As a gesture. The index and little finger extended, the middle and ring
 finger clasped by the thumb, as shown in many illustrations.
@@ -854,7 +854,7 @@ if there is no fear of his person, towards his very eyes, from which so
 much is dreaded. That is, of course, if he be present, but if absent,
 the sign is made in the direction of his supposed whereabouts.
 
-Jorio <span id="fr_432"></span>[410](#fn_432) tells a story of a
+Jorio <span id="fr_432"></span>[410](#fn_432.md) tells a story of a
 sprightly Napoletana who was over-credulous of the effects of
 fascination.
 
@@ -899,9 +899,9 @@ forgotten, the result, we hope, of improved morals; but during the
 seventeenth century the perpetual allusion to cuckolds and horns is a
 distinct blot upon the literature of the period. Shakespeare has many
 allusions to the subject, though less in proportion than many of the
-coarser dramatists. <span id="fr_433"></span>[411](#fn_433)
+coarser dramatists. <span id="fr_433"></span>[411](#fn_433.md)
 
-Addison complains <span id="fr_434"></span>[412](#fn_434) that
+Addison complains <span id="fr_434"></span>[412](#fn_434.md) that
 "cuckledom is the basis of most of our modern plays," showing that it
 was still common talk. We know it was a frequent topic in the last
 century, yet now the words seem quite to have dropped out of literature.
@@ -928,7 +928,7 @@ gesture, in the same signification as at present: further, he dwells on
 the extreme antiquity of the use of the fingers as representing them. He
 considers the cornucopia of Amalthea the she-goat, the symbol of
 abundance, to have been an amulet. <span
-id="fr_435"></span>[412a](#fn_435) Also he places the Rhyton of Dionysus
+id="fr_435"></span>[412a](#fn_435.md) Also he places the Rhyton of Dionysus
 in the same category, as well as the musical horn; and he winds up by
 declaring that their signification "è particolarmente di amuleto contro
 del fascino." He describes the various amulet horns, their shapes, their
@@ -943,7 +943,7 @@ to the horns found among the fruits depicted on the walls of Pompeii,
 and says that "our Neapolitan fruiterers," who display their goods so
 openly outside their shops, "never fail to place among them a fine pair
 of horns, for the purpose of keeping off other folk's envy, evil eyes,
-fascination." <span id="fr_436"></span>[413](#fn_436)
+fascination." <span id="fr_436"></span>[413](#fn_436.md)
 
 He refers to the only two isolated horns of metal discovered, one of
 bronze, the other of iron; both are solid, and so could never have been
@@ -965,19 +965,19 @@ ce pozanno!*" He says the Museum has abundant examples of this gesture
 as an amulet *contro al fascino*, and concludes with: "In the vast field
 of amulets, every one was known to the ancients, and the moderns have
 not added thereto one single *Corno*." <span
-id="fr_437"></span>[414](#fn_437)
+id="fr_437"></span>[414](#fn_437.md)
 
 <span id="page_265">p. 265</span>
 
-Again, the sixth century mosaics <span id="fr_438"></span>[415](#fn_438)
-of Ravenna give us further illustrations. In [Fig. 113](#img_26500) the
+Again, the sixth century mosaics <span id="fr_438"></span>[415](#fn_438.md)
+of Ravenna give us further illustrations. In [Fig. 113](#img_26500.md) the
 remarkable hand appearing from the clouds, representing the Almighty, is
 very plainly in the position we have been considering, and looking at
 the scene in which
 
 <span id="img_26500"></span> <span align="CENTER"> [![FIG. 113.--From
 San Vitale, Ravenna. Mosaic of the sixth century.](tn/26500.jpg)  
-Click to enlarge](img/26500.jpg)  
+Click to enlarge](img/26500.jpg.md)  
 FIG. 113.--From San Vitale, Ravenna. Mosaic of the sixth century.  
 </span>
 
@@ -988,8 +988,8 @@ the clouds,
 <span id="page_266">p. 266</span>
 
 especially in the scenes of Abraham's sacrifice of Isaac ([Fig.
-116](#img_26800)), and of Moses putting off his shoes before the burning
-bush ([Fig. 117](#img_26900)); but in no other <span
+116](#img_26800).md), and of Moses putting off his shoes before the burning
+bush ([Fig. 117](#img_26900).md); but in no other <span
 id="img_26600"></span>
 
 <table data-align="LEFT">
@@ -1007,14 +1007,14 @@ FIG. 114<br />
 </table>
 
 case known to the writer does the *Dextera Dei* appear so unmistakably
-as *a mano cornuta* as in [Fig. 113](#img_26500).
+as *a mano cornuta* as in [Fig. 113](#img_26500.md).
 
 A bull standing and fully represented, as the symbol of St. Luke ([Fig.
-114](#img_26600)), is very rarely seen; the saint himself is shown very
+114](#img_26600).md), is very rarely seen; the saint himself is shown very
 conspicuously making the well-known gesture as if to guard both himself
 and his bull from the assaults of evil eyes.
 
-[Fig. 115](#img_26700) is from a small brass statue of an Indian
+[Fig. 115](#img_26700.md) is from a small brass statue of an Indian
 goddess, evidently of modern date, now in the County Museum at Taunton.
 The unmistakable position of both hands is a proof of the very
 widespread importance attached to the gesture of the *mano cornuta*, and
@@ -1058,7 +1058,7 @@ must have been perfectly familiar to him as a priest. Three positions of
 the right hand raised are recognised as pertaining to the act of
 sacerdotal benediction. Of these, the two most usual are the open hand
 for deacons and inferior clergy shown by one angel, and that of our Lord
-and the second angel in [Fig. 107](#img_24800); the latter is that of
+and the second angel in [Fig. 107](#img_24800.md); the latter is that of
 the Roman *mano pantea*. This position is that which is still the proper
 one for bishops of the Western Churches, but in the early Church, and
 down to the eighth century, a third position was used: instead of the
@@ -1066,7 +1066,7 @@ thumb the little finger was raised; and this is still the attitude of
 benediction in the Orthodox Greek Church. In the early mosaics at
 Ravenna, dating before the great schism, we find all three positions.
 The Almighty hand from the clouds in both the scenes here produced
-(Abraham and Moses, Figs. [116](#img_26800), [117](#img_26900)) has the
+(Abraham and Moses, Figs. [116](#img_26800), [117](#img_26900).md) has the
 first,
 
 <span id="page_268">p. 268</span>
@@ -1074,16 +1074,16 @@ first,
 second, and fourth fingers extended, with the third or *annularius*
 closed upon the palm. The same position is depicted on the angel next
 but one on the right of our Lord enthroned, in the famous series at San
-Apollinare Nuova. <span id="fr_439"></span>[416](#fn_439) Again, in
+Apollinare Nuova. <span id="fr_439"></span>[416](#fn_439.md) Again, in
 
 <span id="img_26800"></span> <span align="CENTER"> [![Fig. 116.--From
 San Vitale, Ravenna.](tn/26800.jpg)  
-Click to enlarge](img/26800.jpg)  
+Click to enlarge](img/26800.jpg.md)  
 Fig. 116.--From San Vitale, Ravenna.  
 </span>
 
 the scene of the three men entertained by Abraham ([Fig.
-116](#img_26800)), supposed to represent the three Persons of the Holy
+116](#img_26800).md), supposed to represent the three Persons of the Holy
 Trinity, they are severally making all three of the gestures described.
 Two are raising the right hand in the act of blessing, of whom the
 central figure makes the orthodox Greek
@@ -1122,10 +1122,10 @@ inasmuch as he was never a priest, his hands are simply crossed upon his
 breast; while a mitred bishop, in the next panel, has his right hand
 lifted in the benedictory gesture, which by that time had become the
 only one used in the Western Church. <span
-id="fr_440"></span>[417](#fn_440)
+id="fr_440"></span>[417](#fn_440.md)
 
 Among the simple amulets there are two other positions of the hand, as
-shown in [Fig. 112](#img_25900). The forefinger alone extended is
+shown in [Fig. 112](#img_25900.md). The forefinger alone extended is
 referred to by Jorio very frequently as a gesture, but not described by
 him as one used against the evil eye, yet the writer
 
@@ -1136,20 +1136,20 @@ that purpose. Those shown were purchased at a shop in the native quarter
 of Naples, and the writer believes he has seen the single forefinger,
 pointed up, fixed upon a horse's back, but could not find one in the
 shops which supply the saddlers. This gesture is, however, very clearly
-marked in [Fig. 74](tee08.htm#img_19200), where the Indian goddess
+marked in [Fig. 74](tee08.htm#img_19200.md), where the Indian goddess
 Indranee is shown as the celestial mother with her child. The hand
 having the points of thumb and forefinger touching, as shown in No. 3 on
-[Fig. 118](#img_27100), though also extremely common, with a great
+[Fig. 118](#img_27100.md), though also extremely common, with a great
 variety of uses in the gesture language, is not, as a mere: gesture, an
-amulet according to Jorio. <span id="fr_441"></span>[418](#fn_441) Jorio
+amulet according to Jorio. <span id="fr_441"></span>[418](#fn_441.md) Jorio
 quotes the Abate Requeno's system of numeration, and points out that the
-sign so made means thirty ([Fig. 94](#img_23800)), and that in
+sign so made means thirty ([Fig. 94](#img_23800).md), and that in
 number-lore thirty signifies *le nozze* (marriage), while sixty
 represents widowhood. We cannot follow these authors into all their
 ramifications, which are outside the evil eye, but the hand in this
 position is, we repeat, commonly made and sold as an amulet against it,
 although the gesture itself is not one. I t will be noted from [Fig.
-118](#img_27100), No. 3, and [Fig. 119](#img_27300), No. 5, that it is
+118](#img_27100), No. 3, and [Fig. 119](#img_27300.md), No. 5, that it is
 made with both right and left hands, whereas the left only signifies
 thirty, while the right in this position denotes three hundred. As a
 horse amulet this position of the hand is rather a favourite; and we may
@@ -1163,38 +1163,38 @@ nozze*). As a gesture, however, it may be one of the most insulting,
 
 <span id="img_27100"></span> <span align="CENTER"> [![FIG.
 118.](tn/27100.jpg)  
-Click to enlarge](img/27100.jpg)  
+Click to enlarge](img/27100.jpg.md)  
 FIG. 118.  
 </span>  
-See Description, [p. 274](#page_274).
+See Description, [p. 274](#page_274.md).
 
  
 
 <span id="page_272">p. 272</span>
 
 though its chief significance, according to Jorio, <span
-id="fr_442"></span>[419](#fn_442) is *inimicizia* (enmity); but by
+id="fr_442"></span>[419](#fn_442) is *inimicizia* (enmity.md); but by
 slightly altering the shape so as to form a circle it has a totally
 different signification, *disprezzo* (contempt). In both these meanings
 there is a distinct flavour of defiance, and perhaps on that account it
 may have been adopted as an amulet in the concrete form. <span
-id="fr_443"></span>[420](#fn_443)
+id="fr_443"></span>[420](#fn_443.md)
 
 Examination of any varied collection of charms will show that the hand
 is a common amulet in itself, also that it is used in combination with
 other objects: sometimes merely grasping them, and sometimes, while
 grasping the actual charm, making at the same time the important
-protective gesture. <span id="fr_444"></span>[421](#fn_444)
+protective gesture. <span id="fr_444"></span>[421](#fn_444.md)
 
 The silver hand grasping the dart is a prominent one on [Fig.
-112](#img_25900), and is one of the commonest to be seen. Another in
+112](#img_25900.md), and is one of the commonest to be seen. Another in
 coral holding a short sword appears on the same plate just above the
-serpents. In the Woburn Marble ([Fig. 24](tee06.htm#img_13700)) the
+serpents. In the Woburn Marble ([Fig. 24](tee06.htm#img_13700).md) the
 gladiator is grasping a short sword; and again in the Cimaruta (Chap.
 X.) one of the branches ends in a hand grasping a sword. Moreover this
 arm grasping a dart, spear, or sword in various positions is one of the
 commonest of heraldic crests of the present day. One of the charms (on
-Fig. [112](#img_25900)) is a key, and another the lotus; both are in
+Fig. [112](#img_25900).md) is a key, and another the lotus; both are in
 *mano cornuta*. Two others are the *mano in fica*, one combined with a
 shell and the other with a flower-bud of some sort. The important one,
 however, is that at the end of the spada or sword. This is a hand
@@ -1206,10 +1206,10 @@ grasping the lotus, and is no doubt considered a very potent charm.
 
 <span id="img_27300"></span> <span align="CENTER"> [![FIG.
 119.](tn/27300.jpg)  
-Click to enlarge](img/27300.jpg)  
+Click to enlarge](img/27300.jpg.md)  
 FIG. 119.  
 </span>  
-See Description, [p. 276](#page_276).
+See Description, [p. 276](#page_276.md).
 
  
 
@@ -1221,7 +1221,7 @@ rich enough to procure one. The specimen here shown has been much worn,
 and is a decidedly bright and effective ornament. Another coral arm is
 grasping a fish; a hand grasping a fish, perhaps a dolphin, is also to
 be seen on the Cimaruta. The fish is an undoubted amulet, as may be seen
-on the gems, Figs. [16](tee06.htm#img_13000), [18](tee06.htm#img_13100).
+on the gems, Figs. [16](tee06.htm#img_13000), [18](tee06.htm#img_13100.md).
 
 None of these things are alluded to by Jorio, and we may accept it
 therefore as an axiom that the only two gestures, apart from the
@@ -1259,10 +1259,10 @@ FIG. 118.
 
 <span id="img_27500"></span> <span align="CENTER"> [![FIG.
 120.](tn/27500.jpg)  
-Click to enlarge](img/27500.jpg)  
+Click to enlarge](img/27500.jpg.md)  
 FIG. 120.  
 </span>  
-See Description, [p. 276](#page_276).
+See Description, [p. 276](#page_276.md).
 
  
 
@@ -1271,7 +1271,7 @@ See Description, [p. 276](#page_276).
 Of course, where two or more significations may be given by the same
 position of the hand, the meaning is supplemented by facial and other
 expression. Jorio gives 32 pages to the explanation of No. 2, [Fig.
-118](#img_27100).
+118](#img_27100.md).
 
 FIG. 119.
 
@@ -1298,7 +1298,7 @@ FIG. 120.
 | 4\. Fame.        | 4\. Hunger, I want food.                                                      |
 | 5\. Besseggiare. | 5\. To make a long nose, to mock, etc.                                        |
 | 6\. Fatica.      | 6\. Labour, fatigue.                                                          |
-| 7\. Stupido.     | 7\. Stupid, blockhead, donkey, asses' ears. See [p. 416](tee16.htm#page_416). |
+| 7\. Stupido.     | 7\. Stupid, blockhead, donkey, asses' ears. See [p. 416](tee16.htm#page_416.md). |
 | 8\. Guercio.     | 8\. Squint-eyed.                                                              |
 | 9\. Ingannare.   | 9\. To cheat, to deceive.                                                     |
 | 10\. Astuto.     | 10\. Crafty, cunning.                                                         |
@@ -1312,30 +1312,30 @@ all these gestures.
 
 ### Footnotes
 
-<span id="fn_398"></span>[236:377](tee11.htm#fr_398) *New English
+<span id="fn_398"></span>[236:377](tee11.htm#fr_398.md) *New English
 Dictionary*, s.v. "Chironomy."
 
-<span id="fn_399"></span>[236:378](tee11.htm#fr_399) *Scoperta della
+<span id="fn_399"></span>[236:378](tee11.htm#fr_399.md) *Scoperta della
 Chironomia ossia dell' arte di gestire con le mani*, Dell' Abate
 Vincenzo Requeno, Parma, 1797, p. 13.
 
-<span id="fn_400"></span>[236:379](tee11.htm#fr_400) "Janus geminus a
+<span id="fn_400"></span>[236:379](tee11.htm#fr_400.md) "Janus geminus a
 Numa rege dicatus, qui pacis, bellique argumento colitur, digitis ita
 figuratis, ut trecentorum quinquaginta dierum nota per significationem
 anni, temporis, et ævi se Deum indicaret."--Pliny, xxxiv. 7.
 
-<span id="fn_401"></span>[236:380](tee11.htm#fr_401) "Simulacrum ejus
+<span id="fn_401"></span>[236:380](tee11.htm#fr_401.md) "Simulacrum ejus
 plerumque fingitur manu dextera 300 et sinistra sexaginta quinque
 numerum tenens, ad demonstrandam anni dimensionem."--Macrobius,
 *Saturn*. i.
 
-<span id="fn_402"></span>[236:381](tee11.htm#fr_402) Abate Requeno, *op.
+<span id="fn_402"></span>[236:381](tee11.htm#fr_402.md) Abate Requeno, *op.
 cit.* p. 14.
 
-<span id="fn_403"></span>[240:382](tee11.htm#fr_403) Abate Requeno, *op.
+<span id="fn_403"></span>[240:382](tee11.htm#fr_403.md) Abate Requeno, *op.
 cit.* p. 40.
 
-<span id="fn_404"></span>[240:383](tee11.htm#fr_404) Before venturing;
+<span id="fn_404"></span>[240:383](tee11.htm#fr_404.md) Before venturing;
 to reproduce this interesting system for which the Abate claims such
 antiquity, great pains were taken to ascertain if it is known and
 practised in our English systems of teaching the deaf and dumb. The
@@ -1347,40 +1347,40 @@ therefore here recorded as bearing much on what has to be said upon
 gestures of the hand, so intimately connected with the belief in the
 evil eye.
 
-<span id="fn_405"></span>[242:384](tee11.htm#fr_405) Jahn,
+<span id="fn_405"></span>[242:384](tee11.htm#fr_405.md) Jahn,
 *Aberglauben*, etc., frequently uses this argument as a proof that the
 objects he is speaking of were used as amulets, *e.g.* p. 47, of a
 female figure with the hand on the mouth he says: "Die sich zum Theil
 durch den Henkel als Amulete ausweisen."
 
-<span id="fn_406"></span>[243:385](tee11.htm#fr_406) Another plate, with
+<span id="fn_406"></span>[243:385](tee11.htm#fr_406.md) Another plate, with
 the sun's rays terminating in a hand, is in *Wilkinson*, i. 40.
 
-<span id="fn_407"></span>[243:386](tee11.htm#fr_407) E. Wallis Budge,
+<span id="fn_407"></span>[243:386](tee11.htm#fr_407.md) E. Wallis Budge,
 *The Nile*, p. 13.
 
-<span id="fn_408"></span>[245:387](tee11.htm#fr_408) In the Ashmolean
+<span id="fn_408"></span>[245:387](tee11.htm#fr_408.md) In the Ashmolean
 Museum are three small Egyptian amulets evidently for suspension. They
 are open hands of the usual blue pottery, but small, and almost
 identical in type with many a coral hand to be seen to-day in the Naples
 shops. No doubt the open hand has been worn as a protection throughout
 the thirty centuries since these little charms were made.
 
-<span id="fn_409"></span>[246:388](tee11.htm#fr_409) See [Fig.
-115](#img_26700), [p. 267](#page_267), which, though modern, probably
+<span id="fn_409"></span>[246:388](tee11.htm#fr_409.md) See [Fig.
+115](#img_26700), [p. 267](#page_267.md), which, though modern, probably
 represents by Oriental unchangeableness equal antiquity.
 
-<span id="fn_410"></span>[246:389](tee11.htm#fr_410) This is fully
+<span id="fn_410"></span>[246:389](tee11.htm#fr_410.md) This is fully
 supported by the account given by the Abate Requeno of the statue set up
 by Numa Pompilius, in which the pose of the hands was specially ordered.
 
-<span id="fn_411"></span>[246:390](tee11.htm#fr_411) Deut. xvi. 18; Dan.
+<span id="fn_411"></span>[246:390](tee11.htm#fr_411.md) Deut. xvi. 18; Dan.
 ii. 49; i Kings vii. 7.
 
-<span id="fn_412"></span>[246:391](tee11.htm#fr_412) Murray's *Handbook
+<span id="fn_412"></span>[246:391](tee11.htm#fr_412.md) Murray's *Handbook
 for Spain*, 1855, vol. i. p. 301.
 
-<span id="fn_413"></span>[247:392](tee11.htm#fr_413) The arms of Ulster
+<span id="fn_413"></span>[247:392](tee11.htm#fr_413.md) The arms of Ulster
 are simply a large hand in this position, filling up the entire "field."
 Perhaps the most apt and the best-known illustration of the holding up
 of the hand as a powerful gesture is the account in Exodus xvii. 11:
@@ -1390,7 +1390,7 @@ because he could not hold it up continually it was held up by Aaron and
 Hur. The Scriptures are full of examples showing the great importance of
 manual gestures.
 
-<span id="fn_414"></span>[249:393](tee11.htm#fr_414) The frequent
+<span id="fn_414"></span>[249:393](tee11.htm#fr_414.md) The frequent
 reference in Scripture to the lifting up of the hands fully confirms the
 importance of this attitude of prayer: "Lift up your hands in the
 sanctuary" (Psalm cxxxiv. 2). The lifting up of my hands as the evening
@@ -1399,22 +1399,22 @@ cxliii. 6). "He lifted up his hands, and blessed them" (St. Luke xxiv,
 50). See also Psalm xxviii. 2, lxiii. 4, cxix. 48, and many other
 passages.
 
-<span id="fn_415"></span>[250:393a](tee11.htm#fr_415) See [Fig.
-13](tee06.htm#img_12800). Jahn also explains what these shells typify.
+<span id="fn_415"></span>[250:393a](tee11.htm#fr_415.md) See [Fig.
+13](tee06.htm#img_12800.md). Jahn also explains what these shells typify.
 Phallic students will readily understand them.
 
-<span id="fn_416"></span>[251:394](tee11.htm#fr_416) This hand shows
+<span id="fn_416"></span>[251:394](tee11.htm#fr_416.md) This hand shows
 precisely the same gesture as those over the arch at the Alhambra, and
 upon the drums of Tunis. "The open hand was represented on the coins of
 some of our Saxon kings in the tenth century; on one it is accompanied
 by Alpha and Omega" (Twining, *Symbols and Emblems of Early Christian
 Art*, p. 6).
 
-<span id="fn_417"></span>[252:395](tee11.htm#fr_417) *Mimica degli
+<span id="fn_417"></span>[252:395](tee11.htm#fr_417.md) *Mimica degli
 Antichi*, Andrea de Jorio, *Napoli*, 1832, p. 227.
 
-<span id="fn_418"></span>[252:396](tee11.htm#fr_418) [Fig.
-109](#img_25200), No. 17 of Jorio, is from a Greek vase published by
+<span id="fn_418"></span>[252:396](tee11.htm#fr_418.md) [Fig.
+109](#img_25200.md), No. 17 of Jorio, is from a Greek vase published by
 Millin--vas. ec. V. I tav. 66, by Inchirami, *Galleria Omerica*, ec.
 tav. 76. He says that of this picture Minerva is the *protagonista*, the
 central object towards whom the eyes of all the other figures are
@@ -1447,7 +1447,7 @@ animosity.
 
 The whole picture is one of manual gesture telling a plain story.
 
-[Fig. 110](#img_25300), No. 18 of Jorio, is from a vase in the
+[Fig. 110](#img_25300.md), No. 18 of Jorio, is from a vase in the
 collection of Sir John Coghill, and is fully described by Millingen.
 Jorio says the principal figure <span id="page_254">p. 254</span> is
 Bacchus, closely watching the conversation of the other persons, who are
@@ -1462,40 +1462,40 @@ denial at the same time. Further, with the like significance, she throws
 back the upper part of her body, so as to enable her to steady herself
 on her feet. The other person, perceiving the anger of her opponent,
 raises her left hand and with thumb and forefinger makes the sign of
-love or friendship (see [5, Fig. 119](#img_27300)). Jorio points out how
+love or friendship (see [5, Fig. 119](#img_27300).md). Jorio points out how
 cleverly the artist has told the story, and how plain all these things
 are to a Neapolitan: how that jealousy is shown in the left-hand woman,
 while the satyr goes on playing his pipes in apparent unconcern, while
 Bacchus also is taking the liveliest interest, etc.
 
-<span id="fn_419"></span>[255:397](tee11.htm#fr_419) John Prætorius, *De
+<span id="fn_419"></span>[255:397](tee11.htm#fr_419.md) John Prætorius, *De
 Pollice*, Lipsiæ, 1677, p. 42. He refers to the Italian phrase "far le
 fiche."
 
-<span id="fn_420"></span>[255:398](tee11.htm#fr_420) "The fig and the
+<span id="fn_420"></span>[255:398](tee11.htm#fr_420.md) "The fig and the
 phallus were carried in processions in honour of Bacchus. Hence in Italy
 arose the term *far la fica*."--Payne Knight, *Symb. Lang.* p. 30.
 
-<span id="fn_421"></span>[255:399](tee11.htm#fr_421) "To fig" (a person)
+<span id="fn_421"></span>[255:399](tee11.htm#fr_421) "To fig" (a person.md)
 is, "Einen durch Trotz oder Verachtung andeutende Verwegungen mit den
 Fingern beleidigen" (Hilpert).
 
-<span id="fn_422"></span>[255:400](tee11.htm#fr_422) This is described
+<span id="fn_422"></span>[255:400](tee11.htm#fr_422.md) This is described
 by Ovid (Fast, v. 433): "Signaque dat digitis medio cum pollice
 junctis."
 
 "Favebant ii, qui manum in obscænum modum formabant."--De Pollice, 43.
 
-<span id="fn_423"></span>[256:401](tee11.htm#fr_423) Atkinson, *Forty
+<span id="fn_423"></span>[256:401](tee11.htm#fr_423.md) Atkinson, *Forty
 Years in a Moorland Parish*, quoted in *Athenæum*, May 23, 1891, p. 662.
 
-<span id="fn_424"></span>[256:402](tee11.htm#fr_424) Walter Besant,
+<span id="fn_424"></span>[256:402](tee11.htm#fr_424.md) Walter Besant,
 *Dorothy Forster*, 1885, p. 7. Scene laid in Northumberland.
 
-<span id="fn_425"></span>[256:403](tee11.htm#fr_425) *Mimica degli
+<span id="fn_425"></span>[256:403](tee11.htm#fr_425.md) *Mimica degli
 Antichi*, p. 155.
 
-<span id="fn_426"></span>[257:404](tee11.htm#fr_426)
+<span id="fn_426"></span>[257:404](tee11.htm#fr_426.md)
 
  
 
@@ -1506,7 +1506,7 @@ Gridando: Togli, Dio, chè a te le squadro."
 
  
 
-<span id="fn_427"></span>[257:405](tee11.htm#fr_427)
+<span id="fn_427"></span>[257:405](tee11.htm#fr_427.md)
 
  
 
@@ -1519,7 +1519,7 @@ Stringendo i denti ed alzando le braccia."
 
  
 
-<span id="fn_428"></span>[257:406](tee11.htm#fr_428)
+<span id="fn_428"></span>[257:406](tee11.htm#fr_428.md)
 
  
 
@@ -1529,7 +1529,7 @@ Dicendo: Togli, Iddio; che puoi più farmi?
 
 The latter authors are quoted by Cary.
 
-<span id="fn_429"></span>[257:407](tee11.htm#fr_429)
+<span id="fn_429"></span>[257:407](tee11.htm#fr_429.md)
 
 "Se poi viene un susurrone  
 E lodando vi scompone,  
@@ -1543,15 +1543,15 @@ The author says in a note: "This is the most efficacious of all the
 expedients up to this time practised. Make trial of it, and you will be
 grateful to me."
 
-<span id="fn_430"></span>[258:408](tee11.htm#fr_430) *Mimica degli
+<span id="fn_430"></span>[258:408](tee11.htm#fr_430.md) *Mimica degli
 Antichi*, Napoli, 1837, p. 89.
 
-<span id="fn_431"></span>[260:409](tee11.htm#fr_431) *Mimica degli
+<span id="fn_431"></span>[260:409](tee11.htm#fr_431.md) *Mimica degli
 Antichi*, Napoli, 1837, p. 92.
 
-<span id="fn_432"></span>[261:410](tee11.htm#fr_432) *Mimica*, p. 100.
+<span id="fn_432"></span>[261:410](tee11.htm#fr_432.md) *Mimica*, p. 100.
 
-<span id="fn_433"></span>[262:411](tee11.htm#fr_433) "It shall hang like
+<span id="fn_433"></span>[262:411](tee11.htm#fr_433.md) "It shall hang like
 a meteor o'er the cuckold's horns" (*Merry Wives of Windsor*, Act ii.
 Sc. 2). "An old cuckold with horns on his head" (*Much Ado about
 Nothing*, Act ii. Sc. 1). Marston in his *Malcontent*, Act iv. Scene 5,
@@ -1559,31 +1559,31 @@ calls Agamemnon, Prince Arthur, and Hercules, *cornutes*. So also Ben
 Jonson in *Every Man in his Humour*, Act iii. Scenes 3 and 6, also in
 Act v. Scene 5, alludes to both horns and cuckolds.
 
-<span id="fn_434"></span>[262:412](tee11.htm#fr_434) *Spectator*, No.
+<span id="fn_434"></span>[262:412](tee11.htm#fr_434.md) *Spectator*, No.
 446.
 
-<span id="fn_435"></span>[263:412a](tee11.htm#fr_435) See *Mano Pantea*,
+<span id="fn_435"></span>[263:412a](tee11.htm#fr_435.md) See *Mano Pantea*,
 post, p. 318.
 
-<span id="fn_436"></span>[264:413](tee11.htm#fr_436) *Mimica degli
+<span id="fn_436"></span>[264:413](tee11.htm#fr_436.md) *Mimica degli
 Antichi*, p. 109.
 
-<span id="fn_437"></span>[264:414](tee11.htm#fr_437) *Mimica*, p. 120.
+<span id="fn_437"></span>[264:414](tee11.htm#fr_437.md) *Mimica*, p. 120.
 It has already been remarked that every species of <span
 id="page_265">p. 265</span> charm of whatever kind soever against the
 evil eye is called in the vernacular *un corno*; hence the above. Later
 on we shall see that he is mistaken, or at least some have been invented
 since his day.
 
-<span id="fn_438"></span>[265:415](tee11.htm#fr_438) The illustrations
+<span id="fn_438"></span>[265:415](tee11.htm#fr_438.md) The illustrations
 from the Ravenna mosaics are all from photographs in the writer's
 possession, obtained on the spot.
 
-<span id="fn_439"></span>[268:416](tee11.htm#fr_439) This angel is not
-shown in [Fig. 107](#img_24800), but in the great mosaic it appears next
+<span id="fn_439"></span>[268:416](tee11.htm#fr_439.md) This angel is not
+shown in [Fig. 107](#img_24800.md), but in the great mosaic it appears next
 the angel with the open hand.
 
-<span id="fn_440"></span>[269:417](tee11.htm#fr_440) The importance
+<span id="fn_440"></span>[269:417](tee11.htm#fr_440.md) The importance
 attached to manual gesture in the rites of the Roman Church is proved by
 the minute directions as to the position in which the celebrant is
 ordered to make the sign of the cross at Mass. He is to turn the little
@@ -1591,21 +1591,21 @@ finger of the right hand towards the object which he is to bless,
 keeping the right hand straight with the fingers extended and joined
 together with the thumb (from *Pontificale Romanum*, Venetiis, 1836).
 
-<span id="fn_441"></span>[270:418](tee11.htm#fr_441) The hand in this
+<span id="fn_441"></span>[270:418](tee11.htm#fr_441.md) The hand in this
 position is, however, made and sold as an amulet. One of these is on
-[Fig. 83](tee08.htm#img_20800) as a horse amulet, and a small one in
-coral is on [Fig. 112](#img_25900), among the charms for personal wear.
+[Fig. 83](tee08.htm#img_20800.md) as a horse amulet, and a small one in
+coral is on [Fig. 112](#img_25900.md), among the charms for personal wear.
 
-<span id="fn_442"></span>[272:419](tee11.htm#fr_442) *Mimica*, pp. 46,
+<span id="fn_442"></span>[272:419](tee11.htm#fr_442.md) *Mimica*, pp. 46,
 126.
 
-<span id="fn_443"></span>[272:420](tee11.htm#fr_443) This gesture is
+<span id="fn_443"></span>[272:420](tee11.htm#fr_443.md) This gesture is
 called the Phallic hand (Forlong, *Rivers of Life*, p. 461).
 
-<span id="fn_444"></span>[272:421](tee11.htm#fr_444) This is seen again
-in the Indian goddess, [Fig. 115](#img_26700), who is grasping two large
+<span id="fn_444"></span>[272:421](tee11.htm#fr_444.md) This is seen again
+in the Indian goddess, [Fig. 115](#img_26700.md), who is grasping two large
 rings while making the *mano cornuta* with both hands.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Cross](tee12)
+[Next: Chapter VIII. The Cross](tee12.md)

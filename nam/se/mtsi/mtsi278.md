@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi277)  [Next](mtsi279) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi277)  [Next](mtsi279.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ A cannibal found a large number of ducks swimming about in a certain
 lake or river. Then he procured a great quantity of hickory bark, dived
 under water toward them, and when he was among them he stood with his
 nose sticking out of the water and tied the ducks to his body <span
-id="fr_78"></span>[1](#fn_77) one after the other by means of the bark,
+id="fr_78"></span>[1](#fn_77.md) one after the other by means of the bark,
 until all of it was used up. Afterwards he dived under water again, came
 to the surface a short distance away, and began singing. He thought that
 they could not fly. He sang, "Agū'shuwe'bångini, Agū'shuwe'bångini
@@ -50,19 +50,19 @@ thought. Then he went into a little bushy place from which the sound
 came and found a redbird's nest with a number of young ones in it with
 their feathers just starting out. He seized it and began eating them,
 nest and all. Then he said, "Sing on. Sing on again." Then he started on
-westward once more. <span id="fr_79"></span>[1](#fn_78)
+westward once more. <span id="fr_79"></span>[1](#fn_78.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_77"></span>[241:1](mtsi278.htm#fr_78) In the manner
+<span id="fn_77"></span>[241:1](mtsi278.htm#fr_78.md) In the manner
 indicated in the last paragraph of Koasati 10, [p.
-170](mtsi210.htm#page_170).
+170](mtsi210.htm#page_170.md).
 
-<span id="fn_78"></span>[242:1](mtsi278.htm#fr_79) Evidently this is
+<span id="fn_78"></span>[242:1](mtsi278.htm#fr_79.md) Evidently this is
 incomplete.
 
 ------------------------------------------------------------------------
 
-[Next: 14. The Pleiades](mtsi279)
+[Next: 14. The Pleiades](mtsi279.md)

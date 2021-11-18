@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp19)  [Next](potp21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp19)  [Next](potp21.md) 
 
 ------------------------------------------------------------------------
 
@@ -257,7 +257,7 @@ the Antarctic Ocean, four hundred miles long, fifty miles wide, grounded
 in twenty-one hundred feet of water, and extending from one hundred to
 two hundred feet above the ocean; frozen from fresh water, not attached
 to land. How did it get there?](tn/22500.jpg)  
-Click to enlarge](img/22500.jpg)  
+Click to enlarge](img/22500.jpg.md)  
 A SECTION OF THE GREAT ICE-BARRIER.  
 A monster iceberg in the Antarctic Ocean, four hundred miles long, fifty
 miles wide, grounded in twenty-one hundred feet of water, and extending
@@ -371,4 +371,4 @@ what the Great Ice Barrier is called, or how it was formed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. The Tidal Wave](potp21)
+[Next: Chapter XVII. The Tidal Wave](potp21.md)

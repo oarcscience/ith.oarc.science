@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes12)  [Next](nes14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes12)  [Next](nes14.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Nor Grandeur hear with a disdainful smile<br />
 
 |                     |
 |---------------------|
-| ![O](img/oinit.jpg) |
+| ![O](img/oinit.jpg.md) |
 
 N the hearth was piled a great fire of peat, which burned with a strong
 flame, filling the kitchen with a genial warmth, and casting a ruddy
@@ -135,7 +135,7 @@ the English
 
 \[paragraph continues\] Professor, and of the professor of Signs from
 Spain on a visit at King's College, Aberdeen, were greatly in
-favour. <span id="fr_48"></span>[1](#fn_48)
+favour. <span id="fr_48"></span>[1](#fn_48.md)
 
 The family was not always alone. Civilities were interchanged by one or
 more neighbours spending the evening with them, or in common language,
@@ -146,7 +146,7 @@ three or four spinning-wheels going at once, skilful fingers busy at the
 *stent*, and each spinner vieing with the other who should first
 complete it, and not a foot was stirred till it was completed. One or
 two of the younger members of the family were engaged in twisting or
-reeling thread. <span id="fr_49"></span>[2](#fn_49) While the women were
+reeling thread. <span id="fr_49"></span>[2](#fn_49.md) While the women were
 busy, the young men were not idle. If not employed in something useful,
 they were amusing themselves in such trials of strength as could be made
 indoors--as "drawing the sweer-tree," or in such games as the "tod and
@@ -202,12 +202,12 @@ household are clothed with double garments."
 
 ### Footnotes
 
-<span id="fn_48"></span>[57:1](nes13.htm#fr_48) Cf. *F. L. Record*, vol.
+<span id="fn_48"></span>[57:1](nes13.htm#fr_48.md) Cf. *F. L. Record*, vol.
 ii. pp. 173-176; and vol. iii. pt. i. pp. 127-129.
 
-<span id="fn_49"></span>[57:2](nes13.htm#fr_49) *Songs of the Russian
+<span id="fn_49"></span>[57:2](nes13.htm#fr_49.md) *Songs of the Russian
 People*, p. 32, by W. R. S. Ralston.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Fairies](nes14)
+[Next: Chapter XI. Fairies](nes14.md)

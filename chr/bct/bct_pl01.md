@@ -1,12 +1,12 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [List
-of Plates](bct01.htm#page_vii) [Previous Plate](bct_pl00) [Next
-Plate](bct_pl02)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md) [List
+of Plates](bct01.htm#page_vii) [Previous Plate](bct_pl00.md) [Next
+Plate](bct_pl02.md)
 
 ------------------------------------------------------------------------
 
 PLATE I
 
-<span class="small">{facing [page 48](bct04.htm#page_48)}</span>
+<span class="small">{facing [page 48](bct04.htm#page_48.md)}</span>
 
 ![](pl01.jpg)
 
@@ -20,11 +20,11 @@ Egyptian bas-relief sculptured with the figure of a king, and represents
 the horus Khnemu or Amen, the two cobras of the Upper and Lower Country,
 and the triple symbol of royalty resting on solar disks and terminating
 in disks. The inscription "I \[am\] Cyrus, the King, the Achaemenian"
-has been broken off. (*See* [page 190](bct08.htm#pl01).)</span>
+has been broken off. (*See* [page 190](bct08.htm#pl01)..md)</span>
 
 <span class="small">\[From Perrot and Chipiez, *History of Art in
 Ancient Egypt*, Vol V.\]</span>
 
 ------------------------------------------------------------------------
 
-[Next Plate](bct_pl02)
+[Next Plate](bct_pl02.md)

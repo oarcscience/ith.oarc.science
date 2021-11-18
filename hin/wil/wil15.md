@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil14)  [Next](wil16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil14)  [Next](wil16.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ quotes in support of this contention the familiar
 <span id="page_207">p. 207</span>
 
 words of Krishna: "Whenever religion decays, and when irreligion <span
-id="fr_36"></span>[\*](#fn_36) prevails, *then* I manifest myself. For
+id="fr_36"></span>[\*](#fn_36.md) prevails, *then* I manifest myself. For
 the protection of the good, for the destruction of the evil, for the
 firm establishment of the *dharmma*, I am born again and again."
 
@@ -515,10 +515,10 @@ Great Vision, the field of the Divine Illumination of Arjuna.
 
 ### Footnotes
 
-<span id="fn_36"></span>[207:\*](wil15.htm#fr_36) Literally, dharmma and
+<span id="fn_36"></span>[207:\*](wil15.htm#fr_36.md) Literally, dharmma and
 a-dharmma. The prefix here adversative--dharmma and non-dharmma. See [p.
-276](wil18.htm#page_276).
+276](wil18.htm#page_276.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Islam In India](wil16)
+[Next: Chapter XIV. Islam In India](wil16.md)

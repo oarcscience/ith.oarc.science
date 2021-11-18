@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll18)  [Next](tll20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll18)  [Next](tll20.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ incarnation, helped the attainment of a more civilised state.
 
 ------------------------------------------------------------------------
 
-[Next: Great Cities and Statues](tll20)
+[Next: Great Cities and Statues](tll20.md)

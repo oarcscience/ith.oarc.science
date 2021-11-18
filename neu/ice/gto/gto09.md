@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto08)  [Next](gto10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto08)  [Next](gto10.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ four take the oath of foster-brothers."
 
 Well, they all thought that good counsel; and after that they went out
 of their booth to the point of the "ere," <span
-id="fr_9"></span>[1](#fn_9) and there cut up a sod of turf in such wise
+id="fr_9"></span>[1](#fn_9.md) and there cut up a sod of turf in such wise
 that both its ends were still fast to the earth, and propped it up by a
 spear scored with runes, so tall that a man might lay his hand on the
 socket of the spear-head. Under this yoke they were all four to
@@ -167,9 +167,9 @@ Now men fare home from the leet, and all is still and tidingless.
 
 ### Footnotes
 
-<span id="fn_9"></span>[23:1](gto09.htm#fr_9) "Ere," old English for a
+<span id="fn_9"></span>[23:1](gto09.htm#fr_9.md) "Ere," old English for a
 sandy spit of land; from the Icelandic *eyri*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Soursops Abroad](gto10)
+[Next: Chapter V. The Soursops Abroad](gto10.md)

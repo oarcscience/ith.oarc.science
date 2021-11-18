@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep11)  [Next](nep13) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep11)  [Next](nep13.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ O that by early grace I might
 
 ------------------------------------------------------------------------
 
-[Next: On Life and Death](nep13)
+[Next: On Life and Death](nep13.md)

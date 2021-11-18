@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc04) 
-[Next](dsc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc04.md) 
+[Next](dsc06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Lessons for Developing Spiritual Consciousness*, by A.P. Mukerji,
 \[1911\], at Intangible Textual Heritage
 
@@ -153,4 +153,4 @@ as helpful as you can.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Man: Animal and Divine](dsc06)
+[Next: Chapter IV. Man: Animal and Divine](dsc06.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft23)  [Next](zft25) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft23)  [Next](zft25.md) 
 
 ------------------------------------------------------------------------
 
@@ -223,4 +223,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: Jack-Rabbit And Cottontail](zft25)
+[Next: Jack-Rabbit And Cottontail](zft25.md)

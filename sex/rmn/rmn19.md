@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn18)  [Next](rmn20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn18)  [Next](rmn20.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ The ternary number, which recurs everywhere throughout Nature,
 <span id="page_41">p. 41</span>
 
 physically and morally, played a prominent part in the pagan
-rites. <span id="fr_25"></span>[1](#fn_25) It embraced the divinities of
+rites. <span id="fr_25"></span>[1](#fn_25.md) It embraced the divinities of
 air, earth, and water, of which Jupiter, Neptune, and Pluto were the
 lords, and which were indiscriminately called Zeus, the Supreme
 Divinity. The Muses numbered *three* times *three*: there were *three*
@@ -56,9 +56,9 @@ Graces, *three* Furies, *three* Fates, *three* Hecates, a Cerberus with
 
 ### Footnotes
 
-<span id="fn_25"></span>[41:1](rmn19.htm#fr_25) As also in Judaism,
+<span id="fn_25"></span>[41:1](rmn19.htm#fr_25.md) As also in Judaism,
 Buddhism, Brahminism, and Christianity.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XIX: Two Mimic Buffoons](rmn20)
+[Next: Plate XIX: Two Mimic Buffoons](rmn20.md)

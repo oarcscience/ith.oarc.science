@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](tcr00)  [Next](tcr02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](tcr00)  [Next](tcr02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930985/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930985/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -2752,4 +2752,4 @@ the Divine wisdom; and for this reason it is called "life" and "light,"
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](tcr02)
+[Next: 51-100](tcr02.md)

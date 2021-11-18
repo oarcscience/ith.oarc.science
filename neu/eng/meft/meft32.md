@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft31)  [Next](meft33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft31)  [Next](meft33.md) 
 
 ------------------------------------------------------------------------
 
 # The King O' The Cats
 
 <span id="img_047"></span> [![](tn/047.jpg)  
-Click to enlarge](img/047.jpg)
+Click to enlarge](img/047.jpg.md)
 
 ONE winter's evening the sexton's wife was sitting by the fireside with
 her big black cat, Old Tom, on the other side, both half asleep and
@@ -75,4 +75,4 @@ Cats!' and rushed up the chimney and was nevermore seen.
 
 ------------------------------------------------------------------------
 
-[Next: Tamlane](meft33)
+[Next: Tamlane](meft33.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo01)  [Next](sdo03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo01)  [Next](sdo03.md) 
 
 ------------------------------------------------------------------------
 
@@ -159,7 +159,7 @@ mythology was easy.
 
 The Oglala make a wide distinction between the ceremony of the Sun Dance
 and the sun dance itself, for the dance is but a culminating rite of the
-ceremony. <span id="fr_0"></span>[1](#fn_0) The ceremony is graduated
+ceremony. <span id="fr_0"></span>[1](#fn_0.md) The ceremony is graduated
 according to the purposes of the dancers, each grade having all the
 rites of the grade below it and additional rites. The highest grade is
 performed for a dancer who dances for the purpose of becoming a Shaman.
@@ -216,7 +216,7 @@ December, 1916.
 
 ### Footnotes
 
-<span id="fn_0"></span>[58:1](sdo02.htm#fr_0) This account of the Sun
+<span id="fn_0"></span>[58:1](sdo02.htm#fr_0.md) This account of the Sun
 Dance Is based exclusively upon original data and not in any way
 influenced by previous writers. The published accounts so far available
 are as follows:--
@@ -243,4 +243,4 @@ omitted.--*Editor*.
 
 ------------------------------------------------------------------------
 
-[Next: The Sun Dance](sdo03)
+[Next: The Sun Dance](sdo03.md)

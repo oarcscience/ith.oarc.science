@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch24) 
-[Next](branch26) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch24.md) 
+[Next](branch26.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -75,5 +75,5 @@ fair and rich and well- seated.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XXVI](branch26)  
+XXVI](branch26.md)  
 </span>

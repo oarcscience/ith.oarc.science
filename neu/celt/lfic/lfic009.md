@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic008)  [Next](lfic010) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic008)  [Next](lfic010.md) 
 
 ------------------------------------------------------------------------
 
@@ -346,4 +346,4 @@ that desirable end.
 
 ------------------------------------------------------------------------
 
-[Next: The Corpse Watchers](lfic010)
+[Next: The Corpse Watchers](lfic010.md)

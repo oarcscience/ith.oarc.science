@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](drac07)  [Next](drac09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](drac07)  [Next](drac09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B549MW/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B549MW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dracula*, by Bram Stoker, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -602,4 +602,4 @@ diary has quieted me, and I feel I shall get some sleep tonight.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9](drac09)
+[Next: Chapter 9](drac09.md)

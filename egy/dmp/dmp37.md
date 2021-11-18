@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp36)  [Next](dmp38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp36)  [Next](dmp38.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ old scented wine; put (it) on you, you lie with her.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. VI.](dmp38)
+[Next: Verso Col. VI.](dmp38.md)

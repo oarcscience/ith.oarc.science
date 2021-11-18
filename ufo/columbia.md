@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](cni0212)  [Next](com-chem) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](cni0212)  [Next](com-chem.md) 
 
 ### Columbia River UFO 3/17/1981
 
@@ -209,4 +209,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 ------------------------------------------------------------------------
 
 [Next: Comets May Have Introduced Interstellar Chemicals to
-Earth](com-chem)
+Earth](com-chem.md)

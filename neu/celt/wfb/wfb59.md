@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb58)  [Next](wfb60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb58)  [Next](wfb60.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ into the lake and disappeared beneath the smooth and glassy waters.
 
 ------------------------------------------------------------------------
 
-[Next: A Fairy Dog](wfb60)
+[Next: A Fairy Dog](wfb60.md)

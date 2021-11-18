@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](icap3-2)  [Next](icap4-2) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](icap3-2)  [Next](icap4-2.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,11 +10,11 @@
 
 Supplementary to the Thwan and Yâo on the first and second Hexagrams,
 and showing how they may be interpreted of man's nature and doings
- <span id="fr_278"></span>[1](#fn_278)
+ <span id="fr_278"></span>[1](#fn_278.md)
 
 ### SECTION I. *KH*IEN
 
-Chapter  <span id="fr_279"></span>[I](#fn_279). 1. What is called (under
+Chapter  <span id="fr_279"></span>[I](#fn_279.md). 1. What is called (under
 Khien) 'the great and originating' is (in man) the first and chief
 quality of goodness; what is called 'the penetrating' is the assemblage
 of excellences; what is called 'the advantageous' is the harmony of all
@@ -33,7 +33,7 @@ is great and originating, penetrating, advantageous, correct and firm.'
 
 <span id="page_409">p. 409</span>
 
-Chapter  <span id="fr_280"></span>[II](#fn_280). 4. What is the meaning
+Chapter  <span id="fr_280"></span>[II](#fn_280.md). 4. What is the meaning
 of the words under the first NINE, (undivided), 'The dragon lies hid (in
 the deep);--it is not the time for active doing?' The Master
 said:--There he is, with the powers of the dragon, and yet lying hid.
@@ -110,7 +110,7 @@ in such a case, there will be occasion for repentance.'
 
 <span id="page_413">p. 413</span>
 
-Chapter  <span id="fr_281"></span>[III](#fn_281). 10. 'The dragon lies
+Chapter  <span id="fr_281"></span>[III](#fn_281.md). 10. 'The dragon lies
 hid;--it is not the time for active doing:'--the position is (too) low.
 
 11\. 'The dragon shows himself and is in the field:'--the time (requires
@@ -135,7 +135,7 @@ us how) all under the sky there will be good order.
 
 <span id="page_414">p. 414</span>
 
-Chapter  <span id="fr_282"></span>[IV](#fn_282). 17. 'The dragon lies
+Chapter  <span id="fr_282"></span>[IV](#fn_282.md). 17. 'The dragon lies
 hid in the deep;--it is not the time for active doing:'--the energy
 denoted by the undivided line is laid up and hid away as in the deep.
 
@@ -161,7 +161,7 @@ Yâo) we see the model (of action) afforded by heaven.
 
 <span id="page_415">p. 415</span>
 
-Chapter  <span id="fr_283"></span>[V](#fn_283). 24. The 'greatness' and
+Chapter  <span id="fr_283"></span>[V](#fn_283.md). 24. The 'greatness' and
 'originating' represented by *Kh*ien refer to it as (the symbol of) what
 gives their beginning (to all things), and (also) secures their growth
 and development.
@@ -187,7 +187,7 @@ heaven enjoys repose.
 
 <span id="page_416">p. 416</span>
 
-Chapter  <span id="fr_284"></span>[VI](#fn_284). 30. In the superior man
+Chapter  <span id="fr_284"></span>[VI](#fn_284.md). 30. In the superior man
 his conduct is (the fruit of) his perfected virtue, which might be seen
 therefore in his daily course; but the force of that phrase, 'lying
 hid,' requires him to keep retired, and not yet show himself, nor
@@ -239,7 +239,7 @@ only is the sage!
 
 ### Footnotes
 
-<span id="fn_278"></span>[408:1](icap4-1.htm#fr_278) The title of this
+<span id="fn_278"></span>[408:1](icap4-1.htm#fr_278.md) The title of this
 Appendix is in Chinese the Wăn Yen *K*wan, 'The Record of Wăn Yen;' and
 according to the analogy of the titles of the three Appendixes that
 follow, Wăn should perform the part of a verb and Yen that of a
@@ -255,7 +255,7 @@ formed. But, as I have shown in the Introduction (pp. 28-30), it is more
 than doubtful whether we have in this Appendix anything at all directly
 from the sage.
 
-<span id="fn_279"></span>[409:I](icap4-1.htm#fr_279) Chapter I,
+<span id="fn_279"></span>[409:I](icap4-1.htm#fr_279.md) Chapter I,
 paragraphs 1-3, shows how the attributes of *Kh*ien, as explained by
 king Wăn, are to be understood of the constituent principles of human
 nature. What is remarkable is, that we find paragraphs 1, 2, with very
@@ -278,7 +278,7 @@ normal man, man in his best estate, and yet inferior to 'the sagely
 man,' is Confucian,--after the style of the teaching of the Master in
 the Analects.
 
-<span id="fn_280"></span>[412:II](icap4-1.htm#fr_280) In chapter II,
+<span id="fn_280"></span>[412:II](icap4-1.htm#fr_280.md) In chapter II,
 paragraphs 4-9, Confucius is introduced, explaining, with considerable
 amplification, what is said by the duke of *K*âu under the several lines
 of the hexagram. 'The dragon' becomes the symbol of 'the superior man;'
@@ -327,21 +327,21 @@ having 'no place' at all. Before he whom it represents is called to act,
 the battle has been won or lost. Movement from him will only accelerate
 and intensify the result.
 
-<span id="fn_281"></span>[413:III](icap4-1.htm#fr_281) Chapter III,
+<span id="fn_281"></span>[413:III](icap4-1.htm#fr_281.md) Chapter III,
 paragraphs 10-16, goes over again the Yâo of the duke of *K*âu with very
 brief explanations, grounded chiefly on the consideration of the place
 or position occupied by the several lines, and the time of their
 introduction into the action of the hexagram.
 
 Paragraph 16. See the note on the Text of *Kh*ien, corresponding to this
-line, page [58](ic01.htm#page_58), and also that on paragraph 7 of the
+line, page [58](ic01.htm#page_58.md), and also that on paragraph 7 of the
 symbolism of the figures and lines, Section i, page
-[165](ic48.htm#page_165). There is the same <span id="page_413">p.
+[165](ic48.htm#page_165.md). There is the same <span id="page_413">p.
 413</span> difficulty in understanding the first part of the short
 paragraph; the conclusion of it must be a consequence of the language of
 the Yâo, though it is not repeated here.
 
-<span id="fn_282"></span>[414:IV](icap4-1.htm#fr_282) Chapter IV,
+<span id="fn_282"></span>[414:IV](icap4-1.htm#fr_282.md) Chapter IV,
 paragraphs 7-23, goes over the same ground for a third time, treating
 the various paragraphs chiefly from the standpoint of time.
 
@@ -364,7 +364,7 @@ Paragraph 23:--see on paragraph 16. 'The model of heaven,' says Wû
 passive, the regulation of movement in accordance with the highest
 reason, so that there shall be neither excess nor deficiency.'
 
-<span id="fn_283"></span>[415:V](icap4-1.htm#fr_283) Chapter V,
+<span id="fn_283"></span>[415:V](icap4-1.htm#fr_283.md) Chapter V,
 paragraphs 24-29. The author here, leaving the treatise on the symbolism
 of the Yâo, turns to that on the Thwan, or expositions of king Wăn, and
 amplifies it, not quoting from it, however, so fully and exactly, as he
@@ -394,7 +394,7 @@ great man,' as the subject, after the example of the best critics. Like
 the clouds and the rain to the thirsty earth, so is the rule of the sage
 to expectant humanity.
 
-<span id="fn_284"></span>[417:VI](icap4-1.htm#fr_284) Chapter VI,
+<span id="fn_284"></span>[417:VI](icap4-1.htm#fr_284.md) Chapter VI,
 paragraphs 30-36., The author leaving the Thwan, turns again to the
 treatise on the symbolism of the Yâo, his main <span id="page_418">p.
 418</span> object being to show how reasonable are the decisions and
@@ -434,7 +434,7 @@ kwei shăn, which I have translated here by the spirit-like operations
 book. In Appendix III, Section i, 21, kwei is the anima and shăn the
 animus; and in paragraph 50, I have translated the terms by 'the
 contracting and expanding operations.' In Appendix I, page
-[226](icap1-1.htm#page_226) and page [259](icap1-2.htm#page_259), the
+[226](icap1-1.htm#page_226) and page [259](icap1-2.htm#page_259.md), the
 name is used as in the present text. That second instance and this <span
 id="page_419">p. 419</span> paragraph were evidently constructed, the
 one on the model of the other. I think it likely that the breath or air,
@@ -463,4 +463,4 @@ time required.
 
 ------------------------------------------------------------------------
 
-[Next: Section II: Khwăn](icap4-2)
+[Next: Section II: Khwăn](icap4-2.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar203) [Next](gbar205)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar203) [Next](gbar205.md)
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ remained in fear.
 
 ------------------------------------------------------------------------
 
-[Next](gbar205)
+[Next](gbar205.md)

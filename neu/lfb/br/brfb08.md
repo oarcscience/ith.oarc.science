@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb07)  [Next](brfb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb07)  [Next](brfb09.md) 
 
 </div>
 
@@ -322,6 +322,6 @@ but the hum of the insects, as they darted through the night.
 
 ------------------------------------------------------------------------
 
-[Next: The Cunning Hare](brfb09)
+[Next: The Cunning Hare](brfb09.md)
 
 </div>

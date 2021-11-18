@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Next](sot01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Next](sot01.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ Reading](../pkt/tarot0)  [Index](index)  [Next](sot01) 
 
 ------------------------------------------------------------------------
 
-[Next: What is the Tarot?](sot01)
+[Next: What is the Tarot?](sot01.md)

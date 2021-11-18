@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi38)  [Next](osi40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi38)  [Next](osi40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -52,7 +52,7 @@ arrived at Benares, the Holy City, a fortnight afterward.
 <span id="page_226">p. 226</span>
 
 Two servants accompanied me, a *cansama*, <span
-id="fr_13"></span>[1](#fn_13) or valet-de-chambre, and a *metor*, whose
+id="fr_13"></span>[1](#fn_13.md) or valet-de-chambre, and a *metor*, whose
 duty it was to prepare my meals.
 
 The crew consisted of a *cercar*, or head boatman, and six *macouas*, or
@@ -332,7 +332,7 @@ same hour, as long as he should remain at Benares.
 
 The poor man was very glad to have met me. I had resided for many years
 in the south of India, and knew the beautiful and sonorous language of
-the country of Bravida, <span id="fr_14"></span>[1](#fn_14) which no one
+the country of Bravida, <span id="fr_14"></span>[1](#fn_14.md) which no one
 else understood at Benares. He had now some one to talk to about this
 wonderful land and its ancient ruins, its old pagodas and their
 incomparable vegetation, and its manuscripts, written with a pointed
@@ -344,11 +344,11 @@ the plains of Memphis and Thebes.
 
 ### Footnotes
 
-<span id="fn_13"></span>[226:1](osi39.htm#fr_13) In Hindustanee the word
+<span id="fn_13"></span>[226:1](osi39.htm#fr_13.md) In Hindustanee the word
 *cansama* means the same as *dobachy* la Tamoul.
 
-<span id="fn_14"></span>[233:1](osi39.htm#fr_14) The Tamoul.
+<span id="fn_14"></span>[233:1](osi39.htm#fr_14.md) The Tamoul.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Water-Spout—The Magic Stick](osi40)
+[Next: Chapter VI. The Water-Spout—The Magic Stick](osi40.md)

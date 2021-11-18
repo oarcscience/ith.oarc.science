@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm48)  [Next](rrm50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm48)  [Next](rrm50.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
 Round Table  
 (Mythical)
 
-<span id="img_42400"></span> ![Round Table (Mythical)](img/42400.jpg)
+<span id="img_42400"></span> ![Round Table (Mythical)](img/42400.jpg.md)
 
 <div align="center">
 
@@ -107,10 +107,10 @@ Imprime*. On les vend au Pallais a Paris. En la boutique de Jehan logis.
 Jehan sainct denis, et Galliot du pre. \[A la fin\] Et fut acheve de
 Imprimer le premier jour de Septembre. Lan mil cinq cents trente
 \[1530\]. Folio. <span id="img_42600"></span> ![Black
-Letter](img/42600.jpg), fine woodcut border to title, woodcuts, old
+Letter](img/42600.jpg.md), fine woodcut border to title, woodcuts, old
 french olive morocco extra, gilt edges, 1351. Aug. 1879. 29 New Bond
 Street.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX: Remarks Upon Two Curious Books](rrm50)
+[Next: Chapter XX: Remarks Upon Two Curious Books](rrm50.md)

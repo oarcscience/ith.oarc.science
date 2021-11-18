@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos01)  [Next](mos03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos01)  [Next](mos03.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ cares of everything and He knows everything.
 
 ------------------------------------------------------------------------
 
-[Next: Moses Going Out From Egypt to Midian With Fear](mos03)
+[Next: Moses Going Out From Egypt to Midian With Fear](mos03.md)

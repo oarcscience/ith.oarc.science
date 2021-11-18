@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg21)  [Next](ttg23) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg21)  [Next](ttg23.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ tree. And the king pursued him, undismayed.
 ------------------------------------------------------------------------
 
 [Next: Twenty-second Goblin: The Father and Son who married Daughter and
-Mother. What relation were their children?](ttg23)
+Mother. What relation were their children?](ttg23.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg72)  [Next](hchg74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg72)  [Next](hchg74.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -326,4 +326,4 @@ re-establish the Roman hierarchy in England.
 ------------------------------------------------------------------------
 
 [Next: III. The Latin Literature of Alchemy and the Hermetic Secret in
-the Light of the Eucharistic Mystery](hchg74)
+the Light of the Eucharistic Mystery](hchg74.md)

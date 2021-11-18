@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb46)  [Next](yefb48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb46)  [Next](yefb48.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_301">p. 301</span>
 
-HERMOD AND HADVOR <span id="fr_31"></span>[1](#fn_31)
+HERMOD AND HADVOR <span id="fr_31"></span>[1](#fn_31.md)
 
 Once upon a time there were a King and a Queen who had an only daughter,
 called Hadvor, who was fair and beautiful, and being an only child, was
@@ -284,12 +284,12 @@ Olof married a good-looking nobleman, and that is the end of the story.
 
 ### Footnotes
 
-<span id="fn_31"></span>[301:1](yefb47.htm#fr_31) From the Icelandic.
+<span id="fn_31"></span>[301:1](yefb47.htm#fr_31.md) From the Icelandic.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Steadfast Tin-Soldier](yefb48)
+[Next: The Steadfast Tin-Soldier](yefb48.md)
 
 </div>

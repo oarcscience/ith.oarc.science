@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht23)  [Next](cht25) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht23)  [Next](cht25.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ should not have seen the supernatural being. He saw Itc!x\*ia'n.
 
 ------------------------------------------------------------------------
 
-[Next: The GiLâ'unaLX](cht25)
+[Next: The GiLâ'unaLX](cht25.md)

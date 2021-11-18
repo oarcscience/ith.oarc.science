@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa10)  [Next](fiwa12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa10)  [Next](fiwa12.md) 
 
 ------------------------------------------------------------------------
 
@@ -775,4 +775,4 @@ at her."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Fetichism--A Government](fiwa12)
+[Next: Chapter X: Fetichism--A Government](fiwa12.md)

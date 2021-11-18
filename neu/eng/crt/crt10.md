@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt09)  [Next](crt11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt09)  [Next](crt11.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_05400"></span>
 
 [![Sir Launcelot sits with Sir Hilaire and Croisette](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)  
+Click to enlarge](img/05400.jpg.md)  
 Sir Launcelot sits with Sir Hilaire and Croisette  
 
 <span id="page_55">p. 55</span>
@@ -470,4 +470,4 @@ immediately followeth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Sixth](crt11)
+[Next: Chapter Sixth](crt11.md)

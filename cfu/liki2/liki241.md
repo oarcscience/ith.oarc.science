@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki240)  [Next](liki242) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki240)  [Next](liki242.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,6 +203,6 @@ interdependence they fulfil their functions.
 ------------------------------------------------------------------------
 
 [Next: XLII. Hsiang Yin Kiû Î or The Meaning of the Drinking Festivity
-in the Districts](liki242)
+in the Districts](liki242.md)
 
   

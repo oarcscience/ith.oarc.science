@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,31 +28,31 @@ and ritual objects is unique.
 
 ------------------------------------------------------------------------
 
-[Title Page](bit00)  
-[Preface](bit01)  
-[Alphabet Used For Transcription](bit02)  
-[Contents](bit03)  
+[Title Page](bit00.md)  
+[Preface](bit01.md)  
+[Alphabet Used For Transcription](bit02.md)  
+[Contents](bit03.md)  
 [Chapter I. Sketch of the Life of Sakyamuni, The Founder of
-Buddhism](bit04)  
+Buddhism](bit04.md)  
 [Chapter II. Gradual Rise and Present Area of the Buddhist
-Religion](bit05)  
-[Chapter III. The Religious System of Sakyamuni](bit06)  
-[Chapter IV. The Hinayana System](bit07)  
-[Chapter V. The Mahayana System](bit08)  
-[Chapter VI. The System of Mysticism](bit09)  
+Religion](bit05.md)  
+[Chapter III. The Religious System of Sakyamuni](bit06.md)  
+[Chapter IV. The Hinayana System](bit07.md)  
+[Chapter V. The Mahayana System](bit08.md)  
+[Chapter VI. The System of Mysticism](bit09.md)  
 [Chapter VII. Historical Account of the Introduction of Buddhism into
-Tibet](bit10)  
-[Chapter VIII. The Sacred Literature](bit11)  
-[Chapter IX. Veiws on Metempsychosis](bit12)  
+Tibet](bit10.md)  
+[Chapter VIII. The Sacred Literature](bit11.md)  
+[Chapter IX. Veiws on Metempsychosis](bit12.md)  
 [Chapter X. Details Characteristic of the Religion of the
-People](bit13)  
+People](bit13.md)  
 [Chapter XI. Translation of an Address to the Buddhas of
-Confession](bit14)  
-[Chapter XII. The Tibetan Priesthood](bit15)  
-[Chapter XII. Religious Buildings and Monuments](bit16)  
-[Chapter XIV. Representation of Buddhist Deities](bit17)  
-[Chapter XV. Worship of the Deities, and Religious Ceremonies](bit18)  
-[Chapter XVI. The Systems of Reckoning Time](bit19)  
+Confession](bit14.md)  
+[Chapter XII. The Tibetan Priesthood](bit15.md)  
+[Chapter XII. Religious Buildings and Monuments](bit16.md)  
+[Chapter XIV. Representation of Buddhist Deities](bit17.md)  
+[Chapter XV. Worship of the Deities, and Religious Ceremonies](bit18.md)  
+[Chapter XVI. The Systems of Reckoning Time](bit19.md)  
 [Chapter XVII. Description of Various Tables used for Astrological
-Purposes](bit20)  
-[Appendix. Bibliography](bit21)  
+Purposes](bit20.md)  
+[Appendix. Bibliography](bit21.md)  

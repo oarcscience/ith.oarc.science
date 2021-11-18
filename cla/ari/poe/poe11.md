@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe10)  [Next](poe12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe10)  [Next](poe12.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ difference whether any given event is a case of propter hoc or post hoc.
 ------------------------------------------------------------------------
 
 [Next: XI. (Plot continued.) Reversal of the Situation, Recognition, and
-Tragic or disastrous Incident defined and explained](poe12)
+Tragic or disastrous Incident defined and explained](poe12.md)

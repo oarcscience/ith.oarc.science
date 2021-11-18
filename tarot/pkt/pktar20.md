@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar19)  [Next](pktar00) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar19)  [Next](pktar00.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Last Judgment
 
 <span id="img_ar20"></span> <span align="CENTER"> [![](tn/ar20.jpg)  
-Click to enlarge](img/ar20.jpg)</span>
+Click to enlarge](img/ar20.jpg.md)</span>
 
 I have said that this symbol is essentially invariable in all Tarot
 sets, or at least the variations do not alter its character. The great
@@ -48,4 +48,4 @@ may be compared with that which passes under the name of Temperance.
 
 ------------------------------------------------------------------------
 
-[Next: Zero. The Fool](pktar00)
+[Next: Zero. The Fool](pktar00.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico015) 
-[Next](nico017) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico015.md) 
+[Next](nico017.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ in which it actualizes itself--let this be taken as said.
 
 [Next: Chapter 4. The actions that produce moral virtue are not good in
 the same sense as those that flow from it: the latter must fulfil
-certain conditions not necessary in the case of the arts](nico017)
+certain conditions not necessary in the case of the arts](nico017.md)

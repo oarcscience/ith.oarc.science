@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](twi21)  [Next](twi23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](twi21)  [Next](twi23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Twilight*, by William Butler Yeats, \[1893, 1902\], at
 Intangible Textual Heritage
 
@@ -151,7 +151,7 @@ odd verses of which my white-capped friend remembered and sang for me.
 
 Sometimes one hears of stolen people acting as good genii to the living,
 as in this tale, heard also close by the haunted pond, of John Kirwan of
-Castle Hacket. The Kirwans <span id="fr_7"></span>[1](#fn_7) are a
+Castle Hacket. The Kirwans <span id="fr_7"></span>[1](#fn_7.md) are a
 family much rumoured of in peasant stories, and believed to be
 
 <span id="page_125">p. 125</span>
@@ -237,7 +237,7 @@ square stone door to the north, or from the Heart Lake in the south.
 
 ### Footnotes
 
-<span id="fn_7"></span>[124:1](twi22.htm#fr_7) I have since heard that
+<span id="fn_7"></span>[124:1](twi22.htm#fr_7.md) I have since heard that
 it was not the Kirwans, but their predecessors at Castle Hacket, the
 Hackets themselves, I think, who were descended from a man and a spirit,
 and were notable for beauty. I imagine that the mother of Lord Cloncurry
@@ -247,4 +247,4 @@ mixes everything together in her cauldron.
 
 ------------------------------------------------------------------------
 
-[Next: The Untiring Ones](twi23)
+[Next: The Untiring Ones](twi23.md)

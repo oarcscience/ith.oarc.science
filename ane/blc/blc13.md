@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc12)  [Next](blc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc12)  [Next](blc14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -31,12 +31,12 @@ heart, he gave counsel \[saying\]:
 \[them\].
 
 8\. "They are \[now\] grouped together in one place, but they shall be
-partitioned in two." <span id="fr_40"></span>[41](blc17.htm#fn_40)
+partitioned in two." <span id="fr_40"></span>[41](blc17.htm#fn_40.md)
 
 9\. Ea answered and spake a word unto him
 
 10\. For the consolation of the gods <span
-id="fr_41"></span>[42](blc17.htm#fn_41) he repeated unto him a word of
+id="fr_41"></span>[42](blc17.htm#fn_41.md) he repeated unto him a word of
 counsel \[saying\]:
 
 11\. "Let one brother \[god of their number\] be given, let him suffer
@@ -54,7 +54,7 @@ unto the Anunnaki \[saying\]:
 15\. "Verily, that which I spake unto you aforetime was true.
 
 16\. "\[This time also\] I speak truth. \[Some there were who\] opposed
-me. <span id="fr_42"></span>[43](blc17.htm#fn_42)
+me. <span id="fr_42"></span>[43](blc17.htm#fn_42.md)
 
 17\. "Who was it that created the strife,
 
@@ -99,7 +99,7 @@ By decrees ...
 
 35\. They spake unto Marduk, their lord, \[saying\]:
 
-36\. "O thou Moon-god <span id="fr_43"></span>[44](blc17.htm#fn_43)
+36\. "O thou Moon-god <span id="fr_43"></span>[44](blc17.htm#fn_43.md)
 (Nannaru), who hast established our splendour,
 
 37\. "What benefit have we conferred upon thee?
@@ -118,7 +118,7 @@ therein."
 
 43\. The features of his face \[shone like\] the day exceedingly.
 
-44\. \[He said), <span id="fr_44"></span>[45](blc17.htm#fn_44) "Like
+44\. \[He said), <span id="fr_44"></span>[45](blc17.htm#fn_44.md) "Like
 unto ... Babylon, the construction whereof ye desire
 
 45\. "I will make ... a city, I will fashion a splendid shrine."
@@ -130,12 +130,12 @@ were ...
 summit of E-Sagila reached the \[celestial\] Ocean.
 
 48\. They made the ziggurat <span
-id="fr_45"></span>[46](blc17.htm#fn_45) \[to reach\] the celestial
+id="fr_45"></span>[46](blc17.htm#fn_45.md) \[to reach\] the celestial
 Ocean; unto Marduk, Enlil, Ea \[shrines\] they appointed,
 
 49\. It (*i.e.*, the ziggurat) stood before them majestically: at the
 bottom and \[at the top\] they observed its two horns. <span
-id="fr_46"></span>[47](blc17.htm#fn_46)
+id="fr_46"></span>[47](blc17.htm#fn_46.md)
 
 50\. After the Anunnaki had finished the construction of E-Sagila, and
 had completed the making of their shrines,
@@ -256,7 +256,7 @@ the text that remains that Lakhmu, and Lakhamu, and Anshar all
 proclaimed the names of Marduk. When the text again becomes connected
 Marduk has just been addressing the gods.\]
 
-140\. In Up-shukkinaku <span id="fr_47"></span>[48](blc17.htm#fn_47) he
+140\. In Up-shukkinaku <span id="fr_47"></span>[48](blc17.htm#fn_47.md) he
 appointed their council for them.
 
 141\. \[They said\]:--"Of \[our\] son, the Hero, our Avenger,
@@ -269,4 +269,4 @@ appointed their council for them.
 
 ------------------------------------------------------------------------
 
-[Next: Seventh Tablet](blc14)
+[Next: Seventh Tablet](blc14.md)

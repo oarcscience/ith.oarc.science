@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](wos00)  [Next](wos02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](wos00)  [Next](wos02.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,7 +174,7 @@ to what *may* be written on "the Worship of the Serpent," as connected
 with the Fall and Redemption of Man. And I shall hail the day with
 pleasure, when "some person of *true learning* and *a deep insight* into
 antiquity shall go through (*with this view*) with the history of the
-serpent <span id="fr_0"></span>[1](#fn_0)." It would be, indeed, as
+serpent <span id="fr_0"></span>[1](#fn_0.md)." It would be, indeed, as
 Bryant most justly observes, "a noble undertaking, and very edifying in
 its consequences;" and if this short syllabus shall be in any degree
 instrumental to a work so desired, it will not have been written in
@@ -189,8 +189,8 @@ LAURENCE POUNTNEY-HILL, LONDON,
 
 ### Footnotes
 
-<span id="fn_0"></span>[xii:1](wos01.htm#fr_0) Bryant, Anal. 2. 219.
+<span id="fn_0"></span>[xii:1](wos01.htm#fr_0.md) Bryant, Anal. 2. 219.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](wos02)
+[Next: Table of Contents](wos02.md)

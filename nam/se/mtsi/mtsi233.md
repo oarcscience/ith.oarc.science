@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi232)  [Next](mtsi234) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi232)  [Next](mtsi234.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ Then the other people were angry with him on account of his success.
 
 ------------------------------------------------------------------------
 
-[Next: 34. The Owl Persecutors](mtsi234)
+[Next: 34. The Owl Persecutors](mtsi234.md)

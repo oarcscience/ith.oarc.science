@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi119)  [Next](mtsi121) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi119)  [Next](mtsi121.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ This is how they tell it.
 
 ------------------------------------------------------------------------
 
-[Next: 28. Rabbit Rides Wolf](mtsi121)
+[Next: 28. Rabbit Rides Wolf](mtsi121.md)

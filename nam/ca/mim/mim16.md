@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim15)  [Next](mim17) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim15)  [Next](mim17.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ the Giant.\]
 
 ------------------------------------------------------------------------
 
-[Next: Abstracts](mim17)
+[Next: Abstracts](mim17.md)

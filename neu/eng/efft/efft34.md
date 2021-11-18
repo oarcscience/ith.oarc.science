@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft33)  [Next](efft35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft33)  [Next](efft35.md) 
 
 ------------------------------------------------------------------------
 
-# THE FAIRY HORN.  <span id="fr_40"></span>[1](#fn_40)
+# THE FAIRY HORN.  <span id="fr_40"></span>[1](#fn_40.md)
 
 THERE is in the county of Gloucester a forest abounding in boars, stags,
 and every species of game that England produces In a grovy lawn of this
@@ -42,9 +42,9 @@ to the store of his private property.
 
 ### Footnotes
 
-<span id="fn_40"></span>[1](efft34.htm#fr_40) T . Keightley, *The Fairy
+<span id="fn_40"></span>[1](efft34.htm#fr_40.md) T . Keightley, *The Fairy
 Mythology*, p. 284, quoting Gervase of Tilbury.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Fair](efft35)
+[Next: The Fairy Fair](efft35.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](../mars/index)  [Index](index)  [Previous](ipm05)  [Next](ipm07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](../mars/index)  [Index](index)  [Previous](ipm05)  [Next](ipm07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From India to the Planet Mars*, by Théodore Flournoy; tr. Daniel B.
 Vermilye, \[1900\], at Intangible Textual Heritage
 
@@ -199,7 +199,7 @@ of Joseph Balsamo.
 
 I do not find any fact worthy of mention in the first phase, in which
 Victor Hugo, who seems to have appeared as the guide of Mlle. Smith
-about the 1st of April, 1892 (see above, [p. 38](ipm05.htm#page_38)),
+about the 1st of April, 1892 (see above, [p. 38](ipm05.htm#page_38).md),
 played a rôle of no importance. In the second phase, however, it is
 necessary to cite some extracts from the reports of the seances of the
 N. group, in order to throw light upon the singular character which
@@ -373,7 +373,7 @@ that she should attach herself to any one here below. We here recognize
 the same principle of self-protection and self-preservation which was
 already active in her as a young girl in the teleological automatisms
 arising on the occasion of certain emotional shocks, of which I have
-spoken on [p. 25](ipm04.htm#page_25).
+spoken on [p. 25](ipm04.htm#page_25.md).
 
 But, by these considerations, we have travelled very far from the
 original appearance of Leopold in the seance of the 26th of August,
@@ -462,7 +462,7 @@ The hints I have given sufficiently justify, I think, my opinion that
 the real and primordial origin of Leopold is to be found in that deep
 and delicate sphere in which we so often encounter the roots of hypnoid
 phenomena, and to which the most illustrious visionaries, such as
-Swedenborg, <span id="fr_7"></span>[\*](#fn_7) seem to owe a great part
+Swedenborg, <span id="fr_7"></span>[\*](#fn_7.md) seem to owe a great part
 not only of the intellectual content but. of the imaginative form, the
 hallucinatory wrapping, of their genius. There is a double problem to be
 solved in Mlle. Smith's case. Why have these instinctive feelings and
@@ -485,7 +485,7 @@ inclined to the mental disintegration which the general
 public calls the mediumistic faculty, nevertheless, it will not be long
 before her subliminal elements group themselves and arrange themselves
 according to the "personal" form to which all consciousness tends, <span
-id="fr_8"></span>[\*](#fn_8) and which discloses itself outwardly by
+id="fr_8"></span>[\*](#fn_8.md) and which discloses itself outwardly by
 communications which have the appearance of coming directly from
 disincarnate spirits.
 
@@ -575,7 +575,7 @@ idea, and for several weeks considered herself to be the reincarnation
 of Lorenza, until one day a lady of her acquaintance remarked that it
 was impossible, Lorenza Feliciani having never existed save in the
 imagination and the romances of Alexandre Dumas, *père*. <span
-id="fr_9"></span>[\*](#fn_9)
+id="fr_9"></span>[\*](#fn_9.md)
 
 Thus dispossessed of her supposed former existence, Hélène was not long
 in declaring through the table that she was Marie Antoinette. As to
@@ -688,7 +688,7 @@ paper, in her own handwriting. The second,
 
 <span id="img_fig03"></span> <span align="CENTER"> [![Fig. 3.
 Handwriting of Leopold.](tn/fig03.jpg)  
-Click to enlarge](img/fig03.jpg)  
+Click to enlarge](img/fig03.jpg.md)  
 Fig. 3. Handwriting of Leopold.  
 </span>
 
@@ -702,7 +702,7 @@ Fig. 3. Handwriting of Leopold.
 
 <span id="img_fig04"></span> <span align="CENTER"> [![Fig. 4. Normal
 handwriting of Mlle. Smith.](tn/fig04.jpg)  
-Click to enlarge](img/fig04.jpg)  
+Click to enlarge](img/fig04.jpg.md)  
 Fig. 4. Normal handwriting of Mlle. Smith.  
 </span>
 
@@ -717,7 +717,7 @@ pencil between the index and middle fingers, a very rare habit with us.
 The next is that Leopold has an entirely different handwriting from that
 of Hélène, a calligraphy more regular, larger, more painstaking, and
 with marked differences in the formation of the letters (see Figs.
-[3](#img_fig03) and [4](#img_fig04)). The third is that he uses the
+[3](#img_fig03) and [4](#img_fig04).md). The third is that he uses the
 style of handwriting of the last century, and puts an *o* instead of an
 *a* in the tenses of the verbs, *j’amois*, for *j’amais*, etc. These
 three characteristics he has never departed from during all the four
@@ -878,7 +878,7 @@ been persuaded to open his eyes in order to permit the taking of a
 photograph by a flash light. I regret that Mlle. Smith would not consent
 to the publication of her photographs, either in her normal state or in
 that of Leopold, in connection with the reproduction of a portrait of
-Cagliostro. <span id="fr_10"></span>[\*](#fn_10) The reader may assure
+Cagliostro. <span id="fr_10"></span>[\*](#fn_10.md) The reader may assure
 himself
 
 <span id="page_106">p. 106</span>
@@ -969,7 +969,7 @@ the subliminal medley.
 
 <span id="img_fig05"></span> <span align="CENTER"> [![Fig. 5.
 Handwriting of Joseph Balsamo.](tn/fig05.jpg)  
-Click to enlarge](img/fig05.jpg)  
+Click to enlarge](img/fig05.jpg.md)  
 Fig. 5. Handwriting of Joseph Balsamo.  
 </span>
 
@@ -984,7 +984,7 @@ Fig. 5. Handwriting of Joseph Balsamo.
 <span id="page_110">p. 110</span>
 
 Let us consider first the handwriting. To facilitate the comparison, I
-have reproduced here (see pp. [109](#page_109) and [111](#page_111))
+have reproduced here (see pp. [109](#page_109) and [111](#page_111).md)
 some fragments of letters of Cagliostro and of Leopold and of Hélène.
 Let us suppose—which is, perhaps, open to discussion—that the
 handwriting of Leopold, by its regularity, its firmness, resembles that
@@ -992,9 +992,9 @@ of Balsamo more than that of Mlle. Smith; the degree of resemblance does
 not, I think, go beyond that which might be expected considering the
 notorious fact that handwriting reflects the psychological temperament
 and modifies itself in accordance with the state of the
-personality. <span id="fr_11"></span>[\*](#fn_11)
+personality. <span id="fr_11"></span>[\*](#fn_11.md)
 
-It is well known how the calligraphy of a [hyptonized](errata.htm#1)
+It is well known how the calligraphy of a [hyptonized](errata.htm#1.md)
 subject varies according to the suggestion that he shall personate
 Napoleon, Harpagon, a little girl, or an old man; there is nothing
 surprising in the fact that the hypnoid secondary personality of Hélène,
@@ -1012,13 +1012,13 @@ had, of which she has riot thought of taking
 
 <span id="img_fig06"></span> <span align="CENTER"> [![Fig. 6. Normal
 Handwriting of Mlle. Smith](tn/fig06.jpg)  
-Click to enlarge](img/fig06.jpg)  
+Click to enlarge](img/fig06.jpg.md)  
 Fig. 6. Normal Handwriting of Mlle. Smith  
 </span>
 
 <span id="img_fig07"></span> <span align="CENTER"> [![Fig. 7.
 Handwriting of Leopold.](tn/fig07.jpg)  
-Click to enlarge](img/fig07.jpg)  
+Click to enlarge](img/fig07.jpg.md)  
 Fig. 7. Handwriting of Leopold.  
 </span>
 
@@ -1033,14 +1033,14 @@ Fig. 7. Handwriting of Leopold.
 <span id="page_112">p. 112</span>
 
 advantage, for consulting in the Geneva public library the same volume
-from which I took [Fig. 5](#img_fig05), would prove, at least, her good
+from which I took [Fig. 5](#img_fig05.md), would prove, at least, her good
 faith and her honesty, if it were in the least necessary. The
 extravagant signature of Leopold with which all his messages are
-subscribed (see [Fig. 7](#img_fig07)) recalls in no wise that of
-Alessandro di Cagliostro at the bottom of [Fig. 5](#img_fig05).
+subscribed (see [Fig. 7](#img_fig07).md) recalls in no wise that of
+Alessandro di Cagliostro at the bottom of [Fig. 5](#img_fig05.md).
 
 The archaic forms of orthography, *j’aurois* for *j’aurais*, etc., which
-appear above the first autograph of Leopold (see [p. 99](#page_99)), and
+appear above the first autograph of Leopold (see [p. 99](#page_99).md), and
 which occur again in the messages of Marie Antoinette, constitute a very
 pretty hit, of which the ordinary self would probably never dream by way
 of voluntary imitation, but by which the subconscious imagination has
@@ -1187,7 +1187,7 @@ It must be admitted that there is a disagreement and opposition as
 complete as possible (but how far does this "possible" go?) when Hélène,
 in at least an apparently waking state, converses with her guide,
 manifestly by a partial sensory or motor automatism; for example, in the
-case cited on page [64](ipm05.htm#page_64), where Leopold, not sharing
+case cited on page [64](ipm05.htm#page_64.md), where Leopold, not sharing
 the allochiria of Hélène, declared by the table that she was wrong, so
 emphatically that she protested and became angry; also, when in
 verbo-auditive hallucinations, or by automatic handwriting, he enters
@@ -1614,8 +1614,8 @@ Smith with her neighbor of the street-car. The trouble that it caused
 poor Leopold was very characteristic of him, and well indicated the
 severe and jealous censor who formerly had worried the N. group; there
 can be heard again the echo of that voice, "which has absolutely nothing
-to do with the conscience" (see pp. [27](ipm04.htm#page_27) and
-[82](#page_82)), and which has hitherto prevented Hélène from accepting
+to do with the conscience" (see pp. [27](ipm04.htm#page_27.md) and
+[82](#page_82).md), and which has hitherto prevented Hélène from accepting
 any of the suitors whom she has encountered in the course of her journey
 through life. This austere and rigorous mentor, always wide awake, and
 taking offence at the least freedom which Mlle. Smith allows herself in
@@ -1700,7 +1700,7 @@ which Mlle. Smith is compelled to obey her guide.
 
 The passage from the auditive to the graphic form of automatism is also
 to be noticed in it. Apropos of this, in the page of this letter
-reproduced in [Fig. 8](#img_fig08) (see [p. 137](#page_137)), it is made
+reproduced in [Fig. 8](#img_fig08) (see [p. 137](#page_137).md), it is made
 clear that the transition of the hand of Hélène to that of Leopold is
 accomplished brusquely and in a decided manner. The handwriting is not
 metamorphosed gradually, slowly, but continues to be that of Mlle.
@@ -1760,7 +1760,7 @@ literature is full of anecdotes of this kind; and the psychiatrists have
 observed that in the form of circular alienation, where phases of
 melancholic depression and maniacal excitation alternately succeed one
 another more or less regularly with intervals of normal
-[equilibrium](errata.htm#2), it is frequently in sleep that the first
+[equilibrium](errata.htm#2.md), it is frequently in sleep that the first
 symptoms of the change of humor can be detected which has already begun
 in the depths of the individuality, but will only break forth on the
 outside a little later. But all the hypnoid states are connected, and it
@@ -1777,7 +1777,7 @@ intervention of Leopold in the life
 
 <span id="img_fig08"></span> <span align="CENTER"> [![Fig.
 8.](tn/fig08.jpg)  
-Click to enlarge](img/fig08.jpg)  
+Click to enlarge](img/fig08.jpg.md)  
 Fig. 8.  
 </span>
 
@@ -1822,26 +1822,26 @@ probably among the best of her nature.
 
 ### Footnotes
 
-<span id="fn_7"></span>[91:\*](ipm06.htm#fr_7) See Lehmann's
+<span id="fn_7"></span>[91:\*](ipm06.htm#fr_7.md) See Lehmann's
 *Auberglaube and Zauberei*, p. 217 *et seq*. Stuttgart, 1898.
 
-<span id="fn_8"></span>[92:\*](ipm06.htm#fr_8) W. James, "Thought Tends
+<span id="fn_8"></span>[92:\*](ipm06.htm#fr_8.md) W. James, "Thought Tends
 to Personal Form." *Principles of Psychology*, vol. i. p. 225 *et seq*.
 New York, 1890.
 
-<span id="fn_9"></span>[95:\*](ipm06.htm#fr_9) Alexandre Dumas, *père*,
+<span id="fn_9"></span>[95:\*](ipm06.htm#fr_9.md) Alexandre Dumas, *père*,
 *Memoirs of a Physician*, chap. xv.
 
-<span id="fn_10"></span>[105:\*](ipm06.htm#fr_10) The one which is
+<span id="fn_10"></span>[105:\*](ipm06.htm#fr_10.md) The one which is
 found, for example, at the beginning of the Vie de Joseph Balsamo, etc.,
 translated from the Italian (3d edition, Paris, 1791), and which has
 been several times reproduced. <span id="page_106">p. 106</span> Mlle.
 Smith has hanging over her fireplace a fine copy of this portrait.
 
-<span id="fn_11"></span>[110:\*](ipm06.htm#fr_11) See, *e.g.*, Ferrari,
+<span id="fn_11"></span>[110:\*](ipm06.htm#fr_11.md) See, *e.g.*, Ferrari,
 Hericourt, and Richet, "Personality and Handwriting," *Revue
 philosophique*, vol. xxi. p. 414.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Martian Cycle](ipm07)
+[Next: Chapter V. The Martian Cycle](ipm07.md)

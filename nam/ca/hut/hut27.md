@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut26)  [Next](hut28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut26)  [Next](hut28.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXIV.
 
-### Formula of the Spring Dance. <span id="fr_61"></span>[1](#fn_61)
+### Formula of the Spring Dance. <span id="fr_61"></span>[1](#fn_61.md)
 
 <span id="page_236">p. 236</span>
 
@@ -40,7 +40,7 @@ dance around the fire this way the people will live happily again."
 
 ### Footnotes
 
-<span id="fn_61"></span>[234:1](hut27.htm#fr_61) Told at Hupa, December
+<span id="fn_61"></span>[234:1](hut27.htm#fr_61.md) Told at Hupa, December
 1901, by Senaxon.
 
 This formula is repeated by the priest while he collects the bark used
@@ -50,4 +50,4 @@ afternoon and returning after dark.
 
 ------------------------------------------------------------------------
 
-[Next: XXV. Origin of the KinaLdûñ Dance](hut28)
+[Next: XXV. Origin of the KinaLdûñ Dance](hut28.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp03)  [Next](prp05) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp03)  [Next](prp05.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ If to my will thy garden\[1\] thou'lt consign.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Though I be wooden Priapus (as thou see'st)](prp05)
+[Next: 5. Though I be wooden Priapus (as thou see'st)](prp05.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass21)  [Next](nass23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass21)  [Next](nass23.md) 
 
 ------------------------------------------------------------------------
 
@@ -212,4 +212,4 @@ the canoes. Asi-hwî'l went back to his wife and stayed with her.
 
 ------------------------------------------------------------------------
 
-[Next: The Grouses](nass23)
+[Next: The Grouses](nass23.md)

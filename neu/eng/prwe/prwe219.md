@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe218)  [Next](prwe220) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe218)  [Next](prwe220.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ been executed.
 
 ------------------------------------------------------------------------
 
-[Next: The North Side of a Church](prwe220)
+[Next: The North Side of a Church](prwe220.md)

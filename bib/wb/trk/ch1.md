@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](kg2)  [Next](ch2) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](kg2)  [Next](ch2.md) 
 
 ------------------------------------------------------------------------
 
@@ -3121,4 +3121,4 @@ ne denli güçlü olduğu, başından geçen olaylar, İsrail'de ve çevredeki
 
 ------------------------------------------------------------------------
 
-[Next: 2 Chronicles](ch2)
+[Next: 2 Chronicles](ch2.md)

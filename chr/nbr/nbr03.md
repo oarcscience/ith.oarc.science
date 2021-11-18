@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nbr02)  [Next](nbr04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nbr02)  [Next](nbr04.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ faithfulness, but its direct application is to Israel, though in
 peculiarly symbolical images.
 
 This being fixed, the ways and purposes of Providence were then
-discovered. There appeared a great <span id="fr_53"></span>[1](#fn_53)
+discovered. There appeared a great <span id="fr_53"></span>[1](#fn_53.md)
 sign in heaven. As the woman was for the man, so was the man by the
 woman; and here things were revealed, not in ultimate results (that is
 the knowledge of the Church always, in communion, whether as to Christ's
@@ -81,12 +81,12 @@ the world is not
 regulated otherwise than secretly. God may glorify her, but the woman's
 place is to be subject; she does not carry on the war, and cannot in
 this character. I have already mentioned, elsewhere, <span
-id="fr_54"></span>[1](#fn_54) that the activity of faith, or its
+id="fr_54"></span>[1](#fn_54.md) that the activity of faith, or its
 failure, is, in typical scripture, spoken of as the man--the condition
 of the Church or the people of God (for in this sense the Church is the
 name for a condition of the people of God, this last being used in a
 general sense) is represented by the woman. <span
-id="fr_55"></span>[2](#fn_55)
+id="fr_55"></span>[2](#fn_55.md)
 
 We have to look here, at the people of God, as in His own mind or
 purpose, and therefore glorified in that; yet, as we have said, entering
@@ -94,7 +94,7 @@ into the detail of consequences, it is in the ministration of it, for it
 is the man by the woman, not the woman for the man. Both have their
 importance and their place. Hence the woman is seen clothed with supreme
 authority--the splendour of supreme authority, and all derivative light
-under her feet; <span id="fr_56"></span>[3](#fn_56) and derivative rule,
+under her feet; <span id="fr_56"></span>[3](#fn_56.md) and derivative rule,
 all lesser authority, her crown, and that in perfectness. Thus it is
 viewed abstractedly, but in purpose with all God attaches to it, and
 about which all God's mediate purposes or plans roll--His own glory and
@@ -103,7 +103,7 @@ Jesus ever the end. And thus shall it close, for it is true that ἀρχὴ
 
 For we are not speaking here of God's returning into His own infinitude,
 which can hardly be called purpose: <span
-id="fr_57"></span>[4](#fn_57)--Christ,
+id="fr_57"></span>[4](#fn_57.md)--Christ,
 
 <span id="page_58">p. 58</span>
 
@@ -172,9 +172,9 @@ had the seven heads
 
 and ten horns, but the heads were crowned, not the horns. It was Satan,
 acting in the form of power, in which he countervailed--not simply the
-earthly purpose <span id="fr_58"></span>[1](#fn_58) amongst the Jews, or
+earthly purpose <span id="fr_58"></span>[1](#fn_58.md) amongst the Jews, or
 in which he attacks Jerusalem by an earthly instrument, but--the whole
-heavenly <span id="fr_59"></span>[2](#fn_59) purposes and the glory of
+heavenly <span id="fr_59"></span>[2](#fn_59.md) purposes and the glory of
 God by Christ in His people. Hence, too, the death of Christ, which
 closed His Jewish and earthly career, is not noticed here; because the
 Jewish associations of Christ are not the question when things are seen
@@ -207,12 +207,12 @@ his angels, and prevailed not; neither was their place found any more in
 heaven. And the great dragon was cast out, that old serpent, called the
 Devil, and Satan, which deceiveth the whole world: he was cast out into
 the earth, and his angels were cast out with him." <span
-id="fr_60"></span>[1](#fn_60) Then came the celebration; and in the
+id="fr_60"></span>[1](#fn_60.md) Then came the celebration; and in the
 thirteenth verse, what followed on the earth: and the change in all this
 is very important. The Church's estimate of it in heaven, too, is--"the
-accuser of our brethren;" <span id="fr_61"></span>[2](#fn_61) the
+accuser of our brethren;" <span id="fr_61"></span>[2](#fn_61.md) the
 consequence of whose accusations and power was trial <span
-id="fr_62"></span>[3](#fn_62) and persecution upon earth. They loved not
+id="fr_62"></span>[3](#fn_62.md) and persecution upon earth. They loved not
 their lives unto death, overcoming him by the blood of the Lamb and the
 word of their testimony--a time then of saints' suffering, and Satan
 having his place in heaven, in authority and power, and deceiving the
@@ -226,7 +226,7 @@ I apply here the same principle of providential working
 and manifestation in crisis as throughout; and I mention it here only
 particularly, and its application to the fall of idolatry, because by
 modern interpreters, entirely rejected. It is not his influence in the
-Church that is here in question, <span id="fr_63"></span>[1](#fn_63) but
+Church that is here in question, <span id="fr_63"></span>[1](#fn_63.md) but
 his power in the rule of the world, however that might act on the
 Church. The argument, then, that mischief might accrue to the Church by
 the ceasing of Satan's open power in the world, because the Church
@@ -247,7 +247,7 @@ by the direct worship of Satan and his angels, or by open blasphemy
 against God. The second of these is the open heavenly rule of Satan,
 looked at in providence: and this went on in Gentile idolatry. He may
 recover it secretly by what is called the Church: <span
-id="fr_64"></span>[2](#fn_64) but the thing itself was never restored.
+id="fr_64"></span>[2](#fn_64.md) but the thing itself was never restored.
 This appears to me a very plain and important distinction in the
 exercise of Satan's power, which
 
@@ -264,7 +264,7 @@ are given generally in their characters, not dates, because it was a
 course of progressively developed principles, although sometimes facts
 may have given particular dates. As regards that which takes place
 actually in the crisis, the facts are simple and plain. <span
-id="fr_65"></span>[1](#fn_65)
+id="fr_65"></span>[1](#fn_65.md)
 
 There was war in heaven. Michael, the archangel, and his angels fought,
 and the dragon; and the dragon was cast out of heaven; entirely and
@@ -275,14 +275,14 @@ with the devil; and in Daniel, as that great prince who stands up as the
 ruler of providential power, in favour of the Jewish people, who are the
 central object of providence in the arrangement of nations. I do not see
 that it is revealed that it is Christ <span
-id="fr_66"></span>[2](#fn_66) under a
+id="fr_66"></span>[2](#fn_66.md) under a
 
 <span id="page_64">p. 64</span>
 
 mystical name, but it is certainly the direct superior agent of God's
 providential purposes, and thus the immediate instrument of favour to
 His people in that character. The notion of archangels is not sustained
-in scripture. <span id="fr_67"></span>[1](#fn_67) There are seven
+in scripture. <span id="fr_67"></span>[1](#fn_67.md) There are seven
 angels, who stand in the presence of God, spoken of. But Satan was cast
 out, finally out of heaven; and the announcement given that salvation,
 strength, and the kingdom of our God and the power of His Christ was
@@ -308,7 +308,7 @@ the great High Priest, might have sustained them *in the* 
 <span id="page_65">p. 65</span>
 
 conflict with the accuser: but now the conflict <span
-id="fr_68"></span>[1](#fn_68) was ended. This is clearly what concerned
+id="fr_68"></span>[1](#fn_68.md) was ended. This is clearly what concerned
 the Church, in this matter, as identified with Christ in His priestly
 exaltation. Woe then comes upon the inhabiters of the earth and of the
 sea; for the devil, not yet shut up, but cast from heaven, is come down
@@ -325,7 +325,7 @@ as thence, as the prince and god of it: but he comes as a woe and
 judgment from God upon those who dwelt on earth, had not followed the
 heavenly calling, where it was then; and he is in great wrath, because
 he has now but a short time. His enmity against Him <span
-id="fr_69"></span>[2](#fn_69) who has thus sentenced him, is exercised
+id="fr_69"></span>[2](#fn_69.md) who has thus sentenced him, is exercised
 against that which has any connection with Him in the now sphere of his
 malice. He can no longer accuse the brethren; he persecutes the woman.
 And at this period, upon earth, the woman is the Jewish people owned of
@@ -391,36 +391,36 @@ violence towards, the remnant of the seed.
 
 ### Footnotes
 
-<span id="fn_52"></span>[54:1](nbr02.htm#fr_52) At least is connected
+<span id="fn_52"></span>[54:1](nbr02.htm#fr_52.md) At least is connected
 with a wider scope of results.
 
-<span id="fn_53"></span>[56:1](nbr03.htm#fr_53) Another sign begins
+<span id="fn_53"></span>[56:1](nbr03.htm#fr_53.md) Another sign begins
 chapter xv.
 
-<span id="fn_54"></span>[57:1](nbr03.htm#fr_54) "Christian Witness,"
+<span id="fn_54"></span>[57:1](nbr03.htm#fr_54.md) "Christian Witness,"
 volume iii., page 146.
 
-<span id="fn_55"></span>[57:2](nbr03.htm#fr_55) But as to direct
+<span id="fn_55"></span>[57:2](nbr03.htm#fr_55.md) But as to direct
 historic application the woman here is the Jewish people (or Jerusalem)
 seen in heaven and glory first, then cast out and persecuted by the
 dragon--in God's mind, and then the object of Satan's enmity.
 
-<span id="fn_56"></span>[57:3](nbr03.htm#fr_56) Thus all the previous
+<span id="fn_56"></span>[57:3](nbr03.htm#fr_56.md) Thus all the previous
 state of heart in which reflected light was shadowed out for the people
 is put under their feet.
 
-<span id="fn_57"></span>[57:4](nbr03.htm#fr_57) Purpose has rather the
+<span id="fn_57"></span>[57:4](nbr03.htm#fr_57.md) Purpose has rather the
 force of the thing purposed here, than intention. If I am understood, I
 have no anxiety as to metaphysical <span id="page_58">p. 58</span>
 precision. The word purpose evidently includes both, but may apply
 specially to either (*i.e.*, the intention and the thing intended).
 
-<span id="fn_58"></span>[60:1](nbr03.htm#fr_58) \[The Son born was
+<span id="fn_58"></span>[60:1](nbr03.htm#fr_58.md) \[The Son born was
 caught up, but was to rule all nations: the heavenly condition is here
 the answer and remedy for an effort directed against one who was to rule
 over the earthly. His rule and power is the matter in question.\]
 
-<span id="fn_59"></span>[60:2](nbr03.htm#fr_59) This is true, even in
+<span id="fn_59"></span>[60:2](nbr03.htm#fr_59.md) This is true, even in
 Antichrist; for that is association with the Jews and possession of
 Jerusalem, to hold it as the centre of earthly power against the Lord,
 as coming from heaven. The "scornful men" that dwell at Jerusalem "have
@@ -430,48 +430,48 @@ they afford a kind of dictionary to the symbols,) but I add here and
 there the particular prophetic events in which they are fulfilled--as I
 believe, that to which they apply.\]
 
-<span id="fn_60"></span>[61:1](nbr03.htm#fr_60) \[But they are not as
+<span id="fn_60"></span>[61:1](nbr03.htm#fr_60.md) \[But they are not as
 yet replaced by the saints there.\]
 
-<span id="fn_61"></span>[61:2](nbr03.htm#fr_61) \[Note here, the victory
+<span id="fn_61"></span>[61:2](nbr03.htm#fr_61.md) \[Note here, the victory
 is celebrated; they overcame, they are not therefore in this conflict
 any more.\]
 
-<span id="fn_62"></span>[61:3](nbr03.htm#fr_62) I suspect it will be
+<span id="fn_62"></span>[61:3](nbr03.htm#fr_62.md) I suspect it will be
 found that, while the suffering may be most blessed and glorious for
 righteousness', or Christ's sake, it is, nevertheless, always used by
 the Lord for the correction of some secret or manifest evil in the
 individual or in the Church.
 
-<span id="fn_63"></span>[62:1](nbr03.htm#fr_63) *i.e.*, even referring
+<span id="fn_63"></span>[62:1](nbr03.htm#fr_63.md) *i.e.*, even referring
 the passage to the protracted period.
 
-<span id="fn_64"></span>[62:2](nbr03.htm#fr_64) \[In saint-worship,
+<span id="fn_64"></span>[62:2](nbr03.htm#fr_64.md) \[In saint-worship,
 which is really demon-worship.\]
 
-<span id="fn_65"></span>[63:1](nbr03.htm#fr_65) \[Satan is cast down
+<span id="fn_65"></span>[63:1](nbr03.htm#fr_65.md) \[Satan is cast down
 from heaven to earth, where he yet is in great wrath for Daniel's last
 half week, and persecutes the Jews owned of God, saved providentially as
 a body, whereon the enemy seizes all he can. The woman is, as I have
 said, the Jews owned of God, or Jerusalem.\]
 
-<span id="fn_66"></span>[63:2](nbr03.htm#fr_66) I see a great deal to
+<span id="fn_66"></span>[63:2](nbr03.htm#fr_66.md) I see a great deal to
 lead to the conviction that it is Christ as the head of angelic power,
 but not certainly, and therefore say no more than I do here. \[Fuller
 enquiry would lead me to a different conclusion.\]
 
-<span id="fn_67"></span>[64:1](nbr03.htm#fr_67) *i.e.*, in the plural
+<span id="fn_67"></span>[64:1](nbr03.htm#fr_67.md) *i.e.*, in the plural
 number. Superiorities (as principalities, powers, thrones, dominions)
 are spoken of, but not directly archangels.
 
-<span id="fn_68"></span>[65:1](nbr03.htm#fr_68) Conflict with Satan, and
+<span id="fn_68"></span>[65:1](nbr03.htm#fr_68.md) Conflict with Satan, and
 trial, though used, perhaps, for chastening judgment, are very different
 from judgment in war, where Satan has power according to the fall of the
 first Adam, and a will to walk with him.
 
-<span id="fn_69"></span>[65:2](nbr03.htm#fr_69) It is the angelic head
+<span id="fn_69"></span>[65:2](nbr03.htm#fr_69.md) It is the angelic head
 of the Jewish people who was the power that overcame him above.
 
 ------------------------------------------------------------------------
 
-[Next: Part Four](nbr04)
+[Next: Part Four](nbr04.md)

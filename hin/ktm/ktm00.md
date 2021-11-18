@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Next](ktm01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Next](ktm01.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_cover"></span>
 
 [![Front Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover  
 
 Kali the Mother
@@ -23,7 +23,7 @@ NOV. 1899
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 # KALI THE MOTHER
@@ -50,4 +50,4 @@ of attribution is left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ktm01)
+[Next: Contents](ktm01.md)

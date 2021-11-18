@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi090)  [Next](mtsi092) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi090)  [Next](mtsi092.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [Southeast](../index)  [Index](index) 
 
 ### 89. A LEGEND RECORDED BY BARTRAM
 
-The following quotation from Bartram <span id="fr_21"></span>[1](#fn_21)
+The following quotation from Bartram <span id="fr_21"></span>[1](#fn_21.md)
 gives another mythic tale, which is added by way of supplement.
 
 "The river St. Mary has its source from a vast lake, or marsh, called
@@ -54,10 +54,10 @@ conquerors."
 
 ### Footnotes
 
-<span id="fn_21"></span>[83:1](mtsi091.htm#fr_21) Wm. Bartram, Travels,
+<span id="fn_21"></span>[83:1](mtsi091.htm#fr_21.md) Wm. Bartram, Travels,
 Dublin, 1793, pp. 24-26. This tale was made the subject of a poem by the
 Poetess Felicia Hemans.
 
 ------------------------------------------------------------------------
 
-[Next: 90. The Creation of the Earth](mtsi092)
+[Next: 90. The Creation of the Earth](mtsi092.md)

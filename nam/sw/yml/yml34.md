@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml33)  [Next](yml35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml33)  [Next](yml35.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ too."
 
 ------------------------------------------------------------------------
 
-[Next: Jesucristo and San Pedro](yml35)
+[Next: Jesucristo and San Pedro](yml35.md)

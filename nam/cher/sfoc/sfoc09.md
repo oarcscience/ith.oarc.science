@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc08)  [Next](sfoc10) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc08)  [Next](sfoc10.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ owners it can not be duplicated by any future collector.
 
 ------------------------------------------------------------------------
 
-[Next: Character of the Formulas--The Cherokee Religion](sfoc10)
+[Next: Character of the Formulas--The Cherokee Religion](sfoc10.md)

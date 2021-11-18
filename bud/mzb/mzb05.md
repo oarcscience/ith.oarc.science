@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mzb04)  [Next](mzb06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mzb04)  [Next](mzb06.md) 
 
 ------------------------------------------------------------------------
 
@@ -275,4 +275,4 @@ And this body is the body of the Buddha.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Buddhist Statues and Pictures in a Zen Monastary](mzb06)
+[Next: VI. The Buddhist Statues and Pictures in a Zen Monastary](mzb06.md)

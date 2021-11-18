@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs02)  [Next](sfs04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs02)  [Next](sfs04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -54,8 +54,8 @@ notice once for all, as it causes no real difficulty in pronunciation.
 
 The fairy-tales relating to the kindly or malevolent superhuman
 inhabitants of the woods are peculiar and striking. In [No.
-5](sfs08.htm#an_05) these imaginary beings are represented under the
-latter, and in [No. 6](sfs09.htm#an_06) under the former aspect.
+5](sfs08.htm#an_05.md) these imaginary beings are represented under the
+latter, and in [No. 6](sfs09.htm#an_06.md) under the former aspect.
 
 Two waters, one of death and the other of life, are found in the
 Bohemian stories, just as in the Russian ones--a point wherein the
@@ -67,4 +67,4 @@ life, it is necessary to sprinkle it with the "living water."'
 
 ------------------------------------------------------------------------
 
-[Next: I. Long, Broad, and Sharpsight](sfs04)
+[Next: I. Long, Broad, and Sharpsight](sfs04.md)

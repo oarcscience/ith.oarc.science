@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs42)  [Next](mhs44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs42)  [Next](mhs44.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,4 +129,4 @@ Christian, but a notorious apostate."
 
 ------------------------------------------------------------------------
 
-[Next: II. Mediaeval Beliefs About Sneezing](mhs44)
+[Next: II. Mediaeval Beliefs About Sneezing](mhs44.md)

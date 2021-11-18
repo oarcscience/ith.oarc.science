@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft31)  [Next](eft33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft31)  [Next](eft33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -58,7 +58,7 @@ doing him any harm.
  And they drove on again and came to other people; these had all one leg
 shorter than the other, and had been so from birth. They lay on the
 ground all day playing ajangat.<span
-id="page_91_fr_*"></span>[\*](#page_91_note_*) And they had a fine
+id="page_91_fr_*"></span>[\*](#page_91_note_*.md) And they had a fine
 ajangat made of copper.
 
  Atungait stayed there some time, and when the time came for him to set
@@ -115,7 +115,7 @@ the truth.
 
 <span id="footnotes_page_91">p. 91</span>
 
-<span id="page_91_note_*"></span>[\*](#page_91_fr_*) A game played with
+<span id="page_91_note_*"></span>[\*](#page_91_fr_*.md) A game played with
 rings and a stick; the "ring and pin game."
 
  
@@ -150,4 +150,4 @@ rings and a stick; the "ring and pin game."
 
 ------------------------------------------------------------------------
 
-[Next: KUMAGDLAK AND THE LIVING ARROWS](eft33)
+[Next: KUMAGDLAK AND THE LIVING ARROWS](eft33.md)

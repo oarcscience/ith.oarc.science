@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph25)  [Next](aph27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph25)  [Next](aph27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -286,4 +286,4 @@ didst wish and I will come to see thee in thy prison before sunrise."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five. The Garden of Hermanubis](aph27)
+[Next: Chapter Five. The Garden of Hermanubis](aph27.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw12)  [Next](tnw14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw12)  [Next](tnw14.md) 
 
 ------------------------------------------------------------------------
 
@@ -307,4 +307,4 @@ Nobel's Will.
 
 ------------------------------------------------------------------------
 
-[Next: 13. Ontology: The End](tnw14)
+[Next: 13. Ontology: The End](tnw14.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt08)  [Next](ebt10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt08)  [Next](ebt10.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ A most surprising fact is the enormous number of leys.
 
 ------------------------------------------------------------------------
 
-[Next: Mounds](ebt10)
+[Next: Mounds](ebt10.md)

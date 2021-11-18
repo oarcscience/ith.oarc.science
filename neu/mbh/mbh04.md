@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](mbh03)  [Next](mbh05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](mbh03)  [Next](mbh05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myth of the Birth of the Hero*, by Otto Rank, \[1914\], at
 Intangible Textual Heritage
 
@@ -19,9 +19,9 @@ Intangible Textual Heritage
 
 A close relationship with the Sargon legend is also shown in certain
 features of the ancient Hindu epic Mahabharata, in its account of the
-birth of the hero Karna. <span id="fr_37"></span>[3](#fn_37) The
+birth of the hero Karna. <span id="fr_37"></span>[3](#fn_37.md) The
 contents of the legend are briefly rendered by Lassen. <span
-id="fr_38"></span>[4](#fn_38)
+id="fr_38"></span>[4](#fn_38.md)
 
 The princess Pritha, also known as Kunti, bore as a virgin the boy
 Karna, whose father was the sun-god Surya. The young Karna was born with
@@ -56,12 +56,12 @@ Karna as her son, by the divine mark, and prays him to desist from the
 contest with his brother, revealing to him the secret of his birth. But
 he considers her revelation as a fantastic tale, and insists implacably
 upon satisfaction. He falls in the combat, struck by Arjuna's
-arrow. <span id="fr_39"></span>[1](#fn_39)
+arrow. <span id="fr_39"></span>[1](#fn_39.md)
 
 A striking resemblance to the entire structure of the Karna legend is
 presented by the birth history of Ion, the ancestor of the Ionians. The
 following account is based on a relatively late tradition. <span
-id="fr_40"></span>[2](#fn_40)
+id="fr_40"></span>[2](#fn_40.md)
 
 Apollo, in the grotto of the rock of the Athenian Acropolis, procreated
 a son with Creusa, the daughter of Erechtheus. In this grotto the boy
@@ -91,29 +91,29 @@ his birth.
 
 ### Footnotes
 
-<span id="fn_35"></span>[18:1](mbh03.htm#fr_35) Compare Beer: *The Life
+<span id="fn_35"></span>[18:1](mbh03.htm#fr_35.md) Compare Beer: *The Life
 of Abraham* (Leipzig, 1859), according to the interpretation of Jewish
 traditions; also August Wünsche: *From Israel's Temples of Learning*
 (Leipzig, 1907).
 
-<span id="fn_36"></span>[18:2](mbh03.htm#fr_36) See chapters 20 and 21
+<span id="fn_36"></span>[18:2](mbh03.htm#fr_36.md) See chapters 20 and 21
 of Genesis, and also Bergel, op. cit.
 
-<span id="fn_37"></span>[18:3](mbh04.htm#fr_37) The Hindu birth legend
+<span id="fn_37"></span>[18:3](mbh04.htm#fr_37.md) The Hindu birth legend
 of the mythical king Vikramaditya must also be mentioned in this
 connection. Here again occur the barren marriage of the parents, the
 miraculous conception, ill-omened warnings, the exposure of the boy in
 the forest, his nourishment with honey, finally the acknowledgment by
 the father. See Jülg: *Mongolische Märche* (Innsbruck, 1868), PP. 73 ff.
 
-<span id="fn_38"></span>[18:4](mbh04.htm#fr_38) *Indische Alterumskunde*
+<span id="fn_38"></span>[18:4](mbh04.htm#fr_38.md) *Indische Alterumskunde*
 (Karlsruhe, 1846).
 
-<span id="fn_39"></span>[19:1](mbh04.htm#fr_39) Compare the detailed
+<span id="fn_39"></span>[19:1](mbh04.htm#fr_39.md) Compare the detailed
 account in Lefmann: *History of Ancient India* (Berlin, 1890), pp. 181
 ff.
 
-<span id="fn_40"></span>[19:2](mbh04.htm#fr_40) See Röscher, concerning
+<span id="fn_40"></span>[19:2](mbh04.htm#fr_40.md) See Röscher, concerning
 the *Ion* of Euripides. Where no other source is stated, all Greek and
 Roman myths are taken from the *Ausführliches Lexikon der griechischen
 and römischen Mythologie*, edited by W. H. Röscher, which also contains
@@ -121,4 +121,4 @@ a list of all sources.
 
 ------------------------------------------------------------------------
 
-[Next: Oedipus](mbh05)
+[Next: Oedipus](mbh05.md)

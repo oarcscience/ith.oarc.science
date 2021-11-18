@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6LLW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6LLW/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6LLW/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](boe000)    [Page
-Index](pageidx)    [Text \[Zipped\]](boe.txt.gz)
+[Contents](#contents)    [Start Reading](boe000.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](boe.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -51,168 +51,168 @@ critical apparatus.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](boe000)  
-[Editors' Preface](boe001)  
-[Introduction](boe002)  
+<span id="contents"></span> [Title Page](boe000.md)  
+[Editors' Preface](boe001.md)  
+[Introduction](boe002.md)  
 [Abbreviations, Brackets and Symbols Specially Used in the Translation
-of 1 Enoch](boe003)  
+of 1 Enoch](boe003.md)  
 <span id="section_000"></span>
 
 ### The Book of Enoch
 
-[Chapter I](boe004)  
-[Chapter II](boe005)  
-[Chapter III.](boe006)  
-[Chapter IV.](boe007)  
-[Chapter V.](boe008)  
-[Chapter VI.](boe009)  
-[Chapter VII](boe010)  
-[Chapter VIII.](boe011)  
-[Chapter IX](boe012)  
-[Chapter X](boe013)  
-[Chapter XI](boe014)  
-[Chapter XII](boe015)  
-[Chapter XIII](boe016)  
-[Chapter XIV](boe017)  
-[Chapter XV](boe018)  
-[Chapter XVI](boe019)  
+[Chapter I](boe004.md)  
+[Chapter II](boe005.md)  
+[Chapter III.](boe006.md)  
+[Chapter IV.](boe007.md)  
+[Chapter V.](boe008.md)  
+[Chapter VI.](boe009.md)  
+[Chapter VII](boe010.md)  
+[Chapter VIII.](boe011.md)  
+[Chapter IX](boe012.md)  
+[Chapter X](boe013.md)  
+[Chapter XI](boe014.md)  
+[Chapter XII](boe015.md)  
+[Chapter XIII](boe016.md)  
+[Chapter XIV](boe017.md)  
+[Chapter XV](boe018.md)  
+[Chapter XVI](boe019.md)  
 <span id="section_001"></span>
 
 ### Enoch's Journeys through the Earth and Sheol
 
-[Chapter XVII](boe020)  
-[Chapter XVIII](boe021)  
-[Chapter XIX](boe022)  
-[Chapter XX](boe023)  
-[Chapter XXI](boe024)  
-[Chapter XXII](boe025)  
-[Chapter XXIII](boe026)  
-[Chapter XXIV](boe027)  
-[Chapter XXV](boe028)  
-[Chapter XXVI](boe029)  
-[Chapter XXVII](boe030)  
-[Chapter XXVIII](boe031)  
-[Chapter XXIX](boe032)  
-[Chapter XXX](boe033)  
-[Chapter XXXI](boe034)  
-[Chapter XXXII](boe035)  
-[Chapter XXXIII](boe036)  
-[Chapter XXXIV](boe037)  
-[Chapter XXXV](boe038)  
-[Chapter XXXVI](boe039)  
+[Chapter XVII](boe020.md)  
+[Chapter XVIII](boe021.md)  
+[Chapter XIX](boe022.md)  
+[Chapter XX](boe023.md)  
+[Chapter XXI](boe024.md)  
+[Chapter XXII](boe025.md)  
+[Chapter XXIII](boe026.md)  
+[Chapter XXIV](boe027.md)  
+[Chapter XXV](boe028.md)  
+[Chapter XXVI](boe029.md)  
+[Chapter XXVII](boe030.md)  
+[Chapter XXVIII](boe031.md)  
+[Chapter XXIX](boe032.md)  
+[Chapter XXX](boe033.md)  
+[Chapter XXXI](boe034.md)  
+[Chapter XXXII](boe035.md)  
+[Chapter XXXIII](boe036.md)  
+[Chapter XXXIV](boe037.md)  
+[Chapter XXXV](boe038.md)  
+[Chapter XXXVI](boe039.md)  
 <span id="section_002"></span>
 
 ### The Parables
 
-[Chapter XXXVII](boe040)  
+[Chapter XXXVII](boe040.md)  
 <span id="section_003"></span>
 
 ### The First Parable
 
-[Chapter XXXVIII](boe041)  
-[Chapter XXXIX](boe042)  
-[Chapter XL](boe043)  
-[Chapter XLI](boe044)  
-[Chapter XLII](boe045)  
-[Chapter XLIII](boe046)  
-[Chapter XLIV](boe047)  
+[Chapter XXXVIII](boe041.md)  
+[Chapter XXXIX](boe042.md)  
+[Chapter XL](boe043.md)  
+[Chapter XLI](boe044.md)  
+[Chapter XLII](boe045.md)  
+[Chapter XLIII](boe046.md)  
+[Chapter XLIV](boe047.md)  
 <span id="section_004"></span>
 
 ### The Second Parable
 
-[Chapter XLV](boe048)  
-[Chapter XLVI](boe049)  
-[Chapter XLVII](boe050)  
-[Chapter XLVIII](boe051)  
-[Chapter XLIX](boe052)  
-[Chapter L](boe053)  
-[Chapter LI](boe054)  
-[Chapter LII](boe055)  
-[Chapter LIII](boe056)  
-[Chapter LIV](boe057)  
-[Chapter LIV](boe058)  
-[Chapter LVI](boe059)  
-[Chapter LVII](boe060)  
+[Chapter XLV](boe048.md)  
+[Chapter XLVI](boe049.md)  
+[Chapter XLVII](boe050.md)  
+[Chapter XLVIII](boe051.md)  
+[Chapter XLIX](boe052.md)  
+[Chapter L](boe053.md)  
+[Chapter LI](boe054.md)  
+[Chapter LII](boe055.md)  
+[Chapter LIII](boe056.md)  
+[Chapter LIV](boe057.md)  
+[Chapter LIV](boe058.md)  
+[Chapter LVI](boe059.md)  
+[Chapter LVII](boe060.md)  
 <span id="section_005"></span>
 
 ### The Third Parable
 
-[Chapter LVIII.](boe061)  
-[Chapter LIX](boe062)  
+[Chapter LVIII.](boe061.md)  
+[Chapter LIX](boe062.md)  
 <span id="section_006"></span>
 
 ### Book of Noah--a Fragment
 
-[Chapter LX](boe063)  
-[Chapter LXI](boe064)  
-[Chapter LXII](boe065)  
-[Chapter LXIII](boe066)  
-[Chapter LXIV](boe067)  
-[Chapter LXV](boe068)  
-[Chapter LXVI](boe069)  
-[Chapter LXVII](boe070)  
-[Chapter LXVIII](boe071)  
-[Chapter LXIX](boe072)  
+[Chapter LX](boe063.md)  
+[Chapter LXI](boe064.md)  
+[Chapter LXII](boe065.md)  
+[Chapter LXIII](boe066.md)  
+[Chapter LXIV](boe067.md)  
+[Chapter LXV](boe068.md)  
+[Chapter LXVI](boe069.md)  
+[Chapter LXVII](boe070.md)  
+[Chapter LXVIII](boe071.md)  
+[Chapter LXIX](boe072.md)  
 
  
 
-[Chapter LXX](boe073)  
-[Chapter LXXI](boe074)  
+[Chapter LXX](boe073.md)  
+[Chapter LXXI](boe074.md)  
 <span id="section_007"></span>
 
 ### The Book of the Courses of the Heavenly Luminaries
 
-[Chapter LXXII.](boe075)  
-[Chapter LXXIII](boe076)  
-[Chapter LXXIV](boe077)  
-[Chapter LXXV](boe078)  
-[Chapter LXXVI](boe079)  
-[Chapter LXXVII](boe080)  
-[Chapter LXXVIII](boe081)  
-[Chapter LXXIX](boe082)  
-[Chapter LXXX](boe083)  
-[Chapter LXXI](boe084)  
-[Chapter LXXXII](boe085)  
+[Chapter LXXII.](boe075.md)  
+[Chapter LXXIII](boe076.md)  
+[Chapter LXXIV](boe077.md)  
+[Chapter LXXV](boe078.md)  
+[Chapter LXXVI](boe079.md)  
+[Chapter LXXVII](boe080.md)  
+[Chapter LXXVIII](boe081.md)  
+[Chapter LXXIX](boe082.md)  
+[Chapter LXXX](boe083.md)  
+[Chapter LXXI](boe084.md)  
+[Chapter LXXXII](boe085.md)  
 <span id="section_008"></span>
 
 ### The Dream-Vision
 
-[Chapter LXXXIII](boe086)  
-[Chapter LXXXIV](boe087)  
-[Chapter LXXXV](boe088)  
-[Chapter LXXXVI](boe089)  
-[Chapter LXXXVII](boe090)  
-[Chapter LXXXVIII](boe091)  
-[Chapter LXXXIX](boe092)  
-[Chapter XC](boe093)  
+[Chapter LXXXIII](boe086.md)  
+[Chapter LXXXIV](boe087.md)  
+[Chapter LXXXV](boe088.md)  
+[Chapter LXXXVI](boe089.md)  
+[Chapter LXXXVII](boe090.md)  
+[Chapter LXXXVIII](boe091.md)  
+[Chapter LXXXIX](boe092.md)  
+[Chapter XC](boe093.md)  
 <span id="section_009"></span>
 
 ### The Concluding Section of the Book
 
-[Chapter XCII](boe094)  
-[Chapter XCI](boe095)  
-[Chapter XCIII](boe096)  
-[Chapter XCI](boe097)  
-[Chapter XCIV](boe098)  
-[Chapter XCV](boe099)  
-[Chapter XCVI](boe100)  
-[Chapter XCVII](boe101)  
-[Chapter XCVIII](boe102)  
-[Chapter XCIX](boe103)  
-[Chapter C](boe104)  
-[Chapter CI](boe105)  
-[Chapter CII.](boe106)  
-[Chapter CIII](boe107)  
-[Chapter CIV](boe108)  
-[Chapter CV](boe109)  
+[Chapter XCII](boe094.md)  
+[Chapter XCI](boe095.md)  
+[Chapter XCIII](boe096.md)  
+[Chapter XCI](boe097.md)  
+[Chapter XCIV](boe098.md)  
+[Chapter XCV](boe099.md)  
+[Chapter XCVI](boe100.md)  
+[Chapter XCVII](boe101.md)  
+[Chapter XCVIII](boe102.md)  
+[Chapter XCIX](boe103.md)  
+[Chapter C](boe104.md)  
+[Chapter CI](boe105.md)  
+[Chapter CII.](boe106.md)  
+[Chapter CIII](boe107.md)  
+[Chapter CIV](boe108.md)  
+[Chapter CV](boe109.md)  
 <span id="section_010"></span>
 
 ### Fragment of the Book of Noah
 
-[Chapter CVI](boe110)  
-[Chapter CVII](boe111)  
+[Chapter CVI](boe110.md)  
+[Chapter CVII](boe111.md)  
 <span id="section_011"></span>
 
 ### An Appendix to the Book of Enoch
 
-[Chapter CVIII](boe112)  
+[Chapter CVIII](boe112.md)  

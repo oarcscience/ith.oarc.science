@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop19)  [Next](pop21) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop19)  [Next](pop21.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ confusion. But when thou sleepest will union take place.'
 
 ------------------------------------------------------------------------
 
-[Next: The Sixteenth Figure](pop21)
+[Next: The Sixteenth Figure](pop21.md)

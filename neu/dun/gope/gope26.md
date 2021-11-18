@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](gope25)  [Next](gope27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](gope25)  [Next](gope27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SXVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SXVG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gods of Pegana*, by Lord Dunsany, \[1905\], at Intangible Textual
 Heritage
 
@@ -135,6 +135,6 @@ They have hidden."
 
 ------------------------------------------------------------------------
 
-[Next: Of How Imbaun Met Zodrak](gope27)
+[Next: Of How Imbaun Met Zodrak](gope27.md)
 
 </div>

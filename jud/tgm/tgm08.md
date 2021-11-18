@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm07)  [Next](tgm09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm07)  [Next](tgm09.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ stunt, she turned to the Rabbi and said:
 <span id="img_03300"></span>
 
 [![](tn/03300.jpg)  
-Click to enlarge](img/03300.jpg)
+Click to enlarge](img/03300.jpg.md)
 
  
 
@@ -139,4 +139,4 @@ Israel.
 
 ------------------------------------------------------------------------
 
-[Next: 6. School on the Roof](tgm09)
+[Next: 6. School on the Roof](tgm09.md)

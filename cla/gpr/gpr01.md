@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gpr00)  [Next](gpr02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gpr00)  [Next](gpr02.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Greek Popular Religion*, by Martin P. Nilsson, \[1940\], at Intangible
 Textual Heritage
 
@@ -112,4 +112,4 @@ September, 1940 *
 
 ------------------------------------------------------------------------
 
-[Next: Acknowledgements](gpr02)
+[Next: Acknowledgements](gpr02.md)

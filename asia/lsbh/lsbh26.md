@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh25)  [Next](lsbh27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh25)  [Next](lsbh27.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -145,7 +145,7 @@ ANOTHER.
 O young man, thou lover of the world, let not this \[present\] enjoyment
 flatter thee,  
 For the name of this world is derived from labour <span
-id="fr_125"></span>[1](#fn_125), yea, even from vexation.
+id="fr_125"></span>[1](#fn_125.md), yea, even from vexation.
 
 OF THE CRAFTY MAN, AND OF THE MOCKER, AND OF THE BOASTER.
 
@@ -171,7 +171,7 @@ is at peace.
 
 ANOTHER.
 
-The perverse prince of a people should [first](errata.htm#2) of all
+The perverse prince of a people should [first](errata.htm#2.md) of all
 correct himself,  
 95 And then his people; otherwise his labour will be in vain.  
 For the crooked shadow cannot be straight  
@@ -206,7 +206,7 @@ And the spirits of the righteous will be friends and brethren of thine.
 ANOTHER. 115
 
 ON THE DEATH OF THE PATRIARCH JOHN BAR-MA‘DANÎ <span
-id="fr_126"></span>[1](#fn_126),
+id="fr_126"></span>[1](#fn_126.md),
 
 BY GREGORY BAR-HEBRÆUS.
 
@@ -305,9 +305,9 @@ brain.
 \[My\] sleep by day and by night is washed with tears,  
 And for this reason a sleepless eye hath come to me.  
 If an unwatchful eye hath ever been seen, <span
-id="fr_127"></span>[\*](#fn_127) 185  
+id="fr_127"></span>[\*](#fn_127.md) 185  
 It would fix itself to see thee; and if \[it\] did not no man would see
-it sunk in slumber. <span id="fr_128"></span>[\*](#fn_127)  
+it sunk in slumber. <span id="fr_128"></span>[\*](#fn_127.md)  
 For at thy gate \[my\] soul standeth like a beggar,  
 Asking a vision of thyself in a dream and not a cake.
 
@@ -315,19 +315,19 @@ Asking a vision of thyself in a dream and not a cake.
 
 ### Footnotes
 
-<span id="fn_125"></span>[191:1](lsbh26.htm#fr_125) The play here is on
+<span id="fn_125"></span>[191:1](lsbh26.htm#fr_125.md) The play here is on
 the words \#\#\# "world", and \#\#\# "labour".
 
-<span id="fn_126"></span>[193:1](lsbh26.htm#fr_126) He was created
+<span id="fn_126"></span>[193:1](lsbh26.htm#fr_126.md) He was created
 Maphrian A.D. 1232, and Patriarch in 1252, and he died in 1263.
 
-<span id="fn_127"></span>[197:\*](lsbh26.htm#fr_128) I am uncertain
+<span id="fn_127"></span>[197:\*](lsbh26.htm#fr_128.md) I am uncertain
 about the meaning of these lines.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Index](lsbh27)
+[Next: Index](lsbh27.md)
 
 </div>

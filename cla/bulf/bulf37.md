@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf36) [Next](bulf38) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf36) [Next](bulf38.md) 
 
 # CHAPTER XXXVIII.
 
@@ -292,4 +292,4 @@ it, "Thrym's Quida," will be found poetically told in Longfellow's
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XXXIX. Thor's Visit To Jotunheim.](bulf38)
+Next: [CHAPTER XXXIX. Thor's Visit To Jotunheim.](bulf38.md)

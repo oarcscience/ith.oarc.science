@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb13)  [Next](lrb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb13)  [Next](lrb15.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,7 +202,7 @@ was loath to have him slain. Under
 <span id="img_28800"></span>
 
 [![THE WERE-WOLF](tn/28800.jpg)  
-Click to enlarge](img/28800.jpg)  
+Click to enlarge](img/28800.jpg.md)  
 THE WERE-WOLF  
 
  
@@ -402,7 +402,7 @@ The place was straitly watched by vigilant
 <span id="img_29400"></span>
 
 [![GUGEMAR COMES UPON THE MAGIC SHIP](tn/29400.jpg)  
-Click to enlarge](img/29400.jpg)  
+Click to enlarge](img/29400.jpg.md)  
 GUGEMAR COMES UPON THE MAGIC SHIP  
 
  
@@ -606,7 +606,7 @@ Gugemar.
 <span id="img_30000"></span>
 
 [![GUGEMAR'S ASSAULT ON THE CASTLE OF MERIADUS](tn/30000.jpg)  
-Click to enlarge](img/30000.jpg)  
+Click to enlarge](img/30000.jpg.md)  
 GUGEMAR'S ASSAULT ON THE CASTLE OF MERIADUS  
 
  
@@ -1000,7 +1000,7 @@ greatly at the restoration of his lady-love. His wife founded
 <span id="img_31200"></span>
 
 [![ELIDUC CARRIES GUILLARDUN TO THE FOREST CHAPEL](tn/31200.jpg)  
-Click to enlarge](img/31200.jpg)  
+Click to enlarge](img/31200.jpg.md)  
 ELIDUC CARRIES GUILLARDUN TO THE FOREST CHAPEL  
 
  
@@ -1590,4 +1590,4 @@ dusty memories.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: The Saints of Brittany](lrb15)
+[Next: Chapter XII: The Saints of Brittany](lrb15.md)

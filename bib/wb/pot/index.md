@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mat)   
+[Contents](#contents)    [Start Reading](mat.md)   
 
 ------------------------------------------------------------------------
 
@@ -31,5 +31,5 @@ the public domain because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Matthew](mat)  
-[Acts](act)  
+<span id="contents"></span> [Matthew](mat.md)  
+[Acts](act.md)  

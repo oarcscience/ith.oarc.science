@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas007n)  [Next](jas009n)   
- \[[8. Tiger's Bone-hole.](jas008)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas007n)  [Next](jas009n.md)   
+ \[[8. Tiger's Bone-hole.](jas008.md)\]
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ see Bleek, Bushman Folk-lore, 275-283.
 
 ------------------------------------------------------------------------
 
-[Next: Note 9. The Christening.](jas009n)
+[Next: Note 9. The Christening.](jas009n.md)

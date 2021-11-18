@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml11)  [Next](iml13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml11)  [Next](iml13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -79,10 +79,10 @@ people, although the ancient Vedic
 <span id="img_12000"></span>
 
 [![THE HINDU TRINITY AT ELEPHANTA](tn/12000.jpg)  
-Click to enlarge](img/12000.jpg)  
+Click to enlarge](img/12000.jpg.md)  
 THE HINDU TRINITY AT ELEPHANTA  
 
-(see page [119](#page_119))
+(see page [119](#page_119).md)
 
  
 
@@ -146,7 +146,7 @@ seem to justify the conclusion that Shiva and Vishnu were already
 prominent as highest gods, the former in the mountains, the latter in
 the Ganges valley. . . . We also learn from Megasthenes that the
 doctrine of the four Ages of the World (Yugas) was fully developed in
-India by this time." <span id="fr_165"></span>[1](#fn_164)
+India by this time." <span id="fr_165"></span>[1](#fn_164.md)
 
 In the *Rigveda* Vishnu is a god of grace. He is, however, a secondary
 deity--an attribute of the sun and
@@ -155,7 +155,7 @@ deity--an attribute of the sun and
 
 a phase of Agni. From the earliest times, it is significant to note, his
 benevolent character is emphasized. In one of the hymns <span
-id="fr_166"></span>[1](#fn_165) he is called "the Kinsman"; he welcomed
+id="fr_166"></span>[1](#fn_165.md) he is called "the Kinsman"; he welcomed
 to his heaven of bliss the faithful worshippers of the gods. An
 interesting reference is made to his "highest step". As detailed in
 later writings, the myth involved is to the effect that the demon Bali,
@@ -172,7 +172,7 @@ conquering sun by day and by night.
 In *Yajurveda* Vishnu is more prominent than in the Rigveda, and in the
 *Brahmanas* "there is a growing tendency", remarks Professor Barnett,
 "to regard him as a blessed Cosmic Spirit". <span
-id="fr_167"></span>[2](#fn_166) He is fully identified with Brahma in
+id="fr_167"></span>[2](#fn_166.md) He is fully identified with Brahma in
 the *Mahábhárata*. In some of the myths he is the source of Indra's
 strength and valour, and he appears to have absorbed the sublime
 character of Varuna, the god of sinners; he is similarly associated with
@@ -181,7 +181,7 @@ the sea, but the Sea of Milk.
 Shiva is a development of the Vedic storm god Rudra, who was not only
 dreaded, but also revered as a destroyer of evil-doers, hatred, evil,
 and disease, and as a nourisher who gave long life. <span
-id="fr_168"></span>[3](#fn_167)
+id="fr_168"></span>[3](#fn_167.md)
 
 Both deities inspired love and reverential fear; they
 
@@ -224,7 +224,7 @@ a warshell, and in the other a
 
 [![VISHNU UPHOLDING THE UNIVERSE&lt;br&gt; &lt;i&gt;From a sculpture at
 Mamallapuram&lt;/i&gt;.](tn/12400.jpg)  
-Click to enlarge](img/12400.jpg)  
+Click to enlarge](img/12400.jpg.md)  
 VISHNU UPHOLDING THE UNIVERSE  
 *From a sculpture at Mamallapuram*.  
 
@@ -256,7 +256,7 @@ Works. Sinners must surrender themselves to Krishna, the human
 incarnation (Avatara) of Vishnu, the Preserver, the God of Love.
 
 This faith is unfolded in the famous *Bhagavad-gita* <span
-id="fr_169"></span>[1](#fn_168) in the *Bhishma Parva* section of the
+id="fr_169"></span>[1](#fn_168.md) in the *Bhishma Parva* section of the
 *Mahábhárata* epic. Krishna is acting as the counsellor and charioteer
 of the Pandava warrior Arjuna. Ere the first day's battle of the Great
 War begins, the human Avatara of Vishnu reveals himself to his friend as
@@ -346,12 +346,12 @@ of objects of desire, they sink into foul hell. . . Threefold is the way
 to hell, ruinous to the Self (Soul), namely, lust, wrath, likewise
 avarice. . . . Freed from these three gates of darkness, a man works out
 his own welfare, and then repairs to the highest goal." <span
-id="fr_170"></span>[1](#fn_169)
+id="fr_170"></span>[1](#fn_169.md)
 
 Balarama is an incarnation of the world serpent Shesha. According to the
 legend, he and Krishna are the sons of Vasudeva and Devakí. It was
 revealed to Kansa, King of Mat´hurã <span
-id="fr_171"></span>[2](#fn_170), who was a worshipper of Shiva, that a
+id="fr_171"></span>[2](#fn_170.md), who was a worshipper of Shiva, that a
 son of Devakí would slay him. His majesty therefore commanded that
 Devakí's children should be slain as soon as they were born. Balarama,
 who was fair, was carried safely away. Krishna, the dark son, performed
@@ -368,7 +368,7 @@ but the child put out a foot and the river immediately fell and
 
 [![KRISHNA AND THE GOPIS (HERDSMAIDS)&lt;br&gt; &lt;i&gt;From a modern
 sculpture&lt;/i&gt;](tn/12800.jpg)  
-Click to enlarge](img/12800.jpg)  
+Click to enlarge](img/12800.jpg.md)  
 KRISHNA AND THE GOPIS (HERDSMAIDS)  
 *From a modern sculpture*  
 
@@ -432,7 +432,7 @@ Buddha denied the existence of the Self-Soul of the *Upanishads*. Self
 is not God, in the sense that it is a phase of the World Soul. The
 "self-state" is, according to the "Enlightener", a combination of five
 elements--matter, feeling, imagination, will, and consciousness; these
-are united by Kamma, <span id="fr_172"></span>[1](#fn_171) the influence
+are united by Kamma, <span id="fr_172"></span>[1](#fn_171.md) the influence
 which causes life to repeat itself. Buddha had accepted, in a limited
 sense, the theory of Transmigration of Souls. He taught, however, that
 rebirth was the result of actions and desire. "It is the yearning for
@@ -445,7 +445,7 @@ desire for existence, the desire for power." Death occurs when
 <span id="img_13000"></span>
 
 [![BUDDHA EXPOUNDING THE LAW](tn/13000.jpg)  
-Click to enlarge](img/13000.jpg)  
+Click to enlarge](img/13000.jpg.md)  
 BUDDHA EXPOUNDING THE LAW  
 
  
@@ -475,7 +475,7 @@ belief; right resolve, right speech, right action, right life, right
 desire, right thought, and right self-absorption". The reward of the
 faithful, who attains to perfect knowledge, unsullied by works, is
 eternal emancipation by Nirvana, undisturbed repose or blissful
-extinction <span id="fr_173"></span>[1](#fn_172), which is the Supreme
+extinction <span id="fr_173"></span>[1](#fn_172.md), which is the Supreme
 Good. If there had been no belief in rebirth, the solution would have
 been found in suicide.
 
@@ -491,7 +491,7 @@ extreme. "It does not express friendship, or the feeling of particular
 affection which a man has for one or more of his fellow creatures, but
 that universal feeling which inspires us with goodwill towards all men
 and constant willingness to help them." <span
-id="fr_174"></span>[1](#fn_173)
+id="fr_174"></span>[1](#fn_173.md)
 
 Belief in the sanctity of life is a prevailing note in Buddhism. The
 teacher forbade the sacrifice of animals, as did Isaiah in Judah.
@@ -538,7 +538,7 @@ Ptolemaic times, and monks of the Serapeum illustrated an ideal to man
 which had been as yet unknown in the West. This system of monasticism
 continued until Pachomios, a monk of Serapis in Upper Egypt, became the
 first Christian monk in the reign of Constantine." <span
-id="fr_175"></span>[1](#fn_174)
+id="fr_175"></span>[1](#fn_174.md)
 
 Jainism, like Buddhism, was also a revolt against Brahmanic orthodoxy,
 and drew its teachers and disciples chiefly from the aristocratic class.
@@ -596,7 +596,7 @@ some outward joys they might give more ready response to inward joys".
 The Pope added: "It is not possible to cut off everything at once from
 obdurate minds; he who endeavours to climb to the highest place must
 rise not by bounds, but by degrees or steps." <span
-id="fr_176"></span>[1](#fn_175)
+id="fr_176"></span>[1](#fn_175.md)
 
 It is necessary for us, therefore, in dealing with Puranic beliefs, and
 the movement which culminated in modern-day Hinduism, to make a
@@ -644,7 +644,7 @@ incarnation as Parasu-rama (Rama with the axe). He clears the earth
 twenty-one times of the visible Kshatriyas, but on each occasion a few
 survive to perpetuate the caste.
 
-Jagannath <span id="fr_177"></span>[1](#fn_176) is also regarded as a
+Jagannath <span id="fr_177"></span>[1](#fn_176.md) is also regarded as a
 form of Vishnu, although apparently not of Brahmanic origin. He is
 represented by three forms, representing the dark Krishna,
 
@@ -655,7 +655,7 @@ represented by three forms, representing the dark Krishna,
 [![THE BOAR INCARNATION OF VISHNU RAISING THE EARTH FROM THE
 DEEP&lt;br&gt; &lt;i&gt;From a rock sculpture at
 Udayagiri&lt;/i&gt;](tn/13600.jpg)  
-Click to enlarge](img/13600.jpg)  
+Click to enlarge](img/13600.jpg.md)  
 THE BOAR INCARNATION OF VISHNU RAISING THE EARTH FROM THE DEEP  
 *From a rock sculpture at Udayagiri*  
 
@@ -678,43 +678,43 @@ but not without inflexible faith.
 
 ### Footnotes
 
-<span id="fn_164"></span>[122:1](iml12.htm#fr_165) A History of Sanskrit
+<span id="fn_164"></span>[122:1](iml12.htm#fr_165.md) A History of Sanskrit
 Literature, p. 411.
 
-<span id="fn_165"></span>[123:1](iml12.htm#fr_166) *Rigveda*, i, 154,
+<span id="fn_165"></span>[123:1](iml12.htm#fr_166.md) *Rigveda*, i, 154,
 155.
 
-<span id="fn_166"></span>[123:2](iml12.htm#fr_167) *Hinduism*, by L. D.
+<span id="fn_166"></span>[123:2](iml12.htm#fr_167.md) *Hinduism*, by L. D.
 Barnett.
 
-<span id="fn_167"></span>[123:3](iml12.htm#fr_168) *Rigveda*, ii, 33.
+<span id="fn_167"></span>[123:3](iml12.htm#fr_168.md) *Rigveda*, ii, 33.
 
-<span id="fn_168"></span>[125:1](iml12.htm#fr_169) The "Divine Song".
+<span id="fn_168"></span>[125:1](iml12.htm#fr_169.md) The "Divine Song".
 
-<span id="fn_169"></span>[128:1](iml12.htm#fr_170) Extracts from Roy's
+<span id="fn_169"></span>[128:1](iml12.htm#fr_170.md) Extracts from Roy's
 translation of *Mahábhárata*.
 
-<span id="fn_170"></span>[128:2](iml12.htm#fr_171) Or Muttra.
+<span id="fn_170"></span>[128:2](iml12.htm#fr_171.md) Or Muttra.
 
-<span id="fn_171"></span>[130:1](iml12.htm#fr_172) Karma, "works" and
+<span id="fn_171"></span>[130:1](iml12.htm#fr_172.md) Karma, "works" and
 their consequences.
 
-<span id="fn_172"></span>[131:1](iml12.htm#fr_173) Buddha's negative
+<span id="fn_172"></span>[131:1](iml12.htm#fr_173.md) Buddha's negative
 attitude towards immortality and the conception of a Supreme Being was
 departed from by those of his followers who have taught that Nirvana is
 a conscious state of eternal bliss.
 
-<span id="fn_173"></span>[132:1](iml12.htm#fr_174) Burnouf, quoted by
+<span id="fn_173"></span>[132:1](iml12.htm#fr_174.md) Burnouf, quoted by
 Max Müller, *Chips from a German Workshop*, i, 222.
 
-<span id="fn_174"></span>[133:1](iml12.htm#fr_175) Petrie, *The Religion
+<span id="fn_174"></span>[133:1](iml12.htm#fr_175.md) Petrie, *The Religion
 of Egypt*, pp. 92-3.
 
-<span id="fn_175"></span>[135:1](iml12.htm#fr_176) Bede, *Historia
+<span id="fn_175"></span>[135:1](iml12.htm#fr_176.md) Bede, *Historia
 Ecclesiastica*, lib. i, chap. xxx.
 
-<span id="fn_176"></span>[136:1](iml12.htm#fr_177) Juggernaut.
+<span id="fn_176"></span>[136:1](iml12.htm#fr_177.md) Juggernaut.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Divinities of the Epic Period](iml13)
+[Next: Chapter VIII. Divinities of the Epic Period](iml13.md)

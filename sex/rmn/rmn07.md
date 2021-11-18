@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn06)  [Next](rmn08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn06)  [Next](rmn08.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ model.
 
 ------------------------------------------------------------------------
 
-[Next: Plate VII: Bacchanalia](rmn08)
+[Next: Plate VII: Bacchanalia](rmn08.md)

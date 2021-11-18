@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat15)  [Next](aat17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat15)  [Next](aat17.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ her mother after that.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Buzzard Brothers and Wood-Worm](aat17)
+[Next: 3. The Buzzard Brothers and Wood-Worm](aat17.md)

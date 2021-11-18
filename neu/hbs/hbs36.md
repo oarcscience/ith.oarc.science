@@ -1,11 +1,11 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs35) [Next](hbs37)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs35) [Next](hbs37.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_199">p. 199</span>
 
-## THE DEATH OF IVO OF SENYE<span id="page_199_fr_1"></span>[1](#page_199_note_1)
+## THE DEATH OF IVO OF SENYE<span id="page_199_fr_1"></span>[1](#page_199_note_1.md)
 
 Ivo’s mother dreamed that darkness was risen Senye around,  
 That the clear sky was broken and the bright moon fell to the ground  
@@ -69,7 +69,7 @@ And health to us, my brethren, and merriment likewise!
 
 ------------------------------------------------------------------------
 
-[Next](hbs37)
+[Next](hbs37.md)
 
 ------------------------------------------------------------------------
 
@@ -77,7 +77,7 @@ And health to us, my brethren, and merriment likewise!
 
 <span id="footnotes_page_199">p. 199</span>
 
-<span id="page_199_note_1"></span>[1](#page_199_fr_1) Zengg.
+<span id="page_199_note_1"></span>[1](#page_199_fr_1.md) Zengg.
 
  
 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal153)  [Next](njal155) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal153)  [Next](njal155.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ hair was black.
 
 ------------------------------------------------------------------------
 
-[Next: 155. Of Signs And Wonders](njal155)
+[Next: 155. Of Signs And Wonders](njal155.md)

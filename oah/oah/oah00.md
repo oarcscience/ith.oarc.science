@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Next](oah01) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Next](oah01.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Contents](oah01)
+[Next: Contents](oah01.md)

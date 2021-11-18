@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](ti2)  [Next](plm) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](ti2)  [Next](plm.md) 
 
 ------------------------------------------------------------------------
 
@@ -173,4 +173,4 @@ thăm con. Chào thăm những kẻ yêu chúng ta bởi lòng tin đạo. Nguy�
 
 ------------------------------------------------------------------------
 
-[Next: Philemon](plm)
+[Next: Philemon](plm.md)

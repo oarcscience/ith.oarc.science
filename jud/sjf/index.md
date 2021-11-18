@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,12 +10,12 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](sjf00)  
-[Preface](sjf01)  
-[Introduction](sjf02)  
-[Chapter I](sjf03)  
-[Chapter II](sjf04)  
-[Chapter III.](sjf05)  
-[Chapter IV.](sjf06)  
-[Chapter V.](sjf07)  
-[Chapter VI.](sjf08)  
+[Title Page](sjf00.md)  
+[Preface](sjf01.md)  
+[Introduction](sjf02.md)  
+[Chapter I](sjf03.md)  
+[Chapter II](sjf04.md)  
+[Chapter III.](sjf05.md)  
+[Chapter IV.](sjf06.md)  
+[Chapter V.](sjf07.md)  
+[Chapter VI.](sjf08.md)  

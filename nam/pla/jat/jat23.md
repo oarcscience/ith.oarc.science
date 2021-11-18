@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat22)  [Next](jat24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat22)  [Next](jat24.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ kills," Raven said this they say.
 
 ------------------------------------------------------------------------
 
-[Next: 22. The Origin of Corn and Deer](jat24)
+[Next: 22. The Origin of Corn and Deer](jat24.md)

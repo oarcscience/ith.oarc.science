@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Egypt](../../egy/index)  [Index](index)  [Previous](stle12) 
-[Next](stle14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Egypt](../../egy/index)  [Index](index)  [Previous](stle12.md) 
+[Next](stle14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stolen Legacy*, by George G. M. James, \[1954\], at Intangible Textual
 Heritage
 
@@ -34,7 +34,7 @@ the rightful heirs of such praise and honour.
 
 This is going to mean a tremendous change in world opinion, and
 attitude, for all people and races who accept the new philosophy of
-African redemption, [i.e.](errata.htm#13) the truth that the Greeks were
+African redemption, [i.e.](errata.htm#13.md) the truth that the Greeks were
 not the authors of Greek philosophy; but the people of North Africa;
 would change their opinion from one of disrespect to one of respect for
 the Black people throughout the world and treat them accordingly.
@@ -49,7 +49,7 @@ whole.
 
 In the drama of Greek philosophy there are three actors, who have played
 distinct parts, namely Alexander the Great, who by an act of
-[aggression](errata.htm#14) invaded Egypt in 333 B.C., and ransacked and
+[aggression](errata.htm#14.md) invaded Egypt in 333 B.C., and ransacked and
 looted the Royal Library at Alexandria and together with his companions
 carried off a booty of scientific, philosophic and religious books.
 Egypt was then stolen and annexed as a portion of Alexander's empire;
@@ -162,7 +162,7 @@ future generations.
 This I believe would be a very helpful method by which this process of
 re-education would become universal and effective in the creation of a
 much needed racial reformation. The White people of 'our modern age
-cannot be regarded as [wholly](errata.htm#15) responsible for social
+cannot be regarded as [wholly](errata.htm#15.md) responsible for social
 conditions which are the result
 
 <span id="page_157">p. 157</span>
@@ -269,7 +269,7 @@ people. It is freedom from such conditions that constitutes the specific
 function of emancipation or redemption.
 
 We digressed somewhat in order to explain the terms
-[philosophy](errata.htm#16) and philosophy of redemption, believing it
+[philosophy](errata.htm#16.md) and philosophy of redemption, believing it
 to be necessary before proceeding to answer the next question: how to
 live up to this New Philosophy of Redemption? How must it be worked out?
 
@@ -389,7 +389,7 @@ misleading, and contrary to Christian tenets and practice. It was early
 Christianity that established a diaconate for the express purpose of
 solving the economic problems of its adherents; so that they might begin
 in their earthly life to experience what happiness
-[really](errata.htm#17) meant.
+[really](errata.htm#17.md) meant.
 
 It is evident that the benefits of religion are intended to be
 coextensive with human needs and unless the Christian religion changes
@@ -399,4 +399,4 @@ social injuries created by Ancient Rome.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](stle14)
+[Next: Appendix](stle14.md)

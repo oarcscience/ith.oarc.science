@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft27)  [Next](pft29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft27)  [Next](pft29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,10 +25,10 @@ was no good place to catch wild pig and deer, and the older brother
 said:
 
 "Let us cause water to flow over all the world and cover it, and then
-mountains will rise up."  <span id="fr_96"></span>[97](pft68.htm#fn_96)
+mountains will rise up."  <span id="fr_96"></span>[97](pft68.htm#fn_96.md)
 
 So they caused water to flow over all the earth, and when it was covered
-they took the head-basket  <span id="fr_97"></span>[98](pft68.htm#fn_97)
+they took the head-basket  <span id="fr_97"></span>[98](pft68.htm#fn_97.md)
 of the town and set it for a trap. The brothers were very much pleased
 when they went to look at their trap, for they had caught not only many
 wild pigs and deer but also many people.
@@ -45,7 +45,7 @@ Then Lumawig descended, and he called to the boy and girl, saying:
 "Yes," answered the boy, "we are still alive, but we are very cold."
 
 So Lumawig commanded his dog and deer to get fire  <span
-id="fr_98"></span>[99](pft68.htm#fn_98) for the boy and girl. The dog
+id="fr_98"></span>[99](pft68.htm#fn_98.md) for the boy and girl. The dog
 and the deer swam quickly away, but though Lumawig waited a long time
 they did not return, and all the time the boy and girl were growing
 colder.
@@ -72,4 +72,4 @@ earth.
 
 ------------------------------------------------------------------------
 
-[Next: Lumawig on Earth](pft29)
+[Next: Lumawig on Earth](pft29.md)

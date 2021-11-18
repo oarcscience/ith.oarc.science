@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph90)  [Next](sph92) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph90)  [Next](sph92.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 Οἶον τὸ γλυκύμαλον ἐρεύθεται ἄκρῳ ἐπ᾽ ὔσδῳ  
 ἄκρον ἐπ᾽ ἀκροτάτῳ λελάθοντο δὲ μαλοδρόπνεσ,  
 οὐ μὰν ἐκλελάθοντ᾽, ἀλλ᾽ οὐκ ἐδύναντ᾽
-ἐπίκεσθαι. [\[transcription\]](xlatall.htm#114)
+ἐπίκεσθαι. [\[transcription\]](xlatall.htm#114.md)
 
 As the sweet apple blushes on the end of the bough, the very end of the
 bough which gatherers missed, nay, missed not, but could not reach.
@@ -27,4 +27,4 @@ quince.
 
 ------------------------------------------------------------------------
 
-[Next: 91: O'er the hills the heedless shepherd,...](sph92)
+[Next: 91: O'er the hills the heedless shepherd,...](sph92.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim84)  [Next](sim86) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim84)  [Next](sim86.md) 
 
 ------------------------------------------------------------------------
 
@@ -316,4 +316,4 @@ happily together.
 
 ------------------------------------------------------------------------
 
-[Next: A Man Chased by the Ancient of Lizards](sim86)
+[Next: A Man Chased by the Ancient of Lizards](sim86.md)

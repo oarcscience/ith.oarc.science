@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb14)  [Next](refb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb14)  [Next](refb16.md) 
 
 </div>
 
@@ -507,6 +507,6 @@ misfortunes at last, and they all lived happily ever after.\[10\]
 
 ------------------------------------------------------------------------
 
-[Next: Graciosa and Percinet](refb16)
+[Next: Graciosa and Percinet](refb16.md)
 
 </div>

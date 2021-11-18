@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao15)   
-[Previous](tao14)  [Next](tao16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao15.md)   
+[Previous](tao14)  [Next](tao16.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ renewed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 16](tao16)
+[Next: Chapter 16](tao16.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486288706/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486288706/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -48,16 +48,16 @@ full index.
 
 ------------------------------------------------------------------------
 
-[Title Page and Front Matter](lr00)  
-[Introduction](lr01)  
-[Contents](lr02)  
-[Illustrations](lr03)  
-[Map](lr04)  
-[Chapter I: Topographical and Historical](lr05)  
-[Chapter II. The Rhine in Folklore and Literature](lr06)  
-[Chapter III. Cleves to the Löwenburg](lr07)  
-[Chapter IV: Drachenfels To Rheinstein](lr08)  
-[Chapter V: Falkenburg to Auerbach](lr09)  
-[Chapter VI: Worms and the Nibelungenlied](lr10)  
-[Chapter VII: Heidelberg to Säckingen](lr11)  
-[Glossary and Index](lr12)  
+[Title Page and Front Matter](lr00.md)  
+[Introduction](lr01.md)  
+[Contents](lr02.md)  
+[Illustrations](lr03.md)  
+[Map](lr04.md)  
+[Chapter I: Topographical and Historical](lr05.md)  
+[Chapter II. The Rhine in Folklore and Literature](lr06.md)  
+[Chapter III. Cleves to the Löwenburg](lr07.md)  
+[Chapter IV: Drachenfels To Rheinstein](lr08.md)  
+[Chapter V: Falkenburg to Auerbach](lr09.md)  
+[Chapter VI: Worms and the Nibelungenlied](lr10.md)  
+[Chapter VII: Heidelberg to Säckingen](lr11.md)  
+[Glossary and Index](lr12.md)  

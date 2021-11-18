@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Next](act) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Next](act.md) 
 
 ------------------------------------------------------------------------
 
@@ -3967,4 +3967,4 @@ kashI ke'kmInkon; PInI kakuksI kowice'wInum nash wishkwakiwuk. E'me'n.
 
 ------------------------------------------------------------------------
 
-[Next: Acts](act)
+[Next: Acts](act.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh18)  [Next](ehh20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh18)  [Next](ehh20.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ hear the god's voice, and sing praises to Osiris each day.
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. Sixth Division of the Tuat. II. Kingdom of Osiris
-According to the Book of Gates](ehh20)
+According to the Book of Gates](ehh20.md)

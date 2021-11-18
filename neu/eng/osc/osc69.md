@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc68)  [Next](osc70) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc68)  [Next](osc70.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ elsewhere to build up his fortune."
 
 ------------------------------------------------------------------------
 
-[Next: (4) The Death-Bell](osc70)
+[Next: (4) The Death-Bell](osc70.md)

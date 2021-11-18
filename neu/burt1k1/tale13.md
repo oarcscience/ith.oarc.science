@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale12)  [Next](tale14) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale12)  [Next](tale14.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ And Allah is All-knowing!
   Again men tell the tale of  
 
 (*Next*) [THE RUINED MAN WHO BECAME RICH AGAIN THROUGH A
-DREAM](tale14)  
+DREAM](tale14.md)  

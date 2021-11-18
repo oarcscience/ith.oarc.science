@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp11)  [Next](esp13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp11)  [Next](esp13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -41,7 +41,7 @@ He himself has had no unusual parapsychological experience, except that
 he plays cards with marked success and has many good "hunches". He was
 only slightly hypnotizable and was somewhat negatively suggestible in
 his relaxed condition. His jaw set and protruded with a distinct show of
-resistance, and suggestions brought contrary [responses](errata.htm#4).
+resistance, and suggestions brought contrary [responses](errata.htm#4.md).
 This point will be of special interest later and is mentioned for that
 reason.
 
@@ -85,7 +85,7 @@ the regular purpose of evidence, which occupied most of the time, and
 undifferentiated E.S.P. with the observer looking at the face of the
 card. The other 240 trials were made as pure clairvoyance (P.C.) tests.
 The scoring was about the same under the two conditions, as may be seen
-from [Table X](esp12.htm#an_tab10).
+from [Table X](esp12.htm#an_tab10.md).
 
 TABLE X<span id="an_tab10"></span>
 
@@ -239,7 +239,7 @@ point of possible deception, conscious or unconscious, if we used the
 same cards and conditions. Then, too, the validity of the belief of
 Linzmayer that his attitude mattered was an intriguing question.
 Finally, there was the suggestion from the work of Richet <span
-id="fr_72"></span>[1](#fn_72) that long series of clairvoyant trials
+id="fr_72"></span>[1](#fn_72.md) that long series of clairvoyant trials
 lower the scoring, even below chance average. I therefore combined the
 objectives, as could well be done in an experiment designed to lower
 Linzmayer's score as far as I could. We were through with the higher
@@ -250,7 +250,7 @@ results gave, needs no further data, so far as mathematical reassurance
 goes.
 
 When on the afternoon of June 3, then, Linzmayer was about to leave as
-per [arrangement](errata.htm#5)—and the last results had been poor (4
+per [arrangement](errata.htm#5.md)—and the last results had been poor (4
 hits in 20) due possibly to general fatigue or waning of interest with
 eagerness to be off—I urged him strongly to continue for a little
 longer, stating that I had just thought of a good experiment for which I
@@ -413,7 +413,7 @@ though he did not return to the college for study. In all, we have had
 four periods of experimentation with him, two in 1931, one in 1932 and
 one in 1933. But his extra-sensory perception ability has gone through a
 marked decline from the beginning. The regular experiments are summed up
-in [Table XII](esp12.htm#an_tab12). The conditions are very much the
+in [Table XII](esp12.htm#an_tab12.md). The conditions are very much the
 same from period to period. Note the rate of decline as shown in the 7th
 column, "Average per 25". By P.C. is meant pure clairvoyant perception,
 as distinct from P.T. or pure telepathy, with no object present, or Gen.
@@ -521,7 +521,7 @@ together.
 
 Before dismissing the regular clairvoyant data of Linzmayer there is one
 special condition in the last series (March, 1933) in [Table
-XII](esp12.htm#an_tab12) that deserves emphasis. In the work with Pearce
+XII](esp12.htm#an_tab12.md) that deserves emphasis. In the work with Pearce
 we introduced the "D.T." condition, first demonstrated by Pearce, so far
 as I know, which is simply that a shuffled and cut pack of the cards is
 put before the subject and he calls off the whole 25 without any one
@@ -559,7 +559,7 @@ Linzmayer capable of both modes of E.S.P. was at this time a most
 interesting discovery indeed. This relationship of P.C. and P.T. is an
 old problem in the field, still unsolved, and will become one of our
 most important points of attack as we go on. The data just referred to
-are presented in [Table XIII](esp12.htm#an_tab13).
+are presented in [Table XIII](esp12.htm#an_tab13.md).
 
 <span id="page_66">p. 66</span>
 
@@ -769,8 +769,8 @@ the accumulated value against the explanation of mere "chance" for the
 
 ### Footnotes
 
-<span id="fn_72"></span>[62:1](esp12.htm#fr_72) *Rev. Phil.*, 1884.
+<span id="fn_72"></span>[62:1](esp12.htm#fr_72.md) *Rev. Phil.*, 1884.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6. Charles E. Stuart](esp13)
+[Next: Chapter 6. Charles E. Stuart](esp13.md)

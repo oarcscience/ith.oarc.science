@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe070)  [Next](prwe072) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe070)  [Next](prwe072.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ chapter on Cornish Customs
 
 ------------------------------------------------------------------------
 
-[Next: The Nine Maids, or Virgin Sisters](prwe072)
+[Next: The Nine Maids, or Virgin Sisters](prwe072.md)

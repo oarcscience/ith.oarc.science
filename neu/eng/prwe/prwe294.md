@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe293)  [Next](prwe295) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe293)  [Next](prwe295.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ backwards.
 
 ------------------------------------------------------------------------
 
-[Next: The Sleeping Foot](prwe295)
+[Next: The Sleeping Foot](prwe295.md)

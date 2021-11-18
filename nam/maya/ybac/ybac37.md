@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac36)  [Next](ybac38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac36)  [Next](ybac38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -105,10 +105,10 @@ and their hell.
 
 [![THE BALL COURT, FROM A MODEL BY GEORGE OAKLEY TOTTEN,
 JR.](tn/05801.jpg)  
-Click to enlarge](img/05801.jpg)  
+Click to enlarge](img/05801.jpg.md)  
 THE BALL COURT, FROM A MODEL BY GEORGE OAKLEY TOTTEN, JR.  
 
 ------------------------------------------------------------------------
 
 [Next: XXXIV. Count of the Yucatecan Year. Characters of the Days. The
-Four Bacabs and Their Names. Gods of the 'Unlucky' Days](ybac38)
+Four Bacabs and Their Names. Gods of the 'Unlucky' Days](ybac38.md)

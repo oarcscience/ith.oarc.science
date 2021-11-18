@@ -1,5 +1,5 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Sacred Sexuality](index)
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Sacred Sexuality](index.md)
 
 ------------------------------------------------------------------------
 
@@ -18,8 +18,8 @@ mystic theology of the ancients by Richard Payne Knight. To which is
 added an essay on the worship of the generative powers during the Middle
 Ages of western Europe.
 
-[A Discourse on the Worship of Priapus](dwp/index)  
+[A Discourse on the Worship of Priapus](dwp/index.md)  
 by Richard Payne Knight \[1786\]
 
-[The Worship of the Generative Powers](wgp/index)  
+[The Worship of the Generative Powers](wgp/index.md)  
 BY Thomas Wright \[1865\]

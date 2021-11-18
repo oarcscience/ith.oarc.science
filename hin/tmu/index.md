@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
@@ -29,8 +29,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tmu00)    [Page
-Index](pageidx)    [Text \[Zipped\]](tmu.txt.gz)
+[Contents](#contents)    [Start Reading](tmu00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](tmu.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -46,37 +46,37 @@ in great detail.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](tmu00)  
-[Contents](tmu01)  
-[Foreword](tmu02)  
-[1. Mukṭikopanishaḍ of Śukla-Yajurveḍa](tmu03)  
-[2. Sarvasāra-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu04)  
-[3. Nirālamba-Upanishaḍ of Śukla-Yajurveḍa](tmu05)  
-[4. Maiṭreya-Upanishaḍ of Sāmaveḍa](tmu06)  
-[5. Kaivalya-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu07)  
-[6. Amṛṭabinḍu-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu08)  
-[7. Āṭmaboḍha-Upanishaḍ of Ṛgveḍa](tmu09)  
-[8. Skanḍa-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu10)  
-[9. Paiṅgala-Upanishaḍ of Śukla-Yajurveḍa](tmu11)  
-[10. Aḍhyāṭma-Upanishaḍ of Śukla-Yajurveḍa](tmu12)  
-[11. Subala-Upanishaḍ of Śukla-Yajurveḍa](tmu13)  
-[12. Ṭejobinḍu-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu14)  
-[13. Brahmopanishaḍ of Kṛshṇa-Yajurveḍa](tmu15)  
-[14. Vajrasūchi-Upanishaḍ of Sāmaveḍa](tmu16)  
-[15. Śārīraka-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu17)  
-[16. Garbha-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu18)  
-[17. Ṭārasāra-Upanishaḍ of Śukla-Yajurveḍa](tmu19)  
-[18. Nārāyaṇa-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu20)  
-[19. Kalisanṭāraṇa Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu21)  
-[20. Bhikshuka-Upanishaḍ of Śukla-Yajurveḍa](tmu22)  
-[21. Naraḍaparivrājaka-Upanishaḍ of Aṭharvaṇaveḍa](tmu23)  
-[22. Śāṇdilya-Upanishaḍ of Aṭharvaṇaveḍa](tmu24)  
-[23. Yogaṭaṭṭva-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu25)  
-[24. Ḍhyānabinḍu-Upanishaḍ of Sāmaveḍa](tmu26)  
-[25. Hamsa-Upanishaḍ of Śukla-Yajurveḍa](tmu27)  
-[26. Amṛṭanāḍa-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu28)  
-[27. Varāha-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu29)  
-[28. Maṇdalabrāhmaṇa-Upanishaḍ of Śukla-Yajurveḍa](tmu30)  
-[29. Nāḍabinḍu-Upanishaḍ of Ṛgveḍa](tmu31)  
-[30. Yogakuṇdalī-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu32)  
-[Index of Proper Names](tmu33)  
+<span id="contents"></span> [Title Page](tmu00.md)  
+[Contents](tmu01.md)  
+[Foreword](tmu02.md)  
+[1. Mukṭikopanishaḍ of Śukla-Yajurveḍa](tmu03.md)  
+[2. Sarvasāra-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu04.md)  
+[3. Nirālamba-Upanishaḍ of Śukla-Yajurveḍa](tmu05.md)  
+[4. Maiṭreya-Upanishaḍ of Sāmaveḍa](tmu06.md)  
+[5. Kaivalya-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu07.md)  
+[6. Amṛṭabinḍu-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu08.md)  
+[7. Āṭmaboḍha-Upanishaḍ of Ṛgveḍa](tmu09.md)  
+[8. Skanḍa-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu10.md)  
+[9. Paiṅgala-Upanishaḍ of Śukla-Yajurveḍa](tmu11.md)  
+[10. Aḍhyāṭma-Upanishaḍ of Śukla-Yajurveḍa](tmu12.md)  
+[11. Subala-Upanishaḍ of Śukla-Yajurveḍa](tmu13.md)  
+[12. Ṭejobinḍu-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu14.md)  
+[13. Brahmopanishaḍ of Kṛshṇa-Yajurveḍa](tmu15.md)  
+[14. Vajrasūchi-Upanishaḍ of Sāmaveḍa](tmu16.md)  
+[15. Śārīraka-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu17.md)  
+[16. Garbha-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu18.md)  
+[17. Ṭārasāra-Upanishaḍ of Śukla-Yajurveḍa](tmu19.md)  
+[18. Nārāyaṇa-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu20.md)  
+[19. Kalisanṭāraṇa Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu21.md)  
+[20. Bhikshuka-Upanishaḍ of Śukla-Yajurveḍa](tmu22.md)  
+[21. Naraḍaparivrājaka-Upanishaḍ of Aṭharvaṇaveḍa](tmu23.md)  
+[22. Śāṇdilya-Upanishaḍ of Aṭharvaṇaveḍa](tmu24.md)  
+[23. Yogaṭaṭṭva-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu25.md)  
+[24. Ḍhyānabinḍu-Upanishaḍ of Sāmaveḍa](tmu26.md)  
+[25. Hamsa-Upanishaḍ of Śukla-Yajurveḍa](tmu27.md)  
+[26. Amṛṭanāḍa-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu28.md)  
+[27. Varāha-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu29.md)  
+[28. Maṇdalabrāhmaṇa-Upanishaḍ of Śukla-Yajurveḍa](tmu30.md)  
+[29. Nāḍabinḍu-Upanishaḍ of Ṛgveḍa](tmu31.md)  
+[30. Yogakuṇdalī-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu32.md)  
+[Index of Proper Names](tmu33.md)  

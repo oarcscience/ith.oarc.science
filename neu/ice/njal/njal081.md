@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal080)  [Next](njal082) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal080)  [Next](njal082.md) 
 
 ------------------------------------------------------------------------
 
@@ -147,4 +147,4 @@ firth of the same name, and is not used in the old sagas for a town.
 
 ------------------------------------------------------------------------
 
-[Next: 82. Njal's Sons Sail Abroad](njal082)
+[Next: 82. Njal's Sons Sail Abroad](njal082.md)

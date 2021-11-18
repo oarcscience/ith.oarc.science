@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Samaritans](index)  [Previous](messiah)  [Next](oldsect) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Samaritans](index)  [Previous](messiah)  [Next](oldsect.md) 
 
 ------------------------------------------------------------------------
 
@@ -638,4 +638,4 @@ world, but one which surely might be remedied without difficulty.
 
 ------------------------------------------------------------------------
 
-[Next: The Oldest and Smallest Sect in the World](oldsect)
+[Next: The Oldest and Smallest Sect in the World](oldsect.md)

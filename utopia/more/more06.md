@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](more05)  [Next](more07) 
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](more05)  [Next](more07.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ sent unto those that live in the towns.
 
 ------------------------------------------------------------------------
 
-[Next: Of The Travelling Of The Utopians](more07)
+[Next: Of The Travelling Of The Utopians](more07.md)

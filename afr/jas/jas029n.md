@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas028n)  [Next](jas030n)   
- \[[29. The Cowitch and Mr. Foolman.](jas029)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas028n)  [Next](jas030n.md)   
+ \[[29. The Cowitch and Mr. Foolman.](jas029.md)\]
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ Indians) 215-216; (General) 30:228; (Cape Verde) 230; 31: (Guatemala)
 
 ------------------------------------------------------------------------
 
-[Next: Note 30. Dry-Head and Anansi.](jas030n)
+[Next: Note 30. Dry-Head and Anansi.](jas030n.md)

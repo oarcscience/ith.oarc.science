@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos19)  [Next](flos21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos19)  [Next](flos21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ the passage where the apparitions are presented to him by the witches—
 
 <span class="small">"Thou art too like the spirit of Banquo; down!  
  Thy crown does sear mine eyeballs." <span
-id="fr_846"></span>[1](#fn_844)</span>
+id="fr_846"></span>[1](#fn_844.md)</span>
 
 </div>
 
@@ -90,7 +90,7 @@ heels, to which Falstaff probably refers in "1 Henry IV." (i. 2), where
 he says to the Prince, "Call me villain, and baffle me." And further on
 (ii. 4)—"If thou dost it half so gravely, so majestically, both in word
 and matter, hang me up by the heels for a rabbet-sucker, or a poulter's
-hare." <span id="fr_847"></span>[1](#fn_845) In "2 Henry IV." (i. 2),
+hare." <span id="fr_847"></span>[1](#fn_845) In "2 Henry IV." (i. 2.md),
 the Chief-Justice tells Falstaff that "to punish him by the heels would
 amend the attention of his ears." And in "All's Well that Ends Well"
 (iv. 3), where the lord relates how Parolles has "sat in the stocks all
@@ -118,11 +118,11 @@ punishment—
 The appropriate term, too, for chopping off the spurs of a knight when
 he was to be degraded, was "hack"—a custom to which it has been
 suggested, Mrs Page alludes in the "Merry Wives of Windsor" (ii.
-1) <span id="fr_848"></span>[2](#fn_846)—"What—Sir Alice Ford! these
+1) <span id="fr_848"></span>[2](#fn_846.md)—"What—Sir Alice Ford! these
 knights will hack, and so thou should’st not alter the article of thy
-gentry." <span id="fr_849"></span>[3](#fn_847)
+gentry." <span id="fr_849"></span>[3](#fn_847.md)
 
-   Mr Dyce, <span id="fr_850"></span>[4](#fn_848) however, says the most
+   Mr Dyce, <span id="fr_850"></span>[4](#fn_848.md) however, says the most
 probable meaning of
 
 <span id="page_408">p. 408</span>
@@ -179,7 +179,7 @@ those of Hamlet, in whose mind 'there was a kind of fighting that would
 not let him sleep.' Every motion of one must disturb his partner in
 confinement. The bilboes are still shown in the Tower of London, among
 the other spoils of the Spanish Armada." <span
-id="fr_851"></span>[1](#fn_849)
+id="fr_851"></span>[1](#fn_849.md)
 
 <span id="page_409">p. 409</span>
 
@@ -230,7 +230,7 @@ criminals, is probably alluded to by Anne in "Richard III.," (iv. 1):—
 
 </div>
 
-   Mr Singer, <span id="fr_852"></span>[1](#fn_850) in a note on this
+   Mr Singer, <span id="fr_852"></span>[1](#fn_850.md) in a note on this
 passage quotes from Chettle's "Tragedy of Hoffman" (1631), where this
 punishment is introduced:—
 
@@ -277,7 +277,7 @@ his friar's hood: "You must be hooded, must you? Show your knave's
 visage, with a pox to you! Show your sheep-biting face, and be hanged an
 hour! "The alleged crime was not capital, and suspension in the pillory
 for an hour was all that the speaker intended." <span
-id="fr_853"></span>[1](#fn_851)
+id="fr_853"></span>[1](#fn_851.md)
 
    *Press*.—Several allusions occur to this species of torture applied
 to contumacious felons. It was also, says Malone, "formerly inflicted on
@@ -361,7 +361,7 @@ Lear" (i. 4)—
 <div style="margin-left: 32px">
 
 <span class="small">"That, like an engine, wrench’d my frame of nature  
- From the fix’d place." <span id="fr_854"></span>[1](#fn_852)</span>
+ From the fix’d place." <span id="fr_854"></span>[1](#fn_852.md)</span>
 
 </div>
 
@@ -394,7 +394,7 @@ none."</span>
    It has been suggested that there is an allusion to "engines of
 torture," although owing to the many significations of the word "brake,"
 its meaning here has been much disputed. <span
-id="fr_855"></span>[2](#fn_853)
+id="fr_855"></span>[2](#fn_853.md)
 
    *Stocks*.—This old-fashioned mode of punishment is the subject of
 frequent allusion by Shakespeare. Thus, Launce in "The Two Gentlemen of
@@ -429,7 +429,7 @@ You stubborn ancient knave."</span>
    It would seem that formerly in great houses, as in some colleges,
 there were moveable stocks for the correction of the servants. Putting a
 person in the stocks, too, was an exhibition familiar to the ancient
-stage. In "Hick Scorner," <span id="fr_856"></span>[1](#fn_854) printed
+stage. In "Hick Scorner," <span id="fr_856"></span>[1](#fn_854.md) printed
 in the reign of Henry VIII., Pity is placed into the stocks, and left
 there until he is freed "by Perseverance and Contemplacyon."
 
@@ -440,7 +440,7 @@ high beam, and then suddenly let down with a jerk. The result, usually,
 was a dislocation of the shoulder blade. In "1 Henry IV." (ii. 4), it is
 referred to by Falstaff, who tells Poins:—"Were I at the strappado, or
 all the racks in the world, I would not tell you on compulsion." At
-Paris, says Douce, <span id="fr_857"></span>[2](#fn_855) "there was a
+Paris, says Douce, <span id="fr_857"></span>[2](#fn_855.md) "there was a
 spot called *l’estrapade*, in the Fauxbourg St. Jacques, where soldiers
 received this punishment. The machine, whence the place took its name,
 remained fixed like a perpetual gallows." The term is probably derived
@@ -496,7 +496,7 @@ whipping." The punishment was afterwards slightly mitigated, for by a
 statute passed in 39th of Elizabeth's reign, vagrants "were only to be
 stripped naked from the middle upwards, and whipped till the body should
 be bloody." The stocks were often so constructed as to serve both for
-stocks and whipping posts. <span id="fr_858"></span>[1](#fn_856) Amongst
+stocks and whipping posts. <span id="fr_858"></span>[1](#fn_856.md) Amongst
 the numerous references to this punishment by Shakespeare, we may quote
 "2 Henry IV." (v. 4), where the beadle says of Hostess Quickly:—"The
 constables have delivered her over to me, and she shall have
@@ -510,7 +510,7 @@ orders Simpcox and his wife to "be whipped through every market-town,
 till they come to Berwick, from whence they came."
 
    *Wisp*.—This was a punishment for a scold. <span
-id="fr_859"></span>[2](#fn_857) It appears that "a wisp, or small twist
+id="fr_859"></span>[2](#fn_857.md) It appears that "a wisp, or small twist
 of straw or hay, was often applied as a mark of opprobrium to an
 immodest woman, a scold, or similar offender; even, therefore, the
 showing it
@@ -523,13 +523,13 @@ to a woman, was considered a grievous affront." In "3 Henry VI." (ii.
 <div style="margin-left: 32px">
 
 <span class="small">"A wisp of straw were worth a thousand crowns,  
- To make this shameless callet <span id="fr_860"></span>[1](#fn_858)
+ To make this shameless callet <span id="fr_860"></span>[1](#fn_858.md)
 know herself."</span>
 
 </div>
 
 A wisp, adds Nares, seems to have been the badge of the scolding woman
-in the ceremony of Skimmington; <span id="fr_861"></span>[2](#fn_859) an
+in the ceremony of Skimmington; <span id="fr_861"></span>[2](#fn_859.md) an
 allusion to which is given in a "Dialogue between John and Jone,
 striving who shall wear the breeches," in the "Pleasures of Poetry,"
 cited by Malone:—
@@ -555,57 +555,57 @@ you kitchen-stuffe wrangler."
 
 ### Footnotes
 
-<span id="fn_844"></span>[406:1](flos20.htm#fr_846) "Index to
+<span id="fn_844"></span>[406:1](flos20.htm#fr_846.md) "Index to
 Shakespeare," Halliwell-Phillipps, p. 36.
 
-<span id="fn_845"></span>[407:1](flos20.htm#fr_847) See Nares’
+<span id="fn_845"></span>[407:1](flos20.htm#fr_847.md) See Nares’
 "Glossary," i. p. 46.
 
-<span id="fn_846"></span>[407:2](flos20.htm#fr_848) Mr
+<span id="fn_846"></span>[407:2](flos20.htm#fr_848.md) Mr
 Halliwell-Phillipps, in his "Handbook Index to the Works of Shakespeare"
 (1866, p. 231), suggests this meaning.
 
-<span id="fn_847"></span>[407:3](flos20.htm#fr_849) See Nares’
+<span id="fn_847"></span>[407:3](flos20.htm#fr_849.md) See Nares’
 "Glossary," i., p. 397.
 
-<span id="fn_848"></span>[407:4](flos20.htm#fr_850) Dyce's "Glossary,"
+<span id="fn_848"></span>[407:4](flos20.htm#fr_850.md) Dyce's "Glossary,"
 p. 197.
 
-<span id="fn_849"></span>[408:1](flos20.htm#fr_851) Bilbo was also a
+<span id="fn_849"></span>[408:1](flos20.htm#fr_851.md) Bilbo was also a
 rapier or sword; thus in "Merry Wives of Windsor" (iii. 5), Falstaff
 says to Ford:—"I suffered the pangs of three several deaths; first, an
 intolerable fright, to be detected . . . next, to be compassed, like a
 good bilbo . . . hilt to point," &c.
 
-<span id="fn_850"></span>[409:1](flos20.htm#fr_852) "Shakespeare," vi.
+<span id="fn_850"></span>[409:1](flos20.htm#fr_852.md) "Shakespeare," vi.
 p. 485. See "Boswell's Life of Johnson," ii. p. 6.
 
-<span id="fn_851"></span>[410:1](flos20.htm#fr_853) Nares’ "Glossary,"
+<span id="fn_851"></span>[410:1](flos20.htm#fr_853.md) Nares’ "Glossary,"
 ii. p. 661; see Douce's "Illustrations of Shakspeare," 1839, pp. 90, 91,
 109; Brand's "Pop. Antiq.," iii. p. 111.
 
-<span id="fn_852"></span>[412:1](flos20.htm#fr_854) It also meant a
+<span id="fn_852"></span>[412:1](flos20.htm#fr_854.md) It also meant a
 warlike engine, as in "Coriolanus" (v. 4)—"When he walks, he moves like
 an engine, and the ground shrinks before his treading;" so also in
 "Troilus and Cressida" (ii. 3.)
 
-<span id="fn_853"></span>[412:2](flos20.htm#fr_855) See Dyce's
+<span id="fn_853"></span>[412:2](flos20.htm#fr_855.md) See Dyce's
 "Glossary," p. 49; Halliwell-Phillipps’ "Handbook Index to Shakespeare,"
 p. 56; Nares’ "Glossary," i, p. 104.
 
-<span id="fn_854"></span>[413:1](flos20.htm#fr_856) It is reprinted in
+<span id="fn_854"></span>[413:1](flos20.htm#fr_856.md) It is reprinted in
 Hawkins' "English Drama," 1773.
 
-<span id="fn_855"></span>[413:2](flos20.htm#fr_857) "Illustrations of
+<span id="fn_855"></span>[413:2](flos20.htm#fr_857.md) "Illustrations of
 Shakspeare," pp. 263, 264; see Dyce's "Glossary," p. 423.
 
-<span id="fn_856"></span>[414:1](flos20.htm#fr_858) See "Book of Days,"
+<span id="fn_856"></span>[414:1](flos20.htm#fr_858.md) See "Book of Days,"
 i. pp. 598, 599.
 
-<span id="fn_857"></span>[414:2](flos20.htm#fr_859) Nares’ "Glossary,"
+<span id="fn_857"></span>[414:2](flos20.htm#fr_859.md) Nares’ "Glossary,"
 ii. p. 965.
 
-<span id="fn_858"></span>[415:1](flos20.htm#fr_860) "Callat," an
+<span id="fn_858"></span>[415:1](flos20.htm#fr_860.md) "Callat," an
 immodest woman, also applied to a scold. Cf. "Winter's Tale" (ii. 3):—
 
 <div style="margin-left: 32px">
@@ -616,10 +616,10 @@ And now baits me."</span>
 
 </div>
 
-<span id="fn_859"></span>[415:2](flos20.htm#fr_861) Skimmington was a
+<span id="fn_859"></span>[415:2](flos20.htm#fr_861.md) Skimmington was a
 burlesque ceremony in ridicule of a man beaten by his wife. See Brand's
 "Pop. Antiq.," ii. pp. 191, 192.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Proverbs](flos21)
+[Next: Chapter XIX. Proverbs](flos21.md)

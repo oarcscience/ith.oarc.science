@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut41)  [Next](hut43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut41)  [Next](hut43.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXXIX.
 
-### Formula of Medicine to Shorten Period of Exclusion after Menstruation. <span id="fr_84"></span>[1](#fn_84)
+### Formula of Medicine to Shorten Period of Exclusion after Menstruation. <span id="fr_84"></span>[1](#fn_84.md)
 
 <span id="page_312">p. 312</span>
 
@@ -31,7 +31,7 @@ the water reaches, the dentalia crawl.
 
 She always thinks, "It is dentalia's spit I have bathed in. Whoever eats
 the food which I leave, his body will be liked in this manner." <span
-id="fr_85"></span>[1](#fn_85)
+id="fr_85"></span>[1](#fn_85.md)
 
 She charred a shelled acorn, the next morning, and marked a cross with
 it on her right arm. "This way it will be," she
@@ -50,7 +50,7 @@ one."
 
 ### Footnotes
 
-<span id="fn_84"></span>[310:1](hut42.htm#fr_84) Told at Hupa, December
+<span id="fn_84"></span>[310:1](hut42.htm#fr_84.md) Told at Hupa, December
 1901, by Emma Lewis.
 
 The night of the eighth day after the beginning of the menstrual period
@@ -61,11 +61,11 @@ on her arms half way between the elbow and the shoulder with a burned
 acorn. After this has been done she may return to the xonta with the
 rest of the family.
 
-<span id="fn_85"></span>[312:1](hut42.htm#fr_85) If the water which
+<span id="fn_85"></span>[312:1](hut42.htm#fr_85.md) If the water which
 consists of the saliva of deer and dentalia likes his body he will, of
 course, have luck in hunting and gambling.
 
 ------------------------------------------------------------------------
 
 [Next: XL. Formula of Medicine for Going in Dangerous Places with a
-Canoe](hut43)
+Canoe](hut43.md)

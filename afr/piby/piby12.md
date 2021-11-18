@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby11)  [Next](piby13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby11)  [Next](piby13.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ authority to ordain."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8. Athlyi Sent Abroad](piby13)
+[Next: Chapter 8. Athlyi Sent Abroad](piby13.md)

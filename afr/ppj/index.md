@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [African](../index)  [Index](index) 
-[Next](ppj000) 
+[Sacred-Texts](../../index)  [African](../index)  [Index](index.md) 
+[Next](ppj000.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,13 +28,13 @@ and wondered what they were talking about, now you'll know. -jbh
 
 |                                         |     |
 |-----------------------------------------|-----|
-| [TITLE, CONTENTS, INTRODUCTION](ppj000) |     |
-| [CHAPTER I](ppj001)                     |     |
-| [CHAPTER II](ppj002)                    |     |
-| [CHAPTER III](ppj003)                   |     |
-| [CHAPTER IV](ppj004)                    |     |
-| [CHAPTER V](ppj005)                     |     |
-| [CHAPTER VI](ppj006)                    |     |
-| [CHAPTER VII](ppj007)                   |     |
-| [DOCUMENTATION](ppj008)                 |     |
-| [BIBLIOGRAPHY](ppj009)                  |     |
+| [TITLE, CONTENTS, INTRODUCTION](ppj000.md) |     |
+| [CHAPTER I](ppj001.md)                     |     |
+| [CHAPTER II](ppj002.md)                    |     |
+| [CHAPTER III](ppj003.md)                   |     |
+| [CHAPTER IV](ppj004.md)                    |     |
+| [CHAPTER V](ppj005.md)                     |     |
+| [CHAPTER VI](ppj006.md)                    |     |
+| [CHAPTER VII](ppj007.md)                   |     |
+| [DOCUMENTATION](ppj008.md)                 |     |
+| [BIBLIOGRAPHY](ppj009.md)                  |     |

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](sal02)  [Next](abr01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](sal02)  [Next](abr01.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,7 +193,7 @@ that.
 
 ------------------------------------------------------------------------
 
-[Next: The Infallibility of God's Viceroys](abr01)
+[Next: The Infallibility of God's Viceroys](abr01.md)
 
 </div>
 

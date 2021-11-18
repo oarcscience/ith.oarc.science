@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](itb06) [Next](itb08)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](itb06) [Next](itb08.md)
 
 ------------------------------------------------------------------------
 
@@ -406,7 +406,7 @@ overseas.
 
 ------------------------------------------------------------------------
 
-[Next](itb08)
+[Next](itb08.md)
 
  
 

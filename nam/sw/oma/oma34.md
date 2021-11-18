@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma33)  [Next](oma35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma33)  [Next](oma35.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Acoma katsinas
 <span id="img_pl01a"></span>
 
 [![PLATE 1, Upper Left](tn/pl01a.jpg)  
-Click to enlarge](img/pl01a.jpg)  
+Click to enlarge](img/pl01a.jpg.md)  
 PLATE 1, Upper Left  
 
 UPPER LEFT: Morityema, ruler of West Mountain. Eagle-feather prayer
@@ -24,7 +24,7 @@ Spring.
 <span id="img_pl01b"></span>
 
 [![PLATE 1, Upper Right](tn/pl01b.jpg)  
-Click to enlarge](img/pl01b.jpg)  
+Click to enlarge](img/pl01b.jpg.md)  
 PLATE 1, Upper Right  
 
 UPPER RIGHT: Maiyochina, ruler of South Mountain. Red is the color of
@@ -36,7 +36,7 @@ feathers; owl-feather collar; blue yarn over forehead.
 <span id="img_pl01c"></span>
 
 [![PLATE 1, Center Left](tn/pl01c.jpg)  
-Click to enlarge](img/pl01c.jpg)  
+Click to enlarge](img/pl01c.jpg.md)  
 PLATE 1, Center Left  
 
 CENTER LEFT: Oshach Paiyatiuma, Sun Youth. Parrot feathers; three squash
@@ -47,7 +47,7 @@ buckskin thongs are to fasten a spruce-twig collar.
 <span id="img_pl01d"></span>
 
 [![PLATE 1, Center Right](tn/pl01d.jpg)  
-Click to enlarge](img/pl01d.jpg)  
+Click to enlarge](img/pl01d.jpg.md)  
 PLATE 1, Center Right  
 
 CENTER RIGHT: Kuashtoch katsina. Green, the color of mountains; terra
@@ -58,7 +58,7 @@ pendant; spruce collar.
 <span id="img_pl01e"></span>
 
 [![PLATE 1, Lower Left](tn/pl01e.jpg)  
-Click to enlarge](img/pl01e.jpg)  
+Click to enlarge](img/pl01e.jpg.md)  
 PLATE 1, Lower Left  
 
 LOWER LEFT: Tsitsanits, Katsina chief. Green for sky; yellow for earth;
@@ -71,7 +71,7 @@ look through; teeth of corn husks; beard of human hair; fox-fur collar.
 <span id="img_pl01f"></span>
 
 [![PLATE 1, Lower Right](tn/pl01f.jpg)  
-Click to enlarge](img/pl01f.jpg)  
+Click to enlarge](img/pl01f.jpg.md)  
 PLATE 1, Lower Right  
 
 LOWER RIGHT: Shuracha, Corn clan katsina. Black because he is a fire
@@ -83,4 +83,4 @@ and 6; fig. 2 only the eyes.)
 
 ------------------------------------------------------------------------
 
-[Next: Plate 2](oma35)
+[Next: Plate 2](oma35.md)

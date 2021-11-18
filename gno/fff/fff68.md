@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff67)  [Next](fff69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff67)  [Next](fff69.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -720,7 +720,7 @@ to a new subject. Jesus is taking His Order, the twelve disciples,
 through the Treasures of the Middle Light-world, and giving them the
 seals, numbers, and authentic names whereby these Treasures can be
 entered and passed through. There are sixty of these Treasures, but our
-narrative begins only in [the](errata.htm#43) fifty-sixth, for all the
+narrative begins only in [the](errata.htm#43.md) fifty-sixth, for all the
 intervening pages are lost. From what we are here told I am inclined to
 think that there were also sixty diagrams of the Ieou's, and not thirty
 only as Schmidt supposes. Fundamentally there were presumably twelve
@@ -912,4 +912,4 @@ the MS. in that they are surrounded by single-lined borders.
 ------------------------------------------------------------------------
 
 [Next: Selections from the Untitled Apocalypse of the Codex
-Brucianus](fff69)
+Brucianus](fff69.md)

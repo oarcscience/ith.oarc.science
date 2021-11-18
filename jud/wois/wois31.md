@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois30) 
-[Next](wois32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois30.md) 
+[Next](wois32.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -43,6 +43,6 @@ pilot would you praise? Surely the one who saved his ship.
 
 ------------------------------------------------------------------------
 
-[Next: R. Judah as Prototype of the Ancient Mariner](wois32)
+[Next: R. Judah as Prototype of the Ancient Mariner](wois32.md)
 
 </div>

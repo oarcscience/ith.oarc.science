@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei09)  [Next](jei11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei09)  [Next](jei11.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,4 +148,4 @@ have been great stretches of open water to the north and northwest."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. With Nansen in the North](jei11)
+[Next: Chapter VII. With Nansen in the North](jei11.md)

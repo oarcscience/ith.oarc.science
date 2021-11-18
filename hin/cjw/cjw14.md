@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw13)  [Next](cjw15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw13)  [Next](cjw15.md) 
 
 ------------------------------------------------------------------------
 
@@ -168,4 +168,4 @@ Swan, the Wanderer of the World.
 
 ------------------------------------------------------------------------
 
-[Next: The Heritage of the Brâhmans](cjw15)
+[Next: The Heritage of the Brâhmans](cjw15.md)

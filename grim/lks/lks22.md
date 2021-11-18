@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks21)  [Next](lks23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks21)  [Next](lks23.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ AND if he come not even yet, thou shalt say as followeth:
 
 ------------------------------------------------------------------------
 
-[Next: The Greater Curse](lks23)
+[Next: The Greater Curse](lks23.md)

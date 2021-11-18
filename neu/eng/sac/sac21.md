@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac20)  [Next](sac22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac20)  [Next](sac22.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ the combined results.
 Tradition and folklore, which give dim references to, the ancient uses
 of the stones, show in most unmistakable fashion that the stones were
 not alone; associated with them almost universally were many practices
-referred to on [p. 26](sac07.htm#page_26), such as the lighting of
+referred to on [p. 26](sac07.htm#page_26.md), such as the lighting of
 fires, passing through them, and dancing round them; in the
 neighbourhood of the stones and associated with the fire practices were
 also sacred trees and sacred wells or streams.
@@ -82,7 +82,7 @@ and later upon the astronomical divisions of the year, to which I drew
 attention in Chapter III. In Chapter IV., when referring to the
 agricultural and astronomical new years’ days, I indicated a possible
 relation between the temple worship and the floral celebrations of that
-time, and later on ([p. 40](sac08.htm#page_40)), in connection with the
+time, and later on ([p. 40](sac08.htm#page_40).md), in connection with the
 monuments in Brittany, I pointed out the coincidence of fire customs at
 the same time of the year.
 
@@ -160,7 +160,7 @@ were:—
 
 <span class="contnote">\[paragraph continues\]</span> In the table I
 also give, for comparison, the dates in the Greek and Roman calendars
-([p. 20](sac06.htm#page_20)).
+([p. 20](sac06.htm#page_20).md).
 
 There is no question that on or about the above days festivals were
 anciently celebrated in these islands; possibly not all at all holy
@@ -173,7 +173,7 @@ The earliest information on this point comes from Ireland.
 Cormac, Archbishop of Cashel in the tenth century, states, according to
 Vallancey, that "in his time four great fires were lighted up on the
 four great festivals of the Druids, viz., in February, May, August and
-November." <span id="fr_23"></span>[1](#fn_23)
+November." <span id="fr_23"></span>[1](#fn_23.md)
 
 I am not aware of any such general statement as early as this in
 relation to the four festivals of the May year in Great Britain, but in
@@ -199,7 +199,7 @@ a change was not absent from the minds of those who favoured it.
 
 The change of style was, as I have before stated, a fruitful source of
 confusion, and this was still further complicated by another difficulty.
-Piers <span id="fr_24"></span>[1](#fn_24) tells us that consequent upon
+Piers <span id="fr_24"></span>[1](#fn_24.md) tells us that consequent upon
 the change "the Roman Catholics light their fires by the new style, as
 the correction originated from a pope; and for that very same reason the
 Protestants adhere to the old."
@@ -220,7 +220,7 @@ connected with. the bonfires of the previous night.
 It would seem that initially the festival, with its accompanying
 bonfire, was transferred to the first Sunday in Lent, February 8.
 
-I quote the following from Hazlitt <span id="fr_25"></span>[1](#fn_25):—
+I quote the following from Hazlitt <span id="fr_25"></span>[1](#fn_25.md):—
 
 "Durandus, in his 'Rationale,' tells us, Lent was counted to begin on
 that which is now the first Sunday in Lent, and to end on Easter Eve;
@@ -250,7 +250,7 @@ on the first Sunday of Lent, whether those days occur in February or
 March. They are under the impression that they are doing homage to a
 church festival, and the pagan origin is entirely forgotten not only by
 them but even .by those who chronicle the practices as "Lent
-customs." <span id="fr_26"></span>[1](#fn_26)
+customs." <span id="fr_26"></span>[1](#fn_26.md)
 
 Finally, after the introduction of the movable Easter, the priests at
 Rome, instead of using the "pagan" ashes produced on the eve of the
@@ -261,7 +261,7 @@ before.
 Further steps were taken to conceal from future generations the Origin
 of the "pagan" custom due on February 4. February 3 was dedicated to St.
 "Blaze." How well this answered is shown by the following quotation from
-Percy. <span id="fr_27"></span>[2](#fn_27) The anniversary of St.
+Percy. <span id="fr_27"></span>[2](#fn_27.md) The anniversary of St.
 Blazeus is the 3rd February, when it is still the custom in many parts
 of England to light up fires on the hills on St. Blayse night: *a custom
 anciently taken up perhaps for no better reason than the jingling
@@ -279,7 +279,7 @@ candles burnt that evening
 
 was 220, besides 16 torches; 60 of those burning tapers and torches
 standing upon and near the high altar." <span
-id="fr_28"></span>[1](#fn_28) There is evidence that the pagan fires at
+id="fr_28"></span>[1](#fn_28.md) There is evidence that the pagan fires at
 other times of the year were also gradually replaced by candles in the
 churches.
 
@@ -288,7 +288,7 @@ churches.
 The May festival has been treated by the Church in the same way as the
 February one. With a fixed Easter Sunday on March 22, 46 days after
 brought us to a Thursday (May 7), hence Holy Thursday <span
-id="fr_29"></span>[2](#fn_29) and Ascension Day. With Easter movable
+id="fr_29"></span>[2](#fn_29.md) and Ascension Day. With Easter movable
 there of course was more confusion. Whit Sunday, the Feast of Pentecost,
 was only nine days after Holy Thursday, and it occurred, in some years,
 on the same day of the month as Ascension Day in others. In Scotland the
@@ -318,7 +318,7 @@ bread-mass, so named as a mass or feast of thanksgiving for the first
 fruits of the corn harvest. The old customs in Wales and the Isle of Man
 included the ascent of hills in the early morning, but so far I have:
 found no record of fires in connection with this date. <span
-id="fr_30"></span>[1](#fn_30)
+id="fr_30"></span>[1](#fn_30.md)
 
 *November 8*.
 
@@ -357,7 +357,7 @@ Saints’ Day."
 There can be little doubt that the intention of the Church was to
 anticipate, and therefore gradually to obliterate the pagan festival
 still held at Martinmas, and it has been successful in many places. In
-Ireland, for instance; at Samhain, <span id="fr_31"></span>[1](#fn_31)
+Ireland, for instance; at Samhain, <span id="fr_31"></span>[1](#fn_31.md)
 November 1, "the proper time for prophecy and the unveiling of
 mysteries." . . . It was then that fire was lighted at a place called
 after Mog Ruith's daughter Tlachtga. From Tlachtga all the hearths in
@@ -380,7 +380,7 @@ Candlemas" being another, at the other end of the May year; this last
 had slipped from February 2 to February 15 before it was put back again.
 
 With regard to the Isle of Man Rhys writes <span
-id="fr_32"></span>[1](#fn_32) that the feast is there called Hollantide,
+id="fr_32"></span>[1](#fn_32.md) that the feast is there called Hollantide,
 and is kept on November 12, a reckoning which he states "is according to
 the old style." The question is, are we not dealing here with the
 Martinmas festival not antedated to November 1? He adds, "that is the
@@ -402,39 +402,39 @@ it must take place before sun-rising.
 
 ### Footnotes
 
-<span id="fn_23"></span>[181:1](sac21.htm#fr_23) Hazlitt, *Dictionary of
+<span id="fn_23"></span>[181:1](sac21.htm#fr_23.md) Hazlitt, *Dictionary of
 Faiths and Folklore*, under Gule of August.
 
-<span id="fn_24"></span>[182:1](sac21.htm#fr_24) *Survey of the South of
+<span id="fn_24"></span>[182:1](sac21.htm#fr_24.md) *Survey of the South of
 Ireland*, p. 232.
 
-<span id="fn_25"></span>[183:1](sac21.htm#fr_25) Under Ash Wednesday.
+<span id="fn_25"></span>[183:1](sac21.htm#fr_25.md) Under Ash Wednesday.
 
-<span id="fn_26"></span>[184:1](sac21.htm#fr_26) Frazer, *Golden Bough*,
+<span id="fn_26"></span>[184:1](sac21.htm#fr_26.md) Frazer, *Golden Bough*,
 iii., 238 *et seq*.
 
-<span id="fn_27"></span>[184:2](sac21.htm#fr_27) *Notes to
+<span id="fn_27"></span>[184:2](sac21.htm#fr_27.md) *Notes to
 Northumberland Household Book*, 1770, p. 333.
 
-<span id="fn_28"></span>[185:1](sac21.htm#fr_28) Quoted by Hazlitt.
+<span id="fn_28"></span>[185:1](sac21.htm#fr_28.md) Quoted by Hazlitt.
 
-<span id="fn_29"></span>[185:2](sac21.htm#fr_29) Much confusion has
+<span id="fn_29"></span>[185:2](sac21.htm#fr_29.md) Much confusion has
 arisen with regard to the Holy Thursday in Rogation week because there
 is another Holy or Maundy Thursday in Easter week. Archaeologists have
 also been often misled by the practice of many writers of describing the
 May festivals as midsummer festivals. The first of May, of course,
 marked the beginning of summer.
 
-<span id="fn_30"></span>[186:1](sac21.htm#fr_30) Mr. Frazer informs me
+<span id="fn_30"></span>[186:1](sac21.htm#fr_30.md) Mr. Frazer informs me
 that the 13th August was Diana's day at Nemi and there was a fire
 festival.
 
-<span id="fn_31"></span>[187:1](sac21.htm#fr_31) Rhys’ Hibbert Lectures,
+<span id="fn_31"></span>[187:1](sac21.htm#fr_31.md) Rhys’ Hibbert Lectures,
 p. 514.
 
-<span id="fn_32"></span>[188:1](sac21.htm#fr_32) *Celtic Folklore*, p.
+<span id="fn_32"></span>[188:1](sac21.htm#fr_32.md) *Celtic Folklore*, p.
 315.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Sacred Fires](sac22)
+[Next: Chapter XIX. Sacred Fires](sac22.md)

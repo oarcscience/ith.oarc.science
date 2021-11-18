@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](aah10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](aah10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7H7K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7H7K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Love Letters of Abelard and Heloise*, \[1901\], at Intangible
 Textual Heritage
 
@@ -84,7 +84,7 @@ human being can read them and not know them to be genuine.
 
 LETTER I
 
-[1](aah03.htm#page_1). Philintus.--In the original Latin the name of
+[1](aah03.htm#page_1.md). Philintus.--In the original Latin the name of
 'Philintus' does not appear--the friend is addressed only as
 'delectissime frater.' This gives at once the tone of this
 translation--the desire to give a lively and readable reproduction of
@@ -102,11 +102,11 @@ author of this translation has ignored all but the love passages of the
 letters; he has written for the littérateur, and left the dreary
 disquisitions for the historian.
 
-[2](aah03.htm#page_2). *Palais*.--They still show at Palais or Palet,
+[2](aah03.htm#page_2.md). *Palais*.--They still show at Palais or Palet,
 eight miles from Nantes, some ruins supposed to be those of the house
 where Abelard was born. His family was of noble origin.
 
-[3](aah03.htm#page_3). *Paris University*.--'About the latter part of
+[3](aah03.htm#page_3.md). *Paris University*.--'About the latter part of
 the eleventh century a greater ardour for intellectual pursuits began to
 show itself in Europe, which in the twelfth broke out into a flame. This
 was manifested in the numbers who repaired to the public academies, or
@@ -127,7 +127,7 @@ multitude of disciples. It is said that twenty cardinals and fifty
 bishops had been among his hearers.'--*Europe during the Middle Ages*
 (HALLAM) .
 
-[5](aah03.htm#page_5). *Beranger turns Monk*.--The glimpses of the
+[5](aah03.htm#page_5.md). *Beranger turns Monk*.--The glimpses of the
 cloister given throughout these letters are instructive and quaint; as a
 place of retirement for elderly couples and widows they were in frequent
 use. The remnants of a useless life seem to have been a favourite
@@ -140,10 +140,10 @@ And so am given to God.'</span>
 
 </div>
 
-[5](aah03.htm#page_5). *Lucan's Oak*.--'Stat magni nomimis
+[5](aah03.htm#page_5.md). *Lucan's Oak*.--'Stat magni nomimis
 umbra.'--*Pharsale*.
 
-[6](aah03.htm#page_6). '*An aversion for light women*.'--In the
+[6](aah03.htm#page_6.md). '*An aversion for light women*.'--In the
 original, 'Scortorum immunditiam semper abhorrebam.' And Villenave says
 'Jusqu’à l’époque de ses liaisons avec Héloïse il avait eu horreur des
 vices du libertinage et que de profondes études l’avaient tenu
@@ -160,7 +160,7 @@ scholar's life. Jacob, in his translation, makes Abelard give as a
 reason for Fulbert's trust in making him tutor to Heloise 'la réputation
 si bien établié de ma continence.'
 
-[7](aah03.htm#page_7). *Her Wit and her Beauty*.--Abelard insists rather
+[7](aah03.htm#page_7.md). *Her Wit and her Beauty*.--Abelard insists rather
 on the learning than the beauty of Heloise--'Per faciem non infima; per
 abundantiam litterarum erat suprema.' When the bones of the illustrious
 lovers were moved from the Paraclete they were inspected by Delaunage,
@@ -183,14 +183,14 @@ Villenave, after studying the constitution of the Paraclete, says--Le
 xii<sup>e</sup> siècle n’a eu aucun théologien plus profond, aucun
 écrivain plus érudit et plus éloquent qu’Héloïse.'
 
-[8](aah03.htm#page_8). '*Fulbert* *desired me to instruct her in
+[8](aah03.htm#page_8.md). '*Fulbert* *desired me to instruct her in
 philosophy*.'--Fulbert gave Abelard complete control as tutor over
 Heloise, even to the point of personal chastisement--'minis et
 verberibus'; and Abelard says that in order to avoid suspicion gentle
 blows were often given--'verbera quondoque dabat amor, non furor;
 gratia, non ira.'
 
-[11](aah03.htm#page_11). '*Agaton*.'--Again imagination supplies the
+[11](aah03.htm#page_11.md). '*Agaton*.'--Again imagination supplies the
 name. Luckily it is the letters of Abelard that are most freely
 paraphrased. The first letter of Heloise--the gem of all love
 letters--is most exquisitely rendered, so that it can be said that the
@@ -198,7 +198,7 @@ translator may not have known how to read Latin, but she certainly knew
 how to write English. The 'she' is implied by the inaccuracy in the
 learning and the excellence of the love passages.
 
-[13](aah03.htm#page_13). *Abelard's Son*.--It is strange that of the
+[13](aah03.htm#page_13.md). *Abelard's Son*.--It is strange that of the
 child of Abelard and Heloise so little is known; there are only two
 references to him. In one of her letters to the Abbé de Cluny, Heloise
 begs him to remember 'Astralabe' and procure him a benefice,
@@ -214,7 +214,7 @@ year is not given, but it is subsequent to his father's death. Some
 verses addressed to his son by Abelard are included amongst the
 *Fragments* edited by M. Cousin.
 
-[14](aah03.htm#page_14). *Heloise refuses Marriage*.--It seems that in
+[14](aah03.htm#page_14.md). *Heloise refuses Marriage*.--It seems that in
 the eleventh and twelfth centuries marriage was common among priests.
 Pope Leo, who died in 1054, in his Parmenien epistle says--'We profess
 openly that it is not permitted to a bishop, priest or deacon to neglect
@@ -223,7 +223,7 @@ clothing; but it is his duty to abstain from living carnally with her.'
 Marriage, apparently, was allowed but not approved, and was a bar to
 advancement in the Church.
 
-[16](aah03.htm#page_16). *Fulbert's* *Revenge*.---' Corporis mei
+[16](aah03.htm#page_16.md). *Fulbert's* *Revenge*.---' Corporis mei
 partibus amputatis quibus ad quod plangebant, commiseram.' In M.
 Gréard's translation Abelard says--'Ce qui contribuait encore à
 m’atterrer, c’était la pensée que, selon la lettre meurtrière de la loi,
@@ -235,7 +235,7 @@ eux-mêmes,
 lorsqu’ils sont ainsi mutilés, sont rejetés du sacrifice'--and he quotes
 from Deuteronomy and Leviticus.
 
-[16](aah03.htm#page_16). '*So cruel an action escaped not
+[16](aah03.htm#page_16.md). '*So cruel an action escaped not
 unpunished*.'--As usual, the chief sinner and instigator, Fulbert,
 escaped punishment, whilst those who for money carried out his evil
 intent suffered the loss of their eyes and other mutilation. Abelard
@@ -249,9 +249,9 @@ money to squander will return just as they went, the expense of their
 journey only excepted.' This letter of Foulques is included in Abelard's
 'Opera.'
 
-[17](aah03.htm#page_17). 'O Conjux.'--Lucan's *Pharsal*, liv. viii.
+[17](aah03.htm#page_17.md). 'O Conjux.'--Lucan's *Pharsal*, liv. viii.
 
-[18](aah03.htm#page_18). 'A Council.'--The Council of Soissons, 1121.
+[18](aah03.htm#page_18.md). 'A Council.'--The Council of Soissons, 1121.
 Abelard had opened a school at the Priory of Maisoncielle in 1120, and
 delivered some theological lectures on the 'tangled trinities,' which
 drew, as usual, large crowds of students--'Ad quas Scholas tanta
@@ -292,7 +292,7 @@ again fell into 'heresy,' saying that Denis the Areopagite was Bishop of
 Corinth and not of Athens. This time, instead of facing the storm, he
 fled by night to a 'desert' near Nogent-sur-Seine (1131).
 
-[18](aah03.htm#page_18). 'My enemies,' St. Norbert and St. Bernard, now
+[18](aah03.htm#page_18.md). 'My enemies,' St. Norbert and St. Bernard, now
 joined Alberic and Lotulf in attacking this teacher who could attract
 such enormous crowds of students to the most out-of-the-way spots. The
 students had built Abelard a chapel, and he, having found comfort in
@@ -309,10 +309,10 @@ seas and dwell with the heathen; but being offered the Abbey of St
 Gildas-de-Ruys, he accepted it, only to find himself in worse plight
 than before.
 
-[18](aah03.htm#page_18). *St. Gildas*.--A promontory on the coast of
+[18](aah03.htm#page_18.md). *St. Gildas*.--A promontory on the coast of
 Brittany, between Loire Inférieure and La Vendée.
 
-[19](aah03.htm#page_19). '*My dissolute Monks*.'--'Les moins
+[19](aah03.htm#page_19.md). '*My dissolute Monks*.'--'Les moins
 m’obsédaient pour leurs besoins journaliers, car la communauté ne
 possédait rien que je pusse distribuer, et chacun prenait sur son propre
 patrimoine pour se soutenir lui et sa femme, et ses fils et ses
@@ -336,16 +336,16 @@ amatorio metro vel rithmo composita reliquisti carmina, quae prae nimiâ
 suavitate tam dictaminis quam cantûs saepius frequentata tuum in ore
 omnium nomen incessanter tenebant, ut etiam illiteratos melodiae dulcedo
 tui non sineret immemores esse. Atque hinc maxime in amorem tui feminae
-suspirabant.'--See page [32](aah04.htm#page_32).
+suspirabant.'--See page [32](aah04.htm#page_32.md).
 
-[32](aah04.htm#page_32). *The Smallest Song*.--Of the love songs of
+[32](aah04.htm#page_32.md). *The Smallest Song*.--Of the love songs of
 Abelard no authentic vestige remains, though they lived as folk-songs
 for many years, and are referred to as late as 1722. In the *Chants
 Populaires de la Bretagne*, published in Paris in 1846, there is a
 ballad crediting Heloise with being a sorceress: doubtless her learning
 led her to practise the healing art amongst the ignorant Bretons.
 
-[40](aah04.htm#page_40). '*Your Rigorous Rule*.'--The rules of the
+[40](aah04.htm#page_40.md). '*Your Rigorous Rule*.'--The rules of the
 Paraclete, drawn up by Abelard and modified and adopted by Heloise, are
 exceedingly lengthy, but of great interest to those who study the
 history of religious houses. The dress was a chemise, a lamb's skin, a
@@ -374,7 +374,7 @@ LETTER III
 Abelard to Heloise.--This letter is slightly abbreviated, some of
 Abelard's confessions evidently not being deemed suitable for print.
 
-[56](aah05.htm#page_56). '*Our former irregularities require tears,
+[56](aah05.htm#page_56.md). '*Our former irregularities require tears,
 shame and sorrow to expiate them*.'--'Cependant, pour adoucir l’amertume
 de ta douleur, je voudrais encore demontrer que ce qui nous est arrivé
 est aussi juste qu’utile, et qu’en nous punissant après notre union et
@@ -436,19 +436,19 @@ has succeeded in
 making him write to her, and now craves his presence or further news of
 him.
 
-[62](aah06.htm#page_62). 'How void of reason.'--Seneca. Marhob, 34
+[62](aah06.htm#page_62.md). 'How void of reason.'--Seneca. Marhob, 34
 
-[65](aah06.htm#page_65). 'Hearken, my son.'--Prov. vii. 24. Eccles. vii.
+[65](aah06.htm#page_65.md). 'Hearken, my son.'--Prov. vii. 24. Eccles. vii.
 26.
 
-[68](aah06.htm#page_68). 'How many persons.'--St. Gregory. Lib. de
+[68](aah06.htm#page_68.md). 'How many persons.'--St. Gregory. Lib. de
 Pænit. c. 10.
 
-[70](aah06.htm#page_70). 'I preside over others but cannot rule
+[70](aah06.htm#page_70.md). 'I preside over others but cannot rule
 myself.'--Compare Nietzsche's 'Many a one cannot loose his own chains,
 and yet is a saviour unto his friend.'
 
-[72](aah06.htm#page_72). 'I seek not to conquer,' etc.--This is a
+[72](aah06.htm#page_72.md). 'I seek not to conquer,' etc.--This is a
 quotation from St. Jerome's *Adverns* *Vigilantum* and runs in the
 original--'Fateor imbecellitatem: nolo spe victoriae pugnare, ne perdam
 aliquando victoriam.'
@@ -461,7 +461,7 @@ and rules for the Paraclete. She would do anything to bring herself into
 closer touch with Abelard. He meanwhile is becoming less the lover and
 more the priest.
 
-[83](aah07.htm#page_83). '*I give myself up at night*.'--It is
+[83](aah07.htm#page_83.md). '*I give myself up at night*.'--It is
 impossible not to recall Mrs Meynell's beautiful sonnet, 'Renouncement,'
 though the likeness is accidental:--
 

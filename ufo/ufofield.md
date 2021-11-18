@@ -235,4 +235,4 @@ yet it wasn't." Lionel Fanthorpe, "The Asteroid Man"
 
 ------------------------------------------------------------------------
 
-[Next: UFO roundup 10/27/1996](uru_v135)
+[Next: UFO roundup 10/27/1996](uru_v135.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](shb07)  [Next](shb09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](shb07)  [Next](shb09.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -180,7 +180,7 @@ receive his pay, or the employer is to swear and former loses.
 <span id="page_97">p. 97</span>
 
 An objection was raised from the following Boraitha: If one has given
-his garment to a [specialist](errata.htm#47) for repair and thereafter
+his garment to a [specialist](errata.htm#47.md) for repair and thereafter
 they contradict each other concerning the price for labor and services,
 the law is thus: so long as the article is with the specialist the
 burden of proof lies on owner; and if it was delivered, the time of
@@ -310,7 +310,7 @@ happened in the court of R. Na'hman and the decision was to divide.
 <span id="page_100">p. 100</span>
 
 "*The oath returns to its place*." To which place? Said R. Ami:
-According to our masters in [Babylon](errata.htm#48), it returns to its
+According to our masters in [Babylon](errata.htm#48.md), it returns to its
 place, the Mount Sinai; and our masters in Palestine said: It returns to
 him who was obliged to take it (and as he cannot swear, he must pay).
 Said R. Papa: "Our masters in Babylon" means Rabh and Samuel--viz.: our
@@ -447,7 +447,7 @@ the preference over the heirs of the first wife concerning their
 respective marriage contracts. We see then that the heirs collect
 without an oath? It speaks of the case they swore before dying. Come and
 hear the second part: But his heirs may adjure the widow, her
-[heirs](errata.htm#49), and all empowered by her. (We see then that as
+[heirs](errata.htm#49.md), and all empowered by her. (We see then that as
 his heirs may give an oath to her heirs, the widow who has not sworn has
 bequeathed, as it were, to her heirs the power of taking an oath, and
 this is objecting to Rabh and Samuel?) Said R. Shmaia: The Boraitha here
@@ -563,4 +563,4 @@ releases even words.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](shb09)
+[Next: Chapter VIII](shb09.md)

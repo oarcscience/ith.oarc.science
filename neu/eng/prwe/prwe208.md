@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe207)  [Next](prwe209) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe207)  [Next](prwe209.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ so affected by the circumstance, that he pined and died shortly after.
 
 ------------------------------------------------------------------------
 
-[Next: The Hooper of Sennen Cove](prwe209)
+[Next: The Hooper of Sennen Cove](prwe209.md)

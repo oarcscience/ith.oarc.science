@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey20)  [Next](grey22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey20)  [Next](grey22.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ have now known from very remote times.
 
 ------------------------------------------------------------------------
 
-[Next: Te Kanawa's Adventure with a Troop of Fairies](grey22)
+[Next: Te Kanawa's Adventure with a Troop of Fairies](grey22.md)

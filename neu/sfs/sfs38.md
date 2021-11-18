@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs37)  [Next](sfs39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs37)  [Next](sfs39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -39,9 +39,9 @@ Certainly the science of comparative mythology cannot be considered as
 having its data complete, until Slavonic folklore has been thoroughly
 investigated and analyzed.
 
-In [No. 28](sfs39.htm#an_28) an old friend will be discovered in a very
+In [No. 28](sfs39.htm#an_28.md) an old friend will be discovered in a very
 rustic dress.
 
 ------------------------------------------------------------------------
 
-[Next: XXVIII. The Beautiful Damsel and the Wicked Old Woman](sfs39)
+[Next: XXVIII. The Beautiful Damsel and the Wicked Old Woman](sfs39.md)

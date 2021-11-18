@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf09)  [Next](tsf11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf09)  [Next](tsf11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ Bacchæ, all sorts of real or phantastic creatures. Everyone was scantily
 <span id="img_18000"></span>
 
 [![Dionysos on his phallic throne](tn/18000.jpg)  
-Click to enlarge](img/18000.jpg)  
+Click to enlarge](img/18000.jpg.md)  
 Dionysos on his phallic throne  
 
 dressed; parts commonly covered were left bare and parts uncovered by
@@ -124,7 +124,7 @@ intoxicated with wine and dissipation,
 <span id="img_18200"></span>
 
 [![Dionysia](tn/18200.jpg)  
-Click to enlarge](img/18200.jpg)  
+Click to enlarge](img/18200.jpg.md)  
 Dionysia  
 
 returned home, half-swooning, with the women and children exhausted and
@@ -183,9 +183,9 @@ bull.
 <span id="img_18400"></span>
 
 [![The Marriage of Psyche and Eros](tn/18400.jpg)  
-Click to enlarge](img/18400.jpg)  
+Click to enlarge](img/18400.jpg.md)  
 The Marriage of Psyche and Eros  
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Twilight With Moloch](tsf11)
+[Next: Chapter IV. Twilight With Moloch](tsf11.md)

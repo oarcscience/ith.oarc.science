@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft09)  [Next](zft11) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft09)  [Next](zft11.md) 
 
 ------------------------------------------------------------------------
 
@@ -738,4 +738,4 @@ Thus much and thus shortened is my story.
 ------------------------------------------------------------------------
 
 [Next: How Áhaiyúta And Mátsailéma Stole The Thunder-Stone And The
-Lightning-Shaft](zft11)
+Lightning-Shaft](zft11.md)

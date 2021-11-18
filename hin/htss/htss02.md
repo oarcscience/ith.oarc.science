@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](htss01)  [Next](htss03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](htss01)  [Next](htss03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Tamil Saivite Saints*, by F. Kingsbury and G.P. Phillips,
 \[1921\], at Intangible Textual Heritage
 
@@ -147,7 +147,7 @@ black. Śiva's abode is said to be on Mount Kailāsa in the Himālayas, but
 among his special haunts is the burning-ground, where bodies are
 cremated. One of the favourite manifestations of Śiva is that as
 Naṭarāja, the dancer in the great hall at Chidambaram, of which we give
-a picture (see [frontispiece](htss00.htm#img_front)). Here Śiva has one
+a picture (see [frontispiece](htss00.htm#img_front).md). Here Śiva has one
 face, four arms, and two legs, performing a spirited dance. His right
 foot rests on a demon named Muyalahan. He is sometimes represented as
 dancing along with Kāḷī, not the Kāḷī who in North India is identified
@@ -244,6 +244,6 @@ beings.
 
 ------------------------------------------------------------------------
 
-[Next: Sambandar And His Hymns](htss03)
+[Next: Sambandar And His Hymns](htss03.md)
 
 </div>

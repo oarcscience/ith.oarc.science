@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq45)  [Next](sfq47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq45)  [Next](sfq47.md) 
 
 ------------------------------------------------------------------------
 
@@ -179,4 +179,4 @@ readiness, and saw that all her weapons were in good order.
 
 ------------------------------------------------------------------------
 
-[Next: What Britomart saw in the Enchanted Chamber](sfq47)
+[Next: What Britomart saw in the Enchanted Chamber](sfq47.md)

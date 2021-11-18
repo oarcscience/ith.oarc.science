@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas008n)  [Next](jas010n)   
- \[[9. The Christening.](jas009)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas008n)  [Next](jas010n.md)   
+ \[[9. The Christening.](jas009.md)\]
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ house of the guardian Hyena.
 
 ------------------------------------------------------------------------
 
-[Next: Note 10. Eating Tiger's Guts.](jas010n)
+[Next: Note 10. Eating Tiger's Guts.](jas010n.md)

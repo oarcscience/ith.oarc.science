@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat18)  [Next](jat20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat18)  [Next](jat20.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ lying there. She ran back and told the others what she had found and
 
 some one went out and brought in the deer. This happened four times; the
 girl found a dead deer as she was going for water and it was brought in
-and eaten. <span id="fr_29"></span>[1](#fn_29)
+and eaten. <span id="fr_29"></span>[1](#fn_29.md)
 
 After dark someone looked out through a hole in the tipi and saw the
 monster. They built a big fire on that account for it was very dark.
@@ -40,29 +40,29 @@ said, "Where did you put the girl?" "I did not see anyone, "he replied.
 "Her tracks are here," the monster replied. "Nobody came to me," old man
 Spider said. "I am going to swallow you," Said the monster. Then Spider
 was angry. He tore the monster to pieces and took the girl home with
-him. <span id="fr_30"></span>[2](#fn_30)
+him. <span id="fr_30"></span>[2](#fn_30.md)
 
 Spider's wife was jealous of the girl. A tree stood by the shore of a
 lake. Spider's wife made a swing by fastening a poor rope to a limb of
 the tree. She induced the girl to swing on it. When she swung the second
 time the rope broke and she fell into the water and became a frog. <span
-id="fr_31"></span>[3](#fn_31)
+id="fr_31"></span>[3](#fn_31.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_29"></span>[210:1](jat19.htm#fr_29) It was explained that
+<span id="fn_29"></span>[210:1](jat19.htm#fr_29.md) It was explained that
 the deer were left there that the people might get fat and be in good
 condition for eating.
 
-<span id="fn_30"></span>[210:2](jat19.htm#fr_30) The Kiowa-Apache tell
+<span id="fn_30"></span>[210:2](jat19.htm#fr_30.md) The Kiowa-Apache tell
 that Thunder killed the monster with a thunderbolt which explains the
 manner of killing mentioned here.
 
-<span id="fn_31"></span>[210:3](jat19.htm#fr_31) This swing incident is
+<span id="fn_31"></span>[210:3](jat19.htm#fr_31.md) This swing incident is
 found among the Assiniboine, Lowie, (c), p. 157.
 
 ------------------------------------------------------------------------
 
-[Next: 18. The Man Who Helped the Eagles](jat20)
+[Next: 18. The Man Who Helped the Eagles](jat20.md)

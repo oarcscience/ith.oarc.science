@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat54)  [Next](jat56) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat54)  [Next](jat56.md) 
 
 ------------------------------------------------------------------------
 
 ### 53. THE GOVERNOR, OLD WOMAN WHITE HANDS.
 
 Long ago, four men lived at Taos lying on a shade. <span
-id="fr_67"></span>[1](#fn_67) They went about with their minds but their
+id="fr_67"></span>[1](#fn_67.md) They went about with their minds but their
 bodies remained at Taos. One of them went east looking for the enemy and
 found their camp. The four men came
 
@@ -118,10 +118,10 @@ to the top of their shade.
 
 ### Footnotes
 
-<span id="fn_67"></span>[239:1](jat55.htm#fr_67) The common four-posted
+<span id="fn_67"></span>[239:1](jat55.htm#fr_67.md) The common four-posted
 raised platform on which food is stored and under which the family often
 sits.
 
 ------------------------------------------------------------------------
 
-[Next: 54. The War with the Americans](jat56)
+[Next: 54. The War with the Americans](jat56.md)

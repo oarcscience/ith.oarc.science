@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Sappho](../index)  [Index](index)  [Previous](sap20)  [Next](sap22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Sappho](../index)  [Index](index)  [Previous](sap20)  [Next](sap22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419146114/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419146114/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sappho and Phaon*, by Mary Robinson, \[1796\], at Intangible Textual
 Heritage
 
@@ -35,4 +35,4 @@ Ah! why is rapture so allied to pain?
 
 ------------------------------------------------------------------------
 
-[Next: XIX. Suspects his constancy.](sap22)
+[Next: XIX. Suspects his constancy.](sap22.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh03)  [Next](msh05) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh03)  [Next](msh05.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ the first of the five, *Fai<u>s</u>al al-Tafriqa*.
 
 ------------------------------------------------------------------------
 
-[Next: I. Date, Object, And General Contents](msh05)
+[Next: I. Date, Object, And General Contents](msh05.md)

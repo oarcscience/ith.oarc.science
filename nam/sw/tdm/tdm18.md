@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm17)  [Next](tdm19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm17)  [Next](tdm19.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ days he mourns, for that is the time required by the soul to travel from
 the place where it has been liberated from the thralls of earthly life
 to the place of eternal felicity. At the time of which we are speaking,
 the body was still cremated, and with it everything that made up the
-personal effects of the deceased. <span id="fr_10"></span>[1](#fn_10) If
+personal effects of the deceased. <span id="fr_10"></span>[1](#fn_10.md) If
 a man, his clothes, his weapons, his loom, in case he had practised the
 art of weaving, were burned; if a woman, the cooking utensils were
 "killed;"
@@ -736,7 +736,7 @@ seemed only a stepping-stone to a proud and happy future.
 
 ### Footnotes
 
-<span id="fn_10"></span>[347:1](tdm18.htm#fr_10) I borrow these facts
+<span id="fn_10"></span>[347:1](tdm18.htm#fr_10.md) I borrow these facts
 from Spanish sources. Both Castañeda and Mota Padilla mention cremation
 as being practised in the sixteenth century by the Pueblos. The latter
 author even gives a detailed description. Withal, the fact that the
@@ -748,4 +748,4 @@ myself.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII](tdm19)
+[Next: Chapter XVII](tdm19.md)

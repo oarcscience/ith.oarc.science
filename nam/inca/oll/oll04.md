@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll03)  [Next](oll05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll03)  [Next](oll05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -42,13 +42,13 @@ Dost thou, my master, fear no ill,
 Thine eyes upon the Inca's child?  
   *Ollantay*. In spite of all I swear to love  
 That tender dove, that lovely star;  
-My heart is as a lamb <span id="fr_5"></span>[1](#fn_5) with her,  
+My heart is as a lamb <span id="fr_5"></span>[1](#fn_5.md) with her,  
 And ever will her presence seek.
 
 <span id="page_342">p. 342</span>
 
   *Piqui Chaqui*. Such thoughts are prompted by Supay <span
-id="fr_6"></span>[1](#fn_6);  
+id="fr_6"></span>[1](#fn_6.md);  
 That evil being possesses thee.  
 All round are beauteous girls to choose  
 Before old age, and weakness come.  
@@ -65,10 +65,10 @@ But do not night and day repeat,
 'Piqui Chaqui! swift of foot!  
 Go once more to seek the star.'  
   *Ollantay*. Have I not already said  
-That e'en if death's fell scythe <span id="fr_7"></span>[2](#fn_7) was
+That e'en if death's fell scythe <span id="fr_7"></span>[2](#fn_7.md) was
 here,  
 If mountains should oppose my path  
-Like two fierce foes <span id="fr_8"></span>[3](#fn_8) who block the
+Like two fierce foes <span id="fr_8"></span>[3](#fn_8.md) who block the
 way,  
 Yet will I fight all these combined  
 And risk all else to gain my end,  
@@ -90,11 +90,11 @@ Not one can equal my Princess?
 I think I never saw thy love.  
 Stay! was it her who yesterday  
 Came forth with slow and faltering steps  
-And sought a solitary <span id="fr_9"></span>[1](#fn_9) path <span
-id="fr_10"></span>[2](#fn_10)?  
+And sought a solitary <span id="fr_9"></span>[1](#fn_9.md) path <span
+id="fr_10"></span>[2](#fn_10.md)?  
 If so, 'tis true she's like the sun,  
 The moon less beauteous than her face. <span
-id="fr_11"></span>[3](#fn_11)  
+id="fr_11"></span>[3](#fn_11.md)  
   *Ollantay*. It surely was my dearest love.  
 How beautiful, how bright is she  
 This very moment thou must go  
@@ -134,11 +134,11 @@ A thousand llamas and their lambs
 Are ready for thy festal day.  
 The sacred fire'll lap their blood,  
 In thy dread presence, mighty one,  
-After long fast <span id="fr_12"></span>[1](#fn_12) thy victims fall.  
+After long fast <span id="fr_12"></span>[1](#fn_12.md) thy victims fall.  
   *Ollantay*. Who comes hither, Piqui Chaqui?  
 Yes, 'tis the holy Uillac Uma;  
 He brings his tools of augury.  
-No puma <span id="fr_13"></span>[2](#fn_13) more astute and wise  
+No puma <span id="fr_13"></span>[2](#fn_13.md) more astute and wise  
 I hate that ancient conjurer  
 Who prophesies of evil things,  
 I feel the evils he foretells;  
@@ -352,47 +352,47 @@ And my ears a good deal longer.
 
 ### Footnotes
 
-<span id="fn_5"></span>[341:1](oll04.htm#fr_5) *Chita* is the lamb of
+<span id="fn_5"></span>[341:1](oll04.htm#fr_5.md) *Chita* is the lamb of
 the llama. A lamb of two or three months was a favourite pet in the time
 of the Incas. It followed its mistress, adorned with a little bell and
 ribbons.
 
-<span id="fn_6"></span>[342:1](oll04.htm#fr_6) Supay, an evil spirit,
+<span id="fn_6"></span>[342:1](oll04.htm#fr_6.md) Supay, an evil spirit,
 according to some authorities.
 
-<span id="fn_7"></span>[342:2](oll04.htm#fr_7) Ichuna, a sickle or
+<span id="fn_7"></span>[342:2](oll04.htm#fr_7.md) Ichuna, a sickle or
 scythe. The expression has been cited by General Mitre and others as an
 argument that the drama is modern, because this is a metaphor confined
 to the old world. But *ichuna* was in use, in Quichua, in this sense,
 before the Spaniards came. The word is from *Ichu*, grass.
 
-<span id="fn_8"></span>[342:3](oll04.htm#fr_8) The Peruvians personified
+<span id="fn_8"></span>[342:3](oll04.htm#fr_8.md) The Peruvians personified
 a mountain as two spirits, good and evil. In writing poetically of a
 mountain opposing, it would be referred to in the persons of its genii
 or spirits, and spoken of as two foes, not one.
 
-<span id="fn_9"></span>[343:1](oll04.htm#fr_9) *Rurun*, desert,
+<span id="fn_9"></span>[343:1](oll04.htm#fr_9.md) *Rurun*, desert,
 solitude.
 
-<span id="fn_10"></span>[343:2](oll04.htm#fr_10) *Tasquiy*, to march;
+<span id="fn_10"></span>[343:2](oll04.htm#fr_10.md) *Tasquiy*, to march;
 *tasquina*, promenade, path.
 
-<span id="fn_11"></span>[343:3](oll04.htm#fr_11) *Cusi Coyllur*, while
+<span id="fn_11"></span>[343:3](oll04.htm#fr_11.md) *Cusi Coyllur*, while
 daylight lasted, was, in the eyes of Piqui Chaqui, like the sun. A
 change takes place at twilight, and at night she is like the moon.
 
-<span id="fn_12"></span>[344:1](oll04.htm#fr_12) Fasting was a
+<span id="fn_12"></span>[344:1](oll04.htm#fr_12.md) Fasting was a
 preparation for all great religious ceremonies. Victims for sacrifice
 underwent a previous fast, which was looked upon in the fight of
 purification before being offered to the Deity.
 
-<span id="fn_13"></span>[344:2](oll04.htm#fr_13) They gave the
+<span id="fn_13"></span>[344:2](oll04.htm#fr_13.md) They gave the
 attributes we usually assign to the fox to the puma.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Scene 2](oll05)
+[Next: Scene 2](oll05.md)
 
 </div>

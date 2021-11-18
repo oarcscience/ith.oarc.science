@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar082) [Next](gbar084)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar082) [Next](gbar084.md)
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ and we are the works of thy hand."'
 
 ------------------------------------------------------------------------
 
-[Next](gbar084)
+[Next](gbar084.md)

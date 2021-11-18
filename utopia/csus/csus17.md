@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus16)  [Next](csus18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus16)  [Next](csus18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1073,7 +1073,7 @@ however, is small. The society numbers two hundred and thirty persons,
 of whom one hundred are males and One hundred and thirty females, and
 forty of these are under twenty-one—twenty-five girls and fifteen boys.
 In 1827 they were most numerous, having three hundred and forty-nine
-persons <span id="fr_21"></span>[\*](#fn_21) in all the families; they
+persons <span id="fr_21"></span>[\*](#fn_21.md) in all the families; they
 had at one time but one hundred and seventy-five, and have risen from
 that in the last twenty years to their present number. For some years
 they have neither increased nor diminished, except by the coming and
@@ -1328,10 +1328,10 @@ They have one now aged ninety-eight years.
 
 ### Footnotes
 
-<span id="fn_21"></span>[207:\*](csus17.htm#fr_21) The "Millennial
+<span id="fn_21"></span>[207:\*](csus17.htm#fr_21.md) The "Millennial
 Church" gives their number at four hundred about 1825, but I follow the
 account given me at South Union.
 
 ------------------------------------------------------------------------
 
-[Next: Shaker Literature, Spiritualism, etc.](csus18)
+[Next: Shaker Literature, Spiritualism, etc.](csus18.md)

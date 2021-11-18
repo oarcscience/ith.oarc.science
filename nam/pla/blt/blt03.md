@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt02)  [Next](blt04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt02)  [Next](blt04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ Indian's motive is not the reasoning of the white man.
 
 <span id="page_xi">p. xi</span>
 
-In a volume about the Pawnees, <span id="fr_0"></span>[1](#fn_0) I
+In a volume about the Pawnees, <span id="fr_0"></span>[1](#fn_0.md) I
 endeavored to show how Indians think and feel by letting some of them
 tell their own stories in their own fashion, and thus explain in their
 own way how they look at the every-day occurrences of their life, what
@@ -263,9 +263,9 @@ this collection.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xi:1](blt03.htm#fr_0) Pawnee Hero Stories and
+<span id="fn_0"></span>[xi:1](blt03.htm#fr_0.md) Pawnee Hero Stories and
 Folk-Tales.
 
 ------------------------------------------------------------------------
 
-[Next: The Peace With The Snakes](blt04)
+[Next: The Peace With The Snakes](blt04.md)

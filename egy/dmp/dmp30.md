@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp29)  [Next](dmp31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp29)  [Next](dmp31.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ answers you truthfully.
 
 ------------------------------------------------------------------------
 
-[Next: Col. XXVIII](dmp31)
+[Next: Col. XXVIII](dmp31.md)

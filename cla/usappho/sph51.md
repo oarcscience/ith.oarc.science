@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph50)  [Next](sph52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph50)  [Next](sph52.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 Κρήσσαι νύ ποτ᾽ ὦδ᾽ ἐμμελέωσ πόδεσσιν  
 ὠρχεῦντ᾽ ἀπάλοισ ἀμφ᾽ επόεντα Βῶμον  
-πόασ τέπεν ἄνθοσ μάλακον μάτεισαι. [\[transcription\]](xlatall.htm#72)
+πόασ τέπεν ἄνθοσ μάλακον μάτεισαι. [\[transcription\]](xlatall.htm#72.md)
 
 Thus sometimes, the Cretan women, tender footed, dance in measure round
 the fair altar, crushing the fine bloom of the grass.
@@ -19,4 +19,4 @@ the delicate imagery of Sappho.
 
 ------------------------------------------------------------------------
 
-[Next: 51: Then lightly, in an enfolding garment I sprang.](sph52)
+[Next: 51: Then lightly, in an enfolding garment I sprang.](sph52.md)

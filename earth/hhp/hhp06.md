@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](hhp05)  [Next](hhp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](hhp05)  [Next](hhp07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Hidden Places*, by W. Marsham Adams, \[1895\], at
 Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ corresponding to universal, not arbitrary, standards, was a natural, and
 indeed an essential, element in the theosophy of a priesthood whose
 religious teaching was intentionally veiled under the analogies of
 astronomy. In examining therefore the astronomical science of the
-"Mystery-Teachers of the Heavens," <span id="fr_18"></span>[\*](#fn_18)
+"Mystery-Teachers of the Heavens," <span id="fr_18"></span>[\*](#fn_18.md)
 to use the official title employed in the Court of Pharaoh, we may not
 unreasonably expect to trace the origin and signification of various
 familiar measures, of which the use is widely diffused, but the
@@ -67,7 +67,7 @@ beats and bars of the music of the spheres.
 That the moon was the sacred and, at least in early times, the secret
 standard of
 
-<span id="img_11200"></span> ![Balance before Thoth.](img/11200.jpg)  
+<span id="img_11200"></span> ![Balance before Thoth.](img/11200.jpg.md)  
 Balance before Thoth.
 
 <span class="contnote">\[paragraph continues\]</span> Egyptian science,
@@ -86,7 +86,7 @@ earth's surface as it would be if he were stationed at its centre, which
 is the chief point of astronomical reference. This difference, or
 parallax, must therefore be always taken into consideration; and in the
 case of the moon, when on the horizon, it is found to be about <span
-id="fr_19"></span>[\*](#fn_19) the three hundred and sixtieth part of
+id="fr_19"></span>[\*](#fn_19.md) the three hundred and sixtieth part of
 the circle of the heavens—that is, a degree; and conversely therefore
 the fundamental measure of the circle is given by the difference between
 the moon's apparent position on rising
@@ -100,7 +100,7 @@ measure of time, viz. the hour or period required by the moon in her
 orbit, relatively to the sun, to traverse a space equal to her own disc;
 and this measure was peculiarly sacred in Egypt, each hour of the
 twenty-four which elapse during a single rotation <span
-id="fr_20"></span>[\*](#fn_20) of the earth being consecrated to its own
+id="fr_20"></span>[\*](#fn_20.md) of the earth being consecrated to its own
 particular deity, twelve of light and twelve of darkness. "Explain the
 God in the Hour" is the demand made of the adept in the Hall of
 Justification. And that God in the Hour, we learn, was Thoth, the Lord
@@ -410,7 +410,7 @@ we read in the Ritual of the "Chamber of the Hour in Rusta," the
 territory both
 
 <span id="img_13100"></span> ![Thrones of Isis and
-Osiris.](img/13100.jpg)  
+Osiris.](img/13100.jpg.md)  
 Thrones of Isis and Osiris.
 
 of death and birth. In the same staircase, around the niche or "type,"
@@ -481,7 +481,7 @@ measured intervals. Such an interval is afforded by the famous Cycle of
 Sothis, of high antiquity in Egypt, and peculiar to that country, the
 principle of which, being dependent upon the relative rates of the
 earth's rotation and revolution respectively, has by no means been
-always thoroughly understood. <span id="fr_21"></span>[\*](#fn_21)
+always thoroughly understood. <span id="fr_21"></span>[\*](#fn_21.md)
 
 Since the average interval between two successive risings of a given
 star at a particular place is determined only by the period of the
@@ -693,21 +693,21 @@ secretly reflect the path of the just in the mystery of the heavens.
 
 ### Footnotes
 
-<span id="fn_18"></span>[111:\*](hhp06.htm#fr_18) For most of the facts
+<span id="fn_18"></span>[111:\*](hhp06.htm#fr_18.md) For most of the facts
 here stated with regard to Egyptian astronomy I am indebted to the
 invaluable researches of the late lamented Dr. Brugsch upon the
 kalendar, as I am also to his history for quotations from the papyri,
 and allusions to the customs of the country.
 
-<span id="fn_19"></span>[113:\*](hhp06.htm#fr_19) It falls short by not
+<span id="fn_19"></span>[113:\*](hhp06.htm#fr_19.md) It falls short by not
 quite three (circular) minutes, or rather less than a seven-thousandth
 part of the circumference.
 
-<span id="fn_20"></span>[114:\*](hhp06.htm#fr_20) The word "rotation" is
+<span id="fn_20"></span>[114:\*](hhp06.htm#fr_20.md) The word "rotation" is
 always applied in this work to the motion of a body about its own axis;
 "revolution," to its motion around another body.
 
-<span id="fn_21"></span>[135:\*](hhp06.htm#fr_21) As, for instance, by
+<span id="fn_21"></span>[135:\*](hhp06.htm#fr_21.md) As, for instance, by
 the famous scholar Scaliger, whose misunderstanding was exposed by
 Professor Greaves, the Oxford astronomer, in A.D. 1640.
 
@@ -715,6 +715,6 @@ Professor Greaves, the Oxford astronomer, in A.D. 1640.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Mystery of the Depths](hhp07)
+[Next: Chapter V. The Mystery of the Depths](hhp07.md)
 
 </div>

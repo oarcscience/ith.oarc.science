@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft28)  [Next](zft30) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft28)  [Next](zft30.md) 
 
 ------------------------------------------------------------------------
 
@@ -584,4 +584,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: Átahsaia, The Cannibal Demon](zft30)
+[Next: Átahsaia, The Cannibal Demon](zft30.md)

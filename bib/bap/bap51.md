@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap50) 
-[Next](bap52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap50.md) 
+[Next](bap52.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ of the Judges?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVI](bap52)
+[Next: Chapter XXXVI](bap52.md)

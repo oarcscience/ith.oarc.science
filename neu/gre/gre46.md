@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre45)  [Next](gre47) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre45)  [Next](gre47.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ other never after.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLIII: Of the Death of Asmund the Greyhaired](gre47)
+[Next: Chapter XLIII: Of the Death of Asmund the Greyhaired](gre47.md)

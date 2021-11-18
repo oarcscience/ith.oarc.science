@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai16)  [Next](iai18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai16)  [Next](iai18.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ East](../index)  [Index](index)  [Previous](iai16)  [Next](iai18) 
 Thus in Heabani's cave the maiden went,  
 And o'er the sleeping seer her form she bent;  
 O'er him who with gazelles oft eats his food;  
-O'er him who drinks with *bhu-ri* <span id="fr_158"></span>[1](#fn_158)
+O'er him who drinks with *bhu-ri* <span id="fr_158"></span>[1](#fn_158.md)
 in the wood;  
 O'er him who loves the *zir-ri*,--of them dreams,  
 And sports with them within the mountain streams.  
@@ -63,7 +63,7 @@ Enticing him the tempter coyly said,
 "Heabani, like a famous god thou art,  
 Why with these creeping things doth sleep thy heart?  
 Come thou with me to Erech Su-bu-ri <span
-id="fr_159"></span>[2](#fn_159)  
+id="fr_159"></span>[2](#fn_159.md)  
 To Anu's temple Elli-tar-du-si,  
 And Ishtar's city where great Izdubar  
 Doth reign, the glorious giant king of war;  
@@ -72,7 +72,7 @@ Come see our giant king of matchless power."
 Her flashing eyes half languid pierce the seer,  
 Until his first resolves all disappear.  
 And rising to his feet his eyes he turned  
-Toward sweet Joy, <span id="fr_160"></span>[3](#fn_160) whose love for
+Toward sweet Joy, <span id="fr_160"></span>[3](#fn_160.md) whose love for
 him yet burned;  
 And eyeing both with beaming face he saith,  
 "With Sam-kha's love the seer hath pledged his faith;  
@@ -82,7 +82,7 @@ I will behold the giant Izdubar,
 Whose fame is known to me as king of war;  
 And I will meet him there, and test the power  
 Of him whose fame above all men doth tower.  
-A *mid-dan-nu* <span id="fr_161"></span>[4](#fn_161) to Erech I will
+A *mid-dan-nu* <span id="fr_161"></span>[4](#fn_161.md) to Erech I will
 take,  
 To see if he its mighty strength can break.  
 In these wild caves its strength has mighty grown;  
@@ -94,19 +94,19 @@ And now with thee to Erech I will go.
 
 ### Footnotes
 
-<span id="fn_158"></span>[48:1](iai17.htm#fr_158) "Bhu-ri," wild-beasts,
+<span id="fn_158"></span>[48:1](iai17.htm#fr_158.md) "Bhu-ri," wild-beasts,
 pets of the Hermit seer.
 
-<span id="fn_159"></span>[49:2](iai17.htm#fr_159) "Su-bu-ri," the lofty.
+<span id="fn_159"></span>[49:2](iai17.htm#fr_159.md) "Su-bu-ri," the lofty.
 
-<span id="fn_160"></span>[49:3](iai17.htm#fr_160) Joy. "Sam-kha-tu" or
+<span id="fn_160"></span>[49:3](iai17.htm#fr_160.md) Joy. "Sam-kha-tu" or
 "Samkha."
 
-<span id="fn_161"></span>[49:4](iai17.htm#fr_161) "Mid-dan-nu," a
+<span id="fn_161"></span>[49:4](iai17.htm#fr_161.md) "Mid-dan-nu," a
 carnivorous animal, supposed to be a tiger; the Khorsabad sculpture,
 however, portrays it as a lion.
 
 ------------------------------------------------------------------------
 
 [Next: Column V. Festival in Honor of Heabani, who Arrives at
-Erech--Interpretation of the Dream](iai18)
+Erech--Interpretation of the Dream](iai18.md)

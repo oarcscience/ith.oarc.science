@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb53)  [Next](wfb55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb53)  [Next](wfb55.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ his maid-servant, or his ox or his ass, or anything that was his.
 
 ------------------------------------------------------------------------
 
-[Next: Robin's Return](wfb55)
+[Next: Robin's Return](wfb55.md)

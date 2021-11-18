@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](geft00)    [Page
-Index](pageidx)    [Text \[Zipped\]](geft.txt.gz)
+[Contents](#contents)    [Start Reading](geft00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](geft.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -36,64 +36,64 @@ Index](pageidx)    [Text \[Zipped\]](geft.txt.gz)
 
 This is a short collection of folk tales from the nation of Georgia by
 Marjorie Wardrop. Wardrop also translated the Georgian author
-Rusthaveli's [The Man in the Panther's Skin](../mps/index). Although
+Rusthaveli's [The Man in the Panther's Skin](../mps/index.md). Although
 many of the motifs of these stories are also found in European folklore,
 there are characters and plot elements which localize them in the
 central Asian area.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](geft00)  
-[Preface](geft01)  
-[Contents](geft02)  
+<span id="contents"></span> [Title Page](geft00.md)  
+[Preface](geft01.md)  
+[Contents](geft02.md)  
 <span id="section_000"></span>
 
 ### Georgian Folk Tales
 
-[I. Master and Pupil (or the Devil Outwitted)](geft03)  
-[II. The Three Sisters and their Stepmother](geft04)  
-[III. The Good-for-nothing](geft05)  
-[IV. The Frog's Skin](geft06)  
-[V. Fate](geft07)  
-[VI Ghvthisavari (I am of God)](geft08)  
-[VII. The Serpent and the Peasant](geft09)  
-[VIII. Gulambara and Sulambara](geft10)  
-[IX. The Two Brothers](geft11)  
-[X. The Prince](geft12)  
-[XI. Conkiajgharuna](geft13)  
-[XII. Asphurtzela](geft14)  
-[XIII. The Shepherd and the Child of Fortune](geft15)  
-[XIV. The Two Thieves](geft16)  
-[XV. The Fox and the King's Son](geft17)  
-[XVI. The King and the Apple](geft18)  
+[I. Master and Pupil (or the Devil Outwitted)](geft03.md)  
+[II. The Three Sisters and their Stepmother](geft04.md)  
+[III. The Good-for-nothing](geft05.md)  
+[IV. The Frog's Skin](geft06.md)  
+[V. Fate](geft07.md)  
+[VI Ghvthisavari (I am of God)](geft08.md)  
+[VII. The Serpent and the Peasant](geft09.md)  
+[VIII. Gulambara and Sulambara](geft10.md)  
+[IX. The Two Brothers](geft11.md)  
+[X. The Prince](geft12.md)  
+[XI. Conkiajgharuna](geft13.md)  
+[XII. Asphurtzela](geft14.md)  
+[XIII. The Shepherd and the Child of Fortune](geft15.md)  
+[XIV. The Two Thieves](geft16.md)  
+[XV. The Fox and the King's Son](geft17.md)  
+[XVI. The King and the Apple](geft18.md)  
 <span id="section_001"></span>
 
 ### II. Mingrelian Tales
 
-[I. The Three Precepts](geft19)  
-[II. Kazha-ndii](geft20)  
-[III. The Story of Geria, the Poor Man's Son](geft21)  
-[IV. The Prince who befriended the Beasts](geft22)  
-[V. The Cunning Old Man and the *Demi*](geft23)  
-[VI. Sanartia](geft24)  
-[VII. The Shepherd Judge](geft25)  
-[VIII. The Priest's youngest Son](geft26)  
-[Mingrelian Proverbs](geft27)  
+[I. The Three Precepts](geft19.md)  
+[II. Kazha-ndii](geft20.md)  
+[III. The Story of Geria, the Poor Man's Son](geft21.md)  
+[IV. The Prince who befriended the Beasts](geft22.md)  
+[V. The Cunning Old Man and the *Demi*](geft23.md)  
+[VI. Sanartia](geft24.md)  
+[VII. The Shepherd Judge](geft25.md)  
+[VIII. The Priest's youngest Son](geft26.md)  
+[Mingrelian Proverbs](geft27.md)  
 <span id="section_002"></span>
 
 ### III. Gurian Folk Tales
 
-[I. The Strong Man and the Dwarf](geft28)  
-[II. The Grasshopper and the Ant](geft29)  
-[III. The Countryman and the Merchant](geft30)  
-[IV. The King and the Sage](geft31)  
-[V. The King's Son](geft32)  
-[VI. Teeth and No-Teeth](geft33)  
-[VII. The Queen's Whim](geft34)  
-[VIII. The Fool's good Fortune](geft35)  
-[IX. Two Losses](geft36)  
-[X. The Story of Dervish](geft37)  
-[XI. The Father's Prophecy](geft38)  
-[XII. The Hermit Philosopher](geft39)  
-[XIII. The King's Counsellor](geft40)  
-[XIV. A Witty Answer](geft41)  
+[I. The Strong Man and the Dwarf](geft28.md)  
+[II. The Grasshopper and the Ant](geft29.md)  
+[III. The Countryman and the Merchant](geft30.md)  
+[IV. The King and the Sage](geft31.md)  
+[V. The King's Son](geft32.md)  
+[VI. Teeth and No-Teeth](geft33.md)  
+[VII. The Queen's Whim](geft34.md)  
+[VIII. The Fool's good Fortune](geft35.md)  
+[IX. Two Losses](geft36.md)  
+[X. The Story of Dervish](geft37.md)  
+[XI. The Father's Prophecy](geft38.md)  
+[XII. The Hermit Philosopher](geft39.md)  
+[XIII. The King's Counsellor](geft40.md)  
+[XIV. A Witty Answer](geft41.md)  

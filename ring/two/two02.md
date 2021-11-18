@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Index](index)  [Previous](two01)  [Next](two03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Index](index)  [Previous](two01)  [Next](two03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Worm Ouroboros*, by E. R. Eddison, \[1922\], at Intangible Textual
 Heritage
 
@@ -17,7 +17,7 @@ Heritage
 
 <span id="img_front"></span> <span align="CENTER"> [![GORICE XII. IN
 CARCË](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 GORICE XII. IN CARCË  
 </span>
 
@@ -55,4 +55,4 @@ THOMAS THE RHYMER
 
 ------------------------------------------------------------------------
 
-[Next: Contents](two03)
+[Next: Contents](two03.md)

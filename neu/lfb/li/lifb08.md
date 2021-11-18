@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb07)  [Next](lifb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb07)  [Next](lifb09.md) 
 
 </div>
 
@@ -177,6 +177,6 @@ From 'Litterature Orale de l'Auvergne,' par Paul Sebillot.
 
 ------------------------------------------------------------------------
 
-[Next: How Brave Walter Hunted Wolves](lifb09)
+[Next: How Brave Walter Hunted Wolves](lifb09.md)
 
 </div>

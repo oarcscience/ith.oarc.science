@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  
-[Previous](cuac)  [Next](cukn)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index.md)  
+[Previous](cuac)  [Next](cukn.md)
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ From the <a href="../pkt/pktcuki">Pictorial Key to the Tarot</a>, 1911.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Knight of Cups](cukn)
+[Next: Knight of Cups](cukn.md)

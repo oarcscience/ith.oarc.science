@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku40)  [Next](tku42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku40)  [Next](tku42.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ forth thence, and that it may be guarded and
 <span id="page_200">p. 200</span>
 
 shut in on every side; hence it is in the nature of an Arcanum. <span
-id="fr_128"></span>[1](#fn_127)
+id="fr_128"></span>[1](#fn_127.md)
 
 715\. Woe unto Him who discloseth secrets! For he who revealeth secrets
 doth the same thing as if he should deny the superior formation, which
@@ -56,7 +56,7 @@ is so arranged that the secrets may be collected together, and that they
 may not issue forth without.
 
 716\. Also we have learned in Barietha <span
-id="fr_129"></span>[2](#fn_128): At that time when they call aloud in
+id="fr_129"></span>[2](#fn_128.md): At that time when they call aloud in
 their troubles, and the hairs are moved from before the ears, the voice
 entereth into the ears through that channel, and the spirit of
 distillation from the brain (*entereth into that that channel
@@ -95,7 +95,7 @@ Tetragrammaton.
 (*this phrase*) "Thine ear," is that of Microprosopus.
 
 723\. From one cavity of the brain do those ears depend; and from the
-fifty gates <span id="fr_130"></span>[1](#fn_129) which proceed from
+fifty gates <span id="fr_130"></span>[1](#fn_129.md) which proceed from
 that cavity, this is one gate, which extendeth and goeth forth and
 openeth into that channel of the ear.
 
@@ -177,7 +177,7 @@ called IMI QDM, *Yemi Qedem*, former days; and not years, OVLM, *Olahm*,
 or of the world.
 
 741\. The former years are the former days; the years of the world are
-the days of the world. <span id="fr_131"></span>[1](#fn_130)
+the days of the world. <span id="fr_131"></span>[1](#fn_130.md)
 
 742\. And here (*it is said*): "In the midst of the years." What years?
 The former years.
@@ -209,19 +209,19 @@ blessed is my portion with you in this world, and in the world to come!"
 
 ### Footnotes
 
-<span id="fn_127"></span>[200:1](tku41.htm#fr_128) Because in a similar
+<span id="fn_127"></span>[200:1](tku41.htm#fr_128.md) Because in a similar
 manner a secret is guarded and shut in.
 
-<span id="fn_128"></span>[200:2](tku41.htm#fr_129) See *ante*, § 388.
+<span id="fn_128"></span>[200:2](tku41.htm#fr_129.md) See *ante*, § 388.
 Barietha is "Traditio extra urbem."
 
-<span id="fn_129"></span>[201:1](tku41.htm#fr_130) This refers to the
+<span id="fn_129"></span>[201:1](tku41.htm#fr_130.md) This refers to the
 "fifty gates of the Understanding"--alluding to the third Sephira.
 
-<span id="fn_130"></span>[203:1](tku41.htm#fr_131) In connection with §
+<span id="fn_130"></span>[203:1](tku41.htm#fr_131.md) In connection with §
 741. note Ps. lxxvii. 5: "ChShBThI IMIM MQDM ShNVTh OVLMIM, "I have
 considered the days of old, the years of ancient times."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIV: Concerning the Beard of Microprosopus](tku42)
+[Next: Chapter XXXIV: Concerning the Beard of Microprosopus](tku42.md)

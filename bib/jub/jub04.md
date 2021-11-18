@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub03) 
-[Next](jub05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub03.md) 
+[Next](jub05.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ was Hebrew or Aramaic. It must be admitted that in a number of passages
 where the text of the canonical Genesis is cited the Ethiopic agrees
 with the LXX against all other authorities (see Charles' *Jubilees*, p.
 xxxiv). But these cases are not, on the whole, either numerous or
-important. <span id="fr_2"></span>[1](#fn_2) On the other hand, the
+important. <span id="fr_2"></span>[1](#fn_2.md) On the other hand, the
 Ethiopic often agrees with the LXX, supported by other authorities
 (especially the Samaritan text and version) against the Masoretic Hebrew
 text, and there are other variations in the textual phenomena. From a
@@ -60,7 +60,7 @@ survey of these phenomena Charles deduces the conclusion, no doubt
 rightly, that "our book attests an independent form of the Hebrew text
 of the Pentateuch. . . . Our book represents *some form of the Hebrew
 text of the Pentateuch midway between the forms presupposed by the LXX
-and the Syriac*." <span id="fr_3"></span>[2](#fn_3)
+and the Syriac*." <span id="fr_3"></span>[2](#fn_3.md)
 
 <span id="page_xii">p. xii</span>
 
@@ -74,7 +74,7 @@ other authorities. These phenomena suggest that the composition of
 *Jubilees* is to be assigned to "some period between 250 B.C. (LXX
 version of the Pentateuch) and A.D. 100 \[when M was finally fixed\],
 and at a time nearer the earlier date than the latter." <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
 A number of considerations may be adduced which suggest that the
 original language of *Jubilees* was Hebrew. Thus mistranslations of
@@ -83,8 +83,8 @@ corrected) "I pray thee," is, in the Ethiopic, "in me"--a confusion of
 the Hebrew *bî* = δέομαι (Gen. xliv. 18) with the Hebrew word (spelt in
 exactly the same way) which = "in me;" there are also numerous Hebraisms
 surviving in the Ethiopic and Latin versions, <span
-id="fr_5"></span>[2](#fn_5) as well as paronomasiae based upon Hebrew
-words. <span id="fr_6"></span>[3](#fn_6) It is noteworthy, also, that
+id="fr_5"></span>[2](#fn_5.md) as well as paronomasiae based upon Hebrew
+words. <span id="fr_6"></span>[3](#fn_6.md) It is noteworthy, also, that
 the author lays special stress upon the sacred character of Hebrew,
 which was originally the language of creation (cf. xii. 25-26; xliii.
 15). Moreover, he represents his work as having emanated from Moses, and
@@ -111,19 +111,19 @@ our Book was Hebrew.
 
 ### Footnotes
 
-<span id="fn_2"></span>[xi:1](jub04.htm#fr_2) They *may* be due to
+<span id="fn_2"></span>[xi:1](jub04.htm#fr_2.md) They *may* be due to
 assimilation in the Greek Version with the LXX.
 
-<span id="fn_3"></span>[xi:2](jub04.htm#fr_3) *Jubilees*, p. xxxviii.
+<span id="fn_3"></span>[xi:2](jub04.htm#fr_3.md) *Jubilees*, p. xxxviii.
 
-<span id="fn_4"></span>[xii:1](jub04.htm#fr_4) *Op. cit.*, p. xxxix.
+<span id="fn_4"></span>[xii:1](jub04.htm#fr_4.md) *Op. cit.*, p. xxxix.
 
-<span id="fn_5"></span>[xii:2](jub04.htm#fr_5) Cf. *e. g.* xxii. 10,
+<span id="fn_5"></span>[xii:2](jub04.htm#fr_5.md) Cf. *e. g.* xxii. 10,
 "eligere in te" = Heb. *bāhar bĕ*.
 
-<span id="fn_6"></span>[xii:3](jub04.htm#fr_6) See Charles, *op. cit.*,
+<span id="fn_6"></span>[xii:3](jub04.htm#fr_6.md) See Charles, *op. cit.*,
 p. xxxiii for details.
 
 ------------------------------------------------------------------------
 
-[Next: Affinities with Other Literature](jub05)
+[Next: Affinities with Other Literature](jub05.md)

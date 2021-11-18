@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt05)  [Next](crt07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt05)  [Next](crt07.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_01200"></span>
 
 [![Sir Launcelot greets Queen Guinevere](tn/01200.jpg)  
-Click to enlarge](img/01200.jpg)  
+Click to enlarge](img/01200.jpg.md)  
 Sir Launcelot greets Queen Guinevere  
 
 <span id="page_13">p. 13</span>
@@ -641,4 +641,4 @@ knight.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Second](crt07)
+[Next: Chapter Second](crt07.md)

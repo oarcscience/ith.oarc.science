@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvbk17)  [Next](wyvbk19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvbk17)  [Next](wyvbk19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ Sky-regions and my Indra prosper by sacrifice.
 Upâmsu, and my Antaryâma and my Aindra-Vâyava, and  
 my Maitrâ-Varuna, and my Âsvina and my Pratiprasthâna,  
 and my Sukra and my Manthin proper by sacrifice.  
-20 May my Âgrayana and my Vaisvadeva, and my [Dhruvâ](errata.htm#9)
+20 May my Âgrayana and my Vaisvadeva, and my [Dhruvâ](errata.htm#9.md)
 and  
 my Vaisvânara, and my Aindrâgna and my Mahâvaisvadeva,  
 and my Marutvatîya and my Nishkevalya, and my Sâvitra  
@@ -208,7 +208,7 @@ May he protect, etc.
 Waters are his Apsarases, named Energies. May he  
 protect, etc.  
 42 The Protecting, Strong-winged, Sacrifice is the Gandharva.  
-Guerdons are his [Apsarases](errata.htm#10), called Praisers. May he  
+Guerdons are his [Apsarases](errata.htm#10.md), called Praisers. May he  
 protect, etc.  
 43 The Lord of Creatures, Omnific, Mind is the Gandharva.  
 Richas and Sâmans are his Apsarases, called Wishings.  
@@ -247,7 +247,7 @@ first-born ancient Rishis.
 53 The Drop, the powerful, the falcon, righteous, impetuous  
 bird borne on his golden pinions,  
 Great, stedfast, settled in the habitation—to thee be reverence!  
-Forbear to harm [thee](errata.htm#11)!  
+Forbear to harm [thee](errata.htm#11.md)!  
 54 Centre of earth, heaven's head art thou, essence of waters  
 and of plants.  
 Eternal, far spread refuge. Homage to the Path!  
@@ -282,7 +282,7 @@ him the meed of pious actions.
 62 Convey our sacrifice to heaven, etc., as in XV. 55,  
 63 With Darbha-bunch, with fencing-wood, with spoon, with  
 altar, holy grass,  
-With [laud](errata.htm#12), lead this our sacrifice to go to heaven
+With [laud](errata.htm#12.md), lead this our sacrifice to go to heaven
 among  
 the Gods.  
 64 Our gifts, our charitable grants, our pious works, our fees to  
@@ -341,4 +341,4 @@ XIII. 52.
 
 ------------------------------------------------------------------------
 
-[Next: Book XIX](wyvbk19)
+[Next: Book XIX](wyvbk19.md)

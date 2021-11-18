@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar52)  [Next](gar54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar52)  [Next](gar54.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -21,7 +21,7 @@ Textual Heritage
 
 <span id="img_19800"></span> <span align="CENTER">
 [![Music—&lt;i&gt;Pleyel's Hymn&lt;/i&gt;.](tn/19800.jpg)  
-Click to enlarge](img/19800.jpg)  
+Click to enlarge](img/19800.jpg.md)  
 Music—*Pleyel's Hymn*.  
 </span>
 
@@ -88,4 +88,4 @@ salvation.—AMEN.
 
 ------------------------------------------------------------------------
 
-[Next: Rites of Sepulture—Hebrew Customs](gar54)
+[Next: Rites of Sepulture—Hebrew Customs](gar54.md)

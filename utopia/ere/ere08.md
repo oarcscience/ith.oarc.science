@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](ere07)  [Next](ere09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](ere07)  [Next](ere09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -267,15 +267,15 @@ playing some chords upon the organ which put me very forcibly in mind of
 the Erewhonian statues (for Erewhon is the name of the country upon
 which I was now entering). They rose most vividly to my recollection the
 moment my friend began. They are as follows, and are by the greatest of
-all musicians:—  <span id="fr_1"></span>[2](#fn_1)
+all musicians:—  <span id="fr_1"></span>[2](#fn_1.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[2](ere08.htm#fr_1) See Handel's compositions for
+<span id="fn_1"></span>[2](ere08.htm#fr_1.md) See Handel's compositions for
 the harpsichord, published by Litolf, p. 78.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Into Erewhon](ere09)
+[Next: Chapter VI: Into Erewhon](ere09.md)

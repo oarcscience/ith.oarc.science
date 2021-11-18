@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi198)  [Next](mtsi200) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi198)  [Next](mtsi200.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ walked all the way and got home."
 
 ------------------------------------------------------------------------
 
-[Next: 64. Some Short Stories](mtsi200)
+[Next: 64. Some Short Stories](mtsi200.md)

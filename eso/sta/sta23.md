@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta22)  [Next](sta24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta22)  [Next](sta24.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,7 +140,7 @@ religio-philosophic symbols, widespread and enduring through the ages.
 <span id="img_09700"></span>
 
 [![SATURN SWALLOWING THE STONE SUBSTITUTED FOR JUPITER.](tn/09700.jpg)  
-Click to enlarge](img/09700.jpg)  
+Click to enlarge](img/09700.jpg.md)  
 SATURN SWALLOWING THE STONE SUBSTITUTED FOR JUPITER.  
 
 From Catrari's *Imagini degli Dei degli Antichi*.
@@ -307,7 +307,7 @@ names of the two pillars mean "In strength shall
 <span id="img_09800"></span>
 
 [![MOSES RECEIVING THE TABLES OF THE LAW.](tn/09800.jpg)  
-Click to enlarge](img/09800.jpg)  
+Click to enlarge](img/09800.jpg.md)  
 MOSES RECEIVING THE TABLES OF THE LAW.  
 
 From an old Bible.
@@ -470,7 +470,7 @@ possible that uranium
 <span id="img_09900"></span>
 
 [![EXAMPLES OF HERMÆ.](tn/09900.jpg)  
-Click to enlarge](img/09900.jpg)  
+Click to enlarge](img/09900.jpg.md)  
 EXAMPLES OF HERMÆ.  
 
 From Christie's *Disquisitions upon the Painted Greek Vases*.
@@ -644,7 +644,7 @@ today exert a wide influence upon the religiously-minded.
 <span id="img_10000"></span>
 
 [![THE PYTHAGOREAN SIGNET RING.](tn/10000.jpg)  
-Click to enlarge](img/10000.jpg)  
+Click to enlarge](img/10000.jpg.md)  
 THE PYTHAGOREAN SIGNET RING.  
 
 From Cartari's *Imagini degli Dei degli Antichi*.
@@ -665,4 +665,4 @@ to resist evil spirits."
 
 ------------------------------------------------------------------------
 
-[Next: Ceremonial Magic and Sorcery](sta24)
+[Next: Ceremonial Magic and Sorcery](sta24.md)

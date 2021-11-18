@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos03)  [Next](kos05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos03)  [Next](kos05.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,7 +78,7 @@ possess this treasure.
 
 Then, therefore, arose one among them, more worthy (than the others),
 both in the sight of the gods, and by reason of his age, who was called
-Iohé Grevis, <span id="fr_1"></span>[1](#fn_1) and said unto the others:
+Iohé Grevis, <span id="fr_1"></span>[1](#fn_1.md) and said unto the others:
 Unless we shall come and ask the interpretation from the Lord, with
 tears and entreaties, we shall never arrive at the knowledge of it.
 
@@ -103,7 +103,7 @@ the virtue of that wisdom, so that I may become worthy by Thine aid to
 attain unto the understanding of this Key of Secrets.
 
 And immediately there appeared unto me, <span
-id="fr_2"></span>[1](#fn_2) the Angel of the Lord, saying:
+id="fr_2"></span>[1](#fn_2.md) the Angel of the Lord, saying:
 
 Do thou remember if the secrets of Solomon appear hidden and obscure
 unto thee, that the Lord hath wished it, so that such wisdom may not
@@ -141,14 +141,14 @@ and shown in order.
 
 ### Footnotes
 
-<span id="fn_1"></span>[3:1](kos04.htm#fr_1) I think this is correct,
+<span id="fn_1"></span>[3:1](kos04.htm#fr_1.md) I think this is correct,
 but the name is very indistinctly written in the MS., which is difficult
 to decipher. In another copy of the Clavicle it is written Iroe Grecis,
 but I think this is an error.
 
-<span id="fn_2"></span>[4:1](kos04.htm#fr_2) 'Mihi' in MS., probably a
+<span id="fn_2"></span>[4:1](kos04.htm#fr_2.md) 'Mihi' in MS., probably a
 slip for 'unto him,' 'ei.'
 
 ------------------------------------------------------------------------
 
-[Next: Introduction from Landsdowne MSS. 1203](kos05)
+[Next: Introduction from Landsdowne MSS. 1203](kos05.md)

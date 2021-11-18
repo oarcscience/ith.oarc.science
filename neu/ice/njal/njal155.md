@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal154)  [Next](njal156) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal154)  [Next](njal156.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ whole host was to come to Dublin in the week before Palm Sunday.
 
 ------------------------------------------------------------------------
 
-[Next: 156. Brian's Battle](njal156)
+[Next: 156. Brian's Battle](njal156.md)

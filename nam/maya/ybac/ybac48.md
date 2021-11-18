@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac47)  [Next](ybac49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac47)  [Next](ybac49.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ they used in making the idols and boring out the blowpipes, as in this
 figure in the margin; they use the blowpipe a great deal, and shoot well
 with it. This brass and other placques or sheets, of greater hardness,
 is part of their traffic in Tabasco for their idols. They had among them
-no other kind of metal. <span id="fr_46"></span>[\*](#fn_46)
+no other kind of metal. <span id="fr_46"></span>[\*](#fn_46.md)
 
  
 
@@ -144,7 +144,7 @@ water, bad to drink, and without the currents found in the cenotes.
 <span id="img_09501"></span>
 
 [![THE UNDERGROUND CAVE OF LOLTUN](tn/09501.jpg)  
-Click to enlarge](img/09501.jpg)  
+Click to enlarge](img/09501.jpg.md)  
 THE UNDERGROUND CAVE OF LOLTUN  
 
 There is one thing in this country, in all this marvellous matter of the
@@ -183,7 +183,7 @@ clearly that the underground rivers run into the sea.
 
 ### Footnotes
 
-<span id="fn_46"></span>[94:\*](ybac48.htm#fr_46) <span id="page_93">p.
+<span id="fn_46"></span>[94:\*](ybac48.htm#fr_46.md) <span id="page_93">p.
 93</span> In seeking to illustrate the objects of use referred to by
 Landa we are helped by the known extent of their trading relations, from
 Honduras as far as the Mizteca region. Cortés needing to cast brass
@@ -207,4 +207,4 @@ previously.
 
 ------------------------------------------------------------------------
 
-[Next: XLV. The Waters and the Fishes Found in Them](ybac49)
+[Next: XLV. The Waters and the Fishes Found in Them](ybac49.md)

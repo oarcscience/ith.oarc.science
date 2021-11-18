@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRE4BU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRE4BU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRE4BU/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](am00)    [Page
-Index](pageidx)    [Text \[Zipped\]](am.txt.gz)
+[Contents](#contents)    [Start Reading](am00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](am.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -45,21 +45,21 @@ their culture, even though it was written decades ago.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](am00)  
-[An Amishman Writes](am01)  
-[These Odd Folk Called ''Amish''](am02)  
-[Quaintness of Hair Styles and Dress Attract Attention](am03)  
-[Amish In Mifflin County Accounted Leading Conservatives](am04)  
-[Amish and Mennonites Are World-Famed Agriculturalists](am05)  
-[Religious Services Are Held In Their Houses and Barns](am06)  
-[Bundling and Marriage Customs Are Interesting and Unique](am07)  
-[Funerals and Superstitions Attract Outside Interest](am08)  
-[Temperance and Frugality Are Two Outstanding Attributes](am09)  
-[Woman's Place Is In the Home and In the Harvest Fields](am10)  
-[The German Language and ''Dutch'' Dialect Familiar To All](am11)  
-[Historical Account of the Amish and the Mennonites](am12)  
-[Amish-Mennonite Statistics](am13)  
+<span id="contents"></span> [Title Page](am00.md)  
+[An Amishman Writes](am01.md)  
+[These Odd Folk Called ''Amish''](am02.md)  
+[Quaintness of Hair Styles and Dress Attract Attention](am03.md)  
+[Amish In Mifflin County Accounted Leading Conservatives](am04.md)  
+[Amish and Mennonites Are World-Famed Agriculturalists](am05.md)  
+[Religious Services Are Held In Their Houses and Barns](am06.md)  
+[Bundling and Marriage Customs Are Interesting and Unique](am07.md)  
+[Funerals and Superstitions Attract Outside Interest](am08.md)  
+[Temperance and Frugality Are Two Outstanding Attributes](am09.md)  
+[Woman's Place Is In the Home and In the Harvest Fields](am10.md)  
+[The German Language and ''Dutch'' Dialect Familiar To All](am11.md)  
+[Historical Account of the Amish and the Mennonites](am12.md)  
+[Amish-Mennonite Statistics](am13.md)  
 [The True ''faith and Practice'' of the Brethren, or
-''Dunkers''](am14)  
-[Illustrations](am15)  
-[Books About the Amish and the Mennonites](am16)  
+''Dunkers''](am14.md)  
+[Illustrations](am15.md)  
+[Books About the Amish and the Mennonites](am16.md)  

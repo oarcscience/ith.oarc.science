@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh23)  [Next](ehh25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh23)  [Next](ehh25.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ the beings who were in it.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. Ninth Division of the Tuat. II. Kingdom of
-Temu-Khepera-Ra According to the Book of Gates](ehh25)
+Temu-Khepera-Ra According to the Book of Gates](ehh25.md)

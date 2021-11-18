@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge07) 
-[Next](pge09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge07.md) 
+[Next](pge09.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ investigation of these ethical distinctions. For the present, a
 
 quotation from one of the most eloquent of the later rhetoricians will
 sufficiently set forth the contrast, which the Greek race never wholly
-forgot: <span id="fr_7"></span>[1](#fn_7)--
+forgot: <span id="fr_7"></span>[1](#fn_7.md)--
 
 "The one love is mad for pleasure; the other loves beauty. The one is an
 involuntary sickness; the other is a sought enthusiasm. The one tends to
@@ -65,11 +65,11 @@ the fruit-season, and thou shalt love more righteously."
 With the baser form of paiderastia I shall have little to do in this
 essay. Vice of this kind does not vary to any great extent, whether we
 observe it in Athens or in Rome, in Florence of the sixteenth or in
-Paris of the nineteenth century; <span id="fr_8"></span>[2](#fn_8) nor
+Paris of the nineteenth century; <span id="fr_8"></span>[2](#fn_8.md) nor
 in Hellas was it more noticeable than elsewhere, except for its
 comparative publicity. The nobler type of masculine love developed by
 the Greeks is, on the contrary, almost unique <span
-id="fr_9"></span>[3](#fn_9) in the history of the human race. It is that
+id="fr_9"></span>[3](#fn_9.md) in the history of the human race. It is that
 which more than anything else distinguishes, the Greeks from the
 barbarians of their own time, from the Romans, and from modern men in
 all that appertains to the emotions. The immediate subject of the
@@ -80,7 +80,7 @@ ensuing inquiry
 will, therefore, be that mixed form of paiderastia upon which the Greeks
 prided themselves, which had for its heroic ideal the friendship of
 Achilles and Patroclus, but which in historic times exhibited a
-sensuality unknown to Homer. <span id="fr_10"></span>[1](#fn_10) In
+sensuality unknown to Homer. <span id="fr_10"></span>[1](#fn_10.md) In
 treating of this unique product of their civilisation I shall use the
 terms *Greek Love*, understanding thereby a passionate and enthusiastic
 attachment subsisting between man and youth, recognised by society and
@@ -91,22 +91,22 @@ not degenerate into mere licentiousness.
 
 ### Footnotes
 
-<span id="fn_7"></span>[7:1](pge08.htm#fr_7) Max. Tyr., *Dissert*., ix.
+<span id="fn_7"></span>[7:1](pge08.htm#fr_7.md) Max. Tyr., *Dissert*., ix.
 
-<span id="fn_8"></span>[7:2](pge08.htm#fr_8) See Sismondi, vol. ii. p.
+<span id="fn_8"></span>[7:2](pge08.htm#fr_8.md) See Sismondi, vol. ii. p.
 324; Symonds, *Renaissance in Italy*, *Age of the Despots*, p. 435;
 Tardieu, *Attentats aux Mœurs*, *Les Ordures de Paris*; Sir R. Burton's
 *Terminal Essay* to the "Arabian Nights"; Carlier, Les Deux
 Prostitutions, etc.
 
-<span id="fn_9"></span>[7:3](pge08.htm#fr_9) I say almost, because
+<span id="fn_9"></span>[7:3](pge08.htm#fr_9.md) I say almost, because
 something of the same sort appeared in Persia at the time of Saadi.
 
-<span id="fn_10"></span>[8:1](pge08.htm#fr_10) Plato, in the *Phædrus*,
+<span id="fn_10"></span>[8:1](pge08.htm#fr_10.md) Plato, in the *Phædrus*,
 the *Symposium*, and the *Laws*, is decisive on the mixed nature of
 paiderastia.
 
 ------------------------------------------------------------------------
 
 [Next: VII. The intensity of paiderastia as an emotion, and its
-quality](pge09)
+quality](pge09.md)

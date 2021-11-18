@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat33)  [Next](jat35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat33)  [Next](jat35.md) 
 
 ------------------------------------------------------------------------
 
-### 32. COYOTE AND PORCUPINE CONTEND FOR A BUFFALO. <span id="fr_50"></span>[2](#fn_50)
+### 32. COYOTE AND PORCUPINE CONTEND FOR A BUFFALO. <span id="fr_50"></span>[2](#fn_50.md)
 
 Porcupine was sitting where the buffalo trail crossed a stream. "Take me
 across," he said to Buffalo. "All right, sit between my horns," said
@@ -62,9 +62,9 @@ burst.
 
 ### Footnotes
 
-<span id="fn_50"></span>[228:2](jat34.htm#fr_50) Russell, (a), p. 263;
+<span id="fn_50"></span>[228:2](jat34.htm#fr_50) Russell, (a.md), p. 263;
 Lowie, (a), p. 267; Mason, P. 316; Kroeber, (c), p. 270; Spinden, p. 21.
 
 ------------------------------------------------------------------------
 
-[Next: 33. Coyote Loses His Eyes](jat35)
+[Next: 33. Coyote Loses His Eyes](jat35.md)

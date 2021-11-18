@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe216)  [Next](prwe218) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe216)  [Next](prwe218.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ she saw her husband.
 
 ------------------------------------------------------------------------
 
-[Next: The White Hare](prwe218)
+[Next: The White Hare](prwe218.md)

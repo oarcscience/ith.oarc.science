@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc071) 
-[Next](motc073) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc071.md) 
+[Next](motc073.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ hunters in the settlement.
 
 ------------------------------------------------------------------------
 
-[Next: 73. The Underground Panthers](motc073)
+[Next: 73. The Underground Panthers](motc073.md)

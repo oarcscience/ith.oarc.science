@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb71)  [Next](wfb73) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb71)  [Next](wfb73.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ of water overspread the place.
 
 ------------------------------------------------------------------------
 
-[Next: The Power of St Tegla's Well](wfb73)
+[Next: The Power of St Tegla's Well](wfb73.md)

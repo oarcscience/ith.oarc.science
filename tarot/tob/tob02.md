@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob01) 
-[Next](tob03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob01.md) 
+[Next](tob03.md) 
 
 ------------------------------------------------------------------------
 
@@ -310,4 +310,4 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob01) 
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Introduction to the Study of the Tarot](tob03)
+[Next: Chapter I. Introduction to the Study of the Tarot](tob03.md)

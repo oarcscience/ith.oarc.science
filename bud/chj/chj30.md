@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj29)  [Next](chj31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj29)  [Next](chj31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -47,7 +47,7 @@ Catholic Missions of the sixteenth century.
 <span id="page_351">p. 351</span>
 
 <span class="contnote">\[paragraph continues\]</span> Others <span
-id="fr_486"></span>[1](#fn_484) have done this at considerable length
+id="fr_486"></span>[1](#fn_484.md) have done this at considerable length
 and with carefully weighed judgment. My task is somewhat different. It
 is to trace the movements, if any, that were going on in Buddhism during
 this period, and the effects, if any, that the Jesuit Missions had on
@@ -80,24 +80,24 @@ Again, they brought with them the traditions and atmosphere of Europe in
 the sixteenth century, and there was not much there to commend itself to
 the statesmen of a country like Japan, who were earnestly seeking for
 ways and means of bringing peace to their distracted country. <span
-id="fr_487"></span>[1](#fn_485) Neither were they fortunate in the
+id="fr_487"></span>[1](#fn_485.md) Neither were they fortunate in the
 companions they brought with them, for all Europe in those days looked
 upon slavery as an institution not contrary to the law of Christ, and
 the Portuguese merchants, besides selling arms to restless daimyos whose
 activities were hindering the pacification of the country, did .a very
 considerable trade in Japanese slaves. <span
-id="fr_488"></span>[2](#fn_486) The Jesuits do not seem to have had
+id="fr_488"></span>[2](#fn_486.md) The Jesuits do not seem to have had
 anything to do with this trade themselves, but their reputation had to
 suffer for the ill deeds of their associates. In their mission work they
 neglected to hallow the Japanese language by consecrating it to the uses
-of Christian worship, <span id="fr_489"></span>[3](#fn_487) and they
+of Christian worship, <span id="fr_489"></span>[3](#fn_487.md) and they
 made the fatal mistake of allowing their young converts to ridicule and
 denounce the Buddhist clergy, and to urge the people to destroy temples
 and
 
 <span id="page_353">p. 353</span>
 
-shrines. <span id="fr_490"></span>[1](#fn_488) It is true that Nobunaga
+shrines. <span id="fr_490"></span>[1](#fn_488.md) It is true that Nobunaga
 and others did the same, but things which a native may do with impunity
 wear a very different aspect when done under the inspiration of a
 foreigner.
@@ -109,7 +109,7 @@ were united in their enmity against the Jesuits. But the Catholics
 themselves were disunited, and the Franciscans and Dominicans, coming
 under Spanish auspices, did much to thwart the Jesuits, who represented
 the Portuguese monopoly of trade and missionary effort. <span
-id="fr_491"></span>[2](#fn_489)
+id="fr_491"></span>[2](#fn_489.md)
 
 <span id="page_354">p. 354</span>
 
@@ -186,11 +186,11 @@ of four wealthy and populous provinces, and universally looked up to as
 the "coming man." In 1562, two years after his victory over Imagawa, he
 received from the Emperor Ōgimachi, the son of Go-Nara, who had
 succeeded in 1558 to the impoverished <span
-id="fr_492"></span>[1](#fn_490) Imperial throne, a secret commission
+id="fr_492"></span>[1](#fn_490.md) Imperial throne, a secret commission
 authorizing him to take steps for the pacification of the country.
 Nobunaga accepted the task, and set his hand to the work, being assisted
 therein by Hideyoshi and Tokugawa Iyeyasu, <span
-id="fr_493"></span>[2](#fn_491) who had passed into his service as a
+id="fr_493"></span>[2](#fn_491.md) who had passed into his service as a
 consequence of the defeat of the Imagawas. By 1568 he had overthrown the
 Saitō family in Mino, which he annexed, moving his own residence to
 Gifu, and had further spread his victorious arms into Ise.
@@ -292,7 +292,7 @@ defeated. Nobunaga not only enforced the penalty agreed upon, but
 further laid on the whole sect a money fine so heavy that the Nichiren
 priests were unable to pay it, and withdrew to remote provinces where
 Nobunaga's hand had not as yet made itself felt. <span
-id="fr_494"></span>[1](#fn_492)
+id="fr_494"></span>[1](#fn_492.md)
 
 Thus Nobunaga became the "scourge of God" to the worldly and
 carnal-minded priests of the various sects of Buddhism, and the Jesuit
@@ -354,7 +354,7 @@ him in the capacity of warders of a prison for political offenders. He
 laid a very heavy hand on the Monto priests, but, having done so, he
 used Kennio Kosa, who had contrived to escape Nobunaga's massacre of the
 bonzes at Ōsaka, as a political agent of his own in the territories of
-the Satsuma Daimyo. <span id="fr_495"></span>[1](#fn_493) When he
+the Satsuma Daimyo. <span id="fr_495"></span>[1](#fn_493.md) When he
 thought that he had reason to fear the influence of the Jesuits (as
 before he had seen reason to fear Hidetsugu), he suddenly dropped his
 mask of friendship and ordered the execution of the twenty-six victims
@@ -419,7 +419,7 @@ able to wait patiently until the nightingale sang to his tune. He was in
 a position to do so. Nobunaga and Hideyoshi had laboured at the
 unification of the Empire. Ieyasu had but one battle to fight: after
 Sekigahara, he was able to enter into the labours of his illustrious
-predecessors. <span id="fr_496"></span>[1](#fn_494) His talents were
+predecessors. <span id="fr_496"></span>[1](#fn_494.md) His talents were
 shown in the wonderful administrative
 
 <span id="page_364">p. 364</span>
@@ -502,7 +502,7 @@ when they set aside the testimony of His servants.
 
 ### Footnotes
 
-<span id="fn_484"></span>[351:1](chj30.htm#fr_486) For detailed
+<span id="fn_484"></span>[351:1](chj30.htm#fr_486.md) For detailed
 information on this period, the student is referred to papers in the
 *Transactions of the Asiatic Society of Japan*, by Sir Ernest Satow, Mr.
 Gubbins, the late Rev. J. Summers, and others. Also to the more recent
@@ -511,7 +511,7 @@ Haas, the "Christian Daimyos," by Father Steichen, and Murdoch and
 Yamagata's "History of Japan." Papinot's "Dictionnaire d'Histoire et de
 Géographie du Japon" gives very useful information.
 
-<span id="fn_485"></span>[352:1](chj30.htm#fr_487) We read of the
+<span id="fn_485"></span>[352:1](chj30.htm#fr_487.md) We read of the
 Jesuits sending some of their converts to Europe to show them the
 glories of the Catholic countries. But it was a dangerous remedy. One
 man, at least, went as a spy, got himself ordained, and then, returning
@@ -519,15 +519,15 @@ to Japan, threw off the mask, and became one of the most determined
 enemies of the Jesuits. And Iyeyasu sent a special envoy of his own, a
 man named Nishi Sōin (Murdoch, p. 495).
 
-<span id="fn_486"></span>[352:2](chj30.htm#fr_488) Murdoch, pp. 241,
+<span id="fn_486"></span>[352:2](chj30.htm#fr_488.md) Murdoch, pp. 241,
 242. See also what he says of the slur cast, through slave dealing, on
 the charitable institutions of the Jesuits, p. 76.
 
-<span id="fn_487"></span>[352:3](chj30.htm#fr_489) Thus, the Christian
+<span id="fn_487"></span>[352:3](chj30.htm#fr_489.md) Thus, the Christian
 converts from Buddhism went from the use of one unknown tongue to
 another. See what I say below about Ingen and the Ōbaku sect.
 
-<span id="fn_488"></span>[353:1](chj30.htm#fr_490) Murdoch, p. 241, etc.
+<span id="fn_488"></span>[353:1](chj30.htm#fr_490.md) Murdoch, p. 241, etc.
 Had the Jesuits, instead of constantly aiming at the conversion of the
 great men, and of then urging them to extirpate "heresy" and paganism
 within their dominions, been content to work quietly as a leaven amongst
@@ -536,7 +536,7 @@ wonderful tenacity of the humble folk of Urakami and Amakusa, who
 remained faithful through more than two centuries of relentless
 persecution, shows how strong they were in this kind of work.
 
-<span id="fn_489"></span>[353:2](chj30.htm#fr_491) The following extract
+<span id="fn_489"></span>[353:2](chj30.htm#fr_491.md) The following extract
 from Murdoch (p. 282) shows that the charges of political aggrandizement
 schemes ought to be laid at the door of the Shōgunate rather than at
 that of the Spaniards:—
@@ -556,33 +556,33 @@ missionaries, by accusing them of conspiring against the political
 liberties of Japan, was, to say the very least, for the pot to call the
 kettle black.
 
-<span id="fn_490"></span>[356:1](chj30.htm#fr_492) Ōgimachi had to wait
+<span id="fn_490"></span>[356:1](chj30.htm#fr_492.md) Ōgimachi had to wait
 for his coronation three years, the expenses of the festivities being
 ultimately defrayed by Mōri Motonari, who had ousted the Ōuchi family
 from Suwō and Yamaguchi.
 
-<span id="fn_491"></span>[356:2](chj30.htm#fr_493) The differences in
+<span id="fn_491"></span>[356:2](chj30.htm#fr_493.md) The differences in
 the characters of these three great men has been well summed up by the
 Japanese wit. "If you don't sing," said Nobunaga to a silent
 nightingale, "I'll wring your neck." "If you don't sing," said
 Hideyoshi, "I'll make you sing." "If you don't sing," said Iyeyasu,
 "I'll wait until you do."
 
-<span id="fn_492"></span>[359:1](chj30.htm#fr_494) Nobunaga never came
+<span id="fn_492"></span>[359:1](chj30.htm#fr_494.md) Nobunaga never came
 into collision with the Shingon priests. It was left for Hideyoshi to
 destroy their great monastery fortress of Negoro with its four thousand
 fighting priests.
 
-<span id="fn_493"></span>[361:1](chj30.htm#fr_495) The Monto priests
+<span id="fn_493"></span>[361:1](chj30.htm#fr_495.md) The Monto priests
 made themselves so much hated in Satsuma that, until comparatively
 recent years, they were not allowed to enter the province, and the
 Satsuma men have nearly always been hostile to Buddhism.
 
-<span id="fn_494"></span>[363:1](chj30.htm#fr_496) A well-known
+<span id="fn_494"></span>[363:1](chj30.htm#fr_496.md) A well-known
 caricature, reproduced by Father Papinot in his Dictionary, represents
 Nobunaga and Mitsuhide pounding the rice, Hideyoshi kneading the dough,
 and Ieyasu sitting apart and eating the cake.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX. The Buddhism of the Tokugawa Period](chj31)
+[Next: Chapter XXIX. The Buddhism of the Tokugawa Period](chj31.md)

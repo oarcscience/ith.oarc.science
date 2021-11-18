@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Next](ste01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Next](ste01.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,15 +53,15 @@ attribution accompanies all copies.
 <span id="img_front12"></span>
 
 [![Frontispiece](tn/front12.jpg)  
-Click to enlarge](img/front12.jpg)  
+Click to enlarge](img/front12.jpg.md)  
 Frontispiece  
 
 <span id="img_title12"></span>
 
 [![Title Page](tn/title12.jpg)  
-Click to enlarge](img/title12.jpg)  
+Click to enlarge](img/title12.jpg.md)  
 Title Page  
 
 ------------------------------------------------------------------------
 
-[Next: Dedication: To the King's Most Excellent Majesty](ste01)
+[Next: Dedication: To the King's Most Excellent Majesty](ste01.md)

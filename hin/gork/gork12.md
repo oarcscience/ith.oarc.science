@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork11)  [Next](gork13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork11)  [Next](gork13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ girls were playing along the way and amusing themselves by blowing horns
 and pipes made of palm-leaves. A light rain was falling and the roads
 were wet and muddy. <span class="margnote">Âbesha of
 Râmakrishna.</span>About four o'clock in the afternoon the Bhagavân came
-out of Ishân's <span id="fr_74"></span>[\*](#fn_74) house and entered a
+out of Ishân's <span id="fr_74"></span>[\*](#fn_74.md) house and entered a
 carriage which was waiting for Him at the door. Immediately after taking
 his seat He lost sense-consciousness and went  into that state of pure
 God-consciousness which He had often called His *Âbesha*. The disciples
@@ -39,7 +39,7 @@ followed their Divine
 
 <span class="contnote">\[paragraph continues\]</span> Master on foot,
 for they were eager to be present at this memorable meeting with Pandit
-Sasadhar, <span id="fr_75"></span>[\*](#fn_75) the great preacher of the
+Sasadhar, <span id="fr_75"></span>[\*](#fn_75.md) the great preacher of the
 Vedânta philosophy and religion.
 
 The Pandit was visiting a friend in Calcutta. As Srî Râmakrishna's
@@ -70,7 +70,7 @@ medicine has had time to take effect. "Fever-mixture" is therefore the
 order of the day. Teach them Karma if you like, but leave aside the head
 and tail of the fish. I tell people not to bother with the long ritual
 of Sandhyâ, but to repeat only the short Gâyatri. <span
-id="fr_76"></span>[\*](#fn_76) You are welcome to talk of work to such
+id="fr_76"></span>[\*](#fn_76.md) You are welcome to talk of work to such
 people if you must.
 
 <span id="page_264">p. 264</span>
@@ -437,7 +437,7 @@ but when the stick is removed, the apparent division ceases and the
 waters of the ocean remain undivided. The knowledge of this indivisible
 oneness brings the highest state of Samâdhi, where this egoism is
 entirely obliterated. But the great spiritual teachers like
-Sankarâchârya <span id="fr_77"></span>[\*](#fn_77) kept a little egoism
+Sankarâchârya <span id="fr_77"></span>[\*](#fn_77.md) kept a little egoism
 of knowledge to teach mankind.
 
 <span id="page_280">p. 280</span>
@@ -537,7 +537,7 @@ Râmakrishna (smiling): Well, I went to
 
 <span class="margnote">Pilgrimages.</span>some places. Hâzrâ went
 farther and higher up, to Hrishikesha <span
-id="fr_78"></span>[\*](#fn_78) in the Himâlayas. I did not go so far or
+id="fr_78"></span>[\*](#fn_78.md) in the Himâlayas. I did not go so far or
 so high up. The vulture and the kite soar very high, but their eyes are
 all the while directed to the charnel-pits below. Do you know what the
 charnel-pits are? Lust and gold. If in going on a pilgrimage a man does
@@ -634,7 +634,7 @@ the moon of the second lunar day. Do you know why I say the moon
 
 <span id="page_288">p. 288</span>
 
-of the second lunar day? Sitâ <span id="fr_79"></span>[\*](#fn_79) said
+of the second lunar day? Sitâ <span id="fr_79"></span>[\*](#fn_79.md) said
 to Râvana: "Thou art the full moon, and my Râma Chandra is the moon of
 the second lunar day." Râvana was highly pleased, for he did not
 understand the meaning. Sitâ meant to say that the fortune of Râvana had
@@ -650,25 +650,25 @@ followed by His disciples.
 
 ### Footnotes
 
-<span id="fn_74"></span>[261:\*](gork12.htm#fr_74) Ishân Chunder
+<span id="fn_74"></span>[261:\*](gork12.htm#fr_74.md) Ishân Chunder
 Mookerjee was a pious Brâhmin householder. He regarded Srî Râmakrishna
 as the Incarnation of Divine Wisdom.
 
-<span id="fn_75"></span>[262:\*](gork12.htm#fr_75) Pandit Sasadhar
+<span id="fn_75"></span>[262:\*](gork12.htm#fr_75.md) Pandit Sasadhar
 Tarkachurâmoni was a Sanskrit scholar of great renown and an eloquent
 preacher of the philosophy and religion of Vedânta. By his powerful
 speeches he succeeded in checking the materialistic tendency of the
 Hindu students of Bengal. He also gave rational explanations of the
 rituals and ceremonies described in the Hindu Scriptures.
 
-<span id="fn_76"></span>[263:\*](gork12.htm#fr_76) Gâyatri is the most
+<span id="fn_76"></span>[263:\*](gork12.htm#fr_76.md) Gâyatri is the most
 sacred and the most universally used of all Vedic prayers among the
 Hindus. It is a Sanskrit *Mantram* or formula which means: "Let us
 meditate on that glorious self-effulgent light of the Divine Sun; may He
 enlighten our *Buddhi* or understanding." This is still the daily prayer
 of all the Hindus of the upper three castes.
 
-<span id="fn_77"></span>[279:\*](gork12.htm#fr_77) Sankarâchârya was the
+<span id="fn_77"></span>[279:\*](gork12.htm#fr_77.md) Sankarâchârya was the
 greatest exponent of the Vedânta philosophy in India. He lived about the
 beginning of the eighth century of the Christian era. His Commentaries
 on the Upanishads, the Vedânta sutras, and on the Bhagavad Gitâ have
@@ -682,11 +682,11 @@ he reached the age of thirty-two. He <span id="page_280">p. 280</span>
 is regarded in India as the Incarnation of Shiva and the embodiment of
 Divine Wisdom.
 
-<span id="fn_78"></span>[284:\*](gork12.htm#fr_78) Hrishikesha is a
+<span id="fn_78"></span>[284:\*](gork12.htm#fr_78.md) Hrishikesha is a
 sacred place of pilgrimage on the banks of the holy river Ganges at the
 foot of the Himâlayas.
 
-<span id="fn_79"></span>[288:\*](gork12.htm#fr_79) Sitâ, the faithful
+<span id="fn_79"></span>[288:\*](gork12.htm#fr_79.md) Sitâ, the faithful
 and devoted wife of Lord Râma Chandra, who is regarded as an Incarnation
 of God. She was stolen by Râvana, King of Ceylon, who brought her to his
 capital, Lankâ. Hence the war described in the epic Râmâyana, which
@@ -694,4 +694,4 @@ ended with the destruction of Râvana and many of his people.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Gathering of Disciples at the Temple](gork13)
+[Next: Chapter X. Gathering of Disciples at the Temple](gork13.md)

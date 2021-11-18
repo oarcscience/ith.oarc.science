@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh01)  [Next](seh03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh01)  [Next](seh03.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ LIFE IN THE HINDU QUARTER OF CALCUTTA</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Margaret Noble: In Memoriam](seh03)
+[Next: Margaret Noble: In Memoriam](seh03.md)

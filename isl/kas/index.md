@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,18 +27,18 @@ entire composition, not matter how long the poem is.
 
 ------------------------------------------------------------------------
 
-[Title Page](kas00)  
-[Contents](kas01)  
-[To The Reader](kas02)  
-[I](kas03)  
-[II](kas04)  
-[III](kas05)  
-[IV](kas06)  
-[V](kas07)  
-[VI](kas08)  
-[VII](kas09)  
-[VIII](kas10)  
-[IX](kas11)  
-[Note I](kas12)  
-[Note II](kas13)  
-[Conclusion](kas14)  
+[Title Page](kas00.md)  
+[Contents](kas01.md)  
+[To The Reader](kas02.md)  
+[I](kas03.md)  
+[II](kas04.md)  
+[III](kas05.md)  
+[IV](kas06.md)  
+[V](kas07.md)  
+[VI](kas08.md)  
+[VII](kas09.md)  
+[VIII](kas10.md)  
+[IX](kas11.md)  
+[Note I](kas12.md)  
+[Note II](kas13.md)  
+[Conclusion](kas14.md)  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](toc) [Next](chap02)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](toc) [Next](chap02.md)
 
 ------------------------------------------------------------------------
 
@@ -180,4 +180,4 @@ was divine, they must have been revealed and made manifest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](chap02)
+[Next: Chapter 2](chap02.md)

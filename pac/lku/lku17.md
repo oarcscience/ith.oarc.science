@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku16)  [Next](lku18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku16)  [Next](lku18.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ To Ahu--to Ahu of I, of Lono,
 
 ------------------------------------------------------------------------
 
-[Next: Kalakaua And Liliuokalani's Genealogy](lku18)
+[Next: Kalakaua And Liliuokalani's Genealogy](lku18.md)

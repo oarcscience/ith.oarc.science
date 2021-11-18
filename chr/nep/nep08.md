@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep07)  [Next](nep09) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep07)  [Next](nep09.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ O God, accept me through thy Son.
 
 ------------------------------------------------------------------------
 
-[Next: Evening Prayer for a Child](nep09)
+[Next: Evening Prayer for a Child](nep09.md)

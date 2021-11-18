@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe248)  [Next](prwe250) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe248)  [Next](prwe250.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ the patient.
 
 ------------------------------------------------------------------------
 
-[Next: Sundry Charms](prwe250)
+[Next: Sundry Charms](prwe250.md)

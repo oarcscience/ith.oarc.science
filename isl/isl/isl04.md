@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl03)  [Next](isl05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl03)  [Next](isl05.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ forceful language, and the Arabic of the Qur’ān is by turns striking,
 soaring, vivid, terrible, tender and breathtaking. As Professor Gibb has
 put it, "No man in fifteen hundred years has ever played on that
 deeptoned instrument with such power, such boldness, and such range of
-emotional effect." <span id="fr_0"></span>[1](#fn_0) It is meaningless
+emotional effect." <span id="fr_0"></span>[1](#fn_0.md) It is meaningless
 to apply adjectives such as "beautiful" or "persuasive" to the Qur’ān;
 its flashing images and inexorable measures go directly to the brain and
 intoxicate it.
@@ -63,19 +63,19 @@ has become the true accents of the Eternal.
 The selections which follow here have been taken from Professor
 Arberry's translation, the only one in English which has succeeded in
 suggesting the extraordinary qualities of the original. <span
-id="fr_1"></span>[2](#fn_1)
+id="fr_1"></span>[2](#fn_1.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[16:1](isl04.htm#fr_0) <span id="page_243">p.
+<span id="fn_0"></span>[16:1](isl04.htm#fr_0.md) <span id="page_243">p.
 243</span> H. A. R. Gibb, *Mohammedanism* (2nd Ed.; New York, 1953), p.
 37.
 
-<span id="fn_1"></span>[16:2](isl04.htm#fr_1) A. J. Arberry, *The Koran
+<span id="fn_1"></span>[16:2](isl04.htm#fr_1.md) A. J. Arberry, *The Koran
 Interpreted* (New York, 1955).
 
 ------------------------------------------------------------------------
 
-[Next: 1. God Speaks to Man](isl05)
+[Next: 1. God Speaks to Man](isl05.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce29)  [Next](sce31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce29)  [Next](sce31.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ supernatural. It is most unlucky that Dr.
 \[paragraph continues\] Hickes distrusted his memory. However, it is
 something to feel assured that "a memorable story" was accepted at the
 time by the family of the bride, and was known to Lauderdale. <span
-id="fr_39"></span>[1](#fn_39) Lauderdale himself, by the way, was a
+id="fr_39"></span>[1](#fn_39.md) Lauderdale himself, by the way, was a
 psychical researcher, and accommodated Richard Baxter with some accounts
 of haunted houses, published in his *World of Spirits*. One story of a
 haunted house, where a spectral hand appeared, he gives on the authority
@@ -92,10 +92,10 @@ Edinburgh and London
 
 ### Footnotes
 
-<span id="fn_39"></span>[92:1](sce30.htm#fr_39) The letters to Pepys are
+<span id="fn_39"></span>[92:1](sce30.htm#fr_39.md) The letters to Pepys are
 quoted from his Correspondence, published as Vol. X. of his *Diary* (New
 York, 1885).
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](sce31)
+[Next: Advertisements](sce31.md)

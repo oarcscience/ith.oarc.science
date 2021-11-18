@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg85)  [Next](btg87) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg85)  [Next](btg87.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ his name.
 
 ------------------------------------------------------------------------
 
-[Next: The Sick Bhikkhu](btg87)
+[Next: The Sick Bhikkhu](btg87.md)

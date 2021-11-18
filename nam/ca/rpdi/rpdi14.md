@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi13)  [Next](rpdi15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi13)  [Next](rpdi15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ two quick gestures and two expulsions of the breath.
 
 This ceremony, called the otcam, is intended to keep the dead person
 from coming back; or, as one informant put it, "to make him done with
-this world." <span id="fr_93"></span>[87](#fn_93) The dead person's
+this world." <span id="fr_93"></span>[87](#fn_93.md) The dead person's
 plume is then buried in the center of the circle, the company grunting
 three times, and at the third time shoving in the dirt from all sides.
 
@@ -44,7 +44,7 @@ three times, and at the third time shoving in the dirt from all sides.
 
 ### Footnotes
 
-<span id="fn_93"></span>[311:87](rpdi14.htm#fr_93) The Luiseño term
+<span id="fn_93"></span>[311:87](rpdi14.htm#fr_93.md) The Luiseño term
 *unish matakish* (DuBois, op. cit., p. 92) applied to a corresponding
 ceremony has a similar meaning. Unish is not recognized at the present
 time. Matakish or matakihish is a verbal noun from the causative stem of
@@ -53,4 +53,4 @@ thing away"; "to loosen or untie it".
 
 ------------------------------------------------------------------------
 
-[Next: The Image-Burning](rpdi15)
+[Next: The Image-Burning](rpdi15.md)

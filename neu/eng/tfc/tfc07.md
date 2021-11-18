@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tfc06)  [Next](tfc08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tfc06)  [Next](tfc08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales from Chaucer*, by Charles Cowden Clarke, \[1833\], at Intangible
 Textual Heritage
 
@@ -349,7 +349,7 @@ After the lapse of some months the king, being compelled
 
 <span id="img_06500"></span> <span align="CENTER"> [![The
 Lawyer](tn/06500.jpg)  
-Click to enlarge](img/06500.jpg)  
+Click to enlarge](img/06500.jpg.md)  
 The Lawyer  
 </span>
 
@@ -594,4 +594,4 @@ AND NEXT BEGINS
 
 ------------------------------------------------------------------------
 
-[Next: The Student's Tale](tfc08)
+[Next: The Student's Tale](tfc08.md)

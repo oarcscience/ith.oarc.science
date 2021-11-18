@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah67)  [Next](oah69) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah67)  [Next](oah69.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ matters in Hautuon, and of the power of Jehovih manifested.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](oah69)
+[Next: Chapter XII](oah69.md)

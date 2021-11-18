@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](tpm03)  [Next](tpm05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](tpm03)  [Next](tpm05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *The Twelve Powers of Man*, by Charles Fillmore, \[1930\], at Intangible
 Textual Heritage
 
@@ -305,4 +305,4 @@ dead by a resurrection."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](tpm05)
+[Next: Chapter 3](tpm05.md)

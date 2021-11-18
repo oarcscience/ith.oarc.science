@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](khz01)  [Next](khz03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](khz01)  [Next](khz03.md) 
 
 ------------------------------------------------------------------------
 
@@ -257,7 +257,7 @@ worldly prosperity; but immediately after it is said: 'My covenant will
 I establish with Isaac' (v. 21), which refers to his connexion with the
 divine influence and happiness in the world to come. Neither Ishmael nor
 Esau could boast of a covenant, although they were otherwise prosperous.
-Jealousy arose between [Jacob](errata.htm#1) and Esau for the birthright
+Jealousy arose between [Jacob](errata.htm#1.md) and Esau for the birthright
 and blessing, but Esau was rejected in favour of Jacob, in spite of his
 strength and the latter's weakness. Jeremiah's prophecy concerning Egypt
 was uttered in Egypt itself. This was also the case with Moses, Aaron
@@ -1111,10 +1111,10 @@ offerings due on account of private happenings, impurity, child-bed,
 issue, leprosy, and many other things. All this is regulated by divine
 command, without \[human\] speculation. It is not possible for man to
 determine the relative importance of each, and he need not fear any
-[deterioration](errata.htm#2) in them. It is as if He assessed Israel,
+[deterioration](errata.htm#2.md) in them. It is as if He assessed Israel,
 and measured them as well as the harvests of Palestine as regards
 vegetable and animal life. He also considered the tribe of Levi, and
-ordained these [assessments](errata.htm#3) in the desert, because he
+ordained these [assessments](errata.htm#3.md) in the desert, because he
 knew that, as long as they were not infringed, Israel would retain its
 surplus, and the Levite would not be in want. It never could come to
 such a pass that a tribe or family would be reduced to poverty, because
@@ -1446,7 +1446,7 @@ article, as in ‏הָעוֹלָה הִיא לִמָעְלָה‎
 and other cases. The euphony and structure of speech is increased by the
 sequence of two vowelless consonants, which enables a whole congregation
 to read Hebrew simultaneously without mistakes. Other rules apply to the
-musical [accents](errata.htm#4). For the vowel sounds are divided in
+musical [accents](errata.htm#4.md). For the vowel sounds are divided in
 Hebrew into three classes, viz. U-sound, A-sound, and I-sound; or in
 another division: great U-sound, or *Qāmeṣ*, medium U-sound, or *Ḥōlem*;
 little U-sound, or *Shūreq*; great A-sound, or *Pataḥ*; little A-sound
@@ -1465,8 +1465,8 @@ a consonant as ‏שׁור‎ and ‏שׂמׂאל‎. The vowel letters after �
 second form, but not in the first. *Shūreq* is free for all three forms.
 It can be followed by a vowel letter, or dāgēsh, or vowelless consonant.
 Its long vowel is expressed by *wāw* only as, ‏לו‎, ‏ללון‎ and ‏לֻקח‎.
-[*Ḥīreq*](errata.htm#5) follows the rule of *Shūreq* as in ‏לין‎, ‏לי‎
-and ‏לבי‎. *Pataḥ*, and [*Sēgōl*](errata.htm#6) are not followed by a
+[*Ḥīreq*](errata.htm#5.md) follows the rule of *Shūreq* as in ‏לין‎, ‏לי‎
+and ‏לבי‎. *Pataḥ*, and [*Sēgōl*](errata.htm#6.md) are not followed by a
 vowel letter in the first form, but are lengthened by the second form,
 either for the sake of emphasis, or on account of the accent, or in the
 pause
@@ -1497,7 +1497,7 @@ speech, shortens one long syllable as in ‏שמתי‎ and ‏ושמתי‎. It
 obvious that the pronunciation of ‏פעל‎ and similar forms is contrary to
 its vocalisation, the second syllable being lengthened in spite of the
 Pataḥ, whilst the first is read short in spite of the
-[Qāmeṣ](errata.htm#7). The heightening of the second syllable is due to
+[Qāmeṣ](errata.htm#7.md). The heightening of the second syllable is due to
 the tone, but not to make it slightly longer. Words as ‏אמר-לי‎ and
 ‏עשה-לי‎ (Gen. xx. 5; xxi. 6)
 
@@ -1546,7 +1546,7 @@ undergo no change in the *status constructus*, as do ‏נהר‎ and ‏קהל�
 ‏אעשה‎, ‏יעשה‎, ‏אבנה‎ and ‏אקנה‎ with Sēgōl and vowel letters. If we
 consider the first instance, we find it to be a form ‏אפעל‎, ‏יפעל‎, the
 second radical not being long, but always forming a closed syllable with
-Pataḥ. We are now to read ‏אעשֶה‎ instead of [Pataḥ](errata.htm#8),
+Pataḥ. We are now to read ‏אעשֶה‎ instead of [Pataḥ](errata.htm#8.md),
 because no A-sound can precede a silent *hē*, unless it be Qāmeṣ. Qāmeṣ
 is long, whilst the second radical of a verb can never have a long
 vowel, except when read with a vowel, or when followed by Alef as in
@@ -1595,7 +1595,7 @@ although
 
 syntactically speaking the words stand only virtually in pause. There
 are many instances that the Sēgōl after Zarqā has the force of Athnaḥ,
-or sōf [pāsūq](errata.htm#9), or Zākēf, causing an alteration of the
+or sōf [pāsūq](errata.htm#9.md), or Zākēf, causing an alteration of the
 first form. If I wished to enlarge an the subject, the book would become
 too lengthy. I only desired to give thee a taste of this profound study,
 which is not built on hap-hazard, but on fixed rules.
@@ -1611,4 +1611,4 @@ Finished is the second part, and we begin --
 
 ------------------------------------------------------------------------
 
-[Next: Part Three](khz03)
+[Next: Part Three](khz03.md)

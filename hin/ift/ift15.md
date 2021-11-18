@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift14) 
-[Next](ift16) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift14.md) 
+[Next](ift16.md) 
 
 ------------------------------------------------------------------------
 
 # A Lac of Rupees for a Bit of Advice
 
 <span id="img_41"></span> [![](tn/41.jpg)  
-Click to enlarge](img/41.jpg)
+Click to enlarge](img/41.jpg.md)
 
 <span id="img_42"></span> ![](img/42.jpg) POOR blind Brahman and his
 wife were dependent on their son for their subsistence. Every day the
@@ -242,4 +242,4 @@ having sent him away, and all was joy and peace again.
 
 ------------------------------------------------------------------------
 
-[Next: The Gold-Giving Serpent](ift16)
+[Next: The Gold-Giving Serpent](ift16.md)

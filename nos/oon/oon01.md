@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon00)  [Next](oon02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon00)  [Next](oon02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -46,4 +46,4 @@ Mr. C. A. W.
 
 ------------------------------------------------------------------------
 
-[Next: Three Prophecies of Old Time](oon02)
+[Next: Three Prophecies of Old Time](oon02.md)

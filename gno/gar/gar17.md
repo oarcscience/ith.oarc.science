@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar16)  [Next](gar18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar16)  [Next](gar18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -59,7 +59,7 @@ time, copiously to illustrate the important contributions of Zoroastrian
 doctrine towards the composition of Gnosticism. The Mithraic religion,
 according to Plutarch, first made its appearance in Italy upon Pompey's
 reduction of the Cilician Pirates, of whom it was the national
-worship; <span id="fr_43"></span>[\*](#fn_42) a and who, when broken up
+worship; <span id="fr_43"></span>[\*](#fn_42.md) a and who, when broken up
 into colonists and slaves all over Italy, propagated it amongst their
 conquerors. In the new soil the novel religion flourished so rapidly as,
 in the space of two centuries, to supersede (coupled with the earlier
@@ -194,7 +194,7 @@ namesake, the Emesene aerolite, apt emblem of the Sun; "bringing
 together in his temple the Fire of Vesta, the Palladium, the Ancilia,
 and all the other most venerated relics; and moreover the *religion* of
 the Jews and Samaritans, and the *devotion* <span
-id="fr_44"></span>[\*](#fn_43) of the Christians." (Lampridius 3). To
+id="fr_44"></span>[\*](#fn_43) of the Christians." (Lampridius 3.md). To
 such a heterogeneous union that numerous section of the Roman public who
 shared Macrobius’ sentiments on the nature of all ancient gods, could
 have found no possible objection so far as the *principle* was
@@ -222,7 +222,7 @@ Through a similar interchange, the old festival held on the 25th day of
 December in honour of the "Birth-day of the Invincible One," and
 celebrated by the Great Games of the Circus (as marked in the Kalendar
 "viii KAL.IAN. N. INVICTI. C. M. xxiv" <span
-id="fr_45"></span>[†](#fn_44)) was afterwards transferred to the
+id="fr_45"></span>[†](#fn_44).md) was afterwards transferred to the
 commemoration of the Birth of Christ, of which the real day was, as the
 Fathers
 
@@ -278,7 +278,7 @@ of the nature and office of Mithras coincide with the definition of
 those of Christ as given by the author of the Epistle to the Hebrews,
 that profound Jewish theologian, who styles Him the "Brightness (or
 *reflection*) of his glory, the express *image* <span
-id="fr_46"></span>[\*](#fn_45) of his person, upholding all things by
+id="fr_46"></span>[\*](#fn_45.md) of his person, upholding all things by
 the word of his power;" and again, "being made so much better than the
 angels as he hath by inheritance obtained a more excellent *Name* than
 they," and here it may be observed that the *Reflection* of the
@@ -302,7 +302,7 @@ understand from a Scriptural point of view.
 
 ### Footnotes
 
-<span id="fn_42"></span>[115:\*](gar17.htm#fr_43) This deity, under
+<span id="fn_42"></span>[115:\*](gar17.htm#fr_43.md) This deity, under
 other titles, had ever been the great god of Pontus. As patron of Sinope
 he appears under the form of Helios-Dionysos, upon the medallion of
 Pharnaces II. In his proper name he was the patron of Trebizond, being
@@ -312,19 +312,19 @@ punished by Diocletian, was adopted, in the succeeding times of
 superstition, for the tutelary saint of the Byzantine Empire of
 Trebizond.
 
-<span id="fn_43"></span>[119:\*](gar17.htm#fr_44) This curious
+<span id="fn_43"></span>[119:\*](gar17.htm#fr_44.md) This curious
 distinction between "religio" and "devotio," is meant to mark the
 difference between a national and established creed and one held by
 individuals, without any public sanction.
 
-<span id="fn_44"></span>[119:†](gar17.htm#fr_45) Signifying that
+<span id="fn_44"></span>[119:†](gar17.htm#fr_45.md) Signifying that
 twenty-four consecutive races of chariots were exhibited on that
 occasion in the Circus. Maximus.
 
-<span id="fn_45"></span>[121:\*](gar17.htm#fr_46) Ἀπαύγασμα--χαρακτήρ,
+<span id="fn_45"></span>[121:\*](gar17.htm#fr_46.md) Ἀπαύγασμα--χαρακτήρ,
 the latter word literally "impression of a seal," is the exact
 counterpart of the Hebrew title, "Tikkan," the Primal Emanation.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Mithraic Sacraments](gar18)
+[Next: II. The Mithraic Sacraments](gar18.md)

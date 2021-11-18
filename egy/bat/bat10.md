@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](bat09)  [Next](bat11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](bat09)  [Next](bat11.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Osiris, and the Majesty of this god
 
 addresseth words to the Hall of the gods who dwell therein. This god
 performeth all the rites proper \[for entering\] this Hall, and he
-advanceth on his way [against](errata.htm#0) Apep by means of the words
+advanceth on his way [against](errata.htm#0.md) Apep by means of the words
 of power of Isis, and by means of the words of power of the Sovereign
 God. The name of the gate of this City wherethrough passeth this god is
 RUTI-ASAR. The name of this City is THEPHET-SHETA. The name of the hour
@@ -31,7 +31,7 @@ KHEFTES-HAU-HESQET-\[NEHA\]-HRA."
  
 
 <span id="img_14000"></span> [![](tn/generic.jpg)  
-Click to view](img/14000.jpg)  
+Click to view](img/14000.jpg.md)  
 The Boat of Af, the dead Sun-god, in the Seventh Hour.
 
  
@@ -70,7 +70,7 @@ he is tying a fetter. The text which refers to him reads:
  
 
 <span id="img_14200"></span> [![](tn/generic.jpg)  
-Click to view](img/14200.jpg)  
+Click to view](img/14200.jpg.md)  
 The serpent Neha-hra being fettered by Serqet and Her-tesu-f.
 
  
@@ -94,7 +94,7 @@ of those of whose water NEHA-HRA drinketh."
  
 
 <span id="img_14300"></span> [![](tn/generic.jpg)  
-Click to view](img/14300.jpg)  
+Click to view](img/14300.jpg.md)  
 Temtith.     Tenith.     Nakith.     Hetemtit.
 
  
@@ -118,11 +118,11 @@ the
  
 
 <span id="img_14400"></span> [![](tn/generic.jpg)  
-Click to view](img/14400.jpg)  
+Click to view](img/14400.jpg.md)  
 (*Left*) The coffer of Tem. (*Right*) The coffer of Khepera.
 
 <span id="img_14401"></span> [![](tn/generic.jpg)  
-Click to view](img/14401.jpg)  
+Click to view](img/14401.jpg.md)  
 (*Left*) The coffer of RA. (*Right*) The coffer of Osiris.
 
  
@@ -153,7 +153,7 @@ has no water, and none to tow. He maketh his way by means of
  
 
 <span id="img_14600"></span> [![](tn/generic.jpg)  
-Click to view](img/14600.jpg)  
+Click to view](img/14600.jpg.md)  
 (*Left*) Neb-Uast. (*Right*) Seth-ab (?).
 
  
@@ -181,7 +181,7 @@ In the upper register are:--
  
 
 <span id="img_14700"></span> [![](tn/generic.jpg)  
-Click to view](img/14700.jpg)  
+Click to view](img/14700.jpg.md)  
 (Left) Shepes. (Center) Ath. (Right) Ankhuithit.
 
  
@@ -217,7 +217,7 @@ magical power, and shalt prevail by magical
  
 
 <span id="img_14900"></span> [![](tn/generic.jpg)  
-Click to view](img/14900.jpg)  
+Click to view](img/14900.jpg.md)  
 (*Left*) Afu-Asar under the serpent Mehen. (*Right*) The beheading of
 the enemies of Osiris.
 
@@ -245,7 +245,7 @@ hands of a god called ANKU. The passage which refers to these reads:
  
 
 <span id="img_15000"></span> [![](tn/generic.jpg)  
-Click to view](img/15000.jpg)  
+Click to view](img/15000.jpg.md)  
 Anku fettering the foes of Osiris.
 
  
@@ -255,11 +255,11 @@ Anku fettering the foes of Osiris.
  
 
 <span id="img_15100"></span> [![](tn/generic.jpg)  
-Click to view](img/15100.jpg)  
+Click to view](img/15100.jpg.md)  
 (*Left*) Sa-Tathenen. (*Right*) The serpent Afu-Tem.
 
 <span id="img_15101"></span> [![](tn/generic.jpg)  
-Click to view](img/15101.jpg)  
+Click to view](img/15101.jpg.md)  
 Divine Souls of the Seventh Hour.
 
  
@@ -289,7 +289,7 @@ In the lower register are:--
  
 
 <span id="img_15400"></span> [![](tn/generic.jpg)  
-Click to view](img/15400.jpg)  
+Click to view](img/15400.jpg.md)  
 Heru-her-khent-f.
 
  
@@ -322,11 +322,11 @@ number, who stand each with a star on his head. Their names are:--
  
 
 <span id="img_15500"></span> [![](tn/generic.jpg)  
-Click to view](img/15500.jpg)  
+Click to view](img/15500.jpg.md)  
 Ur-kert. Kekhert. Neb-khert-ta. Tuati. Hiat. Hi-khu-. . . .
 
 <span id="img_15501"></span> [![](tn/generic.jpg)  
-Click to view](img/15501.jpg)  
+Click to view](img/15501.jpg.md)  
 Emta-a. Teser-a. Emma-a. Sem-nes-f. Tesem-em-maat-f. Seqer-tepu.
 
  
@@ -368,11 +368,11 @@ the right, having each a star on her head. Their names are:--
  
 
 <span id="img_15700"></span> [![](tn/generic.jpg)  
-Click to view](img/15700.jpg)  
+Click to view](img/15700.jpg.md)  
 Goddesses of the Hours.
 
 <span id="img_15701"></span> [![](tn/generic.jpg)  
-Click to view](img/15701.jpg)  
+Click to view](img/15701.jpg.md)  
 Goddesses of the Hours.
 
  
@@ -402,7 +402,7 @@ The text relating to the goddesses of the hours reads:
  
 
 <span id="img_15800"></span> [![](tn/generic.jpg)  
-Click to view](img/15800.jpg)  
+Click to view](img/15800.jpg.md)  
 Goddesses of the Hours.
 
  
@@ -421,7 +421,7 @@ into the beautiful Amentet in peace." The text goes on to say:
  
 
 <span id="img_15900"></span> [![](tn/generic.jpg)  
-Click to view](img/15900.jpg)  
+Click to view](img/15900.jpg.md)  
 The crocodile Ab-sha-am-Tuat.
 
  
@@ -447,4 +447,4 @@ Whosoever knoweth this \[picture\] AB-SHAU shall not devour his soul."
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. The Eighth Division of the Tuat, Which Is Called
-Tebat-Neteru-s](bat11)
+Tebat-Neteru-s](bat11.md)

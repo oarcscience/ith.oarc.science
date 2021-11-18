@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fjo25)  [Next](fjo27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fjo25)  [Next](fjo27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R142/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R142/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Notes on the Folklore of the Fjort*, by Richard Edward Dennett,
 \[1898\], at Intangible Textual Heritage
 
@@ -170,6 +170,6 @@ then killed him.
 ------------------------------------------------------------------------
 
 [Next: XXIV. The Fight Between The Two Fetishes, Lifuma And
-Chimpukela.](fjo27)
+Chimpukela.](fjo27.md)
 
 </div>

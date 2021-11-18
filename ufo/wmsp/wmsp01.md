@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](wmsp00)  [Next](wmsp02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](wmsp00)  [Next](wmsp02.md) 
 
 ------------------------------------------------------------------------
 
@@ -471,4 +471,4 @@ speeches.
 
 ------------------------------------------------------------------------
 
-[Next: Betty's Account](wmsp02)
+[Next: Betty's Account](wmsp02.md)

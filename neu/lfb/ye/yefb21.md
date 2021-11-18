@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb20)  [Next](yefb22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb20)  [Next](yefb22.md) 
 
 </div>
 
@@ -254,6 +254,6 @@ lived to a good old age, universally beloved and admired.
 
 ------------------------------------------------------------------------
 
-[Next: Fairer-than-a-Fairy](yefb22)
+[Next: Fairer-than-a-Fairy](yefb22.md)
 
 </div>

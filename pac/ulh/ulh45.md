@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh44)  [Next](ulh46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh44)  [Next](ulh46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -45,14 +45,14 @@ He ú-i, he ninau:
 E ú-i aku ana au ia oe,  
 Ala i-he’a ka wai a Kane?  
 Aia i ka hikina a ka La,  
-5 Puka i Hae-hae; <span id="fr_526"></span>[a](#fn_510)  
+5 Puka i Hae-hae; <span id="fr_526"></span>[a](#fn_510.md)  
 Aia i-laila ka Wai a Kane.
 
 E ú-i aku ana au ia oe,  
 Aia i-hea ka Wai a Kane?  
-Aia i Kau-lana-ka-la, <span id="fr_527"></span>[b](#fn_511)  
-10 I ka pae opua i ke kai, <span id="fr_528"></span>[c](#fn_512)  
-Ea mai ana ma Nihoa, <span id="fr_529"></span>[d](#fn_513)
+Aia i Kau-lana-ka-la, <span id="fr_527"></span>[b](#fn_511.md)  
+10 I ka pae opua i ke kai, <span id="fr_528"></span>[c](#fn_512.md)  
+Ea mai ana ma Nihoa, <span id="fr_529"></span>[d](#fn_513.md)
 
 </div>
 
@@ -73,8 +73,8 @@ E ú-i aku ana au ia oe,
 20 Aia i-hea ka Wai a Kane?  
 Aia i-kai, i ka moana,  
 I ke Kua-lau, i ke anuenue,  
-I ka punohu, <span id="fr_530"></span>[a](#fn_514) i ka ua-koko, <span
-id="fr_531"></span>[b](#fn_515)  
+I ka punohu, <span id="fr_530"></span>[a](#fn_514.md) i ka ua-koko, <span
+id="fr_531"></span>[b](#fn_515.md)  
 I ka alewa-lewa:  
 25 Aia i-laila ka Wai a Kane.
 
@@ -89,7 +89,7 @@ Aia i-laila ka Wai a Kane.
 E ú-i aku ana au ia oe.  
 Aia i-hea ka Wai a Kane?  
 35 Aia i-lalo, i ka honua, i ka Wai hu,  
-I ka wai kau a Kane me Kanaloa-- <span id="fr_532"></span>[c](#fn_516)  
+I ka wai kau a Kane me Kanaloa-- <span id="fr_532"></span>[c](#fn_516.md)  
 He wai-puna, he wai e inu,  
 He wai e mana, he wai e ola.  
 E ola no, e-a!
@@ -168,11 +168,11 @@ The water of life!
 
 ### Footnotes
 
-<span id="fn_510"></span>[257:a](ulh45.htm#fr_526) *Hae-hae*. Heaven's
+<span id="fn_510"></span>[257:a](ulh45.htm#fr_526.md) *Hae-hae*. Heaven's
 eastern gate; the portal in the solid walls that supported the heavenly
 dome, through which the sun entered in the morning.
 
-<span id="fn_511"></span>[257:b](ulh45.htm#fr_527) *Kau-Lana-ka-la*.
+<span id="fn_511"></span>[257:b](ulh45.htm#fr_527.md) *Kau-Lana-ka-la*.
 When the setting sun, perhaps by an optical illusion drawn out into a
 boatlike form, appeared to be floating on the surface of the ocean, the
 Hawaiians named the phenomenon *Kau-lana-ka-la*--the floating of the
@@ -180,25 +180,25 @@ sun. Their fondness for personification showed itself in the final
 conversion of this phrase into something like a proper name, which they
 applied to the locality of the phenomenon.
 
-<span id="fn_512"></span>[257:c](ulh45.htm#fr_528) *Pae opua i ke kai*.
+<span id="fn_512"></span>[257:c](ulh45.htm#fr_528.md) *Pae opua i ke kai*.
 Another instance of name-giving, applied to the bright clouds that seem
 to rest on the horizon, especially to the west.
 
-<span id="fn_513"></span>[257:d](ulh45.htm#fr_529) *Nihoa* (Bird
+<span id="fn_513"></span>[257:d](ulh45.htm#fr_529.md) *Nihoa* (Bird
 Island). This small rock to the northwest of Kauai, though far below the
 horizon, is here spoken of as if it were in sight.
 
-<span id="fn_514"></span>[258:a](ulh45.htm#fr_530) *Punohu*. A red
+<span id="fn_514"></span>[258:a](ulh45.htm#fr_530.md) *Punohu*. A red
 luminous cloud, or a halo, regarded as an omen portending some sacred
 and important event.
 
-<span id="fn_515"></span>[258:b](ulh45.htm#fr_531) *Ua-koko*. Literally
+<span id="fn_515"></span>[258:b](ulh45.htm#fr_531.md) *Ua-koko*. Literally
 bloody rain, a term applied to a rainbow when lying near the ground, or
 to a freshet-stream swollen with the red muddy water from the wash of
 the hillsides. These were important omens, claimed as marking the birth
 of tabu chiefs.
 
-<span id="fn_516"></span>[258:c](ulh45.htm#fr_532) *Wai kau a Kane me
+<span id="fn_516"></span>[258:c](ulh45.htm#fr_532.md) *Wai kau a Kane me
 Kanaloa*. Once when Kane and Kanaloa were journeying together Kanaloa
 complained of thirst. Kane thrust his staff into the pali near at hand,
 and out flowed a stream of pure water that has continued to the present
@@ -206,4 +206,4 @@ day. The place is at Keanae, Maui.
 
 ------------------------------------------------------------------------
 
-[Next: XLII.--General Review](ulh46)
+[Next: XLII.--General Review](ulh46.md)

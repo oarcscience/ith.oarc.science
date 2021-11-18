@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](aww04)  [Next](aww06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](aww04)  [Next](aww06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JOQK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Art of Worldly Wisdom*, by Balthasar Gracian, tr. by Joseph Jacobs,
 \[1892\], at Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ in the various emergencies of life. The former have written aphorisms,
 the latter maxims. Where the aphorism states a fact of human nature, a
 maxim advises a certain course of action. The aphorism is written in the
 indicative, the maxim in an imperative mood. <span
-id="fr_9"></span>[1](#fn_9) "Life is interesting if not happy,"
+id="fr_9"></span>[1](#fn_9.md) "Life is interesting if not happy,"
 
 <span id="page_xxvii">p. xxvii</span>
 
@@ -169,7 +169,7 @@ can in almost all cases trace Talmudic proverbs to their authors; or, in
 other words, Talmudic proverbs remain maxims. There is only one
 analogous case in English; a few of Benjamin Franklin's maxims, *e.g.*
 "Three removes are as good as a fire," <span
-id="fr_10"></span>[1](#fn_10) have become proverbs.
+id="fr_10"></span>[1](#fn_10.md) have become proverbs.
 
 The abundance of proverbs is extraordinary. There is a whole
 bibliography devoted to the literature of proverbs (Duplessis,
@@ -198,7 +198,7 @@ action. To the Spaniards has been well applied the witticism about
 Charles II.: "They never said a foolish thing and never did a wise one."
 Certainly if proverbs be a proof of wisdom the Spaniards have given
 proofs in abundance. Don Quixote is full of them and the Spanish
-collections are [extraordinarily](errata.htm#5) rich. Now the nation
+collections are [extraordinarily](errata.htm#5.md) rich. Now the nation
 that can produce good proverbs should be able to produce good maxims;
 hence we should expect the best book of maxims to emanate from a
 Spaniard.
@@ -222,13 +222,13 @@ should have the quaintness to attract attention.
 
 ### Footnotes
 
-<span id="fn_9"></span>[xxvi:1](aww05.htm#fr_9) Not to be misleading, I
+<span id="fn_9"></span>[xxvi:1](aww05.htm#fr_9.md) Not to be misleading, I
 may mention that Gracian's are generally in the infinitive.
 
-<span id="fn_10"></span>[xxxiii:1](aww05.htm#fr_10) Most persons have
+<span id="fn_10"></span>[xxxiii:1](aww05.htm#fr_10.md) Most persons have
 heard the cynical continuation of a modern: "Three fires are as good as
 a failure and three failures are as good as a fortune."
 
 ------------------------------------------------------------------------
 
-[Next: III Of the ''Oráculo Manual''](aww06)
+[Next: III Of the ''Oráculo Manual''](aww06.md)

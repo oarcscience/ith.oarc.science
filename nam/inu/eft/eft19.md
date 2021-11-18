@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft18)  [Next](eft20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft18)  [Next](eft20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -35,4 +35,4 @@ ill-tempered, lying, thieving lot.
 
 ------------------------------------------------------------------------
 
-[Next: MAKÍTE](eft20)
+[Next: MAKÍTE](eft20.md)

@@ -1,8 +1,8 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Celtic
-Fairies](../../celt/index.htm#fairies)  [Index](index) 
-[Previous](cof08)  [Next](cof10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index.md)  [Celtic
+Fairies](../../celt/index.htm#fairies)  [Index](index.md) 
+[Previous](cof08)  [Next](cof10.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,14 +137,14 @@ illustrates
 <span id="img_12800"></span>
 
 [![A VIEW OF THE BECK IN 1921](tn/12800.jpg)  
-Click to enlarge](img/12800.jpg)  
+Click to enlarge](img/12800.jpg.md)  
 A VIEW OF THE BECK IN 1921  
 
 <span id="img_12900"></span>
 
 [![THE TWO GIRLS NEAR THE SPOT WHERE THE LEAPING FAIRY WAS TAKEN IN
 1920](tn/12900.jpg)  
-Click to enlarge](img/12900.jpg)  
+Click to enlarge](img/12900.jpg.md)  
 THE TWO GIRLS NEAR THE SPOT WHERE THE LEAPING FAIRY WAS TAKEN IN 1920  
 
  
@@ -484,7 +484,7 @@ of horses is somewhat out of the picture,
 <span id="img_14400"></span>
 
 [![THE PHOTOGRAPH FROM CANADA](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 THE PHOTOGRAPH FROM CANADA  
 
  
@@ -618,4 +618,4 @@ the woods and the wilderness of the moorland.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Some Subsequent Cases](cof10)
+[Next: Chapter VII. Some Subsequent Cases](cof10.md)

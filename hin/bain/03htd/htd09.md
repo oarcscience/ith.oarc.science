@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd08)  [Next](htd10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd08)  [Next](htd10.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ of the past.
 
 ------------------------------------------------------------------------
 
-[Next: Shríphala](htd10)
+[Next: Shríphala](htd10.md)

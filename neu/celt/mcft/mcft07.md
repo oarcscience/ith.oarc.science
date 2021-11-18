@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mcft06)  [Next](mcft08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mcft06)  [Next](mcft08.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ was no envy on him ever to have a dream again.
 
 ------------------------------------------------------------------------
 
-[Next: Morraha](mcft08)
+[Next: Morraha](mcft08.md)

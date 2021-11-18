@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc02)  [Next](blc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc02)  [Next](blc04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ political importance of the city of Babylon. And we now know from the
 fragments of tablets which have been excavated in recent years by German
 Assyriologists at Ḳal'at Sharḳât (or Shargat, or Shar'at), that in the
 city of Ashur, the god Ashur, the national god of Assyria, actually
-occupied in texts <span id="fr_1"></span>[2](blc17.htm#fn_1) of the
+occupied in texts <span id="fr_1"></span>[2](blc17.htm#fn_1.md) of the
 Legend in use there the position which Marduk held in four of the
 Legends current in Babylonia. There is reason for thinking that the
 original hero of the Legend was Enlil (Bel), the great god of Nippur
@@ -38,10 +38,10 @@ the Legend was usurped at Babylon by Marduk.
 
 <span id="img_002"></span> <span align="CENTER"> [![Excavations in
 Babylonia and Assyria.](tn/002.png)  
-Click to enlarge](img/002.png)  
+Click to enlarge](img/002.png.md)  
 Excavations in Babylonia and Assyria.  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Variant Forms of the Babylonian Legend of the Creation](blc04)
+[Next: Variant Forms of the Babylonian Legend of the Creation](blc04.md)

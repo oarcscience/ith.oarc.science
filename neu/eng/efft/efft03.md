@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft02)  [Next](efft04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft02)  [Next](efft04.md) 
 
 ------------------------------------------------------------------------
 
-# THE PRINCESS OF COLCHESTER.  <span id="fr_2"></span>[1](#fn_2)
+# THE PRINCESS OF COLCHESTER.  <span id="fr_2"></span>[1](#fn_2.md)
 
 <span id="img_04"></span> [![](tn/04.jpg)  
-Click to enlarge](img/04.jpg)  
+Click to enlarge](img/04.jpg.md)  
 "WITH A SILVER COMB PERFORMED THE OFFICE."
 
 LONG before Arthur and the Knights of the Round Table, there reigned in
@@ -142,10 +142,10 @@ many years mending shoes, his wife spinning thread.
 
 ### Footnotes
 
-<span id="fn_2"></span>[1](efft03.htm#fr_2) From *The History of the
+<span id="fn_2"></span>[1](efft03.htm#fr_2.md) From *The History of the
 Four Kings of Canterbury, Colchester, Cornwall, and Cumberland, their
 Queens and Daughter*s. Chap-book, Falkirk, 1823.
 
 ------------------------------------------------------------------------
 
-[Next: Mr Fox](efft04)
+[Next: Mr Fox](efft04.md)

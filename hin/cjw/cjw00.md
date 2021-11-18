@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](cjw01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](cjw01.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,31 +27,31 @@
 <span id="img_cover"></span>
 
 [![Front Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover  
 
 <span id="img_title"></span>
 
 [![Title Page: N.B. bound-in note giving location as 'Pasadena 15,
 California'](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page: N.B. bound-in note giving location as 'Pasadena 15,
 California'  
 
 <span id="img_title2"></span>
 
 [![Title Page](tn/title2.jpg)  
-Click to enlarge](img/title2.jpg)  
+Click to enlarge](img/title2.jpg.md)  
 Title Page  
 
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Cover material](cjw01)
+[Next: Cover material](cjw01.md)

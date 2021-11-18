@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe129)  [Next](prwe131) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe129)  [Next](prwe131.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ this monument of St Kea's sincere belief.
 
 ------------------------------------------------------------------------
 
-[Next: St German's Well](prwe131)
+[Next: St German's Well](prwe131.md)

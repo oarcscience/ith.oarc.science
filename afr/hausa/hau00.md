@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Next](hau01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Next](hau01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hausa Folk-Lore*, by Maalam Shaihua, tr. by R. Sutherland Rattray,
 \[1913\], at Intangible Textual Heritage
 
@@ -46,6 +46,6 @@ Published in 1913 at the Clarendon Press
 
 ------------------------------------------------------------------------
 
-[Next: Preface](hau01)
+[Next: Preface](hau01.md)
 
 </div>

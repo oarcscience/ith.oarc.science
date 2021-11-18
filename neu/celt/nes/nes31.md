@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes30)  [Next](nes32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes30)  [Next](nes32.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Than summer evening's latest sigh<br />
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE barn was cleared, swept clean, and fitted up with seats--deals placed
 on anything and everything capable of supporting them. On the middle of
@@ -61,14 +61,14 @@ drained to the toast, "Consolation
 
 to the friends of the deceased." Then came more broad and cheese, and a
 glass or two more of toddy. Such as preferred "a drap o’ the raw geer,"
-or ale, to the toddy, received it. <span id="fr_170"></span>[1](#fn_170)
+or ale, to the toddy, received it. <span id="fr_170"></span>[1](#fn_170.md)
 When all had eaten or drunken in a manner befitting the station and
 means of the dead, prayer was again offered; not, however, always. It
 was then announced, "Gehn ony o’ ye wis t’ see the corp, ye’ll noo hae
 an opportunity." The company thereupon left the barn, and, one by one,
 went into the apartment of death, uncovered his head, and gently and
 reverently laid his hand upon the breast or brow of the dead, <span
-id="fr_171"></span>[2](#fn_171) frequently making a remark on the
+id="fr_171"></span>[2](#fn_171.md) frequently making a remark on the
 appearance of the body, as "He's unco like himsel," "She's a bonnie
 corp," or "He's sair altert;" or on the character of the departed, as
 "She'll be a sehr misst umman," or "He wiz a gueede freen t’ mony ane."
@@ -77,7 +77,7 @@ the fancy.
 
 If the body was soft and flabby when the coffin-lid was closed, it was a
 sure indication that another corpse would at no distant period of time
-be carried from the same dwelling. <span id="fr_172"></span>[3](#fn_172)
+be carried from the same dwelling. <span id="fr_172"></span>[3](#fn_172.md)
 
 When the last look had been taken by all the coffin-lid was closed.
 Before this was done part of the winding sheet, commonly one of the
@@ -103,7 +103,7 @@ of the family and near female relatives or friends that were present.
 
 In some of the fishing villages the coffin of a young unmarried woman
 was carried to the grave by her young companions, dressed in white, with
-a black ribbon round the waist. <span id="fr_173"></span>[1](#fn_173)
+a black ribbon round the waist. <span id="fr_173"></span>[1](#fn_173.md)
 
 The chairs were overturned as soon as the coffin was lifted off them,
 and were allowed to lie, in some places till sunset, and in others till
@@ -150,14 +150,14 @@ house, where a dinner was prepared.
 The weather on the day of the funeral was most carefully observed. A
 shower on the mould of the open grave--the "meels"--was taken as an
 indication that the soul of the departed was enjoying happiness. <span
-id="fr_174"></span>[1](#fn_174) A hurricane told of some foul deed done,
+id="fr_174"></span>[1](#fn_174.md) A hurricane told of some foul deed done,
 but never brought to light, or of a bad life, however fair to the eye,
 or of a compact with Satan.
 
 A coffin more than ordinarily heavy was remarked; and there have been
 coffins of "a heavier weight than lead," which were with the utmost
 difficulty carried to the graveyard. Such a thing was spoken of with
-awe. <span id="fr_175"></span>[2](#fn_175)
+awe. <span id="fr_175"></span>[2](#fn_175.md)
 
 In B------, the night after the funeral, bread and water were placed in
 the apartment in which the body lay. The dead was believed to return
@@ -201,7 +201,7 @@ passing traveller was bound to cast a stone.
 
 It was the prevailing idea that nothing would grow over the grave of a
 suicide, or on the spot on which a murder was committed. <span
-id="fr_176"></span>[1](#fn_176)
+id="fr_176"></span>[1](#fn_176.md)
 
 After the suicide's body was allowed to be buried in the churchyard, it
 was laid below the wall in such a position that one could not step over
@@ -244,7 +244,7 @@ distance, and looking in horror on the abhorred beast. "Aye, that's the
 real yird-swine." The news spread like fire through the village, and
 many visited the shop to convince themselves of the dreadful truth. The
 fate of the old graveyard was sealed in that village. <span
-id="fr_177"></span>[1](#fn_177)
+id="fr_177"></span>[1](#fn_177.md)
 
 Graveyards and ill connected with them--the earth or "meels" and the
 gravestones, and the coffin and the mort-cloth--were looked upon with
@@ -292,40 +292,40 @@ another use to which "meels" were put:--
 confessed the said witch had hir tack ane moldewort hillock and muild
 out of the church yard, and putt it vnder hir gait twys, and that wold
 mack hir aill to sell. But shoe denyed shoe requyred it at the said
-witch, or that shoe practised it." <span id="fr_178"></span>[1](#fn_178)
+witch, or that shoe practised it." <span id="fr_178"></span>[1](#fn_178.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_170"></span>[211:1](nes31.htm#fr_170) *Choice Notes*, p.
+<span id="fn_170"></span>[211:1](nes31.htm#fr_170.md) *Choice Notes*, p.
 121; *Notes and Queries*, 5th series, vol. iv. pp. 326, 397, vol. v. p.
 218.
 
-<span id="fn_171"></span>[211:2](nes31.htm#fr_171) Cf. Henderson, p. 57.
+<span id="fn_171"></span>[211:2](nes31.htm#fr_171.md) Cf. Henderson, p. 57.
 
-<span id="fn_172"></span>[211:3](nes31.htm#fr_172) Cf. Henderson, p. 50;
+<span id="fn_172"></span>[211:3](nes31.htm#fr_172.md) Cf. Henderson, p. 50;
 *F. L. Record*, vol. i. p. 51 (169), vol. iii. pt. i. p. 127.
 
-<span id="fn_173"></span>[212:1](nes31.htm#fr_173) *Notes and Queries*,
+<span id="fn_173"></span>[212:1](nes31.htm#fr_173.md) *Notes and Queries*,
 5th series, vol. v. p. 364.
 
-<span id="fn_174"></span>[213:1](nes31.htm#fr_174) See [p.
-90](nes20.htm#page_90).
+<span id="fn_174"></span>[213:1](nes31.htm#fr_174.md) See [p.
+90](nes20.htm#page_90.md).
 
-<span id="fn_175"></span>[213:2](nes31.htm#fr_175) See [p.
-136](nes23.htm#page_136).
+<span id="fn_175"></span>[213:2](nes31.htm#fr_175.md) See [p.
+136](nes23.htm#page_136.md).
 
-<span id="fn_176"></span>[214:1](nes31.htm#fr_176) *F. L. Record*, vol.
+<span id="fn_176"></span>[214:1](nes31.htm#fr_176.md) *F. L. Record*, vol.
 i. p. 17 (67).
 
-<span id="fn_177"></span>[215:1](nes31.htm#fr_177) Cf. Henderson, p.
+<span id="fn_177"></span>[215:1](nes31.htm#fr_177.md) Cf. Henderson, p.
 121.
 
-<span id="fn_178"></span>[216:1](nes31.htm#fr_178) "Extracts from the
+<span id="fn_178"></span>[216:1](nes31.htm#fr_178.md) "Extracts from the
 Presbytery Book of Strathbogie," p. 5. Spalding Club, Aberdeen. A.D.
 1843.
 
 ------------------------------------------------------------------------
 
-[Next: Glossary](nes32)
+[Next: Glossary](nes32.md)

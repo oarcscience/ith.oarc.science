@@ -1,10 +1,10 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](cap02)  [Next](cap04) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](cap02)  [Next](cap04.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_04"></span> [![](tn/04.jpg)  
-Click to enlarge](img/04.jpg)  
+Click to enlarge](img/04.jpg.md)  
 Psyche on the Rock
 
 # Part II
@@ -134,4 +134,4 @@ to her mind; and when morning came he departed away.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](cap04)
+[Next: Part III](cap04.md)

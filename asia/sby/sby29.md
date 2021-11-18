@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby28)  [Next](sby30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby28)  [Next](sby30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ particular day. The New Year period was held, therefore, to be of
 special importance because of the bearing on individual welfare by
 reason of the good or the evil decision of the gods. Our modern custom
 of wishing our friends a Happy New Year has perhaps some connection with
-this idea. <span id="fr_158"></span>[7](#fn_157)
+this idea. <span id="fr_158"></span>[7](#fn_157.md)
 
 The Day of Atonement (Lev. 23: 27; 25: 29) had a most important place in
 the Jewish ecclesiastical year. This was the occasion of a thorough
@@ -74,19 +74,19 @@ In the light of what has been said, the Yezidis' idea in giving food to
 the poor at the grave on the day of Sarsal (New Year day), is to
 propitiate God on behalf of the dead, who are, according to their
 belief, reincarnated in some form or other. <span
-id="fr_159"></span>[8](#fn_158)
+id="fr_159"></span>[8](#fn_158.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_157"></span>[175:7](sby29.htm#fr_158) The Hibbert journal,
+<span id="fn_157"></span>[175:7](sby29.htm#fr_158.md) The Hibbert journal,
 ibid.
 
-<span id="fn_158"></span>[176:8](sby29.htm#fr_159) For different
+<span id="fn_158"></span>[176:8](sby29.htm#fr_159.md) For different
 interpretation of the Yezidi New Year, see Brockelmann in Z. D. M. G.,
 vol. 55, p. 388.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on Chapter III](sby30)
+[Next: Notes on Chapter III](sby30.md)

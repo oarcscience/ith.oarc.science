@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara05)  [Next](ara07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara05)  [Next](ara07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ Non mi farai!
 
 <span id="page_23">p. 23</span>
 
-Invocation to the Holy-Stone. <span id="fr_8"></span>[1](#fn_8)
+Invocation to the Holy-Stone. <span id="fr_8"></span>[1](#fn_8.md)
 
 I have found  
 A holy-stone upon the ground.  
@@ -113,7 +113,7 @@ Of thieves and murderers, and of women too
 Who lead an evil life, and yet hast known  
 That their nature was not evil, thou, Diana,  
 Hast still conferred on them some joy in life. <span
-id="fr_9"></span>[1](#fn_9)
+id="fr_9"></span>[1](#fn_9.md)
 
 Or I may truly at another time  
 So conjure thee that thou shalt have no peace  
@@ -133,7 +133,7 @@ the church.\]
 <span id="page_25">p. 25</span>
 
 The Spell or Conjuration of the Round Stone. <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 The finding a *round* stone, be it great or small, is a good sign (*e
 buono augurio*), but it should never be given away, because the receiver
@@ -251,16 +251,16 @@ And thou and I will ne'er part company!
 
 ### Footnotes
 
-<span id="fn_8"></span>[23:1](ara06.htm#fr_8) Properly, the stone with a
+<span id="fn_8"></span>[23:1](ara06.htm#fr_8.md) Properly, the stone with a
 hole in it. But such a stone is called holy on shipboard, and here it
 has really a claim to the name.
 
-<span id="fn_9"></span>[24:1](ara06.htm#fr_9) This is an obscure
+<span id="fn_9"></span>[24:1](ara06.htm#fr_9.md) This is an obscure
 passage, but I believe that I have given it as the poet meant or felt
 it.
 
-<span id="fn_10"></span>[25:1](ara06.htm#fr_10) Il sasso a palla.
+<span id="fn_10"></span>[25:1](ara06.htm#fr_10.md) Il sasso a palla.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Conjuration of the Lemon and Pins](ara07)
+[Next: Chapter V. The Conjuration of the Lemon and Pins](ara07.md)

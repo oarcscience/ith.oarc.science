@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft47)  [Next](efft49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft47)  [Next](efft49.md) 
 
 ------------------------------------------------------------------------
 
-# THE HEDLEY KOW.  <span id="fr_55"></span>[1](#fn_55)
+# THE HEDLEY KOW.  <span id="fr_55"></span>[1](#fn_55.md)
 
 THE Hedley Kow was a bogie, mischievous rather than malignant, which
 haunted the village of Hedley, near Ebchester. His appearance was never
@@ -68,10 +68,10 @@ I whirry laughing, Ho ho ho!"
 
 ### Footnotes
 
-<span id="fn_55"></span>[1](efft48.htm#fr_55) William Henderson, *Notes
+<span id="fn_55"></span>[1](efft48.htm#fr_55.md) William Henderson, *Notes
 on the Folk-Lore of the Northern Counties of England and the Borders*,
 p. 270.
 
 ------------------------------------------------------------------------
 
-[Next: The Lord of Pengerswick](efft49)
+[Next: The Lord of Pengerswick](efft49.md)

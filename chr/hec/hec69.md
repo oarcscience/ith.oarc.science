@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](hec68)  [Next](hec70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](hec68)  [Next](hec70.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Eastern Church*, by J.M. Neale, \[1884\], at Intangible
 Textual Heritage
 
@@ -21,7 +21,7 @@ Canon for Ascension Day
 
 ### ODE VIII.
 
-### *Hirmos*. "HIM OF THE FATHER." <span id="fr_6"></span>[\*](#fn_6)
+### *Hirmos*. "HIM OF THE FATHER." <span id="fr_6"></span>[\*](#fn_6.md)
 
 by S. Joseph of the Studium
 
@@ -72,10 +72,10 @@ Martyr Three,
 
 ### Footnotes
 
-<span id="fn_6"></span>[223:\*](hec69.htm#fr_6) I have specified this
+<span id="fn_6"></span>[223:\*](hec69.htm#fr_6.md) I have specified this
 Hirmos, because the reader can see it by turning back to page
-[133](hec38.htm#page_133).
+[133](hec38.htm#page_133.md).
 
 ------------------------------------------------------------------------
 
-[Next: Canon for Ascension Day. Ode IX.](hec70)
+[Next: Canon for Ascension Day. Ode IX.](hec70.md)

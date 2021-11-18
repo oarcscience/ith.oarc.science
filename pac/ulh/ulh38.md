@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh37)  [Next](ulh39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh37)  [Next](ulh39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -89,7 +89,7 @@ E hele oe a manao mai i ka luhi mua, a i-mua!
 O moe hewa na iwi i ke alanui, ala-nui.  
 Kaapa Hawaii a ka moku nui, a nui e!  
 25 Nui mai ke aloha a uwe au, a uwe au.  
-Au-we! pau au i ka manó nui, [manó](errata.htm#11) nui!  
+Au-we! pau au i ka manó nui, [manó](errata.htm#11.md) nui!  
 Au-we! pau au i ka manó nui, manó nui!
 
 </div>
@@ -143,4 +143,4 @@ monster shark.
 
 ------------------------------------------------------------------------
 
-[Next: XXXV.--The Hula Kilu](ulh39)
+[Next: XXXV.--The Hula Kilu](ulh39.md)

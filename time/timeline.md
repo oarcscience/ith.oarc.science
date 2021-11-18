@@ -2,11 +2,11 @@
 layout: seclanding
 title: "Sacred Texts Timeline"
 ---
-[![](../cdshop/ithlogo.png)](../index)
+[![](../cdshop/ithlogo.png)](../index.md)
 
 ------------------------------------------------------------------------
 
-[Sacred Time](index)  [Origins of World Religions](origtime)
+[Sacred Time](index)  [Origins of World Religions](origtime.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ few dates, events and documents which are or may be entirely fictional.
 Links on this page are to resources at this site, not to external sites.
 I welcome feedback about any errors of fact in this timeline.
 
-For space reasons, I have used the [abbreviations](#abbr) listed at the
+For space reasons, I have used the [abbreviations](#abbr.md) listed at the
 end of this file.
 
 date
@@ -37,7 +37,7 @@ Other
 5000 BCE +
 
 4004 (Sunday 23 October) Bishop Usshers' (1581-1656) date for [Biblical
-creation of the world](../bib/kjv/gen) based on O.T. Chronology.
+creation of the world](../bib/kjv/gen.md) based on O.T. Chronology.
 According to Ussher, Adam and Eve were driven from Paradise on Monday 10
 November 4004 BC. Ussher was Archbishop of Armagh, Primate of All
 Ireland, and Vice-Chancellor of Trinity College in Dublin \[chr\].
@@ -52,22 +52,22 @@ University and a contemporary of Ussher, man was created on "October 23,
 
 4,320,000,000 Creation of Universe by Brahma (Modern Hindu). The
 Rig-Veda has three hymns on the subject of Creation. See [Rig-Veda
-10:cxxix](../hin/rigveda/rv10129), [Rig-Veda
-10:cxxx](../hin/rigveda/rv10130), and [Rig-Veda
-10:cxc](../hin/rigveda/rv10190). \[hin\].
+10:cxxix](../hin/rigveda/rv10129.md), [Rig-Veda
+10:cxxx](../hin/rigveda/rv10130.md), and [Rig-Veda
+10:cxc](../hin/rigveda/rv10190.md). \[hin\].
 
  
 
-14,000,000,000 [Big Bang](../bib/kjv/gen.htm#1:3).
+14,000,000,000 [Big Bang](../bib/kjv/gen.htm#1:3.md).
 
 ------------------------------------------------------------------------
 
 14,000,000,000 -300,000 yrs. after the Big Bang, protons and electrons
-[separate](../bib/kjv/gen.htm#1:4).
+[separate](../bib/kjv/gen.htm#1:4.md).
 
 ------------------------------------------------------------------------
 
-14,000,000,000 -? yrs. [The universe cools unevenly](cosmic.jpg)
+14,000,000,000 -? yrs. [The universe cools unevenly](cosmic.jpg.md)
 
 ------------------------------------------------------------------------
 
@@ -75,8 +75,8 @@ Rig-Veda has three hymns on the subject of Creation. See [Rig-Veda
 
 ------------------------------------------------------------------------
 
-3,000,000,000 [Earth cools](../bib/kjv/gen.htm#1:9) and [life on
-Earth](../dna/index) begins.
+3,000,000,000 [Earth cools](../bib/kjv/gen.htm#1:9.md) and [life on
+Earth](../dna/index.md) begins.
 
 ------------------------------------------------------------------------
 
@@ -92,25 +92,25 @@ Earth](../dna/index) begins.
 
 ------------------------------------------------------------------------
 
-55,000 First inhabitants of [Australia](../aus/index).
+55,000 First inhabitants of [Australia](../aus/index.md).
 
 ------------------------------------------------------------------------
 
-15,000 [Paleolithic cave paintings](../nel/index).
+15,000 [Paleolithic cave paintings](../nel/index.md).
 
 ------------------------------------------------------------------------
 
-10,000 Paleo-Indians enter [America](../nam/index).
+10,000 Paleo-Indians enter [America](../nam/index.md).
 
 ------------------------------------------------------------------------
 
 9,500 Ice age ends, catastrophic worldwide sea level rise (100 meters?).
 Black Sea floods, thought to be origin of [Ancient Near East Flood
-story](../ane/gilgdelu).
+story](../ane/gilgdelu.md).
 
 ------------------------------------------------------------------------
 
-9500 [Plato's date for the sinking of Atlantis](../atl/index).
+9500 [Plato's date for the sinking of Atlantis](../atl/index.md).
 
 ------------------------------------------------------------------------
 
@@ -134,9 +134,9 @@ story](../ane/gilgdelu).
 
 3201 Beginning of Kali Yuga, the current (and most evil) age \[hin\].
 
-o.c. [I Ching](../ich/index) \[cfu\].
+o.c. [I Ching](../ich/index.md) \[cfu\].
 
-3100 o.c. [Pyramid Texts](../egy/pyt/index) \[egy\].
+3100 o.c. [Pyramid Texts](../egy/pyt/index.md) \[egy\].
 
 3000 BCE
 
@@ -145,249 +145,249 @@ o.c. [I Ching](../ich/index) \[cfu\].
  
 
 2953-2838 Chinese Emperor Fu Hsi, produced first w.v. of [I
-Ching](../ich/index) \[cfu\].
+Ching](../ich/index.md) \[cfu\].
 
 ------------------------------------------------------------------------
 
 2300-1000 Period described in [Shu Ching (Book of
-History)](../cfu/sbe03/index.htm#shu) \[cfu\].
+History)](../cfu/sbe03/index.htm#shu.md) \[cfu\].
 
 2494-2345 Pyramid Texts \[egy\].
 
 2000 BCE
 
-2000-1900 [Abraham](../bib/kjv/gen.htm#12:1), b. in Ur, according to
-[Bible](../bib/kjv/gen.htm#25:7) lived to age of 175.
+2000-1900 [Abraham](../bib/kjv/gen.htm#12:1.md), b. in Ur, according to
+[Bible](../bib/kjv/gen.htm#25:7.md) lived to age of 175.
 
 ------------------------------------------------------------------------
 
 1500-1350 [Moses, trad. founder of Judaism; the Exodus from
-Egypt.](../bib/kjv/exo)
+Egypt.](../bib/kjv/exo.md)
 
 ------------------------------------------------------------------------
 
-1500 Zoroaster/Zarathustra, o.c. [Gathas, Avesta](../zor/index) \[zor\].
+1500 Zoroaster/Zarathustra, o.c. [Gathas, Avesta](../zor/index.md) \[zor\].
 
 ------------------------------------------------------------------------
 
 1491 (trad.) According to Bishop Ussher, [the date of the Biblical
-flood](../bib/kjv/gen.htm#6:1). The Ark touched down on Mt. Ararat on 5
+flood](../bib/kjv/gen.htm#6:1.md). The Ark touched down on Mt. Ararat on 5
 May 1491 BC (a Wednesday) \[chr\].
 
 ------------------------------------------------------------------------
 
 1200 Origin of Judaism, o.c. of O.T., starting with [the
-Torah](../bib/tan/index) (the first 5 books).
+Torah](../bib/tan/index) (the first 5 books.md).
 
 1750 Collapse of Indus Valley Civilization.
 
 ------------------------------------------------------------------------
 
-1500 Indo-Europeans invade India. [Vedic](../hin/index.htm#vedas)
+1500 Indo-Europeans invade India. [Vedic](../hin/index.htm#vedas.md)
 Culture. \[hin\].
 
 ------------------------------------------------------------------------
 
-1550-1450 o.c. [Rig-Veda](../hin/rigveda/index), [Sama-Veda](../hin/sv)
-and [Yajur-Veda](../hin/yv/index) \[hin\].
+1550-1450 o.c. [Rig-Veda](../hin/rigveda/index), [Sama-Veda](../hin/sv.md)
+and [Yajur-Veda](../hin/yv/index.md) \[hin\].
 
-1143 w.v. of [I Ching](../ich/index) by King Wen and Duke of Chou.
+1143 w.v. of [I Ching](../ich/index.md) by King Wen and Duke of Chou.
 \[cfu\]
 
-1800 [Enuma Elish](../ane/enuma), Bablyonian Creation Myth. \[ane\]
+1800 [Enuma Elish](../ane/enuma.md), Bablyonian Creation Myth. \[ane\]
 
 ------------------------------------------------------------------------
 
 1792 Hammurabi ruler in Bablyon, auth. of [Code of
-Hammurabi](../ane/hamurabi), earliest legal codex.
+Hammurabi](../ane/hamurabi.md), earliest legal codex.
 
 ------------------------------------------------------------------------
 
-1760 [Gilgamesh Epic](../ane/gilgdelu).\[ane\]
+1760 [Gilgamesh Epic](../ane/gilgdelu.md).\[ane\]
 
 ------------------------------------------------------------------------
 
-1600 Orig. [Egyptian Book of the Dead](../egy/ebod/index). (Book of
+1600 Orig. [Egyptian Book of the Dead](../egy/ebod/index.md). (Book of
 Coming Forth by Day).
 
 ------------------------------------------------------------------------
 
 1500 (ca.) Volcanic destruction of Thera, thought to be the origin of
-[Atlantis story](../atl/index).
+[Atlantis story](../atl/index.md).
 
 ------------------------------------------------------------------------
 
 1194 Fall of Troy (events described in
-[Iliad/Odyssey](../cla/homer/index)).
+[Iliad/Odyssey](../cla/homer/index).md).
 
 ------------------------------------------------------------------------
 
-1100 (ca.) [Rise of Mayan culture](../nam/pvuheng).
+1100 (ca.) [Rise of Mayan culture](../nam/pvuheng.md).
 
 1000 BCE
 
-990-922 [King Solomon](../bib/kjv/kg1.htm#1:46).
+990-922 [King Solomon](../bib/kjv/kg1.htm#1:46.md).
 
 ------------------------------------------------------------------------
 
-950 o.c. [Torah/Pentateuch](../bib/tan/index), [Song of
-Songs](../bib/kjv/sol).
+950 o.c. [Torah/Pentateuch](../bib/tan/index.md), [Song of
+Songs](../bib/kjv/sol.md).
 
-1000 o.c. [Atharva Veda](../hin/av) \[hin\].
+1000 o.c. [Atharva Veda](../hin/av.md) \[hin\].
 
-1000-500 [Shih Ching (Book of Odes)](../cfu/sbe03/index.htm#shih)
+1000-500 [Shih Ching (Book of Odes)](../cfu/sbe03/index.htm#shih.md)
 \[cfu\].
 
  
 
 800 BCE
 
-740 O.T. Book of [Isaiah](../bib/kjv/isa).
+740 O.T. Book of [Isaiah](../bib/kjv/isa.md).
 
-800-700 [Brihad-Aranyaka and Chandogya Upanishads](../hin/upan/index)
+800-700 [Brihad-Aranyaka and Chandogya Upanishads](../hin/upan/index.md)
 \[hin\].
 
 ------------------------------------------------------------------------
 
-800-400 Aranyakas, Brahmanas and [Upanishads](../hin/upan/index)
+800-400 Aranyakas, Brahmanas and [Upanishads](../hin/upan/index.md)
 \[hin\].
 
  
 
-800 or 700 [Homer (?): Illiad and Odyssey](../cla/homer/index).
+800 or 700 [Homer (?): Illiad and Odyssey](../cla/homer/index.md).
 
 ------------------------------------------------------------------------
 
-800: [Hesiod: Works and Days, Theogony](../cla/hesiod/index)
+800: [Hesiod: Works and Days, Theogony](../cla/hesiod/index.md)
 
 700 BCE
 
-700 Books of [Deuteronomy](../bib/kjv/deu), [Joshua](../bib/kjv/jos),
-[Samuel](../bib/kjv/sa1). (O.T.)
+700 Books of [Deuteronomy](../bib/kjv/deu), [Joshua](../bib/kjv/jos.md),
+[Samuel](../bib/kjv/sa1). (O.T..md)
 
 ------------------------------------------------------------------------
 
-628-551 [Zarathustra/Zoroaster](../zor/index)
+628-551 [Zarathustra/Zoroaster](../zor/index.md)
 
 ------------------------------------------------------------------------
 
 600 Babylonian Exile \[jud\]
 
-700 o.c. [Ramayana](../hin/rama/index) \[hin\].
+700 o.c. [Ramayana](../hin/rama/index.md) \[hin\].
 
 ------------------------------------------------------------------------
 
-600 w.v. [Rig Veda](../hin/rigveda/index) \[hin\]
+600 w.v. [Rig Veda](../hin/rigveda/index.md) \[hin\]
 
-650 o.c. [Tao te Ching](../tao/taote).
+650 o.c. [Tao te Ching](../tao/taote.md).
 
-664-525 Rev. [Egyptian Book of the Dead](../egy/ebod/index)
+664-525 Rev. [Egyptian Book of the Dead](../egy/ebod/index.md)
 
 ------------------------------------------------------------------------
 
 600 BCE
 
-520 Books of [Zechariah](../bib/kjv/zac), [Isaiah](../bib/kjv/isa).
+520 Books of [Zechariah](../bib/kjv/zac), [Isaiah](../bib/kjv/isa.md).
 (O.T.)
 
-599-527 (trad.) Mahavira, founder [Jainism](../jai/index).
+599-527 (trad.) Mahavira, founder [Jainism](../jai/index.md).
 
 ------------------------------------------------------------------------
 
-563-483 [Buddha](../bud/index) (b. April 8, 563 BCE).
+563-483 [Buddha](../bud/index) (b. April 8, 563 BCE.md).
 
 ------------------------------------------------------------------------
 
-540 w.v. [Mahabharata](../hin/maha/index) \[hin\].
+540 w.v. [Mahabharata](../hin/maha/index.md) \[hin\].
 
 ------------------------------------------------------------------------
 
-540-468 (hist.) [Mahavira, founder Jainism](../jai/index).
+540-468 (hist.) [Mahavira, founder Jainism](../jai/index.md).
 
 ------------------------------------------------------------------------
 
 500 o.c. Angas \[jai\].
 
-580-500 (trad.) [Lao-tzu, founder of Taoism](../tao/index).
+580-500 (trad.) [Lao-tzu, founder of Taoism](../tao/index.md).
 
-551-479 [Confucius (K'ung tzu), founder of Confucianism](../cfu/index).
+551-479 [Confucius (K'ung tzu), founder of Confucianism](../cfu/index.md).
 
 ------------------------------------------------------------------------
 
-520 (trad.) [Tao-te Ching](../tao/taote) \[tao\].
+520 (trad.) [Tao-te Ching](../tao/taote.md) \[tao\].
 
-610-570 [Sappho](../cla/sappho/index).
+610-570 [Sappho](../cla/sappho/index.md).
 
 500 BCE
 
-w.v. [Gensis](../bib/kjv/gen), [Exodus](../bib/kjv/exo),
-[Numbers](../bib/kjv/num). (O.T.)
+w.v. [Gensis](../bib/kjv/gen), [Exodus](../bib/kjv/exo.md),
+[Numbers](../bib/kjv/num). (O.T..md)
 
  
 
-480-390 (alt.) [Lao tzu](../tao/index).
+480-390 (alt.) [Lao tzu](../tao/index.md).
 
 ------------------------------------------------------------------------
 
-409 w.v. [Confucian Canon](../cfu/index.htm#cfucan).
+409 w.v. [Confucian Canon](../cfu/index.htm#cfucan.md).
 
  
 
 400 BCE
 
-Books of [Proverbs](../bib/kjv/pro), [Job](../bib/kjv/job) (O.T.)
+Books of [Proverbs](../bib/kjv/pro), [Job](../bib/kjv/job) (O.T..md)
 
 ------------------------------------------------------------------------
 
-350 w.v. [Song of Songs](../bib/kjv/sol) (O.T.).
+350 w.v. [Song of Songs](../bib/kjv/sol) (O.T..md).
 
 ------------------------------------------------------------------------
 
-330 Alexander destroys old [Avesta](../zor/index). \[zor\]
+330 Alexander destroys old [Avesta](../zor/index.md). \[zor\]
 
-300 w.v. [Mahabharata](../hin/maha/index),
-[Bhagavad-Gita](../hin/gita/index). \[hin\]
+300 w.v. [Mahabharata](../hin/maha/index.md),
+[Bhagavad-Gita](../hin/gita/index.md). \[hin\]
 
-371-289 [Mencius (Meng-tzu)](../cfu/menc/index). \[cfu\]
-
-------------------------------------------------------------------------
-
-369-286 [Chuang-tzu](../tao/index). \[tao\]
+371-289 [Mencius (Meng-tzu)](../cfu/menc/index.md). \[cfu\]
 
 ------------------------------------------------------------------------
 
-350 (hist.) [Tao-te Ching](../tao/taote). \[tao\].
+369-286 [Chuang-tzu](../tao/index.md). \[tao\]
 
 ------------------------------------------------------------------------
 
-340 [Writings of Chuang-tzu](../tao/index). \[tao\]
+350 (hist.) [Tao-te Ching](../tao/taote.md). \[tao\].
 
-360 [Critias by Plato](../atl/critias.txt): contains story of Atlantis.
+------------------------------------------------------------------------
+
+340 [Writings of Chuang-tzu](../tao/index.md). \[tao\]
+
+360 [Critias by Plato](../atl/critias.txt.md): contains story of Atlantis.
 
 300 BCE
 
-[Book of Jonah](../bib/kjv/jon) (O.T.)
+[Book of Jonah](../bib/kjv/jon) (O.T..md)
 
 ------------------------------------------------------------------------
 
-285 [Septuagint](../bib/index), first Greek trans. of the O.T.
+285 [Septuagint](../bib/index.md), first Greek trans. of the O.T.
 
-250 Abhidharma, part of the [Tripitaka](../bud/index). \[bud\]
-
-------------------------------------------------------------------------
-
-240 [Dhammapada](../bud/index) canonized by Asoka. \[bud\]
+250 Abhidharma, part of the [Tripitaka](../bud/index.md). \[bud\]
 
 ------------------------------------------------------------------------
 
-200 w.v. [Atharva Veda](../hin/av). \[hin\]
+240 [Dhammapada](../bud/index.md) canonized by Asoka. \[bud\]
 
-250 w.v. [Tao te Ching](../tao/index). \[tao\]
+------------------------------------------------------------------------
+
+200 w.v. [Atharva Veda](../hin/av.md). \[hin\]
+
+250 w.v. [Tao te Ching](../tao/index.md). \[tao\]
 
 ------------------------------------------------------------------------
 
 213 [Emperor Ch'in Shih burns books, including Confucian, Taoist texts
-and the Five Classics](../cfu/index). \[cfu\]
+and the Five Classics](../cfu/index.md). \[cfu\]
 
  
 
@@ -397,41 +397,41 @@ and the Five Classics](../cfu/index). \[cfu\]
 
 ------------------------------------------------------------------------
 
-164 Book of [Daniel](../bib/kjv/dan) (O.T.).
+164 Book of [Daniel](../bib/kjv/dan) (O.T..md).
 
 ------------------------------------------------------------------------
 
-160 O.T. [Apocrypha](../bib/apo/index): [Tobit](../bib/apo/tob), [1
-Esdras](../bib/apo/es1), [Enoch](../chr/apo/enoch), others.
+160 O.T. [Apocrypha](../bib/apo/index): [Tobit](../bib/apo/tob.md), [1
+Esdras](../bib/apo/es1), [Enoch](../chr/apo/enoch.md), others.
 
 ------------------------------------------------------------------------
 
 150 Early Qumran (Dead Sea Scrolls).
 
-150 [Yoga Sutras of Patanajali](../hin/yogasutr). \[hin\]
+150 [Yoga Sutras of Patanajali](../hin/yogasutr.md). \[hin\]
 
-[I Ching](../ich/index) commentaries, Rev. [Chinese
-Classics](../cfu/index.htm#fivecla). \[cfu\]
+[I Ching](../ich/index.md) commentaries, Rev. [Chinese
+Classics](../cfu/index.htm#fivecla.md). \[cfu\]
 
  
 
 100 BCE
 
-5-7 (ca.) [b. of Jesus](../bib/kjv/mat.htm#1:18), founder of
-[Christianity](../chr/index).
+5-7 (ca.) [b. of Jesus](../bib/kjv/mat.htm#1:18.md), founder of
+[Christianity](../chr/index.md).
 
-[Ramayana of Valmiki](../hin/rama/index). \[hin\]
+[Ramayana of Valmiki](../hin/rama/index.md). \[hin\]
 
 ------------------------------------------------------------------------
 
 Ceylonese Tipitaka \[bud\].
 
-86 Rev. [Shu Ching (Book of History)](../cfu/sbe03/index.htm#shu), [Shih
-Ching (Book of Odes)](../cfu/sbe03/index.htm#shih). \[cfu\]
+86 Rev. [Shu Ching (Book of History)](../cfu/sbe03/index.htm#shu.md), [Shih
+Ching (Book of Odes)](../cfu/sbe03/index.htm#shih.md). \[cfu\]
 
 47 First burning of the Library of Alexandria (by Romans). including
-works of [Sappho](../cla/sappho/index), and possibly ancient manuscripts
-and [maps from unknown Ice Age civilizations](../piri/index).
+works of [Sappho](../cla/sappho/index.md), and possibly ancient manuscripts
+and [maps from unknown Ice Age civilizations](../piri/index.md).
 
 1 CE
 
@@ -440,20 +440,20 @@ and [maps from unknown Ice Age civilizations](../piri/index).
 ------------------------------------------------------------------------
 
 33 (trad.) either April 3, 30 CE or April 7, 33 CE: the
-[Crucifixion](../bib/kjv/mat.htm#27:31).
+[Crucifixion](../bib/kjv/mat.htm#27:31.md).
 
 ------------------------------------------------------------------------
 
-30-96 [New Testament](../bib/kjv/index).
+30-96 [New Testament](../bib/kjv/index.md).
 
 ------------------------------------------------------------------------
 
-50-63 (N.T.) [Colossians](../bib/kjv/col), [Philemon](../bib/kjv/plm),
-[Ephesians](../bib/kjv/eph), [Philippians](../bib/kjv/phi).
+50-63 (N.T.) [Colossians](../bib/kjv/col), [Philemon](../bib/kjv/plm.md),
+[Ephesians](../bib/kjv/eph), [Philippians](../bib/kjv/phi.md).
 
 ------------------------------------------------------------------------
 
-60-80 (N.T.) [Acts of the Apostles](../bib/kjv/act).
+60-80 (N.T.) [Acts of the Apostles](../bib/kjv/act.md).
 
 ------------------------------------------------------------------------
 
@@ -461,31 +461,31 @@ and [maps from unknown Ice Age civilizations](../piri/index).
 
 ------------------------------------------------------------------------
 
-70 (N.T.) [Gospel of Mark](../bib/kjv/mar).
+70 (N.T.) [Gospel of Mark](../bib/kjv/mar.md).
 
 ------------------------------------------------------------------------
 
-80 (N.T.) [Gospel of Matthew](../bib/kjv/mat).
+80 (N.T.) [Gospel of Matthew](../bib/kjv/mat.md).
 
 ------------------------------------------------------------------------
 
-80 (N.T.) [Gospel of Luke](../bib/kjv/luk).
+80 (N.T.) [Gospel of Luke](../bib/kjv/luk.md).
 
 ------------------------------------------------------------------------
 
-90 (N.T.) [Gospel of John](../bib/kjv/joh).
+90 (N.T.) [Gospel of John](../bib/kjv/joh.md).
 
 ------------------------------------------------------------------------
 
-81-96 o.c. [Revelation of St. John](../bib/kjv/rev).
+81-96 o.c. [Revelation of St. John](../bib/kjv/rev.md).
 
-[Diamond Sutra](../bud/sbe49/sbe4929), Heart Sutra. \[bud\]
+[Diamond Sutra](../bud/sbe49/sbe4929.md), Heart Sutra. \[bud\]
 
 ------------------------------------------------------------------------
 
-65 Entry of [Buddhism](../bud/index.htm#north) into China.
+65 Entry of [Buddhism](../bud/index.htm#north.md) into China.
 
-o.c. [Kojiki](../shi/kojiki), [Nihongi](../shi/index). \[shi\]
+o.c. [Kojiki](../shi/kojiki), [Nihongi](../shi/index.md). \[shi\]
 
  
 
@@ -499,7 +499,7 @@ o.c. Nag Hammadi Scriptures.
 
 ------------------------------------------------------------------------
 
-150 N.T. [Apocrypha](../chr/apo/index). \[chr\]
+150 N.T. [Apocrypha](../chr/apo/index.md). \[chr\]
 
 ------------------------------------------------------------------------
 
@@ -513,11 +513,11 @@ o.c. Sepher ha Zohar \[jud\].
 
 ------------------------------------------------------------------------
 
-[Lotus Sutra](../bud/lotus/index), [Buddha-Charita of
-Ashvagosha](../bud/sbe49/index). \[bud\]
+[Lotus Sutra](../bud/lotus/index.md), [Buddha-Charita of
+Ashvagosha](../bud/sbe49/index.md). \[bud\]
 
-150 w.v. [Shu Ching (Book of History)](../cfu/sbe03/index.htm#shu).
-[Shih Ching (Book of Odes)](../cfu/sbe03/index.htm#shih). \[cfu\]
+150 w.v. [Shu Ching (Book of History)](../cfu/sbe03/index.htm#shu.md).
+[Shih Ching (Book of Odes)](../cfu/sbe03/index.htm#shih.md). \[cfu\]
 
  
 
@@ -527,13 +527,13 @@ Ashvagosha](../bud/sbe49/index). \[bud\]
 
  
 
-Can. of [Tao te Ching](../tao/taote). \[tao\]
+Can. of [Tao te Ching](../tao/taote.md). \[tao\]
 
-Mayan Classical Phase (to 900 CE), o.c. [Popul Vuh](../nam/pvuheng).
+Mayan Classical Phase (to 900 CE), o.c. [Popul Vuh](../nam/pvuheng.md).
 
 300 CE
 
-[Denkart](../zor/index) in Pahlavi.
+[Denkart](../zor/index.md) in Pahlavi.
 
 ------------------------------------------------------------------------
 
@@ -545,7 +545,7 @@ Mayan Classical Phase (to 900 CE), o.c. [Popul Vuh](../nam/pvuheng).
 
 ------------------------------------------------------------------------
 
-350 w.v. [Avesta](../zor/index) in Pahlavi.
+350 w.v. [Avesta](../zor/index.md) in Pahlavi.
 
 ------------------------------------------------------------------------
 
@@ -553,7 +553,7 @@ Mayan Classical Phase (to 900 CE), o.c. [Popul Vuh](../nam/pvuheng).
 
 ------------------------------------------------------------------------
 
-325 Council of Nicea, Can. of [Christian Bible](../bib/index).
+325 Council of Nicea, Can. of [Christian Bible](../bib/index.md).
 
 (to 13th Cent.) Puranas \[hin\].
 
@@ -571,11 +571,11 @@ Babylonian Talmund \[jud\].
 
 ------------------------------------------------------------------------
 
-401 [Confessions of St. Augustine](../chr/augconf). \[chr\]
+401 [Confessions of St. Augustine](../chr/augconf.md). \[chr\]
 
 ------------------------------------------------------------------------
 
-404 Cod. of the [Vulgate (Latin Bible)](../bib/vul/index).
+404 Cod. of the [Vulgate (Latin Bible)](../bib/vul/index.md).
 
 w.v. Angas in Prakrit \[jai\].
 
@@ -589,13 +589,13 @@ w.v. Angas in Prakrit \[jai\].
 
 500 CE.
 
-550-950 [Bundahishn](../zor/index). \[zor\]
+550-950 [Bundahishn](../zor/index.md). \[zor\]
 
 ------------------------------------------------------------------------
 
-570-632 [Muhammed, founder of Islam](../isl/index).
+570-632 [Muhammed, founder of Islam](../isl/index.md).
 
-538-552 [Buddhism reaches Japan](../bud/rosa/index).
+538-552 [Buddhism reaches Japan](../bud/rosa/index.md).
 
  
 
@@ -603,25 +603,25 @@ w.v. Angas in Prakrit \[jai\].
 
 ------------------------------------------------------------------------
 
-(to 7th Cent.) o.c. [Eddas](../neu/ice/index).
+(to 7th Cent.) o.c. [Eddas](../neu/ice/index.md).
 
 600 C.E.
 
-610 w.v. [Qur'an](../isl/index). \[isl\]
+610 w.v. [Qur'an](../isl/index.md). \[isl\]
 
 ------------------------------------------------------------------------
 
-630 First [Hadith](../isl/index). \[isl\]
+630 First [Hadith](../isl/index.md). \[isl\]
 
 ------------------------------------------------------------------------
 
-644-656 Can. of [Qur'an](../isl/index). \[isl\]
+644-656 Can. of [Qur'an](../isl/index.md). \[isl\]
 
  
 
  
 
-(to 9th Cent.) o.c. Welsh [Mabinogion](../neu/celt/mab/index).
+(to 9th Cent.) o.c. Welsh [Mabinogion](../neu/celt/mab/index.md).
 
 ------------------------------------------------------------------------
 
@@ -633,40 +633,40 @@ w.v. Angas in Prakrit \[jai\].
 
 760 o.c of Bardo Thödol (Tibetean Book of the Dead). \[tib\]
 
-712 w.v. [Kojiki](../shi/kojiki). \[shi\]
+712 w.v. [Kojiki](../shi/kojiki.md). \[shi\]
 
 ------------------------------------------------------------------------
 
-720 w.v. [Nihongi](../shi/index). \[shi\]
+720 w.v. [Nihongi](../shi/index.md). \[shi\]
 
 ------------------------------------------------------------------------
 
-742 Can. of [Writings of Chuang-tzu](../tao/index).
+742 Can. of [Writings of Chuang-tzu](../tao/index.md).
 
  
 
 800 C.E.
 
-[Sepher Yetzirah](../jud/sephir) \[jud\].
+[Sepher Yetzirah](../jud/sephir.md) \[jud\].
 
 ------------------------------------------------------------------------
 
-Can. of [Hadith](../isl/index) \[isl\].
+Can. of [Hadith](../isl/index.md) \[isl\].
 
 ------------------------------------------------------------------------
 
-[Shikand Gumani Vazar](../zor/index) \[zor\].
+[Shikand Gumani Vazar](../zor/index.md) \[zor\].
 
-868 [Diamond Sutra](../bud/sbe49/sbe4929) is first book printed in China
+868 [Diamond Sutra](../bud/sbe49/sbe4929.md) is first book printed in China
 \[bud\].
 
  
 
-w.v. [Poetic Edda](../neu/poe/index)
+w.v. [Poetic Edda](../neu/poe/index.md)
 
 900 C.E.
 
-[Bundahishn](../zor/index). \[zor\]
+[Bundahishn](../zor/index.md). \[zor\]
 
 Agamas \[hin\].
 
@@ -674,9 +674,9 @@ Agamas \[hin\].
 
 946 Start of Tibetan calendar, Kalachakra Tantra \[tib\].
 
-927 [Yengiski](../shi/yengi) \[shi\].
+927 [Yengiski](../shi/yengi.md) \[shi\].
 
-950 (trad.) [Necronomicon](../nec/index) of Abdul Alhazred.
+950 (trad.) [Necronomicon](../nec/index.md) of Abdul Alhazred.
 
 1000 C.E.
 
@@ -696,14 +696,14 @@ Agamas \[hin\].
 
  
 
-1150 Kuo-an Shih yuan's [Ten Pictures of the Ox](../bud/mzb/oxherd).
+1150 Kuo-an Shih yuan's [Ten Pictures of the Ox](../bud/mzb/oxherd.md).
 \[bud\]
 
-1175-1120 compilation of [Confucian Canon](../cfu/index.htm#cfucan) by
+1175-1120 compilation of [Confucian Canon](../cfu/index.htm#cfucan.md) by
 Chu Hsi.
 
-1179-1241 Snorri Sturlson (auth. [Prose Edda](../neu/pre/index),
-[Heimskringla](../neu/heim/index)).
+1179-1241 Snorri Sturlson (auth. [Prose Edda](../neu/pre/index.md),
+[Heimskringla](../neu/heim/index).md).
 
 1200 C.E.
 
@@ -713,15 +713,15 @@ Chu Hsi.
 
 ------------------------------------------------------------------------
 
-1236 [Dogen, founds Soto School of Zen](../bud/rosa/index) \[bud\].
+1236 [Dogen, founds Soto School of Zen](../bud/rosa/index.md) \[bud\].
 
  
 
-1220 [Prose Edda](../neu/pre/index).
+1220 [Prose Edda](../neu/pre/index.md).
 
 1300 C.E.
 
-1306-21 [Divine Comedy](../chr/dante/index) by Dante.
+1306-21 [Divine Comedy](../chr/dante/index.md) by Dante.
 
 ------------------------------------------------------------------------
 
@@ -733,216 +733,216 @@ etexts.
 
  
 
-o.c. [Key of Solomon](../pag/kos/index).
+o.c. [Key of Solomon](../pag/kos/index.md).
 
 ------------------------------------------------------------------------
 
 1300-1325 w.v. White Book of Rhydderch
-([Mabinogion](../neu/celt/mab/index)).
+([Mabinogion](../neu/celt/mab/index).md).
 
 ------------------------------------------------------------------------
 
 1375-1425 Author of Red Book of Hergest
-([Mabinongion](../neu/celt/mab/index)).
+([Mabinongion](../neu/celt/mab/index).md).
 
 1400 C.E.
 
-1456 First p.v. Vulgate [Bible](../bib/vul/index) by Gutenberg.
+1456 First p.v. Vulgate [Bible](../bib/vul/index.md) by Gutenberg.
 
 ------------------------------------------------------------------------
 
-1463 first Latin translation of [Corpus Hermeticum](../chr/herm/index).
+1463 first Latin translation of [Corpus Hermeticum](../chr/herm/index.md).
 
 ------------------------------------------------------------------------
 
-1483-1546 [Martin Luther](../chr/luther/index) chr. reformer.
+1483-1546 [Martin Luther](../chr/luther/index.md) chr. reformer.
 
 1440-1518 Kabir, Isl. Mystic.
 
 ------------------------------------------------------------------------
 
-1469-1538 Guru Nanak, founder of [Sikhism](../skh/index).
+1469-1538 Guru Nanak, founder of [Sikhism](../skh/index.md).
 
  
 
-1486 [Malleus Malificarum](../pag/mm/index): textbook for witch-hunters.
+1486 [Malleus Malificarum](../pag/mm/index.md): textbook for witch-hunters.
 
 1500 C.E.
 
-1517 M. Luther's [95 Theses](../chr/the9510.txt).
+1517 M. Luther's [95 Theses](../chr/the9510.txt.md).
 
 ------------------------------------------------------------------------
 
-1522 [N.T.](../bib/index) Translated into German by M. Luther.
+1522 [N.T.](../bib/index.md) Translated into German by M. Luther.
 
 ------------------------------------------------------------------------
 
-1525 [N.T.](../bib/index) Translated into Englsh by W. Tyndale
+1525 [N.T.](../bib/index.md) Translated into Englsh by W. Tyndale
 (1494-1536).
 
 ------------------------------------------------------------------------
 
-1534 p.v. entire [Bible](../bib/index) in German by M. Luther.
+1534 p.v. entire [Bible](../bib/index.md) in German by M. Luther.
 
 ------------------------------------------------------------------------
 
-1535 p.v. [Bible](../bib/index) in English by Miles Coverdale
+1535 p.v. [Bible](../bib/index.md) in English by Miles Coverdale
 (1488-1569).
 
 ------------------------------------------------------------------------
 
-1546 O.T. [Apocrypha](../bib/apo/index) Can. by Catholic Church.
+1546 O.T. [Apocrypha](../bib/apo/index.md) Can. by Catholic Church.
 
 ------------------------------------------------------------------------
 
-1560 [Foxe's Book of Martyrs](../chr/martyrs/index) \[chr\].
+1560 [Foxe's Book of Martyrs](../chr/martyrs/index.md) \[chr\].
 
-1539 (5th) [Guru Arjan](../skh/index) \[skh\].
+1539 (5th) [Guru Arjan](../skh/index.md) \[skh\].
 
  
 
-1503-1566 [Nostradamus](../nos/index).
+1503-1566 [Nostradamus](../nos/index.md).
 
 ------------------------------------------------------------------------
 
-1554-1558 w.v. [Popul Vuh](../nam/pvuheng).
+1554-1558 w.v. [Popul Vuh](../nam/pvuheng.md).
 
 ------------------------------------------------------------------------
 
-1527-1608. [Calls of Enoch](../eso/enoch/callench), by J. Dee.
+1527-1608. [Calls of Enoch](../eso/enoch/callench.md), by J. Dee.
 
 1600 C.E.
 
-1618-9 [Synod of Dordrecht](../chr/syndort). \[chr\]
+1618-9 [Synod of Dordrecht](../chr/syndort.md). \[chr\]
 
 ------------------------------------------------------------------------
 
-1629 O.T. [Apocrypha](../bib/apo/index) removed from Protestant Bible.
+1629 O.T. [Apocrypha](../bib/apo/index.md) removed from Protestant Bible.
 
 ------------------------------------------------------------------------
 
-1674 [Westminster Shorter Catechism](../chr/westcat1).
+1674 [Westminster Shorter Catechism](../chr/westcat1.md).
 
 ------------------------------------------------------------------------
 
-1677 [Paradise Lost/Regained](../chr/milton/index) by J. Milton.
+1677 [Paradise Lost/Regained](../chr/milton/index.md) by J. Milton.
 
 ------------------------------------------------------------------------
 
-1678 [Pilgrim's Progress](../chr/bunyan/index) by J. Bunyan.
+1678 [Pilgrim's Progress](../chr/bunyan/index.md) by J. Bunyan.
 
 Janam Sakhis \[skh\].
 
 ------------------------------------------------------------------------
 
-Final version of [Adi Granth](../skh/index) \[skh\]
+Final version of [Adi Granth](../skh/index.md) \[skh\]
 
  
 
-1614 Rosicrucian [Fama Fraternitatis](../eso/fama).
+1614 Rosicrucian [Fama Fraternitatis](../eso/fama.md).
 
 1700 C.E
 
-1789 [Episcopal Book of Common Prayer](../chr/bcp.txt).
+1789 [Episcopal Book of Common Prayer](../chr/bcp.txt.md).
 
 ------------------------------------------------------------------------
 
-1793 Thomas Paine's [Age of Reason](../aor/paine/index).
+1793 Thomas Paine's [Age of Reason](../aor/paine/index.md).
 
-[Mahanirvana Tantra](../tantra/maha/index) \[bud\].
+[Mahanirvana Tantra](../tantra/maha/index.md) \[bud\].
 
 ------------------------------------------------------------------------
 
-1708 death of last [Sikh guru](../skh/index).
+1708 death of last [Sikh guru](../skh/index.md).
 
  
 
-1750 [Walam Olum](../nam/walam/walam).
+1750 [Walam Olum](../nam/walam/walam.md).
 
 1800 C.E
 
-1805-1849 Joseph Smith, founder [Mormonism](../mor/index).
+1805-1849 Joseph Smith, founder [Mormonism](../mor/index.md).
 
 ------------------------------------------------------------------------
 
 1817-1892 Baha'u'llah, (Mirza Husayn-'Ali), founder
-[Baha'i](../bhi/index), auth. [Kitab-i-Iqan](../bhi/iqa). \[bhi\]
+[Baha'i](../bhi/index), auth. [Kitab-i-Iqan](../bhi/iqa.md). \[bhi\]
 
 ------------------------------------------------------------------------
 
-1819-1850 the [Bab](../bhi/index) (Mirza 'Ali-Muhammad) \[bhi\].
+1819-1850 the [Bab](../bhi/index) (Mirza 'Ali-Muhammad.md) \[bhi\].
 
 ------------------------------------------------------------------------
 
-1823 [Book of Mormon](../mor/index) tr. Joseph Smith.
+1823 [Book of Mormon](../mor/index.md) tr. Joseph Smith.
 
 ------------------------------------------------------------------------
 
-1859 Darwins' [Origin of Species](../aor/darwin/origin/index).
+1859 Darwins' [Origin of Species](../aor/darwin/origin/index.md).
 
 ------------------------------------------------------------------------
 
-1871 Darwins' [Descent of Man](../aor/darwin/descent/index).
+1871 Darwins' [Descent of Man](../aor/darwin/descent/index.md).
 
 ------------------------------------------------------------------------
 
-1891 [Baltimore Catechism](../chr/balt/index).
+1891 [Baltimore Catechism](../chr/balt/index.md).
 
-1879-1910 Publication of the [Sacred Books of the East](../sbe/index) by
+1879-1910 Publication of the [Sacred Books of the East](../sbe/index.md) by
 Max Müller, 50 volumes of English translations of primary texts of
 Eastern religions. \[hin\]\[bud\]\[zor\]\[cfu\]\[isl\]
 
-1882 [Kojiki](../shi/kojiki) trans. into English by R.H.
+1882 [Kojiki](../shi/kojiki.md) trans. into English by R.H.
 Chamberlain.\[shi\]
 
 ------------------------------------------------------------------------
 
-1896 The [Nihongi](../shi/index) trans. into English by W.G.
+1896 The [Nihongi](../shi/index.md) trans. into English by W.G.
 Ashton.\[shi\]
 
-1802-1884 Elias Lönnrot (auth. [Kalevala](../neu/index.htm#finland)).
+1802-1884 Elias Lönnrot (auth. [Kalevala](../neu/index.htm#finland).md).
 
 ------------------------------------------------------------------------
 
-1812-1820 English trans. of [Walam Olum](../nam/walam/walam).
+1812-1820 English trans. of [Walam Olum](../nam/walam/walam.md).
 
 ------------------------------------------------------------------------
 
-1835-1849 [Kalevala](../neu/index.htm#finland), national epic of
+1835-1849 [Kalevala](../neu/index.htm#finland.md), national epic of
 Finland, by Lönnrot.
 
 ------------------------------------------------------------------------
 
-1880 [The Book of Oahspe](../oah/index).
+1880 [The Book of Oahspe](../oah/index.md).
 
 ------------------------------------------------------------------------
 
-1882 [Atlantis, the Antediluvian World](../atl/ataw/index). by Donnelly.
+1882 [Atlantis, the Antediluvian World](../atl/ataw/index.md). by Donnelly.
 
 ------------------------------------------------------------------------
 
-1885 p.v. [Walam Olum](../nam/walam/walam) (Brinton).
+1885 p.v. [Walam Olum](../nam/walam/walam) (Brinton.md).
 
 ------------------------------------------------------------------------
 
-1888 [The Secret Doctrine](../the/sd/index) by H.P. Blatavsky.
+1888 [The Secret Doctrine](../the/sd/index.md) by H.P. Blatavsky.
 
 ------------------------------------------------------------------------
 
-1890-1922 [The Golden Bough](../pag/frazer/index) by Frazer.
+1890-1922 [The Golden Bough](../pag/frazer/index.md) by Frazer.
 
 ------------------------------------------------------------------------
 
-1899 [Aradia, Gospel of the Witches](../pag/aradia), by C. Leland.
+1899 [Aradia, Gospel of the Witches](../pag/aradia.md), by C. Leland.
 \[wic\]
 
 1900 CE.
 
-1909 Darwins' [Voyage of the Beagle](../aor/darwin/beagle/index).
+1909 Darwins' [Voyage of the Beagle](../aor/darwin/beagle/index.md).
 
 ------------------------------------------------------------------------
 
-1934 [Declaration of Barmen](../chr/barmen) by K. Barth condems Hitler
+1934 [Declaration of Barmen](../chr/barmen.md) by K. Barth condems Hitler
 \[chr\].
 
 ------------------------------------------------------------------------
@@ -961,7 +961,7 @@ Finland, by Lönnrot.
 
  
 
-1921 [The Witch Cult in Western Europe](../pag/wcwe/index) by M. Murray.
+1921 [The Witch Cult in Western Europe](../pag/wcwe/index.md) by M. Murray.
 \[wic\]
 
 ------------------------------------------------------------------------
@@ -975,27 +975,27 @@ the 'Digital Millenium' Copyright Act of 1998.
 
 ------------------------------------------------------------------------
 
-1948 [The White Goddess](../pag/twg) by R. Graves. \[wic\]
+1948 [The White Goddess](../pag/twg.md) by R. Graves. \[wic\]
 
 ------------------------------------------------------------------------
 
-1949-61 Gardnerian [Book of Shadows](../pag/gbos/index) \[wic\].
+1949-61 Gardnerian [Book of Shadows](../pag/gbos/index.md) \[wic\].
 
 ------------------------------------------------------------------------
 
-1968 [Principia Discordia](../eso/pridisc).
+1968 [Principia Discordia](../eso/pridisc.md).
 
 ------------------------------------------------------------------------
 
-1985 [TAZ](../eso/taz) by Hakim Bey.
+1985 [TAZ](../eso/taz.md) by Hakim Bey.
 
 ------------------------------------------------------------------------
 
-80s and early 90s: [Internet Book of Shadows](../bos/index).
+80s and early 90s: [Internet Book of Shadows](../bos/index.md).
 
 ------------------------------------------------------------------------
 
-3/9/1999 After three years of research, [ith.oarc.science](../index)
+3/9/1999 After three years of research, [ith.oarc.science](../index.md)
 goes live.
 
 2000 CE.
@@ -1081,7 +1081,7 @@ w.v. = written version
 
 This page © copyright J.B. Hare, 1997-2001.
 
-[Collection copyright](../sect103) © 1997-2001 J.B. Hare. HTML markup
+[Collection copyright](../sect103.md) © 1997-2001 J.B. Hare. HTML markup
 Copyright © 1997-2001 J.B. Hare except where noted. All files at this
 site named **index.htm** or **index.html** are Copyright © 1997-2001
 J.B. Hare except where noted. All graphics Copyright © 1997-2001 J.B.

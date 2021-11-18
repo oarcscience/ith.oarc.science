@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Thomas Paine](../index)  [Index](index) 
-[Previous](aor00)  [Next](aor02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Thomas Paine](../index)  [Index](index.md) 
+[Previous](aor00)  [Next](aor02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595479104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595479104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ Heritage
 ------------------------------------------------------------------------
 
 [Next: Editor's Introduction with Some Results of Recent
-Researches](aor02)
+Researches](aor02.md)

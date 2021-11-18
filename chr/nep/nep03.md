@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep02)  [Next](nep04) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep02)  [Next](nep04.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ body, and the life everlasting. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: The Lord's Prayer](nep04)
+[Next: The Lord's Prayer](nep04.md)

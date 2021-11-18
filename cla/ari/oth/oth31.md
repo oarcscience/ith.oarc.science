@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth30)  [Next](oth32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth30)  [Next](oth32.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ reducible to one, they must be several and finite in number.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6](oth32)
+[Next: Chapter 6](oth32.md)

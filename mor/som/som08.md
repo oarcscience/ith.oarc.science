@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](som07) 
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](som07.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ not come except there come a falling away first." (II Thess. 2:3.)
 Church of Christ, dating from the time immediately following the
 apostolic period. We believe that the proper interpretation of history
 will confirm this view; and, moreover, that the inspired scriptures
-foretold just such a condition. <span id="fr_4"></span>[5](#fn_4)
+foretold just such a condition. <span id="fr_4"></span>[5](#fn_4.md)
 
 If the Priesthood had been once taken from the earth no human power
 could re-establish it; the restoration of this authority from heaven
@@ -175,7 +175,7 @@ blessing of the living, and particularly to the vicarious labor of the
 living in behalf of the dead. In them the ordinances of baptism, and the
 laying on of hands for the bestowal of the Holy Ghost, are performed
 upon the living representatives of the dead. <span
-id="fr_5"></span>[6](#fn_5)
+id="fr_5"></span>[6](#fn_5.md)
 
 But this labor for the dead is two-fold; it comprises the proper
 performance of the required ordinances on earth, and the preaching of
@@ -374,11 +374,11 @@ from time to time revealed.
 
 ### Footnotes
 
-<span id="fn_4"></span>[:5](som08.htm#fr_4) See "The Great Apostasy:
+<span id="fn_4"></span>[:5](som08.htm#fr_4.md) See "The Great Apostasy:
 Considered in the Light of Scriptural and Secular History," by James E.
 Talmage. Published by the *Deseret News*, Salt Lake City, Utah; 176 pp.
 
-<span id="fn_5"></span>[:6](som08.htm#fr_5) For a detailed treatment of
+<span id="fn_5"></span>[:6](som08.htm#fr_5.md) For a detailed treatment of
 Temples and Temple labor among the Latter-day Saints, including a study
 of the doctrine of vicarious labor for the dead, see "The House of the
 Lord, a Study of Holy Sanctuaries Ancient and Modern," including

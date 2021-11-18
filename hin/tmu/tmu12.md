@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu11)  [Next](tmu13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu11)  [Next](tmu13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_55">p. 55</span>
 
-### AḌHYĀṬMA-UPANISHAḌ <span id="fr_33"></span>[1](#fn_33)
+### AḌHYĀṬMA-UPANISHAḌ <span id="fr_33"></span>[1](#fn_33.md)
 
 ### OF
 
@@ -128,7 +128,7 @@ inferior) which shines through meditation upon the idea and the
 
 <span id="page_58">p. 58</span>
 
-world asmaṭ <span id="fr_34"></span>[1](#fn_34) and the consciousness of
+world asmaṭ <span id="fr_34"></span>[1](#fn_34.md) and the consciousness of
 which is developed by antaḥkaraṇa. By separating the upāḍhis Māyā and
 aviḍyā from Para and Jīva (cosmic and human Āṭmās respectively), one
 realises Parabrahman which is partless and Sachchiḍānanḍa. Making the
@@ -171,7 +171,7 @@ the good or reviled by the vicious. One who has cognized the true nature
 of Brahman is not subject to rebirth as before. But were he so
 subjected, then he is not a true knower, the knowing of Brahman being
 external only. A man is subject to prārabḍha <span
-id="fr_35"></span>[1](#fn_35) so long as he is affected by pleasure,
+id="fr_35"></span>[1](#fn_35.md) so long as he is affected by pleasure,
 etc. The attainment of a result is always preceded by action; and
 nowhere is it without karma. Through the cognition "I am Brahman" are
 destroyed the karmas accumulated during hundreds of crores of previous
@@ -241,18 +241,18 @@ teaching of the Veḍas. Thus ends the Upanishaḍ.
 
 ### Footnotes
 
-<span id="fn_33"></span>[55:1](tmu12.htm#fr_33) This Upanishaḍ is also
+<span id="fn_33"></span>[55:1](tmu12.htm#fr_33.md) This Upanishaḍ is also
 called Ṭurīyāṭīṭa Avaḍhūṭa Upanishaḍ.
 
-<span id="fn_34"></span>[58:1](tmu12.htm#fr_34) I and its inflexions.
+<span id="fn_34"></span>[58:1](tmu12.htm#fr_34.md) I and its inflexions.
 
-<span id="fn_35"></span>[59:1](tmu12.htm#fr_35) The result of past karma
+<span id="fn_35"></span>[59:1](tmu12.htm#fr_35.md) The result of past karma
 now enjoyed.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 11. Subala-Upanishaḍ of Śukla-Yajurveḍa](tmu13)
+[Next: 11. Subala-Upanishaḍ of Śukla-Yajurveḍa](tmu13.md)
 
 </div>

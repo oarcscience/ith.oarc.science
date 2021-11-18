@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](yom08)  [Next](yom10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](yom08)  [Next](yom10.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -290,7 +290,7 @@ poured them into one Of 3 Kabs; but on this day he filled one Of 3 Kabs,
 and also carried them in it. R. Jose says: Every day he filled one of a
 Seah \[6 Kabs\], and emptied it into one Of 3 Kabs; but on this day he
 filled one Of 3 Kabs, and carried them in it. <span
-id="fr_19"></span>[1](#fn_19) On all days it was a heavy (massive) one,
+id="fr_19"></span>[1](#fn_19) On all days it was a heavy (massive.md) one,
 but on this day he took a light one. Every day its handle was short, on
 this day long; all days its gold was yellow, but on that day red. This
 is according to R. Mena'hem. On all days he used to offer half a Mina
@@ -471,7 +471,7 @@ removed a coal and extinguished it wantonly.
 
 ### Footnotes
 
-<span id="fn_19"></span>[64:1](yom09.htm#fr_19) The reason is, because
+<span id="fn_19"></span>[64:1](yom09.htm#fr_19.md) The reason is, because
 the coals must be live coals, so as to give a flame. As the top ones
 become somewhat dull, he drops them on the floor and only the middle
 ones are used, They differ, however, as to the measure of coals
@@ -481,4 +481,4 @@ extinguishes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Remaining Services of the High-Priest](yom10)
+[Next: Chapter V: Remaining Services of the High-Priest](yom10.md)

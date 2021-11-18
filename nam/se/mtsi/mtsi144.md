@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi143)  [Next](mtsi145) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi143)  [Next](mtsi145.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ were overflowed. All the creatures drank and were very happy.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Thunder](mtsi145)
+[Next: 9. Thunder](mtsi145.md)

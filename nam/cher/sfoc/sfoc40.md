@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc39)  [Next](sfoc41) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc39)  [Next](sfoc41.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ formula intended especially for deer.
 
 ------------------------------------------------------------------------
 
-[Next: Bear Song](sfoc41)
+[Next: Bear Song](sfoc41.md)

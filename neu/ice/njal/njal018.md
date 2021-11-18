@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal017)  [Next](njal019) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal017)  [Next](njal019.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ but land and stock.
 
 ------------------------------------------------------------------------
 
-[Next: 19. Gunnar Comes Into The Story](njal019)
+[Next: 19. Gunnar Comes Into The Story](njal019.md)

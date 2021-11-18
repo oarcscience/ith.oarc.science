@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg64)  [Next](cdg66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg64)  [Next](cdg66.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ necessary, according to which we touch the divine essence with the
 summit of our soul, and verge to a union with it. But there is yet
 farther required, an approximating adhesion: for thus the oracle calls
 it, when it says, *the mortal approximating to fire will possess a light
-from the Gods*. <span id="fr_222"></span>[\*](#fn_222) For this imparts
+from the Gods*. <span id="fr_222"></span>[\*](#fn_222.md) For this imparts
 to us a greater communion with, and a more manifest participation of the
 light of the Gods.
 
@@ -59,10 +59,10 @@ PAGES 176, 175, 179.</span>
 
 ### Footnotes
 
-<span id="fn_222"></span>[304:\*](cdg65.htm#fr_222) "*For* \[*according
+<span id="fn_222"></span>[304:\*](cdg65.htm#fr_222.md) "*For* \[*according
 to the oracle*\] *the rapid Gods perfect the mortal constantly employed
 in prayer*." PROCLUS.
 
 ------------------------------------------------------------------------
 
-[Next: CCC. Lord of Bavaria](cdg66)
+[Next: CCC. Lord of Bavaria](cdg66.md)

@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama104) 
-[Next](kama201) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama104.md) 
+[Next](kama201.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -33,11 +33,11 @@ those previously enjoyed by others, even though they be of the same
 caste, is prohibited. But the practice of Kama with women of the lower
 castes, with women excommunicated from their own caste, with public
 women, and with women twice married, <span
-id="fr_27"></span>[1](kama101.htm#fn_0) is neither enjoined nor
+id="fr_27"></span>[1](kama101.htm#fn_0.md) is neither enjoined nor
 prohibited. The object of practising Kama with such women is pleasure
 only.
 
-Nayikas, <span id="fr_28"></span>[2](kama101.htm#fn_1) therefore, are of
+Nayikas, <span id="fr_28"></span>[2](kama101.htm#fn_1.md) therefore, are of
 three kinds, viz. maids, women twice married, and public women.
 Gonikaputra has expressed an opinion that there is a fourth kind of
 Nayika, viz. a woman who is resorted to on some special occasion even
@@ -218,12 +218,12 @@ And this part ends with a verse:
 
 ### Footnotes
 
-<span id="fn_27"></span>[1](#fr_-1) This term does not apply to a widow,
+<span id="fn_27"></span>[1](#fr_-1.md) This term does not apply to a widow,
 but to a woman who has probably left her husband, and is living with
 some other person as a married woman, *maritalement*, as they say in
 France.
 
-<span id="fn_28"></span>[2](#fr_-1) Any woman fit to be enjoyed without
+<span id="fn_28"></span>[2](#fr_-1.md) Any woman fit to be enjoyed without
 sin. The object of the enjoyment of women is twofold, viz. pleasure and
 progeny. Any woman who can be enjoyed without sin for the purpose of
 accomplishing either the one or the other of these two objects is a
@@ -235,4 +235,4 @@ as a technical term throughout.
 ------------------------------------------------------------------------
 
 [Next: Chapter I. Kinds of Union According to Dimensions, Force of
-Desire, and Time; and on the Different Kinds of Love](kama201)
+Desire, and Time; and on the Different Kinds of Love](kama201.md)

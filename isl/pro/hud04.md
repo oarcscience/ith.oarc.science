@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hud03)  [Next](sal00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hud03)  [Next](sal00.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,4 +135,4 @@ and messengers until the time of the doomsday.
 
 ------------------------------------------------------------------------
 
-[Next: The Prophet Sâlih (PUH)](sal00)
+[Next: The Prophet Sâlih (PUH)](sal00.md)

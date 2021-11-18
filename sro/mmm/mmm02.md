@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](mmm01)  [Next](mmm03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](mmm01)  [Next](mmm03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Traces of a Hidden Tradition in Masonry and Medieval Mysticism*, by
 Isabel Cooper-Oakley, \[1900\], at Intangible Textual Heritage
 
@@ -103,7 +103,7 @@ Begotten by that spiritual Hierarchy in whose guardianship is the
 evolution of the human race, brought forth from them, they, the
 guardians of the mystic tradition, give to those children of men who are
 strong enough for the burden, a portion of the real teaching of the
-Divine Science <span id="fr_0"></span>[\*](#fn_0) concerning God and
+Divine Science <span id="fr_0"></span>[\*](#fn_0.md) concerning God and
 man, and the wonderful relationship that exists between the two.
 
 With the passing of time the old orders changed, old forms perished, and
@@ -163,7 +163,7 @@ on a holy life leading to a divine goal. The doctrines and elaborations
 which were later introduced arose in every case from the followers, who
 brought in their more worldly aims, and transformed thereby the purity
 and simplicity of the early ideal into an ornate body, <span
-id="fr_1"></span>[\*](#fn_1) with [worldly](errata.htm#0) passions and
+id="fr_1"></span>[\*](#fn_1) with [worldly](errata.htm#0.md) passions and
 constant strivings for mundane power.
 
 Hence we find at the end of the nineteenth century, on one side the
@@ -210,14 +210,14 @@ as King truly remarks:
 <span class="small">Hippolytus . . . . . was right in calling all these
 heresies nothing better than the old philosophies disguised under new
 names; his only error lay in not going back far enough to find their
-ultimate source. <span id="fr_2"></span>[\*](#fn_2)</span>
+ultimate source. <span id="fr_2"></span>[\*](#fn_2.md)</span>
 
 Let us turn to that great conception, the doctrine of reincarnation,
 sometimes less correctly termed metempsychosis or transmigration. This
 tenet is the basis of the old Wisdom Religion, or Brahma-Vidyâ, and can
 be distinctly traced in all those mystic societies which draw their
 spiritual life from Gnostic sources. As Lecky <span
-id="fr_3"></span>[†](#fn_3) says:
+id="fr_3"></span>[†](#fn_3.md) says:
 
 <span class="small">The doctrine of transmigration was emphatically
 repudiated by the Catholics; the human race was isolated by the scheme
@@ -229,7 +229,7 @@ and it was against this isolation that the mystics,
 
 or so-called heretics, struggled; this ancient doctrine of the
 transmigration of the soul was one of the heretical opinions for which
-the Cathari <span id="fr_4"></span>[\*](#fn_4) were persecuted by the
+the Cathari <span id="fr_4"></span>[\*](#fn_4.md) were persecuted by the
 Catholic Church. It was very freely taught by the Troubadours in their
 mystic poems; a monk in his attack on Troubadour heretics mentions this
 doctrine with much scoffing and ridicule. We owe a debt of thanks to
@@ -262,7 +262,7 @@ fourteenth century, the details of which will be given when we come to
 that period. It must be borne in mind that the true occultism, the real
 mysticism, is essentially religious in its nature, and students of
 Theosophy must not be surprised to find that some of the historical
-religious sects <span id="fr_5"></span>[\*](#fn_5) have had their
+religious sects <span id="fr_5"></span>[\*](#fn_5.md) have had their
 foundation in occultism and Theosophy. Such for instance are the
 Albigenses and the Waldenses, the forerunners of the Wesleyans, the
 Quietists and Quakers. These appear side by side with the Rosicrucians,
@@ -302,7 +302,7 @@ monstrous and unaccountable abortions, obeying no law and owning no
 reason. Fortunate is he who is thus allowed to step behind the scenes of
 the world's drama and hear the plans proposed and the pros and cons of
 the councillors which give rise to lines of action. <span
-id="fr_6"></span>[\*](#fn_6)</span>
+id="fr_6"></span>[\*](#fn_6.md)</span>
 
 Truly one could almost think a Theosophist was
 
@@ -316,12 +316,12 @@ As already said, the occult doctrines of the Gnostics were heirlooms and
 sacred traditions from a very distant past, and when the early Christian
 era dawned, the human race had long been plunged in the darkening and
 materializing tendencies of the Black Age. <span
-id="fr_7"></span>[\*](#fn_7) Soon indeed, the Gnosis was rejected by the
+id="fr_7"></span>[\*](#fn_7.md) Soon indeed, the Gnosis was rejected by the
 orthodox church, and the sacred and secret teachings of the great Master
 Jesus became materialized; they have, however, never been lost, and
 traces of them can be discerned from epoch to epoch.
 
-Says Marras <span id="fr_8"></span>[†](#fn_8) in his interesting study:
+Says Marras <span id="fr_8"></span>[†](#fn_8.md) in his interesting study:
 
 <span class="small">When therefore we speak of the continuation of their
 doctrines during the Middle Ages, we mean only a secret transmission of
@@ -342,7 +342,7 @@ authority in repressing it. The Manichæans wherever they appeared were
 immediately attacked: they were condemned in Spain in the year 380, and
 at Trèves in 385, in their representatives the Priscillianists; the
 Empire seems determined to annihilate Manichæism <span
-id="fr_9"></span>[\*](#fn_9), as well as Gnosticism when suddenly the
+id="fr_9"></span>[\*](#fn_9.md), as well as Gnosticism when suddenly the
 latter arose under a new form and under a new name—that of
 Paulicianism.</span>
 
@@ -369,7 +369,7 @@ the true and leave the false mysticism, is then the aim in view. It is
 perhaps simplest to begin with the present era and trace the way back
 through the darkness of the middle ages to the period when the Gnostic
 schools still preserved to a great extent the sacred Eastern
-traditions. <span id="fr_10"></span>[\*](#fn_10) The details of that
+traditions. <span id="fr_10"></span>[\*](#fn_10.md) The details of that
 period must be left to hands more skilled to treat the subject.
 
 Let us then take a survey of the last nine centuries of the Christian
@@ -402,7 +402,7 @@ letter of the law and sought the spirit which lay behind were cast out.
 We have but to search the records of the Puritans and some other
 Protestant bodies to see how rigid were their dealings with those who
 rejected their narrow theological dogmas. <span
-id="fr_11"></span>[\*](#fn_11)
+id="fr_11"></span>[\*](#fn_11.md)
 
 <span id="page_20">p. 20</span>
 
@@ -425,7 +425,7 @@ doing, he will incur the indignation of Almighty God, and of the blessed
 Apostles Peter and Paul!"
 
 Thus thundered Pope Honorius III. in the fourteenth century. <span
-id="fr_12"></span>[\*](#fn_12) To give one solitary instance out of the
+id="fr_12"></span>[\*](#fn_12.md) To give one solitary instance out of the
 numerous condemnations that fluttered about the mystic path.
 
 Indeed it is hardly credible, even with the records open before us, that
@@ -448,7 +448,7 @@ most bitterly deplored the growing scepticism. The materialists were the
 enemies of mystics, occultists and religionists of every kind, Catholic
 and Protestant. The Catholic party tried to father the outbreak of the
 revolution on the mystics. The Abbé Barruel in his book on
-Jacobinism <span id="fr_13"></span>[\*](#fn_13) has taken every pains to
+Jacobinism <span id="fr_13"></span>[\*](#fn_13.md) has taken every pains to
 do this, as also have the Abbé Migne and many others. But the appalling
 corruption of the Catholic Church, conjoined with her insistence on the
 ignorance of the people, was one of the great factors in that terrible
@@ -456,7 +456,7 @@ outbreak.
 
 In a very interesting correspondence between the Baron Kirschberger de
 Liebesdorf and Louis Claude de St. Martin, <span
-id="fr_14"></span>[†](#fn_14) the situation is most clearly described,
+id="fr_14"></span>[†](#fn_14.md) the situation is most clearly described,
 
 <span id="page_22">p. 22</span>
 
@@ -516,7 +516,7 @@ of theological works occupied a considerable portion of every volume.
 These reviews were composed with so much wisdom that our professors in
 Switzerland recommended them in their public discourses to our young
 Churchmen. But they let in the poison \[of materialism\] a little at a
-time and very carefully. <span id="fr_15"></span>[\*](#fn_15)
+time and very carefully. <span id="fr_15"></span>[\*](#fn_15.md)
 
 This organized conspiracy was the result of the methods adopted by the
 Catholic Church. Men demanded knowledge, sought knowledge, and attained
@@ -542,7 +542,7 @@ life and its forces. Hence their bitter and criminal attacks upon the
 Comte de St. Germain, Cagliostro, Saint Martin, and also upon the
 various mystical secret societies and Freemasonry in general. Keeping
 this powerful and malignant organization <span
-id="fr_16"></span>[\*](#fn_16) in view, we shall better understand the
+id="fr_16"></span>[\*](#fn_16.md) in view, we shall better understand the
 charges brought against the various mystics above mentioned. It is only
 in the course of research that it is possible to realize the
 vindictiveness and argus-eyed watchfulness with which these Nicolaïtes
@@ -576,14 +576,14 @@ enigmatical; but when once aware of the existence of the marked language
 of the secret Anti-papal Sects (especially of the Society of the
 Templars, and the Patarini, or Albigenses, or Cathari, with whom the
 learned in Italy were then so strictly connected), we find them very
-intelligible and clear. <span id="fr_17"></span>[\*](#fn_17)</span>
+intelligible and clear. <span id="fr_17"></span>[\*](#fn_17.md)</span>
 
 I
 
 <span id="page_26">p. 26</span>
 
 So that Rossetti speaks in the same manner as Barham in the passage
-already cited about a secret force <span id="fr_18"></span>[\*](#fn_18)
+already cited about a secret force <span id="fr_18"></span>[\*](#fn_18.md)
 permeating the outer society. Again he says:
 
 <span class="small">Why were the Templars, who were members of the most
@@ -591,7 +591,7 @@ illustrious families in Europe, sacrificed by hundreds in different
 countries? Why were the Patarini burned alive in almost every city?
 History tells us: they belonged to secret societies, and professed
 doctrines inimical to Rome. What those doctrines were is well known, as
-far as regards the Patarini. <span id="fr_19"></span>[†](#fn_19)</span>
+far as regards the Patarini. <span id="fr_19"></span>[†](#fn_19.md)</span>
 
 Rossetti then proceeds to mention the Albigenses as a sect emanating
 from the Templars, who themselves held Eastern doctrines, a fact not
@@ -619,7 +619,7 @@ the groups to which they are related.
 Eighteenth century: The Fratres Lucis, or The Knights of Light; The
 Rosicrucians; The Knights and Brothers Initiate of St. John the
 Evangelist from Asia, or the Asiatische Brüder; The Martinists; The
-Theosophical Society <span id="fr_20"></span>[\*](#fn_20); The
+Theosophical Society <span id="fr_20"></span>[\*](#fn_20.md); The
 Quietists; The Knights-Templars; Some Masonic Bodies.
 
 Seventeenth century: The Rosicrucians; The Templars; The Asiatische
@@ -666,7 +666,7 @@ Tenth century: Paulicians: Bogomiles; Euchites; Manichæans.
 
 From the Ninth century to the Third century the following organisations
 and sects appear: Manichæans; Euchites; Magistri Comacini; <span
-id="fr_21"></span>[\*](#fn_21) Dionysian Artificers; Ophites;
+id="fr_21"></span>[\*](#fn_21.md) Dionysian Artificers; Ophites;
 Nestorians; Eutychians.
 
 In the Fourth century the central figure for all occult students is the
@@ -707,12 +707,12 @@ seeking truth in the perplexities of the changing phases of human life.
 
 ### Footnotes
 
-<span id="fn_0"></span>[8:\*](mmm02.htm#fr_0) This "Science of the Soul"
+<span id="fn_0"></span>[8:\*](mmm02.htm#fr_0.md) This "Science of the Soul"
 is the fact against which the Roman Church waged such bitter war, and
 formed the basis for the attack upon the various sects such as the
 Albigenses, Patarini, and Vaudois, all remnants of Gnostic sects.
 
-<span id="fn_1"></span>[10:\*](mmm02.htm#fr_1) "The favour and success
+<span id="fn_1"></span>[10:\*](mmm02.htm#fr_1.md) "The favour and success
 of the Paulicians in the eleventh and twelfth centuries must be imputed
 to the strong, though secret, discontent which armed the most pious
 Christians against the Church of Rome. Her avarice was oppressive, her
@@ -725,14 +725,14 @@ many references, is to be found in Fuesslins (Johann Conrad), *Neue and
 unpartheyische Kirchen and Ketzerhistorie der Mittlern Zeit*. Frankfurt
 u. Leipzig, 1770.
 
-<span id="fn_2"></span>[12:\*](mmm02.htm#fr_2) King (C. W.), *The
+<span id="fn_2"></span>[12:\*](mmm02.htm#fr_2) King (C. W..md), *The
 Gnostics and their Remains*, p. 13. London, 1887.
 
-<span id="fn_3"></span>[12:†](mmm02.htm#fr_3) Lecky (W. E., M.A.),
+<span id="fn_3"></span>[12:†](mmm02.htm#fr_3) Lecky (W. E., M.A..md),
 *History of European Morals*, Vol. II. p. 167. Third Edition. London,
 1877.
 
-<span id="fn_4"></span>[13:\*](mmm02.htm#fr_4) Says Lea: "Transmigration
+<span id="fn_4"></span>[13:\*](mmm02.htm#fr_4.md) Says Lea: "Transmigration
 provides for the future reward or punishment of deeds done in life." Lea
 (Henry Charles), *A History of the Inquisition of the Middle Ages*, Vol.
 I., p. 91, 98. Schmid (C.), *Histoire et Doctrine de la Secte des
@@ -740,7 +740,7 @@ Cathares ou Albigeois*, Vol. II., p. 256. Paris, 1849. Says: "La
 Metempsycose enseignée par l’une les écoles Cathares se retrouve
 également dans le Manichéisme."
 
-<span id="fn_5"></span>[14:\*](mmm02.htm#fr_5) The principal secret
+<span id="fn_5"></span>[14:\*](mmm02.htm#fr_5.md) The principal secret
 societies take St. John as their patron saint as we shall see when
 dealing with the details of many of these bodies. Notably is this the
 case with many of the Masonic bodies. See the articles on
@@ -748,17 +748,17 @@ case with many of the Masonic bodies. See the articles on
 Freimaurerei*, Zweite völlig umgearbeitete Auflage; ii. p. 68. Leipzig,
 1865.
 
-<span id="fn_6"></span>[15:\*](mmm02.htm#fr_6) *The Life and Times of
+<span id="fn_6"></span>[15:\*](mmm02.htm#fr_6.md) *The Life and Times of
 John Reuchlin or Capnio*n, by Francis Barham (editor of the Hebrew and
 English Bible. London, 1843), p. 17.
 
-<span id="fn_7"></span>[16:\*](mmm02.htm#fr_7) The Kali-Yuga of the
+<span id="fn_7"></span>[16:\*](mmm02.htm#fr_7.md) The Kali-Yuga of the
 Hindus.
 
-<span id="fn_8"></span>[16:†](mmm02.htm#fr_8) Marras (P.), *Secret
+<span id="fn_8"></span>[16:†](mmm02.htm#fr_8) Marras (P..md), *Secret
 Fraternities of the Middle Ages*, pp. 19-21. London, 1865.
 
-<span id="fn_9"></span>[17:\*](mmm02.htm#fr_9) In his last years the
+<span id="fn_9"></span>[17:\*](mmm02.htm#fr_9.md) In his last years the
 Pope had leisure to turn his arms against the Manichæan heretics, who,
 starting from the mountains of Bulgaria, carried their pure but stern
 religion westwards in a constant stream which never lost touch with its
@@ -767,7 +767,7 @@ earned the execration of their contemporaries, and the respect of
 posterity. Browning (Oscar), *Guelphs and Ghibellines: a short History
 of Mediæval Italy* from 1250-1409, p. 10, 1893.
 
-<span id="fn_10"></span>[18:\*](mmm02.htm#fr_10) One curious fact which
+<span id="fn_10"></span>[18:\*](mmm02.htm#fr_10.md) One curious fact which
 makes a further identity between these bodies is given by H. C. Lea, in
 his *History of the Inquisition of the Middle Ages*, Vol. I., p. 92.
 London, 1888. "A further irrefragable evidence of the derivation of
@@ -782,34 +782,34 @@ Aryan family. Among the Cathari the wearer of the thread and vestment
 was what was known among the inquisitors as the *hæreticus indutus* or
 *vestitus*, initiated into all the mysteries of the heresy."
 
-<span id="fn_11"></span>[19:\*](mmm02.htm#fr_11) See the execution and
+<span id="fn_11"></span>[19:\*](mmm02.htm#fr_11.md) See the execution and
 trial of Servetus, 1553, Willis (R., M.D.) Servetus and Calvin. *A Study
 of an important Epoch in the early History of the Reformation;* p. 480.
 London, 1877.
 
-<span id="fn_12"></span>[20:\*](mmm02.htm#fr_12) *History of the
+<span id="fn_12"></span>[20:\*](mmm02.htm#fr_12.md) *History of the
 Christian Church*, by the Rev. Henry Stebbing, A.M. (London, 1834), ii.,
 301.
 
-<span id="fn_13"></span>[21:\*](mmm02.htm#fr_13) Barruel: *Mémoires pour
+<span id="fn_13"></span>[21:\*](mmm02.htm#fr_13.md) Barruel: *Mémoires pour
 servir à l’Histoire du Jacobinisme*, 4 vols. London, 1797.
 
-<span id="fn_14"></span>[21:†](mmm02.htm#fr_14) Le Philosophe Inconnu,
+<span id="fn_14"></span>[21:†](mmm02.htm#fr_14.md) Le Philosophe Inconnu,
 the leader of the Martinists.
 
-<span id="fn_15"></span>[23:\*](mmm02.htm#fr_15) *La Correspondance
+<span id="fn_15"></span>[23:\*](mmm02.htm#fr_15.md) *La Correspondance
 inédite de L. C. Saint-Martin et Kirchoerger, Baron de Liebistorf*
 (1792-1797). Paris, 1862; pp. 195, 196.
 
-<span id="fn_16"></span>[24:\*](mmm02.htm#fr_16) The Nicolaïtes.
+<span id="fn_16"></span>[24:\*](mmm02.htm#fr_16.md) The Nicolaïtes.
 
-<span id="fn_17"></span>[25:\*](mmm02.htm#fr_17) *Disquisitions on the
+<span id="fn_17"></span>[25:\*](mmm02.htm#fr_17.md) *Disquisitions on the
 Anti papal Spirit which produced the Reformation*, by Gabriele Rossetti,
 Prof. of Italian Literature at King's College (London, 5834), ii. 156.
 He is here referring to a secret language, the existence of which was
 known to many writers.
 
-<span id="fn_18"></span>[26:\*](mmm02.htm#fr_18) Says Lea in speaking of
+<span id="fn_18"></span>[26:\*](mmm02.htm#fr_18.md) Says Lea in speaking of
 Calabria: "The Heretics sought and obtained in 1497 from King Frederic
 the confirmation by the crown of agreements. . . . They were visited
 every two years by the travelling pastors or *barbes*, who came in
@@ -822,12 +822,12 @@ vigilance there existed throughout Italy a subterranean network of
 heresy disguised under outward conformity."—Lea (H. C.), *History of the
 Inquisition of the Middle Ages;* II., pp. 268, 269. New York; 1888.
 
-<span id="fn_19"></span>[26:†](mmm02.htm#fr_19) *Op. Cit.*, I. 148.
+<span id="fn_19"></span>[26:†](mmm02.htm#fr_19.md) *Op. Cit.*, I. 148.
 
-<span id="fn_20"></span>[27:\*](mmm02.htm#fr_20) Founded in London,
+<span id="fn_20"></span>[27:\*](mmm02.htm#fr_20.md) Founded in London,
 1767, by Benedicte Chastamer, a mystic mason.
 
-<span id="fn_21"></span>[29:\*](mmm02.htm#fr_21) Llorente (J. A.).
+<span id="fn_21"></span>[29:\*](mmm02.htm#fr_21) Llorente (J. A..md).
 *Hist. of the Inquisition*. London, 1826. Merzario (Giuseppe, Prof.); *I
 Maestri Comacìni;* Milano; 1893. This author says: "In this darkness
 which extended over all Italy, only one small lamp remained alight,
@@ -843,6 +843,6 @@ often secret—of the *Magistri Comacini*."
 
 ------------------------------------------------------------------------
 
-[Next: Towards the Hidden Sources of Masonry](mmm03)
+[Next: Towards the Hidden Sources of Masonry](mmm03.md)
 
 </div>

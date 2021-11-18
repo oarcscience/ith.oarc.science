@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq51)  [Next](sfq53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq51)  [Next](sfq53.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,4 +148,4 @@ prize.
 
 ------------------------------------------------------------------------
 
-[Next: How the Golden Girdle was awarded to the False Florimell](sfq53)
+[Next: How the Golden Girdle was awarded to the False Florimell](sfq53.md)

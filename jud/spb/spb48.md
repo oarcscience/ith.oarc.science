@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb47)  [Next](spb49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb47)  [Next](spb49.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -16,7 +16,7 @@ Intangible Textual Heritage
 
 ### SERVICE AT THE CONSECRATION OF A HOUSE
 
-*Psalm xxx., [p. 103](spb07.htm#page_103)*.
+*Psalm xxx., [p. 103](spb07.htm#page_103.md)*.
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ will I destroy all the wicked of the land: to cut off all the workers of
 iniquity from the city of the Lord.
 
 *Psalms cxxi. (cxxvii., cxxviii., if appropriate), see pp.
-[265](spb22.htm#page_265)–[268](spb22.htm#page_268)*.
+[265](spb22.htm#page_265)–[268](spb22.htm#page_268.md)*.
 
 Psalm cxix.
 
@@ -143,6 +143,6 @@ Jerusalem, the city of our solemnities, speedily in our days. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Service at a Circumcision](spb49)
+[Next: Service at a Circumcision](spb49.md)
 
 </div>

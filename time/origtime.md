@@ -3,7 +3,7 @@ layout: seclanding
 margcss: margcss
 title: "Origin of Major Religions"
 ---
-[Sacred Time index](index)  [Timeline of Sacred Texts](timeline) 
+[Sacred Time index](index)  [Timeline of Sacred Texts](timeline.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,48 +33,48 @@ China/Japan
 1000+ BCE
 
 [<img src="../img/t_jud.jpg" height="64" />  
-Judaism](../jud/index):  
+Judaism](../jud/index.md):  
 Moses 1500-1350 BCE
 
 [<img src="../img/t_hin.jpg" height="64" />  
-Hinduism](../hin/index):  
+Hinduism](../hin/index.md):  
 2000 BCE
 
  
 
 600 BCE
 
-[Zoroastrianism](../zor/index):  
+[Zoroastrianism](../zor/index.md):  
 Zoroaster 628-527 BCE
 
-[Jainism](../jai/index):  
+[Jainism](../jai/index.md):  
 Mahavira 599-527 BCE  
 [<img src="../img/t_bud.jpg" height="64" />  
-Buddhism](../bud/index):  
+Buddhism](../bud/index.md):  
 Buddha 563-483 BCE  
 
 [<img src="../img/t_yy.jpg" height="64" />  
-Taoism](../tao/index):  
+Taoism](../tao/index.md):  
 Lao Tse 580-500 BCE  
-[Confucianism](../cfu/index):  
+[Confucianism](../cfu/index.md):  
 Confucius 551-479 BCE
 
 100 CE
 
 [<img src="../img/t_chr.jpg" height="64" />  
-Christianity](../chr/index):  
+Christianity](../chr/index.md):  
 Jesus 1-33 CE
 
  
 
 [<img src="../img/t_shi.jpg" height="64" />  
-Shinto](../shi/index):  
+Shinto](../shi/index.md):  
 100 CE
 
 600 CE
 
 [<img src="../img/t_isl.jpg" height="64" />  
-Islam](../isl/index):  
+Islam](../isl/index.md):  
 Muhammad 570-632 CE
 
  
@@ -85,14 +85,14 @@ Muhammad 570-632 CE
 
  
 
-[Sikhism](../skh/index):  
+[Sikhism](../skh/index.md):  
 Guru Nanak 1469-1538 CE
 
  
 
 1900 CE
 
-[Baha'i](../bhi/index):  
+[Baha'i](../bhi/index.md):  
 Baha'u'llah 1817-1892 CE
 
  
@@ -103,7 +103,7 @@ Baha'u'llah 1817-1892 CE
 
 This page © copyright J.B. Hare, 1997-2001.
 
-[Collection copyright](../sect103) © 1997-2001 J.B. Hare. HTML markup
+[Collection copyright](../sect103.md) © 1997-2001 J.B. Hare. HTML markup
 Copyright © 1997-2001 J.B. Hare except where noted. All files at this
 site named **index.htm** or **index.html** are Copyright © 1997-2001
 J.B. Hare except where noted. All graphics Copyright © 1997-2001 J.B.

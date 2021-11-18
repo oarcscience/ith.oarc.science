@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa31)  [Next](soa33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa31)  [Next](soa33.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ used in the air-boats.
 
 ------------------------------------------------------------------------
 
-[Next: Manners and Custom](soa33)
+[Next: Manners and Custom](soa33.md)

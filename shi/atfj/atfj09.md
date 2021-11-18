@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj08)  [Next](atfj10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj08)  [Next](atfj10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ begin with that.'
 
 <span id="img_08"></span> <span align="CENTER"> [![8. The Fire-Ball or
 'Shito Dama' of Akechi](tn/08.jpg)  
-Click to enlarge](img/08.jpg)  
+Click to enlarge](img/08.jpg.md)  
 8. The Fire-Ball or 'Shito Dama' of Akechi  
 </span>
 
@@ -101,7 +101,7 @@ the lake on February 25: so I will tell of that also.'
 
 <span id="img_09"></span> <span align="CENTER"> [![9. O Tani San's Tub
 Gets Swamped](tn/09.jpg)  
-Click to enlarge](img/09.jpg)  
+Click to enlarge](img/09.jpg.md)  
 9. O Tani San's Tub Gets Swamped  
 </span>
 
@@ -200,7 +200,7 @@ it is short.'
 
 <span id="img_10"></span> <span align="CENTER"> [![10. The Black Rocks
 at Ishiyama-dera Where Prayers Are Tied](tn/10.jpg)  
-Click to enlarge](img/10.jpg)  
+Click to enlarge](img/10.jpg.md)  
 10. The Black Rocks at Ishiyama-dera Where Prayers Are Tied  
 </span>
 
@@ -208,7 +208,7 @@ Click to enlarge](img/10.jpg)
 
 'As the Danna San has been to Ishiyama-dera, he will know about the
 temple and monastery, which has a history eleven hundred years
-long; <span id="fr_20"></span>[1](#fn_20) but few people know the real
+long; <span id="fr_20"></span>[1](#fn_20.md) but few people know the real
 reason why the bits of paper with prayers on them are tied to the black
 rocks.
 
@@ -299,7 +299,7 @@ Firefly Valley itself.'
 
 ### Footnotes
 
-<span id="fn_20"></span>[52:1](atfj09.htm#fr_20) The temple was founded
+<span id="fn_20"></span>[52:1](atfj09.htm#fr_20.md) The temple was founded
 A.D. 749 by the monk Ryoben Sojo at the command of the Emperor Shomei.
 It is the thirteenth of the Thirty-Three Holy Places.
 
@@ -307,6 +307,6 @@ It is the thirteenth of the Thirty-Three Holy Places.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. A Miraculous Sword](atfj10)
+[Next: VIII. A Miraculous Sword](atfj10.md)
 
 </div>

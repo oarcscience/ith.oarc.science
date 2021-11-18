@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo07)  [Next](lboo09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo07)  [Next](lboo09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ adspice cognati felicia Caesaris arma--<br />
 
 [Next: Elegy III: He Commends Himself To His Mistress By The Merits Of
 His Poetry, The Purity Of His Morals, And By The Vow Of His Unchangeable
-Fidelity.](lboo09)
+Fidelity.](lboo09.md)

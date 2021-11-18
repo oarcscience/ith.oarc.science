@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe018)  [Next](prwe020) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe018)  [Next](prwe020.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ is *bedh*; Welsh, *bedd*.
 
 ------------------------------------------------------------------------
 
-[Next: The Hack and Cast](prwe020)
+[Next: The Hack and Cast](prwe020.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth08)  [Next](oth10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth08)  [Next](oth10.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,4 +135,4 @@ for starting-point and goal.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10](oth10)
+[Next: Chapter 10](oth10.md)

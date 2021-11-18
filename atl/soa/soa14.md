@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa13)  [Next](soa15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa13)  [Next](soa15.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ been adopted.
 
 ------------------------------------------------------------------------
 
-[Next: The Rmoahal Race](soa15)
+[Next: The Rmoahal Race](soa15.md)

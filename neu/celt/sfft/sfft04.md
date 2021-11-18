@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft03)  [Next](sfft05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft03)  [Next](sfft05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -20,10 +20,10 @@ Intangible Textual Heritage
 
 # NURSERY STORIES.
 
-### THE STORY OF THE WHITE PET. <span id="fr_2"></span>[1](#fn_2)
+### THE STORY OF THE WHITE PET. <span id="fr_2"></span>[1](#fn_2.md)
 
 THERE was a farmer before now who had a White Pet, <span
-id="fr_3"></span>[2](#fn_3) and when Christmas was drawing near, he
+id="fr_3"></span>[2](#fn_3.md) and when Christmas was drawing near, he
 thought that he would kill the White Pet. The White Pet heard that, and
 he thought he would run away and that is what he did.
 
@@ -115,7 +115,7 @@ White Pet. "I," said the cock, "will sleep on the rafters where I used"
 <span id="page_70">p. 70</span>
 
 will sleep," said the goose, "on the midden, <span
-id="fr_4"></span>[1](#fn_4) where I was accustomed to be."
+id="fr_4"></span>[1](#fn_4.md) where I was accustomed to be."
 
 They were not long settled to rest, when one of the thieves returned to
 look in to see if he could perceive if any one at all was in the house.
@@ -154,14 +154,14 @@ kept them peaceably as long as they lived.
 
 ### Footnotes
 
-<span id="fn_2"></span>[67:1](sfft04.htm#fr_2) J. F. Campbell, *Popular
+<span id="fn_2"></span>[67:1](sfft04.htm#fr_2.md) J. F. Campbell, *Popular
 Tales of the West Highlands*.
 
-<span id="fn_3"></span>[67:2](sfft04.htm#fr_3) A lamb brought up by
+<span id="fn_3"></span>[67:2](sfft04.htm#fr_3.md) A lamb brought up by
 hand.
 
-<span id="fn_4"></span>[70:1](sfft04.htm#fr_4) Dung-heap.
+<span id="fn_4"></span>[70:1](sfft04.htm#fr_4.md) Dung-heap.
 
 ------------------------------------------------------------------------
 
-[Next: The Milk-White Doo.](sfft05)
+[Next: The Milk-White Doo.](sfft05.md)

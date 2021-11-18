@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst11)  [Next](myst13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst11)  [Next](myst13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -40,7 +40,7 @@ for his own convenience an arbitrary choice of one or two—not
 necessarily characteristic—qualities, which happen to appear in a
 certain number of different persons or things. Hence the most scientific
 classification is a rough-and-ready business at the best.  <span
-id="fr_330"></span>[331](#fn_330)
+id="fr_330"></span>[331](#fn_330.md)
 
 <span id="an_iv.i-p3"></span>When we come to apply such classification
 to so delicate and elusive a series of psychological states as those
@@ -77,7 +77,7 @@ spiral of its road towards reality, experiences alternately the sunshine
 and the shade. These experiences are “constants” of the transcendental
 life. “The Spiritual States of the Soul are all Eternal,” said Blake,
 with the true mystical genius for psychology.  <span
-id="fr_331"></span>[332](#fn_331)
+id="fr_331"></span>[332](#fn_331.md)
 
 <span id="an_iv.i-p7"></span>The complete series of these states—and it
 must not be forgotten that few individuals present them all in
@@ -202,7 +202,7 @@ which the Oriental mystic always tends. Thus Jalalu d’Din:
 > <span id="an_iv.i-p15.1"></span> “O, let me not exist! for
 > Non-Existence  
 > Proclaims in organ tones, ‘To Him we shall return.’”  <span
-> id="fr_332"></span>[333](#fn_332)  
+> id="fr_332"></span>[333](#fn_332.md)  
 
 <span id="an_iv.i-p17"></span>It is at least doubtful, however, whether
 the interpretation which has been put by European students upon such
@@ -217,7 +217,7 @@ other things which precede it are, so to speak, but the porch by which
 they enter. . . . In this state some have imagined themselves to be
 amalgamated with God, others to be identical with Him, others again to
 be associated with Him: but *all this is sin* .”  <span
-id="fr_333"></span>[334](#fn_333)
+id="fr_333"></span>[334](#fn_333.md)
 
 <span id="an_iv.i-p19"></span>The doctrine of annihilation as the end of
 the soul’s ascent, whatever the truth may be as to the Moslem attitude
@@ -256,11 +256,11 @@ but *self* -consciousness, the consciousness of the Ego. The Ego is the
 limitation, that which opposes itself to the Infinite: the states of
 consciousness free from self, lost in a vaster consciousness, may become
 modes of the Infinite, and states of the Divine Consciousness.”  <span
-id="fr_334"></span>[335](#fn_334) So Starbuck: “The individual learns to
+id="fr_334"></span>[335](#fn_334.md) So Starbuck: “The individual learns to
 transfer himself from a centre of self-activity into an organ of
 revelation of universal being, and to live a life of affection for and
 one-ness with, the larger life outside.”  <span
-id="fr_335"></span>[336](#fn_335)
+id="fr_335"></span>[336](#fn_335.md)
 
 <span id="an_iv.i-p23"></span>Hence, the ideal of the great
 contemplatives, the end of their long education, is to become “modes of
@@ -281,7 +281,7 @@ that she can occupy herself with nothing. You deceive yourselves. She
 turns with greater ease and ardour than before to all that which belongs
 to the service of God, and when these occupations leave her free again,
 she remains in the enjoyment of that companionship.”  <span
-id="fr_336"></span>[337](#fn_336)
+id="fr_336"></span>[337](#fn_336.md)
 
 <span id="an_iv.i-p26"></span>No temperament is less slothful than the
 mystical one; and the “quiet” to which the mystics must school
@@ -309,13 +309,13 @@ them a national destiny. Of this St. Bernard, St. Catherine of Siena,
 and Saint Joan of Arc are the supreme examples. “The soul enamoured of
 My Truth,” said God’s voice to St. Catherine of Siena, “never ceases to
 serve the whole world in general.”  <span
-id="fr_337"></span>[338](#fn_337)
+id="fr_337"></span>[338](#fn_337.md)
 
 <span id="an_iv.i-p29"></span>Utterly remade in the interests of
 Reality, exhibiting that dual condition of fruition and activity which
 Ruysbroeck described as the crowning stage of human evolution, the
 “Supreme summit of the Inner Life,”  <span
-id="fr_338"></span>[339](#fn_338) all these lived, as it were, with both
+id="fr_338"></span>[339](#fn_338.md) all these lived, as it were, with both
 hands towards the finite and towards the Infinite, towards God and man.
 It is true that in nearly every case such “great actives” have first
 left the world, as a necessary condition of establishing communion with
@@ -341,7 +341,7 @@ years in hermit-like seclusion in the little room which we still see in
 her house in the Via Benincasa, entirely cut off from the ordinary life
 of her family. “Within her own house,” says her legend, “she found the
 desert; and a solitude in the midst of people.”  <span
-id="fr_339"></span>[340](#fn_339) There Catherine endured many
+id="fr_339"></span>[340](#fn_339.md) There Catherine endured many
 mortifications, was visited by ecstasies and visions: passed, in fact,
 through the states of Purgation and Illumination, which existed in her
 case side by side. This life of solitude was brought to an abrupt end by
@@ -362,7 +362,7 @@ contrary, her practical genius for affairs, her immense power of ruling
 men, drew its strength from the long series of visions and ecstasies
 which accompanied and supported her labours in the world. She “descended
 into the valley of lilies to make herself more fruitful,” says her
-legend.  <span id="fr_340"></span>[341](#fn_340) The conscious vehicle
+legend.  <span id="fr_340"></span>[341](#fn_340.md) The conscious vehicle
 of some “power not herself,” she spoke and acted with an authority which
 might have seemed strange enough in an uneducated daughter of the
 people, were it not justified by the fact that all who came into contact
@@ -393,64 +393,64 @@ id="an_iv.i-Page_176"></span>
 
 ### Footnotes
 
-<span id="fn_330"></span>[167:331](myst12.htm#fr_330) <span
+<span id="fn_330"></span>[167:331](myst12.htm#fr_330.md) <span
 id="an_iv.i-p1.2"></span>
 
 <span id="an_iv.i-p2"></span> Science seems more and more inclined to
 acquiesce in this judgment. See especially A. N. Whitehead: “Man and the
 Modern World” and “Religion in the Making.”
 
-<span id="fn_331"></span>[168:332](myst12.htm#fr_331) <span
+<span id="fn_331"></span>[168:332](myst12.htm#fr_331.md) <span
 id="an_iv.i-p5.2"></span>
 
 <span id="an_iv.i-p6"></span> “Jerusalem,” pt. iii.
 
-<span id="fn_332"></span>[171:333](myst12.htm#fr_332) <span
+<span id="fn_332"></span>[171:333](myst12.htm#fr_332.md) <span
 id="an_iv.i-p15.4"></span>
 
 <span id="an_iv.i-p16"></span> Quoted by R. A. Nicholson, “The Mystics
 of Islam,” p. 168.
 
-<span id="fn_333"></span>[171:334](myst12.htm#fr_333) <span
+<span id="fn_333"></span>[171:334](myst12.htm#fr_333.md) <span
 id="an_iv.i-p17.1"></span>
 
 <span id="an_iv.i-p18"></span> Schmölders, “Les Écoles Philosophiques
 chez les Arabes,” p. 61.
 
-<span id="fn_334"></span>[172:335](myst12.htm#fr_334) <span
+<span id="fn_334"></span>[172:335](myst12.htm#fr_334.md) <span
 id="an_iv.i-p20.1"></span>
 
 <span id="an_iv.i-p21"></span> “Études sur le Mysticisme,” p. 235.
 
-<span id="fn_335"></span>[172:336](myst12.htm#fr_335) <span
+<span id="fn_335"></span>[172:336](myst12.htm#fr_335.md) <span
 id="an_iv.i-p21.1"></span>
 
 <span id="an_iv.i-p22"></span> “The Psychology of Religion,” p. 147.
 
-<span id="fn_336"></span>[172:337](myst12.htm#fr_336) <span
+<span id="fn_336"></span>[172:337](myst12.htm#fr_336.md) <span
 id="an_iv.i-p24.1"></span>
 
 <span id="an_iv.i-p25"></span> “El Castillo Interior,” Moradas Sétimas,
 cap. i.
 
-<span id="fn_337"></span>[173:338](myst12.htm#fr_337) <span
+<span id="fn_337"></span>[173:338](myst12.htm#fr_337.md) <span
 id="an_iv.i-p27.1"></span>
 
 <span id="an_iv.i-p28"></span> Dialogo, cap. vii.
 
-<span id="fn_338"></span>[173:339](myst12.htm#fr_338) <span
+<span id="fn_338"></span>[173:339](myst12.htm#fr_338.md) <span
 id="an_iv.i-p29.1"></span>
 
 <span id="an_iv.i-p30"></span> “De Ornatu Spiritalium Nuptiarum,” I. ii.
 cap. lxxiii.
 
-<span id="fn_339"></span>[174:340](myst12.htm#fr_339) <span
+<span id="fn_339"></span>[174:340](myst12.htm#fr_339.md) <span
 id="an_iv.i-p31.1"></span>
 
 <span id="an_iv.i-p32"></span> E. Gardner, “St. Catherine of Siena,” p.
 15.
 
-<span id="fn_340"></span>[174:341](myst12.htm#fr_340) <span
+<span id="fn_340"></span>[174:341](myst12.htm#fr_340.md) <span
 id="an_iv.i-p32.1"></span>
 
 <span id="an_iv.i-p33"></span> S. Catherine Senensis Vitae (Acta SS.
@@ -460,6 +460,6 @@ Aprilis t. iii.), ii. ii. § 4.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Awakening of the Self](myst13)
+[Next: II. The Awakening of the Self](myst13.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar115) [Next](gbar117)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar115) [Next](gbar117.md)
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ seed I am, and how I became blind?"
 
 ------------------------------------------------------------------------
 
-[Next](gbar117)
+[Next](gbar117.md)

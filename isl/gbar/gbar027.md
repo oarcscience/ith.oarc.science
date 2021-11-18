@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar026) [Next](gbar028)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar026) [Next](gbar028.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ stay to seek him.
 
 ------------------------------------------------------------------------
 
-[Next](gbar028)
+[Next](gbar028.md)
 
  
 

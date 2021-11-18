@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon11)  [Next](oon13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon11)  [Next](oon13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -23,11 +23,11 @@ Textual Heritage
 
 COMMENCEMENT OF HIS PERSONAL REIGN (MARCH 10, 1661). \[I. 118.\]
 
-Quatrain added to the Xth Century. <span id="fr_151"></span>[1](#fn_151)
+Quatrain added to the Xth Century. <span id="fr_151"></span>[1](#fn_151.md)
 
 Quand le fourchu sera soustenu de deux paux, <span
-id="fr_152"></span>[2](#fn_152)  
-Avec six demy-corps <span id="fr_153"></span>[3](#fn_153) et six sizeaux
+id="fr_152"></span>[2](#fn_152.md)  
+Avec six demy-corps <span id="fr_153"></span>[3](#fn_153.md) et six sizeaux
 ouverts,  
 Le très puissant Seigneur, heritier des crapaux,  
 Alors subjugera sous soy tout l'univers.
@@ -61,12 +61,12 @@ TREATY OF WESTPHALIA, ETC. (1648-1661). \[I. 119.\]
 Century X.--*Quatrain* 7.
 
 Le grand conflit qu'on appreste à Nancy;  
-L'Æmathien <span id="fr_154"></span>[1](#fn_154) dira, tout je
+L'Æmathien <span id="fr_154"></span>[1](#fn_154.md) dira, tout je
 soubmets;  
-L'isle Britanne par <span id="fr_155"></span>[2](#fn_155) vin sel en
+L'isle Britanne par <span id="fr_155"></span>[2](#fn_155.md) vin sel en
 soucy;  
-Hem-mi <span id="fr_156"></span>[3](#fn_156) deux Phi <span
-id="fr_157"></span>[4](#fn_157) longtemps ne tiendra Metz.
+Hem-mi <span id="fr_156"></span>[3](#fn_156.md) deux Phi <span
+id="fr_157"></span>[4](#fn_157.md) longtemps ne tiendra Metz.
 
 Translation.
 
@@ -162,8 +162,8 @@ LOSS OF DE LA FERRIÈRE'S SQUADRON (1655). \[I. 121.\]
 
 Century III.--*Quatrain* 87.
 
-Classe <span id="fr_158"></span>[1](#fn_158) Gauloise n'approche de
-Corsegue, <span id="fr_159"></span>[2](#fn_159)  
+Classe <span id="fr_158"></span>[1](#fn_158.md) Gauloise n'approche de
+Corsegue, <span id="fr_159"></span>[2](#fn_159.md)  
 Moins de Sardaigne, tu t'en repentiras;  
 Trestous mourrez frustrès de l'aide grogne;  
 Sang nagera, captif ne me croiras.
@@ -219,9 +219,9 @@ Century IX.--*Quatrain* 93.
 Les ennemies du fort bien esloignés,  
 Par chariots conduict le bastion,  
 Par sur les murs de Bourges esgrongnés, <span
-id="fr_160"></span>[1](#fn_160)  
+id="fr_160"></span>[1](#fn_160.md)  
 Quand Hercules bastira l'Hæmathion. <span
-id="fr_161"></span>[2](#fn_161)
+id="fr_161"></span>[2](#fn_161.md)
 
 Translation.
 
@@ -254,14 +254,14 @@ PEACE OF THE PYRENEES (NOVEMBER 7, 1659). \[I. 123.\]
 
 Century X.--*Quatrain* 58.
 
-An temps du dueil clue le felin <span id="fr_162"></span>[1](#fn_162)
+An temps du dueil clue le felin <span id="fr_162"></span>[1](#fn_162.md)
 monarque,  
 Guerroyera le jeune Æmathien:  
 Gaule bransler, perecliter la barque, <span
-id="fr_163"></span>[2](#fn_163)  
-Tenter <span id="fr_164"></span>[3](#fn_164) Phossen, <span
-id="fr_165"></span>[4](#fn_165) an Ponant <span
-id="fr_166"></span>[5](#fn_166) entretien.
+id="fr_163"></span>[2](#fn_163.md)  
+Tenter <span id="fr_164"></span>[3](#fn_164.md) Phossen, <span
+id="fr_165"></span>[4](#fn_165.md) an Ponant <span
+id="fr_166"></span>[5](#fn_166.md) entretien.
 
 Translation.
 
@@ -294,8 +294,8 @@ Century II.--*Quatrain* 68.
 De l'Aquilon les efforts seront grands,  
 Sur l'Ocean sera la porte ouverte,  
 Le regne en l'Isle sera reintegrand,  
-Tremblera Londres par <span id="fr_167"></span>[1](#fn_167)
-voilles <span id="fr_168"></span>[2](#fn_168) descouverte.
+Tremblera Londres par <span id="fr_167"></span>[1](#fn_167.md)
+voilles <span id="fr_168"></span>[2](#fn_168.md) descouverte.
 
 Translation.
 
@@ -384,7 +384,7 @@ WAR OF THE SPANISH SUCCESSION (1701-1713). \[I. 127.\]
 Century IV.--*Quatrain* 2.
 
 Par mort la France prendra voyage à faire,  
-Classe <span id="fr_169"></span>[1](#fn_169) par mer, marcher Incurs
+Classe <span id="fr_169"></span>[1](#fn_169.md) par mer, marcher Incurs
 Pyrenées,  
 Espaigne en trouble, marcher gent militaire;  
 Des plus grands Dames en France emmenées.
@@ -414,11 +414,11 @@ OVERTHROW OF PHILIP V., *grandson of Louis XIV*. (1706). \[I. 129.\]
 Century IX.--*Quatrain* 64.
 
 L'Æmathion passer monts Pyrenées,  
-En Mars Narbon <span id="fr_170"></span>[1](#fn_170) ne fera
+En Mars Narbon <span id="fr_170"></span>[1](#fn_170.md) ne fera
 resistance,  
-Par mer terre fera si <span id="fr_171"></span>[2](#fn_171) grand
+Par mer terre fera si <span id="fr_171"></span>[2](#fn_171.md) grand
 menée,  
-Cap <span id="fr_172"></span>[3](#fn_172) n'ayant terre seure pour
+Cap <span id="fr_172"></span>[3](#fn_172.md) n'ayant terre seure pour
 demeurance.
 
 Translation.
@@ -455,15 +455,15 @@ once-discarded threads.
 
 ### Footnotes
 
-<span id="fn_151"></span>[132:1](oon12.htm#fr_151) Added to the text in
+<span id="fn_151"></span>[132:1](oon12.htm#fr_151.md) Added to the text in
 the edition of 1605.
 
-<span id="fn_152"></span>[132:2](oon12.htm#fr_152) *Paux*, plural of
+<span id="fn_152"></span>[132:2](oon12.htm#fr_152.md) *Paux*, plural of
 *pal*, *pieu*, a term of blazonry, stake.
 
-<span id="fn_153"></span>[132:3](oon12.htm#fr_153) Read *cors*, horns.
+<span id="fn_153"></span>[132:3](oon12.htm#fr_153.md) Read *cors*, horns.
 
-<span id="fn_154"></span>[133:1](oon12.htm#fr_154) Æmathien, or
+<span id="fn_154"></span>[133:1](oon12.htm#fr_154.md) Æmathien, or
 Emathion, Le Pelletier says, son of Cephalus and Aurora, who opened the
 gates of the morning to the sun. I do not find this account of him
 anywhere. Cephalus is the chaste Joseph of mythology, tempted by Aurora.
@@ -482,58 +482,58 @@ father outside the door. Shakespeare says, "By this sin fell the
 angels;" but a too prosperous fool seems equally ready to annihilate
 himself by it, and all belonging to him, of his own act.
 
-<span id="fn_155"></span>[133:2](oon12.htm#fr_155) Latin, *per*,
+<span id="fn_155"></span>[133:2](oon12.htm#fr_155.md) Latin, *per*,
 through.
 
-<span id="fn_156"></span>[133:3](oon12.htm#fr_156) Romance, *emmy*,
+<span id="fn_156"></span>[133:3](oon12.htm#fr_156.md) Romance, *emmy*,
 entre, between.
 
-<span id="fn_157"></span>[133:4](oon12.htm#fr_157) *Phi*, for Philip.
+<span id="fn_157"></span>[133:4](oon12.htm#fr_157.md) *Phi*, for Philip.
 
-<span id="fn_158"></span>[136:1](oon12.htm#fr_158) Latin, *classis*,
+<span id="fn_158"></span>[136:1](oon12.htm#fr_158.md) Latin, *classis*,
 fleet.
 
-<span id="fn_159"></span>[136:2](oon12.htm#fr_159) *Carseque*, Romance
+<span id="fn_159"></span>[136:2](oon12.htm#fr_159.md) *Carseque*, Romance
 for Corsica.
 
-<span id="fn_160"></span>[137:1](oon12.htm#fr_160) Romance, esgrongné,
+<span id="fn_160"></span>[137:1](oon12.htm#fr_160.md) Romance, esgrongné,
 or *esgruné*, pulverised.
 
-<span id="fn_161"></span>[137:2](oon12.htm#fr_161) Turn this; when
+<span id="fn_161"></span>[137:2](oon12.htm#fr_161.md) Turn this; when
 Æmathion shall build Hercules.
 
-<span id="fn_162"></span>[138:1](oon12.htm#fr_162) Latin, *felinus*,
+<span id="fn_162"></span>[138:1](oon12.htm#fr_162.md) Latin, *felinus*,
 like a cat.
 
-<span id="fn_163"></span>[138:2](oon12.htm#fr_163) *La barque* of St.
+<span id="fn_163"></span>[138:2](oon12.htm#fr_163.md) *La barque* of St.
 Peter, the Holy Seat, Rome.
 
-<span id="fn_164"></span>[138:3](oon12.htm#fr_164) Latin, *tentare*, to
+<span id="fn_164"></span>[138:3](oon12.htm#fr_164.md) Latin, *tentare*, to
 assail.
 
-<span id="fn_165"></span>[138:4](oon12.htm#fr_165) *Phocen* is another
+<span id="fn_165"></span>[138:4](oon12.htm#fr_165.md) *Phocen* is another
 reading. Marseilles, founded by the Phocians, A.C. 660.
 
-<span id="fn_166"></span>[138:5](oon12.htm#fr_166) Old word for west, or
+<span id="fn_166"></span>[138:5](oon12.htm#fr_166.md) Old word for west, or
 sundown.
 
-<span id="fn_167"></span>[139:1](oon12.htm#fr_167) Latin, *per*, because
+<span id="fn_167"></span>[139:1](oon12.htm#fr_167.md) Latin, *per*, because
 of.
 
-<span id="fn_168"></span>[139:2](oon12.htm#fr_168) *Voiles*, for
+<span id="fn_168"></span>[139:2](oon12.htm#fr_168.md) *Voiles*, for
 vessels.
 
-<span id="fn_169"></span>[141:1](oon12.htm#fr_169) Latin, *classis*,
+<span id="fn_169"></span>[141:1](oon12.htm#fr_169.md) Latin, *classis*,
 fleet.
 
-<span id="fn_170"></span>[142:1](oon12.htm#fr_170) Latin, *Narbo
+<span id="fn_170"></span>[142:1](oon12.htm#fr_170.md) Latin, *Narbo
 Martius*, Narbonne, in the department de l'Aude, said to be so called
 from its founder *Martius*. \[See p. 140, ix. 38.\]
 
-<span id="fn_171"></span>[142:2](oon12.htm#fr_171) Romance, *si*, very.
+<span id="fn_171"></span>[142:2](oon12.htm#fr_171.md) Romance, *si*, very.
 
-<span id="fn_172"></span>[142:3](oon12.htm#fr_172) *Cap*, for Capet.
+<span id="fn_172"></span>[142:3](oon12.htm#fr_172.md) *Cap*, for Capet.
 
 ------------------------------------------------------------------------
 
-[Next: Louis XV](oon13)
+[Next: Louis XV](oon13.md)

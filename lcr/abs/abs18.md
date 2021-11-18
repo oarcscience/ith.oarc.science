@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs17)  [Next](abs19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs17)  [Next](abs19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -268,7 +268,7 @@ and the upper end of the Indo-Chinese Peninsula, that has no collective
 name, but is filled with immense north to south ranges. This lies in
 Sikang, now incorporated into the Chinese Province of Szechwan. \[All
 these subareas or natural provinces will be found on [Map
-XII](abs17.htm#img_map12) with the exception of the penultimate group
+XII](abs17.htm#img_map12.md) with the exception of the penultimate group
 which are in far eastern Siberia, and from which we have no definite
 ABSMery.\] I cannot stress too forcibly the sheer volume of such reports
 and of those of foot-tracks, droppings, and other corollary evidence
@@ -407,7 +407,7 @@ meat, some vegetables and grain. She did not touch cooked
 <span id="page_316">p. 316</span>
 
 <span id="img_31600"></span> <span align="CENTER"> [![](tn/31600.jpg)  
-Click to enlarge](img/31600.jpg)</span>
+Click to enlarge](img/31600.jpg.md)</span>
 
 <div style="font-family: Helvetica, Arial, Geneva, sans-serif">
 
@@ -431,7 +431,7 @@ by lapping water, or sometimes she would dip her arm in water and lick
 the water. When she was allowed to go free, she ran awkwardly swinging
 her long arms, to the nearby reeds where she disappeared."
 
-Khakhlov notes that "This creature <span id="fr_43"></span>[\*](#fn_42)
+Khakhlov notes that "This creature <span id="fr_43"></span>[\*](#fn_42.md)
 has nothing in common with the *Jez-Termak* (\`Copper-Nails'), or with
 the *Almas*." This is a most startling statement but one of the utmost
 significance, and also one that has been totally overlooked. We find on
@@ -464,7 +464,7 @@ and beyond to the Sayans. The descriptions of those from the Nan Shans
 also to be similar. This creature, which gives every indication of being
 a Neanderthaler-type of sub-man, and whose footprints *exactly* match
 those of a Neanderthaler discovered in a cave in Italy, <span
-id="fr_44"></span>[\*](#fn_43) would seem to be a mountain dwelling
+id="fr_44"></span>[\*](#fn_43.md) would seem to be a mountain dwelling
 form: in fact, they *are* montane forms, for not one single report of
 them from down on either the lowlands or even on the Mongolian Plateau
 itself have ever been recorded.
@@ -566,7 +566,7 @@ the cave, he avoided talking to people, and in two months time he died."
 <span id="page_321">p. 321</span>
 
 Reverting to the creatures called *Jez-Termak* <span
-id="fr_45"></span>[\*](#fn_44) which is alleged to mean *Copper-Nails*
+id="fr_45"></span>[\*](#fn_44.md) which is alleged to mean *Copper-Nails*
 \[meaning, of course, "fingernails"\] we should note that this name is
 applied to a larger, grosser, and more bestial type of ABSM than the
 Dzungarian *Ksy-Giik*, and is alleged to be found on the super-uplands
@@ -786,7 +786,7 @@ consistent with all natural facts and factors.
 
 To reiterate—and I cannot help doing this and for some very real
 reasons—we should wipe away our sense of helplessness and hopelessness
-on taking our first look at [Map XII](abs17.htm#img_map12) and just
+on taking our first look at [Map XII](abs17.htm#img_map12.md) and just
 remember that this tremendous mishmash may be quite
 
 <span id="page_327">p. 327</span>
@@ -848,11 +848,11 @@ the first ABSM to be collected in the flesh!
 
 ### Footnotes
 
-<span id="fn_42"></span>[317:\*](abs18.htm#fr_43) Known locally by the
+<span id="fn_42"></span>[317:\*](abs18.htm#fr_43.md) Known locally by the
 names grouped around the stems *Ksy* and *Giik*. The latter means "wild"
 as in *At-Giik*, Wild Horse.
 
-<span id="fn_43"></span>[318:\*](abs18.htm#fr_44) In the spring of 1948
+<span id="fn_43"></span>[318:\*](abs18.htm#fr_44.md) In the spring of 1948
 the official caretakers of a cave known as "The Witch's Cave" near
 Toirano in Italy \[all caves in Italy are government controlled\]
 obtained permission to blast through what proved to be 11 feet of
@@ -869,10 +869,10 @@ the flowstone curtain about 50,000 years ago. An outline tracing of one
 of the Neanderthaler footprints found therein is reproduced in Appendix
 B.
 
-<span id="fn_44"></span>[321:\*](abs18.htm#fr_45) This term actually
+<span id="fn_44"></span>[321:\*](abs18.htm#fr_45.md) This term actually
 means "The Mountain one that scrambles using its hands," as is explained
 in the Glossary in Appendix A.
 
 ------------------------------------------------------------------------
 
-[Next: 15. Some Obnoxious Items](abs19)
+[Next: 15. Some Obnoxious Items](abs19.md)

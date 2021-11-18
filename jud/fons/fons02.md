@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](fons01)  [Next](fons03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](fons01)  [Next](fons03.md) 
 
 ------------------------------------------------------------------------
 
@@ -649,4 +649,4 @@ not the immediate mover of the substance.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](fons03)
+[Next: Part II](fons03.md)

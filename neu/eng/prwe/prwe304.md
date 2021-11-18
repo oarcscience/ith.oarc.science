@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe303)  [Next](prwe305) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe303)  [Next](prwe305.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ drinking mahogany \[gin and treacle\]."
 
 ------------------------------------------------------------------------
 
-[Next: The Bells of Forrabury Church](prwe305)
+[Next: The Bells of Forrabury Church](prwe305.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Next](soamap) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Next](soamap.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Maps](soamap)
+[Next: Maps](soamap.md)

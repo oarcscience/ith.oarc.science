@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](ti1)  [Next](tit) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](ti1)  [Next](tit.md) 
 
 ------------------------------------------------------------------------
 
@@ -319,4 +319,4 @@ with you all.
 
 ------------------------------------------------------------------------
 
-[Next: Titus](tit)
+[Next: Titus](tit.md)

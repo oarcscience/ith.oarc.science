@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](geol02)  [Previous](geo01) 
-[Next](geo03) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](geol02)  [Previous](geo01.md) 
+[Next](geo03.md) 
 
 ------------------------------------------------------------------------
 
@@ -522,4 +522,4 @@ loosen the necks of our steaming horses.
 
 ------------------------------------------------------------------------
 
-[Next: Third Book](geo03)
+[Next: Third Book](geo03.md)

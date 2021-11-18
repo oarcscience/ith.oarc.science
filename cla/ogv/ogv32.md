@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv31)  [Next](ogv33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv31)  [Next](ogv33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,21 +34,21 @@ an excellent thing with great trouble and labour the pain passes and the
 excellence alone remains. Whence it follows necessarily, that the evil
 life is also bitter and produces as much sorrow and chagrin as the good
 life is sweet and procures joy and contentment. <span
-id="fr_474"></span>[d](#fn_473)
+id="fr_474"></span>[d](#fn_473.md)
 
 <span id="page_197">p. 197</span>
 
 "As the flame of a torch tends always upward whichever way one turns
 it," said the Indian sages, "thus the man whose heart is afire with
 virtue, whatever accident befalls him, directs himself always toward the
-end that wisdom indicates." <span id="fr_475"></span>[a](#fn_474)
+end that wisdom indicates." <span id="fr_475"></span>[a](#fn_474.md)
 
 "Misfortune follows vice, and happiness virtue," said the Chinese, "as
 the echo follows the voice and the shadow him who moves."' <span
-id="fr_476"></span>[b](#fn_475)
+id="fr_476"></span>[b](#fn_475.md)
 
 O virtue! divine virtue! \[exclaims Kong-Tse <span
-id="fr_477"></span>[c](#fn_476)\] a celestial power presents thee to us,
+id="fr_477"></span>[c](#fn_476.md)\] a celestial power presents thee to us,
 an interior force conducts us toward thee; happy the mortal in whom thou
 dwellest! he strikes the goal without effort, a single glance suffices
 for him to penetrate the truth. His heart becomes the sanctuary of peace
@@ -68,26 +68,26 @@ my will giving way beneath the weight of the obstacle. No matter; guard
 yourself against discouragement; that which others have been able to
 attain at the first attempt, you may be able at the hundredth; that
 which they have done at the hundredth, you will do at the
-thousandth. <span id="fr_478"></span>[d](#fn_477)
+thousandth. <span id="fr_478"></span>[d](#fn_477.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_473"></span>[196:d](ogv32.htm#fr_474) Hiérocl., *Aur.
+<span id="fn_473"></span>[196:d](ogv32.htm#fr_474.md) Hiérocl., *Aur.
 Carm.*, v. 32.
 
-<span id="fn_474"></span>[197:a](ogv32.htm#fr_475) *Proverbes du Brahme
+<span id="fn_474"></span>[197:a](ogv32.htm#fr_475.md) *Proverbes du Brahme
 Barthrovhari*.
 
-<span id="fn_475"></span>[197:b](ogv32.htm#fr_476) *Chou-King*, ch.
+<span id="fn_475"></span>[197:b](ogv32.htm#fr_476.md) *Chou-King*, ch.
 *Yu-Mo*.
 
-<span id="fn_476"></span>[197:c](ogv32.htm#fr_477) On trouve ce passages
+<span id="fn_476"></span>[197:c](ogv32.htm#fr_477.md) On trouve ce passages
 dans le *Tchong-Yong*, ou Livre du Juste-Milieu; ouvrage très célèbre
 parmi les Chinois.
 
-<span id="fn_477"></span>[197:d](ogv32.htm#fr_478)
+<span id="fn_477"></span>[197:d](ogv32.htm#fr_478.md)
 
 A la persévérance il n’est rien qui résiste:  
 Quelques soient ses desseins, si le Sage y persiste,  
@@ -96,4 +96,4 @@ La constance et le temps sont les maîtres de tout.
 
 ------------------------------------------------------------------------
 
-[Next: 22. What have I omitted, and what done?](ogv33)
+[Next: 22. What have I omitted, and what done?](ogv33.md)

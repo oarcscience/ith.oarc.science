@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lord Dunsany](../index)  [Index](index) 
-[Previous](fotd43)  [Next](fotd45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lord Dunsany](../index)  [Index](index.md) 
+[Previous](fotd43)  [Next](fotd45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SWBC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SWBC/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fifty-one Tales*, by Lord Dunsany, \[1915\], at Intangible Textual
 Heritage
 
@@ -78,6 +78,6 @@ drawers. I groped about. I found it! I ran it into my arm. Saved!
 
 ------------------------------------------------------------------------
 
-[Next: The Return of the Exiles](fotd45)
+[Next: The Return of the Exiles](fotd45.md)
 
 </div>

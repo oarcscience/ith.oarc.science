@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao14)   
-[Previous](tao13)  [Next](tao15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao14.md)   
+[Previous](tao13)  [Next](tao15.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ its mystery. Then we are true apostles of TAO.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 15](tao15)
+[Next: Chapter 15](tao15.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](idtc05)  [Next](idtc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](idtc05)  [Next](idtc07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Days To Come*, by Ashtar (Ethel P. Hill), \[1957\], at Intangible
 Textual Heritage
 
@@ -98,4 +98,4 @@ My Love! *A S H T A R*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](idtc07)
+[Next: Chapter V](idtc07.md)

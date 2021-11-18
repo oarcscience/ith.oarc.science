@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr28)  [Next](corr30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr28)  [Next](corr30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 
 ### LETTER XXX. (XVII.)
 
-#### SPINOZA TO PETER BALLING. <span id="fr_47"></span>[1](#fn_46)
+#### SPINOZA TO PETER BALLING. <span id="fr_47"></span>[1](#fn_46.md)
 
 \[*Concerning omens and phantoms. The mind may have a confused
 presentiment of the future*.\]
@@ -114,10 +114,10 @@ Voorburg, 20 July, 1664.
 
 ### Footnotes
 
-<span id="fn_46"></span>[325:1](corr29.htm#fr_47) This letter is from a
+<span id="fn_46"></span>[325:1](corr29.htm#fr_47.md) This letter is from a
 Latin version of a Dutch original. For Balling, see Letter XXVI., [p.
-312](corr24.htm#page_312), and note there.
+312](corr24.htm#page_312.md), and note there.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXXI. From William de Blyenbergh](corr30)
+[Next: Letter XXXI. From William de Blyenbergh](corr30.md)

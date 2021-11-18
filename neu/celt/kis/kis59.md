@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis58)  [Next](kis60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis58)  [Next](kis60.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ them they rode on to the Spae-Woman's house.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](kis60)
+[Next: Part II](kis60.md)

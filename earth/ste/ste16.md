@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste15)  [Next](ste17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste15)  [Next](ste17.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_title2"></span>
 
 [![Title Page of Second Book](tn/title2.jpg)  
-Click to enlarge](img/title2.jpg)  
+Click to enlarge](img/title2.jpg.md)  
 Title Page of Second Book  
 
 ##### THE
@@ -52,4 +52,4 @@ Title Page of Second Book
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](ste17)
+[Next: Chapter I](ste17.md)

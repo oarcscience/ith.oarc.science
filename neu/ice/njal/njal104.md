@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal103)  [Next](njal105) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal103)  [Next](njal105.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ afterwards.
 
 ------------------------------------------------------------------------
 
-[Next: 105. Of Amund The Blind](njal105)
+[Next: 105. Of Amund The Blind](njal105.md)

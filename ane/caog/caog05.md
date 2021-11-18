@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog04)  [Next](caog06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog04)  [Next](caog06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -545,6 +545,6 @@ enough to promise a rich reward to future excavators.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Chaldean Legends Transmitted Through Berosus and
-Other Ancient Authors](caog06)
+Other Ancient Authors](caog06.md)
 
 </div>

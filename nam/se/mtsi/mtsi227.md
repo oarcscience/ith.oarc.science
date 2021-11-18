@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi226)  [Next](mtsi228) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi226)  [Next](mtsi228.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ told him he had left the bear meat for him and his friends.
 
 ------------------------------------------------------------------------
 
-[Next: 28. The Orphan and the Bear](mtsi228)
+[Next: 28. The Orphan and the Bear](mtsi228.md)

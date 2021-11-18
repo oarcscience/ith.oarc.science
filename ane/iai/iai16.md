@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai15)  [Next](iai17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai15)  [Next](iai17.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Prince Zaidu prostrate bows before the Sar,
 Arises, thus narrates to Izdubar:  
 "Thy sovereign, Zaidu hath his king obeyed,  
 The royal mission I have thus essayed  
-As Anu's <span id="fr_156"></span>[1](#fn_156) soldier; I undaunted
+As Anu's <span id="fr_156"></span>[1](#fn_156.md) soldier; I undaunted
 tried  
 To urge my mission which the seer denied.  
 I firmly met the beast that with him came:  
@@ -33,7 +33,7 @@ continues\]
 <span id="page_47">p. 47</span>
 
 Before a maiden's charms will flee away;  
-For he doth love the Zi-Ga-bri <span id="fr_157"></span>[2](#fn_157)
+For he doth love the Zi-Ga-bri <span id="fr_157"></span>[2](#fn_157.md)
 that play  
 Within the mountain gorges. Turn thy face  
 Again with manly portance; for I'll grace  
@@ -73,12 +73,12 @@ A thing of beauty of some mystic dream.
 
 ### Footnotes
 
-<span id="fn_156"></span>[46:1](iai16.htm#fr_156) "Anu," the King of
+<span id="fn_156"></span>[46:1](iai16.htm#fr_156.md) "Anu," the King of
 Heaven.
 
-<span id="fn_157"></span>[47:2](iai16.htm#fr_157) "Zi-Gab-ri," spirits
+<span id="fn_157"></span>[47:2](iai16.htm#fr_157.md) "Zi-Gab-ri," spirits
 of the mountains.
 
 ------------------------------------------------------------------------
 
-[Next: Column IV. The Two Maidens Entice the Seer](iai17)
+[Next: Column IV. The Two Maidens Entice the Seer](iai17.md)

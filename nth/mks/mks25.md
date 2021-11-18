@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](mks24)  [Next](mks26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](mks24)  [Next](mks26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master Key System*, by Charles F. Haanel, \[1919\], at Intangible
 Textual Heritage
 
@@ -310,7 +310,7 @@ destroy any and every form of sickness or suffering and substitute
 harmony and perfection. Then remember there are those who seem to think
 that sickness and suffering are sent by God; if so, every physician,
 every surgeon and every Red Cross nurse is defying the will of God, and
-hospitals and [sanatoriums](errata.htm#4) are places of rebellion
+hospitals and [sanatoriums](errata.htm#4.md) are places of rebellion
 instead of houses of mercy. Of course, this quickly reasons itself into
 an absurdity, but there are many who still cherish the idea.
 
@@ -431,4 +431,4 @@ affairs.—Channing.
 
 ------------------------------------------------------------------------
 
-[Next: Part Twenty-Three](mks26)
+[Next: Part Twenty-Three](mks26.md)

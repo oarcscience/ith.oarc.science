@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao11)   
-[Previous](tao10)  [Next](tao12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao11.md)   
+[Previous](tao10)  [Next](tao12.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ accommodation but non-existence is for utility.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 12](tao12)
+[Next: Chapter 12](tao12.md)

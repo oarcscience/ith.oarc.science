@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby20)  [Next](piby22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby20)  [Next](piby22.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ the bridge of death, both body and soul.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. God Spoke to his Apostles](piby22)
+[Next: Chapter 2. God Spoke to his Apostles](piby22.md)

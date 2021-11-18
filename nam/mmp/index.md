@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HIF0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HIF0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HIF0/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mmp00)    [Text
-\[Zipped\]](mmp.txt.gz)
+[Contents](#contents)    [Start Reading](mmp00.md)    [Text
+\[Zipped\]](mmp.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -39,14 +39,14 @@ Inca.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mmp00)  
-[Illustrations](mmp01)  
-[Preface](mmp02)  
-[Contents](mmp03)  
-[Chapter I: The Civilisation of Mexico](mmp04)  
-[Chapter II: Mexican Mythology](mmp05)  
-[Chapter III: Myths and Legends of the Ancient Mexicans](mmp06)  
-[Chapter IV: The Maya Race and Mythology](mmp07)  
-[Chapter V: Myths of the Maya](mmp08)  
-[Chapter VI: The Civilisation of Old Peru](mmp09)  
-[Chapter VII: The Mythology of Peru](mmp10)  
+<span id="contents"></span> [Title Page](mmp00.md)  
+[Illustrations](mmp01.md)  
+[Preface](mmp02.md)  
+[Contents](mmp03.md)  
+[Chapter I: The Civilisation of Mexico](mmp04.md)  
+[Chapter II: Mexican Mythology](mmp05.md)  
+[Chapter III: Myths and Legends of the Ancient Mexicans](mmp06.md)  
+[Chapter IV: The Maya Race and Mythology](mmp07.md)  
+[Chapter V: Myths of the Maya](mmp08.md)  
+[Chapter VI: The Civilisation of Old Peru](mmp09.md)  
+[Chapter VII: The Mythology of Peru](mmp10.md)  

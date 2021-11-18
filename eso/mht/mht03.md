@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](mht02)  [Next](mht04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](mht02)  [Next](mht04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Textual Heritage
 
 |                     |
 |---------------------|
-| ![O](img/02600.jpg) |
+| ![O](img/02600.jpg.md) |
 
 F THE UTMOST SIGNIficance to all students of Freemasonry and the occult
 sciences is this unique manuscript *La Très Sainte Trinosophie*. Not
@@ -275,4 +275,4 @@ occultism."
 
 ------------------------------------------------------------------------
 
-[Next: Section One](mht04)
+[Next: Section One](mht04.md)

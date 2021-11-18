@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs41) [Next](hbs43)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs41) [Next](hbs43.md)
 
 ------------------------------------------------------------------------
 
@@ -173,7 +173,7 @@ Down brother fell by brother: the dead lay with the dead.
 
 ------------------------------------------------------------------------
 
-[Next](hbs43)
+[Next](hbs43.md)
 
  
 

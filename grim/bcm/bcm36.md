@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm35)  [Next](bcm37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm35)  [Next](bcm37.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ alive does not explicitly
  
 
 <span id="img_13300"></span> [![](tn/generic.jpg)  
-Click to view](img/13300.jpg)  
+Click to view](img/13300.jpg.md)  
 THE APPARITION OF THE GRAND CABALA
 
  
@@ -113,7 +113,7 @@ a word to the fool.
  
 
 <span id="img_13400"></span> [![](tn/generic.jpg)  
-Click to view](img/13400.jpg)  
+Click to view](img/13400.jpg.md)  
 DEVIL STRUGGLING WITH ST. PETER.  
 *Hyde Register, British Museum, Eleventh Century*.
 
@@ -124,9 +124,9 @@ DEVIL STRUGGLING WITH ST. PETER.
  
 
 <span id="img_13500"></span> [![](tn/generic.jpg)  
-Click to view](img/13500.jpg)  
+Click to view](img/13500.jpg.md)  
 PLATE VI: THE SABBATIC GOAT
 
 ------------------------------------------------------------------------
 
-[Next: Section 1: Concerning the Love of God](bcm37)
+[Next: Section 1: Concerning the Love of God](bcm37.md)

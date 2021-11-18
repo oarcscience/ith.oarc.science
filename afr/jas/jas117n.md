@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas116n)  [Next](jas118n)   
- \[[117. Jack as Fortune-teller.](jas117)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas116n)  [Next](jas118n.md)   
+ \[[117. Jack as Fortune-teller.](jas117.md)\]
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ Espinosa, JAFL 27:215-216.
 
 ------------------------------------------------------------------------
 
-[Next: Note 118. Robin as Fortune-teller.](jas118n)
+[Next: Note 118. Robin as Fortune-teller.](jas118n.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Next](bosc01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Next](bosc01.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ Wiley and Putnam, New York
 
 ------------------------------------------------------------------------
 
-[Next: Translator's Introduction](bosc01)
+[Next: Translator's Introduction](bosc01.md)

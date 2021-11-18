@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,17 +22,17 @@
 
 ### Tract Betzah or Yom Tob (Feast Days)
 
-[Title Page](bet00)  
-[Explanatory Remarks](bet01)  
-[Dedication](bet02)  
-[To the Reader](bet03)  
-[Contents](bet04)  
-[Synopsis of Subjects](bet05)  
-[Chapter I](bet06)  
-[Chapter II](bet07)  
-[Chapter III](bet08)  
-[Chapter IV](bet09)  
-[Chapter V](bet10)  
+[Title Page](bet00.md)  
+[Explanatory Remarks](bet01.md)  
+[Dedication](bet02.md)  
+[To the Reader](bet03.md)  
+[Contents](bet04.md)  
+[Synopsis of Subjects](bet05.md)  
+[Chapter I](bet06.md)  
+[Chapter II](bet07.md)  
+[Chapter III](bet08.md)  
+[Chapter IV](bet09.md)  
+[Chapter V](bet10.md)  
 
 ------------------------------------------------------------------------
 
@@ -40,14 +40,14 @@
 
 ### Tract Succah (Booths)
 
-[Contents](suc00)  
-[Dedication](suc01)  
-[Synopsis of Subjects](suc02)  
-[Chapter I](suc03)  
-[Chapter II](suc04)  
-[Chapter III](suc05)  
-[Chapter IV.](suc06)  
-[Chapter V](suc07)  
+[Contents](suc00.md)  
+[Dedication](suc01.md)  
+[Synopsis of Subjects](suc02.md)  
+[Chapter I](suc03.md)  
+[Chapter II](suc04.md)  
+[Chapter III](suc05.md)  
+[Chapter IV.](suc06.md)  
+[Chapter V](suc07.md)  
 
 ------------------------------------------------------------------------
 
@@ -55,11 +55,11 @@
 
 ### Trace Moed Katan (Minor Festivals)
 
-[Contents](kat00)  
-[Synopsis of Subjects](kat01)  
-[Chapter I](kat02)  
-[Chapter II](kat03)  
-[Chapter III](kat04)  
+[Contents](kat00.md)  
+[Synopsis of Subjects](kat01.md)  
+[Chapter I](kat02.md)  
+[Chapter II](kat03.md)  
+[Chapter III](kat04.md)  
 
 ------------------------------------------------------------------------
 
@@ -67,16 +67,16 @@
 
 ### Tract Taanith
 
-[Title Page](taa00)  
-[Explanatory Remarks](taa01)  
-[A Word to the Public](taa02)  
-[A Letter From Prof. Dr. M. Lazarus](taa03)  
-[Contents](taa04)  
-[Synopsis of Subjects](taa05)  
-[Chapter I](taa06)  
-[Chapter II](taa07)  
-[Chapter III](taa08)  
-[Chapter IV](taa09)  
+[Title Page](taa00.md)  
+[Explanatory Remarks](taa01.md)  
+[A Word to the Public](taa02.md)  
+[A Letter From Prof. Dr. M. Lazarus](taa03.md)  
+[Contents](taa04.md)  
+[Synopsis of Subjects](taa05.md)  
+[Chapter I](taa06.md)  
+[Chapter II](taa07.md)  
+[Chapter III](taa08.md)  
+[Chapter IV](taa09.md)  
 
 ------------------------------------------------------------------------
 
@@ -84,12 +84,12 @@
 
 ### Tract Megilla (Book of Esther)
 
-[Contents](meg00)  
-[Synopsis of Subjects](meg01)  
-[Chapter I](meg02)  
-[Chapter II](meg03)  
-[Chapter III](meg04)  
-[Chapter IV](meg05)  
+[Contents](meg00.md)  
+[Synopsis of Subjects](meg01.md)  
+[Chapter I](meg02.md)  
+[Chapter II](meg03.md)  
+[Chapter III](meg04.md)  
+[Chapter IV](meg05.md)  
 
 ------------------------------------------------------------------------
 
@@ -97,18 +97,18 @@
 
 ### Tract Ebel Rabbathi (Great Mourning), or Sema'hoth (Joys).
 
-[Contents](rab00)  
-[Chapter I](rab01)  
-[Chapter II](rab02)  
-[Chapter III](rab03)  
-[Chapter IV](rab04)  
-[Chapter V](rab05)  
-[Chapter VI](rab06)  
-[Chapter VII](rab07)  
-[Chapter VIII.](rab08)  
-[Chapter IX](rab09)  
-[Chapter X](rab10)  
-[Chapter XI](rab11)  
-[Chapter XII](rab12)  
-[Chapter XIII](rab13)  
-[Chapter XIV](rab14)  
+[Contents](rab00.md)  
+[Chapter I](rab01.md)  
+[Chapter II](rab02.md)  
+[Chapter III](rab03.md)  
+[Chapter IV](rab04.md)  
+[Chapter V](rab05.md)  
+[Chapter VI](rab06.md)  
+[Chapter VII](rab07.md)  
+[Chapter VIII.](rab08.md)  
+[Chapter IX](rab09.md)  
+[Chapter X](rab10.md)  
+[Chapter XI](rab11.md)  
+[Chapter XII](rab12.md)  
+[Chapter XIII](rab13.md)  
+[Chapter XIV](rab14.md)  

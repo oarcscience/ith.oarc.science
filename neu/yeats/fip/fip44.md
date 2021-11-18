@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip43)  [Next](fip45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip43)  [Next](fip45.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ used in clothes, an' put them into a saucepan wi' the pint o' milk. Set
 them on the fire, an' let them come to the boil."
 
 The nine pins soon began to simmer in Moiley's <span
-id="fr_18"></span>[1](#fn_18) milk.
+id="fr_18"></span>[1](#fn_18.md) milk.
 
 Rapid steps were heard approaching the door, agitated knocks followed,
 and Grace Dogherty's high-toned voice was raised in eager entreaty.
@@ -74,7 +74,7 @@ door, is quite infallible.--ED.\]
 
 ### Footnotes
 
-<span id="fn_18"></span>[150:1](fip44.htm#fr_18) In Connaught called a
+<span id="fn_18"></span>[150:1](fip44.htm#fr_18.md) In Connaught called a
 "mweeal" cow--*i.e.*, a cow without horns. Irish *maol*, literally,
 blunt. When the new hammerless breech-loaders came into use two or three
 years ago, Mr. Douglas Hyde heard a Connaught gentleman speak of them as
@@ -82,4 +82,4 @@ the "mweeal" guns, because they had no cocks.
 
 ------------------------------------------------------------------------
 
-[Next: A Queen's County Witch](fip45)
+[Next: A Queen's County Witch](fip45.md)

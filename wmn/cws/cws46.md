@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws45)  [Next](cws47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws45)  [Next](cws47.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XLII
 
-#### CONCERNING GOD <span id="fr_164"></span>[1](#fn_164)
+#### CONCERNING GOD <span id="fr_164"></span>[1](#fn_164.md)
 
 BUT why should we be at the pains to seek further than the phenomenal?
 Why this incessant craving to prove ourselves immortal, and to argue a
@@ -94,8 +94,8 @@ illumines. If they ask thee the reason of creation, thou shalt
 answer,--The evolution and elaboration of the soul.
 
 Anna is the rolling year, the Time, of which is born Maria the soul, the
-mother of God. <span id="fr_165"></span>[1](#fn_165) God is the first of
-the ten categories of Aristotle <span id="fr_166"></span>[2](#fn_166) as
+mother of God. <span id="fr_165"></span>[1](#fn_165.md) God is the first of
+the ten categories of Aristotle <span id="fr_166"></span>[2](#fn_166.md) as
 the number one is the root of all numbers. Thou canst not begin the
 tables with the duad, because the unity is the primal idea. Therefore
 this unity is positive and essential in necessity.
@@ -137,23 +137,23 @@ they will be preserved in their true meaning. And again, if these wise
 men betray their secret, the uninitiated would lay violent hands on
 them, and so they and the secret would perish together. But when the
 majority are wise, then may the mysteries be told openly. <span
-id="fr_167"></span>[1](#fn_167)
+id="fr_167"></span>[1](#fn_167.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_164"></span>[101:1](cws46.htm#fr_164) Paris, December 8, 9,
+<span id="fn_164"></span>[101:1](cws46.htm#fr_164.md) Paris, December 8, 9,
 1882.
 
-<span id="fn_165"></span>[103:1](cws46.htm#fr_165) See Part I, No. III,
+<span id="fn_165"></span>[103:1](cws46.htm#fr_165.md) See Part I, No. III,
 "Concerning the immaculate Conception," and No. XLVIII (i), "Concerning
 the Christian Mysteries."
 
-<span id="fn_166"></span>[103:2](cws46.htm#fr_166) Σόφία, original
+<span id="fn_166"></span>[103:2](cws46.htm#fr_166.md) Σόφία, original
 substance or simple being; the Ensoph of the Kabala.    E. M.
 
-<span id="fn_167"></span>[104:1](cws46.htm#fr_167) The fact that the
+<span id="fn_167"></span>[104:1](cws46.htm#fr_167.md) The fact that the
 mysteries have been disclosed anew, expressly in order that they may be
 made generally known, is by no means to be interpreted as an indication
 that in the view of their guardians the time has come when the "majority
@@ -166,4 +166,4 @@ the sake of opinion or in the interests of an Order.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: No. XLIII: Concerning Psyche, Or The Superior Human Soul](cws47)
+[Next: No. XLIII: Concerning Psyche, Or The Superior Human Soul](cws47.md)

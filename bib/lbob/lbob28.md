@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob27)  [Next](lbob29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob27)  [Next](lbob29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -25,7 +25,7 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
 <span class="small">*That seeing we have no abiding city in this world,
 we ought to look after that which is to come*.</span>
 
-AND he said unto me;  <span id="fr_1327"></span>[5](#fn_1326) Ye know
+AND he said unto me;  <span id="fr_1327"></span>[5](#fn_1326.md) Ye know
 that ye who are the servants of the Lord, live here as in a pilgrimage;
 for your city is far off from this city.
 
@@ -61,7 +61,7 @@ promises, which he has promised; and be assured that he will make them
 good unto you; if ye shall keep his commandments.
 
 7 Instead therefore of the possessions that ye would otherwise purchase,
-redeem  <span id="fr_1328"></span>[1](#fn_1327) those that are in want
+redeem  <span id="fr_1328"></span>[1](#fn_1327.md) those that are in want
 from their necessities, as every one is able; justify the widows; judge
 the cause of the fatherless; and spend your riches and your wealth in
 such works as these.
@@ -75,7 +75,7 @@ city, and shall have joy without sadness or fear. Wherefore covet not
 the riches of the heathen; for they are destructive to the servants of
 God.
 
-10  <span id="fr_1329"></span>[2](#fn_1328) But trade with your own
+10  <span id="fr_1329"></span>[2](#fn_1328.md) But trade with your own
 riches which you possess, by which ye may attain unto everlasting joy.
 
 11 And do not commit adultery, nor touch any other man's wife, nor
@@ -94,7 +94,7 @@ thyself?
 
 2 And I said unto him, Sir, I think of this vine and this elm because
 their fruits are fair. And he said unto me;  <span
-id="fr_1330"></span>[3](#fn_1329) These two trees are set for a pattern
+id="fr_1330"></span>[3](#fn_1329.md) These two trees are set for a pattern
 to the servants of God.
 
 3 And I said unto him, Sir, I would know in what the pattern of these
@@ -120,7 +120,7 @@ but little, and that very ill too.
 and it represents the rich and poor man. I answered, Sir, make this
 manifest unto me. Hear, said he; the rich man has wealth; howbeit
 towards the Lord he is poor; for he is  <span
-id="fr_1331"></span>[1](#fn_1330) taken up about his riches, and prays
+id="fr_1331"></span>[1](#fn_1330.md) taken up about his riches, and prays
 but little to the Lord; and the prayers which he makes are lazy and
 without force.
 
@@ -170,7 +170,7 @@ trees? Because, said he, neither the righteous, nor unrighteous, are
 known from one another; but all are alike in this present world.
 
 3 For this world is as the winter to the righteous men, <span
-id="fr_1332"></span>[2](#fn_1331) because they are not known, but dwell
+id="fr_1332"></span>[2](#fn_1331.md) because they are not known, but dwell
 among sinners.
 
 4 As in the winter all the trees having lost their leaves, are like dry
@@ -202,7 +202,7 @@ summer the fruit of every tree is shown and made manifest, so also the
 works of the righteous shall be declared and made manifest, and they
 shall be restored in that world merry and joyful.
 
-4 For the other  <span id="fr_1333"></span>[1](#fn_1332) kind of men,
+4 For the other  <span id="fr_1333"></span>[1](#fn_1332.md) kind of men,
 namely the wicked, like the trees which thou sawest dry, shall as such
 be found dry and without fruit in that other world; and like dry wood
 shall be burnt; and it shall be made manifest that they have done evil
@@ -237,11 +237,11 @@ cleanliness of the body*.</span>
 AS I was fasting, and sitting down in a certain mountain, and giving
 thanks unto God for
 
-all the things that he had done  <span id="fr_1334"></span>[2](#fn_1333)
+all the things that he had done  <span id="fr_1334"></span>[2](#fn_1333.md)
 unto me; behold I saw the shepherd, who was wont to converse with me,
 sitting by me, and saying unto me: What has brought thee hither thus
 early in the morning? I answered, Sir, today I keep a  <span
-id="fr_1335"></span>[3](#fn_1334) station.
+id="fr_1335"></span>[3](#fn_1334.md) station.
 
 2 He answered, What is a station? I replied, it is a fast. He said, What
 is that fast? I answered, I fast, as I have been wont to do. Ye know
@@ -251,13 +251,13 @@ fast, profiting nothing with God.
 3 Sir, said I, what makes you speak thus? He replied, I speak it,
 because this is not the true fast which you think that you fast; but I
 will show you what that is which is a  <span
-id="fr_1336"></span>[4](#fn_1335) complete fast, and acceptable unto
+id="fr_1336"></span>[4](#fn_1335.md) complete fast, and acceptable unto
 God.
 
 4 Hearken, said he, The Lord does not desire such a needless fast: for
 by fasting in this manner, thou advancest nothing in righteousness.
 
-5  <span id="fr_1337"></span>[5](#fn_1336) But the true fast is this: Do
+5  <span id="fr_1337"></span>[5](#fn_1336.md) But the true fast is this: Do
 nothing wickedly in thy life, but serve God with a pure mind; and keep
 his commandments and walk according to his precepts, nor suffer any
 wicked desire to enter into the mind.
@@ -306,7 +306,7 @@ rejoiced greatly at the care of his servant.
 his friends with whom he was wont to consult; he tells them what he had
 commanded his servant to do, and what his servant had done more; and
 they immediately congratulated that servant, that he had received so
- <span id="fr_1338"></span>[1](#fn_1337) full a testimony from his lord.
+ <span id="fr_1338"></span>[1](#fn_1337.md) full a testimony from his lord.
 
 16 Then he said to them, I indeed promised this servant his liberty, if
 he observed the command which I gave him; and he observed it, and
@@ -335,7 +335,7 @@ find yet greater favour with his lord, for what he had done to them.
 GARDENER APPEARING TO MARY MAGDALENE. FROM A PAINTING IN DISTEMPER ON
 WOOD: TWELFTH CENTURY. The letters underneath are from the back of the
 Picture: ''Donatus Bizamanus, pixit in Hotranto.''](tn/23300.jpg)  
-Click to enlarge](img/23300.jpg)  
+Click to enlarge](img/23300.jpg.md)  
 CHRIST AS A GARDENER APPEARING TO MARY MAGDALENE. FROM A PAINTING IN
 DISTEMPER ON WOOD: TWELFTH CENTURY. The letters underneath are from the
 back of the Picture: ''Donatus Bizamanus, pixit in Hotranto.''  
@@ -374,21 +374,21 @@ who purpose in like manner.
 of the Lord, is exceeding good. Thus shalt there. fore thou keep it.
 
 29 First of all, take heed to thyself, and keep thyself from every
- <span id="fr_1339"></span>[1](#fn_1338) wicked act, and from every
+ <span id="fr_1339"></span>[1](#fn_1338.md) wicked act, and from every
 filthy word, and from every hurtful desire; and purify thy mind from all
 the vanity of this present world. If thou shalt observe these things,
 this fast shall be right.
 
 30 Thus therefore do. Having performed what is before written, that day
 on which thou fastest thou shalt taste nothing at all but  <span
-id="fr_1340"></span>[2](#fn_1339) bread and water;  <span
-id="fr_1341"></span>[2](#fn_1339) and computing the quantity of food
+id="fr_1340"></span>[2](#fn_1339.md) bread and water;  <span
+id="fr_1341"></span>[2](#fn_1339.md) and computing the quantity of food
 which thou art wont to eat upon other days, thou shalt  <span
-id="fr_1342"></span>[2](#fn_1339) lay aside the expense which thou
+id="fr_1342"></span>[2](#fn_1339.md) lay aside the expense which thou
 shouldest have made that day, and give it unto the widow, the
 fatherless, and the poor.
 
-31  <span id="fr_1343"></span>[3](#fn_1340) And thus thou shalt perfect
+31  <span id="fr_1343"></span>[3](#fn_1340.md) And thus thou shalt perfect
 the humiliation of thy soul; that he who receives of it may satisfy his
 soul, and his prayer come up to the Lord God for thee.
 
@@ -456,7 +456,7 @@ finished all things, and gave virtue unto them.
 
 46 His son is the Holy Spirit: the servant is the Son of God: the
 vineyard is the people whom he saves. The stakes are the  <span
-id="fr_1344"></span>[1](#fn_1341) messengers which are set over them by
+id="fr_1344"></span>[1](#fn_1341.md) messengers which are set over them by
 the Lord, to support his people. The weeds that are plucked up out of
 the vineyard, are the sins which the servants of God had committed.
 
@@ -480,7 +480,7 @@ servant, but in great power and authority. I said unto him 'how, sir? I
 understand it not.'
 
 51 Because, said he, the Son set his  <span
-id="fr_1345"></span>[1](#fn_1342) [messengers](errata.htm#14) over those
+id="fr_1345"></span>[1](#fn_1342) [messengers](errata.htm#14.md) over those
 whom the Father delivered unto him, to keep every one of them; but he
 himself labored very much, and suffered much, that he might blot out
 their offences.
@@ -491,14 +491,14 @@ the paths of life, giving them the law which he had received of the
 Father.
 
 53 You see, said he, that he is the Lord of his people, having received
-all power from his Father.  <span id="fr_1346"></span>[2](#fn_1343) But
+all power from his Father.  <span id="fr_1346"></span>[2](#fn_1343.md) But
 why the Lord did take his Son into counsel, about dividing the
 inheritance, and the good angels, hear now.
 
-54 That  <span id="fr_1347"></span>[3](#fn_1344) Holy Spirit, which was
+54 That  <span id="fr_1347"></span>[3](#fn_1344.md) Holy Spirit, which was
 created first of all, he placed in the body in which God should dwell;
 namely, in a chosen body, as it seemed good to him. This body therefore
-into which the  <span id="fr_1348"></span>[3](#fn_1344) Holy Spirit was
+into which the  <span id="fr_1348"></span>[3](#fn_1344.md) Holy Spirit was
 brought, served that Spirit, walked rightly and purely in modesty; nor
 ever defiled that Spirit.
 
@@ -525,7 +525,7 @@ judged to have been with thee.
 59 Also take heed that it be not instilled into thy mind that this body
 perishes, and thou abuse it to any lust. For if thou shalt defile thy
 body, thou shalt also at the same time defile the Holy Spirit; and if
-thou shalt defile  <span id="fr_1349"></span>[4](#fn_1345) the Holy
+thou shalt defile  <span id="fr_1349"></span>[4](#fn_1345.md) the Holy
 Spirit, thou shalt not live.
 
 60 And I said, What if through ignorance this should have been already
@@ -565,7 +565,7 @@ before been wont to see, sitting by me; and he spake thus unto me:
 3 What doubtest thou concerning my commands which I have delivered unto
 thee? They are good, doubt not, but trust in the Lord, and thou shalt
 walk in them. For I will give thee strength  <span
-id="fr_1350"></span>[1](#fn_1346) to fulfil them.
+id="fr_1350"></span>[1](#fn_1346.md) to fulfil them.
 
 4 These commands are profitable to those who shall repent of those sins
 which they have formerly committed; if for the time to come they shall
@@ -584,7 +584,7 @@ ye shall live unto God: These things have I spoken unto you.
 will show thee shepherds of sheep. I replied, sir, let us go.
 
 8 And we came into a certain field, and there he showed me a young
-shepherd,  <span id="fr_1351"></span>[2](#fn_1347) finely arrayed, with
+shepherd,  <span id="fr_1351"></span>[2](#fn_1347.md) finely arrayed, with
 his garments of a purple colour. And he fed large flocks; and his sheep
 were full of pleasure, and in much delight and cheerfulness; and they
 skipping, ran here and there.
@@ -595,7 +595,7 @@ flock.
 
 10 ¶ Then the angel said unto me, Seest thou this shepherd? I answered,
 sir, I see him. He said unto me, this is the  <span
-id="fr_1352"></span>[3](#fn_1348) messenger of delight and pleasure. He
+id="fr_1352"></span>[3](#fn_1348.md) messenger of delight and pleasure. He
 therefore corrupts the minds of the servants of God, and turns them from
 the truth, delighting them with many pleasures, and they perish.
 
@@ -605,13 +605,13 @@ the truth, delighting them with many pleasures, and they perish.
 
 in luxury and in vain pleasures, and are corrupted by the evil angel,
 some of them even unto death; and others to  <span
-id="fr_1353"></span>[1](#fn_1349) a falling away.
+id="fr_1353"></span>[1](#fn_1349.md) a falling away.
 
 12 I replied; I understand not what you mean, by saying unto death, and
 to a falling away. Hear, says he; all these sheep which thou sawest
-exceeding  <span id="fr_1354"></span>[2](#fn_1350) joyful, are such as
+exceeding  <span id="fr_1354"></span>[2](#fn_1350.md) joyful, are such as
 have for ever departed from God, and given themselves up to the  <span
-id="fr_1355"></span>[3](#fn_1351) lusts of this present time.
+id="fr_1355"></span>[3](#fn_1351.md) lusts of this present time.
 
 13 To these therefore there is no return, by repentance unto life;
 because that to their other sins they have added this, that they have
@@ -628,7 +628,7 @@ hope still left of a renewal; but they that are dead, are utterly gone
 forever.
 
 16 Again we went a little farther forward; and he showed me a great
- <span id="fr_1356"></span>[4](#fn_1352) shepherd, who had as it were a
+ <span id="fr_1356"></span>[4](#fn_1352.md) shepherd, who had as it were a
 rustic figure, clad with a white goat's skin, having his bag upon his
 shoulder, and in his hand a stick full of knots, and very hard, and a
 whip in his other hand; and his countenance was stern and sour; enough
@@ -649,8 +649,8 @@ rest afforded them.
 
 20 And I said unto the shepherd that was with me; Sir, who is this cruel
 and implacable shepherd, who is moved with no compassion towards these
-sheep? He answered,  <span id="fr_1357"></span>[5](#fn_1353) This
-shepherd is indeed one of the  <span id="fr_1358"></span>[6](#fn_1354)
+sheep? He answered,  <span id="fr_1357"></span>[5](#fn_1353.md) This
+shepherd is indeed one of the  <span id="fr_1358"></span>[6](#fn_1354.md)
 holy angels, but is appointed for the punishment of sinners.
 
 21 To him therefore are delivered those who have erred from God, and
@@ -672,7 +672,7 @@ fall under many other trials and inconveniences.
 profiteth them not; and they say that they have not success in their
 undertakings.
 
-24  <span id="fr_1359"></span>[1](#fn_1355) They do not call to their
+24  <span id="fr_1359"></span>[1](#fn_1355.md) They do not call to their
 mind what they have done amiss, and they complain of the Lord. When
 therefore they shall have undergone all kind of vexation and
 inconvenience; then they are delivered over to me for good instruction,
@@ -692,7 +692,7 @@ Lord whatever they desire.
 me; nor do they suffer any more cruelty.
 
 28 ¶ I said unto him; Sir, I entreat you still to show me now one thing.
-What, said he, dost thou  <span id="fr_1360"></span>[2](#fn_1356) ask? I
+What, said he, dost thou  <span id="fr_1360"></span>[2](#fn_1356.md) ask? I
 said unto him; Are they who depart from the fear of God, tormented for
 the same time that they enjoyed their false delight and pleasures? He
 answered me: They are tormented for the same time.
@@ -708,7 +708,7 @@ would not desire you to tell me.
 31 Hearken, said he, and learn what the force of both is, both of the
 pleasure and of the punishment. An hour of pleasure is terminated within
 its own space; but one hour of punishment has the efficacy of thirty
-days.  <span id="fr_1361"></span>[3](#fn_1357) Whosoever therefore
+days.  <span id="fr_1361"></span>[3](#fn_1357.md) Whosoever therefore
 enjoys his false pleasure for one day, and is one day tormented; that
 one day of punishment is equivalent to a whole year's space.
 
@@ -718,7 +718,7 @@ enjoyments is but short; but that of pain and torments a great deal
 more.
 
 33 I replied; Sir, forasmuch as I do not understand  <span
-id="fr_1362"></span>[4](#fn_1358) at all these times of pleasure and
+id="fr_1362"></span>[4](#fn_1358.md) at all these times of pleasure and
 pain;
 
 I entreat you that you would explain yourself more clearly concerning
@@ -756,7 +756,7 @@ is pleasure to every man which he doth willingly.
 40 For the angry man, gratifying his passion, perceives pleasure in it;
 and so the adulterer and drunkard; the slanderer and liar; the covetous
 man and the defrauder; and whosoever commits anything like unto these,
-because he  <span id="fr_1363"></span>[1](#fn_1359) followeth his evil
+because he  <span id="fr_1363"></span>[1](#fn_1359.md) followeth his evil
 disposition, he receives a satisfaction in the doing of it.
 
 41 All these pleasures and delights are hurtful to the servants of God.
@@ -791,13 +791,13 @@ vexations; for so that good angel hath commanded concerning thee,
 because he would try thee.
 
 4 Sir, said I; What so great offence have I committed, that I should be
-delivered to this  <span id="fr_1364"></span>[2](#fn_1360) messenger?
+delivered to this  <span id="fr_1364"></span>[2](#fn_1360.md) messenger?
 Hearken, said he: Thou art indeed guilty of many sins, yet not so many
 that thou shouldest be delivered to this  <span
-id="fr_1365"></span>[2](#fn_1360) messenger.
+id="fr_1365"></span>[2](#fn_1360.md) messenger.
 
 5 But thy house hath committed many sins and offences, and therefore
-that good  <span id="fr_1366"></span>[2](#fn_1360) messenger being
+that good  <span id="fr_1366"></span>[2](#fn_1360.md) messenger being
 grieved at their doings commanded that for some time thou shouldst
 suffer affliction; that they may both repent of what they have done, and
 may wash themselves from all the lusts of this present world.
@@ -884,7 +884,7 @@ mused within myself
 <span id="img_24100"></span> <span align="CENTER"> [![JESUS CHRIST
 ASCENDING TO HEAVEN WITH TWO ANGELS. FROM ONE OF THE MINIATURE PAINTINGS
 IN THE ''BIBLE OF ST. PAUL.''](tn/24100.jpg)  
-Click to enlarge](img/24100.jpg)  
+Click to enlarge](img/24100.jpg.md)  
 JESUS CHRIST ASCENDING TO HEAVEN WITH TWO ANGELS. FROM ONE OF THE
 MINIATURE PAINTINGS IN THE ''BIBLE OF ST. PAUL.''  
 </span>
@@ -979,7 +979,7 @@ rods from it. And I hope now that these rods are thus watered, many of
 them receiving in the moisture, will recover.
 
 22 ¶ I said unto him, Sir, tell me what this tree denotes? For I am
-greatly  <span id="fr_1367"></span>[1](#fn_1361) astonished, that after
+greatly  <span id="fr_1367"></span>[1](#fn_1361.md) astonished, that after
 so many branches have been cut off, it seems still to be whole; nor does
 there any thing the less of it appear to remain, which greatly amazes
 me.
@@ -988,7 +988,7 @@ me.
 mountains, and all the earth, is the law of God, published throughout
 the whole world.
 
-24 Now  <span id="fr_1368"></span>[2](#fn_1362) this law is the Son of
+24 Now  <span id="fr_1368"></span>[2](#fn_1362.md) this law is the Son of
 God, who is preached to all the ends of the earth. The people that stand
 under its shadow, are those which have heard his preaching, and
 believed.
@@ -1006,7 +1006,7 @@ those who have not kept the law, knowing the place of every one of them.
 left others here to you? He replied, those who have transgressed the
 law, which they received from him, are left in my power, that they may
 repent of their sins: but they who  <span
-id="fr_1369"></span>[3](#fn_1363) fulfilled the law and kept it, are
+id="fr_1369"></span>[3](#fn_1363.md) fulfilled the law and kept it, are
 under his power.
 
 28 But who then, said I, are those, who went into the tower crowned? He
@@ -1031,7 +1031,7 @@ which I have planted and watered.
 
 32 ¶ After a few days we returned, and in the same place stood that
 glorious angel, and I stood by him, Then he said unto me; Gird thyself
-with a  <span id="fr_1370"></span>[1](#fn_1364) towel, and serve me.
+with a  <span id="fr_1370"></span>[1](#fn_1364.md) towel, and serve me.
 
 33 And I girded myself with a clean towel, which was made of coarse
 cloth. And when he saw me girded, and ready to minister unto him, he
@@ -1085,7 +1085,7 @@ others dry and rotten; others half dry and cleft; but few green. And all
 these were set every one in his own rank.
 
 43 Then they reached in their rods,  <span
-id="fr_1371"></span>[1](#fn_1365) in which there was before but a little
+id="fr_1371"></span>[1](#fn_1365.md) in which there was before but a little
 green, and the rest dry. Their rods were for the most part found green,
 having little boughs, with fruit upon them, and the rest altogether
 green.
@@ -1112,7 +1112,7 @@ words.
 
 49 I said unto him; Now, Sir, make known unto me, what is the place of
 every one of those, who have given up their rods, and what their  <span
-id="fr_1372"></span>[2](#fn_1366) portion; that when they may have not
+id="fr_1372"></span>[2](#fn_1366.md) portion; that when they may have not
 kept their seal entire, but have wasted the seal which they received,
 shall hear and believe these things, they may acknowledge their evil
 deeds and repent;
@@ -1202,7 +1202,7 @@ denied God: and for this wickedness they have lost life. And of these
 many are still in doubt; these may yet return; and if they shall quickly
 repent, they shall have a place in the tower; but if they shall be more
 slow, they shall dwell within the walls; but if they shall not repent,
-they shall die. <span id="fr_1373"></span>[1](#fn_1367)
+they shall die. <span id="fr_1373"></span>[1](#fn_1367.md)
 
 68 As for those who had two
 
@@ -1223,7 +1223,7 @@ things; and thereupon have desired to be famous among the heathen which
 are without, and have thereby fallen into great pride, and begun to aim
 at high matters, and to forsake the truth.
 
-71 Nor were they joined to the  <span id="fr_1374"></span>[1](#fn_1368)
+71 Nor were they joined to the  <span id="fr_1374"></span>[1](#fn_1368.md)
 saints, but lived with the heathen; and this life seemed the more
 pleasant to them. Howbeit they have not departed from God, but continued
 in the faith; only they have not wrought the works of faith.
@@ -1245,7 +1245,7 @@ but continue still in their pleasures, are nigh unto death.
 
 75 ¶ As for those who gave in their rods green, excepting their tops,
 which only were dry, and had clefts; these were always good, and
-faithful, and  <span id="fr_1375"></span>[2](#fn_1369) upright before
+faithful, and  <span id="fr_1375"></span>[2](#fn_1369.md) upright before
 God: nevertheless they sinned a little, by reason of their empty
 pleasures and trifling thoughts which they had within themselves.
 
@@ -1303,7 +1303,7 @@ triumphant church which is to be built*.</span>
 
 AFTER I had written the Commands and Similitudes of the Shepherd, the
 Angel of Repentance; he came unto me, and said to me, I will shew thee
-all those things which the  <span id="fr_1376"></span>[1](#fn_1370)
+all those things which the  <span id="fr_1376"></span>[1](#fn_1370.md)
 Spirit spake with thee under the figure of the Church. For that Spirit
 is the Son of God.
 
@@ -1318,10 +1318,10 @@ unto thee as it were by a virgin.
 4 But now thou art enlightened by the angel, but yet by the same Spirit.
 But thou must consider all things diligently; for therefore am I sent
 into thy house by that venerable  <span
-id="fr_1377"></span>[2](#fn_1371) messenger, that when thou shalt have
+id="fr_1377"></span>[2](#fn_1371.md) messenger, that when thou shalt have
 seen all things powerfully, thou mayest not be afraid as before.
 
-5 And he led me to the  <span id="fr_1378"></span>[3](#fn_1372) height
+5 And he led me to the  <span id="fr_1378"></span>[3](#fn_1372.md) height
 of a mountain in Arcadia, and we sat upon its top. And he showed me a
 great plain, and about it twelve mountains in different figures.
 
@@ -1356,7 +1356,7 @@ them could not choose but desire to eat of their fruit.
 12 The twelfth mountain was altogether white, and of a most pleasant
 aspect, and itself gave a most excellent beauty to itself.
 
-13 ¶ In the middle of the  <span id="fr_1379"></span>[1](#fn_1373) plain
+13 ¶ In the middle of the  <span id="fr_1379"></span>[1](#fn_1373.md) plain
 he showed me a huge white rock, which rose out of the plain, and the
 rock was higher than those mountains, and was square; so that it seemed
 capable of supporting the whole world.
@@ -1372,7 +1372,7 @@ were also of worth: and they stood at the four parts of the gate.
 16 It added also to the grace of those virgins, that they stood in
 pairs, clothed with linen garments, and decently girded, their right
 arms being at liberty, as if they were about to lift up some  <span
-id="fr_1380"></span>[2](#fn_1374) burthen; for so they were adorned, and
+id="fr_1380"></span>[2](#fn_1374.md) burthen; for so they were adorned, and
 were exceeding cheerful and ready.
 
 17 When I saw this, I wondered with myself to see such great and noble
@@ -1417,7 +1417,7 @@ their hands, as if they were to receive somewhat from them to do.
 25 Then those six men commanded, that they should lift up stones out of
 a certain deep place, and prepare them for the building of the tower.
 And there were lifted up ten white stones, square, and  <span
-id="fr_1381"></span>[1](#fn_1375) not cut round.
+id="fr_1381"></span>[1](#fn_1375.md) not cut round.
 
 26 Then those six men called the ten virgins to them, and commanded them
 to carry all the stones that were to be put into the building and having
@@ -1441,17 +1441,17 @@ stones filled the whole gate, which began to be made for the foundation
 of that tower.
 
 31 After those ten stones did five and twenty others  <span
-id="fr_1382"></span>[2](#fn_1376) rise up out of the deep; and these
+id="fr_1382"></span>[2](#fn_1376.md) rise up out of the deep; and these
 were placed in the building of the same tower; being lifted up by those
 virgins, as the others had been before.
 
 32 After these did five and thirty others  <span
-id="fr_1383"></span>[2](#fn_1376) rise up; and these were also in like
+id="fr_1383"></span>[2](#fn_1376.md) rise up; and these were also in like
 manner fitted into the same work. Then forty other stones were brought
 up, and all these were added unto the building of that tower.
 
 33 So there began to be four ranks in the foundation of that tower; and
-the stones ceased to  <span id="fr_1384"></span>[2](#fn_1376) rise out
+the stones ceased to  <span id="fr_1384"></span>[2](#fn_1376.md) rise out
 of the deep; and they also which built rested a little.
 
 34 Again those six men commanded the multitude, that they should bring
@@ -1528,7 +1528,7 @@ and in the middle of
 <span id="page_251">p. 251</span>
 
 them a man so tall, that he surpassed the tower in  <span
-id="fr_1385"></span>[1](#fn_1377) height.
+id="fr_1385"></span>[1](#fn_1377.md) height.
 
 50 About him were those six, who before commanded in the building, and
 all the rest of those who had built that tower, and many others of great
@@ -1593,10 +1593,10 @@ the tower.
 
 62 For all these that are about the tower must be cleansed, lest the
 master of the house chance to come upon the sudden, and find those which
-are about the tower unclean;  <span id="fr_1386"></span>[1](#fn_1378)
+are about the tower unclean;  <span id="fr_1386"></span>[1](#fn_1378.md)
 and be so exasperated, that these stones should never be put into the
 building of this tower, and I shall be looked upon to have been  <span
-id="fr_1387"></span>[2](#fn_1379) unmindful of my master's commands.
+id="fr_1387"></span>[2](#fn_1379.md) unmindful of my master's commands.
 
 63 When therefore we came after three days to the tower, he said unto
 me; Let us examine all these stones, and let us see which of them may go
@@ -1635,11 +1635,11 @@ laid among those that were cast away.
 
 71 The rest were found altogether white; those were taken up by the
 virgins, and fitted into the same tower:  <span
-id="fr_1388"></span>[3](#fn_1380) and these were put in the outside,
+id="fr_1388"></span>[3](#fn_1380.md) and these were put in the outside,
 because they were found entire; that so they might keep in those that
 were placed in the middle, for nothing was cut off from them.
 
-72 Next he looked upon those  <span id="fr_1389"></span>[4](#fn_1381)
+72 Next he looked upon those  <span id="fr_1389"></span>[4](#fn_1381.md)
 which had been hard and sharp; but few of these were made use of,
 because they could not be cut, for they were found very hard: but the
 rest were formed, and fitted by the virgins into the middle of the
@@ -1704,7 +1704,7 @@ appear; but it looked as if it had all been cut out of one rock.
 86 ¶ And when I diligently considered what a tower it was, I was
 extremely pleased: and he said unto me, Bring hither some lime and
 little shells, that I may fill up the  <span
-id="fr_1390"></span>[1](#fn_1382) spaces of those stones that were taken
+id="fr_1390"></span>[1](#fn_1382.md) spaces of those stones that were taken
 out of the building, and put in again; for all things about the tower
 must be made even.
 
@@ -1802,8 +1802,8 @@ new.
 
 110 Hear, said he, O foolish man! and understand. The Son of God is
 indeed more ancient than any creature;  <span
-id="fr_1391"></span>[1](#fn_1383) insomuch that he was in council with
-his Father at the creation of  <span id="fr_1392"></span>[2](#fn_1384)
+id="fr_1391"></span>[1](#fn_1383.md) insomuch that he was in council with
+his Father at the creation of  <span id="fr_1392"></span>[2](#fn_1384.md)
 all things.
 
 111 But the gate is therefore new, because he appeared in the last days
@@ -1864,7 +1864,7 @@ his name, unless he shall be also endued with his powers.
 
 123 And he said unto me, sawest thou those stones that were cast away?
 They bore indeed the name, but put not on their garment. I said, Sir,
-what is their garment?  <span id="fr_1393"></span>[1](#fn_1385) Their
+what is their garment?  <span id="fr_1393"></span>[1](#fn_1385.md) Their
 very names, said he, are their garment.
 
 124 Therefore whosoever beareth the name of the Son of God, ought to
@@ -1874,7 +1874,7 @@ names.
 125 As for those stones, continued he, which being delivered by their
 hands, thou sawest remain in the building, they were clothed with their
 power; for which cause thou seest the whole tower of the same  <span
-id="fr_1394"></span>[2](#fn_1386) colour with the rock, and made as it
+id="fr_1394"></span>[2](#fn_1386.md) colour with the rock, and made as it
 were of one stone.
 
 126 So also those who have believed in God by his Son, have put on his
@@ -1894,7 +1894,7 @@ virgins.
 129 Having therefore received these spirits, they were perfected, and
 brought into the number of the servants of God; and they began to be one
 body, and to have one garment, for they were  <span
-id="fr_1395"></span>[3](#fn_1387) endued with the same righteousness,
+id="fr_1395"></span>[3](#fn_1387.md) endued with the same righteousness,
 which they alike exercised.
 
 130 But after that they be held those women which thou sawest clothed
@@ -1925,7 +1925,7 @@ in their works.
 THE SEA, AND HIS COMING OUT OF THE WHALE. FROM THE FRONT OF A
 SARCOPHAGUS OF THE FIRST AGES OF CHRISTIANITY, FOUND IN THE CEMETERY OF
 THE VATICAN, ROME.](tn/25700.jpg)  
-Click to enlarge](img/25700.jpg)  
+Click to enlarge](img/25700.jpg.md)  
 JONAH CAST INTO THE SEA, AND HIS COMING OUT OF THE WHALE. FROM THE FRONT
 OF A SARCOPHAGUS OF THE FIRST AGES OF CHRISTIANITY, FOUND IN THE
 CEMETERY OF THE VATICAN, ROME.  
@@ -1965,7 +1965,7 @@ women that were clothed with the black garment.
 141 Hear, said he, the names of those virgins which are the more
 powerful, and stand at the corners of the gate. These are their names:
 
-142 The first is called  <span id="fr_1396"></span>[1](#fn_1388) Faith;
+142 The first is called  <span id="fr_1396"></span>[1](#fn_1388.md) Faith;
 the second Continence; the third, Power; the fourth, Patience; the rest
 which stand beneath these are, Simplicity, Innocence, Chastity,
 Cheerfulness, Truth, Understanding, Concord, Charity.
@@ -2006,9 +2006,9 @@ have been useful to the building of this tower.
 150 And I said, Sir, shew me this farther. He answered, What dost thou
 ask? Why did these stones come out of the deep, and were placed into the
 building of this tower, seeing that they long ago carried those  <span
-id="fr_1397"></span>[1](#fn_1389) holy spirits.
+id="fr_1397"></span>[1](#fn_1389.md) holy spirits.
 
-151  <span id="fr_1398"></span>[2](#fn_1390) It was necessary, said he,
+151  <span id="fr_1398"></span>[2](#fn_1390.md) It was necessary, said he,
 for them to ascend by water, that they might be at rest. For they could
 not otherwise enter into the kingdom of God, but by laying aside the
 mortality of their former life.
@@ -2018,19 +2018,19 @@ the Son of God, and so entered into the kingdom of God.
 
 153 For before a man receives the name of the Son of God, he is ordained
 unto death; but when he receives that seal, he is freed from death, and
- <span id="fr_1399"></span>[3](#fn_1391) assigned unto life.
+ <span id="fr_1399"></span>[3](#fn_1391.md) assigned unto life.
 
 154 Now that seal is the water of baptism, into which men go down under
 the obligation unto death, but come up appointed unto life.
 
 155 Wherefore to those also was this seal  <span
-id="fr_1400"></span>[4](#fn_1392) preached, and they made use of it,
+id="fr_1400"></span>[4](#fn_1392.md) preached, and they made use of it,
 that they might enter the kingdom of God.
 
 156 And I said, Why then, sir, did these forty stones also ascend with
 them out of the deep, having already received that seal?
 
-157 He answered,  <span id="fr_1401"></span>[5](#fn_1393) Because these
+157 He answered,  <span id="fr_1401"></span>[5](#fn_1393.md) Because these
 Apostles and teachers, who preached the name of the Son of God, dying
 after they had received his faith and power, preached to them who were
 dead before; and they gave this seal to them.
@@ -2074,8 +2074,8 @@ heard and believed in the same one name of the Son of God by whom they
 are called.
 
 167 Wherefore having received his seal, they have all been made
-partakers of the same  <span id="fr_1402"></span>[1](#fn_1394)
-understanding and  <span id="fr_1403"></span>[2](#fn_1395) knowledge;
+partakers of the same  <span id="fr_1402"></span>[1](#fn_1394.md)
+understanding and  <span id="fr_1403"></span>[2](#fn_1395.md) knowledge;
 and their faith and charity have been the same; and they have carried
 the spirits of these virgins together with his name.
 
@@ -2107,9 +2107,9 @@ the tower, which had been rejected; they were delivered to wicked and
 cruel spirits; and thou beheldest the tower so cleansed, as if it had
 all been made of one stone:
 
-175  <span id="fr_1404"></span>[3](#fn_1396) So the church of God, when
-it shall be purified: (the  <span id="fr_1405"></span>[4](#fn_1397)
-wicked and counterfeits, the  <span id="fr_1406"></span>[5](#fn_1398)
+175  <span id="fr_1404"></span>[3](#fn_1396.md) So the church of God, when
+it shall be purified: (the  <span id="fr_1405"></span>[4](#fn_1397.md)
+wicked and counterfeits, the  <span id="fr_1406"></span>[5](#fn_1398.md)
 mischievous and doubtful, and all that have behaved themselves wickedly
 in it, and committed divers kinds of sin, being cast out) shall become
 one body, and there shall be one understanding, one opinion, one faith,
@@ -2136,7 +2136,7 @@ the Lord; and betrayed the servants of God.
 therefore they are black, because their kind is wicked.
 
 181 Of the second mountain which was smooth, are the  <span
-id="fr_1407"></span>[1](#fn_1399) hypocrites, who have believed, and the
+id="fr_1407"></span>[1](#fn_1399.md) hypocrites, who have believed, and the
 teachers of naughtiness: and these are next to the foregoing, which have
 not in them the fruit of righteousness.
 
@@ -2170,7 +2170,7 @@ affairs, join not themselves to the servants of God, but wander, being
 called away by those affairs with which they are choked.
 
 189 And so they which are rich, with difficulty yield themselves to the
- <span id="fr_1408"></span>[2](#fn_1400) conversation of the servants of
+ <span id="fr_1408"></span>[2](#fn_1400.md) conversation of the servants of
 God; fearing lest anything should be asked of them. These therefore
 shall hardly enter into the kingdom of God.
 
@@ -2226,7 +2226,7 @@ are fools, yet would seem to be teachers.
 
 201 Now by reason of this folly many of them, whilst they magnify
 themselves, are become vain and empty. For boldness and vain confidence
-is a  <span id="fr_1409"></span>[1](#fn_1401) very evil spirit.
+is a  <span id="fr_1409"></span>[1](#fn_1401.md) very evil spirit.
 
 202 Wherefore many of these are cast away; but others acknowledging
 their error, have repented, and submitted themselves to those who are
@@ -2281,7 +2281,7 @@ always forward to shew mercy to all men, readily giving to all men of
 their labours without upbraiding, and without deliberation.
 
 212 Wherefore the Lord seeing their simplicity and  <span
-id="fr_1410"></span>[1](#fn_1402) innocence, has increased them in the
+id="fr_1410"></span>[1](#fn_1402.md) innocence, has increased them in the
 works of their hands, and given them grace in all their works.
 
 213 But I, who am the angel appointed over your repentance, exhort you,
@@ -2297,7 +2297,7 @@ springs, by which every kind of all the creatures of God was watered;
 they are such as have believed the Apostles which the Lord sent into all
 the world to preach;
 
-216 And  <span id="fr_1411"></span>[2](#fn_1403) some of them being
+216 And  <span id="fr_1411"></span>[2](#fn_1403.md) some of them being
 teachers have preached and taught purely and sincerely, and have not in
 the least yielded to any evil desires, but have constantly walked in
 righteousness and truth.
@@ -2463,7 +2463,7 @@ roots of this mountain should be placed into the building.
 continue bright; nor would any of them any more be made black.
 
 253 But if he had added on this manner from the rest of the mountains,
-he would  <span id="fr_1412"></span>[1](#fn_1404) almost have needed
+he would  <span id="fr_1412"></span>[1](#fn_1404.md) almost have needed
 again to visit the tower and to cleanse it.
 
 254 Now all these white stones are the young men who have believed, or
@@ -2491,7 +2491,7 @@ also are of a good kind.
 into the building of this tower.
 
 260 ¶ As for the rest which continued still round, and were not found
-fit for the building  <span id="fr_1413"></span>[2](#fn_1405) of this
+fit for the building  <span id="fr_1413"></span>[2](#fn_1405.md) of this
 tower, because they have not yet received the seal; they were carried
 back to their place, because they were found very round.
 
@@ -2512,17 +2512,17 @@ Lord.
 and remember not the offences which are committed against you, nor
 continue in malice, or in bitterness, through the memory of offences.
 
-265  <span id="fr_1414"></span>[3](#fn_1406) But become one spirit, and
+265  <span id="fr_1414"></span>[3](#fn_1406.md) But become one spirit, and
 provide remedies for these evil rents, and remove them from you; that
 the lord of the sheep may rejoice  <span
-id="fr_1415"></span>[4](#fn_1407) at it;  <span
-id="fr_1416"></span>[5](#fn_1408) for he will rejoice, if he shall find
+id="fr_1415"></span>[4](#fn_1407.md) at it;  <span
+id="fr_1416"></span>[5](#fn_1408.md) for he will rejoice, if he shall find
 all whole.
 
 266 But if any of these sheep shall be found scattered away, Wo shall be
 to the shepherds; but and if the shepherds themselves shall be
 scattered; what will they answer to  <span
-id="fr_1417"></span>[6](#fn_1409) the lord of the sheepfold? Will they
+id="fr_1417"></span>[6](#fn_1409.md) the lord of the sheepfold? Will they
 say that they were troubled by the
 
 <span id="page_266">p. 266</span>
@@ -2537,10 +2537,10 @@ flock; and he shall be the more punished for his lie.
 269 ¶ Wherefore take care of yourselves whilst the tower is yet
 building. The Lord dwells in those that love peace; for peace is
 beloved; but he is far off from the contentious, and those who are
- <span id="fr_1418"></span>[1](#fn_1410) full of malice.
+ <span id="fr_1418"></span>[1](#fn_1410.md) full of malice.
 
 270 Wherefore restore unto him the spirit entire, as ye received it.
- <span id="fr_1419"></span>[2](#fn_1411) For if thou shalt give unto a
+ <span id="fr_1419"></span>[2](#fn_1411.md) For if thou shalt give unto a
 fuller a garment new and whole, thou wilt expect to receive it whole
 again; if therefore the fuller shall restore it unto thee torn, wouldest
 thou receive it?
@@ -2615,9 +2615,9 @@ thee, and thou shalt have dominion over all sin.
 present world shall be subject to thee; and success shall follow thee in
 every good undertaking.
 
-5 Take therefore his  <span id="fr_1420"></span>[1](#fn_1412) gravity
+5 Take therefore his  <span id="fr_1420"></span>[1](#fn_1412.md) gravity
 and modesty towards thee, and say unto all, that he is in great honour
-and renown with God, and is a  <span id="fr_1421"></span>[2](#fn_1413)
+and renown with God, and is a  <span id="fr_1421"></span>[2](#fn_1413.md)
 prince of great authority and powerful in his office.
 
 6 To him only is the power of repentance committed throughout the whole
@@ -2636,7 +2636,7 @@ with thee that thou mayest persevere; for he has given me a good account
 concerning thee,
 
 10 But thou shalt speak these things to others, that they who either
-have repented, or shall repent,  <span id="fr_1422"></span>[3](#fn_1414)
+have repented, or shall repent,  <span id="fr_1422"></span>[3](#fn_1414.md)
 may be like-minded with thee; and he may give me as good an account of
 them also, and I may do the same unto the Lord.
 
@@ -2657,7 +2657,7 @@ blood.
 cure for all thy sins.
 
 15 ¶ Moreover, I have sent these  <span
-id="fr_1423"></span>[4](#fn_1415) virgins to dwell with thee; for I have
+id="fr_1423"></span>[4](#fn_1415.md) virgins to dwell with thee; for I have
 seen that they are
 
 <span id="page_268">p. 268</span>
@@ -2666,7 +2666,7 @@ very kind to thee. Thou shalt therefore have them for thy helpers, that
 thou mayest the better keep the commands which he hath given thee; for
 these commands cannot be kept without these virgins.
 
-16 And  <span id="fr_1424"></span>[1](#fn_1416) I see how they are
+16 And  <span id="fr_1424"></span>[1](#fn_1416.md) I see how they are
 willing to be with thee; and I will also command them that they shall
 not all depart from thy house.
 
@@ -2703,7 +2703,7 @@ be unhappy in his life.
 
 24 Say unto all that whosoever can do well, cease not to exercise
 themselves in good works, for it is profitable unto them. For I  <span
-id="fr_1425"></span>[2](#fn_1417) would that all men should be delivered
+id="fr_1425"></span>[2](#fn_1417.md) would that all men should be delivered
 from the inconveniences they lie under.
 
 25 For he that wants, and suffers inconveniences in his daily life, is
@@ -2736,49 +2736,49 @@ virgins unto my house. Amen.
 
 ### Footnotes
 
-<span id="fn_1326"></span>[228:5](lbob28.htm#fr_1327) Antioch. Hom. xv.
+<span id="fn_1326"></span>[228:5](lbob28.htm#fr_1327.md) Antioch. Hom. xv.
 
-<span id="fn_1327"></span>[229:1](lbob28.htm#fr_1328) Souls.
+<span id="fn_1327"></span>[229:1](lbob28.htm#fr_1328.md) Souls.
 
-<span id="fn_1328"></span>[229:2](lbob28.htm#fr_1329) MS. Lambeth.
+<span id="fn_1328"></span>[229:2](lbob28.htm#fr_1329.md) MS. Lambeth.
 Proprias, autem quas habetis agite.
 
-<span id="fn_1329"></span>[229:3](lbob28.htm#fr_1330) Vid. Origen. in
+<span id="fn_1329"></span>[229:3](lbob28.htm#fr_1330.md) Vid. Origen. in
 Jos. Hom. x.
 
-<span id="fn_1330"></span>[230:1](lbob28.htm#fr_1331) Distracted.
+<span id="fn_1330"></span>[230:1](lbob28.htm#fr_1331.md) Distracted.
 
-<span id="fn_1331"></span>[230:2](lbob28.htm#fr_1332) Who are.
+<span id="fn_1331"></span>[230:2](lbob28.htm#fr_1332.md) Who are.
 
-<span id="fn_1332"></span>[231:1](lbob28.htm#fr_1333) Nations
+<span id="fn_1332"></span>[231:1](lbob28.htm#fr_1333.md) Nations
 
-<span id="fn_1333"></span>[231:2](lbob28.htm#fr_1334) With me.
+<span id="fn_1333"></span>[231:2](lbob28.htm#fr_1334.md) With me.
 
-<span id="fn_1334"></span>[231:3](lbob28.htm#fr_1335) Vid. not. Coteler.
+<span id="fn_1334"></span>[231:3](lbob28.htm#fr_1335.md) Vid. not. Coteler.
 in loc. pp. 72, 73.
 
-<span id="fn_1335"></span>[231:4](lbob28.htm#fr_1336) Coteler.
+<span id="fn_1335"></span>[231:4](lbob28.htm#fr_1336.md) Coteler.
 
-<span id="fn_1336"></span>[231:5](lbob28.htm#fr_1337) Jejuna certe verum
+<span id="fn_1336"></span>[231:5](lbob28.htm#fr_1337.md) Jejuna certe verum
 jejunium tale. Lat.
 
-<span id="fn_1337"></span>[232:1](lbob28.htm#fr_1338) Just a
+<span id="fn_1337"></span>[232:1](lbob28.htm#fr_1338.md) Just a
 commendation.
 
-<span id="fn_1338"></span>[233:1](lbob28.htm#fr_1339) Shameful; or,
+<span id="fn_1338"></span>[233:1](lbob28.htm#fr_1339.md) Shameful; or,
 upbraiding.
 
-<span id="fn_1339"></span>[233:2](lbob28.htm#fr_1342) Vid. Not. Coteler.
+<span id="fn_1339"></span>[233:2](lbob28.htm#fr_1342.md) Vid. Not. Coteler.
 ii., p. 74. A. B. C.
 
-<span id="fn_1340"></span>[233:3](lbob28.htm#fr_1343) Vid. Antioch. Hom.
+<span id="fn_1340"></span>[233:3](lbob28.htm#fr_1343.md) Vid. Antioch. Hom.
 vii.
 
-<span id="fn_1341"></span>[234:1](lbob28.htm#fr_1344) Angels.
+<span id="fn_1341"></span>[234:1](lbob28.htm#fr_1344.md) Angels.
 
-<span id="fn_1342"></span>[235:1](lbob28.htm#fr_1345) Angels.
+<span id="fn_1342"></span>[235:1](lbob28.htm#fr_1345.md) Angels.
 
-<span id="fn_1343"></span>[235:2](lbob28.htm#fr_1346) This place, which
+<span id="fn_1343"></span>[235:2](lbob28.htm#fr_1346.md) This place, which
 in all the editions of Hermas is wretchedly corrupted, by the collation
 of editions and MSS. is thus corrected by Dr. Grabe: "Quære autem
 Dominus in concilio adhibuerit, filium de hæreditate, honestosque
@@ -2786,205 +2786,205 @@ nuncios, audi; Spiritum Sanctum, qui creatus est omnium primus, in
 corpore, in quo habitaret Deus, collocavit; in delecto scilicet corpore
 quod ei videbatur."
 
-<span id="fn_1344"></span>[235:3](lbob28.htm#fr_1348) Viz. the created
+<span id="fn_1344"></span>[235:3](lbob28.htm#fr_1348.md) Viz. the created
 Spirit of Christ, as man; not the Holy Ghost, the Third Person of the
 Sacred Trinity.
 
-<span id="fn_1345"></span>[235:4](lbob28.htm#fr_1349) Thy body,
+<span id="fn_1345"></span>[235:4](lbob28.htm#fr_1349.md) Thy body,
 according to some copies.
 
-<span id="fn_1346"></span>[236:1](lbob28.htm#fr_1350) In them.
+<span id="fn_1346"></span>[236:1](lbob28.htm#fr_1350.md) In them.
 
-<span id="fn_1347"></span>[236:2](lbob28.htm#fr_1351) Vid. Annot.
+<span id="fn_1347"></span>[236:2](lbob28.htm#fr_1351.md) Vid. Annot.
 Coteler. in loc.
 
-<span id="fn_1348"></span>[236:3](lbob28.htm#fr_1352) Angel.
+<span id="fn_1348"></span>[236:3](lbob28.htm#fr_1352.md) Angel.
 
-<span id="fn_1349"></span>[237:1](lbob28.htm#fr_1353) Ad. defectionem.
+<span id="fn_1349"></span>[237:1](lbob28.htm#fr_1353.md) Ad. defectionem.
 Lat.
 
-<span id="fn_1350"></span>[237:2](lbob28.htm#fr_1354) Exultantia. Lat.
+<span id="fn_1350"></span>[237:2](lbob28.htm#fr_1354.md) Exultantia. Lat.
 
-<span id="fn_1351"></span>[237:3](lbob28.htm#fr_1355) In Gr. επιθυμιαις
+<span id="fn_1351"></span>[237:3](lbob28.htm#fr_1355.md) In Gr. επιθυμιαις
 του Αιωνος τουτου.
 
-<span id="fn_1352"></span>[237:4](lbob28.htm#fr_1356) Agrestem Lat.
+<span id="fn_1352"></span>[237:4](lbob28.htm#fr_1356.md) Agrestem Lat.
 
-<span id="fn_1353"></span>[237:5](lbob28.htm#fr_1357) Vid. Origen. in
+<span id="fn_1353"></span>[237:5](lbob28.htm#fr_1357.md) Vid. Origen. in
 Ps. xxxvi. Hom. 1.
 
-<span id="fn_1354"></span>[237:6](lbob28.htm#fr_1358) Righteous. In Gr.
+<span id="fn_1354"></span>[237:6](lbob28.htm#fr_1358.md) Righteous. In Gr.
 Athanas. εκ των Αγγελων των δικαιων εστι, &c. et sic MS. Lamb.
 
-<span id="fn_1355"></span>[238:1](lbob28.htm#fr_1359) MS. Lamb.
+<span id="fn_1355"></span>[238:1](lbob28.htm#fr_1359.md) MS. Lamb.
 Succurritiis: Gr. Athanas, ον γινωσκουσι.
 
-<span id="fn_1356"></span>[238:2](lbob28.htm#fr_1360) MS. Lamb.
+<span id="fn_1356"></span>[238:2](lbob28.htm#fr_1360.md) MS. Lamb.
 Inquiris.
 
-<span id="fn_1357"></span>[238:3](lbob28.htm#fr_1361) Origen. in Num.
+<span id="fn_1357"></span>[238:3](lbob28.htm#fr_1361.md) Origen. in Num.
 Hom. viii.
 
-<span id="fn_1358"></span>[238:4](lbob28.htm#fr_1362) MS. Lamb. Omnino.
+<span id="fn_1358"></span>[238:4](lbob28.htm#fr_1362.md) MS. Lamb. Omnino.
 
-<span id="fn_1359"></span>[239:1](lbob28.htm#fr_1363) Obeyeth his
+<span id="fn_1359"></span>[239:1](lbob28.htm#fr_1363.md) Obeyeth his
 disease.
 
-<span id="fn_1360"></span>[239:2](lbob28.htm#fr_1366) Angel.
+<span id="fn_1360"></span>[239:2](lbob28.htm#fr_1366.md) Angel.
 
-<span id="fn_1361"></span>[242:1](lbob28.htm#fr_1367) Moved.
+<span id="fn_1361"></span>[242:1](lbob28.htm#fr_1367.md) Moved.
 
-<span id="fn_1362"></span>[242:2](lbob28.htm#fr_1368) MS. Lamb. Hæc
+<span id="fn_1362"></span>[242:2](lbob28.htm#fr_1368.md) MS. Lamb. Hæc
 autem lex Filius Dei est, prædicatus, &c.
 
-<span id="fn_1363"></span>[242:3](lbob28.htm#fr_1369) Satisfied.
+<span id="fn_1363"></span>[242:3](lbob28.htm#fr_1369.md) Satisfied.
 
-<span id="fn_1364"></span>[243:1](lbob28.htm#fr_1370) Sabano. Vid. Edit.
+<span id="fn_1364"></span>[243:1](lbob28.htm#fr_1370.md) Sabano. Vid. Edit.
 Oxon. p. 129. not. d.
 
-<span id="fn_1365"></span>[244:1](lbob28.htm#fr_1371) MS. Lamb. Minimum
+<span id="fn_1365"></span>[244:1](lbob28.htm#fr_1371.md) MS. Lamb. Minimum
 habuerant viride.
 
-<span id="fn_1366"></span>[244:2](lbob28.htm#fr_1372) Sea.
+<span id="fn_1366"></span>[244:2](lbob28.htm#fr_1372.md) Sea.
 
-<span id="fn_1367"></span>[245:1](lbob28.htm#fr_1373) Lamb. MS.
+<span id="fn_1367"></span>[245:1](lbob28.htm#fr_1373.md) Lamb. MS.
 Quamplurimis generibus inficiati.
 
-<span id="fn_1368"></span>[246:1](lbob28.htm#fr_1374) Righteous.
+<span id="fn_1368"></span>[246:1](lbob28.htm#fr_1374.md) Righteous.
 
-<span id="fn_1369"></span>[246:2](lbob28.htm#fr_1375) Probi.
+<span id="fn_1369"></span>[246:2](lbob28.htm#fr_1375.md) Probi.
 
-<span id="fn_1370"></span>[247:1](lbob28.htm#fr_1376) See above, Book I.
+<span id="fn_1370"></span>[247:1](lbob28.htm#fr_1376.md) See above, Book I.
 
-<span id="fn_1371"></span>[247:2](lbob28.htm#fr_1377) Angel
+<span id="fn_1371"></span>[247:2](lbob28.htm#fr_1377.md) Angel
 
-<span id="fn_1372"></span>[247:3](lbob28.htm#fr_1378) Ascent.
+<span id="fn_1372"></span>[247:3](lbob28.htm#fr_1378.md) Ascent.
 
-<span id="fn_1373"></span>[248:1](lbob28.htm#fr_1379) Origen, Hom. iii.
+<span id="fn_1373"></span>[248:1](lbob28.htm#fr_1379.md) Origen, Hom. iii.
 in. Ezech.
 
-<span id="fn_1374"></span>[248:2](lbob28.htm#fr_1380) Fascem aliquem.
+<span id="fn_1374"></span>[248:2](lbob28.htm#fr_1380.md) Fascem aliquem.
 Lat.
 
-<span id="fn_1375"></span>[249:1](lbob28.htm#fr_1381) So Cotelerius in
+<span id="fn_1375"></span>[249:1](lbob28.htm#fr_1381.md) So Cotelerius in
 loc.
 
-<span id="fn_1376"></span>[249:2](lbob28.htm#fr_1384) MS. Lamb.
+<span id="fn_1376"></span>[249:2](lbob28.htm#fr_1384.md) MS. Lamb.
 Ascenderunt.
 
-<span id="fn_1377"></span>[251:1](lbob28.htm#fr_1385) Greatness.
+<span id="fn_1377"></span>[251:1](lbob28.htm#fr_1385.md) Greatness.
 
-<span id="fn_1378"></span>[252:1](lbob28.htm#fr_1386) MS. Lamb. Ita
+<span id="fn_1378"></span>[252:1](lbob28.htm#fr_1386.md) MS. Lamb. Ita
 exasperetur, ut hi lapides.
 
-<span id="fn_1379"></span>[252:2](lbob28.htm#fr_1387) MS. Lamb.
+<span id="fn_1379"></span>[252:2](lbob28.htm#fr_1387.md) MS. Lamb.
 Negligens, patrisfamilias.
 
-<span id="fn_1380"></span>[252:3](lbob28.htm#fr_1388) Vid. MS. Lamb.
+<span id="fn_1380"></span>[252:3](lbob28.htm#fr_1388.md) Vid. MS. Lamb.
 Edit. Oxon. p. 157.
 
-<span id="fn_1381"></span>[252:4](lbob28.htm#fr_1389) MS. Lamb. Fuerant.
+<span id="fn_1381"></span>[252:4](lbob28.htm#fr_1389.md) MS. Lamb. Fuerant.
 
-<span id="fn_1382"></span>[253:1](lbob28.htm#fr_1390) Formas. Lat.
+<span id="fn_1382"></span>[253:1](lbob28.htm#fr_1390.md) Formas. Lat.
 
-<span id="fn_1383"></span>[255:1](lbob28.htm#fr_1391) Ita ut. Lat.
+<span id="fn_1383"></span>[255:1](lbob28.htm#fr_1391.md) Ita ut. Lat.
 
-<span id="fn_1384"></span>[255:2](lbob28.htm#fr_1392) The creatures.
+<span id="fn_1384"></span>[255:2](lbob28.htm#fr_1392.md) The creatures.
 
-<span id="fn_1385"></span>[256:1](lbob28.htm#fr_1393) Vid. Annot. Edit.
+<span id="fn_1385"></span>[256:1](lbob28.htm#fr_1393.md) Vid. Annot. Edit.
 Oxon. p. 116, d.
 
-<span id="fn_1386"></span>[256:2](lbob28.htm#fr_1394) Vid. Origen.
+<span id="fn_1386"></span>[256:2](lbob28.htm#fr_1394.md) Vid. Origen.
 Philocal. c. viii.
 
-<span id="fn_1387"></span>[256:3](lbob28.htm#fr_1395) Sentiebant
+<span id="fn_1387"></span>[256:3](lbob28.htm#fr_1395.md) Sentiebant
 æquitatem, Lat. from the Greek εφρονουν: but the true reading of Hermes
 seemeth to have been οφορουν.
 
-<span id="fn_1388"></span>[257:1](lbob28.htm#fr_1396) Origin. Hom. 13,
+<span id="fn_1388"></span>[257:1](lbob28.htm#fr_1396.md) Origin. Hom. 13,
 in Ezek.
 
-<span id="fn_1389"></span>[258:1](lbob28.htm#fr_1397) Justos, Righteous.
+<span id="fn_1389"></span>[258:1](lbob28.htm#fr_1397.md) Justos, Righteous.
 
-<span id="fn_1390"></span>[258:2](lbob28.htm#fr_1398) Vid. Edit. Oxon.
+<span id="fn_1390"></span>[258:2](lbob28.htm#fr_1398.md) Vid. Edit. Oxon.
 p.171, b.
 
-<span id="fn_1391"></span>[258:3](lbob28.htm#fr_1399) Traditur,
+<span id="fn_1391"></span>[258:3](lbob28.htm#fr_1399.md) Traditur,
 Delivered.
 
-<span id="fn_1392"></span>[258:4](lbob28.htm#fr_1400) Vid. Coteler.
+<span id="fn_1392"></span>[258:4](lbob28.htm#fr_1400.md) Vid. Coteler.
 Annot. in loc. p. 77, 78. Comp. 1 Pet. iii. 19.
 
-<span id="fn_1393"></span>[258:5](lbob28.htm#fr_1401) Vid. Clem. Alex.
+<span id="fn_1393"></span>[258:5](lbob28.htm#fr_1401.md) Vid. Clem. Alex.
 Strom. ii. et vi.
 
-<span id="fn_1394"></span>[259:1](lbob28.htm#fr_1402) Prudence.
+<span id="fn_1394"></span>[259:1](lbob28.htm#fr_1402.md) Prudence.
 
-<span id="fn_1395"></span>[259:2](lbob28.htm#fr_1403) Sense.
+<span id="fn_1395"></span>[259:2](lbob28.htm#fr_1403.md) Sense.
 
-<span id="fn_1396"></span>[259:3](lbob28.htm#fr_1404) Lat. Virtutem.
+<span id="fn_1396"></span>[259:3](lbob28.htm#fr_1404.md) Lat. Virtutem.
 
-<span id="fn_1397"></span>[259:4](lbob28.htm#fr_1405) Vid. Orig.
+<span id="fn_1397"></span>[259:4](lbob28.htm#fr_1405.md) Vid. Orig.
 Philocal. c. viii.
 
-<span id="fn_1398"></span>[259:5](lbob28.htm#fr_1406) Evil.
+<span id="fn_1398"></span>[259:5](lbob28.htm#fr_1406.md) Evil.
 
-<span id="fn_1399"></span>[260:1](lbob28.htm#fr_1407) Profligate.
+<span id="fn_1399"></span>[260:1](lbob28.htm#fr_1407.md) Profligate.
 
-<span id="fn_1400"></span>[260:2](lbob28.htm#fr_1408) Vid. Edit. Oxon.,
+<span id="fn_1400"></span>[260:2](lbob28.htm#fr_1408.md) Vid. Edit. Oxon.,
 p. 178, Not. b.
 
-<span id="fn_1401"></span>[261:1](lbob28.htm#fr_1409) Magnum Dæmonium.
+<span id="fn_1401"></span>[261:1](lbob28.htm#fr_1409.md) Magnum Dæmonium.
 
-<span id="fn_1402"></span>[262:1](lbob28.htm#fr_1410) Infancy.
+<span id="fn_1402"></span>[262:1](lbob28.htm#fr_1410.md) Infancy.
 
-<span id="fn_1403"></span>[262:2](lbob28.htm#fr_1411) MS. Lamb. Et
+<span id="fn_1403"></span>[262:2](lbob28.htm#fr_1411.md) MS. Lamb. Et
 quidam Doctores caste: Omitting Qui.
 
-<span id="fn_1404"></span>[265:1](lbob28.htm#fr_1412) MS. Lamb. Tantum
+<span id="fn_1404"></span>[265:1](lbob28.htm#fr_1412.md) MS. Lamb. Tantum
 non necesse habuisset.
 
-<span id="fn_1405"></span>[265:2](lbob28.htm#fr_1413) MS. Lamb.
+<span id="fn_1405"></span>[265:2](lbob28.htm#fr_1413.md) MS. Lamb.
 Structuram turris hujus.
 
-<span id="fn_1406"></span>[265:3](lbob28.htm#fr_1414) MS. Lamb. Et unum
+<span id="fn_1406"></span>[265:3](lbob28.htm#fr_1414.md) MS. Lamb. Et unum
 quemque spiritum fleri: which appears from the Gr. of Antiochus to be
 the true reading, και γενεσθαι εν πνευμα.
 
-<span id="fn_1407"></span>[265:4](lbob28.htm#fr_1415) MS. Lamb. Gaudeat
+<span id="fn_1407"></span>[265:4](lbob28.htm#fr_1415.md) MS. Lamb. Gaudeat
 de his; and Gr. Antioch χαρη επ αυτω.
 
-<span id="fn_1408"></span>[265:5](lbob28.htm#fr_1416) Vid. Antioch. Hom.
+<span id="fn_1408"></span>[265:5](lbob28.htm#fr_1416.md) Vid. Antioch. Hom.
 cxxii.
 
-<span id="fn_1409"></span>[265:6](lbob28.htm#fr_1417) Gr. Τῳ δεσποτῃ του
+<span id="fn_1409"></span>[265:6](lbob28.htm#fr_1417.md) Gr. Τῳ δεσποτῃ του
 ποιμνιου.
 
-<span id="fn_1410"></span>[266:1](lbob28.htm#fr_1418) Perdites malitia.
+<span id="fn_1410"></span>[266:1](lbob28.htm#fr_1418.md) Perdites malitia.
 Lat.
 
-<span id="fn_1411"></span>[266:2](lbob28.htm#fr_1419) Antioch. Hom.
+<span id="fn_1411"></span>[266:2](lbob28.htm#fr_1419.md) Antioch. Hom.
 xciv.
 
-<span id="fn_1412"></span>[267:1](lbob28.htm#fr_1420) Lat. Maturitatem.
+<span id="fn_1412"></span>[267:1](lbob28.htm#fr_1420.md) Lat. Maturitatem.
 
-<span id="fn_1413"></span>[267:2](lbob28.htm#fr_1421) President.
+<span id="fn_1413"></span>[267:2](lbob28.htm#fr_1421.md) President.
 
-<span id="fn_1414"></span>[267:3](lbob28.htm#fr_1422) Eadem quæ tu
+<span id="fn_1414"></span>[267:3](lbob28.htm#fr_1422.md) Eadem quæ tu
 sentiant.
 
-<span id="fn_1415"></span>[267:4](lbob28.htm#fr_1423) What is meant by
+<span id="fn_1415"></span>[267:4](lbob28.htm#fr_1423.md) What is meant by
 these virgins?—See before, Simil. ix. v. 149 et seq.
 
-<span id="fn_1416"></span>[268:1](lbob28.htm#fr_1424) MS. Lamb. Video:
+<span id="fn_1416"></span>[268:1](lbob28.htm#fr_1424.md) MS. Lamb. Video:
 which appears from the close of this section to be the true reading.
 
-<span id="fn_1417"></span>[268:2](lbob28.htm#fr_1425) Say.
+<span id="fn_1417"></span>[268:2](lbob28.htm#fr_1425.md) Say.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Letters of Herod and Pilate](lbob29)
+[Next: Letters of Herod and Pilate](lbob29.md)
 
 </div>

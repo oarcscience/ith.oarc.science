@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao38)   
-[Previous](tao37)  [Next](tao39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao38.md)   
+[Previous](tao37)  [Next](tao39.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ righteousness. He abides in the reality of TAO and not in its shadow.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 39](tao39)
+[Next: Chapter 39](tao39.md)

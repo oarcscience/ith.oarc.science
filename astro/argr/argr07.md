@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](argr06)  [Next](argr08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](argr06)  [Next](argr08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Astrology and Religion Among the Greeks and Romans*, by Franz Cumont,
 \[1912\], at Intangible Textual Heritage
 
@@ -157,7 +157,7 @@ objects. The habit of reckoning in terms of twelve hours which we still
 use to-day, is due to the fact that the Ionians borrowed from the
 Orientals this method of dividing the day. Besides the acquaintance with
 early instruments, such as the sun-dial, <span
-id="fr_20"></span>[1](#fn_20) they owed to the observatories of
+id="fr_20"></span>[1](#fn_20.md) they owed to the observatories of
 Mesopotamia the fundamental data of their celestial topography: the
 ecliptic, the signs of the zodiac, and the majority of the planets. To
 this first influx of positive knowledge corresponds a first introduction
@@ -184,13 +184,13 @@ of these Chaldean infiltrations after the Persian wars when Greek
 thought had achieved its autonomy. Certain facts recently brought to
 light indicate that the relations, direct or indirect, between the
 centres of Babylonian learning and of Greek culture, were never at any
-time entirely broken off. <span id="fr_21"></span>[1](#fn_21)
+time entirely broken off. <span id="fr_21"></span>[1](#fn_21.md)
 
 It is known that Meton passes as the inventor of a cycle of nineteen
 years (*enneakaidekaëteris*) which would establish a periodic agreement
 between the old lunar year and the solar revolutions, and which replaced
 the ancient *octaëteris*, or cycle of eight years, up to that time in
-use. The Golden Number <span id="fr_22"></span>[2](#fn_22) of our
+use. The Golden Number <span id="fr_22"></span>[2](#fn_22.md) of our
 calendars still reminds us how, according to the tradition, this
 discovery, communicated to the Athenians in the year 432, excited their
 admiration to such a degree that they caused the calculations of Meton
@@ -251,10 +251,10 @@ or six points--appear on the top of the boundary pillars (*kudurru*)
 from the fourteenth century B.C. Now the same association is found in an
 extract from Democritus, where the Sun, the Moon, and Venus are
 distinguished from the other planets. <span
-id="fr_23"></span>[1](#fn_23) The echo of the same theory extended even
+id="fr_23"></span>[1](#fn_23.md) The echo of the same theory extended even
 to the Romans. Pliny, in a passage which owes its erudition to some
 Chaldean author of the Hellenistic period, <span
-id="fr_24"></span>[2](#fn_24) remarks that Venus is "the rival of the
+id="fr_24"></span>[2](#fn_24.md) remarks that Venus is "the rival of the
 Sun and the Moon," and he adds that "alone among the stars she shines
 with such brilliance that her rays cast a shadow,"--a statement which
 would be absurd in the climate of Rome, but which is strictly correct
@@ -262,7 +262,7 @@ under the clear sky of Syria.
 
 Another instance of borrowing is still more obvious. To Babylonian
 astrologers Saturn is the "planet of the Sun," he is the "Sun of the
-night," <span id="fr_25"></span>[3](#fn_25) that is to say, according to
+night," <span id="fr_25"></span>[3](#fn_25.md) that is to say, according to
 a system of substitutions, of which there are many examples, Saturn
 could take in astrological combinations the place of the star of day
 when the latter had disappeared. Diodorus was well aware of this fact.
@@ -281,7 +281,7 @@ stated that the slowest of them all bears according to some people
 
 <span id="page_29">p. 29</span>
 
-the name of Helios. <span id="fr_26"></span>[1](#fn_26) Moreover, the
+the name of Helios. <span id="fr_26"></span>[1](#fn_26.md) Moreover, the
 fact that the writer was acquainted with oriental theories comes out no
 less clearly from certain expressions of which he makes use in this
 passage, than from the very object which he has in view. He dreamed of a
@@ -296,7 +296,7 @@ highly characteristic. Their whole significance is apparent now that a
 typical detail has revealed to us what the author's astronomical
 learning owes to the Chaldeans. Hereafter perhaps it will be proper to
 attach some importance to a note preserved in a papyrus of
-Herculaneum, <span id="fr_27"></span>[2](#fn_27) and due, it seems, to
+Herculaneum, <span id="fr_27"></span>[2](#fn_27.md) and due, it seems, to
 this very Philip of Opus to whom the composition of the *Epinomis* is
 attributed. It would appear that Plato in his old age received a
 "Chaldean" guest, who was able to instruct him in the discoveries made
@@ -350,7 +350,7 @@ nothing of cosmic fatalism and stellar divination. Speaking generally,
 this assertion is correct, although certain traces of these speculations
 are found, as we have seen, in works of the early Pythagoreans, and
 recently a Chaldean doctrine has been successfully employed to explain a
-passage of Pindar. <span id="fr_28"></span>[1](#fn_28) Now, about the
+passage of Pindar. <span id="fr_28"></span>[1](#fn_28.md) Now, about the
 period when Philip of Opus published or wrote the *Epinomis*, another
 pupil
 
@@ -361,7 +361,7 @@ pupil
 of Plato, the astronomer Eudoxus of Cnidos, declared: "No credence
 should be given to the Chaldeans, who predict and mark out the life of
 every man according to the day of his nativity." <span
-id="fr_29"></span>[1](#fn_29) Certain modern philologists--who doubtless
+id="fr_29"></span>[1](#fn_29.md) Certain modern philologists--who doubtless
 look upon Greek history as a kind of experiment in a closed vessel,
 which a providence anxious to exclude every disturbing element conducted
 for the fullest instruction of the *savants* of the future--certain
@@ -371,7 +371,7 @@ Eudoxus, Theophrastus, a little later, spoke of it in his treatise on
 "Celestial Signs": he regarded with surprise the claim of the Chaldeans
 to be able to predict from these signs the. life and death of
 individuals, and not merely general phenomena, such as good or bad
-weather. <span id="fr_30"></span>[2](#fn_30)
+weather. <span id="fr_30"></span>[2](#fn_30.md)
 
 The insatiable curiosity of the Greeks, then, did not ignore astrology,
 but their sober genius rejected its hazardous doctrines, and their keen
@@ -467,7 +467,7 @@ quote some striking proofs. So it has quite recently been shown that a
 series of prognostications derived from earthquakes, thunderstrokes, or
 the course of the moon were literally translated from Assyrian texts
 into the Greek *Brontologia* and *Selenodromia*. <span
-id="fr_31"></span>[1](#fn_31) But though the reality of the relation
+id="fr_31"></span>[1](#fn_31.md) But though the reality of the relation
 between the two sciences and pseudo-sciences
 
 <span id="page_34">p. 34</span>
@@ -477,7 +477,7 @@ deciding in each case which of the two influenced the other.
 
 Thus it has been maintained that the ancient Babylonians were already
 acquainted with the precession of the equinoxes, <span
-id="fr_32"></span>[1](#fn_32) but an examination of cuneiform tablets
+id="fr_32"></span>[1](#fn_32.md) but an examination of cuneiform tablets
 reveals the very important fact that they were ignorant of it at least
 up to about the end of the second century B.C. The credit of this
 discovery clearly belongs, therefore, to Hipparchus of Nicæa (about
@@ -488,7 +488,7 @@ that certain discoveries hitherto attributed to Hipparchus owe their
 origin in reality to some genuine Chaldeans. In one exceptional case we
 can detect a borrowing in the very act and indicate the intermediary who
 effected the transfer. Perhaps, then, some details will not be deemed
-superfluous here. <span id="fr_33"></span>[2](#fn_33)
+superfluous here. <span id="fr_33"></span>[2](#fn_33.md)
 
 <span id="img_sep"></span> ![](img/sep.jpg)
 
@@ -517,7 +517,7 @@ modern astronomers. The old notations of the Chaldeans have allowed a
 correction of the canons of Oppoizer! About the year 200 before our era
 these learned priests had succeeded in determining in advance not only
 the dates of the phases and eclipses of the moon, but also the principal
-phenomena of the five planets. <span id="fr_34"></span>[1](#fn_34)
+phenomena of the five planets. <span id="fr_34"></span>[1](#fn_34.md)
 Although in general inclined to depreciate the value of Babylonian
 science, in opposition to those who have unduly exaggerated it, this
 most authoritative modern interpreter of it marvels at the aspect of
@@ -533,7 +533,7 @@ admitted that the Chaldeans had deduced from their empirical
 observations, amassed from generation to generation, a theory of the
 motions of the moon which influenced the development of Greek doctrines.
 Further, an evident proof of this is supplied by the fact that in the
-*Almagest* Ptolemy <span id="fr_35"></span>[2](#fn_35) quotes, after
+*Almagest* Ptolemy <span id="fr_35"></span>[2](#fn_35.md) quotes, after
 Hipparchus, the eclipses of the years 621, 523, 502, 491, 383 B.C.,
 observed at Babylon, and the first of these has been found noted in an
 Assyrian text. How absolutely the astronomer of Nicæa relied on his
@@ -552,7 +552,7 @@ namely:
 | Mean | synodic     | month | 29  | days | 12  | hours | 44' 31.3"                                     |
 | "    | sidereal    | "     | 27  | "    | 7   | "     | 43' 14  "                                     |
 | "    | anomalistic | "     | 27  | "    | 13  | "     | 18' 34.9"                                     |
-| "    | dracontic   | "     | 27  | "    | 5   | "     |  5' 35.8" <span id="fr_36"></span>[1](#fn_36) |
+| "    | dracontic   | "     | 27  | "    | 5   | "     |  5' 35.8" <span id="fr_36"></span>[1](#fn_36.md) |
 
 Clearly the priority of discovery belongs to the Orientals, as well as
 that of the inequality of the length of the seasons, of which they were
@@ -563,21 +563,21 @@ Euphrates to the Greek cities? Who was the intermediary between
 Hipparchus and the priests of Babylon? Documents recently published have
 revealed his name. Strabo, speaking of the schools of astronomers called
 "Chaldean," which existed in various towns of Mesopotamia, adds: <span
-id="fr_37"></span>[2](#fn_37) "Mathematicians frequently mention several
+id="fr_37"></span>[2](#fn_37.md) "Mathematicians frequently mention several
 of them, as Kidenas, Nabourianos, and Soudines." According to
-Pliny <span id="fr_38"></span>[3](#fn_38) the same Kidenas had
+Pliny <span id="fr_38"></span>[3](#fn_38.md) the same Kidenas had
 recognised that Mercury is never more than 23° from the sun. This
 Kidenas was probably contemporary with Soudines, who lived in the second
 half of the third century before Christ.
 
-Now the astrologer, Vettius Valens, <span id="fr_39"></span>[4](#fn_39)
+Now the astrologer, Vettius Valens, <span id="fr_39"></span>[4](#fn_39.md)
 who wrote under the Antonines, tells us that he attempted to make for
 himself a canon of the sun and the moon for the purpose of determining
 eclipses, but, as time failed him, "he resolved to make use of
 Hipparchus for the sun, and Soudines, Kidenas and Apollonius for the
 moon . . . putting in their proper places the equinoxes and solstices at
 the eighth degree of the signs of the zodiac." Further, a passage in an
-anonymous commentary on Ptolemy <span id="fr_40"></span>[5](#fn_40)
+anonymous commentary on Ptolemy <span id="fr_40"></span>[5](#fn_40.md)
 represents Kidenas as the inventor of an ecliptic period of 251
 
 <span id="page_37">p. 37</span>
@@ -600,7 +600,7 @@ every one knew.
 
 Schiaparelli had already suspected the identity of this personage with
 the Kidenas of the Greeks. Kugler has definitely proved it, <span
-id="fr_41"></span>[1](#fn_41) for the equivalence of 251 synodic and 269
+id="fr_41"></span>[1](#fn_41.md) for the equivalence of 251 synodic and 269
 anomalistic months, which Ptolemy's commentator attributes to him, is
 found precisely stated in this table of Kidinnu, and further the same
 table places the equinoxes and the solstices at the 8th degree of the
@@ -635,7 +635,7 @@ for the huge and shadowy phantoms which wandered in the pre-historic
 twilight. The influence of the old oriental civilisation was not
 exercised solely on the domain of science, but also of literature. Prof.
 Diels of Berlin has recently pointed out <span
-id="fr_42"></span>[1](#fn_42) how the often satirical tales, in which
+id="fr_42"></span>[1](#fn_42.md) how the often satirical tales, in which
 trees and plants appear, belong to a class of fables popularised in
 Assyria before they were repeated by Callimachus in his *Iambics* and by
 the successors of Æsop. Further, the recent discovery of an Aramaic
@@ -651,7 +651,7 @@ and from the positive data which had been slowly accumulated by these
 ancient priests of Mesopotamia
 
 *Longa per assiduam complexi saecula curam*. <span
-id="fr_43"></span>[2](#fn_43)
+id="fr_43"></span>[2](#fn_43.md)
 
 The constructive logic of the Greeks, combining with the patient labours
 of the indigenous race, produced in those days on the banks of the
@@ -667,7 +667,7 @@ and the sack of Babylon. The Chaldeans themselves, emancipated from
 tradition, discussed freely the principles of the universe, and of the
 rival sects, which then sprang up at Borsippa, Orchoe, and elsewhere,
 some went so far as to reject as mendacious the very astrology which had
-been elaborated by their ancestors. <span id="fr_44"></span>[1](#fn_44)
+been elaborated by their ancestors. <span id="fr_44"></span>[1](#fn_44.md)
 The most remarkable representative of this rationalistic movement is
 Seleucus of Seleucia, who may be either a Greek emigrant or a hellenised
 native. Giving up the firmament of primitive cosmogonies, he opened the
@@ -726,12 +726,12 @@ the result of this movement of ideas which was to lead to the entry of
 astrology and star-worship into the philosophy of Zeno. For us the
 person who almost alone represents this fusion of East and West is
 Posidonius of Apamea, of whom we shall speak in our next lecture, <span
-id="fr_45"></span>[1](#fn_45) but the preparations for this fusion were
+id="fr_45"></span>[1](#fn_45.md) but the preparations for this fusion were
 undoubtedly made by his predecessors. It is remarkable that the great
 astronomer, Hipparchus, whose scientific theories, as we have just seen,
 are directly influenced by Chaldean learning, was also a convinced
 supporter of one of the leading doctrines of stellar religion.
-"Hipparchus," says Pliny, <span id="fr_46"></span>[2](#fn_46) "will
+"Hipparchus," says Pliny, <span id="fr_46"></span>[2](#fn_46.md) "will
 never receive all
 
 <span id="page_41">p. 41</span>
@@ -741,7 +741,7 @@ relationship between man and the stars, or shown more clearly that our
 souls are particles of heavenly fire." In this passage we see affirmed
 as early as the second century before our era a conception, the
 development of which we follow in the sidereal mysticism of the Roman
-period. <span id="fr_47"></span>[1](#fn_47)
+period. <span id="fr_47"></span>[1](#fn_47.md)
 
 Hipparchus saw the ruin of the country where was born that science which
 he illumined. Invaded by the Parthians about the year 140 B.C.,
@@ -756,7 +756,7 @@ extinguished the lights of a civilisation which extended backwards for
 forty centuries, and of the famous cities of Sumer and Accad there
 survived little but the name. The last astronomical tablet in cuneiform
 characters with which we are acquainted, is dated 8 B.C., and
-Strabo, <span id="fr_48"></span>[2](#fn_48) speaking of Babylon about
+Strabo, <span id="fr_48"></span>[2](#fn_48.md) speaking of Babylon about
 the same period, applies to it a verse from a comic poet: "a mighty
 desert--such is the mighty town."
 
@@ -768,65 +768,65 @@ derived from the Chaldea of antiquity.
 
 ### Footnotes
 
-<span id="fn_20"></span>[25:1](argr07.htm#fr_20) Γνώμων, Herod., ii,
+<span id="fn_20"></span>[25:1](argr07.htm#fr_20.md) Γνώμων, Herod., ii,
 109.
 
-<span id="fn_21"></span>[26:1](argr07.htm#fr_21) Kugler, *Im Bannkreis
+<span id="fn_21"></span>[26:1](argr07.htm#fr_21.md) Kugler, *Im Bannkreis
 Babels*, 1910, p. 116 ss. See for other proofs my paper, *Babylon and
 die Griechische Astrologie* (Neue Jahrb. f. das klass. Altertum, xxvii),
 (1911), 1 ss.
 
-<span id="fn_22"></span>[26:2](argr07.htm#fr_22) The "Golden Number" of
+<span id="fn_22"></span>[26:2](argr07.htm#fr_22.md) The "Golden Number" of
 the ecclesiastical calendar indicates the number of any year in the
 cycle of nineteen years which brings round the phases of the moon at the
 same dates. The dates of these phases in any year are thus the same as
 in other years which have the same "Golden Number."
 
-<span id="fn_23"></span>[28:1](argr07.htm#fr_23) Diels, *Doxographi
+<span id="fn_23"></span>[28:1](argr07.htm#fr_23.md) Diels, *Doxographi
 Graeci*, p. 344, 16 = *Fragm. der Vorsokratiker*, p. 366, 22.
 
-<span id="fn_24"></span>[28:2](argr07.htm#fr_24) Plin., *Nat. Hist.*,
+<span id="fn_24"></span>[28:2](argr07.htm#fr_24.md) Plin., *Nat. Hist.*,
 ii, 36.
 
-<span id="fn_25"></span>[28:3](argr07.htm#fr_25) Jastrow, *Revue
+<span id="fn_25"></span>[28:3](argr07.htm#fr_25.md) Jastrow, *Revue
 d’Assyriologie*, vii, 1910, ss. p. 163
 
-<span id="fn_26"></span>[29:1](argr07.htm#fr_26) As a matter of fact,
+<span id="fn_26"></span>[29:1](argr07.htm#fr_26.md) As a matter of fact,
 certain copyists, not understanding the meaning of this identification,
 have inserted as a correction "of Kronos," but the reading of the best
 manuscripts is Ἡλίου not Κρόνου, as has been observed by Bidez, *Rev. de
 Philol.*, xxix (1905), p. 319.
 
-<span id="fn_27"></span>[29:2](argr07.htm#fr_27) *Academicorum Phil.
+<span id="fn_27"></span>[29:2](argr07.htm#fr_27.md) *Academicorum Phil.
 Ind. Hercul*., ed. Mekler, p. 13, col. iii, 36.
 
-<span id="fn_28"></span>[30:1](argr07.htm#fr_28) Franz Boll, *Neue
+<span id="fn_28"></span>[30:1](argr07.htm#fr_28.md) Franz Boll, *Neue
 Jahrb. für das klass. Altertum*, xxi (1908), p. 119.
 
-<span id="fn_29"></span>[31:1](argr07.htm#fr_29) Cic., *De Div.*, ii,
+<span id="fn_29"></span>[31:1](argr07.htm#fr_29.md) Cic., *De Div.*, ii,
 42, 87.
 
-<span id="fn_30"></span>[31:2](argr07.htm#fr_30) Procl., *In Tim*., iii,
+<span id="fn_30"></span>[31:2](argr07.htm#fr_30.md) Procl., *In Tim*., iii,
 151, 1 (Diehl). On Theophrastus' translation of the tale of Akichar, see
-below, [p. 38](#page_38).
+below, [p. 38](#page_38.md).
 
-<span id="fn_31"></span>[33:1](argr07.htm#fr_31) Bezold and Boll,
+<span id="fn_31"></span>[33:1](argr07.htm#fr_31.md) Bezold and Boll,
 *Reflexe astrol. Keilinschriften bei Griechischen Schriftstellern*
 (Abhandl. Akad. Heidelberg), 1911.
 
-<span id="fn_32"></span>[34:1](argr07.htm#fr_32) See above, Lecture I,
-[p. 3](argr06.htm#page_3).
+<span id="fn_32"></span>[34:1](argr07.htm#fr_32.md) See above, Lecture I,
+[p. 3](argr06.htm#page_3.md).
 
-<span id="fn_33"></span>[34:2](argr07.htm#fr_33) See my paper *Babylon
+<span id="fn_33"></span>[34:2](argr07.htm#fr_33.md) See my paper *Babylon
 und die Griech. Astron.*, p. 6 ss., where the texts are fully given.
 
-<span id="fn_34"></span>[35:1](argr07.htm#fr_34) See above, Lecture I,
+<span id="fn_34"></span>[35:1](argr07.htm#fr_34.md) See above, Lecture I,
 p. 9.
 
-<span id="fn_35"></span>[35:2](argr07.htm#fr_35) Ptol., Syntax., v, 14;
+<span id="fn_35"></span>[35:2](argr07.htm#fr_35.md) Ptol., Syntax., v, 14;
 iv, 8, 11.
 
-<span id="fn_36"></span>[36:1](argr07.htm#fr_36) The durations
+<span id="fn_36"></span>[36:1](argr07.htm#fr_36.md) The durations
 calculated by modern astronomers are:
 
 |       |     |      |     |       |     |       |
@@ -836,40 +836,40 @@ calculated by modern astronomers are:
 | \(3\) | 27  | "    | 13  | "     | 18' | 39.3" |
 | \(4\) | 27  | "    | 5   | "     | 5'  | 36"   |
 
-<span id="fn_37"></span>[36:2](argr07.htm#fr_37) Strab., xvi, 1, 6, p.
+<span id="fn_37"></span>[36:2](argr07.htm#fr_37.md) Strab., xvi, 1, 6, p.
 639 C.
 
-<span id="fn_38"></span>[36:3](argr07.htm#fr_38) Plin., *Nat. Hist*.,
+<span id="fn_38"></span>[36:3](argr07.htm#fr_38.md) Plin., *Nat. Hist*.,
 39.
 
-<span id="fn_39"></span>[36:4](argr07.htm#fr_39) Vett. Val., *Anthol*.,
+<span id="fn_39"></span>[36:4](argr07.htm#fr_39.md) Vett. Val., *Anthol*.,
 ix, p. 353, 22, ed. Kroll.
 
-<span id="fn_40"></span>[36:5](argr07.htm#fr_40) Published, *Cat. Codd.
+<span id="fn_40"></span>[36:5](argr07.htm#fr_40.md) Published, *Cat. Codd.
 Astr.* VIII, part ii, p. 125.
 
-<span id="fn_41"></span>[37:1](argr07.htm#fr_41) Kugler, *Im Bannkreis
+<span id="fn_41"></span>[37:1](argr07.htm#fr_41.md) Kugler, *Im Bannkreis
 Babels*, 1910, p. 122.
 
-<span id="fn_42"></span>[38:1](argr07.htm#fr_42) Diels, *Orientalische
+<span id="fn_42"></span>[38:1](argr07.htm#fr_42.md) Diels, *Orientalische
 Fabeln im Griechischen Gewande* (Internation. Wochenschrift f. Wiss., 6
 Aug., 1910).
 
-<span id="fn_43"></span>[38:2](argr07.htm#fr_43) Manil., i, 54.
+<span id="fn_43"></span>[38:2](argr07.htm#fr_43.md) Manil., i, 54.
 
-<span id="fn_44"></span>[39:1](argr07.htm#fr_44) Strab., xvi, 1, 6.
+<span id="fn_44"></span>[39:1](argr07.htm#fr_44.md) Strab., xvi, 1, 6.
 
-<span id="fn_45"></span>[40:1](argr07.htm#fr_45) See below, Lecture III,
-[p. 47](argr08.htm#page_47).
+<span id="fn_45"></span>[40:1](argr07.htm#fr_45.md) See below, Lecture III,
+[p. 47](argr08.htm#page_47.md).
 
-<span id="fn_46"></span>[40:2](argr07.htm#fr_46) Plin., *Nat. Hist.*,
+<span id="fn_46"></span>[40:2](argr07.htm#fr_46.md) Plin., *Nat. Hist.*,
 ii, 26, 95.
 
-<span id="fn_47"></span>[41:1](argr07.htm#fr_47) See below, Lecture V.
+<span id="fn_47"></span>[41:1](argr07.htm#fr_47.md) See below, Lecture V.
 
-<span id="fn_48"></span>[41:2](argr07.htm#fr_48) Strab., xvi, t, 5:
+<span id="fn_48"></span>[41:2](argr07.htm#fr_48.md) Strab., xvi, t, 5:
 Ἑρημία μεγάλη ᾽στιν ἠ Μεγάλη πόλις.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture III. The Dissemination in the West](argr08)
+[Next: Lecture III. The Dissemination in the West](argr08.md)

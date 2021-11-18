@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac07)  [Next](sac09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac07)  [Next](sac09.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,13 +40,13 @@ The first, I think, was Mr. Jonathan Otley, who in 1849 showed the
 "Orientation" of the Keswick Circle "according to the solar meridian,"
 giving true solar bearings throughout the year.
 
-I wrote a good deal in *Nature* <span id="fr_4"></span>[1](#fn_4) on sun
+I wrote a good deal in *Nature* <span id="fr_4"></span>[1](#fn_4.md) on sun
 and star temples in 1891, and Mr. Lewis the next year expressed the
 opinion that the British Stone Monuments, or some of them, were sun and
 star temples.
 
 Mr. Magnus Spence of Deerness in Orkney published a pamphlet, "Standing
-Stones and Maeshowe of Stenness, <span id="fr_5"></span>[2](#fn_5)" in
+Stones and Maeshowe of Stenness, <span id="fr_5"></span>[2](#fn_5.md)" in
 1894; it is a reprint of an article in the *Scottish Review*, Oct. 1893.
 Mr. Cursiter, F.S.A., of Kirkwall, in a letter to me dated 15 March
 1894, a letter suggested by my *Dawn of Astronomy* which appeared in
@@ -108,7 +108,7 @@ path.
 
 The many circles in Cornwall have been dealt with by Mr. Lukis in a
 volume published by the Society of Antiquaries in 1895. <span
-id="fr_6"></span>[1](#fn_6) A carefully prepared list of circles will be
+id="fr_6"></span>[1](#fn_6.md) A carefully prepared list of circles will be
 found in Mr. Windle's recently published work entitled "Remains of the
 Prehistoric Age in England."
 
@@ -180,7 +180,7 @@ Orkney. There is also some resemblance in smaller details."
 
 While we generally have circles in Britain without, or with small,
 alignments; in Brittany we have alignments without circles, some of them
-being on an enormous scale; <span id="fr_7"></span>[1](#fn_7) thus at
+being on an enormous scale; <span id="fr_7"></span>[1](#fn_7.md) thus at
 Menec (the place of stones) we have eleven lines of menhirs, terminating
 towards the west in a cromlech, and, notwithstanding that great numbers
 have been converted to other uses, 1169 menhirs still remain, some
@@ -300,7 +300,7 @@ more easily it would be seen. Some stars so chosen rose not far
 <span id="page_43">p. 43</span>
 
 from the north point of the horizon. The alignments with small azimuths
-referred to in the British circles ([p. 36](#page_36)) I believe to be
+referred to in the British circles ([p. 36](#page_36).md) I believe to be
 connected with the Egyptian and Greek practice.
 
 Acting on a very old tradition, some people from Salisbury and other
@@ -333,7 +333,7 @@ reason that we seemed in a position
 
 [![FIG. 8.—The original tooling of the stone protected from the action
 of the weather.](tn/fig08.jpg)  
-Click to enlarge](img/fig08.jpg)  
+Click to enlarge](img/fig08.jpg.md)  
 FIG. 8.—The original tooling of the stone protected from the action of
 the weather.  
 
@@ -344,7 +344,7 @@ But while the astronomical conditions are better at
 <span id="page_45">p. 45</span>
 
 <span class="contnote">\[paragraph continues\]</span>
-[Stonehenge](errata.htm#2) than elsewhere; the ruined state of the
+[Stonehenge](errata.htm#2.md) than elsewhere; the ruined state of the
 monument makes accurate measurements very difficult.
 
 Great age and the action of weather are responsible for much havoc, so
@@ -357,7 +357,7 @@ an article
 &lt;i&gt;BB&lt;/i&gt;, stones which fell in 1797. (Reproduced from an
 article on the fallen stones by Mr. Lewis in
 &lt;i&gt;Man&lt;/i&gt;.)](tn/fig09.jpg)  
-Click to enlarge](img/fig09.jpg)  
+Click to enlarge](img/fig09.jpg.md)  
 FIG. 9.—View of Stonehenge from the west. A stone which fell in 1909;
 *BB*, stones which fell in 1797. (Reproduced from an article on the
 fallen stones by Mr. Lewis in *Man*.)  
@@ -370,7 +370,7 @@ refer in the sequel, found the original tooled surface near the bottom
 of one of the large sarsens which had been protected from the action of
 the weather by having been buried in the ground. It enables us to,
 imagine the appearance of the monument as it left the hands of the
-builders ([Fig. 8](#img_fig08)).
+builders ([Fig. 8](#img_fig08).md).
 
 <span id="page_46">p. 46</span>
 
@@ -381,7 +381,7 @@ have played more havoc with
 
 [![FIG. 10.—Copy of Hoare's plan of 1810, showing the unbroken Vallum
 and its relation with the Avenue.](tn/fig10.jpg)  
-Click to enlarge](img/fig10.jpg)  
+Click to enlarge](img/fig10.jpg.md)  
 FIG. 10.—Copy of Hoare's plan of 1810, showing the unbroken Vallum and
 its relation with the Avenue.  
 
@@ -403,7 +403,7 @@ indiscriminately driven over it. Indeed, its original importance has now
 become so obliterated that many do not notice it as part of the
 structure—that, in fact, it bears the same relation to the interior
 stone circle as the nave of St. Paul's does to the Lady Chapel ([Fig.
-10](#img_fig10)).
+10](#img_fig10).md).
 
 It is within the knowledge of all interested in archæology that not long
 ago Sir Edmund Antrobus, the owner of Stonehenge, advised by the famous
@@ -423,7 +423,7 @@ broken in two pieces,
 <span id="img_fig11"></span>
 
 [![FIG. 11.—The Leaning Stone in 1901.](tn/fig11.jpg)  
-Click to enlarge](img/fig11.jpg)  
+Click to enlarge](img/fig11.jpg.md)  
 FIG. 11.—The Leaning Stone in 1901.  
 
 and the supported impost, now lie prostrate across the altar stone.
@@ -479,7 +479,7 @@ congratulated on its persistent and admirable efforts to do all in its
 power to enable the whole nation to learn about the venerable monuments
 of antiquity which it has practically taken under its scientific charge.
 It has published two most important volumes <span
-id="fr_8"></span>[1](#fn_8) dealing specially with Stonehenge, including
+id="fr_8"></span>[1](#fn_8.md) dealing specially with Stonehenge, including
 both its traditions and history.
 
 With regard to Mr. Long's memoir, it may be stated that it includes
@@ -585,7 +585,7 @@ detached stones, as well as those that formed the body of the temple."
 With regard to this "Choir Gawr," translated Chorea Gigantum, Leland's
 opinion, is quoted,(Long, p. 51) that we should read Choir vawr, the
 equivalent of which is Chorea nobilis or magna. <span
-id="fr_9"></span>[1](#fn_9)
+id="fr_9"></span>[1](#fn_9.md)
 
 In spite of Inigo Jones's (1600) dictum that Stonehenge was of Roman
 origin, Stukeley came to the conclusion in 1723 that the Druids were
@@ -602,30 +602,30 @@ much his interest in the monument would have been increased!
 
 ### Footnotes
 
-<span id="fn_4"></span>[35:1](sac08.htm#fr_4) See especially *Nature*,
+<span id="fn_4"></span>[35:1](sac08.htm#fr_4.md) See especially *Nature*,
 July 2, 1891 p. 201.
 
-<span id="fn_5"></span>[35:2](sac08.htm#fr_5) Gardner, Paisley and
+<span id="fn_5"></span>[35:2](sac08.htm#fr_5.md) Gardner, Paisley and
 London.
 
-<span id="fn_6"></span>[37:1](sac08.htm#fr_6) "The Prehistoric Stone
+<span id="fn_6"></span>[37:1](sac08.htm#fr_6.md) "The Prehistoric Stone
 Monuments of the British Isles—Cornwall."
 
-<span id="fn_7"></span>[39:1](sac08.htm#fr_7) "The French Stonehenge: An
+<span id="fn_7"></span>[39:1](sac08.htm#fr_7.md) "The French Stonehenge: An
 Account of the Principal Megalithic Remains in the Morbihan
 Archipelago." By T. Cato Worsfold, F.R.Hist.S., F.R.S.I. (London:
 Bemrose and Sons, Ltd.)
 
-<span id="fn_8"></span>[50:1](sac08.htm#fr_8) *The Wiltshire
+<span id="fn_8"></span>[50:1](sac08.htm#fr_8.md) *The Wiltshire
 Archaeological and Natural History Magazine:* "Stonehenge and its
 Barrows." By William Long, M.A., F.S.A. 1876. *The Wiltshire
 Archaeological and Natural History Magazine:* "Stonehenge Bibliography
 Number." By W. Jerome Harrison. 1902.
 
-<span id="fn_9"></span>[53:1](sac08.htm#fr_9) Mr. Morien Morgan informs
+<span id="fn_9"></span>[53:1](sac08.htm#fr_9.md) Mr. Morien Morgan informs
 me that Cor y Gawres is correct, and means Choir of the Giantess:
 Cariadwen, the Welsh Neith, Nyth (Nydd).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. General Architecture of Stonehenge](sac09)
+[Next: Chapter VI. General Architecture of Stonehenge](sac09.md)

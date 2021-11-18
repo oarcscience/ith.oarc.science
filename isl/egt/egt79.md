@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt78)  [Next](egt80) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt78)  [Next](egt80.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ shall be freed from the depths of the, mire.
 
 ------------------------------------------------------------------------
 
-[Next: OF HIM WHO FEEDS ME AND GIVES ME DRINK.](egt80)
+[Next: OF HIM WHO FEEDS ME AND GIVES ME DRINK.](egt80.md)

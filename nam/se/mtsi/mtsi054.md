@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi053)  [Next](mtsi055) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi053)  [Next](mtsi055.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ were tired, and astonished at the strength of such a small animal.
 
 ------------------------------------------------------------------------
 
-[Next: 53. Rabbit Engineers a Tug of War Between Two Bison](mtsi055)
+[Next: 53. Rabbit Engineers a Tug of War Between Two Bison](mtsi055.md)

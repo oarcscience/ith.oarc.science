@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck23)  [Next](peck25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck23)  [Next](peck25.md) 
 
 ------------------------------------------------------------------------
 
@@ -270,4 +270,4 @@ they got from them.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Petiole Of The Waratah Is Long](peck25)
+[Next: Why The Petiole Of The Waratah Is Long](peck25.md)

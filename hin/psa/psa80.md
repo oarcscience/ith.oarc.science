@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa79)  [Next](psa81) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa79)  [Next](psa81.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ shall be annihilated.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXX](psa81)
+[Next: Chapter LXXX](psa81.md)

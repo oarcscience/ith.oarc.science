@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs19)  [Next](pifs21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs19)  [Next](pifs21.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,13 +80,13 @@ family and stay."
 So the Hunter went home--killing an antelope on the way--and told his
 wife all. She thought very well of the offer; and he went to ask
 permission of the Cacique. The Cacique demurred, for this was the best
-hunter in all the pueblo, <span id="fr_62"></span>[1](#fn_62) but at
+hunter in all the pueblo, <span id="fr_62"></span>[1](#fn_62.md) but at
 last consented and gave him his blessing.
 
 So on the fourth day the Hunter and his wife and little boy came to the
 lake with all their property. The Lake-Man met them cordially, and gave
 the house and all its contents into the charge of the woman. <span
-id="fr_63"></span>[2](#fn_63)
+id="fr_63"></span>[2](#fn_63.md)
 
 Some time passed very pleasantly, the Hunter going out daily and
 bringing back great quantities
@@ -98,7 +98,7 @@ bringing back great quantities
 <span id="img_11100"></span>
 
 [![THE HUNTER AND THE LAKE-MAN.](tn/11100.jpg)  
-Click to enlarge](img/11100.jpg)  
+Click to enlarge](img/11100.jpg.md)  
 THE HUNTER AND THE LAKE-MAN.  
 
  
@@ -119,7 +119,7 @@ mother groaning as if about to die; and the Lake-Man said to him:
 
 "My boy, your mother has a terrible pain, and the only thing that will
 cure her is some ice from T'hoor-p'ah-whée-ai \[Lake of the Sun\], <span
-id="fr_64"></span>[1](#fn_64) the water from which the sun rises."
+id="fr_64"></span>[1](#fn_64.md) the water from which the sun rises."
 
 "Then," said the boy, straightway, if that is so, I will take the heart
 of a man \[that is, be brave\] and go and get the ice for my little
@@ -160,12 +160,12 @@ having learned his errand, she said:
 "My son, fear not, for I will be the one that shall help you. When you
 come into the house of the Trues, they will tempt you with a seat; but
 you must sit down only on what you have. <span
-id="fr_65"></span>[1](#fn_65) Then they will try you with smoking the
+id="fr_65"></span>[1](#fn_65.md) Then they will try you with smoking the
 *weer*, but I will help you."
 
 Then she gave him her blessing, and the boy started away to the east. At
 last, after a weary, weary way, he came so near the Sun Lake, that the
-*Whit-lah-wíd-deh* <span id="fr_66"></span>[2](#fn_66) of the Trues saw
+*Whit-lah-wíd-deh* <span id="fr_66"></span>[2](#fn_66.md) of the Trues saw
 him coming, and went in to report.
 
 <span id="page_115">p. 115</span>
@@ -186,13 +186,13 @@ taught, when in the presence of his elders, to sit on nothing save what
 he brought, and he sat upon his blanket and moccasins. When he had told
 his story, the Trues tried him, and gave him the sacred *weer* to
 smoke--a hollow reed rammed with *pee-en-hleh*. <span
-id="fr_67"></span>[1](#fn_67) He smoked, and held the smoke bravely. But
+id="fr_67"></span>[1](#fn_67.md) He smoked, and held the smoke bravely. But
 just then the Old-Woman-Mole, who had followed him underground all this
 way, dug a hole up to his very toes; and the smoke went down through his
 feet into the hole, and away back to the Old-Woman-Mole's house, where
 it poured out in a great cloud. And not the tiniest particle escaped
 into the room of the Trues. He finished the second *weer* <span
-id="fr_68"></span>[2](#fn_68) without being sick at all; and
+id="fr_68"></span>[2](#fn_68.md) without being sick at all; and
 the\[paragraph continues\]
 
 <span id="page_116">p. 116</span>
@@ -246,7 +246,7 @@ beyond the third lake began a great forest which stretched clear across
 the world, and was so dense with thorns and brush that no man could pass
 it. But as the boy was wondering what he should do, the tiny fish
 changed itself into a great Fish-Animal with a very hard, strong
-skin, <span id="fr_69"></span>[1](#fn_69) and bidding the boy mount upon
+skin, <span id="fr_69"></span>[1](#fn_69.md) and bidding the boy mount upon
 its back, it went plowing through the forest, breaking down big trees
 like stubble, and bringing him through to the other side without a
 scratch.
@@ -269,7 +269,7 @@ proved himself a man, and they gave him the ice. Then the Cacique
 brought his three daughters, and said:
 
 "Son, you are now old enough to have a wife, <span
-id="fr_70"></span>[1](#fn_70) and I see that you are a true man who will
+id="fr_70"></span>[1](#fn_70.md) and I see that you are a true man who will
 dare all for his mother. Choose, therefore, one of my daughters."
 
 The boy looked at the three girls; and truly the eldest were very
@@ -293,7 +293,7 @@ on alone.
 <span id="img_11900"></span>
 
 [![THE CURSING OF THE LAKE.](tn/11900.jpg)  
-Click to enlarge](img/11900.jpg)  
+Click to enlarge](img/11900.jpg.md)  
 THE CURSING OF THE LAKE.  
 
  
@@ -318,30 +318,30 @@ salt, and no living thing has drunk therefrom.
 
 ### Footnotes
 
-<span id="fn_62"></span>[110:1](pifs20.htm#fr_62) All hunters give the
+<span id="fn_62"></span>[110:1](pifs20.htm#fr_62.md) All hunters give the
 Cacique a tenth of their game, for his support.
 
-<span id="fn_63"></span>[110:2](pifs20.htm#fr_63) As is the custom among
+<span id="fn_63"></span>[110:2](pifs20.htm#fr_63.md) As is the custom among
 all Pueblo Indians.
 
-<span id="fn_64"></span>[113:1](pifs20.htm#fr_64) Located "somewhere to
+<span id="fn_64"></span>[113:1](pifs20.htm#fr_64.md) Located "somewhere to
 the east"; perhaps the ocean.
 
-<span id="fn_65"></span>[114:1](pifs20.htm#fr_65) That is, upon his
+<span id="fn_65"></span>[114:1](pifs20.htm#fr_65.md) That is, upon his
 blanket and moccasins, the unvarying etiquette of the Medicine House.
 
-<span id="fn_66"></span>[114:2](pifs20.htm#fr_66) One of an order of
+<span id="fn_66"></span>[114:2](pifs20.htm#fr_66.md) One of an order of
 medicine-men, who among other duties, act as guards of the Medicine
 House.
 
-<span id="fn_67"></span>[115:1](pifs20.htm#fr_67) The smoking of the
+<span id="fn_67"></span>[115:1](pifs20.htm#fr_67.md) The smoking of the
 pungent *weer* is a very severe ordeal; and it is a disgrace to let any
 of the smoke escape from the mouth or nose.
 
-<span id="fn_68"></span>[115:2](pifs20.htm#fr_68) Two being the usual
+<span id="fn_68"></span>[115:2](pifs20.htm#fr_68.md) Two being the usual
 number given a candidate for initiation into a medicine order.
 
-<span id="fn_69"></span>[117:1](pifs20.htm#fr_69) It is quite possible
+<span id="fn_69"></span>[117:1](pifs20.htm#fr_69.md) It is quite possible
 that this "Fish-Animal with a hard, strong skin," living far to the
 south, is the alligator. Of course, the Pueblos never saw that strange
 saurian; but they probably heard of it in the earliest days from nomad
@@ -350,9 +350,9 @@ upon it that there is a nucleus of truth in all these folk-myths. Such a
 strange animal, once heard of, would be very sure to figure in some
 story.
 
-<span id="fn_70"></span>[118:1](pifs20.htm#fr_70) For it must be
+<span id="fn_70"></span>[118:1](pifs20.htm#fr_70.md) For it must be
 remembered that all these travels had taken many years.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. The Moqui Boy and the Eagle](pifs21)
+[Next: XVIII. The Moqui Boy and the Eagle](pifs21.md)

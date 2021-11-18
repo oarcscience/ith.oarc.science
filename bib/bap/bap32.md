@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap31) 
-[Next](bap33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap31.md) 
+[Next](bap33.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 |---------|
 | Num. 16 |
 
-XVI\.  <span id="fr_75"></span>[1](#fn_75) At that time did he give him
+XVI\.  <span id="fr_75"></span>[1](#fn_75.md) At that time did he give him
 commandment concerning the fringes: and then did Choreb rebel and 200
 men with him and spake saying: What if a law which we cannot bear is
 ordained for us? 2. And God was wroth and said: I commanded the earth
@@ -33,7 +33,7 @@ that of the tribe of the nations of whom I said, "I will not remember
 them," that is, the camp of the Egyptians, and the people whom I
 destroyed with the water of the flood. And the earth shall swallow them,
 and I will not do any more *unto them*. <span
-id="fr_76"></span>[1](#fn_76)
+id="fr_76"></span>[1](#fn_76.md)
 
 4\. And when Moses spake all these words unto the people, Choreb, and
 his men were yet unbelieving. And Choreb sent to call his seven sons
@@ -55,9 +55,9 @@ he hearkened not unto them. And the earth opened her mouth and swallowed
 them up, and their houses, and four times was the foundation of the
 earth moved to swallow up the men, as it was commanded her. And
 thereafter Choreb and his company groaned, until the firmament of the
-earth should be delivered back. <span id="fr_77"></span>[1](#fn_77) 7.
+earth should be delivered back. <span id="fr_77"></span>[1](#fn_77.md) 7.
 But the assemblies of the people said unto Moses: We cannot abide round
-about <span id="fr_78"></span>[2](#fn_78) this place where Choreb and
+about <span id="fr_78"></span>[2](#fn_78.md) this place where Choreb and
 his men have been swallowed up. And he said to them. Take up your tents
 from round about them, neither be ye joined to their sins. And they did
 so.
@@ -66,7 +66,7 @@ so.
 
 ### Footnotes
 
-<span id="fn_75"></span>[120:1](bap32.htm#fr_75) XVI. 1. In Num. 15:37
+<span id="fn_75"></span>[120:1](bap32.htm#fr_75.md) XVI. 1. In Num. 15:37
 the ordinance of fringes immediately precedes the story of Korah; and
 the two are brought into connexion by the Targum on, Numbers and by
 others: *Jerahmeel* 55 connects them in this fashion: "and when God
@@ -79,21 +79,21 @@ Mezuzah?" "Yes," said Korah. "So also do these garments require
 fringes." This encounter of Korah with Moses is the last of several
 which are told at some length in *Jerahmeel*.
 
-<span id="fn_76"></span>[121:1](bap32.htm#fr_76) 3. it appears that
+<span id="fn_76"></span>[121:1](bap32.htm#fr_76.md) 3. it appears that
 Korah and his company are to be annihilated at the final judgement. *The
 people of whom I said: I will not remember them*. Compare *Pirke R.
 Eliezer* 33. "All the dead will rise at the resurrection of the dead,
 except the generation of the Flood." Christianity (1 Peter 3) did not
 recognize this exception.
 
-<span id="fn_77"></span>[122:1](bap32.htm#fr_77) 6. *until the
+<span id="fn_77"></span>[122:1](bap32.htm#fr_77.md) 6. *until the
 firmament* (AP) or *foundation* (VR) *of the earth should be restored:
 quousque redderetur firmamentum terrae*. Probably to be understood in
 the same sense as the words of 3: *ero innouans terram*.
 
-<span id="fn_78"></span>[122:2](bap32.htm#fr_78) The MSS. have: in Sina
+<span id="fn_78"></span>[122:2](bap32.htm#fr_78.md) The MSS. have: in Sina
 of this place.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII](bap33)
+[Next: Chapter XVII](bap33.md)

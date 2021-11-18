@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt34)  [Next](pyt36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt34)  [Next](pyt36.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ heaven.
 
 ------------------------------------------------------------------------
 
-[Next: 33. Texts of Miscellaneous Contents, Utterances 564-569](pyt36)
+[Next: 33. Texts of Miscellaneous Contents, Utterances 564-569](pyt36.md)

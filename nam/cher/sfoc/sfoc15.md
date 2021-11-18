@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc14)  [Next](sfoc16) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc14)  [Next](sfoc16.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ book of Leviticus.
 
 ------------------------------------------------------------------------
 
-[Next: Neglect of Sanitary Regulations](sfoc16)
+[Next: Neglect of Sanitary Regulations](sfoc16.md)

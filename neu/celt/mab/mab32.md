@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab31)  [Next](mab33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab31)  [Next](mab33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 
 <span id="img_47100"></span> ![](img/47100.jpg)
 
-# TALIESIN [471a](mab33.htm#xref_471a)
+# TALIESIN [471a](mab33.htm#xref_471a.md)
 
 IN times past there lived in Penllyn a man of gentle lineage, named
 Tegid Voel, and his dwelling was in the midst of the lake Tegid, and his
@@ -28,7 +28,7 @@ wife was called Caridwen. And there was born to him of his wife a son
 named Morvran ab Tegid, and also a daughter named Creirwy, the fairest
 maiden in the world was she; and they had a brother, the most
 ill-favoured man in the world, Avagddu. Now
-Caridwen [471b](mab33.htm#xref_471b) his mother thought that he was not
+Caridwen [471b](mab33.htm#xref_471b.md) his mother thought that he was not
 likely to be admitted among men of noble birth, by reason of his
 ugliness, unless he had some exalted merits or knowledge. For it was in
 the beginning of Arthur's time and of the Round Table.
@@ -59,7 +59,7 @@ come, and perceived that his chief care must be to guard against the
 wiles of Caridwen, for vast was her skill. And in very great fear he
 fled towards his own land. And the cauldron burst in two, because all
 the liquor within it except the three charm-bearing drops was poisonous,
-so that the horses of Gwyddno Garanhir [472a](mab33.htm#xref_472a) were
+so that the horses of Gwyddno Garanhir [472a](mab33.htm#xref_472a.md) were
 poisoned by the water of the stream into which the liquor of the
 cauldron ran, and the confluence of that stream was called the Poison of
 the Horses of Gwyddno from that time forth.
@@ -109,7 +109,7 @@ and to-night there is nothing but this leathern skin within it." "How
 now," said Elphin, "there may be therein the value of an hundred
 pounds." Well, they took up the leathern bag, and he who opened it saw
 the forehead of the boy, and said to Elphin, "Behold a radiant
-brow!" <span id="fr_213"></span>[1](#fn_212)
+brow!" <span id="fr_213"></span>[1](#fn_212.md)
 
 <span id="page_474">p. 474</span>
 
@@ -162,7 +162,7 @@ Elphin in his grief for that the produce of the weir
 
 was lost, and, what was worse, that all the world would consider that it
 was through his fault and ill-luck. And then Gwyddno Garanhir  <span
-id="fr_214"></span>[1](#fn_213) asked him what he was, whether man or
+id="fr_214"></span>[1](#fn_213.md) asked him what he was, whether man or
 spirit. Whereupon he sang this tale, and said:--
 
 "First, I have been formed a comely person,  
@@ -235,7 +235,7 @@ tenderly and lovingly. Thenceforward Elphin increased in riches more and
 more day after day, and in love and favour with the king, and there
 abode Taliesin until he was thirteen years old, when Elphin son of
 Gwyddno went by a Christmas invitation to his uncle, Maelgwn
-Gwynedd [476a](mab33.htm#xref_476a), who some time after this held open
+Gwynedd [476a](mab33.htm#xref_476a.md), who some time after this held open
 court at Christmastide in the castle of Dyganwy, for all the number of
 his lords of both degrees, both spiritual and temporal, with a vast and
 thronged host of knights and squires. And amongst them there arose a
@@ -268,7 +268,7 @@ together with this they were great chroniclers, and recorders, and
 skilful in framing verses, and ready in making englyns in every one of
 those languages. Now of these there were at that feast within the palace
 of Maelgwn as many as four-and-twenty, and chief of them all was one
-named Heinin Vardd [477a](mab33.htm#xref_477a).
+named Heinin Vardd [477a](mab33.htm#xref_477a.md).
 
 When they had all made an end of thus praising the king and his gifts,
 it befell that Elphin spoke in this wise. "Of a truth none but a king
@@ -1008,12 +1008,12 @@ the world, in songs, as follows.
 
 ### Footnotes
 
-<span id="fn_212"></span>[473:1](mab32.htm#fr_213) Taliesin.
+<span id="fn_212"></span>[473:1](mab32.htm#fr_213.md) Taliesin.
 
-<span id="fn_213"></span>[475:1](mab32.htm#fr_214) The mention of
+<span id="fn_213"></span>[475:1](mab32.htm#fr_214.md) The mention of
 Gwyddno Garanhir, instead of Elphin ab Gwyddno in this place is
 evidently an error of some transcriber of the MS.
 
 ------------------------------------------------------------------------
 
-[Next: Notes to Taliesin](mab33)
+[Next: Notes to Taliesin](mab33.md)

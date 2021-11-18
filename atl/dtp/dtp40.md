@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp39)  [Next](dtp41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp39)  [Next](dtp41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ just in early prime, not yet come
 to his two hundredth year by some forty-eight months. And age could
 never affect him more, for he was come to deathlessness; to bodily
 immortality. Of him, as of many, are the words of the beloved apostle,
-John. <span id="fr_23"></span>[1](#fn_23) At that moment he was in his
+John. <span id="fr_23"></span>[1](#fn_23.md) At that moment he was in his
 astral form, his physical body being in his sleeping-room, where he left
 it, in order to cross interplanetary space for me. Curious thought! An
 inhabitant of Venus able to visit earth at will! Yet it is not really
@@ -202,7 +202,7 @@ knowledge. is from within, not from without. Unto thee shall be given
 the key of the Spirit, and behold, the All-Knowing will enter into thy
 soul, and though no man shall teach thee, neither any book, yet shalt
 thou become aware of all things, for all things are of our Father, and
-that is the Spirit. <span id="fr_24"></span>[1](#fn_24) But ere the
+that is the Spirit. <span id="fr_24"></span>[1](#fn_24.md) But ere the
 Spirit come in, the house must be swept, and, my brother Phylos, I would
 that thou wert not destined to endure this ordeal. Yet the occult that
 knoweth all things is born of many lives, and in these has been evil.
@@ -231,11 +231,11 @@ familiar environment. Poor me!
 
 ### Footnotes
 
-<span id="fn_23"></span>[316:1](dtp40.htm#fr_23) NOTE.--Kindly see St.
+<span id="fn_23"></span>[316:1](dtp40.htm#fr_23.md) NOTE.--Kindly see St.
 John xvii; 21-26.
 
-<span id="fn_24"></span>[320:1](dtp40.htm#fr_24) St. John xvi; 13.
+<span id="fn_24"></span>[320:1](dtp40.htm#fr_24.md) St. John xvi; 13.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: An Indirect Answer](dtp41)
+[Next: Chapter VI: An Indirect Answer](dtp41.md)

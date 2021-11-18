@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](ktm04)  [Next](ktm06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](ktm04)  [Next](ktm06.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,11 +61,11 @@ Such shall come to thee with torch unlit, for fire. My voice cries out
 over the teeming earth for lives, for the lives and blood of the crowned
 kings of men. Remember that I Who cry have shown also the way to answer.
 For of every kind has the mother been the first, for
-[protection](errata.htm#4) of her flock, to leap to death.
+[protection](errata.htm#4.md) of her flock, to leap to death.
 
 Religion, called by whatever name; has been ever the love of death. But
 to-day the flame of renunciation shall be lighted in My lands and
-consume men with a [passion](errata.htm#5) beyond control of thought.
+consume men with a [passion](errata.htm#5.md) beyond control of thought.
 Then shall My people thirst for self-sacrifice as others for enjoyment.
 Then shall labour and suffering and service be counted sweet instead of
 bitter. For this age is great in time, and I, even I, Kali, am the
@@ -104,4 +104,4 @@ the giver of womanhood, and the withholder of victory, am thy Mother.
 
 ------------------------------------------------------------------------
 
-[Next: A Visit to Dukineshwar](ktm06)
+[Next: A Visit to Dukineshwar](ktm06.md)

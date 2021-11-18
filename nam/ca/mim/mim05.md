@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim04)  [Next](mim06) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim04)  [Next](mim06.md) 
 
 ------------------------------------------------------------------------
 
@@ -486,4 +486,4 @@ County.\]
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Making of Arrows](mim06)
+[Next: 4. The Making of Arrows](mim06.md)

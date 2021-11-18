@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sglt12)  [Next](sglt14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sglt12)  [Next](sglt14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Story of the Glittering Plain*, by William Morris, \[1891\], at
 Intangible Textual Heritage
 
@@ -179,6 +179,6 @@ lay down and slept for sheer weariness of body.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. Hallblithe Beholdeth the Woman who Loveth
-Him](sglt14)
+Him](sglt14.md)
 
 </div>

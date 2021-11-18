@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti27)  [Next](eti29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti27)  [Next](eti29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -99,7 +99,7 @@ shock, can not you jump twenty feet down? Look!"
 
 <span id="img_14400"></span> <span align="CENTER"> [![I FLUTTERED TO
 THE EARTH AS A LEAF WOULD FALL.](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 “I FLUTTERED TO THE EARTH AS A LEAF WOULD FALL.”  
 </span>
 
@@ -141,7 +141,7 @@ GREAT INEQUALITIES.”<br />
 
 about them, until their attention had been called to the seen and yet
 unnoticed surroundings, and they had then beheld the facts plainly. The
-puzzle picture (see [p. 129](eti26.htm#page_129)) stares the eye and
+puzzle picture (see [p. 129](eti26.htm#page_129).md) stares the eye and
 impresses the retina, but is devoid of character until the hidden form
 is developed in the mind, and then that form is always prominent to the
 eye. My remarkably light step, now that my attention had been directed
@@ -191,7 +191,7 @@ front, and vanishing in the distance, shut off the beyond.
 <span id="img_14700"></span> <span align="CENTER"> [![FAR AS THE EYE
 COULD REACH THE GLASSY BARRIER SPREAD AS A CRYSTAL
 MIRROR.](tn/14700.jpg)  
-Click to enlarge](img/14700.jpg)  
+Click to enlarge](img/14700.jpg.md)  
 “FAR AS THE EYE COULD REACH THE GLASSY BARRIER SPREAD AS A CRYSTAL
 MIRROR.”  
 </span>
@@ -200,4 +200,4 @@ MIRROR.”
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. My Unbidden Guest Departs](eti29)
+[Next: Chapter XXII. My Unbidden Guest Departs](eti29.md)

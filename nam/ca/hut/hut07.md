@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut06)  [Next](hut08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut06)  [Next](hut08.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 #### IV.
 
-#### Yīnûkatsisdai. <span id="fr_27"></span>[1](#fn_27)--He-lives-South.
+#### Yīnûkatsisdai. <span id="fr_27"></span>[1](#fn_27.md)--He-lives-South.
 
 <span id="page_160">p. 160</span>
 
@@ -62,9 +62,9 @@ end of the world at the south where they are still living.
 
 ### Footnotes
 
-<span id="fn_27"></span>[157:1](hut07.htm#fr_27) Told at Hupa, December
+<span id="fn_27"></span>[157:1](hut07.htm#fr_27.md) Told at Hupa, December
 1901, by Emma Lewis.
 
 ------------------------------------------------------------------------
 
-[Next: V. Naxkekōsnadūwûl.--Two-neck.](hut08)
+[Next: V. Naxkekōsnadūwûl.--Two-neck.](hut08.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd00)  [Next](odd02) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd00)  [Next](odd02.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ November 1881.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](odd02)
+[Next: Introduction](odd02.md)

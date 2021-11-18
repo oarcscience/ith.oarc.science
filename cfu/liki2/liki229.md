@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki228)  [Next](liki230) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki228)  [Next](liki230.md) 
 
 ------------------------------------------------------------------------
 
@@ -699,6 +699,6 @@ their superiors\[1\].'
 
 ------------------------------------------------------------------------
 
-[Next: XXX. Dze Î or The Black Robes](liki230)
+[Next: XXX. Dze Î or The Black Robes](liki230.md)
 
   

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf38)  [Next](fmf40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf38)  [Next](fmf40.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ MORAL: Nothing ever works out according to Specifications.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Satiated Globe-Trotter Who Found a New Kind of
-Nerve Twister Waiting for Him at Home](fmf40)
+Nerve Twister Waiting for Him at Home](fmf40.md)

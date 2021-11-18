@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index)  [Index](index) 
-[Previous](vob17)  [Next](vob19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index)  [Index](index.md) 
+[Previous](vob17)  [Next](vob19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014043268X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014043268X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1530,4 +1530,4 @@ upward action of the elevatory forces.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII](vob19)
+[Next: Chapter XVII](vob19.md)

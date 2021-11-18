@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../mww/mww) 
-[Previous](tgv)  [Next](mfm) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../mww/mww.md) 
+[Previous](tgv)  [Next](mfm.md) 
 
 ------------------------------------------------------------------------
 
@@ -3614,4 +3614,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Measvre, For Measure](mfm) 
+[Next: Measvre, For Measure](mfm.md) 

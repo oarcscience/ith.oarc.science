@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb29)  [Next](pifb31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb29)  [Next](pifb31.md) 
 
 </div>
 
@@ -190,6 +190,6 @@ money to make her comfortable to the end of her days.
 
 ------------------------------------------------------------------------
 
-[Next: The Sprig of Rosemary](pifb31)
+[Next: The Sprig of Rosemary](pifb31.md)
 
 </div>

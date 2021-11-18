@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm09) 
-[Next](cdm11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm09.md) 
+[Next](cdm11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Dragon Myth*, by J.F. Campbell, \[1911\], at Intangible
 Textual Heritage
 
@@ -434,7 +434,7 @@ yet and tear you to bits," said the dragon.
 <span id="img_06800"></span> <span align="CENTER"> [![The storm rose
 and the king's daughter quaked for fear, but the lad slept
 on.](tn/06800.jpg)  
-Click to enlarge](img/06800.jpg)  
+Click to enlarge](img/06800.jpg.md)  
 “The storm rose and the king's daughter quaked for fear, but the lad
 slept on.”  
 </span>
@@ -443,12 +443,12 @@ slept on.”
 
 <span id="img_06900"></span> <span align="CENTER"> [![He cut off the
 dragon's third head, and won the fight.](tn/06900.jpg)  
-Click to enlarge](img/06900.jpg)  
+Click to enlarge](img/06900.jpg.md)  
 He cut off the dragon's third head, and won the fight.  
 </span>
 
 Then the king's daughter took wine and ran to the lad, and he drank a
-draught. <span id="fr_70"></span>[1](#fn_69)
+draught. <span id="fr_70"></span>[1](#fn_69.md)
 
 <span id="an_p_132">132</span>. Then he thought of the wolf and he was a
 wolf, and he tore at the dragon, and was a man and clutched his sword
@@ -492,7 +492,7 @@ beasts, arid slept as if nothing had happened.
 
 ### Footnotes
 
-<span id="fn_69"></span>[69:1](cdm10.htm#fr_70) From a Gaelic version
+<span id="fn_69"></span>[69:1](cdm10.htm#fr_70.md) From a Gaelic version
 told by Dewar and Macnair. In Swedish, the princess aids by putting rags
 on the necks of the monster, for the heads when they touch water gain
 life and leap on again. This incident is in Gaelic also, and occurs at
@@ -500,4 +500,4 @@ the end of this story.
 
 ------------------------------------------------------------------------
 
-[Next: First Way](cdm11)
+[Next: First Way](cdm11.md)

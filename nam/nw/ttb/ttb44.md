@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb43)  [Next](ttb45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb43)  [Next](ttb45.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -108,7 +108,7 @@ broom in his hand bidding them welcome. This was all so strange the
 Frog-Woman began croaking. The Sun invited them to come inside. He
 inquired of Nice-to-look-at, "I've seen you before." The Mink spoke up
 and said, "This is your wife and I am your child." To which he replied,
-"I [remember](errata.htm#23) now. Could you loan me your feet? I have to
+"I [remember](errata.htm#23.md) now. Could you loan me your feet? I have to
 walk all the time, my feet get tired and if you don't keep sweeping your
 aunts and grandmothers (the clouds) will come and then it will get dark
 inside. And all Skyland as well, if Thunder Bird knows that he will
@@ -118,7 +118,7 @@ house, the rascal may be up to some mischief right now." The sun began
 sweeping again.
 
 When the Mink and his friends went inside they saw many
-[wondrous](errata.htm#24) things. Everything was bright and spotlessly
+[wondrous](errata.htm#24.md) things. Everything was bright and spotlessly
 clean. In the four corners stood strong men holding up the beams that
 supported the roof. Large cedar crests carved with the Sun's crest were
 piled on top of each other all around the sides of the house. These
@@ -149,7 +149,7 @@ flashed, thunder rolled—he was having fun.
 The Sun's visitors slid from one end of the house to the other until
 they all disappeared through the Well of Life and Death. They came
 floating down, down and down to the earth, landing
-[noiselessly](errata.htm#25) as a snowflake on a sandy beach, then
+[noiselessly](errata.htm#25.md) as a snowflake on a sandy beach, then
 started to make up their Totem-Pole again with the Thunder Bird on top.
 
 Tum-Tum woke at the call of his mother. "You naughty boy, here is where
@@ -158,4 +158,4 @@ rain."
 
 ------------------------------------------------------------------------
 
-[Next: Siwash Rock](ttb45)
+[Next: Siwash Rock](ttb45.md)

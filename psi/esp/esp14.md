@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp13)  [Next](esp15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp13)  [Next](esp15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -84,7 +84,7 @@ repeatedly deceived at this
 
 <span id="page_74">p. 74</span>
 
-simple task in his own laboratory. <span id="fr_74"></span>[1](#fn_74)
+simple task in his own laboratory. <span id="fr_74"></span>[1](#fn_74.md)
 (And, of course, we are not dealing even with amateur magicians.) For
 the next run another pack of cards would be taken up.
 
@@ -106,7 +106,7 @@ were a more arduous task for clairvoyance than the ordinary conditions.
 
 On all the points mentioned in the last paragraph above the evidence is
 amply significant, as may be seen in the following table
-([XVIII](esp14.htm#an_tab18)) summarizing the data just referred to. It
+([XVIII](esp14.htm#an_tab18).md) summarizing the data just referred to. It
 is a table packed, I believe, with tremendous meaning, the most
 evidential of the entire series.
 
@@ -253,7 +253,7 @@ per 25</p></td>
 (left) calling down through a pack of 25 Zener cards (five sets
 shuffled), before taking a card off. I am recording his
 calls.](tn/07400.jpg)  
-Click to enlarge](img/07400.jpg)  
+Click to enlarge](img/07400.jpg.md)  
 Hubert Pearce (left) calling down through a pack of 25 Zener cards (five
 sets shuffled), before taking a card off. I am recording his calls.  
 </span>
@@ -262,7 +262,7 @@ sets shuffled), before taking a card off. I am recording his calls.
 Mr. Pratt handled (did not look at) cards at B, afterwards at A, Mr.
 Pearce got his surprising results at C. Both made independent sealed
 reports to me.](tn/07401.jpg)  
-Click to enlarge](img/07401.jpg)  
+Click to enlarge](img/07401.jpg.md)  
 Pure clairvoyance. Mr. Pratt handled (did not look at) cards at B,
 afterwards at A, Mr. Pearce got his surprising results at C. Both made
 independent sealed reports to me.  
@@ -284,7 +284,7 @@ and the New Card data together removing the weakened remains of the
 alternative to E.S.P. is there left, except to suppose that we are *all*
 (a dozen or more are involved) playing a deeply complex game of
 deception, or else are thoroughly irresponsible and unreliable? <span
-id="fr_75"></span>[1](#fn_75)
+id="fr_75"></span>[1](#fn_75.md)
 
 On the point of reliable witnessing and judgment, then, there is a set
 of data on observations that were witnessed by other mature and
@@ -306,7 +306,7 @@ observations", we will dismiss for this chapter the question of proof
 and report the special experiments made for the purpose of throwing
 light on the nature of the process.
 
-The data in [Table XIX](esp14.htm#an_tab19) were originally collected
+The data in [Table XIX](esp14.htm#an_tab19.md) were originally collected
 for the purpose of measuring the extent of the inhibitory effect of
 visitors upon the clairvoyant function. We had noticed earlier that when
 someone dropped in to watch Pearce work the scores at once dropped down.
@@ -330,7 +330,7 @@ indicative of the difficulty experienced in adjusting to the visitor's
 presence. Notice it is larger (11 runs, 275 trials) for the magician,
 whose vocation Pearce knew, than for Miss E. C. (1 run), a young lady,
 or for Dr. McDougall (2, 5), who he knew was sympathetically interested
-in the results. In consulting [Table XIX](esp14.htm#an_tab19) for this
+in the results. In consulting [Table XIX](esp14.htm#an_tab19.md) for this
 point compare especially the 3rd column under the headings A, B, and C,
 giving the average hits per 25 trials as a basis for comparison.
 
@@ -345,7 +345,7 @@ number of trials given.
 TABLE XIX<span id="an_tab19"></span>
 
 Showing Effect of Visitors on Pearce's Clairvoyant Perception <span
-id="fr_76"></span>[1](#fn_76)
+id="fr_76"></span>[1](#fn_76.md)
 
 <div align="center">
 
@@ -564,7 +564,7 @@ half-playfully. These all succeeded at once and were all, at least
 partially, instituted by Pearce himself. But most changes meet with a
 drop to chance scores. I have collected the data on the introduction of
 a few of the new techniques, with the results taken during and after the
-transition, grouping them, as we did in [Table XIX](esp14.htm#an_tab19),
+transition, grouping them, as we did in [Table XIX](esp14.htm#an_tab19.md),
 into Columns A and B. For a fair comparison, I have taken equal numbers
 of runs made next after the transition to that made during it. Compare
 especially the 3rd column under A and B.
@@ -728,7 +728,7 @@ lost his ability, as had Linzmayer. He had averaged 14.5 hits per 25 in
 drowsiness were showing, when he was tested he got only 5, 4, 3 in
 succession. He had become careless, fumbled the cards, spoke dully and
 mostly kept his eyes closed It may be interesting to follow the
-variations of the data in [Table XXI](esp14.htm#an_tab21).
+variations of the data in [Table XXI](esp14.htm#an_tab21.md).
 
 TABLE XXI<span id="an_tab21"></span>
 
@@ -864,7 +864,7 @@ just preceding the drug-taking with those following for the experimental
 period. The data are fragmentary, due to the cutting-in of other
 experiments which were usually brought in as soon as the scoring level
 rose again. The results are summarized in [Table
-XXII](esp14.htm#an_tab22).
+XXII](esp14.htm#an_tab22.md).
 
 TABLE XXII<span id="an_tab22"></span>
 
@@ -1016,7 +1016,7 @@ however, since it was all genuine E.S.P. of the P.C. condition. His
 average for the 900 trials was 10.1. It was only slightly (1.4 in 25)
 lower in the afternoon than in the forenoon; this difference is not
 significant for that number of trials. This day's work of 900 trials
-will be of interest to Miss Jephson <span id="fr_77"></span>[1](#fn_77),
+will be of interest to Miss Jephson <span id="fr_77"></span>[1](#fn_77.md),
 who suggests a "fatigue curve" in runs of only 5 trials.
 
 I have mentioned earlier the purposively-low-scoring tests carried out
@@ -1033,7 +1033,7 @@ itself a valuable bit of evidence of the purposive principle of E.S.P.
 at work, since X here equals 7.8 as an "anti-chance" value.
 
 So far we have said little about Pearce and telepathy. He took rather
-slowly to it, as the data in [Table XX](esp14.htm#an_tab20) have shown.
+slowly to it, as the data in [Table XX](esp14.htm#an_tab20.md) have shown.
 But eventually he emerged from the transition level of scoring and began
 to do fairly good P.T. work. We undertook first to introduce the
 telepathic condition into the P.C. experiments for comparison of P.C.
@@ -1063,7 +1063,7 @@ Here again we had transition troubles but they were, of course, equal
 for both conditions, P.C. and general E.S.P. From a total of 600 trials
 made behind a screen which concealed the agent's face and the cards from
 Pearce, we still got quite better results for the combined telepathic
-and clairvoyant conditions. See [Table XVIII](esp14.htm#an_tab18), 6, a
+and clairvoyant conditions. See [Table XVIII](esp14.htm#an_tab18.md), 6, a
 and b. The 300 P.C. were so interwoven with the 300 general E.S.P. that
 Pearce could not have inferred any order in them. Usually I changed
 conditions after every 5 calls. The difference is considerable, yet it
@@ -1354,15 +1354,15 @@ and P.C. on this point of distance
 testing, or whether we had here to do again merely with mental attitudes
 that offered different limitations for the two conditions.
 
-In Tables [XXIV](esp14.htm#an_tab24) and [XXV](esp14.htm#an_tab25) will
+In Tables [XXIV](esp14.htm#an_tab24) and [XXV](esp14.htm#an_tab25.md) will
 be shown the results just described. The entire 5,400 results are really
 very significant, giving a gain over chance expectation (np) that is
 11.4 times the p.e. But for Pearce they are very low, giving an average
 of only 6. per 25 instead of his usual level of 10 or thereabouts. The
 points of interest lie chiefly in the column of "average per 25". The
 contrast of these averages in general columns A and D in Table
-[XXIV](esp14.htm#an_tab24) are worth attention, as are the 5th and 7th
-columns in Table [XXV](esp14.htm#an_tab25). These bring out the point of
+[XXIV](esp14.htm#an_tab24.md) are worth attention, as are the 5th and 7th
+columns in Table [XXV](esp14.htm#an_tab25.md). These bring out the point of
 the difference between P.T. and B.T. results with distance, and their
 similarity at close range, suggesting that while P.T. can clearly be
 done at such distances, it may be that B.T. may not. It is still more
@@ -1582,7 +1582,7 @@ We must all agree that after reaching this point it would be almost a
 deliberate waste of time to try to add to the mere significance or
 weight of the evidence for E.S.P. The principal blocks of Pearce's data
 are indicated in the following summarizing table,
-[XXVI](esp14.htm#an_tab26):
+[XXVI](esp14.htm#an_tab26.md):
 
 TABLE XXVI<span id="an_tab26"></span>
 
@@ -1755,16 +1755,16 @@ vigorous interest.
 
 ### Footnotes
 
-<span id="fn_74"></span>[74:1](esp14.htm#fr_74) "Wallace the Magician"
+<span id="fn_74"></span>[74:1](esp14.htm#fr_74.md) "Wallace the Magician"
 (Wallace Lee) was asked to work under these conditions, after watching
 Pearce work. He did not score above mean chance expectation, and frankly
 admitted that he did not see how Pearce did.
 
-<span id="fn_75"></span>[75:1](esp14.htm#fr_75) The striking data
+<span id="fn_75"></span>[75:1](esp14.htm#fr_75.md) The striking data
 obtained lately with Pearce at some distance from the cards (100 yards,
 for example) may be taken as perhaps a further step.
 
-<span id="fn_76"></span>[76:1](esp14.htm#fr_76) Another major subject
+<span id="fn_76"></span>[76:1](esp14.htm#fr_76.md) Another major subject
 offers an exception to the rule evidenced in this table. Miss Turner,
 whose work will be given in Chapter 8, once went to Dr. E., one of her
 sceptical teachers on the campus, and offered to demonstrate E.S.P. to
@@ -1775,9 +1775,9 @@ demonstration. This is exceptional, and is due, I think, to the fact
 that she proposed the venture herself and that she did not stand in awe
 of Dr. E.
 
-<span id="fn_77"></span>[80:1](esp14.htm#fr_77) *Proc*. S.P.R., XXXVIII:
+<span id="fn_77"></span>[80:1](esp14.htm#fr_77.md) *Proc*. S.P.R., XXXVIII:
 pp. 223-271, 1928.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8. Five Other Major Subjects](esp15)
+[Next: Chapter 8. Five Other Major Subjects](esp15.md)

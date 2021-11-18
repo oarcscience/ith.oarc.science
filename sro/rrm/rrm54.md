@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm53)  [Next](rrm55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm53)  [Next](rrm55.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -491,4 +491,4 @@ Butler & Tanner, The Selwood Printing Works, Frome, and London
 
 ------------------------------------------------------------------------
 
-[Next: Plate 1. Ever-Burning Rosicrucian Lamps](rrm55)
+[Next: Plate 1. Ever-Burning Rosicrucian Lamps](rrm55.md)

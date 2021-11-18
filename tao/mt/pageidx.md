@@ -1,404 +1,404 @@
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
 # The Tao Teh King: A Short Study in Comparative Religion: Page Index
 
-### [Foreword](mt02)
+### [Foreword](mt02.md)
 
-[page vii](mt02.htm#page_vii)  
-[page viii](mt02.htm#page_viii)  
-[page xi](mt02.htm#page_xi)  
-[page x](mt02.htm#page_x)  
-[page xi](mt02.htm#page_xi)  
-[page xii](mt02.htm#page_xii)  
-[page xiii](mt02.htm#page_xiii)  
-[page xiv](mt02.htm#page_xiv)  
+[page vii](mt02.htm#page_vii.md)  
+[page viii](mt02.htm#page_viii.md)  
+[page xi](mt02.htm#page_xi.md)  
+[page x](mt02.htm#page_x.md)  
+[page xi](mt02.htm#page_xi.md)  
+[page xii](mt02.htm#page_xii.md)  
+[page xiii](mt02.htm#page_xiii.md)  
+[page xiv](mt02.htm#page_xiv.md)  
 
-### [Conclusion](mt03)
+### [Conclusion](mt03.md)
 
-[page xv](mt03.htm#page_xv)  
-[page xvi](mt03.htm#page_xvi)  
-[page xvii](mt03.htm#page_xvii)  
-[page xviii](mt03.htm#page_xviii)  
-[page xix](mt03.htm#page_xix)  
+[page xv](mt03.htm#page_xv.md)  
+[page xvi](mt03.htm#page_xvi.md)  
+[page xvii](mt03.htm#page_xvii.md)  
+[page xviii](mt03.htm#page_xviii.md)  
+[page xix](mt03.htm#page_xix.md)  
 
-### [Chapter I](mt04)
+### [Chapter I](mt04.md)
 
-[page 1](mt04.htm#page_1)  
-[page 2](mt04.htm#page_2)  
+[page 1](mt04.htm#page_1.md)  
+[page 2](mt04.htm#page_2.md)  
 
-### [Chapter II](mt05)
+### [Chapter II](mt05.md)
 
-[page 3](mt05.htm#page_3)  
-[page 4](mt05.htm#page_4)  
+[page 3](mt05.htm#page_3.md)  
+[page 4](mt05.htm#page_4.md)  
 
-### [Chapter III](mt06)
+### [Chapter III](mt06.md)
 
-[page 5](mt06.htm#page_5)  
-[page 6](mt06.htm#page_6)  
+[page 5](mt06.htm#page_5.md)  
+[page 6](mt06.htm#page_6.md)  
 
-### [Chapter IV](mt07)
+### [Chapter IV](mt07.md)
 
-[page 7](mt07.htm#page_7)  
-[page 8](mt07.htm#page_8)  
+[page 7](mt07.htm#page_7.md)  
+[page 8](mt07.htm#page_8.md)  
 
-### [Chapter V](mt08)
+### [Chapter V](mt08.md)
 
-[page 9](mt08.htm#page_9)  
-[page 10](mt08.htm#page_10)  
+[page 9](mt08.htm#page_9.md)  
+[page 10](mt08.htm#page_10.md)  
 
-### [Chapter VI](mt09)
+### [Chapter VI](mt09.md)
 
-[page 11](mt09.htm#page_11)  
-[page 12](mt09.htm#page_12)  
+[page 11](mt09.htm#page_11.md)  
+[page 12](mt09.htm#page_12.md)  
 
-### [Chapter VII](mt10)
+### [Chapter VII](mt10.md)
 
-[page 13](mt10.htm#page_13)  
+[page 13](mt10.htm#page_13.md)  
 
-### [Chapter VIII](mt11)
+### [Chapter VIII](mt11.md)
 
-[page 14](mt11.htm#page_14)  
-[page 15](mt11.htm#page_15)  
+[page 14](mt11.htm#page_14.md)  
+[page 15](mt11.htm#page_15.md)  
 
-### [Chapter IX](mt12)
+### [Chapter IX](mt12.md)
 
-[page 16](mt12.htm#page_16)  
+[page 16](mt12.htm#page_16.md)  
 
-### [Chapter X](mt13)
+### [Chapter X](mt13.md)
 
-[page 17](mt13.htm#page_17)  
-[page 18](mt13.htm#page_18)  
+[page 17](mt13.htm#page_17.md)  
+[page 18](mt13.htm#page_18.md)  
 
-### [Chapter XI](mt14)
+### [Chapter XI](mt14.md)
 
-[page 19](mt14.htm#page_19)  
-[page 20](mt14.htm#page_20)  
+[page 19](mt14.htm#page_19.md)  
+[page 20](mt14.htm#page_20.md)  
 
-### [Chapter XII](mt15)
+### [Chapter XII](mt15.md)
 
-[page 21](mt15.htm#page_21)  
-[page 22](mt15.htm#page_22)  
+[page 21](mt15.htm#page_21.md)  
+[page 22](mt15.htm#page_22.md)  
 
-### [Chapter XIII](mt16)
+### [Chapter XIII](mt16.md)
 
-[page 23](mt16.htm#page_23)  
+[page 23](mt16.htm#page_23.md)  
 
-### [Chapter XIV](mt17)
+### [Chapter XIV](mt17.md)
 
-[page 24](mt17.htm#page_24)  
-[page 25](mt17.htm#page_25)  
+[page 24](mt17.htm#page_24.md)  
+[page 25](mt17.htm#page_25.md)  
 
-### [Chapter XV](mt18)
+### [Chapter XV](mt18.md)
 
-[page 26](mt18.htm#page_26)  
-[page 27](mt18.htm#page_27)  
+[page 26](mt18.htm#page_26.md)  
+[page 27](mt18.htm#page_27.md)  
 
-### [Chapter XVI](mt19)
+### [Chapter XVI](mt19.md)
 
-[page 28](mt19.htm#page_28)  
-[page 29](mt19.htm#page_29)  
+[page 28](mt19.htm#page_28.md)  
+[page 29](mt19.htm#page_29.md)  
 
-### [Chapter XVII](mt20)
+### [Chapter XVII](mt20.md)
 
-[page 30](mt20.htm#page_30)  
-[page 31](mt20.htm#page_31)  
+[page 30](mt20.htm#page_30.md)  
+[page 31](mt20.htm#page_31.md)  
 
-### [Chapter XVIII](mt21)
+### [Chapter XVIII](mt21.md)
 
-[page 32](mt21.htm#page_32)  
-[page 33](mt21.htm#page_33)  
+[page 32](mt21.htm#page_32.md)  
+[page 33](mt21.htm#page_33.md)  
 
-### [Chapter XIX](mt22)
+### [Chapter XIX](mt22.md)
 
-[page 34](mt22.htm#page_34)  
-[page 35](mt22.htm#page_35)  
+[page 34](mt22.htm#page_34.md)  
+[page 35](mt22.htm#page_35.md)  
 
-### [Chapter XX](mt23)
+### [Chapter XX](mt23.md)
 
-[page 36](mt23.htm#page_36)  
-[page 37](mt23.htm#page_37)  
-[page 38](mt23.htm#page_38)  
+[page 36](mt23.htm#page_36.md)  
+[page 37](mt23.htm#page_37.md)  
+[page 38](mt23.htm#page_38.md)  
 
-### [Chapter XXI](mt24)
+### [Chapter XXI](mt24.md)
 
-[page 39](mt24.htm#page_39)  
+[page 39](mt24.htm#page_39.md)  
 
-### [Chapter XXII](mt25)
+### [Chapter XXII](mt25.md)
 
-[page 40](mt25.htm#page_40)  
-[page 41](mt25.htm#page_41)  
+[page 40](mt25.htm#page_40.md)  
+[page 41](mt25.htm#page_41.md)  
 
-### [Chapter XXIII](mt26)
+### [Chapter XXIII](mt26.md)
 
-[page 42](mt26.htm#page_42)  
+[page 42](mt26.htm#page_42.md)  
 
-### [Chapter XXIV](mt27)
+### [Chapter XXIV](mt27.md)
 
-[page 43](mt27.htm#page_43)  
+[page 43](mt27.htm#page_43.md)  
 
-### [Chapter XXV](mt28)
+### [Chapter XXV](mt28.md)
 
-[page 44](mt28.htm#page_44)  
-[page 45](mt28.htm#page_45)  
+[page 44](mt28.htm#page_44.md)  
+[page 45](mt28.htm#page_45.md)  
 
-### [Chapter XXVI](mt29)
+### [Chapter XXVI](mt29.md)
 
-[page 46](mt29.htm#page_46)  
-[page 47](mt29.htm#page_47)  
+[page 46](mt29.htm#page_46.md)  
+[page 47](mt29.htm#page_47.md)  
 
-### [Chapter XXVII](mt30)
+### [Chapter XXVII](mt30.md)
 
-[page 48](mt30.htm#page_48)  
-[page 49](mt30.htm#page_49)  
+[page 48](mt30.htm#page_48.md)  
+[page 49](mt30.htm#page_49.md)  
 
-### [Chapter XXVIII](mt31)
+### [Chapter XXVIII](mt31.md)
 
-[page 50](mt31.htm#page_50)  
-[page 51](mt31.htm#page_51)  
+[page 50](mt31.htm#page_50.md)  
+[page 51](mt31.htm#page_51.md)  
 
-### [Chapter XXIX](mt32)
+### [Chapter XXIX](mt32.md)
 
-[page 52](mt32.htm#page_52)  
+[page 52](mt32.htm#page_52.md)  
 
-### [Chapter XXX](mt33)
+### [Chapter XXX](mt33.md)
 
-[page 53](mt33.htm#page_53)  
-[page 54](mt33.htm#page_54)  
+[page 53](mt33.htm#page_53.md)  
+[page 54](mt33.htm#page_54.md)  
 
-### [Chapter XXXI](mt34)
+### [Chapter XXXI](mt34.md)
 
-[page 55](mt34.htm#page_55)  
+[page 55](mt34.htm#page_55.md)  
 
-### [Chapter XXXII](mt35)
+### [Chapter XXXII](mt35.md)
 
-[page 56](mt35.htm#page_56)  
-[page 57](mt35.htm#page_57)  
+[page 56](mt35.htm#page_56.md)  
+[page 57](mt35.htm#page_57.md)  
 
-### [Chapter XXXIII](mt36)
+### [Chapter XXXIII](mt36.md)
 
-[page 58](mt36.htm#page_58)  
-[page 59](mt36.htm#page_59)  
+[page 58](mt36.htm#page_58.md)  
+[page 59](mt36.htm#page_59.md)  
 
-### [Chapter XXXIV](mt37)
+### [Chapter XXXIV](mt37.md)
 
-[page 60](mt37.htm#page_60)  
+[page 60](mt37.htm#page_60.md)  
 
-### [Chapter XXXV](mt38)
+### [Chapter XXXV](mt38.md)
 
-[page 61](mt38.htm#page_61)  
+[page 61](mt38.htm#page_61.md)  
 
-### [Chapter XXXVI](mt39)
+### [Chapter XXXVI](mt39.md)
 
-[page 62](mt39.htm#page_62)  
+[page 62](mt39.htm#page_62.md)  
 
-### [Chapter XXXVII](mt40)
+### [Chapter XXXVII](mt40.md)
 
-[page 63](mt40.htm#page_63)  
+[page 63](mt40.htm#page_63.md)  
 
-### [Chapter XXXVIII](mt41)
+### [Chapter XXXVIII](mt41.md)
 
-[page 64](mt41.htm#page_64)  
-[page 65](mt41.htm#page_65)  
-[page 66](mt41.htm#page_66)  
+[page 64](mt41.htm#page_64.md)  
+[page 65](mt41.htm#page_65.md)  
+[page 66](mt41.htm#page_66.md)  
 
-### [Chapter XXXIX](mt42)
+### [Chapter XXXIX](mt42.md)
 
-[page 67](mt42.htm#page_67)  
-[page 68](mt42.htm#page_68)  
+[page 67](mt42.htm#page_67.md)  
+[page 68](mt42.htm#page_68.md)  
 
-### [Chapter XL](mt43)
+### [Chapter XL](mt43.md)
 
-[page 69](mt43.htm#page_69)  
+[page 69](mt43.htm#page_69.md)  
 
-### [Chapter XLI](mt44)
+### [Chapter XLI](mt44.md)
 
-[page 70](mt44.htm#page_70)  
-[page 71](mt44.htm#page_71)  
+[page 70](mt44.htm#page_70.md)  
+[page 71](mt44.htm#page_71.md)  
 
-### [Chapter XLII](mt45)
+### [Chapter XLII](mt45.md)
 
-[page 72](mt45.htm#page_72)  
-[page 73](mt45.htm#page_73)  
-[page 74](mt45.htm#page_74)  
+[page 72](mt45.htm#page_72.md)  
+[page 73](mt45.htm#page_73.md)  
+[page 74](mt45.htm#page_74.md)  
 
-### [Chapter XLIII](mt46)
+### [Chapter XLIII](mt46.md)
 
-[page 75](mt46.htm#page_75)  
+[page 75](mt46.htm#page_75.md)  
 
-### [Chapter XLIV](mt47)
+### [Chapter XLIV](mt47.md)
 
-[page 76](mt47.htm#page_76)  
+[page 76](mt47.htm#page_76.md)  
 
-### [Chapter XLV](mt48)
+### [Chapter XLV](mt48.md)
 
-[page 77](mt48.htm#page_77)  
-[page 78](mt48.htm#page_78)  
+[page 77](mt48.htm#page_77.md)  
+[page 78](mt48.htm#page_78.md)  
 
-### [Chapter XLVI](mt49)
+### [Chapter XLVI](mt49.md)
 
-[page 79](mt49.htm#page_79)  
+[page 79](mt49.htm#page_79.md)  
 
-### [Chapter XLVII](mt50)
+### [Chapter XLVII](mt50.md)
 
-[page 80](mt50.htm#page_80)  
-[page 81](mt50.htm#page_81)  
+[page 80](mt50.htm#page_80.md)  
+[page 81](mt50.htm#page_81.md)  
 
-### [Chapter XLVIII](mt51)
+### [Chapter XLVIII](mt51.md)
 
-[page 82](mt51.htm#page_82)  
+[page 82](mt51.htm#page_82.md)  
 
-### [Chapter XLIX](mt52)
+### [Chapter XLIX](mt52.md)
 
-[page 83](mt52.htm#page_83)  
-[page 84](mt52.htm#page_84)  
+[page 83](mt52.htm#page_83.md)  
+[page 84](mt52.htm#page_84.md)  
 
-### [Chapter L](mt53)
+### [Chapter L](mt53.md)
 
-[page 85](mt53.htm#page_85)  
-[page 86](mt53.htm#page_86)  
+[page 85](mt53.htm#page_85.md)  
+[page 86](mt53.htm#page_86.md)  
 
-### [Chapter LI](mt54)
+### [Chapter LI](mt54.md)
 
-[page 87](mt54.htm#page_87)  
+[page 87](mt54.htm#page_87.md)  
 
-### [Chapter LII](mt55)
+### [Chapter LII](mt55.md)
 
-[page 88](mt55.htm#page_88)  
-[page 89](mt55.htm#page_89)  
+[page 88](mt55.htm#page_88.md)  
+[page 89](mt55.htm#page_89.md)  
 
-### [Chapter LIII](mt56)
+### [Chapter LIII](mt56.md)
 
-[page 90](mt56.htm#page_90)  
-[page 91](mt56.htm#page_91)  
+[page 90](mt56.htm#page_90.md)  
+[page 91](mt56.htm#page_91.md)  
 
-### [Chapter LIV](mt57)
+### [Chapter LIV](mt57.md)
 
-[page 92](mt57.htm#page_92)  
+[page 92](mt57.htm#page_92.md)  
 
-### [Chapter LV](mt58)
+### [Chapter LV](mt58.md)
 
-[page 93](mt58.htm#page_93)  
-[page 94](mt58.htm#page_94)  
+[page 93](mt58.htm#page_93.md)  
+[page 94](mt58.htm#page_94.md)  
 
-### [Chapter LVI](mt59)
+### [Chapter LVI](mt59.md)
 
-[page 95](mt59.htm#page_95)  
+[page 95](mt59.htm#page_95.md)  
 
-### [Chapter LVII](mt60)
+### [Chapter LVII](mt60.md)
 
-[page 96](mt60.htm#page_96)  
-[page 97](mt60.htm#page_97)  
+[page 96](mt60.htm#page_96.md)  
+[page 97](mt60.htm#page_97.md)  
 
-### [Chapter LVIII](mt61)
+### [Chapter LVIII](mt61.md)
 
-[page 98](mt61.htm#page_98)  
-[page 99](mt61.htm#page_99)  
+[page 98](mt61.htm#page_98.md)  
+[page 99](mt61.htm#page_99.md)  
 
-### [Chapter LIX](mt62)
+### [Chapter LIX](mt62.md)
 
-[page 100](mt62.htm#page_100)  
+[page 100](mt62.htm#page_100.md)  
 
-### [Chapter LX](mt63)
+### [Chapter LX](mt63.md)
 
-[page 101](mt63.htm#page_101)  
+[page 101](mt63.htm#page_101.md)  
 
-### [Chapter LXI](mt64)
+### [Chapter LXI](mt64.md)
 
-[page 102](mt64.htm#page_102)  
-[page 103](mt64.htm#page_103)  
+[page 102](mt64.htm#page_102.md)  
+[page 103](mt64.htm#page_103.md)  
 
-### [Chapter LXII](mt65)
+### [Chapter LXII](mt65.md)
 
-[page 104](mt65.htm#page_104)  
-[page 105](mt65.htm#page_105)  
+[page 104](mt65.htm#page_104.md)  
+[page 105](mt65.htm#page_105.md)  
 
-### [Chapter LXIII](mt66)
+### [Chapter LXIII](mt66.md)
 
-[page 106](mt66.htm#page_106)  
-[page 107](mt66.htm#page_107)  
+[page 106](mt66.htm#page_106.md)  
+[page 107](mt66.htm#page_107.md)  
 
-### [Chapter XLIV](mt67)
+### [Chapter XLIV](mt67.md)
 
-[page 108](mt67.htm#page_108)  
-[page 109](mt67.htm#page_109)  
+[page 108](mt67.htm#page_108.md)  
+[page 109](mt67.htm#page_109.md)  
 
-### [Chapter LXV](mt68)
+### [Chapter LXV](mt68.md)
 
-[page 110](mt68.htm#page_110)  
+[page 110](mt68.htm#page_110.md)  
 
-### [Chapter LXVI](mt69)
+### [Chapter LXVI](mt69.md)
 
-[page 111](mt69.htm#page_111)  
-[page 112](mt69.htm#page_112)  
+[page 111](mt69.htm#page_111.md)  
+[page 112](mt69.htm#page_112.md)  
 
-### [Chapter LXVII](mt70)
+### [Chapter LXVII](mt70.md)
 
-[page 113](mt70.htm#page_113)  
-[page 114](mt70.htm#page_114)  
+[page 113](mt70.htm#page_113.md)  
+[page 114](mt70.htm#page_114.md)  
 
-### [Chapter LXVIII](mt71)
+### [Chapter LXVIII](mt71.md)
 
-[page 115](mt71.htm#page_115)  
+[page 115](mt71.htm#page_115.md)  
 
-### [Chapter LXIX](mt72)
+### [Chapter LXIX](mt72.md)
 
-[page 116](mt72.htm#page_116)  
-[page 117](mt72.htm#page_117)  
+[page 116](mt72.htm#page_116.md)  
+[page 117](mt72.htm#page_117.md)  
 
-### [Chapter LXX](mt73)
+### [Chapter LXX](mt73.md)
 
-[page 118](mt73.htm#page_118)  
+[page 118](mt73.htm#page_118.md)  
 
-### [Chapter LXXI](mt74)
+### [Chapter LXXI](mt74.md)
 
-[page 119](mt74.htm#page_119)  
+[page 119](mt74.htm#page_119.md)  
 
-### [Chapter LXXII](mt75)
+### [Chapter LXXII](mt75.md)
 
-[page 120](mt75.htm#page_120)  
+[page 120](mt75.htm#page_120.md)  
 
-### [Chapter LXXIII](mt76)
+### [Chapter LXXIII](mt76.md)
 
-[page 121](mt76.htm#page_121)  
+[page 121](mt76.htm#page_121.md)  
 
-### [Chapter LXXIV](mt77)
+### [Chapter LXXIV](mt77.md)
 
-[page 122](mt77.htm#page_122)  
-[page 123](mt77.htm#page_123)  
+[page 122](mt77.htm#page_122.md)  
+[page 123](mt77.htm#page_123.md)  
 
-### [Chapter LXXV](mt78)
+### [Chapter LXXV](mt78.md)
 
-[page 124](mt78.htm#page_124)  
+[page 124](mt78.htm#page_124.md)  
 
-### [Chapter LXXVI](mt79)
+### [Chapter LXXVI](mt79.md)
 
-[page 125](mt79.htm#page_125)  
+[page 125](mt79.htm#page_125.md)  
 
-### [Chapter LXXVII](mt80)
+### [Chapter LXXVII](mt80.md)
 
-[page 126](mt80.htm#page_126)  
+[page 126](mt80.htm#page_126.md)  
 
-### [Chapter LXXVIII](mt81)
+### [Chapter LXXVIII](mt81.md)
 
-[page 127](mt81.htm#page_127)  
+[page 127](mt81.htm#page_127.md)  
 
-### [Chapter LXXIX](mt82)
+### [Chapter LXXIX](mt82.md)
 
-[page 128](mt82.htm#page_128)  
+[page 128](mt82.htm#page_128.md)  
 
-### [Chapter LXXX](mt83)
+### [Chapter LXXX](mt83.md)
 
-[page 129](mt83.htm#page_129)  
-[page 130](mt83.htm#page_130)  
+[page 129](mt83.htm#page_129.md)  
+[page 130](mt83.htm#page_130.md)  
 
-### [Chapter LXXXI](mt84)
+### [Chapter LXXXI](mt84.md)
 
-[page 131](mt84.htm#page_131)  
+[page 131](mt84.htm#page_131.md)  
 
-### [Bibliography](mt85)
+### [Bibliography](mt85.md)
 
-[page 132](mt85.htm#page_132)  
-[page 133](mt85.htm#page_133)  
-[page 134](mt85.htm#page_134)  
+[page 132](mt85.htm#page_132.md)  
+[page 133](mt85.htm#page_133.md)  
+[page 134](mt85.htm#page_134.md)  

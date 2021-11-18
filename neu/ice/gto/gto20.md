@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto19)  [Next](gto21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto19)  [Next](gto21.md) 
 
 ------------------------------------------------------------------------
 
@@ -205,4 +205,4 @@ softened down; and now all is quiet again.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Spy-Helgi and Havard](gto21)
+[Next: Chapter XVI. Spy-Helgi and Havard](gto21.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy03)  [Next](phy05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy03)  [Next](phy05.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ On what I am, on what I was</em>."<br />
 
 |                     |
 |---------------------|
-| ![T](img/00100.jpg) |
+| ![T](img/00100.jpg.md) |
 
 HE wide open Bay of Ramsey, on the northern coast of the Isle of Man, is
 the largest and safest of all the many anchorages surrounding the shores
@@ -153,7 +153,7 @@ and graceful
 <span id="img_00400"></span>
 
 [![KITTY KERRUISH AND HER FAIRY LOVER](tn/00400.jpg)  
-Click to enlarge](img/00400.jpg)  
+Click to enlarge](img/00400.jpg.md)  
 KITTY KERRUISH AND HER FAIRY LOVER  
 
 <div align="center">
@@ -225,4 +225,4 @@ all the love I have to give away."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](phy05)
+[Next: Chapter II](phy05.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat07.htm#XXXVIII) 
-[Previous](satl037)  [Next](satl039) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat07.htm#XXXVIII.md) 
+[Previous](satl037)  [Next](satl039.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ C. IVLIVS PROCVLVS AVCTIONEM FACIET RERVM SVPERVACVARVM."
 
 ------------------------------------------------------------------------
 
-[Next: XXXIX](satl039)
+[Next: XXXIX](satl039.md)

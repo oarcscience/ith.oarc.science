@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp69) 
-[Next](alp71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp69.md) 
+[Next](alp71.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ To Ardaz with the patriarch repair!
 
 ------------------------------------------------------------------------
 
-[Next: Thou Art So Sweet](alp71)
+[Next: Thou Art So Sweet](alp71.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe323)  [Next](prwe325) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe323)  [Next](prwe325.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ strolling players were entertaining the people.
 
 ------------------------------------------------------------------------
 
-[Next: Boyer, Mayor of Bodmin](prwe325)
+[Next: Boyer, Mayor of Bodmin](prwe325.md)

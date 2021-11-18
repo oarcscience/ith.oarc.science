@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb18)  [Next](olb20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb18)  [Next](olb20.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -35,7 +35,7 @@ may be called by his name, and that his ancestors may repudiate him.
 
 <span id="img_pl01"></span> <span align="CENTER"> [![Plate 1: Page 45 of
 the manuscript of the book of Adela's Followers](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 Plate 1: Page 45 of the manuscript of the book of Adela's Followers  
 </span>
 
@@ -56,4 +56,4 @@ country.
 ------------------------------------------------------------------------
 
 [Next: What is written hereunder is inscribed on the Walls of
-Waraburgt](olb20)
+Waraburgt](olb20.md)

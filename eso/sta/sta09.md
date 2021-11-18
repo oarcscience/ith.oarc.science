@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta08)  [Next](sta10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta08)  [Next](sta10.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ original casing stones caused each side of the Pyramid to appear as
 <span id="img_04100"></span>
 
 [![DIPUS AND THE SPHINX.](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)  
+Click to enlarge](img/04100.jpg.md)  
 ŒDIPUS AND THE SPHINX.  
 
 From Levi's *Les Mystères de la Kaballe*.
@@ -312,7 +312,7 @@ analysis of the limestone shows it to be composed of small sea creatures
 called *mummulites*.
 
 The popular supposition that the Sphinx was the true portal of the Great
-Pyramid, while it survives with [surprising](errata.htm#1) tenacity, has
+Pyramid, while it survives with [surprising](errata.htm#1.md) tenacity, has
 never been substantiated. P. Christian presents this theory as follows,
 basing it in part upon the authority of Iamblichus:
 
@@ -348,7 +348,7 @@ the bowels of the limestone ridge on which
 <span id="img_04300"></span>
 
 [![A VERTICAL SECTION OF THE GREAT PYRAMID.](tn/04300.jpg)  
-Click to enlarge](img/04300.jpg)  
+Click to enlarge](img/04300.jpg.md)  
 A VERTICAL SECTION OF THE GREAT PYRAMID.  
 
 From Smyth's *Life and Wok at the Great Pyramid*.
@@ -655,4 +655,4 @@ with neither substitute nor counterfeit.
 
 ------------------------------------------------------------------------
 
-[Next: Isis, the Virgin of the World](sta10)
+[Next: Isis, the Virgin of the World](sta10.md)

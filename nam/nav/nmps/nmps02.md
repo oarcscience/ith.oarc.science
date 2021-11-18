@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](nmps01)  [Next](nmps03) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](nmps01)  [Next](nmps03.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ is represented by t*s*; that of English j in jug by d*z*.
 
 ------------------------------------------------------------------------
 
-[Next: Editor's Note.](nmps03)
+[Next: Editor's Note.](nmps03.md)

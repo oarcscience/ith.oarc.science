@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx13)  [Next](omtx15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx13)  [Next](omtx15.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,7 +193,7 @@ Response: So mote it be.
 
 \[Should this service have been conducted in the Lodge Room, the Lodge
 is now called from labor, and placed in charge of the
-[Marshal](errata.htm#3), to repair in procession to the house of the
+[Marshal](errata.htm#3.md), to repair in procession to the house of the
 deceased, or wherever his body may be, to accompany it to the place of
 interment. If the service has been held at the house or church, the
 procession will be re-formed for this purpose. During the marching of
@@ -393,7 +393,7 @@ Princes, this clay must be your bed,
 The tall, the wise, the reverend head,  
   Must lie as low as ours.
 
-Great God, is this our [certain](errata.htm#4) doom?  
+Great God, is this our [certain](errata.htm#4.md) doom?  
   And are we still secure?  
 Still walking downward to the tomb,  
   And yet prepare no more?
@@ -539,4 +539,4 @@ moves to he Lodge Room, where the Lodge is closed in due form.\]
 
 ------------------------------------------------------------------------
 
-[Next: Rules For Masonic Processions](omtx15)
+[Next: Rules For Masonic Processions](omtx15.md)

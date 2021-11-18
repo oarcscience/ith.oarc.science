@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi254)  [Next](mtsi256) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi254)  [Next](mtsi256.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ had disappeared far across the sea.
 
 ------------------------------------------------------------------------
 
-[Next: 56. Rabbit and Big Man-eater Swap](mtsi256)
+[Next: 56. Rabbit and Big Man-eater Swap](mtsi256.md)

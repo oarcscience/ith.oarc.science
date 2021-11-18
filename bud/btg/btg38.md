@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg37)  [Next](btg39) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg37)  [Next](btg39.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,4 +185,4 @@ the concord of the Sangha was re-established.
 
 ------------------------------------------------------------------------
 
-[Next: The Bhikkhus Rebuked](btg39)
+[Next: The Bhikkhus Rebuked](btg39.md)

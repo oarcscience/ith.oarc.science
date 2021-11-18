@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg46)  [Next](btg48) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg46)  [Next](btg48.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ eternal."
 
 ------------------------------------------------------------------------
 
-[Next: The Preacher's Mission](btg48)
+[Next: The Preacher's Mission](btg48.md)

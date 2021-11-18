@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](fol07)  [Next](fol09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](fol07)  [Next](fol09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Feast of Lanterns*, by L. Cranmer-Byng, \[1916\], at Intangible
 Textual Heritage
 
@@ -38,7 +38,7 @@ the making of Chinese poetry, namely, the *Ping,* or even tone, and
 *Tsze,* or accentuated, with its three modifications known as
 Shangsheng, the rising note, Khu-sheng, the entering note, and
 Ruh-sheng, the sinking note. These tones, as Mr. Charles Budd points
-out <span id="fr_1"></span>[1](#fn_1) in his interesting essay on the
+out <span id="fr_1"></span>[1](#fn_1.md) in his interesting essay on the
 Technique of Chinese Poetry, "are used to make rhythm as well as to
 express meaning." Rhymes occur in the even lines of a poem. In
 five-syllable verses there is a cæsura which comes after the second
@@ -84,9 +84,9 @@ others in poems of irregular metre.
 
 ### Footnotes
 
-<span id="fn_1"></span>[31:1](fol08.htm#fr_1) *Chinese Poems,*
+<span id="fn_1"></span>[31:1](fol08.htm#fr_1.md) *Chinese Poems,*
 translated by Charles Budd, Henry Frowde & Co.
 
 ------------------------------------------------------------------------
 
-[Next: Epochs in Chinese Poetry](fol09)
+[Next: Epochs in Chinese Poetry](fol09.md)

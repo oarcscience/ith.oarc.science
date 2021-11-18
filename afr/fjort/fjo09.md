@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fjo08)  [Next](fjo10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fjo08)  [Next](fjo10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R142/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R142/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Notes on the Folklore of the Fjort*, by Richard Edward Dennett,
 \[1898\], at Intangible Textual Heritage
 
@@ -123,6 +123,6 @@ rather than please his wife, who had been so good to him.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Jealous Wife.](fjo10)
+[Next: VII. The Jealous Wife.](fjo10.md)
 
 </div>

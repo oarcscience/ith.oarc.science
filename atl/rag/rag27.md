@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag26)  [Next](rag28) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag26)  [Next](rag28.md) 
 
 ------------------------------------------------------------------------
 
@@ -931,4 +931,4 @@ Can all this be accident? Can all this mean nothing?
 ------------------------------------------------------------------------
 
 [Next: Part IV. Conclusions.--Chapter I. Was Pre-Glacial Man
-Civilized?](rag28)
+Civilized?](rag28.md)

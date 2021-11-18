@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Next](crt01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Next](crt01.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,16 +18,16 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_front"></span>
 
 [![Sir Launcelot of the Lake](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Sir Launcelot of the Lake  
 
 <span id="img_title"></span>
 
 [![](tn/title.jpg)  
-Click to enlarge](img/title.jpg)
+Click to enlarge](img/title.jpg.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](crt01)
+[Next: Foreword](crt01.md)

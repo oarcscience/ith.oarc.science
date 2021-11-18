@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe314)  [Next](prwe316) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe314)  [Next](prwe316.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ Tavistock.
 
 ------------------------------------------------------------------------
 
-[Next: Bolait, The Field of Blood](prwe316)
+[Next: Bolait, The Field of Blood](prwe316.md)

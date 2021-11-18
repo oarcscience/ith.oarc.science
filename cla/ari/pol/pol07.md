@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](pol06)  [Next](pol08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](pol06)  [Next](pol08.md) 
 
 ------------------------------------------------------------------------
 
@@ -1174,4 +1174,4 @@ be.
 
 ------------------------------------------------------------------------
 
-[Next: Book VIII](pol08)
+[Next: Book VIII](pol08.md)

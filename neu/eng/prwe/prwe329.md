@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe328)  [Next](prwe330) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe328)  [Next](prwe330.md) 
 
 ------------------------------------------------------------------------
 
@@ -198,4 +198,4 @@ Bra tummills, brave heaps, large piles of ore.
 
 ------------------------------------------------------------------------
 
-[Next: Bellerian](prwe330)
+[Next: Bellerian](prwe330.md)

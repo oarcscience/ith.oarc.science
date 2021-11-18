@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon13)  [Next](oon15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon13)  [Next](oon15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -23,13 +23,13 @@ CHANGES OF GOVERNMENT IN ENGLAND (1501-1791). \[I. 135.\]
 
 Century VI.--*Quatrain* 57.
 
-Sept fois changer verrez gent <span id="fr_175"></span>[1](#fn_175)
+Sept fois changer verrez gent <span id="fr_175"></span>[1](#fn_175.md)
 Britannique.  
 Teints en sang en deux cens nonante an;  
-Franche <span id="fr_176"></span>[2](#fn_176) non point, par <span
-id="fr_177"></span>[3](#fn_177) appuy Germanique;  
-Aries <span id="fr_178"></span>[4](#fn_178) doubte son pole
-Bastarnan. <span id="fr_179"></span>[5](#fn_179)
+Franche <span id="fr_176"></span>[2](#fn_176.md) non point, par <span
+id="fr_177"></span>[3](#fn_177.md) appuy Germanique;  
+Aries <span id="fr_178"></span>[4](#fn_178.md) doubte son pole
+Bastarnan. <span id="fr_179"></span>[5](#fn_179.md)
 
 Translation.
 
@@ -143,12 +143,12 @@ STUART DYNASTY (1603-1649). \[I. 138.\]
 
 Century X.--*Quatrain* 40.
 
-La jeunne <span id="fr_180"></span>[1](#fn_180) nay au regne
+La jeunne <span id="fr_180"></span>[1](#fn_180.md) nay au regne
 Britannique,  
 Qu'aura le pere mourant recommandé  
-Iceluy mort, Lonole <span id="fr_181"></span>[2](#fn_181) donra <span
-id="fr_182"></span>[3](#fn_182) topique, <span
-id="fr_183"></span>[4](#fn_183)  
+Iceluy mort, Lonole <span id="fr_181"></span>[2](#fn_181.md) donra <span
+id="fr_182"></span>[3](#fn_182.md) topique, <span
+id="fr_183"></span>[4](#fn_183.md)  
 Et à son fils le regne, demandé.
 
 Translation.
@@ -167,7 +167,7 @@ and Scotland were first denominated Great Britain
 <span id="page_150">p. 150</span>
 
 <span class="contnote">\[paragraph continues\]</span> (*au regne
-Britannique*). <span id="fr_184"></span>[1](#fn_184) When King James I.
+Britannique*). <span id="fr_184"></span>[1](#fn_184.md) When King James I.
 dies (*Iceluy mort*), *Lonole* will seduce England with artificial
 rhetoric, and demand the kingdom and the life of his son Charles I.
 
@@ -208,11 +208,11 @@ FALL OF CHARLES I. (MARCH 31, 1646). \[I. 139.\]
 Century III.--*Quatrain* 80.
 
 Du regne Anglais le digne dechassé, <span
-id="fr_185"></span>[1](#fn_185)  
-Le conseiller part <span id="fr_186"></span>[2](#fn_186) ire, <span
-id="fr_187"></span>[3](#fn_187) mis à feu,  
+id="fr_185"></span>[1](#fn_185.md)  
+Le conseiller part <span id="fr_186"></span>[2](#fn_186.md) ire, <span
+id="fr_187"></span>[3](#fn_187.md) mis à feu,  
 Ses adherans iront si has tracer, <span
-id="fr_188"></span>[4](#fn_188)  
+id="fr_188"></span>[4](#fn_188.md)  
 Que le bastard sera demy receu.
 
 Translation.
@@ -247,7 +247,7 @@ EXECUTION OF CHARLES I. (JANUARY 30, 1649). \[L 141.\]
 
 Century IX.--*Quatrain* 49.
 
-Gand et Bruceles marcheront contre <span id="fr_189"></span>[1](#fn_189)
+Gand et Bruceles marcheront contre <span id="fr_189"></span>[1](#fn_189.md)
 Anvers,  
 Senat de Londres mettront à mort leur Roy:  
 Le set et vin luy seront à l'envers,  
@@ -380,9 +380,9 @@ CROMWELL'S PROTECTORATE (1653-1658). \[I. 142.\]
 
 Century VIII.--*Quatrain* 76.
 
-Plus Macelin <span id="fr_190"></span>[1](#fn_190) clue Roy en
+Plus Macelin <span id="fr_190"></span>[1](#fn_190.md) clue Roy en
 Angleterre,  
-Lieu obscur nay <span id="fr_191"></span>[2](#fn_191) par force aura
+Lieu obscur nay <span id="fr_191"></span>[2](#fn_191.md) par force aura
 l'empire,  
 Lasche sans foy sans loy saignera terre:  
 Son temps approche si près que je souspire.
@@ -421,7 +421,7 @@ however, my observations, I had to go to Chequers Court, the Print Room,
 and the National Portrait Gallery. These and other necessary steps
 occupied so much time that the printers had to commence paging; then, as
 the enlarged matter could not find room here, there was no alternative
-but an Appendix, which will be found at [p. 305](oon22.htm#page_305). My
+but an Appendix, which will be found at [p. 305](oon22.htm#page_305.md). My
 remarks, which make so little show now that they are done, cost me far
 more trouble than ten time,, the mere amount of writing would. The final
 settlement depends on the cast at Florence, if still in existence. I
@@ -490,11 +490,11 @@ BRITISH ASCENDANCY OF THE SEA (OVER THREE CENTURIES). \[I. 143.\]
 Century X.--*Quatrain* 100.
 
 Le grand empire sera par Angleterre,  
-Le pempotam <span id="fr_192"></span>[1](#fn_192) des ans plus de trois
+Le pempotam <span id="fr_192"></span>[1](#fn_192.md) des ans plus de trois
 cens:  
-Grandes copies <span id="fr_193"></span>[2](#fn_193) passer par mer et
+Grandes copies <span id="fr_193"></span>[2](#fn_193.md) passer par mer et
 terre,  
-Les Lusitains <span id="fr_194"></span>[3](#fn_194) n'en seront pas
+Les Lusitains <span id="fr_194"></span>[3](#fn_194.md) n'en seront pas
 contens.
 
 Translation.
@@ -561,7 +561,7 @@ to the succession of the House of Hanover. They will perhaps not be
 devoid of instruction, though they will not be so remarkable as those
 already adduced. Several quatrains, more or less intelligibly wrought
 out, are enumerated in a pamphlet of the year 1715 by D. D. <span
-id="fr_195"></span>[1](#fn_195) The first relates to Queen Mary.
+id="fr_195"></span>[1](#fn_195.md) The first relates to Queen Mary.
 
 QUEEN MARY.
 
@@ -682,7 +682,7 @@ thirty years (speaking about 1783) she has been the happy rival of
 France, and in some sort the arbitress of Europe. A little later on,
 when we crushed Napoleon by sea and land, and yet preserved France, we
 rose to our highest; but at Vienna the *Règne de Balance* <span
-id="fr_196"></span>[1](#fn_196) passed, probably for ever,
+id="fr_196"></span>[1](#fn_196.md) passed, probably for ever,
 
 <span id="page_165">p. 165</span>
 
@@ -849,7 +849,7 @@ ENGLAND BECOMES GREAT BRITAIN (1603).
 Century III.--*Quatrain* 70.
 
 La grand Bretaigne comprinse d'Angleterre,  
-Viendra par eaux si <span id="fr_197"></span>[1](#fn_197) haut à
+Viendra par eaux si <span id="fr_197"></span>[1](#fn_197.md) haut à
 inonder  
 La Ligue neuve d'Ausonne fera guerre,  
 Que contre eux ils se viendront bander.
@@ -922,14 +922,14 @@ Soubs le terroir du rond globe lunaire,
 Lors que sera dominateur Mercure:  
 L'isle d'Escosse fera un luminaire,  
 Qui les Anglois mettra à deconfiture. <span
-id="fr_198"></span>[1](#fn_198)
+id="fr_198"></span>[1](#fn_198.md)
 
 Translation.
 
 Under the jurisdiction of the round globe of the moon, when Mercury
 shall be lord of the ascendant: the island of Scotland will produce a
 luminary (prince) that shall throw the English into a great
-discomfiture. <span id="fr_199"></span>[1](#fn_198)
+discomfiture. <span id="fr_199"></span>[1](#fn_198.md)
 
 Garencières entirely misses the purpose of this, but re, marks that the
 prophecy must of necessity relate to the past, for since the Union
@@ -1025,7 +1025,7 @@ altogether overlooking the consequences of employing such a machinery to
 revenge a private pique, and he must needs drag in the young Prince
 Charles to help him. The King foresaw the evil. "The wise King," says
 Clarendon, "knew well enough the ill consequence," <span
-id="fr_200"></span>[1](#fn_199) and he sent for these two,--his son and
+id="fr_200"></span>[1](#fn_199.md) and he sent for these two,--his son and
 Buckingham-to lecture them if possible into wisdom. He pointed out that
 it wounded the Crown and shook his authority, as Ministers would thus
 have to look to the House, and not to the King alone, as heretofore. At
@@ -1052,7 +1052,7 @@ CHARLES II.--CAPITULATION OF EDINBURGH (DECEMBER 12, 1650).
 
 Century VIII.--*Quatrain* 40.
 
-Le sang du Juste par <span id="fr_201"></span>[1](#fn_200) Taurer la
+Le sang du Juste par <span id="fr_201"></span>[1](#fn_200.md) Taurer la
 daurade,  
 Pour se venger contre les Saturnins  
 Au nouveau lac plongeront la maynade,  
@@ -1180,7 +1180,7 @@ THE BATTLE OF DUNBAR (SEPTEMBER 3, 1650).
 
 Century VIII.--*Quatrain* 56.
 
-La bande foible la terre <span id="fr_202"></span>[1](#fn_201)
+La bande foible la terre <span id="fr_202"></span>[1](#fn_201.md)
 occupera,  
 Ceux du haut lieu feront horribles cris: <span id="page_180">p.
 180</span>  
@@ -1345,7 +1345,7 @@ Century X.--*Quatrain* 4.
 Sur la minuict conducteur de l'armée  
 Se sauvera, subit esvanouy,  
 Sept ans après la fame non blasmée;  
-A son retour ne dira one ouy. <span id="fr_203"></span>[1](#fn_202)
+A son retour ne dira one ouy. <span id="fr_203"></span>[1](#fn_202.md)
 
 Translation.
 
@@ -1383,7 +1383,7 @@ died on what has been called his *Fortunate Day*: "Nature herself," says
 his last chronicler in the ninth edition of the 'Encyclopædia
 Britannica,' "seeming to prophesy, in the voice of the great tempest
 that swept over England, that a great power had passed away." <span
-id="fr_204"></span>[1](#fn_203) It was a tremendous tempest no doubt,
+id="fr_204"></span>[1](#fn_203.md) It was a tremendous tempest no doubt,
 and men at the time said the Devil had run away with Old Noll. Some say
 he died broken-hearted, when the last Parliament convened by him in
 January, 1658, refused to acknowledge his House of Peers. So great a
@@ -1417,11 +1417,11 @@ Century VIII.--*Quatrain* 41.
 
 Esleu sera Renard, ne sonnant mot,  
 Faisant le saint public, vivant pain d'orge, <span
-id="fr_205"></span>[1](#fn_204)  
-Tyrannizer après tant <span id="fr_206"></span>[2](#fn_205) à un
-cop, <span id="fr_207"></span>[3](#fn_206)  
+id="fr_205"></span>[1](#fn_204.md)  
+Tyrannizer après tant <span id="fr_206"></span>[2](#fn_205.md) à un
+cop, <span id="fr_207"></span>[3](#fn_206.md)  
 Mettant à pied des plus grands sur la gorge. <span
-id="fr_208"></span>[4](#fn_207)
+id="fr_208"></span>[4](#fn_207.md)
 
 Translation.
 
@@ -1465,11 +1465,11 @@ THE FIRE OF LONDON--DUTCH WAR--PLAGUE (1665-1667).
 Century II.--*Quatrains* 51, 52, 53.
 
 Le sang du juste à Londres fera faute,  
-Brulez par foudres <span id="fr_209"></span>[1](#fn_208) de vingt trois
+Brulez par foudres <span id="fr_209"></span>[1](#fn_208.md) de vingt trois
 les six;  
-La dame <span id="fr_210"></span>[2](#fn_209) antique cherra <span
-id="fr_211"></span>[3](#fn_210) de place haute,  
-De mesme secte <span id="fr_212"></span>[4](#fn_211) plusieurs seront
+La dame <span id="fr_210"></span>[2](#fn_209.md) antique cherra <span
+id="fr_211"></span>[3](#fn_210.md) de place haute,  
+De mesme secte <span id="fr_212"></span>[4](#fn_211.md) plusieurs seront
 occis.
 
 <span id="page_188">p. 188</span>
@@ -1478,12 +1478,12 @@ Dans plusieurs nuits la terre tremblera:
 Sur le printemps deux effors suite:  
 Corinthe, Ephèse aux deux mers nagera,  
 Guerre s'esmeut par deux vaillans de luite. <span
-id="fr_213"></span>[1](#fn_212)
+id="fr_213"></span>[1](#fn_212.md)
 
 La grand peste de cité maritime  
 Ne cessera, que mort ne soit vengée  
 Du juste sang par pris damné sans crime,  
-De la grand dame <span id="fr_214"></span>[2](#fn_213) par feincte
+De la grand dame <span id="fr_214"></span>[2](#fn_213.md) par feincte
 n'outragée.
 
 Translation.
@@ -1590,8 +1590,8 @@ Century IV.--*Quatrain* 89.
 Trente do Londres secret conjureront,  
 Contre leur Roy, sur le pont l'entreprise:  
 Leuy, satalites là mort de gousteront, <span
-id="fr_215"></span>[1](#fn_214)  
-Un Roy esleut <span id="fr_216"></span>[2](#fn_215) blonde, natif do
+id="fr_215"></span>[1](#fn_214.md)  
+Un Roy esleut <span id="fr_216"></span>[2](#fn_215.md) blonde, natif do
 Frize.
 
 Translation.
@@ -1671,7 +1671,7 @@ is too singular to be neglected:
 "But the allusion on the Duke of Marlborough is stilt prettier. Had his
 \[Nostradamus's\] genius dictated unto him *Marnebourg*, he might have
 understood and written down without hesitation, for the English *Marl*
-and the French *Marne* are one and the same. The [Dæmons](errata.htm#2)
+and the French *Marne* are one and the same. The [Dæmons](errata.htm#2.md)
 speak all sorts of languages, but Nostradamus did not understand the
 English, whence it came that at the hearing of the name Marlborough, he
 startled, and thought, '*Qu'est-ce que Marl*?' Thereupon it was inspired
@@ -1846,34 +1846,34 @@ translated all the quatrains into English.
 
 ### Footnotes
 
-<span id="fn_175"></span>[146:1](oon14.htm#fr_175) Latin, *gens*,
+<span id="fn_175"></span>[146:1](oon14.htm#fr_175.md) Latin, *gens*,
 nation.
 
-<span id="fn_176"></span>[146:2](oon14.htm#fr_176) Franche, for *gent
+<span id="fn_176"></span>[146:2](oon14.htm#fr_176.md) Franche, for *gent
 Franche*, French nation.
 
-<span id="fn_177"></span>[146:3](oon14.htm#fr_177) Latin, *per*, by
+<span id="fn_177"></span>[146:3](oon14.htm#fr_177.md) Latin, *per*, by
 reason of.
 
-<span id="fn_178"></span>[146:4](oon14.htm#fr_178) Latin; *Aries* sign
+<span id="fn_178"></span>[146:4](oon14.htm#fr_178.md) Latin; *Aries* sign
 of the Ram.
 
-<span id="fn_179"></span>[146:5](oon14.htm#fr_179) *Bastarnie*,
+<span id="fn_179"></span>[146:5](oon14.htm#fr_179.md) *Bastarnie*,
 corresponding to ancient Poland.
 
-<span id="fn_180"></span>[149:1](oon14.htm#fr_180) Romance, *nay*, *né*,
+<span id="fn_180"></span>[149:1](oon14.htm#fr_180.md) Romance, *nay*, *né*,
 born.
 
-<span id="fn_181"></span>[149:2](oon14.htm#fr_181) Lonole, anagram for
+<span id="fn_181"></span>[149:2](oon14.htm#fr_181.md) Lonole, anagram for
 Ὀλλύων, destroying, from the verb ὀλλύειν, to destroy. Destroyer.
 
-<span id="fn_182"></span>[149:3](oon14.htm#fr_182) *Donra*, for donnera,
+<span id="fn_182"></span>[149:3](oon14.htm#fr_182.md) *Donra*, for donnera,
 will give.
 
-<span id="fn_183"></span>[149:4](oon14.htm#fr_183) *Topique*, flowers of
+<span id="fn_183"></span>[149:4](oon14.htm#fr_183.md) *Topique*, flowers of
 rhetoric, oratory.
 
-<span id="fn_184"></span>[150:1](oon14.htm#fr_184)
+<span id="fn_184"></span>[150:1](oon14.htm#fr_184.md)
 
 When hempe is sponne,  
 England's done.
@@ -1892,36 +1892,36 @@ has a good deal of the true spirit of forecast in it. It certainly was
 genuine, as it evidently was known to the narrator as being in
 circulation before it was accomplished.
 
-<span id="fn_185"></span>[151:1](oon14.htm#fr_185) Romance, *dechassé*,
+<span id="fn_185"></span>[151:1](oon14.htm#fr_185.md) Romance, *dechassé*,
 simply *chassé*.
 
-<span id="fn_186"></span>[151:2](oon14.htm#fr_186) Latin, *per*, by
+<span id="fn_186"></span>[151:2](oon14.htm#fr_186.md) Latin, *per*, by
 reason of.
 
-<span id="fn_187"></span>[151:3](oon14.htm#fr_187) Latin, *ira*, anger.
+<span id="fn_187"></span>[151:3](oon14.htm#fr_187.md) Latin, *ira*, anger.
 
-<span id="fn_188"></span>[151:4](oon14.htm#fr_188) Romance, *tracer*,
+<span id="fn_188"></span>[151:4](oon14.htm#fr_188.md) Romance, *tracer*,
 follow a road, track.
 
-<span id="fn_189"></span>[152:1](oon14.htm#fr_189) *Contre*, à côté de,
+<span id="fn_189"></span>[152:1](oon14.htm#fr_189.md) *Contre*, à côté de,
 opposite, or near to.
 
-<span id="fn_190"></span>[156:1](oon14.htm#fr_190) Italian, *macellaio*,
+<span id="fn_190"></span>[156:1](oon14.htm#fr_190.md) Italian, *macellaio*,
 butcher, from Latin *macellum*.
 
-<span id="fn_191"></span>[156:2](oon14.htm#fr_191) Romance, *nay*, né,
+<span id="fn_191"></span>[156:2](oon14.htm#fr_191.md) Romance, *nay*, né,
 born.
 
-<span id="fn_192"></span>[159:1](oon14.htm#fr_192) *Pempotam*, a
+<span id="fn_192"></span>[159:1](oon14.htm#fr_192.md) *Pempotam*, a
 shocking word made out of Greek and Latin πᾶν-potens, all powerful.
 
-<span id="fn_193"></span>[159:2](oon14.htm#fr_193) Latin, *Copia*,
+<span id="fn_193"></span>[159:2](oon14.htm#fr_193.md) Latin, *Copia*,
 military forces.
 
-<span id="fn_194"></span>[159:3](oon14.htm#fr_194) Latin, *Lusitani*,
+<span id="fn_194"></span>[159:3](oon14.htm#fr_194.md) Latin, *Lusitani*,
 Portuguese.
 
-<span id="fn_195"></span>[161:1](oon14.htm#fr_195) The full title runs:
+<span id="fn_195"></span>[161:1](oon14.htm#fr_195.md) The full title runs:
 "The Prophecies of Nostradamus concerning the fate of all the Kings and
 Queens of Great Britain since the Reformation, and the succession of his
 present Majesty King George, and the continuation of the British Crown
@@ -1930,7 +1930,7 @@ and explained by D. D., 1715." This book is In the British Museum. I do
 not know whether it is scarce or not. It is not common, for I never meet
 with it in booksellers catalogues.
 
-<span id="fn_196"></span>[164:1](oon14.htm#fr_196) Hume has very ably
+<span id="fn_196"></span>[164:1](oon14.htm#fr_196.md) Hume has very ably
 handled this important question in his Seventh Essay (Hume's
 "Philosophical Works," iii. 373, Edinburgh, 1826). He there sets out
 that it is no modern invention as some have maintained, for the Asiatics
@@ -1998,25 +1998,25 @@ a wrong done might excite a feeling of justice in a neighbour, and so
 induce him to help; or, where justice was weak, fear of similar
 treatment might opportunely bring forth the required aid.
 
-<span id="fn_197"></span>[170:1](oon14.htm#fr_197) *Si*, for très.
+<span id="fn_197"></span>[170:1](oon14.htm#fr_197.md) *Si*, for très.
 
-<span id="fn_198"></span>[172:1](oon14.htm#fr_199) Read, *Qui mettra les
+<span id="fn_198"></span>[172:1](oon14.htm#fr_199.md) Read, *Qui mettra les
 Anglois en déconfiture*.
 
-<span id="fn_199"></span>[175:1](oon14.htm#fr_200) Observe here how very
+<span id="fn_199"></span>[175:1](oon14.htm#fr_200.md) Observe here how very
 different is Clarendon's estimate of James I. from the trash that Sir
 Walter Scott indulges in at the King's expense, in those romances of his
 from which half the world draw their notions of history.
 
-<span id="fn_200"></span>[176:1](oon14.htm#fr_201) Latin, *per*, during.
+<span id="fn_200"></span>[176:1](oon14.htm#fr_201.md) Latin, *per*, during.
 
-<span id="fn_201"></span>[179:1](oon14.htm#fr_202) Variant, le tertre,
+<span id="fn_201"></span>[179:1](oon14.htm#fr_202.md) Variant, le tertre,
 the knoll or rising ground.
 
-<span id="fn_202"></span>[184:1](oon14.htm#fr_203) D. D. reads here *ne
+<span id="fn_202"></span>[184:1](oon14.htm#fr_203.md) D. D. reads here *ne
 dira t-on qu'ouy*, and I think the sense requires it.
 
-<span id="fn_203"></span>[185:1](oon14.htm#fr_204) Historical
+<span id="fn_203"></span>[185:1](oon14.htm#fr_204.md) Historical
 discrepancies ought to be chronicled, for they confuse all
 investigation, and force every conscientious new comer to commence the
 whole work over again. A writer in the "Book of Days" pretends to be
@@ -2031,23 +2031,23 @@ any of them, writes (v. 648, ed. 1731:) "And this now was a day (*i.e.*
 the Friday) very memorable for the greatest storm of wind that had ever
 been known. for some hours before and after his death."
 
-<span id="fn_204"></span>[186:1](oon14.htm#fr_205) This, of course, is
+<span id="fn_204"></span>[186:1](oon14.htm#fr_205.md) This, of course, is
 "living on barley bread," as everybody translates it. I think, however,
 it has reference to the phrase *faire ses orges*, to enrich one's self
 unscrupulously at the expense of others. If that be so, it becomes
 excellently applicable in the present context \[Noël.\] He had sown his
 wild oats, and now began *à faire ses orges*.
 
-<span id="fn_205"></span>[186:2](oon14.htm#fr_206) *Tant*, should, I
+<span id="fn_205"></span>[186:2](oon14.htm#fr_206.md) *Tant*, should, I
 think, be *temps*.
 
-<span id="fn_206"></span>[186:3](oon14.htm#fr_207) Greek, κόπτειν, to
+<span id="fn_206"></span>[186:3](oon14.htm#fr_207.md) Greek, κόπτειν, to
 strike = *coup*; it may even stand here for a *coup d'état*. \[Borel.\]
 
-<span id="fn_207"></span>[186:4](oon14.htm#fr_208) Construction is
+<span id="fn_207"></span>[186:4](oon14.htm#fr_208.md) Construction is
 *mettant à des plus grands le pied sur la gorge*.
 
-<span id="fn_208"></span>[187:1](oon14.htm#fr_209) *Foudre*
+<span id="fn_208"></span>[187:1](oon14.htm#fr_209.md) *Foudre*
 metaphorically, saltpetre, here fireballs. The belief at the time was
 that the fire was the work of incendiaries, and it has never been
 disproved, though it has been ridiculed by those who set up for liberty
@@ -2056,32 +2056,32 @@ thus burnt by others; and it is quite certain that they themselves will
 never set the Thames on fire. What Nostradamus asserts here, history has
 asserted. That is enough for the present purpose.
 
-<span id="fn_209"></span>[187:2](oon14.htm#fr_210) *La dame*.
+<span id="fn_209"></span>[187:2](oon14.htm#fr_210.md) *La dame*.
 Garencières takes this for St. Paul's, once dedicated to Diana, who is
 the ancient dame. We may take it for the mother Church, if we like; and
 it would not be using much violence if we read *le dome*, for that might
 very well mean, as in the Latin, *doma*, house or church, as St. Jerome
 uses it--*Domus Dei*, in fact.
 
-<span id="fn_210"></span>[187:3](oon14.htm#fr_211) Cherra, future of the
+<span id="fn_210"></span>[187:3](oon14.htm#fr_211.md) Cherra, future of the
 verb *choir*, tomber, to fall.
 
-<span id="fn_211"></span>[187:4](oon14.htm#fr_212) *Secte*. By this
+<span id="fn_211"></span>[187:4](oon14.htm#fr_212.md) *Secte*. By this
 Garencières thinks is meant the eighty-seven churches that were burnt
 with St. Paul's, belonging to the same Protestant sect. We might read
 *sorte*.
 
-<span id="fn_212"></span>[188:1](oon14.htm#fr_213) *Luite*, Romance, for
+<span id="fn_212"></span>[188:1](oon14.htm#fr_213.md) *Luite*, Romance, for
 *lutte*, battle.
 
-<span id="fn_213"></span>[188:2](oon14.htm#fr_214) See note on previous
+<span id="fn_213"></span>[188:2](oon14.htm#fr_214.md) See note on previous
 page.
 
-<span id="fn_214"></span>[191:1](oon14.htm#fr_215) Variant, Luy,
+<span id="fn_214"></span>[191:1](oon14.htm#fr_215.md) Variant, Luy,
 *satallites la mort degousteront*.
 
-<span id="fn_215"></span>[191:2](oon14.htm#fr_216) Esteut, or *esleu*.
+<span id="fn_215"></span>[191:2](oon14.htm#fr_216.md) Esteut, or *esleu*.
 
 ------------------------------------------------------------------------
 
-[Next: French Revolution](oon15)
+[Next: French Revolution](oon15.md)

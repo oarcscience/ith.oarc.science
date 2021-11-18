@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws58)  [Next](cws60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws58)  [Next](cws60.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### No. III.
 
-#### CONCERNING HOLY WRIT <span id="fr_194"></span>[1](cws60.htm#fn_194)
+#### CONCERNING HOLY WRIT <span id="fr_194"></span>[1](cws60.htm#fn_194.md)
 
 ALL Scriptures which are the true Word of God, have a dual
 interpretation, the intellectual and the intuitional, the apparent and
@@ -46,4 +46,4 @@ as a stream divided into four branches, a word exceeding rich.
 
 ------------------------------------------------------------------------
 
-[Next: No. IV: Concerning Sin And Death](cws60)
+[Next: No. IV: Concerning Sin And Death](cws60.md)

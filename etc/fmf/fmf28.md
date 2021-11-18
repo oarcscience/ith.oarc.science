@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf27)  [Next](fmf29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf27)  [Next](fmf29.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ a 50-cent Book.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The General Manager of the Love Affair Who Demanded
-a Furlough](fmf29)
+a Furlough](fmf29.md)

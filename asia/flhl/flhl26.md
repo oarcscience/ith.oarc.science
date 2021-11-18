@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl25)  [Next](flhl27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl25)  [Next](flhl27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ Hanauer \[1907\], at Intangible Textual Heritage
 #### FOLKS GENTLE AND SIMPLE
 
 AHMAD Al-muttafakhir, ibn Al-muttashakhim, sheykh of the Fasharìn
-Arabs, <span id="fr_76"></span>[1](#fn_75) was unduly proud of his noble
+Arabs, <span id="fr_76"></span>[1](#fn_75.md) was unduly proud of his noble
 ancestry and constantly boasting of it. One day, when with a caravan on
 its way from Tadmor to Akka, he was speaking on his favourite theme when
 he saw a derwìsh sitting by the roadside staring intently at a white
@@ -48,7 +48,7 @@ day said no more about his noble forefathers.
 
 <span class="contnote">\[paragraph continues\]</span> Subsequently,
 however, as the caravan was passing a village cemetery, he noticed that
-the roof of a burial-vault <span id="fr_77"></span>[1](#fn_76) had
+the roof of a burial-vault <span id="fr_77"></span>[1](#fn_76.md) had
 fallen in, and that the bones of the dead were exposed. Of the skulls
 some were black and brown, others white. "See!" he cried, "even after
 death there is a difference between persons of good stock and those of
@@ -209,11 +209,11 @@ invitation.
 
 ### Footnotes
 
-<span id="fn_75"></span>[141:1](flhl26.htm#fr_76) *i.e.* Ahmad the
+<span id="fn_75"></span>[141:1](flhl26.htm#fr_76.md) *i.e.* Ahmad the
 Conceited, son of the Vainglorious, sheykh of the Boaster Arabs.--ED.
 
-<span id="fn_76"></span>[142:1](flhl26.htm#fr_77) fûstikìyeh.
+<span id="fn_76"></span>[142:1](flhl26.htm#fr_77.md) fûstikìyeh.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Secret of Success](flhl27)
+[Next: II. The Secret of Success](flhl27.md)

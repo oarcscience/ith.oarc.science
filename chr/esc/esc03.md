@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc02)  [Next](esc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc02)  [Next](esc04.md) 
 
 ------------------------------------------------------------------------
 
@@ -548,4 +548,4 @@ Jesus Christ."  *Amen.*
 
 ------------------------------------------------------------------------
 
-[Next: Lecture II. The First Resurrection](esc04)
+[Next: Lecture II. The First Resurrection](esc04.md)

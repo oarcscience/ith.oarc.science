@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll08)  [Next](tll10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll08)  [Next](tll10.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ on the top of the head must have been very large." In this respect he
 went on to say mankind were inferior to these big sea lizards, "for we
 had lost the third eye which might be studied in the common lizard, or
 better in the great blue lizard of the South of France." <span
-id="fr_14"></span>[1](#fn_14)
+id="fr_14"></span>[1](#fn_14.md)
 
 Somewhat before the middle of the Lemurian period, probably during the
 evolution of the third sub-race, the gigantic gelatinous
@@ -49,9 +49,9 @@ presently be referred to.
 
 ### Footnotes
 
-<span id="fn_14"></span>[22:1](tll09.htm#fr_14) The "Standard," 8th
+<span id="fn_14"></span>[22:1](tll09.htm#fr_14.md) The "Standard," 8th
 Jan., 1904.
 
 ------------------------------------------------------------------------
 
-[Next: Description of Lemurian Man](tll10)
+[Next: Description of Lemurian Man](tll10.md)

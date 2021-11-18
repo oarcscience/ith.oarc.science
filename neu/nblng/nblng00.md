@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Next](nblng01) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Next](nblng01.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ responsibility for these changes.--DBK.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](nblng01)
+[Next: Preface](nblng01.md)

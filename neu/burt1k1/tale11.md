@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale10)  [Next](tale12) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale10)  [Next](tale12.md) 
 
 ------------------------------------------------------------------------
 
@@ -190,4 +190,4 @@ forth as they could bear away.
 
   And men also relate the tale of  
 
-(*Next*) [THE SWEEP AND THE NOBLE LADY](tale12)  
+(*Next*) [THE SWEEP AND THE NOBLE LADY](tale12.md)  

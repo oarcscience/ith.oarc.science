@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt65)  [Next](egt67) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt65)  [Next](egt67.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ him.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE ASCETICISM OF THE ASCETIC.](egt67)
+[Next: ON THE ASCETICISM OF THE ASCETIC.](egt67.md)

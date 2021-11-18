@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](botd04)  [Next](botd06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](botd04)  [Next](botd06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Brother of the Third Degree*, by Will L. Garver, \[1894\], at
 Intangible Textual Heritage
 
@@ -330,4 +330,4 @@ Camille to a cab, returned home all agitation and excitement.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. More Mystery](botd06)
+[Next: Chapter V. More Mystery](botd06.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index) 
-[Index](index)  [Previous](pbs01)  [Next](pbs03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index.md) 
+[Index](index)  [Previous](pbs01)  [Next](pbs03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ that is, of "premonitions." I know too many examples among persons of my
 acquaintance, mostly Lowlanders or English, to have any doubt about the
 matter. Hegel was of the same opinion, and was not ashamed to include
 second sight in his vast philosophic system. <span
-id="fr_0"></span>[\*](#fn_0) As to the modus of second sight, "how it is
+id="fr_0"></span>[\*](#fn_0.md) As to the modus of second sight, "how it is
 done," in fact, I have no theory. If there is a psychical element in
 man, if there is something
 
@@ -103,7 +103,7 @@ Greeks, Egyptians, in Fez: water, ink, or blood being also employed to
 <span id="page_xi">p. xi</span>
 
 stare at. The whole topic is discussed in my book already cited, with
-many modern examples. Now I do not, [elsewhere](errata.htm#0), know more
+many modern examples. Now I do not, [elsewhere](errata.htm#0.md), know more
 than one or two cases of this kind of divination in the Highlands. The
 visions are usually spontaneous and uninvoked, except when the seer uses
 the blade-bone of a sheep. In the interests of Folk Lore, or Psychology,
@@ -134,9 +134,9 @@ unearthed failure and imposture, even superstition would be discouraged.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:\*](pbs02.htm#fr_0) "Philosophie der
+<span id="fn_0"></span>[vii:\*](pbs02.htm#fr_0.md) "Philosophie der
 Gheistes," werke vii. 179. Berlin, 1845.
 
 ------------------------------------------------------------------------
 
-[Next: General Introduction](pbs03)
+[Next: General Introduction](pbs03.md)

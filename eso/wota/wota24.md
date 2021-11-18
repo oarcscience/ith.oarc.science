@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](wota23)  [Next](wota25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](wota23)  [Next](wota25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0008BCE64/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0008BCE64/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Wisdom of the Ages*, by George A. Fuller, \[1916\], at Intangible
 Textual Heritage
 
@@ -99,4 +99,4 @@ Truth's golden crown shall grace thy brow.
 
 ------------------------------------------------------------------------
 
-[Next: XXIV](wota25)
+[Next: XXIV](wota25.md)

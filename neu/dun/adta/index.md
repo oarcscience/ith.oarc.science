@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lord Dunsany](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lord Dunsany](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3ST7Y/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3ST7Y/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3ST7Y/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](adta00)    [Text
-\[Zipped\]](adta.txt.gz)
+[Contents](#contents)    [Start Reading](adta00.md)    [Text
+\[Zipped\]](adta.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -39,22 +39,22 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3ST7Y/internetsacredte)
 |---------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
-<span id="contents"></span> [Title Page](adta00)  
-[Contents](adta01)  
-[Preface](adta02)  
-[Poltarnees, Beholder of Ocean](adta03)  
-[Blagdaross](adta04)  
-[The Madness of Andelsprutz](adta05)  
-[Where the Tides Ebb and Flow](adta06)  
-[Bethmoora](adta07)  
-[Idle Days on the Yann](adta08)  
-[The Sword and the Idol](adta09)  
-[The Idle City](adta10)  
-[The Hashish Man](adta11)  
-[Poor Old Bill](adta12)  
-[The Beggars](adta13)  
-[Carcassonne](adta14)  
-[In Zaccarath](adta15)  
-[The Field](adta16)  
-[The Day of the Poll](adta17)  
-[The Unhappy Body](adta18)  
+<span id="contents"></span> [Title Page](adta00.md)  
+[Contents](adta01.md)  
+[Preface](adta02.md)  
+[Poltarnees, Beholder of Ocean](adta03.md)  
+[Blagdaross](adta04.md)  
+[The Madness of Andelsprutz](adta05.md)  
+[Where the Tides Ebb and Flow](adta06.md)  
+[Bethmoora](adta07.md)  
+[Idle Days on the Yann](adta08.md)  
+[The Sword and the Idol](adta09.md)  
+[The Idle City](adta10.md)  
+[The Hashish Man](adta11.md)  
+[Poor Old Bill](adta12.md)  
+[The Beggars](adta13.md)  
+[Carcassonne](adta14.md)  
+[In Zaccarath](adta15.md)  
+[The Field](adta16.md)  
+[The Day of the Poll](adta17.md)  
+[The Unhappy Body](adta18.md)  

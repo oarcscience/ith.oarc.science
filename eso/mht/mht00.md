@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Next](mht01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Next](mht01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -56,31 +56,31 @@ intact in all copies.
 <span id="img_cover"></span>
 
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 
 <span id="img_spine"></span>
 
 [![Spine](tn/spine.jpg)  
-Click to enlarge](img/spine.jpg)  
+Click to enlarge](img/spine.jpg.md)  
 Spine  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_title2"></span>
 
 [![Second Title Page](tn/title2.jpg)  
-Click to enlarge](img/title2.jpg)  
+Click to enlarge](img/title2.jpg.md)  
 Second Title Page  
 
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 <span id="page_6">p. 6</span>
@@ -106,4 +106,4 @@ Enfin avec le poids de l’éloge et du blâme
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](mht01)
+[Next: Table of Contents](mht01.md)

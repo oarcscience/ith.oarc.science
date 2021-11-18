@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi247)  [Next](mtsi249) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi247)  [Next](mtsi249.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ him away.
 
 ------------------------------------------------------------------------
 
-[Next: 49. Crane and Humming Bird](mtsi249)
+[Next: 49. Crane and Humming Bird](mtsi249.md)

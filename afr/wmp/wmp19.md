@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](wmp18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](wmp18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Woman's Mysteries of a Primitive People*, by D. Amaury Talbot,
 \[1915\], at Intangible Textual Heritage
 
@@ -63,7 +63,7 @@ sex antagonism and barren hate. The condition of many an African tribe
 of to-day is in all essentials the same as that through which we
 ourselves once passed in long-forgotten ages. Surely then, on whichever
 side we stand in the vexed question of the hour, <span
-id="fr_48"></span>[1](#fn_48) it is well for us to look back now and
+id="fr_48"></span>[1](#fn_48.md) it is well for us to look back now and
 again and watch how primitive woman held her own, or learn what yet
 remains to be gleaned of the stages by which she rose to dominion over,
 or sank to serfdom beneath, the men of her day.
@@ -174,7 +174,7 @@ indeed soon show a vast improvement.
 
 ### Footnotes
 
-<span id="fn_48"></span>[239:1](wmp19.htm#fr_48) A matter of much
+<span id="fn_48"></span>[239:1](wmp19.htm#fr_48.md) A matter of much
 interest at the time of writing, but now relegated to the half-forgotten
 things of yesterday by the cataclysm which burst upon the world in
 August, 1914.

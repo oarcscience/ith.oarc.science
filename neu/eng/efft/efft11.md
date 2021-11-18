@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft10)  [Next](efft12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft10)  [Next](efft12.md) 
 
 ------------------------------------------------------------------------
 
-# THE LEGEND OF BECKET'S PARENTS.  <span id="fr_12"></span>[1](#fn_12)
+# THE LEGEND OF BECKET'S PARENTS.  <span id="fr_12"></span>[1](#fn_12.md)
 
 IN connection with the renowned Thomas Becket a curious story is related
 of the marriage of his parents. It is said that Gilbert, his father, had
@@ -65,7 +65,7 @@ story of the parents of the renowned archbishop of Canterbury.
 
 ### Footnotes
 
-<span id="fn_12"></span>[1](efft11.htm#fr_12) Chambers's *Book of Days*,
+<span id="fn_12"></span>[1](efft11.htm#fr_12.md) Chambers's *Book of Days*,
 vol. ii. p. 784.--The reader is referred to the graceful poem on the
 subject by Mr. Lewis Morris in the *Songs of Two Worlds*. The old
 ballads mentioned above may be studied with all their known variants in
@@ -73,4 +73,4 @@ Professor Child's *English and Scottish Ballads*, vol. i. p. 454.
 
 ------------------------------------------------------------------------
 
-[Next: The Fause Fable of the Lord Lathom](efft12)
+[Next: The Fause Fable of the Lord Lathom](efft12.md)

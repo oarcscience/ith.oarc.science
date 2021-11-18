@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao78)   
-[Previous](tao77)  [Next](tao79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao78.md)   
+[Previous](tao77)  [Next](tao79.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ take its place.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 79](tao79)
+[Next: Chapter 79](tao79.md)

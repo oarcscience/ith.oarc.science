@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe239)  [Next](prwe241) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe239)  [Next](prwe241.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ Helston.
 
 ------------------------------------------------------------------------
 
-[Next: Towednack Cuckoo Feast](prwe241)
+[Next: Towednack Cuckoo Feast](prwe241.md)

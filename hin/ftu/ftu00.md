@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](ftu01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](ftu01.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_hin.jpg)](index)  
+[![](../img/tn_hin.jpg)](index.md)  
 *From the Upanishads*, by Charles Johnston, \[1899\], at Intangible
 Textual Heritage
 
@@ -64,4 +64,4 @@ Thomas B. Mosher
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ftu01)
+[Next: Contents](ftu01.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cota06)  [Next](cota08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cota06)  [Next](cota08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Consciousness of the Atom*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -494,4 +494,4 @@ of which is a key to a still greater revelation.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture VI. The Goal of Evolution](cota08)
+[Next: Lecture VI. The Goal of Evolution](cota08.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](palf09)  [Next](palf11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](palf09)  [Next](palf11.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ a city which represents a fraction of the territory of a nation.
 
 Imperfect society is of three kinds: the village, the suburb of a city
 and the home. These are merely steps leading to the organization of the
-state. <span id="fr_110"></span>[111](#fn_110)
+state. <span id="fr_110"></span>[111](#fn_110.md)
 
 #### DESCRIPTION OF THE MODEL STATE
 
@@ -57,7 +57,7 @@ traits cannot be found in one man alone, then inquiry should be made to
 determine whether there are two or more who possess the required traits
 jointly. If there are two, they should both rule the model state. If
 there are three, then these three should rule. If more are needed, more
-should rule. <span id="fr_111"></span>[112](#fn_111)
+should rule. <span id="fr_111"></span>[112](#fn_111.md)
 
 Thus the government by one man alone winds up in an aristocratic
 republic.
@@ -82,7 +82,7 @@ that of the ignorant state, even though it knows what is true happiness
 and perfection.
 
 The mistaken state is the state that has wrong ideas about God and
-happiness. <span id="fr_112"></span>[113](#fn_112)
+happiness. <span id="fr_112"></span>[113](#fn_112.md)
 
 Alfarabi, in his conception of the state, shows a mystico-philosophical
 belief in the absorption of the human spirit into the world spirit, and
@@ -103,7 +103,7 @@ and the souls which have been led into error share the fate of the
 citizens of the ignorant state. On the other hand, the good souls will
 enter the world of pure spirits, and the higher their knowledge in this
 life, the higher their position after death. <span
-id="fr_113"></span>[114](#fn_113)
+id="fr_113"></span>[114](#fn_113.md)
 
 I cannot help quoting the following passage where Alfarabi shows these
 good souls in possession of their supreme good:
@@ -118,7 +118,7 @@ another, in the same proportion their happiness increases, for, each
 one, thinking of his substance, thinks of a great many similar
 substances, and the object of such thinking goes on increasing
 indefinitely with the arrival of new souls. <span
-id="fr_114"></span>[115](#fn_114)
+id="fr_114"></span>[115](#fn_114.md)
 
 The political theory of Alfarabi is a mixture of Platonic and
 Aristotelian elements. The main Platonic element is to put all humanity
@@ -155,21 +155,21 @@ welded together into one political organization under a wise ruler.
 
 ### Footnotes
 
-<span id="fn_110"></span>[50:111](palf10.htm#fr_110) Alfarabi,
+<span id="fn_110"></span>[50:111](palf10.htm#fr_110.md) Alfarabi,
 *Political Regime*, op. cit. pp. 77-80.
 
-<span id="fn_111"></span>[51:112](palf10.htm#fr_111) Alfarabi,
+<span id="fn_111"></span>[51:112](palf10.htm#fr_111.md) Alfarabi,
 *Political Regime*, op. cit. pp. 80-89.
 
-<span id="fn_112"></span>[51:113](palf10.htm#fr_112) Alfarabi,
+<span id="fn_112"></span>[51:113](palf10.htm#fr_112.md) Alfarabi,
 *Political Regime*, op. cit., pp. 90-95.
 
-<span id="fn_113"></span>[52:114](palf10.htm#fr_113) Alfarabi,
+<span id="fn_113"></span>[52:114](palf10.htm#fr_113.md) Alfarabi,
 *Political Regime*, op. cit. pp. 93-101.
 
-<span id="fn_114"></span>[52:115](palf10.htm#fr_114) Alfarabi,
+<span id="fn_114"></span>[52:115](palf10.htm#fr_114.md) Alfarabi,
 *Political Regime*, op. cit., pp. 95-96.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](palf11)
+[Next: Conclusion](palf11.md)

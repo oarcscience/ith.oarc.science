@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa08)  [Next](zfa10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa08)  [Next](zfa10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Heritage
 
 <span id="page_79">p. 79</span>
 
-### WHAT IS BUDDHISM? <span id="fr_29"></span>[1](#fn_29)
+### WHAT IS BUDDHISM? <span id="fr_29"></span>[1](#fn_29.md)
 
 IT seems to be very appropriate and even necessary at the outset to draw
 a well-defined line of demarcation between what is understood as
@@ -138,7 +138,7 @@ therefore, things are, they all partake of the nature of the ultimate
 being. Not only sentient beings, but non-sentient beings, reflect the
 glory of the Original Reason. Not only man but even the lower animals
 and inorganic substances manifest the divinity of their source. To use
-the Christian term, God, it <span id="fr_30"></span>[1](#fn_30) is
+the Christian term, God, it <span id="fr_30"></span>[1](#fn_30.md) is
 visible and audible not only in one of its highest manifestations, whom
 Christians call Jesus Christ, but also in the meanest and most
 insignificant piece of stone lying in a deserted field. God's
@@ -284,10 +284,10 @@ well paved?
 
 ### Footnotes
 
-<span id="fn_29"></span>[79:1](zfa09.htm#fr_29) Read before the National
+<span id="fn_29"></span>[79:1](zfa09.htm#fr_29.md) Read before the National
 Geographic Society, Washington, D. C., April, 1906.
 
-<span id="fn_30"></span>[83:1](zfa09.htm#fr_30) Let me remark here that
+<span id="fn_30"></span>[83:1](zfa09.htm#fr_30.md) Let me remark here that
 it is not at all proper to refer to God, the ultimate source of
 everything, as masculine as is usually done. God is above sex. It is
 neither "he" nor "she." Even "it" is not appropriate, but will be
@@ -295,4 +295,4 @@ preferable to the other pronouns.
 
 ------------------------------------------------------------------------
 
-[Next: The Middle Way](zfa10)
+[Next: The Middle Way](zfa10.md)

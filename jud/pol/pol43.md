@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol42)  [Next](pol44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol42)  [Next](pol44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -76,4 +76,4 @@ afterwards. But ever after he was wont to exclaim:
 
 ------------------------------------------------------------------------
 
-[Next: Nothing in the World without its Use](pol44)
+[Next: Nothing in the World without its Use](pol44.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm36)  [Next](bnm38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm36)  [Next](bnm38.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ from that day to this.
 
 ------------------------------------------------------------------------
 
-[Next: How Flax Was Given To Men.](bnm38)
+[Next: How Flax Was Given To Men.](bnm38.md)

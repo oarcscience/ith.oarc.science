@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot08) 
-[Next](laot10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot08.md) 
+[Next](laot10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -147,7 +147,7 @@ gore, though it is made of brass."
 WHILE the sage was engaged in this conversation, messengers and an
 interpreter presented themselves from the king, to say that the king
 would make him his guest for three days, <span
-id="fr_3"></span>[1](#fn_3) because the laws did not allow of strangers
+id="fr_3"></span>[1](#fn_3.md) because the laws did not allow of strangers
 residing in the city for a longer time; and accordingly they conducted
 him into the palace. I have already described the way in which the city
 is walled, but they say that it was divided up into narrow streets in
@@ -382,10 +382,10 @@ you my own history.
 
 ### Footnotes
 
-<span id="fn_3"></span>[1:181:1](laot09.htm#fr_3) Compare the proverb
+<span id="fn_3"></span>[1:181:1](laot09.htm#fr_3.md) Compare the proverb
 "Saepe dies post tres vilescit piscis et hospes," and cp. W. Robertson
 Smith, *Religion of the Semites*, 1901, p. 270.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 31-40](laot10)
+[Next: Chapters 31-40](laot10.md)

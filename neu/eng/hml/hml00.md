@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Next](hml01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Next](hml01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,13 +27,13 @@ of attribution is left intact in all copies.
 <span id="img_front"></span>
 
 [![William of Cloudeslee and his Son](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 William of Cloudeslee and his Son  
 
-\[Page [245](hml15.htm#page_245)\]
+\[Page [245](hml15.htm#page_245.md)\]
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Preface](hml01)
+[Next: Preface](hml01.md)

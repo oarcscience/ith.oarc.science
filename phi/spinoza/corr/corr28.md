@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr27)  [Next](corr29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr27)  [Next](corr29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-### LETTER XXIX.A. <span id="fr_46"></span>[1](#fn_45)
+### LETTER XXIX.A. <span id="fr_46"></span>[1](#fn_45.md)
 
 #### SPINOZA TO LEWIS MEYER.
 
@@ -72,11 +72,11 @@ fourteen or fifteen lines added, which may easily be inserted.
 
 ### Footnotes
 
-<span id="fn_45"></span>[323:1](corr28.htm#fr_46) This letter is not
+<span id="fn_45"></span>[323:1](corr28.htm#fr_46.md) This letter is not
 given in the *Opera Posthuma*, but was preserved in M. Cousin's library
 at the Sorbonne. This version is reprinted, by kind permission, from Mr.
 Pollock's "Spinoza, his Life and Philosophy," Appendix C.
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXX. To Peter Balling](corr29)
+[Next: Letter XXX. To Peter Balling](corr29.md)

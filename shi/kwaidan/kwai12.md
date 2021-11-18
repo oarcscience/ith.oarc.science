@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai11)  [Next](kwai13) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai11)  [Next](kwai13.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ she seen.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of Aoyagi](kwai13)
+[Next: The Story Of Aoyagi](kwai13.md)

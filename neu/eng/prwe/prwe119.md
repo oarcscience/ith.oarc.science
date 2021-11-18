@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe118)  [Next](prwe120) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe118)  [Next](prwe120.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ indignantly rejected by the mass of the residents.
 
 ------------------------------------------------------------------------
 
-[Next: Legends of the Saints](prwe120)
+[Next: Legends of the Saints](prwe120.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvbk08)  [Next](wyvbk10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvbk08)  [Next](wyvbk10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -175,7 +175,7 @@ Brihaspati.
 May Vâk the Goddess give to us. All-hail!  
 30 Thee by the radiant Savitar's impulsion, with arms of  
 Asvins, with the hands of Pûshan.  
-To [Vâk](errata.htm#3) Sarasvatî's controlling guidance, hers the
+To [Vâk](errata.htm#3.md) Sarasvatî's controlling guidance, hers the
 controlling  
 leader, I consign thee.  
 I with Brihaspati's supreme dominion endow thee by the  
@@ -257,4 +257,4 @@ of us the Brâhmans.
 
 ------------------------------------------------------------------------
 
-[Next: Book X](wyvbk10)
+[Next: Book X](wyvbk10.md)

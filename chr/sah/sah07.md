@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah06)  [Next](sah08) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah06)  [Next](sah08.md) 
 
 ------------------------------------------------------------------------
 
@@ -1331,4 +1331,4 @@ and him glorified.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII - Footsteps of Truth](sah08) 
+[Next: Chapter VIII - Footsteps of Truth](sah08.md) 

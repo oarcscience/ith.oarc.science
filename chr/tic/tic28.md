@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic27)  [Next](tic29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic27)  [Next](tic29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -56,9 +56,9 @@ painful, is yet tolerable.
 2\. While the soul is thus inflamed with love, i t often happens that,
 from a passing thought or spoken word of how death delays its coming,
 the heart receives, it knows not how or whence, a blow as from a fiery
-dart. <span id="fr_377"></span>[1](#fn_377) I do not say that this
+dart. <span id="fr_377"></span>[1](#fn_377.md) I do not say that this
 actually is a 'dart,' but, whatever it may be, decidedly it does not
-come from any part of our being. <span id="fr_378"></span>[2](#fn_378)
+come from any part of our being. <span id="fr_378"></span>[2](#fn_378.md)
 Neither is it really a 'blow' though I call it one, but it wounds us
 severely--not, I think, in that part of our nature subject to physical
 pain but in the very depths and centre of the soul, where this,
@@ -95,7 +95,7 @@ increased ever so little God would satisfy the soul's desire for death.
 Not that any pain is felt by the body at the moment, although, as I
 said, all the joints are dislocated so that for two or three days
 afterwards the suffering is too severe for the person to have even the
-strength to hold a pen; <span id="fr_379"></span>[3](#fn_379) indeed I
+strength to hold a pen; <span id="fr_379"></span>[3](#fn_379.md) indeed I
 believe that the health becomes permanently enfeebled in consequence. At
 the time this is not felt, probably because the spiritual torments are
 so much more keen that the bodily ones remain unnoticed; just as when
@@ -123,7 +123,7 @@ earth nor mount to heaven; she is unable to reach the water while
 parched with thirst and this is not a thirst that can be borne, but one
 which nothing will quench nor would she have it quenched save with that
 water of which our Lord spoke to the Samaritan woman, but this is not
-given to her. <span id="fr_380"></span>[4](#fn_380)
+given to her. <span id="fr_380"></span>[4](#fn_380.md)
 
 6\. Alas, O Lord, to what a state dost Thou bring those who love Thee!
 Yet these sufferings are as nothing compared with the reward Thou wilt
@@ -133,7 +133,7 @@ give for them. It is right that great riches should be
 
 dearly bought. Moreover, her pains purify her soul so that it may enter
 the seventh mansion, as purgatory cleanses spirits which are to enter
-heaven: <span id="fr_381"></span>[5](#fn_381) then indeed these trials
+heaven: <span id="fr_381"></span>[5](#fn_381.md) then indeed these trials
 will appear like a drop of water compared to the sea. Though this
 torment and grief could not, I think, be surpassed by any earthly cross
 (so at least this person said and she had endured much both in body and
@@ -149,7 +149,7 @@ submission to the divine will and the resignation and consolation God
 gives such a soul and the solace of knowing that their pains benefit
 them, for the damned will continually suffer more and more; (more and
 more, I mean in regard to accidental pains <span
-id="fr_382"></span>[6](#fn_382)) . The soul feels far more keenly than
+id="fr_382"></span>[6](#fn_382).md) . The soul feels far more keenly than
 the body and the torments I have
 
 <span id="page_257">p. 257</span>
@@ -175,7 +175,7 @@ consciousness. This occurred when she unexpectedly heard some verses to
 the effete that life seemed unending; she was engaged in conversation at
 the time, which was on the last day of Easter. All Eastertide she had
 suffered such aridity as hardly to realize what mystery was being
-celebrated. <span id="fr_383"></span>[7](#fn_383)
+celebrated. <span id="fr_383"></span>[7](#fn_383.md)
 
 <span id="page_258">p. 258</span>
 
@@ -188,16 +188,16 @@ are near, but they and all earthly things seem to her but shadows. To
 show you that, should you ever be in this state, it is possible for your
 weakness and human nature to be of help to you, I may tell you that at
 times, when a person seems dying from her desire for death <span
-id="fr_384"></span>[8](#fn_384) which so oppresses her soul with grief
+id="fr_384"></span>[8](#fn_384.md) which so oppresses her soul with grief
 that it appears on the point of leaving her body, yet her mind,
 terrified at the thought, tries to still its pain so as to keep death at
 bay. Evidently this fear arises from human infirmity, for the soul's
 longings for death do not abate meanwhile nor can its sorrows be stilled
 or allayed until God brings it comfort. <span
-id="fr_385"></span>[9](#fn_385) This He usually does by a deep trance or
+id="fr_385"></span>[9](#fn_385.md) This He usually does by a deep trance or
 by some vision whereby the true Comforter consoles and strengthens the
 heart, which thus becomes resigned to live as long as He wills. <span
-id="fr_386"></span>[10](#fn_386)
+id="fr_386"></span>[10](#fn_386.md)
 
 <span id="page_259">p. 259</span>
 
@@ -206,7 +206,7 @@ within the soul, which loses all fear of any crosses it may henceforth
 meet with, for in comparison with the acute anguish it has gone through
 all else seems nothing. Seeing what she has gained, the sufferer would
 gladly endure frequently the same pains <span
-id="fr_387"></span>[11](#fn_387) but can do nothing to help herself in
+id="fr_387"></span>[11](#fn_387.md) but can do nothing to help herself in
 the matter. There are no means of reaching that state again until God
 chooses to decree it, when neither resistance nor escape is possible.
 The mind feels far deeper contempt for the world than before, realizing
@@ -214,7 +214,7 @@ that nothing earthly can succour it in its torture; it is also much more
 detached from creatures, having learnt that no one but its Creator can
 bring it consolation and strength. It is more anxious and careful not to
 offend God, seeing that He can torment as well as comfort. <span
-id="fr_388"></span>[12](#fn_388)
+id="fr_388"></span>[12](#fn_388.md)
 
 11\. Two things in this spiritual state seem to me to endanger
 life,--one is that of which I have just spoken which is a real peril and
@@ -228,12 +228,12 @@ the body, which indeed would bring it no small joy.
 courage was needed for these favours and that when any one asks for them
 from our Lord He may well reply, as He did to the sons of Zebedee: 'Can
 you drink the chalice that I shall drink?' <span
-id="fr_389"></span>[13](#fn_389) I believe, sisters, we should all
+id="fr_389"></span>[13](#fn_389.md) I believe, sisters, we should all
 answer 'Yes'--and we should be perfectly right for His Majesty gives
 strength when He sees it needed: He ever defends such souls and answers
 for them when they are persecuted and slandered as He did for the
 Magdalen--if not in words, at least in deeds. <span
-id="fr_390"></span>[14](#fn_390) At last, ah, at last! before they die
+id="fr_390"></span>[14](#fn_390.md) At last, ah, at last! before they die
 He repays them for all they have suffered, as you shall now learn. May
 He be for ever blessed and may all creatures praise Him! Amen.
 
@@ -241,26 +241,26 @@ He be for ever blessed and may all creatures praise Him! Amen.
 
 ### Footnotes
 
-<span id="fn_377"></span>[253:1](tic28.htm#fr_377) *Life*, ch. xxix. 17.
+<span id="fn_377"></span>[253:1](tic28.htm#fr_377.md) *Life*, ch. xxix. 17.
 (Transverberation.)
 
-<span id="fn_378"></span>[253:2](tic28.htm#fr_378) *Ibid*. ch. xxix. 13,
+<span id="fn_378"></span>[253:2](tic28.htm#fr_378.md) *Ibid*. ch. xxix. 13,
 14. *Rel*. viii. 16-19.
 
-<span id="fn_379"></span>[254:3](tic28.htm#fr_379) St. John of the
+<span id="fn_379"></span>[254:3](tic28.htm#fr_379.md) St. John of the
 Cross, *Obscure Night*, bk. ii. ch. i. (*in fine*); *Spiritual
 Canticle*, stanza xiii; xiv-xv. (*in fine*). When this happened to St.
 Teresa she was unable to write for twelve days. Ribera, *Acta SS*. p.
 555 (*in fine*). *Rel*. viii. 13. *Life*, ch. xx. 16.
 
-<span id="fn_380"></span>[255:4](tic28.htm#fr_380) St. John iv. 15.
+<span id="fn_380"></span>[255:4](tic28.htm#fr_380.md) St. John iv. 15.
 *Life*, ch. xxx. 24. *Way of Perf.* ch. xix. 4 *sqq*. *Concept*. ch.
 vii. 7, 8. *Found*. ch. xxxi. 42. See note, *Life*, ch. i. 6.
 
-<span id="fn_381"></span>[256:5](tic28.htm#fr_381) St. John of the
+<span id="fn_381"></span>[256:5](tic28.htm#fr_381.md) St. John of the
 Cross, *Obscure Night*, bk. ii. ch. xii.
 
-<span id="fn_382"></span>[256:6](tic28.htm#fr_382) Marginal note in the
+<span id="fn_382"></span>[256:6](tic28.htm#fr_382.md) Marginal note in the
 Saint's handwriting. The 'substantial' pain of hell consists in the
 irrevocable loss of God, our last end and supreme Good; this is incurred
 from the first moment in its fullest intensity and therefore cannot
@@ -272,7 +272,7 @@ evil actions, and therefore increases in the same proportion. Thus a
 heresiarch will suffer keener accidental pain as more and more souls are
 lost through his false teaching.
 
-<span id="fn_383"></span>[257:7](tic28.htm#fr_383) *Rel*. iv. 1.
+<span id="fn_383"></span>[257:7](tic28.htm#fr_383.md) *Rel*. iv. 1.
 *Concept*. ch. vii. 2. Isabel of Jesus, in her deposition in the Acts of
 Canonisation (Fuente, *Obras*, vol. vi. 316) declares that she was the
 singer. The words were:
@@ -293,14 +293,14 @@ There is a slight difference in the two relations of this occurrence. In
 evening, but here she says distinctly: 'Pascua de Resurreccion, el
 postrer dia,' that is, on Easter Tuesday, April 17, 1571, at Salamanca.
 
-<span id="fn_384"></span>[258:8](tic28.htm#fr_384) Compare the words
+<span id="fn_384"></span>[258:8](tic28.htm#fr_384.md) Compare the words
 'Que muero porque no muero' in the *Glosa* of St. Teresa. *Way of Perf*.
 ch. xlii . 2. *Castle*, M. vii. ch. iii. 14.
 
-<span id="fn_385"></span>[258:9](tic28.htm#fr_385) *Way of Perf.* ch.
+<span id="fn_385"></span>[258:9](tic28.htm#fr_385.md) *Way of Perf.* ch.
 xix. 10. *Excl*. vi.; xii. a.; xiv.
 
-<span id="fn_386"></span>[258:10](tic28.htm#fr_386) See the two versions
+<span id="fn_386"></span>[258:10](tic28.htm#fr_386.md) See the two versions
 of the poems written by the Saint on her recovery from the trance into
 which she was thrown, beginning 'Vivir sin vivir in me' and the poem,
 'Cuan triste es, Dios mio' (Poems 2, 3, and 4, English version). See
@@ -320,18 +320,18 @@ That the Beloved should be mine own,
 
 </div>
 
-<span id="fn_387"></span>[259:11](tic28.htm#fr_387) *Rel*. viii. 17.
+<span id="fn_387"></span>[259:11](tic28.htm#fr_387.md) *Rel*. viii. 17.
 
-<span id="fn_388"></span>[259:12](tic28.htm#fr_388) *Acta SS*. p. 64, n.
+<span id="fn_388"></span>[259:12](tic28.htm#fr_388.md) *Acta SS*. p. 64, n.
 229.
 
-<span id="fn_389"></span>[260:13](tic28.htm#fr_389) St. Matt. xx. 22:
+<span id="fn_389"></span>[260:13](tic28.htm#fr_389.md) St. Matt. xx. 22:
 'Potestis bibere calicem quem ego bibiturus sum?'
 
-<span id="fn_390"></span>[260:14](tic28.htm#fr_390) St. Matt. xxvi. to:
+<span id="fn_390"></span>[260:14](tic28.htm#fr_390.md) St. Matt. xxvi. to:
 St. Mark xiv. 6; St. John xii. 7. *Way of Perf*. ch. xvi. 7; xvii. 4.
 *Excl*. v. 2-4.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. God's Presence Chamber](tic29)
+[Next: Chapter I. God's Presence Chamber](tic29.md)

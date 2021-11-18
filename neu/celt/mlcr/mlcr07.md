@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mlcr06)  [Next](mlcr08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mlcr06)  [Next](mlcr08.md) 
 
 ------------------------------------------------------------------------
 
@@ -854,4 +854,4 @@ folks of Ireland after him."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: Myths and Tales of the Cymry](mlcr08)
+[Next: Chapter VIII: Myths and Tales of the Cymry](mlcr08.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](bfd38)  [Next](bfd40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](bfd38)  [Next](bfd40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402152167/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402152167/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Filial Duty*, by Ivan Chen, \[1908\], at Intangible Textual
 Heritage
 
@@ -49,4 +49,4 @@ the forest.
 
 ------------------------------------------------------------------------
 
-[Next: No. XIX: He slept on Ice to procure Carp](bfd40)
+[Next: No. XIX: He slept on Ice to procure Carp](bfd40.md)

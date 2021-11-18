@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl26)  [Next](isl28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl26)  [Next](isl28.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ The poor resign themselves to *We do decide*. (Sūra 43:31)
 Oh God, all other men are drunk with wine:  
 The wine-bearer is my fever.  
 Their drunkenness lasts but a night,  
-While mine abides forever. <span id="fr_115"></span>[36](#fn_115)
+While mine abides forever. <span id="fr_115"></span>[36](#fn_115.md)
 
  
 
@@ -126,7 +126,7 @@ Was but Myself toward Myself: and your
 Arrival but *Myself* at my own Door:  
 . . . Rays that have wander’d into Darkness wide  
 Return, and back into your Sun subside <span
-id="fr_116"></span>[37](#fn_116)
+id="fr_116"></span>[37](#fn_116.md)
 
  
 
@@ -181,7 +181,7 @@ Of happiness and misery
 Unto this place, that is thy home,  
 In thy enjoyment of the Truth  
 Do thou of anguish and of ruth  
-    Ask not: <span id="fr_117"></span>[38](#fn_117)
+    Ask not: <span id="fr_117"></span>[38](#fn_117.md)
 
 *Ibn al-Fāriḍ*: A contemporary and friend of Ibn al-‘Arabī was ‘Umar ibn
 al-Fāriḍ of Cairo (died A.H. 632/A.D. 1235), the greatest mystical poet
@@ -233,7 +233,7 @@ And where at dawn with softly-trailing skirts
 The zephyr brings to me his balm most sweet;  
 And when in kisses from the flagon's mouth  
 I suck wine-dew beneath a pleasant shade <span
-id="fr_118"></span>[39](#fn_118)
+id="fr_118"></span>[39](#fn_118.md)
 
 . . . O happy, happy night in which thy vision  
 I hunted after with my net of waking!  
@@ -258,7 +258,7 @@ Beguile not me, thyself by my Beloved
 Distraught, in whom thou seem’st but an idea.  
 . . . My heart confessed His love One: then my turning  
 To thee were dualism, a creed I like not." <span
-id="fr_119"></span>[40](#fn_119)
+id="fr_119"></span>[40](#fn_119.md)
 
  
 
@@ -333,7 +333,7 @@ Yet he who is raw cannot understand ripeness,
 Therefore my words must be brief:  
 Arise, oh my son, burst thy bonds and be free!  
 How long wilt thou be fettered with gold and silver? <span
-id="fr_120"></span>[41](#fn_120)
+id="fr_120"></span>[41](#fn_120.md)
 
  
 
@@ -368,7 +368,7 @@ If once in this world I win a moment with thee,
 I will trample on both worlds, I will dance in triumph forever.  
 Oh Shamsī Tabrīz, I am so drunken in this world,  
 That except of drunkenness and revelry I have no tale to tell. <span
-id="fr_121"></span>[42](#fn_121)
+id="fr_121"></span>[42](#fn_121.md)
 
 Up, O ye lovers, and away! 'Tis time to leave the world for aye.  
 Hark, loud and clear from heaven the drum of parting calls--let none
@@ -387,7 +387,7 @@ O weary life that weighest naught, O sleep that on my soul dost weigh!
 O heart, towards thy heart's love wend, and O friend, fly toward the
 Friend,  
 Be watchful, watchman, to the end: drowse seemingly no watchman
-may. <span id="fr_122"></span>[43](#fn_122)
+may. <span id="fr_122"></span>[43](#fn_122.md)
 
  
 
@@ -422,7 +422,7 @@ That whosoever should appear from afar, I should think it was thou.
 
 An irreverent bystander interrupted him with the question, "Suppose it
 were an ass?" "I should think it was thou," replied Jāmī <span
-id="fr_123"></span>[44](#fn_123)."
+id="fr_123"></span>[44](#fn_123.md)."
 
  
 
@@ -432,7 +432,7 @@ accused his fellow poets of plagiarism.
 We poets, Sāgharī maintains,  
 Steal his ideas and pen them.  
 It must be true--I've read his poems:  
-There's not an idea in them. <span id="fr_124"></span>[45](#fn_124)
+There's not an idea in them. <span id="fr_124"></span>[45](#fn_124.md)
 
 <span id="page_167">p. 167</span>
 
@@ -482,44 +482,44 @@ Vain and unreal. Silence! for this tale
 Is endless, and no eloquence hath power  
 To speak of Him. 'Tis best for us to love,  
 And suffer silently, being as naught. <span
-id="fr_125"></span>[46](#fn_125)
+id="fr_125"></span>[46](#fn_125.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_115"></span>[168:36](isl27.htm#fr_115) A. J. Arberry,
+<span id="fn_115"></span>[168:36](isl27.htm#fr_115.md) A. J. Arberry,
 *Islamic Culture* (India, 1936), pp. 369-389.
 
-<span id="fn_116"></span>[168:37](isl27.htm#fr_116) Edward Fitzgerald,
+<span id="fn_116"></span>[168:37](isl27.htm#fr_116.md) Edward Fitzgerald,
 *Mantiq al-Tayr* in Collected Works, p. 196.
 
-<span id="fn_117"></span>[168:38](isl27.htm#fr_117) ‘Aṭṭār, *Diwān*,
+<span id="fn_117"></span>[168:38](isl27.htm#fr_117.md) ‘Aṭṭār, *Diwān*,
 trans. by A. J. Arberry in *Immortal Rose* (London, 1948), pp. 32, 33.
 
-<span id="fn_118"></span>[168:39](isl27.htm#fr_118) From his *Diwān*,
+<span id="fn_118"></span>[168:39](isl27.htm#fr_118.md) From his *Diwān*,
 trans. by Nicholson in Studies in Islamic Mysticism, pp. 175, 176.
 
-<span id="fn_119"></span>[168:40](isl27.htm#fr_119) *Ibid*., p. 174.
+<span id="fn_119"></span>[168:40](isl27.htm#fr_119.md) *Ibid*., p. 174.
 
-<span id="fn_120"></span>[168:41](isl27.htm#fr_120) Editor's
+<span id="fn_120"></span>[168:41](isl27.htm#fr_120.md) Editor's
 translation.
 
-<span id="fn_121"></span>[168:42](isl27.htm#fr_121) R. A. Nicholson, ed.
+<span id="fn_121"></span>[168:42](isl27.htm#fr_121.md) R. A. Nicholson, ed.
 & trans., *Divānī Shamsi Tabrīz* (Cambridge, 1898), p. 125.
 
-<span id="fn_122"></span>[168:43](isl27.htm#fr_122) *Ibid*., Appendix
+<span id="fn_122"></span>[168:43](isl27.htm#fr_122.md) *Ibid*., Appendix
 II.
 
-<span id="fn_123"></span>[168:44](isl27.htm#fr_123) E. G. Browne,
+<span id="fn_123"></span>[168:44](isl27.htm#fr_123.md) E. G. Browne,
 *Literary History of Persia* (Cambridge, 1928), Vol. III, p. 511.
 
-<span id="fn_124"></span>[168:45](isl27.htm#fr_124) Quoted in Browne,
+<span id="fn_124"></span>[168:45](isl27.htm#fr_124.md) Quoted in Browne,
 *op. cit.* Editor's translation.
 
-<span id="fn_125"></span>[168:46](isl27.htm#fr_125) E. G. Browne, *A
+<span id="fn_125"></span>[168:46](isl27.htm#fr_125.md) E. G. Browne, *A
 Year Amongst the Persians* (Cambridge, 1926, 1950), pp. 137 ff.
 
 ------------------------------------------------------------------------
 
-[Next: 5. The Dervishes](isl28)
+[Next: 5. The Dervishes](isl28.md)

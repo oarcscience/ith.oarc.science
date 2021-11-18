@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi227)  [Next](mtsi229) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi227)  [Next](mtsi229.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,15 +56,15 @@ young pokeweed standing there, which you must cut off and split in two.
 Look into it and you will see something inside. Take it with you, and
 with it you can kill anything you desire. Don't kill me! (i. e.,
 bears?)" But the orphan was very sad. <span
-id="fr_59"></span>[1](#fn_59)
+id="fr_59"></span>[1](#fn_59.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_59"></span>[192:1](mtsi228.htm#fr_59) There Is a little
+<span id="fn_59"></span>[192:1](mtsi228.htm#fr_59.md) There Is a little
 more to this story which my informant had forgotten.
 
 ------------------------------------------------------------------------
 
-[Next: 29. The Bear's Revenge](mtsi229)
+[Next: 29. The Bear's Revenge](mtsi229.md)

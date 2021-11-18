@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal130)  [Next](njal132) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal130)  [Next](njal132.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ and Helgi. He never abused his foes, and never threatened them.
 
 ------------------------------------------------------------------------
 
-[Next: 132. Flosi's Dream](njal132)
+[Next: 132. Flosi's Dream](njal132.md)

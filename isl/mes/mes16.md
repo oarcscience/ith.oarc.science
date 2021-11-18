@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes15)  [Next](mes17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes15)  [Next](mes17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,14 +21,14 @@ Textual Heritage
 ### I.
 
 <span id="img_m00400"></span> ![The Prince and the
-Handmaid](img/m00400.jpg)
+Handmaid](img/m00400.jpg.md)
 
 <span class="smallcaps">A prince</span> there was, long since in time it
 is.  
 Of Church and State the power and wealth were his.  
 The chase on horse one day to follow, bent;'  
 With pompous courtier-train afield he went.  
-A handmaid <span id="fr_58"></span>[1](#fn_57) fair was wand’ring near a
+A handmaid <span id="fr_58"></span>[1](#fn_57.md) fair was wand’ring near a
 grove.  
 Her he espied, and straightway fell in love.  
 His heart was snared; her form its cage, its stall.  
@@ -55,11 +55,11 @@ To search the case; to ease the maiden's ill.
 
 <span id="page_m5">p. 5</span>
 
-"Each one of us has Jesu's <span id="fr_59"></span>[1](#fn_58) healing
+"Each one of us has Jesu's <span id="fr_59"></span>[1](#fn_58.md) healing
 power.  
 Of all their ills we cure men every hour."  
 Through pride, "God willing" said they not, I trow. <span
-id="fr_60"></span>[2](#fn_59)  
+id="fr_60"></span>[2](#fn_59.md)  
 Man's nothingness, in them the Lord would show.  
 That is to say—to leave out this good word  
 Is sin; said by mere rote, it will not please the Lord,  
@@ -78,7 +78,7 @@ As naphtha feeds a fire, drinks brought but thirst.
 
 The prince no sooner saw their art was vain,  
 Than barefoot sped, heaven's *worship-house* <span
-id="fr_61"></span>[3](#fn_60) to gain. <span class="margnote"><span
+id="fr_61"></span>[3](#fn_60.md) to gain. <span class="margnote"><span
 id="an_20">20</span></span>  
 The holy altar, there, he bowed before;  
 With flood of tears he bathed its sacred floor.  
@@ -146,14 +146,14 @@ Food without toil, food gratis, without stint. <span
 class="margnote"><span id="an_45">45</span></span>  
 Some graceless scoffers out of Moses’ host  
 Dared to demand the onions, lentils lost. <span
-id="fr_62"></span>[1](#fn_61)  
+id="fr_62"></span>[1](#fn_61.md)  
 Such toilless food then ceased to fall from Heaven;  
 To dig, to sow, to reap, in lieu is given.  
 Fresh suit, much later, Jesus made; God willed;  
 Again food rife became; men's dishes filled.  
 That food's a gift from Heaven is clearly said,  
 In Jesu's prayer: "Give us our daily bread." <span
-id="fr_63"></span>[2](#fn_62)  
+id="fr_63"></span>[2](#fn_62.md)  
 Men's bold presumption Heaven again incensed,  
 When basketsful to beggars were dispensed. <span class="margnote"><span
 id="an_50">50</span></span>  
@@ -286,7 +286,7 @@ paint; elsewhere it may be best.
 He cries: "O succour me; I faint, I pant;  
 And quickly; lest delay the dagger plant!"
 
-The Mystic <span id="fr_64"></span>[1](#fn_63) true relieves each
+The Mystic <span id="fr_64"></span>[1](#fn_63.md) true relieves each
 moment's need;  
 "To-morrow " ’s not a point in his pure creed.  
 Art not persuaded so? The proverb scan:  
@@ -312,7 +312,7 @@ The sun that lights and warms this nether world,
 If brought too near, had all to ruin hurled. <span
 class="margnote"><span id="an_110">110</span></span>  
 Seek not to sow dissension in the earth;  
-Vaunt not the Sun of Tebrīz’ <span id="fr_65"></span>[1](#fn_64) holy
+Vaunt not the Sun of Tebrīz’ <span id="fr_65"></span>[1](#fn_64.md) holy
 birth.  
 Contention's never-ending. Better far,  
 Commit to memory this wordy war.
@@ -406,7 +406,7 @@ Our holy Prophet's sacred maxim ’twas:
 The seed to earth committed sure must be,  
 Ere field or garden's pride men may it see.  
 If gold and silver were not hard to find,  
-How could they grow? <span id="fr_66"></span>[1](#fn_65) They soon would
+How could they grow? <span id="fr_66"></span>[1](#fn_65.md) They soon would
 be out-mined."
 
 The good physician's soothing words perceived,  
@@ -534,14 +534,14 @@ hope, or fear, or baser lure.
 The doctor kill’d him, not to please our prince;  
 Him some divine suggestion did convince.  
 The story of the child by angel slain <span
-id="fr_67"></span>[1](#fn_66)  
+id="fr_67"></span>[1](#fn_66.md)  
 Cannot be fully grasped by minds too plain.  
 A saint that acts on Heaven's high behest,  
 Can never do amiss; ’tis always best.  
 He who can pardon, he may also doom;  
 He's God's vicegerent; acts in Heaven's room.  
 As Ishmaël beneath his father's knife, <span
-id="fr_68"></span>[2](#fn_67)  
+id="fr_68"></span>[2](#fn_67.md)  
 <span class="margnote"><span id="an_200">200</span></span> Do thou for
 such a prince lay down thy life;
 
@@ -566,7 +566,7 @@ No prince, a wolf he'd been, rav’ning the land.
 From lust, greed, foul caprice, his soul was free;  
 So did God will, whate’er the cause may be.  
 Elias sank his ship in full design; <span
-id="fr_69"></span>[1](#fn_68)  
+id="fr_69"></span>[1](#fn_68.md)  
 That wreck to future blessings was the sign.  
 Moses was shock’d thereat, with all his skill  
 And inspiration. Thou must needs judge ill. <span class="margnote"><span
@@ -599,52 +599,52 @@ justice, men of sense will shrink.
 
 ### Footnotes
 
-<span id="fn_57"></span>[m4:1](mes16.htm#fr_58) In Islām a free person
+<span id="fn_57"></span>[m4:1](mes16.htm#fr_58.md) In Islām a free person
 cannot legally be bought and sold.
 
-<span id="fn_58"></span>[m5:1](mes16.htm#fr_59) By way of hyperbole, a
+<span id="fn_58"></span>[m5:1](mes16.htm#fr_59.md) By way of hyperbole, a
 clever physician is always compared to Jesus, in his miraculous healing
 powers, by Muslims.
 
-<span id="fn_59"></span>[m5:2](mes16.htm#fr_60) Qur’ān xviii. 23,
+<span id="fn_59"></span>[m5:2](mes16.htm#fr_60.md) Qur’ān xviii. 23,
 teaches: "Say not, 'I will do so and so,' unless (thou add): 'God
 willing.'"
 
-<span id="fn_60"></span>[m5:3](mes16.htm#fr_61) Divine service in Islam
+<span id="fn_60"></span>[m5:3](mes16.htm#fr_61.md) Divine service in Islam
 is entirely worship and praise. It is erroneous to talk of Muslims
 saying their prayers. Praise, laud, and glory is what they are bound to
 offer. Prayer is voluntary; and is prohibited, unless in some duly
 authorised form as a collect.
 
-<span id="fn_61"></span>[m7:1](mes16.htm#fr_62) Qur’ān ii. 58.
+<span id="fn_61"></span>[m7:1](mes16.htm#fr_62.md) Qur’ān ii. 58.
 
-<span id="fn_62"></span>[m7:2](mes16.htm#fr_63) Qur’ān ii. 114.
+<span id="fn_62"></span>[m7:2](mes16.htm#fr_63.md) Qur’ān ii. 114.
 
-<span id="fn_63"></span>[m10:1](mes16.htm#fr_64) The word "sūfī," used
+<span id="fn_63"></span>[m10:1](mes16.htm#fr_64.md) The word "sūfī," used
 in the original, is probably the Greek σοφόι but is explained as
 meaning, literally; "*clad in woollen*," from "sūf," *wool*.
 Metaphorically, in common use, it means: *a pious man*.
 
-<span id="fn_64"></span>[m11:1](mes16.htm#fr_65) The holy Sheykh
+<span id="fn_64"></span>[m11:1](mes16.htm#fr_65.md) The holy Sheykh
 Shemsu-’d-Dīn, of Tebrīz, is meant; who was a friend of the author for
 many years, visiting Qonya at intervals, where he was put to death (in
 <span class="smallcaps">a.d.</span> 1262?). See the "Anecdotes," Chap.
 iv.; especially No. 17.
 
-<span id="fn_65"></span>[m13:1](mes16.htm#fr_66) It was generally
+<span id="fn_65"></span>[m13:1](mes16.htm#fr_66.md) It was generally
 believed in bygone days that gems and metals grew and ripened in their
 mines.
 
-<span id="fn_66"></span>[m16:1](mes16.htm#fr_67) The story is in Qur’ān
+<span id="fn_66"></span>[m16:1](mes16.htm#fr_67.md) The story is in Qur’ān
 xviii. 73. The angel was disguised as a servant to Moses. The passage
 says: "And they two proceeded until they met a boy; and he slew him."
 
-<span id="fn_67"></span>[m16:2](mes16.htm#fr_68) With Muslims, Ishmaël
+<span id="fn_67"></span>[m16:2](mes16.htm#fr_68.md) With Muslims, Ishmaël
 was to have been sacrificed; not Isaac. The Qur’ān xxxvii. 98-111,
 relates the story, but gives no name to the "boy." Commentators supply
 it, by tradition.
 
-<span id="fn_68"></span>[m17:1](mes16.htm#fr_69) A continuation of the
+<span id="fn_68"></span>[m17:1](mes16.htm#fr_69.md) A continuation of the
 story from Qur’ān xviii. 70. Some commentators make Elias the servant of
 Moses on the occasion. There is a tale in one of the essayists of last
 century,—the "Spectator," if I rightly remember,—that gives these two
@@ -653,4 +653,4 @@ secret causes of all his actions.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Oilman and the Parrot](mes17)
+[Next: II. The Oilman and the Parrot](mes17.md)

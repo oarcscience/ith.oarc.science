@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos29)  [Next](kos31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos29)  [Next](kos31.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ Angels:--Shemeshiel, Paimoniah, Rekhodiah, and Malkhiel.
 
 ------------------------------------------------------------------------
 
-[Next: Plate VIII](kos31)
+[Next: Plate VIII](kos31.md)

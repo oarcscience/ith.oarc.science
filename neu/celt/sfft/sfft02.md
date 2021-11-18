@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft01)  [Next](sfft03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft01)  [Next](sfft03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -434,7 +434,7 @@ likeness as she knew them of old. Her prayer is heard, and answered.
 "It fell about the Martinmas,  
   When nights are lang and mirk, <span id="page_22">p. 22</span>  
 The carline wife's three sons cam' hame,  
-  And their hats were o' the birk. <span id="fr_0"></span>[1](#fn_0)
+  And their hats were o' the birk. <span id="fr_0"></span>[1](#fn_0.md)
 
 It neither grew in syke nor glen,  
   Nor yet in ony sheuch;  
@@ -621,7 +621,7 @@ they abound.
 
 After Cunningham comes Campbell of Isla, born in 1822. He was of gentle
 birth, but understood, and sympathised with the peasantry. A proficient
-in the Gaelic [language](errata.htm#0), he went about on foot among the
+in the Gaelic [language](errata.htm#0.md), he went about on foot among the
 people of the West Highlands and Islands--like a sort of Romany Rye, or
 like Catskin, the Wandering Young Gentleman of the *Garland*--and got
 them to tell him stories, which he accurately noted down. In his
@@ -751,7 +751,7 @@ tellers of the Tales of the Scottish Peasantry. Art is not
 only a thing of bound volumes and of exhibitions; and the Scottish
 peasant has shown perhaps as keen a sense of it--of the story-teller's
 art, at least--as his mental development and the conditions of his
-existence would admit. <span id="fr_1"></span>[1](#fn_1)
+existence would admit. <span id="fr_1"></span>[1](#fn_1.md)
 
 GEORGE DOUGLAS.                  
 
@@ -759,15 +759,15 @@ GEORGE DOUGLAS.                  
 
 ### Footnotes
 
-<span id="fn_0"></span>[22:1](sfft02.htm#fr_0) That is, the birch. A
+<span id="fn_0"></span>[22:1](sfft02.htm#fr_0.md) That is, the birch. A
 "syke" is a marshy bottom, with a small stream in it. A "sheuch" is a
 sort of swamp. The small natural birch-tree, common in a hill-country,
 is often found on such ground.
 
-<span id="fn_1"></span>[33:1](sfft02.htm#fr_1) The substance of this
+<span id="fn_1"></span>[33:1](sfft02.htm#fr_1.md) The substance of this
 Introduction was delivered as a Lecture at the Royal Institution,
 January 29th, 1892.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Green Men of Glen Nevis.](sfft03)
+[Next: The Three Green Men of Glen Nevis.](sfft03.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](msi02)  [Next](msi04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](msi02)  [Next](msi04.md) 
 
 ------------------------------------------------------------------------
 
@@ -179,4 +179,4 @@ But happy are the dead Shiptons wife sayes*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fourth](msi04)
+[Next: Chapter Fourth](msi04.md)

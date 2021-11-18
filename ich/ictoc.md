@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](ictp)  [Next](icpref) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](ictp)  [Next](icpref.md) 
 
 ------------------------------------------------------------------------
 
@@ -603,4 +603,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface](icpref)
+[Next: Preface](icpref.md)

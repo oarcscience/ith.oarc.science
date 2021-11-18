@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht01)  [Next](cht03) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht01)  [Next](cht03.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ been preserved as nearly as possible.
 
 ------------------------------------------------------------------------
 
-[Next: Alphabet](cht03)
+[Next: Alphabet](cht03.md)

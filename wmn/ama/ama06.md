@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](ama05)  [Next](ama07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](ama05)  [Next](ama07.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 [![SECTION OF MONSOLUS FRIEZE, COMBAT OF GREEKS AND AMAZONS. BRITISH
 MUSEUM.](tn/08500.jpg)  
-Click to enlarge](img/08500.jpg)  
+Click to enlarge](img/08500.jpg.md)  
 SECTION OF MONSOLUS FRIEZE, COMBAT OF GREEKS AND AMAZONS. BRITISH
 MUSEUM.  
 
@@ -246,7 +246,7 @@ therefore, have been only short-flight darts, intended for
 <span id="img_09200"></span>
 
 [![FRIEZE OF TEMPLE OF APOLLO FROM PHIGALEIA.](tn/09200.jpg)  
-Click to enlarge](img/09200.jpg)  
+Click to enlarge](img/09200.jpg.md)  
 FRIEZE OF TEMPLE OF APOLLO FROM PHIGALEIA.  
 
  
@@ -297,4 +297,4 @@ on the Danube.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Amazons of Europe](ama07)
+[Next: Chapter VI: Amazons of Europe](ama07.md)

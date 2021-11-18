@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng39)  [Next](vlsng41) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng39)  [Next](vlsng41.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIX: The End of Atli and his Kin and Folk.](vlsng41)
+[Next: Chapter XXXIX: The End of Atli and his Kin and Folk.](vlsng41.md)

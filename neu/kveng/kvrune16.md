@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)   
-[Finnish](../kvfin/16)   
-[Previous](kvrune15)  [Next](kvrune17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index.md)   
+[Finnish](../kvfin/16.md)   
+[Previous](kvrune15)  [Next](kvrune17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z82C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Kalevala*, by John Martin Crawford, \[1888\], at Intangible Textual
 Heritage
 
@@ -518,4 +518,4 @@ Shun the kingdom of Tuoui!"
 
 ------------------------------------------------------------------------
 
-[Next: Rune XVII. Wainamoinen Finds the Lost-word.](kvrune17)
+[Next: Rune XVII. Wainamoinen Finds the Lost-word.](kvrune17.md)

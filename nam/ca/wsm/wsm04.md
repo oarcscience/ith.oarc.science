@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm03)  [Next](wsm05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm03)  [Next](wsm05.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ can get it out by making a fire drill of the brush.
 ------------------------------------------------------------------------
 
 [Next: The Theft of Pine Nuts (Saline Valley, California.
-Shoshoni)](wsm05)
+Shoshoni)](wsm05.md)

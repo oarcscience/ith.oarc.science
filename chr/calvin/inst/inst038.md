@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst037)  [Next](inst039) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst037)  [Next](inst039.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,11 +71,11 @@ clear that man, though he sins necessarily, nevertheless sins
 voluntarily. But since, from his being brought into bondage to the
 devil, it would seem that he is actuated more by the devil’s will than
 his own, it is necessary, first, to explain what the agency of each is,
-and then solve the question,17  <span id="fr_166"></span>[167](#fn_166)
+and then solve the question,17  <span id="fr_166"></span>[167](#fn_166.md)
 Whether in bad actions anything is to be attributed to God, Scripture
 intimating that there is some way in which he interferes? Augustine (in
 <span id="iv.ii.v-p14.1"></span>[Psalm
-31](../../../bib/kjv/psa031.htm#000)<span id="iv.ii.v-p14.1"></span> and
+31](../../../bib/kjv/psa031.htm#000.md)<span id="iv.ii.v-p14.1"></span> and
 33) compares the human will to a horse preparing to start, and God and
 the devil to riders. “If God mounts, he, like a temperate and skilful
 rider, guides it calmly, urges it when too slow, reins it in when too
@@ -97,7 +97,7 @@ the light of the glorious gospel of Christ, who is the image of God,
 should shine into them.” And, in another passage, he describes the devil
 as “the spirit that now worketh in the children of disobedience,” (<span
 id="iv.ii.v-p14.2"></span>[Eph.
-2:2](../../../bib/kjv/eph002.htm#002)<span id="iv.ii.v-p14.2"></span>).
+2:2](../../../bib/kjv/eph002.htm#002)<span id="iv.ii.v-p14.2"></span>.md).
 The blinding of the wicked, and all the iniquities consequent upon it,
 are called the works of Satan; works the cause of which is not to be
 Sought in anything external to the will of man, in which the root of the
@@ -108,7 +108,7 @@ words, sin, is fixed.
 cases is very different. For the purpose of illustration, let us refer
 to the calamities brought upon holy Job by the Chaldeans. They having
 slain his shepherds, carry off his flocks. The wickedness of their deed
-is manifest,17  <span id="fr_167"></span>[168](#fn_167) as is also the
+is manifest,17  <span id="fr_167"></span>[168](#fn_167.md) as is also the
 hand of Satan, who, as the history informs us, was the instigator of the
 whole. Job, however, recognises it as the work of God, saying, that what
 the Chaldeans had plundered, “the Lord” had “taken away.” How can we
@@ -149,7 +149,7 @@ not to the operation of God, but to prescience (Lib. de Predestina. et
 Gratia). But this subtilty is repudiated by many passages of Scriptures
 which clearly show that the divine interference amounts to something
 more than prescience. And Augustine himself, in his book against
-Julian,17  <span id="fr_168"></span>[169](#fn_168) contends at length
+Julian,17  <span id="fr_168"></span>[169](#fn_168.md) contends at length
 that sins are manifestations not merely of divine permission or
 patience, but also of divine power, that thus former sins may be
 punished. In like manner, what is said of permission is too weak to
@@ -172,12 +172,12 @@ because the Lord “had hardened his spirit, and made his heart
 obstinate,” he immediately adds the purpose which God had in view—viz.
 that he might deliver him into their hand (<span
 id="iv.ii.v-p18.1"></span>[Deut.
-2:30](../../../bib/kjv/deu002.htm#030)<span id="iv.ii.v-p18.1"></span>).
+2:30](../../../bib/kjv/deu002.htm#030)<span id="iv.ii.v-p18.1"></span>.md).
 As God had resolved to destroy him, the hardening of his heart was the
 divine preparation for his ruin.
 
 <span id="iv.ii.v-p19"></span>4. In accordance with the former methods
-it seems to be said,17  <span id="fr_169"></span>[170](#fn_169) “The law
+it seems to be said,17  <span id="fr_169"></span>[170](#fn_169.md) “The law
 shall perish from the priests and counsel from the ancients.” “He
 poureth contempt upon princes, and causeth them to wander in the
 wilderness, where there is no way.” Again “O Lord, why hast thou made us
@@ -195,10 +195,10 @@ region come forth against them. How were they instigated? Moses
 certainly declares of Sihon, that it was the Lord who “had hardened his
 spirit, and made his heart obstinate,” (<span
 id="iv.ii.v-p20.5"></span>[Deut.
-2:30](../../../bib/kjv/deu002.htm#030)<span id="iv.ii.v-p20.5"></span>).
+2:30](../../../bib/kjv/deu002.htm#030)<span id="iv.ii.v-p20.5"></span>.md).
 The Psalmists relating the same history says, “He turned their hearts to
 hate his people,” (<span id="iv.ii.v-p20.6"></span>[Psalm
-105:25](../../../bib/kjv/psa105.htm#025)<span
+105:25](../../../bib/kjv/psa105.htm#025.md)<span
 id="iv.ii.v-p20.6"></span>). You cannot now say that they stumbled
 merely because they were deprived of divine counsel. For if they are
 *hardened* and *turned*, they are purposely bent to the very end in
@@ -211,7 +211,7 @@ from the end of the earth;” at another, that he will take a net to
 ensnare them; and at another, that he will be like a hammer to strike
 them. But he specially declared that he was not inactive among theme
 when he called Sennacherib an axe, which was formed and destined to be
-wielded by his own hand.17  <span id="fr_170"></span>[171](#fn_170)
+wielded by his own hand.17  <span id="fr_170"></span>[171](#fn_170.md)
 Augustine is not far from the mark when he states the matter thus, That
 men sin, is attributable to themselves: that in sinning they produce
 this or that result, is owing to the mighty power of God, who divides
@@ -223,7 +223,7 @@ his providence, has any purpose to accomplish in them, will sufficiently
 appear from a single passage. It is repeatedly said in the First Book of
 Samuel, that an evil spirit from the Lord came upon Saul, and troubled
 him (<span id="iv.ii.v-p22.1"></span>[1 Sam.
-16:14](../../../bib/kjv/sa1016.htm#014)<span id="iv.ii.v-p22.1"></span>;
+16:14](../../../bib/kjv/sa1016.htm#014.md)<span id="iv.ii.v-p22.1"></span>;
 18:10; 19:9). It were impious to apply this to the Holy Spirit. An
 impure spirit must therefore be called a spirit from the Lord, because
 completely subservient to his purpose, being more an instrument in
@@ -231,8 +231,8 @@ acting than a proper agent. We should also add what Paul says, “God
 shall send them strong delusion, that they should believe a lie: that
 they all might be damned who believed not the truth,” (<span
 id="iv.ii.v-p22.2"></span>[2 Thess.
-2:11](../../../bib/kjv/th2002.htm#011),
-[12](../../../bib/kjv/th2002.htm#012)<span id="iv.ii.v-p22.2"></span>).
+2:11](../../../bib/kjv/th2002.htm#011.md),
+[12](../../../bib/kjv/th2002.htm#012)<span id="iv.ii.v-p22.2"></span>.md).
 But in the same transaction there is always a wide difference between
 what the Lord does, and what Satan and the ungodly design to do. The
 wicked instruments which he has under his hand and can turn as he
@@ -268,7 +268,7 @@ compel us to place human choice in subordination to his special
 influence. Who gave the Israelites such favour in the eyes of the
 Egyptians, that they lent them all their most valuable commodities?
 (<span id="iv.ii.v-p23.1"></span>[Exod.
-11:3](../../../bib/kjv/exo011.htm#003)<span id="iv.ii.v-p23.1"></span>).
+11:3](../../../bib/kjv/exo011.htm#003)<span id="iv.ii.v-p23.1"></span>.md).
 They never would have been so inclined of their own accord. Their
 inclinations, therefore, were more overruled by God than regulated by
 themselves. And surely, had not Jacob been persuaded that God inspires
@@ -276,33 +276,33 @@ men with divers affections as seemeth to him good, he would not have
 said of his son Joseph (whom he thought to be some heathen Egyptian),
 “God Almighty give you mercy before the man,” (<span
 id="iv.ii.v-p23.2"></span>[Gen.
-43:14](../../../bib/kjv/gen043.htm#014)<span
+43:14](../../../bib/kjv/gen043.htm#014.md)<span
 id="iv.ii.v-p23.2"></span>). In like manner, the whole Church confesses
 that when the Lord was pleased to pity his people, he made them also to
 be pitied of all them that carried them captives (<span
 id="iv.ii.v-p23.3"></span>[Ps.
-106:46](../../../bib/kjv/psa106.htm#046)<span
+106:46](../../../bib/kjv/psa106.htm#046.md)<span
 id="iv.ii.v-p23.3"></span>). In like manner, when his anger was kindled
 against Saul, so that he prepared himself for battle, the cause is
 stated to have been, that a spirit from God fell upon him (<span
 id="iv.ii.v-p23.4"></span>[1 Sam.
-11:6](../../../bib/kjv/sa1011.htm#006)<span id="iv.ii.v-p23.4"></span>).
+11:6](../../../bib/kjv/sa1011.htm#006)<span id="iv.ii.v-p23.4"></span>.md).
 who dissuaded Absalom from adopting the counsel of Ahithophel, which was
 wont to be regarded as an oracle? (<span id="iv.ii.v-p23.5"></span>[2
-Sam. 17:14](../../../bib/kjv/sa2017.htm#014)<span
+Sam. 17:14](../../../bib/kjv/sa2017.htm#014.md)<span
 id="iv.ii.v-p23.5"></span>). Who disposed Rehoboam to adopt the counsel
 of the young men? (<span id="iv.ii.v-p23.6"></span>[1 Kings
-12:10](../../../bib/kjv/kg1012.htm#010)<span
+12:10](../../../bib/kjv/kg1012.htm#010.md)<span
 id="iv.ii.v-p23.6"></span>). Who caused the approach of the Israelites
 to strike terror into nations formerly distinguished for valour? Even
 the harlot Rahab recognised the hand of the Lord. Who, on the other
 hand, filled the hearts of the Israelites with fear and dread (<span
 id="iv.ii.v-p23.7"></span>[Lev.
-26:36](../../../bib/kjv/lev026.htm#036)<span
+26:36](../../../bib/kjv/lev026.htm#036.md)<span
 id="iv.ii.v-p23.7"></span>), but He who threatened in the Law that he
 would give them a nn “trembling heart”? (<span
 id="iv.ii.v-p23.8"></span>[Deut.
-28:65](../../../bib/kjv/deu028.htm#065)<span
+28:65](../../../bib/kjv/deu028.htm#065.md)<span
 id="iv.ii.v-p23.8"></span>).
 
 <span id="iv.ii.v-p24"></span>7. It may be objected, that these are
@@ -317,16 +317,16 @@ and in matters of no great difficulty, your courage flags; at other
 times, in matters of the greatest obscurity, the mode of explicating
 them at once suggests itself, while in matters of moment and danger,
 your mind rises superior to every difficulty.17  <span
-id="fr_171"></span>[172](#fn_171) In this way, I interpret the words of
+id="fr_171"></span>[172](#fn_171.md) In this way, I interpret the words of
 Solomon, “The hearing ear, and the seeing eye, the Lord hath made even
 both of them,” (<span id="iv.ii.v-p25.1"></span>[Prov.
-20:12](../../../bib/kjv/pro020.htm#012)<span
+20:12](../../../bib/kjv/pro020.htm#012.md)<span
 id="iv.ii.v-p25.1"></span>). For they seem to me to refer not to their
 creation, but to peculiar grace in the use of them, when he says, “The
 king’s heart is in the hand of the Lord as the rivers of water; he
 turneth it whithersoever he will,” (<span
 id="iv.ii.v-p25.2"></span>[Prov.
-21:1](../../../bib/kjv/pro021.htm#001)<span id="iv.ii.v-p25.2"></span>),
+21:1](../../../bib/kjv/pro021.htm#001)<span id="iv.ii.v-p25.2"></span>.md),
 he comprehends the whole race under one particular class. If any will is
 free from subjection, it must be that of one possessed of regal power,
 and in a manner exercising dominion over other wills. But if it is under
@@ -352,19 +352,19 @@ internally resolved, but whether, in any matter whatever, he has a free
 power of judging and of willing. If men possess both of these, Attilius
 Regulus, shut up in a barrel studded with sharp nails, will have a will
 no less free than Augustus Caesar ruling with imperial sway over a large
-portion of the globe.17  <span id="fr_172"></span>[173](#fn_172)
+portion of the globe.17  <span id="fr_172"></span>[173](#fn_172.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_166"></span>[167](inst038.htm#fr_166) <span
+<span id="fn_166"></span>[167](inst038.htm#fr_166.md) <span
 id="iv.ii.v-p13.1"></span>
 
 <span id="iv.ii.v-p14"></span>73 173 The French adds, “dont on doute
 communement;” on which doubts are commonly entertained.
 
-<span id="fn_167"></span>[168](inst038.htm#fr_167) <span
+<span id="fn_167"></span>[168](inst038.htm#fr_167.md) <span
 id="iv.ii.v-p15.1"></span>
 
 <span id="iv.ii.v-p16"></span>74 174 The French adds, “Car quand nous
@@ -373,48 +373,48 @@ doutons point de leur imputer la faute, et de les condamner.”—For when
 we see robbers who have committed some murder or robbery, we hesitate
 not to impute the blame to them, and condemn them.
 
-<span id="fn_168"></span>[169](inst038.htm#fr_168) <span
+<span id="fn_168"></span>[169](inst038.htm#fr_168.md) <span
 id="iv.ii.v-p17.1"></span>
 
 <span id="iv.ii.v-p18"></span>75 175 The French adds, “se retractant de
 l’autre sentence;” retracting the other sentiment.
 
-<span id="fn_169"></span>[170](inst038.htm#fr_169) <span
+<span id="fn_169"></span>[170](inst038.htm#fr_169.md) <span
 id="iv.ii.v-p19.1"></span>
 
 <span id="iv.ii.v-p20"></span>76 176 <span
 id="iv.ii.v-p20.1"></span>[Ezek.
-7:26](../../../bib/kjv/eze007.htm#026)<span id="iv.ii.v-p20.1"></span>;
+7:26](../../../bib/kjv/eze007.htm#026.md)<span id="iv.ii.v-p20.1"></span>;
 <span id="iv.ii.v-p20.2"></span>[Psalm
-107:40](../../../bib/kjv/psa107.htm#040)<span
+107:40](../../../bib/kjv/psa107.htm#040.md)<span
 id="iv.ii.v-p20.2"></span>; <span id="iv.ii.v-p20.3"></span>[Job
-12:20](../../../bib/kjv/job012.htm#020),
-[24](../../../bib/kjv/job012.htm#024)<span id="iv.ii.v-p20.3"></span>;
+12:20](../../../bib/kjv/job012.htm#020.md),
+[24](../../../bib/kjv/job012.htm#024.md)<span id="iv.ii.v-p20.3"></span>;
 Isiah 63:17; <span id="iv.ii.v-p20.4"></span>[Exod.
-4:21](../../../bib/kjv/exo004.htm#021)<span id="iv.ii.v-p20.4"></span>;
+4:21](../../../bib/kjv/exo004.htm#021.md)<span id="iv.ii.v-p20.4"></span>;
 7:3; 10:1; 3:19.
 
-<span id="fn_170"></span>[171](inst038.htm#fr_170) <span
+<span id="fn_170"></span>[171](inst038.htm#fr_170.md) <span
 id="iv.ii.v-p20.7"></span>
 
 <span id="iv.ii.v-p21"></span>77 177 <span
 id="iv.ii.v-p21.1"></span>[Isa.
-5:26](../../../bib/kjv/isa005.htm#026)<span id="iv.ii.v-p21.1"></span>;
+5:26](../../../bib/kjv/isa005.htm#026.md)<span id="iv.ii.v-p21.1"></span>;
 7:18; <span id="iv.ii.v-p21.2"></span>[Ezek.
-12:13](../../../bib/kjv/eze012.htm#013)<span id="iv.ii.v-p21.2"></span>;
+12:13](../../../bib/kjv/eze012.htm#013.md)<span id="iv.ii.v-p21.2"></span>;
 17:20; <span id="iv.ii.v-p21.3"></span>[Jer.
-2](../../../bib/kjv/jer002.htm#000)<span id="iv.ii.v-p21.3"></span>:.23;
+2](../../../bib/kjv/jer002.htm#000.md)<span id="iv.ii.v-p21.3"></span>:.23;
 <span id="iv.ii.v-p21.4"></span>[Isa.
-10:15](../../../bib/kjv/isa010.htm#015)<span id="iv.ii.v-p21.4"></span>.
+10:15](../../../bib/kjv/isa010.htm#015.md)<span id="iv.ii.v-p21.4"></span>.
 
-<span id="fn_171"></span>[172](inst038.htm#fr_171) <span
+<span id="fn_171"></span>[172](inst038.htm#fr_171.md) <span
 id="iv.ii.v-p24.1"></span>
 
 <span id="iv.ii.v-p25"></span>78 178 The French adds, “D’où procede cela
 sinon que Dieu besongne tant d’une part que d’autre?”—Whence this, but
 that God interferes thus far in either case?
 
-<span id="fn_172"></span>[173](inst038.htm#fr_172) <span
+<span id="fn_172"></span>[173](inst038.htm#fr_172.md) <span
 id="iv.ii.v-p26.1"></span>
 
 <span id="iv.ii.v-p27"></span>79 179 The French is simply, “Car si cela
@@ -425,4 +425,4 @@ would be no less free shut up in a prison than ruling all the earth.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 5. - THE ARGUMENTS USUALLY ALLEGED IN SUPPORT OF FREE
-WILL REFUTED.](inst039)
+WILL REFUTED.](inst039.md)

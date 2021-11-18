@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](hau10)  [Next](hau12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](hau10)  [Next](hau12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hausa Folk-Lore*, by Maalam Shaihua, tr. by R. Sutherland Rattray,
 \[1913\], at Intangible Textual Heritage
 
@@ -224,6 +224,6 @@ Off with the rat's head.
 ------------------------------------------------------------------------
 
 [Next: 8. A story about a witch, and how the baby of the family
-outwitted her, and invented the first walled town](hau12)
+outwitted her, and invented the first walled town](hau12.md)
 
 </div>

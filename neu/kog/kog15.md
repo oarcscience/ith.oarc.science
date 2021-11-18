@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog14)  [Next](kog16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog14)  [Next](kog16.md) 
 
 ------------------------------------------------------------------------
 
@@ -230,4 +230,4 @@ went to seek his fortune elsewhere.
 
 ------------------------------------------------------------------------
 
-[Next: 13. The Waternick](kog16)
+[Next: 13. The Waternick](kog16.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](hag)  [Next](mal) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](hag)  [Next](mal.md) 
 
 ------------------------------------------------------------------------
 
@@ -886,4 +886,4 @@ Kanaani a muri ake nei i roto i te whare o Ihowa o nga mano i taua ra.
 
 ------------------------------------------------------------------------
 
-[Next: Malachi](mal)
+[Next: Malachi](mal.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop07)  [Next](pop09) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop07)  [Next](pop09.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ one will rejoice through thee.'
 
 ------------------------------------------------------------------------
 
-[Next: The Fourth Figure](pop09)
+[Next: The Fourth Figure](pop09.md)

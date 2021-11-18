@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst04)  [Next](mst06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst04)  [Next](mst06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 <span id="img_05400"></span> <span align="CENTER"> [![ Etching made by a
 woman of Salon, from the portrait bust by César Nostradamus, son of the
 prophet.](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)  
+Click to enlarge](img/05400.jpg.md)  
 Etching made by a woman of Salon, from the portrait bust by César
 Nostradamus, son of the prophet.  
 </span>
@@ -63,7 +63,7 @@ upon the most transcendent period-piece ever played by man. Chivalry,
 antiquity, and the beginnings of a different social order were mingling
 in a new civilization that was already ornamented with every splendor
 and blackened with every crime. Conquerors, alchemists, poets, lovers
-and [heretics](errata.htm#2) played their fiery roles in velvets and
+and [heretics](errata.htm#2.md) played their fiery roles in velvets and
 gems, plumes and armor, scholar's robe and monkish gown, against a
 background of deep, sensual reds, primeval greens and the blue of Mary's
 mantle. Chaos, war, unrest drove the scenes forward with climax topping
@@ -873,4 +873,4 @@ His power will smite the countries along his way.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four: Garlands of Fame](mst06)
+[Next: Chapter Four: Garlands of Fame](mst06.md)

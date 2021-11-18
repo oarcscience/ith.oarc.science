@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](slaa13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](slaa13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sun Lore of All Ages*, by William Tyler Olcott, \[1914\], at Intangible
 Textual Heritage
 
@@ -95,7 +95,7 @@ The symbol of the sun at Sippara was a small circle with four triangular
 rays, the four angles between being occupied by radiating lines, and the
 whole circumscribed by a larger circle. The same symbol occurs
 repeatedly upon the shell gorgets of the ancient Mound-Builders of the
-western continent. <span id="fr_85"></span>[1](#fn_85)
+western continent. <span id="fr_85"></span>[1](#fn_85.md)
 
 <span id="page_290">p. 290</span>
 
@@ -141,7 +141,7 @@ other of the hawk, the symbol of the <span id="img_29100"></span>
 
 |                                     |
 |-------------------------------------|
-| ![The Scarab Beetle](img/29100.jpg) |
+| ![The Scarab Beetle](img/29100.jpg.md) |
 
 Sun-God Horus, holding in its claws a globe emblematic of the universe.
 This scarab has been thought to symbolise The Scarab the rising sun, and
@@ -197,7 +197,7 @@ force during its annual revolution, the zodiacal sign Leo being called
 the "abode of the Sun."
 
 The Egyptians, Hindus, Chaldeans, Persians, and Celts all regarded the
-lion as a solar symbol. Brown <span id="fr_86"></span>[1](#fn_86) tells
+lion as a solar symbol. Brown <span id="fr_86"></span>[1](#fn_86.md) tells
 us: "In the inscriptions of Daryavush I. at El-Khargeh, the oasis of
 Ammon, in the Libyan desert, the great god Amen-Ra, the Invisible god
 revealed in the sun god, is addressed as 'the Lion of the double lions.'
@@ -241,10 +241,10 @@ and in the Bembini table, a frog is figured squatting on the floating
 lotus leaf in place of the man or child.
 
 The Egyptians also represented the sun and moon, Osiris and Isis, as the
-ox and the cow, and Lady Wilde <span id="fr_87"></span>[1](#fn_87) tells
+ox and the cow, and Lady Wilde <span id="fr_87"></span>[1](#fn_87.md) tells
 us that these were used at the Irish wake ceremonials until very
 recently. "There is perhaps," says Faber, <span
-id="fr_88"></span>[2](#fn_88) "no part of the Gentile world in which the
+id="fr_88"></span>[2](#fn_88.md) "no part of the Gentile world in which the
 bull and the cow were not highly reverenced, and considered in the light
 of holy and mysterious symbols. Among the Chinese, the great father
 Fohi, whose whole history proves him to be the scriptural Noah, is
@@ -268,7 +268,7 @@ ocean, borne in a golden cup, originated, we are told, from the
 circumstance of the yellow or golden cup of the lotus being employed to
 represent the ship of the Sun. Indeed, in Hindustan, the cup of the
 lotus and the ship of the Sun-God Siva mean the same thing. "So
-strongly," says Faber, <span id="fr_89"></span>[1](#fn_89) "was the idea
+strongly," says Faber, <span id="fr_89"></span>[1](#fn_89.md) "was the idea
 of a mariner sun impressed upon the minds of the ancient Pagans, that
 they even transferred it to the sphere. Not content with making the sun
 sail over the ocean in a ship, they considered the whole solar system as
@@ -349,7 +349,7 @@ erected columns of stone elaborately carved. These symbolised the sun,
 and as Réville puts it, "The sun traces each day the shadow of these
 monoliths upon the soil. He appears to caress and love them, regarding
 them as his fellow-workers in measuring time." <span
-id="fr_90"></span>[1](#fn_90)
+id="fr_90"></span>[1](#fn_90.md)
 
 Many of the mystic signs common to pagan worship are in evidence to-day,
 "and the High Churchman decorates the edifice in which he
@@ -357,7 +357,7 @@ Many of the mystic signs common to pagan worship are in evidence to-day,
 <span id="page_300">p. 300</span>
 
 officiates with symbols similar to those which awed the worshippers of
-Ashur, Ishtar, or the sun." <span id="fr_91"></span>[1](#fn_91)
+Ashur, Ishtar, or the sun." <span id="fr_91"></span>[1](#fn_91.md)
 
 Chief among these ecclesiastical solar symbols is the cross, symbol of
 the Christian faith, a symbol that antedated the birth of Christ, and
@@ -455,7 +455,7 @@ the Lion coming round devours him whilst thus defenceless. This is the
 explanation of the myth. The Lion-Sun flies from the rising
 Unicorn-Moon, and hides behind the Tree or Grove of the Under-world, the
 Moon pursues, and sinking in his turn, is caught in this mysterious
-Tree, and sunslain." <span id="fr_92"></span>[1](#fn_92)
+Tree, and sunslain." <span id="fr_92"></span>[1](#fn_92.md)
 
 In many escutcheons are to be seen solar symbols already referred to,
 as, for instance, in the cut, the escutcheon of a Greek-letter
@@ -487,7 +487,7 @@ Brown tells us that "Masonic tradition is but one of the numerous
 ancient allegories of the yearly passage of the personified sun among
 the twelve constellations of the zodiac, being founded on a system of
 astronomical symbols and emblems, employed to teach the great truths of
-omnipotent God and immortality." <span id="fr_93"></span>[1](#fn_93) Its
+omnipotent God and immortality." <span id="fr_93"></span>[1](#fn_93.md) Its
 symbolism, therefore, is closely associated with solar symbolism and
 interesting to note in this connection. The word "Masonry" is said to be
 derived from a Greek word which signifies "I am in the midst of heaven,"
@@ -595,32 +595,32 @@ antiquarians alike.
 
 ### Footnotes
 
-<span id="fn_85"></span>[289:1](slaa14.htm#fr_85) The Moqui Indian
+<span id="fn_85"></span>[289:1](slaa14.htm#fr_85.md) The Moqui Indian
 Symbol of the sun is a Greek cross with a small circle in the centre, in
 which are three marks to indicate the eyes and mouth of a face.
 
-<span id="fn_86"></span>[293:1](slaa14.htm#fr_86) *The Lion and the
+<span id="fn_86"></span>[293:1](slaa14.htm#fr_86.md) *The Lion and the
 Unicorn*, Robert Brown, Jr.
 
-<span id="fn_87"></span>[295:1](slaa14.htm#fr_87) *Ancient Legends of
+<span id="fn_87"></span>[295:1](slaa14.htm#fr_87.md) *Ancient Legends of
 Ireland*, Lady Wilde.
 
-<span id="fn_88"></span>[295:2](slaa14.htm#fr_88) *The Origin of Pagan
+<span id="fn_88"></span>[295:2](slaa14.htm#fr_88.md) *The Origin of Pagan
 Idolatry*, George Stanley Faber.
 
-<span id="fn_89"></span>[296:1](slaa14.htm#fr_89) *The Origin of Pagan
+<span id="fn_89"></span>[296:1](slaa14.htm#fr_89.md) *The Origin of Pagan
 Idolatry*, George Stanley Faber.
 
-<span id="fn_90"></span>[299:1](slaa14.htm#fr_90) *Native Races of
+<span id="fn_90"></span>[299:1](slaa14.htm#fr_90.md) *Native Races of
 Mexico and Peru*, Albert Réville.
 
-<span id="fn_91"></span>[300:1](slaa14.htm#fr_91) *Ancient Faiths*,
+<span id="fn_91"></span>[300:1](slaa14.htm#fr_91.md) *Ancient Faiths*,
 Thomas Inman.
 
-<span id="fn_92"></span>[303:1](slaa14.htm#fr_92) *The Unicorn*, Robert
+<span id="fn_92"></span>[303:1](slaa14.htm#fr_92.md) *The Unicorn*, Robert
 Brown, Jr.
 
-<span id="fn_93"></span>[304:1](slaa14.htm#fr_93) *Stellar Theology*,
+<span id="fn_93"></span>[304:1](slaa14.htm#fr_93.md) *Stellar Theology*,
 Robert Brown, Jr.
 
  

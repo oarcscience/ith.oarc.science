@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft02)  [Next](meft04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft02)  [Next](meft04.md) 
 
 ------------------------------------------------------------------------
 
 # Hereafterthis
 
 <span id="img_002"></span> [![](tn/002.jpg)  
-Click to enlarge](img/002.jpg)
+Click to enlarge](img/002.jpg.md)
 
 ONCE upon a time there was a farmer called Jan, and he lived all alone
 by himself in a little farmhouse.
@@ -136,4 +136,4 @@ and they lived happy ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The Golden Ball](meft04)
+[Next: The Golden Ball](meft04.md)

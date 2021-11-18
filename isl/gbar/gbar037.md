@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar036) [Next](gbar038)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar036) [Next](gbar038.md)
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ alone our God, to whom pertaineth glory and honour for ever.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar038)
+[Next](gbar038.md)

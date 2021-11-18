@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw14)  [Next](tfgw16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw14)  [Next](tfgw16.md) 
 
 ------------------------------------------------------------------------
 
@@ -356,4 +356,4 @@ The Three Sisters and Their Husbands, Three Brothers
 
 ------------------------------------------------------------------------
 
-[Next: John Shea and the Treasure](tfgw16)
+[Next: John Shea and the Treasure](tfgw16.md)

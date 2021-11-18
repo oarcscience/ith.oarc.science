@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm09)  [Next](wsm11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm09)  [Next](wsm11.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ While he was working on his blanket, he saw a shadow pass the door. He
 went out of the door to see what it was, and saw a woman running. She
 had a rabbit's tail on her buttocks. He chased the woman, and she ran
 toward the west. Coyote ran fast, but could get no closer to her. He
-chased her to the ocean. <span id="fr_10"></span>[11](#fn_10)
+chased her to the ocean. <span id="fr_10"></span>[11](#fn_10.md)
 
 At the edge of the ocean the woman stopped and sat down. She said, "I
 will lie on my back and swim across, and carry you over." They started
@@ -33,10 +33,10 @@ thing. Then he found some cane, made arrows, and began to shoot ducks.
 He took the ducks to the woman's house.
 
 There were two women living at this house, the woman he had followed and
-her mother. <span id="fr_11"></span>[12](#fn_11) The women were sitting
+her mother. <span id="fr_11"></span>[12](#fn_11.md) The women were sitting
 outside their house. They told Coyote to go inside and sit down. When
 Coyote went in, he saw quivers made of fox skin hanging all over the
-wall. <span id="fr_12"></span>[13](#fn_12)
+wall. <span id="fr_12"></span>[13](#fn_12.md)
 
 The women started to cook the ducks. They ate the ducks; both women ate.
 Coyote was singing. He made a hole in the house and watched the women.
@@ -75,16 +75,16 @@ here. That is why there are Indians here now.
 
 ### Footnotes
 
-<span id="fn_10"></span>[262:11](wsm10.htm#fr_10) The informant's
+<span id="fn_10"></span>[262:11](wsm10.htm#fr_10.md) The informant's
 English term. The Shoshoni word would probably be translated "large
 water," i. e., "lake."
 
-<span id="fn_11"></span>[262:12](wsm10.htm#fr_11) They were given no
+<span id="fn_11"></span>[262:12](wsm10.htm#fr_11.md) They were given no
 names.
 
-<span id="fn_12"></span>[262:13](wsm10.htm#fr_12) No mention here is
+<span id="fn_12"></span>[262:13](wsm10.htm#fr_12.md) No mention here is
 made of the owners of the quivers.
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of People (Beatty, Nevada. Shoshoni)](wsm11)
+[Next: The Origin of People (Beatty, Nevada. Shoshoni)](wsm11.md)

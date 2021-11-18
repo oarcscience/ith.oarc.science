@@ -1,21 +1,21 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk33)  [Next](brk35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk33)  [Next](brk35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
 ------------------------------------------------------------------------
 
-#### VI. <span class="smallcaps">Parables</span> <span id="fr_24"></span>[3](#fn_24)
+#### VI. <span class="smallcaps">Parables</span> <span id="fr_24"></span>[3](#fn_24.md)
 
 "If one should smite upon the root of this great tree, beloved, it would
 sweat sap, and live. If one should smite upon its midst, it would sweat
@@ -108,13 +108,13 @@ this All its essence; it is the True; it is the Self; thou art it,
 
 ### Footnotes
 
-<span id="fn_22"></span>[66:1](brk33.htm#fr_22) Ṛig-veda, IV. xxvi. 1.
+<span id="fn_22"></span>[66:1](brk33.htm#fr_22.md) Ṛig-veda, IV. xxvi. 1.
 
-<span id="fn_23"></span>[66:2](brk33.htm#fr_23) Namely to the gods.
+<span id="fn_23"></span>[66:2](brk33.htm#fr_23.md) Namely to the gods.
 
-<span id="fn_24"></span>[66:3](brk34.htm#fr_24) Chhāndogya Upanishad,
+<span id="fn_24"></span>[66:3](brk34.htm#fr_24.md) Chhāndogya Upanishad,
 VI., xi.-xiii.
 
 ------------------------------------------------------------------------
 
-[Next: VII: The Soul in Sleep](brk35)
+[Next: VII: The Soul in Sleep](brk35.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd01)  [Next](smd03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd01)  [Next](smd03.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ every fourth year being a leap year, the years which end in 00, as 1700,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. January--The Month of Janus](smd03)
+[Next: Chapter I. January--The Month of Janus](smd03.md)

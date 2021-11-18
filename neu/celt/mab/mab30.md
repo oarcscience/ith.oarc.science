@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab29)  [Next](mab31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab29)  [Next](mab31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -60,7 +60,7 @@ first was a certain race that came, and was called the Coranians; and so
 great was their knowledge, that there was no discourse upon the face of
 the Island, however low it might be spoken, but what, if the wind met
 it, it was known to them. And through this they could not be
-injured. <span id="fr_212"></span>[1](#fn_211)
+injured. <span id="fr_212"></span>[1](#fn_211.md)
 
 The second plague was a shriek which came on every May-eve, over every
 hearth in the Island of Britain. And this went through people's hearts,
@@ -225,11 +225,11 @@ called the Story of Lludd and Llevelys. And thus it ends.
 
 ### Footnotes
 
-<span id="fn_211"></span>[460:1](mab30.htm#fr_212) The version in the
+<span id="fn_211"></span>[460:1](mab30.htm#fr_212.md) The version in the
 Greal adds, "And their coin was fairy money;" literally, dwarf's money:
 that is, money, which, when received, appeared to be good coin, but
 which, if kept, turned into pieces of fungus, &c.
 
 ------------------------------------------------------------------------
 
-[Next: Note on Lludd and Llevelys](mab31)
+[Next: Note on Lludd and Llevelys](mab31.md)

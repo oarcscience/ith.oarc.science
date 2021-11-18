@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass39)  [Next](nass41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass39)  [Next](nass41.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ and brings much property, which she gives to her new husband.
 
 ------------------------------------------------------------------------
 
-[Next: The Grizzly Bear](nass41)
+[Next: The Grizzly Bear](nass41.md)

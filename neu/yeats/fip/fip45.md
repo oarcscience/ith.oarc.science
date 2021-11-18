@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip44)  [Next](fip46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip44)  [Next](fip46.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_151">p. 151</span>
 
-### A QUEEN'S COUNTY WITCH <span id="fr_19"></span>[1](#fn_19)
+### A QUEEN'S COUNTY WITCH <span id="fr_19"></span>[1](#fn_19.md)
 
 IT was about eighty years ago, in the month of May, that a Roman
 Catholic clergyman, near Rathdowney, in the Queen's County, was awakened
@@ -153,9 +153,9 @@ returned.
 
 ### Footnotes
 
-<span id="fn_19"></span>[151:1](fip45.htm#fr_19) *Dublin University
+<span id="fn_19"></span>[151:1](fip45.htm#fr_19.md) *Dublin University
 Magazine*, 1839.
 
 ------------------------------------------------------------------------
 
-[Next: The Witch Hare, by Mr. and Mrs. S. C. Hall](fip46)
+[Next: The Witch Hare, by Mr. and Mrs. S. C. Hall](fip46.md)

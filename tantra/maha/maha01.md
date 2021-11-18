@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha00)  [Next](maha02) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha00)  [Next](maha02.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,6 +193,6 @@ Liberation of Beings."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2 - Introduction to the Worship of Brahman](maha02)
+[Next: Chapter 2 - Introduction to the Worship of Brahman](maha02.md)
 
   

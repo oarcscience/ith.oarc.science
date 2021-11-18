@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe182)  [Next](prwe184) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe182)  [Next](prwe184.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ droll-teller.
 
 ------------------------------------------------------------------------
 
-[Next: The Witch of Treva](prwe184)
+[Next: The Witch of Treva](prwe184.md)

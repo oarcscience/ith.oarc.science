@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft49)  [Next](eft51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft49)  [Next](eft51.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -118,7 +118,7 @@ poke down the clothes with poles.
 
 <span id="img_140"></span> <span align="CENTER"> [![Wizard calling up a
 ''helping spirit.''](tn/140.jpg)  
-Click to enlarge](img/140.jpg)  
+Click to enlarge](img/140.jpg.md)  
 Wizard calling up a ''helping spirit.''  
 </span>
 
@@ -141,4 +141,4 @@ dwelling on the mainland.
 
 ------------------------------------------------------------------------
 
-[Next: ÂTÂRSSUAQ](eft51)
+[Next: ÂTÂRSSUAQ](eft51.md)

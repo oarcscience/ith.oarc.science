@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mcft01)  [Next](mcft03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mcft01)  [Next](mcft03.md) 
 
 ------------------------------------------------------------------------
 
@@ -479,4 +479,4 @@ the Cunning Thief."
 
 ------------------------------------------------------------------------
 
-[Next: Powel, Prince of Dyfed](mcft03)
+[Next: Powel, Prince of Dyfed](mcft03.md)

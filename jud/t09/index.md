@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,9 +16,9 @@
 
 ------------------------------------------------------------------------
 
-[Tract Maccoth](#mac)  [Tract Shebuoth (Oaths)](#shb)  [Tract Eduyoth
-(Testimonies)](#edu)  [Tract Abuda Zara](#zar)  [Tract Horioth
-(Decisions)](#hor)
+[Tract Maccoth](#mac)  [Tract Shebuoth (Oaths)](#shb.md)  [Tract Eduyoth
+(Testimonies)](#edu)  [Tract Abuda Zara](#zar.md)  [Tract Horioth
+(Decisions)](#hor.md)
 
 ------------------------------------------------------------------------
 
@@ -30,16 +30,16 @@
 
 ### Volume IX. (XVII.)
 
-[Title Page](mac00)  
-[Explanatory Remarks](mac01)  
-[Dedication](mac02)  
+[Title Page](mac00.md)  
+[Explanatory Remarks](mac01.md)  
+[Dedication](mac02.md)  
 [Concluding Words To The Completion Of Sections Festival And
-Jurisprudence](mac03)  
-[Contents](mac04)  
-[Synopsis of Subjects of Tract Maccoth (Stripes)](mac05)  
-[Chapter I](mac06)  
-[Chapter II](mac07)  
-[Chapter III](mac08)  
+Jurisprudence](mac03.md)  
+[Contents](mac04.md)  
+[Synopsis of Subjects of Tract Maccoth (Stripes)](mac05.md)  
+[Chapter I](mac06.md)  
+[Chapter II](mac07.md)  
+[Chapter III](mac08.md)  
 
 ------------------------------------------------------------------------
 
@@ -47,17 +47,17 @@ Jurisprudence](mac03)
 
 ### Tract Shebuoth (Oaths)
 
-[Contents](shb00)  
-[Synopsis of Subjects](shb01)  
-[Chapter I](shb02)  
-[Chapter II](shb03)  
-[Chapter III](shb04)  
-[Chapter IV](shb05)  
-[Chapter V](shb06)  
-[Chapter VI.](shb07)  
-[Chapter VII.](shb08)  
-[Chapter VIII](shb09)  
-[Appendix to Page 13](shb10)  
+[Contents](shb00.md)  
+[Synopsis of Subjects](shb01.md)  
+[Chapter I](shb02.md)  
+[Chapter II](shb03.md)  
+[Chapter III](shb04.md)  
+[Chapter IV](shb05.md)  
+[Chapter V](shb06.md)  
+[Chapter VI.](shb07.md)  
+[Chapter VII.](shb08.md)  
+[Chapter VIII](shb09.md)  
+[Appendix to Page 13](shb10.md)  
 
 ------------------------------------------------------------------------
 
@@ -65,15 +65,15 @@ Jurisprudence](mac03)
 
 ### Tract Eduyoth (Testimonies)
 
-[Introduction](edu00)  
-[Chapter I](edu01)  
-[Chapter II](edu02)  
-[Chapter III](edu03)  
-[Chapter IV](edu04)  
-[Chapter V.](edu05)  
-[Chapter VI](edu06)  
-[Chapter VII](edu07)  
-[Chapter VIII](edu08)  
+[Introduction](edu00.md)  
+[Chapter I](edu01.md)  
+[Chapter II](edu02.md)  
+[Chapter III](edu03.md)  
+[Chapter IV](edu04.md)  
+[Chapter V.](edu05.md)  
+[Chapter VI](edu06.md)  
+[Chapter VII](edu07.md)  
+[Chapter VIII](edu08.md)  
 
 ------------------------------------------------------------------------
 
@@ -85,15 +85,15 @@ Jurisprudence](mac03)
 
 ### Volume X. (XVIII.)
 
-[Explanatory Remarks](zar00)  
-[Contents](zar01)  
-[Synopsis of Subjects](zar02)  
-[Chapter I](zar03)  
-[Chapter II](zar04)  
-[Chapter III](zar05)  
-[Chapter IV](zar06)  
-[Chapter V](zar07)  
-[Appendix to Page 60](zar08)  
+[Explanatory Remarks](zar00.md)  
+[Contents](zar01.md)  
+[Synopsis of Subjects](zar02.md)  
+[Chapter I](zar03.md)  
+[Chapter II](zar04.md)  
+[Chapter III](zar05.md)  
+[Chapter IV](zar06.md)  
+[Chapter V](zar07.md)  
+[Appendix to Page 60](zar08.md)  
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ Jurisprudence](mac03)
 
 ### Tract Horioth (Decisions)
 
-[Synopsis of Subjects of Tract Horioth](hor00)  
-[Chapter I](hor01)  
-[Chapter II](hor02)  
-[Chapter III](hor03)  
+[Synopsis of Subjects of Tract Horioth](hor00.md)  
+[Chapter I](hor01.md)  
+[Chapter II](hor02.md)  
+[Chapter III](hor03.md)  

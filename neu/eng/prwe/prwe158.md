@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe157)  [Next](prwe159) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe157)  [Next](prwe159.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ Vol. i. p. 5.
 
 ------------------------------------------------------------------------
 
-[Next: The Battle of Vellan-druchan](prwe159)
+[Next: The Battle of Vellan-druchan](prwe159.md)

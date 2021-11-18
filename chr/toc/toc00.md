@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Next](toc01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Next](toc01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Trial of Christ*, by David K. Breed, \[1948\], at Intangible
 Textual Heritage
 
@@ -67,4 +67,4 @@ inspiration—this little book is affectionately dedicated.
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](toc01)
+[Next: Foreword](toc01.md)

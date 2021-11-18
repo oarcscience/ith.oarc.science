@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl12)  [Next](hpl14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl12)  [Next](hpl14.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ desolate hour.
 ------------------------------------------------------------------------
 
 [Next: Facts Concerning the Late Arthur Jermyn and His Family
-(1921)](hpl14)
+(1921)](hpl14.md)

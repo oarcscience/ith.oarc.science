@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft04)  [Next](gft06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft04)  [Next](gft06.md) 
 
 ------------------------------------------------------------------------
 
@@ -231,7 +231,7 @@ than all those scoffers, and more able to do some glorious deed.
 
 [![See if I do not bring a nobler present than all of yours
 together!](tn/01400.jpg)  
-Click to enlarge](img/01400.jpg)  
+Click to enlarge](img/01400.jpg.md)  
 See if I do not bring a nobler present than all of yours together!  
 
  
@@ -395,4 +395,4 @@ toward the Ister fens.
 
 ------------------------------------------------------------------------
 
-[Next: Part Three: How Perseus Slew the Gorgon](gft06)
+[Next: Part Three: How Perseus Slew the Gorgon](gft06.md)

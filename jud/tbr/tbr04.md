@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tbr03)  [Next](tbr05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tbr03)  [Next](tbr05.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ Josephus was biased by his desire to please his Roman masters, and it is
 asserted that the writers of the N.*T*. were biased by their opposition
 to Judaism. It is not easy to prove this latter assertion, but it must
 not be altogether set aside by genuine lovers of truth. The Christian
-student welcomes every inquiry. <span id="fr_0"></span>[1](#fn_0)
+student welcomes every inquiry. <span id="fr_0"></span>[1](#fn_0.md)
 
 Taking then the Mishna as we find it, and for our immediate purpose we
 may add the Tosephta, what light is thrown by this treatise of
@@ -56,9 +56,9 @@ throughout.
 
 Secondly, the religion underlying *Berakoth* is not merely formal. Both
 Mishna and Tosephta insist strongly on the truth that the mind and heart
-must be occupied with religion (see below, pp. [14](tbr14.htm#page_14)
-*sq*., [35](tbr32.htm#page_35), [37](tbr33.htm#page_37) *sq*.,
-[85](tbr60.htm#page_85)). At first sight this would appear to be
+must be occupied with religion (see below, pp. [14](tbr14.htm#page_14.md)
+*sq*., [35](tbr32.htm#page_35), [37](tbr33.htm#page_37.md) *sq*.,
+[85](tbr60.htm#page_85).md). At first sight this would appear to be
 contrary to the representation of Judaism in the N.*T*. There is much in
 the Gospels against hypocrisy, as though Judaism insisted on action
 only, disregarding the inner life. But such is not St. Paul's record of
@@ -85,23 +85,23 @@ truth—however far that truth may have been from the mind of the Old
 Testament—it may fairly be used to strengthen the argument, and may be
 quoted as the utterance, the Divine utterance, of Scripture in favour of
 it. Examples may be found on almost every one of the following pages.
-See, for example, pp. [13](tbr14.htm#page_13) *sq*.,
-[85](tbr60.htm#page_85), [88](tbr63.htm#page_88),
-[90](tbr64.htm#page_90).
+See, for example, pp. [13](tbr14.htm#page_13.md) *sq*.,
+[85](tbr60.htm#page_85), [88](tbr63.htm#page_88.md),
+[90](tbr64.htm#page_90.md).
 
 Fourthly, several terms and phrases in the N.*T*. receive illumination
-from *Berakoth*, *e.g.* pp. [45](tbr38.htm#page_45),
-[50](tbr40.htm#page_50), [66](tbr47.htm#page_66),
-[86](tbr62.htm#page_86).
+from *Berakoth*, *e.g.* pp. [45](tbr38.htm#page_45.md),
+[50](tbr40.htm#page_50), [66](tbr47.htm#page_66.md),
+[86](tbr62.htm#page_86.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[xii:1](tbr04.htm#fr_0) On the general subject of
+<span id="fn_0"></span>[xii:1](tbr04.htm#fr_0.md) On the general subject of
 the trustworthiness of the links in the traditions see Bacher,
 *Tradition u. Tradenten*, 1914.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Relation of the Mishna and the Tosephta](tbr05)
+[Next: 3. The Relation of the Mishna and the Tosephta](tbr05.md)

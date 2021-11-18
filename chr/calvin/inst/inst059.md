@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst058)  [Next](inst060) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst058)  [Next](inst060.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ however, in the plan of life which I now propose to give, is not to
 extend it so far as to treat of each virtue specially, and expatiate in
 exhortation. This must be sought in the writings of others, and
 particularly in the Homilies of the Fathers.38  <span
-id="fr_382"></span>[383](#fn_382) For me it will be sufficient to point
+id="fr_382"></span>[383](#fn_382.md) For me it will be sufficient to point
 out the method by which a pious man may be taught how to frame his life
 aright, and briefly lay down some universal rule by which he may not
 improperly regulate his conduct. I shall one day possibly find time for
@@ -95,7 +95,7 @@ more ample discourse, \[or leave others to perform an office for which I
 am not so fit. I have a natural love of brevity, and, perhaps, any
 attempt of mine at copiousness would not succeed. Even if I could gain
 the highest applause by being more prolix, I would scarcely be disposed
-to attempt it\],39  <span id="fr_383"></span>[384](#fn_383) while the
+to attempt it\],39  <span id="fr_383"></span>[384](#fn_383.md) while the
 nature of my present work requires me to glance at simple doctrine with
 as much brevity as possible. As philosophers have certain definitions of
 rectitude and honesty, from which they derive particular duties and the
@@ -114,14 +114,14 @@ righteousness, to which we are by no means naturally inclined, may be
 instilled and implanted into our minds. The latter is (see chap. 7), to
 prescribe a rule which will prevent us while in the pursuit of
 righteousness from going astray. It has numerous admirable methods of
-recommending righteousness.39  <span id="fr_384"></span>[385](#fn_384)
+recommending righteousness.39  <span id="fr_384"></span>[385](#fn_384.md)
 Many have been already pointed out in different parts of this work; but
 we shall here also briefly advert to some of them. With what better
 foundation can it begin than by reminding us that we must be holy,
 because “God is holy?” (<span id="iv.iii.vii-p15.1"></span>[Lev.
-19:1](../../../bib/kjv/lev019.htm#001)<span
+19:1](../../../bib/kjv/lev019.htm#001.md)<span
 id="iv.iii.vii-p15.1"></span>; <span id="iv.iii.vii-p15.2"></span>[1
-Pet. 1:16](../../../bib/kjv/pe1001.htm#016)<span
+Pet. 1:16](../../../bib/kjv/pe1001.htm#016.md)<span
 id="iv.iii.vii-p15.2"></span>). For when we were scattered abroad like
 lost sheep, wandering through the labyrinth of this world, he brought us
 back again to his own fold. When mention is made of our union with God,
@@ -141,8 +141,8 @@ himself, it were impious for its inhabitants to profane by impurity.
 Hence the expressions, “Who shall abide in thy tabernacle? who shall
 dwell in thy holy hill? He that walketh uprightly, and worketh
 righteousness,” (<span id="iv.iii.vii-p15.3"></span>[Ps.
-15:1](../../../bib/kjv/psa015.htm#001),
-[2](../../../bib/kjv/psa015.htm#002)<span id="iv.iii.vii-p15.3"></span>;
+15:1](../../../bib/kjv/psa015.htm#001.md),
+[2](../../../bib/kjv/psa015.htm#002.md)<span id="iv.iii.vii-p15.3"></span>;
 24:3, 4); for the sanctuary in which he dwells certainly ought not to be
 like an unclean stall.
 
@@ -150,13 +150,13 @@ like an unclean stall.
 God the Father, who, as he hath reconciled us to himself in his
 Anointed, has impressed his image upon us, to which he would have us to
 be conformed (<span id="iv.iii.vii-p16.1"></span>[Rom.
-5:4](../../../bib/kjv/rom005.htm#004)<span
+5:4](../../../bib/kjv/rom005.htm#004.md)<span
 id="iv.iii.vii-p16.1"></span>). Come, then, and let them show me a more
 excellent system among philosophers, who think that they only have a
 moral philosophy duly and orderly arranged. They, when they would give
 excellent exhortations to virtue, can only tell us to live agreeably to
 nature. Scripture derives its exhortations from the true source,39
- <span id="fr_385"></span>[386](#fn_385) when it not only enjoins us to
+ <span id="fr_385"></span>[386](#fn_385.md) when it not only enjoins us to
 regulate our lives with a view to God its author to whom it belongs; but
 after showing us that we have degenerated from our true origin—viz. the
 law of our Creator, adds, that Christ, through whom we have returned to
@@ -195,7 +195,7 @@ of him from the Gospel. The Apostle denies that any man truly has
 learned Christ who has not learned to put off “the old man, which is
 corrupt according to the deceitful lusts, and put on Christ,” (<span
 id="iv.iii.vii-p18.1"></span>[Eph.
-4:22](../../../bib/kjv/eph004.htm#022)<span
+4:22](../../../bib/kjv/eph004.htm#022.md)<span
 id="iv.iii.vii-p18.1"></span>). They are convicted, therefore, of
 falsely and unjustly pretending a knowledge of Christ, whatever be the
 volubility and eloquence with which they can talk of the Gospel.
@@ -257,66 +257,66 @@ with God.
 
 ### Footnotes
 
-<span id="fn_382"></span>[383](inst059.htm#fr_382) <span
+<span id="fn_382"></span>[383](inst059.htm#fr_382.md) <span
 id="iv.iii.vii-p11.1"></span>
 
 <span id="iv.iii.vii-p12"></span>89 389 The French adds, “C’est a dire,
 sermons populaires;”—that is to say, popular sermons.
 
-<span id="fn_383"></span>[384](inst059.htm#fr_383) <span
+<span id="fn_383"></span>[384](inst059.htm#fr_383.md) <span
 id="iv.iii.vii-p12.1"></span>
 
 <span id="iv.iii.vii-p13"></span>90 390 The passage in brackets is
 ommited in the French.
 
-<span id="fn_384"></span>[385](inst059.htm#fr_384) <span
+<span id="fn_384"></span>[385](inst059.htm#fr_384.md) <span
 id="iv.iii.vii-p14.1"></span>
 
 <span id="iv.iii.vii-p15"></span>91 391 The French begins the sentence
 thus, “Quant est du premier poinct;”—As to the former point.
 
-<span id="fn_385"></span>[386](inst059.htm#fr_385) <span
+<span id="fn_385"></span>[386](inst059.htm#fr_385.md) <span
 id="iv.iii.vii-p16.2"></span>
 
 <span id="iv.iii.vii-p17"></span>92 392 <span
 id="iv.iii.vii-p17.1"></span>[Mal.
-1:6](../../../bib/kjv/mal001.htm#006)<span
+1:6](../../../bib/kjv/mal001.htm#006.md)<span
 id="iv.iii.vii-p17.1"></span>; <span id="iv.iii.vii-p17.2"></span>[Eph.
-5:1](../../../bib/kjv/eph005.htm#001)<span
+5:1](../../../bib/kjv/eph005.htm#001.md)<span
 id="iv.iii.vii-p17.2"></span>; <span id="iv.iii.vii-p17.3"></span>[1
-John 3:1](../../../bib/kjv/jo1003.htm#001),
-[3](../../../bib/kjv/jo1003.htm#003)<span id="iv.iii.vii-p17.3"></span>;
+John 3:1](../../../bib/kjv/jo1003.htm#001.md),
+[3](../../../bib/kjv/jo1003.htm#003.md)<span id="iv.iii.vii-p17.3"></span>;
 <span id="iv.iii.vii-p17.4"></span>[Eph.
-5:26](../../../bib/kjv/eph005.htm#026)<span
+5:26](../../../bib/kjv/eph005.htm#026.md)<span
 id="iv.iii.vii-p17.4"></span>; <span id="iv.iii.vii-p17.5"></span>[Rom.
-6:1-4](../../../bib/kjv/rom006.htm#001)<span
+6:1-4](../../../bib/kjv/rom006.htm#001.md)<span
 id="iv.iii.vii-p17.5"></span>; <span id="iv.iii.vii-p17.6"></span>[1
-Cor. 6:11](../../../bib/kjv/co1006.htm#011)<span
+Cor. 6:11](../../../bib/kjv/co1006.htm#011.md)<span
 id="iv.iii.vii-p17.6"></span>; <span id="iv.iii.vii-p17.7"></span>[1
-Pet. 1:15](../../../bib/kjv/pe1001.htm#015),
-[19](../../../bib/kjv/pe1001.htm#019)<span
+Pet. 1:15](../../../bib/kjv/pe1001.htm#015.md),
+[19](../../../bib/kjv/pe1001.htm#019.md)<span
 id="iv.iii.vii-p17.7"></span>; <span id="iv.iii.vii-p17.8"></span>[1
-Cor. 6:15](../../../bib/kjv/co1006.htm#015)<span
+Cor. 6:15](../../../bib/kjv/co1006.htm#015.md)<span
 id="iv.iii.vii-p17.8"></span>; <span id="iv.iii.vii-p17.9"></span>[John
-15:3](../../../bib/kjv/joh015.htm#003)<span
+15:3](../../../bib/kjv/joh015.htm#003.md)<span
 id="iv.iii.vii-p17.9"></span>; <span id="iv.iii.vii-p17.10"></span>[Eph.
-5:2](../../../bib/kjv/eph005.htm#002),
-[3](../../../bib/kjv/eph005.htm#003)<span
+5:2](../../../bib/kjv/eph005.htm#002.md),
+[3](../../../bib/kjv/eph005.htm#003.md)<span
 id="iv.iii.vii-p17.10"></span>; <span
 id="iv.iii.vii-p17.11"></span>[Col.
-3:1](../../../bib/kjv/col003.htm#001),
-[2](../../../bib/kjv/col003.htm#002)<span
+3:1](../../../bib/kjv/col003.htm#001.md),
+[2](../../../bib/kjv/col003.htm#002.md)<span
 id="iv.iii.vii-p17.11"></span>; <span id="iv.iii.vii-p17.12"></span>[1
-Cor. 3:16](../../../bib/kjv/co1003.htm#016),
-[5](../../../bib/kjv/co1003.htm#005)<span
+Cor. 3:16](../../../bib/kjv/co1003.htm#016.md),
+[5](../../../bib/kjv/co1003.htm#005.md)<span
 id="iv.iii.vii-p17.12"></span>:17; <span
 id="iv.iii.vii-p17.13"></span>[2 Cor.
-6:16](../../../bib/kjv/co2006.htm#016)<span
+6:16](../../../bib/kjv/co2006.htm#016.md)<span
 id="iv.iii.vii-p17.13"></span>; <span id="iv.iii.vii-p17.14"></span>[1
-Thess. 5:23](../../../bib/kjv/th1005.htm#023)<span
+Thess. 5:23](../../../bib/kjv/th1005.htm#023.md)<span
 id="iv.iii.vii-p17.14"></span>
 
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 7. - A SUMMARY OF THE CHRISTIAN LIFE. OF
-SELF-DENIAL.](inst060)
+SELF-DENIAL.](inst060.md)

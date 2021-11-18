@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa13)  [Next](taa15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa13)  [Next](taa15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ and anguish, and kiss my pillars,
 evidence of Reason proclaims to be imperfect,
 
 9\. And kissed stones therein, although he was a Náṭiq (prophet). <span
-id="fr_20"></span>[1](#fn_20) And what is the rank of the Temple in
+id="fr_20"></span>[1](#fn_20.md) And what is the rank of the Temple in
 comparison with the dignity of Man?
 
 <span id="page_67">p. 67</span>
@@ -109,7 +109,7 @@ passion.
 'And kiss my pillars' (properly, kiss over the *lithám* or veil covering
 the mouth), i.e. he is veiled and unable to behold them except through a
 medium (\#\#\#). The 'pillars' are the four elements on which the human
-constitution is based. <span id="fr_21"></span>[1](#fn_21)
+constitution is based. <span id="fr_21"></span>[1](#fn_21.md)
 
 10\. 'One dyed with henna': he refers to sensual influences (\#\#\#),
 such as descended on the soul when God addressed it and said, '*Am not I
@@ -195,18 +195,18 @@ enamoured men of their reason and made them unconscious of themselves.
 
 ### Footnotes
 
-<span id="fn_20"></span>[66:1](taa14.htm#fr_20) In the Ismá‘ílí system
+<span id="fn_20"></span>[66:1](taa14.htm#fr_20.md) In the Ismá‘ílí system
 Muḥammad, regarded as an incarnation of Universal Reason, is the Náṭiq
 of the sixth prophetic cycle. See Professor Browne's *Literary History
 of Persia*, i, 408 seq.
 
-<span id="fn_21"></span>[68:1](taa14.htm#fr_21) The author leaves the
+<span id="fn_21"></span>[68:1](taa14.htm#fr_21.md) The author leaves the
 next two verses unexplained. 'The best of mankind' is Muḥammad.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XII](taa15)
+[Next: XII](taa15.md)
 
 </div>

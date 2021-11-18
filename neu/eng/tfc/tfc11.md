@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tfc10)  [Next](tfc12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tfc10)  [Next](tfc12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales from Chaucer*, by Charles Cowden Clarke, \[1833\], at Intangible
 Textual Heritage
 
@@ -40,7 +40,7 @@ seal of our liege lord upon my patent I display to prove my warrant,
 that no man, whether priest or clerk, may be so bold as to disturb me in
 the exercise of Christ's holy work. After this I enter upon my
 discourse, ever and anon mixing up with it small scraps of Latin to
-saffron <span id="fr_25"></span>[\*](#fn_25) my preaching and steer
+saffron <span id="fr_25"></span>[\*](#fn_25.md) my preaching and steer
 
 <span id="page_126">p. 126</span>
 
@@ -143,7 +143,7 @@ heinous, that it was a dreadful thing to hear them swear. The body of
 
 <span id="img_12900"></span> <span align="CENTER"> [![The
 Pardoner](tn/12900.jpg)  
-Click to enlarge](img/12900.jpg)  
+Click to enlarge](img/12900.jpg.md)  
 The Pardoner  
 </span>
 
@@ -358,9 +358,9 @@ HERE ENDS THE PARDONER'S TALE
 
 ### Footnotes
 
-<span id="fn_25"></span>[125:\*](tfc11.htm#fr_25) An expressive term.
+<span id="fn_25"></span>[125:\*](tfc11.htm#fr_25.md) An expressive term.
 Saffron was used to give colour as well as flavour to confectionaries.
 
 ------------------------------------------------------------------------
 
-[Next: The Nun's Priest's Tale](tfc12)
+[Next: The Nun's Priest's Tale](tfc12.md)

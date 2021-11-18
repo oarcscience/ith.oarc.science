@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap15) [Next](chap17)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap15) [Next](chap17.md)
 
 ------------------------------------------------------------------------
 
@@ -262,4 +262,4 @@ real life andd character, such as Utah presented.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII: Tenderfoot Superintendents](chap17)
+[Next: Chapter XVII: Tenderfoot Superintendents](chap17.md)

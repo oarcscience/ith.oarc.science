@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc11)  [Next](moc13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc11)  [Next](moc13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -84,7 +84,7 @@ but also from obsidian, which is the "glassy" variety of
 <span id="page_145">p. 145</span>
 
 volcanic rock-hardened lava--known as liparite, <span
-id="fr_173"></span>[1](#fn_173) the "frothy" variety being
+id="fr_173"></span>[1](#fn_173.md) the "frothy" variety being
 "pumice-stone". Now, there is no obsidian in Crete. The only source of
 it in the Ægean is the Island of Melos (now Milos, or Milo), where the
 famous statue of Venus de Milo was discovered. Evidently an early
@@ -93,7 +93,7 @@ Neolithic civilization had local development in the Cyclades, amidst
                                the sprinkled isles,  
 Lily on lily, that o'erlace the sea,  
 And laugh their pride when the light wave lisps "Greece". <span
-id="fr_174"></span>[2](#fn_174)
+id="fr_174"></span>[2](#fn_174.md)
 
 Obsidian artifacts have been found in various islands of the Ægean, as
 well as on the mainland at Mycenæ and elsewhere, on the island of
@@ -102,7 +102,7 @@ from Melos, to be worked, for flakes as well as knives have been found,
 and also in Sicily. Schliemann discovered knives and flakes of obsidian
 in "the four lowest prehistoric cities at Hissarlik". He remarked
 regarding them at the time: "All are two-edged, and some are so sharp
-that one might shave with them". <span id="fr_175"></span>[3](#fn_175)
+that one might shave with them". <span id="fr_175"></span>[3](#fn_175.md)
 The Jews still use flint and obsidian knives in religious ceremonies.
 Obsidian implements have also been taken from Neolithic strata near
 Nineveh. In Egypt, during the Old Kingdom Period, the beaten-copper
@@ -199,7 +199,7 @@ lip were there ever more than a few sparsely scattered hairs, and in
 most cases also the cheeks were equally scantily equipped. But there was
 always a short tuft of beard under the chin." The burial customs and the
 ceramic and other remains of the Mediterranean peoples were of similar
-character everywhere. <span id="fr_176"></span>[1](#fn_176)
+character everywhere. <span id="fr_176"></span>[1](#fn_176.md)
 
 In some pre-Dynastic Egyptian graves the dead were wrapped in "flaxen
 cloth of considerable fineness". It is probable, therefore, that the
@@ -238,7 +238,7 @@ has also been forthcoming that the Neolithic peoples of western Europe
 and the British Isles were similarly agriculturists. Sometimes the teeth
 taken from graves are found to be in a ground-down condition. This was
 partly due to the deposit of grit in limestone and sandstone mortars and
-querns, which mixed with the meal. <span id="fr_177"></span>[1](#fn_177)
+querns, which mixed with the meal. <span id="fr_177"></span>[1](#fn_177.md)
 The Neolithic folk who utilized soft stones for milling must have been
 as
 
@@ -258,7 +258,7 @@ passed on their acquired knowledge to other peoples. Referring to Crete
 in particular he says: "We can have no doubt these people (the
 Armenoids) began to make their way into Crete, from Anatolia perhaps, at
 the time when the diffusion of the knowledge of copper was
-beginning". <span id="fr_178"></span>[1](#fn_178) At a much later period
+beginning". <span id="fr_178"></span>[1](#fn_178.md) At a much later period
 the artisans of North Syria and Anatolia were famous as metal-workers.
 One of the results of the wars waged by Egypt, after the expulsion of
 the Hyksos, was the introduction to the Nile valley of coats of mail,
@@ -267,7 +267,7 @@ greatly prized. "At this period", writes Professor Flinders Petrie, "the
 civilization of Syria was equal or superior to that of Egypt. . . . Here
 was luxury far beyond that of the Egyptians, and technical work which
 could teach them, rather than be taught." <span
-id="fr_179"></span>[2](#fn_179) Many thousands of prisoners were also
+id="fr_179"></span>[2](#fn_179.md) Many thousands of prisoners were also
 taken, and, when tribute was arranged for, the Pharaoh made it a
 condition that his vassals should send "the foreign workmen" with it.
 Kings and noblemen also received wives from Syria and Anatolia. During
@@ -318,11 +318,11 @@ The Carians maintain they are the aboriginal inhabitants of the part of
 the mainland where they now dwell, and never had any other name than
 that which they still bear; and in proof of this they show an ancient
 temple of the Carian Jove in the country of the Mylasians. <span
-id="fr_180"></span>[1](#fn_180)
+id="fr_180"></span>[1](#fn_180.md)
 
 There is a third temple, that of the Carian Zeus, common to all Carians,
 in the use of which also the Lydians and Mysians participate, on the
-ground that they are brethren. <span id="fr_181"></span>[2](#fn_181)
+ground that they are brethren. <span id="fr_181"></span>[2](#fn_181.md)
 
 One of the interesting phases of Cretan religion was the worship of the
 local Zeus. The deity must not be confused, however, with the so-called
@@ -384,7 +384,7 @@ himself: this stone became sacred to his worshippers. Afterwards he
 deposed his father and sat on the throne as chief deity. Like other
 ancient gods, he reigned for a time and then died. His grave was pointed
 out in Crete, as several classical authors have testified. <span
-id="fr_182"></span>[1](#fn_182) Perhaps it was on
+id="fr_182"></span>[1](#fn_182.md) Perhaps it was on
 
 <span id="page_154">p. 154</span>
 
@@ -394,7 +394,7 @@ them: "There are many unruly and vain talkers and deceivers . . . whose
 mouths must be stopped; who subvert whole houses, teaching things which
 they ought not. . . . One of themselves, even a prophet of their own,
 said, The Cretans are always liars." <span
-id="fr_183"></span>[1](#fn_183)
+id="fr_183"></span>[1](#fn_183.md)
 
 "Later Cretan tradition", writes Sir Arthur Evans, "has persistently
 connected the tomb of Zeus with Mount Juktas, which rises as the most
@@ -415,7 +415,7 @@ sanctuaries of Zeus, and marks here in a conspicuous manner the diverted
 but abiding sanctity of the spot. Popular tradition, the existing cult,
 and the archaeological traces point alike to the fact that there was
 here 'a holy sepulchre' of remote antiquity." <span
-id="fr_184"></span>[2](#fn_184)
+id="fr_184"></span>[2](#fn_184.md)
 
 Early Christian missionaries similarly appropriated elsewhere the "holy
 places" of the Pagan cults. St. Paul's
@@ -430,7 +430,7 @@ the local saint was worshipped after death as if he had acquired the
 attributes of the Pagan deity he displaced. Bulls were offered up in
 Applecross, Ross-shire, in 1656, "upon the 25th August", runs a minute
 of Dingwall Presbytery, "which day is dedicate, as they conceive, to Sn.
-Mourie as they call him". <span id="fr_185"></span>[1](#fn_185)
+Mourie as they call him". <span id="fr_185"></span>[1](#fn_185.md)
 
 The Cretan Zeus was a deity who each year died a violent death and came
 to life again. He thus resembled closely the Egyptian Osiris, the
@@ -461,9 +461,9 @@ Greece pointed to Egypt as the fountainhead of agricultural religion.
 Diodorus Siculus says that the mysteries of Dionysus are identical with
 those of Osiris, and that the Isis and Demeter mysteries are the same
 also, the only difference being in the names applied to the
-deities. <span id="fr_186"></span>[1](#fn_186) "Osiris", says Herodotus,
+deities. <span id="fr_186"></span>[1](#fn_186.md) "Osiris", says Herodotus,
 "is named Dionysus (Bacchus) by the Greeks." <span
-id="fr_187"></span>[2](#fn_187)
+id="fr_187"></span>[2](#fn_187.md)
 
 The Cretan Zeus-Dionysus links not only with Osiris, but also with
 Tammuz of Babylon, Ashur of Assyria, Attis of Phrygia, Adonis of Greece,
@@ -495,7 +495,7 @@ heaven which he attained by obeying the laws of Osiris. Thus Proclus
 says, in reference to the Greek mysteries: "The gods assume many forms
 and change from one to another; now they are manifested in the emission
 of shapeless light, now they are of human shape, and anon appear in
-other and different forms". <span id="fr_188"></span>[1](#fn_188)
+other and different forms". <span id="fr_188"></span>[1](#fn_188.md)
 
 The Cretan god was the son of the Great Mother who has been identified
 with Rhea. Apparently he also became her husband. Osiris was the son of
@@ -554,21 +554,21 @@ not offer swine in sacrifice to any of their gods, excepting Bacchus
 
 time, sacrificing pigs to both of them at the same full moon, and
 afterwards eating of the flesh. . . . At any other time they would not
-so much as taste it." <span id="fr_189"></span>[1](#fn_189)
+so much as taste it." <span id="fr_189"></span>[1](#fn_189.md)
 
 According to one of the Cretan legends regarding Zeus-Dionysus, as
-related by Athenæus, <span id="fr_190"></span>[2](#fn_190) the animal
+related by Athenæus, <span id="fr_190"></span>[2](#fn_190.md) the animal
 which nourished with its milk the young god of the cave was a sow.
 "Wherefore all the Cretans consider this animal sacred, and will not
 taste of its flesh; and the men of Præsos perform sacred rites with the
 sow, making her the first offering at the sacrifice." <span
-id="fr_191"></span>[3](#fn_191) The pig taboo extended as far as Wales,
+id="fr_191"></span>[3](#fn_191.md) The pig taboo extended as far as Wales,
 Scotland, and Ireland, and is still remembered. <span
-id="fr_192"></span>[4](#fn_192)
+id="fr_192"></span>[4](#fn_192.md)
 
 Dionysus was also associated with the goat, as we have seen. A clay
 impression of a gem from Knossos shows an infant sitting beside a horned
-sheep. <span id="fr_193"></span>[5](#fn_193) Possibly we have here
+sheep. <span id="fr_193"></span>[5](#fn_193.md) Possibly we have here
 another form of the legend. The various animals may have been totemic.
 Different tribes claimed descent from different animals which were
 associated with the culture-god whom they adopted.
@@ -591,7 +591,7 @@ and Cretan signets and seals this shield is sometimes shown with human
 head and arms. It was used by one of the Hittite tribes, and may be
 identical with the Bœotian shield. A similar pattern also "appears as an
 ornamental motive on a bronze belt of the latest Bronze or earliest
-Hallstatt period in Hungary". <span id="fr_194"></span>[1](#fn_194) The
+Hallstatt period in Hungary". <span id="fr_194"></span>[1](#fn_194.md) The
 so-called "spectacle marking" on the Scottish sculptured stones, which
 sometimes appears upright and sometimes longwise, may have been an
 8-form shield of symbolic significance--an attribute of the god or
@@ -602,11 +602,11 @@ Malta certain folk-tales make reference to "Bufies", which is believed
 to signify "Axe-land", situated somewhere beyond the Sahara. "Axe-land",
 says Mr. R. N. Bradley, "must be one of the original homes of the axe,
 and therefore possibly of Neolithic culture." <span
-id="fr_195"></span>[2](#fn_195) Votive stone axes, perforated for
+id="fr_195"></span>[2](#fn_195.md) Votive stone axes, perforated for
 suspension, are common in Malta, Cyprus, and other Mediterranean
 islands. On the sculptured stones of Brittany the double axe appears as
 a symbol or hieroglyph, and it is sometimes grasped by an outstretched
-hand. <span id="fr_196"></span>[3](#fn_196) In Crete the double axe with
+hand. <span id="fr_196"></span>[3](#fn_196.md) In Crete the double axe with
 long handle was depicted between the "horns of consecration" in outline
 on stones of pillars of palaces and the Dictæan inner cave, and inside
 houses, apparently as a charm. It figures on a gold signet from Mycenæ
@@ -633,7 +633,7 @@ and hyacinth. On a gem from Knossos the goddess grasps the double axe in
 her hand, as she does also on a mould from Palaikastro, and other
 objects found elsewhere. Sir Arthur Evans is of opinion that "labyrinth"
 is derived from *labrys*, the Lydian (or Carian) name for the Greek
-double-edged axe. <span id="fr_197"></span>[1](#fn_197) "The suffix in
+double-edged axe. <span id="fr_197"></span>[1](#fn_197.md) "The suffix in
 -nth has been conclusively shown", says Professor Burrows, "to belong to
 that interesting group of pre-Hellenic words that survives both in
 place-names like Corinth (Corinthos) and Zakynthos . . . and in common
@@ -642,7 +642,7 @@ population." Some of these are the words for "barley-cake", "basket",
 "hedge-sparrow", and "worm". "The similarly formed word for 'mouse'," he
 adds, "which remains as the ordinary Greek word. . . . is quoted by the
 Greek grammarians as a Cretan word." <span
-id="fr_198"></span>[2](#fn_198)
+id="fr_198"></span>[2](#fn_198.md)
 
 Words like "absinth" and "hyacinth" are similarly survivals that have
 been borrowed. Professor Burrows thinks, however, that *laura*, *lavra*,
@@ -654,7 +654,7 @@ because of the long passages, with the monks' cells leading off them;
 but this does not seem to have been consciously felt, and the word was
 used for the monastery as a whole. The name indeed is still seen in The
 Lavra, a monastery at Mount Athos." <span
-id="fr_199"></span>[3](#fn_199)
+id="fr_199"></span>[3](#fn_199.md)
 
 The Cretan Zeus was, as a deity of vegetation, associated
 
@@ -685,7 +685,7 @@ survived on the island? Or was there among the earliest settlers a
 community of Libyans of mingled stock? The Cro-Magnon type survives till
 the present day on the North African coast, where it has been identified
 by Collignon and Bertholon among the Berbers. <span
-id="fr_200"></span>[1](#fn_200) It may be that there were tall men among
+id="fr_200"></span>[1](#fn_200.md) It may be that there were tall men among
 the Cretans, who were distinguished as warriors, as was Goliath among
 the Philistines. The Philistines were of Cretan origin.
 
@@ -704,7 +704,7 @@ had been deposited as votive offerings in a sacred place. Two snakes
 enfolded the hips of the snake-goddess. Aphrodite's girdle compelled
 love. The Germanic Brunhild's great strength lay in her girdle. The
 dwarf Laurin was subdued when his girdle was wrenched off by the heroic
-Dietrich. <span id="fr_201"></span>[1](#fn_201) Ishtar wore a girdle.
+Dietrich. <span id="fr_201"></span>[1](#fn_201.md) Ishtar wore a girdle.
 
 As has been indicated also (Chapter II), the bell-mouthed skirt worn by
 the Minoan women was similar to that of the Cro-Magnon women depicted in
@@ -746,90 +746,90 @@ relics of cultural contact in bygone ages.
 
 ### Footnotes
 
-<span id="fn_173"></span>[145:1](moc12.htm#fr_173) So called after the
+<span id="fn_173"></span>[145:1](moc12.htm#fr_173.md) So called after the
 semi-crystalline rock emitted as lava from the chief volcano of the
 Lipari Islands.
 
-<span id="fn_174"></span>[145:2](moc12.htm#fr_174) Browning's "Cleon".
+<span id="fn_174"></span>[145:2](moc12.htm#fr_174.md) Browning's "Cleon".
 
-<span id="fn_175"></span>[145:3](moc12.htm#fr_175) *Ilios*, p. 247.
+<span id="fn_175"></span>[145:3](moc12.htm#fr_175.md) *Ilios*, p. 247.
 
-<span id="fn_176"></span>[148:1](moc12.htm#fr_176) *The Ancient
+<span id="fn_176"></span>[148:1](moc12.htm#fr_176.md) *The Ancient
 Egyptians*, pp. 41 *et seq*.
 
-<span id="fn_177"></span>[149:1](moc12.htm#fr_177) The writer and a
+<span id="fn_177"></span>[149:1](moc12.htm#fr_177.md) The writer and a
 friend once tested a limestone quern and ascertained that it deposited
 as much grit as covered a three-penny piece in about fifteen minutes.
 
-<span id="fn_178"></span>[150:1](moc12.htm#fr_178) The Early Egyptians,
+<span id="fn_178"></span>[150:1](moc12.htm#fr_178.md) The Early Egyptians,
 pp. 172, 173.
 
-<span id="fn_179"></span>[150:2](moc12.htm#fr_179) A History of Egypt,
+<span id="fn_179"></span>[150:2](moc12.htm#fr_179.md) A History of Egypt,
 Vol. II, pp. 146, 147.
 
-<span id="fn_180"></span>[152:1](moc12.htm#fr_180) *Herodotus*, I, 171.
+<span id="fn_180"></span>[152:1](moc12.htm#fr_180.md) *Herodotus*, I, 171.
 
-<span id="fn_181"></span>[152:2](moc12.htm#fr_181) *Strabo*, 659.
+<span id="fn_181"></span>[152:2](moc12.htm#fr_181.md) *Strabo*, 659.
 
-<span id="fn_182"></span>[153:1](moc12.htm#fr_182) *Diodorus Siculus*,
+<span id="fn_182"></span>[153:1](moc12.htm#fr_182.md) *Diodorus Siculus*,
 III, 61; Cicero, *De natura deorum*, III, 21, 53; Lucian,
 *Philopseudes*, 3, &c.
 
-<span id="fn_183"></span>[154:1](moc12.htm#fr_183) *Titus*, i, 10-12.
+<span id="fn_183"></span>[154:1](moc12.htm#fr_183.md) *Titus*, i, 10-12.
 
-<span id="fn_184"></span>[154:2](moc12.htm#fr_184) *Journal of Hellenic
+<span id="fn_184"></span>[154:2](moc12.htm#fr_184.md) *Journal of Hellenic
 Studies*, Vol. XXI, pp. 121, 122.
 
-<span id="fn_185"></span>[155:1](moc12.htm#fr_185) St. Maelrubha, the
+<span id="fn_185"></span>[155:1](moc12.htm#fr_185.md) St. Maelrubha, the
 early Christian missionary, who gave his name to Loch Maree (formerly
 Loch Ewe). He flourished in the seventh century.
 
-<span id="fn_186"></span>[156:1](moc12.htm#fr_186) Diodorus Siculus, I,
+<span id="fn_186"></span>[156:1](moc12.htm#fr_186.md) Diodorus Siculus, I,
 96.
 
-<span id="fn_187"></span>[156:2](moc12.htm#fr_187) Herodotus, II, 144.
+<span id="fn_187"></span>[156:2](moc12.htm#fr_187.md) Herodotus, II, 144.
 
-<span id="fn_188"></span>[157:1](moc12.htm#fr_188) *Ennead*, I, 6, 9.
+<span id="fn_188"></span>[157:1](moc12.htm#fr_188.md) *Ennead*, I, 6, 9.
 
-<span id="fn_189"></span>[159:1](moc12.htm#fr_189) *Herodotus*, II, 47.
+<span id="fn_189"></span>[159:1](moc12.htm#fr_189.md) *Herodotus*, II, 47.
 
-<span id="fn_190"></span>[159:2](moc12.htm#fr_190) *Pausanias*, VII, 17,
+<span id="fn_190"></span>[159:2](moc12.htm#fr_190.md) *Pausanias*, VII, 17,
 5.
 
-<span id="fn_191"></span>[159:3](moc12.htm#fr_191) *Cults of the Greek
+<span id="fn_191"></span>[159:3](moc12.htm#fr_191.md) *Cults of the Greek
 States*, L. R. Farnell, Vol. I, p. 37.
 
-<span id="fn_192"></span>[159:4](moc12.htm#fr_192) *Myths of Babylonia
+<span id="fn_192"></span>[159:4](moc12.htm#fr_192.md) *Myths of Babylonia
 and Assyria*, pp. 293-4, and *Egyptian Myth and Legend*, pp. vii, vii.
 
-<span id="fn_193"></span>[159:5](moc12.htm#fr_193) *Journal of Hellenic
+<span id="fn_193"></span>[159:5](moc12.htm#fr_193.md) *Journal of Hellenic
 Studies*, Vol. XXI, p. 129.
 
-<span id="fn_194"></span>[160:1](moc12.htm#fr_194) *British Museum Early
+<span id="fn_194"></span>[160:1](moc12.htm#fr_194.md) *British Museum Early
 Iron Age Guide*, p. 7.
 
-<span id="fn_195"></span>[160:2](moc12.htm#fr_195) *Malta and the
+<span id="fn_195"></span>[160:2](moc12.htm#fr_195.md) *Malta and the
 Mediterranean Race*, p. 126 (1912).
 
-<span id="fn_196"></span>[160:3](moc12.htm#fr_196) See *The
+<span id="fn_196"></span>[160:3](moc12.htm#fr_196.md) See *The
 Mediterranean Race*, G. Sergi, p. 313, for illustration or axes on one
 of the sculptured stones.
 
-<span id="fn_197"></span>[161:1](moc12.htm#fr_197) *Journal of Hellenic
+<span id="fn_197"></span>[161:1](moc12.htm#fr_197.md) *Journal of Hellenic
 Studies*, Vol. XXI, pp. 106 *et seq*.
 
-<span id="fn_198"></span>[161:2](moc12.htm#fr_198) *The Discoveries in
+<span id="fn_198"></span>[161:2](moc12.htm#fr_198.md) *The Discoveries in
 Crete*, p. 120.
 
-<span id="fn_199"></span>[161:3](moc12.htm#fr_199) *The Discoveries in
+<span id="fn_199"></span>[161:3](moc12.htm#fr_199.md) *The Discoveries in
 Crete*, pp. 118, 119.
 
-<span id="fn_200"></span>[162:1](moc12.htm#fr_200) Ripley's *Races of
+<span id="fn_200"></span>[162:1](moc12.htm#fr_200.md) Ripley's *Races of
 Europe*, p. 177.
 
-<span id="fn_201"></span>[163:1](moc12.htm#fr_201) Teutonic *Myth and
+<span id="fn_201"></span>[163:1](moc12.htm#fr_201.md) Teutonic *Myth and
 Legend*, pp. 380 and 428.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Pre-Hellenic Earth and Corn Mothers](moc13)
+[Next: Chapter VII. Pre-Hellenic Earth and Corn Mothers](moc13.md)

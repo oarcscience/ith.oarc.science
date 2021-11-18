@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](jae02)  [Next](jae04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](jae02)  [Next](jae04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI3LW/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI3LW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jesus An Essene*, by E. Planta Nesbit, \[1895\], at Intangible Textual
 Heritage
 
@@ -55,7 +55,7 @@ appellation, and to tell the reason why it has been given to this sect,
 and there are no less, if not more, than *nineteen* different
 explanations of it. The same authority just cited says that the term
 "Essene" was "coined" by Philo and Josephus for the benefit of the
-Greeks. <span id="fr_0"></span>[1](#fn_0)
+Greeks. <span id="fr_0"></span>[1](#fn_0.md)
 
 The words Therapeuts and Essenes are convertible terms, and refer
 primarily to the art of healing which these devotees professed, as it
@@ -89,26 +89,26 @@ loved him at the first did not forsake him, but he appeared 'to them
 again the third day, as the divine prophets had foretold these and ten
 thousand other wonderful things concerning him; and the tribe of
 Christians, so named after him, are not extinct at this day." <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 Renan says of the foregoing allusion to Jesus, "I believe the passage
 respecting Jesus to be authentic. It is perfectly in the style of
 Josephus, and if this historian has made mention of Jesus, it is thus
 that he must have spoken of him. We feel only that a Christian hand has
 retouched the passage, has added a few words, without which it would
-almost have been blasphemous, <span id="fr_2"></span>[2](#fn_2) has
+almost have been blasphemous, <span id="fr_2"></span>[2](#fn_2.md) has
 perhaps retrenched or modified some expressions. It must be recollected
 that the literary fortune of Josephus was made by the Christians, who
 adopted his writings as essential documents to their sacred history.
 They made, probably in the second century, an edition according to
-Christian ideas." <span id="fr_3"></span>[3](#fn_3) Another French
+Christian ideas." <span id="fr_3"></span>[3](#fn_3.md) Another French
 writer of distinction says, "No one in our day maintains any longer the
 entire authenticity of the chapter which Josephus devotes to
 
 <span id="page_4">p. 4</span>
 
 <span class="contnote">\[paragraph continues\]</span> Christ in his
-Antiquities." <span id="fr_4"></span>[1](#fn_4) Opinions will probably
+Antiquities." <span id="fr_4"></span>[1](#fn_4.md) Opinions will probably
 ever differ respecting the celebrated passage last cited from Josephus.
 Thus the Rev. Dr. Giles says, "Those who are best acquainted with the
 character of Josephus and the style of his writings, have no hesitation
@@ -119,7 +119,7 @@ Gospels or of Christ, their subject." Concerning the same passage, a
 still more eminent authority says, "The passage concerning Jesus Christ
 was inserted into the text of Josephus between the time of Origen and
 that of Eusebius, and may furnish us with an example of a vulgar
-forgery." <span id="fr_5"></span>[2](#fn_5) Dr. N. Lardner was also
+forgery." <span id="fr_5"></span>[2](#fn_5.md) Dr. N. Lardner was also
 evidently of opinion that the passage referred to above, in Josephus,
 was a forgery. He says, "Who was the first author of this interpolation
 cannot be said. Tanaquil Faber suspected Eusebius. I do not charge it
@@ -127,7 +127,7 @@ upon him; but I think it was first made about his time, for, if I am not
 mistaken, we have seen sufficient reason to believe that this paragraph
 was not quoted by Origen, nor by any ancient Christian writer before
 Eusebius, that we have any knowledge of." <span
-id="fr_6"></span>[3](#fn_6)
+id="fr_6"></span>[3](#fn_6.md)
 
 Admitting there is anything genuine in the allusion in Josephus to
 Jesus, we can feel little surprise at the slightness of the notice he
@@ -137,7 +137,7 @@ than a passing reference to John the Baptist, whom he
 
 <span id="page_5">p. 5</span>
 
-terms "a good man." <span id="fr_7"></span>[1](#fn_7) But it is worthy
+terms "a good man." <span id="fr_7"></span>[1](#fn_7.md) But it is worthy
 of observation that Josephus does not select either Jesus, in the
 doubtful passage we have quoted, or the Baptist, as worthy of special
 commendation; he speaks of other men in the same way. Thus, he tells us
@@ -147,15 +147,15 @@ this testimony, that he not only conducted his life after an excellent
 manner, but had the foreknowledge of future events given him by God
 also," and he assures us that Herod had the Essenes in such high
 estimation as to think "higher of them than their mortal state
-required." <span id="fr_8"></span>[2](#fn_8) In another place he refers
+required." <span id="fr_8"></span>[2](#fn_8.md) In another place he refers
 to a distinguished member of the same sect called Simon, who, he informs
 us, interpreted a vision for Archelaus. <span
-id="fr_9"></span>[3](#fn_9) Most of what will be related of the
+id="fr_9"></span>[3](#fn_9.md) Most of what will be related of the
 Therapeuts or Essenes may be found either in Philo or Josephus; but as a
 constant reference to their works would be inconvenient, we beg to refer
 the reader, as the sources whence we have chiefly selected our
 information respecting these interesting people, to the works mentioned
-below. <span id="fr_10"></span>[4](#fn_10)
+below. <span id="fr_10"></span>[4](#fn_10.md)
 
 In almost all ages and countries there have been men anxious to withdraw
 themselves from the violence and strife which often disturb the quietude
@@ -171,15 +171,15 @@ designations. At all events, as they held similar doctrines, taught the
 same precepts, and followed the same practices, we shall speak of them
 without distinction. Mosheim tells us that he agrees "entirely with
 those who regard the Therapeuts as being Jews," <span
-id="fr_11"></span>[1](#fn_11) although he does not consider it
+id="fr_11"></span>[1](#fn_11.md) although he does not consider it
 absolutely certain that they were identical with the Essenes. M. de
 Pressensé in his work also expresses it as his opinion that "the sect of
 the Essenes forms the link between the Judaism of Palestine and that of
-Alexandria." <span id="fr_12"></span>[2](#fn_12) Another writer informs
+Alexandria." <span id="fr_12"></span>[2](#fn_12.md) Another writer informs
 us that the Essenes of Egypt were divided into two sects: the practical
 Essenes, whose mode of life was the same as those of Palestine; and the
 contemplative Essenes, who were called Therapeuts. <span
-id="fr_13"></span>[3](#fn_13) Strauss informs us that the Essenes of
+id="fr_13"></span>[3](#fn_13.md) Strauss informs us that the Essenes of
 Palestine, notwithstanding their social life being in accordance with
 the rules of their order, were especially adapted to spread their
 religious principles beyond the exclusive circle of their society, in
@@ -198,7 +198,7 @@ of the amalgamation, the education and
 cultivation which took place under the Seleucidæ, the Pythagorean system
 found an echo in Palestine, this tendency being only strengthened and
 further developed by subsequent contact with the Egyptian
-Therapeuts." <span id="fr_14"></span>[1](#fn_14)
+Therapeuts." <span id="fr_14"></span>[1](#fn_14.md)
 
 It is quite certain that before the time of Jesus the Therapeuts were
 known in Egypt. Great numbers of them lived in the neighbourhood of the
@@ -243,7 +243,7 @@ had charge of the common property.
 The foregoing remarks find illustration in more than one part of the New
 Testament. Thus Jesus called upon his disciples to leave all and follow
 him; and so Peter is recorded to have once said, "Lo, we have left all,
-and followed thee." <span id="fr_15"></span>[1](#fn_15) And Jesus him
+and followed thee." <span id="fr_15"></span>[1](#fn_15.md) And Jesus him
 self frequently encouraged this utter renunciation of all worldly ties
 by the promise of great future happiness. "Verily," he said, "there is
 no man that hath left house, or brethren, or sisters, or father, or
@@ -251,13 +251,13 @@ mother, or wife, or children, or lands, for my sake, and the gospel's,
 but he shall receive an hundredfold now in this time, houses, and
 brethren, and sisters, and mothers, and children, and lands, with
 persecutions; and in the world to come eternal life." <span
-id="fr_16"></span>[2](#fn_16) Levi, the publican, afterwards Matthew, is
+id="fr_16"></span>[2](#fn_16.md) Levi, the publican, afterwards Matthew, is
 recorded to have "left
 
 <span id="page_9">p. 9</span>
 
 all" at the bidding of Jesus. At his word, he rose up and followed
-him. <span id="fr_17"></span>[1](#fn_17)
+him. <span id="fr_17"></span>[1](#fn_17.md)
 
 As the language of Jesus, which promised an increase of goods and
 relatives on earth to those who would forsake those they already had,
@@ -290,7 +290,7 @@ houses sold them, and brought the prices of the things that were sold,
 and laid them down at the apostles’ feet: and distribution was made unto
 every man according as he had need. And Joses … having land, sold it,
 and brought the money, and laid it at the apostles’ feet." <span
-id="fr_18"></span>[1](#fn_18)
+id="fr_18"></span>[1](#fn_18.md)
 
 The Essenes, as we have seen, were scattered all over Judea, and a
 warm-hearted missionary of this sect might well gain disciples to the
@@ -301,7 +301,7 @@ and Andrew, when he saw them fishing, "Follow me," to induce them
 instantly to act on his invitation. Nay, the same day, when he called
 James, the son of Zebedee, and John his brother, "they immediately left
 the ship and their father, and followed him." <span
-id="fr_19"></span>[2](#fn_19)
+id="fr_19"></span>[2](#fn_19.md)
 
 A partial renunciation of property, conjoined with the most scrupulous
 conduct, was not a sufficient claim for the privilege of discipleship
@@ -310,7 +310,7 @@ Thus, when a young man of irreproachable behaviour asked Jesus what
 "good thing" he should do to obtain eternal life, he was told to sell
 all that he had and give it to the poor. When this was done, he was
 told, treasure in heaven would be his, and he could then follow
-Jesus. <span id="fr_20"></span>[3](#fn_20) The conditions were too
+Jesus. <span id="fr_20"></span>[3](#fn_20.md) The conditions were too
 severe, he went away sorrowful; for we are told he had great
 possessions. It was on this occasion that Jesus said to his disciples,
 "It is easier for a camel to go through the eye of a needle,
@@ -318,14 +318,14 @@ possessions. It was on this occasion that Jesus said to his disciples,
 <span id="page_11">p. 11</span>
 
 than for a rich man to enter into the kingdom of God." <span
-id="fr_21"></span>[1](#fn_21) In the same spirit Jesus likened the
+id="fr_21"></span>[1](#fn_21.md) In the same spirit Jesus likened the
 kingdom of heaven "unto treasure hid in a field; the which, when a man
 hath found, he hideth, and for joy thereof goeth and selleth all that he
-hath, and buyeth that field." <span id="fr_22"></span>[2](#fn_22) Again,
+hath, and buyeth that field." <span id="fr_22"></span>[2](#fn_22.md) Again,
 he tells us, "The kingdom of heaven is like unto a merchantman, seeking
 goodly pearls: who, when he had found one pearl of great price, went and
 sold all that he had, and bought it." <span
-id="fr_23"></span>[3](#fn_23)
+id="fr_23"></span>[3](#fn_23.md)
 
 So thoroughly was the idea of wealth associated with wickedness and
 future misery, and that of poverty with virtue and eternal happiness,
@@ -342,15 +342,15 @@ Although nothing evil is related of the latter, it was his misfortune to
 be wealthy here. Though nothing excellent is related of Lazarus, it was
 his inexpressibly good fortune to be poor on earth; for having there
 received "evil things," it was his destiny hereafter to be for ever
-"comforted." <span id="fr_24"></span>[4](#fn_24) Well might Jesus say,
+"comforted." <span id="fr_24"></span>[4](#fn_24.md) Well might Jesus say,
 "Blessed be ye poor," if for this, and this
 
 <span id="page_12">p. 12</span>
 
 alone, theirs was the "kingdom of God." <span
-id="fr_25"></span>[1](#fn_25) And with equal force might he denounce the
+id="fr_25"></span>[1](#fn_25.md) And with equal force might he denounce the
 wealthy, and say, "Woe unto you that are rich! for you have received
-your consolation," <span id="fr_26"></span>[2](#fn_26) if this present
+your consolation," <span id="fr_26"></span>[2](#fn_26.md) if this present
 comfort and ease were to comprehend all they might ever hope to receive
 from the hands of Him who is equally the God and Father of the rich and
 the poor, and who, not they, determines, beyond any one's control, the
@@ -372,7 +372,7 @@ grim satisfaction to those who, in the midst of want and wretchedness,
 regard the rich and the powerful as unquestionably in the enjoyment of
 'unbroken prosperity.' There are probably those who may think that this
 dangerous condition is fulfilled in Dr. Trench himself." <span
-id="fr_27"></span>[3](#fn_27)
+id="fr_27"></span>[3](#fn_27.md)
 
 A writer, commenting on the question of the disciples,
 
@@ -387,7 +387,7 @@ the greatest wealth, and of the strictest morality and piety. But
 Jesus," he goes on to say, "was no political economist; and all his
 views were absorbed in the ideas—a community of property and the
 approach of the end of the world—which the Essenians so strictly carried
-out." <span id="fr_28"></span>[1](#fn_28)
+out." <span id="fr_28"></span>[1](#fn_28.md)
 
 The rewards promised by Jesus to the good, and the prospect of suffering
 which he held out to the evil, correspond very closely with the ideas
@@ -399,28 +399,28 @@ breathing of a west wind, that is perpetually blowing from the ocean;
 while they allotted to bad souls a dark and tempestuous den, full of
 never-ceasing punishments. So Jesus taught that the wicked shall "go
 away into everlasting punishment: but the righteous into life
-eternal." <span id="fr_29"></span>[2](#fn_29) The ultimately rejected
+eternal." <span id="fr_29"></span>[2](#fn_29.md) The ultimately rejected
 are to be cast into "outer darkness," where "weeping and gnashing of
-teeth" <span id="fr_30"></span>[3](#fn_30) will be the only sounds ever
+teeth" <span id="fr_30"></span>[3](#fn_30.md) will be the only sounds ever
 heard amidst the awful profundity of the gloom. The finally-accepted,
 the early Christians joyfully believed, will dwell in a city that shall
 have no need of the sun, neither of the moon, to shine in it, <span
-id="fr_31"></span>[4](#fn_31)
+id="fr_31"></span>[4](#fn_31.md)
 
 <span id="page_14">p. 14</span>
 
 because the Lord God giveth them light, <span
-id="fr_32"></span>[1](#fn_32) while softest music shall swell and fall
-from celestial harps, <span id="fr_33"></span>[2](#fn_33) a new song
-shall ever be sung, <span id="fr_34"></span>[3](#fn_34) and odours of
+id="fr_32"></span>[1](#fn_32.md) while softest music shall swell and fall
+from celestial harps, <span id="fr_33"></span>[2](#fn_33.md) a new song
+shall ever be sung, <span id="fr_34"></span>[3](#fn_34.md) and odours of
 heavenly fragrance shall be unceasingly poured from golden vials. <span
-id="fr_35"></span>[4](#fn_35)
+id="fr_35"></span>[4](#fn_35.md)
 
 "These men," says Josephus, speaking of the Essenes, "are despisers of
 riches, and so very communicative as raises our admiration." We might
 almost think he is praising those whom Jesus taught in these words,
 "Give to him that asketh thee, and from him that would borrow of thee
-turn not thou away." <span id="fr_36"></span>[5](#fn_36) We will still
+turn not thou away." <span id="fr_36"></span>[5](#fn_36.md) We will still
 quote the historian last cited, as his description so exactly tallies
 with the precepts of Jesus and the customs of his followers. Thus he
 continues to write:—"Nor is there any one to be found among them who
@@ -431,26 +431,26 @@ riches, but every one's possessions are intermingled with every other's
 possessions; and so there is, as it were, one patrimony among all the
 brethren." So it was with Jesus and the disciples, they all had one
 purse. When food was required, the disciples went singly or together to
-purchase it. <span id="fr_37"></span>[6](#fn_37)
+purchase it. <span id="fr_37"></span>[6](#fn_37.md)
 
 Among this admirable sect, stewards were appointed to take care of their
 secular affairs, that every member might not be occupied in worldly
 matters. So we learn that even among the disciples in the time of Jesus
 one was appointed to carry the bag containing the common property, <span
-id="fr_38"></span>[7](#fn_38) and that afterwards, in the first
+id="fr_38"></span>[7](#fn_38.md) and that afterwards, in the first
 organized body of believers, "seven men of honest report" were
 
 <span id="page_15">p. 15</span>
 
 selected by the rest to see justice done to the wants of all, both Jews
 and Gentiles, in "the daily ministration." <span
-id="fr_39"></span>[1](#fn_39)
+id="fr_39"></span>[1](#fn_39.md)
 
 Those who desired to be enrolled among the Essenes, were made partakers
-of "the waters of purification," <span id="fr_40"></span>[2](#fn_40) and
+of "the waters of purification," <span id="fr_40"></span>[2](#fn_40.md) and
 we find that even Jesus did not disdain to be baptized by John. <span
-id="fr_41"></span>[3](#fn_41) We are informed that the baptism of John
-was for "the remission of sins," <span id="fr_42"></span>[4](#fn_42) and
+id="fr_41"></span>[3](#fn_41.md) We are informed that the baptism of John
+was for "the remission of sins," <span id="fr_42"></span>[4](#fn_42.md) and
 it is well known with what importance this ceremony, sanctioned by
 Jesus, was afterwards invested, as a token of affiliation in the Church
 which he was said to have established.
@@ -478,7 +478,7 @@ unhealthy taint, or more than usual purity, must have familiarized the
 mind with the mysterious effect attributed to such a rite; and of all
 the Jewish sects, that of the Essenes, to which no doubt popular opinion
 associated the Baptists, were most frequent and scrupulous in their
-ceremonial ablutions." <span id="fr_43"></span>[1](#fn_43)
+ceremonial ablutions." <span id="fr_43"></span>[1](#fn_43.md)
 
 Dean Stanley remarks that "the plunge into the bath of purification,
 long known among the Jewish nation as the symbol of a change of life,
@@ -486,7 +486,7 @@ had been revived with a fresh energy by the Essenes, and it received a
 definite signification and impulse from the austere Prophet who derived
 his name from the ordinance." He elsewhere remarks, "With the Essenes,
 among whom baptism originated, we may almost say that it was
-godliness." <span id="fr_44"></span>[2](#fn_44) "Cleanliness next to
+godliness." <span id="fr_44"></span>[2](#fn_44.md) "Cleanliness next to
 godliness," was a maxim of John Wesley.
 
 Among the Jews, from a very early period, two modes of interpreting
@@ -536,14 +536,14 @@ saying, "The
 
 scribes and Pharisees sit in Moses’ seat: all therefore whatsoever they
 bid you observe, that observe and do." <span
-id="fr_45"></span>[1](#fn_45)
+id="fr_45"></span>[1](#fn_45.md)
 
 Notwithstanding the respect which Jesus is related to have paid to the
 teachings of the scribes and Pharisees, he is said to have seriously
 upbraided them with concealing truths from their listeners relating to
 the kingdom of heaven, shutting it up against men, not entering in
 themselves, nor yet suffering others to enter in. <span
-id="fr_46"></span>[2](#fn_46) But the lawyers, scribes, and Pharisees
+id="fr_46"></span>[2](#fn_46.md) But the lawyers, scribes, and Pharisees
 were not peculiar in their concealment of recondite verities from the
 people, the Essenes were also distinguished for a similar practice. One
 of the promises required from every proselyte who joined the Essenes was
@@ -552,21 +552,21 @@ discover any of their doctrines to others, not though any one should
 compel him to do so at the hazard of his life. It is certainly strange,
 and more than strange, that though Jesus is represented as denouncing
 the lawyers for withholding from the people "the key of
-knowledge," <span id="fr_47"></span>[3](#fn_47) it is recorded that he
+knowledge," <span id="fr_47"></span>[3](#fn_47.md) it is recorded that he
 himself did the very same thing. Thus, we are informed that when "much
 people," in fact, "great multitudes," were come to him out of every city
 to hear him preach, that he purposely spoke to them in parables, that
 seeing they might not perceive, and hearing they might not understand,
 lest at any time they should be converted and be healed *by him*, <span
-id="fr_48"></span>[4](#fn_48) while he said to his disciples that unto
+id="fr_48"></span>[4](#fn_48.md) while he said to his disciples that unto
 them it was given, by his after explanations, to know the mysteries of
-the kingdom of heaven. <span id="fr_49"></span>[5](#fn_49) We are even
+the kingdom of heaven. <span id="fr_49"></span>[5](#fn_49.md) We are even
 told by two of the
 
 <span id="page_19">p. 19</span>
 
 evangelists that Jesus *never* spoke unto the multitudes except in
-parables. <span id="fr_50"></span>[1](#fn_50)
+parables. <span id="fr_50"></span>[1](#fn_50.md)
 
 The unwillingness of Jesus, the Great Teacher as he is so often called,
 to enlighten the people at large as to the truths so important for them
@@ -578,7 +578,7 @@ he took not to enlighten them as to the meaning of his words. How
 strange such conduct appears in this Being, whom we are informed is the
 Saviour of all mankind, and who was called JESUS expressly because he
 was to "save his people from their sins!" <span
-id="fr_51"></span>[2](#fn_51) Are we really to believe that even in his
+id="fr_51"></span>[2](#fn_51.md) Are we really to believe that even in his
 own life-time this long-promised Emmanuel, this God-Man, purposely, of
 set intention, acted as described, and for the reason stated, viz. that
 those who so gladly listened to him, should, nevertheless, not be
@@ -610,18 +610,18 @@ Obedience to those in authority was a fundamental maxim with the
 Essenes, because, as Josephus informs us, they believed no one obtains
 the government without God's assistance. This idea corresponds with the
 narrative which relates the unwillingness of Jesus to offend the secular
-power when collecting tribute money; <span id="fr_52"></span>[1](#fn_52)
+power when collecting tribute money; <span id="fr_52"></span>[1](#fn_52.md)
 and with his precepts to "render unto Cæsar the things which are
-Cæsar's;" <span id="fr_53"></span>[2](#fn_53) and also with the
+Cæsar's;" <span id="fr_53"></span>[2](#fn_53.md) and also with the
 apostolic assurance that "the powers that be are ordained of God." <span
-id="fr_54"></span>[3](#fn_54) An Essene was, in fact, to show fidelity
+id="fr_54"></span>[3](#fn_54.md) An Essene was, in fact, to show fidelity
 to all men, but specially to those in authority. "No one," says Philo,
 "not even immoderately cruel tyrants, nor of the more treacherous and
 hypocritical oppressors, was ever able to bring any real accusation
 against the multitude of those called Essenes or Holy." Such being the
 case, we need hardly wonder to find it is recorded that Pilate said to
 the chief priests and the people concerning Jesus, "I find no fault in
-this man." <span id="fr_55"></span>[4](#fn_55)
+this man." <span id="fr_55"></span>[4](#fn_55.md)
 
 There are some who would infer the divinity of Jesus by assuming that no
 record exists of shortcomings or sinfulness on his part. And they tell
@@ -634,7 +634,7 @@ once reproached himself or regretted anything he had done or said. He
 never uttered a word to indicate that he had even taken a wrong step, or
 neglected a single opportunity, or that anything could have been done or
 said more or better than he had done or said." <span
-id="fr_56"></span>[1](#fn_56) We see, however, from the above testimony
+id="fr_56"></span>[1](#fn_56.md) We see, however, from the above testimony
 that there were hundreds of men in the time of Jesus against whom their
 bitterest enemies were never "able to bring any real accusation." We
 must not forget either, whatever our prepossessions are, that the life
@@ -668,7 +668,7 @@ Jesus is represented as wrangling in a very undignified manner with his
 opponents, and actually calling them the children of the devil. Now, I
 prefer to accept St. Peter's account of our Lord; but, if I do so, I
 must give up the others. Both accounts cannot be equally true." <span
-id="fr_57"></span>[1](#fn_57)
+id="fr_57"></span>[1](#fn_57.md)
 
 That Jesus did not always *attract* those who came to him can hardly be
 denied. This fact is even admitted by that eminent Churchman, Cardinal
@@ -679,7 +679,7 @@ tries to show that Christ used to 'deter' people and *repel* them. He
 illustrates it by the case of the young ruler, and says that he was
 severe on Nicodemus, and that 'he made himself strange and spake
 roughly' to those who inquired. This," adds the author whom we are
-quoting, "is very dark and dismal;" <span id="fr_58"></span>[2](#fn_58)
+quoting, "is very dark and dismal;" <span id="fr_58"></span>[2](#fn_58.md)
 which he may truly say, if we are to regard Jesus as the Redeemer of all
 mankind, in every age and in every country, without respect of persons.
 
@@ -687,7 +687,7 @@ mankind, in every age and in every country, without respect of persons.
 
 <span class="contnote">\[paragraph continues\]</span> The behaviour and
 language of Jesus to the woman of Canaan <span
-id="fr_59"></span>[1](#fn_59) is in striking opposition to this
+id="fr_59"></span>[1](#fn_59.md) is in striking opposition to this
 conception.
 
 Dr. Temple, Bishop of London, seems to admit the impossibility of
@@ -701,7 +701,7 @@ Express Image of the Father. But in this we are like men who are led
 through unknown woods by Indian guides. We recognize the indications by
 which the path was known, as soon as those indications are pointed out;
 but we feel that it would have been quite vain for us to look for them
-unaided." <span id="fr_60"></span>[2](#fn_60) The foregoing is a very
+unaided." <span id="fr_60"></span>[2](#fn_60.md) The foregoing is a very
 remarkable admission. It brings forcibly to recollection the opinion of
 those most intimate with the *private* life of Jesus. In the very
 chapter that records the appointment of twelve disciples to the
@@ -709,7 +709,7 @@ apostleship, we read that the immediate friends (in the margin,
 *kmomen*) of Jesus, so far from perceiving "the Divinity" of him they
 knew so well, were persuaded that he was "beside himself," and they even
 went so far as to go out with the, no doubt, kindly intention "to lay
-hold upon him." <span id="fr_61"></span>[3](#fn_61) This unbelief of
+hold upon him." <span id="fr_61"></span>[3](#fn_61.md) This unbelief of
 those most intimate with Jesus must have made a lasting impression on
 many minds, and have been considered in those apostolic days as highly
 significant, for in the Gospel of John, written very many years after
@@ -719,7 +719,7 @@ were chosen "many of his
 <span id="page_24">p. 24</span>
 
 disciples went back, and walked no more with him," and that "neither did
-his brethren believe in him." <span id="fr_62"></span>[1](#fn_62) These
+his brethren believe in him." <span id="fr_62"></span>[1](#fn_62.md) These
 statements confirm the opinion of Dr. Temple that a personal knowledge
 of Jesus would not probably have assisted us "to recognize" his divine
 nature.
@@ -737,7 +737,7 @@ slightest mention of those moral qualities by which he has bowed down
 the world before him, his grasp on the doctrine is far feebler than that
 of Rousseau or Mill, who have seized the very attributes which
 constitute the marrow and essence of his nature." <span
-id="fr_63"></span>[2](#fn_63)
+id="fr_63"></span>[2](#fn_63.md)
 
 It is certain, however, that the Gospels present us with a two-fold
 aspect of the character of Jesus. A careful student of the evangelistic
@@ -751,7 +751,7 @@ form any other conclusion from the fourth Gospel than that Jesus, of set
 <span id="page_25">p. 25</span>
 
 purpose, repelled the Jews lest they should believe in him." <span
-id="fr_64"></span>[1](#fn_64) This writer is evidently of the same
+id="fr_64"></span>[1](#fn_64.md) This writer is evidently of the same
 opinion as Cardinal Newman, already referred to by Kingsley, and who
 appears to conclude from the particulars we have of Jesus in the Gospels
 that he "used to 'deter' people and 'repel' them."
@@ -770,12 +770,12 @@ evangelists do not always follow the exact order of time, and it is
 sometimes impossible to decide between the different arrangements of
 events in their record. In the four narratives of the events connected
 with the resurrection all harmonists find themselves baffled." <span
-id="fr_65"></span>[2](#fn_65)
+id="fr_65"></span>[2](#fn_65.md)
 
 A more recent authority on this subject, who tells us in the
 commencement of his "Life of Christ" that the Gospels "are always
 truthful, bearing on every page that simplicity which is the stamp of
-honest narrative;" <span id="fr_66"></span>[3](#fn_66)
+honest narrative;" <span id="fr_66"></span>[3](#fn_66.md)
 
 <span id="page_26">p. 26</span>
 
@@ -793,7 +793,7 @@ any general consent. An indisputable or convincing harmony of the
 Gospels appears to me impossible. To enter into all the arguments on
 this subject would be to undertake a task which would fill volumes and
 yet produce no final settlement of the difficulty." <span
-id="fr_67"></span>[1](#fn_67) There have actually been about two hundred
+id="fr_67"></span>[1](#fn_67.md) There have actually been about two hundred
 different harmonies of the four Gospels published since the Reformation,
 the whole of which have failed to reconcile the discordant elements and
 details of these histories.
@@ -825,10 +825,10 @@ affected by the concurrence or contradiction of the testimonies in its
 favour. And if the contradictions are such as to be wholly incapable of
 a reconciliation, the proof of the fact will certainly not be so
 satisfactory, as it would be, if the witnesses agreed." <span
-id="fr_68"></span>[1](#fn_68) A more recent and an esteemed author
+id="fr_68"></span>[1](#fn_68.md) A more recent and an esteemed author
 affirms, when referring to the Bible, that "In a divine book everything
 must be true, and as two contradictions cannot both be true, it must not
-contain any contradiction." <span id="fr_69"></span>[2](#fn_69) In all
+contain any contradiction." <span id="fr_69"></span>[2](#fn_69.md) In all
 estimates of the life of Jesus we should never forget that we only
 possess very imperfect and often contradictory accounts of from two to
 four years of it, leaving about twenty-six years of varied incidents
@@ -864,7 +864,7 @@ strife were evidently discountenanced among them, there was nothing
 warlike in their ways, and we can readily believe they would have been
 averse to the manufacture of martial or of deadly weapons. Nay, Jesus
 himself is reported to have said "they that take the sword shall perish
-with the sword." <span id="fr_70"></span>[1](#fn_70)
+with the sword." <span id="fr_70"></span>[1](#fn_70.md)
 
 <span id="page_29">p. 29</span>
 
@@ -873,7 +873,7 @@ to the asker and lend without interest to the borrower, and who were
 forbidden to accumulate treasure. "Lay not up for yourselves," said
 Jesus to his disciples, "treasures upon earth, where moth and rust doth
 corrupt, and where thieves break through and steal." <span
-id="fr_71"></span>[1](#fn_71) These sentiments attributed to Jesus, a
+id="fr_71"></span>[1](#fn_71.md) These sentiments attributed to Jesus, a
 recent author remarks, "are, in reality, the sentiments of the poor
 Essenian Jews, who placed the sum of human virtue in passive meekness
 and rigid self-denial, in poverty, bodily and mental suffering, and a
@@ -881,15 +881,15 @@ total dereliction of all worldly concerns. The essence of religion they
 believed to consist in peace, quietness and tranquility; and they were
 so negligent of all earthly affairs, that if the world had been peopled
 with Essenians, it would soon have come to an end." <span
-id="fr_72"></span>[2](#fn_72)
+id="fr_72"></span>[2](#fn_72.md)
 
 The utmost equality obtained among the followers of Jesus. "All ye are
-brethren," <span id="fr_73"></span>[3](#fn_73) said this teacher to his
+brethren," <span id="fr_73"></span>[3](#fn_73.md) said this teacher to his
 disciples. He claimed for himself alone the title of Master, <span
-id="fr_74"></span>[4](#fn_74) but this term seems to have been chiefly
+id="fr_74"></span>[4](#fn_74.md) but this term seems to have been chiefly
 used to indicate that they were to learn from him lessons of humility
 and lowliness, for he said, "he that is greatest among you shall be your
-servant." <span id="fr_75"></span>[5](#fn_75) Acting on this principle
+servant." <span id="fr_75"></span>[5](#fn_75.md) Acting on this principle
 he even washed, we are told, his disciples’ feet. In like manner, Philo
 informs us that in the sacred feast of the Therapeuts, young men were
 selected from the other members with all possible care, on account of
@@ -903,14 +903,14 @@ of virtue."
 The conquest of the passions was a primary doctrine among the Essenes.
 So Jesus makes the rash display of anger a deadly sin, which placed man
 in the greatest imminence, and the utterances of hasty revilings as
-putting him in danger of hell-fire. <span id="fr_76"></span>[1](#fn_76)
+putting him in danger of hell-fire. <span id="fr_76"></span>[1](#fn_76.md)
 
 The Essenes considered pleasures an evil, and this opinion was enforced
 by Jesus in the parable of the sower who went forth to sow. The seed
 which fell among thorns, we are told by him, are "they, which, when they
 have heard, go forth, and are choked with cares and riches and pleasures
 of this life, and bring no fruit to perfection." <span
-id="fr_77"></span>[2](#fn_77)
+id="fr_77"></span>[2](#fn_77.md)
 
 Remarking on this parable, a recent writer observes that "The rude,
 slovenly, careless agriculture which Jesus has depicted in the Parable
@@ -931,7 +931,7 @@ own irregular wayside discourses—wandering from place
 <span id="page_31">p. 31</span>
 
 to place, and imparting to groups of rude, unprepared minds instruction
-without education." <span id="fr_78"></span>[1](#fn_78)
+without education." <span id="fr_78"></span>[1](#fn_78.md)
 
 The Essenes, again, were particularly averse to oaths on ordinary
 occasions; whatever they said was strictly to be credited. Swearing in
@@ -942,15 +942,15 @@ said, "neither by heaven; for it is God's throne: nor by the earth; for
 it is his footstool: neither by Jerusalem; for it is the city of the
 great King." All swearing, in fact, even by the "head," was prohibited,
 and whatever asseveration included more than "Yea, yea," or "Nay, nay,"
-was said to be evil. <span id="fr_79"></span>[2](#fn_79)
+was said to be evil. <span id="fr_79"></span>[2](#fn_79.md)
 
 When the Essenes partook of food together a priest always said grace
 before meat, and it was unlawful for any one to taste of the food before
 this was done. Jesus also, it is recorded, gave thanks on several
-occasions before distributing food, <span id="fr_80"></span>[3](#fn_80)
+occasions before distributing food, <span id="fr_80"></span>[3](#fn_80.md)
 and, in the affecting scene of the last supper, it is said that he took
-bread and blessed it, <span id="fr_81"></span>[4](#fn_81) or gave
-thanks, <span id="fr_82"></span>[5](#fn_82) previous to handing it to
+bread and blessed it, <span id="fr_81"></span>[4](#fn_81.md) or gave
+thanks, <span id="fr_82"></span>[5](#fn_82.md) previous to handing it to
 his disciples.
 
 Josephus describes the Essenes as considering it a good thing to be
@@ -959,29 +959,29 @@ white veils; while Philo remarks of the Therapeuts, that, when they
 assembled on religious occasions, they came together clothed in white
 garments. And so we are informed that when Jesus was transfigured before
 Peter, James and John, "his raiment was white as the light." <span
-id="fr_83"></span>[6](#fn_83) Another writer
+id="fr_83"></span>[6](#fn_83.md) Another writer
 
 <span id="page_32">p. 32</span>
 
 says that on the same occasion it was white as snow; so as no fuller on
-earth could whiten them. <span id="fr_84"></span>[1](#fn_84) We read,
+earth could whiten them. <span id="fr_84"></span>[1](#fn_84.md) We read,
 also, that the raiment of the angel who rolled the stone from the door
 of the sepulchre was as "white as snow." <span
-id="fr_85"></span>[2](#fn_85) The angel spoken of in the Revelation of
+id="fr_85"></span>[2](#fn_85.md) The angel spoken of in the Revelation of
 St. John promised a few in the church at Sardis that they should walk
-with him "in white," <span id="fr_86"></span>[3](#fn_86) and he is
+with him "in white," <span id="fr_86"></span>[3](#fn_86.md) and he is
 represented as saying generally, "He that overcometh, the same shall be
-clothed in white raiment." <span id="fr_87"></span>[4](#fn_87) In the
+clothed in white raiment." <span id="fr_87"></span>[4](#fn_87.md) In the
 same book the four and twenty elders who sat round the throne are
 described as "clothed in white raiment," <span
-id="fr_88"></span>[5](#fn_88) and John, who beheld the Apocalyptic
+id="fr_88"></span>[5](#fn_88.md) and John, who beheld the Apocalyptic
 vision, says, "I beheld, and, lo, a great multitude, which no man could
 number, of all nations, and kindreds, and people, and tongues, stood
 before the Lamb, clothed with white robes." <span
-id="fr_89"></span>[6](#fn_89) In other parts of the book just quoted we
+id="fr_89"></span>[6](#fn_89.md) In other parts of the book just quoted we
 shall find the same preference given to white garments and to white
 objects as that which the Essenes and Therapeuts are said to have
-manifested. <span id="fr_90"></span>[7](#fn_90)
+manifested. <span id="fr_90"></span>[7](#fn_90.md)
 
 In the early ages of Christianity the followers of Jesus still
 celebrated some of the Jewish ordinances, in particular that relating to
@@ -1012,10 +1012,10 @@ woman, carried away with her admiration of his teachings, exclaimed,
 "Blessed is the womb which bare thee, and the paps which thou hast
 sucked." To which Jesus is reported to have replied, "Yea rather,
 blessed are they that hear the word of God, and keep it." <span
-id="fr_91"></span>[1](#fn_91) We may also, in this manner, comprehend
+id="fr_91"></span>[1](#fn_91.md) We may also, in this manner, comprehend
 the singular mode in which he is once said to have accosted his mother,
 "Woman, what have I to do with thee?" <span
-id="fr_92"></span>[2](#fn_92) We are not told that this apparently rough
+id="fr_92"></span>[2](#fn_92.md) We are not told that this apparently rough
 manner offended his mother. On the contrary, she seems to have regarded
 it as quite in keeping with the mission upon which he had entered. He
 had renounced all family ties himself, or he would not have advised and
@@ -1075,14 +1075,14 @@ Jesus is said to have expressed towards his friends, of his exhortations
 to them to love each other, and himself, their teacher, in particular.
 He compares in one place the love which he bore to his disciples to that
 which his heavenly Father bore to him, saying, "As the Father hath loved
-me, *so* have I loved you." <span id="fr_93"></span>[1](#fn_93) He tells
+me, *so* have I loved you." <span id="fr_93"></span>[1](#fn_93.md) He tells
 his followers that love to one another was to be their peculiar
 distinction. "By this," he said, "shall all men know that ye are my
 disciples, if ye have love one to another." <span
-id="fr_94"></span>[2](#fn_94) And he excites their affection to himself
+id="fr_94"></span>[2](#fn_94.md) And he excites their affection to himself
 by solemnly declaring, that whosoever loved him should be loved by God
 himself, saying, "He that loveth me shall be loved of my Father." <span
-id="fr_95"></span>[3](#fn_95)
+id="fr_95"></span>[3](#fn_95.md)
 
 The very affection which the brotherhood we are speaking of felt towards
 each other, was strictly limited to the male sex. The Essenes, at least
@@ -1106,7 +1106,7 @@ It appears highly probable that Joseph and Mary, the parents of Jesus,
 belonged to this section of the Essenes; and we read expressly of the
 former, that when he was fully assured of offspring by his wife, that he
 "knew her not till she had brought forth her first-born son." <span
-id="fr_96"></span>[1](#fn_96)
+id="fr_96"></span>[1](#fn_96.md)
 
 Archdeacon Farrar, in his beautifully written, poetical, but fallacious
 "Life of Christ," ignores the exceedingly numerous instances in which
@@ -1133,17 +1133,17 @@ encouraged others to become irretrievably so, and also that he was a
 great recluse. Not to dwell on the fact of his long seclusion till he
 reached middle age, he often retired from the world; he was not always
 preaching, as witness his forty days in "the wilderness," <span
-id="fr_97"></span>[1](#fn_97) his retirement "into a solitary
-place," <span id="fr_98"></span>[2](#fn_98) his departure "into a
-mountain to pray," <span id="fr_99"></span>[3](#fn_99) his going "into a
-desert place," <span id="fr_100"></span>[4](#fn_100) his going "into a
-mountain himself alone," <span id="fr_101"></span>[5](#fn_101) and his
+id="fr_97"></span>[1](#fn_97.md) his retirement "into a solitary
+place," <span id="fr_98"></span>[2](#fn_98.md) his departure "into a
+mountain to pray," <span id="fr_99"></span>[3](#fn_99.md) his going "into a
+desert place," <span id="fr_100"></span>[4](#fn_100.md) his going "into a
+mountain himself alone," <span id="fr_101"></span>[5](#fn_101.md) and his
 hiding himself on several occasions. <span
-id="fr_102"></span>[6](#fn_102) In fact, the time came quite early in
+id="fr_102"></span>[6](#fn_102.md) In fact, the time came quite early in
 his ministry when "he would not walk in Jewry," <span
-id="fr_103"></span>[7](#fn_103) or, if he did so at all, it was done
+id="fr_103"></span>[7](#fn_103.md) or, if he did so at all, it was done
 secretly, for it is afterwards emphatically said, "He walked no more
-openly among the Jews." <span id="fr_104"></span>[8](#fn_104)
+openly among the Jews." <span id="fr_104"></span>[8](#fn_104.md)
 
 Admitting that the parents of Jesus were Essenes, their going into
 Egypt, from whatever cause, is easily understood, as it has been shown
@@ -1160,7 +1160,7 @@ Another writer says it was "the simplest thing in those days to step
 over the frontier round the corner of the Mediterranean into Egypt—just
 as we slip over to Boulogne or Paris; the road from ancient times was so
 beaten a track that the very cab and horse fares are mentioned. (*See* 1
-Kings x. 29.)" <span id="fr_105"></span>[1](#fn_105) The early years of
+Kings x. 29.)" <span id="fr_105"></span>[1](#fn_105.md) The early years of
 Jesus are involved in much obscurity, according to the Scripture; but
 not sufficiently so to affect our general argument. Matthew makes the
 departure into Egypt to have taken place almost immediately after his
@@ -1215,7 +1215,7 @@ that knowledge of "the Law and the Prophets," that ability to select and
 to read from them extracts in the synagogues, which extorted the
 admiration and surprise of his hearers, and caused them to exclaim, "How
 knoweth this man letters?" assuming, no doubt, that he had "never
-learned." <span id="fr_106"></span>[1](#fn_106) No writers have been
+learned." <span id="fr_106"></span>[1](#fn_106.md) No writers have been
 hardy enough to assert that the knowledge Jesus manifested was acquired
 in any other mode than that which is usual; he must have been taught by
 those who at first knew more than himself, though he was probably an
@@ -1290,11 +1290,11 @@ who demur, in any degree, to their fidelity. It is, however, really true
 that many have first had their suspicions aroused, that unquestioning
 belief is folly, by the laboured efforts of "defenders of the faith" to
 explain the unexplainable, or to reconcile absolutely conflicting
-accounts of the same events. <span id="fr_107"></span>[1](#fn_107)
+accounts of the same events. <span id="fr_107"></span>[1](#fn_107.md)
 Nevertheless, we are often told that "Whosoever will be saved: before
 all things it is necessary that he hold the Catholic faith, which faith,
 except every one do keep whole and undefiled, without doubt he shall
-perish everlastingly." <span id="fr_108"></span>[2](#fn_108) Luke iii.
+perish everlastingly." <span id="fr_108"></span>[2](#fn_108.md) Luke iii.
 22, distinctly tells us, speaking of Jesus, that
 
 <span id="page_43">p. 43</span>
@@ -1308,7 +1308,7 @@ common sense, following St. Jerome and Theodoret, explain that we need
 suppose nothing more than a light—probably a sunbeam—through a cloud,
 which, to the spiritual eye, was the holy dove, and a peal of thunder
 from the cloud, which, to the spiritual ear, was a heavenly
-voice." <span id="fr_109"></span>[1](#fn_109) This sort of exposition
+voice." <span id="fr_109"></span>[1](#fn_109.md) This sort of exposition
 looks very much like charging the evangelist with downright falsehood,
 but it corresponds with the views of some of the very earliest of the
 Christian fathers; as, before the two writers Haweis refers to, Origen
@@ -1335,7 +1335,7 @@ Gospels by any one who will read them with attention, and will observe
 that in those narratives which appear to be literally recorded there are
 inserted and interwoven things which cannot be admitted historically,
 but which may be accepted in a spiritual signification." <span
-id="fr_110"></span>[1](#fn_110)
+id="fr_110"></span>[1](#fn_110.md)
 
 If teachers in Sunday schools, and curates in village churches, may thus
 explain the absolute statements of what so many regard with the utmost
@@ -1399,7 +1399,7 @@ We differ from him totally on this point. On the contrary, we are
 expressly told that Jesus taught as follows:—"If any man come to me, and
 hate not his father, and mother, and wife, and children, and brethren,
 and sisters, yea, and his own life also, he cannot be my
-disciple." <span id="fr_111"></span>[1](#fn_111) This passage shows that
+disciple." <span id="fr_111"></span>[1](#fn_111.md) This passage shows that
 in order to be a complete disciple of Jesus, a man was to regard *his
 wife*, as well as his other relations, even his father and mother, with
 the utmost indifference. In such a degree did Jesus require the
@@ -1422,7 +1422,7 @@ were made eunuchs of men, and
 
 *there be eunuchs which have made themselves eunuchs for the kingdom of
 heaven's sake*. He that is able to receive it, let him receive
-it." <span id="fr_112"></span>[1](#fn_112) And not a few in the early
+it." <span id="fr_112"></span>[1](#fn_112.md) And not a few in the early
 Church did receive this saying, to the extent of inflicting on
 themselves frightful mutilations. This practice reached its height about
 the second century. The unnatural usage we speak of became so frequent
@@ -1434,7 +1434,7 @@ That Jesus in Matthew xix. 12, referred to a custom not uncommon among
 the Essenes, was the opinion of a careful student of the Scriptures,
 who, in commenting on the passage, says, "I believe our Lord alludes to
 the case of the Essenes, one of the most holy and pure sects among the
-Jews." <span id="fr_113"></span>[2](#fn_113) A more recent author
+Jews." <span id="fr_113"></span>[2](#fn_113.md) A more recent author
 remarks on the same verse as follows:—"This passage clearly shows that
 some of the Jewish, as well as the heathen ascetics of that period,
 thought it a great merit to become eunuchs, in order to secure
@@ -1450,7 +1450,7 @@ and there by a
 
 <span id="page_48">p. 48</span>
 
-fanatic in later times." <span id="fr_114"></span>[1](#fn_114) In our
+fanatic in later times." <span id="fr_114"></span>[1](#fn_114.md) In our
 own day a sect exists in Russia, the members of which regard with
 profound reverence the words in Matthew xix. 12. These they are said to
 carry out in practice to their legitimate signification, after first
@@ -1466,15 +1466,15 @@ they are also cruelly persecuted by the orthodox church.
 Long before the time of Jesus, the rigour of the old Mosaic law in
 reference to eunuchs appears to have softened. In that code we find that
 such mutilated persons should not even enter into the congregation of
-the Lord; <span id="fr_115"></span>[2](#fn_115) but he who is called the
+the Lord; <span id="fr_115"></span>[2](#fn_115.md) but he who is called the
 evangelical prophet did not disdain to write, "Thus saith the Lord unto
 the eunuchs that keep my Sabbaths, and choose the things that please me,
 and take hold of my covenant; even unto them will I give in mine house a
 place and a name better than of sons and of daughters: I will give them
 an everlasting name, that shall not be cut off." <span
-id="fr_116"></span>[3](#fn_116) It appears that the prophet Daniel, from
+id="fr_116"></span>[3](#fn_116.md) It appears that the prophet Daniel, from
 the records we have of him, was, in all probability, himself a
-eunuch. <span id="fr_117"></span>[4](#fn_117) In a book, the canonicity
+eunuch. <span id="fr_117"></span>[4](#fn_117.md) In a book, the canonicity
 of which is accepted by the largest section of the Christian Church, we
 also read,
 
@@ -1484,7 +1484,7 @@ also read,
 eunuch, which with his hands hath wrought no iniquity, nor imagined
 wicked things against God: for unto him shall be given the special gift
 of faith and an entrance into the temple of the Lord." <span
-id="fr_118"></span>[1](#fn_118)
+id="fr_118"></span>[1](#fn_118.md)
 
 "There can be no doubt," says a writer well versed in Jewish history and
 usages, "that Jesus refers to the Essenes in Matthew xix. 12, when he
@@ -1494,7 +1494,7 @@ imposed upon themselves a state of celibacy, in order that they might
 devote themselves more closely to the service of God. And 1 Corinthians
 vii. can hardly be understood without bearing in mind the notions about
 marriage entertained by this God-fearing and self-denying order." <span
-id="fr_119"></span>[2](#fn_119)
+id="fr_119"></span>[2](#fn_119.md)
 
 When we attentively study the history of Jesus imperfectly as it has
 come down to us, we cannot fail to notice his entire freedom from the
@@ -1511,7 +1511,7 @@ head, kissing his feet all the
 <span id="page_50">p. 50</span>
 
 time, and anointing them with ointment from a box of alabaster which she
-carried with her. <span id="fr_120"></span>[1](#fn_120) This episode
+carried with her. <span id="fr_120"></span>[1](#fn_120.md) This episode
 must not be confounded with the somewhat similar incident recorded
 elsewhere, and which took place at *Bethany*, in the house of Simon the
 leper. The name of the woman in the story related by Luke is not given,
@@ -1525,7 +1525,7 @@ Martha, and that in performing her act of reverential love, she not only
 anointed his feet, wiping them also with her hair, but that she likewise
 poured the precious ointment of spikenard so liberally upon his head
 that the house was filled with the odour of it. <span
-id="fr_121"></span>[2](#fn_121)
+id="fr_121"></span>[2](#fn_121.md)
 
 It is certain, if the records are trustworthy, that Jesus by his
 gentleness and other amiable qualities attracted to himself numerous
@@ -1534,49 +1534,49 @@ personally supply his daily wants and to give him of their substance.
 The names of some of these hospitable and sympathetic females have been
 transmitted to us. As might be expected, that of Mary Magdalene comes
 first, then there is that of Joanna, the wife of Chuza, Herod's steward.
-Another was named Susanna. <span id="fr_122"></span>[3](#fn_122) Besides
+Another was named Susanna. <span id="fr_122"></span>[3](#fn_122.md) Besides
 these
 
 <span id="page_51">p. 51</span>
 
 we are told there were "many others." <span
-id="fr_123"></span>[1](#fn_123) It is quite evident Jesus was by no
+id="fr_123"></span>[1](#fn_123.md) It is quite evident Jesus was by no
 means the friendless wanderer some have imagined. He had influential
 female patrons in various households, able and even anxious to minister
 to his need. They took care of him in life, and gathered together around
 his grave at the last. Some of them even followed him from Galilee to
-Jerusalem. <span id="fr_124"></span>[2](#fn_124) They saw him crucified
+Jerusalem. <span id="fr_124"></span>[2](#fn_124.md) They saw him crucified
 and placed in the tomb, and witnessed how his body was laid. They
 gathered disconsolately about the sepulchre, and were the first to
 discover that he had already risen or been removed from it. Among these
 devotees we find named once more Mary Magdalene, the Joanna already
 mentioned, Mary the mother of James, and "other women." <span
-id="fr_125"></span>[3](#fn_125)
+id="fr_125"></span>[3](#fn_125.md)
 
 A peculiar sanctity appears in all ages to have been attached to
 virginity, and special reference has been paid to it in most countries.
 The Greeks respected chastity in their priestesses, and the Romans
 considered it sacred in their vestals, who were always virgins. The high
 priests under the Mosaic ritual were not permitted to take any but
-virgins for their wives; <span id="fr_126"></span>[4](#fn_126) the
+virgins for their wives; <span id="fr_126"></span>[4](#fn_126.md) the
 Hebrews as a nation were often spoken of under the similitude of a
 virgin, in such phrases as "the virgin daughter of Zion," <span
-id="fr_127"></span>[5](#fn_127) "the virgin daughter of my
-people," <span id="fr_128"></span>[6](#fn_128) and virgin daughter of
-Israel." <span id="fr_129"></span>[7](#fn_129) The essential distinction
+id="fr_127"></span>[5](#fn_127.md) "the virgin daughter of my
+people," <span id="fr_128"></span>[6](#fn_128.md) and virgin daughter of
+Israel." <span id="fr_129"></span>[7](#fn_129.md) The essential distinction
 of Jesus above all other men is that he is said to have been born of a
-virgin; <span id="fr_130"></span>[8](#fn_130) the kingdom of heaven is
-"likened unto ten virgins;" <span id="fr_131"></span>[9](#fn_131) and in
+virgin; <span id="fr_130"></span>[8](#fn_130.md) the kingdom of heaven is
+"likened unto ten virgins;" <span id="fr_131"></span>[9](#fn_131.md) and in
 the Apocalypse those who are mentioned as privileged to follow the Lamb
 whithersoever he goeth are "virgins," *men* who have
 
 <span id="page_52">p. 52</span>
 
-not been "defiled with women." <span id="fr_132"></span>[1](#fn_132) The
+not been "defiled with women." <span id="fr_132"></span>[1](#fn_132.md) The
 influence of this idea still exists, and a recent author assures us that
 "in Christianity scarcely any other single circumstance has contributed
 so much to the attraction of the faith as the ascription of virginity to
-its female ideal." <span id="fr_133"></span>[2](#fn_133)
+its female ideal." <span id="fr_133"></span>[2](#fn_133.md)
 
 Not only did the teachings of Jesus tend to exalt a celibate life over
 the married state, but the great apostle of the Gentiles gave the weight
@@ -1607,7 +1607,7 @@ they accordingly did in future, and spent the rest of their lives in the
 greatest abstinence and seclusion. It is recorded that Ammon was
 extremely averse to nudity, and that he never saw himself naked, being
 accustomed to say, "It became not a monk to see his own person
-exposed." <span id="fr_134"></span>[1](#fn_134)
+exposed." <span id="fr_134"></span>[1](#fn_134.md)
 
 Celibates, among the primitive Christians, were considered as
 "terrestrial seraphs," a "spiritual aristocracy," particularly the
@@ -1651,7 +1651,7 @@ possess this purity of *body*, as well as in soul, which the Church at
 large has in soul only! In truth, the virgins of Christ are, as we may
 say, the fat and marrow of the Church, and by right of an excellence
 altogether peculiar to themselves, they enjoy his most familiar
-embraces." <span id="fr_135"></span>[1](#fn_135)
+embraces." <span id="fr_135"></span>[1](#fn_135.md)
 
 In such impassioned language as the foregoing were men and women,
 everywhere, encouraged by the early teachers of Christianity to devote
@@ -1672,13 +1672,13 @@ the virgins of his flock, exclaimed, "What have the virgins of the
 Church to do at promiscuous baths; and there to violate the commonest
 dictates of feminine modesty! Thus it is that the Church so often has to
 weep for her virgins; so does she bewail their infamy, and the horrid
-tales which get abroad." <span id="fr_136"></span>[1](#fn_136) Long
+tales which get abroad." <span id="fr_136"></span>[1](#fn_136.md) Long
 before the time of Chrysostom, about the close of the second century,
 Clement of Alexandria protested against those who, under pretence of
 bestowing *the kiss of charity* (1 Peter v. 14), did "nothing but make
 the churches resound;" and he says, "This very thing, the shameless use
 of the kiss, which ought to be mystic, occasions foul suspicions and
-evil reports." <span id="fr_137"></span>[2](#fn_137)
+evil reports." <span id="fr_137"></span>[2](#fn_137.md)
 
 In all the ordinary ecclesiastical histories the infamous irregularities
 of the sworn celibates of the first four or five centuries of our era
@@ -1686,7 +1686,7 @@ are glossed over by obscure generalities; so much so, in fact, that we
 are informed by a competent authority that "no reader of either Mosheim,
 Milner, or Neander, could fully understand the state of things which is
 plainly implied in the language of Cyprian and others." <span
-id="fr_138"></span>[3](#fn_138)
+id="fr_138"></span>[3](#fn_138.md)
 
 The divinity attributed to Jesus has naturally invested all his words
 relative to celibacy, marriage, and the
@@ -1733,7 +1733,7 @@ unlearned are not only incapable of comprehending this discourse, but
 are in danger, without the assistance of a learned interpreter, of
 totally perverting its meaning. It is a known fact that very erroneous
 moral doctrines have been deduced from it." <span
-id="fr_139"></span>[1](#fn_139) Among other examples that could be
+id="fr_139"></span>[1](#fn_139.md) Among other examples that could be
 adduced in support of Michaelis's observation on the erroneous moral
 effects which a literal observance of the precepts of the Sermon on the
 Mount has sometimes produced, may be given a story related to us by a
@@ -1785,7 +1785,7 @@ example. The customs of society do not admit of it; no
 good would be done by it, and singularity is of itself an evil. Well,
 then, are the precepts of Christ not to be obeyed? Perhaps, in their
 fullest sense, they cannot be obeyed." <span
-id="fr_140"></span>[1](#fn_140) Professor Jowett might fitly have
+id="fr_140"></span>[1](#fn_140.md) Professor Jowett might fitly have
 included in the above remarks the peculiar tenets of Jesus on the
 subjects of family obligations, marriage, divorce, and celibacy.
 
@@ -1796,7 +1796,7 @@ present day, numerous monasteries or "lamaseries," as they are called,
 exist in pristine rigour in these countries, filled with secluded
 devotees, who dwell in their separate cells or huts just as the
 Therapeuts are described by Philo to have formerly done in Egypt. <span
-id="fr_141"></span>[2](#fn_141) It is more than probable that
+id="fr_141"></span>[2](#fn_141.md) It is more than probable that
 monasticism originated in Thibet, India and Tartary, and was introduced
 into Egypt, Greece, Italy and Palestine ages before the time of Jesus.
 
@@ -1812,13 +1812,13 @@ be surprised then to read of John the
 <span id="page_60">p. 60</span>
 
 <span class="contnote">\[paragraph continues\]</span> Baptist's
-partiality for the wilderness, <span id="fr_142"></span>[1](#fn_142) or
+partiality for the wilderness, <span id="fr_142"></span>[1](#fn_142.md) or
 that Jesus, at the outset of his mission, exclaimed, "The foxes have
 holes, and the birds of the air have nests; but the Son of man hath not
-where to lay his head." <span id="fr_143"></span>[2](#fn_143) That this
+where to lay his head." <span id="fr_143"></span>[2](#fn_143.md) That this
 was not always the case we learn from the fact that at one time, perhaps
 afterwards, he abode in Bethabara (or rather, as it should be, Bethany)
-beyond Jordan. <span id="fr_144"></span>[3](#fn_144)
+beyond Jordan. <span id="fr_144"></span>[3](#fn_144.md)
 
 In moving from place to place it was the custom of the Essenes to carry
 nothing superfluous with them. The very language of Jesus to his
@@ -1826,8 +1826,8 @@ disciples is just what an experienced follower of this sect may be
 conceived to have given to new converts when setting out on their
 journeys. "Provide neither gold, nor silver, nor brass in your purses,
 nor scrip for your journey, neither two coats, neither shoes, nor yet
-staves;" <span id="fr_145"></span>[4](#fn_145) they were not even to
-take bread. <span id="fr_146"></span>[5](#fn_146) All this was rendered
+staves;" <span id="fr_145"></span>[4](#fn_145.md) they were not even to
+take bread. <span id="fr_146"></span>[5](#fn_146.md) All this was rendered
 unnecessary for the Essenes, which is apparent from what is said of them
 by Josephus:—"Nor do they either buy or sell anything to one another:
 but every one of them gives what he hath to him that wanteth it, and
@@ -1836,7 +1836,7 @@ and although there be no requital made, they are fully allowed to take
 what they want from whomsoever they please." So Jesus taught his
 disciples, and instructed each of them thus, "Give to him that asketh
 thee, and from him that would borrow of thee turn not thou away;" <span
-id="fr_147"></span>[6](#fn_147) and when he was asked by the people what
+id="fr_147"></span>[6](#fn_147.md) and when he was asked by the people what
 they should do, after he had exhorted them to bring forth fruits worthy
 of repentance, he answered, "He that hath two coats, let him impart to
 him that hath none; and he
@@ -1844,13 +1844,13 @@ him that hath none; and he
 <span id="page_61">p. 61</span>
 
 that hath meat let him do likewise." <span
-id="fr_148"></span>[1](#fn_148) We can easily understand from the
+id="fr_148"></span>[1](#fn_148.md) We can easily understand from the
 foregoing that the Essenes did not require extensive wardrobes; in fact,
 they were not allowed by "the rules of their order," a change of
 garments, of sandals or of shoes, till the old habiliments were worn to
 pieces or destroyed by age. "They do not own two cloaks or a double set
 of shoes," was said of them long after the time of Jesus. <span
-id="fr_149"></span>[2](#fn_149)
+id="fr_149"></span>[2](#fn_149.md)
 
 Philo, speaking of the Essenes, says:—"There is no one who has a house
 so absolutely his own property, that it does not in some sense also
@@ -1872,13 +1872,13 @@ off the dust
 
 <span id="page_62">p. 62</span>
 
-of your feet." <span id="fr_150"></span>[1](#fn_150) And, with that
+of your feet." <span id="fr_150"></span>[1](#fn_150.md) And, with that
 terrible intensity of wrath which sometimes seemed to fill his soul,
 Jesus adds, "Verily I say unto you, it shall be more tolerable for the
 land of Sodom and Gomorrha in the day of judgment, than for that city."
 The disciples were specially cautioned against importunity in these
 words, "Go not from house to house." <span
-id="fr_151"></span>[2](#fn_151) Such commands would be incomprehensible
+id="fr_151"></span>[2](#fn_151.md) Such commands would be incomprehensible
 if we were to believe that Jesus intended the disciples to enter
 indiscriminately any house. They were to "enquire" as to suitable
 houses, enter them, and if refused hospitality were to leave at once,
@@ -1904,7 +1904,7 @@ which he
 doeth, prating against us with malicious words: and not content
 therewith, neither doth he himself receive the brethren, and forbiddeth
 them that would, and casteth them out of the church." <span
-id="fr_152"></span>[1](#fn_152)
+id="fr_152"></span>[1](#fn_152.md)
 
 We read in one of our ancient chronicles that "Those that are caught in
 any heinous sins, they (the Essenes) cast out of their society; and he
@@ -1912,7 +1912,7 @@ who is thus separated from them, does often die after a miserable
 manner; for as he is bound by the oath he hath been engaged in, he is
 not at liberty to partake of that food that he meets with elsewhere, but
 is forced to eat grass, and to famish his body till he perish." <span
-id="fr_153"></span>[2](#fn_153) The foregoing description of the fate
+id="fr_153"></span>[2](#fn_153.md) The foregoing description of the fate
 which those who were expelled from "the Church" of the Essenes,
 corresponds very closely with the directions given by Jesus himself to
 his followers who were offended with any of their brethren, for it must
@@ -1924,7 +1924,7 @@ will not hear thee, then take with thee one or two more, that in the
 mouth of two or three witnesses every word may be established. And if he
 shall neglect to hear them, tell it unto the church: but if he neglects
 to hear the church, let him be unto thee as an heathen man and a
-publican." <span id="fr_154"></span>[3](#fn_154) A very important fact
+publican." <span id="fr_154"></span>[3](#fn_154.md) A very important fact
 seems to be proved by the last quotation, which is, that in the time of
 Jesus a church existed, and what community could this be but that of the
 Essenes? They had, as we learn from
@@ -1947,13 +1947,13 @@ is to be noticed that this word was in constant use immediately after
 the death of Jesus. Thus we read of it frequently both in the singular
 and plural form in the Acts of the Apostles, in the Epistles, and in the
 Book of Revelation. In one place we are informed that persons were
-"added to the church," <span id="fr_155"></span>[1](#fn_155) in another
+"added to the church," <span id="fr_155"></span>[1](#fn_155.md) in another
 reference is made to "the Churches throughout all Judea and
-Galilee." <span id="fr_156"></span>[2](#fn_156) And, again, we read of
+Galilee." <span id="fr_156"></span>[2](#fn_156.md) And, again, we read of
 elders being ordained "in every church." <span
-id="fr_157"></span>[3](#fn_157) And as "Grecians" were soon permitted to
+id="fr_157"></span>[3](#fn_157.md) And as "Grecians" were soon permitted to
 join the church which Jesus established, <span
-id="fr_158"></span>[4](#fn_158) so it was not long before the missionary
+id="fr_158"></span>[4](#fn_158.md) so it was not long before the missionary
 zeal of his first followers formed churches over a great portion of Asia
 Minor. Consequently we read of the "seven churches" of Ephesus, Smyrna,
 Pergamos, Thyatira, Sardis, Philadelphia, and Laodicea, and also of the
@@ -1975,16 +1975,16 @@ Lutherans, the Moravian Brethren, and the Society of Friends. In Jewish
 synagogues, likewise, the sexes worship apart. In the earliest period of
 our era, as Dean Milman tells us, "the Christian Church was almost
 universally formed by a secession from a Jewish synagogue." <span
-id="fr_159"></span>[1](#fn_159) Thus we need not be surprised that the
+id="fr_159"></span>[1](#fn_159.md) Thus we need not be surprised that the
 first Christians maintained some of the peculiarities of Jewish worship.
 
 The mode of excommunication practised by the Essenes and recommended by
 Jesus, was also enforced by Paul and the early Christians. <span
-id="fr_160"></span>[2](#fn_160) It became customary in all the churches
+id="fr_160"></span>[2](#fn_160.md) It became customary in all the churches
 to act according to that law which deprived of ordinances, and excluded
 from the community persons of vile character, or who were addicted to
 gross sin, provided they would not reform on being admonished." <span
-id="fr_161"></span>[3](#fn_161) We think the similarity between the
+id="fr_161"></span>[3](#fn_161.md) We think the similarity between the
 usage of the Essenes and the early church in the matter of discipline is
 sufficient to warrant our belief that the latter copied the former in
 their treatment of those who offended against their ecclesiastical
@@ -1994,7 +1994,7 @@ Philo gives what M. de Pressensé terms a "poetic
 
 <span id="page_66">p. 66</span>
 
-picture" <span id="fr_162"></span>[1](#fn_162) of the Essenes. We do not
+picture" <span id="fr_162"></span>[1](#fn_162.md) of the Essenes. We do not
 see why we should not accept as truthful the description which this
 Jewish historian has left of the ascetics who congregated on the borders
 of Lake Maria. It certainly represents a state of society which would be
@@ -2007,24 +2007,24 @@ have secluded themselves from the world; and it has always been believed
 by many that the Deity reveals himself rather to such than to those
 whose minds are occupied with mundane affairs. It was when Moses was in
 the hinder part of the desert that God appeared to him "in a flame of
-fire out of the midst of a bush." <span id="fr_163"></span>[2](#fn_163)
+fire out of the midst of a bush." <span id="fr_163"></span>[2](#fn_163.md)
 It was on the desolate heights of Sinai that "God answered him by a
-voice;" <span id="fr_164"></span>[3](#fn_164) and it was while in a
+voice;" <span id="fr_164"></span>[3](#fn_164.md) and it was while in a
 cave, amidst the solitudes of Horeb, that Elijah heard the "still small
-voice." <span id="fr_165"></span>[4](#fn_165) The habitual residence of
+voice." <span id="fr_165"></span>[4](#fn_165.md) The habitual residence of
 the Baptist was the wilderness; and it was in the desert that angels
-came and ministered unto Jesus. <span id="fr_166"></span>[5](#fn_166)
+came and ministered unto Jesus. <span id="fr_166"></span>[5](#fn_166.md)
 The objection of M. de Pressensé, that, by the partiality of the Essenes
 for the practice of continence and their habits of cleanliness, they
 "showed clearly that they regarded matter as the source of evil," <span
-id="fr_167"></span>[6](#fn_167) is no more against them as a sect than
+id="fr_167"></span>[6](#fn_167.md) is no more against them as a sect than
 the idea which obtained among the ancient Hebrews and early Christians,
 that an abstinence from marital rights
 
 <span id="page_67">p. 67</span>
 
 and washing with "pure water" were conducive to sanctity, and to
-communion with God in prayer. <span id="fr_168"></span>[1](#fn_168)
+communion with God in prayer. <span id="fr_168"></span>[1](#fn_168.md)
 
 Philo furnishes us with a most interesting account of the sacred
 entertainments of the Therapeuts, which, however, we can only epitomize.
@@ -2089,7 +2089,7 @@ their solemn festivals, and which forcibly brings to our mind what Jesus
 and the apostles did at the termination of the eucharist. Two of the
 evangelists tell us that this solemn ceremony was followed by the
 singing of "a hymn," after which Jesus and those with him arose and
-proceeded to the mount of Olives. <span id="fr_169"></span>[1](#fn_169)
+proceeded to the mount of Olives. <span id="fr_169"></span>[1](#fn_169.md)
 
 In different ages, when a spirit of revival has moved the Christian
 world, the conduct of the Therapeuts has been occasionally imitated, but
@@ -2115,7 +2115,7 @@ relations and friends, as fully as though parted from them by the grave.
 The Junkers, or "Harmless People," as they are often called, term
 themselves "Brethren." They live in little villages and groups of farms.
 They permit marriage, like one sect of the Essenes did, but still hold
-celibacy in the highest honour. <span id="fr_170"></span>[1](#fn_170)
+celibacy in the highest honour. <span id="fr_170"></span>[1](#fn_170.md)
 
 Josephus in various places informs us of the firmness with which the
 Essenes held to their own views, being willing to endure the most
@@ -2127,7 +2127,7 @@ anticipated by the Essenes.
 Martyrdom has often appeared to be a desirable termination to a life of
 piety, and we learn that this sect esteemed death better than life if
 the former would contribute to their glory. <span
-id="fr_171"></span>[2](#fn_171) When persecuted by the Romans on account
+id="fr_171"></span>[2](#fn_171.md) When persecuted by the Romans on account
 of their religion, they endured the extremity of suffering rather than
 blaspheme their legislator, or partake of what was forbidden them to eat
 by the rules of their community. They were tortured, they were burnt and
@@ -2142,12 +2142,12 @@ the Christian
 <span id="page_71">p. 71</span>
 
 religion merely from the sufferings which its first disciples underwent
-rather than abandon it. <span id="fr_172"></span>[1](#fn_172) Such a
+rather than abandon it. <span id="fr_172"></span>[1](#fn_172.md) Such a
 proof of honest conviction, as "suffering for conscience’ sake" implies,
 thousands of men, professing the most opposite creeds, have afforded in
 all ages. The Jews have always been pre-eminent for the fortitude with
 which they have refused to forsake the commands of their
-law-giver. <span id="fr_173"></span>[2](#fn_173) All the various sects,
+law-giver. <span id="fr_173"></span>[2](#fn_173.md) All the various sects,
 besides the Essenes, which arose among them in former times, maintained
 the peculiarities of their opinions amidst the utmost pangs of torture,
 and the prospect of a cruel death. The Hindoos, again, have, for an
@@ -2216,7 +2216,7 @@ awaiting a lingering death, had only one word to say,—'Master, are you
 satisfied with me?' At length all was over; night closed in upon heaps
 of mangled carcases; the heads were suspended in bunches on the
 scaffold, and the dogs of the *Faubourgs* were going in troops towards
-the place of execution." <span id="fr_174"></span>[1](#fn_174) How
+the place of execution." <span id="fr_174"></span>[1](#fn_174.md) How
 forcibly we are reminded by this remarkable account of those Essenes
 described by Josephus, who "smiled in their very pains, and laughed
 those to scorn who inflicted the torments upon them," and of the
@@ -2248,7 +2248,7 @@ able historians that the number of Christian martyrs has been greatly
 exaggerated by the mistaken zeal of the early fathers and the monkish
 writers of the Middle Ages. Pressensé, speaking for himself, says, "With
 Pascal, we are ready to believe martyr-witnesses." <span
-id="fr_175"></span>[1](#fn_175) How, then, does he accept the testimony
+id="fr_175"></span>[1](#fn_175.md) How, then, does he accept the testimony
 of those who, in every age, in all countries, and for the most opposite
 creeds, have sanctified their faith by the free outpouring of their best
 blood? The Mohammedans themselves had this test for their religion, as
@@ -2280,7 +2280,7 @@ intrepede, as you will say; without any fear in the world—cheerfully:
 well, let them go. There was in the old times another kind of poisoned
 heretics that were called Donatists; and these heretics went to their
 execution as they should have gone to some jolly recreation or
-banquet." <span id="fr_176"></span>[1](#fn_176) Latimer was right,—there
+banquet." <span id="fr_176"></span>[1](#fn_176.md) Latimer was right,—there
 is, indeed, a vast difference between the truth of any religion and the
 faith of its professors. Suffering, and even martyrdom, may attest
 unmistakably to men's conviction of the divine origin of the former,
@@ -2366,7 +2366,7 @@ carcases lay throughout the court, the pavement streaming with their
 blood, their quivering flesh placed on the altar to be burnt, the black
 columns of smoke going up to the sky, the remains to be consumed by the
 priests or worshippers who were gathered for the occasion as to an
-immense feast." <span id="fr_177"></span>[1](#fn_177)
+immense feast." <span id="fr_177"></span>[1](#fn_177.md)
 
 Dr. Adam Clarke, Colenso, Milman, and others, have commented adversely
 respecting the improbable, not to say impossible, numbers so frequently
@@ -2384,7 +2384,7 @@ multitude. In the same chapter, however, when referring to the sacrifice
 of "peace offerings" made by this king unto the Lord, the historian is
 more precise. He tells us there were slaughtered at that ceremony "two
 and twenty thousand oxen, and an hundred and twenty thousand
-sheep." <span id="fr_178"></span>[1](#fn_178) Many persons on reflection
+sheep." <span id="fr_178"></span>[1](#fn_178.md) Many persons on reflection
 will surely be inclined to doubt this account, especially as all these
 animals had to be killed in detail, bled, skinned and disembowelled on
 the spot. All this work, and the disposal of the hides, skins, and
@@ -2399,7 +2399,7 @@ otherwise they could scarcely be handled when slain. We are informed
 that when Hezekiah, on a future occasion, offered up a far less number
 of animals as a burnt offering, the priests were too few for the
 business and had to call upon their brethren the Levites to help
-them. <span id="fr_179"></span>[2](#fn_179)
+them. <span id="fr_179"></span>[2](#fn_179.md)
 
 The most extensive system devised for the slaughtering of animals the
 world has ever known is at Chicago. The place where they are killed is
@@ -2478,12 +2478,12 @@ so closely bound up in the passion of him to whose life that history was
 the prelude, that it is impossible to take any great scene out of that
 history, without more or less prefiguring to the disciples of Christ
 some aspect of the greatest crisis in human history." <span
-id="fr_180"></span>[1](#fn_180) A statement like this, of course,
+id="fr_180"></span>[1](#fn_180.md) A statement like this, of course,
 appropriately applies to such a prominent event in Hebrew history as the
 dedication of Solomon's Temple, itself but a type of that future
 spiritual, yet bodily temple, to be laid low and prostrated, and
 afterwards to be raised in three days. <span
-id="fr_181"></span>[2](#fn_181)
+id="fr_181"></span>[2](#fn_181.md)
 
 The finding of types in the Old Testament history, prefiguring events
 relating to the coming dispensation, has been a favourite occupation
@@ -2506,7 +2506,7 @@ inherit the blessings of eternity, are so far from being better than
 their fellow creatures, that, for the most part, they are greatly
 inferior, both in the endowments of the mind and outward distinctions.
 *Even so, Father:* for so it seemeth good in thy sight! (Matthew xi.
-26.)" <span id="fr_182"></span>[1](#fn_182)
+26.)" <span id="fr_182"></span>[1](#fn_182.md)
 
 This author goes so far as to see a type of the apostles—as chosen,
 humble, but efficient orators over more educated and able speakers, to
@@ -2517,7 +2517,7 @@ Jesus Christ, who could have commanded the secular arm to spread the
 conquest of his gospel, or have ordained strength out of the mouths of
 the eloquent orators and profound philosophers, yet chose contemptible
 fishermen, and perfected praise out of the mouths of babes and
-sucklings." <span id="fr_183"></span>[2](#fn_183)
+sucklings." <span id="fr_183"></span>[2](#fn_183.md)
 
 Wandering missionaries, self-elected, and of a lower educational
 standing than the writer last cited, sometimes abuse, almost to a
@@ -2544,10 +2544,10 @@ Then, in all directions, was roasting, and boiling, and seething of
 meat, in pots, caldrons and pans, carried hither and thither by hungry
 men, women and children. These feastings lasted seven days. What a time
 of rioting and of waste all these details suggest! <span
-id="fr_184"></span>[1](#fn_184) Occasionally there was an unseemly
+id="fr_184"></span>[1](#fn_184.md) Occasionally there was an unseemly
 contention about the distribution of sacrificial meat, as when the
 unruly sons of Eli forcibly insisted on having it raw, to roast, instead
-of taking it boiled. <span id="fr_185"></span>[2](#fn_185)
+of taking it boiled. <span id="fr_185"></span>[2](#fn_185.md)
 
 Christian writers, notwithstanding the innumerable sacrifices of the old
 dispensation, assure us—
@@ -2605,7 +2605,7 @@ to be executed to the letter: "No devoted thing, that a man shall devote
 unto the Lord of all that he hath, both of man and beast, shall be sold
 or redeemed: every devoted thing is most holy unto the Lord. None
 devoted, which shall be devoted of men, shall be redeemed; but shall
-surely be put to death." <span id="fr_186"></span>[1](#fn_186) Poor
+surely be put to death." <span id="fr_186"></span>[1](#fn_186.md) Poor
 devoted Midianitish maidens, "the Lord's tribute," the consecrated band,
 "most holy unto the Lord," what became of them, but that, in obedience
 to this most wicked and blasphemous order, they were, with what details
@@ -2624,13 +2624,13 @@ hideous narrative in all its naked horrors. They have only recently
 assured us, in the most solemn manner, that even such stories as those
 of the unholy massacres of the Midianites and other people against whom
 the Israelites waged remorseless carnage, is "incontrovertibly the
-actual historical truth." <span id="fr_187"></span>[2](#fn_187)
+actual historical truth." <span id="fr_187"></span>[2](#fn_187.md)
 
 <span id="page_87">p. 87</span>
 
 Another example of human sacrifice of an enemy offered up to the God of
 the Israelites is that made by Samuel, who "hewed Agag in pieces before
-the Lord in Gilgal," <span id="fr_188"></span>[1](#fn_188) whom Saul had
+the Lord in Gilgal," <span id="fr_188"></span>[1](#fn_188.md) whom Saul had
 mercifully taken alive. How all the remorseless spirit of the
 overbearing priest is shown by this cold-blooded murder!
 
@@ -2642,11 +2642,11 @@ their normal condition before the great Captivity, as appears very
 probable), they often passed their children through fire, or, in other
 words, offered them up as burnt sacrifices to their false gods, as did
 the nations around them, is referred to in many parts of their history
-and prophetic writings, <span id="fr_189"></span>[2](#fn_189) but from
+and prophetic writings, <span id="fr_189"></span>[2](#fn_189.md) but from
 considering such awful sacrifices acceptable to the idols of the
 heathen, it is hardly a matter of surprise that they believed their own
 national and local deity, or "god of the land" as he was
-described, <span id="fr_190"></span>[3](#fn_190) would be well-pleased
+described, <span id="fr_190"></span>[3](#fn_190.md) would be well-pleased
 with, and appeased by, similar presentations. And here it may
 appropriately be remarked, that if the word God, as applied to "Yahve"
 or Jehovah in our Bibles, was more commonly printed with a small g, the
@@ -2671,7 +2671,7 @@ god of Nahor, the god of their fathers," to judge between them. Joseph
 married an Egyptian wife, used a divining cup, and swore not by God, but
 by Pharaoh, his master and king. It is a matter of history that during
 their sojourn in Egypt the Israelites served the deities of that
-country, <span id="fr_191"></span>[1](#fn_191) and after their exodus
+country, <span id="fr_191"></span>[1](#fn_191.md) and after their exodus
 they asked Aaron to make them "gods," and he formed for them the golden
 calf. Moses was wrath at this, and destroyed the idol, yet very
 inconsistently, and contrary to the absolute prohibition not to make any
@@ -2682,7 +2682,7 @@ gods by the Israelites for a period of over seven hundred years, under
 the name of "Nehustan," meaning, as explained in the marginal reference,
 "a piece of brass." During the whole of this time the children of Israel
 burnt incense to it, as to other gods. <span
-id="fr_192"></span>[2](#fn_192) This very idol is referred to in one of
+id="fr_192"></span>[2](#fn_192.md) This very idol is referred to in one of
 the Gospels without the slightest disapproval, though Hoshea found it
 necessary to destroy it. It is
 
@@ -2759,7 +2759,7 @@ Israel" to commemorate this atrocious sacrifice four days in the year,
 and, as regards Jephthah himself, he was thought worthy, in consequence
 of his inhuman deed, to have his name enrolled among the list of those
 Jewish saints who for their pious conduct "obtained a good report
-through faith." <span id="fr_193"></span>[1](#fn_193)
+through faith." <span id="fr_193"></span>[1](#fn_193.md)
 
 The history of Jephthah's daughter is so opposed to the first principles
 of humanity that attempts have naturally been made to explain away its
@@ -2771,7 +2771,7 @@ accordance with his vow;" and another learned authority remarks "that
 the daughter was really offered up to God (read here 'god') as a
 sacrifice—slain by the hand of her father and then burnt—is a horrible
 conclusion, but which it seems impossible to avoid." <span
-id="fr_194"></span>[2](#fn_194) The sacrifice of
+id="fr_194"></span>[2](#fn_194.md) The sacrifice of
 
 <span id="page_92">p. 92</span>
 
@@ -2841,7 +2841,7 @@ from the scorching sun, which beats on that open spot all day, or from
 the drenching dews at night, but she spread on the rocky floor the thick
 mourning sackcloth which, as a widow, she wore, and, crouching there,
 she watched that neither vulture nor jackal should molest the
-bodies." <span id="fr_195"></span>[1](#fn_195)
+bodies." <span id="fr_195"></span>[1](#fn_195.md)
 
 The opinion we have expressed, that David was influenced by political
 motives in his cruel injustice to Rizpah's sons, is now generally
@@ -2850,7 +2850,7 @@ suspicion in later times, as there seems to have been at the time (2
 Samuel xvi. 7, 8), that the oracle, which gave as the cause of the
 famine Saul's massacre of the Gibeonites, may have been connected with
 the desire to extinguish the last remains of the fallen dynasty." <span
-id="fr_196"></span>[2](#fn_196) Not only was David guilty of the murder
+id="fr_196"></span>[2](#fn_196.md) Not only was David guilty of the murder
 of the seven descendants of Saul, but he broke also that commandment in
 Deuteronomy xxi. 22, 23, which ordained that the body of no man who was
 hung should remain "all night upon the tree," but should be buried the
@@ -2890,7 +2890,7 @@ offender, whom he did not suspect, by lot, declaring that the
 transgressor, though even Jonathan his son, should surely be put to
 death. So he besought for this purpose the assistance of Jehovah,
 saying, "unto the Lord God of Israel, give a perfect lot." <span
-id="fr_197"></span>[1](#fn_197) With such powerful and willing aid, of
+id="fr_197"></span>[1](#fn_197.md) With such powerful and willing aid, of
 course Jonathan was soon discovered, and then his devout and
 conscientious father exclaimed, "God do so and more also, for thou shalt
 surely die, Jonathan." But in this instance the people, more merciful
@@ -2949,26 +2949,26 @@ manifestation of this idea in the utterance of Caiaphas, the high
 priest, recorded in John's Gospel in which he is said to have declared,
 when speaking of Jesus, that it was expedient "that one man should die
 for the people, and that the whole nation perish not." <span
-id="fr_198"></span>[1](#fn_198) And it is significantly added, "from
+id="fr_198"></span>[1](#fn_198.md) And it is significantly added, "from
 that day forth they took counsel together for to put him to death." The
 tendency of the Mosaic teaching, that there is a saving efficacy in the
 outpouring of blood, finds a perfect response in the Pauline portions of
 the New Testament, the total result being expressed in these words,
 "without shedding of blood there is no remission." <span
-id="fr_199"></span>[2](#fn_199) And, as the Lord is represented as
+id="fr_199"></span>[2](#fn_199.md) And, as the Lord is represented as
 smelling "a sweet savour" when Noah offered up a burnt sacrifice of
 every clean beast and every clean fowl after the flood, <span
-id="fr_200"></span>[3](#fn_200) and the innumerable outpourings of blood
+id="fr_200"></span>[3](#fn_200.md) and the innumerable outpourings of blood
 under
 
 <span id="page_98">p. 98</span>
 
 the Levitical dispensation are said in the same words to have been
-acceptable to him, <span id="fr_201"></span>[1](#fn_201) so the apostle
+acceptable to him, <span id="fr_201"></span>[1](#fn_201.md) so the apostle
 Paul can find no higher or more suitable language in which to describe
 the satisfaction of the Divine Father at the death of Jesus, for he
 tells us that it also was "an offering and a sacrifice to God for a
-sweetsmelling savour." <span id="fr_202"></span>[2](#fn_202)
+sweetsmelling savour." <span id="fr_202"></span>[2](#fn_202.md)
 
 It was fortunately the case that—in direct opposition to the idea so
 strongly inculcated by the Mosaic code that the shedding of blood could
@@ -2982,12 +2982,12 @@ will and consciousness of the evil doer, so the reform must begin in
 contrition, and be continued by a course and life of well doing. Thus a
 highly spiritual writer expressed the conviction of his heart in his
 prayer to God when he said, "Sacrifice and offering thou didst not
-require;" <span id="fr_203"></span>[3](#fn_203) and the same, or another
+require;" <span id="fr_203"></span>[3](#fn_203.md) and the same, or another
 penitent, bowing before his Maker, exclaims, "For thou desirest not
 sacrifice; else would I give it: thou delightest not in burnt offering.
 The sacrifices of God are a broken spirit: a broken and a contrite
 heart, O God, thou wilt not despise." <span
-id="fr_204"></span>[4](#fn_204) And God, represented as speaking through
+id="fr_204"></span>[4](#fn_204.md) And God, represented as speaking through
 the mouth of a prophet, is made to exclaim, "To what purpose is the
 multitude of your sacrifices unto me? saith the Lord: I am full of the
 burnt
@@ -2998,27 +2998,27 @@ offerings of rams, and the fat of fed beasts; and I delight not in the
 blood of bullocks, or of lambs, or of he goats. When ye come to appear
 before me, who hath required this at your hand, to tread my courts?
 bring no more vain oblations; incense is an abomination unto me." <span
-id="fr_205"></span>[1](#fn_205) As an effectual substitute for such
+id="fr_205"></span>[1](#fn_205.md) As an effectual substitute for such
 useless offerings he proposed as follows: "Let the wicked forsake his
 way, and the unrighteous man his thoughts: and let him return unto the
 Lord, and he will have mercy
 
 r upon him; and to our God, for he will abundantly pardon." <span
-id="fr_206"></span>[2](#fn_206) The prophets all testify more or less,
+id="fr_206"></span>[2](#fn_206.md) The prophets all testify more or less,
 to the same admirable result of true contrition, of an inward turning
 towards God, rather than of oblations. Thus Amos, speaking for the Lord,
 says: "Though ye offer me burnt offerings, and your meat offerings, I
 will not accept them: neither will I regard the peace offerings of your
-fat beasts;" <span id="fr_207"></span>[3](#fn_207) while Hosea, in the
+fat beasts;" <span id="fr_207"></span>[3](#fn_207.md) while Hosea, in the
 same name and with the same authority, continues, "For I desire mercy,
 and not sacrifice; and the knowledge of God more than burnt
-offerings." <span id="fr_208"></span>[4](#fn_208) Micah, in the same
+offerings." <span id="fr_208"></span>[4](#fn_208.md) Micah, in the same
 strain, asks, "Will, the Lord be pleased with thousands of rams, or with
 ten thousands of rivers of oil? shall I give my first-born for my
 transgression, the fruit of my body for the sin of my soul? He hath
 showed thee, O man, what is good; and what doth the Lord require of
 thee, but to do justly, and to love mercy, and to walk humbly with thy
-God?" <span id="fr_209"></span>[5](#fn_209)
+God?" <span id="fr_209"></span>[5](#fn_209.md)
 
 But Jeremiah is the most decisive and pronounced of all the prophetical
 contemners of oblations and of offerings, for in the face of the
@@ -3032,7 +3032,7 @@ most absolute denial to all those implied Divine precepts, in the
 following remarkable words," Thus saith the Lord of hosts, the God of
 Israel; … *I spake not unto your fathers, nor commanded them in the day
 that I brought them out* of the land of Egypt, concerning burnt
-offerings or sacrifices." <span id="fr_210"></span>[1](#fn_210) In these
+offerings or sacrifices." <span id="fr_210"></span>[1](#fn_210.md) In these
 emphatic words does Jeremiah deny the authenticity, as regards its
 multitude of ceremonial regulations respecting all sacrifices whatever,
 of the whole of the Mosaic ritual. But so ingrained were the
@@ -3040,7 +3040,7 @@ proclivities of the Jewish people before the Captivity for different
 sorts of sacrifices, both of men and of beasts, that they deeply
 resented all teachings to the contrary, and "killed the prophets, and
 stoned them which were sent unto them," <span
-id="fr_211"></span>[2](#fn_211) to inculcate more humane doctrines and
+id="fr_211"></span>[2](#fn_211.md) to inculcate more humane doctrines and
 practices.
 
 We will now give the passage in full, already referred to, from
@@ -3073,7 +3073,7 @@ revenues, and of the fruits of the ground; such as are good men and
 priests, who are to get their corn and food ready for them. They none of
 them differ from others of the Essenes in their way of living, but do
 the most resemble those Dacæ who are called Polistæ (dwellers in
-cities)." <span id="fr_212"></span>[1](#fn_212)
+cities)." <span id="fr_212"></span>[1](#fn_212.md)
 
 The one most striking fact in the foregoing account of the Essenes
 shows, that although they did not object to send offerings into the
@@ -3085,7 +3085,7 @@ of virtue. Twice he is recorded to have quoted the saying of Hosea, "I
 will have mercy and not sacrifice;" and to have highly commended the
 earnest scribe who professed to believe that to love God and our
 neighbour is more than "all whole burnt offerings and sacrifices." <span
-id="fr_213"></span>[2](#fn_213)
+id="fr_213"></span>[2](#fn_213.md)
 
 <span id="page_102">p. 102</span>
 
@@ -3093,7 +3093,7 @@ As a matter of fact, we do not read in the Scriptures of those extensive
 slaughterings of animals after the return of the Jews from the
 Babylonian captivity, which are so often described there before that
 event. The exiles who went back to Judea were comparatively few
-[in](errata.htm#0) number and very poor. Lambs from this period formed,
+[in](errata.htm#0.md) number and very poor. Lambs from this period formed,
 as a rule, their most important offerings, and these chiefly at the
 celebration of the Passover. The denunciations of the prophets against
 "vain oblations" had doubtless considerable effect in diminishing the
@@ -3120,7 +3120,7 @@ afternoon and nine or twelve at night. Thousands of fires, in
 <span id="page_103">p. 103</span>
 
 special ovens, prepared them; they might not be boiled or cooked except
-in this manner. <span id="fr_214"></span>[1](#fn_214)
+in this manner. <span id="fr_214"></span>[1](#fn_214.md)
 
 Josephus tells us that one of the doctrines of the Essenes was "that all
 things are best ascribed to God;" and elsewhere he informs us that they
@@ -3128,9 +3128,9 @@ believed every event of life is pre-arranged and controlled by fate or
 destiny. These ideas are prevalent in the New Testament, as well as
 fully indicated in the older Jewish Scriptures. The followers of Jesus
 believed that he was "verily pre-ordained before the foundation of the
-world," <span id="fr_215"></span>[2](#fn_215) and that his arrest and
+world," <span id="fr_215"></span>[2](#fn_215.md) and that his arrest and
 crucifixion were the result of "the determinate counsel and
-foreknowledge of God." <span id="fr_216"></span>[3](#fn_216) He himself
+foreknowledge of God." <span id="fr_216"></span>[3](#fn_216.md) He himself
 taught that even such inferior events as the death of sparrows only
 happen in accordance with the permission of the author of all, and that
 the very hairs of our heads are numbered by him. The idea of the Divine
@@ -3145,7 +3145,7 @@ was chosen instead of Esau, notwithstanding the latter was, to all
 appearance, by far the nobler man. The Hebrews are represented as being
 selected by God to be a special people unto Himself, "above all people
 that are upon the face of the earth." <span
-id="fr_217"></span>[4](#fn_217) So little were they superior, however,
+id="fr_217"></span>[4](#fn_217.md) So little were they superior, however,
 to others,
 
 <span id="page_104">p. 104</span>
@@ -3153,7 +3153,7 @@ to others,
 that one writer asks, "Why should God take such a stupid, refractory and
 totally worthless people for his people?" And he adds, "God seems to
 have chosen the worst people in the universe." <span
-id="fr_218"></span>[1](#fn_218) We cannot agree with this author
+id="fr_218"></span>[1](#fn_218.md) We cannot agree with this author
 altogether in his opinions of the ancient Israelites, but certainly
 their subsequent history by no means appears to justify the favour said
 to have been shown to them by God, as even their own prophets frequently
@@ -3163,9 +3163,9 @@ Believing that Providence overrules all events, the Hebrews, like many
 other nations, early had recourse to various means to ascertain the
 Divine will. Sometimes they sought a sign from God; as Abraham did, even
 after his Jehovah had given him a verbal assurance of the inheritance of
-Canaan for his descendants, <span id="fr_219"></span>[2](#fn_219) and as
+Canaan for his descendants, <span id="fr_219"></span>[2](#fn_219.md) and as
 Gideon did after the Lord had made him a promise. <span
-id="fr_220"></span>[3](#fn_220) But their favourite mode of divination,
+id="fr_220"></span>[3](#fn_220.md) But their favourite mode of divination,
 the easiest of application, and which the most frequently met with a
 supernatural response, was "the lot." The practice of it became a
 national custom, it was ordained by their laws, and it was employed to
@@ -3425,11 +3425,11 @@ The most distressing corollary, the inevitable result, in fact, of the
 Jewish and Christian doctrine of the Divine choice affecting mankind,
 called in theology "election," is the opposite one of rejection, or
 "reprobation." "Was not Esau Jacob's brother? saith the Lord: yet I
-loved Jacob, and I hated Esau." <span id="fr_221"></span>[1](#fn_221)
+loved Jacob, and I hated Esau." <span id="fr_221"></span>[1](#fn_221.md)
 And this happened, the apostle Paul tells us, at a period long
 antecedent to this birth, "the children being not yet born, neither
 having done any good or evil, that the purpose of God according to
-election might stand." <span id="fr_222"></span>[2](#fn_222)
+election might stand." <span id="fr_222"></span>[2](#fn_222.md)
 
 The doctrine of election may be, to those who imagine themselves the
 peculiar favourites of heaven, "full of sweet, pleasant, and unspeakable
@@ -3463,7 +3463,7 @@ responsibility in man. St. Paul evidently recognized this when he
 represents the victim of such a God as he describes, remonstrating
 against being held accountable for his actions, and asking, in a most
 reasonable manner, "Who, then, hath resisted his will?" <span
-id="fr_223"></span>[1](#fn_223)
+id="fr_223"></span>[1](#fn_223.md)
 
 If the doctrine of election, as taught by St. Paul
 
@@ -3472,7 +3472,7 @@ If the doctrine of election, as taught by St. Paul
 were true, prayer would appear to be useless. Supplication did not
 restore to Esau his birthright, pilfered from him by a designing mother
 and a supplanting brother. "He sought it carefully with many tears," we
-are told; <span id="fr_224"></span>[1](#fn_224) but if he had known how
+are told; <span id="fr_224"></span>[1](#fn_224.md) but if he had known how
 vain these all were, he would, no doubt, have spared them, with deep
 feelings of resentment—against whom, or what? Poor Esau, the
 irresponsible victim of an irrevocable fate!
@@ -3511,12 +3511,12 @@ necessarily affect our view of Christianity, De Quincey admits in the
 following words:—"I shall startle the reader a little when I inform him
 that, if there were a syllable of truth in the main statement of Joseph
 us, then at one blow goes to wreck the whole edifice of
-Christianity." <span id="fr_225"></span>[1](#fn_225) And he tells us,
+Christianity." <span id="fr_225"></span>[1](#fn_225.md) And he tells us,
 "The Church of Rome has always thrown a backward telescopic glance of
 question, of doubt, and *uneasy suspicion*, upon these ridiculous
 Essenes, and has repeatedly come to the *right conclusion*—that they
 were, and must have been, *Christians* under some mask or other." <span
-id="fr_226"></span>[2](#fn_226)
+id="fr_226"></span>[2](#fn_226.md)
 
 And how does the reader imagine De Quincey gets out of the apparently
 natural conclusion, that Christianity took its rise from Essenism?
@@ -3548,7 +3548,7 @@ to its determination. And for the Sadducees, they take away fate and say
 there is no such thing, and that the events of human affairs are not at
 its disposal; but they suppose that all our actions are in our own
 power, so that we are ourselves the causes of what is good, and receive
-what is evil from our own folly." <span id="fr_227"></span>[1](#fn_227)
+what is evil from our own folly." <span id="fr_227"></span>[1](#fn_227.md)
 Again, he refers to them as well known in the time of
 
 <span id="page_117">p. 117</span>
@@ -3557,15 +3557,15 @@ Again, he refers to them as well known in the time of
 twenty-two years before the birth of Jesus. He tells us that Herod
 endeavoured to exact a general oath of allegiance from his subjects, but
 that the strict Pharisees and Essenes refused to comply with his
-request. <span id="fr_228"></span>[1](#fn_228) The reference of Josephus
+request. <span id="fr_228"></span>[1](#fn_228.md) The reference of Josephus
 to the Essenes on this occasion is distinct. He says: "The Essenes,
 also, as we call a sect of ours, were excused from this imposition.
 These men live the same kind of life as do those whom the Greeks call
-Pythagoreans." <span id="fr_229"></span>[2](#fn_229) He further informs
+Pythagoreans." <span id="fr_229"></span>[2](#fn_229.md) He further informs
 us that Herod, in consequence of the foreknowledge of future events
 which he believed one of this sect had manifested, with whom he was
 acquainted, ever afterwards " continued to honour all the
-Essenes." <span id="fr_230"></span>[3](#fn_230)
+Essenes." <span id="fr_230"></span>[3](#fn_230.md)
 
 The testimony of Josephus is too matter-of-fact to be upset by the abuse
 with which he is assailed by De Quincey. It is quite evident the Essenes
@@ -3591,7 +3591,7 @@ imitated him in all things and continued with him three years. So when I
 had accomplished my desires, I returned back to the city, being now
 nineteen years old, and began to conduct myself according to the rules
 of the sect of the Pharisees, which is of kin to the sect of the Stoics,
-as the Greeks call them." <span id="fr_231"></span>[1](#fn_231)
+as the Greeks call them." <span id="fr_231"></span>[1](#fn_231.md)
 
 A recent writer says of the Essenes that " When one was admitted a
 member of this order, and had obtained the *apron*, which, from its
@@ -3612,7 +3612,7 @@ chapter iii.; Bably Abodu Zara,
 <span id="page_119">p. 119</span>
 
 xx\. 6; Midrash Rabba, Shir Nashirim, at the beginning, and Ben
-Chauauga, iv., 374.)" <span id="fr_232"></span>[1](#fn_232)
+Chauauga, iv., 374.)" <span id="fr_232"></span>[1](#fn_232.md)
 
 In reading the allusion of Josephus to Banus we are forcibly reminded of
 John the Baptist and of his mode of life. In fact, it was suggested by
@@ -3647,7 +3647,7 @@ increased daily by strangers in large numbers, who, tired of a life of
 trouble, follow their example. In this manner they have existed for many
 ages, though it is hardly credible, for none are born among them, so
 effectual is the weariness of others in enlarging their numbers." <span
-id="fr_233"></span>[1](#fn_233)
+id="fr_233"></span>[1](#fn_233.md)
 
 De Quincey does not absolutely deny there were persons who resembled the
 sect called Essenes. He asks, "Were there no such people as the
@@ -3680,7 +3680,7 @@ the mere inspirations of a deep distress will sometimes suggest, they
 devised the scheme of a Secret Society." He goes on to say, "The
 Christians selected the name of Essenes for the designation of the new
 society, that being the name of a venerated gate in the fortified
-cincture of the TEMPLE." <span id="fr_234"></span>[1](#fn_234)
+cincture of the TEMPLE." <span id="fr_234"></span>[1](#fn_234.md)
 
 In this manner he endeavours to account for the existence of the
 Essenes, making them a mere secret society of Christians, banded
@@ -3723,7 +3723,7 @@ its reverence for the Mosaic ceremonies. The austere life of the
 Essenians, their fasts and excommunications, the community of goods, the
 love of celibacy, their zeal for martyrdom, and the warmth, though not
 the purity of their faith, already offered a very lively image of the
-primitive discipline." <span id="fr_235"></span>[1](#fn_235) We may
+primitive discipline." <span id="fr_235"></span>[1](#fn_235.md) We may
 quote here also in particular a modern author, whose acquaintance with
 everything that concerned the early history of Christianity was most
 extensive. His testimony is point-blank opposed to the rash and
@@ -3735,7 +3735,7 @@ unfounded assertions of De Quincey, for he assures us
 points of Jewish antiquity the existing evidence relating to which is
 more distinct, or more variously supported, than that of the remarkable
 institution "and community now in question." <span
-id="fr_236"></span>[1](#fn_236) Again he says, "The facts, gathered from
+id="fr_236"></span>[1](#fn_236.md) Again he says, "The facts, gathered from
 independent and authentic sources, are to this effect—that, at the time
 of our Lord's ministry, and afterwards, there were, in and about Judea,
 several sodalities of devout and abstracted persons, whose temper and
@@ -3744,7 +3744,7 @@ moral tone than that of the mass of their countrymen, such as that, if
 they did not provoke rebuke from the Teacher of truth, they seemed
 almost to be entitled to the implicit commendation of some neutral
 reference, or at least the bare insertion of their name in the evangelic
-record." <span id="fr_237"></span>[2](#fn_237) This writer differs from
+record." <span id="fr_237"></span>[2](#fn_237.md) This writer differs from
 De Quincey in two important respects—he admits the existence of the
 Essenes as a distinct sect long before the time of Jesus, on the
 authority of Josephus and Philo whom he quotes, while De Quincey denies
@@ -3763,7 +3763,7 @@ us, "Christ and the apostles lived in the neighbourhood
 of these religionists, without seeming so much as to know that men of
 piety were about them," and, consequently, he infers that the former did
 not acknowledge a spiritual consanguinity with the latter. <span
-id="fr_238"></span>[1](#fn_238) We do not at all agree with such
+id="fr_238"></span>[1](#fn_238.md) We do not at all agree with such
 conclusions. It is possible to conceive many reasons why there is no
 allusion to the Essenes by name in the evangelical documents, while
 every reader who has perused the parallels we have drawn between the
@@ -3774,7 +3774,7 @@ any affinity or not between the former and the latter. Were not the
 Essenes considered by those who knew them as worthy of Divine
 revelations, and did not Jesus and those he chose profess to have them?
 Like the Essenes, did not Jesus frequent the wilderness <span
-id="fr_239"></span>[2](#fn_239) and practice celibacy, sanctioning the
+id="fr_239"></span>[2](#fn_239.md) and practice celibacy, sanctioning the
 latter custom not only by saying "There be eunuchs, which have made
 themselves eunuchs for the kingdom of heaven's sake," but by adding, "He
 that is able to receive it *let him receive it*"*?* Did he not also,
@@ -3794,14 +3794,14 @@ opinion between Essenism and the teachings and practice of Jesus and his
 disciples, we should, in fact, have to repeat all we have said upon this
 subject. So far as the records go, we can discern a most intimate
 likeness between them, and we think the similarity is far beyond being
-only apparent. <span id="fr_240"></span>[1](#fn_240)
+only apparent. <span id="fr_240"></span>[1](#fn_240.md)
 
 It will be only just to examine the two or three meagre pleas which
 Taylor advances with the intention to prove that the Essenes were not
 the precursors of the early Christians. He asks, "With the Acts of the
 Apostles and the Epistles in our hands, can we really believe that women
 were systematically excluded from the first Christian Societies?" <span
-id="fr_241"></span>[2](#fn_241) Certainly not; and if, by this question,
+id="fr_241"></span>[2](#fn_241.md) Certainly not; and if, by this question,
 he desires us to understand that the Essenes never married, he would
 mislead us, for Josephus distinctly affirms, in a passage we have
 already partly quoted, that there was one section of the Essenes which
@@ -3820,12 +3820,12 @@ should be of the same opinion, the whole race of men would fail.
 However, they try their spouses for three years; and if they find they
 have their natural purgations thrice, as trials that they are likely to
 be fruitful, then they actually marry them. <span
-id="fr_242"></span>[1](#fn_242) But they do not use to accompany with
+id="fr_242"></span>[1](#fn_242.md) But they do not use to accompany with
 their wives when they are with child, as a demonstration that they do
 not marry out of regard to pleasure, but for the sake of posterity. Now
 the women go into the baths with some of their garments on, as the men
 do with somewhat girded about them." <span
-id="fr_243"></span>[2](#fn_243)
+id="fr_243"></span>[2](#fn_243.md)
 
 We thus learn that there was a difference of opinion and of practice on
 the subject of marriage among the Essenes, but that this did not
@@ -3854,7 +3854,7 @@ unjust, inasmuch as they corrupt the very principle of equality, but
 likewise as impious, because they destroy the ordinances of nature,
 which generated all equally, and brought them up like a mother; as if
 they were all legitimate brethren, not in name only, but in reality and
-truth." <span id="fr_244"></span>[1](#fn_244)
+truth." <span id="fr_244"></span>[1](#fn_244.md)
 
 Had the leaven of the Essenes been capable of acting effectively on the
 mass of the Gentile world by which it was surrounded, slavery would have
@@ -3869,40 +3869,40 @@ would have become amenable to the Roman laws, which punished all who
 incited slaves to rebel against their masters. It was much safer,
 therefore, and more politic, under the new state of things, to advise
 slaves to be obedient, with fear and trembling, and in all things, <span
-id="fr_245"></span>[2](#fn_245) and to recommend masters to remember
+id="fr_245"></span>[2](#fn_245.md) and to recommend masters to remember
 that they had a master also in
 
 <span id="page_128">p. 128</span>
 
-heaven, <span id="fr_246"></span>[1](#fn_246) and to teach that whilst
+heaven, <span id="fr_246"></span>[1](#fn_246.md) and to teach that whilst
 every one should abide in the same calling wherein he was called <span
-id="fr_247"></span>[2](#fn_247) all were, both masters and slaves, but
+id="fr_247"></span>[2](#fn_247.md) all were, both masters and slaves, but
 one in Christ Jesus, in whom there was neither bond nor free, male or
-female. <span id="fr_248"></span>[3](#fn_248) Acting on these
+female. <span id="fr_248"></span>[3](#fn_248.md) Acting on these
 principles, humane in themselves, and, perhaps, more suited to the
 condition of the Roman world in the apostolic times than pure Essenism
 would have been, Paul remitted an escaped slave, after he became a
 proselyte, to his master, sending by the former a courteous note to
 Philemon his owner, in which he recommended he should be received "not
 now as a servant, but a brother beloved." <span
-id="fr_249"></span>[4](#fn_249)
+id="fr_249"></span>[4](#fn_249.md)
 
 Such a compromise as we have indicated, even on such a subject as
 slavery, Paul was eminently fitted to inaugurate. In the first place, he
 was originally a Pharisee, and had probably not those strong views on
 the subject of liberty which an Essene proper would have had; and, in
 the second place, he was essentially a man of expedients, <span
-id="fr_250"></span>[5](#fn_250) and it was his especial boast that, in
+id="fr_250"></span>[5](#fn_250.md) and it was his especial boast that, in
 order to gain accessions to the cause he had embraced, he was made all
-things to all men, that, <span id="fr_251"></span>[6](#fn_251) in fact,
+things to all men, that, <span id="fr_251"></span>[6](#fn_251.md) in fact,
 it was his aim for this purpose to "please all men in all things." <span
-id="fr_252"></span>[7](#fn_252)
+id="fr_252"></span>[7](#fn_252.md)
 
 Christianity did, no doubt, ameliorate the condition of slaves, but it
 never pronounced affirmatively, like Essenism, against slavery itself,
 unless when it spoke by the mouth of Jesus, who said, speaking to his
 disciples, "neither be called masters," <span
-id="fr_253"></span>[8](#fn_253) which must surely mean "be not masters,"
+id="fr_253"></span>[8](#fn_253.md) which must surely mean "be not masters,"
 and, if so, then Jesus himself taught similarly to the Essenes on the
 subject of slavery. It is
 
@@ -3918,7 +3918,7 @@ their Ruler and Lord. These men could not be induced by any means, even
 the most violent, to call any man "Lord," and it was quite understood at
 the time of Josephus that their resolution upon this point was so
 immoveable that the most painful death was insufficient to disturb
-it. <span id="fr_254"></span>[1](#fn_254)
+it. <span id="fr_254"></span>[1](#fn_254.md)
 
 It will be apparent to the reader, from the foregoing remarks on
 slavery, that modern abolitionists are wrong in claiming for
@@ -3931,7 +3931,7 @@ which their lives were placed under the protection of the law. By
 Christianity itself, "The abrogation of slavery was not contemplated as
 a remote possibility. A general enfranchisement seems never to have
 dawned on the wisest and best of the Christian writers." <span
-id="fr_255"></span>[2](#fn_255) In the first ages of the Church, in the
+id="fr_255"></span>[2](#fn_255.md) In the first ages of the Church, in the
 Middle Ages, down to the present century, Christians have not thought it
 wrong to buy and sell human beings, while the legal punishments for
 murdering
@@ -3953,7 +3953,7 @@ the Essenes did not use oil. He says, "Anointing with oil was much in
 use in the East, in those times especially after the use of the bath,
 and those who were most delicate anointed themselves with perfumed oil;
 but the Essenes rejected all anointing as effeminate." <span
-id="fr_256"></span>[1](#fn_256) This, of course, would not prevent them
+id="fr_256"></span>[1](#fn_256.md) This, of course, would not prevent them
 using it on religious occasions. It may be said of thousands in our own
 day, speaking generally, that they never take wine, and yet if some
 future historian were to relate that the total abstainers were not
@@ -3964,14 +3964,14 @@ but on solemn occasions, in fact, to anoint with, in a religious manner;
 and, understood in this way, we can see no opposition to their practice,
 but the contrary, in the command of Jesus when he said, "But thou, when
 thou fastest, anoint thy head, and wash thy face," <span
-id="fr_257"></span>[2](#fn_257) that is, do not use oil daily, but "when
+id="fr_257"></span>[2](#fn_257.md) that is, do not use oil daily, but "when
 thou
 
 <span id="page_131">p. 131</span>
 
 fastest." So also we find James the Apostle recommending that the sick
 should be anointed with oil, "in the name of the Lord." <span
-id="fr_258"></span>[1](#fn_258) The objection of the Essene to be
+id="fr_258"></span>[1](#fn_258.md) The objection of the Essene to be
 anointed with oil, without his own approbation, may help us to
 understand the following passage, "Let not the oil of a *sinner* anoint
 my head." (Psalm cxli. 5 (LXX).)
@@ -3984,14 +3984,14 @@ ancient custom to pour oil on stones, and the superstitious Greek
 worshipped every anointed stone which he passed. The sacred stone of
 Delphi received a daily tributary anointment, and Jacob poured a drink
 offering and oil on the stone which he set up at Bethel. <span
-id="fr_259"></span>[2](#fn_259) The vessels and priests of the Hebrew
+id="fr_259"></span>[2](#fn_259.md) The vessels and priests of the Hebrew
 tabernacle were consecrated with oil. "Through this they became
 impregnated with divinity, and every man appointed to a holy office was
 made 'a dwelling place' or living incarnation of that divine spirit
 inherent in his nature (Numbers xi. 25. Compare Genesis ii. 7, Job
 xxxii. 8), which was thus supposed to be quickened and fed with the
 emblem of material health and nourishment." <span
-id="fr_260"></span>[3](#fn_260)
+id="fr_260"></span>[3](#fn_260.md)
 
 The last objection we shall notice on the part of Taylor is that, while
 the Essenes surpassed all their countrymen in the rigid observance of
@@ -4033,19 +4033,19 @@ excusing it, telling his listeners that it was only as the
 <span id="page_133">p. 133</span>
 
 best thing possible, under the circumstances, that Moses suffered the
-Jews to put away their wives. <span id="fr_261"></span>[1](#fn_261) So
+Jews to put away their wives. <span id="fr_261"></span>[1](#fn_261.md) So
 on the subject of sabbath observances, we cannot for a moment believe he
 would have approved of a man being stoned to death for gathering sticks
 on the sabbath day, which, however, we are told was done, "as the Lord
-commanded Moses." <span id="fr_262"></span>[2](#fn_262) How emancipated
+commanded Moses." <span id="fr_262"></span>[2](#fn_262.md) How emancipated
 Jesus was from a slavish regard for Mosaic teaching, is manifest in his
 most wise and true saying, "The sabbath was made for man, and not man
-for the sabbath." <span id="fr_263"></span>[3](#fn_263) We find also
+for the sabbath." <span id="fr_263"></span>[3](#fn_263.md) We find also
 that Paul, once one of the straightest sect of the Pharisees, of that
 sect, in fact, who objected to the disciples of Jesus plucking the ears
 of corn, became quite a latitudinarian as regards the sabbath after he
 became a Christian, as anyone can readily perceive who will refer to the
-passages indicated beneath. <span id="fr_264"></span>[4](#fn_264) It is
+passages indicated beneath. <span id="fr_264"></span>[4](#fn_264.md) It is
 thus quite apparent from history, that however strict Essenes and
 Pharisees were, as religionists, regarding the observances of the
 sabbath, individuals, at least in both these sects, exercised and taught
@@ -4130,12 +4130,12 @@ looking towards the sunrise in the east. Whence, also, the most ancient
 temples looked towards the west, that people might be taught to turn to
 the east when facing the images. 'Let my prayer be directed before Thee
 as incense, the uplifting of my hands as the evening sacrifice,' say the
-Psalms." <span id="fr_265"></span>[1](#fn_265) In the Apostolical
+Psalms." <span id="fr_265"></span>[1](#fn_265.md) In the Apostolical
 Constitutions, the authorship of which, as Bunsen remarks, places us
 unmistakably in the midst of the life of the Church of the second and
 third centuries, it is directed that in worship all the people "rise up
 with one consent, and, looking towards the east, pray to God
-eastward." <span id="fr_266"></span>[2](#fn_266)
+eastward." <span id="fr_266"></span>[2](#fn_266.md)
 
 The outward respect paid to the sun by the Essenes or Therapeuts and the
 early Christians appears to have been an unconscious survival of the
@@ -4225,7 +4225,7 @@ Arabians, and also the simple act of adoration directed towards the
 rising sun.
 
 Horses and chariots consecrated to the sun were given by the kings of
-Judah for idolatrous purposes. <span id="fr_267"></span>[1](#fn_267) The
+Judah for idolatrous purposes. <span id="fr_267"></span>[1](#fn_267.md) The
 dedication of horses to the service of the sun was borrowed from the
 Persians, who honoured this luminary under the name of Mithras.
 
@@ -4255,16 +4255,16 @@ mouth of Jeremiah, accuses "their kings, their princes, their priests,
 their prophets, the men of Judah and the inhabitants of Jerusalem," as
 well as the children of Israel, of building the high places of Baal, and
 of causing their children to pass through the fire to Moloch. <span
-id="fr_268"></span>[1](#fn_268) It appears from a passage in Ezekiel,
+id="fr_268"></span>[1](#fn_268.md) It appears from a passage in Ezekiel,
 that it was customary to sacrifice in this manner, as a matter of
 course, all the first-born of the families throughout the land. <span
-id="fr_269"></span>[2](#fn_269) It must have been truly a fearful state
+id="fr_269"></span>[2](#fn_269.md) It must have been truly a fearful state
 of society, that caused Jeremiah to bemoan "the blood of the souls of
-the poor innocents," <span id="fr_270"></span>[3](#fn_270) that was
+the poor innocents," <span id="fr_270"></span>[3](#fn_270.md) that was
 being continually poured out by every family in the community as an
 acceptable sacrifice to Baal and all the stellar world. Ezekiel, also,
 reproaches his countrymen for the blood of their children, given unto
-"all the idols of abomination." <span id="fr_271"></span>[4](#fn_271)
+"all the idols of abomination." <span id="fr_271"></span>[4](#fn_271.md)
 
 Sun worship has always been accompanied with human sacrifices. The god
 Râ, the sun, is depicted
@@ -4281,7 +4281,7 @@ their subjects to Baal, prostrations eastward were made to the sun, whom
 this idol represented. In fact, Ezekiel tells us he saw, on one
 occasion, five and twenty men "with their backs towards the temple of
 the Lord, and their faces towards the east; and they worshipped the sun
-towards the east." <span id="fr_272"></span>[1](#fn_272)
+towards the east." <span id="fr_272"></span>[1](#fn_272.md)
 
 The similarity of the usage of the Essenes and Therapeuts with the
 practice of the early Christians in turning towards the east in prayer,
@@ -4289,10 +4289,10 @@ is too striking to be accidental. It prevailed so generally with the
 latter, that the Pagans supposed, as Tertullian, who wrote about 200
 A.D., tells us, that the sun was the god of the Christians, because, he
 says, "It is well known that we pray towards the east." <span
-id="fr_273"></span>[2](#fn_273) Elsewhere he remarks, "We shall be
+id="fr_273"></span>[2](#fn_273.md) Elsewhere he remarks, "We shall be
 counted Persians, perhaps, though we do not worship the orb of day
 painted on a piece of linen cloth, having himself everywhere in his own
-disk." <span id="fr_274"></span>[3](#fn_274)
+disk." <span id="fr_274"></span>[3](#fn_274.md)
 
 In the Apostolical Constitutions it is directed that the place of
 worship for the brethren be built "with its head to the east, with its
@@ -4425,7 +4425,7 @@ their re-settlement in the land of their forefathers, the Jews became as
 fanatical in the observance of their law, as they had previously been
 rebellious to the teachings of those who desired to lead them to the
 worship of one only god or God, their exhortations being continually
-enforced, so it is related, with wonders [and](errata.htm#1) miracles of
+enforced, so it is related, with wonders [and](errata.htm#1.md) miracles of
 the most extraordinary description. A learned author thus expresses
 himself on this most striking national religious revolution: "The
 
@@ -4451,7 +4451,7 @@ period from the universal contagion of idolatry; and in contradiction to
 every known principle of the human mind, that singular people seems to
 have yielded a stronger and more ready assent to the traditions of their
 remote ancestors, than to the evidence of their own senses." <span
-id="fr_275"></span>[1](#fn_275)
+id="fr_275"></span>[1](#fn_275.md)
 
 Intimately associated with sacrifices in ancient times was the burning
 of incense. The Egyptians burnt odorous resins in honour of the sun at
@@ -4491,7 +4491,7 @@ enable the priests and worshippers to perform with less discomfort their
 cruel rites. The Jews were commanded to burn it perpetually "before the
 Lord," and an elaborate recipe exists for the preparation of this holy
 compound, the unauthorized making of which was to be punished with
-death. <span id="fr_276"></span>[1](#fn_276) In time the burning of
+death. <span id="fr_276"></span>[1](#fn_276.md) In time the burning of
 incense came to be representative of the sacrifices, human or otherwise,
 which caused its introduction. Prayer was compared to it. The Psalmist
 desired that his supplications should rise up to the Divine presence as
@@ -4503,13 +4503,13 @@ apocalyptic vision tells us of vials full of odours, which were the
 prayers of the saints, and that he saw an angel, having a golden censer,
 to whom much incense was given, "that he should offer it with the
 prayers of all saints upon the golden altar which was before the
-throne." <span id="fr_277"></span>[1](#fn_277)
+throne." <span id="fr_277"></span>[1](#fn_277.md)
 
 From the earliest ages of the Church, incense, whose ignoble origin we
 have traced, has been employed at its most solemn celebrations. "O
 piety!" exclaimed a converted heathen, "what, or how great, is this
 honour which is caused by the odour of a fire, and produced from the gum
-of a tree." <span id="fr_278"></span>[2](#fn_278) Incense is still
+of a tree." <span id="fr_278"></span>[2](#fn_278.md) Incense is still
 always used at High Mass by the Roman Catholics, during the performance
 of which the priest blesses the burning and smoking fumes: "May the
 Lord, by the intercession of blessed Michael, the Archangel, standing at
@@ -4595,7 +4595,7 @@ to the acknowledgment of another God, I now swear by him also, be he or
 be he not, that I shall not do otherwise. And in addition to all these
 things, if I shall lie, I shall be accursed living and dying, and shall
 be punished with everlasting punishment." <span
-id="fr_279"></span>[1](#fn_279)
+id="fr_279"></span>[1](#fn_279.md)
 
 That early Christianity, like Essenism, partook of the nature of a
 select and secret society, seems apparent, from a passage in the
@@ -4609,7 +4609,7 @@ let us lead Basil, Ephrem, Palladius, Athanasius, among the ancient
 Essenes, and they could not but confess themselves to be at home; " and
 he even affirms that "if Philo is to be relied upon, those Jewish
 ascetics were in a much higher moral condition than the Christian monks
-of the fourth century." <span id="fr_280"></span>[2](#fn_280)
+of the fourth century." <span id="fr_280"></span>[2](#fn_280.md)
 
 The very fact of the Essenes not being mentioned in the Gospels by name,
 as objected by Taylor, is the reason why some think the writers must
@@ -4636,7 +4636,7 @@ themselves;* and tends to the belief that they were the originators of
 the new religion, under the name of Ebionites and Nazarenes, and the
 writers of the Gospels, in which they had introduced all their own
 religious views, and teachings, and movements, and acts." <span
-id="fr_281"></span>[1](#fn_281)
+id="fr_281"></span>[1](#fn_281.md)
 
 De Quincey also notices the fact that the Essenes are not mentioned by
 name in the Gospels, and says, "I would demand of Josephus why it was
@@ -4656,7 +4656,7 @@ them in the ancient people of God, appear at that time to have taken
 refuge rather in the society of the Essenes, of which we find no mention
 in the most ancient records of Christianity, probably because the tenets
 of the sect bordered too closely upon -those of the Christians." <span
-id="fr_282"></span>[1](#fn_282)
+id="fr_282"></span>[1](#fn_282.md)
 
 Taylor tells us that the Essenes seem almost entitled at least to "the
 bare mention of their names in the evangelic record." Had we not,
@@ -4689,16 +4689,16 @@ Sadducees in the three last undoubtedly was the case. And we must not
 forget that as the word "Essene" does not appear in the Gospels, so
 neither does the word "Christian." Those who were taught by Jesus, who
 accepted his "yoke" and embraced his discipline, were invariably called
-his "disciples" by himself, <span id="fr_283"></span>[1](#fn_283) while
+his "disciples" by himself, <span id="fr_283"></span>[1](#fn_283.md) while
 those with whom he chose to have the most intimate communion were
-sometimes called "apostles," <span id="fr_284"></span>[2](#fn_284) "the
-twelve," <span id="fr_285"></span>[3](#fn_285) and sometimes simply "
-disciples." <span id="fr_286"></span>[4](#fn_286)
+sometimes called "apostles," <span id="fr_284"></span>[2](#fn_284.md) "the
+twelve," <span id="fr_285"></span>[3](#fn_285.md) and sometimes simply "
+disciples." <span id="fr_286"></span>[4](#fn_286.md)
 
 But the word "disciple" was not alone used by Jesus and his followers.
-There were the disciples of Moses, <span id="fr_287"></span>[5](#fn_287)
-of the Pharisees, <span id="fr_288"></span>[6](#fn_288) and of
-John. <span id="fr_289"></span>[7](#fn_289) The term disciple was not,
+There were the disciples of Moses, <span id="fr_287"></span>[5](#fn_287.md)
+of the Pharisees, <span id="fr_288"></span>[6](#fn_288.md) and of
+John. <span id="fr_289"></span>[7](#fn_289.md) The term disciple was not,
 we thus see, distinctive of the followers of Jesus, and as regards the
 term "apostles," though used in the synoptical Gospels, it does not
 occur once in the evangel of John.
@@ -4715,9 +4715,9 @@ with an equal right to bear that name. It was at a city far removed from
 Jerusalem that the former name began to be changed for a more
 significant one, but whether in derision we are not informed, the record
 simply telling us that "the disciples were called Christians first at
-Antioch." <span id="fr_290"></span>[1](#fn_290) But it must have been a
+Antioch." <span id="fr_290"></span>[1](#fn_290.md) But it must have been a
 long time before this word became common, for it occurs only in two
-other places in the New Testament. <span id="fr_291"></span>[2](#fn_291)
+other places in the New Testament. <span id="fr_291"></span>[2](#fn_291.md)
 
 Paul and the other apostles, writing to "*the* disciples" who joined the
 respective Churches which they built up,
@@ -4741,14 +4741,14 @@ apostles appear to have been perfectly satisfied with the term "saint,"
 and this word in the Epistles seems to be the equivalent of the word
 disciple in the Gospels, the former term being only once used by the
 evangelists, and that not of the followers of Jesus. <span
-id="fr_292"></span>[1](#fn_292) The name Jesus Christ had not that
+id="fr_292"></span>[1](#fn_292.md) The name Jesus Christ had not that
 sacredness in the apostolic ages that it acquired afterwards, and that
 it has now. Jesus is only the Greek form for the Hebrew Joshua, and
 Christ is the equivalent for "anointed," or "anointed one;" thus Jesus
 Christ simply meant originally, Joshua the Messiah, or, the anointed.
 The name Joshua was a common one among the Jews, and we find it used
 twice in its Greek form in the New Testament to designate Joshua the son
-of Nun. <span id="fr_293"></span>[2](#fn_293) The name " Messiah,"
+of Nun. <span id="fr_293"></span>[2](#fn_293.md) The name " Messiah,"
 again, is not appropriated in the Hebrew Scriptures to any one person.
 As it is derived from a Hebrew word—*Mashach*, to anoint, or to
 consecrate
@@ -4757,38 +4757,38 @@ consecrate
 
 with oil—the person anointed was naturally termed *Mashiach*, or the
 anointed person. Moses anointed Aaron, we are told, "to sanctify
-him," <span id="fr_294"></span>[1](#fn_294) and Samuel in like manner,
+him," <span id="fr_294"></span>[1](#fn_294.md) and Samuel in like manner,
 when Saul was chosen to be the first king of Israel, "took a vial of
 oil, and poured it upon his head, and kissed him, and said, Is it not
 because the Lord hath anointed thee to be captain ever his
-inheritance?" <span id="fr_295"></span>[2](#fn_295) Consequently we find
+inheritance?" <span id="fr_295"></span>[2](#fn_295.md) Consequently we find
 David, in speaking of Saul, calling him "the Lord's anointed." Before
 the death of Saul, David himself was consecrated as future king in his
 place by Samuel, who on that occasion "took the horn of oil, and
 anointed him in the midst of his brethren." <span
-id="fr_296"></span>[3](#fn_296) From that time he himself was spoken of
+id="fr_296"></span>[3](#fn_296.md) From that time he himself was spoken of
 as being anointed, and so he terms himself in one of his last psalms, "I
 will give thanks unto thee, O Lord, among the heathen, and I will sing
 praises unto thy name. He is the tower of salvation for his king: and
 sheweth mercy to his *anointed*, unto <span
 class="smallcaps">David</span>, and to his seed for evermore." <span
-id="fr_297"></span>[4](#fn_297)
+id="fr_297"></span>[4](#fn_297.md)
 
 In consequence of persons being set apart for the sacerdotal and kingly
 offices by the ceremony of .anointment, it was not unusual to speak of
 any distinguished persons, set apart for a particular purpose, as being
 " anointed," or as "the anointed," even though they had not formally
 received on their heads the "holy oil." <span
-id="fr_298"></span>[5](#fn_298) An example of this sort we meet in these
+id="fr_298"></span>[5](#fn_298.md) An example of this sort we meet in these
 words: "Thus saith the Lord to *his anointed*, to Cyrus, whose right
 hand I have holden, to subdue nations before him." <span
-id="fr_299"></span>[6](#fn_299) Another very appropriate one we meet
+id="fr_299"></span>[6](#fn_299.md) Another very appropriate one we meet
 with in the fourth Gospel, where Andrew, finding Peter his brother, says
 to him, "We have found the Messias, which is, being
 
 <span id="page_157">p. 157</span>
 
-interpreted, the Christ," <span id="fr_300"></span>[1](#fn_300) or, as
+interpreted, the Christ," <span id="fr_300"></span>[1](#fn_300.md) or, as
 the latter word is rendered in the margin, "the anointed," thus showing
 that the terms "Messias" and "Christ" were considered as synonymous
 expressions by the writer of the Gospel of John. We are thus brought to
@@ -4826,7 +4826,7 @@ Eusebius appears to have been well acquainted with the works of Philo,
 and he considers the descriptions which this writer has left us of the
 Therapeuts or Essenes as so applicable to the early disciples of the
 Gospel that he does not hesitate to affirm they are one and the
-same. <span id="fr_301"></span>[1](#fn_301) A modern well-known author
+same. <span id="fr_301"></span>[1](#fn_301.md) A modern well-known author
 says, concerning the testimony of Eusebius on this subject, that "it
 may, indeed, have been only a strange confusion on the part of the
 father of Church history, when he took the Egyptian branch (or tribe) of
@@ -4836,7 +4836,7 @@ form is *so close* that *it has always given cause for reflection*. On
 both sides there is a similar constitution of society with community of
 goods and elected rulers, rejections of oaths, respect for poverty and
 celibacy, holy washings and meal times." <span
-id="fr_302"></span>[2](#fn_302)
+id="fr_302"></span>[2](#fn_302.md)
 
 The description which Tertullian gives of the Agapæ or Cœna of the early
 Christians forcibly reminds us of the sacred feasts celebrated by the
@@ -4855,7 +4855,7 @@ After water for washing hands, and lights have been brought in, everyone
 is required to sing something to the praise of God, either from the
 Scriptures or from his own thoughts; by this means if anyone has
 indulged in excess, he is detected. The feast is closed with
-prayer." <span id="fr_303"></span>[1](#fn_303)
+prayer." <span id="fr_303"></span>[1](#fn_303.md)
 
 For the information of the reader we will give some extracts from
 Eusebius, in which he makes reference to what Strauss calls "the
@@ -4868,7 +4868,7 @@ outset, that in consequence of their extreme philosophical discipline
 and austerity, Philo has considered their pursuits, their assemblies,
 and entertainments, and, in short, their whole manner of life, as
 deserving a place in his descriptions." <span
-id="fr_304"></span>[2](#fn_304) The chapter following that from which we
+id="fr_304"></span>[2](#fn_304.md) The chapter following that from which we
 have just quoted is so much to the purpose as regards the subjects upon
 which we are writing, that we shall make several extracts from it. It
 commences thus: "The same author (Philo), in the reign of Claudius, is
@@ -4963,7 +4963,7 @@ says: "Whosoever desires to have a more accurate knowledge of these
 things, may learn them from the history already cited; but that Philo,
 when he wrote these statements, had in view the first heralds of the
 Gospel, and the original practices handed down from the apostles, must
-be obvious to all." <span id="fr_305"></span>[1](#fn_305)
+be obvious to all." <span id="fr_305"></span>[1](#fn_305.md)
 
 We have hitherto refrained from expressing any views respecting the
 Messiahship of Jesus. Some remarks on
@@ -5017,9 +5017,9 @@ the Baptist very justly set them right on this point, if we may rely
 implicitly on his answers to the following questions, which certain
 priests and Levites are said to have put to him: "Art thou Elias? And he
 said, I am not. Art thou that prophet? And he answered, No," <span
-id="fr_306"></span>[1](#fn_306) Some of the Jews, we are told, thought
+id="fr_306"></span>[1](#fn_306.md) Some of the Jews, we are told, thought
 that Jesus was "Jeremiah, or one of the prophets." <span
-id="fr_307"></span>[2](#fn_307)
+id="fr_307"></span>[2](#fn_307.md)
 
 The belief of the Jews in a coming Messiah, who should exercise temporal
 sway over the nations, was so intense that more than one person among
@@ -5033,7 +5033,7 @@ over it. Multitudes were deluded, and followed him with their effects.
 Joadus, the procurator, despatched a troop of horsemen after them. Many
 of the misguided people were slain, while some were taken alive. Theudas
 was among the latter. His head was cut off and taken to Jerusalem. <span
-id="fr_308"></span>[3](#fn_308)
+id="fr_308"></span>[3](#fn_308.md)
 
 <span id="page_165">p. 165</span>
 
@@ -5041,7 +5041,7 @@ There is a dispute as to whether the Theudas mentioned by Josephus is
 the same as the person of this name referred to by Gamaliel, who,
 according to the testimony of the latter, recorded in the Acts of the
 Apostles, also "boasted himself to be somebody." <span
-id="fr_309"></span>[1](#fn_309) We are inclined to think they are
+id="fr_309"></span>[1](#fn_309.md) We are inclined to think they are
 identical, but that a chronological error exists either in Josephus or
 in Acts.
 
@@ -5057,7 +5057,7 @@ his followers scattered, but not before they had indoctrinated the whole
 Jewish people with their own love of personal freedom and with a greater
 dislike than ever of foreign domination, which, Josephus affirms, laid
 the foundation of the future misery of the Jewish nation. <span
-id="fr_310"></span>[2](#fn_310)
+id="fr_310"></span>[2](#fn_310.md)
 
 We cannot be much surprised at the fanaticism of the Jewish sectaries of
 the epoch we are speaking of, when we remember the readiness with which
@@ -5102,9 +5102,9 @@ undoubtedly were, by the national
 hope, they would naturally interpret in their own way all words in the
 Jewish Scriptures that seemed to favour their own views. *Their*
 Messiah, like themselves, would be pacific, "the Prince of Peace." <span
-id="fr_311"></span>[1](#fn_311) They regarded war with abhorrence, their
+id="fr_311"></span>[1](#fn_311.md) They regarded war with abhorrence, their
 Anointed One should, therefore, teach the people "to learn war no
-more." <span id="fr_312"></span>[2](#fn_312) Among them were no makers
+more." <span id="fr_312"></span>[2](#fn_312.md) Among them were no makers
 of offensive weapons to be found, even defensive armour was disapproved
 of by them; God, alone, was their shield, and the Lord their buckler,
 while the peaceful pursuits of agriculture formed almost their sole
@@ -5112,17 +5112,17 @@ avocation. How easy was it, then, for them to believe that under Him,
 who was to judge the nations, all men should learn to " beat their
 swords into plough-shares, and their spears into pruninghooks," and that
 nation should soon no longer "lift up sword against nation." <span
-id="fr_313"></span>[3](#fn_313)
+id="fr_313"></span>[3](#fn_313.md)
 
 The Essenes, as we have seen, would not be masters. These they regarded
 as occupying an unjust position, neither did they tolerate any slaves
 amongst them. They regarded all men as equals. With what expectation,
 then, must they have read of the time when everywhere " the captive
-exile should hasten to be loosed" <span id="fr_314"></span>[4](#fn_314)
+exile should hasten to be loosed" <span id="fr_314"></span>[4](#fn_314.md)
 under the tranquil rule of Him whose mission should be "to let the
-oppressed go free," <span id="fr_315"></span>[5](#fn_315) and who would,
+oppressed go free," <span id="fr_315"></span>[5](#fn_315.md) and who would,
 therefore, naturally become, as the universal Deliverer, "the desire of
-all nations," <span id="fr_316"></span>[6](#fn_316) or, at least, of
+all nations," <span id="fr_316"></span>[6](#fn_316.md) or, at least, of
 those of their own countrymen who were scattered among all nations.
 
 The principles of peace, and of non-resistance, which were so highly
@@ -5138,7 +5138,7 @@ from Bozrah,' and 'treading the wine-press in his wrath,' the Essene, in
 his solitary hermitage, or monastic fraternity of husbandmen, looked to
 the reign of the Messiah, when the more peaceful images of the same
 prophet would be accomplished, and the Prince of Peace establish his
-quiet and uninterrupted reign." <span id="fr_317"></span>[1](#fn_317)
+quiet and uninterrupted reign." <span id="fr_317"></span>[1](#fn_317.md)
 
 If anyone among the Essenes exhibited at this period, in an unusual
 degree, the tokens which they had already selected as those which were
@@ -5149,13 +5149,13 @@ pre-conceived ideas. When satisfied that the long expected One was
 found, there would be scarcely any bounds to the enthusiasm of the
 disciples. No hesitation would exist on the part of the earnest, ardent,
 and believing to recognize him as "He that should come," <span
-id="fr_318"></span>[2](#fn_318) especially after such a well-known and
+id="fr_318"></span>[2](#fn_318.md) especially after such a well-known and
 revered man as John the Baptist gave in his adhesion to the belief that
 the tokens of the Messiahship were fully displayed by Jesus. This
 eminent preacher of righteousness was so convinced of his own
 inferiority to Jesus, that he was reluctant to immerse the latter in the
 waters of purification, saying, "I have need to be baptized of thee, and
-comest thou to me?" <span id="fr_319"></span>[3](#fn_319)
+comest thou to me?" <span id="fr_319"></span>[3](#fn_319.md)
 
 The possession of one of the most common names among the Jews would not
 prevent this even being
@@ -5166,7 +5166,7 @@ made into a token of Messiahship. It was true that Isaiah had announced
 that the Messiah should be called Emmanuel. He whom they had discovered
 did not bear this name, but that of Jesus. This name, common as it was,
 corresponded with their hopes, for did it not signify "Saviour"? <span
-id="fr_320"></span>[1](#fn_320) Thus, we never once find in the Gospels
+id="fr_320"></span>[1](#fn_320.md) Thus, we never once find in the Gospels
 the Messiah whom the disciples recognized spoken of as "Emmanuel," as it
 is said the prophet foretold he would be, but he is everywhere termed
 "Jesus." In this instance, as in many others, the prediction does not
@@ -5211,7 +5211,7 @@ the Hebrew copy of Scripture, but commonly made use of the Septuagint.
 Greek language as its shrine, and adapted it to the things of God." The
 same author likewise tells us that the Septuagint" was manifestly the
 chief storehouse from which the apostles drew their proofs and
-precepts." <span id="fr_321"></span>[1](#fn_321) The Hebrew copy was not
+precepts." <span id="fr_321"></span>[1](#fn_321.md) The Hebrew copy was not
 quite unread, but was neglected for the sake of the translation, though
 the original and the Greek version differ in many places, from beginning
 to end. Thus it happened that a person in quest of passages which might
@@ -5260,10 +5260,10 @@ words: "And they crucified him, and parted his garments, casting
 lots: *that it might be fulfilled which was spoken by the prophet, They
 parted my garments among them, and upon my vesture did they cast lots*."
 It is most striking that the words printed in italics are not contained
-in any of the most ancient MSS. <span id="fr_322"></span>[1](#fn_322)
+in any of the most ancient MSS. <span id="fr_322"></span>[1](#fn_322.md)
 So, likewise, the words in Mark xv. 28: "And the Scripture was fulfilled
 which saith, And he was numbered with the transgressors." <span
-id="fr_323"></span>[2](#fn_323) The words in Matthew xxvii. 9, 10: "Then
+id="fr_323"></span>[2](#fn_323.md) The words in Matthew xxvii. 9, 10: "Then
 was fulfilled that which was spoken by Jeremy the prophet, saying, And
 they took the price of him that was valued, whorl they of the children
 of Israel did value; and gave them for the potter's field, as the Lord
@@ -5277,7 +5277,7 @@ them into the house of the Lord, *to the statuary*." Speaking of the
 early Christian centuries, Neander says, "At that time men were
 accustomed to find everywhere in the Old Testament predictions and types
 of Christ, whether warranted by the connection or not." <span
-id="fr_324"></span>[3](#fn_324)
+id="fr_324"></span>[3](#fn_324.md)
 
 To anyone unaccustomed to the subtleties of theologians, the ardour of
 zealots, and the unscrupulousness of devotees, such a course as we have
@@ -5313,7 +5313,7 @@ to our Lord more
 
 <span id="page_174">p. 174</span>
 
-pertinent and telling." <span id="fr_325"></span>[1](#fn_325) Another
+pertinent and telling." <span id="fr_325"></span>[1](#fn_325.md) Another
 writer tells us the evangelists and apostles "only explain what they
 quote or accommodate the passage to the facts in question." And he asks,
 "Who will say that the Holy Spirit has not a right, in any subsequent
@@ -5321,15 +5321,15 @@ period, to explain and illustrate his own meaning, by showing that it
 had a greater extension in the Divine mind than could have been
 perceived by men? And has he not a right to add to what he has formerly
 said, if it seem right in his sight!" <span
-id="fr_326"></span>[2](#fn_326) One more author tells us that "under the
+id="fr_326"></span>[2](#fn_326.md) One more author tells us that "under the
 guidance of the Holy Spirit, the New Testament writers went straight
 forward, without stopping to notice or criticize deviations from the
-Hebrew;" <span id="fr_327"></span>[3](#fn_327) while yet another
+Hebrew;" <span id="fr_327"></span>[3](#fn_327.md) while yet another
 authority instructs us that "When a text is rendered from the Hebrew
 into the Septuagint and quoted from thence into the New Testament, it is
 to be regarded as legitimated by apostolic inspiration, even if it
 should differ from the Hebrew reading." <span
-id="fr_328"></span>[4](#fn_328)
+id="fr_328"></span>[4](#fn_328.md)
 
 It seems to follow, from the mode of interpretation sanctioned by such
 writers as have just been cited, that where the Hebrew differs from the
@@ -5373,7 +5373,7 @@ ix. 9, &c.; Hebrew viii. 9; Hebrew x. 5."
 
 "Changing the original order, and adding and retrenching words," which
 he maintains is a method often used by St. Paul. <span
-id="fr_329"></span>[1](#fn_329)
+id="fr_329"></span>[1](#fn_329.md)
 
 "These rules," says a candid writer, "speak for themselves most
 significantly; for what is there that cannot be proved from the Old
@@ -5387,7 +5387,7 @@ above by a learned and good man, and
 sincere Christian, who found out, and brought forward these rules, as
 the best means of getting the authors of the New Testament out of a
 difficulty which had long shocked and grieved their best friends." <span
-id="fr_330"></span>[1](#fn_330) The idea of this author of a life of
+id="fr_330"></span>[1](#fn_330.md) The idea of this author of a life of
 Jesus being compiled and proved from other books than those of
 Scripture, is not so far fetched as might at first appear, for it is
 said that by adopting a somewhat similar method as that used by the New
@@ -5447,7 +5447,7 @@ the book which contains them; but none are so inexcusable as an author's
 not understanding his own writings; yet it follows, from the admission
 of the above premises, that the Deity, speaking in the New Testament,
 misunderstood the meaning of the Old." <span
-id="fr_331"></span>[1](#fn_331)
+id="fr_331"></span>[1](#fn_331.md)
 
 If the Essenes allowed themselves the latitude of application which the
 evangelists and apostles manifest in the use of the Jewish Scripture,
@@ -5512,14 +5512,14 @@ we might have looked for we seem actually to find in the
 read there of one who was compelled, as it were, by his associates, to
 stand forth as the Messiah, and to assume that character. John, we are
 told, pointed him out to his disciples. <span
-id="fr_332"></span>[1](#fn_332) One of these, Andrew, finding his
+id="fr_332"></span>[1](#fn_332.md) One of these, Andrew, finding his
 brother Simon, accosts him with these words, "We have found the
-Messiah." <span id="fr_333"></span>[2](#fn_333) In the mind of a person
+Messiah." <span id="fr_333"></span>[2](#fn_333.md) In the mind of a person
 selected by the suffrages of his co-religionists as the Messiah, a
 conviction in his own Messiahship might easily alternate with doubt and
 uncertainty. When the latter prevailed, it would be by no means unlikely
 for him to put to one or more of his followers the question, "Whom do
-men say that I the son of man am?" <span id="fr_334"></span>[3](#fn_334)
+men say that I the son of man am?" <span id="fr_334"></span>[3](#fn_334.md)
 In the case of Jesus the reply was probably not what he expected, for it
 was as follows: "Some say that thou art John the Baptist; some Elias;
 and others Jeremias, or one of the prophets." This answer did not
@@ -5531,21 +5531,21 @@ became unconcerned as to what the world without said of him, unable, as
 they were, to recognize him as the Messiah? Filled with joy at the
 announcement of Peter, he exclaimed in reply, "Blessed art thou, Simon
 Barjona: for flesh and blood bath not revealed it unto thee, but my
-Father which is in heaven." <span id="fr_335"></span>[4](#fn_335)
+Father which is in heaven." <span id="fr_335"></span>[4](#fn_335.md)
 
 Jesus does not appear to have realized the extent of his mission, as
 afterwards understood by the evangelists and apostles, for although we
-read in one of the Gospels <span id="fr_336"></span>[5](#fn_336)
+read in one of the Gospels <span id="fr_336"></span>[5](#fn_336.md)
 
 <span id="page_181">p. 181</span>
 
 that even in infancy he was recognized as the future light of the
 Gentiles, he himself declared that he was not sent save to the lost
-children of the house of Israel, <span id="fr_337"></span>[1](#fn_337)
+children of the house of Israel, <span id="fr_337"></span>[1](#fn_337.md)
 and it is even said that he instructed the twelve apostles whom he had
 chosen not to go in the way of the Gentiles, but to seek out the lost
 and unknown sheep of the dispersed Ten Tribes. <span
-id="fr_338"></span>[2](#fn_338)
+id="fr_338"></span>[2](#fn_338.md)
 
 The Essenes were strenuous denouncers of evil doers and of evil works,
 and we need hardly point out fully, how continually Jesus resembled them
@@ -5563,7 +5563,7 @@ bound by his own monastic rules; his whole existence was recluse and
 contemplative. His religion was altogether unfitted for aggression, so
 that, however apparently it might coincide with Christianity in some
 material points, in fact its vital system was repugnant to that of the
-new faith." <span id="fr_339"></span>[3](#fn_339)
+new faith." <span id="fr_339"></span>[3](#fn_339.md)
 
 In the foregoing quotation we have the plain admission
 
@@ -5582,20 +5582,20 @@ following: "Ye are of your father the devil, and the lusts of your
 father ye will do. He was a murderer from the beginning, and abode not
 in the truth, because there is no truth in him. When he speaketh a lie,
 he speaketh of his own: for he is a liar, and the father of it." <span
-id="fr_340"></span>[1](#fn_340)
+id="fr_340"></span>[1](#fn_340.md)
 
 If we accept the outlines of the life of Jesus given in the Gospels as
 in the main correct, we cannot but be struck with the fact that his
 favourite title, when speaking of himself, was "the son of man." He
 required his disciples not to announce him as the Messiah, <span
-id="fr_341"></span>[2](#fn_341) though their opinion of him was probably
+id="fr_341"></span>[2](#fn_341.md) though their opinion of him was probably
 known. His own brothers did not believe in him, <span
-id="fr_342"></span>[3](#fn_342) while on one occasion, it is said, his
+id="fr_342"></span>[3](#fn_342.md) while on one occasion, it is said, his
 friends went out with the intention of arresting him, believing him to
-be deranged. <span id="fr_343"></span>[4](#fn_343) But while neither the
+be deranged. <span id="fr_343"></span>[4](#fn_343.md) But while neither the
 world nor his relations accepted him as the Christ, and though many who
 had at one time followed him ceased to believe and walked no more with
-him, <span id="fr_344"></span>[5](#fn_344) the twelve remained faithful,
+him, <span id="fr_344"></span>[5](#fn_344.md) the twelve remained faithful,
 
 <span id="page_183">p. 183</span>
 
@@ -5603,7 +5603,7 @@ and once more Peter, as their mouth-piece, in response to his inquiry,
 "Will ye also go away?" exclaimed, "Lord, to whom shall we go? Thou hast
 the words of eternal life, and we believe and are sure that thou art
 that Christ, the Son of the living God." <span
-id="fr_345"></span>[1](#fn_345)
+id="fr_345"></span>[1](#fn_345.md)
 
 In a person partially or fully persuaded that the Messianic prophecies
 must needs be fulfilled in him, there would be an almost unconscious
@@ -5627,25 +5627,25 @@ concerning the kingdom of heaven, they would remember his origin and his
 former occupation, saying, "Is not this the carpenter's son? is not his
 mother called Mary? and his brethren, James, and Joses, and Simon, and
 Judas? and his sisters, are they not all with us?" <span
-id="fr_346"></span>[2](#fn_346)
+id="fr_346"></span>[2](#fn_346.md)
 
 <span id="page_184">p. 184</span>
 
 He gave the greatest offence to the scribes and pharisees, whose
 hypocrisy he reproved, while they retaliated by denying his Messiahship.
 The idea which the Jews generally entertained that Jesus considered
-himself equal with God, <span id="fr_347"></span>[1](#fn_347) made them
+himself equal with God, <span id="fr_347"></span>[1](#fn_347.md) made them
 regard him as a blasphemer, and, when distinctly charged with this
 pretension, instead of either denying it, or absolutely and
 unmistakingly affirming it, he answered their indignant, and, from their
 standpoint, just accusations, in words which read to some impartial
 persons very much like designed equivocations. <span
-id="fr_348"></span>[2](#fn_348) It is quite evident that the Jews were
+id="fr_348"></span>[2](#fn_348.md) It is quite evident that the Jews were
 puzzled by the claims of Jesus, and could not understand whether he
 wished to be regarded as the Messiah or not. No wonder, therefore, that
 on one occasion they are recorded to have asked him, almost imploringly,
 "If thou be the Christ, tell us plainly." <span
-id="fr_349"></span>[3](#fn_349)
+id="fr_349"></span>[3](#fn_349.md)
 
 Any person might have foreseen the result. Jesus himself anticipated it,
 and although he persevered in the course which he had commenced, the
@@ -5657,7 +5657,7 @@ him: "My God, my God, why hast thou forsaken me?" Let us be glad to
 believe that these were not the final words of Jesus. Once more his
 confidence revived, and his last cry, as he turned to God, was, "Father,
 into thy hands I commend my spirit." <span
-id="fr_350"></span>[4](#fn_350)
+id="fr_350"></span>[4](#fn_350.md)
 
 Then, says Matthew, in describing the crucifixion,
 
@@ -5667,7 +5667,7 @@ that mournful event, big with the destinies of untold millions of our
 race, "the earth did quake, and the rocks rent; and the graves were
 opened; and many bodies of the saints which slept arose, and came out of
 the graves after his resurrection, and went into the holy city, and
-appeared unto many." <span id="fr_351"></span>[1](#fn_351) This account
+appeared unto many." <span id="fr_351"></span>[1](#fn_351.md) This account
 is literal and exact to a degree, but Farrar evidently finds it too
 severe a trial of "his belief," for this is how he refers to it: "An
 earthquake shook the earth and split the rocks, and as it rolled away
@@ -5675,7 +5675,7 @@ from their places the great stones which closed and covered the cavern
 sepulchres of the Jews, so it seemed to the imagination of many to have
 disimprisoned the spirits of the dead, and to have filled the air with
 ghostly visitants, who, after Christ had risen, appeared to linger in
-the holy city." <span id="fr_352"></span>[2](#fn_352) Thus does Farrar
+the holy city." <span id="fr_352"></span>[2](#fn_352.md) Thus does Farrar
 speak of one of the most precise accounts of what took place after the
 crucifixion, as only "the imagination of many," as far as the risen
 bodies of the saints are concerned and their appearance in Jerusalem. He
@@ -5685,9 +5685,9 @@ this manifestation of his own unbelief, he has the hardihood to term the
 opinion of the Jews, expressed at that time, that the body of Jesus was
 stolen from the sepulchre, "one of the blaspheming follies which was
 repeated and amplified twelve centuries afterwards in the Toldôth
-Jeshu." <span id="fr_353"></span>[3](#fn_353) Nevertheless, this divine
+Jeshu." <span id="fr_353"></span>[3](#fn_353.md) Nevertheless, this divine
 disclaims "a right to scathe the rejector of miracles by abuse and
-anathemas." <span id="fr_354"></span>[4](#fn_354) What does he term the
+anathemas." <span id="fr_354"></span>[4](#fn_354.md) What does he term the
 expression "blaspheming follies," we should like to know? And where is
 his own faith in
 
@@ -5711,7 +5711,7 @@ relations we have of the re-appearance and ascension of Jesus, what are
 we to think? No two histories of these events agree or can be made to
 agree. "Theologians," says a recent and well-known author, "have noticed
 no less than ten discrepancies in the Evangelic narrative." <span
-id="fr_355"></span>[1](#fn_355) So environed with doubt, in fact, is
+id="fr_355"></span>[1](#fn_355.md) So environed with doubt, in fact, is
 everything connected with Jesus, that even his decease while on the
 cross is considered by many to be a matter of great uncertainty. One of
 the first of modern English historians, a man accustomed carefully to
@@ -5723,7 +5723,7 @@ which a jury could admit that he was ever actually dead. So
 <span id="page_187">p. 187</span>
 
 unusual was it for persons crucified to die so soon, that Pilate, we are
-told, 'marvelled.'" <span id="fr_356"></span>[1](#fn_356)
+told, 'marvelled.'" <span id="fr_356"></span>[1](#fn_356.md)
 
 Death by crucifixion was a fearful and most painful punishment, and had
 long been in use as such by both the Persians and Carthaginians before
@@ -5791,7 +5791,7 @@ sepulchre. On his recovering from this state of suspended animation, he
 was privately removed by his friends during the night, and as he left
 word to his disciples, 'After that I am risen, I will go before you into
 Galilee,' he most probably returned thither." <span
-id="fr_357"></span>[1](#fn_357)
+id="fr_357"></span>[1](#fn_357.md)
 
 In the last chapter of Mark's Gospel we have an account of the two Marys
 going to the sepulchre, and there meeting a young man, who told them not
@@ -5799,7 +5799,7 @@ to . be afraid, that Jesus was risen, and who, after showing where their
 beloved friend had lain, instructed them to go and tell the disciples
 that he had gone into Galilee. Mary Magdalene shortly afterwards, we are
 informed, saw Jesus himself, and told the disciples that "he was
-alive." <span id="fr_358"></span>[2](#fn_358)
+alive." <span id="fr_358"></span>[2](#fn_358.md)
 
 There is certainly no improbability in the idea that Jesus survived his
 crucifixion, for he was only *three hours* on the cross, and instances
@@ -5813,7 +5813,7 @@ down. Two of them died under the physician's
 <span id="page_190">p. 190</span>
 
 care, but the third was restored to health. <span
-id="fr_359"></span>[1](#fn_359) It is probable that these men were on
+id="fr_359"></span>[1](#fn_359.md) It is probable that these men were on
 the cross many hours longer than Jesus was.
 
 "The cruelty of death by crucifixion depended very much upon its
@@ -5828,7 +5828,7 @@ terrible; and the more terrible that, in the absence of any effectual
 disturbance of the machinery of physical life, it might be prolonged for
 many hours, or even days. Temperate, strong men, such as were the
 ordinary Galilean peasants, might live for several days on the
-cross." <span id="fr_360"></span>[2](#fn_360)
+cross." <span id="fr_360"></span>[2](#fn_360.md)
 
 During the reign of Louis XV. of France, several women, religious
 enthusiasts, called convulsionaires, voluntarily underwent crucifixion.
@@ -5847,7 +5847,7 @@ taken from her cross. Three small basons, called palettes, full of
 blood, flowed from her hands and feet. Their wounds were then dressed,
 and the meeting terminated. Sister Felicité declared that it was the
 twenty-first time *she had undergone crucifixion*. <span
-id="fr_361"></span>[1](#fn_361)
+id="fr_361"></span>[1](#fn_361.md)
 
 It has apparently been overlooked that, *primâ facie*, *biblical
 evidence* exists to prove the body of Jesus was not seriously injured on
@@ -5862,7 +5862,7 @@ accidents and pains of humanity. Doubtless had he cut himself while
 working at his carpenter's bench bleeding would have resulted, and if
 seriously hurt, even faintness or swooning. We know he felt hunger when,
 with his disciples, he wandered in need and in search of food along the
-by-ways of Judea, <span id="fr_362"></span>[2](#fn_362) just as he
+by-ways of Judea, <span id="fr_362"></span>[2](#fn_362.md) just as he
 languished for nourishment after his temporary repose or sleep in the
 cool seclusion of the sepulchre.
 
@@ -5925,15 +5925,15 @@ covered them above: but there was no breath in them." The vital wind was
 called for by the prophet in these words, "Come from the four winds, O
 breath, and breathe upon these slain, that they may live." Then "the
 breath came into them, and they lived, and stood up upon their feet, an
-exceeding great army." <span id="fr_363"></span>[1](#fn_363)
+exceeding great army." <span id="fr_363"></span>[1](#fn_363.md)
 
 The resurrection of Jesus was not like this, when the bones came
 together, bone to bone; much less did it resemble that which John saw in
 the apocalyptic vision, when "the sea gave up the dead which were in it;
 and death and hell (marginal reading, 'the grave') delivered up the dead
-which were in them." <span id="fr_364"></span>[2](#fn_364) The body of
+which were in them." <span id="fr_364"></span>[2](#fn_364.md) The body of
 Jesus was in the cave-sepulchre—in which there was room to stand, sit
-and move about <span id="fr_365"></span>[3](#fn_365)—but a few hours,
+and move about <span id="fr_365"></span>[3](#fn_365.md)—but a few hours,
 *if even so long as this*. Death froze it not with his icy fingers; the
 grace of manhood never left his face, though when he came forth the
 holes made by the nails, could be seen in his hands. If death was really
@@ -5951,7 +5951,7 @@ down, and it appears from what is afterwards recorded, that it still
 required the same sustenance as it was accustomed to before for its
 support and comfort. If sown "a natural body," it presented no signs
 whatever of being a spiritual body," <span
-id="fr_366"></span>[1](#fn_366) but quite the reverse. Keim, in his
+id="fr_366"></span>[1](#fn_366.md) but quite the reverse. Keim, in his
 exhaustive history of Jesus of Nazara, pertinently points out the
 inconsistency of ascribing to one who has crept half-dead out of the
 grave, the ability to figure as one who has victoriously risen, and this
@@ -6048,14 +6048,14 @@ ascribed to Luke ever heard of it.
 
 Then we are further told, "He said unto them, Have ye here any meat? And
 they gave him a piece of a broiled fish, and of an honeycomb. And he
-took it, and did eat before them." <span id="fr_367"></span>[1](#fn_367)
+took it, and did eat before them." <span id="fr_367"></span>[1](#fn_367.md)
 Surely, Jesus ate on this occasion because his body was yet subject to
 the pain of gnawing want—to hunger, the inseparable condition of mortal
 existence. John also tells us that on one occasion, after the
 resuscitation of Jesus, when the disciples left their boat at his
 invitation, that as soon as they were come to land, "they saw a fire of
 coals there, and fish laid thereon, and bread," <span
-id="fr_368"></span>[2](#fn_368) which certainly suggests the idea that
+id="fr_368"></span>[2](#fn_368.md) which certainly suggests the idea that
 Jesus had been dining, or was about to dine, alone, before they came.
 Assuredly, it is difficult to understand why a body that henceforth
 
@@ -6069,18 +6069,18 @@ the elimination of waste products.
 The writer of the fourth Gospel tells us that when the disciples were
 assembled together in the evening of the reputed resurrection day, Jesus
 appeared among them, and, after saluting them, he "breathed on
-them." <span id="fr_369"></span>[1](#fn_369) The act thus mentioned,
+them." <span id="fr_369"></span>[1](#fn_369.md) The act thus mentioned,
 that of breathing, is one performed by all, at least, of the higher
 orders of creation, and is essential to life. Not to breathe is to die.
 "Whatever breathes and draws in draughts of air," says one of the
 earliest Christian writers, "to be sent back in the same way, must be
 mortal, by feeding on the atmosphere." <span
-id="fr_370"></span>[2](#fn_370) A modern chemist tells us exactly the
+id="fr_370"></span>[2](#fn_370.md) A modern chemist tells us exactly the
 same thing. He says, "The true external cause of death is the
 respiratory process, that is, the action of the atmosphere." <span
-id="fr_371"></span>[3](#fn_371) And he further remarks that "the first
+id="fr_371"></span>[3](#fn_371.md) And he further remarks that "the first
 conditions of animal life are nutritious matters and oxygen introduced
-into the system." <span id="fr_372"></span>[4](#fn_372)
+into the system." <span id="fr_372"></span>[4](#fn_372.md)
 
 It appears, from all we read, that at the exact time Jesus is said to
 have been the conqueror of death, the very cause of death, as the sequel
@@ -6137,12 +6137,12 @@ ascension in the third Gospel and in Acts, both of which books are
 ascribed, perhaps correctly, to the same author, Luke. But Luke himself
 was not an eye-witness of what he relates; he speaks only of what others
 had "delivered" unto him, as he informs us himself. <span
-id="fr_373"></span>[1](#fn_373)
+id="fr_373"></span>[1](#fn_373.md)
 
 Jesus was only "seen" occasionally by his disciples, and not by "all the
 people," after his supposed resurrection; but it is distinctly recorded
 that he both ate and drank with Peter and other chosen apostles and
-"witnesses," <span id="fr_374"></span>[2](#fn_374) which categorical
+"witnesses," <span id="fr_374"></span>[2](#fn_374.md) which categorical
 statement quite disposes of the idea, so commonly entertained, that he
 disappeared from the world almost immediately after his first interviews
 with them. Even if the literal accuracy of the Acts of the Apostles is
@@ -6156,7 +6156,7 @@ time among his most intimate and former associates and followers, and
 performed while with them all the functions essential to a true human
 existence. The evidences, in fact, that Jesus was "alive" actually, like
 others, after his passion, are so numerous, that they are spoken of as
-"*many infallible* proofs." <span id="fr_375"></span>[1](#fn_375)
+"*many infallible* proofs." <span id="fr_375"></span>[1](#fn_375.md)
 
 Besides the forty days mentioned in Acts during which Jesus lived,
 eating and drinking with his disciples, there were traditions in the
@@ -6174,7 +6174,7 @@ resurrection."
 resurrection."
 
 "Pistis Sophia (a Christianized Jewish apocalypse): eleven years after
-resurrection." <span id="fr_376"></span>[2](#fn_376)
+resurrection." <span id="fr_376"></span>[2](#fn_376.md)
 
 The bodily system of Jesus probably suffered such a shock from the
 tortures of the cross as to prevent him from displaying his former
@@ -6202,14 +6202,14 @@ once, of James, and a second time of all the apostles (compare verses 5
 and 7 of 1 Corinthians xv.), who all, of course, saw Jesus *in the
 flesh;* some of them, if not all, eating and drinking with him as
 already mentioned; he says that Jesus was seen finally by himself. <span
-id="fr_377"></span>[1](#fn_377) Now, Paul does not distinguish the way
+id="fr_377"></span>[1](#fn_377.md) Now, Paul does not distinguish the way
 in which he saw Jesus from the mode in which the other apostles and
 brethren saw him; he merely tells us he beheld Jesus last in the order
 of time.
 
 It has been proved from New Testament data that Jesus lived a
 considerable time after his crucifixion. One passage says "forty
-days," <span id="fr_378"></span>[2](#fn_378) or nearly six weeks. But
+days," <span id="fr_378"></span>[2](#fn_378.md) or nearly six weeks. But
 this term was a very undecided one with the Jews; with them almost any
 uncertain period was thus described. The chief fact brought to our
 conviction,
@@ -6228,7 +6228,7 @@ among the incredulous Jews who listened to the teachings of Jesus, and,
 as an ardent and unbelieving Pharisee, rejected them, becoming at last a
 persecutor of the brethren. Thus, when writing to the Galatians, he
 reminds them how in times past he persecuted the Church of God and
-wasted it. <span id="fr_379"></span>[1](#fn_379) But he declares in the
+wasted it. <span id="fr_379"></span>[1](#fn_379.md) But he declares in the
 same epistle that he received the Gospel *only* "by the revelation of
 Jesus Christ." Then he confirms the impression that Jesus himself
 conversed with him, when he wrote as follows to the Corinthians: "For,"
@@ -6240,7 +6240,7 @@ After the same manner also he took the cup, when he had supped, saying,
 This cup is the new testament in my blood: this do ye, as oft as ye
 drink it, in remembrance of me. For as often as ye eat this bread, and
 drink this cup, ye do shew the Lord's death till he come." <span
-id="fr_380"></span>[2](#fn_380)
+id="fr_380"></span>[2](#fn_380.md)
 
 <span id="page_204">p. 204</span>
 
@@ -6255,7 +6255,7 @@ shout, with the voice of the archangel, and with the trump of God: and
 the dead in Christ shall rise first: then we which are alive and remain
 shall be caught up together with them in the clouds, to meet the Lord in
 the air: and so shall we ever be with the Lord." <span
-id="fr_381"></span>[1](#fn_381)
+id="fr_381"></span>[1](#fn_381.md)
 
 What other conclusion can be drawn from the foregoing, than that St.
 Paul received verbally from Jesus himself the history of the Eucharistic
@@ -6277,9 +6277,9 @@ system than even his apparent resurrection. But Paul has
 nothing to tell us of his own knowledge of this last and crowning event
 in the history of Jesus. Immediately after his conversion, he tells us,
 quite contrary to the apocryphal account in the Acts, <span
-id="fr_382"></span>[1](#fn_382) that he did not go up to Jerusalem to
+id="fr_382"></span>[1](#fn_382.md) that he did not go up to Jerusalem to
 them that were apostles before him, but that he went forthwith in
-Arabia. <span id="fr_383"></span>[2](#fn_383) It is most likely that
+Arabia. <span id="fr_383"></span>[2](#fn_383.md) It is most likely that
 during his absence in that country Jesus finally died, and was privately
 interred in the usual manner, among his own people.
 
@@ -6293,12 +6293,12 @@ To return, however, to the ascension. Paul's knowledge of this mythical
 event was no doubt similar to that possessed by Luke, it was "delivered"
 to him by others. Whenever he refers to it, he simply assumes the truth
 of this extraordinary phenomenon. Thus, he tells us Jesus is at the
-right hand of God; <span id="fr_384"></span>[3](#fn_384) that he
-ascended up on high; <span id="fr_385"></span>[4](#fn_385) and that he
-was received up into glory. <span id="fr_386"></span>[5](#fn_386) We
+right hand of God; <span id="fr_384"></span>[3](#fn_384.md) that he
+ascended up on high; <span id="fr_385"></span>[4](#fn_385.md) and that he
+was received up into glory. <span id="fr_386"></span>[5](#fn_386.md) We
 have, in fact, nowhere an apostle's own testimony that he saw Jesus
 ascend into heaven. All is traditional or hearsay. Peter speaks of Jesus
-as having gone into heaven, <span id="fr_387"></span>[6](#fn_387) but he
+as having gone into heaven, <span id="fr_387"></span>[6](#fn_387.md) but he
 does not say he saw him arise; and John, if the author of the Gospels
 and Epistles that bear his name, gives no evidence in them on this
 subject.
@@ -6317,7 +6317,7 @@ his material clothes into heaven! The whole of the Gospel history of the
 ascension, meagre though it is, is in remarkable contradiction to the
 assurance of the Apostle Paul when writing of the same event, for the
 latter believer positively assures us that "flesh and blood cannot
-inherit the kingdom of heaven." <span id="fr_388"></span>[1](#fn_388) It
+inherit the kingdom of heaven." <span id="fr_388"></span>[1](#fn_388.md) It
 appears quite apparent from these words that he was unacquainted with
 the accounts of the ascension as given in the Gospels and the Acts of
 the Apostles.
@@ -6325,7 +6325,7 @@ the Apostles.
 How the history of the ascension originated no one can now tell, but it
 appears that once it was circulated, to have passed unquestioned among
 the disciples. In Mark we read that Jesus "was received up into
-heaven," <span id="fr_389"></span>[2](#fn_389) but this is in a
+heaven," <span id="fr_389"></span>[2](#fn_389.md) but this is in a
 disputed, or rather we may say in a spurious passage. Luke says that
 when Jesus had blessed his disciples "he was parted from them, and
 carried up into heaven," but he saw not this himself. Then the place of
@@ -6368,7 +6368,7 @@ the greatest miracle, must *believe* in Jesus’s
 
 entrance into heaven simply upon the assurance of the angels, or
 better—like the apostles themselves, on the evidence of their own
-spiritual conviction." <span id="fr_390"></span>[1](#fn_390)
+spiritual conviction." <span id="fr_390"></span>[1](#fn_390.md)
 
 It need not surprise us that we have no further record of the life of
 Jesus after he revived from the injuries suffered in his crucifixion,
@@ -6404,7 +6404,7 @@ poet expresses these ideas in the words which follow:—
    In some lone Syrian town,  
  And on his grave, with shining eyes,  
    The Syrian stars look down." <span
-id="fr_391"></span>[1](#fn_391)</span>
+id="fr_391"></span>[1](#fn_391.md)</span>
 
 </div>
 
@@ -6442,565 +6442,565 @@ death of Jesus.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](jae03.htm#fr_0) Christian D. Ginsburg, in
+<span id="fn_0"></span>[2:1](jae03.htm#fr_0.md) Christian D. Ginsburg, in
 Kitto's "Cyclopedia of Biblical Literature."
 
-<span id="fn_1"></span>[3:1](jae03.htm#fr_1) "Antiquities of the Jews."
+<span id="fn_1"></span>[3:1](jae03.htm#fr_1.md) "Antiquities of the Jews."
 Book xviii., chapter 3.
 
-<span id="fn_2"></span>[3:2](jae03.htm#fr_2) "If it be lawful to call
+<span id="fn_2"></span>[3:2](jae03.htm#fr_2.md) "If it be lawful to call
 him a man."
 
-<span id="fn_3"></span>[3:3](jae03.htm#fr_3) "Life of Jesus."
+<span id="fn_3"></span>[3:3](jae03.htm#fr_3.md) "Life of Jesus."
 
-<span id="fn_4"></span>[4:1](jae03.htm#fr_4) M. de Pressensé in his
+<span id="fn_4"></span>[4:1](jae03.htm#fr_4.md) M. de Pressensé in his
 "Jesus Christ, his times, Life and Work."
 
-<span id="fn_5"></span>[4:2](jae03.htm#fr_5) Gibbon's "Decline and
+<span id="fn_5"></span>[4:2](jae03.htm#fr_5.md) Gibbon's "Decline and
 Fall." Chapter 6.
 
-<span id="fn_6"></span>[4:3](jae03.htm#fr_6) "The Credibility of the
+<span id="fn_6"></span>[4:3](jae03.htm#fr_6.md) "The Credibility of the
 Gospel History." Vol. iii., p. 542. Edition of 1815.
 
-<span id="fn_7"></span>[5:1](jae03.htm#fr_7) Antiqui. Book xviii.,
+<span id="fn_7"></span>[5:1](jae03.htm#fr_7.md) Antiqui. Book xviii.,
 chapter 5.
 
-<span id="fn_8"></span>[5:2](jae03.htm#fr_8) Antiqui. Book xv., chapter
+<span id="fn_8"></span>[5:2](jae03.htm#fr_8.md) Antiqui. Book xv., chapter
 10.
 
-<span id="fn_9"></span>[5:3](jae03.htm#fr_9) Antiqui. Book xvii.,
+<span id="fn_9"></span>[5:3](jae03.htm#fr_9.md) Antiqui. Book xvii.,
 chapter 13.
 
-<span id="fn_10"></span>[5:4](jae03.htm#fr_10) The treatise of Philo
+<span id="fn_10"></span>[5:4](jae03.htm#fr_10.md) The treatise of Philo
 Judæus entitled, "To prove that every man who is virtuous is also free";
 his treatise "On a contemplative life," and the "Fragments" in the
 eighth book of the same author. Also "The Antiquities of the Jews," by
 Josephus, Book xv., chapter 15, and his "Wars of the Jews," Book ii.,
 chapter 8.
 
-<span id="fn_11"></span>[6:1](jae03.htm#fr_11) Ecclesiastical History,
+<span id="fn_11"></span>[6:1](jae03.htm#fr_11.md) Ecclesiastical History,
 First Century.
 
-<span id="fn_12"></span>[6:2](jae03.htm#fr_12) "Jesus Christ, his Times,
+<span id="fn_12"></span>[6:2](jae03.htm#fr_12.md) "Jesus Christ, his Times,
 Life, and Work."
 
-<span id="fn_13"></span>[6:3](jae03.htm#fr_13) See note in Pliny's
+<span id="fn_13"></span>[6:3](jae03.htm#fr_13.md) See note in Pliny's
 "Natural History." Book v., chapter 16. Bohn's Edition.
 
-<span id="fn_14"></span>[7:1](jae03.htm#fr_14) "A New Life of Jesus."
+<span id="fn_14"></span>[7:1](jae03.htm#fr_14.md) "A New Life of Jesus."
 
-<span id="fn_15"></span>[8:1](jae03.htm#fr_15) Mark x. 28.
+<span id="fn_15"></span>[8:1](jae03.htm#fr_15.md) Mark x. 28.
 
-<span id="fn_16"></span>[8:2](jae03.htm#fr_16) Mark x. 29, 30.
+<span id="fn_16"></span>[8:2](jae03.htm#fr_16.md) Mark x. 29, 30.
 
-<span id="fn_17"></span>[9:1](jae03.htm#fr_17) Luke v. 28
+<span id="fn_17"></span>[9:1](jae03.htm#fr_17.md) Luke v. 28
 
-<span id="fn_18"></span>[10:1](jae03.htm#fr_18) Acts iv. 32–37.
+<span id="fn_18"></span>[10:1](jae03.htm#fr_18.md) Acts iv. 32–37.
 
-<span id="fn_19"></span>[10:2](jae03.htm#fr_19) Matthew iv. 18–22.
+<span id="fn_19"></span>[10:2](jae03.htm#fr_19.md) Matthew iv. 18–22.
 
-<span id="fn_20"></span>[10:3](jae03.htm#fr_20) Matthew xix. 21.
+<span id="fn_20"></span>[10:3](jae03.htm#fr_20.md) Matthew xix. 21.
 
-<span id="fn_21"></span>[11:1](jae03.htm#fr_21) Matthew xix. 24. Mark x.
+<span id="fn_21"></span>[11:1](jae03.htm#fr_21.md) Matthew xix. 24. Mark x.
 21, 22. Luke xviii. 22, 23, 24.
 
-<span id="fn_22"></span>[11:2](jae03.htm#fr_22) Matthew xiii. 44.
+<span id="fn_22"></span>[11:2](jae03.htm#fr_22.md) Matthew xiii. 44.
 
-<span id="fn_23"></span>[11:3](jae03.htm#fr_23) Matthew xiii. 45, 46.
+<span id="fn_23"></span>[11:3](jae03.htm#fr_23.md) Matthew xiii. 45, 46.
 
-<span id="fn_24"></span>[11:4](jae03.htm#fr_24) Luke xvi. 19–25.
+<span id="fn_24"></span>[11:4](jae03.htm#fr_24.md) Luke xvi. 19–25.
 
-<span id="fn_25"></span>[12:1](jae03.htm#fr_25) Luke vi. 20.
+<span id="fn_25"></span>[12:1](jae03.htm#fr_25.md) Luke vi. 20.
 
-<span id="fn_26"></span>[12:2](jae03.htm#fr_26) Luke vi. 24, *see also*
+<span id="fn_26"></span>[12:2](jae03.htm#fr_26.md) Luke vi. 24, *see also*
 James v. 1.
 
-<span id="fn_27"></span>[12:3](jae03.htm#fr_27) *National Review*,
+<span id="fn_27"></span>[12:3](jae03.htm#fr_27.md) *National Review*,
 January, 1863.
 
-<span id="fn_28"></span>[13:1](jae03.htm#fr_28) "A Voice from the
+<span id="fn_28"></span>[13:1](jae03.htm#fr_28.md) "A Voice from the
 Ganges," p. 56.
 
-<span id="fn_29"></span>[13:2](jae03.htm#fr_29) Matthew xxv. 46.
+<span id="fn_29"></span>[13:2](jae03.htm#fr_29.md) Matthew xxv. 46.
 
-<span id="fn_30"></span>[13:3](jae03.htm#fr_30) Matthew viii. 12.
+<span id="fn_30"></span>[13:3](jae03.htm#fr_30.md) Matthew viii. 12.
 
-<span id="fn_31"></span>[13:4](jae03.htm#fr_31) Revelation xxi. 23.
+<span id="fn_31"></span>[13:4](jae03.htm#fr_31.md) Revelation xxi. 23.
 
-<span id="fn_32"></span>[14:1](jae03.htm#fr_32) Revelation xxii. 5.
+<span id="fn_32"></span>[14:1](jae03.htm#fr_32.md) Revelation xxii. 5.
 
-<span id="fn_33"></span>[14:2](jae03.htm#fr_33) Revelation v. 8.
+<span id="fn_33"></span>[14:2](jae03.htm#fr_33.md) Revelation v. 8.
 
-<span id="fn_34"></span>[14:3](jae03.htm#fr_34) Ibid.
+<span id="fn_34"></span>[14:3](jae03.htm#fr_34.md) Ibid.
 
-<span id="fn_35"></span>[14:4](jae03.htm#fr_35) Ibid.
+<span id="fn_35"></span>[14:4](jae03.htm#fr_35.md) Ibid.
 
-<span id="fn_36"></span>[14:5](jae03.htm#fr_36) Matthew v. 42.
+<span id="fn_36"></span>[14:5](jae03.htm#fr_36.md) Matthew v. 42.
 
-<span id="fn_37"></span>[14:6](jae03.htm#fr_37) John iv. 8, and xiii.
+<span id="fn_37"></span>[14:6](jae03.htm#fr_37.md) John iv. 8, and xiii.
 29.
 
-<span id="fn_38"></span>[14:7](jae03.htm#fr_38) John xii. 6, and xiii.
+<span id="fn_38"></span>[14:7](jae03.htm#fr_38.md) John xii. 6, and xiii.
 29.
 
-<span id="fn_39"></span>[15:1](jae03.htm#fr_39) Acts vi. 1–3.
+<span id="fn_39"></span>[15:1](jae03.htm#fr_39.md) Acts vi. 1–3.
 
-<span id="fn_40"></span>[15:2](jae03.htm#fr_40) Josephus.
+<span id="fn_40"></span>[15:2](jae03.htm#fr_40.md) Josephus.
 
-<span id="fn_41"></span>[15:3](jae03.htm#fr_41) Matthew iii. 15.
+<span id="fn_41"></span>[15:3](jae03.htm#fr_41.md) Matthew iii. 15.
 
-<span id="fn_42"></span>[15:4](jae03.htm#fr_42) Mark i. 4.
+<span id="fn_42"></span>[15:4](jae03.htm#fr_42.md) Mark i. 4.
 
-<span id="fn_43"></span>[16:1](jae03.htm#fr_43) Milman's "History of
+<span id="fn_43"></span>[16:1](jae03.htm#fr_43.md) Milman's "History of
 Early Christianity." Vol. i., p. 135.
 
-<span id="fn_44"></span>[16:2](jae03.htm#fr_44) "Christian
+<span id="fn_44"></span>[16:2](jae03.htm#fr_44.md) "Christian
 Institutions."
 
-<span id="fn_45"></span>[18:1](jae03.htm#fr_45) Matthew xxiii. 2, 3.
+<span id="fn_45"></span>[18:1](jae03.htm#fr_45.md) Matthew xxiii. 2, 3.
 
-<span id="fn_46"></span>[18:2](jae03.htm#fr_46) Matthew xxiii. 13.
+<span id="fn_46"></span>[18:2](jae03.htm#fr_46.md) Matthew xxiii. 13.
 
-<span id="fn_47"></span>[18:3](jae03.htm#fr_47) Luke xi. 52.
+<span id="fn_47"></span>[18:3](jae03.htm#fr_47.md) Luke xi. 52.
 
-<span id="fn_48"></span>[18:4](jae03.htm#fr_48) Matthew xiii. 15, and
+<span id="fn_48"></span>[18:4](jae03.htm#fr_48.md) Matthew xiii. 15, and
 Luke v. 10.
 
-<span id="fn_49"></span>[18:5](jae03.htm#fr_49) Matthew xiii. 11.
+<span id="fn_49"></span>[18:5](jae03.htm#fr_49.md) Matthew xiii. 11.
 
-<span id="fn_50"></span>[19:1](jae03.htm#fr_50) Matthew xiii. 34, and
+<span id="fn_50"></span>[19:1](jae03.htm#fr_50.md) Matthew xiii. 34, and
 Mark iv, 34.
 
-<span id="fn_51"></span>[19:2](jae03.htm#fr_51) Matthew i. 21.
+<span id="fn_51"></span>[19:2](jae03.htm#fr_51.md) Matthew i. 21.
 
-<span id="fn_52"></span>[20:1](jae03.htm#fr_52) Matthew xvii. 27.
+<span id="fn_52"></span>[20:1](jae03.htm#fr_52.md) Matthew xvii. 27.
 
-<span id="fn_53"></span>[20:2](jae03.htm#fr_53) Matthew xxii. 21.
+<span id="fn_53"></span>[20:2](jae03.htm#fr_53.md) Matthew xxii. 21.
 
-<span id="fn_54"></span>[20:3](jae03.htm#fr_54) Romans xiii. 1.
+<span id="fn_54"></span>[20:3](jae03.htm#fr_54.md) Romans xiii. 1.
 
-<span id="fn_55"></span>[20:4](jae03.htm#fr_55) Luke ii. 3, 4.
+<span id="fn_55"></span>[20:4](jae03.htm#fr_55.md) Luke ii. 3, 4.
 
-<span id="fn_56"></span>[21:1](jae03.htm#fr_56) "The Christ of History,"
+<span id="fn_56"></span>[21:1](jae03.htm#fr_56.md) "The Christ of History,"
 by John Young, M.A.
 
-<span id="fn_57"></span>[22:1](jae03.htm#fr_57) Sermon by the Rev.
+<span id="fn_57"></span>[22:1](jae03.htm#fr_57.md) Sermon by the Rev.
 Charles Voysey. *See also* Appendix No. 11 of his "Defence," delivered
 on December 1st, 1869, before the Chancery Court of York.
 
-<span id="fn_58"></span>[22:2](jae03.htm#fr_58) "Charles Kingsley,"
+<span id="fn_58"></span>[22:2](jae03.htm#fr_58.md) "Charles Kingsley,"
 edited by his wife, p. 29.
 
-<span id="fn_59"></span>[23:1](jae03.htm#fr_59) Matthew xv. 22–26.
+<span id="fn_59"></span>[23:1](jae03.htm#fr_59.md) Matthew xv. 22–26.
 
-<span id="fn_60"></span>[23:2](jae03.htm#fr_60) "Essays and Reviews."
+<span id="fn_60"></span>[23:2](jae03.htm#fr_60.md) "Essays and Reviews."
 
-<span id="fn_61"></span>[23:3](jae03.htm#fr_61) Mark iii. 21.
+<span id="fn_61"></span>[23:3](jae03.htm#fr_61.md) Mark iii. 21.
 
-<span id="fn_62"></span>[24:1](jae03.htm#fr_62) John vii. 5.
+<span id="fn_62"></span>[24:1](jae03.htm#fr_62.md) John vii. 5.
 
-<span id="fn_63"></span>[24:2](jae03.htm#fr_63) "Christian
+<span id="fn_63"></span>[24:2](jae03.htm#fr_63.md) "Christian
 Institutions."
 
-<span id="fn_64"></span>[25:1](jae03.htm#fr_64) "The Jesus of History,"
+<span id="fn_64"></span>[25:1](jae03.htm#fr_64.md) "The Jesus of History,"
 by Sir R. D. Hanson, late Chief Justice of South Australia.
 
-<span id="fn_65"></span>[25:2](jae03.htm#fr_65) "A New Introduction to
+<span id="fn_65"></span>[25:2](jae03.htm#fr_65.md) "A New Introduction to
 the Study of the Bible," by E. P. Barrow, <span
 class="small">D.D.</span>
 
-<span id="fn_66"></span>[25:3](jae03.htm#fr_66) Farrar's "Popular Life
+<span id="fn_66"></span>[25:3](jae03.htm#fr_66.md) Farrar's "Popular Life
 of Christ." Chapter 5.
 
-<span id="fn_67"></span>[26:1](jae03.htm#fr_67) Farrar's "Life of
+<span id="fn_67"></span>[26:1](jae03.htm#fr_67.md) Farrar's "Life of
 Christ," p. 102 (popular edition).
 
-<span id="fn_68"></span>[27:1](jae03.htm#fr_68) See notes to Vol. iii.,
+<span id="fn_68"></span>[27:1](jae03.htm#fr_68.md) See notes to Vol. iii.,
 chapter 2, section 1, of Michaelis’s "Introduction to the New
 Testament," translated by Bishop Marsh.
 
-<span id="fn_69"></span>[27:2](jae03.htm#fr_69) Renan.
+<span id="fn_69"></span>[27:2](jae03.htm#fr_69.md) Renan.
 
-<span id="fn_70"></span>[28:1](jae03.htm#fr_70) Matthew xxvi. 52.
+<span id="fn_70"></span>[28:1](jae03.htm#fr_70.md) Matthew xxvi. 52.
 
-<span id="fn_71"></span>[29:1](jae03.htm#fr_71) Matthew vi. 19.
+<span id="fn_71"></span>[29:1](jae03.htm#fr_71.md) Matthew vi. 19.
 
-<span id="fn_72"></span>[29:2](jae03.htm#fr_72) "A voice from the
+<span id="fn_72"></span>[29:2](jae03.htm#fr_72.md) "A voice from the
 Ganges."
 
-<span id="fn_73"></span>[29:3](jae03.htm#fr_73) Matthew xxiii. 8.
+<span id="fn_73"></span>[29:3](jae03.htm#fr_73.md) Matthew xxiii. 8.
 
-<span id="fn_74"></span>[29:4](jae03.htm#fr_74) Matthew xxiii. 8.
+<span id="fn_74"></span>[29:4](jae03.htm#fr_74.md) Matthew xxiii. 8.
 
-<span id="fn_75"></span>[29:5](jae03.htm#fr_75) Matthew xxiii. 11.
+<span id="fn_75"></span>[29:5](jae03.htm#fr_75.md) Matthew xxiii. 11.
 
-<span id="fn_76"></span>[30:1](jae03.htm#fr_76) Matthew v. 22.
+<span id="fn_76"></span>[30:1](jae03.htm#fr_76.md) Matthew v. 22.
 
-<span id="fn_77"></span>[30:2](jae03.htm#fr_77) Luke viii. 14.
+<span id="fn_77"></span>[30:2](jae03.htm#fr_77.md) Luke viii. 14.
 
-<span id="fn_78"></span>[31:1](jae03.htm#fr_78) "The Real Jesus," by
+<span id="fn_78"></span>[31:1](jae03.htm#fr_78.md) "The Real Jesus," by
 John Vickers (1891).
 
-<span id="fn_79"></span>[31:2](jae03.htm#fr_79) Matthew v. 34–37.
+<span id="fn_79"></span>[31:2](jae03.htm#fr_79.md) Matthew v. 34–37.
 
-<span id="fn_80"></span>[31:3](jae03.htm#fr_80) Matthew xiv. 19, and xv.
+<span id="fn_80"></span>[31:3](jae03.htm#fr_80.md) Matthew xiv. 19, and xv.
 39.
 
-<span id="fn_81"></span>[31:4](jae03.htm#fr_81) Matthew xxvi. 26.
+<span id="fn_81"></span>[31:4](jae03.htm#fr_81.md) Matthew xxvi. 26.
 
-<span id="fn_82"></span>[31:5](jae03.htm#fr_82) Luke xxii. 19.
+<span id="fn_82"></span>[31:5](jae03.htm#fr_82.md) Luke xxii. 19.
 
-<span id="fn_83"></span>[31:6](jae03.htm#fr_83) Matthew xvii. 2, and
+<span id="fn_83"></span>[31:6](jae03.htm#fr_83.md) Matthew xvii. 2, and
 Luke ix. 29.
 
-<span id="fn_84"></span>[32:1](jae03.htm#fr_84) Mark ix.
+<span id="fn_84"></span>[32:1](jae03.htm#fr_84.md) Mark ix.
 
-<span id="fn_85"></span>[32:2](jae03.htm#fr_85) Matthew xxviii. 3.
+<span id="fn_85"></span>[32:2](jae03.htm#fr_85.md) Matthew xxviii. 3.
 
-<span id="fn_86"></span>[32:3](jae03.htm#fr_86) Revelation iii. 4.
+<span id="fn_86"></span>[32:3](jae03.htm#fr_86.md) Revelation iii. 4.
 
-<span id="fn_87"></span>[32:4](jae03.htm#fr_87) Revelation iii. 5.
+<span id="fn_87"></span>[32:4](jae03.htm#fr_87.md) Revelation iii. 5.
 
-<span id="fn_88"></span>[32:5](jae03.htm#fr_88) Revelation iv. 4.
+<span id="fn_88"></span>[32:5](jae03.htm#fr_88.md) Revelation iv. 4.
 
-<span id="fn_89"></span>[32:6](jae03.htm#fr_89) Revelation vii. 9.
+<span id="fn_89"></span>[32:6](jae03.htm#fr_89.md) Revelation vii. 9.
 
-<span id="fn_90"></span>[32:7](jae03.htm#fr_90) *See* Revelation vi. 2;
+<span id="fn_90"></span>[32:7](jae03.htm#fr_90.md) *See* Revelation vi. 2;
 vii. 13, 14; xv. 6; six. 8, 11, 14; xx. 11.
 
-<span id="fn_91"></span>[33:1](jae03.htm#fr_91) Luke xi. 27, 28.
+<span id="fn_91"></span>[33:1](jae03.htm#fr_91.md) Luke xi. 27, 28.
 
-<span id="fn_92"></span>[33:2](jae03.htm#fr_92) John ii. 4.
+<span id="fn_92"></span>[33:2](jae03.htm#fr_92.md) John ii. 4.
 
-<span id="fn_93"></span>[35:1](jae03.htm#fr_93) John xv. 9.
+<span id="fn_93"></span>[35:1](jae03.htm#fr_93.md) John xv. 9.
 
-<span id="fn_94"></span>[35:2](jae03.htm#fr_94) John xiii. 35.
+<span id="fn_94"></span>[35:2](jae03.htm#fr_94.md) John xiii. 35.
 
-<span id="fn_95"></span>[35:3](jae03.htm#fr_95) John xiv. 21.
+<span id="fn_95"></span>[35:3](jae03.htm#fr_95.md) John xiv. 21.
 
-<span id="fn_96"></span>[36:1](jae03.htm#fr_96) Matthew i. 25.
+<span id="fn_96"></span>[36:1](jae03.htm#fr_96.md) Matthew i. 25.
 
-<span id="fn_97"></span>[37:1](jae03.htm#fr_97) Matthew iv. 1, 2.
+<span id="fn_97"></span>[37:1](jae03.htm#fr_97.md) Matthew iv. 1, 2.
 
-<span id="fn_98"></span>[37:2](jae03.htm#fr_98) Mark i. 35.
+<span id="fn_98"></span>[37:2](jae03.htm#fr_98.md) Mark i. 35.
 
-<span id="fn_99"></span>[37:3](jae03.htm#fr_99) Mark vi. 46.
+<span id="fn_99"></span>[37:3](jae03.htm#fr_99.md) Mark vi. 46.
 
-<span id="fn_100"></span>[37:4](jae03.htm#fr_100) Luke iv. 42.
+<span id="fn_100"></span>[37:4](jae03.htm#fr_100.md) Luke iv. 42.
 
-<span id="fn_101"></span>[37:5](jae03.htm#fr_101) John vi. 15.
+<span id="fn_101"></span>[37:5](jae03.htm#fr_101.md) John vi. 15.
 
-<span id="fn_102"></span>[37:6](jae03.htm#fr_102) John viii. 59; xii.
+<span id="fn_102"></span>[37:6](jae03.htm#fr_102.md) John viii. 59; xii.
 36.
 
-<span id="fn_103"></span>[37:7](jae03.htm#fr_103) John vii. 1.
+<span id="fn_103"></span>[37:7](jae03.htm#fr_103.md) John vii. 1.
 
-<span id="fn_104"></span>[37:8](jae03.htm#fr_104) John xi. 54.
+<span id="fn_104"></span>[37:8](jae03.htm#fr_104.md) John xi. 54.
 
-<span id="fn_105"></span>[38:1](jae03.htm#fr_105) "The Picture of
+<span id="fn_105"></span>[38:1](jae03.htm#fr_105.md) "The Picture of
 Jesus," by Haweis, p. 18.
 
-<span id="fn_106"></span>[40:1](jae03.htm#fr_106) John vii. 15.
+<span id="fn_106"></span>[40:1](jae03.htm#fr_106.md) John vii. 15.
 
-<span id="fn_107"></span>[42:1](jae03.htm#fr_107) "To a mind which has
+<span id="fn_107"></span>[42:1](jae03.htm#fr_107.md) "To a mind which has
 never nourished objections to revelation, a book of evidences may be the
 means of first suggesting them."—Mark Pattison, <span
 class="small">B.D</span>, in "Essays and Reviews."
 
-<span id="fn_108"></span>[42:2](jae03.htm#fr_108) Athanasian Creed, in
+<span id="fn_108"></span>[42:2](jae03.htm#fr_108.md) Athanasian Creed, in
 Book of Common Prayer.
 
-<span id="fn_109"></span>[43:1](jae03.htm#fr_109) "The Picture of
+<span id="fn_109"></span>[43:1](jae03.htm#fr_109.md) "The Picture of
 Jesus," p. 29.
 
-<span id="fn_110"></span>[44:1](jae03.htm#fr_110) "De principiis."
+<span id="fn_110"></span>[44:1](jae03.htm#fr_110.md) "De principiis."
 Chapter 1, section 16.
 
-<span id="fn_111"></span>[46:1](jae03.htm#fr_111) Luke xiv. 26.
+<span id="fn_111"></span>[46:1](jae03.htm#fr_111.md) Luke xiv. 26.
 
-<span id="fn_112"></span>[47:1](jae03.htm#fr_112) Matthew xix. 12.
+<span id="fn_112"></span>[47:1](jae03.htm#fr_112.md) Matthew xix. 12.
 
-<span id="fn_113"></span>[47:2](jae03.htm#fr_113) Read Dr. A. Clarke's
+<span id="fn_113"></span>[47:2](jae03.htm#fr_113.md) Read Dr. A. Clarke's
 remarks on this verse in his "Commentary of the Old and New Testaments."
 
-<span id="fn_114"></span>[48:1](jae03.htm#fr_114) "The Real Jesus," by
+<span id="fn_114"></span>[48:1](jae03.htm#fr_114.md) "The Real Jesus," by
 Vickers, 1891.
 
-<span id="fn_115"></span>[48:2](jae03.htm#fr_115) Deuteronomy xxiii. 1.
+<span id="fn_115"></span>[48:2](jae03.htm#fr_115.md) Deuteronomy xxiii. 1.
 
-<span id="fn_116"></span>[48:3](jae03.htm#fr_116) Isaiah lvi. 4, 5.
+<span id="fn_116"></span>[48:3](jae03.htm#fr_116.md) Isaiah lvi. 4, 5.
 
-<span id="fn_117"></span>[48:4](jae03.htm#fr_117) Compare 2 Kings xx.
+<span id="fn_117"></span>[48:4](jae03.htm#fr_117.md) Compare 2 Kings xx.
 17, 18, and Isaiah xxxix. 7, with Daniel i. 3, 6, 7.
 
-<span id="fn_118"></span>[49:1](jae03.htm#fr_118) "Wisdom of Solomon,"
+<span id="fn_118"></span>[49:1](jae03.htm#fr_118.md) "Wisdom of Solomon,"
 iii. 14. The author of this book probably lived about the year 140 B.C.
 
-<span id="fn_119"></span>[49:2](jae03.htm#fr_119) *See* Art. "Essene,"
+<span id="fn_119"></span>[49:2](jae03.htm#fr_119.md) *See* Art. "Essene,"
 by Dr. C. D. Ginsburg, in Kitto's "Cyclopedia of Biblical Literature."
 
-<span id="fn_120"></span>[50:1](jae03.htm#fr_120) Luke vii. 37–48.
+<span id="fn_120"></span>[50:1](jae03.htm#fr_120.md) Luke vii. 37–48.
 
-<span id="fn_121"></span>[50:2](jae03.htm#fr_121) Matthew xxvi. 6. Mark
+<span id="fn_121"></span>[50:2](jae03.htm#fr_121.md) Matthew xxvi. 6. Mark
 xiv. 3; and John xii. 3.
 
-<span id="fn_122"></span>[50:3](jae03.htm#fr_122) Luke viii. 3.
+<span id="fn_122"></span>[50:3](jae03.htm#fr_122.md) Luke viii. 3.
 
-<span id="fn_123"></span>[51:1](jae03.htm#fr_123) Luke viii. 3.
+<span id="fn_123"></span>[51:1](jae03.htm#fr_123.md) Luke viii. 3.
 
-<span id="fn_124"></span>[51:2](jae03.htm#fr_124) Luke xxiii. 55.
+<span id="fn_124"></span>[51:2](jae03.htm#fr_124.md) Luke xxiii. 55.
 
-<span id="fn_125"></span>[51:3](jae03.htm#fr_125) Luke xxiv. 10.
+<span id="fn_125"></span>[51:3](jae03.htm#fr_125.md) Luke xxiv. 10.
 
-<span id="fn_126"></span>[51:4](jae03.htm#fr_126) Leviticus xxi. 14.
+<span id="fn_126"></span>[51:4](jae03.htm#fr_126.md) Leviticus xxi. 14.
 
-<span id="fn_127"></span>[51:5](jae03.htm#fr_127) Isaiah xxxvii. 22.
+<span id="fn_127"></span>[51:5](jae03.htm#fr_127.md) Isaiah xxxvii. 22.
 
-<span id="fn_128"></span>[51:6](jae03.htm#fr_128) Jeremiah xiv. 17.
+<span id="fn_128"></span>[51:6](jae03.htm#fr_128.md) Jeremiah xiv. 17.
 
-<span id="fn_129"></span>[51:7](jae03.htm#fr_129) Jeremiah xxxi. 4.
+<span id="fn_129"></span>[51:7](jae03.htm#fr_129.md) Jeremiah xxxi. 4.
 
-<span id="fn_130"></span>[51:8](jae03.htm#fr_130) Luke i. 27–31.
+<span id="fn_130"></span>[51:8](jae03.htm#fr_130.md) Luke i. 27–31.
 
-<span id="fn_131"></span>[51:9](jae03.htm#fr_131) Matthew xxv. 1.
+<span id="fn_131"></span>[51:9](jae03.htm#fr_131.md) Matthew xxv. 1.
 
-<span id="fn_132"></span>[52:1](jae03.htm#fr_132) Revelation xiv. 4.
+<span id="fn_132"></span>[52:1](jae03.htm#fr_132.md) Revelation xiv. 4.
 
-<span id="fn_133"></span>[52:2](jae03.htm#fr_133) Lecky's "History of
+<span id="fn_133"></span>[52:2](jae03.htm#fr_133.md) Lecky's "History of
 European Morals." Vol. i., p. 111.
 
-<span id="fn_134"></span>[53:1](jae03.htm#fr_134) For further
+<span id="fn_134"></span>[53:1](jae03.htm#fr_134.md) For further
 particulars concerning Ammon consult the Ecclesiastical Histories of
 Socrates and Sozomen.
 
-<span id="fn_135"></span>[54:1](jae03.htm#fr_135) "De Passime Domini."
+<span id="fn_135"></span>[54:1](jae03.htm#fr_135.md) "De Passime Domini."
 Chapter 28.
 
-<span id="fn_136"></span>[55:1](jae03.htm#fr_136) "On the Dress of
+<span id="fn_136"></span>[55:1](jae03.htm#fr_136.md) "On the Dress of
 Virgins" (*De Habitu Virginum*).
 
-<span id="fn_137"></span>[55:2](jae03.htm#fr_137) "Pædagogus." Book
+<span id="fn_137"></span>[55:2](jae03.htm#fr_137.md) "Pædagogus." Book
 iii., chapter 11.
 
-<span id="fn_138"></span>[55:3](jae03.htm#fr_138) "Ancient
+<span id="fn_138"></span>[55:3](jae03.htm#fr_138.md) "Ancient
 Christianity."
 
-<span id="fn_139"></span>[57:1](jae03.htm#fr_139) "Introduction to the
+<span id="fn_139"></span>[57:1](jae03.htm#fr_139.md) "Introduction to the
 New Testament." Vol. iii., p. 313.
 
-<span id="fn_140"></span>[59:1](jae03.htm#fr_140) Professor Jowett "On
+<span id="fn_140"></span>[59:1](jae03.htm#fr_140.md) Professor Jowett "On
 the Interpretation of Scripture," in Essays and Reviews.
 
-<span id="fn_141"></span>[59:2](jae03.htm#fr_141) For further
+<span id="fn_141"></span>[59:2](jae03.htm#fr_141.md) For further
 information on this subject the reader is referred to "Travels in
 Tartary, Thibet and China," by M. Hue.
 
-<span id="fn_142"></span>[60:1](jae03.htm#fr_142) Matthew iii. 1.
+<span id="fn_142"></span>[60:1](jae03.htm#fr_142.md) Matthew iii. 1.
 
-<span id="fn_143"></span>[60:2](jae03.htm#fr_143) Matthew viii. 20.
+<span id="fn_143"></span>[60:2](jae03.htm#fr_143.md) Matthew viii. 20.
 
-<span id="fn_144"></span>[60:3](jae03.htm#fr_144) John i. 28, and x. 40.
+<span id="fn_144"></span>[60:3](jae03.htm#fr_144.md) John i. 28, and x. 40.
 
-<span id="fn_145"></span>[60:4](jae03.htm#fr_145) Matthew x. 9, 10.
+<span id="fn_145"></span>[60:4](jae03.htm#fr_145.md) Matthew x. 9, 10.
 
-<span id="fn_146"></span>[60:5](jae03.htm#fr_146) Mark vi. 8, and Luke
+<span id="fn_146"></span>[60:5](jae03.htm#fr_146.md) Mark vi. 8, and Luke
 ix. 1.
 
-<span id="fn_147"></span>[60:6](jae03.htm#fr_147) Matthew v. 42.
+<span id="fn_147"></span>[60:6](jae03.htm#fr_147.md) Matthew v. 42.
 
-<span id="fn_148"></span>[61:1](jae03.htm#fr_148) Luke iii. 11.
+<span id="fn_148"></span>[61:1](jae03.htm#fr_148.md) Luke iii. 11.
 
-<span id="fn_149"></span>[61:2](jae03.htm#fr_149) The Tenets of the
+<span id="fn_149"></span>[61:2](jae03.htm#fr_149.md) The Tenets of the
 Esseni, in "The Refutation of all the Heresies," by Hyppolytus. Book
 ix., chapter 15 (A.D. 222).
 
-<span id="fn_150"></span>[62:1](jae03.htm#fr_150) Matthew x. 11–14.
+<span id="fn_150"></span>[62:1](jae03.htm#fr_150.md) Matthew x. 11–14.
 
-<span id="fn_151"></span>[62:2](jae03.htm#fr_151) Luke x. 7.
+<span id="fn_151"></span>[62:2](jae03.htm#fr_151.md) Luke x. 7.
 
-<span id="fn_152"></span>[63:1](jae03.htm#fr_152) 3 John 9, 10.
+<span id="fn_152"></span>[63:1](jae03.htm#fr_152.md) 3 John 9, 10.
 
-<span id="fn_153"></span>[63:2](jae03.htm#fr_153) Josephus.
+<span id="fn_153"></span>[63:2](jae03.htm#fr_153.md) Josephus.
 
-<span id="fn_154"></span>[63:3](jae03.htm#fr_154) Matthew xviii. 15, 16,
+<span id="fn_154"></span>[63:3](jae03.htm#fr_154.md) Matthew xviii. 15, 16,
 17.
 
-<span id="fn_155"></span>[64:1](jae03.htm#fr_155) Acts ii. 47.
+<span id="fn_155"></span>[64:1](jae03.htm#fr_155.md) Acts ii. 47.
 
-<span id="fn_156"></span>[64:2](jae03.htm#fr_156) Acts ix. 31.
+<span id="fn_156"></span>[64:2](jae03.htm#fr_156.md) Acts ix. 31.
 
-<span id="fn_157"></span>[64:3](jae03.htm#fr_157) Acts xiv. 23.
+<span id="fn_157"></span>[64:3](jae03.htm#fr_157.md) Acts xiv. 23.
 
-<span id="fn_158"></span>[64:4](jae03.htm#fr_158) Acts vi. 1.
+<span id="fn_158"></span>[64:4](jae03.htm#fr_158.md) Acts vi. 1.
 
-<span id="fn_159"></span>[65:1](jae03.htm#fr_159) "History of Early
+<span id="fn_159"></span>[65:1](jae03.htm#fr_159.md) "History of Early
 Christianity." Vol. ii., p. 16.
 
-<span id="fn_160"></span>[65:2](jae03.htm#fr_160) 1 Corinthians v. 11.
+<span id="fn_160"></span>[65:2](jae03.htm#fr_160.md) 1 Corinthians v. 11.
 
-<span id="fn_161"></span>[65:3](jae03.htm#fr_161) Mosheim's
+<span id="fn_161"></span>[65:3](jae03.htm#fr_161.md) Mosheim's
 "Ecclesiastical History, First Century."
 
-<span id="fn_162"></span>[66:1](jae03.htm#fr_162) See "Jesus Christ, his
+<span id="fn_162"></span>[66:1](jae03.htm#fr_162.md) See "Jesus Christ, his
 times, life and work."
 
-<span id="fn_163"></span>[66:2](jae03.htm#fr_163) Exodus iii. 2.
+<span id="fn_163"></span>[66:2](jae03.htm#fr_163.md) Exodus iii. 2.
 
-<span id="fn_164"></span>[66:3](jae03.htm#fr_164) Exodus xix. 19.
+<span id="fn_164"></span>[66:3](jae03.htm#fr_164.md) Exodus xix. 19.
 
-<span id="fn_165"></span>[66:4](jae03.htm#fr_165) 1 Kings xix. 12.
+<span id="fn_165"></span>[66:4](jae03.htm#fr_165.md) 1 Kings xix. 12.
 
-<span id="fn_166"></span>[66:5](jae03.htm#fr_166) Matthew iv. 11.
+<span id="fn_166"></span>[66:5](jae03.htm#fr_166.md) Matthew iv. 11.
 
-<span id="fn_167"></span>[66:6](jae03.htm#fr_167) "Jesus Christ, his
+<span id="fn_167"></span>[66:6](jae03.htm#fr_167.md) "Jesus Christ, his
 times, life, and work."
 
-<span id="fn_168"></span>[67:1](jae03.htm#fr_168) See Exodus xix. 14,
+<span id="fn_168"></span>[67:1](jae03.htm#fr_168.md) See Exodus xix. 14,
 15. 1 Samuel xxi. 4, 5. Ezekiel xxxvi. 25. 2. Corinthians vii. 1; and
 Hebrews x. 22.
 
-<span id="fn_169"></span>[69:1](jae03.htm#fr_169) *See* Matthew xxvi.
+<span id="fn_169"></span>[69:1](jae03.htm#fr_169.md) *See* Matthew xxvi.
 30; and Mark xiv. 26.
 
-<span id="fn_170"></span>[70:1](jae03.htm#fr_170) For further
+<span id="fn_170"></span>[70:1](jae03.htm#fr_170.md) For further
 particulars of the "Shakers" and "Junkers" the reader is referred to
 "New America," by W. Hepworth Dixon.
 
-<span id="fn_171"></span>[70:2](jae03.htm#fr_171) "Wars of the Jews."
+<span id="fn_171"></span>[70:2](jae03.htm#fr_171.md) "Wars of the Jews."
 Book ii., chapter 8.
 
-<span id="fn_172"></span>[71:1](jae03.htm#fr_172) The reader is referred
+<span id="fn_172"></span>[71:1](jae03.htm#fr_172.md) The reader is referred
 for Paley's reasoning in full on this subject to the first nine chapters
 of his "Evidences of Christianity."
 
-<span id="fn_173"></span>[71:2](jae03.htm#fr_173) For a striking
+<span id="fn_173"></span>[71:2](jae03.htm#fr_173.md) For a striking
 instance of this, see 2 Maccabeus 7.
 
-<span id="fn_174"></span>[73:1](jae03.htm#fr_174) "The Apostles," by M.
+<span id="fn_174"></span>[73:1](jae03.htm#fr_174.md) "The Apostles," by M.
 Renan.
 
-<span id="fn_175"></span>[74:1](jae03.htm#fr_175) "Life of Jesus."
+<span id="fn_175"></span>[74:1](jae03.htm#fr_175.md) "Life of Jesus."
 
-<span id="fn_176"></span>[75:1](jae03.htm#fr_176) "Latimer's Sermons,"
+<span id="fn_176"></span>[75:1](jae03.htm#fr_176.md) "Latimer's Sermons,"
 page 160.
 
-<span id="fn_177"></span>[78:1](jae03.htm#fr_177) "Christian
+<span id="fn_177"></span>[78:1](jae03.htm#fr_177.md) "Christian
 Institutes."
 
-<span id="fn_178"></span>[79:1](jae03.htm#fr_178) 1 Kings vii. 63.
+<span id="fn_178"></span>[79:1](jae03.htm#fr_178.md) 1 Kings vii. 63.
 
-<span id="fn_179"></span>[79:2](jae03.htm#fr_179) 2 Chronicles xxix. 34.
+<span id="fn_179"></span>[79:2](jae03.htm#fr_179.md) 2 Chronicles xxix. 34.
 
-<span id="fn_180"></span>[82:1](jae03.htm#fr_180) *The Spectator*,
+<span id="fn_180"></span>[82:1](jae03.htm#fr_180.md) *The Spectator*,
 February 4th, 1893, page 156.
 
-<span id="fn_181"></span>[82:2](jae03.htm#fr_181) John ii. 19–21.
+<span id="fn_181"></span>[82:2](jae03.htm#fr_181.md) John ii. 19–21.
 
-<span id="fn_182"></span>[83:1](jae03.htm#fr_182) McEwen "On the Types."
+<span id="fn_182"></span>[83:1](jae03.htm#fr_182.md) McEwen "On the Types."
 
-<span id="fn_183"></span>[83:2](jae03.htm#fr_183) Ibid.
+<span id="fn_183"></span>[83:2](jae03.htm#fr_183.md) Ibid.
 
-<span id="fn_184"></span>[84:1](jae03.htm#fr_184) 2 Chronicles xxxv. 18.
+<span id="fn_184"></span>[84:1](jae03.htm#fr_184.md) 2 Chronicles xxxv. 18.
 
-<span id="fn_185"></span>[84:2](jae03.htm#fr_185) 1 Samuel ii. 13–16.
+<span id="fn_185"></span>[84:2](jae03.htm#fr_185.md) 1 Samuel ii. 13–16.
 
-<span id="fn_186"></span>[86:1](jae03.htm#fr_186) Leviticus xxvii. 28,
+<span id="fn_186"></span>[86:1](jae03.htm#fr_186.md) Leviticus xxvii. 28,
 29.
 
-<span id="fn_187"></span>[86:2](jae03.htm#fr_187) *See* "Declaration on
+<span id="fn_187"></span>[86:2](jae03.htm#fr_187.md) *See* "Declaration on
 the truth of Holy Scripture," signed by about forty clergymen of the
 Church of England, and published in the London *Weekly Times* of
 December 25th, 1891.
 
-<span id="fn_188"></span>[87:1](jae03.htm#fr_188) Samuel xv. 33.
+<span id="fn_188"></span>[87:1](jae03.htm#fr_188.md) Samuel xv. 33.
 
-<span id="fn_189"></span>[87:2](jae03.htm#fr_189) 1 Kings xi. 7, 8. 2
+<span id="fn_189"></span>[87:2](jae03.htm#fr_189.md) 1 Kings xi. 7, 8. 2
 Kings xvii. 17, and xxi. 6. 2 Chronicles xxviii. 3, and xxxiii. 6.
 Jeremiah xxxii. 35. Ezekiel xvi. 20, 21, 36, and xx. 26, 31. Micah vi.
 7.
 
-<span id="fn_190"></span>[87:3](jae03.htm#fr_190) 2 Kings xvii 26.
+<span id="fn_190"></span>[87:3](jae03.htm#fr_190.md) 2 Kings xvii 26.
 
-<span id="fn_191"></span>[88:1](jae03.htm#fr_191) Joshua xxiv. 14.
+<span id="fn_191"></span>[88:1](jae03.htm#fr_191.md) Joshua xxiv. 14.
 
-<span id="fn_192"></span>[88:2](jae03.htm#fr_192) 2 Kings xviii. 4.
+<span id="fn_192"></span>[88:2](jae03.htm#fr_192.md) 2 Kings xviii. 4.
 
-<span id="fn_193"></span>[91:1](jae03.htm#fr_193) Hebrews xi. 32.
+<span id="fn_193"></span>[91:1](jae03.htm#fr_193.md) Hebrews xi. 32.
 
-<span id="fn_194"></span>[91:2](jae03.htm#fr_194) Smith's "Dictionary of
+<span id="fn_194"></span>[91:2](jae03.htm#fr_194.md) Smith's "Dictionary of
 the Bible," article "Jephthah," by the Rev. W. T. Bullock, <span
 class="small">M.A</span>
 
-<span id="fn_195"></span>[94:1](jae03.htm#fr_195) See article "Rizpah,"
+<span id="fn_195"></span>[94:1](jae03.htm#fr_195.md) See article "Rizpah,"
 by George Groves, in Smith's "Dictionary of the Bible."
 
-<span id="fn_196"></span>[94:2](jae03.htm#fr_196) See also Smith's
+<span id="fn_196"></span>[94:2](jae03.htm#fr_196.md) See also Smith's
 "Dictionary of the Bible," article "David," by the Rev. Dr. Stanley.
 
-<span id="fn_197"></span>[95:1](jae03.htm#fr_197) 1 Samuel xiv.
+<span id="fn_197"></span>[95:1](jae03.htm#fr_197.md) 1 Samuel xiv.
 
-<span id="fn_198"></span>[97:1](jae03.htm#fr_198) John xi. 50.
+<span id="fn_198"></span>[97:1](jae03.htm#fr_198.md) John xi. 50.
 
-<span id="fn_199"></span>[97:2](jae03.htm#fr_199) Hebrews ix. 22.
+<span id="fn_199"></span>[97:2](jae03.htm#fr_199.md) Hebrews ix. 22.
 
-<span id="fn_200"></span>[97:3](jae03.htm#fr_200) Genesis viii. 27.
+<span id="fn_200"></span>[97:3](jae03.htm#fr_200.md) Genesis viii. 27.
 
-<span id="fn_201"></span>[98:1](jae03.htm#fr_201) Leviticus i. 9.
+<span id="fn_201"></span>[98:1](jae03.htm#fr_201.md) Leviticus i. 9.
 
-<span id="fn_202"></span>[98:2](jae03.htm#fr_202) Ephesians v. 2.
+<span id="fn_202"></span>[98:2](jae03.htm#fr_202.md) Ephesians v. 2.
 
-<span id="fn_203"></span>[98:3](jae03.htm#fr_203) Psalms xl. 6.
+<span id="fn_203"></span>[98:3](jae03.htm#fr_203.md) Psalms xl. 6.
 
-<span id="fn_204"></span>[98:4](jae03.htm#fr_204) Psalms li. 16. 17.
+<span id="fn_204"></span>[98:4](jae03.htm#fr_204.md) Psalms li. 16. 17.
 
-<span id="fn_205"></span>[99:1](jae03.htm#fr_205) Isaiah i. 11, 12, 13.
+<span id="fn_205"></span>[99:1](jae03.htm#fr_205.md) Isaiah i. 11, 12, 13.
 
-<span id="fn_206"></span>[99:2](jae03.htm#fr_206) Isaiah v. 7.
+<span id="fn_206"></span>[99:2](jae03.htm#fr_206.md) Isaiah v. 7.
 
-<span id="fn_207"></span>[99:3](jae03.htm#fr_207) Amos vi. 22.
+<span id="fn_207"></span>[99:3](jae03.htm#fr_207.md) Amos vi. 22.
 
-<span id="fn_208"></span>[99:4](jae03.htm#fr_208) Hosea vi.
+<span id="fn_208"></span>[99:4](jae03.htm#fr_208.md) Hosea vi.
 
-<span id="fn_209"></span>[99:5](jae03.htm#fr_209) Micah vi. 6, 7, 8.
+<span id="fn_209"></span>[99:5](jae03.htm#fr_209.md) Micah vi. 6, 7, 8.
 
-<span id="fn_210"></span>[100:1](jae03.htm#fr_210) Jeremiah vii. 21, 22.
+<span id="fn_210"></span>[100:1](jae03.htm#fr_210.md) Jeremiah vii. 21, 22.
 
-<span id="fn_211"></span>[100:2](jae03.htm#fr_211) Matthew xxiii. 37.
+<span id="fn_211"></span>[100:2](jae03.htm#fr_211.md) Matthew xxiii. 37.
 
-<span id="fn_212"></span>[101:1](jae03.htm#fr_212) Antiqui. Book xviii.
+<span id="fn_212"></span>[101:1](jae03.htm#fr_212.md) Antiqui. Book xviii.
 chap. i. sec. 5.
 
-<span id="fn_213"></span>[101:2](jae03.htm#fr_213) Mark xii. 33, 34.
+<span id="fn_213"></span>[101:2](jae03.htm#fr_213.md) Mark xii. 33, 34.
 
-<span id="fn_214"></span>[103:1](jae03.htm#fr_214) Geikie's " Life and
+<span id="fn_214"></span>[103:1](jae03.htm#fr_214.md) Geikie's " Life and
 Words of Christ."
 
-<span id="fn_215"></span>[103:2](jae03.htm#fr_215) 1 Peter i. 20.
+<span id="fn_215"></span>[103:2](jae03.htm#fr_215.md) 1 Peter i. 20.
 
-<span id="fn_216"></span>[103:3](jae03.htm#fr_216) Acts ii. 23.
+<span id="fn_216"></span>[103:3](jae03.htm#fr_216.md) Acts ii. 23.
 
-<span id="fn_217"></span>[103:4](jae03.htm#fr_217) Deuteronomy vii. 6.
+<span id="fn_217"></span>[103:4](jae03.htm#fr_217.md) Deuteronomy vii. 6.
 
-<span id="fn_218"></span>[104:1](jae03.htm#fr_218) *See* D. L. Clarke's
+<span id="fn_218"></span>[104:1](jae03.htm#fr_218.md) *See* D. L. Clarke's
 comment on Numbers xxiii. 20, in his Commentary.
 
-<span id="fn_219"></span>[104:2](jae03.htm#fr_219) Genesis xv. 8.
+<span id="fn_219"></span>[104:2](jae03.htm#fr_219.md) Genesis xv. 8.
 
-<span id="fn_220"></span>[104:3](jae03.htm#fr_220) Judges vi. 36–40.
+<span id="fn_220"></span>[104:3](jae03.htm#fr_220.md) Judges vi. 36–40.
 
-<span id="fn_221"></span>[112:1](jae03.htm#fr_221) Malachi i.
+<span id="fn_221"></span>[112:1](jae03.htm#fr_221.md) Malachi i.
 
-<span id="fn_222"></span>[112:2](jae03.htm#fr_222) Romans ix. 1.
+<span id="fn_222"></span>[112:2](jae03.htm#fr_222.md) Romans ix. 1.
 
-<span id="fn_223"></span>[113:1](jae03.htm#fr_223) Romans ix. 19.
+<span id="fn_223"></span>[113:1](jae03.htm#fr_223.md) Romans ix. 19.
 
-<span id="fn_224"></span>[114:1](jae03.htm#fr_224) Hebrews xii. 17.
+<span id="fn_224"></span>[114:1](jae03.htm#fr_224.md) Hebrews xii. 17.
 
-<span id="fn_225"></span>[115:1](jae03.htm#fr_225) "Secret Societies."
+<span id="fn_225"></span>[115:1](jae03.htm#fr_225.md) "Secret Societies."
 
-<span id="fn_226"></span>[115:2](jae03.htm#fr_226) Ibid.
+<span id="fn_226"></span>[115:2](jae03.htm#fr_226.md) Ibid.
 
-<span id="fn_227"></span>[116:1](jae03.htm#fr_227) "Antiquities of the
+<span id="fn_227"></span>[116:1](jae03.htm#fr_227.md) "Antiquities of the
 Jews." Book xiii., chapter 5.
 
 It is quite evident if we are to credit the testimony of Josephus at
@@ -7011,183 +7011,183 @@ to be the descendants of the Rechabites mentioned by Jeremiah, chapter
 xxxv. 5–10, but their tenets were probably a mixture of the doctrines of
 Moses and Pythagoras.
 
-<span id="fn_228"></span>[117:1](jae03.htm#fr_228) Dean Milman, in his
+<span id="fn_228"></span>[117:1](jae03.htm#fr_228.md) Dean Milman, in his
 account of this portion of Jewish history, terms the Essenes "an ascetic
 fraternity," and he accepts, without the slightest reserve, the
 authority of Josephus concerning this sect. *See* his "History of the
 Jews." Vol. ii., p. 76.
 
-<span id="fn_229"></span>[117:2](jae03.htm#fr_229) "Antiquities of the
+<span id="fn_229"></span>[117:2](jae03.htm#fr_229.md) "Antiquities of the
 Jews." Book xv., chapter 10.
 
-<span id="fn_230"></span>[117:3](jae03.htm#fr_230) Ibid.
+<span id="fn_230"></span>[117:3](jae03.htm#fr_230.md) Ibid.
 
-<span id="fn_231"></span>[118:1](jae03.htm#fr_231) "The Autobiography of
+<span id="fn_231"></span>[118:1](jae03.htm#fr_231.md) "The Autobiography of
 Flavius Josephus."
 
-<span id="fn_232"></span>[119:1](jae03.htm#fr_232) Christian D.
+<span id="fn_232"></span>[119:1](jae03.htm#fr_232.md) Christian D.
 Ginsburg, in Kitto's "Cyclopædia of Biblical Literature." Article
 "Essenes."
 
-<span id="fn_233"></span>[120:1](jae03.htm#fr_233) "Nat. History." Book
+<span id="fn_233"></span>[120:1](jae03.htm#fr_233.md) "Nat. History." Book
 v., chapter 15 (14).
 
-<span id="fn_234"></span>[121:1](jae03.htm#fr_234) It is noticeable that
+<span id="fn_234"></span>[121:1](jae03.htm#fr_234.md) It is noticeable that
 De Quincey refers us to no authorities whatever for his various
 statements respecting the Essenes. The reason is obvious—he had none.
 
-<span id="fn_235"></span>[122:1](jae03.htm#fr_235) "Decline and Fall of
+<span id="fn_235"></span>[122:1](jae03.htm#fr_235.md) "Decline and Fall of
 the Roman Empire." Chapter 15.
 
-<span id="fn_236"></span>[123:1](jae03.htm#fr_236) Taylor's "Ancient
+<span id="fn_236"></span>[123:1](jae03.htm#fr_236.md) Taylor's "Ancient
 Christianity." Supplement, Vol. ii., p. 62.
 
-<span id="fn_237"></span>[123:2](jae03.htm#fr_237) Ibid. Vol. ii., p.
+<span id="fn_237"></span>[123:2](jae03.htm#fr_237.md) Ibid. Vol. ii., p.
 517.
 
-<span id="fn_238"></span>[124:1](jae03.htm#fr_238) Taylor's "Ancient
+<span id="fn_238"></span>[124:1](jae03.htm#fr_238.md) Taylor's "Ancient
 Christianity." Vol. i., p. 520.
 
-<span id="fn_239"></span>[124:2](jae03.htm#fr_239) Though the Essenes
+<span id="fn_239"></span>[124:2](jae03.htm#fr_239.md) Though the Essenes
 affected solitude, Josephus distinctly says, "many of them dwell in
 every city."
 
-<span id="fn_240"></span>[125:1](jae03.htm#fr_240) Referring to the
+<span id="fn_240"></span>[125:1](jae03.htm#fr_240.md) Referring to the
 Essenes a writer says, "As to their connection with Christianity, there
 can be no difficulty in admitting that Christ and the apostles
 recognized those principles and practices of the Essenes, which were
 true and useful."—*Dr. Ginsburg, in Kitto's* "*Cyclopædia of Biblical
 Literature*."
 
-<span id="fn_241"></span>[125:2](jae03.htm#fr_241) "Ancient
+<span id="fn_241"></span>[125:2](jae03.htm#fr_241.md) "Ancient
 Christianity." Supplement, Vol. ii., p. 64.
 
-<span id="fn_242"></span>[126:1](jae03.htm#fr_242) Does the above
+<span id="fn_242"></span>[126:1](jae03.htm#fr_242.md) Does the above
 passage throw any light on a curious and much disputed verse, 1
 Corinthians vii. 36?
 
-<span id="fn_243"></span>[126:2](jae03.htm#fr_243) "Wars of the Jews."
+<span id="fn_243"></span>[126:2](jae03.htm#fr_243.md) "Wars of the Jews."
 Book ii., chapter 8, section 13.
 
-<span id="fn_244"></span>[127:1](jae03.htm#fr_244) "On the Virtuous
+<span id="fn_244"></span>[127:1](jae03.htm#fr_244.md) "On the Virtuous
 being also Free."
 
-<span id="fn_245"></span>[127:2](jae03.htm#fr_245) Ephesians vi. 5.
+<span id="fn_245"></span>[127:2](jae03.htm#fr_245.md) Ephesians vi. 5.
 Colossians iii. 22.
 
-<span id="fn_246"></span>[128:1](jae03.htm#fr_246) Ephesians vi. 9.
+<span id="fn_246"></span>[128:1](jae03.htm#fr_246.md) Ephesians vi. 9.
 Colossians iv. 1.
 
-<span id="fn_247"></span>[128:2](jae03.htm#fr_247) 1 Corinthians vii.
+<span id="fn_247"></span>[128:2](jae03.htm#fr_247.md) 1 Corinthians vii.
 20.
 
-<span id="fn_248"></span>[128:3](jae03.htm#fr_248) Galatians iii. 28.
+<span id="fn_248"></span>[128:3](jae03.htm#fr_248.md) Galatians iii. 28.
 
-<span id="fn_249"></span>[128:4](jae03.htm#fr_249) Philemon 16.
+<span id="fn_249"></span>[128:4](jae03.htm#fr_249.md) Philemon 16.
 
-<span id="fn_250"></span>[128:5](jae03.htm#fr_250) 1 Corinthians vi. 12,
+<span id="fn_250"></span>[128:5](jae03.htm#fr_250.md) 1 Corinthians vi. 12,
 and x. 23.
 
-<span id="fn_251"></span>[128:6](jae03.htm#fr_251) 1 Corinthians ix. 22.
+<span id="fn_251"></span>[128:6](jae03.htm#fr_251.md) 1 Corinthians ix. 22.
 
-<span id="fn_252"></span>[128:7](jae03.htm#fr_252) 1 Corinthians x. 33.
+<span id="fn_252"></span>[128:7](jae03.htm#fr_252.md) 1 Corinthians x. 33.
 
-<span id="fn_253"></span>[128:8](jae03.htm#fr_253) Matthew xxiii. 10.
+<span id="fn_253"></span>[128:8](jae03.htm#fr_253.md) Matthew xxiii. 10.
 
-<span id="fn_254"></span>[129:1](jae03.htm#fr_254) "Antiquities of the
+<span id="fn_254"></span>[129:1](jae03.htm#fr_254.md) "Antiquities of the
 Jews." Book xviii., chapter 1, section 6.
 
-<span id="fn_255"></span>[129:2](jae03.htm#fr_255) Milman's "Latin
+<span id="fn_255"></span>[129:2](jae03.htm#fr_255.md) Milman's "Latin
 Christianity." Vol. ii., p. 14.
 
-<span id="fn_256"></span>[130:1](jae03.htm#fr_256) "Connection of the
+<span id="fn_256"></span>[130:1](jae03.htm#fr_256.md) "Connection of the
 Old and New Testament."
 
-<span id="fn_257"></span>[130:2](jae03.htm#fr_257) Matthew vi. 17.
+<span id="fn_257"></span>[130:2](jae03.htm#fr_257.md) Matthew vi. 17.
 
-<span id="fn_258"></span>[131:1](jae03.htm#fr_258) James v. 14. Genesis
+<span id="fn_258"></span>[131:1](jae03.htm#fr_258.md) James v. 14. Genesis
 xxxv. 14, 15.
 
-<span id="fn_259"></span>[131:2](jae03.htm#fr_259) Genesis xxxv. 14, 15.
+<span id="fn_259"></span>[131:2](jae03.htm#fr_259.md) Genesis xxxv. 14, 15.
 
-<span id="fn_260"></span>[131:3](jae03.htm#fr_260) Mackay's "Progress of
+<span id="fn_260"></span>[131:3](jae03.htm#fr_260.md) Mackay's "Progress of
 the Intellect." Vol. ii., p. 199.
 
-<span id="fn_261"></span>[133:1](jae03.htm#fr_261) Matthew xix. 8.
+<span id="fn_261"></span>[133:1](jae03.htm#fr_261.md) Matthew xix. 8.
 
-<span id="fn_262"></span>[133:2](jae03.htm#fr_262) Numbers xv. 32–36.
+<span id="fn_262"></span>[133:2](jae03.htm#fr_262.md) Numbers xv. 32–36.
 
-<span id="fn_263"></span>[133:3](jae03.htm#fr_263) Mark ii. 27.
+<span id="fn_263"></span>[133:3](jae03.htm#fr_263.md) Mark ii. 27.
 
-<span id="fn_264"></span>[133:4](jae03.htm#fr_264) Romans xiv. 5, 6, and
+<span id="fn_264"></span>[133:4](jae03.htm#fr_264.md) Romans xiv. 5, 6, and
 Colossians ii.
 
-<span id="fn_265"></span>[136:1](jae03.htm#fr_265) "The Miscellanies."
+<span id="fn_265"></span>[136:1](jae03.htm#fr_265.md) "The Miscellanies."
 Book viii.
 
-<span id="fn_266"></span>[136:2](jae03.htm#fr_266) Ibid. Book ii., p.
+<span id="fn_266"></span>[136:2](jae03.htm#fr_266.md) Ibid. Book ii., p.
 27.
 
-<span id="fn_267"></span>[138:1](jae03.htm#fr_267) 2 Kings xxiii. 11.
+<span id="fn_267"></span>[138:1](jae03.htm#fr_267.md) 2 Kings xxiii. 11.
 
-<span id="fn_268"></span>[139:1](jae03.htm#fr_268) Jeremiah xxxii.
+<span id="fn_268"></span>[139:1](jae03.htm#fr_268.md) Jeremiah xxxii.
 32–35; also note Ezekiel xvi. 20, and xx. 31.
 
-<span id="fn_269"></span>[139:2](jae03.htm#fr_269) Ezekiel xx. 26.
+<span id="fn_269"></span>[139:2](jae03.htm#fr_269.md) Ezekiel xx. 26.
 
-<span id="fn_270"></span>[139:3](jae03.htm#fr_270) Jeremiah ii. 34.
+<span id="fn_270"></span>[139:3](jae03.htm#fr_270.md) Jeremiah ii. 34.
 
-<span id="fn_271"></span>[139:4](jae03.htm#fr_271) Ezekiel xvi. 36.
+<span id="fn_271"></span>[139:4](jae03.htm#fr_271.md) Ezekiel xvi. 36.
 
-<span id="fn_272"></span>[140:1](jae03.htm#fr_272) Ezekiel viii. 16.
+<span id="fn_272"></span>[140:1](jae03.htm#fr_272.md) Ezekiel viii. 16.
 
-<span id="fn_273"></span>[140:2](jae03.htm#fr_273) "To the Nations."
+<span id="fn_273"></span>[140:2](jae03.htm#fr_273.md) "To the Nations."
 
-<span id="fn_274"></span>[140:3](jae03.htm#fr_274) "Apologeticus."
+<span id="fn_274"></span>[140:3](jae03.htm#fr_274.md) "Apologeticus."
 Section 16.
 
-<span id="fn_275"></span>[145:1](jae03.htm#fr_275) Gibbon's "Decline and
+<span id="fn_275"></span>[145:1](jae03.htm#fr_275.md) Gibbon's "Decline and
 Fall of the Roman Empire." Chapter 15.
 
-<span id="fn_276"></span>[146:1](jae03.htm#fr_276) Exodus xxx. 34–38.
+<span id="fn_276"></span>[146:1](jae03.htm#fr_276.md) Exodus xxx. 34–38.
 
-<span id="fn_277"></span>[147:1](jae03.htm#fr_277) Revelation viii. 3.
+<span id="fn_277"></span>[147:1](jae03.htm#fr_277.md) Revelation viii. 3.
 
-<span id="fn_278"></span>[147:2](jae03.htm#fr_278) "Arnobius adversus
+<span id="fn_278"></span>[147:2](jae03.htm#fr_278.md) "Arnobius adversus
 Gentes." Book vii.
 
-<span id="fn_279"></span>[150:1](jae03.htm#fr_279) See the Epistle of
+<span id="fn_279"></span>[150:1](jae03.htm#fr_279.md) See the Epistle of
 Peter to James, in the " Clementine Epistles."
 
-<span id="fn_280"></span>[150:2](jae03.htm#fr_280) "Ancient
+<span id="fn_280"></span>[150:2](jae03.htm#fr_280.md) "Ancient
 Christianity." Volume i., p. 520.
 
-<span id="fn_281"></span>[151:1](jae03.htm#fr_281) "A Voice from the
+<span id="fn_281"></span>[151:1](jae03.htm#fr_281.md) "A Voice from the
 Ganges," by an Indian officer.
 
-<span id="fn_282"></span>[152:1](jae03.htm#fr_282) Strauss, in his "New
+<span id="fn_282"></span>[152:1](jae03.htm#fr_282.md) Strauss, in his "New
 Life of Jesus."
 
-<span id="fn_283"></span>[153:1](jae03.htm#fr_283) Matthew x. 24. Luke
+<span id="fn_283"></span>[153:1](jae03.htm#fr_283.md) Matthew x. 24. Luke
 xiv. 26, 27, 33. John viii. 31; xiii. 35 xv. 8.
 
-<span id="fn_284"></span>[153:2](jae03.htm#fr_284) Matthew x. 2. Mark
+<span id="fn_284"></span>[153:2](jae03.htm#fr_284.md) Matthew x. 2. Mark
 vi. 30. Luke vi. 13.
 
-<span id="fn_285"></span>[153:3](jae03.htm#fr_285) Matthew xxvi. 20.
+<span id="fn_285"></span>[153:3](jae03.htm#fr_285.md) Matthew xxvi. 20.
 Mark xiv. 17. Luke xxii. 14.
 
-<span id="fn_286"></span>[153:4](jae03.htm#fr_286) Matthew xxvi. 18, 26.
+<span id="fn_286"></span>[153:4](jae03.htm#fr_286.md) Matthew xxvi. 18, 26.
 John xiii. 5.
 
-<span id="fn_287"></span>[153:5](jae03.htm#fr_287) John ix. 28.
+<span id="fn_287"></span>[153:5](jae03.htm#fr_287.md) John ix. 28.
 
-<span id="fn_288"></span>[153:6](jae03.htm#fr_288) Matthew xxii. 15, 16.
+<span id="fn_288"></span>[153:6](jae03.htm#fr_288.md) Matthew xxii. 15, 16.
 
-<span id="fn_289"></span>[153:7](jae03.htm#fr_289) Matthew ix. 14. Mark
+<span id="fn_289"></span>[153:7](jae03.htm#fr_289.md) Matthew ix. 14. Mark
 ii. 18.
 
-<span id="fn_290"></span>[154:1](jae03.htm#fr_290) Acts xi. 26.
+<span id="fn_290"></span>[154:1](jae03.htm#fr_290.md) Acts xi. 26.
 
 It is worthy of note here that the term *good*, in Greek *chrestos*,
 was, in its plural form, applied to the disciples of Jesus in the second
@@ -7196,7 +7196,7 @@ ii., chapter 4, "Now those who have believed in Christ both are and are
 called *chrestoi*." Christos and Chrestos are very often compared in the
 writings of the early fathers.
 
-<span id="fn_291"></span>[154:2](jae03.htm#fr_291) Acts xxvi. 28; and 1
+<span id="fn_291"></span>[154:2](jae03.htm#fr_291.md) Acts xxvi. 28; and 1
 Peter iv. 16.
 
 Is it, we may here inquire, *only accidental* that the supreme
@@ -7218,250 +7218,250 @@ all the avatars (or prophets) who had only a portion of his divinity,
 whereas Chrishna was the person of Vishnu (God) *himself in a human
 form*."—*Asiatic Researches*, Volume i., pp. 259 and 256.
 
-<span id="fn_292"></span>[155:1](jae03.htm#fr_292) Matthew xxvii. 52.
+<span id="fn_292"></span>[155:1](jae03.htm#fr_292.md) Matthew xxvii. 52.
 
-<span id="fn_293"></span>[155:2](jae03.htm#fr_293) Acts vii. 45. Hebrews
+<span id="fn_293"></span>[155:2](jae03.htm#fr_293.md) Acts vii. 45. Hebrews
 iv. 8.
 
-<span id="fn_294"></span>[156:1](jae03.htm#fr_294) Leviticus viii. 12.
+<span id="fn_294"></span>[156:1](jae03.htm#fr_294.md) Leviticus viii. 12.
 
-<span id="fn_295"></span>[156:2](jae03.htm#fr_295) 1 Samuel x. 1.
+<span id="fn_295"></span>[156:2](jae03.htm#fr_295.md) 1 Samuel x. 1.
 
-<span id="fn_296"></span>[156:3](jae03.htm#fr_296) 1 Samuel xvi. 13.
+<span id="fn_296"></span>[156:3](jae03.htm#fr_296.md) 1 Samuel xvi. 13.
 
-<span id="fn_297"></span>[156:4](jae03.htm#fr_297) 2 Samuel xxii. 50,
+<span id="fn_297"></span>[156:4](jae03.htm#fr_297.md) 2 Samuel xxii. 50,
 51.
 
-<span id="fn_298"></span>[156:5](jae03.htm#fr_298) Psalms lxxxix. 20.
+<span id="fn_298"></span>[156:5](jae03.htm#fr_298.md) Psalms lxxxix. 20.
 
-<span id="fn_299"></span>[156:6](jae03.htm#fr_299) Isaiah xlv. 1.
+<span id="fn_299"></span>[156:6](jae03.htm#fr_299.md) Isaiah xlv. 1.
 
-<span id="fn_300"></span>[157:1](jae03.htm#fr_300) John i. 41.
+<span id="fn_300"></span>[157:1](jae03.htm#fr_300.md) John i. 41.
 
-<span id="fn_301"></span>[158:1](jae03.htm#fr_301) "Ecclesiastical
+<span id="fn_301"></span>[158:1](jae03.htm#fr_301.md) "Ecclesiastical
 History." Book i., chapter 3.
 
-<span id="fn_302"></span>[158:2](jae03.htm#fr_302) "A New Life of
+<span id="fn_302"></span>[158:2](jae03.htm#fr_302.md) "A New Life of
 Jesus," by Strauss.
 
-<span id="fn_303"></span>[159:1](jae03.htm#fr_303) Tertullian, "Apol."
+<span id="fn_303"></span>[159:1](jae03.htm#fr_303.md) Tertullian, "Apol."
 Section 39.
 
-<span id="fn_304"></span>[159:2](jae03.htm#fr_304) "Ecclesiastical
+<span id="fn_304"></span>[159:2](jae03.htm#fr_304.md) "Ecclesiastical
 History." Book ii., chapter 16.
 
-<span id="fn_305"></span>[162:1](jae03.htm#fr_305) "Ecclesiastical
+<span id="fn_305"></span>[162:1](jae03.htm#fr_305.md) "Ecclesiastical
 History." Book ii., chapter 17.
 
-<span id="fn_306"></span>[164:1](jae03.htm#fr_306) John i. 21.
+<span id="fn_306"></span>[164:1](jae03.htm#fr_306.md) John i. 21.
 
-<span id="fn_307"></span>[164:2](jae03.htm#fr_307) Matthew xvi. 14.
+<span id="fn_307"></span>[164:2](jae03.htm#fr_307.md) Matthew xvi. 14.
 
-<span id="fn_308"></span>[164:3](jae03.htm#fr_308) "Antiquities of the
+<span id="fn_308"></span>[164:3](jae03.htm#fr_308.md) "Antiquities of the
 Jews." Book xx., chapter 5. Section 1.
 
-<span id="fn_309"></span>[165:1](jae03.htm#fr_309) Acts v. 36.
+<span id="fn_309"></span>[165:1](jae03.htm#fr_309.md) Acts v. 36.
 
-<span id="fn_310"></span>[165:2](jae03.htm#fr_310) "Antiquities of the
+<span id="fn_310"></span>[165:2](jae03.htm#fr_310.md) "Antiquities of the
 Jews." Book xviii., chapter i. Section 1.
 
-<span id="fn_311"></span>[167:1](jae03.htm#fr_311) Isaiah ix. 6.
+<span id="fn_311"></span>[167:1](jae03.htm#fr_311.md) Isaiah ix. 6.
 
-<span id="fn_312"></span>[167:2](jae03.htm#fr_312) Isaiah ii. 4.
+<span id="fn_312"></span>[167:2](jae03.htm#fr_312.md) Isaiah ii. 4.
 
-<span id="fn_313"></span>[167:3](jae03.htm#fr_313) Ibid.
+<span id="fn_313"></span>[167:3](jae03.htm#fr_313.md) Ibid.
 
-<span id="fn_314"></span>[167:4](jae03.htm#fr_314) Isaiah li. 4.
+<span id="fn_314"></span>[167:4](jae03.htm#fr_314.md) Isaiah li. 4.
 
-<span id="fn_315"></span>[167:5](jae03.htm#fr_315) Isaiah lviii. 6.
+<span id="fn_315"></span>[167:5](jae03.htm#fr_315.md) Isaiah lviii. 6.
 
-<span id="fn_316"></span>[167:6](jae03.htm#fr_316) Haggai ii. 7.
+<span id="fn_316"></span>[167:6](jae03.htm#fr_316.md) Haggai ii. 7.
 
-<span id="fn_317"></span>[168:1](jae03.htm#fr_317) "History of
+<span id="fn_317"></span>[168:1](jae03.htm#fr_317.md) "History of
 Christianity." Vol. i., p. 81.
 
-<span id="fn_318"></span>[168:2](jae03.htm#fr_318) Matthew xi. 3.
+<span id="fn_318"></span>[168:2](jae03.htm#fr_318.md) Matthew xi. 3.
 
-<span id="fn_319"></span>[168:3](jae03.htm#fr_319) Matthew iii. 14.
+<span id="fn_319"></span>[168:3](jae03.htm#fr_319.md) Matthew iii. 14.
 
-<span id="fn_320"></span>[169:1](jae03.htm#fr_320) Matthew i. 21
+<span id="fn_320"></span>[169:1](jae03.htm#fr_320.md) Matthew i. 21
 (marginal reading).
 
-<span id="fn_321"></span>[170:1](jae03.htm#fr_321) Rev. William Selwyn,
+<span id="fn_321"></span>[170:1](jae03.htm#fr_321.md) Rev. William Selwyn,
 <span class="small">D.D.</span>, in Smith's "Dictionary of the Bible."
 Article "Septuagint."
 
-<span id="fn_322"></span>[172:1](jae03.htm#fr_322) See note on this
+<span id="fn_322"></span>[172:1](jae03.htm#fr_322.md) See note on this
 verse in Dean Alford's Edition of the New Testament.
 
-<span id="fn_323"></span>[172:2](jae03.htm#fr_323) Dean Alford omits
+<span id="fn_323"></span>[172:2](jae03.htm#fr_323.md) Dean Alford omits
 this verse from his New Testament, saying in a note, verse twenty-eight
 is not found in any of the five most ancient MSS.
 
-<span id="fn_324"></span>[172:3](jae03.htm#fr_324) "Life of Christ."
+<span id="fn_324"></span>[172:3](jae03.htm#fr_324.md) "Life of Christ."
 Bohn's edition, p. 23.
 
-<span id="fn_325"></span>[174:1](jae03.htm#fr_325) See his contribution
+<span id="fn_325"></span>[174:1](jae03.htm#fr_325.md) See his contribution
 to "Aids to Faith."
 
-<span id="fn_326"></span>[174:2](jae03.htm#fr_326) See Dr. Adam Clarke's
+<span id="fn_326"></span>[174:2](jae03.htm#fr_326.md) See Dr. Adam Clarke's
 notes on Matthew ii. 23, in his "Commentary."
 
-<span id="fn_327"></span>[174:3](jae03.htm#fr_327) "A New Introduction
+<span id="fn_327"></span>[174:3](jae03.htm#fr_327.md) "A New Introduction
 to the Study of the Bible," by E. P. Barrows, D.D., 1869.
 
-<span id="fn_328"></span>[174:4](jae03.htm#fr_328) "The Book of
+<span id="fn_328"></span>[174:4](jae03.htm#fr_328.md) "The Book of
 Prophecy," by George Smith, LL.D., 1866.
 
-<span id="fn_329"></span>[175:1](jae03.htm#fr_329) The above Rules, with
+<span id="fn_329"></span>[175:1](jae03.htm#fr_329.md) The above Rules, with
 additions, will be found in Dr. Adam Clarke's "Commentary."
 
-<span id="fn_330"></span>[176:1](jae03.htm#fr_330) "The Grounds of
+<span id="fn_330"></span>[176:1](jae03.htm#fr_330.md) "The Grounds of
 Christianity examined, by comparing the New Testament with the Old," by
 George Bethune English, A.M.
 
-<span id="fn_331"></span>[178:1](jae03.htm#fr_331) "Introduction to the
+<span id="fn_331"></span>[178:1](jae03.htm#fr_331.md) "Introduction to the
 New Testament," by Michaelis. Vol. L, p. 205.
 
-<span id="fn_332"></span>[180:1](jae03.htm#fr_332) John i. 36.
+<span id="fn_332"></span>[180:1](jae03.htm#fr_332.md) John i. 36.
 
-<span id="fn_333"></span>[180:2](jae03.htm#fr_333) John i. 41.
+<span id="fn_333"></span>[180:2](jae03.htm#fr_333.md) John i. 41.
 
-<span id="fn_334"></span>[180:3](jae03.htm#fr_334) Matthew xvi. 13.
+<span id="fn_334"></span>[180:3](jae03.htm#fr_334.md) Matthew xvi. 13.
 
-<span id="fn_335"></span>[180:4](jae03.htm#fr_335) Matthew xvi. 17.
+<span id="fn_335"></span>[180:4](jae03.htm#fr_335.md) Matthew xvi. 17.
 
-<span id="fn_336"></span>[180:5](jae03.htm#fr_336) Luke ii, 32.
+<span id="fn_336"></span>[180:5](jae03.htm#fr_336.md) Luke ii, 32.
 
-<span id="fn_337"></span>[181:1](jae03.htm#fr_337) Matthew xv. 24.
+<span id="fn_337"></span>[181:1](jae03.htm#fr_337.md) Matthew xv. 24.
 
-<span id="fn_338"></span>[181:2](jae03.htm#fr_338) Matthew x. 6.
+<span id="fn_338"></span>[181:2](jae03.htm#fr_338.md) Matthew x. 6.
 
-<span id="fn_339"></span>[181:3](jae03.htm#fr_339) "History of
+<span id="fn_339"></span>[181:3](jae03.htm#fr_339.md) "History of
 Christianity." Vol. i., p. 275.
 
-<span id="fn_340"></span>[182:1](jae03.htm#fr_340) John viii. 44.
+<span id="fn_340"></span>[182:1](jae03.htm#fr_340.md) John viii. 44.
 
-<span id="fn_341"></span>[182:2](jae03.htm#fr_341) Matthew xvi. 20.
+<span id="fn_341"></span>[182:2](jae03.htm#fr_341.md) Matthew xvi. 20.
 
-<span id="fn_342"></span>[182:3](jae03.htm#fr_342) 8 John vii. 5.
+<span id="fn_342"></span>[182:3](jae03.htm#fr_342.md) 8 John vii. 5.
 
-<span id="fn_343"></span>[182:4](jae03.htm#fr_343) Mark iii. 21.
+<span id="fn_343"></span>[182:4](jae03.htm#fr_343.md) Mark iii. 21.
 
-<span id="fn_344"></span>[182:5](jae03.htm#fr_344) John vi, 66.
+<span id="fn_344"></span>[182:5](jae03.htm#fr_344.md) John vi, 66.
 
-<span id="fn_345"></span>[183:1](jae03.htm#fr_345) John vi. 67–69.
+<span id="fn_345"></span>[183:1](jae03.htm#fr_345.md) John vi. 67–69.
 
-<span id="fn_346"></span>[183:2](jae03.htm#fr_346) Matthew xiii. 55–56.
+<span id="fn_346"></span>[183:2](jae03.htm#fr_346.md) Matthew xiii. 55–56.
 
-<span id="fn_347"></span>[184:1](jae03.htm#fr_347) John x. 30.
+<span id="fn_347"></span>[184:1](jae03.htm#fr_347.md) John x. 30.
 
-<span id="fn_348"></span>[184:2](jae03.htm#fr_348) John x. 32–36.
+<span id="fn_348"></span>[184:2](jae03.htm#fr_348.md) John x. 32–36.
 
-<span id="fn_349"></span>[184:3](jae03.htm#fr_349) John x. 24.
+<span id="fn_349"></span>[184:3](jae03.htm#fr_349.md) John x. 24.
 
-<span id="fn_350"></span>[184:4](jae03.htm#fr_350) Luke xxiii. 46.
+<span id="fn_350"></span>[184:4](jae03.htm#fr_350.md) Luke xxiii. 46.
 
-<span id="fn_351"></span>[185:1](jae03.htm#fr_351) Matthew xxvii. 51–53.
+<span id="fn_351"></span>[185:1](jae03.htm#fr_351.md) Matthew xxvii. 51–53.
 
-<span id="fn_352"></span>[185:2](jae03.htm#fr_352) "Life of Christ," p.
+<span id="fn_352"></span>[185:2](jae03.htm#fr_352.md) "Life of Christ," p.
 450.
 
-<span id="fn_353"></span>[185:3](jae03.htm#fr_353) "Life of Christ," p.
+<span id="fn_353"></span>[185:3](jae03.htm#fr_353.md) "Life of Christ," p.
 459.
 
-<span id="fn_354"></span>[185:4](jae03.htm#fr_354) Ibid., p. 79.
+<span id="fn_354"></span>[185:4](jae03.htm#fr_354.md) Ibid., p. 79.
 
-<span id="fn_355"></span>[186:1](jae03.htm#fr_355) The Picture of
+<span id="fn_355"></span>[186:1](jae03.htm#fr_355.md) The Picture of
 Jesus," by the Rev. H. R. Haweis, <span class="small">M.A.</span>, p.
 264.
 
-<span id="fn_356"></span>[187:1](jae03.htm#fr_356) Froude's "Plea for
+<span id="fn_356"></span>[187:1](jae03.htm#fr_356.md) Froude's "Plea for
 Free Discussion of Theological Difficulties."
 
-<span id="fn_357"></span>[189:1](jae03.htm#fr_357) "A Voice from the
+<span id="fn_357"></span>[189:1](jae03.htm#fr_357.md) "A Voice from the
 Ganges."
 
-<span id="fn_358"></span>[189:2](jae03.htm#fr_358) Mark xvi. 1–11.
+<span id="fn_358"></span>[189:2](jae03.htm#fr_358.md) Mark xvi. 1–11.
 
-<span id="fn_359"></span>[190:1](jae03.htm#fr_359) See "Life of Flavius
+<span id="fn_359"></span>[190:1](jae03.htm#fr_359.md) See "Life of Flavius
 Josephus."
 
-<span id="fn_360"></span>[190:2](jae03.htm#fr_360) "Science and
+<span id="fn_360"></span>[190:2](jae03.htm#fr_360.md) "Science and
 Christian Tradition," p. 279, in Vol. v. of Huxley's collected works,
 published by Macmillan & Co., 1894.
 
-<span id="fn_361"></span>[191:1](jae03.htm#fr_361) "Penny Cyclopedia,"
+<span id="fn_361"></span>[191:1](jae03.htm#fr_361.md) "Penny Cyclopedia,"
 article Cross."
 
-<span id="fn_362"></span>[191:2](jae03.htm#fr_362) 4 Matthew xxi. 18;
+<span id="fn_362"></span>[191:2](jae03.htm#fr_362.md) 4 Matthew xxi. 18;
 and Mark xi. 12.
 
-<span id="fn_363"></span>[193:1](jae03.htm#fr_363) Ezekiel xxxvii. 1–10.
+<span id="fn_363"></span>[193:1](jae03.htm#fr_363.md) Ezekiel xxxvii. 1–10.
 
-<span id="fn_364"></span>[193:2](jae03.htm#fr_364) Revelation xx. 13.
+<span id="fn_364"></span>[193:2](jae03.htm#fr_364.md) Revelation xx. 13.
 
-<span id="fn_365"></span>[193:3](jae03.htm#fr_365) Mark xvi. 5.
+<span id="fn_365"></span>[193:3](jae03.htm#fr_365.md) Mark xvi. 5.
 
-<span id="fn_366"></span>[194:1](jae03.htm#fr_366) Corinthians xv. 44.
+<span id="fn_366"></span>[194:1](jae03.htm#fr_366.md) Corinthians xv. 44.
 
-<span id="fn_367"></span>[197:1](jae03.htm#fr_367) Luke xxiv. 41–43.
+<span id="fn_367"></span>[197:1](jae03.htm#fr_367.md) Luke xxiv. 41–43.
 
-<span id="fn_368"></span>[197:2](jae03.htm#fr_368) John xxi. 9.
+<span id="fn_368"></span>[197:2](jae03.htm#fr_368.md) John xxi. 9.
 
-<span id="fn_369"></span>[198:1](jae03.htm#fr_369) John xxi. 22.
+<span id="fn_369"></span>[198:1](jae03.htm#fr_369.md) John xxi. 22.
 
-<span id="fn_370"></span>[198:2](jae03.htm#fr_370) "Arnobius adversus
+<span id="fn_370"></span>[198:2](jae03.htm#fr_370.md) "Arnobius adversus
 Gentes."
 
-<span id="fn_371"></span>[198:3](jae03.htm#fr_371) Liebig's "Animal
+<span id="fn_371"></span>[198:3](jae03.htm#fr_371.md) Liebig's "Animal
 Chemistry."
 
-<span id="fn_372"></span>[198:4](jae03.htm#fr_372) Ibid.
+<span id="fn_372"></span>[198:4](jae03.htm#fr_372.md) Ibid.
 
-<span id="fn_373"></span>[200:1](jae03.htm#fr_373) Luke i. 2.
+<span id="fn_373"></span>[200:1](jae03.htm#fr_373.md) Luke i. 2.
 
-<span id="fn_374"></span>[200:2](jae03.htm#fr_374) Acts x. 41.
+<span id="fn_374"></span>[200:2](jae03.htm#fr_374.md) Acts x. 41.
 
-<span id="fn_375"></span>[201:1](jae03.htm#fr_375) Acts i. 3.
+<span id="fn_375"></span>[201:1](jae03.htm#fr_375.md) Acts i. 3.
 
-<span id="fn_376"></span>[201:2](jae03.htm#fr_376) See "The Nineteenth
+<span id="fn_376"></span>[201:2](jae03.htm#fr_376.md) See "The Nineteenth
 Century," June 1893, p. 921.
 
-<span id="fn_377"></span>[202:1](jae03.htm#fr_377) 1 Corinthians xv. 8
+<span id="fn_377"></span>[202:1](jae03.htm#fr_377.md) 1 Corinthians xv. 8
 
-<span id="fn_378"></span>[202:2](jae03.htm#fr_378) Acts i. 3.
+<span id="fn_378"></span>[202:2](jae03.htm#fr_378.md) Acts i. 3.
 
-<span id="fn_379"></span>[203:1](jae03.htm#fr_379) Galatians i. 3.
+<span id="fn_379"></span>[203:1](jae03.htm#fr_379.md) Galatians i. 3.
 
-<span id="fn_380"></span>[203:2](jae03.htm#fr_380) 1 Corinthians xi.
+<span id="fn_380"></span>[203:2](jae03.htm#fr_380.md) 1 Corinthians xi.
 23–26.
 
-<span id="fn_381"></span>[204:1](jae03.htm#fr_381) 1 Thessalonians iv.
+<span id="fn_381"></span>[204:1](jae03.htm#fr_381.md) 1 Thessalonians iv.
 15–17.
 
-<span id="fn_382"></span>[205:1](jae03.htm#fr_382) Acts ix. 26, 27, 28.
+<span id="fn_382"></span>[205:1](jae03.htm#fr_382.md) Acts ix. 26, 27, 28.
 
-<span id="fn_383"></span>[205:2](jae03.htm#fr_383) Galatians i. 17.
+<span id="fn_383"></span>[205:2](jae03.htm#fr_383.md) Galatians i. 17.
 
-<span id="fn_384"></span>[205:3](jae03.htm#fr_384) Romans viii. 34.
+<span id="fn_384"></span>[205:3](jae03.htm#fr_384.md) Romans viii. 34.
 
-<span id="fn_385"></span>[205:4](jae03.htm#fr_385) Ephesians iv. 9.
+<span id="fn_385"></span>[205:4](jae03.htm#fr_385.md) Ephesians iv. 9.
 
-<span id="fn_386"></span>[205:5](jae03.htm#fr_386) 1 Timothy iii. 16.
+<span id="fn_386"></span>[205:5](jae03.htm#fr_386.md) 1 Timothy iii. 16.
 
-<span id="fn_387"></span>[205:6](jae03.htm#fr_387) 1 Peter iii. 22.
+<span id="fn_387"></span>[205:6](jae03.htm#fr_387.md) 1 Peter iii. 22.
 
-<span id="fn_388"></span>[206:1](jae03.htm#fr_388) 1 Corinthians xv. 50.
+<span id="fn_388"></span>[206:1](jae03.htm#fr_388.md) 1 Corinthians xv. 50.
 
-<span id="fn_389"></span>[206:2](jae03.htm#fr_389) Mark xvi. 19.
+<span id="fn_389"></span>[206:2](jae03.htm#fr_389.md) Mark xvi. 19.
 
-<span id="fn_390"></span>[208:1](jae03.htm#fr_390) "The History of Jesus
+<span id="fn_390"></span>[208:1](jae03.htm#fr_390.md) "The History of Jesus
 of Nazara," by Dr. Theodor Keim, translated by Arthur Ransom. Vol. vi.,
 pp. 380–382. Published 1883.
 
-<span id="fn_391"></span>[209:1](jae03.htm#fr_391) Matthew Arnold.
+<span id="fn_391"></span>[209:1](jae03.htm#fr_391.md) Matthew Arnold.
 
 ------------------------------------------------------------------------
 
-[Next: Index](jae04)
+[Next: Index](jae04.md)

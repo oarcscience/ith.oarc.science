@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico003) 
-[Next](nico005) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico003.md) 
+[Next](nico005.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ Another's wisdom, is a useless wight.
 
 [Next: Chapter 5. Discussion of the popular views that the good is
 pleasure, honour, wealth; a fourth kind of life, that of contemplation,
-deferred for future discussion](nico005)
+deferred for future discussion](nico005.md)

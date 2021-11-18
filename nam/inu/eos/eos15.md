@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index) 
-[Siberian](../../../asia/index.htm#siberia)  [Index](index) 
-[Previous](eos14)  [Next](eos16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index.md) 
+[Siberian](../../../asia/index.htm#siberia)  [Index](index.md) 
+[Previous](eos14)  [Next](eos16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eskimo of Siberia*, by Waldemar Bogoras, \[1913\], at Intangible
 Textual Heritage
 
@@ -41,7 +41,7 @@ body was covered with an old coat of bird-skins without feathers. He lay
 shaking with cold, and asking for a speedy death.
 
    He wanted to sleep, but could not. So he prayed to the Sea-God, <span
-id="fr_9"></span>[2](#fn_9) not for food, at least for a little sleep.
+id="fr_9"></span>[2](#fn_9.md) not for food, at least for a little sleep.
 But the sleep did not come. Then he prayed to the Upper God for a little
 sleep. The sleep did not come. But the Sea-God had compassion on him,
 and sent a walrus. The walrus came roaring, and emerged out of the
@@ -99,10 +99,10 @@ Told by Ale´qat, an Asiatic Eskimo man, on St. Lawrence Island, May,
 
 ### Footnotes
 
-<span id="fn_9"></span>[433:2](eos15.htm#fr_9) Ima´m Kịya´ṛnaṛak.
+<span id="fn_9"></span>[433:2](eos15.htm#fr_9.md) Ima´m Kịya´ṛnaṛak.
 Kịya´ṛnaṛak fully corresponds to the Chukchee Va´ịrġịn, and signifies
 "(Good) Being."
 
 ------------------------------------------------------------------------
 
-[Next: 15. The Contest between the Giant and the Plover.](eos16)
+[Next: 15. The Contest between the Giant and the Plover.](eos16.md)

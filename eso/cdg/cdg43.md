@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg42)  [Next](cdg44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg42)  [Next](cdg44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
 
 <span class="margnote"><span id="an_FF">FF</span></span>In Athanasius' "
 Life of St. Antony," at the words, "the weapons which are 'in the navel
-of his belly,'" <span id="fr_189"></span>[\*](#fn_189) reference is made
+of his belly,'" <span id="fr_189"></span>[\*](#fn_189.md) reference is made
 to the parallel passage in Job xl, 16, where the Lord says of Behemoth,
 "his force is in the navel of his belly," and it is stated that "the
 descriptions of behemoth and leviathan are allegorically referred to
@@ -30,7 +30,7 @@ and Leviathan, what they are, and how they manifest.
 
 |                     |
 |---------------------|
-| ![B](img/26800.jpg) |
+| ![B](img/26800.jpg.md) |
 
 EHEMOTH. JOB xl, 6.--Then answered the Lord unto Job out of the
 whirlwind, and said,
@@ -50,9 +50,9 @@ to the allegory which follows.
 <div style="margin-left: 32px">
 
 "Bĕhēmōth is no doubt an intensive plural form, and means 'a colossal
-beast.'" <span id="fr_190"></span>[†](#fn_190) Behemoth symbolises the
+beast.'" <span id="fr_190"></span>[†](#fn_190.md) Behemoth symbolises the
 beast in man, the vital energy or Solar Force manifesting ungo,verned in
-the lower or animal nature of man. <span id="fr_191"></span>[‡](#fn_191)
+the lower or animal nature of man. <span id="fr_191"></span>[‡](#fn_191.md)
 
 </div>
 
@@ -77,7 +77,7 @@ sex expression or generation.
 
 Loins in Hebrew as in Greek is used as a euphemism for the organs of
 generation. During the present cycle of evolution the strength or power
-of the Solar Force <span id="fr_192"></span>[\*](#fn_193) is manifesting
+of the Solar Force <span id="fr_192"></span>[\*](#fn_193.md) is manifesting
 in sex expression.
 
 </div>
@@ -88,7 +88,7 @@ and his force is in the navel of his belly.
 
 "The shining, vital energy which is the manifestation of life . . . is
 sleeping like a serpent, having three and a half coils." <span
-id="fr_193"></span>[§](#fn_192) The first stirring or uncoiling of this
+id="fr_193"></span>[§](#fn_192.md) The first stirring or uncoiling of this
 force prior to its passage through and energising of the ganglia of the
 sympathetic system manifests in the abdomen in the region of the navel.
 In chapter xxxii, 18, 19; 8, of the Book of Job, the Initiate Elihu
@@ -109,7 +109,7 @@ the inspiration of the Almighty giveth them understanding."
 </div>
 
 18\. His bones are pipes of copper; his bones are like tubes of
-iron. <span id="fr_194"></span>[†](#fn_194)
+iron. <span id="fr_194"></span>[†](#fn_194.md)
 
 <div style="margin-left: 32px">
 
@@ -120,7 +120,7 @@ copper and iron. In Sanskrit writings these channels are similarly
 termed pipes or tubes (nadis). The Uttara Gita states that these nadis
 "are like pipes, are hollow and in this space there exists a certain
 substance, like oil, in which the Chaitanya (Divine Energy)
-reflects." <span id="fr_195"></span>[§](#fn_195) In the fourth chapter
+reflects." <span id="fr_195"></span>[§](#fn_195.md) In the fourth chapter
 of Zechariah the word "pipes" is used in this sense. "And I said, I have
 looked, and behold a candlestick (the spine) all of gold, with a bowl
 upon the top of it," ("The golden bowl is the
@@ -131,7 +131,7 @@ upon the top of it," ("The golden bowl is the
 
 <div style="margin-left: 32px">
 
-brain," <span id="fr_196"></span>[†](#fn_196) or accurately speaking the
+brain," <span id="fr_196"></span>[†](#fn_196.md) or accurately speaking the
 *medulla oblongata* which is a reservoir of vital force,) and his seven
 lamps thereon, (the seven principal ganglia), and seven pipes to the
 seven lamps."
@@ -177,7 +177,7 @@ a feast,--And he will destroy in this mountain the face of the covering
 cast over all people, and the wail (of forgetfulness) that is spread
 over all nations. And it shall be said in that day, Lo, this is our God;
 we have waited for him, and he will save us: For in this mountain shall
-the hand of the Lord rest." <span id="fr_197"></span>[\*](#fn_197) The
+the hand of the Lord rest." <span id="fr_197"></span>[\*](#fn_197.md) The
 Divine Principle manifesting in the higher consciousness of man shall
 bring him into harmony with the Law of Nature, God.
 
@@ -240,7 +240,7 @@ inclinations and ignorance.
 
 |                     |
 |---------------------|
-| ![L](img/27400.jpg) |
+| ![L](img/27400.jpg.md) |
 
 EVIATHAN. JOB xl, 1.--Canst thou draw out leviathan with an hook?
 
@@ -248,19 +248,19 @@ EVIATHAN. JOB xl, 1.--Canst thou draw out leviathan with an hook?
 
 The word Leviathan in Hebrew is made up of two roots, Levi and Than.
 "ThN, Than, which is the root of Serpent or Dragon. <span
-id="fr_198"></span>[1](#fn_198) Than will be the symbol of
+id="fr_198"></span>[1](#fn_198.md) Than will be the symbol of
 transgression, but a symbol also of influence and of power." <span
-id="fr_199"></span>[2](#fn_199) Since the root meaning of Than is
+id="fr_199"></span>[2](#fn_199.md) Since the root meaning of Than is
 serpent, Leviathan means literally the Than or serpent of Levi. Of this
 word Levi "The root, we may suppose, describes the coils of the serpent,
 perhaps the metallic gleam of its scales." <span
-id="fr_200"></span>[3](#fn_200) For Levi was the serpent tribe, bred for
+id="fr_200"></span>[3](#fn_200.md) For Levi was the serpent tribe, bred for
 generations to the knowledge and control of the World Serpent, Solar
-Force. <span id="fr_201"></span>[\*](#fn_201) Leviathan or the Serpent
+Force. <span id="fr_201"></span>[\*](#fn_201.md) Leviathan or the Serpent
 of Levi signifies the Solar Force governed and direted upward through
 the spine by the priests of the tribe of Levi for regeneration, the
 upbuilding of the deathless Solar Body. <span
-id="fr_202"></span>[†](#fn_202) Accurately speaking, Leviathan is the
+id="fr_202"></span>[†](#fn_202.md) Accurately speaking, Leviathan is the
 Solar Force manifesting in the cerebrospinal nervous system after its
 passage through the ganglia of the sympathetic system.
 
@@ -310,7 +310,7 @@ that stage in the evolution of his Godhood typified in ancient myths as
 <div style="margin-left: 32px">
 
 the slaying of the lion or dragon. <span
-id="fr_203"></span>[\*](#fn_203) Samson slew the lion after his lower
+id="fr_203"></span>[\*](#fn_203.md) Samson slew the lion after his lower
 nature had been roused by his love for a daughter of the Philistines.
 And Hercules overcame the Nemean lion after the fifty daughters of King
 Thespius had been given him as wives. This verse alludes to a definite
@@ -329,7 +329,7 @@ you for personal advantage or money?
 </div>
 
 7\. Wilt thou fill . . . the cabin of fishes with his head? <span
-id="fr_204"></span>[†](#fn_204)
+id="fr_204"></span>[†](#fn_204.md)
 
 <div style="margin-left: 32px">
 
@@ -347,7 +347,7 @@ would seem to
 
 designate the skull containing the brain where the currents of the Solar
 Force focus for regeneration. Thus "there is no head above the head of a
-serpent" <span id="fr_205"></span>[\*](#fn_205) <span
+serpent" <span id="fr_205"></span>[\*](#fn_205.md) <span
 class="small">*Ecclesiasticus, 25, 15*</span>, Will you be able to fill
 the reservoir of regenerative force situated in the brain? is the
 meaning of this verse.
@@ -441,7 +441,7 @@ where, as it were, their balance registers; so that at this degree of
 evolution the Initiate can sense whether the balance is perfedf, or
 whether positive or negative current predominates. This power to sense
 and govern the currents is hère called the double bridle of
-Leviathan. <span id="fr_206"></span>[†](#fn_206) And the Adept Kings of
+Leviathan. <span id="fr_206"></span>[†](#fn_206.md) And the Adept Kings of
 Egypt bore upon their
 
 </div>
@@ -490,13 +490,13 @@ The neesings of Leviathan characterise what
 may be described as the whisking of the Solar Force through and about
 the Initiate which at every pronounced increase of voltage causes
 greater illumination, to the seer, actually visible as light. See
-[Frontispiece](cdg00.htm#img_front).
+[Frontispiece](cdg00.htm#img_front.md).
 
 21\. His breath kindleth coals,
 
 <div style="margin-left: 32px">
 
-The Divine Energy or Fire <span id="fr_207"></span>[\*](#fn_207)
+The Divine Energy or Fire <span id="fr_207"></span>[\*](#fn_207.md)
 enkindles the ganglia. Or this verse may be taken literally, for when
 the Solar Force has reached and energised a certain ganglion the
 Initiate is able to enkindle substances by directing the Solar Force
@@ -543,7 +543,7 @@ without fear,' who can fearlessly govern Leviathan.
 Job xlii, 1. Then Job answered the Lord, and said,
 
 2\. I know that thou canst do everything, and that no thought of thine
-can be hindered. <span id="fr_208"></span>[\*](#fn_208)
+can be hindered. <span id="fr_208"></span>[\*](#fn_208.md)
 
 <div style="margin-left: 32px">
 
@@ -556,71 +556,71 @@ Nature, God, which wills obedience from all things.
 
 ### Footnotes
 
-<span id="fn_189"></span>[268:\*](cdg43.htm#fr_189) *Cited page
-[124](cdg08.htm#page_124)*.
+<span id="fn_189"></span>[268:\*](cdg43.htm#fr_189.md) *Cited page
+[124](cdg08.htm#page_124.md)*.
 
-<span id="fn_190"></span>[268:†](cdg43.htm#fr_190) *Enyclopædia Biblica.
+<span id="fn_190"></span>[268:†](cdg43.htm#fr_190.md) *Enyclopædia Biblica.
 Edited by the Rev. T. K. Cheyne, M.A., D.D., Vol. I, page 519*.
 
-<span id="fn_191"></span>[268:‡](cdg43.htm#fr_191) *Behemoth is the
-Lion, page [160](cdg09.htm#page_160)*.
+<span id="fn_191"></span>[268:‡](cdg43.htm#fr_191.md) *Behemoth is the
+Lion, page [160](cdg09.htm#page_160.md)*.
 
-<span id="fn_192"></span>[269:§](cdg43.htm#fr_193) *Lalita Sahasranama
+<span id="fn_192"></span>[269:§](cdg43.htm#fr_193.md) *Lalita Sahasranama
 with Bhashararaya's Commentary. Translated into English by R. A. Sastri
 page 75*.
 
-<span id="fn_193"></span>[269:\*](cdg43.htm#fr_192) *Solar Force
-Defined, pages [48](cdg05.htm#page_48), [50](cdg05.htm#page_50) and
-[42](cdg05.htm#page_42)*.
+<span id="fn_193"></span>[269:\*](cdg43.htm#fr_192.md) *Solar Force
+Defined, pages [48](cdg05.htm#page_48), [50](cdg05.htm#page_50.md) and
+[42](cdg05.htm#page_42.md)*.
 
-<span id="fn_194"></span>[270:†](cdg43.htm#fr_194) *Jewish School and
+<span id="fn_194"></span>[270:†](cdg43.htm#fr_194.md) *Jewish School and
 Family Bible, Vol. iv, Job xl, 18*.
 
-<span id="fn_195"></span>[270:§](cdg43.htm#fr_195) *Page 27, D. K.
+<span id="fn_195"></span>[270:§](cdg43.htm#fr_195.md) *Page 27, D. K.
 Laheri's Translation*.
 
-<span id="fn_196"></span>[271:†](cdg43.htm#fr_196) *Royal Masonic
+<span id="fn_196"></span>[271:†](cdg43.htm#fr_196.md) *Royal Masonic
 Cyclopcedia, page 675*.
 
-<span id="fn_197"></span>[272:\*](cdg43.htm#fr_197) EXTRACTS ISAIAH,
+<span id="fn_197"></span>[272:\*](cdg43.htm#fr_197.md) EXTRACTS ISAIAH,
 XXV, 6, 7, 9, 10.
 
-<span id="fn_198"></span>[274:1](cdg43.htm#fr_198) KABBALA DENUDATA. THE
+<span id="fn_198"></span>[274:1](cdg43.htm#fr_198.md) KABBALA DENUDATA. THE
 KABBALAH UNVEILED BY SIMEON BEN JOCHAI. TRANSLATED BY S. L. MACGREGOR
 MATHERS. PAGE 237.
 
-<span id="fn_199"></span>[274:2](cdg43.htm#fr_199) THE SAME. EXTRACTS,
+<span id="fn_199"></span>[274:2](cdg43.htm#fr_199.md) THE SAME. EXTRACTS,
 PAGE 152.
 
-<span id="fn_200"></span>[274:3](cdg43.htm#fr_200) SKIPWITH IN JEWISH
+<span id="fn_200"></span>[274:3](cdg43.htm#fr_200.md) SKIPWITH IN JEWISH
 QUARTERLY REVIEW, VOL. xi, PAGE 264.
 
-<span id="fn_201"></span>[274:\*](cdg43.htm#fr_201) Solar Force Defined,
-pages [48](cdg05.htm#page_48), [50](cdg05.htm#page_50),
-[42](cdg05.htm#page_42).
+<span id="fn_201"></span>[274:\*](cdg43.htm#fr_201.md) Solar Force Defined,
+pages [48](cdg05.htm#page_48), [50](cdg05.htm#page_50.md),
+[42](cdg05.htm#page_42.md).
 
-<span id="fn_202"></span>[274:†](cdg43.htm#fr_202) The Solar Body is the
+<span id="fn_202"></span>[274:†](cdg43.htm#fr_202.md) The Solar Body is the
 Spiritual Body.
 
-<span id="fn_203"></span>[276:\*](cdg43.htm#fr_203) *"Hail dragon, lion
+<span id="fn_203"></span>[276:\*](cdg43.htm#fr_203.md) *"Hail dragon, lion
 dynamic by nature and first principle of fire!" Translated from Dr. Carl
 Wessely, Griechische Zauber Papyrus. 1889 Page 68, line 939*.
 
-<span id="fn_204"></span>[276:†](cdg43.htm#fr_204) TRANSLATION OF ST.
+<span id="fn_204"></span>[276:†](cdg43.htm#fr_204.md) TRANSLATION OF ST.
 GREGORY THE GREAT. MORALS ON THE BOOK OF JOB. VOLUME iii, PT. ii, PAGE
 590. PUSEY LIBRARY OF THE FATHERS.
 
-<span id="fn_205"></span>[277:\*](cdg43.htm#fr_205) *The Serpent is the
-Solar Force. Compare page [42](cdg05.htm#page_42)*.
+<span id="fn_205"></span>[277:\*](cdg43.htm#fr_205.md) *The Serpent is the
+Solar Force. Compare page [42](cdg05.htm#page_42.md)*.
 
-<span id="fn_206"></span>[279:†](cdg43.htm#fr_206) *Compare
-Illustration, page [267](cdg42.htm#page_267)*.
+<span id="fn_206"></span>[279:†](cdg43.htm#fr_206.md) *Compare
+Illustration, page [267](cdg42.htm#page_267.md)*.
 
-<span id="fn_207"></span>[281:\*](cdg43.htm#fr_207) *Solar Force*.
+<span id="fn_207"></span>[281:\*](cdg43.htm#fr_207.md) *Solar Force*.
 
-<span id="fn_208"></span>[282:\*](cdg43.htm#fr_208) *Literal
+<span id="fn_208"></span>[282:\*](cdg43.htm#fr_208.md) *Literal
 translation*.
 
 ------------------------------------------------------------------------
 
-[Next: GG. The Holy Language Described by Emmanuel Swedenborg](cdg44)
+[Next: GG. The Holy Language Described by Emmanuel Swedenborg](cdg44.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico093) 
-[Next](nico095) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico093.md) 
+[Next](nico095.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ purpose lies the essential element of virtue and character.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 14. (b) In friendship between unequals](nico095)
+[Next: Chapter 14. (b) In friendship between unequals](nico095.md)

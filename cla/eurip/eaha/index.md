@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Euripides](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Euripides](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,8 +21,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](eaha00)    [Page
-Index](pageidx)    [Text \[Zipped\]](eaha.txt.gz)
+[Contents](#contents)    [Start Reading](eaha00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](eaha.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -33,24 +33,24 @@ plays, and also serves as an introduction to the mechanics of Greek
 drama, including 'the messenger,' the 'deus ex machina,' and the
 'Chorus.' Gilbert Murray (1886-1957) was a British classicist at Oxford,
 who translated much of the body of Greek drama during the early 20th
-century. His translation of [The Trojan Women](../trojan) is also
+century. His translation of [The Trojan Women](../trojan.md) is also
 available at this site. Murray was associated with Jane Harrison, and
 contributed to her Prolegomena to the Study of Greek Religion and
 Themis.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](eaha00)  
-[Contents](eaha01)  
-[Chapter I. Introductory](eaha02)  
-[Chapter II](eaha03)  
-[Chapter III](eaha04)  
-[Chapter IV](eaha05)  
-[Chapter V](eaha06)  
-[Chapter VI](eaha07)  
-[Chapter VII](eaha08)  
-[Chapter VIII](eaha09)  
-[Chapter IX](eaha10)  
-[Bibliography](eaha11)  
-[Pronunciation of Greek Names](eaha12)  
-[Index](eaha13)  
+<span id="contents"></span> [Title Page and Front Matter](eaha00.md)  
+[Contents](eaha01.md)  
+[Chapter I. Introductory](eaha02.md)  
+[Chapter II](eaha03.md)  
+[Chapter III](eaha04.md)  
+[Chapter IV](eaha05.md)  
+[Chapter V](eaha06.md)  
+[Chapter VI](eaha07.md)  
+[Chapter VII](eaha08.md)  
+[Chapter VIII](eaha09.md)  
+[Chapter IX](eaha10.md)  
+[Bibliography](eaha11.md)  
+[Pronunciation of Greek Names](eaha12.md)  
+[Index](eaha13.md)  

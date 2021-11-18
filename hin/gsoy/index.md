@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gsoy00)
+[Contents](#contents)    [Start Reading](gsoy00.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte)
 
 This is a short review of the major schools of yoga, including Hindu,
 Buddhist and Sufi varieties. Wood, whose translation of the [The Garuda
-Purana](../gpu/index) is also at this site, was a founding Theosophist
+Purana](../gpu/index.md) is also at this site, was a founding Theosophist
 and wrote extensively on Hinduism, and Yoga in particular. His works on
 the subject are written for Western readers, and where he needs to use
 Sanskrit or other esoteric terms, he takes care to explain them. He was
@@ -44,16 +44,16 @@ a practicing Yogi for most of his lifetime.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](gsoy00)  
-[Table of Contents](gsoy01)  
-[Preface](gsoy02)  
-[Chapter One. The Ten Oriental Yogas](gsoy03)  
-[Chapter Two. Patanjali's Raja Yoga](gsoy04)  
-[Chapter Three. Shri Krishna's Gita-Yoga](gsoy05)  
-[Chapter Four. Shankaracharya's Gnyana-Yoga](gsoy06)  
-[Chapter Five. The Hatha and Laya Yogas](gsoy07)  
-[Chapter Six. The Bhakti And Mantra Yogas](gsoy08)  
-[Chapter Seven. The Occult Path of Buddha](gsoy09)  
-[Chapter Eight. The Chinese Yoga](gsoy10)  
-[Chapter Nine. The Sufi Yogis](gsoy11)  
-[Index](gsoy12)  
+<span id="contents"></span> [Title Page and Front Matter](gsoy00.md)  
+[Table of Contents](gsoy01.md)  
+[Preface](gsoy02.md)  
+[Chapter One. The Ten Oriental Yogas](gsoy03.md)  
+[Chapter Two. Patanjali's Raja Yoga](gsoy04.md)  
+[Chapter Three. Shri Krishna's Gita-Yoga](gsoy05.md)  
+[Chapter Four. Shankaracharya's Gnyana-Yoga](gsoy06.md)  
+[Chapter Five. The Hatha and Laya Yogas](gsoy07.md)  
+[Chapter Six. The Bhakti And Mantra Yogas](gsoy08.md)  
+[Chapter Seven. The Occult Path of Buddha](gsoy09.md)  
+[Chapter Eight. The Chinese Yoga](gsoy10.md)  
+[Chapter Nine. The Sufi Yogis](gsoy11.md)  
+[Index](gsoy12.md)  

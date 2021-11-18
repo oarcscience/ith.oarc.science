@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah89)  [Next](oah91) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah89)  [Next](oah91.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ cruelty and cunning horrors.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](oah91)
+[Next: Chapter IV](oah91.md)

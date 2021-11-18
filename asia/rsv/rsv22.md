@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv21)  [Next](rsv23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv21)  [Next](rsv23.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ cannot: but it is generally accepted that the tiger and the pig, the cat
 and dog, the serpent and the monkey, the horse and the goat, the mouse
 and the buffalo and the dragon and the cock can do so. Yet most of these
 cyclical animals cannot stand one another, and according to the
-matchmakers guidebooks, this animosity is [expressible](errata.htm#31)
+matchmakers guidebooks, this animosity is [expressible](errata.htm#31.md)
 in four degrees of difference. These degrees are luc sung
 (disagreement), luc hinh (argument), luc hai (violence or harm), and juc
 tuyat (kills).
@@ -122,4 +122,4 @@ for the occasion, sometimes including a meal.
 
 ------------------------------------------------------------------------
 
-[Next: Consulting the Astrologers](rsv23)
+[Next: Consulting the Astrologers](rsv23.md)

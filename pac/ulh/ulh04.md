@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh03)  [Next](ulh05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh03)  [Next](ulh05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -35,7 +35,7 @@ of inexhaustible wealth in the epics and wonder-myths that celebrated
 the doing of the volcano goddess Pele and her compeers. Thus in the
 cantillations of the old-time hula, we find a ready-made anthology that
 includes every species of composition in the whole range of Hawaiian
-poetry. This epic <span id="fr_0"></span>[a](#fn_0) of Pele was chiefly
+poetry. This epic <span id="fr_0"></span>[a](#fn_0.md) of Pele was chiefly
 a more or less detached series of poems forming a story addressed not to
 the closet-reader, but to the eye and ear and heart of the assembled
 chiefs and people; and it was sung. The Hawaiian song, its note of joy
@@ -145,9 +145,9 @@ Munson Coan, of New York, for a painstaking revision of the manuscript.
 
 ### Footnotes
 
-<span id="fn_0"></span>[7:a](ulh04.htm#fr_0) It might be termed a
+<span id="fn_0"></span>[7:a](ulh04.htm#fr_0.md) It might be termed a
 handful of lyrics strung on an epic thread.
 
 ------------------------------------------------------------------------
 
-[Next: I.--The Hula](ulh05)
+[Next: I.--The Hula](ulh05.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes19)  [Next](mes21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes19)  [Next](mes21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,10 +21,10 @@ Textual Heritage
 #### V.
 
 <span id="img_m06700"></span> ![The Lion and the
-Beasts.](img/m06700.jpg)
+Beasts.](img/m06700.jpg.md)
 
 <span class="smallcaps">Kalīl’</span> and Dimna's book relates a
-charming tale, <span id="fr_136"></span>[1](#fn_135)  
+charming tale, <span id="fr_136"></span>[1](#fn_135.md)  
 From which males may a moral draw;—and eke, female.  
 Within a shelter’d vale, four-footed game in droves,  
 Were kept in tremor by a lion from its groves.  
@@ -43,7 +43,7 @@ But worse than any man, in venom and in spleen,
 The fleshly lust within me traitor's always been.  
 But I've grown wary. Has not Ahmed said: 'Rely!  
 Believers are not twice caught by the self-same lie?'" <span
-id="fr_137"></span>[2](#fn_136)  
+id="fr_137"></span>[2](#fn_136.md)  
 Their answer was: "O most sagacious, knowing guide,  
 Thy caution pray dismiss; decree of God abide. <span
 class="margnote"><span id="an_10">10</span></span>
@@ -62,9 +62,9 @@ The surest method is, to work His holy will.
 The Prophet plainly said to his disciple train:  
 <span class="margnote"><span id="an_15">15</span></span> 'Put trust in
 God, and bind thy camel's shank amain?' <span
-id="fr_138"></span>[1](#fn_137)  
+id="fr_138"></span>[1](#fn_137.md)  
 Remember the old saw: 'The friend of God must work.' <span
-id="fr_139"></span>[2](#fn_138)  
+id="fr_139"></span>[2](#fn_138.md)  
 Through trust in God, neglect not ways and means, O clerk."
 
 Abashed they were not; answer thus they promptly made:  
@@ -73,7 +73,7 @@ There is no gain so good as trust placed in the Lord.
 What more praiseworthy than to build upon His word?  
 How many flee *this* danger, falling into *that!*   
 From fryingpan leaps one, to light in fire right pat. <span
-id="fr_140"></span>[3](#fn_139)  
+id="fr_140"></span>[3](#fn_139.md)  
 Man plans a stratagem; in it is caught himself.  
 <span class="margnote"><span id="an_20">20</span></span> That which he
 took for health, he finds is death itself.  
@@ -99,7 +99,7 @@ And since by God's decree from paradise they're rent,
 They prisoners become to rage, lust, discontent.  
 We are the household of that Householder, whose word  
 Thus spake: 'Creation's all as children of the Lord.' <span
-id="fr_141"></span>[1](#fn_140)  
+id="fr_141"></span>[1](#fn_140.md)  
 He that doth send the fattening rain upon the earth,  
 In mercy, too, can feed His creatures from their birth." <span
 class="margnote"><span id="an_30">30</span></span>
@@ -139,7 +139,7 @@ The cool breeze there will rustle through its leaves profuse,
 Each moment scattering fruits for food and future use.  
 Compulsion's creed is sleep among the highwaymen;  
 <span class="margnote"><span id="an_45">45</span></span> Unseasonable
-bird is mercilessly slain. <span id="fr_142"></span>[1](#fn_141)  
+bird is mercilessly slain. <span id="fr_142"></span>[1](#fn_141.md)  
 If thou at God's signs carp and peek, so finding fault,  
 Though man thou count thyself, ’tis womanlike assault.  
 The little sense thou hadst has really taken flight;  
@@ -160,7 +160,7 @@ A crowd of would-be wise men stratagems invent,
 Enough to upset mountains, could they give them vent.  
 So God himself described in His most holy book  
 Their arts: 'By which they'd tear away the hills.' <span
-id="fr_143"></span>[2](#fn_142) Just look.  
+id="fr_143"></span>[2](#fn_142.md) Just look.  
 Except the lot decreed by Providence of yore,  
 <span class="margnote"><span id="an_55">55</span></span> By hunting or
 by toiling none can swell his store.  
@@ -177,12 +177,12 @@ Where Solomon his court of justice then had placed.
 His cheeks were blanched, his lips were blue; effects of fright.  
 Said Solomon to him: "What ails thee? Say aright."  
 Him answer’d that poor wretch: "The angel, Lord, of death, <span
-id="fr_144"></span>[1](#fn_143)  
+id="fr_144"></span>[1](#fn_143.md)  
 Upon me fixed, just now, a look that stopped my breath." <span
 class="margnote"><span id="an_60">60</span></span>  
 Said Solomon: "What wilt thou I should do for thee?"  
 He answered: "That the wind may now commanded be <span
-id="fr_145"></span>[2](#fn_144)  
+id="fr_145"></span>[2](#fn_144.md)  
 To carry me away forthwith to Hindūstān.  
 Perchance by fleeing thither, save my life I can."
 
@@ -230,9 +230,9 @@ But just consider how the prophets, saints, ensue.
 What they have wrought hath God blessed, made to prosper still;  
 Their joys and griefs, their sufferings, pains, were by His will.  
 Their stratagems dictated by their God were, all. <span
-id="fr_146"></span>[1](#fn_145)  
+id="fr_146"></span>[1](#fn_145.md)  
 'Who comes of gentle blood, will gentle words let fall.' <span
-id="fr_147"></span>[2](#fn_146)  
+id="fr_147"></span>[2](#fn_146.md)  
 Their traps have taken angels with the baits they placed.  
 <span class="margnote"><span id="an_80">80</span></span> Their seeming
 slips and faults were all by wisdom traced.  
@@ -248,9 +248,9 @@ Have patience yet awhile; then laugh; we're not mere flints.
 <span id="page_m73">p. 73</span>
 
 It is a bad investment to seek worldly gain. <span
-id="fr_148"></span>[1](#fn_147)  
+id="fr_148"></span>[1](#fn_147.md)  
 Whose hope is placed in heaven never shall see pain. <span
-id="fr_149"></span>[2](#fn_148) <span class="margnote"><span
+id="fr_149"></span>[2](#fn_148.md) <span class="margnote"><span
 id="an_85">85</span></span>  
 The stratagems employed for worldly gain are vile,  
 But stratagems for gaining heaven are worth our while.  
@@ -335,12 +335,12 @@ The portals of such art to open God hath willed.
 Then see the silkworm, how it's taught by God to spin.  
 Have elephants the power to draw out threads so thin?  
 The earthy Adam was by God taught all our names. <span
-id="fr_150"></span>[1](#fn_149)  
+id="fr_150"></span>[1](#fn_149.md)  
 His knowledge was the admiration of heaven's frames.  
 Th’ angelic choir were silenced; they knew not so much.  
 The fiend be cursed. He'd not confess the fact was such.  
 That fasting hermit of six hundred thousand years <span
-id="fr_151"></span>[2](#fn_150)  
+id="fr_151"></span>[2](#fn_150.md)  
 Became the new-born babe's dire muzzle,—source of tears. <span
 class="margnote"><span id="an_120">120</span></span>  
 Lest it should suck the milk religion's teachings give,—  
@@ -359,7 +359,7 @@ But look and see what lacks, the figure to inform.
 ’Tis life it wants, and soul;—the pretty-looking thing!  
 Ask for its life. No! No! Though portrait of a king.  
 The heads of all earth's lions bowed down meek and low,  
-When God the Seven Sleepers’ <span id="fr_152"></span>[3](#fn_151) dog
+When God the Seven Sleepers’ <span id="fr_152"></span>[3](#fn_151.md) dog
 applauded. How!  
 To call it dog, to charge it with defect of race,  
 No harm can do it; God in heaven hath given it place.
@@ -378,7 +378,7 @@ That theme is endless. Let us then just turn away.
 Let's ask about the hare; hear what he has to say.  
 Sell off thy ass’ ears; with the price a fresh pair buy.  
 An ass's ears will never understand this cry. <span
-id="fr_153"></span>[1](#fn_152)  
+id="fr_153"></span>[1](#fn_152.md)  
 Go to. Examine well the hare's most foxy wile,—  
 <span class="margnote"><span id="an_135">135</span></span> The subtle
 stratagem that did the lion foil.
@@ -488,12 +488,12 @@ he shuns; them, he does trash account.
 <span id="page_m79">p. 79</span>
 
 A memory replete with holy Qur’ān's lore  
-A "hidden tablet" is; <span id="fr_154"></span>[1](#fn_153) its mind is
+A "hidden tablet" is; <span id="fr_154"></span>[1](#fn_153.md) its mind is
 wisdom's store.  
 If man begin as pupil to good common sense,  
 He'll end by being teacher,—mind, his audience.  
 Man's mind declares, as Gabriel to Ahmed there, <span
-id="fr_155"></span>[2](#fn_154)  
+id="fr_155"></span>[2](#fn_154.md)  
 "One step beyond due limit leaves me ashes sere.  
 Go forward, man of God; leave me; I know my place.  
 To every one's not given to see God face to face."
@@ -507,13 +507,13 @@ Until his troubles to the grave conduct the elf.
 The Prophet said: "My mission, ’s truth to preach to man.  
 Much trouble will surround it during my life's span."  
 Compulsion's but the setting of a broken bone, <span
-id="fr_156"></span>[3](#fn_155)  
+id="fr_156"></span>[3](#fn_155.md)  
 Or binding of a muscle, torn, asunder gone.  
 Thou hast not broke thy leg in travelling God's path.  
 Why put thy leg in splints? Cast off the idle swath.  
 He that shall really lose a leg in God's just fight,  
 To him Burāq shall come, a chariot of light. <span
-id="fr_157"></span>[4](#fn_156) <span class="margnote"><span
+id="fr_157"></span>[4](#fn_156.md) <span class="margnote"><span
 id="an_185">185</span></span>  
 Religion's carrier was he; carried then he'll be.  
 God's precepts he accepted; accepted now is he.  
@@ -526,7 +526,7 @@ Above the planets now he rests, and rules their trim.
 
 If forms material find much honour in thy sight,  
 Thou’lt doubt the truth of writ: "The moon clave," left and right. <span
-id="fr_158"></span>[1](#fn_157)  
+id="fr_158"></span>[1](#fn_157.md)  
 Renew thy faith at heart, not merely with mouth's gust,  
 <span class="margnote"><span id="an_190">190</span></span> O hypocrite,
 who covertly dost worship lust.  
@@ -610,9 +610,9 @@ The glories of a prophet in his God abide.
 The names of kings on coins are used a little while;  
 <span class="margnote"><span id="an_220">220</span></span> The name of
 Ahmed there is ever seen to smile. <span
-id="fr_159"></span>[1](#fn_158)  
+id="fr_159"></span>[1](#fn_158.md)  
 That name of Ahmed covers all the prophets still; <span
-id="fr_160"></span>[2](#fn_159)  
+id="fr_160"></span>[2](#fn_159.md)  
 As hundred, when ’tis said, ninety includes as well.
 
 Reflections such as these would never have an end.  
@@ -710,10 +710,10 @@ Through words have forms arisen, and passed away again;
 As waves still lose themselves beneath the ocean's main.  
 From realm of formlessness, existence doth take form;  
 And fades again therein.: "To Him we must return." <span
-id="fr_161"></span>[1](#fn_160)  
+id="fr_161"></span>[1](#fn_160.md)  
 Each moment, then, for thee death and return await,  
 As Ahmed hath declared: "Life's transitory." <span
-id="fr_162"></span>[2](#fn_161) Wait!  
+id="fr_162"></span>[2](#fn_161.md) Wait!  
 Thoughts, bolts are, shot by God into the air like dust.  
 <span class="margnote"><span id="an_260">260</span></span> Whose
 thoughts can reach to God, through densest air of lust?
@@ -732,7 +732,7 @@ Appears unto our eyes a fire of size, indeed.
 Its length and its extension, through quickness of fact,  
 Appear to be effects of God's creative act. 265  
 A student of this mystery, a doctor of great skill,  
-Is our Husāmu-’d-Dīn, <span id="fr_163"></span>[1](#fn_162) whose
+Is our Husāmu-’d-Dīn, <span id="fr_163"></span>[1](#fn_162.md) whose
 praises books would fill.
 
 The lion, now enraged with hunger's gnawing pain,  
@@ -836,15 +836,15 @@ All single-handed, Moses,—Red Sea at command,—
 Can drown pursuing Pharaoh's vast ungodly band.  
 A gnat, by God's behest, a Nimrod may annul;  
 Its feeble wings may burst the sutures of his skull. <span
-id="fr_164"></span>[1](#fn_163) <span class="margnote"><span
+id="fr_164"></span>[1](#fn_163.md) <span class="margnote"><span
 id="an_305">305</span></span>
 
 The doom of him who acts on what a foe adjusts,  
 Is like the end of one his envier who trusts.  
 The punishment of Pharaoh's listening to Haman, <span
-id="fr_165"></span>[2](#fn_164)  
+id="fr_165"></span>[2](#fn_164.md)  
 Resembles Nimrod's, who faith pinned upon Satan. <span
-id="fr_166"></span>[3](#fn_165)
+id="fr_166"></span>[3](#fn_165.md)
 
 A foe who talks in friendly guise, a false game plays;  
 He vaunts the bait; but be thou sure, a trap he lays.  
@@ -884,7 +884,7 @@ The birds with Solomon all left their *twit-twit-twee*,
 And spake a tongue articulate; as one might see.
 
 Synglottism is a link, a very potent spell; <span
-id="fr_167"></span>[1](#fn_166)  
+id="fr_167"></span>[1](#fn_166.md)  
 Among mere strangers, man's a captive in a cell.  
 How many Turks and Hindūs synglottise with us;  
 How many pairs of each are strange as incubus!  
@@ -968,7 +968,7 @@ Whoever dares deny God's ruling providence,
 ’Tis Providence decrees his blindness, want of sense.
 
 The Father of Mankind, Lord Nomenclator first, <span
-id="fr_168"></span>[1](#fn_167)  
+id="fr_168"></span>[1](#fn_167.md)  
 In every nerve possess’d a vein of knowledge nursed.  
 He knew the names of all things, right, without default.  
 From first to last his mind could hold them from revolt.  
@@ -983,17 +983,17 @@ class="margnote"><span id="an_355">355</span></span>
 
 From one who knows them well, of things seek thou the fames,  
 And mystery of the symbol: "God taught him the names." <span
-id="fr_169"></span>[1](#fn_168)  
+id="fr_169"></span>[1](#fn_168.md)  
 The name of everything, with us, is what it seems;  
 With God, the name of everything, what He it deems.  
 By Moses was his staff a simple rod proclaimed;  
 By its Creator, God, a dragon was it named.  
-‘Umer <span id="fr_170"></span>[2](#fn_169) idolater was classed by each
+‘Umer <span id="fr_170"></span>[2](#fn_169.md) idolater was classed by each
 array;  
 God him believer called upon creation's day.  
 What is by man termed seed upon this transient heath,  
 Impressed by God was with the seal: "Father of death." <span
-id="fr_171"></span>[3](#fn_170) <span class="margnote"><span
+id="fr_171"></span>[3](#fn_170.md) <span class="margnote"><span
 id="an_360">360</span></span>  
 In realm of nullity that seed received a form,  
 Existent with its God; nor less, nor more; a worm.  
@@ -1008,7 +1008,7 @@ When man perceives therein the kingdom of truth's rays,
 He falls in adoration, worships, spends his days. <span
 class="margnote"><span id="an_365">365</span></span>  
 That Adam's praise, whose blessed name we're proud to bear, <span
-id="fr_172"></span>[4](#fn_171)  
+id="fr_172"></span>[4](#fn_171.md)  
 Should I recite till judgment-day, would not end there.
 
 Decree of Providence so willed, with all his lore,  
@@ -1020,12 +1020,12 @@ Or can, by gloss, evasion unto it be lent?"
 
 To his mind, explanation having been inferred,  
 His appetites, perplexed, to taste the wheat preferred. <span
-id="fr_173"></span>[1](#fn_172)  
+id="fr_173"></span>[1](#fn_172.md)  
 A thorn the foot of Eden's gardener thus rent.  
 <span class="margnote"><span id="an_370">370</span></span> A thief the
 chance perceived, the garden robbed, and went.  
 Amazement o’er, the gardener's himself again. <span
-id="fr_174"></span>[2](#fn_173)  
+id="fr_174"></span>[2](#fn_173.md)  
 He saw the thief had carried off th’ unguarded train.  
 He sobbed aloud: "My God, I've deeply sinned;" and sighed:  
 "A darkness came, and from the road I turn’d aside."
@@ -1182,7 +1182,7 @@ class="margnote"><span id="an_430">430</span></span>
 
 Look not upon the weak as quite without a friend.  
 Reflect; ’tis said: "When God's help comes." <span
-id="fr_175"></span>[1](#fn_174) Where's then thy end?  
+id="fr_175"></span>[1](#fn_174.md) Where's then thy end?  
 If thou’rt an elephant in strength, the weak will flee  
 To his Protector. Then the Lord's wrath shalt thou see.  
 Whenever wrong's weak victim on his God doth call,  
@@ -1282,7 +1282,7 @@ The hare had lodged the lion in a dungeon safe.
 More shame for lion was it, hare should make him chafe.  
 Just so a shame it is, and subject for surprise,  
 The state in which he's left, who Fakhru-’d-Dīn would rise. <span
-id="fr_176"></span>[1](#fn_175)  
+id="fr_176"></span>[1](#fn_175.md)  
 O, he's a lion, sure, at bottom of a well.  
 <span class="margnote"><span id="an_470">470</span></span> His pride of
 flesh the hare that cast him down to hell.  
@@ -1334,7 +1334,7 @@ Why let hypocrisy, presumption, make thee boast?"
 Joy not o’er great prosperity. It does not last.  
 Airs give not thou thyself; thou’rt but a passing guest.  
 They whose eternal kingship lasts beyond all times, <span
-id="fr_177"></span>[1](#fn_176)  
+id="fr_177"></span>[1](#fn_176.md)  
 Who sing God's praise beyond the seven spheres and climes, <span
 class="margnote"><span id="an_490">490</span></span>
 
@@ -1357,138 +1357,138 @@ mere surmise reject; the soul it clogs.
 
 ### Footnotes
 
-<span id="fn_135"></span>[m67:1](mes20.htm#fr_136) Kalīla and Dimna is
+<span id="fn_135"></span>[m67:1](mes20.htm#fr_136.md) Kalīla and Dimna is
 the Arabic version of Pīlpāy's fables.
 
-<span id="fn_136"></span>[m67:2](mes20.htm#fr_137) This proverb is given
+<span id="fn_136"></span>[m67:2](mes20.htm#fr_137.md) This proverb is given
 in Freytag's "*Proverbia Arabica*," ii. p. 488, n. 278, as an answer
 from Muhammed to a foe twice made prisoner.
 
-<span id="fn_137"></span>[m68:1](mes20.htm#fr_138) Equivalent to
+<span id="fn_137"></span>[m68:1](mes20.htm#fr_138.md) Equivalent to
 tethering a horse, "Keep your powder dry."
 
-<span id="fn_138"></span>[m68:2](mes20.htm#fr_139) The original says:
+<span id="fn_138"></span>[m68:2](mes20.htm#fr_139.md) The original says:
 "*The earner is God's friend*."
 
-<span id="fn_139"></span>[m68:3](mes20.htm#fr_140) The original has:
+<span id="fn_139"></span>[m68:3](mes20.htm#fr_140.md) The original has:
 "*Flees the snake, and meets a dragon*."
 
-<span id="fn_140"></span>[m69:1](mes20.htm#fr_141) The words as given in
+<span id="fn_140"></span>[m69:1](mes20.htm#fr_141.md) The words as given in
 the original, in Arabic, are not in the Qur’ān.
 
-<span id="fn_141"></span>[m70:1](mes20.htm#fr_142) A cock that crows out
+<span id="fn_141"></span>[m70:1](mes20.htm#fr_142.md) A cock that crows out
 of season, in the night.
 
-<span id="fn_142"></span>[m70:2](mes20.htm#fr_143) Qur’ān xiv. 47.
+<span id="fn_142"></span>[m70:2](mes20.htm#fr_143.md) Qur’ān xiv. 47.
 
-<span id="fn_143"></span>[m71:1](mes20.htm#fr_144) Azrā’īl, the angel of
+<span id="fn_143"></span>[m71:1](mes20.htm#fr_144.md) Azrā’īl, the angel of
 death, who takes men's souls.
 
-<span id="fn_144"></span>[m71:2](mes20.htm#fr_145) Solomon is related in
+<span id="fn_144"></span>[m71:2](mes20.htm#fr_145.md) Solomon is related in
 the Qur’ān xxi. 81, and xxxiv. 11, to have possessed power over the
 wind.
 
-<span id="fn_145"></span>[m72:1](mes20.htm#fr_146) In Qur’ān iii. 47,
+<span id="fn_145"></span>[m72:1](mes20.htm#fr_146.md) In Qur’ān iii. 47,
 and viii. 30, God is styled "*the best of stratagem-makers*."
 
-<span id="fn_146"></span>[m72:2](mes20.htm#fr_147) I do not find this
+<span id="fn_146"></span>[m72:2](mes20.htm#fr_147.md) I do not find this
 proverb in Freytag's "*Proverbia*."
 
-<span id="fn_147"></span>[m73:1](mes20.htm#fr_148) Qur’ān ii. 15.
+<span id="fn_147"></span>[m73:1](mes20.htm#fr_148.md) Qur’ān ii. 15.
 
-<span id="fn_148"></span>[m73:2](mes20.htm#fr_149) See Qur’ān xlviii.
+<span id="fn_148"></span>[m73:2](mes20.htm#fr_149.md) See Qur’ān xlviii.
 29; lix. 8; and lxxiii. 20.
 
-<span id="fn_149"></span>[m75:1](mes20.htm#fr_150) In Qur’ān ii. 29, the
+<span id="fn_149"></span>[m75:1](mes20.htm#fr_150.md) In Qur’ān ii. 29, the
 account of this is given. Compare Gen. ii. 19.
 
-<span id="fn_150"></span>[m75:2](mes20.htm#fr_151); Was Satan this very
+<span id="fn_150"></span>[m75:2](mes20.htm#fr_151.md); Was Satan this very
 old hermit? His successful temptation was the muzzle. The original says
 "*calf*," where I have said "*babe;*"—meaning Adam, when first created.
 Instructed by God, he named all things, which the angels were unable to
 do, and so were silenced.
 
-<span id="fn_151"></span>[m75:3](mes20.htm#fr_152) The story of the dog
+<span id="fn_151"></span>[m75:3](mes20.htm#fr_152.md) The story of the dog
 of the Sleepers is told in Qur’ān xviii. 27-21.
 
-<span id="fn_152"></span>[m76:1](mes20.htm#fr_153) The Persian name for
+<span id="fn_152"></span>[m76:1](mes20.htm#fr_153.md) The Persian name for
 the hare is "*ass-ear;*" hence the pun.
 
-<span id="fn_153"></span>[m79:1](mes20.htm#fr_154) The "hidden tablet"
+<span id="fn_153"></span>[m79:1](mes20.htm#fr_154.md) The "hidden tablet"
 of God's decrees; mentioned in Qur’ān lxxxv. 22.
 
-<span id="fn_154"></span>[m79:2](mes20.htm#fr_155) At the "extreme
+<span id="fn_154"></span>[m79:2](mes20.htm#fr_155.md) At the "extreme
 lote-tree" in the highest heaven, on the night of the ascension. Gabriel
 could go no further. Muhammed went on, to God's presence.
 
-<span id="fn_155"></span>[m79:3](mes20.htm#fr_156) The word that
+<span id="fn_155"></span>[m79:3](mes20.htm#fr_156.md) The word that
 signifies "compulsion" also means "reduction" in a surgical sense, and
 "algebra" mathematically.
 
-<span id="fn_156"></span>[m79:4](mes20.htm#fr_157) "Burāq" is the name
+<span id="fn_156"></span>[m79:4](mes20.htm#fr_157.md) "Burāq" is the name
 of the angelic steed on which Muhammed mounted to heaven in his night
 journey. Not found in the Qur’ān.
 
-<span id="fn_157"></span>[m80:1](mes20.htm#fr_158) "The moon clave" in
+<span id="fn_157"></span>[m80:1](mes20.htm#fr_158.md) "The moon clave" in
 twain as a sign of the near approach of the day of judgment. Qur’ān liv.
 1.
 
-<span id="fn_158"></span>[m82:1](mes20.htm#fr_159) Muhammed's name is
+<span id="fn_158"></span>[m82:1](mes20.htm#fr_159.md) Muhammed's name is
 put on most Muslim coins.
 
-<span id="fn_159"></span>[m82:2](mes20.htm#fr_160) Muhammed is held to
+<span id="fn_159"></span>[m82:2](mes20.htm#fr_160.md) Muhammed is held to
 be the supplement of all the prophets.
 
-<span id="fn_160"></span>[m84:1](mes20.htm#fr_161) Qur’ān ii. 151.
+<span id="fn_160"></span>[m84:1](mes20.htm#fr_161.md) Qur’ān ii. 151.
 
-<span id="fn_161"></span>[m84:2](mes20.htm#fr_162) Not in Freytag's
+<span id="fn_161"></span>[m84:2](mes20.htm#fr_162.md) Not in Freytag's
 "*Proverbia*."
 
-<span id="fn_162"></span>[m85:1](mes20.htm#fr_163) See note in the
+<span id="fn_162"></span>[m85:1](mes20.htm#fr_163.md) See note in the
 Author's Preface, and Chapter vi. in the Anecdotes.
 
-<span id="fn_163"></span>[m87:1](mes20.htm#fr_164) The commentators on
+<span id="fn_163"></span>[m87:1](mes20.htm#fr_164.md) The commentators on
 Qur’ān xxi. 69, mention Nimrod's gnat.
 
-<span id="fn_164"></span>[m87:2](mes20.htm#fr_165) Qur’ān xxviii. 5,
+<span id="fn_164"></span>[m87:2](mes20.htm#fr_165.md) Qur’ān xxviii. 5,
 mentions Haman with Pharaoh.
 
-<span id="fn_165"></span>[m87:3](mes20.htm#fr_166) He is said to have
+<span id="fn_165"></span>[m87:3](mes20.htm#fr_166.md) He is said to have
 believed Satan rather than Abraham.
 
-<span id="fn_166"></span>[m88:1](mes20.htm#fr_167) The translator has
+<span id="fn_166"></span>[m88:1](mes20.htm#fr_167.md) The translator has
 ventured to coin the expressions "*synglottism*," "*synglottist*," and
 "*syncardism*" as specimens of a whole class used in Persian.
 
-<span id="fn_167"></span>[m90:1](mes20.htm#fr_168) A title designating
+<span id="fn_167"></span>[m90:1](mes20.htm#fr_168.md) A title designating
 Adam,—who named all things.
 
-<span id="fn_168"></span>[m91:1](mes20.htm#fr_169) Qur’ān ii. 29.
+<span id="fn_168"></span>[m91:1](mes20.htm#fr_169.md) Qur’ān ii. 29.
 
-<span id="fn_169"></span>[m91:2](mes20.htm#fr_170) Omar.
+<span id="fn_169"></span>[m91:2](mes20.htm#fr_170.md) Omar.
 
-<span id="fn_170"></span>[m91:3](mes20.htm#fr_171) A very doubtful
+<span id="fn_170"></span>[m91:3](mes20.htm#fr_171.md) A very doubtful
 clause; it may be rendered: "*Thou art with me*."
 
-<span id="fn_171"></span>[m91:4](mes20.htm#fr_172) Adam, in most
+<span id="fn_171"></span>[m91:4](mes20.htm#fr_172.md) Adam, in most
 languages, has come to signify *man*.
 
-<span id="fn_172"></span>[m92:1](mes20.htm#fr_173) Qur’ān ii. 33,
+<span id="fn_172"></span>[m92:1](mes20.htm#fr_173.md) Qur’ān ii. 33,
 mentions merely a "*caulescent plant;*" "wheat "is one of several
 glosses by commentators, like our "apple."
 
-<span id="fn_173"></span>[m92:2](mes20.htm#fr_174) Qur’ān vii. 22, makes
+<span id="fn_173"></span>[m92:2](mes20.htm#fr_174.md) Qur’ān vii. 22, makes
 Adam confess sin with contrition, together with Eve, thereby meriting
 God's eventual pardon.
 
-<span id="fn_174"></span>[m96:1](mes20.htm#fr_175) Qur’ān cx. 1.
+<span id="fn_174"></span>[m96:1](mes20.htm#fr_175.md) Qur’ān cx. 1.
 
-<span id="fn_175"></span>[m98:1](mes20.htm#fr_176) Evidently the name of
+<span id="fn_175"></span>[m98:1](mes20.htm#fr_176.md) Evidently the name of
 a rival.
 
-<span id="fn_176"></span>[m99:1](mes20.htm#fr_177) These are sainted
+<span id="fn_176"></span>[m99:1](mes20.htm#fr_177.md) These are sainted
 spiritualists, true and pious dervishes.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Greater (Spiritual) Warfare](mes21)
+[Next: VI. The Greater (Spiritual) Warfare](mes21.md)

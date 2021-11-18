@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](sft02)  [Next](sft04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](sft02)  [Next](sft04.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ HENRY SUZZALLO
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Worth of Fairy Tales](sft04)
+[Next: Chapter I. The Worth of Fairy Tales](sft04.md)

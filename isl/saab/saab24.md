@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab23)  [Next](saab25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab23)  [Next](saab25.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ The Kiss of Welcome on his Cheek, and said,
 "Thy Mistress or the World to hold or lose."
 
 <span id="img_03800"></span> <span align="CENTER"> [![](tn/03800.jpg)  
-Click to enlarge](img/03800.jpg)</span>
+Click to enlarge](img/03800.jpg.md)</span>
 
 <span id="page_39">p. 39</span>
 
@@ -56,4 +56,4 @@ Is not the Bridegroom of Dominion.
 
 ------------------------------------------------------------------------
 
-[Next: XXIII](saab25)
+[Next: XXIII](saab25.md)

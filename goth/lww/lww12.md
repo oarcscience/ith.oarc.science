@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww11)  [Next](lww13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww11)  [Next](lww13.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ kite along the throbbing cord.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII--Oolanga's Hallucinations](lww13)
+[Next: Chapter XIII--Oolanga's Hallucinations](lww13.md)

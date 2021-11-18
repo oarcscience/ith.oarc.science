@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac64)  [Next](ybac66) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac64)  [Next](ybac66.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Gates, \[1937\], at Intangible Textual Heritage
 
 <span id="page_157">p. 157</span>
 
-### The Ordinances of Tomás López <span id="fr_53"></span>[\*](#fn_52).
+### The Ordinances of Tomás López <span id="fr_53"></span>[\*](#fn_52.md).
 
 *Of the Royal Audience of the Confines, promulgated in 1552*.
 
@@ -175,7 +175,7 @@ and then stay more than a day and night.
 
 ### Footnotes
 
-<span id="fn_52"></span>[157:\*](ybac65.htm#fr_53) The full Spanish text
+<span id="fn_52"></span>[157:\*](ybac65.htm#fr_53.md) The full Spanish text
 of these Ordinances will be found as an appendix to volume II of
 Ancona's *Historia de Yucatan*, Barcelona, 1889; and later reprint in
 Mérida.
@@ -183,4 +183,4 @@ Mérida.
 ------------------------------------------------------------------------
 
 [Next: Proclamation Required to be Made by Every Chief of an Expedition
-to the Indians at the Moment of Disembarking](ybac66)
+to the Indians at the Moment of Disembarking](ybac66.md)

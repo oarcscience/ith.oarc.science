@@ -1,4 +1,4 @@
-[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-1) [Next](gjb-2-1)
+[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-1) [Next](gjb-2-1.md)
 
 ------------------------------------------------------------------------
 
@@ -23,11 +23,11 @@ but first a word or two as to our sources of information.
 Euphrates are the only known surviving community of the ancient Gnosis.
 That they have survived to our own day<span
 id="page_29_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_29_note_1) is a remarkable testimony
+class="small">1</span></sup>](#page_29_note_1.md) is a remarkable testimony
 to the strength of their convictions and of loyalty to a tradition which
 they claim to go back to pre-Christian days, The documents call them
 Nāzōræans.<span id="page_29_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_29_note_2) The Arabs generally refer
+class="small">2</span></sup>](#page_29_note_2.md) The Arabs generally refer
 to them as Sūbbā's or Baptists, while the first Portuguese Jesuit
 missionaries of the Inquisition <span id="page_30">p. 30</span>
 erroneously introduced them to Europe in the early part of the 17th
@@ -110,7 +110,7 @@ Brandt's art. 'Mandæans' in Hastings' *Encyclopedia of Religion and
 Ethics* (1915) is a valuable summary of his most matured views, and to
 it I would refer my readers as the best general Introduction
 available.<span id="page_32_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_32_note_1) Brandt's philological
+class="small">1</span></sup>](#page_32_note_1.md) Brandt's philological
 equipment in so difficult and rare a dialect as Mandæn, however, was not
 sufficient for the work of full translation. Moreover he does not seem
 to me to have sufficiently realized the great importance of the subject
@@ -142,7 +142,7 @@ two of the M. collections: *Das Johannesbuch der Mandäer* (Giessen,
 1915) and *Mandäische Liurgien* (Berlin, 1920). L. has also made a
 translation of the *Genzā*, the publication of which is eagerly
 expected.<span id="page_33_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_33_note_1)
+class="small">1</span></sup>](#page_33_note_1.md)
 
 <span id="page_34">p. 34</span>
 
@@ -150,7 +150,7 @@ class="small">1</span></sup>](#page_33_note_1)
 one's ground and so get an all-round perspective of it. Meantime, as no
 really adequate translation of any pieces have so far appeared in
 English,<span id="page_34_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_34_note_1) I think it will be of
+class="small">1</span></sup>](#page_34_note_1.md) I think it will be of
 service to give a selection of renderings from the German of
 Lidzbarski's John-Book, so that readers of these pages may become
 acquainted with specimens of the material, and be in a better position
@@ -174,7 +174,7 @@ concerning the person of the prophet.
 
 ------------------------------------------------------------------------
 
-[Next: II. i. The Gnostic John the Baptizer](gjb-2-1)
+[Next: II. i. The Gnostic John the Baptizer](gjb-2-1.md)
 
 ------------------------------------------------------------------------
 
@@ -182,7 +182,7 @@ concerning the person of the prophet.
 
 <span id="footnotes_page_29">p. 29</span>
 
-<span id="page_29_note_1"></span>[1](#page_29_fr_1) In 1875 N. Siouffi,
+<span id="page_29_note_1"></span>[1](#page_29_fr_1.md) In 1875 N. Siouffi,
 the French Vice-Consul at Mosul, estimated them at some 4,000 souls in
 all (*Etudes sur la Religion des Soubbas ou Sabéens*, Paris, 1880).
 These were then to be found chiefly in the neighbourhood of Baṣra aud
@@ -192,7 +192,7 @@ me that he quite recently obtained from the supreme head of all the
 communities at Naziriyah the precise statistics, and that they still
 number about 10,000 men, women and children.
 
-<span id="page_29_note_2"></span>[2](#page_29_fr_2) This is a very
+<span id="page_29_note_2"></span>[2](#page_29_fr_2.md) This is a very
 ancient general designation used by a number of early sects. It has
 nothing to do with Nazareth (Q. Nazara), which is quite unknown outside
 the gospel-narratives, not to speak of the philological impossibility of
@@ -205,7 +205,7 @@ case for origin in √NZR, with the meaning of 'to observe'; hence
 
 <span id="footnotes_page_32">p. 32</span>
 
-<span id="page_32_note_1"></span>[1](#page_32_fr_1) Brandt passed away
+<span id="page_32_note_1"></span>[1](#page_32_fr_1.md) Brandt passed away
 from this scene of his labours on March 4, 1915, and his posthumous work
 *Die Mandäer: ihre Religion und ihre Geschichte* (Trans. of Koninklijke
 Akadamie van Wetenshappen te Amsterdam, Nov., 1915) is practically a
@@ -222,7 +222,7 @@ literally.
 
 <span id="footnotes_page_33">p. 33</span>
 
-<span id="page_33_note_1"></span>[1](#page_33_fr_1) On May 15, 1923, Dr.
+<span id="page_33_note_1"></span>[1](#page_33_fr_1.md) On May 15, 1923, Dr.
 R. Eisler informed me: "L. writes that his trans. of *Genzā* is
 fininhed; printing will begin soon and take about a year and a half."
 Unfortunately since then the difficuities of publication in Germany have
@@ -232,7 +232,7 @@ the Mandæan Gnosis is accordingly held up.
 
 <span id="footnotes_page_34">p. 34</span>
 
-<span id="page_34_note_1"></span>[1](#page_34_fr_1) To be precise, in
+<span id="page_34_note_1"></span>[1](#page_34_fr_1.md) To be precise, in
 book-form; for I have already published the following versions in *The
 Quest* in the last two years; they are but a third of the translations I
 have made in MS. from the John-Book, and the Liturgies. I say this,

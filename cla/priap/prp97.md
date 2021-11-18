@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp96)  [Next](prp98) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp96)  [Next](prp98.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ of woman.\]
 ------------------------------------------------------------------------
 
 [Next: Alphabetical list of additional terms used by Latin authors in
-designation of the male sexual organ](prp98)
+designation of the male sexual organ](prp98.md)

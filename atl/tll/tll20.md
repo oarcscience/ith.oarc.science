@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll19)  [Next](tll21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll19)  [Next](tll21.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ architecture, corresponding with the gigantic bodies of the race. The
 first cities were built on that extended mountainous region of the
 continent which included, as will be seen in the first map, the present
 Island of Madagascar. Another great city is described in the "Secret
-Doctrine" <span id="fr_20"></span>[1](#fn_20) as having been entirely
+Doctrine" <span id="fr_20"></span>[1](#fn_20.md) as having been entirely
 built of blocks of lava. It lay some 30 miles west of the present Easter
 Island, and
 
@@ -40,8 +40,8 @@ times--were peopled by tribes of extremely low type.
 
 ### Footnotes
 
-<span id="fn_20"></span>[37:1](tll20.htm#fr_20) Vol. ii., p. 317.
+<span id="fn_20"></span>[37:1](tll20.htm#fr_20.md) Vol. ii., p. 317.
 
 ------------------------------------------------------------------------
 
-[Next: Religion](tll21)
+[Next: Religion](tll21.md)

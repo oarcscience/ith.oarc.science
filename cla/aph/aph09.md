@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph08)  [Next](aph10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph08)  [Next](aph10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -263,4 +263,4 @@ long since taken refuge in that precious and fragile jewel.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two. Melitta](aph10)
+[Next: Chapter Two. Melitta](aph10.md)

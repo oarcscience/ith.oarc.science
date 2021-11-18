@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi281)  [Next](mtsi283) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi281)  [Next](mtsi283.md) 
 
 ------------------------------------------------------------------------
 
-### 17. THE UKTENI <span id="fr_82"></span>[2](#fn_81)
+### 17. THE UKTENI <span id="fr_82"></span>[2](#fn_81.md)
 
 One time three hunters, one of whom was a young man, were camping in a
 certain place. The older men began talking about a very deep place in a
@@ -45,9 +45,9 @@ breast. The tie-snake is called u'lå<u>x</u> dåxgi'ilu.
 
 ### Footnotes
 
-<span id="fn_81"></span>[245:2](mtsi282.htm#fr_82) From the same man as
+<span id="fn_81"></span>[245:2](mtsi282.htm#fr_82.md) From the same man as
 the preceding. Ukteni is a Cherokee name.
 
 ------------------------------------------------------------------------
 
-[Next: 18. The Tlānuwâ](mtsi283)
+[Next: 18. The Tlānuwâ](mtsi283.md)

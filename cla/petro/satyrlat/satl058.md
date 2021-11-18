@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat10.htm#LVIII) 
-[Previous](satl057)  [Next](satl059) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat10.htm#LVIII.md) 
+[Previous](satl057)  [Next](satl059.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ quod me sic vides, propter artificium meum diis gratias ago."
 
 ------------------------------------------------------------------------
 
-[Next: LIX](satl059)
+[Next: LIX](satl059.md)

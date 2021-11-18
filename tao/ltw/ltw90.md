@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](ltw89) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](ltw89.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3TA0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../img/t_yy.jpg)](index)  
+[![](../img/t_yy.jpg)](index.md)  
 *Laotzu's Tao and Wu Wei*, by Dwight Goddard and Henri Borel, \[1919\],
 at Intangible Textual Heritage
 
@@ -19,20 +19,20 @@ at Intangible Textual Heritage
 
 # NOTES
 
-<span id="xref_1">1</span>. [p. 62](ltw87.htm#page_62). This is a fact.
+<span id="xref_1">1</span>. [p. 62](ltw87.htm#page_62.md). This is a fact.
 Chinese priests are in the habit of repeating Sutras which, to judge by
 the sound, have been translated from the Sanscrit into Chinese phrases
 of which they do not understand one word.
 
-<span id="xref_2">2</span>. [p. 64](ltw87.htm#page_64). The "Yellow
+<span id="xref_2">2</span>. [p. 64](ltw87.htm#page_64.md). The "Yellow
 Emperor" is a legendary emperor, who appears to have reigned about the
 year 2697 B.C.
 
-<span id="xref_3">3</span>. [p. 64](ltw87.htm#page_64). That which
+<span id="xref_3">3</span>. [p. 64](ltw87.htm#page_64.md). That which
 follows in inverted commas is an extract translated from the twelfth
 chapter of the "Nan Hwa King."
 
-<span id="xref_4">4</span>. [p. 65](ltw87.htm#page_65). The following
+<span id="xref_4">4</span>. [p. 65](ltw87.htm#page_65.md). The following
 passage, as far as the sentence "and the Millions return again into One"
 is an adaptation--not a translation--of the first section of
 "Tao-Teh-King." Laotsu's wonderfully simple writing cannot possibly be
@@ -83,7 +83,7 @@ Although the term holds for me something still higher yet I find
 Professor de Groot's conception of it the most sympathetic of all those
 known to me.
 
-<span id="xref_5">5</span>. [p. 69](ltw87.htm#page_69). This
+<span id="xref_5">5</span>. [p. 69](ltw87.htm#page_69.md). This
 "Wu-Wei"--untranslatable as it is in fact--has been rendered by these
 sinologues into "inaction"--
 
@@ -106,19 +106,19 @@ original occupies only one page in the book, and contains only
 fifty-nine characters. It testifies to Laotsu's wonderful subtlety and
 terseness of language that he was able in so few words to say so much.
 
-<span id="xref_6">6</span>. [p. 69](ltw87.htm#page_69). This sentence is
+<span id="xref_6">6</span>. [p. 69](ltw87.htm#page_69.md). This sentence is
 translated from the "Tao-Teh-King" (chapter ii).
 
-<span id="xref_7">7</span>. }[p. 69](ltw87.htm#page_69). From the 56th
+<span id="xref_7">7</span>. }[p. 69](ltw87.htm#page_69.md). From the 56th
 chapter. This sentence is also to be found in 15th chapter of the "Nan
 Hwa King."
 
-<span id="xref_8">8</span>. [p. 74](ltw87.htm#page_74). This runs
+<span id="xref_8">8</span>. [p. 74](ltw87.htm#page_74.md). This runs
 somewhat as follows in the 6th chapter of the Nan Hwa King: "The true
 men of the early ages slept dreamlessly, and were conscious of self
 without care."
 
-<span id="xref_9">9</span>. [p. 76](ltw87.htm#page_76). This episode is
+<span id="xref_9">9</span>. [p. 76](ltw87.htm#page_76.md). This episode is
 translated from the 18th section of the "Nan Hwa King." By the "Great
 House" Chuang-Tse meant, of course, the universe, and this expression
 "house" lends to the passage a touch of familiar intimacy, showing
@@ -133,32 +133,32 @@ touching. (Compare "Chuang Tsy," by H.
 <span class="contnote">\[paragraph continues\]</span> Giles, London,
 Bernard Quaritch, 1889.) The actual words are: "Ku Shih" = Great House.
 
-<span id="xref_10">10</span>. [p. 78](ltw87.htm#page_78). In almost all
+<span id="xref_10">10</span>. [p. 78](ltw87.htm#page_78.md). In almost all
 the temples is a chamber in which the Mandarins lodge, and where Western
 travellers may usually stay for the night, and probably for longer
 periods.
 
-<span id="xref_11">11</span>. [p. 80](ltw88.htm#page_80). The following,
+<span id="xref_11">11</span>. [p. 80](ltw88.htm#page_80.md). The following,
 to the end of the sentence: "Poetry is the sound of the heart," has been
 translated by me from a preface by Ong Giao Ki to his edition of the
 Poetry of the Tang-Dynasty. Ong Giao Ki lived in the, first half of the
 eighteenth century.
 
-<span id="xref_12">12</span>. [p. 89](ltw88.htm#page_89). The Chinese do
+<span id="xref_12">12</span>. [p. 89](ltw88.htm#page_89.md). The Chinese do
 really preserve their treasures in this careful manner. It is usual for
 an antique figure of Buddha to lie in a silk-lined shrine, the shrine in
 a wooden chest, and the chest in a cloth. It is unpacked upon great
 occasions.
 
-<span id="xref_13">13</span>. [p. 90](ltw88.htm#page_90). Such a figure
+<span id="xref_13">13</span>. [p. 90](ltw88.htm#page_90.md). Such a figure
 as the above-described is not a mere figment of the author's
 imagination--such figures really exist. A similar one is in the
 possession of the author.
 
-<span id="xref_14">14</span>. [p. 90](ltw88.htm#page_90). The Soul-Pearl
+<span id="xref_14">14</span>. [p. 90](ltw88.htm#page_90.md). The Soul-Pearl
 "Durmâ."
 
-<span id="xref_15">15</span>. [p. 92](ltw88.htm#page_92). The figure in
+<span id="xref_15">15</span>. [p. 92](ltw88.htm#page_92.md). The figure in
 the author's possession is by Tan Wei. Another great artist was Ho Chao
 Tsung, of certain figures by whom I have also, with very great trouble,
 become possessed. These names are well known to every artist, but I have

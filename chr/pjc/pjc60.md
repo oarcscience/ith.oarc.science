@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc59)  [Next](pjc61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc59)  [Next](pjc61.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -118,7 +118,7 @@ down in other parts of the Temple.
 An apparition of the High Priest Zacharias, who was slain between the
 porch and the altar, was seen in the sanctuary. He uttered fearful
 menaces, spoke of the death of the second Zacharias, <span
-id="fr_13"></span>[1](#fn_13) and of that of St. John Baptist, as also
+id="fr_13"></span>[1](#fn_13.md) and of that of St. John Baptist, as also
 of the violent deaths of the other prophets. The two sons of the High
 Priest Simon, surnamed the Just (ancestors of the aged Simeon who
 prophesied when Jesus was presented in the Temple), made their
@@ -198,7 +198,7 @@ very few persons ate the Paschal lamb on that evening.
 
 ### Footnotes
 
-<span id="fn_13"></span>[277:1](pjc60.htm#fr_13) The Zacharias here
+<span id="fn_13"></span>[277:1](pjc60.htm#fr_13.md) The Zacharias here
 referred to was the father of John the Baptist, who was tortured and
 afterwards put to death by Herod, because he would not betray John into
 the hands of the tyrant, He was buried by his friends within the
@@ -207,4 +207,4 @@ precincts of the Temple.
 ------------------------------------------------------------------------
 
 [Next: Chapter XLVII. The Request of Joseph of Arimathea to be allowed
-to have the Body of Jesus](pjc61)
+to have the Body of Jesus](pjc61.md)

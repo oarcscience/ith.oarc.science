@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](ktm05)  [Next](ktm07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](ktm05)  [Next](ktm07.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ whose wind is stayed on Thee."--*Isaiah*.
 <span id="page_93">p. 93</span>
 
 HE was not in the vastness. And the Soul, lying on a housetop on the
-Earth, and [looking](errata.htm#6) forth into the uttermost of space,
+Earth, and [looking](errata.htm#6.md) forth into the uttermost of space,
 realised the solitude and trembled.
 
 Then came one whose voice spake within the heart, saying very gently,
@@ -129,4 +129,4 @@ worshippers.
 
 ------------------------------------------------------------------------
 
-[Next: An Intercession](ktm07)
+[Next: An Intercession](ktm07.md)

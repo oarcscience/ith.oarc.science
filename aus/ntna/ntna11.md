@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna10)  [Next](ntna12) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna10)  [Next](ntna12.md) 
 
 ------------------------------------------------------------------------
 
@@ -1720,4 +1720,4 @@ children of Pundamunga and Maramma.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Various Traditions, Customs and Beliefs](ntna12)
+[Next: Chapter X: Various Traditions, Customs and Beliefs](ntna12.md)

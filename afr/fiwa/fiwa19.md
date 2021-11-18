@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa18)  [Next](fiwa20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa18)  [Next](fiwa20.md) 
 
 ------------------------------------------------------------------------
 
@@ -2003,4 +2003,4 @@ And everything went on well, Jeki governing, and providing for the town.
 
 ------------------------------------------------------------------------
 
-[Next: Glossary](fiwa20)
+[Next: Glossary](fiwa20.md)

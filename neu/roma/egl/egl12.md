@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Roma](../index)  [Index](index) 
-[Previous](egl11)  [Next](egl13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Roma](../index)  [Index](index.md) 
+[Previous](egl11)  [Next](egl13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ mongin Rommany chals.
 
 #### TRANSLATION.
 
-On a day a Royston rook  [206](egl13.htm#xref_206) went among the crows
+On a day a Royston rook  [206](egl13.htm#xref_206.md) went among the crows
 (black birds), and they asked him, “Where did you steal your white
 coat?” And he told (them), “I stole it from a fool of a pigeon.” Then he
 went among the pigeons and said, “How are you, brothers?” And they asked
@@ -203,7 +203,7 @@ you buy it?”
 
 Yes, many’s the time I have given a shilling (three fourpence) to a
 policeman to let me pitch my tent with the children.
- [209](egl13.htm#xref_209)
+ [209](egl13.htm#xref_209.md)
 
 ### GUDLO VII. HOW A GIPSY LOST THREEPENCE.
 
@@ -229,7 +229,7 @@ harvest.
 #### TRANSLATION.
 
 Once a poor man sat down to make threepence-worth of skewers
- [210](egl13.htm#xref_210) for a butcher. There came along a gentleman,
+ [210](egl13.htm#xref_210.md) for a butcher. There came along a gentleman,
 who said, “Hold my horse, and I’ll give you a sixpence.” While he held
 the horse a lady said to him, “Carry this basket to my house, and I’ll
 give you a shilling.” So he got a boy to hold the horse, and said to
@@ -314,7 +314,7 @@ kanéngro prastered alay the choomber, longodurus adrée the tem.
 > Wafri bāk kairs  
 >   A choro mush ta jāl alay,  
 > But it mukks a boro mush  
->   To chiv his kokero apré.  [213](egl13.htm#xref_213)
+>   To chiv his kokero apré.  [213](egl13.htm#xref_213.md)
 
 #### TRANSLATION.
 
@@ -408,7 +408,7 @@ him to go home, but he told her, “No—I won’t go now.” Then she said,
 again, and he always answered “No.” So she took a pig that had died a
 natural death, from her back and threw it on the table before all the
 people, and said, “Take the dead pig for a wife, and I will look after
-the children.”  [218](egl13.htm#xref_218)
+the children.”  [218](egl13.htm#xref_218.md)
 
 ### GUDLO XVI. THE GIPSY TELLS THE STORY OF THE SEVEN WHISTLERS.
 
@@ -433,7 +433,7 @@ night, through the air, over the heaven, like birds. And it tells (us)
 in the Bible that the Seven Whistlers whistle wherever they fly across
 the air. But a long time ago one went away and got lost, and now there
 are only six; but they call them the Seven Whistlers. And that is like
-the story you told me of the Seven Stars.  [219](egl13.htm#xref_219)
+the story you told me of the Seven Stars.  [219](egl13.htm#xref_219.md)
 
 ### GUDLO XVII. AN OLD STORY WELL KNOWN TO ALL GIPSIES.
 
@@ -478,14 +478,14 @@ And when they went to look at the Gipsies’ things behind the hedge in
 the churchyard, the bags were full and burst, torn all to rags, and they
 found them full of silver things—spoons and knives of gold, and watches,
 cups and teapots, that had belonged to the Gipsies that were hung and
-transported.  [221a](egl13.htm#xref_221a)
+transported.  [221a](egl13.htm#xref_221a.md)
 
 ### GUDLO XVIII. HOW THE GIPSY WENT TO CHURCH.
 
 Did mandy ever jāl to kangry? Āvali, dui koppas, and beshed a lay odöi.
 I was adrée the tāle tem o’ sār, an’ a rye putched mandy to well to
 kangry, an’ I welled. And sār the ryas an’ ranis dicked at mandy as I
-jālled adrée.  [221b](egl13.htm#xref_221b) So I beshed pukkenus mongin
+jālled adrée.  [221b](egl13.htm#xref_221b.md) So I beshed pukkenus mongin
 some geeros and dicked upar again the chumure praller my sherro, and
 there was a deer and a kanengro odöi chinned in the bar, an’ kaired
 kushto. I shooned the rashai a-rākkerin’; and when the shunaben was
@@ -812,7 +812,7 @@ pange bar an’ a nevvi chukko!” “Will you del mandy a walin o’ tatto
 panni too?” putched the Rommany chal. “Āvail, ávail,” penned the rye;
 “but for Duveleste hav’ avree the panni!” “Kushto,” penned the Rommany
 chal, “for cāmmoben to tute, rya, I’ll jāl avree!”
- [235](egl13.htm#xref_235)
+ [235](egl13.htm#xref_235.md)
 
 #### TRANSLATION.
 
@@ -1356,4 +1356,4 @@ When smugglers lose and Gipsies find, nobody is the worse for it.
 
 ------------------------------------------------------------------------
 
-[Next: Footnotes](egl13)
+[Next: Footnotes](egl13.md)

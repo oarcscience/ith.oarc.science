@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ over the kingdom, and Shebna, and Joah the recorder. So these men came
 out, and stood over against the commanders of the Assyrian army; and
 when Rabshakeh saw them, he bid them go and speak to Hezekiah in the
 manner following: That Sennacherib, the great king, <span
-id="EndNote Ant 10.1a"></span>[(1)](#EndNote%20Ant%2010.1b) desires to
+id="EndNote Ant 10.1a"></span>[(1)](#EndNote%20Ant%2010.1b.md) desires to
 know of him, on whom it is that he relies and depends, in flying from
 his lord, and will not hear him, nor admit his army into the city? Is it
 on account of the Egyptians, and in hopes that his army would be beaten
@@ -107,7 +107,7 @@ epistle, and laid it up within the temple. And as he made his further
 prayers to God for the city, and for the preservation of all the people,
 the prophet Isaiah said that God had heard his prayer, and that he
 should not be besieged at this time by the king of Assyria <span
-id="EndNote Ant 10.2a"></span>[(2)](#EndNote%20Ant%2010.2b) that for the
+id="EndNote Ant 10.2a"></span>[(2)](#EndNote%20Ant%2010.2b.md) that for the
 future he might be secure of not being at all disturbed by him; and that
 the people might go on peaceably, and without fear, with their husbandry
 and other affairs. But after a little while the king of Assyria, when he
@@ -134,7 +134,7 @@ Herodotus does indeed give us this history; nay, and Berosus, who wrote
 of the affairs of Chaldea, makes mention of this king Sennacherib, and
 that he ruled over the Assyrians, and that he made an expedition against
 all Asia and Egypt; and says thus: <span
-id="EndNote Ant 10.3a"></span>[(3)](#EndNote%20Ant%2010.3b)
+id="EndNote Ant 10.3a"></span>[(3)](#EndNote%20Ant%2010.3b.md)
 
 5\. "Now when Sennacherib was returning from his Egyptian war to
 Jerusalem, he found his army under Rabshakeh his general in danger \[by
@@ -146,7 +146,7 @@ in great fear for his whole army, he fled with the rest of his forces to
 his own kingdom, and to his city Nineveh; and when he had abode there a
 little while, he was treacherously assaulted, and died by the hands of
 his elder sons, <span
-id="EndNote Ant 10.4a"></span>[(4)](#EndNote%20Ant%2010.4b) Adrammelech
+id="EndNote Ant 10.4a"></span>[(4)](#EndNote%20Ant%2010.4b.md) Adrammelech
 and Seraser, and was slain in his own temple, which was called Araske.
 Now these sons of his were driven away on account of the murder of their
 father by the citizens, and went into Armenia, while Assarachoddas took
@@ -168,7 +168,7 @@ zealous and diligent about the worship of God, did he soon afterwards
 fall into a severe distemper, insomuch that the physicians despaired of
 him, and expected no good issue of his sickness, as neither did his
 friends: and besides the distemper <span
-id="EndNote Ant 10.5b"></span>[(5)](#EndNote%20Ant%2010.5b) itself,
+id="EndNote Ant 10.5b"></span>[(5)](#EndNote%20Ant%2010.5b.md) itself,
 there was a very melancholy circumstance that disordered the king, which
 was the consideration that he was childless, and was going to die, and
 leave his house and his government without a successor of his own body;
@@ -194,7 +194,7 @@ made credible by actions of the like nature. And when Isaiah had asked
 him what sign he desired to be exhibited, he desired that he would make
 the shadow of the sun, which he had already made to go down ten steps
 \[or degrees\] in his house, to return again to the same place, <span
-id="EndNote Ant 10.6a"></span>[(6)](#EndNote%20Ant%2010.6b) and to make
+id="EndNote Ant 10.6a"></span>[(6)](#EndNote%20Ant%2010.6b.md) and to make
 it as it was before. And when the prophet prayed to God to exhibit this
 sign to the king, he saw what he desired to see, and was freed from his
 distemper, and went up to the temple, where he worshipped God, and made
@@ -202,7 +202,7 @@ vows to him.
 
 2\. At this time it was that the dominion of the Assyrians was
 overthrown by the Medes; <span
-id="EndNote Ant 10.7a"></span>[(7)](#EndNote%20Ant%2010.7b) but of these
+id="EndNote Ant 10.7a"></span>[(7)](#EndNote%20Ant%2010.7b.md) but of these
 things I shall treat elsewhere. But the king of Babylon, whose name was
 Baladan, sent ambassadors to Hezekiah, with presents, and desired he
 would be his ally and his friend. So he received the ambassadors gladly,
@@ -411,7 +411,7 @@ adhere to him. He also searched the houses, and the villages, and the
 cities, out of a suspicion that somebody might have one idol or other in
 private; nay, indeed, he took away the chariots \[of the sun\] that were
 set up in his royal palace, <span
-id="EndNote Ant 10.8a"></span>[(8)](#EndNote%20Ant%2010.8b) which his
+id="EndNote Ant 10.8a"></span>[(8)](#EndNote%20Ant%2010.8b.md) which his
 predecessors had framed, and what thing soever there was besides which
 they worshipped as a god. And when he had thus purged all the country,
 he called the people to Jerusalem, and there celebrated the feast of
@@ -441,7 +441,7 @@ AND \[LASTLY\] CONCERNING JEREMIAH AND EZEKIEL.**
 1\. NOW Neco, king of Egypt, raised an army, and marched to the river
 Euphrates, in order to fight with the Medes and Babylonians, who had
 overthrown the dominion of the Assyrians, <span
-id="EndNote Ant 10.9a"></span>[(9)](#EndNote%20Ant%2010.9b) for he had a
+id="EndNote Ant 10.9a"></span>[(9)](#EndNote%20Ant%2010.9b.md) for he had a
 desire to reign over Asia. Now when he was come to the city Mendes,
 which belonged to the kingdom of Josiah, he brought an army to hinder
 him from passing through his own country, in his expedition against the
@@ -453,7 +453,7 @@ Josiah did not admit of this advice of Neco, but put himself into a
 posture to hinder him from his intended march. I suppose it was fate
 that pushed him on this conduct, that it might take an occasion against
 him; for as he was setting his army in array, <span
-id="EndNote Ant 10.10a"></span>[(10)](#EndNote%20Ant%2010.10b) and rode
+id="EndNote Ant 10.10a"></span>[(10)](#EndNote%20Ant%2010.10b.md) and rode
 about in his chariot, from one wing of his army to another, one of the
 Egyptians shot an arrow at him, and put an end to his eagerness of
 fighting; for being sorely wounded, he command a retreat to be sounded
@@ -462,7 +462,7 @@ magnificently buried in the sepulcher of his fathers, when he had lived
 thirty-nine years, and of them had reigned thirty-one. But all the
 people mourned greatly for him, lamenting and grieving on his account
 many days; and Jeremiah the prophet composed an elegy to lament him,
-<span id="EndNote Ant 10.11a"></span>[(11)](#EndNote%20Ant%2010.11b)
+<span id="EndNote Ant 10.11a"></span>[(11)](#EndNote%20Ant%2010.11b.md)
 which is extant till tills time also. Moreover, this prophet denounced
 beforehand the sad calamities that were coming upon the city. He also
 left behind him in writing a description of that destruction of our
@@ -481,7 +481,7 @@ He reigned in Jerusalem; and his mother was Hamutal, of the city Libhah.
 He was an impious man, and impure in his course of life; but as the king
 of Egypt returned from the battle, he sent for Jehoahaz to come to him,
 to the city called Hamath <span
-id="EndNote Ant 10.12a"></span>[(12)](#EndNote%20Ant%2010.12b) which
+id="EndNote Ant 10.12a"></span>[(12)](#EndNote%20Ant%2010.12b.md) which
 belongs to Syria; and when he was come, he put him in bands, and
 delivered the kingdom to a brother of his, by the father's side, whose
 name was Eliakim, and changed his name to Jehoiakim and laid a tribute
@@ -654,7 +654,7 @@ believed him; but the rulers, and those that were wicked, despised him,
 as one disordered in his senses. Now he had resolved to go elsewhere, to
 his own country, which was called Anathoth, and was twenty furlongs
 distant from Jerusalem; <span
-id="EndNote Ant 10.13a"></span>[(13)](#EndNote%20Ant%2010.13b) and as he
+id="EndNote Ant 10.13a"></span>[(13)](#EndNote%20Ant%2010.13b.md) and as he
 was going, one of the rulers met him, and seized upon him, and accused
 him falsely, as though he were going as a deserter to the Babylonians;
 but Jeremiah said that he accused him falsely, and added, that he was
@@ -803,7 +803,7 @@ And when he had used these words to Zedekiah, he commanded his sons and
 his friends to be slain, while Zedekiah and the rest of the captains
 looked on; after which he put out the eyes of Zedekiah, and bound him,
 and carried him to Babylon. And these things happened to him, <span
-id="EndNote Ant 10.14a"></span>[(14)](#EndNote%20Ant%2010.14b) as
+id="EndNote Ant 10.14a"></span>[(14)](#EndNote%20Ant%2010.14b.md) as
 Jeremiah and Ezekiel had foretold to him, that he should be caught, and
 brought before the king of Babylon, and should speak to him face to
 face, and should see his eyes with his own eyes; and thus far did
@@ -871,7 +871,7 @@ Juelus's son was Jotham, and Jotham's son was Urias, and Urias's son was
 Nerias, and Nerias's son was Odeas, and his son was Sallumus, and
 Sallumus's son was Elcias, and his son \[was Azarias, and his son\] was
 Sareas, <span
-id="EndNote Ant 10.15a"></span>[(15)](#EndNote%20Ant%2010.15b) and his
+id="EndNote Ant 10.15a"></span>[(15)](#EndNote%20Ant%2010.15b.md) and his
 son was Josedec, who was carried captive to Babylon. All these received
 the high priesthood by succession, the sons from their father.
 
@@ -1033,7 +1033,7 @@ expedition against Celesyria; and when he had possessed himself of it,
 he made war against the Ammonites and Moabites; and when he had brought
 all these nations under subjection, he fell upon Egypt, in order to
 overthrow it; and he slew the king that then reigned <span
-id="EndNote Ant 10.16a"></span>[(16)](#EndNote%20Ant%2010.16b) and set
+id="EndNote Ant 10.16a"></span>[(16)](#EndNote%20Ant%2010.16b.md) and set
 up another; and he took those Jews that were there captives, and led
 them away to Babylon. And such was the end of the nation of the Hebrews,
 as it hath been delivered down to us, it having twice gone beyond
@@ -1046,7 +1046,7 @@ therein the nation of the Cutheans, who had formerly belonged to the
 inner parts of Persia and Media, but were then called *Samaritans*, by
 taking the name of the country to which they were removed; but the king
 of Babylon, who brought out the two tribes, <span
-id="EndNote Ant 10.17a"></span>[(17)](#EndNote%20Ant%2010.17b) placed no
+id="EndNote Ant 10.17a"></span>[(17)](#EndNote%20Ant%2010.17b.md) placed no
 other nation in their country, by which means all Judea and Jerusalem,
 and the temple, continued to be a desert for seventy years; but the
 entire interval of time which passed from the captivity of the
@@ -1081,7 +1081,7 @@ learning, and the profess they had made in wisdom.
 abstain from those kinds of food which came from the king's table, and
 entirely to forbear to eat of all living creatures. So he came to
 Ashpenaz, who was that eunuch to whom the care of them was committed,
-<span id="EndNote Ant 10.18a"></span>[(18)](#EndNote%20Ant%2010.18b) and
+<span id="EndNote Ant 10.18a"></span>[(18)](#EndNote%20Ant%2010.18b.md) and
 desired him to take and spend what was brought for them from the king,
 but to give them pulse and dates for their food, and any thing else,
 besides the flesh of living creatures, that he pleased, for that their
@@ -1195,7 +1195,7 @@ put an end to the power of the former, and shall have dominion over all
 the earth, on account of the nature of iron, which is stronger than that
 of gold, of silver, and of brass." Daniel did also declare the meaning
 of the stone to the king <span
-id="EndNote Ant 10.19a"></span>[(19)](#EndNote%20Ant%2010.19b) but I do
+id="EndNote Ant 10.19a"></span>[(19)](#EndNote%20Ant%2010.19b.md) but I do
 not think proper to relate it, since I have only undertaken to describe
 things past or things present, but not things that are future; yet if
 any one be so very desirous of knowing truth, as not to wave such points
@@ -1237,7 +1237,7 @@ him.
 how he should fall from his dominion, and feed among the wild beasts,
 and that when he halt lived in this manner in the desert for seven
 years, <span
-id="EndNote Ant 10.20a"></span>[(20)](#EndNote%20Ant%2010.20b) he should
+id="EndNote Ant 10.20a"></span>[(20)](#EndNote%20Ant%2010.20b.md) he should
 recover his dominion again. When he had seen this dream, he called the
 magicians together again, and inquired of them about it, and desired
 them to tell him what it signified; but when none of them could find out
@@ -1262,7 +1262,7 @@ WAS DISSOLVED BY THE PERSIANS; AND WHAT THINGS BEFELL DANIEL IN MEDIA;
 AND WHAT PROPHECIES HE DELIVERED THERE.**
 
 1\. NOW when king Nebuchadnezzar had reigned forty-three years, <span
-id="EndNote Ant 10.21a"></span>[(21)](#EndNote%20Ant%2010.21b) he ended
+id="EndNote Ant 10.21a"></span>[(21)](#EndNote%20Ant%2010.21b.md) he ended
 his life. He was an active man, and more fortunate than the kings that
 were before him. Now Berosus makes mention of his actions in the third
 book of his Chaldaic History, where he says thus: "When his father
@@ -1276,7 +1276,7 @@ him, and reduced the country from under his subjection, and made it a
 branch of his own kingdom; but about that time it happened that his
 father Nebuchodonosor \[Nabopollassar\] fell ill, and ended his life in
 the city Babylon, when he had reigned twenty-one years; <span
-id="EndNote Ant 10.22a"></span>[(22)](#EndNote%20Ant%2010.22b) and when
+id="EndNote Ant 10.22a"></span>[(22)](#EndNote%20Ant%2010.22b.md) and when
 he was made sensible, as he was in a little time, that his father
 Nebuchodonosor \[Nabopollassar\] was dead, and having settled the
 affairs of Egypt, and the other countries, as also those that concerned
@@ -1302,7 +1302,7 @@ another palace before his father's palace, but so that they joined to
 it; to describe whose vast height and immense riches it would perhaps be
 too much for me to attempt; yet as large and lofty as they were, they
 were completed in fifteen days. <span
-id="EndNote Ant 10.23a"></span>[(23)](#EndNote%20Ant%2010.23b) He also
+id="EndNote Ant 10.23a"></span>[(23)](#EndNote%20Ant%2010.23b.md) He also
 erected elevated places for walking, of stone, and made it resemble
 mountains, and built it so that it might be planted with all sorts of
 trees. He also erected what was called a pensile paradise, because his
@@ -1331,7 +1331,7 @@ son took the government, and retained it forty years, and then ended his
 life; and after him the succession in the kingdom came to his son
 Labosordacus, who continued in it in all but nine months; and when he
 was dead, it came to Baltasar, <span
-id="EndNote Ant 10.24a"></span>[(24)](#EndNote%20Ant%2010.24b) who by
+id="EndNote Ant 10.24a"></span>[(24)](#EndNote%20Ant%2010.24b.md) who by
 the Babylonians was called Naboandelus; against him did Cyrus, the king
 of Persia, and Darius, the king of Media, make war; and when he was
 besieged in Babylon, there happened a wonderful and prodigious vision.
@@ -1359,7 +1359,7 @@ made, the magicians ran together more earnestly, and were very ambitious
 to find out the importance of the writing, but still hesitated about it
 as much as before. Now when the king's grandmother saw him cast down at
 this accident, <span
-id="EndNote Ant 10.25a"></span>[(25)](#EndNote%20Ant%2010.25b) she began
+id="EndNote Ant 10.25a"></span>[(25)](#EndNote%20Ant%2010.25b.md) she began
 to encourage him, and to say, that there was a certain captive who came
 from Judea, a Jew by birth, but brought away thence by Nebuchadnezzar
 when he had destroyed Jerusalem, whose name was Daniel, a wise man, and
@@ -1487,7 +1487,7 @@ he gave further order that Daniel's enemies should be cast into the den,
 that he might learn whether the lions, now they were full, would touch
 them or not. And it appeared plain to Darius, after the princes had been
 cast to the wild beasts, that it was God who preserved <span
-id="EndNote Ant 10.26a"></span>[(26)](#EndNote%20Ant%2010.26b) for the
+id="EndNote Ant 10.26a"></span>[(26)](#EndNote%20Ant%2010.26b.md) for the
 lions spared none of them, but tore them all to pieces, as if they had
 been very hungry, and wanted food. I suppose therefore it was not their
 hunger, which had been a little before satisfied with abundance of
@@ -1507,7 +1507,7 @@ Media: it was a most elegant building, and wonderfully made, and it is
 still remaining, and preserved to this day; and to such as see it, it
 appears to have been lately built, and to have been no older than that
 very day when any one looks upon it, it is so fresh <span
-id="EndNote Ant 10.27a"></span>[(27)](#EndNote%20Ant%2010.27b)
+id="EndNote Ant 10.27a"></span>[(27)](#EndNote%20Ant%2010.27b.md)
 flourishing, and beautiful, and no way grown old in so long time; for
 buildings suffer the same as men do, they grow old as well as they, and
 by numbers of years their strength is dissolved, and their beauty
@@ -1597,12 +1597,12 @@ sentiments without any blame from me.
 
 ENDNOTE
 
-<span id="EndNote Ant 10.1b"></span>[(1)](#EndNote%20Ant%2010.1a) This
+<span id="EndNote Ant 10.1b"></span>[(1)](#EndNote%20Ant%2010.1a.md) This
 title of great king, both in our Bibles, 2 Kings 18:19; Isaiah 36:4, and
 here in Josephus, is the very same that Herodotus gives this
 Sennacherib, as Spanheim takes notice on this place.
 
-<span id="EndNote Ant 10.2b"></span>[(2)](#EndNote%20Ant%2010.2a) What
+<span id="EndNote Ant 10.2b"></span>[(2)](#EndNote%20Ant%2010.2a.md) What
 Josephus says here, how Isaiah the prophet assured Hezekiah that "at
 this time he should not be besieged by the king of Assyria; that for the
 future he might be secure of being not at all disturbed by him; and that
@@ -1617,20 +1617,20 @@ plant vineyards, and eat the fruit thereof," 2 Kings 19:29; Isaiah
 jubilee next after it, and the succeeding usual labors and fruits of
 them on the third and following years.
 
-<span id="EndNote Ant 10.3b"></span>[(3)](#EndNote%20Ant%2010.3a) That
+<span id="EndNote Ant 10.3b"></span>[(3)](#EndNote%20Ant%2010.3a.md) That
 this terrible calamity of the slaughter of the 185,000 Assyrians is here
 delivered in the words of Berosus the Chaldean, and that it was
 certainly and frequently foretold by the Jewish prophets, and that it
 was certainly and undeniably accomplished, see Authent. Rec. part II. p.
 858.
 
-<span id="EndNote Ant 10.4b"></span>[(4)](#EndNote%20Ant%2010.4a) We are
+<span id="EndNote Ant 10.4b"></span>[(4)](#EndNote%20Ant%2010.4a.md) We are
 here to take notice, that these two sons of Sennacherib, that ran away
 into Armenia, became the heads of two famous families there, the
 Arzerunii and the Genunii; of which see the particular histories in
 Moses Chorenensis, p. 60.
 
-<span id="EndNote Ant 10.5b"></span>[(5)](#EndNote%20Ant%2010.5b)
+<span id="EndNote Ant 10.5b"></span>[(5)](#EndNote%20Ant%2010.5b.md)
 Josephus, and all our copies, place the sickness of Hezekiah after the
 destruction of Sennacherib's army, because it appears to have been after
 his first assault, as he was going into Arabia and Egypt, where he
@@ -1645,7 +1645,7 @@ few months; whereas the first assault of Sennacherib was on the
 fourteenth year of Hezekiah, but the destruction of Sennacherib's army
 was not till his eighteenth year.
 
-<span id="EndNote Ant 10.6b"></span>[(6)](#EndNote%20Ant%2010.6a) As to
+<span id="EndNote Ant 10.6b"></span>[(6)](#EndNote%20Ant%2010.6a.md) As to
 this regress of the shadow, either upon a sun-dial, or the steps of the
 royal palace built by Ahaz, whether it were physically done by the real
 miraculous revolution of the earth in its diurnal motion backward from
@@ -1666,7 +1666,7 @@ of, at Babylon also, as appears by 2 Chronicles 32:31, where we learn
 that the Babylonian ambassadors were sent to Hezekiah, among other
 things, to inquire of the wonder that was done in the land.
 
-<span id="EndNote Ant 10.7b"></span>[(7)](#EndNote%20Ant%2010.7a) This
+<span id="EndNote Ant 10.7b"></span>[(7)](#EndNote%20Ant%2010.7a.md) This
 expression of Josephus, that the Medes, upon this destruction of the
 Assyrian army, "overthrew" the Assyrian empire, seems to be too strong;
 for although they immediately cast off the Assrian yoke, and set up
@@ -1675,7 +1675,7 @@ Babylonians overthrew Nineveh, and some generations ere the Medes and
 Persians under Cyaxares and Cyrus overthrew the Assyrian or Babylonian
 empire, and took Babylon.
 
-<span id="EndNote Ant 10.8b"></span>[(8)](#EndNote%20Ant%2010.8a) It is
+<span id="EndNote Ant 10.8b"></span>[(8)](#EndNote%20Ant%2010.8a.md) It is
 hard to reconcile the account in the Second Book of Kings (ch. 23:11)
 with this account in Josephus, and to translate this passage truly in
 Josephus, whose copies are supposed to be here imperfect. However, the
@@ -1685,7 +1685,7 @@ Moloch; which idol might be carried about in procession, and worshipped
 by the people; which chariots were now "taken away," as Josephus says,
 or, as the Book of Kings says, "burnt with fire, by Josiah."
 
-<span id="EndNote Ant 10.9b"></span>[(9)](#EndNote%20Ant%2010.9a) This
+<span id="EndNote Ant 10.9b"></span>[(9)](#EndNote%20Ant%2010.9a.md) This
 is a remarkable passage of chronology in Josephus, that about the latter
 end of the reign of Josiah, the Medes and Babylonians overthrew the
 empire of the Assyrians; or, in the words of Tobit's continuator, that
@@ -1693,26 +1693,26 @@ empire of the Assyrians; or, in the words of Tobit's continuator, that
 taken by Nebuchodonosor the Babylonian, and Assuerus the Mede," Tob.
 14:15. See Dean Prideaux's Connexion, at the year 612.
 
-<span id="EndNote Ant 10.10b"></span>[(10)](#EndNote%20Ant%2010.10a)
+<span id="EndNote Ant 10.10b"></span>[(10)](#EndNote%20Ant%2010.10a.md)
 This battle is justly esteemed the very same that Herodotus (B. II.
 sect. 156) mentions, when he says, that "Necao joined battle with the
 Syrians \[or Jews\] at Magdolum, \[Megiddo,\] and beat them," as Dr.
 Hudson here observes.
 
-<span id="EndNote Ant 10.11b"></span>[(11)](#EndNote%20Ant%2010.11a)
+<span id="EndNote Ant 10.11b"></span>[(11)](#EndNote%20Ant%2010.11a.md)
 Whether Josephus, from 2 Chronicles 35:25, here means the book of the
 Lamentations of Jeremiah, still extant, which chiefly belongs to the
 destruction of Jerusalem under Nebuchadnezzar, or to any other like
 melancholy poem now lost, but extant in the days of Josephus, belonging
 peculiarly to Josiah, cannot now be determined.
 
-<span id="EndNote Ant 10.12b"></span>[(12)](#EndNote%20Ant%2010.12a)
+<span id="EndNote Ant 10.12b"></span>[(12)](#EndNote%20Ant%2010.12a.md)
 This ancient city Hamath, which is joined with Arpad, or Aradus, and
 with Damascus, 2 Kings 18:34; Isaiah 36:19; Jeremiah 49:23, cities of
 Syria and Phoenicia, near the borders of Judea, was also itself
 evidently near the same borders, though long ago utterly destroyed.
 
-<span id="EndNote Ant 10.13b"></span>[(13)](#EndNote%20Ant%2010.13a)
+<span id="EndNote Ant 10.13b"></span>[(13)](#EndNote%20Ant%2010.13a.md)
 Josephus says here that Jeremiah prophesied not only of the return of
 the Jews from the Babylonian captivity, and this under the Persians and
 Medes, as in our other copies; but of cause they did not both say the
@@ -1723,7 +1723,7 @@ prophecies, as we shall show upon a fitter opportunity their rebuilding
 the temple, and even the city Jerusalem, which do not appear in our
 copies under his name. See the note on Antiq. B. XI. ch. 1. sect. 3.
 
-<span id="EndNote Ant 10.14b"></span>[(14)](#EndNote%20Ant%2010.14a)
+<span id="EndNote Ant 10.14b"></span>[(14)](#EndNote%20Ant%2010.14a.md)
 This observation of Josephus about the seeming disagreement of Jeremiah,
 ch. 32:4, and 34:3, and Ezekiel 12:13, but real agreement at last,
 concerning the fate of Zedekiah, is very true and very remarkable. See
@@ -1732,7 +1732,7 @@ prophets might make use of this seeming contradiction to dissuade
 Zedekiah from believing either of those prophets, as Josephus here
 intimates he was dissuaded thereby.
 
-<span id="EndNote Ant 10.15b"></span>[(15)](#EndNote%20Ant%2010.15a) I
+<span id="EndNote Ant 10.15b"></span>[(15)](#EndNote%20Ant%2010.15a.md) I
 have here inserted in brackets this high priest Azarias, though he be
 omitted in all Josephus's copies, out of the Jewish chronicle, Seder
 Olam, of how little authority soever I generally esteem such late
@@ -1744,14 +1744,14 @@ book, that stands now in our Apocrypha, and that it is really a
 canonical book, and an appendix to Jeremiah, see Authent. Rec. Part I.
 p. 1--11.
 
-<span id="EndNote Ant 10.16b"></span>[(16)](#EndNote%20Ant%2010.16a)
+<span id="EndNote Ant 10.16b"></span>[(16)](#EndNote%20Ant%2010.16a.md)
 Herodotus says, this king of Egypt \[Pharaoh Hophra, or Apries\] was
 slain by the Egyptians, as Jeremiah foretold his slaughter by his
 enemies, Jeremiah 44:29, 30, and that as a sign of the destruction of
 Egypt \[by Nebuchadnezzar\]. Josephus says, this king was slain by
 Nebuchadnezzar himself.
 
-<span id="EndNote Ant 10.17b"></span>[(17)](#EndNote%20Ant%2010.17a) We
+<span id="EndNote Ant 10.17b"></span>[(17)](#EndNote%20Ant%2010.17a.md) We
 see here that Judea was left in a manner desolate after the captivity of
 the two tribes and was not I with foreign colonies, perhaps as an
 indication of Providence that the Jews were to repeople it without
@@ -1761,7 +1761,7 @@ colonies, to be a like indication, that the same Jews are hereafter to
 repeople it again themselves, at their so long expected future
 restoration.
 
-<span id="EndNote Ant 10.18b"></span>[(18)](#EndNote%20Ant%2010.18a)
+<span id="EndNote Ant 10.18b"></span>[(18)](#EndNote%20Ant%2010.18a.md)
 That Daniel was made one of these eunuchs of which Isaiah prophesied,
 Isaiah 39:7, and the three children his companions also, seems to me
 plain, both here in Josephus, and in our copies of Daniel, Daniel 1:3,
@@ -1770,7 +1770,7 @@ had children, were sometimes called eunuchs, in a general acceptation
 for courtiers, on account that so many of the ancient courtiers were
 real eunuchs. See Genesis 39:1.
 
-<span id="EndNote Ant 10.19b"></span>[(19)](#EndNote%20Ant%2010.19a) Of
+<span id="EndNote Ant 10.19b"></span>[(19)](#EndNote%20Ant%2010.19a.md) Of
 this most remarkable passage in Josephus concerning the "stone cut out
 of the mountain, and destroying the image," which he would not explain,
 but intimated to be a prophecy of futurity, and probably not safe for
@@ -1781,7 +1781,7 @@ meddle with things future, for he had no mind to provoke the Romans, by
 speaking of the destruction of that city which they called the Eternal
 City."
 
-<span id="EndNote Ant 10.20b"></span>[(20)](#EndNote%20Ant%2010.20a)
+<span id="EndNote Ant 10.20b"></span>[(20)](#EndNote%20Ant%2010.20a.md)
 Since Josephus here explains the seven prophetic times which were to
 pass over Nebuchadnezzar (Daniel 4:16) to be seven years, we thence
 learn how he most probably must have understood those other parallel
@@ -1808,7 +1808,7 @@ that after a seven years' brutal life, he might return to his reason,
 and to the exercise of his royal authority, for one whole year at least
 before his death.
 
-<span id="EndNote Ant 10.21b"></span>[(21)](#EndNote%20Ant%2010.21a)
+<span id="EndNote Ant 10.21b"></span>[(21)](#EndNote%20Ant%2010.21a.md)
 These forty-three years for the duration of the reign of Nebuchadnezzar
 are, as I have just now observed, the very same number in Ptolemy's
 canon. Moses Chorenensis does also confirm this captivity of the Jews
@@ -1816,7 +1816,7 @@ under Nebuchadnezzar, and adds, what is very remarkable, that sale of
 those Jews that were carried by him into captivity got away into
 Armenia, and raised the great family of the Bagratide there.
 
-<span id="EndNote Ant 10.22b"></span>[(22)](#EndNote%20Ant%2010.22a)
+<span id="EndNote Ant 10.22b"></span>[(22)](#EndNote%20Ant%2010.22a.md)
 These twenty-one years here ascribed to one named Naboulassar, in the
 first book against Apion, or to Nabopollassar, the father of the great
 Nebuchadnezzar, are also the very same with those given him in Ptolemy's
@@ -1826,7 +1826,7 @@ besides the great Nebuchadnezzar himself is a groundless mistake of some
 modern chronologers rely, and destitute of all proper original
 authority.
 
-<span id="EndNote Ant 10.23b"></span>[(23)](#EndNote%20Ant%2010.23a)
+<span id="EndNote Ant 10.23b"></span>[(23)](#EndNote%20Ant%2010.23a.md)
 These fifteen days for finishing such vast buildings at Babylon, in
 Josephus's copy of Berosus, would seem too absurd to be supposed to be
 the true number, were it not for the same testimony extant also in the
@@ -1839,7 +1839,7 @@ Antiq. B. XI. ch. 5. sect. 8. I should think one hundred and fifteen
 days, or a year and fifteen days, much more proportionable to so great a
 work.
 
-<span id="EndNote Ant 10.24b"></span>[(24)](#EndNote%20Ant%2010.24a) It
+<span id="EndNote Ant 10.24b"></span>[(24)](#EndNote%20Ant%2010.24a.md) It
 is here remarkable that Josephus, without the knowledge of Ptolemy's
 canon, should call the same king whom he himself here (Bar. i. 11, and
 Daniel 5:1, 2, 9, 12, 22, 29, 39) styles Beltazar, or Belshazzar, from
@@ -1860,14 +1860,14 @@ within no long time after the hand-writing on the wall that Baltasar was
 slain, does not so well agree with our copies of Daniel, which say it
 was the same night, Daniel 5:30.
 
-<span id="EndNote Ant 10.25b"></span>[(25)](#EndNote%20Ant%2010.25a)
+<span id="EndNote Ant 10.25b"></span>[(25)](#EndNote%20Ant%2010.25a.md)
 This grandmother, or mother of Baltasar, the queen dowager of Babylon,
 (for she is distinguished from his queen, Daniel 5:10, 13,) seems to
 have been the famous Nitocris, who fortified Babylon against the Medes
 and Persians, and, in all probability governed under Baltasar, who seems
 to be a weak and effeminate prince.
 
-<span id="EndNote Ant 10.26b"></span>[(26)](#EndNote%20Ant%2010.26a) It
+<span id="EndNote Ant 10.26b"></span>[(26)](#EndNote%20Ant%2010.26a.md) It
 is no way improbable that Daniel's enemies might suggest this reason to
 the king why the lions did not meddle with him and that they might
 suspect the king's kindness to Daniel had procured these lions to be so
@@ -1877,7 +1877,7 @@ was the true reason of making so terrible an experiment upon those his
 enemies, and all their families, Daniel 6:21, though our other copies do
 not directly take notice of it
 
-<span id="EndNote Ant 10.27b"></span>[(27)](#EndNote%20Ant%2010.27a)
+<span id="EndNote Ant 10.27b"></span>[(27)](#EndNote%20Ant%2010.27a.md)
 What Josephus here says, that the stones of the sepulchers of the kings
 of Persia at this tower, or those perhaps of the same sort that are now
 commonly called the ruins of Persepolis, continued so entire and
@@ -1888,4 +1888,4 @@ to the hardness of the stones, which scarcely yields to iron tools, and
 proves frequently too hard for cutting by the chisel, but oftentimes
 breaks it to pieces.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

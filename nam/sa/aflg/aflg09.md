@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg08) [Next](aflg10)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg08) [Next](aflg10.md)
 
 ------------------------------------------------------------------------
 
@@ -7,10 +7,10 @@ American](../index) [Index](index) [Previous](aflg08) [Next](aflg10)
 
 ## C<span class="small">HAPTER</span> IX THE SPIRITS OF THE BUSH <span class="small">ANIMALS AS SENTIENT HUMAN BEINGS</span>
 
-   <span class="small">Preliminary (*[130A](#pp_130A)*). Fables, Tales,
-and Legends (*[131](#pp_131)-162D*).</span>
+   <span class="small">Preliminary (*[130A](#pp_130A)*.md). Fables, Tales,
+and Legends (*[131](#pp_131)-162D*.md).</span>
 
-   <span id="pp_130A"></span>**130A.**[\*](#pp_130A) It is proposed to
+   <span id="pp_130A"></span>**130A.**[\*](#pp_130A.md) It is proposed to
 devote this chapter to a collection of legends dealing with the many
 beasts and birds met with in the forest, interesting in that they are
 all represented as thinking, talking, and acting as do sentient human
@@ -42,7 +42,7 @@ folk-lore is so largely crammed with this same idea of Man and Animal
  
 
 <span id="story_38"></span><span
-id="pp_131"></span>**131.**[\*](#pp_131) T<span class="small">HE</span>
+id="pp_131"></span>**131.**[\*](#pp_131.md) T<span class="small">HE</span>
 H<span class="small">ONEY-BEE</span> S<span
 class="small">ON-IN-LAW</span> (W)
 
@@ -53,7 +53,7 @@ class="small">ON-IN-LAW</span> (W)
 > day the girl told her father that she was not feeling well, in other
 > words, that it was not permissible for her to build the babracote, to
 > do <span id="page_200">p. 200</span> the cooking, or even to touch the
-> utensils \[[Sect. *274*](aflg16.htm#pp_274)\]. "Never mind," replied
+> utensils \[[Sect. *274*](aflg16.htm#pp_274.md)\]. "Never mind," replied
 > the father, "just rest yourself. We are not going very far, and we can
 > manage for ourselves." That afternoon they returned from the hunt with
 > nothing, the same result happening on the succeeding afternoon. Was
@@ -72,7 +72,7 @@ class="small">ON-IN-LAW</span> (W)
 > love with her, and that he was a Simo-ahawara \[*lit*. 'bee tribe'\];
 > this information calmed her greatly, because it seems that at his
 > first appearance, she took him for a Bush Spirit or Hebu.<span
-> id="page_200_fr_1"></span>[1](#page_200_note_1) Now, just as Simo had
+> id="page_200_fr_1"></span>[1](#page_200_note_1.md) Now, just as Simo had
 > anticipated, when the father returned in the afternoon, he was not at
 > all vexed at seeing the stranger in his daughter's hammock; in fact,
 > he made not the slightest reference to her even having company. And
@@ -84,7 +84,7 @@ class="small">ON-IN-LAW</span> (W)
 > their evening meal. Carrying his bow with two arrows, he accordingly
 > took himself off to the bush, and returning very shortly, instructed
 > the girl to tell her father go fetch in the game which he had
-> killed.<span id="page_200_fr_2"></span>[2](#page_200_note_2) The
+> killed.<span id="page_200_fr_2"></span>[2](#page_200_note_2.md) The
 > father went off to fetch the waiyarri in which Simo had packed the
 > meat, but could not lift it, much less carry it, on account of its
 > great weight, though comparatively small a bundle. He came back for
@@ -115,15 +115,15 @@ class="small">ON-IN-LAW</span> (W)
 > nothing wrong in what her sisters were trying to do, because with us
 > Indians, so long as the women are single, it is no sin for a man to
 > live with his sisters-in-law as well as with his wife.<span
-> id="page_201_fr_1"></span>[1](#page_201_note_1) But in spite of his
+> id="page_201_fr_1"></span>[1](#page_201_note_1.md) But in spite of his
 > objections, the two sisters-in-law persisted in following him about,
 > and while they would be bathing with his wife at the waterside, with
 > him minding the baby on the river-bank, they would try to dash spray
-> over him.<span id="page_201_fr_2"></span>[2](#page_201_note_2) This
+> over him.<span id="page_201_fr_2"></span>[2](#page_201_note_2.md) This
 > was very wicked of them, still more so because Simo had warned them
 > that if water should ever touch him, it would act like fire, that is,
 > first weaken, and then destroy him.<span
-> id="page_201_fr_3"></span>[3](#page_201_note_3) As a matter of fact,
+> id="page_201_fr_3"></span>[3](#page_201_note_3.md) As a matter of fact,
 > none of the three women had ever seen him bathe: whenever he wanted to
 > perform his ablutions, he would wash himself in honey just as the
 > little bees do. His wife alone was well aware of this, because he had
@@ -133,13 +133,13 @@ class="small">ON-IN-LAW</span> (W)
 > two sisters-in-law succeeded in dashing water over him. The result was
 > that he screamed out, "I burn! I burn!" and flying away, like other
 > bees, into a tree, melted into honey, and his child changed into
-> Wau-uta, the Tree-frog \[[Sects. *17*](aflg02.htm#pp_17),
-> [*18*](aflg02.htm#pp_18)\].
+> Wau-uta, the Tree-frog \[[Sects. *17*](aflg02.htm#pp_17.md),
+> [*18*](aflg02.htm#pp_18.md)\].
 
  
 
 <span id="story_39"></span><span
-id="pp_131A"></span>**131A.**[\*](#pp_131A) T<span
+id="pp_131A"></span>**131A.**[\*](#pp_131A.md) T<span
 class="small">HE</span> M<span class="small">AN WHO WAS</span> C<span
 class="small">HANGED INTO A</span> P<span class="small">OWIS</span> (W)
 
@@ -193,7 +193,7 @@ class="small">HANGED INTO A</span> P<span class="small">OWIS</span> (W)
  
 
 <span id="story_40"></span><span
-id="pp_132"></span>**132.**[\*](#pp_132) T<span class="small">HE</span>
+id="pp_132"></span>**132.**[\*](#pp_132.md) T<span class="small">HE</span>
 S<span class="small">TOLEN</span> C<span class="small">HILD</span> (W)
 
 >    A man went out hunting, leaving at home his wife and little baby
@@ -266,17 +266,17 @@ S<span class="small">TOLEN</span> C<span class="small">HILD</span> (W)
 > their hammock-ropes and hurried themselves to leave. While they were
 > doing so, a young man, a cousin, said: "Well! I can not leave this
 > grindstone here: I shall want it for sharpening."<span
-> id="page_203_fr_1"></span>[1](#page_203_note_1) So saying, he placed
+> id="page_203_fr_1"></span>[1](#page_203_note_1.md) So saying, he placed
 > it in his hammock, folded the latter, and, in the hurry of the moment,
 > not thinking of what he was doing, slung it in the usual manner over
 > his shoulder. The unprepared-for weight, however, broke his back and
 > he fell down dead, and there the others left him.<span
-> id="page_203_fr_2"></span>[2](#page_203_note_2)
+> id="page_203_fr_2"></span>[2](#page_203_note_2.md)
 
  
 
 <span id="story_41"></span><span
-id="pp_133"></span>**133.**[\*](#pp_133) T<span class="small">HE</span>
+id="pp_133"></span>**133.**[\*](#pp_133.md) T<span class="small">HE</span>
 T<span class="small">IGER</span> C<span class="small">HANGED INTO
 A</span> W<span class="small">OMAN</span> (A)
 
@@ -337,7 +337,7 @@ A</span> W<span class="small">OMAN</span> (A)
  
 
 <span id="story_42"></span><span
-id="pp_134"></span>**134.**[\*](#pp_134) T<span class="small">HE</span>
+id="pp_134"></span>**134.**[\*](#pp_134.md) T<span class="small">HE</span>
 W<span class="small">OMAN IN</span> L<span class="small">OVE WITH
 A</span> S<span class="small">LOTH</span> (A)
 
@@ -361,12 +361,12 @@ A</span> S<span class="small">LOTH</span> (A)
 > her, came up close behind, and consoled her. "Don't be so foolish," he
 > remarked. "A fast fellow is preferable to a slow Sloth. Take *me* for
 > a sweetheart." And she did.<span
-> id="page_204_fr_1"></span>[1](#page_204_note_1)
+> id="page_204_fr_1"></span>[1](#page_204_note_1.md)
 
  
 
 <span id="story_43"></span><span
-id="pp_135"></span>**135.**[\*](#pp_135) W<span class="small">HY</span>
+id="pp_135"></span>**135.**[\*](#pp_135.md) W<span class="small">HY</span>
 H<span class="small">ONEY IS SO</span> S<span class="small">CARCE</span>
 N<span class="small">OW</span> (A)
 
@@ -396,12 +396,12 @@ N<span class="small">OW</span> (A)
 > mentioned the name, than she flew away to her bees' nest. He put up
 > his hands to stop her, but she was already flown. And with her, his
 > luck flew, and since that time honey has always been more or less
-> scarce.<span id="page_205_fr_1"></span>[1](#page_205_note_1)
+> scarce.<span id="page_205_fr_1"></span>[1](#page_205_note_1.md)
 
  
 
 <span id="story_44"></span><span
-id="pp_136"></span>**136.**[\*](#pp_136) T<span class="small">HE</span>
+id="pp_136"></span>**136.**[\*](#pp_136.md) T<span class="small">HE</span>
 M<span class="small">AN WHO</span> C<span class="small">LAIMED
 THE</span> T<span class="small">IGER'S</span> M<span
 class="small">EAL</span> (C)
@@ -417,7 +417,7 @@ class="small">EAL</span> (C)
 > to happen, and took measures accordingly. Hence, when her husband had
 > cut up the meat, she built two babracotes, one close to the ground,
 > and another high up on top.<span
-> id="page_205_fr_2"></span>[2](#page_205_note_2) The husband, having
+> id="page_205_fr_2"></span>[2](#page_205_note_2.md) The husband, having
 > completed his share of the business, tied his hammock near the fire,
 > turned in, and soon fell fast asleep. The wife, however, went on
 > drying the flesh, and continued doing so until late into the night,
@@ -436,11 +436,11 @@ class="small">EAL</span> (C)
  
 
 <span id="story_45"></span><span
-id="pp_136A"></span>**136A.**[\*](#pp_136A) T<span
+id="pp_136A"></span>**136A.**[\*](#pp_136A.md) T<span
 class="small">HE</span> W<span class="small">OMAN WHO</span> B<span
 class="small">ATTLED WITH</span> T<span class="small">WO</span> T<span
 class="small">IGERS</span> (W)<span
-id="page_205_fr_3"></span>[3](#page_205_note_3)
+id="page_205_fr_3"></span>[3](#page_205_note_3.md)
 
 >    A man, having tired of his old wife, went off to another settlement
 > to fetch a young one, and brought her home with him. But the two women
@@ -463,7 +463,7 @@ id="page_205_fr_3"></span>[3](#page_205_note_3)
 > up it, and thence onto one of the fruit bunches. No sooner had he done
 > so than the young woman above made a cut at the "nick," with the
 > result that down went both Tiger and fruit.<span
-> id="page_206_fr_1"></span>[1](#page_206_note_1) The Tiger had another
+> id="page_206_fr_1"></span>[1](#page_206_note_1.md) The Tiger had another
 > chance and jumped on another bunch, but with the same result. He made
 > a third attempt, and on this occasion fell down on the pimplers, upon
 > which he was impaled, what with the weight of the bunch of fruit on
@@ -506,10 +506,10 @@ id="page_205_fr_3"></span>[3](#page_205_note_3)
  
 
 <span id="story_46"></span><span
-id="pp_137"></span>**137.**[\*](#pp_137) T<span class="small">HE</span>
+id="pp_137"></span>**137.**[\*](#pp_137.md) T<span class="small">HE</span>
 M<span class="small">AN WITH A</span> V<span class="small">ULTURE</span>
 W<span class="small">IFE</span> (W)<span
-id="page_206_fr_2"></span>[2](#page_206_note_2)
+id="page_206_fr_2"></span>[2](#page_206_note_2.md)
 
 >    There were once three brothers. The middle one was a very good
 > hunter, and this story is all about him and his bird wife. While out
@@ -518,16 +518,16 @@ id="page_206_fr_2"></span>[2](#page_206_note_2)
 > thing not to be wondered at, because they were really Vultures
 > \[*Sarcorhamphus papa*\] who had taken off their feathers just for the
 > occasion to hang about the place and decorate it. They were dancing
-> and singing the *makuari* tune \[[Sect. *75*](aflg05.htm#pp_75)\] on
+> and singing the *makuari* tune \[[Sect. *75*](aflg05.htm#pp_75.md)\] on
 > all sorts of musical instruments, from the harri-harri flute to the
 > <span id="page_207">p. 207</span> rattle. The whole place looked very
 > pretty because it was decorated with their red necklaces, white
 > dresses, and black wing-tips.<span
-> id="page_207_fr_1"></span>[1](#page_207_note_1) All around, hung up by
+> id="page_207_fr_1"></span>[1](#page_207_note_1.md) All around, hung up by
 > cords to the beams, were the *dau-u hewére*; these were long pieces of
 > wood, shaped somewhat like your \[i. e. European\] "indian-clubs,"
 > bigger below than above, all beautifully painted and tasseled.<span
-> id="page_207_fr_2"></span>[2](#page_207_note_2) Our friend stood there
+> id="page_207_fr_2"></span>[2](#page_207_note_2.md) Our friend stood there
 > watching and continued watching: so enchanted was he with the sight
 > that, before he was aware, darkness fell, which compelled him to
 > remain there all night. His mother was wondering what had become of
@@ -545,7 +545,7 @@ id="page_206_fr_2"></span>[2](#page_206_note_2)
 > and under cover of this he gradually crept closer and closer, on all
 > fours, up to just about the spot where the girls during the progress
 > of their mari-mari dance would retreat backward in their steps.<span
-> id="page_207_fr_3"></span>[3](#page_207_note_3) As they thus made a
+> id="page_207_fr_3"></span>[3](#page_207_note_3.md) As they thus made a
 > move a little farther back than usual, he caught hold of the girl he
 > had taken a fancy to, but no sooner had he seized her than all the
 > other people, house, decorations, and music suddenly disappeared, and
@@ -562,7 +562,7 @@ id="page_206_fr_2"></span>[2](#page_206_note_2)
 > her insistence of never using the meat on the same day that he brought
 > it home from the chase: she would never eat it fresh, preferring to
 > keep it a day or two until it became tainted.<span
-> id="page_207_fr_4"></span>[4](#page_207_note_4)
+> id="page_207_fr_4"></span>[4](#page_207_note_4.md)
 >
 >    Now, one day it happened that her husband returned from the hunt
 > extremely hungry, and he told her that she must cook at once the game
@@ -573,7 +573,7 @@ id="page_206_fr_2"></span>[2](#page_206_note_2)
 > he beat her a third time. She bore this brutal treatinent meekly and
 > never upbraided him. She merely told him that she proposed taking him
 > to see her father.<span
-> id="page_207_fr_5"></span>[5](#page_207_note_5) So he went a-hunting,
+> id="page_207_fr_5"></span>[5](#page_207_note_5.md) So he went a-hunting,
 > and brought back much meat as a present for her family, and when ready
 > to start she gave him Vulture feathers for a covering; he could not
 > visit her people without this garb. After they had traveled a good
@@ -581,12 +581,12 @@ id="page_206_fr_2"></span>[2](#page_206_note_2)
 > land that was "like steps," so that the farther they went the higher
 > they got, until at last they reached a very high spot—the very spot
 > indeed where the carrion-crow governors \[i. e. the Vultures\]
-> lived.<span id="page_208_fr_1"></span>[1](#page_208_note_1) "You must
+> lived.<span id="page_208_fr_1"></span>[1](#page_208_note_1.md) "You must
 > not be afraid of saying good-day to my father," she was careful enough
 > to admonish him: "although he is a very celebrated man." When
 > therefore the couple reacher her father's place, he went up and shook
 > the old man's hand.<span
-> id="page_208_fr_2"></span>[2](#page_208_note_2) His father-in-law bade
+> id="page_208_fr_2"></span>[2](#page_208_note_2.md) His father-in-law bade
 > him sit down, and after the usual routine of questions had been asked
 > and answered, told him: "All right. You can stay with me today and
 > return tomorrow. I will come and pay you a visit later on or I will
@@ -601,14 +601,14 @@ id="page_206_fr_2"></span>[2](#page_206_note_2)
 > about that even his mother took her part. Addressing her son, the
 > mother said, "You are doing wrong, in beating the girl, especially
 > since she is so far away from all her family.<span
-> id="page_208_fr_3"></span>[3](#page_208_note_3) I am sure some evil
+> id="page_208_fr_3"></span>[3](#page_208_note_3.md) I am sure some evil
 > will happen if you continue such conduct." The dame was a wise old
 > woman, because her motherly instincts told her that her
 > daughter-in-law was not "a real person," but had something weird and
 > eerie about her. Did not the girl wear a strange nose-ornament for
-> instance?<span id="page_208_fr_4"></span>[4](#page_208_note_4) Her
+> instance?<span id="page_208_fr_4"></span>[4](#page_208_note_4.md) Her
 > son, however, refused "to hear" and commenced beating his wife
-> again.<span id="page_208_fr_5"></span>[5](#page_208_note_5) On this
+> again.<span id="page_208_fr_5"></span>[5](#page_208_note_5.md) On this
 > occasion however, she picked up the feather covering—the very one that
 > she had lent him when they went to visit her father's place—and
 > putting it on, started to fly homeward. He jumped out of his hammock
@@ -630,14 +630,14 @@ id="page_206_fr_2"></span>[2](#page_206_note_2)
 > beautiful house whence he captured his wife, and there, in that very
 > spot, they killed him. They went and told the old man Vulture what
 > they had done, and afterward returned to devour the carcass.<span
-> id="page_208_fr_6"></span>[6](#page_208_note_6)
+> id="page_208_fr_6"></span>[6](#page_208_note_6.md)
 
 <span id="page_209">p. 209</span>
 
  
 
 <span id="story_47"></span><span
-id="pp_138"></span>**138.**[\*](#pp_138) T<span class="small">HE</span>
+id="pp_138"></span>**138.**[\*](#pp_138.md) T<span class="small">HE</span>
 M<span class="small">AN WITH A</span> B<span class="small">ABOON</span>
 W<span class="small">IFE</span> (A)
 
@@ -661,7 +661,7 @@ W<span class="small">IFE</span> (A)
 > suspicions as to her origin aroused on noticing that her fingers were
 > naturally clenched, and that with the one hand she was continually
 > trying to keep extended the fingers of the other.<span
-> id="page_209_fr_1"></span>[1](#page_209_note_1) He accordingly asked
+> id="page_209_fr_1"></span>[1](#page_209_note_1.md) He accordingly asked
 > her straight whether she herself was not the baboon that had so
 > mysteriously disappeared, but she denied it. She was a good-looking
 > wench, however, and he took her as wife, with the result that they
@@ -699,7 +699,7 @@ W<span class="small">IFE</span> (A)
 > ground. The man was perplexed, and asked how this was to be managed,
 > but the bird told him to follow the same procedure as he (the bird)
 > did in the making of the aerial roots of the kofa tree \[[Sect.
-> *168*](aflg10.htm#pp_168)\]. Obeying instructions, the hanging
+> *168*](aflg10.htm#pp_168.md)\]. Obeying instructions, the hanging
 > vine-roots soon reached the earth, and clinging to these, the man got
 > down in safety. So far, so good; but even yet he did not know exactly
 > where he was, and he had no means of finding in which direction <span
@@ -715,7 +715,7 @@ W<span class="small">IFE</span> (A)
  
 
 <span id="story_48"></span><span
-id="pp_139"></span>**139.**[\*](#pp_139) T<span class="small">HE</span>
+id="pp_139"></span>**139.**[\*](#pp_139.md) T<span class="small">HE</span>
 D<span class="small">ISODEDIENT</span> S<span class="small">ON</span>
 K<span class="small">ILLED BY A</span> T<span class="small">IGER</span>
 (W)
@@ -752,7 +752,7 @@ K<span class="small">ILLED BY A</span> T<span class="small">IGER</span>
 > come down, and what with the fright, fell in a faint directly he
 > reached the floor. Recovering consciousness, he broke his arrow and
 > beat himself with the two fragments.<span
-> id="page_210_fr_1"></span>[1](#page_210_note_1) He then ran away to a
+> id="page_210_fr_1"></span>[1](#page_210_note_1.md) He then ran away to a
 > good distance, and listened: no Tiger. He went farther and listened
 > again: still no tiger. And yet farther did he go, and listened once
 > more: yes, he could just hear the brute growling. Still faster did he
@@ -767,7 +767,7 @@ K<span class="small">ILLED BY A</span> T<span class="small">IGER</span>
 > it is your duty to do it." The father thereupon gave him a kind of
 > greenish stone as a present, and said he would accompany him: the
 > champion thereupon agreed to destroy the animal.<span
-> id="page_210_fr_2"></span>[2](#page_210_note_2) The pair then turned
+> id="page_210_fr_2"></span>[2](#page_210_note_2.md) The pair then turned
 > to the men in the company and asked them to join in, but they were all
 > too frightened. The champion thereupon twitted them on their
 > cowardice, saying: <span id="page_211">p. 211</span> "Now is an
@@ -783,7 +783,7 @@ K<span class="small">ILLED BY A</span> T<span class="small">IGER</span>
 > showed fight; a poor fight, though, because the champion easily slew
 > him. And when dead, they opened the belly, from which they removed the
 > dead boy's flesh and placed it in a grave.<span
-> id="page_211_fr_1"></span>[1](#page_211_note_1) But they cut up the
+> id="page_211_fr_1"></span>[1](#page_211_note_1.md) But they cut up the
 > tiger carcass, "fine, fine, fine." The champion then turned to the
 > father and consoled him thus: "Grieve no more over your son. His death
 > has been paid for \[i. e. revenged\] by that of Tiger."
@@ -791,7 +791,7 @@ K<span class="small">ILLED BY A</span> T<span class="small">IGER</span>
  
 
 <span id="story_49"></span><span
-id="pp_140"></span>**140.**[\*](#pp_140) D<span
+id="pp_140"></span>**140.**[\*](#pp_140.md) D<span
 class="small">ON'T</span> C<span class="small">OUNT YOUR</span> C<span
 class="small">HICKENS BEFORE THEY ARE</span> H<span
 class="small">ATCHED</span> (C)
@@ -818,7 +818,7 @@ class="small">ATCHED</span> (C)
  
 
 <span id="story_50"></span><span
-id="pp_140A"></span>**140A.**[\*](#pp_140A) T<span
+id="pp_140A"></span>**140A.**[\*](#pp_140A.md) T<span
 class="small">HE</span> B<span class="small">ITER</span> B<span
 class="small">IT</span> (C)
 
@@ -846,11 +846,11 @@ class="small">IT</span> (C)
  
 
 <span id="story_51"></span><span
-id="pp_141"></span>**141.**[\*](#pp_141) H<span class="small">OW</span>
+id="pp_141"></span>**141.**[\*](#pp_141.md) H<span class="small">OW</span>
 A<span class="small">LLIGATOR</span> C<span class="small">AME TO</span>
 H<span class="small">AVE HIS</span> P<span class="small">RESENT</span>
 S<span class="small">HAPE</span><span
-id="page_212_fr_1"></span>[1](#page_212_note_1)
+id="page_212_fr_1"></span>[1](#page_212_note_1.md)
 
 >    Adaili \[Hadalli\] is the Sun, but when long ago he came to earth
 > in the shape of a man, he was called Arawidi. Once, after fishing in a
@@ -862,19 +862,19 @@ id="page_212_fr_1"></span>[1](#page_212_note_1)
 > that it offered him a girl for wife if he would only stop, Arawidi
 > accepted these terms, but to this day the alligator shows the marks of
 > the thrashing on its battered head, and in the notches along its
-> tail.<span id="page_212_fr_2"></span>[2](#page_212_note_2)
+> tail.<span id="page_212_fr_2"></span>[2](#page_212_note_2.md)
 
  
 
 <span id="story_52"></span><span
-id="pp_142"></span>**142.**[\*](#pp_142) H<span class="small">OW
+id="pp_142"></span>**142.**[\*](#pp_142.md) H<span class="small">OW
 THE</span> B<span class="small">IRDS</span> O<span class="small">BTAINED
 THEIR</span> D<span class="small">ISTINCTIVE</span> M<span
 class="small">ARKINGS</span><span
-id="page_212_fr_3"></span>[3](#page_212_note_3)
+id="page_212_fr_3"></span>[3](#page_212_note_3.md)
 
 >    An Arawak hunter captures a Vulture, daughter of Anuanima.<span
-> id="page_212_fr_4"></span>[4](#page_212_note_4) She lays aside her
+> id="page_212_fr_4"></span>[4](#page_212_note_4.md) She lays aside her
 > feathers, appears before him as a beautiful girl, becomes his wife,
 > bears him above the clouds, and after much trouble persuades her
 > father and family to receive him. All then goes well until he
@@ -893,9 +893,9 @@ id="page_212_fr_3"></span>[3](#page_212_note_3)
 > white cotton, pretending to be sick, but being detected, was sentenced
 > to wear it continually. He is noted for his hostility to hawks and
 > other large birds which he attacks incessantly when on the wing.<span
-> id="page_212_fr_5"></span>[5](#page_212_note_5) . . . The Warracabba,
+> id="page_212_fr_5"></span>[5](#page_212_note_5.md) . . . The Warracabba,
 > or trumpeter bird \[*Psophia crepitans*\],<span
-> id="page_212_fr_6"></span>[6](#page_212_note_6) and another \[the
+> id="page_212_fr_6"></span>[6](#page_212_note_6.md) and another \[the
 > Sakka-sakkali, a kingfisher\] quarreled over the spoil and knocked
 > each other over in the ashes. The former arose with patches of gray,
 > while the other became gray all over. The Owl discovered among the
@@ -905,26 +905,26 @@ id="page_212_fr_3"></span>[3](#page_212_note_3)
  
 
 <span id="story_53"></span><span
-id="pp_143"></span>**143.**[\*](#pp_143) T<span class="small">HE</span>
+id="pp_143"></span>**143.**[\*](#pp_143.md) T<span class="small">HE</span>
 D<span class="small">EER AND THE</span> T<span
 class="small">URTLE</span> (A)
 
 >    The Deer met the Turtle one day, while cleaning his hoofs—for in
 > those days turtle wore hoofs and the deer had claws,—and said: "My
 > friend, you have nice sandals.<span
-> id="page_212_fr_7"></span>[7](#page_212_note_7) <span id="page_213">p.
+> id="page_212_fr_7"></span>[7](#page_212_note_7.md) <span id="page_213">p.
 > 213</span> Let me have a trial of them." The Turtle, who was very
 > proud of them, said: "Certainly. Why not?" and handed them over,
 > receiving in exchange the Deer's nails. When the Deer now put on the
 > hoofs, he found that he could walk ever so much quicker than before,
 > and trotted off. The poor Turtle, however, found his progress impeded,
 > and stood still, waiting every minute for the Deer to return, but he
-> never did so.<span id="page_213_fr_1"></span>[1](#page_213_note_1)
+> never did so.<span id="page_213_fr_1"></span>[1](#page_213_note_1.md)
 
  
 
 <span id="story_54"></span><span
-id="pp_144"></span>**144.**[\*](#pp_144) B<span
+id="pp_144"></span>**144.**[\*](#pp_144.md) B<span
 class="small">LACK</span> T<span class="small">IGER,</span> W<span
 class="small">AU-UTA, AND THE</span> B<span class="small">ROKEN</span>
 A<span class="small">RROW</span> (W)
@@ -937,7 +937,7 @@ A<span class="small">RROW</span> (W)
 > one direction while they went in another, arranging to meet at a
 > certain place. The route which the two wicked brothers instructed him
 > to follow led to the lair of Tobe-horoanna,<span
-> id="page_213_fr_2"></span>[2](#page_213_note_2) but the intended
+> id="page_213_fr_2"></span>[2](#page_213_note_2.md) but the intended
 > victim did not know this. He went on and on and came to a big path,
 > which caused him to exclaim, "Where am I going now?" While thus
 > talking to himself, he heard a great rushing noise approaching, and
@@ -973,7 +973,7 @@ A<span class="small">RROW</span> (W)
 > in hunting all other animals, in addition to the glory he had earned
 > in ridding the country of Tobe-horo-anna. Whom could he consult better
 > than Wau-uta, the Tree-frog?<span
-> id="page_213_fr_3"></span>[3](#page_213_note_3) So he went along until
+> id="page_213_fr_3"></span>[3](#page_213_note_3.md) So he went along until
 > he found the tree wherein she resided, and stepping underneath, he
 > commenced calling upon her to help him; and he continued <span
 > id="page_214">p. 214</span> calling until the day began to darken. But
@@ -982,7 +982,7 @@ A<span class="small">RROW</span> (W)
 > came on, he started crying. He knew full well that if he cried long
 > enough she would come down, just as a woman does when, after refusing
 > a man once, she finally takes pity when she hears him weeping.<span
-> id="page_214_fr_1"></span>[1](#page_214_note_1) As he stood wailing
+> id="page_214_fr_1"></span>[1](#page_214_note_1.md) As he stood wailing
 > underneath the tree, what should come trooping up but a whole string
 > of birds, all arranged in regular order, according to size, from the
 > smallest to the largest? The little Doroquara \[*Odontophorus*\] came
@@ -1007,12 +1007,12 @@ A<span class="small">RROW</span> (W)
 > was covered with fungus; he looked at his other arm, which was just
 > the same. It was this same fungus that had always given him bad luck,
 > so he promptly scraped it all off.<span
-> id="page_214_fr_2"></span>[2](#page_214_note_2) Wau-uta's arrow was
+> id="page_214_fr_2"></span>[2](#page_214_note_2.md) Wau-uta's arrow was
 > very curious looking, as said before. It had been broken into three or
 > four pieces, which had been subsequently spliced. Wau-uta now gave it
 > to the man in exchange for her own, and bidding him put it to his bow,
 > told him to shoot at a thin vine rope<span
-> id="page_214_fr_3"></span>[3](#page_214_note_3) hanging a long way
+> id="page_214_fr_3"></span>[3](#page_214_note_3.md) hanging a long way
 > off: the arrow hit the mark. Replacing the arrow on the bowstring,
 > Wau-uta instructed him to shoot into the air, and in whatever
 > direction he sent his arrow, so soon as it came to earth it stuck into
@@ -1044,7 +1044,7 @@ A<span class="small">RROW</span> (W)
  
 
 <span id="story_55"></span><span
-id="pp_145"></span>**145.**[\*](#pp_145) T<span class="small">HE</span>
+id="pp_145"></span>**145.**[\*](#pp_145.md) T<span class="small">HE</span>
 S<span class="small">TORY OF</span> A<span class="small">DABA</span> (A)
 
 >    There were once three brothers who went out to hunt, taking their
@@ -1053,11 +1053,11 @@ S<span class="small">TORY OF</span> A<span class="small">DABA</span> (A)
 > game. Every day the three brothers went hunting in all directions, but
 > never brought back any meat except a powis. This happened for many
 > days. Now there was an Adaba \[tree-frog\] living in a hollow tree
-> \[[Sect. *144*](aflg09.htm#pp_144)\] which contained a little water,
+> \[[Sect. *144*](aflg09.htm#pp_144.md)\] which contained a little water,
 > close to the banab, and one afternoon he was singing his song, *Wang!
 > Wang! Wang!* when the girl heard him. "What are you holloing for?" she
 > said; "it would be much better if you stopped that noise and brought
-> me some game to eat" \[[Sect. *130*](aflg08.htm#pp_130)\]. So the
+> me some game to eat" \[[Sect. *130*](aflg08.htm#pp_130.md)\]. So the
 > Adaba stopped holloing, changed himself into a man, went away into the
 > bush, and returned in about two hours with some meat for her. "Cook
 > this," he told her, "before your brothers come back: as usual they
@@ -1073,7 +1073,7 @@ S<span class="small">TORY OF</span> A<span class="small">DABA</span> (A)
 > these, he burst into a hearty laugh, and pointing to the fungus that
 > was growing everywhere on them, said that so long as they did not
 > remove this stuff their arrows would never shoot straight \[[Sect.
-> *144*](aflg09.htm#pp_144)\]. He also cleaned their arrows for them.
+> *144*](aflg09.htm#pp_144.md)\]. He also cleaned their arrows for them.
 > Adaba then told their sister to spin a fishing-line which, when
 > completed, he tied between two trees. He next told the brothers to
 > take aim at the fishing-line, with the cleaned arrows, and shoot. They
@@ -1107,7 +1107,7 @@ S<span class="small">TORY OF</span> A<span class="small">DABA</span> (A)
  
 
 <span id="story_56"></span><span
-id="pp_146"></span>**146.**[\*](#pp_146) W<span class="small">HY
+id="pp_146"></span>**146.**[\*](#pp_146.md) W<span class="small">HY
 THE</span> I<span class="small">NDIANS</span> K<span
 class="small">ILLED</span> B<span class="small">LACK</span> T<span
 class="small">IGER</span> (W)
@@ -1170,14 +1170,14 @@ class="small">IGER</span> (W)
  
 
 <span id="story_57"></span><span
-id="pp_147"></span>**147.**[\*](#pp_147) B<span
+id="pp_147"></span>**147.**[\*](#pp_147.md) B<span
 class="small">RAVERY</span> R<span class="small">EWARDED WITH A</span>
 W<span class="small">IFE</span> (W)<span
-id="page_216_fr_1"></span>[1](#page_216_note_1)
+id="page_216_fr_1"></span>[1](#page_216_note_1.md)
 
 >    Some men were out hunting, when they came across a dead mora tree
 > that had a daiha creeper<span
-> id="page_216_fr_2"></span>[2](#page_216_note_2) growing over it. So
+> id="page_216_fr_2"></span>[2](#page_216_note_2.md) growing over it. So
 > soon as they reached home they told their wives, who were very glad to
 > hear of the find, and arranged among themselves to go next day to
 > gather the bark. They took a little boy with them for company, and,
@@ -1224,7 +1224,7 @@ id="page_216_fr_1"></span>[1](#page_216_note_1)
  
 
 <span id="story_58"></span><span
-id="pp_148"></span>**148.**[\*](#pp_148) W<span class="small">HY</span>
+id="pp_148"></span>**148.**[\*](#pp_148.md) W<span class="small">HY</span>
 B<span class="small">LACK</span> T<span class="small">IGER</span> K<span
 class="small">ILLED THE</span> I<span class="small">NDIANS</span> (W)
 
@@ -1287,14 +1287,14 @@ class="small">ILLED THE</span> I<span class="small">NDIANS</span> (W)
  
 
 <span id="story_59"></span><span
-id="pp_149"></span>**149.**[\*](#pp_149) B<span
+id="pp_149"></span>**149.**[\*](#pp_149.md) B<span
 class="small">Á-MU</span> \[B<span class="small">AHMOO</span>\] <span
 class="small">AND THE</span> F<span class="small">ROG</span>
 
    To account for the division of mankind into races, the following
 little story is given by Brett ([BrB,
-167](../lmbg/lmbg5b.htm#page_167)):<span
-id="page_218_fr_1"></span>[1](#page_218_note_1) it is not Arawak.
+167](../lmbg/lmbg5b.htm#page_167).md):<span
+id="page_218_fr_1"></span>[1](#page_218_note_1.md) it is not Arawak.
 
 >    Bamu came to visit some friends who were about to go
 > frog-hunting—hunting for none of your small-sized frogs but for frogs
@@ -1317,7 +1317,7 @@ id="page_218_fr_1"></span>[1](#page_218_note_1) it is not Arawak.
  
 
 <span id="story_60"></span><span
-id="pp_150"></span>**150.**[\*](#pp_150) H<span class="small">OW
+id="pp_150"></span>**150.**[\*](#pp_150.md) H<span class="small">OW
 THE</span> M<span class="small">AN</span> F<span class="small">OOLED
 THE</span> T<span class="small">IGER</span> (C)
 
@@ -1330,7 +1330,7 @@ THE</span> T<span class="small">IGER</span> (C)
 > only said: "Oh! never mind. I am not afraid, and if I meet him I <span
 > id="page_219">p. 219</span> will kill him." So saying, he hung his
 > poto \[stone-club\]<span
-> id="page_219_fr_1"></span>[1](#page_219_note_1) over his arm, and went
+> id="page_219_fr_1"></span>[1](#page_219_note_1.md) over his arm, and went
 > out into the darkness. Being more or less drunk, he staggered along,
 > and soon fell dead asleep on the road just about the very spot where
 > the Tiger, of which he had been warned, used to cross. Tiger found him
@@ -1356,7 +1356,7 @@ THE</span> T<span class="small">IGER</span> (C)
 > went and saw with his own eyes, he had to admit that his late guest
 > had spoken truly.
 
-   <span id="pp_151"></span>**151.**[\*](#pp_151) Among the Arawaks
+   <span id="pp_151"></span>**151.**[\*](#pp_151.md) Among the Arawaks
 tradition has it that the old stone axes, or *wakili-na-baro* (lit.
 ancients-their-ax), came from a far distant country, from a place so far
 away that it took years for those who went in search of them to get back
@@ -1385,7 +1385,7 @@ which I propose naming—
 
  
 
-<span id="story_61"></span>[\*](#story_61)T<span class="small">HE</span>
+<span id="story_61"></span>[\*](#story_61.md)T<span class="small">HE</span>
 S<span class="small">EARCH FOR THE</span> S<span
 class="small">TONE</span> A<span class="small">X</span> (A)
 
@@ -1403,18 +1403,18 @@ class="small">TONE</span> A<span class="small">X</span> (A)
 > crew to shoot arrows into this blue water; where an arrow sank, there
 > did danger lurk; where one floated, there the corial was enabled to
 > pass. The sea was ultimately crossed in safety by this means. (Cf.
-> [Sect. *330*](aflg18.htm#pp_330).)
+> [Sect. *330*](aflg18.htm#pp_330)..md)
 
  
 
-<span id="story_62"></span>[\*](#story_62)T<span class="small">HE</span>
+<span id="story_62"></span>[\*](#story_62.md)T<span class="small">HE</span>
 H<span class="small">URI</span> F<span class="small">ISH</span> N<span
 class="small">ATION</span>
 
->    <span id="pp_152"></span>**152.**[\*](#pp_152) They visited many
+>    <span id="pp_152"></span>**152.**[\*](#pp_152.md) They visited many
 > nations. One day, as they were traveling along, the old man told them
 > that they were approaching the Huri \[*Macrodon* sp.\] Fish Nation
-> \[[Sect. *178*](aflg12.htm#pp_178)\] and that, when they reached the
+> \[[Sect. *178*](aflg12.htm#pp_178.md)\] and that, when they reached the
 > landing place, they would see large numbers fish lying in the sand,
 > but they were neither to shoot them with their arrows nor chop them
 > with their knives, because they were really men and women. What the
@@ -1444,11 +1444,11 @@ class="small">ATION</span>
 
  
 
-<span id="story_63"></span>[\*](#story_63)H<span class="small">OW
+<span id="story_63"></span>[\*](#story_63.md)H<span class="small">OW
 THE</span> A<span class="small">NT-EATER</span> F<span
 class="small">OOLED THE</span> M<span class="small">AN</span>
 
->    <span id="pp_153"></span>**153.**[\*](#pp_153) They went on again
+>    <span id="pp_153"></span>**153.**[\*](#pp_153.md) They went on again
 > and, reaching another country, woke up one morning very hungry. The
 > old man sent all his crew out a-hunting, and told them that no matter
 > what animal they saw, they were to shoot with their arrows, or club
@@ -1478,11 +1478,11 @@ class="small">OOLED THE</span> M<span class="small">AN</span>
 
  
 
-<span id="story_64"></span>[\*](#story_64)H<span class="small">OW
+<span id="story_64"></span>[\*](#story_64.md)H<span class="small">OW
 THE</span> I<span class="small">NDIANS</span> L<span
 class="small">EARNED TO</span> P<span class="small">ADDLE</span>
 
->    <span id="pp_154"></span>**154.**[\*](#pp_154) Another country
+>    <span id="pp_154"></span>**154.**[\*](#pp_154.md) Another country
 > which they visited in the course of their peregrinations was peculiar
 > in that its inhabitants could travel in their corials only with the
 > tide. As a matter of fact, they had paddles, but did not know how to
@@ -1493,7 +1493,7 @@ class="small">EARNED TO</span> P<span class="small">ADDLE</span>
 > stream, and make fast their corial in it until the tide turned again.
 > The old leader, who, as has already been stated, was a medicine-man,
 > changed himself into a bunia, and yelled out its note *Tarbaran!
-> Tarbaran!*<span id="page_221_fr_1"></span>[1](#page_221_note_1) Now,
+> Tarbaran!*<span id="page_221_fr_1"></span>[1](#page_221_note_1.md) Now,
 > when some of the people who were paddling in this curious fashion
 > heard what the bird said, they were annoyed, and remarked: "Nonsense!
 > If we were to take the broadsides of our paddles and hit you on the
@@ -1505,14 +1505,14 @@ class="small">EARNED TO</span> P<span class="small">ADDLE</span>
 > bunia had shown them, and found that by this means they could go up
 > and down the stream quite independent of the current. They never used
 > their paddles edgewise again.<span
-> id="page_221_fr_2"></span>[2](#page_221_note_2)
+> id="page_221_fr_2"></span>[2](#page_221_note_2.md)
 
  
 
-<span id="story_65"></span>[\*](#story_65)T<span class="small">HE</span>
+<span id="story_65"></span>[\*](#story_65.md)T<span class="small">HE</span>
 B<span class="small">IG</span> B<span class="small">ATS</span>
 
->    <span id="pp_155"></span>**155.**[\*](#pp_155) The search party
+>    <span id="pp_155"></span>**155.**[\*](#pp_155.md) The search party
 > continued their journey, and at nightfall reached a landing. Now this
 > was in the country of the Bat Tribe, and the old man warned his crew
 > that it was very dangerous for them in sling their hammocks on the
@@ -1536,10 +1536,10 @@ B<span class="small">IG</span> B<span class="small">ATS</span>
 
  
 
-<span id="story_66"></span>[\*](#story_66)T<span class="small">HE</span>
+<span id="story_66"></span>[\*](#story_66.md)T<span class="small">HE</span>
 M<span class="small">AGIC</span> B<span class="small">OAT</span>
 
->    <span id="pp_156"></span>**156.**[\*](#pp_156) On and on the party
+>    <span id="pp_156"></span>**156.**[\*](#pp_156.md) On and on the party
 > went, and in the afternoon they came to a landing where there was a
 > beautiful canoe with a paddle inside it. But the old man warned them
 > to leave it strictly alone. "Don't," he said, "any of you get into
@@ -1553,14 +1553,14 @@ M<span class="small">AGIC</span> B<span class="small">OAT</span>
 > nearer and nearer, admiring it more and more, until he finally jumped
 > in. No sooner had he done so, than the vessel went off with him and
 > neither boat nor occupant was seen again.<span
-> id="page_222_fr_1"></span>[1](#page_222_note_1)
+> id="page_222_fr_1"></span>[1](#page_222_note_1.md)
 
  
 
-<span id="story_67"></span>[\*](#story_67)T<span class="small">HE</span>
+<span id="story_67"></span>[\*](#story_67.md)T<span class="small">HE</span>
 A<span class="small">MAZONS</span>
 
->    <span id="pp_157"></span>**157.**[\*](#pp_157) Again they all
+>    <span id="pp_157"></span>**157.**[\*](#pp_157.md) Again they all
 > started away, and after a time arrived at a landing-place whence an
 > Indian house could be seen. With the old man leading his crew
 > Indian-file up the pathway, they soon reached the house, where they
@@ -1588,19 +1588,19 @@ A<span class="small">MAZONS</span>
 > else they went fishing, just reversing the usual order of things, and
 > leaving the men in the hammocks to rest. It was naturally many years
 > before the crew finally got away from this settlement.<span
-> id="page_222_fr_2"></span>[2](#page_222_note_2)
+> id="page_222_fr_2"></span>[2](#page_222_note_2.md)
 
 <span id="page_223">p. 223</span>
 
  
 
-<span id="story_68"></span>[\*](#story_68)T<span class="small">HE</span>
+<span id="story_68"></span>[\*](#story_68.md)T<span class="small">HE</span>
 C<span class="small">OUNTRY OF THE</span> S<span
 class="small">TONE</span> A<span class="small">DZES</span>
 
->    <span id="pp_158"></span>**158.**[\*](#pp_158) At last they arrived
+>    <span id="pp_158"></span>**158.**[\*](#pp_158.md) At last they arrived
 > at the country of the stone adzes, where all the people were really
-> stones,<span id="page_223_fr_1"></span>[1](#page_223_note_1) and some
+> stones,<span id="page_223_fr_1"></span>[1](#page_223_note_1.md) and some
 > of these they brought away with them, The party finally reached home
 > again, and the old man warned them \[ut abstinerent de copulatione cum
 > uxoribus suis per tantas noctes\]. One of the men, however, disobeying
@@ -1610,7 +1610,7 @@ class="small">TONE</span> A<span class="small">DZES</span>
  
 
 <span id="story_69"></span><span
-id="pp_159"></span>**159.**[\*](#pp_159) H<span class="small">OW</span>
+id="pp_159"></span>**159.**[\*](#pp_159.md) H<span class="small">OW</span>
 T<span class="small">URTLE</span> F<span class="small">OOLED THE</span>
 Y<span class="small">AWARRI</span> (W, C)
 
@@ -1646,7 +1646,7 @@ Y<span class="small">AWARRI</span> (W, C)
  
 
 <span id="story_70"></span><span
-id="pp_160"></span>**160.**[\*](#pp_160) H<span class="small">OW
+id="pp_160"></span>**160.**[\*](#pp_160.md) H<span class="small">OW
 THE</span> T<span class="small">URTLE</span> T<span class="small">RICKED
 THE</span> T<span class="small">IGER</span> (W)
 
@@ -1662,7 +1662,7 @@ THE</span> T<span class="small">IGER</span> (W)
 > the same, and suggested that their respective statements be put to the
 > proof. This was agreed on, Turtle stipulating only that during the
 > test they should both keep their eyes shut, an arrangement to which
-> Tiger agreed.<span id="page_223_fr_2"></span>[2](#page_223_note_2)
+> Tiger agreed.<span id="page_223_fr_2"></span>[2](#page_223_note_2.md)
 > "Now, didn't I tell you?" said Turtle, "that I could do exactly the
 > same as you and even go one better?" Tiger was loth to admit this, and
 > therefore maintained: "Well, even if you are stronger than I, I am
@@ -1682,7 +1682,7 @@ THE</span> T<span class="small">IGER</span> (W)
 > friend. He raced on, finds another turtle ahead of him, thinks the
 > same thing, and so meeting turtle after turtle finally reaches the
 > goal, where his original "friend" had certainly arrived first.<span
-> id="page_224_fr_1"></span>[1](#page_224_note_1) Tiger therefore had to
+> id="page_224_fr_1"></span>[1](#page_224_note_1.md) Tiger therefore had to
 > admit, "Yes, man, you have beaten me," Turtle adding: "So you are not
 > after all either the stronger or the faster. Come, let us see who is
 > now the cleverer. I will put marks on you and you put marks on me:
@@ -1711,7 +1711,7 @@ THE</span> T<span class="small">IGER</span> (W)
 > curling himself up, soon fell asleep. Turtle, who kept awake, saw what
 > a pretty necklace his companion was wearing (what we Indians call a
 > "tiger-bead") and became envious of it.<span
-> id="page_224_fr_2"></span>[2](#page_224_note_2) Turtle watched very
+> id="page_224_fr_2"></span>[2](#page_224_note_2.md) Turtle watched very
 > carefully and, assured that he was in a deep slumber, quietly and
 > softly removed the necklace, which he handed to one of his friends in
 > the neighborhood, telling the latter to make off with it. When Tiger
@@ -1740,9 +1740,9 @@ THE</span> T<span class="small">IGER</span> (W)
  
 
 <span id="story_71"></span><span
-id="pp_161"></span>**161.**[\*](#pp_161) T<span class="small">IGER
+id="pp_161"></span>**161.**[\*](#pp_161.md) T<span class="small">IGER
 AND</span> A<span class="small">NT-EATER</span> (C)<span
-id="page_225_fr_1"></span>[1](#page_225_note_1)
+id="page_225_fr_1"></span>[1](#page_225_note_1.md)
 
 >    One day Tiger met the Tamanoa (Great Ant-eater) in the forest, and
 > chaffed him about his funny mouth and his clumsy toes. "Never mind,"
@@ -1776,16 +1776,16 @@ id="page_225_fr_1"></span>[1](#page_225_note_1)
 > commenced fighting. Tiger made a spring forward at the same time that
 > Tamanoa ducked his head; the latter, seizing Tiger by the ribs, once
 > his hold was secure, easily crushed him—and Tiger "soon dead."<span
-> id="page_225_fr_2"></span>[2](#page_225_note_2)
+> id="page_225_fr_2"></span>[2](#page_225_note_2.md)
 
  
 
 <span id="story_72"></span><span
-id="pp_162"></span>**162.**[\*](#pp_162) H<span class="small">OW</span>
+id="pp_162"></span>**162.**[\*](#pp_162.md) H<span class="small">OW</span>
 B<span class="small">IRDS</span> G<span class="small">OT THEIR</span>
 P<span class="small">RESENT</span> P<span
 class="small">LUMAGE</span><span
-id="page_225_fr_3"></span>[3](#page_225_note_3)
+id="page_225_fr_3"></span>[3](#page_225_note_3.md)
 
 >    Once upon a time there was a Water Serpent, a huge creature with a
 > most brilliant skin of red, yellow, green, black, and white in
@@ -1794,7 +1794,7 @@ id="page_225_fr_3"></span>[3](#page_225_note_3)
 > combined forces to destroy him, and the creature's skin was promised
 > to the first one who made him come out of the pool. But all were
 > afraid to tackle him except Cormorant,<span
-> id="page_225_fr_4"></span>[4](#page_225_note_4) who, darting down into
+> id="page_225_fr_4"></span>[4](#page_225_note_4.md) who, darting down into
 > the water, drove an arrow through his neck—an arrow fastened by a
 > string to a tree on the bank, by means of which he was finally drawn
 > to land, where he was skinned. Cormorant claimed the skin, and the
@@ -1813,7 +1813,7 @@ id="page_225_fr_3"></span>[3](#page_225_note_3)
  
 
 <span id="story_73"></span><span
-id="pp_162A"></span>**162A.**[\*](#pp_162A) H<span class="small">UNTING
+id="pp_162A"></span>**162A.**[\*](#pp_162A.md) H<span class="small">UNTING
 IS NO</span> P<span class="small">ART OF</span> W<span
 class="small">OMAN'S</span> W<span class="small">ORK</span> (W)
 
@@ -1845,7 +1845,7 @@ class="small">OMAN'S</span> W<span class="small">ORK</span> (W)
  
 
 <span id="story_74"></span><span
-id="pp_162B"></span>**162B.**[\*](#pp_162B) H<span class="small">OW
+id="pp_162B"></span>**162B.**[\*](#pp_162B.md) H<span class="small">OW
 THE</span> T<span class="small">APIR</span> P<span class="small">UNISHED
 THE</span> I<span class="small">NDIAN</span> (W)
 
@@ -1872,10 +1872,10 @@ THE</span> I<span class="small">NDIAN</span> (W)
  
 
 <span id="story_75"></span><span
-id="pp_162C"></span>**162C.**[\*](#pp_162C) T<span
+id="pp_162C"></span>**162C.**[\*](#pp_162C.md) T<span
 class="small">HE</span> T<span class="small">URTLE AND THE</span> A<span
 class="small">RURESSO</span> B<span class="small">IRD</span><span
-id="page_226_fr_1"></span>[1](#page_226_note_1) (W)
+id="page_226_fr_1"></span>[1](#page_226_note_1) (W.md)
 
 >    A woman had a daughter with whom Turtle and Aruresso were anxious
 > to go courting, and, not knowing which to choose for son-in-law, she
@@ -1905,11 +1905,11 @@ id="page_226_fr_1"></span>[1](#page_226_note_1) (W)
  
 
 <span id="story_76"></span><span
-id="pp_162D"></span>**162D.**[\*](#pp_162D) S<span
+id="pp_162D"></span>**162D.**[\*](#pp_162D.md) S<span
 class="small">ISTERS</span> B<span class="small">USH-COW</span> (T<span
 class="small">APIR</span>) <span class="small">AND</span> W<span
 class="small">ATER-COW</span> (M<span class="small">ANATI</span>)
-(W)<span id="page_227_fr_1"></span>[1](#page_227_note_1)
+(W)<span id="page_227_fr_1"></span>[1](#page_227_note_1.md)
 
 >    There was once a lovely big plum tree, and two sisters would come
 > regularly and pick the fruit. One day while thus busily engaged, a
@@ -1943,7 +1943,7 @@ class="small">ATER-COW</span> (M<span class="small">ANATI</span>)
 > managed, however, to slip into the water, and coming to the surface,
 > exclaimed, "People will henceforth call me water-cow." Then, diving
 > three times, she came up finally entirely in the shape of that
-> creature.<span id="page_227_fr_2"></span>[2](#page_227_note_2) The
+> creature.<span id="page_227_fr_2"></span>[2](#page_227_note_2.md) The
 > elder sister thereupon rushed into the bush, and changed herself into
 > a Bush-cow. Bush-cow and water-cow often meet nowadays at the
 > waterside and have a chat. Of course they understand each other;
@@ -1951,7 +1951,7 @@ class="small">ATER-COW</span> (M<span class="small">ANATI</span>)
 
 ------------------------------------------------------------------------
 
-[Next](aflg10)
+[Next](aflg10.md)
 
 ------------------------------------------------------------------------
 
@@ -1959,16 +1959,16 @@ class="small">ATER-COW</span> (M<span class="small">ANATI</span>)
 
 <span id="footnotes_page_200">p. 200</span>
 
-<span id="page_200_note_1"></span>[1](#page_200_fr_1) This *ahawara* is
+<span id="page_200_note_1"></span>[1](#page_200_fr_1.md) This *ahawara* is
 the Warrau term for race, nation, tribe, etc.; thus *Arawak-u ahawara*
 signifies the Arawak nation.
 
-<span id="page_200_note_2"></span>[2](#page_200_fr_2) Three Indian
+<span id="page_200_note_2"></span>[2](#page_200_fr_2.md) Three Indian
 customs are involved in this action: (*a*) The wife was tabooed from
 touching the meat, owing to her physiological condition ([Sect.
-*274*](aflg16.htm#pp_274)). (*b*) Her newly-acquired husband must not
+*274*](aflg16.htm#pp_274)). (*b*.md) Her newly-acquired husband must not
 bring it into the house, otherwise he would lose his luck in hunting
-that particular animal ([Sect. *244*](aflg15.htm#pp_244)). (*c*) A man
+that particular animal ([Sect. *244*](aflg15.htm#pp_244)). (*c*.md) A man
 and his father-in-law, though they may converse in a friendly enough
 manner on everyday general topics, must never give each other any orders
 or instructions except through the medium of the wife, she being the
@@ -1976,19 +1976,19 @@ go-between, so to speak.
 
 <span id="footnotes_page_201">p. 201</span>
 
-<span id="page_201_note_1"></span>[1](#page_201_fr_1) Quite recently a
+<span id="page_201_note_1"></span>[1](#page_201_fr_1.md) Quite recently a
 woman complained about having been turned off a certain mission-station,
 for the sole reason discoverable by me that she wanted to live with her
 deceased sister's husband. On the other hand, when the missionary joins
 certain cousins in wedlock, the old Indians regard this as bestial and
 incestuous: it is a matter of blood-relationship.—W. E. R.
 
-<span id="page_201_note_2"></span>[2](#page_201_fr_2) During the
+<span id="page_201_note_2"></span>[2](#page_201_fr_2.md) During the
 promiscuous bathing indulged in by the untutored Indians, the fact of a
 woman doing this to a member of the opposite sex is tantamount to
 solicitation.
 
-<span id="page_201_note_3"></span>[3](#page_201_fr_3) The idea intended
+<span id="page_201_note_3"></span>[3](#page_201_fr_3.md) The idea intended
 to be conveyed here is that just in the same way that water mixed with
 honey weakens and spoils it, so fire melts and destroys the wax. As
 already mentioned, Simo belonged to the great Bee Nation, whose members
@@ -1996,11 +1996,11 @@ are not made of flesh and bone, but of honey and wax.
 
 <span id="footnotes_page_203">p. 203</span>
 
-<span id="page_203_note_1"></span>[1](#page_203_fr_1) The grindstone
+<span id="page_203_note_1"></span>[1](#page_203_fr_1.md) The grindstone
 referred to here is a large chunk of sandstone, which is brought into
 the Pomeroon District from the Waini by way or trade and barter.
 
-<span id="page_203_note_2"></span>[2](#page_203_fr_2) When, through the
+<span id="page_203_note_2"></span>[2](#page_203_fr_2.md) When, through the
 interpreter, I pointed out to the old woman who told me the story that
 the ending was somewhat unsatisfactory, she reminded me that when
 Tiger's two brothers came to the house, they found only the corpse
@@ -2009,7 +2009,7 @@ transpire subsequently.—W .E. R.
 
 <span id="footnotes_page_204">p. 204</span>
 
-<span id="page_204_note_1"></span>[1](#page_204_fr_1) I happen to know a
+<span id="page_204_note_1"></span>[1](#page_204_fr_1.md) I happen to know a
 woman who has a child with a flexed, deformed hand, with regard to which
 scandal gives the explanation on somewhat the above lines. The mother,
 however, accounts for the deformity in a certainly more rational way by
@@ -2018,7 +2018,7 @@ suddenly coming across a sloth lying in the foot-path.—W. E. R.
 
 <span id="footnotes_page_205">p. 205</span>
 
-<span id="page_205_note_1"></span>[1](#page_205_fr_1) I am afraid my
+<span id="page_205_note_1"></span>[1](#page_205_fr_1.md) I am afraid my
 readers will be weary *ad nauseam* of the reptition, in these legends,
 of cases in which the tongue gets loosened under the influence of drink.
 When, however, one realizes that these bacchanalian orgies constitute an
@@ -2026,36 +2026,36 @@ integral part of the Indian social life, it will be no matter for
 surprise that the old adage, *In vino veritas*, so often finds
 application here.—W. E. R.
 
-<span id="page_205_note_2"></span>[2](#page_205_fr_2) Among all these
+<span id="page_205_note_2"></span>[2](#page_205_fr_2.md) Among all these
 Indians the making of the babracote is woman's work.
 
-<span id="page_205_note_3"></span>[3](#page_205_fr_3) For another Warrau
-version of this story see [Sect. *300*](aflg17.htm#pp_300).
+<span id="page_205_note_3"></span>[3](#page_205_fr_3.md) For another Warrau
+version of this story see [Sect. *300*](aflg17.htm#pp_300.md).
 
 <span id="footnotes_page_206">p. 206</span>
 
-<span id="page_206_note_1"></span>[1](#page_206_fr_1) This part of the
+<span id="page_206_note_1"></span>[1](#page_206_fr_1.md) This part of the
 story will be understood by remembering thst in this *Maurtita* palm the
 bunches of fruit form around the top of the trunk a more or less
 circular obstacle to anything passing to the foliage above.
 
-<span id="page_206_note_2"></span>[2](#page_206_fr_2) This story bears
+<span id="page_206_note_2"></span>[2](#page_206_fr_2.md) This story bears
 somewhat close comparison with those given in [Sects.
-*142*](aflg09.htm#pp_142) and [*303*](aflg17.htm#pp_303).
+*142*](aflg09.htm#pp_142) and [*303*](aflg17.htm#pp_303.md).
 
 <span id="footnotes_page_207">p. 207</span>
 
-<span id="page_207_note_1"></span>[1](#page_207_fr_1) These birds have a
+<span id="page_207_note_1"></span>[1](#page_207_fr_1.md) These birds have a
 feather-coloring somewhat as here mentioned.
 
-<span id="page_207_note_2"></span>[2](#page_207_fr_2) I have failed thus
+<span id="page_207_note_2"></span>[2](#page_207_fr_2.md) I have failed thus
 far to learn the use or meaning of these obsolete ornaments, if
 ornaments indeed they were: on the other hand, there is the possibility
 of them having been the dummy-figures of enemies slain in battle, as we
 know, from historical evidence, it was the custom in old-time Carib
 houses to keep such figures.—W. E. B.
 
-<span id="page_207_note_3"></span>[3](#page_207_fr_3) In the mari-mari
+<span id="page_207_note_3"></span>[3](#page_207_fr_3.md) In the mari-mari
 dance, the name applied to it by Caribs and Warraus, a row of women
 linked together by their arms round waist and shoulder faces a similar
 row of men. In the course of the numerous evolutions each side advances
@@ -2065,21 +2065,21 @@ men, with their backs toward him, the visitor ran but very little risk
 of being seen by them, and yet gained a position of advantage for
 carrying out his designs, as will be immediately seen.
 
-<span id="page_207_note_4"></span>[4](#page_207_fr_4) Though in human
+<span id="page_207_note_4"></span>[4](#page_207_fr_4.md) Though in human
 form, she still had the attributes and tastes of the Vulture.
 
-<span id="page_207_note_5"></span>[5](#page_207_fr_5) The only people
+<span id="page_207_note_5"></span>[5](#page_207_fr_5.md) The only people
 that a married Indian woman can lawfully seek redress from, a procedure
 but very rarely followed, however, are her father and brothers.
 
 <span id="footnotes_page_208">p. 208</span>
 
-<span id="page_208_note_1"></span>[1](#page_208_fr_1) Upon my asking for
+<span id="page_208_note_1"></span>[1](#page_208_fr_1.md) Upon my asking for
 further information about the "steps," I was told that this structure
 had been erected by the birds specially to admit of their human visitor
 reaching the Vulture country.—W. E. R.
 
-<span id="page_208_note_2"></span>[2](#page_208_fr_2) When I expressed
+<span id="page_208_note_2"></span>[2](#page_208_fr_2.md) When I expressed
 doubt as to the practice of handshaking among the Guiana Indians, my
 informant insisted that it certainly constituted the Warrau form of
 greeting. Thus, at a party, or on other occasions when the house-master
@@ -2088,152 +2088,152 @@ water-side and the house, to which, taking him by the hand, he would
 lead him. In other words, the salutation was rather in the form of a
 hand-lead than of a hand-shake.
 
-<span id="page_208_note_3"></span>[3](#page_208_fr_3) She means to
+<span id="page_208_note_3"></span>[3](#page_208_fr_3.md) She means to
 indicate that the young woman has nobody near to look after and protect
 her interests.
 
-<span id="page_208_note_4"></span>[4](#page_208_fr_4) My informant is
+<span id="page_208_note_4"></span>[4](#page_208_fr_4.md) My informant is
 firmly convinced that when vultures assume an anthropomorphic form the
 wattle-like growth on top of the beak becomes a sort of nose-ring.
 
-<span id="page_208_note_5"></span>[5](#page_208_fr_5) It is not a little
+<span id="page_208_note_5"></span>[5](#page_208_fr_5.md) It is not a little
 remarkable that all my English-speaking Indian friends invariably employ
 this expression "to hear" for "to heed." I have noticed and recorded the
 same peculiarity among the Queensland savages. Compare "He that hath
 ears to hear, let him hear," used as a preface to many important
 statements in the Christian Scriptures.—W. E. R.
 
-<span id="page_208_note_6"></span>[6](#page_208_fr_6) Creoles as well as
+<span id="page_208_note_6"></span>[6](#page_208_fr_6.md) Creoles as well as
 English-speaking Indians in the Pomeroon and elsewhere, from the
 association of these two species of birds, speak of the Vulture as the
 Carrion-Crow Governor or "Boss."
 
 <span id="footnotes_page_209">p. 209</span>
 
-<span id="page_209_note_1"></span>[1](#page_209_fr_1) When a monkey is
+<span id="page_209_note_1"></span>[1](#page_209_fr_1.md) When a monkey is
 barbecued, the digits, owing to muscular contraction, invariably become
 strongly flexed.
 
 <span id="footnotes_page_210">p. 210</span>
 
-<span id="page_210_note_1"></span>[1](#page_210_fr_1) It was a custom of
+<span id="page_210_note_1"></span>[1](#page_210_fr_1.md) It was a custom of
 the old-time Warraus thus to castigate themselves with the halves of a
-broken arrow ([Sect. *331*](aflg18.htm#pp_331)) to the belief that this
+broken arrow ([Sect. *331*](aflg18.htm#pp_331).md) to the belief that this
 would endue them with strength and courage.
 
-<span id="page_210_note_2"></span>[2](#page_210_fr_2) All that I can
+<span id="page_210_note_2"></span>[2](#page_210_fr_2.md) All that I can
 learn from the old Warraus about the stone specially singled out here,
 which they called *hebu-bakka*, is that people to the days of long ago
 used to wear it on their necklaces, and that it then passed current to
 trade and barter in just the same way as does our money. (Cf. [Sect.
-*241*](aflg14.htm#pp_241).)—W. E. R.
+*241*](aflg14.htm#pp_241)..md)—W. E. R.
 
 <span id="footnotes_page_211">p. 211</span>
 
-<span id="page_211_note_1"></span>[1](#page_211_fr_1) Old Warraus have
+<span id="page_211_note_1"></span>[1](#page_211_fr_1.md) Old Warraus have
 told me that it was customary thus to open the animal and bury the human
 remains, whenever they succeeded in catching any alligator, camudi, or
 tiger that had recently secured a human victim.—W. E. R.
 
 <span id="footnotes_page_212">p. 212</span>
 
-<span id="page_212_note_1"></span>[1](#page_212_fr_1) According to Brett
-([BrB, 27](../lmbg/lmbg1b.htm#page_27)), this is an Arawak story, but it
+<span id="page_212_note_1"></span>[1](#page_212_fr_1.md) According to Brett
+([BrB, 27](../lmbg/lmbg1b.htm#page_27).md), this is an Arawak story, but it
 is practically identical with the first part of the Makusi legend of
-Makunaima and Pia ([Sect. *39*](aflg02.htm#pp_39)).
+Makunaima and Pia ([Sect. *39*](aflg02.htm#pp_39).md).
 
-<span id="page_212_note_2"></span>[2](#page_212_fr_2) According to the
+<span id="page_212_note_2"></span>[2](#page_212_fr_2.md) According to the
 Akawais, during the course of creation Makunaima missed his fire, which
 the marudi had accidentally swallowed, and began looking for it and
 making inquiries. The other animals told him that the alligator, whom
 they all disliked, had stolen it, so he forced open the reptile's mouth
 to search, and finding its tongue in the way, pulled it out. The tongue
 of the alligator, previous to this calamity, is supposed to have been
-long and flexible. ([BrB, 132](../lmbg/lmbg4b.htm#page_132).)
+long and flexible. ([BrB, 132](../lmbg/lmbg4b.htm#page_132)..md)
 
-<span id="page_212_note_3"></span>[3](#page_212_fr_3) See [BrB,
-29](../lmbg/lmbg1b.htm#page_29).
+<span id="page_212_note_3"></span>[3](#page_212_fr_3.md) See [BrB,
+29](../lmbg/lmbg1b.htm#page_29.md).
 
-<span id="page_212_note_4"></span>[4](#page_212_fr_4) I find that this
+<span id="page_212_note_4"></span>[4](#page_212_fr_4.md) I find that this
 name should be Annuánna, the carrion crow: indeed it almost would seem
 that the legend is but an Arawak version of the latter part of the
-Warrau story given in [Sect. *137*](aflg09.htm#pp_137).—W. E. R.
+Warrau story given in [Sect. *137*](aflg09.htm#pp_137.md).—W. E. R.
 
-<span id="page_212_note_5"></span>[5](#page_212_fr_5) An Arawak woman
+<span id="page_212_note_5"></span>[5](#page_212_fr_5.md) An Arawak woman
 told me that two somewhat similar birds, the Tillili and the Fai-fai-a,
 joined the Itiki (the Arawak name for the kiskedee) in playing
 malingerers. The Fai-fai-a is now always making kind of moaning noise to
 show how much he grieves at not having taken part in the fray.—W .E. R.
 
-<span id="page_212_note_6"></span>[6](#page_212_fr_6) In the Akawai
-story of Creation Brett ([BrB, 131](../lmbg/lmbg4b.htm#page_131)) speaks
+<span id="page_212_note_6"></span>[6](#page_212_fr_6.md) In the Akawai
+story of Creation Brett ([BrB, 131](../lmbg/lmbg4b.htm#page_131).md) speaks
 of the trumpeter bird flying down into a ants' nest, thus getting her
 legs, which had previously been nice and plump, picked quite clean. On
 the same occasion, the Marudi (*Penelope* sp.), thinking some glowing
 hot embers to be an insect, swallowed them, and so got his fiery throat.
-Compare Brett's story in [Sect. *162*](aflg09.htm#pp_162).
+Compare Brett's story in [Sect. *162*](aflg09.htm#pp_162.md).
 
-<span id="page_212_note_7"></span>[7](#page_212_fr_7) Sandals are in
+<span id="page_212_note_7"></span>[7](#page_212_fr_7.md) Sandals are in
 common use in the hinterland of Guiana.
 
 <span id="footnotes_page_213">p. 213</span>
 
-<span id="page_213_note_1"></span>[1](#page_213_fr_1) It is of interest
+<span id="page_213_note_1"></span>[1](#page_213_fr_1.md) It is of interest
 to note that among the Gran Chaco Indians, the head of a turtle should
 be an 'amulet' for hunting deer (Nor, 53).—W. E. R.
 
-<span id="page_213_note_2"></span>[2](#page_213_fr_2) Tobe-horo-anna,
+<span id="page_213_note_2"></span>[2](#page_213_fr_2.md) Tobe-horo-anna,
 signifying literally in Warrau "Tiger-black-skin," is the name given to
 an immense cruelly-savage beast believed to exist in the depths of the
 forest. From the information which I have gathered it appears that this
 creature is a tiger only when it goes for a walk in the bush; that at
 home it is "like a man, people."
 
-<span id="page_213_note_3"></span>[3](#page_213_fr_3) There is some
+<span id="page_213_note_3"></span>[3](#page_213_fr_3.md) There is some
 intimate connection between toads, frogs, and kindred creatures, and
-success in the chase. See [Sect. *228*](aflg14.htm#pp_228).
+success in the chase. See [Sect. *228*](aflg14.htm#pp_228.md).
 
 <span id="footnotes_page_214">p. 214</span>
 
-<span id="page_214_note_1"></span>[1](#page_214_fr_1) This was the exact
+<span id="page_214_note_1"></span>[1](#page_214_fr_1.md) This was the exact
 explanation given when I interrupted my informant, to ascertain *why*
 the crying took place.—W. E. R.
 
-<span id="page_214_note_2"></span>[2](#page_214_fr_2) In the Arawak
-story of Adaba ([Sect. *145*](aflg09.htm#pp_145)) it is the fungus on
+<span id="page_214_note_2"></span>[2](#page_214_fr_2.md) In the Arawak
+story of Adaba ([Sect. *145*](aflg09.htm#pp_145).md) it is the fungus on
 the arrow itself which prevents it hitting the mark.
 
-<span id="page_214_note_3"></span>[3](#page_214_fr_3) In the Arawak
+<span id="page_214_note_3"></span>[3](#page_214_fr_3.md) In the Arawak
 story just referred to fishing-line serves the purpose of the virgin
 rope.
 
 <span id="footnotes_page_216">p. 216</span>
 
-<span id="page_216_note_1"></span>[1](#page_216_fr_1) For another Warrau
-version of this story, see [Sect. *221B*](aflg14.htm#pp_221B).
+<span id="page_216_note_1"></span>[1](#page_216_fr_1.md) For another Warrau
+version of this story, see [Sect. *221B*](aflg14.htm#pp_221B.md).
 
-<span id="page_216_note_2"></span>[2](#page_216_fr_2) The daiha is the
+<span id="page_216_note_2"></span>[2](#page_216_fr_2.md) The daiha is the
 tree (*Lecythis*), the cortex of which is used, after pounding and other
 preparation, for making apron-belts, chemises, and cloaks.
 
 <span id="footnotes_page_218">p. 218</span>
 
-<span id="page_218_note_1"></span>[1](#page_218_fr_1) The *Booroo!
+<span id="page_218_note_1"></span>[1](#page_218_fr_1.md) The *Booroo!
 Booroo!* chorus in Brett's verse is onomatopœic for the Bura-bura-u, the
 Arawak term for a certain frog with a particularly loud croak.
 
 <span id="footnotes_page_219">p. 219</span>
 
-<span id="page_219_note_1"></span>[1](#page_219_fr_1) Most of the clubs
+<span id="page_219_note_1"></span>[1](#page_219_fr_1.md) Most of the clubs
 have attached to the handle a cotton ring through which the wrist is
 passed so as to prevent the implement being dropped when fighting.
 
 <span id="footnotes_page_221">p. 221</span>
 
-<span id="page_221_note_1"></span>[1](#page_221_fr_1) This word in
+<span id="page_221_note_1"></span>[1](#page_221_fr_1.md) This word in
 Arawak means "broadside."
 
-<span id="page_221_note_2"></span>[2](#page_221_fr_2) There is an island
+<span id="page_221_note_2"></span>[2](#page_221_fr_2.md) There is an island
 in the Essequibo just above Groote Creek called hiarono-dulluhing
 (woman's pole). The story goes that onre upon a time the women there
 were traveling in the old-fashioned way with the paddles edgewise, when
@@ -2244,7 +2244,7 @@ collected round it, forming the present island.
 
 <span id="footnotes_page_222">p. 222</span>
 
-<span id="page_222_note_1"></span>[1](#page_222_fr_1) Here follow a
+<span id="page_222_note_1"></span>[1](#page_222_fr_1.md) Here follow a
 whole series of exploits, all detailing the results consequent on
 disobeying the old man's instructions. They arrived at a place where
 there was a field full of ripe plantains, of which they are told they
@@ -2266,42 +2266,42 @@ performed all the dirtiest tricks imaginable to excite the risibilities
 of the boat's crew: one of these yielded to the temptation and was made
 into pepper pot. And so on.
 
-<span id="page_222_note_2"></span>[2](#page_222_fr_2) For a further
-reference to Amazons, see [Sect. *296*](aflg17.htm#pp_296).
+<span id="page_222_note_2"></span>[2](#page_222_fr_2.md) For a further
+reference to Amazons, see [Sect. *296*](aflg17.htm#pp_296.md).
 
 <span id="footnotes_page_223">p. 223</span>
 
-<span id="page_223_note_1"></span>[1](#page_223_fr_1) For the Indian
+<span id="page_223_note_1"></span>[1](#page_223_fr_1.md) For the Indian
 belief that all mankind were derived originally from rocks and stones,
-see [Sect. 58](aflg04.htm#pp_58).
+see [Sect. 58](aflg04.htm#pp_58.md).
 
-<span id="page_223_note_2"></span>[2](#page_223_fr_2) The details of
+<span id="page_223_note_2"></span>[2](#page_223_fr_2.md) The details of
 what now takes place are identical with those given in the next story,
 in which the Ant-eater replaces the Turtle.
 
 <span id="footnotes_page_224">p. 224</span>
 
-<span id="page_224_note_1"></span>[1](#page_224_fr_1) This procedure
+<span id="page_224_note_1"></span>[1](#page_224_fr_1.md) This procedure
 savors of African origin.
 
-<span id="page_224_note_2"></span>[2](#page_224_fr_2) This "tiger-bead
+<span id="page_224_note_2"></span>[2](#page_224_fr_2.md) This "tiger-bead
 necklace" is a rope-vine of some kind with more or less globular
 enlargements throughout its length, like beads threaded on a string.
 
 <span id="footnotes_page_225">p. 225</span>
 
-<span id="page_225_note_1"></span>[1](#page_225_fr_1) Von den Steinen
+<span id="page_225_note_1"></span>[1](#page_225_fr_1.md) Von den Steinen
 (383) gives a similar Bakairi story.
 
-<span id="page_225_note_2"></span>[2](#page_225_fr_2) So dreaded is the
+<span id="page_225_note_2"></span>[2](#page_225_fr_2.md) So dreaded is the
 strength of the ant-eater's limbs, that not even an Indian will venture
 into close quarters with the animal.
 
-<span id="page_225_note_3"></span>[3](#page_225_fr_3) Bee [BrB,
-173](../lmbg/lmbg5b.htm#page_173); compare Brett's story in [Sect.
-*142*](aflg09.htm#pp_142).
+<span id="page_225_note_3"></span>[3](#page_225_fr_3.md) Bee [BrB,
+173](../lmbg/lmbg5b.htm#page_173.md); compare Brett's story in [Sect.
+*142*](aflg09.htm#pp_142.md).
 
-<span id="page_225_note_4"></span>[4](#page_225_fr_4) im Thurn (382)
+<span id="page_225_note_4"></span>[4](#page_225_fr_4) im Thurn (382.md)
 cavils at Brett making the attacker a cormorant, which, he says, is not
 a Guianese bird, and in his version replaces it by a duckler (*Plotus
 anhinga*), Schomburgk, however, speaks of cormorants (*Scharbe*),
@@ -2310,17 +2310,17 @@ class="small">I</span>, 293).
 
 <span id="footnotes_page_226">p. 226</span>
 
-<span id="page_226_note_1"></span>[1](#page_226_fr_1) This bird is the
+<span id="page_226_note_1"></span>[1](#page_226_fr_1.md) This bird is the
 korasiri of the Arawak, well known for its habit of making a
 "playing-ground": it is said to whistle three different tunes morning
 and afternoon.
 
 <span id="footnotes_page_227">p. 227</span>
 
-<span id="page_227_note_1"></span>[1](#page_227_fr_1) In connection with
-this story see [Sect. *183*](aflg12.htm#pp_183).
+<span id="page_227_note_1"></span>[1](#page_227_fr_1.md) In connection with
+this story see [Sect. *183*](aflg12.htm#pp_183.md).
 
-<span id="page_227_note_2"></span>[2](#page_227_fr_2) Suicide is not
+<span id="page_227_note_2"></span>[2](#page_227_fr_2.md) Suicide is not
 unknown among these Indians. I have received particulars of three cases
 of Arawak women making away with themselves by means of bitter-cassava
 water owing to "unrequited love."—W. E. R.

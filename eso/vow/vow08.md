@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow07)  [Next](vow09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow07)  [Next](vow09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -115,7 +115,7 @@ regions, and extends as far as certain summits or promontories, which
 it is unable to transcend. The second province comprises eight regions
 in which the motions of the winds arise. Be thou attentive, my son, for
 thou hearest the ineffable mysteries of the earth, the heavens, and of
-the sacred fluid which lies between. <span id="fr_27"></span>[1](#fn_27)
+the sacred fluid which lies between. <span id="fr_27"></span>[1](#fn_27.md)
 In the province of the winds fly the birds; above this there is no
 moving air nor any creature. But the air with all the beings it contains
 distributes itself into all boundaries within its reach, and into the
@@ -255,7 +255,7 @@ us which perform this work. And when the way destined to receive our
 breath is closed, then no longer do we remain on earth; we depart hence.
 Moreover, O my glorious son, there are other accidents by which the
 balance of our combination may be destroyed. <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 What is, then, this combination, O my Mother?
 
@@ -345,7 +345,7 @@ tend earthwards like the body, weigh it down and overwhelm it.
  
 
 <span id="img_04000"></span> ![End of the Virgin of the
-World.](img/04000.jpg)
+World.](img/04000.jpg.md)
 
  
 
@@ -353,7 +353,7 @@ World.](img/04000.jpg)
 
 ### Footnotes
 
-<span id="fn_27"></span>[33:1](vow08.htm#fr_27) This hint is enough to
+<span id="fn_27"></span>[33:1](vow08.htm#fr_27.md) This hint is enough to
 indicate that Isis speaks in metaphorical language. The entire
 description should be understood as equally applicable to the macrocosm
 and the microcosm, the consciousness of every constituent particle in
@@ -361,11 +361,11 @@ man's system being accounted a soul.
 
 A.K.
 
-<span id="fn_28"></span>[37:1](vow08.htm#fr_28) Isis here speaks not as
+<span id="fn_28"></span>[37:1](vow08.htm#fr_28.md) Isis here speaks not as
 a Goddess, but as a mortal.
 
 A.K.
 
 ------------------------------------------------------------------------
 
-[Next: Part I.](vow09)
+[Next: Part I.](vow09.md)

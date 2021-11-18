@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa01)  [Next](taa03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa01)  [Next](taa03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ and a convent for Christian monks,
 And a temple for idols and the pilgrim's Ka‘ba and the tables of the
 Tora and the book of the Koran.  
 I follow the religion of Love: whatever way Love's camels take, that is
-my religion and my faith.' <span id="fr_0"></span>[1](#fn_0)
+my religion and my faith.' <span id="fr_0"></span>[1](#fn_0.md)
 
 </div>
 
@@ -68,7 +68,7 @@ essay on Ibn al-‘Arabí's theosophy, I feel, speaking for myself, that
 further study of his works is necessary before such a task can be
 attempted with advantage. Much valuable information is contained in a
 treatise on Monism by Ali b. Sultan Muḥammad al-Qárí al-Harawí <span
-id="fr_1"></span>[1](#fn_1)—a polemic directed against Ibn al-‘Arabí and
+id="fr_1"></span>[1](#fn_1.md)—a polemic directed against Ibn al-‘Arabí and
 his followers who held that all Being is essentially one with God,
 notwithstanding its apparent diversity. This pamphlet was written in
 answer to a champion of Ibn al-‘Arabí, who had collected under
@@ -91,7 +91,7 @@ God who brought all things into existence, being Himself their substance
 
 substance of every object in manifestation, although He is not the
 substance of objects in their essences.' <span
-id="fr_2"></span>[1](#fn_2) And again, in the *Fuṣúṣ*, 'God manifests
+id="fr_2"></span>[1](#fn_2.md) And again, in the *Fuṣúṣ*, 'God manifests
 Himself in every atom of creation: He is revealed in every intelligible
 object and concealed from every intelligence except the intelligence of
 those who say that the Universe is His form and ipseity (\#\#\#),
@@ -115,7 +115,7 @@ qualities may justly be attributed to anyone who is so transported from
 himself that God becomes his eye and his ear (x, 1). Although union with
 God is not possible while the body exists (v, 2), Ibn al-‘Arabí, like
 Plotinus, holds that 'deification' is attainable (xxiv, 3). <span
-id="fr_3"></span>[2](#fn_3) Elsewhere he says that knowledge of God is
+id="fr_3"></span>[2](#fn_3.md) Elsewhere he says that knowledge of God is
 the utmost goal that can be reached by any contingent being (xvii, 5).
 This knowledge is gained solely by means of Faith and Contemplation,
 which Reason may serve if it consents to lay aside its reflective
@@ -144,7 +144,7 @@ not do if he were just, but his dislike is based on ignorance. If he
 knew Junayd's saying—"the water takes its colour from the vessel
 containing it"—he would not interfere with the beliefs of others, but
 would perceive God in every form and in every belief.' <span
-id="fr_4"></span>[1](#fn_4) The Divine substance remains unchanged and
+id="fr_4"></span>[1](#fn_4.md) The Divine substance remains unchanged and
 unchangeable amidst all the variety of religious experience. 'Those who
 worship God in the sun behold a sun, and those who worship Him in living
 things see a living thing, and those who worship Him in inanimate
@@ -186,26 +186,26 @@ remain there as long as they were required.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](taa02.htm#fr_0) xi, 13-15
+<span id="fn_0"></span>[vii:1](taa02.htm#fr_0.md) xi, 13-15
 
-<span id="fn_1"></span>[viii:1](taa02.htm#fr_1) Brockelmann, ii, 394.
+<span id="fn_1"></span>[viii:1](taa02.htm#fr_1.md) Brockelmann, ii, 394.
 The work in question is entitled \#\#\#. It appeared, together with
 several other tracts on the same subject, in a volume published at
 Constantinople in 1294 A.H., a copy of which was given to me by Dr. Riẓá
 Tevfíq.
 
-<span id="fn_2"></span>[ix:1](taa02.htm#fr_2) Cf. xx, 25: 'The Divine
+<span id="fn_2"></span>[ix:1](taa02.htm#fr_2.md) Cf. xx, 25: 'The Divine
 attributes are manifested in creation, but the Divine essence does not
 enter into creation.'
 
-<span id="fn_3"></span>[ix:2](taa02.htm#fr_3) Cf. xxv, 7.
+<span id="fn_3"></span>[ix:2](taa02.htm#fr_3.md) Cf. xxv, 7.
 
-<span id="fn_4"></span>[x:1](taa02.htm#fr_4) Cf. xiii, 12.
+<span id="fn_4"></span>[x:1](taa02.htm#fr_4.md) Cf. xiii, 12.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](taa03)
+[Next: Introduction](taa03.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Next](tgr01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Next](tgr01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Think and Grow Rich*, by Napoleon Hill \[1938\], at Intangible Textual
 Heritage
 
@@ -48,24 +48,24 @@ or any past or present publishers of this book.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
 <span id="img_report"></span> <span align="CENTER"> [![Independent
 report on the lack of copyright renewal of this book by the law firm of
 Thomson Compumark](tn/report.jpg)  
-Click to enlarge](img/report.jpg)  
+Click to enlarge](img/report.jpg.md)  
 Independent report on the lack of copyright renewal of this book by the
 law firm of Thomson Compumark  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: What do you Want Most?](tgr01)
+[Next: What do you Want Most?](tgr01.md)

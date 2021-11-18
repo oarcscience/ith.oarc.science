@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo06)  [Next](aoo08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo06)  [Next](aoo08.md) 
 
 ------------------------------------------------------------------------
 
@@ -163,4 +163,4 @@ plain. They had gone far and the ways were again darkened around them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](aoo08)
+[Next: Chapter VIII](aoo08.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph06)  [Next](aph08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph06)  [Next](aph08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ And what rash ægipan or what god of what divine
 <span id="page_61">p. 61</span>
 
 <span id="img_06100"></span> <span align="CENTER"> [![](tn/06100.jpg)  
-Click to enlarge](img/06100.jpg)</span>
+Click to enlarge](img/06100.jpg.md)</span>
 
 <span id="page_62">p. 62</span> <span id="page_63">p. 63</span>
 
@@ -164,4 +164,4 @@ The wind mingled their hair.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seven. Chrysis’s Hair](aph08)
+[Next: Chapter Seven. Chrysis’s Hair](aph08.md)

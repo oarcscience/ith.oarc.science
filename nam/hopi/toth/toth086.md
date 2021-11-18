@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth085)  [Next](toth087) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth085)  [Next](toth087.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 83. THE BULL-SNAKE AND THE TÛ'CHVO <span id="fr_160"></span>[2](#fn_158) (WREN).
+## 83. THE BULL-SNAKE AND THE TÛ'CHVO <span id="fr_160"></span>[2](#fn_158) (WREN.md).
 
 A long time ago some Oraíbi children were hunting some Tû'chvos. They
 found a nest high up on a bluff, somewhere east of the village, but as
@@ -64,7 +64,7 @@ trying to cause it to come nearer. This the Snake did by strong
 inhalations, and whenever the reptile inhaled the bird would be drawn
 towards the snake, when it exhaled the bird would try to escape, but
 would be drawn closer towards the Snake's mouth at the next
-inhalation. <span id="fr_161"></span>[1](toth087.htm#fn_159) This game
+inhalation. <span id="fr_161"></span>[1](toth087.htm#fn_159.md) This game
 the Snake carried on with its poor victim for quite a while, the poor
 Bird being entirely under the charm of the reptile. Finally it was drawn
 by a last strong inhalation on the part of the Snake close to the
@@ -74,12 +74,12 @@ latter's mouth and then the Snake devoured its victim.
 
 ### Footnotes
 
-<span id="fn_157"></span>[216:1](toth085.htm#fr_159) Told by Tawíima
+<span id="fn_157"></span>[216:1](toth085.htm#fr_159.md) Told by Tawíima
 (Mishóngovi).
 
-<span id="fn_158"></span>[216:2](toth086.htm#fr_160) Told by Qöyáwaima
+<span id="fn_158"></span>[216:2](toth086.htm#fr_160.md) Told by Qöyáwaima
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 84. The Snakes and the Locusts](toth087)
+[Next: 84. The Snakes and the Locusts](toth087.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc20.md) 
 
 ------------------------------------------------------------------------
 
@@ -430,7 +430,7 @@ belonging to a mind, which through deep
 
 <span id="page_305">p. 305</span>
 
-inwardness <span id="fr_293"></span>[1](#fn_293) (or understanding) has
+inwardness <span id="fr_293"></span>[1](#fn_293) (or understanding.md) has
 been washed clean and has entered into the Self, is a thing beyond the
 power of words to describe: it can only be perceived by an inner
 faculty." Observe the conviction, the intensity with which this joy,
@@ -596,7 +596,7 @@ of that great artist who beholds himself in his own creation.
 
 ### Footnotes
 
-<span id="fn_293"></span>[305:1](pcc21.htm#fr_293) The word in the Max
+<span id="fn_293"></span>[305:1](pcc21.htm#fr_293.md) The word in the Max
 Müller translation is "meditation." But that is, think, a somewhat
 misleading word. It suggests to most people the inward turning of the
 *thinking* facility to grope and delve in the interior of the mind. This

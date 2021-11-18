@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cwt07)  [Next](cwt09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cwt07)  [Next](cwt09.md) 
 
 ------------------------------------------------------------------------
 
@@ -688,4 +688,4 @@ for news of victory in Moy Mell."
 
 ------------------------------------------------------------------------
 
-[Next: The Great Battle](cwt09)
+[Next: The Great Battle](cwt09.md)

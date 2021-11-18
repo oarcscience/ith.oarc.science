@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat07)  [Next](flat09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat07)  [Next](flat09.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ been dug up.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Bottle Hill](flat09)
+[Next: The Legend of Bottle Hill](flat09.md)

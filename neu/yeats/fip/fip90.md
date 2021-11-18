@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip89)  [Next](fip91) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip89)  [Next](fip91.md) 
 
 ------------------------------------------------------------------------
 
-### FATHER JOHN O'HART.--Page [220](fip59.htm#page_220).
+### FATHER JOHN O'HART.--Page [220](fip59.htm#page_220.md).
 
 Father O'Rorke is the priest of the parishes of Ballysadare and
 Kilvamet, and it is from his learnedly and faithfully and
@@ -24,4 +24,4 @@ He was a friend of the celebrated poet and musician, Carolan.
 
 ------------------------------------------------------------------------
 
-[Next: Shoneen and Sleiveen](fip91)
+[Next: Shoneen and Sleiveen](fip91.md)

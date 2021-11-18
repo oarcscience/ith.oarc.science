@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl14)  [Next](vrl16) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl14)  [Next](vrl16.md) 
 
 ------------------------------------------------------------------------
 
@@ -345,4 +345,4 @@ into the heaving quagmire and certain strife-rot of a Koom-Posh."
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XVII](vrl16)
+[Next: CHAPTER XVII](vrl16.md)

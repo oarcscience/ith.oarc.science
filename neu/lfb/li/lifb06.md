@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb05)  [Next](lifb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb05)  [Next](lifb07.md) 
 
 </div>
 
@@ -365,6 +365,6 @@ From 'Swahili Tales,' by Edward Steere, LL.D.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Nurse](lifb07)
+[Next: The Fairy Nurse](lifb07.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah17)  [Next](oah19) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah17)  [Next](oah19.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ Hored, by command of God in the name of Jehovih.
 
 29\. And the record of the Great Serpent showed the firmament of Tem'yi
 in the third circuit of c'vork'um and dan'ha twenty-four. <span
-id="fr_3"></span>[2](#fn_3)
+id="fr_3"></span>[2](#fn_3.md)
 
 30\. When all was finished the Lords went and sat down at the foot of
 the throne, and the es'enaurs chanted a hymn of praise to Jehovih and
@@ -184,9 +184,9 @@ and the first of the reign of the Lords on earth.
 
 ### Footnotes
 
-<span id="fn_3"></span>[18:2](oah18.htm#fr_3) This would make the age of
+<span id="fn_3"></span>[18:2](oah18.htm#fr_3.md) This would make the age of
 the earth at that time, 9,470,500 years.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](oah19)
+[Next: Chapter III](oah19.md)

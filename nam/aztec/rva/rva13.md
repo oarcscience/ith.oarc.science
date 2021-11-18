@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva12)  [Next](rva14) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva12)  [Next](rva14.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### XIII. Ciuacoatl icuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Quaui, quaui, quilaztla, coaeztica xayaualoc uiuiya quauiuitl
 uitzalochpa chalima aueuetl ye colhoa.
@@ -114,4 +114,4 @@ man. (See my *Ancient Nahuatl Poetry*, pp. 172-3.)
 
 ------------------------------------------------------------------------
 
-[Next: XIV. Hymn at a Fast.](rva14) 
+[Next: XIV. Hymn at a Fast.](rva14.md) 

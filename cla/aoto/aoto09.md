@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto08) 
-[Next](aoto10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto08.md) 
+[Next](aoto10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ Menelaus's house \[and found him celebrating
 <span id="page_25">p. 25</span>
 
 the double marriage of his daughter Hermione and his son
-Megapenthes.\] <span id="fr_14"></span>[\*](#fn_14)
+Megapenthes.\] <span id="fr_14"></span>[\*](#fn_14.md)
 
 Menelaus (after a little demur on the part of his *major* <span
 class="margnote"><span id="an_4:22">22</span></span> *domo* Eteoneus,
@@ -94,7 +94,7 @@ and took you away. It was Ulysses’ presence of mind that then saved us."
 told this, Telemachus said it was time to go to rest, so he and
 Pisistratus were shown to their room in the vestibule, while Menelaus
 and Helen retired to the interior of the house. <span
-id="fr_15"></span>[\*](#fn_15)
+id="fr_15"></span>[\*](#fn_15.md)
 
 <span class="margnote"><span id="an_4:306">306</span></span> When
 morning came Telemachus told Menelaus about the suitors, and asked for
@@ -163,7 +163,7 @@ thing, and Telemachus should have it.
 now kept coming to the king's house, bringing both wine and sheep, and
 their wives had put them up a provision of bread. Thus, then, did they
 set about cooking their dinner in the courts.\] <span
-id="fr_16"></span>[\*](#fn_16)
+id="fr_16"></span>[\*](#fn_16.md)
 
 <span class="margnote"><span id="an_4:625">625</span></span> Meanwhile,
 the suitors in Ithaca were playing at quoits, aiming spears at a mark,
@@ -194,10 +194,10 @@ between Same and Ithaca.
 
 ### Footnotes
 
-<span id="fn_14"></span>[25:\*](aoto09.htm#fr_14) For fuller translation
+<span id="fn_14"></span>[25:\*](aoto09.htm#fr_14.md) For fuller translation
 and explanation why I have bracketed the passage, see Chapter vi.
 
-<span id="fn_15"></span>[26:\*](aoto09.htm#fr_15) It is curious that the
+<span id="fn_15"></span>[26:\*](aoto09.htm#fr_15.md) It is curious that the
 sleeping arrangements made by Helen for Telemachus and Pisistratus, as
 also those made for Ulysses by Queen Arēte (vii. 336, &c.), though taken
 almost verbatim from those made by Achilles for Priam and Idæus ("Il."
@@ -205,9 +205,9 @@ xxiv. 643-47 and 673-76), should do so well for a building of such a
 different character as the house of Menelaus must have been from the
 quarters of Achilles before Troy.
 
-<span id="fn_16"></span>[28:\*](aoto09.htm#fr_16) For explanation why I
+<span id="fn_16"></span>[28:\*](aoto09.htm#fr_16.md) For explanation why I
 bracket this passage see Chapter vi.
 
 ------------------------------------------------------------------------
 
-[Next: Book V. Ulysses in the Island of Calypso](aoto10)
+[Next: Book V. Ulysses in the Island of Calypso](aoto10.md)

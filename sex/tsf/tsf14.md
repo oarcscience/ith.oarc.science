@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf13)  [Next](tsf15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf13)  [Next](tsf15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -253,7 +253,7 @@ may be a free-thinker or an agnostic. He
 <span id="img_20900"></span>
 
 [![A sacrificial altar](tn/20900.jpg)  
-Click to enlarge](img/20900.jpg)  
+Click to enlarge](img/20900.jpg.md)  
 A sacrificial altar  
 
 may have estranged himself from the religious life of his people, having
@@ -383,7 +383,7 @@ the birth of a boy
 
 [![Warding off the unclean spirits from mother and
 infant](tn/21300.jpg)  
-Click to enlarge](img/21300.jpg)  
+Click to enlarge](img/21300.jpg.md)  
 Warding off the unclean spirits from mother and infant  
 
 and eighty after that of a girl. During the periods the woman was
@@ -598,7 +598,7 @@ accomplished,
 <span id="img_22000"></span>
 
 [![The universe a dualism seeking unity](tn/22000.jpg)  
-Click to enlarge](img/22000.jpg)  
+Click to enlarge](img/22000.jpg.md)  
 The universe a dualism seeking unity  
 
 neither man nor woman has been complete alone. To realize one's self, to
@@ -773,7 +773,7 @@ Israel and Jehovah is represented as the
 
 [![An old conception of the Cherubim, the yoni with the male figure in
 its center radiating the heat of passion](tn/22600.jpg)  
-Click to enlarge](img/22600.jpg)  
+Click to enlarge](img/22600.jpg.md)  
 An old conception of the Cherubim, the yoni with the male figure in its
 center radiating the heat of passion  
 
@@ -852,4 +852,4 @@ can hide the great love that is forever flourishing in the synagogue.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Romance in the Church](tsf15)
+[Next: Chapter II. Romance in the Church](tsf15.md)

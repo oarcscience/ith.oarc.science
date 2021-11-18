@@ -1,17 +1,17 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](nmps03)  [Next](nmps05) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](nmps03)  [Next](nmps05.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_25">p. 25</span>
 
-# A TALE OF KININAÉKAI: <span id="fr_1"></span>[1](#fn_1) ACCOUNTING FOR THE ORIGIN OF CERTAIN PRAYERS AND SONGS OF THE NIGHT CHANT.
+# A TALE OF KININAÉKAI: <span id="fr_1"></span>[1](#fn_1.md) ACCOUNTING FOR THE ORIGIN OF CERTAIN PRAYERS AND SONGS OF THE NIGHT CHANT.
 
 ### INTRODUCTION.
 
 In my work entitled "The Night Chant, A Navaho Ceremony," <span
-id="fr_2"></span>[2](#fn_2) I give translations of four myths (or, more
+id="fr_2"></span>[2](#fn_2.md) I give translations of four myths (or, more
 properly, of three myths and a variant) that belong to the ceremony
 described. These may be called the great or fundamental myths of the
 ceremony; but, in addition, there is a great number of minor myths,
@@ -40,7 +40,7 @@ if there are other pollen songs; but probably there are.
 ### THE LEGEND.
 
 In the ancient days, there were four songs which you had to sing if you
-would enter the White House. <span id="fr_3"></span>[3](#fn_3) The first
+would enter the White House. <span id="fr_3"></span>[3](#fn_3.md) The first
 was sung when you were ascending the cliff; the second, when you entered
 the first doorway; the third, when you walked around inside the house;
 and the fourth, when you were prepared to leave. You climbed up from the
@@ -62,7 +62,7 @@ by the power of which they could enter and quiet the sentinels, who
 always showed signs of anger when any one approached them.
 
 Dawn Boy got leave from *H*ast*s*éyal*t*i <span
-id="fr_4"></span>[4](#fn_4) to go to White House. *H*ast*s*éyal*t*i
+id="fr_4"></span>[4](#fn_4.md) to go to White House. *H*ast*s*éyal*t*i
 instructed him how to get there, taught him the prayers and songs he
 must know, and told him what sacrifices he must make. These must include
 fragments of turquoise, white shell, haliotis, and cannel-coal, besides
@@ -86,14 +86,14 @@ from Reclining Mountain to White House. As he walked on the rainbow, a
 great wind began to blow, raising a dust that blinded the sentinels at
 White House and prevented them from seeing Dawn Boy when he entered.
 
-There was a black kethawn <span id="fr_5"></span>[5](#fn_5) at each side
+There was a black kethawn <span id="fr_5"></span>[5](#fn_5.md) at each side
 of the door and a curtain hung in the doorway. When he entered the
 house, he walked on a trail of daylight and he sprinkled pollen on the
 trail. The people within became aware of the presence of a stranger and
 looked up. *H*ast*s*éyal*t*i and *H*ast*s*é*h*o*g*an, the Talking God
 and the House God, who were the chief gods there, looked angrily at him,
 and one said: "Who is this stranger that enters our house unbidden? Is
-he one of the People on the Earth? <span id="fr_6"></span>[6](#fn_6)
+he one of the People on the Earth? <span id="fr_6"></span>[6](#fn_6.md)
 Such have never dared to enter this place before." Dawn Boy replied: "It
 is not for nothing that I come here. See! I have brought gifts for you.
 I hope to find friends here." Then he showed the precious things he had
@@ -120,7 +120,7 @@ brought and sang this song:
 14. Beauty above me, with it I wander.  
 15. Beauty all around me, with it I wander.  
 16. In old age traveling, with it I wander.  
-17. On the beautiful trail I am, <span id="fr_7"></span>[7](#fn_7) with
+17. On the beautiful trail I am, <span id="fr_7"></span>[7](#fn_7.md) with
 it I wander.
 
 Then he gave them the sacred things he had brought with him, and
@@ -142,15 +142,15 @@ Dawn Boy," he replied. "It is well," said the holy ones. "Since you know
 our songs you are welcome to come here; but rarely does any one visit
 us, for there are but two outside of our dwelling who know our songs.
 One is *H*ast*s*éyal*t*i of Tsé\`intyel, <span
-id="fr_8"></span>[8](#fn_8) in this cañon, and the other is
+id="fr_8"></span>[8](#fn_8.md) in this cañon, and the other is
 *H*ast*s*éyal*t*i of Tse\`ya*h*ódï*l*yï*l* <span
-id="fr_9"></span>[9](#fn_9) in Tse\`gíhe. <span
-id="fr_10"></span>[10](#fn_10)
+id="fr_9"></span>[9](#fn_9.md) in Tse\`gíhe. <span
+id="fr_10"></span>[10](#fn_10.md)
 
 Then *H*ast*s*é*h*o*g*an sent for a sacred buckskin, and one son and one
 daughter of each of the two gods, *H*astséyal*t*i and
 *H*ast*s*é*h*o*g*an spread the skin for Dawn Boy to stand on. Thus do we
-now, as the gods did then. <span id="fr_11"></span>[11](#fn_11) As he
+now, as the gods did then. <span id="fr_11"></span>[11](#fn_11.md) As he
 stood, *H*ast*s*é*h*o*g*an taught Dawn Boy the White House prayer, as
 follows:
 
@@ -160,7 +160,7 @@ follows:
 
 I.
 
-1\. In Kininaékai. <span id="fr_12"></span>[12](#fn_12)  
+1\. In Kininaékai. <span id="fr_12"></span>[12](#fn_12.md)  
 2. In the house made of dawn.  
 3. In the story made of dawn.  
 4. On the trail of dawn.  
@@ -237,7 +237,7 @@ As he started he began to sing this song:
 
 <span id="page_31">p. 31</span>
 
-6\. At the yuni <span id="fr_13"></span>[13](#fn_13) the haliotis shell
+6\. At the yuni <span id="fr_13"></span>[13](#fn_13.md) the haliotis shell
 hangs with the pollen, there I return.  
 7. Going around, with it I return.  
 8. Taking another, I walk out with it. With it I return.  
@@ -400,19 +400,19 @@ pollen, he said this prayer:
 <span id="page_35">p. 35</span>
 
 9\. Hard goods of all kinds, hanging above me, I say.  
-10. Horses <span id="fr_14"></span>[14](#fn_14) of all kinds, hanging
+10. Horses <span id="fr_14"></span>[14](#fn_14.md) of all kinds, hanging
 above me, I say.  
-11. Sheep <span id="fr_15"></span>[15](#fn_15) of all kinds, hanging
+11. Sheep <span id="fr_15"></span>[15](#fn_15.md) of all kinds, hanging
 above me, I say.  
 12. White corn, hanging above me, I say.  
 13. Yellow corn, hanging above me, I say.  
 14. Corn of all kinds, hanging above me, I say.  
 15. Plants of all kinds, hanging above me, I say.  
 16. Dark clouds, good and beautiful, hanging above me, I say.  
-17. Male rain, <span id="fr_16"></span>[15](#fn_15) good and beautiful,
+17. Male rain, <span id="fr_16"></span>[15](#fn_15.md) good and beautiful,
 hanging above me, I say.  
 18. Dark mist, good and beautiful, hanging above me, I say.  
-19. Female rain, <span id="fr_17"></span>[15](#fn_15) good and
+19. Female rain, <span id="fr_17"></span>[15](#fn_15.md) good and
 beautiful, hanging above me, I say.  
 20. Lightning, good and beautiful, hanging above me, I say.  
 21. Rainbows, good and beautiful, hanging above me, I say.  
@@ -437,11 +437,11 @@ is finished.
 
 <span id="page_36">p. 36</span>
 
-1\. *S*ïké holó ládï*n* na*s*á ga <span id="fr_18"></span>[16](#fn_16)  
+1\. *S*ïké holó ládï*n* na*s*á ga <span id="fr_18"></span>[16](#fn_16.md)  
 My kindred \| where are \| there \| I wander. \|
 
 2\. *S*ïké holó ládï*n* na*s*á woya <span
-id="fr_19"></span>[16](#fn_16)  
+id="fr_19"></span>[16](#fn_16.md)  
 My kindred \| where are \| there \| I wander. \|
 
 3\. *S*ïké holó ládï*n* na*s*á ga  
@@ -451,18 +451,18 @@ My kindred \| where are \| there \| I wander \|
 My kindred \| where are \| there \| I wander. \|
 
 5\. Nadán*l*kai biyá*z*e *s*i nï*s*li'*n* yégo  <span
-id="fr_20"></span>[16](#fn_16) na*s*á woyen <span
-id="fr_21"></span>[16](#fn_16)  
+id="fr_20"></span>[16](#fn_16.md) na*s*á woyen <span
+id="fr_21"></span>[16](#fn_16.md)  
 White corn \| its son \| I am. \| \| I wander. \|
 
 6\. Tsénit*s*e*h*o*g*an ládï*n* na*s*á  
 Red Rock House \| there \| I wander.
 
 7\. Ketáni dï*l*yï'*l* danadïnla' ládï*n* na*s*á woyen  
-Kethwan \| dark <span id="fr_22"></span>[17](#fn_17) \| hangs down \|
+Kethwan \| dark <span id="fr_22"></span>[17](#fn_17.md) \| hangs down \|
 there \| I wander. \|
 
-8\. *H*ayo*l*ká*l* íye <span id="fr_23"></span>[16](#fn_16)
+8\. *H*ayo*l*ká*l* íye <span id="fr_23"></span>[16](#fn_16.md)
 *t*adïtdi'*n* íye bï*l* bikeéti*n* ládï*n* na*s*á woyen  
 Dawn \| \| pollen \| \| with \| its trail \| there \| I wander. \|
 
@@ -674,7 +674,7 @@ times.)
 My kindred \| their house \| there \| I return.
 
 2\. *S*ïké bo*g*án ládï*n* na*s*dá go*s*e <span
-id="fr_24"></span>[18](#fn_18)  
+id="fr_24"></span>[18](#fn_18.md)  
 My kindred \| their house \| there \| I return. \|
 
 3\. *S*ïké bo*g*án ládï*n* na*s*dá*s*  
@@ -693,7 +693,7 @@ Red Rock House \| there \| I return.
 Kethawn \| blue \| hangs down \| there \| I return. \|
 
 8\. Nahotsói *t*adïdín bï*l* bekeéti*n* ládï*n* na*s*dó*s*e <span
-id="fr_25"></span>[19](#fn_19)  
+id="fr_25"></span>[19](#fn_19.md)  
 Evening light \| pollen \| with \| its trail marked \| there \| I
 return.
 
@@ -837,15 +837,15 @@ The remainder as in stanza I, except that lines 14 and 15 change places.
 
 PRELUDE.
 
-Haineya <span id="fr_26"></span>[20](#fn_20) nagaí naa\` naaí
-oyéye <span id="fr_27"></span>[20](#fn_20) naaí oyéye  
+Haineya <span id="fr_26"></span>[20](#fn_20.md) nagaí naa\` naaí
+oyéye <span id="fr_27"></span>[20](#fn_20.md) naaí oyéye  
 \| \| Stands up, \| stands up, \| \| stands up. \|
 
-Naaí oyé <span id="fr_28"></span>[20](#fn_20) naaí oyéyea\`. <span
-id="fr_29"></span>[20](#fn_20)  
+Naaí oyé <span id="fr_28"></span>[20](#fn_20.md) naaí oyéyea\`. <span
+id="fr_29"></span>[20](#fn_20.md)  
 Stands up. \| \| stands up. \|
 
-1\. *H*ad*j*inaí dzïl <span id="fr_30"></span>[21](#fn_21) nayiáyi\`  
+1\. *H*ad*j*inaí dzïl <span id="fr_30"></span>[21](#fn_21.md) nayiáyi\`  
 They came up \| mountains \| loom up.
 
 2\. Hayo*l*ká*l* dzïl nayiáyi\`  
@@ -865,7 +865,7 @@ Rain \| mountain \| looms up.
 6\. *T*adïtdí*n* dzïl nayiáyi\`  
 Pollen \| mountain \| looms up.
 
-(Anï*l*tani dzïl nayiáyi\`) <span id="fr_31"></span>[22](#fn_22)  
+(Anï*l*tani dzïl nayiáyi\`) <span id="fr_31"></span>[22](#fn_22.md)  
 Grasshopper \| mountain \| looms up.
 
 7\. Aíye diné *s*ikéyo bikéya niaíye nizóni yaaíye  
@@ -884,9 +884,9 @@ Haineya oooo naaia, etc.
 
 PRELUDE.
 
-I'na <span id="fr_32"></span>[23](#fn_23) hwié <span
-id="fr_33"></span>[23](#fn_23) *s*iyá*z*e eena <span
-id="fr_34"></span>[23](#fn_23) saadïlní*l*  
+I'na <span id="fr_32"></span>[23](#fn_23.md) hwié <span
+id="fr_33"></span>[23](#fn_23.md) *s*iyá*z*e eena <span
+id="fr_34"></span>[23](#fn_23.md) saadïlní*l*  
 \| \| my child, \| \| cook for yourself.
 
 1\. *H*asd*z*é*l*ti bisté sadïlní*l*  
@@ -927,7 +927,7 @@ His trail \| happily, \| his lunch \| cook for yourself.
 REFRAIN.
 
 I'na hwié *s*iyá*z*i sadïlní*l* olagáne <span
-id="fr_35"></span>[23a](#fn_24)  
+id="fr_35"></span>[23a](#fn_24.md)  
 \| \| My child \| cook for yourself.
 
 ### SONG F. POLLEN SONG.
@@ -980,7 +980,7 @@ I'na hwié *s*itsówe saanë*l*yá\` kolagáne
 ### PRAYER No. 2.
 
 1\. *H*ayo*l*ká*l* A*s*ki' nï*s*li'ngo <span
-id="fr_36"></span>[24](#fn_25) adï*s*ní\`  
+id="fr_36"></span>[24](#fn_25.md) adï*s*ní\`  
 Dawn \| boy \| I am, \| I say.
 
 2\. Yúdi a*lt*asaí *s*ïkégo adï*s*ní\`  
@@ -1093,46 +1093,46 @@ Happily \| it is finished.
 
 ### Footnotes
 
-<span id="fn_1"></span>[25:1](nmps04.htm#fr_1) Kininaékai is White House
+<span id="fn_1"></span>[25:1](nmps04.htm#fr_1.md) Kininaékai is White House
 in Chelly Cañon, Arizona.
 
-<span id="fn_2"></span>[25:2](nmps04.htm#fr_2) Mem. Am. Mus. Nat. Hist.,
+<span id="fn_2"></span>[25:2](nmps04.htm#fr_2.md) Mem. Am. Mus. Nat. Hist.,
 Vol. 6.
 
-<span id="fn_3"></span>[26:3](nmps04.htm#fr_3) For a description of
+<span id="fn_3"></span>[26:3](nmps04.htm#fr_3.md) For a description of
 White House see The Night Chant, p. 89.
 
-<span id="fn_4"></span>[26:4](nmps04.htm#fr_4) Perhaps I should say *a*
+<span id="fn_4"></span>[26:4](nmps04.htm#fr_4.md) Perhaps I should say *a*
 *H*ast*s*éyal*t*i, for there are many. This may have been the special
 *H*ast*s*éyal*t*i of Red Rock House. Compare The Night Chant, p. 9, and
 Navaho Legends, Mem. of Am. Folk-Lore Society, Vol. 5, p. 224.
 
-<span id="fn_5"></span>[27:5](nmps04.htm#fr_5) Kethawns are small sticks
+<span id="fn_5"></span>[27:5](nmps04.htm#fr_5.md) Kethawns are small sticks
 or cigarettes used by Navahoes as sacrifices to the gods. Consult The
 Night Chant, p. 36, and Navaho Legends, p. 42.
 
-<span id="fn_6"></span>[27:6](nmps04.htm#fr_6) Ni\` na*h*oká dine\` or
+<span id="fn_6"></span>[27:6](nmps04.htm#fr_6.md) Ni\` na*h*oká dine\` or
 People on the Earth is a name applied to all Indians, as distinguished
 from white men, and from holy people or deities.
 
-<span id="fn_7"></span>[28:7](nmps04.htm#fr_7) Lines 16 and 17, which
+<span id="fn_7"></span>[28:7](nmps04.htm#fr_7.md) Lines 16 and 17, which
 end so many Navaho songs, are essentially a prayer for a happy old age.
 
-<span id="fn_8"></span>[28:8](nmps04.htm#fr_8) See The Night Chant, p.
+<span id="fn_8"></span>[28:8](nmps04.htm#fr_8.md) See The Night Chant, p.
 311, and pl. V, fig. D.
 
-<span id="fn_9"></span>[28:9](nmps04.htm#fr_9) See The Night Chant, p.
+<span id="fn_9"></span>[28:9](nmps04.htm#fr_9.md) See The Night Chant, p.
 171.
 
-<span id="fn_10"></span>[28:10](nmps04.htm#fr_10) See The Night Chant,
+<span id="fn_10"></span>[28:10](nmps04.htm#fr_10.md) See The Night Chant,
 p. 307; Navaho Legends, p. 238.
 
-<span id="fn_11"></span>[28:11](nmps04.htm#fr_11) Thus says the story,
+<span id="fn_11"></span>[28:11](nmps04.htm#fr_11.md) Thus says the story,
 but this part of the ceremony is usually omitted of late, because sacred
 buckskins are so hard to get. Information as to sacred buckskins will be
 found in Navaho Legends, p. 24.
 
-<span id="fn_12"></span>[29:12](nmps04.htm#fr_12) The upper story of
+<span id="fn_12"></span>[29:12](nmps04.htm#fr_12.md) The upper story of
 White House is painted white; the lower story is the natural yellow of
 yellow sandstone. The Navahoes do not think this the result of a mere
 whim, but that it is intentional and symbolic. White is the color of he
@@ -1142,11 +1142,11 @@ Yellow is the symbolic color of the west, and they suppose the lower
 story belonged to *H*ast*s*é*h*o*g*an, or House God, who was a god of
 the west and of the evening twilight.
 
-<span id="fn_13"></span>[31:13](nmps04.htm#fr_13) Yuni is the place of
+<span id="fn_13"></span>[31:13](nmps04.htm#fr_13.md) Yuni is the place of
 honor reserved for guests and the head of the house behind the fire
 opposite the door.
 
-<span id="fn_14"></span>[35:14](nmps04.htm#fr_14) Lines 10 and 11 of
+<span id="fn_14"></span>[35:14](nmps04.htm#fr_14.md) Lines 10 and 11 of
 Prayer appear to be modern growths, even if the whole cultus and myth is
 not modern. Yet something may be said to the contrary. The word which I
 translate horses (*L*i*n*) refers also to any sort of a pet or domestic
@@ -1155,37 +1155,37 @@ Mountain sheep or bighorn. It is now employed to designate the domestic
 sheep, while the bighorn is now called tsé\`*t*a debé or
 sheep-among-rocks.
 
-<span id="fn_15"></span>[35:15](nmps04.htm#fr_17) Male rain (nï'*l*tsa
+<span id="fn_15"></span>[35:15](nmps04.htm#fr_17.md) Male rain (nï'*l*tsa
 baká) means a shower accompanied by thunder and lightning. Female rain
 (nï'*l*tsa baád) means a shower without electric display. See The Night
 Chant, p. 6.
 
-<span id="fn_16"></span>[36:16](nmps04.htm#fr_23) Meaningless
+<span id="fn_16"></span>[36:16](nmps04.htm#fr_23.md) Meaningless
 
-<span id="fn_17"></span>[36:17](nmps04.htm#fr_22) A black snake guards
+<span id="fn_17"></span>[36:17](nmps04.htm#fr_22.md) A black snake guards
 the door.
 
-<span id="fn_18"></span>[40:18](nmps04.htm#fr_24) Meaningless.
+<span id="fn_18"></span>[40:18](nmps04.htm#fr_24.md) Meaningless.
 
-<span id="fn_19"></span>[40:19](nmps04.htm#fr_25) Unusual form, probably
+<span id="fn_19"></span>[40:19](nmps04.htm#fr_25.md) Unusual form, probably
 a contraction with a meaningless syllable.
 
-<span id="fn_20"></span>[42:20](nmps04.htm#fr_29) Meaningless.
+<span id="fn_20"></span>[42:20](nmps04.htm#fr_29.md) Meaningless.
 
-<span id="fn_21"></span>[42:21](nmps04.htm#fr_30) The usual form is
+<span id="fn_21"></span>[42:21](nmps04.htm#fr_30.md) The usual form is
 dzi*l*, not dzil.
 
-<span id="fn_22"></span>[43:22](nmps04.htm#fr_31) This line was omitted
+<span id="fn_22"></span>[43:22](nmps04.htm#fr_31.md) This line was omitted
 in rendering the song to the Editor in 1906.
 
-<span id="fn_23"></span>[43:23](nmps04.htm#fr_34) Meaningless.
+<span id="fn_23"></span>[43:23](nmps04.htm#fr_34.md) Meaningless.
 
-<span id="fn_24"></span>[44:23a](nmps04.htm#fr_35) Meaningless.
+<span id="fn_24"></span>[44:23a](nmps04.htm#fr_35.md) Meaningless.
 
-<span id="fn_25"></span>[45:24](nmps04.htm#fr_36) The suffix -go in all
+<span id="fn_25"></span>[45:24](nmps04.htm#fr_36.md) The suffix -go in all
 the words of this prayer has the force "of this sort" I am, my moccasins
 are, etc.
 
 ------------------------------------------------------------------------
 
-[Next: A Prayer of the Second Day of the Night Chant.](nmps05)
+[Next: A Prayer of the Second Day of the Night Chant.](nmps05.md)

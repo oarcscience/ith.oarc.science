@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng52)  [Next](vlsng54) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng52)  [Next](vlsng54.md) 
 
 ------------------------------------------------------------------------
 
@@ -201,4 +201,4 @@ So told to its ending.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix IX: The Lay Of Hamdir](vlsng54)
+[Next: Appendix IX: The Lay Of Hamdir](vlsng54.md)

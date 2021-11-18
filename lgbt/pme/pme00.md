@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Next](pme01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Next](pme01.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ No. ..............
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](pme01)
+[Next: Table of Contents](pme01.md)

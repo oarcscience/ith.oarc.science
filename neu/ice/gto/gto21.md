@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto20)  [Next](gto22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto20)  [Next](gto22.md) 
 
 ------------------------------------------------------------------------
 
@@ -210,4 +210,4 @@ with his journey; and this last seemed to men the most shameful of all.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Gisli's Evil Dreams](gto22)
+[Next: Chapter XVII. Gisli's Evil Dreams](gto22.md)

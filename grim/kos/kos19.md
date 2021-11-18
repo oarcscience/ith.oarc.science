@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos18)  [Next](kos20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos18)  [Next](kos20.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_57">p. 57</span>
 
-## CHAPTER XIV <span id="fr_67"></span>[1](#fn_67)
+## CHAPTER XIV <span id="fr_67"></span>[1](#fn_67.md)
 
 ### HOW TO RENDER THYSELF MASTER OF A TREASURE POSSESSED BY THE SPIRITS
 
@@ -55,7 +55,7 @@ cloth wherein he has been buried. Having kindled this with fresh fire,
 thou shalt fortify the workmen with a girdle of the skin of a goat newly
 slain, whereon shall be written with the blood of the dead man from whom
 thou shalt have taken the fat these words and characters (*see [Figure
-10](kos25.htm#img_kos02)*); and thou shalt set them to work in safety,
+10](kos25.htm#img_kos02)*.md); and thou shalt set them to work in safety,
 warning them not to be at all disturbed at the Spectres which they will
 see, but to work away boldly. In case they cannot finish the work in a
 single day, every time they shall have to leave it thou shalt cause them
@@ -91,9 +91,9 @@ Element which God hath destined for your habitation. Amen.
 
 ### Footnotes
 
-<span id="fn_67"></span>[57:1](kos19.htm#fr_67) This is also taken from
+<span id="fn_67"></span>[57:1](kos19.htm#fr_67.md) This is also taken from
 1203 Lansdowne MSS.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Of the Experiment of Seeking Favour And Love](kos20)
+[Next: Chapter XV. Of the Experiment of Seeking Favour And Love](kos20.md)

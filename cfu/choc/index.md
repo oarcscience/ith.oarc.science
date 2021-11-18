@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](choc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](choc.txt.gz)
+[Contents](#contents)    [Start Reading](choc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](choc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -46,20 +46,20 @@ numerous illustrations and tables to fill in the details.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](choc00)  
+<span id="contents"></span> [Title Page](choc00.md)  
 <span id="section_000"></span>
 
 ### Chinese Occultism
 
-[The Yih System](choc01)  
-[The Tablet of Destiny](choc02)  
-[Divination](choc03)  
-[Urim and Thummim](choc04)  
-[P‘an-Ku](choc05)  
-[The Five Elements](choc06)  
-[Systems of Enumeration](choc07)  
-[Feng-shui](choc08)  
-[Lo-pan](choc09)  
-[The Mariner's Compass a Chinese Invention](choc10)  
-[The Personification of Stars](choc11)  
-[Prehistoric Connections](choc12)  
+[The Yih System](choc01.md)  
+[The Tablet of Destiny](choc02.md)  
+[Divination](choc03.md)  
+[Urim and Thummim](choc04.md)  
+[P‘an-Ku](choc05.md)  
+[The Five Elements](choc06.md)  
+[Systems of Enumeration](choc07.md)  
+[Feng-shui](choc08.md)  
+[Lo-pan](choc09.md)  
+[The Mariner's Compass a Chinese Invention](choc10.md)  
+[The Personification of Stars](choc11.md)  
+[Prehistoric Connections](choc12.md)  

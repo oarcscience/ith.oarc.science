@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,16 +23,16 @@ Legends](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](wfl00)  
-[Chapter I: Fairy Tales and the Ancient Mythology](wfl01)  
-[Chapter II: Classification of Welsh Fairies](wfl02)  
-[Chapter III: Lake Fairies](wfl03)  
-[Chapter IV: Mountain Fairies](wfl04)  
-[Chapter V: Changelings](wfl05)  
-[Chapter VI: Living with the Tylwyth Teg](wfl06)  
-[Chapter VII: Fairy Music](wfl07)  
-[Chapter VIII: Fairy Rings](wfl08)  
+[Title Page](wfl00.md)  
+[Chapter I: Fairy Tales and the Ancient Mythology](wfl01.md)  
+[Chapter II: Classification of Welsh Fairies](wfl02.md)  
+[Chapter III: Lake Fairies](wfl03.md)  
+[Chapter IV: Mountain Fairies](wfl04.md)  
+[Chapter V: Changelings](wfl05.md)  
+[Chapter VI: Living with the Tylwyth Teg](wfl06.md)  
+[Chapter VII: Fairy Music](wfl07.md)  
+[Chapter VIII: Fairy Rings](wfl08.md)  
 [Chapter IX: Piety as a Protection from the Seductions of the Tylwyth
-Teg](wfl09)  
-[Chapter X: Fairy Money and Fairy Gifts in General](wfl10)  
-[Chapter XI: Origins of Welsh Fairies](wfl11)  
+Teg](wfl09.md)  
+[Chapter X: Fairy Money and Fairy Gifts in General](wfl10.md)  
+[Chapter XI: Origins of Welsh Fairies](wfl11.md)  

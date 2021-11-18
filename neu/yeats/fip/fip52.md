@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip51)  [Next](fip53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip51)  [Next](fip53.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ victories, and an underwater land.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of O'Donoghue by T. Crofton Croker](fip53)
+[Next: The Legend Of O'Donoghue by T. Crofton Croker](fip53.md)

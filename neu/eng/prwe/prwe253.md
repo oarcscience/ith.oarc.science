@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe252)  [Next](prwe254) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe252)  [Next](prwe254.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ rode into Jerusalem, and so rendered the animal holy, if the child
 
 ------------------------------------------------------------------------
 
-[Next: Cure of Toothache](prwe254)
+[Next: Cure of Toothache](prwe254.md)

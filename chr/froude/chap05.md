@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index) [Christianity](../index)
-[Pilgrim's Progress](../bunyan/index)  
-[Index](index) [Previous](chap04) [Next](chap06)
+[Intangible Textual Heritage](../../index) [Christianity](../index.md)
+[Pilgrim's Progress](../bunyan/index.md)  
+[Index](index) [Previous](chap04) [Next](chap06.md)
 
 ------------------------------------------------------------------------
 
@@ -342,4 +342,4 @@ refreshed."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Bedford Gaol](chap06)
+[Next: Chapter VI. The Bedford Gaol](chap06.md)

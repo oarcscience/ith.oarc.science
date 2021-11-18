@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/mac)  [Previous](../lll/lll) 
-[Next](../man/man) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/mac)  [Previous](../lll/lll.md) 
+[Next](../man/man.md) 
 
 ------------------------------------------------------------------------
 
@@ -3887,4 +3887,4 @@ Index](../index)  [First Folio](../ff/mac)  [Previous](../lll/lll) 
 
 ------------------------------------------------------------------------
 
-[Next: Much Ado About Nothing](../man/man) 
+[Next: Much Ado About Nothing](../man/man.md) 

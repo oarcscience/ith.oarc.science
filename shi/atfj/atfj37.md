@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj36)  [Next](atfj38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj36)  [Next](atfj38.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_40"></span> <span align="CENTER"> [![Mad Joan, Though
 Muttering, is Dead and a Skeleton](tn/40.jpg)  
-Click to enlarge](img/40.jpg)  
+Click to enlarge](img/40.jpg.md)  
 Mad Joan, Though Muttering, is Dead and a Skeleton  
 </span>
 
@@ -37,7 +37,7 @@ Ajari Joan, who was the adopted son of the Otomo family.
 
 Ajari was learned and virtuous, and had many followers; but one day the
 sight of a most attractive girl called Kiku, <span
-id="fr_37"></span>[1](#fn_37) whose age was eighteen, upset all his
+id="fr_37"></span>[1](#fn_37.md) whose age was eighteen, upset all his
 religious equilibrium. He fell desperately in love with her, offering to
 sacrifice his position and reputation if she Would only listen to his
 prayer and marry him; but the lovely O Kiku San refused all his
@@ -98,7 +98,7 @@ he caused to die by his cursing!'
 'There have been instances of people turning devils,' said the priest;
 'but they are usually common people and not priests. A courtier of the
 Emperor So's turned into a serpent, the wife of Yosei into a moth, the
-mother of Ogan into a Yasha <span id="fr_38"></span>[1](#fn_38); but I
+mother of Ogan into a Yasha <span id="fr_38"></span>[1](#fn_38.md); but I
 have never heard of a priest turning into a devil. Besides, Ajari Joan,
 your priest at Fumonji Temple, was a virtuous and clever man, I have
 always heard. I have cone here, in fact, to do myself the honour of
@@ -267,14 +267,14 @@ The temple is said to have prospered for hundreds of years after.
 
 ### Footnotes
 
-<span id="fn_37"></span>[215:1](atfj37.htm#fr_37) Chrysanthemum.
+<span id="fn_37"></span>[215:1](atfj37.htm#fr_37.md) Chrysanthemum.
 
-<span id="fn_38"></span>[217:1](atfj37.htm#fr_38) Vampire bat.
+<span id="fn_38"></span>[217:1](atfj37.htm#fr_38.md) Vampire bat.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XXXVI. A Stormy Night's Tragedy](atfj38)
+[Next: XXXVI. A Stormy Night's Tragedy](atfj38.md)
 
 </div>

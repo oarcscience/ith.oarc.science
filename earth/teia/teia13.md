@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](teia12)  [Next](teia14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](teia12)  [Next](teia14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ beneath him he saw a pit, full of black
 and King Arthur went down, down among the floating things, and they
 wreathed themselves about him till he cried, 'Help! help!'''--p.
 85](tn/08400.jpg)  
-Click to enlarge](img/08400.jpg)  
+Click to enlarge](img/08400.jpg.md)  
 ''And the chair was fastened to a wheel, and the wheel began to turn,
 and King Arthur went down, down among the floating things, and they
 wreathed themselves about him till he cried, 'Help! help!'''--p. 85  
@@ -271,4 +271,4 @@ feareing the unstablenesse of this deceitfull world."
 
 ------------------------------------------------------------------------
 
-[Next: XI. Maelduin's Voyage](teia14)
+[Next: XI. Maelduin's Voyage](teia14.md)

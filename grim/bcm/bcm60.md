@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm59)  [Next](bcm61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm59)  [Next](bcm61.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_21500"></span> [![](tn/generic.jpg)  
-Click to view](img/21500.jpg)  
+Click to view](img/21500.jpg.md)  
 THE SEAL OF VAPULA
 
 LX\. VAPULA, a strong duke, comes in the form of a lion with griffin's
@@ -14,19 +14,19 @@ philosophy and the sciences contained in books--I suppose, as
 distinguished from the secret sciences.
 
 <span id="img_21501"></span> [![](tn/generic.jpg)  
-Click to view](img/21501.jpg)  
+Click to view](img/21501.jpg.md)  
 THE SEAL OF ZAGAN
 
 LXI\. ZAGAN, a great king and president, appears at first in the form of
 a bull, with the wings of a griffin, but after in human shape. He makes
 men witty, turns water into wine, blood into oil and oil into
-water; <span id="fr_240"></span>[1](#fn_239) he can change any metal
+water; <span id="fr_240"></span>[1](#fn_239.md) he can change any metal
 into coin of the realm and can make fools wise.
 
 <span id="page_216">p. 216</span>
 
 <span id="img_21600"></span> [![](tn/generic.jpg)  
-Click to view](img/21600.jpg)  
+Click to view](img/21600.jpg.md)  
 THE SEAL OF VALAC
 
 LXII\. VALAC, a great president, comes as a little boy with the wings of
@@ -56,7 +56,7 @@ THE SEAL OF FLAUROS</p></td>
 LXIII\. ANDRAS, a great marquis, comes in the form of an angel, with the
 head of a black night-raven, riding upon a strong black wolf and having
 a sharp bright sword gleaming in his hands. He sows discord and will
-kill the unwary. <span id="fr_241"></span>[1](#fn_240)
+kill the unwary. <span id="fr_241"></span>[1](#fn_240.md)
 
 LXIV\. FLAUROS, a great duke, appears at first like a terrible leopard,
 but at the command of the exorcist he puts on the shape of a man, with
@@ -99,7 +99,7 @@ grammar, logic and rhetoric, discovers buried treasures and things lost
 and hidden; he can make a man appear like a soldier of his own kind.
 
 <span id="img_21702"></span> [![](tn/generic.jpg)  
-Click to view](img/21702.jpg)  
+Click to view](img/21702.jpg.md)  
 THE SEAL OF AMDUSCIAS
 
 LXVII\. AMDUSCIAS, a great duke, comes first like an unicorn, but will
@@ -117,15 +117,15 @@ superior angels who went before Michael and other heavenly angels. He
 distributes preferences for senatorships,
 
 <span id="img_21800"></span> [![](tn/generic.jpg)  
-Click to view](img/21800.jpg)  
+Click to view](img/21800.jpg.md)  
 THE SEAL OF BELIAL
 
 causes favours of friends and foes and gives excellent familiars. He
 must have offerings and sacrifices made to him. <span
-id="fr_242"></span>[1](#fn_241)
+id="fr_242"></span>[1](#fn_241.md)
 
 <span id="img_21801"></span> [![](tn/generic.jpg)  
-Click to view](img/21801.jpg)  
+Click to view](img/21801.jpg.md)  
 THE SEAL OF DECARABIA
 
 LXIX\. DECARABIA, a marquis, comes in the form of a star in a pentacle,
@@ -134,7 +134,7 @@ herbs and precious stones, makes birds seem to fly before the exorcist
 and remain with him as familiars, singing and eating like other birds.
 
 <span id="img_21802"></span> [![](tn/generic.jpg)  
-Click to view](img/21802.jpg)  
+Click to view](img/21802.jpg.md)  
 THE SEAL OF SEERE
 
 LXX\. SEERE, a mighty prince under Amaymon, King of the East, appears in
@@ -179,7 +179,7 @@ Such are the prime mysteries of *Goëtia* according to the tradition of
 the *Lemegeton*; such is the work which has been described in the
 interest of White Magic as distinct from the *Key of Solomon*, but
 highly important and valuable in its own department. <span
-id="fr_243"></span>[1](#fn_242) Viewed in the light of these
+id="fr_243"></span>[1](#fn_242.md) Viewed in the light of these
 two-and-seventy methods of accomplishing all abominations, it would seem
 that the three "analogical realms of occult philosophy" are the three
 kingdoms which we have known under other names from our childhood--as
@@ -196,7 +196,7 @@ most reputable memorials of White Magic which is now extant. The
 evocation of Lucifer and Astaroth, whatever the pretext, must be
 
 <span id="img_22000"></span> [![](tn/generic.jpg)  
-Click to view](img/22000.jpg)  
+Click to view](img/22000.jpg.md)  
 THE TRIANGLE OF SOLOMON
 
 the first step towards Satanism; but here we have Satanism undiluted,
@@ -210,19 +210,19 @@ cipher and zero.
 
 ### Footnotes
 
-<span id="fn_239"></span>[215:1](bcm60.htm#fr_240) Otherwise, wine into
+<span id="fn_239"></span>[215:1](bcm60.htm#fr_240.md) Otherwise, wine into
 water or into blood.
 
-<span id="fn_240"></span>[216:1](bcm60.htm#fr_241) Another codex says
+<span id="fn_240"></span>[216:1](bcm60.htm#fr_241.md) Another codex says
 frankly that be can kill the Master and all his Assistants.
 
-<span id="fn_241"></span>[218:1](bcm60.htm#fr_242) He is partly of the
+<span id="fn_241"></span>[218:1](bcm60.htm#fr_242.md) He is partly of the
 Order of the Virtues and partly of that of the Angels. Unless he be
 constrained by Divine Power, he will not remain one hour in the truth.
 He was one of the vast cohort shut up by Solomon in a brazen vessel and
 released subsequently by the Babylonians.
 
-<span id="fn_242"></span>[219:1](bcm60.htm#fr_243) That is the
+<span id="fn_242"></span>[219:1](bcm60.htm#fr_243.md) That is the
 discriminating judgment of Mr. Mathers, who forbears, however, to
 specify. I do think that the *Lemegeton* is very curious and in this
 sense important, but not for the reasons which actuated Mr. Mathers
@@ -231,4 +231,4 @@ presumably.
 ------------------------------------------------------------------------
 
 [Next: Section 2: Concerning the Rite of Conjuration, from the
-Lemegeton](bcm61)
+Lemegeton](bcm61.md)

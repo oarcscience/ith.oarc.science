@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod07)  [Next](ebod09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod07)  [Next](ebod09.md) 
 
 ------------------------------------------------------------------------
 
@@ -252,4 +252,4 @@ a later period.
 
 ------------------------------------------------------------------------
 
-[Next: The Gods Of The Book Of The Dead.](ebod09)
+[Next: The Gods Of The Book Of The Dead.](ebod09.md)

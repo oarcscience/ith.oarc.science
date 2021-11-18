@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly49)  [Next](lly51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly49)  [Next](lly51.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ whirlwinds were also believed to contain evil spirits.
 
 ------------------------------------------------------------------------
 
-[Next: Division of Territory](lly51)
+[Next: Division of Territory](lly51.md)

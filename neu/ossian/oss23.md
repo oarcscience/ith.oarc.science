@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss22)  [Next](oss24) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss22)  [Next](oss24.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,7 +194,7 @@ white his locks of age; calm his serious brow. Fairest of women, he
 said, lovely daughter of Armin! a rock not distant in the sea bears a
 tree on its side: red shines the fruit afar! There Armar waits for
 Daura. I come to carry his love! She went; she called on Armar. Nought
-answered, but the son of the rock.  <span id="fr_66"></span>[1](#fn_66)
+answered, but the son of the rock.  <span id="fr_66"></span>[1](#fn_66.md)
 Armar, my love! my love! why tormentest thou me with fear! hear, son of
 Arnart, hear: it is Daura who calleth thee! Erath the traitor fled
 laughing to the land. She lifted up her voice; she called for her
@@ -237,7 +237,7 @@ heard the music of harps, the
 
 tales of other times! The chiefs gathered from all their hills, and
 heard the lovely sound. They praised the voice of Cona;  <span
-id="fr_67"></span>[1](#fn_67) the first among a thousand bards! But age
+id="fr_67"></span>[1](#fn_67.md) the first among a thousand bards! But age
 is now on my tongue; my soul has failed: I hear, at times, the ghosts of
 bards, and learn their pleasant Song. But memory fails on my mind. I
 hear the call of years; they say, as they pass along, Why does Ossian
@@ -252,12 +252,12 @@ there; the distant mariner sees the waving trees!
 
 ### Footnotes
 
-<span id="fn_66"></span>[290:1](oss23.htm#fr_66) By "the son of the
+<span id="fn_66"></span>[290:1](oss23.htm#fr_66.md) By "the son of the
 rock," the poet means the echoing back of the human voice from a rock.
 
-<span id="fn_67"></span>[292:1](oss23.htm#fr_67) Ossian is sometimes
+<span id="fn_67"></span>[292:1](oss23.htm#fr_67.md) Ossian is sometimes
 poetically called "the voice of Cona".
 
 ------------------------------------------------------------------------
 
-[Next: Book I](oss24)
+[Next: Book I](oss24.md)

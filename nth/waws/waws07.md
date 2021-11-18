@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](waws06)  [Next](waws08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](waws06)  [Next](waws08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1352,4 +1352,4 @@ ever ruling over all.
 
 ------------------------------------------------------------------------
 
-[Next: Part VI. Character-Building Thought Power](waws08)
+[Next: Part VI. Character-Building Thought Power](waws08.md)

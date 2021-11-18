@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc21.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ William Miller, \[1842\], at Intangible Textual Heritage
 <span id="img_chart"></span>
 
 [![Chart of the Chronology of the World (260Kb)](tn/chart.jpg)  
-Click to enlarge](img/chart.jpg)  
+Click to enlarge](img/chart.jpg.md)  
 Chart of the Chronology of the World (260Kb)  
 
  
@@ -215,7 +215,7 @@ CHRONOLOGY OF THE WORLD, AND OF THE PROPHETIC PERIODS.
 
 ### Footnotes
 
-<span id="fn_2"></span>[\*](esc22.htm#fr_2) The critical student will
+<span id="fn_2"></span>[\*](esc22.htm#fr_2.md) The critical student will
 readily observe the different periods in this Exposition, marked on the
 twelve Spaces of the Chart, so that we have no need to make distinct
 reference to them in every period described.

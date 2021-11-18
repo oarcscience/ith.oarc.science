@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim83)  [Next](sim85) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim83)  [Next](sim85.md) 
 
 ------------------------------------------------------------------------
 
@@ -237,4 +237,4 @@ the twelve brothers were together again in their own home.
 
 ------------------------------------------------------------------------
 
-[Next: Uncle and Nephew](sim85)
+[Next: Uncle and Nephew](sim85.md)

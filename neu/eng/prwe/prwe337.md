@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe336)  [Next](prwe338) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe336)  [Next](prwe338.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ the shoes of swiftness.
 
 ------------------------------------------------------------------------
 
-[Next: H](prwe338)
+[Next: H](prwe338.md)

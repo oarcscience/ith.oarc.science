@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos10)  [Next](dos12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos10)  [Next](dos12.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ And he went down the steps, and plunged into the waters of the pool.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Recognition](dos12)
+[Next: IX. Recognition](dos12.md)

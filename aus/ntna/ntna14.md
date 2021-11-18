@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna13)  [Next](ntna15) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna13)  [Next](ntna15.md) 
 
 ------------------------------------------------------------------------
 
@@ -1650,4 +1650,4 @@ customary to cross the river.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: Clothing and Ornament](ntna15)
+[Next: Chapter XIII: Clothing and Ornament](ntna15.md)

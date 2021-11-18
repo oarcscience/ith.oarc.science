@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl04)  [Next](mhl06) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl04)  [Next](mhl06.md) 
 
 ------------------------------------------------------------------------
 
@@ -1135,4 +1135,4 @@ served his community.
 
 ------------------------------------------------------------------------
 
-[Next: Exodus Rabba](mhl06)
+[Next: Exodus Rabba](mhl06.md)

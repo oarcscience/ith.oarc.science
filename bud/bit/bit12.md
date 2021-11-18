@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit11)  [Next](bit13) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit11)  [Next](bit13.md) 
 
 ------------------------------------------------------------------------
 
@@ -372,4 +372,4 @@ offerings and mortifications.
 ------------------------------------------------------------------------
 
 [Next: Chapter X. Details Characteristic of the Religion of the
-People](bit13)
+People](bit13.md)

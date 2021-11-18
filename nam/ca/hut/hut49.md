@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut48)  [Next](hut50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut48)  [Next](hut50.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XLVI.
 
-### Formula of Medicine for Going to War. <span id="fr_96"></span>[1](#fn_96)
+### Formula of Medicine for Going to War. <span id="fr_96"></span>[1](#fn_96.md)
 
 <span id="page_333">p. 333</span>
 
@@ -42,7 +42,7 @@ company of one hundred men who had come to kill her. When she was
 through fighting she went in. She took off her dress and put on another.
 
 That dress of black oak leaves is the one that flies around her. [She
-has a song which she sings](#img_33300). She sings it in the morning.
+has a song which she sings](#img_33300.md). She sings it in the morning.
 When the war party used to hear it they would say, "Come, let's run
 away." Then they always ran off. Here southeast of the middle of the
 world they used to lie until morning, and then they went home. When
@@ -63,9 +63,9 @@ ready to fight."
 
 ### Footnotes
 
-<span id="fn_96"></span>[332:1](hut49.htm#fr_96) Told at Hupa, December
+<span id="fn_96"></span>[332:1](hut49.htm#fr_96.md) Told at Hupa, December
 1901, by Henry Hostler often called "Packer Henry."
 
 ------------------------------------------------------------------------
 
-[Next: XLVII. Formula of Medicine for Acquiring Wealth](hut50)
+[Next: XLVII. Formula of Medicine for Acquiring Wealth](hut50.md)

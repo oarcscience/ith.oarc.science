@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo19)  [Next](sdo21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo19)  [Next](sdo21.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ the places for the Sacred and Dance Lodges.
 
 ------------------------------------------------------------------------
 
-[Next: The Buffalo Feast](sdo21)
+[Next: The Buffalo Feast](sdo21.md)

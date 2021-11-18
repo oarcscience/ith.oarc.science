@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot32) 
-[Next](laot34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot32.md) 
+[Next](laot34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ good ruler." "And what sort of wisdom, O Apollonius, does this person
 possess?" "Courage," he replied, "to speak the truth unabashed by
 anyone, for he possesses the constancy and strength of character of a
 cynic." And as Titus did not seem very pleased to hear the name of
-dog <span id="fr_20"></span>[1](#fn_20), he continued: "And yet in
+dog <span id="fr_20"></span>[1](#fn_20.md), he continued: "And yet in
 Homer, Telemachus, when he was young, required, it appears, two dogs,
 and the poet sends these to accompany the youth to the market place of
 Ithaca, in spite of their being irrational animals; but you will have a
@@ -332,9 +332,9 @@ said he was in love, after sacrificing in order to gain forgiveness.
 
 ### Footnotes
 
-<span id="fn_20"></span>[2:117:1](laot33.htm#fr_20) A cynic means
+<span id="fn_20"></span>[2:117:1](laot33.htm#fr_20.md) A cynic means
 literally a canine philosopher.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 41-43](laot34)
+[Next: Chapters 41-43](laot34.md)

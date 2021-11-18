@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi14)  [Next](hpi16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi14)  [Next](hpi16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -414,7 +414,7 @@ of the body; but that which gives completeness
 to the existence of the Soul is the Mind, or the Spirit (‘aql). The
 Spirit only is the real Man.
 
-10\. Accordingly the [discussion](errata.htm#5) turns mainly on the Mind
+10\. Accordingly the [discussion](errata.htm#5.md) turns mainly on the Mind
 or Spirit. In the human Spirit everything earthly is raised to a higher
 mode of existence, which is lifted out of the categories of the
 Corporeal. Now as a capability or potentiality, Mind or Spirit is
@@ -588,7 +588,7 @@ next, because in everything, even in his Unity, God is himself the All.
 14\. If we now take a general survey of Farabi's system, it exhibits
 itself as a fairly consistent Spiritualism, or,--to be more
 precise,--Intellectualism. The Corporeal,--that which appeals to the
-Senses,--as it [originates](errata.htm#6) in the imagination of the
+Senses,--as it [originates](errata.htm#6.md) in the imagination of the
 Spirit, might be designated "a confused presentation". The only true
 existence is Spirit, although it assumes various degrees. God alone is
 entirely unmixed and pure Spirit, while those Spirits, which eternally
@@ -702,4 +702,4 @@ becomes in this Society a subject merely of clever conversation.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Ibn Maskawaih](hpi16)
+[Next: 3. Ibn Maskawaih](hpi16.md)

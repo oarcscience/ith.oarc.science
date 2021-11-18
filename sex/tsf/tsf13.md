@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf12)  [Next](tsf14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf12)  [Next](tsf14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -161,9 +161,9 @@ by the keepers of the faith, but it returned all the more glorious, with
 a crown of beauty upon its head.
 
 <span id="img_20100"></span> ![Jehovah, God of Battles (Early Christian
-Conception)](img/20100.jpg)  
+Conception)](img/20100.jpg.md)  
 Jehovah, God of Battles (Early Christian Conception)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Love in the Synagogue](tsf14)
+[Next: Chapter I. Love in the Synagogue](tsf14.md)

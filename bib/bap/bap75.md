@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap74) 
-[Next](bap76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap74.md) 
+[Next](bap76.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,11 +59,11 @@ and God will take away
 the hatred and reproach from Israel. 5. And David went forth and took 7
 stones and wrote upon them the names of his fathers, Abraham, Isaac, and
 Jacob, Moses and Aaron, and his own name, and the name of the Most
-Mighty. <span id="fr_158"></span>[1](#fn_157) And God sent Cervihel, the
+Mighty. <span id="fr_158"></span>[1](#fn_157.md) And God sent Cervihel, the
 angel that is over strength. 6. And David went forth unto Golia and said
 unto him: Hear a word before thou diest. Were not the two women of whom
 thou and I were born sisters? and thy mother was Orpha <span
-id="fr_159"></span>[2](#fn_158) and my mother was Ruth.
+id="fr_159"></span>[2](#fn_158.md) and my mother was Ruth.
 
 <span id="page_235">p. 235</span>
 
@@ -100,19 +100,19 @@ who he was, and there was no man that knew him who he was.
 
 ### Footnotes
 
-<span id="fn_157"></span>[234:1](bap75.htm#fr_158) LXI. 5. The *Midrash
+<span id="fn_157"></span>[234:1](bap75.htm#fr_158.md) LXI. 5. The *Midrash
 Samuel*, quoted by Cohn, says: The five stones which David chose, he
 took in the name of God, in the name of Aaron the priest, and in the
 names of Abraham, Isaac, and Jacob.
 
-<span id="fn_158"></span>[234:2](bap75.htm#fr_159) 6. Orpah is
+<span id="fn_158"></span>[234:2](bap75.htm#fr_159.md) 6. Orpah is
 identified in the Midrashim of Ruth and of Samuel (Cohn) with Harapha (2
 Sam. 21:18 margin) who was thought to be the mother of giants there
 mentioned. So, too, in the *Quaest. Hebr. in Paral*. She also figures as
 the mother of Ishbi-benob in a tale in the Talmud (*Sanhedrin*, 95)
 quoted by Eisenmenger, *Entdecktes Judenthum*, i. 413. See Introd., [p.
-60](bap11.htm#page_60).)
+60](bap11.htm#page_60)..md)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXII](bap76)
+[Next: Chapter LXII](bap76.md)

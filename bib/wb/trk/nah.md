@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](mic)  [Next](hab) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](mic)  [Next](hab.md) 
 
 ------------------------------------------------------------------------
 
@@ -201,4 +201,4 @@ vahşetinden kim kaçabildi ki?
 
 ------------------------------------------------------------------------
 
-[Next: Habakkuk](hab)
+[Next: Habakkuk](hab.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw27)  [Next](omw29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw27)  [Next](omw29.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_05300"></span>
 
 [![Adam and Eve](tn/05300.jpg)  
-Click to enlarge](img/05300.jpg)  
+Click to enlarge](img/05300.jpg.md)  
 Adam and Eve  
 
 # JEWISH POST-CHRISTIAN PERIOD
@@ -121,4 +121,4 @@ her radiance.
 
 ------------------------------------------------------------------------
 
-[Next: The Confounding of the Angel of Death](omw29)
+[Next: The Confounding of the Angel of Death](omw29.md)

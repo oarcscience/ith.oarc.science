@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara08)  [Next](ara10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara08)  [Next](ara10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ E coll aiuto della bella *Diana*,
 La voglio trovare prima d'andare,  
 Prima di sortir di casa  
 Il malocchio mi levero <span id="page_39">p. 39</span>  
-Con tre gocciole d'olio, <span id="fr_15"></span>[1](#fn_15)  
+Con tre gocciole d'olio, <span id="fr_15"></span>[1](#fn_15.md)  
 E te bella *Diana* io invoco  
 Che tu possa mandarmi via  
 Il malocchio da dosse a me  
@@ -181,7 +181,7 @@ a jest!
 
 ### Footnotes
 
-<span id="fn_15"></span>[39:1](ara09.htm#fr_15) This refers to a small
+<span id="fn_15"></span>[39:1](ara09.htm#fr_15.md) This refers to a small
 ceremony which I have seen performed scores of times, and have indeed
 had it performed over me almost as often, as an act of courtesy common
 among wizards and witches. It consists of making certain signs and
@@ -193,4 +193,4 @@ prosperity.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. To Have a Good Vintage and Very Good Wine by the
-Aid of Diana](ara10)
+Aid of Diana](ara10.md)

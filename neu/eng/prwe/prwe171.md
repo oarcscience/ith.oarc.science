@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe170)  [Next](prwe172) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe170)  [Next](prwe172.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ handle of the door, and found there by the owner in the morning.
 
 ------------------------------------------------------------------------
 
-[Next: Bewitched Cattle](prwe172)
+[Next: Bewitched Cattle](prwe172.md)

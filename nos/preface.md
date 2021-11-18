@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Next](cen1eng) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Next](cen1eng.md) 
 
 ------------------------------------------------------------------------
 
@@ -269,6 +269,6 @@ Salon, 1 March 1555
 
 ------------------------------------------------------------------------
 
-[Next: Century I](cen1eng)
+[Next: Century I](cen1eng.md)
 
   

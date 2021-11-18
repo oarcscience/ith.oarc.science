@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr23) 
-[Next](idr25) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr23.md) 
+[Next](idr25.md) 
 
 ------------------------------------------------------------------------
 
@@ -476,4 +476,4 @@ religious purposes has been continued to modern times."
 
 ------------------------------------------------------------------------
 
-[Next: Animal Worship](idr25)
+[Next: Animal Worship](idr25.md)

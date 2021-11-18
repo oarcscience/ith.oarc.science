@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr00) 
-[Next](frr02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr00.md) 
+[Next](frr02.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ Paris,
 
 ------------------------------------------------------------------------
 
-[Next: Contents](frr02)
+[Next: Contents](frr02.md)

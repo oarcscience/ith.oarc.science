@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku24)  [Next](tku26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku24)  [Next](tku26.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,10 +71,10 @@ the Ancient of the Ancient Ones."
 
 ### Footnotes
 
-<span id="fn_61"></span>[156:1](tku24.htm#fr_62) That is, the lower
+<span id="fn_61"></span>[156:1](tku24.htm#fr_62.md) That is, the lower
 forms of the Sephiroth.
 
-<span id="fn_62"></span>[156:2](tku24.htm#fr_63) Himself, HVA. *Hoa*,
+<span id="fn_62"></span>[156:2](tku24.htm#fr_63.md) Himself, HVA. *Hoa*,
 whom we can only symbolize by this pronoun. HE, Who is the Absolute; HE,
 Who is beyond us; that awful and unknowable Crown, Who hath said, I AM;
 in Whom is neither put nor future, He Who is the ETERNAL PRESENT.
@@ -85,4 +85,4 @@ live, for they would be absorbed in Him.
 ------------------------------------------------------------------------
 
 [Next: Chapter XVIII: Concerning the Seventh Part of the Beard of
-Macroprosopus](tku26)
+Macroprosopus](tku26.md)

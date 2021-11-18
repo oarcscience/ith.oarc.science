@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc25)  [Next](scc27) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc25)  [Next](scc27.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ Kandjidji.
 
 ------------------------------------------------------------------------
 
-[Next: 25.--Wükchamni Yokuts. The Beginning Of The World.](scc27)
+[Next: 25.--Wükchamni Yokuts. The Beginning Of The World.](scc27.md)

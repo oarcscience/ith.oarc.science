@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth018)  [Next](toth020) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth018)  [Next](toth020.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 16. HOW BALL-HEAD (TATCIQTÖ) WEDDED AN ORAÍBI MAIDEN. <span id="fr_55"></span>[1](#fn_54)
+## 16. HOW BALL-HEAD (TATCIQTÖ) WEDDED AN ORAÍBI MAIDEN. <span id="fr_55"></span>[1](#fn_54.md)
 
 Halíksai! In Oraíbi the people were living. At the place where Tuwá-mana
 now lives, right east of the public plaza, lived a maiden who
@@ -191,9 +191,9 @@ much, the people became poor, and it is still that way.
 
 ### Footnotes
 
-<span id="fn_54"></span>[73:1](toth019.htm#fr_55) Told by Macáhongva
+<span id="fn_54"></span>[73:1](toth019.htm#fr_55.md) Told by Macáhongva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 17. The Ahö'li And Other Wálpi Katcinas](toth020)
+[Next: 17. The Ahö'li And Other Wálpi Katcinas](toth020.md)

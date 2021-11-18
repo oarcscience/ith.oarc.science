@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof27)  [Next](sof29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof27)  [Next](sof29.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <div>
 
 <span id="img_head26.png"></span> ![Header Chapter
-XXVI.](img/head26.png)
+XXVI.](img/head26.png.md)
 
 ## XXVI.
 
@@ -255,7 +255,7 @@ In the seventh century, and for a long time afterwards, the circle of
 instruction to which all the learning of the most eminent schools and
 most distinguished philosophers was confined, was limited to what were
 then called the liberal arts and sciences, and consisted of two
-branches, the *trivium* and the *quadrivium*. [154](sof37.htm#xref_154)
+branches, the *trivium* and the *quadrivium*. [154](sof37.htm#xref_154.md)
 The *trivium* included grammar, rhetoric, and logic; the *quadrivium*
 comprehended arithmetic, geometry, music, and astronomy.
 
@@ -265,7 +265,7 @@ preceptor to explain any books or to solve any questions which lay
 within the compass of human reason, the knowledge of the *trivium*
 having furnished him with the key to all language, and that of the
 *quadrivium* having opened to him the secret laws of nature."
- [155](sof37.htm#xref_155)
+ [155](sof37.htm#xref_155.md)
 
 At a period, says the same writer, when few were instructed in the
 *trivium*, and very few studied the *quadrivium*, to be master of both
@@ -297,7 +297,7 @@ the letters of the holy name JAH, יה, were, in their numerical value,
 equivalent to fifteen; and hence a figure in which the nine digits were
 so disposed as to make fifteen either way when added together
 perpendicularly, horizontally, or diagonally, constituted one of their
-most sacred talismans. [156](sof37.htm#xref_156) The fifteen steps in
+most sacred talismans. [156](sof37.htm#xref_156.md) The fifteen steps in
 the Winding Stairs are therefore symbolic of the name of God.
 
 But we are not yet done. It will be remembered that a reward was
@@ -355,6 +355,6 @@ fertile with instruction.
 
 ------------------------------------------------------------------------
 
-[Next: XXVII. The Legend of the Third Degree](sof29)
+[Next: XXVII. The Legend of the Third Degree](sof29.md)
 
 </div>

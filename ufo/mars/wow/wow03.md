@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow02)  [Next](wow04) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow02)  [Next](wow04.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four: The Cylinder Opens](wow04)
+[Next: Chapter Four: The Cylinder Opens](wow04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac09)  [Next](sac11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac09)  [Next](sac11.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Considered*, by Norman Lockyer, \[1906\], at Intangible Textual Heritage
 
 ### CHAPTER VII
 
-### ASTRONOMICAL OBSERVATIONS AT STONEHENGE IN 1901 <span id="fr_10"></span>[1](#fn_10)
+### ASTRONOMICAL OBSERVATIONS AT STONEHENGE IN 1901 <span id="fr_10"></span>[1](#fn_10.md)
 
 AN investigation was undertaken by Mr. Penrose and myself in the spring
 of 1901, as a sequel to analogous work in Egypt and Greece, with a view
@@ -23,11 +23,11 @@ the date of the foundation of Stonehenge, concerning which authorities
 vary in their estimates by some thousands of years. Ours was not the
 first attempt to obtain the date of Stonehenge by means of astronomical
 considerations. In Mr. Godfrey Higgins’ work <span
-id="fr_11"></span>[2](#fn_11) he refers to a method of attack connected
+id="fr_11"></span>[2](#fn_11.md) he refers to a method of attack connected
 with precession. This furnished him with the date 4000 B.C.
 
 More recently, Prof. W. M. Flinders Petrie, <span
-id="fr_12"></span>[3](#fn_12) whose plan of the stones is a valuable
+id="fr_12"></span>[3](#fn_12.md) whose plan of the stones is a valuable
 contribution to the study of Stonehenge, was led by his measures of the
 orientation to a date very greatly in the opposite direction, but, owing
 to an error in his application of the change of obliquity, clearly a
@@ -44,7 +44,7 @@ summer solstice, precisely in the same way as in Egypt a long avenue of
 sphinxes indicates the principal outlook of a temple.
 
 These earthen banks defining the avenue do not exist alone. As will be
-seen from the sketch plan ([Fig. 15](sac09.htm#img_fig15)), there is a
+seen from the sketch plan ([Fig. 15](sac09.htm#img_fig15).md), there is a
 general common line of direction for the avenue and the principal axis
 of the structure; and the general design of the building, together with
 the position and shape of the naos, indicates a close connection of the
@@ -230,7 +230,7 @@ than at present, 15´ 45″.
 From the above data the Sun's declination works out 23° 54´ 30″ N., and
 by Stockwell's tables of the obliquity, which are based upon modern
 determinations of the elements of the solar system, <span
-id="fr_13"></span>[1](#fn_13) the date is found to be 1680 B.C.
+id="fr_13"></span>[1](#fn_13.md) the date is found to be 1680 B.C.
 
 It is to be understood that on account of the slight uncertainty as to
 the original line of observation and the
@@ -261,21 +261,21 @@ corroborates the date at which we had arrived.
 
 ### Footnotes
 
-<span id="fn_10"></span>[62:1](sac10.htm#fr_10) This chapter and the end
+<span id="fn_10"></span>[62:1](sac10.htm#fr_10.md) This chapter and the end
 of the previous one are mainly based the paper communicated by Mr.
 Penrose and myself to the Royal Society (see *Proceedings, Royal
 Society*, vol. 69, p. 137 *et seq*.
 
-<span id="fn_11"></span>[62:2](sac10.htm#fr_11) *The Celtic Druids*.
+<span id="fn_11"></span>[62:2](sac10.htm#fr_11.md) *The Celtic Druids*.
 4to. London. 1827.
 
-<span id="fn_12"></span>[62:3](sac10.htm#fr_12) Stonehenge, &c. 1880.
+<span id="fn_12"></span>[62:3](sac10.htm#fr_12.md) Stonehenge, &c. 1880.
 
-<span id="fn_13"></span>[67:1](sac10.htm#fr_13) *Smithsonian
+<span id="fn_13"></span>[67:1](sac10.htm#fr_13.md) *Smithsonian
 Contributions to Knowledge*, vol. xviii. No. 232, table 9. Washington.
-1873. For curve, see page [130](sac16.htm#page_130).
+1873. For curve, see page [130](sac16.htm#page_130.md).
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. Archeological Observations at Stonehenge,
-1901](sac11)
+1901](sac11.md)

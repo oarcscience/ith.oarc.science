@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw10)  [Next](tfgw12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw10)  [Next](tfgw12.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,4 +165,4 @@ The Farmer of Tralee and the Fairy Cows
 
 ------------------------------------------------------------------------
 
-[Next: The Two Gamblers and the Fairies](tfgw12)
+[Next: The Two Gamblers and the Fairies](tfgw12.md)

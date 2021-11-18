@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos00)  [Next](kos02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos00)  [Next](kos02.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ LONDON, *October*, 1888.
 
 ------------------------------------------------------------------------
 
-[Next: List of Plates](kos02)
+[Next: List of Plates](kos02.md)

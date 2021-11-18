@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc031) 
-[Next](motc033) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc031.md) 
+[Next](motc033.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ is a vulgar one, without wit enough to make it worth recording.
 
 ------------------------------------------------------------------------
 
-[Next: 33. The Migration Of The Animals](motc033)
+[Next: 33. The Migration Of The Animals](motc033.md)

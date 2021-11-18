@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng31)  [Next](nblng33) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng31)  [Next](nblng33.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,4 +128,4 @@ In older English "arras" is used also for tapestry.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XXXI: How They Went To Church.](nblng33)
+[Next: Adventure XXXI: How They Went To Church.](nblng33.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt58)  [Next](pyt60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt58)  [Next](pyt60.md) 
 
 ------------------------------------------------------------------------
 
@@ -221,4 +221,4 @@ throne.
 ------------------------------------------------------------------------
 
 [Next: 57. A Series of Addresses to the Deceased King as a God,
-Utterance 690](pyt60)
+Utterance 690](pyt60.md)

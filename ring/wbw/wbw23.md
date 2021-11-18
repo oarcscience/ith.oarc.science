@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw22) 
-[Next](wbw24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw22.md) 
+[Next](wbw24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -102,6 +102,6 @@ the Maiden drew up to the fire, and turned to Walter and spake.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV: The Maid Tells Of What Had Befallen Her](wbw24)
+[Next: Chapter XXIV: The Maid Tells Of What Had Befallen Her](wbw24.md)
 
 </div>

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf06) [Next](bulf08) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf06) [Next](bulf08.md) 
 
 # CHAPTER VIII.
 
@@ -235,4 +235,4 @@ An allusion to Hyacinthus will also be recognized in Milton's "Lycidas":
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER IX. Ceyx And Halcyone: Or, The Halcyon Birds.](bulf08)
+Next: [CHAPTER IX. Ceyx And Halcyone: Or, The Halcyon Birds.](bulf08.md)

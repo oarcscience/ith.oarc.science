@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl20)  [Next](orl22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl20)  [Next](orl22.md) 
 
 ------------------------------------------------------------------------
 
@@ -830,4 +830,4 @@ What chanced in other canto you shall know.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 22](orl22)
+[Next: Canto 22](orl22.md)

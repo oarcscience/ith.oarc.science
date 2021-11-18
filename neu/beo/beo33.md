@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo32)  [Next](beo34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo32)  [Next](beo34.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ son for the killing of the other.
 
 ------------------------------------------------------------------------
 
-[Next: Part XXXV](beo34)
+[Next: Part XXXV](beo34.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](htaq02)  [Next](htaq04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](htaq02)  [Next](htaq04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hidden Treasures of the Ancient Qabalah*, by Elias Gewurz, \[1918\], at
 Intangible Textual Heritage
 
@@ -74,7 +74,7 @@ are much more subtle and more elusive?
 
 <span id="page_10">p. 10</span>
 
-If we lack certainty as regards the body [terrestrial](errata.htm#1),
+If we lack certainty as regards the body [terrestrial](errata.htm#1.md),
 how great must our ignorance be when we approach the celestial vehicles?
 
 And yet we cannot say we are without knowledge regarding our higher
@@ -383,4 +383,4 @@ Spirit and our souls into Thy keeping."
 ------------------------------------------------------------------------
 
 [Next: II. The Feminine Elements in Man and their Redeeming
-Power](htaq04)
+Power](htaq04.md)

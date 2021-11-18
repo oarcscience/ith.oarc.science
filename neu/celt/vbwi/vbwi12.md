@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi11)  [Next](vbwi13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi11)  [Next](vbwi13.md) 
 
 ------------------------------------------------------------------------
 
@@ -1853,4 +1853,4 @@ before that, not much time between them.
 
 ------------------------------------------------------------------------
 
-[Next: Butter](vbwi13)
+[Next: Butter](vbwi13.md)

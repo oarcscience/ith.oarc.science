@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe325)  [Next](prwe327) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe325)  [Next](prwe327.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ was given at her death to the poor of St Mary Week.
 
 ------------------------------------------------------------------------
 
-[Next: The Last of the Killigrews](prwe327)
+[Next: The Last of the Killigrews](prwe327.md)

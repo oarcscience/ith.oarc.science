@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos42)  [Next](kos44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos42)  [Next](kos44.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,8 +84,8 @@ his Disciples, he shall work thus:--
 First let him have a trumpet made of new wood, on the one side of which
 shall be written in Hebrew with the pen and ink of the Art these Names
 of God, ELOHIM GIBOR, ELOHIM TZABAOTH (*see [Figure
-59](kos44.htm#img_kos13)*); and on the other side these characters (*see
-[Figure 60](kos44.htm#img_kos13)*).
+59](kos44.htm#img_kos13)*.md); and on the other side these characters (*see
+[Figure 60](kos44.htm#img_kos13)*.md).
 
 Having entered into the Circle to perform the Experiment, he should
 sound this Trumpet towards the four quarters of the Universe, first
@@ -103,4 +103,4 @@ make the incensements and fumigations.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. Of the Knife, Sword, Sickle, Poniard, Dagger,
-Lance, Wand, Staff, And Other Instruments of Magical Art](kos44)
+Lance, Wand, Staff, And Other Instruments of Magical Art](kos44.md)

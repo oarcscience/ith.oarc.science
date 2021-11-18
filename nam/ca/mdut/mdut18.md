@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut17)  [Next](mdut19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut17)  [Next](mdut19.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ So he went off, after looking back. That is all, it is said.
 
 ------------------------------------------------------------------------
 
-[Next: 17. Mountain-Lion and His Children](mdut19)
+[Next: 17. Mountain-Lion and His Children](mdut19.md)

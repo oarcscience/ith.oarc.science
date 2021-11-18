@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb20)  [Next](orfb22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb20)  [Next](orfb22.md) 
 
 </div>
 
@@ -374,6 +374,6 @@ and his forefathers.
 
 ------------------------------------------------------------------------
 
-[Next: The Rover of the Plain](orfb22)
+[Next: The Rover of the Plain](orfb22.md)
 
 </div>

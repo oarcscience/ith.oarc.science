@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](cab05)  [Next](cab07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](cab05)  [Next](cab07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cabala*, by Bernhard Pick, \[1913\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -102,8 +102,8 @@ now found its way from Spain and Italy into Palestine and Poland.
 **Wonder Workers and Prophets**.--Passing over some minor advocates and
 teachers of the Cabala, we must mention two scholars in Palestine, who
 distinguished themselves as masters of the Cabala, Moses Cordovero <span
-id="fr_36"></span>[1](#fn_36) and Isaac Luria. The former (1522-1570)
-was a pupil of Solomon Alkabez <span id="fr_37"></span>[2](#fn_37) and
+id="fr_36"></span>[1](#fn_36) and Isaac Luria. The former (1522-1570.md)
+was a pupil of Solomon Alkabez <span id="fr_37"></span>[2](#fn_37.md) and
 wrote many works on the Cabala. His principal work is the *Pardes
 Rim-monim*, i.e.,
 
@@ -146,11 +146,11 @@ that the spurious Zohar was placed upon a level with, indeed higher
 than, the Holy Scriptures and the Talmud.
 
 The real exponent of Luria's cabalistic system was Chayim Vital
-Calabrese <span id="fr_38"></span>[3](#fn_38) (1543-1620). After his
+Calabrese <span id="fr_38"></span>[3](#fn_38) (1543-1620.md). After his
 master's death he diligently collected all the manuscript notes of the
 lectures delivered by Luria, which together with his own jottings Vital
 published under the title of *Ez chayim*, i.e., "The Tree of
-Life," <span id="fr_39"></span>[4](#fn_39) having spent over thirty
+Life," <span id="fr_39"></span>[4](#fn_39.md) having spent over thirty
 years upon their preparation. The work consists of six parts; that
 portion which treats of the doctrine of metempsychosis (*Hagilgulim*),
 is found
@@ -184,7 +184,7 @@ the Rites, Customs and
 
 <span class="contnote">\[paragraph continues\]</span> Manner of Life of
 the Jews" (Padua, 1640), and translated into Latin, French, Dutch,
-English. <span id="fr_40"></span>[5](#fn_40) But besides this and other
+English. <span id="fr_40"></span>[5](#fn_40.md) But besides this and other
 works, he also wrote a polemical treatise against the Cabalists, whom he
 despised and derided, entitled *Ari noham*, i.e., "Roaring Lion,"
 published by Julius Fürst, Leipsic, 1840. In this treatise he shows that
@@ -201,7 +201,7 @@ But no opposition could stem the tide of the Cabala. Its wonder-working
 branch had now largely laid hold on the minds and fancies of the Jews,
 and was producing among them the most mournful and calamitous effects.
 The chief actor in this tragedy was the cabalist Sabbatai Zebi, <span
-id="fr_41"></span>[6](#fn_41)
+id="fr_41"></span>[6](#fn_41.md)
 
 <span id="page_62">p. 62</span>
 
@@ -211,7 +211,7 @@ audiences at the age of eighteen. When twenty-four years of age, he
 revealed to his disciples that he was the Messiah, the son of David, the
 true Redeemer, and that he was to redeem and deliver Israel from their
 captivity. At the same time he publicly pronounced the
-Tetragrammaton, <span id="fr_42"></span>[7](#fn_42) which the high
+Tetragrammaton, <span id="fr_42"></span>[7](#fn_42.md) which the high
 priest was only permitted to do on the day of atonement. As he would not
 desist, he was excommunicated by the Jewish sages at Smyrna. He went to
 Salonica, Athens, Morea and Jerusalem, teaching his doctrines,
@@ -234,7 +234,7 @@ followers was not diminished.
 
 Famous as a champion of orthodoxy was Jacob Israel Emden (1696-1776)
 rabbi of Altona. During his rabbinate there, the famous Jonathan
-Eybenschütz <span id="fr_43"></span>[8](#fn_43) (born in Cracow in 1690)
+Eybenschütz <span id="fr_43"></span>[8](#fn_43) (born in Cracow in 1690.md)
 was called to Altona in 1750, since the German and Polish Jews were
 divided in that place. As every rabbi was regarded as a sort of
 magician, the new-comer was expected to stop the epidemic raging at that
@@ -261,7 +261,7 @@ and Eybenschütz was elected anew as rabbi of the congregation.
 Eybenschütz died in 1764 and was followed twelve years later by his
 opponent Emden. Both are buried in the Jewish cemetery of Altona.
 
-Another Zoharite was Jacob Frank <span id="fr_44"></span>[9](#fn_44)
+Another Zoharite was Jacob Frank <span id="fr_44"></span>[9](#fn_44.md)
 (Jankiew Lebowicz), the founder of the Jewish sect of the Frankists,
 born in Poland in 1712. He acquired a great reputation as a Cabalist,
 and settled in Podolia, where he preached a new doctrine, the
@@ -290,41 +290,41 @@ curiosity or an object of literary historical disquisitions.
 
 ### Footnotes
 
-<span id="fn_36"></span>[57:1](cab06.htm#fr_36) See my article *s.v.*
+<span id="fn_36"></span>[57:1](cab06.htm#fr_36.md) See my article *s.v.*
 "Moses Cordovero," *loc. cit.*
 
-<span id="fn_37"></span>[57:2](cab06.htm#fr_37) <span id="page_58">p.
+<span id="fn_37"></span>[57:2](cab06.htm#fr_37.md) <span id="page_58">p.
 58</span> He is the author of a hymn "*Lecha dodi*," i.e., "Come my
 beloved," which is found in all Jewish prayer-books, and used in the
 service for Sabbath eve.
 
-<span id="fn_38"></span>[59:3](cab06.htm#fr_38) See my article *s.v.*
+<span id="fn_38"></span>[59:3](cab06.htm#fr_38.md) See my article *s.v.*
 "Vital" in McClintock and Strong.
 
-<span id="fn_39"></span>[59:4](cab06.htm#fr_39) For a description of the
+<span id="fn_39"></span>[59:4](cab06.htm#fr_39.md) For a description of the
 component parts of this work, see Fürst, *Bibliotheca Judaica*, III, pp.
 479-481.
 
-<span id="fn_40"></span>[61:5](cab06.htm#fr_40) The English translation
+<span id="fn_40"></span>[61:5](cab06.htm#fr_40.md) The English translation
 is found in Picard's *Ceremonies and Religious Customs of the Various
 Nations of the Known World*, Vol. I, London, 1733.
 
-<span id="fn_41"></span>[61:6](cab06.htm#fr_41) See my article *s.v.*
+<span id="fn_41"></span>[61:6](cab06.htm#fr_41.md) See my article *s.v.*
 "Sabbatai Zebi" in McClintock and Strong; see also *Geschichte des
 Sabbatai-Zebi, sein Leben and Treiben*, Warsaw, 1883; and *Der
 Erzbetrüger Sabbatai Sevi, der letzte falsche Messias der Juden*, etc.,
 Halle, 1760; Berlin, 1908.
 
-<span id="fn_42"></span>[62:7](cab06.htm#fr_42) Called by the Jews
+<span id="fn_42"></span>[62:7](cab06.htm#fr_42.md) Called by the Jews
 *shem-hammephorash*, on which see my article *s.v.* in McClintock and
 Strong.
 
-<span id="fn_43"></span>[63:8](cab06.htm#fr_43) See my article *s.v.*
+<span id="fn_43"></span>[63:8](cab06.htm#fr_43.md) See my article *s.v.*
 "*Eybenschütz*" in *loc. cit.*, Vol. XII, p. 367.
 
-<span id="fn_44"></span>[64:9](cab06.htm#fr_44) Comp. Graetz, *Frank and
+<span id="fn_44"></span>[64:9](cab06.htm#fr_44.md) Comp. Graetz, *Frank and
 die Frankisten*, Berlin, 1868.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Most Important Doctrines of the Cabala](cab07)
+[Next: Chapter V. The Most Important Doctrines of the Cabala](cab07.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Hindu
-Articles](../../hin/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Hindu
+Articles](../../hin/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ Upanishad* (Weber's ed. p. 213, 10), where the true Brâhman is described
 as the 'contented man, free from desires and passions, who sees
 everything as visibly before him as a myrobalan on the palm of his hand'
 (*karatalâmalakam iva*)<span id="page_25_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_25_note_1); and this is the
+class="small">1</span></sup>](#page_25_note_1.md); and this is the
 interpretation which one of my Pa.n.dits in Calcutta gave to the title.
 
    The ultimate identity of the individual and the supreme soul is the
@@ -83,7 +83,7 @@ delusion remains latent, and is still capable of being called out into
 actuality. Only the knowledge of the highest truth, as taught in the
 Vedânta, can abolish ignorance, and so destroy personality in its
 germ.<span id="page_25_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_25_note_2)
+class="small">2</span></sup>](#page_25_note_2.md)
 
    The soul's real nature, as identical with Brahma, is always described
 as 'essentially existent, intelligence, and joy'; but though defined as
@@ -92,7 +92,7 @@ object, as all objects, as well as the internal organ or 'mind' which
 cognizes transient perceptions, are produced by 'ignorance' and
 therefore unreal. There is a striking verse of the *Yoga-vâšish.ta*<span
 id="page_25_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_25_note_3):--
+class="small">3</span></sup>](#page_25_note_3.md):--
 
    "As would be the pure nature of light if all that is illumined by it,
 as space, earth, and ether, were annihilated, such is the loneliness of
@@ -120,7 +120,7 @@ ether,--that Soul, essentially eternal perception, am I.
 eternal knowledge (as fire is essentially heat), is the substratum which
 bears, as they act, the mind, eye, and the rest,--which are mere
 Ignorance<span id="page_26_fr_6"></span>[<sup><span
-class="small">6</span></sup>](#page_26_note_6),--that Soul, essentially
+class="small">6</span></sup>](#page_26_note_6.md),--that Soul, essentially
 eternal perception, am I.
 
    5. 'The reflection of the face seen in the mirror is nothing in
@@ -169,12 +169,12 @@ perception, am I.
 with which nothing ever yet comes in contact, and which, like the ether,
 is always pure and uncontaminated<span
 id="page_27_fr_7"></span>[<sup><span
-class="small">7</span></sup>](#page_27_note_7) in its nature,--that
+class="small">7</span></sup>](#page_27_note_7.md) in its nature,--that
 Soul, essentially eternal perception, am I.
 
    14. 'As the pure crystals appear different by the presence of a
 disguiser,<span id="page_27_fr_8"></span>[<sup><span
-class="small">8</span></sup>](#page_27_note_8) so thou too appearest
+class="small">8</span></sup>](#page_27_note_8.md) so thou too appearest
 different by the diversity of individual minds; as the moonbeams appear
 to be tremulous in the water, so thou too, O Vish.nu, appearest to
 flicker in our world!'
@@ -236,11 +236,11 @@ Khurâsân.
    My place is no place, my sign is without sign:  
    I have neither body nor soul,--what is there then? I am the soul of
 my beloved."<span id="page_27_fr_10"></span>[<sup><span
-class="small">10</span></sup>](#page_27_note_10)
+class="small">10</span></sup>](#page_27_note_10.md)
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Hindu Articles](../../hin/etc/index)
+[Journals](../index) [Hindu Articles](../../hin/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -248,21 +248,21 @@ class="small">10</span></sup>](#page_27_note_10)
 
 <span id="footnotes_page_25"></span>p. 25
 
-<span id="page_25_note_1"></span>[1](#page_25_fr_1). Cf. also
+<span id="page_25_note_1"></span>[1](#page_25_fr_1.md). Cf. also
 Vijnâna-bhikshu, *Comm. on Sânkhya Sûtra*, p. 96, 2 infr.
 
-<span id="page_25_note_2"></span>[2](#page_25_fr_2). There is a
+<span id="page_25_note_2"></span>[2](#page_25_fr_2.md). There is a
 remarkable passage in Hippolytus' *Philosophumena* I. p. 29.--{Greek:
 *touto dè tò fws ó fasi lógon tòn ðeòn, autòus mónous eidénai Braxmanas
 légousi, dià tò aporripsai mónous thn kenodoksían, ó esti xitwn ths
 psuxhs ésxatos*}.
 
-<span id="page_25_note_3"></span>[3](#page_25_fr_3). Quoted in
+<span id="page_25_note_3"></span>[3](#page_25_fr_3.md). Quoted in
 Vijnâna-bhiksu's *Comm. on Sânkhya Sûtra*, p. 97.
 
 <span id="footnotes_page_26"></span>p. 26
 
-<span id="page_26_note_6"></span>[6](#page_26_fr_6). The MS. Comm. takes
+<span id="page_26_note_6"></span>[6](#page_26_fr_6.md). The MS. Comm. takes
 it differently:--"that which being itself one, unchangeable, and
 essentially eternal knowledge, is the substratum which bears as they
 act, the mind, eye and the rest; which are mere ignorance,--as the fire
@@ -270,13 +270,13 @@ is the substratum that bears the heat,--that Soul; essentially, &c.
 
 <span id="footnotes_page_27"></span>p. 27
 
-<span id="page_27_note_7"></span>[7](#page_27_fr_7). The printed Comm.
+<span id="page_27_note_7"></span>[7](#page_27_fr_7.md). The printed Comm.
 explains *achchha* as *amûrtta*, the MS. as *samsargarahita*.
 
-<span id="page_27_note_8"></span>[8](#page_27_fr_8). As the China rose
+<span id="page_27_note_8"></span>[8](#page_27_fr_8.md). As the China rose
 reflected in it.
 
-<span id="page_27_note_10"></span>[10](#page_27_fr_10). From *The
+<span id="page_27_note_10"></span>[10](#page_27_fr_10.md). From *The
 Journal of Philology*, Vol. VI. (1876) pp. 161-169.
 
  

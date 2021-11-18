@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth111)  [Next](toth113) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth111)  [Next](toth113.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 109. A RAID ON THE HOPI VILLAGES. <span id="fr_200"></span>[1](#fn_198)
+## 109. A RAID ON THE HOPI VILLAGES. <span id="fr_200"></span>[1](#fn_198.md)
 
 Halíksai! At the old ruin on top of the hill (about seven miles
 north-east of Oraíbi) used to live some people. Across the valley on
@@ -68,9 +68,9 @@ latter, after having taken some women and children, escaped.
 
 ### Footnotes
 
-<span id="fn_198"></span>[267:1](toth112.htm#fr_200) Told by Kwáyeshva
+<span id="fn_198"></span>[267:1](toth112.htm#fr_200.md) Told by Kwáyeshva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 110. The Early Spanish Missions At Oraíbi](toth113)
+[Next: 110. The Early Spanish Missions At Oraíbi](toth113.md)

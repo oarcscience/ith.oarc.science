@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](busc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](busc.txt.gz)
+[Contents](#contents)    [Start Reading](busc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](busc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -38,31 +38,31 @@ all here.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](busc00)  
-[Contents](busc01)  
-[Editorial Note](busc02)  
-[Introduction](busc03)  
-[I. The Dream of Queen Māyā](busc04)  
-[II. The Birth of Gotama](busc05)  
-[III. The Four Signs](busc06)  
-[IV. The Great Renunciation](busc07)  
-[V. The Chain of Causation](busc08)  
-[VI. The Beginning of Buddha's Preaching](busc09)  
-[VII. The Ordination of Yasa](busc10)  
-[VIII. The Ten Commandments](busc11)  
-[IX. The Fire Discourse](busc12)  
-[X. The Weaver's Daughter](busc13)  
-[XI. The Questions of Mālunkyāputta](busc14)  
-[XII. The Questions of Uttiya](busc15)  
-[XIII. The Questions of Vacchagotta](busc16)  
-[XIV. Birth-Story of the Blessings of the Commandments](busc17)  
-[XV. Birth-Story of King Mahāsīlava](busc18)  
-[XVI. Birth-Story of the City with Four Gates](busc19)  
-[XVII. The Pig-Faced Ghost](busc20)  
-[XVIII. The Jewel Discourse. A Spell](busc21)  
-[XIX. Dhaniya The Herdsman](busc22)  
-[XX. Buddha's Visit To Chunda](busc23)  
-[XXI. The Death of Buddha](busc24)  
-[XXII. The Non-Existence of Individuality](busc25)  
-[XXIII. Non-Individuality and Moral Responsibility](busc26)  
-[Advertisements](busc27)  
+<span id="contents"></span> [Title Page](busc00.md)  
+[Contents](busc01.md)  
+[Editorial Note](busc02.md)  
+[Introduction](busc03.md)  
+[I. The Dream of Queen Māyā](busc04.md)  
+[II. The Birth of Gotama](busc05.md)  
+[III. The Four Signs](busc06.md)  
+[IV. The Great Renunciation](busc07.md)  
+[V. The Chain of Causation](busc08.md)  
+[VI. The Beginning of Buddha's Preaching](busc09.md)  
+[VII. The Ordination of Yasa](busc10.md)  
+[VIII. The Ten Commandments](busc11.md)  
+[IX. The Fire Discourse](busc12.md)  
+[X. The Weaver's Daughter](busc13.md)  
+[XI. The Questions of Mālunkyāputta](busc14.md)  
+[XII. The Questions of Uttiya](busc15.md)  
+[XIII. The Questions of Vacchagotta](busc16.md)  
+[XIV. Birth-Story of the Blessings of the Commandments](busc17.md)  
+[XV. Birth-Story of King Mahāsīlava](busc18.md)  
+[XVI. Birth-Story of the City with Four Gates](busc19.md)  
+[XVII. The Pig-Faced Ghost](busc20.md)  
+[XVIII. The Jewel Discourse. A Spell](busc21.md)  
+[XIX. Dhaniya The Herdsman](busc22.md)  
+[XX. Buddha's Visit To Chunda](busc23.md)  
+[XXI. The Death of Buddha](busc24.md)  
+[XXII. The Non-Existence of Individuality](busc25.md)  
+[XXIII. Non-Individuality and Moral Responsibility](busc26.md)  
+[Advertisements](busc27.md)  

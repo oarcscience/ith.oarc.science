@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mcb02)  [Next](mcb04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mcb02)  [Next](mcb04.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 # I.
 
-### Meister Eckhart <span id="fr_0"></span>[1](#fn_0) and Buddhism
+### Meister Eckhart <span id="fr_0"></span>[1](#fn_0.md) and Buddhism
 
 ### I
 
@@ -61,7 +61,7 @@ soul is eternity's day,
 <span id="page_5">p. 5</span>
 
 on which the Father begets his only begotten Son and the soul is reborn
-in God. <span id="fr_1"></span>[2](#fn_1)
+in God. <span id="fr_1"></span>[2](#fn_1.md)
 
 The soul's day and God's day are different. In her natural day the soul
 knows all things above time and place; nothing is far or near. And that
@@ -72,13 +72,13 @@ gone a thousand years ago is now as present and as near to God as this
 very instant. The soul who is in this present now, in her the Father
 bears his one-begotten Son and in that same birth the soul is born back
 into God. It is one birth; as fast as she is reborn into God the Father
-is begetting his only Son in her. <span id="fr_2"></span>[3](#fn_2)
+is begetting his only Son in her. <span id="fr_2"></span>[3](#fn_2.md)
 
 God the Father and the Son have nothing to do with time. Generation is
 not in time, but at the end and limit of time. In the past and future
 movements of things, your heart flits about; it is in vain that you
 attempt to know eternal things; in divine things, you should be occupied
-intellectually . . . .  <span id="fr_3"></span>[4](#fn_3)
+intellectually . . . .  <span id="fr_3"></span>[4](#fn_3.md)
 
 Again, God loves for his own sake, acts for his own sake: that means
 that he loves for the sake of love and acts for the sake of action. It
@@ -86,7 +86,7 @@ cannot be doubted that God would never have begot his Son in eternity if
 \[his idea of\] creation were other than \[his act of\] creation. Thus
 God created the world so that he might keep on creating. The past and
 future are both far from God and alien to his way. <span
-id="fr_4"></span>[5](#fn_4)
+id="fr_4"></span>[5](#fn_4.md)
 
 From these passages we see that the Biblical story of Creation is
 thoroughly contradicted; it has not even a symbolic meaning in Eckhart,
@@ -118,7 +118,7 @@ fact of its being through being and from being. Therefore, if being is
 something different from God, a thing has its being from something other
 than God. Besides, there is nothing prior to being because that which
 confers being creates and is a creator. To create is to give being out
-of nothing. <span id="fr_5"></span>[6](#fn_5)
+of nothing. <span id="fr_5"></span>[6](#fn_5.md)
 
 Eckhart is quite frequently metaphysical and makes one wonder how his
 audience took to his sermons--an audience which is supposed to have been
@@ -149,7 +149,7 @@ remotest notion of what being means she would never waver from it for an
 instant. The most trivial thing perceived in God, a flower for example
 as espied in God, would be a thing more perfect than the universe. The
 vilest thing present in God as being is better than angelic
-knowledge. <span id="fr_6"></span>[7](#fn_6)
+knowledge. <span id="fr_6"></span>[7](#fn_6.md)
 
 This passage may sound too abstract to most readers. The sermon is said
 to have been given on the commemoration day of the "blessed martyrs who
@@ -185,7 +185,7 @@ and that he loves his work! That work is love and love is God. God loves
 himself and his own nature, being and Godhead, and in the love he has
 for himself he loves all creatures, not as creatures but as God. The
 love God bears himself contains his love for the whole world. <span
-id="fr_7"></span>[8](#fn_7)
+id="fr_7"></span>[8](#fn_7.md)
 
 Eckhart's statement regarding God's self-love which "contains his love
 for the whole world" corresponds in a way to the Buddhist idea of
@@ -217,7 +217,7 @@ all but he, he all but me."--I say, God must be very I, I very God, so
 consummately one that this he and this I are one "is," in this is-ness
 working one work eternally; but so long as this he and this I, to wit,
 God and the soul, are not one single here, one single now, the I cannot
-work with nor be one with that he. <span id="fr_8"></span>[9](#fn_8)
+work with nor be one with that he. <span id="fr_8"></span>[9](#fn_8.md)
 
 What is life? God's being is my life, but if it is so, then what is
 God's must be mine and what is mine God's. God's is-ness is
@@ -226,7 +226,7 @@ God's must be mine and what is mine God's. God's is-ness is
 
 my is-ness, and neither more nor less. The just live eternally with God,
 on a par with God, neither deeper nor higher. All their work is done by
-God and God's by them. <span id="fr_9"></span>[10](#fn_9)
+God and God's by them. <span id="fr_9"></span>[10](#fn_9.md)
 
 Going over these quotations, we feel that it was natural that orthodox
 Christians of his day accused Eckhart as a "heretic" and that he
@@ -239,16 +239,16 @@ often too deep and strong for any form of reconciliation. This is what
 makes Eckhart complain about his opponents not being able to grasp his
 point. He would remonstrate: "Could you see with my heart you would
 understand my words, but, it is true, for the truth itself has said
-it." <span id="fr_10"></span>[11](#fn_10) Augustine is however tougher
+it." <span id="fr_10"></span>[11](#fn_10.md) Augustine is however tougher
 than Eckhart: "What is it to me though any comprehend not this!" <span
-id="fr_11"></span>[12](#fn_11)
+id="fr_11"></span>[12](#fn_11.md)
 
 ### III
 
 One of Eckhart's heresies was his pantheistic tendency. He seemed to put
 man and God on an equal footing: "The Father begets his Son in me and I
 am there in the same Son and not another." <span
-id="fr_12"></span>[13](#fn_12) While it is dangerous to criticize
+id="fr_12"></span>[13](#fn_12.md) While it is dangerous to criticize
 Eckhart summarily as a pantheist by picking one or two passages at
 random from his sermons, there is no doubt that his sermons
 
@@ -267,7 +267,7 @@ working. Yet matter is not, on this account, form, or conversely. So in
 the proposition. A holy soul is one with God, according to John 17:21.
 That they all may be one in us, even as we are one. Still the creature
 is not the creator, nor is the just man God. <span
-id="fr_13"></span>[14](#fn_13)
+id="fr_13"></span>[14](#fn_13.md)
 
 God and Godhead are as different as earth is from heaven. Moreover I
 declare: the outward and the inward man are as different, too, as earth
@@ -275,7 +275,7 @@ and heaven. God is higher, many thousand miles. Yet God comes and goes.
 But to resume my argument: God enjoys himself in all things. The sun
 sheds his light upon all creatures, and anything he sheds his beams upon
 absorbs them, yet he loses nothing of his brightness. <span
-id="fr_14"></span>[15](#fn_14)"
+id="fr_14"></span>[15](#fn_14.md)"
 
 From this we can see most decidedly that Eckhart was far from being a
 pantheist. In this respect Mahāyāna Buddhism is also frequently and
@@ -326,7 +326,7 @@ Eckhart's writing, though there are some Oriental factors in the
 European tradition, derived from neo-Platonic and Arabic sources. But
 what is proved by analogies is not the influence of one system of
 thought upon another, but the coherence of the metaphysical tradition in
-the world and at all times. <span id="fr_15"></span>[16](#fn_15)
+the world and at all times. <span id="fr_15"></span>[16](#fn_15.md)
 
 ### IV
 
@@ -362,7 +362,7 @@ that it is no other than absolute detachment (*abegescheidenheit*) from
 everything that is created. It was in this sense when our Lord said to
 Martha: "One thing is needed," which is to say: He who would be
 untouched and pure needs just one thing, detachment. <span
-id="fr_16"></span>[17](#fn_16)
+id="fr_16"></span>[17](#fn_16.md)
 
 What then is the content of absolute detachment? It cannot be designated
 "as this or that," as Eckhart says. It is pure nothing (*bloss niht*),
@@ -375,7 +375,7 @@ neither likeness nor unlikeness, neither this nor that, to any creature;
 the only thing it desires to be is to be one and the same. For to be
 either this or that is to want something. He who is this or that is
 somebody; but detachment wants altogether nothing. It leaves all things
-unmolested. <span id="fr_17"></span>[18](#fn_17)
+unmolested. <span id="fr_17"></span>[18](#fn_17.md)
 
 While Buddhist emphasis is on the emptiness of all "composite things"
 (*skandha*) and is therefore metaphysical, Eckhart here insists on the
@@ -392,7 +392,7 @@ pure nothing, for "all things were made by him \[God\] and without him
 was not anything made" (John, 1:3). Further, "If without God a creature
 has any being however small, then God is not the cause of all things.
 Besides, a creature will not be created, for creation is the receiving
-of being from nothing."} <span id="fr_18"></span>[19](#fn_18) What could
+of being from nothing."} <span id="fr_18"></span>[19](#fn_18.md) What could
 this mean? How could any being come from nothing or non-being?
 Psychology herein inevitably turns to metaphysics. We here encounter the
 problem of Godhead.
@@ -430,7 +430,7 @@ nobler than my emanation. I alone take all creatures out of their sense
 into my mind and make them one in me. When I go back into the ground,
 into the depths, into the well-spring of the Godhead, no one will ask me
 whence I came or whither I went. No one missed me: God passes
-away. <span id="fr_19"></span>[20](#fn_19)
+away. <span id="fr_19"></span>[20](#fn_19.md)
 
 What would Christians think of "the divine core of pure (or absolute)
 stillness," or of "the simple core which is the still desert onto which
@@ -443,7 +443,7 @@ has made frequent references in his sermons to "a light in the soul that
 is uncreated" and that "this light is not satisfied by the simple still,
 motionless essence of the divine being that neither gives nor takes. It
 is more interested in knowing where this essence came from." <span
-id="fr_20"></span>[21](#fn_20) This "where" is where "the Father, the
+id="fr_20"></span>[21](#fn_20.md) This "where" is where "the Father, the
 Son, and the Holy Ghost" have not yet made their distinctions. To come
 in touch with this source and to know what it is, that is to say, "to
 see my own face
@@ -458,20 +458,20 @@ Hui-nêng (Yeno, died 713), the sixth patriarch of Zen Buddhism in China.
 This corresponds to Eckhart's statement which he quotes as by "an
 authority": "Blessed are the pure in heart who leave everything to God
 now as they did before ever they existed." <span
-id="fr_21"></span>[22](#fn_21) Those who have not tasted wine in the
-cellar <span id="fr_22"></span>[23](#fn_22) may put in a question here:
+id="fr_21"></span>[22](#fn_21.md) Those who have not tasted wine in the
+cellar <span id="fr_22"></span>[23](#fn_22.md) may put in a question here:
 "How could we talk about a man's purity of heart prior to his existence?
 How could we also talk about seeing our own face before we were born?"
 Eckhart quotes St. Augustine: "There is a heavenly door for the soul
 into the divine nature--where somethings are reduced to nothing." <span
-id="fr_23"></span>[24](#fn_23) Evidently we have to wait for the
+id="fr_23"></span>[24](#fn_23.md) Evidently we have to wait for the
 heavenly door to open by our repeated or ceaseless knocking at it when I
 am "ignorant with knowing, loveless with loving, dark with light." <span
-id="fr_24"></span>[25](#fn_24) "Everything comes out of this basic
+id="fr_24"></span>[25](#fn_24.md) "Everything comes out of this basic
 experience and it is only when this is comprehended that we really enter
 into the realm of emptiness where the Godhead keeps our discriminatory
 mind altogether "emptied out to nothingness." <span
-id="fr_25"></span>[26](#fn_25)
+id="fr_25"></span>[26](#fn_25.md)
 
 ### V
 
@@ -503,7 +503,7 @@ all things in the world. . . .
 It is like a deep pool that never dries  
 I do not know whose child it could be.  
 It looks as if it were prior to God. <span
-id="fr_26"></span>[27](#fn_26)
+id="fr_26"></span>[27](#fn_26.md)
 
 There is another and more detailed characterization of Tao in Chapter
 XIV:
@@ -544,7 +544,7 @@ theologian is more conceptual. He would say:
 "God is perfect simplicity."
 
 "Prior to creatures, in the eternal now, I have played before the Father
-in his eternal stillness." <span id="fr_27"></span>[28](#fn_27)
+in his eternal stillness." <span id="fr_27"></span>[28](#fn_27.md)
 
 For comparison I will give another definition for Tao from *Tao Tê
 Ching*, Chapter XXV:
@@ -612,7 +612,7 @@ It is worth our consideration as illustrating the way in which the Zen
 teachers handle the problem of "Emptiness" or "absolute nothingness" or
 the "still desert" lying beyond "this and that" and prior to "before and
 after." The story and comments are taken from a Chinese Zen
-textbook <span id="fr_28"></span>[29](#fn_28) of the Sung dynasty of the
+textbook <span id="fr_28"></span>[29](#fn_28.md) of the Sung dynasty of the
 eleventh century. The text
 
 <span id="page_22">p. 22</span>
@@ -650,14 +650,14 @@ then our ignorance is ennobled and adorned with supernatural
 
 <span id="page_23">p. 23</span>
 
-knowledge." <span id="fr_29"></span>[30](#fn_29) It was this kind of
+knowledge." <span id="fr_29"></span>[30](#fn_29.md) It was this kind of
 unknowing which is transcendental, divine, and supernatural that he
 wished his imperial friend to realize.
 
 From our ordinary relative point of view Bodhidharma may seem too abrupt
 and unacceptable. But the fact is that the knowledge or "I do not know"
 which is gained only by "sinking into oblivion and ignorance" <span
-id="fr_30"></span>[31](#fn_30) is something quite abrupt or discrete or
+id="fr_30"></span>[31](#fn_30.md) is something quite abrupt or discrete or
 discontinuous in the human system of knowability, for we can get it only
 by leaping or plunging into the silent valley of Absolute Emptiness.
 There is no continuity between this and the knowledge we highly value in
@@ -671,7 +671,7 @@ below do not follow the line we ordinarily do. They have this unique
 way. Yengo, (1063-1135) gives his evaluation of the *mondo* ("question
 and answer") which took place between Bodhidharma and the Emperor Wu of
 the Liang dynasty in the following words: <span
-id="fr_31"></span>[32](#fn_31)
+id="fr_31"></span>[32](#fn_31.md)
 
 Bodhidharma came to this country, via the southern route, seeing that
 there was something in Chinese mentality which responds readily to the
@@ -766,7 +766,7 @@ Never knowing when to suspend its work."
 
 Seccho (the master commentator) now turns around and surveying the
 entire congregation (as he was reciting his versified comments), asks:
-"O Brethren, is not our Patriarch <span id="fr_32"></span>[33](#fn_32)
+"O Brethren, is not our Patriarch <span id="fr_32"></span>[33](#fn_32.md)
 to be discovered among us at this very moment?"
 
 After this interruption, Seccho continues, "Yes, yes, be is here! Let
@@ -782,7 +782,7 @@ New York?
 
 A few more remarks about "Emptiness."
 
-Relativity is an aspect <span id="fr_33"></span>[34](#fn_33) of Reality
+Relativity is an aspect <span id="fr_33"></span>[34](#fn_33.md) of Reality
 and not Reality itself. Relativity is possible somewhere between two or
 more things, for this is the way that makes one get related to another.
 
@@ -1066,7 +1066,7 @@ Day in day out, I pass my time in a most lively way.
 Only I notice my inside filled with a sense of fullness and
 satisfaction;  
 I do not go out any longer, hither and thither, with my begging bowl for
-food. <span id="fr_34"></span>[35](#fn_34)
+food. <span id="fr_34"></span>[35](#fn_34.md)
 
 What is of the most significant interest in his verse-story of Rakan
 Osho's experience is that "he for the first time perceived that the sun
@@ -1082,7 +1082,7 @@ death."
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](mcb03.htm#fr_0) There are two English
+<span id="fn_0"></span>[3:1](mcb03.htm#fr_0.md) There are two English
 translations of Eckhart, one British and the other American. The
 British, in two volumes, is by C. de B. Evans, published by John M.
 Watkins, London, 1924. The American translation is by Raymond B.
@@ -1095,100 +1095,100 @@ translations are mainly based on the Pfeiffer edition. In the present
 book, "Blakney" refers to the Blakney translation and "Evans" to the
 Evans, Vol. I, while "Pfeiffer" means his German edition of 1914.
 
-<span id="fn_1"></span>[5:2](mcb03.htm#fr_1) Blakney, p. 212.
+<span id="fn_1"></span>[5:2](mcb03.htm#fr_1.md) Blakney, p. 212.
 
-<span id="fn_2"></span>[5:3](mcb03.htm#fr_2) Evans, p. 209.
+<span id="fn_2"></span>[5:3](mcb03.htm#fr_2.md) Evans, p. 209.
 
-<span id="fn_3"></span>[5:4](mcb03.htm#fr_3) Blakney, p. 292.
+<span id="fn_3"></span>[5:4](mcb03.htm#fr_3.md) Blakney, p. 292.
 
-<span id="fn_4"></span>[5:5](mcb03.htm#fr_4) *Ibid*., p. 62.
+<span id="fn_4"></span>[5:5](mcb03.htm#fr_4.md) *Ibid*., p. 62.
 
-<span id="fn_5"></span>[6:6](mcb03.htm#fr_5) *Ibid*., p. 278.
+<span id="fn_5"></span>[6:6](mcb03.htm#fr_5.md) *Ibid*., p. 278.
 
-<span id="fn_6"></span>[7:7](mcb03.htm#fr_6) Evans, p. 206.
+<span id="fn_6"></span>[7:7](mcb03.htm#fr_6.md) Evans, p. 206.
 
-<span id="fn_7"></span>[8:8](mcb03.htm#fr_7) Blakney, pp. 224-5.
+<span id="fn_7"></span>[8:8](mcb03.htm#fr_7.md) Blakney, pp. 224-5.
 
-<span id="fn_8"></span>[9:9](mcb03.htm#fr_8) Evans, p. 247.
+<span id="fn_8"></span>[9:9](mcb03.htm#fr_8.md) Evans, p. 247.
 
-<span id="fn_9"></span>[10:10](mcb03.htm#fr_9) Blakney, p. 180.
+<span id="fn_9"></span>[10:10](mcb03.htm#fr_9.md) Blakney, p. 180.
 
-<span id="fn_10"></span>[10:11](mcb03.htm#fr_10) Evans, p. 38.
+<span id="fn_10"></span>[10:11](mcb03.htm#fr_10.md) Evans, p. 38.
 
-<span id="fn_11"></span>[10:12](mcb03.htm#fr_11) Quoted by Eckhart,
+<span id="fn_11"></span>[10:12](mcb03.htm#fr_11.md) Quoted by Eckhart,
 Blakney, p. 305.
 
-<span id="fn_12"></span>[10:13](mcb03.htm#fr_12) Cf. Blakney, p. 214:
+<span id="fn_12"></span>[10:13](mcb03.htm#fr_12.md) Cf. Blakney, p. 214:
 "The soul that lives in the present Now-moment is the soul in which the
 Father begets his only begotten Son and in that birth the soul is born
 again into God. It is one birth, as fast as she is reborn into God the
 Father is begetting his only Son in her." (The last sentence is from
 Evans, p. 209.)
 
-<span id="fn_13"></span>[11:14](mcb03.htm#fr_13) *Ibid*., "The Defense,"
+<span id="fn_13"></span>[11:14](mcb03.htm#fr_13.md) *Ibid*., "The Defense,"
 p. 303.
 
-<span id="fn_14"></span>[11:15](mcb03.htm#fr_14) Evans, pp. 142-3.
+<span id="fn_14"></span>[11:15](mcb03.htm#fr_14.md) Evans, pp. 142-3.
 
-<span id="fn_15"></span>[13:16](mcb03.htm#fr_15) *The Transformation of
+<span id="fn_15"></span>[13:16](mcb03.htm#fr_15.md) *The Transformation of
 Nature in Art*, p. 201.
 
-<span id="fn_16"></span>[14:17](mcb03.htm#fr_16) Blakney, "About
+<span id="fn_16"></span>[14:17](mcb03.htm#fr_16.md) Blakney, "About
 Disinterest," p. 82. The translator prefers "disinterest" to
 "detachment" for *abegescheidenheit*. I really do not know which is
 better. The German word seems to correspond to the Sanskrit
 *anabhīnivesa* or *asanga* (*mushūjaku* in Japanese and *wu chih chu* in
 Chinese), meaning "not attached," "not clinging to."
 
-<span id="fn_17"></span>[14:18](mcb03.htm#fr_17) Evans, with a little
+<span id="fn_17"></span>[14:18](mcb03.htm#fr_17.md) Evans, with a little
 change, pp. 341-2.
 
-<span id="fn_18"></span>[15:19](mcb03.htm#fr_18) Blakney, pp. 298-9.
+<span id="fn_18"></span>[15:19](mcb03.htm#fr_18.md) Blakney, pp. 298-9.
 
-<span id="fn_19"></span>[16:20](mcb03.htm#fr_19) Evans, p. 143.
+<span id="fn_19"></span>[16:20](mcb03.htm#fr_19.md) Evans, p. 143.
 
-<span id="fn_20"></span>[16:21](mcb03.htm#fr_20) Blakney, p. 247.
+<span id="fn_20"></span>[16:21](mcb03.htm#fr_20.md) Blakney, p. 247.
 
-<span id="fn_21"></span>[17:22](mcb03.htm#fr_21) *Ibid*., p. 89.
+<span id="fn_21"></span>[17:22](mcb03.htm#fr_21.md) *Ibid*., p. 89.
 
-<span id="fn_22"></span>[17:23](mcb03.htm#fr_22) *Ibid*., p. 216.
+<span id="fn_22"></span>[17:23](mcb03.htm#fr_22.md) *Ibid*., p. 216.
 
-<span id="fn_23"></span>[17:24](mcb03.htm#fr_23) *Ibid*., p. 89.
+<span id="fn_23"></span>[17:24](mcb03.htm#fr_23.md) *Ibid*., p. 89.
 
-<span id="fn_24"></span>[17:25](mcb03.htm#fr_24) "*Von erkennen kennelos
+<span id="fn_24"></span>[17:25](mcb03.htm#fr_24.md) "*Von erkennen kennelos
 und von minne minnelos und von liehte vinster*." Pfeiffer, p. 491.
 
-<span id="fn_25"></span>[17:26](mcb03.htm#fr_25) Blakney, p. 88.
+<span id="fn_25"></span>[17:26](mcb03.htm#fr_25.md) Blakney, p. 88.
 
-<span id="fn_26"></span>[18:27](mcb03.htm#fr_26) Translated by Arthur
+<span id="fn_26"></span>[18:27](mcb03.htm#fr_26.md) Translated by Arthur
 Waley. (From his *The Way and Its Power*, published 1934 by George Allen
 and Unwin Ltd. The succeeding quotations from *Tao Tê Ching* are all my
 rendering.) Chapter IV. God here is distinguished from Godhead as by
 Eckhart. The last two lines are my own version.
 
-<span id="fn_27"></span>[19:28](mcb03.htm#fr_27) Evans, p. 148.
+<span id="fn_27"></span>[19:28](mcb03.htm#fr_27.md) Evans, p. 148.
 
-<span id="fn_28"></span>[21:29](mcb03.htm#fr_28) It is entitled
+<span id="fn_28"></span>[21:29](mcb03.htm#fr_28.md) It is entitled
 *Hekigan-shu* or *Hekigan-roku* meaning "Blue Rock Collection" or "Blue
 Rock Records."
 
-<span id="fn_29"></span>[23:30](mcb03.htm#fr_29) Evans, p. 13.
+<span id="fn_29"></span>[23:30](mcb03.htm#fr_29.md) Evans, p. 13.
 
-<span id="fn_30"></span>[23:31](mcb03.htm#fr_30) "*Hie muoz komen in ein
+<span id="fn_30"></span>[23:31](mcb03.htm#fr_30.md) "*Hie muoz komen in ein
 vergezzen und in ein nihtwizzen*." Pfeiffer, p. 14. Evans, p. 13.
 
-<span id="fn_31"></span>[23:32](mcb03.htm#fr_31) Yengo is given here in
+<span id="fn_31"></span>[23:32](mcb03.htm#fr_31.md) Yengo is given here in
 a modernized fashion, for the original Chinese would require a detailed
 interpretation.
 
-<span id="fn_32"></span>[26:33](mcb03.htm#fr_32) Bodhidharma.
+<span id="fn_32"></span>[26:33](mcb03.htm#fr_32.md) Bodhidharma.
 
-<span id="fn_33"></span>[26:34](mcb03.htm#fr_33) *Sō* in Japanese,
+<span id="fn_33"></span>[26:34](mcb03.htm#fr_33.md) *Sō* in Japanese,
 *hsiang* in Chinese, *lakṣaṇa* in Sanskrit.
 
-<span id="fn_34"></span>[35:35](mcb03.htm#fr_34) *The Transmission of
+<span id="fn_34"></span>[35:35](mcb03.htm#fr_34.md) *The Transmission of
 the Lamp* (*Dentoroku*), fas. XI.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Basis of Buddhist Philosophy](mcb04)
+[Next: II. The Basis of Buddhist Philosophy](mcb04.md)

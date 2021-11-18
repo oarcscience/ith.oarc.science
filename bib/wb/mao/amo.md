@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](joe)  [Next](oba) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](joe)  [Next](oba.md) 
 
 ------------------------------------------------------------------------
 
@@ -616,4 +616,4 @@ oneone i hoatu e ahau ki a ratou, e ai ta Ihowa, ta tou Atua.
 
 ------------------------------------------------------------------------
 
-[Next: Obadiah](oba)
+[Next: Obadiah](oba.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy09)  [Next](phy11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy09)  [Next](phy11.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 |                     |
 |---------------------|
-| ![T](img/03901.jpg) |
+| ![T](img/03901.jpg.md) |
 
 OM KEWLEY had important business at Douglas that necessitated his
 proceeding there a day or so after the events of the preceding chapter.
@@ -77,7 +77,7 @@ reached
 <span id="img_04100"></span>
 
 [![THE JOUGH-YN-DORI](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)  
+Click to enlarge](img/04100.jpg.md)  
 THE JOUGH-YN-DORI  
 
 the top of what is now known as Richmond Hill, he turned round and
@@ -175,7 +175,7 @@ please," and
 <span id="img_04400"></span>
 
 [![TOM KEWLEY MEETING THE LANNANSHEE](tn/04400.jpg)  
-Click to enlarge](img/04400.jpg)  
+Click to enlarge](img/04400.jpg.md)  
 TOM KEWLEY MEETING THE LANNANSHEE  
 
 the Lannanshee laid particular stress upon the word "over," and looked
@@ -274,7 +274,7 @@ condescension the best way a rough countryman like him could; and having
 <span id="img_04700"></span>
 
 [![THE FAIRY FEAST](tn/04700.jpg)  
-Click to enlarge](img/04700.jpg)  
+Click to enlarge](img/04700.jpg.md)  
 THE FAIRY FEAST  
 
  
@@ -292,4 +292,4 @@ with wine.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](phy11)
+[Next: Chapter III](phy11.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err08)  [Next](err10) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err08)  [Next](err10.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ the Jews and Pythagoreans contrived to spoil between them) was sacred to
 her; it was eaten in her honour on the 1st of June. This fact alone
 would convince any native of Boston that she must have been the most
 genial, humane, and æsthetic spirit in existence--*cui pulte fabacia et
-larido sacrificatur* <span id="fr_11"></span>[1](#fn_11)--and I am not
+larido sacrificatur* <span id="fr_11"></span>[1](#fn_11.md)--and I am not
 sure that, if a copy of this work should ever find its way to the Hub,
 the modern Athenians will not erect a church or temple to her, unless
 indeed they have one already, for there are few things which they do not
@@ -315,7 +315,7 @@ A witch thou must become!')
 Then the young lady, terrified at what she had so nearly escaped, ran
 screaming to her parents, and told them what she heard. Then he who had
 called, and who stood without, in a rage changed himself into a black
-dog, <span id="fr_12"></span>[1](#fn_12) and disappeared in a terrible
+dog, <span id="fr_12"></span>[1](#fn_12.md) and disappeared in a terrible
 flash of lightning with Bergoia, who was never seen on earth as a true
 woman again.
 
@@ -355,7 +355,7 @@ infernal witches,
 <span id="page_114">p. 114</span>
 
 and, as I have observed, there are a great many in the Romagnolo
-mythology. <span id="fr_13"></span>[1](#fn_13) The Etruscan, like the
+mythology. <span id="fr_13"></span>[1](#fn_13.md) The Etruscan, like the
 Turanian everywhere--and the Mexican so far as we know it--seems to have
 been a religion or cult which was, especially in a certain stage, one of
 blood and of the grotesque horrors which always appeal to primitive man.
@@ -421,7 +421,7 @@ divinity being lightning.
 Of this spirit I have the following account:--
 
 Bughin is a spirit who does both good and evil. About harvest time he
-causes the *carbonchiato* <span id="fr_14"></span>[1](#fn_14) in the
+causes the *carbonchiato* <span id="fr_14"></span>[1](#fn_14.md) in the
 grain, or makes it become black, whence the bread made from it is also
 dark, having such a vile smell and taste that it cannot be eaten, which
 is a sad loss for the poor peasants--*e cosi i poveri contadini se
@@ -654,16 +654,16 @@ freedom from blue-nosed straight-lacedness.
 
 ### Footnotes
 
-<span id="fn_11"></span>[109:1](err09.htm#fr_11) MACROBIUS, i., 12, 33
+<span id="fn_11"></span>[109:1](err09.htm#fr_11.md) MACROBIUS, i., 12, 33
 
-<span id="fn_12"></span>[113:1](err09.htm#fr_12) "Any voodoo is supposed
+<span id="fn_12"></span>[113:1](err09.htm#fr_12.md) "Any voodoo is supposed
 to change himself into a black dog, black wolf, black cat, owl or bat at
 night. The way to stop the metamorphosis is to find either the human or
 the animal skin and salt it. These black animals spit fire at you if you
 have their human skin; but you must not fear, but hold it fast until you
 have salted it well."--MARY A. OWEN.
 
-<span id="fn_13"></span>[114:1](err09.htm#fr_13) The Tuscans (Tusker)
+<span id="fn_13"></span>[114:1](err09.htm#fr_13) The Tuscans (Tusker.md)
 who devoted much attention to investigating thunder and lightning . .
 recognised three kinds--that which gave counsel or advice, that which
 confirmed events and indicated how something which had happened would
@@ -676,11 +676,11 @@ VALERIAN, *De fulminum significationobus* in *Grævii Thesaur.*, v., p.
 650; NORK, *Real Worterbuch*, vol. i., p. 160; DÖLLINGER *Heidenthum*,
 p. 461; FRIEDRICH, *Symbolik der Natur*.
 
-<span id="fn_14"></span>[116:1](err09.htm#fr_14) *Carbonchio*, a disease
+<span id="fn_14"></span>[116:1](err09.htm#fr_14.md) *Carbonchio*, a disease
 in grain by which it appears black and scorched. The smut or mildew,
 *Carbonchioso*, affected with the smut, burnt or scorched (BARETTI'S
 Italian Dictionary).
 
 ------------------------------------------------------------------------
 
-[Next: Part One: Chapter VII--TITUNO](err10)
+[Next: Part One: Chapter VII--TITUNO](err10.md)

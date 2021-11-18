@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng49)  [Next](vlsng51) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng49)  [Next](vlsng51.md) 
 
 ------------------------------------------------------------------------
 
@@ -177,4 +177,4 @@ and fell on him as he lay unarrayed and unawares.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix VI: The Second Or Ancient Lay Of Gudrun](vlsng51)
+[Next: Appendix VI: The Second Or Ancient Lay Of Gudrun](vlsng51.md)

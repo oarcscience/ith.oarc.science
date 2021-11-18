@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn07)  [Next](rmn09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn07)  [Next](rmn09.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ other that the Egyptian Isis. However this may be (and mythology is
 often here at variance), it appears certain that the custom of the
 Dionysiac festivals, of Bacchanalia, was introduced from Egypt into
 Greece by a certain Melampus, the son of Amiathon. <span
-id="fr_10"></span>[1](#fn_10) He, according to Herodotus, introduced the
+id="fr_10"></span>[1](#fn_10.md) He, according to Herodotus, introduced the
 worship of Bacchus and of the phallus into Greece.
 
 The Athenians celebrated the festivals of Bacchus with the greatest
@@ -61,7 +61,7 @@ scandal was not very great; but afterwards, when men were introduced,
 these festivals degenerated into such atrocious orgies that the Senate
 thought it right to interfere. In the year of Rome 568 a decree was
 issued for the suppression of these scandals throughout Italy. <span
-id="fr_11"></span>[2](#fn_11)
+id="fr_11"></span>[2](#fn_11.md)
 
 The places where the Dionysia were by preference held were isolated
 spots; not only because the effrontery of the Bacchantes found
@@ -79,7 +79,7 @@ The priestesses of Bacchus were fourteen in number; they were called
 
 advanced in years. They had fourteen altars, and presided at the
 offering of fourteen sacrifices; they were the real Bacchantes, but
-[subsequently](errata.htm#1) the name was extended to all the females
+[subsequently](errata.htm#1.md) the name was extended to all the females
 that took part in these outrageous scenes. Some authors have maintained
 that the Bacchantes were virgins, and continued to be so, defending
 themselves against all attacks amidst the most extravagant sensualities
@@ -91,7 +91,7 @@ other animal. The hierophant, or priest, upon whom devolved the duty of
 revealing sacred things, represented the Demiurgus, the Creator. The
 torch-bearers went by the name of Lampadophores; their chief personified
 the sun; the acolyte symbolised the moon, and the sacred herald
-Mercury. <span id="fr_12"></span>[1](#fn_12)
+Mercury. <span id="fr_12"></span>[1](#fn_12.md)
 
 Processions, in which vessels filled with wine and covered with
 vine-branches were carried about, constituted the principal ceremonies.
@@ -178,14 +178,14 @@ place in a forest, where may be seen several oaks and a palm-tree.
 
 ### Footnotes
 
-<span id="fn_10"></span>[16:1](rmn08.htm#fr_10) Herodotus II., § 49.
+<span id="fn_10"></span>[16:1](rmn08.htm#fr_10.md) Herodotus II., § 49.
 
-<span id="fn_11"></span>[16:2](rmn08.htm#fr_11) Herodotus, *ubi supra*.
+<span id="fn_11"></span>[16:2](rmn08.htm#fr_11.md) Herodotus, *ubi supra*.
 Diodorus Siculus. Athenæus. *Memoires do l'Academie des Inscriptions*.
 
-<span id="fn_12"></span>[17:1](rmn08.htm#fr_12) EUSEBIUS, *Catena
+<span id="fn_12"></span>[17:1](rmn08.htm#fr_12.md) EUSEBIUS, *Catena
 Patrum*, lib. III.
 
 ------------------------------------------------------------------------
 
-[Next: Plate VIII: Sacrifice to Priapus](rmn09)
+[Next: Plate VIII: Sacrifice to Priapus](rmn09.md)

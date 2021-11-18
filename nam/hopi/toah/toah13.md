@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah12)  [Next](toah14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah12)  [Next](toah14.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ men thought that this was a chance for them to prove themselves and to
 really do something for their people at the same time. They thought they
 would plan a fight with the Navajos as near the boundary line as they
 could get and there they would sacrifice
-themselves [32](toah24.htm#xref_32) and leave their skulls to mark the
+themselves [32](toah24.htm#xref_32.md) and leave their skulls to mark the
 line. In this way they thought that they would prove that they were
 brave and good fighters and they would really be doing something for
 their people, and so it was agreed upon.
@@ -330,7 +330,7 @@ then on he always had in mind to get even with the Navajos in that part
 of the country, and so he did, for later he led war parties to that
 country often and brought back a scalp every time. He was considered one
 of the greatest and bravest men of the Walpi
-villages. [33](toah24.htm#xref_33)
+villages. [33](toah24.htm#xref_33.md)
 
 <span id="img_05900"></span> ![](img/05900.jpg)
 
@@ -339,4 +339,4 @@ villages. [33](toah24.htm#xref_33)
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. How Some Hopis Resisted Sending Their Children to
-School and the Trouble That Resulted](toah14)
+School and the Trouble That Resulted](toah14.md)

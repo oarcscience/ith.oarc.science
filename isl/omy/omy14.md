@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy13)  [Next](omy15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy13)  [Next](omy15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -31,7 +31,7 @@ element of the entire Universe. This according to the Corán He created
 of Himself without any medium whatever, and in infinitely less space of
 time than the twinkling of an eye. "And it was not the business of an
 hour, but even as the twinkling of an eye, or quicker still." (Cor. cap.
-16, v. 79.) <span id="fr_17"></span>[1](#fn_17) This Primal Element is
+16, v. 79.) <span id="fr_17"></span>[1](#fn_17.md) This Primal Element is
 designated by various other names, such as the Primal Intelligence, the
 Constructive Spirit, the Pen, the Mightiest Spirit, the Spirit of
 Mohammed (or the Laudable Spirit), and the like. It is so excellent
@@ -46,12 +46,12 @@ can directly approach Him, or become the direct recipient of His bounty.
 The Primal Element is God's world, and the Universe is the world of the
 Primal Element. By this alone the Voice of God is heard, but its voice
 is heard throughout the whole Universe, conveying the behests of the
-Most High <span id="fr_18"></span>[1](#fn_18).
+Most High <span id="fr_18"></span>[1](#fn_18.md).
 
 <span class="margnote">"The Pen."</span>It is the Pen of God which at
 His command wrote down the Simple Natures, and in the twinkling of an
 eye they started into being, the Intelligences, Souls, Elements and
-Natures, the Heavens and the Stars <span id="fr_19"></span>[2](#fn_19).
+Natures, the Heavens and the Stars <span id="fr_19"></span>[2](#fn_19.md).
 These then took up the task, and obeyed the second mandate by writing
 down the compound bodies, and straightway the Mineral, Vegetable and
 Animal Kingdoms sprung into existence.
@@ -59,7 +59,7 @@ Animal Kingdoms sprung into existence.
 This is the explanation of the words which begin the 68th Chapter of the
 Corán: "N, by the Pen, and what they write." The mystic letter
 represents the World of Power, the Inkstand <span
-id="fr_20"></span>[3](#fn_20) of God; the Pen is the Primal Element, and
+id="fr_20"></span>[3](#fn_20.md) of God; the Pen is the Primal Element, and
 "what they write" refers to the Simple Natures. These are the scribes of
 God, and the words they write are the compound
 
@@ -67,7 +67,7 @@ God, and the words they write are the compound
 
 bodies of nature. They are writing even now, and will write on for ever;
 for "were the sea ink it would not suffice for the words of my
-Lord <span id="fr_21"></span>[1](#fn_21)." (Cor. cap. 18, v. 109.)
+Lord <span id="fr_21"></span>[1](#fn_21)." (Cor. cap. 18, v. 109..md)
 
 There are nine heavenly spheres, each higher than <span
 class="margnote">The Spheres.</span> the preceding; the highest of all
@@ -87,7 +87,7 @@ is as the precedence of the Sun's Orb over its rays. The next in order
 of creation are the Threefold Offspring, *i.e.* the Mineral, Vegetable,
 and Animal Kingdoms. Both the metaphysical and the physical account
 agree concerning these last, that they are casual; but their account of
-what are called the Parents <span id="fr_22"></span>[2](#fn_22) differs.
+what are called the Parents <span id="fr_22"></span>[2](#fn_22.md) differs.
 
 <span id="page_36">p. 36</span>
 
@@ -103,7 +103,7 @@ Parents, ascent in Offspring; but both the Parents and the Offspring
 originated with Primal Intelligence, therefore Intelligence is both the
 beginning and the end, it refers alike to origin and return, to birth
 and dissolution, it refers to the Night of Power <span
-id="fr_23"></span>[1](#fn_23), and to the Day of Resurrection. Again,
+id="fr_23"></span>[1](#fn_23.md), and to the Day of Resurrection. Again,
 descent, the remoter it is from the origin, the coarser it becomes, and
 ascent, the remoter it is from the origin, the more refined it becomes;
 now the Primal Intelligence caused the descent of the lower world, and
@@ -160,36 +160,36 @@ Heavens and the Earth." (Cor. cap. 48, v. 4.)
 
 ### Footnotes
 
-<span id="fn_17"></span>[33:1](omy14.htm#fr_17) This passage is
+<span id="fn_17"></span>[33:1](omy14.htm#fr_17.md) This passage is
 differently interpreted by the Arab commentators, and is made to refer
 to "the business of the last hour;" see Sale's translation.
 
-<span id="fn_18"></span>[34:1](omy14.htm#fr_18) Cf. Psalm xix. vv. 1-3.
+<span id="fn_18"></span>[34:1](omy14.htm#fr_18.md) Cf. Psalm xix. vv. 1-3.
 
-<span id="fn_19"></span>[34:2](omy14.htm#fr_19) The first two and the
+<span id="fn_19"></span>[34:2](omy14.htm#fr_19.md) The first two and the
 Heavens are denominated the Comptrollers: "and the Comptrollers for
 command." (Cor. cap. 79, V. 5.)
 
-<span id="fn_20"></span>[34:3](omy14.htm#fr_20) The letter N stands for
+<span id="fn_20"></span>[34:3](omy14.htm#fr_20.md) The letter N stands for
 the word *nún*, which is not only the Arabic name of the letter, but
 also signifies an inkhorn. Cf. AL BEIDHAWI'S commentary.
 
-<span id="fn_21"></span>[35:1](omy14.htm#fr_21) This idea of the Primal
+<span id="fn_21"></span>[35:1](omy14.htm#fr_21.md) This idea of the Primal
 Element appears to have originated partly from a refinement on the
 ordinary interpretation of the text; "When He willeth aught He but
 sayeth to it, 'Be, and it is so'," where an undue significance is given
 to the pronoun *it*.
 
-<span id="fn_22"></span>[35:2](omy14.htm#fr_22) By these are meant the
+<span id="fn_22"></span>[35:2](omy14.htm#fr_22.md) By these are meant the
 "seven climes," or "zones," (into which, according to the Mohammedan
 cosmography, the earth is divided), <span id="page_36">p. 36</span> and
 the four elements. They are called *‘Abá i haftána*, "the sevenfold
 sires," and *Ummát i Chahárgána*, "the fourfold mothers."
 
-<span id="fn_23"></span>[36:1](omy14.htm#fr_23) The night on which the
+<span id="fn_23"></span>[36:1](omy14.htm#fr_23.md) The night on which the
 command *Kun* went forth, it is equivalent to the Chaos of the Mosaic
 cosmogony.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Of the Four Universal Sources](omy15)
+[Next: Chapter V. Of the Four Universal Sources](omy15.md)

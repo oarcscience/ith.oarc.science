@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa19)  [Next](soa21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa19)  [Next](soa21.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ with distant lands.
 
 ------------------------------------------------------------------------
 
-[Next: The Mongolian Race](soa21)
+[Next: The Mongolian Race](soa21.md)

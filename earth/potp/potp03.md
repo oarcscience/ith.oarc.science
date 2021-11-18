@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp02)  [Next](potp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp02)  [Next](potp04.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,11 +9,11 @@
 <span id="img_01300"></span>
 
 [![SOME FAMOUS POLAR EXPLORERS](tn/01300.jpg)  
-Click to enlarge](img/01300.jpg)  
+Click to enlarge](img/01300.jpg.md)  
 SOME FAMOUS POLAR EXPLORERS  
 
- <span id="fr_0"></span>[1](#fn_0) <span
-id="fr_1"></span>[2](#fn_1) <span id="fr_2"></span>[3](#fn_2)
+ <span id="fr_0"></span>[1](#fn_0.md) <span
+id="fr_1"></span>[2](#fn_1) <span id="fr_2"></span>[3](#fn_2.md)
 
 <span id="page_14">p. 14</span> <span id="page_15">p. 15</span>
 
@@ -116,15 +116,15 @@ but I see nothing to hinder it.
 
 ### Footnotes
 
-<span id="fn_0"></span>[13:1](potp03.htm#fr_0) Greeley From "Three Years
+<span id="fn_0"></span>[13:1](potp03.htm#fr_0.md) Greeley From "Three Years
 of Arctic Service," courtesy Charles Scribner's Sons.
 
-<span id="fn_1"></span>[13:2](potp03.htm#fr_1) Peary From "Northward,"
+<span id="fn_1"></span>[13:2](potp03.htm#fr_1.md) Peary From "Northward,"
 F. A. Stokes Co. Copyright 1902 by Rockwood, N. Y.
 
-<span id="fn_2"></span>[13:3](potp03.htm#fr_2) Nansen From "Farthest
+<span id="fn_2"></span>[13:3](potp03.htm#fr_2.md) Nansen From "Farthest
 North." Copyright 1897 by Harper & Brothers.
 
 ------------------------------------------------------------------------
 
-[Next: General Summary](potp04)
+[Next: General Summary](potp04.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth03) 
-[Next](dth05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth03.md) 
+[Next](dth05.md) 
 
 ------------------------------------------------------------------------
 
@@ -184,7 +184,7 @@ imagery with day dreaming. Now, the imagination of which I am speaking
 is the very antithesis of day dreaming. Day dreaming is the aimless
 frittering away of the mental powers; creative imagination, on the other
 hand, gathers together the mental forces, and by
-[focusing](errata.htm#10) the powers
+[focusing](errata.htm#10.md) the powers
 
 <span id="page_60">p. 60</span>
 
@@ -404,7 +404,7 @@ Purity and Perfection, deny that there is a carbuncle. You, the sublime
 YOU, have no carbuncle, it is only the material YOU which you have left
 behind which has a carbuncle. By raising yourself into your Perfect
 World of Mind you transfer your consciousness from the material world to
-that [Transcendental](errata.htm#11) World of Infinite Perfection which
+that [Transcendental](errata.htm#11.md) World of Infinite Perfection which
 our greatest philosophers and thinkers have always realized to exist
 around us and above us. This is why, as gnu raise yourself into your
 Perfect World
@@ -537,4 +537,4 @@ problem and difficulty.
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](dth05)
+[Next: Part IV](dth05.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gvp10) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gvp10.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,12 +140,12 @@ popular life.
 
 SYMBOL 6.
 
-Abstain from Melanurus <span id="fr_7"></span>[1](#fn_7); for it belongs
+Abstain from Melanurus <span id="fr_7"></span>[1](#fn_7.md); for it belongs
 to the terrestrial gods.
 
 Explanation.--This Symbol also is allied to the preceding. Other
 particulars therefore pertaining to it we shall speak of in our
-discourse about the Symbols. <span id="fr_8"></span>[2](#fn_8) So far
+discourse about the Symbols. <span id="fr_8"></span>[2](#fn_8.md) So far
 then as it pertains to exhortation it admonishes us to embrace the
 celestial journey, to conjoin ourselves to the intellectual gods, to
 become separated from a material nature, and to be led, as it were in a
@@ -155,7 +155,7 @@ us to adopt the most excellent worship of the gods, and
 <span id="page_74">p. 74</span>
 
 especially that which pertains to the primary gods. <span
-id="fr_9"></span>[3](#fn_9) Such, therefore, are the exhortations to the
+id="fr_9"></span>[3](#fn_9.md) Such, therefore, are the exhortations to the
 knowledge and worship of Divinity. The following Symbols exhort to
 wisdom.
 
@@ -184,7 +184,7 @@ greatest earnestness.
 
 SYMBOL 9.
 
-Cut not fire with a sword. <span id="fr_10"></span>[1](#fn_10)
+Cut not fire with a sword. <span id="fr_10"></span>[1](#fn_10.md)
 
 Explanation.--This Symbol exhorts to prudence. For it excites in us an
 appropriate conception with the respect to the propriety of not opposing
@@ -268,7 +268,7 @@ knowledge of justice as the most perfect virtue, to which the other
 virtues give completion, and without which none of the rest are of any
 advantage. It also admonishes us that it is proper to know this virtue
 not in a careless manner, but through theorems <span
-id="fr_11"></span>[1](#fn_11) and scientific demonstrations.
+id="fr_11"></span>[1](#fn_11.md) and scientific demonstrations.
 
 <span id="page_79">p. 79</span>
 
@@ -386,7 +386,7 @@ organization of animals with crooked nails is adapted to receive rapidly
 and with facility, but by no means to relinquish what they hold, or
 impart to others, through the opposition of the nails in consequence of
 their being crooked; just as the fish called crangœ <span
-id="fr_12"></span>[1](#fn_12), are naturally adapted to draw anything to
+id="fr_12"></span>[1](#fn_12.md), are naturally adapted to draw anything to
 themselves with celerity, but relinquish it with difficulty,
 
 <span id="page_84">p. 84</span>
@@ -402,7 +402,7 @@ who denominated the right hand more honourable than the left, not only
 from receiving but from being capable of imparting. We must act justly
 therefore, and through this philosophize. For justice is a certain
 retribution and remuneration equalizing the abounding and deficient by
-reciprocal gifts. <span id="fr_13"></span>[2](#fn_13)
+reciprocal gifts. <span id="fr_13"></span>[2](#fn_13.md)
 
 SYMBOL 21.
 
@@ -426,7 +426,7 @@ proceeds through things corporeal and sensible, and which is employed by
 the moderns even to satiety, which likewise considers Divinity,
 qualities, the soul, the virtues, and in short all the most principal
 causes of things to be body,--this philosophy easily eludes the grasp,
-and is easily subverted. <span id="fr_14"></span>[1](#fn_14) And this is
+and is easily subverted. <span id="fr_14"></span>[1](#fn_14.md) And this is
 evident from the various arguments of its advocates. On the
 
 <span id="page_86">p. 86</span>
@@ -508,7 +508,7 @@ from which especially we should separate the genus of the gods as being
 eternal and intelligible, and always subsisting according to the same
 and in a similar manner, as we have particularly, most fully, and
 scientifically shown in our discourse concerning the gods. <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 SYMBOL 25.
 
@@ -586,7 +586,7 @@ uninitiated. It also signifies that the right hand is not to be given
 easily even to those who have for a long time proved themselves worthy
 of it through disciplines and doctrines, and the participation of
 continence, the quinquennial silence, <span
-id="fr_16"></span>[1](#fn_16) and other probationary trials.
+id="fr_16"></span>[1](#fn_16.md) and other probationary trials.
 
 <span id="page_93">p. 93</span>
 
@@ -663,13 +663,13 @@ acquire the perpetuity of intellect.
 
 SYMBOL 33.
 
-Receive not Erythinus. <span id="fr_17"></span>[1](#fn_17)
+Receive not Erythinus. <span id="fr_17"></span>[1](#fn_17.md)
 
 Explanation.--This Symbol seems to be merely referred to the etymology
 of the name. Receive not an unblushing and impudent man, nor on the
 contrary one stupidly astonished, and who in everything blushes and is
 humble in the extreme through the imbecility of his intellect and
-dianötic <span id="fr_18"></span>[2](#fn_18) power. Hence this also is
+dianötic <span id="fr_18"></span>[2](#fn_18.md) power. Hence this also is
 understood: Be not yourself such a one.
 
 SYMBOL 34.
@@ -685,7 +685,7 @@ are here assumed instead of the dust in the tables, in
 <span id="page_97">p. 97</span>
 
 which the Pythagoreans completed their demonstrations. <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 SYMBOL 35.
 
@@ -711,8 +711,8 @@ through steps, proceed to the thing proposed; but reject the
 
 progression through those things which are honoured and venerated by the
 many. Prefer also the Italic philosophy, <span
-id="fr_20"></span>[1](#fn_20) which contemplates things essentially
-incorporeal, to the Ionic, <span id="fr_21"></span>[2](#fn_21) which
+id="fr_20"></span>[1](#fn_20.md) which contemplates things essentially
+incorporeal, to the Ionic, <span id="fr_21"></span>[2](#fn_21.md) which
 makes bodies the principal object of consideration.
 
 SYMBOL 37.
@@ -757,58 +757,58 @@ Pythagorean mode of writing.
 
 ### Footnotes
 
-<span id="fn_7"></span>[73:1](gvp11.htm#fr_7) According to Œlian and
+<span id="fn_7"></span>[73:1](gvp11.htm#fr_7.md) According to Œlian and
 Suldas, *Melanurus* is a *fish*; but as the word signifies that which
 has a *black termination*, it is very appropriately used as a Symbol of
 a material nature.
 
-<span id="fn_8"></span>[73:2](gvp11.htm#fr_8) Iamblichus most likely
+<span id="fn_8"></span>[73:2](gvp11.htm#fr_8.md) Iamblichus most likely
 alludes here to a more copious work on this subject, which is lost.
 
-<span id="fn_9"></span>[74:3](gvp11.htm#fr_9) Viz., those gods that are
+<span id="fn_9"></span>[74:3](gvp11.htm#fr_9.md) Viz., those gods that are
 characterized by *intellect*, and the Intelligible, concerning which see
 Taylor's introduction to and notes on the *Parmenides* of Plato.
 
-<span id="fn_10"></span>[75:1](gvp11.htm#fr_10) Or, stir not up fire
+<span id="fn_10"></span>[75:1](gvp11.htm#fr_10.md) Or, stir not up fire
 with a sword.--Dacier.
 
-<span id="fn_11"></span>[78:1](gvp11.htm#fr_11) The justice to which we
+<span id="fn_11"></span>[78:1](gvp11.htm#fr_11.md) The justice to which we
 are exhorted, in this Symbol, belongs to the theoretic virtues,
 concerning which see Taylor's notes on the *Phædo* of Plato.
 
-<span id="fn_12"></span>[83:1](gvp11.htm#fr_12) The *crangœ* are fish
+<span id="fn_12"></span>[83:1](gvp11.htm#fr_12.md) The *crangœ* are fish
 belonging to the genus *cancer*.
 
-<span id="fn_13"></span>[84:2](gvp11.htm#fr_13) Aristotle has discussed
+<span id="fn_13"></span>[84:2](gvp11.htm#fr_13.md) Aristotle has discussed
 with his usual accuracy everything pertaining to the nature of justice
 in the fifth book of his *Nicomachean Ethics*.
 
-<span id="fn_14"></span>[85:1](gvp11.htm#fr_14) By this it appears that
+<span id="fn_14"></span>[85:1](gvp11.htm#fr_14.md) By this it appears that
 the philosophy which is wholly busied in the investigation of sensibles,
 similar to that which has been so industriously studied in a
 neighbouring country, and propagated in this, was very prevalent in the
 time of Iamblichus.
 
-<span id="fn_15"></span>[89:1](gvp11.htm#fr_15) This work appears to be
+<span id="fn_15"></span>[89:1](gvp11.htm#fr_15.md) This work appears to be
 lost.
 
-<span id="fn_16"></span>[92:1](gvp11.htm#fr_16) This alludes to the
+<span id="fn_16"></span>[92:1](gvp11.htm#fr_16.md) This alludes to the
 silence of five years imposed by Pythagoras on a great part of his
 auditors.
 
-<span id="fn_17"></span>[96:1](gvp11.htm#fr_17) This is said to be a
+<span id="fn_17"></span>[96:1](gvp11.htm#fr_17.md) This is said to be a
 fish of a red colour.
 
-<span id="fn_18"></span>[96:2](gvp11.htm#fr_18) This is that power of
+<span id="fn_18"></span>[96:2](gvp11.htm#fr_18.md) This is that power of
 the soul which reasons scientifically.
 
-<span id="fn_19"></span>[97:1](gvp11.htm#fr_19) This is, by drawing
+<span id="fn_19"></span>[97:1](gvp11.htm#fr_19.md) This is, by drawing
 diagrams.
 
-<span id="fn_20"></span>[98:1](gvp11.htm#fr_20) That is, the philosophy
+<span id="fn_20"></span>[98:1](gvp11.htm#fr_20.md) That is, the philosophy
 of Pythagoras, which is called Italic, because it was first propagated
 in Italy.
 
-<span id="fn_21"></span>[98:2](gvp11.htm#fr_21) Thales was the founder
+<span id="fn_21"></span>[98:2](gvp11.htm#fr_21.md) Thales was the founder
 of this sect, and the most illustrious professors of it were
 Anaximander, Anaximenes, Anaxagoras, and Archelaus.

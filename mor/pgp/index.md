@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Mormonism](../index)
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -8,14 +8,14 @@
 
 ## Book of Moses
 
-[Moses, Ch 1](moses1)  
-[Moses, Ch 2](moses2)  
-[Moses, Ch 3](moses3)  
-[Moses, Ch 4](moses4)  
-[Moses, Ch 5](moses5)  
-[Moses, Ch 6](moses6)  
-[Moses, Ch 7](moses7)  
-[Moses, Ch 8](moses8)  
+[Moses, Ch 1](moses1.md)  
+[Moses, Ch 2](moses2.md)  
+[Moses, Ch 3](moses3.md)  
+[Moses, Ch 4](moses4.md)  
+[Moses, Ch 5](moses5.md)  
+[Moses, Ch 6](moses6.md)  
+[Moses, Ch 7](moses7.md)  
+[Moses, Ch 8](moses8.md)  
 
 ------------------------------------------------------------------------
 
@@ -23,14 +23,14 @@
 
 ## Book of Abraham
 
-[Abraham, Ch 1](abr1)  
-[Abraham, Ch 2](abr2)  
-[Abraham, Ch 3](abr3)  
-[Abraham, Ch 4](abr4)  
-[Abraham, Ch 5](abr5)  
+[Abraham, Ch 1](abr1.md)  
+[Abraham, Ch 2](abr2.md)  
+[Abraham, Ch 3](abr3.md)  
+[Abraham, Ch 4](abr4.md)  
+[Abraham, Ch 5](abr5.md)  
 
 ------------------------------------------------------------------------
 
-[Joseph Smith -- Matthew](jsm1)  
-[Joseph Smith -- History](jsh1)  
-[The Articles of Faith](aof)  
+[Joseph Smith -- Matthew](jsm1.md)  
+[Joseph Smith -- History](jsh1.md)  
+[The Articles of Faith](aof.md)  

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi09)  [Next](hpi11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi09)  [Next](hpi11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -293,7 +293,7 @@ God, but only with regard to the world which was afterwards to be
 created. Besides, it would be easy enough for him and for others, who
 were affected by the philosophy of the day, to interpret these and
 similar expressions--such as God's 'beholding' on the last day, <span
-id="fr_10"></span>[1](#fn_10)--in a spiritual sense, since generally
+id="fr_10"></span>[1](#fn_10.md)--in a spiritual sense, since generally
 they regarded seeing and hearing as spiritual acts. For example,
 Abu-l-Hudhail maintained that motion was visible, but not palpable,
 because it was not a body.
@@ -682,7 +682,7 @@ somewhat nearer to his Lord. This need,--existing in Islam at the very
 outset, strengthened too by Christian and Indo-Persian influences, and
 intensified under more highly developed conditions of
 civilization,--evoked in Islam a series of phenomena, which are usually
-designated as Mysticism or Sufism. <span id="fr_11"></span>[1](#fn_11)
+designated as Mysticism or Sufism. <span id="fr_11"></span>[1](#fn_11.md)
 In this development of a Muslim order of Holy men, or of a Muslim
 Monkish
 
@@ -749,12 +749,12 @@ up, in the Muslim philosophers whom we shall meet with farther on.
 
 ### Footnotes
 
-<span id="fn_10"></span>[50:1](hpi10.htm#fr_10) For this the Mystics
+<span id="fn_10"></span>[50:1](hpi10.htm#fr_10.md) For this the Mystics
 introduced a sixth sense.
 
-<span id="fn_11"></span>[62:1](hpi10.htm#fr_11) Ascetics were called
+<span id="fn_11"></span>[62:1](hpi10.htm#fr_11.md) Ascetics were called
 *Sufis*, from their coarse woollen garment, or *Sûf*.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Literature and History](hpi11)
+[Next: 4. Literature and History](hpi11.md)

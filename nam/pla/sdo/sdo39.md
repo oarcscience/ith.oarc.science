@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo38)  [Next](sdo40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo38)  [Next](sdo40.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ address may be comprehended.
 
 ------------------------------------------------------------------------
 
-[Next: The Meat Offering](sdo40)
+[Next: The Meat Offering](sdo40.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws60)  [Next](cws62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws60)  [Next](cws62.md) 
 
 ------------------------------------------------------------------------
 
 ### No. V
 
-#### CONCERNING THE "GREAT WORK," THE REDEMPTION, AND THE SHARE OF CHRIST JESUS THEREIN <span id="fr_196"></span>[1](#fn_196)
+#### CONCERNING THE "GREAT WORK," THE REDEMPTION, AND THE SHARE OF CHRIST JESUS THEREIN <span id="fr_196"></span>[1](#fn_196.md)
 
 "FOR this cause is Christ manifest, that he may destroy the works of the
 devil."
@@ -40,7 +40,7 @@ the establishment of the kingdom of God.
 
 9\. Jesus being asked when the kingdom of God should come, answered,
 "When Two shall be as One, and that which is Without as that which is
-Within." <span id="fr_197"></span>[1](#fn_197)
+Within." <span id="fr_197"></span>[1](#fn_197.md)
 
 10\. In saying this, he expressed the nature of the Great Work. The Two
 are spirit and matter: the within is the real invisible; the without is
@@ -101,7 +101,7 @@ of the mind three, of the heart three, and of the conscience three.
 is sense, in the which are three gates;
 
 28\. The gate of the eye, the gate of the ear, and the gate of
-touch. <span id="fr_198"></span>[1](#fn_198)
+touch. <span id="fr_198"></span>[1](#fn_198.md)
 
 29\. Renounce vanity, and be poor: renounce praise, and be humble:
 renounce luxury, and be chaste.
@@ -113,7 +113,7 @@ thee, and prove thy fortitude.
 thy worship into the courts of the Lord; and let thy vows be unto the
 Most High.
 
-32\. And for the magnetic man <span id="fr_199"></span>[2](#fn_199)
+32\. And for the magnetic man <span id="fr_199"></span>[2](#fn_199.md)
 there are four elements: and the covering of the four is mind, in the
 which are three gates;
 
@@ -140,7 +140,7 @@ it likewise three elements.
 39\. And these are the gates of the oracle of God, which is the ark of
 the covenant:
 
-40\. The rod, the host, <span id="fr_200"></span>[3](#fn_200) and the
+40\. The rod, the host, <span id="fr_200"></span>[3](#fn_200.md) and the
 law:
 
 41\. The force which solves, and transmutes, and divines: the bread of
@@ -206,38 +206,38 @@ the outgoing, and six for the ingathering: six for the man, and six for
 the woman.
 
 61\. Then shall be the Sabbath of the Lord God. <span
-id="fr_201"></span>[1](#fn_201)
+id="fr_201"></span>[1](#fn_201.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_196"></span>[137:1](cws61.htm#fr_196) Commenced in Paris,
+<span id="fn_196"></span>[137:1](cws61.htm#fr_196.md) Commenced in Paris,
 September 30, 1878, to v. 20. Completed in London, July 13, 1881.
 Received chiefly in sleep.    E. M.
 
 Referred to in *Life of Anna Kingsford*, vol. i, pp. 280, 281, 353, 354;
 vol. ii, pp. 267, 268.
 
-<span id="fn_197"></span>[138:1](cws61.htm#fr_197) 2 Ep. Clement, v. i.
+<span id="fn_197"></span>[138:1](cws61.htm#fr_197.md) 2 Ep. Clement, v. i.
 
-<span id="fn_198"></span>[139:1](cws61.htm#fr_198) Smell and taste are
+<span id="fn_198"></span>[139:1](cws61.htm#fr_198.md) Smell and taste are
 modes of touch, as all three involve contact with the object itself that
 is perceived, while sight and hearing involve contact with vibrations
 set up by that object in an intervening medium (see Life of Anna
 Kingsford, vol. ii, pp. 170, 171).    S. H. H.
 
-<span id="fn_199"></span>[139:2](cws61.htm#fr_199) *I.e.* the magnetic
+<span id="fn_199"></span>[139:2](cws61.htm#fr_199.md) *I.e.* the magnetic
 or astral part of Man, which is accounted a person or system in
 itself.    E. M.
 
-<span id="fn_200"></span>[139:3](cws61.htm#fr_200) The Sacramental bread
+<span id="fn_200"></span>[139:3](cws61.htm#fr_200.md) The Sacramental bread
 called by the Hebrews "Shewbread."    E. M.
 
-<span id="fn_201"></span>[140:1](cws61.htm#fr_201) See note to Part I,
+<span id="fn_201"></span>[140:1](cws61.htm#fr_201.md) See note to Part I,
 No. L (8): also Appendix, "Second Coming."
 
 ------------------------------------------------------------------------
 
 [Next: No. VI: Concerning Original Being; Or, ''Before The
-Beginning''](cws62)
+Beginning''](cws62.md)

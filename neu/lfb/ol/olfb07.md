@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb06)  [Next](olfb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb06)  [Next](olfb08.md) 
 
 </div>
 
@@ -185,6 +185,6 @@ FOOTNOTE:
 
 ------------------------------------------------------------------------
 
-[Next: Jackal or Tiger?](olfb08)
+[Next: Jackal or Tiger?](olfb08.md)
 
 </div>

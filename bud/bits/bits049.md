@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits048) [Next](bits050)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits048) [Next](bits050.md)
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ karma of a previous existence.
 
 ------------------------------------------------------------------------
 
-[Next: § 50. How Existence in Hell Is Possible](bits050)
+[Next: § 50. How Existence in Hell Is Possible](bits050.md)
 
  
 

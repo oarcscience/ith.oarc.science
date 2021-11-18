@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](wott09)  [Next](wott11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](wott09)  [Next](wott11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of the Talmud*, by Ben Zion Bokser, \[1951\], at Intangible
 Textual Heritage
 
@@ -69,7 +69,7 @@ suggested that often it is the interpretation which becomes suggestive
 to the conscious mind of hopes or fears, which then condition the
 direction of our lives. The rabbis therefore cautioned people not to
 become unduly disturbed by dreams: "Dreams have no importance for good
-or ill."<span id="an_r_08_1"></span>[1](wott11.htm#an_n_08_1)
+or ill."<span id="an_r_08_1"></span>[1](wott11.htm#an_n_08_1.md)
 
 #### THE HEART IS SOVEREIGN
 
@@ -119,7 +119,7 @@ for they predispose man to a course from which he may find it difficult
 to turn back. "He who violates a seemingly trivial statute will
 eventually violate a weighty one." The only sound advice is thus
 constant vigilance: "Avoid even a minor transgression lest it lead you
-to a major one."<span id="an_r_08_2"></span>[2](wott11.htm#an_n_08_2)
+to a major one."<span id="an_r_08_2"></span>[2](wott11.htm#an_n_08_2.md)
 
 <span id="page_154">p. 154</span>
 
@@ -145,7 +145,7 @@ in fortune. "At the gate of the enterprising shop, there are many
 friends and brothers. At the gate of a shop in decline there are neither
 brothers, nor friends." Raba was even more pointed in his observation:
 "When the ox is fallen the knife is sharpened."<span
-id="an_r_08_3"></span>[3](wott11.htm#an_n_08_3)
+id="an_r_08_3"></span>[3](wott11.htm#an_n_08_3.md)
 
 The tendency of people to hide beneath a mask of pretense and
 falsification creates an element of uncertainty in every human
@@ -205,7 +205,7 @@ only goats (you are afraid of), does not your field need guarding?' He
 replied, 'A goat can be driven off with a shout.' But he said, 'Don't
 you require a man to shout at it?' He appealed to Raba who said to him,
 'Go and accept his last offer …'" (to pay toward the cost of a
-watchman).<span id="an_r_08_4"></span>[4](wott11.htm#an_n_08_4)
+watchman).<span id="an_r_08_4"></span>[4](wott11.htm#an_n_08_4.md)
 
 #### ON THE PSYCHOLOGY OF WOMEN
 
@@ -227,7 +227,7 @@ only permitted in the case of a young woman, not an old one.' He
 replied, 'By God, it is even permitted in the case of your mother and
 grandmother, and even if she stood on the brink of the grave; for as the
 proverb put it, "At sixty or at six, a woman runs after the sound of the
-timbrel."'"<span id="an_r_08_5"></span>[5](wott11.htm#an_n_08_5)
+timbrel."'"<span id="an_r_08_5"></span>[5](wott11.htm#an_n_08_5.md)
 
 The rabbis record other observations on the psychology of women: "God
 endowed a woman with keener judgment than man"; "women are
@@ -236,7 +236,7 @@ compassionate"; women are "querulous
 <span id="page_157">p. 157</span>
 
 and garrulous"; women have an affinity for the occult and they go in
-"for witchcraft."<span id="an_r_08_6"></span>[6](wott11.htm#an_n_08_6)
+"for witchcraft."<span id="an_r_08_6"></span>[6](wott11.htm#an_n_08_6.md)
 
 The rabbis recognized the subtle influences of a woman in directing the
 life of her husband. This is told dramatically in the Midrash: "A pious
@@ -244,7 +244,7 @@ man had been married to a pious woman but, being childless, they were
 divorced. He then went and married a wicked woman, and she made him
 wicked. The divorced woman proceeded and married a wicked man and she
 made a good man out of him. It thus follows that everything depends upon
-the woman."<span id="an_r_08_7"></span>[7](wott11.htm#an_n_08_7)
+the woman."<span id="an_r_08_7"></span>[7](wott11.htm#an_n_08_7.md)
 
 The same Midrash tells another tale which extols modesty as a woman's
 noblest virtue, at the same time alluding to common weaknesses in a
@@ -258,7 +258,7 @@ should not be too talkative; nor from the heart that she should not be
 too jealous; nor from the hand that she should not be too acquisitive;
 nor from the foot that she should not be a gadabout; but from a hidden
 part of the body that she should be modest.'"<span
-id="an_r_08_8"></span>[8](wott11.htm#an_n_08_8)
+id="an_r_08_8"></span>[8](wott11.htm#an_n_08_8.md)
 
 #### EDUCATION AND HUMAN NATURE
 
@@ -290,7 +290,7 @@ aptitude, is given in the Midrash: "Said R. Judan ben Samuel, 'The
 Torah, given by the Eternal, was offered us only in relative measure …
 Some quality for the study of Bible; some for the Mishnah; some for the
 Talmud; some for Aggadah; and some for all of these.'"<span
-id="an_r_08_9"></span>[9](wott11.htm#an_n_08_9)
+id="an_r_08_9"></span>[9](wott11.htm#an_n_08_9.md)
 
 A variety of other material in educational psychology is scattered in
 the writings of the Talmud. The importance of motivation and interest in
@@ -312,7 +312,7 @@ the material
 
 studied. Humility was regarded as a prerequisite to a growth in
 knowledge, while arrogance was branded as its deadliest enemy.<span
-id="an_r_08_10"></span>[10](wott11.htm#an_n_08_10)
+id="an_r_08_10"></span>[10](wott11.htm#an_n_08_10.md)
 
 #### AIDS TO MEMORY
 
@@ -368,7 +368,7 @@ our bed on a sword-blade; now that our love has grown weak, a bed of
 sixty cubits is not large enough for us. …" The words listed in
 parentheses as the mnemonic are taken from each of the aphorisms in the
 passage. The word was to be a key to recall the text of the
-aphorism.<span id="an_r_08_11"></span>[11](wott11.htm#an_n_08_11)
+aphorism.<span id="an_r_08_11"></span>[11](wott11.htm#an_n_08_11.md)
 
 #### PARABLES AND PROVERBS
 
@@ -393,7 +393,7 @@ lavishes His love and who on occasions proves faithless to Him, inspired
 a series of parables about the relations of a king and the woman of his
 love. The story of the prophet Jonah's flight from God was further
 clarified by the story of the servant who sought to flee his
-master.<span id="an_r_08_12"></span>[12](wott11.htm#an_n_08_12)
+master.<span id="an_r_08_12"></span>[12](wott11.htm#an_n_08_12.md)
 
 The parables cited in the Talmud are for the most part centered in the
 moralistic sections of the literature. They are relatively absent in the
@@ -411,7 +411,7 @@ possessed a dog that he named after his royal father; and whenever he
 was about to take an oath he used to say 'By the life of the dog, the
 father.' When the king heard of it, at whom did he feel indignant?
 Against the dog or against his son? Surely against the son."<span
-id="an_r_08_13"></span>[13](wott11.htm#an_n_08_13)
+id="an_r_08_13"></span>[13](wott11.htm#an_n_08_13.md)
 
 Some Talmudic illustrations are fables in which animals, and
 occasionally plants act and speak like human beings, their experiences
@@ -442,7 +442,7 @@ fox is offered as the instructor of wisdom. Only three of these have
 remained. Some of the fables of the Talmud show marked similarity to the
 fables of Aesop and the Indian moralist Kybises, but many are without
 parallel in other literatures.<span
-id="an_r_08_14"></span>[14](wott11.htm#an_n_08_14)
+id="an_r_08_14"></span>[14](wott11.htm#an_n_08_14.md)
 
 Some Talmudic illustrations are taken directly from human experience.
 Situations are projected in which the lesson to be taught seemed
@@ -466,7 +466,7 @@ soiled and ordinary garments. The king took pleasure at the wise, but
 was full of anger at those who were foolish, saying that those who had
 come prepared for the banquet should sit down and eat and drink, but
 those who had not properly arrayed themselves should remain standing and
-look on."<span id="an_r_08_15"></span>[15](wott11.htm#an_n_08_15)
+look on."<span id="an_r_08_15"></span>[15](wott11.htm#an_n_08_15.md)
 
 The Talmud cites a parable which was employed by Rabbi Zera in a funeral
 oration, to answer the challenge of R. Abin's death, at the untimely age
@@ -482,7 +482,7 @@ to us?' The king said to them: 'Why are you angry? Through his skill he
 has done in two hours more than you have done all day'. So it is with R.
 Abin ben Hiyya. In the twenty-eight years of his life he has attained
 more in the Torah than others attain in 100 years."<span
-id="an_r_08_16"></span>[16](wott11.htm#an_n_08_16)
+id="an_r_08_16"></span>[16](wott11.htm#an_n_08_16.md)
 
 The use of parable to offer consolation in bereavement is illustrated
 even more strikingly by the story concerning Beruria, wife of Rabbi
@@ -511,7 +511,7 @@ return the treasure to its owner?' So it is. 'The Lord hath given and
 the Lord hath taken, may the name of the Lord be blessed forever.' Said
 Rabbi Hanina: By means of that parable she comforted him and his mind
 became resigned to his sorrow."<span
-id="an_r_08_17"></span>[17](wott11.htm#an_n_08_17)
+id="an_r_08_17"></span>[17](wott11.htm#an_n_08_17.md)
 
 The rabbis found an important source of illustrations in the phenomena
 of nature, where they often found parallels to the phenomena of human
@@ -549,7 +549,7 @@ exhorted him, 'you are a person of many noble deeds and commandments.
 Wander about in the world and your name will become exalted in my
 world.' Thus what does the verse say after the directive to set out on
 the journey? 'And I shall make of thee a great nation" (Gen. 12:2).<span
-id="an_r_08_18"></span>[18](wott11.htm#an_n_08_18)
+id="an_r_08_18"></span>[18](wott11.htm#an_n_08_18.md)
 
 Another source for Talmudic illustrations were proverbs, often drawn
 from popular culture. In concise and pithy formulations, often ironic in
@@ -575,7 +575,7 @@ short in stature, bend down and whisper to her"; "When the shepherd
 strays, the sheep stray after him"; "Much happens through childishness,
 much happens through wine"; "If Tobias sinned, shall Sigood be
 punished?"; "Silence becomes the wise, and surely the foolish".<span
-id="an_r_08_19"></span>[19](wott11.htm#an_n_08_19)
+id="an_r_08_19"></span>[19](wott11.htm#an_n_08_19.md)
 
 As a rule, the proverb is not stated independently. It is offered as
 additional support of some lesson that has been expounded. The following
@@ -596,7 +596,7 @@ Why particularly Obadiah against Edom? … Ephraim Makshaah, the disciple
 of Rabbi Meir, said on Rabbi Meir's authority that Obadiah was an
 Edomite proselyte; and thus people say, 'From the very forest itself
 comes the handle of the axe that fells it.'"<span
-id="an_r_08_20"></span>[20](wott11.htm#an_n_08_20)
+id="an_r_08_20"></span>[20](wott11.htm#an_n_08_20.md)
 
 The rabbis did not see themselves as pioneers in the use of parable and
 proverb. Both appear in the Bible, principally in the writings which
@@ -615,7 +615,7 @@ water. "Disdain it not, the parable", they added. "Remember that when a
 pearl of great worth is lost, we search after it with a candle that
 costs but the smallest coin. So the lowly parable takes us home to the
 great teachings of the Torah."<span
-id="an_r_08_21"></span>[21](wott11.htm#an_n_08_21)
+id="an_r_08_21"></span>[21](wott11.htm#an_n_08_21.md)
 
 In the style of their utterance no less than in the doctrine which they
 proclaimed, the rabbis regarded themselves not as innovators, but as
@@ -626,4 +626,4 @@ the Talmud has remained its most impressive consummation.
 
 ------------------------------------------------------------------------
 
-[Next: Notes](wott11)
+[Next: Notes](wott11.md)

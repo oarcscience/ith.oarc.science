@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](mahaconc)  [Next](duttglos) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](mahaconc)  [Next](duttglos.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55Q4M/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55Q4M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Ramayana and Mahabharata*, by Romesh C. Dutt, \[1899\], at
 Intangible Textual Heritage
 
@@ -405,4 +405,4 @@ UNIVERSITY COLLEGE, LONDON,
 
 ------------------------------------------------------------------------
 
-[Next: Glossary](duttglos)
+[Next: Glossary](duttglos.md)

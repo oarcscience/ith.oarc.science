@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Theosophy](../../the/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Theosophy](../../the/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0835670953/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0835670953/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0835670953/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](clrv00)    [Page
-Index](pageidx)    [Text \[Zipped\]](clrvtxt.zip)
+[Contents](#contents)    [Start Reading](clrv00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](clrvtxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -46,15 +46,15 @@ research psi.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](clrv00)  
-[Contents](clrv01)  
-[Chapter I. What Clairvoyance Is](clrv02)  
-[Chapter II. Simple Clairvoyance: Full](clrv03)  
-[Chapter III. Simple Clairvoyance: Partial](clrv04)  
-[Chapter IV. Clairvoyance in Space: Intentional](clrv05)  
-[Chapter V. Clairvoyance in Space: Semi-Intentional](clrv06)  
-[Chapter VI. Clairvoyance in Space: Unintentional](clrv07)  
-[Chapter VII. Clairvoyance in Time: The Past](clrv08)  
-[Chapter VIII. Clairvoyance in Time: The Future](clrv09)  
-[Chapter IX. Methods of Development](clrv10)  
-[Index](clrv11)  
+<span id="contents"></span> [Title Page](clrv00.md)  
+[Contents](clrv01.md)  
+[Chapter I. What Clairvoyance Is](clrv02.md)  
+[Chapter II. Simple Clairvoyance: Full](clrv03.md)  
+[Chapter III. Simple Clairvoyance: Partial](clrv04.md)  
+[Chapter IV. Clairvoyance in Space: Intentional](clrv05.md)  
+[Chapter V. Clairvoyance in Space: Semi-Intentional](clrv06.md)  
+[Chapter VI. Clairvoyance in Space: Unintentional](clrv07.md)  
+[Chapter VII. Clairvoyance in Time: The Past](clrv08.md)  
+[Chapter VIII. Clairvoyance in Time: The Future](clrv09.md)  
+[Chapter IX. Methods of Development](clrv10.md)  
+[Index](clrv11.md)  

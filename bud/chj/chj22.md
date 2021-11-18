@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj21)  [Next](chj23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj21)  [Next](chj23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 ### CHAPTER XX
 
 <span class="smallcaps">Heian Buddhism</span> <span
-id="fr_298"></span>[1](#fn_296)
+id="fr_298"></span>[1](#fn_296.md)
 
 <span class="smallcaps">It</span> was in the year A.D. 767, in the first
 year of the period known to the Japanese as *Jingo Keiun*, that a child
@@ -62,7 +62,7 @@ Todaiji, and the celebrated Daibutsu of Nara. Dispensaries and hospitals
 were opened, bridges built, tiles used for the roofing of houses, and
 examinations instituted for the selection of candidates for Orders and
 the public service. Shōmu was the first Emperor of Japan to receive
-Baptism; <span id="fr_299"></span>[1](#fn_297) his whole life
+Baptism; <span id="fr_299"></span>[1](#fn_297.md) his whole life
 
 <span id="page_227">p. 227</span>
 
@@ -76,7 +76,7 @@ offices, and an Imperial decree forbade the taking of all life. After a
 reign of ten years, her minister, Fujiwara Nakamaro, advised her to
 abdicate in favour of a distant cousin, *Junnin* (759–764), and an
 unlawful affection which she had conceived for an ambitious and worldly
-priest, Dōkyō, <span id="fr_300"></span>[1](#fn_298) led her to
+priest, Dōkyō, <span id="fr_300"></span>[1](#fn_298.md) led her to
 acquiesce. But the, retirement of the Empress was not what Dōkyō
 desired, and Dōkyō had great influence with the clergy. A civil war
 ensued. Dōkyō and his followers defeated Fujiwara in a battle fought in
@@ -95,7 +95,7 @@ restoration to the fidelity of her paramour,
 and he claimed his reward. Dōkyō took the title of *Hō-ō* (the word
 which the Japanese always use for the Pope), and he claimed a temporal
 throne as well. But here public opinion stepped in, and the god of the
-temple of Hachiman <span id="fr_301"></span>[1](#fn_299) at Usa, a god
+temple of Hachiman <span id="fr_301"></span>[1](#fn_299.md) at Usa, a god
 then reverenced by Buddhist and Shintoist alike, pronounced his verdict.
 Never yet, he said, had a subject dared to raise himself to the Imperial
 throne. Shōtoku was reluctantly compelled to banish her lover. A very
@@ -129,10 +129,10 @@ disgrace. He chose out for himself a solitary spot on the slopes of
 Mount Hiyei, within the borders of his own province of Ōmi, and there
 erected a small hut of grass and rushes, which saw the beginnings of his
 monastic life. Here he lived, prayed, studied, meditated, and
-contemplated; <span id="fr_302"></span>[1](#fn_300) in the intervals of
+contemplated; <span id="fr_302"></span>[1](#fn_300.md) in the intervals of
 these exercises, he tilled a few rods of ground; when he could not do
 that, he spent his time in carving a statue of Yaku-Ō, <span
-id="fr_303"></span>[2](#fn_301) which he presently set up in his little
+id="fr_303"></span>[2](#fn_301.md) which he presently set up in his little
 chapel.
 
 Saichō's favourite books at this time were those which explained the
@@ -188,7 +188,7 @@ Tendai authorities at their chief seat, and thus to complete what was
 lacking in the system which he had been the means of establishing in
 Japan.
 
-Saichō started in 802 <span id="fr_304"></span>[1](#fn_302) as a
+Saichō started in 802 <span id="fr_304"></span>[1](#fn_302.md) as a
 chaplain (may we call him?) in the suite of Fujiwara Kadomaro, Japanese
 Ambassador to the Court of the Tangs. Storms delayed the party, and it
 was not until the following year that he reached China, making straight
@@ -258,7 +258,7 @@ not Buddhist at all. Its doctrine of *shō aku no hōmon*, or inherent
 evil, is dualistic; it asserts that in *Shinnyo*, which is the
 pantheistic god, there is an evil principle as well as a good, that the
 two are equal in duration and power. Manichæans <span
-id="fr_305"></span>[1](#fn_303) and Magi both held that doctrine, but it
+id="fr_305"></span>[1](#fn_303.md) and Magi both held that doctrine, but it
 was scarcely a Buddhist principle. It must have been a very difficult
 task to get doctrines so mutually antagonistic as those of the Zen and
 Ado to live side by side in the same religious household.
@@ -279,7 +279,7 @@ Mantra, which had but recently arrived in China, by way of sea, from
 South India. He stayed longer in China than did Saichō. When he reached
 his home he found the latter in the midst of carrying out his plans of
 Buddhist reform, and engaged in fierce controversy with the monks of
-Nara and the Nanto. <span id="fr_306"></span>[1](#fn_304) The
+Nara and the Nanto. <span id="fr_306"></span>[1](#fn_304.md) The
 controversy was on the subject of the *Kaidan*.
 
 Kaidan is the name given to a platform or *dais*, which is used for the
@@ -287,7 +287,7 @@ distribution of certificates and diplomas to successful candidates for
 the priesthood. Its existence in any particular temple implied the right
 of the authorities of that temple to confer Orders, and the Buddhist
 monk is as jealous of his Apostolic succession as is the highest High
-Churchman amongst ourselves. <span id="fr_307"></span>[2](#fn_305) There
+Churchman amongst ourselves. <span id="fr_307"></span>[2](#fn_305.md) There
 had been no ordinations of monks in China before A.D. 250, previously to
 which the simple taking of the "threefold Refuge," in Buddha, the Law,
 and the Community of Monks had been deemed sufficient. The first regular
@@ -334,7 +334,7 @@ raging. So he
 <span id="page_236">p. 236</span>
 
 went off touring again, and this time perambulated his native island of
-Shikoku. <span id="fr_308"></span>[1](#fn_306) On his next visit to
+Shikoku. <span id="fr_308"></span>[1](#fn_306.md) On his next visit to
 Kyoto, Saichō, now known as Dengyo Daishi, was dead, and Kōbō felt that
 he could at last hope to publish his own views of Buddhist doctrine
 without running counter to those of the friend for whom he had so warm
@@ -365,7 +365,7 @@ course between Japan and China had been going on for over three
 centuries, during which period much had come into Japan besides Buddhism
 and Confucianism. The original Kami-worship had been raised, as it were,
 into a system by the very fact of its early controversies with Buddhism,
-and Dr. De Visser <span id="fr_309"></span>[1](#fn_307) has recently
+and Dr. De Visser <span id="fr_309"></span>[1](#fn_307.md) has recently
 shown us how much of Taoism there lurks in the Shintoistic folklore of
 Japan. Confucianism, Buddhism, Taoism, formed in Kōbō's mind the three
 legs of a tripod on which the cauldron of the State might securely rest.
@@ -374,7 +374,7 @@ which we have been hitherto dealing.
 
 During the Tang Period, in the first half of the eighth century, there
 arrived in China a certain number of men, mostly from Southern India,
-and travelling by the sea route, <span id="fr_310"></span>[2](#fn_308)
+and travelling by the sea route, <span id="fr_310"></span>[2](#fn_308.md)
 who brought with them a new and evidently very late form of Buddhism,
 which had practically captured Thibet, then a leading kingdom of Asia,
 and which, from its very newness, was likely to captivate the
@@ -389,7 +389,7 @@ above him the
 <span id="page_238">p. 238</span>
 
 denizens of heaven. These three grades belonged to the natural
-world. <span id="fr_311"></span>[1](#fn_309) The spiritual world
+world. <span id="fr_311"></span>[1](#fn_309.md) The spiritual world
 consisted of those who were called out from the natural world to follow
 after the truth. Its lowest grade was the *S’ramana*, who strove after,
 and the *Engaku* or Pratyeka-buddha, who realized, the salvation of his
@@ -403,7 +403,7 @@ Vairoc’ana, the supreme Buddha—a reflection, as it were, of Osiris, whom
 we found in the Alexandrian Gnosis. Vairoc’ana is honoured as supreme by
 the Hossō, Tendai, and Kegon, and the order in which Kōbō places these
 sects seems to depend on the amount of honour which they were disposed
-to give to Vairoc’ana. <span id="fr_312"></span>[2](#fn_310)
+to give to Vairoc’ana. <span id="fr_312"></span>[2](#fn_310.md)
 
 <span id="page_239">p. 239</span>
 
@@ -436,7 +436,7 @@ A-ba-ra-ka-ki, and to these is added a sixth syllable,
 *un*, *A-ba-ra-ka-ki-un* means "Glory to Abraxas," and Abraxas is the
 name found engraved on Egyptian rings and charms. It was the name used
 for "God" by Basilides and other Gnostics of the first century. <span
-id="fr_313"></span>[1](#fn_311)
+id="fr_313"></span>[1](#fn_311.md)
 
 As with the Manichæans and Gnostics, the world is twofold. There is the
 "Diamond world" (*Kongo-kai*, *Vajradhātu*), in which all is at rest and
@@ -495,7 +495,7 @@ etc., for the purpose of raising money for Buddhist temples, at the
 <span id="page_242">p. 242</span>
 
 miseries of the people, and at the piteous spectacle of the
-Odorinembutsu <span id="fr_314"></span>[1](#fn_312) as a remedy for
+Odorinembutsu <span id="fr_314"></span>[1](#fn_312.md) as a remedy for
 those miseries, we shall be inclined to think that, in Japan also, we
 have come across some of his traces.
 
@@ -503,12 +503,12 @@ have come across some of his traces.
 
 ### Footnotes
 
-<span id="fn_296"></span>[225:1](chj22.htm#fr_298) Heian is the old name
+<span id="fn_296"></span>[225:1](chj22.htm#fr_298.md) Heian is the old name
 for Kyoto. Kyoto, which is even now the sacred city of Japanese
 Buddhism, was built in 794 by Kwammu Tennō, as his capital. Its name
 *Heian* signifies "Peace."
 
-<span id="fn_297"></span>[226:1](chj22.htm#fr_299) It is a significant
+<span id="fn_297"></span>[226:1](chj22.htm#fr_299.md) It is a significant
 fact that the Buddhist rite of Baptism (*Abhis’ekha*, Jap. *Kwanjō*)
 comes into prominence just at the period when Buddhism and Nestorianism
 came into contact. The same may be said of the care devoted by Buddhists
@@ -529,12 +529,12 @@ sūtra" appears in Nanjo's Catalogue as being the work of Prajnã alone.
 Prajnã was a follower of Zendo's, and there seems very little doubt that
 Zendoists and Nestorians were supposed to belong to the same ship.
 
-<span id="fn_298"></span>[227:1](chj22.htm#fr_300) A similar charge was
+<span id="fn_298"></span>[227:1](chj22.htm#fr_300.md) A similar charge was
 brought against the priest Gembō, who had a temple built to his honour
 after his death to appease his spirit and prevent it from wreaking
 vengeance on his murderers.
 
-<span id="fn_299"></span>[228:1](chj22.htm#fr_301) Hachiman is the god
+<span id="fn_299"></span>[228:1](chj22.htm#fr_301.md) Hachiman is the god
 of war. In life, he was the Emperor Ojin, the peaceful son of the
 warlike Empress *Jingo*, and his transformation into a god of battles
 has always been a puzzle. Originally a Shinto deity, he was adopted into
@@ -542,33 +542,33 @@ the Buddhist pantheon (where his position was still more incongruous) by
 the Ryōbu. It was the ambition of Hideyoshi to be worshipped after death
 as Shin Hachiman, the *New* god of War.
 
-<span id="fn_300"></span>[229:1](chj22.htm#fr_302) By *contemplation*,
+<span id="fn_300"></span>[229:1](chj22.htm#fr_302.md) By *contemplation*,
 which must be distinguished from meditation, is meant that quiet
 sitting, with mind and body perfectly still, which the Japanese know as
 *zazen*. When the absolute stillness can be attained, and the mind is
 free from all thought, the Vision of Truth is said to come to it, and
 the gate leading into the Invisible World is opened.
 
-<span id="fn_301"></span>[229:2](chj22.htm#fr_303) Yaku-ō (Skt.
+<span id="fn_301"></span>[229:2](chj22.htm#fr_303.md) Yaku-ō (Skt.
 Bhaishajyarāja) is a divinity who plays an important part in the
 Hokekyō. The Vow which he is said to have taken before attaining to
 Buddhahood relates almost entirely to physical health and personal
 beauty.
 
-<span id="fn_302"></span>[231:1](chj22.htm#fr_304) There is a slight
+<span id="fn_302"></span>[231:1](chj22.htm#fr_304.md) There is a slight
 discrepancy in dates in the authorities I have consulted. Some say 804,
 but Fr. Papinot, in his Dictionary, says 802, and I have thought myself
 safe in following so good an authority.
 
-<span id="fn_303"></span>[233:1](chj22.htm#fr_305) The Manichæan
+<span id="fn_303"></span>[233:1](chj22.htm#fr_305.md) The Manichæan
 expressions, <span id="img_23300"></span> ![](img/23300.jpg) and <span
 id="img_23301"></span> ![](img/23301.jpg), the "two principles" and the
 "three moments" are both to be found in the Japanese Tendai.
 
-<span id="fn_304"></span>[234:1](chj22.htm#fr_306) *Nanto*, "the South,"
+<span id="fn_304"></span>[234:1](chj22.htm#fr_306.md) *Nanto*, "the South,"
 the name given in Kyoto to the district round Nara.
 
-<span id="fn_305"></span>[234:2](chj22.htm#fr_307) Thus, when a Buddhist
+<span id="fn_305"></span>[234:2](chj22.htm#fr_307.md) Thus, when a Buddhist
 priest is ordained, he receives "letters of orders" on which are given
 the principal names of the priests through whom the succession has come
 down to him from the Apostles of S’akyamuni. It seems impossible to
@@ -580,7 +580,7 @@ of the *Yūdzūnembutsu*, who trace their succession, not to S’akyamuni,
 but to the Vision of Amida vouchsafed to their Founder in the twelfth
 century.
 
-<span id="fn_306"></span>[236:1](chj22.htm#fr_308) In the *Tsuzoku
+<span id="fn_306"></span>[236:1](chj22.htm#fr_308.md) In the *Tsuzoku
 Bukkyo Shimbun* there appeared, from the beginning of December, 1908, a
 series of articles describing the journey which Kūkai took on this
 occasion. It is a favourite route for pilgrims, and might still be
@@ -588,24 +588,24 @@ followed by the adventurous foreigner. I have drawn my information as to
 Kūkai's attitude on the Kaidan question from an article which appeared
 in the same paper in September, 1908.
 
-<span id="fn_307"></span>[237:1](chj22.htm#fr_309) In papers read before
+<span id="fn_307"></span>[237:1](chj22.htm#fr_309.md) In papers read before
 the Asiatic Society of Japan on Japanese Folklore.
 
-<span id="fn_308"></span>[237:2](chj22.htm#fr_310) See, for instance,
-what Dr. Nanjo says about Vajrabodhi, [Subhakarasiṇha](errata.htm#9),
+<span id="fn_308"></span>[237:2](chj22.htm#fr_310.md) See, for instance,
+what Dr. Nanjo says about Vajrabodhi, [Subhakarasiṇha](errata.htm#9.md),
 Amoghavajra, and Bodhiruci ("Catalogue Trip.," App. ii., Nos. 150, 153,
 154, 155). The Shingon of Japan is very similar to the Buddhism of
 Thibet. Yet it is not identical, and the three books on which the
 Japanese Shingonists mainly rely are not to be found in the Thibetan
 canon. The Japanese Shingon came from South India.
 
-<span id="fn_309"></span>[238:1](chj22.htm#fr_311) It must be remembered
+<span id="fn_309"></span>[238:1](chj22.htm#fr_311.md) It must be remembered
 that Buddhism never looks upon heaven as a place of moral or spiritual
 excellence. It is a world peopled by spiritual existences, but very much
 like our own, with good and bad in it. The least in the kingdom of
 Buddha is higher than the Buddhist heaven.
 
-<span id="fn_310"></span>[238:2](chj22.htm#fr_312) Both Hōnen Shōnin and
+<span id="fn_310"></span>[238:2](chj22.htm#fr_312.md) Both Hōnen Shōnin and
 Nichiren criticize Kōbō's arrangement of the order of precedence
 assigned to the sects—the latter with considerable asperity, as is his
 wont. It was from Nichiren that I got the allusion to S’akyamuni not
@@ -636,7 +636,7 @@ There were always certain differences between Syrian and Alexandrine
 Gnosticism. It is interesting to find them cropping up in Japan. They
 throw a flood of light on the obscure Book of Iao.
 
-<span id="fn_311"></span>[240:1](chj22.htm#fr_313) Tin is, of course,
+<span id="fn_311"></span>[240:1](chj22.htm#fr_313.md) Tin is, of course,
 the hum of *Om mani padme hum*. The Shingonists say that *Abarakakiun*
 may be contracted into *Om*, which represents the first and last
 syllables of the sacred word. In the *goma* ceremony the god of Fire,
@@ -646,7 +646,7 @@ publications of the Musée Guimet. The Shingonists still practise
 emanating from the Temple of Daishi at Kawasaki, in which the believer
 is urged not to delay coming to Baptism, and to come oft.
 
-<span id="fn_312"></span>[242:1](chj22.htm#fr_314) The "*dancing
+<span id="fn_312"></span>[242:1](chj22.htm#fr_314.md) The "*dancing
 nembutsu*" was the name given to a priest, Kūya, in the fifteenth
 century, who went round the country repeating the nembutsu and dancing.
 He hoped by this means to convert the people to religious ways. The
@@ -670,4 +670,4 @@ And with no language but a cry."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. “Namudaishi”](chj23)
+[Next: Chapter XXI. “Namudaishi”](chj23.md)

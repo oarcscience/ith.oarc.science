@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt07)  [Next](ebt09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt07)  [Next](ebt09.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ decay is for future investigation.
 
 ------------------------------------------------------------------------
 
-[Next: Individuality of a Ley](ebt09)
+[Next: Individuality of a Ley](ebt09.md)

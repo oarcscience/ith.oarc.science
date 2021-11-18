@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm01)  [Next](bcm03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm01)  [Next](bcm03.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ lifted. (Ulrich Molitor was a medieval demographer.)
 
 ### PLATE II
 
-Page [37](bcm09.htm#page_37)
+Page [37](bcm09.htm#page_37.md)
 
 The Angels of the Seven Planets, their Sigils, the Signs and Houses of
 the Planets, the names of the Seven Heavens, according to the *Magical
@@ -55,7 +55,7 @@ the Houses of the Planet.
 
 ### PLATE III
 
-Page [49](bcm11.htm#page_49)
+Page [49](bcm11.htm#page_49.md)
 
 Mystic Figures of the Enchiridion.
 
@@ -75,7 +75,7 @@ Its inscription has been adopted by alchemists.
 
 ### PLATE IV
 
-Page [54](bcm11.htm#page_54)
+Page [54](bcm11.htm#page_54.md)
 
 Mystic Figures of the Enchiridion.
 
@@ -95,7 +95,7 @@ Gabriel. Figure IX., the talisman and monogram of Michael.
 
 ### PLATE V
 
-Page [84](bcm17.htm#page_84)
+Page [84](bcm17.htm#page_84.md)
 
 The Characters of Evil Spirits, from the so-called "Fourth Book" of
 Cornelius Agrippa, and described as follows in the original.
@@ -113,7 +113,7 @@ mass; 14. rain;
 
 ### PLATE VI
 
-Page [135](bcm36.htm#page_135)
+Page [135](bcm36.htm#page_135.md)
 
 The Sabbatic Goat, from the *Ritual of Transcendental Magic*, by Éliphas
 Lévi, who identifies it with the Baphomet of Mendes, and does not regard
@@ -122,7 +122,7 @@ figure of the absolute."
 
 ### PLATE VII
 
-Page [156](bcm43.htm#page_156)
+Page [156](bcm43.htm#page_156.md)
 
 The instruments of Black Magic, from the Grimoire entitled *True Black
 Magic*.
@@ -136,7 +136,7 @@ assistants.
 
 ### PLATE VIII
 
-Page [223](bcm61.htm#page_223)
+Page [223](bcm61.htm#page_223.md)
 
 The Magical circle used in Goëtic Theurgy, according to the Lesser Key
 of Solomon the King, showing the position of the operator, the divine
@@ -145,12 +145,12 @@ and the situation of the lights.
 
 The figure and place of the triangle into which the spirit is commanded
 will be found, with description, in the text, pp.
-[220](bcm60.htm#page_220)-223. The Divine Names differ in some of the
+[220](bcm60.htm#page_220.md)-223. The Divine Names differ in some of the
 manuscripts.
 
 ### PLATE IX
 
-Page [259](bcm64.htm#page_259)
+Page [259](bcm64.htm#page_259.md)
 
 The Goëtic Circle of Black Evocations and Pacts, according to Éliphas
 Lévi.
@@ -166,4 +166,4 @@ the operator and his assistants.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](bcm03)
+[Next: Preface](bcm03.md)

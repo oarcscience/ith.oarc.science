@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob21) 
-[Next](tob23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob21.md) 
+[Next](tob23.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob21) 
 
 <span id="img_wiar08"></span>
 
-![JUSTICE.](img/wiar08.jpg)  
+![JUSTICE.](img/wiar08.jpg.md)  
 JUSTICE.
 
    <span id="img_msar08"></span>
 
-![JUSTICE.](img/msar08.jpg)  
+![JUSTICE.](img/msar08.jpg.md)  
 JUSTICE.
 
 8\. ח
@@ -30,7 +30,7 @@ Continued effort results in the establishment of an equilibrium, between
 the destruction of the works of man accomplished by nature, when left to
 herself, and the preservation of this work. Hence the idea of *balancing
 power*, and consequently of Justice attributed to this letter. <span
-id="fr_60"></span>[1](#fn_60)
+id="fr_60"></span>[1](#fn_60.md)
 
 <span id="page_139">p. 139</span>
 
@@ -197,7 +197,7 @@ matter (9). This is demonstrated by the following arcanum.
 
 ### Footnotes
 
-<span id="fn_60"></span>[138:1](tob22.htm#fr_60) This letter, an
+<span id="fn_60"></span>[138:1](tob22.htm#fr_60.md) This letter, an
 intermediary between ה (He) and כ (Kaph), the one designating life,
 absolute existence, the other the relative life, assimilated existence,
 is the sign of elementary existence: it is the image of a kind of
@@ -206,4 +206,4 @@ normal and legislative action.--FABRE D'OLIVET.
 
 ------------------------------------------------------------------------
 
-[Next: 9. The Hermit](tob23)
+[Next: 9. The Hermit](tob23.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna15) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna15.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ Territory of Australia*, No. 2, April 1912, Plates x. xi. xii.\]
 
 {p. 410}
 
-![Bark Armlet Pattern](img/41000.jpg)
+![Bark Armlet Pattern](img/41000.jpg.md)
 
 Diagrams 1, 2, and 3 represent the original form of the sheets of bark
 out of which three armlets have been made.
@@ -575,7 +575,7 @@ or even boy, each individual appearing to follow his own fancy.
 #### CLUBS AND SPEARS.
 
 Plate XXXVI. [\[Decorated Spears, Melville and Bathurst
-Islands.\]](img/pla036.jpg) serves to give some idea of the really
+Islands.\]](img/pla036.jpg.md) serves to give some idea of the really
 extraordinary and varied decorations on the Melville Island clubs and
 spears. Much as they vary in detail, they may really be divided so far
 as decoration is concerned into three main groups, first, those in which
@@ -842,7 +842,7 @@ in the native mind.
 The drawings represented in Figs. 79--92 will serve to give a very fair
 idea of these bark drawings which are amongst the most highly developed
 and interesting of any made by Australian aboriginals. Fig. 79, [\[Bark
-Drawing: a Mormo, Called Ingwalin (Kakadu Tribe)\]](img/fig079.jpg)
+Drawing: a Mormo, Called Ingwalin (Kakadu Tribe)\]](img/fig079.jpg.md)
 which is four feet six inches in height, represents a special Mormo
 called Ingwalin. There are supposed to be plenty of them living in the
 *delborji*, or caves, amongst the Ranges. They are tall and thin, with
@@ -868,7 +868,7 @@ making a noise that sounds like *Brr! Brr!* The medicine men can see
 them but no one else.
 
 In Fig. 80 [\[Bark Drawing: Two Mormos, Nangintain (L.), Auunau
-(R.)\]](img/fig080.jpg) two very interesting drawings are seen, The one
+(R.)\]](img/fig080.jpg.md) two very interesting drawings are seen, The one
 on the left hand is called Nangintain, and is a spirit associated
 especially with the Geimbio tribe. This is one of those mischievous
 individuals who, every now and then, leaves his own country and visits
@@ -916,7 +916,7 @@ and below the hands and behind and under the feet indicate maggots. The
 spirits are supposed to wander about in search of dead men whose flesh
 they eat and can only be frightened away by medicine men.
 
-Fig. 81 [\[Bark Drawing: a Mormo, (Geimbio Tribe)\]](img/fig081.jpg)
+Fig. 81 [\[Bark Drawing: a Mormo, (Geimbio Tribe)\]](img/fig081.jpg.md)
 represents a different type of spirit. This one belongs to the Geimbio
 tribe and is supposed to fly about in the daylight or moonlight but not
 on dark nights. It lives amongst the bamboo trees, hanging on to special
@@ -934,7 +934,7 @@ man and tells him. It is, also, supposed to be *margi*, or medicine man
 itself.
 
 In Fig. 82 [\[Bark Drawing: a Mormo, Called Yerobeiri, (Kakadu
-Tribe)\]](img/fig082.jpg) two spirits belonging to the Geimbio country,
+Tribe)\]](img/fig082.jpg.md) two spirits belonging to the Geimbio country,
 but called Yerobeni by the Kakadu people, are drawn. Some of these are
 women, others are men. They are supposed to live in caves and holes in
 the ground, or in banyan trees in the jungle, where they sleep at night
@@ -949,7 +949,7 @@ in which he collects sugar bag, and the woman, who carries a digging
 stick, searching for turtles and yams.
 
 Fig. 83 [\[Bark Drawing: a Mormo, Called Warraguk, (Kakadu
-Tribe)\]](img/fig083.jpg) represents a very special spirit which was
+Tribe)\]](img/fig083.jpg.md) represents a very special spirit which was
 first seen by a medicine man named Mitjuombo. It is called Warraguk and
 is supposed to walk about in the day time, searching for *mormo*, or
 sugar bag. When at rest it lives in the bamboos and paper bark trees, on
@@ -961,12 +961,12 @@ along the river flats in the Kakadu country.
 
 {p. 437}
 
-Fig. 84 [\[Bark Drawing: Three Snakes, (Kakadu Tribe)\]](img/fig084.jpg)
+Fig. 84 [\[Bark Drawing: Three Snakes, (Kakadu Tribe)\]](img/fig084.jpg.md)
 represents three snakes, the two left hand ones being Narenma and the
 right hand, Ngabadaua, a snake that figures largely in the traditions of
 the Kakadu.
 
-Fig. 85 [\[Bark Drawing: Crocodile, (Kakadu Tribe)\]](img/fig085.jpg) is
+Fig. 85 [\[Bark Drawing: Crocodile, (Kakadu Tribe)\]](img/fig085.jpg.md) is
 a drawing of an Eribinjori, or large crocodile. Behind the two jaws are
 the eyes, and behind them is the tongue, or *nainjil*; then follows the
 neck, or *munganumo*, which is succeeded by the shoulder, or
@@ -979,7 +979,7 @@ right side of the tail the dorsal row of spines is drawn, with the
 backbone below them.
 
 Fig. 86 [\[Bark Drawing: Native Spearing Kangaroo, (Kakadu
-Tribe)\]](img/fig086.jpg) represents a special, very rare, form of black
+Tribe)\]](img/fig086.jpg.md) represents a special, very rare, form of black
 kangaroo, called Madjiborla, that lives amongst the ranges. The native
 is supposed to have been out searching for Mormo, or sugar bag, with
 which he has filled the *numalka* dilly bag that hangs from his neck. On
@@ -990,7 +990,7 @@ there is no attempt made to indicate the proportionate size of the human
 being and the animal.
 
 Fig. 87 [\[Bark Drawing: a Kangaroo Hunt, (Kakadu
-Tribe)\]](img/fig087.jpg) is really a composite drawing. On the right
+Tribe)\]](img/fig087.jpg.md) is really a composite drawing. On the right
 hand side there is a kangaroo, the main figure in the drawing. Behind it
 there are two male figures, upside down, who have nothing to do with the
 main scene. Behind them is a man with a spear-thrower in his hand, from
@@ -1007,7 +1007,7 @@ figure of a man who is supposed to be killing the wounded animal with a
 club.
 
 Fig. 88 [\[Bark Drawing: Pigmy Goose, Barramunda Fish, Stecilled Hands,
-(Kakadu Tribe)\]](img/fig088.jpg) represents three quite distinct
+(Kakadu Tribe)\]](img/fig088.jpg.md) represents three quite distinct
 things. The uppermost is a pigmy goose or peevi, the middle one is a
 fish, called Baralil, and the lower is the stencilled drawing of a hand.
 The latter is very often met with, and is made by placing the hand, with
@@ -1018,19 +1018,19 @@ Much has been written about the so-called "red-hand" but in reality it
 has no special significance of any kind whatever.
 
 Fig. 89 [\[Bark Drawing: Barramunda Fish, (Kakadu
-Tribe)\]](img/fig089.jpg) represents a Kimberikara or Barramunda fish
+Tribe)\]](img/fig089.jpg.md) represents a Kimberikara or Barramunda fish
 (*Osteoglossum leichardti*). Along the back a line of *tjali*, or flesh,
 is indicated; below this there is the backbone, and below this again the
 internal organs.
 
 Fig. 90 [\[Bark Drawing: Native Spearing 'Native Companion', (Kakadu
-Tribe)\]](img/fig090.jpg) is a drawing of a Jimeribunna, or native
+Tribe)\]](img/fig090.jpg.md) is a drawing of a Jimeribunna, or native
 companion (*Grus australasianus*) which has been speared by a native.
 The relative proportions of the bird are well shown and its internal
 anatomy indicated.
 
 Fig. 91 [\[Bark Drawing: Palmated Goose, (Kakadu
-Tribe)\]](img/fig091.jpg) is a most excellent drawing of an old, male,
+Tribe)\]](img/fig091.jpg.md) is a most excellent drawing of an old, male,
 palmated goose, or Kurnembo. The hard, horny crest on the head, called
 *kundeiya*, is very characteristically drawn, as is also the beak. The
 backbone is shown and, though the wings had to be omitted, in order to
@@ -1041,7 +1041,7 @@ pelvic region are clearly outlined.
 
 {p. 439}
 
-Fig. 92 [\[Bark Drawing: Echidna, (Kakadu Tribe)\]](img/fig092.jpg) Is
+Fig. 92 [\[Bark Drawing: Echidna, (Kakadu Tribe)\]](img/fig092.jpg.md) Is
 one of the best of the animal drawings. It represents an Echidna, or
 *erleringerlura*. The strong, compact body, with short legs, is very
 well expressed, and there is no mistaking its identity.

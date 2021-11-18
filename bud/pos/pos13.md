@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos12)  [Next](pos14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos12)  [Next](pos14.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,11 +86,11 @@ Here, O Destroyer, shalt thou not prevail! (203)</span></p></td>
 
 > <sup>299</sup> Here *indriya*, as something to be *re*strained, not
 > trained–*i.e.*, developed–refers to the senses of external perception
-> (*plus* sense-memory). See [Ps. lix.](pos12.htm#LIX), 182 *n.*
+> (*plus* sense-memory). See [Ps. lix.](pos12.htm#LIX.md), 182 *n.*
 
 <span id="100-2"></span>
 
-> <sup>300</sup> *Cf.* [Ps. xxxiv.](pos08.htm#XXXIV) [55](pos08.htm#55).
+> <sup>300</sup> *Cf.* [Ps. xxxiv.](pos08.htm#XXXIV) [55](pos08.htm#55.md).
 
 <span id="100-3"></span>
 
@@ -99,7 +99,7 @@ Here, O Destroyer, shalt thou not prevail! (203)</span></p></td>
 > Peta's or ghosts, animals, men, Asuras, and firmamental spirits, in
 > the 'Kāmaloka of sense-desire,' inferior in space to the Heavens of
 > 'Form' and the 'Formless.' They were the Nimmānarati and
-> Paranimmita-vāsavatti gods. In [Ps. lxxiii.](pos21.htm#LXXIII)
+> Paranimmita-vāsavatti gods. In [Ps. lxxiii.](pos21.htm#LXXIII.md)
 > (Commentary) I attempt a translation of the last two titles of gods,
 > but they are more translatable in prose than in verse.
 
@@ -113,4 +113,4 @@ Here, O Destroyer, shalt thou not prevail! (203)</span></p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto IX. Psalms of Nine Verses](pos14)
+[Next: Canto IX. Psalms of Nine Verses](pos14.md)

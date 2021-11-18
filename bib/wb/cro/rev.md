@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jde)  [Next](tob) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jde)  [Next](tob.md) 
 
 ------------------------------------------------------------------------
 
@@ -1462,4 +1462,4 @@ ubrzo!" Amen! Dođi, Gospodine Isuse!
 
 ------------------------------------------------------------------------
 
-[Next: Tobias](tob)
+[Next: Tobias](tob.md)

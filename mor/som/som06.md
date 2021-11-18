@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](som05)  [Next](som07) 
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](som05)  [Next](som07.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,7 +155,7 @@ a power greater than that of earth. With the seal of the holy Priesthood
 upon their wedded state, these people believe implicitly in the
 perpetuity of that relationship on the far side of the grave. They marry
 not with the saddening limitation "Until death do you part," but "For
-time and for all eternity." <span id="fr_2"></span>[3](#fn_2) This
+time and for all eternity." <span id="fr_2"></span>[3](#fn_2.md) This
 constitutes celestial marriage. The thought that plural marriage has
 ever been the head and front of "Mormon" offending, that to it is
 traceable as the true cause the hatred of other sects and the
@@ -257,10 +257,10 @@ unison with the voice of God.
 
 ### Footnotes
 
-<span id="fn_2"></span>[:3](som06.htm#fr_2) For treatment of Celestial
+<span id="fn_2"></span>[:3](som06.htm#fr_2.md) For treatment of Celestial
 Marraige and other Temple ordinances, see "The House of the Lord," by
 the present author, Salt Lake City, Utah, 1912.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](som07)
+[Next: Chapter I](som07.md)

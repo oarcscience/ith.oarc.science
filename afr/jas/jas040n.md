@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas039n)  [Next](jas041n)   
- \[[40. Goat's Escape.](jas040)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas039n)  [Next](jas041n.md)   
+ \[[40. Goat's Escape.](jas040.md)\]
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ a song a treacherous intention.
 
 ------------------------------------------------------------------------
 
-[Next: Note 41. Turtle's Escape.](jas041n)
+[Next: Note 41. Turtle's Escape.](jas041n.md)

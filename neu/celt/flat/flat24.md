@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat23)  [Next](flat25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat23)  [Next](flat25.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ Young Cormac welcomes back his Mary.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Lough Gur](flat25)
+[Next: The Legend of Lough Gur](flat25.md)

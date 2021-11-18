@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta17)  [Next](sta19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta17)  [Next](sta19.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ groups, which were termed *Entered Apprentices*, *Fellow-Craftsmen*, and
 <span id="img_07700"></span>
 
 [![A MASONIC APRON WITH SYMBOLIC FIGURES.](tn/07700.jpg)  
-Click to enlarge](img/07700.jpg)  
+Click to enlarge](img/07700.jpg.md)  
 A MASONIC APRON WITH SYMBOLIC FIGURES.  
 
 From an early hand-painted Masonic apron.
@@ -180,7 +180,7 @@ mallet and CHiram fell dead.
 The body of CHiram was buried by the murderers over the brow of Mount
 Moriah and a sprig of acacia placed upon the grave. The murderers then
 sought to escape punishment for their crime by embarking for
-[Ethiopia](errata.htm#3), but the port was closed. All three were
+[Ethiopia](errata.htm#3.md), but the port was closed. All three were
 finally captured, and after admitting their guilt were duly executed.
 Parties of three were then sent out by King Solomon, and one of these
 groups discovered the newly made grave marked by the evergreen sprig.
@@ -321,7 +321,7 @@ Dr. Orville Ward Owen found a considerable part of the first
 <span id="img_07800"></span>
 
 [![THE EMBLEMATIC HAND OF THE MYSTERIES.](tn/07800.jpg)  
-Click to enlarge](img/07800.jpg)  
+Click to enlarge](img/07800.jpg.md)  
 THE EMBLEMATIC HAND OF THE MYSTERIES.  
 
 From Montfaucon's *Antiquities*.
@@ -490,7 +490,7 @@ winter solstice, so the physical world may be termed
 <span id="img_07900"></span>
 
 [![DIANA OF EPHESUS.](tn/07900.jpg)  
-Click to enlarge](img/07900.jpg)  
+Click to enlarge](img/07900.jpg.md)  
 DIANA OF EPHESUS.  
 
 From Montfaucon's *Antiquities*.
@@ -677,4 +677,4 @@ sages sit upon the seats of the mighty and the gods walk with men.
 
 ------------------------------------------------------------------------
 
-[Next: The Pythagorean Theory of Music and Color](sta19)
+[Next: The Pythagorean Theory of Music and Color](sta19.md)

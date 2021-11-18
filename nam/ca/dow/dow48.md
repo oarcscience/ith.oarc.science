@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow47)  [Next](dow49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow47)  [Next](dow49.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -33,7 +33,7 @@ pages
 <span id="page_213">p. 213</span>
 
 <span class="contnote">\[paragraph continues\]</span>
-[55](dow11.htm#page_55)-56 and [132](dow25.htm#page_132)). This belief
+[55](dow11.htm#page_55)-56 and [132](dow25.htm#page_132).md). This belief
 is widespread among the Mewan tribes and is held also by at least one
 Pomo tribe-the \`Ham'-fo or Koi'-im-fo of Clear Lake.
 
@@ -54,4 +54,4 @@ If a person breaks a Meadowlark's egg it will rain.
 
 ------------------------------------------------------------------------
 
-[Next: *Ki'-ki'-ah* The Mountain Bluejay](dow49)
+[Next: *Ki'-ki'-ah* The Mountain Bluejay](dow49.md)

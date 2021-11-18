@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das19)  [Next](das21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das19)  [Next](das21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ that were behind us, but our method of procedure was rather bewildering,
 for there was no mark by which to retrace our tracks. As we went deeper
 into the pine woods there was no sign of habitation.
 
-Our driver, <span id="fr_128"></span>[1](#fn_128) who had offered to
+Our driver, <span id="fr_128"></span>[1](#fn_128.md) who had offered to
 help us when our car had stuck in the bog, was a six-foot, shiny black
 Negro, strong necked and lithe, with a twelve-inch hunting knife
 strapped to his hip. We had never seen him before, nor the smaller Negro
@@ -56,7 +56,7 @@ upturned to the strangers.
 The two elderly women rose and came forward to greet us. Our guide
 explained our mission and inquired as to the whereabouts of Uncle Ben
 Washington, with whom we wished to talk. Aunt Sarah, <span
-id="fr_129"></span>[1](#fn_129) who was Uncle Ben's wife, explained that
+id="fr_129"></span>[1](#fn_129.md) who was Uncle Ben's wife, explained that
 her husband had gone to work in the woods early that morning.
 
 A glance at the dense forest surrounding the little clearing convinced
@@ -65,7 +65,7 @@ guides were attempting to summon him.
 
 Just as we were about to abandon the venture a unique figure appeared
 inside the fence and Reuben Taylor, the older of our guides, exclaimed,
-"Deah's Uncle Ben now." Uncle Ben <span id="fr_130"></span>[2](#fn_130)
+"Deah's Uncle Ben now." Uncle Ben <span id="fr_130"></span>[2](#fn_130.md)
 appeared in a long frock coat and high felt hat, carrying a walking
 stick. It was difficult to understand how he could have worked in such a
 costume. He seemed young for the eighty-five years he claimed, for he
@@ -103,32 +103,32 @@ quizzical smile. "Ise heahd bout bein cunjuhed an I know fuh true deah's
 sech tings as magic." Uncle Ben chuckled, "Ef yuh ebuh see a cross mahk
 in duh road, yuh nebuh walk obuh it. Das real magic. Yuh hab tuh go roun
 it. It's put deah by a enemy an ef yuh walks cross it, duh ebil spell
-will cause yuh hahm. [15](das26.htm#xref_15) Duh cross is a magic sign
+will cause yuh hahm. [15](das26.htm#xref_15.md) Duh cross is a magic sign
 an hab tuh do wid duh spirits."
 
 "Ef dat happens," said Aunt Sarah, "reckon bout duh only ting yuh could
-do would be tuh see a root doctuh. [48](das26.htm#xref_48) He gib yuh
-sumpm, wut cuos yuh." [6](das26.htm#xref_6)
+do would be tuh see a root doctuh. [48](das26.htm#xref_48.md) He gib yuh
+sumpm, wut cuos yuh." [6](das26.htm#xref_6.md)
 
 Uncle Ben turned to us. "Lots uh folks carry hans all duh time an dis
 bring em, luck an keep duh ebil spirits
-away." [8](das26.htm#xref_8), [12a](das26.htm#xref_12a),
- [12c](das26.htm#xref_12c),  [12d](das26.htm#xref_12d)
+away." [8](das26.htm#xref_8), [12a](das26.htm#xref_12a.md),
+ [12c](das26.htm#xref_12c),  [12d](das26.htm#xref_12d.md)
 
 The old man seemed unable to describe these good luck charms, but he was
 more successful in describing the charms used in conjuring an enemy.
 
 "Dey is made mosly frum haiah aw nails an lots uh times duh dus frum yuh
-foot track," he said. [7](das26.htm#xref_7)
+foot track," he said. [7](das26.htm#xref_7.md)
 
 Aunt Sarah's face darkened. "Ain nobody git my haiah," she declared. "I
-buns it so nobody kin wuk hahm wid it." [10](das26.htm#xref_10)
+buns it so nobody kin wuk hahm wid it." [10](das26.htm#xref_10.md)
 
 Young Reuben spoke up. "Ef yuh weahs a silvuh coin, it brings yuh good
 luck," he stated doggedly. "An ef any body cunjuh yuh aw wuk gense yuh,
 duh money tun black an yuh know yuh hab tuh do sumpm. bout it fo duh
-cunjuh wuks." [12a](das26.htm#xref_12a),  [12c](das26.htm#xref_12c),
- [12d](das26.htm#xref_12d)
+cunjuh wuks." [12a](das26.htm#xref_12a),  [12c](das26.htm#xref_12c.md),
+ [12d](das26.htm#xref_12d.md)
 
 "Did you ever see anyone who was conjured?" we asked. All three nodded
 solemnly.
@@ -136,17 +136,17 @@ solemnly.
 Uncle Ben spoke first "Dey's mosly all crippled up an
 
 caahn moob bout. Ef dey dohn do nuttn, duh cunjuh gits wus, an dey
-dies." [15](das26.htm#xref_15)
+dies." [15](das26.htm#xref_15.md)
 
 "Folks wut is cunjuhed hab snakes in em an sometimes
-frawgs. [5](das26.htm#xref_5) Yuh kin see em moobin roun in deah
+frawgs. [5](das26.htm#xref_5.md) Yuh kin see em moobin roun in deah
 bodies," volunteered Reuben. "Wen dey visit duh root
-doctuh [48](das26.htm#xref_48) an he wuks obuh em, den dey's jis as good
+doctuh [48](das26.htm#xref_48.md) an he wuks obuh em, den dey's jis as good
 as noo."
 
 "Some folks roun bout say dey sees spirits," added Uncle Ben. "Dey calls
 em plat-eye, cuz dey hab jis one big eye hangin out in
-front. [62](das26.htm#xref_62) I dohn fool roun wid sech tings fuh dey's
+front. [62](das26.htm#xref_62.md) I dohn fool roun wid sech tings fuh dey's
 sho bad luck."
 
 "In some places the people told us that dead people's spirits returned
@@ -154,9 +154,9 @@ to earth. Is that true here?" we asked.
 
 Aunt Sarah speculated. She wagged her black-bonneted head until her
 brass earrings jangled. Finally she offered, "I dohn guess yuh be bodduh
-much by duh spirits ef yuh gib em a good fewnul [36](das26.htm#xref_36)
+much by duh spirits ef yuh gib em a good fewnul [36](das26.htm#xref_36.md)
 an put duh tings wut belong tuh em on top uh duh
-grave." [47](das26.htm#xref_47)
+grave." [47](das26.htm#xref_47.md)
 
 Uncle Ben helped with this explanation. "Yuh puts all duh tings wut dey
 use las, lak duh dishes an duh medicine bottle. Duh spirits need deze
@@ -164,8 +164,8 @@ same as duh man. Den duh spirit res an dohn wanduh bout."
 
 Aunt Sarah said that they went to set-ups and that in the old days,
 after the mourners had arrived, a chicken was
-killed. [35](das26.htm#xref_35),  [37b](das26.htm#xref_37b),
- [37c](das26.htm#xref_37c) Neither Aunt Sarah nor Uncle Ben, however,
+killed. [35](das26.htm#xref_35),  [37b](das26.htm#xref_37b.md),
+ [37c](das26.htm#xref_37c.md) Neither Aunt Sarah nor Uncle Ben, however,
 knew the reason for this.
 
 Catching sight of a few crudely made farm implements propped up against
@@ -183,7 +183,7 @@ tru duh house, it sho mean bad luck."
 Uncle Ben's contribution was, "I heah lots uh tings bout duh hoe. I heah
 tell bout how it jis stan right up in duh fiel by itsef an wuk fuh yuh
 widout nobody techin it--das ef yuh kin wuk it
-right." [39](das26.htm#xref_39)
+right." [39](das26.htm#xref_39.md)
 
 When we asked about the music played at dances and at church services,
 Uncle Ben explained to us, "Some yeahs back at duh dances dey would
@@ -193,7 +193,7 @@ alluz beat duh drums an shake'
 
 some kine uh bones wut dey make frum cow's ribs. All duh folks would
 keep time wid deah hans an feet an dance tuh duh
-music." [23](das26.htm#xref_23)
+music." [23](das26.htm#xref_23.md)
 
 Apparently the memory of similar affairs was pleasant to Reuben, the
 young guide, for his eyes gleamed and his white teeth flashed in a
@@ -213,19 +213,19 @@ married tuh deah baby girl," he confided.
 
 ### Footnotes
 
-<span id="fn_128"></span>[125:1](das20.htm#fr_128) Reuben Taylor,
+<span id="fn_128"></span>[125:1](das20.htm#fr_128.md) Reuben Taylor,
 Eulonia.
 
-<span id="fn_129"></span>[126:1](das20.htm#fr_129) Sarah Washington, in
+<span id="fn_129"></span>[126:1](das20.htm#fr_129.md) Sarah Washington, in
 the pine woods about five miles from Eulonia.
 
-<span id="fn_130"></span>[126:2](das20.htm#fr_130) Ben Washington, in
+<span id="fn_130"></span>[126:2](das20.htm#fr_130.md) Ben Washington, in
 the pine woods about five miles from Eulonia.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Possum Point](das21)
+[Next: Possum Point](das21.md)
 
 </div>

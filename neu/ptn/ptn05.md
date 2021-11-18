@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ptn04)  [Next](ptn06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ptn04)  [Next](ptn06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Popular Tales from the Norse*, by George Webbe Dasent, \[1904\], at
 Intangible Textual Heritage
 
@@ -84,7 +84,7 @@ dialects of Teutonic speech a right of ancient inheritance and perfect
 freedom before unsuspected and unknown. It is almost needless to mention
 this honoured name. For the furtherance of the good work which he began
 nearly fifty years ago, he still lives <span
-id="fr_17"></span>[1](#fn_17) and still labours. There is no spot on
+id="fr_17"></span>[1](#fn_17.md) and still labours. There is no spot on
 which an accent of Teutonic speech is uttered where the name of Jacob
 Grimm is not a "household word." His General Grammar of all the Teutonic
 Dialects from Iceland to England has proved the equality of these
@@ -169,7 +169,7 @@ it is useless to attempt to fix the date. Impossible, because no means
 exist for ascertaining it,; useless, because it is in reality a matter
 of utter indifference, when, as this tell-tale crust of earth informs
 us, we have: an infinity of ages and periods to fall back on, <span
-id="fr_18"></span>[1](#fn_18) whether
+id="fr_18"></span>[1](#fn_18.md) whether
 
 <span id="page_xlix">p. xlix</span>
 
@@ -180,7 +180,7 @@ called Iran. Iran, the habitation of the tillers and
 
 <span id="page_l">p. l</span>
 
-*carers* <span id="fr_19"></span>[1](#fn_19) of the earth, as opposed to
+*carers* <span id="fr_19"></span>[1](#fn_19.md) of the earth, as opposed to
 Turan, the abode of restless horse-riding nomads—of Turks, in short; for
 in their name the root survives, and still distinguishes the great
 Turanian or Mongolian family from. the Aryan, Iranian, or Indo-European
@@ -264,7 +264,7 @@ sun of Heaven"; and well does he also remark, that a people of this
 peculiar stamp was never destined to act a prominent part in the history
 of the world; nay, the exhausting atmosphere of transcendental ideas
 could not but exercise a detrimental influence on the active and moral
-character of the Hindoos. <span id="fr_20"></span>[1](#fn_20)
+character of the Hindoos. <span id="fr_20"></span>[1](#fn_20.md)
 
 <span id="page_liv">p. liv</span>
 
@@ -365,10 +365,10 @@ from a common stock.
 
 ### Footnotes
 
-<span id="fn_17"></span>[xlv:1](ptn05.htm#fr_17) \[He died in 1863. This
+<span id="fn_17"></span>[xlv:1](ptn05.htm#fr_17.md) \[He died in 1863. This
 Introduction was written in 1858.\]
 
-<span id="fn_18"></span>[xlviii:1](ptn05.htm#fr_18) How strange is the
+<span id="fn_18"></span>[xlviii:1](ptn05.htm#fr_18.md) How strange is the
 terror of Natural Science, which seems to possess, with a religious
 possession, so many good and pious people! How rigidly do they bind
 themselves hand and foot with the mere letter of the law, forgetting Him
@@ -425,12 +425,12 @@ Hebrew spectacles, and to force her to be a laggard and dullard, instead
 of a bright and volatile spirit, forward and foremost in the race of
 life.
 
-<span id="fn_19"></span>[l:1](ptn05.htm#fr_19) "But if the first heir of
+<span id="fn_19"></span>[l:1](ptn05.htm#fr_19.md) "But if the first heir of
 my invention prove deformed, I shall be sorry it had so noble a
 godfather, and never after ear so barren a land, for fear it yield me
 still so bad a harvest."—SHAKESPEARE, *Dedication to Venus and Adonis*.
 
-<span id="fn_20"></span>[liii:1](ptn05.htm#fr_20) As a specimen of their
+<span id="fn_20"></span>[liii:1](ptn05.htm#fr_20.md) As a specimen of their
 thoughtful turn of mind, even in the Vedas, at a time before the
 monstrous avatars of the Hindoo Pantheon were imagined, and when their
 system of philosophy, properly so called, had no existence, the
@@ -473,4 +473,4 @@ of the Indian mind in its earliest stage.
 
 ------------------------------------------------------------------------
 
-[Next: Diffusion](ptn06)
+[Next: Diffusion](ptn06.md)

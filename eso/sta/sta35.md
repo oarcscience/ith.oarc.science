@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta34)  [Next](sta36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta34)  [Next](sta36.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,13 +137,13 @@ lines. Out of it are formed all figures and bodies
 <span id="img_14500"></span>
 
 [![TABLE I, Figures 1-11.](tn/14500.jpg)  
-Click to enlarge](img/14500.jpg)  
+Click to enlarge](img/14500.jpg.md)  
 TABLE I, Figures 1-11.  
 
 <span id="img_14501"></span>
 
 [![ TABLE II, Figures 12-51.](tn/14501.jpg)  
-Click to enlarge](img/14501.jpg)  
+Click to enlarge](img/14501.jpg.md)  
 TABLE II, Figures 12-51.  
 
  
@@ -257,25 +257,25 @@ triangle,
 <span id="img_14600"></span>
 
 [![Table III, Figure 52](tn/14600.jpg)  
-Click to enlarge](img/14600.jpg)  
+Click to enlarge](img/14600.jpg.md)  
 Table III, Figure 52  
 
 <span id="img_14601"></span>
 
 [![Table IV, Figure 53](tn/14601.jpg)  
-Click to enlarge](img/14601.jpg)  
+Click to enlarge](img/14601.jpg.md)  
 Table IV, Figure 53  
 
 <span id="img_14602"></span>
 
 [![Table V, Figure 54](tn/14602.jpg)  
-Click to enlarge](img/14602.jpg)  
+Click to enlarge](img/14602.jpg.md)  
 Table V, Figure 54  
 
 <span id="img_14603"></span>
 
 [![Table VII, Figures 1-5, 7 and 8](tn/14603.jpg)  
-Click to enlarge](img/14603.jpg)  
+Click to enlarge](img/14603.jpg.md)  
 Table VII, Figures 1-5, 7 and 8  
 
  
@@ -396,25 +396,25 @@ the name of the woman riding on the beast of blasphemy.
 <span id="img_14700"></span>
 
 [![Table VIII, Figure 6.](tn/14700.jpg)  
-Click to enlarge](img/14700.jpg)  
+Click to enlarge](img/14700.jpg.md)  
 Table VIII, Figure 6.  
 
 <span id="img_14701"></span>
 
 [![Table X, Figures 10-15.](tn/14701.jpg)  
-Click to enlarge](img/14701.jpg)  
+Click to enlarge](img/14701.jpg.md)  
 Table X, Figures 10-15.  
 
 <span id="img_14702"></span>
 
 [![Table IX, Figure 9.](tn/14702.jpg)  
-Click to enlarge](img/14702.jpg)  
+Click to enlarge](img/14702.jpg.md)  
 Table IX, Figure 9.  
 
 <span id="img_14703"></span>
 
 [![Table XI, Figures 1-11](tn/14703.jpg)  
-Click to enlarge](img/14703.jpg)  
+Click to enlarge](img/14703.jpg.md)  
 Table XI, Figures 1-11  
 
  
@@ -518,29 +518,29 @@ regeneration and the consummation of the Great Work.
 <span id="img_14800"></span>
 
 [![Table XII, Figures 12-19](tn/14800.jpg)  
-Click to enlarge](img/14800.jpg)  
+Click to enlarge](img/14800.jpg.md)  
 Table XII, Figures 12-19  
 
 <span id="img_14801"></span>
 
 [![Table XIII, Figures 1-4](tn/14801.jpg)  
-Click to enlarge](img/14801.jpg)  
+Click to enlarge](img/14801.jpg.md)  
 Table XIII, Figures 1-4  
 
 <span id="img_14802"></span>
 
 [![Table XIV, Figures 5, 7, and 8](tn/14802.jpg)  
-Click to enlarge](img/14802.jpg)  
+Click to enlarge](img/14802.jpg.md)  
 Table XIV, Figures 5, 7, and 8  
 
 <span id="img_14803"></span>
 
 [![Table XV, Figures 6, 9, and 10](tn/14803.jpg)  
-Click to enlarge](img/14803.jpg)  
+Click to enlarge](img/14803.jpg.md)  
 Table XV, Figures 6, 9, and 10  
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Alchemy and Its Exponents](sta36)
+[Next: Alchemy and Its Exponents](sta36.md)

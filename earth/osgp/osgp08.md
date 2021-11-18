@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](osgp07)  [Next](osgp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](osgp07)  [Next](osgp09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Origin and Significance of the Great Pyramid*, by C. Staniland
 Wake, \[1882\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ some learned Brahmins, who said that the
 <span class="contnote">\[paragraph continues\]</span> Great Pyramid was
 a temple, and that if it had an underground communication with the Nile
 it must have been intended for the worship of Pad Madévi. <span
-id="fr_100"></span>[\*](#fn_100) An early English writer, Mr. Shaw,
+id="fr_100"></span>[\*](#fn_100.md) An early English writer, Mr. Shaw,
 would seem to have been much of the same opinion, as he thought the
 coffer was intended for the celebration of the mystical worship of
 Osiris, and he supposed it to have contained images, sacred vestments
@@ -47,8 +47,8 @@ that opinion will be near the truth. The so-called King's Chamber, of
 which an enthusiastic pyramidist says, "The polished walls, fine
 materials, grand proportions, and exalted place eloquently tell of
 glories yet to come," if not "the chamber of perfections" <span
-id="fr_101"></span>[†](#fn_101) of Cheops's tomb, was probably the place
-to which the [initiate](errata.htm#7) was admitted after he had passed
+id="fr_101"></span>[†](#fn_101.md) of Cheops's tomb, was probably the place
+to which the [initiate](errata.htm#7.md) was admitted after he had passed
 through the narrow upward passage and the grand gallery, with its lowly
 termination, which gradually prepared him for the final stage of the
 sacred mysteries.
@@ -57,13 +57,13 @@ sacred mysteries.
 
 ### Footnotes
 
-<span id="fn_100"></span>[93:\*](osgp08.htm#fr_100) Referred to by Col.
+<span id="fn_100"></span>[93:\*](osgp08.htm#fr_100.md) Referred to by Col.
 Vyse, "Operations," etc., Vol. ii. p. 313.
 
-<span id="fn_101"></span>[93:†](osgp08.htm#fr_101) This was one of the
+<span id="fn_101"></span>[93:†](osgp08.htm#fr_101.md) This was one of the
 names of the principal chamber of a tomb. See "Records of the Past,"
 Vol. xii. Egyptian Texts, p. 106.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix I](osgp09)
+[Next: Appendix I](osgp09.md)

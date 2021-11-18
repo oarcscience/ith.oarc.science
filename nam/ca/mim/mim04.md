@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim03)  [Next](mim05) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim03)  [Next](mim05.md) 
 
 ------------------------------------------------------------------------
 
@@ -266,4 +266,4 @@ fell.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Yayali, the Giant](mim05)
+[Next: 3. Yayali, the Giant](mim05.md)

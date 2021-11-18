@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui11)  [Next](bui13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui11)  [Next](bui13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ handicraftsmen, but an association of men of all orders and every
 vocation, as also of almost every creed, who met together on the broad
 basis of humanity, and recognized no standard of human worth other than
 morality, kindliness, and love of truth. They retained the symbolism of
-the old Operative Masonry, <span id="fr_132"></span>[1](#fn_132) its
+the old Operative Masonry, <span id="fr_132"></span>[1](#fn_132.md) its
 language, its legends, its ritual, and its oral tradition. No longer did
 they build churches, but the spiritual
 
@@ -131,8 +131,8 @@ Lodge at York, that
 
 ancient Mecca of Masonry, had called itself a Grand Lodge as early as
 1725. The Grand Lodge of Ireland was created in 1729, those of
-Scotland <span id="fr_133"></span>[1](#fn_133) and France in 1736; a
-Lodge at Hamburg in 1737, <span id="fr_134"></span>[2](#fn_134) though
+Scotland <span id="fr_133"></span>[1](#fn_133.md) and France in 1736; a
+Lodge at Hamburg in 1737, <span id="fr_134"></span>[2](#fn_134.md) though
 it was not patented until 1740; the Unity Lodge at Frankfort-on-the-Main
 in 1742, another at Vienna the same year; the Grand Lodge of the Three
 World-spheres at Berlin in 1744; and so on, until the order made its
@@ -149,12 +149,12 @@ John Moore, a native of England, who before the close of the century
 removed to Philadelphia, where, in 1703, he was Collector of the Port.
 In a letter written by him in 1715, he mentions having "spent a few
 evenings in festivity with my Masonic brethren." <span
-id="fr_135"></span>[1](#fn_135) This is the first vestige of Masonry in
+id="fr_135"></span>[1](#fn_135.md) This is the first vestige of Masonry in
 America, unless we accept as authentic a curious document in the early
 history of Rhode Island, as follows: "This ye \[day and month
 obliterated\] 1656, Wee mett att y House off Mordicai Campanell and
 after synagog gave Abram Moses the degrees of Maconrie." <span
-id="fr_136"></span>[2](#fn_136) On June 5, 1730, the first authority for
+id="fr_136"></span>[2](#fn_136.md) On June 5, 1730, the first authority for
 the assembling of Free-masons in America was issued by the Duke of
 Norfolk, to Daniel Coxe, of New Jersey, appointing him Provincial Grand
 Master of New York, New Jersey, and Pennsylvania; and three years later
@@ -170,7 +170,7 @@ How soon Coxe acted on the authority given him is not certain, but the
 *Pennsylvania Gazette*, published by Benjamin Franklin, contains many
 references to Masonic affairs as early as July, 1730. Just when Franklin
 himself became interested in Masonry is not of record—he was initiated
-in 1730-31 <span id="fr_137"></span>[1](#fn_137)—but he was a leader, at
+in 1730-31 <span id="fr_137"></span>[1](#fn_137.md)—but he was a leader, at
 that day, of everything that would advance his adopted city; and the
 "Junto," formed in 1725, often inaccurately called the Leathern-Apron
 Club, owed its origin to him. In a Masonic item in the *Gazette* of
@@ -222,7 +222,7 @@ of Rome.</span>
 </div>
 
 No sooner had these noble words been printed, <span
-id="fr_138"></span>[1](#fn_138) than there came to light a secret
+id="fr_138"></span>[1](#fn_138.md) than there came to light a secret
 society calling itself the "truly Ancient Noble Order of the Gormogons,"
 alleged to have been instituted by Chin-Quaw Ky-Po, the first Emperor of
 China, many thousand years before Adam. Notice of a meeting of the order
@@ -251,7 +251,7 @@ Gormogons, there appeared a book called the *Grand Mystery of Freemasons
 Discovered*, and the cat was out of the bag. Everything was plain to the
 Masons, and if it had not been clear, the way in which the writer
 emphasized his hatred of the Jesuits would have told it all. It was a
-Jesuit <span id="fr_139"></span>[1](#fn_139) plot hatched
+Jesuit <span id="fr_139"></span>[1](#fn_139.md) plot hatched
 
 <span id="page_211">p. 211</span>
 
@@ -262,7 +262,7 @@ evident by the fact that the order ceased to exist in 1738, the year in
 which Clement XII published his Bull against the Masons. Thereupon the
 "ancient order of Gormogons" swallowed itself, and so disappeared—not,
 however, without one last, futile effort to achieve its ends. <span
-id="fr_140"></span>[1](#fn_140) Naturally this episode stirred the
+id="fr_140"></span>[1](#fn_140.md) Naturally this episode stirred the
 Masons deeply. It was denounced in burning words on the floor of the
 Grand Lodge, which took new caution to guard its rites from treachery
 and vandalism, in which respects it had not exercised due care,
@@ -275,7 +275,7 @@ secrecy; some think so still, not knowing that its *real* power lies in
 the sanctity of its truth, the simplicity of its faith, the sweetness of
 its spirit, and its service to mankind, and that if all its rites were
 made public today it would still hold the hearts of men. <span
-id="fr_141"></span>[1](#fn_141) Nevertheless, of alleged exposures there
+id="fr_141"></span>[1](#fn_141.md) Nevertheless, of alleged exposures there
 were many between 1724 and 1730, both anonymous and signed, and they
 made much ado, especially among men who were not Masons. It will be
 enough to name the most famous, as well as the most elaborate, of them
@@ -306,7 +306,7 @@ of Grand Lodge of *all* England, while another which commenced in the
 middle of the century assumed the title of "The Ancients," and dubbed
 the older and parent Grand Lodge "The Moderns." Besides, there are
 traces of an unrecorded Grand body calling itself "The Supreme Grand
-Lodge," <span id="fr_142"></span>[1](#fn_142) as if each were trying to
+Lodge," <span id="fr_142"></span>[1](#fn_142.md) as if each were trying to
 make up in name what was lacking in numbers. Strict search and due
 inquiry into the causes of these divisions would seem to show the
 following results:
@@ -316,7 +316,7 @@ following results:
 First, there was a fear, not unjustified by facts, that the ancient
 democracy of the order had been infringed upon by certain acts of the
 Grand Lodge of 1717—as, for example, giving to the Grand Master power to
-appoint the Wardens. <span id="fr_143"></span>[1](#fn_143) Second, there
+appoint the Wardens. <span id="fr_143"></span>[1](#fn_143.md) Second, there
 was a tendency, due to the influence of some clergymen active in the
 order, to give a distinctively Christian tinge to Masonry, first in
 their interpretations of its symbols, and later to the ritual itself.
@@ -357,19 +357,19 @@ ancient and orthodox, and even to this day, in England and over
 <span id="page_216">p. 216</span>
 
 the seas, a certain mellow, magic charm clings to the city which was for
-so long a meeting place of Masons. <span id="fr_144"></span>[1](#fn_144)
+so long a meeting place of Masons. <span id="fr_144"></span>[1](#fn_144.md)
 
 Far more formidable was the schism of 1753, which had its origin, as is
 now thought, in a group of Irish Masons in London who were not
 recognized by the premier Grand Lodge. <span
-id="fr_145"></span>[2](#fn_145) Whereupon they denounced the Grand
+id="fr_145"></span>[2](#fn_145.md) Whereupon they denounced the Grand
 Lodge, averring that it had adopted "new plans" and departed from the
 old landmarks, reverted, as they alleged, to the old forms, and set
 themselves up as *Ancient* Masons—bestowing upon their rivals the odious
 name of *Moderns*. Later the two were further distinguished from each
 other by the names of their respective Grand Masters, one called Prince
 of Wales' Masons, the other the Atholl Masons. <span
-id="fr_146"></span>[3](#fn_146) The great figure in the Atholl Grand
+id="fr_146"></span>[3](#fn_146.md) The great figure in the Atholl Grand
 body was Lawrence Dermott, to whose keen pen and indefatigable industry
 as its secretary for more than thirty years was due, in large measure,
 its success. In 1756 he published its first book of laws, entitled
@@ -391,7 +391,7 @@ of the Atholl Grand Lodge, the Grand Lodges of Scotland and Ireland
 being represented at his installation in London.
 
 Still another schism, not serious but significant, came in 1778, led by
-William Preston, <span id="fr_147"></span>[1](#fn_147) who afterwards
+William Preston, <span id="fr_147"></span>[1](#fn_147.md) who afterwards
 became a shining light in the order. On St. John's Day, December 27,
 1777, the Antiquity
 
@@ -427,12 +427,12 @@ These divisions, while they were in some ways unhappy, really made for
 the good of the order in the sequel—the activity of contending Grand
 Lodges, often keen, and at times bitter, promoting the spread of its
 principles to which all were alike loyal, and to the enrichment of its
-Ritual <span id="fr_148"></span>[1](#fn_148) to which each contributed.
+Ritual <span id="fr_148"></span>[1](#fn_148.md) to which each contributed.
 Dermott, an able executive and audacious antagonist, had left no stone
 unturned to advance the interests of Atholl Masonry, inducing its Grand
 Lodge to grant warrants to army Lodges, which bore fruit in making
 Masons in every part of the world where the English army went. <span
-id="fr_149"></span>[2](#fn_149) Howbeit,
+id="fr_149"></span>[2](#fn_149.md) Howbeit,
 
 <span id="page_220">p. 220</span>
 
@@ -445,7 +445,7 @@ cleared, meanwhile, by the demise of the old York Grand Lodge and the
 the "propriety and practicability of union." Fraternal letters were
 exchanged, and at last a joint committee met, canvassed all differences,
 and found a way to heal the schism. <span
-id="fr_150"></span>[1](#fn_150)
+id="fr_150"></span>[1](#fn_150.md)
 
 <span id="page_221">p. 221</span>
 
@@ -459,8 +459,8 @@ fraternal, each side willing to sacrifice prejudice in behalf of
 principles held by all in common, and all equally anxious to preserve
 the ancient landmarks of the Craft—a most significant fact being that
 the Atholl Masons had insisted that Masonry erase such distinctively
-[Christian](errata.htm#9) color as had crept into it, and return to its
-first platform. <span id="fr_151"></span>[1](#fn_151) Once united, free
+[Christian](errata.htm#9.md) color as had crept into it, and return to its
+first platform. <span id="fr_151"></span>[1](#fn_151.md) Once united, free
 of feud, cleansed of
 
 <span id="page_222">p. 222</span>
@@ -495,7 +495,7 @@ which never stop, never tarry, never tire, and of which our social order
 is the outward and visible sign, then might the real story of Masonry in
 America be told.
 
-Instead of a dry chronicle, <span id="fr_152"></span>[1](#fn_152) let us
+Instead of a dry chronicle, <span id="fr_152"></span>[1](#fn_152.md) let us
 make effort to capture and portray the spirit of Masonry in American
 history, if so that all may see how this great order actually presided
 over the birth of the republic, with whose growth it has had so much to
@@ -518,7 +518,7 @@ was the leading spirit, and in which, says Elliott, "the plans of the
 Sons of Liberty were matured." As Henry Purkett used to say, he was
 present at the famous Tea Party as a spectator, and in disobedience to
 the order of the Master of the Lodge, who was actively present. <span
-id="fr_153"></span>[1](#fn_153)
+id="fr_153"></span>[1](#fn_153.md)
 
 As in Massachusetts, so throughout the Colonies—the Masons were
 everywhere active in behalf of a nation "conceived in liberty and
@@ -534,16 +534,16 @@ Nelson; and no doubt others, if we had the Masonic records destroyed
 during the war. Indeed, it has been said that, with four men out of the
 room, the assembly could have been opened in form as a Masonic Lodge, on
 the Third Degree. Not only Washington, <span
-id="fr_154"></span>[1](#fn_154) but nearly all of his generals, were
+id="fr_154"></span>[1](#fn_154.md) but nearly all of his generals, were
 Masons; such at least as Greene, Lee, Marion, Sullivan, Rufus and Israel
 Putnam, Edwards, Jackson, Gist, Baron Steuben, Baron De Kalb, and the
 Marquis de Lafayette who was made a Mason in one of the many military
 Lodges held in the Continental Army. <span
-id="fr_155"></span>[2](#fn_155) If the history of those old camp-lodges
+id="fr_155"></span>[2](#fn_155.md) If the history of those old camp-lodges
 could be written, what a story it would tell. Not only did they initiate
 such men as Alexander Hamilton and John Marshall, the immortal Chief
 Justice, but they made the spirit of Masonry felt in "times that try
-men's souls" <span id="fr_156"></span>[3](#fn_156)—a spirit passing
+men's souls" <span id="fr_156"></span>[3](#fn_156.md)—a spirit passing
 through picket-lines, eluding sentinels, and softening the horrors of
 war.
 
@@ -573,7 +573,7 @@ annals
 <span id="page_227">p. 227</span>
 
 of the Republic. Yet so it came to pass between 1826 and 1845, in
-connection with the Morgan <span id="fr_157"></span>[1](#fn_157) affair,
+connection with the Morgan <span id="fr_157"></span>[1](#fn_157.md) affair,
 of which so much has been written, and so little truth told. Alas, it
 was an evil hour when, as Galsworthy would say, "men just feel something
 big and religious, and go blind to justice, fact, and reason." Although
@@ -584,7 +584,7 @@ detect and punish those involved, the fanaticism
 <span id="page_228">p. 228</span>
 
 would not be stayed: the mob-mood ruled. An Anti-Masonic political
-party <span id="fr_158"></span>[1](#fn_158) was formed, fed on frenzy,
+party <span id="fr_158"></span>[1](#fn_158.md) was formed, fed on frenzy,
 and the land was stirred from end to end. Even such a man as John Quincy
 Adams, of great credulity and strong prejudice, was drawn into the fray,
 and in a series of letters flayed Masonry as an enemy of society and a
@@ -606,7 +606,7 @@ dividing a nation one in arts and arms and historic memories,
 <span id="page_229">p. 229</span>
 
 and leaving an entail of blood and fire and tears. Let it be forever
-[remembered](errata.htm#10) that, while churches were severed and states
+[remembered](errata.htm#10.md) that, while churches were severed and states
 were seceding, *the Masonic order remained unbroken* in that wild and
 fateful hour. An effort was made to involve Masonry in the strife, but
 the wise counsel of its leaders, North and South, prevented the mixing
@@ -618,7 +618,7 @@ among the sick, the wounded, and those in prison; and many a man in gray
 planted a Sprig of Acacia on the grave of a man who wore the blue. Some
 day the writer hopes to tell that story, or a part of it, and then men
 will under-stand what Masonry is, what it means, and what it can do to
-heal the hurts of humanity. <span id="fr_159"></span>[1](#fn_159)
+heal the hurts of humanity. <span id="fr_159"></span>[1](#fn_159.md)
 
 <span id="page_230">p. 230</span>
 
@@ -658,7 +658,7 @@ Chicago to Calcutta. In all civilized lands, and among folk of every
 creed worthy of the name, Masonry is found—and everywhere it upholds all
 the redeeming ideals of humanity, making all good things better by its
 presence, like a stream underflowing a meadow. <span
-id="fr_160"></span>[1](#fn_160) Also, wherever Masonry flourishes and is
+id="fr_160"></span>[1](#fn_160.md) Also, wherever Masonry flourishes and is
 allowed to build freely after its divine design, liberty, justice,
 education, and true religion flourish; and where it is hindered, they
 suffer. Indeed, he who would reckon the spiritual possessions of the
@@ -681,7 +681,7 @@ has a Masonic motif; masters of drama like Forrest and Edwin Booth;
 editors such as Bowles, Prentice, Childs, Grady; ministers of many
 communions, from Bishop Potter to Robert Collyer; statesmen,
 philanthropists, educators, jurists, men of science—Masons many, <span
-id="fr_161"></span>[1](#fn_161) whose names shine like stars in the
+id="fr_161"></span>[1](#fn_161.md) whose names shine like stars in the
 great world's crown of intellectual
 
 <span id="page_233">p. 233</span>
@@ -733,7 +733,7 @@ Shall brothers be, for a' that.</span>
 
 ### Footnotes
 
-<span id="fn_132"></span>[201:1](bui12.htm#fr_132) Operative Masonry, it
+<span id="fn_132"></span>[201:1](bui12.htm#fr_132.md) Operative Masonry, it
 should be remembered, was not entirely dead, nor did it all at once
 disappear. Indeed, it still exists in some form, and an interesting
 account of its forms, degrees, symbols, usages, and traditions may be
@@ -745,11 +745,11 @@ their history, customs, and emblems—especially the Swastika. Speculative
 Masons are now said to be joining these Operative Lodges, seeking more
 light on what are called the Lost Symbols of Masonry.
 
-<span id="fn_133"></span>[205:1](bui12.htm#fr_133) The Grand Lodges of
+<span id="fn_133"></span>[205:1](bui12.htm#fr_133.md) The Grand Lodges of
 Ireland and Scotland, it may be added, were self-constituted, without
 assistance or intervention from England in any form.
 
-<span id="fn_134"></span>[205:2](bui12.htm#fr_134) A deputation of the
+<span id="fn_134"></span>[205:2](bui12.htm#fr_134.md) A deputation of the
 Hamburg Lodge initiated Frederick—afterwards Frederick the Great of
 Prussia—into the order of Masons at Brunswick, August 14, 1738
 (*Frederick and his Times*, by Campbell, *History of Frederick*, by
@@ -767,17 +767,17 @@ civil and religious liberty. Whenever that story is told, as it surely
 will be, men everywhere will pay homage to the Ancient Free and Accepted
 Masons as friends of mankind.
 
-<span id="fn_135"></span>[206:1](bui12.htm#fr_135) This letter was the
+<span id="fn_135"></span>[206:1](bui12.htm#fr_135.md) This letter was the
 property of Horace W. Smith, Philadelphia. John Moore was the father of
 William Moore, whose daughter became the wife of Provost Smith, who was
 a Mason in 1775, and afterward Grand Secretary of the Grand Lodge of
 Pennsylvania, and whose son was Grand Master of Masons in Pennsylvania
 in 1796 and 1797 (*History of Freemasonry*, by Hughan and Stillson).
 
-<span id="fn_136"></span>[206:2](bui12.htm#fr_136) *Ibid*, chapter on
+<span id="fn_136"></span>[206:2](bui12.htm#fr_136.md) *Ibid*, chapter on
 "Early American Masonic History."
 
-<span id="fn_137"></span>[207:1](bui12.htm#fr_137) *Benjamin Franklin as
+<span id="fn_137"></span>[207:1](bui12.htm#fr_137.md) *Benjamin Franklin as
 a Free Mason*, by J. F. Sachse. Oddly enough, there is no mention of
 Masonry by Franklin in his *Autobiography*, or in any of his letters,
 with but two exceptions, so far as known; which is the more remarkable
@@ -786,7 +786,7 @@ his life, where he was actively and intimately associated with the
 order, even advancing to the higher degrees. Never for a day did he
 abate by one jot his interest in the order, or his love for it.
 
-<span id="fn_138"></span>[209:1](bui12.htm#fr_138) This injunction was
+<span id="fn_138"></span>[209:1](bui12.htm#fr_138.md) This injunction was
 made doubly strong in the edition of the *Book of Constitutions*, in
 1738. For example: "no quarrels about nations, families, religion or
 politics must by any means or under any color or pretense whatever be
@@ -794,7 +794,7 @@ brought within the door of the Lodge . . . Masons being of all nations
 upon the square, level and plumb; and like our predecessors in all ages,
 we are resolved against political disputes," etc.
 
-<span id="fn_139"></span>[210:1](bui12.htm#fr_139) Masons have sometimes
+<span id="fn_139"></span>[210:1](bui12.htm#fr_139.md) Masons have sometimes
 been absurdly called "Protestant Jesuits," but the two orders are
 exactly opposite in spirit, principle, purpose, and method. All that
 they have in common is that they are both secret societies, which makes
@@ -811,24 +811,24 @@ hold in respect all honest convictions. Jesuits seek to break down
 individual independence, Freemasons to build it up" (*Mysteria*, by Otto
 Henne Am Rhyn).
 
-<span id="fn_140"></span>[211:1](bui12.htm#fr_140) For a detailed
+<span id="fn_140"></span>[211:1](bui12.htm#fr_140.md) For a detailed
 account of the Duke of Wharton and the true history of the Gormogons,
 see an essay by R. F. Gould, in his "Masonic Celebrities" series (*A. Q.
 C.*, viii, 144), and more recently, *The Life and Writings of Philip,
 Duke of Wharton*, by Lewis Melville.
 
-<span id="fn_141"></span>[212:1](bui12.htm#fr_141) Findel has a nobly
+<span id="fn_141"></span>[212:1](bui12.htm#fr_141.md) Findel has a nobly
 eloquent passage on this point, and it tells the everlasting truth
 (History of Masonry, p. 378). His whole history, indeed, is exceedingly
 worth reading, the more so because it was one of the first books of the
 right kind, and it stimulated research.
 
-<span id="fn_142"></span>[213:1](bui12.htm#fr_142) A paper entitled "An
+<span id="fn_142"></span>[213:1](bui12.htm#fr_142.md) A paper entitled "An
 Unrecorded Grand Lodge," by Sadler (*A. Q. C.*, vol. xviii, 69-90),
 tells practically all that is known of this movement, which merged with
 the Grand Lodge of London in 1776.
 
-<span id="fn_143"></span>[214:1](bui12.htm#fr_143) Nor was that all. In
+<span id="fn_143"></span>[214:1](bui12.htm#fr_143.md) Nor was that all. In
 1735 it was resolved in the Grand Lodge "that in the future all Grand
 Officers (except Grand Master) shall be selected out of that
 body"—meaning the past Grand Stewards. This act was amazing. Already the
@@ -839,20 +839,20 @@ Stewards presented a memorial asking that they "might form themselves
 into a special lodge," with special jewels, etc. Naturally this bred
 discontent and apprehension, and justly so.
 
-<span id="fn_144"></span>[216:1](bui12.htm#fr_144) Often we speak of
+<span id="fn_144"></span>[216:1](bui12.htm#fr_144.md) Often we speak of
 "the York Rite," as though it were the oldest and truest form of
 Masonry, but, while it serves to distinguish one branch of Masonry from
 another, it is not accurate; for, strictly speaking, there is no such
 thing as a York Rite. The name is more a tribute of reverence than a
 description of fact.
 
-<span id="fn_145"></span>[216:2](bui12.htm#fr_145) *Masonic Facts and
+<span id="fn_145"></span>[216:2](bui12.htm#fr_145.md) *Masonic Facts and
 Fictions*, by Henry Sadler.
 
-<span id="fn_146"></span>[216:3](bui12.htm#fr_146) *Atholl Lodges*, by
+<span id="fn_146"></span>[216:3](bui12.htm#fr_146.md) *Atholl Lodges*, by
 R. F. Gould.
 
-<span id="fn_147"></span>[217:1](bui12.htm#fr_147) William Preston was
+<span id="fn_147"></span>[217:1](bui12.htm#fr_147.md) William Preston was
 born in Edinburgh in 1742, and came as a journeyman printer to London in
 1760, where he made himself conversant with the history, laws, and rites
 of the Craft, being much in demand as a lecturer. He was a good speaker,
@@ -864,7 +864,7 @@ Constitutions*, a *History of Masonry*, and, most famous of all,
 *Illustrations of Masonry*, which passed through a score of editions.
 Besides, he had much to do with the development of the Ritual.
 
-<span id="fn_148"></span>[219:1](bui12.htm#fr_148) The history of the
+<span id="fn_148"></span>[219:1](bui12.htm#fr_148.md) The history of the
 Ritual is most interesting, and should be written in more detail
 (*History of Masonry*, by Steinbrenner, chap. vii, "The Ritual"). An
 article giving a brief story of it appeared in the *Masonic Monthly*, of
@@ -883,16 +883,16 @@ on "The Lectures of Freemasonry," *American Quarterly Review of
 Freemasonry*, vol. ii, p. 297.) What a pity that this *Review* died of
 too much excellence!
 
-<span id="fn_149"></span>[219:2](bui12.htm#fr_149) *Military Lodges*, by
+<span id="fn_149"></span>[219:2](bui12.htm#fr_149.md) *Military Lodges*, by
 Gould; also Kipling's poem, *The Mother Lodge*.
 
-<span id="fn_150"></span>[220:1](bui12.htm#fr_150) Among the articles of
+<span id="fn_150"></span>[220:1](bui12.htm#fr_150.md) Among the articles of
 union, it was agreed that Freemasonry should consist of the three
 symbolic degrees, "*including the Holy Royal Arch*." The present study
 does not contemplate a detailed study of Capitular Masonry, which has
 its own history and historians (*Origin of the English Rite*, Hughan),
 except to say that it seems to have begun about 1738-40, the
-[consensus](errata.htm#8) of opinion differing as to whether it began in
+[consensus](errata.htm#8.md) of opinion differing as to whether it began in
 England or on the Continent ("Royal Arch Masonry," by C. P. Noar,
 *Manchester Lodge of Research*, vol. iii, 1911-12). Lawrence Dermott,
 always alert, had it adopted by the Atholl Grand Lodge about thirty
@@ -904,12 +904,12 @@ it, as some imagine, having received the degrees before he came to
 London, perhaps in an unsystemized form. Duckerley was accused of
 shifting the original Grand Masonic word from the Third Degree to the
 Royal Arch, and of substituting another in its stead. Enough to say that
-Royal Arch Masonry is [p. 221](#page_221) authentic Masonry, being a
+Royal Arch Masonry is [p. 221](#page_221.md) authentic Masonry, being a
 further elaboration in drama, following the Third Degree, of the spirit
 and motif of old Craft Masonry (*History of Freemasonry and Concordant
 Orders*, by Hughan and Stillson).
 
-<span id="fn_151"></span>[221:1](bui12.htm#fr_151) It is interesting to
+<span id="fn_151"></span>[221:1](bui12.htm#fr_151.md) It is interesting to
 note that the writer of the article on "Masonry" in the *Catholic
 Encyclopedia*—an article admirable in many ways, and for the most part
 fair—makes much of this point, and rightly so, albeit his interpretation
@@ -925,7 +925,7 @@ is open to men of all faiths, Catholic and Protestant, Hebrew and Hindu,
 who confess faith in God; and so it will always remain if it is true to
 its principles and history.
 
-<span id="fn_152"></span>[223:1](bui12.htm#fr_152) As for the chronicle,
+<span id="fn_152"></span>[223:1](bui12.htm#fr_152.md) As for the chronicle,
 the one indispensable book to the student of American Masonry is the
 *History of Freemasonry and Concordant Orders*, by W. J. Hughan and H.
 L. Stillson, aided by one of the ablest board of contributors ever
@@ -940,20 +940,20 @@ H. Drummond, and "The American Addenda" to Gould's massive and
 magnificent *History of Masonry*, vol. iv. What the present pages seek
 is the spirit behind this forest of facts.
 
-<span id="fn_153"></span>[224:1](bui12.htm#fr_153) For the full story,
+<span id="fn_153"></span>[224:1](bui12.htm#fr_153.md) For the full story,
 see "Reminiscences of the Green Dragon Tavern," in *Centennial Memorial
 of St. Andrew's Lodge*, 1870.
 
-<span id="fn_154"></span>[225:1](bui12.htm#fr_154) *Washington, the Man
+<span id="fn_154"></span>[225:1](bui12.htm#fr_154.md) *Washington, the Man
 and the Mason*, by C. H. Callahan. Jackson, Polk, Fillmore, Buchanan,
 Johnson, Garfield, McKinley, Roosevelt, Taft, all were Masons. A long
 list may be found in *Cyclopedia of Fraternities*, by Stevens, article
 on "Freemasonry: Distinguished Americans."
 
-<span id="fn_155"></span>[225:2](bui12.htm#fr_155) *Washington and his
+<span id="fn_155"></span>[225:2](bui12.htm#fr_155.md) *Washington and his
 Masonic Compeers*, by Randolph Hayden.
 
-<span id="fn_156"></span>[225:3](bui12.htm#fr_156) Thomas Paine, whose
+<span id="fn_156"></span>[225:3](bui12.htm#fr_156.md) Thomas Paine, whose
 words these are, though not a Mason, has left us an essay on *The Origin
 of Freemasonry*. Few men have ever been more unjustly and cruelly
 maligned than this great patriot, who was the first to utter the name
@@ -961,7 +961,7 @@ maligned than this great patriot, who was the first to utter the name
 being a sceptic, believed in "the religion in which all men agree"—that
 is, in God, Duty, and the immortality of the soul.
 
-<span id="fn_157"></span>[227:1](bui12.htm#fr_157) William Morgan was a
+<span id="fn_157"></span>[227:1](bui12.htm#fr_157.md) William Morgan was a
 dissolute, nondescript printer in Batavia, New York, who, having failed
 in everything else, thought to make money by betraying the secrets of an
 order which his presence polluted. Foolishly misled, a few Masons had
@@ -984,11 +984,11 @@ up every vile and slimy thing in human nature for sake of office. (See a
 splendid review of the whole matter in *History of Masonry*, by Hughan
 and Stillson, also by Could in vol. iv of his *History*.)
 
-<span id="fn_158"></span>[228:1](bui12.htm#fr_158) *Cyclopedia of
+<span id="fn_158"></span>[228:1](bui12.htm#fr_158.md) *Cyclopedia of
 Fraternities*, by Stevens, article, "Anti-Masonry," gives detailed
 account with many interesting facts.
 
-<span id="fn_159"></span>[229:1](bui12.htm#fr_159) Following the first
+<span id="fn_159"></span>[229:1](bui12.htm#fr_159.md) Following the first
 day of the battle of Gettysburg, there was a Lodge meeting in town, and
 "Yanks" and "Johnny Rebs" met and mingled as friends under the Square
 and Compass. Where else could they have done so? (*Tennessee Mason*).
@@ -1007,12 +1007,12 @@ have written this book. That young soldier was my father! Volumes of
 such facts might be gathered in proof of the gracious ministry of
 Masonry in those awful years.
 
-<span id="fn_160"></span>[231:1](bui12.htm#fr_160) *Cyclopedia of
+<span id="fn_160"></span>[231:1](bui12.htm#fr_160.md) *Cyclopedia of
 Fraternities*, by Stevens (last edition), article, "Free Masonry,"
 pictures the extent of the order, with maps and diagrams showing its
 world-wide influence.
 
-<span id="fn_161"></span>[232:1](bui12.htm#fr_161) Space does not permit
+<span id="fn_161"></span>[232:1](bui12.htm#fr_161.md) Space does not permit
 a survey of the literature of Masonry, still less of Masonry in
 literature. (Findel has two fine chapters on the literature of the
 order, but he wrote, in 1865, *History of Masonry*.) For traces of
@@ -1034,4 +1034,4 @@ great short stories of the world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. What is Masonry](bui13)
+[Next: Chapter I. What is Masonry](bui13.md)

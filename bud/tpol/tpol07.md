@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](tpol06)  [Next](tpol08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](tpol06)  [Next](tpol08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path of Light*, by L.D. Barnett, \[1909\], at Intangible Textual
 Heritage
 
@@ -127,6 +127,6 @@ physician's command?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Watchfulness](tpol08)
+[Next: Chapter V. Watchfulness](tpol08.md)
 
 </div>

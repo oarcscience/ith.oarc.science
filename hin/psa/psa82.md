@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa81)  [Next](psa83) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa81)  [Next](psa83.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ the end shall go to the celestial paradise.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXXII](psa83)
+[Next: Chapter LXXXII](psa83.md)

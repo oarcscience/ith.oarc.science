@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf30) [Next](bulf32) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf30) [Next](bulf32.md) 
 
 # CHAPTER XXXII.
 
@@ -352,4 +352,4 @@ Worldly Wisdom, he says:
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XXXIII. Aeneas In Italy- Camilla- Evander- Nisus And
-Euryalus- Mezentius- Turnus.](bulf32)
+Euryalus- Mezentius- Turnus.](bulf32.md)

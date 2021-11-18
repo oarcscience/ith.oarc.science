@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](dast02)  [Next](dast04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](dast02)  [Next](dast04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dakshinamurti Stotra*, translated by Alladi Mahadeva Sastri, \[1920\],
 at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ self-realisation—34–35. Substantial agreement among philosophers as to
 the essential nature of A’tman and the unreality of the universe—36.
 Conclusion.
 
-pp. [xix](dast04.htm#page_xix)–lxxv.
+pp. [xix](dast04.htm#page_xix.md)–lxxv.
 
 <span id="page_x">p. x</span>
 
@@ -51,7 +51,7 @@ questions—The Universe exists in the Self The Universe shines by the
 light of the Self-Realisation of Non-duality—A’tman as I’svara and
 Jiva—I’svara is the Self in all—I’svara's consciousness is one and
 self-luminous—I’svara's activity—I’svara and Jiva differentiated by
-Upadhi—All differentiation due to Maya. pp. [1](dast05.htm#page_1)–16
+Upadhi—All differentiation due to Maya. pp. [1](dast05.htm#page_1.md)–16
 
 <span class="smallcaps">Chapter</span> II
 
@@ -65,7 +65,7 @@ twenty-four Principles of the Theistic Sankhya—The twenty-four
 Principles of the Atheistic Sankhya—The Thirty Principles of the
 Pauranikas—The thirty-six Principles of S’aivagama—Vedic Doctrine of
 Maya—I’svara is not a mere efficient cause. pp.
-[17](dast06.htm#page_17)–52
+[17](dast06.htm#page_17.md)–52
 
 <span class="smallcaps">Chapter</span> III
 
@@ -81,7 +81,7 @@ I’svara—Their unity taught in the S’ruti "That thou art"—The S’ruti
 points to no sort of distinction between Jiva and I’svara—A’tman
 identified with the body, etc, by ignorance—A’tman's manifestation in
 the five Kosas—Jiva and I’svara one in essence—Realisation of A’tman's
-unity leads to Liberation. pp. [53](dast07.htm#page_53)–73
+unity leads to Liberation. pp. [53](dast07.htm#page_53.md)–73
 
 <span class="smallcaps">Chapter</span> IV
 
@@ -92,7 +92,7 @@ Existence and Light—External objects have no existence and light of
 their own—I’svara cognises and acts through Upadhi—The organ of
 cognition—Nadis, the vehicles of the sense-organs—Jagrat
 state—Svapna—Sushupti—A’tman is ever Sat-Chit-A’nanda—I’svara, the one
-Light and Existence—I’svara as the Ego. pp. [74](dast08.htm#page_74)–95
+Light and Existence—I’svara as the Ego. pp. [74](dast08.htm#page_74.md)–95
 
 <span class="smallcaps">Chapter</span> V
 
@@ -103,7 +103,7 @@ identified with Prana—A’tman identified with sense-organs—The body,
 etc., cannot be A’tman—Why the body is not A’tman—Why the sense-organs
 cannot be A’tman—Why Prana is not A’tman—Why Buddhi is not A’tman—Why
 the aggregate of the body, etc. is not A’tman—A’tman is
-all-pervading—The Illusion. pp. [96](dast09.htm#page_96)–113
+all-pervading—The Illusion. pp. [96](dast09.htm#page_96.md)–113
 
 <span id="page_xii">p. xii</span>
 
@@ -114,7 +114,7 @@ A’tman the Eternal Existence
 Sixth Stanza of the Hymn Buddhistic—Nihilism (Sunyavada)—Refutation of
 Nihilism—Refutation of the doctrine of the five
 *Skandhas*—*Pratyabhijna* is no illusion—A’tman's continuous existence,
-A’tman's true nature. pp. [114](dast10.htm#page_114)–130
+A’tman's true nature. pp. [114](dast10.htm#page_114.md)–130
 
 <span class="smallcaps">Chapter</span> VII
 
@@ -122,7 +122,7 @@ A’tman the Eternal Light
 
 Seventh Stanza of the Hymn—Authority of Pratyabhijna
 questioned—*Pratyabhijnana* explained as a proof of A’tman's
-eternality—Adhyasa or Illusion. pp. [131](dast11.htm#page_131)–148
+eternality—Adhyasa or Illusion. pp. [131](dast11.htm#page_131.md)–148
 
 <span class="smallcaps">Chapter</span> VIII
 
@@ -131,7 +131,7 @@ Maya
 Eighth Stanza of the Hymn—What is Bondage, Liberation and Maya?—All
 experience is a fiction—Meaning of "Mithya"—Truth taught through
 fiction—Maya nullified by knowledge—Maya defined—Moksha is the
-[eradication](errata.htm#1) of Maya. pp. [149](dast12.htm#page_149)–158
+[eradication](errata.htm#1) of Maya. pp. [149](dast12.htm#page_149.md)–158
 
 <span class="smallcaps">Chapter</span> IX
 
@@ -150,7 +150,7 @@ Pranayama, (5) Pratyahara, (6) Dharana, (7) Dhyana, (8) Samadhi—Yoga,
 necessary for steadiness of Manas and Prana—Lambika-Yoga—Signs of
 perfection in Yoga I’svara's manifestation in Yoga—Manifestation of
 Pranava in Yoga—The Grace of God and Guru necessary. pp.
-[159](dast13.htm#page_159)–179
+[159](dast13.htm#page_159.md)–179
 
 <span class="smallcaps">Chapter</span> X
 
@@ -158,7 +158,7 @@ Perfection
 
 Tenth Stanza of the Hymn—The Highest end—The Eight Siddhis—Glory of the
 Divine Contemplation—Love of God and Guru necessary for Wisdom. pp.
-[180](dast14.htm#page_180)–189
+[180](dast14.htm#page_180.md)–189
 
 II\. SURESVARCHARYA'S PRANAVA VARTIKA
 
@@ -166,12 +166,12 @@ Purpose of the tract—The Avyakrita—the Sutra or Hiranyagarbha. The three
 aspects of manifested Brahman—Visva and his unity with the Viraj—Taijasa
 and his unity with the Hiranyagarbha—Prajna and his unity with
 I’svara—The One Reality—Contemplation of A’tman by
-Pranava—Jivan-mukti—Conclusion. pp. [190](dast15.htm#page_190)–209
+Pranava—Jivan-mukti—Conclusion. pp. [190](dast15.htm#page_190.md)–209
 
 III\. DAKSHINAMURTI-UPANISHAD
 
-pp. [210](dast16.htm#page_210)
+pp. [210](dast16.htm#page_210.md)
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](dast04)
+[Next: Introduction](dast04.md)

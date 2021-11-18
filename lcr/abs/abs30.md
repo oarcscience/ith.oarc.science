@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs29)  [Next](abs31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs29)  [Next](abs31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -247,7 +247,7 @@ last been found to the problem of the Snow Man.
 
 What is the answer? It was expounded to representatives of the Western
 press by the well-known biologist Lawrence Stone <span
-id="fr_60"></span>[\*](#fn_57) who participated in Hillary's Himalayan
+id="fr_60"></span>[\*](#fn_57.md) who participated in Hillary's Himalayan
 Expedition. Stone said that the investigation had established that the
 scalp brought from the Khungdjung Monastery was a fox or goat's scalp
 and had never belonged to any "abominable Snow Man." Stone also spoke of
@@ -269,7 +269,7 @@ they were that no Snow Man had ever existed.
 
 The story might end at this point—were it not for the despatch from
 Katmandu sent in by the Special Correspondent of the Floerentine <span
-id="fr_61"></span>[\*](#fn_58) newspaper Nazione, Corrado Piccinelli and
+id="fr_61"></span>[\*](#fn_58.md) newspaper Nazione, Corrado Piccinelli and
 published in that paper the other day. In it he says that while Hillary
 was supposed to be looking for the Snow Man, he was actually spying on
 China. The Italian journalist makes fun of those who believe or pretend
@@ -295,10 +295,10 @@ the Himalayan peaks belongs to creatures even craftier than the fox.
 
 ### Footnotes
 
-<span id="fn_57"></span>[488:\*](abs30.htm#fr_60) Lawrence Swan.
+<span id="fn_57"></span>[488:\*](abs30.htm#fr_60.md) Lawrence Swan.
 
-<span id="fn_58"></span>[489:\*](abs30.htm#fr_61) i.e. Florentine.
+<span id="fn_58"></span>[489:\*](abs30.htm#fr_61.md) i.e. Florentine.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](abs31)
+[Next: Bibliography](abs31.md)

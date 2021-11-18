@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Americana](../../index) 
-[9/11](../index)  [Index](index)  [Previous](exec)  [Next](pref) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Americana](../../index.md) 
+[9/11](../index)  [Index](index)  [Previous](exec)  [Next](pref.md) 
 
 ------------------------------------------------------------------------
 
@@ -338,4 +338,4 @@ Daniel Marcus, *General Counsel*
 
 ------------------------------------------------------------------------
 
-[Next: Preface](pref)
+[Next: Preface](pref.md)

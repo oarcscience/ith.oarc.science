@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi126)  [Next](mtsi128) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi126)  [Next](mtsi128.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ This is how it is told.
 
 ------------------------------------------------------------------------
 
-[Next: 35. The Bungling Host](mtsi128)
+[Next: 35. The Bungling Host](mtsi128.md)

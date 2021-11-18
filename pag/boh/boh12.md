@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh11)  [Next](boh13) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh11)  [Next](boh13.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ the Welsh, who keep the forms of religion very devoutly.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: In Brittany and France](boh13)
+[Next: Chapter XI: In Brittany and France](boh13.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes30)  [Next](tes32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes30)  [Next](tes32.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ Send off the dogs!"
 <span id="page_67">p. 67</span>
 
 \[paragraph continues\] She heard this, and in a moment she sent off two
-wolves and two bears. <span id="fr_48"></span>[1](#fn_48) They ran off
+wolves and two bears. <span id="fr_48"></span>[1](#fn_48.md) They ran off
 and reached the tree. The Pike-Girl, as soon as she saw them, turned
 into an ermine and went under the roots of the tree. The bears dug at
 the roots to get at the ermine, and at last caught it. The young man
@@ -118,10 +118,10 @@ Sukharnoye in the Kolyma country, in the autumn of 1896.
 
 ### Footnotes
 
-<span id="fn_48"></span>[67:1](tes31.htm#fr_48) For comparative notes
+<span id="fn_48"></span>[67:1](tes31.htm#fr_48.md) For comparative notes
 see Elsie Clews Parsons, "Folk-Tales of Andros Island, Bahamas."
 (*Memoirs, American Folk-Lore Society*, vol. 13, 66).--F. B.
 
 ------------------------------------------------------------------------
 
-[Next: 11. The She-Monster](tes32)
+[Next: 11. The She-Monster](tes32.md)

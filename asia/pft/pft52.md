@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft51)  [Next](pft53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft51)  [Next](pft53.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 *Ilocano*
 
 Once there was a presidente  <span
-id="fr_150"></span>[151](pft68.htm#fn_150) who was very unjust to his
+id="fr_150"></span>[151](pft68.htm#fn_150.md) who was very unjust to his
 people, and one day he became so angry that he wished he had horns so
 that he might frighten them. No sooner had he made this rash wish, than
 horns began to grow on his head.
@@ -65,8 +65,8 @@ the people.
 She refused to let them in, so they broke down the door. They saw the
 horns on the head of the presidente and killed him. For, they said, he
 was no better than an animal.  <span
-id="fr_151"></span>[152](pft68.htm#fn_151)
+id="fr_151"></span>[152](pft68.htm#fn_151.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Story of a Monkey](pft53)
+[Next: The Story of a Monkey](pft53.md)

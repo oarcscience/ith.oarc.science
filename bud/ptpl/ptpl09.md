@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ptpl08)  [Next](ptpl10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ptpl08)  [Next](ptpl10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Principal Teachings of The True Sect of Pure Land*, by Yejitsu Okusa,
 \[1915\], at Intangible Textual Heritage
 
@@ -57,7 +57,7 @@ to fulfil the wish, he accumulated innumerable merits by practising the
 six virtues for innumerable kalpas with a heart full of love and
 compassion and free from all defilement; and, finally, that the
 fulfilment of this vow took place ten kalpas ago. Amida is now
-[summoning](errata.htm#13) us to his Land of Purity by showing us his
+[summoning](errata.htm#13.md) us to his Land of Purity by showing us his
 name that saves.
 
 <span id="page_73">p. 73</span>
@@ -218,4 +218,4 @@ Amida Butsu.
 
 ------------------------------------------------------------------------
 
-[Next: V. Faith](ptpl10)
+[Next: V. Faith](ptpl10.md)

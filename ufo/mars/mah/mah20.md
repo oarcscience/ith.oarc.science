@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah19)  [Next](mah21) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah19)  [Next](mah21.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ inhabitants.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII: Material Life A Lesson](mah21)
+[Next: Chapter XVIII: Material Life A Lesson](mah21.md)

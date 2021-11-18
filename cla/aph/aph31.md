@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph30)  [Next](aph32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph30)  [Next](aph32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -123,7 +123,7 @@ to the motionless head an appearance of cold marble.
 <span id="page_237">p. 237</span>
 
 <span id="img_23700"></span> <span align="CENTER"> [![](tn/23700.jpg)  
-Click to enlarge](img/23700.jpg)</span>
+Click to enlarge](img/23700.jpg.md)</span>
 
 <span id="page_238">p. 238</span> <span id="page_239">p. 239</span>
 
@@ -187,4 +187,4 @@ year after that day, he was still working upon the marble.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four. Pity](aph32)
+[Next: Chapter Four. Pity](aph32.md)

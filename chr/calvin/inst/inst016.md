@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst015)  [Next](inst017) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst015)  [Next](inst017.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ ceremonies, but sincerity of heart is rare.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 3. - THE KNOWLEDGE OF GOD NATURALLY IMPLANTED IN THE
-HUMAN MIND.](inst017)
+HUMAN MIND.](inst017.md)

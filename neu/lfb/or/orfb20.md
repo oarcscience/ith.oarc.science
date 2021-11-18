@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb19)  [Next](orfb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb19)  [Next](orfb21.md) 
 
 </div>
 
@@ -167,6 +167,6 @@ across it still.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Treasures of the Giants](orfb21)
+[Next: The Three Treasures of the Giants](orfb21.md)
 
 </div>

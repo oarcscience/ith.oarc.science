@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs33) [Next](hbs35)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs33) [Next](hbs35.md)
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ And stand in the place of danger, for I fear none but God.”
 
 ------------------------------------------------------------------------
 
-[Next](hbs35)
+[Next](hbs35.md)
 
  
 

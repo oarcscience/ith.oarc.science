@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac21)  [Next](ybac23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac21)  [Next](ybac23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -76,13 +76,13 @@ and celebrated an Auto, putting many on scaffolds, capped, shorn and
 beaten, and some in the penitential robes for a time. Some of the
 Indians out of grief, and deluded by the devil, hung themselves; but
 generally they all showed much repentance and readiness to be good
-Christians. <span id="fr_19"></span>[\*](#fn_19)
+Christians. <span id="fr_19"></span>[\*](#fn_19.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_19"></span>[30:\*](ybac22.htm#fr_19) Landa evades saying
+<span id="fn_19"></span>[30:\*](ybac22.htm#fr_19.md) Landa evades saying
 here that it was under his own leadership and assumed authority that
 this assumption of full inquisitional rights, with a calling on the
 plenary civil power, went on. The present work was written by him while
@@ -96,4 +96,4 @@ to go back as bishop.
 
 [Next: XIX. Arrival of Bishop Toral and Release of the Imprisoned
 Indians. Voyage of the Provincial of San Francisco to Spain to Justify
-the Conduct of the Franciscans](ybac23)
+the Conduct of the Franciscans](ybac23.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nbr00)  [Next](nbr02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nbr00)  [Next](nbr02.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_3">p. 3</span>
 
-# NOTES ON THE REVELATION. <span id="fr_0"></span>[1](#fn_0)
+# NOTES ON THE REVELATION. <span id="fr_0"></span>[1](#fn_0.md)
 
 # Part One
 
@@ -149,7 +149,7 @@ relationship, but the presenting of that which is the subject of
 knowledge. The most blessed truths of redemption may shine forth
 throughout it, yet it is not the address simply of the Father, by the
 Spirit, to the family, as to the things which concern them within the
-family. The Father <span id="fr_1"></span>[1](#fn_1) is not spoken of in
+family. The Father <span id="fr_1"></span>[1](#fn_1.md) is not spoken of in
 it, save in one place, as the Lamb's Father (or we, save as kings and
 priests to His Father); never as in intercourse with the children as His
 children. This difference, and the corresponding characters of the
@@ -171,7 +171,7 @@ comes. It is a throne and not a family: but it is not, on the other
 hand, the temple on earth at all, but the mind of God acting there on
 the throne, but in the perfection of that provident wisdom, in which the
 seven spirits are before the throne. *He that sat on the throne* <span
-id="fr_2"></span>[1](#fn_2) is the character and leading title of the
+id="fr_2"></span>[1](#fn_2.md) is the character and leading title of the
 Almighty in the Revelation; but that throne is not at Jerusalem, and has
 nothing to do with it immediately as the place of its establishment.
 
@@ -211,16 +211,16 @@ blessed One is praise in which this word of the Spirit "*us*" is ever
 found; and, seeing Him in the glory, she breaks out, by the Spirit in
 the apostle, into thanksgiving, for His praise cannot be passed by; for
 she is loved, washed, and will reign in nearness to God and His
-Father. <span id="fr_3"></span>[1](#fn_3)
+Father. <span id="fr_3"></span>[1](#fn_3.md)
 
 <span id="page_10">p. 10</span>
 
 \[paragraph continues\] To the world and to the Jews, His coming will be
 sorrow. Here, then, we find the place of all these parties at the
 outset. This is its form, then, ὁ ὣν κᾶι ῆ᾽ν καὶ ὁ ἐρχόμενος <span
-id="fr_4"></span>[1](#fn_4)--the perfection or fulness of the Spirit
+id="fr_4"></span>[1](#fn_4.md)--the perfection or fulness of the Spirit
 before the throne: Jesus known as faithful, risen to reign--all on
-earth. <span id="fr_5"></span>[2](#fn_5) The Church, meanwhile, knowing
+earth. <span id="fr_5"></span>[2](#fn_5.md) The Church, meanwhile, knowing
 its own position in this, therefore says, not *Our* Father, but
 *His*--His God and Father: for so it is. The announcement of what the
 purport of Jesus' coming is to the world follows thereon, completing
@@ -292,12 +292,12 @@ remains. He sees Christ in the midst of the seven candlesticks (not as a
 servant with his loins girt, but) in holy execution of judgment as
 Priest, the symbols of the Ancient of Days being withal upon Him. It is
 not Christ on high. It is not Christ the Head of one body. <span
-id="fr_6"></span>[1](#fn_6) It is not Christ in heaven. But he turns and
+id="fr_6"></span>[1](#fn_6.md) It is not Christ in heaven. But he turns and
 sees Him governing, judging and holding in His hand the destines of the
 several churches; but while, with the symbols of the Ancient of Days
 upon Him, yet revealing Himself for the Church to the faithful disciple,
 as 'One that lived, was dead, and is alive for evermore, <span
-id="fr_7"></span>[2](#fn_7) having power over the gates of His enemies,
+id="fr_7"></span>[2](#fn_7.md) having power over the gates of His enemies,
 the keys of hell and of death. This the apostle saw: such was the
 
 <span id="page_10">p. 10</span>
@@ -346,7 +346,7 @@ spiritual presence upon earth, had ceased. Hence this part is not
 properly prophetic, but connected with things that are; and the
 prophetic character that it has is entirely by the moral designation of
 the testimony of the Spirit; and we come back to the throne, μετὰ
-ταῦτα. <span id="fr_8"></span>[1](#fn_8) If John was to describe the
+ταῦτα. <span id="fr_8"></span>[1](#fn_8.md) If John was to describe the
 government of the world on the throne, the Church being lost, he must
 first trace the Church as subjected to this moral judgment. The picture
 of the word would not be complete, had we not, after the epistles which
@@ -385,7 +385,7 @@ dispensationally existing: an observation which has strictly the same
 application to the expression of the Lord to the Jewish economy: "This
 generation shall not pass away till all these things be fulfilled"--the
 connection of which, indeed, with this subject is more strong than is at
-first sight apparent (for the fortunes <span id="fr_9"></span>[1](#fn_9)
+first sight apparent (for the fortunes <span id="fr_9"></span>[1](#fn_9.md)
 of the Church and the Jews are more coincident than we suppose as to
 dispensation, though for the same reason opposite in principle. The root
 bears us, though the branches may be broken off that we may be grafted
@@ -450,7 +450,7 @@ had been there with the Lord, a recognition of the churches as something
 upon earth. There was nothing sealed in this. But if we take the apostle
 as the mystic representative of the dispensation in its condition after
 the departure of St. Peter and St. Paul, <span
-id="fr_10"></span>[1](#fn_10) then it is the protraction of that
+id="fr_10"></span>[1](#fn_10.md) then it is the protraction of that
 
 <span id="page_18">p. 18</span>
 
@@ -547,7 +547,7 @@ be hereafter, taking up i. 19.
 
 If we take the former part as the protracted condition of the Church
 dispensation, then this will be the power of the throne of Him who was,
-and is, and is to come, <span id="fr_11"></span>[1](#fn_11) (the Lamb
+and is, and is to come, <span id="fr_11"></span>[1](#fn_11.md) (the Lamb
 being still, however, there,) exercised over the world, after the close
 of this dispensation, yet properly before the beginning of the next. If
 we take the former part as the things which actually then were (and,
@@ -583,7 +583,7 @@ suffering, or judging.
 
 It was in heaven the apostle must learn the things which were to be
 hereafter. There only they can be learned; <span
-id="fr_12"></span>[1](#fn_12) and, by the habituation of the mind there,
+id="fr_12"></span>[1](#fn_12.md) and, by the habituation of the mind there,
 seen, as they are important to God, to Christ, and, therefore, to the
 Church, and to the Spirit for the Church. No one having the Spirit, so
 as to be interested in God's mind about the Church loved of Christ,
@@ -599,7 +599,7 @@ intercession, incense, or priesthood. It is government--elders on
 thrones. There were the seven spirits, the Holy Ghost in His energy and
 perfectness, the fixed moral purity which belonged to the place, the
 approach to the throne, and lastly (that of which most was said), four
-beasts, <span id="fr_13"></span>[1](#fn_13) which were the heads-of the
+beasts, <span id="fr_13"></span>[1](#fn_13.md) which were the heads-of the
 genera of creation, and filled with the intelligence and activity of
 providence, celebrating Jehovah Elohim Shaddai, the covenant and
 dispensational names of God, not the relationship name of the Church,
@@ -615,7 +615,7 @@ The beasts or living creatures are more particularly noticed as
 connected with the living creatures of Ezekiel--the living supports of
 the throne of God, leaving (judging rather) Jerusalem, now found as
 parts of the circle of the throne in heaven. <span
-id="fr_14"></span>[2](#fn_14)
+id="fr_14"></span>[2](#fn_14.md)
 
 <span id="page_24">p. 24</span>
 
@@ -656,7 +656,7 @@ It is not, moreover, here the kingdom merely of the Son of man, as given
 to Him, nor the title of the *Offspring* of David (*that* is not brought
 in until the end), but the *Root* of David, the Lion of the tribe of
 Judah, David's Lord, not his son--He hath prevailed. The redemption, or
-purchase,. here, is of the Church <span id="fr_15"></span>[1](#fn_15)--a
+purchase,. here, is of the Church <span id="fr_15"></span>[1](#fn_15.md)--a
 new song, not a Jewish one. It was a book in the hand of God, of Him
 that sat on the throne, not antecedently revealed, nor the subject of
 ordered prophecy before, and founded, not on promise which man could
@@ -682,7 +682,7 @@ slain;" the full power
 <span id="page_26">p. 26</span>
 
 actually, the seven horns, and full knowledge, seven eyes, being in Him,
-and this, universal [permanence](errata.htm#0) of knowledge. His eyes
+and this, universal [permanence](errata.htm#0.md) of knowledge. His eyes
 were the seven spirits sent forth into all the earth. Those spirits, the
 light and power of the holiness of God before the throne, thus
 characterizing His presence, were now the agents of the active
@@ -707,7 +707,7 @@ remove even its appearance to the eye, the sense remaining the same. It
 is remarkable, that while the same confidence and title is expressed by
 St. John writing to the saints on earth in the first chapter, and here
 by those around the Lamb on the throne, they add here, to shew their
-state of expectancy, <span id="fr_16"></span>[1](#fn_16)
+state of expectancy, <span id="fr_16"></span>[1](#fn_16.md)
 
 <span id="page_27">p. 27</span>
 
@@ -715,11 +715,11 @@ state of expectancy, <span id="fr_16"></span>[1](#fn_16)
 though true, to the saints on earth: it was pretty plain to sufferers
 that they were not reigning. We might have thought that these were. They
 are therefore shewn to us in this state of expectancy. <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 The four beasts are ever mentioned first, as connected with divine
 power, and entirely distinct from the angels. <span
-id="fr_18"></span>[2](#fn_18) I see not exactly, how one searching
+id="fr_18"></span>[2](#fn_18.md) I see not exactly, how one searching
 Ezekiel, and their places here, can doubt their general force. They are
 more intimately connected with redemption, because all that displays
 creation and providence being connected with, and come under, the power
@@ -744,7 +744,7 @@ rather Jehovah-continuance--was, and is, and is to come--relative
 continuance, not intrinsic life;--for, though the throne is the great
 head and source of all, yet redemption leads us more deeply into the
 knowledge of Him that sits upon it, and puts all things in their
-place. <span id="fr_19"></span>[1](#fn_19)
+place. <span id="fr_19"></span>[1](#fn_19.md)
 
 This, then, is a position which bears upon the whole to the end, though
 much intermediate important matter may come in under different heads;
@@ -761,7 +761,7 @@ The Church is seen in its dispensed perfectness as kings and priests
 (seven is the number for its abstract mystic perfection); because,
 though all through this period, viewed in its protracted character of
 years for days, it was yet imperfect, yet here the government of the
-world is viewed, <span id="fr_20"></span>[2](#fn_20) not the dealing
+world is viewed, <span id="fr_20"></span>[2](#fn_20.md) not the dealing
 with the Church; and, therefore, in placing the parties (if I may so
 speak, the *dramatis personæ*), the Church is viewed as a complete
 distinct whole. Although it is the supreme throne which is above all,
@@ -773,7 +773,7 @@ the source of all (it is He that sits on the throne that makes all
 things new, and is the object of supreme worship), yet, relatively it is
 not the throne of God at Jerusalem. It is not the filial relation of the
 Church, nor the ordered throne of the Son of man, but the throne in
-heaven; <span id="fr_21"></span>[1](#fn_21) and there the Lamb in the
+heaven; <span id="fr_21"></span>[1](#fn_21.md) and there the Lamb in the
 throne, with the power, knowledge, and holiness belonging to it in
 exercise, and that over the earth.
 
@@ -805,7 +805,7 @@ divisions: the Church under the Lamb; the Church under the ministration
 of angelic providences; and the Church under and during the last great
 apostasy, traced from Satan's power at the outset. The world meanwhile,
 not the Church, is the subject of the statements contained in these
-portions. <span id="fr_22"></span>[1](#fn_22)
+portions. <span id="fr_22"></span>[1](#fn_22.md)
 
 Upon this earthquake great terror manifests itself; but it is not the
 expression of God's revealed judgment, but of their *terror*. I do not
@@ -842,7 +842,7 @@ distinctly done. Such had been the power of God in the Spirit during
 this period, in spite of all the persecutions and oppositions of ungodly
 men. The fifth and sixth seals shew the different result of the actually
 persecuted or rather killed, and the powers that had persecuted
-them; <span id="fr_23"></span>[1](#fn_23) the seventh, the great result,
+them; <span id="fr_23"></span>[1](#fn_23.md) the seventh, the great result,
 in spite of the persecution--the word of God had not been bound.
 
 <span id="page_32">p. 32</span>
@@ -865,7 +865,7 @@ last three being woe-trumpets. The seven churches are divided into four
 and three, by the different position of the promise and warning to all
 that have ears to hear. I think it will be found that no repentance is
 proposed to the Church after the first three. <span
-id="fr_24"></span>[1](#fn_24)
+id="fr_24"></span>[1](#fn_24.md)
 
 <span id="page_33">p. 33</span>
 
@@ -893,13 +893,13 @@ The sixth seal has occasioned great difficulty. I admit the application
 of all this to an ulterior period, if "the things that are" be taken as
 the whole dispensation, which I recognize.
 
-There was a great earthquake, <span id="fr_25"></span>[1](#fn_25) and
+There was a great earthquake, <span id="fr_25"></span>[1](#fn_25.md) and
 the ruling powers
 
 <span id="page_34">p. 34</span>
 
 shaken, convulsions of the prophetic earth, and dislocations of its
-governing powers; <span id="fr_26"></span>[1](#fn_26) and, to strengthen
+governing powers; <span id="fr_26"></span>[1](#fn_26.md) and, to strengthen
 the saints, the consequence is shown.
 
 The seventh seal gave occasion to the definite results of the state of
@@ -909,10 +909,10 @@ blood of the Lamb."
 
 The seventh seal once opened, we hear no more of the Lamb, The Church,
 as a dispensation, had ceased to be in a suffering state. <span
-id="fr_27"></span>[2](#fn_27) Of the seventh seal nothing could be
+id="fr_27"></span>[2](#fn_27.md) Of the seventh seal nothing could be
 directly said: heaven could say nothing, man perhaps much; but his
 thoughts are not as God's thoughts. The owning <span
-id="fr_28"></span>[3](#fn_28) of Christianity could not be condemned;
+id="fr_28"></span>[3](#fn_28.md) of Christianity could not be condemned;
 the
 
 <span id="page_35">p. 35</span>
@@ -930,7 +930,7 @@ But there was a feature in this not yet noticed. Mixed, as they might be
 (in a certain sense in spite of themselves) with the world, the prayers
 of the saints had not ceased, and much incense was given to the angel of
 the altar to add to them, or give them savour and efficacy with
-God. <span id="fr_29"></span>[1](#fn_29) The High Priest Himself wears
+God. <span id="fr_29"></span>[1](#fn_29.md) The High Priest Himself wears
 the angelic character here: the nearness of relationship, and
 completeness of all in heaven as governing on known principles (known by
 man in the Church as his own to go upon), were gone.
@@ -947,7 +947,7 @@ close or at the beginning of the periods, an account of the state of the
 saints during the period (*i.e.* as to the principle of the dispensation
 in the period). The trumpets, then, would be the judgments of God upon
 the mingled state of things, in which the saints had ceased to
-suffer <span id="fr_30"></span>[1](#fn_30) and be identified with the
+suffer <span id="fr_30"></span>[1](#fn_30.md) and be identified with the
 character of the Lamb, in answer to the secret prayers of the remnant
 offered up as a sweet savour by the secret action of the angel of the
 covenant; but the known dealings, externally, upon principles which the
@@ -964,7 +964,7 @@ Then, destruction by judgment, through power, on the mass of extern
 nations;
 
 Then, some apostate power polluting and embittering the very sources of
-the moral popular condition; <span id="fr_31"></span>[2](#fn_31)
+the moral popular condition; <span id="fr_31"></span>[2](#fn_31.md)
 
 <span id="page_37">p. 37</span>
 
@@ -986,14 +986,14 @@ providential judgments on the condition of things. These last took up
 these earthly-minded people fixed upon earth. Note, when the saints,
 though in supplication, live, as to their actual condition, not in
 suffering, but mixed up with the world, they <span
-id="fr_32"></span>[1](#fn_32) partake externally, and therefore in
+id="fr_32"></span>[1](#fn_32.md) partake externally, and therefore in
 spirit sensibly,
 
 <span id="page_38">p. 38</span>
 
 of the trouble and sorrow of the judgments that come; and come, it may
 be, just as wholesome chastenings, or at least warnings, in answer <span
-id="fr_33"></span>[1](#fn_33) to their prayers; and this in principle
+id="fr_33"></span>[1](#fn_33.md) to their prayers; and this in principle
 may, I believe, quite go on now. But there are judgments afterwards
 specially on these earthly-minded ones (the form in which they become
 now characterized, when, after the patient and separating chastenings of
@@ -1003,7 +1003,7 @@ them specifically.
 The first comes by apostasy letting loose the influences of what is
 beneath--what is of the abyss. The effect is to put out or darken the
 supreme authority and the healthful influences which acted on men's
-minds. <span id="fr_34"></span>[2](#fn_34) From this, a swarm of
+minds. <span id="fr_34"></span>[2](#fn_34.md) From this, a swarm of
 marauders spread themselves upon the earth--the prophetic earth, having
 a king, the angel of the bottomless pit: for though, having the active
 energy of imperial power, and towards others in face they were men, yet
@@ -1022,7 +1022,7 @@ such--this army of prevailing, imperial, congregated
 
 power; and from the mouths of them (they carried it before them) what
 was judgment came forth: only it was by evil, and what was of the enemy
-positively. <span id="fr_35"></span>[1](#fn_35) They had power in their
+positively. <span id="fr_35"></span>[1](#fn_35.md) They had power in their
 mouths, but in their tails too; for in that, also, was their planned
 mischief more settled than before, though not the introduction of it;
 "and with them they hurt." It was like Satan in form. This was more open
@@ -1043,7 +1043,7 @@ purpose--looses these subordinate instruments of His providence to have
 power of destruction for the prescribed time.
 
 All these, however, were dealings in which, though a remnant prayed, the
-Church had no natural place. <span id="fr_36"></span>[2](#fn_36) For
+Church had no natural place. <span id="fr_36"></span>[2](#fn_36.md) For
 
 <span id="page_40">p. 40</span>
 
@@ -1067,7 +1067,7 @@ farther on.
 
 But before the third woe, or seventh trumpet, there is a large
 parenthetic revelation comes in; but it is still further angelic or
-providential <span id="fr_37"></span>[1](#fn_37) ministration. Nor is
+providential <span id="fr_37"></span>[1](#fn_37.md) ministration. Nor is
 it, though it goes through manifestly the same scene, the account of the
 apostasy which we have afterwards, but the same scene historically, as
 coming under the course of events as
@@ -1113,7 +1113,7 @@ external events, and describe them; but here, though the taste of the
 knowledge of this was sweet, yet, when he saw what it really conveyed,
 when he digested it, when the sympathies of' his own soul were concerned
 in it, painful and trying things concerning the position and ruin-state
-of the Church <span id="fr_38"></span>[1](#fn_38) were involved in
+of the Church <span id="fr_38"></span>[1](#fn_38.md) were involved in
 it--disorder and evil, and departure from God, and trial connected with
 this in the saints. Ah! it was bitter in his belly. This term is ever
 used for the affections and inward thoughts of the man. Therefore, in
@@ -1147,7 +1147,7 @@ circumstances is reserved for the accounts which would follow: but
 "delay no longer" is the thing here evidenced. I have only to add, that
 if "the things that are" are to be taken for the whole dispensation,
 then the twelfth chapter may be taken continuously <span
-id="fr_39"></span>[1](#fn_39) for the acting of the agents there
+id="fr_39"></span>[1](#fn_39.md) for the acting of the agents there
 described in their conduct in the crisis; only, that it traces them
 downwards from the state of things in the heavens--that is, as objects
 of the judgment referred to in the seventh trumpet. In this case, the
@@ -1174,24 +1174,24 @@ its testimony is remarkable as to this.
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](nbr01.htm#fr_0) "Notes on the Book of
+<span id="fn_0"></span>[3:1](nbr01.htm#fr_0.md) "Notes on the Book of
 Revelation; to assist Inquirers in searching into that Book." London,
 1839.
 
-<span id="fn_1"></span>[7:1](nbr01.htm#fr_1) This is true also of the
+<span id="fn_1"></span>[7:1](nbr01.htm#fr_1.md) This is true also of the
 Hebrews, where sacrifice and priesthood are spoken of, which constitute
 relationship with God. Here it is supremacy (whatever be the
 circumstances), which is His character, not with the children, but over
 all things, over all creation, and ever the throne of Him that was and
 is and is to come.
 
-<span id="fn_2"></span>[8:1](nbr01.htm#fr_2) See also (that is, as soon
+<span id="fn_2"></span>[8:1](nbr01.htm#fr_2.md) See also (that is, as soon
 as we come to the prophecy) iv. 2, 10; v. 1, 7, 13; vi. 16. Note also
 vii. 10 (observe there is no allusion to this from viii. until xix. 4)
 and xxi. 5. Chapter xx. 11 comes in specially intermediately. As to the
 city, see xxii. 1.
 
-<span id="fn_3"></span>[9:1](nbr01.htm#fr_3) The instant answer of the
+<span id="fn_3"></span>[9:1](nbr01.htm#fr_3.md) The instant answer of the
 Church on the announcement of Christ in His titles as to His person, is
 exceedingly beautiful here. And, on the announcement of His coming glory
 (xxii. 16), the instant response of the Church, led by the Spirit, is
@@ -1204,37 +1204,37 @@ id="page_10">p. 10</span> Head of the Church, as the perfect new risen
 man before God, and the head of power to the world; and the Church sees
 Him, and then says what He is to herself.
 
-<span id="fn_4"></span>[10:1](nbr01.htm#fr_4) \[Note here, not was and
+<span id="fn_4"></span>[10:1](nbr01.htm#fr_4.md) \[Note here, not was and
 is, but is and was, the One who is, and thus, in relation to time, was
 and is coming.\]
 
-<span id="fn_5"></span>[10:2](nbr01.htm#fr_5) *i.e.* The witness of God,
+<span id="fn_5"></span>[10:2](nbr01.htm#fr_5.md) *i.e.* The witness of God,
 as He was the conqueror of death, and the governor of the world in
 power.
 
-<span id="fn_6"></span>[12:1](nbr01.htm#fr_6) It has therefore passed
+<span id="fn_6"></span>[12:1](nbr01.htm#fr_6.md) It has therefore passed
 beyond the condition of the apostolic epistles, but not entered on the
 relation in which Christ stands to the world in government and lordship.
 
-<span id="fn_7"></span>[12:2](nbr01.htm#fr_7) The first and the last.
+<span id="fn_7"></span>[12:2](nbr01.htm#fr_7.md) The first and the last.
 Christ as continuous, as Jehovah in power and nature, yet One that had
 passed through the vicissitudes of the Church's necessity, so that in
 all circumstantial changes it might know what and where its security
 was: so that it was security, not terror to the individual. So, come
 what would, the Church would not be prevailed over by her enemies.
 
-<span id="fn_8"></span>[14:1](nbr01.htm#fr_8) \[Note the wisdom of this.
+<span id="fn_8"></span>[14:1](nbr01.htm#fr_8.md) \[Note the wisdom of this.
 No delay was thus revealed; before the Lord came, the things were; but
 that was given which, as I doubt not, gives a full consecutive history
 of the Church till He comes.\]
 
-<span id="fn_9"></span>[15:1](nbr01.htm#fr_9) That is, the Church
+<span id="fn_9"></span>[15:1](nbr01.htm#fr_9.md) That is, the Church
 *dispensation on earth*, taking, as to time, the place of the broken-off
 Jewish branches, and therefore, in many respects, connected in dates,
 though the Church itself be just opposite in principle; for it is
 another and a heavenly thing instead of a failed earthly thing.
 
-<span id="fn_10"></span>[17:1](nbr01.htm#fr_10) If we trace the actual
+<span id="fn_10"></span>[17:1](nbr01.htm#fr_10.md) If we trace the actual
 order of church history in the Acts, we shall find the breaking up and
 scattering of the central and only Church of Jerusalem by the death of
 Stephen, gone to <span id="page_18">p. 18</span> Jesus--and then the
@@ -1259,10 +1259,10 @@ then shut up, till Paul's intercourse with them at Rome (Acts xxviii.);
 and even so, it was blindness in part, not stumbling to fall, and there
 was a remnant according to the election of grace.
 
-<span id="fn_11"></span>[21:1](nbr01.htm#fr_11) In the next, He is Son
+<span id="fn_11"></span>[21:1](nbr01.htm#fr_11.md) In the next, He is Son
 of man and Son of David seated on His throne.
 
-<span id="fn_12"></span>[22:1](nbr01.htm#fr_12) History was not written
+<span id="fn_12"></span>[22:1](nbr01.htm#fr_12.md) History was not written
 in heaven. I believe that the attempt to interpret prophecy by history
 has been most injurious to the ascertaining of its real meaning. When we
 have ascertained, by the aid of the Spirit of Christ, the mind of God,
@@ -1285,11 +1285,11 @@ course, when any prophecy is fulfilled, the fulfilment is evidence of
 its truth, but the Christian does not need this; and evidence of truth
 and interpretation are two very different things.
 
-<span id="fn_13"></span>[23:1](nbr01.htm#fr_13) It will be found that
+<span id="fn_13"></span>[23:1](nbr01.htm#fr_13.md) It will be found that
 they are intelligent worshippers--give a reason for their service; the
 angels never do.
 
-<span id="fn_14"></span>[23:2](nbr01.htm#fr_14) The four characters of
+<span id="fn_14"></span>[23:2](nbr01.htm#fr_14.md) The four characters of
 beasts are the beads of the four genera stated in Genesis. Birds of the
 air, cattle, beasts of the field, and man; doubtless, they had specific
 characters as to attribute too. \[The beasts will be found to unite
@@ -1301,36 +1301,36 @@ next chapter (where the Lamb first appears) angels had been the
 instrument; with the Lamb men take this, place, though the result be not
 brought out.\]
 
-<span id="fn_15"></span>[25:1](nbr01.htm#fr_15) \[The difference of
+<span id="fn_15"></span>[25:1](nbr01.htm#fr_15.md) \[The difference of
 reading throws doubt on this: at any rate, it was a new song in heaven,
 not a Jewish one.\]
 
-<span id="fn_16"></span>[26:1](nbr01.htm#fr_16) \[Many MSS read 'they
+<span id="fn_16"></span>[26:1](nbr01.htm#fr_16.md) \[Many MSS read 'they
 shall reign;' but then I doubt as to 'redeemed \[us\].'\]
 
-<span id="fn_17"></span>[27:1](nbr01.htm#fr_17) This sets the saints in
+<span id="fn_17"></span>[27:1](nbr01.htm#fr_17.md) This sets the saints in
 heaven but awaiting their inheritance--of the earth,--the place, in
 principle, of Christ now.
 
-<span id="fn_18"></span>[27:2](nbr01.htm#fr_18) \[In the fourth chapter
+<span id="fn_18"></span>[27:2](nbr01.htm#fr_18.md) \[In the fourth chapter
 we have no angels, and the beast are apart from the elders; here the
 beasts and the elders are associated, and we have angels.\]
 
-<span id="fn_19"></span>[28:1](nbr01.htm#fr_19) \[This is true even if
+<span id="fn_19"></span>[28:1](nbr01.htm#fr_19.md) \[This is true even if
 these honours of the beasts be transferred to the elders, as we know
 those of the angels certainly will to men in the world to come. For the
 elders always represent the place of intelligent faith.\]
 
-<span id="fn_20"></span>[28:2](nbr01.htm#fr_20) Viewed, that is, in its
+<span id="fn_20"></span>[28:2](nbr01.htm#fr_20.md) Viewed, that is, in its
 protracted character on earth.
 
-<span id="fn_21"></span>[29:1](nbr01.htm#fr_21) This can clearly apply
+<span id="fn_21"></span>[29:1](nbr01.htm#fr_21.md) This can clearly apply
 but to two periods properly: the protracted period subsequent to owning
 the churches upon earth; and the preparatory scene of judicial and
 providential governance, subsequent to the taking up of the Church, and
 previous to the reign of the Son of man.
 
-<span id="fn_22"></span>[30:1](nbr01.htm#fr_22) As regards the crisis at
+<span id="fn_22"></span>[30:1](nbr01.htm#fr_22.md) As regards the crisis at
 the close, this would develop itself in, first, the period of trials and
 persecution of the saints (compare Matt. xxiv.); secondly, the
 preparatory or providential judgments on the despisers of the Lord (the
@@ -1338,8 +1338,8 @@ wrath being simply announced, and not described, in the seventh
 trumpet); and lastly, a full account of the character, doings, and rise
 of the beast, with the final judgment of all that belongs to him.
 
-<span id="fn_23"></span>[31:1](nbr01.htm#fr_23) It would seen, from the
-[fifth](errata.htm#1) seal, just when the heavens are going to be
+<span id="fn_23"></span>[31:1](nbr01.htm#fr_23.md) It would seen, from the
+[fifth](errata.htm#1.md) seal, just when the heavens are going to be
 changed, that, after the Church who have suffered are publicly owned and
 put in white robes, they are to rest a little season, because there are
 brethren and fellow-servants to be killed yet. Though. thus owned,
@@ -1362,14 +1362,14 @@ remnant, then owned upon earth. Looked at as the Church, in its own
 portion, it is looked at, I apprehend, as in the heavens from the end of
 chapter iii. It is quite done with on earth there.
 
-<span id="fn_24"></span>[32:1](nbr01.htm#fr_24) \[This is true in the
+<span id="fn_24"></span>[32:1](nbr01.htm#fr_24.md) \[This is true in the
 main of the ecclesiastical body. It is said to Thyatira, "I gave her
 space to repent and she repented not," and the coming of Christ is then
 announced. But the call is renewed to Sardis (as I believe,
 Protestantism) in its turn, but, unless for individuals, in vain. It
 ends in Laodicea.\]
 
-<span id="fn_25"></span>[33:1](nbr01.htm#fr_25) In the crisis, I do not
+<span id="fn_25"></span>[33:1](nbr01.htm#fr_25.md) In the crisis, I do not
 believe it to be the judgment of Antichrist at all, but that subversion
 of Satan's power in the heavens, and consequent complete subversion and
 revolution of all the foundation and elements of all political
@@ -1386,17 +1386,17 @@ enemy cast out; and he never regains that place, though, when loose, he
 may still act in opposition--fruitless opposition--on earth; for then
 the judgment is come, the heavens being so established and ruling.
 
-<span id="fn_26"></span>[34:1](nbr01.htm#fr_26) The application of
+<span id="fn_26"></span>[34:1](nbr01.htm#fr_26.md) The application of
 symbols literally seems to me to be very false in principle and a very
 unsuitable mode of interpretation. It is the denial that they are
 symbols. I believe the language of symbols as definite as any other, and
 always used in the same sense, as much as language is.
 
-<span id="fn_27"></span>[34:2](nbr01.htm#fr_27) Or an expectant state as
+<span id="fn_27"></span>[34:2](nbr01.htm#fr_27.md) Or an expectant state as
 to themselves. Looking at the close, they had no longer to say "How
 long?" though the judgment might not yet be actually come.
 
-<span id="fn_28"></span>[34:3](nbr01.htm#fr_28) So as regards the
+<span id="fn_28"></span>[34:3](nbr01.htm#fr_28.md) So as regards the
 crisis, the heavens, as now filled by the saints, had no part in the Son
 of man's judgment. Their armies which are in heaven will follow Him; but
 these were the preparatory judgments of God's supreme providential
@@ -1408,19 +1408,19 @@ that ministers to them. It is entirely beyond them; and of that the
 trumpets are a part--the announcement of God's sovereign dealings and
 government, not His ways and purposes with them.
 
-<span id="fn_29"></span>[35:1](nbr01.htm#fr_29) Hence I apprehend in the
+<span id="fn_29"></span>[35:1](nbr01.htm#fr_29.md) Hence I apprehend in the
 crisis this would be the intercession of the High Priest for those left
 on the earth--saints after (as we have been before led to see) the
 rapture of the Church--saints then connected with the condition of the
 earth.
 
-<span id="fn_30"></span>[36:1](nbr01.htm#fr_30) Their corporate
+<span id="fn_30"></span>[36:1](nbr01.htm#fr_30.md) Their corporate
 suffering was not characteristic of the con-tents of the trumpets, which
 dealt in judgments on those not saints; and there was no recognition of
 their present union and identification with the Lamb, though
 individually they might be so.
 
-<span id="fn_31"></span>[36:2](nbr01.htm#fr_31) There is no symbol more
+<span id="fn_31"></span>[36:2](nbr01.htm#fr_31.md) There is no symbol more
 difficult than the various uses of water. Living water is the Spirit;
 but, as this acts by the word, water (not exactly living water) is
 doctrine, and in a good sense the word. But waters are peoples, tongues,
@@ -1442,23 +1442,23 @@ perhaps directly to a teacher, or rather existing set of
 teachers--fountains of waters: for where they are, they characterize the
 people; as men say, "Like people, like priest."
 
-<span id="fn_32"></span>[37:1](nbr01.htm#fr_32) This will have its truth
+<span id="fn_32"></span>[37:1](nbr01.htm#fr_32.md) This will have its truth
 in the land withal in the latter day.
 
-<span id="fn_33"></span>[38:1](nbr01.htm#fr_33) Compare the spiritual
+<span id="fn_33"></span>[38:1](nbr01.htm#fr_33.md) Compare the spiritual
 process of the prophet Habakkuk, which just illustrates this.
 
-<span id="fn_34"></span>[38:2](nbr01.htm#fr_34) In the protracted view I
+<span id="fn_34"></span>[38:2](nbr01.htm#fr_34.md) In the protracted view I
 see no reason to deviate from the ordinary interpretation of this (that
 is, the Saracens): in the crisis, it will have its accomplishment in the
 great last enemy, or Antichrist.
 
-<span id="fn_35"></span>[39:1](nbr01.htm#fr_35) As in the first woe in
+<span id="fn_35"></span>[39:1](nbr01.htm#fr_35.md) As in the first woe in
 the long period, I take this as usually, as the Turks. In the crisis, it
 will be the inroads of the northern and eastern armies, headed up after
 into the Assyrian, and Gog, the prince of Magog.
 
-<span id="fn_36"></span>[39:2](nbr01.htm#fr_36) As regards the crisis,
+<span id="fn_36"></span>[39:2](nbr01.htm#fr_36.md) As regards the crisis,
 it is viewed as actually in heaven (*i.e.*, lost sight of on earth
 entirely, as it was actually, when it lost its place of testimony here
 below, as a city set on a hill). For all through, as to time, whatever
@@ -1469,11 +1469,11 @@ judgment here, as in the seven churches, it was viewed either mystically
 latter-day trials and judgments, the crisis, as it has been called,
 takes place. In both cases it is lost sight of on earth.
 
-<span id="fn_37"></span>[40:1](nbr01.htm#fr_37) The rainbow round the
+<span id="fn_37"></span>[40:1](nbr01.htm#fr_37.md) The rainbow round the
 head showed its connection with the restoration of creation--the
 covenant with creation at the time government was instituted.
 
-<span id="fn_38"></span>[42:1](nbr01.htm#fr_38) In the crisis, rather
+<span id="fn_38"></span>[42:1](nbr01.htm#fr_38.md) In the crisis, rather
 the apostate results of what was nominally the Church.
 
 In the seals the Lamb is concerned, and the saints are still liable to
@@ -1483,7 +1483,7 @@ in Jewish history). Then comes the display of the open enemies of the
 Lord Jesus Christ and their judgment, and in their full character, by
 the Son of man Himself.
 
-<span id="fn_39"></span>[43:1](nbr01.htm#fr_39) But the historical
+<span id="fn_39"></span>[43:1](nbr01.htm#fr_39.md) But the historical
 continuance is then not immediate; but from the state of things
 consequent on the position of the parties, more particularly from the
 flight of the woman into the wilderness, the previous verses being
@@ -1535,7 +1535,7 @@ that, or rather thereupon. I only state, then, as to this, that upon
 these passages, the casting down of the dragon, as to the crisis, seems
 to be some time previous to the setting up of the abomination, after the
 catching up of the saints, *i.e.*, before or in the period of the first
-four or five seals. <span id="fr_40"></span>[\*](#fn_40)
+four or five seals. <span id="fr_40"></span>[\*](#fn_40.md)
 
 It is clear that the appearing of the Son of man is subsequent to these
 changes in the heavens, from Matthew, Mark, Joel; and indeed the whole
@@ -1543,9 +1543,9 @@ course and order of these mighty dealings of God's judgment. The
 epiphany of His parousia destroys the man of sin. Isaiah xxiv. may be
 referred to here.
 
-<span id="fn_40"></span>[43:\*](nbr01.htm#fr_40) \[The sixth would be
+<span id="fn_40"></span>[43:\*](nbr01.htm#fr_40.md) \[The sixth would be
 the effect of it.\]
 
 ------------------------------------------------------------------------
 
-[Next: Part Two](nbr02)
+[Next: Part Two](nbr02.md)

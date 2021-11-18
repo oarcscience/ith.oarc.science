@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt14)  [Next](trt16) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt14)  [Next](trt16.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ And as his horse was gone also, he departed on foot with a heavy heart.
 
 ------------------------------------------------------------------------
 
-[Next: V: The Adventure Of Sir Percivale](trt16)
+[Next: V: The Adventure Of Sir Percivale](trt16.md)

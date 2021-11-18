@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag16)  [Next](rag18) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag16)  [Next](rag18.md) 
 
 ------------------------------------------------------------------------
 
@@ -341,4 +341,4 @@ Encelidas may arise! "'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Ragnarok](rag18)
+[Next: Chapter IV. Ragnarok](rag18.md)

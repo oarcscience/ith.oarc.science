@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK VIII CHAPTER XXIV
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK VIII](book07) 
-[Previous](mart176)  [Next](mart178) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK VIII](book07.md) 
+[Previous](mart176)  [Next](mart178.md) </span>
 
 ------------------------------------------------------------------------
 

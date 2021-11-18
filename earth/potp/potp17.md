@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp16)  [Next](potp18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp16)  [Next](potp18.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ different view: it came from the interior of the earth.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV. Have Other Than the Eskimos Inhabited the Arctic
-Regions?](potp18)
+Regions?](potp18.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut51)  [Next](hut53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut51)  [Next](hut53.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XLIX.
 
-### Formula of Medicine for Spoiled Stomach. <span id="fr_101"></span>[1](#fn_101)
+### Formula of Medicine for Spoiled Stomach. <span id="fr_101"></span>[1](#fn_101.md)
 
 <span id="page_349">p. 349</span>
 
@@ -53,7 +53,7 @@ knows my medicine and does as I did, even if his stomach is spoiled."
 
 Then he went home here to the end of the world toward the south from
 which he had started out. "I can't stay here," he thought. "It is
-getting near to [the](errata.htm#8) time when Indians are to come into
+getting near to [the](errata.htm#8.md) time when Indians are to come into
 existence. Anyway they will talk about me. There will not be many who
 will know my formula." Then he tied up his house and his sweat-house. He
 poked a stick under them. "Here across to the north I am going," he
@@ -66,10 +66,10 @@ come into existence.
 
 ### Footnotes
 
-<span id="fn_101"></span>[346:1](hut52.htm#fr_101) Told at Hupa,
+<span id="fn_101"></span>[346:1](hut52.htm#fr_101.md) Told at Hupa,
 December 1901, by Emma Dusky.
 
 ------------------------------------------------------------------------
 
 [Next: L. Formula of Medicine for Purification of One Who has Buried the
-Dead](hut53)
+Dead](hut53.md)

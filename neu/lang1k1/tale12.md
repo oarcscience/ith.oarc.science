@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale11)  [Next](tale13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale11)  [Next](tale13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -238,7 +238,7 @@ see me; but I kept silence about my
 
 [![THE GENIUS COMMANDS THE YOUNG MAN TO SLAY THE
 PRINCESS](tn/08100.jpg)  
-Click to enlarge](img/08100.jpg)  
+Click to enlarge](img/08100.jpg.md)  
 THE GENIUS COMMANDS THE YOUNG MAN TO SLAY THE PRINCESS  
 
 <span id="page_82">p. 82</span> <span id="page_83">p. 83</span>
@@ -333,4 +333,4 @@ will tell it to you also.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Envious Man and of Him Who Was Envied](tale13)
+[Next: The Story of the Envious Man and of Him Who Was Envied](tale13.md)

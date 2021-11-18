@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe173)  [Next](prwe175) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe173)  [Next](prwe175.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ previous to that period the place was famous for its wickedness. \[a\]
 
 ------------------------------------------------------------------------
 
-[Next: How Pengerswick became a Sorcerer](prwe175)
+[Next: How Pengerswick became a Sorcerer](prwe175.md)

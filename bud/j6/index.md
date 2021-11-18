@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 </div>
 
@@ -26,14 +26,14 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](j6000)    [Page
-Index](pageidx)    [Text \[Zipped\]](j6.txt.gz)
+[Contents](#contents)    [Start Reading](j6000.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](j6.txt.gz.md)
 
 ------------------------------------------------------------------------
 
-[VOLUME I](../j1/index)   \|    [VOLUME II](../j2/index)   \|    [VOLUME
-III](../j3/index)   \|    [VOLUME IV](../j4/index)   \|    [VOLUME
-V](../j5/index)   \|    **VOLUME VI**
+[VOLUME I](../j1/index)   \|    [VOLUME II](../j2/index.md)   \|    [VOLUME
+III](../j3/index)   \|    [VOLUME IV](../j4/index.md)   \|    [VOLUME
+V](../j5/index.md)   \|    **VOLUME VI**
 
 ------------------------------------------------------------------------
 
@@ -43,18 +43,18 @@ of stories about the Buddha's previous incarnations.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](j6000)  
-[Preface](j6001)  
-[Errata](j6002)  
-[Contents](j6003)  
-[No. 538.: Mūga-Pakkha Jātaka.](j6004)  
-[No. 539.: Mahājanaka-Jātaka.](j6005)  
-[No. 540.: Sāma-Jātaka.](j6006)  
-[No. 541.: Nimi-Jātaka.](j6007)  
-[No. 542.: The Khaṇḍahāla-Jātaka.](j6008)  
-[No. 543.: Bhūridatta-Jātaka.](j6009)  
-[No. 544: Mahānāradakassapa-Jātaka.](j6010)  
-[No. 545.: Vidhurapaṇḍita-Jātaka.](j6011)  
-[No. 546.: The Mahā-Ummagga-Jātaka.](j6012)  
-[No. 547.: Vessantara-Jātaka.](j6013)  
-[Index](j6014)  
+<span id="contents"></span> [Title Page](j6000.md)  
+[Preface](j6001.md)  
+[Errata](j6002.md)  
+[Contents](j6003.md)  
+[No. 538.: Mūga-Pakkha Jātaka.](j6004.md)  
+[No. 539.: Mahājanaka-Jātaka.](j6005.md)  
+[No. 540.: Sāma-Jātaka.](j6006.md)  
+[No. 541.: Nimi-Jātaka.](j6007.md)  
+[No. 542.: The Khaṇḍahāla-Jātaka.](j6008.md)  
+[No. 543.: Bhūridatta-Jātaka.](j6009.md)  
+[No. 544: Mahānāradakassapa-Jātaka.](j6010.md)  
+[No. 545.: Vidhurapaṇḍita-Jātaka.](j6011.md)  
+[No. 546.: The Mahā-Ummagga-Jātaka.](j6012.md)  
+[No. 547.: Vessantara-Jātaka.](j6013.md)  
+[Index](j6014.md)  

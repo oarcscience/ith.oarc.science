@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos07)  [Next](kos09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos07)  [Next](kos09.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ the proper Chapters. The second can in no way be brought to perfection
 without the Circle; and in order to accomplish this perfectly it is
 necessary to take note of all the preparations which the Master of the
 Art and his Disciples must undertake before constructing <span
-id="fr_11"></span>[1](#fn_11) the Circle.
+id="fr_11"></span>[1](#fn_11.md) the Circle.
 
 Before commencing operations both the Master and his Disciples must
 abstain with great and thorough continence during the space of nine days
@@ -44,7 +44,7 @@ their feet and bathes them completely; and while pouring this water upon
 them let the Master say:--'Be ye regenerate, renewed, washed, and pure,'
 etc., as in Book II., Chapter 3.
 
-Which <span id="fr_12"></span>[2](#fn_12) being done, the Disciples must
+Which <span id="fr_12"></span>[2](#fn_12.md) being done, the Disciples must
 clothe themselves, putting
 
 <span id="page_16">p. 16</span>
@@ -63,7 +63,7 @@ in Book II. And when they are clean and pure, let each put upon him
 garments of white linen, pure, and clean, using the prayers and
 ceremonies described in Book II. After which let the Master alone say
 the confession. The which being finished, the Master in sign of
-penitence will Kiss <span id="fr_13"></span>[1](#fn_13) the Disciples on
+penitence will Kiss <span id="fr_13"></span>[1](#fn_13.md) the Disciples on
 the forehead, and each of them will Kiss the other. Afterwards let the
 Master extend his hands over the Disciples, and in sign of absolution
 absolve and bless them; which being done he will distribute to each of
@@ -105,15 +105,15 @@ Second Book. With this Knife or with the Sickle of Art thou shalt
 describe, beyond the inner Circle which thou shalt have already formed,
 a Second Circle, encompassing the other at the distance of one foot
 therefrom and having the same centre. <span
-id="fr_14"></span>[1](#fn_14) Within this space of a foot in breadth
+id="fr_14"></span>[1](#fn_14.md) Within this space of a foot in breadth
 between the first and the second circumferential <span
-id="fr_15"></span>[2](#fn_15) line, thou shalt trace towards the Four
-Quarters of the Earth, <span id="fr_16"></span>[3](#fn_16) the Sacred
+id="fr_15"></span>[2](#fn_15.md) line, thou shalt trace towards the Four
+Quarters of the Earth, <span id="fr_16"></span>[3](#fn_16.md) the Sacred
 and Venerable Symbols of the holy Letter Tau <span
-id="fr_17"></span>[4](#fn_17). And between the first and the second
-Circle, <span id="fr_18"></span>[5](#fn_18) which thou shalt thyself
+id="fr_17"></span>[4](#fn_17.md). And between the first and the second
+Circle, <span id="fr_18"></span>[5](#fn_18.md) which thou shalt thyself
 have drawn with the Instrument of Magical Art, thou shalt make four
-hexagonal pentacles, <span id="fr_19"></span>[6](#fn_19) and between
+hexagonal pentacles, <span id="fr_19"></span>[6](#fn_19.md) and between
 these thou shalt write four terrible and tremendous Names of God,
 viz.:--
 
@@ -127,7 +127,7 @@ Between the West and the North the Name of Power ALIVN, Elion;--
 And between the North and the East the Great Name ALH, Eloah;--
 
 Which Names are of supreme importance in the list of the
-Sephiroth, <span id="fr_20"></span>[7](#fn_20) and their Sovereign
+Sephiroth, <span id="fr_20"></span>[7](#fn_20.md) and their Sovereign
 Equivalents.
 
 Furthermore, thou shalt circumscribe about these Circles two Squares,
@@ -143,7 +143,7 @@ Instrument of Art. And within these Four Circles
 thou must write these four Names of God the Most Holy One, in this
 order:--
 
-At <span id="fr_21"></span>[1](#fn_21) the East, AL, El;
+At <span id="fr_21"></span>[1](#fn_21.md) the East, AL, El;
 
 At the West, IH, Yah;
 
@@ -153,7 +153,7 @@ And at the North ADNI, Adonaï.
 
 Between the two Squares the Name Tetragrammaton is to be written in the
 same way as is shown in the plate. (See [Figure
-2](kos00.htm#img_kos01).)
+2](kos00.htm#img_kos01)..md)
 
 While constructing the Circle, the Master should recite the following
 Psalms:--Psalm ii.; Psalm liv.; Psalm cxiii.; Psalm lxvii.; Psalm
@@ -330,55 +330,55 @@ lay his hand upon the Pentacles, and having bent his knees before the
 Most High, he shall repeat with humility the following Confession; the
 which his Disciples shall also do, and they shall recite it in a low and
 humble voice, so that they can scarcely be heard. <span
-id="fr_22"></span>[1](#fn_22)
+id="fr_22"></span>[1](#fn_22.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_11"></span>[15:1](kos08.htm#fr_11) Sloane MSS. 3091 says,
+<span id="fn_11"></span>[15:1](kos08.htm#fr_11.md) Sloane MSS. 3091 says,
 'before they come to the Circle.'
 
-<span id="fn_12"></span>[15:2](kos08.htm#fr_12) This paragraph is
+<span id="fn_12"></span>[15:2](kos08.htm#fr_12.md) This paragraph is
 omitted in Lansdowne MSS. 1202.
 
-<span id="fn_13"></span>[16:1](kos08.htm#fr_13) Note the 'holy kiss ' in
+<span id="fn_13"></span>[16:1](kos08.htm#fr_13.md) Note the 'holy kiss ' in
 the New Testament. 'Greet ye one another with a holy kiss.'
 
-<span id="fn_14"></span>[17:1](kos08.htm#fr_14) *i.e.* two Circles
+<span id="fn_14"></span>[17:1](kos08.htm#fr_14.md) *i.e.* two Circles
 enclosed between three circumferential lines.
 
-<span id="fn_15"></span>[17:2](kos08.htm#fr_15) *i.e.* within the first
+<span id="fn_15"></span>[17:2](kos08.htm#fr_15.md) *i.e.* within the first
 Circle.
 
-<span id="fn_16"></span>[17:3](kos08.htm#fr_16) *i.e.* the four Cardinal
+<span id="fn_16"></span>[17:3](kos08.htm#fr_16.md) *i.e.* the four Cardinal
 points of the compass.
 
-<span id="fn_17"></span>[17:4](kos08.htm#fr_17) The letter Tau
+<span id="fn_17"></span>[17:4](kos08.htm#fr_17.md) The letter Tau
 represents the Cross, and in 10862 Add. MSS. in the drawing of the
 Circle, the Hebrew letter is replaced by the Cross; in 1307 Sloane MSS.
 by the T or Tau-Cross.
 
-<span id="fn_18"></span>[17:5](kos08.htm#fr_18) *i.e.* in the Outer
+<span id="fn_18"></span>[17:5](kos08.htm#fr_18.md) *i.e.* in the Outer
 Circle, bounded by the second and third circumferential lines.
 
-<span id="fn_19"></span>[17:6](kos08.htm#fr_19) 10862 Add. NISS. is the
+<span id="fn_19"></span>[17:6](kos08.htm#fr_19.md) 10862 Add. NISS. is the
 only copy which uses the word hexagonal, but the others show four
 hexagrams in the drawing; in the drawing, however, 10862 gives the
 hexagrams formed by various differing interlacements of two triangles,
-as shown in [Figure 2](kos00.htm#img_kos01).
+as shown in [Figure 2](kos00.htm#img_kos01.md).
 
-<span id="fn_20"></span>[17:7](kos08.htm#fr_20) The Sephiroth are the
+<span id="fn_20"></span>[17:7](kos08.htm#fr_20.md) The Sephiroth are the
 ten Qabalistical Emanations of the Deity. The Sovereign Equivalents are
 the Divine Names referred thereto. See my 'Kabbalah Unveiled.'
 
-<span id="fn_21"></span>[18:1](kos08.htm#fr_21) The MSS. vary as to the
+<span id="fn_21"></span>[18:1](kos08.htm#fr_21.md) The MSS. vary as to the
 point whereat each Name is to be placed, but I think the above will be
 found to answer.
 
-<span id="fn_22"></span>[21:1](kos08.htm#fr_22) So as not to interfere
+<span id="fn_22"></span>[21:1](kos08.htm#fr_22.md) So as not to interfere
 with the direction of the Will-currents of the Master.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Confession To Be Made By the Exorcist](kos09)
+[Next: Chapter IV. The Confession To Be Made By the Exorcist](kos09.md)

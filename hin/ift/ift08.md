@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift07) 
-[Next](ift09) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift07.md) 
+[Next](ift09.md) 
 
 ------------------------------------------------------------------------
 
 # The Cruel Crane Outwitted
 
 <span id="img_25"></span> [![](tn/25.jpg)  
-Click to enlarge](img/25.jpg)
+Click to enlarge](img/25.jpg.md)
 
 <span id="img_26"></span> ![](img/26.jpg)ONG ago the Bodisat was born to
 a forest life as the genius of a tree standing near a certain lotus
@@ -137,8 +137,8 @@ He may win indeed, sharp-witted in deceit,
 But only as the Crane here from the Crab!"
 
 <span id="img_27"></span> [![](tn/27.jpg)  
-Click to enlarge](img/27.jpg)
+Click to enlarge](img/27.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Loving Laili](ift09)
+[Next: Loving Laili](ift09.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht26)  [Next](cht28) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht26)  [Next](cht28.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ as new-born infants.
 
 ------------------------------------------------------------------------
 
-[Next: Puberty](cht28)
+[Next: Puberty](cht28.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss23)  [Next](oss25) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss23)  [Next](oss25.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,7 +115,7 @@ delights to shine in battle, to mix
 <span id="page_296">p. 296</span>
 
 with the blood of thousands. But though my hand is bent on fight, my
-heart is for the peace of Erin.  <span id="fr_68"></span>[1](#fn_68)
+heart is for the peace of Erin.  <span id="fr_68"></span>[1](#fn_68.md)
 Behold, thou first in Cormac's war, the sable fleet of Swaran. His masts
 are many on our coasts, like reeds on the lake of Lego. His ships are
 forests clothed with mists, when the trees yield by turns to the squally
@@ -129,9 +129,9 @@ on the hill!"
 war! Pursue the dark-brown deer of Cromla: stop with thine arrows the
 bounding roes of Lena. But blue-eyed son of Semo, Cuthullin, ruler of
 the field, scatter thou the Sons of Lochlin!  <span
-id="fr_69"></span>[2](#fn_69) roar through the ranks of their pride. Let
+id="fr_69"></span>[2](#fn_69.md) roar through the ranks of their pride. Let
 no vessel of the kingdom of snow bound on the dark-rolling waves of
-Inistore.  <span id="fr_70"></span>[3](#fn_70) Rise, ye dark winds of
+Inistore.  <span id="fr_70"></span>[3](#fn_70.md) Rise, ye dark winds of
 Erin, rise! roar, whirlwinds of Lara of hinds! Amid the tempest let me
 die, torn, in a cloud, by angry ghosts of men; amid the tempest let
 Calmar die, if ever chase was sport to him, so much as the battle of
@@ -161,7 +161,7 @@ joy at the feast! son of Rossa! arm of death! comest thou like a roe
 from Malmor? like a hart from thy echoing hills? Hall, thou son of
 Rossa! what shades the soul of war?"
 
-"Four stones,"  <span id="fr_71"></span>[1](#fn_71) replied the chief,
+"Four stones,"  <span id="fr_71"></span>[1](#fn_71.md) replied the chief,
 "rise on the grave of Câthba. These hands have laid in earth Duchômar,
 that cloud in war! Câthba, son of Torman! thou wert a sunbeam in Erin.
 And thou, O valiant Duchômar! a mist of the marshy Lano; when it moves
@@ -213,7 +213,7 @@ arm is strong as a storm.' 'Is the son of Torman fallen?' said the
 wildly-bursting voice of the maid; 'is he fallen on his echoing hills,
 the youth with the breast of snow? the first in the chase of hinds! the
 foe of the strangers of ocean! Thou art dark  <span
-id="fr_72"></span>[1](#fn_72) to me, Duchômar; cruel is thine arm to
+id="fr_72"></span>[1](#fn_72.md) to me, Duchômar; cruel is thine arm to
 Morna! Give me that sword, my foe! I loved the wandering blood of
 Câthba!'
 
@@ -325,7 +325,7 @@ like two hinds of the desert, by the hands of the mighty Swaran; when,
 in the midst of thousands, he roared like the shrill spirit of a storm.
 He sits dim on the clouds of the north, and enjoys the death of the
 mariner. Nor slept thy hand by thy side, chief of the isle of mist!
- <span id="fr_73"></span>[1](#fn_73) Many were the deaths of thine arm,
+ <span id="fr_73"></span>[1](#fn_73.md) Many were the deaths of thine arm,
 Cuthullin, thou son of Semo! His sword was like the beam of heaven when
 it pierces the sons of the vale: when the people are blasted and fall,
 and all the hills are burning around. Dusronnal snorted over the bodies
@@ -401,7 +401,7 @@ have moved on Inis-fail,
 
 and lovely are the songs of wo that are heard on Albion's rocks, when
 the noise of the chase is past, and the streams of Cona  <span
-id="fr_74"></span>[1](#fn_74) answer to the voice of Ossian.
+id="fr_74"></span>[1](#fn_74.md) answer to the voice of Ossian.
 
 "In other days," Carril replies, "came the sons of ocean to Erin; a
 thousand vessels bounded on waves to Ullin's lovely plains. The sons of
@@ -414,7 +414,7 @@ the hill than the name of Cairbar and Grudar? But, ah! why ever lowed
 the bull on Golbun's echoing heath? they saw him leaping like snow. The
 wrath of the chiefs returned.
 
-"On Lubar's  <span id="fr_75"></span>[2](#fn_75) grassy banks they
+"On Lubar's  <span id="fr_75"></span>[2](#fn_75.md) grassy banks they
 fought; Grudar fell in his blood. Fierce Cairbar came to the vale, where
 Brassolis, fairest of his sisters, all alone, raised the song of grief.
 She sung of the actions of Grudar, the youth of her secret soul. She
@@ -458,7 +458,7 @@ I am for peace till the race of Selma come, till Fingal come, the first
 of men, and beam, like the sun on our fields!" The hero struck the
 shield of alarms, the warriors of the night moved on. The rest lay in
 the heath of the deer, and slept beneath the dusky wind. The ghosts
- <span id="fr_76"></span>[1](#fn_76) of the lately dead were near, and
+ <span id="fr_76"></span>[1](#fn_76.md) of the lately dead were near, and
 swam on
 
 <span id="page_307">p. 307</span>
@@ -470,15 +470,15 @@ feeble voices of death were faintly heard.
 
 ### Footnotes
 
-<span id="fn_68"></span>[296:1](oss24.htm#fr_68) Erin, a name of
+<span id="fn_68"></span>[296:1](oss24.htm#fr_68.md) Erin, a name of
 Ireland; for "ear," or "iar," west, and "in", an island.
 
-<span id="fn_69"></span>[296:2](oss24.htm#fr_69) Lochlin: The Gaelic
+<span id="fn_69"></span>[296:2](oss24.htm#fr_69.md) Lochlin: The Gaelic
 name of a Scandinavian general.
 
-<span id="fn_70"></span>[296:3](oss24.htm#fr_70) The Orkney islands.
+<span id="fn_70"></span>[296:3](oss24.htm#fr_70.md) The Orkney islands.
 
-<span id="fn_71"></span>[297:1](oss24.htm#fr_71) This passage alludes to
+<span id="fn_71"></span>[297:1](oss24.htm#fr_71.md) This passage alludes to
 the manner of burial among the ancient Scots. They opened a grave six or
 eight feet deep; the bottom was lined with fine clay; and on this they
 laid the body of the deceased, and, if a warrior, his sword, and the
@@ -488,23 +488,23 @@ The whole was covered with a fine mould, and four stones placed on end
 to mark the extent of the grave. These are the four stones alluded to
 here.
 
-<span id="fn_72"></span>[299:1](oss24.htm#fr_72) She alludes to his name
+<span id="fn_72"></span>[299:1](oss24.htm#fr_72.md) She alludes to his name
 the "dark man."
 
-<span id="fn_73"></span>[302:1](oss24.htm#fr_73) The isle of Sky; not
+<span id="fn_73"></span>[302:1](oss24.htm#fr_73.md) The isle of Sky; not
 improperly called the "isle of mist," as its high hills, which catch the
 clouds from the Western Ocean, occasion almost continual rains.
 
-<span id="fn_74"></span>[305:1](oss24.htm#fr_74) The Cona here mentioned
+<span id="fn_74"></span>[305:1](oss24.htm#fr_74.md) The Cona here mentioned
 is the small river that runs through Glenco in Argyleshire.
 
-<span id="fn_75"></span>[305:2](oss24.htm#fr_75) Lubar, a river in
+<span id="fn_75"></span>[305:2](oss24.htm#fr_75.md) Lubar, a river in
 Ulster; "Labhar," loud, noisy.
 
-<span id="fn_76"></span>[306:1](oss24.htm#fr_76) It was long the opinion
+<span id="fn_76"></span>[306:1](oss24.htm#fr_76.md) It was long the opinion
 of the ancient Scots, that a ghost was heard shrieking near the place
 where a death was to happen soon after.
 
 ------------------------------------------------------------------------
 
-[Next: Book II](oss25)
+[Next: Book II](oss25.md)

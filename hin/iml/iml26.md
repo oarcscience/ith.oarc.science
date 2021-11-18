@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml25)  [Next](iml27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml25)  [Next](iml27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ showered upon the blissful pair.
 
 But at length there came a day when, after performing an unclean act,
 Nala sipped holy water and went to prayer with unwashed feet. <span
-id="fr_304"></span>[1](#fn_303) The watchful Kali seized this fatal
+id="fr_304"></span>[1](#fn_303.md) The watchful Kali seized this fatal
 opportunity, and straightway entered the rajah and possessed his inmost
 soul. Then that evil demon summoned Push´kara, the brother of Nala,
 saying: "Come now and throw dice with the king. I will give thee mine
@@ -85,7 +85,7 @@ So the charioteer conveyed the beauteous girl Indrasena and the comely
 boy Indrasen to the city of Vidarbha, and he delivered them safely unto
 Bhima, whom he informed fully regarding the fall of Nala. Thereafter he
 departed, sorrowing greatly, and went to the city of Ayodhyá, <span
-id="fr_305"></span>[1](#fn_304) where he took service with the renowned
+id="fr_305"></span>[1](#fn_304.md) where he took service with the renowned
 Rajah Rituparna.
 
 Nala played on; he continued to throw the dice, until at length he had
@@ -241,7 +241,7 @@ beauty, and he uttered amorous words with whining voice. . . .
 Perceiving his evil intent, she was roused to fierce anger. Her chastity
 was her sole defence, and she cursed him so that he immediately fell
 down dead like to a tree that has been smitten by lightning and is
-suddenly blasted. <span id="fr_306"></span>[1](#fn_305)
+suddenly blasted. <span id="fr_306"></span>[1](#fn_305.md)
 
 Freed thus from the savage huntsman of wild beasts, the lotus-eyed
 Damayantí wandered on through the deep forest, which resounded
@@ -306,7 +306,7 @@ her heart she said: "Have I seen a vision? . . ." Then she went towards
 another region.
 
 Lamenting for Nala, the fair one came to a beauteous asoka tree <span
-id="fr_307"></span>[1](#fn_306): its green branches were gemmed with
+id="fr_307"></span>[1](#fn_306.md): its green branches were gemmed with
 gleaming fruit, and were melodious with the songs of birds. "O happy
 tree," she cried, "take away all my grief. . . . Say, hast thou beheld
 my Nala, the slayer of his enemies, my beloved lord? Oh! hast thou seen
@@ -355,13 +355,13 @@ bright lotus
 
 <span id="page_350">p. 350</span>
 
-blooms. <span id="fr_308"></span>[1](#fn_307) The camp was pitched in
+blooms. <span id="fr_308"></span>[1](#fn_307.md) The camp was pitched in
 the middle of a deep grove. Gladly did the men bathe with their wearied
 animals in the delicious, ice-cool waters.
 
 At midnight all slept. . . . In the deep silence a herd of wild forest
 elephants, with moisture oozing from their temples, <span
-id="fr_309"></span>[2](#fn_308) came down to drink from the gurgling
+id="fr_309"></span>[2](#fn_308.md) came down to drink from the gurgling
 stream which flowed nigh to the camp. When they scented the tame
 elephants lying crouched in slumber, they trumpeted aloud, and of a
 sudden charged ponderously and fell upon them like to mountain peaks
@@ -381,7 +381,7 @@ forest she came nigh to the few men who had found refuge, and she heard
 them say one to another:
 
 "What deed have we done to bring this misfortune upon us? Have we
-forgotten to adore Manibhadra <span id="fr_310"></span>[3](#fn_309), the
+forgotten to adore Manibhadra <span id="fr_310"></span>[3](#fn_309.md), the
 high king of the Yakshas? Worshipped we not, ere we set forth, the dread
 spirits which bring disasters? Was
 
@@ -398,7 +398,7 @@ witch, or she is a sorceress, or mayhap a demon. . . . Without doubt she
 is the cause of all our woes. . . . Would that we could find her--oh the
 evil destroyer! Oh the curse of our host! . . . Let us slay the
 murderess with clods and with stones, with canes and with staves, or
-else with our fists. . . ." <span id="fr_311"></span>[1](#fn_310)
+else with our fists. . . ." <span id="fr_311"></span>[1](#fn_310.md)
 
 When the terrified and innocent Damayantí heard these fearsome threats,
 she fled away through the trees, lamenting her fate, and wailing: "Alas!
@@ -456,34 +456,34 @@ There Damayantí dwelt for a time, waiting for her lost husband.
 
 ### Footnotes
 
-<span id="fn_303"></span>[340:1](iml26.htm#fr_304) The ceremony of
+<span id="fn_303"></span>[340:1](iml26.htm#fr_304.md) The ceremony of
 purification included the sipping of water and tie washing of feet.
 
-<span id="fn_304"></span>[342:1](iml26.htm#fr_305) Ayodhyá signifies
+<span id="fn_304"></span>[342:1](iml26.htm#fr_305.md) Ayodhyá signifies
 "invincible" city. It is identified with the modern Oude.
 
-<span id="fn_305"></span>[346:1](iml26.htm#fr_306) The power of a curse
+<span id="fn_305"></span>[346:1](iml26.htm#fr_306.md) The power of a curse
 is illustrated in Southey's *Curse of Kehama*.
 
-<span id="fn_306"></span>[348:1](iml26.htm#fr_307) A (not) soka
+<span id="fn_306"></span>[348:1](iml26.htm#fr_307) A (not.md) soka
 (sorrow). This beautiful tree has exquisitely coloured and abundant
 blossom, varying from rich orange red to primrose yellow. It is sacred
 to Siva.
 
-<span id="fn_307"></span>[350:1](iml26.htm#fr_308) They are coloured
+<span id="fn_307"></span>[350:1](iml26.htm#fr_308.md) They are coloured
 red, white, and blue.
 
-<span id="fn_308"></span>[350:2](iml26.htm#fr_309) Rutting elephants.
+<span id="fn_308"></span>[350:2](iml26.htm#fr_309.md) Rutting elephants.
 The seasonal juice is odorous, and issues from minute holes on each side
 of the elephant's temples.
 
-<span id="fn_309"></span>[350:3](iml26.htm#fr_310) Manibhadra, the
+<span id="fn_309"></span>[350:3](iml26.htm#fr_310.md) Manibhadra, the
 demi-god, was worshipped by travellers, and resembles Kuvera, god of
 wealth.
 
-<span id="fn_310"></span>[351:1](iml26.htm#fr_311) A curious glimpse of
+<span id="fn_310"></span>[351:1](iml26.htm#fr_311.md) A curious glimpse of
 Hindu ideas regarding demi-gods or demons.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. Nala in Exile](iml27)
+[Next: Chapter XXII. Nala in Exile](iml27.md)

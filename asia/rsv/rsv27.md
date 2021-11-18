@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv26)  [Next](rsv28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv26)  [Next](rsv28.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ them and married a poor unattractive peasant. While life was difficult,
 Thi-Kinh shared the meanest chores with her husband and found happiness
 in doing so.
 
-During one summer [siesta](errata.htm#33)-time as her husband was asleep
+During one summer [siesta](errata.htm#33.md)-time as her husband was asleep
 on the hammock, she noticed a stray hair of his beard growing in the
 wrong direction. Thinking to cut it off, she got a sharp knife and
 approached her husband. But her touch and the feel of the blade caused
@@ -58,7 +58,7 @@ well as for forgiveness of those who had caused her misery. Then in
 typical Vietnamese story fashion, she sank to the ground and died.
 
 When her story was heard by the Emperor of China, he was deeply moved by
-her abnegation and [chastity](errata.htm#34), so by royal decree she was
+her abnegation and [chastity](errata.htm#34.md), so by royal decree she was
 raised to the rank of divinity with the title of "Quan-Am Tong-Tu"-The
 Compassionate Protectress of Children. Today the cult has spread
 throughout the Far East.
@@ -71,4 +71,4 @@ beautiful serene face.
 
 ------------------------------------------------------------------------
 
-[Next: Fragrant Incense of Aloes Wood](rsv28)
+[Next: Fragrant Incense of Aloes Wood](rsv28.md)

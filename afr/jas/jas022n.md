@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas021n)  [Next](jas023n)   
- \[[22. Inside the Cow.](jas022)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas021n)  [Next](jas023n.md)   
+ \[[22. Inside the Cow.](jas022.md)\]
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ has laid the blame of killing the cow.
 
 ------------------------------------------------------------------------
 
-[Next: Note 23. Cunnie-more-than-Father.](jas023n)
+[Next: Note 23. Cunnie-more-than-Father.](jas023n.md)

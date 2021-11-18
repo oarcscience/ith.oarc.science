@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc44)  [Next](sfoc46) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc44)  [Next](sfoc46.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ pattern, on the occasion of a dance or ball play.
 
 ------------------------------------------------------------------------
 
-[Next: To Attract and Fix the Affections](sfoc46)
+[Next: To Attract and Fix the Affections](sfoc46.md)

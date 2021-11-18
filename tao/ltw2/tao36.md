@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao36)   
-[Previous](tao35)  [Next](tao37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao36.md)   
+[Previous](tao35)  [Next](tao37.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ even to the king's favorite.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 37](tao37)
+[Next: Chapter 37](tao37.md)

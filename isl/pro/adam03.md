@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam02)  [Next](adam04) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam02)  [Next](adam04.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ descendants until the time of doomsday.
 
 ------------------------------------------------------------------------
 
-[Next: The Inhabitation of Adam in Paradise](adam04)
+[Next: The Inhabitation of Adam in Paradise](adam04.md)

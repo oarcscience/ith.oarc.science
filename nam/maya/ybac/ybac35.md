@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac34)  [Next](ybac36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac34)  [Next](ybac36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ and rolled, and wrapped up.
 
 [Next: XXXII. Chastity And Education of the Indian Women of Yucatan.
 Their Chief Qualities and Their Household Economy. Their Devotion and
-the Special Observances at the Time of Childbirth](ybac36)
+the Special Observances at the Time of Childbirth](ybac36.md)

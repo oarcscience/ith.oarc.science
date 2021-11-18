@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXXVQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXXVQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[Hermetic Museum Index](../hermmuse/index)  
-**VOL. I** \| [VOL. II](../hm2/index)
+[Hermetic Museum Index](../hermmuse/index.md)  
+**VOL. I** \| [VOL. II](../hm2/index.md)
 
 ------------------------------------------------------------------------
 
@@ -32,8 +32,8 @@ Volume I</h1>
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](hm100)    [Page
-Index](pageidx)    [Text \[Zipped\]](hm1.txt.gz)
+[Contents](#contents)    [Start Reading](hm100.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](hm1.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,18 +43,18 @@ Index](pageidx)    [Text \[Zipped\]](hm1.txt.gz)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](hm100)  
-[Preface to the English Edition](hm101)  
-[Preface to Latin Original](hm102)  
-[Contents of Volume I](hm103)  
-[The Golden Tract Concerning the Stone of the Philosophers](hm104)  
-[The Golden Age Restored](hm105)  
-[The Sophic Hydrolith](hm106)  
-[A Demonstration of Nature](hm107)  
-[A Short Tract or Philosophical Summary](hm108)  
-[The Only True Way](hm109)  
-[The Glory of the World; or, Table of Paradise](hm110)  
-[A Tract of Great Price](hm111)  
-[The Book of Alze](hm112)  
-[The Book of Lambspring](hm113)  
-[The Golden Tripod](hm114)  
+<span id="contents"></span> [Title Page](hm100.md)  
+[Preface to the English Edition](hm101.md)  
+[Preface to Latin Original](hm102.md)  
+[Contents of Volume I](hm103.md)  
+[The Golden Tract Concerning the Stone of the Philosophers](hm104.md)  
+[The Golden Age Restored](hm105.md)  
+[The Sophic Hydrolith](hm106.md)  
+[A Demonstration of Nature](hm107.md)  
+[A Short Tract or Philosophical Summary](hm108.md)  
+[The Only True Way](hm109.md)  
+[The Glory of the World; or, Table of Paradise](hm110.md)  
+[A Tract of Great Price](hm111.md)  
+[The Book of Alze](hm112.md)  
+[The Book of Lambspring](hm113.md)  
+[The Golden Tripod](hm114.md)  

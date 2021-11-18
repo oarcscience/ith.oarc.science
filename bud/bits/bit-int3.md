@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits037) [Next](bits038)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits037) [Next](bits038.md)
 
 ------------------------------------------------------------------------
 
@@ -128,7 +128,7 @@ and then often forget its alien origin.
 
 ------------------------------------------------------------------------
 
-[Next: § 38. Be a Friend to Yourself](bits038)
+[Next: § 38. Be a Friend to Yourself](bits038.md)
 
  
 

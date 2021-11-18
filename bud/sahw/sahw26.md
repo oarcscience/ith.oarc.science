@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw25)  [Next](sahw27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw25)  [Next](sahw27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -65,7 +65,7 @@ And he cannot exhaust the world of Sentient Beings. For, supposing all
 men now living to be saved, and to come no more into this world of
 condemnation, fruitful Nature would still teem with fresh generations
 springing out of her exhaustless womb. The world will always have in it
-a majority of unsaved persons. <span id="fr_116"></span>[\*](#fn_116)
+a majority of unsaved persons. <span id="fr_116"></span>[\*](#fn_116.md)
 
 We have, therefore, says. our author, nothing to do but to wait for the
 swinging of the pendulum which shall once more make religion a matter of
@@ -84,13 +84,13 @@ training have hitherto lain far apart from one another, yet, underlying
 it all, there has been an almost identical Faith in the One Father and
 the One Saviour, and that the Law (of Buddha) is the School-master which
 is leading Japan and China to Christ. <span
-id="fr_117"></span>[\*](#fn_117)
+id="fr_117"></span>[\*](#fn_117.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_116"></span>[152:\*](sahw26.htm#fr_116) The three things
+<span id="fn_116"></span>[152:\*](sahw26.htm#fr_116.md) The three things
 that are impossible are this expressed:
 
 <div style="margin-left: 32px">
@@ -103,10 +103,10 @@ that are impossible are this expressed:
 
 </div>
 
-<span id="fn_117"></span>[153:\*](sahw26.htm#fr_117) I leave to the
+<span id="fn_117"></span>[153:\*](sahw26.htm#fr_117.md) I leave to the
 Appendix the discussion of what I may call the sources of Shinshu
 Theology.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix I. Kōmyōji.](sahw27)
+[Next: Appendix I. Kōmyōji.](sahw27.md)

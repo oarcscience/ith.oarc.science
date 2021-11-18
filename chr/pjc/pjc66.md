@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc65)  [Next](pjc67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc65)  [Next](pjc67.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -70,7 +70,7 @@ form a perfect cross.
 
 The large stone with which they intended to close the sepulchre, and
 which was still lying in front of the grotto, was in shape very like a
-chest <span id="fr_20"></span>[1](#fn_20) or tomb; its length was such
+chest <span id="fr_20"></span>[1](#fn_20.md) or tomb; its length was such
 that a man might have laid himself down upon it, and it was so heavy
 that it was only by means of levers that the men could roll it before
 the door of the sepulchre. The entrance of the grotto was closed by a
@@ -82,7 +82,7 @@ penetrated there.
 
 ### Footnotes
 
-<span id="fn_20"></span>[301:1](pjc66.htm#fr_20) Apparently Sister
+<span id="fn_20"></span>[301:1](pjc66.htm#fr_20.md) Apparently Sister
 Emmerich here spoke of the ancient eases in which her poor countrymen
 keep their clothes. The lower part of these cases is smaller than the
 upper, and this gives them some likeness to a tomb. She had one of these
@@ -93,4 +93,4 @@ clear idea of its shape.
 ------------------------------------------------------------------------
 
 [Next: Chapter LIII. The Return from the Sepulchre.--Joseph of Arimathea
-is put in Prison](pjc67)
+is put in Prison](pjc67.md)

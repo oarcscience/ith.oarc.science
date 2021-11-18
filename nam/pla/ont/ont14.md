@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont13)  [Next](ont15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont13)  [Next](ont15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -254,7 +254,7 @@ and will speak the truth.
 
 <span id="img_17400"></span> <span align="CENTER"> [![A WOMAN'S VOW TO
 THE SUN.](tn/17400.jpg)  
-Click to enlarge](img/17400.jpg)  
+Click to enlarge](img/17400.jpg.md)  
 A WOMAN'S VOW TO THE SUN.  
 </span>
 
@@ -315,7 +315,7 @@ When night fell, and a cold breeze blew from the
 
 <span id="img_17700"></span> <span align="CENTER"> [![WHEN NIGHT
 FELL.](tn/17700.jpg)  
-Click to enlarge](img/17700.jpg)  
+Click to enlarge](img/17700.jpg.md)  
 WHEN NIGHT FELL.  
 </span>
 
@@ -337,4 +337,4 @@ it was the first sound to greet my ears when I wakened in the morning.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Beginning of the Sun-Dance](ont15)
+[Next: Chapter XII. Beginning of the Sun-Dance](ont15.md)

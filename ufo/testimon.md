@@ -299,4 +299,4 @@ Psychic Claimants. Buffalo, N.Y.: Prometheus Books.
 
 ------------------------------------------------------------------------
 
-[Next: Resolving The ET Question in a Vacuum of Data](theories)
+[Next: Resolving The ET Question in a Vacuum of Data](theories.md)

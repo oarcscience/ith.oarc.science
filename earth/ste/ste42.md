@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste41)  [Next](ste43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste41)  [Next](ste43.md) 
 
 ------------------------------------------------------------------------
 
@@ -334,4 +334,4 @@ to the present World, in a short review of its last flames.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](ste43)
+[Next: Chapter XII](ste43.md)

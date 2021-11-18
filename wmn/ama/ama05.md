@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](ama04)  [Next](ama06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](ama04)  [Next](ama06.md) 
 
 ------------------------------------------------------------------------
 
@@ -545,7 +545,7 @@ rather conveys the idea that this was the normal condition of affairs.
 
 [![FRAGMENTS FROM MONSOLUS FRIEZE&lt;BR&gt; (BRITISH
 MUSEUM).](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)  
+Click to enlarge](img/08000.jpg.md)  
 FRAGMENTS FROM MONSOLUS FRIEZE  
 (BRITISH MUSEUM).  
 
@@ -559,7 +559,7 @@ mysterious lady, who after their marriage and birth of children flies
 off to the island of Wak-Wak, thus having some analogy with the charming
 Lilith, according to the Talmudists Adam's first wife, who, having
 peopled the earth with devils, flew away to mate with Satan and beget
-the whole legion of jinns. <span id="fr_0"></span>[1](#fn_0) Hasan's
+the whole legion of jinns. <span id="fr_0"></span>[1](#fn_0.md) Hasan's
 wife, we are told, was the daughter of a very great king, who ruled over
 men and jinns. He had an army, 25,000 strong, of women, "smiters with
 swords and lungers with lances," any one of whom when mounted on a swift
@@ -662,10 +662,10 @@ with the dusky rulers of the Upper Nile and the west coast of Africa.
 
 ### Footnotes
 
-<span id="fn_0"></span>[81:1](ama05.htm#fr_0) This was, no doubt, an
+<span id="fn_0"></span>[81:1](ama05.htm#fr_0.md) This was, no doubt, an
 attempt on the part of the Talmudists to account for the worship of
 demons by the early Hebrews.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Modern Amazons of the Caucasus](ama06)
+[Next: Chapter V: Modern Amazons of the Caucasus](ama06.md)

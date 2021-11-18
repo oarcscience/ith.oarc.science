@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft30)  [Next](zft32) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft30)  [Next](zft32.md) 
 
 ------------------------------------------------------------------------
 
@@ -389,4 +389,4 @@ Thus shortens my story.
 ------------------------------------------------------------------------
 
 [Next: How The Twins Of War And Chance, Áhaiyúta And Mátsailéma, Fared
-With The Unborn-Made Men Of The Underworld](zft32)
+With The Unborn-Made Men Of The Underworld](zft32.md)

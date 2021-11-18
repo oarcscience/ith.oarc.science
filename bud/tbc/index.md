@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte.md)
 
 </div>
 
@@ -29,8 +29,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tbc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](tbc.txt.gz)
+[Contents](#contents)    [Start Reading](tbc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](tbc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -51,18 +51,18 @@ Theosophists world-wide.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](tbc00)  
-[Dedication](tbc01)  
-[Contents](tbc02)  
-[Certificates, First and Third-Third edition](tbc03)  
-[Preface to the Thirty-Third Edition](tbc04)  
-[Preface to the Thirty-Sixth Edition](tbc05)  
-[Preface to the Fortieth Edition](tbc06)  
-[Preface to the Forty-Second Edition](tbc07)  
-[Part I. The Life of the Buddha](tbc08)  
-[Part II. The Dharma or Doctrine](tbc09)  
-[Part III. The Sangha](tbc10)  
-[Part IV. The Rise and Spread of Buddhism](tbc11)  
-[Part V. Buddhism and Science](tbc12)  
-[Appendix](tbc13)  
-[Bibliography](tbc14)  
+<span id="contents"></span> [Title Page](tbc00.md)  
+[Dedication](tbc01.md)  
+[Contents](tbc02.md)  
+[Certificates, First and Third-Third edition](tbc03.md)  
+[Preface to the Thirty-Third Edition](tbc04.md)  
+[Preface to the Thirty-Sixth Edition](tbc05.md)  
+[Preface to the Fortieth Edition](tbc06.md)  
+[Preface to the Forty-Second Edition](tbc07.md)  
+[Part I. The Life of the Buddha](tbc08.md)  
+[Part II. The Dharma or Doctrine](tbc09.md)  
+[Part III. The Sangha](tbc10.md)  
+[Part IV. The Rise and Spread of Buddhism](tbc11.md)  
+[Part V. Buddhism and Science](tbc12.md)  
+[Appendix](tbc13.md)  
+[Bibliography](tbc14.md)  

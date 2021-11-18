@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam07)  [Next](adam09) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam07)  [Next](adam09.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ would be in My paradise nor My heavens.
 
 ------------------------------------------------------------------------
 
-[Next: Place of falling of Adam and Eve](adam09)
+[Next: Place of falling of Adam and Eve](adam09.md)

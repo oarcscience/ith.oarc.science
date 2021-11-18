@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet10)  [Next](tet12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet10)  [Next](tet12.md) 
 
 ------------------------------------------------------------------------
 
@@ -471,4 +471,4 @@ to kindly avoid such vehemently revengeful lovers for the future.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Chiefly as to Funerals and Mourning](tet12)
+[Next: Chapter X. Chiefly as to Funerals and Mourning](tet12.md)

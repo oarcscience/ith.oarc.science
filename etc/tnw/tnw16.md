@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw15)  [Next](tnw17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw15)  [Next](tnw17.md) 
 
 ------------------------------------------------------------------------
 
@@ -513,4 +513,4 @@ rustling of the palms.
 
 ------------------------------------------------------------------------
 
-[Next: 16. Theology: The Painted Window](tnw17)
+[Next: 16. Theology: The Painted Window](tnw17.md)

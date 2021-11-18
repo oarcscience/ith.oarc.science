@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](cig08)  [Next](cig10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](cig08)  [Next](cig10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Coffee in the Gourd*, ed. J. Frank Dobie \[1923\], at Intangible
 Textual Heritage
 
@@ -279,6 +279,6 @@ had died away, the "blowout" became a part of the community history.
 
 ------------------------------------------------------------------------
 
-[Next: Miscellany of Texas Folk-Lore, by W. P. Webb](cig10)
+[Next: Miscellany of Texas Folk-Lore, by W. P. Webb](cig10.md)
 
 </div>

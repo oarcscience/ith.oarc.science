@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat17.htm#CXXXVI) 
-[Previous](satl135)  [Next](satl137) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat17.htm#CXXXVI.md) 
+[Previous](satl135)  [Next](satl137.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ potius quam mei misereretur.
 
 ------------------------------------------------------------------------
 
-[Next: CXXXVII](satl137)
+[Next: CXXXVII](satl137.md)

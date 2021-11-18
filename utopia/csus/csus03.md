@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus02)  [Next](csus04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus02)  [Next](csus04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -154,7 +154,7 @@ Trades-Union leaders the Chicago or Boston fire seemed a more beneficial
 
 event than the invention of the steam-engine; for plenty seems to them a
 curse, and scarcity the greatest blessing. <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 <span id="page_16">p. 16</span>
 
@@ -194,7 +194,7 @@ return, indeed, for their mere labor, it is to this that they must look
 for their sole reward; but *they may help production otherwise than by
 their labor: they may save, and thus become themselves the owners of
 capital;* and profits may thus be brought to aid the wages-fund." <span
-id="fr_1"></span>[\*](#fn_1)
+id="fr_1"></span>[\*](#fn_1.md)
 
 Aside from systematized emigration to unsettled or thinly peopled
 regions, which the Trades-Unions of Europe ought to organize on a great
@@ -410,14 +410,14 @@ but I am not what is commonly called a "Spiritualist."
 <span id="img_map"></span>
 
 [![Map Showing Location of Communistic Societies](tn/map.jpg)  
-Click to enlarge](img/map.jpg)  
+Click to enlarge](img/map.jpg.md)  
 Map Showing Location of Communistic Societies  
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[15:\*](csus03.htm#fr_0) Lest I should to some
+<span id="fn_0"></span>[15:\*](csus03.htm#fr_0.md) Lest I should to some
 readers appear to use too strong language, I append here a few passages
 from a recent English work, Mr. Thornton's book "On Labor," where he
 gives an account of some of the regulations of English Trades-Unions:
@@ -481,10 +481,10 @@ of the Manchester Law Courts, the bricklayers' laborers struck because
 they were desired to wheel bricks instead of carrying them on their
 shoulders."
 
-<span id="fn_1"></span>[17:\*](csus03.htm#fr_1) "Some Leading Principles
+<span id="fn_1"></span>[17:\*](csus03.htm#fr_1.md) "Some Leading Principles
 of Political Economy Newly Expounded." By J. E. Cairnes, M.A. New York,
 Harper & Brothers.
 
 ------------------------------------------------------------------------
 
-[Next: I. Introduction](csus04)
+[Next: I. Introduction](csus04.md)

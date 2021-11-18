@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio10)  [Next](dio12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio10)  [Next](dio12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ their own sphere and limit, without confusion, and without mingling; and
 preserves the order and good relations of the whole, for their own
 proper good, and guards the undying lives of the individual angels
 inviolate; and the heavenly and the life-giving and astral bodies <span
-id="fr_50"></span>[51](#fn_50) and orders without change: and makes the
+id="fr_50"></span>[51](#fn_50.md) and orders without change: and makes the
 period of time possible to be; and disperses the revolutions of time by
 their progressions, and collects them together by their returns; and
 makes the powers of fire unquenchable, and the rills of water unfailing;
@@ -231,10 +231,10 @@ id="ii.ii.ii.viii-Page_102"></span>
 
 ### Footnotes
 
-<span id="fn_50"></span>[96:51](dio11.htm#fr_50) <span
+<span id="fn_50"></span>[96:51](dio11.htm#fr_50.md) <span
 id="ii.ii.ii.viii-p11.1"></span><span
 id="ii.ii.ii.viii-p11.2"></span>οὐσίας
 
 ------------------------------------------------------------------------
 
-[Next: Caput IX.](dio12)
+[Next: Caput IX.](dio12.md)

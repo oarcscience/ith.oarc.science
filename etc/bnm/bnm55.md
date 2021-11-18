@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm54)  [Next](bnm56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm54)  [Next](bnm56.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ together again.
 
 ------------------------------------------------------------------------
 
-[Next: The Lantern And The Fan.](bnm56)
+[Next: The Lantern And The Fan.](bnm56.md)

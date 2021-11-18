@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Mysticism](../../myst/index)  [Index](index)  [Previous](cjb07) 
-[Next](cjb09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Mysticism](../../myst/index)  [Index](index)  [Previous](cjb07.md) 
+[Next](cjb09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574NM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574NM/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Confessions of Jacob Boehme*, by Jacob Boehme, ed. W. Scott Palmer
 \[1920\], at Intangible Textual Heritage
 
@@ -208,6 +208,6 @@ where Paul heard words unutterable that no man can express.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](cjb09)
+[Next: Chapter VII](cjb09.md)
 
 </div>

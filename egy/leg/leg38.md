@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg37)  [Next](leg39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg37)  [Next](leg39.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,10 +30,10 @@ them, or to some symbols
 
 there exhibited. Thus, their great king and lord Osiris is represented
 by the hieroglyphics for an eye and a sceptre, <span
-id="fr_287"></span>[1](#fn_285) the name itself signifying "many-eyed,"
-as we are told by some <span id="fr_288"></span>[2](#fn_286) who would
-derive it from the words *os*, <span id="fr_289"></span>[3](#fn_287)
-"many," and *iri*, <span id="fr_290"></span>[4](#fn_288) an "eye," which
+id="fr_287"></span>[1](#fn_285.md) the name itself signifying "many-eyed,"
+as we are told by some <span id="fr_288"></span>[2](#fn_286.md) who would
+derive it from the words *os*, <span id="fr_289"></span>[3](#fn_287.md)
+"many," and *iri*, <span id="fr_290"></span>[4](#fn_288.md) an "eye," which
 have this meaning in the Egyptian language. Similarly, because the
 heavens are eternal and are never consumed or wax old, they represent
 them by a heart with a censer placed under it. Much in the same way are
@@ -51,7 +51,7 @@ but also nourishment for them as soon as they are born.
 
 ### Footnotes
 
-<span id="fn_285"></span>[213:1](leg38.htm#fr_287) The oldest form of
+<span id="fn_285"></span>[213:1](leg38.htm#fr_287.md) The oldest form of
 the name is AS-AR, <span id="img_21300"></span> ![](img/21300.jpg); the
 first sign, <span id="img_21301"></span> ![](img/21301.jpg), is a
 throne, and the second, <span id="img_21302"></span> ![](img/21302.jpg),
@@ -62,15 +62,15 @@ phonetic value *as* or *us*. Thus we have the forms <span
 id="img_21304"></span> ![](img/21304.jpg) and <span
 id="img_21305"></span> ![](img/21305.jpg).
 
-<span id="fn_286"></span>[213:2](leg38.htm#fr_288) This is a mistake.
+<span id="fn_286"></span>[213:2](leg38.htm#fr_288.md) This is a mistake.
 
-<span id="fn_287"></span>[213:3](leg38.htm#fr_289) In Egyptian, <span
+<span id="fn_287"></span>[213:3](leg38.htm#fr_289.md) In Egyptian, <span
 id="img_21306"></span> ![](img/21306.jpg) *ash*, "many."
 
-<span id="fn_288"></span>[213:4](leg38.htm#fr_290) in Egyptian, <span
+<span id="fn_288"></span>[213:4](leg38.htm#fr_290.md) in Egyptian, <span
 id="img_21307"></span> ![](img/21307.jpg) *art*, Coptic <span
 id="img_21308"></span> ![](img/21308.jpg), "eye."
 
 ------------------------------------------------------------------------
 
-[Next: Section XI.](leg39)
+[Next: Section XI.](leg39.md)

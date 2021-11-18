@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd13)  [Next](bsd15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd13)  [Next](bsd15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -28,7 +28,7 @@ fidelity is a moral adhesion existing among all sorts and conditions of
 men,--a gang of pickpockets owe allegiance to a Fagin; but it is only in
 the code of chivalrous honour that loyalty assumes paramount importance.
 
-In spite of Hegel's criticism <span id="fr_16"></span>[1](#fn_16) that
+In spite of Hegel's criticism <span id="fr_16"></span>[1](#fn_16.md) that
 the fidelity of feudal vassals, being an obligation to an individual and
 not to a commonwealth, is a bond established on totally unjust
 principles, a great compatriot of his made it his boast that personal
@@ -50,7 +50,7 @@ the sole boundary beyond which French justice finds no accord.
 Similarly, loyalty as we conceive it may find few admirers elsewhere,
 not because our conception is wrong, but because it is, I am afraid,
 forgotten, and also because we carry it to a degree not reached in any
-other country. Griffis <span id="fr_17"></span>[1](#fn_17) was
+other country. Griffis <span id="fr_17"></span>[1](#fn_17.md) was
 
 <span id="page_84">p. 84</span>
 
@@ -171,7 +171,7 @@ ethical outcome of this political theory.
 
 I am not entirely ignorant of Mr. Spencer's view according to which
 political obedience--loyalty--is accredited with only a transitional
-function. <span id="fr_18"></span>[1](#fn_18) It may be so. Sufficient
+function. <span id="fr_18"></span>[1](#fn_18.md) It may be so. Sufficient
 
 <span id="page_90">p. 90</span>
 
@@ -255,14 +255,14 @@ samurai were conducted accordingly.
 
 ### Footnotes
 
-<span id="fn_16"></span>[82:1](bsd14.htm#fr_16) *Philosophy of History*
+<span id="fn_16"></span>[82:1](bsd14.htm#fr_16.md) *Philosophy of History*
 (Eng. trans. by Sibree), Pt. IV., sec. ii., ch. i.
 
-<span id="fn_17"></span>[83:1](bsd14.htm#fr_17) *Religions of Japan*.
+<span id="fn_17"></span>[83:1](bsd14.htm#fr_17.md) *Religions of Japan*.
 
-<span id="fn_18"></span>[89:1](bsd14.htm#fr_18) *Principles of Ethics*,
+<span id="fn_18"></span>[89:1](bsd14.htm#fr_18.md) *Principles of Ethics*,
 Vol. I., pt. ii., ch. x.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: The Education and Training of a Samurai](bsd15)
+[Next: Chapter X: The Education and Training of a Samurai](bsd15.md)

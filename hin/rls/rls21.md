@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls20)  [Next](rls22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls20)  [Next](rls22.md) 
 
 ------------------------------------------------------------------------
 
@@ -181,16 +181,16 @@ even before the creation, namely, Nâma-rûpa, the names and forms, as yet
 undeveloped, but striving for development (avyâ*kri*te,
 vyâ*k*ikîrshite), that is the words of the Veda living in the mind of
 the creator even before the creation <span
-id="fr_10"></span>[1](#fn_10).' Might not this have been written by
+id="fr_10"></span>[1](#fn_10.md).' Might not this have been written by
 Plato himself?
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_10"></span>[80:1](rls21.htm#fr_10) See Deussen, Das System
+<span id="fn_10"></span>[80:1](rls21.htm#fr_10.md) See Deussen, Das System
 des Vedânta, pp. 75, 147.
 
 ------------------------------------------------------------------------
 
-[Next: Gnôthi seautón](rls22)
+[Next: Gnôthi seautón](rls22.md)

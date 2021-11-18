@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth094)  [Next](toth096) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth094)  [Next](toth096.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 92. THE SPARROW-HAWK AND THE GRASSHOPPERS. <span id="fr_176"></span>[2](#fn_174)
+## 92. THE SPARROW-HAWK AND THE GRASSHOPPERS. <span id="fr_176"></span>[2](#fn_174.md)
 
 Halíksai! A long time ago a Sparrow-Hawk lived at Kâlâ'tipka, somewhat
 northwest of Oraíbi. The Sparrow-Hawk had some children, so every day
@@ -54,9 +54,9 @@ village.
 
 ### Footnotes
 
-<span id="fn_174"></span>[231:2](toth095.htm#fr_176) Told by Wíkvaya
+<span id="fn_174"></span>[231:2](toth095.htm#fr_176.md) Told by Wíkvaya
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 93. The Crow and the Hawk](toth096)
+[Next: 93. The Crow and the Hawk](toth096.md)

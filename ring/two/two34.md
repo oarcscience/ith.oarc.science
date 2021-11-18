@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Index](index)  [Previous](two33)  [Next](two35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Index](index)  [Previous](two33)  [Next](two35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Worm Ouroboros*, by E. R. Eddison, \[1922\], at Intangible Textual
 Heritage
 
@@ -140,7 +140,7 @@ the cold and his moustachios stiff with hoar-frost.
 
 <span id="img_42100"></span> <span align="CENTER"> [![HIPPOGRIFF IN
 FLIGHT](tn/42100.jpg)  
-Click to enlarge](img/42100.jpg)  
+Click to enlarge](img/42100.jpg.md)  
 HIPPOGRIFF IN FLIGHT  
 </span>
 
@@ -503,4 +503,4 @@ Surely there was joy in all their hearts that day.
 
 ------------------------------------------------------------------------
 
-[Next: XXIX. The Fleet at Muelva](two35)
+[Next: XXIX. The Fleet at Muelva](two35.md)

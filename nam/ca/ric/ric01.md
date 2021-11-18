@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ric00)  [Next](ric02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ric00)  [Next](ric02.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ indirectly participates; in other words, ceremonies.
 
 ------------------------------------------------------------------------
 
-[Next: Customary Observances by Individuals](ric02)
+[Next: Customary Observances by Individuals](ric02.md)

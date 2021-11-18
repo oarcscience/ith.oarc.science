@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar064) [Next](gbar066)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar064) [Next](gbar066.md)
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ to hear his words; whereat the priests were consumed with envy.
 
 ------------------------------------------------------------------------
 
-[Next](gbar066)
+[Next](gbar066.md)

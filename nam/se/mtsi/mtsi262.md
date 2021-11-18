@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi261)  [Next](mtsi263) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi261)  [Next](mtsi263.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ Buzzard a switching.
 
 ------------------------------------------------------------------------
 
-[Next: 63. Rabbit Fools Wildcat](mtsi263)
+[Next: 63. Rabbit Fools Wildcat](mtsi263.md)

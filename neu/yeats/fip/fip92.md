@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip91)  [Next](fip93) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip91)  [Next](fip93.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_325">p. 325</span>
 
-### DEMON CAT.--Page [229](fip64.htm#page_229).
+### DEMON CAT.--Page [229](fip64.htm#page_229.md).
 
 In Ireland one hears much of Demon Cats. The father of one of the
 present editors of the *Fortnightly* had such a cat, say county Dublin
@@ -24,4 +24,4 @@ tatters, at once the butt and terror of the saints!
 
 ------------------------------------------------------------------------
 
-[Next: A Legend of Knockmany](fip93)
+[Next: A Legend of Knockmany](fip93.md)

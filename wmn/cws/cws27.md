@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws26)  [Next](cws28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws26)  [Next](cws28.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XXIII
 
-#### CONCERNING REGENERATION <span id="fr_102"></span>[1](#fn_102)
+#### CONCERNING REGENERATION <span id="fr_102"></span>[1](#fn_102.md)
 
 THE difference between the "Son of God" and the mere prophet is that the
 former is born regenerate, and is therefore said to be "born of a
-virgin." <span id="fr_103"></span>[2](#fn_103) But regeneration is a
+virgin." <span id="fr_103"></span>[2](#fn_103.md) But regeneration is a
 union of the soul and spirit, and is not a process in which the body
 bears a part. In the "Baptism" Jesus received the, Æon, or "Dove," and
 was filled with the Holy Ghost, becoming a Medium for the Highest. The
@@ -25,7 +25,7 @@ holds neither the "kingdom" nor the "glory." For these are of Christ.
 The adept knows not the kingdom of heaven, and "the least in this
 kingdom are greater than he." "Desire *first* the kingdom of God and
 God's righteousness; and all these things shall be added unto you." As
-Jesus said of Prometheus, <span id="fr_104"></span>[3](#fn_104) "Take no
+Jesus said of Prometheus, <span id="fr_104"></span>[3](#fn_104.md) "Take no
 thought for to-morrow. Behold the lilies of the field and the birds of
 the air, and trust God as these." For the saint has faith; the adept has
 knowledge. If the adepts in occultism or in physical science could
@@ -43,7 +43,7 @@ from above, is above all." For one man may begin from within, that is,
 with wisdom, and wisdom is one with love. Blessed is the man who
 chooseth wisdom, for she leaveneth all things. And another man may begin
 from without, and that which is without is power. To such there shall be
-a thorn in the flesh. <span id="fr_105"></span>[1](#fn_105) For it is
+a thorn in the flesh. <span id="fr_105"></span>[1](#fn_105.md) For it is
 hard in such case to attain to the within. But if a man be first wise
 inwardly, he shall the more easily have this also added unto him. For he
 is born again and is free. Whereas at a great price must the adept buy
@@ -75,34 +75,34 @@ will be perfect. seek
 
 both that which is within and that which is without; and the circle of
 being, which is the "wheel of life," shall be complete in you. <span
-id="fr_106"></span>[1](#fn_106)
+id="fr_106"></span>[1](#fn_106.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_102"></span>[63:1](cws27.htm#fr_102) London, June 1881.
+<span id="fn_102"></span>[63:1](cws27.htm#fr_102.md) London, June 1881.
 Received in sleep, in answer to an inquiry respecting the advisability
 of studying occult science.    E. M.
 
 Referred to in *Life of Anna Kingsford*, vol. ii, pp. 97-98.
 
-<span id="fn_103"></span>[63:2](cws27.htm#fr_103) *I.e.* his own soul
+<span id="fn_103"></span>[63:2](cws27.htm#fr_103.md) *I.e.* his own soul
 purified from taint of materiality-the soul being always the "mother" of
 the mystic or interior man. See "Definitions" in Appendix.    E. M.
 
-<span id="fn_104"></span>[63:3](cws27.htm#fr_104) A term which signifies
+<span id="fn_104"></span>[63:3](cws27.htm#fr_104.md) A term which signifies
 forethought. The remonstrance is against undue anxiety and alarm on the
 soul's behalf while in the path of duty, as implying distrust of the
 divine sufficiency. See Appendix, note J.    E. M.
 
-<span id="fn_105"></span>[64:1](cws27.htm#fr_105) *I.e.* the flesh
+<span id="fn_105"></span>[64:1](cws27.htm#fr_105.md) *I.e.* the flesh
 itself is their thorn. E. M.
 
-<span id="fn_106"></span>[65:1](cws27.htm#fr_106) The above
+<span id="fn_106"></span>[65:1](cws27.htm#fr_106.md) The above
 interpretation concerning Rachel and Leah, as we subsequently
 ascertained, is on the lines of the Kabala.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: No. XXIV: Concerning The Man Regenerate](cws28)
+[Next: No. XXIV: Concerning The Man Regenerate](cws28.md)

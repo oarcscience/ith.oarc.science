@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap57) 
-[Next](bap59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap57.md) 
+[Next](bap59.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ shouldest not bear; set me free, therefore, that I may take an other
 wife lest I die without issue. And she said: The Lord hath not shut up
 me from bearing, but thee, that I should bear no fruit. And he said to
 her: Let the law make plain our trial. <span
-id="fr_134"></span>[1](#fn_134) 2. And as they contended day by day and
+id="fr_134"></span>[1](#fn_134.md) 2. And as they contended day by day and
 both of them were sore grieved because they lacked fruit, upon a certain
 night the woman went up into the upper chamber and prayed saying: Do
 thou, O Lord God of all flesh, reveal unto me whether unto my husband or
@@ -248,10 +248,10 @@ of his father. And he judged Israel twenty years.
 
 ### Footnotes
 
-<span id="fn_134"></span>[195:1](bap58.htm#fr_134) XLII. 1. *Let the law
+<span id="fn_134"></span>[195:1](bap58.htm#fr_134.md) XLII. 1. *Let the law
 make plain our trial*: *Experimentum nostrum manifestat* (-*et* P.
 -*abit* R) *lex*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLIV](bap59)
+[Next: Chapter XLIV](bap59.md)

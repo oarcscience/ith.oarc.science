@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](elms08)  [Next](elms10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](elms08)  [Next](elms10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Edinburgh Lectures on Mental Science*, by Thomas Troward, \[1909\],
 at Intangible Textual Heritage
 
@@ -262,6 +262,6 @@ Intelligence, responsive to our own recognition of it.
 ------------------------------------------------------------------------
 
 [Next: VIII.—Reciprocal Action of the Universal and Individual
-Minds](elms10)
+Minds](elms10.md)
 
 </div>

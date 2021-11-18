@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd00)  [Next](htd02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd00)  [Next](htd02.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@
 # PREFACE.
 
 ALL SWEETNESS, says the Rig Weda, IS COLLECTED IN THE HEIFER <span
-id="fr_0"></span>[a](#fn_0): the Red One of the Dawn. And the Oriental
+id="fr_0"></span>[a](#fn_0.md): the Red One of the Dawn. And the Oriental
 use of the word, *heifer*, to signify a wife or queen, is familiar to
 every reader of the Hebrew Bible. If ye had not ploughed with my heifer,
 said Samson, ye had not found out my riddle. Thus the meaning of the
 title of this little story is at once clear: *the collected sweetness of
-the heifer*: i.e., the ambrosia <span id="fr_1"></span>[b](#fn_1) of the
+the heifer*: i.e., the ambrosia <span id="fr_1"></span>[b](#fn_1.md) of the
 early morning, in a feminine form.
 
 All know it, the nectar of dawn, who are wise enough to rise, like the
@@ -24,7 +24,7 @@ for example, is a very old God: as some of the ancient Greeks
 
 <span id="page_viii">p. viii</span>
 
-told us, even the very oldest of all <span id="fr_2"></span>[c](#fn_2).
+told us, even the very oldest of all <span id="fr_2"></span>[c](#fn_2.md).
 Why is that? Because he comes out of the East: he belongs to the Dawn.
 EROS, EOS, AURORA, USHAS, ARUSHA. First comes Night, and Chaos: and
 then, out of the black there arises, silently, imperceptibly,
@@ -41,7 +41,7 @@ and Iranian, the Weda and Awesta, for the Cow?
 
 Partly, no doubt, its utilitarian value. But they are deceived, who
 think that this is all. There is religion <span
-id="fr_3"></span>[d](#fn_3) in it, mysticism, æsthetic affection. The
+id="fr_3"></span>[d](#fn_3.md) in it, mysticism, æsthetic affection. The
 Cow is an Idea. This was first brought home to the translator in the
 following way.
 
@@ -68,7 +68,7 @@ spectator seized his opportunity as they wandered by, and offered
 tribute and homage to the Mother and the Child. A pair of great eyes
 stared at him with alarm, but the slender little brown fingers shut down
 instinctively over the silver rupee. Then they passed on, the little
-deity and its tutelary 'vehicle' <span id="fr_4"></span>[e](#fn_4)
+deity and its tutelary 'vehicle' <span id="fr_4"></span>[e](#fn_4.md)
 moving delicately with that undulating hesitation which the Creator has
 bestowed only upon women and cows, reached the black jaws
 
@@ -91,27 +91,27 @@ intractability of the inscrutable East.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:a](htd01.htm#fr_0) iii. 3O, 14. (The
+<span id="fn_0"></span>[vii:a](htd01.htm#fr_0.md) iii. 3O, 14. (The
 translation is literally exact: wishwam swádma sambhritam usriyáyam.)
 
-<span id="fn_1"></span>[vii:b](htd01.htm#fr_1) The feminine form,
+<span id="fn_1"></span>[vii:b](htd01.htm#fr_1.md) The feminine form,
 *amritá*, is the name of one of the digits of the moon. And *apropos*:
 could we penetrate into the darkness of mythological origins, we might
 perhaps discover, that the *half-moon* on the forehead of Maheshwara is
 related to the *horns* of his bull. And similarly, Isis, the *hornèd
 moon* = Io, the *heifer*.
 
-<span id="fn_2"></span>[viii:c](htd01.htm#fr_2) As also in Rig Weda, 10.
+<span id="fn_2"></span>[viii:c](htd01.htm#fr_2.md) As also in Rig Weda, 10.
 129. 4.
 
-<span id="fn_3"></span>[viii:d](htd01.htm#fr_3) If you like,
+<span id="fn_3"></span>[viii:d](htd01.htm#fr_3.md) If you like,
 superstition. But it is not growing weaker. I have repeatedly suggested,
 to comparatively emancipated Hindoos, that cows might be killed. The
 very possibility was always repudiated with horror and disgust.
 
-<span id="fn_4"></span>[ix:e](htd01.htm#fr_4) Every Hindoo deity has his
+<span id="fn_4"></span>[ix:e](htd01.htm#fr_4.md) Every Hindoo deity has his
 (or her) 'vehicle,' or *wáhana*.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](htd02)
+[Next: Contents](htd02.md)

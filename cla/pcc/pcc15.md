@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc14)  [Next](pcc16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc14)  [Next](pcc16.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ despondent lion or eagle at the Zoo, have never even seen or loved them
 and have only wondered with our true commercial instinct what profit we
 could extract from them. But they, the primitives, loved and admired the
 animals; they domesticated many of them by the force of a natural
-friendship, <span id="fr_239"></span>[1](#fn_239) and accorded them a
+friendship, <span id="fr_239"></span>[1](#fn_239.md) and accorded them a
 kind of divinity. This was the age of tribal solidarity and of a latent
 sense of solidarity with Nature. And the point of it all is (with regard
 to he subject we have in hand) that this was also the age from which by
@@ -105,7 +105,7 @@ consciousness.
 
 Let us pass then to the Second Stage. There is a moment in the evolution
 of a child--somewhere perhaps about the age of three <span
-id="fr_240"></span>[1](#fn_240)--when the simple almost animal-like
+id="fr_240"></span>[1](#fn_240.md)--when the simple almost animal-like
 consciousness of the babe is troubled by a new
 element--*self*-consciousness. The change is so marked, so definite,
 that (in the depth of the infant's eyes) you can almost SEE it take
@@ -247,7 +247,7 @@ mankind *after* the first formation and use of language.
 
 That the birth of language and the birth of self-consciousness were
 *approximately* simultaneous is a probable theory, and one favored by
-many thinkers; <span id="fr_241"></span>[1](#fn_241) but the slow
+many thinkers; <span id="fr_241"></span>[1](#fn_241.md) but the slow
 beginnings of both must have been so very protracted that it is perhaps
 useless to attempt any very exact determination. Late researches seem to
 show that language began in what might be called *tribal* expressions of
@@ -255,7 +255,7 @@ mood and feeling (*holophrases* like "go-hunting-kill-bear") without
 reference to individual personalities and relationships; and that it was
 only at a later stage that words like "I" and "Thou" came into use, and
 the holophrases broke up into "parts of speech" and took on a definite
-grammatical structure. <span id="fr_242"></span>[2](#fn_242) If true,
+grammatical structure. <span id="fr_242"></span>[2](#fn_242.md) If true,
 these facts point clearly to a long foreground of rude communal
 language, something like though greatly superior to that of the animals,
 preceding or preparing the evolution of Self-consciousness proper, in
@@ -267,7 +267,7 @@ and gradual
 <span id="page_230">p. 230</span>
 
 exclusion from an original collective 'we.'" <span
-id="fr_243"></span>[1](#fn_243) According to this view the birth of
+id="fr_243"></span>[1](#fn_243.md) According to this view the birth of
 self-consciousness in the human family, or in any particular race or
 section of the human family, must have been equally slow and hesitating;
 and it would be easy to imagine, as just said, that there may have been
@@ -277,8 +277,8 @@ consciousness took on its maturer and harsher forms.
 All estimates of the Time involved in these evolutions of early man are
 notoriously most divergent and most difficult to be sure of; but if we
 take 500,000 years ago for the first appearance of veritable Man (*homo
-primigenius*), <span id="fr_244"></span>[2](#fn_244) and (following
-Professor W. J. Sollas) <span id="fr_245"></span>[3](#fn_245) 30,000 or
+primigenius*), <span id="fr_244"></span>[2](#fn_244.md) and (following
+Professor W. J. Sollas) <span id="fr_245"></span>[3](#fn_245.md) 30,000 or
 40,000 years ago for the first tool-using men (*homo sapiens*) of the
 Chellean Age (palaeolithic), 15,000 for the rock-paintings and
 inscriptions of the Aurignacian and Magdalenian peoples, and 5,000 years
@@ -301,7 +301,7 @@ agreement as to the *ratio* 
 
 to each other of the times concerned: that is, the said authorities
 would probably allow for a *very* long animal-man <span
-id="fr_246"></span>[1](#fn_246) period corresponding to the first stage;
+id="fr_246"></span>[1](#fn_246.md) period corresponding to the first stage;
 for a much shorter aggressively 'self conscious' period, corresponding
 to the Second Stage--perhaps lasting only one thirtieth or fiftieth of
 the time of the first period; and then--if they looked forward at all to
@@ -314,7 +314,7 @@ to the expression of religious or magical ideas simply did not exist, it
 is clear that the only available, or at any rate the *chief* means of
 expression, in those times, must have consisted in gestures, in
 attitudes, in ceremonial *actions*--in a more or less elaborate ritual,
-in fact. <span id="fr_247"></span>[2](#fn_247) Such ideas as Adoration,
+in fact. <span id="fr_247"></span>[2](#fn_247.md) Such ideas as Adoration,
 Thanksgiving, confession of Guilt, placation of Wrath, Expiation,
 Sacrifice, Celebration of Community, sacramental Atonement, and a score
 of others could at that time be expressed by appropriate rites--and as a
@@ -351,9 +351,9 @@ It is evident that it must be a new birth--the entry into a further
 stage of consciousness which must supersede the present one. Through
 some such crisis as we have spoken of, through the extreme of suffering,
 the mind of Man, *as at present constituted*, has to die. <span
-id="fr_248"></span>[1](#fn_248) Self-consciousness has to die, and be
+id="fr_248"></span>[1](#fn_248.md) Self-consciousness has to die, and be
 buried, and rise again in a new form. Probably nothing but the extreme
-of suffering can bring this about. <span id="fr_249"></span>[2](#fn_249)
+of suffering can bring this about. <span id="fr_249"></span>[2](#fn_249.md)
 And what is this new form in which consciousness has to rearise?
 Obviously, since the miseries of the world during countless centuries
 have dated from that fatal attempt to make the little personal *self*
@@ -453,7 +453,7 @@ dramas with such convincing enthusiasm that even Pindar could say "Happy
 is he who has seen them (the Mysteries) before he goes beneath the
 hollow earth: that man knows the true end of life and its source
 divine"; and concerning which Sophocles and Aeschylus were equally
-enthusiastic? <span id="fr_250"></span>[1](#fn_250)
+enthusiastic? <span id="fr_250"></span>[1](#fn_250.md)
 
 Can we doubt, in the light of all that we have already said, what the
 answer to these questions is? As with the first blossoming of
@@ -496,7 +496,7 @@ light which never was on sea or land"--and the cloud of witnesses,
 scattered at first, has in these later centuries become so evident and
 so notable that we are tempted to believe in or to anticipate a great
 and general new birth, as now not so very far off. <span
-id="fr_251"></span>[1](#fn_251) \[We should, however, do well to
+id="fr_251"></span>[1](#fn_251.md) \[We should, however, do well to
 remember, in this connection,
 
 <span id="page_237">p. 237</span>
@@ -509,7 +509,7 @@ heaven, wrote in his second Epistle: "There shall come in the last days
 scoffers, walking after their own lusts, and saying, Where is the
 promise of his coming? for since the fathers fell asleep, all things
 continue as they were from the beginning of the creation." <span
-id="fr_252"></span>[1](#fn_252)\]
+id="fr_252"></span>[1](#fn_252.md)\]
 
  
 
@@ -561,68 +561,68 @@ trust"?
 
 ### Footnotes
 
-<span id="fn_239"></span>[224:1](pcc15.htm#fr_239) See ch. iv, *supra*.
+<span id="fn_239"></span>[224:1](pcc15.htm#fr_239.md) See ch. iv, *supra*.
 Tylor in his *Primitive Culture* (vol. i, p. 460, edn. 1903) says: "The
 sense of an absolute psychical distinction between man and beast, so
 prevalent in the civilized world, is hardly to be found among the lower
 races."
 
-<span id="fn_240"></span>[225:1](pcc15.htm#fr_240) See Bucke's *Cosmic
+<span id="fn_240"></span>[225:1](pcc15.htm#fr_240.md) See Bucke's *Cosmic
 Consciousness* (Philadelphia, 1901), pp. 11 and 39; also W. McDougall's
 *Social Psychology* (1908), p. 146--where the same age is tentatively
 suggested.
 
-<span id="fn_241"></span>[229:1](pcc15.htm#fr_241) Dr. Bucke (*Cosmic
+<span id="fn_241"></span>[229:1](pcc15.htm#fr_241.md) Dr. Bucke (*Cosmic
 Consciousness*) insists on their simultaneity, but places both events
 excessively far back, as we should think, i.e. 200,000 or 300,000 years
 ago. Possibly he does not differentiate sufficiently between the rude
 language of the holophrase and the much later growth of formed and
 grammatical speech.
 
-<span id="fn_242"></span>[229:2](pcc15.htm#fr_242) See A. E. Crawley's
+<span id="fn_242"></span>[229:2](pcc15.htm#fr_242.md) See A. E. Crawley's
 *Idea of the Soul*, ch. ii; Jane Harrison's *Themis*, pp. 473-5; and E.
 J. Payne's *History of the New World called America*, vol. ii, pp. 115
 *sq*., where the beginning of self-consciousness is associated with the
 break-up of the holophrase.
 
-<span id="fn_243"></span>[230:1](pcc15.htm#fr_243) *Themis*, p. 471.
+<span id="fn_243"></span>[230:1](pcc15.htm#fr_243.md) *Themis*, p. 471.
 
-<span id="fn_244"></span>[230:2](pcc15.htm#fr_244) Though Dr. Arthur
+<span id="fn_244"></span>[230:2](pcc15.htm#fr_244.md) Though Dr. Arthur
 Keith, *Ancient Types of Man* (1911), pp. 93 and 102, puts the figure at
 more like a million.
 
-<span id="fn_245"></span>[230:3](pcc15.htm#fr_245) See *Ancient Hunters*
+<span id="fn_245"></span>[230:3](pcc15.htm#fr_245.md) See *Ancient Hunters*
 (1915) ; also Hastings's *Encycl*. art. "Ethnology"; and Havelock Ellis,
 "The Origin of War," in *The Philosophy of Conflict and other Essays*.
 
-<span id="fn_246"></span>[231:1](pcc15.htm#fr_246) I use the phrase
+<span id="fn_246"></span>[231:1](pcc15.htm#fr_246.md) I use the phrase
 \`animal-man' here, not with any flavor of contempt or reprobation, as
 the dear Victorians would have used it, but with a sense of genuine
 respect and admiration such as one feels towards the animals themselves.
 
-<span id="fn_247"></span>[231:2](pcc15.htm#fr_247) See *supra*, ch. ix,
-pp. [147](pcc10.htm#page_147), 148 and xi, pp.
-[165](pcc12.htm#page_165), 166
+<span id="fn_247"></span>[231:2](pcc15.htm#fr_247.md) See *supra*, ch. ix,
+pp. [147](pcc10.htm#page_147.md), 148 and xi, pp.
+[165](pcc12.htm#page_165.md), 166
 
-<span id="fn_248"></span>[232:1](pcc15.htm#fr_248) "The mind must be
+<span id="fn_248"></span>[232:1](pcc15.htm#fr_248.md) "The mind must be
 restrained in the heart till it comes to an end," says the
 Maitráyana-Brahmana-Upanishad.
 
-<span id="fn_249"></span>[232:2](pcc15.htm#fr_249) One may remember in
+<span id="fn_249"></span>[232:2](pcc15.htm#fr_249.md) One may remember in
 this connection the *tapas* of the Hindu yogi, or the ordeals of
 initiates into the pagan Mysteries generally.
 
-<span id="fn_250"></span>[235:1](pcc15.htm#fr_250) See Farnell's *Cults
+<span id="fn_250"></span>[235:1](pcc15.htm#fr_250.md) See Farnell's *Cults
 of the Greek States*, vol. iii, p. 194; also *The Mysteries, Pagan and
 Christian*, by S. Cheetham, D.D. (London, 1897).
 
-<span id="fn_251"></span>[236:1](pcc15.htm#fr_251) For an amplification
+<span id="fn_251"></span>[236:1](pcc15.htm#fr_251.md) For an amplification
 of all this theme, see Dr. Bucke's remarkable and epoch-making book,
 *Cosmic Consciousness* (first published at Philadelphia, 1901).
 
-<span id="fn_252"></span>[237:1](pcc15.htm#fr_252) 2 Peter iii. 4;
+<span id="fn_252"></span>[237:1](pcc15.htm#fr_252.md) 2 Peter iii. 4;
 written probably about A.D. 150.
 
 ------------------------------------------------------------------------
 
-[Next: XV. The Ancient Mysteries](pcc16)
+[Next: XV. The Ancient Mysteries](pcc16.md)

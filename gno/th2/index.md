@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism and
-Hermetica](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Gnosticism and
+Hermetica](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766126137/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766126137/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,13 +26,13 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766126137/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Volume 1](../th1/index)   \|    **Volume 2**   \|    [Volume
-3](../th3/index)
+[Volume 1](../th1/index.md)   \|    **Volume 2**   \|    [Volume
+3](../th3/index.md)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](th200)    [Page
-Index](pageidx)    [Text \[Zipped\]](th2.txt.gz)
+[Contents](#contents)    [Start Reading](th200.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](th2.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -48,65 +48,65 @@ Sermon on the Mountain, and more.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](th200)  
-[Contents](th201)  
+<span id="contents"></span> [Title Page](th200.md)  
+[Contents](th201.md)  
 <span id="section_000"></span>
 
 ### I. Corpus Hermeticum
 
-[I. Pœmandres, the Shepherd of Men](th202)  
-[Commentary](th203)  
-[(II.) The General Sermon](th204)  
-[II. (III.) To Asclepius](th205)  
-[Commentary](th206)  
-[III. (IV.) The Sacred Sermon](th207)  
-[Commentary](th208)  
-[IV. (V.) The Cup or Monad](th209)  
-[Commentary](th210)  
-[V. (VI.) Though Unmanifest God is Most Manifest](th211)  
-[Commentary](th212)  
-[VI. (VII.) In God Alone is Good and Elsewhere Nowhere](th213)  
-[Commentary](th214)  
-[VII. (VIII.) The Greatest Ill Among Men is Ignorance of God](th215)  
-[Commentary](th216)  
+[I. Pœmandres, the Shepherd of Men](th202.md)  
+[Commentary](th203.md)  
+[(II.) The General Sermon](th204.md)  
+[II. (III.) To Asclepius](th205.md)  
+[Commentary](th206.md)  
+[III. (IV.) The Sacred Sermon](th207.md)  
+[Commentary](th208.md)  
+[IV. (V.) The Cup or Monad](th209.md)  
+[Commentary](th210.md)  
+[V. (VI.) Though Unmanifest God is Most Manifest](th211.md)  
+[Commentary](th212.md)  
+[VI. (VII.) In God Alone is Good and Elsewhere Nowhere](th213.md)  
+[Commentary](th214.md)  
+[VII. (VIII.) The Greatest Ill Among Men is Ignorance of God](th215.md)  
+[Commentary](th216.md)  
 [VIII. (IX.) That No One of Existing Things doth Perish, but Men in
-Error Speak of Their Changes as Destructions and as Deaths](th217)  
-[Commentary](th218)  
-[IX. (X.) On Thought and Sense](th219)  
-[Commentary](th220)  
-[X. (XI.) The Key](th221)  
-[Commentary](th222)  
-[XI. (XII.) Mind Unto Hermes](th223)  
-[Commentary](th224)  
-[XII. (XIII.) About the Common Mind](th225)  
-[Commentary](th226)  
-[XIII. (XIV.) The Secret Sermon on the Mountain](th227)  
-[Commentary](th228)  
-[XIV. (XV.) A Letter to Asclepius](th229)  
-[Commentary](th230)  
-[(XVI.) The Definitions of Asclepius unto King Ammon](th231)  
-[Commentary](th232)  
-[(XVII.) Of Asclepius to the King](th233)  
-[Commentary](th234)  
-[(XVIII.) The Encomium of Kings](th235)  
-[Commentary](th236)  
+Error Speak of Their Changes as Destructions and as Deaths](th217.md)  
+[Commentary](th218.md)  
+[IX. (X.) On Thought and Sense](th219.md)  
+[Commentary](th220.md)  
+[X. (XI.) The Key](th221.md)  
+[Commentary](th222.md)  
+[XI. (XII.) Mind Unto Hermes](th223.md)  
+[Commentary](th224.md)  
+[XII. (XIII.) About the Common Mind](th225.md)  
+[Commentary](th226.md)  
+[XIII. (XIV.) The Secret Sermon on the Mountain](th227.md)  
+[Commentary](th228.md)  
+[XIV. (XV.) A Letter to Asclepius](th229.md)  
+[Commentary](th230.md)  
+[(XVI.) The Definitions of Asclepius unto King Ammon](th231.md)  
+[Commentary](th232.md)  
+[(XVII.) Of Asclepius to the King](th233.md)  
+[Commentary](th234.md)  
+[(XVIII.) The Encomium of Kings](th235.md)  
+[Commentary](th236.md)  
 <span id="section_001"></span>
 
 ### II. The Perfect Sermon; or the Asclepius
 
-[Part I](th237)  
-[Part II](th238)  
-[Part III](th239)  
-[Part IV](th240)  
-[Part V](th241)  
-[Part VI](th242)  
-[Part VII](th243)  
-[Part VIII](th244)  
-[Part IX](th245)  
-[Part X](th246)  
-[Part XI](th247)  
-[Part XII](th248)  
-[Part XIII](th249)  
-[Part XIV](th250)  
-[Part XV](th251)  
-[Commentary](th252)  
+[Part I](th237.md)  
+[Part II](th238.md)  
+[Part III](th239.md)  
+[Part IV](th240.md)  
+[Part V](th241.md)  
+[Part VI](th242.md)  
+[Part VII](th243.md)  
+[Part VIII](th244.md)  
+[Part IX](th245.md)  
+[Part X](th246.md)  
+[Part XI](th247.md)  
+[Part XII](th248.md)  
+[Part XIII](th249.md)  
+[Part XIV](th250.md)  
+[Part XV](th251.md)  
+[Commentary](th252.md)  

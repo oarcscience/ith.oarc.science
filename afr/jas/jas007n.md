@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas006n)  [Next](jas008n)   
- \[[7. Eggs and Scorpions.](jas007)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas006n)  [Next](jas008n.md)   
+ \[[7. Eggs and Scorpions.](jas007.md)\]
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ right away,--never give Bra Rat anything.
 
 ------------------------------------------------------------------------
 
-[Next: Note 8. Tiger's Bone-hole.](jas008n)
+[Next: Note 8. Tiger's Bone-hole.](jas008n.md)

@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe31)  [Next](boe33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe31)  [Next](boe33.md) 
 
 ------------------------------------------------------------------------
 
 ### The World Octaves
 
 IT WAS HIS PROLONGED OBSERVATION of the movement of Mars ([Fig.
-95](boe31.htm#img_fig095)) that led Kepler to discover the true form of
+95](boe31.htm#img_fig095).md) that led Kepler to discover the true form of
 the planetary orbits, till then considered to be perfectly circular, and
 it was during the last year of his observations (1596) that he hit upon
 his beautiful "solution" of the "cosmographic mystery." He believed in
@@ -24,7 +24,7 @@ his successors had troubled, if not the heavens,
 
 [![PLATE XL. THE MUNDANE MONOCHORD&lt;br&gt; (From &lt;i&gt;Utriusque
 Cosmi&lt;/i&gt;: Robert Fludd, 1621. Vol. I)](tn/pl40.jpg)  
-Click to enlarge](img/pl40.jpg)  
+Click to enlarge](img/pl40.jpg.md)  
 PLATE XL. THE MUNDANE MONOCHORD  
 (From *Utriusque Cosmi*: Robert Fludd, 1621. Vol. I)  
 
@@ -104,7 +104,7 @@ Yet, if the ears of man may not hear the music of the spheres, his eyes
 may follow the paths of celestial sound, said Robert Fludd, and
 straightway began to "draw" the music of the spheres. "This," he wrote
 at the top of the first figure of his series of World Octaves, in his
-*Musica Mundana* ([Plate XL](#img_pl40)), "is the world monochord, with
+*Musica Mundana* ([Plate XL](#img_pl40).md), "is the world monochord, with
 its
 
  
@@ -114,7 +114,7 @@ its
 [![PLATE XLI. MAN AND THE WORLD OCTAVE&lt;br&gt; (From
 &lt;i&gt;Utriusque Cosmi&lt;/i&gt;; Robert Fludd, 1621. Vol.
 I)](tn/pl41.jpg)  
-Click to enlarge](img/pl41.jpg)  
+Click to enlarge](img/pl41.jpg.md)  
 PLATE XLI. MAN AND THE WORLD OCTAVE  
 (From *Utriusque Cosmi*; Robert Fludd, 1621. Vol. I)  
 
@@ -131,7 +131,7 @@ of the great C major scale. Beyond the seven zones of the Moon, the Sun,
 and the five planets, and above the firmament of the fixed stars, the
 divisions of the upper heavens correspond to those of the Earth below.
 
-[Plate XLI](#img_pl41) is the second of the series, taken up again in
+[Plate XLI](#img_pl41.md) is the second of the series, taken up again in
 his *Microcosmi Historia*, in which man is shown as participator in the
 heavenly scale. Here is a single octave, instead of two, as in the
 preceding drawing; its scale given in terms of mind or reason, rather
@@ -146,7 +146,7 @@ to F, the Body (or man), which is the receptacle of all things.
 
 And then, having given the two-octaved universe--Heaven and Earth, and
 the one-octaved universe stretching from the Godhead to man, he drew a
-third figure ([Plate XLII](boe33.htm#img_pl42)) of the three-octaved
+third figure ([Plate XLII](boe33.htm#img_pl42).md) of the three-octaved
 universe, with its three
 
 <span id="page_238">p. 238</span>
@@ -162,4 +162,4 @@ mind and memory of man is ever wakened through its power.
 
 ------------------------------------------------------------------------
 
-[Next: Earth a Hollow Sphere](boe33)
+[Next: Earth a Hollow Sphere](boe33.md)

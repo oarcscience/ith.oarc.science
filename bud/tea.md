@@ -1,5 +1,5 @@
-<span class="small">[Sacred-Texts](../index)  [Buddhism](index) 
-[Taoism](../tao/index)  [Shinto](../shi/index) </span>
+<span class="small">[Sacred-Texts](../index)  [Buddhism](index.md) 
+[Taoism](../tao/index)  [Shinto](../shi/index.md) </span>
 
 # The Book of Tea by Kakuzo Okakura
 

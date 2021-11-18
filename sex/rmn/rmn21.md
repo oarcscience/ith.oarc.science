@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn20)  [Next](rmn22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn20)  [Next](rmn22.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ No. 1 is a little Hermes bearing the chlamys, the pedum, or pastoral
 hook the *pedum*, and the *rhyton*, the horn of an animal, which the
 ancients used to drink out of.
 
-Athenæus <span id="fr_26"></span>[1](#fn_26) speaks of these horns, and
+Athenæus <span id="fr_26"></span>[1](#fn_26.md) speaks of these horns, and
 also adds that wooden ones were made.
 
 No. 2 is a bearded and homed Faun also bearing the chlamys and the
@@ -40,8 +40,8 @@ and unnecessary.
 
 ### Footnotes
 
-<span id="fn_26"></span>[44:1](rmn21.htm#fr_26) ATHENÆUS, xi. 7.
+<span id="fn_26"></span>[44:1](rmn21.htm#fr_26.md) ATHENÆUS, xi. 7.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXI: Three Bronze Figures](rmn22)
+[Next: Plate XXI: Three Bronze Figures](rmn22.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar007) [Next](gbar009)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar007) [Next](gbar009.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ her because they are not.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar009)
+[Next](gbar009.md)
 
  
 

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa17)  [Next](smoa19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa17)  [Next](smoa19.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -136,4 +136,4 @@ ye yet shall know. A memory of the Earth home.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. An Atlantian tradition.](smoa19)
+[Next: Chapter XVII. An Atlantian tradition.](smoa19.md)

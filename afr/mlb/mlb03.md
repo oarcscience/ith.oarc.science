@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb02)  [Next](mlb04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb02)  [Next](mlb04.md) 
 
 ------------------------------------------------------------------------
 
@@ -467,4 +467,4 @@ whole.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Where Man Came From, and How Death Came](mlb04)
+[Next: Chapter II: Where Man Came From, and How Death Came](mlb04.md)

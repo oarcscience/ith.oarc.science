@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](omni01)  [Next](omni03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](omni01)  [Next](omni03.md) 
 
 ------------------------------------------------------------------------
 
@@ -753,4 +753,4 @@ the Place of Melting into One.
 
 ------------------------------------------------------------------------
 
-[Next: The Age of Animal Heroes](omni03)
+[Next: The Age of Animal Heroes](omni03.md)

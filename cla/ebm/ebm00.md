@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](ebm01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](ebm01.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eleusinian and Bacchic Mysteries*, by Thomas Taylor, \[1891\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
 <span id="img_front"></span> ![Eleusinian Ceremony.—Denkmäler
-Sculptor.](img/front.png)  
+Sculptor.](img/front.png.md)  
 Eleusinian Ceremony.—Denkmäler Sculptor.
 
 <span id="page_1">p. 1</span>
@@ -62,4 +62,4 @@ Eleusinian Ceremony.—Denkmäler Sculptor.
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](ebm01)
+[Next: Dedication](ebm01.md)

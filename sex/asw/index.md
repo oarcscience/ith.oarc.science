@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Sexuality](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](asw00)
+[Contents](#contents)    [Start Reading](asw00.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ with sex-worship to my knowledge. Sometimes a pestle is just a
 pestle....
 
 Hargrave Jennings also wrote [The Rosicrucians, their Rites and
-Mysteries](../../sro/rrm/index), also available online at Intangible
+Mysteries](../../sro/rrm/index.md), also available online at Intangible
 Textual Heritage, where he goes into much more detail on the subject of
 phallic worship.
 
@@ -57,10 +57,10 @@ phallic worship.
 
 ------------------------------------------------------------------------
 
-[Title Page](asw00)  
-[I. Origin of the Cross](asw01)  
-[II. Yoni](asw02)  
-[III. Unity](asw03)  
-[IV. Phallic and Sun Worship](asw04)  
-[V. The Phallus in California](asw05)  
-[Author's Afterword](asw06)  
+[Title Page](asw00.md)  
+[I. Origin of the Cross](asw01.md)  
+[II. Yoni](asw02.md)  
+[III. Unity](asw03.md)  
+[IV. Phallic and Sun Worship](asw04.md)  
+[V. The Phallus in California](asw05.md)  
+[Author's Afterword](asw06.md)  

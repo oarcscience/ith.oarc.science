@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc030) 
-[Next](motc032) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc030.md) 
+[Next](motc032.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ day.
 
 ------------------------------------------------------------------------
 
-[Next: 32. Origin Of The Groundhog Dance: The Groundhog's Head](motc032)
+[Next: 32. Origin Of The Groundhog Dance: The Groundhog's Head](motc032.md)

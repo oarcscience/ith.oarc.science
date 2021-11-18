@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss10)  [Next](oss12) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss10)  [Next](oss12.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ with
 
 the night; the king of Morven is returned! Why didst thou not tell me
 that he would fall, O trembling dweller of the rock?  <span
-id="fr_46"></span>[1](#fn_46) Thou sawest him in the blood of his youth;
+id="fr_46"></span>[1](#fn_46.md) Thou sawest him in the blood of his youth;
 but thou didst not tell Comala.
 
 Melilcoma. What sound is that on Ardven? Who is that bright in the vale?
@@ -209,9 +209,9 @@ her soul!
 
 ### Footnotes
 
-<span id="fn_46"></span>[206:1](oss11.htm#fr_46) By the "dweller of the
+<span id="fn_46"></span>[206:1](oss11.htm#fr_46.md) By the "dweller of the
 rock" she means a Druid.
 
 ------------------------------------------------------------------------
 
-[Next: Carric-thura](oss12)
+[Next: Carric-thura](oss12.md)

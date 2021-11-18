@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe13)  [Next](boe15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe13)  [Next](boe15.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Every one has seen somewhere Kircher's drawing of the Island of
 Atlantis--this was the last remnant of the continent, which tradition
 says sank 12,000 years ago--but it is doubtful that any one has ever
 seen it reproduced as it appeared in his *Mundus Subterraneus* of 1678
-([Plate XV](#img_pl15)).
+([Plate XV](#img_pl15).md).
 
 <span id="page_82">p. 82</span>
 
@@ -39,7 +39,7 @@ is turned bottom side up, and made to lie at anchor in the lower
 left-hand corner. Let the old mistake stand, if mistake it was--and
 mistake it was surely. Turning it upside down will put everything into
 right relation with modern geography. Only the ship will be wrong, like
-a mirage in the waters. [Plate XVI](boe15.htm#img_pl16) is Kircher's
+a mirage in the waters. [Plate XVI](boe15.htm#img_pl16.md) is Kircher's
 accompanying illustration of "Ocean mountains," whose highest peaks may
 be island remnants of sunken continents, a little ground plan of the
 ocean floor.
@@ -49,7 +49,7 @@ less fame than blame, guessed again on the combined problems of the
 Deluge and lost continents, and in his *Arca Noë*, 1665, presented, in a
 world-map, a "conjectural geography of the Earth's translation after the
 Flood, from the opinions of various geographers, to which the author
-subscribes" ([Plate XVII](boe15.htm#img_pl17)). This is a very odd map,
+subscribes" ([Plate XVII](boe15.htm#img_pl17).md). This is a very odd map,
 by the way, and one evidently little known to modern geographers.
 Imagine a little German scholar, sitting in Rome under the shadow of St.
 Peter's during the Thirty Years' War, and guessing simply, not only at
@@ -69,7 +69,7 @@ Atlantis, his then novel theory that the
 the ideas of the ancient Egyptians and the description of
 Plato&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Mundus Subterraneus&lt;/i&gt;;
 Athanasius Kircher, 1678)](tn/pl15.jpg)  
-Click to enlarge](img/pl15.jpg)  
+Click to enlarge](img/pl15.jpg.md)  
 PLATE XV *Situation of the Island of Atlantis, according to the ideas of
 the ancient Egyptians and the description of Plato*.  
 (From *Mundus Subterraneus*; Athanasius Kircher, 1678)  
@@ -88,7 +88,7 @@ century from now this old "guess-map" of Kircher's will be even more
 interesting than it is to-day.
 
 According to the beautiful maps of W. Scott-Elliot <span
-id="fr_4"></span>[1](boe15.htm#fn_4)--Kircher's map may serve as a guide
+id="fr_4"></span>[1](boe15.htm#fn_4.md)--Kircher's map may serve as a guide
 for Scott-Elliot's slightly different theory--the Atlantean continent
 extended from a point a few degrees east of Iceland to, approximately,
 the site of Rio de Janeiro in South America, and across the ocean to the
@@ -101,4 +101,4 @@ time so far away as that in which the Sahara Desert was an ocean floor.
 
 ------------------------------------------------------------------------
 
-[Next: Lost Land of the West](boe15)
+[Next: Lost Land of the West](boe15.md)

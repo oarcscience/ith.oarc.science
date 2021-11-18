@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma19)  [Next](fmma21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma19)  [Next](fmma21.md) 
 
 ------------------------------------------------------------------------
 
@@ -221,4 +221,4 @@ Enclosed in this tomb lies Roderick the Great of Bivar.
 
 ------------------------------------------------------------------------
 
-[Next: Edward The Confessor. King From 1042-1066](fmma21)
+[Next: Edward The Confessor. King From 1042-1066](fmma21.md)

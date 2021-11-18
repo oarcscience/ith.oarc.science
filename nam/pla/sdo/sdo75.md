@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo74)  [Next](sdo76) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo74)  [Next](sdo76.md) 
 
 ------------------------------------------------------------------------
 
-### THE STONE BOY. <span id="fr_8"></span>[1](#fn_8)
+### THE STONE BOY. <span id="fr_8"></span>[1](#fn_8.md)
 
 (A Dakota myth, told by Naopi-sica.)
 
@@ -622,7 +622,7 @@ found.
 
 ### Footnotes
 
-<span id="fn_8"></span>[193:1](sdo75.htm#fr_8) Two other versions of
+<span id="fn_8"></span>[193:1](sdo75.htm#fr_8.md) Two other versions of
 this tale have been published for the Dakota: see, Clark Wissler, Some
 Dakota Myths (*Journal of American Folk-Lore*, vol. 20) 199; and Marie
 L. McLaughlin, *Myths and Legends of the Sioux*, 179-197, Bismarck,
@@ -630,4 +630,4 @@ N.D., 1916. However, these are widely divergent in all but their titles.
 
 ------------------------------------------------------------------------
 
-[Next: The Wizard and His Wife](sdo76)
+[Next: The Wizard and His Wife](sdo76.md)

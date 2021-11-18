@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi229)  [Next](mtsi231) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi229)  [Next](mtsi231.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ deer and ran away and he was very sorry.
 
 ------------------------------------------------------------------------
 
-[Next: 31. The Man and the Eagle](mtsi231)
+[Next: 31. The Man and the Eagle](mtsi231.md)

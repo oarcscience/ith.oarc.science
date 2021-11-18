@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb11)  [Next](lifb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb11)  [Next](lifb13.md) 
 
 </div>
 
@@ -326,6 +326,6 @@ From 'West Highland Tales.'
 
 ------------------------------------------------------------------------
 
-[Next: The Story of a Very Bad Boy](lifb13)
+[Next: The Story of a Very Bad Boy](lifb13.md)
 
 </div>

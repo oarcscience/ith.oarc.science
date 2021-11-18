@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc099) 
-[Next](motc101) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc099.md) 
+[Next](motc101.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ their homes.
 
 ------------------------------------------------------------------------
 
-[Next: 101. The Last Shawano Invasion](motc101)
+[Next: 101. The Last Shawano Invasion](motc101.md)

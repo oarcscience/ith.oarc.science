@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale01)  [Next](tale03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale01)  [Next](tale03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -139,7 +139,7 @@ greatest joy. But instead of embracing
 <span id="img_00900"></span>
 
 [![THE GENIUS AND THE MERCHANTS](tn/00900.jpg)  
-Click to enlarge](img/00900.jpg)  
+Click to enlarge](img/00900.jpg.md)  
 THE GENIUS AND THE MERCHANTS  
 
 <span id="page_10">p. 10</span> <span id="page_11">p. 11</span>
@@ -210,4 +210,4 @@ to this."
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the First Old Man and of the Hind](tale03)
+[Next: The Story of the First Old Man and of the Hind](tale03.md)

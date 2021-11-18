@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt11)  [Next](ettt13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt11)  [Next](ettt13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ divisions—the *Arising Yoga* and the *Perfecting Yoga*.
 We have heard some ignorant sayings from schools in Tibet that the
 Arising Yoga is necessary only for the Mundane Accomplishments.
 Nevertheless, according to the Mes-mds’ur and
-Rngog[37](ettt22.htm#an_n_nar:37)<span id="an_r_nar:37"></span> schools
+Rngog[37](ettt22.htm#an_n_nar:37.md)<span id="an_r_nar:37"></span> schools
 of the Marpa lineage, the teaching of the Arising Yoga is given first.
 Milarepa said:
 
@@ -43,16 +43,16 @@ ignorant objectors’\] schools; hence, before the practice of Perfecting
 Yoga, we must study and practice the Arising Yoga. As said in the
 *Tantra of G’ye-rdo-rje:*
 
-"If one says the two Yogas are equal[38](ettt22.htm#an_n_nar:38)<span
+"If one says the two Yogas are equal[38](ettt22.htm#an_n_nar:38.md)<span
 id="an_r_nar:38"></span>,  
  It is a Tantra-infant's preaching."
 
  The same Tantra also says:
 
 "Through practising the Arising Yoga,  
- The Tantric Yogi[39](ettt22.htm#an_n_nar:39)<span
+ The Tantric Yogi[39](ettt22.htm#an_n_nar:39.md)<span
 id="an_r_nar:39"></span> first practices the Yoga of
-Forms[40](ettt22.htm#an_n_nar:40)<span id="an_r_nar:40"></span>  
+Forms[40](ettt22.htm#an_n_nar:40.md)<span id="an_r_nar:40"></span>  
  Knowing the Yoga of Forms is dreamlike <span id="page_147">p.
 147</span>  
  The Yoga of Form itself eventually becomes the Yoga of Non-Form."
@@ -82,7 +82,7 @@ should one practice? According to those who retain the traditions and
 principles of this teaching, the foundation of the teaching of the Six
 Yogas is the Heat Yoga. This view is based mainly on the doctrine of
 Hevajra, in which it is stated that any one of the four
-castes[41](ettt22.htm#an_n_nar:41)<span id="an_r_nar:41"></span> can be
+castes[41](ettt22.htm#an_n_nar:41.md)<span id="an_r_nar:41"></span> can be
 led to practice this teaching.
 
 Those revered masters in the past who devoted themselves mainly to
@@ -99,11 +99,11 @@ Bde-mchog Mandala of Sixty-two Tutelaries of the Lu-I-Pa School.
 Although there are two such different transmissions, they both (provide
 the methods of) producing bliss and joy; therefore the practice of
 either one will do. One should thus practice the Yoga of Four
-Periods[42](ettt22.htm#an_n_nar:42)<span id="an_r_nar:42"></span> which
+Periods[42](ettt22.htm#an_n_nar:42.md)<span id="an_r_nar:42"></span> which
 will lead to the unfoldment of the Mandalas from the feet—the Five
 Buddhas and Bells—to the head.
 
-Now, these experiences will be [encountered](errata.htm#24) during the
+Now, these experiences will be [encountered](errata.htm#24.md) during the
 practice of Arising Yoga as the appropriate instructions are followed:
 
 At first, (the yogi) should visualize the tutelary deity through the
@@ -137,7 +137,7 @@ overcome drowsiness and distraction. Throughout the whole period of
 meditation he must possess the power of concentration.
 
 Having mastered the above-mentioned "sketchy
-visualization"[43](ettt22.htm#an_n_nar:43)<span
+visualization"[43](ettt22.htm#an_n_nar:43.md)<span
 id="an_r_nar:43"></span>, the yogi should then visualize the other
 faces, arms, adornments etc., until all the details are complete and
 perfect. Thereafter the Mother tutelary deity should be visualized, then
@@ -146,7 +146,7 @@ vividly all the deities (in the Mandala) and the objects in the complete
 Beyond-Measure Palace, general and specific, all at once in perfect
 concentration. The yogi is required to reach this stage.
 
-Now the teaching of the Tutelary Pride[44](ettt22.htm#an_n_nar:44)<span
+Now the teaching of the Tutelary Pride[44](ettt22.htm#an_n_nar:44.md)<span
 id="an_r_nar:44"></span>:
 
 The yogi should raise the Tutelary Pride and think to himself, "I am the
@@ -164,9 +164,9 @@ and Tutelary Pride Practice should be exercised alternately. Working
 
 on this superb meditation, consisting of both deities and their
 dwellings, will eventually prevent the arising of the Samsaric visions;
-only the Superb Visions[45](ettt22.htm#an_n_nar:45)<span
+only the Superb Visions[45](ettt22.htm#an_n_nar:45.md)<span
 id="an_r_nar:45"></span> will appear in the yogi's mind. The spontaneous
-Tutelary Pride—capable of [maintaining](errata.htm#25) itself in all
+Tutelary Pride—capable of [maintaining](errata.htm#25.md) itself in all
 fluctuating circumstances—is the cure which purifies the vulgar (or
 Saṃsaric) attachments in the yogi's mind.
 
@@ -183,10 +183,10 @@ living beings are the deities of the Mandala."
 
 The saintly Apags-b’a-Iha said, "If you understand that the myriad
 manifestations are the Mandala itself, how would it be
-[possible](errata.htm#26) for your mind to become confused?" This
+[possible](errata.htm#26.md) for your mind to become confused?" This
 understanding is applicable to both the Arising and the Perfecting Yoga.
 According to the principle of Vajrayana, all
-[manisfestations](errata.htm#27) are the Mandala of Heaven; all feelings
+[manisfestations](errata.htm#27.md) are the Mandala of Heaven; all feelings
 and experiences are the Great Bliss; all thoughts are the Untreated. To
 follow and to identify this principle is the main function of the
 Arising Yogi. In the Arising Yoga, the Great Bliss of Perfecting
@@ -198,8 +198,8 @@ and skill, to stop wavering and fluctuating
 <span id="page_151">p. 151</span>
 
 <span class="contnote">\[paragraph continues\]</span> Bodhi-heart, as
-symbolized in the *Pad* word[46](ettt22.htm#an_n_nar:46)<span
-id="an_r_nar:46"></span>; and he will [experience](errata.htm#28) a
+symbolized in the *Pad* word[46](ettt22.htm#an_n_nar:46.md)<span
+id="an_r_nar:46"></span>; and he will [experience](errata.htm#28.md) a
 variety of blisses in Arising Yoga.
 
 In short, the main objective and function of the Arising Yoga—the
@@ -232,13 +232,13 @@ The *Tantra of Two Forms* says:
  There is no sound and no hearer, no smell and no smeller,  
  no taste and no taster, no touch and no feeler.  
  Likewise there are no mind and
-mind-functions[47](ettt22.htm#an_n_nar:47)<span
+mind-functions[47](ettt22.htm#an_n_nar:47.md)<span
 id="an_r_nar:47"></span>."
 
 "One should understand that the organs, the outer-objects,  
  and the consciousnesses of the organs  
  Are all the Goddesses.  
- Thus, the eighteen dhatus[48](ettt22.htm#an_n_nar:48)<span
+ Thus, the eighteen dhatus[48](ettt22.htm#an_n_nar:48.md)<span
 id="an_r_nar:48"></span> are preached.  
  From the very beginning, their essence is uncreated—never did they come
 into being. <span id="page_152">p. 152</span>  
@@ -249,8 +249,8 @@ into being. <span id="page_152">p. 152</span>
 The \[visual\] form, sound, smell, taste, and \[touch\] stimuli are the
 five outer objects, from the seer to the feeler are the five senses,
 from the eye to the body are the five organs. In the terms of
-[Skandhas](errata.htm#29), they all belong to the Aggregation of Form.
-In the terms of Ayatana[49](ettt22.htm#an_n_nar:49)<span
+[Skandhas](errata.htm#29.md), they all belong to the Aggregation of Form.
+In the terms of Ayatana[49](ettt22.htm#an_n_nar:49.md)<span
 id="an_r_nar:49"></span> they belong to the ten Ayatanas of form; the
 Nonself-nature of them is thus pointed out by the stanza. The so-called
 mind (Sems) is the Aggregation of Consciousness, or the Ayatana of
@@ -281,7 +281,7 @@ this clearly demonstrates the aspect of the "Originally true".
 Guru Marpa said:
 
 "On the bank of the Ganges river in the East,  
- Through the grace of the great Medrepa[50](ettt22.htm#an_n_nar:50)<span
+ Through the grace of the great Medrepa[50](ettt22.htm#an_n_nar:50.md)<span
 id="an_r_nar:50"></span>,  
  I fully realized the original reality of the never-come-into-being.  
  This enlightenment kindles the void-nature of mind.  
@@ -304,7 +304,7 @@ School of Yogachara of True Form and the School of Yogachara of Illusory
 Form. This is also applicable to the Madhyamika Yogachara School—its
 doctrine allows the mind-only philosophy, either With Form or Without
 Form, of Yogachara in the field of mundane
-truth[51](ettt22.htm#an_n_nar:51)<span id="an_r_nar:51"></span>.
+truth[51](ettt22.htm#an_n_nar:51.md)<span id="an_r_nar:51"></span>.
 
 The doctrine of Two Truths should be established in a manner such as the
 Great Yogi Milarepa explains:
@@ -325,7 +325,7 @@ Great Yogi Milarepa explains:
 According to the Middle-Way doctrine of Nagrajuna, Aryadeva,
 Zla-wa-grags-b’a, the very nature of causation itself is Soleness. So
 this stanza implies that only these sages’ doctrine is
-acceptable[52](ettt22.htm#an_n_nar:52)<span id="an_r_nar:52"></span>.
+acceptable[52](ettt22.htm#an_n_nar:52.md)<span id="an_r_nar:52"></span>.
 Nagrajuna and Aryadeva, the Savior and the Holy One, were both
 middle-wayists after the Sutra period. Subsequent to the period of these
 two sages, there were many people who talked about Middle-Way
@@ -351,7 +351,7 @@ id="page_155">p. 155</span>
  All the stable and unstable living beings in Saṃsara  
  Are originally unborn and non-existent.  
  There is no fundamental truth nor Innate
-Wisdom[53](ettt22.htm#an_n_nar:53)<span id="an_r_nar:53"></span>,  
+Wisdom[53](ettt22.htm#an_n_nar:53.md)<span id="an_r_nar:53"></span>,  
  There is neither Karma nor the effects of Karma.  
  Therefore, the Saṃsara never existed—even its name is meaningless!  
  O, the absolute truth is like this!"
@@ -391,7 +391,7 @@ actual existence of self-essence. If there were an independently-solid
 self-nature in beings there would be no need for depending on any cause
 or conditions (to form the beings themselves). Thus there never existed
 even an atom of sense-data (outer-object) upon which the Clinging of
-Existence arises[54](ettt22.htm#an_n_nar:54)<span
+Existence arises[54](ettt22.htm#an_n_nar:54.md)<span
 id="an_r_nar:54"></span>.
 
 This very truth does not impair the order and functions of the
@@ -422,7 +422,7 @@ the
 category of Mundane Truth, if one decisively or unalterably identifies
 existent things with dreams, magic, and illusory visions, one will
 eventually come to the point of the
-Nothingness[55](ettt22.htm#an_n_nar:55)<span id="an_r_nar:55"></span>
+Nothingness[55](ettt22.htm#an_n_nar:55.md)<span id="an_r_nar:55"></span>
 which is not allowed in my school. If one follows the wrong views of
 other schools one is liable to fall into endless dangers.
 
@@ -462,7 +462,7 @@ the Heart and Throat Centers during sleeping, and should know the
 critical teachings on the Navel and Forehead Centers during the practice
 of Heat Yoga and Karma Yoga in the awakening stage. This is because
 during these different times the Thig-le <span
-id="fr_8"></span>[\*](#fn_8) upon which the consciousness relies
+id="fr_8"></span>[\*](#fn_8.md) upon which the consciousness relies
 concentrates at these four different centers. According to the teaching
 of Dus-*a*kor (Kalachakra) the Head Center and Navel Center produce the
 Thig-le in the awakening stage; the Throat and the Secret Center produce
@@ -506,7 +506,7 @@ different effects and specific advantages.
 
 ### Footnotes
 
-<span id="fn_8"></span>[158:\*](ettt12.htm#fr_8) *Thig-le* is equivalent
+<span id="fn_8"></span>[158:\*](ettt12.htm#fr_8.md) *Thig-le* is equivalent
 to the Sanskrit *bindu* and signifies a seed and source of
 life-power.—*Ed*.
 
@@ -514,6 +514,6 @@ life-power.—*Ed*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four: The Steps of Practice in the Path](ettt13)
+[Next: Chapter Four: The Steps of Practice in the Path](ettt13.md)
 
 </div>

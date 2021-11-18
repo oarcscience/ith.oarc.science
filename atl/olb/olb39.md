@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb38)  [Next](olb40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb38)  [Next](olb40.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -79,20 +79,20 @@ mountains. There they dig ore and make iron. Above the Rhine among the
 mountains I have seen Marsaten. The Marsaten are people who live on the
 lakes. Their houses are, built upon piles, for protection from the wild
 beasts and wicked people. There are wolves, bears, and horrible
-lions <span id="fr_52"></span>[\*](#fn_52). Then come the Swiss <span
-id="fr_53"></span>[†](#fn_53), the nearest to the frontiers of the
+lions <span id="fr_52"></span>[\*](#fn_52.md). Then come the Swiss <span
+id="fr_53"></span>[†](#fn_53.md), the nearest to the frontiers of the
 distant Italians, the followers of Kalta and the savage Twiskar, all
 greedy for robbery and booty. The Marsaten gain their livelihood by
 fishing and hunting. The skins are sewn together by the women, and
 prepared with birch bark. The small skins are as soft as a woman's skin.
-The Burgtmaagd at Fryasburgt <span id="fr_54"></span>[‡](#fn_54)
+The Burgtmaagd at Fryasburgt <span id="fr_54"></span>[‡](#fn_54.md)
 (Freiburg) told us that they were good, simple people; but if I had not
 heard her speak of them first, I should have thought that they were not
 Frya's people, they looked so impudent. Their wool and herbs are bought
 by the Rhine people, and taken to foreign countries by the ship
 captains. Along the other side of the Rhine it was just the same as at
-Lydasburcht <span id="fr_55"></span>[§](#fn_55) (Leiden). There was a
-great river or lake <span id="fr_56"></span>[\*\*](#fn_56), and upon
+Lydasburcht <span id="fr_55"></span>[§](#fn_55) (Leiden.md). There was a
+great river or lake <span id="fr_56"></span>[\*\*](#fn_56.md), and upon
 this lake also there were people living upon piles. But they were not
 Frya's people; they were black and brown men who had been employed as
 rowers to bring home the men who had been making foreign voyages, and
@@ -111,24 +111,24 @@ Some shone
 
 like the sun. The shields of the sea-king and the admiral were bordered
 with gold. From the river a canal was dug going past the citadel.
-Forana <span id="fr_57"></span>[\*](#fn_58) (Vroonen), with a narrow
+Forana <span id="fr_57"></span>[\*](#fn_58) (Vroonen.md), with a narrow
 outlet to the sea. This was the egress of the fleet; the Fly was the
-ingress <span id="fr_58"></span>[†](#fn_59). On both sides of the river
+ingress <span id="fr_58"></span>[†](#fn_59.md). On both sides of the river
 are fine houses built, painted in bright colours. The gardens are all
 surrounded by green hedges. I saw there women wearing felt tunics, as if
-it were writing felt. <span id="fr_59"></span>[1](#fn_57) Just as at
+it were writing felt. <span id="fr_59"></span>[1](#fn_57.md) Just as at
 Staveren, the girls wore golden crowns on their heads, and rings on
 their arms and ankles. To the south of Forana lies Alkmarum. Alkmarum is
 a lake or river in which there is an island. On this island the black
 and brown people must remain, the same as at Lydasburgt. The Burgtmaagd
 of Forana told me that the burgtheeren go every day to teach them what
 real freedom is, and how it behoves men to live in order to obtain the
-blessing of Wr-alda's spirit <span id="fr_60"></span>[‡](#fn_60). If
+blessing of Wr-alda's spirit <span id="fr_60"></span>[‡](#fn_60.md). If
 there was any one who was willing to listen and could comprehend, he was
 kept there till he was fully taught. That was done in order to instruct
 the distant people, and to make friends everywhere. I had been before in
 the Saxenmarken, at the Mannagardaforda <span
-id="fr_61"></span>[§](#fn_61) castle (Munster). There I saw more poverty
+id="fr_61"></span>[§](#fn_61) castle (Munster.md). There I saw more poverty
 than I could discover wealth here. She answered: So whenever at the
 Saxenmarken a young man courts a young girl, the girls ask : Can you
 keep your house free from the banished Twisklanders? Have you ever
@@ -174,32 +174,32 @@ these days so many of our sailors are Saxons.
 
 ### Footnotes
 
-<span id="fn_52"></span>[151:\*](olb39.htm#fr_52) Lions in Europe, see
+<span id="fn_52"></span>[151:\*](olb39.htm#fr_52.md) Lions in Europe, see
 Herodotus, vii. 125.
 
-<span id="fn_53"></span>[151:†](olb39.htm#fr_53) Swetsar are Swiss.
+<span id="fn_53"></span>[151:†](olb39.htm#fr_53.md) Swetsar are Swiss.
 
-<span id="fn_54"></span>[151:‡](olb39.htm#fr_54) Fryasburch is Freiburg.
+<span id="fn_54"></span>[151:‡](olb39.htm#fr_54.md) Fryasburch is Freiburg.
 
-<span id="fn_55"></span>[151:§](olb39.htm#fr_55) Lydasburch is Leyden,
+<span id="fn_55"></span>[151:§](olb39.htm#fr_55.md) Lydasburch is Leyden,
 the city.
 
-<span id="fn_56"></span>[151:\*\*](olb39.htm#fr_56) *Flyt, jeftha mâre*,
+<span id="fn_56"></span>[151:\*\*](olb39.htm#fr_56.md) *Flyt, jeftha mâre*,
 is a lake or sea.
 
-<span id="fn_57"></span>[153:1](olb39.htm#fr_59) Felt, very thin and
+<span id="fn_57"></span>[153:1](olb39.htm#fr_59.md) Felt, very thin and
 compressed, with a smooth surface.
 
-<span id="fn_58"></span>[153:\*](olb39.htm#fr_57) Forana is Vroonen.
+<span id="fn_58"></span>[153:\*](olb39.htm#fr_57.md) Forana is Vroonen.
 
-<span id="fn_59"></span>[153:†](olb39.htm#fr_58) Engamuda is Egmond.
+<span id="fn_59"></span>[153:†](olb39.htm#fr_58.md) Engamuda is Egmond.
 
-<span id="fn_60"></span>[153:‡](olb39.htm#fr_60) Diodorus Siculus. v.
+<span id="fn_60"></span>[153:‡](olb39.htm#fr_60.md) Diodorus Siculus. v.
 27, on the Gauls.
 
-<span id="fn_61"></span>[153:§](olb39.htm#fr_61) Mannagardaforda is
+<span id="fn_61"></span>[153:§](olb39.htm#fr_61.md) Mannagardaforda is
 Munster.
 
 ------------------------------------------------------------------------
 
-[Next: The Writings of Frêthorik and Wiljow](olb40)
+[Next: The Writings of Frêthorik and Wiljow](olb40.md)

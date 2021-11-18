@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm31)  [Next](rotm33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm31)  [Next](rotm33.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -336,6 +336,6 @@ and more were looked for ere the night was far spent.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXII. The Men of Shadowy Vale Come to the Spring Market
-at Burgstead](rotm33)
+at Burgstead](rotm33.md)
 
 </div>

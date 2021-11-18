@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl46)  [Next](hpl48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl46)  [Next](hpl48.md) 
 
 ------------------------------------------------------------------------
 
@@ -795,4 +795,4 @@ blue - black wing - Yog Sothoth save me - the three-lobed burning eye...
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1](hpl48)
+[Next: Chapter 1](hpl48.md)

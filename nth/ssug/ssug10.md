@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssug09)  [Next](ssug11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssug09)  [Next](ssug11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Self-Suggestion and the New Huna Theory of Mesmerism and Hypnosis*, by
 Max Freedom Long, \[1958\], at Intangible Textual Heritage
 
@@ -387,7 +387,7 @@ substance.
 A companion piece to the complex is the disincarnate spirit, be it a low
 or a middle self, of the sort referred to as "devils" in the New
 Testament. These dead individuals may be made up of a low plus a middle
-self, in which case [they](errata.htm#4) are normal spirits. Or the two
+self, in which case [they](errata.htm#4.md) are normal spirits. Or the two
 selves may have been separated by some accident of death or because of
 long illness and unconscious periods prior to death. In any event, the
 low self alone (being irrational and so more dangerous) or the normal
@@ -454,4 +454,4 @@ Higher Beings of all levels.
 
 ------------------------------------------------------------------------
 
-[Next: Addendum](ssug11)
+[Next: Addendum](ssug11.md)

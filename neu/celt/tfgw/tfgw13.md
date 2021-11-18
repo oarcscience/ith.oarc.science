@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw12)  [Next](tfgw14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw12)  [Next](tfgw14.md) 
 
 ------------------------------------------------------------------------
 
@@ -243,4 +243,4 @@ The Girl and the Robber
 
 ------------------------------------------------------------------------
 
-[Next: Maurice Griffin and the Fairy Doctor](tfgw14)
+[Next: Maurice Griffin and the Fairy Doctor](tfgw14.md)

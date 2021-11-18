@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](emerglor)  [Next](freher) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](emerglor)  [Next](freher.md) 
 
 ------------------------------------------------------------------------
 
@@ -460,6 +460,6 @@ Elementary Fire, which is geometrically proportioned to it.
 
 ------------------------------------------------------------------------
 
-[Next: Freher's Process in the Philosophical Work](freher)
+[Next: Freher's Process in the Philosophical Work](freher.md)
 
   

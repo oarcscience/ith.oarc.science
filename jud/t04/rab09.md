@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](rab08)  [Next](rab10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](rab08)  [Next](rab10.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ even if they are not present. Different is it when a sage dies. All who
 are notified of his demise must perform the mourning ceremonies.
 
 B. For the death of the chief of a college all (the college men) are
-obliged to bare their right arm; <span id="fr_96"></span>[B1](#fn_96)
+obliged to bare their right arm; <span id="fr_96"></span>[B1](#fn_96.md)
 for the chief of a court, the left; and for the Nasi both arms are
 bared. When the death of R. Eliezer occurred, R. Aqiba bared both his
 arms, beat his breast until blood spurted from it, and cried: "My
@@ -53,7 +53,7 @@ being bared, one is not obliged to do it even at the death of his
 parents. It happened that when the death of R. Aqiba's father occurred,
 R. Aqiba did not bare his arm, though others did.
 
- <span id="fr_97"></span>[C1](#fn_97)In all cases it is praiseworthy to
+ <span id="fr_97"></span>[C1](#fn_97.md)In all cases it is praiseworthy to
 remove the corpse as soon as possible, excepting in the case of a dead
 parent, unless it is
 
@@ -91,7 +91,7 @@ undergarment, places the rent part on her back, and then rends her upper
 garment." In all cases it is optional whether to tear asunder the
 outside hem or not, but over parents it is obligatory. R. Jehudah,
 however, said: "If the hem is not torn asunder, it is not considered
-rending at all." <span id="fr_98"></span>[C2](#fn_98) Said R. Abuhu:
+rending at all." <span id="fr_98"></span>[C2](#fn_98.md) Said R. Abuhu:
 "What is the reason of R. Jehudah's statement? It is written \[II Kings,
 ii. 12\]: "And he took hold of his clothes, and rent them in two
 pieces." The superfluous
@@ -133,7 +133,7 @@ instructor in Law; over a Nasi, chief of the court; over ill-tidings;
 over blasphemy; the Holy Scrolls which were burned by fire; the cities
 of Jehudah; the Temple; and over Jerusalem. And one may rend over the
 destruction of the Temple and add another rent (at the same place) over
-Jerusalem." <span id="fr_99"></span>[C3](#fn_99) R. Helba in the name of
+Jerusalem." <span id="fr_99"></span>[C3](#fn_99.md) R. Helba in the name of
 Ula of Birah, quoting R.
 
 <span id="page_40">p. 40</span>
@@ -148,7 +148,7 @@ says \[ibid. 10\]: 'Our holy and our beautiful house where our fathers
 praised Thee is burned up with fire; and all our costly things are
 become ruins,' and rends."
 
- <span id="fr_100"></span>[C4](#fn_100)The Boraitha stated: "One may
+ <span id="fr_100"></span>[C4](#fn_100.md)The Boraitha stated: "One may
 rend over the Temple and add another rent," etc. There is a
 contradiction from the following Boraitha: "Both the one who heard it
 and the one who saw it, as soon as they reach Zophim they rend their
@@ -173,7 +173,7 @@ original rending, and according to R. Jehudah as regards the additional
 one." We have learned the same also in a Boraitha in the name of R.
 Jose.
 
- <span id="fr_101"></span>[C5](#fn_101)Rending which is not done in the
+ <span id="fr_101"></span>[C5](#fn_101.md)Rending which is not done in the
 moment of excitement (immediately after the occurrence of the death) is
 not considered rending at all. Was it then not stated that Samuel rent
 all the twelve different garments he had on when he was informed of the
@@ -197,13 +197,13 @@ rend again." (Hence we see that one must rend, although after the moment
 of excitement?) Rabha answered him: "This applies only to parents, but
 over other relatives it is different."
 
- <span id="fr_102"></span>[C6](#fn_102)May those rents be mended? The
+ <span id="fr_102"></span>[C6](#fn_102.md)May those rents be mended? The
 father of R. Oshiya and Bar Qappara differ: One holds they may, and the
 other holds they may not.
 
- <span id="fr_103"></span>[C7](#fn_103)Rabha said: A mourner may walk
+ <span id="fr_103"></span>[C7](#fn_103.md)Rabha said: A mourner may walk
 around in his easy-dress in his house (in private). <span
-id="fr_104"></span>[C8](#fn_104)
+id="fr_104"></span>[C8](#fn_104.md)
 
 D. If he was informed of his father's death, and he rent his garments,
 and afterward he was told that it was not the father but the mother, his
@@ -232,7 +232,7 @@ Bathyra." Could Samuel say so? Did not Samuel decide that the Halakha
 prevails, in regard to mourning, according to the one who is lenient?
 Mourning is one thing and rending is another.
 
- <span id="fr_105"></span>[D1](#fn_105)How far down must one rend? As
+ <span id="fr_105"></span>[D1](#fn_105.md)How far down must one rend? As
 far as his navel. According to others, as far as the breast. And
 although there is no direct support for that from the Scripture, there
 is nevertheless a hint for that in \[Joel, ii. 13\], "And rend your
@@ -269,7 +269,7 @@ on the grave."
 <span id="page_43">p. 43</span>
 
 <span class="contnote">\[paragraph continues\]</span> When R. Gamaliel
-the Elder died, <span id="fr_106"></span>[D2](#fn_106) as soon as he was
+the Elder died, <span id="fr_106"></span>[D2](#fn_106.md) as soon as he was
 removed from the house R. Elazar told the mourners to lower the couches;
 when the top-stone was placed on the grave, R. Joshua told them to do
 so, and they answered: "We have already done so by the direction of the
@@ -299,7 +299,7 @@ buyer what kind of a rent it is. All garments of which their rents must
 not be sewed together, must not be sold to Gentiles; neither can they be
 turned downward and sewed together. Such is the decree of R. Simeon b.
 Elazar. The sages permit it. If one comes to a dying person in a rent
-garment, he is robbing the dead. <span id="fr_107"></span>[E1](#fn_107)
+garment, he is robbing the dead. <span id="fr_107"></span>[E1](#fn_107.md)
 It is a greater sin to rob the dead than the living, because one can
 always appease the latter
 
@@ -330,11 +330,11 @@ G. One who saves the garment which was upon the dead is robbing the
 dead: this is only with the garments which are with him in the coffin,
 but not those which are with him in bed; nevertheless, the heirs must be
 told not to save even the garments which were with him in the bed. <span
-id="fr_108"></span>[G1](#fn_108) One who adds garments to a corpse more
+id="fr_108"></span>[G1](#fn_108.md) One who adds garments to a corpse more
 than necessary, he transgresses the precept, "Thou shalt not destroy"
-\[Deut. xx. 19\]. <span id="fr_109"></span>[G2](#fn_109) So is the
+\[Deut. xx. 19\]. <span id="fr_109"></span>[G2](#fn_109.md) So is the
 decree of R. Meir. R. Eliezer b. Zadok said: He makes the corpse
-homely. <span id="fr_110"></span>[G3](#fn_110) Rabban Gamaliel said:
+homely. <span id="fr_110"></span>[G3](#fn_110.md) Rabban Gamaliel said:
 Also, they add vermin.
 
 H. Said R. Nathan: The garments in which the corpse is buried will be
@@ -346,44 +346,44 @@ newly clad."
 
 ### Footnotes
 
-<span id="fn_96"></span>[37:B1](rab09.htm#fr_96)
+<span id="fn_96"></span>[37:B1](rab09.htm#fr_96.md)
 
 ### CHAPTER IX.
 
 B. As this custom is obsolete, we cannot explain its meaning and how it
 was done.
 
-<span id="fn_97"></span>[37:C1](rab09.htm#fr_97) *C*. *Gemara* from Moed
+<span id="fn_97"></span>[37:C1](rab09.htm#fr_97.md) *C*. *Gemara* from Moed
 Katan.
 
-<span id="fn_98"></span>[38:C2](rab09.htm#fr_98) In order to understand
+<span id="fn_98"></span>[38:C2](rab09.htm#fr_98.md) In order to understand
 the explanation hereof of Rashi, a thorough knowledge of the ancient cut
 of garments is required, which we leave to the historian.
 
-<span id="fn_99"></span>[39:C3](rab09.htm#fr_99) All this is adduced
+<span id="fn_99"></span>[39:C3](rab09.htm#fr_99.md) All this is adduced
 from biblical passages which we deem unimportant to quote here.
 
-<span id="fn_100"></span>[40:C4](rab09.htm#fr_100) *C*. *Gemara* from
+<span id="fn_100"></span>[40:C4](rab09.htm#fr_100.md) *C*. *Gemara* from
 Moed Katan.
 
-<span id="fn_101"></span>[40:C5](rab09.htm#fr_101) *Gemara* from Moed
+<span id="fn_101"></span>[40:C5](rab09.htm#fr_101.md) *Gemara* from Moed
 Katan.
 
-<span id="fn_102"></span>[41:C6](rab09.htm#fr_102) *C*. *Gemara* from
+<span id="fn_102"></span>[41:C6](rab09.htm#fr_102.md) *C*. *Gemara* from
 Moed Katan.
 
-<span id="fn_103"></span>[41:C7](rab09.htm#fr_103) *Gemara* from Moed
+<span id="fn_103"></span>[41:C7](rab09.htm#fr_103.md) *Gemara* from Moed
 Katan.
 
-<span id="fn_104"></span>[41:C8](rab09.htm#fr_104) The term in the text
+<span id="fn_104"></span>[41:C8](rab09.htm#fr_104.md) The term in the text
 for "easy-dress" is ‏אונקלי‎ which has several different meanings. See
 our "Phyl. Rit.," p. 65. Here, however, it seems to mean a gown worn in
 the house.
 
-<span id="fn_105"></span>[42:D1](rab09.htm#fr_105) *D*. *Gemara* from
+<span id="fn_105"></span>[42:D1](rab09.htm#fr_105.md) *D*. *Gemara* from
 Moed Katan.
 
-<span id="fn_106"></span>[43:D2](rab09.htm#fr_106) It seems to us that
+<span id="fn_106"></span>[43:D2](rab09.htm#fr_106.md) It seems to us that
 it should read Gamaliel of Jamniah, as R. Gamaliel the Elder was his
 grandfather, and Eliezer and Joshua were colleagues of the former.
 Heilprin in his "Seder Hadoroth" brought Abraham Zacutta's opinion that
@@ -392,24 +392,24 @@ Elder and his grandson of Jamniah without any remarks, which seems to us
 impossible. Moreover, if R. Eliezer and R. Joshua existed in the time of
 the Elder, they could have been little children only.
 
-<span id="fn_107"></span>[43:E1](rab09.htm#fr_107) *E*. The Talmud
+<span id="fn_107"></span>[43:E1](rab09.htm#fr_107.md) *E*. The Talmud
 elsewhere says that he robs the living and the dead, because the people
 who see the rent in his garments may think that he rent it then, and to
 impose upon the people is considered a robbery.
 
-<span id="fn_108"></span>[44:G1](rab09.htm#fr_108) *G*. It seems to us
+<span id="fn_108"></span>[44:G1](rab09.htm#fr_108.md) *G*. It seems to us
 from Sanhedrin, 48*a*, that the Talmud advises that all the garments
 which were with the dead in bed shall be used for the purpose of
 honoring the dead, as their custom was to pour wine before the dead.
 
-<span id="fn_109"></span>[44:G2](rab09.htm#fr_109) All things which were
+<span id="fn_109"></span>[44:G2](rab09.htm#fr_109.md) All things which were
 fit for use for human beings, or for their benefit, the Talmud does not
 allow to destroy, without a purpose, and calls the one who does so "a
 transgressor" of the negative commandment cited in this passage.
 
-<span id="fn_110"></span>[44:G3](rab09.htm#fr_110) It means, because
+<span id="fn_110"></span>[44:G3](rab09.htm#fr_110.md) It means, because
 when they are rotten it adds to the homeliness of the corpse.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](rab10)
+[Next: Chapter X](rab10.md)

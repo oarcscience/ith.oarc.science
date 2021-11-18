@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](tha01)  [Next](tha03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](tha01)  [Next](tha03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ millemetre in length without instrumental aid. There cannot be the least
 doubt of the reality of the existence of an aura enveloping a human
 being, and this will in a short time be an universally accepted fact,
 now that it can be made visible to nearly every person having ordinary
-eyesight. <span id="fr_0"></span>[\*](#fn_0)
+eyesight. <span id="fr_0"></span>[\*](#fn_0.md)
 
 It, indeed, would be strange if the aura did not vary under different
 circumstances, and there is good reason to believe that a study of its
@@ -171,7 +171,7 @@ on. It is always essential to have a dead black background.
 
 A large portion of the writer's work has been conducted in a room with
 only one window. This window is fitted with an ordinary blind at the
-top, and below another blind <span id="fr_1"></span>[\*](#fn_1)
+top, and below another blind <span id="fr_1"></span>[\*](#fn_1.md)
 consisting of two thicknesses of black serge, that can be raised to any
 desired height. The serge permits a considerable amount of light to pass
 through, in fact too much, except on very dark days; but the
@@ -195,7 +195,7 @@ from producing optical illusions, and vitiating the observations.
 <span id="img_diag01"></span>
 
 [![Diagram 1](tn/diag01.jpg)  
-Click to enlarge](img/diag01.jpg)  
+Click to enlarge](img/diag01.jpg.md)  
 Diagram 1  
 
 Trouble from this cause, however, is not likely to occur, unless the
@@ -213,7 +213,7 @@ overcome the main difficulties.
 A beginner should get someone to hold his hands about a foot in front of
 the black background on the same plane and parallel with it, from eight
 to ten inches apart with his fingers extended as in [diagram
-1](#img_diag01). He must then peer through the dark dicyanin screen
+1](#img_diag01.md). He must then peer through the dark dicyanin screen
 
 <span id="page_7">p. 7</span>
 
@@ -253,7 +253,7 @@ he will probably be able to see a similar, but not quite as plain, mist
 around the arm if bared. Now and then there is some slight difficulty at
 the first trial, which can be generally overcome if the other hand is
 held at right angles, and a short distance from the arm. (See [diagram
-2](#img_diag02).) By this means the aura will be intensified, and when
+2](#img_diag02)..md) By this means the aura will be intensified, and when
 the hand is removed the observer will be able to see it round the bare
 arm. Needless to say, as the eyes become accustomed to the subdued
 light, the illumination will periodically require alteration.
@@ -460,8 +460,8 @@ this increase is evidently dependent upon the functional activity of the
 glands, as it becomes most definite during pregnancy and lactation, and
 occasionally also, only to a less extent for a short time before, during
 and after menstruation. When once the aura has been fully developed, age
-does not produce any alteration, but disease may. Figs. [9](#img_fig09)
-to [18](#img_fig18) are good diagrammatic representations of the auras
+does not produce any alteration, but disease may. Figs. [9](#img_fig09.md)
+to [18](#img_fig18.md) are good diagrammatic representations of the auras
 of women in health.
 
 Amongst healthy women auras may depart in shape from the above
@@ -491,8 +491,8 @@ infantile form to acquire in five or six years the shape characteristic
 of the adult female. The change generally commences a short time before
 menstruation appears, but only very rarely has the transitional stage
 been noticed before the beginning of external bodily development. For
-example, a girl of fourteen years of age ([case 10](tha02.htm#case10),
-figs. [7](#img_fig07) and [8](#img_fig08)), had a marked transitional
+example, a girl of fourteen years of age ([case 10](tha02.htm#case10.md),
+figs. [7](#img_fig07) and [8](#img_fig08).md), had a marked transitional
 aura previous to menstruation. The youngest child to exhibit any
 increase of the aura by the side of the trunk, was just two months over
 twelve years. She was a big tall girl, precociously developed. Another
@@ -614,8 +614,8 @@ shoulders. Through the dark carmine screen the inner aura was quite
 plain, about three quarters of an inch wide, and displayed well marked
 striation.
 
-<span id="case03">Case 3</span>. (Figs. [1](#img_fig01) and
-[2](#img_fig02).) C, a strong lad, healthy,
+<span id="case03">Case 3</span>. (Figs. [1](#img_fig01.md) and
+[2](#img_fig02)..md) C, a strong lad, healthy,
 
 <span id="page_18">p. 18</span>
 
@@ -645,8 +645,8 @@ an inch in width. As he stood sideways, the outer aura was about three
 inches in breadth at the back by the shoulders and nates, coming down
 straight. It was three inches over the whole length of the front.
 
-<span id="case05">Case 5</span>. (Figs. [3](#img_fig03) and
-[4](#img_fig04).) E, a professional athlete, thirty-three years of age.
+<span id="case05">Case 5</span>. (Figs. [3](#img_fig03.md) and
+[4](#img_fig04)..md) E, a professional athlete, thirty-three years of age.
 He was well proportioned in every way and robust in health. The colour
 of his aura was a blue with a little grey. The outer aura was eight
 inches round the head, and all down the trunk, arms, and legs five
@@ -704,7 +704,7 @@ definition. The hue was an opaque hazy brown-grey. It did not stand out
 against the black background as distinctly as the ordinary blue-grey
 auras do. On the other hand it was easily visible through a pale blue
 screen when the background was white. The complementary coloured bands
-(see [chapter 5](tha06.htm#chap05)), after making due allowance for the
+(see [chapter 5](tha06.htm#chap05).md), after making due allowance for the
 colour of the skin, were even all over the body and apparently normal.
 The mutual attraction of the auras emanating from the subject and the
 observer's hands will be described later on.
@@ -716,7 +716,7 @@ as a greenish haze following the outline of the body, being very narrow,
 but widest round the head.
 
 When the child was four months old (compare A, [case
-1](tha02.htm#case01), and B, [case 2](tha02.htm#case02)), she was
+1](tha02.htm#case01), and B, [case 2](tha02.htm#case02).md), she was
 examined a second time under better surroundings. The aura was
 exceedingly hard to detect as it was not nearly as distinct as was
 expected. It only looked about half an inch wide by the body, and a
@@ -732,11 +732,11 @@ striated. The colour was a true blue.
 
 <span id="page_21">p. 21</span>
 
-<span id="case">Case 9</span>. (Figs. [5](#img_fig05) and
-[6](#img_fig06).) I, a tall girl nine years of age was recently
+<span id="case">Case 9</span>. (Figs. [5](#img_fig05.md) and
+[6](#img_fig06)..md) I, a tall girl nine years of age was recently
 inspected. She had only suffered from childish ailments. The colour of
 her aura was very peculiar—green, yellow, and grey intermingled but not
-blended. (See [chapter 3](tha04.htm#chap03).) The outer aura was eight
+blended. (See [chapter 3](tha04.htm#chap03)..md) The outer aura was eight
 inches round the head, which is extraordinarily large and exceptional
 for a child. By the trunk and limbs it had the usual infantile shape,
 and
@@ -769,14 +769,14 @@ was of average width, namely, three inches by the trunk and slightly
 less lower down. The inner aura was about two and a half inches broad,
 exhibiting striation plainly, exactly what might be expected for a girl
 in good health. The chief interest lies in the remarkable size of the
-aura round the head. (Compare with [case 15](tha02.htm#case15) in an
+aura round the head. (Compare with [case 15](tha02.htm#case15.md) in an
 adult.) It is more than probable that when grown up she will be a clever
 woman.
 
 <span id="page_22">p. 22</span>
 
-<span id="case10">Case 10</span>. (Figs. [7](#img_fig07) and
-[8](#img_fig08).) J, has always been very healthy, and her aura has been
+<span id="case10">Case 10</span>. (Figs. [7](#img_fig07.md) and
+[8](#img_fig08)..md) J, has always been very healthy, and her aura has been
 inspected from time to time, thus allowing the growth to be watched at
 different periods of her adolescence. When first examined in January,
 1911, she was twelve and a half years old, and both her auras were
@@ -837,8 +837,8 @@ inches, and by the legs four and a half, making a good ovoid shape. When
 she turned sideways, it was six at the small of the back, and elsewhere
 four and a half inches.
 
-<span id="case11">Case 11</span>. (Figs. [9](#img_fig09) and
-[10](#img_fig10).) K. The following is an instance of a perfectly shaped
+<span id="case11">Case 11</span>. (Figs. [9](#img_fig09.md) and
+[10](#img_fig10)..md) K. The following is an instance of a perfectly shaped
 aura of average width, enveloping a young woman twenty-three years old,
 an artist's model, her profession being a sufficient guarantee that she
 is well built. She is bright and intelligent, quite healthy, and has
@@ -924,8 +924,8 @@ heated, the woman felt faint. The first intimation of this condition was
 that both auras became dim; subsequently, as recovery took place, they
 gradually returned to their normal state.
 
-<span id="case12">Case 12.</span> (Figs. [11](#img_fig11) and
-[12](#img_fig11).) L, a strongly built lady with intellectual faculties
+<span id="case12">Case 12.</span> (Figs. [11](#img_fig11.md) and
+[12](#img_fig11)..md) L, a strongly built lady with intellectual faculties
 certainly above the average, was recently inspected. She was robust and
 
 <span id="page_26">p. 26</span>
@@ -969,14 +969,14 @@ impression of an almost imperceptible haze beyond, a phenomenon
 <span id="page_27">p. 27</span>
 
 rarely present except when the aura is wide. It has been called the
-Ultra-outer aura. (See page [47](tha04.htm#page_47), chapter
-[3](tha04.htm#chap03)).
+Ultra-outer aura. (See page [47](tha04.htm#page_47.md), chapter
+[3](tha04.htm#chap03).md).
 
 The next instance is an example of a low grade aura, the complete
 antithesis of the one just described.
 
-<span id="case13">Case 13</span>. (Figs. [13](#img_fig13) and
-[14](#img_fig14).) M, a diminutive, well shaped woman, twenty-eight<span
+<span id="case13">Case 13</span>. (Figs. [13](#img_fig13.md) and
+[14](#img_fig14)..md) M, a diminutive, well shaped woman, twenty-eight<span
 id="img_fig15"></span>
 
 <table data-align="RIGHT">
@@ -1009,7 +1009,7 @@ the back it had a bulge, which was broadest at the level of the waist,
 where it was six inches. The inner aura was about two inches all over
 the body and faintly striated.
 
-<span id="case14">Case 14</span>. ([Fig. 15](#img_fig15).) N, was a
+<span id="case14">Case 14</span>. ([Fig. 15](#img_fig15)..md) N, was a
 married woman twenty-five years old. The shape of her aura was quite
 ordinary for her age, but was remarkable for having several rays coming
 off from the body at the
@@ -1035,7 +1035,7 @@ Click to enlarge</a></td>
 
 tumour of the left breast.
 
-<span id="case15">Case 15</span>. (Fig. [16](#img_fig16)). O, a lady
+<span id="case15">Case 15</span>. (Fig. [16](#img_fig16).md). O, a lady
 just turned twenty-three years, has had no serious illness, but has I
 never been robust, and was suffering from the effects of overwork and
 not taking proper exercise. She complained of having frequent
@@ -1065,8 +1065,8 @@ aura, too, is larger than the average. Taking it all round it
 approximates to an extra wide male aura. The following is a marked
 example.
 
-<span id="case16">Case 16</span>. (Figs. [17](#img_fig17) and
-[18](#img_fig18).) P, a naturally strong young woman, well made,
+<span id="case16">Case 16</span>. (Figs. [17](#img_fig17.md) and
+[18](#img_fig18)..md) P, a naturally strong young woman, well made,
 twenty-five years of age, came to have her aura inspected in 1918. The
 outer aura, as she faced the observer, was of medium size, being nine
 and a half inches by the head, nine by the trunk, and at the widest part
@@ -1165,7 +1165,7 @@ limits laid down for average
 
 width, and that it prematurely contracts down by the thighs and legs to
 below the normal, in fact is of the spatulate type (page
-[162](tha08.htm#page_162)), under which heading should it be placed? The
+[162](tha08.htm#page_162).md), under which heading should it be placed? The
 case must be treated upon its own merits.
 
 The following tables contain all the examples of individuals of the same
@@ -2251,14 +2251,14 @@ harvest.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:\*](tha02.htm#fr_0) The author considers that
+<span id="fn_0"></span>[2:\*](tha02.htm#fr_0.md) The author considers that
 ninety-five per cent. of people with normal eyesight can see the aura.
 One gentleman states that only one person out of four hundred, to whom
 he had tried to show the aura, was unable to distinguish the phenomenon.
 
-<span id="fn_1"></span>[5:\*](tha02.htm#fr_1) In his present house the
+<span id="fn_1"></span>[5:\*](tha02.htm#fr_1.md) In his present house the
 outlook is more open, so two blinds are installed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Etheric Double](tha03)
+[Next: Chapter II. The Etheric Double](tha03.md)

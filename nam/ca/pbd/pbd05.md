@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](pbd04)  [Next](pbd06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](pbd04)  [Next](pbd06.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ suit was first put on.
 
 ------------------------------------------------------------------------
 
-[Next: Hiding Places](pbd06)
+[Next: Hiding Places](pbd06.md)

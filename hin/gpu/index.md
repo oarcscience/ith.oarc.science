@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gpu00)    [Page
-Index](pageidx)    [Text \[Zipped\]](gpu.txt.gz)
+[Contents](#contents)    [Start Reading](gpu00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](gpu.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -75,26 +75,26 @@ peers into the well."
 
 ------------------------------------------------------------------------
 
-[Title Page](gpu00)  
-[Contents](gpu01)  
-[Introduction](gpu02)  
+[Title Page](gpu00.md)  
+[Contents](gpu01.md)  
+[Introduction](gpu02.md)  
 [Chapter I. An Account of the Miseries of the Sinful in this World and
-the Other](gpu03)  
-[Chapter II. An Account of The Way of Yama](gpu04)  
-[Chapter III. An Account of the Torments of Yama](gpu05)  
+the Other](gpu03.md)  
+[Chapter II. An Account of The Way of Yama](gpu04.md)  
+[Chapter III. An Account of the Torments of Yama](gpu05.md)  
 [Chapter VI. An Account of the Kinds of Sins which lead to
-Hell](gpu06)  
-[Chapter V. An Account of the Signs of Sins](gpu07)  
-[Chapter VI. The Miseries of Birth of the Sinful](gpu08)  
-[Chapter VII. Babhruvāhana's Sacrament for the Departed One](gpu09)  
-[Chapter VIII. An Account of the Gifts for the Dying](gpu10)  
-[Chapter IX. An Account of the Rites for the Dying](gpu11)  
-[Chapter X. The Collecting of the Bones from the Fire](gpu12)  
-[Chapter XI. An Account of the Ten-Days' Ceremonies](gpu13)  
-[Chapter XII. An Account of the Eleventh-day Rite](gpu14)  
+Hell](gpu06.md)  
+[Chapter V. An Account of the Signs of Sins](gpu07.md)  
+[Chapter VI. The Miseries of Birth of the Sinful](gpu08.md)  
+[Chapter VII. Babhruvāhana's Sacrament for the Departed One](gpu09.md)  
+[Chapter VIII. An Account of the Gifts for the Dying](gpu10.md)  
+[Chapter IX. An Account of the Rites for the Dying](gpu11.md)  
+[Chapter X. The Collecting of the Bones from the Fire](gpu12.md)  
+[Chapter XI. An Account of the Ten-Days' Ceremonies](gpu13.md)  
+[Chapter XII. An Account of the Eleventh-day Rite](gpu14.md)  
 [Chapter XIII. An Account of the Ceremony for all the
-Ancestors](gpu15)  
-[Chapter XIV. An Account of the City of the King of Justice](gpu16)  
+Ancestors](gpu15.md)  
+[Chapter XIV. An Account of the City of the King of Justice](gpu16.md)  
 [Chapter XV. An Account of the Coming to Birth of People who have done
-Good](gpu17)  
-[Chapter XVI. An Account of the Law for Liberation](gpu18)  
+Good](gpu17.md)  
+[Chapter XVI. An Account of the Law for Liberation](gpu18.md)  

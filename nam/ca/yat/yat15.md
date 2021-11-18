@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat14)  [Next](yat16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat14)  [Next](yat16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -39,16 +39,16 @@ Indeed, I have abandoned a pretty one. What, pray, should I do if you do
 not love me? I shall try another woman. Perchance you think about me,
 'He will not find any women.' You do not know what I have in mind. I
 have many brothers and sisters who would help me <span
-id="fr_123"></span>[291](#fn_120) if I go anywheres to woo. Many are the
+id="fr_123"></span>[291](#fn_120.md) if I go anywheres to woo. Many are the
 nephews and nieces, my sister's children."
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_120"></span>[185:291](yat15.htm#fr_123) With the payment
+<span id="fn_120"></span>[185:291](yat15.htm#fr_123.md) With the payment
 for a bride.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Childbirth and Death](yat16)
+[Next: XVII. Childbirth and Death](yat16.md)

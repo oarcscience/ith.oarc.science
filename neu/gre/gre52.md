@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre51)  [Next](gre53) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre51)  [Next](gre53.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,4 +199,4 @@ after the home-field hay-harvest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLVIII: The Slaying of Thorbiorn Oxmain](gre53)
+[Next: Chapter XLVIII: The Slaying of Thorbiorn Oxmain](gre53.md)

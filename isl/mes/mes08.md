@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes07)  [Next](mes09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes07)  [Next](mes09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -20,7 +20,7 @@ Textual Heritage
 
 ### CHAPTER V.
 
-*Sheykh Salāhu-’d-Dīn* <span id="fr_26"></span>[1](#fn_25) *Ferīdūn,
+*Sheykh Salāhu-’d-Dīn* <span id="fr_26"></span>[1](#fn_25.md) *Ferīdūn,
 surnamed Zer-Kūb* (*Goldbeater*).
 
 ### 1.
@@ -51,7 +51,7 @@ courtiers.
 
 To those attendants the king exhibited the sealed packet, as having just
 then been privately received from the Qaysar <span
-id="fr_27"></span>[2](#fn_26)
+id="fr_27"></span>[2](#fn_26.md)
 
 <span id="page_111">p. 111</span>
 
@@ -111,13 +111,13 @@ class="smallcaps">a.d.</span> 1258).
 
 ### Footnotes
 
-<span id="fn_25"></span>[110:1](mes08.htm#fr_26) Saladin of European
+<span id="fn_25"></span>[110:1](mes08.htm#fr_26.md) Saladin of European
 writings. The words mean: *the Fitness of the Religion* (of Islām).
 
-<span id="fn_26"></span>[110:2](mes08.htm#fr_27) The Muslim world knows
+<span id="fn_26"></span>[110:2](mes08.htm#fr_27.md) The Muslim world knows
 but one *Qaysar* (Cæsar), the Emperor of Rome (Old or New), which title
 is now borne by the Emperor of Austria.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](mes09)
+[Next: Chapter VI](mes09.md)

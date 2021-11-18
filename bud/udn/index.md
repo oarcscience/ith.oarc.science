@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index) [Buddhism](../index)
+[Intangible Textual Heritage](../../index) [Buddhism](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -17,15 +17,15 @@ Circumflexes represent macrons in this transcription.</span>
 
 |          |                           |
 |---------:|---------------------------|
-|          | [Title Page](udn00)       |
-|          | [Preface](udn01)          |
-|          | [Introduction](udn02)     |
+|          | [Title Page](udn00.md)       |
+|          | [Preface](udn01.md)          |
+|          | [Introduction](udn02.md)     |
 |          |                           |
-|    I.    | [The Enlightenment](udn1) |
-|   II.    | [Mucilinda](udn2)         |
-|  III.    | [Nanda](udn3)             |
-|   IV.    | [Meghiya](udn4)           |
-|    V.    | [Sona Thera](udn5)        |
-|   VI.    | [Jaccandha](udn6)         |
-|  VII.    | [Cula](udn7)              |
-| VIII.    | [Patalagami](udn8)        |
+|    I.    | [The Enlightenment](udn1.md) |
+|   II.    | [Mucilinda](udn2.md)         |
+|  III.    | [Nanda](udn3.md)             |
+|   IV.    | [Meghiya](udn4.md)           |
+|    V.    | [Sona Thera](udn5.md)        |
+|   VI.    | [Jaccandha](udn6.md)         |
+|  VII.    | [Cula](udn7.md)              |
+| VIII.    | [Patalagami](udn8.md)        |

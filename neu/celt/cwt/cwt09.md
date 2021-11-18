@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cwt08)  [Next](cwt10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cwt08)  [Next](cwt10.md) 
 
 ------------------------------------------------------------------------
 
@@ -261,4 +261,4 @@ Strength to every one."
 
 ------------------------------------------------------------------------
 
-[Next: Inisfail](cwt10)
+[Next: Inisfail](cwt10.md)

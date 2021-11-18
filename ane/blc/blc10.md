@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc09)  [Next](blc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc09)  [Next](blc11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ his envoy, spake a word \[saying\],
 <span id="img_020"></span> <span align="CENTER"> [![Portion of a tablet
 inscribed in Assyrian with a text of the Third Tablet of the Creation
 Series. \[No. 93,017.\]](tn/020.png)  
-Click to enlarge](img/020.png)  
+Click to enlarge](img/020.png.md)  
 Portion of a tablet inscribed in Assyrian with a text of the Third
 Tablet of the Creation Series. \[No. 93,017.\]  
 </span>
@@ -334,4 +334,4 @@ overflowing,
 
 ------------------------------------------------------------------------
 
-[Next: Fourth Tablet](blc11)
+[Next: Fourth Tablet](blc11.md)

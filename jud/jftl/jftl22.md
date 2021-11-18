@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl21)  [Next](jftl23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl21)  [Next](jftl23.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ servants could not perform this duty. The
 <span id="img_21400"></span> <span align="CENTER"> [![''Thou canst only
 be my long lost son Elkanan!'' (&lt;i&gt;Page
 224&lt;/i&gt;).](tn/21400.jpg)  
-Click to enlarge](img/21400.jpg)  
+Click to enlarge](img/21400.jpg.md)  
 ''Thou canst only be my long lost son Elkanan!'' (*Page 224*).  
 </span>
 
@@ -126,7 +126,7 @@ cry for his father and mother. For days nobody took the slightest notice
 of his continual questionings until a priest, with a harsh, cruel face,
 spoke to him severely one day.
 
-"I [perceive](errata.htm#6), Andreas," he said, "thou hast a stubborn
+"I [perceive](errata.htm#6.md), Andreas," he said, "thou hast a stubborn
 spirit. It shall be curbed. Thy father and mother are dead--all the
 world is dead to thee Thou hast strange notions in thy head. We shall
 rid thee of them."
@@ -322,4 +322,4 @@ son, Elkanan.
 
 ------------------------------------------------------------------------
 
-[Next: The Slave's Fortune](jftl23)
+[Next: The Slave's Fortune](jftl23.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -20,14 +20,14 @@ Textual Heritage
 
 ### XVII.
 
-<span id="img_m28900"></span> ![Conclusion.](img/m28900.jpg)
+<span id="img_m28900"></span> ![Conclusion.](img/m28900.jpg.md)
 
 <span class="smallcaps">Alas</span>! By one poor morsel, tasted through
 a sin,  
 The fount of thought's congealed; heart's blood diluted thin.  
 One grain of wheat has cast eclipse o’er sun of mind,  
 As "dragon's tail" doth dull the full moon, when inclined. <span
-id="fr_433"></span>[1](#fn_432)  
+id="fr_433"></span>[1](#fn_432.md)  
 Behold. How delicate is thought! One mite of clay,  
 From full-moon glory, it reduced to disarray.  
 The bread of life, received, digested, gives man power.  
@@ -90,8 +90,8 @@ EDINBURGH AND LONDON.
 
 ### Footnotes
 
-<span id="fn_432"></span>[m289:1](mes32.htm#fr_433) The
-"[*cauda*](errata.htm#3) *draconis*" was the "descending node," one of
+<span id="fn_432"></span>[m289:1](mes32.htm#fr_433.md) The
+"[*cauda*](errata.htm#3.md) *draconis*" was the "descending node," one of
 the ecliptical points. The "forbidden fruit," in Islām, is held to have
 been wheat.
 

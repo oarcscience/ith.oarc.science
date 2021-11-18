@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao02)   
-[Previous](tao01)  [Next](tao03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao02.md)   
+[Previous](tao01)  [Next](tao03.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ lasting memory.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](tao03)
+[Next: Chapter 3](tao03.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Next](lbob01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Next](lbob01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -58,7 +58,7 @@ life of Christ not to be found in the four Evangelists."*
 <span id="img_front"></span> <span align="CENTER"> [![MEMBERS OF THE
 COUNCIL OF NICE PRESENTING THEIR DECISION TO THE EMPEROR CONSTANTINE:
 FOURTH CENTURY. FROM AN EARLY GREEK MANUSCRIPT](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 MEMBERS OF THE COUNCIL OF NICE PRESENTING THEIR DECISION TO THE EMPEROR
 CONSTANTINE: FOURTH CENTURY. FROM AN EARLY GREEK MANUSCRIPT  
 </span>
@@ -67,6 +67,6 @@ CONSTANTINE: FOURTH CENTURY. FROM AN EARLY GREEK MANUSCRIPT
 
 ------------------------------------------------------------------------
 
-[Next: List of Illustrations](lbob01)
+[Next: List of Illustrations](lbob01.md)
 
 </div>

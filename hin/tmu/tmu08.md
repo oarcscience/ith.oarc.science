@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu07)  [Next](tmu09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu07)  [Next](tmu09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_34">p. 34</span>
 
-### AMṚṬABINḌU <span id="fr_10"></span>[1](#fn_10)-UPANISHAḌ
+### AMṚṬABINḌU <span id="fr_10"></span>[1](#fn_10.md)-UPANISHAḌ
 
 ### OF
 
@@ -70,7 +70,7 @@ perishes again and again is not conscious of its own destruction. But he
 is never able to come to (or see) the sun (of Parabrahman) from the
 darkness (of ignorance). Should such darkness be cleared, then he alone
 sees the non-dual state. Parabrahman is Śabḍākshara. <span
-id="fr_11"></span>[1](#fn_11) What remains after the cessation of
+id="fr_11"></span>[1](#fn_11.md) What remains after the cessation of
 Śabḍa-Veḍas, that is Akshara (indestructible)', should be meditated upon
 by a learned man who wishes to secure quiescence to his Āṭmā.
 
@@ -102,15 +102,15 @@ Such is the Upanishaḍ.
 
 ### Footnotes
 
-<span id="fn_10"></span>[34:1](tmu08.htm#fr_10) Lit., the immortal germ.
+<span id="fn_10"></span>[34:1](tmu08.htm#fr_10.md) Lit., the immortal germ.
 
-<span id="fn_11"></span>[35:1](tmu08.htm#fr_11) It is the indestructible
+<span id="fn_11"></span>[35:1](tmu08.htm#fr_11.md) It is the indestructible
 known through the sound or the Veḍas.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 7. Āṭmaboḍha-Upanishaḍ of Ṛgveḍa](tmu09)
+[Next: 7. Āṭmaboḍha-Upanishaḍ of Ṛgveḍa](tmu09.md)
 
 </div>

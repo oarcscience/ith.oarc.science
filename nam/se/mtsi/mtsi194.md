@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi193)  [Next](mtsi195) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi193)  [Next](mtsi195.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ remained inside of the box crying, "Master, master." He was drowned.
 
 ------------------------------------------------------------------------
 
-[Next: 59. The Bungling Host](mtsi195)
+[Next: 59. The Bungling Host](mtsi195.md)

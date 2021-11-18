@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](irc02)  [Next](irc04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](irc02)  [Next](irc04.md) 
 
 ------------------------------------------------------------------------
 
@@ -186,7 +186,7 @@ continue to travel without interruption. And thou wilt have traveled
 some time before thou arrivest at the place where thou wilt see a large
 field. Thou wilt see there, moreover, a lodge standing not far away. And
 there beside the lodge stands the tree that is called Tooth. <span
-id="fr_3"></span>[a](#fn_3) Moreover, the blossoms this standing tree
+id="fr_3"></span>[a](#fn_3.md) Moreover, the blossoms this standing tree
 bears cause that world to be light, making it light for the man-beings
 dwelling there.
 
@@ -447,7 +447,7 @@ again gone to the place where stood the lodge of the chief
 who was her consort. Now, verily, in reference to him he himself in turn
 was surprised to see her return home. When it became day again, the
 chief noticed that seemingly it appeared that the life of the maiden,
-his spouse, had changed. <span id="fr_4"></span>[a](#fn_4) Thus it was
+his spouse, had changed. <span id="fr_4"></span>[a](#fn_4.md) Thus it was
 that, day after day and night after night, he still considered the
 matter. The conditions were such that he did not know what thing was the
 cause that it \[his spouse's condition\] was thus, so he merely marveled
@@ -508,7 +508,7 @@ take place from the changed condition of her body. Sometime afterward
 the chief spoke to her, saying: "As a matter of fact, a man-being (or
 rather woman-being) will arrive, and she is a man-being child, and thou
 must care for her. She will grow in size rapidly, and her name is
-Zephyrs." <span id="fr_5"></span>[a](#fn_5) The maiden said nothing, for
+Zephyrs." <span id="fr_5"></span>[a](#fn_5.md) The maiden said nothing, for
 the reason that she did not understand what her spouse told her.
 
 <span id="page_171">p. 171</span>
@@ -552,11 +552,11 @@ pulled up, in order that the earth be torn open, and that there be an
 abyss that pierces the earth, and, moreover, that there beside the abyss
 one shall lay thee, and at thy head thy spouse shall be seated with her
 legs banging down into the abyss." At that time the chief said:
-"Ku‘'. <span id="fr_6"></span>[a](#fn_6) I am thankful! Now, verily, the
+"Ku‘'. <span id="fr_6"></span>[a](#fn_6.md) I am thankful! Now, verily, the
 whole matter has been fulfilled by thy divining my Word."
 
 During this time. \[the duration of the dream feast\], a large body of
-man-beings, <span id="fr_7"></span>[b](#fn_7) paid a visit there. He,
+man-beings, <span id="fr_7"></span>[b](#fn_7.md) paid a visit there. He,
 the Deer, paid a visit there. He, the Great-horned Deer \[the Buck\],
 paid a visit there. He, the Spotted Fawn, paid a visit, and was there
 seeking to divine the Word of the
@@ -782,10 +782,10 @@ you two."
 
 It continued thus that the two brothers played together. They were in
 the habit of making a circuit of the island <span
-id="fr_8"></span>[a](#fn_8) floating there. And, as rapidly as they made
+id="fr_8"></span>[a](#fn_8.md) floating there. And, as rapidly as they made
 a circuit of it, so rapidly did the earth increase in size. When, it is
 said, the island had grown to a great size, then he who had been cast
-out of doors kept saying: "Man-beings <span id="fr_9"></span>[b](#fn_9)
+out of doors kept saying: "Man-beings <span id="fr_9"></span>[b](#fn_9.md)
 are about to dwell here." The other person kept saying: "What manner of
 thing is the reason that thou dost keep saying, 'Man-beings are about to
 dwell here?'" He said: "The reason that I say that is that it is a
@@ -944,14 +944,14 @@ at the present time they are still there. And it came to pass that they
 <span id="page_197">p. 197</span>
 
 were changed, becoming otgon \[malefic\] <span
-id="fr_10"></span>[a](#fn_10), and the reason that it thus came to pass
+id="fr_10"></span>[a](#fn_10.md), and the reason that it thus came to pass
 is that some customarily put forth their orenda for the purpose of
 ending the days of the man-beings; and, moreover, they still haunt the
 inside of the earth.
 
 At this time Sapling again traveled about. Then he was surprised that,
 seemingly, a man-being came toward him, and his name was Hadu’i’ <span
-id="fr_11"></span>[b](#fn_11). They two met. The man-being Hadu’i’,
+id="fr_11"></span>[b](#fn_11.md). They two met. The man-being Hadu’i’,
 said: "Where is the place whence thou dost come?" The Sapling said: "I
 am going out viewing the earth here present. Where is the place whence
 on dost come?" Hadu’i’ said: "From here do I come. I am
@@ -1000,7 +1000,7 @@ And I shall call the man-beings on my part by a kinship term, saying:
 'my Grandchildren.' And they must make customarily a thing of wood which
 shall be in my likeness, being wrought thus, that will enable them to go
 to the several lodges, and, moreover, they who thus personate me shall
-be hondu’i’. <span id="fr_12"></span>[a](#fn_12) They must employ for
+be hondu’i’. <span id="fr_12"></span>[a](#fn_12.md) They must employ for
 this purpose tobacco \[native tobacco\]. It will be able to cause those
 who have become ill to recover. There, moreover, I shall take up my
 abode where the ground is wild and rough, and where, too, there are rock
@@ -1083,7 +1083,7 @@ Then she, the elder woman-being, arose at once, and began to run in
 pursuit of the two persons. Fox ran along on the ground and, in turn,
 Fisher crossed from tree to tree, running along the branches. Now, the
 elder woman-being was running close behind, and now she was about to
-[seize](errata.htm#0) Fox, who now, moreover, being wearied, cast the
+[seize](errata.htm#0.md) Fox, who now, moreover, being wearied, cast the
 sun up above. Then Fisher caught it. Now, next
 
 <span id="page_206">p. 206</span>
@@ -1139,7 +1139,7 @@ regard to the nocturnal light orb \[the moon\].
 Now, Sapling traveled over the visible earth. There was in one place a
 river course, and he stood beside the river. There he went to work and
 he formed the body of a human man-being. <span
-id="fr_13"></span>[a](#fn_13) He completed his body and then he blew
+id="fr_13"></span>[a](#fn_13.md) He completed his body and then he blew
 into his mouth. Thereupon, the human man-being became alive. Sapling
 said: "Thou thyself ownest all this that is made." So, now, verily, he
 repeatedly looked around, and there was there a grove whose fruit was
@@ -1229,8 +1229,8 @@ so far as thou art concerned, thou art not able to make a human
 man-being. Look! Verily, that which thou believest to be a man-being is
 not a true one." He saw standing there a long file of things which were
 not man-beings. There sat the beast with the face of a man-being, a
-monkey; <span id="fr_14"></span>[a](#fn_14) there next to him sat the
-ape; <span id="fr_15"></span>[a](#fn_14) and there sat the great horned
+monkey; <span id="fr_14"></span>[a](#fn_14.md) there next to him sat the
+ape; <span id="fr_15"></span>[a](#fn_14.md) and there sat the great horned
 owl. And there were other things also seated there. Then they all
 changed, and the reason of it is that they were not man-beings. Sapling
 said, when he overmatched their
@@ -1310,7 +1310,7 @@ Moreover, it is so that continuously the orenda immanent in his
 body--the orenda with which he suffuses his person, the orenda which he
 projects or exhibits, through which he is possessed of force and
 potency--is ever full, undiminished, and all-sufficient; and, in the
-next place, nothing that is otkon <span id="fr_16"></span>[a](#fn_15) or
+next place, nothing that is otkon <span id="fr_16"></span>[a](#fn_15.md) or
 deadly, nor, in the next place, even the Great Destroyer, otkon in
 itself and faceless, has any effect on him, he being perfectly immune to
 its orenda; and, in the next place, there is nothing that can bar his
@@ -1333,40 +1333,40 @@ retransform their bodies, severally, without cessation.
 
 ### Footnotes
 
-<span id="fn_3"></span>[151:a](irc03.htm#fr_3) Probably the yellow
+<span id="fn_3"></span>[151:a](irc03.htm#fr_3.md) Probably the yellow
 dog-tooth violet, Erythronium americanum.
 
-<span id="fn_4"></span>[167:a](irc03.htm#fr_4) The expression "life has
+<span id="fn_4"></span>[167:a](irc03.htm#fr_4.md) The expression "life has
 changed" is employed usually as a euphemism for "is pregnant."
 
-<span id="fn_5"></span>[170:a](irc03.htm#fr_5) The name Zephyrs merely
+<span id="fn_5"></span>[170:a](irc03.htm#fr_5.md) The name Zephyrs merely
 approximates the meaning of the original, which signifies the warm
 springtide zephyrs that sometimes take the form of small whirlwinds or
 eddies of warm air.
 
-<span id="fn_6"></span>[173:a](irc03.htm#fr_6) This is an exclamation
+<span id="fn_6"></span>[173:a](irc03.htm#fr_6.md) This is an exclamation
 expressing gratification at having one's dream or vision divined and
 satisfied.
 
-<span id="fn_7"></span>[173:b](irc03.htm#fr_7) The relator of this
+<span id="fn_7"></span>[173:b](irc03.htm#fr_7.md) The relator of this
 version stated that there was a reputed connection between the visits of
 these different personages and the presence of their kinds in the new
 world beneath the sky land, but he had forgotten it.
 
-<span id="fn_8"></span>[187:a](irc03.htm#fr_8) Hence arose the idea so
+<span id="fn_8"></span>[187:a](irc03.htm#fr_8.md) Hence arose the idea so
 prevalent among Amerindian peoples that the earth is an island, floating
 on the primal sea.
 
-<span id="fn_9"></span>[187:b](irc03.htm#fr_9) Here man-being means
+<span id="fn_9"></span>[187:b](irc03.htm#fr_9.md) Here man-being means
 human being.
 
-<span id="fn_10"></span>[197:a](irc03.htm#fr_10) In English there is no
+<span id="fn_10"></span>[197:a](irc03.htm#fr_10.md) In English there is no
 approximately exact equivalent of the term otgon, which is an adjective
 form denotive of the deadly, malefic, pernicious use of orenda or magic
 power reputed to be inherent in all beings and bodies. It usually
 signifies deadly in deed and monstrous in aspect.
 
-<span id="fn_11"></span>[197:b](irc03.htm#fr_11) The Onondagas call this
+<span id="fn_11"></span>[197:b](irc03.htm#fr_11.md) The Onondagas call this
 personage Hadu’i’, the Senecas Shagodiiowe‘gowā, and the Mohawks,
 Akoñwāră'. The Onondaga name is evidently connected with the expression
 hadu’ä’, signifying "he is hunch-backed," in reference to the stooping
@@ -1384,19 +1384,19 @@ personification, this concept. But from a careful synthesis of the chief
 characteristics of this personage, it seems very probable that the
 whirlwind lies at the foundation of the conception.
 
-<span id="fn_12"></span>[200:a](irc03.htm#fr_12) Masculine plural of
+<span id="fn_12"></span>[200:a](irc03.htm#fr_12.md) Masculine plural of
 hadu’i’.
 
-<span id="fn_13"></span>[209:a](irc03.htm#fr_13) From this paragraph to
+<span id="fn_13"></span>[209:a](irc03.htm#fr_13.md) From this paragraph to
 the end of the version there is more or less admixture of trans-Atlantic
 ideas.
 
-<span id="fn_14"></span>[214:a](irc03.htm#fr_15) The monkey and the ape
+<span id="fn_14"></span>[214:a](irc03.htm#fr_15.md) The monkey and the ape
 were probably quite unknown to the Iroquois.
 
-<span id="fn_15"></span>[219:a](irc03.htm#fr_16) See footnote on page
-[197](#page_197).
+<span id="fn_15"></span>[219:a](irc03.htm#fr_16.md) See footnote on page
+[197](#page_197.md).
 
 ------------------------------------------------------------------------
 
-[Next: A Seneca Version](irc04)
+[Next: A Seneca Version](irc04.md)

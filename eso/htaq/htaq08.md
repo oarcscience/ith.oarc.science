@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](htaq07)  [Next](htaq09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](htaq07)  [Next](htaq09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hidden Treasures of the Ancient Qabalah*, by Elias Gewurz, \[1918\], at
 Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ With all its bitterness and all its sweetness<br />
 
 ### THE PEACE THAT PASSETH UNDERSTANDING
 
-Saint [Augustine](errata.htm#5) was one of those few Church Fathers
+Saint [Augustine](errata.htm#5.md) was one of those few Church Fathers
 gifted with the true vision. One of his beautiful sayings is to the
 effect that "Our hearts shall ever be restless until they find rest in
 God." In the course of out journey through life we try to assuage our
@@ -177,4 +177,4 @@ passeth all understanding.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Justice and Mercy](htaq09)
+[Next: VII. Justice and Mercy](htaq09.md)

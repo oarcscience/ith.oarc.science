@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl05)  [Next](mhl07) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl05)  [Next](mhl07.md) 
 
 ------------------------------------------------------------------------
 
@@ -818,4 +818,4 @@ where the righteous can rely on receiving it."
 
 ------------------------------------------------------------------------
 
-[Next: Leviticus Rabba](mhl07)
+[Next: Leviticus Rabba](mhl07.md)

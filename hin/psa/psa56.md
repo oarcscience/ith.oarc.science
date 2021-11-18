@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa55)  [Next](psa57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa55)  [Next](psa57.md) 
 
 ------------------------------------------------------------------------
 
@@ -273,7 +273,7 @@ house-tops, and performing the ceremony
 <span id="page_234">p. 234</span>
 
 <span class="contnote">\[paragraph continues\]</span> "*Arta*,"
-[showered](errata.htm#12) down flowers. Shree Krishnù Chund and Buldeo
+[showered](errata.htm#12.md) down flowers. Shree Krishnù Chund and Buldeo
 Jee displayed towards all great fascination of manner, and delighted
 them greatly; and progressing in this manner, they arrived at the palace
 and took up their abode there. Some days afterwards, Shree Krishnù Jee
@@ -341,4 +341,4 @@ spots; will be bestowed on hearing and reciting this history.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LVI](psa57)
+[Next: Chapter LVI](psa57.md)

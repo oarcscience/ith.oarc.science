@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod16)  [Next](hod18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod16)  [Next](hod18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -43,12 +43,12 @@ the reform of the
 <span id="img_33900"></span> <span align="CENTER"> [![SATANIC
 TEMPTATIONS AND THE LADDER OF LIFE.&lt;br&gt; Reproduced from Heradis
 von Lansperg's Hortus Deliciarum.](tn/generic.jpg)  
-Click to view](img/33900.jpg)  
+Click to view](img/33900.jpg.md)  
 SATANIC TEMPTATIONS AND THE LADDER OF LIFE.  
 Reproduced from Heradis von Lansperg's Hortus Deliciarum.  
 </span>
 
- <span id="fr_192"></span>[1](#fn_191)
+ <span id="fr_192"></span>[1](#fn_191.md)
 
 <span id="page_340">p. 340</span>
 
@@ -62,12 +62,12 @@ verging on coarse superstition, and lacked that love of freedom, of
 <span id="img_34000"></span> <span align="CENTER"> [![CALVINISM TEARING
 DOWN THE ROMAN EMPIRE. Roman Catholic burlesque of the seventeenth
 century.](tn/generic.jpg)  
-Click to view](img/34000.jpg)  
+Click to view](img/34000.jpg.md)  
 CALVINISM TEARING DOWN THE ROMAN EMPIRE. Roman Catholic burlesque of the
 seventeenth century.  
 </span>
 
- <span id="fr_193"></span>[1](#fn_192)
+ <span id="fr_193"></span>[1](#fn_192.md)
 
 progress, of Scientific investigation, and the desire to learn the truth
 which characterises the exponents of Protestantism.
@@ -83,7 +83,7 @@ SATAN OR THE SEVEN-HEADED BEAST OF THE REVELATION.&lt;br&gt; A
 Protestant caricature of the papal trade in dispensations. (From a
 &lt;i&gt;Flugblatt&lt;/i&gt; of the sixteenth century. Henne am
 Rhyn.)](tn/generic.jpg)  
-Click to view](img/34100.jpg)  
+Click to view](img/34100.jpg.md)  
 THE KINGDOM OF SATAN OR THE SEVEN-HEADED BEAST OF THE REVELATION.  
 A Protestant caricature of the papal trade in dispensations. (From a
 *Flugblatt* of the sixteenth century. Henne am Rhyn.)  
@@ -131,7 +131,7 @@ One little word defeats him."
 The Devil was to Luther a real, living power, a concrete personality,
 and he used to characterise him as the good Lord's hangman, and the
 instrument of his anger and punishment. <span
-id="fr_194"></span>[1](#fn_193) God needs the Devil for a servant and
+id="fr_194"></span>[1](#fn_193.md) God needs the Devil for a servant and
 utilises his malignity for the procreation of the good (x, 1259).
 
 <span id="page_343">p. 343</span>
@@ -144,7 +144,7 @@ Evil One are sufficient evidence that he regarded him as very powerful.
 He protested he would go to Worms though every tile on the roofs of the
 city were a Devil; he saw the fiend grinning at him while he translated
 the Bible, and threw his inkstand at his Satanic Majesty. <span
-id="fr_195"></span>[1](#fn_194)
+id="fr_195"></span>[1](#fn_194.md)
 
 By and by the familiarity between Luther and the Devil increased: "Early
 this morning," Luther tells us in his *Tischreden*, "when I awoke the
@@ -169,7 +169,7 @@ deceits,</span>
 <span class="small">frauds, artifices, lies, treacheries, etc., that I
 can scarcely make up my mind to believe. Therefore see and convince
 yourself to your own satisfaction, lest you be mistaken and I may be
-mistaken through you." <span id="fr_196"></span>[1](#fn_195)</span>
+mistaken through you." <span id="fr_196"></span>[1](#fn_195.md)</span>
 
 Although it is true that Luther's views of the Devil were as childish as
 those of his contemporaries, it would be rash to denounce the
@@ -183,7 +183,7 @@ gradually to overcome the old traditional dualism.
 <span id="img_34400"></span> <span align="CENTER"> [![TEMPTATION. A
 PROTESTANT CONCEPTION OF EVIL.&lt;br&gt; German woodcut of the time of
 Luther.](tn/generic.jpg)  
-Click to view](img/34400.jpg)  
+Click to view](img/34400.jpg.md)  
 TEMPTATION. A PROTESTANT CONCEPTION OF EVIL.  
 German woodcut of the time of Luther.  
 </span>
@@ -208,7 +208,7 @@ exorcisms.
 FORTUNE.&lt;br&gt; A modern illustration of the conception of evil. A
 development of the idea represented in the woodcut on the opposite page.
 (After Henneberg's oil painting.)](tn/generic.jpg)  
-Click to view](img/34500.jpg)  
+Click to view](img/34500.jpg.md)  
 THE RACE FOR FORTUNE.  
 A modern illustration of the conception of evil. A development of the
 idea represented in the woodcut on the opposite page. (After Henneberg's
@@ -242,7 +242,7 @@ below the manliness of his spirit.
 <span id="img_34600"></span> <span align="CENTER"> [![THE DEVIL OF
 UNCHASTITY.&lt;br&gt; German woodcut, illustrating the subjectivity of
 the conception of Satan. (Time of the Reformation.)](tn/generic.jpg)  
-Click to view](img/34600.jpg)  
+Click to view](img/34600.jpg.md)  
 THE DEVIL OF UNCHASTITY.  
 German woodcut, illustrating the subjectivity of the conception of
 Satan. (Time of the Reformation.)  
@@ -345,7 +345,7 @@ Click to view</a><br />
 <span class="small">SCENES FROM M. JACOB RUFF'S RELIGIOUS DRAMA "VON
 DESS HERREN WINGARTEN EIN HUIPSCH NUIW SPIL GEZOGEN USZ MATHEO AM 21,
 MARCO AM 12, LUCA AM 20 CAPITEL." (Performed at Zurich, 1539 A. D., on
-May 26.) <span id="fr_197"></span>[1](#fn_196)</span>
+May 26.) <span id="fr_197"></span>[1](#fn_196.md)</span>
 
 Almost all these treatises, poor though they may be as literary,
 theological, or pastoral exhortations, yet show the rationalistic
@@ -356,7 +356,7 @@ became more and more
 
 <span id="img_34900"></span> <span align="CENTER"> [![MACBETH CONSULTING
 THE WITCHES.](tn/generic.jpg)  
-Click to view](img/34900.jpg)  
+Click to view](img/34900.jpg.md)  
 MACBETH CONSULTING THE WITCHES.  
 </span>
 
@@ -770,14 +770,14 @@ the Dominican inquisitors in Catholic countries.
 
 With the waning of the zeal for burning witches the defenders of
 witchcraft grew rather more numerous than before. Among them are Dr.
-Thomas Erastus of Heidelberg, <span id="fr_198"></span>[1](#fn_197) and
-Jean Bodin, a Frenchman. <span id="fr_199"></span>[2](#fn_198) The
-Suffragan Bishop Peter Binsfeld <span id="fr_200"></span>[3](#fn_199)
-and Justice Nicolaus Remigius <span id="fr_201"></span>[4](#fn_200)
+Thomas Erastus of Heidelberg, <span id="fr_198"></span>[1](#fn_197.md) and
+Jean Bodin, a Frenchman. <span id="fr_199"></span>[2](#fn_198.md) The
+Suffragan Bishop Peter Binsfeld <span id="fr_200"></span>[3](#fn_199.md)
+and Justice Nicolaus Remigius <span id="fr_201"></span>[4](#fn_200.md)
 defended in voluminous books with new arguments the policy of the
 *Witch-Hammer*, and King James I. of England wrote a demonology <span
-id="fr_202"></span>[5](#fn_201) filled with all the superstition of the
-Middle Ages; Martin Delrio, <span id="fr_203"></span>[6](#fn_202) a
+id="fr_202"></span>[5](#fn_201.md) filled with all the superstition of the
+Middle Ages; Martin Delrio, <span id="fr_203"></span>[6](#fn_202.md) a
 Jesuit, deems a revision of the belief in witchcraft in order, but comes
 to the conclusion that the evil exists and that there is no remedy save
 the use of relies, holy water, exorcisms, the holy sacraments of the
@@ -791,7 +791,7 @@ witches at Dernburg in the year 1555. Although they were not
 
 <span id="img_36100"></span> <span align="CENTER"> [![POSTER OF THE
 SIXTEENTH CENTURY.](tn/generic.jpg)  
-Click to view](img/36100.jpg)  
+Click to view](img/36100.jpg.md)  
 POSTER OF THE SIXTEENTH CENTURY.  
 </span>
 
@@ -862,7 +862,7 @@ honorably reinstalled in his position. But that was not the end of it.
 CONTRACT WHICH URBAN GRANDIER IS REPORTED TO HAVE MADE WITH THE DEVIL,
 AND WHICH WAS PRODUCED AND ACCEPTED AS EVIDENCE IN
 COURT.](tn/generic.jpg)  
-Click to view](img/36400.jpg)  
+Click to view](img/36400.jpg.md)  
 FAC-SIMILE OF THE CONTRACT WHICH URBAN GRANDIER IS REPORTED TO HAVE MADE
 WITH THE DEVIL, AND WHICH WAS PRODUCED AND ACCEPTED AS EVIDENCE IN
 COURT.  
@@ -906,7 +906,7 @@ executions with a religious unction which made their conduct the more
 detestable. As a typical case we quote an abbreviated report of the
 execution of three witches, Susanna, Ilse, and their mother Catharine,
 which took place at Arendsee, 1687, August 5:  <span
-id="fr_204"></span>[1](#fn_203)
+id="fr_204"></span>[1](#fn_203.md)
 
 "The case was submitted for another revision, during which time six
 clergymen attended daily upon the three prisoners and exhorted them to
@@ -937,7 +937,7 @@ with us.'
 <span id="page_367">p. 367</span>
 
 'When her head was taken off, the people sang, 'To thee we pray, O Holy
-Ghost.' <span id="fr_205"></span>[1](#fn_204)
+Ghost.' <span id="fr_205"></span>[1](#fn_204.md)
 
 "Next came Ilse who was killed in the same way, accompanied by the
 singing of the same hymns.
@@ -957,10 +957,10 @@ but the last and most terrible outbreak took place in Salem,
 Massachusetts, as recorded in Upham's *History of Salem Witchcraft*, and
 in Drake's *Witchcraft Delusion in New England*. Under the baneful
 influence of the religious teachings of Increase Mather and his son,
-Cotton Mather, <span id="fr_206"></span>[2](#fn_205) two Boston
+Cotton Mather, <span id="fr_206"></span>[2](#fn_205.md) two Boston
 clergymen, the Rev. Samuel Parris, minister of the Church in Salem,
 began to have a case of witchcraft investigated, which, as says
-President Andrew Dickson White, <span id="fr_207"></span>[3](#fn_206)
+President Andrew Dickson White, <span id="fr_207"></span>[3](#fn_206.md)
 "would have been the richest
 
 <span id="page_368">p. 368</span>
@@ -1032,7 +1032,7 @@ existence which are the conditions of reason, of truth, and of justice.
 
 ### Footnotes
 
-<span id="fn_191"></span>[339:1](hod17.htm#fr_192) The Hortus Deliciarum
+<span id="fn_191"></span>[339:1](hod17.htm#fr_192.md) The Hortus Deliciarum
 was written in the latter part of the twelfth century for the
 edification of monks, and the present picture illustrates the various
 temptations which lure them away from the crown of life: city life and
@@ -1040,7 +1040,7 @@ precious garments; or the military power of abbots in monasteries with
 its worldly comforts; further money, the couch of laziness, the joy of
 gardening.
 
-<span id="fn_192"></span>[340:1](hod17.htm#fr_193) "The building
+<span id="fn_192"></span>[340:1](hod17.htm#fr_193.md) "The building
 representing the Empire bears the inscription "The gates of hell shall
 not prevail against it." The German princes of the Reformed Faith are
 pictured in effigy in the company of devils. The Count Palatine
@@ -1058,65 +1058,65 @@ Das lehrt das Gmähl den gmainen Mann."</span>
 
 </div>
 
-<span id="fn_193"></span>[342:1](hod17.htm#fr_194) Walch, *Tischreden*,
+<span id="fn_193"></span>[342:1](hod17.htm#fr_194.md) Walch, *Tischreden*,
 v, 839; v, 1109; viii, 1234, x, 1257; xii, 481, and 2043.
 
-<span id="fn_194"></span>[343:1](hod17.htm#fr_195) The story has been
+<span id="fn_194"></span>[343:1](hod17.htm#fr_195.md) The story has been
 doubted, yet, considering the character of Luther, it is not only
 possible but probable. If Luther did not throw the inkstand at the
 Devil, the anecdote is, to say the least, *ben trovato*; it
 characterises excellently his attitude toward Satan.
 
-<span id="fn_195"></span>[344:1](hod17.htm#fr_196) *Angeli Annales
+<span id="fn_195"></span>[344:1](hod17.htm#fr_196.md) *Angeli Annales
 Marchiæ Brandenburgicæ*, p. 326 (quoted by Soldan, p. 302), The original
 reads: "Rogo te, omnia velis certissime explorare, ne subit aliquid
 doli. . . . Nam ego tot fucis, dolis, technis, mendaciis, artibus, etc.,
 hactenus sum exagitatus ut cogar difficilis esse ad credendum. . . .
 Quare vide et prospice tibi quoque ne fallare et ego per te fallar.
 
-<span id="fn_196"></span>[348:1](hod17.htm#fr_197) From Könnecke after
+<span id="fn_196"></span>[348:1](hod17.htm#fr_197.md) From Könnecke after
 contemporaneous illustrations.
 
-<span id="fn_197"></span>[360:1](hod17.htm#fr_198) *De Lamiis et
+<span id="fn_197"></span>[360:1](hod17.htm#fr_198.md) *De Lamiis et
 strigibus*, 1577.
 
-<span id="fn_198"></span>[360:2](hod17.htm#fr_199) *De Magorum
+<span id="fn_198"></span>[360:2](hod17.htm#fr_199.md) *De Magorum
 dæmonomania seu detestando laminarum et Magorum cum Satana commercio*,
 1579.
 
-<span id="fn_199"></span>[360:3](hod17.htm#fr_200) *Tractatus de
+<span id="fn_199"></span>[360:3](hod17.htm#fr_200.md) *Tractatus de
 confessionibus maleficorum et sagarum*, 1589.
 
-<span id="fn_200"></span>[360:4](hod17.htm#fr_201) *Dæmonolatria*, which
+<span id="fn_200"></span>[360:4](hod17.htm#fr_201.md) *Dæmonolatria*, which
 appeared in Latin and in German. See Soldan, p. 351.
 
-<span id="fn_201"></span>[360:5](hod17.htm#fr_202) *Dæmonologie*, 1597.
+<span id="fn_201"></span>[360:5](hod17.htm#fr_202.md) *Dæmonologie*, 1597.
 See also the advice to suppress witchcraft, given to his son in the
 second book of his *Basilicon Doron*, 1599.
 
-<span id="fn_202"></span>[360:6](hod17.htm#fr_203) Disquisitiones
+<span id="fn_202"></span>[360:6](hod17.htm#fr_203.md) Disquisitiones
 magicæ, 1599.
 
-<span id="fn_203"></span>[366:1](hod17.htm#fr_204) See Horst,
+<span id="fn_203"></span>[366:1](hod17.htm#fr_204.md) See Horst,
 *Zauberbibliothek*, 2. pp. 411-413, quoted from Reichardt, Vol. I., pp.
 100-126.
 
-<span id="fn_204"></span>[367:1](hod17.htm#fr_205) Especially the latter
+<span id="fn_204"></span>[367:1](hod17.htm#fr_205.md) Especially the latter
 song, *Nun bitten wir den Heilgen Geist*, was believed to afford
 protection against witchcraft. When a pious superintendent in the
 University of Giessen was once surrounded by students dressed as devils
 he chanted in his anxiety this hymn in the hope of driving away thereby
 his tormentors.
 
-<span id="fn_205"></span>[367:2](hod17.htm#fr_206) Compare Cotton
+<span id="fn_205"></span>[367:2](hod17.htm#fr_206.md) Compare Cotton
 Mather, *The Wonders of the Invisible World; being an Account of the
 Tryals of Several VVitches, lately Ex\[e\]cuted in New England* (first
 London edition, 1693).
 
-<span id="fn_206"></span>[367:3](hod17.htm#fr_207) See his "New Chapters
+<span id="fn_206"></span>[367:3](hod17.htm#fr_207.md) See his "New Chapters
 in the Warfare of Science," *Popular Science Monthly*, May, 1889, p. ii.
 Compare also König, *Ausgeburten des Menschenwahns*, pp. 488-494.
 
 ------------------------------------------------------------------------
 
-[Next: The Abolition of Witch-Prosecution](hod18)
+[Next: The Abolition of Witch-Prosecution](hod18.md)

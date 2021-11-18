@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil09)  [Next](wil11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil09)  [Next](wil11.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 ### NOBLESSE OBLIGE: A STUDY OF INDIAN CASTE
 
 A GRAVER intellectual confusion than that caused by the non-translation
-of the word *Caste* <span id="fr_10"></span>[\*](#fn_10) there has
+of the word *Caste* <span id="fr_10"></span>[\*](#fn_10.md) there has
 seldom been. The assumed impossibility of finding an equivalent for the
 idea in English has led to the belief that there is something mysterious
 and unprecedented in the institution. People become bewildered as to
@@ -435,7 +435,7 @@ the burdens of the community. So he who claims to be one of the great
 spiritual beyond-castes must renounce family and property, relying upon
 the charity of men for his daily bread, and knowing well that for any
 work of scholarship--such as the observatories at Benares and Jeypore--a
-Hindu [government](errata.htm#0) at least would provide him ample means.
+Hindu [government](errata.htm#0.md) at least would provide him ample means.
 It is only as long as one avails oneself of the benefits of the social
 structure that it is held not unreasonable to require conformity to its
 usages.
@@ -601,7 +601,7 @@ races are found side by side.
 And it cannot be denied that great benefits as well as great evils have
 accrued from caste. It is an institution that makes Hindu society the
 most eclectic with regard to ideas in the world. In India all religions
-have taken refuge <span id="fr_11"></span>[\*](#fn_11)--the Parsi before
+have taken refuge <span id="fr_11"></span>[\*](#fn_11.md)--the Parsi before
 
 <span id="page_134">p. 134</span>
 
@@ -686,14 +686,14 @@ and unthought-of difficulties?
 
 ### Footnotes
 
-<span id="fn_10"></span>[116:\*](wil10.htm#fr_10) The word *Caste* is of
+<span id="fn_10"></span>[116:\*](wil10.htm#fr_10.md) The word *Caste* is of
 Portuguese origin.
 
-<span id="fn_11"></span>[132:\*](wil10.htm#fr_11) Parsi, Jew,
+<span id="fn_11"></span>[132:\*](wil10.htm#fr_11.md) Parsi, Jew,
 Christian.--The Parsis took refuge in India a thousand years ago,
 fleeing before the Mohammedan conquest of Persia. There are ancient
 communities of Jews and Christians also from Asia Minor and Syria.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Synthesis of Indian Thought](wil11)
+[Next: Chapter IX. The Synthesis of Indian Thought](wil11.md)

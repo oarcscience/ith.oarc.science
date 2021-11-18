@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo25)  [Next](hoo27) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo25)  [Next](hoo27.md) 
 
 ------------------------------------------------------------------------
 
 ###### XXI.
 
-### TO THE SEA, OR TETHYS <span id="fr_79"></span>[\*](#fn_79).
+### TO THE SEA, OR TETHYS <span id="fr_79"></span>[\*](#fn_79.md).
 
 ###### The FUMIGATION from FRANKINCENSE and MANNA.
 
@@ -31,9 +31,9 @@ And waft them safely o'er the stormy seas.
 
 ### Footnotes
 
-<span id="fn_79"></span>[146:\*](hoo26.htm#fr_79) See the last note to
+<span id="fn_79"></span>[146:\*](hoo26.htm#fr_79.md) See the last note to
 Hymn v. for an explanation of the Goddess Tethys.
 
 ------------------------------------------------------------------------
 
-[Next: XXII: To Nereus](hoo27)
+[Next: XXII: To Nereus](hoo27.md)

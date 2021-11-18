@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDEE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDEE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDEE/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mos00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mos.txt.gz)
+[Contents](#contents)    [Start Reading](mos00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mos.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -42,33 +42,33 @@ later propagated in the Scofield Reference Bible. --J.B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mos00)  
-[Advertisements (facing title page)](mos01)  
-[How to Use](mos02)  
-[Isaiah LIII](mos03)  
-[Index to Chapters](mos04)  
-[Index of Subjects](mos05)  
-[Chapter 1](mos06)  
-[Chapter 2](mos07)  
-[Chapter 3](mos08)  
-[Chapter 4](mos09)  
-[Chapter 5](mos10)  
-[Chapter 6](mos11)  
-[Chapter 7](mos12)  
-[Chapter 8](mos13)  
-[Chapter 9](mos14)  
-[Chapter 10](mos15)  
-[Chapter 11](mos16)  
-[Chapter 12](mos17)  
-[Chapter 13](mos18)  
-[Chapter 14](mos19)  
-[Chapter 15](mos20)  
-[Chapter 16](mos21)  
-[Chapter 17](mos22)  
-[Chapter 18](mos23)  
-[Chapter 19](mos24)  
-[Chapter 20](mos25)  
-[Chapter 21](mos26)  
-[Chapter 22](mos27)  
-[Chapter 23](mos28)  
-[Chapter 24](mos29)  
+<span id="contents"></span> [Title Page](mos00.md)  
+[Advertisements (facing title page)](mos01.md)  
+[How to Use](mos02.md)  
+[Isaiah LIII](mos03.md)  
+[Index to Chapters](mos04.md)  
+[Index of Subjects](mos05.md)  
+[Chapter 1](mos06.md)  
+[Chapter 2](mos07.md)  
+[Chapter 3](mos08.md)  
+[Chapter 4](mos09.md)  
+[Chapter 5](mos10.md)  
+[Chapter 6](mos11.md)  
+[Chapter 7](mos12.md)  
+[Chapter 8](mos13.md)  
+[Chapter 9](mos14.md)  
+[Chapter 10](mos15.md)  
+[Chapter 11](mos16.md)  
+[Chapter 12](mos17.md)  
+[Chapter 13](mos18.md)  
+[Chapter 14](mos19.md)  
+[Chapter 15](mos20.md)  
+[Chapter 16](mos21.md)  
+[Chapter 17](mos22.md)  
+[Chapter 18](mos23.md)  
+[Chapter 19](mos24.md)  
+[Chapter 20](mos25.md)  
+[Chapter 21](mos26.md)  
+[Chapter 22](mos27.md)  
+[Chapter 23](mos28.md)  
+[Chapter 24](mos29.md)  

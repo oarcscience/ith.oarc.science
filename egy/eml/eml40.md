@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -45,7 +45,7 @@ sprout. . . . They love to hear these things, and believe them, drawing
 conviction from things immediately at hand and customary." The peasant
 lived and died believing in Osiris. "As Osiris lives, so shall he also
 live; as Osiris died not, so shall he also not die; as Osiris perished
-not, so shall he also not perish." <span id="fr_172"></span>[1](#fn_171)
+not, so shall he also not perish." <span id="fr_172"></span>[1](#fn_171.md)
 Egypt was made prosperous by Osiris: he gave it the corn which brought
 all its wealth and power. The
 
@@ -158,7 +158,7 @@ although the sun was "the eye of Osiris", the ancient deity was no more
 a sun god than Ra was an earth god. As Osiris-ra he absorbed certain
 attributes of the solar deity, but as Ra had similarly absorbed almost
 every other god, the process was not one of change so much as
-adjustment. <span id="fr_173"></span>[1](#fn_172) Ra ceased to be
+adjustment. <span id="fr_173"></span>[1](#fn_172.md) Ra ceased to be
 recognized as the Great Father of the Egyptian Pantheon. "Behold, thou
 (Osiris) art upon the seat of Ra." Osiris was essentially a god of
 vegetation and the material world; he was the soul of Ra, but his own
@@ -170,7 +170,7 @@ Osiris absorbed Seb. Osiris became "the Great Egg", which was "the only
 egg", for the Ra "egg" had been appropriated from the earth worshippers.
 He was both Seb and the "egg"--"thou egg who becometh as one renewed".
 The father of Ra was Nu (water); the father of Osiris was Tanen
-(earth). <span id="fr_174"></span>[2](#fn_173)
+(earth). <span id="fr_174"></span>[2](#fn_173.md)
 
 But although he fused with Ptah-Tanen and became the Great Father,
 Osiris was not divested of his ancient lunar attributes. He was
@@ -201,7 +201,7 @@ appear to have declared similarly: "Christ is my Horus".
 Horus and his mother, Isis, came into prominence with Osiris. Set, as
 Sutekh, was banished from Egypt, and was once again regarded as the
 devil. The cult of Isis ultimately spread into Europe. <span
-id="fr_175"></span>[1](#fn_174)
+id="fr_175"></span>[1](#fn_174.md)
 
 But not only were the beliefs of the Old Kingdom revived; even its
 language was imitated in the literature and inscriptions of the Saite
@@ -392,7 +392,7 @@ suffer gradual loss of mental and physical vigour."
 
 Amasis "was very partial to the Greeks, and favoured them at every
 opportunity", Herodotus says. He encouraged them to settle at
-Naucratis, <span id="fr_176"></span>[1](#fn_175) where the temple called
+Naucratis, <span id="fr_176"></span>[1](#fn_175.md) where the temple called
 Hellenium was erected and Greek deities were worshipped. Amasis erected
 a magnificent portico to Neith at Sais, had placed in front of Ptah's
 temple at Memphis a colossal recumbent figure 75 feet long, and two
@@ -597,7 +597,7 @@ nothing from you.
 
 So the social life of an interesting age is made articulate for us, and
 we find that human nature has not changed much through the
-centuries. <span id="fr_177"></span>[1](#fn_176)
+centuries. <span id="fr_177"></span>[1](#fn_176.md)
 
 In the Ptolemaic age a papyrus was made eloquent with the lamentation of
 a girl wife in her tomb. At fourteen she was married to the high priest
@@ -619,25 +619,25 @@ crying to us in the darkness "down the corridors of time".
 
 ### Footnotes
 
-<span id="fn_171"></span>[363:1](eml40.htm#fr_172) Erman, *Handbuch*.
+<span id="fn_171"></span>[363:1](eml40.htm#fr_172.md) Erman, *Handbuch*.
 
-<span id="fn_172"></span>[367:1](eml40.htm#fr_173) The various gods
+<span id="fn_172"></span>[367:1](eml40.htm#fr_173.md) The various gods
 became manifestations of Osiris. In the Osirian hymns, which were added
 to from time to time, Osiris is addressed: "Thou art Tum, the forerunner
 of Ra . . . the soul of Ra . . . the pupil of the eye that beholdest Tum
 . . . lord of fear, who causeth himself to come into being" (*The Burden
 of Isis*, Dennis).
 
-<span id="fn_173"></span>[367:2](eml40.htm#fr_174) *The Burden of Isis*;
+<span id="fn_173"></span>[367:2](eml40.htm#fr_174.md) *The Burden of Isis*;
 the egg, pp. 39, 45, 55; the sun, pp. 23, 24, 41, 49, 53; Tatenen
 (Tanen), p. 49; Seb, pp. 32, 47.
 
-<span id="fn_174"></span>[368:1](eml40.htm#fr_175) An image of Isis was
+<span id="fn_174"></span>[368:1](eml40.htm#fr_175.md) An image of Isis was
 found on the site of a Roman camp in Yorkshire.
 
-<span id="fn_175"></span>[374:1](eml40.htm#fr_176) "Mighty in ships."
+<span id="fn_175"></span>[374:1](eml40.htm#fr_176.md) "Mighty in ships."
 
-<span id="fn_176"></span>[379:1](eml40.htm#fr_177) The translations are
+<span id="fn_176"></span>[379:1](eml40.htm#fr_177.md) The translations are
 from *Oxyrhynchus Papyri* (Egyptian Fund) Parts 2 and 3.
 
  

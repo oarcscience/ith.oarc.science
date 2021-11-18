@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv23)  [Next](rsv25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv23)  [Next](rsv25.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ acquainted!
 
 ------------------------------------------------------------------------
 
-[Next: The Vietnamese and Children](rsv25)
+[Next: The Vietnamese and Children](rsv25.md)

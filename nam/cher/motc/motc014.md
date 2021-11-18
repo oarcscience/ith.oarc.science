@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc013) 
-[Next](motc015) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc013.md) 
+[Next](motc015.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ ghosts had been dancing.
 
 ------------------------------------------------------------------------
 
-[Next: 15. The Fourfooted Tribes](motc015)
+[Next: 15. The Fourfooted Tribes](motc015.md)

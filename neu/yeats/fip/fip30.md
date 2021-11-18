@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip29)  [Next](fip31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip29)  [Next](fip31.md) 
 
 ------------------------------------------------------------------------
 
-### THE KILDARE POOKA <span id="fr_12"></span>[1](#fn_12)
+### THE KILDARE POOKA <span id="fr_12"></span>[1](#fn_12.md)
 
 PATRICK KENNEDY
 
@@ -59,7 +59,7 @@ day. One said one thing, another said another, but a fat, lazy scullery
 girl said the wittiest thing of all. "Musha!" says she, "if the pooka
 does be cleaning up everything that way when we are asleep, what should
 we be slaving ourselves for doing his work?" "Shu gu dheine," <span
-id="fr_13"></span>[1](#fn_13) says another; "them's the wisest words you
+id="fr_13"></span>[1](#fn_13.md) says another; "them's the wisest words you
 ever said, Kauth; it's meeself won't contradict you."
 
 So said, so done. Not a bit of a plate or dish saw a drop of water that
@@ -111,12 +111,12 @@ in such a hurry to reward the ungrateful pooka.
 
 ### Footnotes
 
-<span id="fn_12"></span>[105:1](fip30.htm#fr_12) *Legendary Fictions of
+<span id="fn_12"></span>[105:1](fip30.htm#fr_12.md) *Legendary Fictions of
 the Irish Celts*.--Macmillan.
 
-<span id="fn_13"></span>[106:1](fip30.htm#fr_13) Meant for *seadh go
+<span id="fn_13"></span>[106:1](fip30.htm#fr_13.md) Meant for *seadh go
 deimhin*--*i.e.*, yes, indeed.
 
 ------------------------------------------------------------------------
 
-[Next: The Banshee](fip31)
+[Next: The Banshee](fip31.md)

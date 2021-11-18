@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg09) [Next](aflg11)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg09) [Next](aflg11.md)
 
 ------------------------------------------------------------------------
 
@@ -8,29 +8,29 @@ American](../index) [Index](index) [Previous](aflg09) [Next](aflg11)
 ## C<span class="small">HAPTER</span> X THE SPIRITS OF THE BUSH <span class="small">ASSOCIATED WITH PARTICULAR PLANTS</span>
 
    <span class="small">Derivation of Man from Plants, and vice versa
-(*[163](#pp_163)-163A*); Association of Bush Spirits with Silk-cotton
-Tree (*[164](#pp_164)*), Cassava (*[165](#pp_165)-166*), Maize
-(*[167](#pp_167)*), Kofa (*[168](#pp_168)*), Snake-bush
-(*[168A](#pp_168A)*), the Whistling Caladium (Kanaima), Blow-tube Grass
-and Dakini Tree (*[168B](#pp_168B)*), Ite and Mora (*[168C](#pp_168C)*),
+(*[163](#pp_163)-163A*.md); Association of Bush Spirits with Silk-cotton
+Tree (*[164](#pp_164)*), Cassava (*[165](#pp_165)-166*.md), Maize
+(*[167](#pp_167)*), Kofa (*[168](#pp_168)*.md), Snake-bush
+(*[168A](#pp_168A)*), the Whistling Caladium (Kanaima.md), Blow-tube Grass
+and Dakini Tree (*[168B](#pp_168B)*), Ite and Mora (*[168C](#pp_168C)*.md),
 and possibly with the "Tree of Life," the "Devil-doer," Silverballi,
-Darina, Hiari, and Bamboo (*[169](#pp_169)*). The belief in Binas may be
+Darina, Hiari, and Bamboo (*[169](#pp_169)*.md). The belief in Binas may be
 but a development of this association of Bush Spirits with plant-life
-(*[170](#pp_170)*).</span>
+(*[170](#pp_170)*.md).</span>
 
-   <span id="pp_163"></span>**163.**[\*](#pp_163) So far as mankind is
+   <span id="pp_163"></span>**163.**[\*](#pp_163.md) So far as mankind is
 concerned, their original derivation from trees, trunks, and fruits is
-accepted by many of the tribes ([Sect. *57*](aflg04.htm#pp_57)). As to
+accepted by many of the tribes ([Sect. *57*](aflg04.htm#pp_57).md). As to
 the converse idea—the transformation of human beings, or their Spirits,
-into plants ([Sect. *59*](aflg04.htm#pp_59)), I can find only two traces
+into plants ([Sect. *59*](aflg04.htm#pp_59).md), I can find only two traces
 of it: one, in an Arawak legend relative to the discovery of the whip
-used in the *makuari* dance ([Sect. *75*](aflg05.htm#pp_75)), and the
+used in the *makuari* dance ([Sect. *75*](aflg05.htm#pp_75).md), and the
 other, in the Yahuna story of the Jurupari ceremony ([Sect.
-*163A*](aflg10.htm#pp_163A)).
+*163A*](aflg10.htm#pp_163A).md).
 
  
 
-<span id="story_77"></span>[\*](#story_77)T<span class="small">HE</span>
+<span id="story_77"></span>[\*](#story_77.md)T<span class="small">HE</span>
 F<span class="small">IRST</span> "M<span class="small">AKUARI</span>"
 W<span class="small">HIPS</span> (A)
 
@@ -74,7 +74,7 @@ W<span class="small">HIPS</span> (A)
 > two materials out of which the Arawak have ever since made their
 > Makuari whips.
 
-   <span id="pp_163A"></span>**163A.**[\*](#pp_163A) In the origin of
+   <span id="pp_163A"></span>**163A.**[\*](#pp_163A.md) In the origin of
 the Jurupari festival according to the Yahuna Indians of the River
 Apaporis there is also a conversioa of a human being into a plant. This
 is their story (KG, <span class="small">II</span>, 293):
@@ -96,7 +96,7 @@ is their story (KG, <span class="small">II</span>, 293):
 > flutes: the former would die, and the latter would eat earth, become
 > sick, and die.
 
-   <span id="pp_164"></span>**164.**[\*](#pp_164) Several examples are
+   <span id="pp_164"></span>**164.**[\*](#pp_164.md) Several examples are
 to be met with of Bush Spirits being associated with particular plants
 or trees. Perhaps the most interesting is that of the silk-cotton tree
 (*Bombax* sp.), the superstitions concerning which have been incorrectly
@@ -120,7 +120,7 @@ proper place again. Dance (57) states that its guardian spirit "walks
 round the tree at mid-day, and at mid-night." Brett (377, 398) informs
 us of an Arawak tradition that men and other living creatures were
 originally made out of its bark and timber ([Sect.
-*57*](aflg04.htm#pp_57)). Women have told me that the Adda-kuyuha, in
+*57*](aflg04.htm#pp_57).md). Women have told me that the Adda-kuyuha, in
 the form of a large bird, lives on the buds (i. e. picks out the cotton
 to build its nest with); <span id="page_230">p. 230</span> that the
 shedding of the leaves is a sign that the Spirit has taken its
@@ -129,12 +129,12 @@ returned. Considering that there are some four or five other deciduous
 trees known to the Arawaks, it would not appear that their superstitious
 regard for it can be due to the periodic shedding of the leaves. From
 the fact of the silk-cotton tree being credited with the power of moving
-within a circuit ([Sect. *8*](aflg02.htm#pp_8)), a separate sentient
+within a circuit ([Sect. *8*](aflg02.htm#pp_8).md), a separate sentient
 existence may have been claimed for it; but such a property might
 equally be due to the particular medicine-man or Bush Spirit ([Sect.
-*167*](aflg10.htm#pp_167)) happening to occupy its trunk or branches.
+*167*](aflg10.htm#pp_167).md) happening to occupy its trunk or branches.
 
-   <span id="pp_165"></span>**165.**[\*](#pp_165) The cassava plant
+   <span id="pp_165"></span>**165.**[\*](#pp_165.md) The cassava plant
 affords a very good illustration where the associated Spirit remains
 distinct, and is given a separate existence, so much so that it may be
 attacked by evil Spirits to prevent it distributing its favors, or may
@@ -152,7 +152,7 @@ harvest which it had supplied them with, such festival taking the usual
 form of a drinking bout and a dance: they called it the Aru-hoho (lit.
 cassava festival).
 
-   <span id="pp_166"></span>**166.**[\*](#pp_166) So also, the first
+   <span id="pp_166"></span>**166.**[\*](#pp_166.md) So also, the first
 baking of cassava bread from a new field formerly was attended by
 unusual ceremony. "The cassava, which on ordinary occasions is scraped
 and washed, at the preparation for the first baking, was scraped but not
@@ -169,7 +169,7 @@ is called the Feast of Fruits, several kinds of wild fruit becoming ripe
 at that time (HWB, 280): this may have a meaning similar to that
 ascribed to the ceremony in connection with the cassava.
 
-   <span id="pp_167"></span>**167.**[\*](#pp_167) Another curious sort
+   <span id="pp_167"></span>**167.**[\*](#pp_167.md) Another curious sort
 of Spirit, that of "the Rot," is associated with buck-corn (maize). Here
 is an account of it:
 
@@ -177,7 +177,7 @@ is an account of it:
 
  
 
-<span id="story_78"></span>[\*](#story_78)T<span class="small">HE</span>
+<span id="story_78"></span>[\*](#story_78.md)T<span class="small">HE</span>
 S<span class="small">PIRIT OF THE</span> R<span class="small">OT</span>
 S<span class="small">AVES THE</span> Y<span class="small">OUNG</span>
 W<span class="small">OMAN</span> (C)
@@ -228,7 +228,7 @@ W<span class="small">OMAN</span> (C)
 > as the irritating, pestiferous smoke arose, down came a lot of small
 > baboons of which the fire made short shrift. They threw on more
 > peppers, and down fell a number of bigger baboons, and they soon
-> shared the same fate \[[Sect. *242*](aflg15.htm#pp_242)\]. The parents
+> shared the same fate \[[Sect. *242*](aflg15.htm#pp_242.md)\]. The parents
 > now threw in the last of the peppers, and down scrambled the very
 > Yurokon who had killed their elder daughter: they clubbed him to
 > death, and the father said, "I am killing you in payment for my
@@ -236,17 +236,17 @@ W<span class="small">OMAN</span> (C)
 > woman's flesh. The younger sister obeyed her parents from that time
 > onward.
 
-   <span id="pp_168"></span>**168.**[\*](#pp_168) Another tree which,
+   <span id="pp_168"></span>**168.**[\*](#pp_168.md) Another tree which,
 according to Arawak beliefs, has intimate association with the Spirit
 world, is the *Clusia grandiflora*, an epiphyte, which throws down
 straight aerial roots that finally fix themselves in the ground below.
 Indian belief explains this peculiarity by the statement that the bunia
 bird roosts on the host, whence it drops its castings ([Sect.
-*350*](aflg19.htm#pp_350)), which are nothing more <span
+*350*](aflg19.htm#pp_350).md), which are nothing more <span
 id="page_232">p. 232</span> than the aerial roots in question. The
 Arawaks speak of this epiphyte as the kófa.
 
-   <span id="pp_168A"></span>**168A.**[\*](#pp_168A) Space must be found
+   <span id="pp_168A"></span>**168A.**[\*](#pp_168A.md) Space must be found
 here also for mention of the Pomeroon Arawak belief in some intimate
 relationship between certain plants (known as "snake-bush" to the
 creoles) and venomous serpents, the poisonous effects of which they can
@@ -263,14 +263,14 @@ River:
 > snakes flattened laterally, standing upright, from twelve to twenty
 > inches, with their tails planted in the ground. \[Da, 324.\]
 
-   <span id="pp_168B"></span>**168B.**[\*](#pp_168B) Among the Caribs,
+   <span id="pp_168B"></span>**168B.**[\*](#pp_168B.md) Among the Caribs,
 the masiemo (i. e. kanaima), *Caladium*, would seem at first sight to
 possess qualities almost distinctive: it is a large-leaf species which I
 have seen cultivated at Carib settlement on Manawarin Creek. Its
 peculiarity lies in its supposed power of uttering a long low whistle,
 and shaking the sleeper's hammock with the object of rousing him from
 slumber to a sense of his danger on the near approach of the human and
-animal kanaima, or blood-avenger ([Sect. *320*](aflg18.htm#pp_320)). The
+animal kanaima, or blood-avenger ([Sect. *320*](aflg18.htm#pp_320).md). The
 plant from which the blow-tube is derived commonly grows in wet places,
 as wide stagnant marshes, and superstition has stationed an Evil Spirit
 to defend it, whence the Indians have the apprehension that some ill
@@ -284,7 +284,7 @@ it (AK, 193).
  
 
 <span id="story_79"></span><span
-id="pp_168C"></span>**168C.**[\*](#pp_168C) T<span
+id="pp_168C"></span>**168C.**[\*](#pp_168C.md) T<span
 class="small">HE</span> I<span class="small">TE</span> P<span
 class="small">ALM AND THE</span> M<span class="small">ORA</span> T<span
 class="small">REE</span> (W)
@@ -316,11 +316,11 @@ class="small">REE</span> (W)
 > plenty: the stragglers left behind here are so miserable and poor that
 > it is not worth our while to cut them down.
 
-   <span id="pp_169"></span>**169.**[\*](#pp_169) Among remaining plants
+   <span id="pp_169"></span>**169.**[\*](#pp_169.md) Among remaining plants
 which may, perhaps, be regarded as associated more or less intimately
 with Spirits and the like, are the "Tree of Life," the Devil-doer, the
 Silverballi, the Darina, the Hiari, the Kanaima ([Sect.
-*168B*](aflg10.htm#pp_168B)), and perhaps the Bamboo. A leaf of the
+*168B*](aflg10.htm#pp_168B).md), and perhaps the Bamboo. A leaf of the
 plant of the "Tree of Life" (*Bryophyllum calycinum*), the Kakuhu-adda
 of the Arawaks, is sometimes suspended in the house, both on the
 Demerara and the Pomeroon, when one of the inmates is ill. Should the
@@ -353,25 +353,25 @@ and seeds only during the night, which certainly accounts for the
 fructification not being seen, if for nothing else: any alleged Indian
 superstition concerning this palm must be counteracted of course by the
 fact that it is an introduced plant. The ability of the house-posts to
-talk ([Sect. *16*](aflg02.htm#pp_16)) may be traces of a Spirit
+talk ([Sect. *16*](aflg02.htm#pp_16).md) may be traces of a Spirit
 originally associated with the timber.
 
-   <span id="pp_170"></span>**170.**[\*](#pp_170) I am very strongly
+   <span id="pp_170"></span>**170.**[\*](#pp_170.md) I am very strongly
 inclined to regard all the (vegetal) attraction-charms, or binas, used
-in hunting ([Sect. *233*](aflg14.htm#pp_233)) or love-making <span
-id="page_234">p. 234</span> ([Sect. *237*](aflg14.htm#pp_237)), and
+in hunting ([Sect. *233*](aflg14.htm#pp_233).md) or love-making <span
+id="page_234">p. 234</span> ([Sect. *237*](aflg14.htm#pp_237).md), and
 otherwise, as survivals of an original belief in plants possessing
 associated Spirits; while the presence of the originally associated
 Spirit has been lost sight of, and more or less forgotten, its
 attributes, properties, and powers have been retained. It will be
 remembered that all such binas have an exceptional source of origin—the
-calcined bones of a snake ([Sect. *235*](aflg14.htm#pp_235)), and in
+calcined bones of a snake ([Sect. *235*](aflg14.htm#pp_235).md), and in
 this connection it is no less interesting to note that the Haiari root
 (*Lonchocarpus* sp.), fish-poison, which can equally be regarded as an
 attraction-charm, should also possess animal (with its contained spirit)
 relationships, in that it has been quickened in human blood. I here
 paraphrase the Legend of the Haiari Root, given by Brett ([BrB,
-172](../lmbg/lmbg5b.htm#page_172)):
+172](../lmbg/lmbg5b.htm#page_172).md):
 
 >    An old fisherman noticed that when his boy accompanied him, and
 > swam about in the river, there the fishes would die, and yet were
@@ -386,4 +386,4 @@ paraphrase the Legend of the Haiari Root, given by Brett ([BrB,
 
 ------------------------------------------------------------------------
 
-[Next](aflg11)
+[Next](aflg11.md)

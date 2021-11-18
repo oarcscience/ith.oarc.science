@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo34)  [Next](beo36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo34)  [Next](beo36.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ iron.
 
 ------------------------------------------------------------------------
 
-[Next: Part XXXVII](beo36)
+[Next: Part XXXVII](beo36.md)

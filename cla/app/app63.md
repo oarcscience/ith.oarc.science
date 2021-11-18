@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app62)  [Next](app64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app62)  [Next](app64.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -175,7 +175,7 @@ class="smallcaps">Mathematical</span>
 (*Titles*)
 
 11l. '*On Difference of Comprehension*' <span
-id="fr_78"></span>[1](#fn_73) or, '*On the Contact of Circle and
+id="fr_78"></span>[1](#fn_73.md) or, '*On the Contact of Circle and
 Sphere*'.
 
 11m. '*On Geometry*.'
@@ -202,7 +202,7 @@ Sphere*'.
 1\. (<span class="smallcaps">Vitruvius</span>). *Following the
 discoveries of the natural philosophers* (*Thales, Anaxagoras,
 Pythagoras, Xenophanes, Democritus) others invented the method of
-Parapêgmata*, <span id="fr_79"></span>[2](#fn_74) *showing the rising
+Parapêgmata*, <span id="fr_79"></span>[2](#fn_74.md) *showing the rising
 and setting of the constellations, and the signs of storms, namely,
 Eudoxus, Euctemon, Callippus, Meton, Philippus, Hipparchus, Aratus and
 others*.
@@ -278,7 +278,7 @@ was the fifteenth day after the equinox.
 
 |       |     |                                                                   |
 |-------|-----|-------------------------------------------------------------------|
-| Mar.  | 7   | Cold winds. Bird-days (nine). <span id="fr_80"></span>[1](#fn_75) |
+| Mar.  | 7   | Cold winds. Bird-days (nine). <span id="fr_80"></span>[1](#fn_75.md) |
 |       | 18  | Change of weather, Cold wind.                                     |
 |       | 27  | Change of weather.                                                |
 | Apr.  | 24  | Change of weather.                                                |
@@ -425,9 +425,9 @@ land with a wall demands a large inheritance*).
 
 28a. '*On Painting*.'
 
-28b. '*Tactics*.' <span id="fr_81"></span>[1](#fn_76)
+28b. '*Tactics*.' <span id="fr_81"></span>[1](#fn_76.md)
 
-28c. '*Fighting in Armour*.' <span id="fr_82"></span>[1](#fn_76)
+28c. '*Fighting in Armour*.' <span id="fr_82"></span>[1](#fn_76.md)
 
 (*End of the Tetralogies of Thrasyllus*)
 
@@ -449,7 +449,7 @@ passions.
 
 32\. Coition is a slight attack of apoplexy. For man gushes forth from
 man, and is separated by being torn apart with a kind of blow. <span
-id="fr_83"></span>[1](#fn_77)
+id="fr_83"></span>[1](#fn_77.md)
 
 33\. Nature and instruction are similar; for instruction transforms the
 man, and in transforming, creates his nature.
@@ -457,7 +457,7 @@ man, and in transforming, creates his nature.
 34\. Man is a universe in little (*Microcosm*).
 
 <span class="smallcaps">gnômae</span> <span
-id="fr_84"></span>[2](#fn_78)
+id="fr_84"></span>[2](#fn_78.md)
 
 35\. If any man listens to my opinions, here recorded, with
 intelligence, he will achieve many things worthy of a good man, and
@@ -539,10 +539,10 @@ thereto.
 deeds is the work of a false deceiver.
 
 64\. Many much-learned men have no intelligence. <span
-id="fr_85"></span>[1](#fn_79)
+id="fr_85"></span>[1](#fn_79.md)
 
 65\. One should practise much-sense, not much-learning. <span
-id="fr_86"></span>[1](#fn_79)
+id="fr_86"></span>[1](#fn_79.md)
 
 66\. It is better to deliberate before action than to repent afterwards.
 
@@ -626,7 +626,7 @@ good from choice.
 are.
 
 98\. The friendship of one intelligent man is better than that of all
-the unintelligent. <span id="fr_87"></span>[1](#fn_80)
+the unintelligent. <span id="fr_87"></span>[1](#fn_80.md)
 
 99\. Life is not worth living for the man who has not even one good
 friend.
@@ -802,7 +802,7 @@ spider for spinning and mending, the swallow for building, and the
 songsters, swan and nightingale, for singing, by way of imitation.
 
 155\. If a cone were cut by a plane parallel to the base, <span
-id="fr_88"></span>[1](#fn_81) what ought one to think of the surfaces
+id="fr_88"></span>[1](#fn_81.md) what ought one to think of the surfaces
 resulting from the section: are they equal or unequal? If they are
 unequal, they will make the cone have many steplike indentations and
 unevennesses; but if they are equal, the sections will be equal, and the
@@ -883,7 +883,7 @@ in swimming.
 173\. For mankind, evil comes out of what is good, if one does not know
 how to guide and drive correctly. It is not right to place such things
 in the category of evil, but in that of good. It is possible also to use
-what is good for an evil end <span id="fr_89"></span>[1](#fn_82) if one
+what is good for an evil end <span id="fr_89"></span>[1](#fn_82.md) if one
 wishes.
 
 <span id="page_108">p. 108</span>
@@ -910,7 +910,7 @@ be injured by calumny.
 breeds those pleasures from which wickedness comes.
 
 179\. If children are allowed not to work, <span
-id="fr_90"></span>[1](#fn_83) they cannot learn letters or music or
+id="fr_90"></span>[1](#fn_83.md) they cannot learn letters or music or
 gymnastic, nor that which above all things embraces virtue, (*namely*)
 reverence. For it is precisely from these studies that reverence usually
 grows.
@@ -1126,7 +1126,7 @@ they have nothing good for themselves except a brief enjoyment; and then
 again the need for the same things returns.
 
 236\. It is hard to fight desire; but to control it is the sign of a
-reasonable man. <span id="fr_91"></span>[1](#fn_84)
+reasonable man. <span id="fr_91"></span>[1](#fn_84.md)
 
 237\. All bellicosity is foolish; for in studying the disadvantage of
 one's enemy, one loses sight of one's own advantage.
@@ -1185,7 +1185,7 @@ is safe; when this is destroyed, all is destroyed.
 own affairs for other things; for their private affairs suffer. But if a
 man neglects public affairs, he is ill spoken of, even if he steals
 nothing and does no wrong. And if he is <span
-id="fr_92"></span>[1](#fn_85) negligent and does wrong, he is liable not
+id="fr_92"></span>[1](#fn_85.md) negligent and does wrong, he is liable not
 only to be ill-spoken of but also to suffer bodily harm. To make
 mistakes is inevitable, but men find it hard to forgive.
 
@@ -1209,7 +1209,7 @@ and it conduces to well-being to do so rather than not do so.
 258\. One must at all costs kill all those creatures which do hurt
 contrary to justice. The man who does this has the greater share of
 cheerfulness(?) and justice and courage and property(?) in every ordered
-society (*than he who does not*). <span id="fr_93"></span>[1](#fn_86)
+society (*than he who does not*). <span id="fr_93"></span>[1](#fn_86.md)
 
 259\. As has been laid down (*by me*) regarding beasts and reptiles
 which are inimical (*to man*), so I think one should do with regard to
@@ -1250,7 +1250,7 @@ For it is not likely for anyone else
 
 <span class="contnote">\[paragraph continues\]</span> (*any more*) than
 for oneself, that he will show himself the same man in different
-circumstances. <span id="fr_94"></span>[1](#fn_87) But we must also make
+circumstances. <span id="fr_94"></span>[1](#fn_87.md) But we must also make
 arrangements to see that if a magistrate does no wrong, and convicts
 wrong-doers, he shall not fall under the power of the latter; rather, a
 law or some other means must defend the magistrate who does what is
@@ -1378,9 +1378,9 @@ for 'one's own'*).
 
 298a. Check carefully the passion accumulated in thy breast, and take
 care not to disturb thy soul, and do not allow all things always to the
-tongue. <span id="fr_95"></span>[1](#fn_88)
+tongue. <span id="fr_95"></span>[1](#fn_88.md)
 
-*Spurious fragments*. <span id="fr_96"></span>[2](#fn_89)
+*Spurious fragments*. <span id="fr_96"></span>[2](#fn_89.md)
 
 298b. (Title): '*On the Holy Scripts in Babylon*.'
 
@@ -1394,7 +1394,7 @@ distant inquiries, and have seen the most climes and lands, and have
 heard the greatest number of learned men; and no one has ever surpassed
 me in the composition of treatises with proofs, not even the so-called
 Arpedonaptae of Egypt; with them I passed eighty <span
-id="fr_97"></span>[1](#fn_90) years on foreign soil.
+id="fr_97"></span>[1](#fn_90.md) years on foreign soil.
 
 (*Titles*)
 
@@ -1417,15 +1417,15 @@ id="fr_97"></span>[1](#fn_90) years on foreign soil.
 300\. '*The Things Wrought by Hand*.'  
      '*Potent Natural Products*.'  
      '*Sympathetic and Antipathetic Substances*.' <span
-id="fr_98"></span>[2](#fn_91)
+id="fr_98"></span>[2](#fn_91.md)
 
 308\. '*Theogonia*.'
 
-302\. *Collection of Maxims*. <span id="fr_99"></span>[3](#fn_92)
+302\. *Collection of Maxims*. <span id="fr_99"></span>[3](#fn_92.md)
 
 302a. (<span class="smallcaps">Seneca</span>) One for me is worth the
 whole populace and the populace worth one. <span
-id="fr_100"></span>[4](#fn_93)
+id="fr_100"></span>[4](#fn_93.md)
 
 303\. (*Graeco-Syrian Maxims*). Wise men when visiting a foreign land
 must silently and quietly reconnoitre while they look and listen to find
@@ -1441,7 +1441,7 @@ own wisdom, so that they may be prized for the sake of the treasure
 which is their property, while they enrich others from it. But if their
 knowledge is too small to allow them to dispense from it, they should
 take from the others and go their way. <span
-id="fr_101"></span>[1](#fn_94)
+id="fr_101"></span>[1](#fn_94.md)
 
 304\. (*ib*., *and Vatican Maxims*) I alone know that I know nothing.
 
@@ -1458,33 +1458,33 @@ forgery: reference to Democritus as writer of aphorisms*).
 
 309\. (<span class="smallcaps">Albertus Magnus</span>: *Democritus said
 'Man is the measure of all things that are'*). <span
-id="fr_102"></span>[2](#fn_95)
+id="fr_102"></span>[2](#fn_95.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_73"></span>[94:1](app63.htm#fr_78) Some emend γνώμης to
+<span id="fn_73"></span>[94:1](app63.htm#fr_78.md) Some emend γνώμης to
 γνώμονος ('*Gnômôn*'); Heath prefers γωνὶης ('angle'). *See Greek
 Mathematics*, I, p. 178.
 
-<span id="fn_74"></span>[94:2](app63.htm#fr_79) Diels: 'The Parapêgma
+<span id="fn_74"></span>[94:2](app63.htm#fr_79.md) Diels: 'The Parapêgma
 was a bronze or marble indicator of the days of the solar year according
 to the Zodiac, together with the customary weather-signs. Beside the
 days were holes in which the days of the civil month could be inserted.
 
-<span id="fn_75"></span>[96:1](app63.htm#fr_80) Bird-days are those on
+<span id="fn_75"></span>[96:1](app63.htm#fr_80.md) Bird-days are those on
 which migrant birds appear; bird-winds are those which bring migrant
 birds.
 
-<span id="fn_76"></span>[98:1](app63.htm#fr_82) These are thought to be
+<span id="fn_76"></span>[98:1](app63.htm#fr_82.md) These are thought to be
 the work of another Democritus, who according to Suidas wrote two books
 on Tactics and one on the Jews: perhaps Democritus of Mende.
 
-<span id="fn_77"></span>[99:1](app63.htm#fr_83) Pun on ἀποπληξίη and
+<span id="fn_77"></span>[99:1](app63.htm#fr_83.md) Pun on ἀποπληξίη and
 πληγή.
 
-<span id="fn_78"></span>[99:2](app63.htm#fr_84) Given in a collection
+<span id="fn_78"></span>[99:2](app63.htm#fr_84.md) Given in a collection
 called 'Maxims of Democratês'. But Stobaeus quotes as 'Maxims of
 Democritus’ many of the sayings here recorded; it is therefore thought
 that 'Democrates' is a corruption of 'Democritus', or perhaps a later
@@ -1492,67 +1492,67 @@ attribution by Byzantine scholars who had discovered the existence of
 one Democrates of Aphidna in Attica, a writer on agriculture of the
 fourth century B.C.
 
-<span id="fn_79"></span>[101:1](app63.htm#fr_86) Cp. Heracleitus, Frg.
+<span id="fn_79"></span>[101:1](app63.htm#fr_86.md) Cp. Heracleitus, Frg.
 40.
 
-<span id="fn_80"></span>[102:1](app63.htm#fr_87) Cp. Heracleitus, Frg.
+<span id="fn_80"></span>[102:1](app63.htm#fr_87.md) Cp. Heracleitus, Frg.
 49.
 
-<span id="fn_81"></span>[106:1](app63.htm#fr_88) 'By which is clearly
+<span id="fn_81"></span>[106:1](app63.htm#fr_88.md) 'By which is clearly
 meant a plane indefinitely near to the base.' Heath, *Greek
 Mathematics*, I, pp. 199-80.
 
-<span id="fn_82"></span>[107:1](app63.htm#fr_89) The MS. reading ἀλκήν
+<span id="fn_82"></span>[107:1](app63.htm#fr_89.md) The MS. reading ἀλκήν
 is emended by Diels-Kranz to ἀλκῇ and translated: 'It is possible to use
 what is good as a help against what is evil.'
 
-<span id="fn_83"></span>[108:1](app63.htm#fr_90) It seems best to take
+<span id="fn_83"></span>[108:1](app63.htm#fr_90.md) It seems best to take
 μὴ πονεῖν, after the intrans. ἀνιέντες, as a consecutive infinitive: 'If
 children are left free so as not to work.' Kranz translates: 'If we do
 not leave children free to work.'
 
-<span id="fn_84"></span>[113:1](app63.htm#fr_91) Cp. Heracleitus, Frg.
+<span id="fn_84"></span>[113:1](app63.htm#fr_91.md) Cp. Heracleitus, Frg.
 85.
 
-<span id="fn_85"></span>[114:1](app63.htm#fr_92) Meineke inserted the
+<span id="fn_85"></span>[114:1](app63.htm#fr_92.md) Meineke inserted the
 negative μή which was accepted by Diels-Kranz.
 
-<span id="fn_86"></span>[115:1](app63.htm#fr_93) For the doubtful words,
+<span id="fn_86"></span>[115:1](app63.htm#fr_93.md) For the doubtful words,
 the MSS. have εὐθυμίης and κτάσεως. Various emendations have been
 suggested, but none is satisfactory.
 
-<span id="fn_87"></span>[116:1](app63.htm#fr_94) *i.e.* power may
+<span id="fn_87"></span>[116:1](app63.htm#fr_94.md) *i.e.* power may
 corrupt even the best. Diels took τοὺς ἄρχοντας as the object of άδικεῖν
 and translated: 'There is no means of protecting the magistrates from
 hurt.' He then could make nothing of the next sentence, and was obliged
 to assume a lacuna.
 
-<span id="fn_88"></span>[118:1](app63.htm#fr_95) From a Herculanean MS.
+<span id="fn_88"></span>[118:1](app63.htm#fr_95.md) From a Herculanean MS.
 of Demetrius of Byzantium, who wrote 'On Poetry'. He quotes an unnamed
 author whom Wilamowitz took to be Democritus, because of the dialect.
 
-<span id="fn_89"></span>[118:2](app63.htm#fr_96) For a discussion of
+<span id="fn_89"></span>[118:2](app63.htm#fr_96.md) For a discussion of
 these, see *Companion*, pp. 323-5.
 
-<span id="fn_90"></span>[119:1](app63.htm#fr_97) Probably a scribe's
+<span id="fn_90"></span>[119:1](app63.htm#fr_97.md) Probably a scribe's
 mistake for 'five'.
 
-<span id="fn_91"></span>[119:2](app63.htm#fr_98) The work of Bolus of
+<span id="fn_91"></span>[119:2](app63.htm#fr_98.md) The work of Bolus of
 Mende, Ch. 78 below.
 
-<span id="fn_92"></span>[119:3](app63.htm#fr_99) From the Corpus
+<span id="fn_92"></span>[119:3](app63.htm#fr_99.md) From the Corpus
 Parisinum Profanum. Some of these are the same as genuine fragments of
 Democritus; but many come from other writers, and the collection must be
 regarded as unauthentic.
 
-<span id="fn_93"></span>[119:4](app63.htm#fr_100) Cp. Heracleitus, Frg.
+<span id="fn_93"></span>[119:4](app63.htm#fr_100.md) Cp. Heracleitus, Frg.
 49.
 
-<span id="fn_94"></span>[120:1](app63.htm#fr_101) Gomperz regarded this
+<span id="fn_94"></span>[120:1](app63.htm#fr_101.md) Gomperz regarded this
 as genuine.
 
-<span id="fn_95"></span>[120:2](app63.htm#fr_102) Protagoras, Frg. 1.
+<span id="fn_95"></span>[120:2](app63.htm#fr_102.md) Protagoras, Frg. 1.
 
 ------------------------------------------------------------------------
 
-[Next: 69. Nessas of Chios](app64)
+[Next: 69. Nessas of Chios](app64.md)

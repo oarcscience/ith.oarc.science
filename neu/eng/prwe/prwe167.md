@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe166)  [Next](prwe168) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe166)  [Next](prwe168.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ Erceldoune, better known as Thomas the Rhymer.
 
 ------------------------------------------------------------------------
 
-[Next: The "Cunning Man"](prwe168)
+[Next: The "Cunning Man"](prwe168.md)

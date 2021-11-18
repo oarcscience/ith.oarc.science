@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Theosophy](../../the/index)  [Index](index)  [Previous](clrv07) 
-[Next](clrv09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Theosophy](../../the/index)  [Index](index)  [Previous](clrv07.md) 
+[Next](clrv09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0835670953/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0835670953/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Clairvoyance*, by C.W. Leadbeater, \[1899\], at Intangible Textual
 Heritage
 
@@ -972,4 +972,4 @@ to believe.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Clairvoyance in Time: The Future](clrv09)
+[Next: Chapter VIII. Clairvoyance in Time: The Future](clrv09.md)

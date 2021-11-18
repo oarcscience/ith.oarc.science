@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm18)  [Next](wsm20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm18)  [Next](wsm20.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,7 +125,7 @@ had killed Mountain Sheep, he saw the beads around his neck. He was
 sorry, because he knew then what he had done.
 
 The younger brother said to the older one, "I am dry as a fish. <span
-id="fr_23"></span>[24](#fn_23) I want some water." Both went down to the
+id="fr_23"></span>[24](#fn_23.md) I want some water." Both went down to the
 spring to get a drink. Wolf asked Spider to make a fire. He asked Spider
 to put heavy rocks in it, so that they would get hot. Spider did as he
 was told. While the two brothers from the sky were drinking at the
@@ -142,9 +142,9 @@ finally, Coyote cried.
 
 ### Footnotes
 
-<span id="fn_23"></span>[276:24](wsm19.htm#fr_23) The simile is not
+<span id="fn_23"></span>[276:24](wsm19.htm#fr_23.md) The simile is not
 obvious; and almost certainly is not native.
 
 ------------------------------------------------------------------------
 
-[Next: Coyote Learns to Fly (Big Smoky Valley, Nevada. Shoshoni)](wsm20)
+[Next: Coyote Learns to Fly (Big Smoky Valley, Nevada. Shoshoni)](wsm20.md)

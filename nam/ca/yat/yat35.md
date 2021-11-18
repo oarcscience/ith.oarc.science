@@ -1,21 +1,21 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat34)  [Next](yat36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat34)  [Next](yat36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### XII. LOON WOMAN. <span id="fr_169"></span>[346](#fn_164)
+### XII. LOON WOMAN. <span id="fr_169"></span>[346](#fn_164.md)
 
 At Hak!ā'l?imadu, a lake near Hat creek, lived Loon Woman
 (Hak!ā'lisimari?mi). She had no husband. Every man that came along she
@@ -27,7 +27,7 @@ wore them as a necklace. She was a nice-looking woman, living all alone.
 She thought, "I dreamed of a man last night. I dreamt that it was
 Eagle's son." She dressed up with her beaded apron and basket-cap, fixed
 herself up nicely, painted her face, and started away. Eagle lived at
-Cī'p!a <span id="fr_170"></span>[347](#fn_165) with a great many people,
+Cī'p!a <span id="fr_170"></span>[347](#fn_165.md) with a great many people,
 he had a big sweat-house. Coyote lived there also. Loon came down, came
 to the sweat-house in the afternoon when the people were all dancing.
 They saw her coming from the east; her beaded apron made a noise "so?,
@@ -137,7 +137,7 @@ north." "No," said another, "let us go to the east." "Let us go to the
 west," said another. "No, she will catch us there." "Where shall we go?"
 "We must go up to the sky." "How shall we go up? We must hurry before
 Loon gets up." "Who will take us up to the sky?" said Eagle. Spider had
-a rope, he <span id="fr_171"></span>[348](#fn_166) was the man. The
+a rope, he <span id="fr_171"></span>[348](#fn_166.md) was the man. The
 people had a great sack (p!ū'gi), and they all got into this. "Hurry
 up," said Spider. Then Spider made the rope come down from the sky and
 tied it to the sack. "Who is going in first?" Coyote said, "My friend, I
@@ -151,7 +151,7 @@ about, pulled the log about, and found out what it was. She grew angry,
 said "Am+! All right, you can not get away from me," said Loon to
 herself. "Am+, am+!" she said. She came back to the sweat-house, looked
 for her husband. She had a fire-drill (mi'niyauna) with fire in
-it. <span id="fr_172"></span>[349](#fn_167) She looked
+it. <span id="fr_172"></span>[349](#fn_167.md) She looked
 
 <span id="page_232">p. 232</span>
 
@@ -197,17 +197,17 @@ caught her and killed her.
 
 ### Footnotes
 
-<span id="fn_164"></span>[228:346](yat35.htm#fr_169) See note 207. The
+<span id="fn_164"></span>[228:346](yat35.htm#fr_169.md) See note 207. The
 details of this version, secured apparently from Sam Bat‘wī, differ
 widely enough from the Yana Loon Woman myth obtained by Curtin to
 justify its publication here.
 
-<span id="fn_165"></span>[228:347](yat35.htm#fr_170) See note 51.
+<span id="fn_165"></span>[228:347](yat35.htm#fr_170.md) See note 51.
 
-<span id="fn_166"></span>[231:348](yat35.htm#fr_171) See note 45.
+<span id="fn_166"></span>[231:348](yat35.htm#fr_171.md) See note 45.
 
-<span id="fn_167"></span>[231:349](yat35.htm#fr_172) See note 52.
+<span id="fn_167"></span>[231:349](yat35.htm#fr_172.md) See note 52.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Pine Marten's Quest for Moon's Daughter](yat36)
+[Next: XIII. Pine Marten's Quest for Moon's Daughter](yat36.md)

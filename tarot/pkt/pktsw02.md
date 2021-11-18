@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktsw03)  [Next](pktswac) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktsw03)  [Next](pktswac.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Two
 
 <span id="img_sw02"></span> <span align="CENTER"> [![](tn/sw02.jpg)  
-Click to enlarge](img/sw02.jpg)</span>
+Click to enlarge](img/sw02.jpg.md)</span>
 
 A hoodwinked female figure balances two swords upon her shoulders.
 *Divinatory Meanings*: Conformity and the equipoise which it suggests,
@@ -32,4 +32,4 @@ generally are not symbolical of beneficent forces in human affairs.
 
 ------------------------------------------------------------------------
 
-[Next: Ace of Swords](pktswac)
+[Next: Ace of Swords](pktswac.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes27)  [Next](tes29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes27)  [Next](tes29.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_55">p. 55</span>
 
-### 7. THE ALDER-BLOCK. <span id="fr_40"></span>[1](#fn_40)
+### 7. THE ALDER-BLOCK. <span id="fr_40"></span>[1](#fn_40.md)
 
 There lived an old woman who had neither son nor daughter. One time
 after cooking her supper, she climbed to the roof of her house to stop
@@ -23,7 +23,7 @@ will then procure food for me? You are almost full-grown. All my hope
 lies in you." Nevertheless, he left in the night time and went away
 along across the sea. He traveled and traveled, and at last he saw an
 island. On the island there stood a house. In it lived the witch,
-Yagha. <span id="fr_41"></span>[2](#fn_41) She had three daughters, one
+Yagha. <span id="fr_41"></span>[2](#fn_41.md) She had three daughters, one
 Five-Eyes Girl; another, Six-Eyes Girl; and the third, Eight-Eyes Girl.
 She herself had ten eyes. The witch Yagha saw the canoe, and said to her
 daughters, "Here, girls! get ready! a small reindeer is coming from the
@@ -82,7 +82,7 @@ home. "There you, dogs, you could not catch this small reindeer, but I
 have caught him." They had an oven dug in the ground. The Yaghishna
 said, "I will call my brother; meanwhile cook this reindeer for our
 meal. When brother and I come back, we will have a meal of him." <span
-id="fr_42"></span>[1](#fn_42) She set off. The eldest daughter brought
+id="fr_42"></span>[1](#fn_42.md) She set off. The eldest daughter brought
 an iron shovel,
 
 <span id="page_57">p. 57</span>
@@ -124,7 +124,7 @@ meals and concealed all three heads under the bed near her seat. He hid
 himself behind the chimney and waited for Yaghishna. After a while she
 came back. She was driving the mortar, urging it with a pestle, and
 effacing the traces of the sledge with a big broom. <span
-id="fr_43"></span>[1](#fn_43) She had not found her brother at home. So
+id="fr_43"></span>[1](#fn_43.md) She had not found her brother at home. So
 she came all alone. She entered the house, and saw the food all ready
 for a meal: so she felt gratified, and exclaimed, "See there! my
 daughters have prepared the meal, and they themselves are gone, perhaps
@@ -167,7 +167,7 @@ village of Pokhotsk, in the Kolyma country, summer of 1895.
 
 ### Footnotes
 
-<span id="fn_40"></span>[55:1](tes28.htm#fr_40) This tale represents a
+<span id="fn_40"></span>[55:1](tes28.htm#fr_40.md) This tale represents a
 version of the well-known European story. Several details, however,
 belong to the native life. The underground oven is a primitive device,
 although it is not used at present in northeastern Asia, being
@@ -175,7 +175,7 @@ superseded by the so-called Russian oven, made of bricks or of beaten
 earth. In more ancient times, the oven dug in the ground may have been
 used by the natives.--W. B.--E. Cosquin, *l. c.*, vol. 1, 246--F. B.
 
-<span id="fn_41"></span>[55:2](tes28.htm#fr_41) witch Yagha (Баба-Яга
+<span id="fn_41"></span>[55:2](tes28.htm#fr_41.md) witch Yagha (Баба-Яга
 literally, "(old) woman Yagha") is a she-monster often appearing in
 Old-Russian folk stories. It is presumed that in the Star mythology the
 witch Yagha was the personification of winter. Yaghishna is, properly
@@ -188,12 +188,12 @@ northeastern Asia, often appears as a being more like the American
 Snenek than the Old-Russian Yagha (See, for Instance, No. 9 (p. 133) of
 the Markova tales).--W. B.
 
-<span id="fn_42"></span>[56:1](tes28.htm#fr_42) Bolte und Polívka, *l.
+<span id="fn_42"></span>[56:1](tes28.htm#fr_42.md) Bolte und Polívka, *l.
 c.*, 115.--F. B.
 
-<span id="fn_43"></span>[57:1](tes28.htm#fr_43) Details usual in all
+<span id="fn_43"></span>[57:1](tes28.htm#fr_43.md) Details usual in all
 Russian tales.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Yukaghir Tale](tes29)
+[Next: 8. Yukaghir Tale](tes29.md)

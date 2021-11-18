@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp07)  [Next](lbp09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp07)  [Next](lbp09.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ extinguished, and they had abandoned all idea of meeting with the shore
 of any country whatever, they perceived in the far distance, amid the
 sea mists, a coast backed by green mountains, and they pushed on their
 ship towards that blessed land. That land was the one inhabited by the
-Cantabrians, <span id="fr_9"></span>[1](#fn_9) the race of giants which,
+Cantabrians, <span id="fr_9"></span>[1](#fn_9.md) the race of giants which,
 five centuries
 
 <span id="page_155">p. 155</span>
@@ -142,7 +142,7 @@ themselves on a green slope covered with flowers, and soon fall asleep.
 
 ### III.
 
-Where goes the *echeco-jauna* <span id="fr_10"></span>[1](#fn_10) of
+Where goes the *echeco-jauna* <span id="fr_10"></span>[1](#fn_10.md) of
 Bustuna as he abandons the cultivation of his fields and descends to the
 deserted shores of Mundaca, followed by those who were assisting him at
 his work? Where goes the *echeco-jauna* in such haste?
@@ -167,7 +167,7 @@ conducted them to the country of the first heroes of the universe. Under
 the roof of Bustuna they find an hospitable asylum, those exiles from
 Erin; but very quickly does it become known throughout the *Euskarian*
 mountains that among them dwells a son of kings, and the aged Lekobide,
-the chieftain of the *Eskaldunac*, <span id="fr_11"></span>[1](#fn_11)
+the chieftain of the *Eskaldunac*, <span id="fr_11"></span>[1](#fn_11.md)
 and descendant of the glorious leader of the same name who humbled the
 pride of the Cæsars, and whom the Basque people sing praises in their
 songs, sends messengers to the Prince of Erin to offer him a home in the
@@ -246,9 +246,9 @@ years spreads across the valleys and along the range of the Basque
 mountains, and numerous scouts, their hearts full of indignation, hasten
 to the door of Lekobide, calling out--
 
-"*Quidaria*! <span id="fr_12"></span>[1](#fn_12) a formidable army
+"*Quidaria*! <span id="fr_12"></span>[1](#fn_12.md) a formidable army
 appears on the cordillera of Orduña, and alas! for the *Eskaldunac*,
-should the *irrinzi* <span id="fr_13"></span>[2](#fn_13) not be quickly
+should the *irrinzi* <span id="fr_13"></span>[2](#fn_13.md) not be quickly
 heard on our mountains.
 
 Lekobide rises up brimming over with wrath. "Blow the five bugle-horns
@@ -415,25 +415,25 @@ the son of a King of Erin.
 
 ### Footnotes
 
-<span id="fn_9"></span>[154:1](lbp08.htm#fr_9) *Cantabrians*. A people
+<span id="fn_9"></span>[154:1](lbp08.htm#fr_9.md) *Cantabrians*. A people
 of Hispana Tarraconeza, between the Pyrenees and the ocean, inhabiting
 Navarre, Biscay, Alava, and Guipuzcoa.
 
-<span id="fn_10"></span>[155:1](lbp08.htm#fr_10) *Echeco-jauna*. The
+<span id="fn_10"></span>[155:1](lbp08.htm#fr_10.md) *Echeco-jauna*. The
 master of the house, or proprietor.
 
-<span id="fn_11"></span>[156:1](lbp08.htm#fr_11) *Eskaldunac*. Some
+<span id="fn_11"></span>[156:1](lbp08.htm#fr_11.md) *Eskaldunac*. Some
 write it *Escualdunac* (from *escua*, hand, *alde*, right, *dunac*,
 those who have), a name which the Biscayans, or Basque people, give to
 themselves. In their dialect they call themselves *Euskarians*. This
 dialect, the wise Humboldt considered, was the most remarkable language
 of all he was acquainted with.
 
-<span id="fn_12"></span>[159:1](lbp08.htm#fr_12) *Quidaria*. Chieftain.
+<span id="fn_12"></span>[159:1](lbp08.htm#fr_12.md) *Quidaria*. Chieftain.
 
-<span id="fn_13"></span>[159:2](lbp08.htm#fr_13) Irrinzi. The shout or
+<span id="fn_13"></span>[159:2](lbp08.htm#fr_13.md) Irrinzi. The shout or
 call of war.
 
 ------------------------------------------------------------------------
 
-[Next: The Branch of White Lilies. A Tradition](lbp09)
+[Next: The Branch of White Lilies. A Tradition](lbp09.md)

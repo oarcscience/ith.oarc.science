@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw79)  [Next](omw81) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw79)  [Next](omw81.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_28500"></span>
 
 [![Mictlantecutli](tn/28500.jpg)  
-Click to enlarge](img/28500.jpg)  
+Click to enlarge](img/28500.jpg.md)  
 Mictlantecutli  
 
 # CENTRAL AMERICAN AND MEXICAN
@@ -203,4 +203,4 @@ into the mountain, leaving no track behind them.
 
 ------------------------------------------------------------------------
 
-[Next: The Twin Heroes and the Lords of Xibalba](omw81)
+[Next: The Twin Heroes and the Lords of Xibalba](omw81.md)

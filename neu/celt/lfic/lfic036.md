@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic035)  [Next](lfic037) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic035)  [Next](lfic037.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ of such a liberty being taken in our Leinster recitals.
 
 ------------------------------------------------------------------------
 
-[Next: The Ghosts and the Game of Football](lfic037)
+[Next: The Ghosts and the Game of Football](lfic037.md)

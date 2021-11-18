@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](chc03)  [Next](chc05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](chc03)  [Next](chc05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Child Christopher and Goldilind the Fair*, by William Morris, \[1895\],
 at Intangible Textual Heritage
 
@@ -109,6 +109,6 @@ whether they loved him or not; and sooth to say he was not much beloved.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Of the Maiden Goldilind](chc05)
+[Next: Chapter IV. Of the Maiden Goldilind](chc05.md)
 
 </div>

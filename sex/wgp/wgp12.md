@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp11)  [Next](wgp13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp11)  [Next](wgp13.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,9 +36,9 @@ from the phallic worship in other forms.
 
 ### Footnotes
 
-<span id="fn_69"></span>[103:70](wgp11.htm#fr_69) See the authorities
+<span id="fn_69"></span>[103:70](wgp11.htm#fr_69.md) See the authorities
 for these statements in Dulaure, pp. 254-256.
 
 ------------------------------------------------------------------------
 
-[Next: Mediaeval Secret Societies](wgp13)
+[Next: Mediaeval Secret Societies](wgp13.md)

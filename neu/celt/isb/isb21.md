@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb20)  [Next](isb22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb20)  [Next](isb22.md) 
 
 ------------------------------------------------------------------------
 
@@ -159,4 +159,4 @@ be.
 
 ------------------------------------------------------------------------
 
-[Next: From Westport to Ballinasloe](isb22)
+[Next: From Westport to Ballinasloe](isb22.md)

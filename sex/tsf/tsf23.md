@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf22)  [Next](tsf24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf22)  [Next](tsf24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -278,4 +278,4 @@ the love of God.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](tsf24)
+[Next: Bibliography](tsf24.md)

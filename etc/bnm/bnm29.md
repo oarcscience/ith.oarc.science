@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm28)  [Next](bnm30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm28)  [Next](bnm30.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ comes to the light of day.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The First Ants.](bnm30)
+[Next: The Story Of The First Ants.](bnm30.md)

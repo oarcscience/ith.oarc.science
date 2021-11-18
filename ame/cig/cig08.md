@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](cig07)  [Next](cig09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](cig07)  [Next](cig09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Coffee in the Gourd*, ed. J. Frank Dobie \[1923\], at Intangible
 Textual Heritage
 
@@ -65,7 +65,7 @@ in the Southwestern division, though there is evidence that the section
 was occupied by tribes of both the Southwestern and the Plains areas.
 For our immediate purpose it may be said that the Big Bend was an Apache
 country and was occupied for hundreds of years by that branch of the
-tribe known as the Mescaleros. <span id="fr_0"></span>[1](#fn_0) It is
+tribe known as the Mescaleros. <span id="fr_0"></span>[1](#fn_0.md) It is
 then to the Mescalero Apache that the drawings discussed in this paper
 are accredited, though research may in time reveal that some of the rock
 inscriptions antedate the Apache. Inroads were often made into the
@@ -74,7 +74,7 @@ Texas became settled by the whites these inroads on the more peaceful
 Apaches became more frequent, until the Davis and Chisos Mountains
 finally became the scene of the last stand of the remaining tribes on
 Texas soil. It was in 1870 that the last Indian tribe of any numerical
-importance was driven out of Texas.  <span id="fr_1"></span>[2](#fn_1)
+importance was driven out of Texas.  <span id="fr_1"></span>[2](#fn_1.md)
 
     The state of preservation of all pictographs depends largely upon
 the material on which the drawings were made and upon their exposure to
@@ -93,7 +93,7 @@ works of the aboriginal artist.
 
     As has been said, the date of the last Indian occupation of the Big
 Bend was 1870. The period between 1800  <span
-id="fr_2"></span>[3](#fn_2) and 1870, however, was one of turbulent
+id="fr_2"></span>[3](#fn_2.md) and 1870, however, was one of turbulent
 contest between the whites and the Indians. It is, therefore, my opinion
 that all the drawings observed were made prior to 1800. Since there is
 some evidence to show that there was a warlike tribe in the south of the
@@ -103,7 +103,7 @@ though there is much evidence to show that a much earlier date than 1670
 might be estimated if the permanence of the pigments is admitted or the
 possibility of renewal (on important drawings of religious significance)
 is granted. Again, no early date could be set for the rock inscriptions.
- <span id="fr_3"></span>[4](#fn_3)
+ <span id="fr_3"></span>[4](#fn_3.md)
 
     A better index to the probable age of the pictographs is to be found
 in the internal evidence. Within the pictures themselves are several
@@ -135,7 +135,7 @@ particular drawings.
 
 <span id="img_fig01-02"></span> <span align="CENTER">
 [![](tn/fig01-02.jpg)  
-Click to enlarge](img/fig01-02.jpg)</span>
+Click to enlarge](img/fig01-02.jpg.md)</span>
 
     Another result of the early missionary expeditions may have been the
 introduction of the cross as a part of the drawings. Several forms of
@@ -156,7 +156,7 @@ records a missionary journey down the Rio Grande from El Paso del Norte
 in 1683.
 
 <span id="img_fig03"></span> <span align="CENTER"> [![](tn/fig03.jpg)  
-Click to enlarge](img/fig03.jpg)</span>
+Click to enlarge](img/fig03.jpg.md)</span>
 
     Few, if any, additional influences of white civilization have been
 noticed. In the numerous drawings of the Dakota Winter Counts, Mallory
@@ -213,7 +213,7 @@ pictures may recount the story of a hunt or single event of interest to
 the artist.
 
 <span id="img_fig04"></span> <span align="CENTER"> [![](tn/fig04.jpg)  
-Click to enlarge](img/fig04.jpg)</span>
+Click to enlarge](img/fig04.jpg.md)</span>
 
     The American Indian developed an elaborate system of color
 symbolism. Little or no use of this system has been observed in the Big
@@ -267,7 +267,7 @@ reproduce here but a few of the figures referred to and, of course, the
 relative spacing has not been preserved.
 
 <span id="img_fig05"></span> <span align="CENTER"> [![](tn/fig05.jpg)  
-Click to enlarge](img/fig05.jpg)</span>
+Click to enlarge](img/fig05.jpg.md)</span>
 
     Goddard also tells something of the myths by which the Southwestern
 Indian explained the creation of the world. He says in part:
@@ -279,11 +279,11 @@ individual who tells them."
 
 <span id="img_fig06-08"></span> <span align="CENTER">
 [![](tn/fig06-08.jpg)  
-Click to enlarge](img/fig06-08.jpg)</span>
+Click to enlarge](img/fig06-08.jpg.md)</span>
 
 <span id="img_fig09-10"></span> <span align="CENTER">
 [![](tn/fig09-10.jpg)  
-Click to enlarge](img/fig09-10.jpg)</span>
+Click to enlarge](img/fig09-10.jpg.md)</span>
 
     Among the Big Bend pictographs there is what may be a series of
 pictures illustrating this myth, though the details do not agree
@@ -297,7 +297,7 @@ religious zeal. for much time and laborious effort were required in
 their production.
 
 <span id="img_fig11"></span> <span align="CENTER"> [![](tn/fig11.jpg)  
-Click to enlarge](img/fig11.jpg)</span>
+Click to enlarge](img/fig11.jpg.md)</span>
 
     Some of the rock carvings and paintings are evidently maps intended
 to show the location of camp sites, trails, water, etc. There is in the
@@ -316,12 +316,12 @@ the drawing of objects and events as the artist actually saw them. Next
 came symbolic figures and drawings which represented syllable sounds, a
 series of which might make up a complex word. The final development was
 that of a symbol representing a yet smaller sound division-the letter.
- <span id="fr_4"></span>[5](#fn_4) Hence, as an indication of the
+ <span id="fr_4"></span>[5](#fn_4.md) Hence, as an indication of the
 Indian's progress toward a higher civilization, the study of his effort
 to express his thoughts in picture-writing is of value.
 
 <span id="img_fig12"></span> <span align="CENTER"> [![](tn/fig12.jpg)  
-Click to enlarge](img/fig12.jpg)</span>
+Click to enlarge](img/fig12.jpg.md)</span>
 
     Aside from the degree of culture represented by the pictographs,
 there are other values in such a study. For instance, the things
@@ -342,30 +342,30 @@ pictorial art.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](cig08.htm#fr_0) "Mescal People" (Spanish),
+<span id="fn_0"></span>[1](cig08.htm#fr_0) "Mescal People" (Spanish.md),
 so-called from their custom of eating the mescal plant.
 
-<span id="fn_1"></span>[2](cig08.htm#fr_1) For the sake of brevity
+<span id="fn_1"></span>[2](cig08.htm#fr_1.md) For the sake of brevity
 several footnotes referring to bibliography and history have been
 omitted. Reference is here made to any good history of colonial Texas
 and to the Ethnology Reports of the Smithsonian Institution.
 
-<span id="fn_2"></span>[3](cig08.htm#fr_2) The date of Nolan's
+<span id="fn_2"></span>[3](cig08.htm#fr_2.md) The date of Nolan's
 expedition into Texas. This marked the beginning of interest in the real
 settlement of Texas by whites. Spanish missions prior to 1800 had little
 trouble with the Indians.
 
-<span id="fn_3"></span>[4](cig08.htm#fr_3) This paper deals primarily
+<span id="fn_3"></span>[4](cig08.htm#fr_3.md) This paper deals primarily
 with paintings. Further investigations will be made of the rock
 inscriptions at a later date.
 
-<span id="fn_4"></span>[5](cig08.htm#fr_4) Tayler, Isaac. The History of
+<span id="fn_4"></span>[5](cig08.htm#fr_4.md) Tayler, Isaac. The History of
 the Alphabet.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Cowboy Dance By J. R. Craddock](cig09)
+[Next: The Cowboy Dance By J. R. Craddock](cig09.md)
 
 </div>

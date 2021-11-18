@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab07)  [Next](saab09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab07)  [Next](saab09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -88,8 +88,8 @@ Saying—"Never Night or Morning
 "Of Better Women, what should be the Worse?"
 
 <span id="img_01400"></span> <span align="CENTER"> [![](tn/01400.jpg)  
-Click to enlarge](img/01400.jpg)</span>
+Click to enlarge](img/01400.jpg.md)</span>
 
 ------------------------------------------------------------------------
 
-[Next: VII](saab09)
+[Next: VII](saab09.md)

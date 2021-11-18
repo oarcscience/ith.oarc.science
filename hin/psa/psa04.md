@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa03)  [Next](psa05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa03)  [Next](psa05.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ quickly put an end to their troubles.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](psa05)
+[Next: Chapter IV](psa05.md)

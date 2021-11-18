@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](lmf22)  [Next](lmf24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](lmf22)  [Next](lmf24.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Letters of Myrtle Fillmore.*, by Myrtle Fillmore, \[1936\], at
 Intangible Textual Heritage
 
@@ -203,4 +203,4 @@ do it.
 
 ------------------------------------------------------------------------
 
-[Next: To Truth Teachers](lmf24)
+[Next: To Truth Teachers](lmf24.md)

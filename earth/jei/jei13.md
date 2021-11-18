@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei12)  [Next](jei14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei12)  [Next](jei14.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,7 +108,7 @@ Ellesmere Land ice-cap.'
 "This statement is really rather remarkable; for on pages 296-297 of the
 same book, Peary says that he spent all the time from July 4th to August
 13th of that year in making the trip from New York to Cape York, and in
-'hunting [walruses](errata.htm#57) and assembling my party of natives'
+'hunting [walruses](errata.htm#57.md) and assembling my party of natives'
 in the immediate neighborhood of the latter place.
 
 "He was thus simultaneously in two places separated from each other by
@@ -220,7 +220,7 @@ in danger of
 
 <span id="page_218">p. 218</span>
 
-death its [controversial](errata.htm#58) tone might have been modified
+death its [controversial](errata.htm#58.md) tone might have been modified
 in deference to the man. For it is not the personality of Peary which we
 are discussing but the scientific results of his voyages. He was a brave
 man, a devoted scientist, and an explorer of the first rank. Dedicating
@@ -247,7 +247,7 @@ and actually
 
 found that his observations were quite out of keeping with the facts--as
 long as we have this confession from Nansen there is certainly no
-imputation of either [incompetence](errata.htm#59) or dishonesty in
+imputation of either [incompetence](errata.htm#59.md) or dishonesty in
 saying that Peary was likewise misled.
 
 We say this in justice to the memory of a brave man who, had he lived,
@@ -258,4 +258,4 @@ actual exploration.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Mammoth](jei14)
+[Next: Chapter XI. The Mammoth](jei14.md)

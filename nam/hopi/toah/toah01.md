@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah00)  [Next](toah02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah00)  [Next](toah02.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ September 1, 1936
 
 ------------------------------------------------------------------------
 
-[Next: Contents](toah02)
+[Next: Contents](toah02.md)

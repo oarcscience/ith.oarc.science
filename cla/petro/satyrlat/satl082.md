@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat12.htm#LXXXII) 
-[Previous](satl081)  [Next](satl083) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat12.htm#LXXXII.md) 
+[Previous](satl081)  [Next](satl083.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ Non multum oportet consilio credere, quia suam habet fortuna rationem.
 
 ------------------------------------------------------------------------
 
-[Next: LXXXIII](satl083)
+[Next: LXXXIII](satl083.md)

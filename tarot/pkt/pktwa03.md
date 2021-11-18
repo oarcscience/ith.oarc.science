@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktwa04)  [Next](pktwa02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktwa04)  [Next](pktwa02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Three
 
 <span id="img_wa03"></span> <span align="CENTER"> [![](tn/wa03.jpg)  
-Click to enlarge](img/wa03.jpg)</span>
+Click to enlarge](img/wa03.jpg.md)</span>
 
 A calm, stately personage, with his back turned, looking from a cliff's
 edge at ships passing over the sea. Three staves are planted in the
@@ -34,4 +34,4 @@ troubles, suspension or cessation of adversity, toil and disappointment.
 
 ------------------------------------------------------------------------
 
-[Next: Two of Wands](pktwa02)
+[Next: Two of Wands](pktwa02.md)

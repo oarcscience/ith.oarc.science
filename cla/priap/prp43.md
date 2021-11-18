@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp42)  [Next](prp44) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp42)  [Next](prp44.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ who are often caught I shall irrumate.
 ------------------------------------------------------------------------
 
 [Next: 44. What shouldest say this spear (although I'm wooden) be
-wishing](prp44)
+wishing](prp44.md)

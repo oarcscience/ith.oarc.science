@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs50.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ and that no important changes were made by *dropping* the term
 
 <span id="note435"></span>
 
-#### NOTE TO PAGE [178](wscs28.htm#page_178)
+#### NOTE TO PAGE [178](wscs28.htm#page_178.md)
 
 IT may not be improper to explain more fully the reason for the opinion
 that the Gospel writer John did not believe that Christ first came into
@@ -78,7 +78,7 @@ Thus, as we conceive, the proposition is established.
 
 <span id="note435b"></span>
 
-### NOTE TO PAGE [346](wscs39.htm#page_346).
+### NOTE TO PAGE [346](wscs39.htm#page_346.md).
 
 OUR most reliable authorities testify that Babylon never was destroyed,
 but successfully resisted, for one hundred and fifty years after

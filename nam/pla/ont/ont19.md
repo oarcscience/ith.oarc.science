@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont18)  [Next](ont20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont18)  [Next](ont20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -99,7 +99,7 @@ and had completely lost the use of his legs, but he still
 <span id="img_22700"></span> <span align="CENTER"> [![LITTLE OWL'S
 FAMILY AROUND AN OUTSIDE FIRE.&lt;br&gt; (Coming Running is surrounded
 by children.)](tn/22700.jpg)  
-Click to enlarge](img/22700.jpg)  
+Click to enlarge](img/22700.jpg.md)  
 LITTLE OWL'S FAMILY AROUND AN OUTSIDE FIRE.  
 (Coming Running is surrounded by children.)  
 </span>
@@ -119,7 +119,7 @@ storm, and in spite of his age
 
 <span id="img_22800"></span> <span align="CENTER"> [![MORNING EAGLE AND
 HIS OLD WHITE WAR HORSE.](tn/22800.jpg)  
-Click to enlarge](img/22800.jpg)  
+Click to enlarge](img/22800.jpg.md)  
 MORNING EAGLE AND HIS OLD WHITE WAR HORSE.  
 </span>
 
@@ -139,7 +139,7 @@ with grey and his
 
 <span id="img_22900"></span> <span align="CENTER"> [![NATOSIN'S TIPI AND
 TWO TRAVOIS.](tn/22900.jpg)  
-Click to enlarge](img/22900.jpg)  
+Click to enlarge](img/22900.jpg.md)  
 NATOSIN'S TIPI AND TWO TRAVOIS.  
 </span>
 
@@ -163,7 +163,7 @@ affectionate grandmothers do.
 
 <span id="img_23000"></span> <span align="CENTER"> [![TWO WOMEN TANNING
 A GREEN HIDE.](tn/23000.jpg)  
-Click to enlarge](img/23000.jpg)  
+Click to enlarge](img/23000.jpg.md)  
 TWO WOMEN TANNING A GREEN HIDE.  
 </span>
 
@@ -188,7 +188,7 @@ were unwilling
 
 <span id="img_23100"></span> <span align="CENTER"> [![OLD WOMAN SOFT
 TANNING.](tn/23100.jpg)  
-Click to enlarge](img/23100.jpg)  
+Click to enlarge](img/23100.jpg.md)  
 OLD WOMAN SOFT TANNING.  
 </span>
 
@@ -211,7 +211,7 @@ themselves,
 
 <span id="img_23200"></span> <span align="CENTER"> [![WOMEN SEWING A
 TIPI COVERING.](tn/23200.jpg)  
-Click to enlarge](img/23200.jpg)  
+Click to enlarge](img/23200.jpg.md)  
 WOMEN SEWING A TIPI COVERING.  
 </span>
 
@@ -234,7 +234,7 @@ when buffaloes were numerous, the Blackfeet made
 
 <span id="img_23300"></span> <span align="CENTER"> [![WOMEN PITCHING A
 TIPI.&lt;br&gt; (Lifting the covering into place.)](tn/23300.jpg)  
-Click to enlarge](img/23300.jpg)  
+Click to enlarge](img/23300.jpg.md)  
 WOMEN PITCHING A TIPI.  
 (Lifting the covering into place.)  
 </span>
@@ -290,7 +290,7 @@ Although it was customary for Indian women to
 
 <span id="img_23500"></span> <span align="CENTER"> [![MAKING
 PARFLECHES.](tn/23500.jpg)  
-Click to enlarge](img/23500.jpg)  
+Click to enlarge](img/23500.jpg.md)  
 MAKING PARFLECHES.  
 </span>
 
@@ -314,7 +314,7 @@ careful training from childhood, was
 
 <span id="img_23600"></span> <span align="CENTER"> [![WOMAN CARVING A
 POLE.&lt;br&gt; (Used inside as part of a lodge-back.)](tn/23600.jpg)  
-Click to enlarge](img/23600.jpg)  
+Click to enlarge](img/23600.jpg.md)  
 WOMAN CARVING A POLE.  
 (Used inside as part of a lodge-back.)  
 </span>
@@ -337,7 +337,7 @@ camp, curing it, and finally cooking it, all was the work
 
 <span id="img_23700"></span> <span align="CENTER"> [![WOMEN DRYING AND
 SMOKING MEAT UPON POLES.](tn/23700.jpg)  
-Click to enlarge](img/23700.jpg)  
+Click to enlarge](img/23700.jpg.md)  
 WOMEN DRYING AND SMOKING MEAT UPON POLES.  
 </span>
 
@@ -362,7 +362,7 @@ considered a great delicacy. They
 
 <span id="img_23800"></span> <span align="CENTER"> [![MY PUPPY
 NEIGHBOURS ASLEEP IN THEIR SMALL TIPI.](tn/23800.jpg)  
-Click to enlarge](img/23800.jpg)  
+Click to enlarge](img/23800.jpg.md)  
 MY PUPPY NEIGHBOURS ASLEEP IN THEIR SMALL TIPI.  
 </span>
 
@@ -388,7 +388,7 @@ Assinniboines. I saw that some of
 
 <span id="img_23900"></span> <span align="CENTER"> [![ASSINNIBOINE WOMAN
 MAKING SOUP OUT OF MY PUPPY FRIENDS.](tn/23900.jpg)  
-Click to enlarge](img/23900.jpg)  
+Click to enlarge](img/23900.jpg.md)  
 ASSINNIBOINE WOMAN MAKING SOUP OUT OF MY PUPPY FRIENDS.  
 </span>
 
@@ -400,4 +400,4 @@ my Blackfeet friends as "the puppy paw soup of the Assinniboines."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Evening Scenes in the Camp](ont20)
+[Next: Chapter XVII. Evening Scenes in the Camp](ont20.md)

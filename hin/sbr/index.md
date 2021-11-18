@@ -25,9 +25,9 @@ which are far older, transmitted orally from unknown antiquity.
 Specifically, there are references throughout to a primal mother-Earth
 worship, unnamed snake deities and human sacrifice. There are also
 recitations of key Vedic-era myths, including the [flood of
-Manu](sbe12/sbe1234) and an extended [Creation myth](sbe41/sbe4128)
+Manu](sbe12/sbe1234) and an extended [Creation myth](sbe41/sbe4128.md)
 which includes the 'cosmic egg' motif (see, *e.g.*, the Finnish
-[Kalevala](../../neu/kveng/kvrune01)). Of course, this is a very ancient
+[Kalevala](../../neu/kveng/kvrune01).md). Of course, this is a very ancient
 text which bears the same relationship to current Hindu beliefs and
 practice as ancient Mediterranean mystery religions do to modern
 Christianity. That said, the Satapatha Brahmana is a gold-mine for
@@ -39,23 +39,23 @@ available complete translation.
 ------------------------------------------------------------------------
 
 <span class="c_e"> <span class="c_t">[The Satapatha Brahmana, Part I
-(SBE 12)](sbe12/index)</span> \[<span class="c_d">1882</span>\]   <span
+(SBE 12)](sbe12/index.md)</span> \[<span class="c_d">1882</span>\]   <span
 class="c_b">Books I and II.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Satapatha Brahmana, Part II
-(SBE 26)](sbe26/index)</span> \[<span class="c_d">1885</span>\]   <span
+(SBE 26)](sbe26/index.md)</span> \[<span class="c_d">1885</span>\]   <span
 class="c_b">Books III and IV.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Satapatha Brahmana, Part III
-(SBE 41)](sbe41/index)</span> \[<span class="c_d">1894</span>\]   <span
+(SBE 41)](sbe41/index.md)</span> \[<span class="c_d">1894</span>\]   <span
 class="c_b">Books V, VI, and VII.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Satapatha Brahmana, Part IV
-(SBE 43)](sbe43/index)</span> \[<span class="c_d">1897</span>\]   <span
+(SBE 43)](sbe43/index.md)</span> \[<span class="c_d">1897</span>\]   <span
 class="c_b">Books VIII, IX, and X.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Satapatha Brahmana, Part V
-(SBE 44)](sbe44/index)</span> \[<span class="c_d">1900</span>\]   <span
+(SBE 44)](sbe44/index.md)</span> \[<span class="c_d">1900</span>\]   <span
 class="c_b">Books XI, XII, XIII and XIV.</span> </span>
 
 <span class="c_da"></span>

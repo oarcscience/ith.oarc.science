@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo53)  [Next](hoo55) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo53)  [Next](hoo55.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 
 Hear me, Jove's son, blest Bacchus, God of wine,  
 Born of two mothers, honor'd and divine;  
-Lysian, Euion  <span id="fr_111"></span>[\*](#fn_111) Bacchus,
+Lysian, Euion  <span id="fr_111"></span>[\*](#fn_111.md) Bacchus,
 various-nam'd,  
 Of Gods the offspring secret, holy, fam'd:  
 Fertile and nourishing whose liberal care 5  
@@ -33,9 +33,9 @@ Rejoicing come, and fruits abundant bear.
 
 ### Footnotes
 
-<span id="fn_111"></span>[181:\*](hoo54.htm#fr_111) Euion ingeminat,
+<span id="fn_111"></span>[181:\*](hoo54.htm#fr_111.md) Euion ingeminat,
 reparabilis assonat Echo. *Persius*.
 
 ------------------------------------------------------------------------
 
-[Next: L: To the Nymphs](hoo55)
+[Next: L: To the Nymphs](hoo55.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs61)  [Next](mhs63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs61)  [Next](mhs63.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ rat by his own name, so they speak of him as the "rat-uncle."
 
 ------------------------------------------------------------------------
 
-[Next: VII. Superstitious Dealings With Wild Animals](mhs63)
+[Next: VII. Superstitious Dealings With Wild Animals](mhs63.md)

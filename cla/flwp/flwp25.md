@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp24)  [Next](flwp26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp24)  [Next](flwp26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Taylor, \[1825\], at Intangible Textual Heritage
 
 <span id="page_93">p. 93</span>
 
-### CONCERNING PLACE. <span id="fr_82"></span>[\*](#fn_82)
+### CONCERNING PLACE. <span id="fr_82"></span>[\*](#fn_82.md)
 
 <span class="smallcaps">Simplicius</span> having observed, that Proclus
 is the only philosopher that he is acquainted with, who thought that
@@ -155,7 +155,7 @@ energy, and if we assert that the one is immovable, but the other
 
 <span id="page_99">p. 99</span>
 
-moved, <span id="fr_83"></span>[\*](#fn_83) what should hinder us from
+moved, <span id="fr_83"></span>[\*](#fn_83.md) what should hinder us from
 asserting that place participates of a life of this kind, and that it
 lives according to an immutable essence, but the world according to an
 essence self-motive in energy. "If, however," says he, "you wish to see
@@ -187,9 +187,9 @@ the material world are fixed in the tether which is above it, we must
 say, by ascending analogously, that the centres of the highest of the
 worlds are established in the light of this world. May it not likewise
 be said, that this light is the first image of the paternal
-profundity, <span id="fr_84"></span>[\*](#fn_84) and on this account is
+profundity, <span id="fr_84"></span>[\*](#fn_84.md) and on this account is
 supermundane, because that profundity is also
-supermundane?"[†](flwp25.htm#an_fn101)
+supermundane?"[†](flwp25.htm#an_fn101.md)
 
 <span id="an_fn101">†</span>
 
@@ -306,7 +306,7 @@ it: and it is place which imparts coincidence to the parts of the
 universe. If, likewise, *place* (τοπος) is denominated from conjecture,
 (εκ τουτο παζειν, lege εκ του τοπαζειν) becoming place from being
 situated near to things *conjectural*, <span
-id="fr_85"></span>[\*](#fn_85) as being a certain *conjecture* of
+id="fr_85"></span>[\*](#fn_85.md) as being a certain *conjecture* of
 intellectual distinction, thus also what has been said of place will
 accord with this etymology. For to *images*, which have a *conjectural*
 subsistence, place imparts an establishment, and a similitude to their
@@ -358,7 +358,7 @@ each, according to which we say, that the earth is a certain whole, and
 not the earth only, but also an animal and a plant, and each of the
 parts in these; but the other being more comprehensive, as when we say
 the whole world, the whole earth, and the whole air, and of each
-*wholeness* <span id="fr_86"></span>[\*](#fn_86) there are proper parts;
+*wholeness* <span id="fr_86"></span>[\*](#fn_86.md) there are proper parts;
 —in like manner, of place
 
 </div>
@@ -462,28 +462,28 @@ total and comprehensive, as body."
 
 ### Footnotes
 
-<span id="fn_82"></span>[93:\*](flwp25.htm#fr_82) This fragment is
+<span id="fn_82"></span>[93:\*](flwp25.htm#fr_82.md) This fragment is
 extracted from the Commentaries of Simplicius on the Physics of
 Aristotle, p. 143.
 
-<span id="fn_83"></span>[99:\*](flwp25.htm#fr_83) For the rational soul
+<span id="fn_83"></span>[99:\*](flwp25.htm#fr_83.md) For the rational soul
 is eternal in essence, but temporal in energy. Hence, according to the
 former, it is immovable; but according to the latter, is moved.
 
-<span id="fn_84"></span>[100:\*](flwp25.htm#fr_84) The paternal
+<span id="fn_84"></span>[100:\*](flwp25.htm#fr_84.md) The paternal
 profundity, according to the Chaldaic Theology, consists of three
 triads, each of which triads contains *father*, *power*, and
 *intellect*. See my collection of the Chaldean Oracles, in the Classical
 Journal.
 
-<span id="fn_85"></span>[103:\*](flwp25.htm#fr_85) Sensible objects are
+<span id="fn_85"></span>[103:\*](flwp25.htm#fr_85.md) Sensible objects are
 conjectural, because the proper knowledge of them belongs to opinion.
 
-<span id="fn_86"></span>[104:\*](flwp25.htm#fr_86) The world is a *whole
+<span id="fn_86"></span>[104:\*](flwp25.htm#fr_86.md) The world is a *whole
 of wholes*, which *wholes* or *wholenesses* are the celestial and
 elementary spheres. See the Introduction to my Translation of the Timæus
 of Plato.
 
 ------------------------------------------------------------------------
 
-[Next: From Olympiodorus, in Aristot. Meteor.](flwp26)
+[Next: From Olympiodorus, in Aristot. Meteor.](flwp26.md)

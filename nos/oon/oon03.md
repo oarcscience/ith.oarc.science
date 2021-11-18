@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon02)  [Next](oon04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon02)  [Next](oon04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -58,7 +58,7 @@ presentiment. All the external senses have their correspondents in the
 mind; the eye can see an object before it is distinctly apprehended; why
 may there not be a corresponding power in the soul? The power of
 prophecy might have been merely a spiritual excitation of this dormant
-faculty." <span id="fr_0"></span>[1](#fn_0)
+faculty." <span id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_ix">p. ix</span>
 
@@ -174,14 +174,14 @@ prophets, and men endowed with the celestial spirit, as "the Jews."
 
 Those who care anything for the occult processes, that incite to
 prophetic utterance, would now do well to read the chapter on magic,
-commencing at [p. 67](oon08.htm#page_67). It gives a few hints as to the
+commencing at [p. 67](oon08.htm#page_67.md). It gives a few hints as to the
 practices of adepts, and of the Roman superstitions about tripods,
 alphabetic interrogatories, and so forth; and it becomes tolerably clear
 from all this, that Nostradamus was skilled in all the known methods of
 incantation, astral, pharmaceutic, or electrical, and that he practised
 them in all their fulness, though with reticent circumspection, and very
 reluctant and enigmatic avowal. The account of the conspirators against
-Valens ([p. 77](oon08.htm#page_77)) strongly resembles the modern
+Valens ([p. 77](oon08.htm#page_77).md) strongly resembles the modern
 table-turning. But, as this chapter is more curious by far than
 necessary, it may be passed over by all those who merely wish to
 appraise quickly the value of Nostradamus
@@ -191,7 +191,7 @@ appraise quickly the value of Nostradamus
 as a figure in history with claims to prophetic faculty hanging on to
 it.
 
-From the Historical Fragments, commencing at [p. 81](oon09.htm#page_81),
+From the Historical Fragments, commencing at [p. 81](oon09.htm#page_81.md),
 it will be seen that he clearly prophesied the violent death of Henri
 II., to whom he dedicates his "Luminary Epistle." The historical context
 is very interesting, as showing not only the exact fulfilment of the
@@ -206,17 +206,17 @@ blindness with which the king forced on his own destruction at the very
 close of the day and tournament, by the indulgence of a pure whim
 against the advice and wish of everybody around him. The murder of Henri
 III., in like manner, is announced, together with the death of his
-father, at [p. 88](oon09.htm#page_88); at [p. 110](oon09.htm#page_110)
+father, at [p. 88](oon09.htm#page_88); at [p. 110](oon09.htm#page_110.md)
 it is foreshadowed again as proceeding from the hand of a young monk;
-and at [p. 111](oon09.htm#page_111) the name of Clement is hinted by a
+and at [p. 111](oon09.htm#page_111.md) the name of Clement is hinted by a
 play upon the French words signifying mild and clement. The massacre of
-St. Bartholomew's Day, at [p. 94](oon09.htm#page_94), stands out in all
+St. Bartholomew's Day, at [p. 94](oon09.htm#page_94.md), stands out in all
 its vivid horror, and as proceeding from the very hands of *le roi
 farouche*; but, compressed into four lines only.
 
 The coming of Henri IV. to the French throne is introduced with the very
 name of his family, Vendôme, figured in the anagram Mendosus. Here we
-find also ([p. 116](oon10.htm#page_116)) the execution of the Marshal de
+find also ([p. 116](oon10.htm#page_116).md) the execution of the Marshal de
 Biron; his name is actually given as Robin, which yields it letter for
 letter in anagram. This, too, is concerning a man not probably born when
 the
@@ -231,16 +231,16 @@ event, but with the terseness, reappearing constantly, which is so
 remarkable a feature in the style of Nostradamus, he compresses the
 whole event, and all that he has to say upon it, into six lines.
 
-The chapter on Louis XIV. ([p. 132](oon12.htm#page_132)) teems with
+The chapter on Louis XIV. ([p. 132](oon12.htm#page_132).md) teems with
 curiosities of the same inscrutable order; though less startling than
 what we have already pointed out, yet is it quite sufficient to have
 made the reputation of an ordinary man.
 
-We may now pass to England ([p. 146](oon14.htm#page_146)), and the
+We may now pass to England ([p. 146](oon14.htm#page_146).md), and the
 quatrain relating to its seven governmental changes, throughout a period
 of two hundred and ninety years; this is as startling as anything of the
 kind can well be. The next instance, that on the Stuart Dynasty ([p.
-149](oon14.htm#page_149)), conveying, as it does, the struggle between
+149](oon14.htm#page_149).md), conveying, as it does, the struggle between
 Charles I. and Cromwell, is simply miraculous; and it should challenge
 the attention of a listening world. This would seem to be the inevitable
 result, unless the learned of all orders and degrees can, singly or
@@ -250,7 +250,7 @@ Oliver Cromwell. But before this transpired, M. le Pelletier had none
 the less applied the quatrain to Charles and Cromwell. If this fails to
 convince a reader that he is in the presence of a seer and worker of
 wonders, I do not know what can bring recognition home to him. The
-single line ([p. 152](oon14.htm#page_152))--
+single line ([p. 152](oon14.htm#page_152).md)--
 
 "Senat de Londres mettront à mort leur Roy."
 
@@ -272,19 +272,19 @@ Nostradamus's book has been probably in print for nearly three hundred
 and fifty years.
 
 The next is a quatrain on Cromwell exclusively ([p.
-156](oon14.htm#page_156)), "more butcher than king," as Nostradamus
+156](oon14.htm#page_156).md), "more butcher than king," as Nostradamus
 calls him; and he will be found to regard Napoleon ([p.
-206](oon15.htm#page_206)) in very much the same light. He gives England
-an ascendancy of the seas ([p. 159](oon14.htm#page_159)) for a stretch
+206](oon15.htm#page_206).md) in very much the same light. He gives England
+an ascendancy of the seas ([p. 159](oon14.htm#page_159).md) for a stretch
 of more than three hundred years,--a term which, I think, will be found
 to be on the point of expiring now. Of course his quatrains relating to
 England are, on the whole, much inferior in interest to those relating
 to France. What stands collected under the heading of "England" will,
 nevertheless, well repay perusal. The Battle of Dunbar, for instance
-([p. 179](oon14.htm#page_179)) is in its way as vivid, though conveyed
+([p. 179](oon14.htm#page_179).md) is in its way as vivid, though conveyed
 in but four lines of verse, as Carlyle's famous account of the
 engagement which is given in the Cromwell Letters. He prophesies the
-death of Cromwell ([p. 184](oon14.htm#page_184)) to fall on the 3rd of
+death of Cromwell ([p. 184](oon14.htm#page_184).md) to fall on the 3rd of
 September, seven years later than the battle of Worcester. It is true we
 gather this by implication, but with all the other wonders duly weighed,
 a candid reader will admit this to be the probable intention
@@ -292,7 +292,7 @@ a candid reader will admit this to be the probable intention
 <span id="page_xvi">p. xvi</span>
 
 and true meaning here. The Fire of London is given as falling out in
-1666 (at [p. 187](oon14.htm#page_187)).
+1666 (at [p. 187](oon14.htm#page_187).md).
 
 His name for the French Revolution is *Le Commun Advenement*, which I
 render The Vulgar Advent. This, right up to the very end, is the most
@@ -300,11 +300,11 @@ astounding part of all that has been recorded by Nostradamus, or brought
 into intelligibility by his commentators. This preface would run to far
 too great length were I to attempt even to touch upon all of the points
 of interest, that we here find to be so strangely dealt with. Take
-merely the first stanza ([p. 198](oon15.htm#page_198)). Napoleonism is
+merely the first stanza ([p. 198](oon15.htm#page_198).md). Napoleonism is
 spoken of, almost before it has been announced, as proscribed; and, to
 spring up again as it did in 1848; and then to sink finally
 seventy-three years after. At that passage (at [p.
-198](oon15.htm#page_198)) the reader may see how, out of the mouth of
+198](oon15.htm#page_198).md) the reader may see how, out of the mouth of
 Napoleon himself, the exact term of seventy-three years proves to be the
 correct period. This has never been so much as hinted before. If
 anything be miraculous, in the accuracy of prevision, I think this
@@ -332,7 +332,7 @@ This is the truly representative man who emerges at the epochs.
 Rousseau, the red-head, with the curse of Iscariot upon him, may begin
 the series. A red philosopher first introduces his Pandemonium as order;
 secondly, *Les rouges rouges le rouge assomeront* ([p.
-239](oon17.htm#page_239)); and thirdly, the destroyer, the Napoleon, or
+239](oon17.htm#page_239).md); and thirdly, the destroyer, the Napoleon, or
 Apollyon, introduces and then crowns himself with his own hand. A red
 series in a red sequel so scaled, so shuts the same.
 
@@ -345,33 +345,33 @@ flag, or bow, in the political heavens there is no hope to come, for it
 yields no promise but that of a deluge,--*rouge*.
 
 The sanguinary death of Louis XVI. is foreshown at [p.
-211](oon16.htm#page_211). In the "Luminary Epistle" to Henry II. ([p.
-62](oon07.htm#page_62)) the very year is given (1792) to which the
+211](oon16.htm#page_211.md). In the "Luminary Epistle" to Henry II. ([p.
+62](oon07.htm#page_62)) the very year is given (1792.md) to which the
 quatrain of Louis's death refers. Take next the arrest at Varennes ([p.
-215](oon16.htm#page_215)), and then another miracle of precision shines
+215](oon16.htm#page_215).md), and then another miracle of precision shines
 forth; for Saulce, the grocer's name in that little town, is pregiven
-([p. 217](oon16.htm#page_217)). The Tuileries are mentioned by name,--a
+([p. 217](oon16.htm#page_217).md). The Tuileries are mentioned by name,--a
 place where burnt a tile-kiln, when Nostradamus was inditing for us the
 prophecy.
 
-Now refer to the Napoleonic rule ([p. 250](oon19.htm#page_250)). See
+Now refer to the Napoleonic rule ([p. 250](oon19.htm#page_250).md). See
 Napoleon horn in the west of Europe, and the way he could seduce, in a
 language not his own, is pointed out to you; and, his name is to be a
-name that the Fates know ([p. 251](oon19.htm#page_251)).
+name that the Fates know ([p. 251](oon19.htm#page_251).md).
 
 <span id="page_xviii">p. xviii</span>
 
 Take, again, that strange identification of the Gallic Hercules with his
 analogue Napoleon. How, as a jay taught by Talma, he at the Tuileries
 apes the fine birds and court splendour of the old *régime* ([p.
-257](oon19.htm#page_257)). Then read the quatrain at [p.
-259](oon19.htm#page_259), where the simple soldier reaches empire, and
+257](oon19.htm#page_257).md). Then read the quatrain at [p.
+259](oon19.htm#page_259.md), where the simple soldier reaches empire, and
 so strikes close analogy again with Cromwell. Then read ([p.
-262](oon19.htm#page_262)) that awful curse fulminated, when counsel
+262](oon19.htm#page_262).md) that awful curse fulminated, when counsel
 shall die out of the shaven head; see Sclavonia gather ([p.
-265](oon19.htm#page_265)), and old Moscow burn, whilst the eagle ([p.
-266](oon19.htm#page_266)) is beaten back with a swarm of birds, and
-hovers to its fall at Leipsic. <span id="fr_1"></span>[1](#fn_1)
+265](oon19.htm#page_265).md), and old Moscow burn, whilst the eagle ([p.
+266](oon19.htm#page_266).md) is beaten back with a swarm of birds, and
+hovers to its fall at Leipsic. <span id="fr_1"></span>[1](#fn_1.md)
 
 I do not deem it necessary to particularize any further; for if all this
 gathered into one conspectus is not enough to carry conviction home to
@@ -437,7 +437,7 @@ it becomes advisable that I should furnish to the competent reader a
 spot or foothold, where being placed, he may, if he will, command my
 meaning. In the Chaldaic oracles there occur two curious lines; I quote
 them below that there may be no equivocation possible. <span
-id="fr_2"></span>[1](#fn_2) "Now, these fabricate individual things (τὰ
+id="fr_2"></span>[1](#fn_2.md) "Now, these fabricate individual things (τὰ
 ἄτομα, atoms), and sensible objects, and corporeal things, and things
 classed under matter." The Neoplatonists said that ideas were an
 emanation of the divine fire. Plato said very much the same thing of the
@@ -525,7 +525,7 @@ it he would, for truth's sake. Truth attracted, and he, in fact, must
 draw to it. I shut the book up, and said, So will I; and, with certain
 failures, much interruption by necessary duties, and innumerable
 personal shortcomings, so I have. The result has been an ever-increasing
-solitude, <span id="fr_3"></span>[1](#fn_3) until at last no eremite of
+solitude, <span id="fr_3"></span>[1](#fn_3.md) until at last no eremite of
 the desert is more alone than I for years have been. Thus placed, I have
 thought on many questions, with books and without them, caring but
 little what the greatest said, so only I kept moving onward towards that
@@ -576,7 +576,7 @@ till the hour vespertine of sleep drop down, that closes all for each.
 
 ### Footnotes
 
-<span id="fn_0"></span>[viii:1](oon03.htm#fr_0) This noble and enlarged
+<span id="fn_0"></span>[viii:1](oon03.htm#fr_0.md) This noble and enlarged
 thought is worthy of Coleridge, who is the greatest thinker of our
 century, whether you take him as poet or philosopher. Nobody has yet
 claimed for him the pre-eminence which, I believe, to be his. The
@@ -632,7 +632,7 @@ revealing himself are such as lead the run of mankind to esteem him
 visionary; but it will be found that it is they, not he, that must be
 reckoned "such stuff as dreams are made of."
 
-<span id="fn_1"></span>[xviii:1](oon03.htm#fr_1) Touching this curse to
+<span id="fn_1"></span>[xviii:1](oon03.htm#fr_1.md) Touching this curse to
 fall on Napoleon, a somewhat singular analogy arises in comparing with
 it the axiom laid down by Thomasius, quoted in Bruncker's "*Hist. Crit.
 Philos.*," v.488. He says that the spirit is, as it were, resident in
@@ -647,14 +647,14 @@ eagle. An interpreter, such as Joseph, could have told him the meaning
 of the dream or swoon. The defeat was first of all rehearsed in the
 soldier's own brain.
 
-<span id="fn_2"></span>[xx:1](oon03.htm#fr_2)
+<span id="fn_2"></span>[xx:1](oon03.htm#fr_2.md)
 
 Οἱ δὲ τὰ ἄτομα καὶ αἰσθητὰ δημιουργοῦσι  
 Καὶ σωματοειδῆ καὶ κατατεταγμένα εἰς ὕλην·
 
 STANLEY'S "Hist. Chald. Phil.," p. 43.
 
-<span id="fn_3"></span>[xxiii:1](oon03.htm#fr_3) To get one thing, one
+<span id="fn_3"></span>[xxiii:1](oon03.htm#fr_3.md) To get one thing, one
 must always forego some other. Jupiter did not give prescience to
 Tiresias till Juno had struck him blind. And for our own great Milton it
 was necessary he should have wisdom at one entrance quite shut out,
@@ -663,4 +663,4 @@ name for ever, in a willing though perpetual serfdom.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](oon04)
+[Next: Contents](oon04.md)

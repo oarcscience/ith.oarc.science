@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar75)  [Next](gar77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar75)  [Next](gar77.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="img_pl_d"></span> <span align="CENTER"> [![Plate
 D](tn/pl_d.jpg)  
-Click to enlarge](img/pl_d.jpg)  
+Click to enlarge](img/pl_d.jpg.md)  
 Plate D  
 </span>
 
@@ -89,4 +89,4 @@ the same sigil, by altering the arrangement of the serpentine folds.
 
 ------------------------------------------------------------------------
 
-[Next: Plate E. Monuments of the Serapis Worship](gar77)
+[Next: Plate E. Monuments of the Serapis Worship](gar77.md)

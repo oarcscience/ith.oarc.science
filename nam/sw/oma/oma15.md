@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma14)  [Next](oma16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma14)  [Next](oma16.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ comes best will be the right place. When you find this place you are to
 break one of the eggs. One of these is parrot, the other is crow." She
 told them to break the parrot egg at haako and to take the other one
 farther south to kŭyŭpukauwăk, "southwest end." <span
-id="fr_119"></span>[20](#fn_119)
+id="fr_119"></span>[20](#fn_119.md)
 
 Even before this Iatiku had told them to move from Shipapu to the south,
 saying, "You will increase and scatter out." So the people had moved and
@@ -31,7 +31,7 @@ with the little finger of the left hand:
 
 |                                            |     |                     |     |
 |--------------------------------------------|-----|---------------------|-----|
-| isk <span id="fr_120"></span>[21](#fn_120) | 1   | shi'ĭs<sup>th</sup> | 6   |
+| isk <span id="fr_120"></span>[21](#fn_120.md) | 1   | shi'ĭs<sup>th</sup> | 6   |
 | du                                         | 2   | mai'tian            | 7   |
 | chĕm<sup>i</sup>                           | 3   | kokomĭsh            | 8   |
 | diă'nă                                     | 4   | maioku              | 9   |
@@ -60,7 +60,7 @@ this happened, the boys stopped their jokes and once more took part in
 the prayers, but nothing seemed to help. The people had no power.
 
 There was living at this time a man by the name of Tsaiaiduit. <span
-id="fr_121"></span>[22](#fn_121) He was a very good and quiet man, who
+id="fr_121"></span>[22](#fn_121.md) He was a very good and quiet man, who
 never mixed much with the people and who was like a hermit, living alone
 with his mother. He was always very careful and saving with crops; he
 gathered every grain without wasting any and he picked up any he found
@@ -76,7 +76,7 @@ He told him, "I came to you for help. I want you to call the clouds.
 Maybe something will work for you. Maybe someone will listen to you.
 Maybe your prayers are stronger than ours. You have seen that we have
 tried and failed." But the man answered, "I have no power and nothing to
-give. I am just a common human." <span id="fr_122"></span>[23](#fn_122)
+give. I am just a common human." <span id="fr_122"></span>[23](#fn_122.md)
 But his mother said to him, "Why don't you receive his words? It may be
 that the one that gives us life Iatiku) will listen to you. We will
 depend on your prayers." So the man said, "I do not know that I have any
@@ -151,7 +151,7 @@ was dancing the second time, in the south the small cloud
 
 began to grow. When he was dancing on the south side of the plaza, it
 began to rain very hard, but Country Chief did not let the people go,
-home. <span id="fr_123"></span>[24](oma16.htm#fn_123) Tsaiaiduit kept on
+home. <span id="fr_123"></span>[24](oma16.htm#fn_123.md) Tsaiaiduit kept on
 dancing in the rain. After finishing his second dance, he was escorted
 back home to break his fast. After eating, he came out the third time
 and it was still raining and the people stayed on. So he returned and
@@ -161,7 +161,7 @@ he released him from his duties. So the people even today believe that
 the common people are the last resort and have the most power. If
 something should happen and the medicine men could not help, the final
 resort would be a common man. <span
-id="fr_124"></span>[25](oma16.htm#fn_124)
+id="fr_124"></span>[25](oma16.htm#fn_124.md)
 
 This rain did not bring a large harvest but gave them a lot of wild food
 plants which they gathered and saved for the winter. (The rain came too
@@ -175,21 +175,21 @@ them and for a long time they quit the gambling game.
 
 ### Footnotes
 
-<span id="fn_119"></span>[47:20](oma15.htm#fr_119) Cf. White, 1932, p.
+<span id="fn_119"></span>[47:20](oma15.htm#fr_119.md) Cf. White, 1932, p.
 145.
 
-<span id="fn_120"></span>[47:21](oma15.htm#fr_120) Cf. Santo Domingo
+<span id="fn_120"></span>[47:21](oma15.htm#fr_120.md) Cf. Santo Domingo
 (White, 1935, p. 200).
 
-<span id="fn_121"></span>[48:22](oma15.htm#fr_121) There is an important
+<span id="fn_121"></span>[48:22](oma15.htm#fr_121.md) There is an important
 katsina mask at Santo Domingo and at Santa Ana called Tsaiyaityuwitsa
 (White, 1935, pp. 97, 107, 172, fig. 22).
 
-<span id="fn_122"></span>[48:23](oma15.htm#fr_122) Tsaiyaityuwit is a
+<span id="fn_122"></span>[48:23](oma15.htm#fr_122.md) Tsaiyaityuwit is a
 stereotyped picture of a Keresan hero--modest, quiet, unassuming,
 virtuous, thrifty,--a good hunter, living alone with his mother, a man
 able to influence the gods and to save the people.
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part VII](oma16)
+[Next: Wanderings, Part VII](oma16.md)

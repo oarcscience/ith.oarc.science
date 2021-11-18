@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cft00)    [Page
-Index](pageidx)    [Text \[Zipped\]](cft.txt.gz)
+[Contents](#contents)    [Start Reading](cft00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](cft.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -44,34 +44,34 @@ want to follow up on each tale.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cft00)  
-[Preface](cft01)  
-[Contents](cft02)  
-[Full Page Illustrations](cft03)  
-[Connla and the Fairy Maiden](cft04)  
-[Guleesh](cft05)  
-[The Field of Boliauns](cft06)  
-[The Horned Women](cft07)  
-[Conall Yellowclaw](cft08)  
-[Hudden and Dudden and Donald O'Neary](cft09)  
-[The Shepherd of Myddvai](cft10)  
-[The Sprightly Tailor](cft11)  
-[The Story of Deirdre](cft12)  
-[Munachar and Manachar](cft13)  
-[Gold-Tree and Silver-Tree](cft14)  
-[King O'Toole and his Goose](cft15)  
-[The Wooing of Olwen](cft16)  
-[Jack and his Comrades](cft17)  
-[The Shee An Gannon and the Gruagach Gaire](cft18)  
-[The Story-Teller at Fault](cft19)  
-[The Sea-Maiden](cft20)  
-[A Legend of Knockmany](cft21)  
-[Fair, Brown and Trembling](cft22)  
-[Jack and his Master](cft23)  
-[Beth Gellert](cft24)  
-[The Tale of Ivan](cft25)  
-[Andrew Coffey](cft26)  
-[The Battle of the Birds](cft27)  
-[Brewery of Eggshells](cft28)  
-[The Lad with the Goat-Skin](cft29)  
-[Notes and References](cft30)  
+<span id="contents"></span> [Title Page](cft00.md)  
+[Preface](cft01.md)  
+[Contents](cft02.md)  
+[Full Page Illustrations](cft03.md)  
+[Connla and the Fairy Maiden](cft04.md)  
+[Guleesh](cft05.md)  
+[The Field of Boliauns](cft06.md)  
+[The Horned Women](cft07.md)  
+[Conall Yellowclaw](cft08.md)  
+[Hudden and Dudden and Donald O'Neary](cft09.md)  
+[The Shepherd of Myddvai](cft10.md)  
+[The Sprightly Tailor](cft11.md)  
+[The Story of Deirdre](cft12.md)  
+[Munachar and Manachar](cft13.md)  
+[Gold-Tree and Silver-Tree](cft14.md)  
+[King O'Toole and his Goose](cft15.md)  
+[The Wooing of Olwen](cft16.md)  
+[Jack and his Comrades](cft17.md)  
+[The Shee An Gannon and the Gruagach Gaire](cft18.md)  
+[The Story-Teller at Fault](cft19.md)  
+[The Sea-Maiden](cft20.md)  
+[A Legend of Knockmany](cft21.md)  
+[Fair, Brown and Trembling](cft22.md)  
+[Jack and his Master](cft23.md)  
+[Beth Gellert](cft24.md)  
+[The Tale of Ivan](cft25.md)  
+[Andrew Coffey](cft26.md)  
+[The Battle of the Birds](cft27.md)  
+[Brewery of Eggshells](cft28.md)  
+[The Lad with the Goat-Skin](cft29.md)  
+[Notes and References](cft30.md)  

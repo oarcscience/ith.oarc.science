@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot26) 
-[Next](bot28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot26.md) 
+[Next](bot28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -77,7 +77,7 @@ this monster, Venus and Cupid transformed themselves into fishes and
 plunged into the river which afforded them safety.
 
 This House is generally symbolised by two fishes connected with a band,
-as illustrated in No. 12 of the [Frontispiece](bot00.htm#img_front).
+as illustrated in No. 12 of the [Frontispiece](bot00.htm#img_front.md).
 Jupiter is usually considered to be the ruling planet of this House, or
 in the case
 
@@ -259,6 +259,6 @@ without adverse results.
 
 ------------------------------------------------------------------------
 
-[Next: Real and Artificial Gems and How to Test and Select Them](bot28)
+[Next: Real and Artificial Gems and How to Test and Select Them](bot28.md)
 
 </div>

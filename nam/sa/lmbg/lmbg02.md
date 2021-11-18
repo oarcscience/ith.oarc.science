@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](lmbg01) [Next](lmbg1a)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](lmbg01) [Next](lmbg1a.md)
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ American](../index) [Index](index) [Previous](lmbg01) [Next](lmbg1a)
 
 ------------------------------------------------------------------------
 
-[Next](lmbg1a)
+[Next](lmbg1a.md)

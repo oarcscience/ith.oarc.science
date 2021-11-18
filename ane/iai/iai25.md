@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai24)  [Next](iai26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai24)  [Next](iai26.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,12 +44,12 @@ My friend, if I mistake thee not, for war
 Thou art prepared, since thou upon the car  
 Wast wont to ride in former years now gone;  
 And if he falls, a feast day of the Sun  
- <span id="fr_207"></span>[1](#fn_205)We will appoint, and may the birds
+ <span id="fr_207"></span>[1](#fn_205.md)We will appoint, and may the birds
 of prey  
 Surround his carcass on this glorious day:  
 But stay! this giant I will slay alone,  
 Although his weight is many *gur-ri* <span
-id="fr_208"></span>[2](#fn_206) stone;  
+id="fr_208"></span>[2](#fn_206.md) stone;  
 This giant's form the gods have surely made  
 An enemy well worthy of my blade."
 
@@ -83,14 +83,14 @@ Khumbaba's gory head rolls o'er the sward.
 
 ### Footnotes
 
-<span id="fn_205"></span>[76:1](iai25.htm#fr_207) Smith's "Chald. Acc.
+<span id="fn_205"></span>[76:1](iai25.htm#fr_207.md) Smith's "Chald. Acc.
 of Gen.," Sayce's edition, p. 223 ls. 35 and 41.
 
-<span id="fn_206"></span>[76:2](iai25.htm#fr_208) "Gur-ri," a
+<span id="fn_206"></span>[76:2](iai25.htm#fr_208.md) "Gur-ri," a
 measurement of weight corresponding to "ton"(?). It vas also used as a
 measurement of ships.
 
 ------------------------------------------------------------------------
 
 [Next: Tablet V--Column I. Coronation of Izdubar and Appearance of
-Ishtar](iai26)
+Ishtar](iai26.md)

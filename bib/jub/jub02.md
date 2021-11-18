@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub01) 
-[Next](jub03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub01.md) 
+[Next](jub03.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ chapters, and appears to be complete.
 
 ------------------------------------------------------------------------
 
-[Next: Titles](jub03)
+[Next: Titles](jub03.md)

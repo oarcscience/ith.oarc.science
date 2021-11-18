@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Next](ioy01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Next](ioy01.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,13 +40,13 @@ American](../../index)  [California](../index)  [Index](index) 
 <span id="img_fcover"></span>
 
 [![Front Cover](tn/fcover.jpg)  
-Click to enlarge](img/fcover.jpg)  
+Click to enlarge](img/fcover.jpg.md)  
 Front Cover  
 
 <span id="img_front"></span>
 
 [![Galen Clark](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Galen Clark  
 
 <span id="page_verso">p. verso</span>
@@ -71,4 +71,4 @@ CHARLES HOWARD BURNETT
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ioy01)
+[Next: Contents](ioy01.md)

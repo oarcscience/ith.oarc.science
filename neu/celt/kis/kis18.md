@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis17)  [Next](kis19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis17)  [Next](kis19.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ Mahon and the other hounds sprang after him--
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](kis19)
+[Next: Part IV](kis19.md)

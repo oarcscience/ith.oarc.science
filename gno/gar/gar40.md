@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar39)  [Next](gar41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar39)  [Next](gar41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -87,7 +87,7 @@ semi-Christian sects that sprung up in the very bosom of the Church.
 These notices are subjoined in chronological order, for they give in a
 few words the grand features of the perfected system. Hippolytus has
 left an excellent analysis of the Basilidan doctrine, well deserving of
-[careful](errata.htm#15) study, although it is hard to see how it bears
+[careful](errata.htm#15.md) study, although it is hard to see how it bears
 out the assertion at the opening, that this *heretic* took his entire
 system
 
@@ -393,7 +393,7 @@ distinguished by their sex alone." Each deity exerts his power through
 the agency of his female Principle or *Sacti*, which in turn possesses a
 *Váhan* "vehicle," that is an instrument or attribute, which is fixed
 and represented in a material form. Of the Persons in the Supreme Triad
-the Sactis and their Váhans <span id="fr_148"></span>[\*](#fn_147)
+the Sactis and their Váhans <span id="fr_148"></span>[\*](#fn_147.md)
 are:--
 
 1\. Of Brahma, Saraswati, goddess of harmony and the arts (the Jewish
@@ -422,7 +422,7 @@ The Sassanian queens in their gem
 <span id="page_265">p. 265</span>
 
 portraits generally bear the lotus in the hand, <span
-id="fr_149"></span>[\*](#fn_148) "Varanes" is a common name for the
+id="fr_149"></span>[\*](#fn_148.md) "Varanes" is a common name for the
 kings of that line, and the Brahminic Bull, the commonest of all signet
 devices with their subjects. But as the dominions of the later Persian
 kings extended as far as the Indus, Hindoo princesses doubtless entered
@@ -472,7 +472,7 @@ Grecised form amongst these interminable strings of titles.
 
 ### Footnotes
 
-<span id="fn_147"></span>[264:\*](gar40.htm#fr_148) It might even be
+<span id="fn_147"></span>[264:\*](gar40.htm#fr_148.md) It might even be
 suggested that Indian influence shines through the whole Apocalypse. The
 Four Beasts (borrowed it is true from the First Vision of Ezekiel) are
 these Whams, ministers of the Divine Will. Later times assigned each to
@@ -482,9 +482,9 @@ crystal" is the vast crystal block suspended in the highest heaven, the
 shrine of the Supreme Being; absorption into whom is the true object of
 the believer.
 
-<span id="fn_148"></span>[265:\*](gar40.htm#fr_149) In the character of
+<span id="fn_148"></span>[265:\*](gar40.htm#fr_149.md) In the character of
 Kamalá, as the later Greek, and the Roman ladies in that of Isis.
 
 ------------------------------------------------------------------------
 
-[Next: The Ineffable Name in the Hindoo Form](gar41)
+[Next: The Ineffable Name in the Hindoo Form](gar41.md)

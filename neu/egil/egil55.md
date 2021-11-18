@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil54)  [Next](egil56) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil54)  [Next](egil56.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ overtaken were slain. Thus king Athelstan gained a signal victory.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LV. Egil buries Thorolf.](egil56)
+[Next: CHAPTER LV. Egil buries Thorolf.](egil56.md)

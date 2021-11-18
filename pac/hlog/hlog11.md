@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog10)  [Next](hlog12) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog10)  [Next](hlog12.md) 
 
 ------------------------------------------------------------------------
 
@@ -353,4 +353,4 @@ her garments to all her friends of the ancient days.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Kauhuhu, the Shark-God of Molokai](hlog12)
+[Next: VII. Kauhuhu, the Shark-God of Molokai](hlog12.md)

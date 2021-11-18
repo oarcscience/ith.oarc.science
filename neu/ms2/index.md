@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@ Sagas](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ms200)    [Page
-Index](pageidx)    [Text \[Zipped\]](ms2.txt.gz)
+[Contents](#contents)    [Start Reading](ms200.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ms2.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -47,12 +47,12 @@ archaic way of thought.--J.B. Hare, March 9th, 2010.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ms200)  
-[Contents](ms201)  
-[Chapter VII. Charms of the East Finns, Russians, Letts, etc.](ms202)  
-[Magic Songs of the Finns](ms203)  
-[Words of Healing Power](ms204)  
-[Formulæ](ms205)  
-[Prayers](ms206)  
-[Origins](ms207)  
-[Index](ms208)  
+<span id="contents"></span> [Title Page](ms200.md)  
+[Contents](ms201.md)  
+[Chapter VII. Charms of the East Finns, Russians, Letts, etc.](ms202.md)  
+[Magic Songs of the Finns](ms203.md)  
+[Words of Healing Power](ms204.md)  
+[Formulæ](ms205.md)  
+[Prayers](ms206.md)  
+[Origins](ms207.md)  
+[Index](ms208.md)  

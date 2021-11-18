@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](ath11)  [Next](ath13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](ath11)  [Next](ath13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabic Thought and its Place in History*, by De Lacy O'Leary, \[1922\],
 at Intangible Textual Heritage
 
@@ -309,7 +309,7 @@ collections of extracts. About
 
 <span class="contnote">\[paragraph continues\]</span> 1284 Zerachia ben
 Isaac from Barcelona translated Ibn Rushd's commentaries on the
-*Physics*, the [*Metaphysics*](errata.htm#37), and the treatises *de
+*Physics*, the [*Metaphysics*](errata.htm#37.md), and the treatises *de
 coelo* and *de mundo*. Rènan has drawn attention to the fact that the
 same works are translated again and again, sometimes by translators who
 were very nearly contemporary and lived in the same neighbourhood.
@@ -321,13 +321,13 @@ and not credited with any literary possibilities.
 Early in the 14th century Kalonymos b. Kalonymos b. Meir translated Ibn
 Rushd's commentaries on the *Topica*, *Sophistica*, and *analytica
 Posteriora* (completed 1314); then his commentaries on the Physica,
-[*Metaphysics*](errata.htm#38), *de coelo* and *de mundo*, *de
+[*Metaphysics*](errata.htm#38.md), *de coelo* and *de mundo*, *de
 generatione* and *de corruptione*, and the *Meteora* (completed 1317),
 and followed these by a translation of the *Destruction of the
 Destruction*. An independent Hebrew translation of this latter work was
 made about the same time by Kalonymos b. David b. Todros. About 1321
 Rabbi Samuel ben Jehuda ben Meshullam at Marseilles prepared Hebrew
-versions of Ibn Rushd's commentaries on the [Nicomachæan](errata.htm#39)
+versions of Ibn Rushd's commentaries on the [Nicomachæan](errata.htm#39.md)
 Ethics and his paraphrase of the Republic of Plato, which was regarded
 by the Arabic writers as part of the Aristotelian canon. It is rather
 interesting to note that somewhere about the same time Juda ben Moses
@@ -389,4 +389,4 @@ thought.
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. Influence of the Arabic Philosophers on Latin
-Scholasticism](ath13)
+Scholasticism](ath13.md)

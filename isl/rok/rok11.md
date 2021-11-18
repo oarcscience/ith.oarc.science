@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](rok10)  [Next](rok12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](rok10)  [Next](rok12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH82/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH82/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Koran*, by Arthur N. Wollaston, \[1911\], at
 Intangible Textual Heritage
 
@@ -69,4 +69,4 @@ is by him ready!
 
 ------------------------------------------------------------------------
 
-[Next: The Devil](rok12)
+[Next: The Devil](rok12.md)

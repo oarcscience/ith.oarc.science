@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -13,17 +13,17 @@ American](../../index) [Navajo](../index)
 
 ------------------------------------------------------------------------
 
-[Title Page](itb00)  
-[ACKNOWLEDGMENTS](itb01)  
-[INTRODUCTION](itb02)  
-[IN THE BEGINNING](itb03)  
-[THE BATTLE AT BLUE HOUSE](itb04)  
-[A WHITE BEAD WOMAN STORY](itb05)  
-[WHITE BEAD WOMAN](itb06)  
-[ON THE JOURNEY TOWARDS SHADOW MOUNTAIN](itb07)  
-[COYOTE GOD](itb08)  
-[THE MAN WITH FOUR NAMES](itb09)  
-[BIBLIOGRAPHY](itb10)  
+[Title Page](itb00.md)  
+[ACKNOWLEDGMENTS](itb01.md)  
+[INTRODUCTION](itb02.md)  
+[IN THE BEGINNING](itb03.md)  
+[THE BATTLE AT BLUE HOUSE](itb04.md)  
+[A WHITE BEAD WOMAN STORY](itb05.md)  
+[WHITE BEAD WOMAN](itb06.md)  
+[ON THE JOURNEY TOWARDS SHADOW MOUNTAIN](itb07.md)  
+[COYOTE GOD](itb08.md)  
+[THE MAN WITH FOUR NAMES](itb09.md)  
+[BIBLIOGRAPHY](itb10.md)  
 
 ------------------------------------------------------------------------
 

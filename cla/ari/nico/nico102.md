@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico101) 
-[Next](nico103) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico101.md) 
+[Next](nico103.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ own. This last point, too, would seem to apply to benefactors.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8. The nature of true self-love](nico103)
+[Next: Chapter 8. The nature of true self-love](nico103.md)

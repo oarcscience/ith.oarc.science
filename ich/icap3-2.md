@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](icap3-1)  [Next](icap4-1) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](icap3-1)  [Next](icap4-1.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### SECTION II
 
-Chapter  <span id="fr_266"></span>[I](#fn_266). 1. The eight trigrams
+Chapter  <span id="fr_266"></span>[I](#fn_266.md). 1. The eight trigrams
 having been completed in their proper order, there were in each the
 (three) emblematic lines. They were then
 
@@ -65,7 +65,7 @@ righteousness.
 
 <span id="page_382">p. 382</span>
 
-Chapter  <span id="fr_267"></span>[II](#fn_267). 11. Anciently, when
+Chapter  <span id="fr_267"></span>[II](#fn_267.md). 11. Anciently, when
 Pâo-hsî had come to the rule of all under heaven, looking up, he
 contemplated the brilliant forms exhibited in the sky, and looking down
 he surveyed the patterns shown on the earth. He contemplated the
@@ -166,7 +166,7 @@ idea of this was taken, probably, from Kwâi (the forty-third hexagram).
 
 <span id="page_386">p. 386</span>
 
-Chapter  <span id="fr_268"></span>[III](#fn_268). 24. Therefore what we
+Chapter  <span id="fr_268"></span>[III](#fn_268.md). 24. Therefore what we
 call the Yî is (a collection of) emblematic lines. They are styled
 emblematic as being resemblances.
 
@@ -183,7 +183,7 @@ manifestation of repentance and regret.
 
 <span id="page_388">p. 388</span>
 
-Chapter  <span id="fr_269"></span>[IV](#fn_269). 28. In the Yang
+Chapter  <span id="fr_269"></span>[IV](#fn_269.md). 28. In the Yang
 trigrams (or those of the undivided line) there are more of the Yin
 lines, and in the Yin trigrams (or those of the divided line) there are
 more of the Yang lines.
@@ -199,7 +199,7 @@ subject,--suggesting the way of the small man.
 
 <span id="page_389">p. 389</span>
 
-Chapter  <span id="fr_270"></span>[V](#fn_270). 31. It is said in the
+Chapter  <span id="fr_270"></span>[V](#fn_270.md). 31. It is said in the
 Yî, 'Full of anxious thoughts you go and come; (only) friends will
 follow you and think with you.' The Master said:--'In all (the processes
 taking place) under heaven, what is there of thinking? what is there of
@@ -349,7 +349,7 @@ regular rule in the ordering of his heart:--there will be evil."'
 
 <span id="page_395">p. 395</span>
 
-Chapter  <span id="fr_271"></span>[VI](#fn_271). 45. The Master
+Chapter  <span id="fr_271"></span>[VI](#fn_271.md). 45. The Master
 said:--'(The trigrams) *Kh*ien and Khwăn may be regarded as the gate of
 the Yî.' *Kh*ien represents what is of the yang nature (bright and
 active); Khwăn what is of the yin nature (shaded and inactive). These
@@ -384,7 +384,7 @@ to make plain the recompenses of good and evil.
 
 <span id="page_397">p. 397</span>
 
-Chapter  <span id="fr_272"></span>[VII](#fn_272). 49. Was it not in the
+Chapter  <span id="fr_272"></span>[VII](#fn_272.md). 49. Was it not in the
 middle period of antiquity that the Yî began to flourish? Was not he who
 made it familiar with anxiety and calamity?
 
@@ -419,7 +419,7 @@ to circumstances.
 
 <span id="page_399">p. 399</span>
 
-Chapter  <span id="fr_273"></span>[VIII](#fn_273). 53. The Yî is a book
+Chapter  <span id="fr_273"></span>[VIII](#fn_273.md). 53. The Yî is a book
 which should not be let slip from the mind. Its method (of teaching) is
 marked by the frequent changing (of its lines). They change and move
 without staying (in one place), flowing about into any one of the six
@@ -443,7 +443,7 @@ this out), the course cannot be pursued without them.
 
 <span id="page_400">p. 400</span>
 
-Chapter  <span id="fr_274"></span>[IX](#fn_274). 57. The Yî is a book in
+Chapter  <span id="fr_274"></span>[IX](#fn_274.md). 57. The Yî is a book in
 which the form (of each diagram) is determined by the lines from the
 first to the last, which must be carefully observed. The six lines are
 mixed together, according to the time (when they enter the figure) and
@@ -488,7 +488,7 @@ There will be peril. By that of strength? There will be victory.
 
 <span id="page_402">p. 402</span>
 
-Chapter  <span id="fr_275"></span>[X](#fn_275). 63. The Yî is a book of
+Chapter  <span id="fr_275"></span>[X](#fn_275.md). 63. The Yî is a book of
 wide comprehension and great scope, embracing everything. There are in
 it the way of heaven, the way of man, and the way of earth. It then
 takes (the lines representing) those three Powers, and doubles them till
@@ -504,7 +504,7 @@ produced.
 
 <span id="page_403">p. 403</span>
 
-Chapter  <span id="fr_276"></span>[XI](#fn_276). 65. Was it not in the
+Chapter  <span id="fr_276"></span>[XI](#fn_276.md). 65. Was it not in the
 last age of Yin, when the virtue of *K*âu had reached its highest point,
 and during the troubles between king Wăn and (the tyrant) *K*âu, that
 the (study of the Yî) began to flourish? On this account the
@@ -518,7 +518,7 @@ called the way of the Yî.
 
 <span id="page_404">p. 404</span>
 
-Chapter  <span id="fr_277"></span>[XII](#fn_277). 66. (The hexagram)
+Chapter  <span id="fr_277"></span>[XII](#fn_277). 66. (The hexagram.md)
 Khien represents the strongest of all under the sky. Through this
 quality its operations are always manifested with ease, for it knows
 where there would be peril and embarrassment. (The hexagram) Khwăn
@@ -585,7 +585,7 @@ those of him who is losing what he ought to keep are crooked.
 
 ### Footnotes
 
-<span id="fn_266"></span>[381:I](icap3-2.htm#fr_266) Chapter I,
+<span id="fn_266"></span>[381:I](icap3-2.htm#fr_266.md) Chapter I,
 paragraphs 1-10, is an amplification, according to Khung Ying-tâ and the
 editors of the imperial edition of the present dynasty, of the second
 chapter of Section i. The latter say that as all the chapters of Section
@@ -628,7 +628,7 @@ with the general strain of Confucian teaching;--as in the Great
 Learning, chapter 10, and many other places; but I fail to see its
 appropriateness in its present place in the Yî.
 
-<span id="fn_267"></span>[385:II](icap3-2.htm#fr_267) Chapter II,
+<span id="fn_267"></span>[385:II](icap3-2.htm#fr_267.md) Chapter II,
 paragraphs 11-23, treats of the progress. of civilisation in China, and
 how the great men of antiquity who led the way in the various steps of
 that progress were guided by the Yî. Only five of these are
@@ -692,7 +692,7 @@ generally ascribed to Fû-hsî. Paragraph 23 does not say so, but the
 inventor is said to have been a sage of a subsequent age to the time of
 'high antiquity.' That 'high antiquity' must stretch back very far.
 
-<span id="fn_268"></span>[387:III](icap3-2.htm#fr_268) Chapter III,
+<span id="fn_268"></span>[387:III](icap3-2.htm#fr_268.md) Chapter III,
 paragraphs 24-27, treats of the Yî as made up of figurative diagrams,
 which again are composed of lines ever changing, in accordance with the
 phenomena of nature and human experience, while to the resulting figures
@@ -722,7 +722,7 @@ is right, or in an even place, which is wrong; and the case is the
 opposite with the divided lines. But what has this to do with the right
 or wrong of the events divined about?
 
-<span id="fn_269"></span>[388:IV](icap3-2.htm#fr_269) Chapter IV,
+<span id="fn_269"></span>[388:IV](icap3-2.htm#fr_269.md) Chapter IV,
 paragraphs 28-30. Of the distinction of the trigrams into Yang and Yin.
 
 The trigrams that contain only one undivided line--*k*ăn (<span
@@ -750,7 +750,7 @@ allegiance of one Subject.' This is ingenious, but fanciful; as indeed
 this distinction of the trigrams into a yang class and a yin is a mere
 play of fancy.
 
-<span id="fn_270"></span>[394:V](icap3-2.htm#fr_270) Chapter V,
+<span id="fn_270"></span>[394:V](icap3-2.htm#fr_270.md) Chapter V,
 paragraphs 31-44, gives the words of the duke of *K*âu on eleven
 different lines in the Text of the Yî, along with remarks of Confucius
 in farther illustration of them. But they seem also to be intended to
@@ -821,7 +821,7 @@ far-fetched.
 
 Paragraph 44. See on the fifth line of Yî, the 42nd hexagram.
 
-<span id="fn_271"></span>[396:VI](icap3-2.htm#fr_271) The principal
+<span id="fn_271"></span>[396:VI](icap3-2.htm#fr_271.md) The principal
 object, it is said, of chapter VI, paragraphs 45-48, is to set forth the
 views of king Wăn and his son in the explanations which they appended to
 the diagrams and lines; and in doing this the writer begins in 45, with
@@ -862,7 +862,7 @@ with 48. Where the order of the characters has been disarranged merely,
 correction is easy; but where characters are evidently missing, attempts
 to fill the lacunae are merely guess-work.
 
-<span id="fn_272"></span>[398:VII](icap3-2.htm#fr_272) Chapter VII,
+<span id="fn_272"></span>[398:VII](icap3-2.htm#fr_272.md) Chapter VII,
 paragraphs 49-52, is occupied with nine hexagrams, as specially
 indicating how the superior man, or the ruler, should deal with a time
 of trouble and solicitude, specially by the cultivation of his own
@@ -883,7 +883,7 @@ thought by which the writer passed from the anxiety that possessed the
 mind of the author of the Yî to the use to be derived, in such
 circumstances, from the study of Lî and the other hexagrams.
 
-<span id="fn_273"></span>[399:VIII](icap3-2.htm#fr_273) Chapter VIII,
+<span id="fn_273"></span>[399:VIII](icap3-2.htm#fr_273.md) Chapter VIII,
 paragraphs 53-56, describes the method of studying the Yî as consisting
 very much in watching the changes that take place in the lines, and
 reflecting on the appended explanations; while, after all, much must
@@ -900,7 +900,7 @@ have been lost. 'The six places of the hexagram' in 53 are, literally,
 temporary possession of them, which is held by the fugitive lines,
 whether whole or divided.
 
-<span id="fn_274"></span>[401:IX](icap3-2.htm#fr_274) Chapter IX,
+<span id="fn_274"></span>[401:IX](icap3-2.htm#fr_274.md) Chapter IX,
 paragraphs 56-62, speaks of the hexagrams as made up of the different
 lines, and various things to be attended to in those lines to determine
 their meaning.
@@ -932,7 +932,7 @@ belonged to both. The Khang-hsî editors say that 'by discriminating and
 combining these views, we get to the meaning of the text.' I am unable
 to do so.
 
-<span id="fn_275"></span>[402:X](icap3-2.htm#fr_275) Chapter X,
+<span id="fn_275"></span>[402:X](icap3-2.htm#fr_275.md) Chapter X,
 paragraphs 63, 64, speaks of the great comprehensiveness of the Yî, its
 figures and explanations being applicable to the three Powers--heaven,
 earth, and man.
@@ -968,7 +968,7 @@ paragraphs 57, 59, et al. A yang line in an even place, or a yin line in
 an odd, is not in its appropriate place, and gives an indication of what
 is bad.
 
-<span id="fn_276"></span>[403:XI](icap3-2.htm#fr_276) Chapter XI,
+<span id="fn_276"></span>[403:XI](icap3-2.htm#fr_276.md) Chapter XI,
 paragraph 65. P. Regis observes on this chapter:--'I do not hesitate to
 say that there is found nowhere in the whole <span id="page_404">p.
 404</span> \[paragraph continues\] Yî a passage which affords more light
@@ -985,7 +985,7 @@ of the author is also stated clearly enough,--to inculcate a cautious
 and reverent administration of affairs, never forgetful of the
 uncertainties of life and fortune.
 
-<span id="fn_277"></span>[406:XII](icap3-2.htm#fr_277) Chapter XII,
+<span id="fn_277"></span>[406:XII](icap3-2.htm#fr_277.md) Chapter XII,
 paragraphs 66-72, is generally divided into three sections;--the first,
 embracing 66-68, and treating of the sages, the makers of the Yî, as
 themselves independent of it, knowing all that it enables us to know,
@@ -1037,4 +1037,4 @@ cohaerentes, sed omnino ab iis abscissae avulsaeque.'
 
 ------------------------------------------------------------------------
 
-[Next: Section I: *Kh*ien](icap4-1)
+[Next: Section I: *Kh*ien](icap4-1.md)

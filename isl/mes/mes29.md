@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes28)  [Next](mes30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes28)  [Next](mes30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,7 +21,7 @@ Textual Heritage
 ### XIV.
 
 <span id="img_m24800"></span> ![The Chinese and Roman
-Artists.](img/m24800.jpg)
+Artists.](img/m24800.jpg.md)
 
 <span class="smallcaps">Give</span> ear to this advice from one who's
 well informed:  
@@ -37,7 +37,7 @@ So are all people children, round the saints of God;
 <span class="margnote"><span id="an_5">5</span></span> None adults are,
 save they who've cast off passion's clod.  
 ’Twas said: "The world's a toy, a plaything; and men all  
-Are infants." <span id="fr_369"></span>[1](#fn_368) These are God's
+Are infants." <span id="fr_369"></span>[1](#fn_368.md) These are God's
 words. True in sense they fall.  
 No child but loves his toys, his playthings, games, and sports;  
 By cultivation of the mind man sense imports.
@@ -62,14 +62,14 @@ Their vanity converts them into horsemen's mass.
 So let it be till that day when God's riders shall,  
 On steeds of fire, transcend the seventh heaven's rolling ball.  
 "The spirit and the angels mount unto their God." <span
-id="fr_370"></span>[1](#fn_369)  
+id="fr_370"></span>[1](#fn_369.md)  
 The spheres shall shake, when under saintly footsteps trod. <span
 class="margnote"><span id="an_15">15</span></span>  
 Whereas the raff of mankind mount their own coat-tails;  
 Imagining they're horsemen, prancing as ship sails.
 
 The Lord hath said: "Imagining's of no avail." <span
-id="fr_371"></span>[2](#fn_370)  
+id="fr_371"></span>[2](#fn_370.md)  
 Imagination's steed to scale heaven's heights must fail.  
 Imagination's best is but a choice of doubts;  
 Man ne’er disputes about the sun, whate’er the whim he flouts.  
@@ -84,7 +84,7 @@ The science of the worldly is their load;—how oft!
 The wisdom of the heart sustains and elevates;  
 But knowledge sensuously acquired as burden rates.  
 ’Tis God hath said: "An ass with volumes for his load." <span
-id="fr_372"></span>[3](#fn_371)  
+id="fr_372"></span>[3](#fn_371.md)  
 So knowledge is a burden, when not of God's code.
 
 <span id="page_m250">p. 250</span>
@@ -131,13 +131,13 @@ When soul communes with soul, minds freely can accost."
 
 This riddle solve: "A Kurd I last night was, by birth;  
 And then, this morning, Arab am, by afterbirth." <span
-id="fr_373"></span>[1](#fn_372) <span class="margnote"><span
+id="fr_373"></span>[1](#fn_372.md) <span class="margnote"><span
 id="an_40">40</span></span>  
 If one, sincere, a Kurdish boor was overnight,  
 Sincerity an Arab made him by daylight.  
 Example seekest of science springing in the heart?  
 This contest heed of Chinaman and Roman's art. <span
-id="fr_374"></span>[2](#fn_373)
+id="fr_374"></span>[2](#fn_373.md)
 
 The Chinese urged they had the greater painter's skill.  
 The Romans pleaded they of art the throne did fill.  
@@ -218,7 +218,7 @@ No man has power to dominate their tranquil minds.
 The shell may injured be; the pearl harm never finds.  
 The rhetor's art, the jurist's skill, they set at naught;  
 But poverty, abasement, to themselves they've taught.  
-The scenes of all eight paradises <span id="fr_375"></span>[1](#fn_374)
+The scenes of all eight paradises <span id="fr_375"></span>[1](#fn_374.md)
 are consumed  
 In that full blaze with which their holy heart's illumed.  
 They're more exalted than the heavens and what's beyond;  
@@ -229,25 +229,25 @@ class="margnote"><span id="an_75">75</span></span>
 
 ### Footnotes
 
-<span id="fn_368"></span>[m248:1](mes29.htm#fr_369) Qur’ān vi. 32; xxix.
+<span id="fn_368"></span>[m248:1](mes29.htm#fr_369.md) Qur’ān vi. 32; xxix.
 64; xxx. 6; xlvii. 38; lvii. 19.
 
-<span id="fn_369"></span>[m249:1](mes29.htm#fr_370) Qur’ān lxx. 4.
+<span id="fn_369"></span>[m249:1](mes29.htm#fr_370.md) Qur’ān lxx. 4.
 
-<span id="fn_370"></span>[m249:2](mes29.htm#fr_371) Qur’ān x. 37.
+<span id="fn_370"></span>[m249:2](mes29.htm#fr_371.md) Qur’ān x. 37.
 
-<span id="fn_371"></span>[m249:3](mes29.htm#fr_372) Qur’ān lxii. 5.
+<span id="fn_371"></span>[m249:3](mes29.htm#fr_372.md) Qur’ān lxii. 5.
 
-<span id="fn_372"></span>[m251:1](mes29.htm#fr_373) See, in the author's
+<span id="fn_372"></span>[m251:1](mes29.htm#fr_373.md) See, in the author's
 own preface, his eulogistic mention of Sheykh Husāmu-’d-Dīn, p.
-[iii](mes14.htm#page_miii)., where this saying is also given.
+[iii](mes14.htm#page_miii.md)., where this saying is also given.
 
-<span id="fn_373"></span>[m251:2](mes29.htm#fr_374) By " Roman," in the
+<span id="fn_373"></span>[m251:2](mes29.htm#fr_374.md) By " Roman," in the
 East, is meant what Europeans incorrectly name "Greek." Since Alexander
 of Macedon's time, no "Greeks" have existed. Their very memory is lost
 in Asia, and Alexander himself is styled there "*the Roman*."
 
-<span id="fn_374"></span>[m253:1](mes29.htm#fr_375) Commonly, in Islām,
+<span id="fn_374"></span>[m253:1](mes29.htm#fr_375.md) Commonly, in Islām,
 eight paradises, or, properly, eight mansions of Paradise, are reported,
 mentioned, and believed. Baydhāvī, in Qur’ān ii. 23, gives only seven,
 and one of those is wrong. Guided by him, however, I have corrected
@@ -266,4 +266,4 @@ Duration, commonly used, but not found in the Qur’ān.
 
 ------------------------------------------------------------------------
 
-[Next: XV. Zeyd's Inspiration](mes30)
+[Next: XV. Zeyd's Inspiration](mes30.md)

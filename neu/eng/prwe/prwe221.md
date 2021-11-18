@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe220)  [Next](prwe222) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe220)  [Next](prwe222.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ The parting genius is, with sighing sent."
 
 ------------------------------------------------------------------------
 
-[Next: Sanding the Step on New Year's Day](prwe222)
+[Next: Sanding the Step on New Year's Day](prwe222.md)

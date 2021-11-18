@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara17)  [Next](ara19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara17)  [Next](ara19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ altogether due) to unavoidable causes which we cannot help, as, for
 instance, heredity, the being born savages, or poor, or in vice, or unto
 "bigotry and virtue" in excess, or unto inquisitioning--that is to say,
 when we are so overburdened with innately born sin that all our free
-will cannot set us free from it. <span id="fr_30"></span>[1](#fn_30)
+will cannot set us free from it. <span id="fr_30"></span>[1](#fn_30.md)
 
 It was during the so-called Dark Ages, or from the downfall of the Roman
 Empire until the thirteenth century, that the belief that all which was
@@ -219,7 +219,7 @@ forth *in the earliest morning* to seek for verbena or
 
 vervain. The ancient Persian magi, or rather their daughters, worshipped
 the sun as it rose by waving freshly plucked verbena, <span
-id="fr_31"></span>[1](#fn_31) which was one of the seven most powerful
+id="fr_31"></span>[1](#fn_31.md) which was one of the seven most powerful
 plants in magic. These Persian priestesses were naked while they thus
 worshipped, nudity being a symbol of truth and sincerity.
 
@@ -470,7 +470,7 @@ his mind that some survival of this ancient and exquisite trade must
 still exist somewhere in Italy. He accordingly made diligent search...
 and in an out of the way village discovered goldsmiths who made
 ornaments for the peasants, which in their character indicated a strong
-survival of early Etruscan art." <span id="fr_32"></span>[1](#fn_32)
+survival of early Etruscan art." <span id="fr_32"></span>[1](#fn_32.md)
 
 <span id="page_119">p. 119</span>
 
@@ -513,7 +513,7 @@ astonishing to the reader that this Gospel of the Witches should have
 been preserved, even as I have given it. That I have not had or seen it
 in an *old* MS. is certainly true, but that it has been written of yore,
 and is still repeated here and there orally, in separate parts, I am
-sure. <span id="fr_33"></span>[1](#fn_33)
+sure. <span id="fr_33"></span>[1](#fn_33.md)
 
 It would be a great gratification to me if any among those into whose
 hands this book may fall, who may possess information confirming what is
@@ -524,14 +524,14 @@ form, so that it may not be lost.
 
 ### Footnotes
 
-<span id="fn_30"></span>[103:1](ara18.htm#fr_30) Hence the saying that
+<span id="fn_30"></span>[103:1](ara18.htm#fr_30.md) Hence the saying that
 to know all would be to forgive all; which may be nine-tenths true, but
 there *is* a tenth of responsible guilt.
 
-<span id="fn_31"></span>[109:1](ara18.htm#fr_31) Friedrich, *Symbolik*,
+<span id="fn_31"></span>[109:1](ara18.htm#fr_31.md) Friedrich, *Symbolik*,
 p. 283.
 
-<span id="fn_32"></span>[118:1](ara18.htm#fr_32) I am here reminded, by
+<span id="fn_32"></span>[118:1](ara18.htm#fr_32.md) I am here reminded, by
 a strange coincidence, that I having rediscovered the very ancient and
 lost art of the Chinese how to make bottles or vases on which
 inscriptions, &c., appeared when wine was poured into them, communicated
@@ -546,7 +546,7 @@ profitable. I admit that I have little faith in lost arts beyond
 recovering. Described in my book (unpublished) on the *Hundred Minor
 Arts*.
 
-<span id="fn_33"></span>[120:1](ara18.htm#fr_33) In a very recent work
+<span id="fn_33"></span>[120:1](ara18.htm#fr_33.md) In a very recent work
 by Messrs. Niceforo and Sighele, entitled *La Mala Vita a Roma* ("Evil
 Life in Rome"), there is a chapter devoted to the Witches of the Eternal
 City, of whom the writer says they form a class so hidden that "the most
@@ -556,4 +556,4 @@ enough.
 
 ------------------------------------------------------------------------
 
-[Next: The Children of Diana, or How the Fairies Were Born](ara19)
+[Next: The Children of Diana, or How the Fairies Were Born](ara19.md)

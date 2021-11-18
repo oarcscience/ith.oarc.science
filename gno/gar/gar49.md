@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar48)  [Next](gar50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar48)  [Next](gar50.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ route*.
 This learned Father had, by some means or other, become possessed of a
 parchment chart on which were depicted the successive stages of the
 soul's heavenward journey, with the several *Powers* <span
-id="fr_203"></span>[\*](#fn_201) it must encounter in its flight, and
+id="fr_203"></span>[\*](#fn_201.md) it must encounter in its flight, and
 the proper invocations (specimens of which I have already given) whereby
 it should extort permission to traverse their dominions. This chart was
 known to the faithful as the "Schema, or Diagramma, of the Ophites."
@@ -72,7 +72,7 @@ Power was required; all which have been already given from Origen's copy
 of the Chart. Their *names* were put down therein, as Adonai, genius of
 the Sun, Iao of the Moon, Eloi of Jupiter, Sabao of Mars, Orai of Venus,
 Astaphai of Mercury, and Ildabaoth of Saturn. <span
-id="fr_204"></span>[\*](#fn_202)
+id="fr_204"></span>[\*](#fn_202.md)
 
 All these names are to be read, more or less commonly, upon our
 talismans, although probably used there in a different sense from that
@@ -203,7 +203,7 @@ gradually absorbed into her substance, exactly as the Earth gradually
 absorbs into herself the remains of the body. Calm and philosophic souls
 are easily absorbed; but active, passionate, erotic natures with great
 difficulty; they wander about in midspace, divested of the νοῦς,
-becoming *Tityi* and *Typhones;* <span id="fr_205"></span>[\*](#fn_203)
+becoming *Tityi* and *Typhones;* <span id="fr_205"></span>[\*](#fn_203.md)
 throwing confusion
 
 <span id="page_348">p. 348</span>
@@ -254,7 +254,7 @@ religious ideas of the latter, more closely than of any other system.
 
 ### Footnotes
 
-<span id="fn_201"></span>[343:\*](gar49.htm#fr_203) This was merely an
+<span id="fn_201"></span>[343:\*](gar49.htm#fr_203.md) This was merely an
 adaptation to the new notions of the sect of the old Egyptian ritual
 always placed, entire or in part, within the mummy-case, and entitled,
 "The Book of the Gates, concerning the manifestation unto the Light."
@@ -273,12 +273,12 @@ toe-rings, and necklace. The Lord of Hades gives her a cup of the Water
 of Life, and she returns, receiving back her jewels in the same order in
 which she gave them up.
 
-<span id="fn_202"></span>[344:\*](gar49.htm#fr_204) The Ritual above
+<span id="fn_202"></span>[344:\*](gar49.htm#fr_204.md) The Ritual above
 cited contains regularly *eight* invocations addressed to Thoth,
 recommending the soul of the defunct to the guardians of the sane number
 of regions over whom he is the president.
 
-<span id="fn_203"></span>[347:\*](gar49.htm#fr_205) Names of the chief
+<span id="fn_203"></span>[347:\*](gar49.htm#fr_205.md) Names of the chief
 giants who warred against Jupiter. The legend clearly comes from the
 same source as that in the Book of Enoch: "And the Giants who were born
 of the spirit and of flesh shall be called <span id="page_348">p.
@@ -294,4 +294,4 @@ contend, and bruise upon earth."--(xv. 8.)
 
 ------------------------------------------------------------------------
 
-[Next: The Cause of Sin](gar50)
+[Next: The Cause of Sin](gar50.md)

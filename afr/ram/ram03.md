@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram02)  [Next](ram04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram02)  [Next](ram04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -45,9 +45,9 @@ royal title with priestly functions was common. At Rome the tradition
 was, that the sacrificial king had been appointed to perform sacred
 functions formerly belonging to the ruling monarch, after the overthrow
 of the ancient dynasty and the expulsion of the kings. <span
-id="fr_0"></span>[\*](#fn_0) In republican Athens the second magistrate
+id="fr_0"></span>[\*](#fn_0.md) In republican Athens the second magistrate
 of the city was called King, and his wife Queen. The functions of both
-were religious. <span id="fr_1"></span>[†](#fn_1) Other examples will
+were religious. <span id="fr_1"></span>[†](#fn_1.md) Other examples will
 occur to readers familiar with the classics. Such traditions and usages
 leave no doubt but in very early times kings were not only civil rulers,
 but also the priests who offered the sacrifices and stood between the
@@ -84,7 +84,7 @@ sympathetic magic events which can only happen in the ordinary course of
 nature, but which are supposed to be produced by will-power through some
 object. One of the leading principles of this sympathetic magic is, that
 any effect may be produced by the imitation of it. <span
-id="fr_2"></span>[\*](#fn_2) Perhaps the most familiar illustration of
+id="fr_2"></span>[\*](#fn_2.md) Perhaps the most familiar illustration of
 this is the Highland "Corp Creadh." This consisted, or consists—for it
 is said the practice is not extinct—of a clay image of the person to be
 bewitched being made and placed on a door, taken off the hinges, before
@@ -136,7 +136,7 @@ will be successful; if not, it will be entered upon in a heartless
 manner, as all will expect failure. In Niass when a wild pig falls into
 a snare it is taken out and rubbed with nine fallen leaves, the belief
 being that this will cause nine other pigs to fall into the pit. <span
-id="fr_3"></span>[\*](#fn_3) A South Sea Islander when unsuccessful with
+id="fr_3"></span>[\*](#fn_3.md) A South Sea Islander when unsuccessful with
 his nets walks about as if ignorant of their existence, till caught
 himself, after which he goes home assured of success on the morrow. As a
 boy, when fishing about Loch Aline, we often, when luck went against us,
@@ -218,12 +218,12 @@ This same belief in regard to the power of man to influence the wind by
 means of magic is found in all parts of the world. The Yakut takes a
 stone, found inside an animal or fish, and ties it to a stick with a
 horsehair. This he waves again and again round his head, and a cool
-breeze springs up. <span id="fr_4"></span>[\*](#fn_4) The New Briton
+breeze springs up. <span id="fr_4"></span>[\*](#fn_4.md) The New Briton
 throws burned lime into the air when he wishes to make wind. Highland
 witches sold wind to credulous skippers in knots: one knot opened and a
 gentle wind blew; a second brought a snoring breeze; the third a full
 gale. A simple method of raising wind to retard the progress of a vessel
-was to draw the cat through the fire. <span id="fr_5"></span>[†](#fn_5)
+was to draw the cat through the fire. <span id="fr_5"></span>[†](#fn_5.md)
 How it came to be supposed that the suffering of poor pussy had an
 effect on the wind the author quoted failed to ascertain. It is well
 known that a cat scratching table or chair legs is raising wind, and I
@@ -245,7 +245,7 @@ Hottentots cause the wind to drop by hanging a fat skin on a pole. The
 Kaffir raises it by exposing his posterior to the clouds. An Austrian
 during a storm will open his window and throw out a handful of meal,
 saying: "There, that's for you: stop." <span
-id="fr_6"></span>[\*](#fn_6) Wind-bound fishermen in the Western Isles
+id="fr_6"></span>[\*](#fn_6.md) Wind-bound fishermen in the Western Isles
 of Scotland believe that walking sunwise round the Chapel of Fladda, and
 pouring water on a particular stone, will bring a favourable breeze. If
 a mariner in the same region ties knots on a cow-hair tether, he may
@@ -277,7 +277,7 @@ trees with a vessel full of water. While seated on their airy perch, two
 firebrands were struck together to imitate lightning, and a drum beat as
 a substitute for thunder, during which the rain-maker sprinkled water
 from his vessel on all sides to produce a miniature shower in sympathy
-with which rain fell copiously. <span id="fr_7"></span>[\*](#fn_7) This
+with which rain fell copiously. <span id="fr_7"></span>[\*](#fn_7.md) This
 system of producing rain by imitation and sympathy is common in parts of
 South and South-east Africa, as among Hlubies and Swazies. The
 rain-doctor goes to a river, from which, with much mystic ceremony, he
@@ -287,7 +287,7 @@ clouds and causes rain to fall in sympathy. In time of severe drought
 the Zulus look out for a "heaven bird," which is ordinarily sacred, kill
 it, and throw it into a pool of water.. Then the skies melt in pity for
 the bird and rain down tears of sorrow upon the earth. <span
-id="fr_8"></span>[†](#fn_8) The
+id="fr_8"></span>[†](#fn_8.md) The
 
 <span id="page_11">p. 11</span>
 
@@ -298,7 +298,7 @@ body recently buried, and after they have removed and cleaned the bones
 they rejoint them and place the skeleton over taro leaves; water is then
 poured over it, which the spirit of the man who owned the skeleton takes
 up and showers down in plenteous rain. <span
-id="fr_9"></span>[\*](#fn_9) The same motive comes out clearly in the
+id="fr_9"></span>[\*](#fn_9.md) The same motive comes out clearly in the
 mode of making rain common among peoples of South-eastern Europe. "In
 times of drought, the Servians strip a girl, clothe her in grass, herbs,
 and flowers, even her face being hidden with them. Thus disguised, she
@@ -306,7 +306,7 @@ is called the Dodola, and goes through the village with a troop of
 girls. They stop before every house; the Dodola dances, while the other
 girls form a ring round her singing one of the Dodola songs, and the
 housewife pours a pail of water over her." <span
-id="fr_10"></span>[†](#fn_10) Similar customs are observed by Greeks,
+id="fr_10"></span>[†](#fn_10.md) Similar customs are observed by Greeks,
 Bulgarians and others.
 
 These illustrations, which might be multiplied to any extent, show us
@@ -353,23 +353,23 @@ pit set apart for the purpose. Whatever he handles is sacred and may not
 again be used for any purpose. A guest of even the highest rank and
 honour may not light his pipe with an ember from the fire that burns
 before him. To do so would be punished by instant death. <span
-id="fr_11"></span>[\*](#fn_11) What the results of shaking hands with
+id="fr_11"></span>[\*](#fn_11.md) What the results of shaking hands with
 his majesty would be it is hard to conjecture; probably a tremor
 reaching to the outermost circle of the universe.
 
 When the Purra, or high priest of the Bulloms, West Africa, goes to a
 place, all women must, on pain of instant death, keep indoors or hide in
-the depth of the jungle; <span id="fr_12"></span>[†](#fn_12) they must
+the depth of the jungle; <span id="fr_12"></span>[†](#fn_12.md) they must
 keep up a continual clapping of hands while he is pleased to remain, and
 should any of them be known to have a peep at the Purra, even through a
 chink, she would be executed instanter for her presumption in gazing on
 divinity. Jaggas, like many other East African peoples, regard their
-king as divine, <span id="fr_13"></span>[‡](#fn_13) and all his people
+king as divine, <span id="fr_13"></span>[‡](#fn_13.md) and all his people
 do him reverence. Before a visitor can be admitted to his presence, he
 must be sprinkled with medicine by the magician. On all occasions his
 person is guarded with the most jealous care, and whatever touches him
 or comes from his person is sacred and must be treated with the utmost
-reverence; <span id="fr_14"></span>[§](#fn_14) as something differing
+reverence; <span id="fr_14"></span>[§](#fn_14.md) as something differing
 from what was the king's simply, rather as having in itself the elements
 of divinity from its having belonged to one who is himself a man-god.
 
@@ -380,14 +380,14 @@ Engai—that is, the rain-cloud—placed the father of
 the Wakuafi on the snow mountain, Killimanjaro. This first ancestor was
 an incarnation of Engai himself, and was exalted above all men. His
 children were demi-gods and the ancestors of the present ruling
-chiefs. <span id="fr_15"></span>[\*](#fn_15) From him, or his
+chiefs. <span id="fr_15"></span>[\*](#fn_15.md) From him, or his
 incarnations, radiates everything, even the bodies of his subjects, for
 he is their god. This same form of king adoration and homage exists in
 Shoa, Abyssinia. The Wadoe address their king as "Lion of Heaven." <span
-id="fr_16"></span>[†](#fn_16) When his majesty coughs or sneezes, all
+id="fr_16"></span>[†](#fn_16.md) When his majesty coughs or sneezes, all
 within hearing say "Muisa," which means, Lion or Lord of Heaven. The
 Gingane, or high priest of certain Congo tribes, is divine. <span
-id="fr_17"></span>[‡](#fn_17) His person is sacred, and .he is always
+id="fr_17"></span>[‡](#fn_17.md) His person is sacred, and .he is always
 accompanied by a novice who, in the event of his death, will receive or
 catch the divine element or soul which belongs to him in virtue of his
 office, and which, but for the novice's presence, might be lost or
@@ -401,7 +401,7 @@ of Dahomey and Ashantee are veritable gods, without any gilding to
 conceal their glory; as is also the Grand Lama of Thibet. Men pronounce
 the King of Dahomey's name with bated breath, fearing the very walls may
 whisper of the great name being used profanely. <span
-id="fr_18"></span>[§](#fn_18) Among South African tribes there is a
+id="fr_18"></span>[§](#fn_18.md) Among South African tribes there is a
 marked aversion to pronouncing the chiefs name, and it is never
 
 <span id="page_15">p. 15</span>
@@ -410,7 +410,7 @@ done when it can by any possibility be avoided by them.
 
 Makusa, the spirit *par excellence* of the Wagogo and Waganda, leaves
 his quarters in Lake Nyanza at intervals, and takes up his abode in a
-man or woman, who becomes Lubare, <span id="fr_19"></span>[\*](#fn_19)
+man or woman, who becomes Lubare, <span id="fr_19"></span>[\*](#fn_19.md)
 or, in other words, a god. The Lubare is supreme, not only in matters of
 faith and sacrifice, but in questions of war and state policy. When
 councillors were questioned by Mackay regarding the nature of the
@@ -441,7 +441,7 @@ being the agent through whom the executive is carried on by the Lubare.
 
 The chief Lakonga, at the south end of the lake, calls himself a god,
 and is treated as such by his people <span
-id="fr_20"></span>[\*](#fn_20) who prostrate themselves before hint as
+id="fr_20"></span>[\*](#fn_20.md) who prostrate themselves before hint as
 they approach, anal perform such acts of worship as are rendered to true
 divinity. At times, however, there are rival claimants as being
 descended from the same god ancestor long before, which is a little
@@ -451,7 +451,7 @@ acknowledged, though odd sceptics may exist, especially among those who
 supported the claims of rivals.
 
 In Laongo the king is worshipped as a god, and is called Sambee and
-Pango, words which mean god. <span id="fr_21"></span>[†](#fn_21) When
+Pango, words which mean god. <span id="fr_21"></span>[†](#fn_21.md) When
 rain falls and crops are plentiful they load him with gifts and honours.
 If the seasons are bad, so that crops fail and fish cannot be caught, Le
 is accused of having a bad heart and is deposed; but this belongs rather
@@ -480,7 +480,7 @@ kings in republican Greece, nor does the multiplicity of gods in
 classical times present the same difficulties which might at first sight
 be supposed, for among primitive men we find kings who are regarded as
 divine presiding over particular departments of nature; departmental
-kings, as Mr. Frazer calls them. <span id="fr_22"></span>[\*](#fn_22) At
+kings, as Mr. Frazer calls them. <span id="fr_22"></span>[\*](#fn_22.md) At
 the mouth of the Congo resides Namvula Ruma as "king of the rain and
 storm." His functions do not extend beyond his own department, but there
 he reigns supreme, and is regarded as divine by mariners and
@@ -528,59 +528,59 @@ of the universe, were its supernatural agents or divinities.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:\*](ram03.htm#fr_0) Livy.
+<span id="fn_0"></span>[2:\*](ram03.htm#fr_0.md) Livy.
 
-<span id="fn_1"></span>[2:†](ram03.htm#fr_1) J. G. Frazer, *Golden
+<span id="fn_1"></span>[2:†](ram03.htm#fr_1.md) J. G. Frazer, *Golden
 Bough*.
 
-<span id="fn_2"></span>[3:\*](ram03.htm#fr_2) J. G. Frazer, *Golden
+<span id="fn_2"></span>[3:\*](ram03.htm#fr_2.md) J. G. Frazer, *Golden
 Bough*.
 
-<span id="fn_3"></span>[5:\*](ram03.htm#fr_3) J. G. Frazer, *Golden
+<span id="fn_3"></span>[5:\*](ram03.htm#fr_3.md) J. G. Frazer, *Golden
 Bough*.
 
-<span id="fn_4"></span>[8:\*](ram03.htm#fr_4) sc J. G. Frazer, *Golden
+<span id="fn_4"></span>[8:\*](ram03.htm#fr_4.md) sc J. G. Frazer, *Golden
 Bough*.
 
-<span id="fn_5"></span>[8:†](ram03.htm#fr_5) A. Polson, *Gaelic Society
+<span id="fn_5"></span>[8:†](ram03.htm#fr_5.md) A. Polson, *Gaelic Society
 Memoirs*.
 
-<span id="fn_6"></span>[9:\*](ram03.htm#fr_6) J. G. Frazer, *Golden
+<span id="fn_6"></span>[9:\*](ram03.htm#fr_6.md) J. G. Frazer, *Golden
 Bough*.
 
-<span id="fn_7"></span>[10:\*](ram03.htm#fr_7) W. Mannhardt.
+<span id="fn_7"></span>[10:\*](ram03.htm#fr_7.md) W. Mannhardt.
 
-<span id="fn_8"></span>[10:†](ram03.htm#fr_8) Bishop Callaway.
+<span id="fn_8"></span>[10:†](ram03.htm#fr_8.md) Bishop Callaway.
 
-<span id="fn_9"></span>[11:\*](ram03.htm#fr_9) Turner, *Samoa*.
+<span id="fn_9"></span>[11:\*](ram03.htm#fr_9.md) Turner, *Samoa*.
 
-<span id="fn_10"></span>[11:†](ram03.htm#fr_10) J. G. Frazer.
+<span id="fn_10"></span>[11:†](ram03.htm#fr_10.md) J. G. Frazer.
 
-<span id="fn_11"></span>[13:\*](ram03.htm#fr_11) Schweinfurth.
+<span id="fn_11"></span>[13:\*](ram03.htm#fr_11.md) Schweinfurth.
 
-<span id="fn_12"></span>[13:†](ram03.htm#fr_12) Winterbotham.
+<span id="fn_12"></span>[13:†](ram03.htm#fr_12.md) Winterbotham.
 
-<span id="fn_13"></span>[13:‡](ram03.htm#fr_13) Krapf.
+<span id="fn_13"></span>[13:‡](ram03.htm#fr_13.md) Krapf.
 
-<span id="fn_14"></span>[13:§](ram03.htm#fr_14) *Ibid*.
+<span id="fn_14"></span>[13:§](ram03.htm#fr_14.md) *Ibid*.
 
-<span id="fn_15"></span>[14:\*](ram03.htm#fr_15) Krapf.
+<span id="fn_15"></span>[14:\*](ram03.htm#fr_15.md) Krapf.
 
-<span id="fn_16"></span>[14:†](ram03.htm#fr_16) *Ibid*.
+<span id="fn_16"></span>[14:†](ram03.htm#fr_16.md) *Ibid*.
 
-<span id="fn_17"></span>[14:‡](ram03.htm#fr_17) Tucker.
+<span id="fn_17"></span>[14:‡](ram03.htm#fr_17.md) Tucker.
 
-<span id="fn_18"></span>[14:§](ram03.htm#fr_18) Rowley.
+<span id="fn_18"></span>[14:§](ram03.htm#fr_18.md) Rowley.
 
-<span id="fn_19"></span>[15:\*](ram03.htm#fr_19) Mackay of Uganda.
+<span id="fn_19"></span>[15:\*](ram03.htm#fr_19.md) Mackay of Uganda.
 
-<span id="fn_20"></span>[16:\*](ram03.htm#fr_20) Mackay of Uganda.
+<span id="fn_20"></span>[16:\*](ram03.htm#fr_20.md) Mackay of Uganda.
 
-<span id="fn_21"></span>[16:†](ram03.htm#fr_21) J. G. Frazer.
+<span id="fn_21"></span>[16:†](ram03.htm#fr_21.md) J. G. Frazer.
 
-<span id="fn_22"></span>[17:\*](ram03.htm#fr_22) J. G. Frazer, *Golden
+<span id="fn_22"></span>[17:\*](ram03.htm#fr_22.md) J. G. Frazer, *Golden
 Bough*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Guarding Divinity](ram04)
+[Next: Chapter II. Guarding Divinity](ram04.md)

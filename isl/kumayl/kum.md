@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) [Shiite
-Documents](../shi)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) [Shiite
+Documents](../shi.md)  
 
 ------------------------------------------------------------------------
 

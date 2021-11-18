@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb18)  [Next](orfb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb18)  [Next](orfb20.md) 
 
 </div>
 
@@ -214,6 +214,6 @@ crushed him to death.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventures of the Younger Son of the Jackal](orfb20)
+[Next: The Adventures of the Younger Son of the Jackal](orfb20.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl11)  [Next](mhl13) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl11)  [Next](mhl13.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ And such its fruit shall be.
 
 ------------------------------------------------------------------------
 
-[Next: Poems of Judah Halevi](mhl13)
+[Next: Poems of Judah Halevi](mhl13.md)

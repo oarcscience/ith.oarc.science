@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws36)  [Next](cws38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws36)  [Next](cws38.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XXXIII
 
-#### CONCERNING THE ACTUAL JESUS <span id="fr_139"></span>[1](#fn_139)
+#### CONCERNING THE ACTUAL JESUS <span id="fr_139"></span>[1](#fn_139.md)
 
 I AM shown the Descent from the Cross. I see Jesus carried by Joseph of
 Arimathea to his house. The house communicates with a sepulchre; and
@@ -89,7 +89,7 @@ Jesus, as a "Son of God," was held to be endowed.
 I am shown that there is but little of real value in the Scriptures.
 They are a mass of clay, comparatively modern, with here and there a bit
 of gold. The angel whom I saw before, and who told us to burn the
-Bible, <span id="fr_140"></span>[1](#fn_140) now puts it in the fire,
+Bible, <span id="fr_140"></span>[1](#fn_140.md) now puts it in the fire,
 and there comes out a few pages only of matter which is original and
 divine. All the rest is interpolation or alteration. This is the case
 with both Old Testament and New, Isaiah and the prophets. Isaiah is a
@@ -109,7 +109,7 @@ not historical, and in no wise depends upon past events. For, faith and
 redemption do not depend upon what any man did, but on what God has
 revealed. Jesus was not the historical name of the initiate and adept
 whose story is related. It is the name given him in initiation. <span
-id="fr_141"></span>[2](#fn_141) His birth, the manner of it, his being
+id="fr_141"></span>[2](#fn_141.md) His birth, the manner of it, his being
 lost and found by his parents in the temple, his lying three days in the
 tomb,--all are parabolic, as also is the story of the Ascension. The
 Scriptures are addressed to the soul, and make no appeal to the outer
@@ -144,16 +144,16 @@ is in humanity, while the world below is wrapped in darkness.
 
 ### Footnotes
 
-<span id="fn_139"></span>[84:1](cws37.htm#fr_139) London, March 22,
+<span id="fn_139"></span>[84:1](cws37.htm#fr_139.md) London, March 22,
 1881. Spoken in trance. See also No. XXIV. Referred to in *Life of Anna
 Kingsford*, vol. ii, p. 4.
 
-<span id="fn_140"></span>[86:1](cws37.htm#fr_140) In a vision received
+<span id="fn_140"></span>[86:1](cws37.htm#fr_140.md) In a vision received
 some time previously.    E. M.
 
-<span id="fn_141"></span>[86:2](cws37.htm#fr_141) See Part II, No. XI,
+<span id="fn_141"></span>[86:2](cws37.htm#fr_141.md) See Part II, No. XI,
 Hymn to Phoibos, v. 9.
 
 ------------------------------------------------------------------------
 
-[Next: No. XXXIV: Concerning The Previous Lives Of Jesus](cws38)
+[Next: No. XXXIV: Concerning The Previous Lives Of Jesus](cws38.md)

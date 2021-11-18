@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat33)  [Next](flat35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat33)  [Next](flat35.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ We seek the Old Head of Kinsale."
 
 ------------------------------------------------------------------------
 
-[Next: The Headless Horseman](flat35)
+[Next: The Headless Horseman](flat35.md)

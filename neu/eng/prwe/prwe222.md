@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe221)  [Next](prwe223) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe221)  [Next](prwe223.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ year In."
 
 ------------------------------------------------------------------------
 
-[Next: May-Day](prwe223)
+[Next: May-Day](prwe223.md)

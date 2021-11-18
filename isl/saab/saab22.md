@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab21)  [Next](saab23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab21)  [Next](saab23.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -73,8 +73,8 @@ Hurl’d him from the Throne of Glory.
 </div>
 
 <span id="img_03600"></span> <span align="CENTER"> [![](tn/03600.jpg)  
-Click to enlarge](img/03600.jpg)</span>
+Click to enlarge](img/03600.jpg.md)</span>
 
 ------------------------------------------------------------------------
 
-[Next: XXI](saab23)
+[Next: XXI](saab23.md)

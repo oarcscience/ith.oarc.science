@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww17)  [Next](lww19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww17)  [Next](lww19.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,4 +153,4 @@ door.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX--An Enemy in the Dark](lww19)
+[Next: Chapter XIX--An Enemy in the Dark](lww19.md)

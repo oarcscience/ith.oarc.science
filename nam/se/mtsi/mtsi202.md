@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi201)  [Next](mtsi203) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi201)  [Next](mtsi203.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ Cluster-stars.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Stars-In-A-Row](mtsi203)
+[Next: 3. The Stars-In-A-Row](mtsi203.md)

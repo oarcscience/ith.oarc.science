@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow03)  [Next](dow05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow03)  [Next](dow05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -55,7 +55,7 @@ the Hail, and *Nuk'-kah* the Rain were FIRST PEOPLE.
 
 The preëxistence of Coyote-man, the Creator, a divinity of unknown
 origin and fabulous 'magic,' whose influence was always for good. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 The existence (in some cases preëxistence) of other divinities, notably
 *Wek'-wek* the Falcon, grandson and companion of Coyote-man, *Mol'-luk*
@@ -73,7 +73,7 @@ the world and continued for a very long period.
 The existence at a great distance of a primordial heat and light giving
 substance indifferently called fire, sun, or morning--for in the early
 myths these were considered identical or at least
-interconvertible. <span id="fr_1"></span>[2](#fn_1)
+interconvertible. <span id="fr_1"></span>[2](#fn_1.md)
 
 The presence of a keeper or guardian of the fire, it being
 
@@ -117,13 +117,13 @@ Meadowlark-man, who would not permit immortality.
 
 The creation of real people, the ancestors of the present Indians, by
 the transformation of feathers, sticks, or clay. <span
-id="fr_2"></span>[3](#fn_2) Of these beliefs, origin from feathers is
+id="fr_2"></span>[3](#fn_2.md) Of these beliefs, origin from feathers is
 the most distinctive
 
 <span id="page_20">p. 20</span>
 
 and widespread, reaching from Fresno Creek north to Clear Lake. <span
-id="fr_3"></span>[4](#fn_3)
+id="fr_3"></span>[4](#fn_3.md)
 
 The completion and perfection of newly created man by the gift of five
 fingers from *Pe-tā'-le* the Lizard-man, who, having five himself,
@@ -229,7 +229,7 @@ the Hail, who were sent to overtake and capture a fleeing enemy and who
 to this day are noted for the velocity and force of their movements.
 Such cases might be multiplied almost indefinitely.
 
-### DISTRIBUTION OF THE MEWAN INDIANS <span id="fr_4"></span>[5](#fn_4)
+### DISTRIBUTION OF THE MEWAN INDIANS <span id="fr_4"></span>[5](#fn_4.md)
 
 The territory of the Mewan tribes comprised the lower slopes and
 foothills of the Sierra Nevada between the Cosumnes River on the north
@@ -238,7 +238,7 @@ foothills to Suisun Bay, and also two smaller disconnected areas north
 of San Francisco Bay--one in the interior, reaching from Pope Valley to
 the south end of Clear Lake, the other on the coast, from Golden Gate
 northerly nearly to the mouth of Russian River. (See [accompanying
-map](#img_map).)
+map](#img_map)..md)
 
 At present the vanishing remnants of the Mewuk tribes are scattered over
 their old territory on the west flank of the Sierra; the handful that
@@ -259,7 +259,7 @@ driven
 
 <span id="img_map"></span> <span align="CENTER"> [![Distribution of the
 Mewan Stock](tn/map.jpg)  
-Click to enlarge](img/map.jpg)  
+Click to enlarge](img/map.jpg.md)  
 Distribution of the Mewan Stock  
 </span>
 
@@ -271,7 +271,7 @@ away by the whites; and during this long period of isolation they have
 evolved different languages for even among tribes of the same linguistic
 group the differences in language are often so great that members of one
 tribe cannot understand the speech of another. <span
-id="fr_5"></span>[6](#fn_5)
+id="fr_5"></span>[6](#fn_5.md)
 
 As the languages of the tribes composing the Mewan stock show varying
 degrees of kinship, so their myths exhibit varying relationships. Those
@@ -282,22 +282,22 @@ Francisco Bay region and northward the most divergent.
 
 ### Footnotes
 
-<span id="fn_0"></span>[18:1](dow04.htm#fr_0) Partial exceptions,
+<span id="fn_0"></span>[18:1](dow04.htm#fr_0.md) Partial exceptions,
 doubtless a result of contact with neighboring stocks, occur in two
 tribes: the *Wi'-pa* say that Coyote-man boasted beyond his powers; and
 the *Northern Mewuk* say that he was selfish.
 
-<span id="fn_1"></span>[18:2](dow04.htm#fr_1) A partial exception is the
+<span id="fn_1"></span>[18:2](dow04.htm#fr_1.md) A partial exception is the
 belief of the Hoo-koo-e-ko of Tomales Bay who say that in the beginning
 the source of light was *He'-koo-las* the Sun-woman, whose body was
 covered with shining abalone shells.
 
-<span id="fn_2"></span>[19:3](dow04.htm#fr_2) A single exception has
+<span id="fn_2"></span>[19:3](dow04.htm#fr_2.md) A single exception has
 been found: The Northern Mewuk account for people by the gradual
 evolution of the offspring of the Cougar-man and his wives, the Grizzly
 Bear-woman and the Raccoon-woman.
 
-<span id="fn_3"></span>[20:4](dow04.htm#fr_3) The widespread belief in
+<span id="fn_3"></span>[20:4](dow04.htm#fr_3.md) The widespread belief in
 the origin of people from feathers accounts for the reverence shown
 feathers by some of the tribes. This feeling sometimes manifests itself
 in a great fear or dread lest the failure to show proper respect for
@@ -307,12 +307,12 @@ followed by illness or disaster. This awe of feathers, I have observed
 among the *Hoo'-koo-e'-ko* of Tomales Bay, the *Tu'-le-yo'-me* of Lake
 County, and the Northern *Mewuk* of Calaveras County.
 
-<span id="fn_4"></span>[24:5](dow04.htm#fr_4) For a detailed account of
+<span id="fn_4"></span>[24:5](dow04.htm#fr_4.md) For a detailed account of
 the distribution of these tribes see my article entitled, "Distribution
 and Classification of the Mewan stock of California," *American
 Anthropologist*, vol. ix, 338-357.
 
-<span id="fn_5"></span>[27:6](dow04.htm#fr_5) Hence in the accompanying
+<span id="fn_5"></span>[27:6](dow04.htm#fr_5.md) Hence in the accompanying
 myths the name of the same personage or animal differs according to the
 tribe speaking. Thus Coyote-man may be *Ah-hā'-le*, *Os-sā'-le*,
 *O-lā'-choo*, *O-lā'-nah*, *O-let'-te*, *Ol'-le*, or *O'-ye*. Similarly,
@@ -323,4 +323,4 @@ Indian names of mammals and birds have a similar origin.
 
 ------------------------------------------------------------------------
 
-[Next: Note](dow05)
+[Next: Note](dow05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](bat08)  [Next](bat10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](bat08)  [Next](bat10.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ see, in the middle register, the dead Sun-god AFU-RA.
  
 
 <span id="img_11600"></span> [![](tn/generic.jpg)  
-Click to view](img/11600.jpg)  
+Click to view](img/11600.jpg.md)  
 The Boat of Af, the dead Sun-god, in the Sixth Hour.
 
  
@@ -41,7 +41,7 @@ text above the boat reads:
  
 
 <span id="img_11700"></span> [![](tn/generic.jpg)  
-Click to view](img/11700.jpg)  
+Click to view](img/11700.jpg.md)  
 (*Left*) The goddess Ament-semu-set. (*Right*) Thoth of the Tuat.
 
  
@@ -61,7 +61,7 @@ passeth them by."
  
 
 <span id="img_11800"></span> [![](tn/generic.jpg)  
-Click to view](img/11800.jpg)  
+Click to view](img/11800.jpg.md)  
 The Four Kings of the South.
 
  
@@ -78,15 +78,15 @@ by the title bat, and the fourth four are bearded, and are called
  
 
 <span id="img_11900"></span> [![](tn/generic.jpg)  
-Click to view](img/11900.jpg)  
+Click to view](img/11900.jpg.md)  
 The Four Heteptiu gods.
 
 <span id="img_11901"></span> [![](tn/generic.jpg)  
-Click to view](img/11901.jpg)  
+Click to view](img/11901.jpg.md)  
 The Four Kings of the North.
 
 <span id="img_11902"></span> [![](tn/generic.jpg)  
-Click to view](img/11902.jpg)  
+Click to view](img/11902.jpg.md)  
 The Four "Spirits."
 
  
@@ -103,7 +103,7 @@ reads:--
  
 
 <span id="img_12000"></span> [![](tn/generic.jpg)  
-Click to view](img/12000.jpg)  
+Click to view](img/12000.jpg.md)  
 The Serpent Ash-hrau.
 
  
@@ -169,7 +169,7 @@ from his bandages, and on his head he has symbols of meat and drink.
  
 
 <span id="img_12400"></span> [![](tn/generic.jpg)  
-Click to view](img/12400.jpg)  
+Click to view](img/12400.jpg.md)  
 (*Left*) Asar-am-ab-neteru. (*Center*) Asth-mehit. (Left)
 Hetep-khenti-Tuat.
 
@@ -193,7 +193,7 @@ from his bandages.
  
 
 <span id="img_12500"></span> [![](tn/generic.jpg)  
-Click to view](img/12500.jpg)  
+Click to view](img/12500.jpg.md)  
 Henbethem.     Maa
 ab-khenti-ahet-f.     Benti-ar-ahet-f.     Heru-khenti-ahet-f.
 
@@ -232,7 +232,7 @@ of this great god."
  
 
 <span id="img_12701"></span> [![](tn/generic.jpg)  
-Click to view](img/12701.jpg)  
+Click to view](img/12701.jpg.md)  
 (*Left*) Three Sceptres of the White Crown. (*Center*) . . . . . . .
 (*Right*) Thehbith.
 
@@ -253,7 +253,7 @@ the base of each projects a knife. The text which refers to these reads:
  
 
 <span id="img_12800"></span> [![](tn/generic.jpg)  
-Click to view](img/12800.jpg)  
+Click to view](img/12800.jpg.md)  
 (*Left*) Three Sceptres of the uraei. (*Right*)Three Sceptres of the Red
 Crown.
 
@@ -282,7 +282,7 @@ throne.
  
 
 <span id="img_12901"></span> [![](tn/generic.jpg)  
-Click to view](img/12901.jpg)  
+Click to view](img/12901.jpg.md)  
 Thath-neteru.     Hetchefu.     Isis-Thaith.     Ka-hemhemet.
 
  
@@ -308,7 +308,7 @@ head; the name of the chamber is HET-TEMTET-RA. The texts read:
  
 
 <span id="img_13000"></span> [![](tn/generic.jpg)  
-Click to view](img/13000.jpg)  
+Click to view](img/13000.jpg.md)  
 (*Left*) Het-temtet-Ra. (*Center*) Het-stau-kher-aha. (*Right*)
 Het-tuau-Ra.
 
@@ -324,7 +324,7 @@ without a throne.
  
 
 <span id="img_13100"></span> [![](tn/generic.jpg)  
-Click to view](img/13100.jpg)  
+Click to view](img/13100.jpg.md)  
 Hem.     Ahi.     \[Em-nu-ur.\]     Henti.
 
  
@@ -348,7 +348,7 @@ Hem.     Ahi.     \[Em-nu-ur.\]     Henti.
  
 
 <span id="img_13200"></span> [![](tn/generic.jpg)  
-Click to view](img/13200.jpg)  
+Click to view](img/13200.jpg.md)  
 Netchti.     Met-hra.     Ankh-hra.     Netch-atef.
 
  
@@ -359,7 +359,7 @@ the first is called ANTHETH,
  
 
 <span id="img_13201"></span> [![](tn/generic.jpg)  
-Click to view](img/13201.jpg)  
+Click to view](img/13201.jpg.md)  
 Sehith.     Hemt.     Henhenith.     Antheth.
 
  
@@ -392,7 +392,7 @@ the shades of the dead
  
 
 <span id="img_13400"></span> [![](tn/generic.jpg)  
-Click to view](img/13400.jpg)  
+Click to view](img/13400.jpg.md)  
 "The Serpent Am-khu and the heads of the Four Children of Horus."
 
  
@@ -426,7 +426,7 @@ him\] in the Tuat."
  
 
 <span id="img_13600"></span> [![](tn/generic.jpg)  
-Click to view](img/13600.jpg)  
+Click to view](img/13600.jpg.md)  
 Urt.     Ann-ret.     Meni.     Kai.
 
  
@@ -439,7 +439,7 @@ mouth and is armed with a huge
  
 
 <span id="img_13601"></span> [![](tn/generic.jpg)  
-Click to view](img/13601.jpg)  
+Click to view](img/13601.jpg.md)  
 The serpents of a company of gods.
 
  
@@ -479,4 +479,4 @@ is to hack asunder the dead, and to cause the spirits to be destroyed."
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. The Seventh Division of the Tuat, Which Is Called
-Thephet-Asar](bat10)
+Thephet-Asar](bat10.md)

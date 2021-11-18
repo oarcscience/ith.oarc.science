@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](cbc32)  [Next](cbc34) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](cbc32)  [Next](cbc34.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,11 +18,11 @@ were called *chilans*. The word means mouthpiece, spokesman or
 interpreter, and it was the *chilans* who delivered to the people the
 responses of the gods. They were held in such high esteem that they were
 carried on men's shoulders when they went abroad. <span
-id="fr_984"></span>[1](#fn_977) In the Tizimin manuscript we find an
-account <span id="fr_985"></span>[2](#fn_978) of the manner in which
+id="fr_984"></span>[1](#fn_977.md) In the Tizimin manuscript we find an
+account <span id="fr_985"></span>[2](#fn_978.md) of the manner in which
 Chilam Balam. gave his prophecy, and it is likely that it was the
 customary method with this class of priests. He retired to a room in his
-home where he lay prostrate <span id="fr_986"></span>[3](#fn_979) in a
+home where he lay prostrate <span id="fr_986"></span>[3](#fn_979.md) in a
 trance while the god or spirit, perched on the ridgepole of the house,
 spoke to the unconscious *chilan* below. Then the other priests
 assembled, probably in the reception hall of the house, and listened to
@@ -66,7 +66,7 @@ symbolized by the name of the deity which
  
 
 <span id="img_fig46"></span> [![](tn/generic.jpg)  
-Click to view](img/fig46.jpg)  
+Click to view](img/fig46.jpg.md)  
 FIG. 46--Typical Itzá sorcerer. Temple of the Warriors, Chichen Itzá.
 Drawing by Ann Axtell Morris.
 
@@ -86,7 +86,7 @@ obviously prejudiced.
 
 Of all the prophecies, those of the katuns possess the greatest
 historical interest. As the Maya commentator himself tells us on page
-[78](cbc08.htm#page_78) of the Chumayel, they are essentially historical
+[78](cbc08.htm#page_78.md) of the Chumayel, they are essentially historical
 in character. This appears to be because whatever has occurred in the
 past during a certain katun is expected to recur
 
@@ -136,11 +136,11 @@ divide this kingdom of Yucathan and each age, with its idol, priest and
 prophecy, rules in one of these thirteen parts of this land, according
 as they have divided it; I do not give the names of the idols, priests
 or parts of the land, so as not to cause trouble, although I have made a
-treatise <span id="fr_987"></span>[1](#fn_980) on these old counts with
+treatise <span id="fr_987"></span>[1](#fn_980.md) on these old counts with
 all their differences and explanations, so that they may be evident to
 all, and the curious may learn them, for if we do not know them, I
 affirm that the Indians can betray us face to face." <span
-id="fr_988"></span>[2](#fn_981)
+id="fr_988"></span>[2](#fn_981.md)
 
 <span id="page_185">p. 185</span>
 
@@ -201,19 +201,19 @@ of their genuine character, in spite of the fact that any mention of the
 name of Quetzalcoatl has been carefully deleted. This personage is,
 however, mentioned in the most obscure and guarded terms in a sixth
 prophecy by Chilam Balam found in the Chumayel, Tizimin and Mani
-manuscripts. <span id="fr_989"></span>[1](#fn_982) A seventh prophecy,
+manuscripts. <span id="fr_989"></span>[1](#fn_982.md) A seventh prophecy,
 also ascribed to Chilam Balam, is thoroughly pagan in character, but
 confines its statements to predicting misfortunes of a general character
 in Katun 13 Ahau. Its language is archaic, and it approaches more
 closely the European idea of poetry than anything else found in Maya
-literature. <span id="fr_990"></span>[2](#fn_983) Only in an eighth
+literature. <span id="fr_990"></span>[2](#fn_983.md) Only in an eighth
 prophecy, ascribed to Ah Xupan Nauat, do we find a statement obviously
 inspired by the event itself. Here the arrival of the white men is
 foretold as occurring in the eighth year of Katun 13 Ahau. If Katun 13
 Ahau began in 1519, this is altogether too accurate a prediction of
 Montejo's landing on the east coast of Yucatan in 1527 to be credited to
 a man said to have lived under Hun Uitzil Chac at Uxmal about the
-Eleventh Century A.D. <span id="fr_991"></span>[3](#fn_984)
+Eleventh Century A.D. <span id="fr_991"></span>[3](#fn_984.md)
 
 The five Maya prophets quoted by Lizana, Cogolludo and Villagutierre
 were Ah Kauil Chel, Napuctun, Natzin Yabun Chan, Nahau Pech and Chilam
@@ -231,14 +231,14 @@ was prefixed to it as a title.
 <span id="page_187">p. 187</span>
 
 Chilam Balam lived at Mani during the reign of Mochan Xiu. <span
-id="fr_992"></span>[1](#fn_985) In Katun 2 Ahau <span
-id="fr_993"></span>[2](#fn_986) he predicted that in the Katun 13 Ahau
+id="fr_992"></span>[1](#fn_985.md) In Katun 2 Ahau <span
+id="fr_993"></span>[2](#fn_986.md) he predicted that in the Katun 13 Ahau
 following, bearded men would come from the east and introduce a new
 religion. His prophecy was somewhat more definite than those of his
 predecessors, except for the suspicious case already mentioned. This can
 be accounted for by rumors of the arrival of the Spaniards in the West
 Indies, for we know that fishing canoes were occasionally driven across
-to Yucatan by storms. <span id="fr_994"></span>[3](#fn_987) What Chilam
+to Yucatan by storms. <span id="fr_994"></span>[3](#fn_987.md) What Chilam
 Balam had in mind was the return of Quetzalcoatl and his white-robed
 priests, but after the Spaniards landed in Yucatan in Katun 13 Ahau
 according to schedule, he never ceased to be regarded as the most famous
@@ -251,7 +251,7 @@ three provinces than in any other part of Yucatan.
 
 The following table will be useful to the student who wishes to make a
 comparison of the various versions of the prophecies found in the Books
-of Chilam Balam. <span id="fr_995"></span>[4](#fn_988)
+of Chilam Balam. <span id="fr_995"></span>[4](#fn_988.md)
 
 <table data-border="" data-cellspacing="1" data-cellpadding="9" width="790">
 <colgroup>
@@ -324,27 +324,27 @@ of Chilam Balam. <span id="fr_995"></span>[4](#fn_988)
 
 ### Footnotes
 
-<span id="fn_977"></span>[182:1](cbc33.htm#fr_984) Landa 1928, p. 192.
+<span id="fn_977"></span>[182:1](cbc33.htm#fr_984.md) Landa 1928, p. 192.
 The content of their prophecies indicates that they continued to carry
 on the Mexican traditions of the Itzá.
 
-<span id="fn_978"></span>[182:2](cbc33.htm#fr_985) Chilam Balam of
+<span id="fn_978"></span>[182:2](cbc33.htm#fr_985.md) Chilam Balam of
 Tizimin, pp. 13, 14.
 
-<span id="fn_979"></span>[182:3](cbc33.htm#fr_986) This is a Maya pun;
+<span id="fn_979"></span>[182:3](cbc33.htm#fr_986.md) This is a Maya pun;
 *chil-cabal* means stretched out prostrate on the ground.
 
-<span id="fn_980"></span>[184:1](cbc33.htm#fr_987) Entitled "Explicación
+<span id="fn_980"></span>[184:1](cbc33.htm#fr_987.md) Entitled "Explicación
 de varios vaticinios de los antiguos Indios de Yucatan." MS. Listed in
 Eguiara's Biblioteca Mexicana. This interesting work by Avendaño has
 disappeared.
 
-<span id="fn_981"></span>[184:2](cbc33.htm#fr_988) Means 1917, p. 141.
+<span id="fn_981"></span>[184:2](cbc33.htm#fr_988.md) Means 1917, p. 141.
 
-<span id="fn_982"></span>[186:1](cbc33.htm#fr_989) Chumayel p. 64;
+<span id="fn_982"></span>[186:1](cbc33.htm#fr_989.md) Chumayel p. 64;
 Tizimin p. 14; Mani p. 109 of B.L.C. No. 43.
 
-<span id="fn_983"></span>[186:2](cbc33.htm#fr_990) Tizimin p. 19. This
+<span id="fn_983"></span>[186:2](cbc33.htm#fr_990.md) Tizimin p. 19. This
 is the prophecy translated in part by Brinton (1882, p. 126) as follows:
 
 "Eat, eat, thou hast bread;  
@@ -362,24 +362,24 @@ On that day, three generations hang there,
 On that day, the battle flag is raised,  
 And they are scattered afar in the forests."
 
-<span id="fn_984"></span>[186:3](cbc33.htm#fr_991) Mani apud B.L.C. No.
+<span id="fn_984"></span>[186:3](cbc33.htm#fr_991.md) Mani apud B.L.C. No.
 43, p. 116. The prophet is identified in Tizimin, p. 13.
 
-<span id="fn_985"></span>[187:1](cbc33.htm#fr_992) Relaciones de
+<span id="fn_985"></span>[187:1](cbc33.htm#fr_992.md) Relaciones de
 Yucatan, 1, p. 45.
 
-<span id="fn_986"></span>[187:2](cbc33.htm#fr_993) Chilam Balam of
+<span id="fn_986"></span>[187:2](cbc33.htm#fr_993.md) Chilam Balam of
 Tizimin, page 36. Katun 2 Ahau- covered approximately the first two
 decades of the Sixteenth Century.
 
-<span id="fn_987"></span>[187:3](cbc33.htm#fr_994) Herrera 1725, 11, p.
+<span id="fn_987"></span>[187:3](cbc33.htm#fr_994.md) Herrera 1725, 11, p.
 121. Dec. 2, Book 4, Chap. 4.
 
-<span id="fn_988"></span>[187:4](cbc33.htm#fr_995) The prognostics for
+<span id="fn_988"></span>[187:4](cbc33.htm#fr_995.md) The prognostics for
 the days are not really prophecies in the same sense as the above and
 are not listed in this table.
 
 ------------------------------------------------------------------------
 
 [Next: Appendix E: Traditions of Caste and Chieftainship Among the
-Maya](cbc34)
+Maya](cbc34.md)

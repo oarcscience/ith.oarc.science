@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](cab01)  [Next](cab03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](cab01)  [Next](cab03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cabala*, by Bernhard Pick, \[1913\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ divinity of the vowel-points.
 John Allen (died 1839) in his *Modern Judaism*, London, 1816, (2d. ed.
 1830) also gives an account of the Cabala, in which he premises the
 antiquity of the Zohar, which he makes the primary source of the
-[primitive](errata.htm#0) Cabala. Passing over Dean Milman's (died 1868)
+[primitive](errata.htm#0) Cabala. Passing over Dean Milman's (died 1868.md)
 *History of the Jews*, London, 1829, (often reprinted), in which we
 naturally also find references to the Cabala, we mention J. W. Etheridge
 (died 1866), author of *Jerusalem and Tiberias; Sora and Cordova, a* 
@@ -127,7 +127,7 @@ parts, Leipsic, 1852; and his *Auswahl kabbalistischer Mystik*, part I,
 (in Ben Chananja, *Monatsschrift für jüdische Theologie*, Vols. I-IV,
 Szegedin, 1858-1861); Jost's *Geschichte des Judenthums und seiner
 Sekten*, Vol. III, pp. 66-81, Leipsic, 1859; more especially of Graetz's
-*Geschichte der Juden*, <span id="fr_0"></span>[1](#fn_0) Vol. VII, pp.
+*Geschichte der Juden*, <span id="fr_0"></span>[1](#fn_0.md) Vol. VII, pp.
 73-87, 442459; 487-507, Leipsic, 1863, paved the way for Christian D.
 Ginsburg's (now very scarce) essay
 
@@ -148,11 +148,11 @@ the Zoharic wisdom and unwisdom.
 
 ### Footnotes
 
-<span id="fn_0"></span>[7:1](cab02.htm#fr_0) The English translation of
+<span id="fn_0"></span>[7:1](cab02.htm#fr_0.md) The English translation of
 this work, published by the Jewish Publication Society of America, is of
 no service to the student, because the scholarly notes, which are the
 best part of the original, are entirely omitted.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Name and Origin of the Cabala](cab03)
+[Next: Chapter I. Name and Origin of the Cabala](cab03.md)

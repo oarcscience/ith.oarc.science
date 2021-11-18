@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp15)  [Next](twp17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp15)  [Next](twp17.md) 
 
 ------------------------------------------------------------------------
 
@@ -472,4 +472,4 @@ eventual destination of the whole human race.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV](twp17)
+[Next: Chapter XV](twp17.md)

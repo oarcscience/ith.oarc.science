@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa00)  [Next](tsa02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa00)  [Next](tsa02.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,14 +17,14 @@ Heritage
 
 *SANHEDRIN* is the title given to the fourth *tract* in the fourth of
 the six *orders* or *series* which make up the *Mishnah*. <span
-id="fr_0"></span>[1](#fn_0) This *order*, called *nezikin*, "damages"
+id="fr_0"></span>[1](#fn_0.md) This *order*, called *nezikin*, "damages"
 (or, in the *Tosefta*, *yeshu‘oth*, "redemptions"), deals more or less
 directly with the various branches of Jewish jurisprudence; and
 *Sanhedrin*, as its name implies, treats of the higher legislative
 courts, their constitution, authority, and method of procedure.
 
 The *Mishnah* and *Tosefta*, which are here translated, <span
-id="fr_1"></span>[2](#fn_1) may be regarded as together giving the bulk
+id="fr_1"></span>[2](#fn_1.md) may be regarded as together giving the bulk
 of the traditions on the subject in the form in which they existed at
 the close of the second century A.D. The *Mishnah* gives an ordered,
 comprehensive sketch of the regulations which
@@ -38,7 +38,7 @@ more authoritative and final code. The *Tosefta* must not, however, be
 regarded as a later addition to the existing *Mishnah;* its similarities
 and differences lend themselves rather to a hypothesis which would see
 in the *Tosefta* a supplement to an earlier form of the *Mishnah* than
-is now in our possession. <span id="fr_2"></span>[1](#fn_2)
+is now in our possession. <span id="fr_2"></span>[1](#fn_2.md)
 
 The *Mishnah* opens by passing in review the less serious cases which
 come up for trial or adjudication, such as can be settled, if need be,
@@ -88,7 +88,7 @@ Book of the Law. In the matter of the court's procedure we are granted
 the amplest details, though here it becomes more and more clear that we
 are getting fewer traditions of the older historic Sanhedrin, and more
 of its academic survival at Jabne or Usha. <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 When we come to the section treating of the four capital punishments,
 the *Tosefta's* contributions become scanty: on many points it is
@@ -102,7 +102,7 @@ giving a list of cases when it is permissible for men to take the law
 into their own hands; and a longer one (expanded to a great length in
 *Tosefta*) treating in a freer, more edifying or "haggadic" fashion the
 subject, "Those who have no share in the world to come." <span
-id="fr_4"></span>[2](#fn_4)
+id="fr_4"></span>[2](#fn_4.md)
 
 <span id="page_ix">p. ix</span>
 
@@ -113,7 +113,7 @@ Jewish authorities form a prominent feature of the *Gospels* and *Acts
 of the Apostles*. More particularly the justice and regularity of our
 Lord's trial and condemnation have long been called in question, and a
 voluminous literature has grown round the subject. <span
-id="fr_5"></span>[1](#fn_5) We have the New Testament accounts of the
+id="fr_5"></span>[1](#fn_5.md) We have the New Testament accounts of the
 procedure adopted by the Jews in their examination and condemnation of
 Jesus; and, since we also possess a detailed code, drawn up by the Jews
 themselves, purporting to embody the regulations governing such a trial,
@@ -143,7 +143,7 @@ demand for confession which its doctors expressly forbid; all followed,
 twenty-four hours too soon, by a sentence which described a claim to be
 the Fulfiller of the hopes of Israel as blasphemy--that such a process
 had neither the form nor the fairness of a judicial trial." <span
-id="fr_6"></span>[1](#fn_6)
+id="fr_6"></span>[1](#fn_6.md)
 
 Unfortunately the matter does not lend itself to such a straightforward
 comparative method: the assumptions are too precarious to admit of our
@@ -171,7 +171,7 @@ should be remembered that apart from the details given us in this early
 rabbinical literature our knowledge of the Sanhedrin is singularly thin.
 The external evidence for testing the traditions here set forth, is, for
 all practical purposes, confined to the New Testament and the writings
-of Josephus. <span id="fr_7"></span>[1](#fn_7) Both these sources are,
+of Josephus. <span id="fr_7"></span>[1](#fn_7.md) Both these sources are,
 as written documents, earlier than the rabbinic, but it should not be
 forgotten that the former is available for a period of hardly more than
 thirty years, *circa* 27-60 A.D.; while the latter, though covering a
@@ -180,7 +180,7 @@ detailed nor direct. On the basis of such evidence alone it would be
 unwise to dogmatize about the nature of an institution which by the time
 that the *Tract Sanhedrin* was reduced to writing, had had an existence,
 necessarily far from uniform, for some five hundred years. <span
-id="fr_8"></span>[2](#fn_8)
+id="fr_8"></span>[2](#fn_8.md)
 
 <span id="page_xii">p. xii</span>
 
@@ -214,7 +214,7 @@ relating to it, either direct from tradition or from what they could, by
 their peculiar logical processes, infer from Scripture. The only canon
 of truth which they recognized was, that both current usage and
 tradition should conform, or be explainable <span
-id="fr_9"></span>[1](#fn_9) as conforming, to the Mosaic legislation.
+id="fr_9"></span>[1](#fn_9.md) as conforming, to the Mosaic legislation.
 
 What New Testament students hope for, and consequently tend to expect,
 in such a production as the present tract, is a picture of that highest
@@ -233,7 +233,7 @@ at Jabne or Usha, but whose authority was scarcely
 <span id="page_xiv">p. xiv</span>
 
 more than that with which the piety of their fellow Jews chose to invest
-them. <span id="fr_10"></span>[1](#fn_10) Their influence over the
+them. <span id="fr_10"></span>[1](#fn_10.md) Their influence over the
 religious life of the Jews was admittedly great. They busied themselves
 with the interpretation of the Scriptures and preservation of their
 traditions; and it was through their labours that the *Mishnah*, a
@@ -272,19 +272,19 @@ which, they held, had existed from the time when Moses appointed the
 Seventy Elders, and had since exercised an authority little less than
 supreme. And so it comes about that the tract finds it necessary to
 discuss what were the relations of the Sanhedrin to kings and
-high-priests, <span id="fr_11"></span>[1](#fn_11) what part they can
+high-priests, <span id="fr_11"></span>[1](#fn_11.md) what part they can
 take in the court's deliberations and how far they are subject to its
 rulings. It even insists that the Sanhedrin shall have a veto in matters
 of foreign policy. The whole of the Mosaic legislation involving capital
 punishments, however temporary it may have been or however
-impracticable, <span id="fr_12"></span>[2](#fn_12) is tabulated and
+impracticable, <span id="fr_12"></span>[2](#fn_12.md) is tabulated and
 systematized, and the method of procedure fully discussed. The outcome
 
 <span id="page_xvi">p. xvi</span>
 
 is a penal code which one suspects to be at times nothing more than the
 laborious product of students with more knowledge of the minutiae of
-vocabulary <span id="fr_13"></span>[1](#fn_13) than recognition of
+vocabulary <span id="fr_13"></span>[1](#fn_13.md) than recognition of
 practical needs, or even of prosaic possibility.
 
 The result of all this is, that we are given a body of genuine historic
@@ -369,12 +369,12 @@ Rosadi (Giovanni): Il Processo de Gesu. Florence, 1904.
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:1](tsa01.htm#fr_0) On the general questions
+<span id="fn_0"></span>[v:1](tsa01.htm#fr_0.md) On the general questions
 introductory to the study of Jewish literature, see the (forthcoming)
 volume in this series: *A Short Survey of the Literature of Rabbinical
 Judaism*.
 
-<span id="fn_1"></span>[v:2](tsa01.htm#fr_1) It is hardly necessary to
+<span id="fn_1"></span>[v:2](tsa01.htm#fr_1.md) It is hardly necessary to
 say that the arrangement of alternate paragraphs of *Mishnah* and
 *Tosefta* employed in the present translation is not that found in the
 original texts. The two are quite distinct. It is adopted here in order
@@ -383,7 +383,7 @@ which exists between the two works. The sequence of subjects in
 *Mishnah* and *Tosefta* being identical, this arrangement can be carried
 out without changing the original order in any way.
 
-<span id="fn_2"></span>[vi:1](tsa01.htm#fr_2) The relation which the
+<span id="fn_2"></span>[vi:1](tsa01.htm#fr_2.md) The relation which the
 *Tosefta* hears to the *Mishnah* has never been satisfactorily
 determined. That the relation is very close is clear: the sequence of
 subjects in the two is identical, and the verbal similarity in certain
@@ -395,10 +395,10 @@ frequent lacunae, and what would be obscurity it we lacked the *Mishnah*
 text, are conclusive against the possibility of the *Tosefta* being a
 separate, self-sufficient study of the same subject.
 
-<span id="fn_3"></span>[viii:1](tsa01.htm#fr_3) Compare especially *T*.
+<span id="fn_3"></span>[viii:1](tsa01.htm#fr_3.md) Compare especially *T*.
 vii. 8 f.
 
-<span id="fn_4"></span>[viii:2](tsa01.htm#fr_4) It is probable that the
+<span id="fn_4"></span>[viii:2](tsa01.htm#fr_4.md) It is probable that the
 second of these sections is a late comer into the tract. Both in its
 treatment and in its subject-matter it is out of place in its present
 context: it is difficult to see what logical connection it can have
@@ -411,20 +411,20 @@ find the missing antecedent. Further, in the *Mishnah* of the Babylonian
 Talmud its position is different: there, the two final chapters of the
 tract have their order reversed.
 
-<span id="fn_5"></span>[ix:1](tsa01.htm#fr_5) See the bibliography in
+<span id="fn_5"></span>[ix:1](tsa01.htm#fr_5.md) See the bibliography in
 Husband's *Prosecution of Jesus*.
 
-<span id="fn_6"></span>[x:1](tsa01.htm#fr_6) A. Taylor Innes, *The Trial
+<span id="fn_6"></span>[x:1](tsa01.htm#fr_6.md) A. Taylor Innes, *The Trial
 of Jesus Christ: a legal monograph*, pp. 58 ff.
 
-<span id="fn_7"></span>[xi:1](tsa01.htm#fr_7) A few points may be
+<span id="fn_7"></span>[xi:1](tsa01.htm#fr_7.md) A few points may be
 gleaned from the apocryphal books, and some hazardous conclusions,
 little removed from guess-work, may be derived from a study of the
 courts of law which the Chronicler describes; see 2 Chron. xix. 5-11; 1
 Macc. vii. 33; xi. 23; xii. 6, 35; xiii. 36; xiv. 28; 2 Macc. i. 10; iv.
 44; Judith iv. 8; xi. 14; xv. 8.
 
-<span id="fn_8"></span>[xi:2](tsa01.htm#fr_8) It is not possible in such
+<span id="fn_8"></span>[xi:2](tsa01.htm#fr_8.md) It is not possible in such
 a brief introduction as the present to deal with the origin and
 development of the Sanhedrin; most of what is known, adduced, or
 guessed, may be found in Schürer, <span id="page_xii">p. xii</span>
@@ -442,33 +442,33 @@ in Jerusalem*, Vienna, 1902; Lauterbach on "Sanhedrin," in *Jewish
 Encyclopedia;* and, opposing the theory, G. A. Smith, *Jerusalem*, vol.
 i. pp. 421 ff.
 
-<span id="fn_9"></span>[xiii:1](tsa01.htm#fr_9) For an extreme instance
+<span id="fn_9"></span>[xiii:1](tsa01.htm#fr_9.md) For an extreme instance
 of this see *M*. i. 6 (7: iii. 7) on the Lesser Sanhedrin.
 
-<span id="fn_10"></span>[xiv:1](tsa01.htm#fr_10) But see Origen,
+<span id="fn_10"></span>[xiv:1](tsa01.htm#fr_10.md) But see Origen,
 *Epistola ad Africanum*, 14, where it is alleged that the Presidents of
 these courts assumed to themselves powers of life and death. For
 possible recognition by the Romans, cf. Josephus, *Ant*. XIV. x. 57.
 
-<span id="fn_11"></span>[xv:1](tsa01.htm#fr_11) The tract never
+<span id="fn_11"></span>[xv:1](tsa01.htm#fr_11.md) The tract never
 recognizes that the high-priest was the regular President of the
 Sanhedrin as we are led to believe from the non-Hebrew sources.
 According to T. iv. 1 (which here contradicts the *Mishnah*, ii. 1) he
 may not even be a member of the court.
 
-<span id="fn_12"></span>[xv:2](tsa01.htm#fr_12) That certain legislation
+<span id="fn_12"></span>[xv:2](tsa01.htm#fr_12.md) That certain legislation
 was only of theoretical interest is recognized; see *T*. xiv. 1, xi. 6
 a.
 
-<span id="fn_13"></span>[xvi:1](tsa01.htm#fr_13) For the way in which
+<span id="fn_13"></span>[xvi:1](tsa01.htm#fr_13.md) For the way in which
 the *gezera shawa* rule of interpretation (see [p.
-72](tsa11.htm#page_72), n. [6](tsa11.htm#fn_237)) was utilized to
+72](tsa11.htm#page_72), n. [6](tsa11.htm#fn_237).md) was utilized to
 determine which death should be applied to criminals when Scripture does
 not enjoin the particular method, see *Jewish Encyclopedia*, art.
 "Capital Punishment." Should this rule fail to apply, the criminal is to
 die by the non-biblical penalty of strangulation. See. [p.
-95](tsa17.htm#page_95), n. [3](tsa17.htm#fn_292).
+95](tsa17.htm#page_95), n. [3](tsa17.htm#fn_292.md).
 
 ------------------------------------------------------------------------
 
-[Next: Synopsis of Contents](tsa02)
+[Next: Synopsis of Contents](tsa02.md)

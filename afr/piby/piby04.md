@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby03)  [Next](piby05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby03)  [Next](piby05.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ things that are made.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. Dead Became Alive](piby05)
+[Next: Chapter 2. Dead Became Alive](piby05.md)

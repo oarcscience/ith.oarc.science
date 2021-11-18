@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp62) 
-[Next](alp64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp62.md) 
+[Next](alp64.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ And never shall from mine depart!
 
 ------------------------------------------------------------------------
 
-[Next: The Fox](alp64)
+[Next: The Fox](alp64.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb33)  [Next](ptb35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb33)  [Next](ptb35.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,13 +24,13 @@ principally in accordance with it. In certain cases, however, where the
 date of foundation of a metropolis cannot be ascertained, the mid-heaven
 in the nativity of the reigning king, or other actual chief magistrate,
 is to be substituted, and considered as that part of the zodiac with
-which it chiefly sympathizes. <span id="fr_93"></span>[1](#fn_93)
+which it chiefly sympathizes. <span id="fr_93"></span>[1](#fn_93.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_93"></span>[52:1](ptb34.htm#fr_93) Whalley remarks on this
+<span id="fn_93"></span>[52:1](ptb34.htm#fr_93.md) Whalley remarks on this
 passage, that the gradual progress of the fixed stars "from one sign to
 another, is in an especial manner to be regarded in considering the
 mutations, manners, customs, laws, government, and fortune of a
@@ -38,4 +38,4 @@ kingdom."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Mode of Particular Prediction in Eclipses](ptb35)
+[Next: Chapter V. Mode of Particular Prediction in Eclipses](ptb35.md)

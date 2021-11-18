@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktwa10)  [Next](pktwa08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktwa10)  [Next](pktwa08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Nine
 
 <span id="img_wa09"></span> <span align="CENTER"> [![](tn/wa09.jpg)  
-Click to enlarge](img/wa09.jpg)</span>
+Click to enlarge](img/wa09.jpg.md)</span>
 
 The figure leans upon his staff and has an expectant look, as if
 awaiting an enemy. Behind are eight other staves--erect, in orderly
@@ -32,4 +32,4 @@ suspension, adjournment. *Reversed*: Obstacles, adversity, calamity.
 
 ------------------------------------------------------------------------
 
-[Next: Eight of Wands](pktwa08)
+[Next: Eight of Wands](pktwa08.md)

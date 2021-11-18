@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl134)  [Next](cohl136) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl134)  [Next](cohl136.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ multitude heard him and wept." Eniaiehuk.
 
 ------------------------------------------------------------------------
 
-[Next: Section 125](cohl136)
+[Next: Section 125](cohl136.md)

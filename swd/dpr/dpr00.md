@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Next](dpr01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Next](dpr01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ Manufactured in the United States of America
 
 ------------------------------------------------------------------------
 
-[Next: CONTENTS](dpr01)
+[Next: CONTENTS](dpr01.md)

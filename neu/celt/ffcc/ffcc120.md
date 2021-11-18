@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc110)  [Next](ffcc121) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc110)  [Next](ffcc121.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -246,4 +246,4 @@ Fairyland.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Taking of Evidence: II. In Ireland](ffcc121)
+[Next: Chapter II. Taking of Evidence: II. In Ireland](ffcc121.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Next](gcot01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Next](gcot01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ attribution is left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](gcot01)
+[Next: Contents](gcot01.md)

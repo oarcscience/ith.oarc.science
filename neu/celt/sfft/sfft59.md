@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft58)  [Next](sfft60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft58)  [Next](sfft60.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE MERMAID OF KNOCKDOLION. <span id="fr_92"></span>[1](#fn_92)
+### THE MERMAID OF KNOCKDOLION. <span id="fr_92"></span>[1](#fn_92.md)
 
 THE old house of Knockdolion stood near the water of Girvan, with a
 black stone at the end of it. A mermaid used to come from the water at
@@ -42,9 +42,9 @@ that the family soon after became extinct.
 
 ### Footnotes
 
-<span id="fn_92"></span>[195:1](sfft59.htm#fr_92) Chambers, *Popular
+<span id="fn_92"></span>[195:1](sfft59.htm#fr_92.md) Chambers, *Popular
 Rhymes of Scotland*.
 
 ------------------------------------------------------------------------
 
-[Next: The Young Laird Of Lorntie](sfft60)
+[Next: The Young Laird Of Lorntie](sfft60.md)

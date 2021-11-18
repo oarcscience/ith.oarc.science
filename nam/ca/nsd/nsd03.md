@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](nsd02)  [Next](nsd04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](nsd02)  [Next](nsd04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Notes on the Shoshonean Dialects of Southern California*, by A. L.
 Kroeber, \[1909\], at Intangible Textual Heritage
 
@@ -232,11 +232,11 @@ class="it">v</span>ucnilyam, small ants; kumsexwet, yellow-jacket;
 iswet, wolf; hunwet, bear; dukwet, panther; aswit, eagle. It is evident
 that at least the majority of these are not simple stems. Ku<span
 class="it">v</span>ucnilyam, small ants, and kumsexwet,
-yellow-jacket, <span id="fr_1"></span>[2](#fn_1) are obviously compounds
+yellow-jacket, <span id="fr_1"></span>[2](#fn_1.md) are obviously compounds
 or derivatives. The four words is-wet, wolf, hun-wet, bear, duk-wet,
 panther, and as-wit, eagle, seem to contain a final element denoting
 size or superlativeness. It will be observed that each of these animals
-is the largest of its kind. <span id="fr_2"></span>[2a](#fn_2) That the
+is the largest of its kind. <span id="fr_2"></span>[2a](#fn_2.md) That the
 stem of iswet is is-, and not isw-, appears from is-il, coyote.
 Similarly duk-ut is wildcat, corresponding to duk-wut, panther.
 
@@ -347,13 +347,13 @@ A few compound nouns were observed. Most of these may be compositions of
 a noun with a verbal stem; but yul-tam-am, beard, is undoubtedly derived
 from yul-uka, hair, yu-la in Luiseño, and tam’a, mouth or tooth.
 Pa-sukat, horse, in other dialects apparently elk, may be
-"water-deer." <span id="fr_3"></span>[3](#fn_3) If these cases are
+"water-deer." <span id="fr_3"></span>[3](#fn_3.md) If these cases are
 
 <span id="page_243">p. 243</span>
 
 correct, they are interesting in view of Mr. P. S. Sparkman's statement
 that there is no known compound noun in the Luiseño language. <span
-id="fr_4"></span>[4](#fn_4)
+id="fr_4"></span>[4](#fn_4.md)
 
 The noun-ending -mal is a diminutive. It is found also in Luiseño.
 Before the plural -am this suffix in Cahuilla becomes -maily-.
@@ -370,14 +370,14 @@ Luiseño imperative ending -x has not been heard.
 
 *Noun Endings*.
 
-It has been said <span id="fr_5"></span>[5](#fn_5) that in all
+It has been said <span id="fr_5"></span>[5](#fn_5.md) that in all
 Shoshonean dialects, and probably throughout the whole Uto-Aztekan
 family, it appears "that a noun cannot stand as a naked stem, but
 requires a suffix; but that any form of composition into which the stem
 enters, such as the addition of a possessive affix, makes the terminal
 suffix unnecessary," and it is dropped. An examination of the new
 Cahuilla material makes an amplification of this statement possible. Mr.
-Sparkman has stated <span id="fr_6"></span>[6](#fn_6) that in Luiseño
+Sparkman has stated <span id="fr_6"></span>[6](#fn_6.md) that in Luiseño
 certain nouns, such as those denoting terms of relationship and parts of
 the body, cannot occur without a possessive pronoun. This of course is
 sufficient to distinguish them from other nouns that are usable without
@@ -431,17 +431,17 @@ another species of spider; and elka, a
 
 <span id="page_245">p. 245</span>
 
-girl at puberty. <span id="fr_7"></span>[7](#fn_7) It is interesting
+girl at puberty. <span id="fr_7"></span>[7](#fn_7.md) It is interesting
 that two of these four words are reduplicated. In Luiseño a somewhat
 greater number of such nouns have been found. One of them is also
 duplicated, three end in -ax, and the remainder in vowels. <span
-id="fr_8"></span>[8](#fn_8)
+id="fr_8"></span>[8](#fn_8.md)
 
 A number of nouns which in Cahuilla end in -l, -c, show Luiseño forms in
 -la, -tea. Some of these nouns occur also in Luiseño without the final
 -a., but in that case are objective, the normal or subjective form
 showing the -a. Thus hu-la is given by Mr. Sparkman <span
-id="fr_9"></span>[9](#fn_9) with the objective hu-l, ki-tca, house, is
+id="fr_9"></span>[9](#fn_9.md) with the objective hu-l, ki-tca, house, is
 ki-c in the objective, and to-t, presumably objective, has been found
 beside the form do-da or to-ta, rock. The Agua Caliente vocabulary
 previously published, and the one given below, differ in a number of
@@ -484,31 +484,31 @@ The diminutive suffix -mal becomes -maily-am. The only Cahuilla form
 obtained which appears to show the loss of a noun-ending before the
 plural suffix is sa-sañ-em, the singular of which, while not obtained,
 perhaps corresponds to Luiseño sa-sañ-la. <span
-id="fr_10"></span>[10](#fn_10)
+id="fr_10"></span>[10](#fn_10.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[240:2](nsd03.htm#fr_1) Compare Boscana, San Juan
+<span id="fn_1"></span>[240:2](nsd03.htm#fr_1.md) Compare Boscana, San Juan
 Capistrano dialect: sejar (= sexar), bee.
 
-<span id="fn_2"></span>[240:2a](nsd03.htm#fr_2) Compare also yuna<span
+<span id="fn_2"></span>[240:2a](nsd03.htm#fr_2.md) Compare also yuna<span
 class="it">v</span>i-wut or yuñawi-<span class="it">v</span>ut, condor,
 with yuñawi-c, buzzard.
 
-<span id="fn_3"></span>[242:3](nsd03.htm#fr_3) Unless pa- means true,
+<span id="fn_3"></span>[242:3](nsd03.htm#fr_3.md) Unless pa- means true,
 real, as it is said to in "Pa-ute." Compare Gabrielino pa-wicokot,
 condor.
 
-<span id="fn_4"></span>[243:4](nsd03.htm#fr_4) Am. Anthr., n.s., VII,
+<span id="fn_4"></span>[243:4](nsd03.htm#fr_4.md) Am. Anthr., n.s., VII,
 657, 1905.
 
-<span id="fn_5"></span>[243:5](nsd03.htm#fr_5) Present series, IV, 91.
+<span id="fn_5"></span>[243:5](nsd03.htm#fr_5.md) Present series, IV, 91.
 
-<span id="fn_6"></span>[243:6](nsd03.htm#fr_6) Loc. cit.
+<span id="fn_6"></span>[243:6](nsd03.htm#fr_6.md) Loc. cit.
 
-<span id="fn_7"></span>[245:7](nsd03.htm#fr_7) Cahuilla nouns in -l are:
+<span id="fn_7"></span>[245:7](nsd03.htm#fr_7.md) Cahuilla nouns in -l are:
 menyil, temal, iñil, bal, dul, mululkal, luñayil, tauwal, qwinyal, amul,
 panuul, pasal, butcil, k’iksawal, nyitcil, naxaluwil and nyicluwil, pul,
 awal, isil, wilyal, tenil, qawil, tekwil, hunal, qwaal, kisil, ququl,
@@ -526,16 +526,16 @@ iswet, hunwet, dukwet, dukut, ta<span class="it">v</span>ut, sewet,
 sukat, aswit, yuñawi<span class="it">v</span>ut, mut, alwat, maxivit,
 bukawet, aawat, kumsexwet.
 
-<span id="fn_8"></span>[245:8](nsd03.htm#fr_8) About 100 Luiseño names
+<span id="fn_8"></span>[245:8](nsd03.htm#fr_8.md) About 100 Luiseño names
 of plants given by Mr. Sparkman in his paper recently published in
 volume VIII of this series end as follows: in -t, 38; in -l, 24, -la,
 11, total -l, 35; in -c (-sh), 19, -s, l, -tca (-cha), l, total -c, 21;
 in other consonants, l, pikwlax; in vowels, 4: posi’kana, sikimona,
 pehevi, tisi.
 
-<span id="fn_9"></span>[245:9](nsd03.htm#fr_9) Loc. cit.
+<span id="fn_9"></span>[245:9](nsd03.htm#fr_9.md) Loc. cit.
 
-<span id="fn_10"></span>[246:10](nsd03.htm#fr_10) Boscana, p. 333, gives
+<span id="fn_10"></span>[246:10](nsd03.htm#fr_10.md) Boscana, p. 333, gives
 sejet (sexat), willow, the name of a place, as meaning "place of wild
 bees," that is, "bee." His accompanying form, sejar pepau, honey, is
 "bee his-water," and shows sexar, or some similar form, such as c•aka
@@ -546,4 +546,4 @@ Juaneño.
 
 ------------------------------------------------------------------------
 
-[Next: Agua Caliente](nsd04)
+[Next: Agua Caliente](nsd04.md)

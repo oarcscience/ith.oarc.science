@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Next](hbs01)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Next](hbs01.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ SHERMAN, FRENCH, & COMPANY
 
 ------------------------------------------------------------------------
 
-[Next](hbs01)
+[Next](hbs01.md)
 
  
 

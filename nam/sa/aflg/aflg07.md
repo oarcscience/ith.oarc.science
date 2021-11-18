@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg06) [Next](aflg08)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg06) [Next](aflg08.md)
 
 ------------------------------------------------------------------------
 
@@ -8,17 +8,17 @@ American](../index) [Index](index) [Previous](aflg06) [Next](aflg08)
 ## C<span class="small">HAPTER</span> VII FAMILIAR SPIRITS
 
    <span class="small">The cult of Familiar Spirits reached a high
-development among the Island Carib folk (*[89](#pp_89)*). Though
+development among the Island Carib folk (*[89](#pp_89)*.md). Though
 presented with offerings and other things, these Spirits could be
-invoked only by the Medicine-man (*[90](#pp_90)*), and, being more or
+invoked only by the Medicine-man (*[90](#pp_90)*.md), and, being more or
 less intimately associated with human bones, were often called into
-requisition for purposes of Witchcraft and Prophecy (*[91](#pp_91)*).
+requisition for purposes of Witchcraft and Prophecy (*[91](#pp_91)*.md).
 The Island Arawak people also had similar Familiar Spirits
-(*[92](#pp_92)*), the belief in whose existence is even yet traceable on
-the Guiana mainland (*[93](#pp_93)*). Familiar Spirits and Couvade
-(*[93A](#pp_93A)*).</span>
+(*[92](#pp_92)*.md), the belief in whose existence is even yet traceable on
+the Guiana mainland (*[93](#pp_93)*.md). Familiar Spirits and Couvade
+(*[93A](#pp_93A)*.md).</span>
 
-   <span id="pp_89"></span>**89.**[\*](#pp_89) The cult of the Familiar
+   <span id="pp_89"></span>**89.**[\*](#pp_89.md) The cult of the Familiar
 Spirit would appear to have reached a high stage of development among
 the island tribes; at any rate, it is from these people that
 comparatively complete records of its existence have come down to us.
@@ -46,7 +46,7 @@ his \[Familiar\] Spirit; but such offerings are not accompanied by any
 adoration or prayer, and consist only of the actual presentation of the
 gifts (ibid., 472).
 
-   <span id="pp_90"></span>**90.**[\*](#pp_90) To invoke them, however,
+   <span id="pp_90"></span>**90.**[\*](#pp_90.md) To invoke them, however,
 requires the Boyé (medicine-man), together with incantations and tobacco
 smoke. This is the case chiefly on four occasions: (*a*) to be revenged
 on some one who has done them harm, and so draw punishment on him; (*b*)
@@ -54,7 +54,7 @@ to get cured of some illness and learn the results of it; (*c*) to
 consult them on the <span id="page_168">p. 168</span> issues of their
 wars; (*d*) and to hunt away the Evil Spirit, Maboya (loc. cit.). When
 the Boyé has made his Familiar Spirit appear ([Sect.
-*314*](aflg17.htm#pp_314)), the latter is heard to reply clearly to the
+*314*](aflg17.htm#pp_314).md), the latter is heard to reply clearly to the
 questions put to him: he is heard to click his jaws as if eating and
 drinking the anacri, but next morning they find that he has not touched
 it. These temporal viands which have been soiled by these unfortunate
@@ -70,7 +70,7 @@ straight so as not to spill the contents, otherwise the eyes would run
 water everlastingly. I purposely spilt some, and held the cup crooked"
 (BBR, 235).
 
-   <span id="pp_91"></span>**91.**[\*](#pp_91) These Familiar Spirits
+   <span id="pp_91"></span>**91.**[\*](#pp_91.md) These Familiar Spirits
 \[Icheiri or Chemin\] often nestle themselves inside bones taken from a
 grave, which are wrapped up with cotton into grotesque figures, and so
 give oracles: they say it is the Spirit of the Dead that talks (RoP,
@@ -92,7 +92,7 @@ their necks a small embossed effigy representing one of these cursèd
 spirits in the ugliest position in which it had ever put in an
 appearance (RoP, 479).
 
-   <span id="pp_92"></span>**92.**[\*](#pp_92) The Island Arawak also
+   <span id="pp_92"></span>**92.**[\*](#pp_92.md) The Island Arawak also
 had a belief in certain supernatural beings or spirits, and possessed
 effigies of them; both the spirit and its effigy were known to these
 folk as Cemi or Zemi. Thus, in his account of the aborigines of Haiti
@@ -116,7 +116,7 @@ in fact subordinates of the great gods; being possessed like them of
 magic power to make the yucca grow, to facilitate childbirth, and to
 cure the sick (ibid., 356).
 
-   <span id="pp_93"></span>**93.**[\*](#pp_93) These Cemi of the Island
+   <span id="pp_93"></span>**93.**[\*](#pp_93.md) These Cemi of the Island
 Arawaks were identical with the Chemin of the island Carib-owned women
 who, for very intelligible reasons, spoke an Arawak dialect. Still more
 interesting is the fact that, on the Guiana mainland, the Arawak
@@ -126,18 +126,18 @@ Indeed, it is in the cult of the piai where traces of this belief in
 Familiar Spirits must be sought among the mainland tribes, and it is
 here where I have been fortunate enough to find some. Thus, the effigy
 of the Familiar Spirit of the islanders has its representative in the
-so-called doll ([Sect. *290*](aflg17.htm#pp_290)) and neck-ornament
-([Sect. *292*](aflg17.htm#pp_292)) of the Mainland Arawak and Warrau
+so-called doll ([Sect. *290*](aflg17.htm#pp_290).md) and neck-ornament
+([Sect. *292*](aflg17.htm#pp_292).md) of the Mainland Arawak and Warrau
 medicine-man, as well as in the "devil"-figure of the Galibi piai
-([Sect. *311*](aflg17.htm#pp_311)) and possibly in the maize-straw
-figure described by Crévaux ([Sect. 311](aflg17.htm#pp_311)). The Spirit
+([Sect. *311*](aflg17.htm#pp_311).md) and possibly in the maize-straw
+figure described by Crévaux ([Sect. 311](aflg17.htm#pp_311).md). The Spirit
 itself is met with in the beings invoked by the Mainland Carib doctor
-when called upon to treat a patient ([Sect. *309*](aflg17.htm#pp_309)):
+when called upon to treat a patient ([Sect. *309*](aflg17.htm#pp_309).md):
 it is indeed not so very improbable that the actual Island Carib term
-Icheiri ([Sect. 89](aflg07.htm#pp_89)) may be identical with the
+Icheiri ([Sect. 89](aflg07.htm#pp_89).md) may be identical with the
 Mainland Carib word Iakai-a used today on the Pomeroon.
 
-   <span id="pp_93A"></span>**93A.**[\*](#pp_93A) While frankly
+   <span id="pp_93A"></span>**93A.**[\*](#pp_93A.md) While frankly
 admitting that I have no actual proof from the literature or from my own
 field-work, as to any relationship of the Familiar Spirit with the
 little Baby Spirit, on whose account the various forms of couvade are
@@ -149,4 +149,4 @@ idea of the Conscious Self, the "Ego."
 
 ------------------------------------------------------------------------
 
-[Next](aflg08)
+[Next](aflg08.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre89)  [Next](gre91) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre89)  [Next](gre91.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ Thorir and Thorbiorn Angle.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXXXVI: How Thorbiorn Angle brought Grettir's Head to
-Biarg](gre91)
+Biarg](gre91.md)

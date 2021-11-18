@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Next](lly01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Next](lly01.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,11 +25,11 @@ American](../../index)  [California](../index)  [Index](index) 
 
 <span id="img_front"></span> [![THE GATEWAY (&lt;I&gt;Photo A. C.
 Pillsbury&lt;/I&gt;)](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 THE GATEWAY (*Photo A. C. Pillsbury*)  
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Contents](lly01)
+[Next: Contents](lly01.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi138)  [Next](mtsi140) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi138)  [Next](mtsi140.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ The rest of the story is much the same.)
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Swinging Grapevines](mtsi140)
+[Next: 4. The Swinging Grapevines](mtsi140.md)

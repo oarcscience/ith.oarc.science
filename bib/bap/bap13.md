@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap12) 
-[Next](bap14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap12.md) 
+[Next](bap14.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ readers, as well as myself, will assuredly be grateful.
 
 ------------------------------------------------------------------------
 
-[Next: 13. Synopsis of the Contents](bap14)
+[Next: 13. Synopsis of the Contents](bap14.md)

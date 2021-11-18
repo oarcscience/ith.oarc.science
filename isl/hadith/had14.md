@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had13)  [Next](had15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had13)  [Next](had15.md) 
 
 ------------------------------------------------------------------------
 
@@ -230,4 +230,4 @@ Friday service.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: 'Īd Service](had15)
+[Next: Chapter XII: 'Īd Service](had15.md)

@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort26)  [Next](kort28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort26)  [Next](kort28.md) 
 
 ------------------------------------------------------------------------
 
-# 23. Big-Raven and Fish-Woman. <span id="fr_54"></span>[1](#fn_54)
+# 23. Big-Raven and Fish-Woman. <span id="fr_54"></span>[1](#fn_54.md)
 
 Big-Raven lived with his family. They had nothing to eat. He went to the
-sea, and found there Fish-Woman. <span id="fr_55"></span>[2](#fn_55) He
+sea, and found there Fish-Woman. <span id="fr_55"></span>[2](#fn_55.md) He
 brought her home. She cast forth spawn and they ate it. Then Big-Raven
 married Fish-Woman. Miti' grew jealous. Big-Raven went into the open.
 Then Miti' struck Fish-Woman and killed her. She cooked her flesh and
@@ -32,12 +32,12 @@ That is all.
 
 ### Footnotes
 
-<span id="fn_54"></span>[94:1](kort27.htm#fr_54) Compare Jochelson, The
+<span id="fn_54"></span>[94:1](kort27.htm#fr_54.md) Compare Jochelson, The
 Koryak, *l. c.*, No. 104, p. 292.
 
-<span id="fn_55"></span>[94:2](kort27.htm#fr_55) Literally, PISCIS-HOMO.
+<span id="fn_55"></span>[94:2](kort27.htm#fr_55.md) Literally, PISCIS-HOMO.
 More frequently used for the masculine (cf. No. 20, line 16).
 
 ------------------------------------------------------------------------
 
-[Next: 24. Kĭlu' and Monster-Man](kort28)
+[Next: 24. Kĭlu' and Monster-Man](kort28.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah20)  [Next](mah22) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah20)  [Next](mah22.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ ALSO PERFECT."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX:](mah22)
+[Next: Chapter XIX:](mah22.md)

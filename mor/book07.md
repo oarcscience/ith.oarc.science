@@ -1,8 +1,8 @@
-[Previous: Words of Mormon](book06)
+[Previous: Words of Mormon](book06.md)
 
-[Next: Alma](book08)
+[Next: Alma](book08.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -4683,4 +4683,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Alma](book08)
+[Next: Alma](book08.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf11) [Next](bulf13) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf11) [Next](bulf13.md) 
 
 # CHAPTER XIII.
 
@@ -324,4 +324,4 @@ alludes to this story:
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XIV. Minerva- Niobe.](bulf13)
+Next: [CHAPTER XIV. Minerva- Niobe.](bulf13.md)

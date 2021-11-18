@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb15)  [Next](brfb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb15)  [Next](brfb17.md) 
 
 </div>
 
@@ -136,6 +136,6 @@ days after.
 
 ------------------------------------------------------------------------
 
-[Next: The Mermaid and the Boy](brfb17)
+[Next: The Mermaid and the Boy](brfb17.md)
 
 </div>

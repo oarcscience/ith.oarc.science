@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ebm07)  [Next](ebm09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ebm07)  [Next](ebm09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eleusinian and Bacchic Mysteries*, by Thomas Taylor, \[1891\], at
 Intangible Textual Heritage
 
@@ -13,14 +13,14 @@ Intangible Textual Heritage
 <span id="page_229">p. 229</span>
 
 <span id="img_22901"></span> ![Venus Rising from the
-Sea.](img/22901.png)  
+Sea.](img/22901.png.md)  
 Venus Rising from the Sea.
 
 #### APPENDIX.
 
 <span class="smallcaps">Since</span> writing the above Dissertation, I
 have met with a curious Greek manuscript entitled: “Of Psellus,
-*Concerning Dæmons, <span id="fr_132"></span>[\*](#fn_132) according to
+*Concerning Dæmons, <span id="fr_132"></span>[\*](#fn_132.md) according to
 the opinion of the Greeks”:* του Ψελλου τινα περι δαιμονων δοξαζουσιν
 Ἑλληνες: In the course of which he describes the machinery of the
 Eleusinian Mysteries as follows:—Ἁ δε γε μυστηρια τουτων, οἱον αυτικα τα
@@ -51,7 +51,7 @@ her daughter Proserpina (Phersephatté). But as
 <span id="page_231">p. 231</span>
 
 venereal connections are in the initiation, <span
-id="fr_133"></span>[\*](#fn_133) a Venus is represented rising from the
+id="fr_133"></span>[\*](#fn_133.md) a Venus is represented rising from the
 sea, from certain moving sexual parts: afterwards the celebrated
 marriage of Proserpina (with Pluto) takes place; and those who are
 initiated sing:
@@ -95,11 +95,11 @@ Indies, will, I hope, speedily and fortunately
 <span id="page_233">p. 233</span> <span id="page_234">p. 234</span>
 
 <span id="img_23401"></span> ![Jupiter disguised as Diana, and
-Calisto.](img/23401.png)  
+Calisto.](img/23401.png.md)  
 Jupiter disguised as Diana, and Calisto.
 
 <span id="img_23402"></span> ![Hercules, Deianeira and
-Nessus.](img/23402.png)  
+Nessus.](img/23402.png.md)  
 Hercules, Deianeira and Nessus.
 
 <span id="page_235">p. 235</span>
@@ -155,25 +155,25 @@ divinity. I only add that the apparent indecency of these exhibitions
 was, as I have already observed, exclusive of its mystic meaning,
 designed as a remedy for the passions of the soul: and hence mystic
 ceremonies were very properly called ακεα, *akea, medicines*, by the
-obscure and noble Heracleitus. <span id="fr_134"></span>[\*](#fn_134)
+obscure and noble Heracleitus. <span id="fr_134"></span>[\*](#fn_134.md)
 
-<span id="img_23701"></span> ![Sacrifice of a Pig.](img/23701.png)  
+<span id="img_23701"></span> ![Sacrifice of a Pig.](img/23701.png.md)  
 Sacrifice of a Pig.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_132"></span>[229:\*](ebm08.htm#fr_132) Dæmons, divinities,
+<span id="fn_132"></span>[229:\*](ebm08.htm#fr_132.md) Dæmons, divinities,
 spirits; a term formerly applied to all rational beings, good or bad,
 other than mortals.
 
-<span id="fn_133"></span>[231:\*](ebm08.htm#fr_133) *I. e*. a
+<span id="fn_133"></span>[231:\*](ebm08.htm#fr_133.md) *I. e*. a
 representation of them.
 
-<span id="fn_134"></span>[237:\*](ebm08.htm#fr_134) <span
+<span id="fn_134"></span>[237:\*](ebm08.htm#fr_134.md) <span
 class="smallcaps">Iamblichus</span>: *De Mysteriis*.
 
 ------------------------------------------------------------------------
 
-[Next: Orphic Hymns](ebm09)
+[Next: Orphic Hymns](ebm09.md)

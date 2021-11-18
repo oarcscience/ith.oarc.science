@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos12)  [Next](flos14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos12)  [Next](flos14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -83,7 +83,7 @@ rememberst
    Then, too, there were the "Children of the Revels," a company who
 performed at Blackfriars Theatre. In "Hamlet" (ii. 2), Shakespeare
 alludes to these "children-players." <span
-id="fr_643"></span>[1](#fn_641) Rosencrantz says, in the conversation
+id="fr_643"></span>[1](#fn_641.md) Rosencrantz says, in the conversation
 preceding the entry of the players, in reply to Hamlet's inquiry whether
 the actors have suffered through the result of the late inhibition,
 evidently referring to the plague, "Nay, their endeavour keeps in the
@@ -100,7 +100,7 @@ merriment, "the more decided from being the proper close of the
 festivities of Christmas, when games of chance were traditionally rife,
 and the sport of sudden and casual elevation gave the tone of the time.
 Of like tone is the play, and to this," says Mr Lloyd, <span
-id="fr_644"></span>[2](#fn_642) "it apparently owes its title." The
+id="fr_644"></span>[2](#fn_642.md) "it apparently owes its title." The
 play, it appears, was probably originally acted at the barristers’ feast
 at the Middle Temple,
 
@@ -110,7 +110,7 @@ on February 2, 1601–2, as Manningham tells us in his "Diary" (Camden
 Society, 1868, ed. J. Bruce, p. 18). It is worthy of note that the
 festive doings of the Inns of Court, in days gone by at Christmas-tide,
 were conducted on the most extravagant scale. <span
-id="fr_645"></span>[1](#fn_643) In addition to the merry disports of the
+id="fr_645"></span>[1](#fn_643.md) In addition to the merry disports of the
 Lord of Misrule, there were various revels. The Christmas masque at
 Gray's Inn, in 1594, was on a magnificent scale.
 
@@ -145,7 +145,7 @@ in Ophelia's song in "Hamlet" (iv. 5):—
    There seems every probability that St Valentine's day, with its many
 customs, has come down to us from the Romans, but was fathered upon St
 Valentine in the earlier ages of the Church in order to Christianise
-it. <span id="fr_646"></span>[2](#fn_644) In France the Valentine was a
+it. <span id="fr_646"></span>[2](#fn_644.md) In France the Valentine was a
 moveable feast, celebrated on the first Sunday in Lent, which was called
 the *jour des brandons*, because the boys carried about lighted torches
 on that day.
@@ -158,7 +158,7 @@ pancakes is still a matter of uncertainty. The practice is alluded to in
 <span id="page_281">p. 281</span>
 
 where the clown speaks of "a pancake for Shrove-Tuesday." <span
-id="fr_647"></span>[1](#fn_645) In "Pericles" (ii. 1) they are termed
+id="fr_647"></span>[1](#fn_645) In "Pericles" (ii. 1.md) they are termed
 "flap-jacks," a term used by Taylor, the water-poet, in his
 "Jacke-a-Lent Workes" (1630, i. 115): "Until at last by the skill of the
 cooke it is transformed into the form of a flap-jack, which in our
@@ -177,7 +177,7 @@ merry. Hence in "2 Henry IV." (v. 3) Justice Silence says—
 </div>
 
 It was a day of holiday and licence, for apprentices, labouring persons,
-and others. <span id="fr_648"></span>[2](#fn_646)
+and others. <span id="fr_648"></span>[2](#fn_646.md)
 
    *Lent*—This season was at one time marked by a custom now fallen into
 disuse. A figure made up of straw and castoff clothes, was drawn or
@@ -208,7 +208,7 @@ employment!" It is alluded to by Ben Jonson in his "Tale of a Tub" (iv.
 
    Elderton, in a ballad called "Lenton Stuff," in a MS. in the
 Ashmolean Museum, thus concludes his account of Lent <span
-id="fr_649"></span>[1](#fn_647)—
+id="fr_649"></span>[1](#fn_647.md)—
 
 <div style="margin-left: 32px">
 
@@ -219,13 +219,13 @@ id="fr_649"></span>[1](#fn_647)—
  And to Palme Sonday doethe he ryde,  
    With sprots and herryngs by his syde,  
  And makes an end of Lenton tyde!" <span
-id="fr_650"></span>[2](#fn_648)</span>
+id="fr_650"></span>[2](#fn_648.md)</span>
 
 </div>
 
    In the reign of Elizabeth, butchers were strictly enjoined not to
 sell flesh meat in Lent, not with a religious view, but for the double
-purpose <span id="fr_651"></span>[3](#fn_649) of diminishing the
+purpose <span id="fr_651"></span>[3](#fn_649.md) of diminishing the
 consumption of flesh meat during that period, and so making it more
 plentiful during the rest of the year, and of encouraging the fisheries
 and augmenting the number of seamen. Butchers, however, who had an
@@ -307,7 +307,7 @@ new doublet before Easter." In East Yorkshire, on Easter Eve, young
 folks go to the nearest market-town to buy some new article of dress or
 personal ornament, to wear for the first time on Easter Day, as
 otherwise they believe that birds—notably rooks or "crakes"—will spoil
-their clothes. <span id="fr_652"></span>[1](#fn_650) In "Poor Robin's
+their clothes. <span id="fr_652"></span>[1](#fn_650.md) In "Poor Robin's
 Almanac" we are told:—
 
 <div style="margin-left: 32px">
@@ -324,7 +324,7 @@ Measure" (iii. 2), by Lucio:—
 <div style="margin-left: 32px">
 
 <span class="small">"His use was to put a ducat in her
-clack-dish." <span id="fr_653"></span>[2](#fn_651)</span>
+clack-dish." <span id="fr_653"></span>[2](#fn_651.md)</span>
 
 </div>
 
@@ -379,7 +379,7 @@ originated in the fields of Cressy, but rather shows that when
 Shakespeare wrote Welshmen wore leeks. In the same play, too (iv. 1),
 the well-remembered Fluellen's enforcement of Pistol, to eat the leek he
 had ridiculed, further establishes the wearing as a usage. <span
-id="fr_654"></span>[1](#fn_652) Pistol says:—
+id="fr_654"></span>[1](#fn_652.md) Pistol says:—
 
 <div style="margin-left: 32px">
 
@@ -414,8 +414,8 @@ makes the Danish prince swear by St Patrick, on which
 
 <span class="contnote">\[paragraph continues\]</span> Warburton remarks
 that the whole northern world had their learning from Ireland. <span
-id="fr_655"></span>[1](#fn_653) As Mr Singer <span
-id="fr_656"></span>[2](#fn_654) observes, however, it is more probable
+id="fr_655"></span>[1](#fn_653.md) As Mr Singer <span
+id="fr_656"></span>[2](#fn_654.md) observes, however, it is more probable
 that the poet seized the first popular imprecation that came to his
 mind, without regarding whether it suited the country or character of
 the person to whom he gave it. Some, again, have supposed that there is
@@ -429,7 +429,7 @@ passed over without notice. Thus Bedford, in "1 Henry VI." (i. 1),
 speaks of keeping "our great Saint George's feast withal." "God and St
 George," was once a common battle cry, several references to which occur
 in Shakespeare's plays. Thus, in "Henry V." (iii. 1), the king says to
-his soldiers <span id="fr_657"></span>[3](#fn_655)—
+his soldiers <span id="fr_657"></span>[3](#fn_655.md)—
 
 <div style="margin-left: 32px">
 
@@ -454,7 +454,7 @@ shall have for their common crye and word, *St George, forward*, or
 *upon them St George*, whereby the soldier is much comforted, and the
 enemie dismaied, by calling to minde the ancient valour of England, with
 which that name has so often been victorious." <span
-id="fr_658"></span>[4](#fn_656)
+id="fr_658"></span>[4](#fn_656.md)
 
    The combat of this saint on horseback with a dragon has been very
 long established as a subject for sign painting. In "King John" (ii. 1),
@@ -471,7 +471,7 @@ since
 <span id="page_287">p. 287</span>
 
 <span class="contnote">\[paragraph continues\]</span> It is still a very
-favourite sign. In London alone <span id="fr_659"></span>[1](#fn_657)
+favourite sign. In London alone <span id="fr_659"></span>[1](#fn_657.md)
 there are said to be no less than sixty-six public houses and taverns
 with the sign of "St George and the Dragon," not counting beer-houses
 and coffee-houses.
@@ -517,7 +517,7 @@ And Thersites says (iv. 1)—
 <div style="margin-left: 32px">
 
 <span class="small">"No doubt they rose up early to observe  
- The rite of May." <span id="fr_660"></span>[2](#fn_658)</span>
+ The rite of May." <span id="fr_660"></span>[2](#fn_658.md)</span>
 
 </div>
 
@@ -562,7 +562,7 @@ forked end. The shaft of the pole is painted in a diagonal line of black
 colours upon a yellow ground, a characteristic decoration of all these
 ancient maypoles, as alluded to by Shakespeare in his "Midsummer Night's
 Dream" (iii. 2), where it gives point to Hermia's allusion to her rival
-Helena, as "a painted maypole." <span id="fr_661"></span>[1](#fn_659)
+Helena, as "a painted maypole." <span id="fr_661"></span>[1](#fn_659.md)
 The popularity of the maypole in former centuries is shown by the fact
 that one of our London parishes, St Andrew Undershaft, derives its name
 from the maypole
@@ -596,7 +596,7 @@ Scarlet, Stokesley, Little John, the Hobby Horse, the Bavian or Fool,
 Tom the Piper, with his pipe and tabor. The number of characters varied
 much at different times and places. In "All's Well That Ends Well" (ii.
 2), the Clown says—"As fit as ten groats for the hand of an attorney,—a
-Morris for May-day." <span id="fr_662"></span>[1](#fn_660)
+Morris for May-day." <span id="fr_662"></span>[1](#fn_660.md)
 
    In "2 Henry VI." (iii. 2) the Duke of York says of Cade—
 
@@ -661,7 +661,7 @@ continues\]</span> That ’fore thy dignity, will dance a morris.
 be noticed that in "1 Henry IV." (iii. 3):—"And for woman-hood, Maid
 Marian may be the deputy's wife of the ward to thee,"—the allusion being
 to "the degraded Maid Marian of the later morris dance, more male than
-female." <span id="fr_663"></span>[1](#fn_661)
+female." <span id="fr_663"></span>[1](#fn_661.md)
 
    The "hobby-horse," another personage of the morris dance on May-day,
 was occasionally omitted, and appears to have given rise to a popular
@@ -720,7 +720,7 @@ friar."</span>
 clerical tonsure, for, as he adds, "When the parish priests were
 inhibited by the diocesan to assist in the May games, the Franciscans
 might give attendance, as being exempted from Episcopal
-jurisdiction." <span id="fr_664"></span>[1](#fn_662)
+jurisdiction." <span id="fr_664"></span>[1](#fn_662.md)
 
    It was no uncommon occurrence, for metrical interludes of a comic
 species, and founded on the achievements of the outlaw Robin Hood, to be
@@ -750,7 +750,7 @@ None otherwise than little girls with puppets used to do."</span>
 </div>
 
    This custom appears to have been carried to an extravagant height in
-Spain, for Mr Fosbroke <span id="fr_665"></span>[1](#fn_663) tells us
+Spain, for Mr Fosbroke <span id="fr_665"></span>[1](#fn_663.md) tells us
 that the gift of the Holy Ghost was represented by "thunder from engines
 which did much damage." Water, oak leaves, burning torches, wafers, and
 cakes, were thrown down from the church roof; pigeons and small birds
@@ -815,7 +815,7 @@ Whitsuntide, usually in some barn near the church, consisting of a kind
 of pic-nic, as each parishioner brought what victuals he could spare.
 The ale, which had been brewed pretty strong for the occasion, was sold
 by the churchwardens, and from its profits a fund arose for the repair
-of the church. <span id="fr_666"></span>[1](#fn_664) These meetings are
+of the church. <span id="fr_666"></span>[1](#fn_664.md) These meetings are
 referred to by Shakespeare in "Pericles" (i. 1)—
 
 <div style="margin-left: 32px">
@@ -882,7 +882,7 @@ Society; to 'King Herod' in the 'Coventry Mysteries,' p. 188, ed.
 Shakespeare Society; and to 'The Slaughter of the Innocents' in 'The
 Chester Plays,' vol. i., p. 172, ed. Shakespeare Society.'"
 
-   Like Herod, Termagant <span id="fr_667"></span>[1](#fn_665) was a
+   Like Herod, Termagant <span id="fr_667"></span>[1](#fn_665.md) was a
 hectoring tyrant of the miracle plays, and as such is mentioned by
 Hamlet in the passage quoted above. Hence in course of time the word was
 used as an adjective, in the sense of violent, as in "1 Henry IV." (v.
@@ -947,7 +947,7 @@ devil, leaping on his back, and belabouring him with his dagger of lath,
 till he made him roar. The devil, however, always carried him off in the
 end. He was, in short, the buffoon of the morality, and was succeeded in
 his office by the clown, whom we see in Shakespeare and others. <span
-id="fr_668"></span>[1](#fn_666)
+id="fr_668"></span>[1](#fn_666.md)
 
    Again, there may be a further allusion to the "moralities in "King
 Lear," (ii. 2), where Kent says to Oswald, "Take vanity, the puppet's
@@ -962,7 +962,7 @@ to the miracle plays, but were of a more
 mixed character, being partly drawn from profane history. According to
 Strutt they were more frequent in London, being required at stated
 periods, such as the setting of the Midsummer Watch, and the Lord
-Mayor's show. <span id="fr_669"></span>[1](#fn_667) Among the allusions
+Mayor's show. <span id="fr_669"></span>[1](#fn_667.md) Among the allusions
 to these shows given by Shakespeare, we may quote one in "Richard III.,"
 (iv. 4), where Queen Margaret speaks of—
 
@@ -978,7 +978,7 @@ indexes were distributed among the spectators, that they might
 understand the meaning of such allegorical representations as were
 usually exhibited. In the "Merchant of Venice," (i. 1), Salarino calls
 argosies "the pageants of the sea," in allusion, says Douce, <span
-id="fr_670"></span>[2](#fn_668) "to those enormous machines, in the
+id="fr_670"></span>[2](#fn_668.md) "to those enormous machines, in the
 shapes of castles, dragons, ships, giants, etc., that were drawn about
 the streets in the ancient shows or pageants, and which often
 constituted the most important part of them." Again, in "As You Like
@@ -1011,7 +1011,7 @@ characters were sometimes varied to suit the circumstances of the
 period, or the taste of the auditory. A MS. preserved in the library of
 Trinity College, Dublin, mentions the "Six Worthies" having been played
 before the Lord Deputy Sussex in 1557. <span
-id="fr_671"></span>[1](#fn_669)
+id="fr_671"></span>[1](#fn_669.md)
 
    Another feature of the Whitsun merrymakings were the Cotswold games,
 which were generally on the Thursday in Whitsun week, in the vicinity of
@@ -1022,10 +1022,10 @@ such as wrestling, leaping, pitching the bar, handling the pike,
 dancing, and hunting. Ben Jonson, Drayton, and other poets of that age
 wrote verses on this festivity, which in 1636 were collected into one
 volume, and published under the name of "Annalia Dubrensia." <span
-id="fr_672"></span>[2](#fn_670) In the "Merry Wives of Windsor" (i. 1),
+id="fr_672"></span>[2](#fn_670) In the "Merry Wives of Windsor" (i. 1.md),
 Slender asks Page, "How does your fallow greyhound, sir? I heard say he
 was outrun on Cotsall?" And in "2 Henry IV." <span
-id="fr_673"></span>[3](#fn_671) (iii. 1), Shallow, by distinguishing
+id="fr_673"></span>[3](#fn_671) (iii. 1.md), Shallow, by distinguishing
 Will Squele as "a Cotswold man," meant to imply that he was well versed
 in manly exercises, and consequently of a daring spirit and athletic
 constitution. A sheep was jocularly called a "Cotsold," or "Cotswold
@@ -1034,7 +1034,7 @@ lion," from the extensive pastures in that part of Gloucestershire.
    Whilst speaking of Whitsuntide festivities, we may refer to the
 "roasted Manningtree ox with the pudding in his belly," to which Prince
 Henry alludes in "1 Henry IV." (ii. 4). <span
-id="fr_674"></span>[4](#fn_672)\* It appears that Manningtree, in Essex,
+id="fr_674"></span>[4](#fn_672.md)\* It appears that Manningtree, in Essex,
 formerly enjoyed the privilege of fairs, by the tenure of exhibiting a
 certain number of Stage Plays yearly. There were, also, great
 festivities there, and much good eating, at Whitsun ales and other
@@ -1044,7 +1044,7 @@ such occasions. The pudding spoken of
 <span id="page_298">p. 298</span>
 
 by Prince Henry often accompanied the ox, as we find in a ballad written
-in 1658 <span id="fr_675"></span>[1](#fn_673)—
+in 1658 <span id="fr_675"></span>[1](#fn_673.md)—
 
 <div style="margin-left: 32px">
 
@@ -1058,7 +1058,7 @@ in 1658 <span id="fr_675"></span>[1](#fn_673)—
 settled that the sheep may, without danger, lay aside their winter
 clothing; the following tokens being laid down by Dyer in his "Fleece"
 (book i.), to mark out the proper time <span
-id="fr_676"></span>[2](#fn_674)—
+id="fr_676"></span>[2](#fn_674.md)—
 
 <div style="margin-left: 32px">
 
@@ -1086,13 +1086,13 @@ And whilst the bag-pipe plays, each lusty jocund swain
 Quaffs syllabubs in cans, to all upon the plain,  
 And to their country girls, whose nosegays they do wear;  
 Some roundelays do sing; the rest the burthen bear." <span
-id="fr_677"></span>[3](#fn_675)</span>
+id="fr_677"></span>[3](#fn_675.md)</span>
 
 </div>
 
 In the "Winter's Tale," one of the most delicious scenes (iv. 4), is
 that of the sheep-shearing, in which we have the more poetical
-"shepherd-queen." Mr Furnivall, <span id="fr_678"></span>[4](#fn_676) in
+"shepherd-queen." Mr Furnivall, <span id="fr_678"></span>[4](#fn_676.md) in
 his introduction to this play justly remarks: "How happily it brings
 Shakespeare before us, mixing with his Stratford neighbours at their
 sheep-shearing and country sports,
@@ -1131,7 +1131,7 @@ knew whether her lover would prove true to her or not. Young men sought
 also for pieces of coal, but in reality certain hard, black, dead roots,
 often found under the living mug-wort, designing to place these under
 their pillows, that they might dream of themselves. <span
-id="fr_679"></span>[1](#fn_677) It was also supposed that any person
+id="fr_679"></span>[1](#fn_677.md) It was also supposed that any person
 fasting on Mid-summer eve, and sitting in the church porch, would at
 midnight see the spirits of those persons of that parish who would die
 that year, come and knock at the church door, in the order and
@@ -1144,7 +1144,7 @@ madness. Thus Malvolio's strange conduct is described by Olivia in
 "Twelfth Night" (iii. 4) as "a very midsummer madness." And hence, "A
 Midsummer Night's Dream" is no inappropriate title for "the series of
 wild incongruities of which the play consists." <span
-id="fr_680"></span>[1](#fn_678) The Low Dutch have a proverb that when
+id="fr_680"></span>[1](#fn_678.md) The Low Dutch have a proverb that when
 men have passed a troublesome night's rest, and could not sleep, "they
 have passed St John Baptist's night"—that is, they have not taken any
 sleep, but watched all night. Heywood seems to allude to a similar
@@ -1184,7 +1184,7 @@ tenants who held lands under the Cathedral Church of York, were bound by
 <span id="page_301">p. 301</span>
 
 their tenure to bring a live lamb into the church at high mass. <span
-id="fr_681"></span>[1](#fn_679) It appears to have been a popular day in
+id="fr_681"></span>[1](#fn_679.md) It appears to have been a popular day in
 times past; and is mentioned in the following dialogue in "Romeo and
 Juliet" (i. 3), where the Nurse enquires—
 
@@ -1205,12 +1205,12 @@ day.
    *St Charity* (August 1).—This saint is found in the Martyrology on
 the first of August—"Romæ passio Sanctarum Virginum Fidei, Spei, et
 Charitatis, quæ sub Hadriano principe martyriæ coronam adeptæ
-sunt." <span id="fr_682"></span>[2](#fn_680) She is alluded to by
+sunt." <span id="fr_682"></span>[2](#fn_680.md) She is alluded to by
 Ophelia in her song in "Hamlet" (iv. 5)—
 
 <div style="margin-left: 32px">
 
-<span class="small">"By Gis, <span id="fr_683"></span>[3](#fn_681) and
+<span class="small">"By Gis, <span id="fr_683"></span>[3](#fn_681.md) and
 by Saint Charity,  
  Alack, and fie for shame," &c.</span>
 
@@ -1248,7 +1248,7 @@ boar-pig."</span>
 passage, but this is improbable, as the true Bartholomew pigs were real
 roasted pigs, as may be seen from Ben Jonson's play of "Bartholomew
 Fair," (i. 6), where Ursula, the pigwoman, is an important
-personage. <span id="fr_684"></span>[1](#fn_682) Gay, too, speaks of the
+personage. <span id="fr_684"></span>[1](#fn_682.md) Gay, too, speaks of the
 pig-dressers:—"Like Bartholomew fair pig-dressers, who look like the
 dams, as well as the cooks of what they roasted." A further allusion to
 this season is found in "Henry V.," (v. 2), where Burgundy tells how
@@ -1288,16 +1288,16 @@ over the bridge, which is done as fast as their ingenuity can carry
 them." Some, however, think the allusion in the "Two Gentlemen of
 Verona" is to the diabolical torture of the boot. Not a great while
 before this play was written, it had been inflicted, says Douce, <span
-id="fr_685"></span>[1](#fn_683) in the presence of King James on one Dr
+id="fr_685"></span>[1](#fn_683.md) in the presence of King James on one Dr
 Fian, a supposed wizard, who was charged with raising the storms that
 the king encountered in his return from Denmark. The unfortunate man was
 afterwards burned. This horrible torture, we are told, <span
-id="fr_686"></span>[2](#fn_684) consisted in the leg and knee of the
+id="fr_686"></span>[2](#fn_684.md) consisted in the leg and knee of the
 criminal being enclosed within a tight iron boot or case, wedges of iron
 being then driven in with a mallet between the knee and the iron boot.
 Sir Walter Scott, in "Old Mortality," has given a description of
 Macbriar undergoing this punishment. At a later period "the boot"
-signified, according to Nares, <span id="fr_687"></span>[3](#fn_685) an
+signified, according to Nares, <span id="fr_687"></span>[3](#fn_685.md) an
 instrument for tightening the leg or hand, and was used as a cure for
 the gout, and called a "bootikins." The phrase "to give the boots" seems
 to have been a proverbial expression, signifying "don't make a laughing
@@ -1315,7 +1315,7 @@ stock of me; don't play upon me."
 
 we have, doubtless, an allusion to the "Hock Cart" of the old
 harvest-home. This was the cart which carried the last corn away from
-the harvest field; <span id="fr_688"></span>[4](#fn_686) and was
+the harvest field; <span id="fr_688"></span>[4](#fn_686.md) and was
 generally profusely decorated and accompanied by music, old and young
 
 <span id="page_304">p. 304</span>
@@ -1329,7 +1329,7 @@ fashion—
  We have reaped, we have mowed,  
  We have brought home every load,  
      Hip, hip, hip! harvest home." <span
-id="fr_689"></span>[1](#fn_687)</span>
+id="fr_689"></span>[1](#fn_687.md)</span>
 
 </div>
 
@@ -1343,7 +1343,7 @@ In "Poor Robin's Almanack" for August 1676, we read—
 </div>
 
    *Holyrood-Day* (September 14).—This festival, <span
-id="fr_690"></span>[2](#fn_688) called also Holy-Cross-day, was
+id="fr_690"></span>[2](#fn_688.md) called also Holy-Cross-day, was
 instituted by the Romish Church on account of the recovery of a large
 piece of the supposed cross by the Emperor Heraclius, after it had been
 taken away, on the plundering of Jerusalem, by Chosroes, king of Persia.
@@ -1372,7 +1372,7 @@ represents the Earl of Westmoreland relating how—
    *St Lambert's-Day* (September 17).—This saint, whose original name
 was Landebert, but contracted into Lambert, was a native of Maestricht,
 in the seventh century, and was assassinated early in the eighth. <span
-id="fr_691"></span>[3](#fn_689) His festival is alluded to in "Richard
+id="fr_691"></span>[3](#fn_689.md) His festival is alluded to in "Richard
 II." (i. 1), where the king says—
 
 <div style="margin-left: 32px">
@@ -1411,10 +1411,10 @@ sweet gloves"</span>
 </div>
 
 although in his time the expression rather meant a rustic
-necklace. <span id="fr_692"></span>[1](#fn_690) An old English historian
+necklace. <span id="fr_692"></span>[1](#fn_690.md) An old English historian
 makes St Audry die of a swelling in her throat, which she considered as
 a particular judgment for having been in her youth addicted to wearing
-fine necklaces. <span id="fr_693"></span>[2](#fn_691)
+fine necklaces. <span id="fr_693"></span>[2](#fn_691.md)
 
    *St Crispin's Day* (October 25th), has for centuries been a
 red-letter day in the calendar of the shoemakers, being the festival of
@@ -1479,7 +1479,7 @@ certain lamentable tone, for soul-cakes, at the same time singing a song
 which they call the souler's song. This practice is no doubt a remnant
 of the Popish ceremony of praying for departed souls, especially those
 of friends, on the ensuing day, November 2nd, the feast of All
-Souls. <span id="fr_694"></span>[1](#fn_692) The following is a specimen
+Souls. <span id="fr_694"></span>[1](#fn_692.md) The following is a specimen
 of the doggerel sung on these occasions—
 
 <div style="margin-left: 32px">
@@ -1509,11 +1509,11 @@ and two for Paul,
 
 In the "Two Gentlemen of Verona" (ii. 1), Speed thus speaks of this
 practice—"To watch, like one that fears robbing; to speak puling, <span
-id="fr_695"></span>[1](#fn_693) like a beggar at Hallowmas."
+id="fr_695"></span>[1](#fn_693.md) like a beggar at Hallowmas."
 
    The season of Hallowmas having been frequently mild has been, from
 time immemorial, proverbially called "All-hallown Summer," *i.e.*, late
-summer. Thus, <span id="fr_696"></span>[2](#fn_694) in "1 Henry IV." (i.
+summer. Thus, <span id="fr_696"></span>[2](#fn_694.md) in "1 Henry IV." (i.
 2), Prince Henry, likening Falstaff, with his old age and young passions
 to this November summer, addresses him:—"Farewell, thou latter spring;
 farewell, thou All Hallown summer." In some parts of Germany there is a
@@ -1535,7 +1535,7 @@ where the king says of his wife—
 Catholic Church for a solemn service for the repose of the dead, was
 formerly observed in this country, and among the many customs celebrated
 in its honour were ringing the passing bell, making soul-cakes, blessing
-beans, &c. <span id="fr_697"></span>[3](#fn_695) In "Richard III." (v.
+beans, &c. <span id="fr_697"></span>[3](#fn_695.md) In "Richard III." (v.
 1), Buckingham, when led to execution, says—
 
 <div style="margin-left: 32px">
@@ -1621,7 +1621,7 @@ great holiday. Various reasons have been assigned for his having been
 chosen as the patron of children,—either because the legend makes him to
 have been a bishop while yet a boy, or from his having restored three
 young scholars to life who had been cruelly murdered, <span
-id="fr_698"></span>[1](#fn_696) or again, on account of his early
+id="fr_698"></span>[1](#fn_696.md) or again, on account of his early
 abstinence when a boy. In the "Two Gentlemen of Verona," (iii. 1), he is
 alluded to in this capacity,—
 
@@ -1657,7 +1657,7 @@ Jephtha's Daughter," and adds,—
 <div style="margin-left: 32px">
 
 <span class="small">"The first row of the pious chanson will show you
-more." <span id="fr_699"></span>[2](#fn_697)</span>
+more." <span id="fr_699"></span>[2](#fn_697.md)</span>
 
 </div>
 
@@ -1665,15 +1665,15 @@ more." <span id="fr_699"></span>[2](#fn_697)</span>
 Warton, in his "History of English Poetry," notices a licence granted in
 1562 to John Tysdale for printing "Certayne goodly carowles to be songe
 to the glory of God;" and again "Crestenmas Carowles auctorisshed by my
-lord of London." <span id="fr_700"></span>[3](#fn_698)
+lord of London." <span id="fr_700"></span>[3](#fn_698.md)
 
 <span id="page_310">p. 310</span>
 
    In the "Taming of the Shrew," (ind., sc. 2), Sly asks whether "a
-comonty <span id="fr_701"></span>[1](#fn_699) is not a Christmas
+comonty <span id="fr_701"></span>[1](#fn_699.md) is not a Christmas
 gambol." Formerly the sports and merry-makings at this season were on a
 most extensive scale, being presided over by the "Lord of
-Misrule." <span id="fr_702"></span>[2](#fn_700) Again, in "Love's
+Misrule." <span id="fr_702"></span>[2](#fn_700.md) Again, in "Love's
 Labour's Lost," (v. 2), Biron speaks of "A Christmas Comedy."
 
    As we have noticed, too, in our chapter on plants, a gilt nutmeg was
@@ -1690,7 +1690,7 @@ Hamlet (i. 4) says—
 <div style="margin-left: 32px">
 
 <span class="small">"The king doth wake to-night, and takes his
-rouse, <span id="fr_703"></span>[3](#fn_701)  
+rouse, <span id="fr_703"></span>[3](#fn_701.md)  
  Keeps wassail."</span>
 
 </div>
@@ -1718,7 +1718,7 @@ intemperance, who, speaking of Duncan's two chamberlains, says—
 
    In "Antony and Cleopatra" (i. 4), Cæsar advises Antony to live more
 temperately, and to leave his "lascivious wassails." <span
-id="fr_704"></span>[4](#fn_702)
+id="fr_704"></span>[4](#fn_702.md)
 
    In the same way a "wassail candle" denoted a large
 
@@ -1738,7 +1738,7 @@ burnt out.
    A custom which formerly prevailed at Christmas, and has not yet died
 out, was for mummers to go from house to house attired in grotesque
 attire, performing all kind of odd antics. <span
-id="fr_705"></span>[1](#fn_703) Their performances, however, were not
+id="fr_705"></span>[1](#fn_703.md) Their performances, however, were not
 confined to this season. Thus, in "Coriolanus" (ii. 1) Menenius speaks
 of making "faces like mummers."
 
@@ -1757,7 +1757,7 @@ the church was strewed with rushes and flowers, and in the churchyard
 tents were erected to supply cakes and ale for the use of the
 merrymakers on the following day, which was kept as a holiday. They are
 still kept up in many parishes, but in a very different manner. <span
-id="fr_706"></span>[2](#fn_704) In "King Lear" (iii. 6), Edgar
+id="fr_706"></span>[2](#fn_704) In "King Lear" (iii. 6.md), Edgar
 says—"Come, march to wakes and fairs, and market towns." We may also
 compare "Love's Labour's Lost" (v. 2), and "Winter's Tale" (iv. 2). In
 "Hamlet" (i. 4), it is used in the sense of revel.
@@ -1766,157 +1766,157 @@ compare "Love's Labour's Lost" (v. 2), and "Winter's Tale" (iv. 2). In
 
 ### Footnotes
 
-<span id="fn_641"></span>[279:1](flos13.htm#fr_643) The "England of
+<span id="fn_641"></span>[279:1](flos13.htm#fr_643.md) The "England of
 Shakespeare," E. Goadby, 1881, p. 153.
 
-<span id="fn_642"></span>[279:2](flos13.htm#fr_644) "Critical Essays on
+<span id="fn_642"></span>[279:2](flos13.htm#fr_644.md) "Critical Essays on
 the Plays of Shakespeare," 1875, p. 145; see Singer's "Shakespeare" iii.
 pp 347, 348.
 
-<span id="fn_643"></span>[280:1](flos13.htm#fr_645) See "British Popular
+<span id="fn_643"></span>[280:1](flos13.htm#fr_645.md) See "British Popular
 Customs," p. 473.
 
-<span id="fn_644"></span>[280:2](flos13.htm#fr_646) "Notes and Queries,"
+<span id="fn_644"></span>[280:2](flos13.htm#fr_646.md) "Notes and Queries,"
 6th S. i. p. 129.
 
-<span id="fn_645"></span>[281:1](flos13.htm#fr_647) Cf. "As you Like It"
+<span id="fn_645"></span>[281:1](flos13.htm#fr_647.md) Cf. "As you Like It"
 (i. 2). Touchstone alludes to a "certain knight that swore by his honour
 they were good pancakes."
 
-<span id="fn_646"></span>[281:2](flos13.htm#fr_648) See Hone's "Every
+<span id="fn_646"></span>[281:2](flos13.htm#fr_648.md) See Hone's "Every
 Day Book," 1836, i. p. 258; "Book of Days," i. p. 239; see also Dekker's
 "Seven Deadly Sins," 1606, p. 35; "British Popular Customs," pp. 62–91.
 
-<span id="fn_647"></span>[282:1](flos13.htm#fr_649) "Notes and Queries,"
+<span id="fn_647"></span>[282:1](flos13.htm#fr_649.md) "Notes and Queries,"
 1st Series, xii. p. 297.
 
-<span id="fn_648"></span>[282:2](flos13.htm#fr_650) See Nares’
+<span id="fn_648"></span>[282:2](flos13.htm#fr_650.md) See Nares’
 "Glossary," i. p. 443; Brand's "Pop. Antiq.," 1849, i. p. 101. Taylor,
 the Water-Poet, has a tract entitled "Jack-a-Lent, his Beginning and
 Entertainment, with the mad Prankes of Gentlemen-Usher, Shrove Tuesday."
 
-<span id="fn_649"></span>[282:3](flos13.htm#fr_651) Singer's
+<span id="fn_649"></span>[282:3](flos13.htm#fr_651.md) Singer's
 "Shakespeare," v i. p. 219.
 
-<span id="fn_650"></span>[284:1](flos13.htm#fr_652) "Notes and Queries,"
+<span id="fn_650"></span>[284:1](flos13.htm#fr_652.md) "Notes and Queries,"
 4th S., v. p. 595.
 
-<span id="fn_651"></span>[284:2](flos13.htm#fr_653) See Singer's
+<span id="fn_651"></span>[284:2](flos13.htm#fr_653.md) See Singer's
 "Shakespeare," i. p. 362. Nares’ "Glossary," i. p. 164. Brand's "Pop.
 Antiq." 1849, iii. p. 94.
 
-<span id="fn_652"></span>[285:1](flos13.htm#fr_654) See Hone's "Every
+<span id="fn_652"></span>[285:1](flos13.htm#fr_654.md) See Hone's "Every
 Day Book" i. p. 318; "British Popular Customs" pp. 110–113.
 
-<span id="fn_653"></span>[286:1](flos13.htm#fr_655) St Patrick rids
+<span id="fn_653"></span>[286:1](flos13.htm#fr_655.md) St Patrick rids
 Ireland of snakes, see p. 242.
 
-<span id="fn_654"></span>[286:2](flos13.htm#fr_656) Singer's
+<span id="fn_654"></span>[286:2](flos13.htm#fr_656.md) Singer's
 "Shakespeare," 1870, ix. p. 168.
 
-<span id="fn_655"></span>[286:3](flos13.htm#fr_657) Cf. "Henry V.," v.
+<span id="fn_655"></span>[286:3](flos13.htm#fr_657.md) Cf. "Henry V.," v.
 2; "3 Henry VI.," ii. i, 2; "Taming of the Shrew," ii. i; "Richard II.,"
 i. 3.
 
-<span id="fn_656"></span>[286:4](flos13.htm#fr_658) Cited by Warton in a
+<span id="fn_656"></span>[286:4](flos13.htm#fr_658.md) Cited by Warton in a
 note on "Richard III.," v. 3.
 
-<span id="fn_657"></span>[287:1](flos13.htm#fr_659) Hotten's "History of
+<span id="fn_657"></span>[287:1](flos13.htm#fr_659.md) Hotten's "History of
 Sign Boards," 1866, 3rd edition, p. 287.
 
-<span id="fn_658"></span>[287:2](flos13.htm#fr_660) Cf. "Twelfth Night"
+<span id="fn_658"></span>[287:2](flos13.htm#fr_660.md) Cf. "Twelfth Night"
 (iii. 4)—"More matter for a May morning."
 
-<span id="fn_659"></span>[288:1](flos13.htm#fr_661) "Book of Days," i.
+<span id="fn_659"></span>[288:1](flos13.htm#fr_661.md) "Book of Days," i.
 p. 575; see "British Popular Customs," pp. 228–230, 249.
 
-<span id="fn_660"></span>[289:1](flos13.htm#fr_662) See Brand's "Pop.
+<span id="fn_660"></span>[289:1](flos13.htm#fr_662.md) See Brand's "Pop.
 Antiq.," i. pp. 247–270; "Book of Days," i. pp. 630–633.
 
-<span id="fn_661"></span>[290:1](flos13.htm#fr_663) Nares’ "Glossary,"
+<span id="fn_661"></span>[290:1](flos13.htm#fr_663.md) Nares’ "Glossary,"
 ii. p. 550.
 
-<span id="fn_662"></span>[291:1](flos13.htm#fr_664) See Drake's
+<span id="fn_662"></span>[291:1](flos13.htm#fr_664.md) See Drake's
 "Shakspeare and his Times," 1817, i. p. 163.
 
-<span id="fn_663"></span>[292:1](flos13.htm#fr_665) "Encyclopædia of
+<span id="fn_663"></span>[292:1](flos13.htm#fr_665.md) "Encyclopædia of
 Antiquities," 1843, ii. p. 653.
 
-<span id="fn_664"></span>[293:1](flos13.htm#fr_666) See "British Popular
+<span id="fn_664"></span>[293:1](flos13.htm#fr_666.md) See "British Popular
 Customs," p. 278; Brand's "Popular Antiquities," 1849, i. p. 276.
 
-<span id="fn_665"></span>[294:1](flos13.htm#fr_667) According to the
+<span id="fn_665"></span>[294:1](flos13.htm#fr_667.md) According to the
 crusaders and the old romance writers a Saracen deity.—See Singer's
 "Shakespeare," ix. p. 214.
 
-<span id="fn_666"></span>[295:1](flos13.htm#fr_668) See Dyce's
+<span id="fn_666"></span>[295:1](flos13.htm#fr_668.md) See Dyce's
 "Glossary," p. 482.
 
-<span id="fn_667"></span>[296:1](flos13.htm#fr_669) "Sports and
+<span id="fn_667"></span>[296:1](flos13.htm#fr_669.md) "Sports and
 Pastimes," 1876, pp. 25–28; see Warton's "History of English Poetry,"
 ii. p. 202.
 
-<span id="fn_668"></span>[296:2](flos13.htm#fr_670) "Illustrations of
+<span id="fn_668"></span>[296:2](flos13.htm#fr_670.md) "Illustrations of
 Shakespeare," p. 154.
 
-<span id="fn_669"></span>[297:1](flos13.htm#fr_671) Staunton's
+<span id="fn_669"></span>[297:1](flos13.htm#fr_671.md) Staunton's
 "Shakespeare," 1864, i. pp. 147, 148.
 
-<span id="fn_670"></span>[297:2](flos13.htm#fr_672) See "Book of Days,"
+<span id="fn_670"></span>[297:2](flos13.htm#fr_672.md) See "Book of Days,"
 i. p. 712.
 
-<span id="fn_671"></span>[297:3](flos13.htm#fr_673) See Singer's
+<span id="fn_671"></span>[297:3](flos13.htm#fr_673.md) See Singer's
 "Shakespeare," v. p. 206.
 
-<span id="fn_672"></span>[297:4](flos13.htm#fr_674) See Nares’
+<span id="fn_672"></span>[297:4](flos13.htm#fr_674.md) See Nares’
 "Glossary," ii. p. 506.
 
-<span id="fn_673"></span>[298:1](flos13.htm#fr_675) See Nichol's
+<span id="fn_673"></span>[298:1](flos13.htm#fr_675.md) See Nichol's
 "Collection of Poems," 1780, iii. p. 204.
 
-<span id="fn_674"></span>[298:2](flos13.htm#fr_676) See Knight's "Life
+<span id="fn_674"></span>[298:2](flos13.htm#fr_676.md) See Knight's "Life
 of Shakespeare," 1845, p. 71; Howitt's "Pictorial Calendar of the
 Seasons," 1854, pp. 254–267.
 
-<span id="fn_675"></span>[298:3](flos13.htm#fr_677) "Polyolbion," song
+<span id="fn_675"></span>[298:3](flos13.htm#fr_677.md) "Polyolbion," song
 14, see Brand's "Popular Antiquities," 1849, ii. p. 34; Timbs’ "A
 Garland for the Year," pp. 74, 75.
 
-<span id="fn_676"></span>[298:4](flos13.htm#fr_678) Introduction to the
+<span id="fn_676"></span>[298:4](flos13.htm#fr_678.md) Introduction to the
 "Leopold Shakspere," p. xci.
 
-<span id="fn_677"></span>[299:1](flos13.htm#fr_679) "Book of Days," i.
+<span id="fn_677"></span>[299:1](flos13.htm#fr_679.md) "Book of Days," i.
 p. 816. See Brand's "Pop. Antiq.," i. p. 314; Soane's "Book of the
 Months."
 
-<span id="fn_678"></span>[300:1](flos13.htm#fr_680) See Brand's "Pop.
+<span id="fn_678"></span>[300:1](flos13.htm#fr_680.md) See Brand's "Pop.
 Antiq.," 1849, 1. pp. 336–337
 
-<span id="fn_679"></span>[301:1](flos13.htm#fr_681) See "British Popular
+<span id="fn_679"></span>[301:1](flos13.htm#fr_681.md) See "British Popular
 Customs," pp. 347–351.
 
-<span id="fn_680"></span>[301:2](flos13.htm#fr_682) Douglas's
+<span id="fn_680"></span>[301:2](flos13.htm#fr_682.md) Douglas's
 "Criterion," p. 68, cited by Ritson. See Douce's "Illustrations of
 Shakespeare," p. 475.
 
-<span id="fn_681"></span>[301:3](flos13.htm#fr_683) This is perhaps a
+<span id="fn_681"></span>[301:3](flos13.htm#fr_683.md) This is perhaps a
 corrupt abbreviation of "By Jesus." Some would read "By Cis," and
 understand by it "St Cicely."
 
-<span id="fn_682"></span>[302:1](flos13.htm#fr_684) See Nares’
+<span id="fn_682"></span>[302:1](flos13.htm#fr_684.md) See Nares’
 "Glossary," i. p. 57; Morley's "Memoirs of Bartholomew Fair," 1859.
 
-<span id="fn_683"></span>[303:1](flos13.htm#fr_685) "Illustrations of
+<span id="fn_683"></span>[303:1](flos13.htm#fr_685.md) "Illustrations of
 Shakespeare," p. 21.
 
-<span id="fn_684"></span>[303:2](flos13.htm#fr_686) Dyce's "Glossary,"
+<span id="fn_684"></span>[303:2](flos13.htm#fr_686.md) Dyce's "Glossary,"
 p. 47; Douce has given a representation of this instrument of torture
 from Millceus's "Praxis Criminis Persequendi," Paris, 1541.
 
-<span id="fn_685"></span>[303:3](flos13.htm#fr_687) "Glossary," i. p.
+<span id="fn_685"></span>[303:3](flos13.htm#fr_687.md) "Glossary," i. p.
 95.
 
-<span id="fn_686"></span>[303:4](flos13.htm#fr_688) Cf., "1 Henry IV."
+<span id="fn_686"></span>[303:4](flos13.htm#fr_688.md) Cf., "1 Henry IV."
 (i. 3)—
 
 <div style="margin-left: 32px">
@@ -1926,66 +1926,66 @@ from Millceus's "Praxis Criminis Persequendi," Paris, 1541.
 
 </div>
 
-<span id="fn_687"></span>[304:1](flos13.htm#fr_689) See Brand's "Pop.
+<span id="fn_687"></span>[304:1](flos13.htm#fr_689.md) See Brand's "Pop.
 Antiq.," 1849, ii. pp. 16–33.
 
-<span id="fn_688"></span>[304:2](flos13.htm#fr_690) See "British Pop.
+<span id="fn_688"></span>[304:2](flos13.htm#fr_690.md) See "British Pop.
 Customs," pp. 372, 373. In Lincolnshire this day is called
 "Hally-Loo-Day."
 
-<span id="fn_689"></span>[304:3](flos13.htm#fr_691) See Butler's "Lives
+<span id="fn_689"></span>[304:3](flos13.htm#fr_691.md) See Butler's "Lives
 of the Saints."
 
-<span id="fn_690"></span>[305:1](flos13.htm#fr_692) See Nares's
+<span id="fn_690"></span>[305:1](flos13.htm#fr_692.md) See Nares's
 "Glossary," ii. p. 868; Brady's "Clavis Calendaria."
 
-<span id="fn_691"></span>[305:2](flos13.htm#fr_693) Nich Harpsfield,
+<span id="fn_691"></span>[305:2](flos13.htm#fr_693.md) Nich Harpsfield,
 "Hist. Eccl. Anglicana," p. 86.
 
-<span id="fn_692"></span>[306:1](flos13.htm#fr_694) See "British Popular
+<span id="fn_692"></span>[306:1](flos13.htm#fr_694.md) See "British Popular
 Customs," p. 404.
 
-<span id="fn_693"></span>[307:1](flos13.htm#fr_695) Puling, or singing
+<span id="fn_693"></span>[307:1](flos13.htm#fr_695.md) Puling, or singing
 small, as Bailey explains the word.
 
-<span id="fn_694"></span>[307:2](flos13.htm#fr_696) See Swainson's
+<span id="fn_694"></span>[307:2](flos13.htm#fr_696.md) See Swainson's
 "Weather Lore," 1873, pp. 141–143.
 
-<span id="fn_695"></span>[307:3](flos13.htm#fr_697) See "British Popular
+<span id="fn_695"></span>[307:3](flos13.htm#fr_697.md) See "British Popular
 Customs," p. 409.
 
-<span id="fn_696"></span>[309:1](flos13.htm#fr_698) See Douce's
+<span id="fn_696"></span>[309:1](flos13.htm#fr_698.md) See Douce's
 "Illustrations of Shakspeare," p. 25; "The Church of Our Fathers," by D.
 Rock, 1853, iii. p. 215; "Gent. Mag.," 1777, xliii. p. 158; see Nares's
 "Glossary," ii. pp. 601–2; Brady's "Clavis Calendaria."
 
-<span id="fn_697"></span>[309:2](flos13.htm#fr_699) Drake's "Shakspeare
+<span id="fn_697"></span>[309:2](flos13.htm#fr_699.md) Drake's "Shakspeare
 and his Times," i. p. 198.
 
-<span id="fn_698"></span>[309:3](flos13.htm#fr_700) See Sandy's
+<span id="fn_698"></span>[309:3](flos13.htm#fr_700.md) See Sandy's
 "Christmastide, its History, Festivities, and Carols;" also "Athenæum,"
 Dec. 20, 1856.
 
-<span id="fn_699"></span>[310:1](flos13.htm#fr_701) His blunder for
+<span id="fn_699"></span>[310:1](flos13.htm#fr_701.md) His blunder for
 Comedy.
 
-<span id="fn_700"></span>[310:2](flos13.htm#fr_702) See "British Popular
+<span id="fn_700"></span>[310:2](flos13.htm#fr_702.md) See "British Popular
 Customs," 1876, pp. 459, 463; Nares's "Glossary," ii. p. 943;
 "Antiquarian Repertory," i. p. 218.
 
-<span id="fn_701"></span>[310:3](flos13.htm#fr_703) This was a deep
+<span id="fn_701"></span>[310:3](flos13.htm#fr_703.md) This was a deep
 draught to the health of anyone, in which it was customary to empty the
 glass or vessel.
 
-<span id="fn_702"></span>[310:4](flos13.htm#fr_704) See Douce's
+<span id="fn_702"></span>[310:4](flos13.htm#fr_704.md) See Douce's
 "Illustrations of Shakspeare," 1839, pp. 441–449.
 
-<span id="fn_703"></span>[311:1](flos13.htm#fr_705) See "British Popular
+<span id="fn_703"></span>[311:1](flos13.htm#fr_705.md) See "British Popular
 Customs," pp. 461, 469, 478, 480.
 
-<span id="fn_704"></span>[311:2](flos13.htm#fr_706) See Brand's "Pop.
+<span id="fn_704"></span>[311:2](flos13.htm#fr_706.md) See Brand's "Pop.
 Antiq.," 1849, i. pp. 1–15.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Birth and Baptism](flos14)
+[Next: Chapter XII. Birth and Baptism](flos14.md)

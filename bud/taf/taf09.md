@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf08)  [Next](taf10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf08)  [Next](taf10.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,16 +21,16 @@ probable occurrence.
 
 <span id="page_25">p. 25</span>
 
-According to Târanâtha <span id="fr_43"></span>[1](#fn_43) Âryadeva, the
+According to Târanâtha <span id="fr_43"></span>[1](#fn_43.md) Âryadeva, the
 most eminent disciple of Nâgârjuna, defeated and proselyted
-Açvaghosha, <span id="fr_44"></span>[2](#fn_44) not by his usual
+Açvaghosha, <span id="fr_44"></span>[2](#fn_44.md) not by his usual
 subtlety in dialectics, but by the superiority of his magical arts.
 Açvaghosha made use of every tantric formula he could command, in order
 to free himself from the enchantment in which he was held by his enemy,
 but all to no purpose whatever. Thus when he was in an utterly desperate
 condition, he happened to read the Buddhist Sûtra which was kept in his
 place of confinement and in which he found his destiny prophesied by
-Buddha, <span id="fr_45"></span>[3](#fn_45) he was seized with deep
+Buddha, <span id="fr_45"></span>[3](#fn_45.md) he was seized with deep
 regret for his former hostile attitude toward the Dharma, and
 immediately renouncing his tîrthakism, professed the doctrine of
 Çâkyamuni.
@@ -42,7 +42,7 @@ Chinese records are worth crediting, though they are not unanimous as to
 how the conversion took place and who was the proselytist.
 
 According to the *Life of Açvaghosha*, Parçva <span
-id="fr_46"></span>[4](#fn_46) was
+id="fr_46"></span>[4](#fn_46.md) was
 
 <span id="page_26">p. 26</span>
 
@@ -79,7 +79,7 @@ subject of your argument, I shall completely baffle you.'
 "The Sthavira Parçva then said: 'What shall we have to do, in order to
 keep the kingdom in perfect peace, to have the king live long, to let
 the people enjoy abundance and prosperity, all free from evils and
-[catastrophes](errata.htm#5)?' The tîrthaka was silent, not knowing what
+[catastrophes](errata.htm#5.md)?' The tîrthaka was silent, not knowing what
 to reply. As now according to the rule of discussion one who could not
 make a response is defeated, Açvaghosha was obliged to bow \[before the
 opponent\] as a disciple of his. He had his head shaved, was converted
@@ -159,7 +159,7 @@ out his tongue in acknowledgement of the defeat. But Puṇyayaças stopped
 him, saying: 'We teach a doctrine of love and compassion, and do not
 demand that you cut out your tongue. Have your head shaved instead and
 be my disciple.' Açvaghosha thus converted was made a çrâmana by
-Puṇyayaças. <span id="fr_47"></span>[1](#fn_47)
+Puṇyayaças. <span id="fr_47"></span>[1](#fn_47.md)
 
 "But Açvaghosha who felt extremely ashamed of his \[former\]
 self-assumption was thinking of attempting his own life. Puṇyayaças,
@@ -181,7 +181,7 @@ till he felt utterly exhausted, for the mysterious light suffered no
 change whatever. Finally coming to realise that it was the work of no
 other person than his teacher, his spirit was filled with remorse, and
 he thenceforth applied himself diligently to religious discipline and
-never relapsed." <span id="fr_48"></span>[1](#fn_48)
+never relapsed." <span id="fr_48"></span>[1](#fn_48.md)
 
 The *Record of Buddha and the Patriarchs* (*Fo tsou lung tsai*) agrees
 with the *Transmission of the Dharma-pitaka* (*Fu fa tsang chuan*) in
@@ -207,7 +207,7 @@ justified when we notice that Açvaghosha in the *Book of Great Glory*
 pays his homage to Parçva as well as to Puṇyayaças.
 
 Now by way of a supplementary note to the above, let us say a word about
-Wassiljew's observation, <span id="fr_49"></span>[1](#fn_49) which
+Wassiljew's observation, <span id="fr_49"></span>[1](#fn_49.md) which
 states that while Hînayânists or Çrâvakas ascribe the conversion of
 Açvaghosha to Parçva, the Mahâyânistic record says that Âryadeva
 converted him. This assertion is evidently incorrect, for the *Life of
@@ -224,16 +224,16 @@ everything Chinese for Hînayânistic.
 
 ### Footnotes
 
-<span id="fn_43"></span>[25:1](taf09.htm#fr_43) *Geschichte des
+<span id="fn_43"></span>[25:1](taf09.htm#fr_43.md) *Geschichte des
 Buddhismus*, German translation by Schiefner, pp. 94-85.
 
-<span id="fn_44"></span>[25:2](taf09.htm#fr_44) He is mentioned there by
+<span id="fn_44"></span>[25:2](taf09.htm#fr_44.md) He is mentioned there by
 the name of Durdarshakâla.
 
-<span id="fn_45"></span>[25:3](taf09.htm#fr_45) Cf. this with the
+<span id="fn_45"></span>[25:3](taf09.htm#fr_45.md) Cf. this with the
 accounts of Mâtṛceṭa-Açvaghosha told in I-tsing.
 
-<span id="fn_46"></span>[25:4](taf09.htm#fr_46) The conversion of
+<span id="fn_46"></span>[25:4](taf09.htm#fr_46.md) The conversion of
 Açvaghosha by Parçva as here stated may be considered an addition to the
 proof already demonstrated for the contemporaneousness of Açvaghosha and
 King Kanishka; for <span id="page_26">p. 26</span> Parçva, according to
@@ -241,20 +241,20 @@ the Tibetan as well as the Chinese authority, was a co-operator at
 least, if not the president, of the third Buddhist convocation promoted
 by the King of Kashmir.
 
-<span id="fn_47"></span>[30:1](taf09.htm#fr_47) The reasoning is
+<span id="fn_47"></span>[30:1](taf09.htm#fr_47.md) The reasoning is
 somewhat unintelligible. The passages must be defective, and although I
 might venture to supply the necessary words to make them more logical
 and intelligible to the general reader who is not acquainted with the
 *çûnyatâ* philosophy. I have not tried to do so, thinking that it is
 enough here if we see in what the subject of the discussion consisted.
 
-<span id="fn_48"></span>[31:1](taf09.htm#fr_48) *The Transmission of the
+<span id="fn_48"></span>[31:1](taf09.htm#fr_48.md) *The Transmission of the
 Dharmapitaka* (*Fu fa tsang chuan*) *fas*. 5.
 
-<span id="fn_49"></span>[32:1](taf09.htm#fr_49) *Buddhismus*, German
+<span id="fn_49"></span>[32:1](taf09.htm#fr_49.md) *Buddhismus*, German
 edition, p. 222, and also see Târanâtha, translated by Schiefner, p.
 311.
 
 ------------------------------------------------------------------------
 
-[Next: Lists of Patriarchs](taf10)
+[Next: Lists of Patriarchs](taf10.md)

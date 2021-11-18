@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio31)  [Next](dio33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio31)  [Next](dio33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,16 +24,16 @@ Therapeutes. About minding ones own business, and kindness.*
 <span id="ii.iv.ii.viii-p3"></span>The histories of the Hebrews say, O
 noble Demophilus, that, even that holy, distinguished Moses was deemed
 worthy of the Divine manifestation on account of his great
-meekness <span id="fr_84"></span>[85](#fn_84) . And, if at any time they
+meekness <span id="fr_84"></span>[85](#fn_84.md) . And, if at any time they
 describe him as being excluded from the vision <span
-id="fr_85"></span>[86](#fn_85) of God, they do not cast him out from God
+id="fr_85"></span>[86](#fn_85.md) of God, they do not cast him out from God
 for his meekness. But they say that when speaking very rashly, and
 opposing the Divine Counsels, Jehovah was angry with him with wrath. But
 when they make him proclaimed by his God-discerned deserts, he is
 proclaimed, from his pre-eminent imitation of the Good. For he was very
 meek, and on this account is called "Servant of God," and deemed more
 fit for vision of God than all Prophets. Now, when certain envious <span
-id="fr_86"></span>[87](#fn_86) people were contending with him and
+id="fr_86"></span>[87](#fn_86.md) people were contending with him and
 Aaron, about the High Priesthood and government of the tribes, he was
 superior to all love of honour, and love of rule, and referred the
 presidency over the people to the Divine judgment. And, when they even
@@ -45,33 +45,33 @@ would be guiltless of all evils to the governed. For he knew that it is
 necessary, that the familiar with God the Good should be moulded, as far
 as is attainable, to that which is specially most like the Good, and
 should be conscious within himself of the performance of deeds of good
-friendship. And what made David <span id="fr_87"></span>[88](#fn_87) ,
+friendship. And what made David <span id="fr_87"></span>[88](#fn_87.md) ,
 the father of God, a friend of God? Even for being good and generous
-towards enemies <span id="fr_88"></span>[89](#fn_88) . The Super-Good,
+towards enemies <span id="fr_88"></span>[89](#fn_88.md) . The Super-Good,
 and the Friend of Good says--"I have found a man after mine own heart."
 Further also, a generous injunction was given, to care for even one’s
-enemy’s beasts of burden <span id="fr_89"></span>[90](#fn_89) . And
-Job <span id="fr_90"></span>[91](#fn_90) was pronounced just, as being
-free from injury. And Joseph <span id="fr_91"></span>[92](#fn_91) did
+enemy’s beasts of burden <span id="fr_89"></span>[90](#fn_89.md) . And
+Job <span id="fr_90"></span>[91](#fn_90.md) was pronounced just, as being
+free from injury. And Joseph <span id="fr_91"></span>[92](#fn_91.md) did
 not take revenge upon the brethren who had plotted against him; and
 Abel, at once, and without suspicion, accompanied the fratricide. And
 the Word of God proclaims all the good as not devising evil things <span
-id="fr_92"></span>[93](#fn_92) , not doing them <span
-id="fr_93"></span>[94](#fn_93) , but neither being changed from the
-good, by the baseness of others <span id="fr_94"></span>[95](#fn_94) ,
+id="fr_92"></span>[93](#fn_92.md) , not doing them <span
+id="fr_93"></span>[94](#fn_93.md) , but neither being changed from the
+good, by the baseness of others <span id="fr_94"></span>[95](#fn_94.md) ,
 but, on the contrary, after the example of God <span
-id="fr_95"></span>[96](#fn_95) , as doing good to, and throwing their
+id="fr_95"></span>[96](#fn_95.md) , as doing good to, and throwing their
 shield over the evil; and generously calling them to their own abundant
 goodness, and to their own similitude. But let us ascend higher, not
 proclaiming the gentleness of holy men, nor kindness of philanthropic
 angels, who take compassion upon nations, and invoke good <span
-id="fr_96"></span>[97](#fn_96) on their behalf, and punish the <span
+id="fr_96"></span>[97](#fn_96.md) on their behalf, and punish the <span
 id="page_152">p. 152</span> <span id="ii.iv.ii.viii-Page_152"></span>
 destructive and devastating mobs, and, whilst being grieved over
 calamities, yet rejoice over the safety of those who are being called
-back to things good <span id="fr_97"></span>[98](#fn_97) ; nor whatever
+back to things good <span id="fr_97"></span>[98](#fn_97.md) ; nor whatever
 else the Word of God teaches concerning the beneficent angels <span
-id="fr_98"></span>[99](#fn_98) ; but, whilst in silence welcoming the
+id="fr_98"></span>[99](#fn_98.md) ; but, whilst in silence welcoming the
 beneficent rays of the really good and super-good Christ, by them let us
 be lighted on our path, to His Divine works of Goodness. For assuredly
 is it not of a Goodness inexpressible and beyond conception, that He
@@ -79,12 +79,12 @@ makes all things existing to be, and brought all things themselves to
 being, and wishes all things ever to become near to Himself, and
 participants of Himself, according to the aptitude of each? And why?
 Because He clings lovingly to those who even depart from Him, and
-strives <span id="fr_99"></span>[100](#fn_99) and beseeches not to be
+strives <span id="fr_99"></span>[100](#fn_99.md) and beseeches not to be
 disowned by those beloved who are themselves coy; and He bears with
 those who heedlessly reproach Him <span
-id="fr_100"></span>[101](#fn_100) , and Himself makes excuse for them,
+id="fr_100"></span>[101](#fn_100.md) , and Himself makes excuse for them,
 and further promises to serve them, and runs towards and meets <span
-id="fr_101"></span>[102](#fn_101) even those who hold themselves aloof,
+id="fr_101"></span>[102](#fn_101.md) even those who hold themselves aloof,
 immediately that they approach; and when His entire self has embraced
 their entire selves, He kisses them, and does not reproach them for
 former things, but rejoices over the present, and holds a feast, and
@@ -98,7 +98,7 @@ life of those who are dead." And, as a matter of course, He raises upon
 His shoulders that which with difficulty has been turned from error, and
 summons the good angels to rejoicing, and is generous to the unthankful,
 and makes His sun to rise upon evil and good, and presents His very
-soul <span id="fr_102"></span>[103](#fn_102) as an offering on behalf of
+soul <span id="fr_102"></span>[103](#fn_102.md) as an offering on behalf of
 those who are fleeing from Him.
 
 <span id="ii.iv.ii.viii-p4"></span>But thou, as thy letters testify, I
@@ -123,13 +123,13 @@ thing forbidden. For, if want of order, and want of regulation, is a
 departure from the most Divine institutions and decrees, it is not
 reasonable that the divinely transmitted order should be changed on
 God’s behalf. For Almighty God is not divided against Himself, for, "how
-then shall His kingdom stand <span id="fr_103"></span>[104](#fn_103) ?"
+then shall His kingdom stand <span id="fr_103"></span>[104](#fn_103.md) ?"
 And if the judgment is of God, as the Oracles affirm <span
-id="fr_104"></span>[105](#fn_104) , and the priests are angels and
+id="fr_104"></span>[105](#fn_104.md) , and the priests are angels and
 interpreters, after the hierarchs, of the Divine judgments, learn from
 them through whom thou wast deemed worthy to be a Therapeutes, through
 the intermediate Leitourgoi, when opportunity serves, the things Divine
-suitable for thyself <span id="fr_105"></span>[106](#fn_105) . And do
+suitable for thyself <span id="fr_105"></span>[106](#fn_105.md) . And do
 not the Divine Symbols proclaim this, for is not the Holy of holies
 altogether simply separated from all, and the order of the consecrators
 is in closer proximity to it than the rank of the priests, and following
@@ -162,39 +162,39 @@ what concerns the affairs of the meek and good, and his hierarchical
 jurisdiction. We are bound to say these things, when any one undertakes
 what is above his rank, and at the same time thinks that he acts
 properly. For this is not within the powers of any one. For what was
-Ozias <span id="fr_106"></span>[107](#fn_106) doing out of place, when
+Ozias <span id="fr_106"></span>[107](#fn_106.md) doing out of place, when
 offering incense to Almighty God? and what Saul <span
-id="fr_107"></span>[108](#fn_107) in sacrificing? <span id="page_156">p.
+id="fr_107"></span>[108](#fn_107.md) in sacrificing? <span id="page_156">p.
 156</span> <span id="ii.iv.ii.viii-Page_156"></span>
 
 <span id="ii.iv.ii.viii-p6"></span>Yea, further, what were those
-domineering demons <span id="fr_108"></span>[109](#fn_108) , who were
+domineering demons <span id="fr_108"></span>[109](#fn_108.md) , who were
 truly proclaiming the Lord Jesus God? But every one who meddles with
 other people’s business, is outlawed by the Word of God; and each one
 shall be in the rank of his own service, and alone the High Priest <span
-id="fr_109"></span>[110](#fn_109) shall enter into the Holy of holies,
+id="fr_109"></span>[110](#fn_109.md) shall enter into the Holy of holies,
 and once only throughout the year <span
-id="fr_110"></span>[111](#fn_110) , and this in the full legal
-hierarchical purification <span id="fr_111"></span>[112](#fn_111) . And
-the priests <span id="fr_112"></span>[113](#fn_112) encompass the holy
+id="fr_110"></span>[111](#fn_110.md) , and this in the full legal
+hierarchical purification <span id="fr_111"></span>[112](#fn_111.md) . And
+the priests <span id="fr_112"></span>[113](#fn_112.md) encompass the holy
 things, and the Levites must not touch the holy things, lest they die.
 And Jehovah was angry with wrath at the rashness of Ozias, and
-Mariam <span id="fr_113"></span>[114](#fn_113) becomes leprous, because
+Mariam <span id="fr_113"></span>[114](#fn_113.md) becomes leprous, because
 she had presumed to lay down laws for the lawgiver. And the demons
 fastened on the sons of Sceva, and He says, "I did not send them, yet
 they ran, and I spake not to them yet they prophesied <span
-id="fr_114"></span>[115](#fn_114) ." "And the profane <span
-id="fr_115"></span>[116](#fn_115) who sacrifices to me a calf, (is) as
+id="fr_114"></span>[115](#fn_114.md) ." "And the profane <span
+id="fr_115"></span>[116](#fn_115) who sacrifices to me a calf, (is.md) as
 he who slays a dog," and to speak briefly, the all-perfect justice of
 Almighty God does not tolerate the disregarders of law, but whilst they
-are saying "in Thy <span id="fr_116"></span>[117](#fn_116) Name, we
+are saying "in Thy <span id="fr_116"></span>[117](#fn_116.md) Name, we
 ourselves did many wonderful works," He retorts, "And I know you not; go
 from Me all ye workers of lawlessness." So that it is not permissible,
 as the holy Oracles say, even to pursue things that are just, when not
-according to order <span id="fr_117"></span>[118](#fn_117) , but each
-must keep to himself <span id="fr_118"></span>[119](#fn_118) , and not
+according to order <span id="fr_117"></span>[118](#fn_117.md) , but each
+must keep to himself <span id="fr_118"></span>[119](#fn_118.md) , and not
 meditate things too high and too deep for him <span
-id="fr_119"></span>[120](#fn_119) , but <span id="page_157">p.
+id="fr_119"></span>[120](#fn_119.md) , but <span id="page_157">p.
 157</span> <span id="ii.iv.ii.viii-Page_157"></span> contemplate alone
 things prescribed for him according to order.
 
@@ -204,14 +204,14 @@ things prescribed for him according to order.
 necessary to correct the priests who are acting irreverently, or
 convicted of something else out of place, but to those only, who glory
 in law, shall it be permitted to dishonour Almighty God <span
-id="fr_120"></span>[121](#fn_120) , through the transgression of the
+id="fr_120"></span>[121](#fn_120.md) , through the transgression of the
 Law? "And how are the priests interpreters <span
-id="fr_121"></span>[122](#fn_121) of Almighty God? For, how do they
+id="fr_121"></span>[122](#fn_121.md) of Almighty God? For, how do they
 announce to the people the Divine virtues, who do not know the power of
 them? or how do they, who are in darkness <span
-id="fr_122"></span>[123](#fn_122) , communicate light? Further, how do
+id="fr_122"></span>[123](#fn_122.md) , communicate light? Further, how do
 they impart the Divine Spirit, who, by habit and truth do not believe
-whether there is a Holy Spirit <span id="fr_123"></span>[124](#fn_123) ?
+whether there is a Holy Spirit <span id="fr_123"></span>[124](#fn_123.md) ?
 Now I will give thee an answer to these things. For truly my Demophilus
 is not an enemy, nor will I tolerate that thou shouldst be overreached
 by Satan.
@@ -239,10 +239,10 @@ himself--and a wolf to the people of God, clothed in sheep’s clothing.
 <span id="ii.iv.ii.viii-p11"></span>But, it is not to Demophilus that it
 is permitted to put these things straight. For, if the Word of God
 commands to pursue just things justly <span
-id="fr_124"></span>[125](#fn_124) (but to pursue just things is, when
+id="fr_124"></span>[125](#fn_124.md) (but to pursue just things is, when
 any one wishes to distribute to each one things that are meet), this
 must be pursued by all justly, not beyond their own meetness or
-rank <span id="fr_125"></span>[126](#fn_125) ; since even to angels it
+rank <span id="fr_125"></span>[126](#fn_125.md) ; since even to angels it
 is just that things meet be assigned and apportioned, but not from us, O
 Demophilus, but through them to us, of God, and to them through the
 angels who are still more pre-eminent. And to speak shortly, amongst all
@@ -264,7 +264,7 @@ when we raise in our own selves an irreverent and unjust disorder, and
 insurrection and confusion? Naturally, our blessed Law-giver from God
 does not deem right that one should preside over the Church of God, who
 has not already well presided over his own house <span
-id="fr_126"></span>[127](#fn_126) . For, he who has governed himself
+id="fr_126"></span>[127](#fn_126.md) . For, he who has governed himself
 will also govern another; and who, another, will also govern a house;
 and who, a house, also a city; and who, a city, also a nation. And to
 speak briefly as the Oracles affirm, "he who is faithful in little, is
@@ -293,11 +293,11 @@ both to seek a God, and other priests, and amongst them to become brutal
 rather than perfected, and to be a cruel minister of thine own
 fierceness. For, have we ourselves, forsooth, been perfected to the
 altogether Good, and have no need of the divine compassion for
-ourselves <span id="fr_127"></span>[128](#fn_127) , or do we commit the
-double sin <span id="fr_128"></span>[129](#fn_128) , as the Oracles say,
+ourselves <span id="fr_127"></span>[128](#fn_127.md) , or do we commit the
+double sin <span id="fr_128"></span>[129](#fn_128.md) , as the Oracles say,
 after the example of the unholy, not knowing in what we offend, but even
 justifying ourselves and supposing we see, whilst really not
-seeing <span id="fr_129"></span>[130](#fn_129) ? Heaven was startled at
+seeing <span id="fr_129"></span>[130](#fn_129.md) ? Heaven was startled at
 this, and I shivered, and I distrust myself. And <span id="page_161">p.
 161</span> <span id="ii.iv.ii.viii-Page_161"></span> unless I had met
 with thy letters (as know well I would I had not), they would not have
@@ -365,7 +365,7 @@ not laugh, for I am speaking true.
 <span id="ii.iv.ii.viii-p16"></span>SECTION VI.
 
 <span id="ii.iv.ii.viii-p17"></span>When I was once in Crete, the holy
-Carpus <span id="fr_130"></span>[131](#fn_130) entertained me,--a man,
+Carpus <span id="fr_130"></span>[131](#fn_130.md) entertained me,--a man,
 of all others, most fitted, on account of great purity of mind, for
 Divine Vision. Now, he never undertook the holy celebrations of the
 Mysteries, unless a propitious vision were first manifested to him
@@ -376,7 +376,7 @@ he had led astray to ungodliness a certain member of the Church, whilst
 the days of rejoicing were still being celebrated for him); that he
 ought compassionately to have prayed on behalf of both, and taking God,
 the Saviour, as his fellow-helper, to convert the one, and to overcome
-the other by goodness <span id="fr_131"></span>[132](#fn_131) , and not
+the other by goodness <span id="fr_131"></span>[132](#fn_131.md) , and not
 to have ceased warning them so long as he lived until this day; and thus
 to lead them to the knowledge of God, so that the things disputed by
 them might be clearly determined, and those, who were irrationally bold,
@@ -460,264 +460,264 @@ Alexandria, and died at the age of 94.
 
 ### Footnotes
 
-<span id="fn_84"></span>[150:85](dio32.htm#fr_84) <span
+<span id="fn_84"></span>[150:85](dio32.htm#fr_84.md) <span
 id="ii.iv.ii.viii-p3.1"></span><span
 id="ii.iv.ii.viii-p3.2"></span>[Num. xii.
-3-8](../../bib/kjv/num012.htm#003)<span id="ii.iv.ii.viii-p3.2"></span>.
+3-8](../../bib/kjv/num012.htm#003.md)<span id="ii.iv.ii.viii-p3.2"></span>.
 
-<span id="fn_85"></span>[150:86](dio32.htm#fr_85) <span
+<span id="fn_85"></span>[150:86](dio32.htm#fr_85.md) <span
 id="ii.iv.ii.viii-p3.3"></span><span id="ii.iv.ii.viii-p3.4"></span>[Ex.
-iv. 14](../../bib/kjv/exo004.htm#014)<span
+iv. 14](../../bib/kjv/exo004.htm#014.md)<span
 id="ii.iv.ii.viii-p3.4"></span>.
 
-<span id="fn_86"></span>[150:87](dio32.htm#fr_86) <span
+<span id="fn_86"></span>[150:87](dio32.htm#fr_86.md) <span
 id="ii.iv.ii.viii-p3.5"></span><span
 id="ii.iv.ii.viii-p3.6"></span>[Num. xvi.
-1-11](../../bib/kjv/num016.htm#001)<span
+1-11](../../bib/kjv/num016.htm#001.md)<span
 id="ii.iv.ii.viii-p3.6"></span>.
 
-<span id="fn_87"></span>[151:88](dio32.htm#fr_87) <span
+<span id="fn_87"></span>[151:88](dio32.htm#fr_87.md) <span
 id="ii.iv.ii.viii-p3.7"></span><span
 id="ii.iv.ii.viii-p3.8"></span>[Matt. i.
-1-16](../../bib/kjv/mat001.htm#001)<span
+1-16](../../bib/kjv/mat001.htm#001.md)<span
 id="ii.iv.ii.viii-p3.8"></span>.
 
-<span id="fn_88"></span>[151:89](dio32.htm#fr_88) <span
+<span id="fn_88"></span>[151:89](dio32.htm#fr_88.md) <span
 id="ii.iv.ii.viii-p3.9"></span><span
 id="ii.iv.ii.viii-p3.10"></span>[1Samuel
-24:7](../../bib/kjv/sa1024.htm#007)<span
+24:7](../../bib/kjv/sa1024.htm#007.md)<span
 id="ii.iv.ii.viii-p3.10"></span>, <span
 id="ii.iv.ii.viii-p3.11"></span>[1Samuel
-13:14](../../bib/kjv/sa1013.htm#014)<span
+13:14](../../bib/kjv/sa1013.htm#014.md)<span
 id="ii.iv.ii.viii-p3.11"></span>.
 
-<span id="fn_89"></span>[151:90](dio32.htm#fr_89) <span
+<span id="fn_89"></span>[151:90](dio32.htm#fr_89.md) <span
 id="ii.iv.ii.viii-p3.12"></span><span
 id="ii.iv.ii.viii-p3.13"></span>[Ex. xxiii.
-4](../../bib/kjv/exo023.htm#004)<span id="ii.iv.ii.viii-p3.13"></span>.
+4](../../bib/kjv/exo023.htm#004.md)<span id="ii.iv.ii.viii-p3.13"></span>.
 
-<span id="fn_90"></span>[151:91](dio32.htm#fr_90) <span
+<span id="fn_90"></span>[151:91](dio32.htm#fr_90.md) <span
 id="ii.iv.ii.viii-p3.14"></span><span
 id="ii.iv.ii.viii-p3.15"></span>[Job i.
-8](../../bib/kjv/job001.htm#008)<span id="ii.iv.ii.viii-p3.15"></span>.
+8](../../bib/kjv/job001.htm#008.md)<span id="ii.iv.ii.viii-p3.15"></span>.
 
-<span id="fn_91"></span>[151:92](dio32.htm#fr_91) <span
+<span id="fn_91"></span>[151:92](dio32.htm#fr_91.md) <span
 id="ii.iv.ii.viii-p3.16"></span><span
 id="ii.iv.ii.viii-p3.17"></span>[Gen. l.
-21](../../bib/kjv/gen050.htm#021)<span id="ii.iv.ii.viii-p3.17"></span>.
+21](../../bib/kjv/gen050.htm#021.md)<span id="ii.iv.ii.viii-p3.17"></span>.
 
-<span id="fn_92"></span>[151:93](dio32.htm#fr_92) <span
+<span id="fn_92"></span>[151:93](dio32.htm#fr_92.md) <span
 id="ii.iv.ii.viii-p3.18"></span><span
 id="ii.iv.ii.viii-p3.19"></span>[1Corinthians
-13:5](../../bib/kjv/co1013.htm#005)<span
+13:5](../../bib/kjv/co1013.htm#005.md)<span
 id="ii.iv.ii.viii-p3.19"></span>.
 
-<span id="fn_93"></span>[151:94](dio32.htm#fr_93) <span
+<span id="fn_93"></span>[151:94](dio32.htm#fr_93.md) <span
 id="ii.iv.ii.viii-p3.20"></span><span
 id="ii.iv.ii.viii-p3.21"></span>[Ps. xv.
-3](../../bib/kjv/psa015.htm#003)<span id="ii.iv.ii.viii-p3.21"></span>.
+3](../../bib/kjv/psa015.htm#003.md)<span id="ii.iv.ii.viii-p3.21"></span>.
 
-<span id="fn_94"></span>[151:95](dio32.htm#fr_94) <span
+<span id="fn_94"></span>[151:95](dio32.htm#fr_94.md) <span
 id="ii.iv.ii.viii-p3.22"></span><span
 id="ii.iv.ii.viii-p3.23"></span>[Rom. xii.
-21](../../bib/kjv/rom012.htm#021)<span id="ii.iv.ii.viii-p3.23"></span>.
+21](../../bib/kjv/rom012.htm#021.md)<span id="ii.iv.ii.viii-p3.23"></span>.
 
-<span id="fn_95"></span>[151:96](dio32.htm#fr_95) <span
+<span id="fn_95"></span>[151:96](dio32.htm#fr_95.md) <span
 id="ii.iv.ii.viii-p3.24"></span><span
 id="ii.iv.ii.viii-p3.25"></span>[Matt. v.
-45](../../bib/kjv/mat005.htm#045)<span id="ii.iv.ii.viii-p3.25"></span>.
+45](../../bib/kjv/mat005.htm#045.md)<span id="ii.iv.ii.viii-p3.25"></span>.
 
-<span id="fn_96"></span>[151:97](dio32.htm#fr_96) <span
+<span id="fn_96"></span>[151:97](dio32.htm#fr_96.md) <span
 id="ii.iv.ii.viii-p3.26"></span><span
 id="ii.iv.ii.viii-p3.27"></span>[Zech. i.
-12](../../bib/kjv/zac001.htm#012)<span id="ii.iv.ii.viii-p3.27"></span>.
+12](../../bib/kjv/zac001.htm#012.md)<span id="ii.iv.ii.viii-p3.27"></span>.
 
-<span id="fn_97"></span>[152:98](dio32.htm#fr_97) <span
+<span id="fn_97"></span>[152:98](dio32.htm#fr_97.md) <span
 id="ii.iv.ii.viii-p3.28"></span><span
 id="ii.iv.ii.viii-p3.29"></span>[Luke xv.
-7](../../bib/kjv/luk015.htm#007)<span id="ii.iv.ii.viii-p3.29"></span>.
+7](../../bib/kjv/luk015.htm#007.md)<span id="ii.iv.ii.viii-p3.29"></span>.
 
-<span id="fn_98"></span>[152:99](dio32.htm#fr_98) <span
+<span id="fn_98"></span>[152:99](dio32.htm#fr_98.md) <span
 id="ii.iv.ii.viii-p3.30"></span><span
 id="ii.iv.ii.viii-p3.31"></span>[Ps. xci.
-11](../../bib/kjv/psa091.htm#011)<span id="ii.iv.ii.viii-p3.31"></span>.
+11](../../bib/kjv/psa091.htm#011.md)<span id="ii.iv.ii.viii-p3.31"></span>.
 
-<span id="fn_99"></span>[152:100](dio32.htm#fr_99) <span
+<span id="fn_99"></span>[152:100](dio32.htm#fr_99.md) <span
 id="ii.iv.ii.viii-p3.32"></span><span
 id="ii.iv.ii.viii-p3.33"></span>[Matt. vi.
-19](../../bib/kjv/mat006.htm#019)<span id="ii.iv.ii.viii-p3.33"></span>.
+19](../../bib/kjv/mat006.htm#019.md)<span id="ii.iv.ii.viii-p3.33"></span>.
 
-<span id="fn_100"></span>[152:101](dio32.htm#fr_100) <span
+<span id="fn_100"></span>[152:101](dio32.htm#fr_100.md) <span
 id="ii.iv.ii.viii-p3.34"></span><span
 id="ii.iv.ii.viii-p3.35"></span>[Luke xxiii.
-34](../../bib/kjv/luk023.htm#034)<span id="ii.iv.ii.viii-p3.35"></span>.
+34](../../bib/kjv/luk023.htm#034.md)<span id="ii.iv.ii.viii-p3.35"></span>.
 
-<span id="fn_101"></span>[152:102](dio32.htm#fr_101) <span
+<span id="fn_101"></span>[152:102](dio32.htm#fr_101.md) <span
 id="ii.iv.ii.viii-p3.36"></span><span
 id="ii.iv.ii.viii-p3.37"></span>[Luke
-15:20](../../bib/kjv/luk015.htm#020)<span
+15:20](../../bib/kjv/luk015.htm#020.md)<span
 id="ii.iv.ii.viii-p3.37"></span>.
 
-<span id="fn_102"></span>[153:103](dio32.htm#fr_102) <span
+<span id="fn_102"></span>[153:103](dio32.htm#fr_102.md) <span
 id="ii.iv.ii.viii-p3.38"></span><span
 id="ii.iv.ii.viii-p3.39"></span>[1John
-2:10](../../bib/kjv/jo1002.htm#010)<span
+2:10](../../bib/kjv/jo1002.htm#010.md)<span
 id="ii.iv.ii.viii-p3.39"></span>.
 
-<span id="fn_103"></span>[154:104](dio32.htm#fr_103) <span
+<span id="fn_103"></span>[154:104](dio32.htm#fr_103.md) <span
 id="ii.iv.ii.viii-p5.1"></span><span
 id="ii.iv.ii.viii-p5.2"></span>[Matt. xii.
-26](../../bib/kjv/mat012.htm#026)<span id="ii.iv.ii.viii-p5.2"></span>.
+26](../../bib/kjv/mat012.htm#026.md)<span id="ii.iv.ii.viii-p5.2"></span>.
 
-<span id="fn_104"></span>[154:105](dio32.htm#fr_104) <span
+<span id="fn_104"></span>[154:105](dio32.htm#fr_104.md) <span
 id="ii.iv.ii.viii-p5.3"></span><span id="ii.iv.ii.viii-p5.4"></span>[Is.
-xxx. 18](../../bib/kjv/isa030.htm#018)<span
+xxx. 18](../../bib/kjv/isa030.htm#018.md)<span
 id="ii.iv.ii.viii-p5.4"></span>.
 
-<span id="fn_105"></span>[154:106](dio32.htm#fr_105) <span
+<span id="fn_105"></span>[154:106](dio32.htm#fr_105.md) <span
 id="ii.iv.ii.viii-p5.5"></span>Ec. Hier. c. 6. part 2.
 
-<span id="fn_106"></span>[155:107](dio32.htm#fr_106) <span
+<span id="fn_106"></span>[155:107](dio32.htm#fr_106.md) <span
 id="ii.iv.ii.viii-p5.6"></span><span
 id="ii.iv.ii.viii-p5.7"></span>[2Chronicles
-26:16-19](../../bib/kjv/ch2026.htm#016)<span
+26:16-19](../../bib/kjv/ch2026.htm#016.md)<span
 id="ii.iv.ii.viii-p5.7"></span>.
 
-<span id="fn_107"></span>[155:108](dio32.htm#fr_107) <span
+<span id="fn_107"></span>[155:108](dio32.htm#fr_107.md) <span
 id="ii.iv.ii.viii-p5.8"></span><span
 id="ii.iv.ii.viii-p5.9"></span>[1Samuel
-13:19](../../bib/kjv/sa1013.htm#019)<span
+13:19](../../bib/kjv/sa1013.htm#019.md)<span
 id="ii.iv.ii.viii-p5.9"></span>.
 
-<span id="fn_108"></span>[156:109](dio32.htm#fr_108) <span
+<span id="fn_108"></span>[156:109](dio32.htm#fr_108.md) <span
 id="ii.iv.ii.viii-p6.1"></span><span
 id="ii.iv.ii.viii-p6.2"></span>[Mark iii.
-11](../../bib/kjv/mar003.htm#011)<span id="ii.iv.ii.viii-p6.2"></span>.
+11](../../bib/kjv/mar003.htm#011.md)<span id="ii.iv.ii.viii-p6.2"></span>.
 
-<span id="fn_109"></span>[156:110](dio32.htm#fr_109) <span
+<span id="fn_109"></span>[156:110](dio32.htm#fr_109.md) <span
 id="ii.iv.ii.viii-p6.3"></span><span
 id="ii.iv.ii.viii-p6.4"></span>[Lev. xvi.
-2](../../bib/kjv/lev016.htm#002)<span id="ii.iv.ii.viii-p6.4"></span>.
+2](../../bib/kjv/lev016.htm#002.md)<span id="ii.iv.ii.viii-p6.4"></span>.
 
-<span id="fn_110"></span>[156:111](dio32.htm#fr_110) <span
+<span id="fn_110"></span>[156:111](dio32.htm#fr_110.md) <span
 id="ii.iv.ii.viii-p6.5"></span><span id="ii.iv.ii.viii-p6.6"></span>[Ex.
-xxx. 10](../../bib/kjv/exo030.htm#010)<span
+xxx. 10](../../bib/kjv/exo030.htm#010.md)<span
 id="ii.iv.ii.viii-p6.6"></span>.
 
-<span id="fn_111"></span>[156:112](dio32.htm#fr_111) <span
+<span id="fn_111"></span>[156:112](dio32.htm#fr_111.md) <span
 id="ii.iv.ii.viii-p6.7"></span><span
 id="ii.iv.ii.viii-p6.8"></span>[Exodus
-19:21](../../bib/kjv/exo019.htm#021)<span
+19:21](../../bib/kjv/exo019.htm#021.md)<span
 id="ii.iv.ii.viii-p6.8"></span>.
 
-<span id="fn_112"></span>[156:113](dio32.htm#fr_112) <span
+<span id="fn_112"></span>[156:113](dio32.htm#fr_112.md) <span
 id="ii.iv.ii.viii-p6.9"></span><span
 id="ii.iv.ii.viii-p6.10"></span>[Num. iv.
-15](../../bib/kjv/num004.htm#015)<span id="ii.iv.ii.viii-p6.10"></span>.
+15](../../bib/kjv/num004.htm#015.md)<span id="ii.iv.ii.viii-p6.10"></span>.
 
-<span id="fn_113"></span>[156:114](dio32.htm#fr_113) <span
+<span id="fn_113"></span>[156:114](dio32.htm#fr_113.md) <span
 id="ii.iv.ii.viii-p6.11"></span><span
 id="ii.iv.ii.viii-p6.12"></span>[Numbers
-12:10](../../bib/kjv/num012.htm#010)<span
+12:10](../../bib/kjv/num012.htm#010.md)<span
 id="ii.iv.ii.viii-p6.12"></span>.
 
-<span id="fn_114"></span>[156:115](dio32.htm#fr_114) <span
+<span id="fn_114"></span>[156:115](dio32.htm#fr_114.md) <span
 id="ii.iv.ii.viii-p6.13"></span><span
 id="ii.iv.ii.viii-p6.14"></span>[Jer. xxiii.
-21](../../bib/kjv/jer023.htm#021)<span id="ii.iv.ii.viii-p6.14"></span>.
+21](../../bib/kjv/jer023.htm#021.md)<span id="ii.iv.ii.viii-p6.14"></span>.
 
-<span id="fn_115"></span>[156:116](dio32.htm#fr_115) <span
+<span id="fn_115"></span>[156:116](dio32.htm#fr_115.md) <span
 id="ii.iv.ii.viii-p6.15"></span><span
 id="ii.iv.ii.viii-p6.16"></span>[Is. xlvi.
-3](../../bib/kjv/isa046.htm#003)<span id="ii.iv.ii.viii-p6.16"></span>.
+3](../../bib/kjv/isa046.htm#003.md)<span id="ii.iv.ii.viii-p6.16"></span>.
 
-<span id="fn_116"></span>[156:117](dio32.htm#fr_116) <span
+<span id="fn_116"></span>[156:117](dio32.htm#fr_116.md) <span
 id="ii.iv.ii.viii-p6.17"></span><span
 id="ii.iv.ii.viii-p6.18"></span>[Matt. vii.
-23](../../bib/kjv/mat007.htm#023)<span id="ii.iv.ii.viii-p6.18"></span>.
+23](../../bib/kjv/mat007.htm#023.md)<span id="ii.iv.ii.viii-p6.18"></span>.
 
-<span id="fn_117"></span>[156:118](dio32.htm#fr_117) <span
+<span id="fn_117"></span>[156:118](dio32.htm#fr_117.md) <span
 id="ii.iv.ii.viii-p6.19"></span><span
 id="ii.iv.ii.viii-p6.20"></span>[Deut. xvi.
-20](../../bib/kjv/deu016.htm#020)<span id="ii.iv.ii.viii-p6.20"></span>.
+20](../../bib/kjv/deu016.htm#020.md)<span id="ii.iv.ii.viii-p6.20"></span>.
 
-<span id="fn_118"></span>[156:119](dio32.htm#fr_118) <span
+<span id="fn_118"></span>[156:119](dio32.htm#fr_118.md) <span
 id="ii.iv.ii.viii-p6.21"></span><span
 id="ii.iv.ii.viii-p6.22"></span>[1Timothy
-4:16](../../bib/kjv/ti1004.htm#016)<span
+4:16](../../bib/kjv/ti1004.htm#016.md)<span
 id="ii.iv.ii.viii-p6.22"></span>.
 
-<span id="fn_119"></span>[156:120](dio32.htm#fr_119) <span
+<span id="fn_119"></span>[156:120](dio32.htm#fr_119.md) <span
 id="ii.iv.ii.viii-p6.23"></span><span
 id="ii.iv.ii.viii-p6.24"></span>[Rom. xii.
-3-6](../../bib/kjv/rom012.htm#003)<span
+3-6](../../bib/kjv/rom012.htm#003.md)<span
 id="ii.iv.ii.viii-p6.24"></span>.
 
-<span id="fn_120"></span>[157:121](dio32.htm#fr_120) <span
+<span id="fn_120"></span>[157:121](dio32.htm#fr_120.md) <span
 id="ii.iv.ii.viii-p8.1"></span><span
 id="ii.iv.ii.viii-p8.2"></span>[Rom. ii.
-23](../../bib/kjv/rom002.htm#023)<span id="ii.iv.ii.viii-p8.2"></span>.
+23](../../bib/kjv/rom002.htm#023.md)<span id="ii.iv.ii.viii-p8.2"></span>.
 
-<span id="fn_121"></span>[157:122](dio32.htm#fr_121) <span
+<span id="fn_121"></span>[157:122](dio32.htm#fr_121.md) <span
 id="ii.iv.ii.viii-p8.3"></span><span
 id="ii.iv.ii.viii-p8.4"></span>[Mal. ii.
-7](../../bib/kjv/mal002.htm#007)<span id="ii.iv.ii.viii-p8.4"></span>.
+7](../../bib/kjv/mal002.htm#007.md)<span id="ii.iv.ii.viii-p8.4"></span>.
 
-<span id="fn_122"></span>[157:123](dio32.htm#fr_122) <span
+<span id="fn_122"></span>[157:123](dio32.htm#fr_122.md) <span
 id="ii.iv.ii.viii-p8.5"></span><span
 id="ii.iv.ii.viii-p8.6"></span>[Eph. iv.
-18](../../bib/kjv/eph004.htm#018)<span id="ii.iv.ii.viii-p8.6"></span>.
+18](../../bib/kjv/eph004.htm#018.md)<span id="ii.iv.ii.viii-p8.6"></span>.
 
-<span id="fn_123"></span>[157:124](dio32.htm#fr_123) <span
+<span id="fn_123"></span>[157:124](dio32.htm#fr_123.md) <span
 id="ii.iv.ii.viii-p8.7"></span><span
 id="ii.iv.ii.viii-p8.8"></span>[Acts xix.
-2](../../bib/kjv/act019.htm#002)<span id="ii.iv.ii.viii-p8.8"></span>.
+2](../../bib/kjv/act019.htm#002.md)<span id="ii.iv.ii.viii-p8.8"></span>.
 
-<span id="fn_124"></span>[158:125](dio32.htm#fr_124) <span
+<span id="fn_124"></span>[158:125](dio32.htm#fr_124.md) <span
 id="ii.iv.ii.viii-p11.1"></span><span
 id="ii.iv.ii.viii-p11.2"></span>[Deut. xvi.
-20](../../bib/kjv/deu016.htm#020)<span id="ii.iv.ii.viii-p11.2"></span>.
+20](../../bib/kjv/deu016.htm#020.md)<span id="ii.iv.ii.viii-p11.2"></span>.
 
-<span id="fn_125"></span>[158:126](dio32.htm#fr_125) <span
+<span id="fn_125"></span>[158:126](dio32.htm#fr_125.md) <span
 id="ii.iv.ii.viii-p11.3"></span><span
 id="ii.iv.ii.viii-p11.4"></span>[2Corinthians
-13:10](../../bib/kjv/co2013.htm#010)<span
+13:10](../../bib/kjv/co2013.htm#010.md)<span
 id="ii.iv.ii.viii-p11.4"></span>.
 
-<span id="fn_126"></span>[159:127](dio32.htm#fr_126) <span
+<span id="fn_126"></span>[159:127](dio32.htm#fr_126.md) <span
 id="ii.iv.ii.viii-p11.5"></span><span
 id="ii.iv.ii.viii-p11.6"></span>[1Timothy
-3:5](../../bib/kjv/ti1003.htm#005)<span
+3:5](../../bib/kjv/ti1003.htm#005.md)<span
 id="ii.iv.ii.viii-p11.6"></span>.
 
-<span id="fn_127"></span>[160:128](dio32.htm#fr_127) <span
+<span id="fn_127"></span>[160:128](dio32.htm#fr_127.md) <span
 id="ii.iv.ii.viii-p13.1"></span><span
 id="ii.iv.ii.viii-p13.2"></span>[Luke xvi.
-10](../../bib/kjv/luk016.htm#010)<span id="ii.iv.ii.viii-p13.2"></span>.
+10](../../bib/kjv/luk016.htm#010.md)<span id="ii.iv.ii.viii-p13.2"></span>.
 
-<span id="fn_128"></span>[160:129](dio32.htm#fr_128) <span
+<span id="fn_128"></span>[160:129](dio32.htm#fr_128.md) <span
 id="ii.iv.ii.viii-p13.3"></span><span
 id="ii.iv.ii.viii-p13.4"></span>[Jer. ii.
-13-35](../../bib/kjv/jer002.htm#013)<span
+13-35](../../bib/kjv/jer002.htm#013.md)<span
 id="ii.iv.ii.viii-p13.4"></span>.
 
-<span id="fn_129"></span>[160:130](dio32.htm#fr_129) <span
+<span id="fn_129"></span>[160:130](dio32.htm#fr_129.md) <span
 id="ii.iv.ii.viii-p13.5"></span><span
 id="ii.iv.ii.viii-p13.6"></span>[Rom. i.
-27](../../bib/kjv/rom001.htm#027)<span id="ii.iv.ii.viii-p13.6"></span>.
+27](../../bib/kjv/rom001.htm#027.md)<span id="ii.iv.ii.viii-p13.6"></span>.
 
-<span id="fn_130"></span>[163:131](dio32.htm#fr_130) <span
+<span id="fn_130"></span>[163:131](dio32.htm#fr_130.md) <span
 id="ii.iv.ii.viii-p17.1"></span><span
 id="ii.iv.ii.viii-p17.2"></span>[2Timothy
-4:13](../../bib/kjv/ti2004.htm#013)<span
+4:13](../../bib/kjv/ti2004.htm#013.md)<span
 id="ii.iv.ii.viii-p17.2"></span>.
 
-<span id="fn_131"></span>[164:132](dio32.htm#fr_131) <span
+<span id="fn_131"></span>[164:132](dio32.htm#fr_131.md) <span
 id="ii.iv.ii.viii-p17.3"></span><span
 id="ii.iv.ii.viii-p17.4"></span>[Rom. xi.
-21](../../bib/kjv/rom011.htm#021)<span id="ii.iv.ii.viii-p17.4"></span>.
+21](../../bib/kjv/rom011.htm#021.md)<span id="ii.iv.ii.viii-p17.4"></span>.
 
 ------------------------------------------------------------------------
 
 [Next: Letter IX. To Titus, Hierarch, asking by letter what is the house
-of wisdom, what the bowl, and what are its meats and drinks?](dio33)
+of wisdom, what the bowl, and what are its meats and drinks?](dio33.md)

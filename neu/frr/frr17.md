@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr16.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ these practices to have been the vehicle, Pliny comments upon the
 similarity existing between the ancient Magian Gnosis and the Druidical
 Gnosis of Gaul and Britain, an indication which, in the dearth of
 accurate information concerning the teaching of the Druids, is of
-considerable value <span id="fr_277"></span>[1](#fn_277).
+considerable value <span id="fr_277"></span>[1](#fn_277.md).
 
 As we noted in the previous chapter, an interesting parallel exists
 between Wales, and localities, such as the Alps, and the Vosges, where
@@ -73,12 +73,12 @@ studies of the *Perceval* Legend, and in
 <span id="page_180">p. 180</span>
 
 the later popular *résumé* of the evidence <span
-id="fr_278"></span>[1](#fn_278), *The Quest of the Holy Grail*, I have
+id="fr_278"></span>[1](#fn_278.md), *The Quest of the Holy Grail*, I have
 analysed the texts, and shown that, while the poem of Chrétien de Troyes
 is our earliest surviving literary version, there is the strongest
 possible evidence that Chrétien, as he himself admits, was not
 inventing, but re-telling, an already popular tale <span
-id="fr_279"></span>[2](#fn_279). The Grail Quest was a theme which had
+id="fr_279"></span>[2](#fn_279.md). The Grail Quest was a theme which had
 been treated not once nor twice, but of which numerous, and conflicting,
 versions were already current, and, when Wauchier de Denain undertook to
 complete Chrétien's unfinished work, he drew largely upon these already
@@ -99,7 +99,7 @@ Mark, and Roland to Charlemagne. In fact this relationship was so
 obviously required by tradition that we find Perceval figuring now as
 sister's son to Arthur, now to the Grail King, according as the
 Arthurian, or the Grail, tradition dominates the story <span
-id="fr_280"></span>[3](#fn_280).
+id="fr_280"></span>[3](#fn_280.md).
 
 The actual existence of such a group of tales as those
 
@@ -112,7 +112,7 @@ group of poems, dealing with the adventures of Gawain, his son, and
 brother, the *ensemble* being originally known as *The Geste of Syr
 Gawayne*, a title which, in the inappropriate form *The Jest of Sir
 Gawain*, is preserved in the English version of that hero's adventure
-with the sister of Brandelis <span id="fr_281"></span>[1](#fn_281). So
+with the sister of Brandelis <span id="fr_281"></span>[1](#fn_281.md). So
 keen a critic as Dr Brugger has not hesitated to accept the theory of
 the existence of this *Geste*, and is of opinion that the German poem
 *Diû Crône* may, in part at least, be derived from this source.
@@ -133,7 +133,7 @@ and origin, *né et engenuïs en Galles*, and that he told the tale in
 connection with which the statement is made to a certain Comte de
 Poitiers, whose favourite story it was, he loved it above all others,
 which would imply that it was not the only tale Bleheris had told
-him <span id="fr_282"></span>[2](#fn_282).
+him <span id="fr_282"></span>[2](#fn_282.md).
 
 <span id="page_182">p. 182</span>
 
@@ -146,12 +146,12 @@ little further on in the poem we meet with a knight, Blihos-Bliheris,
 who, made prisoner by Gawain, reveals to Arthur and his court the
 identity of the maidens wandering in the woods, of the Fisher King, and
 the Grail, and is so good a story-teller that none can weary of
-listening to his tales <span id="fr_283"></span>[1](#fn_283).
+listening to his tales <span id="fr_283"></span>[1](#fn_283.md).
 
 Again, in the fragmentary remains of Thomas's *Tristan* we have a
 passage in which the poet refers, as source, to a certain Bréri, who
 knew "all the feats, and all the tales, of all the kings, and all the
-counts who had lived in Britain <span id="fr_284"></span>[2](#fn_284)."
+counts who had lived in Britain <span id="fr_284"></span>[2](#fn_284.md)."
 
 Finally, Giraldus Cambrensis refers to *famosus ille fabulator*,
 Bledhericus, who had lived "shortly before our time" and whose renown he
@@ -190,7 +190,7 @@ gone out of his way to invent a Welsh source.
 
 Judging from analogy, the actual existence of a personage named
 Bleheris, who enjoyed a remarkable reputation as a story-teller, is,
-*prima facie*, extremely probable <span id="fr_285"></span>[1](#fn_285).
+*prima facie*, extremely probable <span id="fr_285"></span>[1](#fn_285.md).
 
 <span id="page_184">p. 184</span>
 
@@ -200,7 +200,7 @@ case it might be possible to argue that we were dealing with separate
 members of a family, or group, of bardic poets, whose office it was to
 preserve, and relate, the national legends. But we are dealing with
 variants of a proper name, and that of distinctly insular, and Welsh
-origin <span id="fr_286"></span>[1](#fn_286).
+origin <span id="fr_286"></span>[1](#fn_286.md).
 
 The original form, Bledri, was by no means uncommon in Wales: from that
 point of view there might well have been four or five, or even more, of
@@ -235,7 +235,7 @@ conditions required. Some years ago I published in the *Revue Celtique*
 a letter in which Mr Owen summarized the evidence at his disposal. As
 the review in question may not be easily accessible to some of my
 readers I will recapitulate the principal points <span
-id="fr_287"></span>[1](#fn_287)
+id="fr_287"></span>[1](#fn_287.md)
 
 The father of Bledri, Cadivor, was a great personage in West Wales, and
 is looked upon as the ancestor of the most important families in the
@@ -271,7 +271,7 @@ we find Griffith, the son of Bledri, confirming his father's gift.
 Professor Lloyd, in an article in *Archaeologia Cambrensis*, July 1907,
 has examined these charters, and considers the grant to have been made
 between 1129 and 1134, the charter itself being of the reign of Henry I,
-1101-1135 <span id="fr_288"></span>[1](#fn_288)
+1101-1135 <span id="fr_288"></span>[1](#fn_288.md)
 
 In the Pipe Roll of Henry I, 1131, Bledri's name is entered as debtor
 for a fine incurred by the killing of a Fleming by his men; while a
@@ -334,7 +334,7 @@ came the writer who refers to the famous story-teller of the same name.
 I would submit that we have here quite sufficient evidence to warrant us
 in accepting Bledri ap Cadivor as, at least, the possible author of the
 romantic Grail tradition. In any case, so far, there is no other
-candidate in the field <span id="fr_289"></span>[1](#fn_289).
+candidate in the field <span id="fr_289"></span>[1](#fn_289.md).
 
 Shortly after the publication of the second volume of my *Perceval*
 studies, I received a letter from Professor
@@ -378,7 +378,7 @@ he incorporated
 <span id="page_190">p. 190</span>
 
 the whole tale of the shield as it stood, a quite natural and normal
-proceeding <span id="fr_290"></span>[1](#fn_290). Again, this suggestion
+proceeding <span id="fr_290"></span>[1](#fn_290.md). Again, this suggestion
 would do away with the necessity for postulating a certain lapse of time
 before the story-teller Bleheris could be converted into an Arthurian
 knight--the two *rôles*, *Gewährsmann und Mithandelnden*, as Professor
@@ -544,7 +544,7 @@ the Grail legend to be purely fortuitous, and due to the fact that the
 hero of the Folk-tale was known as 'The Widow's Son,' which he actually
 was, while this title represented in Mystery terminology a certain grade
 of Initiation, and as such is preserved to-day in Masonic ritual <span
-id="fr_291"></span>[1](#fn_291)
+id="fr_291"></span>[1](#fn_291.md)
 
 <span id="page_195">p. 195</span>
 
@@ -589,7 +589,7 @@ Volume II. of my *Perceval* studies, represents the most probable
 evolution of the literature; at the same time, in the light of further
 research, I should feel inclined to add the Grail section of *Sone de
 Nansai* as deriving from the same source which gave us Kiot's poem, and
-the *Perlesvaus* <span id="fr_292"></span>[1](#fn_292). As evidence for
+the *Perlesvaus* <span id="fr_292"></span>[1](#fn_292.md). As evidence for
 a French original combining important features of these two versions,
 and at the same time retaining unmistakably archaic elements which have
 disappeared from both, I hold this section of the poem to be of extreme
@@ -615,35 +615,35 @@ Romance.
 
 ### Footnotes
 
-<span id="fn_277"></span>[179:1](frr17.htm#fr_277) Cf. Mead, *Thrice
+<span id="fn_277"></span>[179:1](frr17.htm#fr_277.md) Cf. Mead, *Thrice
 Greatest Hermes*, Vol. III. p. 295. On this point the still untranslated
 *corpus* of Bardic poetry may possibly throw light.
 
-<span id="fn_278"></span>[180:1](frr17.htm#fr_278) *The Quest of The
+<span id="fn_278"></span>[180:1](frr17.htm#fr_278.md) *The Quest of The
 Holy Grail* (*Quest* series, Bell, 1913).
 
-<span id="fn_279"></span>[180:2](frr17.htm#fr_279) On the point that
+<span id="fn_279"></span>[180:2](frr17.htm#fr_279.md) On the point that
 Chrétien was treating an already popular theme, cf. Brugger,
 *Enserrement Merlin*, I. (*Zeitschrift für Franz. Sprache*, XXIX.).
 
-<span id="fn_280"></span>[180:3](frr17.htm#fr_280) That is, the
+<span id="fn_280"></span>[180:3](frr17.htm#fr_280.md) That is, the
 relationship is due to romantic tradition, not to Mystery survival, as
 Dr Nitze maintains.
 
-<span id="fn_281"></span>[181:1](frr17.htm#fr_281) Cf. *Romania*, Vol.
+<span id="fn_281"></span>[181:1](frr17.htm#fr_281.md) Cf. *Romania*, Vol.
 XXXIII. pp. 333 *et seq*.
 
-<span id="fn_282"></span>[181:2](frr17.htm#fr_282) Cf. *Legend of Sir
+<span id="fn_282"></span>[181:2](frr17.htm#fr_282.md) Cf. *Legend of Sir
 Perceval*, Vol. I. Chap. 12, for the passages referred to, also article
 in *Romania*, XXXIII.
 
-<span id="fn_283"></span>[182:1](frr17.htm#fr_283) Cf. my *Quest of the
+<span id="fn_283"></span>[182:1](frr17.htm#fr_283.md) Cf. my *Quest of the
 Holy Grail*, pp. 110 *et seq*.
 
-<span id="fn_284"></span>[182:2](frr17.htm#fr_284) Cf. *Tristan*
+<span id="fn_284"></span>[182:2](frr17.htm#fr_284.md) Cf. *Tristan*
 (Bédier's ed.), Vol. I. l. 2120.
 
-<span id="fn_285"></span>[183:1](frr17.htm#fr_285) A critic of my
+<span id="fn_285"></span>[183:1](frr17.htm#fr_285.md) A critic of my
 *Quest* volume remarks that "we have as little faith in Wauchier's
 appeal to a Welshman Bleheris as source for his continuation of
 Chrétien's '*Perceval*' as we have in Layamon's similar appeal to Bede
@@ -681,18 +681,18 @@ also draw attention to the fact noted in the text--the extreme
 improbability of Wauchier, a continental writer, inventing an insular
 and Welsh source. This is a point critics carefully evade.
 
-<span id="fn_286"></span>[184:1](frr17.htm#fr_286) Cf. *Bledhericus de
+<span id="fn_286"></span>[184:1](frr17.htm#fr_286.md) Cf. *Bledhericus de
 Cornouailles*, note contributed by M. Ferd. Lot, to *Romania*, Vol.
 XXVIII. p. 336. M. Lot remarks that he has not met with the name in
 Armorica; it thus appears to be insular.
 
-<span id="fn_287"></span>[185:1](frr17.htm#fr_287) Cf. *Revue Celtique*,
+<span id="fn_287"></span>[185:1](frr17.htm#fr_287.md) Cf. *Revue Celtique*,
 1911, *A note on the identification of Bleheris*.
 
-<span id="fn_288"></span>[186:1](frr17.htm#fr_288) Ed. Rhys-Evans, Vol.
+<span id="fn_288"></span>[186:1](frr17.htm#fr_288.md) Ed. Rhys-Evans, Vol.
 II. p. 297; cf. also *Revue Celtique*.
 
-<span id="fn_289"></span>[188:1](frr17.htm#fr_289) In the course of
+<span id="fn_289"></span>[188:1](frr17.htm#fr_289.md) In the course of
 1915-16 I received letters from Mr Rogers Rees, resident at Stepaside,
 Pembrokeshire, who informed me that he held definite proof of the
 connection of Bledri with both *Grail* and *Perceval* legends. The
@@ -715,12 +715,12 @@ in the interests of scholarship to place them on record; they may afford
 a clue which some Welsh scholar may be able to follow up to a more
 satisfactory conclusion.
 
-<span id="fn_290"></span>[190:1](frr17.htm#fr_290) Had Wauchier really
+<span id="fn_290"></span>[190:1](frr17.htm#fr_290.md) Had Wauchier really
 desired to *invent* an authority, in view of his date, and connection
 with the house of Flanders, he had a famous name at hand--that of
 Chrétien de Troyes.
 
-<span id="fn_291"></span>[194:1](frr17.htm#fr_291) Cf. *Legend of Sir
+<span id="fn_291"></span>[194:1](frr17.htm#fr_291.md) Cf. *Legend of Sir
 Perceval*, Vol. II. p. 307 and note. I have recently received Dr
 Brugger's review of Mr R. H. Griffith's study of the English poem, and
 am glad to see that the critic accepts the independence of this version.
@@ -729,5 +729,5 @@ accept as *faits acquis* the mutual independence of the *Grail*, and
 *Perceval* themes, we shall, at last, have a solid basis for future
 criticism.
 
-<span id="fn_292"></span>[196:1](frr17.htm#fr_292) Cf. my Notes,
+<span id="fn_292"></span>[196:1](frr17.htm#fr_292.md) Cf. my Notes,
 *Romania*, Vol. XLIII. pp. 403 *et seq*.

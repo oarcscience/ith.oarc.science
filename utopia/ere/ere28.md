@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](ere27)  [Next](ere29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](ere27)  [Next](ere29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -246,7 +246,7 @@ that may arise to harass the machines, and then let him think of a
 hundred thousand years, and the accumulated progress which they will
 bring unless man can be awakened to a sense of his situation, and of the
 doom which he is preparing for himself.  <span
-id="fr_5"></span>[6](#fn_5)
+id="fr_5"></span>[6](#fn_5.md)
 
 "The misery is that man has been blind so long already. In his reliance
 upon the use of steam he has been betrayed into increasing and
@@ -442,7 +442,7 @@ would be beyond my present scope to describe.
 
 ### Footnotes
 
-<span id="fn_5"></span>[6](ere28.htm#fr_5) Since my return to England, I
+<span id="fn_5"></span>[6](ere28.htm#fr_5.md) Since my return to England, I
 have been told that those who are conversant about machines use many
 terms concerning them which show that their vitality is here recognised,
 and that a collection of expressions in use among those who attend on
@@ -459,4 +459,4 @@ the subject.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVI: The Views Of An Erewhonian Prophet Concerning The
-Rights of Animals](ere29)
+Rights of Animals](ere29.md)

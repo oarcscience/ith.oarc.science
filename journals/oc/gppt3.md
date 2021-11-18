@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index) [Index](gppt0) [Previous](gppt2) [Next](gppt4)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index) [Index](gppt0) [Previous](gppt2) [Next](gppt4.md)
 
 ------------------------------------------------------------------------
 
@@ -59,13 +59,13 @@ EDMUNDS.</span>
 
    <span class="small">Numerical Collection, iii. 60 (not before
 translated). Compare also [Middling Collection, Dialogue No.
-6](../../bud/sbe11/sbe1106), translated in S. B. E. XI; [Long
-Collection, Dialogue No. 11.](../../bud/dob/dob-02tx) translated in
+6](../../bud/sbe11/sbe1106.md), translated in S. B. E. XI; [Long
+Collection, Dialogue No. 11.](../../bud/dob/dob-02tx.md) translated in
 Dialogues of the Buddha (1899), each by Rhys Davids, and the former also
 into German by Neumann.</span>
 
 > <span class="small">[Mark Appendix xvi. 17,
-> 18](../../bib/kjv/mar.htm#16:17): And these signs shall follow them
+> 18](../../bib/kjv/mar.htm#16:17.md): And these signs shall follow them
 > that believe: in my name shall they cast out demons; they shall speak
 > with \[new\] tongues; they shall take up serpents, and if they drink
 > any deadly thing, it shall in no wise hurt them; they shall lay hands
@@ -73,18 +73,18 @@ into German by Neumann.</span>
 
    O Brâhman, there are these three miracles.<span
 id="page_358_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_358_note_2) What three?--The miracle
+class="small">2</span></sup>](#page_358_note_2.md) What three?--The miracle
 of psychical power, the miracle of mind-reading, and the miracle of
 education. What, O Brâhman, is the miracle of psychical power? In this
 case, O Brâhman, one enjoys in various ways a kind of psychical power:
 from being one he becomes multiform, from being multiform he becomes
 one; he appears and vanishes,<span id="page_358_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_358_note_3) he goes without
+class="small">3</span></sup>](#page_358_note_3.md) he goes without
 hindrance to the further side of a wall or battlement or mountain, as if
 through air; he plunges into earth and emerges, as if in water; he walks
 on the water without dividing it, <span id="page_359">p. 359</span> as
 if on earth;<span id="page_359_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_359_note_1) like a bird on wing he
+class="small">1</span></sup>](#page_359_note_1.md) like a bird on wing he
 travels through the air in the posture of meditation; and yonder sun and
 moon, so magical, so mighty, he feels and touches with his hand; while
 up to the world of God he reaches even in the body. This, O Brâhman, is
@@ -114,7 +114,7 @@ instead of so; consider thus instead of thus. Renounce this; train
 yourself in that, and abide therein." This, O Brâhman, is called the
 miracle of education. And these are the three miracles.<span
 id="page_359_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_359_note_2) Which of the three;
+class="small">2</span></sup>](#page_359_note_2.md) Which of the three;
 think you, is the most excellent and most refined?
 
    Well, now, Gotamo, as to the miracle of psychical power, he who
@@ -137,7 +137,7 @@ and wherein to abide.
    It is true, O Brâhman, that I have attained to all that you have
 said, and I will furthermore assert that I can do each of the three
 miracles in question.<span id="page_360_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_360_note_1)
+class="small">1</span></sup>](#page_360_note_1.md)
 
    But is there, Gotamo, a single other monk who is endowed with these
 miracles besides yourself?
@@ -167,7 +167,7 @@ taken refuge \[in him\].
 Questions of King Milindo* (S. B. E. XXXV., p. 279). See also Jâtaka
 169.</span>
 
-> <span class="small">[Luke x. 19](../../bib/kjv/luk.htm#10:19): Behold,
+> <span class="small">[Luke x. 19](../../bib/kjv/luk.htm#10:19.md): Behold,
 > I have given you authority to tread upon serpents and scorpions, and
 > over all the power of the enemy: and nothing shall in any wise hurt
 > you.</span>
@@ -191,7 +191,7 @@ should he fail of the Highest, he is sure to go to the world of God.
    <span class="small">Cullavaggo v. 8. (translated in S. B. E. XX., p.
 81).</span>
 
-> <span class="small">[Mark viii. 11](../../bib/kjv/mar.htm#*:11), 12:
+> <span class="small">[Mark viii. 11](../../bib/kjv/mar.htm#*:11.md), 12:
 > And the Pharisees came forth, and began to question with him, seeking
 > of him a sign from heaven, tempting him. And he sighed deeply in his
 > spirit, and saith, Why doth this generation seek a sign? Verily I say
@@ -208,7 +208,7 @@ misdemeanor.
    <span class="small">Cullavaggo v. 6. (Translated in S. B. E., XX., p.
 75). See also Jâtaka 203.</span>
 
-> <span class="small">[Luke x. 19](../../bib/kjv/luk.htm#10:19), as
+> <span class="small">[Luke x. 19](../../bib/kjv/luk.htm#10:19.md), as
 > above. (Justin Martyr adds *centipedes*.)</span>
 
    Now at that season a certain monk died of the bite of a serpent. They
@@ -228,16 +228,16 @@ in a former translation, became the Deity of a by-gone cycle.)
 <span id="pp_5"></span>{5} SAVED FROM HELL.
 
    <span class="small">Long Collection, [Dialogue No.
-12](../../bud/dob/dob-12tx). (Translated in Rhys Davids's *Dialogues of
+12](../../bud/dob/dob-12tx.md). (Translated in Rhys Davids's *Dialogues of
 the Buddha*, 1899.)</span>
 
-> <span class="small">[John iii. 16, 17](../../bib/kjv/joh.htm#3:16):
+> <span class="small">[John iii. 16, 17](../../bib/kjv/joh.htm#3:16.md):
 > For God so loved the world, that he gave his only begotten Son, that
 > whosoever believeth on him should not perish, but have eternal life.
 > For God sent not the Son into the world to judge the world; but that
 > the world should be saved through him.</span>
 
-> <span class="small">[Jude 23](../../bib/kjv/jde.htm#1:23): And some
+> <span class="small">[Jude 23](../../bib/kjv/jde.htm#1:23.md): And some
 > save, snatching them out of the fire; and on some have mercy with
 > fear; hating even the garment spotted by the flesh.</span>
 
@@ -267,17 +267,17 @@ to you.")
    <span class="small">Udâna v. 5: Cullavaggo ix. 1. (Translated in S.
 B. E., XX., p. 304.)</span>
 
-> <span class="small">[Galatians iii. 28](../../bib/kjv/gal.htm#3:28):
+> <span class="small">[Galatians iii. 28](../../bib/kjv/gal.htm#3:28.md):
 > There can be neither Jew nor Greek, there can be neither bond nor
 > free, there can be no male and female; for ye all are one man in
 > Christ Jesus.</span>
 
-> <span class="small">[Mark iii. 34, 35](../../bib/kjv/mar.htm#3:34):
+> <span class="small">[Mark iii. 34, 35](../../bib/kjv/mar.htm#3:34.md):
 > And looking round on them which sat round about him, he saith, Behold,
 > my mother and my brethren! For whosoever shall do the will of God, the
 > same is my brother, and sister, and mother.</span>
 
-> <span class="small">[John xv. 14, 15](../../bib/kjv/joh.htm#15:14): Ye
+> <span class="small">[John xv. 14, 15](../../bib/kjv/joh.htm#15:14.md): Ye
 > are my friends, if ye do the things which I command you. No longer do
 > I call you slaves; for the slave knoweth not what his lord doeth: but
 > I have called you friends; for all things that I heard from my Father
@@ -303,12 +303,12 @@ because not yet printed in Roman letters.)</span>
 
 <span id="page_363">p. 363</span>
 
-> <span class="small">[John xiv. 26](../../bib/kjv/joh.htm#14:26): But
+> <span class="small">[John xiv. 26](../../bib/kjv/joh.htm#14:26.md): But
 > the Comforter which is the Holy Ghost, whom the Father will send in my
 > Name, he shall teach you all things, and bring all things to your
 > remembrance, whatsoever I have said unto you.</span>
 
-> <span class="small">[Revelation xx. 6](../../bib/kjv/rev.htm#20:6):
+> <span class="small">[Revelation xx. 6](../../bib/kjv/rev.htm#20:6.md):
 > Blessed and holy is he that hath part in the first resurrection: over
 > these the second death hath no power; but they shall be priests of God
 > and of Christ, and shall reign with him a thousand years.</span>
@@ -317,7 +317,7 @@ because not yet printed in Roman letters.)</span>
 arise in the world a Buddha named Metteyyo (i.e., the Benevolent One;
 Sanskrit, Maitreya), a Holy One,<span
 id="page_363_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_363_note_1) a supremely Enlightened
+class="small">1</span></sup>](#page_363_note_1.md) a supremely Enlightened
 One, endowed with wisdom in conduct; auspicious, knowing the universe;
 an incomparable Charioteer of men who are tamed; a Master of angels and
 Mortals, a Blessed Buddha; even as I have now arisen in the world, a
@@ -335,7 +335,7 @@ numbering many hundred.
 
 ------------------------------------------------------------------------
 
-[Next](gppt4)
+[Next](gppt4.md)
 
 ------------------------------------------------------------------------
 
@@ -343,17 +343,17 @@ numbering many hundred.
 
 <span id="footnotes_page_358">p. 358</span>
 
-<span id="page_358_note_2"></span>[2](#page_358_fr_2). *Pâtihâriya* is
+<span id="page_358_note_2"></span>[2](#page_358_fr_2.md). *Pâtihâriya* is
 the regular word for a display of magical power or jugglery, and is best
 rendered "miracle." The word *Iddhi*, translated "psychical power," is
 more dignified. Burnouf renders it "puissance surnaturelle."
 
-<span id="page_358_note_3"></span>[3](#page_358_fr_3). [Luke xxiv.
-31](../../bib/kjv/luk.htm#24:31), 36: And their eyes were opened, and
+<span id="page_358_note_3"></span>[3](#page_358_fr_3.md). [Luke xxiv.
+31](../../bib/kjv/luk.htm#24:31.md), 36: And their eyes were opened, and
 they knew him; and he vanished out of their sight. . . . And as they
 spake these things, he himself stood in the midst of them.
 
-[John xx. 19](../../bib/kjv/joh.htm#20:19), 26: When therefore it was
+[John xx. 19](../../bib/kjv/joh.htm#20:19.md), 26: When therefore it was
 evening, on that day, the first day of the week, and when the doors were
 shut where the disciples were, for fear of the Jews, Jesus came and
 stood in the midst, and saith unto them, Peace be unto you. . . .
@@ -364,17 +364,17 @@ said, Peace be unto you.
 
 <span id="footnotes_page_359">p. 359</span>
 
-<span id="page_359_note_1"></span>[1](#page_359_fr_1). [Mark vi.
-48](../../bib/kjv/mar.htm#6:48), and parallels (told of Christ): And
+<span id="page_359_note_1"></span>[1](#page_359_fr_1.md). [Mark vi.
+48](../../bib/kjv/mar.htm#6:48), and parallels (told of Christ.md): And
 seeing them distressed in rowing, for the wind was contrary unto them,
 about the fourth watch of the night he cometh unto them, walking on the
 sea.
 
-[Matthew xiv. 29](../../bib/kjv/mat.htm#14:29) (told of Peter): And he
+[Matthew xiv. 29](../../bib/kjv/mat.htm#14:29) (told of Peter.md): And he
 said, come. And Peter went down from the boat, and walked upon the
 waters, to come to Jesus.
 
-<span id="page_359_note_2"></span>[2](#page_359_fr_2). In *Dîgha* No.
+<span id="page_359_note_2"></span>[2](#page_359_fr_2.md). In *Dîgha* No.
 11, Gotamo says: "It is because I see the danger in miracles of
 psychical power and of mind-reading, that I detest, abhor and despise
 them." In the uncanonical Sanskrit *Divyâvadâna*, he says that he
@@ -383,13 +383,13 @@ deeds and show their sins.
 
 <span id="footnotes_page_360">p. 360</span>
 
-<span id="page_360_note_1"></span>[1](#page_360_fr_1). In this and
+<span id="page_360_note_1"></span>[1](#page_360_fr_1.md). In this and
 similar cases the tedious repetitions of the original are condensed into
 the style of our Western rhetoric.
 
 <span id="footnotes_page_361">p. 361</span>
 
-<span id="page_363_note_1"></span>[1](#page_363_fr_1). *Arhat*, and so
+<span id="page_363_note_1"></span>[1](#page_363_fr_1.md). *Arhat*, and so
 always.
 
  

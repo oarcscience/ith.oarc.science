@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao10)   
-[Previous](tao09)  [Next](tao11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao10.md)   
+[Previous](tao09)  [Next](tao11.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ This is the profoundest virtue of TAO.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11](tao11)
+[Next: Chapter 11](tao11.md)

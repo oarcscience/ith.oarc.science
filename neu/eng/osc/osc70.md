@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc69)  [Next](osc71) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc69)  [Next](osc71.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ on a departing soul.
 
 ------------------------------------------------------------------------
 
-[Next: (5) Vampires](osc71)
+[Next: (5) Vampires](osc71.md)

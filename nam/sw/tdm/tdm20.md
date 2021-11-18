@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm19)  [Next](tdm21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm19)  [Next](tdm21.md) 
 
 ------------------------------------------------------------------------
 
@@ -895,4 +895,4 @@ clan grasped his hand again, and said,--
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX](tdm21)
+[Next: Chapter XIX](tdm21.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cwt11)  [Next](cwt13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cwt11)  [Next](cwt13.md) 
 
 ------------------------------------------------------------------------
 
@@ -469,4 +469,4 @@ flying they would say:
 
 ------------------------------------------------------------------------
 
-[Next: The Luck-Child](cwt13)
+[Next: The Luck-Child](cwt13.md)

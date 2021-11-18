@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut29)  [Next](hut31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut29)  [Next](hut31.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXVII.
 
-### Formula for the Eel Medicine. <span id="fr_68"></span>[1](#fn_68)
+### Formula for the Eel Medicine. <span id="fr_68"></span>[1](#fn_68.md)
 
 <span id="page_261">p. 261</span>
 
@@ -157,11 +157,11 @@ him. Now I am going home across the ocean to the south."
 
 ### Footnotes
 
-<span id="fn_68"></span>[252:1](hut30.htm#fr_68) Told at Hupa, November
+<span id="fn_68"></span>[252:1](hut30.htm#fr_68.md) Told at Hupa, November
 1901, by William Lewis (Kū-wī-ta) said to be the only person who knows
 the formula. He performs this ceremony which necessitates ten days of
 fasting without recompense for the good of the people.
 
 ------------------------------------------------------------------------
 
-[Next: XXVIII. Formula for the Salmon Medicine](hut31)
+[Next: XXVIII. Formula for the Salmon Medicine](hut31.md)

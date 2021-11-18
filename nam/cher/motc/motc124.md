@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc123) 
-[Next](motc125) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc123.md) 
+[Next](motc125.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ been incorrectly asserted.
 
 ------------------------------------------------------------------------
 
-[Next: 125. Local Legends Of Georgia](motc125)
+[Next: 125. Local Legends Of Georgia](motc125.md)

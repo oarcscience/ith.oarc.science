@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](gafm23)  [Next](gafm25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](gafm23)  [Next](gafm25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BH3EVC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BH3EVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gods and Fighting Men*, by Lady Gregory, \[1904\], at Intangible
 Textual Heritage
 
@@ -308,4 +308,4 @@ along with them, and they came home to Ireland safely at the last.
 
 ------------------------------------------------------------------------
 
-[Next: Part I Book IV: Laegaire in the Happy Plain](gafm25)
+[Next: Part I Book IV: Laegaire in the Happy Plain](gafm25.md)

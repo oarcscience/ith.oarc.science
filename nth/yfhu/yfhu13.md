@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](yfhu12)  [Next](yfhu14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](yfhu12)  [Next](yfhu14.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -311,4 +311,4 @@ and beautify existence for all who come my way*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Development of the Will](yfhu14)
+[Next: Chapter XII. The Development of the Will](yfhu14.md)

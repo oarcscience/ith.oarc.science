@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto23) 
-[Next](aoto25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto23.md) 
+[Next](aoto25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -47,7 +47,7 @@ class="margnote"><span id="an_19:53">53</span></span> the fire; the
 maids also were let out, and came to take away the meats on which the
 suitors had been feasting, and to heap fresh wood upon the braziers
 after they had emptied the ashes on to the ground. <span
-id="fr_39"></span>[\*](#fn_39) Melantho again began scolding at Ulysses
+id="fr_39"></span>[\*](#fn_39.md) Melantho again began scolding at Ulysses
 for stopping in the house to spy on the women. Penelope heard her and
 said, "Bold hussy, I hear you, and you shall smart for it; I have
 already told you that I wish to see the stranger and enquire from him
@@ -191,7 +191,7 @@ continually urging her to go. Besides, she had had a strange <span
 class="margnote"><span id="an_19:538">538</span></span> dream about an
 eagle that had come from a mountain and swooped down on her favourite
 geese as they were eating mash out of a tub, <span
-id="fr_40"></span>[\*](#fn_40) and had killed them all. Then the eagle
+id="fr_40"></span>[\*](#fn_40.md) and had killed them all. Then the eagle
 came back and told her he was Ulysses, while the geese were the suitors;
 but when she woke the geese were still feeding at the mash tub. Now,
 what did all this mean?
@@ -234,14 +234,14 @@ sweet sleep over her eyes.
 
 ### Footnotes
 
-<span id="fn_39"></span>[79:\*](aoto24.htm#fr_39) There is no indication
+<span id="fn_39"></span>[79:\*](aoto24.htm#fr_39.md) There is no indication
 as though they went out to do this; they seem to have emptied the ashes
 on to the open part of the court.
 
-<span id="fn_40"></span>[82:\*](aoto24.htm#fr_40) I have repeatedly seen
+<span id="fn_40"></span>[82:\*](aoto24.htm#fr_40.md) I have repeatedly seen
 geese so feeding at Trapani and in the neighbourhood. In summer the
 grass is all burned up so that they cannot graze as in England.
 
 ------------------------------------------------------------------------
 
-[Next: Book XX. Theoclymenus Foretells the Suitors' Doom](aoto25)
+[Next: Book XX. Theoclymenus Foretells the Suitors' Doom](aoto25.md)

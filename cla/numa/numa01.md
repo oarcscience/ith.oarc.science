@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](numa00)  [Next](numa02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](numa00)  [Next](numa02.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ Rome, *November*, 1905.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](numa02)
+[Next: Contents](numa02.md)

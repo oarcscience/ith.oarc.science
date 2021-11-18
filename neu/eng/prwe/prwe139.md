@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe138)  [Next](prwe140) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe138)  [Next](prwe140.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ Church. \[a\]
 
 ------------------------------------------------------------------------
 
-[Next: Probus and Grace](prwe140)
+[Next: Probus and Grace](prwe140.md)

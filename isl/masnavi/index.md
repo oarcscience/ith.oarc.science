@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55UBG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55UBG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55UBG/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](msn01)    [Text
-\[Zipped\]](msn.txt.gz)
+[Contents](#contents)    [Start Reading](msn01.md)    [Text
+\[Zipped\]](msn.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -40,9 +40,9 @@ house of verse of the famous Sufi poet Rumi.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [The Masnavi Book I](msn01)  
-[The Masnavi Book II](msn02)  
-[The Masnavi Book III](msn03)  
-[The Masnavi Book IV](msn04)  
-[The Masnavi Book V](msn05)  
-[The Masnavi Book VI](msn06)  
+<span id="contents"></span> [The Masnavi Book I](msn01.md)  
+[The Masnavi Book II](msn02.md)  
+[The Masnavi Book III](msn03.md)  
+[The Masnavi Book IV](msn04.md)  
+[The Masnavi Book V](msn05.md)  
+[The Masnavi Book VI](msn06.md)  

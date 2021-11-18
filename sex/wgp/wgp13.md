@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp12)  [Next](wgp14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp12)  [Next](wgp14.md) 
 
 ------------------------------------------------------------------------
 
 ### Mediaeval Secret Societies
 
 The leaden tokens, or medalets, which we have already described, <span
-id="fr_70"></span>[71](#fn_70) seem to point evidently to the existence
+id="fr_70"></span>[71](#fn_70.md) seem to point evidently to the existence
 in the middle ages of secret societies or clubs connected with this
 obscene worship, besides the public festivals. Of these it can hardly be
 expected that any description would survive, but, if not the fact, the
@@ -75,7 +75,7 @@ assembled together in perfect nakedness. This sect perhaps continued to
 exist under different forms, but it was revived among the intellectual
 vagaries of the fifteenth century, and continued at least to be much
 talked of till the seventeenth. The doctrine of the [(*one line
-missing*--JBH)](errata.htm#3) sexual intercourse in their meetings, were
+missing*--JBH)](errata.htm#3.md) sexual intercourse in their meetings, were
 ascribed by the early Christian controversialists to several sects, such
 as the followers of Florian, and of Carpocratian, who were accused of
 putting out the lamps in their churches at the end of the evening
@@ -83,17 +83,17 @@ service, and indulging in sexual intercourse indiscriminately; the
 Nicolaitæ, who held their wives in common; the Ebionei; and especially
 the Gnostics, or followers of Basilides, and the Manichæans. The
 Nicolaites held that the only way to salvation lay through frequent
-intercourse between the sexes. <span id="fr_71"></span>[72](#fn_71)
+intercourse between the sexes. <span id="fr_71"></span>[72](#fn_71.md)
 Epiphanius speaks of a sect who sacrificed a child in their secret rites
 by pricking it with brazen pins, and then offering its blood. <span
-id="fr_72"></span>[73](#fn_72) The Gnostics were accused of eating human
+id="fr_72"></span>[73](#fn_72.md) The Gnostics were accused of eating human
 flesh as well as of lasciviousness, and they also are said to have held
 their women in
 
 <span id="page_108">p. 108</span>
 
 common, and taught that it was a duty to prostitute their wives to their
-guests. <span id="fr_73"></span>[74](#fn_73) They knew their fellow
+guests. <span id="fr_73"></span>[74](#fn_73.md) They knew their fellow
 sectarians by a secret sign, which consisted in tickling the palm of the
 hand with the finger in a peculiar manner. The sign having been
 recognized, mutual confidence was established, and the stranger was
@@ -104,7 +104,7 @@ This account is given us by St. Epiphanius, bishop of Constantia. We are
 told further of rites practiced by the Gnostics, which were still more
 disgusting, for they were said, after these libidinous scenes, to offer
 and administer the *semen virile* as their sacrament. <span
-id="fr_74"></span>[75](#fn_74) A similar practice is described as
+id="fr_74"></span>[75](#fn_74.md) A similar practice is described as
 existing among women in the middle ages for the purpose of securing the
 love of their husbands, and was perhaps derived from the Gnostics and
 Manichæans, whose doctrines, brought from the East, appear to have
@@ -161,7 +161,7 @@ Gnosticism and Manichæism, there appears to be left hardly room for
 <span id="page_111">p. 111</span>
 
 doubt that the ancient phallic worship, probably
-[somewhat](errata.htm#4) modified, and under the shadow of secret rites,
+[somewhat](errata.htm#4.md) modified, and under the shadow of secret rites,
 was imported into Western Europe; for, if we make allowance for the
 willing exaggerations of religious hatred, and consequent popular
 prejudice, the general conviction that these sectarians had rites and
@@ -220,7 +220,7 @@ Lyons, named Waldo, who had collected his wealth by mercantile pursuits,
 and who lived in the twelfth century, sold his property and distributed
 it among the poor, and he became the head of a sect which possessed
 poverty as one of its tenets, and received from the name of its founder
-that of Waldenses or Vaudois. From their [possession](errata.htm#5) of
+that of Waldenses or Vaudois. From their [possession](errata.htm#5.md) of
 voluntary poverty they are sometimes spoken of by the name of *Pauperes
 de Lugduno*, the paupers of Lyons. Contemporaries speak of the Waldenses
 as being generally poor ignorant people; yet they spread widely over
@@ -247,7 +247,7 @@ worshipped that animal. This sect must have been very ignorant and
 superstitious if it be true which some old writers tell us, that they
 believed that the sun was a demon, and the moon a female called Heva,
 and that these two had sexual intercourse every month. <span
-id="fr_75"></span>[76](#fn_75) Like the other heretical sects, these
+id="fr_75"></span>[76](#fn_75.md) Like the other heretical sects, these
 Cathari were accused of indulging in unnatural vices,
 
 <span id="page_115">p. 115</span>
@@ -281,7 +281,7 @@ standing, holding the end of the thread in her hands, and exclaiming,
 there, the old woman was lifted from the ground, and, following the ball
 of thread, was carried into the air nobody knew where; and the
 archbishop's officers burnt the young woman in her place. <span
-id="fr_76"></span>[77](#fn_76) It was the belief of most of the old
+id="fr_76"></span>[77](#fn_76.md) It was the belief of most of the old
 sects of this class, as well as of the more ancient Pagans from whom
 they were derived, that those who were fully initiated into their most
 secret mysteries became endowed with powers and faculties above those
@@ -298,11 +298,11 @@ writer adds that,
 <span id="page_117">p. 117</span>
 
 in the parts where he lived, these practices had not been known to exist
-for a long time. <span id="fr_77"></span>[78](#fn_77)
+for a long time. <span id="fr_77"></span>[78](#fn_77.md)
 
 Our old chroniclers exult over the small success which attended the
 efforts of these heretics from France and the South to introduce
-themselves into our island. <span id="fr_78"></span>[79](#fn_78) These
+themselves into our island. <span id="fr_78"></span>[79](#fn_78.md) These
 sects, with secret and obscene rites, appear, indeed, to have found most
 favour among the peoples who spoke a dialect derived from the Latin, and
 this we might naturally be led to expect, for the fact of the
@@ -325,7 +325,7 @@ excited, he exclaims, *Carajo*! (the virile member) or *Cojones*! (the
 testicles). An Italian, under similar circumstances, uses the
 exclamation *Cazzo*! (the virile member). The Frenchman apostrophizes
 the act, *Foutre*! The female member, *cono* with the Spaniard, *conno*
-with the Italian, and *con* with the [Frenchman](errata.htm#7), was and
+with the Italian, and *con* with the [Frenchman](errata.htm#7.md), was and
 is used more generally as an expression of contempt, which is also the
 case with the testicles, *couillons*, in French--those who have had
 experience in the old days of "diligence" travelling will remember how
@@ -377,7 +377,7 @@ been greatly exaggerated; but the conviction of the existence of secret
 societies of this character during the middle ages appears to have been
 so strong and so generally held, that we must hesitate in rejecting it.
 Perhaps we may take the leaden tokens already described, and represented
-in one of our plates, <span id="fr_79"></span>[80](#fn_79) as evidence
+in one of our plates, <span id="fr_79"></span>[80](#fn_79.md) as evidence
 of the existence of such societies, for these curious objects appear to
 admit of no other satisfactory explanation than that of having been in
 use in secret clubs of a very impure character.
@@ -442,34 +442,34 @@ vanished, and the meeting broke up.
 \[paragraph continues\] Such were the secret ceremonies of the
 Stedingers, according to the deliberate statement of Pope Gregory IX,
 who also charges them with offering direct worship to Lucifer. <span
-id="fr_80"></span>[81](wgp14.htm#fn_80)
+id="fr_80"></span>[81](wgp14.htm#fn_80.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_70"></span>[104:71](wgp13.htm#fr_70) See before, [p.
-60](wgp05.htm#page_60), and [Plate IX](wgp05.htm#img_pl09).
+<span id="fn_70"></span>[104:71](wgp13.htm#fr_70.md) See before, [p.
+60](wgp05.htm#page_60), and [Plate IX](wgp05.htm#img_pl09.md).
 
-<span id="fn_71"></span>[107:72](wgp13.htm#fr_71) Epiphanii *Panarium*,
+<span id="fn_71"></span>[107:72](wgp13.htm#fr_71.md) Epiphanii *Panarium*,
 vol. I, p. 72.
 
-<span id="fn_72"></span>[107:73](wgp13.htm#fr_72) Epiphanius, vol. i, p.
+<span id="fn_72"></span>[107:73](wgp13.htm#fr_72.md) Epiphanius, vol. i, p.
 416.
 
-<span id="fn_73"></span>[108:74](wgp13.htm#fr_73) On the secret worship
+<span id="fn_73"></span>[108:74](wgp13.htm#fr_73.md) On the secret worship
 and character of the Gnostics, see Epiphanii *Panarium*, vol. i, pp.
 84-102.
 
-<span id="fn_74"></span>[108:75](wgp13.htm#fr_74) See details on this
+<span id="fn_74"></span>[108:75](wgp13.htm#fr_74.md) See details on this
 subject In Epiphanii *Panarium*, ib. Conf. Prædestinati Adversus
 Haeres., lib. i, c. 46, where the same thing is said of the Manichæans.
 
-<span id="fn_75"></span>[114:76](wgp13.htm#fr_75) Bonacursus, [*Vita
-Haereticorum*](errata.htm#6), in D'Achery, *Spicilegium*, tom. i, p.
+<span id="fn_75"></span>[114:76](wgp13.htm#fr_75.md) Bonacursus, [*Vita
+Haereticorum*](errata.htm#6.md), in D'Achery, *Spicilegium*, tom. i, p.
 209. This book is considered to have been written about the year 1190.
 
-<span id="fn_76"></span>[116:77](wgp13.htm#fr_76) Radulphus
+<span id="fn_76"></span>[116:77](wgp13.htm#fr_76.md) Radulphus
 Cogeshalenfis, In the *Amplissima Collectio* of Martene and Durand. On
 the offences with which the different sects comprised under the name of
 Waldenses were charged, see Gretser's *Scriptores contra Sectam
@@ -478,16 +478,16 @@ Bonacursus, *Vita Haereticorum*, in the first volume of D'Achery's
 *Spicilegium*, and the work of a Carthusian monk in Martene and Durand,
 *Amplissima Collectio*, vol. vi, col. 57 et seq.
 
-<span id="fn_77"></span>[117:78](wgp13.htm#fr_77) Wright and Halliwell,
+<span id="fn_77"></span>[117:78](wgp13.htm#fr_77.md) Wright and Halliwell,
 *Reliquæ Antiquae*, vol. i, p. 247.
 
-<span id="fn_78"></span>[117:79](wgp13.htm#fr_78) See, for example,
+<span id="fn_78"></span>[117:79](wgp13.htm#fr_78.md) See, for example,
 Guil, Neubrigensis, *De Rebus Anglicis*, lib. ii, c. 13, and Walter
 Mapes, *de Nugis Curialium*, p. 62.
 
-<span id="fn_79"></span>[120:80](wgp13.htm#fr_79) See before, [p.
-60](wgp05.htm#page_60), and [Plate IX](wgp05.htm#img_pl09).
+<span id="fn_79"></span>[120:80](wgp13.htm#fr_79.md) See before, [p.
+60](wgp05.htm#page_60), and [Plate IX](wgp05.htm#img_pl09.md).
 
 ------------------------------------------------------------------------
 
-[Next: The Knights Templar](wgp14)
+[Next: The Knights Templar](wgp14.md)

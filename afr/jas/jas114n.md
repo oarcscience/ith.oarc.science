@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas113n)  [Next](jas115n)   
- \[[114. Jack and the Bean-stalk.](jas114)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas113n)  [Next](jas115n.md)   
+ \[[114. Jack and the Bean-stalk.](jas114.md)\]
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ compare Parsons (Maryland and Pennsylvania), JAFL 30:212-213.
 
 ------------------------------------------------------------------------
 
-[Next: Note 115. Jack and the Devil.](jas115n)
+[Next: Note 115. Jack and the Devil.](jas115n.md)

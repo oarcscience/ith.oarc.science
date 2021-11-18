@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -69,7 +69,7 @@ to their order,
 
 Having worn and cast aside the four sorts of bodies thousands of times,
 one becomes a man by good deeds, and if he becomes a knower <span
-id="fr_188"></span>[1](#fn_185) he attains liberation.
+id="fr_188"></span>[1](#fn_185.md) he attains liberation.
 
 The embodied, in the eighty-four hundred thousands of bodies before
 attaining human birth, can obtain no knowledge of the truth.
@@ -95,7 +95,7 @@ Living, he should make every effort to protect it, in view of welfare.
 
 A village again, a field again, wealth again, a house again, good and
 evil actions again--the body never again. <span
-id="fr_189"></span>[1](#fn_186)
+id="fr_189"></span>[1](#fn_186.md)
 
 20-21. The wise always adopt means for the preservation of the body;
 even those afflicted with diseases such as leprosy do not wish to give
@@ -183,7 +183,7 @@ not done.
 age, who has an army of dreadful diseases--wilt thou not see the
 saviour?
 
-43-44. Death preys upon the man [afflicted](errata.htm#23) with the
+43-44. Death preys upon the man [afflicted](errata.htm#23.md) with the
 needles of thirst, bitten by the serpent of sense-objects, and baked in
 the fire of desire and repulsion.
 
@@ -256,7 +256,7 @@ the body.
 
 Of those who have no discrimination, what liberation can there be by
 bodily tortures alone? What great serpent is killed by beating the
-anthill alone? <span id="fr_190"></span>[1](#fn_187)
+anthill alone? <span id="fr_190"></span>[1](#fn_187.md)
 
 63\. The hypocrites, putting on appearances, and wearing quantities of
 matted hair, and using antelope skins, wander about like knowers, and
@@ -288,7 +288,7 @@ for people, O Lord of Birds,--direct knowledge of the Truth is the cause
 of liberation.
 
 71-73. Fallen into the great well of the six philosophies, <span
-id="fr_191"></span>[1](#fn_188) O Bird, the brutes do not understand the
+id="fr_191"></span>[1](#fn_188.md) O Bird, the brutes do not understand the
 chief good; bound in the snare of animalism.
 
 They are tossed hither and thither in the dreadful ocean of Vedas and
@@ -314,7 +314,7 @@ They talk of the highest experiences, not realising them themselves.
 Some have ceased preaching, being engrossed in egotism.
 
 78-82. They repeat the Vedas and the Śāstras, and argue with one
-[another](errata.htm#24), but they do not understand the highest
+[another](errata.htm#24.md), but they do not understand the highest
 truth,--like the spoon the flavour of the food.
 
 The head bears flowers, the nostril knows the smell. They read the Vedas
@@ -360,7 +360,7 @@ philosophies, nor are actions,---knowledge only is the cause.
 
 89-90. The word from the Teacher gives liberation; all learning is
 masquerade. Among thousands of woods the Sañjīvana <span
-id="fr_192"></span>[1](#fn_189) is best.
+id="fr_192"></span>[1](#fn_189.md) is best.
 
 The non-dual, verily declared auspicious, is beyond efforts of action,
 and to be obtained by the word of the Teacher, not by the study of tens
@@ -369,8 +369,8 @@ of millions of texts.
 91\. Knowledge is said to be of two kinds: study and discrimination. The
 study is of Śabda Brāhmaṇ; Para Brahmaṇ is reached by discrimination.
 
-92\. Some prefer the Non-dual <span id="fr_193"></span>[2](#fn_190);
-other prefer the Dual <span id="fr_194"></span>[3](#fn_191) but they do
+92\. Some prefer the Non-dual <span id="fr_193"></span>[2](#fn_190.md);
+other prefer the Dual <span id="fr_194"></span>[3](#fn_191.md) but they do
 not understand the One Reality, beyond the Dual and Non-dual.
 
 93-94. Two phrases make for bondage and liberation: "Mine" and
@@ -425,7 +425,7 @@ prescribed,
 
 He should practise mentally upon the supreme three-fold pure Word of
 Brahmā. He should, with breath controlled, restrain his mind, not
-forgetting the Brahma Bīja. <span id="fr_195"></span>[1](#fn_192)
+forgetting the Brahma Bīja. <span id="fr_195"></span>[1](#fn_192.md)
 
 With reason for charioteer he should withdraw the senses from the
 sense-objects by the mind, and should fix his mind, drawn away by
@@ -449,7 +449,7 @@ eternal path.
 <span id="page_168">p. 168</span>
 
 111-114. He who bathes in the water of the Mānasa, <span
-id="fr_196"></span>[1](#fn_193) which removes the impurities of
+id="fr_196"></span>[1](#fn_193.md) which removes the impurities of
 attraction and repulsion, in the lake of knowledge, in the waters of
 Truth,--he verily attains liberation.
 
@@ -460,13 +460,13 @@ He who, expecting to die, leaning his home, dwells at a sacred
 bathing-place, or dies in a place of liberation, he verily attains
 liberation.
 
-Ayodhyā,  <span id="fr_197"></span>[2](#fn_194) Mathurā, <span
-id="fr_198"></span>[3](#fn_195) Gayā, <span
-id="fr_199"></span>[4](#fn_196) Kaśī, <span
-id="fr_200"></span>[5](#fn_197) Kañchi, <span
-id="fr_201"></span>[6](#fn_198) Avantikā, <span
-id="fr_202"></span>[7](#fn_199) Dwārāvatī, <span
-id="fr_203"></span>[8](#fn_200)--these seven cities should be known as
+Ayodhyā,  <span id="fr_197"></span>[2](#fn_194.md) Mathurā, <span
+id="fr_198"></span>[3](#fn_195.md) Gayā, <span
+id="fr_199"></span>[4](#fn_196.md) Kaśī, <span
+id="fr_200"></span>[5](#fn_197.md) Kañchi, <span
+id="fr_201"></span>[6](#fn_198.md) Avantikā, <span
+id="fr_202"></span>[7](#fn_199.md) Dwārāvatī, <span
+id="fr_203"></span>[8](#fn_200.md)--these seven cities should be known as
 the givers of liberation.
 
 115\. This eternal way of liberal in al has been described to you, O
@@ -499,45 +499,45 @@ liberation for supreme devotion to Him,--protect us.
 
 ### Footnotes
 
-<span id="fn_185"></span>[155:1](gpu18.htm#fr_188) That is, One who
+<span id="fn_185"></span>[155:1](gpu18.htm#fr_188.md) That is, One who
 knows the Self.
 
-<span id="fn_186"></span>[156:1](gpu18.htm#fr_189) Meaning that one may
+<span id="fn_186"></span>[156:1](gpu18.htm#fr_189.md) Meaning that one may
 re-obtain these things after losing them--but not the body.
 
-<span id="fn_187"></span>[161:1](gpu18.htm#fr_190) There is supposed to
+<span id="fn_187"></span>[161:1](gpu18.htm#fr_190.md) There is supposed to
 be a serpent living in the ground beneath the ant-hill.
 
-<span id="fn_188"></span>[162:1](gpu18.htm#fr_191) Nyāya, Vaiśeṣika,
+<span id="fn_188"></span>[162:1](gpu18.htm#fr_191.md) Nyāya, Vaiśeṣika,
 Sāṅkhya, Yoga, Mīmānsā, Vedānta.
 
-<span id="fn_189"></span>[165:1](gpu18.htm#fr_192) The plant brought by
+<span id="fn_189"></span>[165:1](gpu18.htm#fr_192.md) The plant brought by
 Hanumat to restore Lakṣman when killed by Indrajit.
 
-<span id="fn_190"></span>[165:2](gpu18.htm#fr_193) Adwaita philosophy.
+<span id="fn_190"></span>[165:2](gpu18.htm#fr_193.md) Adwaita philosophy.
 Eternal inseparateness and non-duality.
 
-<span id="fn_191"></span>[165:3](gpu18.htm#fr_194) Dwaita. Separateness
+<span id="fn_191"></span>[165:3](gpu18.htm#fr_194.md) Dwaita. Separateness
 of the individual and universal self.
 
-<span id="fn_192"></span>[167:1](gpu18.htm#fr_195) Bīja is a seed; a
+<span id="fn_192"></span>[167:1](gpu18.htm#fr_195.md) Bīja is a seed; a
 mantra governing a work such as an Upaniṣad Oṁ.
 
-<span id="fn_193"></span>[168:1](gpu18.htm#fr_196) A holy lake in the
+<span id="fn_193"></span>[168:1](gpu18.htm#fr_196.md) A holy lake in the
 Himālayas, also a mystical place.
 
-<span id="fn_194"></span>[168:2](gpu18.htm#fr_197) Perhaps Oudh.
+<span id="fn_194"></span>[168:2](gpu18.htm#fr_197.md) Perhaps Oudh.
 
-<span id="fn_195"></span>[168:3](gpu18.htm#fr_198) Muttra.
+<span id="fn_195"></span>[168:3](gpu18.htm#fr_198.md) Muttra.
 
-<span id="fn_196"></span>[168:4](gpu18.htm#fr_199) Gayā.
+<span id="fn_196"></span>[168:4](gpu18.htm#fr_199.md) Gayā.
 
-<span id="fn_197"></span>[168:5](gpu18.htm#fr_200) Benares.
+<span id="fn_197"></span>[168:5](gpu18.htm#fr_200.md) Benares.
 
-<span id="fn_198"></span>[168:6](gpu18.htm#fr_201) Conjeeveram.
+<span id="fn_198"></span>[168:6](gpu18.htm#fr_201.md) Conjeeveram.
 
-<span id="fn_199"></span>[168:7](gpu18.htm#fr_202) Ujjain.
+<span id="fn_199"></span>[168:7](gpu18.htm#fr_202.md) Ujjain.
 
-<span id="fn_200"></span>[168:8](gpu18.htm#fr_203) Dwārakā.
+<span id="fn_200"></span>[168:8](gpu18.htm#fr_203.md) Dwārakā.
 
  

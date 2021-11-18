@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao55)   
-[Previous](tao54)  [Next](tao56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao55.md)   
+[Previous](tao54)  [Next](tao56.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ principle of TAO. Things that are contrary to TAO soon pass away.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 56](tao56)
+[Next: Chapter 56](tao56.md)

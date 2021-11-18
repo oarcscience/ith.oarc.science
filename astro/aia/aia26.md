@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia25)  [Next](aia27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia25)  [Next](aia27.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,10 +43,10 @@ you consider the afflicting planet and his nature and position, you may
 learn the nature of the misfortune. If it be the lord of the 3d, it will
 come through some kinsman or neighbour, or by some short journey; if the
 lord of the 2d cast the ray, or the evil planet be in the 2d, it denotes
-loss of money; <span id="fr_66"></span>[1](#fn_66) if the lord of the
+loss of money; <span id="fr_66"></span>[1](#fn_66.md) if the lord of the
 4th. trouble about houses, &c., or by means of a father or wife's
 mother; if the 5th, by intemperance, or by children, &c., and so of the
-rest. <span id="fr_67"></span>[2](#fn_67)
+rest. <span id="fr_67"></span>[2](#fn_67.md)
 
 <span id="page_97">p. 97</span>
 
@@ -59,7 +59,7 @@ what member of man's body the ascending sign represents; for upon that
 part of his body will the querent have a mole, mark, or scar; as, if the
 ascendant be ♈, the same will be on the head; if ♉, it will be on the
 neck; if ♊, on the arms or shoulders, &c. <span
-id="fr_68"></span>[1](#fn_68) And also in the part ruled by the sign in
+id="fr_68"></span>[1](#fn_68.md) And also in the part ruled by the sign in
 which the lord of the ascendant is, will there be another mark.
 
 The signs on the cusp of the 6th house, and that in which the lord of
@@ -97,7 +97,7 @@ two other marks.
 
 Many times if the ☽ be in ☌ or ☍ ☉, the querent has some blemish in or
 near his eyes: and this is ever true, if the ☌ or ☍ be in angles, and ☽
-or ☉ be afflicted by Mars. <span id="fr_69"></span>[1](#fn_69)
+or ☉ be afflicted by Mars. <span id="fr_69"></span>[1](#fn_69.md)
 
 *Whether one absent be dead or alive*?
 
@@ -106,7 +106,7 @@ If the quesited have no relation to the querent, then the
 <span id="page_90">p. 90</span>
 
 ascendant, its lord, and ☽ shall signify the absent person. <span
-id="fr_70"></span>[1](#fn_70) But if the party inquired after be a
+id="fr_70"></span>[1](#fn_70.md) But if the party inquired after be a
 relation, then take the house and its lord which signifies that
 relation; as the 3d for a brother or sister, The 4th for a father, the
 6th for a paternal uncle or aunt, the 10th for a mother, &c.
@@ -143,14 +143,14 @@ that time news of him will arrive. If the ☽ apply to ✶ or △ of his
 significator, then allow a day, week, or month, for each degree she be
 distant, according as the significators may be placed in angles,
 succeedent or cadent houses, and the signs be moveable, common, or
-fixed. <span id="fr_71"></span>[1](#fn_71)
+fixed. <span id="fr_71"></span>[1](#fn_71.md)
 
 <span id="page_101">p. 101</span>
 
 <span id="img_fig03"></span>
 
 [![Fig. 3.](tn/fig03.jpg)  
-Click to enlarge](img/fig03.jpg)  
+Click to enlarge](img/fig03.jpg.md)  
 Fig. 3.  
 
 THE ABOVE FIGURE WAS FOR RESOLUTION OF THE FOLLOWING QUERIES.
@@ -210,7 +210,7 @@ judged, had this been the time of a sudden accident, or thing done, that
 it could not have redounded to the querent's injury. But had ♀ been
 nearer to ☍ of ♂, he being in the 2d, I should have of judged that the
 querent would have received some loss of money shortly, and so of the
-rest. <span id="fr_72"></span>[1](#fn_72)
+rest. <span id="fr_72"></span>[1](#fn_72.md)
 
 3d QUERY.--*What Moles or Marks the Querent has*?
 
@@ -243,7 +243,7 @@ In this way follow the directions of the rule.
 
 In the aforesaid figure, the ascendant ♃ therein and ♀ its ruler, as
 also ☽, are the significators of the party absent. The ascending sign
-and ♃ therein describe his person; <span id="fr_73"></span>[1](#fn_73)
+and ♃ therein describe his person; <span id="fr_73"></span>[1](#fn_73.md)
 and ☽ and ♀ shew his condition.
 
 The ☽ and ♀ are free from any evil aspect of the lord of the 8th, and a
@@ -254,7 +254,7 @@ also inclined to a feverish state. But by ♃ in the ascendant, and in △
 to ♀, I should say that medicine, or such a person as is described by ♃,
 had relieved him. And as ☿ lord of the 11th applies to a ☐ of ♃, (both
 of them in signs of long ascension, which is equivalent to a △) <span
-id="fr_74"></span>[2](#fn_74) I should judge the querent to have news of
+id="fr_74"></span>[2](#fn_74.md) I should judge the querent to have news of
 the absent about ten weeks from the time of the
 
 <span id="page_105">p. 105</span>
@@ -262,16 +262,16 @@ the absent about ten weeks from the time of the
 question, because ☿ wants ten degrees of the ☐ of ♃. If the absent be
 known to be at a short distance from the quesited, I should have judged
 that in ten days they should hear of him, because the signs are
-moveable. <span id="fr_75"></span>[1](#fn_75)
+moveable. <span id="fr_75"></span>[1](#fn_75.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_66"></span>[96:1](aia26.htm#fr_66) the same if ⊕ receive
+<span id="fn_66"></span>[96:1](aia26.htm#fr_66.md) the same if ⊕ receive
 evil rays approaching.
 
-<span id="fn_67"></span>[96:2](aia26.htm#fr_67) The nature of the planet
+<span id="fn_67"></span>[96:2](aia26.htm#fr_67.md) The nature of the planet
 casting the ray, also may be expected to shew the nature of the evil; ♂
 shews robbers, &c., ♄ elderly persons, ☿ young persons and lawyers, ♅
 unlooked-for and uncommon events, ♀ females, ☉ men in power, ♃ clergymen
@@ -282,7 +282,7 @@ houses and strong, their good aspects denote benefits in the same
 manner; and in all cases ⊕ shews gain or loss, as it may be aspected;
 and ☊, with the chief significator, imports benefits, and ☋ the reverse.
 
-<span id="fn_68"></span>[97:1](aia26.htm#fr_68)
+<span id="fn_68"></span>[97:1](aia26.htm#fr_68.md)
 
 PARTS *of* MAN'S BODY *ruled by the* TWELVE SIGNS.
 
@@ -313,7 +313,7 @@ PARTS *of* MAN'S BODY *ruled by the* TWELVE SIGNS.
 
 </div>
 
-<span id="fn_69"></span>[98:1](aia26.htm#fr_69) If ♃ give the mark, it
+<span id="fn_69"></span>[98:1](aia26.htm#fr_69.md) If ♃ give the mark, it
 will be bluish or purple; ♀ gives it yellow; ☿ a pale lead colour; ☉
 olive or chesnut; and ☽ a whitish hue, or partly of the colour of the
 planets she aspects. The infortunes ♄ and ♂, especially when together,
@@ -330,12 +330,12 @@ having ♄ in ♓, which rules the feet, and situated near the cusp of the
 testimony only existed, and ♄ been in ♓ elsewhere, she would have merely
 had a mole on her foot.
 
-<span id="fn_70"></span>[90:1](aia26.htm#fr_70) We should always take
+<span id="fn_70"></span>[90:1](aia26.htm#fr_70.md) We should always take
 the ascendant, &c. for the querent, and the 7th and its lord for the
 quesited. But if the figure be erected by an artist at his own
 suggestion, let the ascendant, &c. shew the absent person.
 
-<span id="fn_71"></span>[100:1](aia26.htm#fr_71) The most difficult
+<span id="fn_71"></span>[100:1](aia26.htm#fr_71.md) The most difficult
 thing in all questions is to judge of time with accuracy. I should
 advise the young student to be cautious of giving any judgment on this
 head, unless where it is the chief point desired to be known. In this
@@ -359,7 +359,7 @@ applying* to the other be taken, the following rule will hold good:
 *moveable signs*, *years* in *common*, and an indefinite time in *fixed*
 signs.---ZAD.
 
-<span id="fn_72"></span>[103:1](aia26.htm#fr_72) We consider that our
+<span id="fn_72"></span>[103:1](aia26.htm#fr_72.md) We consider that our
 author has been rather brief on this point, for numerous occasions occur
 where the mind is desirous of knowing the result when events happen. If
 ♀ had been within orbs of ♂ opposition, that is, *half the distance of
@@ -374,22 +374,22 @@ washerwoman. But the general testimonies being good, we should say the
 evil will be but trifling. Experience will teach the student these
 points.
 
-<span id="fn_73"></span>[104:1](aia26.htm#fr_73) If no planet be in the
+<span id="fn_73"></span>[104:1](aia26.htm#fr_73.md) If no planet be in the
 ascendant of the party, look to the lord of the ascendant for a
 description of his person, according to the sign it is in, and judge by
 that and the sign ascending; but if the lord of the ascendant be much
 *afflicted*, the ☽, according to the sign she is in, must be taken.
 
-<span id="fn_74"></span>[104:2](aia26.htm#fr_74) This doctrine of the
+<span id="fn_74"></span>[104:2](aia26.htm#fr_74.md) This doctrine of the
 signs of long ascension, causing a ✶ to be equal to a ☐, and a ☐ to a △,
 and the reverse in signs of short ascension, can only be received in
 horary and mundane astrology; and not in nativities.
 
-<span id="fn_75"></span>[105:1](aia26.htm#fr_75) We should, in this
-latter case, prefer looking to the Ephemeris for [a](errata.htm#0) day
+<span id="fn_75"></span>[105:1](aia26.htm#fr_75.md) We should, in this
+latter case, prefer looking to the Ephemeris for [a](errata.htm#0.md) day
 when ☿ formed a △ of ♃ for hearing news, and when ♀ and \#\#\# came to ☌
 for his return.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV. Of a Ship, and her Safety or Destruction](aia27)
+[Next: Chapter XXIV. Of a Ship, and her Safety or Destruction](aia27.md)

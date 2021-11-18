@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jes04)  [Next](jes06) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jes04)  [Next](jes06.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ many other stories with the same meaning.
 
 ------------------------------------------------------------------------
 
-[Next: The Uplift of Jesus The Son of Mary Into Heaven](jes06)
+[Next: The Uplift of Jesus The Son of Mary Into Heaven](jes06.md)

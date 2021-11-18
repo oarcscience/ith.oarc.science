@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe104)  [Next](prwe106) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe104)  [Next](prwe106.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ world."--*The Survey of* *Cornwall, Carew.*
 
 ------------------------------------------------------------------------
 
-[Next: The Parson and his Clerk](prwe106)
+[Next: The Parson and his Clerk](prwe106.md)

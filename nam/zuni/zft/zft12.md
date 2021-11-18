@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft11)  [Next](zft13) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft11)  [Next](zft13.md) 
 
 ------------------------------------------------------------------------
 
@@ -530,4 +530,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: How The Coyote Joined The Dance Of The Burrowing-Owls](zft13)
+[Next: How The Coyote Joined The Dance Of The Burrowing-Owls](zft13.md)

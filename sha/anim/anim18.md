@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim17)  [Next](anim19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim17)  [Next](anim19.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ in review.
 ------------------------------------------------------------------------
 
 [Next: Chaper XVII. Literature to Which Reference is Made in This
-Volume](anim19)
+Volume](anim19.md)

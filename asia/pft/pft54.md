@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft53)  [Next](pft55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft53)  [Next](pft55.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ you do not hurt me."
 The man and woman stopped their work, for they thought that a spirit
 must have spoken to them. But when the voice again called and begged
 them to open the squash, they carefully opened it, and there inside was
-a nice baby boy.  <span id="fr_152"></span>[153](pft68.htm#fn_152) He
+a nice baby boy.  <span id="fr_152"></span>[153](pft68.htm#fn_152.md) He
 could already stand alone and could talk. And the man and his wife were
 overjoyed.
 
@@ -67,4 +67,4 @@ the man and his wife were left poor and alone.
 
 ------------------------------------------------------------------------
 
-[Next: The Creation Story](pft55)
+[Next: The Creation Story](pft55.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis59)  [Next](kis61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis59)  [Next](kis61.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ always together. And always Gilveen was smiling.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](kis61)
+[Next: Part III](kis61.md)

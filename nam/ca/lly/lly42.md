@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly41)  [Next](lly43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly41)  [Next](lly43.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ never be successful in killing another.
 
 ------------------------------------------------------------------------
 
-[Next: Small Game, Mushrooms, Worms, and Beetles](lly43)
+[Next: Small Game, Mushrooms, Worms, and Beetles](lly43.md)

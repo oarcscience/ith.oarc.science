@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat05.htm#XX)  [Previous](satl019) 
-[Next](satl021) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat05.htm#XX)  [Previous](satl019.md) 
+[Next](satl021.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ innumerabilia oscula dedit.
 
 ------------------------------------------------------------------------
 
-[Next: XXI](satl021)
+[Next: XXI](satl021.md)

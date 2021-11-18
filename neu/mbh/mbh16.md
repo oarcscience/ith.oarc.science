@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](mbh15)  [Next](mbh17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](mbh15)  [Next](mbh17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myth of the Birth of the Hero*, by Otto Rank, \[1914\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ version which has been made familiar by Wagner's dramatization of this
 theme--the story of Lohengrin, the Knight with the Swan, as transmitted
 by the medieval German epic (modernized by Junghaus) and briefly
 rendered by the Grimm brothers under the title "Lohengrin in
-Brabant." <span id="fr_84"></span>[1](#fn_84)
+Brabant." <span id="fr_84"></span>[1](#fn_84.md)
 
 <div style="margin-left: 32px">
 
@@ -110,7 +110,7 @@ and crossed the water, back to the service of the Grail. Elsa sank down
 in a faint. The empress resolved *to keep the younger boy Lohengrin, for
 his father's sake, and to bring him up as her own child*. But the widow
 wept and mourned the rest of her life for her beloved spouse, who never
-came back to her. <span id="fr_85"></span>[1](#fn_85)
+came back to her. <span id="fr_85"></span>[1](#fn_85.md)
 
 </div>
 
@@ -133,8 +133,8 @@ Other versions of the saga of the Knight with the Swan have retained
 this original arrangement of the motifs, although they appear commingled
 with elements of fairy tales. The saga of the Knight with the Swan, as
 related in the Flemish *People's Book*, <span
-id="fr_86"></span>[1](#fn_86) contains in the beginning the history of
-the birth of seven children, <span id="fr_87"></span>[2](#fn_87) borne
+id="fr_86"></span>[1](#fn_86.md) contains in the beginning the history of
+the birth of seven children, <span id="fr_87"></span>[2](#fn_87.md) borne
 by Beatrix, the wife of King Oriant of Flanders. Matabruna, the wicked
 mother of the absent king, orders that the children be killed and the
 queen be given seven puppy dogs in their stead. But the servant contents
@@ -181,13 +181,13 @@ ashore, as a stranger, asleep in a boat on a sheaf of grain
 (Anglo-Saxon: *sceaf*) . The waves of the sea carried him to the coast
 of the country he was destined to defend. The inhabitants welcomed his
 arrival as a miracle, raised him, and later on made him their king,
-considering him a divine emissary. <span id="fr_88"></span>[1](#fn_88)
+considering him a divine emissary. <span id="fr_88"></span>[1](#fn_88.md)
 What was told of the father now is
 
 <span id="page_64">p. 64</span>
 
 transferred in the Beowulf epic to his son, also called Scyld. <span
-id="fr_89"></span>[1](#fn_89) His body is exposed, as he had ordered
+id="fr_89"></span>[1](#fn_89.md) His body is exposed, as he had ordered
 before his death, surrounded by kingly splendor, upon a ship without a
 crew, which is sent out into the sea. Thus he vanished in the same
 mysterious manner in which his father arrived ashore, this trait being
@@ -198,10 +198,10 @@ identity of father and son.
 
 ### Footnotes
 
-<span id="fn_84"></span>[59:1](mbh16.htm#fr_84) Junghaus: *Lohengrin*
+<span id="fn_84"></span>[59:1](mbh16.htm#fr_84.md) Junghaus: *Lohengrin*
 (Reclam edition); Grimm brothers, op. cit., Vol. II, p. 306.
 
-<span id="fn_85"></span>[61:1](mbh16.htm#fr_85) The Grimm brothers (op.
+<span id="fn_85"></span>[61:1](mbh16.htm#fr_85.md) The Grimm brothers (op.
 cit., Vol. II., pp. 306 ff.) quote six further versions of the saga of
 the Knight with the Swan. Certain fairy tales of the Grimm
 brothers--such as "The Six Swans" (No. 49), "The Twelve Brothers" (No.
@@ -211,10 +211,10 @@ Hausmärchen*--also belong to the same mythological cycle. Further
 material from this cycle may be found in H. Leo: Beowulf (Halle, 1839),
 and in Görre: *Introduction to Lohengrin* (Heidelberg, 1813).
 
-<span id="fn_86"></span>[62:1](mbh16.htm#fr_86) Grimm: *Deutsche Sagen*,
+<span id="fn_86"></span>[62:1](mbh16.htm#fr_86.md) Grimm: *Deutsche Sagen*,
 Vol. I., p. 29.
 
-<span id="fn_87"></span>[62:2](mbh16.htm#fr_87) The ancient Lombard tale
+<span id="fn_87"></span>[62:2](mbh16.htm#fr_87.md) The ancient Lombard tale
 of the exposure of King Lamissio, related by Paulus Diaconus (L, 15),
 gives a similar incident. A public woman had thrown her seven newborn
 infants into a fishpond. King Agelmund passed by and looked curiously at
@@ -225,10 +225,10 @@ to a wet nurse. As he had taken him from the pond, which in his language
 is called *lama*, he named the boy Lamissio. He grew up into a stalwart
 champion, and after Agelmund's death, became king of the Lombards.
 
-<span id="fn_88"></span>[63:1](mbh16.htm#fr_88) Compare Grimm: *Deutsche
+<span id="fn_88"></span>[63:1](mbh16.htm#fr_88.md) Compare Grimm: *Deutsche
 Sagen*, Vol. I, p. 306; Vol. III, p. 391; and Leo, op. cit., p. 24.
 
-<span id="fn_89"></span>[64:1](mbh16.htm#fr_89) *Scaf* is the High
+<span id="fn_89"></span>[64:1](mbh16.htm#fr_89.md) *Scaf* is the High
 German *Schaffing* ("barrel"), which leads Leo (op cit.) to assume, in
 connection with Scyld's being called Scefing, that he had no father
 Sceaf or Schaf at all, but was himself the boy cast ashore by the waves,
@@ -242,4 +242,4 @@ be thrown into the water as "whelps."
 
 ------------------------------------------------------------------------
 
-[Next: III. The Interpretation of the Myths](mbh17)
+[Next: III. The Interpretation of the Myths](mbh17.md)

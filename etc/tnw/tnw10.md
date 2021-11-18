@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw09)  [Next](tnw11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw09)  [Next](tnw11.md) 
 
 ------------------------------------------------------------------------
 
@@ -383,7 +383,7 @@ all the time lurking inside it, while it was lying there so quietly and
 Scientology (page image: see
 https://ith.oarc.science/etc/tnw/tnw10.htm\#page\_139 for
 text)](tn/13900.jpg)  
-Click to enlarge](img/13900.jpg)  
+Click to enlarge](img/13900.jpg.md)  
   
 
 peacefully among the Christian tiles. Then *how* did this demon get into
@@ -422,4 +422,4 @@ and fade away, and only the magic song goes on.
 
 ------------------------------------------------------------------------
 
-[Next: 10. Chemistry: The Man in the Crumb](tnw11)
+[Next: 10. Chemistry: The Man in the Crumb](tnw11.md)

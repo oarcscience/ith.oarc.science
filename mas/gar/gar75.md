@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar74.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -266,7 +266,7 @@ Brother A. B. is hereby charged with *immoral and unmasonic conduct:*
 *First Specification*.—That the said A. B., on the first day of April
 1859, in the public street, at Freetown, in the county of ......, was in
 a state of intoxication from the use of strong and spirituous
-[liquors](errata.htm#8), in violation of his duty as a Mason, and to the
+[liquors](errata.htm#8.md), in violation of his duty as a Mason, and to the
 scandal and disgrace of the Masonic Fraternity.
 
 *Second Specification*.—That the said A. B., on the first day of April,
@@ -868,7 +868,7 @@ OFFICE OF THE GRAND MASTER OF MASONS, &c., June 4, 1859.
 
 |                                                                                     |
 |-------------------------------------------------------------------------------------|
-| ![IN THE MATTER. OF THE APPEAL&lt;br&gt; OF&lt;br&gt; BROTHER A. B.](img/40500.jpg) |
+| ![IN THE MATTER. OF THE APPEAL&lt;br&gt; OF&lt;br&gt; BROTHER A. B.](img/40500.jpg.md) |
 
 Brother A. B. having appealed from the decision of Triluminar Lodge, No.
 800, made on the 30th day of April, 1859, by which he was suspended from

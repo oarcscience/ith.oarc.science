@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa01)  [Next](psa03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa01)  [Next](psa03.md) 
 
 ------------------------------------------------------------------------
 
@@ -424,4 +424,4 @@ the earth as Rookmunee.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](psa03)
+[Next: Chapter II](psa03.md)

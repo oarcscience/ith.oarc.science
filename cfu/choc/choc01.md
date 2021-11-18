@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](choc00)  [Next](choc02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](choc00)  [Next](choc02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Occultism*, by Paul Carus, \[1907\], at Intangible Textual
 Heritage
 
@@ -38,7 +38,7 @@ Among the ancient traditions of China there is a unique system of
 symbols called the *yih* (<span id="img_02500"></span>
 ![](img/02500.jpg)), i.e., "permutations" or "changes,"
 
-THE TWO PRIMARY FORMS <span id="fr_0"></span>[\*](#fn_0) (LIANG I).
+THE TWO PRIMARY FORMS <span id="fr_0"></span>[\*](#fn_0) (LIANG I.md).
 
 <div align="center">
 
@@ -284,7 +284,7 @@ NUMERALS</p></td>
 </div>
 
 were extant, the *Lien Shan*, the *Kwei Ts‘ang* and the *Yih of
-Chou*, <span id="fr_5"></span>[1](#fn_5) of which, however, the last one
+Chou*, <span id="fr_5"></span>[1](#fn_5.md) of which, however, the last one
 alone has been preserved.
 
 This *Yih of Chou*, our present *Yih King*, exhibits two arrangements of
@@ -292,10 +292,10 @@ the kwa figures, of which one is attributed to their originator,
 
 <span id="page_29">p. 29</span>
 
-the legendary Fuh-Hi, <span id="fr_6"></span>[2](#fn_6) the other to Wen
-Wang. <span id="fr_7"></span>[3](#fn_7) Fuh-Hi is also called
-Feng, <span id="fr_8"></span>[4](#fn_8) "wind," and Tai Ho, <span
-id="fr_9"></span>[5](#fn_9) "the great celestial," and he lived,
+the legendary Fuh-Hi, <span id="fr_6"></span>[2](#fn_6.md) the other to Wen
+Wang. <span id="fr_7"></span>[3](#fn_7.md) Fuh-Hi is also called
+Feng, <span id="fr_8"></span>[4](#fn_8.md) "wind," and Tai Ho, <span
+id="fr_9"></span>[5](#fn_9.md) "the great celestial," and he lived,
 according to Chinese records, from 2852 to 2738 B.C. It speaks well for
 the mathematical genius of the ancient founders of Chinese civilisation
 that the original order of the yih, attributed to Fuh-Hi, corresponds
@@ -307,7 +307,7 @@ it in terms of high
 
 <span id="img_02900"></span> <span align="CENTER">
 [![FUH-HI.](tn/02900.jpg)  
-Click to enlarge](img/02900.jpg)  
+Click to enlarge](img/02900.jpg.md)  
 FUH-HI.  
 </span>
 
@@ -387,7 +387,7 @@ THE TRIGRAMS AS FAMILY RELATIONS.
 <span class="contnote">\[paragraph continues\]</span> Fa, surnamed Wu
 Wang, being forced into a conflict with Chou-Sin, overthrew the imperial
 forces. The tyrant died in the flames of his palace which had been
-ignited by his own hands. Wu Wang <span id="fr_10"></span>[6](#fn_10)
+ignited by his own hands. Wu Wang <span id="fr_10"></span>[6](#fn_10.md)
 assumed the government and became the founder of the Chou dynasty which
 reigned from 1122 until 225 B.C.
 
@@ -400,7 +400,7 @@ better days he considered that the
 <span id="page_31">p. 31</span>
 
 prophecies were fulfilled, and his faith in their occult meaning became
-more and more firmly established. <span id="fr_11"></span>[7](#fn_11)
+more and more firmly established. <span id="fr_11"></span>[7](#fn_11.md)
 
 The eight permutations of the trigrams apparently form the oldest part
 of the *Yih King*. They have been an object of contemplation since time
@@ -412,7 +412,7 @@ relations, the unalloyed yang represents
 
 <span id="img_03100"></span> <span align="CENTER"> [![ARRANGEMENT OF
 TRIGRAMS ACCORDING TO FUH-HI.](tn/03100.jpg)  
-Click to enlarge](img/03100.jpg)  
+Click to enlarge](img/03100.jpg.md)  
 ARRANGEMENT OF TRIGRAMS ACCORDING TO FUH-HI.  
 </span>
 
@@ -438,7 +438,7 @@ place in every opposite kwa a yang line correspond with a yin line and
 
 <span id="img_03200"></span> <span align="CENTER"> [![ARRANGEMENT OF
 TRIGRAMS ACCORDING TO WEN WANG.](tn/03200.jpg)  
-Click to enlarge](img/03200.jpg)  
+Click to enlarge](img/03200.jpg.md)  
 ARRANGEMENT OF TRIGRAMS ACCORDING TO WEN WANG.  
 </span>
 
@@ -458,7 +458,7 @@ and renders all things visible</span>
 <span class="small">to one another, being the kwa which represents the
 south. Kw‘un is the earth from which all things endowed with life
 receive food. Tui corresponds to mid-autumn. Ch‘ien is the kwa of the
-northwest. Kan is water, the kwa [of](errata.htm#0) the exact north
+northwest. Kan is water, the kwa [of](errata.htm#0.md) the exact north
 representing distress, and unto it everything endowed with life reverts.
 Kan is the kwa of the northeast where living things both rise and
 terminate."</span>
@@ -485,30 +485,30 @@ their turn begot the fixed stars.
 
 ### Footnotes
 
-<span id="fn_0"></span>[25:\*](choc01.htm#fr_0) It is difficult to
+<span id="fn_0"></span>[25:\*](choc01.htm#fr_0.md) It is difficult to
 translate the term *Liang I*. One might call the two I "elements," if
 that word were not used in another sense. The two I are commonly
 referred to as "Elementary Forms" or "Primary Forms." De Groot speaks of
 them as "Regulators."
 
-<span id="fn_1"></span>[27:1](choc01.htm#fr_2) Unity in multiplicity,
+<span id="fn_1"></span>[27:1](choc01.htm#fr_2.md) Unity in multiplicity,
 i.e., the Yang dominating over the Yin.
 
-<span id="fn_2"></span>[27:2](choc01.htm#fr_3) Multiplicity in unity,
+<span id="fn_2"></span>[27:2](choc01.htm#fr_3.md) Multiplicity in unity,
 i.e., the Yin dominating over the Yang.
 
-<span id="fn_3"></span>[27:3](choc01.htm#fr_1) While the Yin major
+<span id="fn_3"></span>[27:3](choc01.htm#fr_1.md) While the Yin major
 denotes dominion in the concrete world of material existence, the Yang
 major symbolises the superhuman and supernatural, the divine, the
 extraordinary, such as would be a genius on a throne, a great man in the
 highest sense of the word.
 
-<span id="fn_4"></span>[28:\*](choc01.htm#fr_4) A native student of the
+<span id="fn_4"></span>[28:\*](choc01.htm#fr_4.md) A native student of the
 Yih system does not connect the usual meaning of the word with the names
 of the eight Kwas, and we insert here a translation of the character
 only for the sake of completeness.
 
-<span id="fn_5"></span>[28:1](choc01.htm#fr_5) Lien Shan means "mountain
+<span id="fn_5"></span>[28:1](choc01.htm#fr_5.md) Lien Shan means "mountain
 range" and by some is supposed to be a *nom de plume* of Shen Nung (i.e.
 "divine husbandman"), the mythical ruler of ancient China (2737–2697
 B.C.), successor to Fuh-Hi. Others identify Lien Shan with Fuh-Hi. Kwei
@@ -518,24 +518,24 @@ Hwang Ti, "the Yellow Emperor," the third of the three rulers,
 (2697–2597 B.C.), a kind of a Chinese Numa Pompilius. The Chou redaction
 of the Yih, which is the latest one, is named after the Chou dynasty.
 
-<span id="fn_6"></span>[29:2](choc01.htm#fr_6) <span
+<span id="fn_6"></span>[29:2](choc01.htm#fr_6.md) <span
 id="img_02901"></span> ![](img/02901.jpg).
 
-<span id="fn_7"></span>[29:3](choc01.htm#fr_7) <span
+<span id="fn_7"></span>[29:3](choc01.htm#fr_7.md) <span
 id="img_02902"></span> ![](img/02902.jpg).
 
-<span id="fn_8"></span>[29:4](choc01.htm#fr_8) <span
+<span id="fn_8"></span>[29:4](choc01.htm#fr_8.md) <span
 id="img_02903"></span> ![](img/02903.jpg).
 
-<span id="fn_9"></span>[29:5](choc01.htm#fr_9) <span
+<span id="fn_9"></span>[29:5](choc01.htm#fr_9.md) <span
 id="img_02904"></span> ![](img/02904.jpg).
 
-<span id="fn_10"></span>[30:6](choc01.htm#fr_10) Wu Wang was born 1169
+<span id="fn_10"></span>[30:6](choc01.htm#fr_10.md) Wu Wang was born 1169
 B.C.; he became emperor in 1122 B.C. and died 1116 B.C.
 
-<span id="fn_11"></span>[31:7](choc01.htm#fr_11) Mayers, *Chinese
+<span id="fn_11"></span>[31:7](choc01.htm#fr_11.md) Mayers, *Chinese
 Reader's Manual*, p. 177.
 
 ------------------------------------------------------------------------
 
-[Next: The Tablet of Destiny](choc02)
+[Next: The Tablet of Destiny](choc02.md)

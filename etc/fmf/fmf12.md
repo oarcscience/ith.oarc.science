@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf11)  [Next](fmf13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf11)  [Next](fmf13.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ MORAL: Cheer Up, Girls.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Wise Piker Who Had the Kind of Talk That
-Went](fmf13)
+Went](fmf13.md)

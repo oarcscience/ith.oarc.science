@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate21)  [Next](gate23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate21)  [Next](gate23.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ may send light into the thick darkness, and may make his radiance
 illumine the hidden habitation.' This door is shut after this great god
 hath passed through it, and there is lamentation to those who are in
 this gateway when they hear this door close upon them" (see [p.
-169](#page_169)).
+169](#page_169).md).
 
 <span id="page_169">p. 169</span>
 
@@ -47,7 +47,7 @@ boat of the Sun through this Division.
  
 
 <span id="img_16900"></span> [![](tn/generic.jpg)  
-Click to view](img/16900.jpg)  
+Click to view](img/16900.jpg.md)  
 The Serpent Set-em-maat-f.
 
  
@@ -71,7 +71,7 @@ it.
 it.
 
 8\. A mummied form, with projecting elbows, called, or MET <span
-id="fr_20"></span>[1](#fn_20).
+id="fr_20"></span>[1](#fn_20.md).
 
 9\. The jackal-headed standard called SHU, with two "enemies" tied to
 it.
@@ -86,10 +86,10 @@ it.
 <span id="page_171">p. 171</span>
 
 13\. The jackal-headed standard called SAR, (Osiris). <span
-id="fr_21"></span>[1](#fn_21)
+id="fr_21"></span>[1](#fn_21.md)
 
 14\. A mummied form, with projecting elbows, called AA-KHER (?) <span
-id="fr_22"></span>[1](#fn_21).
+id="fr_22"></span>[1](#fn_21.md).
 
 15\. The jackal-headed standard called HERU.
 
@@ -102,7 +102,7 @@ The text which refers to the above-mentioned gods reads:--
  
 
 <span id="img_17200"></span> [![](tn/generic.jpg)  
-Click to view](img/17200.jpg)  
+Click to view](img/17200.jpg.md)  
 Fragment of the Sixth Division of the Tuat, from the Cover of the
 Sarcophagus of Seti I.
 
@@ -113,7 +113,7 @@ Sarcophagus of Seti I.
  
 
 <span id="img_17300"></span> [![](tn/generic.jpg)  
-Click to view](img/17300.jpg)  
+Click to view](img/17300.jpg.md)  
 Fragment of the Sixth Division of the Tuat, from the Cover of the
 Sarcophagus of Seti I.
 
@@ -144,13 +144,13 @@ Seti I.; on it we see:--
 1\. Five upright male figures, each of whom holds a large loaf of bread,
 with both hands on his head; when the scene was complete these figures
 were twelve in number, as we learn from the variants published by
-Champollion, <span id="fr_23"></span>[1](#fn_22)and they are called
+Champollion, <span id="fr_23"></span>[1](#fn_22.md)and they are called
 HETEPTI-KHEPERU.
 
 2\. Six upright male figures, each of whom holds the feather of Maat
 with both hands on his head; when the scene was complete these figures
 were twelve in number, and they are called AUTU-MAAMU-KHERU-MAAT <span
-id="fr_24"></span>[2](#fn_23).
+id="fr_24"></span>[2](#fn_23.md).
 
 The text which remains reads:--
 
@@ -161,7 +161,7 @@ The text which remains reads:--
  
 
 <span id="img_17600"></span> [![](tn/generic.jpg)  
-Click to view](img/17600.jpg)  
+Click to view](img/17600.jpg.md)  
 Fragment of the Cover of the Sarcophagus of Seti I. in the British
 Museum.
 
@@ -182,12 +182,12 @@ which are in your Lake . . . . .'"
  
 
 <span id="img_17700"></span> [![](tn/generic.jpg)  
-Click to view](img/17700.jpg)
+Click to view](img/17700.jpg.md)
 
  
 
 A few years ago I purchased from a native at Luxor a fragment of the
-cover of the sarcophagus of Seti I. (see [p. 176](#page_176)); this is
+cover of the sarcophagus of Seti I. (see [p. 176](#page_176).md); this is
 now in the British Museum (No. 29,948), and it gives the following:--
 
 1\. Three male figures, each of which bears a loaf on his head.
@@ -365,19 +365,19 @@ the Tuat."
 
 ### Footnotes
 
-<span id="fn_20"></span>[170:1](gate22.htm#fr_20) The names are supplied
+<span id="fn_20"></span>[170:1](gate22.htm#fr_20.md) The names are supplied
 from Champollion, *Notices*, p. 502.
 
-<span id="fn_21"></span>[171:1](gate22.htm#fr_22) The names are supplied
+<span id="fn_21"></span>[171:1](gate22.htm#fr_22.md) The names are supplied
 from Champollion, Notices, p. 502.
 
-<span id="fn_22"></span>[175:1](gate22.htm#fr_23) *Notices*, ii., p.
+<span id="fn_22"></span>[175:1](gate22.htm#fr_23.md) *Notices*, ii., p.
 501.
 
-<span id="fn_23"></span>[175:2](gate22.htm#fr_24) Supplied from
+<span id="fn_23"></span>[175:2](gate22.htm#fr_24.md) Supplied from
 Champollion, *Notices*, ii., p. 502.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. The Gate Of Akha-En-Maat. The Seventh Division of the
-Tuat.](gate23)
+Tuat.](gate23.md)

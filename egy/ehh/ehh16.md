@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh15)  [Next](ehh17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh15)  [Next](ehh17.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ regeneration,
  
 
 <span id="img_14900"></span> [![](tn/generic.jpg)  
-Click to view](img/14900.jpg)  
+Click to view](img/14900.jpg.md)  
 The Serpent Asht-hrau.
 
  
@@ -62,7 +62,7 @@ Sunrise. The path over which he now journeys is called the "secret path
 of Amentet," and he who knoweth it, and the names of those who are on
 it, and their forms, shall partake of the offerings made to the gods of
 Osiris, and receive the gifts which his relatives (*abt* <span
-id="fr_49"></span>[1](#fn_49)) shall make upon earth.
+id="fr_49"></span>[1](#fn_49).md) shall make upon earth.
 
 On the right of AFU-RA are a company of gods and goddesses, and a group
 of sceptres surmounted by crowns and uraei, and provided with knives;
@@ -95,9 +95,9 @@ the words of power of AFU-RA, who is now to be regarded as KHEPERA.
 
 ### Footnotes
 
-<span id="fn_49"></span>[150:1](ehh16.htm#fr_49) See above, p. 66.
+<span id="fn_49"></span>[150:1](ehh16.htm#fr_49.md) See above, p. 66.
 
 ------------------------------------------------------------------------
 
 [Next: Seventh Division of the Tuat. I. Kingdom of Osiris According to
-the Book Am-Tuat](ehh17)
+the Book Am-Tuat](ehh17.md)

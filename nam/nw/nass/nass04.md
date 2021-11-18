@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass03)  [Next](nass05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass03)  [Next](nass05.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ of the trees caught fire. He went on after he had obtained the fire.
 provisions of the chieftainess. He was angry and threw away the salmon,
 and then all the salmon which he was going to eat ran away. After that
 his bead became ugly, while it had been very nice when he first met the
-chieftainess. After that it was ugly. <span id="fr_3"></span>[1](#fn_3)
+chieftainess. After that it was ugly. <span id="fr_3"></span>[1](#fn_3.md)
 
 2a. Txä'msEm did another thing. He induced the olachen to come to Nass
 river. He entered the house called Supernatural place or Tabued place.
@@ -178,11 +178,11 @@ black.
 
 ### Footnotes
 
-<span id="fn_3"></span>[32:1](nass04.htm#fr_3) This is an allusion to
+<span id="fn_3"></span>[32:1](nass04.htm#fr_3.md) This is an allusion to
 the legend about how the raven obtained the salmon. See Boas,
 Indianische Sagen von der nord-pacifischen Küste Amerikas, Berlin, 1895,
 pp. 160, 174, 209.
 
 ------------------------------------------------------------------------
 
-[Next: Txä'msEm](nass05)
+[Next: Txä'msEm](nass05.md)

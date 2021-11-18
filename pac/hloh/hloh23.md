@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh22)  [Next](hloh24) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh22)  [Next](hloh24.md) 
 
 ------------------------------------------------------------------------
 
@@ -229,4 +229,4 @@ given to a point of land not far from this place-the name
 
 ------------------------------------------------------------------------
 
-[Next: XX. Iwa, the Notable Thief of OahU](hloh24)
+[Next: XX. Iwa, the Notable Thief of OahU](hloh24.md)

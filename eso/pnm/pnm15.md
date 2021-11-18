@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm14)  [Next](pnm16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm14)  [Next](pnm16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -156,14 +156,14 @@ in a very little time to signify his mind unto another man abiding at a
 very long and unknown distance from him; although he cannot precisely
 give an estimate of the time when it is, yet of necessity it must be
 within twenty-four hours; and I myself know how to do it, and have often
-done it. <span id="fr_6"></span>[\*](#fn_6) The same also in time past
+done it. <span id="fr_6"></span>[\*](#fn_6.md) The same also in time past
 did the Abbot Trithemius both know and do. Also, when certain
 appearances, not only spiritual but also natural, do flow forth from
 
 <span id="page_53">p. 53</span>
 
 things (that is to say, by a certain kind of flowing forth of bodies
-from bodies <span id="fr_7"></span>[†](#fn_7) and do gather strength in
+from bodies <span id="fr_7"></span>[†](#fn_7.md) and do gather strength in
 the Air), they offer and *show* themselves to us as well through light
 as motion, as well to the sight as to other senses, and sometimes work
 wonderful things upon us, as Plotinus proves and teacheth. And we see
@@ -218,7 +218,7 @@ from the South, *Boreas* from the North, *Zephyrus* 
 
 <span id="page_55">p. 55</span>
 
-from the West, *Eurus* from the East, <span id="fr_8"></span>[\*](#fn_8)
+from the West, *Eurus* from the East, <span id="fr_8"></span>[\*](#fn_8.md)
 which Pontanus comprehending in these verses, saith:
 
 <div style="margin-left: 32px">
@@ -289,7 +289,7 @@ With fruitful showres and clouds which ever weep.</span>
 
 ### Footnotes
 
-<span id="fn_6"></span>[52:\*](pnm15.htm#fr_6) This is conclusive
+<span id="fn_6"></span>[52:\*](pnm15.htm#fr_6.md) This is conclusive
 evidence that telepathy or mind transference has been known and
 practiced for hundreds of years. The method of mind transference is
 frequently carried out unawares, and may be performed in various ways.
@@ -329,10 +329,10 @@ conditions may be dispensed with, and it will be merely necessary to
 <span class="smallcaps">will</span> and <span
 class="smallcaps">think</span>—projecting the message astrally.
 
-<span id="fn_7"></span>[53:†](pnm15.htm#fr_7) The astral body from the
+<span id="fn_7"></span>[53:†](pnm15.htm#fr_7.md) The astral body from the
 material body.
 
-<span id="fn_8"></span>[55:\*](pnm15.htm#fr_8) Marcus Manilius, of Rome,
+<span id="fn_8"></span>[55:\*](pnm15.htm#fr_8.md) Marcus Manilius, of Rome,
 time of Augustus, and author of the poem entitled "Astronomica," thus
 writes of the Cardinal Winds (Five Books of Manilius, London, 1697):
 
@@ -353,4 +353,4 @@ And pleasing Zephyrus cools the setting Sun.</span>
 
 [Next: Chapter VII. Of the Kinds of Compounds, what Relation They Stand
 in to the Elements, and What Relation There Is Betwixt the Elements
-Themselves and the Soul, Senses and Dispositions of Men](pnm16)
+Themselves and the Soul, Senses and Dispositions of Men](pnm16.md)

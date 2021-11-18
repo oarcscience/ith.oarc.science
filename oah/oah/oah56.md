@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah55)  [Next](oah57) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah55)  [Next](oah57.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ the heavens of the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](oah57)
+[Next: Chapter III](oah57.md)

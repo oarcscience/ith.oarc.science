@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](dbn12)  [Next](dbn14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](dbn12)  [Next](dbn14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Negro*, by W.E.B. Du Bois, \[1915\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ Semitic blood.
 a system of concubinage of colored women in slavery days, together with
 some legal intermarriage,
 
-The figures as to mulattoes <span id="fr_89"></span>[1](#fn_89) have
+The figures as to mulattoes <span id="fr_89"></span>[1](#fn_89.md) have
 been from time to time officially acknowledged to be understatements.
 Probably one-third of the Negroes of the United States have distinct
 traces of white blood. This blending of the races has led to interesting
@@ -115,7 +115,7 @@ the seventeenth century to have their slaves receive Christian
 instruction. Massachusetts first apparently legislated on this matter by
 enacting in 1641 that slavery should be confined to captives in just
 wars "and such strangers as willingly sell themselves or are sold to
-us," <span id="fr_90"></span>[1](#fn_90) meaning by "strangers"
+us," <span id="fr_90"></span>[1](#fn_90.md) meaning by "strangers"
 apparently heathen, but saying nothing as to the effect of conversion.
 Connecticut adopted similar legislation in 1650, and Virginia declared
 in 1661 that Negroes "are incapable of making satisfaction" for time
@@ -126,7 +126,7 @@ Virginia finally plucked up courage to attack the issue squarely and
 declared by law: "Baptism doth not alter the condition of the person as
 to his bondage or freedom, in order that diverse masters freed from this
 doubt may more carefully endeavor the propagation of
-Christianity." <span id="fr_91"></span>[2](#fn_91)
+Christianity." <span id="fr_91"></span>[2](#fn_91.md)
 
 The transplanting of the Negro from his African clan life to the West
 Indian plantation was a social revolution. Marriage became
@@ -162,7 +162,7 @@ arose and spread with marvelous rapidity the Negro church, the first
 distinctively Negro American social institution. It was not at first by
 any means a Christian church, but a mere adaptation of those rites of
 fetish which in America is termed obe worship, or "voodooism." <span
-id="fr_92"></span>[1](#fn_92) Association and missionary effort soon
+id="fr_92"></span>[1](#fn_92.md) Association and missionary effort soon
 gave these rites a veneer of Christianity and gradually, after two
 centuries, the church became Christian, with a simple Calvinistic creed,
 but with many of the old customs still clinging to the services. It is
@@ -247,7 +247,7 @@ hundred colored men were deprived of the vote. In fact, as Albert
 Bushnell Hart says, "In the colonies freed Negroes, like freed
 indentured white servants, acquired property, founded families, and came
 into the political community if they had the energy, thrift, and fortune
-to get the necessary property." <span id="fr_93"></span>[1](#fn_93)
+to get the necessary property." <span id="fr_93"></span>[1](#fn_93.md)
 
 The humanitarian movement of the eighteenth century was active toward
 Negroes, because of the part which they played in the Revolutionary War.
@@ -291,7 +291,7 @@ his pupils a United States senator, sons of a chief justice of North
 Carolina, a governor of the state, and many others. He was a
 full-blooded Negro, but a Southern writer says that "all accounts agree
 that John Chavis was a gentleman. He was received socially among the
-best whites and asked to table." <span id="fr_94"></span>[1](#fn_94)
+best whites and asked to table." <span id="fr_94"></span>[1](#fn_94.md)
 
 In the war of 1812 thirty-three hundred Negroes helped Jackson win the
 battle of New Orleans, and numbers fought in New York State and in the
@@ -539,7 +539,7 @@ killed and wounded. The conduct of these troops was exemplary. They were
 indispensable in camp duties and brave on the field, where they fought
 in two hundred and thirteen battles. General Banks wrote, "Their conduct
 was heroic. No troops could be more determined or more daring." <span
-id="fr_95"></span>[1](#fn_95)
+id="fr_95"></span>[1](#fn_95.md)
 
 The assault on Fort Wagner, led by a thousand black soldiers under the
 white Colonel Shaw, is one of the greatest deeds of desperate bravery on
@@ -556,7 +556,7 @@ thousand able-bodied colored men, most of them under arms, defending and
 acquiring Union territory. . . . Abandon all the posts now garrisoned by
 black men; take two hundred thousand men from our side and put them in
 the battlefield or cornfield against us, and we would be compelled to
-abandon the war in three weeks." <span id="fr_96"></span>[2](#fn_96)
+abandon the war in three weeks." <span id="fr_96"></span>[2](#fn_96.md)
 Emancipation thus came as a war measure to break the power of the
 Confederacy, preserve the Union, and gain the sympathy of the civilized
 world.
@@ -593,7 +593,7 @@ veritable reign of terror prevailed in many parts of the South. The
 Negro found scant justice in the local courts against the white man. He
 could look for protection only to the military forces of the United
 States still garrisoning the states lately in rebellion and to the
-Freedmen's Bureau." <span id="fr_97"></span>[1](#fn_97) This Freedmen's
+Freedmen's Bureau." <span id="fr_97"></span>[1](#fn_97.md) This Freedmen's
 Bureau was proposed by Charles Sumner. If it had been presented to-day
 instead of fifty years ago, it would have been regarded as a proposal
 far less revolutionary than the state insurance of England and Germany.
@@ -662,7 +662,7 @@ been or would be done but for the exertions of the Freedmen's Bureau. .
 could have wielded that moral power whose interposition was so necessary
 to prevent Southern society from falling at once into the chaos of a
 general collision between its different elements." <span
-id="fr_98"></span>[1](#fn_98) Notwithstanding this the Bureau was
+id="fr_98"></span>[1](#fn_98.md) Notwithstanding this the Bureau was
 temporary, was regarded as a makeshift, and soon abandoned.
 
 Meantime partial Negro suffrage seemed not only just, but almost
@@ -715,7 +715,7 @@ word, or gesture of the Negro, not consonant with good taste and good
 manners as well as good morals, was made a crime or misdemeanor for
 which he could first be fined by the magistrates and then be consigned
 to a condition of almost slavery for an indefinite time, if he could not
-pay the bill." <span id="fr_99"></span>[1](#fn_99)
+pay the bill." <span id="fr_99"></span>[1](#fn_99.md)
 
 All things considered, it seems probable that, if the South had been
 permitted to have its way in 1865, the harshness of Negro slavery would
@@ -739,7 +739,7 @@ Negro was allowed to vote, though at that very time the wealthy
 intelligent free colored people of the state paid taxes on property
 assessed at fifteen million dollars and many of them were well known for
 their patriotic zeal and love for the Union." <span
-id="fr_100"></span>[2](#fn_100)
+id="fr_100"></span>[2](#fn_100.md)
 
 Thus the arguments for universal Negro suffrage from the start
 
@@ -751,12 +751,12 @@ Frederick Douglass said to President Johnson, "Your noble and humane
 predecessor placed in our hands the sword to assist in saving the
 nation, and we do hope that you, his able successor, will favorably
 regard the placing in our bands the ballot with which to save
-ourselves." <span id="fr_101"></span>[1](#fn_101)
+ourselves." <span id="fr_101"></span>[1](#fn_101.md)
 
 Carl Schurz wrote, "It is idle to say that it will be time to speak of
 Negro suffrage when the whole colored race will be educated, for the
 ballot may be necessary to him to secure his education." <span
-id="fr_102"></span>[2](#fn_102)
+id="fr_102"></span>[2](#fn_102.md)
 
 The granting of full Negro suffrage meant one of two alternatives to the
 South: (1) The uplift of the Negro for sheer self-preservation. This is
@@ -847,7 +847,7 @@ maintain that our freedom will be of no effect if we allow it to
 continue. What is the main cause of the prosperity of the North? It is
 because every man has his own farm and is free and independent. Let the
 lands of the South be similarly divided." <span
-id="fr_103"></span>[1](#fn_103)
+id="fr_103"></span>[1](#fn_103.md)
 
 From such arguments the Negroes were induced to aid a scheme to buy land
 and distribute it. Yet a large part of eight hundred thousand dollars
@@ -894,7 +894,7 @@ of financial reform, transmitted to the Hampton government an
 indebtedness not greater by more than two and a half million dollars
 than was the bonded debt of the state in 1868, before the Republican
 Negroes and their white allies came into power." <span
-id="fr_104"></span>[1](#fn_104)
+id="fr_104"></span>[1](#fn_104.md)
 
 So, too, in Louisiana in 1872, and in Mississippi later, the better
 element of the Republicans triumphed at the polls and, joining with the
@@ -929,7 +929,7 @@ time no man's rights of persons were invaded under the forms of law.
 Every Democrat's life, home, fireside, and business were safe. No man
 obstructed any white man's way to the ballot box, interfered with his
 freedom of speech, or boycotted him on account of his political
-faith." <span id="fr_105"></span>[1](#fn_105)
+faith." <span id="fr_105"></span>[1](#fn_105.md)
 
 A thorough study of the legislation accompanying these constitutions and
 its changes since shows the comparatively small amount of change in law
@@ -945,7 +945,7 @@ Democrats, and the leading white paper said, "His bearing in office had
 been so proper, and his rulings in such marked contrasts to the partisan
 conduct of the ignoble whites of his party who have aspired to be
 leaders of the blacks, that the conservatives cheerfully joined in the
-testimonial." <span id="fr_106"></span>[2](#fn_106)
+testimonial." <span id="fr_106"></span>[2](#fn_106.md)
 
 Of the colored treasurer of South Carolina the white Governor
 Chamberlain said, "I have never heard one word or seen one act of Mr.
@@ -953,7 +953,7 @@ Cardoza's which did not confirm my confidence in his personal integrity
 and his political honor and zeal for the honest administration of the
 state government. On every occasion, and under all circumstances, he has
 been against fraud and robbery and in favor of good measures and good
-men." <span id="fr_107"></span>[3](#fn_107)
+men." <span id="fr_107"></span>[3](#fn_107.md)
 
 Jonathan C. Gibbs, a colored man and the first state superintendent of
 instruction in Florida, was a graduate of Dartmouth. He established the
@@ -981,7 +981,7 @@ older South, but they were so wise and so well suited to the needs of
 the new South that, in spite of a retrogressive movement following the
 overthrow of the Negro governments, the mass of this legislation, with
 elaborations and development, still stands on the statute books of the
-South. <span id="fr_108"></span>[1](#fn_108)
+South. <span id="fr_108"></span>[1](#fn_108.md)
 
 The triumph of reaction in the South inaugurated a new era in which we
 may distinguish three phases: the renewed attempt to reduce the Negroes
@@ -1264,7 +1264,7 @@ brotherhood.
 
 ### Footnotes
 
-<span id="fn_89"></span>[111:1](dbn13.htm#fr_89) The figures given by
+<span id="fn_89"></span>[111:1](dbn13.htm#fr_89.md) The figures given by
 the census are as follows:
 
 1850, mulattoes formed 11.2 per cent of the total Negro population.
@@ -1289,13 +1289,13 @@ Or in actual numbers:
 
 1910, 2,050,686 mulattoes.
 
-<span id="fn_90"></span>[112:1](dbn13.htm#fr_90) Cf. "The Spanish Jurist
+<span id="fn_90"></span>[112:1](dbn13.htm#fr_90.md) Cf. "The Spanish Jurist
 Solorzaris," quoted in Helps: *Spanish Conquest*, IV, 381.
 
-<span id="fn_91"></span>[112:2](dbn13.htm#fr_91) Hurd: *Law of Freedom
+<span id="fn_91"></span>[112:2](dbn13.htm#fr_91.md) Hurd: *Law of Freedom
 and Bondage*.
 
-<span id="fn_92"></span>[113:1](dbn13.htm#fr_92) "Obi (Obeah, Obiah, or
+<span id="fn_92"></span>[113:1](dbn13.htm#fr_92.md) "Obi (Obeah, Obiah, or
 Obia) is the adjective; Obe or Obi, the noun. It is of African origin,
 probably connected with Egyptian Ob, Aub, or Obron, meaning 'serpent.'
 Moses forbids Israelites ever to consult the demon Ob, i.e., 'Charmer,
@@ -1305,52 +1305,52 @@ Appollo, 'the Ancient Deity of Africa.'"-Edwards: *West Indies*, ed.
 1819, II, 106-119. Cf. Johnston: *Negro in the New World*, pp. 65-66;
 also *Atlanta University Publications*, No. 8, pp. 5-6.
 
-<span id="fn_93"></span>[115:1](dbn13.htm#fr_93) *Boston Transcript*,
+<span id="fn_93"></span>[115:1](dbn13.htm#fr_93.md) *Boston Transcript*,
 March 24, 1906.
 
-<span id="fn_94"></span>[116:1](dbn13.htm#fr_94) Bassett: *North
+<span id="fn_94"></span>[116:1](dbn13.htm#fr_94.md) Bassett: *North
 Carolina*, pp. 73-76.
 
-<span id="fn_95"></span>[122:1](dbn13.htm#fr_95) Cf. Wilson: *The Black
+<span id="fn_95"></span>[122:1](dbn13.htm#fr_95.md) Cf. Wilson: *The Black
 Phalanx*.
 
-<span id="fn_96"></span>[122:2](dbn13.htm#fr_96) Wilson: *The Black
+<span id="fn_96"></span>[122:2](dbn13.htm#fr_96.md) Wilson: *The Black
 Phalanx*, p. 108.
 
-<span id="fn_97"></span>[123:1](dbn13.htm#fr_97) *American Historical
+<span id="fn_97"></span>[123:1](dbn13.htm#fr_97.md) *American Historical
 Review*, Vol. XV.
 
-<span id="fn_98"></span>[125:1](dbn13.htm#fr_98) Report to President
+<span id="fn_98"></span>[125:1](dbn13.htm#fr_98.md) Report to President
 Johnson.
 
-<span id="fn_99"></span>[126:1](dbn13.htm#fr_99) *Reconstruction and the
+<span id="fn_99"></span>[126:1](dbn13.htm#fr_99.md) *Reconstruction and the
 Constitution*.
 
-<span id="fn_100"></span>[126:2](dbn13.htm#fr_100) Brewster: *Sketches*,
+<span id="fn_100"></span>[126:2](dbn13.htm#fr_100.md) Brewster: *Sketches*,
 etc.
 
-<span id="fn_101"></span>[127:1](dbn13.htm#fr_101) McPherson:
+<span id="fn_101"></span>[127:1](dbn13.htm#fr_101.md) McPherson:
 *Reconstruction*, p. 52.
 
-<span id="fn_102"></span>[127:2](dbn13.htm#fr_102) Report to the
+<span id="fn_102"></span>[127:2](dbn13.htm#fr_102.md) Report to the
 President, 1865.
 
-<span id="fn_103"></span>[129:1](dbn13.htm#fr_103) *American Historical
+<span id="fn_103"></span>[129:1](dbn13.htm#fr_103.md) *American Historical
 Review*, Vol. XV, No. 4.
 
-<span id="fn_104"></span>[130:1](dbn13.htm#fr_104) *Occasional Papers*,
+<span id="fn_104"></span>[130:1](dbn13.htm#fr_104.md) *Occasional Papers*,
 American Negro Academy, No. 6.
 
-<span id="fn_105"></span>[131:1](dbn13.htm#fr_105) *Occasional Papers*,
+<span id="fn_105"></span>[131:1](dbn13.htm#fr_105.md) *Occasional Papers*,
 American Negro Academy, No. 6.
 
-<span id="fn_106"></span>[131:2](dbn13.htm#fr_106) *Jackson (Miss.)
+<span id="fn_106"></span>[131:2](dbn13.htm#fr_106) *Jackson (Miss..md)
 Clarion*, April 24, 1873.
 
-<span id="fn_107"></span>[131:3](dbn13.htm#fr_107) Allen: *Governor
+<span id="fn_107"></span>[131:3](dbn13.htm#fr_107.md) Allen: *Governor
 Chamberlain's Administration*, p. 82.
 
-<span id="fn_108"></span>[132:1](dbn13.htm#fr_108) Reconstruction
+<span id="fn_108"></span>[132:1](dbn13.htm#fr_108.md) Reconstruction
 Constitutions, practically unaltered, were kept in Florida, 1868-85,
 seventeen years; Virginia, 1870-1902, thirty-two years; South Carolina,
 1868-95, twenty-seven years; Mississippi, 1868-90, twenty-two years.
@@ -1359,6 +1359,6 @@ seventeen years; Virginia, 1870-1902, thirty-two years; South Carolina,
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Negro Problems](dbn14)
+[Next: XII. The Negro Problems](dbn14.md)
 
 </div>

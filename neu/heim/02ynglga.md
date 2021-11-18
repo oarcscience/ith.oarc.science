@@ -1,7 +1,7 @@
 <span class="small"></span>
 
-[Sacred Texts Index](../../index)  [Northern European Index](../index) 
-[Heimskringla Index](index)  [Previous](01intro)  [Next](03halfdn) 
+[Sacred Texts Index](../../index)  [Northern European Index](../index.md) 
+[Heimskringla Index](index)  [Previous](01intro)  [Next](03halfdn.md) 
 
 ------------------------------------------------------------------------
 

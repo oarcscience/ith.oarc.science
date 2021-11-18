@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf23)  [Next](sbf25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf23)  [Next](sbf25.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -151,6 +151,6 @@ have been killed; all (of them) would have become frogs.\]
 
 ------------------------------------------------------------------------
 
-[Next: The Girl's Story; The Frogs' Story.](sbf25)
+[Next: The Girl's Story; The Frogs' Story.](sbf25.md)
 
 </div>

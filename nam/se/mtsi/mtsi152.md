@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi151)  [Next](mtsi153) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi151)  [Next](mtsi153.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ bowstring, when a crow came out, cawed, and went flying out of sight.
 
 ------------------------------------------------------------------------
 
-[Next: 17. The Orphan](mtsi153)
+[Next: 17. The Orphan](mtsi153.md)

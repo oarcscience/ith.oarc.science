@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba13)  [Next](mba15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba13)  [Next](mba15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ floating legends of antiquity were attached to his memory, and he became
 identified with gods and giants and knight-errants "old in story". In
 Scotland, for instance, the boulder-throwing giant of Eildon hills bears
 the name of Wallace, the Edinburgh giant of Arthur's Seat is called
-after an ancient Celtic king, <span id="fr_190"></span>[1](#fn_189) and
+after an ancient Celtic king, <span id="fr_190"></span>[1](#fn_189.md) and
 Thomas the Rhymer takes the place, in an Inverness fairy mound called
 Tom-na-hurich, of Finn (Fingal) as chief of the "Seven Sleepers".
 Similarly Napoleon sleeps in France and Skobeleff in Russia, as do also
@@ -95,7 +95,7 @@ Birth. His wife was about to become a mother, and was accordingly in
 need of magical aid. A similar belief caused birth girdles of straw or
 serpent skins, and eagle stones found in eagles' nests, to be used in
 ancient Britain and elsewhere throughout Europe apparently from the
-earliest times. <span id="fr_191"></span>[1](#fn_190)
+earliest times. <span id="fr_191"></span>[1](#fn_190.md)
 
 On this or another occasion Etana desired to ascend to highest heaven.
 He asked the Eagle to assist him, and the bird assented, saying: "Be
@@ -125,7 +125,7 @@ further onwards the broken tablet narrates that the Eagle is falling.
 Down and down eagle and man fall together until they strike the earth,
 and the Eagle's body is shattered.
 
-The Indian Garuda eagle <span id="fr_192"></span>[1](#fn_191) never met
+The Indian Garuda eagle <span id="fr_192"></span>[1](#fn_191.md) never met
 with such a fate, but on one occasion Vishnu overpowered it with his
 right arm, which was heavier than the whole universe, and caused many
 feathers to fall off. In the story of Rama's wanderings, however, as
@@ -136,7 +136,7 @@ Rama, who found it disabled: "Once upon a time we two (brothers), with
 the desire of out-stripping each other, flew towards the sun. My wings
 were burnt, but those of my brother were not. . . . I fell down on the
 top of this great mountain, where I still am." <span
-id="fr_193"></span>[2](#fn_192)
+id="fr_193"></span>[2](#fn_192.md)
 
 Another version of the Etana story survives among the Arabian Moslems.
 In the "Al Fatihat" chapter of the Koran it is related that a Babylonian
@@ -153,7 +153,7 @@ He, however, persisted in his design. The narrative states that he was
 wandering for some time through the air, he fell down on a mountain with
 such a force that he made it shake". A reference in the Koran to
 "contrivances . . . which make mountains tremble" is believed to allude
-to Nimrod's vain attempt. <span id="fr_194"></span>[1](#fn_193)
+to Nimrod's vain attempt. <span id="fr_194"></span>[1](#fn_193.md)
 
 Alexander the Great was also reputed to have ascended on the back of an
 eagle. Among the myths attached to his memory in the Ethiopic "history"
@@ -167,7 +167,7 @@ Alexander fed and tamed great birds which were larger than eagles. Then
 he ordered four of his soldiers to mount them. The men were carried to
 the "Country of the Living", and when they returned they told Alexander
 "all that had happened and all that they had seen". <span
-id="fr_195"></span>[2](#fn_194)
+id="fr_195"></span>[2](#fn_194.md)
 
 In a Gaelic story a hero is carried off by a Cromhineach, "a vast bird
 like an eagle". He tells that it "sprang to the clouds with me, and I
@@ -183,7 +183,7 @@ herself (the eagle) and she slept. The sun was enlivening me pretty well
 though I was dead." Afterwards the eagle bathed in a healing well, and
 as it splashed in the water, drops fell on the hero and he came to life.
 "I grew stronger and more active", he adds, "than I had ever been
-before." <span id="fr_196"></span>[1](#fn_195)
+before." <span id="fr_196"></span>[1](#fn_195.md)
 
 The eagle figures in various mythologies, and appears to have been at
 one time worshipped as the god or goddess of fertility, and storm and
@@ -195,7 +195,7 @@ Greek sky and air god, was attended by an eagle, and may, at one time,
 have been simply an eagle. In Egypt the place of the eagle is taken by
 Nekhebit, the vulture goddess whom the Greeks identified with
 "Eileithyia, the goddess of birth; she was usually represented as a
-vulture hovering over the king". <span id="fr_197"></span>[2](#fn_196)
+vulture hovering over the king". <span id="fr_197"></span>[2](#fn_196.md)
 
 The double-headed eagle of the Hittites, which figures in the royal arms
 of Germany and Russia, appears to have symbolized the deity of whom the
@@ -214,7 +214,7 @@ incarnation of Vishnu", the "Preserver" of the Hindu trinity who rode on
 its back. The hymn referred to lauds Garuda as "the bird of life, the
 presiding spirit of the animate and inanimate universe . . . destroyer
 of all, creator of all". It burns all "as the sun in his anger burneth
-all creatures". <span id="fr_198"></span>[1](#fn_197)
+all creatures". <span id="fr_198"></span>[1](#fn_197.md)
 
 Birds were not only fates, from whose movements in flight omens were
 drawn, but also spirits of fertility. When the childless Indian sage
@@ -226,10 +226,10 @@ It is of interest, therefore, to find the Etana eagle figuring as a
 symbol of royalty at Rome. The deified Roman Emperor's waxen image was
 burned on a pyre after his death, and an eagle was let loose from the
 great pile to carry his soul to heaven. <span
-id="fr_199"></span>[2](#fn_198) This custom was probably a relic of
+id="fr_199"></span>[2](#fn_198.md) This custom was probably a relic of
 seasonal fire worship, which may have been introduced into Northern and
 Western Syria and Asia Minor by the mysterious Mitanni rulers, if it was
-not an archaic Babylonian custom <span id="fr_200"></span>[3](#fn_199)
+not an archaic Babylonian custom <span id="fr_200"></span>[3](#fn_199.md)
 associated with fire-and-water magical ceremonies, represented in the
 British Isles by May-Day and Midsummer fire-and-water festivals. Sandan,
 the mythical founder of Tarsus, was honoured
@@ -238,7 +238,7 @@ the mythical founder of Tarsus, was honoured
 
 each year at that city by burning a great bonfire, and he was identified
 with Hercules. Probably he was a form of Moloch and Melkarth. <span
-id="fr_201"></span>[1](#fn_200) Doves were burned to Adonis. The burning
+id="fr_201"></span>[1](#fn_200.md) Doves were burned to Adonis. The burning
 of straw figures, representing gods of fertility, on May-Day bonfires
 may have been a fertility rite, and perhaps explains the use of straw
 birth-girdles.
@@ -246,7 +246,7 @@ birth-girdles.
 According to the commentators of the Koran, Nimrod, the Babylonian king,
 who cast victims in his annual bon-fires at Cuthah, died on the eighth
 day of the Tammuz month, which, according to the Syrian calendar, fell
-on 13th July. <span id="fr_202"></span>[2](#fn_201) It is related that
+on 13th July. <span id="fr_202"></span>[2](#fn_201.md) It is related that
 gnats entered Nimrod's brain, causing the membrane to grow larger. He
 suffered great pain, and to relieve it had his head beaten with a
 mallet. Although he lived for several hundred years, like other
@@ -255,7 +255,7 @@ that he was ultimately sacrificed and burned. The beating of Nimrod
 recalls the beating of the corn spirit of the agricultural legend
 utilized by Burns in his ballad of "John Barleycorn", which gives a
 jocular account of widespread ancient customs that are not yet quite
-extinct even in Scotland: <span id="fr_203"></span>[3](#fn_202)
+extinct even in Scotland: <span id="fr_203"></span>[3](#fn_202.md)
 
 <div style="margin-left: 32px">
 
@@ -283,13 +283,13 @@ Olympus amidst peals of thunder.
 Gilgamesh, the Babylonian Hercules, who links with Etana, Nimrod, and
 Sandan, is associated with the eagle, which in India, as has been shown,
 was identified with the gods of fertility, fire, and death. According to
-a legend related by Ælian, <span id="fr_204"></span>[1](#fn_203) "the
+a legend related by Ælian, <span id="fr_204"></span>[1](#fn_203.md) "the
 guards of the citadel of Babylon threw down to the ground a child who
 had been conceived and brought forth in secret, and who afterwards
 became known as Gilgamos". This appears to be another version of the
 Sargon-Tammuz myth, and may also refer to the sacrifice of children to
 Melkarth and Moloch, who were burned or slain "in the valleys under the
-clifts of the rocks" <span id="fr_205"></span>[2](#fn_204) to ensure
+clifts of the rocks" <span id="fr_205"></span>[2](#fn_204.md) to ensure
 fertility and feed the corn god. Gilgamesh, however, did not perish. "A
 keen-eyed eagle saw the child falling, and before it touched the ground
 the bird flew under it and received it on its back, and carried it away
@@ -304,10 +304,10 @@ produce it: thus by sprinkling water they
 <span id="page_172">p. 172</span>
 
 make rain, by lighting a fire they make sunshine, and so on." <span
-id="fr_206"></span>[1](#fn_205) Evidently Gilgamesh was a heroic form of
+id="fr_206"></span>[1](#fn_205.md) Evidently Gilgamesh was a heroic form of
 the god Tammuz, the slayer of the demons of winter and storm, who passed
 one part of the year in the world and another in Hades ([Chapter
-VI](mba12.htm#an_ch-06)).
+VI](mba12.htm#an_ch-06).md).
 
 Like Hercules, Gilgamesh figured chiefly in legendary narrative as a
 mighty hero. He was apparently of great antiquity, so that it is
@@ -351,7 +351,7 @@ when he was stricken with madness.
 
 He was driven from men, and did eat grass as oxen, and his body was wet
 with the dew of heaven, till his hairs were grown like eagles' feathers,
-and his nails like birds' claws." <span id="fr_207"></span>[1](#fn_206)
+and his nails like birds' claws." <span id="fr_207"></span>[1](#fn_206.md)
 
 The hunter had no desire to combat with Ea-bani, so he had him lured
 from the wilds by a beautiful woman. Love broke the spell which kept
@@ -377,7 +377,7 @@ high rank.
 
 The two heroes became close friends, and when the narrative becomes
 clear again, they are found to be setting forth to wage war against
-Chumbaba, <span id="fr_208"></span>[1](#fn_207) the King of Elam. Their
+Chumbaba, <span id="fr_208"></span>[1](#fn_207.md) the King of Elam. Their
 journey was long and perilous. In time they entered a thick forest, and
 wondered greatly at the numerous and lofty cedars. They saw the great
 road which the king had caused to be made, the high mountain, and the
@@ -469,7 +469,7 @@ Gilgamesh had spoken, and she prevailed upon her father Anu to create a
 fierce bull which she sent against the lord of Erech.
 
 This monster, however, was slain by Gilgamesh <span
-id="fr_209"></span>[1](#fn_208) and Ea-bani, but their triumph was
+id="fr_209"></span>[1](#fn_208.md) and Ea-bani, but their triumph was
 shortlived. Ishtar cursed Gilgamesh. Ea-bani then defied her and
 threatened to deal with her as he had dealt with the bull, with the
 result that he was cursed by the goddess also.
@@ -485,7 +485,7 @@ apparently in a battle, and Gilgamesh lamented
 <span id="img_17600"></span> <span align="CENTER"> [![THE SLAYING OF THE
 BULL OF ISHTAR&lt;br&gt; &lt;i&gt;From the Painting by E.
 Wallcousins&lt;/i&gt;.](tn/17600.jpg)  
-Click to enlarge](img/17600.jpg)  
+Click to enlarge](img/17600.jpg.md)  
 THE SLAYING OF THE BULL OF ISHTAR  
 *From the Painting by E. Wallcousins*.  
 </span>
@@ -514,7 +514,7 @@ range and then found himself confronted by the tremendous mountain of
 Mashi--"Sunset hill", which divided the land of the living from the
 western land of the dead. The mountain peak rose to heaven, and its
 foundations were in Aralu, the Underworld. <span
-id="fr_210"></span>[1](#fn_209) A dark tunnel pierced it and could be
+id="fr_210"></span>[1](#fn_209.md) A dark tunnel pierced it and could be
 entered through a door, but the door was shut and on either side were
 two monsters of horrible aspect--the gigantic "scorpion man" and his
 wife, whose heads reached to the clouds. When Gilgamesh beheld them he
@@ -565,7 +565,7 @@ Clean be thy clothes,
 Thy head be washed, bathe in water!  
 Look joyfully on the child that grasps thy hand,  
 Be happy with the wife in thine arms! <span
-id="fr_211"></span>[1](#fn_210)</span>
+id="fr_211"></span>[1](#fn_210.md)</span>
 
 </div>
 
@@ -593,7 +593,7 @@ Thy sister (wife) who dwells in thy heart.
 She sits at thy side.  
 Put song and music before thee,  
 Behind thee all evil things,  
-And remember thou (only) joy. <span id="fr_212"></span>[2](#fn_211)
+And remember thou (only) joy. <span id="fr_212"></span>[2](#fn_211.md)
 
 </div>
 
@@ -610,13 +610,13 @@ and</span>
 the wife whom thou lovest all the days of the life of thy vanity, which
 he \[God\] hath given thee under the sun, all the days of thy vanity:
 for that is thy portion in this life, and in thy labour which thou
-takest under the sun. <span id="fr_213"></span>[1](#fn_212)</span>
+takest under the sun. <span id="fr_213"></span>[1](#fn_212.md)</span>
 
 "The pious Hebrew mind", Jastrow adds, "found the corrective to this
 view of life in the conception of a stern but just God, acting according
 to self-imposed standards of right and wrong, whose rule extends beyond
 the grave." The final words of the Preacher are, "Fear God and keep his
-commandments". <span id="fr_214"></span>[2](#fn_213)
+commandments". <span id="fr_214"></span>[2](#fn_213.md)
 
 Gilgamesh did not accept the counsel of the fatalistic sea lady. He
 asked her how he could reach Pir-napishtim, his ancestor, saying he was
@@ -680,7 +680,7 @@ seven nights thou
 <span id="page_182">p. 182</span>
 
 shalt not lie down, but remain sitting like one in the midst of
-grief." <span id="fr_215"></span>[1](#fn_214)
+grief." <span id="fr_215"></span>[1](#fn_214.md)
 
 Gilgamesh sat in the ship, and sleep enveloped him like to a black storm
 cloud.
@@ -721,7 +721,7 @@ Erech, his own city, where he would partake of it and restore his youth.
 
 So Gilgamesh and Arad Ea went on their way together, nor paused until
 they came to a well of pure water. The hero stooped down to draw
-water. <span id="fr_216"></span>[1](#fn_215) But while he was thus
+water. <span id="fr_216"></span>[1](#fn_215.md) But while he was thus
 engaged that demon, the Earth Lion, crept forth as a serpent, and,
 seizing the magic plant of life, carried it away. Stricken with terror,
 Gilgamesh uttered a curse. Then he sat down and wept bitterly, and the
@@ -790,14 +790,14 @@ the river Gjöll. Svipdag, according to a Norse poem, was guided like the
 Babylonian hero by the moon god, Gevar, who instructed him what way he
 should take to find the irresistible sword. Saxo's Hother, who is
 instructed by "King Gewar", crosses dismal mountains "beset with
-extraordinary cold". <span id="fr_217"></span>[1](#fn_216) Thorkill
+extraordinary cold". <span id="fr_217"></span>[1](#fn_216.md) Thorkill
 crosses a stormy ocean to the region of perpetual darkness, where the
 ghosts of the dead are confined in loathsome and dusty caves. At the
 main entrance "the door posts were begrimed with the soot of
-ages". <span id="fr_218"></span>[2](#fn_217) In the Elder Edda Svipdag
+ages". <span id="fr_218"></span>[2](#fn_217.md) In the Elder Edda Svipdag
 is charmed against the perils he will be confronted by as he fares "o’er
 seas mightier than men do know", or is overtaken by night "wandering on
-the misty way". <span id="fr_219"></span>[3](#fn_218) When Odin
+the misty way". <span id="fr_219"></span>[3](#fn_218.md) When Odin
 "downward rode into Misty Hel" he sang spells at a "witch's grave", and
 the ghost rose up to answer his questions regarding Balder. "Tell me
 tidings of Hel", he addressed her, as Gilgamesh addressed the ghost of
@@ -825,7 +825,7 @@ green, like the fairies of England and Scotland. This fortunate man kept
 his secret. His name was Matun, but he was afterwards nicknamed
 "'El-Khidr', that is to say, 'Green'". What explanation he offered for
 his sudden change of appearance has not been recorded. <span
-id="fr_220"></span>[1](#fn_219) It is related that when Matun reached
+id="fr_220"></span>[1](#fn_219.md) It is related that when Matun reached
 the Well of Life a dried fish which he dipped in the water was restored
 to life and swam away. In the Koran a similar story is told regarding
 Moses and Joshua, who travelled "for a long space of time" to a place
@@ -838,7 +838,7 @@ the seashore Moses fell asleep, and the fish, which had been roasted,
 leapt out of the basket into the sea. Another version sets forth that
 Joshua, "making the ablution at the fountain of life", some of the water
 happened to be sprinkled on the fish, which immediately leapt up. <span
-id="fr_221"></span>[2](#fn_220)
+id="fr_221"></span>[2](#fn_220.md)
 
 The Well of Life is found in Fingalian legends. When Diarmid was
 mortally wounded by the boar, he called upon Finn to carry water to him
@@ -867,7 +867,7 @@ periodically destroyed by deluges. When Bhima reaches the lotus lake he
 fights with demons. To heal his wounds and recover strength he plunges
 into the lake. "As he drank of the waters, like unto nectar, his energy
 and strength were again fully restored." <span
-id="fr_222"></span>[1](#fn_221)
+id="fr_222"></span>[1](#fn_221.md)
 
 Hercules similarly sets out to search for the golden apples which grow
 in
@@ -924,7 +924,7 @@ to cross the dangerous ocean. Hanuman
 at length, however, obtained the assistance of Vayu, the wind god, his
 divine father, and leapt over the sea, slaying monsters as he went. He
 discovered where the fair lady was concealed by the king of
-demons. <span id="fr_223"></span>[1](#fn_222)
+demons. <span id="fr_223"></span>[1](#fn_222.md)
 
 The dark tunnel is met with in many British stories of daring heroes who
 set out to explore it, but never return. In the Scottish versions the
@@ -956,128 +956,128 @@ and sent their ideas rippling in widening circles to far-distant shores.
 
 ### Footnotes
 
-<span id="fn_189"></span>[164:1](mba14.htm#fr_190) It is suggested that
+<span id="fn_189"></span>[164:1](mba14.htm#fr_190.md) It is suggested that
 Arthur is derived from the Celtic word for "bear". If so, the bear may
 have been the "totem" of the Arthur tribe represented by the Scottish
 clan of MacArthurs.
 
-<span id="fn_190"></span>[165:1](mba14.htm#fr_191) See "Lady in the
+<span id="fn_190"></span>[165:1](mba14.htm#fr_191.md) See "Lady in the
 Straw" beliefs in *Brand's Popular Antiquities*, vol. ii, 66 *et seq*.
 (1899 ed.).
 
-<span id="fn_191"></span>[166:1](mba14.htm#fr_192) Like the Etana
+<span id="fn_191"></span>[166:1](mba14.htm#fr_192.md) Like the Etana
 "mother eagle" Garuda was a slayer of serpents ([Chapter
-III](mba09.htm#an_ch-03)).
+III](mba09.htm#an_ch-03).md).
 
-<span id="fn_192"></span>[166:2](mba14.htm#fr_193) *Yana Parva* section
+<span id="fn_192"></span>[166:2](mba14.htm#fr_193.md) *Yana Parva* section
 of the *Mahàbhàrata* (Roy's trans.), p. 818 *et seq*., and *Indian Myth
 and Legend*, p. 413.
 
-<span id="fn_193"></span>[167:1](mba14.htm#fr_194) *The Koran* (with
+<span id="fn_193"></span>[167:1](mba14.htm#fr_194.md) *The Koran* (with
 notes from approved commentators), trans. by George Sale, p. 246, *n*.
 
-<span id="fn_194"></span>[167:2](mba14.htm#fr_195) *The Life and
+<span id="fn_194"></span>[167:2](mba14.htm#fr_195.md) *The Life and
 Exploits of Alexander the Great*, E. Wallis Budge (London, 1896), pp.
 277-8, 474-5.
 
-<span id="fn_195"></span>[168:1](mba14.htm#fr_196) Campbell's *West
+<span id="fn_195"></span>[168:1](mba14.htm#fr_196.md) Campbell's *West
 Highland Tales*, vol. iii, pp. 251-4 (1892 ed.).
 
-<span id="fn_196"></span>[168:2](mba14.htm#fr_197) *Religion of the
+<span id="fn_196"></span>[168:2](mba14.htm#fr_197.md) *Religion of the
 Ancient Egyptians*, A. Wiedemann, p. 14.
 
-<span id="fn_197"></span>[169:1](mba14.htm#fr_198) *Adi Parva* section
+<span id="fn_197"></span>[169:1](mba14.htm#fr_198.md) *Adi Parva* section
 of the *Mahàbhàrata* (Hymn to Garuda), Roy's trans., p. 88, 89.
 
-<span id="fn_198"></span>[169:2](mba14.htm#fr_199) Herodian, iv, 2.
+<span id="fn_198"></span>[169:2](mba14.htm#fr_199.md) Herodian, iv, 2.
 
-<span id="fn_199"></span>[169:3](mba14.htm#fr_200) The image made by
+<span id="fn_199"></span>[169:3](mba14.htm#fr_200.md) The image made by
 Nebuchadnezzar is of interest in this connection. He decreed that "whoso
 falleth not down and worshippeth" should be burned in the "fiery
 furnace". The Hebrews, Shadrach, Meshach, and Abednego, were accordingly
 thrown into the fire, but were delivered by God. *Daniel*, iii, 1-30.
 
-<span id="fn_200"></span>[170:1](mba14.htm#fr_201) The Assyrian and
+<span id="fn_200"></span>[170:1](mba14.htm#fr_201.md) The Assyrian and
 Phœnician Hercules is discussed by Raoul Rochette in *Mémoires de
 l’Académie des Inscriptions et Belles Lettres* (Paris, 1848), pp. 178
 *et seq*.
 
-<span id="fn_201"></span>[170:2](mba14.htm#fr_202) G. Sale's *Koran*, p.
+<span id="fn_201"></span>[170:2](mba14.htm#fr_202.md) G. Sale's *Koran*, p.
 246, *n*.
 
-<span id="fn_202"></span>[170:3](mba14.htm#fr_203) In the Eddic poem
+<span id="fn_202"></span>[170:3](mba14.htm#fr_203.md) In the Eddic poem
 "Lokasenna" the god Byggvir (Barley) is addressed by Loki, "Silence,
 Barleycorn!" *The Elder Edda*, translation by Olive Bray, pp. 262, 263.
 
-<span id="fn_203"></span>[171:1](mba14.htm#fr_204) De Nat. Animal., xii,
+<span id="fn_203"></span>[171:1](mba14.htm#fr_204.md) De Nat. Animal., xii,
 21, ed. Didot, p. 210, quoted by Professor Budge in *The Life and
 Exploits of Alexander the Great*, p. 278, *n*.
 
-<span id="fn_204"></span>[171:2](mba14.htm#fr_205) *Isaiah*, lvii, 4 and
+<span id="fn_204"></span>[171:2](mba14.htm#fr_205.md) *Isaiah*, lvii, 4 and
 5.
 
-<span id="fn_205"></span>[172:1](mba14.htm#fr_206) *The Golden Bough*
+<span id="fn_205"></span>[172:1](mba14.htm#fr_206.md) *The Golden Bough*
 (*Adonis, Attis, Osiris* vol.), "The Gardens of Adonis", pp. 194 *et
 seq*. (3rd ed.).
 
-<span id="fn_206"></span>[173:1](mba14.htm#fr_207) *Daniel*, iv, 33. It
+<span id="fn_206"></span>[173:1](mba14.htm#fr_207.md) *Daniel*, iv, 33. It
 is possible that Nebuchadnezzar, as the human representative of the god
 of corn and fertility, imitated the god by living a time in the wilds
 like Ea-bani.
 
-<span id="fn_207"></span>[174:1](mba14.htm#fr_208) Pronounce *ch*
+<span id="fn_207"></span>[174:1](mba14.htm#fr_208.md) Pronounce *ch*
 guttural.
 
-<span id="fn_208"></span>[176:1](mba14.htm#fr_209) On a cylinder seal
+<span id="fn_208"></span>[176:1](mba14.htm#fr_209.md) On a cylinder seal
 the heroes each wrestle with a bull.
 
-<span id="fn_209"></span>[177:1](mba14.htm#fr_210) Alexander the Great
+<span id="fn_209"></span>[177:1](mba14.htm#fr_210.md) Alexander the Great
 in the course of his mythical travels reached a mountain at the
 world-end. "Its peak reached to the first heaven and its base to the
 seventh earth."--Budge.
 
-<span id="fn_210"></span>[179:1](mba14.htm#fr_211) Jastrow's trans.,
+<span id="fn_210"></span>[179:1](mba14.htm#fr_211.md) Jastrow's trans.,
 *Aspects of Religious Belief and Practice in Babylonia and Assyria*, p.
 374.
 
-<span id="fn_211"></span>[179:2](mba14.htm#fr_212) *Development of
+<span id="fn_211"></span>[179:2](mba14.htm#fr_212.md) *Development of
 Religion and Thought in Ancient Egypt* (1912), J. H. Breasted, pp.
 183-5.
 
-<span id="fn_212"></span>[180:1](mba14.htm#fr_213) *Ecclesiastes*, ix,
+<span id="fn_212"></span>[180:1](mba14.htm#fr_213.md) *Ecclesiastes*, ix,
 7-9.
 
-<span id="fn_213"></span>[180:2](mba14.htm#fr_214) *Ibid*., xii, 13.
+<span id="fn_213"></span>[180:2](mba14.htm#fr_214.md) *Ibid*., xii, 13.
 
-<span id="fn_214"></span>[182:1](mba14.htm#fr_215) Perhaps brooding and
+<span id="fn_214"></span>[182:1](mba14.htm#fr_215.md) Perhaps brooding and
 undergoing penance like an Indian Rishi with purpose to obtain spiritual
 power.
 
-<span id="fn_215"></span>[183:1](mba14.htm#fr_216) Probably to perform
+<span id="fn_215"></span>[183:1](mba14.htm#fr_216.md) Probably to perform
 the ceremony or pouring out a libation.
 
-<span id="fn_216"></span>[185:1](mba14.htm#fr_217) Saxo, iii, 71.
+<span id="fn_216"></span>[185:1](mba14.htm#fr_217.md) Saxo, iii, 71.
 
-<span id="fn_217"></span>[185:2](mba14.htm#fr_218) *Ibid*., viii, 291.
+<span id="fn_217"></span>[185:2](mba14.htm#fr_218.md) *Ibid*., viii, 291.
 
-<span id="fn_218"></span>[185:3](mba14.htm#fr_219) *The Elder Edda*, O.
+<span id="fn_218"></span>[185:3](mba14.htm#fr_219.md) *The Elder Edda*, O.
 Bray, pp. 157 *et seq*. See also *Teutonic Myth and Legend*.
 
-<span id="fn_219"></span>[186:1](mba14.htm#fr_220) *The Life and
+<span id="fn_219"></span>[186:1](mba14.htm#fr_220.md) *The Life and
 Exploits of Alexander the Great*, E. Wallis Budge, pp. xl *et seq*., 167
 *et seq*.
 
-<span id="fn_220"></span>[186:2](mba14.htm#fr_221) *The Koran*, trans.
+<span id="fn_220"></span>[186:2](mba14.htm#fr_221.md) *The Koran*, trans.
 by G. Sale, pp. 222, 223 (chap. xviii).
 
-<span id="fn_221"></span>[187:1](mba14.htm#fr_222) *Yana Parva* section
+<span id="fn_221"></span>[187:1](mba14.htm#fr_222.md) *Yana Parva* section
 of the *Mahàbhàrata* (Roy's trans.), pp. 435-60, and *Indian Myth and
 Legend*, pp. 105-9.
 
-<span id="fn_222"></span>[189:1](mba14.htm#fr_223) Yana Parva section of
+<span id="fn_222"></span>[189:1](mba14.htm#fr_223.md) Yana Parva section of
 the *Mahàbhàrata* (Roy's translation), pp. 832, 833.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. Deluge Legend, the Island of the Blessed, and
-Hades](mba15)
+Hades](mba15.md)

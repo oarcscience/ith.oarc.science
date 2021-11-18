@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc21)  [Next](sfoc23) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc21)  [Next](sfoc23.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ the past.
 
 ------------------------------------------------------------------------
 
-[Next: The Cherokee Gods and Their Abiding Places](sfoc23)
+[Next: The Cherokee Gods and Their Abiding Places](sfoc23.md)

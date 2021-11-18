@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](rufo15)  [Next](rufo17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](rufo15)  [Next](rufo17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Report on Unidentified Flying Objects*, by Edward J. Ruppelt,
 \[1956\], at Intangible Textual Heritage
 
@@ -575,7 +575,7 @@ herd on the UFO project for General Samford, was now chief at ATIC,
 having replaced Colonel Dunn, who went to the Air War College. General
 Garland had long been in favor of trying to get some concrete
 information, either positive or negative, about the UFO's. This planned
-tracking system would replace the [diffraction](errata.htm#1) grid
+tracking system would replace the [diffraction](errata.htm#1.md) grid
 cameras that were still being developed at ATIC.
 
 Thirdly, as soon as we could we were planning to gather together a group
@@ -681,4 +681,4 @@ in favor of the UFO.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fifteen. The Radiation Story](rufo17)
+[Next: Chapter Fifteen. The Radiation Story](rufo17.md)

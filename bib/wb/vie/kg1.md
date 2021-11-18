@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](sa2)  [Next](kg2) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](sa2)  [Next](kg2.md) 
 
 ------------------------------------------------------------------------
 
@@ -3187,4 +3187,4 @@ cha người đã làm.
 
 ------------------------------------------------------------------------
 
-[Next: 2 Kings](kg2)
+[Next: 2 Kings](kg2.md)

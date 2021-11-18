@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob45) 
-[Next](tob47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob45.md) 
+[Next](tob47.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ first only their place in the plane will appear; then it will be clearly
 defined. We know that the Kosmos is conceived as the final expansion of
 the mathematical point, that is to say, of the Absolute, which before
 this expansion included all force or potentiality in its nothingness.
-Let us draw this sphere (see [Fig. 1](#img_27500)). The centre of it
+Let us draw this sphere (see [Fig. 1](#img_27500).md). The centre of it
 will be represented by one of the cards, 0, the *Foolish Man* or
 *Crocodile*, which is the pivot of the whole pack, at the same time that
 it participates in all the other cards, for they include all the
@@ -77,7 +77,7 @@ will appear on its surface.
  
 
 <span id="img_27500"></span> [![FIG. 1](tn/27500.jpg)  
-Click to enlarge](img/27500.jpg)  
+Click to enlarge](img/27500.jpg.md)  
 FIG. 1  
 
  
@@ -101,7 +101,7 @@ III., and this second sequence will form a new zone upon the sphere. A
 third, a little inferior, will be formed by cards VII., VIII. and IX.,
 cards XI., X. and XII. will occupy the Equator, and the 9 cards from
 XIII. to XXI. will be distributed like the 9 first, in 3 bands placed
-upon the lower hemisphere as shown in [Fig. 1](#img_27500).
+upon the lower hemisphere as shown in [Fig. 1](#img_27500.md).
 
 Now our 22 great arcana are placed; let us pause and look at their
 significations. Above the Equator we see an ever-increasing expansion of
@@ -125,7 +125,7 @@ arcana which follow represent Initiation carried to its extreme limits,
 the path by which the creature (X.) returns from its multiplicity to the
 unity of the spirit, goes back to the point--the southern pole--a new
 reflex of the Absolute, towards which it reascends by the vertical axis
-of the sphere. <span id="fr_84"></span>[1](#fn_84)
+of the sphere. <span id="fr_84"></span>[1](#fn_84.md)
 
 The Neophyte, after his preparation (positive science, magnetism and
 alchemy, X., XI., XII.), travels through the sublunar world (XIII.,
@@ -211,7 +211,7 @@ trinities besides the tenth, Malchut, which unites them.
 
 Our distribution must also take the two numbers 3 and 4 into account, by
 combining them so as to utilize all the elements which we have just
-enumerated. This is how we can do this (follow [Fig. 1](#img_27500) upon
+enumerated. This is how we can do this (follow [Fig. 1](#img_27500.md) upon
 the plane of the Equator, represented as a ring. outside the sphere)--
 
 We will first separate some of the cards: the Knave of each of the 4
@@ -275,7 +275,7 @@ order. As to the four 10, they are placed quite outside, as we have
 already said.
 
 We thus obtain the distribution represented by the figures
-[1](#img_27500) and [2](#img_28400).
+[1](#img_27500) and [2](#img_28400.md).
 
 Let us now consider their signification.
 
@@ -328,7 +328,7 @@ One observation will suffice to justify the connection between the
 zodiac and our cards. We must note the 12 divisions of the circle into
 the triple repetition of the 4 letters of the Sacred Name; an operation
 legitimized by the remark already made, that these 4 colours correspond
-with these letters (see [Fig. 2](#img_28400), in the intermediate
+with these letters (see [Fig. 2](#img_28400.md), in the intermediate
 circle, where the signs of the Zodiac are written). We at once recognize
 the 4 trigons of the Zodiac, corresponding
 
@@ -385,7 +385,7 @@ vintages, fecundity in all its forms.
  
 
 <span id="img_28400"></span> [![FIG. 2](tn/28400.jpg)  
-Click to enlarge](img/28400.jpg)  
+Click to enlarge](img/28400.jpg.md)  
 FIG. 2  
 
  
@@ -407,11 +407,11 @@ circles, it is also found upon the lines belonging to those circles,
 either in descending or in remounting.
 
 The first sector gives it without transposition, as we see in [Fig.
-2](#img_28400).
+2](#img_28400.md).
 
 In the second sector the divine Name is preceded by the feminine letter
 E, the Mother, and finally pauses at it: E, IEVE, IE. (See [the
-figure](#img_28400).)
+figure](#img_28400)..md)
 
 In the third, it commences by the letter of the Son and ends by that of
 the Father, to which he returns: VE, IEVE, I.
@@ -435,7 +435,7 @@ of fecundity; (4) the *realization* of the virtualities of the
 
 In the world of laws: arcanum V., the laws of the relation of the
 Created with the Uncreate (the *Initiator*, *Fear also*). <span
-id="fr_85"></span>[1](#fn_85) VI. (*Liberty*, *Beauty*); knowledge of
+id="fr_85"></span>[1](#fn_85) VI. (*Liberty*, *Beauty*.md); knowledge of
 good and evil; knowledge of the Law. VII. (Glory); rule of the Spirit
 over Matter, the fertile power of the Law; and VIII. (*absolute
 Justice*, *Victory*), realization of the Law.
@@ -496,7 +496,7 @@ Or again, I., VI., IX., X.: The descent of the Father (י) into the
 physical world (X.) by the Son (VI.) and by Yesod (IX.); the Word made
 flesh. This is the Redemption, the series which in the *Sepher Yetzirah*
 represents the C*o*lumn of the Sephiroth (Kether-Tiphereth-Yesod and
-Malchut). <span id="fr_86"></span>[1](#fn_86)
+Malchut). <span id="fr_86"></span>[1](#fn_86.md)
 
 <span id="page_288">p. 288</span>
 
@@ -557,15 +557,15 @@ of the Tarot, and the cross of four colours; this we have already
 pointed out.
 
 The Intelligible and its developments are provided by the sphere ([Fig.
-1](#img_27500)), or the circular distribution of the 21 great arcana
-([Fig. 2](#img_28400)).
+1](#img_27500).md), or the circular distribution of the 21 great arcana
+([Fig. 2](#img_28400).md).
 
 The physical is seen in the external plane of the Equator ([Fig.
-1](#img_27500)), with the distribution of the 56 minor arcana,
+1](#img_27500).md), with the distribution of the 56 minor arcana,
 representing the Zodiac and the various degrees of the multiplicity of
 Force through substance to the extreme pole, the negative unity 10.
 
-Moreover, the whole ([Fig. 1](#img_27500)) reproduces the form of the
+Moreover, the whole ([Fig. 1](#img_27500).md) reproduces the form of the
 planet Saturn, with its ring, a form which in itself, according to the
 theories of our positive sciences, is the clearest manifestation, the
 demonstration of the great laws of the formation of the Universe;
@@ -592,18 +592,18 @@ the *Word* in the sublunar world.
 
 ### Footnotes
 
-<span id="fn_84"></span>[277:1](tob46.htm#fr_84) The details which
+<span id="fn_84"></span>[277:1](tob46.htm#fr_84.md) The details which
 justify, this assertion will be found in the first part of this chapter.
 
-<span id="fn_85"></span>[286:1](tob46.htm#fr_85) Consult for the
+<span id="fn_85"></span>[286:1](tob46.htm#fr_85.md) Consult for the
 generation and signification of numbers the *Traité Élémentaire de
 Science Occulte*, by Papus, a learned author, whose good counsels have
 produced the best part of this article.
 
-<span id="fn_86"></span>[287:1](tob46.htm#fr_86) The signification of
+<span id="fn_86"></span>[287:1](tob46.htm#fr_86.md) The signification of
 the cards is borrowed from Fabre d'Olivet, Wronski, E. Levi, Christian,
 and the *Sepher Yetzirah* (translation by Papus).
 
 ------------------------------------------------------------------------
 
-[Next: Deductions by Etteila upon the Book of Thoth](tob47)
+[Next: Deductions by Etteila upon the Book of Thoth](tob47.md)

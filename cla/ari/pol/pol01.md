@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](pol00)  [Next](pol02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](pol00)  [Next](pol02.md) 
 
 ------------------------------------------------------------------------
 
@@ -806,4 +806,4 @@ a perfect state.
 
 ------------------------------------------------------------------------
 
-[Next: Book II](pol02)
+[Next: Book II](pol02.md)

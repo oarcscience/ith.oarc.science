@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Classics](../../cla/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Classics](../../cla/index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,18 +22,18 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](lgh00)  
-[Preface](lgh01)  
-[Contents](lgh02)  
-[Illustrations](lgh03)  
-[Niobe](lgh04)  
-[Alcestis](lgh05)  
-[Atalanta](lgh06)  
-[Antigone](lgh07)  
-[Klytaemnestra](lgh08)  
-[Helene](lgh09)  
-[Penelope](lgh10)  
-[Iphigeneia](lgh11)  
-[Kassandra](lgh12)  
-[Laodameia](lgh13)  
-[Notes](lgh14)  
+[Title Page](lgh00.md)  
+[Preface](lgh01.md)  
+[Contents](lgh02.md)  
+[Illustrations](lgh03.md)  
+[Niobe](lgh04.md)  
+[Alcestis](lgh05.md)  
+[Atalanta](lgh06.md)  
+[Antigone](lgh07.md)  
+[Klytaemnestra](lgh08.md)  
+[Helene](lgh09.md)  
+[Penelope](lgh10.md)  
+[Iphigeneia](lgh11.md)  
+[Kassandra](lgh12.md)  
+[Laodameia](lgh13.md)  
+[Notes](lgh14.md)  

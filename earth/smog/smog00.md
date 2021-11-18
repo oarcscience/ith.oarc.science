@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Next](smog01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Next](smog01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Smoky God*, by Willis George Emerson, \[1908\], at Intangible
 Textual Heritage
 
@@ -50,7 +50,7 @@ Textual Heritage
 
 <span id="img_front"></span> <span align="CENTER"> [![“I was left alone
 with the dead.”](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 “I was left alone with the dead.”  
 </span>
 
@@ -85,13 +85,13 @@ because it was published prior to 1923.
 
 <span id="img_cover"></span> <span align="CENTER">
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
@@ -105,4 +105,4 @@ MY WIFE
 
 ------------------------------------------------------------------------
 
-[Next: Contents](smog01)
+[Next: Contents](smog01.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf35) [Next](bulf37) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf35) [Next](bulf37.md) 
 
 # CHAPTER XXXVII.
 
@@ -376,4 +376,4 @@ of the earth, he says,-
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XXXVIII. Northern Mythology- Valhalla- The
-Valkyrior.](bulf37)
+Valkyrior.](bulf37.md)

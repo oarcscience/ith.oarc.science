@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod11)  [Next](eod13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod11)  [Next](eod13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -29,7 +29,7 @@ prominent a part in the ritual of animating the statue or the mummy, the
 most important incident in the ceremony was the "opening of the mouth,"
 which was regarded as giving it the breath of life.
 
-Elsewhere <span id="fr_67"></span>[1](#fn_67) I have suggested that the
+Elsewhere <span id="fr_67"></span>[1](#fn_67.md) I have suggested that the
 conception of the heart and blood as the vehicles of life, feeling,
 volition, and knowledge may have been extremely ancient. It is not known
 when or under what circumstances the idea of the breath being the "life"
@@ -41,7 +41,7 @@ Australia, and elsewhere the air-passages are represented leading to the
 heart. But there can be little doubt that the practice of mummification
 gave greater definiteness to the ideas regarding the "heart" and
 "breath," which eventually led to a differentiation between their
-supposed functions. <span id="fr_68"></span>[2](#fn_68) As the heart and
+supposed functions. <span id="fr_68"></span>[2](#fn_68.md) As the heart and
 the blood were obviously present in the dead body they could no longer
 be regarded as the "life". The breath was clearly the "element" the lack
 of which rendered the body inanimate. It was therefore regarded as
@@ -65,7 +65,7 @@ the skull among ancient peoples, to afford a more ready passage for the
 "vital essence" to and from the skull.
 
 In his lecture on "The Socratic Doctrine of the Soul," <span
-id="fr_69"></span>[1](#fn_69) Professor John Burnet has expounded the
+id="fr_69"></span>[1](#fn_69.md) Professor John Burnet has expounded the
 meaning of early Greek conceptions of the soul with rare insight and
 lucidity. Originally, the word ψυχή meant "breath," but, by historical
 times, it had already been specialized in two distinct ways. It had come
@@ -79,7 +79,7 @@ appear to another sleeping person in his dream. Moreover, since we can
 dream of the dead, what then appears to us must be just what leaves the
 body at the moment of death. These considerations explain the world-wide
 belief in the "soul" as a sort of double of the real bodily man, the
-Egyptian *ka*, <span id="fr_70"></span>[2](#fn_70) the Italian *genius*,
+Egyptian *ka*, <span id="fr_70"></span>[2](#fn_70.md) the Italian *genius*,
 and the Greek ψυχή.
 
 Now this double is not identical with whatever it is in us that feels
@@ -107,21 +107,21 @@ of the functions of the 'heart (mind) and tongue'. 'When
 the eyes see, the ears hear, and the nose breathes, they transmit to the
 heart. It is he (the heart) who brings forth every issue and it is the
 tongue which repeats the thought of the heart.'" <span
-id="fr_71"></span>[1](#fn_71)
+id="fr_71"></span>[1](#fn_71.md)
 
 "There came the saying that Atum, who created the gods, stated
 concerning Ptah-Tatenen: 'He is the fashioner of the gods. … He made
 likenesses of their bodies to the satisfaction of their hearts. Then the
 gods entered into their bodies of every wood and every stone and every
-metal.'" <span id="fr_72"></span>[2](#fn_72)
+metal.'" <span id="fr_72"></span>[2](#fn_72.md)
 
 That these ideas are really ancient is shown by the fact that in the
 Pyramid Texts Isis is represented conveying the breath of life to Osiris
-by "causing a wind with her wings." <span id="fr_73"></span>[3](#fn_73)
+by "causing a wind with her wings." <span id="fr_73"></span>[3](#fn_73.md)
 The ceremony of opening the mouth" which aimed at achieving this
 restoration of the breath of life was the principal part of the ritual
 procedure before the statue or mummy. As I have already mentioned ([p.
-25](eod09.htm#page_25)), the sculptor who modelled the portrait statue
+25](eod09.htm#page_25).md), the sculptor who modelled the portrait statue
 was called "he who causes to live," and the word "to fashion" a statue
 is identical with that which means "to give birth". The god Ptah created
 man by modelling his form in clay. Similarly the life-giving sculptor
@@ -135,7 +135,7 @@ remarkable completeness until the present day in India, Indonesia,
 China, America, and elsewhere. A statue of stone, wood, or clay is
 fashioned, and the ceremony of animation is performed to convey to it
 the breath of life, which in many places is supposed to be brought down
-from the sky. <span id="fr_74"></span>[4](#fn_74)
+from the sky. <span id="fr_74"></span>[4](#fn_74.md)
 
 In the Egyptian beliefs, as well as in most of the world-wide legends
 that were derived from them, the idea assumed a definite form that the
@@ -149,7 +149,7 @@ the vital principle apart from the body was entertained. It was supposed
 that it could return to the body and temporarily reanimate it. It could
 enter into and dwell within the stone representation of the deceased.
 Sometimes this so-called "soul" was identified <span
-id="fr_75"></span>[1](#fn_75) with the breath of life, which could enter
+id="fr_75"></span>[1](#fn_75.md) with the breath of life, which could enter
 into the statue as the result of the ceremony of "opening the mouth".
 
 It has been commonly assumed by Sir Edward Tylor and those who accept
@@ -166,9 +166,9 @@ shadow-phenomena were probably merely the predisposing circumstances
 which helped in the development of (or the corroborative details which
 were added to and, by rationalization, incorporated in) the
 "soul-theory," which other circumstances were responsible for
-creating. <span id="fr_76"></span>[2](#fn_76)
+creating. <span id="fr_76"></span>[2](#fn_76.md)
 
-I have already called attention ([p. 5](eod05.htm#page_5)) to the fact
+I have already called attention ([p. 5](eod05.htm#page_5).md) to the fact
 that in many of the psychological speculations in ethnology too little
 account is taken of the enormous complexity of the factors which
 determine even the simplest and apparently most obvious and rational
@@ -191,9 +191,9 @@ soul. In the creation of this edifice the thoughts and the aspirations
 of countless millions of peoples have played a part: but the foundation
 was laid down when the Egyptian king or priest claimed that he could
 restore to the dead the "breath of life" and, by means of the wand which
-he called "the great magician," <span id="fr_77"></span>[1](#fn_77)
+he called "the great magician," <span id="fr_77"></span>[1](#fn_77.md)
 could enable the dead to be born again. The wand is supposed by some
-scholars <span id="fr_78"></span>[2](#fn_78) to be a conventionalized
+scholars <span id="fr_78"></span>[2](#fn_78.md) to be a conventionalized
 representation of the uterus, so that its power of giving birth is
 expressed with literal directness. Such beliefs and stories of the
 "magic wand" are found to-day in scattered localities from the Scottish
@@ -232,7 +232,7 @@ marvel. But once he began to play with the idea that he had a double, a
 vital essence in his own shape which could leave the sleeping body and
 lead a separate existence, the placenta obviously provided tangible
 evidence of its reality. The considerations set forth by Blackman, <span
-id="fr_79"></span>[1](#fn_79) supplementing those of Moret, Murray and
+id="fr_79"></span>[1](#fn_79.md) supplementing those of Moret, Murray and
 Seligman, and others, have been claimed as linking the placenta with the
 *ka*.
 
@@ -271,7 +271,7 @@ welfare.
 claims that the *ka* "was a kind of superior genius intended to guide
 the fortunes of the individual in the hereafter" … there "he had his
 abode and awaited the coming of his earthly companion". <span
-id="fr_80"></span>[1](#fn_80) At death the deceased "goes to his *ka*,
+id="fr_80"></span>[1](#fn_80.md) At death the deceased "goes to his *ka*,
 to the sky". The *ka* controls and protects the deceased: he brings him
 food which they eat together.
 
@@ -289,7 +289,7 @@ Egyptian physiologist took cognisance.
 restored to him his character, "the sum of his attributes," his
 individuality, later raised to the position of a protecting genius or
 god, a Providence who watches over his well-being. <span
-id="fr_81"></span>[2](#fn_81)
+id="fr_81"></span>[2](#fn_81.md)
 
 The *ka* is not simply identical with the breath of life or *animus*, as
 Burnet supposes (*op. cit. supra*), but has a wider significance. The
@@ -301,7 +301,7 @@ born along with the individual.
 
 This material conception of the *ka* as a double who is born with and
 closely linked to the individual is, as Blackman has emphasized, <span
-id="fr_82"></span>[3](#fn_82) very suggestive of Baganda beliefs and
+id="fr_82"></span>[3](#fn_82.md) very suggestive of Baganda beliefs and
 rites connected with the placenta. At death the circumstances of the act
 of birth are reconstituted, and for this rebirth the placenta which
 played an essential part in the original process is restored to the
@@ -314,11 +314,11 @@ welfare, may have enriched the symbolism.
 
 Blackman makes the suggestion that "on the analogy of the beliefs
 entertained by the Hamitic ruling caste in Uganda," according to Roscoe,
-"the placenta, <span id="fr_83"></span>[1](#fn_83) or rather its ghost,
+"the placenta, <span id="fr_83"></span>[1](#fn_83.md) or rather its ghost,
 would have been supposed by the Ancient Egyptians to be closely
 connected with the individual's personality, as "he maintains was also
 the case with the god or protecting genius of the Babylonians. <span
-id="fr_84"></span>[2](#fn_84) "Unless united with his twin's \[*i.e.*
+id="fr_84"></span>[2](#fn_84.md) "Unless united with his twin's \[*i.e.*
 his placenta's\] ghost the dead king was an imperfect deity, *i.e.* his
 directing intelligence was impaired or lacking," presumably because the
 placenta was composed of blood, which was regarded as the material of
@@ -365,7 +365,7 @@ and irrigation; (*d*) at some subsequent period there was an easterly
 diffusion of culture from Turkestan into the Shensi Province of China
 proper; and (*e*) at least as early as the seventh century B.C. there
 was also a spread of Western culture to China by sea. <span
-id="fr_85"></span>[1](#fn_85)
+id="fr_85"></span>[1](#fn_85.md)
 
 I have already referred to some of the distinctively Egyptian traits in
 Chinese beliefs concerning the dead. Mingled with them are other equally
@@ -398,7 +398,7 @@ The *shen* or immaterial soul emanates from the ethereal celestial part
 of the cosmos and consists of *yang* substance. When operating actively
 in the living human body, it is called *khi* or "breath," and *hwun*;
 when separated from it after death it lives forth as a refulgent spirit,
-styled *ming*. <span id="fr_86"></span>[1](#fn_86)
+styled *ming*. <span id="fr_86"></span>[1](#fn_86.md)
 
 But the *shen* also, in spite of its sky-affinities, hovers about the
 grave and may dwell in the inscribed grave-stone (p. 6). There may be a
@@ -435,7 +435,7 @@ the late Professor Moulton, "The later Parsi books tell us that the
 Fravashi is a part of a good man's identity, living in heaven and
 reuniting with the soul at death. It is not exactly a guardian angel,
 for it shares in the development or deterioration of the rest of the
-man." <span id="fr_87"></span>[1](#fn_87)
+man." <span id="fr_87"></span>[1](#fn_87.md)
 
 In fact the Fravashi is not unlike the Egyptian *ka* on the one side and
 the Chinese shen on the other. "They are the Manes, 'the good folk'" (p.
@@ -446,7 +446,7 @@ the hereafter.
 
 The Fravashis play a part in the annual All Soul's feast (p. 144), for
 which Breasted has provided an almost exact parallel in Egypt during the
-Middle Kingdom: <span id="fr_88"></span>[2](#fn_88) All the
+Middle Kingdom: <span id="fr_88"></span>[2](#fn_88.md) All the
 circumstances of the two ceremonies are essentially identical.
 
 Now Professor Moulton suggests that the word Fravashi may be derived
@@ -461,7 +461,7 @@ than the Iranian homologue of the Egyptian *ka*.
 
 The connecting link between the Iranian and Egyptian conceptions may be
 the Sumerian instances given to Blackman <span
-id="fr_89"></span>[3](#fn_89) by Dr. Langdon.
+id="fr_89"></span>[3](#fn_89.md) by Dr. Langdon.
 
 The whole idea seems to have originated out of the belief that the sum
 of the individual attributes or vital expressions of a man's personality
@@ -493,77 +493,77 @@ the act of rebirth, which would be regarded in a literal sense. The
 placenta which played an essential part in the original act would have
 an equally important rôle in the ritual of rebirth. \[For a further
 comment upon the problem discussed in the preceding ten pages, see
-Appendix A, [p. 73](eod17.htm#page_73)\]
+Appendix A, [p. 73](eod17.htm#page_73.md)\]
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_67"></span>[41:1](eod12.htm#fr_67) "Primitive Man,"
+<span id="fn_67"></span>[41:1](eod12.htm#fr_67.md) "Primitive Man,"
 *Proceedings of the British Academy*, 1917, p. 41.
 
 It is important to remember that the real meaning of respiration was
 quite unknown until modern science revealed the part played by oxygen.
 
-<span id="fn_68"></span>[41:2](eod12.htm#fr_68) The enormous complexity
+<span id="fn_68"></span>[41:2](eod12.htm#fr_68.md) The enormous complexity
 and intricacy of the interrelation between the functions of the "heart,"
 and the "breath" is revealed in Chinese philosophy (see de t root, *op.
 cit.* Chapter vii. *inter alia*).
 
-<span id="fn_69"></span>[42:1](eod12.htm#fr_69) Second Annual
+<span id="fn_69"></span>[42:1](eod12.htm#fr_69.md) Second Annual
 Philosophical Lecture, Henriette Hertz Trust, *Proceedings of the
 British Academy*, Vol. VII, 26 Jan., 1916.
 
-<span id="fn_70"></span>[42:2](eod12.htm#fr_70) The Egyptian *ka*,
+<span id="fn_70"></span>[42:2](eod12.htm#fr_70.md) The Egyptian *ka*,
 however, was a more complex entity than this comparison suggests.
 
-<span id="fn_71"></span>[43:1](eod12.htm#fr_71) Breasted, *op. cit.* pp.
+<span id="fn_71"></span>[43:1](eod12.htm#fr_71.md) Breasted, *op. cit.* pp.
 44 and 45.
 
-<span id="fn_72"></span>[43:2](eod12.htm#fr_72) *Op. cit.* pp. 45 and
+<span id="fn_72"></span>[43:2](eod12.htm#fr_72.md) *Op. cit.* pp. 45 and
 46.
 
-<span id="fn_73"></span>[43:3](eod12.htm#fr_73) *Ibid*. p. 28.
+<span id="fn_73"></span>[43:3](eod12.htm#fr_73.md) *Ibid*. p. 28.
 
-<span id="fn_74"></span>[43:4](eod12.htm#fr_74) W. J. Perry has
+<span id="fn_74"></span>[43:4](eod12.htm#fr_74.md) W. J. Perry has
 collected the evidence preserved in a remarkable series of Indonesian
 legends in his recent book, "The Megalithic Culture of Indonesia". But
 the fullest exposition of the whole subject is provided in the Chinese
 literature summarized by de Groot (*op. cit.*).
 
-<span id="fn_75"></span>[44:1](eod12.htm#fr_75) See, however, the
+<span id="fn_75"></span>[44:1](eod12.htm#fr_75.md) See, however, the
 reservations in the subsequent pages.
 
-<span id="fn_76"></span>[44:2](eod12.htm#fr_76) The thorough analysis of
+<span id="fn_76"></span>[44:2](eod12.htm#fr_76.md) The thorough analysis of
 the beliefs of any people makes this abundantly clear. De Groot's
 monograph is an admirable illustration of this (*op. cit.* Chapter
 vii.). Both in Egypt and China the conceptions of the significance of
 the shadow are later and altogether subsidiary.
 
-<span id="fn_77"></span>[45:1](eod12.htm#fr_77) Alan H. Gardiner, Davies
+<span id="fn_77"></span>[45:1](eod12.htm#fr_77.md) Alan H. Gardiner, Davies
 and Gardiner, *op. cit.* p. 59.
 
-<span id="fn_78"></span>[45:2](eod12.htm#fr_78) F. Ll. Griffith, "A
+<span id="fn_78"></span>[45:2](eod12.htm#fr_78.md) F. Ll. Griffith, "A
 Collection of Hieroglyphs," 1898, p. 60.
 
-<span id="fn_79"></span>[46:1](eod12.htm#fr_79) Aylward M. Blackman,
+<span id="fn_79"></span>[46:1](eod12.htm#fr_79.md) Aylward M. Blackman,
 "Some Remarks on an Emblem upon the Head of an Ancient Egyptian
 Birth-Goddess," *Journal of Egyptian Archæology*, Vol. III, Part III,
 July, 1916, p. 199; and "The Pharaoh's Placenta and the Moon-God Khons,"
 *ibid*. Part IV, Oct., 1916, p. 235.
 
-<span id="fn_80"></span>[47:1](eod12.htm#fr_80) "Religion and Thought in
+<span id="fn_80"></span>[47:1](eod12.htm#fr_80.md) "Religion and Thought in
 Ancient Egypt," p. 52. Breasted denies that the *ka* was an element of
 the personality.
 
-<span id="fn_81"></span>[47:2](eod12.htm#fr_81) For an abstruse
+<span id="fn_81"></span>[47:2](eod12.htm#fr_81.md) For an abstruse
 discussion of this problem see Alan H. Gardiner, "Personification
 (Egyptian)," Hastings’ *Encyclopædia of Religion and Ethics*, pp. 790
 and 792.
 
-<span id="fn_82"></span>[47:3](eod12.htm#fr_82) *Op. cit. supra*.
+<span id="fn_82"></span>[47:3](eod12.htm#fr_82.md) *Op. cit. supra*.
 
-<span id="fn_83"></span>[48:1](eod12.htm#fr_83) Mr. Blackman is puzzled
+<span id="fn_83"></span>[48:1](eod12.htm#fr_83.md) Mr. Blackman is puzzled
 to explain what "possible connexion there could be between the Pharaoh's
 placenta and the moon beyond the fact that it is the custom in Uganda to
 expose the king's placenta each new moon and anoint it with butter.
@@ -600,21 +600,21 @@ These attributes of the placenta indicate that the beliefs of the
 Baganda are not merely local eccentricities, but widespread and sharply
 defined interpretations of the natural phenomena of birth.
 
-<span id="fn_84"></span>[48:2](eod12.htm#fr_84) *Op. cit.* p. 241.
+<span id="fn_84"></span>[48:2](eod12.htm#fr_84.md) *Op. cit.* p. 241.
 
-<span id="fn_85"></span>[49:1](eod12.htm#fr_85) See "The Origin of Early
+<span id="fn_85"></span>[49:1](eod12.htm#fr_85.md) See "The Origin of Early
 Siberian Civilization," now being published in the *Memoirs and
 Proceedings of the Manchester Literary and Philosophical Society*.
 
-<span id="fn_86"></span>[50:1](eod12.htm#fr_86) De Groot, p. 5.
+<span id="fn_86"></span>[50:1](eod12.htm#fr_86.md) De Groot, p. 5.
 
-<span id="fn_87"></span>[51:1](eod12.htm#fr_87) *Early Religious Poetry
+<span id="fn_87"></span>[51:1](eod12.htm#fr_87.md) *Early Religious Poetry
 of Persia*, p. 145.
 
-<span id="fn_88"></span>[51:2](eod12.htm#fr_88) *Op. cit.* p. 264.
+<span id="fn_88"></span>[51:2](eod12.htm#fr_88.md) *Op. cit.* p. 264.
 
-<span id="fn_89"></span>[51:3](eod12.htm#fr_89) *Ibid*. p. 240.
+<span id="fn_89"></span>[51:3](eod12.htm#fr_89.md) *Ibid*. p. 240.
 
 ------------------------------------------------------------------------
 
-[Next: The Power of the Eye](eod13)
+[Next: The Power of the Eye](eod13.md)

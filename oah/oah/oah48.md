@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah47)  [Next](oah49) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah47)  [Next](oah49.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ ascend to the Father's kingdom.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](oah49)
+[Next: Chapter VI](oah49.md)

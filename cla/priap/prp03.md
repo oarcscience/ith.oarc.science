@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp02)  [Next](prp04) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp02)  [Next](prp04.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ figures.
 ------------------------------------------------------------------------
 
 [Next: 4. All the conditions (they say) Priapus made with the
-youngling](prp04)
+youngling](prp04.md)

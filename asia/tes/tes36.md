@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes35)  [Next](tes37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes35)  [Next](tes37.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ Kolyma, spring of 1895.
 
 ------------------------------------------------------------------------
 
-[Next: 15. Tale of a Shaman](tes37)
+[Next: 15. Tale of a Shaman](tes37.md)

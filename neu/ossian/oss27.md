@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss26)  [Next](oss28) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss26)  [Next](oss28.md) 
 
 ------------------------------------------------------------------------
 
@@ -253,7 +253,7 @@ be near the king of Morven! attend to the words of his power! Gaul,
 strongest arm of death! O Oscar, of the future fights! Connal, son of
 the blue shields of Sora! Dermid, of the dark-brown hair! Ossian, king
 of many songs, be near your father's arm!" We reared the sunbeam  <span
-id="fr_83"></span>[1](#fn_83) of battle; the standard of the king! Each
+id="fr_83"></span>[1](#fn_83.md) of battle; the standard of the king! Each
 hero exulted with joy, as, waving, it flew on the wind. It was studded
 with gold above, as the blue wide shell of the nightly sky. Each hero
 had his standard too, and each his gloomy men!
@@ -342,11 +342,11 @@ will never return to thee, thou sunbeam of my soul!"
 
 ### Footnotes
 
-<span id="fn_83"></span>[336:1](oss27.htm#fr_83) Fingal's standard was
+<span id="fn_83"></span>[336:1](oss27.htm#fr_83.md) Fingal's standard was
 distinguished by the name of "sunbeam", probably on account of its
 bright color, and its being studded with gold. To begin a battle is
 expressed, in old composition, by "lifting of the sunbeam."
 
 ------------------------------------------------------------------------
 
-[Next: Book V](oss28)
+[Next: Book V](oss28.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Next](bog01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Next](bog01.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ without permission of Anna Livia Plurabelle.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](bog01)
+[Next: Preface](bog01.md)

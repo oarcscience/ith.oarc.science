@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip67)  [Next](fip69) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip67)  [Next](fip69.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ bigger, until they turned into the giants.
 
 ------------------------------------------------------------------------
 
-[Next: The Giant's Stairs, by T. Crofton Croker](fip69)
+[Next: The Giant's Stairs, by T. Crofton Croker](fip69.md)

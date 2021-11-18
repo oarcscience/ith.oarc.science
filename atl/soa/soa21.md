@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa20)  [Next](soa22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa20)  [Next](soa22.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ blood of earlier races as to be scarcely distinguishable from them.
 
 ------------------------------------------------------------------------
 
-[Next: Political Institutions](soa22)
+[Next: Political Institutions](soa22.md)

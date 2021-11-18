@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](sum07)  [Next](sum09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](sum07)  [Next](sum09.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,7 +128,7 @@ XXII*a*, *d*.)
 
 [![PLATE XIX&lt;br&gt; GODS AND DRAGONS&lt;br&gt; (for description, see
 opposite page.)](tn/pl19.jpg)  
-Click to enlarge](img/pl19.jpg)  
+Click to enlarge](img/pl19.jpg.md)  
 PLATE XIX  
 GODS AND DRAGONS  
 (for description, see opposite page.)  
@@ -142,7 +142,7 @@ story; the tablets on which the details of the myth are inscribed are
 still lying no doubt in the ruins of Sumer. What we do have is part of
 the introductory prologue to the epic tale "Gilgamesh, Enkidu, and the
 Nether World," whose contents have been described on page
-[30](sum07.htm#page_30) ff. Briefly sketched, this version of our story
+[30](sum07.htm#page_30.md) ff. Briefly sketched, this version of our story
 runs as follows:
 
 After heaven and earth had been separated, An, the heaven-god, carried
@@ -164,14 +164,14 @@ victorious. Indeed it is not at all unlikely that the myth was evolved
 in large part for the purpose of explaining why, in historical times,
 Enki, like the Greek Poseidon, was conceived as a sea-god; why he is
 described as "lord of the abyss"; and why his temple in Eridu was
-designated as the "sea-house." [74](sum10.htm#xref_74)
+designated as the "sea-house." [74](sum10.htm#xref_74.md)
 
  
 
 The second version of the slaying-of-the-dragon myth is particularly
 significant since this is the version which must have been utilized in
 large part by the Semitic redactors of the Babylonian "Epic of
-Creation." [74](sum10.htm#xref_74) The story is part of a large epic
+Creation." [74](sum10.htm#xref_74.md) The story is part of a large epic
 tale of over six hundred lines, best entitled
 
 <span id="page_80">p. 80</span>
@@ -180,14 +180,14 @@ tale of over six hundred lines, best entitled
 contents can now be reconstructed in large part from at least 49 tablets
 and fragments, 30 of which have been copied and published by various
 scholars in the course of the past several decades; a large part of the
-text has therefore been known for some time. [75](sum10.htm#xref_75)
+text has therefore been known for some time. [75](sum10.htm#xref_75.md)
 Nevertheless, because of the numerous breaks and gaps, several of the
 more important pieces could not be properly arranged. This situation was
 eased to a considerable extent when I located in Istanbul and
 Philadelphia more than a score of additional pieces belonging to the
 poem., And so, while the text is still badly broken at numerous crucial
 points, the contents as a whole can now be reconstructed with a fair
-degree of certainty. [76](sum10.htm#xref_76)
+degree of certainty. [76](sum10.htm#xref_76.md)
 
 Hero of the tale is Ninurta, the warrior-god, who was conceived by the
 Sumerians as the son of Enlil, the air-god. After a hymnal introduction
@@ -268,13 +268,13 @@ passage exalting Ninurta.
 
 The third version of the slaying-of-the-dragon myth is a poem consisting
 of one hundred and ninety lines of text which may be best entitled
-"Inanna and Ebih." [77](sum10.htm#xref_77) Although by 1934 eight pieces
-belonging to the story [78](sum10.htm#xref_78) had already been copied
+"Inanna and Ebih." [77](sum10.htm#xref_77.md) Although by 1934 eight pieces
+belonging to the story [78](sum10.htm#xref_78.md) had already been copied
 and published by the late Edward Chiera and Stephen Langdon, so little
 was understood of the myth that several of the pieces were not even
 recognized as belonging to it. A thorough reexamination of the material,
 including four hitherto unknown pieces, two from Istanbul and two from
-Philadelphia, [79](sum10.htm#xref_79) enabled me to reconstruct the
+Philadelphia, [79](sum10.htm#xref_79.md) enabled me to reconstruct the
 major part of the text in the course of the past two years.
 
 The dragon-slayer in this version of the story is not a god but a
@@ -327,7 +327,7 @@ battle" and leads out all her weapons and aids. She attacks and destroys
 Kur, and stationing herself upon it, she utters a paean of
 self-glorification.
 
-### INANNA'S DESCENT TO THE NETHER WORLD [u](sum11.htm#xref_u)
+### INANNA'S DESCENT TO THE NETHER WORLD [u](sum11.htm#xref_u.md)
 
 The text of this myth, which I have designated as "Inanna's Descent to
 the Nether World," has been reconstructed and deciphered by me in the
@@ -361,27 +361,27 @@ replaced by
 The 14 tablets and fragments illustrated here furnish a historical
 commentary on the reconstruction and translation of the myth "Inanna's
 Descent to the Nether World," recently published by the
-author. [80](sum10.htm#xref_80) The arrangement of the plate is aimed to
+author. [80](sum10.htm#xref_80.md) The arrangement of the plate is aimed to
 illustrate the process of piecing together the tablets and fragments
 utilized in the reconstruction of the poem. Nos. 1, 2, and 5 were
-published by Poebel in 1914. [81](sum10.htm#xref_81) Nos. 3 and 4 were
-published by Langdon in 1914. [81](sum10.htm#xref_81) No. 6, which is in
+published by Poebel in 1914. [81](sum10.htm#xref_81.md) Nos. 3 and 4 were
+published by Langdon in 1914. [81](sum10.htm#xref_81.md) No. 6, which is in
 the University Museum, was identified by Chiera as the lower half of the
 very same tablet whose upper half, no. 3 on our plate, had been copied
 by Langdon in Istanbul. Chiera's discovery enabled me to publish my
-first reconstruction of the myth in 1937. [83](sum10.htm#xref_83) Nos.
-7-9 were published by Chiera in 1934. [84](sum10.htm#xref_84) Nos. 10-12
+first reconstruction of the myth in 1937. [83](sum10.htm#xref_83.md) Nos.
+7-9 were published by Chiera in 1934. [84](sum10.htm#xref_84.md) Nos. 10-12
 were identified and copied by the author some five years ago in the
-Museum of the Ancient Orient at Istanbul. [85](sum10.htm#xref_85) Nos.
+Museum of the Ancient Orient at Istanbul. [85](sum10.htm#xref_85.md) Nos.
 13 and 14 were identified and copied by the author recently in
-Philadelphia. [86](sum10.htm#xref_86) The utilization of these five
+Philadelphia. [86](sum10.htm#xref_86.md) The utilization of these five
 newly discovered texts made possible the edition published in 1942. The
 marked passage on no. 8 contains the lines describing Inanna's decision
 to descend to the nether world; that on no. 13 contains the lines
 describing the death of the goddess; the reverse of no. 10 (not on our
 plate, which contains the obverse only) has the resurrection passage.
 The transliteration and the translation of these three most significant
-passages will be found in note  [87](sum10.htm#xref_87).
+passages will be found in note  [87](sum10.htm#xref_87.md).
 
 (This plate is arranged from *Proceedings of the American Philosophical
 Society* 85 (3), plates 1-10.)
@@ -392,7 +392,7 @@ Society* 85 (3), plates 1-10.)
 
 [![PLATE XX&lt;br&gt; INANNA'S DESCENT TO THE NETHER WORLD&lt;br&gt;
 (For description, see opposite page.)](tn/pl20.jpg)  
-Click to enlarge](img/pl20.jpg)  
+Click to enlarge](img/pl20.jpg.md)  
 PLATE XX  
 INANNA'S DESCENT TO THE NETHER WORLD  
 (For description, see opposite page.)  
@@ -405,16 +405,16 @@ INANNA'S DESCENT TO THE NETHER WORLD
 now of the Oriental Institute of the University of Chicago, was the
 first to locate three small pieces belonging to this myth in the
 University Museum at Philadelphia; these were published as early as
-1914. [81](sum10.htm#xref_81) In the very same year, the late Stephen
+1914. [81](sum10.htm#xref_81.md) In the very same year, the late Stephen
 Langdon, of Oxford, published two pieces which he had uncovered in the
-Museum of the Ancient Orient at Istanbul. [82](sum10.htm#xref_82) One of
+Museum of the Ancient Orient at Istanbul. [82](sum10.htm#xref_82.md) One of
 these was the upper half of a large four-column tablet which, as will
 soon become evident, proved to be of major importance for the
 reconstruction of the text of the myth. The late Edward Chiera uncovered
 three additional pieces in the University Museum. These were published
 in his two posthumous volumes consisting of copies of Sumerian literary
 texts which I prepared for publication for the Oriental Institute in
-1934. [84](sum10.htm#xref_84)
+1934. [84](sum10.htm#xref_84.md)
 
 By this time, therefore, we had eight pieces, all more or less
 fragmentary, dealing with the myth. Nevertheless the contents remained
@@ -444,9 +444,9 @@ gaps and breaks in the text which made the translation and
 interpretation of the text no easy matter, and the meaning of several of
 the more significant passages in the story remained obscure. In 1937 I
 was fortunate enough to discover in Istanbul three additional pieces
-belonging to the myth, [85](sum10.htm#xref_85) and upon returning to the
+belonging to the myth, [85](sum10.htm#xref_85.md) and upon returning to the
 United States in 1939 I located another large piece in the University
-Museum at Philadelphia, and yet another in 1940. [86](sum10.htm#xref_86)
+Museum at Philadelphia, and yet another in 1940. [86](sum10.htm#xref_86.md)
 These three fragments helped to fill in the most serious lacunae in my
 first reconstruction and translation, and as a result, the myth, as far
 as it goes, is now almost complete; the scientific edition, including
@@ -910,4 +910,4 @@ The pure Inanna answers the demons:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Miscellaneous Myths](sum09)
+[Next: Chapter IV. Miscellaneous Myths](sum09.md)

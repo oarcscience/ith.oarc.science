@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hby04)  [Next](hby06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hby04)  [Next](hby06.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ hermetically sealed box, with a guard of English officers to watch the
 spot night and day. During these forty days the Yogi could neither eat,
 sleep, nor breathe, yet at their expiration he was brought back to
 consciousness without any ill effects and he lived for many years. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_47">p. 47</span>
 
@@ -345,9 +345,9 @@ perfect freedom.
 
 ### Footnotes
 
-<span id="fn_0"></span>[46:1](hby05.htm#fr_0) For fuller account see
+<span id="fn_0"></span>[46:1](hby05.htm#fr_0.md) For fuller account see
 "Law of Psychic Phenomena," by Thomas Jay Hudson, page 313.
 
 ------------------------------------------------------------------------
 
-[Next: Râja Yoga](hby06)
+[Next: Râja Yoga](hby06.md)

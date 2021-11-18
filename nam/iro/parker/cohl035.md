@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl034)  [Next](cohl036) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl034)  [Next](cohl036.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,10 +37,10 @@ one can outrun me." Now he regards himself as a mighty man and boasts
 before his people. Now the Creator says that such boasting is evil. The
 Creator endowed the man with his speed and he should offer thanks and
 not boast. So we, the messengers, say your people must cease their
-boasting.'" <span id="fr_31"></span>[1](cohl037.htm#fn_31)
+boasting.'" <span id="fr_31"></span>[1](cohl037.htm#fn_31.md)
 
 So they said and he said. Eniaiehuk.
 
 ------------------------------------------------------------------------
 
-[Next: Section 25](cohl036)
+[Next: Section 25](cohl036.md)

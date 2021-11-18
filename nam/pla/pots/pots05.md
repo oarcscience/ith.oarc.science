@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pots04)  [Next](pots06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pots04)  [Next](pots06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -149,7 +149,7 @@ it, and cut it up and boiled it. Bluejay
 <span id="img_00800"></span>
 
 [![HE SAW A BALD-HEADED EAGLE](tn/00800.jpg)  
-Click to enlarge](img/00800.jpg)  
+Click to enlarge](img/00800.jpg.md)  
 “HE SAW A BALD-HEADED EAGLE”  
 
 <span id="page_9">p. 9</span>
@@ -197,7 +197,7 @@ could turn, so he kept on trying, and pretty soon he could fly well.
 <span id="img_01000"></span>
 
 [![THE BIRD CAME DOWN](tn/01000.jpg)  
-Click to enlarge](img/01000.jpg)  
+Click to enlarge](img/01000.jpg.md)  
 “THE BIRD CAME DOWN”  
 
 <span id="page_11">p. 11</span>
@@ -248,7 +248,7 @@ the plank.
 <span id="img_01200"></span>
 
 [![FIVE TIMES HE CIRCLED AROUND THEM.](tn/01200.jpg)  
-Click to enlarge](img/01200.jpg)  
+Click to enlarge](img/01200.jpg.md)  
 “FIVE TIMES HE CIRCLED AROUND THEM.”  
 
 <span id="page_13">p. 13</span>
@@ -295,7 +295,7 @@ bad spirits. We never before saw
 <span id="img_01400"></span>
 
 [![THEN THEY WENT SEAWARD.](tn/01400.jpg)  
-Click to enlarge](img/01400.jpg)  
+Click to enlarge](img/01400.jpg.md)  
 “THEN THEY WENT SEAWARD.”  
 
 <span id="page_15">p. 15</span>
@@ -333,4 +333,4 @@ being stingy.
 
 ------------------------------------------------------------------------
 
-[Next: Bluejay, the Imitator](pots06)
+[Next: Bluejay, the Imitator](pots06.md)

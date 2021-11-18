@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls25)  [Next](rls27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls25)  [Next](rls27.md) 
 
 ------------------------------------------------------------------------
 
@@ -186,7 +186,7 @@ uncontaminated family-men are really henpecked persons who are solely
 guided by their wives, and as such are very poor specimens of humanity.
 
 121\. Seeing the water pass glittering through the net of bamboo
-frame-work <span id="fr_15"></span>[1](#fn_15), the small fry enter into
+frame-work <span id="fr_15"></span>[1](#fn_15.md), the small fry enter into
 it with great pleasure, and having once entered they cannot get out
 again--and are caught. Similarly, foolish men enter into the world
 allured by its false glitter, but as it is easier to enter the net than
@@ -705,9 +705,9 @@ should be discarded when the grace of God descends.
 
 ### Footnotes
 
-<span id="fn_15"></span>[126:1](rls26.htm#fr_15) A trap for catching
+<span id="fn_15"></span>[126:1](rls26.htm#fr_15.md) A trap for catching
 small fish.
 
 ------------------------------------------------------------------------
 
-[Next: The Sayings of Râmak*ri*sh*n*a: 200-299](rls27)
+[Next: The Sayings of Râmak*ri*sh*n*a: 200-299](rls27.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx06)  [Next](omtx08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx06)  [Next](omtx08.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ warmed with the spirit of Christianity must esteem, must love,
 Freemasonry.
 
 Here, virtue, the grand object in view, luminous as the meridian sun,
-shines [effulgent](errata.htm#1) on the mind; enlivens the heart, and
+shines [effulgent](errata.htm#1.md) on the mind; enlivens the heart, and
 warms with sympathy and affection.
 
 Though every man, who carefully listens to the dictates of reason, may
@@ -112,4 +112,4 @@ whatever stations, country, or religion.
 
 ------------------------------------------------------------------------
 
-[Next: Recitation](omtx08)
+[Next: Recitation](omtx08.md)

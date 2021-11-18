@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls09)  [Next](rls11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls09)  [Next](rls11.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,7 +98,7 @@ favour to you, and has made you particularly fit for your work. I have
 published my last work about Paraloka and Mukti, the next world and
 salvation, in a small volume. I make an offering of it to you." After
 these words the pilgrims departed, much comforted and helped <span
-id="fr_6"></span>[1](#fn_6).'
+id="fr_6"></span>[1](#fn_6.md).'
 
 <span id="page_20">p. 20</span>
 
@@ -121,9 +121,9 @@ entirely neglected by the rulers of 'weak, indigent, helpless Bengal.'
 
 ### Footnotes
 
-<span id="fn_6"></span>[19:1](rls10.htm#fr_6) Unity and the Minister,
+<span id="fn_6"></span>[19:1](rls10.htm#fr_6.md) Unity and the Minister,
 1896, July 12.
 
 ------------------------------------------------------------------------
 
-[Next: Rai Shaligrâm Saheb Bahadur](rls11)
+[Next: Rai Shaligrâm Saheb Bahadur](rls11.md)

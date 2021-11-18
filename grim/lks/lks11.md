@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks10)  [Next](lks12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks10)  [Next](lks12.md) 
 
 ------------------------------------------------------------------------
 
 ### THE PENTAGRAM OF SOLOMON.
 
-<span id="img_fig156"></span> [![](tn/generic.jpg)](img/fig156.jpg)
+<span id="img_fig156"></span> [![](tn/generic.jpg)](img/fig156.jpg.md)
 
 THIS is the Form of Pentagram of Solomon, the figure whereof is to be
 made in Sol or Luna (Gold or Silver), and worn upon thy breast; having
@@ -21,4 +21,4 @@ blue.)
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Ring Or Disc Of Solomon](lks12)
+[Next: The Magic Ring Or Disc Of Solomon](lks12.md)

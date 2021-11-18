@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt24)  [Next](ebt26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt24)  [Next](ebt26.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ being numerous confirmations in fragments of road.
 
 ------------------------------------------------------------------------
 
-[Next: The Ley-Men](ebt26)
+[Next: The Ley-Men](ebt26.md)

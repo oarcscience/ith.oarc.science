@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt52)  [Next](pyt54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt52)  [Next](pyt54.md) 
 
 ------------------------------------------------------------------------
 
@@ -955,4 +955,4 @@ father, Geb.
 ------------------------------------------------------------------------
 
 [Next: 51. The Death, Resurrection, and Spiritualization of the King,
-Utterance 670](pyt54)
+Utterance 670](pyt54.md)

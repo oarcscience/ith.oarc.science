@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe169)  [Next](prwe171) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe169)  [Next](prwe171.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ will he ever again, ken ye ?"
 
 ------------------------------------------------------------------------
 
-[Next: The "Peller"](prwe171)
+[Next: The "Peller"](prwe171.md)

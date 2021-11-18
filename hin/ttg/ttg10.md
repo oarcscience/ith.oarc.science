@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg09)  [Next](ttg11) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg09)  [Next](ttg11.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ Discouragement never enters the brave heart of a resolute man.
 ------------------------------------------------------------------------
 
 [Next: Tenth Goblin: The Three Delicate Wives of King Virtue-banner.
-Which is the most delicate?](ttg11)
+Which is the most delicate?](ttg11.md)

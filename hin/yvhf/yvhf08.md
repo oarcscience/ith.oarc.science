@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](yvhf07)  [Next](yvhf09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](yvhf07)  [Next](yvhf09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Vashisht or Heaven Found*, by Rishi Singh Gherwal, \[1930\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 ### QUEEN CHUNDALAI, THE GREAT YOGIN
 
 "O may thou rest thyself in Thy all peaceful Atma <span
-id="fr_0"></span>[\*](#fn_0) like the King Sikhithwaya who controlled
+id="fr_0"></span>[\*](#fn_0.md) like the King Sikhithwaya who controlled
 the restless bird called Mind," said Rishi Vashisht to Ram.
 
 Whereupon Ram asked him this, "Tell me, O Guru, who was the King
@@ -29,7 +29,7 @@ Sikhithwaya, possessor of the peaceful Bliss? Let me learn that Jnana
 its .fullest power."
 
 The Rishi Vashisht replied: "King Sikhithwaya was born in the Dwapara
-Yuga <span id="fr_1"></span>[\*\*](#fn_1). Over his people he ruled
+Yuga <span id="fr_1"></span>[\*\*](#fn_1.md). Over his people he ruled
 wisely and well. His justice had no bond by-ways. He had but one
 purpose—to do good and perform the works of virtue. Master over body and
 mind, his great joy lay in the happiness of his Subjects.
@@ -343,7 +343,7 @@ it was indeed he, and she cried out with her grief, to see, through dire
 ignorance, the King bent, groaning in pain. The Queen thought, I have
 power to confer Atmic Wisdom on him at this moment, but he will reject
 me as his young wife, so I shall not appear before him in this form. I
-shall change to [another](errata.htm#4) form to accomplish my purpose.
+shall change to [another](errata.htm#4.md) form to accomplish my purpose.
 As his mind is now ripe for Atmic Wisdom, a single word from me will
 show him the way to that blessed state, at this time. At this hour a
 rare opportunity was at
@@ -352,7 +352,7 @@ rare opportunity was at
 
 hand. She changed her form from woman to man by the power of Samayan
 (the Samayan is the highest power of the Raja Yogin), and
-[descended](errata.htm#5) from the sky before the King. The King saw the
+[descended](errata.htm#5.md) from the sky before the King. The King saw the
 form of a young Brahman standing in the air before him.
 
 "The King paid due respect to him, and asked him to be seated. The young
@@ -559,7 +559,7 @@ renunciation. The great elephant did not kill the
 <span class="contnote">\[paragraph continues\]</span> Mahout, who was
 once laid on the ground at his feet. At that time if the elephant had
 put one foot upon the Mahout, then he would not have been made to fall
-into the trench, and suffer when he was [imprisoned](errata.htm#6)
+into the trench, and suffer when he was [imprisoned](errata.htm#6.md)
 there.
 
 "'But, O King, you have suffered more than the elephant here in the
@@ -689,7 +689,7 @@ the basis for knowledge, O King?'
 <span id="page_92">p. 92</span>
 
 "The King replied: 'Tell me first, O Master, how the body which enjoys
-all karma, which [performs](errata.htm#7) through organs, (hands etc.)
+all karma, which [performs](errata.htm#7) through organs, (hands etc..md)
 can be unreal?'
 
 "The Master answered: 'This body, arising through karma, cannot be the
@@ -825,7 +825,7 @@ spiritual vision will develop; then only can you truly realize as I have
 explained to you—this creation and the destruction of the Universe.
 
 "'If you practise according to your will, do your duty
-[conscientiously](errata.htm#8), then you will not fail to attain the
+[conscientiously](errata.htm#8.md), then you will not fail to attain the
 Brahmic state. Does not that do away with all the differences that arise
 from delusion and ignorance?'
 
@@ -879,7 +879,7 @@ the heart, is like the tree that is in the seed.
 
 "O Ram, the Great Yogin Queen gave up the grosser body of the Master and
 merged into the finer form of the King, that is, higher
-[consciousness](errata.htm#9),—without beginning or end. She caused it
+[consciousness](errata.htm#9.md),—without beginning or end. She caused it
 to vibrate and return to her body, as
 
 <span id="page_100">p. 100</span>
@@ -1010,7 +1010,7 @@ Samadhi. Thus the time passed away.
 power of her Yoga, she created a heaven of illusion in the forest, also
 an illusory God to appear before the King. When the King saw the God and
 His Heaven, he asked: 'What good karma have I performed to induce you to
-visit me?' "I am attracted by your love and [purity](errata.htm#10), and
+visit me?' "I am attracted by your love and [purity](errata.htm#10.md), and
 I came to take you to the Higher Heavens. It is fitting for you to
 leave. The Divine Maidens will wait upon thee, and will always be at
 your command. O King, you will live there as long as you wish. This
@@ -1091,7 +1091,7 @@ crying in the darkness from ignorance. Who is there in the Universe to
 equal thee? You are the Blessed Light, dispelling the fear of the
 ignorant. How can I repay thee for all that you have done for me? You
 are on equality with the Divine Mother <span
-id="fr_2"></span>[\*](#fn_2):
+id="fr_2"></span>[\*](#fn_2.md):
 
 <span id="page_109">p. 109</span>
 
@@ -1194,14 +1194,14 @@ Translation from Sanskrit writers.
 
 ### Footnotes
 
-<span id="fn_0"></span>[63:\*](yvhf08.htm#fr_0) Universal Soul.
+<span id="fn_0"></span>[63:\*](yvhf08.htm#fr_0.md) Universal Soul.
 
-<span id="fn_1"></span>[63:\*\*](yvhf08.htm#fr_1) Third Age in Brahma.
+<span id="fn_1"></span>[63:\*\*](yvhf08.htm#fr_1.md) Third Age in Brahma.
 (see pg. 80, 81 Great Masters of the Himalayas).
 
-<span id="fn_2"></span>[108:\*](yvhf08.htm#fr_2) In India we have a
+<span id="fn_2"></span>[108:\*](yvhf08.htm#fr_2.md) In India we have a
 Mother God, not a Father God. We address her Adakali (Divine Mother).
 
 ------------------------------------------------------------------------
 
-[Next: The Great Egoist—Bali](yvhf09)
+[Next: The Great Egoist—Bali](yvhf09.md)

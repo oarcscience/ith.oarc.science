@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal023)  [Next](njal025) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal023)  [Next](njal025.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ her kin hereafter than from other men. She said, so it should be.
 
 ------------------------------------------------------------------------
 
-[Next: 25. Unna's Second Wedding](njal025)
+[Next: 25. Unna's Second Wedding](njal025.md)

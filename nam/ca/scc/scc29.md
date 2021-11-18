@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc28)  [Next](scc30) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc28)  [Next](scc30.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ away." Then the eagle released him and was chief once more.
 
 ------------------------------------------------------------------------
 
-[Next: 28.--Yaudanchi Yokuts. The Eagle's Son.](scc30)
+[Next: 28.--Yaudanchi Yokuts. The Eagle's Son.](scc30.md)

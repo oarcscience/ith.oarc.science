@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst018)  [Next](inst020) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst018)  [Next](inst020.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ and so illustrious, that none, however dull and illiterate, can plead
 ignorance as their excuse. Hence, with perfect truth, the Psalmist
 exclaims, “He covereth himself with light as with a garment,” (<span
 id="iv.i.vi-p19.1"></span>[Psalm
-104:2](../../../bib/kjv/psa104.htm#002)<span
+104:2](../../../bib/kjv/psa104.htm#002.md)<span
 id="iv.i.vi-p19.1"></span>); as if he had said, that God for the first
 time was arrayed in visible attire when, in the creation of the world,
 he displayed those glorious banners, on which, to whatever side we turn,
@@ -123,13 +123,13 @@ contemplate the vast and beautiful fabric as it extends around, without
 being overwhelmed by the immense weight of glory. Hence, the author of
 the Epistle to the Hebrews elegantly describes the visible worlds as
 images of the invisible (<span id="iv.i.vi-p19.2"></span>[Heb.
-11:3](../../../bib/kjv/heb011.htm#003)<span id="iv.i.vi-p19.2"></span>),
+11:3](../../../bib/kjv/heb011.htm#003)<span id="iv.i.vi-p19.2"></span>.md),
 the elegant structure of the world serving us as a kind of mirror, in
 which we may behold God, though otherwise invisible. For the same
 reason, the Psalmist attributes language to celestial objects, a
 language which all nations understand (<span
 id="iv.i.vi-p19.3"></span>[Psalm
-19:1](../../../bib/kjv/psa019.htm#001)<span id="iv.i.vi-p19.3"></span>),
+19:1](../../../bib/kjv/psa019.htm#001)<span id="iv.i.vi-p19.3"></span>.md),
 the manifestation of the Godhead being too clear to escape the notice of
 any people, however obtuse. The apostle Paul, stating this still more
 clearly, says, “That which may be known of God is manifest in them, for
@@ -137,7 +137,7 @@ God has showed it unto them. For the invisible things of him from the
 creation of the world are clearly seen, being understood by the things
 that are made, even his eternal power and Godhead,” (<span
 id="iv.i.vi-p19.4"></span>[Rom.
-1:20](../../../bib/kjv/rom001.htm#020)<span id="iv.i.vi-p19.4"></span>).
+1:20](../../../bib/kjv/rom001.htm#020)<span id="iv.i.vi-p19.4"></span>.md).
 
 <span id="iv.i.vi-p20"></span>2. In attestation of his wondrous wisdom,
 both the heavens and the earth present us with innumerable proofs not
@@ -156,7 +156,7 @@ demands skill, and a more careful examination; and where these are so
 employed, as the Providence of God is thereby more fully unfolded, so it
 is reasonable to suppose that the mind takes a loftier flight, and
 obtains brighter views of his glory.5  <span
-id="fr_52"></span>[53](#fn_52) Still, none who have the use of their
+id="fr_52"></span>[53](#fn_52.md) Still, none who have the use of their
 eyes can be ignorant of the divine skill manifested so conspicuously in
 the endless variety, yet distinct and well ordered array, of the
 heavenly host; and, therefore, it is plain that the Lord has furnished
@@ -168,14 +168,14 @@ the human body bears on its face such proofs of ingenious contrivance as
 are sufficient to proclaim the admirable wisdom of its Maker.
 
 <span id="iv.i.vi-p22"></span>3. Hence certain of the philosophers5
- <span id="fr_53"></span>[54](#fn_53) have not improperly called man a
+ <span id="fr_53"></span>[54](#fn_53.md) have not improperly called man a
 *microcosm* (*miniature world*), as being a rare specimen of divine
 power, wisdom, and goodness, and containing within himself wonders
 sufficient to occupy our minds, if we are willing so to employ them.
 Paul, accordingly, after reminding the Athenians that they “might feel
 after God and find him,” immediately adds, that “he is not far from
 every one of us,” (<span id="iv.i.vi-p23.1"></span>[Acts
-17:27](../../../bib/kjv/act017.htm#027)<span
+17:27](../../../bib/kjv/act017.htm#027.md)<span
 id="iv.i.vi-p23.1"></span>); every man having within himself undoubted
 evidence of the heavenly grace by which he lives, and moves, and has his
 being. But if, in order to apprehend God, it is unnecessary to go
@@ -186,8 +186,8 @@ wonderful name and glory of God, as everywhere displayed, immediately
 exclaims, “What is man, that thou art mindful of him?” and again, “Out
 of the mouths of babes and sucklings thou hast ordained strength,”
 (<span id="iv.i.vi-p23.2"></span>[Ps.
-8:2](../../../bib/kjv/psa008.htm#002),
-[4](../../../bib/kjv/psa008.htm#004)<span id="iv.i.vi-p23.2"></span>).
+8:2](../../../bib/kjv/psa008.htm#002.md),
+[4](../../../bib/kjv/psa008.htm#004)<span id="iv.i.vi-p23.2"></span>.md).
 Thus he declares not only that the human race are a bright mirror of the
 Creator’s works, but that infants hanging on their mothers’ breasts have
 tongues eloquent enough to proclaim his glory without the aid of other
@@ -196,7 +196,7 @@ instructed to refute the madness of those who, from devilish pride,
 would fain extinguish the name of God. Hence, too, the passage which
 Paul quotes from Aratus, “We are his offspring,” (<span
 id="iv.i.vi-p23.3"></span>[Acts
-17:28](../../../bib/kjv/act017.htm#028)<span
+17:28](../../../bib/kjv/act017.htm#028.md)<span
 id="iv.i.vi-p23.3"></span>), the excellent gifts with which he has
 endued us attesting that he is our Father. In the same way also, from
 natural instinct, and, as it were, at the dictation of experience,
@@ -277,7 +277,7 @@ enough, that whatever we possess is dispensed to us in unequal measures
 by another hand? The talk of certain persons concerning a secret
 inspiration quickening the whole world, is not only silly, but
 altogether profane. Such persons are delighted with the following
-celebrated passage of Virgil:6  <span id="fr_54"></span>[55](#fn_54) —
+celebrated passage of Virgil:6  <span id="fr_54"></span>[55](#fn_54.md) —
 
 <span id="iv.i.vi-p27"></span>“Know, first, that heaven, and earth’s
 compacted frame,
@@ -303,12 +303,12 @@ main.
 <span id="iv.i.vi-p35"></span>Th’ ethereal vigour is in all the same,
 
 <span id="iv.i.vi-p36"></span>And every soul is filled with equal
-flame.”6  <span id="fr_55"></span>[56](#fn_55)
+flame.”6  <span id="fr_55"></span>[56](#fn_55.md)
 
 <span id="iv.i.vi-p38"></span>The meaning of all this is, that the
 world, which was made to display the glory of God, is its own creator.
 For the same poet has, in another place,6  <span
-id="fr_56"></span>[57](#fn_56) adopted a view common to both Greeks and
+id="fr_56"></span>[57](#fn_56.md) adopted a view common to both Greeks and
 Latins:—
 
 <span id="iv.i.vi-p40"></span>“Hence to the bee some sages have assigned
@@ -337,14 +337,14 @@ again;
 decay,
 
 <span id="iv.i.vi-p49"></span>Dwell in high heaven, art star th’
-ethereal way.”6  <span id="fr_57"></span>[58](#fn_57)
+ethereal way.”6  <span id="fr_57"></span>[58](#fn_57.md)
 
 <span id="iv.i.vi-p51"></span>Here we see how far that jejune
 speculation, of a universal mind animating and invigorating the world,
 is fitted to beget and foster piety in our minds. We have a still
 clearer proof of this in the profane verses which the licentious
 Lucretius has written as a deduction from the same principle.6  <span
-id="fr_58"></span>[59](#fn_58) The plain object is to form an
+id="fr_58"></span>[59](#fn_58.md) The plain object is to form an
 unsubstantial deity, and thereby banish the true God whom we ought to
 fear and worship. I admit, indeed that the expressions “Nature is God,”
 may be piously used, if dictated by a pious mind; but as it is
@@ -389,7 +389,7 @@ cause, nothing more should be required to draw forth our love towards
 him; every creature, as the Psalmist reminds us, participating in his
 mercy. “His tender mercies are over all his works,” (<span
 id="iv.i.vi-p53.1"></span>[Ps.
-145:9](../../../bib/kjv/psa145.htm#009)<span
+145:9](../../../bib/kjv/psa145.htm#009.md)<span
 id="iv.i.vi-p53.1"></span>).
 
 <span id="iv.i.vi-p54"></span>7. In the second class of God’s works,
@@ -420,7 +420,7 @@ fondness?
 
 <span id="iv.i.vi-p55"></span>8. To this purpose the Psalmist (<span
 id="iv.i.vi-p55.1"></span>[Ps.
-107](../../../bib/kjv/psa107.htm#000)<span id="iv.i.vi-p55.1"></span>)
+107](../../../bib/kjv/psa107.htm#000)<span id="iv.i.vi-p55.1"></span>.md)
 mentioning how God, in a wondrous manner, often brings sudden and
 unexpected succour to the miserable when almost on the brink of despair,
 whether in protecting them when they stray in deserts, and at length
@@ -449,14 +449,14 @@ schemes defeated without an effort, and audacity which set itself above
 the heavens is precipitated to the lowest depths of the earth. On the
 other hand, the poor are raised up out of the dust, and the needy lifted
 out of the dung hill (<span id="iv.i.vi-p55.2"></span>[Ps.
-113:7](../../../bib/kjv/psa113.htm#007)<span
+113:7](../../../bib/kjv/psa113.htm#007.md)<span
 id="iv.i.vi-p55.2"></span>), the oppressed and afflicted are rescued in
 extremity, the despairing animated with hope, the unarmed defeat the
 armed, the few the many, the weak the strong. The excellence of the
 divine wisdom is manifested in distributing everything in due season,
 confounding the wisdom of the world, and taking the wise in their own
 craftiness (<span id="iv.i.vi-p55.3"></span>[1 Cor.
-3:19](../../../bib/kjv/co1003.htm#019)<span id="iv.i.vi-p55.3"></span>);
+3:19](../../../bib/kjv/co1003.htm#019)<span id="iv.i.vi-p55.3"></span>.md);
 in short, conducting all things in perfect accordance with reason.
 
 <span id="iv.i.vi-p56"></span>9. We see there is no need of a long and
@@ -478,18 +478,18 @@ adored than minutely discussed, but to contemplate him in his works, by
 which he draws near, becomes familiar, and in a manner communicates
 himself to us. To this the Apostle referred when he said, that we need
 not go far in search of him (<span id="iv.i.vi-p56.1"></span>[Acts
-17:27](../../../bib/kjv/act017.htm#027)<span
+17:27](../../../bib/kjv/act017.htm#027.md)<span
 id="iv.i.vi-p56.1"></span>), because, by the continual working of his
 power, he dwells in every one of us. Accordingly, David (<span
 id="iv.i.vi-p56.2"></span>[Psalm
-145](../../../bib/kjv/psa145.htm#000)<span id="iv.i.vi-p56.2"></span>),
+145](../../../bib/kjv/psa145.htm#000)<span id="iv.i.vi-p56.2"></span>.md),
 after acknowledging that his greatness is unsearchable, proceeds to
 enumerate his works, declaring that his greatness will thereby be
 unfolded. It therefore becomes us also diligently to prosecute that
 investigation of God which so enraptures the soul with admiration as, at
 the same time, to make an efficacious impression on it. And, as
 Augustine expresses it (in <span id="iv.i.vi-p56.3"></span>[Psalm
-144](../../../bib/kjv/psa144.htm#000)<span id="iv.i.vi-p56.3"></span>),
+144](../../../bib/kjv/psa144.htm#000)<span id="iv.i.vi-p56.3"></span>.md),
 since we are unable to comprehend Him, and are, as it were, overpowered
 by his greatness, our proper course is to contemplate his works, and so
 refresh ourselves with his goodness.
@@ -524,12 +524,12 @@ practical operation and tendency is to descend into ourselves, and
 consider how it is that the Lord there manifests his wisdom, power, and
 energy,—how he there displays his justice, goodness, and mercy. For
 although David (<span id="iv.i.vi-p57.1"></span>[Psalm
-92:6](../../../bib/kjv/psa092.htm#006)<span id="iv.i.vi-p57.1"></span>)
+92:6](../../../bib/kjv/psa092.htm#006)<span id="iv.i.vi-p57.1"></span>.md)
 justly complains of the extreme infatuation of the ungodly in not
 pondering the deep counsels of God, as exhibited in the government of
 the human race, what he elsewhere says (<span
 id="iv.i.vi-p57.2"></span>[Psalm
-40](../../../bib/kjv/psa040.htm#000)<span id="iv.i.vi-p57.2"></span>) is
+40](../../../bib/kjv/psa040.htm#000)<span id="iv.i.vi-p57.2"></span>.md) is
 most true, that the wonders of the divine wisdom in this respect are
 more in number than the hairs of our head. But I leave this topic at
 present, as it will be more fully considered afterwards in its own place
@@ -561,7 +561,7 @@ lavishly in this respect have the whole body of philosophers betrayed
 their stupidity and want of sense? To say nothing of the others whose
 absurdities are of a still grosser description, how completely does
 Plato, the soberest and most religious of them all, lose himself in his
-round globe?6  <span id="fr_59"></span>[60](#fn_59) What must be the
+round globe?6  <span id="fr_59"></span>[60](#fn_59.md) What must be the
 case with the rest, when the leaders, who ought to have set them an
 example, commit such blunders, and labour under such hallucinations? In
 like manner, while the government of the world places the doctrine of
@@ -587,7 +587,7 @@ overspread. The thing were endless; and the corruptions themselves,
 though not a word should be said, furnish abundant evidence of the
 blindness of the human mind. I say nothing of the rude and illiterate
 vulgar; but among the philosophers6  <span
-id="fr_60"></span>[61](#fn_60) who attempted, by reason and learning, to
+id="fr_60"></span>[61](#fn_60.md) who attempted, by reason and learning, to
 pierce the heavens, what shameful disagreement! The higher any one was
 endued with genius, and the more he was polished by science and art, the
 more specious was the colouring which he gave to his opinions. All
@@ -599,7 +599,7 @@ already too prone to vanity, and had no need of being presented with an
 endless multiplicity of gods, to lead us further and more grossly into
 error. The mystic theology of the Egyptians shows how sedulously they
 laboured to be thought rational on this subject.6  <span
-id="fr_61"></span>[62](#fn_61) And, perhaps, at the first glance, some
+id="fr_61"></span>[62](#fn_61.md) And, perhaps, at the first glance, some
 show of probability might deceive the simple and unwary; but never did
 any mortal devise a scheme by which religion was not foully corrupted.
 This endless variety and confusion emboldened the Epicureans, and other
@@ -620,7 +620,7 @@ Some praise the answer of Simonides, who being asked by King Hero what
 God was, asked a day to consider. When the king next day repeated the
 question, he asked two days; and after repeatedly doubling the number of
 days, at length replied, “The longer I consider, the darker the subject
-appears.”6  <span id="fr_62"></span>[63](#fn_62) He, no doubt, wisely
+appears.”6  <span id="fr_62"></span>[63](#fn_62.md) He, no doubt, wisely
 suspended his opinion, when he did not see clearly: still his answer
 shows, that if men are only naturally taught, instead of having any
 distinct, solid, or certain knowledge, they fasten only on contradictory
@@ -635,7 +635,7 @@ the Holy Spirit pronounces all to be apostates, who, in the blindness of
 their minds, substitute demons in the place of God. For this reason Paul
 declares that the Ephesians were “without God,” (<span
 id="iv.i.vi-p64.1"></span>[Eph.
-2:12](../../../bib/kjv/eph002.htm#012)<span id="iv.i.vi-p64.1"></span>),
+2:12](../../../bib/kjv/eph002.htm#012)<span id="iv.i.vi-p64.1"></span>.md),
 until they had learned from the Gospel what it is to worship the true
 God. Nor must this be restricted to one people only, since, in another
 place, he declares in general, that all men “became vain in their
@@ -644,13 +644,13 @@ in the structure of the world. Accordingly, in order to make way for the
 only true God, he condemns all the gods celebrated among the Gentiles as
 lying and false, leaving no Deity anywhere but in Mount Zion where the
 special knowledge of God was professed (<span
-id="iv.i.vi-p64.2"></span>[Hab. 2:18](../../../bib/kjv/hab002.htm#018),
-[20](../../../bib/kjv/hab002.htm#020)<span id="iv.i.vi-p64.2"></span>).
+id="iv.i.vi-p64.2"></span>[Hab. 2:18](../../../bib/kjv/hab002.htm#018.md),
+[20](../../../bib/kjv/hab002.htm#020)<span id="iv.i.vi-p64.2"></span>.md).
 Among the Gentiles in the time of Christ, the Samaritans undoubtedly
 made the nearest approach to true piety; yet we hear from his own mouth
 that they worshipped they knew not what (<span
 id="iv.i.vi-p64.3"></span>[John
-4:22](../../../bib/kjv/joh004.htm#022)<span id="iv.i.vi-p64.3"></span>);
+4:22](../../../bib/kjv/joh004.htm#022)<span id="iv.i.vi-p64.3"></span>.md);
 whence it follows that they were deluded by vain errors. In short,
 though all did not give way to gross vice, or rush headlong into open
 idolatry, there was no pure and authentic religion founded merely on
@@ -658,7 +658,7 @@ common belief. A few individuals may not have gone all insane lengths
 with the vulgar; still Paul’s declaration remains true, that the wisdom
 of God was not apprehended by the princes of this world (<span
 id="iv.i.vi-p64.4"></span>[1 Cor.
-2:8](../../../bib/kjv/co1002.htm#008)<span id="iv.i.vi-p64.4"></span>).
+2:8](../../../bib/kjv/co1002.htm#008)<span id="iv.i.vi-p64.4"></span>.md).
 But if the most distinguished wandered in darkness, what shall we say of
 the refuse? No wonder, therefore, that all worship of man’s device is
 repudiated by the Holy Spirit as degenerate. Any opinion which man can
@@ -667,7 +667,7 @@ errors, is still the parent of error. And though nothing worse should
 happen, even this is no light sin—to worship an unknown God at random.
 Of this sin, however, we hear from our Saviour’s own mouth (<span
 id="iv.i.vi-p64.5"></span>[John
-4:22](../../../bib/kjv/joh004.htm#022)<span id="iv.i.vi-p64.5"></span>),
+4:22](../../../bib/kjv/joh004.htm#022)<span id="iv.i.vi-p64.5"></span>.md),
 that all are guilty who have not been taught out of the law who the God
 is whom they ought to worship. Nay, even Socrates in Xenophon (lib. 1
 Memorabilia), lauds the response of Apollo enjoining every man to
@@ -691,17 +691,17 @@ before they can give forth a brighter effulgence. Wherefore, the
 apostle, in the very place where he says that the worlds are images of
 invisible things, adds that it is *by faith* we understand that they
 were framed by the word of God (<span id="iv.i.vi-p65.1"></span>[Heb.
-11:3](../../../bib/kjv/heb011.htm#003)<span id="iv.i.vi-p65.1"></span>);
+11:3](../../../bib/kjv/heb011.htm#003)<span id="iv.i.vi-p65.1"></span>.md);
 thereby intimating that the invisible Godhead is indeed represented by
 such displays, but that we have no eyes to perceive it until they are
 enlightened through faith by internal revelation from God. When Paul
 says that that which may be known of God is manifested by the creation
 of the world, he does not mean such a manifestation as may be
 comprehended by the wit of man (<span id="iv.i.vi-p65.2"></span>[Rom.
-1:19](../../../bib/kjv/rom001.htm#019)<span id="iv.i.vi-p65.2"></span>);
+1:19](../../../bib/kjv/rom001.htm#019)<span id="iv.i.vi-p65.2"></span>.md);
 on the contrary, he shows that it has no further effect than to render
 us inexcusable (<span id="iv.i.vi-p65.3"></span>[Acts
-17:27](../../../bib/kjv/act017.htm#027)<span
+17:27](../../../bib/kjv/act017.htm#027.md)<span
 id="iv.i.vi-p65.3"></span>). And though he says, elsewhere, that we have
 not far to seek for God, inasmuch as he dwells within us, he shows, in
 another passage, to what extent this nearness to God is availing. God,
@@ -709,8 +709,8 @@ says he, “in times past, suffered all nations to walk in their own ways.
 Nevertheless, he left not himself without witness, in that he did good,
 and gave us rain from heaven, and fruitful seasons, filling our hearts
 with food and gladness,” (<span id="iv.i.vi-p65.4"></span>[Acts
-14:16](../../../bib/kjv/act014.htm#016),
-[17](../../../bib/kjv/act014.htm#017)<span id="iv.i.vi-p65.4"></span>).
+14:16](../../../bib/kjv/act014.htm#016.md),
+[17](../../../bib/kjv/act014.htm#017)<span id="iv.i.vi-p65.4"></span>.md).
 But though God is not left without a witness, while, with numberless
 varied acts of kindness, he woos men to the knowledge of himself, yet
 they cease not to follow their own ways, in other words, deadly errors.
@@ -744,44 +744,44 @@ author of them of his just praise.
 
 ### Footnotes
 
-<span id="fn_52"></span>[53](inst019.htm#fr_52) <span
+<span id="fn_52"></span>[53](inst019.htm#fr_52.md) <span
 id="iv.i.vi-p20.1"></span>
 
 <span id="iv.i.vi-p21"></span>8 58 Augustinus: Astrologia magnum
 religiosis argumentum, tormentumque curiosis.
 
-<span id="fn_53"></span>[54](inst019.htm#fr_53) <span
+<span id="fn_53"></span>[54](inst019.htm#fr_53.md) <span
 id="iv.i.vi-p22.1"></span>
 
 <span id="iv.i.vi-p23"></span>9 59 See Aristot. Hist. Anim. lib. i. c.
 17; Macrob. in Somn. Scip lib. 2 c. 12; Boeth. De Definitione.
 
-<span id="fn_54"></span>[55](inst019.htm#fr_54) <span
+<span id="fn_54"></span>[55](inst019.htm#fr_54.md) <span
 id="iv.i.vi-p25.1"></span>
 
 <span id="iv.i.vi-p26"></span> 60 Aeneid, 6 724, sq. See Calvin on <span
 id="iv.i.vi-p26.1"></span>[Acts
-17:28](../../../bib/kjv/act017.htm#028)<span id="iv.i.vi-p26.1"></span>
+17:28](../../../bib/kjv/act017.htm#028.md)<span id="iv.i.vi-p26.1"></span>
 Manil. lib. 1. Astron.
 
-<span id="fn_55"></span>[56](inst019.htm#fr_55) <span
+<span id="fn_55"></span>[56](inst019.htm#fr_55.md) <span
 id="iv.i.vi-p36.1"></span>
 
 <span id="iv.i.vi-p37"></span>1 61 Dryden’s Virgil, Æneid, Book 4 1.
 980-990.
 
-<span id="fn_56"></span>[57](inst019.htm#fr_56) <span
+<span id="fn_56"></span>[57](inst019.htm#fr_56.md) <span
 id="iv.i.vi-p38.1"></span>
 
 <span id="iv.i.vi-p39"></span>2 62 Georgic 4. 220. Plat. in Tim. Arist.
 lib. 1 De Animo. See also Metaph. lib. 1. Merc. Trismegr. in Pimandro.
 
-<span id="fn_57"></span>[58](inst019.htm#fr_57) <span
+<span id="fn_57"></span>[58](inst019.htm#fr_57.md) <span
 id="iv.i.vi-p49.1"></span>
 
 <span id="iv.i.vi-p50"></span>3 63 Dryden’s Virgil, Book 4. 1. 252-262.
 
-<span id="fn_58"></span>[59](inst019.htm#fr_58) <span
+<span id="fn_58"></span>[59](inst019.htm#fr_58.md) <span
 id="iv.i.vi-p51.1"></span>
 
 <span id="iv.i.vi-p52"></span>4 64 He maintains, in the beginning of the
@@ -790,13 +790,13 @@ formed out of certain primitive materials. He also perverts the ordinary
 course of generation into an argument against the existence of God. In
 the Fifth Book, however, he admits that the world was born and will die.
 
-<span id="fn_59"></span>[60](inst019.htm#fr_59) <span
+<span id="fn_59"></span>[60](inst019.htm#fr_59.md) <span
 id="iv.i.vi-p58.1"></span>
 
 <span id="iv.i.vi-p59"></span>5 65 Plato in Timaeos. See also Cic. De
 Nat. Deorum, lib. 1 ; Plut. De Philos Placitis, lib. i.
 
-<span id="fn_60"></span>[61](inst019.htm#fr_60) <span
+<span id="fn_60"></span>[61](inst019.htm#fr_60.md) <span
 id="iv.i.vi-p60.1"></span>
 
 <span id="iv.i.vi-p61"></span>6 66 Cicero : Qui deos esse dixerunt tanta
@@ -804,12 +804,12 @@ sunt in varietate ac dissensione, ut eorum molestum sit enumerare
 sententias.—Cicero, De Nat Deorum, lib. 1 and 2. Lactant Inst. Div. lib.
 1 &c.
 
-<span id="fn_61"></span>[62](inst019.htm#fr_61) <span
+<span id="fn_61"></span>[62](inst019.htm#fr_61.md) <span
 id="iv.i.vi-p61.1"></span>
 
 <span id="iv.i.vi-p62"></span>8 68 Plutarch. lib. De Iside et Osiride.
 
-<span id="fn_62"></span>[63](inst019.htm#fr_62) <span
+<span id="fn_62"></span>[63](inst019.htm#fr_62.md) <span
 id="iv.i.vi-p62.1"></span>
 
 <span id="iv.i.vi-p63"></span>9 69 Cicero, De Nat. Deor. lib. 1.
@@ -817,4 +817,4 @@ id="iv.i.vi-p62.1"></span>
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 6. - THE NEED OF SCRIPTURE, AS A GUIDE AND TEACHER, IN
-COMING TO GOD AS A CREATOR](inst020)
+COMING TO GOD AS A CREATOR](inst020.md)

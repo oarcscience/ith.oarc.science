@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic103)  [Next](lfic105) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic103)  [Next](lfic105.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ distinguished it, and the many canonized saints that it produced.
 
 ------------------------------------------------------------------------
 
-[Next: St Feancheas's Visit to Arran](lfic105)
+[Next: St Feancheas's Visit to Arran](lfic105.md)

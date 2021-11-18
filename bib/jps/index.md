@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
 
 </div>
 
@@ -32,17 +32,17 @@ single quotes.
 
 ------------------------------------------------------------------------
 
-[Title Page](jpstitle)  
-[Preface](jpspref)  
-[The Law](jpslaw)  
-[Genesis](gen)  
-[Exodus](exo)  
-[Leviticus](lev)  
-[Numbers](num)  
-[Deuteronomy](deu)  
-[Joshua](jos)  
-[Judges](jdg)  
-[I Samuel](sa1)  
-[II Samuel](sa2)  
-[I Kings](kg1)  
-[II Kings](kg2)  
+[Title Page](jpstitle.md)  
+[Preface](jpspref.md)  
+[The Law](jpslaw.md)  
+[Genesis](gen.md)  
+[Exodus](exo.md)  
+[Leviticus](lev.md)  
+[Numbers](num.md)  
+[Deuteronomy](deu.md)  
+[Joshua](jos.md)  
+[Judges](jdg.md)  
+[I Samuel](sa1.md)  
+[II Samuel](sa2.md)  
+[I Kings](kg1.md)  
+[II Kings](kg2.md)  

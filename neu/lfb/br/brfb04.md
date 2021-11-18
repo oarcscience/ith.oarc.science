@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb03)  [Next](brfb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb03)  [Next](brfb05.md) 
 
 </div>
 
@@ -294,6 +294,6 @@ fell into the water and was drowned, and the world was rid of him.
 
 ------------------------------------------------------------------------
 
-[Next: How Ball-carrier Finished His Task](brfb05)
+[Next: How Ball-carrier Finished His Task](brfb05.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh15)  [Next](ulh17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh15)  [Next](ulh17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="img_pl10"></span> <span align="CENTER"> [![PLATE X&lt;br&gt;
 PAHU HULA, HULA DRUM](tn/pl10.jpg)  
-Click to enlarge](img/pl10.jpg)  
+Click to enlarge](img/pl10.jpg.md)  
 PLATE X  
 PAHU HULA, HULA DRUM  
 </span>
@@ -31,8 +31,8 @@ PAHU HULA, HULA DRUM
 # XII.--THE HULA PAHU
 
 The hula *pahu* was so named from the *pahu*, <span
-id="fr_239"></span>[a](#fn_235) or drum, that was its chief instrument
-of musical accompaniment ([pl. X](#img_pl10)).
+id="fr_239"></span>[a](#fn_235.md) or drum, that was its chief instrument
+of musical accompaniment ([pl. X](#img_pl10).md).
 
 It is not often that the story of an institution can be so closely
 fitted to the landmarks of history as in the case of this hula; and this
@@ -171,30 +171,30 @@ And miry the plain of Mau-kele.
 <div style="margin-left: 32px">
 
 Kau lilua i ke anu Wai-aleale;  
-He maka halalo ka lehua makanoe; <span id="fr_240"></span>[a](#fn_236)  
-He lihilihi kuku ia no Aipo, <span id="fr_241"></span>[b](#fn_237) e;  
-O ka hulu a’a ia o Hau-a-iliki: <span id="fr_242"></span>[c](#fn_238)  
+He maka halalo ka lehua makanoe; <span id="fr_240"></span>[a](#fn_236.md)  
+He lihilihi kuku ia no Aipo, <span id="fr_241"></span>[b](#fn_237.md) e;  
+O ka hulu a’a ia o Hau-a-iliki: <span id="fr_242"></span>[c](#fn_238.md)  
 5 Ua pehi ’a e ka na a éha ka nahele,
 
 Maui ka pua, uwe éha i ke anu,  
-I ke kukuna la-wai o Mokihana. <span id="fr_243"></span>[d](#fn_239)  
+I ke kukuna la-wai o Mokihana. <span id="fr_243"></span>[d](#fn_239.md)  
 Ua hana ia aka ka pono a ua pololei;  
 Ua hai ’na ia aku no ia oe:  
 10 O ke ola no ia.
 
-O kia’i loko, kia’i Na-ula, <span id="fr_244"></span>[e](#fn_240)  
+O kia’i loko, kia’i Na-ula, <span id="fr_244"></span>[e](#fn_240.md)  
 Nana i ka makani, hoolono ka leo,  
-Ka halulu o ka Malua-kele: <span id="fr_245"></span>[f](#fn_241)  
+Ka halulu o ka Malua-kele: <span id="fr_245"></span>[f](#fn_241.md)  
 Kiei, halo i Maka-ike-ole.
 
-15 Kamau ke ea i ka halau <span id="fr_246"></span>[g](#fn_242) a ola;  
-He kula lima ia no Wawae-noho, <span id="fr_247"></span>[h](#fn_243)  
+15 Kamau ke ea i ka halau <span id="fr_246"></span>[g](#fn_242.md) a ola;  
+He kula lima ia no Wawae-noho, <span id="fr_247"></span>[h](#fn_243.md)  
 Me he puko’a hakahaka la i Waahila  
 Na momoku a ka unu-lehua o Lehua.  
 A lehulehu ka hale pono ka noho ana,
 
 20 Loaa kou haawina--o ke aloha,  
-Ike hauna <span id="fr_248"></span>[i](#fn_244) mai nei ka puka o ka
+Ike hauna <span id="fr_248"></span>[i](#fn_244.md) mai nei ka puka o ka
 hale.  
 Ea!
 
@@ -264,46 +264,46 @@ connection the one with the other.
 
 ### Footnotes
 
-<span id="fn_235"></span>[103:a](ulh16.htm#fr_239) Full form,
+<span id="fn_235"></span>[103:a](ulh16.htm#fr_239.md) Full form,
 *pahu-hula*.
 
-<span id="fn_236"></span>[105:a](ulh16.htm#fr_240) *Lehua makanoe*. The
+<span id="fn_236"></span>[105:a](ulh16.htm#fr_240.md) *Lehua makanoe*. The
 lehua trees that grow on the top of Wai-aleale, the mountain mass of
 Kauai, are of peculiar form, low, stunted, and so furzy as to be almost
 thorny, *kuku*, as mentioned in the next line.
 
-<span id="fn_237"></span>[105:b](ulh16.htm#fr_241) *Ai-po*. A swamp that
+<span id="fn_237"></span>[105:b](ulh16.htm#fr_241.md) *Ai-po*. A swamp that
 occupies the summit basin of the mountain, in and about which the thorny
 lehua trees above mentioned stand as a fringe.
 
-<span id="fn_238"></span>[105:c](ulh16.htm#fr_242) *Hau-a-iliki*. A word
+<span id="fn_238"></span>[105:c](ulh16.htm#fr_242.md) *Hau-a-iliki*. A word
 made up of *hau*, dew or frost, and *iliki*, to smite. The a is merely a
 connective.
 
-<span id="fn_239"></span>[105:d](ulh16.htm#fr_243) *Mokihana*. The name
+<span id="fn_239"></span>[105:d](ulh16.htm#fr_243.md) *Mokihana*. The name
 of a region on the flank of Wai-aleale, also a plant that grows there,
 whose berry is fragrant and is used in making wreaths.
 
-<span id="fn_240"></span>[105:e](ulh16.htm#fr_244) *Ka-ula*. A small
+<span id="fn_240"></span>[105:e](ulh16.htm#fr_244.md) *Ka-ula*. A small
 rocky island visible from Kauai.
 
-<span id="fn_241"></span>[105:f](ulh16.htm#fr_245) *Malua-kele*. A wind.
+<span id="fn_241"></span>[105:f](ulh16.htm#fr_245.md) *Malua-kele*. A wind.
 
-<span id="fn_242"></span>[105:g](ulh16.htm#fr_246) *Halau*. The shed or
+<span id="fn_242"></span>[105:g](ulh16.htm#fr_246.md) *Halau*. The shed or
 house which sheltered the canoe, *wa’a*, which latter, as we have seen,
 was often used figuratively to mean the human body, especially the body
 of a woman. *Kamau ke ea i ka halau* might be translated "persistent the
 breath from her body." "There's kames o’ hinny ’tween my luve's lips."
 
-<span id="fn_243"></span>[105:h](ulh16.htm#fr_247) *Wawae-noho*.
+<span id="fn_243"></span>[105:h](ulh16.htm#fr_247.md) *Wawae-noho*.
 Literally the foot that abides; it is the name of a place. Here it is to
 be understood as meaning constancy. It is an instance in which the
 concrete stands for the abstract.
 
-<span id="fn_244"></span>[105:i](ulh16.htm#fr_248) *Hauna*. An odor. In
+<span id="fn_244"></span>[105:i](ulh16.htm#fr_248.md) *Hauna*. An odor. In
 this connection it means the odor that hangs about a human habitation.
 The hidden allusion, it is needless to say, is to sexual attractiveness.
 
 ------------------------------------------------------------------------
 
-[Next: XIII.--The Hula Úli-ulí](ulh17)
+[Next: XIII.--The Hula Úli-ulí](ulh17.md)

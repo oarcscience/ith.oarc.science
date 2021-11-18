@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa05)  [Next](zfa07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa05)  [Next](zfa07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Heritage
 
 <span id="page_53">p. 53</span>
 
-### IMMORTALITY <span id="fr_24"></span>[1](#fn_24)
+### IMMORTALITY <span id="fr_24"></span>[1](#fn_24.md)
 
 ONE of the many questions which I am very often requested to answer from
 the Buddhist point of view concerns the immortality of the soul .
@@ -232,7 +232,7 @@ accomplished and apply all our moral and spiritual energy to the
 furtherance and perfection of the karma. The doctrine that the Buddha
 was able to reach his ideal eminence after his untiring practice of the
 six virtues of perfection (*pâramitâs*)} <span
-id="fr_25"></span>[1](#fn_25) throughout his innumerable lives since the
+id="fr_25"></span>[1](#fn_25.md) throughout his innumerable lives since the
 dawn of consciousness, is no more than the Buddhist conception of
 immortality and of the eternal striving after ideals. Let us, therefore,
 go not anywhere else after death even if an indulging benefactor should
@@ -246,13 +246,13 @@ we have scattered all our precious ancestral legacy to the four winds.
 
 ### Footnotes
 
-<span id="fn_24"></span>[53:1](zfa06.htm#fr_24) Read before Green Acre
+<span id="fn_24"></span>[53:1](zfa06.htm#fr_24.md) Read before Green Acre
 Fellowship, Washington, D. C., April, 1906.
 
-<span id="fn_25"></span>[61:1](zfa06.htm#fr_25) (1) Charity, (2)
+<span id="fn_25"></span>[61:1](zfa06.htm#fr_25) (1) Charity, (2.md)
 Observation of Moral Precepts, (3) Meekness, (4) Energy, (5) Meditation,
 (6) Wisdom.
 
 ------------------------------------------------------------------------
 
-[Next: Buddhist Faith](zfa07)
+[Next: Buddhist Faith](zfa07.md)

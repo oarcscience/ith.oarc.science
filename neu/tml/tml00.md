@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Next](tml01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Next](tml01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ Intangible Textual Heritage
 <span id="img_front"></span> <span align="CENTER"> [![THE PUNISHMENT OF
 LOKE&lt;br&gt; From the painting by J. Doyle Penrose, R.H.A., By
 permission of the artist.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 THE PUNISHMENT OF LOKE  
 From the painting by J. Doyle Penrose, R.H.A., By permission of the
 artist.  
@@ -38,7 +38,7 @@ artist.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title Page
 Colophon](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page Colophon  
 </span>
 
@@ -46,4 +46,4 @@ Title Page Colophon
 
 ------------------------------------------------------------------------
 
-[Next: Preface](tml01)
+[Next: Preface](tml01.md)

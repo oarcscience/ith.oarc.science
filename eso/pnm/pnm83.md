@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm82)  [Next](pnm84) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm82)  [Next](pnm84.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -132,8 +132,8 @@ appropriate criticism on Agrippa's book of Natural Magic.
 <span id="page_223">p. 223</span>
 
 <span id="img_22300"></span> <span align="CENTER"> [![](tn/22300.jpg)  
-Click to enlarge](img/22300.jpg)</span>
+Click to enlarge](img/22300.jpg.md)</span>
 
 ------------------------------------------------------------------------
 
-[Next: Henry Morley's Criticism](pnm84)
+[Next: Henry Morley's Criticism](pnm84.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap11) 
-[Next](bap13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap11.md) 
+[Next](bap13.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ Kings v., Meneria is the Shunamite, and Phua the woman who devoured her
 child in the siege of Samaria. I lay no stress on this suggestion, for
 other names are given in the same document which disagree with those in
 *Philo*. Still, those I have cited did come from some written source of
-similar character. <span id="fr_15"></span>[1](#fn_15)
+similar character. <span id="fr_15"></span>[1](#fn_15.md)
 
 Here is another curious phenomenon. In the *Apostolic Constitutions*
 (II. 22, 23) the whole story of Manasseh is quoted in a text avowedly
@@ -158,19 +158,19 @@ and the final triumph of right, of which *Philo* speaks only in general
 terms, though it may have developed clearer views as it proceeded. For
 the present, my conjecture is that *Philo* ended with the Babylonian
 captivity, and not without an anticipation of the Return. <span
-id="fr_16"></span>[1](#fn_16)
+id="fr_16"></span>[1](#fn_16.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_15"></span>[61:1](bap12.htm#fr_15) Another book which
+<span id="fn_15"></span>[61:1](bap12.htm#fr_15.md) Another book which
 deserves consideration in this connexion is the *Lives of the Prophets*,
 attributed to Epiphanius.
 
-<span id="fn_16"></span>[65:1](bap12.htm#fr_16) But see the Additional
-Note, [p. 73](bap14.htm#page_73).
+<span id="fn_16"></span>[65:1](bap12.htm#fr_16.md) But see the Additional
+Note, [p. 73](bap14.htm#page_73.md).
 
 ------------------------------------------------------------------------
 
-[Next: 12. Conclusion. Character of the Present Edition](bap13)
+[Next: 12. Conclusion. Character of the Present Edition](bap13.md)

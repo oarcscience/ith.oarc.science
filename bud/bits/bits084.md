@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits083) [Next](bits085)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits083) [Next](bits085.md)
 
 ------------------------------------------------------------------------
 
@@ -188,7 +188,7 @@ in the foregoing stanzas, rose from his seat and departed.
 
 ------------------------------------------------------------------------
 
-[Next: § 85. Residence During the Rainy Season](bits085)
+[Next: § 85. Residence During the Rainy Season](bits085.md)
 
  
 

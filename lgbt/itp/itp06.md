@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](itp05)  [Next](itp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](itp05)  [Next](itp07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -144,7 +144,7 @@ accounted quite magical and divinatory.
 With regard to the early beginnings of poetry and music, we know that
 dancing had an important place; and there is an interesting passage in
 Leguével de Lacombe's *Voyage d Madagascar*, <span
-id="fr_31"></span>[1](#fn_31) (vol. L, pp. 97, 98), which indicates the
+id="fr_31"></span>[1](#fn_31) (vol. L, pp. 97, 98.md), which indicates the
 connection of these arts, among the Tsecats of Madagascar, with sexual
 variation. "Dancers form a distinct class in Madagascar, though they are
 not very numerous. They have their own manners and customs, and live
@@ -242,7 +242,7 @@ development just described, yet it is noticeable, in the slow evolution
 of society, how often the late and high developments have been indicated
 in the germ in primitive stages; and it may be so in this case. Very
 interesting in this connection is the passage already quoted (page
-[19](itp04.htm#page_19)) from Elie Reclus about the initiations of the
+[19](itp04.htm#page_19).md) from Elie Reclus about the initiations of the
 Esquimaux *angakok* and the appearance to him of his own Genius or
 Double from the world beyond, for almost exactly the same thing is
 supposed to take place in the initiation of the religious yogi in
@@ -260,19 +260,19 @@ a husk falls away from the
 expanding bud, something in the nature of a metamorphosis does really
 take place; and the new order, the new revelation, the new form of life,
 is seen for a moment as a Vision in glorious state of a divine being
-within. <span id="fr_32"></span>[1](#fn_32)
+within. <span id="fr_32"></span>[1](#fn_32.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_31"></span>[60:1](itp06.htm#fr_31) 2 vols. (Paris, 1840).
+<span id="fn_31"></span>[60:1](itp06.htm#fr_31) 2 vols. (Paris, 1840.md).
 
-<span id="fn_32"></span>[65:1](itp06.htm#fr_32) It is probable also that
+<span id="fn_32"></span>[65:1](itp06.htm#fr_32.md) It is probable also that
 the considerable degree of continence, to which many homosexuals are by
 nature or external necessity compelled, contributes to this visionary
 faculty.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Hermaphrodism among Gods and Mortals](itp07)
+[Next: Chapter IV. Hermaphrodism among Gods and Mortals](itp07.md)

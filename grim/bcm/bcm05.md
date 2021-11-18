@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm04)  [Next](bcm06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm04)  [Next](bcm06.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 <span id="page_2">p. 2</span>
 
 <span id="img_00200"></span> [![](tn/generic.jpg)  
-Click to view](img/00200.jpg)  
+Click to view](img/00200.jpg.md)  
 THE SERPENT OF THE GARDEN OF THE HESPERIDES.  
 From a Greek Vase Painting.
 
@@ -155,13 +155,13 @@ therefore its history. There was a time indeed when Ceremonial Magic
 threatened to absorb the whole circle of the occult sciences; it was the
 superior method, the royal road; it effected immediately what the others
 accomplished laboriously, after a long time. <span
-id="fr_1"></span>[1](#fn_1) It had, moreover, the palmary recommendation
+id="fr_1"></span>[1](#fn_1.md) It had, moreover, the palmary recommendation
 that it was a conventional art, working by definite formulæ; above all,
 it was a process in words.
 
 It was the fascination of this process which brought men and women-all
 sorts and conditions of both--to the Black Sabbath and to the White
-Sabbath, <span id="fr_2"></span>[2](#fn_2) and blinded
+Sabbath, <span id="fr_2"></span>[2](#fn_2.md) and blinded
 
 <span id="page_8">p. 8</span>
 
@@ -176,7 +176,7 @@ even the peasant tremble, and when the peasant shakes at his hearth, the
 king is not secure in his palace nor the Pope at St. Peter's, unless
 both can protect their own. Moreover, in the very claim of Ceremonial
 Magic there was an implied competition with the essential claim of the
-Church. <span id="fr_3"></span>[1](#fn_3)
+Church. <span id="fr_3"></span>[1](#fn_3.md)
 
 The importance of Ceremonial Magic, and of the literature which embodies
 it, to the history of the occult sciences being admitted, there is no
@@ -217,7 +217,7 @@ of certain words, is a case in point. In approaching the Ceremonial
 Magic of the Middle Ages, we must therefore bear in mind that we are
 dealing with a literature which, though modern in its actual
 presentation, embodies some elements of great antiquity. <span
-id="fr_4"></span>[1](#fn_4) It is doubtful whether the presence of these
+id="fr_4"></span>[1](#fn_4.md) It is doubtful whether the presence of these
 elements can be accounted for on the principle that mankind in all ages
 works unconsciously for the accomplishment
 
@@ -306,7 +306,7 @@ seekers, who, by thought, study and intuition, sometimes attained
 veridic results without assistance. (*c*.) Travesties of occult
 doctrine, travesties of occult intention, travesties of occult
 procedure, complicated by filtrations from the superior source. <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 The opinions of professed occultists on any subject whatsoever are of no
 importance to myself, and are named only to
@@ -339,7 +339,7 @@ the science of the abyss.
 
 ### Footnotes
 
-<span id="fn_1"></span>[7:1](bcm05.htm#fr_1) Thus, the abstruse
+<span id="fn_1"></span>[7:1](bcm05.htm#fr_1.md) Thus, the abstruse
 processes of astrology might, on the hypothesis, be dispensed with
 altogether in favour of the evocation of one of those numerous spirits
 whose office it was to give instruction in astrology and an
@@ -351,7 +351,7 @@ to be transported from the depths of the sea or the bowels of the earth,
 and even from the royal exchequer, in the more convenient shape of
 current coin.
 
-<span id="fn_2"></span>[7:2](bcm05.htm#fr_2) There is much the same
+<span id="fn_2"></span>[7:2](bcm05.htm#fr_2.md) There is much the same
 ground for this distinction as for that made between the Black and White
 Magic of the Rituals. Such meetings were abominable or fantastic
 according to, the disposition of those who frequented them. As a whole,
@@ -380,7 +380,7 @@ by torture is, in the ultimate, always of the nature which it was
 intended to extract; but they are also, or at least largely, records of
 sexual mania.
 
-<span id="fn_3"></span>[8:1](bcm05.htm#fr_3) That is to say, the Church
+<span id="fn_3"></span>[8:1](bcm05.htm#fr_3.md) That is to say, the Church
 communicates the supernatural world by a sacramental system, and the
 direct communication which Magic pretends to establish must, if
 established, tend to supersede the Church, in the mind of occultism at
@@ -395,13 +395,13 @@ observance, then it was not so acute as would seem, for behind that veil
 there is no danger to the sacramental system. Those possibilities belong
 to the life within, and the Church has its heritage therein.
 
-<span id="fn_4"></span>[9:1](bcm05.htm#fr_4) The Ceremonial Magic of
+<span id="fn_4"></span>[9:1](bcm05.htm#fr_4.md) The Ceremonial Magic of
 certain Græco-Egyptian papyri offers the closest analogies with the
 processes of the Kabalistic school, but they are the channel and not the
 source. We must look beyond history, certainly far beyond the documents
 of Leyden, for the origin of Ceremonial Magic.
 
-<span id="fn_5"></span>[12:1](bcm05.htm#fr_5) In this connection, I may
+<span id="fn_5"></span>[12:1](bcm05.htm#fr_5.md) In this connection, I may
 perhaps be permitted to quote a general statement on the subject which I
 once received from a correspondent who appeared to claim in his day some
 connection of an unattached kind with the sources of secret knowledge.
@@ -430,4 +430,4 @@ happen that it does.
 
 ------------------------------------------------------------------------
 
-[Next: Section 2: The Distinction between White and Black Magic](bcm06)
+[Next: Section 2: The Distinction between White and Black Magic](bcm06.md)

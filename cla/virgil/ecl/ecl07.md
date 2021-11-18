@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](ecll07)  [Previous](ecl06) 
-[Next](ecl08) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](ecll07)  [Previous](ecl06.md) 
+[Next](ecl08.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ henceforth Corydon, Corydon is ours.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue VIII.--The Sorceress](ecl08)
+[Next: Eclogue VIII.--The Sorceress](ecl08.md)

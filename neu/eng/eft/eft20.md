@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft19)  [Next](eft21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft19)  [Next](eft21.md) 
 
 ------------------------------------------------------------------------
 
 # Jack the Giant Killer
 
 <span id="img_019"></span> [![](tn/019.jpg)  
-Click to enlarge](img/019.jpg)
+Click to enlarge](img/019.jpg.md)
 
 WHEN good King Arthur reigned, there lived near the Land's End of
 England, in the county of Cornwall, a farmer who had one only son called
@@ -383,7 +383,7 @@ Court of King Arthur, where, the very next day, Jack followed, with the
 knights and ladies who had been delivered.
 
 <span id="img_020"></span> [![](tn/020.jpg)  
-Click to enlarge](img/020.jpg)
+Click to enlarge](img/020.jpg.md)
 
 Whereupon, as a reward for his good services, the king prevailed upon
 the duke to bestow his daughter in marriage on honest Jack. So married
@@ -394,4 +394,4 @@ joy and happiness all the rest of their days.
 
 ------------------------------------------------------------------------
 
-[Next: Henny-Penny](eft21)
+[Next: Henny-Penny](eft21.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Next](zfa01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Next](zfa01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ Americans.'--JBH.
 
 ------------------------------------------------------------------------
 
-[Next: Translator's Preface](zfa01)
+[Next: Translator's Preface](zfa01.md)

@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-01tx) [Next](dob-02tx)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-01tx) [Next](dob-02tx.md)
 
 ------------------------------------------------------------------------
 
@@ -450,4 +450,4 @@ have no expression so good. See Sa*m*yutta V, 16, 17.
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: II. Sâma*ññ*a-phala Sutta](dob-02tx)
+[Return to top](#top)   [Next: II. Sâma*ññ*a-phala Sutta](dob-02tx.md)

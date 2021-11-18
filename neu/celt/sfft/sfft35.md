@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft34)  [Next](sfft36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft34)  [Next](sfft36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### SANNTRAIGH. <span id="fr_54"></span>[1](#fn_54)
+### SANNTRAIGH. <span id="fr_54"></span>[1](#fn_54.md)
 
 THERE was a herd's wife in the island of Sanntraigh, and she had a
 kettle. A woman of peace would come every day to seek the kettle. She
@@ -83,9 +83,9 @@ stopping. The woman of peace never came more to seek the kettle.
 
 ### Footnotes
 
-<span id="fn_54"></span>[122:1](sfft35.htm#fr_54) Campbell, *Popular
+<span id="fn_54"></span>[122:1](sfft35.htm#fr_54.md) Campbell, *Popular
 Tales of the West Highlands*.
 
 ------------------------------------------------------------------------
 
-[Next: Water Fairies](sfft36)
+[Next: Water Fairies](sfft36.md)

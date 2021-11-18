@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe200)  [Next](prwe202) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe200)  [Next](prwe202.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ churchyard.
 
 ------------------------------------------------------------------------
 
-[Next: Jack Harry's Lights](prwe202)
+[Next: Jack Harry's Lights](prwe202.md)

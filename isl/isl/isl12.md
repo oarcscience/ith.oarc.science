@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl11)  [Next](isl13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl11)  [Next](isl13.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ people, for no tribe is so divided by hatred and rancor as they. Perhaps
 God will unite them through you. So let us go and invite them to this
 religion of yours; and if God unites them in it, then no man will be
 mightier than you!" Thus saying they returned to Medina as believers. .
-. . <span id="fr_17"></span>[11](#fn_17)
+. . <span id="fr_17"></span>[11](#fn_17.md)
 
  
 
@@ -88,7 +88,7 @@ well-born warrior . . . then each of these should strike a blow at him
 and kill him. Thus they would be relieved of him, and responsibility for
 his blood would lie on all of the clans. His clan could not fight them
 all and would have to accept the blood money, to which they would all
-contribute. . . . <span id="fr_18"></span>[12](#fn_18)
+contribute. . . . <span id="fr_18"></span>[12](#fn_18.md)
 
  
 
@@ -137,7 +137,7 @@ it.
 The Apostle ordered that a mosque (and lodgings for his family) be
 built, and he joined in the work to encourage the Muhājirīn and the
 Anṡār. . . . (Emigrants and Medinans.) <span
-id="fr_19"></span>[13](#fn_19)
+id="fr_19"></span>[13](#fn_19.md)
 
  
 
@@ -176,7 +176,7 @@ it was to say thrice:
 I bear witness that there is no god but God!*  
 *I bear witness that Muhammad is the Apostle of God!  
 Come to prayer! Come to prayer!*  
-*Come to salvation! <span id="fr_20"></span>[14](#fn_20) Come to
+*Come to salvation! <span id="fr_20"></span>[14](#fn_20.md) Come to
 salvation!*  
 Allāhu Akbar*! *Allāhu* *Akbar*!*  
 *There is no god but God!"
@@ -202,7 +202,7 @@ it every day.
 the housetop waiting for the dawn; when he saw it, he would stretch out
 his arms and say, 'Oh God, I praise Thee and ask Thy help for Quraysh,
 that they may accept Thy religion.' I never knew him to omit those words
-for a single night." <span id="fr_21"></span>[15](#fn_21)
+for a single night." <span id="fr_21"></span>[15](#fn_21.md)
 
  
 
@@ -299,7 +299,7 @@ back does no harm to God, but God will reward the grateful." (Sūra 3:38)
 ‘Umar said, "By God, when I heard Abū Bakr recite these words, I was
 dumbfounded so that my legs would not bear me and I fell to the ground,
 knowing that the Apostle was indeed dead." <span
-id="fr_22"></span>[16](#fn_22)
+id="fr_22"></span>[16](#fn_22.md)
 
  
 
@@ -410,7 +410,7 @@ God will guide you as He guided him. God has placed your affairs in the
 hands of the best one among you, the companion of the Apostle, 'The
 second of the two when they were in the cave' (Sūra 9:40) so arise and
 swear fealty to him." Thereupon the people swore fealty to Abū Bakr as a
-body after the pledge in the hall. <span id="fr_23"></span>[17](#fn_23)
+body after the pledge in the hall. <span id="fr_23"></span>[17](#fn_23.md)
 
  
 
@@ -445,26 +445,26 @@ into southern Syria.
 
 ### Footnotes
 
-<span id="fn_17"></span>[80:11](isl12.htm#fr_17) *Ibid*., pp. 197-198.
+<span id="fn_17"></span>[80:11](isl12.htm#fr_17.md) *Ibid*., pp. 197-198.
 
-<span id="fn_18"></span>[80:12](isl12.htm#fr_18) *Ibid*., pp. 212-222
+<span id="fn_18"></span>[80:12](isl12.htm#fr_18.md) *Ibid*., pp. 212-222
 (here abridged).
 
-<span id="fn_19"></span>[80:13](isl12.htm#fr_19) *Ibid*., pp. 223-228
+<span id="fn_19"></span>[80:13](isl12.htm#fr_19.md) *Ibid*., pp. 223-228
 (here abridged).
 
-<span id="fn_20"></span>[80:14](isl12.htm#fr_20) Falāh, usually
+<span id="fn_20"></span>[80:14](isl12.htm#fr_20.md) Falāh, usually
 translated as "salvation." Professor Guillaume suggests very plausibly
 that it is an Arabicization of the Syriac *pulhānā*, used by Aramaic
 Christians and Jews of the period for "divine service" worship.
 
-<span id="fn_21"></span>[80:15](isl12.htm#fr_21) Guillaume, *op. cit.*,
+<span id="fn_21"></span>[80:15](isl12.htm#fr_21.md) Guillaume, *op. cit.*,
 pp. 235-236.
 
-<span id="fn_22"></span>[80:16](isl12.htm#fr_22) *Ibid*., pp. 678-683.
+<span id="fn_22"></span>[80:16](isl12.htm#fr_22.md) *Ibid*., pp. 678-683.
 
-<span id="fn_23"></span>[80:17](isl12.htm#fr_23) *Ibid*., pp. 685-687.
+<span id="fn_23"></span>[80:17](isl12.htm#fr_23.md) *Ibid*., pp. 685-687.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Muhammad as Founder and Legislator](isl13)
+[Next: 3. Muhammad as Founder and Legislator](isl13.md)

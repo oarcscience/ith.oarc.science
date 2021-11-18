@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr19)  [Next](wsgr21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr19)  [Next](wsgr21.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ many white people know the story of how it came to the desert.
 
 ------------------------------------------------------------------------
 
-[Next: Old Quanah's Gift](wsgr21)
+[Next: Old Quanah's Gift](wsgr21.md)

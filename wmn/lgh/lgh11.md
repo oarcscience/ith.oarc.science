@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](lgh10) 
-[Next](lgh12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](lgh10.md) 
+[Next](lgh12.md) 
 
 ------------------------------------------------------------------------
 
@@ -479,4 +479,4 @@ to children.
 
 ------------------------------------------------------------------------
 
-[Next: Kassandra](lgh12)
+[Next: Kassandra](lgh12.md)

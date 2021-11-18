@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ams05)  [Next](ams07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ams05)  [Next](ams07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP30M/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP30M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Miracle in Stone: The Great Pyramid*, by Joesph A. Seiss, \[1877\],
 at Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ Were born in ages older than his own.</span>
 
 <span id="page_101">p. 101</span>
 
-<span id="img_10100"></span> ![Lecture Second](img/10100.jpg)
+<span id="img_10100"></span> ![Lecture Second](img/10100.jpg.md)
 
 ### MODERN DISCOVERIES AND BIBLICAL CONNECTIONS.
 
@@ -38,7 +38,7 @@ Were born in ages older than his own.</span>
 
 |                     |
 |---------------------|
-| ![I](img/10101.jpg) |
+| ![I](img/10101.jpg.md) |
 
 T was lately my privilege to present some account of the Great Pyramid,
 and of that wonderful scientific knowledge embodied in it which has
@@ -240,7 +240,7 @@ still to be seen in
 <span class="contnote">\[paragraph continues\]</span> Egypt. It was
 something "set" there. The word is the same in Hebrew and in English,
 and with much the same sense in both. <span
-id="fr_19"></span>[\*](#fn_19) It may be metaphorically used with regard
+id="fr_19"></span>[\*](#fn_19.md) It may be metaphorically used with regard
 to miracles, but when used of things continuous for hundreds of years
 after the placing, the sense is cramped and strained when applied to
 miracles like those of the Exodus, which disappeared with the relenting
@@ -371,7 +371,7 @@ singing and shouting of the heavenly hosts over the mighty achievement
 at the laying of that particular stone, require the proper pyramidal
 edifice. The picture will not interpret of anything else. That
 corner-stone could not be at the base, <span
-id="fr_20"></span>[\*](#fn_20) for others were there against
+id="fr_20"></span>[\*](#fn_20.md) for others were there against
 
 <span id="page_116">p. 116</span>
 
@@ -945,7 +945,7 @@ attributes the invention of the constellations to the family of Seth,
 the son of Adam, and refers to ancient writers as authorities. Origen
 affirms that it was asserted in the Book of Enoch that in the time of
 that patriarch the constellations were already divided and named. <span
-id="fr_21"></span>[\*](#fn_21) Volney
+id="fr_21"></span>[\*](#fn_21.md) Volney
 
 <span id="page_141">p. 141</span>
 
@@ -1407,7 +1407,7 @@ Prof. Smyth, in debating over these fragments, says, "I was compelled to
 gaze up at the Pyramid with its vast bulk, and believe that there is
 another chamber still undiscovered there, and one which will prove to be
 the very muniment room of the whole monument." <span
-id="fr_22"></span>[\*](#fn_22)
+id="fr_22"></span>[\*](#fn_22.md)
 
 And even the way to it may perhaps be found from a suggestion which I
 draw from the Apocalypse. The numberless multitude before the throne of
@@ -1582,14 +1582,14 @@ witness!"
 
 ### Footnotes
 
-<span id="fn_19"></span>[110:\*](ams06.htm#fr_19) It is again and again
+<span id="fn_19"></span>[110:\*](ams06.htm#fr_19.md) It is again and again
 rendered, *to make*, *to put*, *to cause to be*, *to order*, *to
 appoint*, *to ordain*, *to place*, *to set up*, *to erect*. Gesenius
 gives as its first and main sense, "*to set, to place, to put, referring
 to persons or things which stand erect*." Vatablus translates it by
 *posuisti*, *placed*, *set up*, *erected*, *built*.
 
-<span id="fn_20"></span>[115:\*](ams06.htm#fr_20) This is also
+<span id="fn_20"></span>[115:\*](ams06.htm#fr_20.md) This is also
 distinctly expressed in the ancient Coptic version, translated by
 Archdeacon Tattam. There in the sixth verse the language is, "Who hath
 laid the corner stone upon <span id="page_116">p. 116</span> it?" If a
@@ -1598,7 +1598,7 @@ the placing of the building upon it; but only a top or summit
 corner-stone can be said to be laid "upon" the building, and no building
 has such a top cornerstone but the Pyramid.
 
-<span id="fn_21"></span>[140:\*](ams06.htm#fr_21) The Book of Enoch,
+<span id="fn_21"></span>[140:\*](ams06.htm#fr_21.md) The Book of Enoch,
 translated by Bishop Lawrence, is as a whole, an apocryphal production,
 dating somewhere about the beginning of the reign of Herod, before
 Christ. It has some ten chapters devoted to the mysteries of astronomy,
@@ -1611,10 +1611,10 @@ forever, until a new work (or creation) shall be effected which will be
 eternal." The twelve signs of the Zodiac are plainly indicated in this
 book. See Book of Enoch, chap. 71, *seq*., pp. 84, 85, and 232.
 
-<span id="fn_22"></span>[161:\*](ams06.htm#fr_22) Life and Work, pp.
+<span id="fn_22"></span>[161:\*](ams06.htm#fr_22.md) Life and Work, pp.
 187, 188.
 
 ------------------------------------------------------------------------
 
 [Next: Lecture Third. Analysis of Traditions, Opinions, and
-Results](ams07)
+Results](ams07.md)

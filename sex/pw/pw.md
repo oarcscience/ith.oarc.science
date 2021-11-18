@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index) 
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index.md) 
 
 ------------------------------------------------------------------------
 

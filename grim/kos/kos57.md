@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos56)  [Next](kos58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos56)  [Next](kos58.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,8 +12,8 @@
 
 WHENSOEVER in any Operation it is necessary to write Characters, and
 thou fearest that thou wilt fail, do this: Write at the beginning the
-Name EHEIEH ASHER EHEIEH (*[Figure 91](kos44.htm#img_kos14)*), and at
-the end the Name AIN SOPH (*[Figure 92](kos44.htm#img_kos14)*); between
+Name EHEIEH ASHER EHEIEH (*[Figure 91](kos44.htm#img_kos14)*.md), and at
+the end the Name AIN SOPH (*[Figure 92](kos44.htm#img_kos14)*.md); between
 these Names write what thou wishest, and if thou hast anything especial
 to do bear the said written Names upon the wrapper in silk, and thou
 shalt say over them:--
@@ -26,7 +26,7 @@ through Thee, O Most Holy ADONAI. Amen.
 After having repeated this thou shalt write the requisite Characters,
 and thou shalt not fail, but shalt attain thy desired end.
 
-### THE CONSECRATION OF THE BOOK. <span id="fr_85"></span>[1](#fn_85)
+### THE CONSECRATION OF THE BOOK. <span id="fr_85"></span>[1](#fn_85.md)
 
 Make a small Book containing the Prayers for all the Operations, the
 Names of the Angels in the form of Litanies, their Seals and Characters;
@@ -78,10 +78,10 @@ exceedingly difficult for thee to attract them for use for pure ends.
 
 ### Footnotes
 
-<span id="fn_85"></span>[117:1](kos57.htm#fr_85) The rest of this
+<span id="fn_85"></span>[117:1](kos57.htm#fr_85.md) The rest of this
 Chapter is from 1203 Lansdowne MSS.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXII. Concerning Sacrifices To the Spirits, And How They
-Should Be Made](kos58)
+Should Be Made](kos58.md)

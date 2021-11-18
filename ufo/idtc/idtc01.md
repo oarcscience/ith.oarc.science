@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](idtc00)  [Next](idtc02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](idtc00)  [Next](idtc02.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Days To Come*, by Ashtar (Ethel P. Hill), \[1957\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Certainly the coming of the so-called Flying Saucers is a momentous
 unmistakable measuring rod of your intelligence and spiritual status.
 
 People interested in Flying Saucers fall into three
-[categories](errata.htm#0)—those who are indifferent to the whole
+[categories](errata.htm#0.md)—those who are indifferent to the whole
 matter, those who are interested only in the physical aspects, who pride
 themselves on their "scientific attitude," but close their mind to every
 evidence not in keeping with their own theories, and those who "believe"
@@ -30,7 +30,7 @@ Among the latter we find some, it is true, who are mentally not capable
 of weighing evidence and the nature of various reports and "believe"
 everybody who claims to have made a contact with Spacemen and every wild
 story. Naturally such people are ridiculed by the more "sober minded,"
-who reserve [judgment](errata.htm#1) until they find some evidence for
+who reserve [judgment](errata.htm#1.md) until they find some evidence for
 acceptance. On the other hand, is he who senses the tremendous import of
 Flying Saucers any less intelligent
 
@@ -127,7 +127,7 @@ impress thoughts and ideas on receptive individuals?
 All down the ages there have been mystics who claimed to have heard the
 VOICE OF GOD or of angels. Today there are those who claim to hear the
 voice of spacemen. And if Flying Saucers are real—and the [Air
-Force](errata.htm#2) knows they are—why shouldn't they be "manned" by
+Force](errata.htm#2.md) knows they are—why shouldn't they be "manned" by
 intelligent beings who can send their thought-waves to those who are
 receptive?
 
@@ -256,7 +256,7 @@ an interesting phenomena of our times.
 
 The messages received from extra terrestrial source seem to have one
 thing in common, regardless of where they are received or through what
-[instrumentality](errata.htm#3). They all, without exception, warn of
+[instrumentality](errata.htm#3.md). They all, without exception, warn of
 impending disaster if mankind does not adopt a more tolerant and
 understanding attitude among nations and peoples, and cease the hydrogen
 bomb and armament race. Typical of this is the Martian's message to Mr.
@@ -324,4 +324,4 @@ The Publishers
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](idtc02)
+[Next: Introduction](idtc02.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos08)  [Next](dos10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos08)  [Next](dos10.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ in admiration of his courage. And as he went, gradually the trees grew
 rarer, and at length he looked before him, and saw in a clear space a
 dark blue forest pool, studded with moon-lotuses, as if created to mock
 the expanse of heaven bespangled with its stars, a mirror formed by
-Wedasa <span id="fr_57"></span>[f](#fn_57) to reproduce another world
+Wedasa <span id="fr_57"></span>[f](#fn_57.md) to reproduce another world
 below. And all about it flitted fireflies, looking like swarms of bees
 that had returned
 
@@ -32,7 +32,7 @@ bosom, which rose and fell like a wave of the sea in and out of the
 shadow of her hair: for that hair resembled a mass of the essence of the
 blackness of night. And she chanted as she danced with a voice that
 sounded like a spell, and fanned the ear like a breeze from the Malaya
-mountain <span id="fr_58"></span>[g](#fn_58). Then Umra-Singh raised his
+mountain <span id="fr_58"></span>[g](#fn_58.md). Then Umra-Singh raised his
 eyes, and saw the original of that water-painted woman-image, dancing on
 the other side of the pool.
 
@@ -60,7 +60,7 @@ moving lips, and eyes that shone in the moonlight like the eyes of a
 snake. And she came and stood before him, and put her hand on his
 shoulder with a touch like a leaf, and looked up into his face with a
 smile, and said: I am Ulupí, a Daitya's <span
-id="fr_59"></span>[h](#fn_59) daughter, and here I live in the forest
+id="fr_59"></span>[h](#fn_59.md) daughter, and here I live in the forest
 alone, with none to whom to compare myself, save my own image in the
 water. Tell me, for thou hast seen
 
@@ -69,12 +69,12 @@ water. Tell me, for thou hast seen
 other women, hast thou ever met with eyes more beautiful than mine? And
 Umra-Singh looked down into them as into two dark pools, and he felt
 them pounding his heart like a pair of fists <span
-id="fr_60"></span>[i](#fn_60). And he said to himself: She may well ask,
+id="fr_60"></span>[i](#fn_60.md). And he said to himself: She may well ask,
 and now, but for one other pair, her eyes need fear no rivals. But he
-said to her: Beauty <span id="fr_61"></span>[k](#fn_61), thine eyes are
+said to her: Beauty <span id="fr_61"></span>[k](#fn_61.md), thine eyes are
 well enough: nevertheless the ocean has many gems, and doubtless each
 thinks itself the best: but the Koustubha <span
-id="fr_62"></span>[l](#fn_62) is above them all.
+id="fr_62"></span>[l](#fn_62.md) is above them all.
 
 Then a cloud came over her face, and she flung away from him in disdain,
 and stood pouting like a child. And suddenly she turned again, and put
@@ -100,7 +100,7 @@ Then Ulupí was very angry, and she stood with flashing eyes, swelling
 with rage. And suddenly she stooped, and gathered up her hair in her
 arm, and came up to Umra-Singh, and flung it round him like a noose, and
 whispered in his ear, with lips that caressed it as they moved: O
-foolish bee <span id="fr_63"></span>[m](#fn_63), I am but a lotus of the
+foolish bee <span id="fr_63"></span>[m](#fn_63.md), I am but a lotus of the
 night: yet why despise me, in comparison with the absent lotus of the
 day? It is hot and dusty, and I am cool and fragrant as the nectar of
 that moon in whose light I blow. And Umra-Singh trembled. For there came
@@ -147,26 +147,26 @@ alone in the wood, with the water up to his waist.
 
 ### Footnotes
 
-<span id="fn_57"></span>[56:f](dos09.htm#fr_57) The Creator.
+<span id="fn_57"></span>[56:f](dos09.htm#fr_57.md) The Creator.
 
-<span id="fn_58"></span>[57:g](dos09.htm#fr_58) From which the sandal
+<span id="fn_58"></span>[57:g](dos09.htm#fr_58.md) From which the sandal
 wood comes.
 
-<span id="fn_59"></span>[58:h](dos09.htm#fr_59) A kind of demon, '*a son
+<span id="fn_59"></span>[58:h](dos09.htm#fr_59.md) A kind of demon, '*a son
 of Diti*.' (Pronounce *dait*- as *white*.)
 
-<span id="fn_60"></span>[59:i](dos09.htm#fr_60) A reminiscence of
+<span id="fn_60"></span>[59:i](dos09.htm#fr_60.md) A reminiscence of
 Bhartrihari.
 
-<span id="fn_61"></span>[59:k](dos09.htm#fr_61) Nothing can translate
+<span id="fn_61"></span>[59:k](dos09.htm#fr_61.md) Nothing can translate
 *bálá*. It means child, woman, beauty, *beauté-de-diable*.
 
-<span id="fn_62"></span>[59:l](dos09.htm#fr_62) Wishnu's great
+<span id="fn_62"></span>[59:l](dos09.htm#fr_62.md) Wishnu's great
 breast-jewel (*Kou* as *cow*).
 
-<span id="fn_63"></span>[60:m](dos09.htm#fr_63) This word here used may
+<span id="fn_63"></span>[60:m](dos09.htm#fr_63.md) This word here used may
 mean either a *bee* or a *lover* or a *wanderer* (*bhramara*).
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Silver Swans](dos10)
+[Next: VIII. The Silver Swans](dos10.md)

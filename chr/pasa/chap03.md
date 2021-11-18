@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap02)  [Next](chap04) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap02)  [Next](chap04.md) 
 
 ------------------------------------------------------------------------
 
@@ -703,4 +703,4 @@ Ehren kommen lässt.'
 
 ------------------------------------------------------------------------
 
-[Next: The Church](chap04)
+[Next: The Church](chap04.md)

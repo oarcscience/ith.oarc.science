@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai01)  [Next](kwai03) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai01)  [Next](kwai03.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ Tokyo, Japan, January 20th, 1904.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of Mimi-Nashi-Hoichi](kwai03)
+[Next: The Story Of Mimi-Nashi-Hoichi](kwai03.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp12)  [Next](potp14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp12)  [Next](potp14.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,7 +155,7 @@ be known as the reflection of fire in the interior of the earth.
 [![ROCK IN ICE.&lt;br&gt; The author claims that the rocks show in the
 above illustration were thrown into the air by a volcanic explosion, and
 dropped upon the berg while it was forming.](tn/12100.jpg)  
-Click to enlarge](img/12100.jpg)  
+Click to enlarge](img/12100.jpg.md)  
 ROCK IN ICE.  
 The author claims that the rocks show in the above illustration were
 thrown into the air by a volcanic explosion, and dropped upon the berg
@@ -181,4 +181,4 @@ over, exposed massive rocks embedded in the ice.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Dust in the Arctic](potp14)
+[Next: Chapter X. Dust in the Arctic](potp14.md)

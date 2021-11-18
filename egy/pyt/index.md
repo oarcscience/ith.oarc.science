@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pyt00)
+[Contents](#contents)    [Start Reading](pyt00.md)
 
 ------------------------------------------------------------------------
 
@@ -64,94 +64,94 @@ the US and abroad.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pyt00)  
-[Preface](pyt01)  
-[Contents](pyt02)  
-[Introduction](pyt03)  
+<span id="contents"></span> [Title Page](pyt00.md)  
+[Preface](pyt01.md)  
+[Contents](pyt02.md)  
+[Introduction](pyt03.md)  
 <span id="section_000"></span>
 
 ### The Pyramid Texts
 
-[1. Nut and the Deceased King, Utterances 1-11](pyt04)  
+[1. Nut and the Deceased King, Utterances 1-11](pyt04.md)  
 [2. Ritual of Bodily Restoration of the Deceased, and Offerings,
-Utterances 12-203](pyt05)  
-[3. A Group of Prayers And Charms, Utterances 204-212](pyt06)  
+Utterances 12-203](pyt05.md)  
+[3. A Group of Prayers And Charms, Utterances 204-212](pyt06.md)  
 [4. A Series of Old Heliopolitan Texts Partly Osirianized, Utterances
-213-222](pyt07)  
+213-222](pyt07.md)  
 [5. The Deceased King Receives Offerings and is Re-Established in His
-Functions and Possessions, Utterances 223-225](pyt08)  
-[6. Mostly Serpent Charms, Utterances 226-243](pyt09)  
+Functions and Possessions, Utterances 223-225](pyt08.md)  
+[6. Mostly Serpent Charms, Utterances 226-243](pyt09.md)  
 [7. The Deceased King Arrives in Heaven Where He is Established,
-Utterances 244-259](pyt10)  
+Utterances 244-259](pyt10.md)  
 [8. The Deceased King Triumphs Over His Enemies and is Recognized by the
-Gods, Utterances 260-262](pyt11)  
+Gods, Utterances 260-262](pyt11.md)  
 [9. Means Whereby the Deceased King Reaches Heaven, Utterances
-263-271](pyt12)  
-[10. The Deceased King in Heaven, Utterances 272-274.](pyt13)  
-[11. Charms, Utterances 275-299](pyt14)  
+263-271](pyt12.md)  
+[10. The Deceased King in Heaven, Utterances 272-274.](pyt13.md)  
+[11. Charms, Utterances 275-299](pyt14.md)  
 [12. The Ferryman and the Deceased King's Ascension, Utterances
-300-311](pyt15)  
-[13. A Series of Five Charms, Utterances 312-316](pyt16)  
+300-311](pyt15.md)  
+[13. A Series of Five Charms, Utterances 312-316](pyt16.md)  
 [14. Miscellaneous Utterances on the Career of the Deceased King in the
-Hereafter, 317-337](pyt17)  
-[15. Offerings for the Deceased King, Utterances 338-349](pyt18)  
-[16. Miscellaneous Utterances on the Hereafter, 350-374](pyt19)  
-[17. Conjurations and Charms, Utterances 375-400](pyt20)  
+Hereafter, 317-337](pyt17.md)  
+[15. Offerings for the Deceased King, Utterances 338-349](pyt18.md)  
+[16. Miscellaneous Utterances on the Hereafter, 350-374](pyt19.md)  
+[17. Conjurations and Charms, Utterances 375-400](pyt20.md)  
 [18. Utterances Concerning Well-Being, Especially Food and Clothes,
-401-426](pyt21)  
-[19. In Praise of Nut, Utterances 427-435](pyt22)  
+401-426](pyt21.md)  
+[19. In Praise of Nut, Utterances 427-435](pyt22.md)  
 [20. Miscellaneous Texts--Some Largely Osirian, Utterances
-436-442](pyt23)  
-[21. Second Series in Praise of Nut, Utterances 443-452](pyt24)  
-[22. A Miscellaneous Group, Utterances 453-486](pyt25)  
-[23. A Series of Food Texts, Utterances 487-502](pyt26)  
+436-442](pyt23.md)  
+[21. Second Series in Praise of Nut, Utterances 443-452](pyt24.md)  
+[22. A Miscellaneous Group, Utterances 453-486](pyt25.md)  
+[23. A Series of Food Texts, Utterances 487-502](pyt26.md)  
 [24. A Series of Reed-Floats and Ferryman Texts, Utterances
-503-522](pyt27)  
+503-522](pyt27.md)  
 [25. Miscellaneous Texts Chiefly About the Deceased King's Reception and
-Life in Heaven, Utterances 523-533](pyt28)  
+Life in Heaven, Utterances 523-533](pyt28.md)  
 [26. For The Protection of the Pyramid Enclosure Against Osiris and His
-Cycle, Utterance 534](pyt29)  
-[27. Texts of Miscellaneous Contents, Utterances 535-538](pyt30)  
-[28. A Litany of Ascension, Utterance 539](pyt31)  
-[29. Texts of Miscellaneous Contents, Utterances 540-552](pyt32)  
+Cycle, Utterance 534](pyt29.md)  
+[27. Texts of Miscellaneous Contents, Utterances 535-538](pyt30.md)  
+[28. A Litany of Ascension, Utterance 539](pyt31.md)  
+[29. Texts of Miscellaneous Contents, Utterances 540-552](pyt32.md)  
 [30. Resurrection, Meal, and Ascension of the Deceased King, Utterance
-553](pyt33)  
-[31. Texts of Miscellaneous Contents, Utterances 554-562](pyt34)  
-[32. A Purification Litany, Utterance 563](pyt35)  
-[33. Texts of Miscellaneous Contents, Utterances 564-569](pyt36)  
+553](pyt33.md)  
+[31. Texts of Miscellaneous Contents, Utterances 554-562](pyt34.md)  
+[32. A Purification Litany, Utterance 563](pyt35.md)  
+[33. Texts of Miscellaneous Contents, Utterances 564-569](pyt36.md)  
 [34. New-Birth of the Deceased King as a God in Heaven, Utterance
-570](pyt37)  
-[35. Texts of Miscellaneous Contents, Utterances 571-575](pyt38)  
+570](pyt37.md)  
+[35. Texts of Miscellaneous Contents, Utterances 571-575](pyt38.md)  
 [36. The Resurrection and Ascension of the Deceased King, Utterance
-576](pyt39)  
+576](pyt39.md)  
 [37. The Resurrection of Osiris with whom the Gods are Satisfied,
-Utterance 577](pyt40)  
-[38. Texts of Miscellaneous Contents, Utterances 578-586](pyt41)  
-[39. An Early Hymn to the Sun, Utterance 587](pyt42)  
-[40. Texts of Miscellaneous Contents, Utterances 588-600](pyt43)  
+Utterance 577](pyt40.md)  
+[38. Texts of Miscellaneous Contents, Utterances 578-586](pyt41.md)  
+[39. An Early Hymn to the Sun, Utterance 587](pyt42.md)  
+[40. Texts of Miscellaneous Contents, Utterances 588-600](pyt43.md)  
 [41. A Litany-Like Incantation for the Endurance of a Pyramid and
-Temple, Utterance 601](pyt44)  
-[42. Texts of Miscellaneous Contents, Utterances 602-605](pyt45)  
+Temple, Utterance 601](pyt44.md)  
+[42. Texts of Miscellaneous Contents, Utterances 602-605](pyt45.md)  
 [43. The Resurrection, Ascension, and Reception of the Deceased King in
-Heaven, Utterance 606](pyt46)  
-[44. Texts of Miscellaneous Contents, Utterances 607-609](pyt47)  
-[45. The Deceased King on Earth and in Heaven Utterance 610](pyt48)  
-[46. Texts of Miscellaneous Contents, Utterances 611-626](pyt49)  
+Heaven, Utterance 606](pyt46.md)  
+[44. Texts of Miscellaneous Contents, Utterances 607-609](pyt47.md)  
+[45. The Deceased King on Earth and in Heaven Utterance 610](pyt48.md)  
+[46. Texts of Miscellaneous Contents, Utterances 611-626](pyt49.md)  
 [47. The Ascended King, His Works, and Identifications, Utterance
-627](pyt50)  
-[48. Texts of Miscellaneous Contents, Utterances 628-658](pyt51)  
+627](pyt50.md)  
+[48. Texts of Miscellaneous Contents, Utterances 628-658](pyt51.md)  
 [49. The Death of the King and His Arrival in Heaven, Utterance
-659](pyt52)  
-[50. Texts of Miscellaneous Contents, Utterances 660-669](pyt53)  
+659](pyt52.md)  
+[50. Texts of Miscellaneous Contents, Utterances 660-669](pyt53.md)  
 [51. The Death, Resurrection, and Spiritualization of the King,
-Utterance 670](pyt54)  
-[52. Texts of Miscellaneous Contents, Utterances 671-675](pyt55)  
+Utterance 670](pyt54.md)  
+[52. Texts of Miscellaneous Contents, Utterances 671-675](pyt55.md)  
 [53. Resurrection, Transfiguration, and Life of the King in Heaven,
-Utterance 676](pyt56)  
-[54. Texts of Miscellaneous Contents, Utterances 677-683](pyt57)  
-[55. The Deceased King Ascends to Heaven, Utterance 684](pyt58)  
-[56. Texts of Miscellaneous Contents, Utterances 685-689](pyt59)  
+Utterance 676](pyt56.md)  
+[54. Texts of Miscellaneous Contents, Utterances 677-683](pyt57.md)  
+[55. The Deceased King Ascends to Heaven, Utterance 684](pyt58.md)  
+[56. Texts of Miscellaneous Contents, Utterances 685-689](pyt59.md)  
 [57. A Series of Addresses to the Deceased King as a God, Utterance
-690](pyt60)  
-[58. Texts of Miscellaneous Contents, Utterances 691-704](pyt61)  
-[59. A Series of Unclassifiable Fragments, Utterances 705-714](pyt62)  
+690](pyt60.md)  
+[58. Texts of Miscellaneous Contents, Utterances 691-704](pyt61.md)  
+[59. A Series of Unclassifiable Fragments, Utterances 705-714](pyt62.md)  

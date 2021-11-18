@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](eci06)  [Next](eci08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](eci06)  [Next](eci08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ethnography of the Cahuilla Indians*, by A. L. Kroeber, \[1908\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ Dr. Barrows the bows of former days, at any rate the better
 
 <span id="page_58">p. 58</span>
 
-ones, were made of mesquite. <span id="fr_20"></span>[18](#fn_19) At the
+ones, were made of mesquite. <span id="fr_20"></span>[18](#fn_19.md) At the
 present day bows are all four to four and a half feet long, an inch and
 an eighth or an inch and a quarter wide, and three-quarters to
 seven-eighths of an inch in greatest thickness. The better made ones are
@@ -108,11 +108,11 @@ Colorado river does a flageolet appear in addition.
 
 A curved throwing stick used for rabbits and birds, and a war club of
 potato-masher form, are mentioned by Dr. Barrows as having been used by
-the Cahuilla. <span id="fr_21"></span>[19](#fn_20) Like the pottery,
+the Cahuilla. <span id="fr_21"></span>[19](#fn_20.md) Like the pottery,
 they are of ethnographical interest in having been made both by the
 Indians of Southern California and those of the Pueblo region.
 
-The carrying net ([Pl. 11](eci12.htm#img_pl11)) is an important Cahuilla
+The carrying net ([Pl. 11](eci12.htm#img_pl11).md) is an important Cahuilla
 implement, still employed occasionally, and making it possible for the
 Cahuilla to dispense with the deep conical burden basket found in most
 other parts of California, as in the carrying net a shallower basket can
@@ -130,10 +130,10 @@ The rope passes over the basketry cap worn by the carrier. In the desert
 the net seems all to be made of mescal-leaf fibre. In San Gorgonio pass
 a softer glossy material is employed, a string made from "wish," given
 by Dr. Barrows as the common reed, *Phragmites communis*. <span
-id="fr_22"></span>[20](#fn_21)
+id="fr_22"></span>[20](#fn_21.md)
 
 Sandals of mescal fibre are still used, especially on the desert. ([Pl.
-10](eci12.htm#img_pl10).) They are said to be worn principally by men
+10](eci12.htm#img_pl10)..md) They are said to be worn principally by men
 when out-doors at night. These sandals consist of a half-inch pad of
 mescal fibres held to the foot with strips of the same fibre, or by
 thongs. They serve as an efficient protection against
@@ -145,7 +145,7 @@ that the fibres are bent around a cord which follows the outline of the
 foot, and are in some way joined or fastened along the middle of the
 sandal. There is no distinct weave or textile process. Among six or
 eight different forms of sandal in the University collections from cliff
-dwellings in southern Utah and Colorado ([Pl. 12](eci12.htm#img_pl12)),
+dwellings in southern Utah and Colorado ([Pl. 12](eci12.htm#img_pl12).md),
 there is none resembling this Cahuilla form. All these cliff-dweller
 sandals are made by some method of basketry or cord weaving. The strings
 which hold the Cahuilla sandal to the foot are not tied each time the
@@ -167,34 +167,34 @@ at Cabezon.
 
 The familiar California soaproot-fibre brush used for cleaning baskets
 of meal, and also as a comb, is not a Cahuilla implement. Dr. Barrows
-mentions brushes of mescal. fibre. <span id="fr_23"></span>[21](#fn_22)
+mentions brushes of mescal. fibre. <span id="fr_23"></span>[21](#fn_22.md)
 The Serrano at San Manuel use the soaproot brush, but the Luiseño,
 Diegueño, and Mohave agree with the Cahuilla in making their brushes of
-other materials than this. <span id="fr_24"></span>[22](#fn_23) The only
+other materials than this. <span id="fr_24"></span>[22](#fn_23.md) The only
 other tribes in California known not to use a form of soaproot brush,
 are the Porno and southern Wintun, who employ anise-root fibres for this
-purpose. <span id="fr_25"></span>[23](#fn_24)
+purpose. <span id="fr_25"></span>[23](#fn_24.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_19"></span>[58:18](eci07.htm#fr_20) Barrows, 49.
+<span id="fn_19"></span>[58:18](eci07.htm#fr_20.md) Barrows, 49.
 
-<span id="fn_20"></span>[60:19](eci07.htm#fr_21) Barrows, 50.
+<span id="fn_20"></span>[60:19](eci07.htm#fr_21.md) Barrows, 50.
 
-<span id="fn_21"></span>[60:20](eci07.htm#fr_22) Barrows, 47. According
+<span id="fn_21"></span>[60:20](eci07.htm#fr_22.md) Barrows, 47. According
 to the late Mr. Sparkman, the Luiseño called Indian hemp, *Apocynum
 cannabinum*, by the dialectically equivalent name wicha.
 
-<span id="fn_22"></span>[61:21](eci07.htm#fr_23) Barrows, 47, 54.
+<span id="fn_22"></span>[61:21](eci07.htm#fr_23.md) Barrows, 47, 54.
 
-<span id="fn_23"></span>[61:22](eci07.htm#fr_24) According to specimens
+<span id="fn_23"></span>[61:22](eci07.htm#fr_24.md) According to specimens
 in the University museum.
 
-<span id="fn_24"></span>[61:23](eci07.htm#fr_25) According to specimens
+<span id="fn_24"></span>[61:23](eci07.htm#fr_25.md) According to specimens
 in the University museum.
 
 ------------------------------------------------------------------------
 
-[Next: Ceremonial Objects and Beads](eci08)
+[Next: Ceremonial Objects and Beads](eci08.md)

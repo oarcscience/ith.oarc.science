@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob37) 
-[Next](tob39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob37.md) 
+[Next](tob39.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob37) 
 
 <span id="img_wiar20"></span>
 
-![THE JUDGEMENT.](img/wiar20.jpg)  
+![THE JUDGEMENT.](img/wiar20.jpg.md)  
 THE JUDGEMENT.
 
    <span id="img_msar20"></span>
 
-![THE JUDGEMENT.](img/msar20.jpg)  
+![THE JUDGEMENT.](img/msar20.jpg.md)  
 THE JUDGEMENT.
 
 20\. ר
@@ -100,4 +100,4 @@ The Judgment.
 
 ------------------------------------------------------------------------
 
-[Next: 21. The Fool](tob39)
+[Next: 21. The Fool](tob39.md)

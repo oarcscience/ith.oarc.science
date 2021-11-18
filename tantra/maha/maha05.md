@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha04)  [Next](maha06) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha04)  [Next](maha06.md) 
 
 ------------------------------------------------------------------------
 
@@ -812,6 +812,6 @@ Placing of the Jar, and Purification of the Elements of Worship."
 ------------------------------------------------------------------------
 
 [Next: Chapter 6 - Placing of the Shri-patra, Homa, Formation of the
-Chakra, and other Rites](maha06)
+Chakra, and other Rites](maha06.md)
 
   

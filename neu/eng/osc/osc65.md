@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc64)  [Next](osc66) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc64)  [Next](osc66.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ the good luck omen of the cuckoo.
 
 ------------------------------------------------------------------------
 
-[Next: (25) Comets](osc66)
+[Next: (25) Comets](osc66.md)

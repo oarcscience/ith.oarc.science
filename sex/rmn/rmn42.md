@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn41)  [Next](rmn43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn41)  [Next](rmn43.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ capricious pencil of the author of this fresco.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XLII: A Satyr and Hermaphrodite](rmn43)
+[Next: Plate XLII: A Satyr and Hermaphrodite](rmn43.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](csg01)  [Next](csg03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](csg01)  [Next](csg03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -113,7 +113,7 @@ importance, and exercises an incomprehensible influence on others. My
 cousin the Landgraf Karl von Hessen is much attached to him; they are
 eager Freemasons, and work together at all sorts of hidden arts. . . .
 He  is supposed to have intercourse with ghosts and supernatural beings,
-who appear at his call." <span id="fr_0"></span>[1](#fn_0)
+who appear at his call." <span id="fr_0"></span>[1](#fn_0.md)
 
 Herr Mauvillon, in spite of his personal prejudice against M. de St.
 Germain, is obliged to acknowledge the feeling of the Duke towards
@@ -125,7 +125,7 @@ Brunswick newspaper of the period, wherein M. de St. Germain was spoken
 of as "a man of learning," "a lover of truth," "devoted to the good" and
 "a hater of baseness and deception," the Duke himself wrote to the
 editor, expressing his approbation of the announcement. <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 In France M. de St. Germain appears to have been under the personal
 care, and enjoying the affection of Louis XV., who repeatedly declared
@@ -135,7 +135,7 @@ Minister, the Duc de Choiseul, to become a bitter enemy of the mystic,
 although he was at one time friendly to him, since the Baron de Gleichen
 in his memoirs says: "M. de St. Germain frequented the house of M. de
 Choiseul, and was well received there." <span
-id="fr_2"></span>[2](#fn_2)
+id="fr_2"></span>[2](#fn_2.md)
 
 The same writer, who later became one of his devoted students, testifies
 to the fact that M. de St. Germain ate no meat, drank no wine, and lived
@@ -172,9 +172,9 @@ mentioned by Baron de Gleichen, who says:
 "I have heard Rameau and an old relative of a French ambassador at
 Venice testify to having known M. de St. Germain in 1710, when he had
 the appearance of a man of fifty years of age." <span
-id="fr_3"></span>[1](#fn_3) The second date is mentioned by Mme.
+id="fr_3"></span>[1](#fn_3.md) The second date is mentioned by Mme.
 d’Adhémar in her most interesting *Souvenirs sur Marie
-Antoinette*. <span id="fr_4"></span>[2](#fn_4) During this time we have
+Antoinette*. <span id="fr_4"></span>[2](#fn_4.md) During this time we have
 M. de St. Germain as the Marquis de Montferrat, Comte Bellamarre or
 Aymar at Venice, Chevalier Schoening at Pisa, Chevalier Weldon at Milan
 and Leipzig, Comte Soltikoff at Genoa and Leghorn, Graf Tzarogy at
@@ -193,13 +193,13 @@ with which he is surrounded is
 
 <span id="page_8">p. 8</span>
 
-owing to his princely [liberality](errata.htm#0)." Another writer, who
+owing to his princely [liberality](errata.htm#0.md)." Another writer, who
 knew him when at Anspach, says: "He always dined alone and very simply;
 his wants were extremely few; it was impossible while at Anspach to
 persuade him to dine at the Prince's table."
 
 M. de St. Germain appears to have been very highly educated. According
-to Karl von Weber, <span id="fr_5"></span>[1](#fn_5) "he spoke German,
+to Karl von Weber, <span id="fr_5"></span>[1](#fn_5.md) "he spoke German,
 English, Italian, Portuguese and Spanish very well, and French with a
 Piedmontese accent."
 
@@ -261,13 +261,13 @@ person who knew him at Anspach under the name Tzarogy. Another writer
 remarks: "His real origin would, perhaps, if revealed, have compromised
 important persons." And this is the conclusion to which, after careful
 investigation, we have also come. Prince Karl of Hesse, <span
-id="fr_6"></span>[1](#fn_6) writing of M. de St. Germain, says:--
+id="fr_6"></span>[1](#fn_6.md) writing of M. de St. Germain, says:--
 
 "Some curiosity may be felt as to his history; I will trace it with the
 utmost truthfulness, according to his own words, adding any necessary
 explanations. He told me that he was eighty-eight years of age when he
 came here, and that he was the son of Prince Ragoczy <span
-id="fr_7"></span>[2](#fn_7) of Transylvania by his first wife, a Tékéli.
+id="fr_7"></span>[2](#fn_7.md) of Transylvania by his first wife, a Tékéli.
 He was placed, when quite young, under the care of the last Duc de
 Medici (Gian Gastone), who made him sleep while still a child in his own
 room. When M. de St. Germain learned that his two brothers, sons of the
@@ -342,7 +342,7 @@ every way, and singularly pathetic. The Prince was defeated and all his
 properties were confiscated. The sons had to give up the name of
 Ragoczy, and to take the titles of St. Carlo and St. Elizabeth.
 
-Let us notice what Hezekiel <span id="fr_8"></span>[1](#fn_8) has to say
+Let us notice what Hezekiel <span id="fr_8"></span>[1](#fn_8.md) has to say
 on this point, for he has made some very careful investigations on the
 subject: "We are, in fact, inclined to think the Comte de St. Germain
 was the younger son of the Prince Franz-Leopold Ragoczy and the Princess
@@ -383,7 +383,7 @@ royal descent.
 Turning back to the old chronicle we find in the volume for 1736 the
 will of the late Prince Franz-Leopold Ragoczy, in which both his sons
 are mentioned who have been already named, and also a third son. <span
-id="fr_9"></span>[1](#fn_9) It also states that Louis XIV. had bought
+id="fr_9"></span>[1](#fn_9.md) It also states that Louis XIV. had bought
 landed property for this Prince Ragoczy from the Polish Queen Maria, the
 rents of which property were invested by the order of the King of France
 in the Hôtel de Ville in Paris. We also find that considerable legacies
@@ -475,7 +475,7 @@ Imperial seal attached; he afterwards informed the Markgraf that the
 name Tzarogy was an assumed name, and that his real name was Ragotzy,
 and that he was the sole representative and descendant of the late
 exiled Prince Ragotzy of Siebenbürgen of the time of the Emperor
-Leopold". <span id="fr_10"></span>[1](#fn_10)
+Leopold". <span id="fr_10"></span>[1](#fn_10.md)
 
 So far this narrative is tolerably accurate, but after this point the
 author proceeds with the history of what he considers the "unveiling" of
@@ -496,7 +496,7 @@ when Catherine II.
 
 <span id="page_20">p. 20</span>
 
-came to the throne. M. Pyliaeff <span id="fr_11"></span>[1](#fn_11)
+came to the throne. M. Pyliaeff <span id="fr_11"></span>[1](#fn_11.md)
 thinks even before Catherine's time.
 
 "At St. Petersburg St. Germain lived with Count Rotari, the famous
@@ -572,7 +572,7 @@ of the
 
 paragraph just quoted remarks: "What resources M. de St. Germain had, to
 defray the necessary expenses of his existence, is hard to guess." <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 It appears curious to us that the writer knew so little of contemporary
 history. As we have seen, all the sons of Prince Ragoczy were amply
@@ -607,48 +607,48 @@ we proceed further with the life of M. de St. Germain.
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:1](csg02.htm#fr_0) AKSAKOF, A., *Psychische
+<span id="fn_0"></span>[4:1](csg02.htm#fr_0.md) AKSAKOF, A., *Psychische
 Studien*, *Monatliche Zeitschrift*, xii., p. 430. Leipzig, 1885.
 
-<span id="fn_1"></span>[5:1](csg02.htm#fr_1) MAUVILLON, J., *Geschichte
+<span id="fn_1"></span>[5:1](csg02.htm#fr_1.md) MAUVILLON, J., *Geschichte
 Ferdinands, Herzog von Braunschweig-Luneberg*, ii., p. 479. Leipzig,
 1794.
 
-<span id="fn_2"></span>[5:2](csg02.htm#fr_2) GLEICHEN (E. H. Baron de),
+<span id="fn_2"></span>[5:2](csg02.htm#fr_2) GLEICHEN (E. H. Baron de.md),
 *Souvenirs*, Paris, 1868, p. 126.
 
-<span id="fn_3"></span>[7:1](csg02.htm#fr_3) GLEICHEN, *Op. cit.*, p.
+<span id="fn_3"></span>[7:1](csg02.htm#fr_3.md) GLEICHEN, *Op. cit.*, p.
 127.
 
-<span id="fn_4"></span>[7:2](csg02.htm#fr_4) D’ADHÉMAR (La Comtesse),
+<span id="fn_4"></span>[7:2](csg02.htm#fr_4) D’ADHÉMAR (La Comtesse.md),
 *Souvenirs sur Marie Antoinette, Archiduchesse d’Autriche, Reine de
 France, et sur la Cour de Versaille*, Paris, 1836.
 
-<span id="fn_5"></span>[8:1](csg02.htm#fr_5) WEBER (Dr. Carl von), *Aus
+<span id="fn_5"></span>[8:1](csg02.htm#fr_5) WEBER (Dr. Carl von.md), *Aus
 vier Jahrhunderten. Mittheilungen aus dem Haupt-Staats-Archive, Zu
 Dresden*, i., p. 312. Tauchnitz, Leipzig, 1857.
 
-<span id="fn_6"></span>[10:1](csg02.htm#fr_6) HESSE-CASSEL Karl, Prinz
+<span id="fn_6"></span>[10:1](csg02.htm#fr_6.md) HESSE-CASSEL Karl, Prinz
 de), Mémoires de Mon Temps, p. 133. Copenhagen, 1861.
 
-<span id="fn_7"></span>[10:2](csg02.htm#fr_7) Rágóczy is the German
+<span id="fn_7"></span>[10:2](csg02.htm#fr_7.md) Rágóczy is the German
 spelling of this name. In Hungary it is written Rákóczy.
 
-<span id="fn_8"></span>[13:1](csg02.htm#fr_8) *Op. cit.*, i., 45.
+<span id="fn_8"></span>[13:1](csg02.htm#fr_8.md) *Op. cit.*, i., 45.
 
-<span id="fn_9"></span>[15:1](csg02.htm#fr_9) This is the son, mentioned
+<span id="fn_9"></span>[15:1](csg02.htm#fr_9.md) This is the son, mentioned
 by Prince Charles of Hesse, who was placed under the care of the last of
 the Medici.
 
-<span id="fn_10"></span>[19:1](csg02.htm#fr_10) *Curiositäten der
+<span id="fn_10"></span>[19:1](csg02.htm#fr_10.md) *Curiositäten der
 Literarisch-historischen Vor- and Mitwelt,* pp. 285, 286. Weimar, 1818.
 
-<span id="fn_11"></span>[20:1](csg02.htm#fr_11) Told by M. Pyliaeff,
+<span id="fn_11"></span>[20:1](csg02.htm#fr_11.md) Told by M. Pyliaeff,
 member of the "Novoie Vremia," author of "Old Petersburg."
 
-<span id="fn_12"></span>[23:1](csg02.htm#fr_12) *Curiositäten*, *op.
+<span id="fn_12"></span>[23:1](csg02.htm#fr_12.md) *Curiositäten*, *op.
 cit.*, pp. 287, 289, 293. 294.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. His Travels and Knowledge](csg03)
+[Next: Chapter II. His Travels and Knowledge](csg03.md)

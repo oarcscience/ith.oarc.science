@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac31)  [Next](sac33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac31)  [Next](sac33.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ this temple in relation to the clock-star observations carried on in it.
 
 This approximate date of the building of the temple is obtained by the
 evidence afforded (1) by the associated clock-star (see [p.
-298](sac31.htm#page_298)), and (2) by the fact that the god Ptah
+298](sac31.htm#page_298)), and (2.md) by the fact that the god Ptah
 represented the star Capella, since there is a Ptah temple at Thebes
 aligned on Capella at a later time, when by the precessional movement it
 had been carried outside the solar limit. There was also a similar
@@ -52,7 +52,7 @@ Another May-year temple was that of Menu at Thebes,
 [![FIG. 63.—Layard's plan of the Palace of Sennacherib discovered in the
 mound of Kouyunjik. The temple axis, XXXVI., XXXIV., XXIX., XIX. (XXII.
 is on a lower level), faces the rising of the May sun.](tn/fig63.jpg)  
-Click to enlarge](img/fig63.jpg)  
+Click to enlarge](img/fig63.jpg.md)  
 FIG. 63.—Layard's plan of the Palace of Sennacherib discovered in the
 mound of Kouyunjik. The temple axis, XXXVI., XXXIV., XXIX., XIX. (XXII.
 is on a lower level), faces the rising of the May sun.  
@@ -60,20 +60,20 @@ is on a lower level), faces the rising of the May sun.
 <span class="contnote">\[paragraph continues\]</span> Az. N. 72° 30´ W.
 (lat. N. 25°; sun's declination N. 15°; Gregorian date, May 1).
 
-As we have seen ([p. 299](sac31.htm#page_299)), Spica had this
+As we have seen ([p. 299](sac31.htm#page_299).md), Spica had this
 declination in 3200 B.C., and the coincidence, may have been the reason
 
 <span id="page_306">p. 306</span>
 
 for the erection, or, more probably, the restoration, of the
-temple, <span id="fr_122"></span>[1](#fn_122) especially as γ Draconis
+temple, <span id="fr_122"></span>[1](#fn_122.md) especially as γ Draconis
 came into play as a new clock-star at the same date.
 
 <span id="img_fig64"></span>
 
 [![FIG. 64.—Layard's plan of the Mound at Nimrood showing its
 equinoctial orientation.](tn/fig64.jpg)  
-Click to enlarge](img/fig64.jpg)  
+Click to enlarge](img/fig64.jpg.md)  
 FIG. 64.—Layard's plan of the Mound at Nimrood showing its equinoctial
 orientation.  
 
@@ -89,7 +89,7 @@ that the temple in Sennacherib's
 <span id="img_fig65"></span>
 
 [![FIG. 65.—The Temples at Chichen Itza.](tn/fig65.jpg)  
-Click to enlarge](img/fig65.jpg)  
+Click to enlarge](img/fig65.jpg.md)  
 FIG. 65.—The Temples at Chichen Itza.  
 
 palace, which may have been a restoration of a much older temple, was
@@ -115,7 +115,7 @@ In association with these plans of Layard's, I give another by Mr.
 Maudslay of the as carefully oriented temples at Chichen Itza (N. lat.
 20°) explored by him. In these temples, of unknown date and origin, the
 azimuths of two show that the May year was worshipped. <span
-id="fr_123"></span>[1](#fn_123)
+id="fr_123"></span>[1](#fn_123.md)
 
 <span id="page_309">p. 309</span>
 
@@ -365,7 +365,7 @@ follows:—
 
 We find plentiful evidence that the worship of the solstitial sun such
 as was carried on in Egypt at Karnak and at other places <span
-id="fr_124"></span>[1](#fn_124) was introduced into Britain some time
+id="fr_124"></span>[1](#fn_124.md) was introduced into Britain some time
 after the May-year worship was provided for in the monuments.
 
 Although some of the alignments already discovered are in all
@@ -375,7 +375,7 @@ most careful determination of the actual azimuths and of the angular
 heights of the various horizons must be made before any definite
 conclusion as to dates can be arrived at. The necessity for this care is
 illustrated in the paper on Stonehenge <span
-id="fr_125"></span>[2](#fn_125) communicated to the Royal Society by Mr.
+id="fr_125"></span>[2](#fn_125.md) communicated to the Royal Society by Mr.
 Penrose and myself in 1891; where, after taking the greatest
 precautions, the resulting date. was, in doubt to the amount of 200
 years in either direction.
@@ -423,20 +423,20 @@ traced that I have reserved them for future inquiry.
 
 ### Footnotes
 
-<span id="fn_122"></span>[306:1](sac32.htm#fr_122) See *Dawn of
+<span id="fn_122"></span>[306:1](sac32.htm#fr_122.md) See *Dawn of
 Astronomy*, p. 318.
 
-<span id="fn_123"></span>[308:1](sac32.htm#fr_123) The temple conditions
+<span id="fn_123"></span>[308:1](sac32.htm#fr_123.md) The temple conditions
 are approximately as follows:—
 
 <span id="img_30800"></span> ![](img/30800.jpg)
 
-<span id="fn_124"></span>[313:1](sac32.htm#fr_124) *Dawn of Astronomy*,
+<span id="fn_124"></span>[313:1](sac32.htm#fr_124.md) *Dawn of Astronomy*,
 p. 78.
 
-<span id="fn_125"></span>[313:2](sac32.htm#fr_125) *Proc. Roy. Soc*.,
+<span id="fn_125"></span>[313:2](sac32.htm#fr_125.md) *Proc. Roy. Soc*.,
 vol. 69.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX. The Life of the Astronomer-Priests](sac33)
+[Next: Chapter XXX. The Life of the Astronomer-Priests](sac33.md)

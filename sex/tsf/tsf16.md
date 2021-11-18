@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf15)  [Next](tsf17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf15)  [Next](tsf17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -249,7 +249,7 @@ wage in the name
 <span id="img_28200"></span>
 
 [![A Mohammedan fish nymph](tn/28200.jpg)  
-Click to enlarge](img/28200.jpg)  
+Click to enlarge](img/28200.jpg.md)  
 A Mohammedan fish nymph  
 
 of Allah and their leader. As the second century after the flight of the
@@ -443,9 +443,9 @@ And those who seek me but my body find.
 My guests may with my body converse hold,  
 But my Beloved alone holds converse with my heart.
 
-<span id="img_28800"></span> ![The Black Stone](img/28800.jpg)  
+<span id="img_28800"></span> ![The Black Stone](img/28800.jpg.md)  
 The Black Stone
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Longing in the Dark](tsf17)
+[Next: Chapter IV. Longing in the Dark](tsf17.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](gal)  [Next](phi) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](gal)  [Next](phi.md) 
 
 ------------------------------------------------------------------------
 
@@ -546,4 +546,4 @@ Jesus Christ in incorruption.
 
 ------------------------------------------------------------------------
 
-[Next: Philippians](phi)
+[Next: Philippians](phi.md)

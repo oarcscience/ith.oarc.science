@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa74)  [Next](psa76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa74)  [Next](psa76.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ assist in the sacrifice.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXV](psa76)
+[Next: Chapter LXXV](psa76.md)

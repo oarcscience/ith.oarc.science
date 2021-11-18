@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas075n)  [Next](jas077n)   
- \[[76. The Greedy Child.](jas076)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas075n)  [Next](jas077n.md)   
+ \[[76. The Greedy Child.](jas076.md)\]
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ story. Compare also Tremearne, 209-210, 307-314.
 
 ------------------------------------------------------------------------
 
-[Next: Note 77. Alimoty and Aliminty.](jas077n)
+[Next: Note 77. Alimoty and Aliminty.](jas077n.md)

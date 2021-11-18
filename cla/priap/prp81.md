@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp80)  [Next](prp82) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp80)  [Next](prp82.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ large enough to accommodate the god.\]
 ------------------------------------------------------------------------
 
 [Next: 82. While there is life 'tis fitting to hope, O rustical
-guardian!](prp82)
+guardian!](prp82.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass25)  [Next](nass27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass25)  [Next](nass27.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ They separate.
 
 ------------------------------------------------------------------------
 
-[Next: Txä'msEm](nass27)
+[Next: Txä'msEm](nass27.md)

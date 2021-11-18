@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi05) 
-[Next](jlgi07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi05.md) 
+[Next](jlgi07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jesus, the Last Great Initiate*, by Edouard Schuré, \[1908\], at
 Intangible Textual Heritage
 
@@ -91,12 +91,12 @@ gesture summoned to his side the timid and hesitating, to whom he said:
 "Come unto me, ye that are heavy-laden and I will give you rest. Take my
 yoke upon you, and learn of me, for I am meek and lowly in heart: and ye
 shall find rest unto your souls. For my yoke is easy and my burden is
-light." <span id="fr_24"></span>[1](#fn_24) He divined the innate
+light." <span id="fr_24"></span>[1](#fn_24.md) He divined the innate
 thoughts of men, who in trouble and confusion recognized the Master. At
 times, he recognized in unbelief uprightness of heart. When Nathaniel
 said, "Can anything good come out of Nazareth?" Jesus replied: "Behold
 an Israelite indeed, in whom is no guile!" <span
-id="fr_25"></span>[2](#fn_25) From his adepts he required neither oaths
+id="fr_25"></span>[2](#fn_25.md) From his adepts he required neither oaths
 nor profession of faith; simply love and belief in himself. He put into
 practice the common possession of goods as a principle of fraternity
 among his own.
@@ -189,7 +189,7 @@ again, he cannot see the kingdom of God." Nicodemus asks if it is
 possible for a man to enter a second time into his mother's womb and be
 born. Jesus answered: "Verily I say unto thee, Except a man be born of
 water and of the Spirit, he cannot enter into the kingdom of God." <span
-id="fr_26"></span>[1](#fn_26)
+id="fr_26"></span>[1](#fn_26.md)
 
 Under this evidently symbolical form, Jesus sums up the ancient doctrine
 of regeneration already known in the mysteries of Egypt. To be born
@@ -251,7 +251,7 @@ free and immortal). "Marvel not that I say unto thee, Ye must be born
 again. The wind bloweth where it listeth, and thou hearest the sound
 thereof, but can not tell whence it cometh and whither it goeth: so is
 every one that is born of the Spirit." <span
-id="fr_27"></span>[1](#fn_27)
+id="fr_27"></span>[1](#fn_27.md)
 
 Thus spoke Jesus to Nicodemus in the silence of the night at Jerusalem.
 A small lamp, placed between the two, dimly lights their vague,
@@ -309,7 +309,7 @@ somnambulistic conditions. It also touches the sensitive world. In any
 case, it is certain Jesus had the faculty of restoring equilibrium in
 troubled bodies, and restoring equilibrium in troubled bodies, and
 restoring souls to their purest consciousness. "Veritable magic," said
-[Plotinus](errata.htm#8), "is love, with hate its contrary. It is by
+[Plotinus](errata.htm#8.md), "is love, with hate its contrary. It is by
 love and hate that magicians act, through their philters and
 enchantments." Love in its highest consciousness and supreme power
 constituted the magic of the Christ.
@@ -462,19 +462,19 @@ mankind!
 
 ### Footnotes
 
-<span id="fn_24"></span>[61:1](jlgi06.htm#fr_24) Matthew xi. 28.
+<span id="fn_24"></span>[61:1](jlgi06.htm#fr_24.md) Matthew xi. 28.
 
-<span id="fn_25"></span>[61:2](jlgi06.htm#fr_25) John i. 47.
+<span id="fn_25"></span>[61:2](jlgi06.htm#fr_25.md) John i. 47.
 
-<span id="fn_26"></span>[64:1](jlgi06.htm#fr_26) John iii. 5.
+<span id="fn_26"></span>[64:1](jlgi06.htm#fr_26.md) John iii. 5.
 
-<span id="fn_27"></span>[66:1](jlgi06.htm#fr_27) John iii. 6-8.
+<span id="fn_27"></span>[66:1](jlgi06.htm#fr_27.md) John iii. 6-8.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
 [Next: Chapter V. Struggle With the Pharisees—Flight to Cæsarea—The
-Transfiguration](jlgi07)
+Transfiguration](jlgi07.md)
 
 </div>

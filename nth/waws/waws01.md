@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](waws00)  [Next](waws02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](waws00)  [Next](waws02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -59,8 +59,8 @@ come a little more directly in touch with the every-day needs of those
 who will be sufficiently interested to read it.
 
 <span id="img__00600"></span> ![Signature of Ralph Waldo
-Trine](img/_00600.jpg)
+Trine](img/_00600.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Contents](waws02)
+[Next: Contents](waws02.md)

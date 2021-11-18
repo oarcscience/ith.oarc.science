@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas064n)  [Next](jas066n)   
- \[[65. Mr. Lenaman's Corn-field.](jas065)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas064n)  [Next](jas066n.md)   
+ \[[65. Mr. Lenaman's Corn-field.](jas065.md)\]
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ the work, but eventually the pot of rice runs back to the Devil.
 
 ------------------------------------------------------------------------
 
-[Next: Note 66. Simon Tootoos.](jas066n)
+[Next: Note 66. Simon Tootoos.](jas066n.md)

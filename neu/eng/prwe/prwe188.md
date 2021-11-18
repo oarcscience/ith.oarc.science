@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe187)  [Next](prwe189) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe187)  [Next](prwe189.md) 
 
 ------------------------------------------------------------------------
 
@@ -164,4 +164,4 @@ Great Britain during the time of the apostles, and probably by St Paul"
 
 ------------------------------------------------------------------------
 
-[Next: The Tinner of Chryannor](prwe189)
+[Next: The Tinner of Chryannor](prwe189.md)

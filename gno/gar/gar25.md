@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar24)  [Next](gar26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar24)  [Next](gar26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 ### III. MONUMENTS OF THE SERAPIS WORSHIP.
 
 Innumerable are the statues, bas-reliefs, and gems, many of them in the
-best [style](errata.htm#9) of Roman art, emanating from the worship of
+best [style](errata.htm#9.md) of Roman art, emanating from the worship of
 Serapis; a thing not to be wondered at in the case of a divinity whose
 idea involved the two strongest principles that actuate the conduct of
 mankind--the love of riches and the fear of death. For the god of the
@@ -65,11 +65,11 @@ efforts of Hadrian to resuscitate the *forms* of that old religion whose
 department of sculpture. Under his zealous patronage, the religion of
 the Pharaohs blazed up for a moment with a brilliant but factitious
 lustre, a phenomenon often observed to precede the extinction of a long
-established system. <span id="fr_85"></span>[\*](#fn_84) To this period
+established system. <span id="fr_85"></span>[\*](#fn_84.md) To this period
 belongs a beautiful sard of my own, which represents Serapis enthroned
 exactly as Macrobius describes him, whilst in front *stands* Isis,
 holding in one hand the sistrum, in the other a wheatsheaf, with the
-legend, **ΗΚΥΡΙΑΕΙCΙC ΑΓΝΗ**. <span id="fr_86"></span>[†](#fn_85)
+legend, **ΗΚΥΡΙΑΕΙCΙC ΑΓΝΗ**. <span id="fr_86"></span>[†](#fn_85.md)
 "Immaculate is our Lady Isis!" This address is couched in the exact
 words applied later to the personage who succeeded to the form, titles,
 symbols and ceremonies of Isis with even less variation than marked the
@@ -134,17 +134,17 @@ sacred to the god, or else some instrument of power?--certain it is that
 Iva, Assyrian god of Thunder, carries in his hand a *fulmen* of somewhat
 similar form in the Ninivitish. sculptures. A dwarf column, supporting a
 globe, a corded bale, the letter **Μ**, <span
-id="fr_87"></span>[\*](#fn_86) are all frequently to be seen in the same
+id="fr_87"></span>[\*](#fn_86.md) are all frequently to be seen in the same
 companionship. Another symbol is of such mighty import in the domains of
 the Lord of Souls, that its discussion may fairly claim to itself the
 space of the following section.
 
  
 
-<span id="img_fig07"></span> ![FIG. 7.](img/fig07.jpg)  
+<span id="img_fig07"></span> ![FIG. 7.](img/fig07.jpg.md)  
 FIG. 7.
 
-[(\*)](gar71.htm#an_fig07)
+[(\*)](gar71.htm#an_fig07.md)
 
  
 
@@ -152,16 +152,16 @@ FIG. 7.
 
 ### Footnotes
 
-<span id="fn_84"></span>[173:\*](gar25.htm#fr_85) Shering, in his
+<span id="fn_84"></span>[173:\*](gar25.htm#fr_85.md) Shering, in his
 'Benares,' observes that the Hindoos are now building and restoring
 temples everywhere with greater zeal and cost than at any time since the
 final overthrow of Buddhism; and yet the religion itself is utterly worn
 out.
 
-<span id="fn_85"></span>[173:†](gar25.htm#fr_86) In inscriptions of this
+<span id="fn_85"></span>[173:†](gar25.htm#fr_86.md) In inscriptions of this
 period the long **Ι** is usually written **ΕΙ**.
 
-<span id="fn_86"></span>[175:\*](gar25.htm#fr_87) Perhaps the Greek
+<span id="fn_86"></span>[175:\*](gar25.htm#fr_87.md) Perhaps the Greek
 numeral = 40, which was the number sacred to the Assyrian Hoa, god of
 Water. A conjecture, therefore, may be hazarded that these figures
 symbolise The Four Elements under the protection of the supreme Lord,
@@ -169,4 +169,4 @@ Serapis.
 
 ------------------------------------------------------------------------
 
-[Next: The Caduceus, and its Symbolism](gar26)
+[Next: The Caduceus, and its Symbolism](gar26.md)

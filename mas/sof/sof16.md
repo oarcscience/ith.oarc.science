@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof15)  [Next](sof17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof15)  [Next](sof17.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head14.png"></span> ![Header Chapter XIV.](img/head14.png)
+<span id="img_head14.png"></span> ![Header Chapter XIV.](img/head14.png.md)
 
 ## XIV.
 
@@ -29,13 +29,13 @@ as the cradle of all the others of subsequent ages and various
 countries, the ceremonies were performed in vast caverns, the remains of
 some of which, at Salsette, Elephanta, and a few other places, will give
 the spectator but a very inadequate idea of the extent and splendor of
-these ancient Indian lodges. [70](sof37.htm#xref_70) More imperfect
+these ancient Indian lodges. [70](sof37.htm#xref_70.md) More imperfect
 remains than these are still to be found in great numbers throughout
 Hindostan and Cashmere. Their form was sometimes that of a cross,
 emblematic of the four elements of which the earth is composed,--fire,
 water, air, and earth,--but more generally an oval, as a representation
 of the mundane egg, which, in the ancient systems, was a symbol of the
-world. [71](sof37.htm#xref_71)
+world. [71](sof37.htm#xref_71.md)
 
 The interior of the cavern of initiation was lighted by innumerable
 lamps, and there sat in the east, the west, and the south the principal
@@ -50,7 +50,7 @@ sets in the west, he is Vishnu."
 Again, in the Zoroasteric mysteries of Persia, the temple of initiation
 was circular, being made so to represent the universe; and the sun in
 the east, with the surrounding zodiac, formed an indispensable part of
-the ceremony of reception. [72](sof37.htm#xref_72)
+the ceremony of reception. [72](sof37.htm#xref_72.md)
 
 In the Egyptian mysteries of Osiris, the same reference to the sun is
 contained, and Herodotus, who was himself an initiate, intimates that
@@ -59,11 +59,11 @@ been incarnate, that is, had appeared upon earth, or rose, and who was
 at length put to death by Typhon, the symbol of darkness, typical of the
 sun's setting.
 
-In the great mysteries of Eleusis, [73](sof37.htm#xref_73) which were
+In the great mysteries of Eleusis, [73](sof37.htm#xref_73.md) which were
 celebrated at Athens, we learn from St. Chrysostom, as well as other
 authorities, that the temple of initiation was symbolic of the universe,
 and we know that one of the officers represented the
-sun. [74](sof37.htm#xref_74)
+sun. [74](sof37.htm#xref_74.md)
 
 In the Celtic mysteries of the Druids, the temple of initiation was
 either oval, to represent the mundane egg--a symbol, as has already been
@@ -82,7 +82,7 @@ in light and ascends the sky."
 
 But I need not multiply these instances of sun-worship. Every country
 and religion of the ancient world would afford
-one. [75](sof37.htm#xref_75) Sufficient has been cited to show the
+one. [75](sof37.htm#xref_75.md) Sufficient has been cited to show the
 complete coincidence, in reference to the sun, between the symbolism of
 Freemasonry and that of the ancient rites and Mysteries, and to suggest
 for them a common origin, the sun being always in the former system,
@@ -95,6 +95,6 @@ adopted as the special object of adoration.
 
 ------------------------------------------------------------------------
 
-[Next: XV. The Point Within a Circle](sof17)
+[Next: XV. The Point Within a Circle](sof17.md)
 
 </div>

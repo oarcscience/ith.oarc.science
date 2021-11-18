@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos10)  [Next](gbos12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos10)  [Next](gbos12.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ telling the real formula.
 
 ------------------------------------------------------------------------
 
-[Next: To Help the Sick](gbos12)
+[Next: To Help the Sick](gbos12.md)

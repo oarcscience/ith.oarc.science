@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes24)  [Next](nes26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes24)  [Next](nes26.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![G](img/ginit.jpg) |
+| ![G](img/ginit.jpg.md) |
 
 REAT preparation was made for the proper keeping of Christmas and New
 Year's Day. Three days were observed as holidays at Christmas, and one
@@ -66,7 +66,7 @@ calamity during the coming year.
 Every means was used to have some piece of new dress, no matter how
 small. The one who was so unfortunate as to be without such a piece of
 dress bore the name of "Yeel's jaad." Children were warned against
-crying on Christmas Day. <span id="fr_128"></span>[1](#fn_128)
+crying on Christmas Day. <span id="fr_128"></span>[1](#fn_128.md)
 
 If a child did cry, it was said "to break Yeel's gird," and that there
 would be much crying during the year with the child.
@@ -106,7 +106,7 @@ Others disguised themselves, and went in companies of three and four,
 singing, shouting, and rapping at doors and windows. The houses whose
 inmates were known to them they entered with dancing, antic gestures,
 and all kinds of daffing. They were called "gysers." <span
-id="fr_129"></span>[1](#fn_129)
+id="fr_129"></span>[1](#fn_129.md)
 
 Balls were among the amusements of the season. A barn, conveniently
 situated for the district and sufficiently large, was selected. It was
@@ -176,10 +176,10 @@ Nothing was carried forth from the house on Christmas morning until
 something was brought in. Water and fuel were the articles commonly
 brought in first. By some a handful of grass, or a small quantity of
 moss, "fog," was carried in, and placed on the hearth. <span
-id="fr_130"></span>[1](#fn_130)
+id="fr_130"></span>[1](#fn_130.md)
 
 One would on no account give a neighbour a live coal to kindle a fire on
-this morning. <span id="fr_131"></span>[2](#fn_131)
+this morning. <span id="fr_131"></span>[2](#fn_131.md)
 
 If the fire burned brightly on this morning it was taken as a token of
 prosperity during the coming year. A smouldering fire indicated
@@ -285,7 +285,7 @@ We'll sing for bread, we'll sing for cheese,
 We'll sing for a’ yir orra bawbees,  
 We'll sing for meal, we'll sing for maut,  
 We'll sing for siller to buy wir saut." <span
-id="fr_132"></span>[1](#fn_132)
+id="fr_132"></span>[1](#fn_132.md)
 
 Something was usually given to the children--"a piece," sweeties, or a
 bawbee, and away they ran in their innocent glee, shouting and singing
@@ -359,7 +359,7 @@ In parts of Buchan it was deemed unlucky to spend money in any form on
 away. If money was spent, or anything given away, the luck of the year
 fled with the money or the gift. In other districts (Banff) mistresses
 made small gifts to their domestics. <span
-id="fr_133"></span>[1](#fn_133)
+id="fr_133"></span>[1](#fn_133.md)
 
 Some were in the habit of giving, on the morning of that day, a small
 quantity of unthreshed oats to the cattle and the horses on the farm,
@@ -436,7 +436,7 @@ On Fastern's day the men engaged in a game of "ball." This was done, as
 some allege, to prevent them from taking "a sehr back" during harvest.
 The game might be either by throwing the ball, or kicking it with the
 foot--football--or by striking it with "the club" or "scuddie." <span
-id="fr_134"></span>[1](#fn_134)
+id="fr_134"></span>[1](#fn_134.md)
 
 Cock-fighting was an amusement indulged in, particularly by boys at
 school.
@@ -455,7 +455,7 @@ drew was the "valentine." Of course there was much merriment, and
 sometimes there was a little disappointment if the wished-for
 "valentine" was not drawn. The slip of paper bearing the name was
 carefully preserved by each, and put below the pillow to evoke
-dreams. <span id="fr_135"></span>[2](#fn_135)
+dreams. <span id="fr_135"></span>[2](#fn_135.md)
 
 ### PEACE SUNDAY.
 
@@ -541,24 +541,24 @@ An soon they'll wear away."
 
 ### Footnotes
 
-<span id="fn_128"></span>[157:1](nes25.htm#fr_128) Cf. Henderson, p. 72.
+<span id="fn_128"></span>[157:1](nes25.htm#fr_128.md) Cf. Henderson, p. 72.
 
-<span id="fn_129"></span>[158:1](nes25.htm#fr_129) Cf. Henderson, p. 66.
+<span id="fn_129"></span>[158:1](nes25.htm#fr_129.md) Cf. Henderson, p. 66.
 
-<span id="fn_130"></span>[160:1](nes25.htm#fr_130) Cf. Henderson, p. 74.
+<span id="fn_130"></span>[160:1](nes25.htm#fr_130.md) Cf. Henderson, p. 74.
 
-<span id="fn_131"></span>[160:2](nes25.htm#fr_131) *Ibid*. p. 72.
+<span id="fn_131"></span>[160:2](nes25.htm#fr_131.md) *Ibid*. p. 72.
 
-<span id="fn_132"></span>[162:1](nes25.htm#fr_132) Cf. Henderson, pp.
+<span id="fn_132"></span>[162:1](nes25.htm#fr_132.md) Cf. Henderson, pp.
 64, 65, 76.
 
-<span id="fn_133"></span>[164:1](nes25.htm#fr_133) Cf. Henderson, p. 77.
+<span id="fn_133"></span>[164:1](nes25.htm#fr_133.md) Cf. Henderson, p. 77.
 
-<span id="fn_134"></span>[166:1](nes25.htm#fr_134) Cf. Henderson, p. 77.
+<span id="fn_134"></span>[166:1](nes25.htm#fr_134.md) Cf. Henderson, p. 77.
 
-<span id="fn_135"></span>[166:2](nes25.htm#fr_135) Cf. *F. L. Record*,
+<span id="fn_135"></span>[166:2](nes25.htm#fr_135.md) Cf. *F. L. Record*,
 vol. ii. p. 125.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII. Countings-Out](nes26)
+[Next: Chapter XXIII. Countings-Out](nes26.md)

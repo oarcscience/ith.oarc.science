@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico030) 
-[Next](nico032) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico030.md) 
+[Next](nico032.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ outline, at any rate, from what has been said.
 ------------------------------------------------------------------------
 
 [Next: Chapter 10. Temperance is limited to certain pleasures of
-touch](nico032)
+touch](nico032.md)

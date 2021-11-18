@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba17)  [Next](mba19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba17)  [Next](mba19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -116,7 +116,7 @@ conducted at an undisturbed artificial
 
 mound at Sakje-Geuzi have revealed evidences of a continuous culture
 which began to flourish before 3000 B.C. <span
-id="fr_282"></span>[1](#fn_281) In one of the lower layers occurred that
+id="fr_282"></span>[1](#fn_281.md) In one of the lower layers occurred that
 particular type of Neolithic yellow-painted pottery, with black
 geometric designs, which resembles other specimens of painted fabrics
 found in Turkestan by the Pumpelly expedition; in Susa, the capital of
@@ -132,7 +132,7 @@ first reached Egypt at the dawn of history. There they blended with the
 indigenous tribes of the Mediterranean or Brown Race. A mesocephalic
 skull then became common. It is referred to as the Giza type, and has
 been traced by Professor Elliot Smith from Egypt to the Punjab, but not
-farther into India. <span id="fr_283"></span>[2](#fn_282)
+farther into India. <span id="fr_283"></span>[2](#fn_282.md)
 
 During the early dynasties this skull with alien traits was confined
 chiefly to the Delta region and the vicinity of Memphis, the city of the
@@ -157,13 +157,13 @@ Professor Elliot Smith, who has found alien traits in the mummies of the
 Rameses kings, is convinced that the broad-headed folks who entered
 Europe by way of Asia Minor, and Egypt through the Delta, at the close
 of the Neolithic Age, represent "two streams of the same Asiatic
-folk". <span id="fr_284"></span>[1](#fn_283) The opinion of such an
+folk". <span id="fr_284"></span>[1](#fn_283.md) The opinion of such an
 authority cannot be lightly set aside.
 
 The earliest Egyptian reference to the Kheta, as the Hittites were
 called, was made in the reign of the first Amenemhet of the Twelfth
 Dynasty, who began to reign about 2000 B.C. Some authorities, including
-Maspero, <span id="fr_285"></span>[2](#fn_284) are of opinion that the
+Maspero, <span id="fr_285"></span>[2](#fn_284.md) are of opinion that the
 allusion to the Hatti which is found in the Babylonian *Book of Omens*
 belongs to the earlier age of Sargon of Akkad and Naram-Sin, but Sayce
 favours the age of Hammurabi. Others would connect the Gutium, or men of
@@ -182,7 +182,7 @@ of which the Hebrew *Goyyim* is a literal translation. Now the name is
 Hittite. In the account of the campaign of Rameses II against the
 Hittites it appears as Tidcal, and one of the Hittite kings of
 Boghaz-Köi bears the same name, which is written as Dud-khaliya in
-cuneiform. <span id="fr_286"></span>[1](#fn_285)
+cuneiform. <span id="fr_286"></span>[1](#fn_285.md)
 
 One of the racial types among the Hittites wore pigtails. These head
 adornments appear on figures in certain Cappadocian sculptures and on
@@ -218,24 +218,24 @@ and in one particular connection under circumstances which afford an
 interesting glimpse of domestic life in those far-off times. When Esau,
 Isaac's eldest son, was forty years of age, "he took to wife Judith the
 daughter of Beeri the Hittite, and Bashemath the daughter of Elon the
-Hittite" <span id="fr_287"></span>[1](#fn_286). Apparently the Hittite
+Hittite" <span id="fr_287"></span>[1](#fn_286.md). Apparently the Hittite
 ladies considered themselves to be of higher caste than the indigenous
 peoples and the settlers from other countries, for when Ezekiel declared
 that the mother of Jerusalem was a Hittite he said: "Thou art thy
 mother's daughter, that lotheth her husband and her children." <span
-id="fr_288"></span>[2](#fn_287) Esau's marriage was "a grief of mind
-unto Isaac and to Rebekah". <span id="fr_289"></span>[1](#fn_286) The
+id="fr_288"></span>[2](#fn_287.md) Esau's marriage was "a grief of mind
+unto Isaac and to Rebekah". <span id="fr_289"></span>[1](#fn_286.md) The
 Hebrew mother seems to have entertained fears that her favourite son
 Jacob would fall a victim to the allurements of other representatives of
 the same stock as her superior and troublesome daughters-in-law, for she
 said to Isaac: "I am weary of my life because of the daughters of Heth;
 if Jacob take a wife of the daughters of Heth, such as these which are
 of the daughters of the land, what good shall my life do me?" <span
-id="fr_290"></span>[3](#fn_288) Isaac sent for Jacob, "and charged him,
+id="fr_290"></span>[3](#fn_288.md) Isaac sent for Jacob, "and charged him,
 and said unto him, Thou shalt not take a wife of the daughters of
 Canaan. Arise, go to Padan-aram, to the house of Bethuel, thy mother's
 father; and take thee a wife from thence of the daughters of Laban, thy
-mother's brother." <span id="fr_291"></span>[4](#fn_289) From these
+mother's brother." <span id="fr_291"></span>[4](#fn_289.md) From these
 quotations two obvious deductions may be drawn: the Hebrews regarded the
 Hittites "of the land" as one with the Canaanites, the stocks having
 probably
@@ -245,7 +245,7 @@ probably
 been so well fused, and the worried Rebekah had the choosing of Jacob's
 wife or wives from among her own relations in Mesopotamia who were of
 Sumerian stock and kindred of Abraham. <span
-id="fr_292"></span>[1](#fn_290) It is not surprising to find traces of
+id="fr_292"></span>[1](#fn_290.md) It is not surprising to find traces of
 Sumerian pride among the descendants of the evicted citizens of ancient
 Ur, especially when brought into association with the pretentious
 Hittites.
@@ -296,7 +296,7 @@ supremacy was assured of the Great Father who symbolized their sway. But
 when, in the process of time, the power of the Hatti declined, their
 chief god "fell . . . from his predominant place in the religion of the
 interior", writes Dr. Garstang. "But the Great Mother lived on, being
-the goddess of the land." <span id="fr_293"></span>[1](#fn_291)
+the goddess of the land." <span id="fr_293"></span>[1](#fn_291.md)
 
 In addition to the Hittite confederacy of Asia Minor and North Syria,
 another great power arose in northern Mesopotamia. This was the Mitanni
@@ -335,14 +335,14 @@ India by the Vedic Aryans. The Mitanni tribe (the military aristocracy
 probably) was called "Kharri", and some philologists are of opinion that
 it is identical with "Arya", which was "the normal designation in Vedic
 literature from the Rigveda onwards of an Aryan of the three upper
-classes". <span id="fr_294"></span>[1](#fn_292) Mitanni signifies "the
+classes". <span id="fr_294"></span>[1](#fn_292.md) Mitanni signifies "the
 river lands", and the descendants of its inhabitants, who lived in
 Cappadocia, were called by the Greeks "Mattienoi". "They are possibly",
 says Dr. Haddon, "the ancestors
 
 <span id="page_270">p. 270</span>
 
-of the modern Kurds", <span id="fr_295"></span>[1](#fn_293) a
+of the modern Kurds", <span id="fr_295"></span>[1](#fn_293.md) a
 conspicuously long-headed people, proverbial, like the ancient
 Aryo-Indians and the Gauls, for their hospitality and their raiding
 propensities.
@@ -381,7 +381,7 @@ advancing against a besieged tow. A battering ram is being drawn on a
 six-wheeled carriage.&lt;br&gt; &lt;i&gt;From N.W. Palace of Nimroud:
 now in the British Museum&lt;/i&gt;.&lt;br&gt; Photo.
 Mansell](tn/27000.jpg)  
-Click to enlarge](img/27000.jpg)  
+Click to enlarge](img/27000.jpg.md)  
 THE HORSE IN WARFARE  
 Marble slab showing Ashur-natsir-pal and army advancing against a
 besieged tow. A battering ram is being drawn on a six-wheeled
@@ -396,7 +396,7 @@ Photo. Mansell
 
 operations were directly against Kadesh on the Orontes, which was then
 held by his fierce enemies the Mitannians of Naharina. <span
-id="fr_296"></span>[1](#fn_294)
+id="fr_296"></span>[1](#fn_294.md)
 
 During the Hyksos Age the horse was introduced into Egypt. Indeed the
 Hyksos conquest was probably due to the use of the horse, which was
@@ -548,7 +548,7 @@ reserved for royalty. "In the rich wealth of gold and silver vases",
 obtained from captured cities by the Nilotic warriors, "we see also",
 adds Petrie, "the sign of a people who were their (the Egyptians’)
 equals, if not their superiors in taste and skill." <span
-id="fr_297"></span>[1](#fn_295) It is not to be wondered at, therefore,
+id="fr_297"></span>[1](#fn_295.md) It is not to be wondered at, therefore,
 when the Pharaohs received tribute from Syria that they preferred it to
 be carried into Egypt by skilled workmen. "The keenness with which the
 Egyptians record all the beautiful and luxurious products of the Syrians
@@ -557,7 +557,7 @@ shows that the workmen would
 <span id="page_276">p. 276</span>
 
 probably be more in demand than other kinds of slave tribute." <span
-id="fr_298"></span>[1](#fn_296)
+id="fr_298"></span>[1](#fn_296.md)
 
 One of the monarchs with whom Thothmes III corresponded was the king of
 Assyria. The enemies of Egypt in northern Mesopotamia were the Hittites
@@ -598,7 +598,7 @@ conclusions.
 Nimrod, the king of Babel (Babylon), in Shinar (Sumer), was, it would
 appear, a deified monarch who became ultimately identified with the
 national god of Babylonia. Professor Pinches has shown <span
-id="fr_299"></span>[1](#fn_297) that his name is a rendering of that of
+id="fr_299"></span>[1](#fn_297.md) that his name is a rendering of that of
 Merodach. In Sumerian Merodach was called Amaruduk or Amarudu, and in
 the Assyro-Babylonian language Marduk. By a process familiar to
 philologists the suffix "uk" was dropped and the rendering became Marad.
@@ -630,7 +630,7 @@ shadowy male form. Nineveh (Ninua) was probably founded or conquered by
 colonists from Nina or Lagash, and called after the fish goddess.
 
 All the deities of Assyria were imported from Babylonia except, as some
-hold, Ashur, the national god. <span id="fr_300"></span>[1](#fn_298) The
+hold, Ashur, the national god. <span id="fr_300"></span>[1](#fn_298.md) The
 theory that Ashur was identical with the Aryo-Indian Asura and the
 Persian Ahura is not generally accepted. One theory is that he was an
 eponymous hero who became the city god of Asshur, although the early
@@ -648,7 +648,7 @@ Nineveh was Shaushka, which compares with Shaushkash, the consort of
 Teshup, the Hittite-Mitanni hammer god. As many of the Mitannian names
 "are", according to Mr. Johns, "really Elamitic", he suggests an ethnic
 connection between the early conquerors of Assyria and the people of
-Elam. <span id="fr_301"></span>[2](#fn_299) Were the pre-Semitic
+Elam. <span id="fr_301"></span>[2](#fn_299.md) Were the pre-Semitic
 Elamites originally speakers of an agglutinative language, like the
 Sumerians and present-day Basques, who were conquered in prehistoric
 times by a people of Aryan speech?
@@ -726,13 +726,13 @@ sale. One or two were sent
 <span id="img_28000"></span> <span align="CENTER"> [![LETTER FROM
 TUSHRATTA, KING OF MITANNI, TO AMENHOTEP III, KING OF
 EGYPT](tn/28000.jpg)  
-Click to enlarge](img/28000.jpg)  
+Click to enlarge](img/28000.jpg.md)  
 LETTER FROM TUSHRATTA, KING OF MITANNI, TO AMENHOTEP III, KING OF
 EGYPT  
 </span>
 
 *One of the Tell-el-Amarna tablets, now in the British Museum*. (See
-pages [280](#page_280)-282)
+pages [280](#page_280)-282.md)
 
 Photo. Mansell
 
@@ -878,7 +878,7 @@ were late in reaching you, (the reason is that) if the Suti had waylaid
 them, they would have been dead men. For if I had sent them, the Suti
 would have sent bands to waylay them; therefore I have retained them. My
 messengers (however), may they not (for this reason) be delayed." <span
-id="fr_302"></span>[1](#fn_300)
+id="fr_302"></span>[1](#fn_300.md)
 
 Ashur-uballit's grandson extended his Babylonian frontier into Amurru,
 where he dug wells and erected forts to protect traders. The Kassite
@@ -918,64 +918,64 @@ Syria, and the Hittite empire was being consolidated in the north.
 
 ### Footnotes
 
-<span id="fn_281"></span>[263:1](mba18.htm#fr_282) *The Land of the
+<span id="fn_281"></span>[263:1](mba18.htm#fr_282.md) *The Land of the
 Hittites*, John Garstang, pp. 312 *et seq*. and 315 *et seq*.
 
-<span id="fn_282"></span>[263:2](mba18.htm#fr_283) *The Ancient
+<span id="fn_282"></span>[263:2](mba18.htm#fr_283.md) *The Ancient
 Egyptians*, pp. 106 *et seq*.
 
-<span id="fn_283"></span>[264:1](mba18.htm#fr_284) *The Ancient
+<span id="fn_283"></span>[264:1](mba18.htm#fr_284.md) *The Ancient
 Egyptians*, p. 130.
 
-<span id="fn_284"></span>[264:2](mba18.htm#fr_285) *Struggle of the
+<span id="fn_284"></span>[264:2](mba18.htm#fr_285.md) *Struggle of the
 Nations* (1896), p. 19.
 
-<span id="fn_285"></span>[265:1](mba18.htm#fr_286) Note contributed to
+<span id="fn_285"></span>[265:1](mba18.htm#fr_286.md) Note contributed to
 *The Land of the Hittites*, J. Garstang, p. 324.
 
-<span id="fn_286"></span>[266:1](mba18.htm#fr_289) *Genesis*, xxvi, 34,
+<span id="fn_286"></span>[266:1](mba18.htm#fr_289.md) *Genesis*, xxvi, 34,
 35.
 
-<span id="fn_287"></span>[266:2](mba18.htm#fr_288) *Ezekiel*, xvi, 45.
+<span id="fn_287"></span>[266:2](mba18.htm#fr_288.md) *Ezekiel*, xvi, 45.
 
-<span id="fn_288"></span>[266:3](mba18.htm#fr_290) *Genesis*, xxvii, 46.
+<span id="fn_288"></span>[266:3](mba18.htm#fr_290.md) *Genesis*, xxvii, 46.
 
-<span id="fn_289"></span>[266:4](mba18.htm#fr_291) *Genesis*, xxviii, 1,
+<span id="fn_289"></span>[266:4](mba18.htm#fr_291.md) *Genesis*, xxviii, 1,
 2.
 
-<span id="fn_290"></span>[267:1](mba18.htm#fr_292) *Genesis*, xxiv.
+<span id="fn_290"></span>[267:1](mba18.htm#fr_292.md) *Genesis*, xxiv.
 
-<span id="fn_291"></span>[268:1](mba18.htm#fr_293) *The Syrian Goddess*,
+<span id="fn_291"></span>[268:1](mba18.htm#fr_293.md) *The Syrian Goddess*,
 John Garstang (London, 1913), pp. 17-8.
 
-<span id="fn_292"></span>[269:1](mba18.htm#fr_294) *Vedic Index of Names
+<span id="fn_292"></span>[269:1](mba18.htm#fr_294.md) *Vedic Index of Names
 and Subjects*, Macdonald & Keith, vol. i, pp. 64-5 (London, 1912).
 
-<span id="fn_293"></span>[270:1](mba18.htm#fr_295) *The Wanderings of
+<span id="fn_293"></span>[270:1](mba18.htm#fr_295.md) *The Wanderings of
 Peoples*, p. 21.
 
-<span id="fn_294"></span>[271:1](mba18.htm#fr_296) *Breasted's History
+<span id="fn_294"></span>[271:1](mba18.htm#fr_296.md) *Breasted's History
 of Egypt*, pp. 219-20.
 
-<span id="fn_295"></span>[275:1](mba18.htm#fr_297) *A History of Egypt*,
+<span id="fn_295"></span>[275:1](mba18.htm#fr_297.md) *A History of Egypt*,
 W. M. Flinders Petrie, vol. ii, p. 146 *et seq*. (1904 ed.).
 
-<span id="fn_296"></span>[276:1](mba18.htm#fr_298) *A History of Egypt*,
+<span id="fn_296"></span>[276:1](mba18.htm#fr_298.md) *A History of Egypt*,
 W. M. Flinders Petrie, vol. ii, p. 147 (1904 ed.).
 
-<span id="fn_297"></span>[277:1](mba18.htm#fr_299) *The Old Testament in
+<span id="fn_297"></span>[277:1](mba18.htm#fr_299.md) *The Old Testament in
 the Light of the Historical Records and Legends of Assyria and
 Babylonia*, pp. 126 *et seq*.
 
-<span id="fn_298"></span>[278:1](mba18.htm#fr_300) His connection with
-Anu is discussed in [chapter xiv](mba20.htm#an_ch-14).
+<span id="fn_298"></span>[278:1](mba18.htm#fr_300.md) His connection with
+Anu is discussed in [chapter xiv](mba20.htm#an_ch-14.md).
 
-<span id="fn_299"></span>[278:2](mba18.htm#fr_301) *Ancient Assyria*, C.
+<span id="fn_299"></span>[278:2](mba18.htm#fr_301.md) *Ancient Assyria*, C.
 H. W. Johns, p. 11 (London, 1912).
 
-<span id="fn_300"></span>[285:1](mba18.htm#fr_302) *The Tell-el-Amarna
+<span id="fn_300"></span>[285:1](mba18.htm#fr_302.md) *The Tell-el-Amarna
 Letters*, Hugo Winckler, p. 31.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Astrology and Astronomy](mba19)
+[Next: Chapter XIII. Astrology and Astronomy](mba19.md)

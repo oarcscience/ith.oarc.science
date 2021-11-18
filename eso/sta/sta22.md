@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta21)  [Next](sta23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta21)  [Next](sta23.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,7 +132,7 @@ and number of petals upon the
 <span id="img_09300"></span>
 
 [![THE TREE OF THE KNIGHTS OF THE ROUND TABLE.](tn/09300.jpg)  
-Click to enlarge](img/09300.jpg)  
+Click to enlarge](img/09300.jpg.md)  
 THE TREE OF THE KNIGHTS OF THE ROUND TABLE.  
 
 This remarkable example of the use of the tree in symbolism is from the
@@ -293,7 +293,7 @@ to prevent barrenness and desolation; the), are so
 <span id="img_09400"></span>
 
 [![THE TREE OF NOAH.](tn/09400.jpg)  
-Click to enlarge](img/09400.jpg)  
+Click to enlarge](img/09400.jpg.md)  
 THE TREE OF NOAH.  
 
 From the "*Breeches*" *Bible of 1599*.
@@ -377,7 +377,7 @@ is abundant as a bush in the desert of Thur; and of it the 'crown of
 thorns' was composed, which was set on the forehead of Jesus of
 Nazareth. It is a fit type of immortality on account of its tenacity of
 life; for it has been known, when planted as a door-post, to take root
-again and shoot out budding boughs above the [threshold](errata.htm#6)."
+again and shoot out budding boughs above the [threshold](errata.htm#6.md)."
 (See *Morals and Dogma*.)
 
 It is quite possible that much of the veneration accorded the acacia is
@@ -433,7 +433,7 @@ appropriate emblem of the Ark of the Deluge,
 <span id="img_09500"></span>
 
 [![THE SUNFLOWER.](tn/09500.jpg)  
-Click to enlarge](img/09500.jpg)  
+Click to enlarge](img/09500.jpg.md)  
 THE SUNFLOWER.  
 
 From Kircher's *Magnes sive de Arte Magnetica Opus Tripartitum*.
@@ -543,7 +543,7 @@ was evolved by which the resemblance between the mandragora root and the
 human body was considerably accentuated. Like most superstitions, the
 belief in the peculiar powers of the mandrake was founded upon an
 ancient secret doctrine concerning the true nature of the plant. "It is
-slightly narcotic," says [Eliphas](errata.htm#7) Levi, "and an
+slightly narcotic," says [Eliphas](errata.htm#7.md) Levi, "and an
 aphrodisiacal virtue was ascribed to it by the ancients, who represented
 it as being sought by Thessalian sorcerers for the composition of
 philtres. Is this root the umbilical vestige of our terrestrial origin,
@@ -590,7 +590,7 @@ of Ancient Art and Mythology*.)
 <span id="img_09600"></span>
 
 [![THE TREE OF ALCHEMY.](tn/09600.jpg)  
-Click to enlarge](img/09600.jpg)  
+Click to enlarge](img/09600.jpg.md)  
 THE TREE OF ALCHEMY.  
 
 From *Musæum Hermeticum Reformatum et Amplificatum*.
@@ -621,4 +621,4 @@ which the metals grow." (See Translation of 1893.)
 
 ------------------------------------------------------------------------
 
-[Next: Stones, Metals and Gems](sta23)
+[Next: Stones, Metals and Gems](sta23.md)

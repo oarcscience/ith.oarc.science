@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl42)  [Next](hpl44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl42)  [Next](hpl44.md) 
 
 ------------------------------------------------------------------------
 
@@ -195,4 +195,4 @@ given to the climbing of inaccessible places.
 
 ------------------------------------------------------------------------
 
-[Next: The Dreams in the Witch House (Weird Tales, 1933)](hpl44)
+[Next: The Dreams in the Witch House (Weird Tales, 1933)](hpl44.md)

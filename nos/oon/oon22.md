@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -67,7 +67,7 @@ brow, with its historic wart; eyes firm, penetrating, sad; square jaw,
 and close-set mouth; scanty tufts of hair on lip and chin; long loose
 brown locks flowing down in waves on to the shoulder. His whole air
 breathing energy, firmness, passion, pity, and sorrow." Carlyle's fancy
-version is given below. <span id="fr_455"></span>[1](#fn_454)
+version is given below. <span id="fr_455"></span>[1](#fn_454.md)
 
 This being derived from a falsity, must itself be false. But is it not
 somewhat curious that friends and foes of Cromwell should alike sit down
@@ -280,7 +280,7 @@ ENVOY
 
 ### Footnotes
 
-<span id="fn_454"></span>[306:1](oon22.htm#fr_455) "Stands some five
+<span id="fn_454"></span>[306:1](oon22.htm#fr_455.md) "Stands some five
 feet ten or more; a man of strong solid stature, and dignified, now
 partly military carriage: the expression of him valour and devout
 intelligence,---energy and delicacy on a basis of simplicity. Fifty-four

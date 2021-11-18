@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth29)  [Next](oth31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth29)  [Next](oth31.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ should have to deny that the number of elements is infinite.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](oth31)
+[Next: Chapter 5](oth31.md)

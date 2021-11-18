@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](lgh13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](lgh13.md) 
 
 ------------------------------------------------------------------------
 

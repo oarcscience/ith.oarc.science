@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr11)  [Next](ibr13) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr11)  [Next](ibr13.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ konyennethaghkwen.
 
 ##### CALLED, "AT THE WOOD'S EDGE."
 
-1\. Now <span id="fr_62"></span>[1](#fn_62) to-day I have been greatly
+1\. Now <span id="fr_62"></span>[1](#fn_62.md) to-day I have been greatly
 startled by your voice coming through the forest to this opening. You
 have come with troubled mind through all obstacles. You kept seeing the
 places where they met on whom we depended, my offspring. How then can
@@ -113,7 +113,7 @@ had happened, my offspring.
 4\. Our forefathers made the rule, and said, "Here they are to kindle a
 fire; here, at the edge of the woods, they are to condole with each
 other in few words." But they have referred thither <span
-id="fr_63"></span>[1](#fn_63) all business to be duly completed, as well
+id="fr_63"></span>[1](#fn_63.md) all business to be duly completed, as well
 as for the mutual embrace of condolence. And they said, "Thither shall
 they be led by the hand, and shall be placed on the principal seat."
 
@@ -533,7 +533,7 @@ placed under your heads what ye established--the Great League.
 
 30\. Now, then, hearken, ye who were rulers and founders:
 
-    TEHKARIHHOKEN! <span id="fr_64"></span>[1](#fn_64)  
+    TEHKARIHHOKEN! <span id="fr_64"></span>[1](#fn_64.md)  
 Continue to listen!  
 Thou who wert ruler,  
     HAYENWATHA!  
@@ -929,16 +929,16 @@ In our minds.
 
 ### Footnotes
 
-<span id="fn_62"></span>[117:1](ibr12.htm#fr_62) The paragraphs are not
+<span id="fn_62"></span>[117:1](ibr12.htm#fr_62.md) The paragraphs are not
 numbered in the original text. The numbers are prefixed in this work
 merely for convenience of reference.
 
-<span id="fn_63"></span>[119:1](ibr12.htm#fr_63) That is, to the Council
+<span id="fn_63"></span>[119:1](ibr12.htm#fr_63.md) That is, to the Council
 House.
 
-<span id="fn_64"></span>[129:1](ibr12.htm#fr_64) The names in this
+<span id="fn_64"></span>[129:1](ibr12.htm#fr_64.md) The names in this
 version are in the orthography of John Buck's MS.
 
 ------------------------------------------------------------------------
 
-[Next: The Book of the Younger Nations](ibr13)
+[Next: The Book of the Younger Nations](ibr13.md)

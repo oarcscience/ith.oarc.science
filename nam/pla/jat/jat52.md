@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat51)  [Next](jat53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat51)  [Next](jat53.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ but I like acorns." This way he spoke they say.
 
 ------------------------------------------------------------------------
 
-[Next: 51. Owl Describes Himself](jat53)
+[Next: 51. Owl Describes Himself](jat53.md)

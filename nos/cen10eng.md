@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](cen9eng)  [Next](almanac1) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](cen9eng)  [Next](almanac1.md) 
 
 ------------------------------------------------------------------------
 
@@ -607,6 +607,6 @@ The Lusitanians will not be satisfied thereby.
 
 ------------------------------------------------------------------------
 
-[Next: Almanacs: 1555-1563](almanac1)
+[Next: Almanacs: 1555-1563](almanac1.md)
 
   

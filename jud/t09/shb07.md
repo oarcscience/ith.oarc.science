@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](shb06)  [Next](shb08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](shb06)  [Next](shb08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -595,7 +595,7 @@ however, says: Our Mishna's case is when the minor has real estate and
 one puts in a claim that his father owes him money, in this case even if
 the plaintiff has a document, he must swear that the minor's father has
 not paid it; the same is the case with the sanctuary. <span
-id="fr_24"></span>[1](#fn_24)
+id="fr_24"></span>[1](#fn_24.md)
 
 MISHNA *II*.: One does not swear to the following: To slaves, written
 documents, arable lands, and sanctified objects; nor is thereto applied
@@ -719,7 +719,7 @@ middle part: I lent you a sela and it was worth a shekkel, and the other
 says it was worth three dinars, in which case the borrower confesses to
 owe yet one dinar, hence, it is a partial admission to which an oath
 applies; the rabbis, however, have transferred this oath from the
-borrower to the lender. <span id="fr_25"></span>[1](#fn_25) And now that
+borrower to the lender. <span id="fr_25"></span>[1](#fn_25.md) And now that
 R. Ashi has decided that both depositor and depositary must each take an
 oath, he latter: that he does not have the pledge any more, and the
 former: that its value amounted to so and so much, the Mishna is to be
@@ -727,7 +727,7 @@ explained thus: Who is to take the oath first? The depositary, since if
 the depositor swore first the other could meanwhile reconsider and
 produce the pledge.
 
-Samuel said: <span id="fr_26"></span>[2](#fn_26) If one lends to his
+Samuel said: <span id="fr_26"></span>[2](#fn_26.md) If one lends to his
 neighbor 1,000 zuz, and pledges for them the handle of a scythe only, if
 the handle is lost the 1,000 zuz are lost, but if the pledge consisted
 of such two handles the case is different, as we do not assume that he
@@ -749,7 +749,7 @@ has in view the case where the depositary
 <span id="page_92">p. 92</span>
 
 expressly took upon him responsibility for its value only, which is not
-so in Samuel's case. <span id="fr_27"></span>[1](#fn_27)
+so in Samuel's case. <span id="fr_27"></span>[1](#fn_27.md)
 
 Concerning the last mentioned case shall we assume that the following
 Tanaim differ: If one had made a loan on a pledge and the Sabbathic year
@@ -772,17 +772,17 @@ memorandum.
 
 ### Footnotes
 
-<span id="fn_24"></span>[88:1](shb07.htm#fr_24) The further discussion
+<span id="fn_24"></span>[88:1](shb07.htm#fr_24.md) The further discussion
 on this point appears in its proper places.
 
-<span id="fn_25"></span>[91:1](shb07.htm#fr_25) A Talmudic sela was of
+<span id="fn_25"></span>[91:1](shb07.htm#fr_25.md) A Talmudic sela was of
 two shekkels, each shekkel of two dinars; hence 3 dinar = 1½ shekkel.
 
-<span id="fn_26"></span>[91:2](shb07.htm#fr_26) This is a repetition
+<span id="fn_26"></span>[91:2](shb07.htm#fr_26.md) This is a repetition
 from Tract Middle Gate, p. 206, which is reproduced here because R.
 Na'hman's part is not mentioned there.
 
-<span id="fn_27"></span>[92:1](shb07.htm#fr_27) Here follows the
+<span id="fn_27"></span>[92:1](shb07.htm#fr_27.md) Here follows the
 discussion from Middle Gate, p. 206:
 
 "*On a pledge*," which paragraph is followed by the statement of R.
@@ -793,4 +793,4 @@ hire (ibid., p. 65), all which we deem unnecessary to repeat here
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII.](shb08)
+[Next: Chapter VII.](shb08.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](mic)  [Next](hab) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](mic)  [Next](hab.md) 
 
 ------------------------------------------------------------------------
 
@@ -191,4 +191,4 @@ des mains sur toi; Car quel est celui que ta méchanceté n'a pas atteint?
 
 ------------------------------------------------------------------------
 
-[Next: Habakkuk](hab)
+[Next: Habakkuk](hab.md)

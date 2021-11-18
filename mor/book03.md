@@ -1,8 +1,8 @@
-[Previous: Jacob](book02)
+[Previous: Jacob](book02.md)
 
-[Next: Jarom](book04)
+[Next: Jarom](book04.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Jarom](book04)
+[Next: Jarom](book04.md)

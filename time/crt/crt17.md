@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt16)  [Next](crt18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt16)  [Next](crt18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ Intangible Textual Heritage
 
 [![YORKSHIRE SWORD-ACTORS: ST. GEORGE IN COMBAT WITH ST.
 PETER.](tn/image21.jpg)  
-Click to enlarge](img/image21.jpg)  
+Click to enlarge](img/image21.jpg.md)  
   
 
 YORKSHIRE SWORD-ACTORS: ST. GEORGE IN COMBAT WITH ST. PETER.
@@ -56,7 +56,7 @@ in all probability connected with that wearing of beasts’ heads and
 skins of which we have already noted various examples﻿—its origin in
 folk-custom seems to have been the coming of a band of worshippers clad
 in this uncouth but auspicious garb to bring good luck to a
-house.﻿ [14-1](crt22.htm#Note_14-1)<span id="Nanchor_14-1"></span> The
+house.﻿ [14-1](crt22.htm#Note_14-1.md)<span id="Nanchor_14-1"></span> The
 most direct English survival is found in the village mummers who still
 call themselves “guisers” or “geese-dancers” and claim the right to
 enter every house. These will be dealt with shortly, after a
@@ -69,9 +69,9 @@ generally overlaid with splendid trappings, the dresses and the
 arrangements were often extremely elaborate, and the introduction of
 dialogued speech made these “disguises” regular dramatic performances. A
 notable example is Ben Jonson's “Masque of
-Christmas.”﻿ [14-2](crt22.htm#Note_14-2)<span id="Nanchor_14-2"></span>
+Christmas.”﻿ [14-2](crt22.htm#Note_14-2.md)<span id="Nanchor_14-2"></span>
 Shakespeare, however, gives us in “Henry
-VIII.”﻿ [14-3](crt22.htm#Note_14-3)<span id="Nanchor_14-3"></span> an
+VIII.”﻿ [14-3](crt22.htm#Note_14-3.md)<span id="Nanchor_14-3"></span> an
 example of a simpler impromptu form: the king and a party dressed up as
 shepherds break in upon a banquet of Wolsey's.
 
@@ -80,7 +80,7 @@ with the festivities of kings and courts and grandees. Mention must,
 however, be made of a personage who played an important part in the
 Christmas of the Tudor court and appeared also in colleges, Inns of
 Court, and the houses of the nobility﻿—the “Lord of
-Misrule.”﻿ [14-4](crt22.htm#Note_14-4)<span id="Nanchor_14-4"></span> He
+Misrule.”﻿ [14-4](crt22.htm#Note_14-4.md)<span id="Nanchor_14-4"></span> He
 was annually elected to preside over the revels, had a retinue of
 courtiers, and was surrounded by elaborate ceremonial. He seems to be
 the equivalent and was probably the direct descendant of the “Abbot” or
@@ -104,15 +104,15 @@ vary: “mummers” and “guisers” are the commonest; in Sussex they are
 “tipteerers,” perhaps because of <span id="page_299">p. 299</span> <span
 id="Page_299"></span>the perquisites they collect, in Cornwall
 “geese-dancers” (“geese” no doubt comes from “disguise”), in Shropshire
-“morris”﻿—or “merry”﻿—“dancers.”﻿ [14-5](crt22.htm#Note_14-5)<span
+“morris”﻿—or “merry”﻿—“dancers.”﻿ [14-5](crt22.htm#Note_14-5.md)<span
 id="Nanchor_14-5"></span> It is to be noted that they are unbidden
 guests, and enter your house as of
-right.﻿ [14-6](crt22.htm#Note_14-6)<span id="Nanchor_14-6"></span>
+right.﻿ [14-6](crt22.htm#Note_14-6.md)<span id="Nanchor_14-6"></span>
 Sometimes they merely dance, sing, and feast, but commonly they perform
-a rude drama.﻿ [14-7](crt22.htm#Note_14-7)<span
+a rude drama.﻿ [14-7](crt22.htm#Note_14-7.md)<span
 id="Nanchor_14-7"></span>
 
-The plays acted by the mummers﻿ [14-8](crt22.htm#Note_14-8)<span
+The plays acted by the mummers﻿ [14-8](crt22.htm#Note_14-8.md)<span
 id="Nanchor_14-8"></span> vary so much that it is difficult to describe
 them in general terms. There is no reason to suppose that the words are
 of great antiquity﻿—the earliest form may perhaps date from the
@@ -135,7 +135,7 @@ simplest form is described by Tacitus in his “Germania”: “they have,” he
 says of the Germans, “but one kind of public show: in every gathering it
 is the same. Naked youths, who profess this sport, fling themselves in
 dance among swords and levelled
-lances.”﻿ [14-9](crt22.htm#Note_14-9)<span id="Nanchor_14-9"></span> In
+lances.”﻿ [14-9](crt22.htm#Note_14-9.md)<span id="Nanchor_14-9"></span> In
 certain forms of the dance there are figures in which the swords are
 brought together on the heads of performers, or a pretence is made to
 cut at heads and feet, or the swords are put in a ring round a person's
@@ -157,7 +157,7 @@ morris-dancers in England sometimes use swords, and in one case the
 performers of an undoubted sword-dance were called “morrice” dancers in
 the eighteenth century. Bells too, so characteristic of the morris, are
 mentioned in some Continental accounts of the
-sword-dance.﻿ [111](crt24.htm#Footnote_111)<span
+sword-dance.﻿ [111](crt24.htm#Footnote_111.md)<span
 id="FNanchor_111"></span>
 
 Intermediate between these dances and the fully developed St. George
@@ -170,7 +170,7 @@ The sword-dance thus passes by a gradual transition, the dancing
 diminishing, the dramatic elements increasing, into the mummers’ plays
 of St. George. The central motive, death and revival, Mr. Chambers
 regards as a symbol of the resurrection of the year or the spirit of
-vegetation,﻿ [112](crt24.htm#Footnote_112)<span
+vegetation,﻿ [112](crt24.htm#Footnote_112.md)<span
 id="FNanchor_112"></span> like the Thuringian custom of executing a
 “wild man” covered with leaves, whom a doctor brings to life again by
 bleeding. This piece of ritual has apparently been attracted to
@@ -179,7 +179,7 @@ East Midland plays take place, is just such an early spring feast.
 Again, in some places the <span id="page_301">p. 301</span> <span
 id="Page_301"></span>St. George play is performed at Easter, a date
 alluded to in the title, “Pace-eggers’” or “Pasque-eggers’”
-play.﻿ [14-13](crt22.htm#Note_14-13)<span id="Nanchor_14-13"></span>
+play.﻿ [14-13](crt22.htm#Note_14-13.md)<span id="Nanchor_14-13"></span>
 
 Two grotesque figures appear with varying degrees of clearness and with
 various names in the dances and in the plays﻿—the “fool” (Tommy) who
@@ -187,7 +187,7 @@ wears the skin and tail of a fox or other animal, and a man dressed in
 woman's clothes (Bessy). In these we may recognize the skin-clad mummer
 and the man aping a woman whom we meet in the old Kalends denunciations.
 Sometimes the two are combined, while a hobby-horse also not
-unfrequently appears.﻿ [14-14](crt22.htm#Note_14-14)<span
+unfrequently appears.﻿ [14-14](crt22.htm#Note_14-14.md)<span
 id="Nanchor_14-14"></span>
 
 How exactly St. George came to be the central figure of the Christmas
@@ -196,7 +196,7 @@ which appeared the “Seven Champions,” the English national heroes﻿—of
 whom Richard Johnson wrote a history in 1596﻿—with St. George at their
 head. It is more probable, however, that the saint came in from the
 mediaeval pageants held on his day in many English
-towns.﻿ [14-15](crt22.htm#Note_14-15)<span id="Nanchor_14-15"></span>
+towns.﻿ [14-15](crt22.htm#Note_14-15.md)<span id="Nanchor_14-15"></span>
 
 Can it be that the German St. Nicholas plays are more Christianized and
 sophisticated forms of folk-dramas like in origin to those we have been
@@ -216,7 +216,7 @@ part of the nineteenth century, throughout the Twelve Days boys carrying
 bells used to go round the houses, singing songs and having ‘one or more
 of their company dressed up with masks and bells and foxes’ brushes and
 other such things to give them a weird and monstrous
-look.’”﻿ [14-16](crt22.htm#Note_14-16)<span id="Nanchor_14-16"></span>
+look.’”﻿ [14-16](crt22.htm#Note_14-16.md)<span id="Nanchor_14-16"></span>
 
 <span id="page_302">p. 302</span> <span id="Page_302"></span>In Russia,
 too, mummers used to go about at Christmastide, visiting houses,
@@ -224,7 +224,7 @@ dancing, and performing all kinds of antics. “Prominent parts were
 always played by human representatives of a goat and a bear. Some of the
 party would be disguised as ‘Lazaruses,’ that is, as blind beggars.” A
 certain number of the mummers were generally supposed to play the part
-of thieves anxious to break in.﻿ [14-17](crt22.htm#Note_14-17)<span
+of thieves anxious to break in.﻿ [14-17](crt22.htm#Note_14-17.md)<span
 id="Nanchor_14-17"></span> Readers of Tolstoy's “War and Peace” may
 remember a description of some such maskings in the year 1810.
 
@@ -243,7 +243,7 @@ Fools and the Boy Bishop ceremonies, have been so fully described by
 other writers, and my space here is so limited, that I need but treat
 them in outline, and for detail refer the reader to such admirable
 accounts as are to be found in Chapters XIII., XIV., and XV. of Mr.
-Chamber's “The Mediaeval Stage.”﻿ [14-18](crt22.htm#Note_14-18)<span
+Chamber's “The Mediaeval Stage.”﻿ [14-18](crt22.htm#Note_14-18.md)<span
 id="Nanchor_14-18"></span>
 
 Johannes Belethus, Rector of Theology at Paris towards the end of the
@@ -304,7 +304,7 @@ France:﻿—
 > own shame. Finally they drive about the town and its theatres in
 > shabby traps and carts, and rouse the laughter of their fellows and
 > the bystanders in infamous performances, with indecent gesture and
-> verses scurrilous and unchaste.”﻿ [14-19](crt22.htm#Note_14-19)<span
+> verses scurrilous and unchaste.”﻿ [14-19](crt22.htm#Note_14-19.md)<span
 > id="Nanchor_14-19"></span>
 
 The letter also speaks of “bishops” or “archbishops” of Fools, who wore
@@ -355,7 +355,7 @@ connection with Bethlehem and the Wise Men, it closes thus:﻿—
 <span class="i2">Hez va, hez va! hez va, hez!</span>  
 <span class="i2">Bialx Sire Asnes, car allez:</span>  
 <span class="i2">Belle bouche, car
-chantez.”﻿ [14-20](crt22.htm#Note_14-20)<span id="Nanchor_14-20"></span>
+chantez.”﻿ [14-20](crt22.htm#Note_14-20.md)<span id="Nanchor_14-20"></span>
 </span>  
 
 </div>
@@ -396,7 +396,7 @@ distinctive dress, its <span id="page_306">p. 306</span> <span
 id="Page_306"></span>most characteristic feature being a hood with
 asses’ ears, probably a relic of the primitive days when the heads of
 sacrificed animals were worn by festal
-worshippers.﻿ [14-21](crt22.htm#Note_14-21)<span
+worshippers.﻿ [14-21](crt22.htm#Note_14-21.md)<span
 id="Nanchor_14-21"></span>
 
 ### <span class="smcap">The Boy Bishop.</span>
@@ -443,15 +443,15 @@ through the city, that the “bishop” might bless the people. He had also
 to preach a sermon﻿—no doubt written for him.
 
 Examples of such discourses are still
-extant,﻿ [14-22](crt22.htm#Note_14-22)<span id="Nanchor_14-22"></span>
+extant,﻿ [14-22](crt22.htm#Note_14-22.md)<span id="Nanchor_14-22"></span>
 and are not without quaint touches. For instance the bidding prayer
 before one of them alludes to “the ryghte reverende fader and
 worshypfull lorde my broder Bysshopp of London, your dyoceasan,” and “my
 worshypfull broder \[the\] Deane of this cathedrall
-chirche,”﻿ [14-23](crt22.htm#Note_14-23)<span id="Nanchor_14-23"></span>
+chirche,”﻿ [14-23](crt22.htm#Note_14-23.md)<span id="Nanchor_14-23"></span>
 while in another the preacher remarks, speaking of the choristers and
 children of the song-school, “Yt is not so long sens I was one of them
-myself.”﻿ [14-24](crt22.htm#Note_14-24)<span id="Nanchor_14-24"></span>
+myself.”﻿ [14-24](crt22.htm#Note_14-24.md)<span id="Nanchor_14-24"></span>
 
 In some places it appears, though this is by no means certain, that the
 boy actually sang Mass. The “bishop's” office was a very desirable one
@@ -484,7 +484,7 @@ July 22, 1541, commands “that from henceforth all suche superstitions be
 loste and clyerlye extinguisshed throughowte all this his realmes and
 dominions, forasmoche as the same doo resemble rather the unlawfull
 superstition of gentilitie \[paganism\], than the pure and sincere
-religion of Christe.”﻿ [14-25](crt22.htm#Note_14-25)<span
+religion of Christe.”﻿ [14-25](crt22.htm#Note_14-25.md)<span
 id="Nanchor_14-25"></span> In Mary's reign the Boy Bishop reappeared,
 along with other “Popish” usages, but after Elizabeth's accession he
 naturally fell into oblivion. A few traces of him lingered in the
@@ -494,7 +494,7 @@ Patron of the Schoole-boies. At Curry-Yeovill in Somersetshire, where
 there is a Howschole (or schole) in the Church, they have annually at
 that time a Barrell of good Ale brought into the church; and that night
 they have the priviledge to breake open their Masters
-Cellar-dore.”﻿ [14-26](crt22.htm#Note_14-26)<span
+Cellar-dore.”﻿ [14-26](crt22.htm#Note_14-26.md)<span
 id="Nanchor_14-26"></span>
 
 In France he seems to have gradually vanished, as, after the
@@ -503,12 +503,12 @@ traces of him are to be found in the eighteenth century at Lyons and
 Rheims; and at Sens, even in the nineteenth, the choir-boys used to play
 at being bishops on Innocents’ Day and call their “archbishop” *âne*﻿—a
 memory this of the old *asinaria
-festa*.﻿ [14-27](crt22.htm#Note_14-27)<span id="Nanchor_14-27"></span>
+festa*.﻿ [14-27](crt22.htm#Note_14-27.md)<span id="Nanchor_14-27"></span>
 In Denmark a vague trace of him was retained in the nineteenth century
 in a children's game. A boy was dressed up in a white shirt, and seated
 on a chair, and the children sang a verse beginning, “Here we consecrate
 a Yule-bishop,” and offered him nuts and
-apples.﻿ [14-28](crt22.htm#Note_14-28)<span id="Nanchor_14-28"></span>
+apples.﻿ [14-28](crt22.htm#Note_14-28.md)<span id="Nanchor_14-28"></span>
 
 <span id="page_309">p. 309</span> <span id="Page_309"></span><span
 id="page_310">p. 310</span> <span id="Page_310"></span><span
@@ -519,4 +519,4 @@ id="page_311">p. 311</span> <span id="Page_311"></span>
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV. St. Stephen's, St. Johns, and Holy Innocents'
-Days](crt18)
+Days](crt18.md)

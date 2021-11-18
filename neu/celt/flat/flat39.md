@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat38)  [Next](flat40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat38)  [Next](flat40.md) 
 
 ------------------------------------------------------------------------
 
@@ -234,4 +234,4 @@ tears, she hid her face in her apron.
 
 ------------------------------------------------------------------------
 
-[Next: Dreaming Tim Jarvis](flat40)
+[Next: Dreaming Tim Jarvis](flat40.md)

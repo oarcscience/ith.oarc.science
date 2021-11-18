@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth071)  [Next](toth073) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth071)  [Next](toth073.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_198">p. 198</span>
 
-## 69. THE COYOTE AND THE EAGLE. <span id="fr_139"></span>[1](toth073.htm#fn_137)
+## 69. THE COYOTE AND THE EAGLE. <span id="fr_139"></span>[1](toth073.htm#fn_137.md)
 
 Alíksai! North of Shupaúlavi is the Katcína House (Katcínki). West of
 this is a bluff, and on top of this bluff used to live an Eagle. One
@@ -43,4 +43,4 @@ Coyote was crying, and, limping away, probably perished somewhere.
 
 ------------------------------------------------------------------------
 
-[Next: 70. The Coyote and the Red Eagle](toth073)
+[Next: 70. The Coyote and the Red Eagle](toth073.md)

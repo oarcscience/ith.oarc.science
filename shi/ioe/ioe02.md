@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe01) 
-[Next](ioe03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe01.md) 
+[Next](ioe03.md) 
 
 ------------------------------------------------------------------------
 
@@ -257,4 +257,4 @@ OF RAMAKRISHNA-VIVEKÂNANDA.
 
 ------------------------------------------------------------------------
 
-[Next: The Range of Ideals](ioe03)
+[Next: The Range of Ideals](ioe03.md)

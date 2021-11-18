@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi102)  [Next](mtsi104) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi102)  [Next](mtsi104.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ he fell down and died. It has been told.
 
 ------------------------------------------------------------------------
 
-[Next: 11. The Man and the Owl](mtsi104)
+[Next: 11. The Man and the Owl](mtsi104.md)

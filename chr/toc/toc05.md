@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](toc04)  [Next](toc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](toc04)  [Next](toc06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Trial of Christ*, by David K. Breed, \[1948\], at Intangible
 Textual Heritage
 
@@ -51,7 +51,7 @@ Constitution of The United States was not an invention of reformers of
 our Civil War era but rather a recognition in modern law that it is
 illegal to punish one who has not been duly convicted of crime upon a
 trial conducted with due deference to the law of evidence. <span
-id="fr_1"></span>[2](#fn_1)
+id="fr_1"></span>[2](#fn_1.md)
 
 In modern times, Sir William Blackstone, a great British statesman and
 jurist, wrote that "When civil society is once formed, government at the
@@ -63,7 +63,7 @@ course, as necessary to preserve and to keep that society in order.
 Unless some superior be constituted, whose commands and decisions all
 the members are bound to obey, they would still remain as in a state of
 nature, without any judge upon earth to define their several rights and
-redress their several wrongs." <span id="fr_2"></span>[3](#fn_2) In
+redress their several wrongs." <span id="fr_2"></span>[3](#fn_2.md) In
 other words, the function of Government is to give all people security
 from the encroachment of one another, upon what has been called in our
 basic American law, "Life, Liberty and the pursuit of Happiness."
@@ -94,7 +94,7 @@ various formal documents filed by lawyers in the lower court are (as we
 have written) referred to collectively as "the record on appeal."
 Although the Court erred in the Trial of Christ by not keeping any
 records (so far as we know) when at that time court reporters were known
-to Roman and Hebrew law and custom, <span id="fr_3"></span>[4](#fn_3)
+to Roman and Hebrew law and custom, <span id="fr_3"></span>[4](#fn_3.md)
 the record in the
 
 <span id="page_16">p. 16</span>
@@ -107,16 +107,16 @@ the Trial of Christ.
 
 ### Footnotes
 
-<span id="fn_1"></span>[13:2](toc05.htm#fr_1) Cf., Numbers 35:30: "Whoso
+<span id="fn_1"></span>[13:2](toc05.htm#fr_1.md) Cf., Numbers 35:30: "Whoso
 killeth any person, the murderer shall be put to death by the mouth of
 witnesses: but one witness shall not testify against any person to cause
 him to die." See also, White, *The Law in the Scriptures*, p. 122.
 
-<span id="fn_2"></span>[14:3](toc05.htm#fr_2) *Commentaries on the Laws
+<span id="fn_2"></span>[14:3](toc05.htm#fr_2.md) *Commentaries on the Laws
 of England*, (1765) Cooley's 2nd ed., (1876) page 47 (\*49) . All
 editions of Bl. *Comm*. are star-paged to the original.
 
-<span id="fn_3"></span>[15:4](toc05.htm#fr_3) Writing, of course, was
+<span id="fn_3"></span>[15:4](toc05.htm#fr_3.md) Writing, of course, was
 common in the first century, A. D., and there have been researches
 tending <span id="page_16">p. 16</span> to show that there were quite
 detailed court records in those days which have been discovered by
@@ -132,4 +132,4 @@ Sanhedrin customarily had short-hand court-reporters.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Record of the Trials](toc06)
+[Next: Chapter III. The Record of the Trials](toc06.md)

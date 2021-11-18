@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby19)  [Next](piby21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby19)  [Next](piby21.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ separate."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1. Apostles Anointed](piby21)
+[Next: Chapter 1. Apostles Anointed](piby21.md)

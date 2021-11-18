@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt91)  [Next](egt93) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt91)  [Next](egt93.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ it over.
 ------------------------------------------------------------------------
 
 [Next: THE COMPARISON OF THE CREATION OF ADAM AND OF JESUS SON OF MARY
-(ON BOTH OF WHOM BE PEACE!).](egt93)
+(ON BOTH OF WHOM BE PEACE!).](egt93.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob08) 
-[Next](tob10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob08.md) 
+[Next](tob10.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob08) 
  
 
 <span id="img_06000"></span> [![](tn/06000.jpg)  
-Click to enlarge](img/06000.jpg)
+Click to enlarge](img/06000.jpg.md)
 
  
 
@@ -104,7 +104,7 @@ e.--
 
 |         |                                                                         |
 |---------|-------------------------------------------------------------------------|
-| Arcanum | The King of Yod or of Sceptres (+). <span id="fr_28"></span>[1](#fn_28) |
+| Arcanum | The King of Yod or of Sceptres (+). <span id="fr_28"></span>[1](#fn_28.md) |
 | 1 (+)   | The King of Vau or of Swords (-).                                       |
 
  
@@ -635,7 +635,7 @@ The different colours indicate the especial dominion of each arcanum.
 
 <span id="img_06800"></span> [![GRAND GENERAL FIGURE OF THE
 TAROT.--&lt;I&gt;Arrangement of Series&lt;/I&gt;.](tn/06800.jpg)  
-Click to enlarge](img/06800.jpg)  
+Click to enlarge](img/06800.jpg.md)  
 GRAND GENERAL FIGURE OF THE TAROT.--*Arrangement of Series*.  
 
  
@@ -644,10 +644,10 @@ GRAND GENERAL FIGURE OF THE TAROT.--*Arrangement of Series*.
 
 ### Footnotes
 
-<span id="fn_28"></span>[62:1](tob09.htm#fr_28) The signs +, -, ∞
+<span id="fn_28"></span>[62:1](tob09.htm#fr_28.md) The signs +, -, ∞
 indicate: the sign + the *positive* terms, the sign - the *negative*
 terms, the sign ∞ the *neuter* terms.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Introduction to the Study of Symbolism](tob10)
+[Next: Chapter VIII. Introduction to the Study of Symbolism](tob10.md)

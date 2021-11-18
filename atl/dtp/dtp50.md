@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp49)  [Next](dtp51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp49)  [Next](dtp51.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -104,7 +104,7 @@ message are the men and the women of this new day, and shall inherit all
 things from our Father forever. And the full eventide of that day which
 cometh shall behold you caught up "into the heavens" to escape the end
 of all things, when the earth also, and the works that are therein,
-shall be burned up. <span id="fr_44"></span>[1](#fn_44)
+shall be burned up. <span id="fr_44"></span>[1](#fn_44.md)
 
 But I should deal with the past, not with the future. The seeds of
 corruption sown in the hearts of men by the Evil One, master over
@@ -480,8 +480,8 @@ Myself! and Phyris!
 
 ### Footnotes
 
-<span id="fn_44"></span>[400:1](dtp50.htm#fr_44) II. Peter iii: 10.
+<span id="fn_44"></span>[400:1](dtp50.htm#fr_44.md) II. Peter iii: 10.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Man's Inhumanity To Man](dtp51)
+[Next: Chapter V: Man's Inhumanity To Man](dtp51.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar202) [Next](gbar204)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar202) [Next](gbar204.md)
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ indignation sleepeth not."'
 
 ------------------------------------------------------------------------
 
-[Next](gbar204)
+[Next](gbar204.md)

@@ -1,23 +1,23 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index) 
-[Siberian](../../../asia/index.htm#siberia)  [Index](index) 
-[Previous](eos07)  [Next](eos09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index.md) 
+[Siberian](../../../asia/index.htm#siberia)  [Index](index.md) 
+[Previous](eos07)  [Next](eos09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eskimo of Siberia*, by Waldemar Bogoras, \[1913\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-### 7. The Eagle-Boy. <span id="fr_4"></span>[1](#fn_4)
+### 7. The Eagle-Boy. <span id="fr_4"></span>[1](#fn_4.md)
 
    There was a man of very bad temper. All the time he beat his wife.
 When he was coming back from sea-hunting, he would call aloud, "There,
@@ -163,9 +163,9 @@ Indian Point, June, 1901.
 
 ### Footnotes
 
-<span id="fn_4"></span>[426:1](eos08.htm#fr_4) This tale was said, by
+<span id="fn_4"></span>[426:1](eos08.htm#fr_4.md) This tale was said, by
 the narrator, to come from the village Nu´yak, on the American shore.
 
 ------------------------------------------------------------------------
 
-[Next: 8. The Old Woman and the Wild Beasts.](eos09)
+[Next: 8. The Old Woman and the Wild Beasts.](eos09.md)

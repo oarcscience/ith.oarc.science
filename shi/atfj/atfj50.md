@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj49)  [Next](atfj51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj49)  [Next](atfj51.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_54"></span> <span align="CENTER"> [![54. Jirohei Clings to
 the Cherry Tree Even in Death](tn/54.jpg)  
-Click to enlarge](img/54.jpg)  
+Click to enlarge](img/54.jpg.md)  
 54. Jirohei Clings to the Cherry Tree Even in Death  
 </span>
 
@@ -171,6 +171,6 @@ which had died when its limb had been severed.
 
 ------------------------------------------------------------------------
 
-[Next: XLIX. The Snow Ghost](atfj51)
+[Next: XLIX. The Snow Ghost](atfj51.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssbm04)  [Next](ssbm06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssbm04)  [Next](ssbm06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Science Behind Miracles*, by Max Freedom Long, \[1948\], at
 Intangible Textual Heritage
 
@@ -620,4 +620,4 @@ charges. Glass did not.
 
 [Next: Chapter V. The Kahuna System and the Three “Souls” or Spirits of
 Man, Each Using Its Own Voltage of Vital Force. These Spirits in Union
-and in Separation](ssbm06)
+and in Separation](ssbm06.md)

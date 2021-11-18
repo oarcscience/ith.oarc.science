@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 </div>
 
@@ -27,14 +27,14 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](j5000)    [Page
-Index](pageidx)    [Text \[Zipped\]](j5.txt.gz)
+[Contents](#contents)    [Start Reading](j5000.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](j5.txt.gz.md)
 
 ------------------------------------------------------------------------
 
-[VOLUME I](../j1/index)   \|    [VOLUME II](../j2/index)   \|    [VOLUME
-III](../j3/index)   \|    [VOLUME IV](../j4/index)   \|    **VOLUME
-V**   \|    [VOLUME VI](../j6/index)
+[VOLUME I](../j1/index)   \|    [VOLUME II](../j2/index.md)   \|    [VOLUME
+III](../j3/index)   \|    [VOLUME IV](../j4/index.md)   \|    **VOLUME
+V**   \|    [VOLUME VI](../j6/index.md)
 
 ------------------------------------------------------------------------
 
@@ -44,35 +44,35 @@ previous incarnations.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](j5000)  
-[Preface](j5001)  
-[Contents](j5002)  
-[Additional Notes and Corrections](j5003)  
-[No. 511.: Kiṁchanda-Jātaka.](j5004)  
-[No. 512.: Kumbha-Jātaka.](j5005)  
-[No. 513.: Jayaddisa-Jātaka.](j5006)  
-[No. 514.: Chaddanta-Jataka.](j5007)  
-[No. 515.: Sambhava-Jātaka.](j5008)  
-[No. 516.: Mahākapi-Jātaka.](j5009)  
-[No. 517.: Dakarakkhasa-Jātaka.](j5010)  
-[No. 518.: Paṇḍara-Jātaka.](j5011)  
-[No. 519.: Sambula-Jātaka.](j5012)  
-[No. 520.: Gaṇḍatindu-Jātaka.](j5013)  
-[No. 521.: Tesakuṇa-Jātaka.](j5014)  
-[No. 522.: Sarabhaṅga-Jātaka.](j5015)  
-[No. 523.: Alambusā-Jātaka.](j5016)  
-[No. 524.: Saṁkhapāla-Jātaka.](j5017)  
-[No. 525.: Culla-Sutasoma-Jātaka.](j5018)  
-[No. 526.: Naḷinikā-Jātaka.](j5019)  
-[No. 527.: Ummadantī-Jātaka.](j5020)  
-[No. 528.: Mahābodhi-Jātaka.](j5021)  
-[No. 529.: Sonaka-Jātaka.](j5022)  
-[No. 530.: Saṁkicca-Jātaka.](j5023)  
-[No. 531.: Kusa-Jātaka.](j5024)  
-[No. 532.: Sona-Nanda-Jātaka.](j5025)  
-[No. 533.: Cullahaṁsa-Jātaka.](j5026)  
-[No. 534.: Mahāhaṁsa-Jātaka.](j5027)  
-[No. 535.: Sudhābhojana-Jātaka.](j5028)  
-[No. 536.: Kuṇāla-Jātaka.](j5029)  
-[No. 537.: Mahā-Sutasoma-Jātaka.](j5030)  
-[Index of Subject Matters](j5031)  
+<span id="contents"></span> [Title Page](j5000.md)  
+[Preface](j5001.md)  
+[Contents](j5002.md)  
+[Additional Notes and Corrections](j5003.md)  
+[No. 511.: Kiṁchanda-Jātaka.](j5004.md)  
+[No. 512.: Kumbha-Jātaka.](j5005.md)  
+[No. 513.: Jayaddisa-Jātaka.](j5006.md)  
+[No. 514.: Chaddanta-Jataka.](j5007.md)  
+[No. 515.: Sambhava-Jātaka.](j5008.md)  
+[No. 516.: Mahākapi-Jātaka.](j5009.md)  
+[No. 517.: Dakarakkhasa-Jātaka.](j5010.md)  
+[No. 518.: Paṇḍara-Jātaka.](j5011.md)  
+[No. 519.: Sambula-Jātaka.](j5012.md)  
+[No. 520.: Gaṇḍatindu-Jātaka.](j5013.md)  
+[No. 521.: Tesakuṇa-Jātaka.](j5014.md)  
+[No. 522.: Sarabhaṅga-Jātaka.](j5015.md)  
+[No. 523.: Alambusā-Jātaka.](j5016.md)  
+[No. 524.: Saṁkhapāla-Jātaka.](j5017.md)  
+[No. 525.: Culla-Sutasoma-Jātaka.](j5018.md)  
+[No. 526.: Naḷinikā-Jātaka.](j5019.md)  
+[No. 527.: Ummadantī-Jātaka.](j5020.md)  
+[No. 528.: Mahābodhi-Jātaka.](j5021.md)  
+[No. 529.: Sonaka-Jātaka.](j5022.md)  
+[No. 530.: Saṁkicca-Jātaka.](j5023.md)  
+[No. 531.: Kusa-Jātaka.](j5024.md)  
+[No. 532.: Sona-Nanda-Jātaka.](j5025.md)  
+[No. 533.: Cullahaṁsa-Jātaka.](j5026.md)  
+[No. 534.: Mahāhaṁsa-Jātaka.](j5027.md)  
+[No. 535.: Sudhābhojana-Jātaka.](j5028.md)  
+[No. 536.: Kuṇāla-Jātaka.](j5029.md)  
+[No. 537.: Mahā-Sutasoma-Jātaka.](j5030.md)  
+[Index of Subject Matters](j5031.md)  

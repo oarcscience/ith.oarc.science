@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](title)
+[Contents](#contents)    [Start Reading](title.md)
 
 ------------------------------------------------------------------------
 
@@ -36,44 +36,44 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](title)  
-[Preface](tale00)  
-[Contents](contents)  
-[Illustrations](illu)  
-[The Arabian Nights](tale01)  
-[The Story of the Merchant and the Genius](tale02)  
-[The Story of the First Old Man and of the Hind](tale03)  
-[The Story of the Second Old Man, and of the Two Black Dogs](tale04)  
-[The Story of the Fisherman](tale05)  
-[The Story of the Greek King and the Physician Douban](tale06)  
-[The Story of the Husband and the Parrot](tale07)  
-[The Story of the Vizir Who Was Punished](tale08)  
-[The Story of the Young King of the Black Isles](tale09)  
+<span id="contents"></span> [Title Page and Front Matter](title.md)  
+[Preface](tale00.md)  
+[Contents](contents.md)  
+[Illustrations](illu.md)  
+[The Arabian Nights](tale01.md)  
+[The Story of the Merchant and the Genius](tale02.md)  
+[The Story of the First Old Man and of the Hind](tale03.md)  
+[The Story of the Second Old Man, and of the Two Black Dogs](tale04.md)  
+[The Story of the Fisherman](tale05.md)  
+[The Story of the Greek King and the Physician Douban](tale06.md)  
+[The Story of the Husband and the Parrot](tale07.md)  
+[The Story of the Vizir Who Was Punished](tale08.md)  
+[The Story of the Young King of the Black Isles](tale09.md)  
 [Story of the Three Calenders, Sons of Kings, and of Five Ladies of
-Bagdad](tale10)  
-[The Story of the First Calender, Son of a King](tale11)  
-[The Story of the Second Calendar, Son of a King](tale12)  
-[The Story of the Envious Man and of Him Who Was Envied](tale13)  
-[Story of the Third Calendar, Son of a King](tale14)  
-[The Seven Voyages of Sindbad the Sailor](tale15)  
-[First Voyage](tale16)  
-[Second Voyage](tale17)  
-[Third Voyage](tale18)  
-[Fourth Voyage](tale19)  
-[Fifth Voyage](tale20)  
-[Sixth Voyage](tale21)  
-[Seventh and Last Voyage](tale22)  
-[The Little Hunchback](tale23)  
-[Story of the Barber's Fifth Brother](tale24)  
-[The Story of the Barber's Sixth Brother](tale25)  
+Bagdad](tale10.md)  
+[The Story of the First Calender, Son of a King](tale11.md)  
+[The Story of the Second Calendar, Son of a King](tale12.md)  
+[The Story of the Envious Man and of Him Who Was Envied](tale13.md)  
+[Story of the Third Calendar, Son of a King](tale14.md)  
+[The Seven Voyages of Sindbad the Sailor](tale15.md)  
+[First Voyage](tale16.md)  
+[Second Voyage](tale17.md)  
+[Third Voyage](tale18.md)  
+[Fourth Voyage](tale19.md)  
+[Fifth Voyage](tale20.md)  
+[Sixth Voyage](tale21.md)  
+[Seventh and Last Voyage](tale22.md)  
+[The Little Hunchback](tale23.md)  
+[Story of the Barber's Fifth Brother](tale24.md)  
+[The Story of the Barber's Sixth Brother](tale25.md)  
 [The Adventures of Prince Camaralzaman and the Princess
-Badoura](tale26)  
-[Noureddin and the Fair Persian](tale27)  
-[Aladdin and the Wonderful Lamp](tale28)  
-[The Adventures of Haroun-al-Raschid, Caliph of Bagdad](tale29)  
-[Story of the Blind Baba-Abdalla](tale30)  
-[The Story of Sidi-Nouman](tale31)  
-[Story of Ali Colia, Merchant of Bagdad](tale32)  
-[The Enchanted Horse](tale33)  
+Badoura](tale26.md)  
+[Noureddin and the Fair Persian](tale27.md)  
+[Aladdin and the Wonderful Lamp](tale28.md)  
+[The Adventures of Haroun-al-Raschid, Caliph of Bagdad](tale29.md)  
+[Story of the Blind Baba-Abdalla](tale30.md)  
+[The Story of Sidi-Nouman](tale31.md)  
+[Story of Ali Colia, Merchant of Bagdad](tale32.md)  
+[The Enchanted Horse](tale33.md)  
 [The Story of Two Sisters Who Were Jealous of Their Younger
-Sister](tale34)  
+Sister](tale34.md)  

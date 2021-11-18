@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Thomas Paine](../index)  [Index](index) 
-[Previous](aor08)  [Next](aor10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Thomas Paine](../index)  [Index](index.md) 
+[Previous](aor08)  [Next](aor10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595479104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595479104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -256,4 +256,4 @@ tales, I cannot dishonour my Creator by calling it by his name.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Of the New Testament](aor10)
+[Next: Chapter VII. Of the New Testament](aor10.md)

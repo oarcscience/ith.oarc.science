@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb28)  [Next](brfb30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb28)  [Next](brfb30.md) 
 
 </div>
 
@@ -201,6 +201,6 @@ for many, many years. And that is the end of the story.
 
 ------------------------------------------------------------------------
 
-[Next: Rubezahl](brfb30)
+[Next: Rubezahl](brfb30.md)
 
 </div>

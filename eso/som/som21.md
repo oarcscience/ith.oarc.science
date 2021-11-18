@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som20) 
-[Next](som22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som20.md) 
+[Next](som22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -152,10 +152,10 @@ good.
 The mystics have taught the ultimate salvation of all people and the
 immortality of every soul. Indeed, they have taught that immortality IS
 HERE AND NOW, IF WE WOULD BUT WAKE TO THE FACT. "Beloved, now are we the
-Sons of God." <span id="fr_73"></span>[74](#fn_73) Since each soul is
+Sons of God." <span id="fr_73"></span>[74](#fn_73.md) Since each soul is
 some part of the Whole, it is impossible that any soul can be lost. "God
 is not the God of the dead, but of the living." <span
-id="fr_74"></span>[75](#fn_74) Damnation has been as foreign to the
+id="fr_74"></span>[75](#fn_74.md) Damnation has been as foreign to the
 thought of the mystic as any belief in evil must be to the Mind of God.
 
 **FREEDOM FROM BURDEN**
@@ -163,7 +163,7 @@ thought of the mystic as any belief in evil must be to the Mind of God.
 The great mystics have taught that man should have no burdens, and would
 have none, if he turned to "The One." "Come unto Me all ye that labor
 and are heavy laden and I will give you rest." <span
-id="fr_75"></span>[76](#fn_75) As Jesus must have known that it would be
+id="fr_75"></span>[76](#fn_75.md) As Jesus must have known that it would be
 impossible for all men to come unto Him as a Personality, He must have
 meant that we should come into His understanding of Life and Reality;
 that is, to come unto the Great God. Some day we will learn to lay our
@@ -176,11 +176,11 @@ faith in the Living Spirit. Man would have no burdens if he kept his
 **UNITY OF ALL**
 
 Jesus prayed that all might come to see the Unity of Life. "That they
-may be One, even as we are One," <span id="fr_76"></span>[77](#fn_76)
+may be One, even as we are One," <span id="fr_76"></span>[77](#fn_76.md)
 was His prayer as He neared the completion of His great work on this
 planet. All mystics have sensed that we live in One Life. "For in Him we
 live, and move, and have our being." <span
-id="fr_77"></span>[78](#fn_77) The Unity of Good is a revelation of the
+id="fr_77"></span>[78](#fn_77.md) The Unity of Good is a revelation of the
 greatest importance; for it teaches us that we are One with the Whole,
 and One with each other. This realization alone will settle the question
 of human inequality. The real Fatherhood of God and the Actual
@@ -195,7 +195,7 @@ uniqueness of individual character and personality. The Real Self is
 God-given and cannot be denied; it is the place where God comes to a
 point of Individualized and Personified Expression, and should be
 thought of in this light. "I am the Light of the world." <span
-id="fr_78"></span>[79](#fn_78)
+id="fr_78"></span>[79](#fn_78.md)
 
 **NORMALCY**
 
@@ -265,7 +265,7 @@ have all agreed that the soul is on the pathway of experience, that is,
 of self-discovery; that it is on its way back to its Father's House; and
 that every soul will ultimately reach its Heavenly Home. They have
 taught the Divinity to Man. "I have said, Ye are gods; and all of you
-are children of the most High." <span id="fr_79"></span>[80](#fn_79)
+are children of the most High." <span id="fr_79"></span>[80](#fn_79.md)
 They have told us that man's destiny is Divine and sure; and that
 Creation is Complete and Perfect NOW. The great mystics have all agreed
 that man's life is his to do with as he chooses; but that when he turns
@@ -297,7 +297,7 @@ guide man, if he would allow it to operate through him. Here again, we
 must be careful not to mistake a psychic impression for an intuitive
 one. *Psychic impressions seek to control man; intuition always remains
 in the background and waits* for his recognition. "Behold, I stand at
-the door." <span id="fr_80"></span>[81](#fn_80)
+the door." <span id="fr_80"></span>[81](#fn_80.md)
 
 All arbitrary control of man stopped as soon as he was brought to a
 point of self-knowingness. From this point he must discover himself; but
@@ -338,7 +338,7 @@ contacts God is within; and the only life man has is from within. God is
 not external, but is Indwelling, at the very center of man's life. This
 is why Jesus said that the Kingdom of Heaven is within, and why He
 prayed, "Our Father Which art in Heaven." <span
-id="fr_81"></span>[82](#fn_81)
+id="fr_81"></span>[82](#fn_81.md)
 
 **THE HIGHEST PRACTICE**
 
@@ -348,7 +348,7 @@ Indwelling I AM is, the more power he will have. This will never lead to
 illusion but will always lead to Reality. All great souls have known
 this and have constantly striven to let the Mind of God come out through
 their mentalities. "The Father that dwelleth in Me, He doeth the
-works." <span id="fr_82"></span>[83](#fn_82) This was the declaration of
+works." <span id="fr_82"></span>[83](#fn_82.md) This was the declaration of
 the great Master, and it should be ours also; not a limited sense of
 life but a limitless one.
 
@@ -358,8 +358,8 @@ The occult significance of the power of Jesus is easily understood when
 we study His method of procedure. Consider His raising of Lazarus from
 the dead. He stood at the tomb and gave thanks; this was recognition. He
 next said, "I Knew that Thou hearest me always"; <span
-id="fr_83"></span>[84](#fn_83) this was unification; then He said,
-"Lazarus, come forth"; <span id="fr_84"></span>[85](#fn_84) this was
+id="fr_83"></span>[84](#fn_83.md) this was unification; then He said,
+"Lazarus, come forth"; <span id="fr_84"></span>[85](#fn_84.md) this was
 command. The method is perfect and we will do well to study and follow
 it. This method can be used in all treatment. First, realize that Divine
 Power Is; then unify with It, and then speak the word as "one having
@@ -397,30 +397,30 @@ anew into Creation."
 
 ### Footnotes
 
-<span id="fn_73"></span>[209:74](som21.htm#fr_73) 1 John 3:2.
+<span id="fn_73"></span>[209:74](som21.htm#fr_73.md) 1 John 3:2.
 
-<span id="fn_74"></span>[209:75](som21.htm#fr_74) Matt. 22:32.
+<span id="fn_74"></span>[209:75](som21.htm#fr_74.md) Matt. 22:32.
 
-<span id="fn_75"></span>[209:76](som21.htm#fr_75) Matt. 11:28.
+<span id="fn_75"></span>[209:76](som21.htm#fr_75.md) Matt. 11:28.
 
-<span id="fn_76"></span>[210:77](som21.htm#fr_76) John 17:22.
+<span id="fn_76"></span>[210:77](som21.htm#fr_76.md) John 17:22.
 
-<span id="fn_77"></span>[210:78](som21.htm#fr_77) Acts. 17:28.
+<span id="fn_77"></span>[210:78](som21.htm#fr_77.md) Acts. 17:28.
 
-<span id="fn_78"></span>[210:79](som21.htm#fr_78) John 8:12.
+<span id="fn_78"></span>[210:79](som21.htm#fr_78.md) John 8:12.
 
-<span id="fn_79"></span>[212:80](som21.htm#fr_79) Ps. 82:6.
+<span id="fn_79"></span>[212:80](som21.htm#fr_79.md) Ps. 82:6.
 
-<span id="fn_80"></span>[213:81](som21.htm#fr_80) Rev. 3:20.
+<span id="fn_80"></span>[213:81](som21.htm#fr_80.md) Rev. 3:20.
 
-<span id="fn_81"></span>[214:82](som21.htm#fr_81) Luke 11:2.
+<span id="fn_81"></span>[214:82](som21.htm#fr_81.md) Luke 11:2.
 
-<span id="fn_82"></span>[214:83](som21.htm#fr_82) John 14:10.
+<span id="fn_82"></span>[214:83](som21.htm#fr_82.md) John 14:10.
 
-<span id="fn_83"></span>[214:84](som21.htm#fr_83) John 11:42.
+<span id="fn_83"></span>[214:84](som21.htm#fr_83.md) John 11:42.
 
-<span id="fn_84"></span>[214:85](som21.htm#fr_84) John 11:43.
+<span id="fn_84"></span>[214:85](som21.htm#fr_84.md) John 11:43.
 
 ------------------------------------------------------------------------
 
-[Next: Lesson Five: The Perfect Whole](som22)
+[Next: Lesson Five: The Perfect Whole](som22.md)

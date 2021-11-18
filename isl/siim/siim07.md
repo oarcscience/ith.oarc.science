@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](siim06)  [Next](siim08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](siim06)  [Next](siim08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Studies in Islamic Mysticism*, by Reynold A. Nicholson, \[1921\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 ### CHAPTER II
 
-### THE PERFECT MAN <span id="fr_218"></span>[1](#fn_218)
+### THE PERFECT MAN <span id="fr_218"></span>[1](#fn_218.md)
 
 Man, is not he Creation's last appeal,  
 The light of Wisdom's eye? Behold the wheel  
@@ -38,7 +38,7 @@ Khayyam</span>.
 Perfect Man (*al-insánu ’l-kámil*), a phrase which seems first to have
 been used by the celebrated Ibnu ’l-‘Arabí, although the notion
 underlying it is almost as old as Ṣúfisim itself <span
-id="fr_219"></span>[2](#fn_219)? The question
+id="fr_219"></span>[2](#fn_219.md)? The question
 
 <span id="page_78">p. 78</span>
 
@@ -82,7 +82,7 @@ hierarchy,
 
 with the *Quṭb* at their head, forming "a saintly board of
 administration by which the invisible government of the world is carried
-on <span id="fr_220"></span>[1](#fn_220)." Speaking of the *Awtád*—four
+on <span id="fr_220"></span>[1](#fn_220.md)." Speaking of the *Awtád*—four
 saints whose rank is little inferior to that of the *Quṭb*
 himself—Hujwírí says:
 
@@ -91,7 +91,7 @@ night, and if there be any place on which their eyes have not fallen,
 next day some flaw will appear in that place; and they must then inform
 the *Quṭb*, in order that he may direct his attention to the weak spot,
 and that by his blessing the imperfection may be remedied <span
-id="fr_221"></span>[2](#fn_221).</span>
+id="fr_221"></span>[2](#fn_221.md).</span>
 
 Such experiences and beliefs were partly the cause and partly the
 consequence of speculation concerning the nature of God and man,
@@ -108,7 +108,7 @@ infusion or incarnation (*ḥulúl*), it is an interesting fact that one of
 the first attempts in Islam to indicate more precisely the meaning of
 mystical union was founded on the Christian doctrine of two natures in
 God. Ḥalláj, who dared to say *Ana ’l-Ḥaqq*, "I am the *Ḥaqq* <span
-id="fr_222"></span>[3](#fn_222)," thereby announced that the saint in
+id="fr_222"></span>[3](#fn_222.md)," thereby announced that the saint in
 his deification "becomes the living and personal witness of God." The
 Jewish tradition that God created Adam in His own image reappeared as a
 *ḥadíth* (saying of the Prophet) and was put to strange uses by
@@ -118,7 +118,7 @@ Mohammedan theosophists.
 
 <span class="contnote">\[paragraph continues\]</span> Even the orthodox
 Ghazálí hints that here is the key of a great mystery which nothing will
-induce him to divulge <span id="fr_223"></span>[1](#fn_223). According
+induce him to divulge <span id="fr_223"></span>[1](#fn_223.md). According
 to Ḥalláj, the essence of God's essence is Love. Before the creation God
 loved Himself in absolute unity and through love revealed Himself to
 Himself alone. Then, desiring to behold that love-in-aloneness, that
@@ -126,7 +126,7 @@ love without otherness and duality, as an external object, He brought
 forth from non-existence an image of Himself, endowed with all His
 attributes and names. This Divine image is Adam, in and by whom God is
 made manifest—divinity objectified in humanity <span
-id="fr_224"></span>[2](#fn_224). Ḥalláj, however, distinguishes the
+id="fr_224"></span>[2](#fn_224.md). Ḥalláj, however, distinguishes the
 human nature (*násút*) from the Divine (*láhút*). Though mystically
 united, they are not essentially identical and interchangeable.
 Personality survives even in union: water does not become wine, though
@@ -135,7 +135,7 @@ verses which are often quoted:
 
 I am He whom I love, and He whom I love is I.  
 We are *two* spirits dwelling in one body <span
-id="fr_225"></span>[3](#fn_225),  
+id="fr_225"></span>[3](#fn_225.md),  
 If thou seest me, thou seest Him;  
 And if thou seest Him, thou seest us both.
 
@@ -162,21 +162,21 @@ derived from Jílán or Gílán, the province south of the Caspian,
 commemorates his descent from the founder of the Qádirite order of
 dervishes, ‘Abdu l-Qádir al-Jílí (Gílání), who died almost exactly 200
 years before the date of Jílí's birth <span
-id="fr_226"></span>[1](#fn_226). In the *Insánu ’l-kámil* he more than
+id="fr_226"></span>[1](#fn_226.md). In the *Insánu ’l-kámil* he more than
 once refers to ‘Abdu ’l-Qádir as "our Shaykh," so that he must have been
 a member of the fraternity. The Moslem biographers leave him unnoticed,
 but he himself tells us that he lived at Zabíd in Yemen with his Shaykh,
 Sharafu’ddín Ismá‘íl ibn Ibráhím al-Jabartí, and had previously
-travelled in India <span id="fr_227"></span>[2](#fn_227). Of his
+travelled in India <span id="fr_227"></span>[2](#fn_227.md). Of his
 mystical writings twenty are known to be extant, and it is not unlikely
 that as many have been lost.
 
 Jílí begins his work with a statement of his object in composing
-it <span id="fr_228"></span>[3](#fn_228). That object is God
+it <span id="fr_228"></span>[3](#fn_228.md). That object is God
 (*al-Ḥaqq*): therefore he must treat in the first place, of the Divine
 names, then of the Divine attributes, and lastly of the Divine essence.
 "I will call attention," he says, "to mysteries which no author has ever
-put into a book <span id="fr_229"></span>[4](#fn_229), matters
+put into a book <span id="fr_229"></span>[4](#fn_229.md), matters
 concerning the gnosis of God and of the universe, and will tread a path
 between reserve and divulgation." He writes throughout as one reporting
 what has been communicated to him in mystical converse (*mukálama*),
@@ -184,33 +184,33 @@ what has been communicated to him in mystical converse (*mukálama*),
 <span id="page_82">p. 82</span>
 
 so that "the hearer knows it intuitively to be the word of God <span
-id="fr_230"></span>[1](#fn_230)." These private revelations are
+id="fr_230"></span>[1](#fn_230.md)." These private revelations are
 supported, he asserts, by the Koran and the Sunna, and he warns his
 readers not to charge him with errors which may arise from their own
 want of understanding; but while he professes belief in the Mohammedan
-articles of faith <span id="fr_231"></span>[2](#fn_231), he interprets
+articles of faith <span id="fr_231"></span>[2](#fn_231.md), he interprets
 them by an allegorising method that yields any and every meaning
 desired. As a writer, he is not without talent, though his work belongs
 to mysticism rather than to literature. Besides many poems which he
 seems to have admired inordinately <span
-id="fr_232"></span>[3](#fn_232), he introduces *maqámas* in rhymed prose
+id="fr_232"></span>[3](#fn_232.md), he introduces *maqámas* in rhymed prose
 and specimens of the Platonic myth. Thus he tells how the stranger,
 whose name is the Spirit, returned from long exile and imprisonment to
 the world known as Yúḥ, and entered a spacious city where Khaḍir rules
 over "the Men of the Unseen" (*rijálu ’l-ghayb*)—exalted saints and
 angels, of whom six classes are described <span
-id="fr_233"></span>[4](#fn_233).
+id="fr_233"></span>[4](#fn_233.md).
 
 The characteristic of the *Insánu ’l-kámil* is the idea of the Perfect
 Man, "who as a microcosmos of a higher order reflects not only the
 powers of nature but also the divine powers \`as in a mirror' (comp. the
-γενικὸς ἄνθρωπος of Philo) <span id="fr_234"></span>[5](#fn_234)." On
+γενικὸς ἄνθρωπος of Philo) <span id="fr_234"></span>[5](#fn_234.md)." On
 this basis Jílí builds his mystical philosophy. It will be better
 grasped as a whole, if before coming to details I endeavour to sketch it
 in outline.
 
 Jílí belongs to the school of Ṣúfís who hold that Being is one <span
-id="fr_235"></span>[6](#fn_235), that all apparent differences are
+id="fr_235"></span>[6](#fn_235.md), that all apparent differences are
 modes, aspects, and manifestations of reality, that the phenomenal is
 the outward expression of the real. He begins by defining essence as
 that
@@ -230,7 +230,7 @@ with two aspects, the outward or visible, which is the present world,
 and the inward or invisible, which is the world to come; both necessity
 and contingency are predicated of it, and it may be regarded either as
 non-existent for itself but existent for other, or as non-existent for
-other but existent for itself <span id="fr_236"></span>[1](#fn_236).
+other but existent for itself <span id="fr_236"></span>[1](#fn_236.md).
 
 Pure Being, as such, has neither name nor attribute; only when it
 gradually descends from its absoluteness and enters the realm of
@@ -247,7 +247,7 @@ Ibnu ’l-‘Arabí puts it, "we ourselves are the attributes by which we
 describe God; our existence is merely an objectification of His
 existence. God is necessary to us in order that we may exist, while we
 are necessary to Him in order that He may be manifested to Himself <span
-id="fr_237"></span>[2](#fn_237)."
+id="fr_237"></span>[2](#fn_237.md)."
 
 Jílí calls the simple essence, apart from all qualities and relations,
 "the dark mist" (*al-‘Amá*). It develops consciousness
@@ -340,7 +340,7 @@ In the theory thus outlined we can recognise a monistic form of the myth
 which represents the Primal Man, the first-born of God, as sinking into
 matter, working there as a creative principle, longing for deliverance,
 and, at last finding the way back to his source <span
-id="fr_238"></span>[1](#fn_238). Jílí calls the Perfect Man the
+id="fr_238"></span>[1](#fn_238.md). Jílí calls the Perfect Man the
 preserver of the universe, the *Quṭb* or Pole on which all the spheres
 of existence revolve. He is the final cause of creation, *i.e.*, the
 means by which God sees Himself, for the Divine names and attributes
@@ -354,7 +354,7 @@ one can read without wondering how a Moslem could have written them:
 If you say that it (the Essence) is One, you are right; or if you say
 that it is Two, it is in fact Two.  
 Or if you say, "No, it is Three," you are right, for that is the real
-nature of Man <span id="fr_239"></span>[2](#fn_239).
+nature of Man <span id="fr_239"></span>[2](#fn_239.md).
 
 <span class="contnote">\[paragraph continues\]</span> Here we have a
 Trinity consisting of the Essence together with its two complementary
@@ -370,7 +370,7 @@ Mohammed and addresses him as follows:
 O centre of the compass! O inmost ground of the truth! O pivot of
 necessity and contingency! <span id="page_87">p. 87</span>  
 O eye of the entire circle of existence! O point of the Koran and the
-*Furqán*! <span id="fr_240"></span>[1](#fn_240)  
+*Furqán*! <span id="fr_240"></span>[1](#fn_240.md)  
 O perfect one, and perfecter of the most perfect, who have been
 beautified by the majesty of God the Merciful!  
 Thou art the Pole (*Quṭb*) of the most wondrous things. The sphere of
@@ -381,18 +381,18 @@ Thine in reality is Being and not-being; nadir and zenith are thy two
 garments.  
 Thou art both the light and its opposite; nay, but thou art only
 darkness to a gnostic that is dazed <span
-id="fr_241"></span>[2](#fn_241).
+id="fr_241"></span>[2](#fn_241.md).
 
 Jílí also holds that in every age the Perfect Men are an outward
 manifestation of the essence of Mohammed <span
-id="fr_242"></span>[3](#fn_242), which has the power of assuming
+id="fr_242"></span>[3](#fn_242.md), which has the power of assuming
 whatever form it will; and he records the time and place of his own
 meeting with the Prophet, who appeared to him in the guise of his
 spiritual director, Sharafu’ddín Ismá‘íl al-Jabartí. In the 60th chapter
 of the *Insánu ’l-kámil* he depicts Mohammed as the absolutely perfect
 man, the first-created of God and the archetype of all other created
 beings. This, of course, is an Islamic Logos doctrine <span
-id="fr_243"></span>[4](#fn_243). It brings Mohammed in some respects
+id="fr_243"></span>[4](#fn_243.md). It brings Mohammed in some respects
 very near to the Christ of the Fourth Gospel and the Pauline Epistles.
 But if the resemblance is great, so is the difference. The Fatherhood of
 God, the Incarnation, and the Atonement suggest an infinitely rich and
@@ -404,9 +404,9 @@ Mohammed is
 
 loved and adored as the perfect image or copy of God: "he that has seen
 me has seen Allah," says the Tradition <span
-id="fr_244"></span>[1](#fn_244). Except that he is not quite co-equal
+id="fr_244"></span>[1](#fn_244.md). Except that he is not quite co-equal
 and co-eternal with his Maker, there can be no limit to glorification of
-the Perfect Man <span id="fr_245"></span>[2](#fn_245). I need hardly say
+the Perfect Man <span id="fr_245"></span>[2](#fn_245.md). I need hardly say
 that Mohammed gave the lie direct to those who would have thrust this
 sort of greatness upon him: his apotheosis is the triumph of religious
 feeling over historical fact.
@@ -428,7 +428,7 @@ In all these respects Jílí has the advantage: we can say of the *Insánu
 The philosophy of Ibnu ’l-‘Arabí requires a volume for itself, but I
 will attempt to give my readers some account of the *Fuṣúṣ*, where he
 treats particularly of the Divine attributes displayed by the prophetic
-class of Perfect Men <span id="fr_246"></span>[3](#fn_246).
+class of Perfect Men <span id="fr_246"></span>[3](#fn_246.md).
 
 The *Insánu ’l-kámil*, though strongly marked with a character and
 expression of its own, is one of those books which gather up the threads
@@ -453,7 +453,7 @@ few heads in the way that seemed most suitable.
 
 ### Footnotes
 
-<span id="fn_218"></span>[77:1](siim07.htm#fr_218) The title is borrowed
+<span id="fn_218"></span>[77:1](siim07.htm#fr_218.md) The title is borrowed
 from Jílí's work, the *Insánu ’l-kámil*, of which a brief but
 illuminating exposition will be found in Dr Muḥammad Iqbál's
 *Development of metaphysics in Persia* (London, 1908), p. 150 foll. I
@@ -469,7 +469,7 @@ ibn Muḥammad al-Madaní on chapters 50-54 of the *Insánu ’l-kámil*
 Office*, No. 667); M = the commentary by Jílí on the 559th chapter of
 Ibnu ’l-‘Arabí's *Futúḥátu ’l-Makkiyya* (Loth's Catalogue, No. 6931).
 
-<span id="fn_219"></span>[77:2](siim07.htm#fr_219) In the first chapter
+<span id="fn_219"></span>[77:2](siim07.htm#fr_219.md) In the first chapter
 of the *Fuṣúṣu ’l-ḥikam* (Cairo, <span class="smallcaps">a.h.</span>
 1321) Ibnu ’l-‘Arabí (*ob*. <span class="smallcaps">a.d.</span> 1240)
 says that when God willed that His attributes should be displayed, He
@@ -483,26 +483,26 @@ foll.), *i.e.*, enters fully into the state of *faná*; but here the term
 does not bear the peculiar significance attached to it by Ibnu ’l-‘Arabí
 and Jílí.
 
-<span id="fn_220"></span>[79:1](siim07.htm#fr_220) Prof. D. B.
+<span id="fn_220"></span>[79:1](siim07.htm#fr_220.md) Prof. D. B.
 Macdonald, *The religious attitude and life in Islam*, p. 163.
 
-<span id="fn_221"></span>[79:2](siim07.htm#fr_221) Hujwírí, *Kashf
+<span id="fn_221"></span>[79:2](siim07.htm#fr_221.md) Hujwírí, *Kashf
 al-Maḥjúb*, p. 228 of my translation.
 
-<span id="fn_222"></span>[79:3](siim07.htm#fr_222) Massignon renders, "I
+<span id="fn_222"></span>[79:3](siim07.htm#fr_222.md) Massignon renders, "I
 am the Creative Truth" (*Kitáb al-Ṭawásín*, p. 175). *Al-Ḥaqq* is the
 Creator as opposed to the creatures (*al-khalq*) and this seems to be
 the meaning in which Ḥalláj understood the term, but it is also applied
 to God conceived pantheistically as the one permanent reality. Cf. the
 article "Ḥaḳḳ" by Prof. D. B. Macdonald in *Encycl. of Islam*.
 
-<span id="fn_223"></span>[80:1](siim07.htm#fr_223) *Iḥyá* (Búláq, <span
+<span id="fn_223"></span>[80:1](siim07.htm#fr_223.md) *Iḥyá* (Búláq, <span
 class="smallcaps">a.h.</span> 1289), vol. IV, p. 294.
 
-<span id="fn_224"></span>[80:2](siim07.htm#fr_224) Massignon, *Kitáb
+<span id="fn_224"></span>[80:2](siim07.htm#fr_224.md) Massignon, *Kitáb
 al-Ṭawásín*, p. 129.
 
-<span id="fn_225"></span>[80:3](siim07.htm#fr_225) Contrast this with
+<span id="fn_225"></span>[80:3](siim07.htm#fr_225.md) Contrast this with
 the monistic expression of the same thought by Jílí (K I. 51, 1): "We
 are the spirit of One, though we dwell by turns in two bodies." So, too,
 Jalálu’ddín Rúmí (Divāni Shamsi Tabrīz, p. 153):
@@ -517,7 +517,7 @@ soul is pained by the body's pain in this world, while the body is
 pained by the soul's pain in the other world: then each of them appears
 in the other's form."
 
-<span id="fn_226"></span>[81:1](siim07.htm#fr_226) I do not know on what
+<span id="fn_226"></span>[81:1](siim07.htm#fr_226.md) I do not know on what
 authority Dr Goldziher in his article on Jílí in the *Encycl. of Islam*
 (vol. I, p. 46) connects the *nisba* with Jíl, a village in the district
 of Baghdád. Jílí calls himself <span id="img_08100"></span>
@@ -525,7 +525,7 @@ of Baghdád. Jílí calls himself <span id="img_08100"></span>
 Library, p. 182, col. I, l. 7 from foot). He traced his descent to a
 *sibṭ* of ‘Abdu ’l-Qádir, *i.e.*, to a son of the Shaykh's daughter.
 
-<span id="fn_227"></span>[81:2](siim07.htm#fr_227) He mentions (K II.
+<span id="fn_227"></span>[81:2](siim07.htm#fr_227.md) He mentions (K II.
 43, 20 foll.) that in <span class="smallcaps">a.h.</span> 790 = <span
 class="smallcaps">a.d.</span> 1388 he was in India at a place named
 Kúshí, where he conversed with a man under sentence of death for the
@@ -535,52 +535,52 @@ class="smallcaps">a.d.</span> 1393-4 (K II. 61, 20), and the latest
 <span class="smallcaps">a.h.</span> 805 =A. D. 1402-3 (Loth, *op. cit.*
 p. 183).
 
-<span id="fn_228"></span>[81:3](siim07.htm#fr_228) K I. 6, 4 foll.
+<span id="fn_228"></span>[81:3](siim07.htm#fr_228.md) K I. 6, 4 foll.
 
-<span id="fn_229"></span>[81:4](siim07.htm#fr_229) Cf. K I. 63, penult.
+<span id="fn_229"></span>[81:4](siim07.htm#fr_229.md) Cf. K I. 63, penult.
 and foll.
 
-<span id="fn_230"></span>[82:1](siim07.htm#fr_230) Jílí often uses
+<span id="fn_230"></span>[82:1](siim07.htm#fr_230.md) Jílí often uses
 logical arguments, but "the paradoxes proved by his logic are really the
 paradoxes of mysticism, and are the goal which he feels his logic must
 reach if it is to be in accordance with insight" (Bertrand Russell,
 "Mysticism and Logic" in the *Hibbert Journal*, vol. XII, No. 4, p.
 793).
 
-<span id="fn_231"></span>[82:2](siim07.htm#fr_231) K I. 4, 10 foll.
+<span id="fn_231"></span>[82:2](siim07.htm#fr_231.md) K I. 4, 10 foll.
 
-<span id="fn_232"></span>[82:3](siim07.htm#fr_232) K I. 39, 20 foll.
+<span id="fn_232"></span>[82:3](siim07.htm#fr_232.md) K I. 39, 20 foll.
 
-<span id="fn_233"></span>[82:4](siim07.htm#fr_233) K II. 34, 23 foll.
+<span id="fn_233"></span>[82:4](siim07.htm#fr_233.md) K II. 34, 23 foll.
 Cf. K I. 8, 6 foll. In the *Futúḥátu ’l-Makkiyya*, ch. 559. Ibnu
 ’l-‘Arabí likens the Divine Spirit in man to Yúḥ, "which is a name of
 the sun and refers to God (*al-Ḥaqq*), for He is the light of the
 heavens and the earth, and Man is a perfect and complete copy of Him" (M
 34 a).
 
-<span id="fn_234"></span>[82:5](siim07.htm#fr_234) Goldziher in *Encycl.
+<span id="fn_234"></span>[82:5](siim07.htm#fr_234.md) Goldziher in *Encycl.
 of Islam*. The heavenly man is the *summum genus*, the earthly man the
 *summa species* (M 40 a).
 
-<span id="fn_235"></span>[82:6](siim07.htm#fr_235) This doctrine is
+<span id="fn_235"></span>[82:6](siim07.htm#fr_235.md) This doctrine is
 called "the unity of Being" (*waḥdatu ’l-wujúd*).
 
-<span id="fn_236"></span>[83:1](siim07.htm#fr_236) K I. 20, 23 foll.
+<span id="fn_236"></span>[83:1](siim07.htm#fr_236.md) K I. 20, 23 foll.
 
-<span id="fn_237"></span>[83:2](siim07.htm#fr_237) *Fuṣúṣ* (Cairo, <span
+<span id="fn_237"></span>[83:2](siim07.htm#fr_237.md) *Fuṣúṣ* (Cairo, <span
 class="smallcaps">a.h.</span> 1312), 29, 78, 181, etc.
 
-<span id="fn_238"></span>[86:1](siim07.htm#fr_238) See Bousset,
+<span id="fn_238"></span>[86:1](siim07.htm#fr_238.md) See Bousset,
 *Hauptprobleme der Gnosis*, p. 160 foll.
 
-<span id="fn_239"></span>[86:2](siim07.htm#fr_239) K I. 10, 21 fol.
+<span id="fn_239"></span>[86:2](siim07.htm#fr_239.md) K I. 10, 21 fol.
 
-<span id="fn_240"></span>[87:1](siim07.htm#fr_240) See *Studies in
+<span id="fn_240"></span>[87:1](siim07.htm#fr_240.md) See *Studies in
 Islamic Poetry*, p. 174, note 3.
 
-<span id="fn_241"></span>[87:2](siim07.htm#fr_241) K I. ii, i foll.
+<span id="fn_241"></span>[87:2](siim07.htm#fr_241.md) K I. ii, i foll.
 
-<span id="fn_242"></span>[87:3](siim07.htm#fr_242) So in the
+<span id="fn_242"></span>[87:3](siim07.htm#fr_242.md) So in the
 pseudo-Clementine writings Adam or Christ, the true prophet and perfect
 incarnation of the Divine spirit, is represented as manifesting himself
 personally in a whole series of subsequent bearers of Revelation.
@@ -591,22 +591,22 @@ quasque generationes piis latenter licet semper tamen aderat." On the
 transmission of the Light of Mohammed see Goldziher's article cited in
 the next note.
 
-<span id="fn_243"></span>[87:4](siim07.htm#fr_243) An excellent survey
+<span id="fn_243"></span>[87:4](siim07.htm#fr_243.md) An excellent survey
 of the doctrine concerning the pre-existence of Mohammed, of the
 consequences drawn from it, and of the sources from which it was
 derived, will be found in Goldziher's *Neuplatonische und gnostische
 Elemente im Hadīṯ* (*Zeitschrift für Assyriologie*, vol. 22, p. 317
 foll.).
 
-<span id="fn_244"></span>[88:1](siim07.htm#fr_244) Borrowed from St
+<span id="fn_244"></span>[88:1](siim07.htm#fr_244.md) Borrowed from St
 John, ch. xiv. *v*. 9.
 
-<span id="fn_245"></span>[88:2](siim07.htm#fr_245) Jílí declares that
+<span id="fn_245"></span>[88:2](siim07.htm#fr_245.md) Jílí declares that
 wherever in his writings the expression "the Perfect Man" is used
 absolutely, it refers to Mohammed (K II. 59, 6).
 
-<span id="fn_246"></span>[88:3](siim07.htm#fr_246) See Appendix II.
+<span id="fn_246"></span>[88:3](siim07.htm#fr_246.md) See Appendix II.
 
 ------------------------------------------------------------------------
 
-[Next: I. Essence, Attribute, and Name](siim08)
+[Next: I. Essence, Attribute, and Name](siim08.md)

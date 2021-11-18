@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai08)  [Next](tai10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai08)  [Next](tai10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ the ceaseless task of beating off the successive swarms from Turania.
 
 ------------------------------------------------------------------------
 
-[Next: The Scandinavian Princes](tai10)
+[Next: The Scandinavian Princes](tai10.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ron04)  [Next](ron06) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ron04)  [Next](ron06.md) 
 
 ------------------------------------------------------------------------
 
@@ -840,14 +840,14 @@ It is Siegfried
 Who bids me wake!
 
 <span id="img_08800"></span> [![](tn/08800.jpg)  
-Click to enlarge](img/08800.jpg)
+Click to enlarge](img/08800.jpg.md)
 
 "Magical rapture  
 Pierces my heart  
 Fixed is my gaze,  
 Burning with terror;  
 I reel, my heart faints and fails!"  
-      See [p. 86](#page_86)
+      See [p. 86](#page_86.md)
 
  
 
@@ -951,12 +951,12 @@ Sweet can hear
 The singing of thy voice,
 
 <span id="img_09000"></span> [![](tn/09000.jpg)  
-Click to enlarge](img/09000.jpg)
+Click to enlarge](img/09000.jpg.md)
 
 "Sun, I hail thee  
 Hail, O light!  
 Hail, O glorious day!"  
-       See [p. 88](#page_88)
+       See [p. 88](#page_88.md)
 
  
 
@@ -1071,7 +1071,7 @@ Woe the affront,
 The bitter disgrace!
 
 <span id="img_09200"></span> [![](tn/09200.jpg)  
-Click to enlarge](img/09200.jpg)
+Click to enlarge](img/09200.jpg.md)
 
 Brünnhilde throws herself into Siegfried's arms  
     See p. 99
@@ -1320,7 +1320,7 @@ Its stately halls
 In the dust laid low!
 
 <span id="img_09700"></span> [![](tn/09700.jpg)  
-Click to enlarge](img/09700.jpg)
+Click to enlarge](img/09700.jpg.md)
 
 The three Norns  
         See p. 103
@@ -1386,4 +1386,4 @@ falls*.\]
 
 ------------------------------------------------------------------------
 
-[Next: Characters](ron06)
+[Next: Characters](ron06.md)

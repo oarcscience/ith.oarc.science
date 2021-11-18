@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Apocrypha](../apo/index)  [Index](index)  [Previous](did02) 
-[Next](did04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Apocrypha](../apo/index)  [Index](index)  [Previous](did02.md) 
+[Next](did04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Didache*, by Charles H. Hoole, \[1894\], at Intangible Textual
 Heritage
 
@@ -35,18 +35,18 @@ one of death, and the difference is great between the two paths.
 Now the path of life is this—first, thou shalt love the God who made
 thee, thy neighbour as thyself, and all things that thou wouldest not
 should be done unto thee, do not thou unto another. <span
-id="fr_10"></span>[1](#fn_10) And the doctrine of these maxims is as
+id="fr_10"></span>[1](#fn_10.md) And the doctrine of these maxims is as
 follows. Bless them that curse you, and pray for your enemies. <span
-id="fr_11"></span>[2](#fn_11) Fast on behalf of those that persecute
+id="fr_11"></span>[2](#fn_11.md) Fast on behalf of those that persecute
 you; for what thank is there if ye love them that love you? do not even
 the Gentiles do the same But do ye love them that hate you, and ye will
 not have an enemy. Abstain from fleshly and worldly lusts. <span
-id="fr_12"></span>[3](#fn_12) If any one give thee a blow on thy right
+id="fr_12"></span>[3](#fn_12.md) If any one give thee a blow on thy right
 cheek, turn unto him the other also, and thou shalt be perfect; if any
 one compel thee to go a mile, go with him two; if a man take away thy
 cloak, give him thy coat also; if a man take from thee what is thine,
 ask not for it again, for neither art thou able to do so. <span
-id="fr_13"></span>[4](#fn_13) Give to every one that asketh of thee, and
+id="fr_13"></span>[4](#fn_13.md) Give to every one that asketh of thee, and
 ask not again, for the Father wishes that from his own gifts there
 should
 
@@ -58,7 +58,7 @@ receive being in need, he shall be free from guilt; but he who receiveth
 when not in need, shall pay a penalty as to why he received and for what
 purpose; and when he is in tribulation he shall be examined concerning
 the things that he bas done, and shall not depart thence until be has
-paid the last farthing. <span id="fr_14"></span>[1](#fn_14) For of a
+paid the last farthing. <span id="fr_14"></span>[1](#fn_14.md) For of a
 truth it has been said on these matters, Let thy almsgiving abide in thy
 hands until thou knowest to whom thou hast given.
 
@@ -94,7 +94,7 @@ be not covetous or conceited, for from all these things thefts arise. My
 child, be not a murmurer, since it leadeth unto blasphemy; be not
 self-willed or evil-minded, for from all these things blasphemies are
 produced; but be thou meek, for the meek shall inherit the earth; <span
-id="fr_15"></span>[1](#fn_15) be thou long-suffering, and compassionate,
+id="fr_15"></span>[1](#fn_15.md) be thou long-suffering, and compassionate,
 and harmless, and peaceable, and good, and fearing alway the words that
 thou hast heard. Thou shalt not exalt thyself, neither shalt thou put
 boldness into thy soul. Thy soul shall not be joined unto the lofty, but
@@ -126,7 +126,7 @@ thy servant or thy handmaid, who hope in the same God as thyself, lest
 they fear not in consequence the God who is over both; for he cometh not
 to call with respect of persons, but those whom the Spirit hath
 prepared. And do ye servants submit yourselves to your masters <span
-id="fr_16"></span>[1](#fn_16) with reverence and fear, as being the type
+id="fr_16"></span>[1](#fn_16.md) with reverence and fear, as being the type
 of God. Thou shalt hate all hypocrisy and everything that is not
 pleasing to God; thou shalt not abandon the commandments of the Lord,
 but shalt guard that which thou hast received, neither adding thereto
@@ -176,13 +176,13 @@ shalt command him who is baptized to fast one or two days before.
 VIII\. But as for your fasts, let them not be with the hypocrites, for
 they fast on the second and fifth days of the week, but do ye fast on
 the fourth and sixth days. Neither pray ye as the hypocrites, <span
-id="fr_17"></span>[1](#fn_17) but as the Lord hath commanded in his
+id="fr_17"></span>[1](#fn_17.md) but as the Lord hath commanded in his
 Gospel so pray ye: Our Father in heaven, hallowed be thy name. Thy
 kingdom come. Thy will be done as in heaven so on earth. Give us this
 day our daily bread. And forgive us our debt, as we also forgive our
 debtors. And lead us not into temptation, but deliver us from the evil:
 for thine is the power, and the glory, for ever. <span
-id="fr_18"></span>[2](#fn_18) Thrice a day pray ye in this fashion.
+id="fr_18"></span>[2](#fn_18.md) Thrice a day pray ye in this fashion.
 
 IX\. But concerning the Eucharist, after this fashion give ye thanks.
 First, concerning the cup. We thank thee, our Father, for the holy vine,
@@ -200,7 +200,7 @@ of the Lord, for of a truth the Lord hath
 <span id="page_81">p. 81</span>
 
 said concerning this, Give not that which is holy unto dogs. <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 X. But after it has been completed, so pray ye. We thank thee, holy
 Father, for thy holy name, which thou hast caused to dwell in our
@@ -216,7 +216,7 @@ and gather it together from the four winds, even that which has been
 sanctified for thy kingdom which thou hast prepared for it; for thine is
 the kingdom and the glory for ever. Let grace come, and let this world
 pass away. Hosanna to the Son of David. <span
-id="fr_20"></span>[2](#fn_20) If any one is holy, let him come (to the
+id="fr_20"></span>[2](#fn_20.md) If any one is holy, let him come (to the
 Eucharist); if any one is not, let him repent. Maranatha. Amen. But
 charge the prophets to give thanks, so far as they are willing to do so.
 
@@ -236,7 +236,7 @@ apostle when departing take nothing but bread until he arrive at his
 resting-place; but if he ask for money, he is a false prophet. And ye
 shall not attempt or dispute with any prophet who speaketh in the
 spirit; for every sin shall be forgiven, but this sin shall not be
-forgiven. <span id="fr_21"></span>[1](#fn_21) But not every one who
+forgiven. <span id="fr_21"></span>[1](#fn_21.md) But not every one who
 speaketh in the spirit is a prophet, but he is so who hath the
 disposition of the Lord; by their disposition they therefore shall be
 known, the false prophet and the prophet. And every prophet who ordereth
@@ -259,7 +259,7 @@ assist him so far as ye are able; but he will not remain
 <span id="page_83">p. 83</span>
 
 with you more than two or three days, unless there be a necessity. <span
-id="fr_22"></span>[1](#fn_22) But if he wish to settle with you, being a
+id="fr_22"></span>[1](#fn_22.md) But if he wish to settle with you, being a
 craftsman, let him work, and so eat; but if he know not any craft,
 provide ye according to your own discretion, that a Christian may not
 live idle among you; but if he be not willing to do so, he is a
@@ -284,7 +284,7 @@ with his companion join with you, until they be reconciled, that your
 sacrifice may not be polluted, for it is that which is spoken of by the
 Lord. In every place and time offer unto me a pure sacrifice, for I am a
 great King, saith the Lord, and my name is wonderful among the
-Gentiles. <span id="fr_23"></span>[2](#fn_23)
+Gentiles. <span id="fr_23"></span>[2](#fn_23.md)
 
 <span id="page_84">p. 84</span>
 
@@ -297,12 +297,12 @@ peaceably, as ye have commandment in the Gospel; and, but let no one
 speak to any one who walketh disorderly with regard to his neighbour,
 neither let him be heard by you until he repent. But your prayers and
 your almsgivings and all your deeds so do, as ye have commandment in the
-Gospel of our Lord. <span id="fr_24"></span>[1](#fn_24)
+Gospel of our Lord. <span id="fr_24"></span>[1](#fn_24.md)
 
 Watch concerning your life; let not your lamps be quenched or your loins
-be loosed, <span id="fr_25"></span>[2](#fn_25) but be ye ready, for ye
+be loosed, <span id="fr_25"></span>[2](#fn_25.md) but be ye ready, for ye
 know not the hour at which our Lord cometh. <span
-id="fr_26"></span>[3](#fn_26) But be ye gathered together frequently,
+id="fr_26"></span>[3](#fn_26.md) But be ye gathered together frequently,
 seeking what is suitable for your souls; for the whole time of your
 faith shall profit you not, unless ye be found perfect in the last time.
 For in the last days false prophets and seducers shall be multiplied,
@@ -323,54 +323,54 @@ signs of the truth; first the sign of the appearance in heaven, then the
 sign of the sound of the trumpet; and thirdly, the resurrection of the
 dead—not of all, but as it has been said, The Lord shall come and all
 his saints with him; then shall the world behold the Lord coming on the
-clouds of heaven. <span id="fr_27"></span>[1](#fn_27)
+clouds of heaven. <span id="fr_27"></span>[1](#fn_27.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_10"></span>[75:1](did03.htm#fr_10) Matt. xxv. 40.
+<span id="fn_10"></span>[75:1](did03.htm#fr_10.md) Matt. xxv. 40.
 
-<span id="fn_11"></span>[75:2](did03.htm#fr_11) Luke vi. 28.
+<span id="fn_11"></span>[75:2](did03.htm#fr_11.md) Luke vi. 28.
 
-<span id="fn_12"></span>[75:3](did03.htm#fr_12) Matt. v. 29.
+<span id="fn_12"></span>[75:3](did03.htm#fr_12.md) Matt. v. 29.
 
-<span id="fn_13"></span>[75:4](did03.htm#fr_13) Luke vi. 29.
+<span id="fn_13"></span>[75:4](did03.htm#fr_13.md) Luke vi. 29.
 
-<span id="fn_14"></span>[76:1](did03.htm#fr_14) Matt. v. 26.
+<span id="fn_14"></span>[76:1](did03.htm#fr_14.md) Matt. v. 26.
 
-<span id="fn_15"></span>[77:1](did03.htm#fr_15) Matt. v. 5.
+<span id="fn_15"></span>[77:1](did03.htm#fr_15.md) Matt. v. 5.
 
-<span id="fn_16"></span>[78:1](did03.htm#fr_16) Colos. iii. 22; Ephes.
+<span id="fn_16"></span>[78:1](did03.htm#fr_16.md) Colos. iii. 22; Ephes.
 vi. 5.
 
-<span id="fn_17"></span>[80:1](did03.htm#fr_17) Matt. vi. 7, 9.
+<span id="fn_17"></span>[80:1](did03.htm#fr_17.md) Matt. vi. 7, 9.
 
-<span id="fn_18"></span>[80:2](did03.htm#fr_18) Luke xi. 2.
+<span id="fn_18"></span>[80:2](did03.htm#fr_18.md) Luke xi. 2.
 
-<span id="fn_19"></span>[81:1](did03.htm#fr_19) Matt. vii. 6.
+<span id="fn_19"></span>[81:1](did03.htm#fr_19.md) Matt. vii. 6.
 
-<span id="fn_20"></span>[81:2](did03.htm#fr_20) Matt. xxi. 9.
+<span id="fn_20"></span>[81:2](did03.htm#fr_20.md) Matt. xxi. 9.
 
-<span id="fn_21"></span>[82:1](did03.htm#fr_21) Matt. xii. 31.
+<span id="fn_21"></span>[82:1](did03.htm#fr_21.md) Matt. xii. 31.
 
-<span id="fn_22"></span>[83:1](did03.htm#fr_22) Ignatius, Epistle to
+<span id="fn_22"></span>[83:1](did03.htm#fr_22.md) Ignatius, Epistle to
 Romans, c. ix.
 
-<span id="fn_23"></span>[83:2](did03.htm#fr_23) Mal. i. 11.
+<span id="fn_23"></span>[83:2](did03.htm#fr_23.md) Mal. i. 11.
 
-<span id="fn_24"></span>[84:1](did03.htm#fr_24) Matt. xvi. 15.
+<span id="fn_24"></span>[84:1](did03.htm#fr_24.md) Matt. xvi. 15.
 
-<span id="fn_25"></span>[84:2](did03.htm#fr_25) Luke xii. 35.
+<span id="fn_25"></span>[84:2](did03.htm#fr_25.md) Luke xii. 35.
 
-<span id="fn_26"></span>[84:3](did03.htm#fr_26) Matt. xxiv. 42.
+<span id="fn_26"></span>[84:3](did03.htm#fr_26.md) Matt. xxiv. 42.
 
-<span id="fn_27"></span>[85:1](did03.htm#fr_27) Zech. xiv. 5.
+<span id="fn_27"></span>[85:1](did03.htm#fr_27.md) Zech. xiv. 5.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Notes](did04)
+[Next: Notes](did04.md)
 
 </div>

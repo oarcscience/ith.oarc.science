@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce27)  [Next](sce29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce27)  [Next](sce29.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ those of Rerrick, *Obeah*, by Mr. H. J. Bell, may be consulted.
 
 ------------------------------------------------------------------------
 
-[Next: Notes](sce29)
+[Next: Notes](sce29.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index)  [Index](index) 
-[Previous](vob19)  [Next](vob21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index)  [Index](index.md) 
+[Previous](vob19)  [Next](vob21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014043268X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014043268X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1262,4 +1262,4 @@ one bright spot, and that is Waimate, with its Christian inhabitants.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX](vob21)
+[Next: Chapter XIX](vob21.md)

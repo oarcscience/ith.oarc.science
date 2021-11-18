@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp13)  [Next](twp15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp13)  [Next](twp15.md) 
 
 ------------------------------------------------------------------------
 
@@ -361,4 +361,4 @@ the boundless future which awaits the race.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](twp15)
+[Next: Chapter XIII](twp15.md)

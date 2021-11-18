@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth42)  [Next](doth44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth42)  [Next](doth44.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### (<span class="smallcaps">From the Gate of Repentance.</span> <span id="fr_16"></span>[\*](#fn_15))
+### (<span class="smallcaps">From the Gate of Repentance.</span> <span id="fr_16"></span>[\*](#fn_15).md)
 
 ### <span class="smallcaps">What is Repentance?</span>
 
@@ -78,12 +78,12 @@ The second kind of repentance is that of him who repents in his heart
 and in his physical and material conduct, and makes a firm stand with
 his reason against his passions, and so orders his conduct and his
 habits of life as to compel his soul <span
-id="fr_17"></span>[\*](#fn_16) to fight with her desires until he is
+id="fr_17"></span>[\*](#fn_16.md) to fight with her desires until he is
 victorious and is able to refrain from what is hateful to the Creator;
-but his soul <span id="fr_18"></span>[\*](#fn_16) still has pleasure in
+but his soul <span id="fr_18"></span>[\*](#fn_16.md) still has pleasure in
 turning continually towards what is contrary to the service of the
 Creator, and thirsts after transgression, and he strives earnestly to
-subdue his soul <span id="fr_19"></span>[\*](#fn_16) and his passions;
+subdue his soul <span id="fr_19"></span>[\*](#fn_16.md) and his passions;
 and sometimes he prevails and sometimes they. Such a man is not perfect
 in his repentance, and the duty of making atonement is still incumbent
 upon him until he shall depart altogether from transgressions.
@@ -92,10 +92,10 @@ The third kind of repentance is when a man fulfils
 
 <span id="page_54">p. 54</span>
 
-the conditions of repentance <span id="fr_20"></span>[\*](#fn_17) and
+the conditions of repentance <span id="fr_20"></span>[\*](#fn_17.md) and
 causes his intellect to prevail over his desires, and accustoms himself
 continually to enter into reckoning with his soul, <span
-id="fr_21"></span>[†](#fn_18) and fears his Creator, and is ashamed
+id="fr_21"></span>[†](#fn_18.md) and fears his Creator, and is ashamed
 before Him, and lays to heart the greatness of his sins, and fully
 recognises the greatness of Him against whom he has sinned and whose
 word he has transgressed, and sets his iniquities before his eyes, and
@@ -107,10 +107,10 @@ the Creator, fit to be saved.
 
 ### Footnotes
 
-<span id="fn_15"></span>[51:\*](doth43.htm#fr_16) The only Hebrew word
+<span id="fn_15"></span>[51:\*](doth43.htm#fr_16.md) The only Hebrew word
 for repentance is *teshubah*, from *shub*, to return.
 
-<span id="fn_16"></span>[53:\*](doth43.htm#fr_19) The word that I have
+<span id="fn_16"></span>[53:\*](doth43.htm#fr_19.md) The word that I have
 here translated soul is *nefesh*, a word generally so rendered in the
 English Bible; but it is used of the life principle, and sometimes
 merely as a synonym for self. The Hebrew word for soul in the purely
@@ -118,16 +118,16 @@ spiritual sense of that word is *neshamah*; while yet a third, *ruach*,
 is an exact equivalent for our word *spirit*, both in the primary sense
 of breath and in its higher secondary significance.
 
-<span id="fn_17"></span>[54:\*](doth43.htm#fr_20) Bachye devotes a long
+<span id="fn_17"></span>[54:\*](doth43.htm#fr_20.md) Bachye devotes a long
 chapter to describing these conditions.
 
-<span id="fn_18"></span>[54:†](doth43.htm#fr_21) See footnote, [p.
-53](#page_53).
+<span id="fn_18"></span>[54:†](doth43.htm#fr_21.md) See footnote, [p.
+53](#page_53.md).
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Motives to Repentance](doth44)
+[Next: The Motives to Repentance](doth44.md)
 
 </div>

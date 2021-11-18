@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](mrm06)  [Next](mrm08) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](mrm06)  [Next](mrm08.md) 
 
 ------------------------------------------------------------------------
 
@@ -589,4 +589,4 @@ other, Kahu said to Ihenga, "Go, seek lands for your child."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Claiming and Naming Land](mrm08)
+[Next: Chapter VI. Claiming and Naming Land](mrm08.md)

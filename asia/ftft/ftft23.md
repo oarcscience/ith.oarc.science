@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft22)  [Next](ftft24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft22)  [Next](ftft24.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_174">p. 174</span>
 
-<span id="img_17400"></span> ![The Magic Hair-Pins](img/17400.jpg)
+<span id="img_17400"></span> ![The Magic Hair-Pins](img/17400.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a Padishah whose daughter was so beautiful that her
 loveliness was without equal in the world.<span id="img_17401"></span>
@@ -90,13 +90,13 @@ door: "The door is locked." "My daughter," returned the woman, "having
 heard that you are their sister, I have brought you also a present of
 some hair pins; hold your head close to the keyhole that I may stick
 them in." Suspecting no evil the girl put her head to the key. hole. The
-woman stuck the pins [into](errata.htm#3) the Princess's head, and she
+woman stuck the pins [into](errata.htm#3.md) the Princess's head, and she
 fell down dead immediately. Having thus accomplished her revenge, the
 Sultana went straight back to the serai.<span id="img_17600"></span>
 
 |                                                                    |
 |--------------------------------------------------------------------|
-| ![The woman stuck the pins into the Princess' head](img/17600.jpg) |
+| ![The woman stuck the pins into the Princess' head](img/17600.jpg.md) |
 
 When towards evening the brothers returned from hunting and entered the
 house, they saw the dead body of the maiden lying by the door. They
@@ -162,7 +162,7 @@ regarding its wonderful plumage.<span id="img_17800"></span>
 
 |                                          |
 |------------------------------------------|
-| ![The woman was startled](img/17800.jpg) |
+| ![The woman was startled](img/17800.jpg.md) |
 
 When first the Prince's wife saw the bird she recognised it as the
 maiden of the casket, and made up her mind to destroy it as soon as
@@ -184,7 +184,7 @@ stalk. "What wonderful flower is this?" exclaimed the woman.
 <span id="img_17900"></span>
 
 [![The Prince started in pursuit of it](tn/17900.jpg)  
-Click to enlarge](img/17900.jpg)  
+Click to enlarge](img/17900.jpg.md)  
 The Prince started in pursuit of it  
 
 <span id="page_180">p. 180</span>
@@ -242,4 +242,4 @@ maiden of the golden casket. Thus they lived happily ever afterwards.
 
 ------------------------------------------------------------------------
 
-[Next: Patience-Stone and Patience-Knife](ftft24)
+[Next: Patience-Stone and Patience-Knife](ftft24.md)

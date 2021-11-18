@@ -1,23 +1,23 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca15)  [Next](fsca17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca15)  [Next](fsca17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
 <span id="img_07400"></span> ![St. George and the
-Dragon.](img/07400.jpg)
+Dragon.](img/07400.jpg.md)
 
 <div style="margin-left: 32px">
 
@@ -205,7 +205,7 @@ The town of <span class="smallcaps">Worms</span> (famous as the place at
 which the Diet of Worms was held before which the reformer Luther was
 summoned) owes its name to the "Lind-wurm" or dragon there conquered by
 the hero Siegfried as related in the "Nibelungen Lied." (*See* [p.
-100](fsca21.htm#page_100).)
+100](fsca21.htm#page_100)..md)
 
 <span id="page_81">p. 81</span>
 
@@ -255,10 +255,10 @@ let loose"—in which Claverhouse took a leading part.
 "In mediæval alchemy the dragon seems to have been the emblem of
 Mercury; hence the dragon became one of the 'properties' of the chemist
 and apothecary, was painted upon his drug pots, hung up as his sign, and
-some dusty stuffed [crocodile](errata.htm#0) hanging from the ceiling in
+some dusty stuffed [crocodile](errata.htm#0.md) hanging from the ceiling in
 the laboratory had to do service for the monster, And inspire the vulgar
 with a profound awe of the mighty man who had conquered the vicious
-reptile." <span id="fr_5"></span>[\*](#fn_5)
+reptile." <span id="fr_5"></span>[\*](#fn_5.md)
 
 When apothecaries’ signs were not derived from heraldry, they were used
 to typify certain chemical
@@ -274,8 +274,8 @@ the greatest medicament," and much more of similar import.
 
 ### Footnotes
 
-<span id="fn_5"></span>[82:\*](fsca16.htm#fr_5) "History of Signboards."
+<span id="fn_5"></span>[82:\*](fsca16.htm#fr_5.md) "History of Signboards."
 
 ------------------------------------------------------------------------
 
-[Next: The Dragon in the Royal Heraldry of Britain](fsca17)
+[Next: The Dragon in the Royal Heraldry of Britain](fsca17.md)

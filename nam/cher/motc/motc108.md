@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc107) 
-[Next](motc109) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc107.md) 
+[Next](motc109.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ privileges have been tolerated among the Cherokees."\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: 109. The War Medicine](motc109)
+[Next: 109. The War Medicine](motc109.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu19)  [Next](cbu21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu19)  [Next](cbu21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -317,7 +317,7 @@ best with the legends.
 
 Here Kwan-yin would, in expounding the *dharma* that is to save living
 beings, seem more in her place than on a mountain of the main-land. This
-is an appropriate *tau-c‘hang* <span id="fr_108"></span>[1](#fn_108) for
+is an appropriate *tau-c‘hang* <span id="fr_108"></span>[1](#fn_108.md) for
 her, where she can be at hand to rescue sailors from the dangers of the
 sea, and where crowds of pilgrims will in fair weather not be wanting to
 receive the benefit of her instructions.
@@ -326,10 +326,10 @@ receive the benefit of her instructions.
 
 ### Footnotes
 
-<span id="fn_108"></span>[267:1](cbu20.htm#fr_108) *Tau-c‘hang*, "Place
+<span id="fn_108"></span>[267:1](cbu20.htm#fr_108.md) *Tau-c‘hang*, "Place
 of doctrine."
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XVI. Buddhist Processions, Associations, Pilgrimages, and
-Ceremonies for the Dead](cbu21)
+Ceremonies for the Dead](cbu21.md)

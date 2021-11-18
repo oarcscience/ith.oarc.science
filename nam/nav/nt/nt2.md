@@ -1,15 +1,15 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index) [Index](index) [Previous](nt1) [Next](nt3)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index) [Index](index) [Previous](nt1) [Next](nt3.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_148">p. 148</span>
 
-## O<span class="small">RIGIN OF</span> S<span class="small">OME</span> N<span class="small">AVAJO</span> C<span class="small">USTOMS</span><span id="page_148_fr_1"></span>[1](#page_148_note_1)
+## O<span class="small">RIGIN OF</span> S<span class="small">OME</span> N<span class="small">AVAJO</span> C<span class="small">USTOMS</span><span id="page_148_fr_1"></span>[1](#page_148_note_1.md)
 
  Times were hard in the world. Everywhere there were beings who were
 eating people. One day a dark rain cloud was seen resting on the top of
-*tc’ol’i*.<span id="page_148_fr_2"></span>[2](#page_148_note_2) The next
+*tc’ol’i*.<span id="page_148_fr_2"></span>[2](#page_148_note_2.md) The next
 day the rain was seen to be falling nearly to the middle of the
 mountain. The third day it reached well beyond the middle and the fourth
 day the rain enveloped the entire mountain and was falling at its base.
@@ -54,7 +54,7 @@ he was ready to return the song had for a refrain, “I start home.” On
 the way back he sang a similar song saying, “I am traveling home.” This
 was followed by one with the refrain, “I have returned.” The final song
 has for a refrain, “I sit down again.”<span
-id="page_148_fr_3"></span>[3](#page_148_note_3)
+id="page_148_fr_3"></span>[3](#page_148_note_3.md)
 
  When First Man came to the top of the mountain he heard a baby crying.
 The lightning striking all about and murk caused by the hard rain <span
@@ -71,7 +71,7 @@ through these a sunbeam was laced back and forth.
 cradle and all, and started home with the songs mentioned above. When he
 arrived he called out. “Old woman, it is a baby, I found it there where
 it is black night with rain clouds.”<span
-id="page_149_fr_1"></span>[1](#page_149_note_1) “Ee,” First Woman
+id="page_149_fr_1"></span>[1](#page_149_note_1.md) “Ee,” First Woman
 exclaimed. They heard immediately *xawu‛*, *xawu‛*, *xawu‛*, the call of
 Mirage *xactc’εxti*. This was followed by *xuuuxu Xuuuxu Xuuuxu wuwuoo*,
 the cry of his companion Mirage *xactc’εoγan*. The two gods came in with
@@ -85,7 +85,7 @@ the fire, pulled the string and the lacing came free in both directions.
 underneath. There will be a row of loops on either side made of string.
 The bark of the cliff rose, shredded and rubbed fine will be used under
 the child for a bed.”<span
-id="page_149_fr_2"></span>[2](#page_149_note_2) It was a girl.
+id="page_149_fr_2"></span>[2](#page_149_note_2.md) It was a girl.
 
  “Ee,” said First Woman, “*citc’ε* (my daughter, woman speaking) she
 shall be.” First Man said, “She will be *sitsi’* ” (my daughter, man
@@ -134,7 +134,7 @@ be menstruating.
 
  “Mother, something is passing from me,” she said. “That, my daughter,
 is called *tsidεsdla*.<span
-id="page_150_fr_2"></span>[2](#page_150_note_2) A girl will reach
+id="page_150_fr_2"></span>[2](#page_150_note_2.md) A girl will reach
 puberty at thirteen years of age.” When all had passed she washed in a
 white shell basket, in a turquoise basket, in an abalone shell basket,
 and finally in a jet basket.
@@ -181,7 +181,7 @@ Her speech being fortunate I dress her.<br />
 at the bottom, and on it a blanket of white cotton, third, an
 embroidered black one, and fourth, a white coyote skin blanket. The girl
 lay face down on this bed stretched out.<span
-id="page_151_fr_1"></span>[1](#page_151_note_1)
+id="page_151_fr_1"></span>[1](#page_151_note_1.md)
 
  “From here one runs in a sunwise circuit and then one should jump over
 to the place behind the fire. There you have finished running. With soft
@@ -295,7 +295,7 @@ When one day had passed she said, “Something flows from me again.” “That
 is called *tcedji’na’*. It ceases after four days have passed. Because
 of that the flowing of a menstruating woman will cease in four days.
 She, menstruating, was lustful. She went to the top of a hill called
-*tondiłkons*<span id="page_153_fr_1"></span>[1](#page_153_note_1) and
+*tondiłkons*<span id="page_153_fr_1"></span>[1](#page_153_note_1.md) and
 spread her thighs toward the rising sun so that the rays might enter
 her. Later in the day when the Sun reached the center of the sky where
 he feeds his horse at noon, she went where the dripping water falls and
@@ -311,7 +311,7 @@ do not do that, my daughter.” First Woman replied. “I will run and be
 back quickly,” the girl said. “There are dangers there, many of those
 who eat people run about,” her mother warned her. “No, mother, I will
 come back quickly with the threshed seeds. I also am not entirely
-ignorant.<span id="page_153_fr_2"></span>[2](#page_153_note_2) I will be
+ignorant.<span id="page_153_fr_2"></span>[2](#page_153_note_2.md) I will be
 wary,” the girl said. “All right then, go on, daughter,” her mother
 replied.
 
@@ -357,7 +357,7 @@ The sun set and it grew dark. He spread down a white blanket and put
 down a vessel of boiled food on one side of it. The girl sat on the
 right side and First Man on the left. The cooked food stood there in a
 vessel. When it was quite dark<span
-id="page_154_fr_1"></span>[1](#page_154_note_1) First Man went away, but
+id="page_154_fr_1"></span>[1](#page_154_note_1.md) First Man went away, but
 *yołgaiałεd* passed the night there. When it was daylight footprints
 were seen from the doorway on the right side. One (vessel) of the cooked
 food was gone. First Man returned saying, “How is it, my daughter?”
@@ -408,7 +408,7 @@ once.”
  They ran back and asked, “Who is our father?” “Oh you are everybody’s
 kin,” she replied. After a while they said again, “Who is our father?”
 “Barrel-cactus was your father.<span
-id="page_155_fr_1"></span>[1](#page_155_note_1) That is why your heads
+id="page_155_fr_1"></span>[1](#page_155_note_1.md) That is why your heads
 are bushy.” When some time had again passed they asked the same question
 again. “Sitting-cactus was your father.” When some time had passed again
 they said, “What were you saying? You are everybody’s kin. You had no
@@ -446,7 +446,7 @@ of vegetation everywhere for the benefit of the people of the earth.”
 
  Water Coyote ran about over there on the other side. He stepped out
 first. After him came First Man and then First Woman. After came First
-Warrior.<span id="page_156_fr_1"></span>[1](#page_156_note_1) They
+Warrior.<span id="page_156_fr_1"></span>[1](#page_156_note_1.md) They
 started toward the east and First Woman began to speak, saying bad
 things. “When I think of anything, something bad will happen. There will
 be coughs when I think of something. I will cause different things by
@@ -478,7 +478,7 @@ Those that will not die lie in it.
 
 ------------------------------------------------------------------------
 
-[Next](nt3)
+[Next](nt3.md)
 
 ------------------------------------------------------------------------
 
@@ -486,64 +486,64 @@ Those that will not die lie in it.
 
 <span id="footnotes_page_148">p. 148</span>
 
-<span id="page_148_note_1"></span>[1](#page_148_fr_1) First Man and
+<span id="page_148_note_1"></span>[1](#page_148_fr_1.md) First Man and
 First Woman were living on the mountain which the Navajo call
 *dzıłna’odıłi*. It has been identified with Huerfano Mountain in San
 Juan County, New Mexico, but verification should be made.
 
-<span id="page_148_note_2"></span>[2](#page_148_fr_2) A mountain peak
+<span id="page_148_note_2"></span>[2](#page_148_fr_2.md) A mountain peak
 about twenty miles east of *dzıłna’odıłi*. The relative positions were
 shown by a drawing on the sand.
 
-<span id="page_148_note_3"></span>[3](#page_148_fr_3) There are no doubt
+<span id="page_148_note_3"></span>[3](#page_148_fr_3.md) There are no doubt
 eight songs, the first being, “I set out.” When songs of this character,
 that is of magical power, are given incidentally, sometimes one song is
 withheld preventing the transfer of the power.
 
 <span id="footnotes_page_149">p. 149</span>
 
-<span id="page_149_note_1"></span>[1](#page_149_fr_1) Matthews recorded
+<span id="page_149_note_1"></span>[1](#page_149_fr_1.md) Matthews recorded
 a version in which First Woman made the journey and found the baby,
 *Legends*, p. 230.
 
-<span id="page_149_note_2"></span>[2](#page_149_fr_2) It was explained
+<span id="page_149_note_2"></span>[2](#page_149_fr_2.md) It was explained
 that *xackc’εłti* took the supernatural cradle away.
 
 <span id="footnotes_page_150">p. 150</span>
 
-<span id="page_150_note_1"></span>[1](#page_150_fr_1) Tied to the crown
+<span id="page_150_note_1"></span>[1](#page_150_fr_1.md) Tied to the crown
 of her head.
 
-<span id="page_150_note_2"></span>[2](#page_150_fr_2) Seems to refer to
+<span id="page_150_note_2"></span>[2](#page_150_fr_2.md) Seems to refer to
 the footrace which is a feature of the first menstruation.
 
 <span id="footnotes_page_151">p. 151</span>
 
-<span id="page_151_note_1"></span>[1](#page_151_fr_1) While one lies in
+<span id="page_151_note_1"></span>[1](#page_151_fr_1.md) While one lies in
 this position she is kneaded and stretehed into a beautiful shape.
 
 <span id="footnotes_page_153">p. 153</span>
 
-<span id="page_153_note_1"></span>[1](#page_153_fr_1) This is a place so
+<span id="page_153_note_1"></span>[1](#page_153_fr_1.md) This is a place so
 named on the east side of *dzılna’odıłi*.
 
-<span id="page_153_note_2"></span>[2](#page_153_fr_2) Meaning of magical
+<span id="page_153_note_2"></span>[2](#page_153_fr_2.md) Meaning of magical
 protection.
 
 <span id="footnotes_page_154">p. 154</span>
 
-<span id="page_154_note_1"></span>[1](#page_154_fr_1) Ten o’clock was
+<span id="page_154_note_1"></span>[1](#page_154_fr_1.md) Ten o’clock was
 mentioned as the time.
 
 <span id="footnotes_page_155">p. 155</span>
 
-<span id="page_155_note_1"></span>[1](#page_155_fr_1) Past tense is
+<span id="page_155_note_1"></span>[1](#page_155_fr_1.md) Past tense is
 indicated by a suffix on the subject indicating he (Barrel-cactus) was
 dead.
 
 <span id="footnotes_page_156">p. 156</span>
 
-<span id="page_156_note_1"></span>[1](#page_156_fr_1) Coyote.
+<span id="page_156_note_1"></span>[1](#page_156_fr_1.md) Coyote.
 
  
 

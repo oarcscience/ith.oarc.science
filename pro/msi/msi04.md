@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](msi03)  [Next](msi05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](msi03)  [Next](msi05.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,4 +150,4 @@ having been fulfilled before the middle of the XVII Century.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fifth](msi05)
+[Next: Chapter Fifth](msi05.md)

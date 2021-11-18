@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma09)  [Next](oma11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma09)  [Next](oma11.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,24 +36,24 @@ the katsina were treated much as human visitors.)
 Iatiku was satisfied that everything worked well with the katsina part.
 But she saw that the Antelope clan was carrying too much of the burden,
 so she thought of making another officer to be called tsa'tia
-hochani, <span id="fr_59"></span>[60](#fn_59) the war chief. She
+hochani, <span id="fr_59"></span>[60](#fn_59.md) the war chief. She
 selected the first man in the Sky clan, because he was to rule on the
 outside. He was to be above the Eagle Man, that is, to rank above him
 and above all other officers. Whatever he says goes. In the old days
 this office was always from the Sky clan. <span
-id="fr_60"></span>[61](#fn_60) Iatiku called this man and said, "I am
+id="fr_60"></span>[61](#fn_60.md) Iatiku called this man and said, "I am
 going to make you tsa'tia hochani." So she made for him what is called
-hachamoni kaiok <span id="fr_61"></span>[62](#fn_61) (broken prayer
-stick) ([pl. 5, fig. 2](oma38.htm#img_pl05b)). It has the four trails
+hachamoni kaiok <span id="fr_61"></span>[62](#fn_61.md) (broken prayer
+stick) ([pl. 5, fig. 2](oma38.htm#img_pl05b).md). It has the four trails
 
 <span id="page_26">p. 26</span>
 
 marked on the four sides. This would extend from the earth up to the
-sky. <span id="fr_62"></span>[63](#fn_62) She gave it to him and told
+sky. <span id="fr_62"></span>[63](#fn_62.md) She gave it to him and told
 him, "When you hold it clasped in your hands, you are drawing all the
 people together so they will not be scattered. With this you will have
 great power over all the rest of the people. You will have them tucked
-under your arms, <span id="fr_63"></span>[64](#fn_63) and their minds
+under your arms, <span id="fr_63"></span>[64](#fn_63.md) and their minds
 will be tucked in your temples" (meaning "you will do their thinking for
 them and speak for them; you will be their mind"). Then Iatiku taught
 him his prayers. His prayers should always start from Shipapu. After
@@ -62,7 +62,7 @@ west, south, and east. This is a very long prayer.
 
 He was told that he would rule \[officiate\] around these places but he
 was not to be paid for his services; <span
-id="fr_64"></span>[65](#fn_64) he would represent the people and pray
+id="fr_64"></span>[65](#fn_64.md) he would represent the people and pray
 for them. (This is still done.)
 
 Before this the Antelope clan was ruling everything. The Country Chief
@@ -78,8 +78,8 @@ things worked out better. But she saw that Country Chief was carrying
 too much of the burden so she thought of giving him two helpers. She
 selected the first two sons (or maybe brothers) of Country Chief. She
 called the oldest one who was to be next in rank Shuti mut (wren
-youth). <span id="fr_65"></span>[66](#fn_65) The other was to be called
-Shpa'ti mut (mocking bird youth). <span id="fr_66"></span>[67](#fn_66)
+youth). <span id="fr_65"></span>[66](#fn_65.md) The other was to be called
+Shpa'ti mut (mocking bird youth). <span id="fr_66"></span>[67](#fn_66.md)
 In this order they were to rank. Iatiku named them thus because they
 were to represent these birds, to make their sounds, and to bring
 messages to the people, thus relieving Country Chief. (It is very
@@ -105,19 +105,19 @@ to watch the stars and moon and, being able to tell seasons more
 accurately in this way, he abandoned the method of watching the plants.
 Country Chief also watched the sun to determine the time for the
 solstices. Now the Antelope chief does this.) <span
-id="fr_67"></span>[68](#fn_67) (Sun is male, Moon female; hence men are
+id="fr_67"></span>[68](#fn_67.md) (Sun is male, Moon female; hence men are
 strong, women weaker.) The katsina that live in the east come for the
 winter solstice and the katsina that live in the west come for the
-summer solstice. <span id="fr_68"></span>[69](#fn_68)
+summer solstice. <span id="fr_68"></span>[69](#fn_68.md)
 
 They lived for a long time with these officers. Finally, when everything
 seemed all right with the katsina of the west, Iatiku decided to try the
 katsina of the east. (These are not called katsina but Kopishtaiya. The
-first was Tsiukiri ([pl. 4, fig. 2](oma37.htm#img_pl04b)) who went with
+first was Tsiukiri ([pl. 4, fig. 2](oma37.htm#img_pl04b).md) who went with
 his mate and reproduced. His mate is Hi'waii'tsa.) <span
-id="fr_69"></span>[70](#fn_69) So Iatiku told Country Chief to tell the
+id="fr_69"></span>[70](#fn_69.md) So Iatiku told Country Chief to tell the
 Antelope Man that they were going to try and call the Kopishtaiya ([pl.
-6, fig. 2](oma39.htm#img_pl06b)), who live where the sun comes up, and
+6, fig. 2](oma39.htm#img_pl06b).md), who live where the sun comes up, and
 to make preparations. So the Antelope Man said, "It is all right. Go and
 tell the people to wait for them and prepare for them by gathering
 material to make prayer sticks."
@@ -150,7 +150,7 @@ the east, so he sent messages in the village that the Kopishtaiya were
 coming near. The Kopishtaiya were not dancers, they came only to circle
 the outside of the village. At intervals they went around the village,
 prayed, and put up dapi'năshtimĭt, <span
-id="fr_70"></span>[71](oma11.htm#fn_70) spiritual fortifications or
+id="fr_70"></span>[71](oma11.htm#fn_70.md) spiritual fortifications or
 protections. After circling the town they came into the plaza. The
 people saw that they had seeds in bags with them. They were all naked
 save for breech clouts made of rabbit skins. They wore no moccasins even
@@ -187,17 +187,17 @@ the altar to Iatiku, and said, "This is the man we have chosen."
 
 ### Footnotes
 
-<span id="fn_59"></span>[25:60](oma10.htm#fr_59) Usually translated
+<span id="fn_59"></span>[25:60](oma10.htm#fr_59.md) Usually translated
 "outside chief, country chief."
 
-<span id="fn_60"></span>[25:61](oma10.htm#fr_60) Nowadays the war chiefs
+<span id="fn_60"></span>[25:61](oma10.htm#fr_60.md) Nowadays the war chiefs
 are selected without reference to clan affiliation in all Keresan
 pueblos.
 
-<span id="fn_61"></span>[25:62](oma10.htm#fr_61) Cf. White, 1932, p. 46;
+<span id="fn_61"></span>[25:62](oma10.htm#fr_61.md) Cf. White, 1932, p. 46;
 Boas, 1928, pt. 1, p. 288.
 
-<span id="fn_62"></span>[26:63](oma10.htm#fr_62) Informant's note: It is
+<span id="fn_62"></span>[26:63](oma10.htm#fr_62.md) Informant's note: It is
 the center pole, four earths down and four sides up, which holds the
 skies and the earths in place so they will not give way or slip aside.
 Skies and earths are meant to last forever and this keeps them in place.
@@ -206,26 +206,26 @@ renewed, and asked to start the new year fresh again and strong. For 4
 days Kapina chaianyi renew it, and repaint it. The beads are taken off
 and buried and new beads put on by the new war chief.
 
-<span id="fn_63"></span>[26:64](oma10.htm#fr_63) This is a common figure
+<span id="fn_63"></span>[26:64](oma10.htm#fr_63.md) This is a common figure
 of speech for officers among the Keresan pueblos. It is, of course,
 equivalent to our "under your wing."
 
-<span id="fn_64"></span>[26:65](oma10.htm#fr_64) Cf. White, 1932, p. 50.
+<span id="fn_64"></span>[26:65](oma10.htm#fr_64.md) Cf. White, 1932, p. 50.
 
-<span id="fn_65"></span>[26:66](oma10.htm#fr_65) Canyon wren (*Catherpes
+<span id="fn_65"></span>[26:66](oma10.htm#fr_65.md) Canyon wren (*Catherpes
 mexicanus conspersus*, Ridgway).
 
-<span id="fn_66"></span>[26:67](oma10.htm#fr_66) Western mocking bird
+<span id="fn_66"></span>[26:67](oma10.htm#fr_66.md) Western mocking bird
 (*Mimus polyglottos leucopterus*, Vigors) (White, 1942).
 
-<span id="fn_67"></span>[27:68](oma10.htm#fr_67) Cf. White, 1932, p. 41.
+<span id="fn_67"></span>[27:68](oma10.htm#fr_67.md) Cf. White, 1932, p. 41.
 
-<span id="fn_68"></span>[27:69](oma10.htm#fr_68) Cf. White, 1932, pp.
+<span id="fn_68"></span>[27:69](oma10.htm#fr_68.md) Cf. White, 1932, pp.
 84-88.
 
-<span id="fn_69"></span>[27:70](oma10.htm#fr_69) Cf. White, 1932, p. 86
+<span id="fn_69"></span>[27:70](oma10.htm#fr_69.md) Cf. White, 1932, p. 86
 and pl. 8, *b*.
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part II](oma11)
+[Next: Wanderings, Part II](oma11.md)

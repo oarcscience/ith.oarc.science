@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gar00)    [Page
-Index](pageidx)    [Text \[Zipped\]](gar.txt.gz)
+[Contents](#contents)    [Start Reading](gar00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](gar.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -39,8 +39,8 @@ In the mid-19th century, eighty years before the chance discovery of a
 treasure trove of Gnostic manuscripts in a dump in Egypt, C.W. King
 collected what was known about the Gnostics in this book. At that time
 there were only three sources of information on Gnosticism: polemics
-against them by [early Christian writers](../../chr/ecf/index), the
-*[Pistis Sophia](../../chr/ps/index)*, and a jumble of confusing images
+against them by [early Christian writers](../../chr/ecf/index.md), the
+*[Pistis Sophia](../../chr/ps/index.md)*, and a jumble of confusing images
 and cryptic inscriptions on Roman-era gems and amulets.
 
 In spite of all of the missing jigsaw pieces, King managed to assemble a
@@ -64,7 +64,7 @@ Masons' marks, and Simon Magus. The book is a fascinating tour of hidden
 knowledge.
 
 Production Notes: This text uses Unicode extensively, so you should
-consult the sacred-texts [Unicode help page](../../unicode) if the Greek
+consult the sacred-texts [Unicode help page](../../unicode.md) if the Greek
 and Hebrew text in this text is not displayed correctly in your browser.
 There are many quotations of Greek and Latin text from inscriptions. In
 some cases I have silently replaced rare forms of some greek letters
@@ -77,123 +77,123 @@ usual, these are in green type.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](gar00)  
-[Preface](gar01)  
-[Contents](gar02)  
-[Introduction](gar03)  
+<span id="contents"></span> [Title Page](gar00.md)  
+[Preface](gar01.md)  
+[Contents](gar02.md)  
+[Introduction](gar03.md)  
 <span id="section_000"></span>
 
 ### Part I. Gnosticism and its Sources
 
-[Gnosticism and its Origin](gar04)  
-[Pistis-Sophia](gar05)  
-[The Book of Enoch](gar06)  
-[Gnosticism in its Beginning](gar07)  
-[Influence of Judaism on the Ancient World](gar08)  
-[The Zendavesta](gar09)  
-[The Kabbala and the Talmud](gar10)  
-[Indian Sources of Gnosticism.--Manes](gar11)  
-[Buddhism](gar12)  
-[Simonianism](gar13)  
-[Basilides](gar14)  
-[The Ophites](gar15)  
-[Machinery of the Gnosis](gar16)  
+[Gnosticism and its Origin](gar04.md)  
+[Pistis-Sophia](gar05.md)  
+[The Book of Enoch](gar06.md)  
+[Gnosticism in its Beginning](gar07.md)  
+[Influence of Judaism on the Ancient World](gar08.md)  
+[The Zendavesta](gar09.md)  
+[The Kabbala and the Talmud](gar10.md)  
+[Indian Sources of Gnosticism.--Manes](gar11.md)  
+[Buddhism](gar12.md)  
+[Simonianism](gar13.md)  
+[Basilides](gar14.md)  
+[The Ophites](gar15.md)  
+[Machinery of the Gnosis](gar16.md)  
 <span id="section_001"></span>
 
 ### Part II. The Worship of Mithras and Serapis
 
-[I. Origin of Mithraicism](gar17)  
-[II. The Mithraic Sacraments](gar18)  
-[III. A Roman Mithras in His Cave](gar19)  
-[IV. Mithraic Talismans](gar20)  
+[I. Origin of Mithraicism](gar17.md)  
+[II. The Mithraic Sacraments](gar18.md)  
+[III. A Roman Mithras in His Cave](gar19.md)  
+[IV. Mithraic Talismans](gar20.md)  
 [V. Gnostic Sacraments and Initiations as Connected with the
-Mithraic](gar21)  
-[St. Augustine on Gnosticism](gar22)  
-[I. The Figured Representations of Serapis](gar23)  
-[II. The Probable Origin of Serapis](gar24)  
-[III. Monuments of the Serapis Worship](gar25)  
-[The Caduceus, and its Symbolism](gar26)  
-[Death, as Depicted in Ancient Art](gar27)  
-[Tomb-Treasures](gar28)  
-[I. The Evil Eye](gar29)  
-[II. On a Ceraunia of Jade Converted into a Gnostic Talisman](gar30)  
+Mithraic](gar21.md)  
+[St. Augustine on Gnosticism](gar22.md)  
+[I. The Figured Representations of Serapis](gar23.md)  
+[II. The Probable Origin of Serapis](gar24.md)  
+[III. Monuments of the Serapis Worship](gar25.md)  
+[The Caduceus, and its Symbolism](gar26.md)  
+[Death, as Depicted in Ancient Art](gar27.md)  
+[Tomb-Treasures](gar28.md)  
+[I. The Evil Eye](gar29.md)  
+[II. On a Ceraunia of Jade Converted into a Gnostic Talisman](gar30.md)  
 <span id="section_002"></span>
 
 ### Part III. Abraxas, Abraxaster, And Abraxoid Gems
 
-[The Agathodæmon Worship](gar31)  
-[The Chnuphis Serpent](gar32)  
-[I. Abraxaster, or Borrowed Types](gar33)  
-[II. Abraxoids, or Gems Confounded with the True Gnostic](gar34)  
-[III. The True Abraxas Gems](gar35)  
-[Gnostic Plaque](gar36)  
-[IV. The God Abraxas as Described by the Christian Fathers](gar37)  
-[V. ''Abraxas''--Etymology of](gar38)  
-[VI. Abraxas--Its Numerical Force](gar39)  
-[The Abraxas Religion](gar40)  
-[The Ineffable Name in the Hindoo Form](gar41)  
-[Abraxas-Gems, Their Materials, Workmanship, and Nature](gar42)  
-[Legends and Formulæ](gar43)  
+[The Agathodæmon Worship](gar31.md)  
+[The Chnuphis Serpent](gar32.md)  
+[I. Abraxaster, or Borrowed Types](gar33.md)  
+[II. Abraxoids, or Gems Confounded with the True Gnostic](gar34.md)  
+[III. The True Abraxas Gems](gar35.md)  
+[Gnostic Plaque](gar36.md)  
+[IV. The God Abraxas as Described by the Christian Fathers](gar37.md)  
+[V. ''Abraxas''--Etymology of](gar38.md)  
+[VI. Abraxas--Its Numerical Force](gar39.md)  
+[The Abraxas Religion](gar40.md)  
+[The Ineffable Name in the Hindoo Form](gar41.md)  
+[Abraxas-Gems, Their Materials, Workmanship, and Nature](gar42.md)  
+[Legends and Formulæ](gar43.md)  
 <span id="section_003"></span>
 
 ### Part IV. The Figured Monuments of Gnosticism
 
-[Gnostic Siglæ, Symbols, Legends Explained](gar44)  
-[The Name ΙΑΩ](gar45)  
-[Abraxas, New Type of](gar46)  
-[Original Purpose of These Formulæ](gar47)  
-[Gnostic Theogony](gar48)  
-[The Scheme of the Ophites](gar49)  
-[The Cause of Sin](gar50)  
-[State After Death of the Uninitiated](gar51)  
-[Future Punishments](gar52)  
-[Talismanic Leaden Scrolls](gar53)  
+[Gnostic Siglæ, Symbols, Legends Explained](gar44.md)  
+[The Name ΙΑΩ](gar45.md)  
+[Abraxas, New Type of](gar46.md)  
+[Original Purpose of These Formulæ](gar47.md)  
+[Gnostic Theogony](gar48.md)  
+[The Scheme of the Ophites](gar49.md)  
+[The Cause of Sin](gar50.md)  
+[State After Death of the Uninitiated](gar51.md)  
+[Future Punishments](gar52.md)  
+[Talismanic Leaden Scrolls](gar53.md)  
 <span id="section_004"></span>
 
 ### Part V. Templars, Rosicrucians, Freemasons
 
-[Masonic Origins](gar54)  
-[The Earliest Masonic Document](gar55)  
-[No Relation of Modern Masons to Mediæval Guilds](gar56)  
-[Masons’ Marks](gar57)  
-[Origin of Modern Freemasonry](gar58)  
-[The Rosicrucians](gar59)  
-[The Templars](gar60)  
-[Idols of Baphomet](gar61)  
-[Manicheism](gar62)  
-[The Assassins](gar63)  
-[The Sufis](gar64)  
-[Diffusion of Oriental Culture](gar65)  
-[Profession of Continence](gar66)  
-[Mithraicism](gar67)  
-[The Transmission of Gnostic Symbols](gar68)  
-[The Illuminati](gar69)  
-[Conclusion](gar70)  
+[Masonic Origins](gar54.md)  
+[The Earliest Masonic Document](gar55.md)  
+[No Relation of Modern Masons to Mediæval Guilds](gar56.md)  
+[Masons’ Marks](gar57.md)  
+[Origin of Modern Freemasonry](gar58.md)  
+[The Rosicrucians](gar59.md)  
+[The Templars](gar60.md)  
+[Idols of Baphomet](gar61.md)  
+[Manicheism](gar62.md)  
+[The Assassins](gar63.md)  
+[The Sufis](gar64.md)  
+[Diffusion of Oriental Culture](gar65.md)  
+[Profession of Continence](gar66.md)  
+[Mithraicism](gar67.md)  
+[The Transmission of Gnostic Symbols](gar68.md)  
+[The Illuminati](gar69.md)  
+[Conclusion](gar70.md)  
 
  
 
-[Woodcuts in the Text](gar71)  
+[Woodcuts in the Text](gar71.md)  
 <span id="section_005"></span>
 
 ### Description of the Plates
 
-[Introduction](gar72)  
-[Plate A. Various Types of the God Abraxas](gar73)  
-[Plate B](gar74)  
-[Plate C](gar75)  
-[Plate D. Sigils of the Cnuphis Serpent](gar76)  
-[Plate E. Monuments of the Serapis Worship](gar77)  
-[Plate F. Ancient Egyptian Types Adapted to Gnostic Ideas](gar78)  
-[Plate G. Egyptian Types (continued)](gar79)  
-[Plate H. Egyptian Types (continued)](gar80)  
-[Plate J. Subjects Connected with the Mithraic Mysteries](gar81)  
-[Plate K. Mithraic (continued)](gar82)  
-[Plate L. Mithraic (continued)](gar83)  
-[Plate M. General Talismans](gar84)  
-[Plate N. General Talismans (continued)](gar85)  
-[Plate O. Hindoo Symbols and Caste-Marks](gar86)  
+[Introduction](gar72.md)  
+[Plate A. Various Types of the God Abraxas](gar73.md)  
+[Plate B](gar74.md)  
+[Plate C](gar75.md)  
+[Plate D. Sigils of the Cnuphis Serpent](gar76.md)  
+[Plate E. Monuments of the Serapis Worship](gar77.md)  
+[Plate F. Ancient Egyptian Types Adapted to Gnostic Ideas](gar78.md)  
+[Plate G. Egyptian Types (continued)](gar79.md)  
+[Plate H. Egyptian Types (continued)](gar80.md)  
+[Plate J. Subjects Connected with the Mithraic Mysteries](gar81.md)  
+[Plate K. Mithraic (continued)](gar82.md)  
+[Plate L. Mithraic (continued)](gar83.md)  
+[Plate M. General Talismans](gar84.md)  
+[Plate N. General Talismans (continued)](gar85.md)  
+[Plate O. Hindoo Symbols and Caste-Marks](gar86.md)  
 
  
 
-[Bibliographical Appendix](gar87)  
-[Index](gar88)  
+[Bibliographical Appendix](gar87.md)  
+[Index](gar88.md)  

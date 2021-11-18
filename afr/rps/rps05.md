@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps04)  [Next](rps06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps04)  [Next](rps06.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ King Alpha and Queen Omega.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4. Her Royal Banquet](rps06)
+[Next: Chapter 4. Her Royal Banquet](rps06.md)

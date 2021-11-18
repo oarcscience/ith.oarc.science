@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb21)  [Next](spb23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb21)  [Next](spb23.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -102,17 +102,17 @@ seed, saith the Lord, from henceforth and for ever.
 But thou art holy, O thou that dwellest amid the praises of Israel. And
 one cried unto another, and said, Holy, holy, holy is the Lord of hosts:
 the whole earth is full of his glory.  <span
-id="fr_26"></span>[\*](#fn_24)And they receive sanction the one from the
+id="fr_26"></span>[\*](#fn_24.md)And they receive sanction the one from the
 other, and say, Holy in the highest heavens, the place of his divine
 abode; holy upon earth, the work of his might; holy for ever and to all
 eternity is the Lord of hosts; the whole earth is full of the radiance
 of his glory. Then a wind lifted me up, and I heard behind me the voice
 of a great rushing (saying), Blessed be the glory of the Lord from his
-place.  <span id="fr_27"></span>[\*](#fn_24)Then a wind lifted me up,
+place.  <span id="fr_27"></span>[\*](#fn_24.md)Then a wind lifted me up,
 and I heard behind me the voice of a great rushing, of those who uttered
 praises, and said, Blessed be the glory of the Lord from the region of
 his divine abode. The Lord shall reign for ever and ever.  <span
-id="fr_28"></span>[\*](#fn_24)The kingdom of the Lord endureth for ever
+id="fr_28"></span>[\*](#fn_24.md)The kingdom of the Lord endureth for ever
 and to all eternity. O Lord, the God of Abraham, of Isaac and of Israel,
 our fathers, keep this for ever in the imagination of the thoughts of
 the heart of thy people, and direct their heart unto thee. Arid he,
@@ -170,13 +170,13 @@ truth of thy salvation.
 *The first section of the Lesson from the Pentateuch of the following
 Sabbath is read*.
 
-*For Order of Reading the Law see pp. [81](spb05.htm#page_81)–87*.
+*For Order of Reading the Law see pp. [81](spb05.htm#page_81.md)–87*.
 
 *While the vestments are being replaced upon the Scroll, Psalm, xcii.,
-[p. 248](spb20.htm#page_248), is said*.
+[p. 248](spb20.htm#page_248.md), is said*.
 
 *The following prayer (Amidah) to "as in ancient years," [p.
-260](#page_260), is to be said standing*.
+260](#page_260.md), is to be said standing*.
 
 O Lord, open thou my lips, and my mouth shall declare thy praise.
 
@@ -216,7 +216,7 @@ Who is like unto thee, Father of mercy, who in mercy rememberest thy
 creatures unto life?
 
 Yea, faithful art thou to quicken the dead. Blessed art thou, O Lord,
-who quickenest the dead. \* (See page [256](#page_256)).
+who quickenest the dead. \* (See page [256](#page_256).md).
 
 Thou art holy, and thy name is holy, and holy beings praise thee daily.
 (Selah.) Blessed art thou, O Lord, the holy God.
@@ -346,7 +346,7 @@ merciful Being, whose lovingkindnesses never cease, we have ever hoped
 in thee.
 
 *On Sabbath of Chanukah say: We thank thee, etc., [p.
-63](spb05.htm#page_63)*.
+63](spb05.htm#page_63.md)*.
 
 For all these things thy name, O our King, shall be continually blessed
 and exalted for ever and ever.
@@ -744,21 +744,21 @@ Lord, who stand in the house of the Lord in the night seasons. Lift up
 your hands towards the sanctuary, and bless ye the Lord. The Lord bless
 thee out of Zion; even he that made heaven and earth.
 
-*"It is our duty." [p. 262](#page_262).*
+*"It is our duty." [p. 262](#page_262.md).*
 
-*Mourner's Kaddish, [p. 263](#page_263)*
+*Mourner's Kaddish, [p. 263](#page_263.md)*
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_24"></span>[252:\*](spb22.htm#fr_28) The Chaldee paraphrase
+<span id="fn_24"></span>[252:\*](spb22.htm#fr_28.md) The Chaldee paraphrase
 of the preceding verse.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Ethics of the Fathers](spb23)
+[Next: Ethics of the Fathers](spb23.md)
 
 </div>

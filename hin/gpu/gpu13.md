@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu12)  [Next](gpu14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu12)  [Next](gpu14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -82,7 +82,7 @@ If a man has several wives, but only one of them has a son, all of them
 have a son, on account of that son.
 
 For all who have no sons a friend may offer the rice-balls. The rites
-[must](errata.htm#8) not be neglected. If there is nobody else, the
+[must](errata.htm#8.md) not be neglected. If there is nobody else, the
 family priest may do them.
 
 18\. A man or a woman who performs the rites for a friend, by this
@@ -101,9 +101,9 @@ the annual Śrāddha should be performed severally if the wealth has been
 divided.
 
 22-24. Therefore should the eldest son perform with devotion the
-ten-days’ ceremony, <span id="fr_115"></span>[1](#fn_113) eating one
+ten-days’ ceremony, <span id="fr_115"></span>[1](#fn_113.md) eating one
 meal, sleeping on the ground, devoted to Brāhmaṇ, <span
-id="fr_116"></span>[2](#fn_114) and pure.
+id="fr_116"></span>[2](#fn_114.md) and pure.
 
 The son obtains such fruit from the performance of the rite for the
 father and mother, as is obtained by going round the shrines seven
@@ -120,11 +120,11 @@ bathing-place, or in a temple, between nine and twelve noon, he should
 bathe without reciting mantras.
 
 Being purified, seated facing southward at the root of a tree, he should
-make an altar <span id="fr_117"></span>[1](#fn_115) there, cleansed with
+make an altar <span id="fr_117"></span>[1](#fn_115.md) there, cleansed with
 cow-dung.
 
 He should place on it, over leaves, a twice-born <span
-id="fr_118"></span>[2](#fn_116) made of darbha and kuśa grasses, and
+id="fr_118"></span>[2](#fn_116.md) made of darbha and kuśa grasses, and
 having worshipped it with water for the feet and other things, should
 bow to it, saying the "Atasī."
 
@@ -190,20 +190,20 @@ he may eat.
 
 ### Footnotes
 
-<span id="fn_113"></span>[99:1](gpu13.htm#fr_115) One each day.
+<span id="fn_113"></span>[99:1](gpu13.htm#fr_115.md) One each day.
 
-<span id="fn_114"></span>[99:2](gpu13.htm#fr_116) Celibate.
+<span id="fn_114"></span>[99:2](gpu13.htm#fr_116.md) Celibate.
 
-<span id="fn_115"></span>[100:1](gpu13.htm#fr_117) A square flat mound a
+<span id="fn_115"></span>[100:1](gpu13.htm#fr_117.md) A square flat mound a
 few inches high.
 
-<span id="fn_116"></span>[100:2](gpu13.htm#fr_118) A rough image,
+<span id="fn_116"></span>[100:2](gpu13.htm#fr_118.md) A rough image,
 symbolical of the deceased twice-born person.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. An Account of the Eleventh-day Rite](gpu14)
+[Next: Chapter XII. An Account of the Eleventh-day Rite](gpu14.md)
 
 </div>

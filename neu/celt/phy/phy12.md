@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy11)  [Next](phy13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy11)  [Next](phy13.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 |                     |
 |---------------------|
-| ![I](img/05701.jpg) |
+| ![I](img/05701.jpg.md) |
 
 T was some considerable time ere anything like consciousness returned to
 Tom Kewley, and his first supposition was that every bone in his body
@@ -45,7 +45,7 @@ middle of a curragh, about two miles from his own home at Ballasalla.
 <span id="img_05800"></span>
 
 [![TOM KEWLEY AND THE CUP](tn/05800.jpg)  
-Click to enlarge](img/05800.jpg)  
+Click to enlarge](img/05800.jpg.md)  
 TOM KEWLEY AND THE CUP  
 
 Putting his left hand into his breeches' pocket, he found to his great
@@ -131,4 +131,4 @@ such a gift to his parish church.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](phy13)
+[Next: Chapter I](phy13.md)

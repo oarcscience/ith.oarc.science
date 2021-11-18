@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah04)  [Next](sah06) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah04)  [Next](sah06.md) 
 
 ------------------------------------------------------------------------
 
@@ -264,4 +264,4 @@ meekness, temperance: against such there is no law."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI - Science, Theology, Medicine](sah06) 
+[Next: Chapter VI - Science, Theology, Medicine](sah06.md) 

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [California](../index)  [Index](index) 
-[Previous](cma20)  [Next](cma22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [California](../index)  [Index](index.md) 
+[Previous](cma20)  [Next](cma22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Creation Myths of Primitive America*, by Jeremiah Curtin, \[1898\], at
 Intangible Textual Heritage
 
@@ -541,4 +541,4 @@ house after that.
 ------------------------------------------------------------------------
 
 [Next: The Dream of Juiwaiyu and his Journey to Damhauja's
-Country](cma22)
+Country](cma22.md)

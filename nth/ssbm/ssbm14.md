@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssbm13)  [Next](ssbm15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssbm13)  [Next](ssbm15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Science Behind Miracles*, by Max Freedom Long, \[1948\], at
 Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ Dr. Brigham spent an evening giving me the details of a *lomilomi*
 treatment which he observed in the Hilo district in the early days.
 
 The patient was a man of about forty who had returned from a long trip
-on foot to see the lava overflow the vast pit of [Kilauea](errata.htm#5)
+on foot to see the lava overflow the vast pit of [Kilauea](errata.htm#5.md)
 Volcano. He had come home tired out, feeling ill, and aching in various
 joints. He was especially pained by what seemed to be lumbago.
 
@@ -630,4 +630,4 @@ instant healing.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV. Startling New and Different Ideas from the Kahunas
-Concerning the Nature of the Complex and Healing](ssbm15)
+Concerning the Nature of the Complex and Healing](ssbm15.md)

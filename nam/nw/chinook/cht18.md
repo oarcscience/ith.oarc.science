@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht17)  [Next](cht19) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht17)  [Next](cht19.md) 
 
 ------------------------------------------------------------------------
 
@@ -197,4 +197,4 @@ Now he had again really died. He had died a second time.
 
 ------------------------------------------------------------------------
 
-[Next: 16. Blue-Jay and Iô'i](cht19)
+[Next: 16. Blue-Jay and Iô'i](cht19.md)

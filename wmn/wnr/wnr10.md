@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr09)  [Next](wnr11) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr09)  [Next](wnr11.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,4 +175,4 @@ too, will the world be made a fit place for her children to live.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Continence--Is It Practicable Or Desirable?](wnr11)
+[Next: IX. Continence--Is It Practicable Or Desirable?](wnr11.md)

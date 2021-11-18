@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](cair06)  [Next](cair08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](cair06)  [Next](cair08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Confucianism and Its Rivals*, by Herbert A. Giles, \[1915\], at
 Intangible Textual Heritage
 
@@ -1025,4 +1025,4 @@ hand.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture VI. A.D. 100-600](cair08)
+[Next: Lecture VI. A.D. 100-600](cair08.md)

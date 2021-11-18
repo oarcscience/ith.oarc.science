@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch04) 
-[Next](pch06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch04.md) 
+[Next](pch06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -37,10 +37,10 @@ machinery did not work he ascribed the fault to some over-ruling
 *super*natural power.....It was the violation of \[previously
 exploited\] sequences, and the frustration of his expectations, by which
 the belief in supernatural power was, not created, but first called
-forth." <span id="fr_10"></span>[1](#fn_10)
+forth." <span id="fr_10"></span>[1](#fn_10.md)
 
 The fact that this writer proceeds to repudiate his own doctrine <span
-id="fr_11"></span>[2](#fn_11) is no reason why we should, save to the
+id="fr_11"></span>[2](#fn_11.md) is no reason why we should, save to the
 extent of noting the temerity of his use of the term "supernatural."
 There are some very strong reasons, apart from the à priori one cited
 above, for thinking that the earliest human notions of superhuman beings
@@ -48,17 +48,17 @@ were framed in terms of fear. Perhaps the strongest of all is the fact
 that savages and barbarians in nearly all parts of the world appear to
 regard disease and death as invariably due to purposive hostile action,
 whether normal, magical, or "spiritual." <span
-id="fr_12"></span>[3](#fn_12) Not even old age is for
+id="fr_12"></span>[3](#fn_12.md) Not even old age is for
 
 <span id="page_2">p. 2</span>
 
 many of these primitive thinkers a probable natural cause of
-death. <span id="fr_13"></span>[1](#fn_13) If then the life of early man
+death. <span id="fr_13"></span>[1](#fn_13.md) If then the life of early man
 was not much less troublous than that of contemporary primitives, he is
 likely to have been moved as much as they to conceive of the unseen
 powers as malevolent. "On the Gold Coast," says a close student, "the
 majority of these spirits are malignant......I believe that originally
-all were conceived as malignant." <span id="fr_14"></span>[2](#fn_14)
+all were conceived as malignant." <span id="fr_14"></span>[2](#fn_14.md)
 
 And how, indeed, could it be otherwise? Those who will not assent have
 forgotten, as indeed most anthropologists strangely forget when they are
@@ -90,7 +90,7 @@ play of gratitude is no such ennobling exercise as to involve much
 lifting of the moral standpoint; and even in the higher religions
 gratitude to the God is often correlative with fear of the evil spirits
 whom he wards off. This factor is constantly present in the gospels and
-in the polemic of the early Fathers; <span id="fr_15"></span>[1](#fn_15)
+in the polemic of the early Fathers; <span id="fr_15"></span>[1](#fn_15.md)
 and has never disappeared from religious life. The pietist who in our
 own day pours out thanks to "Providence" for saving him in the
 earthquake in which myriads have perished is no more ethically
@@ -98,7 +98,7 @@ attractive than philosophically persuasive; and the gratitude of savages
 and barbarians for favours received and expected can hardly have been
 more refined. It might even be said that a cruder egoism presides over
 the making of Good Gods than over the birth of the Gods of Fear; <span
-id="fr_16"></span>[2](#fn_16) the former having their probable origin in
+id="fr_16"></span>[2](#fn_16.md) the former having their probable origin in
 an individualistic as against a tribal instinct. But it may be granted
 that the God who ostensibly begins as a private guardian angel or family
 spirit may become the germ of a more ethical cultus than that of the God
@@ -126,7 +126,7 @@ agreement is still hindered by persistence in the old classifications.
 The trouble meets us on one line in arbitrary fundamental separations
 between mythology and religion, early religion and early ethics,
 religion and magic, genuine myths and non-genuine myths. <span
-id="fr_17"></span>[1](#fn_17) On another line it meets us in the shape
+id="fr_17"></span>[1](#fn_17.md) On another line it meets us in the shape
 of a sudden and local reopening of the problem of theistic intervention
 in a quasi-philosophical form, or a wilful repudiation of naturalistic
 method when the inquiry reaches current beliefs. Thus results which were
@@ -141,18 +141,18 @@ naturalistic position in regard to it.
 
 ### Footnotes
 
-<span id="fn_10"></span>[1:1](pch05.htm#fr_10) F. B. Jevons,
+<span id="fn_10"></span>[1:1](pch05.htm#fr_10.md) F. B. Jevons,
 *Introduction, to the History of Religion*, 1896, p. 19; cp. p. 23, p.
 137, and p. 177. Cp. Adam Smith, essay on *The History of Astronomy*,
 sect. iii.
 
-<span id="fn_11"></span>[1:2](pch05.htm#fr_11) Jevons, as cited pp. 106,
+<span id="fn_11"></span>[1:2](pch05.htm#fr_11.md) Jevons, as cited pp. 106,
 233, 410. Exactly the same self-contradiction is committed by Professor
 Robertson Smith, on the same provocation of the phrase, *Primus in orbe
 deos fecit timor*. See his *Religion of the Semites*, pp. 27, 35, 55,
 88, 129.
 
-<span id="fn_12"></span>[1:3](pch05.htm#fr_12) Cp. John Mathew,
+<span id="fn_12"></span>[1:3](pch05.htm#fr_12.md) Cp. John Mathew,
 *Eaglehawk and Crow*, 1899, pp. 91, 123, 144; Sir A. B. Ellis, *The
 Tshi-speaking Peoples of the Gold Coast*, 1887, pp. 13-14; Livingstone,
 *Travels and Researches in South Africa*, ed. 1905, p. 409;
@@ -203,12 +203,12 @@ notes to Cudworth's *Intellectual System*, Harrison's trans. 1845, ii,
 284-6; A. D. White, *History of the Warfare of Science with Theology*,
 1897, ii, i, 3, 25, and refs.
 
-<span id="fn_13"></span>[2:1](pch05.htm#fr_13) In some cases old age is
+<span id="fn_13"></span>[2:1](pch05.htm#fr_13.md) In some cases old age is
 recognised as a sufficient cause. Cp. Rev. J. Macdonald, *Light in
 Africa*, 1890, p. 164; Gill, *Myths and Songs of the South Pacific*,
 1876, p. 35; Decle, as cited, pp. 489, 491; Crawley, as cited, p. 26.
 
-<span id="fn_14"></span>[2:2](pch05.htm#fr_14) A. B. Ellis, as cited, p.
+<span id="fn_14"></span>[2:2](pch05.htm#fr_14.md) A. B. Ellis, as cited, p.
 12. Cp. Schweinfurth, as cited, and Major Mockler-Ferryman, *British
 West Africa*, 2nd ed. 1900, p. 384: Beneficent spirits are almost
 unknown to the pessimistic African, to whom existence must seem a
@@ -249,19 +249,19 @@ that death is caused by witchcraft (p. 489); and the Wanyamwezi have
 exceptions all occur in the lake region. Cp. Kollmann, *The Victoria
 Nyanza*, 1899, p. 169.
 
-<span id="fn_15"></span>[3:1](pch05.htm#fr_15) Cp. Arnobius, *Adv.
+<span id="fn_15"></span>[3:1](pch05.htm#fr_15.md) Cp. Arnobius, *Adv.
 Gentes*, L. 48-52, ii, 11; Lactantius, *Div. Inst.* iv, 15; Tertullian,
 *Apol*. 23, 40; Augustine, *De Civ. Dei*, B. *passim*.
 
-<span id="fn_16"></span>[3:2](pch05.htm#fr_16) This is said in a
+<span id="fn_16"></span>[3:2](pch05.htm#fr_16.md) This is said in a
 different sense from that of the proposition of Miss Harrison
 (*Prolegomena to the Study of Greek Religion*, 2nd ed, pp, xii and 6)
 that the religion of fear of evil has ethical value as recognising the
 "mystery" thereof.
 
-<span id="fn_17"></span>[4:1](pch05.htm#fr_17) Cp. the author's
+<span id="fn_17"></span>[4:1](pch05.htm#fr_17.md) Cp. the author's
 *Christianity and Mythology*, 2nd ed. p. 2.
 
 ------------------------------------------------------------------------
 
-[Next: § 2. All Belief Results of Reasoning](pch06)
+[Next: § 2. All Belief Results of Reasoning](pch06.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas22)  [Next](sas24)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas22)  [Next](sas24.md)  
 
 ------------------------------------------------------------------------
 
@@ -547,4 +547,4 @@ Tantras. And in this lies one reason for their importance.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Twenty-four: Shakti as Mantra (Mantramayi Shakti)](sas24)
+Next: [Chapter Twenty-four: Shakti as Mantra (Mantramayi Shakti)](sas24.md)

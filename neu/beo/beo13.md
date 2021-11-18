@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo12)  [Next](beo14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo12)  [Next](beo14.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ of Grendel's gripe, -- 'neath the gabled roof·
 
 ------------------------------------------------------------------------
 
-[Next: Part XIII](beo14)
+[Next: Part XIII](beo14.md)

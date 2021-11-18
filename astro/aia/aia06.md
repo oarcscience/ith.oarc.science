@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia05)  [Next](aia07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia05)  [Next](aia07.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ parents and their children sympathise together.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV Of the Twelve Houses, Their Nature and
-Signification](aia07)
+Signification](aia07.md)

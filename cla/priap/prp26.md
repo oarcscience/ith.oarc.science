@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp25)  [Next](prp27) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp25)  [Next](prp27.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ spectators' passions by her lascivious movements and postures.\]
 
 ------------------------------------------------------------------------
 
-[Next: 27. Thou, of unrighteous thought, that hardly canst](prp27)
+[Next: 27. Thou, of unrighteous thought, that hardly canst](prp27.md)

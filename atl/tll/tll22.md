@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll21)  [Next](tll23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll21)  [Next](tll23.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ sooner or later
 <span id="page_41">p. 41</span>
 
 take place, which shivered a great part of the mass into fine red-hot
-dust." <span id="fr_21"></span>[1](#fn_21)
+dust." <span id="fr_21"></span>[1](#fn_21.md)
 
 A reference to the first Lemurian map will show that in the lake lying
 to the south-east of the extensive mountainous region there was an
@@ -118,9 +118,9 @@ very water-springs were dried up.
 
 ### Footnotes
 
-<span id="fn_21"></span>[41:1](tll22.htm#fr_21) The "Times," 14th Sept.,
+<span id="fn_21"></span>[41:1](tll22.htm#fr_21.md) The "Times," 14th Sept.,
 1903.
 
 ------------------------------------------------------------------------
 
-[Next: Founding of the Atlantean Race](tll23)
+[Next: Founding of the Atlantean Race](tll23.md)

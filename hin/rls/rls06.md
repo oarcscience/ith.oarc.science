@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls05)  [Next](rls07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls05)  [Next](rls07.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ the sky, perceive a divine fragrance, and lastly that they have been
 seen to sit in the air without any support, I must claim the privilege
 of St. Thomas a little longer, though I am bound to say that the
 evidence that has come to me in support of the last achievement is most
-startling <span id="fr_3"></span>[1](#fn_3).
+startling <span id="fr_3"></span>[1](#fn_3.md).
 
 That what is called a state of Samâdhi, or a trance, can be produced by
 the very means which are employed by the Yogins in India, is, I believe,
@@ -75,9 +75,9 @@ philosophy and answer any questions addressed to them.
 
 ### Footnotes
 
-<span id="fn_3"></span>[9:1](rls06.htm#fr_3) See also H. Walter,
+<span id="fn_3"></span>[9:1](rls06.htm#fr_3.md) See also H. Walter,
 Ha*th*ayogapradîpikâ, 1893.
 
 ------------------------------------------------------------------------
 
-[Next: Râmak*ri*sh*n*a](rls07)
+[Next: Râmak*ri*sh*n*a](rls07.md)

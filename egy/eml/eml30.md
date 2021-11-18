@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml29)  [Next](eml31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml29)  [Next](eml31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -77,7 +77,7 @@ and blue.
 little fellow, speak and tell why you have come hither. If you do not
 speak without delay, I will cause your life to end. If you do not tell
 me what I have not heard and what I do not know, <span
-id="fr_122"></span>[1](#fn_122) I will cause you to pass out of
+id="fr_122"></span>[1](#fn_122.md) I will cause you to pass out of
 existence like a flame which has been extinguished.'
 
 "Ere I answered him he carried me inland and set me down without injury,
@@ -99,7 +99,7 @@ home, and you will return to yours again in time.'
 "When the giant serpent god had spoken thus I prostrated myself before
 him, and I said: 'To the King of Egypt I will relate the things I have
 seen. I will laud your name, and offerings of oil and perfumes will be
-made to you. Asses <span id="fr_123"></span>[1](#fn_123) and birds will
+made to you. Asses <span id="fr_123"></span>[1](#fn_123.md) and birds will
 I sacrifice to you, and the king will send you rich offerings because
 you are a benefactor of mankind.'
 
@@ -132,11 +132,11 @@ duly recorded by a scribe of the temple of Amon.
 
 ### Footnotes
 
-<span id="fn_122"></span>[249:1](eml30.htm#fr_122) The Norse giant
+<span id="fn_122"></span>[249:1](eml30.htm#fr_122.md) The Norse giant
 Vafthrudner similarly puts to death those who cannot tell him something
 he does not know.
 
-<span id="fn_123"></span>[250:1](eml30.htm#fr_123) The reference is
+<span id="fn_123"></span>[250:1](eml30.htm#fr_123.md) The reference is
 unique. Set is associated with the wild ass, but except in this tale
 there is no indication that asses were sacrificed in Egypt. The Aryans
 sacrificed the horse.
@@ -145,6 +145,6 @@ sacrificed the horse.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX: The Hyksos and their Strange God](eml31)
+[Next: Chapter XX: The Hyksos and their Strange God](eml31.md)
 
 </div>

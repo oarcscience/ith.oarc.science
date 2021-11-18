@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar47)  [Next](gar49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar47)  [Next](gar49.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -282,7 +282,7 @@ instruction to which all the learning of the most eminent schools and
 most distinguished philosophers was confined, was limited to what was
 then called the liberal arts and sciences, and consisted of two
 branches, the *trivium* and the *quadrivium*. <span
-id="fr_27"></span>[\*](#fn_27) The *trivium* includes grammar, rhetoric,
+id="fr_27"></span>[\*](#fn_27.md) The *trivium* includes grammar, rhetoric,
 and logic; the *quadrivium* comprehended arithmetic, geometry, music,
 and astronomy.
 
@@ -326,7 +326,7 @@ amounting in all to fifteen, in the American system, is a significant
 symbol. For fifteen was a sacred number among the Orientals, because the
 letters of the holy name JAH, ‏יה‎, were, in their numerical value,
 equivalent to fifteen; and hence a figure, in which the nine digits were
-so disposed as to make fifteen either [way](errata.htm#5) when added
+so disposed as to make fifteen either [way](errata.htm#5.md) when added
 together perpendicularly, horizontally, or diagonally, constituted one
 of their most sacred talismans. The fifteen steps in the Winding Stairs
 are therefore symbolic of the name of GOD.
@@ -399,7 +399,7 @@ pathways of that pursuit*.
 
 ### Footnotes
 
-<span id="fn_27"></span>[167:\*](gar48.htm#fr_27) The words themselves
+<span id="fn_27"></span>[167:\*](gar48.htm#fr_27.md) The words themselves
 are purely classical, but the meanings here given to them are of a
 mediæval or corrupt Latinity. Among the old Romans, a *trivium* meant a
 place where three ways met, and a *quadrivium*, where four, or what we
@@ -409,4 +409,4 @@ philosophers to these terms.
 
 ------------------------------------------------------------------------
 
-[Next: Illustrations](gar49)
+[Next: Illustrations](gar49.md)

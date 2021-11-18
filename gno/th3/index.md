@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism and
-Hermetica](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Gnosticism and
+Hermetica](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766126145/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766126145/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,13 +27,13 @@ The Emerald Tablet of Hermes Trismegistus (click to enlarge)</td>
 
 ------------------------------------------------------------------------
 
-[Volume 1](../th1/index)   \|    [Volume 2](../th2/index)   \|   
+[Volume 1](../th1/index)   \|    [Volume 2](../th2/index.md)   \|   
 **Volume 3**
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](th300)    [Page
-Index](pageidx)    [Text \[Zipped\]](th3.txt.gz)
+[Contents](#contents)    [Start Reading](th300.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](th3.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -51,68 +51,68 @@ index, which spans all three volumes.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](th300)  
-[Contents](th301)  
+<span id="contents"></span> [Title Page](th300.md)  
+[Contents](th301.md)  
 <span id="section_000"></span>
 
 ### I. Excerpts by Stobæus
 
-[Excerpt I. Of Piety and True Philosophy](th302)  
-[Excerpt II. Of the Ineffability of God](th303)  
-[Excerpt III. Of Truth](th304)  
-[Excerpt IV. God, Nature and the Gods](th305)  
-[Excerpt V. Of Matter](th306)  
-[Excerpt VI. Of Time](th307)  
-[Excerpt VII. Of Bodies Everlasting and Bodies Perishable](th308)  
-[Excerpt VIII. Of Energy and Feeling](th309)  
-[Excerpt IX. Of the Decans and the Stars](th310)  
+[Excerpt I. Of Piety and True Philosophy](th302.md)  
+[Excerpt II. Of the Ineffability of God](th303.md)  
+[Excerpt III. Of Truth](th304.md)  
+[Excerpt IV. God, Nature and the Gods](th305.md)  
+[Excerpt V. Of Matter](th306.md)  
+[Excerpt VI. Of Time](th307.md)  
+[Excerpt VII. Of Bodies Everlasting and Bodies Perishable](th308.md)  
+[Excerpt VIII. Of Energy and Feeling](th309.md)  
+[Excerpt IX. Of the Decans and the Stars](th310.md)  
 [Excerpt X. Concerning the Rule of Providence, Necessity and
-Fate](th311)  
-[Excerpt XI. Of Justice](th312)  
-[Excerpt XII. Of Providence and Fate](th313)  
-[Excerpt XIII. Of the Whole Economy](th314)  
-[Excerpt XIV. Of Soul, I.](th315)  
-[Excerpt XV. Of Soul, II.](th316)  
-[Excerpt XVI. Of Soul, III.](th317)  
-[Excerpt XVII. Of Soul, IV.](th318)  
-[Excerpt XVIII. Of Soul, V.](th319)  
-[Excerpt XIX. Of Soul, VI.](th320)  
-[Excerpt XX. The Power of Choice](th321)  
-[Excerpt XXI. Of Isis to Horus](th322)  
-[Excerpt XXII. An Apophthegm](th323)  
-[Excerpt XXIII. From “Aphrodite”](th324)  
-[Excerpt XXIV. A Hymn of the Gods](th325)  
-[Excerpt XXV. The Virgin of the World, I.](th326)  
-[Excerpt XXVI. The Virgin of the World, II.](th327)  
-[Commentary](th328)  
-[Excerpt XXVII. From the Sermon of Isis to Horus](th329)  
-[Commentary](th330)  
+Fate](th311.md)  
+[Excerpt XI. Of Justice](th312.md)  
+[Excerpt XII. Of Providence and Fate](th313.md)  
+[Excerpt XIII. Of the Whole Economy](th314.md)  
+[Excerpt XIV. Of Soul, I.](th315.md)  
+[Excerpt XV. Of Soul, II.](th316.md)  
+[Excerpt XVI. Of Soul, III.](th317.md)  
+[Excerpt XVII. Of Soul, IV.](th318.md)  
+[Excerpt XVIII. Of Soul, V.](th319.md)  
+[Excerpt XIX. Of Soul, VI.](th320.md)  
+[Excerpt XX. The Power of Choice](th321.md)  
+[Excerpt XXI. Of Isis to Horus](th322.md)  
+[Excerpt XXII. An Apophthegm](th323.md)  
+[Excerpt XXIII. From “Aphrodite”](th324.md)  
+[Excerpt XXIV. A Hymn of the Gods](th325.md)  
+[Excerpt XXV. The Virgin of the World, I.](th326.md)  
+[Excerpt XXVI. The Virgin of the World, II.](th327.md)  
+[Commentary](th328.md)  
+[Excerpt XXVII. From the Sermon of Isis to Horus](th329.md)  
+[Commentary](th330.md)  
 <span id="section_001"></span>
 
 ### II. References and Fragments in the Fathers
 
-[I. Justin Martyr](th331)  
-[II. Athenagoras](th332)  
-[III. Clement of Alexandria](th333)  
-[IV. Tertullian](th334)  
-[V. Cyprian](th335)  
-[VI. Arnobius](th336)  
-[VII. Lactantius](th337)  
-[VIII. Augustine](th338)  
-[IX. Cyril of Alexandria](th339)  
-[X. Suidas](th340)  
-[XI. Anonymous](th341)  
+[I. Justin Martyr](th331.md)  
+[II. Athenagoras](th332.md)  
+[III. Clement of Alexandria](th333.md)  
+[IV. Tertullian](th334.md)  
+[V. Cyprian](th335.md)  
+[VI. Arnobius](th336.md)  
+[VII. Lactantius](th337.md)  
+[VIII. Augustine](th338.md)  
+[IX. Cyril of Alexandria](th339.md)  
+[X. Suidas](th340.md)  
+[XI. Anonymous](th341.md)  
 <span id="section_002"></span>
 
 ### III. References and Fragments in the Philosophers
 
-[I. Zosimus](th342)  
-[II. Jamblichus](th343)  
-[III. Julian the Emperor](th344)  
-[IV. Fulgentius the Mythographer](th345)  
+[I. Zosimus](th342.md)  
+[II. Jamblichus](th343.md)  
+[III. Julian the Emperor](th344.md)  
+[IV. Fulgentius the Mythographer](th345.md)  
 
  
 
-[IV. Conclusion](th346)  
-[Index](th347)  
-[Works by G. R. S. Mead](th348)  
+[IV. Conclusion](th346.md)  
+[Index](th347.md)  
+[Works by G. R. S. Mead](th348.md)  

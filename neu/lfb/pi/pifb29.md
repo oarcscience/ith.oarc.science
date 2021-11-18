@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb28)  [Next](pifb30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb28)  [Next](pifb30.md) 
 
 </div>
 
@@ -120,6 +120,6 @@ magic arts alone.
 
 ------------------------------------------------------------------------
 
-[Next: The Golden Lion](pifb30)
+[Next: The Golden Lion](pifb30.md)
 
 </div>

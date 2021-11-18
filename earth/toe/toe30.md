@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe29)  [Next](toe31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe29)  [Next](toe31.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ loose or tender nature of an earth, from the state of a body immovable
 by the floods and impenetrable to the roots of plants, to one in which
 some part of the body may be penetrated and removed.
 
- <span id="fr_58"></span>[8](#fn_58)«Les pluies et les rosées forment
+ <span id="fr_58"></span>[8](#fn_58.md)«Les pluies et les rosées forment
 partout où elles séjournent, des dépôts qui sont la première source de
 toute *végétation*. Ces dépôts sont toujours mêlés des semences des
 *mousses*, que l'air charie continuellement, et auxquelles se joignent
@@ -400,7 +400,7 @@ argument does not go to prove his proposition in the terms which he has
 given it, which is, that those sloped mountains are to last for ever,
 but only that these causes, which he has so well described, make the
 destruction of the mountains become more slow <span
-id="fr_59"></span>[9](#fn_59).
+id="fr_59"></span>[9](#fn_59.md).
 
 The slope which our author gives to his mountains, in order to secure
 them from the ravages of time, is that which, according to his own
@@ -518,7 +518,7 @@ which had been formed and destroyed at different periods of time. But
 the same operation is transacted every where; it is seen upon the plains
 of Indostan, as in the haughs of Scotland; the Ganges operates upon its
 banks, and is employed in changing its bed continually as well as the
-Tweed <span id="fr_60"></span>[10](#fn_60). The great city of Babylon
+Tweed <span id="fr_60"></span>[10](#fn_60.md). The great city of Babylon
 was built upon the haugh of a river. What is become of that city?
 nothing remains,—even the place, on which it stood, is not known.
 
@@ -528,10 +528,10 @@ nothing remains,—even the place, on which it stood, is not known.
 
 ### Footnotes
 
-<span id="fn_58"></span>[v2:8](toe30.htm#fr_58) Histoire de la Terre,
+<span id="fn_58"></span>[v2:8](toe30.htm#fr_58.md) Histoire de la Terre,
 Tom. 2. page 26.
 
-<span id="fn_59"></span>[v2:9](toe30.htm#fr_59) This also would appear
+<span id="fn_59"></span>[v2:9](toe30.htm#fr_59.md) This also would appear
 to be a part of that wise system of nature, in which nothing is done in
 vain, and in which every thing tends to accomplish the end with the
 greatest marks of economy and benevolence. Had it been otherwise, and
@@ -548,11 +548,11 @@ had been change, although it is not every natural philosopher that
 observes the benevolence accompanying this constitution of things which
 must subsist in change.
 
-<span id="fn_60"></span>[v2:10](toe30.htm#fr_60) An Account of the
+<span id="fn_60"></span>[v2:10](toe30.htm#fr_60.md) An Account of the
 Ganges and Burrampooter Rivers, by James Rennel, Esquire. Philosophical
 Transactions, 1781.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. The Same Subject continued, in giving a View of the
-Operations of Air and Water upon the Surface of the Land](toe31)
+Operations of Air and Water upon the Surface of the Land](toe31.md)

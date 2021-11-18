@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](poe16)  [Next](poe18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](poe16)  [Next](poe18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NLGNQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NLGNQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Poetic Edda*, by Henry Adams Bellows, \[1936\], at Intangible
 Textual Heritage
 
@@ -652,4 +652,4 @@ one of the heroes of Dietrich of Bern.\]
 
 ------------------------------------------------------------------------
 
-[Next: Helgakvitha Hjorvarthssonar](poe18)
+[Next: Helgakvitha Hjorvarthssonar](poe18.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic02)  [Next](tic04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic02)  [Next](tic04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ Textual Heritage
 SAINT TERESA began to write the *Interior Castle* on June 2, 1577,
 Trinity Sunday, and completed it on the eve of St. Andrew, November 29,
 of the same year. But there was a long interruption of five
-months, <span id="fr_0"></span>[1](#fn_0) so that the actual time spent
+months, <span id="fr_0"></span>[1](#fn_0.md) so that the actual time spent
 in the composition of this work was reduced to about four weeks--a
 fortnight for the first, and another fortnight for the second half of
 the book. The rapidity with which it was written is easily explained by
@@ -56,7 +56,7 @@ at Avila: 'I have asked the bishop--Don Alvaro Mendoza--for my book (the
 our Lord has lately granted me. With these one may even compose a new
 work of considerable size, provided God grants me the grace of
 explaining myself; otherwise the loss will be of small account.' <span
-id="fr_1"></span>[2](#fn_1) She never asked for permission to write
+id="fr_1"></span>[2](#fn_1.md) She never asked for permission to write
 anything, but waited until she received a command from her superiors,
 which, in this case, came from
 
@@ -65,7 +65,7 @@ which, in this case, came from
 <span class="contnote">\[paragraph continues\]</span> Father Jerome
 Gracian, superior of the Discalced J. Carmelites of the Provinces of
 Andalusia and Castille, and from Don Alonso Velasquez, canon of Toledo,
-afterwards bishop of Osma. <span id="fr_2"></span>[3](#fn_2) The Saint
+afterwards bishop of Osma. <span id="fr_2"></span>[3](#fn_2.md) The Saint
 was not in good health at the time; she repeatedly complains of noises
 in the head and other infirmities, but, worst of all, she was weighed
 down by troubles and anxieties resulting from the action of the
@@ -87,11 +87,11 @@ affairs of the Order. Mother Mary of the Nativity, a member of the
 <span id="page_11">p. 11</span>
 
 community of Toledo, where the book was begun, declared
-afterwards, <span id="fr_3"></span>[4](#fn_3) that she often saw her
+afterwards, <span id="fr_3"></span>[4](#fn_3.md) that she often saw her
 writing, generally after Holy Communion, her face resplendent, with such
 rapidity and so absorbed in her occupation that she seemed undisturbed
 by, and in fact quite unconscious of, any noise that was made. Mother
-Mariana of the Angels <span id="fr_4"></span>[5](#fn_4) reports having
+Mariana of the Angels <span id="fr_4"></span>[5](#fn_4.md) reports having
 heard from the same witness, that entering her cell one day to deliver a
 message, the holy Mother was just beginning a new sheet of her book.
 While taking off her spectacles to listen to the message she was seized
@@ -111,7 +111,7 @@ entered to deliver a message, and found her so absorbed that she did not
 notice me; her face seemed quite illuminated and most beautiful. After
 having listened to me she said: "Sit down, my child, and let me write
 what our Lord has told me ere I forget it," and she went on writing with
-great rapidity and without stopping.' <span id="fr_5"></span>[6](#fn_5)
+great rapidity and without stopping.' <span id="fr_5"></span>[6](#fn_5.md)
 
 Mary of St. Joseph says she heard from Mary of the Nativity that Father
 Jerome Gracian commanded the Saint to write the *Mansions*; she,
@@ -120,7 +120,7 @@ by holy and learned men, there remained nothing for a woman to write. At
 length she yielded under obedience. This nun (Mary of the Nativity) was
 frequently in the Saint's cell while she was writing and she noticed her
 resplendent face and the almost preternatural velocity with which her
-hand travelled over the paper. <span id="fr_6"></span>[7](#fn_6)
+hand travelled over the paper. <span id="fr_6"></span>[7](#fn_6.md)
 
 Writing to Mother Mary of St. Joseph, Prioress of Seville, November 8,
 1581, St. Teresa gives her a message for Father Rodrigo Alvarez, S. J.:
@@ -158,7 +158,7 @@ will clearly understand that the spirit of Mother Tireza (*sic*) of
 Jesus is true, since it leads to the same effects as are to be found in
 the saints; and because this is in truth my judgment and opinion, I have
 hereunto set my name, this, the 22nd day of February, 1582. P. Rodrigo
-Alvarez.' <span id="fr_7"></span>[8](#fn_7)
+Alvarez.' <span id="fr_7"></span>[8](#fn_7.md)
 
 The work was copied, probably under the supervision of the Saint, who
 introduced many changes; when completed the original was handed to
@@ -182,17 +182,17 @@ fashioned the previous one. Moreover, the gold of the new
 one is of better quality than that of the former, though the precious
 stones are not so well set. It has been done, as might be expected,
 according to the designs of the Jeweller Himself.' <span
-id="fr_8"></span>[9](#fn_8) Later on she wrote to Father Jerome Gracian:
+id="fr_8"></span>[9](#fn_8.md) Later on she wrote to Father Jerome Gracian:
 The book I have written since seems to me superior \[to the *Life*\]; at
 least I had more experience when I wrote it.' <span
-id="fr_9"></span>[10](#fn_9)
+id="fr_9"></span>[10](#fn_9.md)
 
 One day, speaking with Mother Mary of Jesus on spiritual matters, she
 said that our Lord had communicated so much to her since she had reached
 what she described in the seventh Mansion,--the spiritual
 Marriage,--that she did not consider it possible to advance further in
 this life, in the way of prayer, nor even to wish to do so. <span
-id="fr_10"></span>[11](#fn_10)
+id="fr_10"></span>[11](#fn_10.md)
 
 The book was eagerly read by those who were able to obtain copies. At
 the archiepiscopal Seminary at Salamanca it was read publicly after
@@ -200,9 +200,9 @@ dinner; the students, contrary to custom, sacrificing the recreation
 rather than miss so edifying an instruction. The result was that several
 entered the religious life, one becoming a Franciscan, two others, who
 had already taken their degrees, joining the Discalced Carmelites. <span
-id="fr_11"></span>[12](#fn_11) We also know of a lady who became a Poor
+id="fr_11"></span>[12](#fn_11.md) We also know of a lady who became a Poor
 Clare through reading the *Interior Castle*. <span
-id="fr_12"></span>[13](#fn_12) The process of Beatification contains the
+id="fr_12"></span>[13](#fn_12.md) The process of Beatification contains the
 following evidence of Don Francisco de Mora, architect to Philip III:
 'The same prioress (of a
 
@@ -213,7 +213,7 @@ book in manuscript, called *The Mansions*, by Mother Teresa, hoping I
 should derive some benefit from it. I fear this was not the case, but it
 made me acquainted with Teresa of Jesus, the foundress of the Discalced
 Carmelite nuns, of whom I had not yet heard, but for whom I now felt
-devotion.' <span id="fr_13"></span>[14](#fn_13)
+devotion.' <span id="fr_13"></span>[14](#fn_13.md)
 
 In August 1586 it was decided to print Saint Teresa's works, the
 Augustinian Fray Luis de Leon being selected as editor, as he was
@@ -242,7 +242,7 @@ understand her, let him believe that the writer knew what she said, and
 that her words cannot be tampered with if they are not to lose their
 meaning; otherwise what was to the point will seem out of place. This is
 how books become corrupted, useless, and are finally lost.' <span
-id="fr_14"></span>[15](#fn_14)
+id="fr_14"></span>[15](#fn_14.md)
 
 When Luis de Leon undertook the editing of St. Teresa's writings he
 received a long letter from Don Diego de Yepes, afterwards Bishop of
@@ -293,7 +293,7 @@ should like to make it known to all men. From this vision she learnt
 four important matters.
 
 'First, she came to understand this axiom, which in this form she had
-never heard of in her life, <span id="fr_15"></span>[16](#fn_15) that
+never heard of in her life, <span id="fr_15"></span>[16](#fn_15.md) that
 God is present in all things by His essence, presence, and power. As she
 was deeply humble and submissive and obedient to the doctrine of the
 Church and the teaching of the learned ministers of God, she never
@@ -316,7 +316,7 @@ and essence, to which I replied in the affirmative, explaining it as
 best I could on the authority of St. Paul, particularly where he says
 "the sufferings of this time are not worthy to be compared with the
 glory to come that shall be revealed in us," <span
-id="fr_16"></span>[17](#fn_16) Laying stress on these words, "shall be
+id="fr_16"></span>[17](#fn_16.md) Laying stress on these words, "shall be
 revealed in us," she was so overjoyed that I was quite astonished.
 Though in a way it seemed to me a kind of curiosity, I could not help
 thinking there was some mystery about it, for she said: "This is the
@@ -354,7 +354,7 @@ describes the progress of the soul from the gate to the very centre. It
 is clearly seen in this treatise how she communicated with our Lord, and
 how His Majesty vouchsafed to place her in the centre and to unite her
 with Himself, as she puts it, by the bonds of marriage and an
-inseparable union.' <span id="fr_17"></span>[18](#fn_17)
+inseparable union.' <span id="fr_17"></span>[18](#fn_17.md)
 
 After the publication of the *Interior Castle*, in 1588 at Salamanca, it
 became not only more widely known, but also more and more appreciated.
@@ -362,7 +362,7 @@ Francis Suarez, the great theologian of the Society of Jesus, says in
 his deposition in the process of Beatification that he had read some of
 St. Teresa's works, particularly the *Mansions*, which contain an
 absolutely safe doctrine and give proof of a wonderful spirit of prayer
-and contemplation. <span id="fr_18"></span>[19](#fn_18)
+and contemplation. <span id="fr_18"></span>[19](#fn_18.md)
 
 <span id="page_22">p. 22</span>
 
@@ -375,7 +375,7 @@ Majesty. But where I most regret my inability of expressing in fitting
 terms my sentiments towards this excellent teacher is when I look at,
 and refresh myself in that Castle with its seven rooms; for there is
 seen the effect of infused knowledge such as St. Denis received from St.
-Hierotheus <span id="fr_19"></span>[20](#fn_19) and both from St. Paul,
+Hierotheus <span id="fr_19"></span>[20](#fn_19.md) and both from St. Paul,
 and which has been committed to writing in the famous book of *Mystical
 Theology*. Hence comes, as from a fountain-head, notwithstanding the
 obscurity (to our manner of thinking) of its language, the doctrine of
@@ -391,7 +391,7 @@ and has brought forth light from darkness, as it is
 <span id="page_23">p. 23</span>
 
 written: (He) commanded light to shine out of darkness.' <span
-id="fr_20"></span>[21](#fn_20) Who has ever been able to show as clearly
+id="fr_20"></span>[21](#fn_20.md) Who has ever been able to show as clearly
 as our Saint how God takes possession of the soul, how He unites Himself
 with its substance, whence comes to the intellect the light of faith, to
 the will the ardour of love, and to the senses the jubilation over His
@@ -409,7 +409,7 @@ soul grows and profits by its communications with God. Until the
 teaching of this great door became known it seemed as though God were
 inaccessible, being surrounded by darkness, through which Moses and some
 other persons had to pass when approaching Him; <span
-id="fr_21"></span>[22](#fn_21) but they neither explained
+id="fr_21"></span>[22](#fn_21.md) but they neither explained
 
 <span id="page_24">p. 24</span>
 
@@ -419,7 +419,7 @@ all, having been pointed out in the *Mansions*, in language so straight
 and so methodical, and no longer such as could not be understood, or
 required further explanation. In my opinion this holy writer derived not
 only the substance of her teaching from infused knowledge, but even the
-words with which she explains it.' <span id="fr_22"></span>[23](#fn_22)
+words with which she explains it.' <span id="fr_22"></span>[23](#fn_22.md)
 
 Likewise Don Alvaro de Villegas, canon of Toledo, expressed his opinion
 that the *Way of Perfection* and the *Interior Castle* contain 'heavenly
@@ -433,7 +433,7 @@ dove, was dilating these works. Villegas does not believe that any one
 could read them, as such books ought to be read, without becoming
 himself a master of the spiritual life. For they are like heavenly dew,
 rendering the soul fruitful in the matter of prayer. <span
-id="fr_23"></span>[24](#fn_23)
+id="fr_23"></span>[24](#fn_23.md)
 
 <span id="page_25">p. 25</span>
 
@@ -524,7 +524,7 @@ fully. Indeed, the last-named work was designed as a treatise on
 Christian Ascetics, dealing with the purgation of the soul by
 mortification and the enlightenment of the mind by meditation. There,
 too, appears the first idea of the *Mansions*, <span
-id="fr_24"></span>[25](#fn_24) and Fuente remarks that the passage in
+id="fr_24"></span>[25](#fn_24.md) and Fuente remarks that the passage in
 question may be taken for the parting of the ways between the two works.
 However, this is not the only, nor, indeed, the chief reason why St.
 Teresa is so reticent about the preliminary stage of the contemplative
@@ -586,7 +586,7 @@ confessors were deeply versed in it and solved her doubts and
 perplexities on the lines of the greatest of the school men. The
 *Interior Castle* might almost be considered a practical illustration of
 certain parts of the *Summa theologica*, <span
-id="fr_25"></span>[26](#fn_25)
+id="fr_25"></span>[26](#fn_25.md)
 
 <span id="page_31">p. 31</span>
 
@@ -603,7 +603,7 @@ Cereso Pardo, a great friend of the Saint, and a benefactor to the
 convent. When his only daughter took the habit there, the precious
 manuscript was part of her dowry. Doña Juana de Mendoza, Duchess of
 Beguiar, a novice in the same convent, had it bound in silver and
-precious stones. It is still there, <span id="fr_26"></span>[27](#fn_26)
+precious stones. It is still there, <span id="fr_26"></span>[27](#fn_26.md)
 and the present writer had the privilege of seeing it. It comprises a
 hundred and thirteen leaves in folio, but originally there must have
 been some more leaves which at a later period were torn out. These, it
@@ -611,7 +611,7 @@ is presumed, contained the headings of the chapters. Unlike the *Life*
 and the *Foundations*, the text of the *Castle* is divided only by
 figures, without indication of the contents of each chapter, but the
 arguments which have come down to us are so entirely
-[similar](errata.htm#0) to those of the two works
+[similar](errata.htm#0.md) to those of the two works
 
 <span id="page_32">p. 32</span>
 
@@ -629,7 +629,7 @@ escrito por Sta. Teresa de Jesús.
 Litografia de Juan Moyano* (Seville) 1882.
 
 The present translation, the third in English, <span
-id="fr_27"></span>[28](#fn_27) has been made directly from this
+id="fr_27"></span>[28](#fn_27.md) has been made directly from this
 autograph edition. It has been thought advisable that, as far as the
 genius of the language allows it, the wording of the author should be
 strictly adhered to, and that not even a shade of her expression should
@@ -645,7 +645,7 @@ foot-notes--with few exceptions--as well as for the Index, I am
 responsible. It seemed to me important to point out all the parallel
 passages from the various works of the Saint. Only by this means can it
 be seen how consistent Saint Teresa is in all her writings. <span
-id="fr_28"></span>[29](#fn_28) It would have been easy to multiply
+id="fr_28"></span>[29](#fn_28.md) It would have been easy to multiply
 quotations from the works of other writers on mystical theology. Thus,
 the influence of the *Imitation of Christ* and of the *Life of our Lord*
 by Ludolphus the Carthusian can be distinctly traced in the *Interior
@@ -673,23 +673,23 @@ ST. LUKE'S PRIORY,
 
 ### Footnotes
 
-<span id="fn_0"></span>[9:1](tic03.htm#fr_0) *Castle*, Mansions v. ch.
+<span id="fn_0"></span>[9:1](tic03.htm#fr_0.md) *Castle*, Mansions v. ch.
 iv. I.
 
-<span id="fn_1"></span>[9:2](tic03.htm#fr_1) *Letters of St. Teresa*,
+<span id="fn_1"></span>[9:2](tic03.htm#fr_1.md) *Letters of St. Teresa*,
 Vol. ii.
 
-<span id="fn_2"></span>[10:3](tic03.htm#fr_2) The French Carmelite nuns
+<span id="fn_2"></span>[10:3](tic03.htm#fr_2.md) The French Carmelite nuns
 in their new translation, *Œuvres complètes de Sainte Thérèse*, t. vi,
 Introduction, p. 5, quoting the *Año Teresiano*, t. vii ad 7 July, and
 Father Gracian's *Dilucidario*, as well as his additions to Ribera, show
 the exact share of Fr. Gracian and Dr. Velasquez in the preliminaries of
 this work.
 
-<span id="fn_3"></span>[11:4](tic03.htm#fr_3) Fuente, *Obras de Santa
+<span id="fn_3"></span>[11:4](tic03.htm#fr_3.md) Fuente, *Obras de Santa
 Teresa de Jesus*. Edit. 1881, Vol. vi, p. 278.
 
-<span id="fn_4"></span>[11:5](tic03.htm#fr_4) *Ibid*. p. 178. A somewhat
+<span id="fn_4"></span>[11:5](tic03.htm#fr_4.md) *Ibid*. p. 178. A somewhat
 similar incident is reported by Mother Anne of the Incarnation (*Ibid*.
 p. 213), but it appears to be wrongly brought into connection with the
 composition of the *Castle*. The nun in question had belonged to the
@@ -705,66 +705,66 @@ without making any corrections. After an hour, it being about midnight,
 she ceased and the light disappeared. The Saint then knelt down and
 remained in prayer for three hours, after which she went to sleep.
 
-<span id="fn_5"></span>[12:6](tic03.htm#fr_5) Fuente, p. 223.
+<span id="fn_5"></span>[12:6](tic03.htm#fr_5.md) Fuente, p. 223.
 
-<span id="fn_6"></span>[12:7](tic03.htm#fr_6) *Ibid*. p. 255.
+<span id="fn_6"></span>[12:7](tic03.htm#fr_6.md) *Ibid*. p. 255.
 
-<span id="fn_7"></span>[14:8](tic03.htm#fr_7) Autograph, fol. cx.
+<span id="fn_7"></span>[14:8](tic03.htm#fr_7.md) Autograph, fol. cx.
 
-<span id="fn_8"></span>[15:9](tic03.htm#fr_8) December 7, 1577.
+<span id="fn_8"></span>[15:9](tic03.htm#fr_8.md) December 7, 1577.
 *Letters* Vol. II.
 
-<span id="fn_9"></span>[15:10](tic03.htm#fr_9) Jan. 14, 1580. Letters
+<span id="fn_9"></span>[15:10](tic03.htm#fr_9.md) Jan. 14, 1580. Letters
 Vol. IV:
 
-<span id="fn_10"></span>[15:11](tic03.htm#fr_10) Fuente, *Obras*. *l.c.*
+<span id="fn_10"></span>[15:11](tic03.htm#fr_10.md) Fuente, *Obras*. *l.c.*
 p. 275.
 
-<span id="fn_11"></span>[15:12](tic03.htm#fr_11) *l.c.* p. 217.
+<span id="fn_11"></span>[15:12](tic03.htm#fr_11.md) *l.c.* p. 217.
 
-<span id="fn_12"></span>[15:13](tic03.htm#fr_12) *Ibid*. p. 227.
+<span id="fn_12"></span>[15:13](tic03.htm#fr_12.md) *Ibid*. p. 227.
 
-<span id="fn_13"></span>[16:14](tic03.htm#fr_13) Fuente, *Obras*. p.
+<span id="fn_13"></span>[16:14](tic03.htm#fr_13.md) Fuente, *Obras*. p.
 190.
 
-<span id="fn_14"></span>[17:15](tic03.htm#fr_14) Autograph. fol. 1.
+<span id="fn_14"></span>[17:15](tic03.htm#fr_14.md) Autograph. fol. 1.
 
-<span id="fn_15"></span>[19:16](tic03.htm#fr_15) See *Life*, ch. xviii.
+<span id="fn_15"></span>[19:16](tic03.htm#fr_15.md) See *Life*, ch. xviii.
 20. *Mansions* v. ch. i. 9. The ignorance of the priest who had told her
 that God was only present by His grace, made a lasting impression on St.
 Teresa. She was first undeceived by a Dominican.
 
-<span id="fn_16"></span>[20:17](tic03.htm#fr_16) Rom. viii. 18.
+<span id="fn_16"></span>[20:17](tic03.htm#fr_16.md) Rom. viii. 18.
 
-<span id="fn_17"></span>[21:18](tic03.htm#fr_17) Fuente; pp. 131-133.
+<span id="fn_17"></span>[21:18](tic03.htm#fr_17.md) Fuente; pp. 131-133.
 
-<span id="fn_18"></span>[21:19](tic03.htm#fr_18) *l.c.* 184.
+<span id="fn_18"></span>[21:19](tic03.htm#fr_18.md) *l.c.* 184.
 
-<span id="fn_19"></span>[22:20](tic03.htm#fr_19) Allusion to the famous
+<span id="fn_19"></span>[22:20](tic03.htm#fr_19.md) Allusion to the famous
 *Mystical Theology* attributed to Dionysius the Areopagite, and long
 considered the chief authority on this subject.
 
-<span id="fn_20"></span>[23:21](tic03.htm#fr_20) 2 Cor. iv. 6.
+<span id="fn_20"></span>[23:21](tic03.htm#fr_20.md) 2 Cor. iv. 6.
 
-<span id="fn_21"></span>[23:22](tic03.htm#fr_21) The example of Moses is
+<span id="fn_21"></span>[23:22](tic03.htm#fr_21.md) The example of Moses is
 scarcely to the point (cf. Exod. xxxiii. 11, and Num. xii. 7, 8).
 
-<span id="fn_22"></span>[24:23](tic03.htm#fr_22) Fuente, pp. 330-332.
+<span id="fn_22"></span>[24:23](tic03.htm#fr_22.md) Fuente, pp. 330-332.
 
-<span id="fn_23"></span>[24:24](tic03.htm#fr_23) *l.c.* p. 334. These
+<span id="fn_23"></span>[24:24](tic03.htm#fr_23.md) *l.c.* p. 334. These
 testimonies could be easily multiplied.
 
-<span id="fn_24"></span>[28:25](tic03.htm#fr_24) *Way of Perf.* ch. xx.
+<span id="fn_24"></span>[28:25](tic03.htm#fr_24.md) *Way of Perf.* ch. xx.
 1
 
-<span id="fn_25"></span>[30:26](tic03.htm#fr_25) S. Theol. 2da 2dæ, qq.
+<span id="fn_25"></span>[30:26](tic03.htm#fr_25.md) S. Theol. 2da 2dæ, qq.
 171-184.
 
-<span id="fn_26"></span>[31:27](tic03.htm#fr_26) Bollandists, *Acta*, n.
+<span id="fn_26"></span>[31:27](tic03.htm#fr_26.md) Bollandists, *Acta*, n.
 1495. See also Impressions in Spain. By Lady Herbert. London, 1867, p,
 171.
 
-<span id="fn_27"></span>[32:28](tic03.htm#fr_27) The first translation
+<span id="fn_27"></span>[32:28](tic03.htm#fr_27.md) The first translation
 is to be found in the *Works of the Holy Mother St. Teresa of Jesus*
 (third part). Printed in the year MDCLXXV, pp. 137-286. It bears the
 title: *The Interiour Castle: or, Mansions*. As to the authors of this
@@ -781,7 +781,7 @@ Of foreign translations it will be sufficient to mention the one by
 Cyprien de la Nativité, in *Œuvres de la Sainte Mère Térèse de Jésus*,
 Paris, 1657, and the new one in *Œuvres* already mentioned.
 
-<span id="fn_28"></span>[33:29](tic03.htm#fr_28) The present translation
+<span id="fn_28"></span>[33:29](tic03.htm#fr_28.md) The present translation
 ought to dispose of the reservations expressed by an able critic in his
 otherwise valuable appreciation of the works of the Saint. See *Santa
 Teresa*, by the late Alexander Whyte, D.D. London, 1898, p. 32.
@@ -792,4 +792,4 @@ the present edition.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](tic04)
+[Next: Preface](tic04.md)

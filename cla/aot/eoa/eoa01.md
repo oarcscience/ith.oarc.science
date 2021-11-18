@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](eoa00) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](eoa00.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../laot/img/tease.jpg)](index)  
+[![](../laot/img/tease.jpg)](index.md)  
 *The Epistles of Apollonius of Tyana*, by Apollonius, tr. F.C.
 Conybeare, \[1912\], at Intangible Textual Heritage
 
@@ -158,9 +158,9 @@ in size and in laws, and in institutions and in the warlike virtues of
 ancestors, and still more in the arts and manners of peace, I should
 still see reason to admire and honour your city more than all others,
 and so would every man who has any sense. <span
-id="fr_0"></span>[1](#fn_0) By common report this would be the reason
+id="fr_0"></span>[1](#fn_0.md) By common report this would be the reason
 for preferring your city on a comparison of it with the run of
-cities. <span id="fr_1"></span>[2](#fn_1) But whenever a city
+cities. <span id="fr_1"></span>[2](#fn_1.md) But whenever a city
 
 <span id="page_418">p. 418</span> <span id="page_419">p. 419</span>
 
@@ -758,7 +758,7 @@ God eternal, which in so far as it takes on the names and person of
 individuals, forfeits its peculiar character to its prejudice. Now this
 is of lesser importance; what is of greater is this, that some are apt
 to weep so soon as ever God arises out of mankind, <span
-id="fr_2"></span>[1](#fn_2) by mere change of place and not of nature.
+id="fr_2"></span>[1](#fn_2.md) by mere change of place and not of nature.
 But in very truth of things, you should not lament another's death, but
 prize and reverence it. And the highest and only befitting honour you
 can pay to death, is to resign unto God him that was here, and continue
@@ -1159,14 +1159,14 @@ nature, but poverty due to a disgraceful reason is a reproach. (95, 9.)
 
 ### Footnotes
 
-<span id="fn_0"></span>[417:1](eoa01.htm#fr_0) Or perhaps we should
+<span id="fn_0"></span>[417:1](eoa01.htm#fr_0.md) Or perhaps we should
 render "by ordinary reasoning."
 
-<span id="fn_1"></span>[417:2](eoa01.htm#fr_1) Perhaps we should read in
+<span id="fn_1"></span>[417:2](eoa01.htm#fr_1.md) Perhaps we should read in
 the Greek προκριτιςκόν, ἂν ᾖ with Olearius and render "for preferring
 your city, if the object under comparison were an ordinary city."
 
-<span id="fn_2"></span>[457:1](eoa01.htm#fr_2) The idea is that by death
+<span id="fn_2"></span>[457:1](eoa01.htm#fr_2.md) The idea is that by death
 the divine substance which was confined in a personality or name (which
 was the same thing) is released, so that where there was only a human
 being, there is now God.

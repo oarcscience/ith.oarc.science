@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf09)  [Next](sbf11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf09)  [Next](sbf11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -47,6 +47,6 @@ feels that he knows that the dawn's Stars they are.
 
 ------------------------------------------------------------------------
 
-[Next: What The Stars Say, And A Prayer To A Star.](sbf11)
+[Next: What The Stars Say, And A Prayer To A Star.](sbf11.md)
 
 </div>

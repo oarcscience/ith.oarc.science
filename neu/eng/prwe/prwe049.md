@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe048)  [Next](prwe050) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe048)  [Next](prwe050.md) 
 
 ------------------------------------------------------------------------
 
@@ -288,4 +288,4 @@ the hills and the valleys of the country about Towednack and Zennor.
 
 ------------------------------------------------------------------------
 
-[Next: Anne Jeffries and the Fairies](prwe050)
+[Next: Anne Jeffries and the Fairies](prwe050.md)

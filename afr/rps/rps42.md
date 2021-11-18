@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps41)  [Next](rps43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps41)  [Next](rps43.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ get him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 41. No. 1. The Bible Editor](rps43)
+[Next: Chapter 41. No. 1. The Bible Editor](rps43.md)

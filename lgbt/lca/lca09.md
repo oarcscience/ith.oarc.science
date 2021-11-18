@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca08) 
-[Next](lca10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca08.md) 
+[Next](lca10.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_114">p. 114</span>
 
-# THE INTERMEDIATE SEX <span id="fr_19"></span>[1](#fn_19) [114](lca15.htm#xref_114)
+# THE INTERMEDIATE SEX <span id="fr_19"></span>[1](#fn_19) [114](lca15.htm#xref_114.md)
 
 IN late years (and since the arrival of the New Woman amongst us) many
 things in the relation of men and women to each other have altered, or
@@ -91,7 +91,7 @@ marrying in the usual way, devote herself to the love of another
 feminine.
 
 People of this kind (*i.e.*, having this special variation of the
-love-sentiment) he called Urnings; <span id="fr_20"></span>[1](#fn_20)
+love-sentiment) he called Urnings; <span id="fr_20"></span>[1](#fn_20.md)
 and though we are not obliged to accept his theory about
 
 <span id="page_118">p. 118</span>
@@ -100,7 +100,7 @@ the crosswise connexion between 'soul' and 'body,' since at best these
 words are somewhat vague and indefinite; yet his work was important
 because it was one of the first attempts, in modern times, to recognise
 the existence of what might be called an Intermediate sex, and to give
-at any rate some explanation of it. <span id="fr_21"></span>[1](#fn_21)
+at any rate some explanation of it. <span id="fr_21"></span>[1](#fn_21.md)
 
 Since that time the subject has been widely studied and written about by
 scientific men and others, especially on the Continent (though in
@@ -133,7 +133,7 @@ well-known writer in Germany, quotes figures (which we think must be
 exaggerated) as high as 1 man in every 22, while Dr. Albert Moll (*Die
 Conträre Sexual-enphfindung*, chap. 3) gives estimates varying from 1 in
 every 50 to as low as 1 in every 500. <span
-id="fr_22"></span>[1](#fn_22) These figures apply to such as are
+id="fr_22"></span>[1](#fn_22.md) These figures apply to such as are
 exclusively of the said nature, *i.e.*, to those whose deepest feelings
 of
 
@@ -207,7 +207,7 @@ they are regarded; and in the manifesto of a considerable community of
 such people in Germany occur these words, "The rays of sunshine in the
 night of our existence are so rare, that we are responsive and deeply
 grateful for the least movement, for every single voice that speaks in
-our favour in the forum of mankind." <span id="fr_23"></span>[1](#fn_23)
+our favour in the forum of mankind." <span id="fr_23"></span>[1](#fn_23.md)
 
 <span id="page_123">p. 123</span>
 
@@ -267,7 +267,7 @@ In the case, for instance, of a woman of this temperament (defined we
 suppose as "a male soul in a female body") the theory helps us to
 understand how it might be possible for her to fall *bonâ fide* in love
 with another woman. Krafft-Ebing, of Vienna, gives <span
-id="fr_24"></span>[1](#fn_24) the case of a lady (A.), 28 years of age,
+id="fr_24"></span>[1](#fn_24) the case of a lady (A..md), 28 years of age,
 who fell deeply in love with a younger one (B.). "I loved her divinely,"
 she said. They lived together, and the union lasted four years, but was
 then broken by the marriage of B. A. suffered in consequence from
@@ -319,13 +319,13 @@ inclining to be high-pitched, etc.; while his dwelling-room is orderly
 in the extreme, even natty, and choice of decoration and perfume. His
 affection too is often feminine in character, clinging, dependent and
 jealous, as of one desiring to be loved almost more than to love. <span
-id="fr_25"></span>[1](#fn_25)
+id="fr_25"></span>[1](#fn_25.md)
 
 On the other hand, as the extreme type of the homogenic female, we have
 a rather markedly aggressive person, of strong passions, masculine
 manners and movements, practical in the conduct of life, sensuous rather
 than sentimental in love, often untidy, and *outré* in attire; <span
-id="fr_26"></span>[2](#fn_26) her figure muscular, her voice rather low
+id="fr_26"></span>[2](#fn_26.md) her figure muscular, her voice rather low
 in pitch; her dwelling-room decorated with sporting-scenes, pistols,
 etc., and not without a suspicion of the fragrant weed in the
 atmosphere; while her love (generally to rather soft and feminine
@@ -493,36 +493,36 @@ poetess, and others.
 
 ### Footnotes
 
-<span id="fn_19"></span>[114:1](lca09.htm#fr_19) This paper, which
+<span id="fn_19"></span>[114:1](lca09.htm#fr_19.md) This paper, which
 appeared originally in *The Reformer*, is now published as a separate
 pamphlet, under the title "An Unknown People," by Messrs. A. and H. B.
 Bonner, Took's Court, E. C. Price 6d.
 
-<span id="fn_20"></span>[117:1](lca09.htm#fr_20) From *Uranos*, heaven;
+<span id="fn_20"></span>[117:1](lca09.htm#fr_20.md) From *Uranos*, heaven;
 his idea being that the Urning-love was of a higher order than the
 ordinary attachment.
 
-<span id="fn_21"></span>[118:1](lca09.htm#fr_21) Charles G. Leland
+<span id="fn_21"></span>[118:1](lca09.htm#fr_21.md) Charles G. Leland
 ("Hans Breitmann") in his book *The Alternate Sex* (Wellby, 1904),
 insists much on the frequent combination of the characteristics of both
 sexes in remarkable men and women, and has a chapter on "The Female Mind
 in Man," and another on "The Male Intellect in Woman."
 
-<span id="fn_22"></span>[119:1](lca09.htm#fr_22) Some late statistical
+<span id="fn_22"></span>[119:1](lca09.htm#fr_22.md) Some late statistical
 inquiries (see *Statistische Untersuchungen*, von Dr. M. Hirschfeld,
 Leipzig, 1904) yield 1.5 to 2.0 per cent. as a probable ratio.
 
-<span id="fn_23"></span>[122:1](lca09.htm#fr_23) See De Joux, *Die
+<span id="fn_23"></span>[122:1](lca09.htm#fr_23.md) See De Joux, *Die
 Enterbten des Liebes-glückes* (Leipzig, 1893), p. 21.
 
-<span id="fn_24"></span>[125:1](lca09.htm#fr_24) *Psychopathia
+<span id="fn_24"></span>[125:1](lca09.htm#fr_24.md) *Psychopathia
 Sexualis*, 7th ed., p. 276.
 
-<span id="fn_25"></span>[127:1](lca09.htm#fr_25) A good deal in this
+<span id="fn_25"></span>[127:1](lca09.htm#fr_25.md) A good deal in this
 description may remind readers of history of the habits and character of
 Henry III. of France.
 
-<span id="fn_26"></span>[127:2](lca09.htm#fr_26) Perhaps like Queen
+<span id="fn_26"></span>[127:2](lca09.htm#fr_26.md) Perhaps like Queen
 Christine of Sweden, who rode across Europe, on her visit to Italy, in
 jack-boots and sitting astride of her horse. It is said that she shook
 the Pope's hand, on seeing him, so heartily that the doctor had to
@@ -530,4 +530,4 @@ attend to it afterwards!
 
 ------------------------------------------------------------------------
 
-[Next: The Free Society](lca10)
+[Next: The Free Society](lca10.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](aenl10)  [Previous](aen09) 
-[Next](aen11) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](aenl10)  [Previous](aen09.md) 
+[Next](aen11.md) 
 
 ------------------------------------------------------------------------
 
@@ -1388,4 +1388,4 @@ And the disdainful soul came rushing thro' the wound.
 
 ------------------------------------------------------------------------
 
-[Next: Book XI](aen11)
+[Next: Book XI](aen11.md)

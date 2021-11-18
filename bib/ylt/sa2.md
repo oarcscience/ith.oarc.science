@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](sa1)  [Next](kg1) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](sa1)  [Next](kg1.md) 
 
 ------------------------------------------------------------------------
 
@@ -2911,4 +2911,4 @@ Israel.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Kings](kg1)
+[Next: 1 Kings](kg1.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat40)  [Next](flat42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat40)  [Next](flat42.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,4 +123,4 @@ glorious spirit is believed to dwell beneath.
 
 ------------------------------------------------------------------------
 
-[Next: Linn-Na-Payshtha](flat42)
+[Next: Linn-Na-Payshtha](flat42.md)

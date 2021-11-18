@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw68)  [Next](omw70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw68)  [Next](omw70.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_23700"></span>
 
 [![The Weaver Maiden and the Herdsman](tn/23700.jpg)  
-Click to enlarge](img/23700.jpg)  
+Click to enlarge](img/23700.jpg.md)  
 The Weaver Maiden and the Herdsman  
 
 # CHINESE
@@ -99,4 +99,4 @@ the making of the well-ordered world.
 
 ------------------------------------------------------------------------
 
-[Next: The Weaver Maiden and the Herdsman](omw70)
+[Next: The Weaver Maiden and the Herdsman](omw70.md)

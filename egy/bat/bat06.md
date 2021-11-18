@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](bat05)  [Next](bat07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](bat05)  [Next](bat07.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ passed through by the Sun-god
  
 
 <span id="img_04400"></span> [![](tn/generic.jpg)  
-Click to view](img/04400.jpg)  
+Click to view](img/04400.jpg.md)  
 The Boat of Af, the dead Sun-god, in the Third Hour.
 
  
@@ -35,7 +35,7 @@ hour and a hawk-beaded deity, one of
  
 
 <span id="img_04500"></span> [![](tn/generic.jpg)  
-Click to view](img/04500.jpg)  
+Click to view](img/04500.jpg.md)  
 The Boat which capsizeth.
 
  
@@ -58,7 +58,7 @@ snake, is the
  
 
 <span id="img_04600"></span> [![](tn/generic.jpg)  
-Click to view](img/04600.jpg)  
+Click to view](img/04600.jpg.md)  
 The Boat of Rest.
 
  
@@ -80,7 +80,7 @@ KHEN-EN-URT-F,
  
 
 <span id="img_04700"></span> [![](tn/generic.jpg)  
-Click to view](img/04700.jpg)  
+Click to view](img/04700.jpg.md)  
 The Boat of the Branch.
 
  
@@ -100,7 +100,7 @@ his arms and the upper
  
 
 <span id="img_04800"></span> [![](tn/generic.jpg)  
-Click to view](img/04800.jpg)  
+Click to view](img/04800.jpg.md)  
 The Four Forms of Osiris.
 
  
@@ -158,7 +158,7 @@ ANTET, i.e., "She who brings."
  
 
 <span id="img_05100"></span> [![](tn/generic.jpg)  
-Click to view](img/05100.jpg)  
+Click to view](img/05100.jpg.md)  
 Third Hour. Upper Register. Gods Nos. 1-6.
 
  
@@ -174,7 +174,7 @@ Eye of RA, who maketh content the gods."
  
 
 <span id="img_05200"></span> [![](tn/generic.jpg)  
-Click to view](img/05200.jpg)  
+Click to view](img/05200.jpg.md)  
 Third Hour. Upper Register. Gods Nos. 7-11.
 
  
@@ -187,7 +187,7 @@ surmounted by a piece of flesh.
  
 
 <span id="img_05201"></span> [![](tn/generic.jpg)  
-Click to view](img/05201.jpg)  
+Click to view](img/05201.jpg.md)  
 Third Hour. Upper Register. Gods Nos. 12-19.
 
  
@@ -203,7 +203,7 @@ head of the fourth is without ornament; their names appear to be PEBA-F,
  
 
 <span id="img_05300"></span> [![](tn/generic.jpg)  
-Click to view](img/05300.jpg)  
+Click to view](img/05300.jpg.md)  
 Third Hour. Upper Register. Gods Nos. 20-26.
 
  
@@ -238,7 +238,7 @@ when
  
 
 <span id="img_05500"></span> [![](tn/generic.jpg)  
-Click to view](img/05500.jpg)  
+Click to view](img/05500.jpg.md)  
 Third Hour. Lower Register. Gods Nos. 1-6.
 
  
@@ -264,7 +264,7 @@ of
  
 
 <span id="img_05600"></span> [![](tn/generic.jpg)  
-Click to view](img/05600.jpg)  
+Click to view](img/05600.jpg.md)  
 Third Hour. Lower Register. Gods Nos. 7-13.
 
  
@@ -286,7 +286,7 @@ TEPT-BES-S.
  
 
 <span id="img_05700"></span> [![](tn/generic.jpg)  
-Click to view](img/05700.jpg)  
+Click to view](img/05700.jpg.md)  
 Third Hour. Lower Register. Gods Nos. 14-19.
 
  
@@ -310,7 +310,7 @@ Horns or RA.
  
 
 <span id="img_05800"></span> [![](tn/generic.jpg)  
-Click to view](img/05800.jpg)  
+Click to view](img/05800.jpg.md)  
 Third Hour. Lower Register. Gods Nos. 20-26.
 
  
@@ -341,7 +341,7 @@ name of the warder of this Field is KHETRA. Whosoever knoweth this shall
 be in the condition of a spirit who hath dominion over his legs."
 
 M. Maspero, in his description of the THIRD HOUR, <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 <span id="page_61">p. 61</span>
 
@@ -358,7 +358,7 @@ sentences is clear enough.
 
 ### Footnotes
 
-<span id="fn_1"></span>[60:1](bat06.htm#fr_1) The portions rendered by
+<span id="fn_1"></span>[60:1](bat06.htm#fr_1.md) The portions rendered by
 M. Maspero read thus:--Ce grand dieu dit aux *Biou shetiou* (Ames
 mystérieuses) qui suivent Osiris: "O vous dont j'ai rendu mystérieuses,
 dont j'ai occulté les âmes, que j'ai mis à la suite d'Osiris pour le
@@ -389,4 +389,4 @@ d'anéantissement."
 ------------------------------------------------------------------------
 
 [Next: Chapter IV: The Fourth Division of the Tuat, Which Is Called
-Ankhet-Kheperu](bat07)
+Ankhet-Kheperu](bat07.md)

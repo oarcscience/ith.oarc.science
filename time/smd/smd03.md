@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd02)  [Next](smd04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd02)  [Next](smd04.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ villages.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. February--The Month of Purification](smd04)
+[Next: Chapter II. February--The Month of Purification](smd04.md)

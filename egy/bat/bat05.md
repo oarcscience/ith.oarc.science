@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](bat04)  [Next](bat06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](bat04)  [Next](bat06.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ passed through by the Sun-god
  
 
 <span id="img_02100"></span> [![](tn/generic.jpg)  
-Click to view](img/02100.jpg)  
+Click to view](img/02100.jpg.md)  
 The Boat of Af in the Second Hour.
 
  
@@ -58,7 +58,7 @@ and he paddleth along through this Field and uttereth words,"
  
 
 <span id="img_02300"></span> [![](tn/generic.jpg)  
-Click to view](img/02300.jpg)  
+Click to view](img/02300.jpg.md)  
 The Boat of the Full Moon.
 
  
@@ -77,7 +77,7 @@ The ends of the SECOND BOAT likewise terminate in
  
 
 <span id="img_02401"></span> [![](tn/generic.jpg)  
-Click to view](img/02401.jpg)  
+Click to view](img/02401.jpg.md)  
 The Boat of the goddess Hathor.
 
  
@@ -98,7 +98,7 @@ and over that at the other end of the boat, "Osiris crieth to it."
  
 
 <span id="img_02501"></span> [![](tn/generic.jpg)  
-Click to view](img/02501.jpg)  
+Click to view](img/02501.jpg.md)  
 The Boat of the Lizard-god.
 
  
@@ -122,7 +122,7 @@ it; above the lizard we have
  
 
 <span id="img_02602"></span> [![](tn/generic.jpg)  
-Click to view](img/02602.jpg)  
+Click to view](img/02602.jpg.md)  
 The Boat of the Grain-god Neper.
 
  
@@ -172,7 +172,7 @@ i.e., "Afu on his steps."
  
 
 <span id="img_02800"></span> [![](tn/generic.jpg)  
-Click to view](img/02800.jpg)  
+Click to view](img/02800.jpg.md)  
 Second Hour. Upper Register. Gods Nos. 1-7.
 
  
@@ -199,7 +199,7 @@ to strike; he is called SEBEN-HESQ-KHAIBITU.
  
 
 <span id="img_02900"></span> [![](tn/generic.jpg)  
-Click to view](img/02900.jpg)  
+Click to view](img/02900.jpg.md)  
 Second Hour. Upper -Register. Gods Nos. 8-15.
 
  
@@ -225,7 +225,7 @@ a uraeus on her head; their names
  
 
 <span id="img_03000"></span> [![](tn/generic.jpg)  
-Click to view](img/03000.jpg)  
+Click to view](img/03000.jpg.md)  
 Second Hour. Upper Register. Gods Nos. 16-21.
 
  
@@ -249,7 +249,7 @@ these are called BESUA, NEPER, and TEPU (?), (or, PAN).
  
 
 <span id="img_03100"></span> [![](tn/generic.jpg)  
-Click to view](img/03100.jpg)  
+Click to view](img/03100.jpg.md)  
 Second Hour. Lower Register. Gods Nos. 1-8.
 
  
@@ -275,7 +275,7 @@ surmounted by a star.
  
 
 <span id="img_03200"></span> [![](tn/generic.jpg)  
-Click to view](img/03200.jpg)  
+Click to view](img/03200.jpg.md)  
 Second Hour. Lower Register. Gods Nos. 9-15.
 
  
@@ -300,7 +300,7 @@ FA-AR-TRU.
  
 
 <span id="img_03300"></span> [![](tn/generic.jpg)  
-Click to view](img/03300.jpg)  
+Click to view](img/03300.jpg.md)  
 Second Hour. Lower Register. Gods Nos. 16-22.
 
  
@@ -428,4 +428,4 @@ SESHET-MAKET-NEB-S.
 ------------------------------------------------------------------------
 
 [Next: Chapter III: The Third Division Of The Tuat, Which Is Called
-Net-Neb-Ua-Kheper-Aut](bat06)
+Net-Neb-Ua-Kheper-Aut](bat06.md)

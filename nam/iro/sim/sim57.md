@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim56)  [Next](sim58) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim56)  [Next](sim58.md) 
 
 ------------------------------------------------------------------------
 
@@ -1171,4 +1171,4 @@ All the family were at home now, and all were happy.
 
 ------------------------------------------------------------------------
 
-[Next: A Little Boy and his Dog, Beautiful Ears](sim58)
+[Next: A Little Boy and his Dog, Beautiful Ears](sim58.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](cair07)  [Next](cair09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](cair07)  [Next](cair09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Confucianism and Its Rivals*, by Herbert A. Giles, \[1915\], at
 Intangible Textual Heritage
 
@@ -826,7 +826,7 @@ of the predecessors of Manichæus, who desires to instruct and reform
 mankind, in order to deliver them from suffering, he begins, we are
 told, "by causing the sound of the beautiful Word to pass through the
 portal of the ear; after which he enters into the abodes of false
-religions, <span id="fr_7"></span>[1](#fn_7) and, relying upon the
+religions, <span id="fr_7"></span>[1](#fn_7.md) and, relying upon the
 virtue of spiritual invocation, chains up the crowd of venomous serpents
 and evil beasts, and no more allows them independence and freedom.
 Further, armed with the axe of wisdom, he cuts down the poisonous trees,
@@ -871,9 +871,9 @@ of the Diamond Sûtra:
 
 ### Footnotes
 
-<span id="fn_7"></span>[194:1](cair08.htm#fr_7) Kindly suggested by
+<span id="fn_7"></span>[194:1](cair08.htm#fr_7.md) Kindly suggested by
 Prof. A. A. Bevan.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture VII. A.D. 600-1000](cair09)
+[Next: Lecture VII. A.D. 600-1000](cair09.md)

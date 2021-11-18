@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](ttlaw02) 
-[Next](ttlaw04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](ttlaw02.md) 
+[Next](ttlaw04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -273,7 +273,7 @@ they were found to answer exactly to his description. He prophesied, not
 by guesswork, but by knowledge of the Law; and in much the same way
 radium was discovered by Professor and Madame Curie. In like manner
 Hertz was led to the discovery of the electro-magnetic waves. The
-celebrated [mathematician](errata.htm#1)
+celebrated [mathematician](errata.htm#1.md)
 
 <span id="page_13">p. 13</span>
 
@@ -382,4 +382,4 @@ idea of what we really are.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Some Psychic Experiences](ttlaw04)
+[Next: Chapter II. Some Psychic Experiences](ttlaw04.md)

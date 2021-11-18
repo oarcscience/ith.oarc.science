@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lgc11)  [Next](lgc13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lgc11)  [Next](lgc13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267T84E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267T84E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Cuchulain of Muirthemne*, by Lady Augusta Gregory, \[1902\], at
 Intangible Textual Heritage
 
@@ -394,4 +394,4 @@ till I see those two bulls fighting before my face."
 
 ------------------------------------------------------------------------
 
-[Next: X. The Wedding of Maine Morgor](lgc13)
+[Next: X. The Wedding of Maine Morgor](lgc13.md)

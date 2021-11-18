@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb12)  [Next](isb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb12)  [Next](isb14.md) 
 
 ------------------------------------------------------------------------
 
@@ -237,4 +237,4 @@ famous river before us, with low banks and rich pastures on either side.
 
 ------------------------------------------------------------------------
 
-[Next: Limerick](isb14)
+[Next: Limerick](isb14.md)

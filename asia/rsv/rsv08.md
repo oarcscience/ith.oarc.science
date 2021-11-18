@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv07)  [Next](rsv09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv07)  [Next](rsv09.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ politics during these years</u>.
 Royal support included money, power, and gifts of pagodas as the
 reigning monarchs continued the securing and copying of various Buddhist
 sacred writings. In 1018, Le Thai-Ton sent an official mission to China
-to secure and copy the texts of the [<u>Tripitaka</u>](errata.htm#8)
+to secure and copy the texts of the [<u>Tripitaka</u>](errata.htm#8.md)
 (Tam-Tang: the three parts of Sacred Buddhist Scripture) and housed them
 at Dia-Hung. When the Sung Court in 1034 sent other copies of major
 canons as gifts, the royal court marked the arrival with a solemn
@@ -178,7 +178,7 @@ echelons of its society.
 <span class="contnote">\[paragraph continues\]</span> Magic and sorcery
 became the accepted practices among some Buddhist bonzes. As the
 apparent decay of Buddhism and a unifying ritualistic structure
-increased, the processes of [adoption](errata.htm#9) speeded up.
+increased, the processes of [adoption](errata.htm#9.md) speeded up.
 
 The Tibetan Phags-Pa had introduced Lamaism (Mantrayana) from Tibet into
 the Chinese court. From there it quickly moved to Vietnam and added to
@@ -252,7 +252,7 @@ The Trinh dynasty (fervent Buddhists) restored many Buddhist temples and
 built numerous temples. They welcomed Chinese Buddhist monks fleeing the
 Manchu conquest. Among these was Ta Nguyen Thieu (d. 1728) a noted
 builder of temples and monasteries, including the
-[monastery](errata.htm#10) at Vinh-An (later called Quoc-An, meaning
+[monastery](errata.htm#10.md) at Vinh-An (later called Quoc-An, meaning
 Grace of the Kingdom) at Phu-xuan (Hue’) with his temples at Hue’
 rivaling those of Thanh-Long in the north.
 
@@ -323,7 +323,7 @@ are:
 \(1\) <u>Ethnic Cambodian Theravadists</u>: primarily found in the ten
 delta provinces with 400,000 to 500,000 people. Their Buddhist customs
 are very similar to those of Cambodia and Thailand. With the histories
-of Wats (temples and temple grounds) [totaling](errata.htm#11) less than
+of Wats (temples and temple grounds) [totaling](errata.htm#11.md) less than
 75 years, it is believed that these Theravadists have been in Vietnam
 less than a hundred years. This group may have up to 20,000 monks, but
 no nuns although some women seem to aspire to this office. Being
@@ -423,7 +423,7 @@ diversity of thought and behavior at times. When such forces as
 geography, climate, diet, economics, etc., are added to these religious
 concepts, there is little wonder that differences are to be noted.
 
-Within Vietnam, Buddhism [undoubtedly](errata.htm#12) fills the need of
+Within Vietnam, Buddhism [undoubtedly](errata.htm#12.md) fills the need of
 many people which Animism and Confucianism leave void. Philosophically,
 Buddhism ties man to the universe eternally--past, present and future.
 In so doing, it provides some comfort to the bereaved, a sense of
@@ -813,7 +813,7 @@ Hao and Cao Dai are excluded.
 \(3\) <u>Mantrayana/Vajrayana/Tantrism</u>, Tantrism incorporates Hindu
 hymns and dances in erotic rites with worship of female divinities and
 mysticism while declaring Buddhahood can be attained through theurgic
-magical practices. [Sanskrit](errata.htm#13) and Tibetan are used as
+magical practices. [Sanskrit](errata.htm#13.md) and Tibetan are used as
 basic languages. While related to Mahayana, it is more to be found in
 its purer form in Tibet, Mongolia, etc., than in Vietnam where its major
 influence seems to be in funerals.
@@ -979,7 +979,7 @@ actually to be increased.
 <u>Nirvana</u>: is the highest state to which a Buddhist may aspire. It
 is a state of being that is outside or beyond the cycle of rebirth. An
 exact definition of Nirvana seems unobtainable since Buddha refrained
-from describing this state. [When](errata.htm#14) pressed for answers he
+from describing this state. [When](errata.htm#14.md) pressed for answers he
 gave parables and stated that it is the estate which his disciples
 should strive to reach. It is also the state in which the Buddha's
 followers believe him now to be as a result of the Enlightenment which
@@ -1227,7 +1227,7 @@ Buddhism, the contrast is evident.
 
 3\. <u>History</u>: Buddhism and Christianity hold opposing concepts of
 history. Buddha accepted the Indian cosmology of a repeating cycle of
-time. Since [Buddha](errata.htm#15) did not feel that knowledge of the
+time. Since [Buddha](errata.htm#15.md) did not feel that knowledge of the
 origin of the world contributed to religious life, he apparently refused
 to discuss it. The concept of time advocated by Buddhism seems to be
 basic to the doctrine of a continuous cycle of existence. This doctrine
@@ -1295,7 +1295,7 @@ where there is continuous and eternal community and unspeakable
 happiness in the presence of God,
 
 7\. <u>God</u>: Buddhism has no God in the Christian sense--no
-[transcendent](errata.htm#16), personal, redeeming God. The Buddhist
+[transcendent](errata.htm#16.md), personal, redeeming God. The Buddhist
 must therefore find within himself the purpose, wisdom, and significance
 of the ultimate, as well as release and peace. While the Buddhist has
 the example of Buddha in this quest, he must of himself provide his own
@@ -1334,7 +1334,7 @@ in its basic theology. So the prayers which may be said by some
 adherents in contemporary Buddhism seem to be a modification of basic
 teachings.
 
-10\. Sin: Christianity believes sin to be an [alienation](errata.htm#17)
+10\. Sin: Christianity believes sin to be an [alienation](errata.htm#17.md)
 from Divinity created either by man in his current state or by
 transgression of Divine Will. Because Buddhism does not recognize such a
 Divine Power to who each man is personally responsible, "Sin" as
@@ -1501,7 +1501,7 @@ Kitagawa, Joseph M. (Editor), <u>Modern Trends in World Religions</u>,
 LaSalle, Ill., The Open Court Publishing Co., 1959
 
 Kitagawa, Joseph M., <u>Religions of the East</u>, Philadelphia, The
-[Westminster](errata.htm#18) Press, 1960
+[Westminster](errata.htm#18.md) Press, 1960
 
 Nguyen Phut Tan, <u>A Modern History of Vietnam</u>, Saigon: Nha Sach
 Khai-Tri, 1964
@@ -1514,14 +1514,14 @@ Noss, J. B., <u>Living Religions</u>, Philadelphia, United Church Press,
 
 Sujib Punyanubhab, <u>Some Prominent Characteristics of Buddhism</u>,
 (English translation by Siri Buddhasukh), Bangkok: World
-[Fellowship](errata.htm#19) of Buddhists News Bulletin, 1964
+[Fellowship](errata.htm#19.md) of Buddhists News Bulletin, 1964
 
 <u>Vietnam--Past and Present</u>, Paris/Saigon, Edition Frances-Asia,
 1956
 
 PERSONAL RESPONSE PROJECT FILES
 
-Warren, Henry C., <u>Buddhism in [Translations](errata.htm#20)</u>, New
+Warren, Henry C., <u>Buddhism in [Translations](errata.htm#20.md)</u>, New
 York, Atheneum Press, 1963
 
 Woodward, F. L., <u>Some Sayings of the Buddha</u>, London: Oxford
@@ -1557,4 +1557,4 @@ Buddhist Wheel of Life on gate of Cao Dai Temple in Danang.</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: VI. Islam](rsv09)
+[Next: VI. Islam](rsv09.md)

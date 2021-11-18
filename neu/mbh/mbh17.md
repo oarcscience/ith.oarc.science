@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](mbh16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](mbh16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myth of the Birth of the Hero*, by Otto Rank, \[1914\], at
 Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ water, in a box. He is then saved by animals, or by lowly people
 After he has grown up, he finds his distinguished parents, in a highly
 versatile fashion. He takes his revenge on his father, on the one hand,
 and is acknowledged, on the other. Finally he achieves rank and
-honors. <span id="fr_90"></span>[1](#fn_90)
+honors. <span id="fr_90"></span>[1](#fn_90.md)
 
 Since the normal relations of the hero toward his father and his mother
 regularly appear impaired in all these
@@ -68,7 +68,7 @@ inquiry into the motives which oblige the hero to sever his family
 relations. Numerous investigators have emphasized that the understanding
 of myth formation requires our going back to their ultimate source,
 namely the individual faculty of imagination. <span
-id="fr_91"></span>[1](#fn_91) The fact has also been pointed out that
+id="fr_91"></span>[1](#fn_91.md) The fact has also been pointed out that
 this imaginative faculty is found in its active and unchecked exuberance
 only in childhood. Therefore, the imaginative life of the child should
 first be studied, in order to facilitate the understanding of the far
@@ -177,7 +177,7 @@ activity of the imagination that is primarily manifested in the play of
 the child, and which from about the period preceding puberty takes hold
 of the theme of the family relations. A characteristic example of this
 special imaginative faculty is represented by the familiar
-*daydreams*, <span id="fr_92"></span>[1](#fn_92) which are continued
+*daydreams*, <span id="fr_92"></span>[1](#fn_92.md) which are continued
 until long after puberty. Accurate observation of these daydreams shows
 that they serve for the fulfillment of wishes, for the righting of life,
 and that they have two essential objects, one erotic, the other of an
@@ -255,11 +255,11 @@ him, to the father in whom he believed in his earlier years, his
 imagination being in truth only the expression of regret for this happy
 time having passed away. *Thus the overvaluation of the earliest years
 of childhood again claims its own in these fancies*. <span
-id="fr_93"></span>[1](#fn_93) An interesting contribution to this
+id="fr_93"></span>[1](#fn_93.md) An interesting contribution to this
 subject is furnished by the study of dreams. Dream-interpretation
 teaches that even in later years, in the dreams of the emperor or the
 empress, these princely persons stand for the father and the
-mother. <span id="fr_94"></span>[2](#fn_94) Thus the infantile
+mother. <span id="fr_94"></span>[2](#fn_94.md) Thus the infantile
 overvaluation of the parents is still preserved in the dream of the
 normal adult.
 
@@ -320,11 +320,11 @@ and in the water. These motifs do not at first glance seem to permit a
 psychological derivation. Fortunately the study of dream-symbolisms
 permits the elucidation of these elements of the hero myth. The
 utilization of the same material in the dreams of healthy persons and
-neurotics <span id="fr_95"></span>[1](#fn_95) indicates that the
+neurotics <span id="fr_95"></span>[1](#fn_95.md) indicates that the
 exposure in the water signifies no more and no less than the *symbolic
 expression of birth*, The children come out of the water. <span
-id="fr_96"></span>[2](#fn_96) The basket, box, or receptacle simply
-means the container, the womb; <span id="fr_97"></span>[3](#fn_97) so
+id="fr_96"></span>[2](#fn_96.md) The basket, box, or receptacle simply
+means the container, the womb; <span id="fr_97"></span>[3](#fn_97.md) so
 that the exposure directly signifies
 
 <span id="page_74">p. 74</span>
@@ -333,14 +333,14 @@ the process of birth, although it is represented by its opposite.
 
 Those who object to this representation by opposites should remember how
 often the dream works with the same mechanism. <span
-id="fr_98"></span>[1](#fn_98) A confirmation of this interpretation of
+id="fr_98"></span>[1](#fn_98.md) A confirmation of this interpretation of
 the exposure, as taken from the common human symbolism, is furnished by
 the material itself, in the dream by the grandfather (or still more
-convincingly by the mother herself) <span id="fr_99"></span>[2](#fn_99)
+convincingly by the mother herself) <span id="fr_99"></span>[2](#fn_99.md)
 in the Ctesian version of Cyrus before his birth; in this dream, so much
 water flows from the lap of the expectant mother as to
-[inundate](errata.htm#2) all Asia, like an enormous ocean. <span
-id="fr_100"></span>[3](#fn_100) It is remarkable that in both cases the
+[inundate](errata.htm#2.md) all Asia, like an enormous ocean. <span
+id="fr_100"></span>[3](#fn_100.md) It is remarkable that in both cases the
 Chaldeans correctly interpreted these water dreams as birth dreams. In
 all probability,
 
@@ -354,7 +354,7 @@ dreamer hurls herself into the dark water of a lake: Dreams of this sort
 are birth dreams, and their interpretation is accomplished by reversing
 the fact as communicated in the manifest dream; namely, instead of
 hurling oneself into the water, it means emerging from the water, i.e.,
-to be born. <span id="fr_101"></span>[1](#fn_101) The justice of this
+to be born. <span id="fr_101"></span>[1](#fn_101.md) The justice of this
 interpretation, which renders the water dream equivalent to the
 exposure, is again confirmed by the fact that precisely in the Cyrus
 saga, which contains the water dream, the theme of the exposure in the
@@ -369,13 +369,13 @@ explained by Freud as due to the general manner in which recollections
 are elaborated into fantasies; the same material reappears in the
 fantasies, but in an entirely novel arrangement, and no attention
 whatsoever is paid to the natural sequence of the acts. <span
-id="fr_102"></span>[2](#fn_102)
+id="fr_102"></span>[2](#fn_102.md)
 
 Besides this chronological reversal, the reversal of the contents
 requires special explanation. The first reason for the representation of
 the birth by its opposite--the life-threatening exposure in the
 water--is the accentuation of the parental hostility toward the future
-hero. <span id="fr_103"></span>[3](#fn_103) The creative
+hero. <span id="fr_103"></span>[3](#fn_103.md) The creative
 
 <span id="page_76">p. 76</span>
 
@@ -392,13 +392,13 @@ exists in the process of birth itself. The overcoming of all these
 obstacles also expresses the idea that the future hero has actually
 overcome the greatest difficulties by virtue of his birth, for he has
 victoriously thwarted all attempts to prevent it. <span
-id="fr_104"></span>[1](#fn_104) Or another interpretation may be
+id="fr_104"></span>[1](#fn_104.md) Or another interpretation may be
 admitted, according to which the youthful hero, foreseeing his destiny
 to taste more than his share of the bitterness of life, deplores in a
 pessimistic mood the inimical act which has called him to earth. He
 accuses the parents, as it were, for having exposed him to the struggle
 of life, for having allowed him to be born. <span
-id="fr_105"></span>[2](#fn_105) The refusal to let the son be born,
+id="fr_105"></span>[2](#fn_105.md) The refusal to let the son be born,
 which belongs especially to the father, is frequently concealed by the
 contrast motif, the wish for a child (as in Oedipus, Perseus, and
 others), while the hostile attitude toward the future successor on the
@@ -430,7 +430,7 @@ somewhat startling, it is not necessary to explore the heavens for some
 process into which this trait might be laboriously fitted. Looking with
 open eyes and unprejudiced minds at the relations between parents and
 children, or between brothers, as these exist in reality, <span
-id="fr_106"></span>[1](#fn_106) a certain tension is frequently, if not
+id="fr_106"></span>[1](#fn_106.md) a certain tension is frequently, if not
 regularly revealed between father and son, or still more distinctly a
 competition between brothers. Although this tension may not be obvious
 and permanent, it is lurking in the sphere of the unconscious, as it
@@ -447,7 +447,7 @@ the incest with the mother. This erotic relation with the mother, which
 predominates in other mythological cycles, is relegated to the
 background in the myths of the birth of the hero, while the opposition
 against the father is more strongly accentuated. <span
-id="fr_107"></span>[1](#fn_107)
+id="fr_107"></span>[1](#fn_107.md)
 
 The fact that this infantile rebellion against the father is apparently
 provoked in the birth myths by the hostile behavior of the father, is
@@ -494,7 +494,7 @@ acquires a more intimate connection with the mother--they are often
 exposed together (Perseus, Telephus, Feridun)--who is nearer to him on
 account of the erotic relation; while the renouncement of his hatred
 against the father here attains the expression of its most forcible
-reaction, <span id="fr_108"></span>[1](#fn_108) for the hero henceforth
+reaction, <span id="fr_108"></span>[1](#fn_108.md) for the hero henceforth
 appears, as in the Hamlet saga, not as the persecutor of his father (or
 grandfather) but as the avenger of the persecuted father. This involves
 a deeper relation of the Hamlet saga with the Persian story of
@@ -505,17 +505,17 @@ murdered father (compare Feridun and others).
 
 The person of the grandfather himself, who in certain sagas appears
 replaced by other relatives (the uncle, in the Hamlet saga), also
-possesses a deeper meaning. <span id="fr_109"></span>[1](#fn_109) The
+possesses a deeper meaning. <span id="fr_109"></span>[1](#fn_109.md) The
 myth complex of the incest with the mother--and the related revolt
 against the father--is here combined with the second great complex,
 which has for its contents the erotic relations between father and
 daughter. Under this heading belongs, besides other widely ramified
-groups of sagas, <span id="fr_110"></span>[2](#fn_110) the story which
+groups of sagas, <span id="fr_110"></span>[2](#fn_110.md) the story which
 is told in countless versions of a *newborn boy*, of whom it is
 *prophesied* that he is to become the *son-in-law* and *heir* of a
 certain ruler or potentate, and who finally does so in spite of all
 persecutions (exposure and so forth) on the part of the latter. <span
-id="fr_111"></span>[3](#fn_111) The father who refuses to give his
+id="fr_111"></span>[3](#fn_111.md) The father who refuses to give his
 daughter to any of her suitors, or who attaches to the winning of the
 daughter certain conditions difficult of fulfillment, does this because
 he really begrudges her to all others, for when all is told he wishes to
@@ -541,7 +541,7 @@ been impregnated by
 divine conception later on marries a mortal (Jesus, Karna, Ion), who
 then appears as the real father, while the god as the father represents
 merely the most exalted childish idea of the magnitude, power, and
-perfection of the father. <span id="fr_112"></span>[1](#fn_112) At the
+perfection of the father. <span id="fr_112"></span>[1](#fn_112.md) At the
 same time, these myths strictly insist upon the motif of the virginity
 of the mother, which elsewhere is merely hinted at. The first impetus is
 perhaps supplied by the transcendental tendency, necessitated through
@@ -562,7 +562,7 @@ tyrant, the entire plan of the myth conveys the impression that nothing
 had been changed--as if the designation "father" had been simply
 replaced by the term "tyrant." This interpretation of the father as a
 "tyrant," which is typical of the infantile ideation, <span
-id="fr_113"></span>[2](#fn_113) will be found later on to possess the
+id="fr_113"></span>[2](#fn_113.md) will be found later on to possess the
 greatest importance for the interpretation of certain abnormal
 constellations of this complex.
 
@@ -575,7 +575,7 @@ presumably is the origin of royalty from the patriarchate in the family,
 which is still attested by the use of identical words for king and
 father, in the Indo-Germanic languages (compare the German
 *Landesvater*, "father of his country," = king). <span
-id="fr_114"></span>[1](#fn_114) The reversal of the family romance to
+id="fr_114"></span>[1](#fn_114.md) The reversal of the family romance to
 actual conditions is almost entirely accomplished in this type of myth.
 The lowly parents are acknowledged with a frankness which seems to be
 directly contradictory to the tendency of the entire myth.
@@ -602,7 +602,7 @@ motif, which occurs in this type of myth, is referable to such a
 relationship. The child is surrendered in a basket to the water, but not
 with the object of killing him (as, for example, the hostile exposure of
 Oedipus and many other heroes), but for the purpose of saving him
-(compare also Abraham's early history, page [17](mbh03.htm#page_17)).
+(compare also Abraham's early history, page [17](mbh03.htm#page_17).md).
 The danger-fraught warning to the exalted father becomes a hopeful
 prophecy for the lowly father--compare, in the birth story of Jesus, the
 oracle for Herod and Joseph's dream)--entirely corresponding
@@ -629,7 +629,7 @@ the fantasy concludes with the recognition by the highborn parents.
 
 If the Moses legend were placed before us in this more original form, as
 we have reconstructed it from the existing material, <span
-id="fr_115"></span>[1](#fn_115) the sum of this interpretation-mechanism
+id="fr_115"></span>[1](#fn_115.md) the sum of this interpretation-mechanism
 would be approximately what is told in the myth as it is actually
 transmitted--namely, that his true mother was not a princess, but the
 poor woman who was introduced as his nurse, her husband being his
@@ -674,7 +674,7 @@ revolt, crediting him with the features which made the ego a hero. This
 object is achieved with infantile motives and materials, in reverting to
 the infantile romance and transferring it to the hero. Myths are,
 therefore, created by adults, by means of retrograde childhood
-fantasies, <span id="fr_116"></span>[1](#fn_116) the hero being credited
+fantasies, <span id="fr_116"></span>[1](#fn_116.md) the hero being credited
 with the myth-maker's personal infantile history. Meanwhile, the
 tendency of this entire process is the excuse of the individual units
 
@@ -699,18 +699,18 @@ suggested that this conflict dates back primarily to the concealment of
 the sexual processes (at childbirth), which in this way became an enigma
 for the child. This enigma finds its temporary and symbolical solution
 in the infantile sexual theory of the basket and the water. <span
-id="fr_117"></span>[1](#fn_117)
+id="fr_117"></span>[1](#fn_117.md)
 
 The profound participation of the incest motif in myth formation is
 discussed in the author's special investigation of the Lohengrin saga,
 which belongs to the myth of the birth of the hero. The cyclic character
 of the Lohengrin saga is referred by him to the *fantasy of being one's
-own son*, as revealed by Freud. <span id="fr_118"></span>[2](#fn_118)
+own son*, as revealed by Freud. <span id="fr_118"></span>[2](#fn_118.md)
 This accounts for the identity of father and son, in certain myths, and
 for the repetition of their careers; it explains the fact that the hero
 is sometimes not exposed until he has reached maturity, and also the
 intimate connection between birth and death in the exposure motif. <span
-id="fr_119"></span>[3](#fn_119) Jung, who regards the typical fate of
+id="fr_119"></span>[3](#fn_119.md) Jung, who regards the typical fate of
 the hero as the portrayal of the human libido and its typical
 
 <span id="page_86">p. 86</span>
@@ -721,14 +721,14 @@ subordinated. Not only the birth of the hero, which takes place under
 peculiar symbolic circumstances, but also the motif of the two mothers
 of the hero, are explained by Jung through the birth of the hero taking
 place under the mysterious ceremonials of a rebirth from the mother
-consort. <span id="fr_120"></span>[1](#fn_120)
+consort. <span id="fr_120"></span>[1](#fn_120.md)
 
 Having thus outlined the contents of the birth myth of the hero it still
 remains for us to point out certain complications within the birth myth
 itself, which have been explained on the basis of its paranoid
 character, as "splits" of the personality of the royal father and
 persecutor. In some myths, however, and especially in the fairy tales
-that belong to this group, <span id="fr_121"></span>[2](#fn_121) the
+that belong to this group, <span id="fr_121"></span>[2](#fn_121.md) the
 multiplication of mythical personages--and with them, of course, the
 multiplication of motifs, or even of entire stories--are carried so far
 that sometimes the original features are altogether overgrown by these
@@ -788,18 +788,18 @@ Furthermore, the remains of this boy are placed before his father,
 Harpagos, in a basket; it was also a basket in which the newborn Cyrus
 was to have been exposed, and this actually happened to his substitute,
 the herder's son, whose identity with Cyrus is obvious and tangible in
-the version of Justin given on page [36](mbh10.htm#page_36). In this
+the version of Justin given on page [36](mbh10.htm#page_36.md). In this
 report, Cyrus is actually exchanged with the *living* child of the
 herders; but this paradoxical parental feeling is reconciled by the
 consciousness that in reality nothing at all has been altered by this
 exchange. It appears more intelligible, of course, that the herder's
 wife should wish to raise the living child of the king, instead of her
 own *stillborn* boy, as in the Herodotus version (page
-[30](mbh10.htm#page_30)); but here the identity of the boys is again
+[30](mbh10.htm#page_30).md); but here the identity of the boys is again
 evident, for just as the herder's son suffered death instead of Cyrus in
 the past, twelve years later the son of Harpagos (also in a basket) is
 killed directly for Cyrus, whom Harpagos had allowed to live. <span
-id="fr_122"></span>[1](#fn_122)
+id="fr_122"></span>[1](#fn_122.md)
 
 The impression is thereby conveyed that all the multiplications of
 Cyrus, after having been created for a certain purpose, are again
@@ -811,21 +811,21 @@ way of the noble Artembares (who is high in the king's favor), and of
 the first administrator, Harpagos (who is personally related to the
 king)--until he has himself become a prince; so his career is shown in
 the Ctesian version, where Cyrus advances from the herder's son to the
-king's administrator. <span id="fr_123"></span>[2](#fn_123) In this way,
+king's administrator. <span id="fr_123"></span>[2](#fn_123.md) In this way,
 he constantly
 
 <span id="page_89">p. 89</span>
 
 removes, as it were, the last traces of his ascent, the lower Cyrus
 being discarded after absolving the different stages of his
-career. <span id="fr_124"></span>[1](#fn_124)
+career. <span id="fr_124"></span>[1](#fn_124.md)
 
 This complicated myth with its promiscuous array of personages is thus
 simplified and reduced to three actors--the hero and his parents.
 Entirely similar conditions prevail in regard to the "cast" of many
 other myths. For example, the duplication may concern the daughter, as
 in the Moses myth, in which the princess-mother (in order to establish
-the identity of the two families) <span id="fr_125"></span>[2](#fn_125)
+the identity of the two families) <span id="fr_125"></span>[2](#fn_125.md)
 appears among the poor people as the daughter Miriam, who is merely a
 split of the mother, the latter appearing divided into the princess and
 the poor woman. In case the duplication concerns the father, his doubles
@@ -865,9 +865,9 @@ the Oedipus saga. The mother, and her relation to the hero, appear
 relegated to the background in the myth of the birth of the hero. But
 there is another conspicuous motif: the lowly mother is so often
 represented by an animal. This motif of the helpful animals <span
-id="fr_126"></span>[1](#fn_126) belongs in part to a series of foreign
+id="fr_126"></span>[1](#fn_126.md) belongs in part to a series of foreign
 elements, the explanation of which would far exceed the scope of this
-essay. <span id="fr_127"></span>[2](#fn_127)
+essay. <span id="fr_127"></span>[2](#fn_127.md)
 
 The animal motif may be fitted into the sequence of
 
@@ -890,7 +890,7 @@ concealment of these processes is presumably the root of the childish
 revolt against the parents. The exposure in the box and in the water
 asexualizes the birth process, as it were, in a childlike fashion; the
 children are fished out of the water by the stork, who takes them to the
-parents in a basket. <span id="fr_128"></span>[1](#fn_128) The animal
+parents in a basket. <span id="fr_128"></span>[1](#fn_128.md) The animal
 fable improves upon this idea, by emphasizing the similarity between
 human birth and animal birth.
 
@@ -902,7 +902,7 @@ superciliously: If an animal
 <span id="page_92">p. 92</span>
 
 has brought me, it may also have nursed me. <span
-id="fr_129"></span>[1](#fn_129)
+id="fr_129"></span>[1](#fn_129.md)
 
 When all is said and done, however, and when the cleavage is followed
 back, the separation of the childbearer from the suckler--which really
@@ -916,7 +916,7 @@ also in the myth of Hercules, and the Egyptian-Phoenician Osiris-Adonis
 myth--where Osiris, encased in a chest, floats down the river and is
 finally found under the name Adonis, by Isis, who is installed by Queen
 Astarte as the nurse of her own son). <span
-id="fr_130"></span>[2](#fn_130)
+id="fr_130"></span>[2](#fn_130.md)
 
 Only a brief reference can here be made to other motifs which seem to be
 more loosely related to the entire myth. Such themes include that of
@@ -950,9 +950,9 @@ princely personage; he was to be removed for some mysterious reason, and
 was therefore surrendered to his "parents" as a foster child. His
 enemies, however, wish to maintain the fiction that he is of lowly
 descent, in order to suppress his legitimate claims to the crown or to
-enormous riches. <span id="fr_131"></span>[1](#fn_131) Cases of this
+enormous riches. <span id="fr_131"></span>[1](#fn_131.md) Cases of this
 kind often occupy alienists or tribunals. <span
-id="fr_132"></span>[2](#fn_132)
+id="fr_132"></span>[2](#fn_132.md)
 
 <span id="page_94">p. 94</span>
 
@@ -966,7 +966,7 @@ hysterical fantasies, which can often be made conscious through
 analysis, are identical up to the minutest details with the complaints
 of persecuted paranoiacs; moreover, the identical contents are also
 encountered as a reality in the arrangements of perverts for the
-gratification of their desires. <span id="fr_133"></span>[1](#fn_133)
+gratification of their desires. <span id="fr_133"></span>[1](#fn_133.md)
 
 The egotistical character of the entire system is distinctly revealed by
 the paranoiac, for whom the exaltation of the parents, as brought about
@@ -1001,9 +1001,9 @@ hero himself, as shown by his detachment from the parents, begins his
 career in opposition to the older generation; he is at once a rebel, a
 renovator, and a revolutionary. However, every revolutionary is
 originally a disobedient son, a rebel against the father. <span
-id="fr_134"></span>[1](#fn_134) (Compare the suggestion of Freud, in
+id="fr_134"></span>[1](#fn_134.md) (Compare the suggestion of Freud, in
 connection with the interpretation of a "revolutionary dream.") <span
-id="fr_135"></span>[2](#fn_135)
+id="fr_135"></span>[2](#fn_135.md)
 
 But whereas the paranoiac, in conformity with his passive character, has
 to suffer persecutions and wrongs which ultimately proceed from the
@@ -1014,10 +1014,10 @@ of kings, and finally killing the king, precisely like the hero. The
 remarkable similarity between the career of certain anarchistic
 criminals and the family romance of hero and child has been elsewhere
 illustrated by the author, through special instances. <span
-id="fr_136"></span>[3](#fn_136) The truly heroic element then consists
+id="fr_136"></span>[3](#fn_136.md) The truly heroic element then consists
 only in the real justice or even necessity of the act, which is
 therefore generally endorsed and admired; <span
-id="fr_137"></span>[4](#fn_137) while the morbid trait, also in criminal
+id="fr_137"></span>[4](#fn_137.md) while the morbid trait, also in criminal
 
 <span id="page_96">p. 96</span>
 
@@ -1030,7 +1030,7 @@ psychic motivation, so the anarchist might claim indulgence from the
 severest penalties, for the reason that he has killed an entirely
 different person from the one he really intended to destroy, in spite of
 an apparently excellent (perhaps political) motivation of his act. <span
-id="fr_138"></span>[1](#fn_138)
+id="fr_138"></span>[1](#fn_138.md)
 
 For the present let us stop at the narrow boundary line where the
 contents of innocent infantile imaginings, suppressed and unconscious
@@ -1046,34 +1046,34 @@ which are as yet unblazed trails in the wilderness.
 
 ### Footnotes
 
-<span id="fn_90"></span>[65:1](mbh17.htm#fr_90) The possibility of
+<span id="fn_90"></span>[65:1](mbh17.htm#fr_90.md) The possibility of
 further specification of separate items of this outline will be seen
 from the compilation given by Lessmann at the conclusion of his "*Die
 Kyrossage in Europe*" (loc. cit.).
 
-<span id="fn_91"></span>[66:1](mbh17.htm#fr_91) See also Wundt, who
+<span id="fn_91"></span>[66:1](mbh17.htm#fr_91.md) See also Wundt, who
 interprets the hero psychologically as a projection of human desires and
 aspirations (op. cit., p. 48).
 
-<span id="fn_92"></span>[69:1](mbh17.htm#fr_92) Compare Freud:
+<span id="fn_92"></span>[69:1](mbh17.htm#fr_92.md) Compare Freud:
 "Hysterical Fancies, and their Relation to Bisexuality," with references
 to the literature on this subject. This contribution is contained in the
 second series of *Sammlung kleiner Schriften zur Neurosenlehre* (Vienna
 and Leipzig, 1909).
 
-<span id="fn_93"></span>[71:1](mbh17.htm#fr_93) For the idealizing of
+<span id="fn_93"></span>[71:1](mbh17.htm#fr_93.md) For the idealizing of
 the parents by the children, compare Maeder's comments (*Jahrbuch für
 Psychoanalyse*, I (1909), p. 152, and *Zentralblatt für Psychoanalyse*,
 I, p. 51) on Varendonk's essay, "*Les idéals d’enfant*."
 
-<span id="fn_94"></span>[71:2](mbh17.htm#fr_94) *Interpretation of
+<span id="fn_94"></span>[71:2](mbh17.htm#fr_94.md) *Interpretation of
 Dreams*.
 
-<span id="fn_95"></span>[73:1](mbh17.htm#fr_95) Compare the "birth
+<span id="fn_95"></span>[73:1](mbh17.htm#fr_95.md) Compare the "birth
 dreams" in Freud's *Interpretation of Dreams*, also the examples quoted
 by the author in *Die Lohengrin Saga* (Vienna, 1911), pp. 27 ff.
 
-<span id="fn_96"></span>[73:2](mbh17.htm#fr_96) In fairy tales, which
+<span id="fn_96"></span>[73:2](mbh17.htm#fr_96.md) In fairy tales, which
 are adapted to infantile ideation, and especially to the infantile
 sexual theories (compare Freud in the December, 1908, number of
 *Sexuelle Probleme*), the birth of man is frequently represented as a
@@ -1090,7 +1090,7 @@ the contrary, and the mother was also put to death (see Franz Helbing:
 folklore has been compiled by the author in *Die Lohengrin Saga*, pp. 20
 ff.
 
-<span id="fn_97"></span>[73:3](mbh17.htm#fr_97) The "box" in certain
+<span id="fn_97"></span>[73:3](mbh17.htm#fr_97.md) The "box" in certain
 myths is represented by the *cave*, which also distinctly symbolizes the
 womb; aside from statements in Abraham, Ion, and others, a noteworthy
 case is that of Zeus, who is born in a cave on Mount Ida and nourished
@@ -1124,17 +1124,17 @@ report of Bab (*Zeitschrift für Ethnologie*, 1906, p. 281), the wife of
 the Raja Besurjay was presented with a child floating on a bubble of
 water-foam (from Singapore).
 
-<span id="fn_98"></span>[74:1](mbh17.htm#fr_98) Compare Freud:
+<span id="fn_98"></span>[74:1](mbh17.htm#fr_98.md) Compare Freud:
 Interpretation of Dreams.
 
-<span id="fn_99"></span>[74:2](mbh17.htm#fr_99) Abraham (op. cit. pp.
+<span id="fn_99"></span>[74:2](mbh17.htm#fr_99.md) Abraham (op. cit. pp.
 22-3) contains the analysis of a very similar although more complicated
 birth dream, corresponding to the actual conditions: the dreamer, a
 young pregnant woman awaiting her delivery, not without fear, dreamed of
 the birth of her son, and the water appeared directly as the amniotic
 fluid.
 
-<span id="fn_100"></span>[74:3](mbh17.htm#fr_100) This fantasy of an
+<span id="fn_100"></span>[74:3](mbh17.htm#fr_100.md) This fantasy of an
 enormous water is extremely suggestive of the large and widespread group
 of the flood myths, which actually seem to be no more than the universal
 expression of the exposure myth. The hero is here represented by
@@ -1160,12 +1160,12 @@ Awakening, and Their Recurrence in Mythical Ideation"--"*Die
 Symbolschichtung in Wecktraum and ihre Wiederkehr im mythischen
 Denken*," Jahrbuch für Psychoanalyse, V (1912).
 
-<span id="fn_101"></span>[75:1](mbh17.htm#fr_101) *Interpretation of
+<span id="fn_101"></span>[75:1](mbh17.htm#fr_101.md) *Interpretation of
 Dreams*. Compare the same reversal of the meanings in Winckler's
 interpretation of the etymology of the name of Moses, on page 16,
 footnote 7.
 
-<span id="fn_102"></span>[75:2](mbh17.htm#fr_102) The same conditions
+<span id="fn_102"></span>[75:2](mbh17.htm#fr_102.md) The same conditions
 remain in the formation of dreams and in the transformation of
 hysterical fantasies into seizures. See p. 238 (and the annotation on
 that page) of Freud's *Traumdeutung* (the German edition of
@@ -1173,20 +1173,20 @@ that page) of Freud's *Traumdeutung* (the German edition of
 hysterischen Anfall*"("General Remarks on Hysterical Seizures") in
 *Sammlung kleiner Schriften* . , 2d series, pp. 146 ff.
 
-<span id="fn_103"></span>[75:3](mbh17.htm#fr_103) According to a pointed
+<span id="fn_103"></span>[75:3](mbh17.htm#fr_103.md) According to a pointed
 remark of Jung's, this reversal in its further mythical sublimation
 permits the approximation of the hero's life to the solar cycle. Carl G.
 Jung: "*Wandlungen und Symbole der Libido*," *Jahrbuch für
 Psychoanalyse*, V (1912), p. 253.
 
-<span id="fn_104"></span>[76:1](mbh17.htm#fr_104) The second item of the
+<span id="fn_104"></span>[76:1](mbh17.htm#fr_104.md) The second item of the
 schedule here enters into consideration: the voluntary continence or
 prolonged separation of the parents, which naturally induces the
 miraculous conception and virgin birth of the mother. The abortion
 fantasies, which are especially distinct in the Zoroaster legend, also
 belong under this heading.
 
-<span id="fn_105"></span>[76:2](mbh17.htm#fr_105) The comparison of
+<span id="fn_105"></span>[76:2](mbh17.htm#fr_105.md) The comparison of
 birth with a shipwreck, by the Roman poet Lucretius, seems to be in
 perfect harmony with this symbolism: "Behold the infant: Like a
 shipwrecked sailor, cast ashore by the fury of the billows, the poor
@@ -1199,11 +1199,11 @@ endowed us with the spirit of invention, when she exposed us naked and
 helpless on the shore of the great Ocean, the World. Let him swim who
 may, and let the clumsy perish!"
 
-<span id="fn_106"></span>[77:1](mbh17.htm#fr_106) Compare the
+<span id="fn_106"></span>[77:1](mbh17.htm#fr_106.md) Compare the
 representation of this relation and its psychic consequences, in Freud's
 *Interpretation of Dreams*.
 
-<span id="fn_107"></span>[78:1](mbh17.htm#fr_107) Some myths convey the
+<span id="fn_107"></span>[78:1](mbh17.htm#fr_107.md) Some myths convey the
 impression that the love relation with the mother had been removed, as
 being too objectionable to the consciousness of certain periods or
 peoples. Traces of this suppression are still evident in a comparison of
@@ -1229,43 +1229,43 @@ incest theme, which is here merely mentioned, is discussed in detail,
 picking up the many threads which lead to this theme, but which have
 been dropped at the present time.
 
-<span id="fn_108"></span>[79:1](mbh17.htm#fr_108) The mechanism of this
+<span id="fn_108"></span>[79:1](mbh17.htm#fr_108.md) The mechanism of this
 defense is discussed in Freud's "Hamlet Analysis," in his
 *Interpretation of Dreams*. Ernest Jones has also discussed this in an
 article (1911) in the *American Journal of Psychology*.
 
-<span id="fn_109"></span>[80:1](mbh17.htm#fr_109) I regard to further
+<span id="fn_109"></span>[80:1](mbh17.htm#fr_109.md) I regard to further
 meanings of the grandfather, see Freud's "Analysis of a Phobia in a
 Five-Year-Old Boy," *Jahrbuch für Psychoanalyse*, I (1909); also the
 contributions of Jones, Abraham, and Ferenczi in the March, 1913, issue
 of *Internationale Zeitschrift für ärtzliche Psychoanalyse*.
 
-<span id="fn_110"></span>[80:2](mbh17.htm#fr_110) See Chapter xi,
+<span id="fn_110"></span>[80:2](mbh17.htm#fr_110.md) See Chapter xi,
 *Inzestmotiv*.
 
-<span id="fn_111"></span>[80:3](mbh17.htm#fr_111) Detailed literary
+<span id="fn_111"></span>[80:3](mbh17.htm#fr_111.md) Detailed literary
 references concerning the wide distribution of this story are found in
 R. Köhler: *Kleiner Schriften*, Vol. II, p. 357.
 
-<span id="fn_112"></span>[81:1](mbh17.htm#fr_112) A similar
+<span id="fn_112"></span>[81:1](mbh17.htm#fr_112.md) A similar
 identification of the father with God ("Heavenly Father," etc.) occurs,
 according to Freud, with the same regularity in the fantasies of normal
 and pathological psychic activity as the identification of the emperor
 with the father. It is also noteworthy in this connection that almost
 all peoples derive their origin from their god (Abraham, op. cit.).
 
-<span id="fn_113"></span>[81:2](mbh17.htm#fr_113) An amusing example of
+<span id="fn_113"></span>[81:2](mbh17.htm#fr_113.md) An amusing example of
 unconscious humor in children recently appeared in the daily press: A
 politician had explained to his little son that a tyrant is a man who
 forces others to do what he commands, without heeding their wishes in
 the matter. "Well," said the child, "then you and Mama are also
 tyrants!"
 
-<span id="fn_114"></span>[82:1](mbh17.htm#fr_114) See Max Müller, op.
+<span id="fn_114"></span>[82:1](mbh17.htm#fr_114.md) See Max Müller, op.
 cit., pp. 20 ff. Concerning the various psychological contingencies of
 this setting, compare pp. 83 ff. of *Inzestmotiv*.
 
-<span id="fn_115"></span>[83:1](mbh17.htm#fr_115) Compare Eduard Meyer:
+<span id="fn_115"></span>[83:1](mbh17.htm#fr_115.md) Compare Eduard Meyer:
 "*Die Mosessagen and die Lewiten*," in *Sitzungsberichte der königlich
 preussischen Akademie der Wissenschaften*, XXXI (1905), p. 640:
 "Presumably Moses was originally the son of the tyrant's daughter (who
@@ -1273,28 +1273,28 @@ is now his foster mother), and probably of divine origin." The
 subsequent elaboration into the present form is probably referable to
 national motives.
 
-<span id="fn_116"></span>[84:1](mbh17.htm#fr_116) This idea, which is
+<span id="fn_116"></span>[84:1](mbh17.htm#fr_116.md) This idea, which is
 derived from the knowledge of the neurotic fantasy and symptom
 construction, was applied by Professor Freud to the interpretation of
 the romantic and mythical work of poetic imagination, in a lecture
 entitled "Der Dichter and das Phantasieren" ("Poets and Imaginings"),
 reprinted in *Sammlung kleiner Schriften* . . ., 2d series.
 
-<span id="fn_117"></span>[85:1](mbh17.htm#fr_117) Per ethno-psychologic
+<span id="fn_117"></span>[85:1](mbh17.htm#fr_117.md) Per ethno-psychologic
 parallels and other infantile sexual theories which throw some light
 upon the supplementary myth of the hero's procreation, compare the
 author's treatise in *Zentralblatt für Psychoanalyse*, II (1911), pp.
 392-425.
 
-<span id="fn_118"></span>[85:2](mbh17.htm#fr_118) Rank: *Die Lohengrin
+<span id="fn_118"></span>[85:2](mbh17.htm#fr_118.md) Rank: *Die Lohengrin
 Saga*.
 
-<span id="fn_119"></span>[85:3](mbh17.htm#fr_119) Concerning the water
+<span id="fn_119"></span>[85:3](mbh17.htm#fr_119.md) Concerning the water
 as the "water of death," compare especially ibid., Chapter iv.
 
-<span id="fn_120"></span>[86:1](mbh17.htm#fr_120) Loc. cit., p. 356.
+<span id="fn_120"></span>[86:1](mbh17.htm#fr_120.md) Loc. cit., p. 356.
 
-<span id="fn_121"></span>[86:2](mbh17.htm#fr_121) The fairy tales, which
+<span id="fn_121"></span>[86:2](mbh17.htm#fr_121.md) The fairy tales, which
 have been left out of consideration in the context, precisely on account
 of these complications, include especially: "The Devil with the Three
 Golden Hairs" (Grimm, No. 29), and the very similar "Saga of Emperor
@@ -1306,7 +1306,7 @@ quoted by Bauer, at the end of his article (loc. cit.). Compare also, in
 Hahn: *Greek and Albanese Fairy Tales* (Leipzig, 1864), the review of
 the exposure stories and myths, especially No. 20 and No. 69.
 
-<span id="fn_122"></span>[88:1](mbh17.htm#fr_122) A connection is here
+<span id="fn_122"></span>[88:1](mbh17.htm#fr_122.md) A connection is here
 supplied with the theme of the twins, in which we seem to recognize the
 two boys born at the same time--one of which dies for the sake of the
 other, be it directly after birth, or later--and whose parents appear
@@ -1314,7 +1314,7 @@ divided in our myths into two or more parent-couples. Concerning the
 probable significance of this shadowy twin brother as the afterbirth,
 compare the author's discussion in his *Inzestmotiv* (pp. 459 ff).
 
-<span id="fn_123"></span>[88:2](mbh17.htm#fr_123) The early history of
+<span id="fn_123"></span>[88:2](mbh17.htm#fr_123.md) The early history of
 Sigurd, as it is related in the Völsungasaga (compare Rassmann, op.
 cit., Vol. I, p. 99), closely resembles the Ctesian version of the Cyrus
 saga, giving us the tradition of another hero's wonderful career,
@@ -1324,7 +1324,7 @@ loc. cit., p. 554. Also the biblical history of Joseph (Exodus
 brethren, and the fabulous career of this hero--seems to belong to this
 type of myth.
 
-<span id="fn_124"></span>[89:1](mbh17.htm#fr_124) In order to avoid
+<span id="fn_124"></span>[89:1](mbh17.htm#fr_124.md) In order to avoid
 misunderstandings, it appears necessary to emphasize at this point the
 historical nucleus of certain hero myths. Cyrus, as is shown by the
 inscriptions which have been discovered (compare Duncker, op. cit., p.
@@ -1350,27 +1350,27 @@ typical motifs, be it to several generations of the same hero-family, or
 be it to historical personalities in general (concerning Caesar,
 Augustus and others, compare Usener, *Rhein. Mus*., LV, p. 271).
 
-<span id="fn_125"></span>[89:2](mbh17.htm#fr_125) This identification of
+<span id="fn_125"></span>[89:2](mbh17.htm#fr_125.md) This identification of
 the families is carried through to the minutest detail in certain myths,
 as for example in the Oedipus myth, where one royal couple is offset by
 another, and where even the herdsman who receives the infant for
 exposure has his exact counterpart in the herdsman to whom he entrusts
 the rescue of the boy.
 
-<span id="fn_126"></span>[90:1](mbh17.htm#fr_126) Compare Gubernatis:
+<span id="fn_126"></span>[90:1](mbh17.htm#fr_126.md) Compare Gubernatis:
 *Zoological Mythology* (London, 1872); and Hartmann: *Die Tiere in der
 indogermanischen Mythologie* (Leipzig, 1874). Concerning the
 significance of animals in exposure myths, see also the contributions by
 Bauer (loc. cit., pp. 574 ff.); Goldziher (op. cit., p. 274); and
 Liebrecht: *Zur Volkskunde, Romulus and die Welfen* (Heilbronn, 1879).
 
-<span id="fn_127"></span>[90:2](mbh17.htm#fr_127) Compare Freud's
+<span id="fn_127"></span>[90:2](mbh17.htm#fr_127.md) Compare Freud's
 article on the infantile recurrence of totemism, in *Imago*, Vol. II
 (1913). Concerning the totemistic foundation of the Roman she-wolf, see
 Jones's writings on nightmares (*Älptraume*). The woodpecker of the
 Romulus saga was discussed by Jung (loc. cit., pp. 382 ff.).
 
-<span id="fn_128"></span>[91:1](mbh17.htm#fr_128) The stork is known
+<span id="fn_128"></span>[91:1](mbh17.htm#fr_128.md) The stork is known
 also in mythology as the bringer of children. Siecke (*Liebesgeschichten
 des Himmels*, p. 26) points out the swan as the player of this part in
 certain regions and countries. The rescue and further protection of the
@@ -1390,10 +1390,10 @@ must be solved. For the psychological significance of the stork fable,
 compare Freud: *Infantile Sexual Theories*. Concerning the hero myth,
 see also the author's *Die Lohengrin Saga*.
 
-<span id="fn_129"></span>[92:1](mbh17.htm#fr_129) Compare Freud:
+<span id="fn_129"></span>[92:1](mbh17.htm#fr_129.md) Compare Freud:
 "Analysis of a Phobia in a Five-Year-Old Boy," loc. cit.
 
-<span id="fn_130"></span>[92:2](mbh17.htm#fr_130) Usener (*Stoff des
+<span id="fn_130"></span>[92:2](mbh17.htm#fr_130.md) Usener (*Stoff des
 griechischen Epos*, p, 53) says that the controversy between the earlier
 and the later Greek sagas concerning the mother of a divinity is usually
 reconciled by the formula that the mother of the general Greek saga is
@@ -1401,10 +1401,10 @@ recognized as such, while the mother of the local tradition is lowered
 to the rank of a nurse. Thero may therefore be unhesitatingly regarded
 as the mother, not merely the nurse, of the god Ares.
 
-<span id="fn_131"></span>[93:1](mbh17.htm#fr_131) Abraham, loc. cit., p.
+<span id="fn_131"></span>[93:1](mbh17.htm#fr_131.md) Abraham, loc. cit., p.
 40; Riklin, op. cit., p. 74.
 
-<span id="fn_132"></span>[93:2](mbh17.htm#fr_132) Brief mention is made
+<span id="fn_132"></span>[93:2](mbh17.htm#fr_132.md) Brief mention is made
 of a case concerning a Frau von Hervay, because of a few subtle
 psychological comments upon the same by A. Berger (*Feuilleton der Neue
 Freie Presse*, Nov. 6, 1904), which in part touch upon our
@@ -1439,12 +1439,12 @@ masculine energy, is a matter of "history."
 Other exposure myths are told of Atalanta, Cybele, and Aërope (see
 Röscher, op. cit.).
 
-<span id="fn_133"></span>[94:1](mbh17.htm#fr_133) Freud: *Three
+<span id="fn_133"></span>[94:1](mbh17.htm#fr_133.md) Freud: *Three
 Contributions to the Theory of Sex;* also *Psychopathologie des
 Altagslebens;* and *Hysterische Phantasien and ihre Beziehung zur
 Bisexualität*.
 
-<span id="fn_134"></span>[95:1](mbh17.htm#fr_134) This is especially
+<span id="fn_134"></span>[95:1](mbh17.htm#fr_134.md) This is especially
 evident in the myths of the Greek gods, where the son (Cronus, Zeus)
 must first remove the father, before he can enter upon his rulership.
 The form of the removal, namely through castration--obviously the
@@ -1454,21 +1454,21 @@ character of this castration, as well as the infantile significance of
 the entire complex, compare Freud: "Infantile Sexual Theories," and
 "Analysis of a Phobia in a Five-Year-Old Boy (loc. cit.).
 
-<span id="fn_135"></span>[95:2](mbh17.htm#fr_135) Freud:
-[*Traumdeutung*](errata.htm#3) (German edition of *Interpretation of
+<span id="fn_135"></span>[95:2](mbh17.htm#fr_135.md) Freud:
+[*Traumdeutung*](errata.htm#3.md) (German edition of *Interpretation of
 Dreams*), 2d edition, p. 153.
 
-<span id="fn_136"></span>[95:3](mbh17.htm#fr_136) "*Belege zur
+<span id="fn_136"></span>[95:3](mbh17.htm#fr_136.md) "*Belege zur
 Bettungsphantasie*," *Zentralblatt für Psychoanalyse*, I (1911), p. 331;
 also "*Die Rolle des Familienromans in der Psychologie des
 Attentäters*," *Internationale Zeitschrift für ärtzliche Psychoanalyse*,
 I (191,3).
 
-<span id="fn_137"></span>[95:4](mbh17.htm#fr_137) Compare the contrast
+<span id="fn_137"></span>[95:4](mbh17.htm#fr_137.md) Compare the contrast
 between Tell and Parricida, in Schiller's *Wilhelm Tell*, which is
 discussed in detail in the author's *Inzestmotiv*.
 
-<span id="fn_138"></span>[96:1](mbh17.htm#fr_138) Compare in this
+<span id="fn_138"></span>[96:1](mbh17.htm#fr_138.md) Compare in this
 connection the unsuccessful homicidal attempt of Tatjana Leontiew, and
 its subtle psychological illumination, in Wittels: *Die sexuelle Not*
 (Vienna and Leipzig, 1909).

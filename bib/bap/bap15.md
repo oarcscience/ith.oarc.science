@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap14) 
-[Next](bap16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap14.md) 
+[Next](bap16.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ this was the *secretior libellus* to which Origen refers.
 
 ------------------------------------------------------------------------
 
-[Next: Note](bap16)
+[Next: Note](bap16.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe271)  [Next](prwe273) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe271)  [Next](prwe273.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ visitor may be expected.
 
 ------------------------------------------------------------------------
 
-[Next: An Old Cornish Rhyme](prwe273)
+[Next: An Old Cornish Rhyme](prwe273.md)

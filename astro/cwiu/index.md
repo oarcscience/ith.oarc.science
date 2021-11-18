@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cwiu00)    [Page
-Index](pageidx)    [Text \[Zipped\]](cwiutxt.zip)
+[Contents](#contents)    [Start Reading](cwiu00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](cwiutxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -40,10 +40,10 @@ in Duration as well as in Extension, in which eternal matter in
 accordance with eternal and necessary laws moves endlessly and aimlessly
 in eternal space, inherited all the ontological attributes of Divinity.
 Yet only those--all the others the departed God took away with Him.--[p.
-276](cwiu15.htm#page_276).</span>
+276](cwiu15.htm#page_276.md).</span>
 
 <span class="small">Space is the place...--[p.
-257](cwiu14.htm#page_257).</span>
+257](cwiu14.htm#page_257.md).</span>
 
 This is a study of the evolution of cosmology from antiquity to mid-20th
 century. Up to the renaissance the world was thought to be bounded by a
@@ -64,22 +64,22 @@ or the 'big questions' of cosmology or ontology.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](cwiu00)  
-[Preface](cwiu01)  
-[Contents](cwiu02)  
-[Introduction](cwiu03)  
-[I. The Sky and the Heavens](cwiu04)  
-[II. The New Astronomy and the New Metaphysics](cwiu05)  
-[III. The New Astronomy Against the New Metaphysics](cwiu06)  
-[IV. Things Never Seen Before and Thoughts Never Thought](cwiu07)  
-[V. Indefinite Extension or Infinite Space](cwiu08)  
-[VI. God and Space, Spirit and Matter](cwiu09)  
+<span id="contents"></span> [Title Page and Front Matter](cwiu00.md)  
+[Preface](cwiu01.md)  
+[Contents](cwiu02.md)  
+[Introduction](cwiu03.md)  
+[I. The Sky and the Heavens](cwiu04.md)  
+[II. The New Astronomy and the New Metaphysics](cwiu05.md)  
+[III. The New Astronomy Against the New Metaphysics](cwiu06.md)  
+[IV. Things Never Seen Before and Thoughts Never Thought](cwiu07.md)  
+[V. Indefinite Extension or Infinite Space](cwiu08.md)  
+[VI. God and Space, Spirit and Matter](cwiu09.md)  
 [VII. Absolute Space, Absolute Time and Their Relations to
-God](cwiu10)  
-[VIII. The Divinization of Space](cwiu11)  
-[IX. God and the World: Space, Matter, Ether and Spirit](cwiu12)  
-[X. Absolute Space and Absolute Time: God's Frame of Action](cwiu13)  
-[XI. The Work-Day God and the God of the Sabbath](cwiu14)  
-[XII. Conclusion: The Divine Artifex and the Dieu Fainéant](cwiu15)  
-[Notes](cwiu16)  
-[Index](cwiu17)  
+God](cwiu10.md)  
+[VIII. The Divinization of Space](cwiu11.md)  
+[IX. God and the World: Space, Matter, Ether and Spirit](cwiu12.md)  
+[X. Absolute Space and Absolute Time: God's Frame of Action](cwiu13.md)  
+[XI. The Work-Day God and the God of the Sabbath](cwiu14.md)  
+[XII. Conclusion: The Divine Artifex and the Dieu Fainéant](cwiu15.md)  
+[Notes](cwiu16.md)  
+[Index](cwiu17.md)  

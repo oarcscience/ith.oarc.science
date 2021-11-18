@@ -1,7 +1,7 @@
-[Sacred-Texts](../../index)  [Classical Paganism](../index) 
-[Index](index)  [Index of First Lines](first)  [Greek
-Transliteration](saphxlit)  
-[Next](sappho1) 
+[Sacred-Texts](../../index)  [Classical Paganism](../index.md) 
+[Index](index)  [Index of First Lines](first.md)  [Greek
+Transliteration](saphxlit.md)  
+[Next](sappho1.md) 
 
 ------------------------------------------------------------------------
 
@@ -488,4 +488,4 @@ use of A?rti'ws.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](sappho1)
+[Next: Part II](sappho1.md)

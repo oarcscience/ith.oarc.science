@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort06)  [Next](kort08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort06)  [Next](kort08.md) 
 
 ------------------------------------------------------------------------
 
-# 3. The Mouse-Girls. <span id="fr_14"></span>[1](#fn_14)
+# 3. The Mouse-Girls. <span id="fr_14"></span>[1](#fn_14.md)
 
 Mouse-Girl said, "Let us play!", They played, and one of them lost a
 tooth, the youngest one of all. They said to her, "How did you lose this
@@ -44,21 +44,21 @@ Ermine-Woman said, "She was pilfering." What should she do?
 Her mother scolded her, and said, "Go and die! Strangle yourself on a
 forked twig!" She (went, and very soon) came back. She said, "I could
 not strangle myself on a forked twig." <span
-id="fr_15"></span>[1](#fn_15) Mother scolded her, and said again,
+id="fr_15"></span>[1](#fn_15.md) Mother scolded her, and said again,
 "There, go away!" She went away, and then only she died. That is all.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_14"></span>[32:1](kort07.htm#fr_14) Compare W. Jochelson,
+<span id="fn_14"></span>[32:1](kort07.htm#fr_14.md) Compare W. Jochelson,
 The Koryak, *l. c.*, No. 97, p. 284.
 
-<span id="fn_15"></span>[35:1](kort07.htm#fr_15) The natives believe
+<span id="fn_15"></span>[35:1](kort07.htm#fr_15.md) The natives believe
 that the mice actually commit suicide by strangling themselves in a
 forked willow-twig (cf. Jochelson, The Koryak, *l. c.*, p. 285,
 footnote).
 
 ------------------------------------------------------------------------
 
-[Next: 4. How a Small Kamak was transformed into a Harpoon-Line](kort08)
+[Next: 4. How a Small Kamak was transformed into a Harpoon-Line](kort08.md)

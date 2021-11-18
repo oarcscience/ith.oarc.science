@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre29)  [Next](gre31) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre29)  [Next](gre31.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ quarter. And so time wears on.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVI: Of Thorstein Kuggson, and the gathering for the
-Bloodsuit for the Slaying of Thorgils Makson](gre31)
+Bloodsuit for the Slaying of Thorgils Makson](gre31.md)

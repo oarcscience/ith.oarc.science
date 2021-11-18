@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst104)  [Next](inst106) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst104)  [Next](inst106.md) 
 
 ------------------------------------------------------------------------
 
@@ -226,4 +226,4 @@ owe to the King of kings shall remain entire and unimpaired.
 
 ------------------------------------------------------------------------
 
-[Next: Indexes](inst106)
+[Next: Indexes](inst106.md)

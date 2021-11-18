@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl105)  [Next](cohl107) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl105)  [Next](cohl107.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ laborious and this is for a punishment for he was the one who first gave
 his consent to the sale of Indian reservations. It is said that there is
 hardship for those who part with their lands for money or trade. So now
 you have seen the doom of those who repent not. Their eternity will be
-one of punishment.'" <span id="fr_83"></span>[2](#fn_83)
+one of punishment.'" <span id="fr_83"></span>[2](#fn_83.md)
 
 So they said and he said. Eniaiehuk.
 
@@ -34,7 +34,7 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_83"></span>[68:2](cohl106.htm#fr_83) The followers of the
+<span id="fn_83"></span>[68:2](cohl106.htm#fr_83.md) The followers of the
 Gai'wiio\` to this day mention the name of Red Jacket with contempt.
 While they acknowledge his mental superiority they have no other
 admiration for him. He was ever the enemy of Cornplanter and Ganiodaiio
@@ -44,4 +44,4 @@ prejudice the Iroquois against Red Jacket.
 
 ------------------------------------------------------------------------
 
-[Next: Section 96](cohl107)
+[Next: Section 96](cohl107.md)

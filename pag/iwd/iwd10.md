@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Irish Witchcraft and Demonology*, by St. John D. Seymour, \[1913\], at
 Intangible Textual Heritage
 
@@ -136,7 +136,7 @@ Had Sawney summoned all his wits
    And sent awa for Huie Mertin,  
 He could have gall'd the witches' guts,  
    An' cur't the kye to Nannie Barton. <span
-id="fr_55"></span>[1](#fn_55)  
+id="fr_55"></span>[1](#fn_55.md)  
 But he may shew the farmer's wab,  
    An' lang wade through Carnmoney gutters;  
 Alas! it was a sore mis-jab  
@@ -147,13 +147,13 @@ To make the foolish people keen
    Who did not know her base intention,  
 She drew a circle round the churn,  
    And washed the staff in south-run water, <span
-id="fr_56"></span>[2](#fn_56)  
+id="fr_56"></span>[2](#fn_56.md)  
 And swore the witches she would burn,  
    But she would have the tailor's butter.  
 When sable Night her curtain spread  
    Then she got on a flaming fire;  
 The tailor stood at the cow's head  
-   With his turn'd waistcoats <span id="fr_57"></span>[3](#fn_57) in the
+   With his turn'd waistcoats <span id="fr_57"></span>[3](#fn_57.md) in the
 byre.
 
 <span id="page_230">p. 230</span>
@@ -209,7 +209,7 @@ incorrectly termed *Butlers*. That the heroine did not evolve the
 procedure she had adopted out of her own fervent imagination, but that
 she followed a method generally recognised and practised in the
 country-side is shown by a case that occurred at Newtownards in January
-1871. <span id="fr_58"></span>[1](#fn_58) A farm-hand had brought an
+1871. <span id="fr_58"></span>[1](#fn_58.md) A farm-hand had brought an
 action against his employer for wages alleged to be due to him. It
 transpired in the course of the evidence that on one occasion he had
 been set to banish witches that were troubling the cows. His method of
@@ -239,7 +239,7 @@ asleep from awaking. The inhabitants, however, were alarmed, and
 <span id="page_233">p. 233</span>
 
 the robbers fled, leaving the hand behind them. <span
-id="fr_59"></span>[1](#fn_59) No doubt the absolute failure of this
+id="fr_59"></span>[1](#fn_59.md) No doubt the absolute failure of this
 gruesome dark lantern on this occasion was due to the fact that neither
 candle nor candlestick had been properly prepared! The orthodox recipe
 for its preparation and consequent effectual working may be found in
@@ -323,7 +323,7 @@ to state that they are not treated as infringements of the Elizabethan
 Statute. For example, some years ago a case was tried at New Pallas in
 co. Limerick, where a woman believed that another desired to steal her
 butter by *pishogues*, flew in a passion, assaulted her and threw her
-down, breaking her arm in the fall. <span id="fr_60"></span>[1](#fn_60)
+down, breaking her arm in the fall. <span id="fr_60"></span>[1](#fn_60.md)
 That appalling tragedy, the "witch-burning"
 
 <span id="page_237">p. 237</span>
@@ -342,7 +342,7 @@ lapse of years.
 Even as late as the summer of 1911 the word "witch" was heard in an
 Irish law-court, when an unhappy poor woman was tried for killing
 another, an old-age pensioner, in a fit of insanity. <span
-id="fr_61"></span>[1](#fn_61) One of the witnesses deposed that he met
+id="fr_61"></span>[1](#fn_61.md) One of the witnesses deposed that he met
 the accused on the road on the morning of the murder. She had a statue
 in her hand, and repeated three times: "I have the old witch killed I
 got power from
@@ -384,7 +384,7 @@ As is only to be expected in a country where the majority of the
 inhabitants are engaged in agricultural pursuits, most of the tales of
 strange doings are in connection with cattle. At Dungannon Quarter
 Sessions in June 1890, before Sir Francis Brady, one farmer sued another
-for breach of warranty in a cow. <span id="fr_62"></span>[1](#fn_62) It
+for breach of warranty in a cow. <span id="fr_62"></span>[1](#fn_62.md) It
 was suggested
 
 <span id="page_240">p. 240</span>
@@ -439,7 +439,7 @@ butter as he ought to have, while his neighbours complained that they
 had none at all. On searching the old beldame's house three large tubs
 of freshly-churned butter were discovered, which, as her entire flocks
 and herds consisted of a solitary he-goat, left little doubt of her
-evildoing! <span id="fr_63"></span>[1](#fn_63)
+evildoing! <span id="fr_63"></span>[1](#fn_63.md)
 
 The witch of history is now a thing of the past. No longer does she
 career on a broomstick to the nocturnal Sabbath, no longer does she sell
@@ -521,7 +521,7 @@ by a public road, and setting herself on her knees she would pluck an
 herb from the ground, looking out on the road as she did so. The first
 passer-by her baleful glance lighted upon would take the sick man's
 disease and die of it in twenty-four hours, the patient mending as the
-victim sickened and died. <span id="fr_64"></span>[1](#fn_64)
+victim sickened and died. <span id="fr_64"></span>[1](#fn_64.md)
 
 A most extraordinary account of the Black Art, as instanced in the
 custom known as "burying the sheaf" comes from co. Louth. The narrator
@@ -544,7 +544,7 @@ the other hand he desires his victim to linger in pain he chooses a dry
 spot where decomposition will be slow. Our informant states that a case
 in which one woman tried to kill another by this means was brought to
 light in the police court at Ardee a couple of years before he wrote the
-above account (*i.e.* before 1895). <span id="fr_65"></span>[1](#fn_65)
+above account (*i.e.* before 1895). <span id="fr_65"></span>[1](#fn_65.md)
 
 Though the Statutes against witchcraft
 
@@ -663,7 +663,7 @@ relegated to limbo.
 
 ### Footnotes
 
-<span id="fn_55"></span>[229:1](iwd10.htm#fr_55) In the shorter version
+<span id="fn_55"></span>[229:1](iwd10.htm#fr_55.md) In the shorter version
 of the poem this line runs--
 
 "He cured the kye for Nanny Barton,"
@@ -671,34 +671,34 @@ of the poem this line runs--
 which makes better sense. Huie Mertin was evidently a rival of Mary
 Butters.
 
-<span id="fn_56"></span>[229:2](iwd10.htm#fr_56) South-running water
+<span id="fn_56"></span>[229:2](iwd10.htm#fr_56.md) South-running water
 possessed great healing qualities. See Dalyell, *Darker Superstitions of
 Scotland*, and C. K. Sharpe, *op. cit.* p. 94.
 
-<span id="fn_57"></span>[229:3](iwd10.htm#fr_57) When a child the writer
+<span id="fn_57"></span>[229:3](iwd10.htm#fr_57.md) When a child the writer
 often heard that if a man were led astray at night by Jacky-the-Lantern
 (or John Barleycorn, or any other potent sprite!), the best way to get
 home safely was to turn one's coat inside out and wear it in that
 condition.
 
-<span id="fn_58"></span>[231:1](iwd10.htm#fr_58) *Notes and Queries*,
+<span id="fn_58"></span>[231:1](iwd10.htm#fr_58.md) *Notes and Queries*,
 4th series, vol. vii.
 
-<span id="fn_59"></span>[233:1](iwd10.htm#fr_59) Henderson, *Folklore of
+<span id="fn_59"></span>[233:1](iwd10.htm#fr_59.md) Henderson, *Folklore of
 Northern Counties of England*, (Folklore Society).
 
-<span id="fn_60"></span>[236:1](iwd10.htm#fr_60) *Journal of Royal
+<span id="fn_60"></span>[236:1](iwd10.htm#fr_60.md) *Journal of Royal
 Society of Antiquaries of Ireland*, xxii. (consec. ser.), p. 291.
 
-<span id="fn_61"></span>[237:1](iwd10.htm#fr_61) *Irish Times* for 14th
+<span id="fn_61"></span>[237:1](iwd10.htm#fr_61.md) *Irish Times* for 14th
 June; *Independent* for 1st July.
 
-<span id="fn_62"></span>[239:1](iwd10.htm#fr_62) *Journal of Royal
+<span id="fn_62"></span>[239:1](iwd10.htm#fr_62.md) *Journal of Royal
 Society of Antiquaries of Ireland*, xxi. (consec. ser.), pp. 406-7.
 
-<span id="fn_63"></span>[242:1](iwd10.htm#fr_63) *Folklore*.
+<span id="fn_63"></span>[242:1](iwd10.htm#fr_63.md) *Folklore*.
 
-<span id="fn_64"></span>[246:1](iwd10.htm#fr_64) *Journal of Royal
+<span id="fn_64"></span>[246:1](iwd10.htm#fr_64.md) *Journal of Royal
 Society of Antiquaries of Ireland*, xxv. (consec. ser.) p. 84.
 
-<span id="fn_65"></span>[247:1](iwd10.htm#fr_65) *Folklore*, vi. 302
+<span id="fn_65"></span>[247:1](iwd10.htm#fr_65.md) *Folklore*, vi. 302

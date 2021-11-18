@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits030) [Next](bits032)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits030) [Next](bits032.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ their collision with each other."
 
 ------------------------------------------------------------------------
 
-[Next: § 32. Sensation](bits032)
+[Next: § 32. Sensation](bits032.md)
 
  
 

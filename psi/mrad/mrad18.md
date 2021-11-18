@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad17)  [Next](mrad19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad17)  [Next](mrad19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -48,9 +48,9 @@ why. I wanted to see her surprise, so I purposely gave no hint. I said:
 drew that!" We went back into the house, and she handed me a drawing. I
 give it alongside my drawing of an Indian club, which Craig had held
 while doing hers. You may see exactly how much of her impulse came from
-that source ([figs. 99, 99a](#img_fig099)):
+that source ([figs. 99, 99a](#img_fig099).md):
 
-<span id="img_fig099"></span> ![Fig. 99, Fig. 99a](img/fig099.jpg)
+<span id="img_fig099"></span> ![Fig. 99, Fig. 99a](img/fig099.jpg.md)
 
 The "comment" reads: "Light 'fingers'—moonlight." Also: "black shadow."
 
@@ -76,4 +76,4 @@ at the sky.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII](mrad19)
+[Next: Chapter XVIII](mrad19.md)

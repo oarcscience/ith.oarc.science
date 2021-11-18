@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit16)  [Next](bit18) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit16)  [Next](bit18.md) 
 
 ------------------------------------------------------------------------
 
@@ -1010,4 +1010,4 @@ scarcely less frequent in large-sized figures.
 ------------------------------------------------------------------------
 
 [Next: Chapter XV. Worship of the Deities, and Religious
-Ceremonies](bit18)
+Ceremonies](bit18.md)

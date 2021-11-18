@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray041)  [Next](pray043) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray041)  [Next](pray043.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,10 +19,10 @@ From this we are not to infer that he is enclosed and confined within
 the circumference of heaven, as by a kind of boundaries. Hence Solomon
 confesses, "The heaven of heavens cannot contain thee" (<span
 id="iii.xl-p1.1"></span>[1 Kings
-8:27](../../../bib/kjv/kg1008.htm#027)<span id="iii.xl-p1.1"></span>);
+8:27](../../../bib/kjv/kg1008.htm#027)<span id="iii.xl-p1.1"></span>.md);
 and he himself says by the Prophet, "The heaven is my throne, and the
 earth is my footstool" (<span id="iii.xl-p1.2"></span>[Isaiah
-56:1](../../../bib/kjv/isa056.htm#001)<span id="iii.xl-p1.2"></span>);
+56:1](../../../bib/kjv/isa056.htm#001)<span id="iii.xl-p1.2"></span>.md);
 thereby intimating, that his presence, not confined to any region, is
 diffused over all space. But as our gross minds are unable to conceive
 of his ineffable glory, it is designated to us by *heaven*, nothing
@@ -52,7 +52,7 @@ vain to approach him whose present care we actually experience. "He that
 cometh to God," says the Apostle, "must believe that he is, and that he
 is a rewarder of them that diligently seek him" (<span
 id="iii.xl-p1.3"></span>[Hebrews
-11:6](../../../bib/kjv/heb011.htm#006)<span id="iii.xl-p1.3"></span>).
+11:6](../../../bib/kjv/heb011.htm#006)<span id="iii.xl-p1.3"></span>.md).
 Here Christ makes both claims for his Father, *first*, that we place our
 faith in him; and, *secondly*, that we feel assured that our salvation
 is not neglected by him, inasmuch as he condescends to extend his
@@ -60,13 +60,13 @@ providence to us. By these elementary principles Paul prepares us to
 pray aright; for before enjoining us to make our requests known unto
 God, he premises in this way, "The Lord is at hand. Be careful for
 nothing" (<span id="iii.xl-p1.4"></span>[Phil.
-4:5](../../../bib/kjv/phi004.htm#005),
-[6](../../../bib/kjv/phi004.htm#006)<span id="iii.xl-p1.4"></span>).
+4:5](../../../bib/kjv/phi004.htm#005.md),
+[6](../../../bib/kjv/phi004.htm#006)<span id="iii.xl-p1.4"></span>.md).
 Whence it appears that doubt and perplexity hang over the prayers of
 those in whose minds the belief is not firmly seated, that "the eyes of
 the Lord are upon the righteous" (<span id="iii.xl-p1.5"></span>[Psalm
-34:15](../../../bib/kjv/psa034.htm#015)<span id="iii.xl-p1.5"></span>).
+34:15](../../../bib/kjv/psa034.htm#015)<span id="iii.xl-p1.5"></span>.md).
 
 ------------------------------------------------------------------------
 
-[Next: 41.](pray043)
+[Next: 41.](pray043.md)

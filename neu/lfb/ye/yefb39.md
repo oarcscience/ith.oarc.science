@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb38)  [Next](yefb40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb38)  [Next](yefb40.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_237">p. 237</span>
 
-PRINCE RING <span id="fr_29"></span>[1](#fn_29)
+PRINCE RING <span id="fr_29"></span>[1](#fn_29.md)
 
 Once upon a time there was a King and his Queen in their kingdom.
 
@@ -467,12 +467,12 @@ and the whole of it after his death.
 
 ### Footnotes
 
-<span id="fn_29"></span>[237:1](yefb39.htm#fr_29) From the Icelandic.
+<span id="fn_29"></span>[237:1](yefb39.htm#fr_29.md) From the Icelandic.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Swineherd](yefb40)
+[Next: The Swineherd](yefb40.md)
 
 </div>

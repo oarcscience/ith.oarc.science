@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar048) [Next](gbar050)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar048) [Next](gbar050.md)
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ judged who judgeth without mercy.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar050)
+[Next](gbar050.md)

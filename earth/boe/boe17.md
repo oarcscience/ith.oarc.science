@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe16)  [Next](boe18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe16)  [Next](boe18.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,19 +9,19 @@
 IN MANY OF THESE WORLD TREE PICTURES we have seem World Mountains as
 well, but northern ones mostly. Yet the concept of the antipodal polar
 mountains of Earth is very old. They stand opposed to each other in the
-Babylonian Universe ([Plate VIII](boe10.htm#img_pl08)). They are
+Babylonian Universe ([Plate VIII](boe10.htm#img_pl08).md). They are
 inherent in the very idea of an Underworld to this Over-world, whether
 the idea is carried to its logical conclusion or not. As above, so
 below. If the World Mountain of
 
 <span id="img_fig053"></span> ![FIGURE 53. &lt;i&gt;The Antipodal Polar
 Mountains&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Paradise Found&lt;/i&gt;;
-William Fairfield Warren, 1885.)](img/fig053.jpg)  
+William Fairfield Warren, 1885.)](img/fig053.jpg.md)  
 FIGURE 53. *The Antipodal Polar Mountains*.  
 (From *Paradise Found*; William Fairfield Warren, 1885.)
 
 the North was the abode of gods, the abode of demons was--the World
-Mountain of the South. [Fig. 53](#img_fig053) illustrates
+Mountain of the South. [Fig. 53](#img_fig053.md) illustrates
 
  
 
@@ -30,7 +30,7 @@ Mountain of the South. [Fig. 53](#img_fig053) illustrates
 [![PLATE XXIV. THE ROSE TREE OF THE ROSICRUCIANS&lt;br&gt;
 (Frontispiece, &lt;i&gt;Summum Bonum&lt;/i&gt;; Robert Fludd,
 1629)](tn/pl24.jpg)  
-Click to enlarge](img/pl24.jpg)  
+Click to enlarge](img/pl24.jpg.md)  
 PLATE XXIV. THE ROSE TREE OF THE ROSICRUCIANS  
 (Frontispiece, *Summum Bonum*; Robert Fludd, 1629)  
 
@@ -77,7 +77,7 @@ which, although retaining its supposed spherical
 <span id="img_fig054"></span> ![FIGURE 54. &lt;i&gt;The Theory of Two
 Centres. Spherical Earth with no Antipodes.&lt;/i&gt; (&lt;i&gt;After
 Rainaud&lt;/i&gt;.)&lt;br&gt; (From &lt;i&gt;The Siege of the South
-Pole&lt;/i&gt;; H. R. Mill, 1905.)](img/fig054.jpg)  
+Pole&lt;/i&gt;; H. R. Mill, 1905.)](img/fig054.jpg.md)  
 FIGURE 54. *The Theory of Two Centres. Spherical Earth with no
 Antipodes.* (*After Rainaud*.)  
 (From *The Siege of the South Pole*; H. R. Mill, 1905.)
@@ -134,7 +134,7 @@ Earth? and do we admire the hanging
 
 <span id="img_fig055"></span> ![FIGURE 55. ''&lt;i&gt;Feet to
 Feet&lt;/i&gt;.''&lt;br&gt; (From &lt;i&gt;Physiologia Kircheriana
-Experimentalis&lt;/i&gt;, 1680.)](img/fig055.jpg)  
+Experimentalis&lt;/i&gt;, 1680.)](img/fig055.jpg.md)  
 FIGURE 55. ''*Feet to Feet*.''  
 (From *Physiologia Kircheriana Experimentalis*, 1680.)
 
@@ -156,13 +156,13 @@ able to fancy as possible."
 
 <span id="img_sep00"></span> ![](img/sep00.jpg)
 
-IN THE *Universe of the Lamas* ([Plate XXV](#img_pl25)) we come upon the
+IN THE *Universe of the Lamas* ([Plate XXV](#img_pl25).md) we come upon the
 very greatest of the Mountains of the World, Mount Meru, the universal
 hub, the support of all the worlds. Meru is also the "Garden of the Tree
 of Life," for the Jambu or Rose Apple World Tree springs from it. This
 Tibetan Universe is not only a beautiful but a complex universe as well,
 and it is going to be difficult to describe its many divisions simply
-and directly. <span id="fr_10"></span>[1](#fn_10)
+and directly. <span id="fr_10"></span>[1](#fn_10.md)
 
 But first of all, say the Lamas of Tibet, this world of ours is merely
 one of a series, which all together form a universe or Chiliocosm of
@@ -206,7 +206,7 @@ their realm of air, on this same plane, live the eight angelic
 
 The "four continents" are placed exactly in each of the four directions,
 and they are of four different shapes, corresponding to the four forms
-of the four elements ([Fig. 1](boe06.htm#img_fig001)). To the north lies
+of the four elements ([Fig. 1](boe06.htm#img_fig001).md). To the north lies
 the cube or earth-shaped body; to the west the sphere or water-shaped
 body; to the south the triangle or fire-shaped body, and to the east the
 
@@ -217,7 +217,7 @@ body; to the south the triangle or fire-shaped body, and to the east the
 [![PLATE XXV. THE UNIVERSE OF THE LAMAS&lt;br&gt; (From &lt;i&gt;The
 Buddhism of Tibet, or. Lamaism&lt;/i&gt;; L. Austine Waddell,
 1899)](tn/pl25.jpg)  
-Click to enlarge](img/pl25.jpg)  
+Click to enlarge](img/pl25.jpg.md)  
 PLATE XXV. THE UNIVERSE OF THE LAMAS  
 (From *The Buddhism of Tibet, or. Lamaism*; L. Austine Waddell, 1899)  
 
@@ -229,7 +229,7 @@ higher resolution than the previous.
 [![THE UNIVERSE OF THE LAMAS&lt;br&gt; (From &lt;i&gt;The Buddhism of
 Tibet, or. Lamaism&lt;/i&gt;; L. Austine Waddell, 1899,
 p.78)](tn/pl25alt.jpg)  
-Click to enlarge](img/pl25alt.jpg)  
+Click to enlarge](img/pl25alt.jpg.md)  
 THE UNIVERSE OF THE LAMAS  
 (From *The Buddhism of Tibet, or. Lamaism*; L. Austine Waddell, 1899,
 p.78)  
@@ -311,11 +311,11 @@ above, and below.
 
 <span id="img_fig056"></span> ![FIGURE 56. &lt;i&gt;A Kalmuck
 World-picture&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Mythology of All
-Races&lt;/i&gt;, Vol. IV, 1927.)](img/fig056.jpg)  
+Races&lt;/i&gt;, Vol. IV, 1927.)](img/fig056.jpg.md)  
 FIGURE 56. *A Kalmuck World-picture*.  
 (From *Mythology of All Races*, Vol. IV, 1927.)
 
-A Kalmuck World-picture ([Fig. 56](#img_fig056)) is quite worth
+A Kalmuck World-picture ([Fig. 56](#img_fig056).md) is quite worth
 comparing with this. Universe of the Lamas, for the Kalmucks, now of
 Russia, primitively inhabited China. They arrived on the shores of the
 Caspian Sea about 1600, but they brought with them their own conception
@@ -347,7 +347,7 @@ expanded or expanding triangle and the egg-shaped islands and faces may
 be called with a fair accuracy "somewhat triangular."
 
 No claim for particular beauty and certainly no claim for any antiquity
-is made for the Chinese hemisphere shown in [Fig. 57](#img_fig057),
+is made for the Chinese hemisphere shown in [Fig. 57](#img_fig057.md),
 drawn, says Dr. Du Bose, by a monk in Soochow, who perceived that times
 were changing, that the new geography was of a spherical Earth and not
 of a "World Mountain," but who realised that the North Pole is
@@ -361,7 +361,7 @@ raised his World Mountain,
 
 <span id="img_fig057"></span> ![FIGURE 57. &lt;i&gt;Mount Su-Meru of the
 Chinese&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Dragon, Image and
-Demon&lt;/i&gt;; H. C. Du Bose, 1887.)](img/fig057.jpg)  
+Demon&lt;/i&gt;; H. C. Du Bose, 1887.)](img/fig057.jpg.md)  
 FIGURE 57. *Mount Su-Meru of the Chinese*.  
 (From *Dragon, Image and Demon*; H. C. Du Bose, 1887.)
 
@@ -386,10 +386,10 @@ quite cone-like.
 
 ### Footnotes
 
-<span id="fn_10"></span>[127:1](boe17.htm#fr_10) L. Austine Waddell's
+<span id="fn_10"></span>[127:1](boe17.htm#fr_10.md) L. Austine Waddell's
 reading of this picture is followed here, as given in his *Buddhism, or
 The Lamas of Tibet*, pp. 77-121.
 
 ------------------------------------------------------------------------
 
-[Next: The Wheel of Life](boe18)
+[Next: The Wheel of Life](boe18.md)

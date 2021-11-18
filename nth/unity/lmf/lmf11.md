@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](lmf10)  [Next](lmf12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](lmf10)  [Next](lmf12.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Letters of Myrtle Fillmore.*, by Myrtle Fillmore, \[1936\], at
 Intangible Textual Heritage
 
@@ -135,4 +135,4 @@ necessary to bring the desirable into manifestation.
 
 ------------------------------------------------------------------------
 
-[Next: Permanent Prosperity](lmf12)
+[Next: Permanent Prosperity](lmf12.md)

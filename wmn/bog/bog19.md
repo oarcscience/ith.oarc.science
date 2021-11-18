@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog18)  [Next](bog20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog18)  [Next](bog20.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ Most terrible and most beautiful name of the Goddess, Eris!
 
 ------------------------------------------------------------------------
 
-[Next: The Testament of Gaia](bog20)
+[Next: The Testament of Gaia](bog20.md)

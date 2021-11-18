@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ptpl09)  [Next](ptpl11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ptpl09)  [Next](ptpl11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Principal Teachings of The True Sect of Pure Land*, by Yejitsu Okusa,
 \[1915\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte)
 <span class="smallcaps">What</span> kind of faith does the True Sect
 require of its followers? Not much, only to surrender themselves to the
 will of Amida; and his will is: "Trust in me with singleness of heart,
-and you will assuredly be saved." Let us, [therefore](errata.htm#14),
+and you will assuredly be saved." Let us, [therefore](errata.htm#14.md),
 surrender ourselves to his will and harbor no other thought than to be
 embraced in his arms of grace, wishing to be saved in the life to come.
 Amida is the leader of all the Buddhas. It is he who holds the key to
@@ -97,4 +97,4 @@ entertained by the followers of the True Sect of Pure Land.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Life](ptpl11)
+[Next: VI. Life](ptpl11.md)

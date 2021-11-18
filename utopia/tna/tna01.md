@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](tna00)  [Next](tna02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](tna00)  [Next](tna02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0192838857/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0192838857/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ stimulus for the future.
 
 ------------------------------------------------------------------------
 
-[Next: The New Atlantis](tna02)
+[Next: The New Atlantis](tna02.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,8 +24,8 @@ original Latin text, which was not included in the MacKail version.
 
 ------------------------------------------------------------------------
 
-[Title Page](geo00) [\[Latin\]](geol00)  
-[First Book](geo01) [\[Latin\]](geol01)  
-[Second Book](geo02) [\[Latin\]](geol02)  
-[Third Book](geo03) [\[Latin\]](geol03)  
-[Fourth Book](geo04) [\[Latin\]](geol04)  
+[Title Page](geo00) [\[Latin\]](geol00.md)  
+[First Book](geo01) [\[Latin\]](geol01.md)  
+[Second Book](geo02) [\[Latin\]](geol02.md)  
+[Third Book](geo03) [\[Latin\]](geol03.md)  
+[Fourth Book](geo04) [\[Latin\]](geol04.md)  

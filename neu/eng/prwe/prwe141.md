@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe140)  [Next](prwe142) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe140)  [Next](prwe142.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ about the cottage.
 
 ------------------------------------------------------------------------
 
-[Next: Theodore, King of Cornwall](prwe142)
+[Next: Theodore, King of Cornwall](prwe142.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb14)  [Next](gnfb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb14)  [Next](gnfb16.md) 
 
 </div>
 
@@ -179,6 +179,6 @@ Sebillot.
 
 ------------------------------------------------------------------------
 
-[Next: The Golden Blackbird](gnfb16)
+[Next: The Golden Blackbird](gnfb16.md)
 
 </div>

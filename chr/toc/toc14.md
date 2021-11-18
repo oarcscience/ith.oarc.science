@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](toc13)  [Next](toc15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](toc13)  [Next](toc15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Trial of Christ*, by David K. Breed, \[1948\], at Intangible
 Textual Heritage
 
@@ -23,7 +23,7 @@ Textual Heritage
 
 The following authorities have been cited or referred to in this work:
 
-(Listed in the Order of Citation) <span id="fr_138"></span>[\*](#fn_138)
+(Listed in the Order of Citation) <span id="fr_138"></span>[\*](#fn_138.md)
 
 *The Holy Bible*
 
@@ -145,10 +145,10 @@ Sunday School Times*, January 11, 1947.
 
 ### Footnotes
 
-<span id="fn_138"></span>[83:\*](toc14.htm#fr_138) Doctoral titles
+<span id="fn_138"></span>[83:\*](toc14.htm#fr_138.md) Doctoral titles
 omitted as we use "Rev," "Rabbi," or "Esq." to show whether or not
 author is a Minister, Rabbi or Lawyer.
 
 ------------------------------------------------------------------------
 
-[Next: Index](toc15)
+[Next: Index](toc15.md)

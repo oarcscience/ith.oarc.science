@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](gbt05)  [Next](gbt07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](gbt05)  [Next](gbt07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -134,7 +134,7 @@ process of divination and its interpretation, the greater the chance of
 being truly 'illuminated' by insight or vision. These cards have to be
 taken as 'signs of the Heavens,' and in order to understand what Heaven
 has to communicate, man has to eliminate, wholly and without
-consideration, his own as well as other [people's](errata.htm#1)
+consideration, his own as well as other [people's](errata.htm#1.md)
 prejudices and preferences, bigotry and illusions. Pessimism and
 optimism are both false and of no use in facing the natural facts,
 though we shall do wisely not to disregard the free-choice (wrongly
@@ -210,4 +210,4 @@ cards sufficiently for the use of divination.
 
 ------------------------------------------------------------------------
 
-[Next: The Greater Arcana](gbt07)
+[Next: The Greater Arcana](gbt07.md)

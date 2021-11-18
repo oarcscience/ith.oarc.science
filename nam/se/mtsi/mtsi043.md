@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi042)  [Next](mtsi044) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi042)  [Next](mtsi044.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ by Silas Jefferson.)
 ------------------------------------------------------------------------
 
 [Next: 42. Rabbit Gets Man-eater Over to the Other Side of the Ocean
-(Third Version)](mtsi044)
+(Third Version)](mtsi044.md)

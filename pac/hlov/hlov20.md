@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov19)  [Next](hlov21) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov19)  [Next](hlov21.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ had been brought back to life.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. Hiiaka and the Seacoast Kupuas](hlov21)
+[Next: XVI. Hiiaka and the Seacoast Kupuas](hlov21.md)

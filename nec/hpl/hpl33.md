@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl32)  [Next](hpl34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl32)  [Next](hpl34.md) 
 
 ------------------------------------------------------------------------
 
@@ -466,4 +466,4 @@ all the aims and mysteries of a blindly impersonal cosmos.
 
 ------------------------------------------------------------------------
 
-[Next: The Strange High House in the Mist (Weird Tales, 1931)](hpl34)
+[Next: The Strange High House in the Mist (Weird Tales, 1931)](hpl34.md)

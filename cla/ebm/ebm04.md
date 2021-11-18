@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ebm03)  [Next](ebm05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ebm03)  [Next](ebm05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eleusinian and Bacchic Mysteries*, by Thomas Taylor, \[1891\], at
 Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Intangible Textual Heritage
 
 <span id="page_11">p. 11</span>
 
-<span id="img_01101"></span> ![Prometheus.](img/01101.png)  
+<span id="img_01101"></span> ![Prometheus.](img/01101.png.md)  
 Prometheus.
 
 #### INTRODUCTION TO THE THIRD EDITION.
@@ -64,7 +64,7 @@ that can be real for us within us or without. This is the second
 
 initiation in which is unvailed to us the Present as a new birth from
 our own life. Thus the great problem of Idealism is symbolically solved
-in the Eleusinia.” <span id="fr_0"></span>[\*](#fn_0)
+in the Eleusinia.” <span id="fr_0"></span>[\*](#fn_0.md)
 
 These were the most celebrated of all the sacred orgies, and were
 called, by way of eminence, *The Mysteries*. Although exhibiting
@@ -119,7 +119,7 @@ by the
 <span id="page_15">p. 15</span> <span id="page_16">p. 16</span>
 
 <span id="img_01601"></span> ![Procession of Iacchos and
-Phallus.](img/01601.png)  
+Phallus.](img/01601.png.md)  
 Procession of Iacchos and Phallus.
 
 <span id="page_17">p. 17</span>
@@ -147,7 +147,7 @@ but the Hierophant within will soon open our eyes.
 this holy water; for it is with pure hands and a pure heart that we are
 bidden to enter the most sacred enclosure \[μυστικος σηκος, *mustikos
 sekos*\]. Then, led into the presence of the Hierophant, <span
-id="fr_1"></span>[\*](#fn_1)
+id="fr_1"></span>[\*](#fn_1.md)
 
 <span id="page_18">p. 18</span>
 
@@ -165,7 +165,7 @@ and hear the chorus of the Blessed;—then, not merely by external seeming
 or philosophic interpretation, but in real fact, does the Hierophant
 become the Creator \[δημιουργος, *demiourgos*\] and revealer of all
 things; the Sun is but his torch-bearer, the Moon his attendant at the
-altar, and Hermes his mystic herald <span id="fr_2"></span>[\*](#fn_2)
+altar, and Hermes his mystic herald <span id="fr_2"></span>[\*](#fn_2.md)
 \[κηρυξ, *kerux*\]. But the final word has been uttered ‘*Conx Om pax*.’
 The rite is consummated, and we are *epoptæ* forever!”
 
@@ -179,7 +179,7 @@ here to give some idea of the meaning. That it was regarded as profound
 is evident from the peculiar rites, and the obligations imposed on every
 initiated person. It was a reproach not to observe them. Socrates was
 accused of atheism, or disrespect to the gods, for having never been
-initiated. <span id="fr_3"></span>[\*](#fn_3) Any person accidentally
+initiated. <span id="fr_3"></span>[\*](#fn_3.md) Any person accidentally
 guilty of homicide, or of any crime, or convicted of witchcraft, was
 excluded. The secret doctrines, it is supposed, were the same as are
 expressed in the celebrated *Hymn* of Cleanthes. The philosopher
@@ -195,7 +195,7 @@ The Bacchic Orgies were said to have been instituted,
 <span id="page_20">p. 20</span>
 
 or more probably reformed by Orpheus, a mythical personage, supposed to
-have flourished in Thrace. <span id="fr_4"></span>[\*](#fn_4) The Orphic
+have flourished in Thrace. <span id="fr_4"></span>[\*](#fn_4.md) The Orphic
 associations dedicated themselves to the worship of Bacchus, in which
 they hoped to find the gratification of an ardent longing after the
 worthy and elevating influences of a religious life. The worshipers did
@@ -205,7 +205,7 @@ aimed at an ascetic purity of
 <span id="page_21">p. 21</span> <span id="page_22">p. 22</span>
 
 <span id="img_02201"></span> ![Etruscan Eleusinian
-Ceremonies.](img/02201.png)  
+Ceremonies.](img/02201.png.md)  
 Etruscan Eleusinian Ceremonies.
 
 <span id="page_23">p. 23</span>
@@ -228,14 +228,14 @@ more correct. Ceres or Demeter was called Koré at Cnidos. She is called
 Phersephatta in a fragment by Psellus, and is also styled a Fury. The
 divine child, an *avatar* or incarnation of Zeus, was denominated
 Zagreus, or Chakra (Sanscrit) as being destined to universal dominion.
-But at the instigation of Hera <span id="fr_5"></span>[\*](#fn_5) the
+But at the instigation of Hera <span id="fr_5"></span>[\*](#fn_5.md) the
 Titans conspired to murder him.
 
 <span id="page_24">p. 24</span>
 
 <span class="contnote">\[paragraph continues\]</span> Accordingly, one
 day while he was contemplating a mirror, <span
-id="fr_6"></span>[\*](#fn_6) they set upon him, disguised under a
+id="fr_6"></span>[\*](#fn_6.md) they set upon him, disguised under a
 coating of plaster, and tore him into seven parts. Athena, however,
 rescued from them his heart, which was swallowed by Zeus, and so
 returned into the paternal substance, to be generated anew. He was thus
@@ -251,7 +251,7 @@ the Platonic
 philosophy. At first sight, this may be hard to believe; but we must
 know that no pageant could hold place so long, without an under-meaning.
 Indeed, Herodotus asserts that “the rites called Orphic and Bacchic are
-in reality Egyptian and Pythagorean.” <span id="fr_7"></span>[\*](#fn_7)
+in reality Egyptian and Pythagorean.” <span id="fr_7"></span>[\*](#fn_7.md)
 The influence of the doctrines of Pythagoras upon the Platonic system is
 generally acknowledged. It is only important in that case to understand
 the great philosopher correctly; and we have a key to the doctrines and
@@ -289,7 +289,7 @@ individual conscious of them and willing to be led and inspired by them.
 The soul is purified or separated from evils by knowledge, truth,
 expiations, sufferings, and prayers. Our life is a discipline and
 preparation for another state of being; and resemblance to God is the
-highest motive of action. <span id="fr_8"></span>[\*](#fn_8)
+highest motive of action. <span id="fr_8"></span>[\*](#fn_8.md)
 
 <span id="page_27">p. 27</span>
 
@@ -332,12 +332,12 @@ their enjoyment, we shall be doubly gratified.
 A. W.
 
 <span id="img_02801"></span> ![Venus and Proserpina in
-Hades.](img/02801.png)  
+Hades.](img/02801.png.md)  
 Venus and Proserpina in Hades.
 
 <span id="page_29">p. 29</span>
 
-<span id="img_02901"></span> ![Rape of Proserpina.](img/02901.png)  
+<span id="img_02901"></span> ![Rape of Proserpina.](img/02901.png.md)  
 Rape of Proserpina.
 
 #### ADVERTISEMENT TO THE AUTHOR’S EDITION.
@@ -373,17 +373,17 @@ majestically pours them back,
 </div>
 
 <span id="img_03001"></span> ![Pallas, Venus, and
-Diana.](img/03001.png)  
+Diana.](img/03001.png.md)  
 Pallas, Venus, and Diana.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[13:\*](ebm04.htm#fr_0) *Atlantic Monthly*, vol.
+<span id="fn_0"></span>[13:\*](ebm04.htm#fr_0.md) *Atlantic Monthly*, vol.
 iv. September, 1859.
 
-<span id="fn_1"></span>[17:\*](ebm04.htm#fr_1) In the Oriental countries
+<span id="fn_1"></span>[17:\*](ebm04.htm#fr_1.md) In the Oriental countries
 the designation פתר *Peter* (an interpreter), appears to have been the
 title of this personage; and <span id="page_18">p. 18</span> the petroma
 consisted, notably enough, of two tablets of stone. There is in these
@@ -392,10 +392,10 @@ which was so preserved; and also of the claim of the Pope to be the
 successor of Peter, the hierophant or interpreter of the Christian
 religion.
 
-<span id="fn_2"></span>[18:\*](ebm04.htm#fr_2) <span
+<span id="fn_2"></span>[18:\*](ebm04.htm#fr_2.md) <span
 class="smallcaps">Porphyry</span>.
 
-<span id="fn_3"></span>[19:\*](ebm04.htm#fr_3) *Ancient Symbol-Worship*,
+<span id="fn_3"></span>[19:\*](ebm04.htm#fr_3.md) *Ancient Symbol-Worship*,
 page 12, note. “Socrates was not initiated, yet after drinking the
 hemlock, he addressed Crito: ‘We owe a cock to Æsculapius.’ This was the
 peculiar offering made by initiates (now called *kerknophori*) on the
@@ -407,7 +407,7 @@ class="smallcaps">Lydia Maria Child</span>, vol. ii. p. 308; and
 “*Discourses on the Worship of Priapus*,” by <span
 class="smallcaps">Richard Payne Knight</span>.
 
-<span id="fn_4"></span>[20:\*](ebm04.htm#fr_4) <span
+<span id="fn_4"></span>[20:\*](ebm04.htm#fr_4.md) <span
 class="smallcaps">Euripides</span>: *Rhaesus*. “Orpheus showed forth the
 rites of the hidden Mysteries.”
 
@@ -433,13 +433,13 @@ changes, at the same time that he brought in various other practices.
 For I can by no means allow that it is by mere coincidence that the
 Bacchic ceremonies in Greece are so nearly the same as the Egyptian.”
 
-<span id="fn_5"></span>[23:\*](ebm04.htm#fr_5) Hera, generally regarded
+<span id="fn_5"></span>[23:\*](ebm04.htm#fr_5.md) Hera, generally regarded
 as the Greek title of Juno, is not the definite name of any goddess, but
 was used by ancient writers as a designation only. It signifies *domina*
 or lady, and appears to be of Sanscrit origin. It is applied to Ceres or
 Demeter, and other divinities.
 
-<span id="fn_6"></span>[24:\*](ebm04.htm#fr_6) The mirror was a part of
+<span id="fn_6"></span>[24:\*](ebm04.htm#fr_6.md) The mirror was a part of
 the symbolism of the Thesmophoria, and was used in the search for Atmu,
 the Hidden One, evidently the same as Tammuz, Adonis, and Atys. See
 *Exodus* xxxviii. 8; 1 *Samuel* ii. 22; and *Ezekiel* viii. 14. But
@@ -458,10 +458,10 @@ title Dionysus but signify the god or chief-priest of Nysa, or Mount
 Meru. The whole story of Orpheus, the institutor or rather the reformer
 of the Bacchic rites, has a Hindu ring all through.
 
-<span id="fn_7"></span>[25:\*](ebm04.htm#fr_7) <span
+<span id="fn_7"></span>[25:\*](ebm04.htm#fr_7.md) <span
 class="smallcaps">Herodotus</span>: ii. 81.
 
-<span id="fn_8"></span>[26:\*](ebm04.htm#fr_8) Many of the early
+<span id="fn_8"></span>[26:\*](ebm04.htm#fr_8.md) Many of the early
 Christian writers were deeply imbued with the Eclectic or Platonic
 doctrines. The very forms of speech were almost identical. One of the
 four Gospels, bearing the title “*according to John*,” was the evident
@@ -473,4 +473,4 @@ permeated the religious ideas of the western countries.
 
 ------------------------------------------------------------------------
 
-[Next: Section I., Eleusinian Mysteries](ebm05)
+[Next: Section I., Eleusinian Mysteries](ebm05.md)

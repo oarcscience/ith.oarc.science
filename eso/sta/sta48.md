@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta47)  [Next](sta49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta47)  [Next](sta49.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ principles of an archetypal sphere wherein exist the
 <span id="img_19300"></span>
 
 [![NAVAHO SAND PAINTING.](tn/19300.jpg)  
-Click to enlarge](img/19300.jpg)  
+Click to enlarge](img/19300.jpg.md)  
 NAVAHO SAND PAINTING.  
 
 From an original drawing by Hasteen Klah.
@@ -326,7 +326,7 @@ earth)? Are not Hunhun-ahpu and Vukub-hunhun-ahpu dead, who wished
 <span id="img_19400"></span>
 
 [![FRAGMENT OF INDIAN POTTERY.](tn/19400.jpg)  
-Click to enlarge](img/19400.jpg)  
+Click to enlarge](img/19400.jpg.md)  
 FRAGMENT OF INDIAN POTTERY.  
 
 Courtesy of Alice Palmer Henderson
@@ -442,7 +442,7 @@ Xibalbians
 <span id="img_19500"></span>
 
 [![MIDEWIWIN RECORD ON BIRCH BARK.](tn/19500.jpg)  
-Click to enlarge](img/19500.jpg)  
+Click to enlarge](img/19500.jpg.md)  
 MIDEWIWIN RECORD ON BIRCH BARK.  
 
 Courtesy of Alice Palmer Henderson.
@@ -673,4 +673,4 @@ enshrouded in magic mantles of invisibility.
 
 ------------------------------------------------------------------------
 
-[Next: The Mysteries and Their Emissaries](sta49)
+[Next: The Mysteries and Their Emissaries](sta49.md)

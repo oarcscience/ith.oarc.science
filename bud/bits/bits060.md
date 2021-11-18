@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits059) [Next](bits061)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits059) [Next](bits061.md)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ induce all four. Thus in respect to the particular trance induced.
 
 ------------------------------------------------------------------------
 
-[Next: § 61. The Earth-Kasina](bits061)
+[Next: § 61. The Earth-Kasina](bits061.md)
 
  
 

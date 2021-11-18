@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml20)  [Next](iml22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml20)  [Next](iml22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -37,9 +37,9 @@ Vishnu, thou art Brahma, thou art Prajapati, lord of creatures, father
 of gods and man; thou art fire, thou art Mind; thou art lord of all, the
 eternal Brahma."
 
-Then Surya <span id="fr_263"></span>[1](#fn_262) appeared before
+Then Surya <span id="fr_263"></span>[1](#fn_262.md) appeared before
 Yudhishthira and gave unto him a copper pot, which was ever filled with
-food for the brethren. <span id="fr_264"></span>[2](#fn_263)
+food for the brethren. <span id="fr_264"></span>[2](#fn_263.md)
 
 <span id="page_250">p. 250</span>
 
@@ -65,7 +65,7 @@ was made manifest before Bhima. It chanced that the strong Pandava, who
 was also Vayu's son, was hastening on his way and went swift as the
 wind; the earth shook under him and trees fell down, and he killed at
 one touch of his foot tigers and lions and even great elephants that
-sought to obstruct his path. <span id="fr_265"></span>[1](#fn_264).
+sought to obstruct his path. <span id="fr_265"></span>[1](#fn_264.md).
 Hanuman shrank to the size of an ape, but his tail spread out in such
 great proportions across Bhima's path, that he was compelled to stay his
 course and stand still. He spake to Bhima then and told the tale of Rama
@@ -75,7 +75,7 @@ transported his brother, the
 <span id="page_251">p. 251</span>
 
 <span class="contnote">\[paragraph continues\]</span> Pandava, to the
-garden of Kuvera, <span id="fr_266"></span>[1](#fn_265) King of Yakshas,
+garden of Kuvera, <span id="fr_266"></span>[1](#fn_265.md) King of Yakshas,
 lord of treasure, who dwells in Mount Kailasa in the Himalayas; then
 Bhima procured sweet-scented flowers, which gave youth to those who had
 grown aged and turned grief into joy, and these he gave unto Draupadi.
@@ -181,7 +181,7 @@ because it is my duty so to do. I follow in the paths of those who have
 lived wise and holy lives, because that my heart turneth toward
 goodness. I am no trader in goodness, ever looking for the fruits
 thereof. The man who doubteth virtue will be born among the
-brutes; <span id="fr_267"></span>[1](#fn_266) he will never attain to
+brutes; <span id="fr_267"></span>[1](#fn_266.md) he will never attain to
 everlasting bliss. O do not, thou fair one, doubt the ancient religion
 of thy people! God will reward; he is the giver of fruits for deeds;
 virtue and vice bear fruits. . . . The wise are content with little in
@@ -279,7 +279,7 @@ the waters were divided; he saw demon fish and giant tortoises, and
 vessels laden with rubies. But he paused not, for he was without fear.
 The mighty Arjuna was eager for battle, and he blew a mighty blast upon
 his war shell: the Daityas and Danavas heard him and quaked with
-terror. <span id="fr_268"></span>[1](#fn_267) Then the demons smote
+terror. <span id="fr_268"></span>[1](#fn_267.md) Then the demons smote
 their drums and sounded their trumpets, and amidst the dread clamour the
 wallowing sea monsters arose and leapt over the waves against Indra's
 great son. But Arjuna chanted mantras; he shot clouds of bright arrows;
@@ -307,7 +307,7 @@ proud. And he wrecked the dwellings of the Daityas and Danavas.
 Indra praised his warrior son for his valour in overcoming the demons
 and giants of ocean, and he gave unto him a chain of gold, a bright
 diadem, and the war shell which gave forth a mighty blast like to
-thunder. <span id="fr_269"></span>[1](#fn_268)
+thunder. <span id="fr_269"></span>[1](#fn_268.md)
 
 During the years that Arjuna had his dwelling in Indra's celestial city,
 Yudhishthira and his three younger brethren, with Draupadi and the
@@ -386,7 +386,7 @@ Then Duryodhana made a mat of grass, and, having purified himself with
 water, sat down to wait for the end, clad in rags and absorbed in silent
 meditation.
 
-But the Daityas and Danavas <span id="fr_270"></span>[1](#fn_269)
+But the Daityas and Danavas <span id="fr_270"></span>[1](#fn_269.md)
 desired not that their favourite rajah should thus end his life lest
 their power should be weakened, and they sent to the forest a strange
 goddess, who carried him away in the night. Then the demons, before whom
@@ -423,11 +423,11 @@ Dhritarashtra."
 Duryodhana received these messages in silence. And when the sacrifice,
 which was called Vaishnava, was held, Karna said unto Duryodhana: "When
 thou has slain the Pandavas and canst hold thy Rajasuya <span
-id="fr_271"></span>[1](#fn_270), I will be present also to do homage
+id="fr_271"></span>[1](#fn_270.md), I will be present also to do homage
 unto thee."
 
 Then Karna took a vow and said: "I will neither eat venison nor wash my
-feet <span id="fr_272"></span>[2](#fn_271) until I have slain Arjuna."
+feet <span id="fr_272"></span>[2](#fn_271.md) until I have slain Arjuna."
 
 Spies hastened unto the Pandavas and related all that had taken place at
 the sacrifice, and also the words which Karna had spoken. When
@@ -449,11 +449,11 @@ asked for his armour and ear-rings. Having vowed to give unto the
 Brahmans whatsoever they might ask of him, Karna took off his armour and
 ear-rings and gave them unto the king of the gods, from whom he demanded
 in exchange an infallible weapon. Indra granted his request, but
-smiled <span id="fr_273"></span>[1](#fn_272)and went upon his way,
+smiled <span id="fr_273"></span>[1](#fn_272.md)and went upon his way,
 knowing well that the triumph of the Pandavas was now assured.
 
 It chanced that one day after this that Jayadratha <span
-id="fr_274"></span>[2](#fn_273), Rajah of Sindhu, passed through the
+id="fr_274"></span>[2](#fn_273.md), Rajah of Sindhu, passed through the
 wood when the Pandavas had gone a-hunting. He beheld Draupadi with eyes
 of love, and, despite her warnings, carried her away in his chariot.
 
@@ -551,7 +551,7 @@ The Voice said: "What maketh The Way? What
 is called Water? What is called Food? What is called Poison?"
 
 Said Yudhishthira: "They that are pious make The Way; space is called
-water; the cow is food <span id="fr_275"></span>[1](#fn_274); a request
+water; the cow is food <span id="fr_275"></span>[1](#fn_274.md); a request
 is poison."
 
 The Voice said: "Who is spoken of as the unconquered enemy of man? What
@@ -577,7 +577,7 @@ life, and that they should all have power to remain unrecognized by
 anyone in the three worlds for the space of a year.
 
 Ere the Pandavas left the forest, Yudhishthira invoked the goddess
-Durga <span id="fr_276"></span>[2](#fn_275), giver of boons, saying: "O
+Durga <span id="fr_276"></span>[2](#fn_275.md), giver of boons, saying: "O
 slayer of
 
 <span id="page_266">p. 266</span>
@@ -591,7 +591,7 @@ the Pandava brethren and Draupadi would remain unrecognized during the
 thirteenth and last year of their exile.
 
 Then the wanderers concealed their weapons in a tree, and went together
-towards the city of Virata <span id="fr_277"></span>[1](#fn_276) so that
+towards the city of Virata <span id="fr_277"></span>[1](#fn_276.md) so that
 they might conceal themselves. According to the terms of banishment,
 they would have to spend a further twelve years in the jungle if the
 Kauravas discovered their whereabouts.
@@ -621,7 +621,7 @@ the brothers were well loved by the monarch because of their loyal
 services.
 
 It chanced that the queen's brother, Kichaka <span
-id="fr_278"></span>[1](#fn_277), a mighty warrior and commander of the
+id="fr_278"></span>[1](#fn_277.md), a mighty warrior and commander of the
 royal army, was smitten with love for beautiful Draupadi, and at length
 he sought to carry her away. But one night Bhima waited for him when he
 came stealthily towards Draupadi, and after a long struggle the strong
@@ -666,7 +666,7 @@ to submit with humility to his rival ere he was allowed to return to his
 own city.
 
 Meanwhile the Kauravas had advanced from the south. Uttar <span
-id="fr_279"></span>[1](#fn_278), son of the Rajah of Virata, went
+id="fr_279"></span>[1](#fn_278.md), son of the Rajah of Virata, went
 against them, and Arjuna was his charioteer. When the young man,
 however, beheld his enemies, he desired to flee, but his driver
 compelled him by force to remain in the chariot.
@@ -716,64 +716,64 @@ Dhritarashtra.
 
 ### Footnotes
 
-<span id="fn_262"></span>[249:1](iml21.htm#fr_263) The sun god.
+<span id="fn_262"></span>[249:1](iml21.htm#fr_263.md) The sun god.
 
-<span id="fn_263"></span>[249:2](iml21.htm#fr_264) Like the "Pot of
+<span id="fn_263"></span>[249:2](iml21.htm#fr_264.md) Like the "Pot of
 Worth" possessed by the Celtic Finn-mac-Cool.
 
-<span id="fn_264"></span>[250:1](iml21.htm#fr_265) Like the Celtic giant
+<span id="fn_264"></span>[250:1](iml21.htm#fr_265.md) Like the Celtic giant
 Caoilte, who went swifter than the March wind, and the Teutonic
 storm-giant Ecke, who gave chase to Dietrich in his character as Thunor
 (Thor).--See *Teutonic Myth and Legend*, Chapter xxxviii.
 
-<span id="fn_265"></span>[251:1](iml21.htm#fr_266) Like the Teutonic
+<span id="fn_265"></span>[251:1](iml21.htm#fr_266.md) Like the Teutonic
 elf-king Laurin, whose wonderful rose garden is among the Tyrolese
 mountains.--*Teutonic Myth and Legend*.
 
-<span id="fn_266"></span>[254:1](iml21.htm#fr_267) In the next life in
+<span id="fn_266"></span>[254:1](iml21.htm#fr_267.md) In the next life in
 this world, according to the belief in transmigration of souls.
 
-<span id="fn_267"></span>[257:1](iml21.htm#fr_268) Like Dietrich von
+<span id="fn_267"></span>[257:1](iml21.htm#fr_268.md) Like Dietrich von
 Bern, he assumes the character of the thunder god, and reminds us of
 Thor going eastward to battle against the Jotuns.
 
-<span id="fn_268"></span>[258:1](iml21.htm#fr_269) For slaying a sea
+<span id="fn_268"></span>[258:1](iml21.htm#fr_269.md) For slaying a sea
 giant, the Celtic Finn-mac-Cool was awarded by the king of Erin the
 "Horn of Worth", which could be heard "over seven hills". Like Arjuna's
 war shell, it was evidently the "thunder horn".
 
-<span id="fn_269"></span>[260:1](iml21.htm#fr_270) Demons and giants.
+<span id="fn_269"></span>[260:1](iml21.htm#fr_270.md) Demons and giants.
 
-<span id="fn_270"></span>[261:1](iml21.htm#fr_271) Dhritarashtra being
+<span id="fn_270"></span>[261:1](iml21.htm#fr_271.md) Dhritarashtra being
 still alive and the Pandavas having refused to attend, Duryodhana was
 unable, as he desired, to perform the greater sacrifice.
 
-<span id="fn_271"></span>[261:2](iml21.htm#fr_272) A necessary religious
+<span id="fn_271"></span>[261:2](iml21.htm#fr_272.md) A necessary religious
 act of purification before prayer. Karna thus imperilled his soul's
 welfare to be avenged upon his rival.
 
-<span id="fn_272"></span>[262:1](iml21.htm#fr_273) A supernatural gift
+<span id="fn_272"></span>[262:1](iml21.htm#fr_273.md) A supernatural gift
 in such circumstances carried with it fatal consequences.
 
-<span id="fn_273"></span>[262:2](iml21.htm#fr_274) *Pron*.
+<span id="fn_273"></span>[262:2](iml21.htm#fr_274.md) *Pron*.
 jay-a-drat´ha.
 
-<span id="fn_274"></span>[265:1](iml21.htm#fr_275) Babu P. C. Roy
+<span id="fn_274"></span>[265:1](iml21.htm#fr_275.md) Babu P. C. Roy
 comments on this head: "The cow is the only food in this sense. The cow
 gives milk. The milk gives butter. The butter is used in *Homa* (the
 offering). The Homa is the cause of the clouds. The clouds give rain.
 The rain makes the seeds to sprout forth and produce food."
 
-<span id="fn_275"></span>[265:2](iml21.htm#fr_276) A form of the goddess
+<span id="fn_275"></span>[265:2](iml21.htm#fr_276.md) A form of the goddess
 Kali, wife of Shiva.
 
-<span id="fn_276"></span>[266:1](iml21.htm#fr_277) *Pron*. vir-at´a.
+<span id="fn_276"></span>[266:1](iml21.htm#fr_277.md) *Pron*. vir-at´a.
 
-<span id="fn_277"></span>[267:1](iml21.htm#fr_278) *Pron*. kee-chak´a
+<span id="fn_277"></span>[267:1](iml21.htm#fr_278.md) *Pron*. kee-chak´a
 ("ch" as in "change").
 
-<span id="fn_278"></span>[268:1](iml21.htm#fr_279) *Pron*. oot´ar.
+<span id="fn_278"></span>[268:1](iml21.htm#fr_279.md) *Pron*. oot´ar.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Defiance of Duryodhana](iml22)
+[Next: Chapter XVII. Defiance of Duryodhana](iml22.md)

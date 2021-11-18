@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws65)  [Next](cws67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws65)  [Next](cws67.md) 
 
 ------------------------------------------------------------------------
 
 ### No. X
 
-#### DELTA, OR THE MYSTERY OF GENERATION <span id="fr_206"></span>[1](#fn_206)
+#### DELTA, OR THE MYSTERY OF GENERATION <span id="fr_206"></span>[1](#fn_206.md)
 
 BY the word of Elohim were the seven Elohim. manifest:
 
@@ -117,7 +117,7 @@ consistence, form, and tinctures, and dimension.
 35\. There are thrones, and dominions, and principalities, and powers.
 
 36\. There are Christs, and prophets, and saints, and congregations of
-the elect. <span id="fr_207"></span>[1](cws67.htm#fn_207)
+the elect. <span id="fr_207"></span>[1](cws67.htm#fn_207.md)
 
 37\. And concerning these the Spirit shall give you discernment
 hereafter.
@@ -126,7 +126,7 @@ hereafter.
 
 ### Footnotes
 
-<span id="fn_206"></span>[145:1](cws66.htm#fr_206) Referring to this
+<span id="fn_206"></span>[145:1](cws66.htm#fr_206.md) Referring to this
 Illumination, Edward Maitland, in an article on "The New Gospel of
 interpretation," in *The Unknown World*, 1894, p. 11, says; "Proceeding
 from the Father-Mother \[Elohim\] through the Son \[Adonai\] . . . and
@@ -137,4 +137,4 @@ in creation."    S. H. H.
 
 ------------------------------------------------------------------------
 
-[Next: No. XI: Epsilon, Or The First Of The Gods](cws67)
+[Next: No. XI: Epsilon, Or The First Of The Gods](cws67.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb06)  [Next](yefb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb06)  [Next](yefb08.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_26">p. 26</span>
 
-THE GOLDEN CRAB <span id="fr_4"></span>[1](#fn_4)
+THE GOLDEN CRAB <span id="fr_4"></span>[1](#fn_4.md)
 
 Once upon a time there was a fisherman who had a wife and three
 children.  Every morning he used to go out fishing, and whatever fish he
@@ -92,7 +92,7 @@ the rod, and the next morning the garden was there.  The King now gave
 his consent, and the wedding was fixed for the very next day.  Then the
 Crab said to the old fisherman, 'Now take this rod; go and knock with it
 on a certain mountain; then a black man <span
-id="fr_5"></span>[1](#fn_5) will come out and ask you what you wish
+id="fr_5"></span>[1](#fn_5.md) will come out and ask you what you wish
 for.  Answer him thus: ''Your master, the King, has sent me to tell you
 that you must send him his golden garment that is like the sun.'' Make
 him give you, besides, the queenly robes of gold and precious stones
@@ -263,15 +263,15 @@ the story are happier still.
 
 ### Footnotes
 
-<span id="fn_4"></span>[26:1](yefb07.htm#fr_4) 'Prinz Krebs,' from
+<span id="fn_4"></span>[26:1](yefb07.htm#fr_4.md) 'Prinz Krebs,' from
 *Griechische* *Mährchen*.  Schmidt.
 
-<span id="fn_5"></span>[28:1](yefb07.htm#fr_5) Ein Mohr.
+<span id="fn_5"></span>[28:1](yefb07.htm#fr_5.md) Ein Mohr.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Iron Stove](yefb08)
+[Next: The Iron Stove](yefb08.md)
 
 </div>

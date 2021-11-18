@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre00)  [Next](gre02) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre00)  [Next](gre02.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ MDCCCLXIX\.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](gre02)
+[Next: Preface](gre02.md)

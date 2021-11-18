@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale19)  [Next](tale21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale19)  [Next](tale21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ the island
 <span id="img_16500"></span>
 
 [![THE FIRST ROC AIMS A STONE AT THE SHIP](tn/16500.jpg)  
-Click to enlarge](img/16500.jpg)  
+Click to enlarge](img/16500.jpg.md)  
 THE FIRST ROC AIMS A STONE AT THE SHIP  
 
 <span id="page_166">p. 166</span> <span id="page_167">p. 167</span>
@@ -156,7 +156,7 @@ of them, for if you strayed your life would be in danger."
 <span id="img_16900"></span>
 
 [![THE OLD MAN OF THE SEA](tn/16900.jpg)  
-Click to enlarge](img/16900.jpg)  
+Click to enlarge](img/16900.jpg.md)  
 THE OLD MAN OF THE SEA  
 
 <span id="page_170">p. 170</span> <span id="page_171">p. 171</span>
@@ -204,4 +204,4 @@ next day's feast he began the account of his sixth voyage as follows.
 
 ------------------------------------------------------------------------
 
-[Next: Sixth Voyage](tale21)
+[Next: Sixth Voyage](tale21.md)

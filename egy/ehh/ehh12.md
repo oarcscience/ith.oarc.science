@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh11)  [Next](ehh13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh11)  [Next](ehh13.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ hidden chamber of SEKER himself.
 ------------------------------------------------------------------------
 
 [Next: Fifth Division of the Tuat. I. The Kingdom of Seker According to
-the Book Am-Tuat](ehh13)
+the Book Am-Tuat](ehh13.md)

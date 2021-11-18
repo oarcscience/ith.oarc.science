@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly51)  [Next](lly53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly51)  [Next](lly53.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ mountain tribes.
 
 ------------------------------------------------------------------------
 
-[Next: Communications](lly53)
+[Next: Communications](lly53.md)

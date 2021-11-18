@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma39)  [Next](oma41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma39)  [Next](oma41.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_pl07a"></span>
 
 [![Plate 7, Figure 1](tn/pl07a.jpg)  
-Click to enlarge](img/pl07a.jpg)  
+Click to enlarge](img/pl07a.jpg.md)  
 Plate 7, Figure 1  
 
 FIGURE 1. Chakoya katsina. Mask black bordered with brown; eye-slits
@@ -21,7 +21,7 @@ to the feet will be worn.
 <span id="img_pl07b"></span>
 
 [![Plate 7, Figure 2](tn/pl07b.jpg)  
-Click to enlarge](img/pl07b.jpg)  
+Click to enlarge](img/pl07b.jpg.md)  
 Plate 7, Figure 2  
 
 FIGURE 2. Shumaashka, Corn clan katsina. Squash blossom (red) on side;
@@ -32,4 +32,4 @@ ornaments (blue and red).
 
 ------------------------------------------------------------------------
 
-[Next: Plate 8](oma41)
+[Next: Plate 8](oma41.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs22) [Next](hbs24)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs22) [Next](hbs24.md)
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ And this did Marko for me, that I met my eaglets dear.”
 
 ------------------------------------------------------------------------
 
-[Next](hbs24)
+[Next](hbs24.md)
 
  
 

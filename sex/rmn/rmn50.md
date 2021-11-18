@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn49)  [Next](rmn51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn49)  [Next](rmn51.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ at Pompeii.
 
 ------------------------------------------------------------------------
 
-[Next: Plate L: Aeneas and Dido](rmn51)
+[Next: Plate L: Aeneas and Dido](rmn51.md)

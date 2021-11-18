@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml13)  [Next](tml15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml13)  [Next](tml15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -125,7 +125,7 @@ vengeance of
 <span id="img_08400"></span> <span align="CENTER"> [![FREYJA AND THE
 NECKLACE&lt;br&gt; &lt;i&gt;From the painting by J. Doyle Penrose,
 R.H.A. By permission of the artist&lt;/i&gt;](tn/08400.jpg)  
-Click to enlarge](img/08400.jpg)  
+Click to enlarge](img/08400.jpg.md)  
 FREYJA AND THE NECKLACE  
 *From the painting by J. Doyle Penrose, R.H.A. By permission of the
 artist*  
@@ -285,7 +285,7 @@ Ygdrasil, the World-tree, ceased to draw sustenance therefrom so that it
 began to wither. Many leaves faded, and its branches knew swift decay.
 
 The seven sons of Mimer, who were guardians of the seven months of
-change, <span id="fr_21"></span>[1](#fn_21) fell into deep stupor in
+change, <span id="fr_21"></span>[1](#fn_21.md) fell into deep stupor in
 their golden hall, which was heaped with great treasure. Clad in
 splendid robes, they lay upon the floor wrapped in magic sleep.
 Sindre-Dvalin was there in the midst; his brothers were about him.
@@ -305,11 +305,11 @@ none save the sons of Mimer can wield.
 
 ### Footnotes
 
-<span id="fn_21"></span>[89:1](tml14.htm#fr_21) These are St. Swithin's
+<span id="fn_21"></span>[89:1](tml14.htm#fr_21.md) These are St. Swithin's
 mythical predecessors. The ancient belief was that if it rained on "the
 day of the Seven Sleepers" there would be rain for seven weeks
 thereafter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Loke's Evil Progeny](tml15)
+[Next: Chapter X. Loke's Evil Progeny](tml15.md)

@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm07)  [Next](rotm09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm07)  [Next](rotm09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -314,6 +314,6 @@ of man am I to-day other than the man I was yesterday?'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Face-of-god Cometh Home Again to Burgstead](rotm09)
+[Next: Chapter VIII. Face-of-god Cometh Home Again to Burgstead](rotm09.md)
 
 </div>

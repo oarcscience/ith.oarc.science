@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb39)  [Next](wfb41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb39)  [Next](wfb41.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ which of her best friends had put her into the well.
 
 ------------------------------------------------------------------------
 
-[Next: Magic Music](wfb41)
+[Next: Magic Music](wfb41.md)

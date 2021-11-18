@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Legendary Creatures](../../lcr/index)  [Index](index) 
-[Previous](ddl04)  [Next](ddl06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Legendary Creatures](../../lcr/index)  [Index](index.md) 
+[Previous](ddl04)  [Next](ddl06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPL5U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPL5U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dragons and Dragon Lore*, by Ernest Ingersoll, \[1928\], at Intangible
 Textual Heritage
 
@@ -241,4 +241,4 @@ foreign idea.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four: The Divine Spirit of the Waters](ddl06)
+[Next: Chapter Four: The Divine Spirit of the Waters](ddl06.md)

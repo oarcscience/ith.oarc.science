@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076614531X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076614531X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076614531X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](bai00)    [Page
-Index](pageidx)    [Text \[Zipped\]](baitxt.zip)
+[Contents](#contents)    [Start Reading](bai00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](baitxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -38,9 +38,9 @@ Index](pageidx)    [Text \[Zipped\]](baitxt.zip)
 This extended essay was the 1908 Ingersoll Lecture on Immortality.
 Bigelow explores the nature of Karma, and the ultimate mental state,
 Nirvana. He relates this to concepts expressed by Western thinkers such
-as [Darwin](../../aor/darwin/index) and [Emerson](../../phi/index).
+as [Darwin](../../aor/darwin/index) and [Emerson](../../phi/index.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](bai00)  
-[Buddhism and Immortality](bai01)  
+<span id="contents"></span> [Title Page and Front Matter](bai00.md)  
+[Buddhism and Immortality](bai01.md)  

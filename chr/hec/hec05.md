@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](hec04)  [Next](hec06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](hec04)  [Next](hec06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Eastern Church*, by J.M. Neale, \[1884\], at Intangible
 Textual Heritage
 
@@ -39,4 +39,4 @@ Music are unaltered from the Greek*.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](hec06)
+[Next: Introduction](hec06.md)

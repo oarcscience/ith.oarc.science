@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml20)  [Next](tml22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml20)  [Next](tml22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ moon to find safety from the pursuing wolves of Ironwood. Strong-armed
 were the Varns, and when Sol sank into her golden bed, their chosen
 warriors, who guarded her, kept watch with burning brands. By day they
 slept, but when Sol again drave her chariot towards Billing's gate <span
-id="fr_22"></span>[1](#fn_22) they lit their torches, which flamed with
+id="fr_22"></span>[1](#fn_22.md) they lit their torches, which flamed with
 red fire and gold.
 
 When Odin went unto Billing he revealed his love for Rhind, but the
@@ -126,7 +126,7 @@ do at Ragnarok, to combat against the hordes of Surtur.
 Thus daily do the warriors go forth as on the morn of Vale's coming. On
 a great field they fight battles, and one another they cut to pieces. On
 steeds they ride and the steeds fall. On foot they rush into battle to
-be slain. <span id="fr_23"></span>[1](#fn_23) Yet are they ever restored
+be slain. <span id="fr_23"></span>[1](#fn_23.md) Yet are they ever restored
 again.
 
 Vale beheld the heroes in conflict. He saw them slay one another. He saw
@@ -211,7 +211,7 @@ the stranger was none other than Odin himself. With trembling voice he
 confessed that he was vanquished. So he who sought to slay the stranger
 was himself slain. By Odin was his head struck off.
 
-By the gods was Odin called Jalk <span id="fr_24"></span>[1](#fn_24)
+By the gods was Odin called Jalk <span id="fr_24"></span>[1](#fn_24.md)
 when he slew the great giant.
 
 But although Odin brought judgment upon the tyrant Vafthrudner, as he
@@ -314,7 +314,7 @@ Shame fell upon Frey and on all the gods whom
 <span id="img_17200"></span> <span align="CENTER"> [![LOKE AT ÆGER'S
 FEAST&lt;br&gt; &lt;i&gt;From the painting by Constantin
 Hansen&lt;/i&gt;](tn/17200.jpg)  
-Click to enlarge](img/17200.jpg)  
+Click to enlarge](img/17200.jpg.md)  
 LOKE AT ÆGER'S FEAST  
 *From the painting by Constantin Hansen*  
 </span>
@@ -454,18 +454,18 @@ escape from their bonds.
 
 ### Footnotes
 
-<span id="fn_22"></span>[165:1](tml21.htm#fr_22) According to Geoffrey
+<span id="fn_22"></span>[165:1](tml21.htm#fr_22.md) According to Geoffrey
 of Monmouth, the mythical Belinus, King of Britain, made in London a
 gate of marvellous workmanship "which the citizens do still in these!
 days call Billingsgate".
 
-<span id="fn_23"></span>[168:1](tml21.htm#fr_23) "They went forth to the
+<span id="fn_23"></span>[168:1](tml21.htm#fr_23.md) "They went forth to the
 war, but they always fell."--Macpherson's *Ossian*. The reference is to
 Scandinavian invaders. Matthew Arnold applied the quotation to the
 Celts.
 
-<span id="fn_24"></span>[170:1](tml21.htm#fr_24) Jack the Giant-killer.
+<span id="fn_24"></span>[170:1](tml21.htm#fr_24.md) Jack the Giant-killer.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. The Dusk of the Gods](tml22)
+[Next: Chapter XVII. The Dusk of the Gods](tml22.md)

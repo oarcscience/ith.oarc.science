@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes20)  [Next](nes22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes20)  [Next](nes22.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE name of Thomas the Rhymer even yet is well-known in the North, and
 his sayings are spoken of with much deference by many of the old folks.
@@ -679,7 +679,7 @@ laboured; answered, it was reported to him that ther \[was\] some of
 that in his owne maines, bot that he had a mynd, be the assistance of
 God, to cause labour the samen; quherupon he was commended for his
 ingennitie in declareing it, and exhorted to take paines shortly to haue
-it laboured." <span id="fr_73"></span>[1](#fn_73)
+it laboured." <span id="fr_73"></span>[1](#fn_73.md)
 
 ### CAVES.
 
@@ -697,10 +697,10 @@ The same belief was entertained of many of the eaves inland.
 
 ### Footnotes
 
-<span id="fn_73"></span>[116:1](nes21.htm#fr_73) *Extracts from the
+<span id="fn_73"></span>[116:1](nes21.htm#fr_73.md) *Extracts from the
 Presbytery Book of Strathbogie*, pp. 71, 208, 209. Spalding Club. Cf.
 Henderson, p. 278.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Place Names and Family Characteristics](nes22)
+[Next: Chapter XIX. Place Names and Family Characteristics](nes22.md)

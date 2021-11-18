@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli06)  [Next](mfli08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli06)  [Next](mfli08.md) 
 
 ------------------------------------------------------------------------
 
@@ -244,4 +244,4 @@ himself.
 
 ------------------------------------------------------------------------
 
-[Next: The Fisherman's Son and the Grugach of Tricks](mfli08)
+[Next: The Fisherman's Son and the Grugach of Tricks](mfli08.md)

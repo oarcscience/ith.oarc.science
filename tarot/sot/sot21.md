@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot20) 
-[Next](sot22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot20.md) 
+[Next](sot22.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ things are thoughts and dreams and fears of the Fool"?
 
 ------------------------------------------------------------------------
 
-[Next: Card XI. Justice](sot22)
+[Next: Card XI. Justice](sot22.md)

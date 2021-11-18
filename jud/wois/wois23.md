@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois22) 
-[Next](wois24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois22.md) 
+[Next](wois24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -45,7 +45,7 @@ drawn together reflect the face of heaven
 <span id="page_41">p. 41</span>
 
 when they are not dried up, and the man-made *Mikveh* <span
-id="fr_14"></span>[\*](#fn_13) will cleanse one from impurity, but it is
+id="fr_14"></span>[\*](#fn_13.md) will cleanse one from impurity, but it is
 sometimes closed: the vast ocean is always open. It always reflects the
 light of heaven, and all may bathe therein at any time.
 
@@ -63,7 +63,7 @@ the gates of prayer are always open."
 
 ### Footnotes
 
-<span id="fn_13"></span>[41:\*](wois23.htm#fr_14) *Mikveh* is a bath in
+<span id="fn_13"></span>[41:\*](wois23.htm#fr_14.md) *Mikveh* is a bath in
 which living water flows. Such baths are made for every Jewish
 congregation, and used on all occasions when the ceremonial or hygienic
 law requires the taking of a bath.
@@ -72,6 +72,6 @@ law requires the taking of a bath.
 
 ------------------------------------------------------------------------
 
-[Next: The Tutor who Corrupted the King's Son](wois24)
+[Next: The Tutor who Corrupted the King's Son](wois24.md)
 
 </div>

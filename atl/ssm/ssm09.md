@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ssm08)  [Next](ssm10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ssm08)  [Next](ssm10.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ Fig. 2. The hieratic letter M in Mu's alphabet
 <span id="img_16600"></span>
 
 [![&lt;I&gt;Symbols Relating to Mu&lt;/I&gt;](tn/16600.jpg)  
-Click to enlarge](img/16600.jpg)  
+Click to enlarge](img/16600.jpg.md)  
 *Symbols Relating to Mu*  
 
  
@@ -121,7 +121,7 @@ the Dead.
 <span id="img_16900"></span>
 
 [![&lt;I&gt;An Altar Painting&lt;/I&gt;](tn/16900.jpg)  
-Click to enlarge](img/16900.jpg)  
+Click to enlarge](img/16900.jpg.md)  
 *An Altar Painting*  
 
  
@@ -163,11 +163,11 @@ indicate.
  
 
 <span id="img_17100"></span> ![''Mu, the Motherland, the Lands of the
-West''](img/17100.jpg)  
+West''](img/17100.jpg.md)  
 ''Mu, the Motherland, the Lands of the West''
 
 <span id="img_17101"></span> ![''The Lord God speaks through the mouth
-of Mu''](img/17101.jpg)  
+of Mu''](img/17101.jpg.md)  
 ''The Lord God speaks through the mouth of Mu''
 
  
@@ -180,7 +180,7 @@ West."
 Mexican Tablet No. 1005 reads: "God speaks through the Mouth of Mu."
 
 <span id="img_17200"></span> ![&lt;I&gt;Legends on the
-Vignettes&lt;/I&gt;](img/17200.jpg)  
+Vignettes&lt;/I&gt;](img/17200.jpg.md)  
 *Legends on the Vignettes*
 
 "Mu, the Empire of the Sun, the Lands of the West, has fallen into an
@@ -212,7 +212,7 @@ Fig. 2. The Eastern pillar showing.
 [![&lt;I&gt;Thunder Bird and Whale&lt;BR&gt; A North American Nootka
 Indian Tableau recounting the Submergence of
 Mu&lt;/I&gt;](tn/17300.jpg)  
-Click to enlarge](img/17300.jpg)  
+Click to enlarge](img/17300.jpg.md)  
 *Thunder Bird and Whale  
 A North American Nootka Indian Tableau recounting the Submergence of
 Mu*  
@@ -229,7 +229,7 @@ symbolic pictures, pecked on her stones by the men of past ages. The
 American records are hoary with age.
 
 <span id="img_17400"></span> ![&lt;I&gt;Three Vignettes from the ''Book
-of the Dead''&lt;/I&gt;](img/17400.jpg)  
+of the Dead''&lt;/I&gt;](img/17400.jpg.md)  
 *Three Vignettes from the ''Book of the Dead''*
 
 A Mexican Stone Tablet: This is one of the most extraordinary tablets I
@@ -246,7 +246,7 @@ glyphs had a temple knowledge. All of the glyphs are found among the
  
 
 <span id="img_17500"></span> ![&lt;I&gt;Tablet from Mexico&lt;BR&gt;
-Destruction of Mu&lt;/I&gt;](img/17500.jpg)  
+Destruction of Mu&lt;/I&gt;](img/17500.jpg.md)  
 *Tablet from Mexico  
 Destruction of Mu*
 
@@ -267,7 +267,7 @@ the fires of the underneath arose and enveloped her. The waters rolled
 in over her sunken form. Then was Kuiland, The Great Ruler, submerged."
 
 The Field of Aarru, Chapter 110, "Book of the Dead." This large
-vignette, one of the largest in [the](errata.htm#4) Book of the Dead,
+vignette, one of the largest in [the](errata.htm#4.md) Book of the Dead,
 was not comprehended by Ezra or any of his associates. Neither has it
 been comprehended by any Egyptologist of the present time. To
 substantiate my contention I have shown the two ends of this symbolic
@@ -287,14 +287,14 @@ are: Power of waters. Innumerable waters. Great place of waters.
 <span id="img_17700"></span>
 
 [![&lt;I&gt;The beginning of the Vignette&lt;/I&gt;](tn/17700.jpg)  
-Click to enlarge](img/17700.jpg)  
+Click to enlarge](img/17700.jpg.md)  
 *The beginning of the Vignette*  
 
 <span id="img_17701"></span>
 
 [![&lt;I&gt;The end of the Vignette&lt;BR&gt; The Field of Aarru,
 Chapter 110, ''Book of the Dead''&lt;/I&gt;](tn/17701.jpg)  
-Click to enlarge](img/17701.jpg)  
+Click to enlarge](img/17701.jpg.md)  
 *The end of the Vignette  
 The Field of Aarru, Chapter 110, ''Book of the Dead''*  
 
@@ -556,12 +556,12 @@ another of the "u" glyphs is generally used as a V.
  
 
 <span id="img_18500"></span> ![&lt;I&gt;Dress ornament&lt;BR&gt; Society
-Islands&lt;/I&gt;](img/18500.jpg)  
+Islands&lt;/I&gt;](img/18500.jpg.md)  
 *Dress ornament  
 Society Islands*
 
 <span id="img_18501"></span> ![&lt;I&gt;Dress ornament&lt;BR&gt;
-Marquesan&lt;/I&gt;](img/18501.jpg)  
+Marquesan&lt;/I&gt;](img/18501.jpg.md)  
 *Dress ornament  
 Marquesan*
 
@@ -629,4 +629,4 @@ Troano Manuscript.)
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Sacred Symbols Connecting North America to
-Mu](ssm10)
+Mu](ssm10.md)

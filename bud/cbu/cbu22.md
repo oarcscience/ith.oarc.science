@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu21)  [Next](cbu23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu21)  [Next](cbu23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -165,10 +165,10 @@ and ascended the rostrum. He began: "Thus have I heard—At a certain
 time, when Buddha was a certain place, he delivered such instructions."
 In each instance Kashiapa asked the Bikshus if such were really the
 words of Buddha, and they all replied, "They were just these
-words." <span id="fr_109"></span>[1](#fn_109)
+words." <span id="fr_109"></span>[1](#fn_109.md)
 
 A similar account is retained by the Singhalese of the origin of the
-Sutras. <span id="fr_110"></span>[2](#fn_110) The Vinaya division of the
+Sutras. <span id="fr_110"></span>[2](#fn_110.md) The Vinaya division of the
 books was, according to their traditions, prepared by Upali, and the
 Shastras or Abhidharma by Kashiapa.
 
@@ -186,7 +186,7 @@ Development to the first Buddhist council already described, and those
 of the Greater Development to another held a little more than four
 hundred years after Shakyamuni's death. It is his opinion that the
 Mahayana books were composed in Cashmere, in the reign of
-Kanishka, <span id="fr_111"></span>[3](#fn_111) a king of Northern India
+Kanishka, <span id="fr_111"></span>[3](#fn_111.md) a king of Northern India
 (Cabul). A council—the third or fourth—was then called to decide what
 books should be canonical, and it was then that these extensive
 additions to the *Tripitaka* or "Three collections" were agreed upon.
@@ -209,7 +209,7 @@ found to exist.
 
 Among them were—(1.) *Ma-ming*, or "Ashwagosha," the twelfth patriarch,
 who wrote *K‘i-sin-lun*, the "Shastra for awakening faith." <span
-id="fr_112"></span>[1](#fn_112) (2.) *Lung-shu*, or "Nagarjuna," the
+id="fr_112"></span>[1](#fn_112) (2..md) *Lung-shu*, or "Nagarjuna," the
 fourteenth patriarch, author of *Vibhasha-lun*, *Chung-lun*,
 *Ta-chï-tu-lun*, *Prajna-teng-lun*, *Shï-er-men-lun*, and several other
 works, including the most venerated of all the Buddhist books in China,
@@ -217,13 +217,13 @@ the *Hwa-yen-king*. (3.) *T‘ien-ts‘in*, or "Vasubandu." It is said of
 him, that when he first became a monk he was a bitter enemy of the
 Mahayana books, and destroyed them whenever he had opportunity. By the
 influence of his elder brother Asengha, <span
-id="fr_113"></span>[2](#fn_113) he was brought to change his views. His
+id="fr_113"></span>[2](#fn_113.md) he was brought to change his views. His
 remorse was such that he would have wrenched out his tongue, but Asengha
 said to him, "as he had formerly used his tongue to revile the Great
 Development books, he should now employ it to praise them. This would be
 an expiation for his fault." After this he wrote more than a hundred
 works, which were placed in the third division of the sacred
-books. <span id="fr_114"></span>[3](#fn_114)
+books. <span id="fr_114"></span>[3](#fn_114.md)
 
 <span id="page_279">p. 279</span>
 
@@ -503,7 +503,7 @@ use the language of the Devas, you have the desire to create things.'
 Brahma saw what his disciple had made, and noticed that the head was too
 large and the crown too small, or the hand too large and the arm too
 small, or the foot too large and the leg too small. In fact, it was like
-the Pishâcha demons." <span id="fr_115"></span>[1](#fn_115)
+the Pishâcha demons." <span id="fr_115"></span>[1](#fn_115.md)
 
 "We thus learn," continues the narrator, "that what every one brings
 into existence is not the creation of Brahma."
@@ -613,32 +613,32 @@ best worth reading of the Buddhist sacred books.
 
 ### Footnotes
 
-<span id="fn_109"></span>[277:1](cbu22.htm#fr_109) *Chï-yue-luh*.
+<span id="fn_109"></span>[277:1](cbu22.htm#fr_109.md) *Chï-yue-luh*.
 "Biography of 'Kashiapa' (*Kia-she*)."
 
-<span id="fn_110"></span>[277:2](cbu22.htm#fr_110) Hardy's *Eastern
+<span id="fn_110"></span>[277:2](cbu22.htm#fr_110.md) Hardy's *Eastern
 Monachism*.
 
-<span id="fn_111"></span>[277:3](cbu22.htm#fr_111) Kanishka conquered
+<span id="fn_111"></span>[277:3](cbu22.htm#fr_111.md) Kanishka conquered
 the greater part of India. He was a second Ashôka in his patronage of
 Buddhism. He reigned B.C. 15 to A.D. 45, during the patriarchate of
 Vasumitra and others.
 
-<span id="fn_112"></span>[278:1](cbu22.htm#fr_112)
+<span id="fn_112"></span>[278:1](cbu22.htm#fr_112.md)
 *Tsing-tu-sheng-hien-luh* contains notices of (1) to (4).
 
-<span id="fn_113"></span>[278:2](cbu22.htm#fr_113) Eitel separates
+<span id="fn_113"></span>[278:2](cbu22.htm#fr_113.md) Eitel separates
 Vasubandu from Asengha by an interval of some centuries. My authority
 for making them brothers is the introduction to *Ch‘eng-wei-shï-lun*.
 They were natives of Purusha in Gandhara (north end of the Punjab).
 
-<span id="fn_114"></span>[278:3](cbu22.htm#fr_114) For the names of
+<span id="fn_114"></span>[278:3](cbu22.htm#fr_114.md) For the names of
 several of his works and those of Asengha, see *K‘ai-yuen-shi-kiau-lu*,
 a catalogue of Buddhist books published in the T‘ang dynasty.
 
-<span id="fn_115"></span>[285:1](cbu22.htm#fr_115) A sort of vampires.
+<span id="fn_115"></span>[285:1](cbu22.htm#fr_115.md) A sort of vampires.
 Retinue of the Deva king Dhritarashtra.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. The Leng-Yen-King.—First Chapter](cbu23)
+[Next: Chapter XVIII. The Leng-Yen-King.—First Chapter](cbu23.md)

@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](msi00)
+[Contents](#contents)    [Start Reading](msi00.md)
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ Alas, this is a forgery written in 1862. In the 20th century an expanded
 version of this was circulated (revised to exclude the 1881 apocalypse,
 and include world wars I and II). Today, variations of this are
 uncritically posted at various websites, just as [bogus
-Nostradamus](../../nos/index) prophecies circulated in the wake of the
+Nostradamus](../../nos/index.md) prophecies circulated in the wake of the
 events of 9/11/2001.
 
 This essay about Mother Shipton was written in the year 1881; it gives
@@ -62,7 +62,7 @@ world will end.
 So if there is any kernel of truth to the Mother Shipton legend, it
 can't be determined from any verifiable documentation. Mother Shipton
 belongs in the same category as [Robin Hood or King
-Arthur](../../neu/eng/index): a legendary figure, possibly based on a
+Arthur](../../neu/eng/index.md): a legendary figure, possibly based on a
 real person, whose narrative has been enhanced by time and retelling.
 
 John Bruno Hare, April 8th, 2004.
@@ -71,10 +71,10 @@ John Bruno Hare, April 8th, 2004.
 
 ------------------------------------------------------------------------
 
-[Title Page](msi00)  
-[Chapter First](msi01)  
-[Chapter Second](msi02)  
-[Chapter Third](msi03)  
-[Chapter Fourth](msi04)  
-[Chapter Fifth](msi05)  
-[Chapter Sixth](msi06)  
+[Title Page](msi00.md)  
+[Chapter First](msi01.md)  
+[Chapter Second](msi02.md)  
+[Chapter Third](msi03.md)  
+[Chapter Fourth](msi04.md)  
+[Chapter Fifth](msi05.md)  
+[Chapter Sixth](msi06.md)  

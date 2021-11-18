@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd17)  [Next](smd19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd17)  [Next](smd19.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ the final battle between the gods and the giants.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Wednesday--The Day of Woden](smd19)
+[Next: Chapter XVII. Wednesday--The Day of Woden](smd19.md)

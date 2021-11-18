@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe116)  [Next](prwe118) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe116)  [Next](prwe118.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ associated with a legend belonging to the earliest ages.
 
 ------------------------------------------------------------------------
 
-[Next: The Execution and Wedding](prwe118)
+[Next: The Execution and Wedding](prwe118.md)

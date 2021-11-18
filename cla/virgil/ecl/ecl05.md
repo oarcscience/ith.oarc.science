@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](ecll05)  [Previous](ecl04) 
-[Next](ecl06) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](ecll05)  [Previous](ecl04.md) 
+[Next](ecl06.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ of brass, O Menalcas.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue VI.--Silenus](ecl06)
+[Next: Eclogue VI.--Silenus](ecl06.md)

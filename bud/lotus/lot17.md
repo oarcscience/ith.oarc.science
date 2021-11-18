@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot16)  [Next](lot18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot16)  [Next](lot18.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,4 +208,4 @@ kings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 18](lot18)
+[Next: Chapter 18](lot18.md)

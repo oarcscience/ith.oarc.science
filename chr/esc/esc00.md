@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Next](esc01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Next](esc01.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ published prior to January 1st, 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](esc01)
+[Next: Introduction](esc01.md)

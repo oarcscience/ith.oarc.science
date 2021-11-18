@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm43)  [Next](bcm45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm43)  [Next](bcm45.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,21 +26,21 @@ distinctive provinces are in no
 
 case described. According to the Book of *True Black Magic*, the staff
 should be of cane and the wand or rod of hazel, both virgin-that is,
-having no branches or offshoots. <span id="fr_107"></span>[1](#fn_107)
+having no branches or offshoots. <span id="fr_107"></span>[1](#fn_107.md)
 They must be cut and trimmed on the day and in the hour of the Sun,
 while the following characters must be inscribed upon the staff, but on
 the day and in the hour of Mercury:  <span
-id="fr_108"></span>[2](#fn_108)--
+id="fr_108"></span>[2](#fn_108.md)--
 
  
 
 <span id="img_16200"></span> [![](tn/generic.jpg)  
-Click to view](img/16200.jpg)
+Click to view](img/16200.jpg.md)
 
  
 
 If engraved with the "sacred instrument," it will be so much the
-better. <span id="fr_109"></span>[3](#fn_109) In either case, let the
+better. <span id="fr_109"></span>[3](#fn_109.md) In either case, let the
 following words be recited when the writing is finished:--O ADONAY,
 *most Holy and most Powerful, vouchsafe to consecrate and bless this
 Staff and this Rod, so that they may possess the required virtue, O most
@@ -53,7 +53,7 @@ The *Grimorium Verum* directs the operator to make two wands of wood
 which has never borne fruit. The first should be cut at a single stroke
 from an elder-tree on the day and in the hour of Mercury. The second
 should be of hazel, free from bud, and cut in the hour of the Sun. <span
-id="fr_110"></span>[4](#fn_110) The magical characters which must be
+id="fr_110"></span>[4](#fn_110.md) The magical characters which must be
 engraved upon each have been omitted by the printer, but they are
 supplied--or their substitutes--in
 
@@ -80,7 +80,7 @@ till the next morning, which is the day of operation; then must you cut
 it absolutely at the moment when the sun rises; strip it of its leaves
 and lesser branches, if any there be, using the knife of sacrifice
 stained with the blood of the victim. <span
-id="fr_111"></span>[1](#fn_111) Begin cutting it when the sun is first
+id="fr_111"></span>[1](#fn_111.md) Begin cutting it when the sun is first
 rising over this hemisphere, and pronounce the following words:--*I
 beseech Thee, O Grand* ADONAY, ELOIM, ARIEL *and* JEHOVAM*, to be
 propitious unto me, and to endow this Wand which I am cutting with the
@@ -110,32 +110,32 @@ the worlds creation. Amen*.
 
 Finally, you must rejoice in the honour and glory of the sublime Adonay,
 being convinced that you are in possession of a most priceless Treasure
-of the Light. <span id="fr_112"></span>[1](#fn_112)
+of the Light. <span id="fr_112"></span>[1](#fn_112.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_107"></span>[162:1](bcm44.htm#fr_107) The definition of
+<span id="fn_107"></span>[162:1](bcm44.htm#fr_107.md) The definition of
 virgin wood differs in the *Key of Solomon*, which says: In all cases
 the wood should be virgin--that is, of one years growth only.
 
-<span id="fn_108"></span>[162:2](bcm44.htm#fr_108) According to the *Key
+<span id="fn_108"></span>[162:2](bcm44.htm#fr_108.md) According to the *Key
 of Solomon*, both staff and rod should be cut on the day and in the hour
 of Mercury at sunrise, which limits the operation to the few days of the
 middle winter, when the sun rises about eight o'clock.
 
-<span id="fn_109"></span>[162:3](bcm44.htm#fr_109) Presumably, with the
+<span id="fn_109"></span>[162:3](bcm44.htm#fr_109.md) Presumably, with the
 burin or graver.
 
-<span id="fn_110"></span>[162:4](bcm44.htm#fr_110) This variation
+<span id="fn_110"></span>[162:4](bcm44.htm#fr_110.md) This variation
 appears to reconcile the Book of *True Black Magic* with the *Key of
 Solomon*, and is probably the true reading.
 
-<span id="fn_111"></span>[163:1](bcm44.htm#fr_111) See Chapter VI., Sec.
+<span id="fn_111"></span>[163:1](bcm44.htm#fr_111.md) See Chapter VI., Sec.
 1.
 
-<span id="fn_112"></span>[164:1](bcm44.htm#fr_112) Another method of
+<span id="fn_112"></span>[164:1](bcm44.htm#fr_112.md) Another method of
 preparing a Magic Rod ordains that it shall be a branch of the
 hazel-tree put forth during the year of operation. It must be cut on the
 first Wednesday after the new moon, between 11 P.M. and midnight. The
@@ -147,4 +147,4 @@ forthwith.
 
 ------------------------------------------------------------------------
 
-[Next: Section 4: Concerning the Pen and Ink of the Art](bcm45)
+[Next: Section 4: Concerning the Pen and Ink of the Art](bcm45.md)

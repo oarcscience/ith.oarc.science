@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo48)  [Next](hoo50) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo48)  [Next](hoo50.md) 
 
 ------------------------------------------------------------------------
 
 ###### XLIV.
 
-### TO DIONYSIUS BASSAREUS TRIENNALIS <span id="fr_106"></span>[\*](#fn_106).
+### TO DIONYSIUS BASSAREUS TRIENNALIS <span id="fr_106"></span>[\*](#fn_106.md).
 
 ###### A HYMN
 
@@ -22,9 +22,9 @@ Propitious come, with much-rejoicing mind.
 
 ### Footnotes
 
-<span id="fn_106"></span>[178:\*](hoo49.htm#fr_106) So called because
+<span id="fn_106"></span>[178:\*](hoo49.htm#fr_106.md) So called because
 his rites were performed every third year.
 
 ------------------------------------------------------------------------
 
-[Next: XLV: To Liknitus Bacchus](hoo50)
+[Next: XLV: To Liknitus Bacchus](hoo50.md)

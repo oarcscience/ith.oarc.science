@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg67)  [Next](btg69) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg67)  [Next](btg69.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ own intrigues."
 
 ------------------------------------------------------------------------
 
-[Next: Four Kinds Of Merit](btg69)
+[Next: Four Kinds Of Merit](btg69.md)

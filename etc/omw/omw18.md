@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw17)  [Next](omw19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw17)  [Next](omw19.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ mission fathers.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](omw19)
+[Next: Conclusion](omw19.md)

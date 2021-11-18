@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat10.htm#LXIII) 
-[Previous](satl062)  [Next](satl064) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat10.htm#LXIII.md) 
+[Previous](satl062)  [Next](satl064.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ freneticus periit."
 
 ------------------------------------------------------------------------
 
-[Next: LXIV](satl064)
+[Next: LXIV](satl064.md)

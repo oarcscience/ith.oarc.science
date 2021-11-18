@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa18)  [Next](spa20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa18)  [Next](spa20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -34,15 +34,15 @@ What shall the effect of constancy with those bright eyes do?
 
 The appliances of joy and pleasure were useless, unto the forsaken:  
 With the arrival of the morning's breeze, what shall the turban's
-chaplet do? <span id="fr_349"></span>[\*](#fn_349)
+chaplet do? <span id="fr_349"></span>[\*](#fn_349.md)
 
 Since, like unto the dawn of morning, his garment may be rent, <span
-id="fr_350"></span>[†](#fn_350)  
+id="fr_350"></span>[†](#fn_350.md)  
 How can one, as this so infamous, his condition conceal?
 
 They never derive any share whatever of hands and feet,  
 What then shall the world of fishes with the ḥinnā's bright dye
-do? <span id="fr_351"></span>[‡](#fn_351)
+do? <span id="fr_351"></span>[‡](#fn_351.md)
 
 Folly and vanity have made thee lighter even than the bubble:  
 What shall the foaming of the ocean towards thy weight and power do?
@@ -102,7 +102,7 @@ The mart of love, the world within, thou wilt with bustle fill again.
 
 Thou hast subdued the whole land with thy beauty and goodness:  
 Thy slaves thou wilt make all the fair ones of Hind. <span
-id="fr_352"></span>[\*](#fn_352)
+id="fr_352"></span>[\*](#fn_352.md)
 
 My phrenzy, O physician! will not in the least decrease:  
 Thine own rose thou wilt make even spring itself for me.
@@ -123,8 +123,8 @@ That not a bird of the parterre ceaseth lamentation to make?
 <span id="page_311">p. 311</span>
 
 A bubble of the broad ocean is every one of its bells: <span
-id="fr_353"></span>[\*](#fn_353)  
-The kar-wān <span id="fr_354"></span>[†](#fn_354) moveth along silently,
+id="fr_353"></span>[\*](#fn_353.md)  
+The kar-wān <span id="fr_354"></span>[†](#fn_354.md) moveth along silently,
 this desert within.
 
 In its desire to attain it, with its own blood it became tinged;  
@@ -137,7 +137,7 @@ For thy sake, I would dye my garment of the colour of the rose;
 Still, like unto perfume, it would from my bosom escape.
 
 Draw near, and behold the black intoxication of her tresses,  
-That without the shoulder, <span id="fr_355"></span>[‡](#fn_355) cannot
+That without the shoulder, <span id="fr_355"></span>[‡](#fn_355.md) cannot
 proceed a step on the road.
 
 The heart of the vortex like unto a millstone might split;  
@@ -204,10 +204,10 @@ With an invitation to that table, how can I happy be?
 
 Since, like unto the sun's, its countenance is not warm,  
 I swear by thy head if, with the Ḥumā's shadow, <span
-id="fr_356"></span>[\*](#fn_356) I am happy!
+id="fr_356"></span>[\*](#fn_356.md) I am happy!
 
 When, like unto the partridge, it confined me in a cage, <span
-id="fr_357"></span>[†](#fn_357)  
+id="fr_357"></span>[†](#fn_357.md)  
 Than such laughter, with lamentation, I am more happy by far.
 
 Though, like unto a picture, it awakened not from its sleep,  
@@ -241,7 +241,7 @@ Of such a fiery steed as this, the attached skirt-holder am I.
 
 With Indian requital, such acts she practiseth on me—  
 Me, <span class="smallcaps"><u>Sh</u>aidā</span>! who in heart am a poor
-simple Af<u>gh</u>ān of Roh. <span id="fr_358"></span>[\*](#fn_358)
+simple Af<u>gh</u>ān of Roh. <span id="fr_358"></span>[\*](#fn_358.md)
 
 #### IX.
 
@@ -254,9 +254,9 @@ The mirror itself is amazed and astonished at the world.
 From their eyes' wildness their intimacy cannot be gained:  
 The herd of gazelles, at the sight of the shepherd, taketh to flight.
 
-What! hath Farhad <span id="fr_359"></span>[†](#fn_359) caused the covey
+What! hath Farhad <span id="fr_359"></span>[†](#fn_359.md) caused the covey
 of partridges to weep,  
-That from the mountains they come <span id="fr_360"></span>[‡](#fn_360)
+That from the mountains they come <span id="fr_360"></span>[‡](#fn_360.md)
 with eyes all inflamed?
 
 I perceive the manner of her gait, like unto the zephyr:  
@@ -269,14 +269,14 @@ Naught was gained by me thereby, save sorrow and regret.
 
 Many were the wailings from its rose-trees’ every branch;  
 In sorrow and mourning for it, many were the garments rent. <span
-id="fr_361"></span>[\*](#fn_361)
+id="fr_361"></span>[\*](#fn_361.md)
 
 Like unto the waves, it riseth and falleth continually:  
 How then, from the world, canst thou aught of constancy hope?
 
 Like unto the bubble, he wandereth in every direction, all forlorn;  
 Since <span class="smallcaps"><u>Sh</u>aidā</span> from his home and
-friends a wanderer became! <span id="fr_362"></span>[†](#fn_362)
+friends a wanderer became! <span id="fr_362"></span>[†](#fn_362.md)
 
 #### X.
 
@@ -284,7 +284,7 @@ Unto the trysting-place my charmer very slowly cometh;
 And the verdant spring to the parterre very slowly cometh.
 
 Now and then I perceive kindness beaming from her eyes:  
-Thou wouldst say that the languid <span id="fr_363"></span>[‡](#fn_363)
+Thou wouldst say that the languid <span id="fr_363"></span>[‡](#fn_363.md)
 ever very slowly cometh.
 
 The dread of ill is a far greater slaughterer than ill itself:  
@@ -295,11 +295,11 @@ That to make him her game, the graceful one very slowly cometh.
 
 What! can separation, of his vigour, poor Farhad have deprived,  
 That the cries and wails from his mountain very slowly come? <span
-id="fr_364"></span>[§](#fn_364)
+id="fr_364"></span>[§](#fn_364.md)
 
 Under the weight of her majesty, the strength of Gulgūn <span
-id="fr_365"></span>[§§](#fn_365) was lost;  
-Hence that Scythian <span id="fr_366"></span>[\*\*](#fn_366) of graceful
+id="fr_365"></span>[§§](#fn_365.md) was lost;  
+Hence that Scythian <span id="fr_366"></span>[\*\*](#fn_366.md) of graceful
 mien very slowly cometh.
 
 <span id="page_316">p. 316</span>
@@ -318,11 +318,11 @@ What shall one then do with the hyacinth's black locks?
 
 About my dark destiny what shall I unto any one say?  
 For my forehead, like the sun's, is fit only to be branded. <span
-id="fr_367"></span>[\*](#fn_367)
+id="fr_367"></span>[\*](#fn_367.md)
 
 Is it the poor wayfarer hindered by night coming on,  
 Or my heart enthralled the noose of her tresses within? <span
-id="fr_368"></span>[†](#fn_368)
+id="fr_368"></span>[†](#fn_368.md)
 
 She hath made calamity's sword as sharp as fate itself:  
 With hands imbrued she goeth about, both night and day.
@@ -335,7 +335,7 @@ to abandon all hope from thy kin.
 
 The habitations of this world behold, and begone!  
 A nest like that of the Phœnix behold, and begone! <span
-id="fr_369"></span>[‡](#fn_369)
+id="fr_369"></span>[‡](#fn_369.md)
 
 <span id="page_317">p. 317</span>
 
@@ -347,13 +347,13 @@ Do thou, in that case, my independence behold, and begone!
 
 With the torch of thine own mind, in this darkness,  
 Lightning-like, the road to follow behold, and begone! <span
-id="fr_370"></span>[\*](#fn_370)
+id="fr_370"></span>[\*](#fn_370.md)
 
 The fish have no share in the benefit of hands or feet;  
 But their swimming in the waters behold, and begone!
 
 The wine-flask's one short hour in the convivial party,  
-With this full mouth laughing, <span id="fr_371"></span>[†](#fn_371)
+With this full mouth laughing, <span id="fr_371"></span>[†](#fn_371.md)
 behold, and begone!
 
 Every day it deceiveth <span class="smallcaps"><u>Sh</u>aidā</span> with
@@ -417,7 +417,7 @@ Thou hast again unclosed those lips of thine to speak,
 Or the parrot hath, for its dole of sugar, come again.
 
 Unto the lot of the dark-hearted falleth not ecstasy's gem: <span
-id="fr_372"></span>[\*](#fn_372)  
+id="fr_372"></span>[\*](#fn_372.md)  
 Where is the lump of steel? the burnished mirror where?
 
 Like as the pearl-oyster, open it at once to bestow,  
@@ -443,7 +443,7 @@ For other chattels or effects, what necessity have I?
 
 That for ever smooth, and without wrinkle, thy forehead may be,  
 All these troubles make thou over unto the sovereign of
-<u>Ch</u>īn. <span id="fr_373"></span>[†](#fn_373)
+<u>Ch</u>īn. <span id="fr_373"></span>[†](#fn_373.md)
 
 <span id="page_320">p. 320</span>
 
@@ -454,7 +454,7 @@ It would not, with its consent, in the garden stay a moment:
 ’Tis well the thorn seized the rose's garment by the hem.
 
 Do hearts then trip along in the direction of thy curls;  
-Or doth the caravan of Rūm <span id="fr_374"></span>[\*](#fn_374) unto
+Or doth the caravan of Rūm <span id="fr_374"></span>[\*](#fn_374.md) unto
 India wend its way?
 
 How shall those eyes of thine a glance on the humble bestow,  
@@ -467,7 +467,7 @@ the deserts and wilds!
 #### XVII.
 
 Thou art welcome again thou fresh festival of spring! <span
-id="fr_375"></span>[†](#fn_375)  
+id="fr_375"></span>[†](#fn_375.md)  
 Thou hast brought joy unto every wild, and every bed of flowers!
 
 Like unto the bird within a cage, the lovelorn nightingale,  
@@ -475,7 +475,7 @@ Even whilst yet within the egg, longeth on the wing to be.
 
 The folks’ garments have been dyed of such a saffron-like hue,  
 That every bird to the parterre, filled with laughter, hath come. <span
-id="fr_376"></span>[‡](#fn_376)
+id="fr_376"></span>[‡](#fn_376.md)
 
 Look at the rosy-bodied one in this garment arrayed,  
 Like unto the sun when he approacheth the time of his setting.
@@ -487,7 +487,7 @@ When morning's dawn scattereth flowers into its own skirt.
 
 The nightingale's heart towards the gaudy rose is inclined,  
 Or the flask hath approached the goblet, to pour out its wine. <span
-id="fr_377"></span>[\*](#fn_377)
+id="fr_377"></span>[\*](#fn_377.md)
 
 The rain of perspiration shall fall through shame therefrom,  
 When the lightning shall behold the gorgeous crop of flowers.
@@ -532,7 +532,7 @@ Since I have a tent, like the bubble, upon the face of the deep.
 
 If thou art not the owner of a single straw, grieve not thereat;  
 For then, the village-consuming fire will in thy Ḥaram <span
-id="fr_378"></span>[\*](#fn_378) expire.
+id="fr_378"></span>[\*](#fn_378.md) expire.
 
 When thy face became bedewed with perspiration, by thy head I vow,  
 That therein the rose-scattering splendour of dew I beheld.
@@ -547,7 +547,7 @@ As the wild gazelle that looketh round ere it taketh to flight.
 How can the recovery' of the slaughtered be brought about?
 
 Morning and evening—day and night—with sable dress, and garment rent,  
-Like unto time itself, <span id="fr_379"></span>[†](#fn_379) in sorrow
+Like unto time itself, <span id="fr_379"></span>[†](#fn_379.md) in sorrow
 and mourning my existence is spent.
 
 <span id="page_323">p. 323</span>
@@ -577,9 +577,9 @@ Call him not, hard-hearted one! a statue of the hall,
 Who in dust and blood writheth in death's agony.
 
 When, throughout the night, the rain of tears falleth, <span
-id="fr_380"></span>[\*](#fn_380)  
+id="fr_380"></span>[\*](#fn_380.md)  
 From its effects at last appeareth the dawn of day. <span
-id="fr_381"></span>[†](#fn_381)
+id="fr_381"></span>[†](#fn_381.md)
 
 He hath no strength to complain, who is by thy curls stricken;  
 Like unto one by a snake stung, he is speechless rendered.
@@ -606,14 +606,14 @@ Why should not the coral and pearl thus be in ocean engulphed?
 
 I am a cotemporary of the water of those good blades,  
 Whose eyelashes may ever be in bloody tears submerged. <span
-id="fr_382"></span>[\*](#fn_382)
+id="fr_382"></span>[\*](#fn_382.md)
 
 Good men hold it far preferable to the perspiration of shame,  
 That they may be swallowed in Æummān's dark waves. <span
-id="fr_383"></span>[†](#fn_383)
+id="fr_383"></span>[†](#fn_383.md)
 
 What would the simpleton and dolt from Mānī <span
-id="fr_384"></span>[‡](#fn_384): acquire,  
+id="fr_384"></span>[‡](#fn_384.md): acquire,  
 Though his pencil may be dipped in the rainbow's every hue?
 
 Upon the raft of the bier unto the shore will approach,  
@@ -659,133 +659,133 @@ That art with the confection of thine own words’ roses content.
 
 ### Footnotes
 
-<span id="fn_349"></span>[308:\*](spa19.htm#fr_349) A chaplet in the
+<span id="fn_349"></span>[308:\*](spa19.htm#fr_349.md) A chaplet in the
 turban, when withered, cannot be revived.
 
-<span id="fn_350"></span>[308:†](spa19.htm#fr_350) The break of day is
+<span id="fn_350"></span>[308:†](spa19.htm#fr_350.md) The break of day is
 termed the rending of the dark garment of night.
 
-<span id="fn_351"></span>[308:‡](spa19.htm#fr_351) See second note at
-page [195](spa11.htm#page_195).
+<span id="fn_351"></span>[308:‡](spa19.htm#fr_351.md) See second note at
+page [195](spa11.htm#page_195.md).
 
-<span id="fn_352"></span>[310:\*](spa19.htm#fr_352) Hindūstān.
+<span id="fn_352"></span>[310:\*](spa19.htm#fr_352.md) Hindūstān.
 
-<span id="fn_353"></span>[311:\*](spa19.htm#fr_353) The necks of camels
+<span id="fn_353"></span>[311:\*](spa19.htm#fr_353.md) The necks of camels
 and other animals in a caravan of travellers are ornamented with bells.
 
-<span id="fn_354"></span>[311:†](spa19.htm#fr_354) A caravan.
+<span id="fn_354"></span>[311:†](spa19.htm#fr_354.md) A caravan.
 
-<span id="fn_355"></span>[311:‡](spa19.htm#fr_355) The simile here
+<span id="fn_355"></span>[311:‡](spa19.htm#fr_355.md) The simile here
 refers to the long tresses resting upon the shoulder for support.
 
-<span id="fn_356"></span>[313:\*](spa19.htm#fr_356) See note at page
-[137](spa09.htm#page_137).
+<span id="fn_356"></span>[313:\*](spa19.htm#fr_356.md) See note at page
+[137](spa09.htm#page_137.md).
 
-<span id="fn_357"></span>[313:†](spa19.htm#fr_357) The bartavelle, a
+<span id="fn_357"></span>[313:†](spa19.htm#fr_357.md) The bartavelle, a
 large bird of the partridge species, is kept on account of its sound,
 compared to laughter; as also is the common bird.
 
-<span id="fn_358"></span>[314:\*](spa19.htm#fr_358) See note at page
-[263](spa13.htm#page_263).
+<span id="fn_358"></span>[314:\*](spa19.htm#fr_358.md) See note at page
+[263](spa13.htm#page_263.md).
 
-<span id="fn_359"></span>[314:†](spa19.htm#fr_359) The name of a famous
+<span id="fn_359"></span>[314:†](spa19.htm#fr_359.md) The name of a famous
 Persian statuary, the lover of <u>Sh</u>īrīn, wife of <u>Kh</u>usrau
 Parwez, king of Persia, and daughter of the Greek Emperor Maurice, who,
 to please his mistress, dug through an immense mountain. This is the
 subject of a poem by Nizāmī, one of the most famous and the sweetest of
-Persian poets. See also note at page [87](spa09.htm#page_87).
+Persian poets. See also note at page [87](spa09.htm#page_87.md).
 
-<span id="fn_360"></span>[314:‡](spa19.htm#fr_360) The eyes of the
+<span id="fn_360"></span>[314:‡](spa19.htm#fr_360.md) The eyes of the
 Chikor, a species of partridge here referred to, are of a deep red
-colour, as also are its legs. See note on [preceding](errata.htm#7)
+colour, as also are its legs. See note on [preceding](errata.htm#7.md)
 page.
 
-<span id="fn_361"></span>[315:\*](spa19.htm#fr_361) The rent garments
+<span id="fn_361"></span>[315:\*](spa19.htm#fr_361.md) The rent garments
 refer to the leaves the roses have shed.
 
-<span id="fn_362"></span>[315:†](spa19.htm#fr_362) See memoir of the
-poet, at page [307](spa18.htm#page_307).
+<span id="fn_362"></span>[315:†](spa19.htm#fr_362.md) See memoir of the
+poet, at page [307](spa18.htm#page_307.md).
 
-<span id="fn_363"></span>[315:‡](spa19.htm#fr_363) The glances of the
+<span id="fn_363"></span>[315:‡](spa19.htm#fr_363.md) The glances of the
 sleepy, languid eyes of a mistress.
 
-<span id="fn_364"></span>[315:§](spa19.htm#fr_364) See note at page
-[129](spa09.htm#page_129).
+<span id="fn_364"></span>[315:§](spa19.htm#fr_364.md) See note at page
+[129](spa09.htm#page_129.md).
 
-<span id="fn_365"></span>[315:§§](spa19.htm#fr_365) The name of the
+<span id="fn_365"></span>[315:§§](spa19.htm#fr_365.md) The name of the
 steed of <u>Sh</u>īrīn, the beloved of Farhad.
 
-<span id="fn_366"></span>[315:\*\*](spa19.htm#fr_366) See note
-([§](spa09.htm#fn_153)) at page [129](spa09.htm#page_129).
+<span id="fn_366"></span>[315:\*\*](spa19.htm#fr_366.md) See note
+([§](spa09.htm#fn_153)) at page [129](spa09.htm#page_129.md).
 
-<span id="fn_367"></span>[316:\*](spa19.htm#fr_367) The spots in the
+<span id="fn_367"></span>[316:\*](spa19.htm#fr_367.md) The spots in the
 sun's disc are compared to brands; and it used to be the custom with the
 Af<u>gh</u>ān tribes to brand the forehead of a child born in an
 unfortunate or unlucky hour, to drive misfortune away.
 
-<span id="fn_368"></span>[316:†](spa19.htm#fr_368) The heart is the
+<span id="fn_368"></span>[316:†](spa19.htm#fr_368.md) The heart is the
 wayfarer here, and night the dark hair of the beloved.
 
-<span id="fn_369"></span>[316:‡](spa19.htm#fr_369) Its nest is not to be
+<span id="fn_369"></span>[316:‡](spa19.htm#fr_369.md) Its nest is not to be
 found, neither a permanent home in this world.
 
-<span id="fn_370"></span>[317:\*](spa19.htm#fr_370) The lightning is
+<span id="fn_370"></span>[317:\*](spa19.htm#fr_370.md) The lightning is
 supposed to obtain a glimpse of its own road from the light of its own
 flash.
 
-<span id="fn_371"></span>[317:†](spa19.htm#fr_371) The gurgling of a
+<span id="fn_371"></span>[317:†](spa19.htm#fr_371.md) The gurgling of a
 full wine-flask is said to be its laughter.
 
-<span id="fn_372"></span>[319:\*](spa19.htm#fr_372) A state of ecstasy
+<span id="fn_372"></span>[319:\*](spa19.htm#fr_372.md) A state of ecstasy
 to which the Ṣūfis are supposed to attain when the world and all things
 worldly vanish. See Introductory Remarks, page
-[xiii](spa03.htm#page_xiii).
+[xiii](spa03.htm#page_xiii.md).
 
-<span id="fn_373"></span>[319:†](spa19.htm#fr_373) The eastern name of
+<span id="fn_373"></span>[319:†](spa19.htm#fr_373.md) The eastern name of
 China. Chīn in Persian also signifies a wrinkle, hence the play upon
 words.
 
-<span id="fn_374"></span>[320:\*](spa19.htm#fr_374) The people of Ram,
+<span id="fn_374"></span>[320:\*](spa19.htm#fr_374.md) The people of Ram,
 or Asia Minor, are ruddy in complexion, and the heart is also red. The
 people of India are dark, so are the curls of the beloved. These are the
 metaphors used by the poet here.
 
-<span id="fn_375"></span>[320:†](spa19.htm#fr_375) A festival observed
+<span id="fn_375"></span>[320:†](spa19.htm#fr_375.md) A festival observed
 by the ancient Persians and by the Hindūs, which season, among the
 latter people, is personified under the name of Basanta, who is said to
 attend on Kāma, the god of love. It is usual in the Panjāb and vicinity,
 on this day, for the Hindūs to dress in saffron-coloured garments,
 called also *basantī*, Krishna's favourite colour.
 
-<span id="fn_376"></span>[320:‡](spa19.htm#fr_376) Saffron, it is said,
+<span id="fn_376"></span>[320:‡](spa19.htm#fr_376.md) Saffron, it is said,
 will cause a person to laugh to death.
 
-<span id="fn_377"></span>[321:\*](spa19.htm#fr_377) The nightingale
+<span id="fn_377"></span>[321:\*](spa19.htm#fr_377.md) The nightingale
 sings on account of the rose which is *red;* and the metaphor here is,
 that, by its *gurgle*, the wine-flask is as though singing to pour forth
 the red wine.
 
-<span id="fn_378"></span>[322:\*](spa19.htm#fr_378) The most sacred part
+<span id="fn_378"></span>[322:\*](spa19.htm#fr_378.md) The most sacred part
 of a palace or dwelling, the seraglio, or woman's apartments.
 
-<span id="fn_379"></span>[322:†](spa19.htm#fr_379) Time assumes the
+<span id="fn_379"></span>[322:†](spa19.htm#fr_379.md) Time assumes the
 black dress of darkness in the evening, and its garment is rent at the
 dawn of day.
 
-<span id="fn_380"></span>[323:\*](spa19.htm#fr_380) The night of sorrow.
+<span id="fn_380"></span>[323:\*](spa19.htm#fr_380.md) The night of sorrow.
 
-<span id="fn_381"></span>[323:†](spa19.htm#fr_381) The morn of relief or
+<span id="fn_381"></span>[323:†](spa19.htm#fr_381.md) The morn of relief or
 joy.
 
-<span id="fn_382"></span>[324:\*](spa19.htm#fr_382) The curved shape of
+<span id="fn_382"></span>[324:\*](spa19.htm#fr_382.md) The curved shape of
 the scimitar is likened unto the eyelashes of the fair.
 
-<span id="fn_383"></span>[324:†](spa19.htm#fr_383) The gulf of Persia so
+<span id="fn_383"></span>[324:†](spa19.htm#fr_383.md) The gulf of Persia so
 called.
 
-<span id="fn_384"></span>[324:‡](spa19.htm#fr_384) See note at page
-[287](spa16.htm#page_287).
+<span id="fn_384"></span>[324:‡](spa19.htm#fr_384.md) See note at page
+[287](spa16.htm#page_287.md).
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](spa20)
+[Next: Introduction](spa20.md)

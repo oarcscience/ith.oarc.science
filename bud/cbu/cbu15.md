@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu14)  [Next](cbu16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu14)  [Next](cbu16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -292,7 +292,7 @@ Gaudamsiddha, in the eighth century, published a work called
 days of the week are apportioned among the planets in the following
 order: *Yung-hwo*, "Mars;" *Ch‘en-sing*, "Mercury;" *Sui-sing*,
 "Jupiter;" *T‘ai-pe*, "Venus;" *Chen-sing*, "Saturn." <span
-id="fr_101"></span>[1](#fn_101)
+id="fr_101"></span>[1](#fn_101.md)
 
 These planets, with the sun and moon, form the *ts‘i-yau*, "seven bright
 celestial objects." They constitute the mythological week of seven days,
@@ -340,7 +340,7 @@ the Chinese months.
 
 ### Footnotes
 
-<span id="fn_101"></span>[211:1](cbu15.htm#fr_101) See *Chinese
+<span id="fn_101"></span>[211:1](cbu15.htm#fr_101.md) See *Chinese
 Recorder*, 1872. Mr. Wylie, "On the Knowledge of a weekly Sabbath in
 China," pp. 40-45. But add to Mr. Wylie's very full and interesting
 statements, that *Mit* is "Mithras" here, and in page 8.
@@ -348,4 +348,4 @@ statements, that *Mit* is "Mithras" here, and in page 8.
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. Relation of Buddhism to the Older Hindoo
-Mythology](cbu16)
+Mythology](cbu16.md)

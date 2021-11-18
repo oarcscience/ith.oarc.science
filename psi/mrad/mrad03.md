@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad02)  [Next](mrad04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad02)  [Next](mrad04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -63,9 +63,9 @@ catch your attention with them if I can.
 Here is a drawing of a table-fork. It was done with a lead-pencil on a
 sheet of ruled paper, which has been photographed, and then reproduced
 in the ordinary way. You note that it bears a signature and a date
-([fig. 1](#img_fig001)):
+([fig. 1](#img_fig001).md):
 
-<span id="img_fig001"></span> ![Fig. 1](img/fig001.jpg)
+<span id="img_fig001"></span> ![Fig. 1](img/fig001.jpg.md)
 
 This drawing was produced by my brother-in-law, Robert L. Irwin, a young
 business man, and no kind of "crank," under the following circumstances.
@@ -87,9 +87,9 @@ her subconscious mind to bring her whatever was in the mind of her
 brother-in-law. Having become satisfied that the image which came to her
 mind was the correct one—because it persisted, and came back again and
 again—she sat up and took pencil and paper and wrote the date, and six
-words, as follows ([fig. 1a](#img_fig001a)):
+words, as follows ([fig. 1a](#img_fig001a).md):
 
-<span id="img_fig001a"></span> ![Fig. 1a](img/fig001a.jpg)
+<span id="img_fig001a"></span> ![Fig. 1a](img/fig001a.jpg.md)
 
 A day or two later we drove to Pasadena, and then in the presence of Bob
 and his wife, the drawing and writing were produced and compared. I have
@@ -100,13 +100,13 @@ way, three of them equally successful.
 
 <span id="page_8">p. 8</span>
 
-Second case. Here is a drawing ([fig. 2](#img_fig002)), and below it a
-set of five drawings ([fig. 2a](#img_fig002)):
+Second case. Here is a drawing ([fig. 2](#img_fig002).md), and below it a
+set of five drawings ([fig. 2a](#img_fig002).md):
 
-<span id="img_fig002"></span> ![Fig. 2, Fig. 2a.](img/fig002.jpg)
+<span id="img_fig002"></span> ![Fig. 2, Fig. 2a.](img/fig002.jpg.md)
 
 The above drawings were produced under the following circumstances. The
-single drawing ([fig. 2](#img_fig002)) was made by me in my study at my
+single drawing ([fig. 2](#img_fig002).md) was made by me in my study at my
 
 <span id="page_9">p. 9</span>
 
@@ -115,7 +115,7 @@ and was not opened until the test was concluded. Having made the
 drawing, I held it before me and concentrated upon it for a period of
 five or ten minutes.
 
-The five drawings ([fig. 2a](#img_fig002)) were produced by my wife, who
+The five drawings ([fig. 2a](#img_fig002).md) were produced by my wife, who
 was lying on the couch in her study, some thirty feet away from me, with
 the door closed between us. The only words spoken were as follows: when
 I was ready to make my drawing, I called, "All right," and when she had
@@ -126,7 +126,7 @@ of how she came to draw them. This I shall quote and discuss later on. I
 shall also tell about six other pairs of drawings, produced in this same
 way.
 
-Third case: another drawing ([fig. 3a](#img_fig003)), produced under the
+Third case: another drawing ([fig. 3a](#img_fig003).md), produced under the
 following circumstances. My wife went upstairs, and shut the door which
 is at the top of the stairway. I went on tip-toe to a cupboard in a
 downstairs room and took from a shelf a red electric-light bulb—it
@@ -144,9 +144,9 @@ nor did I speak a word during the test. Finally she sat up, and made her
 drawing, with the written comment, and handed it to me. Every word of
 the comment, as well as the drawing, was produced before I said a word,
 and the drawing and writing as here reproduced have not been touched or
-altered in any way ([fig. 3a](#img_fig003)):
+altered in any way ([fig. 3a](#img_fig003).md):
 
-<span id="img_fig003"></span> ![Fig. 3a](img/fig003.jpg)
+<span id="img_fig003"></span> ![Fig. 3a](img/fig003.jpg.md)
 
 <span id="page_11">p. 11</span>
 
@@ -164,7 +164,7 @@ mental process, and do not represent a question asked of me. She did not
 test, except the single word, "Ready," to call my wife downstairs.
 
 The next drawings were produced in the following manner. The one at the
-top ([fig. 4](#img_fig004)) was drawn by me alone in my study, and was
+top ([fig. 4](#img_fig004).md) was drawn by me alone in my study, and was
 one of nine, all made at the same time, and with no restriction upon
 what I should draw—anything that came into my head. Having made the nine
 drawings, I wrapped each one in a separate sheet of green paper, to make
@@ -174,13 +174,13 @@ by my wife's couch. My wife then took one of them and placed it
 
 <span id="page_12">p. 12</span>
 
-<span id="img_fig004"></span> ![Fig. 4, Fig. 4a](img/fig004.jpg)
+<span id="img_fig004"></span> ![Fig. 4, Fig. 4a](img/fig004.jpg.md)
 
 over her solar plexus, and lay in her state of concentration, while I
 sat watching her, at her insistence, in order to make the evidence more
 convincing. Having received what she considered a convincing telepathic
 "message," or image of the contents of the envelope, she sat up and made
-her sketch ([fig. 4a](#img_fig004)) on a pad of paper.
+her sketch ([fig. 4a](#img_fig004).md) on a pad of paper.
 
 The essence of our procedure is this: that never did she see my drawing
 until hers was completed and her descriptive words written; that I spoke
@@ -219,32 +219,32 @@ visible in the photograph. I give it all in print. Note that drawings 1,
 In the case of my drawing numbered five, my wife's comment was:
 "Knight's helmet."
 
-<span id="img_fig005"></span> ![Fig. 5, Fig. 5a](img/fig005.jpg)
+<span id="img_fig005"></span> ![Fig. 5, Fig. 5a](img/fig005.jpg.md)
 
-<span id="img_fig006"></span> ![Fig. 6, Fig. 6a](img/fig006.jpg)
+<span id="img_fig006"></span> ![Fig. 6, Fig. 6a](img/fig006.jpg.md)
 
 <span id="page_15">p. 15</span>
 
-On [figure 6](#img_fig006), the comment was: "Desert scene, camel,
-ostrich, then below"—and the drawing in figure [6a](#img_fig006). On the
+On [figure 6](#img_fig006.md), the comment was: "Desert scene, camel,
+ostrich, then below"—and the drawing in figure [6a](#img_fig006.md). On the
 reverse side of the page is further comment: "This came in fragments, as
 if I saw it being drawn by invisible pencil."
 
 And here is a pair with no comment, and none needed ([fig. 7,
-7a](#img_fig007)):
+7a](#img_fig007).md):
 
-<span id="img_fig007"></span> ![Fig. 7, Fig. 7a](img/fig007.jpg)
+<span id="img_fig007"></span> ![Fig. 7, Fig. 7a](img/fig007.jpg.md)
 
 On the following, also, no comment was written ([fig. 8,
-8a](#img_fig008)):
+8a](#img_fig008).md):
 
-<span id="img_fig008"></span> ![Fig. 8, Fig. 8a](img/fig008.jpg)
+<span id="img_fig008"></span> ![Fig. 8, Fig. 8a](img/fig008.jpg.md)
 
 <span id="page_16">p. 16</span>
 
-<span id="img_fig009"></span> ![Fig 9, Fig. 9a](img/fig009.jpg)
+<span id="img_fig009"></span> ![Fig 9, Fig. 9a](img/fig009.jpg.md)
 
-I drew figure [9](#img_fig009), and my wife drew [9a](#img_fig009), a
+I drew figure [9](#img_fig009), and my wife drew [9a](#img_fig009.md), a
 striking success, and wrote the comment: "May be elephant's snout—but
 anyway it is some kind of a running animal. Long thing like rope flung
 out in front of him."
@@ -259,17 +259,17 @@ they used to fly into the ball-rooms at Virginia
 
 springs hotels, and have to be massacred with brooms, because it was
 believed that they sought to tangle themselves in the hair of the ladies
-([fig. 10, 10a](#img_fig010)):
+([fig. 10, 10a](#img_fig010).md):
 
-<span id="img_fig010"></span> ![Fig 10, Fig. 10a](img/fig010.jpg)
+<span id="img_fig010"></span> ![Fig 10, Fig. 10a](img/fig010.jpg.md)
 
 My wife's comment on the above reads: "Big insect. I know this is right
 because it moves his legs as if flying. Beetle working its legs. Legs in
 motion!"
 
-And next, my effort at a Chinese mandarin ([fig. 11, 11a](#img_fig011)):
+And next, my effort at a Chinese mandarin ([fig. 11, 11a](#img_fig011).md):
 
-<span id="img_fig011"></span> ![Fig. 11, Fig. 11a](img/fig011.jpg)
+<span id="img_fig011"></span> ![Fig. 11, Fig. 11a](img/fig011.jpg.md)
 
 <span id="page_18">p. 18</span>
 
@@ -280,9 +280,9 @@ mandarins with dragons is obvious.
 
 And finally, my effort at a boy's foot and roller-skate, which undergoes
 a strange telepathic transformation. I have put it upside down for
-easier comparison ([fig. 12, 12a](#img_fig012)):
+easier comparison ([fig. 12, 12a](#img_fig012).md):
 
-<span id="img_fig012"></span> ![Fig. 12, Fig. 12a](img/fig012.jpg)
+<span id="img_fig012"></span> ![Fig. 12, Fig. 12a](img/fig012.jpg.md)
 
 <span id="page_19">p. 19</span>
 
@@ -326,4 +326,4 @@ years would not be enough for such a set of coincidences.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](mrad04)
+[Next: Chapter III](mrad04.md)

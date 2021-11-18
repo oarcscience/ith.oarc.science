@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe037)  [Next](prwe039) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe037)  [Next](prwe039.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ degrees, they gathered the story I have related to you.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Funeral](prwe039)
+[Next: The Fairy Funeral](prwe039.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jes11)  [Next](dan00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jes11)  [Next](dan00.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ disbelievers, they were Nimrod and Nebuchadnezzar.
 
 ------------------------------------------------------------------------
 
-[Next: Dâniâl (Daniel) (PUH)](dan00)
+[Next: Dâniâl (Daniel) (PUH)](dan00.md)

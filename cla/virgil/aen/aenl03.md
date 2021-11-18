@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](aen03) 
-[Previous](aenl02)  [Next](aenl04) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](aen03.md) 
+[Previous](aenl02)  [Next](aenl04.md) 
 
 ------------------------------------------------------------------------
 
@@ -751,4 +751,4 @@ conticuit tandem factoque hic fine quieuit.
 
 ------------------------------------------------------------------------
 
-[Next: Book IV](aenl04)
+[Next: Book IV](aenl04.md)

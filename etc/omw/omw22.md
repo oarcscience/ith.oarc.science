@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw21)  [Next](omw23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw21)  [Next](omw23.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ cease to slay. Rê pondered on how this might be
 <span id="img_00800"></span>
 
 [![Rê: His Going-Down and Uprising](tn/00800.jpg)  
-Click to enlarge](img/00800.jpg)  
+Click to enlarge](img/00800.jpg.md)  
 Rê: His Going-Down and Uprising  
 
  
@@ -280,4 +280,4 @@ eyes had sight yet in them to read what was in the book.
 
 ------------------------------------------------------------------------
 
-[Next: In the Beginning](omw23)
+[Next: In the Beginning](omw23.md)

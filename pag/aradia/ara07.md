@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara06)  [Next](ara08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara06)  [Next](ara08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ But if some black pins are among them, you may enjoy good fortune and
 health, yet mingled with troubles which may be of small account.
 \[However, to lessen their influence, you must perform the following
 ceremony, and pronounce this incantation, wherein all is also
-described. <span id="fr_11"></span>[1](#fn_11)\]
+described. <span id="fr_11"></span>[1](#fn_11.md)\]
 
 The Incantation to Diana.
 
@@ -143,7 +143,7 @@ Until thou comest to give me all thy aid.
 Therefore to-morrow at the stroke of noon  
 I'll wait for thee, bearing a cup of wine,  
 Therewith a lens or a small burning-glass. <span
-id="fr_12"></span>[1](#fn_12)  
+id="fr_12"></span>[1](#fn_12.md)  
 And thirteen pins I'll put into the charm;  
 Those which I put shall all indeed be black,  
 But thou, *Diana*, thou wilt place them all!
@@ -153,7 +153,7 @@ Thou'lt send them as companions of the Sun,
 And all the fire infernal of itself  
 Those fiends shall bring, and bring with it the, power  
 Unto the Sun to make this (red) wine boil, <span
-id="fr_13"></span>[2](#fn_13)  
+id="fr_13"></span>[2](#fn_13.md)  
 So that these pins by heat may be red-hot,  
 And with them I do fill the lemon here,  
 That unto her or him to who 'tis given is  
@@ -188,18 +188,18 @@ hardened lemon given to me for a charm by a witch.
 
 ### Footnotes
 
-<span id="fn_11"></span>[29:1](ara07.htm#fr_11) This passage is not
+<span id="fn_11"></span>[29:1](ara07.htm#fr_11.md) This passage is not
 given in the original MS., but it is necessary to clearly explain what
 follows abruptly.
 
-<span id="fn_12"></span>[33:1](ara07.htm#fr_12) This appears from very
+<span id="fn_12"></span>[33:1](ara07.htm#fr_12.md) This appears from very
 early ages, as in Roman times, to have been regarded as gifted with
 magic properties, and was used in occult ceremonies.
 
-<span id="fn_13"></span>[33:2](ara07.htm#fr_13) That is, *Diana* is
+<span id="fn_13"></span>[33:2](ara07.htm#fr_13.md) That is, *Diana* is
 invoked to send demons with the very life of the fire of hell to still
 more increase that of the sun to intensify the wine.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. A Spell To Win Love](ara08)
+[Next: Chapter VI. A Spell To Win Love](ara08.md)

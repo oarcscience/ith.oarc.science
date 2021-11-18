@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia37)  [Next](aia39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia37)  [Next](aia39.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,7 +105,7 @@ beaten, put into irons, &c.
 <span id="img_fig29"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 29.](tn/fig29.jpg)  
-Click to enlarge](img/fig29.jpg)  
+Click to enlarge](img/fig29.jpg.md)  
 *Fig*. 29.  
 
 JUDGMENT ON THE ABOVE QUESTION.
@@ -142,7 +142,7 @@ the Sunday he apprehended him by authority.
 <span id="img_fig30"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 30.](tn/fig30.jpg)  
-Click to enlarge](img/fig30.jpg)  
+Click to enlarge](img/fig30.jpg.md)  
 *Fig*. 30.  
 
 QUESTION.--A LADY ASKS WHEN HER HUSBAND, WHO IS IMPRISONED, SHALL BE
@@ -171,7 +171,7 @@ perfect.
 <span id="img_fig31"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 31.](tn/fig31.jpg)  
-Click to enlarge](img/fig31.jpg)  
+Click to enlarge](img/fig31.jpg.md)  
 *Fig*. 31.  
 
 <span id="page_285">p. 285</span>
@@ -214,7 +214,7 @@ performed, to the eternal shame of the royal party.
 <span id="img_fig32"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 32.](tn/fig32.jpg)  
-Click to enlarge](img/fig32.jpg)  
+Click to enlarge](img/fig32.jpg.md)  
 *Fig*. 32.  
 
 JUDGMENT ON THE ABOVE FIGURE.
@@ -225,7 +225,7 @@ down by our author.
 
 The King is here represented by the ascendant, the ☽, and the lord of
 the ascendant, because *he* began the WAR, as it were, by this
-act. <span id="fr_124"></span>[1](#fn_123)
+act. <span id="fr_124"></span>[1](#fn_123.md)
 
 <span id="page_287">p. 287</span>
 
@@ -305,7 +305,7 @@ so fondly worship.
 <span id="img_fig33"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 33](tn/fig33.jpg)  
-Click to enlarge](img/fig33.jpg)  
+Click to enlarge](img/fig33.jpg.md)  
 *Fig*. 33  
 
 OBSERVATIONS ON THE ABOVE FIGURE.
@@ -353,7 +353,7 @@ known, was THE EXACT DURATION OF THE COMMONWEALTH.
 
 ### Footnotes
 
-<span id="fn_123"></span>[286:1](aia38.htm#fr_124) "The King had lain
+<span id="fn_123"></span>[286:1](aia38.htm#fr_124.md) "The King had lain
 most part at York, or rambled into some other counties near adjacent,
 until August, and done little to any purpose. <span id="page_287">p.
 287</span> For the several counties were generally nothing inclinable to
@@ -366,4 +366,4 @@ thought most doted on monarchy."--*Monarchy or no Monarchy*, p. 112.
 
 ------------------------------------------------------------------------
 
-[Next: Aphorisms, by Zadkiel](aia39)
+[Next: Aphorisms, by Zadkiel](aia39.md)

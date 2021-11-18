@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft30)  [Next](eft32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft30)  [Next](eft32.md) 
 
 ------------------------------------------------------------------------
 
 # Mr Miacca
 
 <span id="img_036"></span> [![](tn/036.jpg)  
-Click to enlarge](img/036.jpg)
+Click to enlarge](img/036.jpg.md)
 
 TOMMY GRIMES was sometimes a good boy, and sometimes a bad boy; and when
 he was a bad boy, he was a very bad boy. Now his mother used to say to
@@ -83,4 +83,4 @@ he was old enough to go alone.
 
 ------------------------------------------------------------------------
 
-[Next: Whittington and His Cat](eft32)
+[Next: Whittington and His Cat](eft32.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](kg2)  [Next](ch2) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](kg2)  [Next](ch2.md) 
 
 ------------------------------------------------------------------------
 
@@ -3385,4 +3385,4 @@ kingdoms of the countries.
 
 ------------------------------------------------------------------------
 
-[Next: 2 Chronicles](ch2)
+[Next: 2 Chronicles](ch2.md)

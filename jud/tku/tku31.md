@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku30)  [Next](tku32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku30)  [Next](tku32.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ beautiful apples.
 
 467\. Rabbi Schimeon spake and said: "O how blessed is his portion who
 is found in this excellent holy assembly, <span
-id="fr_72"></span>[1](#fn_71) wherein we are (assembled)! Blessed is his
+id="fr_72"></span>[1](#fn_71) wherein we are (assembled.md)! Blessed is his
 portion in this world and in the world to come.
 
 468\. "For we are seated in that excellent holiness which surroundeth
@@ -32,7 +32,7 @@ the holy form of the beard.
 
 470\. "And this thirteenth disposition is the beautiful disposition
 which exciteth in itself so great desire that the head <span
-id="fr_73"></span>[2](#fn_72) ariseth towards it.
+id="fr_73"></span>[2](#fn_72.md) ariseth towards it.
 
 471\. "From it depend all those which are comprehended in Microprosopus;
 from it depend alike those which are supernal, those which are inferior.
@@ -44,8 +44,8 @@ from it depend alike those which are supernal, those which are inferior.
 all the dispositions, and which perfecteth all things.
 
 473\. "We have learned by tradition. Those parts <span
-id="fr_74"></span>[1](#fn_73) are called QDM, *Qadam*, <span
-id="fr_75"></span>[2](#fn_74) ancient days, days first of the first. But
+id="fr_74"></span>[1](#fn_73.md) are called QDM, *Qadam*, <span
+id="fr_75"></span>[2](#fn_74.md) ancient days, days first of the first. But
 those which are found in Microprosopus are called OVLM, Olahm,
 everlasting days, or days of the ages.
 
@@ -53,7 +53,7 @@ everlasting days, or days of the ages.
 all conformed in the conformations of the beard, wherein is composed the
 Ancient of the Ancient Ones, the Concealed of the Concealed Ones. But
 this thirteenth (*conformation*) comprehendeth them. <span
-id="fr_76"></span>[3](#fn_75)
+id="fr_76"></span>[3](#fn_75.md)
 
 475\. "And all the concealed superiors and inferiors are concealed in
 it, and they are comprehended in that influx from which all things
@@ -108,7 +108,7 @@ things; and no man knoweth their place, except Him, the Ancient One.
 manifest.
 
 490\. "Concerning Him it is written. Isa. xlii. 8: 'ANI IHVH HVA <span
-id="fr_77"></span>[1](#fn_76), *Ani Tetragrammaton Hoa*, This is My
+id="fr_77"></span>[1](#fn_76.md), *Ani Tetragrammaton Hoa*, This is My
 name, and My glory I give not unto another.'
 
 491\. "Also it is written, Ps. c. 2: 'HVA, *Hoa*, He, hath made us, and
@@ -127,31 +127,31 @@ fearfully and wonderfully made.'"
 
 ### Footnotes
 
-<span id="fn_71"></span>[166:1](tku31.htm#fr_72) Because this assembly
+<span id="fn_71"></span>[166:1](tku31.htm#fr_72.md) Because this assembly
 of ten Rabbis, as I have before remarked, was intended to typify the ten
 Sephiroth and their grouping.
 
-<span id="fn_72"></span>[166:2](tku31.htm#fr_73) This somewhat obscure
+<span id="fn_72"></span>[166:2](tku31.htm#fr_73.md) This somewhat obscure
 text means this: The number of the parts of the beard are 13, which are
 now completed in this disposition. But 13 = AChD, *Achad*, Unity, and
 also AHBH, *Ahebah*, Love. Hence love of unity ariseth when the 13 are
 complete. And the head of Macroprosopus ariseth, because that is Kether,
 the first Sephira, the number one, unity.
 
-<span id="fn_73"></span>[167:1](tku31.htm#fr_74) That is, the thirteen
+<span id="fn_73"></span>[167:1](tku31.htm#fr_74.md) That is, the thirteen
 conformations of the beard.
 
-<span id="fn_74"></span>[167:2](tku31.htm#fr_75) And hence is
+<span id="fn_74"></span>[167:2](tku31.htm#fr_75.md) And hence is
 Macroprosopus called the "Ancient of Days." Qadam also means the east,
 eastward. "Tetragrammaton Elohim planted a garden, MQDM, *Miqedem*,
 eastward (or of ancient time), in Eden." It is worthy of notice that the
 Gematria of QDM and OVLM are 144 and 146 respectively; the least numbers
 of which are 9 and 2--Yesod and Chokmah, foundation and wisdom.
 
-<span id="fn_75"></span>[167:3](tku31.htm#fr_76) By way of synthesis, as
+<span id="fn_75"></span>[167:3](tku31.htm#fr_76.md) By way of synthesis, as
 if it were a repetition of the rest conjointly.
 
-<span id="fn_76"></span>[168:1](tku31.htm#fr_77) There are 10 letters in
+<span id="fn_76"></span>[168:1](tku31.htm#fr_77.md) There are 10 letters in
 this phrase = 10 Sephiroth. "Ani Tetragrammaton Hoa, This is My name;"
 for in this are contained Macroprosopus, Microprosopus and the
 Tetragrammaton. ANI represents Microprosopus; HVA represents
@@ -166,4 +166,4 @@ countenances.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIV: The Conclusion of the Matter Concerning
-Macroprosopus](tku32)
+Macroprosopus](tku32.md)

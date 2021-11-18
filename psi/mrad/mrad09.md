@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad08)  [Next](mrad10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad08)  [Next](mrad10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -28,7 +28,7 @@ knows no difference between thirty feet and forty miles. The results
 with Bob and with myself were about the same.
 
 The first drawings made with me are those which have already been given
-([fig. 2, 2a](mrad03.htm#img_fig002)), but I give them again for the
+([fig. 2, 2a](mrad03.htm#img_fig002).md), but I give them again for the
 sake of convenience. I explain that in these particular drawings the
 lines have been traced over in heavier pencil; the reason being that
 Craig wanted a carbon copy, and went over the lines in order to make it.
@@ -51,7 +51,7 @@ the effect that just
 
 before starting to concentrate, she had been looking at her drawing of
 many concentric circles, which she had made in a test with Bob the
-previous day ([fig. 19a](mrad08.htm#img_fig019)). So her first vision
+previous day ([fig. 19a](mrad08.htm#img_fig019).md). So her first vision
 was of a whirl of circles. This turned sideways, and then took the shape
 of an arrowhead, and then of a letter A, and finally evolved into a
 complete star. As the agent in this test, I wish to repeat that I made
@@ -81,9 +81,9 @@ some sort."
 
 Again, here is a work of art from my facile pen, dated July 21, and
 having underneath my notation: "Concentrated on bald head" ([fig.
-20](#img_fig020))
+20](#img_fig020).md)
 
-<span id="img_fig020"></span> ![Fig. 20](img/fig020.jpg)
+<span id="img_fig020"></span> ![Fig. 20](img/fig020.jpg.md)
 
 My wife's note was: "Saw Upton's face." Then she drew a line through the
 words, and wrote the following explanation: "Saw two half circles. Then
@@ -110,22 +110,22 @@ cluster of fish-eggs or fly-eggs.
 July 20 I drew two heavy straight lines making a capital letter T, and
 Craig drew a complete cross or square X, which is, of course, the T with
 vertical arm prolonged. July 14 I drew a sort of jack-lantern. It is on
-next page ([fig. 21](#img_fig021)). I looked at this drawing and thought
+next page ([fig. 21](#img_fig021).md). I looked at this drawing and thought
 of the eyes of M.C.S., and said mentally, "I should have drawn the
 curves over eyes." Afterwards I told Craig about this, and she noted it
 down on the drawing. On the reverse side of the sheet
 
 <span id="page_69">p. 69</span>
 
-<span id="img_fig021"></span> ![Fig. 21](img/fig021.jpg)
+<span id="img_fig021"></span> ![Fig. 21](img/fig021.jpg.md)
 
 she added the following: "I told U. it was shaped like a half moon with
 something in center—I supposed it must be a star, though I did not see
 it as star but as indistinct marks." Her drawing follows, turned upside
-down for greater convenience ([fig. 21a](#img_fig021a)):
+down for greater convenience ([fig. 21a](#img_fig021a).md):
 
-<span id="img_fig021a"></span> ![Fig. 21a](img/fig021a.jpg)
+<span id="img_fig021a"></span> ![Fig. 21a](img/fig021a.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](mrad10)
+[Next: Chapter IX](mrad10.md)

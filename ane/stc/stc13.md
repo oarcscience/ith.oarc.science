@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](stc12)  [Next](stc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](stc12)  [Next](stc14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ Intangible Textual Heritage
 might behold,
 
 13\. (And) mankind beheld the Sun-god <span
-id="fr_177"></span>[1](#fn_177) in the gate of his going forth,
+id="fr_177"></span>[1](#fn_177.md) in the gate of his going forth,
 
 14\. In the midst of heaven and earth they duly created (him).
 
@@ -52,11 +52,11 @@ id="fr_177"></span>[1](#fn_177) in the gate of his going forth,
 
 ### Footnotes
 
-<span id="fn_177"></span>[127:1](stc13.htm#fr_177) I is interesting to
+<span id="fn_177"></span>[127:1](stc13.htm#fr_177.md) I is interesting to
 note that in the Semitic version the creation of the sun is substituted
 for that of the moon, although in the preceding line the renewal of the
 month is referred to.
 
 ------------------------------------------------------------------------
 
-[Next: IV. An Address to the River of Creation](stc14)
+[Next: IV. An Address to the River of Creation](stc14.md)

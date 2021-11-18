@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had30)  [Next](had32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had30)  [Next](had32.md) 
 
 ------------------------------------------------------------------------
 
@@ -483,4 +483,4 @@ the house."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX: Toilet](had32)
+[Next: Chapter XXIX: Toilet](had32.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cvmc07)  [Next](cvmc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cvmc07)  [Next](cvmc09.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ and expedited by painting a mental picture of the desired result.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Nature of Pain](cvmc09)
+[Next: VII. The Nature of Pain](cvmc09.md)

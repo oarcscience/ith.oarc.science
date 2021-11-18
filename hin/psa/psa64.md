@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa63)  [Next](psa65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa63)  [Next](psa65.md) 
 
 ------------------------------------------------------------------------
 
@@ -337,7 +337,7 @@ of the descendants of Judoo; and when she showed them to Ookha, Ookha
 said on beholding Unroodrù's picture, "I have found him, who stole my
 heart, this is he, who came to me in the night. Arrange some plan now,
 friend, and search him out, and bring him here." On hearing this,
-Chitrekha replied, "How shall he escape me?" [Chitrekha](errata.htm#16)
+Chitrekha replied, "How shall he escape me?" [Chitrekha](errata.htm#16.md)
 proceeded to say, "O friend! you do not know him, but I can tell you who
 he is, he is of the family of Judoo, and a grandson of Shree Krishnù
 Chund, and the son of Purdiyomun; his name is Unroodrù. He lives at
@@ -657,4 +657,4 @@ Jee to take leave, saying to him, "Narud Jee! I know all about it."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXIV](psa65)
+[Next: Chapter LXIV](psa65.md)

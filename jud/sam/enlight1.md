@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Samaritans](index)  [Previous](chron2)  [Next](enlight2) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Samaritans](index)  [Previous](chron2)  [Next](enlight2.md) 
 
 ------------------------------------------------------------------------
 
@@ -1605,4 +1605,4 @@ passages appear to indicate that the heretic is still living.
 
 ------------------------------------------------------------------------
 
-[Next: Book of Enlightment (Part II)](enlight2)
+[Next: Book of Enlightment (Part II)](enlight2.md)

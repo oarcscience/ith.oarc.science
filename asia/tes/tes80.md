@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes79)  [Next](tes81) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes79)  [Next](tes81.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_144">p. 144</span>
 
-### 15. STORY OF MAGUS. <span id="fr_118"></span>[1](#fn_118)
+### 15. STORY OF MAGUS. <span id="fr_118"></span>[1](#fn_118.md)
 
 There was a man, Magus by name. He had four sons. One of them had legs
 of grass, another a head of bladder, the third a brisket of leaves, the
@@ -31,7 +31,7 @@ meat, his throat of hair burst open, and he died. So Magus remained
 alone.
 
 "Now, I will depart from here. I will go traveling." He walked on for
-several days and came to Kosetóka. <span id="fr_119"></span>[2](#fn_119)
+several days and came to Kosetóka. <span id="fr_119"></span>[2](#fn_119.md)
 The evil spirit was not at home: only his children were there. He killed
 them all, and cut off their heads. Then he spread a large blanket, and
 set the heads close to it, in a row. It looked as if they were asleep
@@ -66,12 +66,12 @@ Sophie Bogoras in the village of Markova, the Anadyr country, winter of
 
 ### Footnotes
 
-<span id="fn_118"></span>[144:1](tes80.htm#fr_118) See [p.
-131](tes70.htm#page_131).
+<span id="fn_118"></span>[144:1](tes80.htm#fr_118.md) See [p.
+131](tes70.htm#page_131.md).
 
-<span id="fn_119"></span>[144:2](tes80.htm#fr_119) Cf. No. 3, [p.
-127](tes67.htm#page_127)--W. B.
+<span id="fn_119"></span>[144:2](tes80.htm#fr_119.md) Cf. No. 3, [p.
+127](tes67.htm#page_127.md)--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 16. Story Of Gege-Woman](tes81)
+[Next: 16. Story Of Gege-Woman](tes81.md)

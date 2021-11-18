@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal018)  [Next](njal020) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal018)  [Next](njal020.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Arnguda's son was Hamond the Halt, who dwelt at Hamondstede.
 
 ------------------------------------------------------------------------
 
-[Next: 20. Of Njal And His Children](njal020)
+[Next: 20. Of Njal And His Children](njal020.md)

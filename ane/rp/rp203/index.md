@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Ancient Near
-East](../../index)  [Records of the Past](../index) 
-[Egypt](../../../egy/index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Ancient Near
+East](../../index)  [Records of the Past](../index.md) 
+[Egypt](../../../egy/index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,8 +22,8 @@ East](../../index)  [Records of the Past](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rp20300)    [Page
-Index](pageidx)    [Text \[Zipped\]](rp203.txt.gz)
+[Contents](#contents)    [Start Reading](rp20300.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](rp203.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -33,49 +33,49 @@ the India House inscription of Nebuchadrezzer.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](rp20300)  
-[Preface](rp20301)  
-[Table of Contents](rp20302)  
+<span id="contents"></span> [Title Page](rp20300.md)  
+[Preface](rp20301.md)  
+[Table of Contents](rp20302.md)  
 [Equivalents Of The Hebrew Letters In The Transliteration Of Assyrian
-Names Mentioned In These Volumes](rp20303)  
-[The Assyrian and Egyptian Calendars](rp20304)  
+Names Mentioned In These Volumes](rp20303.md)  
+[The Assyrian and Egyptian Calendars](rp20304.md)  
 <span id="section_000"></span>
 
 ### The Precepts of Ptah-Hotep
 
-[Introduction](rp20305)  
-[Text](rp20306)  
+[Introduction](rp20305.md)  
+[Text](rp20306.md)  
 <span id="section_001"></span>
 
 ### The Daughter of the Prince of Bakhtan and the Spirit that Possessed Her
 
-[Introduction](rp20307)  
-[Text](rp20308)  
+[Introduction](rp20307.md)  
+[Text](rp20308.md)  
 <span id="section_002"></span>
 
 ### Hymn to the Nile
 
-[Introduction](rp20309)  
-[Text](rp20310)  
+[Introduction](rp20309.md)  
+[Text](rp20310.md)  
 <span id="section_003"></span>
 
 ### Letters to Egypt from Babylonia, Assyria, and Syria, in the Fifteenth Century B.C.
 
-[Introduction](rp20311)  
+[Introduction](rp20311.md)  
 [I.—Letter of Assur-yuballidh, King of Assyria, to Amenophis IV, King of
-Egypt](rp20312)  
+Egypt](rp20312.md)  
 [II.—Letter of Burna-buryas, King of Babylonia, to Amenophis IV of
-Egypt](rp20313)  
-[III.—Letter of Burna-buryas to Amenophis IV](rp20314)  
-[IV.—Letter from Aziru to his Brother Khâi](rp20315)  
-[V.—Letter from Aziru to his Father Dûdu](rp20316)  
-[VI.—Letter from Rib-Addu to the King of Egypt](rp20317)  
+Egypt](rp20313.md)  
+[III.—Letter of Burna-buryas to Amenophis IV](rp20314.md)  
+[IV.—Letter from Aziru to his Brother Khâi](rp20315.md)  
+[V.—Letter from Aziru to his Father Dûdu](rp20316.md)  
+[VI.—Letter from Rib-Addu to the King of Egypt](rp20317.md)  
 [VII.—Letters from Dusratta, King of Mitanni, to Amenophis
-III](rp20318)  
-[VIII.](rp20319)  
-[IX.—Letter of Dusratta to Amenophis IV](rp20320)  
-[X.—Letter of Dusratta to Amenophis III](rp20321)  
-[XI.—Letter of Dusratta to Amenophis IV](rp20322)  
+III](rp20318.md)  
+[VIII.](rp20319.md)  
+[IX.—Letter of Dusratta to Amenophis IV](rp20320.md)  
+[X.—Letter of Dusratta to Amenophis III](rp20321.md)  
+[XI.—Letter of Dusratta to Amenophis IV](rp20322.md)  
 
  
 
@@ -83,23 +83,23 @@ III](rp20318)
 
 ### Ancient Babylonian Agricultural Precepts
 
-[Introduction](rp20323)  
-[Text](rp20324)  
+[Introduction](rp20323.md)  
+[Text](rp20324.md)  
 <span id="section_005"></span>
 
 ### The India House Inscription of Nebuchadrezzar the Great
 
-[Introduction](rp20325)  
-[Text](rp20326)  
+[Introduction](rp20325.md)  
+[Text](rp20326.md)  
 <span id="section_006"></span>
 
 ### Contract-Tablets Relating to Belshazzar
 
-[Introduction](rp20327)  
-[Text](rp20328)  
+[Introduction](rp20327.md)  
+[Text](rp20328.md)  
 
  
 
-[The Kings of Ararat](rp20329)  
-[The Kings of Persia](rp20330)  
-[Advertisements](rp20331)  
+[The Kings of Ararat](rp20329.md)  
+[The Kings of Persia](rp20330.md)  
+[Advertisements](rp20331.md)  

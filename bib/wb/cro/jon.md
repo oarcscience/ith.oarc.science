@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](oba)  [Next](mic) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](oba)  [Next](mic.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,4 +167,4 @@ razlikovati desno i lijevo, a uz to i mnogo životinja!"
 
 ------------------------------------------------------------------------
 
-[Next: Micah](mic)
+[Next: Micah](mic.md)

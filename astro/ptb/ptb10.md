@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb09)  [Next](ptb11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb09)  [Next](ptb11.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,13 +28,13 @@ Hence the coldness of Saturn is allotted to the day, to counterbalance
 its heat; and the dryness of Mars to the night, to counterbalance its
 moisture. Thus each of these planets, being moderated by this
 combination, is placed in a condition calculated to produce a favourable
-temperament. <span id="fr_41"></span>[2](#fn_41)
+temperament. <span id="fr_41"></span>[2](#fn_41.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_41"></span>[15:2](ptb10.htm#fr_41) Whalley here appends the
+<span id="fn_41"></span>[15:2](ptb10.htm#fr_41.md) Whalley here appends the
 following note: "To this chapter may be properly added, that a planet is
 said to be diurnal, when, in a diurnal nativity, above the earth; and,
 in a nocturnal nativity, under the earth: but nocturnal, when, in a
@@ -44,4 +44,4 @@ the earth."
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. The Influence of Position with Regard to the
-Sun](ptb11)
+Sun](ptb11.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb05)  [Next](refb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb05)  [Next](refb07.md) 
 
 </div>
 
@@ -516,6 +516,6 @@ their own realm.\[3\]
 
 ------------------------------------------------------------------------
 
-[Next: The Black Thief And Knight of the Glen](refb07)
+[Next: The Black Thief And Knight of the Glen](refb07.md)
 
 </div>

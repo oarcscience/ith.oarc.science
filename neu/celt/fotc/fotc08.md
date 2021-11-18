@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fotc07)  [Next](fotc09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fotc07)  [Next](fotc09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Feuds of the Clans*, by Alexander MacGregor, \[1907\], at
 Intangible Textual Heritage
 
@@ -46,4 +46,4 @@ because he was mutilated of an hand.
 
 ------------------------------------------------------------------------
 
-[Next: The Conflict of Clan Chattan and Clan Kay](fotc09)
+[Next: The Conflict of Clan Chattan and Clan Kay](fotc09.md)

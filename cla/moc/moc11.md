@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc10)  [Next](moc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc10)  [Next](moc12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -99,7 +99,7 @@ offshoot. No such important discovery had been made since Schliemann,
 twenty-five years previously, unearthed the graves he so confidently
 believed to be those of Agamemnon and his companions. "Here again", as
 Mr. Asquith said at the annual meeting of the subscribers to the British
-School at Athens, <span id="fr_151"></span>[1](#fn_151) "scepticism
+School at Athens, <span id="fr_151"></span>[1](#fn_151.md) "scepticism
 received an ugly blow. Legends", he added, "which had become somewhat
 ragged and tattered have been decently reclothed. The mountain on which
 Zeus was supposed to have rested from his labours, and the palace in
@@ -168,7 +168,7 @@ wrathful saint appeared to him in a dream. Waking with a start, he was
 conscious of a mysterious presence; the animals round began to low and
 neigh, and there were visions about; 'φαντάξει {Greek *fantáksei*}', he
 said, in summing up his experiences next morning, 'The whole place
-spooks!' <span id="fr_152"></span>[1](#fn_152)
+spooks!' <span id="fr_152"></span>[1](#fn_152.md)
 
 This life-sized figure of a youth remains in a wonderful state of
 preservation from the thighs upwards, and is a feature of Candia museum.
@@ -213,7 +213,7 @@ cooled, all of them dressed themselves in beautiful dark-blue robes . .
 transgressing the laws. After the acts of judgment were over, when day
 came, they inscribed their decisions on a golden tablet, and deposited
 them as memorials, together with their dresses." <span
-id="fr_153"></span>[1](#fn_153)
+id="fr_153"></span>[1](#fn_153.md)
 
 A hoard of inscribed clay tablets was discovered by Evans in a
 bath-shaped terra-cotta receptacle within a small chamber. These were
@@ -309,7 +309,7 @@ Call, too, Demodocus, the bard divine,
 To share my banquet, whom the gods have blest  
 With pow'rs of song delectable, unmatch'd  
 By any, when his genius once is fired. <span
-id="fr_154"></span>[1](#fn_154)
+id="fr_154"></span>[1](#fn_154.md)
 
 Opposite the "high seat" of Minos in the "Throne Room" was a shallow
 tank with stone breastwork. Its use is uncertain. The theory that
@@ -343,7 +343,7 @@ disclosed the fact that fine lines had been traced on it such as are
 also visible on the wall frescoes, a technical device, borrowed from
 Egyptian practice, for guiding the artist's hands. It would appear,
 therefore, that the back of the throne had been once decorated with an
-elaborate colour design." <span id="fr_155"></span>[1](#fn_155) The
+elaborate colour design." <span id="fr_155"></span>[1](#fn_155.md) The
 paved floor was also, apparently, set in a border of gypsum covered with
 plaster and richly adorned.
 
@@ -376,7 +376,7 @@ period showed so great a predilection, is full of life and spirit. It
 combines in a high degree naturalism with grandeur, and it is no
 exaggeration to say that no figure of a bull at once so powerful and so
 true was produced by later classical art." <span
-id="fr_156"></span>[1](#fn_156)
+id="fr_156"></span>[1](#fn_156.md)
 
 The first season's discoveries made it evident that the palace had been
 of great dimensions and splendour. Nothing was found to indicate that it
@@ -408,7 +408,7 @@ We are guided from the sea-shore, like the hero of the *Odyssey*, who
 visited the dwelling of Alcinous, the Phæacian king, by a goddess in
 human guise. At a favourable point of vantage on the poplar-fringed
 highway, we are afforded the first glimpse of the palace of Knossos. It
-is situated beside a river <span id="fr_157"></span>[1](#fn_157) on a
+is situated beside a river <span id="fr_157"></span>[1](#fn_157.md) on a
 low hill in the midst of a fertile valley, about 3½ miles from Candia.
 The dominating feature of the landscape is sacred Mount Juktas, with its
 notched peak. It seems as if the "hammer god" had intended to shape the
@@ -420,7 +420,7 @@ forms a rough square, each side being about 130 yards long. No walls
 surround it. Crete, like "old England", is protected by its navy--its
 "wooden walls". The Minos kings have suppressed the island pirates who
 were wont to fall upon unprotected towns and plunder them, and hold
-command of the sea. <span id="fr_158"></span>[2](#fn_158)
+command of the sea. <span id="fr_158"></span>[2](#fn_158.md)
 
 We enter the palace by the north gate, passing groups of soldiers on
 sentry duty. A comparatively small force could defend the narrow way
@@ -459,7 +459,7 @@ The eastern wing is similarly of mazy character. In the southern part of
 it are reception rooms, living-rooms, bedrooms, and bath-rooms. These
 include the "Hall of the Colonnades", the "Hall of the Double Axes", the
 "Queen's Megaron", and the "Room of the Plaster Couch". <span
-id="fr_159"></span>[1](#fn_159) Stairways lead to the upper stories.
+id="fr_159"></span>[1](#fn_159.md) Stairways lead to the upper stories.
 
 The rooms assigned to the ladies are approached
 
@@ -475,13 +475,13 @@ either side in rippling bird-wing curves, her arms responding to the
 rise and fall of the music. She leans slightly forward, poised on one
 foot. She wears a yellow jacket with short arms, with a zigzag border of
 red and blue. Other dancers are tripping near her. Beyond these are the
-musicians. <span id="fr_160"></span>[1](#fn_160) We are reminded of one
+musicians. <span id="fr_160"></span>[1](#fn_160.md) We are reminded of one
 of the scenes on the famous shield of Achilles:--
 
 There, too, the skilful artist's hand had wrought,  
 With curious workmanship, a mazy dance,  
 Like that which Daedalus in Knossos erst  
-At fair-hair'd <span id="fr_161"></span>[2](#fn_161) Ariadne's bidding
+At fair-hair'd <span id="fr_161"></span>[2](#fn_161.md) Ariadne's bidding
 framed.  
 There, laying on each other's wrist their hand,  
 Bright youths and many suitor'd maidens danced:  
@@ -493,7 +493,7 @@ A wheel, new fashioned by his skilful hand,
 And spins it round, to prove if true it run:  
 Now featly mov'd in well-beseeming ranks.  
 A numerous crowd, around, the lovely dance  
-Survey'd, delighted. <span id="fr_162"></span>[3](#fn_162)
+Survey'd, delighted. <span id="fr_162"></span>[3](#fn_162.md)
 
 Another fresco is a picturesque study of sub-marine life. Fish dart to
 and fro above the ocean floor about
@@ -502,7 +502,7 @@ and fro above the ocean floor about
 
 two great snouted dolphins, the air bubbles darting from their fins and
 tails to indicate that they are in motion. <span
-id="fr_163"></span>[1](#fn_163)
+id="fr_163"></span>[1](#fn_163.md)
 
 In the Queen's Megaton the Cretan ladies are wont to chatter over their
 needlework during the heat of the day. They admire the works of art on
@@ -599,8 +599,8 @@ quotation has been made in dealing with the "Throne Room".
 
 Ulysses (Odysseus), the wanderer, is cast ashore on the island of
 Scheria, the seat of the Phæacians, "who of old, upon a time, dwelt in
-spacious Hypereia". Dr. Drerup <span id="fr_164"></span>[1](#fn_164) and
-Professor Burrows <span id="fr_165"></span>[2](#fn_165) have
+spacious Hypereia". Dr. Drerup <span id="fr_164"></span>[1](#fn_164.md) and
+Professor Burrows <span id="fr_165"></span>[2](#fn_165.md) have
 independently arrived at the conclusion that Scheria is Crete, Hypereia
 being Sicily, "and that the origin of the Odyssey is to be sought for in
 Crete". Burrows adds: "It can be at once granted that attention has been
@@ -609,7 +609,7 @@ references
 
 <span id="page_132">p. 132</span>
 
-in the *Odyssey* <span id="fr_166"></span>[1](#fn_166) to the topography
+in the *Odyssey* <span id="fr_166"></span>[1](#fn_166.md) to the topography
 of Crete have been neglected". Dr. Drerup draws attention to a most
 suggestive passage in the seventh book, in which the secret is "let
 out." The Phæacian King, Alcinous, promises that his seamen will convey
@@ -617,7 +617,7 @@ the shipwrecked stranger to his home, "even though it be much farther
 than Euboea, which", he explains, "certain of our men say is the
 farthest of lands, they who saw it, when they carried Rhadamanthus of
 the fair hair, to visit Tityos, son of Gaia". <span
-id="fr_167"></span>[2](#fn_167) Now Rhadamanthus was the brother of the
+id="fr_167"></span>[2](#fn_167.md) Now Rhadamanthus was the brother of the
 Cretan King Minos. "What was he doing in Corcyra?" asks Professor
 Burrows. "The Phæacians," adds the same writer, "themselves mariners,
 artists, feasters, dancers, are surely the Minoans of Crete."
@@ -635,7 +635,7 @@ the safe harbour in which
                         Our gallant barks  
 Line all the road, each stationed in her place,  
 And where, adjoining close the splendid fane  
-Of Neptune, <span id="fr_168"></span>[3](#fn_168) stands the forum with
+Of Neptune, <span id="fr_168"></span>[3](#fn_168.md) stands the forum with
 huge stones  
 From quarries hither drawn, constructed strong,  
 In which the rigging of their barks they keep  
@@ -786,7 +786,7 @@ Come play before us; that our guest arrived
 In his own country, may inform his friends  
 How far in seamanship we all excel,  
 In running, in the dance, and in the song. <span
-id="fr_169"></span>[1](#fn_169)
+id="fr_169"></span>[1](#fn_169.md)
 
 In these passages we probably have, as some authorities think, real
 Cretan memories. It is uncertain whether or not actual Cretan poems were
@@ -795,7 +795,7 @@ the palace of Alcinous "were sung by men who had heard of them as living
 realities, even if they had not themselves seen them; men who had walked
 the palaces (Knossos and Phæstos) perhaps, if not as their masters, at
 least as mercenaries or freebooters". <span
-id="fr_170"></span>[2](#fn_170)
+id="fr_170"></span>[2](#fn_170.md)
 
 It will be noted that Alcinous says the Phæacians do
 
@@ -810,7 +810,7 @@ northerners, who were settled in Crete in increasing numbers. "Late
 Minoan III", writes Professor Burrows, "is a long period, and marks the
 successive stages of a gradually decaying culture." The "Cretan
 memories" in the Homeric poems "refer to Late Minoan III". <span
-id="fr_171"></span>[1](#fn_171) Apparently the islanders were still
+id="fr_171"></span>[1](#fn_171.md) Apparently the islanders were still
 famous as skilled mariners, while their dancing was much admired; but as
 athletes and warriors they had to acknowledge the superiority of the
 less cultured invaders who had descended on their shores.
@@ -943,7 +943,7 @@ is that of a check or small plaid. . . . The whole costume
 
 of both figures seems to consist of garments carefully sewn and fitted
 to the shape without any trace of flowing draperies. <span
-id="fr_172"></span>[1](#fn_172)
+id="fr_172"></span>[1](#fn_172.md)
 
 Among the symbols, which had evidently a religious significance, are the
 "horns of consecration", the sacred pillars and trees, the double axe,
@@ -996,74 +996,74 @@ brilliant an example.
 
 ### Footnotes
 
-<span id="fn_151"></span>[117:1](moc11.htm#fr_151) London, 30th October,
+<span id="fn_151"></span>[117:1](moc11.htm#fr_151.md) London, 30th October,
 1900.
 
-<span id="fn_152"></span>[119:1](moc11.htm#fr_152) *Monthly Review*,
+<span id="fn_152"></span>[119:1](moc11.htm#fr_152.md) *Monthly Review*,
 March, 1901, p. 124.
 
-<span id="fn_153"></span>[120:1](moc11.htm#fr_153) *The Critias*, Sec.
+<span id="fn_153"></span>[120:1](moc11.htm#fr_153.md) *The Critias*, Sec.
 XV
 
-<span id="fn_154"></span>[123:1](moc11.htm#fr_154) Cowper's *Odyssey*,
+<span id="fn_154"></span>[123:1](moc11.htm#fr_154.md) Cowper's *Odyssey*,
 VIII, 30-54.
 
-<span id="fn_155"></span>[124:1](moc11.htm#fr_155) The Annual of the
+<span id="fn_155"></span>[124:1](moc11.htm#fr_155.md) The Annual of the
 British School at Athens, Vol. VI, p. 38.
 
-<span id="fn_156"></span>[125:1](moc11.htm#fr_156) Annual of the British
+<span id="fn_156"></span>[125:1](moc11.htm#fr_156.md) Annual of the British
 School at Athens, Vol. VI, pp. 52-3.
 
-<span id="fn_157"></span>[126:1](moc11.htm#fr_157) The river used to
+<span id="fn_157"></span>[126:1](moc11.htm#fr_157.md) The river used to
 flow nearer the palace site than it does at present.
 
-<span id="fn_158"></span>[126:2](moc11.htm#fr_158) *Thucydides*, I, 2-4.
+<span id="fn_158"></span>[126:2](moc11.htm#fr_158.md) *Thucydides*, I, 2-4.
 
-<span id="fn_159"></span>[127:1](moc11.htm#fr_159) These and other names
+<span id="fn_159"></span>[127:1](moc11.htm#fr_159.md) These and other names
 were given to the apartments by Sir Arthur Evans.
 
-<span id="fn_160"></span>[128:1](moc11.htm#fr_160) Only one dancing
+<span id="fn_160"></span>[128:1](moc11.htm#fr_160.md) Only one dancing
 figure has survived of this fresco.
 
-<span id="fn_161"></span>[128:2](moc11.htm#fr_161) Or "Ariadne of the
+<span id="fn_161"></span>[128:2](moc11.htm#fr_161.md) Or "Ariadne of the
 lovely tresses".
 
-<span id="fn_162"></span>[128:3](moc11.htm#fr_162) *Iliad*, XVIII, 590
+<span id="fn_162"></span>[128:3](moc11.htm#fr_162.md) *Iliad*, XVIII, 590
 *et seq*. (Derby's translation).
 
-<span id="fn_163"></span>[129:1](moc11.htm#fr_163) These dolphins
+<span id="fn_163"></span>[129:1](moc11.htm#fr_163.md) These dolphins
 resemble closely the so-called "swimming elephants" on Scottish
 sculptured stones. Like the doves they had evidently a religious
 significance. Pausanias tells of a Demeter which held in one hand a
 dolphin and in another a dove.
 
-<span id="fn_164"></span>[131:1](moc11.htm#fr_164) *Homer* (1903), pp.
+<span id="fn_164"></span>[131:1](moc11.htm#fr_164) *Homer* (1903.md), pp.
 130 *et seq*.
 
-<span id="fn_165"></span>[131:2](moc11.htm#fr_165) *The Discoveries in
+<span id="fn_165"></span>[131:2](moc11.htm#fr_165.md) *The Discoveries in
 Crete* (1907), pp. 207 *et seq*.
 
-<span id="fn_166"></span>[132:1](moc11.htm#fr_166) III, 291-300; XIX,
+<span id="fn_166"></span>[132:1](moc11.htm#fr_166.md) III, 291-300; XIX,
 172-9, 188-9, 200, 338.
 
-<span id="fn_167"></span>[132:2](moc11.htm#fr_167) Butcher and Lang's
+<span id="fn_167"></span>[132:2](moc11.htm#fr_167.md) Butcher and Lang's
 *Odyssey*, p. 113.
 
-<span id="fn_168"></span>[132:3](moc11.htm#fr_168) Poseidon in the
+<span id="fn_168"></span>[132:3](moc11.htm#fr_168.md) Poseidon in the
 original.
 
-<span id="fn_169"></span>[136:1](moc11.htm#fr_169) Extracts from the
+<span id="fn_169"></span>[136:1](moc11.htm#fr_169.md) Extracts from the
 Odyssey, Books VII and VIII (Cowper's translation).
 
-<span id="fn_170"></span>[136:2](moc11.htm#fr_170) The Discoveries in
+<span id="fn_170"></span>[136:2](moc11.htm#fr_170.md) The Discoveries in
 Crete, p. 209.
 
-<span id="fn_171"></span>[137:1](moc11.htm#fr_171) *The Discoveries in
+<span id="fn_171"></span>[137:1](moc11.htm#fr_171.md) *The Discoveries in
 Crete*, pp. 209-10.
 
-<span id="fn_172"></span>[141:1](moc11.htm#fr_172) *The Annual of the
+<span id="fn_172"></span>[141:1](moc11.htm#fr_172.md) *The Annual of the
 British School at Athens*, Vol. IX, pp. 74 *et seq*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Races and Myths of Neolithic Crete](moc12)
+[Next: Chapter VII. Races and Myths of Neolithic Crete](moc12.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc00)  [Next](esc02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc00)  [Next](esc02.md) 
 
 ------------------------------------------------------------------------
 
@@ -254,4 +254,4 @@ lot--is the prayer of your servant,
 
 ------------------------------------------------------------------------
 
-[Next: Index](esc02)
+[Next: Index](esc02.md)

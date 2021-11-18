@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg07)  [Next](leg09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg07)  [Next](leg09.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
  
 
 <span id="img_pl14"></span> [![](tn/pl14.jpg)  
-Click to enlarge](img/pl14.jpg)  
+Click to enlarge](img/pl14.jpg.md)  
 PLATE XIV.  
 The Procreation of Horus, son of Isis.
 
@@ -25,9 +25,9 @@ by Chabas, who in 1857 gave a translation of it in the *Revue
 Archéologique*, p. 65 ff., and pointed out the importance of its
 contents with his characteristic ability. The hieroglyphic text was
 first published by Ledrain in his work on the monuments of the
-Bibliothèque Nationale in Paris, <span id="fr_23"></span>[1](#fn_23) and
+Bibliothèque Nationale in Paris, <span id="fr_23"></span>[1](#fn_23.md) and
 I gave a transcript of the text, with transliteration and translation,
-in 1895. <span id="fr_24"></span>[2](#fn_24)
+in 1895. <span id="fr_24"></span>[2](#fn_24.md)
 
 The greater part of the text consists of a hymn to Osiris, which was
 probably composed under the XVIIIth Dynasty, when an extraordinary
@@ -78,7 +78,7 @@ when Set succeeded in killing Osiris during the war which the "good god"
 was waging against him and his fiends. Details of the engagement are
 wanting, but the Pyramid Texts state that the body of Osiris was hurled
 to the ground by Set at a place called Netat, which seems to have been
-near Abydos. <span id="fr_25"></span>[1](#fn_25) The news of the death
+near Abydos. <span id="fr_25"></span>[1](#fn_25.md) The news of the death
 of Osiris was brought to Isis, and she at once set out to find his body.
 All legends agree in saying that she took the form of a bird, and that
 she flew about unceasingly, going hither and thither, and uttering
@@ -98,9 +98,9 @@ essence, wherefrom she produced her child Horus.
 
 This bare statement of the dogma of the conception of Horus does not
 represent all that is known about it, and it may well be supplemented by
-a passage from the Pyramid Texts, <span id="fr_26"></span>[1](#fn_26)
+a passage from the Pyramid Texts, <span id="fr_26"></span>[1](#fn_26.md)
 which reads, "Adoration to thee, O Osiris. <span
-id="fr_27"></span>[2](#fn_27) Rise thou up on thy left side, place
+id="fr_27"></span>[2](#fn_27.md) Rise thou up on thy left side, place
 thyself on thy right side. This water which I give unto thee is the
 water of youth (or rejuvenation). Adoration to thee, O Osiris! Rise thou
 up on thy left side, place thyself on thy right side. This bread which I
@@ -115,18 +115,18 @@ on the plain of Netat." And in another place we
  
 
 <span id="img_pl15"></span> [![](tn/pl15.jpg)  
-Click to enlarge](img/pl15.jpg)  
+Click to enlarge](img/pl15.jpg.md)  
 PLATE XV.
 
 <span id="img_pl16"></span> [![](tn/pl16.jpg)  
-Click to enlarge](img/pl16.jpg)  
+Click to enlarge](img/pl16.jpg.md)  
 PLATE XVI.  
 The Stele recording the casting out of a devil from the Princess of
 Bekhten.
 
 <span id="page_li">p. li</span>
 
-read: <span id="fr_28"></span>[1](#fn_28) "Thy two sisters, Isis and
+read: <span id="fr_28"></span>[1](#fn_28.md) "Thy two sisters, Isis and
 Nephthys, came to thee, Kam-urt, in thy name of Kam-ur, Uatchet-urt, in
 thy name of Uatch-ur" . . . . . . . "Isis and Nephthys weave magical
 protection for thee in the city of Saut, for thee their lord, in thy
@@ -134,7 +134,7 @@ name of 'Lord of Saut,' for their god, in thy name of 'God.' They praise
 thee; go not thou far from them in thy name of 'Tua.' They present
 offerings to thee; be not wroth in thy name of 'Tchentru.' Thy sister
 Isis cometh to thee rejoicing in her love for thee. <span
-id="fr_29"></span>[2](#fn_29) Thou hast union with her, thy seed
+id="fr_29"></span>[2](#fn_29.md) Thou hast union with her, thy seed
 entereth her. She conceiveth in the form of the star Septet (Sothis).
 Horus-Sept issueth from thee in the form of Horus, dweller in the star
 Septet. Thou makest a spirit to be in him in his name 'Spirit dwelling
@@ -169,28 +169,28 @@ the Universe.
 
 ### Footnotes
 
-<span id="fn_23"></span>[xlvii:1](leg08.htm#fr_23) *Les Monuments
+<span id="fn_23"></span>[xlvii:1](leg08.htm#fr_23.md) *Les Monuments
 Égyptiens* (*Cabinet des Médailles et Antiques*), In the *Bibliothèque
 de l'École des Hautes Études*, Paris, 1879-1882, plate xxii. ff.
 
-<span id="fn_24"></span>[xlvii:2](leg08.htm#fr_24) *First Steps in
+<span id="fn_24"></span>[xlvii:2](leg08.htm#fr_24.md) *First Steps in
 Egyptian*, pp. 179-188.
 
-<span id="fn_25"></span>[xlix:1](leg08.htm#fr_25) Pepi I., line 475;
+<span id="fn_25"></span>[xlix:1](leg08.htm#fr_25.md) Pepi I., line 475;
 Pepi II., line 1263.
 
-<span id="fn_26"></span>[l:1](leg08.htm#fr_26) Mer-en-Ra, line 336; Pepi
+<span id="fn_26"></span>[l:1](leg08.htm#fr_26.md) Mer-en-Ra, line 336; Pepi
 II., line 862.
 
-<span id="fn_27"></span>[l:2](leg08.htm#fr_27) I omit the king's names.
+<span id="fn_27"></span>[l:2](leg08.htm#fr_27.md) I omit the king's names.
 
-<span id="fn_28"></span>[li:1](leg08.htm#fr_28) Teta, line 274; Pepi I.,
+<span id="fn_28"></span>[li:1](leg08.htm#fr_28.md) Teta, line 274; Pepi I.,
 line 27; Mer-en-Ra, line 37; and Pepi II., line 67.
 
-<span id="fn_29"></span>[li:2](leg08.htm#fr_29) Pyramid Text, Teta, l.
+<span id="fn_29"></span>[li:2](leg08.htm#fr_29.md) Pyramid Text, Teta, l.
 276.
 
 ------------------------------------------------------------------------
 
 [Next: Summary: VI. A Legend of Khensu Nefer-hetep and the Princess of
-Bekhten](leg09)
+Bekhten](leg09.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes22)  [Next](mes24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes22)  [Next](mes24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -20,7 +20,7 @@ Textual Heritage
 
 ### VIII.
 
-<span id="img_m13900"></span> ![The Harper.](img/m13900.jpg)
+<span id="img_m13900"></span> ![The Harper.](img/m13900.jpg.md)
 
 HAST heard, perchance, there was in days of good ‘Umer  
 A minstrel talented, whose harpings moved the sphere?  
@@ -29,7 +29,7 @@ One pleasure made men's hearts a hundredfold rejoice.
 His song enchanted every gathering where he went,  
 Applause as thunder broke forth, to his heart's content.  
 Like voice of Isrāfīl, whose trump on judgment day, <span
-id="fr_245"></span>[1](#fn_244)  
+id="fr_245"></span>[1](#fn_244.md)  
 Will wake the dead to life, his made the saddest gay.  
 Dear friend to Isrāfīl he was, and mendicant;  
 His notes made plumes to sprout on hide of elephant. <span
@@ -48,18 +48,18 @@ They are not versed in fairies’ ways, their voices small.
 <span id="page_m140">p. 140</span>
 
 ’Tis true, the chants of fairies’ sounds are of this world; <span
-id="fr_246"></span>[1](#fn_245)  
+id="fr_246"></span>[1](#fn_245.md)  
 <span class="margnote"><span id="an_10">10</span></span> But songs sung
 by men's hearts are far above them hurled.  
 Both men and fairies pris’ners are in earthly cage.  
 Both, too, are thralls of sinful ignorance's rage.  
 Read thou the text: "O fairy troop," in book of God. <span
-id="fr_247"></span>[2](#fn_246)  
+id="fr_247"></span>[2](#fn_246.md)  
 Consider, too: "Can ye pass out?" Who holds the rod?
 
 The inward hymn that's sung by all the hearts of saints  
 Commences: "O component parts of that thing <span
-class="smallcaps">not</span>." <span id="fr_248"></span>[3](#fn_247)  
+class="smallcaps">not</span>." <span id="fr_248"></span>[3](#fn_247.md)  
 Now since they take their rise in this <span
 class="smallcaps">not</span>, negative,  
 They put aside the hollow phantom where we live.
@@ -97,7 +97,7 @@ class="margnote"><span id="an_25">25</span></span>
 Go on; 'By Me he hears, by Me he sees;' that's thee;  
 Thou art the head; thou holdest the place of Head's trustee.  
 In ecstasy, since thou art 'He the Lord's who is,' <span
-id="fr_249"></span>[1](#fn_248)  
+id="fr_249"></span>[1](#fn_248.md)  
 I will be thine; for see, ’tis said: 'The Lord is his.'  
 Now will I say to thee: 'Thou art;' and now; 'I am.'  
 What I may say's as clear as is the sun in heaven.  
@@ -113,7 +113,7 @@ When shone upon by Me, like noonday's forthwith bright."
 Through Adam to mankind imparted He the same.  
 Take thou enlightenment from Adam or the Lord.  
 Draw wine as thou mayest list from jar or from the gourd. <span
-id="fr_250"></span>[2](#fn_249)  
+id="fr_250"></span>[2](#fn_249.md)  
 The distance is not great between the gourd and jar.  
 The gourd is not, like thee, made drunk by grape's nectar.  
 Draw water from the brook, or from a pitcher's mouth;  
@@ -124,15 +124,15 @@ Seek light as listest; whether from the moon or sun.
 The moon derives her sheen from daystar's golden tun.  
 Imbibe what light thou canst from any twinkling star.  
 The Prophet said: "Stars are all my disciples." Hear! <span
-id="fr_251"></span>[3](#fn_250)
+id="fr_251"></span>[3](#fn_250.md)
 
 <span id="page_m142">p. 142</span>
 
 He further said: "How happy they who see my face, <span
-id="fr_252"></span>[1](#fn_251)  
+id="fr_252"></span>[1](#fn_251.md)  
 And happy they who look on them in their own place."  
 He said: "Good luck to all who have the happy chance <span
-id="fr_253"></span>[2](#fn_252)  
+id="fr_253"></span>[2](#fn_252.md)  
 To look on my disciples,—mirrors of my glance."  
 If thou by taper's aid proceed to light a lamp,  
 <span class="margnote"><span id="an_40">40</span></span> The eye that
@@ -147,7 +147,7 @@ The light diffused by teachers in these latter days,
 No other is than what was shown by earlier rays.
 
 Our Prophet said: "The breathings of the Lord your God, <span
-id="fr_254"></span>[3](#fn_253)  
+id="fr_254"></span>[3](#fn_253.md)  
 <span class="margnote"><span id="an_45">45</span></span> In these your
 days of pilgrimage, on all sides prod.  
 Your ears and minds lend ye to all signs of the times;  
@@ -171,7 +171,7 @@ One breathing from the Lord, when blown on earth and air,
 Ill qualities converts straight into all that's fair.  
 For fear lest any breathing such as this thee shake,  
 Read thou the text: "They shunned the task to undertake." <span
-id="fr_255"></span>[1](#fn_254)  
+id="fr_255"></span>[1](#fn_254.md)  
 Had not " they shrunk from it," where now would’st thou have been?  
 Had they not feared, would’st thou this grade have ever seen?  
 But yesterday an opening gleamed for better things;  
@@ -179,7 +179,7 @@ Till greed for fleshly morsels stopped the way of kings. <span
 class="margnote"><span id="an_55">55</span></span>
 
 For sake of some such morsel Luqmān was made bail. <span
-id="fr_256"></span>[2](#fn_255)  
+id="fr_256"></span>[2](#fn_255.md)  
 The time's now that for Luqmān morsel’d not avail.  
 The troubles we endure are all for morsel's sake.  
 Be Luqmān. Thou’lt extract the thorn that makes thee ache.  
@@ -211,14 +211,14 @@ Is sometimes by one thorn's point sent to death's domain.
 
 Now Ahmed came; a tender, kind companion, he.  
 "Speak to me, O Humayrā," said he, "speak to me." <span
-id="fr_257"></span>[1](#fn_256)  
+id="fr_257"></span>[1](#fn_256.md)  
 Put thou thy shoe, Humayrā, quick into the fire. <span
-id="fr_258"></span>[2](#fn_257)  
+id="fr_258"></span>[2](#fn_257.md)  
 The rocks will rubies turn, from his feet's blood in mire.  
 This Humayrā's a woman's name, the poet's love.  
 Such is the Arab custom. Soul is meant. Now move.  
 That Soul's no need to fear from being named as girl. <span
-id="fr_259"></span>[3](#fn_258)  
+id="fr_259"></span>[3](#fn_258.md)  
 <span class="margnote"><span id="an_70">70</span></span> Of sex, as male
 or female, that Soul has no twirl.  
 That Soul is far above sex, accident, and mood.  
@@ -242,7 +242,7 @@ Himself he yet esteems endowed with head to-day.
 <span id="page_m145">p. 145</span>
 
 He's clever, and he's knowing, *nil* he's not; anon.  
-Until an angel's nothing, <span id="fr_260"></span>[1](#fn_259) he's a
+Until an angel's nothing, <span id="fr_260"></span>[1](#fn_259.md) he's a
 sheer demon.  
 In word and act a man may be a friend of ours;  
 But when it comes to heart and mind, he huffs and lours.  
@@ -250,18 +250,18 @@ If he from *esse*, reach not *posse's* state, he's *nil;*
 And willingly;—unwillingly, we may worlds fill. <span
 class="margnote"><span id="an_80">80</span></span>  
 The Soul, our God, ’s perfection. Perfect is His "call." <span
-id="fr_261"></span>[2](#fn_260)  
+id="fr_261"></span>[2](#fn_260.md)  
 His Ahmed used to say: "Ensoul us, O Bilāl! <span
-id="fr_262"></span>[3](#fn_261)  
+id="fr_262"></span>[3](#fn_261.md)  
 Lift up thy voice, O Bilāl, thy harmonious voice.  
 Put forth the breath that I infused at thy heart's choice.  
 The breath that ’twas made Adam lose all consciousness;  
 While all the hosts of heaven, too, felt their helplessness."
 
 That Ahmed, Mustafà, at one blest sight stood lost. <span
-id="fr_263"></span>[4](#fn_262)  
+id="fr_263"></span>[4](#fn_262.md)  
 His wedding-night it was. Dawn-worship it him cost. <span
-id="fr_264"></span>[5](#fn_263)  
+id="fr_264"></span>[5](#fn_263.md)  
 He woke not from the sleep his blessed vision shed.  
 Dawn-worship he o’erslept; the sun shone overhead. <span
 class="margnote"><span id="an_85">85</span></span>  
@@ -283,7 +283,7 @@ class="margnote"><span id="an_90">90</span></span>
 A fault it is to eyes of creatures ignorant.  
 But not with God the Lord, our Maker benignant.  
 E’en blasphemy is wisdom with th’ Omnipotent; <span
-id="fr_265"></span>[1](#fn_264)  
+id="fr_265"></span>[1](#fn_264.md)  
 Attributed to mortals, mortal sin patent.  
 If one sole fault be found amidst a hundred truths,  
 ’Tis like a stick that's used to prop sweet flowers’ growths.  
@@ -297,7 +297,7 @@ Their words, their selves, their figures, whate’er these may be,
 Are all Soul Absolute, without a trace to see.  
 Sworn enemy is Body to their spiritual life,  
 Just as one game of backgammon, with names full rife. <span
-id="fr_266"></span>[2](#fn_265)  
+id="fr_266"></span>[2](#fn_265.md)  
 The body goes to earth; is soon reduced to clay;  
 The soul endures like salt, and suffers no decay.  
 The salt, than which Muhammed far more sapid is;  
@@ -377,7 +377,7 @@ She answered him: "To-day of rain there's fallen a deal.
 I'm lost in wonderment to feel thou art not wet;  
 No dampness is there here. I marvel still more yet."  
 He asked: "What veil worest thou God's service to fulfil?" <span
-id="fr_267"></span>[1](#fn_266)  
+id="fr_267"></span>[1](#fn_266.md)  
 She answered: "I a plaid of thine threw o’er my frill."  
 He said: "That plaid it was for which the Lord, to thee,  
 <span class="margnote"><span id="an_130">130</span></span> My lady pure,
@@ -386,7 +386,7 @@ That shower was not of raindrops .from the clouds that fall;
 A shower of mercy ’twas; its cloud and sky, His call."
 
 \["In regions of the soul so many skies are there! <span
-id="fr_268"></span>[2](#fn_267)  
+id="fr_268"></span>[2](#fn_267.md)  
 They issue their commands to spheres of earth and air.  
 The ups and downs in spirit's path form quite a class;  
 So many hills to climb; so many seas to pass."\]—*Sanā’ī*.
@@ -394,14 +394,14 @@ So many hills to climb; so many seas to pass."\]—*Sanā’ī*.
 <span id="page_m149">p. 149</span>
 
 The unseen world has other clouds, and other skies; <span
-id="fr_269"></span>[1](#fn_268)  
+id="fr_269"></span>[1](#fn_268.md)  
 Its sun is different; its water God supplies.  
 Its rain proceeds from other clouds than does our own.  
 God's mercy ’tis that forms that rain when it pours down. <span
 class="margnote"><span id="an_135">135</span></span>  
 Those rains are never seen, save by the eyes of saints.  
 Mere men "by new creation puzzled," <span
-id="fr_270"></span>[2](#fn_269) judge them feints.
+id="fr_270"></span>[2](#fn_269.md) judge them feints.
 
 One rain there is that nourishment brings in its track;  
 Another rain also that works a whole world's wreck.  
@@ -425,7 +425,7 @@ The air still quickens, though dead stumps feel not its power.
 class="margnote"><span id="an_145">145</span></span>
 
 The Prophet gave advice: "From breezes cool, in spring, <span
-id="fr_271"></span>[3](#fn_270)  
+id="fr_271"></span>[3](#fn_270.md)  
 Your bodies cover not; they're invigorating.
 
 <span id="page_m150">p. 150</span>
@@ -447,7 +447,7 @@ Of wisdom, in thy head, a glimmering thou hast;
 Seek then for perfect wisdom; be to it steadfast.  
 Thy partial stock from thence completed thou wilt bring.  
 On neck of flesh completed wisdom put, as ring. <span
-id="fr_272"></span>[1](#fn_271)
+id="fr_272"></span>[1](#fn_271.md)
 
 Thou seest now, applied, the breeze of spring is he,  
 Who, perfect in himself, men perfect helps to be.  
@@ -512,12 +512,12 @@ His brows above his eyes with crupper-straps on par.
 His voice, the former joy of all who might it hear,  
 Was now cracked, out of tune, uncouth, none could it bear.  
 His tones, that might have made dame Venus mad with rage, <span
-id="fr_273"></span>[1](#fn_272)  
+id="fr_273"></span>[1](#fn_272.md)  
 Were now like donkey's brayings in his sinking age.
 
 What is there beautiful that goes not to decay?  
 Where is the roof that will not ruin be one day?  
-Unless it be the words of saint <span id="fr_274"></span>[2](#fn_273)
+Unless it be the words of saint <span id="fr_274"></span>[2](#fn_273.md)
 from God; they'll last  
 <span class="margnote"><span id="an_180">180</span></span> ’Till echoes
 of his voice shall sound in judgment blast.  
@@ -537,7 +537,7 @@ No longer can I earn; I'm now Thy household guest;
 I'll harp for love of Thee, Thou giver of my feast."
 
 His harp on shoulder slung, he went, in quest of God,  
-To burial-ground of Yathrab; <span id="fr_275"></span>[3](#fn_274) sat
+To burial-ground of Yathrab; <span id="fr_275"></span>[3](#fn_274.md) sat
 down on the sod.  
 Said he: "I'll ask of God the hire of my harpstrings;  
 For He accepts the heart's most humble outpourings."
@@ -564,7 +564,7 @@ class="margnote"><span id="an_195">195</span></span>
 With bandaged eyes I'd survey realms without an end;  
 All sorts of flowers I'd gather, yet not soil my hand.  
 Like duck in pond, down deep I'd plunge in honey lake. <span
-id="fr_276"></span>[1](#fn_275)  
+id="fr_276"></span>[1](#fn_275.md)  
 In Job's own fount I'd bathe, in wine .I'd revel make.  
 For Job with wine from heaven was cleansed in every pore;  
 From head to foot he came forth healed, without a sore."
@@ -603,7 +603,7 @@ What say I? No! Not merely Turks and Persians all,
 <span class="margnote"><span id="an_210">210</span></span> The very
 rocks and trees have answered to that call.  
 Each moment's clearly heard: "Am I not, then, your Lord?" <span
-id="fr_277"></span>[1](#fn_276)  
+id="fr_277"></span>[1](#fn_276.md)  
 Ideas and essences became "things" at His word.  
 Had they not answered: "Yes, Thou art our God, O Lord,"  
 From out of nothing straight that answer ’d come, in word!
@@ -625,7 +625,7 @@ Disciples one and all were petrified, perplexed,
 And marvelled what might make its wooden heart so vexed.  
 The Prophet put the question: "What may be thy need?"  
 The column answered: "Prophet, grief my heart makes bleed. <span
-id="fr_278"></span>[1](#fn_277)  
+id="fr_278"></span>[1](#fn_277.md)  
 Against me, in thy sermon, thou’st been used to lean;  
 A pulpit now thou’st mounted; far from me thou’rt seen."  
 The Prophet said: "Thou most affectionate of posts!  
@@ -728,7 +728,7 @@ In words, mayhap, he may detect a hitch or two;
 But his own soul and body witness God is true.
 
 Some stones were held in hand by Abū-Jahl one day. <span
-id="fr_279"></span>[1](#fn_278)  
+id="fr_279"></span>[1](#fn_278.md)  
 Said he to Muhammed: "What hold I here? Now say.
 
 <span id="page_m158">p. 158</span>
@@ -870,7 +870,7 @@ So long as reed has diaphragms, it's not our friend;
 With lips and voice of ours its notes it cannot blend. <span
 class="margnote"><span id="an_310">310</span></span>  
 So long as thou goest round the house, thou waverer art; <span
-id="fr_280"></span>[1](#fn_279)  
+id="fr_280"></span>[1](#fn_279.md)  
 But when thou’st entered, then full ease reigns in thy heart.  
 O thou, whose knowledge of full knowledge is not half,  
 Contrition is, with thee, worse than thy fault, mooncalf.  
@@ -955,7 +955,7 @@ His lord, to anger moved, excuses did reject.
 
 Hence is it, every Muslim, fearing he may stray,  
 In his devotions begs: "Lead Thou us in right way." <span
-id="fr_281"></span>[1](#fn_280)  
+id="fr_281"></span>[1](#fn_280.md)  
 Their substance to dispense suits men of generous mood.  
 A lover's ready gift's his life for his love's good.  
 Dispense thou food for God's sake; food thou’lt surely have.  
@@ -984,7 +984,7 @@ To me, then, lend thy ear; this tale for thee I mean.
 
 In days of old there was a Caliph, as is said,  
 Whose generosity Hātim Tāyī ’d dismayed. <span
-id="fr_282"></span>[1](#fn_281)  
+id="fr_282"></span>[1](#fn_281.md)  
 His fame for liberality went through the land;  
 All poverty, all want, relieved was at his hand.  
 The very sea went dry through his dispensing zest;  
@@ -1006,142 +1006,142 @@ profited,—in praise their voice did lift.
 
 ### Footnotes
 
-<span id="fn_244"></span>[m139:1](mes23.htm#fr_245) Isrāfīl is the angel
+<span id="fn_244"></span>[m139:1](mes23.htm#fr_245.md) Isrāfīl is the angel
 who will blow the last trump, twice. At the first, all living will die;
 at the second, all the dead will rise to be judged. His voice is the
 most musical among all those of the angels.
 
-<span id="fn_245"></span>[m140:1](mes23.htm#fr_246) Our word "fairy" is
+<span id="fn_245"></span>[m140:1](mes23.htm#fr_246.md) Our word "fairy" is
 connected with the Persian "*perī*," used here by the poet instead of
 the Arabic "*jinn*," whence our "genie."
 
-<span id="fn_246"></span>[m140:2](mes23.htm#fr_247) Qur’ān lv. 33.
+<span id="fn_246"></span>[m140:2](mes23.htm#fr_247.md) Qur’ān lv. 33.
 
-<span id="fn_247"></span>[m140:3](mes23.htm#fr_248) That is, it would
+<span id="fn_247"></span>[m140:3](mes23.htm#fr_248.md) That is, it would
 appear: *Individuals created out of nothing*.
 
-<span id="fn_248"></span>[m141:1](mes23.htm#fr_249) That is: The Lord is
+<span id="fn_248"></span>[m141:1](mes23.htm#fr_249.md) That is: The Lord is
 with him who strives on the Lord's side.
 
-<span id="fn_249"></span>[m141:2](mes23.htm#fr_250) A dried gourd, a
+<span id="fn_249"></span>[m141:2](mes23.htm#fr_250.md) A dried gourd, a
 calabash, is commonly used as a wine-decanter.
 
-<span id="fn_250"></span>[m141:3](mes23.htm#fr_251) An apostolic
+<span id="fn_250"></span>[m141:3](mes23.htm#fr_251.md) An apostolic
 tradition.
 
-<span id="fn_251"></span>[m142:1](mes23.htm#fr_252) Also an apostolic
+<span id="fn_251"></span>[m142:1](mes23.htm#fr_252.md) Also an apostolic
 tradition.
 
-<span id="fn_252"></span>[m142:2](mes23.htm#fr_253) Another apostolic
+<span id="fn_252"></span>[m142:2](mes23.htm#fr_253.md) Another apostolic
 tradition.
 
-<span id="fn_253"></span>[m142:3](mes23.htm#fr_254) The traditionary
+<span id="fn_253"></span>[m142:3](mes23.htm#fr_254.md) The traditionary
 saying of Mohammed, of which this section is an amplification, is the
 following:—"Verily your Lord hath, in your time, sundry breathings; lo,
 then, turn ye towards them."
 
-<span id="fn_254"></span>[m143:1](mes23.htm#fr_255) Qur’ān xxxiii. 72.
+<span id="fn_254"></span>[m143:1](mes23.htm#fr_255.md) Qur’ān xxxiii. 72.
 When all things had declined responsibility, Adam voluntarily accepted
 it; was tempted; and fell. Had they not shrunk, man would not have been
 the sinner or the saint that he is.
 
-<span id="fn_255"></span>[m143:2](mes23.htm#fr_256) Luqmān's story may
+<span id="fn_255"></span>[m143:2](mes23.htm#fr_256.md) Luqmān's story may
 be read in D’Herbelot, *voce* "Locman."
 
-<span id="fn_256"></span>[m144:1](mes23.htm#fr_257) Arabian poets sing
+<span id="fn_256"></span>[m144:1](mes23.htm#fr_257.md) Arabian poets sing
 of women; often imaginary. In Persia, this is considered very immodest.
 In Persian poetry, a boy, imaginary also, is always assumed to be the
 beloved object. Muhammed so addressed his youthful wife, ‘Ā’isha.
 Humayrā means Rosina,—*little rosy-cheeks*. See also No. 9, distich 184.
 
-<span id="fn_257"></span>[m144:2](mes23.htm#fr_258) A horse-shoe, as a
+<span id="fn_257"></span>[m144:2](mes23.htm#fr_258.md) A horse-shoe, as a
 charm, with an absent one's name on it, placed in the fire, is supposed
 to exercise a magical influence over him, and make him come there in all
 speed, even though his feet bleed from his haste.
 
-<span id="fn_258"></span>[m144:3](mes23.htm#fr_259) That "Soul" is God,
+<span id="fn_258"></span>[m144:3](mes23.htm#fr_259.md) That "Soul" is God,
 the "*animus mundi*."
 
-<span id="fn_259"></span>[m145:1](mes23.htm#fr_260) Through humility.
+<span id="fn_259"></span>[m145:1](mes23.htm#fr_260.md) Through humility.
 
-<span id="fn_260"></span>[m145:2](mes23.htm#fr_261) The "call" of God is
+<span id="fn_260"></span>[m145:2](mes23.htm#fr_261.md) The "call" of God is
 the call to divine service, the *‘Adhān* (*ezān*).
 
-<span id="fn_261"></span>[m145:3](mes23.htm#fr_262) Bilāl, a negro, was
+<span id="fn_261"></span>[m145:3](mes23.htm#fr_262.md) Bilāl, a negro, was
 the first caller to divine service. He was an early convert, a slave,
 then ‘Abū-Bekr's freedman; then Mu’edhdhin.
 
-<span id="fn_262"></span>[m145:4](mes23.htm#fr_263) Mustafà, *Chosen*,
+<span id="fn_262"></span>[m145:4](mes23.htm#fr_263.md) Mustafà, *Chosen*,
 *Elect*, is one of Muhammed's titles.
 
-<span id="fn_263"></span>[m145:5](mes23.htm#fr_264) The night of his
+<span id="fn_263"></span>[m145:5](mes23.htm#fr_264.md) The night of his
 marriage with Safiyya, after the capture of Khaybar, in the seventh year
 of the Hijra, as he was returning to Medīna. That night has a special
 name, based on this circumstance: *the night of the early morning halt*
 (laylatu ’t-ta‘rīs).
 
-<span id="fn_264"></span>[m146:1](mes23.htm#fr_265) An explanation of
+<span id="fn_264"></span>[m146:1](mes23.htm#fr_265.md) An explanation of
 this wild expression were much to be desired. Doubtless there is one.
 
-<span id="fn_265"></span>[m146:2](mes23.htm#fr_266) There are seven
+<span id="fn_265"></span>[m146:2](mes23.htm#fr_266.md) There are seven
 different Persian games of backgammon. The second of the seven, the one
 mentioned by the poet, is called "Plus" (*Ziyād*). At each throw of the
 dice, one is added, arbitrarily, to each number shown on the two, ace
 becoming deuce, &c. The poet likens the body to this supposititious
 number, the soul alone being real.
 
-<span id="fn_266"></span>[m148:1](mes23.htm#fr_267) In performing her
+<span id="fn_266"></span>[m148:1](mes23.htm#fr_267.md) In performing her
 devotions, a Muslimess has to veil herself, even at home, as though she
 were abroad in public.
 
-<span id="fn_267"></span>[m148:2](mes23.htm#fr_268) These four lines are
+<span id="fn_267"></span>[m148:2](mes23.htm#fr_268.md) These four lines are
 quoted from Sanā'ī, for comment.
 
-<span id="fn_268"></span>[m149:1](mes23.htm#fr_269) This section and the
+<span id="fn_268"></span>[m149:1](mes23.htm#fr_269.md) This section and the
 next two form a comment on Sanā’ī.
 
-<span id="fn_269"></span>[m149:2](mes23.htm#fr_270) Qur’ān l. 14. The
+<span id="fn_269"></span>[m149:2](mes23.htm#fr_270.md) Qur’ān l. 14. The
 "new creation" is the resurrection.
 
-<span id="fn_270"></span>[m149:3](mes23.htm#fr_271) The tradition, in
+<span id="fn_270"></span>[m149:3](mes23.htm#fr_271.md) The tradition, in
 prose, is as follows, quoted by the poet: "Take ye advantage of the
 coolness of spring; it invigorates your bodies, as it acts on plants.
 Avoid ye also the cold of autumn; it acts on your frames as it acts on
 vegetation."
 
-<span id="fn_271"></span>[m150:1](mes23.htm#fr_272) Prisoners and
+<span id="fn_271"></span>[m150:1](mes23.htm#fr_272.md) Prisoners and
 fugitive slaves have iron rings or a kind of wooden pillory fastened
 round their necks to prevent flight or insubordination.
 
-<span id="fn_272"></span>[m152:1](mes23.htm#fr_273) Venus, the musician,
+<span id="fn_272"></span>[m152:1](mes23.htm#fr_273.md) Venus, the musician,
 who inhabits the planet. See Tale iii., dist. 223.
 
-<span id="fn_273"></span>[m152:2](mes23.htm#fr_274) Muhammed.
+<span id="fn_273"></span>[m152:2](mes23.htm#fr_274.md) Muhammed.
 
-<span id="fn_274"></span>[m152:3](mes23.htm#fr_275) The original name of
+<span id="fn_274"></span>[m152:3](mes23.htm#fr_275.md) The original name of
 Medīna,—*Jatrippa*.
 
-<span id="fn_275"></span>[m153:1](mes23.htm#fr_276) Qur’ān xlvii. 17.
+<span id="fn_275"></span>[m153:1](mes23.htm#fr_276.md) Qur’ān xlvii. 17.
 
-<span id="fn_276"></span>[m154:1](mes23.htm#fr_277) Qur’ān vii. 171.
+<span id="fn_276"></span>[m154:1](mes23.htm#fr_277.md) Qur’ān vii. 171.
 
-<span id="fn_277"></span>[m155:1](mes23.htm#fr_278) Tradition relates
+<span id="fn_277"></span>[m155:1](mes23.htm#fr_278.md) Tradition relates
 that at first, Muhammed used to pronounce his sermon seated on the floor
 in the midst of his congregation, with his back against a certain wooden
 pillar. The congregation increasing, he was obliged to adopt the use of
 a raised platform, a kind of pulpit, so as to be seen and heard of all.
 The deserted pillar is the one spoken of.
 
-<span id="fn_278"></span>[m157:1](mes23.htm#fr_279) This is a
+<span id="fn_278"></span>[m157:1](mes23.htm#fr_279.md) This is a
 traditionary legend.
 
-<span id="fn_279"></span>[m161:1](mes23.htm#fr_280) The circumambulation
+<span id="fn_279"></span>[m161:1](mes23.htm#fr_280.md) The circumambulation
 of the "House of God" at Mekka, is one of the ceremonies of a
 pilgrimage, &c.
 
-<span id="fn_280"></span>[m163:1](mes23.htm#fr_281) Qur’ān i. 5.
+<span id="fn_280"></span>[m163:1](mes23.htm#fr_281.md) Qur’ān i. 5.
 
-<span id="fn_281"></span>[m164:1](mes23.htm#fr_282) Hātim Tāyī is the
+<span id="fn_281"></span>[m164:1](mes23.htm#fr_282.md) Hātim Tāyī is the
 proverbial prince of Arabian generosity. Many anecdotes are current
 respecting him. His full name was Hātim, son of ‘Abdu-’llāh, son of
 Sa‘d, of the tribe of Tayyi’. For instances of his generosity, as handed
@@ -1152,4 +1152,4 @@ before the Caliphs ruled. He, too, was a poet.
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Poor Scenite Arab and his Wife](mes24)
+[Next: IX. The Poor Scenite Arab and his Wife](mes24.md)

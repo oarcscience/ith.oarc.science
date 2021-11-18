@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Next](mod01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Next](mod01.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ American](../../index)  [California](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: The Mythology of the Diegueños](mod01)
+[Next: The Mythology of the Diegueños](mod01.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml53)  [Next](yml55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml53)  [Next](yml55.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ they sing and dance the coyote.
 
 ------------------------------------------------------------------------
 
-[Next: Why the Animals Remain Animals](yml55)
+[Next: Why the Animals Remain Animals](yml55.md)

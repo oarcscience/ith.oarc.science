@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](lgh07) 
-[Next](lgh09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](lgh07.md) 
+[Next](lgh09.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ good-fellowship which made them true friends and companions, so that men
 called by their names the bright twin stars, which are most welcome as a
 guiding beacon to mariners voyaging on the uncertain sea. When the
 brothers were now coming and going, as young heroes should, piercing the
-blue Clashers [9](lgh14.htm#xref_9) into the stormy Black Sea with
+blue Clashers [9](lgh14.htm#xref_9.md) into the stormy Black Sea with
 Jason, or vindicating their rights against the unjust sons of Aphareus,
 the two daughters of Tyndareus and Leda still abode in the palace of
 their father. Klytaemnestra was tall and stately like Here, her crisp,
@@ -646,4 +646,4 @@ the world no more.
 
 ------------------------------------------------------------------------
 
-[Next: Helene](lgh09)
+[Next: Helene](lgh09.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst017)  [Next](inst019) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst017)  [Next](inst019.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ value in his sight, because it is not him they worship, but, instead of
 him, the dream and figment of their own heart. This corrupt procedure is
 admirably described by Paul, when he says, that “thinking to be wise,
 they became fools” (<span id="iv.i.v-p7.1"></span>[Rom.
-1:22](../../../bib/kjv/rom001.htm#022)<span id="iv.i.v-p7.1"></span>).
+1:22](../../../bib/kjv/rom001.htm#022)<span id="iv.i.v-p7.1"></span>.md).
 He had previously said that “they became vain in their imaginations,”
 but lest any should suppose them blameless, he afterwards adds that they
 were deservedly blinded, because, not contented with sober inquiry,
@@ -68,8 +68,8 @@ of vain curiosity, but of licentious desire and overweening confidence
 in the pursuit of forbidden knowledge, cannot be excused.
 
 <span id="iv.i.v-p8"></span>2. The expression of David (<span
-id="iv.i.v-p8.1"></span>[Ps. 14:1](../../../bib/kjv/psa014.htm#001),
-[53](../../../bib/kjv/psa014.htm#053)<span id="iv.i.v-p8.1"></span>:1),
+id="iv.i.v-p8.1"></span>[Ps. 14:1](../../../bib/kjv/psa014.htm#001.md),
+[53](../../../bib/kjv/psa014.htm#053)<span id="iv.i.v-p8.1"></span>:1.md),
 “The fool hath said in his heart, There is no God,” is primarily applied
 to those who, as will shortly farther appear, stifle the light of
 nature, and intentionally stupefy themselves. We see many, after they
@@ -89,14 +89,14 @@ makes their hearts dull and heavy, and hence, seeing, they see not.
 David, indeed, is the best interpreter of his own meaning, when he says
 elsewhere, the wicked has “no fear of God before his eyes,” (<span
 id="iv.i.v-p8.2"></span>[Psalm
-36:1](../../../bib/kjv/psa036.htm#001)<span id="iv.i.v-p8.2"></span>);
+36:1](../../../bib/kjv/psa036.htm#001)<span id="iv.i.v-p8.2"></span>.md);
 and, again, “He has said in his heart, God has forgotten; he hideth his
 face; he will never see it.” Thus although they are forced to
 acknowledge that there is some God, they, however, rob him of his glory
 by denying his power. For, as Paul declares, “If we believe not, he
 abideth faithful, he cannot deny himself,” (<span
 id="iv.i.v-p8.3"></span>[2 Tim.
-2:13](../../../bib/kjv/ti2002.htm#013)<span id="iv.i.v-p8.3"></span>);
+2:13](../../../bib/kjv/ti2002.htm#013)<span id="iv.i.v-p8.3"></span>.md);
 so those who feign to themselves a dead and dumb idol, are truly said to
 deny God. It is, moreover, to be observed, that though they struggle
 with their own convictions, and would fain not only banish God from
@@ -126,7 +126,7 @@ Deity is declared by an apostle to be ignorance of God: “Howbeit, then,
 when ye knew not God, ye did service unto them which by nature are no
 gods.” And he elsewhere declares, that the Ephesians were “without God”
 (<span id="iv.i.v-p9.1"></span>[Eph.
-2:12](../../../bib/kjv/eph002.htm#012)<span id="iv.i.v-p9.1"></span>) at
+2:12](../../../bib/kjv/eph002.htm#012)<span id="iv.i.v-p9.1"></span>.md) at
 the time when they wandered without any correct knowledge of him. It
 makes little difference, at least in this respect, whether you hold the
 existence of one God, or a plurality of gods, since, in both cases
@@ -192,4 +192,4 @@ suppressed feelings which ought to have been earlier manifested.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 5. - THE KNOWLEDGE OF GOD CONSPICUOUS IN THE CREATION,
-AND CONTINUAL GOVERNMENT OF THE WORLD.](inst019)
+AND CONTINUAL GOVERNMENT OF THE WORLD.](inst019.md)

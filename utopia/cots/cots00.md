@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Next](cots01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Next](cots01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486430820/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486430820/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ Heritage
 
 ------------------------------------------------------------------------
 
-[Next: The City of the Sun](cots01)
+[Next: The City of the Sun](cots01.md)

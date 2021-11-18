@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](tut06)  [Next](tut08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](tut06)  [Next](tut08.md) 
 
 ------------------------------------------------------------------------
 
@@ -190,7 +190,7 @@ beasts, together with other offerings, made them rich and powerful. The
 waters of the well were believed to spring from the celestial waters of
 Nenu, or Nu, and the Nubian King Piankhi tells us that when he went to
 Anu he bathed his face in the water in which Ra was wont to bathe his
-face. <span id="fr_32"></span>[1](#fn_32) We may note in passing that
+face. <span id="fr_32"></span>[1](#fn_32.md) We may note in passing that
 the Virgin Mary drew water from this well when the Holy Family halted at
 Anu.
 
@@ -271,7 +271,7 @@ The triune god of the Osirian Resurrection. The three members of his triad were 
 
 visited the temple of the sun from time to time in the form of a Bennu
 bird, and alighted "on the Ben-stone, <span
-id="fr_33"></span>[1](#fn_33) in the house of the Bennu in Anu in later
+id="fr_33"></span>[1](#fn_33.md) in the house of the Bennu in Anu in later
 times the Bennu-bird, which
 
 <span id="page_64">p. 64</span>
@@ -353,9 +353,9 @@ god the power and knowledge necessary for governing his people.
 One of the most important events in his life, and one fraught with very
 far-reaching consequences, was his marriage with the lady Ti (or Tei), a
 private individual, apparently of no high rank or social position. <span
-id="fr_34"></span>[1](#fn_34) In the Tall al-'Amarnah letters her name
+id="fr_34"></span>[1](#fn_34.md) In the Tall al-'Amarnah letters her name
 is transcribed Tei. Her father was called Iuau, and her mother Thuau.
-Their tomb was discovered in 1905, <span id="fr_35"></span>[2](#fn_35)
+Their tomb was discovered in 1905, <span id="fr_35"></span>[2](#fn_35.md)
 and it is clear that before the marriage of their daughter to Amenhetep
 III they were humble folk. According to a consensus of modern
 Egyptological opinion they were natives of Egypt, not foreigners as the
@@ -365,7 +365,7 @@ Ti was
  
 
 <span id="img_pl05"></span> [![](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 *Plate V*.  
 Queen Ti, wife of Amenhetep III. From a drawing in Davis's work on her
 tomb (Plate XXXIII).
@@ -373,7 +373,7 @@ tomb (Plate XXXIII).
  
 
 <span id="img_pl06"></span> [![](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
 *Plate VI*.  
 Large steatite scarab recording the slaughter of two hundred and
 twenty-six wild cattle by Amenhetep III. British Museum (Fourth Egyptian
@@ -397,13 +397,13 @@ some twenty or thirty miles south of Koshah, Ti was worshipped as a
 goddess. When Amenhetep married her, or perhaps when he became king, he
 caused a number of unusually large steatite scarabs to be made, with his
 names and titles and those of Ti cut side by side on their bases. <span
-id="fr_36"></span>[1](#fn_36) On another group of large scarabs he
+id="fr_36"></span>[1](#fn_36.md) On another group of large scarabs he
 caused his own names and titles, and the names of Ti and her father Iuau
 and mother Thuau, to be cut, and these are followed by the statement,
 "\[She is\] the wife of the victorious king whose territory in the South
 reaches to Karei (*i.e.*, Napata, at the foot of the Fourth Cataract)
 and in the North to Naharn" (*i.e.* the country of the head waters of
-the Euphrates). <span id="fr_37"></span>[2](#fn_37) Perhaps this is
+the Euphrates). <span id="fr_37"></span>[2](#fn_37.md) Perhaps this is
 another way of saying the great and mighty king Amenhetep was proud to
 marry the daughter of parents of humble birth and to give her a position
 equal to his own. And it is possible, as Maspero suggested long ago,
@@ -452,7 +452,7 @@ year of his reign. And he commemorated the event by making a group of
 large scarabs inscribed on their bases with the statement that in the
 tenth year of his reign Gilukhipa, the daughter of Shutarna, prince of
 Neherna, arrived in Egypt with her ladies and escort of 317
-persons. <span id="fr_38"></span>[1](#fn_38) Exactly when Amenhetep
+persons. <span id="fr_38"></span>[1](#fn_38.md) Exactly when Amenhetep
 married Tushratta's daughter Tatumkhipa is not known, but that he
 received many gifts with her from her father is certain, for a tablet at
 Berlin (No. 296) contains a long list of her wedding gifts from her
@@ -487,13 +487,13 @@ terrified beasts into it. On the occasion which the scarabs commemorate
 170 wild cattle were forced into the enclosure, and then the King in his
 chariot drove in among them and killed 56 of them. A few days later he
 slew 20 more. This *battue* took place in the second year of Amenhetep's
-reign. <span id="fr_39"></span>[1](#fn_39)
+reign. <span id="fr_39"></span>[1](#fn_39.md)
 
 The other group of "Hunt Scarabs" was made in the tenth year of his
 reign, and after enumerating the names and titles of Amenhetep and his
 wife Ti, the inscription states that from the first to the tenth year of
 his reign he shot with his own hand 102 fierce lions. <span
-id="fr_40"></span>[2](#fn_40) No other King of Egypt used the scarab as
+id="fr_40"></span>[2](#fn_40.md) No other King of Egypt used the scarab as
 a vehicle for advertising his personal exploits and private affairs.
 That Amenhetep had some reason for so doing seems clear, but unless it
 was to secularize the sacred symbol of Khepera, or to cast
@@ -513,7 +513,7 @@ won. And this "war" was relatively an unimportant affair. It was
 provoked by the revolt of a few tribes who lived near the foot of the
 Second Cataract, and according to the evidence of the sandstone stele,
 which was set up by Amenhetep to commemorate his victory, he only took
-740 prisoners and killed 312 rebels. <span id="fr_41"></span>[1](#fn_41)
+740 prisoners and killed 312 rebels. <span id="fr_41"></span>[1](#fn_41.md)
 In the Sudan he made a royal progress through the country, and the
 princes and nobles not only acclaimed him as their over-lord but
 worshipped him as their god. And year by year, under the direction of
@@ -598,33 +598,33 @@ befitting an orthodox Pharaoh.
 
 ### Footnotes
 
-<span id="fn_32"></span>[61:1](tut07.htm#fr_32) Stele of Piankhi, l.
+<span id="fn_32"></span>[61:1](tut07.htm#fr_32.md) Stele of Piankhi, l.
 102.
 
-<span id="fn_33"></span>[63:1](tut07.htm#fr_33) Pyramid Texts, II. N.
+<span id="fn_33"></span>[63:1](tut07.htm#fr_33.md) Pyramid Texts, II. N.
 663, p. 372.
 
-<span id="fn_34"></span>[66:1](tut07.htm#fr_34) See Davis, The Tomb of
+<span id="fn_34"></span>[66:1](tut07.htm#fr_34.md) See Davis, The Tomb of
 Queen Tiyi, London, 1910.
 
-<span id="fn_35"></span>[66:2](tut07.htm#fr_35) See Davis, Tomb of
+<span id="fn_35"></span>[66:2](tut07.htm#fr_35.md) See Davis, Tomb of
 Iouiya and Touiyou, London, 1907.
 
-<span id="fn_36"></span>[67:1](tut07.htm#fr_36) For an example see No.
+<span id="fn_36"></span>[67:1](tut07.htm#fr_36.md) For an example see No.
 4094 in the British Museum (Table Case B. Fourth Egyptian Room).
 
-<span id="fn_37"></span>[67:2](tut07.htm#fr_37) See Nos. 4096 and 16988.
+<span id="fn_37"></span>[67:2](tut07.htm#fr_37.md) See Nos. 4096 and 16988.
 
-<span id="fn_38"></span>[69:1](tut07.htm#fr_38) See No. 49707 in the
+<span id="fn_38"></span>[69:1](tut07.htm#fr_38.md) See No. 49707 in the
 British Museum.
 
-<span id="fn_39"></span>[70:1](tut07.htm#fr_39) For a fine example of
+<span id="fn_39"></span>[70:1](tut07.htm#fr_39.md) For a fine example of
 this group of scarabs, see No. 55585 in the British Museum.
 
-<span id="fn_40"></span>[70:2](tut07.htm#fr_40) Fine examples in the
+<span id="fn_40"></span>[70:2](tut07.htm#fr_40.md) Fine examples in the
 British Museum are Nos. 4095, 12520, 24169 and 29438.
 
-<span id="fn_41"></span>[71:1](tut07.htm#fr_41) The stele was made by
+<span id="fn_41"></span>[71:1](tut07.htm#fr_41.md) The stele was made by
 Merimes, Viceroy of the Northern Sudan, and set up by him at Samnah,
 some 30 miles south of Wadi Halfah. It is now in the British Museum.
 (Northern Egyptian Gallery, No. 411, Bay 6.) An illustration of it will
@@ -632,4 +632,4 @@ be found in the Guide, p. 115.
 
 ------------------------------------------------------------------------
 
-[Next: Development of the Cult of Aten Under Amenhetep IV](tut08)
+[Next: Development of the Cult of Aten Under Amenhetep IV](tut08.md)

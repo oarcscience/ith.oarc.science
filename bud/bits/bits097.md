@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits096) [Next](bits098)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits096) [Next](bits098.md)
 
 ------------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ other lay devotees.
 
 ------------------------------------------------------------------------
 
-[Next: § 98. No Buddhist Should Commit Suicide](bits098)
+[Next: § 98. No Buddhist Should Commit Suicide](bits098.md)
 
  
 

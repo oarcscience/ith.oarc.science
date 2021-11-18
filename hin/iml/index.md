@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](iml00)
+[Contents](#contents)    [Start Reading](iml00.md)
 
 ------------------------------------------------------------------------
 
@@ -37,8 +37,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
 This is the Gresham Myths and Legends volume for India. Of course, one
 person's myth is another's religion, in this case nearly a billion
 people. As opposed to most of the other volumes in this series (e.g.
-[Egypt](../../egy/eml/index), [Crete](../../cla/moc/index),
-[Celtic](../../neu/celt/cml/index)), these 'Myths and Legends' are the
+[Egypt](../../egy/eml/index), [Crete](../../cla/moc/index.md),
+[Celtic](../../neu/celt/cml/index).md), these 'Myths and Legends' are the
 basis for contemporary Hindu beliefs. Certainly, many Jews and
 Christians would take offense if the events of the Pentateuch were
 described as 'myths', and I beg the kind indulgence of Hindu readers of
@@ -81,47 +81,47 @@ context, that it was the former usage intended by the author.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](iml00)  
-[Preface](iml01)  
-[Contents](iml02)  
-[Plates in Colour](iml03)  
-[Plates in Monochrome](iml04)  
-[Introduction](iml05)  
-[Chapter I. Indra, King of the Gods](iml06)  
-[Chapter II. The Great Vedic Deities](iml07)  
-[Chapter III. Yama, the First Man, and King of the Dead](iml08)  
-[Chapter IV. Demons and Giants and Fairies](iml09)  
-[Chapter V. Social and Religious Developments of the Vedic Age](iml10)  
+<span id="contents"></span> [Title Page](iml00.md)  
+[Preface](iml01.md)  
+[Contents](iml02.md)  
+[Plates in Colour](iml03.md)  
+[Plates in Monochrome](iml04.md)  
+[Introduction](iml05.md)  
+[Chapter I. Indra, King of the Gods](iml06.md)  
+[Chapter II. The Great Vedic Deities](iml07.md)  
+[Chapter III. Yama, the First Man, and King of the Dead](iml08.md)  
+[Chapter IV. Demons and Giants and Fairies](iml09.md)  
+[Chapter V. Social and Religious Developments of the Vedic Age](iml10.md)  
 [Chapter VI. Mysteries of Creation, the World's Ages, and Soul
-Wandering](iml11)  
+Wandering](iml11.md)  
 [Chapter VII. New Faiths: Vishnu Religion, Buddhism, and
-Jainism](iml12)  
-[Chapter VIII. Divinities of the Epic Period](iml13)  
-[Chapter IX. Prelude to the Great Bharata War](iml14)  
-[Chapter X. Royal Rivals: the Pandavas and Kauravas](iml15)  
-[Chapter XI. The Tournament](iml16)  
-[Chapter XII. First Exile of the Pandavas](iml17)  
-[Chapter XIII. The Choice of Draupadi](iml18)  
-[Chapter XIV. Triumph of the Pandavas](iml19)  
-[Chapter XV. The Great Gambling Match](iml20)  
-[Chapter XVI. Second Exile of the Pandavas](iml21)  
-[Chapter XVII. Defiance of Duryodhana](iml22)  
-[Chapter XVIII. The Battle of Eighteen Days](iml23)  
-[Chapter XIX. Atonement and the Ascent to Heaven](iml24)  
-[Chapter XX. Nala and Damayantí](iml25)  
-[Chapter XXI. Wanderings in the Forest](iml26)  
-[Chapter XXII. Nala in Exile](iml27)  
-[Chapter XXIII. The Homecoming of the King](iml28)  
-[Chapter XXIV. Story of Rama: How Sita was Won](iml29)  
-[Chapter XXV. The Rape of Sita](iml30)  
-[Chapter XXVI. Rama's Mission Fulfilled](iml31)  
+Jainism](iml12.md)  
+[Chapter VIII. Divinities of the Epic Period](iml13.md)  
+[Chapter IX. Prelude to the Great Bharata War](iml14.md)  
+[Chapter X. Royal Rivals: the Pandavas and Kauravas](iml15.md)  
+[Chapter XI. The Tournament](iml16.md)  
+[Chapter XII. First Exile of the Pandavas](iml17.md)  
+[Chapter XIII. The Choice of Draupadi](iml18.md)  
+[Chapter XIV. Triumph of the Pandavas](iml19.md)  
+[Chapter XV. The Great Gambling Match](iml20.md)  
+[Chapter XVI. Second Exile of the Pandavas](iml21.md)  
+[Chapter XVII. Defiance of Duryodhana](iml22.md)  
+[Chapter XVIII. The Battle of Eighteen Days](iml23.md)  
+[Chapter XIX. Atonement and the Ascent to Heaven](iml24.md)  
+[Chapter XX. Nala and Damayantí](iml25.md)  
+[Chapter XXI. Wanderings in the Forest](iml26.md)  
+[Chapter XXII. Nala in Exile](iml27.md)  
+[Chapter XXIII. The Homecoming of the King](iml28.md)  
+[Chapter XXIV. Story of Rama: How Sita was Won](iml29.md)  
+[Chapter XXV. The Rape of Sita](iml30.md)  
+[Chapter XXVI. Rama's Mission Fulfilled](iml31.md)  
 <span id="section_000"></span>
 
 ### Index
 
-[A-C](iml32)  
-[D-G](iml33)  
-[H-L](iml34)  
-[M-P](iml35)  
-[Q-S](iml36)  
-[T-Z](iml37)  
+[A-C](iml32.md)  
+[D-G](iml33.md)  
+[H-L](iml34.md)  
+[M-P](iml35.md)  
+[Q-S](iml36.md)  
+[T-Z](iml37.md)  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre93)  [Next](gre95) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre93)  [Next](gre95.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ did Thorstein keep it going till the evening.
 ------------------------------------------------------------------------
 
 [Next: Chapter XC: How the Lady Spes redeemed Thorstein from the
-Dungeon](gre95)
+Dungeon](gre95.md)

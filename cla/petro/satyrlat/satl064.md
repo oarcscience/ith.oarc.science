@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat10.htm#LXIV) 
-[Previous](satl063)  [Next](satl065) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat10.htm#LXIV.md) 
+[Previous](satl063)  [Next](satl065.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ hilaria".
 
 ------------------------------------------------------------------------
 
-[Next: LXV](satl065)
+[Next: LXV](satl065.md)

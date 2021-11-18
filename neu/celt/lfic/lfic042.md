@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic041)  [Next](lfic043) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic041)  [Next](lfic043.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ use.
 
 ------------------------------------------------------------------------
 
-[Next: The Enchantment of Gearhoidh Iarla](lfic043)
+[Next: The Enchantment of Gearhoidh Iarla](lfic043.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut01)  [Next](mdut03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut01)  [Next](mdut03.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,10 +19,10 @@ thirty years of age, possessed an extensive knowledge of the myths of
 the Maidu of this region. The dialect in which the myths are recorded is
 that of the Northeastern Maidu, of which a grammatical sketch has been
 published in the "Handbook of American Indian Languages." <span
-id="fr_0"></span>[1](#fn_0) English versions of many of these myths have
-already been published, <span id="fr_1"></span>[2](#fn_1) and also a
+id="fr_0"></span>[1](#fn_0.md) English versions of many of these myths have
+already been published, <span id="fr_1"></span>[2](#fn_1.md) and also a
 discussion of the main features of Maidu mythology and its relation to
-that of the surrounding tribes. <span id="fr_2"></span>[3](#fn_2)
+that of the surrounding tribes. <span id="fr_2"></span>[3](#fn_2.md)
 
 The order of arrangement followed, places first the Creation Myth,
 obtained in two parts in successive years. The various tales relating
@@ -38,7 +38,7 @@ those most commonly told, and best known to the stock as a whole.
 In the translation an attempt has been made to give a reasonably free
 rendering, redundant words or repetitions being occasionally omitted,
 and words needed to complete the sense being supplied. <span
-id="fr_3"></span>[1](#fn_3) To the first part of the Creation Myth a
+id="fr_3"></span>[1](#fn_3.md) To the first part of the Creation Myth a
 pretty close interlinear translation is given as well; and it is
 believed that, with this as an indication, there will be little
 difficulty in following the other translations. The paragraphs and
@@ -301,20 +301,20 @@ The vowels are as follows:
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](mdut02.htm#fr_0) Roland B. Dixon, Maidu, an
+<span id="fn_0"></span>[1:1](mdut02.htm#fr_0.md) Roland B. Dixon, Maidu, an
 Illustrative Sketch (Bureau of American Ethnology, Bulletin 40, Part I,
 pp. 679-734). Washington, Government, 1911.
 
-<span id="fn_1"></span>[1:2](mdut02.htm#fr_1) Roland B. Dixon, Maidu
+<span id="fn_1"></span>[1:2](mdut02.htm#fr_1.md) Roland B. Dixon, Maidu
 Myths (American Museum of Natural History, Bulletin, Vol. XVII, pp.
 33-118). New York, 1902.
 
-<span id="fn_2"></span>[1:3](mdut02.htm#fr_2) Journal of American
+<span id="fn_2"></span>[1:3](mdut02.htm#fr_2.md) Journal of American
 Folk-Lore, Vol. XVI (1903), pp. 32-36.
 
-<span id="fn_3"></span>[2:1](mdut02.htm#fr_3) Words thus added to
+<span id="fn_3"></span>[2:1](mdut02.htm#fr_3.md) Words thus added to
 complete the sense are enclosed in parentheses.
 
 ------------------------------------------------------------------------
 
-[Next: Creation Myth.--Part I.](mdut03)
+[Next: Creation Myth.--Part I.](mdut03.md)

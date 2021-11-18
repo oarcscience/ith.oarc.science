@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rama11)  [Next](ramaconc) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rama11)  [Next](ramaconc.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55Q4M/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55Q4M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Ramayana and Mahabharata*, by Romesh C. Dutt, \[1899\], at
 Intangible Textual Heritage
 
@@ -305,4 +305,4 @@ Lone is Rama's loveless bosom and his days of bliss are o'er!
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](ramaconc)
+[Next: Conclusion](ramaconc.md)

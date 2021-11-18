@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv33)  [Next](rsv35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv33)  [Next](rsv35.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ present Chinese influence.
 
 ------------------------------------------------------------------------
 
-[Next: Ancestor Worship](rsv35)
+[Next: Ancestor Worship](rsv35.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac25)  [Next](ybac27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac25)  [Next](ybac27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ themselves in their<span id="img_03500"></span>
 
 |                                               |
 |-----------------------------------------------|
-| ![CORN FESTIVALDRESDEN CODEX](img/03500.jpg) |
+| ![CORN FESTIVALDRESDEN CODEX](img/03500.jpg.md) |
 
 drunkenness. When the carouse is general, and for the sacrifices, all
 contribute to it; when private, the cost is borne by the entertainer,
@@ -52,7 +52,7 @@ in getting their drunken<span id="img_03501"></span>
 
 |                                            |
 |--------------------------------------------|
-| ![FIGURINE FROM ISLA JAINA](img/03501.jpg) |
+| ![FIGURINE FROM ISLA JAINA](img/03501.jpg.md) |
 
 husbands home.
 
@@ -140,7 +140,7 @@ dance with the women.
 [![The &lt;b&gt;tunkul&lt;/b&gt; or Mexican
 &lt;b&gt;teponaztli&lt;/b&gt;; beaten with a rubber-tipped stick it can
 be heard for five or six miles.](tn/03700.jpg)  
-Click to enlarge](img/03700.jpg)  
+Click to enlarge](img/03700.jpg.md)  
 The **tunkul** or Mexican **teponaztli**; beaten with a rubber-tipped
 stick it can be heard for five or six miles.  
 
@@ -153,4 +153,4 @@ Codex); a clay pipe in the form of a lizard.
 ------------------------------------------------------------------------
 
 [Next: XXIII. Industry, Commerce and Money. Agriculture and Seeds.
-Justice and Hospitality](ybac27)
+Justice and Hospitality](ybac27.md)

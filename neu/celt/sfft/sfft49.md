@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft48)  [Next](sfft50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft48)  [Next](sfft50.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -104,7 +104,7 @@ be there without fail."
 
 <span id="page_155">p. 155</span>
 
-So the beans and [sweetmeats](errata.htm#1) were given, and the morn of
+So the beans and [sweetmeats](errata.htm#1.md) were given, and the morn of
 the New Year arrived.
 
 And indeed it was a crowd that filled the great hall of the castle that
@@ -170,7 +170,7 @@ beautiful."
  
 
 <span id="img_15600"></span> <span align="CENTER"> [![](tn/15600.jpg)  
-Click to enlarge](img/15600.jpg)</span>  
+Click to enlarge](img/15600.jpg.md)</span>  
 Thrice whistled Ian na Piob, and there stood in the window the hoodie of
 Rothiemurchus.--Page 156.  
 *Scottish Fairy Tales*.
@@ -247,7 +247,7 @@ will come that day as a witness to the
  
 
 <span id="img_15800"></span> <span align="CENTER"> [![](tn/15800.jpg)  
-Click to enlarge](img/15800.jpg)</span>  
+Click to enlarge](img/15800.jpg.md)</span>  
 Ian na Piob cut off the little toe from his right foot, and the little
 toe from his left foot and gave them to the witch to make trolls'
 broth.--Page 159.  
@@ -525,9 +525,9 @@ a beaker of brose before any one could
  
 
 <span id="img_16600"></span> <span align="CENTER"> [![](tn/16600.jpg)  
-Click to enlarge](img/16600.jpg)</span>  
+Click to enlarge](img/16600.jpg.md)</span>  
 "I beseech you, my lord," said Ian na Sporran, falling on his knees,
-"taste but a drop of that wine"--Page [166](#page_166).  
+"taste but a drop of that wine"--Page [166](#page_166.md).  
 *Scottish Fairy Tales*.
 
  
@@ -693,9 +693,9 @@ jewels that you have stolen!"
  
 
 <span id="img_17201"></span> <span align="CENTER"> [![](tn/17201.jpg)  
-Click to enlarge](img/17201.jpg)</span>  
+Click to enlarge](img/17201.jpg.md)</span>  
 "Come along," cried his wife, seizing the chief by the sleeve and
-pulling him toward the door.--Page [173](#page_173).  
+pulling him toward the door.--Page [173](#page_173.md).  
 *Scottish Fairy Tales*.
 
  
@@ -837,4 +837,4 @@ fair play.
 
 ------------------------------------------------------------------------
 
-[Next: The Scottish Brownie](sfft50)
+[Next: The Scottish Brownie](sfft50.md)

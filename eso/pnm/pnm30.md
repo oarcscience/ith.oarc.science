@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm29)  [Next](pnm31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm29)  [Next](pnm31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -77,7 +77,7 @@ herbs and plants, pulled asunder
 
 <span id="img_09000"></span> <span align="CENTER"> [![GRAND SOLAR
 MAN.](tn/09000.jpg)  
-Click to enlarge](img/09000.jpg)  
+Click to enlarge](img/09000.jpg.md)  
 GRAND SOLAR MAN.  
 </span>
 
@@ -104,4 +104,4 @@ sheep, will make no harmony.
 
 [Next: Chapter XXII. How Inferior Things Are Subjected to Superior
 Bodies, and How the Bodies, the Actions, and Dispositions of Men Are
-Ascribed to Stars and Signs](pnm31)
+Ascribed to Stars and Signs](pnm31.md)

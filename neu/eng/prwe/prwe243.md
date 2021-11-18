@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe242)  [Next](prwe244) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe242)  [Next](prwe244.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ C. S.
 
 ------------------------------------------------------------------------
 
-[Next: Fortune Telling, Charms etc.](prwe244)
+[Next: Fortune Telling, Charms etc.](prwe244.md)

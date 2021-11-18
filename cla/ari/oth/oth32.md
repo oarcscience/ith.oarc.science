@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth31)  [Next](oth33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth31)  [Next](oth33.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ only remaining alternative is that they are generated from one another.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7](oth33)
+[Next: Chapter 7](oth33.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal074)  [Next](njal076) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal074)  [Next](njal076.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ they thought it passing strange, and he fell down dead.
 
 ------------------------------------------------------------------------
 
-[Next: 76. Gunnar's Slaying](njal076)
+[Next: 76. Gunnar's Slaying](njal076.md)

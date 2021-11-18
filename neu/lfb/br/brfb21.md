@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb20)  [Next](brfb22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb20)  [Next](brfb22.md) 
 
 </div>
 
@@ -130,6 +130,6 @@ sure to fly from you; stay still, and she is sure to come.'
 
 ------------------------------------------------------------------------
 
-[Next: The Enchanted Head](brfb22)
+[Next: The Enchanted Head](brfb22.md)
 
 </div>

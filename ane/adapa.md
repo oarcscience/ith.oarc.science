@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------
 
-Return to [Main index](../index)  
-Return to [Ancient Near East index](index)  
+Return to [Main index](../index.md)  
+Return to [Ancient Near East index](index.md)  
 
 ------------------------------------------------------------------------
 

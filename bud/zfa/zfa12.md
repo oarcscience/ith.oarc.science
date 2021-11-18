@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa11)  [Next](zfa13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa11)  [Next](zfa13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,14 +21,14 @@ Heritage
 
 <span id="page_111">p. 111</span>
 
-### THE PHENOMENAL AND THE SUPRAPHENOMENAL <span id="fr_32"></span>[1](#fn_32)
+### THE PHENOMENAL AND THE SUPRAPHENOMENAL <span id="fr_32"></span>[1](#fn_32.md)
 
 <div style="margin-left: 32px">
 
 <span class="small">Anicâ vata sankhâra,  
 Uppâdavaya dhammino;  
 Uppajjitvâ nirujjanti;  
-Tesam vûpasamo sukho <span id="fr_33"></span>[2](#fn_33)</span>
+Tesam vûpasamo sukho <span id="fr_33"></span>[2](#fn_33.md)</span>
 
 </div>
 
@@ -247,8 +247,8 @@ separation of "me" from "thee" is fata morgana, and those who believe in
 their absolute reality are said to be confused. The heart essentially
 free and pure becomes contaminated as soon as it is caught in the meshes
 of egoism, and the result is the production of the three venomous
-desires <span id="fr_34"></span>[1](#fn_34) and the five consuming
-passions. <span id="fr_35"></span>[2](#fn_35) Of course, it would be
+desires <span id="fr_34"></span>[1](#fn_34.md) and the five consuming
+passions. <span id="fr_35"></span>[2](#fn_35.md) Of course, it would be
 madness to deny the relative reality of objects of the senses; no one
 can refute it. But if we go one step further and declare that their
 reality is final and ultimate, we logically put ourselves in the most
@@ -273,11 +273,11 @@ sufferings and tribulations.
 
 ### Footnotes
 
-<span id="fn_32"></span>[111:1](zfa12.htm#fr_32) A sermon
-[delivered](errata.htm#0) at the Buddhist Mission of San Francisco,
+<span id="fn_32"></span>[111:1](zfa12.htm#fr_32.md) A sermon
+[delivered](errata.htm#0.md) at the Buddhist Mission of San Francisco,
 November, 1905.
 
-<span id="fn_33"></span>[111:2](zfa12.htm#fr_33) Translated into
+<span id="fn_33"></span>[111:2](zfa12.htm#fr_33.md) Translated into
 English:
 
 <div style="margin-left: 32px">
@@ -289,12 +289,12 @@ Their termination is bliss.
 
 </div>
 
-<span id="fn_34"></span>[119:1](zfa12.htm#fr_34) Avarice, hatred, and
+<span id="fn_34"></span>[119:1](zfa12.htm#fr_34.md) Avarice, hatred, and
 infatuation.
 
-<span id="fn_35"></span>[119:2](zfa12.htm#fr_35) Inordinate desires
+<span id="fn_35"></span>[119:2](zfa12.htm#fr_35.md) Inordinate desires
 arising from the five senses.
 
 ------------------------------------------------------------------------
 
-[Next: Reply to a Christian Critic](zfa13)
+[Next: Reply to a Christian Critic](zfa13.md)

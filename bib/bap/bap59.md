@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap58) 
-[Next](bap60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap58.md) 
+[Next](bap60.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ and in the last days these things shall be required of thee. 5. And
 Michas went and did all that his mother had commanded him. And he carved
 out and made for himself three images of boys, and of calves, and a lion
 and an eagle and a dragon and a dove. <span
-id="fr_135"></span>[1](#fn_135) And it was so that all that were led
+id="fr_135"></span>[1](#fn_135.md) And it was so that all that were led
 astray came to him, and if any would ask for wives, they
 
 <span id="page_201">p. 201</span>
@@ -121,13 +121,13 @@ if they swear by my name falsely I will not bear their prayer. And when
 the soul parteth from the body, then they shall say: Let us not mourn
 for the things which we have suffered, but because whatsoever we have
 devised, that shall we also receive. <span
-id="fr_136"></span>[1](#fn_136)
+id="fr_136"></span>[1](#fn_136.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_135"></span>[200:1](bap59.htm#fr_135) XLIV. 4, 5. Images of
+<span id="fn_135"></span>[200:1](bap59.htm#fr_135.md) XLIV. 4, 5. Images of
 boys, calves, lion, eagle, dragon, dove. This recalls the furniture of a
 sanctuary of Mithras, in which two torch-bearing youths, Mithras slaying
 a bull, a lion, a serpent, and a bird (not, I think, an eagle) commonly
@@ -136,7 +136,7 @@ appeared.
 The words *ask for* are my rendering of *interrogare pro*: perhaps
 *inquire concerning* would be better.
 
-<span id="fn_136"></span>[203:1](bap59.htm#fr_136) 10. The doctrine that
+<span id="fn_136"></span>[203:1](bap59.htm#fr_136.md) 10. The doctrine that
 the punishment shall be suited to the offence is perhaps first
 enunciated in a crude form in *Jubilees* 4:32. It is a recurrent thought
 in the *Wisdom of Solomon*, and runs through many of the Apocalypses
@@ -149,4 +149,4 @@ there is no hint that he was deprived of them by the Danites.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLV](bap60)
+[Next: Chapter XLV](bap60.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa10)  [Next](smoa12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa10)  [Next](smoa12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -172,4 +172,4 @@ race which called Assyria home.
 
 [Next: Chapter X. The navy of Atlantis. Minerals of the island and
 theories regarding them held by the mineralogists of that day and
-country.](smoa12)
+country.](smoa12.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas018n)  [Next](jas020n)   
- \[[19. Dog and Dog-head.](jas019)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas018n)  [Next](jas020n.md)   
+ \[[19. Dog and Dog-head.](jas019.md)\]
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ For the revenge, compare Rivière, 11; Harris, Nights, 131-132.
 
 ------------------------------------------------------------------------
 
-[Next: Note 20. Tacoomah's Corn-piece.](jas020n)
+[Next: Note 20. Tacoomah's Corn-piece.](jas020n.md)

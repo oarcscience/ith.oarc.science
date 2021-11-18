@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf05)  [Next](fmf07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf05)  [Next](fmf07.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ MORAL: A Good Girl doesn't need any Help.
 
 ------------------------------------------------------------------------
 
-[Next: The Fable of The Good Fellow Who Got the Short End of it](fmf07)
+[Next: The Fable of The Good Fellow Who Got the Short End of it](fmf07.md)

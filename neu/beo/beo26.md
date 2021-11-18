@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo25)  [Next](beo27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo25)  [Next](beo27.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ joy here is a compliment to the sunrise.
 
 ------------------------------------------------------------------------
 
-[Next: Part XXVI](beo27)
+[Next: Part XXVI](beo27.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa02)  [Next](awa04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa02)  [Next](awa04.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ babba, nurang goord nganneel in booma, moondang-um-um waame-ma mogin."
 
 ------------------------------------------------------------------------
 
-[Next: Early Accounts](awa04)
+[Next: Early Accounts](awa04.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -50,25 +50,25 @@ Ebbutt turns in a very enjoyable volume of edifying tales.
 
 ------------------------------------------------------------------------
 
-[Title Page](hml00)  
-[Preface](hml01)  
-[Contents](hml02)  
-[List of Illustrations](hml03)  
-[Introduction](hml04)  
-[Chapter I. Beowulf](hml05)  
-[Chapter II. The Dream of Maxen Wledig](hml06)  
-[Chapter III. The Story of Constantine and Elene](hml07)  
-[Chapter IV: The Compassion of Constantine](hml08)  
-[Chapter V: Havelok the Dane](hml09)  
-[Chapter VI. Howard the Halt](hml10)  
-[Chapter VII. Roland, the Hero of Early France](hml11)  
-[Chapter VIII: The Countess Cathleen](hml12)  
-[Chapter IX: Cuchulain, the Champion of Ireland](hml13)  
-[Chapter X: The Tale of Gamelyn](hml14)  
-[Chapter XI. William of Cloudeslee](hml15)  
-[Chapter XII: Black Colin of Loch Awe](hml16)  
-[Chapter XIII. The Marriage of Sir Gawayne](hml17)  
-[Chapter XIV: King Horn](hml18)  
-[Chapter XV. Robin Hood](hml19)  
-[Chapter XVI. Hereward the Wake](hml20)  
-[Glossary and Index](hml21)  
+[Title Page](hml00.md)  
+[Preface](hml01.md)  
+[Contents](hml02.md)  
+[List of Illustrations](hml03.md)  
+[Introduction](hml04.md)  
+[Chapter I. Beowulf](hml05.md)  
+[Chapter II. The Dream of Maxen Wledig](hml06.md)  
+[Chapter III. The Story of Constantine and Elene](hml07.md)  
+[Chapter IV: The Compassion of Constantine](hml08.md)  
+[Chapter V: Havelok the Dane](hml09.md)  
+[Chapter VI. Howard the Halt](hml10.md)  
+[Chapter VII. Roland, the Hero of Early France](hml11.md)  
+[Chapter VIII: The Countess Cathleen](hml12.md)  
+[Chapter IX: Cuchulain, the Champion of Ireland](hml13.md)  
+[Chapter X: The Tale of Gamelyn](hml14.md)  
+[Chapter XI. William of Cloudeslee](hml15.md)  
+[Chapter XII: Black Colin of Loch Awe](hml16.md)  
+[Chapter XIII. The Marriage of Sir Gawayne](hml17.md)  
+[Chapter XIV: King Horn](hml18.md)  
+[Chapter XV. Robin Hood](hml19.md)  
+[Chapter XVI. Hereward the Wake](hml20.md)  
+[Glossary and Index](hml21.md)  

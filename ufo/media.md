@@ -184,4 +184,4 @@ to all the media and to favored reporters.
 
 ------------------------------------------------------------------------
 
-[Next: Memorandum II](memo)
+[Next: Memorandum II](memo.md)

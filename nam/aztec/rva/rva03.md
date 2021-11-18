@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva02)  [Next](rva04) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva02)  [Next](rva04.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### III. Tlalloc icuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Ahuia Mexico teutlaneuiloc amapanitla anauhcampa, ye moquetzquetl,
 aoyequene y chocaya.
@@ -163,4 +163,4 @@ Society of Philadelphia*, 1883.)
 
 ------------------------------------------------------------------------
 
-[Next: IV. Hymn to the All-Mother.](rva04) 
+[Next: IV. Hymn to the All-Mother.](rva04.md) 

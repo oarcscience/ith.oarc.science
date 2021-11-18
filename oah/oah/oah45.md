@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah44)  [Next](oah46) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah44)  [Next](oah46.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 
 1\. JEHOVIH spake to Ah'shong, saying: On the evening of the third day
 shalt thou move thy etherean ship toward the earth. And when thou
-arrivest within an arrafon <span id="fr_8"></span>[1](#fn_8) thou shalt
+arrivest within an arrafon <span id="fr_8"></span>[1](#fn_8.md) thou shalt
 halt for another three days, that thy magnificence may awe the men and
 angels of earth with the power and glory of My emancipated sons and
 daughters.
@@ -39,7 +39,7 @@ twelve squares shall be called one <span id="page_50">p. 50</span> cube,
 which is the first dividend of the third space, in which there is no
 variation in the vortex of the earth. And four cubes shall be called one
 sum, because the magnitude thereof embraceth one equal of the Great
-Serpent. <span id="fr_9"></span>[2](#fn_9)
+Serpent. <span id="fr_9"></span>[2](#fn_9.md)
 
  
 
@@ -90,14 +90,14 @@ commanded.
 
 ### Footnotes
 
-<span id="fn_8"></span>[49:1](oah45.htm#fr_8) An arrafon is about 20,000
+<span id="fn_8"></span>[49:1](oah45.htm#fr_8.md) An arrafon is about 20,000
 miles
 
-<span id="fn_9"></span>[50:2](oah45.htm#fr_9) Philosophers have long
+<span id="fn_9"></span>[50:2](oah45.htm#fr_9.md) Philosophers have long
 known that some certain measure of ethereal space must be equal to the
 density of the planets for a balance of power. See tablets of
 cosmological prophecies at the latter part of Book of Ben.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](oah46)
+[Next: Chapter III](oah46.md)

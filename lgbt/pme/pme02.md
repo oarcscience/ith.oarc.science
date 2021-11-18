@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](pme01)  [Next](pme03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](pme01)  [Next](pme03.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ A. COFFIGNON. **La Corruption à Paris**. Paris, La Librairie Illustrée.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](pme03)
+[Next: Introduction](pme03.md)

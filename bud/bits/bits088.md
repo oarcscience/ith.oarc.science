@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits087) [Next](bits089)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits087) [Next](bits089.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ to that taste."
 
 ------------------------------------------------------------------------
 
-[Next: § 89. Can the Saint Suffer?](bits089)
+[Next: § 89. Can the Saint Suffer?](bits089.md)
 
  
 

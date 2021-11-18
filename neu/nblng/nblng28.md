@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng27)  [Next](nblng29) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng27)  [Next](nblng29.md) 
 
 ------------------------------------------------------------------------
 
@@ -270,4 +270,4 @@ his men.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XXVII: How They Came To Bechelaren.](nblng29)
+[Next: Adventure XXVII: How They Came To Bechelaren.](nblng29.md)

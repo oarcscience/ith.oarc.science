@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe195)  [Next](prwe197) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe195)  [Next](prwe197.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ stated, is becoming weaker and weaker.--*Colliery Guardian, May* 23,
 
 ------------------------------------------------------------------------
 
-[Next: The Dead Hand](prwe197)
+[Next: The Dead Hand](prwe197.md)

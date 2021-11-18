@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng28)  [Next](vlsng30) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng28)  [Next](vlsng30.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,4 +135,4 @@ goodly wine.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVIII: How the Queens held angry converse together at
-the Bathing.](vlsng30)
+the Bathing.](vlsng30.md)

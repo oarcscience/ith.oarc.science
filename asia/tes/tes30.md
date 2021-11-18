@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes29)  [Next](tes31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes29)  [Next](tes31.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ hurried off at top speed. Ču'mo went in pursuit, kettle and all.
 The fire was burning, the kettle was bubbling, the iron sides were
 clattering as Ču'mo gave chase to the three sisters. After a while he
 approached them. Then the youngest sister took her ivory comb <span
-id="fr_45"></span>[1](#fn_45) and said to it, "O comb of ivory! You were
+id="fr_45"></span>[1](#fn_45.md) and said to it, "O comb of ivory! You were
 a comb, now turn into a mountain of ivory, from earth to heaven, and
 from east to west." She threw the comb back over her shoulder, and it
 turned into a big mountain, from earth to heaven, from east to west. It
@@ -143,7 +143,7 @@ deep, and there was no ford, so that they could not cross it. On the
 other side of the river sat an old woman scraping a skin. "Oh,
 grandmother! help us to cross the river!" "Ah, you dogs! cross it by
 your own skill." "O grandmother! we cannot. Do help us!" The old woman
-stretched one of her legs <span id="fr_46"></span>[1](#fn_46) across the
+stretched one of her legs <span id="fr_46"></span>[1](#fn_46.md) across the
 river like a bridge, and they crossed over on it. "Where do you come
 from?" asked the old woman. "We ran away from Ču'mo. He wanted to eat
 us, but we burned him in a river of fire."--"O, you dogs! Ču'mo is my
@@ -153,7 +153,7 @@ storehouse, and hurried to help Ču'mo.
 (After this follows the well-known episode detailing how the Fox saved
 the girls from the She-Monster, leaving in their stead clothes filled
 with twigs and ashes to be swallowed by the Monster. <span
-id="fr_47"></span>[2](#fn_47) The narrator, however, declared that she
+id="fr_47"></span>[2](#fn_47.md) The narrator, however, declared that she
 had forgotten the details, and left the tale unfinished.)
 
 Told by Anne Vastriakoff, a Russianized Yukaghir woman, in the village
@@ -164,17 +164,17 @@ the autumn of 1896.
 
 ### Footnotes
 
-<span id="fn_45"></span>[63:1](tes30.htm#fr_45) See [p.
-9](tes04.htm#page_9), note 3.
+<span id="fn_45"></span>[63:1](tes30.htm#fr_45.md) See [p.
+9](tes04.htm#page_9.md), note 3.
 
-<span id="fn_46"></span>[64:1](tes30.htm#fr_46) See Waterman, T. T.,
+<span id="fn_46"></span>[64:1](tes30.htm#fr_46.md) See Waterman, T. T.,
 "The Explanatory Element in the Folk-Tales of the North American
 Indians" (Journal of American Folk-Lore, vol. 27 (1914), 43, under Crane
 Bridge.--F. B.
 
-<span id="fn_47"></span>[64:2](tes30.htm#fr_47) Compare, for instance,
+<span id="fn_47"></span>[64:2](tes30.htm#fr_47.md) Compare, for instance,
 Bogoras, "Chukchee Materials." 408.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 10. Yukaghir Tale](tes31)
+[Next: 10. Yukaghir Tale](tes31.md)

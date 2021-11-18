@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc08)  [Next](scc10) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc08)  [Next](scc10.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ until the water had disappeared. The earth was there.
 
 ------------------------------------------------------------------------
 
-[Next: 8.--Pohonichi Miwok. The Theft Of Fire.](scc10)
+[Next: 8.--Pohonichi Miwok. The Theft Of Fire.](scc10.md)

@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](mcm03)  [Next](mcm05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](mcm03)  [Next](mcm05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Musings of a Chinese Mystic*, by Lionel Giles, \[1906\], at Intangible
 Textual Heritage
 
@@ -148,7 +148,7 @@ evidently an attribute rather than a thing in itself, and it is T‘ien
 which has now become the First Cause. It is a less impersonal
 conception, however, than Lao Tzŭ's transcendental Tao, and in fact
 closely approximates to our own term "God." <span
-id="fr_0"></span>[1](#fn_0) What, then, is Chuang Tzŭ's Tao? Though by
+id="fr_0"></span>[1](#fn_0.md) What, then, is Chuang Tzŭ's Tao? Though by
 no means always clear and consistent on the subject, he seems to regard
 it as the "Virtue" or manifestation of the divine First Principle. It is
 what he somewhere calls "the happiness of God,"—which to the Taoist of
@@ -171,7 +171,7 @@ becomes a mystic moral principle not unlike Lao Tzŭ's Tê, or "Virtue,"
 and the latter term when used at all has lost most of its technical
 significance. Thus broadly stated, some such explanation will prove
 helpful to the reader, though he may still be baffled by a passage like
-the following: "A man looks upon God <span id="fr_1"></span>[1](#fn_1)
+the following: "A man looks upon God <span id="fr_1"></span>[1](#fn_1.md)
 as upon his father, and loves Him in like measure. Shall he, then, not
 love that which is greater than God?" The truth is that neither
 consistency of thought nor exact terminology can be looked for in
@@ -246,7 +246,7 @@ but a state of mental abstraction which shall involve at least a total
 absence of self-consciousness. In order to explain his thought more
 clearly, he gives a number of vivid illustrations from life, such as the
 parable of Prince Hui's cook, who devoted himself to Tao and worked with
-his mind and not with his eye. <span id="fr_2"></span>[1](#fn_2) He
+his mind and not with his eye. <span id="fr_2"></span>[1](#fn_2.md) He
 shows that the highest pitch of manual dexterity is attained only by
 those whose art has become their second nature, who have grown so
 familiar with their work that all their movements seem to come
@@ -335,7 +335,7 @@ great trouble and no result, except certain injury
 
 to oneself." There must be no blind and rigid adherence to custom and
 tradition, no unreasoning worship of antiquity. "Dress up a monkey in
-the robes of Chou Kung, <span id="fr_3"></span>[1](#fn_3) and it will
+the robes of Chou Kung, <span id="fr_3"></span>[1](#fn_3.md) and it will
 not be happy until they are torn to shreds. And the difference between
 past and present," he adds bitterly, "is much the same as the difference
 between Chou Kung and a monkey." The rebuke conveyed in these remarks is
@@ -380,7 +380,7 @@ expected, in
 
 <span id="page_26">p. 26</span>
 
-his alleged interviews with Lao Tzŭ. <span id="fr_4"></span>[1](#fn_4)
+his alleged interviews with Lao Tzŭ. <span id="fr_4"></span>[1](#fn_4.md)
 But in other places again he is represented as an earnest inquirer after
 truth, or even cited as an acknowledged authority. He quotes words which
 now stand in the *Tao Tê Ching*, and generally behaves more like a
@@ -434,7 +434,7 @@ outside. Needless to say, there is a fount of deep, almost fierce,
 earnestness in the man as well. But he never loses a certain delicacy of
 touch which lends peculiar aptness to the sobriquet of "butterfly,"
 bestowed on him in allusion to his famous dream. <span
-id="fr_5"></span>[1](#fn_5) To these qualities must be added, in order
+id="fr_5"></span>[1](#fn_5.md) To these qualities must be added, in order
 to complete a faint sketch of this unique figure in Chinese literature,
 a recurrent strain of pervasive melancholy, a mournful brooding over
 "the doubtful doom of humankind." Take, for instance, these few lines
@@ -455,7 +455,7 @@ flashes of literary
 inspiration. He is said to have shone in his verbal conflicts with Hui
 Tzŭ, but the specimens of his dialectic that have been preserved are,
 perhaps, more subtle than convincing. The episode of the minnows under
-the bridge <span id="fr_6"></span>[1](#fn_6) only proves that in arguing
+the bridge <span id="fr_6"></span>[1](#fn_6.md) only proves that in arguing
 with a sophist he could himself descend to sophistry naked and
 unabashed.
 
@@ -534,7 +534,7 @@ From kindred poetic souls he has obtained more generous recognition. The
 great Po Chü-i, of the Tang dynasty, with whom he appears to have been a
 special favourite, was inspired by the perusal of his works to write
 three short poems, one of which contains the following stanzas <span
-id="fr_7"></span>[1](#fn_7):
+id="fr_7"></span>[1](#fn_7.md):
 
 PEACEFUL OLD AGE
 
@@ -675,33 +675,33 @@ than repelled by the rather fantastic vagaries of his mysticism.
 
 ### Footnotes
 
-<span id="fn_0"></span>[16:1](mcm04.htm#fr_0) It is translated thus in
+<span id="fn_0"></span>[16:1](mcm04.htm#fr_0.md) It is translated thus in
 the accompanying extracts.
 
-<span id="fn_1"></span>[17:1](mcm04.htm#fr_1) T‘ien.
+<span id="fn_1"></span>[17:1](mcm04.htm#fr_1.md) T‘ien.
 
-<span id="fn_2"></span>[20:1](mcm04.htm#fr_2) See [p.
-52](mcm08.htm#page_52).
+<span id="fn_2"></span>[20:1](mcm04.htm#fr_2.md) See [p.
+52](mcm08.htm#page_52.md).
 
-<span id="fn_3"></span>[24:1](mcm04.htm#fr_3) A great jurist and social
+<span id="fn_3"></span>[24:1](mcm04.htm#fr_3.md) A great jurist and social
 reformer of the twelfth century <span class="smallcaps">B.C.</span>,
 brother of the first sovereign of the Chou dynasty.
 
-<span id="fn_4"></span>[26:1](mcm04.htm#fr_4) Lao Tzŭ himself does not
-escape entirely. See the curious episode on [p. 82](mcm13.htm#page_82)
+<span id="fn_4"></span>[26:1](mcm04.htm#fr_4.md) Lao Tzŭ himself does not
+escape entirely. See the curious episode on [p. 82](mcm13.htm#page_82.md)
 of the present volume.
 
-<span id="fn_5"></span>[28:1](mcm04.htm#fr_5) See [p.
-50](mcm07.htm#page_50).
+<span id="fn_5"></span>[28:1](mcm04.htm#fr_5.md) See [p.
+50](mcm07.htm#page_50.md).
 
-<span id="fn_6"></span>[29:1](mcm04.htm#fr_6) See [p.
-110](mcm16.htm#page_110).
+<span id="fn_6"></span>[29:1](mcm04.htm#fr_6.md) See [p.
+110](mcm16.htm#page_110.md).
 
-<span id="fn_7"></span>[32:1](mcm04.htm#fr_7) My friend Mr. L.
+<span id="fn_7"></span>[32:1](mcm04.htm#fr_7.md) My friend Mr. L.
 Cranmer-Byng has kindly added the wings of his verse to my literal prose
 translation. All three poems will be found at the end of the section on
 Chuang in the great T‘u Shu encyclopædia.
 
 ------------------------------------------------------------------------
 
-[Next: The Doctrine of Relativity](mcm05)
+[Next: The Doctrine of Relativity](mcm05.md)

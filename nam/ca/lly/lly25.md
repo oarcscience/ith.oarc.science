@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly24)  [Next](lly26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly24)  [Next](lly26.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Tu-tok-a-nu-la.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of Tu-tok-a-nu-la And Tis-sa-ack](lly26)
+[Next: The Legend Of Tu-tok-a-nu-la And Tis-sa-ack](lly26.md)

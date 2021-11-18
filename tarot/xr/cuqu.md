@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  
-[Previous](cupa)  [Next](pe02)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index.md)  
+[Previous](cupa)  [Next](pe02.md)
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ From the <a href="../pkt/pktcuqu">Pictorial Key to the Tarot</a>, 1911.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Two of Pentacles](pe02)
+[Next: Two of Pentacles](pe02.md)

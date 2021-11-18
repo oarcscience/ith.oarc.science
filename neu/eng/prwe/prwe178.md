@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe177)  [Next](prwe179) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe177)  [Next](prwe179.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ bad luck.
 
 ------------------------------------------------------------------------
 
-[Next: Kenidzhak Witch](prwe179)
+[Next: Kenidzhak Witch](prwe179.md)

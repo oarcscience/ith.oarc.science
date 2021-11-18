@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb14)  [Next](orfb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb14)  [Next](orfb16.md) 
 
 </div>
 
@@ -472,6 +472,6 @@ died the princess's husband reigned in his stead.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Manus](orfb16)
+[Next: The Story of Manus](orfb16.md)
 
 </div>

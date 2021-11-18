@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Thelema](../../index) 
-[Frater Achad](../index)  [Index](index)  [Previous](inri00) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Thelema](../../index.md) 
+[Frater Achad](../index)  [Index](index)  [Previous](inri00.md) 
 
 ------------------------------------------------------------------------
 
@@ -186,7 +186,7 @@ whose Centre the Creative Word issued in the birth of<span
 class="margnote">Spirit.</span> the dawning Universe." Thou has learned
 to be "Prompt and active as the Sylphs, but to avoid frivolity and
 caprice; to be energetic and strong like the Salamanders, but to avoid
-[irritability](errata.htm#0) and ferocity; to be flexible and attentive
+[irritability](errata.htm#0.md) and ferocity; to be flexible and attentive
 to<span class="margnote">Elementals.</span> images like the Undines, but
 to avoid idleness and changeability; to be laborious and patient like
 the Gnomes, but to avoid grossness and avarice." Thou must not forget

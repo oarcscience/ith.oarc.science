@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst060)  [Next](inst062) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst060)  [Next](inst062.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ our safety. A full exposition of this difference.
 higher, namely, whither Christ calls his disciples when he says, that
 every one of them must “take up his cross,” (<span
 id="iv.iii.ix-p15.1"></span>[Mt.
-16:24](../../../bib/kjv/mat016.htm#024)<span
+16:24](../../../bib/kjv/mat016.htm#024.md)<span
 id="iv.iii.ix-p15.1"></span>). Those whom the Lord has chosen and
 honoured with his intercourse must prepare for a hard, laborious,
 troubled life, a life full of many and various kinds of evils; it being
@@ -89,7 +89,7 @@ on earth, but his whole life was nothing else than a kind of perpetual
 cross. The Apostle assigns the reason, “Though he was a Son, yet learned
 he obedience by the things which he suffered,” (<span
 id="iv.iii.ix-p15.2"></span>[Heb.
-5:8](../../../bib/kjv/heb005.htm#008)<span
+5:8](../../../bib/kjv/heb005.htm#008.md)<span
 id="iv.iii.ix-p15.2"></span>). Why then should we exempt ourselves from
 that condition to which Christ our Head behoved to submit; especially
 since he submitted on our account, that he might in his own person
@@ -102,12 +102,12 @@ labyrinth of many woes, so we too are conducted thither through various
 tribulations. For, in another passage, Paul himself thus speaks, “we
 must through much tribulation enter the kingdom of God,” (<span
 id="iv.iii.ix-p15.3"></span>[Acts
-14:22](../../../bib/kjv/act014.htm#022)<span
+14:22](../../../bib/kjv/act014.htm#022.md)<span
 id="iv.iii.ix-p15.3"></span>); and again, “that I may know him, and the
 power of his resurrection, and the fellowship of his sufferings, being
 made conformable unto his death,” (<span
 id="iv.iii.ix-p15.4"></span>[Rom
-8:29](../../../bib/kjv/rom008.htm#029)<span
+8:29](../../../bib/kjv/rom008.htm#029.md)<span
 id="iv.iii.ix-p15.4"></span>). How powerfully should it soften the
 bitterness of the cross, to think that the more we are afflicted with
 adversity, the surer we are made of our fellowship with Christ; by
@@ -139,8 +139,8 @@ of the cross. This feeling gained even upon David, “In my prosperity I
 Said, I shall never be moved. Lord, by thy favour thou hast made my
 mountain to stand strong: thou didst hide thy face, and I was troubled,”
 (<span id="iv.iii.ix-p16.1"></span>[Ps.
-30:6](../../../bib/kjv/psa030.htm#006),
-[7](../../../bib/kjv/psa030.htm#007)<span id="iv.iii.ix-p16.1"></span>).
+30:6](../../../bib/kjv/psa030.htm#006.md),
+[7](../../../bib/kjv/psa030.htm#007)<span id="iv.iii.ix-p16.1"></span>.md).
 He confesses that in prosperity his feelings were dulled and blunted, so
 that, neglecting the grace of God, on which alone he ought to have
 depended, he leant to himself, and promised himself perpetuity. If it so
@@ -188,8 +188,8 @@ forward openly the strength and constancy of endurance with which he has
 provided his servants, he is said to try their patience. Hence the
 expressions that God tempted Abraham (<span
 id="iv.iii.ix-p18.1"></span>[Gen.
-21:1](../../../bib/kjv/gen021.htm#001),
-[12](../../../bib/kjv/gen021.htm#012)<span
+21:1](../../../bib/kjv/gen021.htm#001.md),
+[12](../../../bib/kjv/gen021.htm#012.md)<span
 id="iv.iii.ix-p18.1"></span>), and made proof of his piety by not
 declining to sacrifice his only son. Hence, too, Peter tells us that our
 faith is proved by tribulation, just as gold is tried in a furnace of
@@ -222,7 +222,7 @@ the rider, whose command before they implicitly obeyed. And we
 invariably become what God complains of in the people of Israel—waxing
 gross and fat, we kick against him who reared and nursed us (<span
 id="iv.iii.ix-p19.1"></span>[Deut.
-32:15](../../../bib/kjv/deu032.htm#015)<span
+32:15](../../../bib/kjv/deu032.htm#015.md)<span
 id="iv.iii.ix-p19.1"></span>). The kindness of God should allure us to
 ponder and love his goodness; but since such is our malignity, that we
 are invariably corrupted by his indulgence, it is more than necessary
@@ -250,7 +250,7 @@ is not to be founded chiefly on the acknowledgment of sin. For Scripture
 supplies a far better consideration when it says, that in adversity “we
 are chastened of the Lord, that we should not be condemned with the
 world,” (<span id="iv.iii.ix-p20.1"></span>[1 Cor.
-11:32](../../../bib/kjv/co1011.htm#032)<span
+11:32](../../../bib/kjv/co1011.htm#032.md)<span
 id="iv.iii.ix-p20.1"></span>). Therefore, in the very bitterness of
 tribulation we ought to recognise the kindness and mercy of our Father,
 since even then he ceases not to further our salvation. For he afflicts,
@@ -260,8 +260,8 @@ Scripture elsewhere teaches: “My son, despise not the chastening of the
 Lord; neither be weary of his correction: For whom the Lord loveth he
 correcteth; even as a father the son in whom he delighteth,” (<span
 id="iv.iii.ix-p20.2"></span>[Prov.
-3:11](../../../bib/kjv/pro003.htm#011),
-[12](../../../bib/kjv/pro003.htm#012)<span
+3:11](../../../bib/kjv/pro003.htm#011.md),
+[12](../../../bib/kjv/pro003.htm#012.md)<span
 id="iv.iii.ix-p20.2"></span>). When we perceive our Father’s rod, is it
 not our part to behave as obedient docile sons rather than rebelliously
 imitate desperate men, who are hardened in wickedness? God dooms us to
@@ -269,7 +269,7 @@ destruction, if he does not, by correction, call us back when we have
 fallen off from him, so that it is truly said, “If ye be without
 chastisement,” “then are ye bastards, and not sons,” (<span
 id="iv.iii.ix-p20.3"></span>[Heb.
-12:8](../../../bib/kjv/heb012.htm#008)<span
+12:8](../../../bib/kjv/heb012.htm#008.md)<span
 id="iv.iii.ix-p20.3"></span>). We are most perverse then if we cannot
 bear him while he is manifesting his good-will to us, and the care which
 he takes of our salvation. Scripture states the difference between
@@ -293,7 +293,7 @@ to endanger life, fortune, or honour, let us not grieve or decline so
 far to spend ourselves for God; let us not think ourselves wretched in
 those things in which he with his own lips has pronounced us blessed
 (<span id="iv.iii.ix-p21.1"></span>[Mt.
-5:10](../../../bib/kjv/mat005.htm#010)<span
+5:10](../../../bib/kjv/mat005.htm#010.md)<span
 id="iv.iii.ix-p21.1"></span>). Poverty, indeed considered in itself, is
 misery; so are exile, contempt, imprisonment, ignominy: in fine, death
 itself is the last of all calamities. But when the favour of God
@@ -302,7 +302,7 @@ to our happiness. Let us then be contented with the testimony of Christ
 rather than with the false estimate of the flesh, and then, after the
 example of the Apostles, we will rejoice in being “counted worthy to
 suffer shame for his name,” (<span id="iv.iii.ix-p21.2"></span>[Acts
-5:41](../../../bib/kjv/act005.htm#041)<span
+5:41](../../../bib/kjv/act005.htm#041.md)<span
 id="iv.iii.ix-p21.2"></span>). For why? If, while conscious of our
 innocence, we are deprived of our substance by the wickedness of man, we
 are, no doubt, humanly speaking, reduced to poverty; but in truth our
@@ -322,17 +322,17 @@ hand of the Lord, especially since this form of the cross is the most
 appropriate to believers, being that by which Christ desires to be
 glorified in us, as Peter also declares (<span
 id="iv.iii.ix-p22.1"></span>[1 Pet.
-4:11](../../../bib/kjv/pe1004.htm#011),
-[14](../../../bib/kjv/pe1004.htm#014)<span
+4:11](../../../bib/kjv/pe1004.htm#011.md),
+[14](../../../bib/kjv/pe1004.htm#014.md)<span
 id="iv.iii.ix-p22.1"></span>). But as to ingenuous natures, it is more
 bitter to suffer disgrace than a hundred deaths, Paul expressly reminds
 us that not only persecution, but also disgrace awaits us, “because we
 trust in the living God,” (<span id="iv.iii.ix-p22.2"></span>[1 Tim.
-4:10](../../../bib/kjv/ti1004.htm#010)<span
+4:10](../../../bib/kjv/ti1004.htm#010.md)<span
 id="iv.iii.ix-p22.2"></span>). So in another passage he bids us, after
 his example, walk “by evil report and good report,” (<span
 id="iv.iii.ix-p22.3"></span>[2 Cor.
-6:8](../../../bib/kjv/co2006.htm#008)<span
+6:8](../../../bib/kjv/co2006.htm#008.md)<span
 id="iv.iii.ix-p22.3"></span>). The cheerfulness required, however, does
 not imply a total insensibility to pain. The saints could show no
 patience under the cross if they were not both tortured with pain and
@@ -353,8 +353,8 @@ moderation and patience, Paul elegantly describes in these words: “We
 are troubled on every side, yet not distressed; we are perplexed, but
 not in despair; persecuted, but not forsaken; cast down, but not
 destroyed,” (<span id="iv.iii.ix-p23.1"></span>[2 Cor.
-4:8](../../../bib/kjv/co2004.htm#008),
-[9](../../../bib/kjv/co2004.htm#009)<span id="iv.iii.ix-p23.1"></span>).
+4:8](../../../bib/kjv/co2004.htm#008.md),
+[9](../../../bib/kjv/co2004.htm#009)<span id="iv.iii.ix-p23.1"></span>.md).
 You see that to bear the cross patiently is not to have your feelings
 altogether blunted, and to be absolutely insensible to pain, according
 to the absurd description which the Stoics of old gave of their hero as
@@ -373,18 +373,18 @@ Master condemned—not only in word, but also by his own example. For he
 both grieved and shed tears for his own and others’ woes. Nor did he
 teach his disciples differently: “Ye shall weep and lament, but the
 world shall rejoice,” (<span id="iv.iii.ix-p23.2"></span>[John
-16:20](../../../bib/kjv/joh016.htm#020)<span
+16:20](../../../bib/kjv/joh016.htm#020.md)<span
 id="iv.iii.ix-p23.2"></span>). And lest any one should regard this as
 vicious, he expressly declares, “Blessed are they that mourn,” (<span
 id="iv.iii.ix-p23.3"></span>[Mt.
-5:4](../../../bib/kjv/mat005.htm#004)<span
+5:4](../../../bib/kjv/mat005.htm#004.md)<span
 id="iv.iii.ix-p23.3"></span>). And no wonder. If all tears are
 condemned, what shall we think of our Lord himself, whose “sweat was as
 it were great drops of blood falling down to the ground?” (<span
 id="iv.iii.ix-p23.4"></span>[Luke
-22:44](../../../bib/kjv/luk022.htm#044)<span
+22:44](../../../bib/kjv/luk022.htm#044.md)<span
 id="iv.iii.ix-p23.4"></span>; <span id="iv.iii.ix-p23.5"></span>[Mt.
-26:38](../../../bib/kjv/mat026.htm#038)<span
+26:38](../../../bib/kjv/mat026.htm#038.md)<span
 id="iv.iii.ix-p23.5"></span>). If every kind of fear is a mark of
 unbelief, what place shall we assign to the dread which, it is said, in
 no slight degree amazed him; if all sadness is condemned, how shall we
@@ -409,7 +409,7 @@ girdedst thyself and walkedst whither thou wouldst; but when thou shalt
 be old, thou shalt stretch forth thy hands, and another shall gird thee;
 and carry thee whither thou wouldest not,” (<span
 id="iv.iii.ix-p24.1"></span>[John
-21:18](../../../bib/kjv/joh021.htm#018)<span
+21:18](../../../bib/kjv/joh021.htm#018.md)<span
 id="iv.iii.ix-p24.1"></span>). It is not probable, indeed, that when it
 became necessary to glorify God by death he was driven to it unwilling
 and resisting; had it been so, little praise would have been due to his
@@ -456,7 +456,7 @@ mercy lays upon us? Is it not most right that our flesh should be
 subdued, and be, as it were, accustomed to the yoke, so as not to rage
 and wanton as it lists? Are not the justice and the truth of God worthy
 of our suffering on their account?39  <span
-id="fr_391"></span>[392](#fn_391) But if the equity of God is
+id="fr_391"></span>[392](#fn_391.md) But if the equity of God is
 undoubtedly displayed in affliction, we cannot murmur or struggle
 against them without iniquity. We no longer hear the frigid cant, Yield,
 because it is necessary; but a living and energetic precept, Obey,
@@ -481,7 +481,7 @@ of the cross with spiritual joy.
 
 ### Footnotes
 
-<span id="fn_391"></span>[392](inst061.htm#fr_391) <span
+<span id="fn_391"></span>[392](inst061.htm#fr_391.md) <span
 id="iv.iii.ix-p25.1"></span>
 
 <span id="iv.iii.ix-p26"></span>98 398 See end of sec. 4, and sec. 5, 7,
@@ -489,4 +489,4 @@ id="iv.iii.ix-p25.1"></span>
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER 9. - OF MEDITATING ON THE FUTURE LIFE.](inst062)
+[Next: CHAPTER 9. - OF MEDITATING ON THE FUTURE LIFE.](inst062.md)

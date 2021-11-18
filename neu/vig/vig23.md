@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig22)  [Next](vig24) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig22)  [Next](vig24.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ for several nights with all honour.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI](vig24)
+[Next: Chapter XXI](vig24.md)

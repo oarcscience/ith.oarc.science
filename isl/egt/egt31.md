@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt30)  [Next](egt32) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt30)  [Next](egt32.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ action, created its product for whatever possesses power.
 
 [Next: ON THE PROVERBS AND ADMONITIONS 'POVERTY IS BLACKNESS OF THE
 FACE' (THE RECITAL OF PROVERBS IS THE BEST OF DISCOURSES) AND 'THE WORLD
-IS A HOUSE OF DEPARTURE AND CHANGING AFFAIRS AND MIGRATION.'](egt32)
+IS A HOUSE OF DEPARTURE AND CHANGING AFFAIRS AND MIGRATION.'](egt32.md)

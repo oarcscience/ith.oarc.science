@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,15 +19,15 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](mom00)  
-[Preface to the French Edition](mom01)  
-[Table of Contents](mom02)  
-[List of Illustrations](mom03)  
-[The Origins Of Mithraism](mom04)  
-[The Dissemination of Mithraism in the Roman Empire](mom05)  
-[Mithra and the Imperial Power of Rome](mom06)  
-[The Doctrine of the Mithraic Mysteries](mom07)  
-[The Mithraic Liturgy, Clergy and Devotees](mom08)  
-[Mithraism and the Religions of the Empire](mom09)  
-[Mithraic Art](mom10)  
-[Index](mom11)  
+[Title Page](mom00.md)  
+[Preface to the French Edition](mom01.md)  
+[Table of Contents](mom02.md)  
+[List of Illustrations](mom03.md)  
+[The Origins Of Mithraism](mom04.md)  
+[The Dissemination of Mithraism in the Roman Empire](mom05.md)  
+[Mithra and the Imperial Power of Rome](mom06.md)  
+[The Doctrine of the Mithraic Mysteries](mom07.md)  
+[The Mithraic Liturgy, Clergy and Devotees](mom08.md)  
+[Mithraism and the Religions of the Empire](mom09.md)  
+[Mithraic Art](mom10.md)  
+[Index](mom11.md)  

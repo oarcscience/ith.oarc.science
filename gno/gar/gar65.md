@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar64)  [Next](gar66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar64)  [Next](gar66.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -62,17 +62,17 @@ inconsistent with the ostensible object of their institution; making
 alliances with any of the neighbouring Emirs able to assist them in
 holding their own against the common enemy, the Soldan of Egypt; amongst
 whom figures conspicuously that arch-Gnostic, the redoubtable "Old Man
-of the Mountain." <span id="fr_256"></span>[\*](#fn_254)
+of the Mountain." <span id="fr_256"></span>[\*](#fn_254.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_254"></span>[418:\*](gar65.htm#fr_256) His practice of
+<span id="fn_254"></span>[418:\*](gar65.htm#fr_256.md) His practice of
 intoxicating the neophyte with *hashish* (extract of hemp) before
 admission into his terrestrial paradise, gave the sect the name,
 afterwards accepted by the Italians in its present opprobrious sense.
 
 ------------------------------------------------------------------------
 
-[Next: Profession of Continence](gar66)
+[Next: Profession of Continence](gar66.md)

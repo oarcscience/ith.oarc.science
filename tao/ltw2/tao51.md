@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao51)   
-[Previous](tao50)  [Next](tao52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao51.md)   
+[Previous](tao50)  [Next](tao52.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ with them. This is the profound teh of the mysterious TAO.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 52](tao52)
+[Next: Chapter 52](tao52.md)

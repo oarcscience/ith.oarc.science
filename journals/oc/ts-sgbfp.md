@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Return
-to Article](ts-sgb.htm#page_399_fr_*)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Return
+to Article](ts-sgb.htm#page_399_fr_*.md)
 
 ------------------------------------------------------------------------
 
@@ -11,4 +11,4 @@ THE SEVEN GODS OF BLISS.
 
 ------------------------------------------------------------------------
 
-[Return to Article](ts-sgb.htm#page_399_fr_*)
+[Return to Article](ts-sgb.htm#page_399_fr_*.md)

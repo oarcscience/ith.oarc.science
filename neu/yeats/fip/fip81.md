@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip80)  [Next](fip82) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip80)  [Next](fip82.md) 
 
 ------------------------------------------------------------------------
 
-### CUSHEEN LOO.--Page [33](fip09.htm#page_33).
+### CUSHEEN LOO.--Page [33](fip09.htm#page_33.md).
 
 Forts, otherwise raths or royalties, are circular ditches enclosing a
 little field, where, in most cases, if you dig down you come to stone
@@ -22,4 +22,4 @@ at men or cattle.
 
 ------------------------------------------------------------------------
 
-[Next: Legend of Knockgrafton](fip82)
+[Next: Legend of Knockgrafton](fip82.md)

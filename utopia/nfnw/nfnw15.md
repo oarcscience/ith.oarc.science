@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](nfnw14)  [Next](nfnw16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](nfnw14)  [Next](nfnw16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -311,4 +311,4 @@ questions, and then I have done for to-day."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: Dinner In The Hall Of The Bloomsbury Market](nfnw16)
+[Next: Chapter XVI: Dinner In The Hall Of The Bloomsbury Market](nfnw16.md)

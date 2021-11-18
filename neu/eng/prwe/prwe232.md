@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe231)  [Next](prwe233) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe231)  [Next](prwe233.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,4 +167,4 @@ other hero, and may be regarded in the light of an anti-masque
 
 ------------------------------------------------------------------------
 
-[Next: Geese-Dancing - Plough Monday](prwe233)
+[Next: Geese-Dancing - Plough Monday](prwe233.md)

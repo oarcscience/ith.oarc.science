@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai18)  [Next](jai20) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai18)  [Next](jai20.md) 
 
 ------------------------------------------------------------------------
 
@@ -344,4 +344,4 @@ plastic, and of higher mental energy.
 
 ------------------------------------------------------------------------
 
-[Next: Modern Restraints](jai20)
+[Next: Modern Restraints](jai20.md)

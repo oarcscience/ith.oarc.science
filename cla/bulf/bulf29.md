@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf28) [Next](bulf30) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf28) [Next](bulf30.md) 
 
 # CHAPTER XXX.
 
@@ -380,4 +380,4 @@ inaction and resolving to set forth again in quest of new adventures:
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XXXI. Adventures Of Aeneas- The Harpies- Dido-
-Palinurius.](bulf30)
+Palinurius.](bulf30.md)

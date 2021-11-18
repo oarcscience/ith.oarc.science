@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg14)  [Next](btg16) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg14)  [Next](btg16.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ request and would preach the doctrine.
 
 ------------------------------------------------------------------------
 
-[Next: Founding The Kingdom](btg16)
+[Next: Founding The Kingdom](btg16.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo63)  [Next](hoo65) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo63)  [Next](hoo65.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ Come, and your mystics bless with bounteous mind.
 
 ------------------------------------------------------------------------
 
-[Next: LX: To Nemesis](hoo65)
+[Next: LX: To Nemesis](hoo65.md)

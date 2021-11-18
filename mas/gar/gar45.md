@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar44)  [Next](gar46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar44)  [Next](gar46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -212,8 +212,8 @@ bodies, and by which their motions are directed; investigate the power
 by which they circulate in their orbs, discover their size, determine
 their distance, explain their various phenomena, and correct the fallacy
 of the senses by the light of truth. <span
-id="fr_25"></span>[\*](gar46.htm#fn_25)
+id="fr_25"></span>[\*](gar46.htm#fn_25.md)
 
 ------------------------------------------------------------------------
 
-[Next: Emblem of Plenty Explained](gar46)
+[Next: Emblem of Plenty Explained](gar46.md)

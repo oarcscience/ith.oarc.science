@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw04)  [Next](rvw06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw04)  [Next](rvw06.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ laws.
 
 ------------------------------------------------------------------------
 
-[Next: Section VI](rvw06)
+[Next: Section VI](rvw06.md)

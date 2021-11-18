@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err10)  [Next](err12) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err10)  [Next](err12.md) 
 
 ------------------------------------------------------------------------
 
@@ -229,7 +229,7 @@ they have not found as yet the great chariot.
 
 "After this burial the spirit of Bovo returned at night to his palace,
 which he adorned with all possible magnificence, and illuminated
-brilliantly. <span id="fr_18"></span>[1](#fn_18) And all the multitude
+brilliantly. <span id="fr_18"></span>[1](#fn_18.md) And all the multitude
 seeing this illumination and festival could not imagine what it meant,
 knowing that the prince Bovo was alone. But one evening certain bold
 spirits among them, moved by curiosity, knocked at the gate, but there
@@ -1317,9 +1317,9 @@ Shakespeare.
 
 ### Footnotes
 
-<span id="fn_18"></span>[140:1](err11.htm#fr_18) The sequel indicates
+<span id="fn_18"></span>[140:1](err11.htm#fr_18.md) The sequel indicates
 that this was only done temporarily, by magic illusion or glamour.
 
 ------------------------------------------------------------------------
 
-[Next: Part One: Chapter IX--IL SPIRITO DEL SCALDINO](err12)
+[Next: Part One: Chapter IX--IL SPIRITO DEL SCALDINO](err12.md)

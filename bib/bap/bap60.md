@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap59) 
-[Next](bap61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap59.md) 
+[Next](bap61.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ us to enter in
 
 there. And he came thither and sat in the street of the city. And no man
 said unto him: Come into my house. 2. But there was there a certain
-Levite whose name was Bethac. <span id="fr_137"></span>[1](#fn_137) The
+Levite whose name was Bethac. <span id="fr_137"></span>[1](#fn_137.md) The
 same saw him and said unto him: Art thou Beel of my tribe? And he said:
 I am. And he said to him: Knowest thou not the wickedness of them that
 dwell in this city? Who counselled thee to enter in hither? Haste and go
@@ -96,7 +96,7 @@ together unto Silo and said every man to his neighbour: Hath such
 iniquity been done in Israel?
 
 6\. And the Lord said unto the Adversary: <span
-id="fr_138"></span>[1](#fn_138) Seest thou how this foolish people is
+id="fr_138"></span>[1](#fn_138.md) Seest thou how this foolish people is
 disturbed? In the hour when they should have died, even when Michas
 dealt craftily to deceive the people with these, *that is*, with the
 dove and the eagle and with the image of men and calves and of a lion
@@ -109,17 +109,17 @@ sinners.
 
 ### Footnotes
 
-<span id="fn_137"></span>[204:1](bap60.htm#fr_137) XLV. 1, 2. As noted
+<span id="fn_137"></span>[204:1](bap60.htm#fr_137.md) XLV. 1, 2. As noted
 above, the Benjamites' crime is transferred from Gibeah to Nob.
 
 The name Bethac occurs again in LII. 1. Hophni and Phinehas lived near
 the house of Bethac.
 
-<span id="fn_138"></span>[205:1](bap60.htm#fr_138) 6. *The adversary,
+<span id="fn_138"></span>[205:1](bap60.htm#fr_138.md) 6. *The adversary,
 Anticiminus*. This sudden introduction of a personage nowhere else named
 in the book is very curious. That Satan (probably called Mastema in the
 original, as in *Jubilees*) is meant, I do not doubt.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLVI](bap61)
+[Next: Chapter XLVI](bap61.md)

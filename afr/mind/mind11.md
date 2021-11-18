@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mind10)  [Next](mind12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mind10)  [Next](mind12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *At the Back of the Black Man's Mind*, by Richard Edward Dennett,
 \[1906\], at Intangible Textual Heritage
 
@@ -550,6 +550,6 @@ devil.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 12. Sacred Lands and Rivers](mind12)
+[Next: Chapter 12. Sacred Lands and Rivers](mind12.md)
 
 </div>

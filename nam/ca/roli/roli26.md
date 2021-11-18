@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli25)  [Next](roli27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli25)  [Next](roli27.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 ### ANCESTRAL LANDMARKS AND DESCENT OF SONGS.
 
 After the water dried, the people went on to Kalaupa, <span
-id="fr_306"></span>[290](#fn_300) and killed a bear there, and held a
+id="fr_306"></span>[290](#fn_300.md) and killed a bear there, and held a
 council whether they should go any further. They decided to go on, and
 went to Elsinore where the lake is. From there they scattered, north,
 south, east, and west, in parties as they are now. The people of La
@@ -42,12 +42,12 @@ Rincon in the field below the store, was one of Pio Amago's ancestors,
 and he has a song about it. It mentions Temecula and mentions Wasimul.
 Lucario cannot sing this song because it does not belong to his family.
 
-Piyevla, <span id="fr_307"></span>[291](#fn_301) the man who scooped out
+Piyevla, <span id="fr_307"></span>[291](#fn_301.md) the man who scooped out
 a rock on the hill near Albañas's house at La Jolla, was one of
 Lucario's ancestors; and the turtle rock in the same locality was
 brought from Temecula by one of Lucario's ancestors and left there. The
 oak tree growing on this rocky knoll was called long ago Pecheya, sacred
-feather headdress. ([Pl. 4, fig. 1](roli32.htm#img_pl04).) The place
+feather headdress. ([Pl. 4, fig. 1](roli32.htm#img_pl04)..md) The place
 itself is called
 
 <span id="page_159">p. 159</span>
@@ -56,18 +56,18 @@ Popikvo. The sliding place on a large rock in Trujillo's field adjoining
 Popikvo, was made smooth by Lucario's ancestors sliding on it.
 
 One of the most striking rocks in this locality of ancient monuments is
-the painted rock, Exwanyawish <span id="fr_308"></span>[292](#fn_302)
+the painted rock, Exwanyawish <span id="fr_308"></span>[292](#fn_302.md)
 which was one of the Temecula people, a woman, who turned into this
 form. Indians suffering bodily pain rub against the rock to obtain
 relief. It is not known when the painting on the hollowed side was done,
 nor when the sacred stones, wiala, were poised on top. The oldest man
 remembers that they were always there, though the touch of a hand might
-overturn them. ([Pl. 4, fig. 2](roli32.htm#img_pl04).)
+overturn them. ([Pl. 4, fig. 2](roli32.htm#img_pl04)..md)
 
 In those days they used to sing songs to kill each other by witchcraft,
 and Lucario knows these songs. He has one of them which mentions the
 turtle rock, and tells how it was left there. <span
-id="fr_309"></span>[293](#fn_303) The large flat rock is divided by
+id="fr_309"></span>[293](#fn_303.md) The large flat rock is divided by
 cracks which resemble the marks on the turtle's back.
 
 Lucario is the last of his line, party, or clan, and everything sacred
@@ -80,7 +80,7 @@ localities as having been theirs. They did not travel great distances,
 according to tradition. Salvador says that when the people scattered
 from Temecula all the tribes had names, but many are dead and few now
 living. He does not know the name of his own tribe. They are called by
-themselves Western people. <span id="fr_310"></span>[294](#fn_304) When
+themselves Western people. <span id="fr_310"></span>[294](#fn_304.md) When
 they scattered, the people traveled in parties of two or three families,
 and they would claim the land where they stopped, though they might have
 left it and gone further and others might have occupied it later. This
@@ -127,21 +127,21 @@ in this family.
 
 ### Footnotes
 
-<span id="fn_300"></span>[158:290](roli26.htm#fr_306) Kalaupa, mountain
+<span id="fn_300"></span>[158:290](roli26.htm#fr_306.md) Kalaupa, mountain
 near Santa Margarita.—S.
 
-<span id="fn_301"></span>[158:291](roli26.htm#fr_307) See the story of
+<span id="fn_301"></span>[158:291](roli26.htm#fr_307.md) See the story of
 the Dance of the Spirits, ante.—Peyevla, a hollow rock near Potrero.—S.
 
-<span id="fn_302"></span>[159:292](roli26.htm#fr_308) Exvongawish (x
+<span id="fn_302"></span>[159:292](roli26.htm#fr_308.md) Exvongawish (x
 German ch), of Exva, a place near Temecula; Exvayam, people of Exva.—S.
 
-<span id="fn_303"></span>[159:293](roli26.htm#fr_309) See song record
+<span id="fn_303"></span>[159:293](roli26.htm#fr_309.md) See song record
 396, above.
 
-<span id="fn_304"></span>[159:294](roli26.htm#fr_310) The Diegueño also
+<span id="fn_304"></span>[159:294](roli26.htm#fr_310.md) The Diegueño also
 give themselves this name.
 
 ------------------------------------------------------------------------
 
-[Next: Clans Or Traditional Groups](roli27)
+[Next: Clans Or Traditional Groups](roli27.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Next](note)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Next](note.md)
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Note](note)
+[Next: Note](note.md)

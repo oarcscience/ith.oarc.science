@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](salt10)  [Next](salt12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](salt10)  [Next](salt12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sayings of Lao-Tzu*, Lionel Giles translation \[1905\], at
 Intangible Textual Heritage
 
@@ -88,7 +88,7 @@ despite their sagacity they must go far astray. This is a mystery of
 great import.
 
 As unwrought material is divided up and made into serviceable vessels,
-so the Sage turns his simplicity <span id="fr_8"></span>[\*](#fn_8) to
+so the Sage turns his simplicity <span id="fr_8"></span>[\*](#fn_8.md) to
 account, and thereby becomes the ruler of rulers.
 
 The course of things is such that what was in front is now behind; what
@@ -134,7 +134,7 @@ grandsons will worship at his shrine, which shall endure from generation
 to generation.
 
 Knowledge in harmony is called constant. Constant knowledge is called
-wisdom. <span id="fr_9"></span>[\*](#fn_9) Increase of life is called
+wisdom. <span id="fr_9"></span>[\*](#fn_9.md) Increase of life is called
 felicity. The mind directing the body is called strength.
 
 Be square without being angular. Be honest without being mean. Be
@@ -181,7 +181,7 @@ A great principle cannot be divided; therefore
 <span id="page_52">p. 52</span>
 
 it is that many containers cannot contain it. <span
-id="fr_10"></span>[\*](#fn_10)
+id="fr_10"></span>[\*](#fn_10.md)
 
 The Sage knows what is in him, but makes no display; he respects
 himself, but seeks not honour for himself.
@@ -221,21 +221,21 @@ Way of the Sage, in whose actions there is no element of strife.
 
 ### Footnotes
 
-<span id="fn_8"></span>[49:\*](salt11.htm#fr_8) There is a play on the
+<span id="fn_8"></span>[49:\*](salt11.htm#fr_8.md) There is a play on the
 word *p’u*, simplicity, the original meaning of which is "unwronght
 material."
 
-<span id="fn_9"></span>[50:\*](salt11.htm#fr_9) There must always be a
+<span id="fn_9"></span>[50:\*](salt11.htm#fr_9.md) There must always be a
 due harmony between mind and body, neither of them being allowed to
 outstrip the other. Under such circumstances, the mental powers will be
 constant, invariable, always equally ready for use when called upon. And
 such a mental condition is what Lao Tzŭ here calls "wisdom"
 
-<span id="fn_10"></span>[52:\*](salt11.htm#fr_10) That is, a principle
+<span id="fn_10"></span>[52:\*](salt11.htm#fr_10.md) That is, a principle
 which applies to the whole applies also to a part. Because you may
 divide the containing whole, you are not at liberty to divide the
 principle.
 
 ------------------------------------------------------------------------
 
-[Next: Lao Tzŭ On Himself](salt12)
+[Next: Lao Tzŭ On Himself](salt12.md)

@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod09)  [Next](eod11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod09)  [Next](eod11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -92,7 +92,7 @@ that water played a part in reproduction was co-related with this fact.
 Even at the present time many aboriginal peoples in Australia, New
 Guinea, and elsewhere, are not aware of the fact that in the process of
 animal reproduction the male exercises the physiological rile of
-fertilization. <span id="fr_45"></span>[1](#fn_45)
+fertilization. <span id="fr_45"></span>[1](#fn_45.md)
 
 There are widespread indications throughout the world that the
 appreciation of this elementary physiological knowledge was acquired at
@@ -120,14 +120,14 @@ necessary for the maintenance of life in plants and was also essential
 in the form of drink for animals. As both the earth and women could be
 fertilized by water they were homologized one with the other. The earth
 came to be regarded as a woman, the Great Mother. <span
-id="fr_46"></span>[1](#fn_46) When the fertilizing water came to be
+id="fr_46"></span>[1](#fn_46.md) When the fertilizing water came to be
 personified in the person of Osiris his consort Isis was identified with
 the earth which was fertilized by water. <span
-id="fr_47"></span>[2](#fn_47)
+id="fr_47"></span>[2](#fn_47.md)
 
 One of the earliest pictures of an Egyptian king represents him using
 the hoe to inaugurate the making of an irrigation-canal. <span
-id="fr_48"></span>[3](#fn_48) This was the typical act of benevolence on
+id="fr_48"></span>[3](#fn_48.md) This was the typical act of benevolence on
 the part of a wise ruler. It is not unlikely that the earliest
 organization of a community under a definite leader may have been due to
 the need for some systematized control of irrigation. In any case the
@@ -136,7 +136,7 @@ regulators of the water supply and as such the givers of fertility and
 prosperity.
 
 Once men first consciously formulated the belief that death was not the
-end of all things, <span id="fr_49"></span>[4](#fn_49) that the body
+end of all things, <span id="fr_49"></span>[4](#fn_49.md) that the body
 could be re-animated and
 
 <span id="page_30">p. 30</span>
@@ -156,7 +156,7 @@ king, Osiris, nor that he controlled the waters of irrigation and was
 specially interested in agriculture. Nor, for the reasons that I have
 already suggested, is it surprising that he should have had phallic
 attributes, and in himself have personified the virile powers of
-fertilization. <span id="fr_50"></span>[1](#fn_50)
+fertilization. <span id="fr_50"></span>[1](#fn_50.md)
 
 In attempting to explain the origin of the ritual procedures of burning
 incense and offering libations it is essential to realize that the
@@ -195,7 +195,7 @@ For reasons which I have suggested already it is probable that the
 significance of water in cultivation was not realized until cereals were
 cultivated in some such place as Babylonia or Egypt. But there are very
 definite legends of the Babylonian Ea coming from abroad by way of the
-Persian Gulf. <span id="fr_51"></span>[1](#fn_51) The early history of
+Persian Gulf. <span id="fr_51"></span>[1](#fn_51.md) The early history of
 Tammuz is veiled in obscurity. Somewhere in South Western Asia or North
 Eastern Africa, probably within a few years of the development of the
 art of agriculture, some scientific theorist, interpreting the body of
@@ -275,7 +275,7 @@ phenomena refused any longer to be a sponsor. This was the parting of
 the ways between science and religion; and thenceforth the attributes of
 the "gods" became definitely and admittedly superhuman.
 
-As I have already stated ([p. 23](eod08.htm#page_23)) the original
+As I have already stated ([p. 23](eod08.htm#page_23).md) the original
 object of the offering of libations was thus clearly for the purpose of
 animating the statue of the deceased and so enabling him to continue the
 existence which had merely been interrupted by the incident of death. In
@@ -289,7 +289,7 @@ But not only was water regarded as a means of animating the dead, or
 statues representing the dead, and an appropriate act of worship, in
 that it vitalized an idol and the god dwelling in it was thus able to
 hear and answer supplications. Water also became an essential part of
-any act of ritual rebirth. <span id="fr_52"></span>[1](#fn_52) As a
+any act of ritual rebirth. <span id="fr_52"></span>[1](#fn_52.md) As a
 baptism it also symbolized the giving of life. The initiate was re-born
 into a new communion of faith. In scores of other ways the same
 conception of the life-giving properties of water was responsible for as
@@ -317,7 +317,7 @@ this idea that the dead could be reanimated in a stone statue no doubt
 prepared the minds of the people to credit the further belief, which
 other circumstances were responsible for creating, that men could be
 turned into stone. In the next chapter I shall explain how these
-petrifaction stories developed. <span id="fr_53"></span>[1](#fn_53)
+petrifaction stories developed. <span id="fr_53"></span>[1](#fn_53.md)
 
 All the rich crop of myths concerning men and animals dwelling in stones
 which are to be found encircling the globe from Ireland to America, can
@@ -332,7 +332,7 @@ even pictures, of food-animals, vegetables, and other requisites of the
 dead. And these objects and pictures were restored to life or reality by
 means of a ritual which was essentially identical with that used for
 animating the statue or the mummy of the deceased himself. <span
-id="fr_54"></span>[2](#fn_54)
+id="fr_54"></span>[2](#fn_54.md)
 
 It is well worth considering whether this may not be one of the basal
 factors in explanation of the phenomena which the late Sir Edward Tylor
@@ -352,7 +352,7 @@ animistic fashion. But is not this due in some measure to the
 unconscious influence of their elders? Or at most is it not a vague and
 ill-defined attitude of anthropomorphism necessarily involved in all
 spoken languages, which is vastly different from what the ethnologist
-understands by "animism" <span id="fr_55"></span>[1](#fn_55)?
+understands by "animism" <span id="fr_55"></span>[1](#fn_55.md)?
 
 But whether this be so or not, there can be no doubt that the "animism"
 of the early Egyptians assumed its precise and clear-cut distinctive
@@ -366,7 +366,7 @@ realities. But it is important to emphasize the fact that originally the
 conviction of the genuineness of this transubstantiation was a logical
 and not unnatural inference based upon the attempt to interpret natural
 phenomena, and then to influence them by imitating what were regarded as
-the determining factors. <span id="fr_56"></span>[2](#fn_56)
+the determining factors. <span id="fr_56"></span>[2](#fn_56.md)
 
 In China these ideas still retain much of their primitive influence and
 directness of expression. Referring to the Chinese "belief in the
@@ -377,23 +377,23 @@ and activity into likenesses of beings, to thus render them fit to work
 in some direction desired … this infusion is effected by blowing or
 breathing, or spurting water over the likeness: indeed breath or *khi*,
 or water from the mouth imbued with breath, is identical with *yang*
-substance or life." <span id="fr_57"></span>[3](#fn_57)
+substance or life." <span id="fr_57"></span>[3](#fn_57.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_45"></span>[28:1](eod10.htm#fr_45) Baldwin Spencer and
+<span id="fn_45"></span>[28:1](eod10.htm#fr_45.md) Baldwin Spencer and
 Gillen, "The Northern Tribes of Central Australia"; "Across Australia";
 and Spencer's "Native Tribes of the Northern Territory of Australia".
 For a very important study of the whole problem with special reference
 to New Guinea, see B. Malinowski, "Baloma: the Spirits of the Dead,"
 etc., *Journal of the Royal Anthropological Institute*, 1916, p. 415.
 
-<span id="fn_46"></span>[29:1](eod10.htm#fr_46) The idea of the earth's
+<span id="fn_46"></span>[29:1](eod10.htm#fr_46.md) The idea of the earth's
 maternal function spread throughout the greater part of the world.
 
-<span id="fn_47"></span>[29:2](eod10.htm#fr_47) With reference to the
+<span id="fn_47"></span>[29:2](eod10.htm#fr_47.md) With reference to the
 assimilation of the conceptions of human fertilization and watering the
 soil and the widespread idea among the ancients of regarding the male as
 "he who irrigates," Canon van Hoonacker gave M. Louis Siret the
@@ -412,10 +412,10 @@ v. 6, the word *mâ’un* (water) is used to designate semen" (L. Siret,
 "Questions de Chronologie et d’Ethnographie Ibériques," Tome I, 1913, p.
 250).
 
-<span id="fn_48"></span>[29:3](eod10.htm#fr_48) Quibell, "Hieraconpolis,
+<span id="fn_48"></span>[29:3](eod10.htm#fr_48.md) Quibell, "Hieraconpolis,
 Vol. I, 260, 4.
 
-<span id="fn_49"></span>[29:4](eod10.htm#fr_49) In using this phrase I
+<span id="fn_49"></span>[29:4](eod10.htm#fr_49.md) In using this phrase I
 want to make a clear distinction between the phase of culture in which
 it had never occurred to man that, in his individual case, life would
 come to an end, and the more enlightened stage, in which he fully
@@ -433,42 +433,42 @@ unimaginative of men can entirely repress the idea of death. But to
 primitive people the preservation of the body is equally a token that
 existence has not come to an end. The corpse is merely sleeping.
 
-<span id="fn_50"></span>[30:1](eod10.htm#fr_50) Breasted, *op. cit.*, p.
+<span id="fn_50"></span>[30:1](eod10.htm#fr_50.md) Breasted, *op. cit.*, p.
 28.
 
-<span id="fn_51"></span>[31:1](eod10.htm#fr_51) The possibility, or even
+<span id="fn_51"></span>[31:1](eod10.htm#fr_51.md) The possibility, or even
 the probability, must be borne in mind that the legend of Ea arising
 from the waters may be merely another way of expressing his primary
 attribute as the personification of the fertilizing powers of water.
 
-<span id="fn_52"></span>[33:1](eod10.htm#fr_52) This occurred at a later
+<span id="fn_52"></span>[33:1](eod10.htm#fr_52.md) This occurred at a later
 epoch when the attributes of the water-controlling deity of fertility
 became confused with those of the birth-giving mother goddess (*vide
-infra*, [p. 40](eod11.htm#page_40)).
+infra*, [p. 40](eod11.htm#page_40).md).
 
-<span id="fn_53"></span>[34:1](eod10.htm#fr_53) For a large series of
+<span id="fn_53"></span>[34:1](eod10.htm#fr_53.md) For a large series of
 these stories see E. Sidney Hartland's "Legend of Perseus". But even
 more instructive, as revealing the intimate connexion of such ideas with
 the beliefs regarding the preservation of the body, see J. J. M. de
 Groot, "The Religious System of China," Vol. IV, Book II, 1901.
 
-<span id="fn_54"></span>[34:2](eod10.htm#fr_54) In this connexion see de
+<span id="fn_54"></span>[34:2](eod10.htm#fr_54.md) In this connexion see de
 Groot, *op. cit.* pp. 356 and 415.
 
-<span id="fn_55"></span>[35:1](eod10.htm#fr_55) The child certainly
+<span id="fn_55"></span>[35:1](eod10.htm#fr_55.md) The child certainly
 resembles primitive man in the readiness with which it attributes to
 even the crudest models of animals or human beings the feelings of
 living creatures.
 
-<span id="fn_56"></span>[35:2](eod10.htm#fr_56) It became "magical" in
+<span id="fn_56"></span>[35:2](eod10.htm#fr_56.md) It became "magical" in
 our sense of the term only when the growth of knowledge revealed the
 fact that the measures taken were inadequate to attain the desired end;
 while the "magician" continued to make the pretence that he could attain
 that end by ultra-physical means.
 
-<span id="fn_57"></span>[35:3](eod10.htm#fr_57) De Groot, *op. cit.* p.
+<span id="fn_57"></span>[35:3](eod10.htm#fr_57.md) De Groot, *op. cit.* p.
 356.
 
 ------------------------------------------------------------------------
 
-[Next: Incense](eod11)
+[Next: Incense](eod11.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat15)  [Next](yat17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat15)  [Next](yat17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ that.
 took my advice to herself!" Now the medicine-man came. "What, pray,
 shall I do to her? I do not know what to do (in such cases)." She was
 very dry. "Hehe'?! What shall we do with her? Do you (women) press upon
-her belly! <span id="fr_124"></span>[292](#fn_121) I am always afraid,
+her belly! <span id="fr_124"></span>[292](#fn_121.md) I am always afraid,
 carefully I give counsel." "Please give me some water to drink!" (said
 the pregnant girl).
 
@@ -54,7 +54,7 @@ the supporting sticks.
 
 "Oh! What have I done to you?" (said her mother). The husband wept in
 the woods. (Her mother said to him,) "Now! Go up on the mountain! <span
-id="fr_125"></span>[293](#fn_122) Build a fire, break off spruce twigs
+id="fr_125"></span>[293](#fn_122.md) Build a fire, break off spruce twigs
 and put them down, and get pine needles!" Now he was building a fire. He
 flew about busily at his work, his heart being very joyful (with hope).
 Yonder is he, who has gone far off building the fire. He came back at
@@ -65,14 +65,14 @@ mother). "Her mouth is all dry." Suddenly she died.
 
 ### Footnotes
 
-<span id="fn_121"></span>[188:292](yat16.htm#fr_124) A woman in
+<span id="fn_121"></span>[188:292](yat16.htm#fr_124.md) A woman in
 confinement did not lie down, but was always seated, while one of the
 women in attendance sat behind her, gently pressing upon her belly in
 order to hasten the delivery.
 
-<span id="fn_122"></span>[188:293](yat16.htm#fr_125) Round Mountain
+<span id="fn_122"></span>[188:293](yat16.htm#fr_125.md) Round Mountain
 (Djīga'lmadu) is meant.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. Death and Burial](yat17)
+[Next: XVIII. Death and Burial](yat17.md)

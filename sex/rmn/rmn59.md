@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn58)  [Next](rmn60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn58)  [Next](rmn60.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ These two subjects are intermingled with foliage and with arabesques.
 
 ------------------------------------------------------------------------
 
-[Next: Plate LIX: Bell-shaped Vase](rmn60)
+[Next: Plate LIX: Bell-shaped Vase](rmn60.md)

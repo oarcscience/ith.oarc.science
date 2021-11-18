@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa25)  [Next](taa27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa25)  [Next](taa27.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ the *anúq* are below it.
 'Oh, who will help a forlorn and longing lover,
 
 6\. Who although his thought soars above this Arcturus, is trodden
-underfoot like burning ashes, <span id="fr_25"></span>[1](#fn_25)
+underfoot like burning ashes, <span id="fr_25"></span>[1](#fn_25.md)
 
 7\. And whose home is beside this Aquila, yet he has died in tears the
 death of the drowned?
@@ -54,7 +54,7 @@ a little before sunrise,
 perfume like shredded musk,
 
 13\. Swaying drunkenly to and fro like the branches, fresh as raw
-silk, <span id="fr_26"></span>[1](#fn_26) which the winds have bent,
+silk, <span id="fr_26"></span>[1](#fn_26.md) which the winds have bent,
 
 14\. Shaking, like the hump of a stallion-camel, fearsome hips huge as
 sand-hills.
@@ -145,10 +145,10 @@ not excite jealousy.
 
 ### Footnotes
 
-<span id="fn_25"></span>[93:1](taa26.htm#fr_25) This translation of
+<span id="fn_25"></span>[93:1](taa26.htm#fr_25.md) This translation of
 \#\#\# is conjectural.
 
-<span id="fn_26"></span>[94:1](taa26.htm#fr_26) Sir Charles Lyall has
+<span id="fn_26"></span>[94:1](taa26.htm#fr_26.md) Sir Charles Lyall has
 suggested that should be rendered 'red poppies', but the commentary
 runs: \#\#\#.
 
@@ -156,6 +156,6 @@ runs: \#\#\#.
 
 ------------------------------------------------------------------------
 
-[Next: XXIV](taa27)
+[Next: XXIV](taa27.md)
 
 </div>

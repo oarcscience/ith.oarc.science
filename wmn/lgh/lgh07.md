@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](lgh06) 
-[Next](lgh08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](lgh06.md) 
+[Next](lgh08.md) 
 
 ------------------------------------------------------------------------
 
@@ -210,7 +210,7 @@ bride the fair young Argeia, daughter of Adrastus; but their joy was
 soon darkened by other tidings which followed quickly, of forging of
 armour, of building of chariots, of marshalling of armies and gathering
 of chieftains, who rose throughout the Achaean and the Apian
-land [7](lgh14.htm#xref_7) at the bidding of Polynices and Tydeus, who
+land [7](lgh14.htm#xref_7.md) at the bidding of Polynices and Tydeus, who
 journeyed together from court to court seeking allies and winning golden
 opinions from all men; for they solemnly called upon every freeborn man
 who loved the right to aid them in returning to the homes whence they
@@ -549,7 +549,7 @@ in death bewailing his beloved, smote upon his ears.
 
 Thus in the flower of her youth perished Antigone, pious and beautiful,
 passing to the shades below by an act too rash, but worn with the sense
-of the dread Até [8](lgh14.htm#xref_8) which afflicted her house. And
+of the dread Até [8](lgh14.htm#xref_8.md) which afflicted her house. And
 the gods below may have been gentle in their judgment, for surely she
 had been sorely tried, and, wherever filial piety and sisterly love are
 held in honour, the name of Antigone, daughter of Oedipus, should be
@@ -561,4 +561,4 @@ spoken with reverence.
 
 ------------------------------------------------------------------------
 
-[Next: Klytaemnestra](lgh08)
+[Next: Klytaemnestra](lgh08.md)

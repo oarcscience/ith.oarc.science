@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow16)  [Next](wow18) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow16)  [Next](wow18.md) 
 
 ------------------------------------------------------------------------
 
@@ -328,4 +328,4 @@ land.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter One: Under Foot](wow18)
+[Next: Chapter One: Under Foot](wow18.md)

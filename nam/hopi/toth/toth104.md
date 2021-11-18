@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth103)  [Next](toth105) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth103)  [Next](toth105.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 101. THE DESTRUCTION OF PIVÁNHONK'API. <span id="fr_186"></span>[1](#fn_184)
+## 101. THE DESTRUCTION OF PIVÁNHONK'API. <span id="fr_186"></span>[1](#fn_184.md)
 
 A long time ago there lived some people north of Oraíbi close to the
 north of the place where the Oraíbi at present dry their peaches. They
@@ -177,9 +177,9 @@ Oraíbi saved from destruction.
 
 ### Footnotes
 
-<span id="fn_184"></span>[241:1](toth104.htm#fr_186) Told by Qöyáwaima
+<span id="fn_184"></span>[241:1](toth104.htm#fr_186.md) Told by Qöyáwaima
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 102. The Destruction of Sikyátki](toth105)
+[Next: 102. The Destruction of Sikyátki](toth105.md)

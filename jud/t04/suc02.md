@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](suc01)  [Next](suc03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](suc01)  [Next](suc03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -16,7 +16,7 @@ Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
 ###### OF
 
-# VOLUME VII.--TRACT SUCCAH. <span id="fr_0"></span>[1](#fn_0)
+# VOLUME VII.--TRACT SUCCAH. <span id="fr_0"></span>[1](#fn_0.md)
 
 ### CHAPTER I.
 
@@ -34,7 +34,7 @@ in the biblical passages between the Massorah (*i.e.*, how they are
 written) and the reading of it, what must be considered for practice?
 How shall the Succah be considered--as a temporary or permanent
 dwelling? The booths of potters or watchmen, can they be used for a
-legal Succah? [1](suc03.htm#page_1)-10
+legal Succah? [1](suc03.htm#page_1.md)-10
 
 MISHNAS II. to VIII. How about an old Succah? What is called an old
 Succah? How about a Succah under a tree, or if a cloth was spread over
@@ -55,7 +55,7 @@ cover the
 Succah with boards, the size of same, and how they are to be laid. What
 is to be done if small rafters, over which is no ceiling, are to be used
 for a booth. The difference of opinion between the schools of Shammai
-and Hillel, and R. Jehudah and R. Meir, [10](suc03.htm#page_10)-19
+and Hillel, and R. Jehudah and R. Meir, [10](suc03.htm#page_10.md)-19
 
 MISHNAS IX. to XIII, If one likes to roof his booth with iron spits. If
 one likes to suspend textile walls from the roof downwards. If the roof
@@ -64,7 +64,7 @@ surrounded by balconies? The law of a crooked wall. If one likes to make
 a Succah in the form of a cone. About a reed mat made for sleeping on,
 whether a Succah can be covered with it; the size of it. A mat made of
 bark or papyrus, if large, may be used for a cover,
-[19](suc03.htm#page_19)-25
+[19](suc03.htm#page_19.md)-25
 
 ### CHAPTER II.
 
@@ -89,7 +89,7 @@ about those who are afflicted? What Rabban Johanan b. Zakkai did when
 two dates were brought to him to taste out of the Succah, and Rabban
 Gamaliel when ajar of water was brought to him when he was out of the
 Succah; and what R. Zadok did when food less than the size of an egg was
-brought to him out of the Succah, [26](suc04.htm#page_26)-33
+brought to him out of the Succah, [26](suc04.htm#page_26.md)-33
 
 MISHNAS VIII. to X. How many meals must be eaten in the Succah during
 the seven days? The difference of opinion between R. Eliezer and the
@@ -131,7 +131,7 @@ Abayi asked him. What an eclipse of the sun means to the whole world.
 When the sun and the moon are eclipsed, it is an ill omen to the enemies
 of Israel, so maintains R. Meir. On account of four things the sun is
 eclipsed. For four things the property of householders becomes
-annihilated, [33](suc04.htm#page_33)-41
+annihilated, [33](suc04.htm#page_33.md)-41
 
 ### CHAPTER III.
 
@@ -177,7 +177,7 @@ is on the road and has no Lulab? When is Hallel to be read? Who must
 read it? From what chapters of the Psalms the Hallel is said. What the
 reader shall say, and what the congregation shall answer in the saying
 of Hallel. What verses are to be repeated in Hallel,
-[50](suc05.htm#page_50)-56
+[50](suc05.htm#page_50.md)-56
 
 MISHNAS VIII. to XI. What is the law when one buys a Lulab from a common
 man in the Sabbatical year. Is a citron equal to a tree in all respects?
@@ -195,7 +195,7 @@ of Jerusalem was. When the Lulab may be put in water, when water may be
 added, and when it must be changed. At what age a minor has to shake the
 Lulab, to perform the duties of Tzitzith, Tefilin, and his father to
 teach him the Torah, and to read with him the Shema,
-[56](suc05.htm#page_56)-61
+[56](suc05.htm#page_56.md)-61
 
 ### CHAPTER IV.
 
@@ -208,7 +208,7 @@ do we use the Lulab seven days in memory of the Temple, and not the
 willow? Do the Lulab and the willow violate the Sabbath or not? Can one
 fulfil the ceremony of the willow with that which is tied to the Lulab?
 May a man go more than ten Parsaoth on the eve of Sabbath?
-[62](suc06.htm#page_62)-66
+[62](suc06.htm#page_62.md)-66
 
 MISHNAS II. to IV. How was the commandment to take the willow fulfilled
 in Jerusalem? What was said when they went around the altar with the
@@ -234,7 +234,7 @@ basins of which the wine and water were poured out not equal in size?
 The saying of R. Elazar, that the doing of charity is greater than all
 the sacrifices. Charity is rewarded only in accordance with the kindness
 with which it is done. in three things is the bestowing of favors
-greater than charity, [66](suc06.htm#page_66)-75
+greater than charity, [66](suc06.htm#page_66.md)-75
 
 ### CHAPTER V.
 
@@ -268,7 +268,7 @@ disgrace our age? and who said *vice versa*? What Hillel the Elder said
 when he was engaged in the enjoyment of the pouring of the water. For
 what purpose the fifteen songs of degrees were said by David. What is
 the meaning of "we belong to God" and "we raise our eyes to God"?
-[76](suc07.htm#page_76)-85
+[76](suc07.htm#page_76.md)-85
 
 MISHNAS III. to VI. How many times was the trumpet blown in the Temple
 every day, and how many on the festivals? The different opinions of the
@@ -287,16 +287,16 @@ festival falls before or after a Sabbath, all the twenty-four orders
 share alike in the shewbread. What is meant by before or after? About
 the order of Bilgah, when Miriam his daughter becomes an apostate, and
 what she said when the enemy entered the sanctuary, and what was done to
-the whole order, [85](suc07.htm#page_85)-92
+the whole order, [85](suc07.htm#page_85.md)-92
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:1](suc02.htm#fr_0) See Introduction to
+<span id="fn_0"></span>[v:1](suc02.htm#fr_0.md) See Introduction to
 Synopsis in Tract Sabbath, Vol. I., p. xxix., also note at end of
 Synopsis in Vol. V.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](suc03)
+[Next: Chapter I](suc03.md)

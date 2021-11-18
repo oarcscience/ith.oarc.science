@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[Tagore](../index)  [Index](index)  [Previous](sadh00)  [Next](sadh02) 
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[Tagore](../index)  [Index](index)  [Previous](sadh00)  [Next](sadh02.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ decisively on the first ā, which has the broad sound of the letter.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sadh02)
+[Next: Contents](sadh02.md)

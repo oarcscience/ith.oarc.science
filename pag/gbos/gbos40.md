@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos39)  [Next](gbos41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos39)  [Next](gbos41.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ High Priest and other men give Fivefold Kiss. Women all bow.
 
 ------------------------------------------------------------------------
 
-[Next: Forming the Circle](gbos41)
+[Next: Forming the Circle](gbos41.md)

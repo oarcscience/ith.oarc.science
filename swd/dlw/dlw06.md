@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dlw05)  [Next](dlw07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dlw05)  [Next](dlw07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406804029/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406804029/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1255,4 +1255,4 @@ very Esse from which all things are, fallacies cannot enter.
 
 ------------------------------------------------------------------------
 
-[Next: 301-350](dlw07)
+[Next: 301-350](dlw07.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut19)  [Next](hut21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut19)  [Next](hut21.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XVII.
 
-### The Passing of the Kīxûnai. <span id="fr_50"></span>[1](#fn_50)
+### The Passing of the Kīxûnai. <span id="fr_50"></span>[1](#fn_50.md)
 
 <span id="page_218">p. 218</span>
 
@@ -61,9 +61,9 @@ be seen again either."
 
 ### Footnotes
 
-<span id="fn_50"></span>[215:1](hut20.htm#fr_50) Told at Hupa, December
+<span id="fn_50"></span>[215:1](hut20.htm#fr_50.md) Told at Hupa, December
 1902, by Senaxon.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. The Spoiling of the World](hut21)
+[Next: XVIII. The Spoiling of the World](hut21.md)

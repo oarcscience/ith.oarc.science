@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ebm04)  [Next](ebm06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ebm04)  [Next](ebm06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eleusinian and Bacchic Mysteries*, by Thomas Taylor, \[1891\], at
 Intangible Textual Heritage
 
@@ -15,7 +15,7 @@ Intangible Textual Heritage
 ## THE ELEUSINIAN AND BACCHIC
 
 <span id="img_03101"></span> ![Dionysus as God of the
-Sun.](img/03101.png)  
+Sun.](img/03101.png.md)  
 Dionysus as God of the Sun.
 
 ### ❦ SECTION I. ❦
@@ -26,7 +26,7 @@ represents some of the dramatic exhibitions of the Eleusinian Mysteries;
 but, at the same time, has utterly failed in attempting to unfold their
 latent meaning, and obscure though important end. By the assistance,
 however, of the Platonic philosophy, I have been enabled to correct his
-errors, and to vindicate the wisdom <span id="fr_9"></span>[\*](#fn_9)
+errors, and to vindicate the wisdom <span id="fr_9"></span>[\*](#fn_9.md)
 of antiquity from his aspersions
 
 <span id="page_32">p. 32</span>
@@ -42,7 +42,7 @@ Warburton himself. The first of these is no less a person than the
 immortal Pindar, in a fragment preserved by Clemens Alexandrinus: “Ἀλλα
 και Πινδαρος περι των εν Ελευσινι μυστηριων λεγων επιφερει. Ολβιος,
 οστις ιδων εκεινα, κοινα εις ὑποχϑονια, οιδεν μεν βιον τελευταν, οιδεν
-δε διος δοτον αρχαν.” <span id="fr_10"></span>[\*](#fn_10) *i. e.* “But
+δε διος δοτον αρχαν.” <span id="fr_10"></span>[\*](#fn_10.md) *i. e.* “But
 Pindar, speaking of the Eleusinian Mysteries, says: Blessed is he who,
 having
 
@@ -76,10 +76,10 @@ in Hades, and*
 της συμβολικης ἁπαντα ϑεωριας εστι μεστα, και των παρα τοις ποιηταις
 ϑρυλλουμενων ανοδων τε και καϑοδων, των τε διονυσιακων συνϑηματων, και
 των τιτανικων ἁμαρτηματων λεγομενων, και των εν ᾁδου τριοδων, και της
-πλανης, και των τοιουτων ἁπαντων.” <span id="fr_11"></span>[\*](#fn_11)
+πλανης, και των τοιουτων ἁπαντων.” <span id="fr_11"></span>[\*](#fn_11.md)
 
 Having premised thus much, I now proceed to prove that the dramatic
-spectacles of the Lesser Mysteries <span id="fr_12"></span>[†](#fn_12)
+spectacles of the Lesser Mysteries <span id="fr_12"></span>[†](#fn_12.md)
 were designed by the ancient theologists, their founders, to signify
 occultly the condition of the unpurified soul
 
@@ -91,7 +91,7 @@ life might be said to die, as far as it is possible for a soul to die,
 and that on the dissolution of the present body, while in this state of
 impurity, it would experience a death still more permanent and profound.
 That the soul, indeed, till purified by philosophy, <span
-id="fr_13"></span>[\*](#fn_13) suffers death through its union with the
+id="fr_13"></span>[\*](#fn_13.md) suffers death through its union with the
 body was obvious to the philologist Macrobius, who, not penetrating the
 secret meaning of the ancients, concluded from hence that they signified
 nothing more than the present body, by their descriptions of the
@@ -140,9 +140,9 @@ the following remarkable passage in the Doric dialect, preserved by
 Clemens Alexandrinus in *Stromat*. book iii. “Μαρτυρεοντα δε και οι
 παλαιοι ϑεολογοι τε και μαντιες, ὡς δια τινας τιμωριας, ἁ ψυχα τῳ σωματι
 συνεζευκται, και καϑαπερ εν σωματι τομτῳ τεϑαπται.” *i. e*. “The ancient
-theologists and priests <span id="fr_14"></span>[\*](#fn_14) also
+theologists and priests <span id="fr_14"></span>[\*](#fn_14.md) also
 testify that the soul is united with the body as if for the sake of
-punishment; <span id="fr_15"></span>[†](#fn_15) and so is buried in body
+punishment; <span id="fr_15"></span>[†](#fn_15.md) and so is buried in body
 as in a sepulchre.” And, lastly, Pythagoras
 
 <span id="page_38">p. 38</span>
@@ -167,11 +167,11 @@ present*
 
 <span id="page_39">p. 39</span>
 
-*body, to descend into matter, <span id="fr_16"></span>[\*](#fn_16) and
+*body, to descend into matter, <span id="fr_16"></span>[\*](#fn_16.md) and
 be wholly subjected by it; and after departing thence to lie there till
 it shall arise and turn its face away from the abhorrent filth. This is
 what is meant by the falling asleep in Hades, of those who have come
-there*.” <span id="fr_17"></span>[†](#fn_17)
+there*.” <span id="fr_17"></span>[†](#fn_17.md)
 
 <span id="page_40">p. 40</span>
 
@@ -186,7 +186,7 @@ there*.” <span id="fr_17"></span>[†](#fn_17)
 <span id="page_41">p. 41</span> <span id="page_42">p. 42</span>
 
 <span id="img_04201"></span> ![Narcissus.                    Herse and
-Mercury.](img/04201.png)  
+Mercury.](img/04201.png.md)  
 Narcissus.                    Herse and Mercury.
 
 <span id="page_43">p. 43</span>
@@ -195,7 +195,7 @@ reader may observe that the obscure doctrine of the Mysteries mentioned
 by Plato in the *Phædo*, that the unpurified soul in a future state lies
 immerged in mire, is beautifully explained; at the same time that our
 assertion concerning their secret meaning is not less substantially
-confirmed. <span id="fr_18"></span>[\*](#fn_18) In a similar manner the
+confirmed. <span id="fr_18"></span>[\*](#fn_18.md) In a similar manner the
 same divine philosopher, in his book on the Beautiful, *Ennead*, I.,
 book vi., explains the fable of Narcissus as an emblem of one who rushes
 to the contemplation of sensible (phenomenal) forms as if they were
@@ -209,7 +209,7 @@ but with
 <span id="page_44">p. 44</span>
 
 his soul, into a darkness profound and repugnant to intellect (the
-higher soul), <span id="fr_19"></span>[\*](#fn_19) through which,
+higher soul), <span id="fr_19"></span>[\*](#fn_19.md) through which,
 remaining blind both here and in Hades, he associates with shadows.” Τον
 αυτον δη τροπον ὁ εχομενος των καλων σωμα των, και μη αφιεις, ου τῳ
 σωματι, τῃ δε ψυχῃ καταδυσεται, εις σκοτεινα και ατερπη τῳ νῳ βαϑη, ενϑα
@@ -218,7 +218,7 @@ farther confirms our exposition is that matter was considered by the
 Egyptians as a certain mire or mud. “The Egyptians,” says Simplicius,
 “called matter, which they symbolically denominated water, the dregs or
 sediment of the first life; matter being, as it were, a certain mire or
-mud. <span id="fr_20"></span>[†](#fn_20) Διο και Αιγυπτιοι την της
+mud. <span id="fr_20"></span>[†](#fn_20.md) Διο και Αιγυπτιοι την της
 πρωτης ζωης, ἡν ὑδωρ συμβολικως εκαλουν, ὑποσταϑμην την ὑλην ελεγον,
 ὁιον ιλον τινα ουσαν. So that from all
 
@@ -254,7 +254,7 @@ somno priusquam expergefacti fuerint moriantur similibus post discessum
 et acrioribus visionibus angi. Et sicut eum qui in vita veris incubuit,
 post mortem summa veritate potiri, sic eum qui falsa sectatus est,
 fallacia extrema torqueri, ut ille rebus veris oblectetur, hic falsis
-vexetur simulachris.” <span id="fr_21"></span>[\*](#fn_21)
+vexetur simulachris.” <span id="fr_21"></span>[\*](#fn_21.md)
 
 But notwithstanding this important truth was obscurely hinted by the
 Lesser Mysteries, we must not suppose that it was generally
@@ -264,7 +264,7 @@ Lesser Mysteries, we must not suppose that it was generally
 known even to the initiated persons themselves: for as individuals of
 almost all descriptions were admitted to these rites, it would have been
 a ridiculous prostitution to disclose to the multitude a theory so
-abstracted and sublime. <span id="fr_22"></span>[\*](#fn_22) It was
+abstracted and sublime. <span id="fr_22"></span>[\*](#fn_22.md) It was
 sufficient to instruct these in the doctrine of a future state of
 rewards and punishments, and in the means of returning to the principles
 from which they originally fell: for this
@@ -275,7 +275,7 @@ last piece of information was, according to Plato in the *Phædo*, the
 ultimate design of the Mysteries; and the former is necessarily inferred
 from the present discourse. Hence the reason why it was obvious to none
 but the Pythagorean and Platonic philosophers, who derived their
-theology from Orpheus himself, <span id="fr_23"></span>[\*](#fn_23) the
+theology from Orpheus himself, <span id="fr_23"></span>[\*](#fn_23.md) the
 original founder of these sacred institutions; and why we meet with no
 information in this particular in any writer prior to Plotinus; as he
 was the first who, having penetrated the profound interior wisdom of
@@ -312,7 +312,7 @@ a faithful view of some part of these sacred rites, and this accompanied
 with the utmost elegance, harmony, and purity of versification, it ought
 to be considered as an invaluable relic of antiquity, and a precious
 monument of venerable mysticism, recondite wisdom, and theological
-information. <span id="fr_24"></span>[\*](#fn_24) This will be
+information. <span id="fr_24"></span>[\*](#fn_24.md) This will be
 sufficiently evident from what has been already delivered, by
 considering some of the beautiful descriptions of this book in their
 natural order; at the same time that the descriptions themselves will
@@ -346,7 +346,7 @@ obvious and easy, but to recall our steps, and ascend into the upper
 regions, or, in other words, to separate the soul from the body by the
 purifying discipline, is indeed a mighty work, and a laborious task? For
 a few only, the favorites of heaven, that is, born with the true
-philosophic genius, <span id="fr_25"></span>[\*](#fn_25) and whom ardent
+philosophic genius, <span id="fr_25"></span>[\*](#fn_25.md) and whom ardent
 virtue has elevated to a disposition and capacity for divine
 contemplation, have been enabled to accomplish the arduous design. But
 when he says that all the middle regions are covered with woods, this
@@ -359,7 +359,7 @@ nothing more than that the passage leading to the
 *barathrum* \[abyss\] of body, *i. e*. into profound darkness and
 oblivion, is through the medium of a material nature; and this medium is
 surrounded by the black bosom of Cocytus, <span
-id="fr_26"></span>[\*](#fn_26) that is, by bitter weeping and
+id="fr_26"></span>[\*](#fn_26.md) that is, by bitter weeping and
 lamentations, the necessary consequence of the soul’s union with a
 nature entirely foreign to her own. So that the poet in this particular
 perfectly corresponds with Empedocles in the line we have cited above,
@@ -384,7 +384,7 @@ descended to the infernal regions:
 > over which none of the flying kind were able to wing their way unhurt;
 > such exhalations issuing from its grim jaws ascended to the vaulted
 > skies; for which reason the Greeks called the place by the name of
-> *Aornos*” (without birds). <span id="fr_27"></span>[†](#fn_27)</span>
+> *Aornos*” (without birds). <span id="fr_27"></span>[†](#fn_27.md)</span>
 
 <span id="page_53">p. 53</span>
 
@@ -423,14 +423,14 @@ In the verses which immediately follow,—
 
 we may perceive an evident allusion to the earthquakes, etc., attending
 the descent of the soul into body, mentioned by Plato in the tenth book
-of his *Republic;* <span id="fr_28"></span>[†](#fn_28) since the
+of his *Republic;* <span id="fr_28"></span>[†](#fn_28.md) since the
 
 <span id="page_55">p. 55</span>
 
 lapse of the soul, as we shall see more fully hereafter, was one of the
 important truths which these Mysteries were intended to reveal. And the
 howling dogs are symbols of material <span
-id="fr_29"></span>[\*](#fn_29) demons, who are thus denominated by the
+id="fr_29"></span>[\*](#fn_29.md) demons, who are thus denominated by the
 *Magian Oracles* of Zoroaster, on account of their ferocious and
 malevolent dispositions, ever baneful to the felicity of the human soul.
 And hence Matter herself is represented by Synesius in his first *Hymn*,
@@ -445,7 +445,7 @@ rage: for thus he sings, addressing himself to the Deity:
 Which may be thus paraphrased:
 
 > <span class="small">Blessed! thrice blessed! who, with wingéd speed,  
-> From Hylé’s <span id="fr_30"></span>[†](#fn_30) dread voracious
+> From Hylé’s <span id="fr_30"></span>[†](#fn_30.md) dread voracious
 > barking flies,</span>
 
 <span id="page_56">p. 56</span>
@@ -547,7 +547,7 @@ disguise of multiform and terrific monsters, exhibiting the various
 vices of our irrational and sensuous part. Hence Empedocles, in perfect
 conformity with the first part of this description, calls this material
 abode, or the realms of generation,—ατερπεα χωρον, <span
-id="fr_31"></span>[\*](#fn_31) a “*joyless region*.”
+id="fr_31"></span>[\*](#fn_31.md) a “*joyless region*.”
 
 > <span class="small">“Where slaughter, rage, and countless ills
 > reside;</span>
@@ -593,10 +593,10 @@ And when Charon calls out to Æneas to
 
 <span id="page_61">p. 61</span> <span id="page_62">p. 62</span>
 
-<span id="img_06201"></span> ![Jupiter and Calisto.](img/06201.png)  
+<span id="img_06201"></span> ![Jupiter and Calisto.](img/06201.png.md)  
 Jupiter and Calisto.
 
-<span id="img_06202"></span> ![Diana and Calisto.](img/06202.png)  
+<span id="img_06202"></span> ![Diana and Calisto.](img/06202.png.md)  
 Diana and Calisto.
 
 <span id="page_63">p. 63</span>
@@ -616,7 +616,7 @@ lulled into profound sleep, and becomes a true inhabitant of the
 phantom-abodes of the dead.
 
 Æneas having now passed over the Stygian lake, meets with the
-three-headed monster Cerberus, <span id="fr_32"></span>[\*](#fn_32) the
+three-headed monster Cerberus, <span id="fr_32"></span>[\*](#fn_32.md) the
 guardian of these infernal abodes:
 
 > <span class="small">Tandem trans fluvium incolumis vatemque virumque  
@@ -639,7 +639,7 @@ By Cerberus we must understand the discriminative part of the soul, of
 which a dog, on account of its sagacity, is an emblem; and the three
 heads signify the triple distinction of this part, into the intellective
 \[or intuitional\], cogitative \[or rational\], and opinionative
-powers.—With respect <span id="fr_33"></span>[†](#fn_33) to the three
+powers.—With respect <span id="fr_33"></span>[†](#fn_33.md) to the three
 kinds of persons described as situated on the borders of the infernal
 realms, the poet doubtless intended by this enumeration to represent to
 us the three most remarkable
@@ -658,7 +658,7 @@ must be supposed to represent the souls of men who, though innocent of
 one crime for which they were wrongfully punished, have,
 notwithstanding, been guilty of many crimes, for which they are
 receiving proper chastisement in Hades, *i. e.* through a profound union
-with a material nature. <span id="fr_34"></span>[\*](#fn_34) And the
+with a material nature. <span id="fr_34"></span>[\*](#fn_34.md) And the
 third sort, or suicides, though
 
 <span id="page_66">p. 66</span>
@@ -675,12 +675,12 @@ doubt why the souls of infants should be punished? And is it not equally
 dubious and wonderful why those who have been unjustly condemned to
 death in one period of existence should be punished in another? And as
 to suicides, Plato in his *Phædo* says that the prohibition of this
-crime in the απορῥητα (*aporrheta*) <span id="fr_35"></span>[\*](#fn_35)
+crime in the απορῥητα (*aporrheta*) <span id="fr_35"></span>[\*](#fn_35.md)
 is a profound doctrine, and not easy to be
 
 <span id="page_67">p. 67</span>
 
-understood. <span id="fr_36"></span>[\*](#fn_36) Indeed, the true cause
+understood. <span id="fr_36"></span>[\*](#fn_36.md) Indeed, the true cause
 why the two first of these characters are in Hades, can only be
 ascertained from the fact of a prior state of existence, in surveying
 which, the latent justice of punishment will be manifestly revealed; the
@@ -703,7 +703,7 @@ argument which Plato employs in this place against suicide is derived
 from the Orphic mythology, in which four kingdoms are celebrated; the
 first of Uranus \[Ouranos\] (Heaven), whom Kronos or Saturn assaulted,
 cutting off the genitals of his father. <span
-id="fr_37"></span>[\*](#fn_37) But after Saturn, Zeus or Jupiter
+id="fr_37"></span>[\*](#fn_37.md) But after Saturn, Zeus or Jupiter
 succeeded to the government of the world, having hurled his father into
 Tartarus. And after Jupiter, Dionysus or Bacchus rose to light, who,
 according to report, was, through the insidious treachery of Hera or
@@ -720,7 +720,7 @@ therefore, to destroy ourselves, not as the words of Plato seem to
 import, because we are in the body, as in prison, secured by a guard
 (for this is evident, and Plato would not have called such an assertion
 arcane), but because our body is Dionysiacal, <span
-id="fr_38"></span>[\*](#fn_38) or of the nature of Bacchus: for we are a
+id="fr_38"></span>[\*](#fn_38.md) or of the nature of Bacchus: for we are a
 part of him, since we are composed from the ashes, or sooty vapor of the
 Titans who tasted his flesh. Socrates, therefore, as if fearful of
 disclosing the arcane part of this narration, relates nothing more of
@@ -788,7 +788,7 @@ with its proper nature. And while the soul is in a state of servitude to
 
 <span id="page_73">p. 73</span> <span id="page_74">p. 74</span>
 
-<span id="img_07401"></span> ![Eleusinian Mysteries.](img/07401.png)  
+<span id="img_07401"></span> ![Eleusinian Mysteries.](img/07401.png.md)  
 Eleusinian Mysteries.
 
 <span id="page_75">p. 75</span>
@@ -803,7 +803,7 @@ the ancients intended to signify by the descent of Hercules, Ulysses,
 etc., into Hades, and their speedy return from its dark abodes. “Hence,”
 says Proclus, “Hercules being purified by *sacred initiations*, obtained
 at length a perfect establishment among the gods:” <span
-id="fr_39"></span>[\*](#fn_39) that is, well knowing the dreadful
+id="fr_39"></span>[\*](#fn_39.md) that is, well knowing the dreadful
 condition of his soul while in captivity to a corporeal nature, and
 purifying himself by practice of the cleansing virtues, of which certain
 purifications in the mystic ceremonies were symbolical, he at length was
@@ -939,7 +939,7 @@ the Mysteries is disposed by Proclus in *Theology of Plato*, book iv.
 “The perfective rite \[τελετη, *telete*\],” says he, “precedes in order
 the *initiation* \[μυησις, *muesis*\], and *initiation*, the final
 apocalypse, *epopteia*.” Προηγειται γαρ, ἡ μεν τελετη της μυσεως, αυτη
-δε της εποπτειας. <span id="fr_40"></span>[\*](#fn_40) At the same time
+δε της εποπτειας. <span id="fr_40"></span>[\*](#fn_40.md) At the same time
 it is proper to observe that the whole business of initiation was
 distributed into five parts, as we are informed by Theon of Smyrna, in
 *Mathematica*, who thus elegantly compares philosophy to these mystic
@@ -955,7 +955,7 @@ as are not expelled from the Mysteries
 <span id="page_83">p. 83</span> <span id="page_84">p. 84</span>
 
 <span id="img_08401"></span> ![Torch-bearer as
-Apollo.                    Faun and Bacchante.](img/08401.png)  
+Apollo.                    Faun and Bacchante.](img/08401.png.md)  
 Torch-bearer as Apollo.                    Faun and Bacchante.
 
 <span id="page_85">p. 85</span>
@@ -963,7 +963,7 @@ Torch-bearer as Apollo.                    Faun and Bacchant
 should first be refined by certain purifications: but after
 purification, the reception of the sacred rites succeeds. The third part
 is denominated *epopteia*, or reception. <span
-id="fr_41"></span>[\*](#fn_41) And the fourth, which is the end and
+id="fr_41"></span>[\*](#fn_41.md) And the fourth, which is the end and
 design of the revelation, is \[the investiture\] the binding of the head
 and fixing of the crowns. The initiated person is, by this means,
 authorized to communicate to others the sacred rites in which he has
@@ -1011,7 +1011,7 @@ Plato, was to lead us back to the principles from which we descended,
 that is, to a perfect enjoyment of intellectual \[spiritual\] good, the
 imparting of these principles was doubtless one part of the doctrine
 contained in the απορῥητα, *aporrheta,* or secret discourses; <span
-id="fr_42"></span>[\*](#fn_42) and the different
+id="fr_42"></span>[\*](#fn_42.md) and the different
 
 <span id="page_88">p. 88</span>
 
@@ -1030,14 +1030,14 @@ from what has been demonstrated in the former part of this discourse:
 for if *he who in the present life is in subjection to his irrational
 part is truly in Hades, he who is superior to its dominion is likewise
 an inhabitant of a place totally different from Hades*. <span
-id="fr_43"></span>[\*](#fn_43) If Hades therefore
+id="fr_43"></span>[\*](#fn_43.md) If Hades therefore
 
 <span id="page_89">p. 89</span>
 
 is the region or condition of punishment and misery, the purified soul
 must reside in the regions of bliss; in a life and condition of purity
 and contemplation in the present life, and entheastically, <span
-id="fr_44"></span>[\*](#fn_44) animated by the divine
+id="fr_44"></span>[\*](#fn_44.md) animated by the divine
 
 <span id="page_90">p. 90</span>
 
@@ -1126,7 +1126,7 @@ The poet, in describing the employments of the blessed, says:
 
 <span id="page_93">p. 93</span> <span id="page_94">p. 94</span>
 
-<span id="img_09401"></span> ![Eleusinian Mysteries.](img/09401.png)  
+<span id="img_09401"></span> ![Eleusinian Mysteries.](img/09401.png.md)  
 Eleusinian Mysteries.
 
 <span id="page_95">p. 95</span>
@@ -1173,7 +1173,7 @@ retiring of the
 
 soul to the depth of her essence, and there, by energy solely divine,
 establishing herself in the ineffable principle of things. <span
-id="fr_45"></span>[\*](#fn_45) And the meadows are symbols of that
+id="fr_45"></span>[\*](#fn_45.md) And the meadows are symbols of that
 prolific power of the gods through which all the variety of reasons,
 animals, and forms was produced, and which is here the refreshing
 pasture and retreat of the liberated soul.
@@ -1215,7 +1215,7 @@ beautiful lines:
 For the sources of the soul’s existence are also the principles from
 which it fell; and these, as we may learn from the *Timæus* of Plato,
 are the Demiurgus, the mundane soul, and the junior or mundane
-gods. <span id="fr_46"></span>[†](#fn_46) Now, of
+gods. <span id="fr_46"></span>[†](#fn_46.md) Now, of
 
 <span id="page_99">p. 99</span>
 
@@ -1227,9 +1227,9 @@ extracts from Olympiodorus: and is still more abundantly confirmed by
 the following curious passage from the same author, in his comment on
 the *Phædo* of Plato. “The soul,” says he, “descends Corically \[or
 after the manner of Proserpine\] into generation, <span
-id="fr_47"></span>[\*](#fn_47) but is distributed into generation
-Dionysiacally, <span id="fr_48"></span>[†](#fn_48) and she is bound in
-body Prometheiacally <span id="fr_49"></span>[‡](#fn_49) and
+id="fr_47"></span>[\*](#fn_47.md) but is distributed into generation
+Dionysiacally, <span id="fr_48"></span>[†](#fn_48.md) and she is bound in
+body Prometheiacally <span id="fr_49"></span>[‡](#fn_49.md) and
 Titanically: she frees herself therefore from its bonds by exercising
 the strength of Hercules; but she
 
@@ -1252,7 +1252,7 @@ he says,
 > to wholeness and divine life.</span>
 
 which evidently alludes to the *sowing* of souls into generation, <span
-id="fr_50"></span>[†](#fn_50) mentioned in the *Timæus*. And from hence
+id="fr_50"></span>[†](#fn_50.md) mentioned in the *Timæus*. And from hence
 the reader will
 
 <span id="page_101">p. 101</span>
@@ -1277,7 +1277,7 @@ omnia vectus elementa remeavi. Nocte media vidi solem
 <span id="page_102">p. 102</span>
 
 candido coruscantem lumine, *deos inferos, et deos superos*. Accessi
-coram, et adoravi de proximo.” <span id="fr_51"></span>[\*](#fn_51) That
+coram, et adoravi de proximo.” <span id="fr_51"></span>[\*](#fn_51.md) That
 is, “I approached the confines of death: and having trodden on the
 threshold of Proserpina returned, having been carried through all the
 elements. In the depths of midnight I saw the sun glittering with a
@@ -1302,7 +1302,7 @@ choir, this happy vision and contemplation. And we indeed enjoyed this
 blessed spectacle together with Jupiter; but others in conjunction with
 some other god; at the same time being *initiated* in those *Mysteries*,
 which it is lawful to call the most blessed of all Mysteries. And these
-divine *Orgies* <span id="fr_52"></span>[\*](#fn_52) were celebrated by
+divine *Orgies* <span id="fr_52"></span>[\*](#fn_52.md) were celebrated by
 us, while we possessed the proper integrity of our nature, we were freed
 from the molestations of evil which otherwise await us in a future
 period of time. Likewise, in consequence of this divine *initiation*, we
@@ -1313,16 +1313,16 @@ to which we are now bound
 
 <span id="page_104">p. 104</span>
 
-like an oyster to its shell.” <span id="fr_53"></span>[\*](#fn_53) Upon
+like an oyster to its shell.” <span id="fr_53"></span>[\*](#fn_53.md) Upon
 this beautiful passage Proclus observes, “That the *initiation* and
 *epopteia* \[the vailing and the revealing\] are symbols of ineffable
 silence, and of union with mystical natures, through intelligible
-visions. <span id="fr_54"></span>[†](#fn_54) Και γαρ ἡ μυησις, και η
+visions. <span id="fr_54"></span>[†](#fn_54.md) Και γαρ ἡ μυησις, και η
 
 <span id="page_105">p. 105</span> <span id="page_106">p. 106</span>
 
 <span id="img_10601"></span> ![Eleusinian
-Mysteries.          Etruscan.](img/10601.png)  
+Mysteries.          Etruscan.](img/10601.png.md)  
 Eleusinian Mysteries.          Etruscan.
 
 <span id="page_107">p. 107</span>
@@ -1331,11 +1331,11 @@ Eleusinian Mysteries.          Etruscan.
 των νοητων φασματων ενωσεως. Now, from all this, it may be inferred,
 that the most sublime part of the εποπτιεια \[*epopteia*\] or final
 revealing, consisted in beholding the gods themselves invested with a
-resplendent light; <span id="fr_55"></span>[\*](#fn_55) and that this
+resplendent light; <span id="fr_55"></span>[\*](#fn_55.md) and that this
 was symbolical of those transporting visions, which the virtuous soul
 will constantly enjoy in a future state; and of which it is able to gain
 some ravishing glimpses, even while connected with the cumbrous vestment
-of the body. <span id="fr_56"></span>[†](#fn_56)
+of the body. <span id="fr_56"></span>[†](#fn_56.md)
 
 <span id="page_108">p. 108</span>
 
@@ -1347,30 +1347,30 @@ unequivocal testimony of Proclus: Εν απασι ταις τελεταις κα
 τυπον προεληλυϑως. *I. e.* “In all the initiations and Mysteries, the
 gods exhibit many forms of themselves, and appear in a variety of
 shapes: and sometimes, indeed, a formless light <span
-id="fr_57"></span>[\*](#fn_57) of themselves is held forth to the view;
+id="fr_57"></span>[\*](#fn_57.md) of themselves is held forth to the view;
 sometimes this light is according to a human form, and sometimes it
-proceeds into a different shape.” <span id="fr_58"></span>[†](#fn_58)
+proceeds into a different shape.” <span id="fr_58"></span>[†](#fn_58.md)
 This assertion of divine visions in the Mysteries,
 
 <span id="page_109">p. 109</span> <span id="page_110">p. 110</span>
 
 <span id="img_11001"></span> ![Satyr, Cupid, and
-Venus.](img/11001.png)  
+Venus.](img/11001.png.md)  
 Satyr, Cupid, and Venus.
 
 <span id="img_11002"></span> ![Cupids, Satyr, and statue of
-Priapus.](img/11002.png)  
+Priapus.](img/11002.png.md)  
 Cupids, Satyr, and statue of Priapus.
 
 <span id="page_111">p. 111</span>
 
-is clearly confirmed by Plotinus. <span id="fr_59"></span>[\*](#fn_59)
+is clearly confirmed by Plotinus. <span id="fr_59"></span>[\*](#fn_59.md)
 And, in short, that magical evocation formed a part of the sacerdotal
 office in the Mysteries, and that this was universally believed by all
 antiquity, long before the era of the latter Platonists, <span
-id="fr_60"></span>[†](#fn_60) is plain from the testimony of
+id="fr_60"></span>[†](#fn_60.md) is plain from the testimony of
 Hippocrates, or at least Democritus, in his Treatise *de Morbo
-Sacro*. <span id="fr_61"></span>[‡](#fn_61) For speaking of those who
+Sacro*. <span id="fr_61"></span>[‡](#fn_61.md) For speaking of those who
 attempt to cure this disease by magic, he observes: ει γαρ σεληνην τε
 καϑαιρειν, και ἡλιον αφανιζειν, χειμωνα τε και ευδιην ποιειν, και
 ομβρους και αυχμους, και ϑαλασσαν αφορον και γην, και τ’αλλα τα
@@ -1406,11 +1406,11 @@ Upon which he observes, “*that*
 <span id="page_113">p. 113</span>
 
 *the self-revealing image was only a diffusive shining light, as the
-name partly declares*.” <span id="fr_62"></span>[\*](#fn_62) But this is
+name partly declares*.” <span id="fr_62"></span>[\*](#fn_62.md) But this is
 a piece of gross ignorance, from which he might have been freed by an
 attentive perusal of Proclus on the *Timæus* of Plato: for in these
 truly divine Commentaries we learn, “that the moon <span
-id="fr_63"></span>[†](#fn_63) is the cause of nature to mortals, *and
+id="fr_63"></span>[†](#fn_63.md) is the cause of nature to mortals, *and
 the self-revealing image of the fountain of nature*.” Σεληνη μεν αιτια
 τοις ϑνητοις της φυσεως, το αυτοπτον αγαλμα ουσα της πηγαιας φυσεως. If
 the reader is desirous of knowing what we are to understand by the
@@ -1482,7 +1482,7 @@ revolve, illuminate
 <span id="page_117">p. 117</span> <span id="page_118">p. 118</span>
 
 <span id="img_11801"></span> ![Diana and
-Endymion.                    Apollo and Daphne.](img/11801.png)  
+Endymion.                    Apollo and Daphne.](img/11801.png.md)  
 Diana and Endymion.                    Apollo and Daphne.
 
 <span id="page_119">p. 119</span>
@@ -1509,7 +1509,7 @@ disciplines
 <span id="page_120">p. 120</span>
 
 requisite to the reascent of the soul. <span
-id="fr_64"></span>[\*](#fn_64) And the first part, indeed, of this
+id="fr_64"></span>[\*](#fn_64.md) And the first part, indeed, of this
 proposition respecting the purifications, immediately follows from the
 testimony of Plato in the passage already adduced, in which he asserts
 that the ultimate design of the Mysteries was to lead us back to the
@@ -1528,7 +1528,7 @@ the whole of this is rendered indisputable by the following
 <span id="page_121">p. 121</span>
 
 remarkable testimony of Olympiodorus, in his excellent manuscript
-Commentary on the *Phædo* of Plato. <span id="fr_65"></span>[\*](#fn_65)
+Commentary on the *Phædo* of Plato. <span id="fr_65"></span>[\*](#fn_65.md)
 “In the sacred rites,” says he, “popular purifications are in the first
 place brought forth, and after these such as are more arcane. But, in
 the third place, collections of various things into one are received;
@@ -1554,7 +1554,7 @@ self-inspection of simple forms, is analogous to epoptic vision.” Ὁτι εν
 mingled with pity, the ignorance and arrogance of modern critics, who
 pretend that this distribution of the virtues is entirely the invention
 of the latter Platonists, and without any foundation in the writings of
-Plato. <span id="fr_66"></span>[\*](#fn_66) And among the supporters of
+Plato. <span id="fr_66"></span>[\*](#fn_66.md) And among the supporters of
 such ignorance, I am sorry to find
 
 <span id="page_123">p. 123</span>
@@ -1569,7 +1569,7 @@ obvious, in the *Phædo*, with respect to the purifying virtues, that no
 one but a verbal critic could read this dialogue and be insensible to
 its truth: for Socrates in the very beginning expressly asserts that it
 is the business of philosophers to study to die, and to be themselves
-dead, <span id="fr_67"></span>[\*](#fn_67) and yet at the same time
+dead, <span id="fr_67"></span>[\*](#fn_67.md) and yet at the same time
 reprobates suicide. What then can such
 
 <span id="page_124">p. 124</span>
@@ -1581,7 +1581,7 @@ in verbal emendations; and yet with such despicable preparations for
 philosophical discussion, they have the impudence to oppose their
 puerile conceptions to the decisions of men of elevated genius and
 profound investigation, who, happily freed from the danger and drudgery
-of learning any foreign language, <span id="fr_68"></span>[\*](#fn_68)
+of learning any foreign language, <span id="fr_68"></span>[\*](#fn_68.md)
 directed all their attention without restraint to the acquisition of the
 most exalted truth.
 
@@ -1612,13 +1612,13 @@ draconum pinnata curricula, et glebæ. Siculæ fulcamina, et currum
 rapacem, et terram tenacem, et illuminarum Proserpinæ nuptiarum
 demeacula, et cætera quæ silentio tegit Eleusis, Atticæ sacrarium;
 miserandæ Psyches animæ, supplicis tuæ, subsiste. <span
-id="fr_69"></span>[†](#fn_69) That is, “I beseech thee, by thy
+id="fr_69"></span>[†](#fn_69.md) That is, “I beseech thee, by thy
 fruit-bearing right
 
 <span id="page_126">p. 126</span>
 
 hand, by the joyful ceremonies of harvest, by the occult sacred rites of
-thy cistæ, <span id="fr_70"></span>[\*](#fn_70) and by the winged car of
+thy cistæ, <span id="fr_70"></span>[\*](#fn_70.md) and by the winged car of
 thy attending dragons, and the furrows of the Sicilian soil, and the
 rapacious chariot (or car of the ravisher), *and the dark descending
 ceremonies attending the marriage of Proserpina, and the ascending rites
@@ -1627,7 +1627,7 @@ arcana which Eleusis the Attic sanctuary conceals in profound silence*,
 relieve the sorrows of thy wretched suppliant Psyché.” For the abduction
 of Proserpina signifies the descent of the soul, as is evident from the
 passage previously adduced from Olympiodorus, in which he says the soul
-descends Corically; <span id="fr_71"></span>[†](#fn_71) and this is
+descends Corically; <span id="fr_71"></span>[†](#fn_71.md) and this is
 confirmed by the authority of the philosopher Sallust, who observes,
 “That the abduction of Proserpina is fabled to have taken place about
 the opposite equinoctial; and by this the descent of souls \[into
@@ -1636,18 +1636,18 @@ earth-life\]
 <span id="page_127">p. 127</span> <span id="page_128">p. 128</span>
 
 <span id="img_12801"></span> ![Ceres lends her ear to
-Triptolemus.](img/12801.png)  
+Triptolemus.](img/12801.png.md)  
 Ceres lends her ear to Triptolemus.
 
 <span id="img_12802"></span> ![Proserpina and Pluto. Jupiter
-angry.](img/12802.png)  
+angry.](img/12802.png.md)  
 Proserpina and Pluto. Jupiter angry.
 
 <span id="page_129">p. 129</span>
 
 is implied.” Περι γουν την εναντιαν ισημεριαν ἡ της Κορης ἁρπαγη
 μυϑολογειται γενεσϑαι, ὁ δη καϑοδος εστι των ψυχων. <span
-id="fr_72"></span>[\*](#fn_72) And as the abduction of Proserpina was
+id="fr_72"></span>[\*](#fn_72.md) And as the abduction of Proserpina was
 exhibited in the dramatic representations of the Mysteries, as is clear
 from Apuleius, it indisputably follows, that this represented the
 descent of the soul, and its union with the dark tenement of the body.
@@ -1664,7 +1664,7 @@ from the highest authority, in the first division of this discourse.
 <span id="page_130">p. 130</span>
 
 Nor must the reader be disturbed on finding that, according to Porphyry,
-as cited by Eusebius, <span id="fr_73"></span>[\*](#fn_73) the fable of
+as cited by Eusebius, <span id="fr_73"></span>[\*](#fn_73.md) the fable of
 Proserpina alludes to seed placed in the ground; for this is likewise
 true of the fable, considered according to its material explanation. But
 it will be proper on this occasion to rise a little higher, and consider
@@ -1733,7 +1733,7 @@ mixed nature, or composed from all the four species of fables, the
 theological \[spiritual or psychical\], and material. But in order to
 understand this divine fable, it is requisite to know, that according to
 the arcana of the ancient theology, the Coric <span
-id="fr_74"></span>[\*](#fn_74) order (or the order belonging to
+id="fr_74"></span>[\*](#fn_74.md) order (or the order belonging to
 Proserpina) is twofold, one part of which is super-mundane, subsisting
 with Jupiter, or the Demiurgus, and thus associated with him
 establishing one artificer of divisible natures; but the other is
@@ -1755,14 +1755,14 @@ rendered by her inanimate and dead.” Και γαρ ἡ των ϑεολογων
 αβατοις εξηρημενους του παντος. Κατω δε μετα Πλουτωνος των χϑονιων
 επαρχειν, και τους της γης μυχους επιτροπευειν, και ζωην επορεγειν τοις
 εχατοις του παντος, και ψυχης μεταδιδοναι τοις παῤ εαυτων αψυχοις και
-νεχροις. <span id="fr_75"></span>[\*](#fn_75) Hence we may easily
+νεχροις. <span id="fr_75"></span>[\*](#fn_75.md) Hence we may easily
 perceive that
 
 <span id="page_135">p. 135</span>
 
 this fable is of the mixed kind, one part of which relates to the
 super-mundane establishment of the secondary cause of life, <span
-id="fr_76"></span>[\*](#fn_76) and the other to the procession or
+id="fr_76"></span>[\*](#fn_76.md) and the other to the procession or
 outgoing of life and soul to the farthest extremity of things. Let us
 therefore more attentively consider the fable, in that part of it which
 is symbolical of the descent of souls; in order to which, it will be
@@ -1783,7 +1783,7 @@ her till she came to Eleusis; there she found her daughter, and also
 taught to the Eleusinians the cultivation of corn.” Now in this fable
 *Ceres* represents the evolution of that intuitional part of our nature
 which we properly denominate *intellect* <span
-id="fr_77"></span>[\*](#fn_77) (or the unfolding of the intuitional
+id="fr_77"></span>[\*](#fn_77.md) (or the unfolding of the intuitional
 faculty of the mind from its quiet and collected condition in the world
 of thought); and *Proserpina* that living, self-moving, and animating
 part which we call *soul*. But lest this comparing of unfolded intellect
@@ -1795,11 +1795,11 @@ Jupiter, is
 <span id="page_137">p. 137</span> <span id="page_138">p. 138</span>
 
 <span id="img_13801"></span>
-![Proserpina.—Greek.                    Bacchus.—India.](img/13801.png)  
+![Proserpina.—Greek.                    Bacchus.—India.](img/13801.png.md)  
 Proserpina.—Greek.                    Bacchus.—India.
 
 <span id="img_13802"></span>
-![Ceres.—Roman.                    Demeter.—Etruscan.](img/13802.png)  
+![Ceres.—Roman.                    Demeter.—Etruscan.](img/13802.png.md)  
 Ceres.—Roman.                    Demeter.—Etruscan.
 
 <span id="page_139">p. 139</span>
@@ -1807,7 +1807,7 @@ Ceres.—Roman.                    Demeter.—Etruscan.
 evidently of a Saturnian and zoogonic, or intellectual and vivific rank;
 and hence, as we are informed by the philosopher Sallust, among the
 mundane divinities she is the deity of the planet Saturn. <span
-id="fr_78"></span>[\*](#fn_78) So that in consequence of this, our
+id="fr_78"></span>[\*](#fn_78.md) So that in consequence of this, our
 intellect (or intuitive faculty) in a descending state must aptly
 symbolize with the divinity of Ceres. But Pluto signifies the whole of a
 material nature; since the empire of this god, according to Pythagoras,
@@ -1841,7 +1841,7 @@ regions (for such is the
 <span id="page_141">p. 141</span> <span id="page_142">p. 142</span>
 
 <span id="img_14201"></span> ![Venus, Diana, and Pallas visit
-Proserpina.](img/14201.png)  
+Proserpina.](img/14201.png.md)  
 Venus, Diana, and Pallas visit Proserpina.
 
 <span id="page_143">p. 143</span>
@@ -1908,7 +1908,7 @@ persuasions of Venus:
 
 And this with the greatest propriety: for oblivion necessarily follows a
 remission of intellectual action, and is as necessarily attended with
-the allurements of desire. <span id="fr_79"></span>[\*](#fn_79) Nor is
+the allurements of desire. <span id="fr_79"></span>[\*](#fn_79.md) Nor is
 her dress less symbolical of the acting of
 
 <span id="page_146">p. 146</span>
@@ -1948,7 +1948,7 @@ these energies do not arrive to perfection previous to the sinking of
 the soul into the dark receptacle of matter. After this we behold her
 issuing on the plain with Minerva and Diana, and attended by a beauteous
 train of nymphs, who are evident symbols of world of generation, <span
-id="fr_80"></span>[\*](#fn_80) and are, therefore, the proper companions
+id="fr_80"></span>[\*](#fn_80.md) and are, therefore, the proper companions
 of the soul about to fall into its fluctuating realms.
 
 But the design of Proserpina, in venturing from her retreat, is
@@ -2031,7 +2031,7 @@ corporeal form; the secret meaning of which most
 
 admirably accords with the rape of Proserpina, which, according to
 Homer, was the immediate consequence of gathering this wonderful
-flower. <span id="fr_81"></span>[\*](#fn_81) For by Narcissus falling in
+flower. <span id="fr_81"></span>[\*](#fn_81.md) For by Narcissus falling in
 love with his shadow in the limpid stream we may behold an exquisitely
 apt representation of a soul vehemently gazing on the flowing condition
 of a material body, and in consequence of this, becoming enamored with a
@@ -2046,11 +2046,11 @@ life totally consisting
 <span id="page_151">p. 151</span> <span id="page_152">p. 152</span>
 
 <span id="img_15201"></span> ![Proserpina gathering
-Flowers.](img/15201.png)  
+Flowers.](img/15201.png.md)  
 Proserpina gathering Flowers.
 
 <span id="img_15202"></span> ![Pluto carrying off
-Proserpina.](img/15202.png)  
+Proserpina.](img/15202.png.md)  
 Pluto carrying off Proserpina.
 
 <span id="page_153">p. 153</span>
@@ -2101,7 +2101,7 @@ with the soul.
 <span id="page_155">p. 155</span> <span id="page_156">p. 156</span>
 
 <span id="img_15601"></span> ![Proserpina brought before Pluto in
-Hades.](img/15601.png)  
+Hades.](img/15601.png.md)  
 Proserpina brought before Pluto in Hades.
 
 <span id="page_157">p. 157</span>
@@ -2162,7 +2162,7 @@ prison, and bound with fetters, confirms the explanation of the fable
 here given as symbolical of the descent of the soul; for such, as we
 have already largely proved, is the condition of the soul from its union
 with the body, according to the uniform testimony of the most ancient
-philosophers and priests. <span id="fr_82"></span>[\*](#fn_82)
+philosophers and priests. <span id="fr_82"></span>[\*](#fn_82.md)
 
 After this, the wanderings of Ceres for the discovery of Proserpina
 commence. She is described, by Minutius Felix, as begirt with a serpent,
@@ -2182,7 +2182,7 @@ the evolutions and outgoings of an intellectual nature into the regions
 of sense than the wanderings of Ceres by the light of torches through
 the darkness of night, and continuing the pursuit until she proceeds
 into the depths of Hades itself? For the intellectual part of the
-soul, <span id="fr_83"></span>[\*](#fn_83) when it verges towards body,
+soul, <span id="fr_83"></span>[\*](#fn_83.md) when it verges towards body,
 enkindles, indeed, a light in its dark receptacle, but becomes itself
 situated in obscurity: and, as Proclus somewhere divinely observes, the
 mortal nature by this means participates of the divine intellect, but
@@ -2192,7 +2192,7 @@ operations of
 
 <span id="page_161">p. 161</span> <span id="page_162">p. 162</span>
 
-<span id="img_16201"></span> ![Ceres before Pluto.](img/16201.png)  
+<span id="img_16201"></span> ![Ceres before Pluto.](img/16201.png.md)  
 Ceres before Pluto.
 
 <span id="page_163">p. 163</span>
@@ -2207,7 +2207,7 @@ lamentable dominions of sense.
 But our explanation will receive additional strength from considering
 that these sacred rites occupied the space of nine days in their
 celebration; and this, doubtless, because, according to Homer, <span
-id="fr_84"></span>[\*](#fn_84) this goddess did not discover the
+id="fr_84"></span>[\*](#fn_84.md) this goddess did not discover the
 residence of her daughter till the expiration of that period. For the
 soul, in falling from her original and divine abode in the heavens,
 passed through eight spheres,
@@ -2222,9 +2222,9 @@ into these mystic rites was called *agurmos, i. e.* according to
 Hesychius, *ekklesia* et παν το αγειρομενον, *an assembly, and all
 collecting together:* and this with the greatest propriety; for,
 according to Pythagoras, “the people of dreams are souls collected
-together in the Galaxy. <span id="fr_85"></span>[\*](#fn_85) Δημος δε
+together in the Galaxy. <span id="fr_85"></span>[\*](#fn_85.md) Δημος δε
 ονειρων κατα Πυϑαγοραν αἱ ψυχαι, ἁς συναγεσϑαι φησιν εις τον
-γαλαξιαν. <span id="fr_86"></span>[†](#fn_86) And from this part of the
+γαλαξιαν. <span id="fr_86"></span>[†](#fn_86.md) And from this part of the
 heavens souls first begin to descend. After this, the soul falls from
 the tropic of Cancer into the planet Saturn; and to this the second day
 of initiation was consecrated, which they called Αλαδε μυσται, \[“to the
@@ -2235,7 +2235,7 @@ sea, ye initiated ones!”\] because, says Meursius, on that
 day the crier was accustomed to admonish the mystæ to betake themselves
 to the sea. Now the meaning of this will be easily understood, by
 considering that, according to the arcana of the ancient theology, as
-may be learned from Proclus, <span id="fr_87"></span>[\*](#fn_87) the
+may be learned from Proclus, <span id="fr_87"></span>[\*](#fn_87.md) the
 whole planetary system is under the dominion of Neptune; and this too is
 confirmed by Martianus Capella, who describes the several planets as so
 many streams. Hence when the soul falls into the planet Saturn, which
@@ -2254,12 +2254,12 @@ Pythagoras, as we are informed by Porphyry,
 in his life of that philosopher, symbolically called the sea *a tear of
 Saturn*. But the eighth day of initiation, which is symbolical of the
 falling of the soul into the lunar orb, <span
-id="fr_88"></span>[\*](#fn_88) was celebrated by the candidates by a
+id="fr_88"></span>[\*](#fn_88.md) was celebrated by the candidates by a
 *repeated initiation and second sacred rites;* because the soul in this
 situation is about to bid adieu to every thing of a celestial nature; to
 sink into a perfect oblivion of her divine origin and pristine felicity;
 and to rush profoundly into the region of dissimilitude, <span
-id="fr_89"></span>[†](#fn_89) ignorance, and error. And lastly, on the
+id="fr_89"></span>[†](#fn_89.md) ignorance, and error. And lastly, on the
 ninth day, when the soul falls into the sublunary world and becomes
 united with a terrestrial body, a libation was performed, such as is
 usual in sacred rites. Here the initiates, filling two earthen vessels
@@ -2270,15 +2270,15 @@ denoting vessels of a conical shape, and the latter small bowls or
 <span id="page_167">p. 167</span> <span id="page_168">p. 168</span>
 
 <span id="img_16801"></span> ![Bacchus and
-Faun.                    Tragic Actor.](img/16801.png)  
+Faun.                    Tragic Actor.](img/16801.png.md)  
 Bacchus and Faun.                    Tragic Actor.
 
 <span id="img_16802"></span> ![Group of Greek
-Divinities.](img/16802.png)  
+Divinities.](img/16802.png.md)  
 Group of Greek Divinities.
 
 <span id="img_16803"></span> ![Goddess Night.                    Three
-Graces.](img/16803.png)  
+Graces.](img/16803.png.md)  
 Goddess Night.                    Three Graces.
 
 <span id="page_169">p. 169</span>
@@ -2287,7 +2287,7 @@ cups sacred to Bacchus, they placed one towards the east, and the other
 towards the west. And the first of these was doubtless, according to the
 interpretation of Proclus, sacred to the earth, and symbolical of the
 soul proceeding from an orbicular figure, or divine form, into a conical
-defluxion and terrene situation: <span id="fr_90"></span>[\*](#fn_90)
+defluxion and terrene situation: <span id="fr_90"></span>[\*](#fn_90.md)
 but the other was sacred to the soul, and symbolical of its celestial
 origin; since our intellect is the legitimate progeny of Bacchus. And
 this too was occultly signified by the position of the earthen vessels;
@@ -2296,7 +2296,7 @@ center of the universe, which is analogous to fire, belongs to Jupiter,
 who likewise governs the fixed and inerratic sphere; and the western to
 Pluto, who governs the earth, because the west is allied to earth on
 account of its dark and nocturnal nature. <span
-id="fr_91"></span>[†](#fn_91)
+id="fr_91"></span>[†](#fn_91.md)
 
 Again, according to Clemens Alexandrinus, the following confession was
 made by
@@ -2305,7 +2305,7 @@ made by
 
 the new initiate in these sacred rites, in answer to the interrogations
 of the Hierophant: “I have fasted; I have drank the Cyceon; <span
-id="fr_92"></span>[\*](#fn_92) I have taken out of the Cista, and placed
+id="fr_92"></span>[\*](#fn_92.md) I have taken out of the Cista, and placed
 what I have taken out into the Calathus; and alternately I have taken
 out of the Calathus and put into the Cista.” Κᾳστι το συνϑημα Ελευσινιων
 μυστηριων. Ενηστωσα· επιον τον κυκεωνα· ελαβον εκ κιστης,
@@ -2345,7 +2345,7 @@ changed her arts, and determined to try if she could not exhilarate, by
 prodigies (or out-of-the-way expedients), a mind which she was not able
 to allure by earnest endeavors. For this purpose she uncovered that part
 of her body by which the female sex produces children and derives the
-appellation of woman. <span id="fr_93"></span>[\*](#fn_93) This she
+appellation of woman. <span id="fr_93"></span>[\*](#fn_93.md) This she
 caused to assume a purer appearance, and a smoothness such as is found
 in the private parts of a stripling child. She then returns to the
 afflicted goddess, and, in the midst of those attempts which are usually
@@ -2360,14 +2360,14 @@ who is very indignant
 <span id="page_173">p. 173</span> <span id="page_174">p. 174</span>
 
 <span id="img_17401"></span> ![Cupid and Venus. Satyr and Goat. Baubo,
-Ceres, and Nymphs.](img/17401.png)  
+Ceres, and Nymphs.](img/17401.png.md)  
 Cupid and Venus. Satyr and Goat. Baubo, Ceres, and Nymphs.
 
 <span id="page_175">p. 175</span>
 
 at the indecency as he conceives, in the story, and because it composed
 the arcana of the Eleusinian rites. Indeed as the simple father, with
-the usual ignorance <span id="fr_94"></span>[\*](#fn_94) of a Christian
+the usual ignorance <span id="fr_94"></span>[\*](#fn_94.md) of a Christian
 priest, considered the fable literally, and as designed to promote
 indecency and lust, we can not wonder at his ill-timed abuse. But the
 fact is, this narration belonged to the απορῥητα, *aporrheta*, or arcane
@@ -2376,8 +2376,8 @@ becoming the object of ignorant declamation, licentious perversion, and
 impious contempt. For the purity and excellence of these institutions is
 perpetually acknowledged even by Dr. Warburton himself, who, in this
 instance, has dispersed, for a moment, the mists of delusion and
-intolerant zeal. <span id="fr_95"></span>[†](#fn_95) Besides, as
-Iamblichus beautifully observes, <span id="fr_96"></span>[‡](#fn_96)
+intolerant zeal. <span id="fr_95"></span>[†](#fn_95.md) Besides, as
+Iamblichus beautifully observes, <span id="fr_96"></span>[‡](#fn_96.md)
 “exhibitions of this kind in the Mysteries were designed to free us from
 licentious
 
@@ -2388,7 +2388,7 @@ desire, through the awful sanctity with which these rites were
 accompanied: for,” says he, “the proper way of freeing ourselves from
 the passions is, first, to indulge them with moderation, by which means
 they become satisfied; listen, as it were, to persuasion, and may thus
-be entirely removed.” <span id="fr_97"></span>[\*](#fn_97) This doctrine
+be entirely removed.” <span id="fr_97"></span>[\*](#fn_97.md) This doctrine
 is indeed so rational, that it can never be objected to by any but
 quacks in philosophy and religion. For as he is nothing more than a
 quack in medicine who endeavors to remove a latent bodily disease before
@@ -2447,7 +2447,7 @@ soul, alternately falling into generation, and ascending thence into the
 intelligible world, and becoming perfectly restored to her divine and
 intellectual nature. For *the Cista* contained the most arcane symbols
 of the Mysteries, into which it was unlawful for the profane to look:
-and whatever were its contents, <span id="fr_98"></span>[\*](#fn_98) we
+and whatever were its contents, <span id="fr_98"></span>[\*](#fn_98.md) we
 learn from the hymn of Callimachus to Ceres, that they were formed from
 gold, which, from its incorruptibility, is an evident symbol of an
 immaterial nature. And as to the Calathus, or basket, this, as we are
@@ -2463,7 +2463,7 @@ condition of being super-material and immortal, into one material and
 mortal; and that, on the contrary, by living according to the purity
 which the Mysteries inculcated, he should re-ascend to that perfection
 of his nature, from which he had unhappily fallen. <span
-id="fr_99"></span>[\*](#fn_99)
+id="fr_99"></span>[\*](#fn_99.md)
 
 <span id="page_181">p. 181</span>
 
@@ -2479,7 +2479,7 @@ the realms of generated existence becomes, indeed, the greatest benefit
 and ornament which a material nature is capable of receiving: for
 without this participation of intellect in the lowest department of
 corporeal life, nothing but the irrational soul <span
-id="fr_100"></span>[\*](#fn_100) and a brutal life would subsist in its
+id="fr_100"></span>[\*](#fn_100.md) and a brutal life would subsist in its
 dark and fluctuating abode, the body. As the art of tillage, therefore,
 and particularly the growing of corn, becomes the greatest possible
 
@@ -2516,7 +2516,7 @@ manner as not to derogate from the dignity, or impair the perfection, of
 the divine principle thus imparted. I only add, that the preceding
 exposition will enable us to perceive the meaning and beauty of the
 following representation of the rape of Proserpina, from the Heliacan
-tables of Hieronymus Aleander. <span id="fr_101"></span>[\*](#fn_101)
+tables of Hieronymus Aleander. <span id="fr_101"></span>[\*](#fn_101.md)
 Here, first of all, we behold Ceres in a car drawn by two dragons, and
 afterwards, Diana and Minerva, with an inverted calathus at their feet,
 and pointing out to Ceres her daughter Proserpina, who is hurried away
@@ -2538,8 +2538,8 @@ itself corroborated by the preceding exposition. Ὁτι μεν ουν ἡ πα�
 pergit, εν τοις Ορφικοις επεσι, και τοις Αιγυπτιακοις και Φρυγιοις
 λογοις. Μαλιστα δε οἱ περι τας τελετας οργιασμοι, και τα δρωμενα
 συμβολικως εν ταις ἱερουργιαις, την των παλαιων εμφαιναι διανοιαν. <span
-id="fr_102"></span>[\*](#fn_102) *i. e*. “The ancient physiology, <span
-id="fr_103"></span>[†](#fn_103) both
+id="fr_102"></span>[\*](#fn_102.md) *i. e*. “The ancient physiology, <span
+id="fr_103"></span>[†](#fn_103.md) both
 
 <span id="page_185">p. 185</span>
 
@@ -2547,7 +2547,7 @@ of the Greeks and the *Barbarians*, was nothing else than a discourse on
 natural subjects, involved or veiled in fables, concealing many things
 through enigmas and under-meanings, and also a theology taught, in
 which, after the manner of the Mysteries, <span
-id="fr_104"></span>[\*](#fn_104) the things spoken were clearer to the
+id="fr_104"></span>[\*](#fn_104.md) the things spoken were clearer to the
 multitude than those delivered in silence, and the things delivered in
 silence were more subject to investigation than what was spoken. This is
 manifest from the *Orphic verses*, and the Egyptian and Phrygian
@@ -2559,7 +2559,7 @@ them by the ancients*.”
 
 ### Footnotes
 
-<span id="fn_9"></span>[31:\*](ebm05.htm#fr_9) The profounder esoteric
+<span id="fn_9"></span>[31:\*](ebm05.htm#fr_9.md) The profounder esoteric
 doctrines of the ancients were denominated *wisdom*, and afterward
 *philosophy*, and also the *gnosis* or knowledge. They related to the
 human soul, its divine parentage, <span id="page_32">p. 32</span> its
@@ -2568,33 +2568,33 @@ supposed degradation from its high estate by becoming connected with
 to God by regenerations, popularly supposed to be transmigrations,
 etc.—A. W.
 
-<span id="fn_10"></span>[32:\*](ebm05.htm#fr_10) *Stromata*, book iii.
+<span id="fn_10"></span>[32:\*](ebm05.htm#fr_10.md) *Stromata*, book iii.
 
-<span id="fn_11"></span>[34:\*](ebm05.htm#fr_11) *Commentary on the
+<span id="fn_11"></span>[34:\*](ebm05.htm#fr_11.md) *Commentary on the
 Statesman of Plato*, page 374.
 
-<span id="fn_12"></span>[34:†](ebm05.htm#fr_12) The Lesser Mysteries
+<span id="fn_12"></span>[34:†](ebm05.htm#fr_12.md) The Lesser Mysteries
 were celebrated at Agræ; and the persons there initiated were
 denominated *Mystæ*: Only such could be received at the sacred rites at
 Eleusis.
 
-<span id="fn_13"></span>[35:\*](ebm05.htm#fr_13) Philosophy here relates
+<span id="fn_13"></span>[35:\*](ebm05.htm#fr_13.md) Philosophy here relates
 to discipline of the life.
 
-<span id="fn_14"></span>[37:\*](ebm05.htm#fr_14) Greek μαντεις
+<span id="fn_14"></span>[37:\*](ebm05.htm#fr_14.md) Greek μαντεις
 *manteis*—more properly prophets, those filled by the prophetic mania or
 eutheasm.
 
-<span id="fn_15"></span>[37:†](ebm05.htm#fr_15) More correctly—“The soul
+<span id="fn_15"></span>[37:†](ebm05.htm#fr_15.md) More correctly—“The soul
 is yoked to the body as if by way of punishment,” as culprits were
 fastened to others or even to corpses. See *Paul’s Epistle to the
 Romans*, vii, 25.
 
-<span id="fn_16"></span>[39:\*](ebm05.htm#fr_16) Greek ὑλη, matter
+<span id="fn_16"></span>[39:\*](ebm05.htm#fr_16.md) Greek ὑλη, matter
 supposed to contain all the principles the negative of life, order, and
 goodness.
 
-<span id="fn_17"></span>[39:†](ebm05.htm#fr_17) This passage doubtless
+<span id="fn_17"></span>[39:†](ebm05.htm#fr_17.md) This passage doubtless
 alludes to the ancient and beautiful story of Cupid and Psyché, in which
 Psyché is said to fall asleep in Hades; and this through rashly
 attempting to behold corporeal beauty: and the observation of Plotinus
@@ -2637,14 +2637,14 @@ not by science (επιστημῃ); that he is sleeping and dreaming away his
 present life; and before he is roused will descend to Hades, and there
 be profoundly and perfectly laid asleep.” vii. 14.
 
-<span id="fn_18"></span>[43:\*](ebm05.htm#fr_18) *Phædo*, 38. “Those who
+<span id="fn_18"></span>[43:\*](ebm05.htm#fr_18.md) *Phædo*, 38. “Those who
 instituted the Mysteries for us appear to have intimated that whoever
 shall arrive in Hades unpurified and not initiated shall lie in mud; but
 he who arrives there purified and initiated shall dwell with the gods.
 For there are many bearers of the wand or thyrsus, but few who are
 inspired.”
 
-<span id="fn_19"></span>[44:\*](ebm05.htm#fr_19) *Intellect*, Greek
+<span id="fn_19"></span>[44:\*](ebm05.htm#fr_19.md) *Intellect*, Greek
 νους, *nous*, is the higher faculty of the mind. It is substantially the
 same as the *pneuma*, or spirit, treated of in the New Testament; and
 hence the term “*intellectual*,” as used in Mr. Taylor’s translation of
@@ -2653,12 +2653,12 @@ familiar with the Christian cultus.
 
 A. W.
 
-<span id="fn_20"></span>[44:†](ebm05.htm#fr_20) *Physics of Aristotle*.
+<span id="fn_20"></span>[44:†](ebm05.htm#fr_20.md) *Physics of Aristotle*.
 
-<span id="fn_21"></span>[46:\*](ebm05.htm#fr_21) <span
+<span id="fn_21"></span>[46:\*](ebm05.htm#fr_21.md) <span
 class="smallcaps">Ficinus</span>: *De Immortal. Anim*. book xviii.
 
-<span id="fn_22"></span>[47:\*](ebm05.htm#fr_22) We observe in the *New
+<span id="fn_22"></span>[47:\*](ebm05.htm#fr_22.md) We observe in the *New
 Testament* a like disposition on the part of Jesus and Paul to classify
 their doctrines as esoteric and exoteric, “the Mysteries of the kingdom
 of God” for the apostles, and “parables” for the multitude. “We speak
@@ -2680,24 +2680,24 @@ This same division of the Christians into neophytes and perfect, appears
 to have been kept up for centuries; and Godfrey Higgins asserts that it
 is maintained in the Roman Church.—A. W.
 
-<span id="fn_23"></span>[48:\*](ebm05.htm#fr_23) <span
+<span id="fn_23"></span>[48:\*](ebm05.htm#fr_23.md) <span
 class="smallcaps">Herodotus</span>, ii. 51, 81.
 
 “What Orpheus delivered in hidden allegories Pythagoras learned when he
 was initiated into the Orphic Mysteries; and Plato next received a
 knowledge of them from the Orphic and Pythagorean writings.”
 
-<span id="fn_24"></span>[50:\*](ebm05.htm#fr_24) *Ancient
+<span id="fn_24"></span>[50:\*](ebm05.htm#fr_24.md) *Ancient
 Symbol-Worship, page* 11*, note*.
 
-<span id="fn_25"></span>[51:\*](ebm05.htm#fr_25) *I. e*., a disposition
+<span id="fn_25"></span>[51:\*](ebm05.htm#fr_25.md) *I. e*., a disposition
 to investigate for the purpose of eliciting truth, and reducing it to
 practice.
 
-<span id="fn_26"></span>[52:\*](ebm05.htm#fr_26) Cocytus, lamentation, a
+<span id="fn_26"></span>[52:\*](ebm05.htm#fr_26.md) Cocytus, lamentation, a
 river in the Underworld.
 
-<span id="fn_27"></span>[52:†](ebm05.htm#fr_27) Jacob Bryant says: “All
+<span id="fn_27"></span>[52:†](ebm05.htm#fr_27.md) Jacob Bryant says: “All
 fountains were esteemed sacred, but especially those which had any
 preternatural quality and abounded with exhalations. It was an universal
 notion that a divine energy proceeded from these effluvia; and that the
@@ -2710,35 +2710,35 @@ Mythology*, vol. i. p. 276.
 The Delphic oracle was above a fissure, *gounous* or *bocca inferiore*,
 of the earth, and the pythoness inhaled the vapors.—A. W.
 
-<span id="fn_28"></span>[54:†](ebm05.htm#fr_28) *Republic*. x, 16.
+<span id="fn_28"></span>[54:†](ebm05.htm#fr_28.md) *Republic*. x, 16.
 “After they were laid asleep, and midnight was approaching, there was
 thunder and earthquake; and they were thence on a sudden carried upward,
 some one way, and some another, approaching to the region of generation
 like stars.”
 
-<span id="fn_29"></span>[55:\*](ebm05.htm#fr_29) *Material* demons are a
+<span id="fn_29"></span>[55:\*](ebm05.htm#fr_29.md) *Material* demons are a
 lower grade of spiritual essences that are capable of assuming forms
 which make them perceptible by the physical senses.—A. W.
 
-<span id="fn_30"></span>[55:†](ebm05.htm#fr_30) *Hyle* or Matter. All
+<span id="fn_30"></span>[55:†](ebm05.htm#fr_30.md) *Hyle* or Matter. All
 evil incident to human life, as is here shown, was supposed to originate
 from the connection of the soul to material substance, the latter being
 regarded as the receptacle <span id="page_56">p. 56</span> of everything
 evil. But why the soul is thus immerged and punished is nowhere
 explained.—A. W.
 
-<span id="fn_31"></span>[59:\*](ebm05.htm#fr_31) This and the other
+<span id="fn_31"></span>[59:\*](ebm05.htm#fr_31.md) This and the other
 citations from Empedocles are to be found in the book of Hierocles on
 *The Golden Verses* of Pythagoras.
 
-<span id="fn_32"></span>[63:\*](ebm05.htm#fr_32) The presence of
+<span id="fn_32"></span>[63:\*](ebm05.htm#fr_32.md) The presence of
 Cerberus in Grecian and Roman descriptions of the Underworld shows that
 the ideas of the poets and mythologists were derived, not only from
 Egypt, but from the Brahmans of the far East. Yama, the lord of the
 Underworld, is attended by his dog *Karbaru*, the spotted, styled also
 *Trikasa*, the three-headed.
 
-<span id="fn_33"></span>[64:†](ebm05.htm#fr_33) In the second edition
+<span id="fn_33"></span>[64:†](ebm05.htm#fr_33.md) In the second edition
 these terms are changed to *dianoietic* and *doxastic*, words which we
 cannot adopt, as they are not accepted English terms. The *nous*,
 intellect or spirit, pertains to the higher or intuitional part of the
@@ -2749,13 +2749,13 @@ has three degrees—opinion, science, and illumination. The means or
 instrument of the first is reception; of the second, dialectic; of the
 third, intuition.”—A. W.
 
-<span id="fn_34"></span>[65:\*](ebm05.htm#fr_34) Hades, the Underworld,
+<span id="fn_34"></span>[65:\*](ebm05.htm#fr_34.md) Hades, the Underworld,
 supposed by classical students to be the region or estate of departed
 souls, it will have been noticed, is regarded by Mr. Taylor and other
 Platonists, as the human body, which they consider to be the grave and
 place of punishment of the soul.—A. W.
 
-<span id="fn_35"></span>[66:\*](ebm05.htm#fr_35) *Aporrheta*, the arcane
+<span id="fn_35"></span>[66:\*](ebm05.htm#fr_35.md) *Aporrheta*, the arcane
 or confidential disclosures made to the candidate undergoing initiation.
 In the Eleusinia, these were made by the Hierophant, and enforced by him
 from the Book of Interpretation, said to have consisted of two tablets
@@ -2763,7 +2763,7 @@ of stone. This was the *petroma*, a name usually derived from *petra*, a
 rock, <span id="page_67">p. 67</span> or possibly from פתר, *peter*, an
 interpreter. See *II. Corinthians*, xii. 6-8.—A. W.
 
-<span id="fn_36"></span>[67:\*](ebm05.htm#fr_36) *Phædo*, 16. “The
+<span id="fn_36"></span>[67:\*](ebm05.htm#fr_36.md) *Phædo*, 16. “The
 instruction in the doctrine given in the Mysteries, that we human beings
 are in a kind of prison, and that we ought not to free ourselves from it
 or seek to escape, appears to me difficult to be understood, and not
@@ -2772,27 +2772,27 @@ easy to apprehend. The gods take care of us, and we are theirs.”
 Plotinus, it will be remembered, perceived by the interior faculty that
 Porphyry contemplated suicide, and admonished him accordingly.—A. W.
 
-<span id="fn_37"></span>[68:\*](ebm05.htm#fr_37) In the Hindu mythology,
+<span id="fn_37"></span>[68:\*](ebm05.htm#fr_37.md) In the Hindu mythology,
 from which this symbolism is evidently derived, a deity deprived thus of
 the lingam or phallus, parted with his divine authority.
 
-<span id="fn_38"></span>[69:\*](ebm05.htm#fr_38) From Dionysus, the
+<span id="fn_38"></span>[69:\*](ebm05.htm#fr_38.md) From Dionysus, the
 Greek name of Bacchus, and usually so translated.
 
-<span id="fn_39"></span>[75:\*](ebm05.htm#fr_39) *Commentary on the
+<span id="fn_39"></span>[75:\*](ebm05.htm#fr_39.md) *Commentary on the
 Statesman of Plato, p.* 382.
 
-<span id="fn_40"></span>[82:\*](ebm05.htm#fr_40) *Theology of Plato*,
+<span id="fn_40"></span>[82:\*](ebm05.htm#fr_40.md) *Theology of Plato*,
 book iv. p. 220.
 
-<span id="fn_41"></span>[85:\*](ebm05.htm#fr_41) Theon appears to regard
+<span id="fn_41"></span>[85:\*](ebm05.htm#fr_41.md) Theon appears to regard
 the final apocalypse or epopteia, like E. Pococke to whose views
 allusion is made elsewhere. This writer says: “The initiated were styled
 ebaptoi,” and adds in a foot-note—“*Avaptoi*, literally obtaining or
 getting.” According to this the *epopteia* would imply the final
 reception of the interior doctrines.—A. W.
 
-<span id="fn_42"></span>[87:\*](ebm05.htm#fr_42) The apostle Paul
+<span id="fn_42"></span>[87:\*](ebm05.htm#fr_42.md) The apostle Paul
 apparently alludes to the disclosing of the Mystical doctrines to the
 epopts or seers, in his *Second Epistle to the Corinthians*, xii. 3, 4:
 “I knew a certain man,—whether in <span id="page_88">p. 88</span> body
@@ -2800,11 +2800,11 @@ or outside of body, I know not: God knoweth,—who was rapt into paradise,
 and heard αρρητα ρηματα, things ineffable, which it is not lawful for a
 man to repeat.”
 
-<span id="fn_43"></span>[88:\*](ebm05.htm#fr_43) <span
+<span id="fn_43"></span>[88:\*](ebm05.htm#fr_43.md) <span
 class="smallcaps">Paul</span>, *Epistle to the Philippians*, iii, 20:
 “Our citizenship is in the heavens.”
 
-<span id="fn_44"></span>[89:\*](ebm05.htm#fr_44) *Medical and Surgical
+<span id="fn_44"></span>[89:\*](ebm05.htm#fr_44.md) *Medical and Surgical
 Reporter*, vol. xxxii. p. 195. “Those who have professed to teach their
 fellow-mortals new truths concerning immortality, have based their
 authority on direct divine inspiration. Numa, Zoroaster, Mohammed,
@@ -2834,7 +2834,7 @@ self-knowledge, and intellectual discipline, the soul can be raised to
 the vision of eternal truth, goodness, and beauty—that is, to the vision
 of God.” This is the epopteia.—A. W.
 
-<span id="fn_45"></span>[97:\*](ebm05.htm#fr_45) <span
+<span id="fn_45"></span>[97:\*](ebm05.htm#fr_45.md) <span
 class="smallcaps">Plato</span>: *Republic*, vi. 5. “He who possesses the
 love of true knowledge is naturally carried in his aspirations to the
 real principle of being; and his love knows no repose till it shall have
@@ -2843,7 +2843,7 @@ soul, which is akin to the Permanent and Essential; and so, the divine
 conjunction having evolved interior knowledge and truth, the knowledge
 of being is won.”
 
-<span id="fn_46"></span>[98:†](ebm05.htm#fr_46) *Timæus*. xliv. “The
+<span id="fn_46"></span>[98:†](ebm05.htm#fr_46.md) *Timæus*. xliv. “The
 Deity (Demiurgus) himself formed the *divine*; and then delivered over
 to his celestial offspring \[the <span id="page_99">p. 99</span>
 subordinate or generated gods\], the task of creating the *mortal*.
@@ -2853,30 +2853,30 @@ fashioned after this the mortal body, which they consigned to the soul
 as a vehicle, and in which they placed also another kind of a soul,
 which is mortal, and is the seat of violent and fatal passions.”
 
-<span id="fn_47"></span>[99:\*](ebm05.htm#fr_47) That is to say, as if
+<span id="fn_47"></span>[99:\*](ebm05.htm#fr_47.md) That is to say, as if
 dying. Koré was a name of Proserpina.
 
-<span id="fn_48"></span>[99:†](ebm05.htm#fr_48) *I. e.* as if divided
+<span id="fn_48"></span>[99:†](ebm05.htm#fr_48.md) *I. e.* as if divided
 into pieces.
 
-<span id="fn_49"></span>[99:‡](ebm05.htm#fr_49) *I. e.* Chained fast.
+<span id="fn_49"></span>[99:‡](ebm05.htm#fr_49.md) *I. e.* Chained fast.
 
-<span id="fn_50"></span>[100:†](ebm05.htm#fr_50) l *Corinthians*, xv.
+<span id="fn_50"></span>[100:†](ebm05.htm#fr_50.md) l *Corinthians*, xv.
 42-44. “So also is the *anastasis* of the dead. It is sown in corruption
 \[the material body\]; it is raised in incorruption: it is sown in
 dishonor; it is raised in glory: it is sown in weakness; it is raised in
 power: it is sown a psychical body; it is raised a spiritual body.”
 
-<span id="fn_51"></span>[102:\*](ebm05.htm#fr_51) *The Golden Ass*. xi.
+<span id="fn_51"></span>[102:\*](ebm05.htm#fr_51.md) *The Golden Ass*. xi.
 p. 239 (*Bohn*).
 
-<span id="fn_52"></span>[103:\*](ebm05.htm#fr_52) The peculiar rites of
+<span id="fn_52"></span>[103:\*](ebm05.htm#fr_52.md) The peculiar rites of
 the Mysteries were indifferently termed Orgies or Labors, *teletai* or
 finishings, and initiations.
 
-<span id="fn_53"></span>[104:\*](ebm05.htm#fr_53) *Phædrus*, 64.
+<span id="fn_53"></span>[104:\*](ebm05.htm#fr_53.md) *Phædrus*, 64.
 
-<span id="fn_54"></span>[104:†](ebm05.htm#fr_54) <span
+<span id="fn_54"></span>[104:†](ebm05.htm#fr_54.md) <span
 class="smallcaps">Proclus</span>: *Theology of Plato*, book iv. The
 following reading is suggested: “The initiation and final disclosing are
 a symbol of the Ineffable Silence, and of the *enosis*, or being at one
@@ -2911,7 +2911,7 @@ divine germ, you attain this oneness. We stand then in the immediate
 presence of God, who shines out from the profound depths of the
 soul.”—A. W.
 
-<span id="fn_55"></span>[107:\*](ebm05.htm#fr_55) <span
+<span id="fn_55"></span>[107:\*](ebm05.htm#fr_55.md) <span
 class="smallcaps">Apuleius</span>: *The Golden Ass*. xi. The candidate
 was instructed by the hierophant, and permitted to look within the
 *cista* or chest, which contained the mystic serpent, the phallus, egg,
@@ -2919,7 +2919,7 @@ and grains sacred to Demeter. As the epopt was reverent, or otherwise,
 he now “knew himself” by the sentiments aroused. Plato and Alcibiades
 gazed with emotions wide apart.—A. W.
 
-<span id="fn_56"></span>[107:†](ebm05.htm#fr_56) <span
+<span id="fn_56"></span>[107:†](ebm05.htm#fr_56.md) <span
 class="smallcaps">Plotinus</span>: *Letter to Flaccus*. “It is only now
 and then that we can enjoy the elevation made possible for us, above the
 limits of the body and the world. I myself have realized it but three
@@ -2933,30 +2933,30 @@ Sovereign Good; also that he himself was only once so elevated to the
 *enosis* or union with God, so as to have glimpses of the eternal world.
 This did not occur till he was sixty-eight years of age.—A. W.
 
-<span id="fn_57"></span>[108:\*](ebm05.htm#fr_57) *I. e*. a luminous
+<span id="fn_57"></span>[108:\*](ebm05.htm#fr_57.md) *I. e*. a luminous
 appearance without any defined form or shape of an object.
 
-<span id="fn_58"></span>[108:†](ebm05.htm#fr_58) *Commentary upon the
+<span id="fn_58"></span>[108:†](ebm05.htm#fr_58.md) *Commentary upon the
 Republic of Plato*, page 380.
 
-<span id="fn_59"></span>[111:\*](ebm05.htm#fr_59) *Ennead*, i. book 6;
+<span id="fn_59"></span>[111:\*](ebm05.htm#fr_59.md) *Ennead*, i. book 6;
 and ix. book 9.
 
-<span id="fn_60"></span>[111:†](ebm05.htm#fr_60) Plotinus, Porphyry,
+<span id="fn_60"></span>[111:†](ebm05.htm#fr_60.md) Plotinus, Porphyry,
 Iamblichus, Proclus, Longinus, and their associates.
 
-<span id="fn_61"></span>[111:‡](ebm05.htm#fr_61) *Epilepsy*.
+<span id="fn_61"></span>[111:‡](ebm05.htm#fr_61.md) *Epilepsy*.
 
-<span id="fn_62"></span>[113:\*](ebm05.htm#fr_62) *Divine Legation*, p.
+<span id="fn_62"></span>[113:\*](ebm05.htm#fr_62.md) *Divine Legation*, p.
 231.
 
-<span id="fn_63"></span>[113:†](ebm05.htm#fr_63) *I. e*. The
+<span id="fn_63"></span>[113:†](ebm05.htm#fr_63.md) *I. e*. The
 Mother-Goddess, Isis or Demeter, symbolized as Selene or the Moon.
 
-<span id="fn_64"></span>[120:\*](ebm05.htm#fr_64) *I. e*. to its former
+<span id="fn_64"></span>[120:\*](ebm05.htm#fr_64.md) *I. e*. to its former
 divine condition.
 
-<span id="fn_65"></span>[121:\*](ebm05.htm#fr_65) We have taken the
+<span id="fn_65"></span>[121:\*](ebm05.htm#fr_65.md) We have taken the
 liberty to present the following version of this passage, as more
 correctly expressing the sense of the original: “At the holy places are
 first the public purifications. With these the more arcane exercises
@@ -2970,7 +2970,7 @@ intuitively to the taking of the obligations; the including of them as
 an undivided whole, to the initiations; and the simple ocular view of
 simple objects to the epoptic revelations.”
 
-<span id="fn_66"></span>[122:\*](ebm05.htm#fr_66) The writings of
+<span id="fn_66"></span>[122:\*](ebm05.htm#fr_66.md) The writings of
 Augustin handed Neo-Platonism down to posterity as the original and
 esoteric doctrine of the first followers of Plato. He enumerates the
 causes which led, in his opinion, to the negative position assumed by
@@ -2978,7 +2978,7 @@ the Academics, and to the concealment of their real opinions. He
 describes Plotinus as a resuscitated Plato.—*Against the Academics*,
 iii. 17-20.
 
-<span id="fn_67"></span>[123:\*](ebm05.htm#fr_67) *Phædo*, 21.
+<span id="fn_67"></span>[123:\*](ebm05.htm#fr_67.md) *Phædo*, 21.
 Κινδυνευουσι γαρ ὁσοι τυγχανουσιν ορϑως απτομενοι φιλοσοφιας λεληϑεναι
 τας αλλους, ὁτι ουδεν αλλο αὑτοι επιτηδευουσιν ἡ αποϑνησκειν τε και
 τεϑναναι. *I. e.* For as many as rightly apply themselves to philosophy
@@ -2991,45 +2991,45 @@ what absolute necessity requires, nor suffer ourselves to be pervaded by
 its nature, but purify ourselves from it until God himself shall release
 us.”
 
-<span id="fn_68"></span>[124:\*](ebm05.htm#fr_68) It is to be regretted,
+<span id="fn_68"></span>[124:\*](ebm05.htm#fr_68.md) It is to be regretted,
 nevertheless, that our author had not risked the “danger and drudgery”
 of learning Greek, so as to have rendered fuller justice to his subject,
 and been of greater service to his readers. We are conscious that those
 who are too learned in verbal criticism are prone to overlook the real
 purport of the text.—A. W.
 
-<span id="fn_69"></span>[125:†](ebm05.htm#fr_69) <span
+<span id="fn_69"></span>[125:†](ebm05.htm#fr_69.md) <span
 class="smallcaps">Apuleius</span>: *The Golden Ass. (Story of Cupid and
 Psyche)*, book vi.
 
-<span id="fn_70"></span>[126:\*](ebm05.htm#fr_70) Chests or baskets,
+<span id="fn_70"></span>[126:\*](ebm05.htm#fr_70.md) Chests or baskets,
 made of osiers, in which were enclosed the mystical images and utensils
 which the uninitiated were not permitted to behold.
 
-<span id="fn_71"></span>[126:†](ebm05.htm#fr_71) *I. e.* as to death;
+<span id="fn_71"></span>[126:†](ebm05.htm#fr_71.md) *I. e.* as to death;
 analogously to the descent of Koré-Persephoné to the Underworld.
 
-<span id="fn_72"></span>[129:\*](ebm05.htm#fr_72) *De Diis et Mundo*, p.
+<span id="fn_72"></span>[129:\*](ebm05.htm#fr_72.md) *De Diis et Mundo*, p.
 251.
 
-<span id="fn_73"></span>[130:\*](ebm05.htm#fr_73) *Evang. Præpar*. book
+<span id="fn_73"></span>[130:\*](ebm05.htm#fr_73.md) *Evang. Præpar*. book
 iii. chap. 2.
 
-<span id="fn_74"></span>[133:\*](ebm05.htm#fr_74) Coric from Κορη,
+<span id="fn_74"></span>[133:\*](ebm05.htm#fr_74.md) Coric from Κορη,
 *Koré*, a name of Proserpina. The name is derived by E. Pococke from the
 Sanscrit *Gourè*.
 
-<span id="fn_75"></span>[134:\*](ebm05.htm#fr_75) <span
+<span id="fn_75"></span>[134:\*](ebm05.htm#fr_75.md) <span
 class="smallcaps">Proclus</span>: *Theology of Plato*, p. 371.
 
-<span id="fn_76"></span>[135:\*](ebm05.htm#fr_76) Plotinus taught the
+<span id="fn_76"></span>[135:\*](ebm05.htm#fr_76.md) Plotinus taught the
 existence of three hypostases in the Divine Nature. There was the
 Demiurge, the God of Creation and Providence; the Second, the
 Intelligible, self-contained and immutable Source of life; and above
 all, the One, who like the *Zervané Akerené* of the Persians, is above
 all Being, a pure will, an Absolute Love—“Intellect.”—A. W.
 
-<span id="fn_77"></span>[136:\*](ebm05.htm#fr_77) Also denominated by
+<span id="fn_77"></span>[136:\*](ebm05.htm#fr_77.md) Also denominated by
 Kant, *Pure reason*, and by Prof. Cocker, *Intuitive reason*. It was
 considered by Plato, as “not amenable to the conditions of time and
 space, but in a particular sense, as dwelling in eternity: and therefore
@@ -3037,12 +3037,12 @@ capable of beholding eternal realities, and coming into communion with
 absolute beauty, and goodness, and truth—that is, with God, the Absolute
 Being.”
 
-<span id="fn_78"></span>[139:\*](ebm05.htm#fr_78) Hence we may perceive
+<span id="fn_78"></span>[139:\*](ebm05.htm#fr_78.md) Hence we may perceive
 the reason why Ceres as well as Saturn was denominated a *legislative*
 deity; and why illuminations were used in the celebration of the
 Saturnalia, as well as in the Eleusinian Mysteries.
 
-<span id="fn_79"></span>[145:\*](ebm05.htm#fr_79) When the person turns
+<span id="fn_79"></span>[145:\*](ebm05.htm#fr_79.md) When the person turns
 the back upon his higher faculties, and disregards the communications
 which he receives through them from the world of unseen realities, an
 oblivion ensues of their existence, and the person is next brought
@@ -3070,11 +3070,11 @@ attribute to these shadows a perfect reality.” Their sojourn upon earth
 is thus a dark imprisonment in the body, a dreamy exile from their
 proper home.”—*Cocker’s Greek Philosophy*.
 
-<span id="fn_80"></span>[147:\*](ebm05.htm#fr_80) <span
+<span id="fn_80"></span>[147:\*](ebm05.htm#fr_80.md) <span
 class="smallcaps">Porphyry</span>: *Cave of the Nymphs*. In the later
 Greek, νυμφη signified a bride.
 
-<span id="fn_81"></span>[150:\*](ebm05.htm#fr_81) <span
+<span id="fn_81"></span>[150:\*](ebm05.htm#fr_81.md) <span
 class="smallcaps">Homer</span>: *Hymn to Ceres*. “We were plucking the
 pleasant flowers, the beauteous crocus, and the Iris, and hyacinth, and
 the narcissus, which, like the crocus, the wide earth produced. I was
@@ -3082,12 +3082,12 @@ plucking them with joy, when the earth yawned beneath, and out leaped
 the Strong King, the Many-Receiver, and went bearing me, grieving much,
 beneath the earth in his golden chariot, and I cried aloud.”
 
-<span id="fn_82"></span>[159:\*](ebm05.htm#fr_82) *Manteis*, μαντεις,
+<span id="fn_82"></span>[159:\*](ebm05.htm#fr_82.md) *Manteis*, μαντεις,
 not ἱερεις. The term is more commonly translated prophets, and actually
 signifies persons gifted with divine insight, through being in an
 entheastic condition, called also *mania* or divine fury.
 
-<span id="fn_83"></span>[160:\*](ebm05.htm#fr_83) “The soul is a
+<span id="fn_83"></span>[160:\*](ebm05.htm#fr_83.md) “The soul is a
 composite nature, is on one side linked to the eternal world, its
 essence being generated of that ineffable element which constitutes the
 real, the immutable, and the permanent. It is a beam of the eternal Sun,
@@ -3095,7 +3095,7 @@ a spark of the Divinity, an emanation from God. On the other hand, it is
 linked to the phenomenal or sensible world, its emotive part being
 formed of that which is relative and phenomenal.”—*Cocker*.
 
-<span id="fn_84"></span>[163:\*](ebm05.htm#fr_84) *Hymn to Ceres*. “For
+<span id="fn_84"></span>[163:\*](ebm05.htm#fr_84.md) *Hymn to Ceres*. “For
 nine days did holy Demeter perambulate the earth . . and when the ninth
 shining morn had come, Hecate met her, bringing news.”
 
@@ -3104,52 +3104,52 @@ the candidate was enjoined to abstain from luxurious food for ten days,
 from the flesh of animals, and from wine.—*Golden Ass*, book xi. p. 239
 (*Bohn*).
 
-<span id="fn_85"></span>[164:\*](ebm05.htm#fr_85) Only persons taking a
+<span id="fn_85"></span>[164:\*](ebm05.htm#fr_85.md) Only persons taking a
 view solely external will suppose the galaxy to be literally the milky
 belt of stars in the sky.
 
-<span id="fn_86"></span>[164:†](ebm05.htm#fr_86) *Cave of the Nymphs*.
+<span id="fn_86"></span>[164:†](ebm05.htm#fr_86.md) *Cave of the Nymphs*.
 
-<span id="fn_87"></span>[165:\*](ebm05.htm#fr_87) *Theology of Plato*,
+<span id="fn_87"></span>[165:\*](ebm05.htm#fr_87.md) *Theology of Plato*,
 book vi.
 
-<span id="fn_88"></span>[166:\*](ebm05.htm#fr_88) The Moon typified the
+<span id="fn_88"></span>[166:\*](ebm05.htm#fr_88.md) The Moon typified the
 mother of gods and men. The soul descending into the lunar orb thus came
 near the scenes of earthly existence, where the life which is
 transmitted by generation has opportunity to involve it about.
 
-<span id="fn_89"></span>[166:†](ebm05.htm#fr_89) The condition most
+<span id="fn_89"></span>[166:†](ebm05.htm#fr_89.md) The condition most
 unlike the former divine estate.
 
-<span id="fn_90"></span>[169:\*](ebm05.htm#fr_90) An orbicular figure
+<span id="fn_90"></span>[169:\*](ebm05.htm#fr_90.md) An orbicular figure
 symbolized the maternal, and a cone the masculine divine Energy.
 
-<span id="fn_91"></span>[169:†](ebm05.htm#fr_91) <span
+<span id="fn_91"></span>[169:†](ebm05.htm#fr_91.md) <span
 class="smallcaps">Proclus</span>: *Theology of Plato*, book vi. c. 10.
 
-<span id="fn_92"></span>[170:\*](ebm05.htm#fr_92) <span
+<span id="fn_92"></span>[170:\*](ebm05.htm#fr_92.md) <span
 class="smallcaps">Homer</span>: *Hymn to Ceres*. “To her Metaneira gave
 a cup of sweet wine, but she refused it; but bade her to mix wheat and
 water with pounded pennyroyal. Having made the mixture, she gave it to
 the goddess.”
 
-<span id="fn_93"></span>[172:\*](ebm05.htm#fr_93) Γυνη, *gune*, woman,
+<span id="fn_93"></span>[172:\*](ebm05.htm#fr_93.md) Γυνη, *gune*, woman,
 from γουνος, *gounos*, Latin *cunnus*.
 
-<span id="fn_94"></span>[175:\*](ebm05.htm#fr_94) Uncandidness was more
+<span id="fn_94"></span>[175:\*](ebm05.htm#fr_94.md) Uncandidness was more
 probably the fault of which Clement was guilty.
 
-<span id="fn_95"></span>[175:†](ebm05.htm#fr_95) *Divine Legation of
+<span id="fn_95"></span>[175:†](ebm05.htm#fr_95.md) *Divine Legation of
 Moses*, book ii.
 
-<span id="fn_96"></span>[175:‡](ebm05.htm#fr_96) “The wisest and best
+<span id="fn_96"></span>[175:‡](ebm05.htm#fr_96.md) “The wisest and best
 men in the Pagan world are unanimous in this, that the Mysteries were
 instituted pure, and proposed the noblest ends by the worthiest means.
 
-<span id="fn_97"></span>[176:\*](ebm05.htm#fr_97) *Mysteries of the
+<span id="fn_97"></span>[176:\*](ebm05.htm#fr_97.md) *Mysteries of the
 Egyptians, Chaldeans, and Assyrians*.
 
-<span id="fn_98"></span>[179:\*](ebm05.htm#fr_98) A golden serpent, an
+<span id="fn_98"></span>[179:\*](ebm05.htm#fr_98.md) A golden serpent, an
 egg, and the phallus. The epopt looking upon these, was rapt with awe as
 contemplating in the symbols the deeper mysteries of all life, or being
 of a grosser temper, took a lascivious impression. Thus as a *seer*, he
@@ -3157,7 +3157,7 @@ beheld with the eyes of sense or sentiment; and the real apocalypse was
 therefore that made to himself of his own moral life and character.—A.
 W.
 
-<span id="fn_99"></span>[180:\*](ebm05.htm#fr_99) “Exiled from the true
+<span id="fn_99"></span>[180:\*](ebm05.htm#fr_99.md) “Exiled from the true
 home of the spirit, imprisoned in the body, disordered by passion, and
 beclouded by sense, the soul has yet longings after that state of
 perfect knowledge, and purity, and bliss, in which it was first created.
@@ -3181,22 +3181,22 @@ eternal truth, goodness, and beauty—that is, to the vision of
 God.”—<span class="smallcaps">Cocker</span>: *Christianity and Greek
 Philosophy*, x. pp. 351-2.
 
-<span id="fn_100"></span>[181:\*](ebm05.htm#fr_100) “It is linked to the
+<span id="fn_100"></span>[181:\*](ebm05.htm#fr_100.md) “It is linked to the
 phenomenal or sensible world, its emotive part (επιθυμητικον) being
 formed of what is relative and phenomenal.”
 
-<span id="fn_101"></span>[183:\*](ebm05.htm#fr_101) <span
+<span id="fn_101"></span>[183:\*](ebm05.htm#fr_101.md) <span
 class="smallcaps">Kircher</span>: *Obeliscus Pamphilius*, page 227.
 
-<span id="fn_102"></span>[184:\*](ebm05.htm#fr_102) <span
+<span id="fn_102"></span>[184:\*](ebm05.htm#fr_102.md) <span
 class="smallcaps">Plutarch</span>: *Euseb*.
 
-<span id="fn_103"></span>[184:†](ebm05.htm#fr_103) *I. e.* Exposition of
+<span id="fn_103"></span>[184:†](ebm05.htm#fr_103.md) *I. e.* Exposition of
 the laws and operations of Nature.
 
-<span id="fn_104"></span>[185:\*](ebm05.htm#fr_104) Μυστηριωδης,
+<span id="fn_104"></span>[185:\*](ebm05.htm#fr_104.md) Μυστηριωδης,
 mystery-like.
 
 ------------------------------------------------------------------------
 
-[Next: Section II., Bacchic Mysteries](ebm06)
+[Next: Section II., Bacchic Mysteries](ebm06.md)

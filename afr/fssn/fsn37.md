@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fsn36)  [Next](fsn38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fsn36)  [Next](fsn38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R0HU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R0HU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Stories From Southern Nigeria*, by Elphinstone Dayrell, \[1910\],
 at Intangible Textual Heritage
 
@@ -64,6 +64,6 @@ and caused him to marry her.
 ------------------------------------------------------------------------
 
 [Next: XXXVI. Concerning the Fate of Essido and his Evil
-Companions](fsn38)
+Companions](fsn38.md)
 
 </div>

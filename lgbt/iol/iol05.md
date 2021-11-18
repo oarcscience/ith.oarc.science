@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](iol04) 
-[Next](iol06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](iol04.md) 
+[Next](iol06.md) 
 
 ------------------------------------------------------------------------
 
@@ -381,7 +381,7 @@ THEOCRITUS, though coming late in the Greek age (about 300 B.C.) when
 Athens had yielded place to Alexandria, still carried on the Greek
 tradition in a remarkable way. A native of Syracuse, he caught and
 echoed in a finer form the life and songs of the country folk of that
-region--themselves descendants of [Dorian](errata.htm#0) settlers. Songs
+region--themselves descendants of [Dorian](errata.htm#0.md) settlers. Songs
 and ballads full of similar notes linger among the Greek peasants,
 shepherds and fisher-folk, even down to the present day.
 
@@ -531,7 +531,7 @@ the discus when flung by Apollo, on a day that Hyacinthus was playing at
 discus-throwing with that god, against the head of the youth, and so
 killed him. Apollo, being unable to save his life, changed him into the
 flower which was named after him, and on whose petals the Greeks fancied
-they could trace the notes of grief. <span id="fr_4"></span>[1](#fn_4) A
+they could trace the notes of grief. <span id="fr_4"></span>[1](#fn_4.md) A
 festival called the Hyacinthia was celebrated for three
 
 <span id="page_81">p. 81</span>
@@ -545,7 +545,7 @@ The story of Apollo and Hyacinth is gracefully told by Ovid, in the
 tenth book of his Metamorphoses:--
 
 "Midway betwixt the past and coming night  
-Stood Titan <span id="fr_5"></span>[1](#fn_5) when the pair, their limbs
+Stood Titan <span id="fr_5"></span>[1](#fn_5.md) when the pair, their limbs
 unrobed,  
 And glistning with the olive's unctuous juice,  
 In friendly contest with the discus vied."
@@ -696,11 +696,11 @@ Would'st thou but grant me all their grace, complete!"
 
 ### Footnotes
 
-<span id="fn_4"></span>[80:1](iol05.htm#fr_4) Seen within the flower we
+<span id="fn_4"></span>[80:1](iol05.htm#fr_4.md) Seen within the flower we
 call Larkspur.
 
-<span id="fn_5"></span>[81:1](iol05.htm#fr_5) The Sun.
+<span id="fn_5"></span>[81:1](iol05.htm#fr_5.md) The Sun.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Friendship in Early Christian and Mediæval Times](iol06)
+[Next: IV. Friendship in Early Christian and Mediæval Times](iol06.md)

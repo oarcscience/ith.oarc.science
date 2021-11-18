@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat35)  [Next](flat37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat35)  [Next](flat37.md) 
 
 ------------------------------------------------------------------------
 
@@ -163,4 +163,4 @@ darrig to ride."
 
 ------------------------------------------------------------------------
 
-[Next: Teigue of the Lee](flat37)
+[Next: Teigue of the Lee](flat37.md)

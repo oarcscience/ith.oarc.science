@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf79)  [Next](sbf81) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf79)  [Next](sbf81.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -65,6 +65,6 @@ recognize the clouds, how the clouds do in this mauner form themselves.
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Doings Of \|Xue Are Many.](sbf81)
+[Next: 1. The Doings Of \|Xue Are Many.](sbf81.md)
 
 </div>

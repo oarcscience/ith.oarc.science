@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc61)  [Next](pjc63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc61)  [Next](pjc63.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -90,7 +90,7 @@ heart was overcome at the sight, of the blood of our Lord, which ran
 into a hollow in the rock at the foot of the Cross. Mary, John, the holy
 women, and Cassius, gathered up the blood and water in flasks, and wiped
 up the remainder with pieces of linen. <span
-id="fr_14"></span>[1](#fn_14)
+id="fr_14"></span>[1](#fn_14.md)
 
 Cassius, whose sight was perfectly restored at the same moment that the
 eyes of his soul were opened, was deeply moved, and continued his humble
@@ -125,7 +125,7 @@ leads to Bethlehem.
 
 ### Footnotes
 
-<span id="fn_14"></span>[283:1](pjc62.htm#fr_14) Sister Emmerich added:
+<span id="fn_14"></span>[283:1](pjc62.htm#fr_14.md) Sister Emmerich added:
 'Cassius was baptised by the name of Longinus; and was ordained deacon,
 and preached the faith. He always kept some of the blood of Christ,--it
 dried up, but was found in his coffin in Italy. He was buried in a town
@@ -139,4 +139,4 @@ the neighbourhood.
 ------------------------------------------------------------------------
 
 [Next: Chapter XLIX. A Description of some Parts of ancient
-Jerusalem](pjc63)
+Jerusalem](pjc63.md)

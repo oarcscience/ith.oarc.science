@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly48)  [Next](lly50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly48)  [Next](lly50.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ trenches, and other work about the camps.
 
 ------------------------------------------------------------------------
 
-[Next: His Customs, Religious Beliefs, and Ceremonies](lly50)
+[Next: His Customs, Religious Beliefs, and Ceremonies](lly50.md)

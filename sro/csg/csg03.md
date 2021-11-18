@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](csg02)  [Next](csg04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](csg02)  [Next](csg04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ sciences were regarded as divine gifts; the gifts of the gods. "Kings of
 the 'Divine Dynasties,' they gave the first impulse to civilization, and
 directed the mind with which they had endued men, to the invention and
 perfection of all the arts and sciences." <span
-id="fr_13"></span>[1](#fn_13)
+id="fr_13"></span>[1](#fn_13.md)
 
 Conceited in their shallow ignorance the generality of mankind scorn the
 gifts and turn away from the givers. Some few centuries ago such givers
@@ -75,7 +75,7 @@ chapter from 1710 to 1822. We shall, however, not be able to deal very
 fully with each period, for M. de St. Germain often disappeared for many
 months at a time. The earliest records we can gather are as follows:--
 
-"There appeared at the Court <span id="fr_14"></span>[1](#fn_14) in
+"There appeared at the Court <span id="fr_14"></span>[1](#fn_14.md) in
 these days an extraordinary man, who called himself Comte de St.
 Germain. At first he distinguished himself through his cleverness and
 the great diversity of his talents, but in another respect he soon
@@ -245,7 +245,7 @@ pretty shepherdess in the midst of her flock.
 
 "After the bonbonnière had again been placed near the fire, the
 shepherdess disappeared, and the agate re-appeared." <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 This episode was written down in 1750, but the facts mentioned took
 place in 1723. It must be carefully noticed that all the personal
@@ -264,7 +264,7 @@ study. These hints
 
 <span id="page_34">p. 34</span>
 
-we gather from F. W. von Barthold <span id="fr_16"></span>[1](#fn_16) in
+we gather from F. W. von Barthold <span id="fr_16"></span>[1](#fn_16.md) in
 his interesting work, and they confirm the statement made by another
 writer that M. de St. Germain had been pursuing his researches in
 Persia.
@@ -273,7 +273,7 @@ We next find him in England, during the Jacobite Revolution of 1745,
 suspected as a spy, and arrested. Two interesting extracts can here be
 quoted.
 
-The first is from Horace Walpole's <span id="fr_17"></span>[2](#fn_17)
+The first is from Horace Walpole's <span id="fr_17"></span>[2](#fn_17.md)
 amusing letters to Sir Horace Mann, the British Envoy at Florence.
 Writing on Dec. 9th, 1745, Walpole, after relating all the excitements
 produced by the Revolution, says: "The other day they seized an odd man
@@ -309,7 +309,7 @@ incurred the Christian king's displeasure."
 This last paragraph alludes to what occurred at a later period.
 
 After this date, 1745, it seems that M. de St. Germain went to Vienna,
-and spent some time, in that city, <span id="fr_18"></span>[1](#fn_18)
+and spent some time, in that city, <span id="fr_18"></span>[1](#fn_18.md)
 and in 1755 went to India, for
 
 <span id="page_36">p. 36</span>
@@ -344,7 +344,7 @@ Château of Chambord. Here there was a laboratory fitted up for
 experiments, and a group of students gathered round our mystic. Among
 these we find the Baron de Gleichen, and Marquise d’Urfé and also the
 Princess of Anhalt-Zerbst, mother of Catherine II. of Russia. Madame de
-Genlis, <span id="fr_19"></span>[1](#fn_19) speaking of him at this
+Genlis, <span id="fr_19"></span>[1](#fn_19.md) speaking of him at this
 period, says:--
 
 "He was well acquainted with physics, and was a very great chemist. My
@@ -389,7 +389,7 @@ him as if his descent were illustrious."
 
 One fact in this Parisian period must not be omitted; it appears from
 statements made by Madame du Hausset, <span
-id="fr_20"></span>[1](#fn_20) Herr von Barthold and the Baron de
+id="fr_20"></span>[1](#fn_20.md) Herr von Barthold and the Baron de
 Gleichen, that a young Englishman, at that time resident in Paris, Lord
 Gower by name, used to amuse himself and other idle people by passing
 himself off as M. de St. Germain, so that most of the silly and foolish
@@ -398,7 +398,7 @@ originated in the sayings of this idle young fellow. Various details of
 his doings are to be found, but they are not worth further notice,
 beyond the fact that M. de St. Germain had to bear the blame for
 utterances which did not originate with him. Says Heer van
-Sypesteyn: <span id="fr_21"></span>[2](#fn_21) "Many of the wild stories
+Sypesteyn: <span id="fr_21"></span>[2](#fn_21.md) "Many of the wild stories
 had probably nothing to do with M. de St. Germain and were invented with
 the object of injuring him and making him ridiculous. A certain Parisian
 wag, known as 'Milord Gower,' was a splendid mimic, and went into Paris
@@ -413,12 +413,12 @@ Meanwhile our philosopher worked on with those whom he was able to help
 and teach in various ways. In 1760 we find him sent by Louis XV. to the
 Hague on a political mission: the circumstances are variously told by
 different writers. In April, 1760, we find M. de St. Germain passing
-through East Friesland to England. <span id="fr_22"></span>[1](#fn_22)
+through East Friesland to England. <span id="fr_22"></span>[1](#fn_22.md)
 Next, in The London Chronicle of June 3rd, 1760, we have a long account
 of a "mysterious foreigner," who had just arrived on England’s shores.
 It is also said by one writer that he was well received at Court, and
 many papers of the period mention him as a "person of note" to whom
-marked attention was paid. <span id="fr_23"></span>[2](#fn_23)
+marked attention was paid. <span id="fr_23"></span>[2](#fn_23.md)
 
 <span id="page_41">p. 41</span>
 
@@ -453,7 +453,7 @@ of the Graf Gregor Orloff to the Margrave of Brandenburg-Anspach,
 
 <span class="contnote">\[paragraph continues\]</span> M. de St. Germain
 had "played a great part in their revolution." <span
-id="fr_24"></span>[1](#fn_24)
+id="fr_24"></span>[1](#fn_24.md)
 
 He is mentioned as having been in St. Petersburg by another writer, or
 rather in an anonymous book, the translation of the title of which runs:
@@ -528,7 +528,7 @@ the profits of the first experiments place us in a position to establish
 <span id="page_45">p. 45</span>
 
 them, without risking anything of our own. The moment for deriving the
-profit is already close at hand". <span id="fr_25"></span>[1](#fn_25)
+profit is already close at hand". <span id="fr_25"></span>[1](#fn_25.md)
 
 From another source, also, we hear of de St. Germain at Tournay, namely,
 from the memoirs of Casanova.
@@ -542,7 +542,7 @@ the dress of an Armenian with a long beard."
 
 In this interview, M. de St. Germain informed Casanova that he was
 arranging a *Fabrique* for the Graf Cobenzl <span
-id="fr_26"></span>[2](#fn_26).
+id="fr_26"></span>[2](#fn_26.md).
 
 From 1763, the date at which we have now arrived, up to 1769, we only
 get the details of one year in Berlin, and this account comes from the
@@ -585,11 +585,11 @@ prison of the Inquisition at Rome. . . . In the history of M. de St.
 Germain, we have the history of a wise and prudent man who never
 wilfully offended against the code of honour, or did aught that might
 offend our sense of probity. Marvels we have without end, never anything
-mean or scandalous." <span id="fr_27"></span>[1](#fn_27)
+mean or scandalous." <span id="fr_27"></span>[1](#fn_27.md)
 
 The exact date of this visit to Berlin we cannot accurately give, but it
 comes in before the stay in Venice, where he was found by the Graf Max
-von Lamberg, <span id="fr_28"></span>[2](#fn_28) at this time
+von Lamberg, <span id="fr_28"></span>[2](#fn_28.md) at this time
 Chamberlain to the Emperor Joseph II., and in his book we have some most
 interesting details. The Graf finds M. de St. Germain under the name of
 Marquis d’Aymar, or Belmare, making a variety of experiments with flax,
@@ -603,7 +603,7 @@ heading "News of the World," we find the following paragraph:--
 
 "TUNIS, July 1770.
 
-"The Comte Maximilian de Lamberg, <span id="fr_29"></span>[1](#fn_29)
+"The Comte Maximilian de Lamberg, <span id="fr_29"></span>[1](#fn_29.md)
 Chamberlain of M.M.L.L. II. and RR. having paid a visit to the Island of
 Corsica to make various investigations, has been staying here since the
 end of June, in company with the Signor de St. Germain, celebrated in
@@ -669,7 +669,7 @@ de St. Germain taught him, among others and chiefly his tea, which the
 rich bought and the poor received gratis. . . . After the death of this
 physician, disgusted by the talk I heard on all sides, I withdrew all
 the recipes, and I did not replace Lossau." <span
-id="fr_30"></span>[1](#fn_30)
+id="fr_30"></span>[1](#fn_30.md)
 
 <span id="page_51">p. 51</span>
 
@@ -691,7 +691,7 @@ sometimes he disappeared for a considerable time, then suddenly
 re-appeared, and let it be understood that he had been in another world
 in communication with the dead. Moreover, he prided himself on being
 able to tame bees, and to make snakes listen to music." <span
-id="fr_31"></span>[1](#fn_31)
+id="fr_31"></span>[1](#fn_31.md)
 
 The author seems unaware that the ordinary Yogis of India have this
 power over snakes; and doubtless M. de St. Germain learned his
@@ -722,23 +722,23 @@ of the earth call "adventurer."
 
 ### Footnotes
 
-<span id="fn_13"></span>[26:1](csg03.htm#fr_13) BLAVATSKY (H. P.). *The
+<span id="fn_13"></span>[26:1](csg03.htm#fr_13) BLAVATSKY (H. P..md). *The
 Secret Doctrine*, ii., p. 380. London, 1893.
 
-<span id="fn_14"></span>[27:1](csg03.htm#fr_14) The Court of Louis XV.
+<span id="fn_14"></span>[27:1](csg03.htm#fr_14.md) The Court of Louis XV.
 
-<span id="fn_15"></span>[33:1](csg03.htm#fr_15) Taken from "*Chroniques,
+<span id="fn_15"></span>[33:1](csg03.htm#fr_15.md) Taken from "*Chroniques,
 de l’Œil de Bœuf*." Written down by the widowed Countess v. B. . . . .
 
-<span id="fn_16"></span>[34:1](csg03.htm#fr_16) BARTHOLD (F. W. von),
+<span id="fn_16"></span>[34:1](csg03.htm#fr_16) BARTHOLD (F. W. von.md),
 *Die Geschichtlichen Persönlichkeiten in Jacob Casanova's Mémoiren*,
 Vol. ii., Berlin 1846.
 
-<span id="fn_17"></span>[34:2](csg03.htm#fr_17) *Letters of Horace
+<span id="fn_17"></span>[34:2](csg03.htm#fr_17.md) *Letters of Horace
 Walpole, Earl of Orford, to Sir Horace Mann*, ii., pp. 108, 109. London,
 1833.
 
-<span id="fn_18"></span>[35:1](csg03.htm#fr_18) "He had lived as a
+<span id="fn_18"></span>[35:1](csg03.htm#fr_18.md) "He had lived as a
 prince in Vienna from 1745 to 1746, was very well received, and the
 first minister of the Emperor \[Francis I.\], Prince Ferdinand von
 Lobkowitz, was his most <span id="page_36">p. 36</span> intimate friend.
@@ -749,18 +749,18 @@ brilliant and witty St. Germain, that he persuaded him to accompany him
 on a visit to Paris." *Historische Herinneringen*, van C. A. van
 SYPESTEYN; ’sGravenhage, 1869.
 
-<span id="fn_19"></span>[37:1](csg03.htm#fr_19) GENLIS (Comtesse de),
+<span id="fn_19"></span>[37:1](csg03.htm#fr_19) GENLIS (Comtesse de.md),
 *Mémoires Inédits pour servir à Histoire des XVIII. et XIX. Siècles*, p.
 88. Paris, 1825.
 
-<span id="fn_20"></span>[39:1](csg03.htm#fr_20) HAUSSET (Madame du),
+<span id="fn_20"></span>[39:1](csg03.htm#fr_20) HAUSSET (Madame du.md),
 *Mémoires*, p. 148, seq.; Paris, 1824.
 
-<span id="fn_21"></span>[39:2](csg03.htm#fr_21) *Op. cit.*
+<span id="fn_21"></span>[39:2](csg03.htm#fr_21.md) *Op. cit.*
 
-<span id="fn_22"></span>[40:1](csg03.htm#fr_22) HEZEKIEL 1. *op. cit.*
+<span id="fn_22"></span>[40:1](csg03.htm#fr_22.md) HEZEKIEL 1. *op. cit.*
 
-<span id="fn_23"></span>[40:2](csg03.htm#fr_23) Gazette of the
+<span id="fn_23"></span>[40:2](csg03.htm#fr_23.md) Gazette of the
 Netherlands. Jan. 12th, 1761.
 
 The Hague, Jan. 2nd.
@@ -778,22 +778,22 @@ has an income, no one knows from whence it is derived; acquaintances, no
 one knows where he made them; entry into the Cabinets of Princes without
 being acknowledged by them!"
 
-<span id="fn_24"></span>[42:1](csg03.htm#fr_24) *Curiositäten der
+<span id="fn_24"></span>[42:1](csg03.htm#fr_24.md) *Curiositäten der
 Literarisch-historischen Vor and Mitwelt*, pp. 285, 286. Weimar, 1818.
 
-<span id="fn_25"></span>[45:1](csg03.htm#fr_25) ARNETH (A. Ritter von),
+<span id="fn_25"></span>[45:1](csg03.htm#fr_25) ARNETH (A. Ritter von.md),
 *Graf Philipp Cobenzl and seine Mémoiren*, p. 9, note. Wien, 1885.
 
-<span id="fn_26"></span>[45:2](csg03.htm#fr_26) CASANOVA (F. Seingalt
+<span id="fn_26"></span>[45:2](csg03.htm#fr_26.md) CASANOVA (F. Seingalt
 de), *Mémoires:* vi., p. 76.
 
-<span id="fn_27"></span>[47:1](csg03.htm#fr_27) THIÉBAULT (D.), *Mes
+<span id="fn_27"></span>[47:1](csg03.htm#fr_27) THIÉBAULT (D..md), *Mes
 Souvenirs de Vingt Ans de Séjour à Berlin*, iv., p. 83. Paris, 1813.
 
-<span id="fn_28"></span>[47:2](csg03.htm#fr_28) LAMBERG (Graf Max von),
+<span id="fn_28"></span>[47:2](csg03.htm#fr_28) LAMBERG (Graf Max von.md),
 *Le Mémorial d’un Mondain*, p. 80. London, 1775.
 
-<span id="fn_29"></span>[48:1](csg03.htm#fr_29) Some interesting matter
+<span id="fn_29"></span>[48:1](csg03.htm#fr_29.md) Some interesting matter
 concerning the Comte de St. Germain is printed in a most interesting
 book lately published, *Casanova et son temps*, by E. Maynial. One
 entirely new and most interesting fact is given by him: a correspondence
@@ -802,12 +802,12 @@ Germain and is now in the hands of a well known Austrian writer, who is
 putting it in order; no doubt before long M. Gugitz will publish these
 documents.
 
-<span id="fn_30"></span>[50:1](csg03.htm#fr_30) HESSE-CASSEL, *Op.
+<span id="fn_30"></span>[50:1](csg03.htm#fr_30.md) HESSE-CASSEL, *Op.
 cit.*, p. 135.
 
-<span id="fn_31"></span>[51:1](csg03.htm#fr_31) SYPESTEYN (J. van)
+<span id="fn_31"></span>[51:1](csg03.htm#fr_31) SYPESTEYN (J. van.md)
 *Historische Herinneringen*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Coming Danger](csg04)
+[Next: Chapter III. The Coming Danger](csg04.md)

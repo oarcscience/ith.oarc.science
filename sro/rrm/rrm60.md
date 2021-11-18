@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm59)  [Next](rrm61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm59)  [Next](rrm61.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
 
 [![No. 6. TEMPLE OF KEYLAS, or PARADISE&lt;br&gt; (Ellora, in the East
 Indies)](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
 No. 6. TEMPLE OF KEYLAS, or PARADISE  
 (Ellora, in the East Indies)  
 
@@ -33,4 +33,4 @@ history).
 
 ------------------------------------------------------------------------
 
-[Next: Plate 7. Mysterium \[Noah's Ark\]](rrm61)
+[Next: Plate 7. Mysterium \[Noah's Ark\]](rrm61.md)

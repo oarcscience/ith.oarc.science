@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tbr55)  [Next](tbr57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tbr55)  [Next](tbr57.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Textual Heritage
 #### Benedictions at Scenes of Miracles, or of Past Idolatry.
 
 <span class="margnote">**M**.</span>IX. I. He who sees a place in which
-miracles were wrought for Israel <span id="fr_451"></span>[5](#fn_450)
+miracles were wrought for Israel <span id="fr_451"></span>[5](#fn_450.md)
 says: "Blessed be He who wrought miracles for our fathers in this
 place." In the, case of a place from which idolatry was uprooted, he
 says: "Blessed be He who uprooted idolatry from our land."
@@ -30,10 +30,10 @@ of them that worship idols to worship Thee.
 
 <span class="margnote">**T**.</span>
 
-He that seeth hosts <span id="fr_452"></span>[1](#fn_451) says: Blessed
+He that seeth hosts <span id="fr_452"></span>[1](#fn_451.md) says: Blessed
 be He who is wise in all these mysteries, for none of their countenances
 is alike, nor their knowledge alike. <span
-id="fr_453"></span>[2](#fn_452)
+id="fr_453"></span>[2](#fn_452.md)
 
 Ben Zoma saw hosts in the Temple area. He said: Blessed be He who
 created all these to serve me. How much did Adam toil, and tasted not
@@ -57,28 +57,28 @@ his? One bit of bread have I eaten of his; one portion of meat have I
 eaten of his; one cup have I drunk of his; all that he did, he did only
 for the sake of his wife and his children. And so it says "*Remember
 that thou magnify His work, whereof men have sung*." <span
-id="fr_454"></span>[3](#fn_453)
+id="fr_454"></span>[3](#fn_453.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_450"></span>[74:5](tbr56.htm#fr_451) *in which miracles
+<span id="fn_450"></span>[74:5](tbr56.htm#fr_451.md) *in which miracles
 were wrought for Israel*, *e.g.* "the fords of the Red Sea, the streams
 of Arnon, the fords of Jordan, and the stone on which Moses sat when he
 made war with Amalek, and the like" (Bartenora). These and others are
 mentioned in the Gemara, *T*.B. 54.
 
-<span id="fn_451"></span>[75:1](tbr56.htm#fr_452) *hosts* (ὄχλος).
+<span id="fn_451"></span>[75:1](tbr56.htm#fr_452) *hosts* (ὄχλος.md).
 Israelites, Gemara T.B. 58<sup>a</sup>.
 
-<span id="fn_452"></span>[75:2](tbr56.htm#fr_453) *alike*. Yet God knows
+<span id="fn_452"></span>[75:2](tbr56.htm#fr_453.md) *alike*. Yet God knows
 each.
 
-<span id="fn_453"></span>[75:3](tbr56.htm#fr_454) Job 36<sup>24</sup>.
+<span id="fn_453"></span>[75:3](tbr56.htm#fr_454.md) Job 36<sup>24</sup>.
 For God is the landlord, who has provided all,
 
 ------------------------------------------------------------------------
 
 [Next: M. IX 2; T. VII. 1-6. At Various Natural Phenomena, and at Good
-or Bad Tidings](tbr57)
+or Bad Tidings](tbr57.md)

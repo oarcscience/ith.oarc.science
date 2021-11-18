@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb06)  [Next](ftb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb06)  [Next](ftb08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -28,19 +28,19 @@ Textual Heritage
 
 <span id="img_05400"></span> <span align="CENTER"> [![Coral ornaments
 were in her hair](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)  
+Click to enlarge](img/05400.jpg.md)  
 Coral ornaments were in her hair  
 </span>
 
 <span id="page_55">p. 55</span>
 
-<span id="img_05500"></span> ![The Witch of Lok Island](img/05500.jpg)
+<span id="img_05500"></span> ![The Witch of Lok Island](img/05500.jpg.md)
 
 <span id="img_05501"></span>
 
 |                     |
 |---------------------|
-| ![I](img/05501.jpg) |
+| ![I](img/05501.jpg.md) |
 
 N olden times when miracles were common in Brittany there lived in
 Lannilis a youth called Houarn Pogam and a maiden whose name was Bella
@@ -534,4 +534,4 @@ they had brought from Lok Island settled down there, too.
 
 ------------------------------------------------------------------------
 
-[Next: Little White-Thorn and the Talking Bird](ftb08)
+[Next: Little White-Thorn and the Talking Bird](ftb08.md)

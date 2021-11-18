@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc093) 
-[Next](motc095) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc093.md) 
+[Next](motc095.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ manuscript.
 
 ------------------------------------------------------------------------
 
-[Next: 95. Hemp-carrier](motc095)
+[Next: 95. Hemp-carrier](motc095.md)

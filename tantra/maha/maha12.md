@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha11)  [Next](maha13) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha11)  [Next](maha13.md) 
 
 ------------------------------------------------------------------------
 
@@ -517,6 +517,6 @@ Immutable Dharmma."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 13 - Installation of the Devata](maha13)
+[Next: Chapter 13 - Installation of the Devata](maha13.md)
 
   

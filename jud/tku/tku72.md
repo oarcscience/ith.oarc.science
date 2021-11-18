@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku71)  [Next](tku73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku71)  [Next](tku73.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ true prophets enfolded, and all are called the mouth of Tetragrammaton.
 
 689\. When forth from His mouth the words proceed through His lips, the
 same are muttered through the whole circuit of eighteen thousand
-worlds, <span id="fr_293"></span>[1](#fn_290) until they are all bound
+worlds, <span id="fr_293"></span>[1](#fn_290.md) until they are all bound
 together at once in the twelve paths and the known ways. And one thing
 ever expecteth another.
 
@@ -66,13 +66,13 @@ the middle nexus of the utterance.
 691\. And therefore is it written, Cant. v. 16: "His mouth is most
 sweet." And this same palate of His conveyeth a sweet taste; wherefore
 He smileth when He tasteth food (*which is pleasant*). <span
-id="fr_294"></span>[2](#fn_291)
+id="fr_294"></span>[2](#fn_291.md)
 
 692\. "And He is altogether the desirablenesses (*or delights*)" (*of
 the powers of*) fire and (*the powers of*) water, because the fire and
 water are counterchanged with each other mutually (otherwise, are
 conformed together), and are beautiful in his conformation. <span
-id="fr_295"></span>[3](#fn_292)
+id="fr_295"></span>[3](#fn_292.md)
 
 693\. For the colours are mutually associated together.
 
@@ -81,10 +81,10 @@ id="fr_295"></span>[3](#fn_292)
 694\. In His palate are the (*guttural*) letters (*of the Hebrew
 Alphabet--namely, A, H, Ch, O*) formed and constructed; in the circuit
 of His (*mouth*) are they condensed (*into the palatals G, I, X
-Q*). <span id="fr_296"></span>[1](#fn_293)
+Q*). <span id="fr_296"></span>[1](#fn_293.md)
 
 695\. The letter A, *Aleph*, which cast forth the kings and constituted
-the kings <span id="fr_297"></span>[2](#fn_294) (*i.e., that guttural
+the kings <span id="fr_297"></span>[2](#fn_294.md) (*i.e., that guttural
 letter which is referred to the First Sephira, Kether, the Crown,
 becometh the palatal letter G, Ghimel*).
 
@@ -137,7 +137,7 @@ concerning them, so that concerning them I might not err (*i.e.,
 concerning the judgments, Meshephath, referred to in verse* 9).
 
 704\. Excepting a certain day when I was binding together the Crowns of
-the King <span id="fr_298"></span>[1](#fn_295) in the Cave of Maranæa, I
+the King <span id="fr_298"></span>[1](#fn_295.md) in the Cave of Maranæa, I
 beheld a Splendour of devouring Fire flashing from His
 
 <span id="page_333">p. 333</span>
@@ -160,7 +160,7 @@ Tetragrammaton is good," &c.
 
 ### Footnotes
 
-<span id="fn_290"></span>[330:1](tku72.htm#fr_293) That is the number
+<span id="fn_290"></span>[330:1](tku72.htm#fr_293.md) That is the number
 eighteen on the plane of Asiah. And 18 is the fourth part of 72. And 72
 is the number of the Schemahamphorasch (*see ante*), and the number of
 the Quinaries or sets of 5 degrees in the 360 degrees of the Zodiac. And
@@ -173,13 +173,13 @@ their Veils; and Macroprosopus is called HVA, *Hoa*, which = 12, and
 finds its expression in Aima Elohim. Thus rusheth through the Universe
 the Flux and Reflux of the Eternal Word.
 
-<span id="fn_291"></span>[330:2](tku72.htm#fr_294) I am doubtful as to
+<span id="fn_291"></span>[330:2](tku72.htm#fr_294.md) I am doubtful as to
 whether this is the best translation of the last clause of § 691.
 Rosenroth has not translated it at all. The Chaldee is MMThQIM VDAI MAI
 ChKV KDA VChIK ITOVM LAKVL, *Mamthaqim Vadeai Maai Chiko Kedea Vecheik
 Yitauom Leakol*.
 
-<span id="fn_292"></span>[330:3](tku72.htm#fr_295) This whole section
+<span id="fn_292"></span>[330:3](tku72.htm#fr_295.md) This whole section
 requires comment. I must first observe that Knorr de Rosenroth in his
 Latin version has supposed that in the word MChMDIM, *Machemadim*, fire
 and water, ASh and MIM, are hidden as in a sort of anagram. Now while it
@@ -196,7 +196,7 @@ the Macrocosm, the external symbol of Vau, V, Microprosopus. And He
 inherits the double qualities of the Father and the Mother, shown by the
 word "delights" ("Machemadim") being written in the plural.
 
-<span id="fn_293"></span>[331:1](tku72.htm#fr_296) The letters of the
+<span id="fn_293"></span>[331:1](tku72.htm#fr_296.md) The letters of the
 Hebrew alphabet are usually classed in the following manner:--
 
 Gutturals = A, H, Ch, O (R by some).
@@ -219,17 +219,17 @@ The "Sepher Yetzirah" further classes them as--
 
 In the above classification it classes R as a dental.
 
-<span id="fn_294"></span>[331:2](tku72.htm#fr_297) This section and §
+<span id="fn_294"></span>[331:2](tku72.htm#fr_297.md) This section and §
 698, contain references to the Edomite kings and their
 symbology--namely, as denoting the primal worlds which were destroyed
 (See 'The Book of Concealed Mystery," ch. i. § 3; "The Greater Holy
 Assembly," ch. ii. and ch. xxvi.; and "The Lesser Holy Assembly," ch. x.
 
-<span id="fn_295"></span>[332:1](tku72.htm#fr_298) *I.e.*, Tracing out
+<span id="fn_295"></span>[332:1](tku72.htm#fr_298.md) *I.e.*, Tracing out
 the: properties. &c., of the Sephiroth which form the King.
 Microprosopus, and, as appears from the latter part of this section,
 those only in their aspect of Judgment and Wrath.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX: Concerning the Body of Microprosopus](tku73)
+[Next: Chapter XX: Concerning the Body of Microprosopus](tku73.md)

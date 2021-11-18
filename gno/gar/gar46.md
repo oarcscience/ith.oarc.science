@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar45)  [Next](gar47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar45)  [Next](gar47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -46,13 +46,13 @@ fleshless as himself, like the Wild Hunter of the German legend.
 
  
 
-<span id="img_fig14"></span> ![FIG. 14](img/fig14.jpg)  
+<span id="img_fig14"></span> ![FIG. 14](img/fig14.jpg.md)  
 FIG. 14
 
-[(\*)](gar71.htm#an_fig14)
+[(\*)](gar71.htm#an_fig14.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Original Purpose of These Formulæ](gar47)
+[Next: Original Purpose of These Formulæ](gar47.md)

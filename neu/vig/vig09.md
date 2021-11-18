@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig08)  [Next](vig10) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig08)  [Next](vig10.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ so they separated.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](vig10)
+[Next: Chapter VII](vig10.md)

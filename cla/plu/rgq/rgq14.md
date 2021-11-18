@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](rgq13)  [Next](rgq15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](rgq13)  [Next](rgq15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roman and Greek Questions*, by Plutarch, tr. Frank Cole Babbitt,
 \[1936\], at Intangible Textual Heritage
 
@@ -51,9 +51,9 @@ matter is treated at length by Halliday.
 J. J. Hartman (*Mnemosyne*, xli. p. 216, or *De Plutarcho scriptore et
 philosopho*, p. 139) is the only modern scholar who has doubted the
 authenticity of the attribution to Plutarch of this work <span
-id="fr_269"></span>[a](#fn_269); the author was not primarily interested
+id="fr_269"></span>[a](#fn_269.md); the author was not primarily interested
 in ethical matters, according to Hartman, and hence cannot be Plutarch.
-J. B. Titchener <span id="fr_270"></span>[b](#fn_270) has promised a
+J. B. Titchener <span id="fr_270"></span>[b](#fn_270.md) has promised a
 discussion of this
 
 <span id="page_175">p. 175</span>
@@ -74,11 +74,11 @@ title is given as Αἰτίαι Ἐλλήνων.
 
 ### Footnotes
 
-<span id="fn_269"></span>[174:a](rgq14.htm#fr_269) "Sed praeterea totus
+<span id="fn_269"></span>[174:a](rgq14.htm#fr_269.md) "Sed praeterea totus
 liber mera est doctrinae ostentatio, … Chaeronensi mentium medico
 prorsus indigna."
 
-<span id="fn_270"></span>[174:b](rgq14.htm#fr_270) See *The <span
+<span id="fn_270"></span>[174:b](rgq14.htm#fr_270.md) See *The <span
 class="smallcaps">MS</span>. Tradition of Plutarch's Aetia Graeca and
 Aetia Romana* (Urbana, Illinois, 1924), p. 9.
 
@@ -86,6 +86,6 @@ Aetia Romana* (Urbana, Illinois, 1924), p. 9.
 
 ------------------------------------------------------------------------
 
-[Next: 1-9.](rgq15)
+[Next: 1-9.](rgq15.md)
 
 </div>

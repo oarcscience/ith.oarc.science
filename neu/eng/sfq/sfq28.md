@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq27)  [Next](sfq29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq27)  [Next](sfq29.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ bluster, and his companion by cunning.
 <span id="img_11000"></span>
 
 [![](tn/11000.jpg)  
-Click to enlarge](img/11000.jpg)
+Click to enlarge](img/11000.jpg.md)
 
 Trompart (or *Deceit*), for that was the man's name, speedily discovered
 the folly of his master. He was very wily-witted and well accustomed to
@@ -101,4 +101,4 @@ rustle of the wind made their hair stand on end.
 
 ------------------------------------------------------------------------
 
-[Next: Fury's Captive](sfq29)
+[Next: Fury's Captive](sfq29.md)

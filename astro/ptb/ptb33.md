@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb32)  [Next](ptb34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb32)  [Next](ptb34.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ north-west triplicity, composed of Aries, Leo, and Sagittarius; and they
 are accordingly governed by the lords of that triplicity, Jupiter and
 Mars, vespertine. These parts, as distinguished by their appropriation
 to entire nations, are Britain, Galatia, Germany, Barsania, <span
-id="fr_80"></span>[1](#fn_80) Italy, Apulia, Sicily, Gaul, Tuscany,
+id="fr_80"></span>[1](#fn_80.md) Italy, Apulia, Sicily, Gaul, Tuscany,
 Celtica, and Spain. And, since the triplicity itself and the planets
 connected with it in dominion are adapted to command, the natives of
 these countries are consequently impatient of restraint, lovers of
@@ -88,8 +88,8 @@ freedom, warlike, industrious, imperious, cleanly, and high-minded. But,
 owing to the vespertine configuration of Jupiter and Mars, as well as
 the masculine condition of the anterior parts of the triplicity, and the
 feminine condition of its latter parts, <span
-id="fr_81"></span>[2](#fn_81) the said nations regard women with scorn
-and indifference. <span id="fr_82"></span>[3](#fn_82) They are, however,
+id="fr_81"></span>[2](#fn_81.md) the said nations regard women with scorn
+and indifference. <span id="fr_82"></span>[3](#fn_82.md) They are, however,
 still careful of the community, brave and faithful, affectionate in
 their families, and perform good and kind actions.
 
@@ -152,14 +152,14 @@ superstition they are induced by the nature of the figuration of the
 
 <span id="page_46">p. 46</span>
 
-planets before mentioned. <span id="fr_83"></span>[1](#fn_83) They are,
+planets before mentioned. <span id="fr_83"></span>[1](#fn_83.md) They are,
 moreover, hot in constitution, amorous and lustful, fond of acting,
 singing, and dancing, gaudy in their dresses and ornaments; owing to the
 influence of Venus. Saturn, however, inclines them to simplicity of
 conduct; and, in consequence of the matutine figuration, they address
-their women publicly. <span id="fr_84"></span>[2](#fn_84) There are also
+their women publicly. <span id="fr_84"></span>[2](#fn_84.md) There are also
 many among them who beget children by their own mothers. <span
-id="fr_85"></span>[3](#fn_85) The matutine figurations also influence
+id="fr_85"></span>[3](#fn_85.md) The matutine figurations also influence
 their mode of worship, which is performed by prostration of the breast;
 because the heart is the nobler part of the body, and, in its vivifying
 faculties, acts like the Sun. And, although the influence of Venus makes
@@ -191,7 +191,7 @@ heedless of danger, yet treacherous, servile, and thoroughly fickle.
 
 The inhabitants of Cœlesyria, Idumæa, and Judæa, are principally
 influenced by Aries and Mars, and are generally audacious,
-atheistical, <span id="fr_86"></span>[4](#fn_86)
+atheistical, <span id="fr_86"></span>[4](#fn_86.md)
 
 <span id="page_47">p. 47</span>
 
@@ -211,7 +211,7 @@ Sauromatica, Oxiana, and Sogdiana, are in familiarity with the
 north-east triplicity, composed of Gemini, Libra, and Aquarius, and have
 for their rulers Saturn and Jupiter, in matutine positions; hence the
 inhabitants worship Jupiter and the Sun. <span
-id="fr_87"></span>[1](#fn_87) They are abundantly rich in all things:
+id="fr_87"></span>[1](#fn_87.md) They are abundantly rich in all things:
 they possess much gold, and are dainty and luxurious in their diet. They
 are also learned in theology, skilled in magic, just in all their
 dealings, free and noble-minded, holding dishonesty and wickedness in
@@ -244,7 +244,7 @@ and are ruled by Mars and Venus, together with Mercury. In these
 countries Venus is principally worshipped; she is invoked as the Mother
 of the Gods, and by various local and indigenous appellations; Mars
 likewise receives adoration here, under the name of Adonis, as well as
-by other titles; <span id="fr_88"></span>[1](#fn_88) and some of the
+by other titles; <span id="fr_88"></span>[1](#fn_88.md) and some of the
 religious services to these deities are performed by loud lamentations.
 The people are servile in mind, diligent in labour, yet fraudulent,
 knavish, and thievish; they enter into foreign armies for the sake of
@@ -279,7 +279,7 @@ faithful to their engagements, and honest in their dealings.
 
 The remaining quadrant is the vast tract known by the general name of
 Libya. Its several parts, distinguished by the particular names of
-Numidia, Carthage, Africa. <span id="fr_89"></span>[2](#fn_89) Phazania,
+Numidia, Carthage, Africa. <span id="fr_89"></span>[2](#fn_89.md) Phazania,
 Nasamonitis, Garamantica,
 
 <span id="page_49">p. 49</span>
@@ -325,7 +325,7 @@ five planets in vespertine figuration, and consequently cherish due love
 and reverence for the gods, and dedicate themselves to their service.
 They are addicted to sepulchral ceremonies; and, owing to the said
 vespertine position, they bury their dead in the earth, <span
-id="fr_90"></span>[1](#fn_90) and remove them from the
+id="fr_90"></span>[1](#fn_90.md) and remove them from the
 
 <span id="page_50">p. 50</span>
 
@@ -339,7 +339,7 @@ women are extraordinarily prolific, and correspond in this respect with
 the fecundity of their soil. Many of the men are, however, effeminate
 and debased in mind; in consequence of the figuration of the malefics,
 together with the vespertine position of Venus; and some of them
-mutilate their persons. <span id="fr_91"></span>[1](#fn_91)
+mutilate their persons. <span id="fr_91"></span>[1](#fn_91.md)
 
 Among these last named countries, Cyrenaica, Marmarica, and particularly
 Lower Ægypt, are chiefly influenced by Gemini and Mercury: the natives
@@ -348,7 +348,7 @@ for every undertaking; above all, for the attainment of wisdom, and an
 insight into divine mysteries. They are also magicians, performing
 secret rites and ceremonies, and are in every respect calculated for the
 prosecution of all scientific inquiry. <span
-id="fr_92"></span>[2](#fn_92) The inhabitants of Thebais, Oasis, and
+id="fr_92"></span>[2](#fn_92.md) The inhabitants of Thebais, Oasis, and
 Troglodytica, are connected with Libra and Venus; they are of warmer
 constitution, and more hasty disposition, and enjoy life in all its
 plentitude and abundance. The natives of Arabia, Azania, and Middle
@@ -546,16 +546,16 @@ detailed.
 
 ### Footnotes
 
-<span id="fn_80"></span>[44:1](ptb33.htm#fr_80) Or, perhaps, Bastarnia,
+<span id="fn_80"></span>[44:1](ptb33.htm#fr_80.md) Or, perhaps, Bastarnia,
 a part of the ancient European Sarmatia.
 
-<span id="fn_81"></span>[44:2](ptb33.htm#fr_81) This should probably be
+<span id="fn_81"></span>[44:2](ptb33.htm#fr_81.md) This should probably be
 understood to mean in a mundane point of view, agreeably to Chaps. VI
 and XV, Book I. For when Aries is on the ascendant, it is, of course,
 oriental and masculine; and Sagittarius must consequently then be in the
 eighth house, occidental, and therefore feminine.
 
-<span id="fn_82"></span>[44:3](ptb33.htm#fr_82) The customs of nations
+<span id="fn_82"></span>[44:3](ptb33.htm#fr_82.md) The customs of nations
 have, in some degree, altered since Ptolemy made this severe charge
 against us and our brethren in the north and west of Europe. The
 following passage also occurs in this part of the original text:--προσ
@@ -564,20 +564,20 @@ following passage also occurs in this part of the original text:--προσ
 ουδε ως πασχοντες διακεινται επι τουτω, αλλα φυλαττουσι τασ ψυχας
 ανδρειους·
 
-<span id="fn_83"></span>[46:1](ptb33.htm#fr_83) The Greek is as follows:
+<span id="fn_83"></span>[46:1](ptb33.htm#fr_83.md) The Greek is as follows:
 καί τα μορια αυτων τα γεννητικα ατνατιθεασι τοις θεοις· διοτι ο
 σχηματισμος των ειρημενων ασερων φυσει σπερματικος εσιν· Follies,
 similar in their kind to these, are still practised by the Faquirs of
 Hindostan, and by other religious sects in Asia.
 
-<span id="fn_84"></span>[46:2](ptb33.htm#fr_84) Φανερως ποιουμενοι τας
+<span id="fn_84"></span>[46:2](ptb33.htm#fr_84.md) Φανερως ποιουμενοι τας
 προς τας γυναικας φυνουσιας· 
 
-<span id="fn_85"></span>[46:3](ptb33.htm#fr_85) The author gives a
+<span id="fn_85"></span>[46:3](ptb33.htm#fr_85.md) The author gives a
 singular reason for this incest: μισουσι δε τας (συνουσιας) προς τους
 αρσενας δια τουτο και οι πλεισοι αυτων εκ των μητερων τεκνοποιουσι· 
 
-<span id="fn_86"></span>[46:4](ptb33.htm#fr_86) The epithet is
+<span id="fn_86"></span>[46:4](ptb33.htm#fr_86.md) The epithet is
 remarkable, not only as being, in the opinion of a Gentile, merited by
 the Jews, among other nations, but also at a period scarcely exceeding a
 century after their most heinous crime had been committed, expressly
@@ -589,17 +589,17 @@ maledicendi Tacitus habuit, et Plinius Major, cui Judæi dicuntur *gens
 contumeliâ numinum insignis*." See Clark's Notes on Grotius de Verit.
 Relig. Christ. Lib. 2, §2.
 
-<span id="fn_87"></span>[47:1](ptb33.htm#fr_87) Other editions say
+<span id="fn_87"></span>[47:1](ptb33.htm#fr_87.md) Other editions say
 "Saturn."
 
-<span id="fn_88"></span>[48:1](ptb33.htm#fr_88) It is usually understood
+<span id="fn_88"></span>[48:1](ptb33.htm#fr_88.md) It is usually understood
 that the male deity, coupled by the Phrygians with Cybele, "the mother
 of the Gods," was called by them Atys; and that Adonis was the name used
 by the Phœnicians in addressing the associate of Venus. It has been said
 that these divinities were identical with the Isis and Osiris of the
 Ægyptians.
 
-<span id="fn_89"></span>[48:2](ptb33.htm#fr_89) The name of Africa was,
+<span id="fn_89"></span>[48:2](ptb33.htm#fr_89.md) The name of Africa was,
 in Ptolemy's time, limited to those parts of the coast on the
 Mediterranean which contained the ancient Utica, and in which Tunis now
 stands. Josephus says the name is derived from Afer (one of the <span
@@ -609,7 +609,7 @@ in the country. This Afer is, of course, the same with Epher, mentioned
 in the fourth verse of the 25th chapter of Genesis, as a son of Midian,
 one of the sons of Abraham by his concubine Keturah.
 
-<span id="fn_90"></span>[49:1](ptb33.htm#fr_90) It does not appear why
+<span id="fn_90"></span>[49:1](ptb33.htm#fr_90.md) It does not appear why
 this practice should have been remarked as a national peculiarity,
 unless in distinction from the custom of burning the dead <span
 id="page_50">p. 50</span> among the Greeks and Romans. Interment is
@@ -622,13 +622,13 @@ constructed for the dead, in parts of the region in question; some of
 which have been recently made known to the modern world by the sagacity
 and enterprise of the celebrated Belzoni.
 
-<span id="fn_91"></span>[50:1](ptb33.htm#fr_91) Τινες δε και
+<span id="fn_91"></span>[50:1](ptb33.htm#fr_91.md) Τινες δε και
 καταφρονουσι των γεννητικων μελων.--The "contempt" here expressed by
 καταφρονουσι has been taken by all translators (except Whalley) to
 signify "mutilation."
 
-<span id="fn_92"></span>[50:2](ptb33.htm#fr_92) History warrants the
-high [encomium](errata.htm#5) here given to the natives of these
+<span id="fn_92"></span>[50:2](ptb33.htm#fr_92.md) History warrants the
+high [encomium](errata.htm#5.md) here given to the natives of these
 countries. Ægypt was the acknowledged mother of the arts and sciences,
 and at one time the great depot of all the learning of the world: her
 school of astronomy (a science which our author may be supposed to have
@@ -645,4 +645,4 @@ similar to those adopted by the moderns.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. The Familiarity of the Regions of the Earth with the
-Fixed Stars](ptb34)
+Fixed Stars](ptb34.md)

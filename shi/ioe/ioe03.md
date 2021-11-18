@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe02) 
-[Next](ioe04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe02.md) 
+[Next](ioe04.md) 
 
 ------------------------------------------------------------------------
 
@@ -278,4 +278,4 @@ great occasions of festivity and ceremonial.
 
 ------------------------------------------------------------------------
 
-[Next: The Primitive Art of Japan](ioe04)
+[Next: The Primitive Art of Japan](ioe04.md)

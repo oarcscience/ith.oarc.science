@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe058)  [Next](prwe060) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe058)  [Next](prwe060.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ additions, in the log-huts of the Western States."
 
 ------------------------------------------------------------------------
 
-[Next: The Mermaid of Padstow](prwe060)
+[Next: The Mermaid of Padstow](prwe060.md)

@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft43)  [Next](sfft45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft43)  [Next](sfft45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### REDEMPTION FROM FAIRY LAND. <span id="fr_64"></span>[2](#fn_64)
+### REDEMPTION FROM FAIRY LAND. <span id="fr_64"></span>[2](#fn_64.md)
 
 NEAR the town of Aberdeen, in Scotland, lived James Campbell, who had
 one daughter, named
@@ -69,7 +69,7 @@ her. Since my being taken from you I have had the attendance of a queen
 or empress, and if you look over my right shoulder you will see several
 of my companions; he then did as she desired, when, at a small distance,
 he saw a king and queen sitting, beside a moat, <span
-id="fr_65"></span>[1](#fn_65) on a throne, in splendour.
+id="fr_65"></span>[1](#fn_65.md) on a throne, in splendour.
 
 She then desired him to look right and left, which he did, and observed
 other kings on each side of the king and queen, well, guarded. He said,
@@ -163,12 +163,12 @@ lying-in, in the care of women who were mostly intoxicated with liquor!
 
 ### Footnotes
 
-<span id="fn_64"></span>[138:2](sfft44.htm#fr_64) Sir Walter Scott,
+<span id="fn_64"></span>[138:2](sfft44.htm#fr_64.md) Sir Walter Scott,
 *ibid*., "from a broadside still popular in Ireland."
 
-<span id="fn_65"></span>[140:1](sfft44.htm#fr_65) A rising ground, a
+<span id="fn_65"></span>[140:1](sfft44.htm#fr_65.md) A rising ground, a
 knoll.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy and the Bible-Reader](sfft45)
+[Next: The Fairy and the Bible-Reader](sfft45.md)

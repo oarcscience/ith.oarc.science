@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp07)  [Next](wgp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp07)  [Next](wgp09.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ with a garland. The Bacchanalia, representing the Dionysia of the
 Greeks, were celebrated in the latter part of October, when the harvest
 was completed, and were attended with much the same ceremonies as the
 Liberalia. The phallus was similarly carried in
-[procession](errata.htm#1), and crowned, and, as in the Liberalia, the
+[procession](errata.htm#1.md), and crowned, and, as in the Liberalia, the
 festivities being carried on into the night, as the celebrators became
 heated with wine, they degenerated into the extreme of licentiousness,
 in which people indulged without a blush in the most infamous vices. The
@@ -42,7 +42,7 @@ the scene is represented in a well-known intaglio, which has
  
 
 <span id="img_pl12"></span> [![](tn/generic.jpg)  
-Click to view](img/pl12.jpg)  
+Click to view](img/pl12.jpg.md)  
 PLATE XII  
 AMULETS OF GOLD AND LEAD
 
@@ -163,7 +163,7 @@ other objects offered to the goddess at this time were
  
 
 <span id="img_pl13"></span> [![](tn/generic.jpg)  
-Click to view](img/pl13.jpg)  
+Click to view](img/pl13.jpg.md)  
 PLATE XIII  
 ROBIN GOODFELLOW AND PHALLIC ORNAMENTS
 
@@ -201,7 +201,7 @@ branches, a phallus made of bread, which they called undisguisedly a
 preserved during the following year as an amulet. A similar practice
 existed at St. Jean-d'Angély, where small cakes, made in the form of the
 phallus, and named *fateux*, were carried in the procession of the
-Fête-Dieu, or Corpus Christi. <span id="fr_62"></span>[63](#fn_62)
+Fête-Dieu, or Corpus Christi. <span id="fr_62"></span>[63](#fn_62.md)
 Shortly before the time when Dulaure wrote, this practice was suppressed
 by a new sous-préfet, M. Maillard. The custom of making cakes in the
 form of the sexual members, male and female, dates from a remote
@@ -245,7 +245,7 @@ images of the female organ were made at Clermont
 <span id="page_90">p. 90</span>
 
 in Auvergne, and in other places. They were popularly called
-*miches*. <span id="fr_63"></span>[64](#fn_63)
+*miches*. <span id="fr_63"></span>[64](#fn_63.md)
 
 There is another custom attached to Easter, which has probably some
 relation to the worship of which we are treating, and which seems once
@@ -280,18 +280,18 @@ day the women did the same to the men.
 
 ### Footnotes
 
-<span id="fn_61"></span>[77:62](wgp07.htm#fr_61) [Plate XIII, Fig.
-1](#img_pl12). From two black-letter ballads in the British Museum, one
+<span id="fn_61"></span>[77:62](wgp07.htm#fr_61.md) [Plate XIII, Fig.
+1](#img_pl12.md). From two black-letter ballads in the British Museum, one
 entitled, "A warning for all Lewd Livers," the other, "A strange and
 true News from Westmoreland."
 
-<span id="fn_62"></span>[88:63](wgp08.htm#fr_62) Dulaure, *Histoire
+<span id="fn_62"></span>[88:63](wgp08.htm#fr_62.md) Dulaure, *Histoire
 Abrégée des Different Cultes*, vol. ii, p. 285. Second Edition. It was
 printed in 1825.
 
-<span id="fn_63"></span>[90:64](wgp08.htm#fr_63) Dulaure, vol. ii, pp.
+<span id="fn_63"></span>[90:64](wgp08.htm#fr_63.md) Dulaure, vol. ii, pp.
 255-257.
 
 ------------------------------------------------------------------------
 
-[Next: May-day](wgp09)
+[Next: May-day](wgp09.md)

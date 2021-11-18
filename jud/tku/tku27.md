@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku26)  [Next](tku28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku26)  [Next](tku28.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ down, is called the Influx. Wherefore? Because that all the holinesses
 of the holinesses of all holinesses depend from that Influx.
 
 431\. "And in the Book of the Law, although it is holy, the ten
-holinesses <span id="fr_67"></span>[1](#fn_66) do not descend, until it
+holinesses <span id="fr_67"></span>[1](#fn_66.md) do not descend, until it
 be brought into the Temple. But after that it is brought into the Temple
 it is called holy with the ten holinesses.
 
@@ -80,14 +80,14 @@ Holy of the Holy Ones, the One Ancient before all."
 
 ### Footnotes
 
-<span id="fn_64"></span>[160:1](tku26.htm#fr_65) 370 = OSh, *Aush* =
+<span id="fn_64"></span>[160:1](tku26.htm#fr_65.md) 370 = OSh, *Aush* =
 formation, action, creation. And the least number of 3 + 70 = 37 = 70 =
 Malkuth, the decad of the Sephiroth.
 
-<span id="fn_65"></span>[160:2](tku26.htm#fr_66) Expressed by the *re*
+<span id="fn_65"></span>[160:2](tku26.htm#fr_66.md) Expressed by the *re*
 in *re*turn.
 
-<span id="fn_66"></span>[161:1](tku27.htm#fr_67) This of course refers
+<span id="fn_66"></span>[161:1](tku27.htm#fr_67.md) This of course refers
 to the ten Sephiroth. In the *Sepher Yetzirah*, SPR ITzIRH, a very
 ancient and mystical qabalistical book attributed to Abraham the
 Patriarch, which treats of the creation of the universe through the
@@ -101,4 +101,4 @@ This book "Yetzirah" is not included in the present volume.
 ------------------------------------------------------------------------
 
 [Next: Chapter XX: Concerning the Ninth Part of the Beard of
-Macroprosopus](tku28)
+Macroprosopus](tku28.md)

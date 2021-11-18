@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq20)  [Next](sfq22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq20)  [Next](sfq22.md) 
 
 ------------------------------------------------------------------------
 
@@ -130,4 +130,4 @@ three daughters, and once more set out on their journey.
 
 ------------------------------------------------------------------------
 
-[Next: The Last Fight](sfq22)
+[Next: The Last Fight](sfq22.md)

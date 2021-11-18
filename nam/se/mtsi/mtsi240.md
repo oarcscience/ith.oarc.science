@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi239)  [Next](mtsi241) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi239)  [Next](mtsi241.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ right at the door of Mouse's house until he died of hunger and thirst.
 
 ------------------------------------------------------------------------
 
-[Next: 41. The Story Of Wåhgalānoh](mtsi241)
+[Next: 41. The Story Of Wåhgalānoh](mtsi241.md)

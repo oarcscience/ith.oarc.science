@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm13)  [Next](bnm15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm13)  [Next](bnm15.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ but never again has he done anything to help the owl.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Dove Is Timid.](bnm15)
+[Next: Why The Dove Is Timid.](bnm15.md)

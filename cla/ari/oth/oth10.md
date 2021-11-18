@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth09)  [Next](oth11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth09)  [Next](oth11.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ universally.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11](oth11)
+[Next: Chapter 11](oth11.md)

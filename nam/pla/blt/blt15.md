@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt14)  [Next](blt16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt14)  [Next](blt16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -161,7 +161,7 @@ few berries, and when night came he arrived at the bear's lodge.
 brother?"
 
 "Help me! Pity me!" replied the young man; "because of her words <span
-id="fr_14"></span>[1](#fn_14) I seek the Sun. I go to ask him for her."
+id="fr_14"></span>[1](#fn_14.md) I seek the Sun. I go to ask him for her."
 
 "I know not where he stops," replied the bear. "I have travelled by many
 rivers, and I know the mountains, yet I have never seen his lodge. There
@@ -260,7 +260,7 @@ him, "Did you see some weapons lying on the trail?"
 "To the Sun."
 
 "My name," said the young man, "is A-pi-su´-ahts <span
-id="fr_15"></span>[1](#fn_15). The Sun is my father; come, I will take
+id="fr_15"></span>[1](#fn_15.md). The Sun is my father; come, I will take
 you to our lodge. My father is not now at home, but he will come in at
 night."
 
@@ -271,7 +271,7 @@ but Morning Star said, "Do not be afraid, my friend; we are glad you
 have come."
 
 They entered. One person was sitting there, Ko-ko-mik´-e-is <span
-id="fr_16"></span>[2](#fn_16), the Sun's wife, Morning Star's mother.
+id="fr_16"></span>[2](#fn_16.md), the Sun's wife, Morning Star's mother.
 She spoke to Scarface kindly, and gave him something to eat. "Why have
 you come so far from your people?" she asked.
 
@@ -341,7 +341,7 @@ every summer I grow young again."
 
 Then said the Sun: "What one of all animals is smartest? The raven is,
 for he always finds food. He is never hungry. Which one of all the
-animals is most *Nat-o'-ye* <span id="fr_17"></span>[1](#fn_17)? The
+animals is most *Nat-o'-ye* <span id="fr_17"></span>[1](#fn_17.md)? The
 buffalo is. Of all animals, I like him best. He is for the people. He is
 your food and your shelter. What part of his body is sacred? The tongue
 is. That is mine. What else is sacred? Berries are. They are mine too.
@@ -416,19 +416,19 @@ Hills.
 
 ### Footnotes
 
-<span id="fn_14"></span>[96:1](blt15.htm#fr_14) A Blackfoot often talks
+<span id="fn_14"></span>[96:1](blt15.htm#fr_14.md) A Blackfoot often talks
 of what this or that person said, without mentioning names.
 
-<span id="fn_15"></span>[99:1](blt15.htm#fr_15) Early Riser, *i.e.* The
+<span id="fn_15"></span>[99:1](blt15.htm#fr_15.md) Early Riser, *i.e.* The
 Morning Star.
 
-<span id="fn_16"></span>[99:2](blt15.htm#fr_16) Night red light, the
+<span id="fn_16"></span>[99:2](blt15.htm#fr_16.md) Night red light, the
 Moon.
 
-<span id="fn_17"></span>[101:1](blt15.htm#fr_17) This word may be
+<span id="fn_17"></span>[101:1](blt15.htm#fr_17.md) This word may be
 translated as "of the Sun," "having Sun power," or more properly,
 something sacred.
 
 ------------------------------------------------------------------------
 
-[Next: Origin of the I-kun-uh´-kah-tsi](blt16)
+[Next: Origin of the I-kun-uh´-kah-tsi](blt16.md)

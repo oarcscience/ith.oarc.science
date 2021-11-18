@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat06)  [Next](jat08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat06)  [Next](jat08.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ off one by one.
 
 ------------------------------------------------------------------------
 
-[Next: 6. The Monster Fish](jat08)
+[Next: 6. The Monster Fish](jat08.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP3FC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP3FC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP3FC/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](frank00)    [Text
-\[Zipped\]](frank.txt.gz)
+[Contents](#contents)    [Start Reading](frank00.md)    [Text
+\[Zipped\]](frank.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -37,33 +37,33 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP3FC/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](frank00)  
-[Preface](frank01)  
-[Letter 1](frank02)  
-[Letter 2](frank03)  
-[Letter 3](frank04)  
-[Letter 4](frank05)  
-[Chapter 1](frank06)  
-[Chapter 2](frank07)  
-[Chapter 3](frank08)  
-[Chapter 4](frank09)  
-[Chapter 5](frank10)  
-[Chapter 6](frank11)  
-[Chapter 7](frank12)  
-[Chapter 8](frank13)  
-[Chapter 9](frank14)  
-[Chapter 10](frank15)  
-[Chapter 11](frank16)  
-[Chapter 12](frank17)  
-[Chapter 13](frank18)  
-[Chapter 14](frank19)  
-[Chapter 15](frank20)  
-[Chapter 16](frank21)  
-[Chapter 17](frank22)  
-[Chapter 18](frank23)  
-[Chapter 19](frank24)  
-[Chapter 20](frank25)  
-[Chapter 21](frank26)  
-[Chapter 22](frank27)  
-[Chapter 23](frank28)  
-[Chapter 24](frank29)  
+<span id="contents"></span> [Title Page](frank00.md)  
+[Preface](frank01.md)  
+[Letter 1](frank02.md)  
+[Letter 2](frank03.md)  
+[Letter 3](frank04.md)  
+[Letter 4](frank05.md)  
+[Chapter 1](frank06.md)  
+[Chapter 2](frank07.md)  
+[Chapter 3](frank08.md)  
+[Chapter 4](frank09.md)  
+[Chapter 5](frank10.md)  
+[Chapter 6](frank11.md)  
+[Chapter 7](frank12.md)  
+[Chapter 8](frank13.md)  
+[Chapter 9](frank14.md)  
+[Chapter 10](frank15.md)  
+[Chapter 11](frank16.md)  
+[Chapter 12](frank17.md)  
+[Chapter 13](frank18.md)  
+[Chapter 14](frank19.md)  
+[Chapter 15](frank20.md)  
+[Chapter 16](frank21.md)  
+[Chapter 17](frank22.md)  
+[Chapter 18](frank23.md)  
+[Chapter 19](frank24.md)  
+[Chapter 20](frank25.md)  
+[Chapter 21](frank26.md)  
+[Chapter 22](frank27.md)  
+[Chapter 23](frank28.md)  
+[Chapter 24](frank29.md)  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit03)  [Next](bit05) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit03)  [Next](bit05.md) 
 
 ------------------------------------------------------------------------
 
@@ -169,4 +169,4 @@ Alexander the Great took the throne.\[1\]
 ------------------------------------------------------------------------
 
 [Next: Chapter II. Gradual Rise and Present Area of the Buddhist
-Religion](bit05)
+Religion](bit05.md)

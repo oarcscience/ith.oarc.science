@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had15)  [Next](had17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had15)  [Next](had17.md) 
 
 ------------------------------------------------------------------------
 
@@ -195,4 +195,4 @@ intentionally discontinued it.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV: Miscellaneous Prayers (Istikhārah. Salāt al-Kusūf,
-Istisqā')](had17)
+Istisqā')](had17.md)

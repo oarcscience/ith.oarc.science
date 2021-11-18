@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe201)  [Next](prwe203) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe201)  [Next](prwe203.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ didn't know what to think of her, when all at once she vanished."
 
 ------------------------------------------------------------------------
 
-[Next: The Pirate Wrecker and the Death Ship](prwe203)
+[Next: The Pirate Wrecker and the Death Ship](prwe203.md)

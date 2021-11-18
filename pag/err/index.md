@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,12 +19,12 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)  [Start Reading](err00)
+[Contents](#contents)  [Start Reading](err00.md)
 
 ------------------------------------------------------------------------
 
 Charles Godfrey Leland, who also wrote [Aradia, Gospel of the
-Witches](../aradia/index), was a 19th century journalist, author and
+Witches](../aradia/index.md), was a 19th century journalist, author and
 folklorist, specializing in Native American, Gypsy and Italian
 traditions. This book is a classic study of the folklore of the Tuscan
 region of Italy (to the northwest of Rome, around Florence). It ties
@@ -70,22 +70,22 @@ Lelands' prediction of its impending demise, persists to this day.
 
 ------------------------------------------------------------------------
 
-[Title Page](err00)  
-[Contents](err01)  
-[List of Illustrations](err02)  
-[Introduction](err03)  
-[Part One: Chapter I--TINIA](err04)  
-[Part One: Chapter II--MASO](err05)  
-[Part One: Chapter III--FERONIA](err06)  
-[Part One: Chapter IV--FAFLON](err07)  
-[Part One: Chapter V--LARES, LASA, AND LASSI](err08)  
-[Part One: Chapter VI--CARRADORA](err09)  
-[Part One: Chapter VII--TITUNO](err10)  
-[Part One: Chapter VIII--FLORIA](err11)  
-[Part One: Chapter IX--IL SPIRITO DEL SCALDINO](err12)  
-[Part One: Chapter X--CUPRA](err13)  
-[Part Two: Chapter I--LA STALLA DI MAIALE](err14)  
-[Part Two: Chapter II--BIRDS AND TREASURES](err15)  
-[Part Two: Chapter III--THE EXORCISM OF DEATH](err16)  
-[Part Two: Chapter IV--EVIL INCANTATIONS](err17)  
-[Part Two: Chapter V--THE AMETHYST](err18)  
+[Title Page](err00.md)  
+[Contents](err01.md)  
+[List of Illustrations](err02.md)  
+[Introduction](err03.md)  
+[Part One: Chapter I--TINIA](err04.md)  
+[Part One: Chapter II--MASO](err05.md)  
+[Part One: Chapter III--FERONIA](err06.md)  
+[Part One: Chapter IV--FAFLON](err07.md)  
+[Part One: Chapter V--LARES, LASA, AND LASSI](err08.md)  
+[Part One: Chapter VI--CARRADORA](err09.md)  
+[Part One: Chapter VII--TITUNO](err10.md)  
+[Part One: Chapter VIII--FLORIA](err11.md)  
+[Part One: Chapter IX--IL SPIRITO DEL SCALDINO](err12.md)  
+[Part One: Chapter X--CUPRA](err13.md)  
+[Part Two: Chapter I--LA STALLA DI MAIALE](err14.md)  
+[Part Two: Chapter II--BIRDS AND TREASURES](err15.md)  
+[Part Two: Chapter III--THE EXORCISM OF DEATH](err16.md)  
+[Part Two: Chapter IV--EVIL INCANTATIONS](err17.md)  
+[Part Two: Chapter V--THE AMETHYST](err18.md)  

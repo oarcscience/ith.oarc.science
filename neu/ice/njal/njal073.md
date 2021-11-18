@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal072)  [Next](njal074) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal072)  [Next](njal074.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ some one else to quarrel with.
 
 ------------------------------------------------------------------------
 
-[Next: 74. Kolskegg Goes Abroad](njal074)
+[Next: 74. Kolskegg Goes Abroad](njal074.md)

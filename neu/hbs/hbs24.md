@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs23) [Next](hbs25)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs23) [Next](hbs25.md)
 
 ------------------------------------------------------------------------
 
@@ -278,7 +278,7 @@ Forth went the gay-clad wooers, and came to Prilip the white.
 
 ------------------------------------------------------------------------
 
-[Next](hbs25)
+[Next](hbs25.md)
 
  
 

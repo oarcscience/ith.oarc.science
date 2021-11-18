@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei26)  [Next](jei28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei26)  [Next](jei28.md) 
 
 ------------------------------------------------------------------------
 
@@ -209,4 +209,4 @@ the history of the human race would have opened.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV. In Conclusion](jei28)
+[Next: Chapter XXV. In Conclusion](jei28.md)

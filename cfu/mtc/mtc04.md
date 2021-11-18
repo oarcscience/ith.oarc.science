@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc03)  [Next](mtc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc03)  [Next](mtc05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -60,6 +60,6 @@ Written without disrespect by Wang Wei, a dweller in the mountains.
 
 ------------------------------------------------------------------------
 
-[Next: Drinking Alone by Moonlight](mtc05)
+[Next: Drinking Alone by Moonlight](mtc05.md)
 
 </div>

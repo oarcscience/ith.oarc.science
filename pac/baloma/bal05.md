@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](bal04)  [Next](bal06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](bal04)  [Next](bal06.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,7 +105,7 @@ lag behind or be too far in advance of the others.
 
 His share is very much appreciated by the community; indeed, it would be
 difficult to imagine any work done in the gardens without the
-co-operation of the *towosi* (garden magician). [43](bal09.htm#xref_43)
+co-operation of the *towosi* (garden magician). [43](bal09.htm#xref_43.md)
 
 In the management of gardens the *towosi* has a great deal to say, and
 great respect is shown to his advice, a respect which is in reality
@@ -199,7 +199,7 @@ about
 <span id="page_196">p. 196</span>
 
 the part played by the *baloma* in magic may appear in the right
-perspective. [44](bal09.htm#xref_44)
+perspective. [44](bal09.htm#xref_44.md)
 
 The backbone of Kiriwinian magic is formed by its spells. It is in the
 spell that the main virtue of all magic resides. The rite is there only
@@ -230,7 +230,7 @@ to nephew in the maternal line, which, in native opinion, is the real
 line of kindred (*veiola*). The two forms of inheritance are not quite
 equivalent. There is a class of magic which may be termed local, because
 it is bound up with a given locality. To this class belong all the
-systems of garden magic, [45](bal09.htm#xref_45) as well as all such
+systems of garden magic, [45](bal09.htm#xref_45.md) as well as all such
 magical spells as are connected with certain spots endowed with magical
 properties. Such was the most powerful rain magic in the island, that of
 Kasana'i, which had to be performed in a certain waterhole in the
@@ -244,7 +244,7 @@ associated with a *kaboma* (a sacred grove) near that village. Again,
 the elaborate systems of magic which were essential to shark and
 *kalala* fishing had each to be carried out by a man belonging to the
 village of Kaibuola or Laba'i respectively. All such formulae were
-hereditary in the female line. [46](bal09.htm#xref_46)
+hereditary in the female line. [46](bal09.htm#xref_46.md)
 
 The class of magic which is not bound up with locality, and which may be
 easily transmitted from father to son, or even from stranger to
@@ -262,14 +262,14 @@ removing the bad effects of incest, etc. But even these formulae, though
 they are not necessarily performed by the people of one locality, are
 usually associated with a locality. There is very often a myth at the
 bottom of a certain system of magic, and a myth is always
-local. [47](bal09.htm#xref_47)
+local. [47](bal09.htm#xref_47.md)
 
 Thus the more numerous examples, and certainly the more important class
 of magic (the "matrilineal" magic), is local, both in its character and
 in its transmission, whereas only par-t of the other class is distinctly
 local in its character. Now locality is in the mind and tradition of the
 Kiriwinian most intimately associated with a given family or
-subclan. [48](bal09.htm#xref_48) In each locality the line of men who
+subclan. [48](bal09.htm#xref_48.md) In each locality the line of men who
 have succeeded each other as its rulers, and who in turn performed those
 acts of magic essential to its welfare (such as garden magic), would
 naturally loom large in the minds of the natives. This probably is
@@ -338,7 +338,7 @@ In the *u'ula* just quoted, the first word, *vatuvi*, was not understood
 by my informant, Bagido'u, the *towosi* (garden magician), of Omarakana,
 or at least, he was not able to translate it to me. On etymological
 grounds it can be translated, I think, by "cause" or
-"make." [49](bal09.htm#xref_49)
+"make." [49](bal09.htm#xref_49.md)
 
 The words *vitumaga imaga* are composed of the prefixes *vitu* (to
 cause), and *i* (third person, singular, verbal prefix); and of the root
@@ -370,7 +370,7 @@ lists of ancestors, is that the last names are preceded by the words
 "*bilumava'u bilumam*," which broadly mean (without entering into a
 linguistic analysis) "you new *baloma*," and then the names of the few
 last ancestors are enumerated. Thus Bagido'u mentions his grandfather,
-Muakenuva, and his father, Iowana. [50](bal09.htm#xref_50) This is
+Muakenuva, and his father, Iowana. [50](bal09.htm#xref_50.md) This is
 important, because it is a direct invocation of a *baloma*, "O thou
 *baloma*" (in "bilumam'" the m' being the suffix of the second person).
 In the light of this fact, the ancestor names appear to be more likely
@@ -446,7 +446,7 @@ Malita; Tudava climbs up \[lit. changes\]; \[Tudava\] settles down on
 the *tokaikaia* (*i.e.*, the platform for the *baloma*).
 
 In the Omarakana system of garden magic there are no special references
-to any sacred places near the village. [51](bal09.htm#xref_51) The only
+to any sacred places near the village. [51](bal09.htm#xref_51.md) The only
 ritual action performed in connection with the *baloma* during the
 ceremony is of a very trifling character. After reciting the appropriate
 spell over the first taro planted in a *baleko* (a garden plot, the
@@ -615,7 +615,7 @@ Tapuala: "*Bala baise akavakavala Ovavavala Iaegula'i*
 There is no *dogina* (final piece) in this formula. The translation runs
 as follows:--
 
-"Who bends down in Ovavavile? [52](bal09.htm#xref_52) I, Nasibowa'i
+"Who bends down in Ovavavile? [52](bal09.htm#xref_52.md) I, Nasibowa'i
 (personal name of the present *towosi*) am bending down in Ovavavile! I
 shall go there and bend down in Ovavavile; I, Nasibowa'i, shall bend
 down in Ovavavile; I shall go there and bear the burden \[here the
@@ -709,7 +709,7 @@ spells, also ordered by Tudava, are essential, for if these were omitted
 the fish would not come. Tudava's name, coupled with those of other
 ancestors, figures in a long spell said at the beginning of the fishing
 period on the beach near a large tabooed stone called
-Bomlikuliku. [53](bal09.htm#xref_53) The spell begins:--
+Bomlikuliku. [53](bal09.htm#xref_53.md) The spell begins:--
 
 "*Tudava kulu Tudava;  
 Ibu'a kulu, Wa'ibua;  
@@ -740,7 +740,7 @@ Bomlikuliku stone with the following words:--
 
 "*Kamkuamsi kami ula'ula, nunumuaia:  
 Ilikilaluva, Ilibualita;  
-Kulisasisama*," [54](bal09.htm#xref_54)
+Kulisasisama*," [54](bal09.htm#xref_54.md)
 
 which mean--
 
@@ -759,7 +759,7 @@ is chanted over a plant (*libu*) uprooted from the soil and put across
 the path. In this spell there is the following phrase:--
 
 "*Iamuana iaegulo, Umnalibu  
-Tai'ioko, Kubugu, Taigala, Likiba*," [55](bal09.htm#xref_55)
+Tai'ioko, Kubugu, Taigala, Likiba*," [55](bal09.htm#xref_55.md)
 
 which is also an enumeration of names, all of which are said to have
 belonged to the present magician's ancestors.
@@ -788,7 +788,7 @@ total of seven, which makes a large proportion.
 It would take up too much space to discuss in detail all the remaining
 magical formulae which have been recorded. A synoptic table (see next
 page) will be sufficient as a basis for a short
-discussion. [56](bal09.htm#xref_56)
+discussion. [56](bal09.htm#xref_56.md)
 
 As mentioned above, there are the two classes of magic, the
 "matrilineal" and "patrilineal," the former bound up with a locality,
@@ -913,7 +913,7 @@ undoubtedly more pronounced. The *baloma* participate in some vague
 manner in such ceremonies as are performed for their benefit, and it is
 better to keep on the right side of them, but this view by no means
 implies the idea that they are the main agents, or even the subsidiary
-agents, of any activity. [57](bal09.htm#xref_57) The magical virtue lies
+agents, of any activity. [57](bal09.htm#xref_57.md) The magical virtue lies
 in the spell itself.
 
 The native attitude of mind towards the *baloma* in magic may become
@@ -947,8 +947,8 @@ that he would never see in them any appeal to the spirits, any
 invitation to the *baloma* to come and act; the spells uttered whilst
 giving the *ula'ula* being, perhaps, an exception. But even this
 exception does not loom first and foremost in his mind and does not
-color his general attitude towards magic. [58](bal09.htm#xref_58)
+color his general attitude towards magic. [58](bal09.htm#xref_58.md)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](bal06)
+[Next: Chapter VI](bal06.md)

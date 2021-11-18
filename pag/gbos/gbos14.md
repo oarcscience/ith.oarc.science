@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos13)  [Next](gbos15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos13)  [Next](gbos15.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ impersonate the God.
 
 ------------------------------------------------------------------------
 
-[Next: The Warning](gbos15)
+[Next: The Warning](gbos15.md)

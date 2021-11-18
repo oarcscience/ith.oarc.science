@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab24)  [Next](mab26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab24)  [Next](mab26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -45,7 +45,7 @@ have done so.--Tr. 38.
 Manawyddan is mentioned in the Dialogue between Arthur, Kai, and
 Glewlwyd; and his name occurs in connexion with that of Pryderi in the
 Poem on the Sons of Llyr, "Kerdd meib Llyr," <span
-id="fr_203"></span>[1](#fn_202) of Taliesin.
+id="fr_203"></span>[1](#fn_202.md) of Taliesin.
 
 The other principal personages whose names appear in this Mabinogi, are
 here passed over in silence, having been already made the subjects of
@@ -53,7 +53,7 @@ various preceding notes.
 
 It may be useful to remind the reader that Lloegyr is the Welsh name for
 the eastern and greater part of the island; and corresponds in modern
-usage with the word England.--See [p. 210](mab14.htm#page_210).
+usage with the word England.--See [p. 210](mab14.htm#page_210.md).
 
 <span id="img_41200"></span> ![](img/41200.jpg)
 
@@ -63,9 +63,9 @@ usage with the word England.--See [p. 210](mab14.htm#page_210).
 
 ### Footnotes
 
-<span id="fn_202"></span>[412:1](mab25.htm#fr_203) Myv. Arch. I. 67,
+<span id="fn_202"></span>[412:1](mab25.htm#fr_203.md) Myv. Arch. I. 67,
 167.
 
 ------------------------------------------------------------------------
 
-[Next: Math the Son of Mathonwy](mab26)
+[Next: Math the Son of Mathonwy](mab26.md)

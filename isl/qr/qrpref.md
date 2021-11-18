@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](qrded)  [Next](096) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](qrded)  [Next](096.md) 
 
 </div>
 
@@ -31,7 +31,7 @@ Medina, and one of the Ansars, or helpers, who had been Muhammad's
 amanuensis, was the person fixed upon to carry out the task, and we are
 told that he "gathered together" the fragments of the Koran from every
 quarter, "from date leaves and tablets of white stone, and from the
-breasts of men." <span id="fr_1"></span>[1](#fn_1) The copy thus formed
+breasts of men." <span id="fr_1"></span>[1](#fn_1.md) The copy thus formed
 by Zaid probably remained in the possession of Abu Bekr during the
 remainder of his brief caliphate, who committed it to the custody of
 Haphsa, one of Muhammad's widows, and this text continued during the ten
@@ -41,11 +41,11 @@ under the caliphate of Othman, led to such serious disputes between the
 faithful, that it became necessary to interpose, and in accordance with
 the warning of Hodzeifa, "to stop the people, before they should differ
 regarding their scriptures, as did the Jews and Christians." <span
-id="fr_2"></span>[2](#fn_2) In accordance with this advice, Othman
+id="fr_2"></span>[2](#fn_2.md) In accordance with this advice, Othman
 determined to establish a text which should be the sole standard, and
 entrusted the redaction to the Zaid already mentioned, with whom he
 associated as colleagues, three, according to others, twelve <span
-id="fr_3"></span>[3](#fn_3) of the Koreisch, in order to secure the
+id="fr_3"></span>[3](#fn_3.md) of the Koreisch, in order to secure the
 purity of that Meccan idiom in which Muhammad had spoken, should any
 occasions arise in which the collators might have to decide upon various
 readings. Copies of the text formed were thus forwarded to several of
@@ -308,7 +308,7 @@ career no one would venture to doubt the divine origin of the entire
 book. But at its commencement the case was different. The people of
 Mecca spoke openly and tauntingly of it as the work of a poet, as a
 collection of antiquated or fabulous legends, or as palpable
-sorcery. <span id="fr_4"></span>[4](#fn_4) They accused him of having
+sorcery. <span id="fr_4"></span>[4](#fn_4.md) They accused him of having
 confederates, and even specified foreigners who had been his coadjutors.
 Such were Salman the Persian, to whom he may have owed the descriptions
 of Heaven and Hell, which are analogous to those of the Zendavesta; and
@@ -446,11 +446,11 @@ names had been the same in each, it might have been fair to suppose that
 such versions had been made, more or less, upon the basis of others,
 which, though now lost, existed in the ages prior to Muhammad, and
 influenced, if they did not directly form, his sources of information.
-But <span id="fr_5"></span>[5](#fn_5) this does not appear to be the
+But <span id="fr_5"></span>[5](#fn_5.md) this does not appear to be the
 case. The phraseology of our existing versions is not that of the
 Koran--and these versions appear to have been made from the Septuagint,
 the Vulgate, Syriac, Coptic, and Greek; the four Gospels, says
-Tischendorf <span id="fr_6"></span>[6](#fn_6) originem mixtam habere
+Tischendorf <span id="fr_6"></span>[6](#fn_6.md) originem mixtam habere
 videntur.
 
 From the Arab Jews, Muhammad would be enabled to derive an abundant,
@@ -462,22 +462,22 @@ no doubt, from the constant identity between the Talmudic perversions of
 Scripture histories and Rabbinic moral precepts, that the Rabbins of the
 Hejaz communicated their legends to Muhammad. And it should be
 remembered that the Talmud was completed a century previous to the era
-of Muhammad, <span id="fr_7"></span>[7](#fn_7) and cannot fail to have
+of Muhammad, <span id="fr_7"></span>[7](#fn_7.md) and cannot fail to have
 extensively influenced the religious creed of all the Jews of the
-Arabian peninsula. In one passage, <span id="fr_8"></span>[8](#fn_8)
+Arabian peninsula. In one passage, <span id="fr_8"></span>[8](#fn_8.md)
 Muhammad speaks of an individual Jew--perhaps some one of note among his
 professed followers, as a witness to his mission; and there can be no
 doubt that his relations with the Jews were, at one time, those of
 friendship and intimacy, when we find him speak of their recognising him
 as they do their own children, and hear him blaming their most
-colloquial expressions. <span id="fr_9"></span>[9](#fn_9) It is
+colloquial expressions. <span id="fr_9"></span>[9](#fn_9.md) It is
 impossible, however, for us at this distance of time to penetrate the
 mystery in which this subject is involved. Yet certain it is, that,
 although their testimony against Muhammad was speedily silenced, the
 Koreisch knew enough of his private history to disbelieve and to
 disprove his pretensions of being the recipient of a divine revelation,
 and that they accused him of writing from the dictation of teachers
-morning and evening. <span id="fr_10"></span>[10](#fn_10) And it is
+morning and evening. <span id="fr_10"></span>[10](#fn_10.md) And it is
 equally certain, that all the information received by Muhammad was
 embellished and recast in his own mind and with his own words. There is
 a unity of thought, a directness and simplicity of purpose, a peculiar
@@ -487,11 +487,11 @@ verses) of the Koran at least to be the product of a single pen. The
 longer narratives were, probably, elaborated in his leisure hours, while
 the shorter verses, each claiming to be a sign or miracle, were
 promulgated as occasion required them. And, whatever Muhammad may
-himself profess in the Koran <span id="fr_11"></span>[11](#fn_11) as to
+himself profess in the Koran <span id="fr_11"></span>[11](#fn_11.md) as to
 his ignorance, even of reading and writing, and however strongly modern
 Muhammadans may insist upon the same point an assertion by the way
 contradicted by many good authors <span
-id="fr_12"></span>[12](#fn_12)--there can be no doubt that to assimilate
+id="fr_12"></span>[12](#fn_12.md)--there can be no doubt that to assimilate
 and work up his materials, to fashion them into elaborate Suras, to fit
 them for public recital, must have been a work requiring much time,
 study, and meditation, and presumes a far greater degree of general
@@ -522,7 +522,7 @@ to endeavour to rescue his countrymen from idolatry,--naturally
 stiffened at Medina into tyranny and unscrupulous violence. At the same
 time, he was probably, more or less, throughout his whole career, the
 victim of a certain amount of self-deception. A cataleptic <span
-id="fr_13"></span>[13](#fn_13) subject from his early youth,
+id="fr_13"></span>[13](#fn_13.md) subject from his early youth,
 born--according to the traditions--of a highly nervous and excitable
 mother, he would be peculiarly liable to morbid and fantastic
 hallucinations, and alternations of excitement and depression, which
@@ -532,7 +532,7 @@ being inspired. It would be easy for him to persuade himself that he was
 Unity, held and taught by the Patriarchs, especially by Abraham--a
 doctrine that should present to mankind Judaism divested of its Mosaic
 ceremonial, and Christianity divested of the Atonement and the
-Trinity <span id="fr_14"></span>[14](#fn_14)--doctrine, as he might have
+Trinity <span id="fr_14"></span>[14](#fn_14.md)--doctrine, as he might have
 believed, fitted and destined to absorb Judaism, Christianity, and
 Idolatry; and this persuasion, once admitted into his mind as a
 conviction, retained possession of it, and carried him on, though often
@@ -542,7 +542,7 @@ true that the state of Arabia previous to the time of Muhammad was one
 of preparedness for a new religion that the scattered elements were
 there, and wanted only the mind of a master to harmonise and enforce
 them and that Islam was, so to speak, a necessity of the time. <span
-id="fr_15"></span>[15](#fn_15) Still Muhammad's career is a wonderful
+id="fr_15"></span>[15](#fn_15.md) Still Muhammad's career is a wonderful
 instance of the force and life that resides in him who possesses an
 intense Faith in God and in the unseen world; and whatever deductions
 may be made--and they are many and serious--from the noble and truthful
@@ -687,42 +687,42 @@ it is almost impossible not to rhyme." Pilgr. ii. 78.
 
 ### Footnotes
 
-<span id="fn_1"></span>[1](qrpref.htm#fr_1) Mishcât, vol. i. p. 524. E.
+<span id="fn_1"></span>[1](qrpref.htm#fr_1.md) Mishcât, vol. i. p. 524. E.
 Trans. B. viii. 3, 3.
 
-<span id="fn_2"></span>[2](qrpref.htm#fr_2) Mishcât, as above. Muir, i.
+<span id="fn_2"></span>[2](qrpref.htm#fr_2.md) Mishcât, as above. Muir, i.
 p. xiii. Freyt. Einl., p. 384. Memoires de l’Acad. T. 50, p. 426. Nöld.
 p. 205.
 
-<span id="fn_3"></span>[3](qrpref.htm#fr_3) Kitâb al Waquidi, p. 278
+<span id="fn_3"></span>[3](qrpref.htm#fr_3.md) Kitâb al Waquidi, p. 278
 
-<span id="fn_4"></span>[4](qrpref.htm#fr_4) See Suras xxxvi. xxv. xvii.
+<span id="fn_4"></span>[4](qrpref.htm#fr_4.md) See Suras xxxvi. xxv. xvii.
 
-<span id="fn_5"></span>[5](qrpref.htm#fr_5) See Walton’s Prol. ad
+<span id="fn_5"></span>[5](qrpref.htm#fr_5.md) See Walton’s Prol. ad
 Polygl. Lond. § xiv. 2.
 
-<span id="fn_6"></span>[6](qrpref.htm#fr_6) Prol. in N.T. p. lxxviii.
+<span id="fn_6"></span>[6](qrpref.htm#fr_6.md) Prol. in N.T. p. lxxviii.
 
-<span id="fn_7"></span>[7](qrpref.htm#fr_7) The date of the Bab. Gemara
+<span id="fn_7"></span>[7](qrpref.htm#fr_7.md) The date of the Bab. Gemara
 is A.D. 530; of the Jerusalem Gamara, A.D. 430; of the Mischina A.D.
 220; See Gfrörer’s Jahrhundert des Heils, pp. 11- 44.
 
-<span id="fn_8"></span>[8](qrpref.htm#fr_8) Sura xlvi. 10, p. 314.
+<span id="fn_8"></span>[8](qrpref.htm#fr_8.md) Sura xlvi. 10, p. 314.
 
-<span id="fn_9"></span>[9](qrpref.htm#fr_9) Sura vi. 20, p. 318. Sura
+<span id="fn_9"></span>[9](qrpref.htm#fr_9.md) Sura vi. 20, p. 318. Sura
 ii. 13 (p. 339), verse 98, etc.
 
-<span id="fn_10"></span>[10](qrpref.htm#fr_10) Sura xxv. 5, 6, p. 159.
+<span id="fn_10"></span>[10](qrpref.htm#fr_10.md) Sura xxv. 5, 6, p. 159.
 
-<span id="fn_11"></span>[11](qrpref.htm#fr_11) Sura. vii. 156, p. 307;
+<span id="fn_11"></span>[11](qrpref.htm#fr_11.md) Sura. vii. 156, p. 307;
 xxix. 47, p. 265.
 
-<span id="fn_12"></span>[12](qrpref.htm#fr_12) See Dr. Sprenger’s
+<span id="fn_12"></span>[12](qrpref.htm#fr_12.md) See Dr. Sprenger’s
 “Life,” p. 101.
 
-<span id="fn_13"></span>[13](qrpref.htm#fr_13) Or, epileptic.
+<span id="fn_13"></span>[13](qrpref.htm#fr_13.md) Or, epileptic.
 
-<span id="fn_14"></span>[14](qrpref.htm#fr_14) A line of argument to be
+<span id="fn_14"></span>[14](qrpref.htm#fr_14.md) A line of argument to be
 adopted by a Christian missionary in dealing with a Muhammadan should
 be, not to attack Islam as a mass of error, but to shew that it contains
 fragments of disjointed truth--that it is based upon Christianity and
@@ -730,7 +730,7 @@ Judaism partially understood--especially upon the latter, without any
 appreciation of its typical character pointing to Christianity as a
 final dispensation.
 
-<span id="fn_15"></span>[15](qrpref.htm#fr_15) Muhammad can scarcely
+<span id="fn_15"></span>[15](qrpref.htm#fr_15.md) Muhammad can scarcely
 have failed to observe the opportunity offered for the growth of a new
 power, by the ruinous strifes of the Persians and Greeks. Abulfeda (Life
 of Muhammad, p. 76) expressly says that he had promised his followers
@@ -740,6 +740,6 @@ the spoils o Chosroes and Cæsar.
 
 ------------------------------------------------------------------------
 
-[Next: Sura XCVI.--Thick Blood, or Clots Of Blood \[I.\]](096)
+[Next: Sura XCVI.--Thick Blood, or Clots Of Blood \[I.\]](096.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib07)  [Next](sib09) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib07)  [Next](sib09.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ Comp. Isa. i, 10; Ezek. xvi, 48,49.
 
 ------------------------------------------------------------------------
 
-[Next: Book VII.](sib09)
+[Next: Book VII.](sib09.md)

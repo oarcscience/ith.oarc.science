@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip04)  [Next](fip06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip04)  [Next](fip06.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ on his part at least.
 minute. There's a little ould fellow sittin' on the top of the sleys,
 an' all to be rocked while I'm weavin'. The sorrow's in them, but
 they're the greatest little skamers alive, so they are. See, there's
-another of them at my dressin' noggin. <span id="fr_2"></span>[1](#fn_2)
+another of them at my dressin' noggin. <span id="fr_2"></span>[1](#fn_2.md)
 Go out o' that, you *shingawn*; or, bad cess to me, if you don't, but
 I'll lave you a mark. Ha! cut, you thief you!"
 
@@ -177,11 +177,11 @@ strangers as "the man that could see the good people".
 
 ### Footnotes
 
-<span id="fn_2"></span>[6:1](fip05.htm#fr_2) The dressings are a species
+<span id="fn_2"></span>[6:1](fip05.htm#fr_2.md) The dressings are a species
 of sizy flummery, which is brushed into the yam to keep the thread round
 and even, and to prevent it from being frayed by the friction of the
 reed.
 
 ------------------------------------------------------------------------
 
-[Next: The Priest's Supper, by T. Crofton Croker](fip06)
+[Next: The Priest's Supper, by T. Crofton Croker](fip06.md)

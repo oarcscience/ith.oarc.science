@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst097)  [Next](inst099) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst097)  [Next](inst099.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Beveridge \[1845\], at Intangible Textual Heritage
 
 <span id="iv.iv.xix"></span>
 
-### <span id="iv.iv.xix-p0.1"></span>CHAPTER 18  <span id="fr_648"></span>[649](#fn_648)
+### <span id="iv.iv.xix-p0.1"></span>CHAPTER 18  <span id="fr_648"></span>[649](#fn_648.md)
 
 <span id="iv.iv.xix-p2"></span>OF THE POPISH MASS. HOW IT NOT ONLY
 PROFANES, BUT ANNIHILATES THE LORD’S SUPPER.
@@ -111,7 +111,7 @@ of man—namely, when, with most pestilential error, he blinded almost the
 whole world into the belief that the Mass was a sacrifice and oblation
 for obtaining the remission of sins. I say nothing as to the way in
 which the sounder Schoolmen at first received this dogma.62  <span
-id="fr_649"></span>[650](#fn_649) I leave them with their puzzling
+id="fr_649"></span>[650](#fn_649.md) I leave them with their puzzling
 subtleties, which, however they may be defended by cavilling, are to be
 repudiated by all good men, because, all they do is to envelop the
 brightness of the Supper in great darkness. Bidding adieu to them,
@@ -140,7 +140,7 @@ so specious that this light will not expose the lurking evil?
 <span id="iv.iv.xix-p27"></span>2. Let us show, therefore, as was
 proposed in the first place, that in the mass intolerable blasphemy and
 insult are offered to Christ. For he was not appointed Priest and
-Pontiff by the Father62  <span id="fr_650"></span>[651](#fn_650) for a
+Pontiff by the Father62  <span id="fr_650"></span>[651](#fn_650.md) for a
 time merely, as priests were appointed under the Old Testament. Since
 their life was mortal, their priesthood could not be immortal, and hence
 there was need of successors, who might ever and anon be substituted in
@@ -164,13 +164,13 @@ apostle are too stringent to leave them any means of evasion—viz. “They
 truly were many priests, because they were not suffered to continue by
 reason of death: but this man, because he continueth ever, hath an
 unchangeable priesthood” (<span id="iv.iv.xix-p28.4"></span>[Heb.
-7:23](../../../bib/kjv/heb007.htm#023),
-[24](../../../bib/kjv/heb007.htm#024)<span
+7:23](../../../bib/kjv/heb007.htm#023.md),
+[24](../../../bib/kjv/heb007.htm#024.md)<span
 id="iv.iv.xix-p28.4"></span>). Yet such is their dishonesty, that to
 defend their impiety they arm themselves with the example of
 Melchizedek. As he is said to have “brought forth (*obtulisse*) bread
 and wine” (<span id="iv.iv.xix-p28.5"></span>[Gen.
-14:18](../../../bib/kjv/gen014.htm#018)<span
+14:18](../../../bib/kjv/gen014.htm#018.md)<span
 id="iv.iv.xix-p28.5"></span>), they infer that it was a prelude to their
 mass, as if there was any resemblance between him and Christ in the
 offering of bread and wine. This is too silly and frivolous to need
@@ -198,7 +198,7 @@ mass is, that it sinks and buries the cross and passion of Christ. This
 much, indeed, is most certain,—the cross of Christ is overthrown the
 moment an altar is erected. For if, on the cross, he offered himself in
 sacrifice that he might sanctify us for ever, and purchase eternal
-redemption for us,62  <span id="fr_651"></span>[652](#fn_651)
+redemption for us,62  <span id="fr_651"></span>[652](#fn_651.md)
 undoubtedly the power and efficacy of his sacrifice continues without
 end. Otherwise, we should not think more honourably of Christ than of
 the oxen and calves which were sacrificed under the law, the offering of
@@ -240,8 +240,8 @@ oblations, but that by the preaching of the gospel and the dispensation
 of the sacred Supper, the benefit of it should be communicated to us.
 Thus Paul says, that “Christ, our passover, is sacrificed for us,” and
 bids us “keep the feast” (<span id="iv.iv.xix-p30.2"></span>[1 Cor.
-5:7](../../../bib/kjv/co1005.htm#007),
-[8](../../../bib/kjv/co1005.htm#008)<span id="iv.iv.xix-p30.2"></span>).
+5:7](../../../bib/kjv/co1005.htm#007.md),
+[8](../../../bib/kjv/co1005.htm#008)<span id="iv.iv.xix-p30.2"></span>.md).
 The method, I say, in which the cross of Christ is duly applied to us is
 when the enjoyment is communicated to us, and we receive it with true
 faith.
@@ -251,7 +251,7 @@ other foundation besides they rear up their sacrifice of the mass. To
 this end they drag in the prophecy of Malachi, in which the Lord
 promises that “in every place incense shall be offered unto my name, and
 a pure offering” (<span id="iv.iv.xix-p31.1"></span>[Mal.
-1:11](../../../bib/kjv/mal001.htm#011)<span
+1:11](../../../bib/kjv/mal001.htm#011.md)<span
 id="iv.iv.xix-p31.1"></span>). As if it were new or unusual for the
 prophets, when they speak of the calling of the Gentiles, to designate
 the spiritual worship of God to which they call them, by the external
@@ -296,7 +296,7 @@ of Christ is obliterated by the mass? For what is the direct aim of the
 mass but just to put Christ again to death, if that were possible? For,
 as the apostle says, “Where a testament is, there must also of necessity
 be the death of the testator” (<span id="iv.iv.xix-p32.1"></span>[Heb.
-9:16](../../../bib/kjv/heb009.htm#016)<span
+9:16](../../../bib/kjv/heb009.htm#016.md)<span
 id="iv.iv.xix-p32.1"></span>). The novelty of the mass bears, on the
 face of it, to be a testament of Christ, and therefore demands his
 death. Besides, it is necessary that the victim which is offered be
@@ -305,8 +305,8 @@ cruelly slain every moment in a thousand places. This is not my
 argument, but the apostle’s: “Nor yet that he should offer himself
 often;” “for then must he often have suffered since the foundation of
 the world” (<span id="iv.iv.xix-p32.2"></span>[Heb.
-9:25](../../../bib/kjv/heb009.htm#025),
-[26](../../../bib/kjv/heb009.htm#026)<span
+9:25](../../../bib/kjv/heb009.htm#025.md),
+[26](../../../bib/kjv/heb009.htm#026.md)<span
 id="iv.iv.xix-p32.2"></span>). I admit that they are ready with an
 answer, by which they even charge us with calumny; for they say that we
 object to them what they never thought, and could not even think. We
@@ -320,7 +320,7 @@ sacrifice, for in this way the sacred and inviolable institution of God
 would fall. Hence it follows, that the principle of the apostle stands
 firm, “without shedding of blood is no remission” (<span
 id="iv.iv.xix-p32.3"></span>[Heb.
-9:22](../../../bib/kjv/heb009.htm#022)<span
+9:22](../../../bib/kjv/heb009.htm#022.md)<span
 id="iv.iv.xix-p32.3"></span>).
 
 <span id="iv.iv.xix-p33"></span>6. The fourth property of the mass which
@@ -387,7 +387,7 @@ profanation of the sacred Supper. For what did the Lord enjoin? Was it
 not to take and divide amongst ourselves? What does Paul teach as to the
 observance of this command? Is it not that the breaking of bread is the
 communion of body and blood? (<span id="iv.iv.xix-p35.1"></span>[1 Cor.
-10:16](../../../bib/kjv/co1010.htm#016)<span
+10:16](../../../bib/kjv/co1010.htm#016.md)<span
 id="iv.iv.xix-p35.1"></span>). Therefore, when one person takes without
 distributing, where is the resemblance? But that one acts in the name of
 the whole Church. By what command? Is it not openly to mock God when one
@@ -417,11 +417,11 @@ was unknown to the purer Church. For however the more impudent among our
 opponents may attempt to gloss the matter, it is absolutely certain that
 all antiquity is opposed to them, as has been above demonstrated in
 other instances, and may be more surely known by the diligent reading of
-the Fathers.62  <span id="fr_652"></span>[653](#fn_652) But before I
+the Fathers.62  <span id="fr_652"></span>[653](#fn_652.md) But before I
 conclude, I ask our missal doctors, seeing they know that obedience is
 better than sacrifice, and God commands us to listen to his voice rather
 than to offer sacrifice (<span id="iv.iv.xix-p37.1"></span>[1 Sam.
-15:22](../../../bib/kjv/sa1015.htm#022)<span
+15:22](../../../bib/kjv/sa1015.htm#022.md)<span
 id="iv.iv.xix-p37.1"></span>),—how they can believe this method of
 sacrificing to be pleasing to God, since it is certain that he does not
 command it, and they cannot support it by one syllable of Scripture?
@@ -429,8 +429,8 @@ Besides, when they hear the apostle declaring that “no man taketh this
 honour to himself, but he that is called of God, as was Aaron,” so also
 Christ glorified not himself to be made an high priest, but he that said
 unto him, “Thou art my Son: this day have I begotten thee” (<span
-id="iv.iv.xix-p37.2"></span>[Heb. 5:4](../../../bib/kjv/heb005.htm#004),
-[5](../../../bib/kjv/heb005.htm#005)<span id="iv.iv.xix-p37.2"></span>).
+id="iv.iv.xix-p37.2"></span>[Heb. 5:4](../../../bib/kjv/heb005.htm#004.md),
+[5](../../../bib/kjv/heb005.htm#005)<span id="iv.iv.xix-p37.2"></span>.md).
 They must either prove God to be the author and founder of their
 priesthood, or confess that there is no honour from God in an office,
 into which, without being called, they have rushed with wicked temerity.
@@ -485,7 +485,7 @@ Chrysostom speaks to the same effect. They so strongly claim the honour
 of the priesthood for Christ alone, that Augustine declares it would be
 equivalent to Antichrist for any one to make a bishop to be an
 intercessor between God and man (August. Cont. Parmen. Lib. 2 c. 8).62
- <span id="fr_653"></span>[654](#fn_653)
+ <span id="fr_653"></span>[654](#fn_653.md)
 
 <span id="iv.iv.xix-p40"></span>11. And yet we deny not that in the
 Supper the sacrifice of Christ is so vividly exhibited as almost to set
@@ -493,7 +493,7 @@ the spectacle of the cross before our eyes, just as the apostle says to
 the Galatians, that Jesus Christ had been evidently set forth before
 their eyes, when the preaching of the cross was delivered to them (<span
 id="iv.iv.xix-p40.1"></span>[Gal.
-3:1](../../../bib/kjv/gal003.htm#001)<span
+3:1](../../../bib/kjv/gal003.htm#001.md)<span
 id="iv.iv.xix-p40.1"></span>). But because I see that those ancient
 writers have wrested this commemoration to a different purpose than was
 accordant to the divine institution (the Supper somehow seemed to them
@@ -533,7 +533,7 @@ to banish all the boldness of human sense, and adhere solely to what
 Scripture delivers. And certainly, if we reflect that it is the Supper
 of the Lord and not of men, why do we allow ourselves to be turned aside
 one nail’s-breadth from Scripture, by any authority of man or length of
-prescription?62  <span id="fr_654"></span>[655](#fn_654) Accordingly,
+prescription?62  <span id="fr_654"></span>[655](#fn_654.md) Accordingly,
 the apostle, in desiring completely to remove the vices which had crept
 into the Church of Corinth, as the most expeditious method, recalls them
 to the institution itself, showing that thence a perpetual rule ought to
@@ -572,7 +572,7 @@ the sins, by which the sinner being cleansed and restored to purity, may
 return to favour with God. Hence the name which was given in the Law to
 the victims which were offered in expiation of sin (<span
 id="iv.iv.xix-p43.1"></span>[Exod.
-29:36](../../../bib/kjv/exo029.htm#036)<span
+29:36](../../../bib/kjv/exo029.htm#036.md)<span
 id="iv.iv.xix-p43.1"></span>); not that they were adequate to regain the
 favour of God, and wipe away guilt, but because they typified the true
 sacrifice of this nature, which was at length performed in reality by
@@ -610,7 +610,7 @@ of Christ, yet, as God, after abolishing those ancient sacrifices,
 appointed no new priest, the argument of the apostle remains invincible,
 “No man taketh this honour unto himself, but he that is called of God,
 as was Aaron” (<span id="iv.iv.xix-p44.1"></span>[Heb.
-5:4](../../../bib/kjv/heb005.htm#004)<span
+5:4](../../../bib/kjv/heb005.htm#004.md)<span
 id="iv.iv.xix-p44.1"></span>). How, then, can those sacrilegious men,
 who by their own account are murderers of Christ, dare to call
 themselves the priests of the living God?
@@ -664,23 +664,23 @@ be great among the Gentiles; and in every place incense shall be offered
 unto my name, and a pure offering: for my name shall be great among the
 heathen, said the Lord of hosts” (<span
 id="iv.iv.xix-p46.1"></span>[Malachi
-1:11](../../../bib/kjv/mal001.htm#011)<span
+1:11](../../../bib/kjv/mal001.htm#011.md)<span
 id="iv.iv.xix-p46.1"></span>); so far are we from doing away with this
 sacrifice. Thus Paul beseeches us by the mercies of God, to present our
 bodies “a living sacrifice, holy, acceptable unto God,” our “reasonable
 service” (<span id="iv.iv.xix-p46.2"></span>[Rom.
-12:1](../../../bib/kjv/rom012.htm#001)<span
+12:1](../../../bib/kjv/rom012.htm#001.md)<span
 id="iv.iv.xix-p46.2"></span>). Here he speaks very significantly when he
 adds, that this service is reasonable, for he refers to the spiritual
 mode of worshipping God, and tacitly opposes it to the carnal sacrifices
 of the Mosaic Law. Thus to do good and communicate are called sacrifices
 with which God is well pleased (<span id="iv.iv.xix-p46.3"></span>[Heb.
-13:16](../../../bib/kjv/heb013.htm#016)<span
+13:16](../../../bib/kjv/heb013.htm#016.md)<span
 id="iv.iv.xix-p46.3"></span>). Thus the kindness of the Philippians in
 relieving Paul’s want is called “an odour of a sweet smell, a sacrifice
 acceptable, well pleasing to God” (<span
 id="iv.iv.xix-p46.4"></span>[Phil.
-4:18](../../../bib/kjv/phi004.htm#018)<span
+4:18](../../../bib/kjv/phi004.htm#018.md)<span
 id="iv.iv.xix-p46.4"></span>); and thus all the good works of believers
 are called spiritual sacrifices.
 
@@ -691,16 +691,16 @@ prophets clearly expressed that under these carnal sacrifices there was
 a reality which is common both to the Jewish people and the Christian
 Church. For this reason David prayed, “Let my prayer ascend forth before
 thee as incense” (<span id="iv.iv.xix-p47.1"></span>[Ps.
-141:2](../../../bib/kjv/psa141.htm#002)<span
+141:2](../../../bib/kjv/psa141.htm#002.md)<span
 id="iv.iv.xix-p47.1"></span>). And Hosea gives the name of “calves of
 the lips” (<span id="iv.iv.xix-p47.2"></span>[Hos.
-14:3](../../../bib/kjv/hos014.htm#003)<span
+14:3](../../../bib/kjv/hos014.htm#003.md)<span
 id="iv.iv.xix-p47.2"></span>) to thanksgivings, which David elsewhere
 calls “sacrifices of praise;” the apostle, imitating him, speaks of
 offering “the sacrifice of praise,” which he explains to mean, “the
 fruit of our lips, giving thanks to his name” (<span
 id="iv.iv.xix-p47.3"></span>[Heb.
-13:15](../../../bib/kjv/heb013.htm#015)<span
+13:15](../../../bib/kjv/heb013.htm#015.md)<span
 id="iv.iv.xix-p47.3"></span>). This kind of sacrifice is indispensable
 in the Lord’s Supper, in which, while we show forth his death, and give
 him thanks, we offer nothing but the sacrifice of praise. From this
@@ -708,7 +708,7 @@ office of sacrificing, all Christians are called “a royal priesthood,”
 because by Christ we offer that sacrifice of praise of which the apostle
 speaks, the fruit of our lips, giving thanks to his name (l Pet. 2:9;
 <span id="iv.iv.xix-p47.4"></span>[Heb.
-13:15](../../../bib/kjv/heb013.htm#015)<span
+13:15](../../../bib/kjv/heb013.htm#015.md)<span
 id="iv.iv.xix-p47.4"></span>). We do not appear with our gifts in the
 presence of God without an intercessor. Christ is our Mediator, by whose
 intervention we offer ourselves and our all to the Father; he is our
@@ -717,13 +717,13 @@ access for us; he is the altar on which we lay our gifts, that whatever
 we do attempt, we may attempt in him; he it is, I say, who “hath made us
 kings and priests unto God and his Father” (<span
 id="iv.iv.xix-p47.5"></span>[Rev.
-1:6](../../../bib/kjv/rev001.htm#006)<span
+1:6](../../../bib/kjv/rev001.htm#006.md)<span
 id="iv.iv.xix-p47.5"></span>).
 
 <span id="iv.iv.xix-p48"></span>18. What remains but for the blind to
 see, the deaf to hear, children even to perceive this abomination of the
 mass, which, held forth in a golden cup,62  <span
-id="fr_655"></span>[656](#fn_655) has so intoxicated all the kings and
+id="fr_655"></span>[656](#fn_655.md) has so intoxicated all the kings and
 nations of the earth, from the highest to the lowest; so struck them
 with stupor and giddiness, that, duller than the lower animals, they
 have placed the vessel of their salvation in this fatal vortex.
@@ -763,9 +763,9 @@ above with sufficient plainness expounded —viz. that the sacraments have
 been appointed by God to instruct us in his promise, and testify his
 goodwill towards us; and who, moreover, considers, that the Lord has no
 counsellor (<span id="iv.iv.xix-p50.1"></span>[Isa.
-40:13](../../../bib/kjv/isa040.htm#013)<span
+40:13](../../../bib/kjv/isa040.htm#013.md)<span
 id="iv.iv.xix-p50.1"></span>; <span id="iv.iv.xix-p50.2"></span>[Rom.
-11:34](../../../bib/kjv/rom011.htm#034)<span
+11:34](../../../bib/kjv/rom011.htm#034.md)<span
 id="iv.iv.xix-p50.2"></span>); who can give us any certainty as to his
 will, or assure us how he is disposed towards us, what he is disposed to
 give, and what to deny? From this it follows, that no one can set forth
@@ -783,14 +783,14 @@ third at present, but not even desire or expect it even until the end of
 the world. For though to the Jews were given, besides his ordinary
 sacraments, others differing somewhat according to the nature of the
 times (as the manna, the water gushing from the rock, the brazen
-serpent, and the like),62  <span id="fr_656"></span>[657](#fn_656) by
+serpent, and the like),62  <span id="fr_656"></span>[657](#fn_656.md) by
 this variety they were reminded not to stop short at such figures, the
 state of which could not be durable, but to expect from God something
 better, to endure without decay and without end. Our case is very
 different. To us Christ has been revealed. In him are hidden all the
 treasures of wisdom and knowledge (<span
 id="iv.iv.xix-p52.5"></span>[Col.
-2:3](../../../bib/kjv/col002.htm#003)<span
+2:3](../../../bib/kjv/col002.htm#003.md)<span
 id="iv.iv.xix-p52.5"></span>), in such richness and abundance, that to
 ask or hope for any new addition to these treasures is truly to offend
 God and provoke him against us. It behoves us to hunger after Christ
@@ -798,9 +798,9 @@ only, to seek him, look to him, learn of him, and learn again, until the
 arrival of the great day on which the Lord will fully manifest the glory
 of his kingdom, and exhibit himself as he is to our admiring eye (<span
 id="iv.iv.xix-p52.6"></span>[1 John
-3:2](../../../bib/kjv/jo1003.htm#002)<span
+3:2](../../../bib/kjv/jo1003.htm#002.md)<span
 id="iv.iv.xix-p52.6"></span>). And, for this reason, this age of ours is
-designated in Scripture63  <span id="fr_657"></span>[658](#fn_657) by
+designated in Scripture63  <span id="fr_657"></span>[658](#fn_657.md) by
 the last hour, the last days, the last times, that no one may deceive
 himself with the vain expectation of some new doctrine or revelation.
 Our heavenly Father, who “at sundry times, and in divers manners, spake
@@ -824,20 +824,20 @@ have elsewhere justly complained, how little is seen of that which alone
 ought to shine and be conspicuous there, I mean Baptism itself? The
 Supper was altogether buried when it was turned into the Mass. The
 utmost is, that it is seen once a year, but in a garbled, mutilated, and
-lacerated form.63  <span id="fr_658"></span>[659](#fn_658)
+lacerated form.63  <span id="fr_658"></span>[659](#fn_658.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_648"></span>[649](inst098.htm#fr_648) <span
+<span id="fn_648"></span>[649](inst098.htm#fr_648.md) <span
 id="iv.iv.xix-p0.2"></span>
 
 <span id="iv.iv.xix-p1"></span>Vid. Calv. Ep. de Fugiend. Illic. Sacris.
 Item, De Sacerdotiis Eccles. Papal. Item, De Necessitate Reform. Eccles.
 Item, Epist. ad Sadoletum
 
-<span id="fn_649"></span>[650](inst098.htm#fr_649) <span
+<span id="fn_649"></span>[650](inst098.htm#fr_649.md) <span
 id="iv.iv.xix-p25.1"></span>
 
 <span id="iv.iv.xix-p26"></span>22 622 The French adds, “qui ont parlé
@@ -845,30 +845,30 @@ un petit plus passablement que leur successeurs qui sont venus
 depuis;”—who have spoken somewhat more tolerably than their successors
 who have come since.
 
-<span id="fn_650"></span>[651](inst098.htm#fr_650) <span
+<span id="fn_650"></span>[651](inst098.htm#fr_650.md) <span
 id="iv.iv.xix-p27.1"></span>
 
 <span id="iv.iv.xix-p28"></span>23 623 <span
 id="iv.iv.xix-p28.1"></span>[Heb.
-5:5-10](../../../bib/kjv/heb005.htm#005)<span
+5:5-10](../../../bib/kjv/heb005.htm#005.md)<span
 id="iv.iv.xix-p28.1"></span>; 7:17; 21; 9:11; 10:21; <span
 id="iv.iv.xix-p28.2"></span>[Ps.
-110:4](../../../bib/kjv/psa110.htm#004)<span
+110:4](../../../bib/kjv/psa110.htm#004.md)<span
 id="iv.iv.xix-p28.2"></span>; <span id="iv.iv.xix-p28.3"></span>[Gen.
-14:18](../../../bib/kjv/gen014.htm#018)<span
+14:18](../../../bib/kjv/gen014.htm#018.md)<span
 id="iv.iv.xix-p28.3"></span>.
 
-<span id="fn_651"></span>[652](inst098.htm#fr_651) <span
+<span id="fn_651"></span>[652](inst098.htm#fr_651.md) <span
 id="iv.iv.xix-p29.1"></span>
 
 <span id="iv.iv.xix-p30"></span>24 624 <span
 id="iv.iv.xix-p30.1"></span>[Heb.
-9:11](../../../bib/kjv/heb009.htm#011),
-[12](../../../bib/kjv/heb009.htm#012),
-[26](../../../bib/kjv/heb009.htm#026)<span id="iv.iv.xix-p30.1"></span>;
+9:11](../../../bib/kjv/heb009.htm#011.md),
+[12](../../../bib/kjv/heb009.htm#012.md),
+[26](../../../bib/kjv/heb009.htm#026.md)<span id="iv.iv.xix-p30.1"></span>;
 10:10, 14, 16.
 
-<span id="fn_652"></span>[653](inst098.htm#fr_652) <span
+<span id="fn_652"></span>[653](inst098.htm#fr_652.md) <span
 id="iv.iv.xix-p36.1"></span>
 
 <span id="iv.iv.xix-p37"></span>25 625 The French of this sentence is,
@@ -884,59 +884,59 @@ is quite contrary to ancient practice, and that is an abuse which
 immediately preceded the time when everything was depraved and corrupted
 in the Church.
 
-<span id="fn_653"></span>[654](inst098.htm#fr_653) <span
+<span id="fn_653"></span>[654](inst098.htm#fr_653.md) <span
 id="iv.iv.xix-p38.2"></span>
 
 <span id="iv.iv.xix-p39"></span>26 626 This last sentence forms, in the
 French, the first of sec. 11.
 
-<span id="fn_654"></span>[655](inst098.htm#fr_654) <span
+<span id="fn_654"></span>[655](inst098.htm#fr_654.md) <span
 id="iv.iv.xix-p41.1"></span>
 
 <span id="iv.iv.xix-p42"></span>27 627 French, “n’ancun authorite
 humaine, ne longeur de temps, ne toutes autres apparences;”—no human
 authority, no length of time, nor any other appearances.
 
-<span id="fn_655"></span>[656](inst098.htm#fr_655) <span
+<span id="fn_655"></span>[656](inst098.htm#fr_655.md) <span
 id="iv.iv.xix-p48.1"></span>
 
 <span id="iv.iv.xix-p49"></span>28 628 The French explains, “c’est à
 dire, sous le nom de la parole de Dieu;”—that is to say, under the name
 of the word of God.
 
-<span id="fn_656"></span>[657](inst098.htm#fr_656) <span
+<span id="fn_656"></span>[657](inst098.htm#fr_656.md) <span
 id="iv.iv.xix-p51.1"></span>
 
 <span id="iv.iv.xix-p52"></span>29 629 <span
 id="iv.iv.xix-p52.1"></span>[Exod.
-16:13-15](../../../bib/kjv/exo016.htm#013)<span
+16:13-15](../../../bib/kjv/exo016.htm#013.md)<span
 id="iv.iv.xix-p52.1"></span>; 17:6; <span
 id="iv.iv.xix-p52.2"></span>[Num.
-20:8](../../../bib/kjv/num020.htm#008)<span
+20:8](../../../bib/kjv/num020.htm#008.md)<span
 id="iv.iv.xix-p52.2"></span>., 21:9; <span
 id="iv.iv.xix-p52.3"></span>[1 Cor.
-10:4](../../../bib/kjv/co1010.htm#004)<span
+10:4](../../../bib/kjv/co1010.htm#004.md)<span
 id="iv.iv.xix-p52.3"></span>; <span id="iv.iv.xix-p52.4"></span>[John
-3:14](../../../bib/kjv/joh003.htm#014)<span
+3:14](../../../bib/kjv/joh003.htm#014.md)<span
 id="iv.iv.xix-p52.4"></span>.
 
-<span id="fn_657"></span>[658](inst098.htm#fr_657) <span
+<span id="fn_657"></span>[658](inst098.htm#fr_657.md) <span
 id="iv.iv.xix-p52.7"></span>
 
 <span id="iv.iv.xix-p53"></span>30 630 <span
 id="iv.iv.xix-p53.1"></span>[1 John
-2:18](../../../bib/kjv/jo1002.htm#018)<span
+2:18](../../../bib/kjv/jo1002.htm#018.md)<span
 id="iv.iv.xix-p53.1"></span>; <span id="iv.iv.xix-p53.2"></span>[1 Pet.
-1:20](../../../bib/kjv/pe1001.htm#020)<span
+1:20](../../../bib/kjv/pe1001.htm#020.md)<span
 id="iv.iv.xix-p53.2"></span>; <span id="iv.iv.xix-p53.3"></span>[Luke
-10:22](../../../bib/kjv/luk010.htm#022)<span
+10:22](../../../bib/kjv/luk010.htm#022.md)<span
 id="iv.iv.xix-p53.3"></span>, <span id="iv.iv.xix-p53.4"></span>[Heb.
-1:1](../../../bib/kjv/heb001.htm#001)<span id="iv.iv.xix-p53.4"></span>;
+1:1](../../../bib/kjv/heb001.htm#001.md)<span id="iv.iv.xix-p53.4"></span>;
 <span id="iv.iv.xix-p53.5"></span>[1 Cor.
-13:12](../../../bib/kjv/co1013.htm#012)<span
+13:12](../../../bib/kjv/co1013.htm#012.md)<span
 id="iv.iv.xix-p53.5"></span>.
 
-<span id="fn_658"></span>[659](inst098.htm#fr_658) <span
+<span id="fn_658"></span>[659](inst098.htm#fr_658.md) <span
 id="iv.iv.xix-p53.6"></span>
 
 <span id="iv.iv.xix-p54"></span>31 631 French, “deschiree, decouppee,
@@ -945,4 +945,4 @@ departie, brisee, divisee, et toute difformee.”
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 19. - OF THE FIVE SACRAMENTS, FALSELY SO CALLED. THEIR
-SPURIOUSNESS PROVED, AND THEIR TRUE CHARACTER EXPLAINED.](inst099)
+SPURIOUSNESS PROVED, AND THEIR TRUE CHARACTER EXPLAINED.](inst099.md)

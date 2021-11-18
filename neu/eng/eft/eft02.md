@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft01)  [Next](eft03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft01)  [Next](eft03.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ Well, she thought, she'd be sure to guess that's name before the month
 was up. 'All right,' says she, 'I agree.'
 
 <span id="img_001"></span> [![](tn/001.jpg)  
-Click to enlarge](img/001.jpg)
+Click to enlarge](img/001.jpg.md)
 
 'All right,' that says, and law! how that twirled that's tail.
 
@@ -243,7 +243,7 @@ Well, she backed a step or two, and she looked at it, and then she
 laughed out, and says she, pointing her finger at it:
 
 <span id="img_002"></span> [![](tn/002.jpg)  
-Click to enlarge](img/002.jpg)
+Click to enlarge](img/002.jpg.md)
 
 'Nimmy nimmy not  
 Your name's Tom Tit Tot.'
@@ -253,4 +253,4 @@ into the dark, and she never saw it any more.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Sillies](eft03)
+[Next: The Three Sillies](eft03.md)

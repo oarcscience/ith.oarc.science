@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph24)  [Next](aph26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph24)  [Next](aph26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -261,7 +261,7 @@ recognized, now. Their robes could be distinguished, their girdles,
 their hair. Rays of light struck the golden jewels. They were quite
 near. They opened their mouths . . . The silence was absolute.
 
-"The [necklace](errata.htm#3) of the goddess has been stolen, the true
+"The [necklace](errata.htm#3.md) of the goddess has been stolen, the true
 pearls of the Anadyomene!"
 
 A clamor of despair greeted the fatal words. The crowd recoiled at first
@@ -273,4 +273,4 @@ toward the undone Holy Immortal.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four. The Response](aph26)
+[Next: Chapter Four. The Response](aph26.md)

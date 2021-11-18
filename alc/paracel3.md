@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](paracel1)  [Next](tschoudy) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](paracel1)  [Next](tschoudy.md) 
 
 ------------------------------------------------------------------------
 
@@ -1315,6 +1315,6 @@ also himself is. – *Paragranum* *Alterum*, Tract II.
 
 ------------------------------------------------------------------------
 
-[Next: Alchemical Catechism](tschoudy)
+[Next: Alchemical Catechism](tschoudy.md)
 
   

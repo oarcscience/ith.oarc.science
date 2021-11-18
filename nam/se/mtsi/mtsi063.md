@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi062)  [Next](mtsi064) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi062)  [Next](mtsi064.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ bones and a pile of hair. The Buzzard had eaten the Rabbit.
 ------------------------------------------------------------------------
 
 [Next: 62. How Rabbit Won His Wife's Sister For His Second
-Wife](mtsi064)
+Wife](mtsi064.md)

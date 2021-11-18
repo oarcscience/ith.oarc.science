@@ -1,4 +1,4 @@
-[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-0-0) [Next](gjb-0-2)
+[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-0-0) [Next](gjb-0-2.md)
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](gjb-0-2)
+[Next: Foreword](gjb-0-2.md)

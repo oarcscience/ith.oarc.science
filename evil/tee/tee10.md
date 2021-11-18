@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](tee09)  [Next](tee11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](tee09)  [Next](tee11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Evil Eye*, by Frederick Thomas Elworthy, \[1895\], at Intangible
 Textual Heritage
 
@@ -39,7 +39,7 @@ the term fiendish. The old conceptions of Gnostic days would
 <span id="page_230">p. 230</span>
 
 supply, from their *grylli* and other strange devices, <span
-id="fr_395"></span>[374a](#fn_395) a link from the earlier days of
+id="fr_395"></span>[374a](#fn_395.md) a link from the earlier days of
 Babylonian and Græco-Egyptian times, when their gods were represented
 with human bodies, but with heads of birds and beasts, more or less
 representing the special qualities attributed to those deities. We have
@@ -100,7 +100,7 @@ the treatment of artistic and cultivated taste; but there can be little
 question as to their original intention. No better example of what we
 are maintaining can be found than that of the famous Florentine
 *diavolo*, of which a rough sketch by the writer is annexed ([Fig.
-92](#img_23200)).
+92](#img_23200).md).
 
 In the first place, it was designed by one of the greatest sculptors of
 the Italian Renaissance, John of Bologna, or as he is called
@@ -133,7 +133,7 @@ FIG. 92<br />
 
 are still fixed in Naples. Tradition says that from this spot Peter
 Martyr preached, and that he exorcised the devil, who galloped past in
-the shape of a black horse. <span id="fr_396"></span>[375](#fn_396)
+the shape of a black horse. <span id="fr_396"></span>[375](#fn_396.md)
 
 It will be seen by this figure that horns were not considered specially
 the badge of honour or of sanctity, as in the statue of Moses. On the
@@ -147,7 +147,7 @@ see petrified upon the towers and angles of our churches.
 There is a very extraordinary collection of grotesque figures on the
 towers of Notre Dame in Paris. They are "like an actual body of fiendish
 visitors caught and turned into stone as they grinned over the
-city." <span id="fr_397"></span>[376](#fn_397) This idea of "turning
+city." <span id="fr_397"></span>[376](#fn_397.md) This idea of "turning
 into stone" brings back to mind the old fancy lying in the story of
 Perseus and the Gorgon.
 
@@ -155,17 +155,17 @@ Perseus and the Gorgon.
 
 ### Footnotes
 
-<span id="fn_395"></span>[230:374a](tee10.htm#fr_395) For these see
+<span id="fn_395"></span>[230:374a](tee10.htm#fr_395.md) For these see
 *Abraxas seu Apistopistus* Johannis Macarii, Antwerpiæ, MDCLVII. Also
 King, *Gnostics*, and *Handbook of Gems*.
 
-<span id="fn_396"></span>[232:375](tee10.htm#fr_396) Horner, *Walks in
+<span id="fn_396"></span>[232:375](tee10.htm#fr_396.md) Horner, *Walks in
 Florence*, 1873, vol. i. p. 156.
 
-<span id="fn_397"></span>[232:376](tee10.htm#fr_397) Pennell, *The
+<span id="fn_397"></span>[232:376](tee10.htm#fr_397.md) Pennell, *The
 Devils of Notre Dame*, 1894. Many of our readers will recall the
 grotesque *bracciali* upon the palaces at Sienna.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Touch, Hands, Gestures](tee11)
+[Next: Chapter VII. Touch, Hands, Gestures](tee11.md)

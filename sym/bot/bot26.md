@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot25) 
-[Next](bot27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot25.md) 
+[Next](bot27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -57,7 +57,7 @@ The Pitcher or Vase, as the symbol of the House, was universally used by
 ancient nations, the Chinese describing it as the Vase full, the
 Chaldeans as the Watering-pot, the Arabians as the Pitcher or Urn, and
 the Greeks and Romans as the Water-pourer; it is illustrated in No. 11
-of the [Frontispiece](bot00.htm#img_front).
+of the [Frontispiece](bot00.htm#img_front.md).
 
 In many old star maps the figure of a man is shown carrying the Pitcher;
 but at the present time, at any rate, the figure cannot be traced in the
@@ -265,6 +265,6 @@ birthdays fall in the Taurus or Scorpio periods.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Pisces—The Fishes](bot27)
+[Next: Chapter XII. Pisces—The Fishes](bot27.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap13) [Next](chap15)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap13) [Next](chap15.md)
 
 ------------------------------------------------------------------------
 
@@ -348,4 +348,4 @@ people or otherwise won the gratitude of the Church authorities.
 
 ------------------------------------------------------------------------
 
-[Next: XV The Struggle for Liberty](chap15)
+[Next: XV The Struggle for Liberty](chap15.md)

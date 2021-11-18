@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](ktm08)  [Next](ktm10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](ktm08)  [Next](ktm10.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ And hug the form of Death,
 
 ------------------------------------------------------------------------
 
-[Next: Works by the Swâmi Vivekânanda](ktm10)
+[Next: Works by the Swâmi Vivekânanda](ktm10.md)

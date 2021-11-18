@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj23)  [Next](chj25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj23)  [Next](chj25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 ### CHAPTER XXII
 
 <span class="smallcaps">The Buddhism of the Gempei Period</span> <span
-id="fr_362"></span>[1](#fn_360)
+id="fr_362"></span>[1](#fn_360.md)
 
 <span class="smallcaps">It</span> is very difficult to describe in a
 short paragraph, or even in one long chapter, the complicated period of
@@ -37,7 +37,7 @@ under one title or another, monopolized all the great offices of State,
 and kept the emperors, always their creatures, and very often connected
 with them by ties of marriage and affinity, in a state of absolute
 subjection. Occasional attempts were made to destroy the Fujiwara
-monopoly. Sugawara Michizane, <span id="fr_363"></span>[2](#fn_361)
+monopoly. Sugawara Michizane, <span id="fr_363"></span>[2](#fn_361.md)
 
 <span id="page_260">p. 260</span>
 
@@ -72,7 +72,7 @@ which are held so vividly to portray the character of the sentimental
 yet strangely matter-of-fact Japanese people;—all owe their development
 mainly to the artistic instincts of this gifted and powerful family, and
 for these things, at least, Japan owes them a lasting debt of
-gratitude. <span id="fr_364"></span>[1](#fn_362)
+gratitude. <span id="fr_364"></span>[1](#fn_362.md)
 
 It is to be noted here that the arts and letters of early medieval Japan
 are all Buddhist, or, at least, are so thoroughly impregnated and
@@ -83,7 +83,7 @@ from Nara to Kyōto to be free from the intervention of the meddling
 priesthood in matters of State, and Dengyō had founded his monastery
 upon Hieizan in the hopes of finding a quiet spot where he might be free
 from "earth's many voices." The event was quite the opposite of what
-either of these men expected. <span id="fr_365"></span>[2](#fn_363) The
+either of these men expected. <span id="fr_365"></span>[2](#fn_363.md) The
 Tendai reforms turned Japanese Buddhism into a wide-spreading
 organization with far-reaching ramifications. The Fujiwaras knew how to
 use that organization for their own ends, and the Buddhist
@@ -97,7 +97,7 @@ luxuriously trained court found its pleasures and forgot its feebleness,
 and when the captain of the ship, as sometimes happened, began to know
 too much, and to stir about on his soft cushions, some monastery would
 furnish a convenient desert island upon which the restless skipper might
-be marooned. <span id="fr_366"></span>[1](#fn_364)
+be marooned. <span id="fr_366"></span>[1](#fn_364.md)
 
 Sometimes a skipper, more long-headed than the rest, did not wait to be
 marooned, but shut himself up voluntarily in his own cabin, as it were,
@@ -105,7 +105,7 @@ and continued to direct the ship of State, from the safe shelter of some
 monastery, through the person of some infant son or grandson, whom he
 put on the throne instead of himself, and for whom he acted as guardian
 or regent. Such was the course adopted, *e.g.*, by the Emperors
-Shirakawa and Toba, <span id="fr_367"></span>[2](#fn_365) and it seemed
+Shirakawa and Toba, <span id="fr_367"></span>[2](#fn_365.md) and it seemed
 quite natural in a country like Japan, where the "power behind the
 throne" has always been so potent a reality. An ex-Emperor, living in a
 monastery, and from thence directing the affairs of State in the name of
@@ -151,7 +151,7 @@ rival factions of Taira and
 <span class="contnote">\[paragraph continues\]</span> Minamoto, and even
 after Yoritomo's formal and successful organization of their scattered
 members, continued to be, as *samurai*, down to our own times, the true
-backbone of the Japanese nation. <span id="fr_368"></span>[1](#fn_366)
+backbone of the Japanese nation. <span id="fr_368"></span>[1](#fn_366.md)
 
 Independent, freedom-loving, fairly educated, addicted to martial
 exercises and the outdoor sports which have been the pastime of the
@@ -195,14 +195,14 @@ course of this present work.
 Amitābha, "the Buddha of Infinite Light," or Amitayus, "the Buddha of
 Infinite Life" (the two are identical in Japan, though, I believe,
 treated as distinct personages in Thibet), is preached in certain
-Sūtras <span id="fr_369"></span>[1](#fn_367) of
+Sūtras <span id="fr_369"></span>[1](#fn_367.md) of
 
 <span id="page_266">p. 266</span>
 
 the Mahāyāna, to which I have already had occasion to refer, as the
 Supreme Being of a certain section of Buddhists. Amida is without
 beginning and without end, all love, wisdom, benevolence, and power. He
-is the Father <span id="fr_370"></span>[1](#fn_368) of all the world and
+is the Father <span id="fr_370"></span>[1](#fn_368.md) of all the world and
 of all sentient beings. In
 
 <span id="page_267">p. 267</span>
@@ -216,9 +216,9 @@ deliverance should also mean the salvation of suffering mankind. In
 fulfilment of that vow he endured much suffering and many agonies, but
 he triumphed in the end, and the fruit of his labours has been the
 opening of a Paradise in a Pure Land, into which all may enter who call
-upon his name with Faith. <span id="fr_371"></span>[1](#fn_369) Other
+upon his name with Faith. <span id="fr_371"></span>[1](#fn_369.md) Other
 Buddhas also have spoken of Paradise; <span
-id="fr_372"></span>[2](#fn_370) Amida alone can speak of it as *my*
+id="fr_372"></span>[2](#fn_370.md) Amida alone can speak of it as *my*
 Paradise.
 
 Amida is *Ichi-butsu*, the One Buddha, and besides Him there is none,
@@ -229,7 +229,7 @@ saved—saved from the miseries of existence, from all those universals of
 misery which S’akyamuni disclosed to a suffering world, and placed in
 that Paradise where there is nothing to hinder or to hurt the soul ou
 its upward path to that Perfection which comes from the Beatific Vision
-of Amida Himself. <span id="fr_373"></span>[3](#fn_371)
+of Amida Himself. <span id="fr_373"></span>[3](#fn_371.md)
 
 <span id="page_268">p. 268</span>
 
@@ -241,7 +241,7 @@ left His Mercy; the latter is occupied by His Son Avalokites’vara, or
 Kwannon, "the Lord that looked down," incarnate again and again for man
 and his salvation; the former, personified as Mahāsthāmaprāpta, or
 Seishi, whose gift to man is, significantly, not salvation, but
-life. <span id="fr_374"></span>[1](#fn_372)
+life. <span id="fr_374"></span>[1](#fn_372.md)
 
 To grasp this salvation, wrought out for man by Amida, and brought to
 him by Kwannon and Seishi, nothing is needed but Faith—no works of the
@@ -264,13 +264,13 @@ Shinran Shōnin (A.D. 1174 to 1268), the founder of the
 
 <span class="contnote">\[paragraph continues\]</span> Shinshu sect, who
 claimed for his teachings the authority of a Vision of Avalokites’vara
-himself, <span id="fr_375"></span>[1](#fn_373) has left behind him,
+himself, <span id="fr_375"></span>[1](#fn_373.md) has left behind him,
 amongst other works, a poem entitled the "Shōshinge," which is even now
 in common use in the family devotions of pious Shinshu households. A
 writer to whom I am very much indebted for the insight which he has
 given me into the thoughts and aspirations of the band of Buddhist
 reformers who owe their inspiration to the life and teachings of the
-late Mr. Kyōzawa, <span id="fr_376"></span>[2](#fn_374) has written a
+late Mr. Kyōzawa, <span id="fr_376"></span>[2](#fn_374.md) has written a
 commentary on the poem, which, while being up to date, as coming from a
 modern scholar, yet represents the very thoughts of Shinran, the last
 great patriarch of mediæval Amidaism in Japan.
@@ -303,7 +303,7 @@ two chapters devoted to it, one biographical and one doctrinal, and the
 author has cleverly constructed his doctrinal chapters in such a way as
 to show that there has been a regular and consistent development all the
 way from Nāgārjuna to Shinran, who brought the system to its
-perfection. <span id="fr_377"></span>[1](#fn_375)
+perfection. <span id="fr_377"></span>[1](#fn_375.md)
 
 Thus in Nāgārjuna the doctrine is vague: no mention is made of the
 Sūtras which tell of Amida, but Nāgārjuna dies with his face set to the
@@ -333,20 +333,20 @@ became one of the most successful of the Apostles of Amida in China.
 In Japan, the Shinshuist notes with pride that the first image sent over
 by the King of Kudara in the sixth century was one of Amida, with his
 satellites, Kwannon and Seishi. The first Japanese patriarch on
-Shinran's list, Genshin, <span id="fr_378"></span>[1](#fn_376) was
+Shinran's list, Genshin, <span id="fr_378"></span>[1](#fn_376.md) was
 attracted, as had been one of his Chinese predecessors, by the
 simplicity of the doctrine and its adaptability to the needs of simple
 persons. Ere Genshin died the troubles of Japan had begun, and in the
 midst of those troubles the sound of Nembutsu from many a troubled heart
 was a cry of pathetic and half-despairing faith. Such was the cry of the
 Odorinembutsu, to whom we have already alluded, and that of Ryonen
-Shōnin, <span id="fr_379"></span>[2](#fn_377) to whom Amida appeared in
+Shōnin, <span id="fr_379"></span>[2](#fn_377.md) to whom Amida appeared in
 a vision
 
 <span id="page_272">p. 272</span>
 
 and bade him leave the Hieizan monastery, as being a den of thieves.
-Ryonen and the Odori-nembutsu <span id="fr_380"></span>[1](#fn_378) both
+Ryonen and the Odori-nembutsu <span id="fr_380"></span>[1](#fn_378.md) both
 became founders of small sects, which, however, never succeeded in
 winning a very large amount of popularity. It is the merit of Genkū,
 better known as Hōnen Shōnin, to have successfully established a
@@ -363,9 +363,9 @@ vendetta, for wrath begets wrath, and only forgiveness can heal it." The
 lesson sank into the boy's mind; he became a monk, and might have risen
 to high honour in the wealthy and purse-proud Tendai sect, had he not
 preferred the simplicity of his Amida faith to the noisy worldliness of
-Hieizan. <span id="fr_381"></span>[2](#fn_379) He suffered for his
+Hieizan. <span id="fr_381"></span>[2](#fn_379.md) He suffered for his
 convictions, yet succeeded in establishing a sect known as the
-Jōdo, <span id="fr_382"></span>[3](#fn_380)
+Jōdo, <span id="fr_382"></span>[3](#fn_380.md)
 
 <span id="page_273">p. 273</span>
 
@@ -375,7 +375,7 @@ taught was *ars moriendi* rather than *ars vivendi*. "At the hour of
 death, … good Lord deliver us" is practically the cry of the Jōdo
 believer, and if at that solemn hour his faith in Amida is pure and
 clear, and the Nembutsu rises to his lips, he believes that Amida will
-come to save him, <span id="fr_383"></span>[1](#fn_381) no matter what
+come to save him, <span id="fr_383"></span>[1](#fn_381.md) no matter what
 may have been the character of his previous life. In the meanwhile, the
 Jōdoist, if he is sincere and earnest, does not neglect the spiritual
 duties of his religion. They cannot save him (no more can any good
@@ -390,7 +390,7 @@ the rule of salvation. Like his master, Genkū, he made Faith in Amida's
 Vow the absolute and only essential to salvation, but the Faith
 requisite is not of the death-bed variety. It must be the Faith of a
 lifetime, and where that Faith exists nothing more is necessary. <span
-id="fr_384"></span>[2](#fn_382) Penances, austerities, abstinence from
+id="fr_384"></span>[2](#fn_382.md) Penances, austerities, abstinence from
 flesh
 
 <span id="page_274">p. 274</span>
@@ -404,20 +404,20 @@ constantly faithful. I have often been told that Shinran was acquainted
 with Christian doctrines when he framed the system of Jōdo Shinshū. From
 what I have been able to put before my readers in the course of this
 history, I think we may say that the probabilities are that he
-was. <span id="fr_385"></span>[1](#fn_383)
+was. <span id="fr_385"></span>[1](#fn_383.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_360"></span>[259:1](chj24.htm#fr_362) *Gempei* is the name
+<span id="fn_360"></span>[259:1](chj24.htm#fr_362.md) *Gempei* is the name
 given to the period of the great Civil Wars between the families of
 Minamoto (in Sinico-Japanese *Gen*) and Taira (*Hei*). In this chapter I
 mean the term to include, roughly, the period between the outbreak of
 the so-called Hōgen war (1156) and the establishment of the Hōjō Regents
 at Kamakura about 1200. But the term must be treated as very elastic.
 
-<span id="fn_361"></span>[259:2](chj24.htm#fr_363) *Sugawara Michizane*
+<span id="fn_361"></span>[259:2](chj24.htm#fr_363.md) *Sugawara Michizane*
 (845–903), the son of an obscure but talented family, exercised a very
 great influence over the Emperor Uda (889–897), and laboured with great
 diligence to break the power of the <span id="page_260">p. 260</span>
@@ -437,35 +437,35 @@ straight from his writing-table, took a bow, and hit a difficult mark to
 show that, book-worm though he was accused of being, he was still able
 to do manly service for his master.
 
-<span id="fn_362"></span>[261:1](chj24.htm#fr_364) Articles in the
+<span id="fn_362"></span>[261:1](chj24.htm#fr_364.md) Articles in the
 *Hansei Zasshi*, vol. xii., on the luxury of the Fujiwara period.
 
-<span id="fn_363"></span>[261:2](chj24.htm#fr_365) Nichiren, however,
+<span id="fn_363"></span>[261:2](chj24.htm#fr_365.md) Nichiren, however,
 represented the almost simultaneous foundations of Kyōto and Hieizan as
 having been the result of a conspiracy between Dengyō and the Emperor
 for bringing the Buddhist Church into political dependence upon the
 Crown.
 
-<span id="fn_364"></span>[262:1](chj24.htm#fr_366) The list of Japanese
+<span id="fn_364"></span>[262:1](chj24.htm#fr_366.md) The list of Japanese
 emperors during this period shows a majority of names of sovereigns who
 came to the throne as infants in succession to deposed predecessors, and
 who were forced in their turn to abdicate as soon as they reached
 manhood or wanted to exert their powers.
 
-<span id="fn_365"></span>[262:2](chj24.htm#fr_367) Shirakawa reigned
+<span id="fn_365"></span>[262:2](chj24.htm#fr_367.md) Shirakawa reigned
 A.D. 1078 to 1086; Toba, 1108 to 1123. Shirakawa did not, however, die
 until 1129, and Toba lived until 1156. There was a time when three
 ex-Emperors were all alive at the same time, eating out their hearts in
 early retirement, whilst one of their number helped to pull the wires
 for their baby kinsman on the throne.
 
-<span id="fn_366"></span>[264:1](chj24.htm#fr_368) Minamoto Yoritomo,
+<span id="fn_366"></span>[264:1](chj24.htm#fr_368.md) Minamoto Yoritomo,
 the first of the Minamoto Shōguns (11471199), organized the Kamakura
 Bakufu, round which he gathered the military elements of the country,
 away from the influence of the Court and priesthood. He is often spoken
 of as *Kamakura dono*. See next chapter.
 
-<span id="fn_367"></span>[265:1](chj24.htm#fr_369) These Sūtras are
+<span id="fn_367"></span>[265:1](chj24.htm#fr_369.md) These Sūtras are
 known in Sanskrit as the greater and Lesser *Sukhūvati Vyūha*, and the
 *Amitāyur-dhyāni Sūtra*, the two former extant both in Sanskrit and
 Chinese, the last in Chinese only. All three claim to be Sūtras spoken
@@ -514,7 +514,7 @@ quota to the Perfect Temple of the Future, and that no Spiritual
 Building can be expected to be final which does not make adequate
 allowance for the glory and honour of all nations to be brought in.
 
-<span id="fn_368"></span>[266:1](chj24.htm#fr_370) Mr. Tada Kanae, in
+<span id="fn_368"></span>[266:1](chj24.htm#fr_370.md) Mr. Tada Kanae, in
 his excellent volume of "Lectures on the *Shōshinge*" (pp. 54, 56), says
 that Amida may also be called the Creator, inasmuch as he established
 the Law of Cause and Effect through which the Universe came into
@@ -531,51 +531,51 @@ Rufinus, there was a similar omission of <span id="page_267">p.
 267</span> an expression of belief in a Creator in the Creed of the
 Church of Aquileia ("Lib. post-Nicene Fathers," vol. iii. p. 541).
 
-<span id="fn_369"></span>[267:1](chj24.htm#fr_371) See "S.B.E.," vol.
+<span id="fn_369"></span>[267:1](chj24.htm#fr_371.md) See "S.B.E.," vol.
 xlix., and my "Praises of Amida," Introd., pp. 1, 2.
 
-<span id="fn_370"></span>[267:2](chj24.htm#fr_372) *E.g.* Yakushi
+<span id="fn_370"></span>[267:2](chj24.htm#fr_372.md) *E.g.* Yakushi
 (Bhaishajyarāja).
 
-<span id="fn_371"></span>[267:3](chj24.htm#fr_373) According to the Pure
+<span id="fn_371"></span>[267:3](chj24.htm#fr_373.md) According to the Pure
 Land books, there is a nine-graded Vision of Amida vouchsafed to the
 soul in Paradise, and the Vision itself, as it grows in intensity, has a
 purifying effect on the soul. I may point out that the eighty-one
 previous Buddhas in the Sukhāvati Vyūha are but an amplification of this
 ninefold Amida, which again is an amplification of a Trinity.
 
-<span id="fn_372"></span>[268:1](chj24.htm#fr_374) I learned this in
+<span id="fn_372"></span>[268:1](chj24.htm#fr_374.md) I learned this in
 conversation with a Buddhist priest. I can but repeat here what I have
 said elsewhere, that the Ophite Gnostics who appeared in the same
 localities and at the same time as the original Amida Buddhists, held
 identical language about Christ.
 
-<span id="fn_373"></span>[269:1](chj24.htm#fr_375) It is said that two
+<span id="fn_373"></span>[269:1](chj24.htm#fr_375.md) It is said that two
 points in the Buddhist discipline caused Shinran a great deal of anxious
 reflection—celibacy, and the abstinence from flesh. He claimed that
 Avalokites’vara had appeared to him in a vision, and had taught him that
 these points were not of the Essence of religion. Shinshu believers all
 eat meat, and the Shinshu clergy are free to marry.
 
-<span id="fn_374"></span>[269:2](chj24.htm#fr_376) Kyōzawa, a Shinshu
+<span id="fn_374"></span>[269:2](chj24.htm#fr_376.md) Kyōzawa, a Shinshu
 priest, who died but a few years ago, may be said to have given
 Shinshuism a new impetus, in a direction almost Christian. His memory is
 still venerated by a group of very earnest Shinshu priests. I give a
 translation of the *Shōshinge* in my "Shinran and His Work."
 
-<span id="fn_375"></span>[270:1](chj24.htm#fr_377) Mr. Tada gives the
+<span id="fn_375"></span>[270:1](chj24.htm#fr_377.md) Mr. Tada gives the
 dates of the seven as follows; (1) Nāgārjuna, about A.D. 150; (2)
 Vasubandhu, *circ*. A.D. 440; (3) Donran, *circ*. A.D. 356; (4) Dōshaku,
 A.D. 553; (5) Zendō, A.D. 614; (6) Genshin, A.D. 943; and finally Genkū
 (Hōnen), A.D. 1130–1213.
 
-<span id="fn_376"></span>[271:1](chj24.htm#fr_378) *Genshin* (942–1017),
+<span id="fn_376"></span>[271:1](chj24.htm#fr_378) *Genshin* (942–1017.md),
 born in Yamato, of the Urabe family, became a member of the Hieizan
 community, being a disciple of Ryōgen, from whom he learned something
 about Amitābha, which he afterwards made into the principle of his life
 and teaching.
 
-<span id="fn_377"></span>[271:2](chj24.htm#fr_379) *Ryonen Shōnin*
+<span id="fn_377"></span>[271:2](chj24.htm#fr_379.md) *Ryonen Shōnin*
 (1072–1132), founder of the so-called *Yūdzūnembutsu* sect, which is
 still in existence. He was a monk of Hieizan; was warned by a stranger,
 whom he took to be Amida, to flee from the "den of thieves" in which he
@@ -584,7 +584,7 @@ was living, and to turn the Nembutsu into an intercessory prayer.
 ichigyō*, "One man for all men, all men summarized in *One;* one
 devotion for all, all devotions summed up in one."
 
-<span id="fn_378"></span>[272:1](chj24.htm#fr_380) *Kūya*, the
+<span id="fn_378"></span>[272:1](chj24.htm#fr_380.md) *Kūya*, the
 Odori-nembutsu, is looked upon as the founder of the small sect of Ji,
 which is, however, more generally identified with the name of Ippen-Oshō
 (1239–1289). Ippen, like Kūya, was an itinerant preacher, and to this
@@ -592,17 +592,17 @@ day the head of the Ji sect, which has its chief temple at Fujisawa on
 the Tokaido, is supposed to spend all his time in itineracy. *Cf*. the
 Nestorian institution of the *periodeutes*, or itinerant preacher.
 
-<span id="fn_379"></span>[272:2](chj24.htm#fr_381) For a sympathetic
+<span id="fn_379"></span>[272:2](chj24.htm#fr_381.md) For a sympathetic
 account of the "Buddhist St. Francis," as Hōnen has been called, see
 Prof. Anezaki's paper in the *Transactions of the International Congress
 of the History of Religions* (Oxford: 1908). When Hōnen was first sent
 to Hieizan, his parish priest wrote of him to the Abbot of the
 monastery, "I am sending you a miniature of Manjuśri."
 
-<span id="fn_380"></span>[272:3](chj24.htm#fr_382) His chosen place of
+<span id="fn_380"></span>[272:3](chj24.htm#fr_382.md) His chosen place of
 retirement was Kurodani, near Kyoto.
 
-<span id="fn_381"></span>[273:1](chj24.htm#fr_383) In Jōdo circles, when
+<span id="fn_381"></span>[273:1](chj24.htm#fr_383.md) In Jōdo circles, when
 a believer lies dying, a picture of Amida is hung up on the wall in some
 conspicuous place where the patient can easily see it. From the picture
 a cord is taken to the bed and fastened to the dying man's wrist, so
@@ -610,7 +610,7 @@ that when the supreme agony comes he may take fast hold of Amida and not
 let go till he stands in safety on the other side. The practice is quite
 analogous to that of holding the crucifix before the eyes of the dying.
 
-<span id="fn_382"></span>[273:2](chj24.htm#fr_384) There is a well-known
+<span id="fn_382"></span>[273:2](chj24.htm#fr_384.md) There is a well-known
 scene in the life of Shinran. Whilst still one of Hōnen's disciples,
 there was a dispute as to Salvation. Shinran maintained that Faith was
 necessary as well as the Invocation of the Name; the others maintained
@@ -618,7 +618,7 @@ that Invocation alone sufficed. All sided against Shinran except one
 layman. During the discussion Hōnen entered the room, and at once
 declared himself on the side of Shinran.
 
-<span id="fn_383"></span>[274:1](chj24.htm#fr_385) We have seen how
+<span id="fn_383"></span>[274:1](chj24.htm#fr_385.md) We have seen how
 close was the contact between Amidaism and Christianity in the China of
 the Tang period, when Zendō and Olopen worked side by side in Singanfu,
 and again later, when Prajṇā and the Deacon Adam were collaborators in
@@ -648,4 +648,4 @@ marriage, his hereditary episcopates, savours strongly of Nestorianism.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII. The Buddhism of Kamakura](chj25)
+[Next: Chapter XXIII. The Buddhism of Kamakura](chj25.md)

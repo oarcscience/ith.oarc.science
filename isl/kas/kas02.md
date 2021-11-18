@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](kas01)  [Next](kas03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](kas01)  [Next](kas03.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ VIENNA., Nov. 1880.
 
 ------------------------------------------------------------------------
 
-[Next: I](kas03)
+[Next: I](kas03.md)

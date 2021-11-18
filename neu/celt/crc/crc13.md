@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc12)  [Next](crc14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc12)  [Next](crc14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -63,7 +63,7 @@ Lugaid comes to Cuchulainn that night.
 will not withstand him.'
 
 'That does not matter,' said Cuchulainn…. <span
-id="fr_61"></span>[1](#fn_60)
+id="fr_61"></span>[1](#fn_60.md)
 
 Nadcrantail goes next morning from the camp, and he takes nine spits of
 holly, sharpened and burned. Now Cuchulainn was there catching birds,
@@ -189,12 +189,12 @@ Then Cuchulainn said this:
 
 ### Footnotes
 
-<span id="fn_60"></span>[56:1](crc13.htm#fr_61) Corrupt.
+<span id="fn_60"></span>[56:1](crc13.htm#fr_61.md) Corrupt.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Finding of the Bull](crc14)
+[Next: The Finding of the Bull](crc14.md)
 
 </div>

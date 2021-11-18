@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp36)  [Next](prp38) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp36)  [Next](prp38.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ circumcise him.
 
 ------------------------------------------------------------------------
 
-[Next: 38. Simply to thee I say whatever to say shall behove me](prp38)
+[Next: 38. Simply to thee I say whatever to say shall behove me](prp38.md)

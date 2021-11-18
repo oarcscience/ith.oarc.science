@@ -1,7 +1,7 @@
 <span class="small"></span>
 
-[Intangible Textual Heritage](../../index)  [Christian Texts](../index) 
-[Luther Index](index) 
+[Intangible Textual Heritage](../../index)  [Christian Texts](../index.md) 
+[Luther Index](index.md) 
 
 ------------------------------------------------------------------------
 

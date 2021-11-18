@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw28)  [Next](omw30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw28)  [Next](omw30.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ faces of men, Samael, the Angel of Death, knew himself confounded.
 
 ------------------------------------------------------------------------
 
-[Next: In the Beginning](omw30)
+[Next: In the Beginning](omw30.md)

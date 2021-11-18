@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](stc09)  [Next](stc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](stc09)  [Next](stc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ begat him\],"
 
 8\. He, whose provision is abundance, goeth forth \[...\]!
 
-9\. Tutu \[is\]  <span id="fr_157"></span>[1](#fn_157) "He who created
+9\. Tutu \[is\]  <span id="fr_157"></span>[1](#fn_157.md) "He who created
 them anew;"
 
 <span id="page_94">p. 94</span> <span id="page_95">p. 95</span>
@@ -65,7 +65,7 @@ him ...\];
 <span id="page_96">p. 96</span> <span id="page_97">p. 97</span>
 
 19\. Tutu as Zi-azag thirdly they named, "the Bringer <span
-id="fr_158"></span>[1](#fn_158) of Purification,"
+id="fr_158"></span>[1](#fn_158.md) of Purification,"
 
 20\. "The God of the Favouring Breeze," "the Lord of Hearing and Mercy,"
 
@@ -95,7 +95,7 @@ before him!
 
 31\. May his deeds endure, may they never be forgotten
 
-32\. In the mouth of mankind <span id="fr_159"></span>[1](#fn_159) whom
+32\. In the mouth of mankind <span id="fr_159"></span>[1](#fn_159.md) whom
 his hands have made!
 
 33\. Tutu as Mu-azag, fifthly, his "Pure Incantation" may their mouth
@@ -154,7 +154,7 @@ position in the text is uncertain.\]
 
 \[...\]
 
-(10) <span id="fr_160"></span>[1](#fn_160) \[...\]
+(10) <span id="fr_160"></span>[1](#fn_160.md) \[...\]
 
 "The mighty one \[...\]!"
 
@@ -198,7 +198,7 @@ from that preserved by K. 13,761.\]
 
 \[... supreme\] is his might!
 
-\[Lugal-durma<u>h</u>, "the King\] <span id="fr_161"></span>[1](#fn_161)
+\[Lugal-durma<u>h</u>, "the King\] <span id="fr_161"></span>[1](#fn_161.md)
 of the band of the gods," "the Lord of rulers,"
 
 "Who is exalted in a royal habitation,"
@@ -233,8 +233,8 @@ upon No. 91,139. + 93,073.\]
 106\. \[...\] ... the star, which \[shineth in the heavens\].
 
 107\. May he hold the Beginning and the Future <span
-id="fr_162"></span>[1](#fn_162), may they <span
-id="fr_163"></span>[2](#fn_163) pay homage unto him,
+id="fr_162"></span>[1](#fn_162.md), may they <span
+id="fr_163"></span>[2](#fn_163.md) pay homage unto him,
 
 108\. Saying, "He who forced his way through the midst of Tiamat
 \[without resting\],
@@ -275,11 +275,11 @@ earth,
 123\. By the name of "Fifty" did the great gods
 
 124\. Proclaim his fifty names, they made his path pre-eminent." <span
-id="fr_164"></span>[1](#fn_164)
+id="fr_164"></span>[1](#fn_164.md)
 
 ### Epilogue
 
-125\. Let them <span id="fr_165"></span>[2](#fn_165) be held in
+125\. Let them <span id="fr_165"></span>[2](#fn_165.md) be held in
 remembrance, and let the first man proclaim them;
 
 <span id="page_112">p. 112</span> <span id="page_113">p. 113</span>
@@ -319,33 +319,33 @@ have prosperity!
 
 141\. \[...\] they took and \[...\];
 
-142\. \[...\]! <span id="fr_166"></span>[1](#fn_166)
+142\. \[...\]! <span id="fr_166"></span>[1](#fn_166.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_157"></span>[93:1](stc10.htm#fr_157) The title Tutu is
+<span id="fn_157"></span>[93:1](stc10.htm#fr_157.md) The title Tutu is
 there explained as *ba-a-nu*, " creator," while its two component parts
 (TU + TU) occur in the Sumerian version of the line as the equivalents
 of *la-nu-u* and *e-di-<u>sh</u>u*.
 
-<span id="fn_158"></span>[97:1](stc10.htm#fr_158) The text of the
+<span id="fn_158"></span>[97:1](stc10.htm#fr_158.md) The text of the
 commentary read *mu-kin*, i.e. "the Founder of Purification"; for other
 variant readings in the line, see Appendix I.
 
-<span id="fn_159"></span>[99:1](stc10.htm#fr_159) Literally, "the
+<span id="fn_159"></span>[99:1](stc10.htm#fr_159.md) Literally, "the
 black-headed ones."
 
-<span id="fn_160"></span>[103:1](stc10.htm#fr_160) In the margin of the
+<span id="fn_160"></span>[103:1](stc10.htm#fr_160.md) In the margin of the
 fragment K. 13,761 every tenth line is indicated by the figure "10."
 
-<span id="fn_161"></span>[105:1](stc10.htm#fr_161) The word
+<span id="fn_161"></span>[105:1](stc10.htm#fr_161.md) The word
 *durma<u>h</u>u* was employed as a Babylonian priestly title. It may
 here be rendered by some such general phrase as "ruler," unless it is to
 be taken as a proper name.
 
-<span id="fn_162"></span>[107:1](stc10.htm#fr_162) ... The expression
+<span id="fn_162"></span>[107:1](stc10.htm#fr_162.md) ... The expression
 *rê<u>sh</u>u-arkât*, literally "the beginning—the future," may be taken
 as implying Marduk's complete control over the world, both at its
 creation and during its subsequent existence. It is possible that
@@ -353,18 +353,18 @@ creation and during its subsequent existence. It is possible that
 preceding word, i.e. rê<u>sh</u>-arkâtu-<u>sh</u>u-nu, "their beginning
 and future," that is, "the beginning and future of mankind."
 
-<span id="fn_163"></span>[107:2](stc10.htm#fr_163) I.e., mankind.
+<span id="fn_163"></span>[107:2](stc10.htm#fr_163.md) I.e., mankind.
 
-<span id="fn_164"></span>[111:1](stc10.htm#fr_164) From the commentary
+<span id="fn_164"></span>[111:1](stc10.htm#fr_164.md) From the commentary
 R. 366, etc., and the explanatory text S. 747, it may be concluded that
 the Seventh Tablet, in its original form, ended at 1. 124. It is
 probable that ll. 125-142 were added as an epilogue at the time when the
 composition was incorporated in the Creation Series (see Appendix I).
 
-<span id="fn_165"></span>[111:2](stc10.htm#fr_165) I.e., the names of
+<span id="fn_165"></span>[111:2](stc10.htm#fr_165.md) I.e., the names of
 Marduk.
 
-<span id="fn_166"></span>[115:1](stc10.htm#fr_166) This is probably the
+<span id="fn_166"></span>[115:1](stc10.htm#fr_166.md) This is probably the
 last line of the tablet. It may here be noted that, for the text of the
 Seventh Tablet given in the preceding pages, only those fragments have
 been used which are proved by the commentaries to contain missing
@@ -379,4 +379,4 @@ under the firmament" of Gen. i, 7; see the Introduction.
 
 ------------------------------------------------------------------------
 
-[Next: I. Another Version of the Dragon-Myth](stc11)
+[Next: I. Another Version of the Dragon-Myth](stc11.md)

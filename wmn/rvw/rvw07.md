@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw06)  [Next](rvw08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw06)  [Next](rvw08.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,14 +14,14 @@ It has been argued occasionally that these laws were the product of a
 Victorian social concern to discourage illicit sexual conduct. Texas,
 however, does not advance this justification in the present case, and it
 appears that no court or commentator has taken the argument
-seriously. [42](rvw13.htm#xref_42) The appellants and amici contend,
+seriously. [42](rvw13.htm#xref_42.md) The appellants and amici contend,
 moreover, that this is not a proper state purpose at all and suggest
 that, if it were, the Texas statutes are overbroad in protecting it
 since the law fails to distinguish between married and unwed mothers.
 
 A second reason is concerned with abortion as a medical procedure. When
 most criminal abortion laws were first enacted, the procedure was a
-hazardous one for the woman. [43](rvw13.htm#xref_43) This was
+hazardous one for the woman. [43](rvw13.htm#xref_43.md) This was
 particularly true prior to the \[410 U.S. 113, 149\] development of
 antisepsis. Antiseptic techniques, of course, were based on discoveries
 by Lister, Pasteur, and others first announced in 1867, but were not
@@ -40,7 +40,7 @@ pregnancy, that is, prior to the end of the first trimester, although
 not without its risk, is now relatively safe. Mortality rates for women
 undergoing early abortions, where the procedure is legal, appear to be
 as low as or lower than the rates for normal
-childbirth. [44](rvw13.htm#xref_44) Consequently, any interest of the
+childbirth. [44](rvw13.htm#xref_44.md) Consequently, any interest of the
 State in protecting the woman from an inherently hazardous procedure,
 except when it would be equally dangerous for her to forgo it, has
 largely disappeared. Of course, important state interests in the areas
@@ -61,7 +61,7 @@ proposed at a late stage of pregnancy.
 The third reason is the State's interest-some phrase it in terms of
 duty-in protecting prenatal life. Some of the argument for this
 justification rests on the theory that a new human life is present from
-the moment of conception. [45](rvw13.htm#xref_45) The State's interest
+the moment of conception. [45](rvw13.htm#xref_45.md) The State's interest
 and general obligation to protect life then extends, it is argued, to
 prenatal life. Only when the life of the pregnant mother herself is at
 stake, balanced against the life she carries within her, should the
@@ -75,22 +75,22 @@ the protection of the pregnant woman alone. \[410 U.S. 113, 151\]
 
 Parties challenging state abortion laws have sharply disputed in some
 courts the contention that a purpose of these laws, when enacted, was to
-protect prenatal life. [46](rvw13.htm#xref_46) Pointing to the absence
+protect prenatal life. [46](rvw13.htm#xref_46.md) Pointing to the absence
 of legislative history to support the contention, they claim that most
 state laws were designed solely to protect the woman. Because medical
 advances have lessened this concern, at least with respect to abortion
 in early pregnancy, they argue that with respect to such abortions the
 laws can no longer be justified by any state interest. There is some
 scholarly support for this view of original
-purpose. [47](rvw13.htm#xref_47) The few state courts called upon to
+purpose. [47](rvw13.htm#xref_47.md) The few state courts called upon to
 interpret their laws in the late 19th and early 20th centuries did focus
 on the State's interest in protecting the woman's health rather than in
-preserving the embryo and fetus. [48](rvw13.htm#xref_48) Proponents of
+preserving the embryo and fetus. [48](rvw13.htm#xref_48.md) Proponents of
 this view point out that in many States, including
-Texas, [49](rvw13.htm#xref_49) by statute or judicial interpretation,
+Texas, [49](rvw13.htm#xref_49.md) by statute or judicial interpretation,
 the pregnant woman herself could not be prosecuted for self-abortion or
 for cooperating in an abortion performed upon her by
-another. [50](rvw13.htm#xref_50) They claim that adoption of the
+another. [50](rvw13.htm#xref_50.md) They claim that adoption of the
 "quickening" distinction through received common \[410 U.S. 113, 152\]
 law and state statutes tacitly recognizes the greater health hazards
 inherent in late abortion and impliedly repudiates the theory that life
@@ -101,4 +101,4 @@ this case is concerned.
 
 ------------------------------------------------------------------------
 
-[Next: Section VIII](rvw08)
+[Next: Section VIII](rvw08.md)

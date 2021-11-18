@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc087) 
-[Next](motc089) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc087.md) 
+[Next](motc089.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ origin, was heard from several informants.
 
 ------------------------------------------------------------------------
 
-[Next: 89. The Iroquois Wars](motc089)
+[Next: 89. The Iroquois Wars](motc089.md)

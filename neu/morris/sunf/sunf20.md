@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf19)  [Next](sunf21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf19)  [Next](sunf21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -81,6 +81,6 @@ sped to and fro betwixt them. So a fair ending had that day of tryst.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIX. The Winter Passes and Elfhild Tells of the Death of
-Her Kinswoman](sunf21)
+Her Kinswoman](sunf21.md)
 
 </div>

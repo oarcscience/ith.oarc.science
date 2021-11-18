@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](mrm07)  [Next](mrm09) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](mrm07)  [Next](mrm09.md) 
 
 ------------------------------------------------------------------------
 
@@ -658,4 +658,4 @@ them in the lake; but the *koura* he placed in the water at Parawai.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII.Claiming and Naming Land (cont.)](mrm09)
+[Next: Chapter VII.Claiming and Naming Land (cont.)](mrm09.md)

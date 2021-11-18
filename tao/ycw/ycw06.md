@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](ycw05) 
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](ycw05.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,321 +7,321 @@
 
 # INDEX.
 
-Abstinence, commendable, [20](ycw03.htm#page_20).
+Abstinence, commendable, [20](ycw03.htm#page_20.md).
 
-Age of the *Yin Chih Wen*, [12](ycw02.htm#page_12).
+Age of the *Yin Chih Wen*, [12](ycw02.htm#page_12.md).
 
-Angel, [43](ycw05.htm#page_43).
+Angel, [43](ycw05.htm#page_43.md).
 
-Ants, Mindful Of, [20](ycw03.htm#page_20); Nest Of,
-[29](ycw04.htm#page_29).
-
- 
-
-Babylon, [21](ycw03.htm#page_21) n.
-
-Befriend the hungry, [19](ycw03.htm#page_19).
-
-Benefit all, [17](ycw03.htm#page_17).
-
-Bliss, Foundation of, [31](ycw04.htm#page_31); of happiness,
-[39](ycw05.htm#page_39).
-
-Books in heart, [42](ycw05.htm#page_42).
-
-Brothers at variance, [20](ycw03.htm#page_20).
-
-Buddha, [18](ycw03.htm#page_18), [34](ycw04.htm#page_34).
-
-Buddhism, [35](ycw04.htm#page_35).
+Ants, Mindful Of, [20](ycw03.htm#page_20.md); Nest Of,
+[29](ycw04.htm#page_29.md).
 
  
 
-Captive animals, [35](ycw04.htm#page_35); Buy, [20](ycw03.htm#page_20).
+Babylon, [21](ycw03.htm#page_21.md) n.
 
-Ch'ang [8](ycw02.htm#page_8).
+Befriend the hungry, [19](ycw03.htm#page_19.md).
 
-Chang-O [12](ycw02.htm#page_12); incarnation of Wen Ch'ang,
-[10](ycw02.htm#page_10).
+Benefit all, [17](ycw03.htm#page_17.md).
 
-Ch'ang-tze, [32](ycw04.htm#page_32).
+Bliss, Foundation of, [31](ycw04.htm#page_31.md); of happiness,
+[39](ycw05.htm#page_39.md).
 
-Ch'en An-Shan, [32](ycw04.htm#page_32).
+Books in heart, [42](ycw05.htm#page_42.md).
 
-Chih defined, [4](ycw02.htm#page_4); first used, [5](ycw02.htm#page_5).
+Brothers at variance, [20](ycw03.htm#page_20.md).
+
+Buddha, [18](ycw03.htm#page_18), [34](ycw04.htm#page_34.md).
+
+Buddhism, [35](ycw04.htm#page_35.md).
+
+ 
+
+Captive animals, [35](ycw04.htm#page_35); Buy, [20](ycw03.htm#page_20.md).
+
+Ch'ang [8](ycw02.htm#page_8.md).
+
+Chang-O [12](ycw02.htm#page_12.md); incarnation of Wen Ch'ang,
+[10](ycw02.htm#page_10.md).
+
+Ch'ang-tze, [32](ycw04.htm#page_32.md).
+
+Ch'en An-Shan, [32](ycw04.htm#page_32.md).
+
+Chih defined, [4](ycw02.htm#page_4); first used, [5](ycw02.htm#page_5.md).
 
 Child can say this, etc.,
-[42](ycw05.htm#page_42)-[43](ycw05.htm#page_43)
+[42](ycw05.htm#page_42)-[43](ycw05.htm#page_43.md)
 
-Chou-tze, [25](ycw04.htm#page_25).
+Chou-tze, [25](ycw04.htm#page_25.md).
 
-Christ, [5](ycw02.htm#page_5).
+Christ, [5](ycw02.htm#page_5.md).
 
-Chün, [8](ycw02.htm#page_8).
+Chün, [8](ycw02.htm#page_8.md).
 
-Coffins, Give away, [19](ycw03.htm#page_19).
+Coffins, Give away, [19](ycw03.htm#page_19.md).
 
-Confucianism, [34](ycw04.htm#page_34).
+Confucianism, [34](ycw04.htm#page_34.md).
 
-Confucius, [42](ycw05.htm#page_42).
+Confucius, [42](ycw05.htm#page_42.md).
 
-Convert, [18](ycw03.htm#page_18).
+Convert, [18](ycw03.htm#page_18.md).
 
-Coverlet, [22](ycw03.htm#page_22).
-
- 
-
-Daniel's vision, [10](ycw02.htm#page_10).
-
-Delitzsch, [21](ycw03.htm#page_21) n.
-
-Deliver from danger, [18](ycw03.htm#page_18).
-
-Dhammapada, [31](ycw04.htm#page_31) n., [42](ycw05.htm#page_42).
-
-Discourse on morality, [18](ycw03.htm#page_18).
-
-Doctrines, The three, [18](ycw03.htm#page_18), [40](ycw05.htm#page_40).
-
-Douglas, R. K. [3](ycw02.htm#page_3), [8](ycw02.htm#page_8).
+Coverlet, [22](ycw03.htm#page_22.md).
 
  
 
-Egotism, [32](ycw04.htm#page_32).
+Daniel's vision, [10](ycw02.htm#page_10.md).
 
-Evil, Refrain from, [22](ycw03.htm#page_22).
+Delitzsch, [21](ycw03.htm#page_21.md) n.
 
- 
+Deliver from danger, [18](ycw03.htm#page_18.md).
 
-Father, Like a, [25](ycw04.htm#page_25).
+Dhammapada, [31](ycw04.htm#page_31) n., [42](ycw05.htm#page_42.md).
 
-Filial piety, [33](ycw04.htm#page_33); Elements of,
-[34](ycw04.htm#page_34).
+Discourse on morality, [18](ycw03.htm#page_18.md).
 
-Fire, Be cautious with, [20](ycw03.htm#page_20).
+Doctrines, The three, [18](ycw03.htm#page_18), [40](ycw05.htm#page_40.md).
 
-Foundation of happiness, [17](ycw03.htm#page_17),
-[39](ycw05.htm#page_39).
-
-Four obligations, [18](ycw03.htm#page_18), [40](ycw05.htm#page_40).
-
-Frivolity, [34](ycw04.htm#page_34), [35](ycw04.htm#page_35).
-
-Frontispiece, by Shen Chin-Ching, [7](ycw02.htm#page_7).
+Douglas, R. K. [3](ycw02.htm#page_3), [8](ycw02.htm#page_8.md).
 
  
 
-Gabriel, [9](ycw02.htm#page_9).
+Egotism, [32](ycw04.htm#page_32.md).
 
-Golden Rule [40](ycw05.htm#page_40).
-
-Good deeds do, [22](ycw03.htm#page_22), [42](ycw05.htm#page_42).
-
-Graveyards, Build, [19](ycw03.htm#page_19).
-
-Great Plan, [5](ycw02.htm#page_5) f.
-
-Guiding principle (*ting*) [6](ycw02.htm#page_6).
+Evil, Refrain from, [22](ycw03.htm#page_22.md).
 
  
 
-Happiness, Foundation of, [17](ycw03.htm#page_17),
-[39](ycw05.htm#page_39).
+Father, Like a, [25](ycw04.htm#page_25.md).
 
-Hatred, Let go, [21](ycw03.htm#page_21).
+Filial piety, [33](ycw04.htm#page_33.md); Elements of,
+[34](ycw04.htm#page_34.md).
 
-Heart, and mouth, [21](ycw03.htm#page_21); Books in,
-[42](ycw05.htm#page_42); impartial, [18](ycw03.htm#page_18),
-[40](ycw05.htm#page_40); Reverential, [34](ycw04.htm#page_34).
+Fire, Be cautious with, [20](ycw03.htm#page_20.md).
 
-Heaven, and earth, [25](ycw04.htm#page_25), [26](ycw04.htm#page_26); Be
-honest like, [18](ycw03.htm#page_18); Quiet way of,
-[4](ycw02.htm#page_4); Secret virtue attuned to,
-[17](ycw03.htm#page_17).
+Foundation of happiness, [17](ycw03.htm#page_17.md),
+[39](ycw05.htm#page_39.md).
 
-Heaven's reason, [22](ycw03.htm#page_22), [33](ycw04.htm#page_33) n,
-[36](ycw04.htm#page_36), [42](ycw05.htm#page_42); way should be
-imitated, [5](ycw02.htm#page_5).
+Four obligations, [18](ycw03.htm#page_18), [40](ycw05.htm#page_40.md).
 
-Helpful sayings, [21](ycw03.htm#page_21).
+Frivolity, [34](ycw04.htm#page_34), [35](ycw04.htm#page_35.md).
 
-Honest, Be, like Heaven, [18](ycw03.htm#page_18).
-
-Hsieh Wen-Ching, [33](ycw04.htm#page_33).
-
-Humaneness rewarded, [27](ycw04.htm#page_27), [29](ycw04.htm#page_29).
-
-Humble, Be, [21](ycw03.htm#page_21).
-
-Hungry, Befriend the, [19](ycw03.htm#page_19).
+Frontispiece, by Shen Chin-Ching, [7](ycw02.htm#page_7.md).
 
  
 
-Improper language, [21](ycw03.htm#page_21).
+Gabriel, [9](ycw02.htm#page_9.md).
 
-Incarnated seventeen times, [17](ycw03.htm#page_17).
+Golden Rule [40](ycw05.htm#page_40.md).
+
+Good deeds do, [22](ycw03.htm#page_22), [42](ycw05.htm#page_42.md).
+
+Graveyards, Build, [19](ycw03.htm#page_19.md).
+
+Great Plan, [5](ycw02.htm#page_5.md) f.
+
+Guiding principle (*ting*) [6](ycw02.htm#page_6.md).
+
+ 
+
+Happiness, Foundation of, [17](ycw03.htm#page_17.md),
+[39](ycw05.htm#page_39.md).
+
+Hatred, Let go, [21](ycw03.htm#page_21.md).
+
+Heart, and mouth, [21](ycw03.htm#page_21.md); Books in,
+[42](ycw05.htm#page_42); impartial, [18](ycw03.htm#page_18.md),
+[40](ycw05.htm#page_40); Reverential, [34](ycw04.htm#page_34.md).
+
+Heaven, and earth, [25](ycw04.htm#page_25), [26](ycw04.htm#page_26.md); Be
+honest like, [18](ycw03.htm#page_18.md); Quiet way of,
+[4](ycw02.htm#page_4.md); Secret virtue attuned to,
+[17](ycw03.htm#page_17.md).
+
+Heaven's reason, [22](ycw03.htm#page_22), [33](ycw04.htm#page_33.md) n,
+[36](ycw04.htm#page_36), [42](ycw05.htm#page_42.md); way should be
+imitated, [5](ycw02.htm#page_5.md).
+
+Helpful sayings, [21](ycw03.htm#page_21.md).
+
+Honest, Be, like Heaven, [18](ycw03.htm#page_18.md).
+
+Hsieh Wen-Ching, [33](ycw04.htm#page_33.md).
+
+Humaneness rewarded, [27](ycw04.htm#page_27), [29](ycw04.htm#page_29.md).
+
+Humble, Be, [21](ycw03.htm#page_21.md).
+
+Hungry, Befriend the, [19](ycw03.htm#page_19.md).
+
+ 
+
+Improper language, [21](ycw03.htm#page_21.md).
+
+Incarnated seventeen times, [17](ycw03.htm#page_17.md).
 
 <span id="page_48">p. 48</span>
 
-Incarnations, Book of, [39](ycw05.htm#page_39).
+Incarnations, Book of, [39](ycw05.htm#page_39.md).
 
-Indebtedness to the Lord, [25](ycw04.htm#page_25).
-
- 
-
-Jâtaka Stories, [39](ycw05.htm#page_39).
-
-Judge, A good, [26](ycw04.htm#page_26).
+Indebtedness to the Lord, [25](ycw04.htm#page_25.md).
 
  
 
-Kan-Ying P'ien, [3](ycw02.htm#page_3).
+Jâtaka Stories, [39](ycw05.htm#page_39.md).
 
-Karma, [28](ycw04.htm#page_28).
-
-Kwan Ti, [9](ycw02.htm#page_9).
+Judge, A good, [26](ycw04.htm#page_26.md).
 
  
 
-Lao Tze, [5](ycw02.htm#page_5), [8](ycw02.htm#page_8) f.
+Kan-Ying P'ien, [3](ycw02.htm#page_3.md).
 
-Life-will, [33](ycw04.htm#page_33) n.
+Karma, [28](ycw04.htm#page_28.md).
 
-Light lanterns, [19](ycw03.htm#page_19).
-
-Litigation, Do not stir, [20](ycw03.htm#page_20).
-
-Love of the Lord, [25](ycw04.htm#page_25).
+Kwan Ti, [9](ycw02.htm#page_9.md).
 
  
 
-Marduk, [9](ycw02.htm#page_9).
+Lao Tze, [5](ycw02.htm#page_5), [8](ycw02.htm#page_8.md) f.
 
-Measures, accurate, [19](ycw03.htm#page_19).
+Life-will, [33](ycw04.htm#page_33.md) n.
 
-Meddle, Do not, [20](ycw03.htm#page_20).
+Light lanterns, [19](ycw03.htm#page_19.md).
 
-Methodists, [40](ycw05.htm#page_40).
+Litigation, Do not stir, [20](ycw03.htm#page_20.md).
 
-Michael, [9](ycw02.htm#page_9).
-
-Mindful of ants, [20](ycw03.htm#page_20).
-
-Morality, Discourse on, [18](ycw03.htm#page_18).
-
-Mouth and heart, [21](ycw03.htm#page_21).
+Love of the Lord, [25](ycw04.htm#page_25.md).
 
  
 
-Nebo, [9](ycw02.htm#page_9).
+Marduk, [9](ycw02.htm#page_9.md).
 
-Nietzsche, [8](ycw02.htm#page_8).
+Measures, accurate, [19](ycw03.htm#page_19.md).
 
-Northern Constellation, [18](ycw03.htm#page_18),
-[34](ycw04.htm#page_34).
+Meddle, Do not, [20](ycw03.htm#page_20.md).
 
- 
+Methodists, [40](ycw05.htm#page_40.md).
 
-Orphans, [17](ycw03.htm#page_17), [18](ycw03.htm#page_18).
+Michael, [9](ycw02.htm#page_9.md).
 
-Ox that Plows, [20](ycw03.htm#page_20).
+Mindful of ants, [20](ycw03.htm#page_20.md).
 
- 
+Morality, Discourse on, [18](ycw03.htm#page_18.md).
 
-Paper written on, [20](ycw03.htm#page_20), [41](ycw05.htm#page_41).
-
-Philanthropic institutions, [19](ycw03.htm#page_19).
-
-Popularity of *Yin Chih Wen*, [3](ycw02.htm#page_3).
-
-Practise goodness, [18](ycw03.htm#page_18).
-
-Presume not, Let the rich, [21](ycw03.htm#page_21).
-
-Proceed in goodness, [36](ycw04.htm#page_36).
-
-Publish sutras, [19](ycw03.htm#page_19).
+Mouth and heart, [21](ycw03.htm#page_21.md).
 
  
 
-Reincarnation, [17](ycw03.htm#page_17), [39](ycw05.htm#page_39).
+Nebo, [9](ycw02.htm#page_9.md).
 
-Reverential heart, [34](ycw04.htm#page_34).
+Nietzsche, [8](ycw02.htm#page_8.md).
 
-Rewards, [22](ycw03.htm#page_22).
-
-Rich presume not, Let the, [21](ycw03.htm#page_21).
-
- 
-
-Salvation and truth, [32](ycw04.htm#page_32).
-
-Schopenhauer, [33](ycw04.htm#page_33) n.
-
-Scripture glory, [8](ycw02.htm#page_8).
-
-Secret, sin (*Yin o*), [6](ycw02.htm#page_6); virtue,
-[4](ycw02.htm#page_4)-[5](ycw02.htm#page_5); virtue attuned to heaven,
-[17](ycw03.htm#page_17).
-
-Self, Idea of, [32](ycw04.htm#page_32)-[33](ycw04.htm#page_33).
-
-Seventeen times incarnated, [17](ycw03.htm#page_17).
-
-Shakespeare, [5](ycw02.htm#page_5).
-
-Shen Chin-Ching, Frontispiece by, [7](ycw02.htm#page_7).
-
-Shu-King, [5](ycw02.htm#page_5).
-
-Snake, Double-headed, [30](ycw04.htm#page_30).
-
-Suzuki, Teitaro, [13](ycw02.htm#page_13).
+Northern Constellation, [18](ycw03.htm#page_18.md),
+[34](ycw04.htm#page_34.md).
 
  
 
-Three doctrines, [18](ycw03.htm#page_18), [40](ycw05.htm#page_40).
+Orphans, [17](ycw03.htm#page_17), [18](ycw03.htm#page_18.md).
 
-Ti, [8](ycw02.htm#page_8), [9](ycw02.htm#page_9).
-
-Ting, "Guiding principle," [6](ycw02.htm#page_6).
-
-Title, Chinese characters of, p. [15](ycw02.htm#page_15). Cf. pp.
-[3](ycw02.htm#page_3) f. and [11](ycw02.htm#page_11); Difficulties of
-translation, [3](ycw02.htm#page_3); explained by commentator,
-[6](ycw02.htm#page_6).
-
-Truth and salvation, [32](ycw04.htm#page_32).
-
-Truthful One, [18](ycw03.htm#page_18), [41](ycw05.htm#page_41).
+Ox that Plows, [20](ycw03.htm#page_20.md).
 
  
 
-Unheeded, Let deeds be, [17](ycw03.htm#page_17).
+Paper written on, [20](ycw03.htm#page_20), [41](ycw05.htm#page_41.md).
+
+Philanthropic institutions, [19](ycw03.htm#page_19.md).
+
+Popularity of *Yin Chih Wen*, [3](ycw02.htm#page_3.md).
+
+Practise goodness, [18](ycw03.htm#page_18.md).
+
+Presume not, Let the rich, [21](ycw03.htm#page_21.md).
+
+Proceed in goodness, [36](ycw04.htm#page_36.md).
+
+Publish sutras, [19](ycw03.htm#page_19.md).
 
  
 
-Ways, Several, [34](ycw04.htm#page_34).
+Reincarnation, [17](ycw03.htm#page_17), [39](ycw05.htm#page_39.md).
 
-Wen, [8](ycw02.htm#page_8).
+Reverential heart, [34](ycw04.htm#page_34.md).
 
-Wen Ch'ang, [9](ycw02.htm#page_9).
+Rewards, [22](ycw03.htm#page_22.md).
 
-Wen Ch'ang Ti Chün, [7](ycw02.htm#page_7) f.
-
-Widows, [8](ycw02.htm#page_8).
-
-Writing, Respect for, [20](ycw03.htm#page_20), [41](ycw05.htm#page_41).
+Rich presume not, Let the, [21](ycw03.htm#page_21.md).
 
  
 
-Yang and Yin, [28](ycw04.htm#page_28).
+Salvation and truth, [32](ycw04.htm#page_32.md).
 
-Yin Chih, [3](ycw02.htm#page_3) ff., [17](ycw03.htm#page_17).
+Schopenhauer, [33](ycw04.htm#page_33.md) n.
 
-Yin Chih Wen, Contents of, [12](ycw02.htm#page_12); Popularity of,
-[3](ycw02.htm#page_3).
+Scripture glory, [8](ycw02.htm#page_8.md).
 
-Yin defined, [4](ycw02.htm#page_4).
+Secret, sin (*Yin o*), [6](ycw02.htm#page_6.md); virtue,
+[4](ycw02.htm#page_4)-[5](ycw02.htm#page_5.md); virtue attuned to heaven,
+[17](ycw03.htm#page_17.md).
 
-Yin o "Secret sin," [6](ycw02.htm#page_6).
+Self, Idea of, [32](ycw04.htm#page_32)-[33](ycw04.htm#page_33.md).
+
+Seventeen times incarnated, [17](ycw03.htm#page_17.md).
+
+Shakespeare, [5](ycw02.htm#page_5.md).
+
+Shen Chin-Ching, Frontispiece by, [7](ycw02.htm#page_7.md).
+
+Shu-King, [5](ycw02.htm#page_5.md).
+
+Snake, Double-headed, [30](ycw04.htm#page_30.md).
+
+Suzuki, Teitaro, [13](ycw02.htm#page_13.md).
+
+ 
+
+Three doctrines, [18](ycw03.htm#page_18), [40](ycw05.htm#page_40.md).
+
+Ti, [8](ycw02.htm#page_8), [9](ycw02.htm#page_9.md).
+
+Ting, "Guiding principle," [6](ycw02.htm#page_6.md).
+
+Title, Chinese characters of, p. [15](ycw02.htm#page_15.md). Cf. pp.
+[3](ycw02.htm#page_3) f. and [11](ycw02.htm#page_11.md); Difficulties of
+translation, [3](ycw02.htm#page_3.md); explained by commentator,
+[6](ycw02.htm#page_6.md).
+
+Truth and salvation, [32](ycw04.htm#page_32.md).
+
+Truthful One, [18](ycw03.htm#page_18), [41](ycw05.htm#page_41.md).
+
+ 
+
+Unheeded, Let deeds be, [17](ycw03.htm#page_17.md).
+
+ 
+
+Ways, Several, [34](ycw04.htm#page_34.md).
+
+Wen, [8](ycw02.htm#page_8.md).
+
+Wen Ch'ang, [9](ycw02.htm#page_9.md).
+
+Wen Ch'ang Ti Chün, [7](ycw02.htm#page_7.md) f.
+
+Widows, [8](ycw02.htm#page_8.md).
+
+Writing, Respect for, [20](ycw03.htm#page_20), [41](ycw05.htm#page_41.md).
+
+ 
+
+Yang and Yin, [28](ycw04.htm#page_28.md).
+
+Yin Chih, [3](ycw02.htm#page_3) ff., [17](ycw03.htm#page_17.md).
+
+Yin Chih Wen, Contents of, [12](ycw02.htm#page_12.md); Popularity of,
+[3](ycw02.htm#page_3.md).
+
+Yin defined, [4](ycw02.htm#page_4.md).
+
+Yin o "Secret sin," [6](ycw02.htm#page_6.md).

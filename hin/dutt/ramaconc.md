@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rama12)  [Next](ramaepi) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rama12)  [Next](ramaepi.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55Q4M/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55Q4M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Ramayana and Mahabharata*, by Romesh C. Dutt, \[1899\], at
 Intangible Textual Heritage
 
@@ -56,4 +56,4 @@ crossed the Sarayu, surrendered their mortal life, and entered heaven.
 
 ------------------------------------------------------------------------
 
-[Next: Epilogue](ramaepi)
+[Next: Epilogue](ramaepi.md)

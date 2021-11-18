@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof12)  [Next](otof14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof12)  [Next](otof14.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,7 +103,7 @@ compelled to use
 <span id="img_pl16"></span>
 
 [![PLATE XVI](tn/pl16.jpg)  
-Click to enlarge](img/pl16.jpg)  
+Click to enlarge](img/pl16.jpg.md)  
 PLATE XVI  
 
  
@@ -114,7 +114,7 @@ the only things with which he was familiar--animals, birds, and
 horse-drawn chariots with *wheels*.
 
 In this connection the Tetramorph of Greek art is interesting. (See
-[Plate XVI](#img_pl16)). This symbolic drawing was taken from a
+[Plate XVI](#img_pl16).md). This symbolic drawing was taken from a
 Byzantine Mosaic in the Convent of Vatopedi on Mt. Athos. The principal
 figure is that of a Man, the three heads of the other creatures
 appearing from behind, and six large wings covered with eyes are
@@ -334,7 +334,7 @@ consciousness that would have required hours of conversation to
 transmit."
 
 If Angelucci's experience had taken place in 595 B.C., he too, would
-have been a prophet like [Ezekiel](errata.htm#23). Instead he is a
+have been a prophet like [Ezekiel](errata.htm#23.md). Instead he is a
 Prophet of the New Age now dawning on Earth.
 
 Considering the strange experience of Angelucci, we can interpret
@@ -523,7 +523,7 @@ ascent now became much greater, and at the same time we heard a
 whistling sound, rather like the noise made by a falling bomb, but not
 nearly so loud. The object rose in a horizontal position, swerved away
 toward a nearby village and disappeared, still climbing over the hills
-and forests [toward](errata.htm#24) Stockheim."
+and forests [toward](errata.htm#24.md) Stockheim."
 
 Ezekiel's living creatures appeared like "burning coals of fire."
 Linke's human figures appeared like "shimmering metallic substances".
@@ -633,7 +633,7 @@ seek, they do find life wondrous." (G. S. 209: 6-9).
 of Light are your ministering servants." (G. S. 209:21).
 
 "Do I speak unto you of mysteries? I say that ye shall know them in the
-Day of Understanding. Behold my [ministers](errata.htm#25) who are Sons
+Day of Understanding. Behold my [ministers](errata.htm#25.md) who are Sons
 of Light manifesting, have orders of me that ye be protected in your
 thought and persons when it so cometh that ye advance my Plan." (G. S.
 209:31-32).
@@ -732,7 +732,7 @@ The calendar we use today was devised two-hundred thirty-seven years
 *before* the Earth was created if we want to accept the Bible dates.
 However, Archbishop Ussher (1581-1656 A.D.) figured out much of the
 Bible chronology and dated certain events by it. The dates, therefore,
-are not actually [scriptural](errata.htm#26), but man-made. Certain
+are not actually [scriptural](errata.htm#26.md), but man-made. Certain
 Fundamental Christian groups believe the world was really created on
 October 23, 4004 B.C. The question that immediately comes up is: 'What
 was going on the day before, October 22nd? If the world hadn't been
@@ -764,7 +764,7 @@ opened." (Daniel 7:9-10).
 
 Daniel and all the other prophets saw great fiery objects come down from
 the heavens and they con-versed with tremendous numbers of
-[celestial](errata.htm#27) beings who emerged from these objects--these
+[celestial](errata.htm#27.md) beings who emerged from these objects--these
 beings instructed the prophets in the beauteous laws of love. More will
 be said about Daniel in *The Remnant*. A colossal program of aid,
 comfort and instruction was instituted with *The Prophets*. Of course,
@@ -1017,7 +1017,7 @@ or from which they recede according to the rank held by the souls in
 their intellectual and moral order." In the Zohar it is written that the
 celestial throne of Ezekiel's vision signifies the *traditional* law,
 and the appearance of a man sitting upon the throne represents the
-*written* law. (Again, see Plate XVII [p. 253](#page_253)).
+*written* law. (Again, see Plate XVII [p. 253](#page_253).md).
 
 There is no record today, or in Biblical times, where Saucers or Saucer
 beings ever deliberately injured anyone. Some people may say that the
@@ -1053,4 +1053,4 @@ they shall know that there hash been a *prophet* among them".
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4. The Harvesters](otof14)
+[Next: Chapter 4. The Harvesters](otof14.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim64)  [Next](sim66) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim64)  [Next](sim66.md) 
 
 ------------------------------------------------------------------------
 
@@ -219,4 +219,4 @@ The chief reached home as his friends, the wolves, said he would.
 
 ------------------------------------------------------------------------
 
-[Next: Dogs Save Their Master](sim66)
+[Next: Dogs Save Their Master](sim66.md)

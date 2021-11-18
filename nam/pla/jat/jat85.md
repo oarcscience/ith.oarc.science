@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat84)  [Next](jat86) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat84)  [Next](jat86.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ They sing for the young yellow calf also. That is all.
 
 ------------------------------------------------------------------------
 
-[Next: 84. Note on Killing Eagles](jat86)
+[Next: 84. Note on Killing Eagles](jat86.md)

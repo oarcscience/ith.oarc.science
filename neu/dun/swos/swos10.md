@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](swos09)  [Next](swos11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](swos09)  [Next](swos11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sword of Welleran and Other Stories*, by Lord Dunsany, \[1908\], at
 Intangible Textual Heritage
 
@@ -665,6 +665,6 @@ befallen in the days of long ago?
 
 ------------------------------------------------------------------------
 
-[Next: The Lord of Cities](swos11)
+[Next: The Lord of Cities](swos11.md)
 
 </div>

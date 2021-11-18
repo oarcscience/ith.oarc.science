@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg03) [Next](aflg05)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg03) [Next](aflg05.md)
 
 ------------------------------------------------------------------------
 
@@ -8,16 +8,16 @@ American](../index) [Index](index) [Previous](aflg03) [Next](aflg05)
 ## C<span class="small">HAPTER</span> IV CREATION OF MAN, PLANTS, AND ANIMALS
 
    <span class="small">Man was either brought here from Cloud-land, etc.
-(*[51](#pp_51)*), or was created here (*[52](#pp_52)*); in the latter
-case, from Animals, as Tigers (*[53](#pp_53)*), Snakes
-(*[54](#pp_54)-56*), from Plants (*[57](#pp_57)*), or from Rocks and
-Stones (*[58](#pp_58)*).  
+(*[51](#pp_51)*), or was created here (*[52](#pp_52)*.md); in the latter
+case, from Animals, as Tigers (*[53](#pp_53)*.md), Snakes
+(*[54](#pp_54)-56*), from Plants (*[57](#pp_57)*.md), or from Rocks and
+Stones (*[58](#pp_58)*.md).  
    Certain Plants were derived from human beings or Bush Spirits
-(*[59](#pp_59)*), or grew upon a Wonderful Tree (*[60](#pp_60)-61*).
+(*[59](#pp_59)*), or grew upon a Wonderful Tree (*[60](#pp_60)-61*.md).
 Some animals arose from the Spirits of Mortal Men
-(*[62](#pp_62)*).</span>
+(*[62](#pp_62)*.md).</span>
 
-   <span id="pp_51"></span>**51.**[\*](#pp_51) Certain tribes believe
+   <span id="pp_51"></span>**51.**[\*](#pp_51.md) Certain tribes believe
 that man, already made, reached this world from elsewhere, while others
 claim that he developed here, where he either merely grew into being or
 was indebted to some Master Spirit for coming into existence at all. His
@@ -34,7 +34,7 @@ unfortunately, the clouds which had brought them down receded and so
 left them behind. Being hungry, they were forced to eat earth, which
 they baked into cakes, and followed the beasts and birds to see what
 wild fruits they were accustomed to devour, and so learned to help
-themselves ([BrB, 103](../lmbg/lmbg3b.htm#page_103)). According to the
+themselves ([BrB, 103](../lmbg/lmbg3b.htm#page_103).md). According to the
 Island Caribs, "Louquo was the first man and a Carib. He was not made of
 any other body; he descended from the sky and lived a long time on
 earth;" in fact it was he who made it. "He had a large nostril from
@@ -53,7 +53,7 @@ The Great Spirit, pitying the latter, supplied them with wings and
 plumage; and they came down to colonize the trees above the heads of
 their <span id="page_142">p. 142</span> brethren—still privileged to
 live near, and to converse with them, though changed into kuriaka
-parrots ([BrB, 179](../lmbg/lmbg5b.htm#page_179)).
+parrots ([BrB, 179](../lmbg/lmbg5b.htm#page_179).md).
 
    The Warrau version of their own origin is very similar. Okonoróté one
 day went hunting for a rare bird—in those times the Warraus lived up
@@ -72,14 +72,14 @@ descent, which they did in safety, one after the other until the very
 last—and this happened to be a woman who got wedged in the aperture, and
 could neither get up nor down. The hole being thus filled up, the
 Warraus have never been able to reach their old home again ([BrB,
-55](../lmbg/lmbg2b.htm#page_55)). The name of this woman who thus stuck
+55](../lmbg/lmbg2b.htm#page_55).md). The name of this woman who thus stuck
 half-way is Okona-kura, the Warraus still recognizing her as the Morning
 Star.
 
    Certain of the Salivas did not hesitate to proclaim themselves
 children of the Sun (G, <span class="small">I</span>, 113).
 
-   <span id="pp_52"></span>**52.**[\*](#pp_52) In those cases where man,
+   <span id="pp_52"></span>**52.**[\*](#pp_52.md) In those cases where man,
 as such, put in his first appearance on this world's stage (*i. e.*, as
 in many other places was created on the earth) there is no evidence
 available pointing to the existence of any belief that his creation took
@@ -88,7 +88,7 @@ Master Spirit, or some person, or thing. Indeed, the two or three
 examples which might be claimed in support of the existence of such
 evidence are very dubious. Schomburgk notes an Arawak tradition, which I
 can not find elsewhere, that man was created by Kururumanni, and woman
-by Kulimina ([Sect. *19*](aflg02.htm#pp_19)); he mentions also that the
+by Kulimina ([Sect. *19*](aflg02.htm#pp_19).md); he mentions also that the
 former was subservient to Aluberi, the Supreme Spirit (ScR, <span
 class="small">II</span>, 319). Among the Maipures of the Orinoco,
 however, it was the Supreme Being Purrunaminari who created man, but the
@@ -97,7 +97,7 @@ reported by Gili, shows a seemingly evident admixture of Christian ideas
 (ScR, <span class="small">II</span>, 320). So also does the alleged
 Akawai legend that Makunaima, admittedly the Supreme Being, put his son,
 the first man, in charge of all the other animals that he had just made
-([BrB, 126](../lmbg/lmbg4b.htm#page_126)). On the other hand, the Indian
+([BrB, 126](../lmbg/lmbg4b.htm#page_126).md). On the other hand, the Indian
 seemingly can conceive of man's origin only from something already
 existing in the world of nature immediately surrounding him. And so, in
 considering the reputed origins <span id="page_143">p. 143</span> of the
@@ -107,7 +107,7 @@ own people—was originally derived, with or without the assistance of
 pre-existing agencies, from various animals and plants, from rocks,
 stones, and rivers.
 
-   <span id="pp_53"></span>**53.**[\*](#pp_53) Among various animal
+   <span id="pp_53"></span>**53.**[\*](#pp_53.md) Among various animal
 forms, "tigers" (jaguars) and snakes constitute the commonest sources
 from which peoples claiming an animal pedigree have been derived. Carib
 history furnishes excellent examples in this respect, because we have
@@ -122,7 +122,7 @@ pike, pole, and from these two words, "tiger" and "pike," they derive
 the word *chavinavi*, as being the children of tigers with pikes (G,
 <span class="small">I</span>, 112).
 
-   <span id="pp_54"></span>**54.**[\*](#pp_54) The Salivas say that the
+   <span id="pp_54"></span>**54.**[\*](#pp_54.md) The Salivas say that the
 son of Puru conquered and put to death a horrible snake that had been
 destroying and devouring the nations of the Orinoco; but that as soon as
 the monster began to putrefy, certain large worms began to develop in
@@ -131,20 +131,20 @@ and his woman; and that in the same way that the snake was so bloody an
 enemy of all those nations, so her children were savage, inhuman, and
 cruel (G, <span class="small">I</span>, 111).
 
-   <span id="pp_55"></span>**55.**[\*](#pp_55) The Warrau version, like
+   <span id="pp_55"></span>**55.**[\*](#pp_55.md) The Warrau version, like
 that recorded by Brett in his Legend of Korobona ([BrB,
-64](../lmbg/lmbg2b.htm#page_64)) refers to a special water-snake, and
+64](../lmbg/lmbg2b.htm#page_64).md) refers to a special water-snake, and
 the account which I now give is almost word for word as related to me:
 
  
 
-<span id="story_7"></span>[\*](#story_7)T<span class="small">HE</span>
+<span id="story_7"></span>[\*](#story_7.md)T<span class="small">HE</span>
 O<span class="small">RIGIN OF THE</span> C<span
 class="small">ARIBS</span> (W)
 
 >    A Warrau man warned his sister not to bathe in a certain
 > neighboring pond at those regular periods when she happened to be
-> unwell ([Sect. *188*](aflg12.htm#pp_188)). For a long time she obeyed
+> unwell ([Sect. *188*](aflg12.htm#pp_188).md). For a long time she obeyed
 > his instructions, but after a time, forgetting all about them, she
 > went to bathe at the forbidden spot and time, and was caught by a
 > large snake, the water-camudi Uamma. By and by she became pregnant.
@@ -155,7 +155,7 @@ class="small">ARIBS</span> (W)
 > a large quantity of the delicious seed in the afternoon. The brother,
 > thereupon becoming suspicious, watched her. Unobserved himself, he
 > followed her next day, saw her approach a huge bullet-tree, and saw
-> the Uamma snake ([Sect. *244*](aflg15.htm#pp_244)) exeuntem ex corpore
+> the Uamma snake ([Sect. *244*](aflg15.htm#pp_244).md) exeuntem ex corpore
 > feminæ, coil around the tree, and make his way up into the topmost
 > branches. There the snake changed into a man, who shook the boughs for
 > the woman, thus causing the seeds to fall to the ground, where she
@@ -185,7 +185,7 @@ class="small">ARIBS</span> (W)
 
 <span id="story_8"></span>
 
-   <span id="pp_56"></span>**56.**[\*](#pp_56) The Carib version of the
+   <span id="pp_56"></span>**56.**[\*](#pp_56.md) The Carib version of the
 story was told me on the upper Pomeroon, by probably one of the oldest
 local survivors of the tribe, who spoke somewhat as follows:
 
@@ -224,7 +224,7 @@ local survivors of the tribe, who spoke somewhat as follows:
 > whom he made good friends, and they all drank paiwarri. And thus the
 > Carib nation arase from a water-camudi.
 
-   <span id="pp_57"></span>**57.**[\*](#pp_57) The vegetable world takes
+   <span id="pp_57"></span>**57.**[\*](#pp_57.md) The vegetable world takes
 a share of the responsibility for the derivation of man. There is either
 a story of some fabulous Tree of Life, or reference to certain
 well-known plants, as the silk-cotton tree <span id="page_145">p.
@@ -237,7 +237,7 @@ that from his seat on the silk-cotton tree, the Mighty One scattered
 twigs and bark in the air, on the land, and in the water, and that from
 these pieces arose the birds, beasts, reptiles, fish, and also men and
 women. The sire of the Arawaks was Wadili ([BrB,
-7](../lmbg/lmbg1b.htm#page_7)). Some of the Salivas affirmed that
+7](../lmbg/lmbg1b.htm#page_7).md). Some of the Salivas affirmed that
 certain trees used to bear men and women for fruit, and that these
 people were their ancestors (G, <span class="small">I</span>, 113). The
 Maipures and, according to Humboldt similarly the Tamanacs, say that in
@@ -258,14 +258,14 @@ into a rapid, whence the name of one of the Demerara River rapids (Da,
 
    According to the idea current among the Trios, people were originally
 like wood, stone, etc., and had no faces (Go, 12). The manufacture of a
-woman out of a plum tree ([Sect. *29*](aflg02.htm#pp_29)), and the tree
-changing into a man ([Sect. *9*](aflg02.htm#pp_9)), should also be noted
+woman out of a plum tree ([Sect. *29*](aflg02.htm#pp_29).md), and the tree
+changing into a man ([Sect. *9*](aflg02.htm#pp_9).md), should also be noted
 here.
 
-   <span id="pp_58"></span>**58.**[\*](#pp_58) Not a few legends ([Sect.
-*158*](aflg09.htm#pp_158)) connected with the origin of the tribes
+   <span id="pp_58"></span>**58.**[\*](#pp_58.md) Not a few legends ([Sect.
+*158*](aflg09.htm#pp_158).md) connected with the origin of the tribes
 contain curious examples of animism relative to earth, rocks, and stones
-([Sect. *171*](aflg11.htm#pp_171)). The Mapoyas, the Salivas, and the
+([Sect. *171*](aflg11.htm#pp_171).md). The Mapoyas, the Salivas, and the
 Otomacs, all three of them Orinoco tribes, had beliefs of this nature
 (G, <span class="small">I</span>, 113). The last-mentioned used to say
 that a stone made up of three parts, arranged in the form of a pyramid
@@ -293,21 +293,21 @@ Makunaima sent great waters: only one man escaped . . . this one man who
 survived the flood threw stones behind him, and thus peopled the earth
 anew (ScR, <span class="small">II</span>, 320). Those of the Achaguas
 who believed in their origin from rivers distinguished themselves from
-the the tree-trunk ones ([Sect. *57*](aflg04.htm#pp_57)) by the name
+the the tree-trunk ones ([Sect. *57*](aflg04.htm#pp_57).md) by the name
 Uni-verrenais (G, <span class="small">I</span>, 114).
 
-   <span id="pp_59"></span>**59.**[\*](#pp_59) The Yahuna Indians of the
+   <span id="pp_59"></span>**59.**[\*](#pp_59.md) The Yahuna Indians of the
 Apaporis River have a belief in certain palm trees having been derived
-from the ashes of a human being ([Sect. *163A*](aflg10.htm#pp_163A)).
+from the ashes of a human being ([Sect. *163A*](aflg10.htm#pp_163A).md).
 The Arawaks and Caribs hold similar views as to the origin of certain
 cultivated plants. In an Arawak story it is one of the Bush Spirits
 which supplies man with the first fruit plants, whereas the Carib
 version gives a wonderful tree itself as the source ([Sect.
-*60*](aflg04.htm#pp_60)). The following is the Arawak story:
+*60*](aflg04.htm#pp_60).md). The following is the Arawak story:
 
  
 
-<span id="story_9"></span>[\*](#story_9)T<span class="small">HE</span>
+<span id="story_9"></span>[\*](#story_9.md)T<span class="small">HE</span>
 F<span class="small">IRST</span> F<span class="small">RUIT</span> T<span
 class="small">REES</span> (A)
 
@@ -315,12 +315,12 @@ class="small">REES</span> (A)
 > men-folk were away at a party. Early in the afternoon a young man came
 > along, bringing a powis with him. He was not what he appeared to be, a
 > friend, but an Adda-kuyuha (Tree Spirit). ([Sect.
-> *96*](aflg08.htm#pp_96).) The girls, however, did not know this. They
+> *96*](aflg08.htm#pp_96)..md) The girls, however, did not know this. They
 > asked him inside and offered him pepper-pot and Cassiri. He refused
 > the former, saying it did not agree with him, and putting to his mouth
 > the calabash which contained the latter, he broke the vessel. This
 > made the girl who handed it to him laugh. ([Sect.
-> *125*](aflg08.htm#pp_125).) She was the youngest of the three; he told
+> *125*](aflg08.htm#pp_125)..md) She was the youngest of the three; he told
 > her on taking his departure that he would pay her another visit later
 > in the evening. The afternoon wore on, and night fell, when, sure
 > enough, the young man appeared again, as arranged. The elder sister
@@ -344,7 +344,7 @@ class="small">REES</span> (A)
 > them was a piai. They told <span id="page_147">p. 147</span> these
 > people exactly what had happened to their young sister, how she had
 > laughed at the Tukuyuha, and how she had been killed ([Sect.
-> *125*](aflg08.htm#pp_125)) and eaten by him. The piai told them to
+> *125*](aflg08.htm#pp_125).md) and eaten by him. The piai told them to
 > collect plenty of firewood, and to bring it to the hollow tree, which
 > the sisters were able to show them. This wood they piled up in plenty
 > around the tree, and then started to fire it. It burned right merrily,
@@ -359,8 +359,8 @@ class="small">REES</span> (A)
 
 <span id="story_10"></span>
 
-   <span id="pp_60"></span>**60.**[\*](#pp_60) The statement has been
-already made, on Carib authority ([Sect. *51*](aflg04.htm#pp_51)), that
+   <span id="pp_60"></span>**60.**[\*](#pp_60.md) The statement has been
+already made, on Carib authority ([Sect. *51*](aflg04.htm#pp_51).md), that
 mankind learned from the beasts and birds what wild fruits to devour.
 But it was the Bunia bird which taught the Carib folk all about the
 cultivated plants, which originally grew upon a certain wonderful tree,
@@ -413,12 +413,12 @@ and it happened in this way:
 
 <span id="page_148">p. 148</span>
 
-   <span id="pp_61"></span>**61.**[\*](#pp_61) The above is the
+   <span id="pp_61"></span>**61.**[\*](#pp_61.md) The above is the
 tradition, almost word for word as it was told to me by an old Carib,
 but no explanation was forthcoming as to the origin of the tree itself.
 Brett however ascribes it to Tamosi ([BrB,
-103](../lmbg/lmbg3b.htm#page_103)-114) in the same way that he gives
-Makunaima credit ([BrB, 126](../lmbg/lmbg4b.htm#page_126)) for the
+103](../lmbg/lmbg3b.htm#page_103)-114.md) in the same way that he gives
+Makunaima credit ([BrB, 126](../lmbg/lmbg4b.htm#page_126).md) for the
 similarly wonderful Akawai tree. In the latter case the immediately
 preceding sentence, however, shows an undoubted bias due to Christian
 influences: "Makunaima made all the beasts and birds, all of one speech,
@@ -436,18 +436,18 @@ in a condition to climb led the way, and halfway up was turned into
 stone by terror and exhaustion: none could help her and none could pass
 over her, and all who tried to do so became rocks likewise. A few
 survivors then climbed a komoo palm and so saved themselves" ([BrB,
-106](../lmbg/lmbg3b.htm#page_106)).
+106](../lmbg/lmbg3b.htm#page_106).md).
 
-   <span id="pp_62"></span>**62.**[\*](#pp_62) Among the mainland
+   <span id="pp_62"></span>**62.**[\*](#pp_62.md) Among the mainland
 Indians, I can find no explanations current concerning the origin of the
 first birds and beasts. Brett's statement that Makunaima made them
-([BrB, 126](../lmbg/lmbg4b.htm#page_126)) appears to lack confirmation.
+([BrB, 126](../lmbg/lmbg4b.htm#page_126).md) appears to lack confirmation.
 The Island Caribs had a tradition that Louquo, their first man ([Sect.
-*51*](aflg04.htm#pp_51)), "made fishes out of scrapings and fragments of
+*51*](aflg04.htm#pp_51).md), "made fishes out of scrapings and fragments of
 cassava, which he threw into the water" (BBR, 227). Many an animal has
-been derived from the spirit ([Sects. *69*](aflg05.htm#pp_69),
-[*161*](aflg09.htm#pp_161)) of mortal men.
+been derived from the spirit ([Sects. *69*](aflg05.htm#pp_69.md),
+[*161*](aflg09.htm#pp_161).md) of mortal men.
 
 ------------------------------------------------------------------------
 
-[Next](aflg05)
+[Next](aflg05.md)

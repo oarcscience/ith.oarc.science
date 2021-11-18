@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lasi15)  [Next](lasi17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lasi15)  [Next](lasi17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBUI6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBUI6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Legends and Stories of Ireland*, by Samuel Lover, \[1831, 1834\], at
 Intangible Textual Heritage
 
@@ -134,4 +134,4 @@ thing as a mass for the sowl of the faithful departed."
 
 ------------------------------------------------------------------------
 
-[Next: New Potatoes](lasi17)
+[Next: New Potatoes](lasi17.md)

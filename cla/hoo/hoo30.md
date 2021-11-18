@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo29)  [Next](hoo31) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo29)  [Next](hoo31.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 
 ###### XXV.
 
-### TO THE EARTH <span id="fr_81"></span>[\*](#fn_81)
+### TO THE EARTH <span id="fr_81"></span>[\*](#fn_81.md)
 
 ###### The FUMIGATION from every kind of SEED, except BEANS and AROMATICS.
 
@@ -34,7 +34,7 @@ And with propitious mind thy suppliant hear.
 
 ### Footnotes
 
-<span id="fn_81"></span>[150:\*](hoo30.htm#fr_81) According to Orpheus,
+<span id="fn_81"></span>[150:\*](hoo30.htm#fr_81.md) According to Orpheus,
 as related by Proclus, in Tim. p. 292. Earth is the mother of every
 thing, of which Heaven is the father. And the reader will please to
 observe, that, in the Orphic theology, Rhea, the mother of the Gods, the
@@ -43,4 +43,4 @@ according to her essential peculiarities.
 
 ------------------------------------------------------------------------
 
-[Next: XXVI: To The Mother of the Gods](hoo31)
+[Next: XXVI: To The Mother of the Gods](hoo31.md)

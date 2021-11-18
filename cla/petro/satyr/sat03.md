@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat02)  [Next](sat04) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat02)  [Next](sat04.md) 
 
 ------------------------------------------------------------------------
 
@@ -276,4 +276,4 @@ necessity to sell some of our plunder.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three](sat04)
+[Next: Chapter Three](sat04.md)

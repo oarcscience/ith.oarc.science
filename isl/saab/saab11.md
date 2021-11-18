@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab10)  [Next](saab12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab10)  [Next](saab12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ Answer’d he; "Oh thou that aimest</span>
 </div>
 
 <span id="img_02000"></span> <span align="CENTER"> [![](tn/02000.jpg)  
-Click to enlarge](img/02000.jpg)</span>
+Click to enlarge](img/02000.jpg.md)</span>
 
 <span id="page_21">p. 21</span>
 
@@ -70,4 +70,4 @@ a Hair—her Cheek was in the Rose—
 
 ------------------------------------------------------------------------
 
-[Next: X](saab12)
+[Next: X](saab12.md)

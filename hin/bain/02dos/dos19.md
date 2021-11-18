@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos18)  [Next](dos20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos18)  [Next](dos20.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ down: that is enough.
 
 ------------------------------------------------------------------------
 
-[Next: Dawn](dos20)
+[Next: Dawn](dos20.md)

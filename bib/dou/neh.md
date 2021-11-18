@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](ezr)  [Next](est) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](ezr)  [Next](est.md) 
 
 ------------------------------------------------------------------------
 
@@ -1574,4 +1574,4 @@ Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Esther](est)
+[Next: Esther](est.md)

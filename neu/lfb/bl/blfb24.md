@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb23)  [Next](blfb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb23)  [Next](blfb25.md) 
 
 </div>
 
@@ -317,6 +317,6 @@ grandchildren of Ali Baba were rich to the end of their lives.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Hansel and Grettel](blfb25)
+[Next: Hansel and Grettel](blfb25.md)
 
 </div>

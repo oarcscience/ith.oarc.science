@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob08)  [Next](lbob10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob08)  [Next](lbob10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -27,7 +27,7 @@ their genuineness, he appeals to the public registers and records of the
 City of Edessa in Mesopotamia, where Abgarus reigned, affirms that he
 found them written, in the Syriac language. He published a Greek
 translation of them, in his Ecclesiastical History. <span
-id="fr_35"></span>[1](#fn_35) The learned world have been much divided
+id="fr_35"></span>[1](#fn_35.md) The learned world have been much divided
 on this subject; but, notwithstanding that the erudite Grabe, with
 Archbishop Cave, Dr. Parker, and other divines, has strenuously
 contended for their admission into the canon of Scripture, they are
@@ -91,13 +91,13 @@ your disease, and give life to you, and all that are with you.
 
 ### Footnotes
 
-<span id="fn_35"></span>[62:1](lbob09.htm#fr_35) L. i. c. 13.
+<span id="fn_35"></span>[62:1](lbob09.htm#fr_35.md) L. i. c. 13.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
 [Next: The Gospel of Nicodemus, Formerly Called the Acts of Pontius
-Pilate](lbob10)
+Pilate](lbob10.md)
 
 </div>

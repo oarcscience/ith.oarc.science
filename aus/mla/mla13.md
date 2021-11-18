@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla12)  [Next](mla14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla12)  [Next](mla14.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ the old wallaroo of Mountain Ridge.
 ------------------------------------------------------------------------
 
 [Next: How the Kangaroo Got a Long Tail, and the Wombat a Flat
-Forehead](mla14)
+Forehead](mla14.md)

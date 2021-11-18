@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](eru12)  [Next](eru14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](eru12)  [Next](eru14.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -576,4 +576,4 @@ bottom.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Sundry Sabbath Regulations.](eru14)
+[Next: Chapter X: Sundry Sabbath Regulations.](eru14.md)

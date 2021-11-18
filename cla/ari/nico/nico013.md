@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico012) 
-[Next](nico014) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico012.md) 
+[Next](nico014.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ mind we call those which merit praise virtues.
 ------------------------------------------------------------------------
 
 [Next: Chapter 1. Moral virtue, like the arts, is acquired by repetition
-of the corresponding acts](nico014)
+of the corresponding acts](nico014.md)

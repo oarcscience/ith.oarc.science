@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb24)  [Next](lifb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb24)  [Next](lifb26.md) 
 
 </div>
 
@@ -300,6 +300,6 @@ From 'Le Royer Breton,' par Emile Souvestre.
 
 ------------------------------------------------------------------------
 
-[Next: The Castle of Kerglas](lifb26)
+[Next: The Castle of Kerglas](lifb26.md)
 
 </div>

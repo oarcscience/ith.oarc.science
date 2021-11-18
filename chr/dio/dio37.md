@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio36)  [Next](dio38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio36)  [Next](dio38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -17,15 +17,15 @@ Intangible Textual Heritage
 <span id="ii.v.ii"></span> <span id="page_187">p. 187</span> <span
 id="ii.v.ii-Page_187"></span>
 
-## <span id="ii.v.ii-p0.1"></span>LITURGY OF ST. DIONYSIUS, BISHOP OF THE ATHENIANS <span id="fr_134"></span>[135](#fn_134) .
+## <span id="ii.v.ii-p0.1"></span>LITURGY OF ST. DIONYSIUS, BISHOP OF THE ATHENIANS <span id="fr_134"></span>[135](#fn_134.md) .
 
 <span id="ii.v.ii-p1"></span>1st. The Prayer before the Pax <span
-id="fr_135"></span>[136](#fn_135) .
+id="fr_135"></span>[136](#fn_135.md) .
 
-<span id="ii.v.ii-p2"></span>Pr. <span id="fr_136"></span>[137](#fn_136)
+<span id="ii.v.ii-p2"></span>Pr. <span id="fr_136"></span>[137](#fn_136.md)
 "O Lord God, Who art simplex, not compound, and hidden in essence
 sublime! God the Father, from Whom all paternity which is in heaven and
-earth is named <span id="fr_137"></span>[138](#fn_137) , Source of
+earth is named <span id="fr_137"></span>[138](#fn_137.md) , Source of
 Divinity, of those who participate in the Divine Nature, and Perfector
 of those who attain perfection; Good above all good, and Beautiful above
 all beautiful; Peaceful repose, Peace, Concord and Union of all souls;
@@ -286,7 +286,7 @@ rejoice in Thee; not recalling against them the memory of their sins,
 nor bringing to their memory the things which they have foolishly done.
 For no one is tied to the flesh, and at the same time, innocent in Thy
 sight. For One alone has been seen on earth without sin, Jesus Christ,
-Thine Only-begotten Son; Simplex <span id="fr_138"></span>[139](#fn_138)
+Thine Only-begotten Son; Simplex <span id="fr_138"></span>[139](#fn_138.md)
 , who came to composition, through whom we also have hope of obtaining
 mercy." P. "Keep quiet." Pr. (*bending*) "Remitting our and their
 voluntary sins, knowingly or ignorantly committed. Be propitious, O
@@ -364,22 +364,22 @@ Thy most holy Spirit." P. "Amen." D. "Bless, O Lord."
 
 ### Footnotes
 
-<span id="fn_134"></span>[187:135](dio37.htm#fr_134) <span
+<span id="fn_134"></span>[187:135](dio37.htm#fr_134.md) <span
 id="ii.v.ii-p0.2"></span>Liturgiarum Orien. Collectio E. Renaudoti. Par.
 1847. T, ii. p. 201.
 
-<span id="fn_135"></span>[187:136](dio37.htm#fr_135) <span
+<span id="fn_135"></span>[187:136](dio37.htm#fr_135.md) <span
 id="ii.v.ii-p1.1"></span>D. N., C. 1. § 4; C. II. § 11.
 
-<span id="fn_136"></span>[187:137](dio37.htm#fr_136) <span
+<span id="fn_136"></span>[187:137](dio37.htm#fr_136.md) <span
 id="ii.v.ii-p2.1"></span>Pr. = Priest. D. = Deacon. P. = Populus.
 
-<span id="fn_137"></span>[187:138](dio37.htm#fr_137) <span
+<span id="fn_137"></span>[187:138](dio37.htm#fr_137.md) <span
 id="ii.v.ii-p2.2"></span>C. II. § 5.
 
-<span id="fn_138"></span>[198:139](dio37.htm#fr_138) <span
+<span id="fn_138"></span>[198:139](dio37.htm#fr_138.md) <span
 id="ii.v.ii-p4.1"></span>D. N., C. I. § 4.
 
 ------------------------------------------------------------------------
 
-[Next: Objections to Genuineness](dio38)
+[Next: Objections to Genuineness](dio38.md)

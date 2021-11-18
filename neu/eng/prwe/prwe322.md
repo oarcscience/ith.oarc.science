@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe321)  [Next](prwe323) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe321)  [Next](prwe323.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ died, at a very advanced age, in poor circumstances.
 
 ------------------------------------------------------------------------
 
-[Next: Cornish Teeny-Tiny](prwe323)
+[Next: Cornish Teeny-Tiny](prwe323.md)

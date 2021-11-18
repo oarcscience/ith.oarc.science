@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002TX7KEA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002TX7KEA/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002TX7KEA/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](uljc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](uljc.txt.gz)
+[Contents](#contents)    [Start Reading](uljc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](uljc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ have been told similar stories by monks. Possibly the monks were just
 catering to what the visitor wanted to hear, a known problem for field
 ethnologists. The controversial Ahmadiyya Muslims believe that Jesus
 survived the crucifixion, and then fled to India, where he died of old
-age. The 'channeled' [Aquarian Gospel of Jesus](../agjc/index) repeats
+age. The 'channeled' [Aquarian Gospel of Jesus](../agjc/index.md) repeats
 Notovitchs' narrative with much embellishment. The "Jesus in India"
 story was also incorporated by Elizabeth Clare Prophet.
 
@@ -102,32 +102,32 @@ East and India which remain to be explored.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](uljc00)  
-[Contents](uljc01)  
-[Preface](uljc02)  
-[A Journey in Thibet](uljc03)  
-[Ladak](uljc04)  
-[A Festival in a Gonpa](uljc05)  
+<span id="contents"></span> [Title Page](uljc00.md)  
+[Contents](uljc01.md)  
+[Preface](uljc02.md)  
+[A Journey in Thibet](uljc03.md)  
+[Ladak](uljc04.md)  
+[A Festival in a Gonpa](uljc05.md)  
 <span id="section_000"></span>
 
 ### The Life of Saint Issa
 
-[I](uljc06)  
-[II](uljc07)  
-[III](uljc08)  
-[IV](uljc09)  
-[V](uljc10)  
-[VI](uljc11)  
-[VII](uljc12)  
-[VIII](uljc13)  
-[IX](uljc14)  
-[X](uljc15)  
-[XI](uljc16)  
-[XII](uljc17)  
-[XIII](uljc18)  
-[XIV](uljc19)  
+[I](uljc06.md)  
+[II](uljc07.md)  
+[III](uljc08.md)  
+[IV](uljc09.md)  
+[V](uljc10.md)  
+[VI](uljc11.md)  
+[VII](uljc12.md)  
+[VIII](uljc13.md)  
+[IX](uljc14.md)  
+[X](uljc15.md)  
+[XI](uljc16.md)  
+[XII](uljc17.md)  
+[XIII](uljc18.md)  
+[XIV](uljc19.md)  
 
  
 
-[Resumé](uljc20)  
-[Explanatory Notes](uljc21)  
+[Resumé](uljc20.md)  
+[Explanatory Notes](uljc21.md)  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop37)  [Next](pop39) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop37)  [Next](pop39.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ unexpected way as is hardly to be credited.
 relate.
 
 'Thus is the Symbol (II) compared to a Lily <span
-id="fr_2"></span>[\*](#fn_2);
+id="fr_2"></span>[\*](#fn_2.md);
 
 <span id="page_96">p. 96</span>
 
@@ -207,7 +207,7 @@ possibly be ragged and torn at the sides.
 
 ### Footnotes
 
-<span id="fn_2"></span>[95:\*](pop38.htm#fr_2) The Royal Symbol of
+<span id="fn_2"></span>[95:\*](pop38.htm#fr_2.md) The Royal Symbol of
 France was in ancient times three Toads. It is not certain when Lilies
 were first adopted instead, but Charles VI introduced the three Lilies
 that have since then been identified with the French Royal Coat of Arms.
@@ -215,4 +215,4 @@ that have since then been identified with the French Royal Coat of Arms.
 
 ------------------------------------------------------------------------
 
-[Next: Another Prognostication by Theophrastus Paracelsus](pop39)
+[Next: Another Prognostication by Theophrastus Paracelsus](pop39.md)

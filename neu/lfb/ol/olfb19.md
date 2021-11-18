@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb18)  [Next](olfb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb18)  [Next](olfb20.md) 
 
 </div>
 
@@ -357,6 +357,6 @@ kingdoms henceforth became one.
 
 ------------------------------------------------------------------------
 
-[Next: The Billy Goat and the King](olfb20)
+[Next: The Billy Goat and the King](olfb20.md)
 
 </div>

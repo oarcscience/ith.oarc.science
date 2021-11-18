@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc07)  [Next](mlc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc07)  [Next](mlc09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ than two feet. Mounted on a black unicorn, he traverses millions of
 miles in the twinkling of an eye.
 
 <span id="img_p198"></span> <span align="CENTER"> [![](tn/p198.jpg)  
-Click to enlarge](img/p198.jpg)</span>  
+Click to enlarge](img/p198.jpg.md)</span>  
 Wên Chung, Minister of Thunder
 
 His origin is ascribed to a man named Wên Chung, generally known as Wên
@@ -203,7 +203,7 @@ substances.
 ## The Origin of the Spirit of Lightning
 
 Tung Wang Kung, the King of the Immortals, was playing at
-pitch-pot  <span id="fr_22"></span>[1](#fn_22) with Yü Nü. He lost;
+pitch-pot  <span id="fr_22"></span>[1](#fn_22.md) with Yü Nü. He lost;
 whereupon Heaven smiled, and from its half-open mouth a ray of light
 came out. This was lightning; it is regarded as <span id="page_204">p.
 204</span> feminine because it is supposed to come from the earth, which
@@ -217,7 +217,7 @@ directs the wind which comes from its mouth in any direction he pleases.
 
 There are various ideas regarding the nature of this deity. He is
 regarded as a stellar divinity under the control of the star
-Ch’i,  <span id="fr_23"></span>[2](#fn_23) because the wind blows at the
+Ch’i,  <span id="fr_23"></span>[2](#fn_23.md) because the wind blows at the
 time when the moon leaves that celestial mansion. He is also said to be
 a dragon called Fei Lien, at first one of the supporters of the rebel
 Ch’ih Yu, who was defeated by Huang Ti. Having been transformed into a
@@ -322,16 +322,16 @@ interceder with Yü Ti that he is prayed to for all sorts of benefits.
 
 ### Footnotes
 
-<span id="fn_22"></span>[208:1](mlc08.htm#fr_22) See
-[45](mlc03.htm#page_45).
+<span id="fn_22"></span>[208:1](mlc08.htm#fr_22.md) See
+[45](mlc03.htm#page_45.md).
 
-<span id="fn_23"></span>[208:2](mlc08.htm#fr_23) In Sagittarius, or the
+<span id="fn_23"></span>[208:2](mlc08.htm#fr_23.md) In Sagittarius, or the
 Sieve; Chinese constellation of the Leopard.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Myths of the Waters](mlc09)
+[Next: Chapter VII. Myths of the Waters](mlc09.md)
 
 </div>

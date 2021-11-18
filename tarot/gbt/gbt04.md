@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](gbt03)  [Next](gbt05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](gbt03)  [Next](gbt05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ the figurative symbol for it is the trefoil (French
 *trèfle*)--*tri-folio*--and Mr. Ouspensky draws the wands bearing leaves
 which in many instances appear to be threefold--at least they should be.
 The trefoil or shamrock has always been considered a luck-charm,
-*Porte-bonheur*. <span id="fr_5"></span>[\*](#fn_5)
+*Porte-bonheur*. <span id="fr_5"></span>[\*](#fn_5.md)
 
 <span id="page_18">p. 18</span>
 
@@ -1223,11 +1223,11 @@ square.
 
 ### Footnotes
 
-<span id="fn_5"></span>[17:\*](gbt04.htm#fr_5) In a very special way the
+<span id="fn_5"></span>[17:\*](gbt04.htm#fr_5.md) In a very special way the
 four-bladed shamrock is considered to convey luck. This evidently means
 that the luck will be effective or real, practical, when "the Three fall
 into the Four" according to the old saying in the Stanza's of Dzyan.
 
 ------------------------------------------------------------------------
 
-[Next: The Greater Arcana](gbt05)
+[Next: The Greater Arcana](gbt05.md)

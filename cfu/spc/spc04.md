@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](spc03)  [Next](spc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](spc03)  [Next](spc05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sacred Places in China*, by Carl F. Kupfer, \[1911\], at Intangible
 Textual Heritage
 
@@ -111,7 +111,7 @@ stick, brands them on top of their shaven heads.
 
 <span id="img_02500"></span> <span align="CENTER"> [![NGN REN TSZ—THE
 MONASTERY OF BENEVOLENCE.](tn/02500.jpg)  
-Click to enlarge](img/02500.jpg)  
+Click to enlarge](img/02500.jpg.md)  
 NGN REN TSZ—THE MONASTERY OF BENEVOLENCE.  
 </span>
 
@@ -150,4 +150,4 @@ hear them ringing even now.
 
 ------------------------------------------------------------------------
 
-[Next: Kiu Hua Shan—Or The Nine-Lotus-Flower Mountain](spc05)
+[Next: Kiu Hua Shan—Or The Nine-Lotus-Flower Mountain](spc05.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc12) 
-[Next](dsc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc12.md) 
+[Next](dsc14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Lessons for Developing Spiritual Consciousness*, by A.P. Mukerji,
 \[1911\], at Intangible Textual Heritage
 
@@ -106,7 +106,7 @@ give him a lift. He is the object of our compassion and not of hatred.
 Remember always: Those who hate others for being evil are themselves
 evil. The face of another man is the mirror in which I dress my own. If
 I am evil, I shall see others as such. To the jaundiced eye everything
-[appears](errata.htm#8) yellow. My eyes axe blinded by my own evil
+[appears](errata.htm#8.md) yellow. My eyes axe blinded by my own evil
 tendencies. Perhaps I am beginning to fight evil in myself. Hence when I
 see another worse than myself, I see evil in a magnified form. I
 therefore feel my indignation rise up against it and I hate the evil
@@ -311,7 +311,7 @@ each stroke shall drive it deeper." This stage is the fifth stage:
 *Nirudha:* self-controlled: takes or does not take, chooses as he wills
 according to the illumined will. This man can effectively practice Yoga.
 This stage corresponds to activity on the spiritual plane. Further
-[Patanjali](errata.htm#9) tells in that "*these stages of mind are on
+[Patanjali](errata.htm#9.md) tells in that "*these stages of mind are on
 every plane*."
 
 <span id="page_86">p. 86</span>
@@ -370,4 +370,4 @@ and always. <span class="smallcaps">you are of god</span>.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Constructive Idealism](dsc14)
+[Next: Chapter XII. Constructive Idealism](dsc14.md)

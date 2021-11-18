@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas088n)  [Next](jas090n)   
- \[[89. Ballinder Bull.](jas089)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas088n)  [Next](jas090n.md)   
+ \[[89. Ballinder Bull.](jas089.md)\]
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ in 97.
 
 ------------------------------------------------------------------------
 
-[Next: Note 90. Bird Arinto.](jas090n)
+[Next: Note 90. Bird Arinto.](jas090n.md)

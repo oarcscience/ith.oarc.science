@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](wil01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](wil01.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_cover"></span>
 
 [![Front Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover  
 
 <div align="center">
@@ -79,7 +79,7 @@ Being Pages from the Life of the Swami Vivekananda. Crown 8vo.</p>
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 # THE WEB OF INDIAN LIFE
@@ -121,7 +121,7 @@ attribution is left intact in all copies.
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 First Edition, May 1904
@@ -170,4 +170,4 @@ OF NATIONAL RIGHTEOUSNESS
 
 ------------------------------------------------------------------------
 
-[Next: Contents](wil01)
+[Next: Contents](wil01.md)

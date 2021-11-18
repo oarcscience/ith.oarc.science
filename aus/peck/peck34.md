@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck33)  [Next](peck35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck33)  [Next](peck35.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ is a reference to a sea and an island in the centre of Australia.
 
 ------------------------------------------------------------------------
 
-[Next: Mulgani](peck35)
+[Next: Mulgani](peck35.md)

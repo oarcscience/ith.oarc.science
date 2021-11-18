@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar131) [Next](gbar133)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar131) [Next](gbar133.md)
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ house and ministered unto him.
 
 ------------------------------------------------------------------------
 
-[Next](gbar133)
+[Next](gbar133.md)

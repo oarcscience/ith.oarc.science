@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma15)  [Next](sma17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma15)  [Next](sma17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -189,7 +189,7 @@ nobles of the West.
 The English historian, Brompton, who wrote in the 12th century, asserts
 that the founders of the order of the Temple had originally been members
 of that of St. John. We know not what degree of credit this may be
-entitled to <span id="fr_69"></span>[\*](#fn_69), but it is certain that
+entitled to <span id="fr_69"></span>[\*](#fn_69.md), but it is certain that
 there had been as yet nothing of a military character in this last, and
 that its assumption of such a character was an imitation of the society
 of the Temple; for, urged by the praise which they saw lavished on the
@@ -222,7 +222,7 @@ their raiment was such as the
  
 
 <span id="img_19100"></span> <span align="CENTER"> [![](tn/19100.jpg)  
-Click to enlarge](img/19100.jpg)</span>
+Click to enlarge](img/19100.jpg.md)</span>
 
  
 
@@ -269,7 +269,7 @@ time past an admirer of its objects and deeds. Three years before this
 time he had written a letter to the Count of Champagne, who had entered
 the order of the Templars, praising the act as one of eminent merit in
 the sight of God. He now, on occasion of the visit of the Master <span
-id="fr_70"></span>[\*](#fn_70), wrote, at his request, an eloquent work,
+id="fr_70"></span>[\*](#fn_70.md), wrote, at his request, an eloquent work,
 exhorting the brethren of the new order to persevere in their toilsome
 but highly laudable task of fighting against the tyranny of the
 heathens, and commending their piety to the attention of all the
@@ -328,7 +328,7 @@ holy sepulchre, armed with swords, and well skilled in war."
 
 Though in these expressions of St. Bernard there may be perceived some
 marks of rhetorical exaggeration, they prove
-[incontestably](errata.htm#13) the high character and sincere virtue of
+[incontestably](errata.htm#13.md) the high character and sincere virtue of
 the founders pf the society of the Templars, and that it was organized
 and regulated with none but worthy objects in view. They also offer, if
 such were required, an additional proof that the crusade was no
@@ -359,9 +359,9 @@ of Pope Eugenius III., who, in 1146, appointed the Templars to wear a
 *red* cross on the breast, as a symbol of the martyrdom to which they
 stood constantly exposed: the cross worn on their black mantles, by the
 knights of St. John, was, as we have seen <span
-id="fr_71"></span>[\*](#fn_71), *white*. The order now assumed, or were
+id="fr_71"></span>[\*](#fn_71.md), *white*. The order now assumed, or were
 assigned, a peculiar banner, formed of cloth, striped black and. white,
-called in old French, *Bauseant* <span id="fr_72"></span>[†](#fn_72),
+called in old French, *Bauseant* <span id="fr_72"></span>[†](#fn_72.md),
 which word became the battle-cry of the knights of the Temple, and often
 struck terror into the hearts of the infidels. It bore on it the ruddy
 cross of the order, and the pious and humble inscription, *Non nobis,
@@ -434,7 +434,7 @@ consideration to which they had so early attained.
 
 <span id="img_19800"></span> <span align="CENTER"> [![Seal of the
 Templars.](tn/19800.jpg)  
-Click to enlarge](img/19800.jpg)  
+Click to enlarge](img/19800.jpg.md)  
 Seal of the Templars.  
 </span>
 
@@ -444,21 +444,21 @@ Seal of the Templars.
 
 ### Footnotes
 
-<span id="fn_69"></span>[190:\*](sma16.htm#fr_69) The other writers of
+<span id="fn_69"></span>[190:\*](sma16.htm#fr_69.md) The other writers of
 that century agree in the account given above. Brompton's authority has
 been preferred by some modern writers, who probably wished to pay their
 court to the order of Malta.
 
-<span id="fn_70"></span>[193:\*](sma16.htm#fr_70) Wilken I. 28, gives
+<span id="fn_70"></span>[193:\*](sma16.htm#fr_70.md) Wilken I. 28, gives
 1135 as the year in which this piece was written.
 
-<span id="fn_71"></span>[196:\*](sma16.htm#fr_71) See [p.
-187](#page_187). Sir W. Scott describes his Templar in Ivanhoe, as
+<span id="fn_71"></span>[196:\*](sma16.htm#fr_71.md) See [p.
+187](#page_187.md). Sir W. Scott describes his Templar in Ivanhoe, as
 wearing a white mantle with a *black* cross of eight points. The
 original cross of the Hospitaliers, we may observe, had not eight
 points. That of the order of Malta was of this form.
 
-<span id="fn_72"></span>[196:†](sma16.htm#fr_72) *Bauseant*, or
+<span id="fn_72"></span>[196:†](sma16.htm#fr_72.md) *Bauseant*, or
 *Bausant*, was, in old French, a piebald horse, or a hoi se marked white
 and black. Ducange, Roquefort. The word is still preserved with its
 original meaning in the Scotch dialect, in the form *Bawsent*:
@@ -479,4 +479,4 @@ form of the present French word, *Bienseant*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](sma17)
+[Next: Chapter III](sma17.md)

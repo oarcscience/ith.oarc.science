@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb07)  [Next](isb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb07)  [Next](isb09.md) 
 
 ------------------------------------------------------------------------
 
@@ -411,4 +411,4 @@ wretched hovels lying together look really picturesque and pleasing.
 
 ------------------------------------------------------------------------
 
-[Next: Rainy Days at Glengariff.](isb09)
+[Next: Rainy Days at Glengariff.](isb09.md)

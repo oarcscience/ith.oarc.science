@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc13)  [Next](busc15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc13)  [Next](busc15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -23,7 +23,7 @@ Heritage
 
 <span class="small"><span class="smallcaps">On</span> the subject of
 this discourse and the two following compare the Introduction, [p.
-14](busc03.htm#page_14).</span>
+14](busc03.htm#page_14.md).</span>
 
 <span class="smallcaps">Thus</span> have I heard: The Lord was once
 dwelling near Sāvatthi, at Jetavana in the park of Anāthapindika. Now
@@ -116,6 +116,6 @@ elder Mālunkyāputta applauded the words of the Lord. (*Majjh. Nik.* I.
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Questions of Uttiya](busc15)
+[Next: XII. The Questions of Uttiya](busc15.md)
 
 </div>

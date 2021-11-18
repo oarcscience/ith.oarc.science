@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc01)  [Next](ogc03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc01)  [Next](ogc03.md) 
 
 ------------------------------------------------------------------------
 
@@ -230,4 +230,4 @@ the kind of ‘association’ some philosophers assert it to be.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](ogc03)
+[Next: Chapter 3](ogc03.md)

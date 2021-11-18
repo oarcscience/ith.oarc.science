@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp41)  [Next](dmp43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp41)  [Next](dmp43.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ the constellation of Leo.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XI](dmp43)
+[Next: Verso Col. XI](dmp43.md)

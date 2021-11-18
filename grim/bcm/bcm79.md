@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm78)  [Next](bcm80) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm78)  [Next](bcm80.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ it is confined to the evocation of those souls who might be reasonably
 supposed to be damned, and it involves revolting rites. It assumes that
 the evil liver carries with him into the next world the desires which
 have depraved him here, and it allures him by his persistent affinities
-with the relinquished body. <span id="fr_280"></span>[1](#fn_279) In
+with the relinquished body. <span id="fr_280"></span>[1](#fn_279.md) In
 this way the use of blood came to be regarded as indispensable, because
 blood was held to be the medium of physical life; so also a portion of
 the body itself, whether flesh or bone, was prescribed in the rite.
@@ -107,7 +107,7 @@ conjure and exorcise thee, Spirit of N. deceased, to answer my liege
 demands, being obedient unto these sacred ceremonies, on pain of
 everlasting torment and distress. . . . BERALD, BEROALD, BALBIN, GAB,
 GABOR, AGABA*. Arise, arise, I charge and command thee*. <span
-id="fr_281"></span>[1](#fn_280)
+id="fr_281"></span>[1](#fn_280.md)
 
 After these forms and ceremonies, the ghost or apparition will become
 visible, and will answer any questions put to it by the exorcist. But if
@@ -359,22 +359,22 @@ will readily occur to the reader.
 Here ends the Complete Grimoire of Black Magic
 
 <span id="img_33300"></span> [![](tn/generic.jpg)  
-Click to view](img/33300.jpg)  
+Click to view](img/33300.jpg.md)  
 APOPHIS.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_279"></span>[324:1](bcm79.htm#fr_280) The more intimate the
+<span id="fn_279"></span>[324:1](bcm79.htm#fr_280.md) The more intimate the
 knowledge possessed by the operator concerning the deceased person, the
 more easily he was supposed to call him up.
 
-<span id="fn_280"></span>[326:1](bcm79.htm#fr_281) The process by which
+<span id="fn_280"></span>[326:1](bcm79.htm#fr_281.md) The process by which
 the soul was called back into the dead body prior to its interment
 constituted necromancy proper. The calling up of the shadow was
 sometimes termed sciomancy.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](bcm80)
+[Next: Conclusion](bcm80.md)

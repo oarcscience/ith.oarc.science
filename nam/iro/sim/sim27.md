@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim26)  [Next](sim28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim26)  [Next](sim28.md) 
 
 ------------------------------------------------------------------------
 
@@ -160,4 +160,4 @@ from that time animals and birds roam the world at will.
 
 ------------------------------------------------------------------------
 
-[Next: Wolf and the Old Woman's Grandson](sim28)
+[Next: Wolf and the Old Woman's Grandson](sim28.md)

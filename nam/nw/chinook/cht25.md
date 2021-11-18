@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht24)  [Next](cht26) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht24)  [Next](cht26.md) 
 
 ------------------------------------------------------------------------
 
@@ -198,4 +198,4 @@ guardian spirit obtained salmon.
 
 ------------------------------------------------------------------------
 
-[Next: The Elk Hunter](cht26)
+[Next: The Elk Hunter](cht26.md)

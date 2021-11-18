@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib39)  [Next](shib41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib39)  [Next](shib41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ date of the *Historical* to that of the *Legal* year, when speaking of
 any day between January 1st and March 25th, thus:
 
 <span id="img_13900"></span> ![January 30, 1648 = 1648, the Civil
-(Legal) year. 1649 = 1649, the Historical Year](img/13900.jpg)
+(Legal) year. 1649 = 1649, the Historical Year](img/13900.jpg.md)
 
 Others wrote it thus: January. 30, 1645-9. The lower, or last, figure
 always indicated the year according to the present calculation.
@@ -187,4 +187,4 @@ days earlier than English.
 
 ------------------------------------------------------------------------
 
-[Next: Knight Templar Grand Jurisdictions of the United States](shib41)
+[Next: Knight Templar Grand Jurisdictions of the United States](shib41.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb19)  [Next](blfb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb19)  [Next](blfb21.md) 
 
 </div>
 
@@ -512,6 +512,6 @@ Charming and Princess Goldilocks lived happily ever after.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: The History of Whittington](blfb21)
+[Next: The History of Whittington](blfb21.md)
 
 </div>

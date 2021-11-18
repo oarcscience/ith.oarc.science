@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srp12)  [Next](srp14) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srp12)  [Next](srp14.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 
 A few words about the measures of the songs may be considered useful.
 The following specimens are given by Sakharof in his *Pyesni Russkago
-Naroda* <span id="fr_341"></span>[1](#fn_341).
+Naroda* <span id="fr_341"></span>[1](#fn_341.md).
 
 The Khorovod Songs are as follows:--
 
@@ -33,7 +33,7 @@ The "Dance Songs " are usually in one of the following metres;--
 
 Of the Svyatki songs, sung at Christmas, Sakharof gives the following
 specimens in his *Skazaniya Russkago Naroda* <span
-id="fr_342"></span>[1](#fn_342), the work to which such frequent
+id="fr_342"></span>[1](#fn_342.md), the work to which such frequent
 reference has already been made:--
 
 <span id="img_44100"></span> ![](img/44100.jpg)
@@ -52,10 +52,10 @@ reference has already been made:--
 
 ### Footnotes
 
-<span id="fn_341"></span>[440:1](srp13.htm#fr_341) II. 51-53.
+<span id="fn_341"></span>[440:1](srp13.htm#fr_341.md) II. 51-53.
 
-<span id="fn_342"></span>[441:1](srp13.htm#fr_342) I. iii. 10
+<span id="fn_342"></span>[441:1](srp13.htm#fr_342.md) I. iii. 10
 
 ------------------------------------------------------------------------
 
-[Next: Index](srp14)
+[Next: Index](srp14.md)

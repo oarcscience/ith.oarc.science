@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](icintr02)  [Next](pl1) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](icintr02)  [Next](pl1.md) 
 
 ------------------------------------------------------------------------
 
@@ -227,7 +227,7 @@ enumeration of things, some of which may be called Yang, and others Yin,
 without any other cause for so thinking being given. Such a method of
 procedure would be unbecoming any philosopher, and it cannot be denied
 to be unworthy of Confucius, the chief of philosophers <span
-id="fr_30"></span>[31:1](#fn_30).'
+id="fr_30"></span>[31:1](#fn_30.md).'
 
 I could not characterise Confucius as 'the chief of philosophers,'
 though he was a great moral philosopher, and has been since he went out
@@ -268,10 +268,10 @@ for instance, and even whole trigrams are distinguished as kang and
 'spirits,' or 'spiritual beings,' occurs, but has not its physical
 signification of 'the contracting and expanding energies or operations
 of nature.' The names Yin and Yang, mentioned above on pp.
-[15](icintr02.htm#page_15), [16](icintr02.htm#page_16), do not present
+[15](icintr02.htm#page_15), [16](icintr02.htm#page_16.md), do not present
 themselves.
 
-I delineated, on [p. 11](icintr02.htm#page_11), the eight trigrams of
+I delineated, on [p. 11](icintr02.htm#page_11.md), the eight trigrams of
 Fû-hsî, and gave their names., with the natural objects they are said to
 represent, but did. not mention the attributes, the virtutes, ascribed
 to them. Let me submit here a table of them, with those qualities, and
@@ -301,7 +301,7 @@ represent things so different as wind and wood? At a very early time the
 Chinese spoke of 'the five elements,' meaning water, fire, wood, metal,
 and earth; but the trigrams were not made to indicate them, and it is
 the general opinion that there is no reference to them in the Yî <span
-id="fr_31"></span>[33:1](#fn_31).
+id="fr_31"></span>[33:1](#fn_31.md).
 
 Again, the attributes assigned to the trigrams are learned mainly from
 this Appendix and the fifth. We do not readily get familiar with them,
@@ -348,7 +348,7 @@ through; and, for the most part, with success. The conviction grows upon
 the student that the writer has on the whole apprehended the mind of
 king Wăn.
 
-I stated, on [p. 32](#page_32), that the name kwei-shăn occurs
+I stated, on [p. 32](#page_32.md), that the name kwei-shăn occurs
 
 |                    |
 |--------------------|
@@ -378,7 +378,7 @@ Kwei-shăn?' He replied, 'When he uses the style of "heaven and earth,"
 he is speaking of the result generally; but in ascribing it to the
 Kwei-shăn, he is representing the traces of their effective interaction,
 as if there were men (that is, some personal agency) bringing it
-about <span id="fr_32"></span>[35:1](#fn_32).' This solution merely
+about <span id="fr_32"></span>[35:1](#fn_32.md).' This solution merely
 explains the language away. When we come to the fifth Appendix, we shall
 understand better the views of the period when these treatises were
 produced.
@@ -530,7 +530,7 @@ always done to myself, that neither in the Text, nor in the first two
 Appendixes, does the character called Yî, which gives its name to the
 classic, once appear. It is the symbol of 'change,' and is formed from
 the character for 'the sun' placed over that for 'the moon <span
-id="fr_33"></span>[38:1](#fn_33).' As the sun gives place to the moon,
+id="fr_33"></span>[38:1](#fn_33.md).' As the sun gives place to the moon,
 and the moon to the sun, so is change always proceeding in the phenomena
 of nature and the experiences of society. We meet with the character
 nearly fifty times in this Appendix;--applied most commonly to the Text
@@ -544,7 +544,7 @@ sentence or oracle concerning them delivered by king Wăn or his son.
 There is therefore the system of the Yî as well as the book of the Yî.
 The definition of the name which is given in one paragraph will suit
 them both:--'Production and reproduction is what is called (the process
-of) change <span id="fr_34"></span>[39:1](#fn_34).' In nature there is
+of) change <span id="fr_34"></span>[39:1](#fn_34.md).' In nature there is
 no vacuum. When anything is displaced, what displaces it takes the empty
 room. And in the lineal figures, the strong and the weak lines push each
 other out.
@@ -560,7 +560,7 @@ phenomena show a wonderful harmony and concurrence. We read:--
 
 'The Yî was made on a principle of accordance with heaven and earth, and
 shows us therefore, without rent or confusion, the course (of things) in
-heaven and earth <span id="fr_35"></span>[39:2](#fn_35).'
+heaven and earth <span id="fr_35"></span>[39:2](#fn_35.md).'
 
 'There is a similarity between the sage and heaven and earth; and hence
 there is no contrariety in him to them. His knowledge embraces all
@@ -570,7 +570,7 @@ of circumstances, without being carried away by their current; he
 rejoices in Heaven, and knows its ordinations; and hence he has no
 anxieties. He rests in his own (present) position, and cherishes the
 spirit of generous benevolence; and hence he can love (without
-reserve) <span id="fr_36"></span>[39:3](#fn_36).'
+reserve) <span id="fr_36"></span>[39:3](#fn_36.md).'
 
 '(Through the Yî) he embraces, as in a mould or enclosure, the
 transformations of heaven and earth without any error; by an
@@ -590,14 +590,14 @@ then considered in his mind how they could be
 <span id="page_40">p. 40</span>
 
 figured, and (by means of the diagrams) represented their material forms
-and their character <span id="fr_37"></span>[40:1](#fn_37).'
+and their character <span id="fr_37"></span>[40:1](#fn_37.md).'
 
 All that is thus predicated of the sage, or ancient sages, though the
 writer probably had Fû-hsî in his mind, is more than sufficiently
 extravagant, and reminds us of the language in 'the Doctrine of the
 Mean,' that 'the sage, able to assist the transforming and nourishing
 powers of heaven and earth, may with heaven and earth form a
-ternion <span id="fr_38"></span>[40:2](#fn_38).'
+ternion <span id="fr_38"></span>[40:2](#fn_38.md).'
 
 I quoted largely, in the second chapter, from this Appendix the accounts
 which it gives of the formation of the lineal figures. There is no
@@ -625,11 +625,11 @@ ago, in the days of Fû-hsî, for I cannot repress doubts of his
 historical personality; but as soon as we tread the borders of something
 like credible history, we find it existing. In the Shû King, in a
 document that purports to be of the twenty-third century B. C. <span
-id="fr_39"></span>[40:3](#fn_39), divination by means of the
+id="fr_39"></span>[40:3](#fn_39.md), divination by means of the
 tortoise-shell is mentioned; and somewhat later we find that method
 continuing, and also divination by the lineal figures, manipulated by
-means of the stalks of a plant <span id="fr_40"></span>[40:4](#fn_40),
-the Ptarmica Sibirica <span id="fr_41"></span>[40:5](#fn_41), which is
+means of the stalks of a plant <span id="fr_40"></span>[40:4](#fn_40.md),
+the Ptarmica Sibirica <span id="fr_41"></span>[40:5](#fn_41.md), which is
 still cultivated on and about the grave of Confucius, where I have
 myself seen it growing.
 
@@ -640,7 +640,7 @@ The object of the divination, it should be acknowledged,
 | Object of the divination |
 
 was not to discover future events absolutely, as if they could be known
-beforehand <span id="fr_42"></span>[40:6](#fn_42), but
+beforehand <span id="fr_42"></span>[40:6](#fn_42.md), but
 
 <span id="page_41">p. 41</span>
 
@@ -650,13 +650,13 @@ for the actual practice the stalks of the plant were necessary; and I am
 almost afraid to write that this Appendix teaches that they were
 produced by Heaven of such a nature as to be fit for the purpose.
 'Heaven,' it says, in the 73rd paragraph of Section i, quoted above on
-[p. 14](icintr02.htm#page_14), 'Heaven produced the spirit-like things.'
+[p. 14](icintr02.htm#page_14.md), 'Heaven produced the spirit-like things.'
 The things were the tortoise and the plant, and in paragraph 68, the
 same quality of being shăn, or 'spirit-like,' is ascribed to them.
 Occasionally, in the field of Chinese literature, we meet with doubts as
 to the efficacy of divination, and the folly of expecting any revelation
 of the character of the future from an old tortoise-shell and a handful
-of withered twigs <span id="fr_43"></span>[41:1](#fn_43); but when this
+of withered twigs <span id="fr_43"></span>[41:1](#fn_43.md); but when this
 Appendix was made, the writer had not attained to so much common sense.
 The stalks were to him 'spirit-like,' possessed of
 
@@ -679,7 +679,7 @@ the numbers derived from the River Map or scheme. Odd numbers gave
 strong or undivided lines, and even numbers gave the weak or divided. An
 important part was played in combining the lines, and forming the
 hexagrams by the four emblematic symbols, to which the numbers 9, 8, 7,
-6 were appropriated <span id="fr_44"></span>[42:1](#fn_44). The figures
+6 were appropriated <span id="fr_44"></span>[42:1](#fn_44.md). The figures
 having been formed, recourse was had for their interpretation to the
 thwan of king Wăn, and the emblematic sentences of the duke of *K*âu.
 This was all the part which numbers played in the divination by the Yî,
@@ -696,7 +696,7 @@ material existence, and of their
 
 modifications and different states, then the doctrine of the philosopher
 of Samos was different from that of the Yî <span
-id="fr_45"></span>[43:1](#fn_45), in which numbers come in only as aids
+id="fr_45"></span>[43:1](#fn_45.md), in which numbers come in only as aids
 in divining to form the hexagrams. Of course all divination is vain, nor
 is the method of the Yî less absurd than any other. The Chinese
 themselves have given it up in all circles above those of the
@@ -709,9 +709,9 @@ It is in this Appendix that we first meet with the
 |------------------------|
 | The names Yin and Yang |
 
-names yin and yang <span id="fr_46"></span>[43:2](#fn_46), of which I
-have spoken briefly on pp. [15](icintr02.htm#page_15),
-[16](icintr02.htm#page_16). Up to this point, instead of them, the names
+names yin and yang <span id="fr_46"></span>[43:2](#fn_46.md), of which I
+have spoken briefly on pp. [15](icintr02.htm#page_15.md),
+[16](icintr02.htm#page_16.md). Up to this point, instead of them, the names
 for the two elementary forms of the lines have been kang and *z*âu,
 which I have translated by 'strong and weak,' and which also occur here
 ten times. The following attempt to explain these different names
@@ -749,7 +749,7 @@ for proof of what is asserted. It took more than a thousand years after
 the closing of the Yî to fashion in the Confucian school the doctrine of
 a primary matter. We do not find it fully developed till the era of the
 Sung dynasty, and in our eleventh and twelfth centuries <span
-id="fr_47"></span>[44:1](#fn_47). To find it in the Yî is the logical,
+id="fr_47"></span>[44:1](#fn_47.md). To find it in the Yî is the logical,
 or rather illogical, error of putting 'the last first.' Neither creation
 nor cosmogony was before the mind of the author whose work I am
 analysing. His theme is the Yî,--the ever-changing phenomena of nature
@@ -759,7 +759,7 @@ task our powers;--nothing deeper or more abstruse.
 <span id="page_45">p. 45</span>
 
 As in the first Appendix, so in this, the name kwei-shăn occurs twice;
-in [paragraphs](errata.htm#0) 21 and 50 of Section i. In the
+in [paragraphs](errata.htm#0.md) 21 and 50 of Section i. In the
 
 |                    |
 |--------------------|
@@ -774,7 +774,7 @@ gives for them 'demons and gods;' and Dr. Medhurst said on the passage,
 of human life The kwei-shăns are brought about by the dissolution of the
 human frame, and consist of the expanding and ascending shăn, which
 rambles about in space, and of the contracted and shrivelled kwei, which
-reverts to earth and nonentity <span id="fr_48"></span>[45:1](#fn_48).'
+reverts to earth and nonentity <span id="fr_48"></span>[45:1](#fn_48.md).'
 
 This is pretty much the same view as my own, though I would not here use
 the phraseology of 'expanding and contracting.' Canon McClatchie is
@@ -791,10 +791,10 @@ place, as if by a spiritual agency, in nature. Medhurst contents himself
 on it with giving the explanation of *K*û Hsî, that 'the kwei-shăns
 refer to the contractions and expandings, the recedings and approachings
 of the productive and completing powers of the even and odd
-numbers <span id="fr_49"></span>[45:2](#fn_49).' Canon McClatchie does
+numbers <span id="fr_49"></span>[45:2](#fn_49.md).' Canon McClatchie does
 not follow his translation of the former passage and give here 'demons
 and gods,' but we have 'the Demon-god (i.e. Shang Tî) <span
-id="fr_50"></span>[45:3](#fn_50).' I shall refer to this version when
+id="fr_50"></span>[45:3](#fn_50.md).' I shall refer to this version when
 considering the fifth Appendix.
 
 <span id="page_46">p. 46</span>
@@ -808,7 +808,7 @@ substantive, now as an adjective,
 
 and again as a verb. I must refer the reader to the translation and
 notes for its various significance, subjoining in a note a list of the
-places where it occurs <span id="fr_51"></span>[46:1](#fn_51).
+places where it occurs <span id="fr_51"></span>[46:1](#fn_51.md).
 
 Much more might be said on the third Appendix, for the writer touches on
 many other topics, antiquarian and speculative, but a review of them
@@ -821,7 +821,7 @@ Treatise' has never been ascribed to the author of that Doctrine,
 between B. C. 400 and 450.
 
 7\. The fourth Appendix, the seventh wing' of the Yî, need not detain us
-long. As I stated on [p. 27](#page_27), it is
+long. As I stated on [p. 27](#page_27.md), it is
 
 |                     |
 |---------------------|
@@ -847,7 +847,7 @@ magniloquence of Mencius. It is said, for instance, by Žze-sze, of
 <span id="page_47">p. 47</span>
 
 the sage, that 'he is the equal or correlate of Heaven <span
-id="fr_52"></span>[47:1](#fn_52),' and in this Appendix we have the
+id="fr_52"></span>[47:1](#fn_52.md),' and in this Appendix we have the
 sentiment expanded into the following:--
 
 'The great man is he who is in harmony in his attributes with heaven and
@@ -857,13 +857,13 @@ is calamitous with the spiritual agents. He may precede Heaven, and
 Heaven will not act in opposition to him; he may follow Heaven, but will
 act only as Heaven at the time would do. If Heaven will not act in
 opposition to him, how much less will man! how much less will the
-spiritual agents <span id="fr_53"></span>[47:2](#fn_53)!'
+spiritual agents <span id="fr_53"></span>[47:2](#fn_53.md)!'
 
 One other passage may receive our consideration:--
 
 'The family that accumulates goodness is sure to have superabundant
 happiness, and the family that accumulates evil is sure to have
-superabundant misery <span id="fr_54"></span>[47:3](#fn_54).'
+superabundant misery <span id="fr_54"></span>[47:3](#fn_54.md).'
 
 The language makes us think of the retribution of good and evil as
 taking place in the family, and not in the individual; the judgment is
@@ -967,16 +967,16 @@ between heaven and earth.
 
 It does not treat of the genesis of the other six trigrams by the union
 of the two, but is a rude attempt to explain their forms when they were
-once existing <span id="fr_55"></span>[49:1](#fn_55). According to the
+once existing <span id="fr_55"></span>[49:1](#fn_55.md). According to the
 idea of changes, *Kh*ien and Khwăn are continually varying their forms
 by their interaction. As here represented, the
 
 <span id="page_50">p. 50</span>
 
-other trigrams are not 'produced <span id="fr_56"></span>[50:1](#fn_56)'
+other trigrams are not 'produced <span id="fr_56"></span>[50:1](#fn_56.md)'
 by a marriage-union, but from the application, literally the seeking, of
 one of them of Khwăn as much as of *Kh*ien--addressed to the other <span
-id="fr_57"></span>[50:2](#fn_57).
+id="fr_57"></span>[50:2](#fn_57.md).
 
 This way of speaking of the trigrams, moreover, as father and mother,
 sons and daughters, is not so old as Fû-hsî; nor have we any real proof
@@ -1007,14 +1007,14 @@ a progress
 through the trigrams, and as being effected by His Spirit. The
 description assumes the peculiar arrangement of the trigrams, ascribed
 to king Win, and which I have exhibited above, on page 33 <span
-id="fr_58"></span>[50:3](#fn_58). Father Regis adopts the general view
+id="fr_58"></span>[50:3](#fn_58.md). Father Regis adopts the general view
 
 <span id="page_51">p. 51</span>
 
 of Chinese critics that Win purposely altered the earlier and
 established arrangement, as a symbol of the disorganisation and disorder
 into which the kingdom had fallen <span
-id="fr_59"></span>[51:1](#fn_59). But it is hard to say why a man did
+id="fr_59"></span>[51:1](#fn_59.md). But it is hard to say why a man did
 something more than 3000 years ago, when he has not himself said
 anything about it. So far as we can judge from this Appendix, the author
 thought that king Win altered the existing order and position of the
@@ -1104,7 +1104,7 @@ I wish that the Treatise on the Trigrams had ended with the 10th
 paragraph. The writer had gradually risen to a noble elevation of
 thought from which he plunges into a slough of nonsensical remarks which
 it would be difficult elsewhere to parallel. I have referred on [p.
-31](#page_31) to the judgment of P. Regis about them. He could not
+31](#page_31.md) to the judgment of P. Regis about them. He could not
 receive them as from Confucius, and did not take the trouble to
 translate them, and transfer them to his own pages, My plan required me
 to translate everything published in China as a part of the Yî King; but
@@ -1195,13 +1195,13 @@ it; it is more a 'jeu d'esprit' than anything else.
 
 ### Footnotes
 
-<span id="fn_30"></span>[31:31:1](icintr03.htm#fr_30) Regis' Y-King,
+<span id="fn_30"></span>[31:31:1](icintr03.htm#fr_30.md) Regis' Y-King,
 vol. ii, p 576.
 
-<span id="fn_31"></span>[33:33:1](icintr03.htm#fr_31) See *K*âo Yî's Hâi
+<span id="fn_31"></span>[33:33:1](icintr03.htm#fr_31.md) See *K*âo Yî's Hâi
 Yü Žhung Khâo, Book I, art. 3 (1790).
 
-<span id="fn_32"></span>[35:35:1](icintr03.htm#fr_32) See the 'Collected
+<span id="fn_32"></span>[35:35:1](icintr03.htm#fr_32.md) See the 'Collected
 Comments' on hexagram 55 in the Khang-hsî edition of the Yî (App. I).
 'The traces of making and transformation' mean the ever changing
 phenomena of growth and decay. Our phrase 'Vestiges of Creation' might
@@ -1210,38 +1210,38 @@ Dr. Medhurst on the hexagrams 15 and 55 in his 'Dissertation on the
 Theology of the Chinese,' pp. 107-112. In hexagram 15, Canon McClatchie
 for kwei-shăn gives gods and demons;' in hexagram 55, the Demon-gods.'
 
-<span id="fn_33"></span>[38:38:1](icintr03.htm#fr_33) <span
+<span id="fn_33"></span>[38:38:1](icintr03.htm#fr_33.md) <span
 id="img_03800"></span> ![](img/03800.jpg) = <span id="img_03801"></span>
 ![](img/03801.jpg), the sun, placed over <span id="img_03802"></span>
 ![](img/03802.jpg), a form of the old <span id="img_03803"></span>
 ![](img/03803.jpg) (= <span id="img_03804"></span> ![](img/03804.jpg)),
 the moon.
 
-<span id="fn_34"></span>[39:39:1](icintr03.htm#fr_34) III, i, 29 (chap.
+<span id="fn_34"></span>[39:39:1](icintr03.htm#fr_34.md) III, i, 29 (chap.
 5. 6).
 
-<span id="fn_35"></span>[39:39:2](icintr03.htm#fr_35) III, i, 20 (chap.
+<span id="fn_35"></span>[39:39:2](icintr03.htm#fr_35.md) III, i, 20 (chap.
 4. 1).
 
-<span id="fn_36"></span>[39:39:3](icintr03.htm#fr_36) III, i, 22.
+<span id="fn_36"></span>[39:39:3](icintr03.htm#fr_36.md) III, i, 22.
 
-<span id="fn_37"></span>[40:40:1](icintr03.htm#fr_37) III, i, 38 (chap.
+<span id="fn_37"></span>[40:40:1](icintr03.htm#fr_37.md) III, i, 38 (chap.
 8. 1).
 
-<span id="fn_38"></span>[40:40:2](icintr03.htm#fr_38) Doctrine of the
+<span id="fn_38"></span>[40:40:2](icintr03.htm#fr_38.md) Doctrine of the
 Mean, chap. xxii.
 
-<span id="fn_39"></span>[40:40:3](icintr03.htm#fr_39) The Shû II, ii,
+<span id="fn_39"></span>[40:40:3](icintr03.htm#fr_39.md) The Shû II, ii,
 18.
 
-<span id="fn_40"></span>[40:40:4](icintr03.htm#fr_40) The Shû V, iv, 20,
+<span id="fn_40"></span>[40:40:4](icintr03.htm#fr_40.md) The Shû V, iv, 20,
 31.
 
-<span id="fn_41"></span>[40:40:5](icintr03.htm#fr_41) See Williams'
+<span id="fn_41"></span>[40:40:5](icintr03.htm#fr_41.md) See Williams'
 Syllabic Dictionary on the character <span id="img_04000"></span>
 ![](img/04000.jpg).
 
-<span id="fn_42"></span>[40:40:6](icintr03.htm#fr_42) Canon McClatchie
+<span id="fn_42"></span>[40:40:6](icintr03.htm#fr_42.md) Canon McClatchie
 (first paragraph of his Introduction) says:--'The Yî is regarded by the
 Chinese with peculiar veneration . . . . as containing a mine of <span
 id="page_41">p. 41</span> knowledge, which, if it were possible to
@@ -1264,7 +1264,7 @@ Examination of Doubts,' and concludes thus:--'When the tortoise-shell
 and the stalks are both opposed to the views of men, there will be good
 fortune in stillness, and active operations will be unlucky.'
 
-<span id="fn_43"></span>[41:41:1](icintr03.htm#fr_43) A remarkable
+<span id="fn_43"></span>[41:41:1](icintr03.htm#fr_43.md) A remarkable
 instance is given by Lîu *K*î (of the Ming dynasty, in the fifteenth
 century) in a story about Shâo Phing, who had been marquis of Tung-ling
 in the time of Žhin, but was degraded tinder Han. Having gone once to
@@ -1278,7 +1278,7 @@ but things, and man is more intelligent than things. Why not listen to
 yourself instead of seeking (to learn) from things?' The whole piece is
 in many of the collections of Kû Wăn, or Elegant Writing.
 
-<span id="fn_44"></span>[42:42:1](icintr03.htm#fr_44) These numbers are
+<span id="fn_44"></span>[42:42:1](icintr03.htm#fr_44.md) These numbers are
 commonly derived from the River Scheme, in the outer sides of which are
 the corresponding marks:-- <span id="img_04200"></span>
 ![](img/04200.jpg), opposite to <span id="img_04201"></span>
@@ -1297,18 +1297,18 @@ becomes the number symbolical of the undivided line, as representing
 Khien <span id="img_tri111"></span> ![](img/tri111.jpg) and 6 of the
 divided line, as representing Khwăn <span id="img_tri000"></span>
 ![](img/tri000.jpg) But the late delineation of the map, as given on [p.
-15](icintr02.htm#page_15), renders all this uncertain, so far as the
+15](icintr02.htm#page_15.md), renders all this uncertain, so far as the
 scheme is concerned. The numbers of the hsiang, however, may have been
 fixed, must have been fixed indeed, at an early period.
 
-<span id="fn_45"></span>[43:43:1](icintr03.htm#fr_45) See the account of
+<span id="fn_45"></span>[43:43:1](icintr03.htm#fr_45.md) See the account of
 Pythagoras and his philosophy in Lewes' History of Philosophy, pp. 18-38
 (1871).
 
-<span id="fn_46"></span>[43:43:2](icintr03.htm#fr_46) See Section i, 24,
+<span id="fn_46"></span>[43:43:2](icintr03.htm#fr_46.md) See Section i, 24,
 32, 35; Section ii, 28, 29, 30, 35.
 
-<span id="fn_47"></span>[44:44:1](icintr03.htm#fr_47) As a specimen of
+<span id="fn_47"></span>[44:44:1](icintr03.htm#fr_47.md) As a specimen of
 what the ablest Sung scholars teach, I may give the remarks (from the I
 Collected Comments') of *K*û *K*ăn (of the same century as *K*û Hsî,
 rather earlier) on the 4th paragraph of Appendix V:--In the Yî there is
@@ -1333,28 +1333,28 @@ movements of their (several) ways, and therefore there are separate
 places for the yin and yang, and reciprocal uses of the hard and the
 soft.'
 
-<span id="fn_48"></span>[45:45:1](icintr03.htm#fr_48) Dissertation on
+<span id="fn_48"></span>[45:45:1](icintr03.htm#fr_48.md) Dissertation on
 the Theology of the Chinese, pp. 111, 112.
 
-<span id="fn_49"></span>[45:45:2](icintr03.htm#fr_49) Theology of the
+<span id="fn_49"></span>[45:45:2](icintr03.htm#fr_49.md) Theology of the
 Chinese, p. 122.
 
-<span id="fn_50"></span>[45:45:3](icintr03.htm#fr_50) Translation of the
+<span id="fn_50"></span>[45:45:3](icintr03.htm#fr_50.md) Translation of the
 Yî King, p. 312.
 
-<span id="fn_51"></span>[46:46:1](icintr03.htm#fr_51) Section i, 23, 32,
+<span id="fn_51"></span>[46:46:1](icintr03.htm#fr_51.md) Section i, 23, 32,
 51, 58, 62, 64, 67, 68, 69, 73, 76, 81; Section ii, 11, 15, 33, 34, 41,
 45.
 
-<span id="fn_52"></span>[47:47:1](icintr03.htm#fr_52) *K*ung-yung xxxi,
+<span id="fn_52"></span>[47:47:1](icintr03.htm#fr_52.md) *K*ung-yung xxxi,
 4.
 
-<span id="fn_53"></span>[47:47:2](icintr03.htm#fr_53) Section i, 34.
+<span id="fn_53"></span>[47:47:2](icintr03.htm#fr_53.md) Section i, 34.
 This is the only paragraph where kwei-shăn occurs.
 
-<span id="fn_54"></span>[47:47:3](icintr03.htm#fr_54) Section ii, 5.
+<span id="fn_54"></span>[47:47:3](icintr03.htm#fr_54.md) Section ii, 5.
 
-<span id="fn_55"></span>[49:49:1](icintr03.htm#fr_55) This view seems to
+<span id="fn_55"></span>[49:49:1](icintr03.htm#fr_55.md) This view seems to
 be in accordance with that of Wû *Kh*ăng (of the Yüan dynasty), as given
 in the 'Collected Comments' of the Khang-hsî edition. The editors
 express their approval of it in preference to the interpretation of *K*û
@@ -1362,22 +1362,22 @@ Hsî, who understood the whole to refer to the formation of the lineal
 figures, the 'application' being 'the manipulation of the stalks to find
 the proper line.'
 
-<span id="fn_56"></span>[50:50:1](icintr03.htm#fr_56) But the Chinese
+<span id="fn_56"></span>[50:50:1](icintr03.htm#fr_56.md) But the Chinese
 term Shăng <span id="img_05000"></span> ![](img/05000.jpg), often
 rendered 'produced,' must not be pressed, so as to determine the method
 of production, or the way in which one thing comes from another.
 
-<span id="fn_57"></span>[50:50:2](icintr03.htm#fr_57) The significance
+<span id="fn_57"></span>[50:50:2](icintr03.htm#fr_57.md) The significance
 of the mythological paragraph is altogether lost in Canon McClatchie's
 version:--'*Kh*ien is Heaven, and hence he is called Father; Khwăn is
 Earth, and hence she is called Mother; *K*ăn is the first male, and
 hence he is called the eldest son,' &c. &c.
 
-<span id="fn_58"></span>[50:50:3](icintr03.htm#fr_58) The reader will
+<span id="fn_58"></span>[50:50:3](icintr03.htm#fr_58.md) The reader will
 understand the difference in the two arrangements better by a reference
 to the circular representations of them on Plate III.
 
-<span id="fn_59"></span>[51:51:1](icintr03.htm#fr_59) E. g. 1, 23,
+<span id="fn_59"></span>[51:51:1](icintr03.htm#fr_59.md) E. g. 1, 23,
 24:--'Observant etiam philosophi (lib. 15 Sinicae philosophiae Sing-11)
 principem. Wăn-wang antiquum octo symbolorum, unde aliae figurae omnes
 pendent, ordinem invertisse; quo ipsa imperii suis temporibus subversio
@@ -1394,4 +1394,4 @@ corruptiones.' See also pp. 67, 68.
 
 ------------------------------------------------------------------------
 
-[Next: Plate I](pl1)
+[Next: Plate I](pl1.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rio00)
+[Contents](#contents)    [Start Reading](rio00.md)
 
 ------------------------------------------------------------------------
 
@@ -63,23 +63,23 @@ God as if this followed from Sacred Scripture." The Oberammergau script
 has been rewritten to soften the anti-Semitism and to remind viewers
 that Jesus was Jewish (!). However, the issue keeps coming up. Recently
 the movie adaptation of [The Dolorous Passion of Our Lord Jesus
-Christ](../../chr/pjc/index) revived the controversy.
+Christ](../../chr/pjc/index.md) revived the controversy.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](rio00)  
-[Contents](rio01)  
-[Foreword](rio02)  
-[I. Introductory](rio03)  
-[II. In the Forenoon](rio04)  
-[III. In the Forenoon (Continued)](rio05)  
-[IV. In the Afternoon](rio06)  
-[V. The End](rio07)  
-[VI. The Summary](rio08)  
+<span id="contents"></span> [Title Page](rio00.md)  
+[Contents](rio01.md)  
+[Foreword](rio02.md)  
+[I. Introductory](rio03.md)  
+[II. In the Forenoon](rio04.md)  
+[III. In the Forenoon (Continued)](rio05.md)  
+[IV. In the Afternoon](rio06.md)  
+[V. The End](rio07.md)  
+[VI. The Summary](rio08.md)  
 
  
 
-[What of the Old Testament Prophecies of Christ?](rio09)  
-[Talmudic Parallels to New Testament Teachings](rio10)  
-[Paul—The Founder and Spreader of Christology](rio11)  
-[Index](rio12)  
+[What of the Old Testament Prophecies of Christ?](rio09.md)  
+[Talmudic Parallels to New Testament Teachings](rio10.md)  
+[Paul—The Founder and Spreader of Christology](rio11.md)  
+[Index](rio12.md)  

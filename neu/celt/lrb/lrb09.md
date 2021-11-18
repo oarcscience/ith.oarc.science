@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb08)  [Next](lrb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb08)  [Next](lrb10.md) 
 
 ------------------------------------------------------------------------
 
@@ -519,7 +519,7 @@ near thy manor?
 <span id="img_17000"></span>
 
 [![GWENNOLAÏK AND NOLA](tn/17000.jpg)  
-Click to enlarge](img/17000.jpg)  
+Click to enlarge](img/17000.jpg.md)  
 GWENNOLAÏK AND NOLA  
 
  
@@ -567,4 +567,4 @@ for Christian influence.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Popular Legends of Brittany](lrb10)
+[Next: Chapter VII: Popular Legends of Brittany](lrb10.md)

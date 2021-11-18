@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh40)  [Next](ulh42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh40)  [Next](ulh42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -43,11 +43,11 @@ troll an amorous ditty:
 <div style="margin-left: 32px">
 
 Kii na ka ipo \* \* \*  
-Mahele-hele i ka la o Kona! <span id="fr_503"></span>[a](#fn_487)  
-O Kona, kai a ke Akua. <span id="fr_504"></span>[b](#fn_488)  
-Elua la, huli ka Wai-opua, <span id="fr_505"></span>[c](#fn_489)  
+Mahele-hele i ka la o Kona! <span id="fr_503"></span>[a](#fn_487.md)  
+O Kona, kai a ke Akua. <span id="fr_504"></span>[b](#fn_488.md)  
+Elua la, huli ka Wai-opua, <span id="fr_505"></span>[c](#fn_489.md)  
 5 Nehe i ke kula,  
-Leha iluna o Wai-aloha. <span id="fr_506"></span>[d](#fn_490)  
+Leha iluna o Wai-aloha. <span id="fr_506"></span>[d](#fn_490.md)  
 Kani ka aka a ka ua i ka laau,  
 Hoolaau ana i ke aloha ilaila.  
 Pili la, a pili i ka’u manu--  
@@ -55,8 +55,8 @@ Pili la, a pili i ka’u manu--
 Ola ke kini o-lalo.  
 Hana i ka mea he ipo.  
 A hui e hui la!  
-Hui Koolau-wahine <span id="fr_507"></span>[e](#fn_491) o
-Pua-ke-í! <span id="fr_508"></span>[f](#fn_492)
+Hui Koolau-wahine <span id="fr_507"></span>[e](#fn_491.md) o
+Pua-ke-í! <span id="fr_508"></span>[f](#fn_492.md)
 
 </div>
 
@@ -93,28 +93,28 @@ And the hero, Ke-í.
 
 ### Footnotes
 
-<span id="fn_487"></span>[246:a](ulh41.htm#fr_503) *La o Kona*. A day of
+<span id="fn_487"></span>[246:a](ulh41.htm#fr_503.md) *La o Kona*. A day of
 Kona. i.e., of fine weather.
 
-<span id="fn_488"></span>[246:b](ulh41.htm#fr_504) *Kai a he Akua*. Sea
+<span id="fn_488"></span>[246:b](ulh41.htm#fr_504.md) *Kai a he Akua*. Sea
 of the gods, because calm.
 
-<span id="fn_489"></span>[246:c](ulh41.htm#fr_505) *Wai-opua*. A wind
+<span id="fn_489"></span>[246:c](ulh41.htm#fr_505.md) *Wai-opua*. A wind
 which changed its direction after blowing for a few days from one
 quarter.
 
-<span id="fn_490"></span>[246:d](ulh41.htm#fr_506) *Wai-aloha*. The name
+<span id="fn_490"></span>[246:d](ulh41.htm#fr_506.md) *Wai-aloha*. The name
 of a hill. In the translation the author has followed its meaning
 ("water of love").
 
-<span id="fn_491"></span>[246:e](ulh41.htm#fr_507) *Koolau-wahine*. The
+<span id="fn_491"></span>[246:e](ulh41.htm#fr_507.md) *Koolau-wahine*. The
 name of a refreshing wind, often mentioned in Hawaiian poetry; here used
 as a symbol of female affection.
 
-<span id="fn_492"></span>[246:f](ulh41.htm#fr_508) *Pua-ke-i*. The name
+<span id="fn_492"></span>[246:f](ulh41.htm#fr_508.md) *Pua-ke-i*. The name
 of a sharp, bracing wind felt on the windward side of Molokai; used here
 apparently as a symbol of strong masculine passion.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVIII.--The Hula O-niu](ulh42)
+[Next: XXXVIII.--The Hula O-niu](ulh42.md)

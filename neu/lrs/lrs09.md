@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](lrs08)  [Next](lrs10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](lrs08)  [Next](lrs10.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ urged Æschylus to compose the moving and majestic drama of *Electra.*
 Yet it has found no more potent expression than in the dreary parchment
 of the latest Spanish chronicle and the pedestrian verse of Southey's
 *Roderick, the Last of the Goths*, which draws its inspiration from the
-pseudo history of that account. <span id="fr_49"></span>[1](#fn_49)
+pseudo history of that account. <span id="fr_49"></span>[1](#fn_49.md)
 
 Before we examine the romantic material embedded in *The Chronicle of
 Don Roderic, with the Destruction of Spain,* it will be well to trace
@@ -166,7 +166,7 @@ admit the death of a popular leader, and have not legends been
 
 afloat even in our own day concerning the lamented Lord Kitchener?
 
-Tradition  <span id="fr_50"></span>[2](#fn_50) has it, then, that as
+Tradition  <span id="fr_50"></span>[2](#fn_50.md) has it, then, that as
 Roderic was about to plunge into the waters of the Guadalquivir a divine
 light burst upon him, and a secret voice adjured him to repent of his
 sins and live. Acting upon the advice of this inward counsellor, he
@@ -369,16 +369,16 @@ sinful and gylty conscience"? *Requiescas in pace, Domine Roderice*!
 
 ### Footnotes
 
-<span id="fn_49"></span>[201:1](lrs09.htm#fr_49) Unless the *Anseis de
+<span id="fn_49"></span>[201:1](lrs09.htm#fr_49.md) Unless the *Anseis de
 Carthage* be excepted—a romance which attributes the downfall of Spain
 to a son of Charlemagne, who acts as does Don Roderick. The *Anseis* is
 in French.
 
-<span id="fn_50"></span>[206:2](lrs09.htm#fr_50) As enshrined in the
+<span id="fn_50"></span>[206:2](lrs09.htm#fr_50.md) As enshrined in the
 *Crónica Sarrasyna,* of Pedro de Carrel, which founds on the *Crónica
 General* the *Chronick of the Moor Rasis,* and the *Crónica Trayana,*
 the ballads relating to Roderic are all later than this compilation.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. "Calaynos the Moor" "Gayferos" and "Count Alarcos"](lrs10)
+[Next: VIII. "Calaynos the Moor" "Gayferos" and "Count Alarcos"](lrs10.md)

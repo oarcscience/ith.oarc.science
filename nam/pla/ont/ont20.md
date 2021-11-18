@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont19)  [Next](ont21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont19)  [Next](ont21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -50,7 +50,7 @@ a splendid colouring, while its pencilled rays, streaming to
 
 <span id="img_24100"></span> <span align="CENTER"> [![IN THE SURROUNDING
 MEADOWS LARGE HERDS OF HORSES WERE QUIETLY FEEDING.](tn/24100.jpg)  
-Click to enlarge](img/24100.jpg)  
+Click to enlarge](img/24100.jpg.md)  
 IN THE SURROUNDING MEADOWS LARGE HERDS OF HORSES WERE QUIETLY FEEDING.  
 </span>
 
@@ -65,7 +65,7 @@ enormous group of coloured
 
 <span id="img_24200"></span> <span align="CENTER"> [![UPON THE SUMMIT OF
 A RIDGE WAS A SOLITARY HORSEMAN.](tn/24200.jpg)  
-Click to enlarge](img/24200.jpg)  
+Click to enlarge](img/24200.jpg.md)  
 UPON THE SUMMIT OF A RIDGE WAS A SOLITARY HORSEMAN.  
 </span>
 
@@ -75,7 +75,7 @@ in the summer's dusk.
 
 Young men, with their wives, or sweethearts, were making the rounds of
 camp on horseback singing Riding songs in unison. I heard the plaintive
-voice of young brave singing a Love <span id="fr_22"></span>[1](#fn_18)
+voice of young brave singing a Love <span id="fr_22"></span>[1](#fn_18.md)
 song near the lodge of hi sweetheart, begging her to come forth and meet
 him
 
@@ -83,7 +83,7 @@ him
 
 <span id="img_24300"></span> <span align="CENTER"> [![WAR PARTY SINGING
 “WOLFSONG”](tn/24300.jpg)  
-Click to enlarge](img/24300.jpg)  
+Click to enlarge](img/24300.jpg.md)  
 WAR PARTY SINGING “WOLFSONG”  
 </span>
 
@@ -102,7 +102,7 @@ were dancing in front of the lodge of a chief, who was under obligations
 to their society and from whom they expected a feast.
 
 Beside O-mis-tai-po-kah's tipi, a band of young men were singing a
-Wolf <span id="fr_23"></span>[1](#fn_19) song together, reviving the
+Wolf <span id="fr_23"></span>[1](#fn_19.md) song together, reviving the
 custom of former days, when an expedition was starting upon the war
 path. They stood in a circle, holding a raw hide between them, upon
 which they beat time with sticks. They sang no words, but gave the wolf
@@ -114,7 +114,7 @@ the singer with his cunning.
 
 In another part of the camp a large throng was gathered about Sepenama's
 tipi to see the Sina-paskan (Sioux dance). <span
-id="fr_24"></span>[2](#fn_20) The men and women dancers stood in
+id="fr_24"></span>[2](#fn_20.md) The men and women dancers stood in
 opposite lines, the women advancing towards the men.
 
 <span id="page_244">p. 244</span>
@@ -159,7 +159,7 @@ mother, his wife,
 
 <span id="img_24500"></span> <span align="CENTER"> [![AT TWILIGHT THE
 TIPIS WERE LIGHTED UP BY BRIGHT INSIDE FIRES.](tn/24500.jpg)  
-Click to enlarge](img/24500.jpg)  
+Click to enlarge](img/24500.jpg.md)  
 AT TWILIGHT THE TIPIS WERE LIGHTED UP BY BRIGHT INSIDE FIRES.  
 </span>
 
@@ -217,7 +217,7 @@ dreams (sources of inspiration),
 <span id="img_24700"></span> <span align="CENTER"> [![DOCTORING THE
 SICK.&lt;br&gt; Ekitowaki taking herbs from medicine
 sack.](tn/24700.jpg)  
-Click to enlarge](img/24700.jpg)  
+Click to enlarge](img/24700.jpg.md)  
 DOCTORING THE SICK.  
 Ekitowaki taking herbs from medicine sack.  
 </span>
@@ -275,7 +275,7 @@ chant. She laid the disc upon the hot
 
 <span id="img_24900"></span> <span align="CENTER"> [![DOCTORING THE
 SICK.&lt;br&gt; Awunna drumming.](tn/24900.jpg)  
-Click to enlarge](img/24900.jpg)  
+Click to enlarge](img/24900.jpg.md)  
 DOCTORING THE SICK.  
 Awunna drumming.  
 </span>
@@ -300,7 +300,7 @@ and beat the
 <span id="img_25000"></span> <span align="CENTER"> [![DOCTORING THE
 SICK.&lt;br&gt; Awunna spraying patient with yellow
 paint.](tn/25000.jpg)  
-Click to enlarge](img/25000.jpg)  
+Click to enlarge](img/25000.jpg.md)  
 DOCTORING THE SICK.  
 Awunna spraying patient with yellow paint.  
 </span>
@@ -316,16 +316,16 @@ as his substitute.
 
 ### Footnotes
 
-<span id="fn_18"></span>[242:1](ont20.htm#fr_22) Song 1. See page
-[283](ont23.htm#page_283).
+<span id="fn_18"></span>[242:1](ont20.htm#fr_22.md) Song 1. See page
+[283](ont23.htm#page_283.md).
 
-<span id="fn_19"></span>[243:1](ont20.htm#fr_23) Song 2. See page
-[513](ont43.htm#page_513).
+<span id="fn_19"></span>[243:1](ont20.htm#fr_23.md) Song 2. See page
+[513](ont43.htm#page_513.md).
 
-<span id="fn_20"></span>[243:2](ont20.htm#fr_24) Song 3. See page
-[514](ont43.htm#page_514).
+<span id="fn_20"></span>[243:2](ont20.htm#fr_24.md) Song 3. See page
+[514](ont43.htm#page_514.md).
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XVIII. An Initiation Into the Medicine Pipe
-Society](ont21)
+Society](ont21.md)

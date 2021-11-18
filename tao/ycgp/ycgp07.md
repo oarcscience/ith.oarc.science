@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp06) [Next](ycgp08)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp06) [Next](ycgp08.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ sacrifice, or to expose effigies of paper?"
 
 ------------------------------------------------------------------------
 
-[Next](ycgp08)
+[Next](ycgp08.md)
 
  
 

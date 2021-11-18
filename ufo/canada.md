@@ -907,4 +907,4 @@ Errol Bruce-Knapp UFO UpDates - Toronto
 
 ------------------------------------------------------------------------
 
-[Next: Jimmy Carter's UFO Report](carter)
+[Next: Jimmy Carter's UFO Report](carter.md)

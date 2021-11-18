@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait18)  [Next](ait20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait18)  [Next](ait20.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![T](img/16900.jpg) |
+| ![T](img/16900.jpg.md) |
 
 ANGLED-HAIR, son of the West-wind, was a giant in size and his face was
 as black as the feathers of the crow. His hair was of twisted snakes,
@@ -116,7 +116,7 @@ Tangled Hair followed her, and just as
 <span id="img_17200"></span>
 
 [![“It formed a small lake.”](tn/17200.jpg)  
-Click to enlarge](img/17200.jpg)  
+Click to enlarge](img/17200.jpg.md)  
 “It formed a small lake.”  
 
 <span id="page_173">p. 173</span>
@@ -422,4 +422,4 @@ beyond the Rocky mountains, and took the name of the North-west wind.
 
 ------------------------------------------------------------------------
 
-[Next: White Cloud's Visit to the Sun-Prince](ait20)
+[Next: White Cloud's Visit to the Sun-Prince](ait20.md)

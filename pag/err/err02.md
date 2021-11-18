@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err01)  [Next](err03) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err01)  [Next](err03.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](err03)
+[Next: Introduction](err03.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm79.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,5 +123,5 @@ has justified the present consideration and the length to which it has
 extended.
 
 <span id="img_33700"></span> [![](tn/generic.jpg)  
-Click to view](img/33700.jpg)  
+Click to view](img/33700.jpg.md)  
 THE CORNERS OF PARADISE, GUARDED BY FIRE-BREATHING URÆI.

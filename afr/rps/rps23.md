@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps22)  [Next](rps24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps22)  [Next](rps24.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ His and Her Monarch King Alpha and Queen Omega. King of Kings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 22. The Law of Resurrection](rps24)
+[Next: Chapter 22. The Law of Resurrection](rps24.md)

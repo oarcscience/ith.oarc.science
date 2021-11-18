@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm10)  [Next](bcm12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm10)  [Next](bcm12.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ assist me always, O God of my salvation.
  
 
 <span id="img_04900"></span> [![](tn/generic.jpg)  
-Click to view](img/04900.jpg)  
+Click to view](img/04900.jpg.md)  
 MYSTIC FIGURES OF THE ENCHIRIDION
 
  
@@ -220,4 +220,4 @@ product of an unskilful hand.
 
 ------------------------------------------------------------------------
 
-[Next: Section 5: Summary of Transcendental Magic](bcm12)
+[Next: Section 5: Summary of Transcendental Magic](bcm12.md)

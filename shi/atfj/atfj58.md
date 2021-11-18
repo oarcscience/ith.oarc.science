@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj57)  [Next](atfj59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj57)  [Next](atfj59.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_61"></span> <span align="CENTER"> [![61. The Spirit of the
 Willow Tree Appears to Gobei](tn/61.jpg)  
-Click to enlarge](img/61.jpg)  
+Click to enlarge](img/61.jpg.md)  
 61. The Spirit of the Willow Tree Appears to Gobei  
 </span>
 
@@ -185,6 +185,6 @@ did those who followed him.
 
 ------------------------------------------------------------------------
 
-[Next: LVII. The Camphor Tree Tomb](atfj59)
+[Next: LVII. The Camphor Tree Tomb](atfj59.md)
 
 </div>

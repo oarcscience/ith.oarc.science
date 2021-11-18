@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws17)  [Next](cws19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws17)  [Next](cws19.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### No. XIV
 
-#### CONCERNING THE GENIUS OR DAIMON <span id="fr_76"></span>[1](#fn_76)
+#### CONCERNING THE GENIUS OR DAIMON <span id="fr_76"></span>[1](#fn_76.md)
 
 ##### PART I
 
@@ -53,7 +53,7 @@ times to be appointed and engagements to be made for certain hours,
 because they may be elsewhere at any moment. These spirits, moreover,
 know nothing of the Gods. Their very names are secrets from them, and if
 they have heard them they are, but names to them. <span
-id="fr_77"></span>[1](#fn_77) They are unable to grasp or conceive of
+id="fr_77"></span>[1](#fn_77.md) They are unable to grasp or conceive of
 anything beyond the atmosphere of their own circle. It is true that they
 speak of God, but it is without understanding the meaning of the word.
 The more negative the mind of the individual, the more ready and apt he
@@ -182,7 +182,7 @@ be safe. The genius of
 each one knows about another person only so much as that other's genius
 chooses to reveal.
 
-##### PART 2 <span id="fr_78"></span>[1](#fn_78)
+##### PART 2 <span id="fr_78"></span>[1](#fn_78.md)
 
 Now, there are two kinds of memory, the memory of the organism and the
 memory of the soul. The first is possessed by all creatures. The second,
@@ -249,7 +249,7 @@ act of adoration. And above, in the fumes arising from the spirits of
 the blood, were misty colossal shapes, half-formed, from the waist
 upwards, and resembling the Gods. And he said "These are Astrals. And
 thus will they do until the end of the world." <span
-id="fr_79"></span>[1](#fn_79)
+id="fr_79"></span>[1](#fn_79.md)
 
 After this instruction concerning the degradation of religion through
 the materialisation of the spiritual doctrine of sacrifice, he
@@ -315,24 +315,24 @@ Spirit.
 
 ### Footnotes
 
-<span id="fn_76"></span>[36:1](cws18.htm#fr_76) London, November 1880.
+<span id="fn_76"></span>[36:1](cws18.htm#fr_76.md) London, November 1880.
 Spoken in trance.    E. M.
 
 See *Life of Anna Kingsford*, vol. i, pp. 388-415, relating
 "Conversations with the Genii."    S. H. H.
 
-<span id="fn_77"></span>[37:1](cws18.htm#fr_77) One of their commonest
+<span id="fn_77"></span>[37:1](cws18.htm#fr_77.md) One of their commonest
 modes of deception is by the assumption of divine names; but their
 utterances are always pretentious and inane.    E. M.
 
-<span id="fn_78"></span>[40:1](cws18.htm#fr_78) London, May 28, 1881.
+<span id="fn_78"></span>[40:1](cws18.htm#fr_78.md) London, May 28, 1881.
 Received in sleep. Referred to in *Life of Anna Kingsford*, vol. ii, pp.
 12-14.
 
-<span id="fn_79"></span>[41:1](cws18.htm#fr_79) Meaning, "the end of
+<span id="fn_79"></span>[41:1](cws18.htm#fr_79.md) Meaning, "the end of
 materialism in Religion" (see Part I, No. V (2), p. 15, note).    S. H.
 H.
 
 ------------------------------------------------------------------------
 
-[Next: No. XV: Concerning The ''Powers Of The Air''](cws19)
+[Next: No. XV: Concerning The ''Powers Of The Air''](cws19.md)

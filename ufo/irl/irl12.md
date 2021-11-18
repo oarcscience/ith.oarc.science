@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl11)  [Next](irl13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl11)  [Next](irl13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 #### Battle to the Death
 
 At distances of a hundred miles and more the battle was joined at last.
-We surrounded the old fire-head, <span id="fr_32"></span>[33](#fn_32)
+We surrounded the old fire-head, <span id="fr_32"></span>[33](#fn_32.md)
 ex-Elder Zeit, of Atlan in his center-Mu lair and succeeded in cutting
 him off without alarming Tean City or any other post so far as we could
 judge. We knew the dero would not use the destructive machines to kill
@@ -34,7 +34,7 @@ ones-time Atlan stronghold held was throwing fire and death through
 every boring we could approach him by. Nor-men died by the thousands
 (and they are not enamored of death for they have much to live for!)
 before we finally brought up enough shorter <span
-id="fr_33"></span>[34](#fn_33) ray to ground
+id="fr_33"></span>[34](#fn_33.md) ray to ground
 
 <span id="page_99">p. 99</span>
 
@@ -44,7 +44,7 @@ hideout was a super arsenal!
 Now our own needle rays concentrated on a single spot in the old
 fortress’ metal walls. That metal, we knew, had been hardened in the
 past by subjecting it to exd flows of great strength. <span
-id="fr_34"></span>[35](#fn_34) It would resist most rays, but it was
+id="fr_34"></span>[35](#fn_34.md) It would resist most rays, but it was
 just a matter of throwing enough dis at a small enough opening point
 till the metal began to blaze and flow in a stream.
 
@@ -158,7 +158,7 @@ signs of some final development that might be dangerous.
 Then as I watched for it came the thing that is always feared in battle;
 the unseen factor that suddenly upsets all calculation. From somewhere
 the dero had unearthed a tremendous levitator. <span
-id="fr_35"></span>[36](#fn_35) We ourselves had a few with us to get the
+id="fr_35"></span>[36](#fn_35.md) We ourselves had a few with us to get the
 heavy stuff over tough going; but this one was a monster, once used in
 construction. This thing began lifting
 
@@ -308,7 +308,7 @@ kept track of me.
 
 "Zeit's joker never materialized, Mutan . . . and your reward for
 diverting the vortice balls will not be forgotten. It is a good
-religion, the word 'reward'. <span id="fr_36"></span>[37](#fn_36) Do not
+religion, the word 'reward'. <span id="fr_36"></span>[37](#fn_36.md) Do not
 forget it."
 
 <span id="page_107">p. 107</span>
@@ -387,11 +387,11 @@ THE END
 
 ### Footnotes
 
-<span id="fn_32"></span>[98:33](irl12.htm#fr_32) The word "fire-head"
+<span id="fn_32"></span>[98:33](irl12.htm#fr_32.md) The word "fire-head"
 used here does not mean that Zeit was a hothead, or impetuous, or any
 other similar modern meaning of the word. It has a deeper signiflicance,
 denoting his mental condition. For a complete definition the reader is
-referred to footnote [17](irl04.htm#fn_16). Old Zeit's head, his brain,
+referred to footnote [17](irl04.htm#fn_16.md). Old Zeit's head, his brain,
 was infected by the ever-fire of the sun, and the infection was so
 derogatory to this thinking processes that the only possible result was
 detrimental thought culminating in murder, the most detrimental of all
@@ -400,14 +400,14 @@ accepted word of our English language, which has as its root the ancient
 Lemurian word "dero." Note that the ancient meaning has come down
 unchanged!—Ed.
 
-<span id="fn_33"></span>[98:34](irl12.htm#fr_33) By the word "shorter"
+<span id="fn_33"></span>[98:34](irl12.htm#fr_33.md) By the word "shorter"
 Mutan Mion does not mean the rays brought up were not as long, but that
 they were capable of "shorting" the energy flows from Zeit's generators.
 They must have been ionizing rays which served in much the same capacity
 as lightning rods, grounding the destructive beams hurled at the Nor-men
 before they were able to strike their target.—Ed.
 
-<span id="fn_34"></span>[99:35](irl12.htm#fr_34) This principle of
+<span id="fn_34"></span>[99:35](irl12.htm#fr_34.md) This principle of
 "hardening" metal and stone so that they become unbreakable (used to
 prevent the roofs of the cavern cities from collapsing) has been
 mentioned several times in this manuscript. It is accomplished by
@@ -420,7 +420,7 @@ interstices between the particles of matter, a greater density and
 therefore a greater cohesiveness is obtained. This cohesiveness is
 actually the "in-flow" of gravity.—Ed.
 
-<span id="fn_35"></span>[102:36](irl12.htm#fr_35) A levitator is a
+<span id="fn_35"></span>[102:36](irl12.htm#fr_35.md) A levitator is a
 portable lifter beam generator. Some of them are very small, and can be
 carried in the palm of the hand, or in the pocket. They were in common
 use for all tasks in Mu, and from Mr. Shaver comes the amazing statement
@@ -447,7 +447,7 @@ and a still more sensational one wherein he placed his face among
 burning coals, bathing it as in water; without any sign of a burn. Is it
 possible that Home "discovered" his abilities in an ancient cave?—Ed.
 
-<span id="fn_36"></span>[106:37](irl12.htm#fr_36) This reference to the
+<span id="fn_36"></span>[106:37](irl12.htm#fr_36.md) This reference to the
 word "reward" as a religion is mystifying. and Mr. Shaver has never
 explained it. However, our thought on it is what might be termed the
 basis for all religions—the incentive to do good because of the hope of
@@ -462,4 +462,4 @@ demonstrates.—Ed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Quest of the Darkome](irl13)
+[Next: Chapter I. Quest of the Darkome](irl13.md)

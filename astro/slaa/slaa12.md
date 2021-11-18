@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](slaa11)  [Next](slaa13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](slaa11)  [Next](slaa13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sun Lore of All Ages*, by William Tyler Olcott, \[1914\], at Intangible
 Textual Heritage
 
@@ -110,7 +110,7 @@ One of the most popular solar superstitions, and one that has survived
 even to this day, is the notion that the sun dances when it rises on
 Easter Day. In the middle districts of Ireland the peasants rise at an
 early hour Easter morning to witness this phenomenon, which they say is
-in honour of the resurrection. Brand <span id="fr_76"></span>[1](#fn_76)
+in honour of the resurrection. Brand <span id="fr_76"></span>[1](#fn_76.md)
 tells us this "is not confined to the humble labourer and his family,
 but is scrupulously observed by many highly respectable and wealthy
 families."
@@ -184,7 +184,7 @@ significance, the word "Beltane" being a derivative of
 the compound word "Baal," the Phœnician word for sun, and "tein," the
 Gælic word for fire.
 
-Lady Wilde <span id="fr_77"></span>[1](#fn_77) says that "the Beltane
+Lady Wilde <span id="fr_77"></span>[1](#fn_77.md) says that "the Beltane
 dance, where the participants circle about a bush hung with ribbons and
 garlands, or about a lighted bush or bonfire, celebrating the returning
 power of the sun, is still kept up in parts of Ireland on May Day and
@@ -360,10 +360,10 @@ danger.
 
 ### Footnotes
 
-<span id="fn_76"></span>[256:1](slaa12.htm#fr_76) *Popular Antiquities*,
+<span id="fn_76"></span>[256:1](slaa12.htm#fr_76.md) *Popular Antiquities*,
 John Brand.
 
-<span id="fn_77"></span>[259:1](slaa12.htm#fr_77) *Ancient Legends of
+<span id="fn_77"></span>[259:1](slaa12.htm#fr_77.md) *Ancient Legends of
 Ireland*, Lady Wilde.
 
 <div class="filenav">
@@ -371,6 +371,6 @@ Ireland*, Lady Wilde.
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. Solar Significance of Burial Customs.
-Orientation](slaa13)
+Orientation](slaa13.md)
 
 </div>

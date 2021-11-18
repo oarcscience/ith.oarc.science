@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ctdi05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ctdi05.md) 
 
 ------------------------------------------------------------------------
 
 ### YUMA CREATION MYTH, AS TOLD BY A DIEGUEÑO.
 
 An old Yuma told the Diegueño interpreter Sant how the gods Tuchaipa and
-Yokomat <span id="fr_11"></span>[2](#fn_12) first came into being.
+Yokomat <span id="fr_11"></span>[2](#fn_12.md) first came into being.
 
 When they came forth from the Earth mother, they had to pass through the
 ocean, which then covered the land; and the first-born, Tuchaipa, came
@@ -49,5 +49,5 @@ WATERBURY, CONN.
 
 ### Footnotes
 
-<span id="fn_12"></span>[236:2](ctdi06.htm#fr_11) Or Yokomatis. Tuchaipa
+<span id="fn_12"></span>[236:2](ctdi06.htm#fr_11.md) Or Yokomatis. Tuchaipa
 and Yokomat are the Diegueño creator-gods.

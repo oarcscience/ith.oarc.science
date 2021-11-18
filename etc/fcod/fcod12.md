@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod11)  [Next](fcod13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod11)  [Next](fcod13.md) 
 
 ------------------------------------------------------------------------
 
@@ -578,4 +578,4 @@ divulged their names and he died protesting his innocence.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Plague](fcod13)
+[Next: Chapter X: Plague](fcod13.md)

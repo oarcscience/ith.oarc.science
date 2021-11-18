@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc079) 
-[Next](motc081) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc079.md) 
+[Next](motc081.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ the Nûñnë'hï, who had come to help their friends, the Cherokee.
 
 ------------------------------------------------------------------------
 
-[Next: 81. Tsul'kälû, The Slant-eyed Giant](motc081)
+[Next: 81. Tsul'kälû, The Slant-eyed Giant](motc081.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Commentary](../index)  [Index](index)   
-[Nehemiah](neh)  [Job](job)
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Commentary](../index)  [Index](index.md)   
+[Nehemiah](neh)  [Job](job.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[Esther Introduction](est000)  
-[Esther Chapter 1](est001)  
-[Esther Chapter 2](est002)  
-[Esther Chapter 3](est003)  
-[Esther Chapter 4](est004)  
-[Esther Chapter 8](est008)  
-[Esther Chapter 9](est009)  
-[Esther Chapter 10](est010)  
+[Esther Introduction](est000.md)  
+[Esther Chapter 1](est001.md)  
+[Esther Chapter 2](est002.md)  
+[Esther Chapter 3](est003.md)  
+[Esther Chapter 4](est004.md)  
+[Esther Chapter 8](est008.md)  
+[Esther Chapter 9](est009.md)  
+[Esther Chapter 10](est010.md)  

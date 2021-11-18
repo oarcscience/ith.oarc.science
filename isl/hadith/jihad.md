@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Hadith](index) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Hadith](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 This is an English translation of a collection of Hadith. It is
 presented as originally printed without any additional commentary added.
-(Read the [transcription standards at this site](../../stand)). The
+(Read the [transcription standards at this site](../../stand).md). The
 Hadith are traditional remarks of the Prophet Muhammad, founder of
 Islam, and most versions also have attached commentary which has been
 written about those sayings by scholars. There are two types of Hadith.

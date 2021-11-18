@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](iwwk07)  [Next](iwwk09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](iwwk07)  [Next](iwwk09.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ the hedge.
 
 ------------------------------------------------------------------------
 
-[Next: In West Kerry](iwwk09)
+[Next: In West Kerry](iwwk09.md)

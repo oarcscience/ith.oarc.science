@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot40) 
-[Next](laot42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot40.md) 
+[Next](laot42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -170,7 +170,7 @@ rest those which
 
 <span id="page_2:298">p. 298</span> <span id="page_2:299">p. 299</span>
 
-are esteemed liberal <span id="fr_21"></span>[1](#fn_21) arts as well as
+are esteemed liberal <span id="fr_21"></span>[1](#fn_21.md) arts as well as
 those which only border upon being liberal, and true philosophy is the
 only exception. And by liberal arts I mean poetry, music, astronomy, the
 art of the sophist and of the orator, the merely forensic kinds
@@ -1038,10 +1038,10 @@ to yourself, and yourself, O prince, to all."
 
 ### Footnotes
 
-<span id="fn_21"></span>[2:299:1](laot41.htm#fr_21) I translate the same
+<span id="fn_21"></span>[2:299:1](laot41.htm#fr_21.md) I translate the same
 word σοφός in this passage by *liberal*, *wise*, and *clever* according
 to the context.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 8-10](laot42)
+[Next: Chapters 8-10](laot42.md)

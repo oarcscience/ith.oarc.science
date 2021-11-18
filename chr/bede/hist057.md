@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist056) 
-[Next](hist058) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist056.md) 
+[Next](hist058.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ English tongue Denisesburna, that is, the brook of Denis.
 [Next: II. How, among innumerable other miracles of healing wrought by
 the wood of the cross, which King Oswald, being ready to engage against
 the barbarians, erected, a certain man had his injured arm healed. \[634
-A.D.\]](hist058)
+A.D.\]](hist058.md)

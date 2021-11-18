@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](tmc01)  [Next](tmc03) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](tmc01)  [Next](tmc03.md) 
 
 ------------------------------------------------------------------------
 
@@ -1552,4 +1552,4 @@ mourned as for one dead.
 
 ------------------------------------------------------------------------
 
-[Next: The Ceremonies of Dsilyídje Qaçàl.](tmc03)
+[Next: The Ceremonies of Dsilyídje Qaçàl.](tmc03.md)

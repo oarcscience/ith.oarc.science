@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil38)  [Next](egil40) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil38)  [Next](egil40.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ edge. Then he handed it to Thorolf, reciting this stave:
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXXIX. Kettle Blund comes out to Iceland.](egil40)
+[Next: CHAPTER XXXIX. Kettle Blund comes out to Iceland.](egil40.md)

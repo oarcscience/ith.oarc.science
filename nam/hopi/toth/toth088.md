@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth087)  [Next](toth089) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth087)  [Next](toth089.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_221">p. 221</span>
 
-## 85. THE SQUIRREL AND THE CHIPMUNK. <span id="fr_163"></span>[1](#fn_161)
+## 85. THE SQUIRREL AND THE CHIPMUNK. <span id="fr_163"></span>[1](#fn_161.md)
 
 A long time ago the Squirrel and the Chipmunk lived near the Nose Gulch
 (Pongóyakvöcö), the Squirrel living on the north side and the Chipmunk
@@ -93,9 +93,9 @@ killed the two, such would not be the case now.
 
 ### Footnotes
 
-<span id="fn_161"></span>[221:1](toth088.htm#fr_163) Told by Qowáwaima
+<span id="fn_161"></span>[221:1](toth088.htm#fr_163.md) Told by Qowáwaima
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 86. A Bet Between the Cooyoko and the Fox](toth089)
+[Next: 86. A Bet Between the Cooyoko and the Fox](toth089.md)

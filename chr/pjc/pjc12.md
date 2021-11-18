@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc11)  [Next](pjc13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc11)  [Next](pjc13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -113,7 +113,7 @@ hand as if to bless, and, whilst he did so, a brilliant light came from
 him, his words were luminous, the bread entered the mouths of the
 Apostles as a brilliant substance, and light seemed to penetrate and
 surround them all, Judas alone remaining dark. Jesus presented the bread
-first to Peter, next to John <span id="fr_6"></span>[1](#fn_6) and then
+first to Peter, next to John <span id="fr_6"></span>[1](#fn_6.md) and then
 he made a sign to Judas to approach. Judas was thus the third who
 received the Adorable Sacrament, but the words of our Lord appeared to
 turn aside from the mouth of the traitor, and come back to their Divine
@@ -183,10 +183,10 @@ the same way that our priests do.
 
 ### Footnotes
 
-<span id="fn_6"></span>[87:1](pjc12.htm#fr_6) She was not certain that
+<span id="fn_6"></span>[87:1](pjc12.htm#fr_6.md) She was not certain that
 the Blessed Sacrament was administered in the order given above, for on
 another occasion she had seen John the last to receive.
 
 ------------------------------------------------------------------------
 
-[Next: Meditation IX. Private Instructions and Consecrations](pjc13)
+[Next: Meditation IX. Private Instructions and Consecrations](pjc13.md)

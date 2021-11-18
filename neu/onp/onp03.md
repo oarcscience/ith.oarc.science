@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp02) [Next](onp04)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp02) [Next](onp04.md)
 
 ------------------------------------------------------------------------
 
@@ -14,12 +14,12 @@ the Saint asked his skald (Thórmóth Kólbrunarskálld) to intone a song;
 whereupon he recited the *Old Biarkamól* (*Biarkamól hin fornu*) so that
 all the army could hear it, and all were pleased; and the men called the
 lay the *Exhortation of the Housecarls*<span
-id="fr_1"></span>[1](#note_1) (*Húskarla hvot*). In the *Legendary Saga
+id="fr_1"></span>[1](#note_1) (*Húskarla hvot*.md). In the *Legendary Saga
 of Ólaf* we are told, furthermore, that when the king asked Thórmóth
 what boon he desired, that loyal heart asked for naught better than to
 be allowed to go before his king in battle, and that it might be granted
 to him not to survive his lord. “This answer is in the very spirit of
-the Biarkamól;”<span id="fr_2"></span>[2](#note_2) as was the poem
+the Biarkamól;”<span id="fr_2"></span>[2](#note_2.md) as was the poem
 singularly well chosen, from out of the many Thórmóth no doubt knew, to
 fit the occasion, for it is a high song of devotion unto death—and every
 one felt the king’s to be a Lost Cause.
@@ -28,7 +28,7 @@ one felt the king’s to be a Lost Cause.
 this proud lay, though once it was known all over the North. For a
 conception of the whole poem we are now dependent on Saxo’s spirited,
 but very free and wordy, translation into Latin hexameters,<span
-id="fr_3"></span>[3](#note_3) and on the prolix and novelistic account
+id="fr_3"></span>[3](#note_3.md) and on the prolix and novelistic account
 of the late *Hrólfs saga kraka*. Taking these as his basis, aided by a
 strong poetic imagination, and with a profound knowledge of Old Norse
 poetry as a corrective, the Danish scholar, Axel Olrik, essayed to
@@ -50,7 +50,7 @@ scholars incline to a much later date (ca. 1200).
 
  Putting together the accounts of Saxo and of the saga, the action is as
 follows: The great hero-king Hrólf kraki,<span
-id="fr_5"></span>[5](#note_5) the son of Helgi (and nephew of Hróar), is
+id="fr_5"></span>[5](#note_5) the son of Helgi (and nephew of Hróar.md), is
 assailed in his hall at Leire during the night by his vassal Hiorvarth,
 the ruler of the Gauts, who is incited to this treachery by his wife
 Skuld, Hrólf’s own sister (or daughter). Hialti, a youthful champion in
@@ -65,7 +65,7 @@ He wakes at Hialti’s third call and plunges into battle. But it is too
 late. Biarki sinks at his beloved chieftain’s head, Hialti at his feet.
 When the battle dies down the mortally wounded Biarki is found by Hrút
 and made to see Óthin riding over the battle field. Dying, he defies
-him.<span id="fr_6"></span>[6](#note_6)
+him.<span id="fr_6"></span>[6](#note_6.md)
 
  The king remains throughout in the background, yet is the invisible
 center, worthy of the loyalty unto death of such warriors. They but
@@ -500,7 +500,7 @@ dying to dwell by his king rich in deeds.”<br />
 
 ------------------------------------------------------------------------
 
-[Next](onp04)
+[Next](onp04.md)
 
 ------------------------------------------------------------------------
 
@@ -508,30 +508,30 @@ dying to dwell by his king rich in deeds.”<br />
 
 <span id="footnotes_page_3">p. 3</span>
 
-<span id="note_1"></span>[1](#fr_1) The housecarls of the Scandinavian
+<span id="note_1"></span>[1](#fr_1.md) The housecarls of the Scandinavian
 kings correspond to the *hird* of the Anglo-Saxons. They formed the
 bodyguard of select warriors.
 
-<span id="note_2"></span>[2](#fr_2) Axel Olrik, *The Heroic Legends of
+<span id="note_2"></span>[2](#fr_2.md) Axel Olrik, *The Heroic Legends of
 Denmark* (English trans., 1916) p. 169.
 
-<span id="note_3"></span>[3](#fr_3) *Gesta Danorum,* book II.
+<span id="note_3"></span>[3](#fr_3.md) *Gesta Danorum,* book II.
 
-<span id="note_4"></span>[4](#fr_4) Among other things, it may be
+<span id="note_4"></span>[4](#fr_4.md) Among other things, it may be
 doubted whether the lay was a pure dialogue poem and not, as were the
 oldest lays, interspersed with narrative.
 
 <span id="footnotes_page_4">p. 4</span>
 
-<span id="note_5"></span>[5](#fr_5) The matter of Hrólf’s rise, but not
+<span id="note_5"></span>[5](#fr_5.md) The matter of Hrólf’s rise, but not
 his fall, is briefly alluded to in various passages of *Bēowulf*.
 
-<span id="note_6"></span>[6](#fr_6) For a detailed and searching
+<span id="note_6"></span>[6](#fr_6.md) For a detailed and searching
 analysis the reader is referred to Olrik’s work, pp. 202 f.
 
 <span id="footnotes_page_5">p. 5</span>
 
-<span id="note_7"></span>[7](#fr_7) (Or Hild), one of the Valkyries. In
+<span id="note_7"></span>[7](#fr_7) (Or Hild.md), one of the Valkyries. In
 Snorri’s account, the beginning is as follows:
 
 <table data-align="center" data-cellpadding="10">
@@ -561,46 +561,46 @@ stanzas cannot have been the beginning of the *Old Biarkamól*.
 
 <span id="footnotes_page_6">p. 6</span>
 
-<span id="note_8"></span>[8](#fr_8) It is uncertain whether he thinks
+<span id="note_8"></span>[8](#fr_8.md) It is uncertain whether he thinks
 guests are coming or ironically bids the enemies welcome with fire (cf.
 stanza 11).
 
-<span id="note_9"></span>[9](#fr_9) Almost all the phrases in this
+<span id="note_9"></span>[9](#fr_9.md) Almost all the phrases in this
 stanza, and many others in the following exhortation, recur verbally in
 Wīglāf’s exhortation of Bēowulf’s men to support him against the dragon
 (*Bēowulf,* 11, 2663-2660); and much occurs of the same import in the
 *Battle of Maldon*.
 
-<span id="note_10"></span>[10](#fr_10) Equivalent to Anglo-Saxon
+<span id="note_10"></span>[10](#fr_10.md) Equivalent to Anglo-Saxon
 *Heoroweard*. Other names, in the lay, have the following Anglo-Saxon
 equivalents: *Helgi, Hālga; Hróar, Hrōthgār; Hrólf, Hrōthulf;* the Gauts
 *(Gautar), Gēatas; Hrœrek, Hrēthrīk; Ingiald, Ingeld; Athils, Ēadgils*.
 
-<span id="note_11"></span>[11](#fr_11) Helmets adomed with chains of
+<span id="note_11"></span>[11](#fr_11.md) Helmets adomed with chains of
 rings.
 
-<span id="note_12"></span>[12](#fr_12) *Skioldungs* (Anglo-Saxon,
+<span id="note_12"></span>[12](#fr_12.md) *Skioldungs* (Anglo-Saxon,
 *Scyldingas*), the royal race of Denmark, whose progenitor is *Skiǫld*
 (Anglo-Saxon, *Scyld*).
 
 <span id="footnotes_page_7">p. 7</span>
 
-<span id="note_13"></span>[13](#fr_13) Cf. the magic runes fettering
+<span id="note_13"></span>[13](#fr_13.md) Cf. the magic runes fettering
 Sigrdrífa, *Sigrdrífumǫl,* Prose after stanza 4.
 
-<span id="note_14"></span>[14](#fr_14) In Saxo: *igne ursos arcere
+<span id="note_14"></span>[14](#fr_14.md) In Saxo: *igne ursos arcere
 licet*. Possibly, an allusion to Biarki’s name, which is a “short-name”
 for a name compounded with *-biǫrn,* “bear.” He has by some scholars
 been identified with Bēowulf.
 
 <span id="footnotes_page_8">p. 8</span>
 
-<span id="note_15"></span>[15](#fr_15) In order to purchase peace.
+<span id="note_15"></span>[15](#fr_15.md) In order to purchase peace.
 
-<span id="note_16"></span>[16](#fr_16) One of the valkyries; hence,
+<span id="note_16"></span>[16](#fr_16.md) One of the valkyries; hence,
 “Hild’s-play,” a kenning for “battle.”
 
-<span id="note_17"></span>[17](#fr_17) *I.e.,* Hrólf.—The allusion is to
+<span id="note_17"></span>[17](#fr_17.md) *I.e.,* Hrólf.—The allusion is to
 an expedition of Hrólf to King Athils of Sweden. When treacherously
 pursued by Athils on the Fýri Plains (*i.e.,* the region of Upsala)
 Hrólf stopped him by scattering gold rings which Athils and his men
@@ -608,35 +608,35 @@ greedily picked up.
 
 <span id="footnotes_page_9">p. 9</span>
 
-<span id="note_18"></span>[18](#fr_18) Biarki himself.
+<span id="note_18"></span>[18](#fr_18.md) Biarki himself.
 
-<span id="note_19"></span>[19](#fr_19) Cf. *Hákonarmól,* stanza 4.
+<span id="note_19"></span>[19](#fr_19.md) Cf. *Hákonarmól,* stanza 4.
 
-<span id="note_20"></span>[20](#fr_20) *I.e.,* the golden arm-ring, by
+<span id="note_20"></span>[20](#fr_20.md) *I.e.,* the golden arm-ring, by
 reminding warriors of the generosity of their lord, will cause them to
 fight more spiritedly.
 
-<span id="note_21"></span>[21](#fr_21) A kenning, it seems, for
+<span id="note_21"></span>[21](#fr_21.md) A kenning, it seems, for
 “warrior.”
 
-<span id="note_22"></span>[22](#fr_22) Agnar’s sword. Its name signifies
+<span id="note_22"></span>[22](#fr_22.md) Agnar’s sword. Its name signifies
 “the sword owned by Hók.”
 
 <span id="footnotes_page_11">p. 11</span>
 
-<span id="note_23"></span>[23](#fr_23) One who possesses second-sight
+<span id="note_23"></span>[23](#fr_23.md) One who possesses second-sight
 can make others see what he sees by letting them look through his bended
 arm supported on his hip. The victory-runes are the same, apparently, as
 those referred to in *Sigrdrífumól,* stanza 7.
 
-<span id="note_24"></span>[24](#fr_24) Óthin, who has been aiding the
+<span id="note_24"></span>[24](#fr_24.md) Óthin, who has been aiding the
 enemy and is now collecting the dead warriors for Valholl. He rides the
 eight-footed steed Sleipnir. Cf. *Grímnismól,* stanza 44.
 
-<span id="note_25"></span>[25](#fr_25) Old Norse *Hleithrar,* the
+<span id="note_25"></span>[25](#fr_25.md) Old Norse *Hleithrar,* the
 capital of the Danish kingdom in prehistoric times.
 
-<span id="note_26"></span>[26](#fr_26) Hialti.
+<span id="note_26"></span>[26](#fr_26.md) Hialti.
 
  
 

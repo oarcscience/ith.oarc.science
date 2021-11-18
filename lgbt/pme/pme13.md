@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](pme12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](pme12.md) 
 
 ------------------------------------------------------------------------
 
@@ -152,7 +152,7 @@ inflicted to their full extent; (7) that their existence encourages
 blackmailing, and their non-enforcement gives occasion for base
 political agitation; (8) that our higher education is in open
 contradiction to the spirit of our laws. <span
-id="fr_79"></span>[1](#fn_79)
+id="fr_79"></span>[1](#fn_79.md)
 
 FINIS.
 
@@ -162,7 +162,7 @@ FINIS.
 
 ### Footnotes
 
-<span id="fn_79"></span>[135:1](pme13.htm#fr_79) It may not he
+<span id="fn_79"></span>[135:1](pme13.htm#fr_79.md) It may not he
 superfluous to recapitulate the main points of English legislation on
 this topic. (1) Sodomy is a felony, defined as the carnal knowledge (per
 anum) of any man or of any woman by a male person; punishable with penal

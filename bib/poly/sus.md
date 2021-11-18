@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Epistle of Jeremiah](epj)  [Bel and the Dragon](bel)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Epistle of Jeremiah](epj)  [Bel and the Dragon](bel.md)
 
 ------------------------------------------------------------------------
 
@@ -9,4 +9,4 @@
 
 ------------------------------------------------------------------------
 
-[Susanna 1](sus001)  
+[Susanna 1](sus001.md)  

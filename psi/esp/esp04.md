@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp03)  [Next](esp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp03)  [Next](esp05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -103,7 +103,7 @@ that state favorably.
 
 The results of a single experiment may have great evidential force. Such
 an experiment has been lately reported by Mr. Theodore Besterman, a very
-careful and conservative researcher. <span id="fr_1"></span>[1](#fn_1)
+careful and conservative researcher. <span id="fr_1"></span>[1](#fn_1.md)
 The subject was Ossowiecki, with whom Dr. E. J. Dingwall, an experienced
 investigator whose bent is toward skepticism, several years ago had a
 result almost equally amazing. Mr. Besterman employed precautions the
@@ -196,7 +196,7 @@ While the chapters of this treatise are in proper logical sequence, I am
 tempted to suggest that some lay readers might, before reading the book
 as a whole, acquire a taste for its contents by first reading certain
 selected portions. Let them place a book-mark for reference at page
-[xiv](esp05.htm#page_xiv) in order that they may at any point consult
+[xiv](esp05.htm#page_xiv.md) in order that they may at any point consult
 the table for the meaning of abbreviations. Also, as one will find
 frequent evaluations of a series, or of total results to a date, in
 terms of "X" (an arbitrary sign equivalent to "D/p.e.") which signifies
@@ -209,7 +209,7 @@ understand what the statement implies. Mathematicians think it rather
 silly to demand to know exactly the valuation of X 15, etc., for if one
 is not satisfied with odds of a hundred million by what would he be
 satisfied? Then let pages
-[109](esp16.htm#page_109)-[113](esp16.htm#page_113) be read, and then
+[109](esp16.htm#page_109)-[113](esp16.htm#page_113.md) be read, and then
 Chapter VII, describing the nature and analyzing the results of Pearce's
 great number
 
@@ -228,9 +228,9 @@ Boston Society for Psychic Research.
 
 ### Footnotes
 
-<span id="fn_1"></span>[x:1](esp04.htm#fr_1) *Proc*. S. P. R., Part 132,
+<span id="fn_1"></span>[x:1](esp04.htm#fr_1.md) *Proc*. S. P. R., Part 132,
 1933.
 
 ------------------------------------------------------------------------
 
-[Next: List of Abbreviations](esp05)
+[Next: List of Abbreviations](esp05.md)

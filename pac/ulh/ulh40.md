@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh39)  [Next](ulh41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh39)  [Next](ulh41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -40,14 +40,14 @@ they cantillated went as follows:
 
 A pili, a pili.  
 A pili ka’u manu  
-Ke kepau <span id="fr_499"></span>[a](#fn_483) o ka ulu-laau.  
+Ke kepau <span id="fr_499"></span>[a](#fn_483.md) o ka ulu-laau.  
 Poai a puni,  
-5 Noho ana i muli-wa’a; <span id="fr_500"></span>[b](#fn_484)  
+5 Noho ana i muli-wa’a; <span id="fr_500"></span>[b](#fn_484.md)  
 Hoonu’u ka momona a ke alii.  
-Eli-eli <span id="fr_501"></span>[c](#fn_485) ke kapu; ua noa.  
+Eli-eli <span id="fr_501"></span>[c](#fn_485.md) ke kapu; ua noa.  
 Noa ia wai?  
 Noa ia ka lani.  
-10 Kau lilua, <span id="fr_502"></span>[d](#fn_486) kaohi ka maku’u  
+10 Kau lilua, <span id="fr_502"></span>[d](#fn_486.md) kaohi ka maku’u  
 E ai ana ka ai a ke alii!  
 Hoonu’u, hoonu’u hoonu’u  
 I ka i’a a ke alii!
@@ -81,11 +81,11 @@ With the good king's meat!
 
 ### Footnotes
 
-<span id="fn_483"></span>[244:a](ulh40.htm#fr_499) *Kepáu*. Gum, the
+<span id="fn_483"></span>[244:a](ulh40.htm#fr_499.md) *Kepáu*. Gum, the
 bird-lime of the fowler, which was obtained from forest trees, but
 especially from the *ulu*, the breadfruit.
 
-<span id="fn_484"></span>[244:b](ulh40.htm#fr_500) *Muli-wa’a* (*muli*,
+<span id="fn_484"></span>[244:b](ulh40.htm#fr_500.md) *Muli-wa’a* (*muli*,
 a term applied to a younger brother). The idea involved is that of
 separation by an interval, as a younger brother is separated from his
 older brother by an interval. *Muliwai* is an interval of water, a
@@ -95,14 +95,14 @@ which the food was spread, they being long and narrow, in the shape of a
 canoe. The whole term, consequently, refers to the people and the table
 about which they are seated.
 
-<span id="fn_485"></span>[244:c](ulh40.htm#fr_501) *Eli-eli*. A word
+<span id="fn_485"></span>[244:c](ulh40.htm#fr_501.md) *Eli-eli*. A word
 that is found in ancient prayers to emphasize the word *kapu* or the
 word *noa*.
 
-<span id="fn_486"></span>[244:d](ulh40.htm#fr_502) *Lilua*. To stand
+<span id="fn_486"></span>[244:d](ulh40.htm#fr_502.md) *Lilua*. To stand
 erect and act without the restraint usually prescribed in the presence
 of royalty.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVII.--The Hula Ulili](ulh41)
+[Next: XXXVII.--The Hula Ulili](ulh41.md)

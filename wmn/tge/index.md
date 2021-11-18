@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,8 +45,8 @@ still seems fresh and relevant today.
 
 ------------------------------------------------------------------------
 
-[Title Page](tge00)  
-[Introduction](tge01)  
-[Genesis](tge02)  
-[The Garden of Eden](tge03)  
-[Revelation](tge04)  
+[Title Page](tge00.md)  
+[Introduction](tge01.md)  
+[Genesis](tge02.md)  
+[The Garden of Eden](tge03.md)  
+[Revelation](tge04.md)  

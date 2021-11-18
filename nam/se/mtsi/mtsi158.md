@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi157)  [Next](mtsi159) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi157)  [Next](mtsi159.md) 
 
 ------------------------------------------------------------------------
 
-### 22. THE MEN WHO WENT TO THE SKY <span id="fr_40"></span>[1](#fn_40) (23)
+### 22. THE MEN WHO WENT TO THE SKY <span id="fr_40"></span>[1](#fn_40) (23.md)
 
 ### (THIRD VERSION)
 
@@ -83,9 +83,9 @@ back any more.
 
 ### Footnotes
 
-<span id="fn_40"></span>[142:1](mtsi158.htm#fr_40) This seems to contain
+<span id="fn_40"></span>[142:1](mtsi158.htm#fr_40.md) This seems to contain
 elements of stories 18 and 19.
 
 ------------------------------------------------------------------------
 
-[Next: 23. The Friends](mtsi159)
+[Next: 23. The Friends](mtsi159.md)

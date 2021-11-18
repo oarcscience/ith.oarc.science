@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh26)  [Next](ehh28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh26)  [Next](ehh28.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ that the ELEVENTH DIVISION of the BOOK OF GATES represents a portion of
 the Kingdom of the Sun-god of Heliopolis. Four other gods carry stars,
 and when AFU-RA passes out of this DIVISION, and is received into the
 arms of Nu, the Sky-god, they shout hymns of praise. <span
-id="fr_53"></span>[1](#fn_53) Before these are twelve gods with
+id="fr_53"></span>[1](#fn_53.md) Before these are twelve gods with
 sceptres, four having human heads, four the heads of rams, and four the
 heads of hawks. The first four are the lords of the region, and stablish
 the domains of Ra in the sky; the second four provide offerings of bread
@@ -76,7 +76,7 @@ of Osiris and Ra, and of the damned. The pictures which illustrate it
 supply us with representations of the enemies of the Sun-god and of the
 beings who vanquish them, and secure his triumphant progress. Having
 arrived at the end of the ELEVENTH DIVISION the Boat comes to the end of
-the Fourth Tuat; <span id="fr_54"></span>[1](#fn_54) AFU-RA has effected
+the Fourth Tuat; <span id="fr_54"></span>[1](#fn_54.md) AFU-RA has effected
 his transformation as KHEPERA, and is now ready to appear in the sky of
 this world as RA. How he effects this we shall see from the next
 DIVISION.
@@ -85,11 +85,11 @@ DIVISION.
 
 ### Footnotes
 
-<span id="fn_53"></span>[190:1](ehh27.htm#fr_53) Compare Job xxxviii.
+<span id="fn_53"></span>[190:1](ehh27.htm#fr_53.md) Compare Job xxxviii.
 7--"When the morning stars sang together, and all the sons of God
 shouted for joy."
 
-<span id="fn_54"></span>[191:1](ehh27.htm#fr_54) The Four Tuats are the
+<span id="fn_54"></span>[191:1](ehh27.htm#fr_54.md) The Four Tuats are the
 Kingdoms of Khenti-Amenti-Osiris, Seker, Osiris of Mendes and Busiris,
 and Temu-Khepera-Ra.
 
@@ -97,4 +97,4 @@ and Temu-Khepera-Ra.
 
 [Next: Chapter XIV. Twelfth Division of the Tuat. I. Eastern Vestibule
 of the Tuat, or the Antechamber of the World of Light According to the
-Book Am-Tuat](ehh28)
+Book Am-Tuat](ehh28.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb13)  [Next](ftb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb13)  [Next](ftb15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -24,20 +24,20 @@ Textual Heritage
 
 <span id="img_14000"></span> <span align="CENTER"> [![Wells filled with
 Precious Stones](tn/14000.jpg)  
-Click to enlarge](img/14000.jpg)  
+Click to enlarge](img/14000.jpg.md)  
 Wells filled with Precious Stones  
 </span>
 
 <span id="page_141">p. 141</span>
 
 <span id="img_14100"></span> ![The Magic Rocks and the
-Beggar](img/14100.jpg)
+Beggar](img/14100.jpg.md)
 
 <span id="img_14101"></span>
 
 |                     |
 |---------------------|
-| ![I](img/14101.jpg) |
+| ![I](img/14101.jpg.md) |
 
 N Brittany near the sea there is a village called Plouhinec. It is
 surrounded by moors with here and there a grove of fir trees. There is
@@ -324,4 +324,4 @@ jenny-wren in a brood.
 
 ------------------------------------------------------------------------
 
-[Next: The Country Bumpkin and the Hobgoblin](ftb15)
+[Next: The Country Bumpkin and the Hobgoblin](ftb15.md)

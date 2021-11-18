@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh20)  [Next](lsbh22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh20)  [Next](lsbh22.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -130,7 +130,7 @@ days."
 
 DLIV\. Another simpleton said, "I understand every-thing, I know even
 how mustard may be obtained from figs, and how a bottle in the shape of
-an acorn <span id="fr_111"></span>[1](#fn_111) may be made out of wood,
+an acorn <span id="fr_111"></span>[1](#fn_111.md) may be made out of wood,
 but I have never yet known him that made holes collectively."
 
 DLV\. A certain governor set out to go and worship in Jerusalem, and he
@@ -165,7 +165,7 @@ that he was looking at me: what did he say about me?"
 DLX\. Another silly man whilst praying in Jerusalem said, "O My Lord,
 forgive me, that it may be forgiven to Thee, give unto me, that it may
 be given unto Thee thirtyfold, sixtyfold, and a hundredfold, even as
-Thou hast promised <span id="fr_112"></span>[1](#fn_112)."
+Thou hast promised <span id="fr_112"></span>[1](#fn_112.md)."
 
 DLXI\. Another simpleton visited a certain man, and he went to kiss his
 head; but the man said to him, "Do not kiss my head because I have put
@@ -262,7 +262,7 @@ the she-ass I would put her to death without mercy."
 DLXX VI. The son of a certain silly old woman died—now his name was
 Lazarus—and the priest was burying him. And when he began to read the
 \[section of the\] Gospel which begins, "Now Lazarus was dead <span
-id="fr_113"></span>[1](#fn_113)," he said, "Lazarus is dead, and I
+id="fr_113"></span>[1](#fn_113.md)," he said, "Lazarus is dead, and I
 rejoice." And the old woman said to him, "And why shouldst thou not
 rejoice? For behold, his clothing, and his bed, and everything which he
 possessed have been carried to thy house."
@@ -449,7 +449,7 @@ came upon them even to this day.
 DCVII\. Another fool said, "I saw a man with a long beard who was riding
 upon an ass which he was beating, and he said to him, "O cursed one, if
 thou didst not wish to be ridden why didst thou become an ass? <span
-id="fr_114"></span>[1](#fn_114)
+id="fr_114"></span>[1](#fn_114.md)
 
 <span id="page_153">p. 153</span>
 
@@ -480,7 +480,7 @@ after the other."
 DCXII\. Another fool went to a grammarian that he might teach him to
 speak correctly, and when he had read with him for nigh upon a year, he
 asked the grammarian, "Do I pronounce *sûsyâ* with a *tsâdhê* or with a
-*semkath*? <span id="fr_115"></span>[1](#fn_115)"
+*semkath*? <span id="fr_115"></span>[1](#fn_115.md)"
 
 <span id="page_154">p. 154</span>
 
@@ -507,7 +507,7 @@ father said to him, "Which is its father or mother? This male or this
 female? "
 
 DCXVIII\. Another simpleton said, "I love the discourses of Mâr
-Jacob <span id="fr_116"></span>[1](#fn_116) very much indeed, so much so
+Jacob <span id="fr_116"></span>[1](#fn_116.md) very much indeed, so much so
 that I am blessed by him every day." His companion said to him, "But why
 art thou not blessed by the Holy Gospel?" and he replied, "The Gospel is
 good, but I have found by experience that Mâr Jacob helpeth me."
@@ -532,23 +532,23 @@ likewise without the pips and stones of fruit."
 
 ### Footnotes
 
-<span id="fn_111"></span>[143:1](lsbh21.htm#fr_111) *I.e.*, \#\#\#, a
+<span id="fn_111"></span>[143:1](lsbh21.htm#fr_111.md) *I.e.*, \#\#\#, a
 rare word; see my *Thomas of Margâ*, Vol. i. p. 353, 1. 17.
 
-<span id="fn_112"></span>[144:1](lsbh21.htm#fr_112) Compare St. Matthew
+<span id="fn_112"></span>[144:1](lsbh21.htm#fr_112.md) Compare St. Matthew
 xiii. 8.
 
-<span id="fn_113"></span>[147:1](lsbh21.htm#fr_113) See St. John xi. 14.
+<span id="fn_113"></span>[147:1](lsbh21.htm#fr_113.md) See St. John xi. 14.
 
-<span id="fn_114"></span>[152:1](lsbh21.htm#fr_114) Var. "was asking in
+<span id="fn_114"></span>[152:1](lsbh21.htm#fr_114.md) Var. "was asking in
 the market, 'Has there not passed before you a red old man with a red
 helmet on his head?'"
 
-<span id="fn_115"></span>[153:1](lsbh21.htm#fr_115) *I.e.*; the fool
+<span id="fn_115"></span>[153:1](lsbh21.htm#fr_115.md) *I.e.*; the fool
 could not distinguish between the sounds of *s* and *ts* after nearly a
 year's study.
 
-<span id="fn_116"></span>[154:1](lsbh21.htm#fr_116) *I.e.*, Jacob of
+<span id="fn_116"></span>[154:1](lsbh21.htm#fr_116.md) *I.e.*, Jacob of
 Edessa; he was born about A.D. 640 and died 5th of June A.D. 708.
 
 <div class="filenav">
@@ -556,6 +556,6 @@ Edessa; he was born about A.D. 640 and died 5th of June A.D. 708.
 ------------------------------------------------------------------------
 
 [Next: The Seventeenth Chapter: Stories of Lunatics and of Men Possessed
-of Devils](lsbh22)
+of Devils](lsbh22.md)
 
 </div>

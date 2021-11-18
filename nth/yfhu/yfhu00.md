@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Next](yfhu01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Next](yfhu01.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -46,28 +46,28 @@ Chicago
 
 <span id="img_jacket"></span> <span align="CENTER"> [![Dust
 Jacket](tn/jacket.jpg)  
-Click to enlarge](img/jacket.jpg)  
+Click to enlarge](img/jacket.jpg.md)  
 Dust Jacket  
 </span>
 
 <span id="img_cover"></span> <span align="CENTER"> [![Front Cover and
 Spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover and Spine  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Contents](yfhu01)
+[Next: Contents](yfhu01.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ric06)  [Next](ric08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ric06)  [Next](ric08.md) 
 
 ------------------------------------------------------------------------
 
@@ -306,4 +306,4 @@ annually for important men.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](ric08)
+[Next: Bibliography](ric08.md)

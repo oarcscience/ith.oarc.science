@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre32)  [Next](gre34) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre32)  [Next](gre34.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ good to deal with; so let him stand up forthwith."
 
 Grettir said, "*Many a man stretches round the door to the lock*; and
 meseems it lies more in thy way to avenge thy brother Hall <span
-id="fr_11"></span>[\*](#fn_11), than to meddle in the dealings betwixt
+id="fr_11"></span>[\*](#fn_11.md), than to meddle in the dealings betwixt
 me and Audun."
 
 "At all times I hear this," said Bardi, "nor know I if that will be
@@ -163,10 +163,10 @@ own house.
 
 ### Footnotes
 
-<span id="fn_11"></span>[86:\*](gre33.htm#fr_11) Who was killed in
+<span id="fn_11"></span>[86:\*](gre33.htm#fr_11.md) Who was killed in
 Norway by the sons of Harek, and whose revenge is told of in the Saga of
 the Heath slayings (existing in fragment).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX: Of the Horse-fight at Longfit](gre34)
+[Next: Chapter XXIX: Of the Horse-fight at Longfit](gre34.md)

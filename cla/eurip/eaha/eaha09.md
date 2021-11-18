@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Euripides](../index)  [Index](index)  [Previous](eaha08) 
-[Next](eaha10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Euripides](../index)  [Index](index)  [Previous](eaha08.md) 
+[Next](eaha10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Euripides and His Age*, by Gilbert Murray, \[1913\], at Intangible
 Textual Heritage
 
@@ -666,7 +666,7 @@ Hero seems to have been an integral part of the old ritual and thus has
 its natural place in tragedy. His special duty is to bring the action to
 a quiet close and to ordain the ritual on which the tragedy is
 based—thus making the performance itself a fulfilment of the gods’
-command (see above [p. 65](eaha04.htm#page_65)). The actual history of
+command (see above [p. 65](eaha04.htm#page_65).md). The actual history of
 this epiphany is curious. As far as our defective evidence allows us to
 draw conclusions we can make out that Aeschylus habitually used a divine
 epiphany, but that he generally kept it for the last play of a trilogy;
@@ -815,4 +815,4 @@ greatest of the world's dramatists held to it so firmly.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](eaha10)
+[Next: Chapter IX](eaha10.md)

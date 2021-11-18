@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim07)  [Next](mim09) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim07)  [Next](mim09.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ Then Dove and Hummingbird went.
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Repeopling of the World](mim09)
+[Next: 7. The Repeopling of the World](mim09.md)

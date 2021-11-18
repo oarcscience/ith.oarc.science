@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat12)  [Next](flat14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat12)  [Next](flat14.md) 
 
 ------------------------------------------------------------------------
 
@@ -277,4 +277,4 @@ five hundred years ago, as the place had been so long built over.
 
 ------------------------------------------------------------------------
 
-[Next: Master and Man](flat14)
+[Next: Master and Man](flat14.md)

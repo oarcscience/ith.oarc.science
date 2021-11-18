@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod34)  [Next](ebod36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod34)  [Next](ebod36.md) 
 
 ------------------------------------------------------------------------
 
@@ -221,4 +221,4 @@ therein and who are the followers of the great god."
 
 ------------------------------------------------------------------------
 
-[Next: Plates XXXI. and XXXII.](ebod36)
+[Next: Plates XXXI. and XXXII.](ebod36.md)

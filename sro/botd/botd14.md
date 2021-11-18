@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](botd13)  [Next](botd15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](botd13)  [Next](botd15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Brother of the Third Degree*, by Will L. Garver, \[1894\], at
 Intangible Textual Heritage
 
@@ -128,7 +128,7 @@ chamber, opposite the gate through which we had come, was a white
 throne, in the center of which, in a golden chair, sat a man of
 apparently middle age. His remarkably handsome face was beardless and
 gave him a youthful appearance, while his features looked like those of
-a man of age and thought. His uncovered head was [crowned](errata.htm#4)
+a man of age and thought. His uncovered head was [crowned](errata.htm#4.md)
 with thick and
 
 <span id="page_220">p. 220</span>
@@ -674,4 +674,4 @@ choice.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. “Virgin Lover”](botd15)
+[Next: Chapter XIV. “Virgin Lover”](botd15.md)

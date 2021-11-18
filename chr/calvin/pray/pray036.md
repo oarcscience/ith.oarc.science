@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray035)  [Next](pray037) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray035)  [Next](pray037.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,9 +19,9 @@ method, but also form of prayer, that, namely, which our heavenly Father
 has delivered to us by his beloved Son, and in which we may recognize
 his boundless goodness and condescension (<span
 id="iii.xxxiv-p1.1"></span>[Matthew
-6:9](../../../bib/kjv/mat006.htm#009)<span id="iii.xxxiv-p1.1"></span>;
+6:9](../../../bib/kjv/mat006.htm#009.md)<span id="iii.xxxiv-p1.1"></span>;
 <span id="iii.xxxiv-p1.2"></span>[Luke
-11:2](../../../bib/kjv/luk011.htm#002)<span
+11:2](../../../bib/kjv/luk011.htm#002.md)<span
 id="iii.xxxiv-p1.2"></span>). Besides admonishing and exhorting us to
 seek him in our every necessity (as children are wont to betake
 themselves to the protection of their parents when oppressed with any
@@ -44,11 +44,11 @@ dangerous it is to ask of God what our own passion dictates; while, at
 the same time, he reminds us of our unhappy condition in not being able
 to open our lips before God without dangers unless his Spirit instruct
 us how to pray aright (<span id="iii.xxxiv-p1.3"></span>[Romans
-8:26](../../../bib/kjv/rom008.htm#026)<span
+8:26](../../../bib/kjv/rom008.htm#026.md)<span
 id="iii.xxxiv-p1.3"></span>). The higher value, therefore, ought we to
 set on the privilege, when the only begotten Son of God puts words into
 our lips, and thus relieves our minds of all hesitation.
 
 ------------------------------------------------------------------------
 
-[Next: 35.](pray037)
+[Next: 35.](pray037.md)

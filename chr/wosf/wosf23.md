@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](wosf22)  [Next](wosf24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](wosf22)  [Next](wosf24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,11 +23,11 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte)
 Although the early biographies of St. Francis are silent as to this
 opuscule, its authenticity is guaranteed by the Legend of St. Clare
 written by Thomas of Celano toward the end of his life. <span
-id="fr_570"></span>[1](#fn_570) In reference to the holy abbess’
+id="fr_570"></span>[1](#fn_570.md) In reference to the holy abbess’
 devotion to the Passion we are told by Celano that she "learned and
 frequently recited with attachment the Office of the Cross which
 Francis, the lover of the Cross, had instituted." <span
-id="fr_571"></span>[2](#fn_571) This passage was rightly understood by
+id="fr_571"></span>[2](#fn_571.md) This passage was rightly understood by
 Wadding as referring to the Office of the Passion which many early MSS.
 attribute to St. Francis, and the character of which altogether squares
 with the Saint's writings. Composed, as it is, of a simple and devout
@@ -57,10 +57,10 @@ Office may also be
 
 <span id="page_155">p. 155</span>
 
-found in MSS. at Oxford, <span id="fr_572"></span>[1](#fn_572)
-Berlin, <span id="fr_573"></span>[2](#fn_573) and Liegnitz <span
-id="fr_574"></span>[3](#fn_574) already described. <span
-id="fr_575"></span>[4](#fn_575) It has never before, so far as I know,
+found in MSS. at Oxford, <span id="fr_572"></span>[1](#fn_572.md)
+Berlin, <span id="fr_573"></span>[2](#fn_573.md) and Liegnitz <span
+id="fr_574"></span>[3](#fn_574.md) already described. <span
+id="fr_575"></span>[4](#fn_575.md) It has never before, so far as I know,
 been translated into English. Here it is:—
 
 #### OFFICE OF THE PASSION OF THE LORD.
@@ -71,8 +71,8 @@ of the Lord. And they begin from Compline on Maundy Thursday because on
 that night our Lord Jesus Christ was betrayed and taken captive. And
 note that the Blessed Francis was wont to say this office thus: First he
 said the Prayer which the Lord and Master taught us: *Our Father most
-holy*, <span id="fr_576"></span>[5](#fn_576) with the Praises, to wit,
-*Holy, Holy, Holy*. <span id="fr_577"></span>[6](#fn_577) When he had
+holy*, <span id="fr_576"></span>[5](#fn_576.md) with the Praises, to wit,
+*Holy, Holy, Holy*. <span id="fr_577"></span>[6](#fn_577.md) When he had
 finished the Praises with the Prayer he began this antiphon, namely:
 *Holy Mary*. First he said the Psalms of the holy Virgin; besides he
 said other Psalms which he had selected, and at the end of all the
@@ -439,7 +439,7 @@ the Psalm ends, namely, "for He will come to judge with justice."**
 **Note that the foregoing Psalms are said from Good Friday until Easter
 Sunday: they are said in the same manner from the octave of Whitsunday
 until the Advent of the Lord and from the octave of the Epiphany until
-Maundy Thursday, <span id="fr_578"></span>[1](#fn_578) except on
+Maundy Thursday, <span id="fr_578"></span>[1](#fn_578.md) except on
 Sundays, and the principal feasts, on which they are not said: on the
 other days however they are said daily.**
 
@@ -528,7 +528,7 @@ AT PRIME.
 
 *Ant*. Holy Mary.
 
-*Psalm*. Have mercy on me, etc.—*as above, p.* [159](#page_159).
+*Psalm*. Have mercy on me, etc.—*as above, p.* [159](#page_159.md).
 
 <span id="page_169">p. 169</span>
 
@@ -536,13 +536,13 @@ AT PRIME.
 
 AT TIERCE, SEXT AND NONES.
 
-*Psalm*. Sing ye to the Lord, etc.—*as above, p*. [167](#page_167).
+*Psalm*. Sing ye to the Lord, etc.—*as above, p*. [167](#page_167.md).
 
  
 
 AT VESPERS.
 
-*Psalm*. O clap your hands, etc.—*as above, p*. [164](#page_164).
+*Psalm*. O clap your hands, etc.—*as above, p*. [164](#page_164.md).
 
 <span class="small">**Here begin the other psalms which our most blessed
 Father Francis likewise arranged which are to be said in place of the
@@ -564,7 +564,7 @@ AT MATINS.
 
 *Ant*. Holy Mary.
 
-*Psalm*. Sing ye to the Lord, etc.,—*as above, p*. [167](#page_167).
+*Psalm*. Sing ye to the Lord, etc.,—*as above, p*. [167](#page_167.md).
 
  
 
@@ -572,7 +572,7 @@ AT PRIME.
 
 *Ant*. Holy Mary.
 
-*Psalm*. Have mercy on me, etc.,—*as above, p*. [159](#page_159).
+*Psalm*. Have mercy on me, etc.,—*as above, p*. [159](#page_159.md).
 
  
 
@@ -708,7 +708,7 @@ AT VESPERS.
 
 *Ant*. Holy Mary.
 
-*Psalm*. O clap your hands. . . *as above, p*. [164](#page_164).
+*Psalm*. O clap your hands. . . *as above, p*. [164](#page_164.md).
 
 <span id="page_173">p. 173</span>
 
@@ -772,7 +772,7 @@ AT PRIME.
 
 *Ant*. Holy Mary.
 
-*Psalm*. Have mercy on me, etc.—*as above, p*. [159](#page_159).
+*Psalm*. Have mercy on me, etc.—*as above, p*. [159](#page_159.md).
 
  
 
@@ -780,7 +780,7 @@ AT TIERCE.
 
 *Ant*. Holy Mary.
 
-*Psalm*. Shout with joy, etc.—*as above, p*. [169](#page_169).
+*Psalm*. Shout with joy, etc.—*as above, p*. [169](#page_169.md).
 
  
 
@@ -789,7 +789,7 @@ AT SEXT.
 *Ant*. Holy Mary.
 
 *Psalm*. May the Lord hear thee in the day, etc.—as above, [p.
-170](#page_170).
+170](#page_170.md).
 
  
 
@@ -797,7 +797,7 @@ AT NONES.
 
 *Ant*. Holy Mary.
 
-*Psalm*. In Thee, O Lord, have I hoped—*as above, p*. [171](#page_171).
+*Psalm*. In Thee, O Lord, have I hoped—*as above, p*. [171](#page_171.md).
 
  
 
@@ -805,7 +805,7 @@ AT VESPERS.
 
 *Ant*. Holy Mary.
 
-*Psalm*. O clap your hands, etc.—*as above, p*. [164](#page_164).
+*Psalm*. O clap your hands, etc.—*as above, p*. [164](#page_164.md).
 
 <span class="small">**Also note that the whole Psalm is not said but up
 to the verse, "Let all the earth be moved"; understand**</span>
@@ -881,36 +881,36 @@ until the octave of the Epiphany at all the Hours**.</span>
 
 ### Footnotes
 
-<span id="fn_570"></span>[154:1](wosf23.htm#fr_570) It was soon after
+<span id="fn_570"></span>[154:1](wosf23.htm#fr_570.md) It was soon after
 the canonization of St. Clare, about 1256, that Celano undertook the
 task of compiling this legend by order of Alexander IV.
 
-<span id="fn_571"></span>[154:2](wosf23.htm#fr_571) See *Acta S.S.*, t.
+<span id="fn_571"></span>[154:2](wosf23.htm#fr_571.md) See *Acta S.S.*, t.
 II, Aug., p. 761.
 
-<span id="fn_572"></span>[155:1](wosf23.htm#fr_572) See Little in
+<span id="fn_572"></span>[155:1](wosf23.htm#fr_572.md) See Little in
 *Opuscules*, t. I, p. 276.
 
-<span id="fn_573"></span>[155:2](wosf23.htm#fr_573) See *Spec. Perf.*
+<span id="fn_573"></span>[155:2](wosf23.htm#fr_573.md) See *Spec. Perf.*
 (ed. Sabatier), p. cxcvi.
 
-<span id="fn_574"></span>[155:3](wosf23.htm#fr_574) See *Opuscules*, t.
+<span id="fn_574"></span>[155:3](wosf23.htm#fr_574.md) See *Opuscules*, t.
 I, p. 55. This MS. contains only the first part of the Office; it ends
 with the words the "Lord hath reigned."
 
-<span id="fn_575"></span>[155:4](wosf23.htm#fr_575) See above, p. 3-4.
+<span id="fn_575"></span>[155:4](wosf23.htm#fr_575.md) See above, p. 3-4.
 Other MSS. containing the Office are enumerated by Wadding. See also
 Boehmer's *Analekten*.
 
-<span id="fn_576"></span>[155:5](wosf23.htm#fr_576) See above, [p.
-139](wosf18.htm#page_139).
+<span id="fn_576"></span>[155:5](wosf23.htm#fr_576.md) See above, [p.
+139](wosf18.htm#page_139.md).
 
-<span id="fn_577"></span>[155:6](wosf23.htm#fr_577) See above, [p.
-141](wosf18.htm#page_141).
+<span id="fn_577"></span>[155:6](wosf23.htm#fr_577.md) See above, [p.
+141](wosf18.htm#page_141.md).
 
-<span id="fn_578"></span>[166:1](wosf23.htm#fr_578) The Oxford Codex
+<span id="fn_578"></span>[166:1](wosf23.htm#fr_578.md) The Oxford Codex
 here reads "until Easter Sunday."
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](wosf24)
+[Next: Appendix](wosf24.md)

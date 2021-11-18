@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift28) 
-[Next](ift30) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift28.md) 
+[Next](ift30.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ gravel!
 
 ------------------------------------------------------------------------
 
-[Next: The Pigeon and the Crow](ift30)
+[Next: The Pigeon and the Crow](ift30.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](atom17)  [Next](atom19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](atom17)  [Next](atom19.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Atom-Smashing Power of Mind*, by Charles Fillmore, \[1949\], at
 Intangible Textual Heritage
 
@@ -233,4 +233,4 @@ true.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 17](atom19)
+[Next: Chapter 17](atom19.md)

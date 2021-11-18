@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre78)  [Next](gre80) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre78)  [Next](gre80.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ island for little worth, but bound himself withal to get Grettir away.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXXV: Thorbiorn Angle goes to Drangey to speak with
-Grettir](gre80)
+Grettir](gre80.md)

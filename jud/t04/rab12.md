@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](rab11)  [Next](rab13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](rab11)  [Next](rab13.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -61,13 +61,13 @@ was the son of the brother of R. Hyya on his father's side, and also the
 son of his sister on his mother's side. And when Rabh came to Palestine,
 R. Hyya asked him: Is thy father alive? And he answered: My mother is
 alive. Then R. Hyya asked again: Is your mother really alive yet? And he
-answered. My father is alive. <span id="fr_120"></span>[A1](#fn_120)
+answered. My father is alive. <span id="fr_120"></span>[A1](#fn_120.md)
 Then R. Hyya told his servant: Take off my shoes; but a little later you
 shall take my garments in the wash-house. From this we have learned
 three things: First, that a mourner must not wear shoes; second, that a
 remote-in formation mourning is customary for only one day; and, third,
 that a part of the day is considered as a whole day. <span
-id="fr_121"></span>[A2](#fn_121)
+id="fr_121"></span>[A2](#fn_121.md)
 
 B. There were different societies in Jerusalem, and each of them had to
 attend to different things. One was to attend mourners; one to attend
@@ -82,7 +82,7 @@ house of feasting; inasmuch as that is the end of all men, and let the
 living lay it to his heart," as whoever follows the bier, knows that
 this will happen also to him.
 
- <span id="fr_122"></span>[B1](#fn_122)We have learned in a Boraitha: R.
+ <span id="fr_122"></span>[B1](#fn_122.md)We have learned in a Boraitha: R.
 Meir used to say: It is written \[Eccl. vii. 2\]: "It is better to go to
 the house of mourning
 
@@ -98,7 +98,7 @@ with burying the dead, will be elevated by Heaven, as it is written
 \[Prov. xxv. 7\]: "For better it is that it be said unto thee, Come up
 higher, than that thou shouldst be put lower in the presence of the
 prince, which thy own eyes have (often) seen." <span
-id="fr_123"></span>[B2](#fn_123)
+id="fr_123"></span>[B2](#fn_123.md)
 
 The rabbis taught: When the sons of R. Ishmael died, four elder sages
 came to console with him; viz., R. Tarphon, R. Jose the Galilean, R.
@@ -154,7 +154,7 @@ Chron. xxxv. 23\]: "And the archers shot the king Josiah?" And he
 answered him: "So said R. Johanan: (The promise was fulfilled in that)
 the Temple was not destroyed during his life-time."
 
- <span id="fr_124"></span>[B3](#fn_124)R. Johanan said: "The consolers
+ <span id="fr_124"></span>[B3](#fn_124.md)R. Johanan said: "The consolers
 are not permitted to speak consolation before the mourner engages in
 conversation, as it is written \[Job, ii. 13\]: "But no one spoke a word
 unto him," etc.; \[ibid. iii. 1\]: "After this time Job opened his
@@ -168,7 +168,7 @@ banquet of those who were
 
 <span id="page_55">p. 55</span>
 
-stretched out shall pass away?' <span id="fr_125"></span>[B4](#fn_125)
+stretched out shall pass away?' <span id="fr_125"></span>[B4](#fn_125.md)
 R. Hama bar Hanina said: Whence do we know that a bridegroom takes his
 seat at the head of the guests? It is written \[Isa. lxi. 10\]: "As a
 bridegroom decketh himself with elegant attire." (The Hebrew reading:
@@ -194,7 +194,7 @@ however, said: There is not any need for keeping the bones separated, as
 the basket in which they will be buried will finally be rotten, and the
 bones will be mixed again; if, however, he desires that they shall be
 separate, he shall bury them in caskets of cedar. <span
-id="fr_126"></span>[C1](#fn_126)
+id="fr_126"></span>[C1](#fn_126.md)
 
 <span id="page_56">p. 56</span>
 
@@ -211,15 +211,15 @@ a chest protector, and then I entered, rent my garments over them, and
 covered them with a sheet. I did to my father as he has done to his. It
 is not allowed for a man to wrap and tie up the corpse of a woman; a
 woman, however, may do so to a man. <span
-id="fr_127"></span>[E1](#fn_127) The same is the case when a woman
+id="fr_127"></span>[E1](#fn_127.md) The same is the case when a woman
 suffers in her intestines, a man must not examine nor attend her; a
 woman, however, is allowed to do so to a man.
 
 F. Abba Saul b. Botnith said in his will to his sons: Bury me at the
 feet of my father, and take off the Tzitzith <span
-id="fr_128"></span>[F1](#fn_128) from my *palium*.
+id="fr_128"></span>[F1](#fn_128.md) from my *palium*.
 
- <span id="fr_129"></span>[G1](#fn_129)*G*. With all relatives one is
+ <span id="fr_129"></span>[G1](#fn_129.md)*G*. With all relatives one is
 allowed to bathe, except with his father, father-in-law, his stepfather,
 the husband of his sister, and the instructor from whom he received his
 wisdom. R. Jehudah, however, said: If his father was old or sick he may
@@ -254,7 +254,7 @@ mouth will be filled with gravel stones."
 
 ### Footnotes
 
-<span id="fn_120"></span>[52:A1](rab12.htm#fr_120)
+<span id="fn_120"></span>[52:A1](rab12.htm#fr_120.md)
 
 ### CHAPTER XII.
 
@@ -262,23 +262,23 @@ A. In the ancient times one was very careful not to bring a bad message;
 and even when asked, as the Talmud prohibits it, he would give evasive
 replies.
 
-<span id="fn_121"></span>[52:A2](rab12.htm#fr_121) This is inferred from
+<span id="fn_121"></span>[52:A2](rab12.htm#fr_121.md) This is inferred from
 what R. Hyya told his servant-to bring his garments into the wash-house,
 that, after he had mourned a part of the day, on the remaining part he
 might do all he liked.
 
-<span id="fn_122"></span>[52:B1](rab12.htm#fr_122) *B*. *Gemara* from
+<span id="fn_122"></span>[52:B1](rab12.htm#fr_122.md) *B*. *Gemara* from
 Moed Katan.
 
-<span id="fn_123"></span>[53:B2](rab12.htm#fr_123) We must leave this
+<span id="fn_123"></span>[53:B2](rab12.htm#fr_123.md) We must leave this
 without any explanation, as there are no commentaries for this besides
 Eidlis in his "Hidushe-Agadoth," and it is too complicated to be
 translated here.
 
-<span id="fn_124"></span>[54:B3](rab12.htm#fr_124) *B*. *Gemara* from
+<span id="fn_124"></span>[54:B3](rab12.htm#fr_124.md) *B*. *Gemara* from
 Moed Katan.
 
-<span id="fn_125"></span>[55:B4](rab12.htm#fr_125) The Hebrew text
+<span id="fn_125"></span>[55:B4](rab12.htm#fr_125.md) The Hebrew text
 reads: "Vesor mirsah seru'him." The letter Samech has the same sound as
 the left-pointed Shin, and therefore "vesor" has the same meaning as if
 written with a left-pointed "Shin," viz., "a chief." "Mirsah" is given
@@ -286,7 +286,7 @@ the same meaning of "Mirseah" \[Jer. xvi. 5\], a mourner--*i.e.*, the
 mourner became chief of the seru'him, those who were stretched out (the
 comforters), by taking his seat at the head.
 
-<span id="fn_126"></span>[55:C1](rab12.htm#fr_126) *C*. There is
+<span id="fn_126"></span>[55:C1](rab12.htm#fr_126.md) *C*. There is
 difficulty in understanding the meaning of R. Johanan b. Nuri, as there
 are many errors in the text, which were corrected by different
 commentators. What we understand is, that in their time they had
@@ -297,14 +297,14 @@ they must nevertheless not be mixed together; and R. Johanan b. Nuri
 maintains that it is no use separating them, and advises what one shall
 do when he wishes them to be kept separate.
 
-<span id="fn_127"></span>[56:E1](rab12.htm#fr_127) *E*. Because a man is
+<span id="fn_127"></span>[56:E1](rab12.htm#fr_127.md) *E*. Because a man is
 more excitable than a woman.
 
-<span id="fn_128"></span>[56:F1](rab12.htm#fr_128) *F*. Tzitzith--the
+<span id="fn_128"></span>[56:F1](rab12.htm#fr_128.md) *F*. Tzitzith--the
 fringes (see Numb. xv. 38)--and *Palium* in our times is called Tallith,
 in which the show-fringes are put in, and are worn during prayer.
 
-<span id="fn_129"></span>[56:G1](rab12.htm#fr_129) *G*. Speaking above
+<span id="fn_129"></span>[56:G1](rab12.htm#fr_129.md) *G*. Speaking above
 of men who must not see the body of a woman, the Mishna tells also that
 it is not customary for a son to see his father or his father-in-law,
 whom he must respect, naked. As to the husband of his sister, however,
@@ -313,4 +313,4 @@ inform his sister of it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](rab13)
+[Next: Chapter XIII](rab13.md)

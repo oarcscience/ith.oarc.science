@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet09)  [Next](tet11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet09)  [Next](tet11.md) 
 
 ------------------------------------------------------------------------
 
@@ -303,4 +303,4 @@ night they are kept up, and sometimes there are day performances too.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Boorah and Other Meetings](tet11)
+[Next: Chapter IX. The Boorah and Other Meetings](tet11.md)

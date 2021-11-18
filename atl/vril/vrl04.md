@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl03)  [Next](vrl05) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl03)  [Next](vrl05.md) 
 
 ------------------------------------------------------------------------
 
@@ -298,4 +298,4 @@ daughter, with large, deep, inscrutable eyes intently fixed upon my own.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER VI](vrl05)
+[Next: CHAPTER VI](vrl05.md)

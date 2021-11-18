@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat04)  [Next](jat06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat04)  [Next](jat06.md) 
 
 ------------------------------------------------------------------------
 
-### 3. THE CULTURE HEROES AND OWL. <span id="fr_7"></span>[1](#fn_7)
+### 3. THE CULTURE HEROES AND OWL. <span id="fr_7"></span>[1](#fn_7.md)
 
 Kubatc'istcine and Naiyenesgani were companions. When they came to visit
-their grandmother, YoLgaiistdzan <span id="fr_8"></span>[2](#fn_8) they
+their grandmother, YoLgaiistdzan <span id="fr_8"></span>[2](#fn_8.md) they
 said to her, "Make us something to play with." "Go and see your father,"
 she replied. When they came near the house of the sun, children put
 their heads out of the door and looked at them. When their mother was
@@ -41,7 +41,7 @@ The boys were still standing there. "Hurry, put them in the ashes to
 roast for me," Owl said. Naiyenesgani said, "I am stronger than he."
 Then she separated the ashes, put them in the middle of the fire, and
 arranged the fire on top of them, They sat there in the middle of the
-fire telling stories. <span id="fr_9"></span>[1](#fn_9)
+fire telling stories. <span id="fr_9"></span>[1](#fn_9.md)
 
 "Hurry now, I want to eat," he said, "take them out for me." When she
 poked in the ashes for them, one of them jumped out. Then she poked
@@ -58,10 +58,10 @@ they said. They went around playing with it until sunset.
 
 ### Footnotes
 
-<span id="fn_7"></span>[196:1](jat05.htm#fr_7) Mooney, (a), p. 201;
+<span id="fn_7"></span>[196:1](jat05.htm#fr_7) Mooney, (a.md), p. 201;
 compare also, Lowie, (a), p. 281.
 
-<span id="fn_8"></span>[196:2](jat05.htm#fr_8) There are many varying
+<span id="fn_8"></span>[196:2](jat05.htm#fr_8.md) There are many varying
 versions as to the origin of these gods or culture among the several
 Apache tribes and the Navajo. Some insist that there is but one person
 with two names. Those who hold that there are two persons say that water
@@ -77,11 +77,11 @@ with the twin brothers of northern mythology (Lowie, (a), pp. 280-7;
 Wissler and Duvall, pp. 40-53.) Dr. Lowie has fully discussed the
 distribution of this and related myths, (b), pp. 97-148.
 
-<span id="fn_9"></span>[197:1](jat05.htm#fr_9) The Kiowa-Apache, who
+<span id="fn_9"></span>[197:1](jat05.htm#fr_9.md) The Kiowa-Apache, who
 have this myth, explain that one being, the son of the water was able to
 protect himself in the pot, and the other could not be hurt by fire. The
 Kiowa-Apache names are different.
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Killing of the Monsters.](jat06)
+[Next: 4. The Killing of the Monsters.](jat06.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah14)  [Next](sah16) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah14)  [Next](sah16.md) 
 
 ------------------------------------------------------------------------
 
@@ -2039,4 +2039,4 @@ Old Testament, when God, Mind, spake and it was done.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI - The Apocalypse](sah16) 
+[Next: Chapter XVI - The Apocalypse](sah16.md) 

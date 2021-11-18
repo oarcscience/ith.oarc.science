@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf06)  [Next](tsf08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf06)  [Next](tsf08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -168,7 +168,7 @@ And the faithful, in turn, love these symbols of creeds that are in
 themselves highly abstract. The very cross that means so much to a
 Christian
 
-<span id="img_10000"></span> ![The Persian Triad](img/10000.jpg)  
+<span id="img_10000"></span> ![The Persian Triad](img/10000.jpg.md)  
 The Persian Triad
 
 may convey an entirely different idea to a man of another belief. In the
@@ -392,7 +392,7 @@ Nandi—the sacred white bull of Siva—
 
 [![The Serpent the Sacred Image of the Solo-Phallic
 Cult](tn/10700.jpg)  
-Click to enlarge](img/10700.jpg)  
+Click to enlarge](img/10700.jpg.md)  
 The Serpent the Sacred Image of the Solo-Phallic Cult  
 
 is still the object of much veneration. For the Persians and the Jews
@@ -446,7 +446,7 @@ it is evil in the faith of Zoroaster; it was so conceived in the
 Biblical story of Adam and Eve.
 
 <span id="img_10900"></span> ![Serpent worship in early Christian
-art](img/10900.jpg)  
+art](img/10900.jpg.md)  
 Serpent worship in early Christian art
 
 In Sunday school, we learn of the serpent in his glory. He did not crawl
@@ -564,7 +564,7 @@ may find its way to her. This is the
 <span id="img_11300"></span>
 
 [![A Serpent god&lt;br&gt; (An old Chinese print)](tn/11300.jpg)  
-Click to enlarge](img/11300.jpg)  
+Click to enlarge](img/11300.jpg.md)  
 A Serpent god  
 (An old Chinese print)  
 
@@ -637,7 +637,7 @@ were
 <span id="img_11600"></span>
 
 [![Kwan-yin, the Oriental Queen of Heaven](tn/11600.jpg)  
-Click to enlarge](img/11600.jpg)  
+Click to enlarge](img/11600.jpg.md)  
 Kwan-yin, the Oriental Queen of Heaven  
 
 <span id="page_117">p. 117</span>
@@ -747,7 +747,7 @@ her yoni fully
 
 [![Maya, the Hindu goddess, forcing from her breasts the nourishment of
 all creation](tn/12000.jpg)  
-Click to enlarge](img/12000.jpg)  
+Click to enlarge](img/12000.jpg.md)  
 Maya, the Hindu goddess, forcing from her breasts the nourishment of all
 creation  
 
@@ -801,7 +801,7 @@ Any oval or fissure may represent the female generative
 <span id="img_12200"></span>
 
 [![An Oriental divinity](tn/12200.jpg)  
-Click to enlarge](img/12200.jpg)  
+Click to enlarge](img/12200.jpg.md)  
 An Oriental divinity  
 
 organ. There were oval stones with a cut in them to which women came to
@@ -853,7 +853,7 @@ few people give it a thought. The act of putting on the ring is only the
 reverse of the function of the consummated marriage. It
 
 <span id="img_12400"></span> ![The Sheela-na-gig found on ancient Irish
-churches ](img/12400.jpg)  
+churches ](img/12400.jpg.md)  
 The Sheela-na-gig found on ancient Irish churches
 
 would thus be more appropriate if the groom put his finger through the
@@ -998,7 +998,7 @@ life.
 Along with the rod belong the bow and arrow which are likewise lingam
 symbols. Above the Assyrian grove,
 
-<span id="img_12900"></span> ![An early Priapic statue](img/12900.jpg)  
+<span id="img_12900"></span> ![An early Priapic statue](img/12900.jpg.md)  
 An early Priapic statue
 
 there was a winged figure, the celestial bowman, who was implored by all
@@ -1048,7 +1048,7 @@ circumambulating it and by prostrating thyself before Siva, represented
 under this symbol."
 
 <span id="img_13100"></span> ![As the god of love
-developed](img/13100.jpg)  
+developed](img/13100.jpg.md)  
 As the god of love developed
 
 The Roman lingam divinity was also worshipped by offerings of flowers,
@@ -1163,7 +1163,7 @@ telling blows
 <span id="img_13500"></span>
 
 [![The Scandinavian Tree of Life](tn/13500.jpg)  
-Click to enlarge](img/13500.jpg)  
+Click to enlarge](img/13500.jpg.md)  
 The Scandinavian Tree of Life  
 
 on its trunk, saying: "Will you now bear fruit or not? If you do not, I
@@ -1319,4 +1319,4 @@ aromatic flower of the human soul—its sentiments of love.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. A Day with Baal](tsf08)
+[Next: Chapter I. A Day with Baal](tsf08.md)

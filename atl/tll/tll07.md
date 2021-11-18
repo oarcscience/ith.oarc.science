@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll06)  [Next](tll08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll06)  [Next](tll08.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ make them truly human.
 
 ------------------------------------------------------------------------
 
-[Next: Size and Consistency of Man's Body](tll08)
+[Next: Size and Consistency of Man's Body](tll08.md)

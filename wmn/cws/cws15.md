@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws14)  [Next](cws16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws14)  [Next](cws16.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XI
 
-#### CONCERNING THE PROPHECY OF THE TIME OF THE END <span id="fr_65"></span>[1](#fn_65)
+#### CONCERNING THE PROPHECY OF THE TIME OF THE END <span id="fr_65"></span>[1](#fn_65.md)
 
 AS there was a return of the spirit, or angel, of Elias in the person of
 John the Baptist before the advent of Jesus, so there will be a return
@@ -81,7 +81,7 @@ Divine in Humanity.
 
 "But wheresoever the dead carcase of error remains, around it, like
 vultures, will gather both deceivers and deceived. <span
-id="fr_66"></span>[1](#fn_66)
+id="fr_66"></span>[1](#fn_66.md)
 
 "And upon them, the profane, there shall be darkness; the Spirit shall
 be quenched and the soul extinct; and there shall be no more any light
@@ -128,12 +128,12 @@ him the fisherman Peter to meet the man of the coming sign.
 
 Because, as the Lord was first manifest at a wine-feast in the morning,
 so must he consummate his work at a wine-feast in the evening. <span
-id="fr_67"></span>[1](#fn_67)
+id="fr_67"></span>[1](#fn_67.md)
 
 It is his Pass-Over; for thereafter the sun must pass into a new sign.
 
 After the Fish, the Water-Carrier; but the Lamb of God <span
-id="fr_68"></span>[2](#fn_68) remains always in the place of victory,
+id="fr_68"></span>[2](#fn_68.md) remains always in the place of victory,
 being slain from the foundation of the world.
 
 For his place is the place of the sun's triumph.
@@ -179,7 +179,7 @@ And in that day every man shall sit under the vine and the
 <span id="page_27">p. 27</span>
 
 fig-tree; the dayspring shall arise in the orient, and the fig-tree
-shall bear her fruit. <span id="fr_69"></span>[1](#fn_69)
+shall bear her fruit. <span id="fr_69"></span>[1](#fn_69.md)
 
 For, from the beginning, the fig-leaf covered the shame of incarnation,
 because the riddle of existence can be expounded only by him who has the
@@ -202,10 +202,10 @@ are at hand,--"even at the doors."
 
 ### Footnotes
 
-<span id="fn_65"></span>[23:1](cws15.htm#fr_65) See note on next page
+<span id="fn_65"></span>[23:1](cws15.htm#fr_65.md) See note on next page
 but one.
 
-<span id="fn_66"></span>[25:1](cws15.htm#fr_66) The foregoing part of
+<span id="fn_66"></span>[25:1](cws15.htm#fr_66.md) The foregoing part of
 this utterance was received at Paris, December 6, 1879, in sleep, the
 inspiring influence impressing itself upon the seeress as being the
 angel Gabriel--a circumstance which caused some perplexity--her usual
@@ -217,17 +217,17 @@ it appeared.    E. M.
 
 Referred to in *Life of Anna Kingsford*, vol. i, pp. 310-320.
 
-<span id="fn_67"></span>[26:1](cws15.htm#fr_67) Wine is the symbol for
+<span id="fn_67"></span>[26:1](cws15.htm#fr_67.md) Wine is the symbol for
 the spirit, as water for the soul.    E. M.
 
-<span id="fn_68"></span>[26:2](cws15.htm#fr_68) The pure spirit
+<span id="fn_68"></span>[26:2](cws15.htm#fr_68.md) The pure spirit
 everlastingly shed by Deity for the world's creation, sustenance, and
 redemption.    E. M.
 
-<span id="fn_69"></span>[27:1](cws15.htm#fr_69) Zech. iii, 10; Mic. iv,
+<span id="fn_69"></span>[27:1](cws15.htm#fr_69.md) Zech. iii, 10; Mic. iv,
 4; Cant. ii, 13.
 
 ------------------------------------------------------------------------
 
 [Next: No. XII: Concerning The Soul: Its Origin, Nature, And
-Potentialities](cws16)
+Potentialities](cws16.md)

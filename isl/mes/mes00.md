@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](mes01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](mes01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -69,19 +69,19 @@ because it was published prior to 1923.
 
 <span id="img_fcover"></span> <span align="CENTER"> [![front cover
 medallion](tn/fcover.jpg)  
-Click to enlarge](img/fcover.jpg)  
+Click to enlarge](img/fcover.jpg.md)  
 front cover medallion  
 </span>
 
 <span id="img_bcover"></span> <span align="CENTER"> [![back cover
 medallion](tn/bcover.jpg)  
-Click to enlarge](img/bcover.jpg)  
+Click to enlarge](img/bcover.jpg.md)  
 back cover medallion  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
@@ -113,4 +113,4 @@ cités, comme autant de sentences."—*D’Herbelot*, Bibliothèque Orientale.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](mes01)
+[Next: Contents](mes01.md)

@@ -22,30 +22,30 @@ of Baruch, 'Blessed.' He worked all his life as a lens grinder.
 
 <span class="c_da"></span>
 
-<span class="c_e"> <span class="c_t">[Ethics](ethics/index)</span>  
+<span class="c_e"> <span class="c_t">[Ethics](ethics/index.md)</span>  
 tr. by <span class="c_a">R.H.M. Elwes</span> \[<span
 class="c_d">1883</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[Ethica (Latin text of The
-Ethics)](lateth/index)</span>   by <span class="c_a">Baruch
+Ethics)](lateth/index.md)</span>   by <span class="c_a">Baruch
 Spinoza</span> \[<span class="c_d">1677</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[A Theologico-Political
-Treatise](treat/index)</span>  
+Treatise](treat/index.md)</span>  
 tr. by <span class="c_a">R.H.M. Elwes</span> \[<span
 class="c_d">1883</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[On the Improvement of
-Understanding](under/index)</span>  
+Understanding](under/index.md)</span>  
 tr. by <span class="c_a">R.H.M. Elwes</span> \[<span
 class="c_d">1883</span>\]  
 </span>
 
 <span class="c_e"> <span
-class="c_t">[Correspondence](corr/index)</span>  
+class="c_t">[Correspondence](corr/index.md)</span>  
 tr. by <span class="c_a">R.H.M. Elwes</span> \[<span
 class="c_d">1883</span>\]  
 </span>

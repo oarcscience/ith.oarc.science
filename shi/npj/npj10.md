@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj09) 
-[Next](npj11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj09.md) 
+[Next](npj11.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ these musicians together.
 Truly it is said that strangers who shelter under the same tree or draw
 water from the same pool will he friends in another life. How much the
 more must intercourse of many years, kindness and favour so deep . .
-. <span id="fr_24"></span>[1](#fn_24)
+. <span id="fr_24"></span>[1](#fn_24.md)
 
 Surely they will be heard,  
 The prayers that all night long  
@@ -56,7 +56,7 @@ TSUNEMASA (*speaking off the stage*).
 
 "The wind blowing through withered trees: rain from a cloudless sky.  
 The moon shining on level sands: frost on a summer's night." <span
-id="fr_25"></span>[1](#fn_25)  
+id="fr_25"></span>[1](#fn_25.md)  
 Frost lying . . . but I, because I could not lie at rest,  
 Am come back to the World for a while,  
 Like a shadow that steals over the grass.  
@@ -115,7 +115,7 @@ What but the longing to look again, through the wall of death,
 On one he loved?  
 "Sooner shall the waters in its garden cease to flow  
 Than I grow weary of living in the Palace of my Lord." <span
-id="fr_26"></span>[1](#fn_26)  
+id="fr_26"></span>[1](#fn_26.md)  
 Like a dream he has come,  
 Like a morning dream.
 
@@ -140,7 +140,7 @@ Plucking them even as now
 This music plucks at your heart;  
 The sound of the plectrum, then as now  
 Divine music fulfilling <span id="page_54">p. 54</span>  
-The vows of Sarasvati. <span id="fr_27"></span>[1](#fn_27)  
+The vows of Sarasvati. <span id="fr_27"></span>[1](#fn_27.md)  
 But this Tsunemasa,  
 Was he not from the days of his childhood pre-eminent  
 In faith, wisdom, benevolence,  
@@ -180,7 +180,7 @@ The sky is clear, yet there is a sound as of sudden rain . . . .
 GYŌKEI.
 
 Rain beating carelessly on trees and grasses. What season's music <span
-id="fr_28"></span>[2](#fn_28) ought we to play?
+id="fr_28"></span>[2](#fn_28.md) ought we to play?
 
  
 
@@ -193,7 +193,7 @@ No. It is not rain. Look! At the cloud's fringe
 CHORUS.
 
 The moon undimmed  
-Hangs over the pine-woods of Narabi <span id="fr_29"></span>[1](#fn_29)
+Hangs over the pine-woods of Narabi <span id="fr_29"></span>[1](#fn_29.md)
 Hills.  
 It was the wind you heard;  
 The wind blowing through the pine-leaves  
@@ -208,19 +208,19 @@ Murmuring disjointedly.
 The third and fourth string  
 Were like the voice of a caged stork  
 Crying for its little ones at night  
-In low, dejected notes." <span id="fr_30"></span>[2](#fn_30)  
+In low, dejected notes." <span id="fr_30"></span>[2](#fn_30.md)  
 The night must not cease.  
 The cock shall not crow  
-And put an end to his wandering. <span id="fr_31"></span>[3](#fn_31)
+And put an end to his wandering. <span id="fr_31"></span>[3](#fn_31.md)
 
 TSUNEMASA.
 
-"One note of the phœnix-flute <span id="fr_32"></span>[4](#fn_32)
+"One note of the phœnix-flute <span id="fr_32"></span>[4](#fn_32.md)
 
 CHORUS.
 
 Shakes the autumn clouds from the mountain-side." <span
-id="fr_33"></span>[5](#fn_33)  
+id="fr_33"></span>[5](#fn_33.md)  
 The phœnix and his mate swoop down  
 Charmed by its music, beat their wings  
 And dance in rapture, perched upon the swaying boughs  
@@ -237,7 +237,7 @@ TSUNEMASA.
 Oh terrible anguish!  
 For a little while I was back in the World and my heart set on its
 music, on revels of midnight. But now the hate is rising in me . . .
- <span id="fr_34"></span>[1](#fn_34)
+ <span id="fr_34"></span>[1](#fn_34.md)
 
 GYŌKEI.
 
@@ -265,7 +265,7 @@ Like flames they cover him.
 "Oh, I am ashamed of the woes that consume me.  
 No man must see me. I will put out the candle!" he said;  
 For a foolish man is like a summer moth that flies into the flame. <span
-id="fr_35"></span>[2](#fn_35)  
+id="fr_35"></span>[2](#fn_35.md)  
 The wind that blew out the candle  
 Carried him away. In the darkness his ghost has vanished.  
 The shadow of his ghost has vanished.
@@ -274,45 +274,45 @@ The shadow of his ghost has vanished.
 
 ### Footnotes
 
-<span id="fn_24"></span>[51:1](npj10.htm#fr_24) The relation between
+<span id="fn_24"></span>[51:1](npj10.htm#fr_24.md) The relation between
 Tsunemasa and the Emperor is meant.
 
-<span id="fn_25"></span>[52:1](npj10.htm#fr_25) I.e. the wind sounds
+<span id="fn_25"></span>[52:1](npj10.htm#fr_25.md) I.e. the wind sounds
 like rain; the sands appear to be covered with frost. A couplet from a
 poem by Po Chü-i.
 
-<span id="fn_26"></span>[53:1](npj10.htm#fr_26) Part of the poem which
+<span id="fn_26"></span>[53:1](npj10.htm#fr_26.md) Part of the poem which
 Tsunemasa gave to the Emperor before he went to battle.
 
-<span id="fn_27"></span>[54:1](npj10.htm#fr_27) Goddess of Music, who
+<span id="fn_27"></span>[54:1](npj10.htm#fr_27.md) Goddess of Music, who
 vowed that she would lead all souls to salvation by the music of her
 lute.
 
-<span id="fn_28"></span>[54:2](npj10.htm#fr_28) Different tunes were
+<span id="fn_28"></span>[54:2](npj10.htm#fr_28.md) Different tunes were
 appropriate to different seasons.
 
-<span id="fn_29"></span>[55:1](npj10.htm#fr_29) A range of hills to the
+<span id="fn_29"></span>[55:1](npj10.htm#fr_29.md) A range of hills to the
 south of the Ninnaji. The name means the "Row of Hills."
 
-<span id="fn_30"></span>[55:2](npj10.htm#fr_30) Quotation from Po
+<span id="fn_30"></span>[55:2](npj10.htm#fr_30.md) Quotation from Po
 Chü-i's "Lute Girl's Song"; for paraphrase see Giles' *Chinese
 Literature*, p. 166.
 
-<span id="fn_31"></span>[55:3](npj10.htm#fr_31) The ghost must return at
+<span id="fn_31"></span>[55:3](npj10.htm#fr_31.md) The ghost must return at
 dawn.
 
-<span id="fn_32"></span>[55:4](npj10.htm#fr_32) The *shēng*.
+<span id="fn_32"></span>[55:4](npj10.htm#fr_32.md) The *shēng*.
 
-<span id="fn_33"></span>[55:5](npj10.htm#fr_33) Quotation from Chinese
+<span id="fn_33"></span>[55:5](npj10.htm#fr_33.md) Quotation from Chinese
 poem in *Rōyei Shu*.
 
-<span id="fn_34"></span>[56:1](npj10.htm#fr_34) He had died in battle
+<span id="fn_34"></span>[56:1](npj10.htm#fr_34.md) He had died in battle
 and was therefore condemned to perpetual war with the demons of Hell.
 
-<span id="fn_35"></span>[56:2](npj10.htm#fr_35) "The wise man is like
+<span id="fn_35"></span>[56:2](npj10.htm#fr_35.md) "The wise man is like
 the autumn deer crying in the mountains; the fool is like the moth which
 flies into the candle" (Gempei Seisuiki, chap. viii.).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](npj11)
+[Next: Chapter II](npj11.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp16) [Next](ycgp18)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp16) [Next](ycgp18.md)
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ kings or subjects."
 
 ------------------------------------------------------------------------
 
-[Next](ycgp18)
+[Next](ycgp18.md)
 
  
 

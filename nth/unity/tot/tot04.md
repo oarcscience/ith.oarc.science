@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](tot03)  [Next](tot05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](tot03)  [Next](tot05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Talks on Truth*, by Charles Fillmore, \[1912\], at Intangible Textual
 Heritage
 
@@ -301,4 +301,4 @@ opened unto you." This promise is to everyone.
 
 ------------------------------------------------------------------------
 
-[Next: Lesson 4](tot05)
+[Next: Lesson 4](tot05.md)

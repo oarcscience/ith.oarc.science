@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah49)  [Next](oah51) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah49)  [Next](oah51.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ second year of the first dawn of dan.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](oah51)
+[Next: Chapter VIII](oah51.md)

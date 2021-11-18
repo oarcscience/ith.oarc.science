@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr22)  [Next](corr24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr22)  [Next](corr24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -27,7 +27,7 @@ partial allegorization of Scripture*.\]
 To the most illustrious Master Benedict de Spinoza Henry Oldenburg sends
 greetings.
 
-In your last letter, <span id="fr_23"></span>[2](#fn_23) written to me
+In your last letter, <span id="fr_23"></span>[2](#fn_23.md) written to me
 on the 7th of February, there are some points which seem to deserve
 criticism. You say that a man cannot complain, because God has denied
 him the true knowledge of Himself, and strength sufficient to avoid
@@ -36,16 +36,16 @@ except that which follows necessarily from its cause. But I say, that
 inasmuch as God, the creator of men, formed them after His own image,
 which seems to imply in its concept wisdom, goodness, and power, it
 appears quite to follow, that it is more within the sphere of man's
-power <span id="fr_24"></span>[3](#fn_24) to have a sound mind than to
+power <span id="fr_24"></span>[3](#fn_24.md) to have a sound mind than to
 have a sound body. For physical soundness of body follows from
 mechanical causes, but soundness of mind depends on purpose
 
 <span id="page_308">p. 308</span>
 
 and design. You add, that men may be inexcusable, <span
-id="fr_25"></span>[1](#fn_25) and yet suffer pain in many ways. This
+id="fr_25"></span>[1](#fn_25.md) and yet suffer pain in many ways. This
 seems hard at first sight, and what you add by way of proof, namely,
-that a dog <span id="fr_26"></span>[2](#fn_26) mad from having been
+that a dog <span id="fr_26"></span>[2](#fn_26.md) mad from having been
 bitten is indeed to be excused, but yet is rightly killed, does not seem
 to settle the question. For the killing of such a dog would argue
 cruelty, were it not necessary in order to preserve other dogs and
@@ -94,19 +94,19 @@ experiments of the Royal Society, if God grant me life and health.
 
 ### Footnotes
 
-<span id="fn_23"></span>[307:2](corr23.htm#fr_23) Letter XXV.
+<span id="fn_23"></span>[307:2](corr23.htm#fr_23.md) Letter XXV.
 
-<span id="fn_24"></span>[307:3](corr23.htm#fr_24) *Potestas*, as
+<span id="fn_24"></span>[307:3](corr23.htm#fr_24.md) *Potestas*, as
 distinguished from *potentia*—the word just above translated power—means
 power delegated by a rightful superior, as here by God. So it is
 rendered here "sphere of power," and in Tract. Pol. generally
 "authority." It would not be proper to say that the "image of God"
 implied *potestas*.
 
-<span id="fn_25"></span>[308:1](corr23.htm#fr_25) Surely this is a
+<span id="fn_25"></span>[308:1](corr23.htm#fr_25.md) Surely this is a
 mistake for "excusable."—\[<span class="smallcaps">Tr</span>.\]
 
-<span id="fn_26"></span>[308:2](corr23.htm#fr_26) See Letter XXV.
+<span id="fn_26"></span>[308:2](corr23.htm#fr_26.md) See Letter XXV.
 Oldenburg misunderstands Spinoza's illustration, because he takes
 "canis" in the phrase, "qui ex morsu canis furit," to be nominative
 instead of genitive; "a dog which goes mad from a bite," instead of "he
@@ -114,4 +114,4 @@ who goes mad from the bite of a dog."
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXVI. From Simon de Vries](corr24)
+[Next: Letter XXVI. From Simon de Vries](corr24.md)

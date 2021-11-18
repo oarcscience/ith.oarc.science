@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar28)  [Next](gar30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar28)  [Next](gar30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -51,13 +51,13 @@ of man.
 A Lodge has six jewels; three movable and three immovable.
 
 The immovable jewels are the SQUARE, LEVEL, and PLUMB. <span
-id="fr_17"></span>[\*](#fn_17)
+id="fr_17"></span>[\*](#fn_17.md)
 
 The Square inculcates morality; the Level, equality; and the Plumb,
 rectitude of conduct.
 
 The movable jewels are the ROUGH ASHLAR, the PERFECT ASHLAR, and the
-TRESTLE-BOARD. <span id="fr_18"></span>[†](#fn_18)
+TRESTLE-BOARD. <span id="fr_18"></span>[†](#fn_18.md)
 
 <span id="page_84">p. 84</span>
 
@@ -93,12 +93,12 @@ heavens.
 
 ### Footnotes
 
-<span id="fn_17"></span>[83:\*](gar29.htm#fr_17) They are called
+<span id="fn_17"></span>[83:\*](gar29.htm#fr_17.md) They are called
 Immovable jewels, because they are always to be found in the East, West,
 and South parts of the Lodge, being worn by the Master, Senior Warden,
 and Junior Warden.
 
-<span id="fn_18"></span>[83:†](gar29.htm#fr_18) Such is the
+<span id="fn_18"></span>[83:†](gar29.htm#fr_18.md) Such is the
 generally-acknowledged division of the jewels in the Lodges in this
 country; but in the English Lodges, the reverse is the case. There, the
 Rough and Perfect Ashlars and the Trestle-board are the immovable
@@ -107,4 +107,4 @@ descend from one set of officers to their successors.
 
 ------------------------------------------------------------------------
 
-[Next: Situation of the Lodge](gar30)
+[Next: Situation of the Lodge](gar30.md)

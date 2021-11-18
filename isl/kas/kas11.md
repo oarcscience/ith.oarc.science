@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](kas10)  [Next](kas12) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](kas10)  [Next](kas12.md) 
 
 ------------------------------------------------------------------------
 
@@ -272,4 +272,4 @@ the tinkling of the camel's bell.
 
 ------------------------------------------------------------------------
 
-[Next: Note I](kas12)
+[Next: Note I](kas12.md)

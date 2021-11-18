@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa08) [Next](rsa10)
+[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa08) [Next](rsa10.md)
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 > *The Initiation of a Diviner.*
 >
 > T<span class="small">HE</span> condition of a man who is about to be
-> an inyanga<span id="page_259_fr_1"></span>[1](#page_259_note_1) is
+> an inyanga<span id="page_259_fr_1"></span>[1](#page_259_note_1.md) is
 > this: At first he is apparently robust; but in process of time he
 > begins to be delicate, not having any real disease, but being very
 > delicate. He begins to be particular about food, and abstains from
@@ -23,9 +23,9 @@
 > continually complaining of pains in different parts of his body. And
 > he tells them that he has dreamt that he was being carried away by a
 > river. He dreams of many things, and his body is muddled<span
-> id="page_259_fr_2"></span>[2](#page_259_note_2) <span id="page_260">p.
+> id="page_259_fr_2"></span>[2](#page_259_note_2.md) <span id="page_260">p.
 > 260</span> and he becomes a house of dreams.<span
-> id="page_260_fr_3"></span>[3](#page_260_note_3) And he dreams
+> id="page_260_fr_3"></span>[3](#page_260_note_3.md) And he dreams
 > constantly of many things, and on awaking says to his friends, "My
 > body is muddled to-day; I dreamt many men were killing me; I escaped I
 > know not how. And on waking one part of my body felt different from
@@ -33,7 +33,7 @@
 > ill, and they go to the diviners to enquire.
 >
 >  The diviners do not at once see that he is about to have a soft
-> head.<span id="page_260_fr_4"></span>[4](#page_260_note_4) It is
+> head.<span id="page_260_fr_4"></span>[4](#page_260_note_4.md) It is
 > difficult for them to see the truth; they continually talk nonsense,
 > and make false statements, until all the man's cattle are devoured at
 > their command, they saying that the spirit of his people demands
@@ -50,15 +50,15 @@
 > do any thing for the man, and have no longer the heart to believe that
 > any inyanga can help you. But, my friends, I see that my friends, the
 > other izinyanga, have gone astray. They have not eaten impepo.<span
-> id="page_261_fr_5"></span>[5](#page_261_note_5) They were not
+> id="page_261_fr_5"></span>[5](#page_261_note_5.md) They were not
 > initiated in a proper way. Why have they been mistaken, when the
 > disease is evident? For my part, I tell you the izinyanga have
 > troubled you. The disease does not require to be treated with
-> blood.<span id="page_261_fr_6"></span>[6](#page_261_note_6) As for the
+> blood.<span id="page_261_fr_6"></span>[6](#page_261_note_6.md) As for the
 > man, I see nothing else but that he is possessed by the Itongo.<span
-> id="page_261_fr_7"></span>[7](#page_261_note_7) There is nothing else.
+> id="page_261_fr_7"></span>[7](#page_261_note_7.md) There is nothing else.
 > He is possessed by an Itongo. Your people<span
-> id="page_261_fr_8"></span>[8](#page_261_note_8) move in him. They are
+> id="page_261_fr_8"></span>[8](#page_261_note_8.md) move in him. They are
 > divided into two <span id="page_262">p. 262</span> parties; some say,
 > 'No, we do not wish that our child should be injured. We do not wish
 > it.' It is for that reason and no other that he does not get well. If
@@ -69,9 +69,9 @@
 > him by using medicines. Just leave him alone, and look to the end to
 > which the disease points. Do you not see that on the day he has not
 > taken medicine, he just takes a mouthful of food?<span
-> id="page_262_fr_9"></span>[9](#page_262_note_9) Do not give him any
+> id="page_262_fr_9"></span>[9](#page_262_note_9.md) Do not give him any
 > more medicines. He will not die of the sickness, for he will have what
-> is good<span id="page_262_fr_10"></span>[10](#page_262_note_10) given
+> is good<span id="page_262_fr_10"></span>[10](#page_262_note_10.md) given
 > to him."
 >
 >  So the man may be ill two years without getting better; perhaps even
@@ -82,7 +82,7 @@
 > at the progress of the disease. <span id="page_263">p. 263</span> But
 > his head begins to give signs of what is about to happen. He shows
 > that he is about to be a diviner by yawning<span
-> id="page_263_fr_11"></span>[11](#page_263_note_11) again and again,
+> id="page_263_fr_11"></span>[11](#page_263_note_11.md) again and again,
 > and by sneezing again and again. And men say, "No! Truly it seems as
 > though this man was about to be possessed by a spirit." This is also
 > apparent from his being very fond of snuff; not allowing any long time
@@ -97,12 +97,12 @@
 > go to sing in concert with him.
 >
 >  In this state of things they daily expect his death;<span
-> id="page_263_fr_12"></span>[12](#page_263_note_12) he is now <span
+> id="page_263_fr_12"></span>[12](#page_263_note_12.md) he is now <span
 > id="page_264">p. 264</span> but skin and bones, and they think that
 > to-morrow's sun will not leave him alive. The people wonder when they
 > hear him singing, and they strike their hands in concert. They then
 > begin to take courage, saying, "Yes; now we see that it is the
-> head."<span id="page_264_fr_13"></span>[13](#page_264_note_13)
+> head."<span id="page_264_fr_13"></span>[13](#page_264_note_13.md)
 >
 >  Therefore whilst he is undergoing this initiation the people of the
 > village are troubled by want of sleep; for a man who is beginning to
@@ -120,10 +120,10 @@
 > an inyanga; they employ means for making the Itongo white, that it may
 > make his divination very clear. At length <span id="page_265">p.
 > 265</span> another ancient inyanga of celebrity is pointed out to
-> him.<span id="page_265_fr_14"></span>[14](#page_265_note_14) At night
+> him.<span id="page_265_fr_14"></span>[14](#page_265_note_14.md) At night
 > whilst asleep he is commanded by the Itongo, who says to him, "Go to
 > So-and-so; go to him, and he will churn for you emetic-ubulawo,<span
-> id="page_265_fr_15"></span>[15](#page_265_note_15) that you may be an
+> id="page_265_fr_15"></span>[15](#page_265_note_15.md) that you may be an
 > inyanga altogether." Then he is quiet for a few days, having gone to
 > the inyanga to have ubulawo churned for him; and he comes back quite
 > another man, being now cleansed and an inyanga indeed.
@@ -132,12 +132,12 @@
 > saying to him, "You will not speak with the people; they will be told
 > by us every thing they come to enquire about." And he continually
 > tells the people his dreams, saying, "There are people<span
-> id="page_265_fr_16"></span>[16](#page_265_note_16) who tell me at
+> id="page_265_fr_16"></span>[16](#page_265_note_16.md) who tell me at
 > night that they will speak for themselves to those who come to
 > enquire." At last all this turns out to be true; when he has begun to
 > divine, at length his power entirely ceases, and he hears the spirits
 > who speak by whistlings<span
-> id="page_265_fr_17"></span>[17](#page_265_note_17) speaking to him,
+> id="page_265_fr_17"></span>[17](#page_265_note_17.md) speaking to him,
 > and he answers them as he would answer a man; and he causes them to
 > speak by asking them questions; if he does not understand <span
 > id="page_266">p. 266</span> what they say, they make him understand
@@ -189,9 +189,9 @@
 > *The way in which a person begins to be a Diviner.*
 >
 > U<span class="small">THLABO</span><span
-> id="page_268_fr_18"></span>[18](#page_268_note_18) is known by causing
+> id="page_268_fr_18"></span>[18](#page_268_note_18.md) is known by causing
 > a sensation of perforation<span
-> id="page_268_fr_19"></span>[19](#page_268_note_19) of the side; and
+> id="page_268_fr_19"></span>[19](#page_268_note_19.md) of the side; and
 > the man says, "I have pain under the armpit, beneath the
 > shoulder-blade, in my side, in the flesh. It causes the feeling as if
 > there was a hole there; the pain passes through my body to each side."
@@ -200,25 +200,25 @@
 > uthlabo."
 >
 >  He replies, "Yes, yes; I too say it is uthlabo; it is that which
-> comes out<span id="page_268_fr_20"></span>[20](#page_268_note_20) from
+> comes out<span id="page_268_fr_20"></span>[20](#page_268_note_20.md) from
 > the side of my body and will not let me breathe, neither will it let
 > me lie down."
 >
 >  At length the doctor who knows the medicines for uthlabo cures it.
 > But black people call it also ukxulo,<span
-> id="page_268_fr_21"></span>[21](#page_268_note_21) and say it is
+> id="page_268_fr_21"></span>[21](#page_268_note_21.md) and say it is
 > caused by the Itongo.<span
-> id="page_268_fr_22"></span>[22](#page_268_note_22) And when a <span
+> id="page_268_fr_22"></span>[22](#page_268_note_22.md) And when a <span
 > id="page_269">p. 269</span> man is constantly affected<span
-> id="page_269_fr_23"></span>[23](#page_269_note_23) by uthlabo, black
+> id="page_269_fr_23"></span>[23](#page_269_note_23.md) by uthlabo, black
 > men say the Itongo is walking in him; Amatongo are walking in his
 > body. If the disease lasts a long time, they at length go to enquire
 > of diviners. They come and say, "He is affected by the Itongo. He is
 > affected by his people who are dead.<span
-> id="page_269_fr_24"></span>[24](#page_269_note_24) There was one of
+> id="page_269_fr_24"></span>[24](#page_269_note_24.md) There was one of
 > them who was an inyanga; and this man has the Itongo in his body; his
 > people <span id="page_270">p. 270</span> wish him to have a soft
-> head,<span id="page_270_fr_25"></span>[25](#page_270_note_25) and
+> head,<span id="page_270_fr_25"></span>[25](#page_270_note_25.md) and
 > become a diviner, when he has been initiated."
 >
 >  The diviners say, "Do not give him any more medicines. Do you not see
@@ -232,18 +232,18 @@
 > possesses him." That is what the diviners say. They say, "The man who
 > was an inyanga, who is walking in his body, was also an inyanga who
 > could dig up poisons.<span
-> id="page_270_fr_26"></span>[26](#page_270_note_26) He used to dig them
+> id="page_270_fr_26"></span>[26](#page_270_note_26.md) He used to dig them
 > up. And since he who used to <span id="page_271">p. 271</span> dig up
 > the poison of the sorcerers by which they destroyed others has taken
 > possession of this man, he too as soon as be has been initiated will
 > have a white Itongo,<span
-> id="page_271_fr_27"></span>[27](#page_271_note_27) and will dig up
+> id="page_271_fr_27"></span>[27](#page_271_note_27.md) and will dig up
 > poisons as So-and-so, one of his people, used to do. Leave him alone
 > as regards medicines. Throw away medicines, and give him no more; you
 > will kill him if you do. You think they will cure him. They will not
 > cure him. He is purposely thus affected. The Amatongo wish <span
 > id="page_272">p. 272</span> him to become a white<span
-> id="page_272_fr_28"></span>[28](#page_272_note_28) inyanga. Be quiet,
+> id="page_272_fr_28"></span>[28](#page_272_note_28.md) inyanga. Be quiet,
 > and see if the Amatongo do not give him commands at night in his
 > sleep. You will see him come home in the morning, not having seen him
 > go out, having had medicines revealed to him which he will go to the
@@ -255,7 +255,7 @@
 >  The Amatongo tell him to kill cattle, for the dead are very fond of
 > demanding flesh of one whom they wish to make an inyanga. He
 > slaughters them for his people who are dead. And others enter his
-> kraal.<span id="page_272_fr_29"></span>[29](#page_272_note_29) He
+> kraal.<span id="page_272_fr_29"></span>[29](#page_272_note_29.md) He
 > slaughters constantly, and others again come in in their place, the
 > cattle being derived from his treatment of disease, and from divining,
 > and digging up poisons. When men are perishing, being destroyed by
@@ -265,7 +265,7 @@
 > <span id="page_273">p. 273</span>
 >
 >  When the Amatongo make a man ill, he cries "Hai, hai, hai."<span
-> id="page_273_fr_30"></span>[30](#page_273_note_30) They cause him to
+> id="page_273_fr_30"></span>[30](#page_273_note_30.md) They cause him to
 > compose songs, and the people of his home assemble and beat time to
 > the song the Amatongo have caused him to compose,—the song of
 > initiation,—a song of professional skill.
@@ -333,7 +333,7 @@
 >  So he does so. He cries "Hai, hai, hai," on a hill which is hidden;
 > they do not hear him distinctly; they hear only a continual sound of
 > Nkene, nkene, nkene, nkene.<span
-> id="page_275_fr_31"></span>[31](#page_275_note_31) One of them says,
+> id="page_275_fr_31"></span>[31](#page_275_note_31.md) One of them says,
 > "It sounds as though there was some one singing." Others say, "We do
 > not hear. We hear only an echo."
 >
@@ -347,7 +347,7 @@
 > they say, "Can it be, sirs, that he comes about the matter we were
 > disputing about, saying, he is mad?"
 >
->  Others<span id="page_276_fr_32"></span>[32](#page_276_note_32) say,
+>  Others<span id="page_276_fr_32"></span>[32](#page_276_note_32.md) say,
 > "O, why do you ask? He comes on that account, if indeed you said he
 > was not an inyanga, but a madman."
 >
@@ -385,7 +385,7 @@
 > during the night, and <span id="page_278">p. 278</span> they did not
 > hear when he went out very early in the morning, when it was still
 > dark, when the horns of the cattle were beginning to be just
-> visible.<span id="page_278_fr_34"></span>[34](#page_278_note_34) He
+> visible.<span id="page_278_fr_34"></span>[34](#page_278_note_34.md) He
 > reaches their home, and his own people who were looking for him, and
 > have now found him, come with him. On his arrival he dances; and as he
 > dances they strike hands in unison; and the people of the place who
@@ -401,7 +401,7 @@
 >  They deny, saying, "It is not true; we have not."
 >
 >  He says, "Am I not able to find<span
-> id="page_278_fr_35"></span>[35](#page_278_note_35) them?"
+> id="page_278_fr_35"></span>[35](#page_278_note_35.md) them?"
 >
 >  They say, "No; you cannot. Have we hidden then things for you to
 > find?"
@@ -435,7 +435,7 @@
 > id="page_280">p. 280</span> Just say who told me the things about
 > which you were speaking. You said I was mad. You thought you were just
 > speaking. Do you think the Amatongo<span
-> id="page_280_fr_36"></span>[36](#page_280_note_36) do not hear? As you
+> id="page_280_fr_36"></span>[36](#page_280_note_36.md) do not hear? As you
 > were speaking, they were listening. And when I was asleep they told me
 > that I was a worthless inyanga, a mere thing."
 >
@@ -452,11 +452,11 @@
 > *The Doctor of Divination, the Isanusi, Ibuda, or Umungoma.*
 >
 > T<span class="small">HE</span> doctor is called Isanusi,<span
-> id="page_280_fr_37"></span>[37](#page_280_note_37) or Ibuda,<span
-> id="page_280_fr_38"></span>[38](#page_280_note_38) or Inyanga of <span
+> id="page_280_fr_37"></span>[37](#page_280_note_37.md) or Ibuda,<span
+> id="page_280_fr_38"></span>[38](#page_280_note_38.md) or Inyanga of <span
 > id="page_281">p. 281</span> divination,<span
-> id="page_281_fr_39"></span>[39](#page_281_note_39) or Umungoma;<span
-> id="page_281_fr_40"></span>[40](#page_281_note_40) for when people are
+> id="page_281_fr_39"></span>[39](#page_281_note_39.md) or Umungoma;<span
+> id="page_281_fr_40"></span>[40](#page_281_note_40.md) for when people are
 > enquiring of a diviner, they say, "True, Umungoma." Doctors who treat
 > disease are different <span id="page_282">p. 282</span> from those who
 > divine; for a man is a doctor of disease if he is able to treat
@@ -482,7 +482,7 @@
 >  When they come to the diviner, they do not say to him, "We are <span
 > id="page_283">p. 283</span> come to enquire." They merely go and
 > salute him, saying, "Yes, yes, dear sir! Good news!"<span
-> id="page_283_fr_41"></span>[41](#page_283_note_41) Thus the diviner
+> id="page_283_fr_41"></span>[41](#page_283_note_41.md) Thus the diviner
 > understands that they have come to enquire. So they sit still, and the
 > diviner sits, and salutes them, saying, "Good day." They reply, "Yes,
 > yes, dear sir."
@@ -528,7 +528,7 @@
 > mine to whom you went seeking divination said to you."
 >
 >  They smite the ground. He says, "There is my friend<span
-> id="page_284_fr_42"></span>[42](#page_284_note_42) who told the
+> id="page_284_fr_42"></span>[42](#page_284_note_42.md) who told the
 > disease by which he is affected."
 >
 > <span id="page_285">p. 285</span>
@@ -555,11 +555,11 @@
 > will cure him."
 >
 >  He says, "I am about to tell you. Our people<span
-> id="page_285_fr_43"></span>[43](#page_285_note_43) say, they will tell
+> id="page_285_fr_43"></span>[43](#page_285_note_43.md) say, they will tell
 > you."
 >
 >  They say, "We are glad, diviner, that your people are white,<span
-> id="page_285_fr_44"></span>[44](#page_285_note_44) and unite with our
+> id="page_285_fr_44"></span>[44](#page_285_note_44.md) and unite with our
 > people, <span id="page_286">p. 286</span> that the case may turn out
 > well. For we have no more hope that he will recover. For as regards
 > the doctor whom your friend pointed out, we trusted in our hearts,
@@ -580,9 +580,9 @@
 >  They then smite the ground vehemently.
 >
 >  He says, "For my part I tell you that the medicine that will cure him
-> is inyamazane.<span id="page_286_fr_45"></span>[45](#page_286_note_45)
+> is inyamazane.<span id="page_286_fr_45"></span>[45](#page_286_note_45.md)
 > <span id="page_287">p. 287</span> The man has umsizi."<span
-> id="page_287_fr_46"></span>[46](#page_287_note_46)
+> id="page_287_fr_46"></span>[46](#page_287_note_46.md)
 >
 > <span id="page_288">p. 288</span>
 >
@@ -631,13 +631,13 @@
 > him. So I am going to tell you the medicine which will restore him to
 > health; and you leave off the <span id="page_290">p. 290</span> tears
 > you have been shedding,<span
-> id="page_290_fr_47"></span>[47](#page_290_note_47) thinking he was
+> id="page_290_fr_47"></span>[47](#page_290_note_47.md) thinking he was
 > already dead."
 >
 >  They reply, "Diviner, we will hear what you say; we merely beat the
-> ground;<span id="page_290_fr_48"></span>[48](#page_290_note_48) we
+> ground;<span id="page_290_fr_48"></span>[48](#page_290_note_48.md) we
 > weep; tears are our portion;<span
-> id="page_290_fr_49"></span>[49](#page_290_note_49) whilst we are here,
+> id="page_290_fr_49"></span>[49](#page_290_note_49.md) whilst we are here,
 > we do not know what will happen—whether during this day's sun we shall
 > find him still living."
 >
@@ -651,14 +651,14 @@
 >  He says, "I say, go to such and such a doctor, of such and such a
 > place. He will give you umsizi-medicine. And he will himself come and
 > give him an expressed juice<span
-> id="page_290_fr_50"></span>[50](#page_290_note_50) to drink, and he
+> id="page_290_fr_50"></span>[50](#page_290_note_50.md) to drink, and he
 > will drink it. After that he will scarify him,<span
-> id="page_290_fr_51"></span>[51](#page_290_note_51) and give him
-> medicine.<span id="page_290_fr_52"></span>[52](#page_290_note_52)
+> id="page_290_fr_51"></span>[51](#page_290_note_51.md) and give him
+> medicine.<span id="page_290_fr_52"></span>[52](#page_290_note_52.md)
 > <span id="page_291">p. 291</span> He will get well on the day the
 > doctor comes with the expressed juice. I will give you
 > hiccup-medicine; and do you give it him; it will keep him alive<span
-> id="page_291_fr_53"></span>[53](#page_291_note_53) until the doctor
+> id="page_291_fr_53"></span>[53](#page_291_note_53.md) until the doctor
 > whom I have mentioned to you comes. He will cure him."
 >
 >  So he gives them hiccup-medicine to keep him alive.
@@ -689,9 +689,9 @@
 > for him the hiccup-medicine, they have brought, into a cup, he being
 > still affected with hiccup. They make him drink it. When he has drunk
 > it, he is seized with hiccup again, and he becomes sensible.<span
-> id="page_292_fr_54"></span>[54](#page_292_note_54) The people in the
+> id="page_292_fr_54"></span>[54](#page_292_note_54.md) The people in the
 > hut are alarmed, and say, "Truly, is he not now just about to
-> die?"<span id="page_292_fr_55"></span>[55](#page_292_note_55)
+> die?"<span id="page_292_fr_55"></span>[55](#page_292_note_55.md)
 >
 >  Those in the house look at each other, and enquire of those who have
 > brought the medicine, saying, "O, how the man has lighted up! What
@@ -714,7 +714,7 @@
 >  They rejoice and say, "We are glad; it is well for you to go. Truly,
 > since you gave him the hiccup-medicine he has not had the hiccup all
 > night. We now see that you went to a diviner who speaks<span
-> id="page_293_fr_56"></span>[56](#page_293_note_56) truth, and knows
+> id="page_293_fr_56"></span>[56](#page_293_note_56.md) truth, and knows
 > the disease; you have brought the right medicine. We now have
 > confidence. We now see that his eyes are bright."
 >
@@ -733,7 +733,7 @@
 >  "Where are you going?"
 >
 >  "We have come to this place."<span
-> id="page_294_fr_57"></span>[57](#page_294_note_57)
+> id="page_294_fr_57"></span>[57](#page_294_note_57.md)
 >
 >  "What business have you here?"
 >
@@ -793,7 +793,7 @@
 > with umsizi-medicine."
 >
 >  He says, "What have you brought for me?"<span
-> id="page_295_fr_58"></span>[58](#page_295_note_58)
+> id="page_295_fr_58"></span>[58](#page_295_note_58.md)
 >
 > <span id="page_296">p. 296</span>
 >
@@ -836,7 +836,7 @@
 > a bullock, and makes medicine with it, and gives him.
 >
 >  The people see that he will cure him.<span
-> id="page_297_fr_59"></span>[59](#page_297_note_59) He becomes strong,
+> id="page_297_fr_59"></span>[59](#page_297_note_59.md) He becomes strong,
 > and eats the flesh of the goat and the bullock. They ask, "How is the
 > pain now?"
 >
@@ -864,7 +864,7 @@
 > cattle."
 >
 >  He says, "I thank you for the cattle. But give me something to wipe
-> my eyes with."<span id="page_298_fr_60"></span>[60](#page_298_note_60)
+> my eyes with."<span id="page_298_fr_60"></span>[60](#page_298_note_60.md)
 >
 > <span id="page_299">p. 299</span>
 >
@@ -888,7 +888,7 @@
 > seeking for snakes; having found them, he seizes them and comes out of
 > the water with them, and entwines them still living about his body,
 > that the people may see that he is indeed a diviner.<span
-> id="page_299_fr_61"></span>[61](#page_299_note_61) After that they
+> id="page_299_fr_61"></span>[61](#page_299_note_61.md) After that they
 > begin to try him in many ways, to see whether he will become a
 > trustworthy diviner. They then go to him, and the diviner hears them
 > say they have come to divine; and he tells them to smite the ground,
@@ -925,7 +925,7 @@
 >  They said, "Why have you come here?"
 >
 >  We told them we had come on our own account, some cattle<span
-> id="page_301_fr_62"></span>[62](#page_301_note_62) having been lost.
+> id="page_301_fr_62"></span>[62](#page_301_note_62.md) having been lost.
 > We then asked for snuff, and they gave us some and we took it; and
 > after that the diviner said, "Let us go yonder outside the village."
 >
@@ -1031,7 +1031,7 @@
 >  We smote our hands.
 >
 >  He said, "It is still living, and eating umtolo and umunga.<span
-> id="page_303_fr_63"></span>[63](#page_303_note_63) Go and look for it
+> id="page_303_fr_63"></span>[63](#page_303_note_63.md) Go and look for it
 > there, and you will find it."
 >
 >  We thought we understood that he had now told us the place, for for
@@ -1051,7 +1051,7 @@
 > the native villages in the thorn-country. The people said they knew
 > nothing about it; and others told us to go to T., the white man who
 > ate up the cattle of the people that were lost.<span
-> id="page_304_fr_64"></span>[64](#page_304_note_64) But we were afraid
+> id="page_304_fr_64"></span>[64](#page_304_note_64.md) But we were afraid
 > to go to him, for he is a passionate white man who beats any coloured
 > men whom he does not know if he see them passing through his land. So
 > we went back to Pietermaritzburg without going to T.; and told Mr. G.
@@ -1099,7 +1099,7 @@ probably prove not to be founded in well-observed facts.
 >
 >  If any one is bitten by any kind of snake, he does not say he <span
 > id="page_306">p. 306</span> does not possess the remedy<span
-> id="page_306_fr_65"></span>[65](#page_306_note_65) for that kind of
+> id="page_306_fr_65"></span>[65](#page_306_note_65.md) for that kind of
 > snake-poison. No; for his part he is only gladdened by all kinds of
 > snakes; nothing prevents his curing the bite of any of them. If a man
 > is said to have been bitten by some deadly snake, he at once selects
@@ -1123,8 +1123,8 @@ probably prove not to be founded in well-observed facts.
 > my heart, "I shall now see. <span id="page_307">p. 307</span> For
 > since he has not taken a stick, what will he do to this snake which is
 > as large as a post?<span
-> id="page_307_fr_66"></span>[66](#page_307_note_66) Will it not devour
-> him?"<span id="page_307_fr_67"></span>[67](#page_307_note_67) He <span
+> id="page_307_fr_66"></span>[66](#page_307_note_66.md) Will it not devour
+> him?"<span id="page_307_fr_67"></span>[67](#page_307_note_67.md) He <span
 > id="page_308">p. 308</span> put his hand in his mouth and gently bit
 > it all over; he took it <span id="page_309">p. 309</span> out and
 > extended it towards the snake; it started and raised its head, and
@@ -1254,15 +1254,15 @@ probably prove not to be founded in well-observed facts.
 > be occasioned by them.*
 >
 > W<span class="small">HEN</span> a doctor bars the way<span
-> id="page_314_fr_68"></span>[68](#page_314_note_68) for <span
+> id="page_314_fr_68"></span>[68](#page_314_note_68.md) for <span
 > id="page_315">p. 315</span> man who has isidhlaho,<span
-> id="page_315_fr_69"></span>[69](#page_315_note_69) he takes certain
+> id="page_315_fr_69"></span>[69](#page_315_note_69.md) he takes certain
 > known medicines with him to the sick man, and takes some of his blood
 > and goes to a hard ant-hill which the ants will repair again if broken
 > down; he makes a hole in it, and places in it the medicine with the
 > blood of the sick man, and closes up the hole with a stone, and leaves
 > the place without looking back<span
-> id="page_315_fr_70"></span>[70](#page_315_note_70) till he gets home.
+> id="page_315_fr_70"></span>[70](#page_315_note_70.md) till he gets home.
 > So it is said the disease is barred out, and will never return again.
 >
 >  When we bar the way with a frog of the river, we catch a frog, and
@@ -1276,7 +1276,7 @@ probably prove not to be founded in well-observed facts.
 > excessively by a dream, and when she is asleep her husband comes home
 > again, and she sees him. daily just as if he was alive, and so she at
 > last wastes away, and says, "I am troubled by the father of
-> So-and-so;<span id="page_316_fr_71"></span>[71](#page_316_note_71) he
+> So-and-so;<span id="page_316_fr_71"></span>[71](#page_316_note_71.md) he
 > does not leave me; it is as though he was not dead; at night I am
 > always with him, and he vanishes when I awake. At length my bodily
 > health is deranged; he speaks about his children, and his property,
@@ -1303,7 +1303,7 @@ probably prove not to be founded in well-observed facts.
 >
 >  So he goes with her to a certain place, to lay the Itongo; perhaps he
 > shuts it up in a bulb of inkomfe.<span
-> id="page_317_fr_72"></span>[72](#page_317_note_72) The bulb has a
+> id="page_317_fr_72"></span>[72](#page_317_note_72.md) The bulb has a
 > little hole made in its side, and the medicine mixed with the
 > dream-spittle is placed in the hole, and it is closed with a stopper;
 > the bulb is dug up, and placed in another hole, and the earth rammed
@@ -1332,7 +1332,7 @@ probably prove not to be founded in well-observed facts.
 > ever."
 >
 >  Such then is the mode in which dreams are stopped.<span
-> id="page_318_fr_73"></span>[73](#page_318_note_73)
+> id="page_318_fr_73"></span>[73](#page_318_note_73.md)
 >
 > <span id="page_319">p. 319</span>
 >
@@ -1396,7 +1396,7 @@ probably prove not to be founded in well-observed facts.
 > But when it is said he has not eaten impepo, we mean that his
 > divination does not resemble the divination of real diviners. Impepo
 > means especially that clearness of perception<span
-> id="page_321_fr_74"></span>[74](#page_321_note_74) which a diviner
+> id="page_321_fr_74"></span>[74](#page_321_note_74.md) which a diviner
 > possesses; nothing is too hard for him; but he sees a difficult thing
 > at once. So we say of such a diviner, "He has eaten impepo." <span
 > id="page_322">p. 322</span> It is this which the diviner's people say.
@@ -1411,7 +1411,7 @@ probably prove not to be founded in well-observed facts.
 >  There are two kinds of impepo. White impepo has its own
 > peculiarities; we believe especially in white impepo; but we do not
 > believe at all in the black impepo;<span
-> id="page_322_fr_75"></span>[75](#page_322_note_75) that which arises
+> id="page_322_fr_75"></span>[75](#page_322_note_75.md) that which arises
 > after eating it is dark. For example, if a man dreams continually of a
 > man he does not wish to see, he eats the black impepo, and drives him
 > away by it, that should he come again he may not see him distinctly,
@@ -1457,7 +1457,7 @@ probably prove not to be founded in well-observed facts.
 > divining sticks, saying thus to him, "You hit the mark there." Now
 > then he will proceed carefully, following that footprint of truth, and
 > trying to make it into a continuous track.<span
-> id="page_324_fr_76"></span>[76](#page_324_note_76) They assent to some
+> id="page_324_fr_76"></span>[76](#page_324_note_76.md) They assent to some
 > things; to others they object by striking gently; they continually
 > turn him back from his wandering by striking gently; at last he
 > perceives that the real importance of the disease starts from that
@@ -1519,7 +1519,7 @@ probably prove not to be founded in well-observed facts.
 >
 >  He remains silent, takes snuff, and shakes his head, and says, "No,
 > my friends; you do not smite properly. The diviner is the thumb.<span
-> id="page_327_fr_77"></span>[77](#page_327_note_77) Why do you smite
+> id="page_327_fr_77"></span>[77](#page_327_note_77.md) Why do you smite
 > the ground vehemently whatever I say, there being nothing which you
 > dispute?"
 >
@@ -1546,7 +1546,7 @@ probably prove not to be founded in well-observed facts.
 > enquire of a diviner in this way before?"
 >
 >  John replied in the affirmative, saying, "O, it is I indeed who
-> enquire,<span id="page_328_fr_78"></span>[78](#page_328_note_78) for I
+> enquire,<span id="page_328_fr_78"></span>[78](#page_328_note_78.md) for I
 > am now the responsible head of our village; there is no other man in
 > it; there is no one but me."
 >
@@ -1588,7 +1588,7 @@ probably prove not to be founded in well-observed facts.
 >
 >  So the diviner gave him back the shilling. His name was
 > Umngom’-u-ng’-umuntu.<span
-> id="page_330_fr_79"></span>[79](#page_330_note_79)
+> id="page_330_fr_79"></span>[79](#page_330_note_79.md)
 >
 >  John then went to Unomantshintshi, one who divined by means of pieces
 > of stick. The name of these pieces of stick is Umabukula. The mode of
@@ -1682,7 +1682,7 @@ probably prove not to be founded in well-observed facts.
 > and we wondered why it did not give birth to its young. We went to a
 > diviner, the brother of Umatula, who divined with bones. On coming to
 > him we made obeisance, saying, "Eh, friend, your affairs!"<span
-> id="page_334_fr_80"></span>[80](#page_334_note_80) We went home with
+> id="page_334_fr_80"></span>[80](#page_334_note_80.md) We went home with
 > him to his village. He took a little medicine and chewed it, and
 > puffed on his bag in which the bones were kept; he rubbed them, <span
 > id="page_335">p. 335</span> and poured them out on the ground; he
@@ -1715,14 +1715,14 @@ probably prove not to be founded in well-observed facts.
 > ------------------------------------------------------------------------
 >
 > *Magical Practices.*<span
-> id="page_336_fr_81"></span>[81](#page_336_note_81)
+> id="page_336_fr_81"></span>[81](#page_336_note_81.md)
 >
 > I<span class="small">T</span> is said that doctors are the authors of
 > magical practices. As when a doctor takes a pot and pours water into
 > it; and then begins to medicate it. But I do not understand the
 > medication, how it is done. He then kindles a fire under the pot, but
 > it does not boil.<span
-> id="page_336_fr_82"></span>[82](#page_336_note_82) He kindles a very
+> id="page_336_fr_82"></span>[82](#page_336_note_82.md) He kindles a very
 > great fire.
 >
 >  Or he may take an assagai or a <span id="page_337">p. 337</span>
@@ -1735,7 +1735,7 @@ probably prove not to be founded in well-observed facts.
 > father. He first swept the ground, and prepared a broad space; he then
 > took the bones in his hands, shook them violently, and praised them by
 > name, saying, "I come that I may hear, Buthluza-bonunga!
-> Mabala-maji!"<span id="page_337_fr_83"></span>[83](#page_337_note_83)
+> Mabala-maji!"<span id="page_337_fr_83"></span>[83](#page_337_note_83.md)
 > He then scattered them on the ground; they formed a line, standing up
 > on the ground, and pointing to his bladder. He then interpreted for
 > them, saying, "The bones say the disease is in the bladder." They knew
@@ -1745,7 +1745,7 @@ probably prove not to be founded in well-observed facts.
 >  It is called also an umlingo if, when a chief is about to fight <span
 > id="page_338">p. 338</span> with another chief, his doctors cause a
 > darkness to spread among his enemies, so that they are unable to see
-> clearly.<span id="page_338_fr_84"></span>[84](#page_338_note_84)
+> clearly.<span id="page_338_fr_84"></span>[84](#page_338_note_84.md)
 >
 > ------------------------------------------------------------------------
 >
@@ -1775,7 +1775,7 @@ probably prove not to be founded in well-observed facts.
 >
 > W<span class="small">HEN</span> cattle are lost, and it is not known
 > where they are, a little animal whose name is Isipungumangati<span
-> id="page_339_fr_85"></span>[85](#page_339_note_85) is found, and we
+> id="page_339_fr_85"></span>[85](#page_339_note_85.md) is found, and we
 > ask it, saying, "Mantis, where are the cattle?" We hold it in our
 > hand, and place it with its pointed head looking upwards; if it points
 > in another direction with its head, and it is clear in what direction
@@ -1795,7 +1795,7 @@ probably prove not to be founded in well-observed facts.
 > be one by descent merely, but by adding a chieftainly character by
 > calling doctors who possess medicines and charms; and these doctors
 > place him in the chieftainship.<span
-> id="page_340_fr_86"></span>[86](#page_340_note_86)
+> id="page_340_fr_86"></span>[86](#page_340_note_86.md)
 >
 >  One comes and performs many ceremonies, telling the chief the power
 > of his medicines. Another does the same; he performs ceremonies, and
@@ -1803,13 +1803,13 @@ probably prove not to be founded in well-observed facts.
 > would be well for you to levy an army to attack another chief, whilst
 > I am treating you with my medicines, that you may understand me. There
 > is ubulawo. If you churn it in your vessel,<span
-> id="page_340_fr_87"></span>[87](#page_340_note_87) and call So-and-so,
+> id="page_340_fr_87"></span>[87](#page_340_note_87.md) and call So-and-so,
 > you <span id="page_341">p. 341</span> may see whether you will not cut
 > him off in a very little time. It is well for you to begin this very
 > day, whilst I am here."
 >
 >  Truly then the vessel of the chief is first used by the doctors. When
-> he churns<span id="page_341_fr_88"></span>[88](#page_341_note_88) it,
+> he churns<span id="page_341_fr_88"></span>[88](#page_341_note_88.md) it,
 > he calls the chief who is the enemy of his chief; and lauds ancient
 > chiefs who are now dead. If the ubulawo froths up, the doctor shouts
 > his name aloud, and says to his chief, "Behold, thou son of So-and-so,
@@ -1818,7 +1818,7 @@ probably prove not to be founded in well-observed facts.
 > would tell you." And the doctor tells the chief how to use the vessel,
 > and to consider thoroughly the action of the ubulawo which is churned,
 > that he may see what will happen by looking into the vessel.<span
-> id="page_341_fr_89"></span>[89](#page_341_note_89)
+> id="page_341_fr_89"></span>[89](#page_341_note_89.md)
 >
 >  When he has finished his instruction the doctor says, "You can take
 > me to task. If it does not turn out in accordance with what I say, I
@@ -1836,7 +1836,7 @@ probably prove not to be founded in well-observed facts.
 > other is placed. Whilst he does this he says, "I am overcoming him; I
 > am now treading him down; he is now under me. I do not know by what
 > way he will escape."<span
-> id="page_342_fr_90"></span>[90](#page_342_note_90)
+> id="page_342_fr_90"></span>[90](#page_342_note_90.md)
 >
 >  Such then is the vessel of the chief; his vessel is a diviner to him.
 > For if there is any place about which the chief is angry, he goes to
@@ -1899,10 +1899,10 @@ probably prove not to be founded in well-observed facts.
 > *The Chief's Vessel.*
 >
 > A <span class="small">CHIEF</span> among the Amazulu practises
-> magic<span id="page_345_fr_91"></span>[91](#page_345_note_91) on
+> magic<span id="page_345_fr_91"></span>[91](#page_345_note_91.md) on
 > another chief before fighting with him. Something belonging to that
 > chief is taken, and the other washes himself with intelezi,<span
-> id="page_345_fr_92"></span>[92](#page_345_note_92) in order that he
+> id="page_345_fr_92"></span>[92](#page_345_note_92.md) in order that he
 > may overcome the other when they begin to fight. And forsooth the one
 > was conquered long ago by having his things taken and practised upon
 > by magic.
@@ -1916,7 +1916,7 @@ probably prove not to be founded in well-observed facts.
 >
 >  The dung and earth which retains the mark of the footprints are
 > placed in the chief's vessel; a circlet is made with medicines,<span
-> id="page_345_fr_93"></span>[93](#page_345_note_93) <span
+> id="page_345_fr_93"></span>[93](#page_345_note_93.md) <span
 > id="page_346">p. 346</span> in which portions of them are wrapped up;
 > the chief's vessel is placed on the circlet, and they then wait. When
 > he has done this, the chief says, "I have now conquered them. Those
@@ -1927,23 +1927,23 @@ probably prove not to be founded in well-observed facts.
 > is large, but its mouth is small. It is said to be an isitundu because
 > its mouth is just large enough to admit the hand. All the knowledge of
 > the chief is in this vessel.<span
-> id="page_346_fr_94"></span>[94](#page_346_note_94) If he wishes to
+> id="page_346_fr_94"></span>[94](#page_346_note_94.md) If he wishes to
 > kill another chief, he takes something belonging to that chief, and
 > puts it in the vessel, and practises magic on it, that he may kill him
 > when he has no power left.
 >
 >  When a chief has taken another chief,<span
-> id="page_346_fr_95"></span>[95](#page_346_note_95) he churns him in
+> id="page_346_fr_95"></span>[95](#page_346_note_95.md) he churns him in
 > his vessel; and at once calls him; when he calls him he inspects
 > carefully the mode in which the ubulawo acts, and says, "But I say
 > that although I am cutting off the head of So-and-so; yet I say you
 > will meet with an army. I see that he stands firm by his manliness.
 > <span id="page_347">p. 347</span> I see this in my vessel when I am
 > churning him; I see that the ubulawo is hard<span
-> id="page_347_fr_96"></span>[96](#page_347_note_96) when I call him.
+> id="page_347_fr_96"></span>[96](#page_347_note_96.md) when I call him.
 > But I say I shall cut off his head. But do you fight with
 > determination; they burn; they are a fire."<span
-> id="page_347_fr_97"></span>[97](#page_347_note_97)
+> id="page_347_fr_97"></span>[97](#page_347_note_97.md)
 >
 >  He also tells them if they will eat the cattle without any loss to
 > themselves, saying, "I say, you will eat up the cattle when the sun
@@ -1954,7 +1954,7 @@ probably prove not to be founded in well-observed facts.
 >  Therefore the army goes out courageously, saying, "There is no enemy
 > with which we shall have to fight. Our chief has already bound
 > So-and-so. We shall stab mere water-melons,<span
-> id="page_347_fr_98"></span>[98](#page_347_note_98) which are unable to
+> id="page_347_fr_98"></span>[98](#page_347_note_98.md) which are unable to
 > resist."
 >
 > <span id="page_348">p. 348</span>
@@ -1964,10 +1964,10 @@ probably prove not to be founded in well-observed facts.
 > *Divining by Familiar Spirits.*
 >
 > W<span class="small">HEN</span> my aunt was ill, the wife of my father
-> by adoption,<span id="page_348_fr_99"></span>[99](#page_348_note_99)
+> by adoption,<span id="page_348_fr_99"></span>[99](#page_348_note_99.md)
 > my father went to the forest-country to find a doctor to dig up the
 > poison which was killing her. The people directed him to a doctor with
-> familiar spirits,<span id="page_348_fr_1"></span>[1](#page_348_note_1)
+> familiar spirits,<span id="page_348_fr_1"></span>[1](#page_348_note_1.md)
 > saying, "Go to Umancele; it is he who will help you." When he came to
 > him he said, "My friend, you see I come to you, for I have got no good
 > from all the other doctors; I think that perhaps you can help me more
@@ -1996,11 +1996,11 @@ probably prove not to be founded in well-observed facts.
 >
 >  In the morning they all went out to the gateway of the village to
 > enquire of the diviner. But Umancele said, "O, Unkomidhlilale,<span
-> id="page_349_fr_2"></span>[2](#page_349_note_2) (my father's name
+> id="page_349_fr_2"></span>[2](#page_349_note_2.md) (my father's name
 > which was <span id="page_350">p. 350</span> given him by the spirits,)
 > for my part I cannot give you a single word, one way or the
-> other.<span id="page_350_fr_3"></span>[3](#page_350_note_3) There are
-> masters<span id="page_350_fr_4"></span>[4](#page_350_note_4) who will
+> other.<span id="page_350_fr_3"></span>[3](#page_350_note_3.md) There are
+> masters<span id="page_350_fr_4"></span>[4](#page_350_note_4.md) who will
 > answer you."
 >
 >  And they did answer, saying, "Unkomidhlilale, we cannot divine unless
@@ -2025,13 +2025,13 @@ probably prove not to be founded in well-observed facts.
 > father when she was still a little girl; she came here to me, and gave
 > birth to a female child; after that she could not have children; she
 > gave birth for the ground.<span
-> id="page_351_fr_5"></span>[5](#page_351_note_5) How has this
+> id="page_351_fr_5"></span>[5](#page_351_note_5.md) How has this
 > happened?' But we are about to tell how this happens to your wife. You
 > ask where your wife walked over poison.<span
-> id="page_351_fr_6"></span>[6](#page_351_note_6) But she has no where
+> id="page_351_fr_6"></span>[6](#page_351_note_6.md) But she has no where
 > walked over poison; the disease came to your house when you were
 > drinking beer. It is a man who injured her. Your wife died<span
-> id="page_351_fr_7"></span>[7](#page_351_note_7) for her beauty. She
+> id="page_351_fr_7"></span>[7](#page_351_note_7.md) for her beauty. She
 > went out to make water, but the man was watching her; and when she
 > went back, he took the earth which was saturated with her urine, and
 > wrapped it up, and said in his heart, 'How now then does the matter
@@ -2040,14 +2040,14 @@ probably prove not to be founded in well-observed facts.
 > as well as me.'"
 >
 >  The spirits said he did thus:—He took poisonous plants<span
-> id="page_351_fr_8"></span>[8](#page_351_note_8) and <span
+> id="page_351_fr_8"></span>[8](#page_351_note_8.md) and <span
 > id="page_352">p. 352</span> bound them up with the earth impregnated
 > with her urine, and made little bags of skin, in which he placed the
 > mixture, and buried them under the fireplace of his own hut, that when
 > the woman had a call of nature and went to make water, she might have
 > a burning in her bladder. He injured her by these means. After that
 > indeed she became pregnant, but miscarried.<span
-> id="page_352_fr_9"></span>[9](#page_352_note_9) The spirits continued,
+> id="page_352_fr_9"></span>[9](#page_352_note_9.md) The spirits continued,
 > "But we spirits can go and dig up the mixture. We can go and take it
 > and bring it here, and show it to you. We cannot advise you to go to a
 > doctor for the sake of obtaining his advice, that he may cause that
@@ -2071,14 +2071,14 @@ probably prove not to be founded in well-observed facts.
 > so ugly a beggar as that? I will kill him, and force him to leave her;
 > and when he is dead we shall see whether I shall marry her or not.'
 > You were made ill on that account. But the spirits<span
-> id="page_353_fr_10"></span>[10](#page_353_note_10) of your people
+> id="page_353_fr_10"></span>[10](#page_353_note_10.md) of your people
 > would not allow you to be killed, but said, 'It cannot be permitted
 > that our child should be killed on account of the beauty of his wife.
 > We gave him cattle that he might marry, and we be honoured for
 > treating him well.' But notwithstanding that, Undayeni, although you
 > are living now, you are being killed, and the ancestral spirits give
 > you no help, for that sorcerer is constantly longing to bring home
-> your corpse.<span id="page_353_fr_11"></span>[11](#page_353_note_11)
+> your corpse.<span id="page_353_fr_11"></span>[11](#page_353_note_11.md)
 > We are going to dig up that by which you are injured, <span
 > id="page_354">p. 354</span> and you shall see it with your own eyes."
 >
@@ -2088,11 +2088,11 @@ probably prove not to be founded in well-observed facts.
 > The spirits returned thanks and said, "We thank you; we are now going;
 > we are going with the spirits of your people—with Ukcuba and
 > Ubutongwane and all the people of your house.<span
-> id="page_354_fr_12"></span>[12](#page_354_note_12) We do not say that
+> id="page_354_fr_12"></span>[12](#page_354_note_12.md) We do not say that
 > we shall take that which is killing you without difficulty; we shall
 > fight with the spirits of that place; but we shall conquer them; and
 > bring back what we are going for. So good bye."<span
-> id="page_354_fr_13"></span>[13](#page_354_note_13) They went.
+> id="page_354_fr_13"></span>[13](#page_354_note_13.md) They went.
 >
 >  We, Umancele and his people remained, we wondering and asking, "How
 > will this matter turn out?" The spirits went away for three days.
@@ -2118,7 +2118,7 @@ probably prove not to be founded in well-observed facts.
 > am So-and-so," giving the name of the spirit. Umancele again enquired,
 > saying, "O, So-and-so, where are all the rest?" It replied, "O, we are
 > troubled. They remain behind; the people are dying;<span
-> id="page_355_fr_14"></span>[14](#page_355_note_14) the enemy is
+> id="page_355_fr_14"></span>[14](#page_355_note_14.md) the enemy is
 > stabbing us; they will not let us dig up the poison; but we too have
 > our men, and they are fighting with them. I have come to ask for food.
 > We are hungry. I am going back. I shall not sleep here."
@@ -2169,7 +2169,7 @@ probably prove not to be founded in well-observed facts.
 >  On the following day at noon, every thing was taken out of the house,
 > and the floor was smeared with cowdung, that all dust might be taken
 > away; the floor dried; and all the people of our villages<span
-> id="page_357_fr_15"></span>[15](#page_357_note_15) <span
+> id="page_357_fr_15"></span>[15](#page_357_note_15.md) <span
 > id="page_358">p. 358</span> collected to see the things which had
 > come. The old people, men and women, were chosen to go into the house.
 > The young people, female and male, were separated; they did not go in,
@@ -2185,7 +2185,7 @@ probably prove not to be founded in well-observed facts.
 > all are now here." They collected them. When there was any thing they
 > did not see, they heard a spirit saying, "See, there is something
 > else; there it is near such a wattle; and there is another by such a
-> wattle."<span id="page_358_fr_16"></span>[16](#page_358_note_16) They
+> wattle."<span id="page_358_fr_16"></span>[16](#page_358_note_16.md) They
 > collected every thing.
 >
 >  The spirits said, "You now have every thing. Go to the rocks in the
@@ -2301,7 +2301,7 @@ probably prove not to be founded in well-observed facts.
 >  They replied, "It is a young person."
 >
 >  We struck the ground vehemently there, when we perceived that
-> she<span id="page_363_fr_17"></span>[17](#page_363_note_17) had hit
+> she<span id="page_363_fr_17"></span>[17](#page_363_note_17.md) had hit
 > the mark.
 >
 >  They said, "I say the omen is a disease."
@@ -2485,7 +2485,7 @@ probably prove not to be founded in well-observed facts.
 > with them. For if they wish to go they tell their possessor, saying to
 > her, "Let us go to such a <span id="page_370">p. 370</span> place,"
 > wherever they wish to go. The possessor of them cannot speak;<span
-> id="page_370_fr_18"></span>[18](#page_370_note_18) she usually says
+> id="page_370_fr_18"></span>[18](#page_370_note_18.md) she usually says
 > little, for she too enquires of the spirits, and says, "So-and-so,
 > when you say so, do you tell the people who come to enquire of you,
 > the truth?" In reply they say, they do tell the truth, and those who
@@ -2539,7 +2539,7 @@ probably prove not to be founded in well-observed facts.
 > the gall over the boy. Our cousin went to pluck the Itongo-medicine;
 > he squeezed the juice into a cup, and gave it to the boy to drink, and
 > left the cup outside the kraal.<span
-> id="page_372_fr_19"></span>[19](#page_372_note_19) The goat was eaten.
+> id="page_372_fr_19"></span>[19](#page_372_note_19.md) The goat was eaten.
 >
 >  We worshipped the ancestral spirits, saying, "We shall see that the
 > child is possessed by a spirit by his getting well, and not getting
@@ -2584,13 +2584,13 @@ probably prove not to be founded in well-observed facts.
 > her on our arrival; for we too had been told by others that she was a
 > great diviner. She lived on the Umtwalume by the sea, at a distance
 > from us. It is a day and a half's journey from this.<span
-> id="page_374_fr_20"></span>[20](#page_374_note_20)
+> id="page_374_fr_20"></span>[20](#page_374_note_20.md)
 >
 > U<span class="small">GUAISE.</span> 
 
 ------------------------------------------------------------------------
 
-[Next](rsa10)
+[Next](rsa10.md)
 
 ------------------------------------------------------------------------
 
@@ -2598,10 +2598,10 @@ probably prove not to be founded in well-observed facts.
 
 <span id="footnotes_page_259">p. 259</span>
 
- <span id="page_259_note_1"></span>[1](#page_259_fr_1) See [note 6, p.
-131](rsa06.htm#page_131_note_6).
+ <span id="page_259_note_1"></span>[1](#page_259_fr_1.md) See [note 6, p.
+131](rsa06.htm#page_131_note_6.md).
 
- <span id="page_259_note_2"></span>[2](#page_259_fr_2)
+ <span id="page_259_note_2"></span>[2](#page_259_fr_2.md)
 *Dungeka.—Ukudunga* is to stir up mud in water, so as to make the water
 turbid, or muddy; and is hence applied by metaphor to <span
 id="footnotes_page_260">p. 260</span> confusion or muddling of mind by
@@ -2612,17 +2612,17 @@ Dictionary of English Etymology*.) From this word we have the compounds
 *Idungamuzi*, A stirrer up of strife in a village, or Village-muddler;
 and *Idungandhlu*, A stirrer up of strife in a house, or House-muddler.
 
- <span id="page_260_note_3"></span>[3](#page_260_fr_3) *A house of
+ <span id="page_260_note_3"></span>[3](#page_260_fr_3.md) *A house of
 dreams*, meaning that he dreams constantly; that dreams take up their
 abode with him. Many dreams are supposed to be caused or sent by the
 Amatongo, but not all.
 
- <span id="page_260_note_4"></span>[4](#page_260_fr_4) *A soft head*,
+ <span id="page_260_note_4"></span>[4](#page_260_fr_4.md) *A soft head*,
 that is, impressible. Diviners are said to have *soft* heads.
 
 <span id="footnotes_page_261">p. 261</span>
 
- <span id="page_261_note_5"></span>[5](#page_261_fr_5) *Impepo* is of
+ <span id="page_261_note_5"></span>[5](#page_261_fr_5.md) *Impepo* is of
 two kinds—white and black.
 
  The *black* is first used as an emetic to remove all badness and causes
@@ -2636,28 +2636,28 @@ dreams. They believe that by the use of this medicine they are enabled
 to divine with accuracy. Hence to have "eaten impepo" means to be a
 trustworthy diviner.
 
- <span id="page_261_note_6"></span>[6](#page_261_fr_6) *Treated with
+ <span id="page_261_note_6"></span>[6](#page_261_fr_6.md) *Treated with
 blood*, that is, of sacrifices.
 
- <span id="page_261_note_7"></span>[7](#page_261_fr_7) *Umhlaba*, i. e.,
-the Itongo. [See p. 147, note 14](rsa06.htm#page_147_note_14).
+ <span id="page_261_note_7"></span>[7](#page_261_fr_7.md) *Umhlaba*, i. e.,
+the Itongo. [See p. 147, note 14](rsa06.htm#page_147_note_14.md).
 
- <span id="page_261_note_8"></span>[8](#page_261_fr_8) *Your people move
-in him*, that is, the Amatongo. See [p. 226](rsa06.htm#page_226). Or, he
+ <span id="page_261_note_8"></span>[8](#page_261_fr_8.md) *Your people move
+in him*, that is, the Amatongo. See [p. 226](rsa06.htm#page_226.md). Or, he
 is possessed by your people.
 
 <span id="footnotes_page_262">p. 262</span>
 
- <span id="page_262_note_9"></span>[9](#page_262_fr_9) When he takes
+ <span id="page_262_note_9"></span>[9](#page_262_fr_9.md) When he takes
 medicines, he eats nothing, and is worse than usual. When he leaves off
 medicines he is better, and takes a little food.
 
- <span id="page_262_note_10"></span>[10](#page_262_fr_10) *What is
+ <span id="page_262_note_10"></span>[10](#page_262_fr_10.md) *What is
 good*, viz., the power to divine.
 
 <span id="footnotes_page_263">p. 263</span>
 
- <span id="page_263_note_11"></span>[11](#page_263_fr_11) Yawning is
+ <span id="page_263_note_11"></span>[11](#page_263_fr_11.md) Yawning is
 considered a sign of approaching inspiration by the Itongo.—In the
 Icelandic Legends we find a remarkable power ascribed to yawning. The
 female troll who had assumed the likeness of a beautiful queen betrays
@@ -2666,51 +2666,51 @@ maiden; when I yawn a half-yawn, then I am as a half-troll; when I yawn
 a whole yawn, then am I as a whole troll." (*Legends of Iceland. Powell
 and Magnusson.* 2*nd Series, p.* 448.)
 
- <span id="page_263_note_12"></span>[12](#page_263_fr_12) Lit., It is
+ <span id="page_263_note_12"></span>[12](#page_263_fr_12.md) Lit., It is
 now seen by the morning, viz, that he is still alive. They retire to
 rest doubtful whether they shall find him still living at daybreak.
 
 <span id="footnotes_page_264">p. 264</span>
 
- <span id="page_264_note_13"></span>[13](#page_264_fr_13) Lit., We see
+ <span id="page_264_note_13"></span>[13](#page_264_fr_13.md) Lit., We see
 the head, viz., that it is affected in that way which is followed by the
 power to divine.
 
 <span id="footnotes_page_265">p. 265</span>
 
- <span id="page_265_note_14"></span>[14](#page_265_fr_14) That is, by
+ <span id="page_265_note_14"></span>[14](#page_265_fr_14.md) That is, by
 the Itongo in a dream.
 
- <span id="page_265_note_15"></span>[15](#page_265_fr_15) *Ubulawo*.—See
-[p. 142, note 10](rsa06.htm#page_142_note_10).
+ <span id="page_265_note_15"></span>[15](#page_265_fr_15.md) *Ubulawo*.—See
+[p. 142, note 10](rsa06.htm#page_142_note_10.md).
 
- <span id="page_265_note_16"></span>[16](#page_265_fr_16) *People*,
+ <span id="page_265_note_16"></span>[16](#page_265_fr_16.md) *People*,
 viz., the dead, the Amatongo.
 
- <span id="page_265_note_17"></span>[17](#page_265_fr_17) The supposed
+ <span id="page_265_note_17"></span>[17](#page_265_fr_17.md) The supposed
 voice of the familiar spirits is always in a shrill, whistling tone;
 hence they are called *imilozi*.
 
 <span id="footnotes_page_268">p. 268</span>
 
- <span id="page_268_note_18"></span>[18](#page_268_fr_18) *Uhlabo*, the
+ <span id="page_268_note_18"></span>[18](#page_268_fr_18.md) *Uhlabo*, the
 name of a disease, from *ukuhlaba*, to stab, because it is attended with
 a stabbing pain or stitch in the side. It is applied either to
 pleurodynia or pleurisy.
 
- <span id="page_268_note_19"></span>[19](#page_268_fr_19) *Isibobo*, A
+ <span id="page_268_note_19"></span>[19](#page_268_fr_19.md) *Isibobo*, A
 hole,—that is, the patient feels as though a hole had been made in his
 side with a sharp instrument. The same sensation that we call a "stitch
 in the side."
 
- <span id="page_268_note_20"></span>[20](#page_268_fr_20) He speaks of
+ <span id="page_268_note_20"></span>[20](#page_268_fr_20.md) He speaks of
 the disease as though it was a knife, or something of that kind; he
 personifies it.
 
- <span id="page_268_note_21"></span>[21](#page_268_fr_21) *Ukxulo*.—The
+ <span id="page_268_note_21"></span>[21](#page_268_fr_21.md) *Ukxulo*.—The
 same as *uhlabo*, from *ukukxula*, to stab.
 
- <span id="page_268_note_22"></span>[22](#page_268_fr_22) We may compare
+ <span id="page_268_note_22"></span>[22](#page_268_fr_22.md) We may compare
 the following faith in evil Nats, which seem to hold very much the same
 position in the East as the Amatongo among the Amazulu:—
 
@@ -2749,18 +2749,18 @@ the health of the sick, since their action will meet no further
 opposition from the wicked Nat." (*The Life or Legend of Gaudama, the
 Budha of the Burmese. P. Bigandet, p.* 71. Comp. also p. 537.)
 
- <span id="page_269_note_23"></span>[23](#page_269_fr_23) *Tandwa*,
+ <span id="page_269_note_23"></span>[23](#page_269_fr_23.md) *Tandwa*,
 lit., loved.
 
- <span id="page_269_note_24"></span>[24](#page_269_fr_24) That is, the
+ <span id="page_269_note_24"></span>[24](#page_269_fr_24.md) That is, the
 Amatongo.
 
 <span id="footnotes_page_270">p. 270</span>
 
- <span id="page_270_note_25"></span>[25](#page_270_fr_25) To have a soft
+ <span id="page_270_note_25"></span>[25](#page_270_fr_25.md) To have a soft
 or impressible head, that is, to be an inyanga.
 
- <span id="page_270_note_26"></span>[26](#page_270_fr_26)
+ <span id="page_270_note_26"></span>[26](#page_270_fr_26.md)
 *Ukumbulula*.—Sorcerers are supposed to destroy their victims by taking
 some portion of their bodies, as hair or nails; or something that has
 been worn next their person, as a piece of an old garment, and adding to
@@ -2793,7 +2793,7 @@ of the oven. At the same moment the old woman died, who, it was
 supposed, had bewitched the house, and all the sorcery was at an end."
 (*Northern Mythology. Benjamin Thorpe. Vol. II., p.* 189.)
 
- <span id="page_271_note_27"></span>[27](#page_271_fr_27) That is, an
+ <span id="page_271_note_27"></span>[27](#page_271_fr_27.md) That is, an
 Itongo who shall influence for good, and enable him to see *clearly* and
 help others. They also speak of an Itongo elimnyama, a dark or black
 Itongo, that is, one that is jealous, and when he visits any one causes
@@ -2807,52 +2807,52 @@ devotee.
 
 <span id="footnotes_page_272">p. 272</span>
 
- <span id="page_272_note_28"></span>[28](#page_272_fr_28) As we speak of
+ <span id="page_272_note_28"></span>[28](#page_272_fr_28.md) As we speak of
 "white witches;" an inyanga who shall see clearly, and use his power for
 good purposes.
 
- <span id="page_272_note_29"></span>[29](#page_272_fr_29) By sacrificing
+ <span id="page_272_note_29"></span>[29](#page_272_fr_29.md) By sacrificing
 to the Amatongo he obtains their blessing; they enable him to treat
 disease and to divine successfully; and thus he obtains many cattle,
 which enter his kraal instead of those he has sacrificed.
 
 <span id="footnotes_page_273">p. 273</span>
 
- <span id="page_273_note_30"></span>[30](#page_273_fr_30) *Haiya*, To
+ <span id="page_273_note_30"></span>[30](#page_273_fr_30.md) *Haiya*, To
 cry as the diviner; a continual repetition of Hai, hai, hai.
 
 <span id="footnotes_page_275">p. 275</span>
 
- <span id="page_275_note_31"></span>[31](#page_275_fr_31) *Nkene*, from
+ <span id="page_275_note_31"></span>[31](#page_275_fr_31.md) *Nkene*, from
 *ukunkeneza*, to echo.
 
 <span id="footnotes_page_276">p. 276</span>
 
- <span id="page_276_note_32"></span>[32](#page_276_fr_32) That is, who
+ <span id="page_276_note_32"></span>[32](#page_276_fr_32.md) That is, who
 were not present at the former discussion.
 
 <span id="footnotes_page_278">p. 278</span>
 
- <span id="page_278_note_34"></span>[34](#page_278_fr_34) *Ku ’mpondo
+ <span id="page_278_note_34"></span>[34](#page_278_fr_34.md) *Ku ’mpondo
 zankomo*, It is the horns of a bullock; a saying to express the earliest
 dawn, when the horns of the cattle are just becoming visible.
 
- <span id="page_278_note_35"></span>[35](#page_278_fr_35) Lit., Take
+ <span id="page_278_note_35"></span>[35](#page_278_fr_35.md) Lit., Take
 out, viz., from the place of concealment.
 
 <span id="footnotes_page_280">p. 280</span>
 
- <span id="page_280_note_36"></span>[36](#page_280_fr_36) *Abapansi*,
+ <span id="page_280_note_36"></span>[36](#page_280_fr_36.md) *Abapansi*,
 Subterraneans, that is, the Amatongo.
 
- <span id="page_280_note_37"></span>[37](#page_280_fr_37) *Isanusi*, a
+ <span id="page_280_note_37"></span>[37](#page_280_fr_37.md) *Isanusi*, a
 diviner; etymology of the word unknown.
 
- <span id="page_280_note_38"></span>[38](#page_280_fr_38) *Ibuda*, a
+ <span id="page_280_note_38"></span>[38](#page_280_fr_38.md) *Ibuda*, a
 diviner; but for the most part an epithet of contempt, and used pretty
 much in the same way and spirit as Ahab's servant applied the term "mad
 fellow" to the young prophet that anointed Jehu. ([2 Kings ix.
-11](../../bib/kjv/kg2.htm#9:11).) It is derived from *ukubuda*, to talk
+11](../../bib/kjv/kg2.htm#9:11)..md) It is derived from *ukubuda*, to talk
 recklessly, or not to the point; also to dream falsely.
 
  It is interesting to note that in Abyssinia we meet with the word
@@ -2885,7 +2885,7 @@ was the custom formerly to execute hundreds of suspected *Boudas*.
 (*Wanderings among the Falashas in Abyssinia. By Rev. Henry A. Stern,
 p.* 152-161.)
 
- <span id="page_281_note_39"></span>[39](#page_281_fr_39) *Inyanga
+ <span id="page_281_note_39"></span>[39](#page_281_fr_39.md) *Inyanga
 yokubula*.—*Inyanga* is one possessed of some particular skill or
 knowledge, as that of a smith, or carpenter; or of medicine:—*inyanga
 yemiti*, one skilled in medicine, a doctor of medicine; it is applied to
@@ -2904,34 +2904,34 @@ able to keep their attention from himself. It is also quite possible
 that it may also produce an exalted or mesmeric condition of mind in the
 diviner.
 
- <span id="page_281_note_40"></span>[40](#page_281_fr_40) *Umungoma*, a
+ <span id="page_281_note_40"></span>[40](#page_281_fr_40.md) *Umungoma*, a
 diviner, but an epithet of respect. Etymology unknown.
 
 <span id="footnotes_page_283">p. 283</span>
 
- <span id="page_283_note_41"></span>[41](#page_283_fr_41) That is, we
+ <span id="page_283_note_41"></span>[41](#page_283_fr_41.md) That is, we
 ask you to tell us good news, with which we may return home with
 gladdened hearts.
 
 <span id="footnotes_page_284">p. 284</span>
 
- <span id="page_284_note_42"></span>[42](#page_284_fr_42) That is, he
+ <span id="page_284_note_42"></span>[42](#page_284_fr_42.md) That is, he
 gazes into space with a kind of ecstatic stare, as though he really saw
 or had a vision of the other diviner.
 
 <span id="footnotes_page_285">p. 285</span>
 
- <span id="page_285_note_43"></span>[43](#page_285_fr_43) *Our people*,
+ <span id="page_285_note_43"></span>[43](#page_285_fr_43.md) *Our people*,
 that is, the Amatongo or ancestral spirits belonging to our house or
 tribe. As below, the enquirers speak of their people, that is, the
 ancestral spirits belonging to their house or tribe.
 
- <span id="page_285_note_44"></span>[44](#page_285_fr_44)
+ <span id="page_285_note_44"></span>[44](#page_285_fr_44.md)
 *White*,—clearly seen by you, and so giving a clear revelation.
 
 <span id="footnotes_page_286">p. 286</span>
 
- <span id="page_286_note_45"></span>[45](#page_286_fr_45) *Inyamazane*,
+ <span id="page_286_note_45"></span>[45](#page_286_fr_45.md) *Inyamazane*,
 Large animals, which are supposed to have been used by some one to
 produce the disease from which he is suffering. These are the
 *Inhluzele*, the Harte-beest. That this has been used with other
@@ -2948,7 +2948,7 @@ diseases occasioned by them. To cure these diseases the natives act on
 the homœopathic principle, and administer the wild beast that is
 supposed to have occasioned the disease, with other medicines.
 
- <span id="page_287_note_46"></span>[46](#page_287_fr_46) *He has
+ <span id="page_287_note_46"></span>[46](#page_287_fr_46.md) *He has
 Umsizi.—Umsizi* is a disease occurring among the Amalala, and said not
 to be known to the Amazulu or Amakxosa. It is supposed to arise from the
 administration of medicine, in this way. A man is suspicious of his
@@ -2997,25 +2997,25 @@ possibility of her communicating it.
 
 <span id="footnotes_page_290">p. 290</span>
 
- <span id="page_290_note_47"></span>[47](#page_290_fr_47) Lit., Come
+ <span id="page_290_note_47"></span>[47](#page_290_fr_47.md) Lit., Come
 back from the tears you have been shedding.
 
- <span id="page_290_note_48"></span>[48](#page_290_fr_48) That is, We
+ <span id="page_290_note_48"></span>[48](#page_290_fr_48.md) That is, We
 are enquirers only. We know nothing.
 
- <span id="page_290_note_49"></span>[49](#page_290_fr_49) Lit., We have
+ <span id="page_290_note_49"></span>[49](#page_290_fr_49.md) Lit., We have
 tears; tears are with us.
 
- <span id="page_290_note_50"></span>[50](#page_290_fr_50) *Ikambi* is
+ <span id="page_290_note_50"></span>[50](#page_290_fr_50.md) *Ikambi* is
 the name given to a large class of medicines, the expressed juices of
 which are used. The green plant is bruised, and a little water added,
 and then squeezed. The juice may be squeezed into the mouth, or eyes,
 ears, &c.
 
- <span id="page_290_note_51"></span>[51](#page_290_fr_51) Medicines are
+ <span id="page_290_note_51"></span>[51](#page_290_fr_51.md) Medicines are
 rubbed into the scarifications.
 
- <span id="page_290_note_52"></span>[52](#page_290_fr_52) *Ukuncindisa*
+ <span id="page_290_note_52"></span>[52](#page_290_fr_52.md) *Ukuncindisa*
 is a peculiar way of administering a medicine. The medicine is powdered,
 and placed in a pot or sherd over the fire; when it is hot the dregs of
 beer are squeezed into it, or the contents of a stomach of a goat or
@@ -3027,35 +3027,35 @@ prepared is called *izembe*.
 
 <span id="footnotes_page_291">p. 291</span>
 
- <span id="page_291_note_53"></span>[53](#page_291_fr_53) *Ukubambezela*
+ <span id="page_291_note_53"></span>[53](#page_291_fr_53.md) *Ukubambezela*
 means to bring the disease to a stand (*ukumisa*), that it may not
 increase till the doctor can come with powerful remedies. Medicines
 given with this object are called *izibambezelo*.
 
 <span id="footnotes_page_292">p. 292</span>
 
- <span id="page_292_note_54"></span>[54](#page_292_fr_54) *Wa
+ <span id="page_292_note_54"></span>[54](#page_292_fr_54.md) *Wa
 hlakanipa*, He becomes sensible, sharp. Applied to what is sometimes
 called by us "lighting up before death."
 
- <span id="page_292_note_55"></span>[55](#page_292_fr_55) *Ukuyalela* is
+ <span id="page_292_note_55"></span>[55](#page_292_fr_55.md) *Ukuyalela* is
 to manifest the signs which precede immediate dissolution. The man is
 sometimes conscious of his approaching end, and calls his wives and
 children around him, and says farewell.
 
 <span id="footnotes_page_293">p. 293</span>
 
- <span id="page_293_note_56"></span>[56](#page_293_fr_56) Lit., A
+ <span id="page_293_note_56"></span>[56](#page_293_fr_56.md) Lit., A
 diviner who speaks, that is, does not rave and talk nonsense.
 
 <span id="footnotes_page_294">p. 294</span>
 
- <span id="page_294_note_57"></span>[57](#page_294_fr_57) Viz., We are
+ <span id="page_294_note_57"></span>[57](#page_294_fr_57.md) Viz., We are
 going no further.
 
 <span id="footnotes_page_295">p. 295</span>
 
- <span id="page_295_note_58"></span>[58](#page_295_fr_58) The doctor
+ <span id="page_295_note_58"></span>[58](#page_295_fr_58.md) The doctor
 demands first *ugxha*, that is, the stick which he <span
 id="footnotes_page_296">p. 296</span> uses to dig up medicines. This he
 does by asking, "Ni zoku ngi kipa ngani ekaya lapa na?" With what are
@@ -3070,13 +3070,13 @@ up.
 
 <span id="footnotes_page_297">p. 297</span>
 
- <span id="page_297_note_59"></span>[59](#page_297_fr_59) Lit., Overcome
+ <span id="page_297_note_59"></span>[59](#page_297_fr_59.md) Lit., Overcome
 him, that is, the disease from which he is suffering,—overcome the sick
 man by getting rid of his sickness.
 
 <span id="footnotes_page_298">p. 298</span>
 
- <span id="page_298_note_60"></span>[60](#page_298_fr_60) "Give me
+ <span id="page_298_note_60"></span>[60](#page_298_fr_60.md) "Give me
 something to wipe my eyes with." Lit., Wipe my eyes for me. A proverbial
 saying, meaning that he is not wholly satisfied; that his eyes are not
 yet quite free from dust, so that he is unable to see clearly the cattle
@@ -3088,12 +3088,12 @@ corn.
 
 <span id="footnotes_page_299">p. 299</span>
 
- <span id="page_299_note_61"></span>[61](#page_299_fr_61) See [the
-account of Ukanzi](#page_305) at the end of this article.
+ <span id="page_299_note_61"></span>[61](#page_299_fr_61.md) See [the
+account of Ukanzi](#page_305.md) at the end of this article.
 
 <span id="footnotes_page_301">p. 301</span>
 
- <span id="page_301_note_62"></span>[62](#page_301_fr_62) They say "some
+ <span id="page_301_note_62"></span>[62](#page_301_fr_62.md) They say "some
 cattle," although it was but one that was missing, that they may not
 give the diviner too much knowledge. They leave him to discover the
 deception; and if he does not, but proceeds to speak as though many
@@ -3101,25 +3101,25 @@ cattle were lost, they know he does not understand divination.
 
 <span id="footnotes_page_303">p. 303</span>
 
- <span id="page_303_note_63"></span>[63](#page_303_fr_63) Umtolo and
+ <span id="page_303_note_63"></span>[63](#page_303_fr_63.md) Umtolo and
 umunga, mimosa trees.
 
 <span id="footnotes_page_304">p. 304</span>
 
- <span id="page_304_note_64"></span>[64](#page_304_fr_64) That is, if
+ <span id="page_304_note_64"></span>[64](#page_304_fr_64.md) That is, if
 any cattle strayed into his land he took possession of them.
 
 <span id="footnotes_page_306">p. 306</span>
 
- <span id="page_306_note_65"></span>[65](#page_306_fr_65) Note that
+ <span id="page_306_note_65"></span>[65](#page_306_fr_65.md) Note that
 *isihlungu* is used both for the snake-poison and its remedy.
 
 <span id="footnotes_page_307">p. 307</span>
 
- <span id="page_307_note_66"></span>[66](#page_307_fr_66) Lit., To so
+ <span id="page_307_note_66"></span>[66](#page_307_fr_66.md) Lit., To so
 great a post, or trunk, as this.
 
- <span id="page_307_note_67"></span>[67](#page_307_fr_67) The following
+ <span id="page_307_note_67"></span>[67](#page_307_fr_67.md) The following
 account is taken from the *St. James's Magazine*:
 
  "In the course of a country ramble, some Europeans fell in with a
@@ -3225,7 +3225,7 @@ M.A. Vol. II., p.* 14.)
 
 <span id="footnotes_page_314">p. 314</span>
 
- <span id="page_314_note_68"></span>[68](#page_314_fr_68) *Ukuvimba* is
+ <span id="page_314_note_68"></span>[68](#page_314_fr_68.md) *Ukuvimba* is
 to stop, to put a stopper in a bottle. The natives say, *Uku m vimba
 umuntu*, To stop a man, as though there was some opening by which the
 Itongo had access. Or *Ukuvimbu itongo*, or *Uku m vimba itongo*, or
@@ -3271,10 +3271,10 @@ and hence they have always the honour to be cited in our local legends."
 (*Lancashire Folk-lore. John Harland, F.S.A., and T. T. Wilkinson,
 F.R.A.S., p.* 57.)
 
- <span id="page_315_note_69"></span>[69](#page_315_fr_69) *Isidhlalo*, a
+ <span id="page_315_note_69"></span>[69](#page_315_fr_69.md) *Isidhlalo*, a
 disease supposed to be caused by the Itongo.
 
- <span id="page_315_note_70"></span>[70](#page_315_fr_70) Here again we
+ <span id="page_315_note_70"></span>[70](#page_315_fr_70.md) Here again we
 have a superstition analagous with what we find in our own country. To
 charm warts away, a piece of flesh is stolen and rubbed on the warts,
 and then buried; or a number of pebbles, corresponding with the number
@@ -3284,46 +3284,46 @@ home."
 
 <span id="footnotes_page_316">p. 316</span>
 
- <span id="page_316_note_71"></span>[71](#page_316_fr_71) The woman must
+ <span id="page_316_note_71"></span>[71](#page_316_fr_71.md) The woman must
 respect (*hlonipa*) her husband's name; she does not call him by name,
 but as here, when addressing him or speaking of him, says, "Father of
 So-and-so," mentioning one of his children by name.
 
 <span id="footnotes_page_317">p. 317</span>
 
- <span id="page_317_note_72"></span>[72](#page_317_fr_72) *Inkomfe*, a
+ <span id="page_317_note_72"></span>[72](#page_317_fr_72.md) *Inkomfe*, a
 bulbous plant, the leaves of which contain a strong fibre, and are used
 for weaving ropes.
 
 <span id="footnotes_page_318">p. 318</span>
 
- <span id="page_318_note_73"></span>[73](#page_318_fr_73) See [p.
-142](rsa06.htm#page_142), where it is stated that means are employed to
+ <span id="page_318_note_73"></span>[73](#page_318_fr_73.md) See [p.
+142](rsa06.htm#page_142.md), where it is stated that means are employed to
 cause dreams of the departed. This is called *ukubanga ipupo*, to cause
 a dream by medicines or medical charms. This system has many
 ramifications, and will be again alluded to at the end of the volume.
 
 <span id="footnotes_page_321">p. 321</span>
 
- <span id="page_321_note_74"></span>[74](#page_321_fr_74) *Kcakcambisa*,
+ <span id="page_321_note_74"></span>[74](#page_321_fr_74.md) *Kcakcambisa*,
 to make white; applied metaphorically, to whiten or make clear the
-perceptions. See [note 5, p. 261](#page_261_note_5).
+perceptions. See [note 5, p. 261](#page_261_note_5.md).
 
 <span id="footnotes_page_322">p. 322</span>
 
- <span id="page_322_note_75"></span>[75](#page_322_fr_75) That is, in
+ <span id="page_322_note_75"></span>[75](#page_322_fr_75.md) That is, in
 its power to produce distinct or clear vision.
 
 <span id="footnotes_page_324">p. 324</span>
 
- <span id="page_324_note_76"></span>[76](#page_324_fr_76) Like a man who
+ <span id="page_324_note_76"></span>[76](#page_324_fr_76.md) Like a man who
 has lost his cattle, having found a footprint he will return again and
 again to it, till he succeeds in connecting it with others, and thus
 form a continuous track, which leads him to the lost property.
 
 <span id="footnotes_page_327">p. 327</span>
 
- <span id="page_327_note_77"></span>[77](#page_327_fr_77) *A doctor of
+ <span id="page_327_note_77"></span>[77](#page_327_fr_77.md) *A doctor of
 the thumb*, or *thumb-doctor*,—so called because he cannot proceed
 without the assistance of those who enquire, which they give either by
 silence or striking the ground gently with the *izibulo* or
@@ -3356,14 +3356,14 @@ supposed that this mode of divination is of modern origin.
 
 <span id="footnotes_page_328">p. 328</span>
 
- <span id="page_328_note_78"></span>[78](#page_328_fr_78) The head of
+ <span id="page_328_note_78"></span>[78](#page_328_fr_78.md) The head of
 the village alone enquires of the diviner, either in person or by his
 representatives. Great men send messengers to the diviner, and do not go
 in person.
 
 <span id="footnotes_page_330">p. 330</span>
 
- <span id="page_330_note_79"></span>[79](#page_330_fr_79)
+ <span id="page_330_note_79"></span>[79](#page_330_fr_79.md)
 *Umngom’-u-ng’-umuntu*, a name apparently given because whilst
 professing to divine he manifested no skill in divination. It means,
 "The diviner who is a man," that is, a common man, without any special
@@ -3371,17 +3371,17 @@ endowments.
 
 <span id="footnotes_page_334">p. 334</span>
 
- <span id="page_334_note_80"></span>[80](#page_334_fr_80) A mode of
+ <span id="page_334_note_80"></span>[80](#page_334_fr_80.md) A mode of
 informing the diviner that they come to divine; and expressing a wish
 that he will divine for them favourably. Chiefs are sometimes addressed
 in this way when a man is about to ask a favour.
 
 <span id="footnotes_page_336">p. 336</span>
 
- <span id="page_336_note_81"></span>[81](#page_336_fr_81) Some of the
+ <span id="page_336_note_81"></span>[81](#page_336_fr_81.md) Some of the
 following examples appear to be instances of legerdemain,—mere tricks.
 
- <span id="page_336_note_82"></span>[82](#page_336_fr_82) "The heroes of
+ <span id="page_336_note_82"></span>[82](#page_336_fr_82.md) "The heroes of
 the Finne," in one of their wanderings, fell in with "a great wild
 savage of a giant," who, after enquiring the news, arose, and "put a
 cauldron on the fire, and a stag of a deer in it.
@@ -3405,7 +3405,7 @@ the pot boiling.
 
 <span id="footnotes_page_337">p. 337</span>
 
- <span id="page_337_note_83"></span>[83](#page_337_fr_83)
+ <span id="page_337_note_83"></span>[83](#page_337_fr_83.md)
 *Buhluza-bonungu! mabala-maji!*—These words are *izibongo* or
 praise-giving names, by which the doctor addresses the bone which is
 taken from the porcupine. Each bone has its *isibongo*, one or more.
@@ -3417,12 +3417,12 @@ quills.
 
 <span id="footnotes_page_339">p. 339</span>
 
- <span id="page_338_note_84"></span>[84](#page_338_fr_84) Compare [2
-Kings vi. 17](../../bib/kjv/kg2.htm#6:17)-20.
+ <span id="page_338_note_84"></span>[84](#page_338_fr_84.md) Compare [2
+Kings vi. 17](../../bib/kjv/kg2.htm#6:17.md)-20.
 
 <span id="footnotes_page_339">p. 339</span>
 
- <span id="page_339_note_85"></span>[85](#page_339_fr_85) The Mantis, or
+ <span id="page_339_note_85"></span>[85](#page_339_fr_85.md) The Mantis, or
 Hottentot God. There is also a bird called Isipungumangati, which boys
 use for the same purpose. If the cattle are lost, and they see this bird
 sitting on a tree, they ask it where the cattle are; and go in the
@@ -3431,7 +3431,7 @@ crow, and has a crest.
 
 <span id="footnotes_page_340">p. 340</span>
 
- <span id="page_340_note_86"></span>[86](#page_340_fr_86) Here the
+ <span id="page_340_note_86"></span>[86](#page_340_fr_86.md) Here the
 *izinyanga* stand out very clearly as a priesthood, whose duty it was to
 "consecrate" the chiefs. They, however, did it with charms and sorcery.
 When a chief has obtained from the diviners all their medicines and
@@ -3439,7 +3439,7 @@ information as to the mode of using the *isitundu*, it is said that he
 often orders them to be killed, lest they should use their sorcery
 against himself.
 
- <span id="page_340_note_87"></span>[87](#page_340_fr_87) The *isitundu*
+ <span id="page_340_note_87"></span>[87](#page_340_fr_87.md) The *isitundu*
 is a narrow-mouthed vessel, made of a grass called *umsingizane* or of
 *izingqondo-zelala*, the fibres of the vegetable ivory; the grass or
 fibres are twisted into a small cord, which is sewn together into the
@@ -3448,31 +3448,31 @@ hold water.
 
 <span id="footnotes_page_341">p. 341</span>
 
- <span id="page_341_note_88"></span>[88](#page_341_fr_88) Churns it,
+ <span id="page_341_note_88"></span>[88](#page_341_fr_88.md) Churns it,
 that is, twists round and round by means of a stick the contents of the
 vessel, consisting of sundry plants steeped in water.
 
- <span id="page_341_note_89"></span>[89](#page_341_fr_89) This appears
+ <span id="page_341_note_89"></span>[89](#page_341_fr_89.md) This appears
 to be similar to the divination by looking into a cup or vessel or
 crystal, still practised in North Africa and other places. Compare what
-is said of Joseph's cup, [Gen. xliv. 5](../../bib/kjv/gen.htm#44:5).
+is said of Joseph's cup, [Gen. xliv. 5](../../bib/kjv/gen.htm#44:5.md).
 
 <span id="footnotes_page_342">p. 342</span>
 
- <span id="page_342_note_90"></span>[90](#page_342_fr_90) Lit., I shall
+ <span id="page_342_note_90"></span>[90](#page_342_fr_90.md) Lit., I shall
 just hear by what kind of a way he will escape.
 
 <span id="footnotes_page_345">p. 345</span>
 
- <span id="page_345_note_91"></span>[91](#page_345_fr_91) *Ukulumba* and
+ <span id="page_345_note_91"></span>[91](#page_345_fr_91.md) *Ukulumba* and
 *ukuhlunga* are to practise a peculiar kind of sorcery by means of
 medicines. See below, at the end of the volume.
 
- <span id="page_345_note_92"></span>[92](#page_345_fr_92) *Intelezi*,
+ <span id="page_345_note_92"></span>[92](#page_345_fr_92.md) *Intelezi*,
 various kinds of plants, &c., used as charms, and believed to possess
 magical powers.
 
- <span id="page_345_note_93"></span>[93](#page_345_fr_93) The plants
+ <span id="page_345_note_93"></span>[93](#page_345_fr_93.md) The plants
 used to make a circlet of this kind are *umabope*, *usangume*,
 *umatshwilitshwili*, *omfingo*, &c.; they are supposed to have some
 especial power—to restrain a man from running away, to force him to come
@@ -3480,38 +3480,38 @@ back, to take away his courage or his strength, his judgment, &c.
 
 <span id="footnotes_page_346">p. 346</span>
 
- <span id="page_346_note_94"></span>[94](#page_346_fr_94) This is a
+ <span id="page_346_note_94"></span>[94](#page_346_fr_94.md) This is a
 free, but really literal rendering, as in the following sentence:—*Ilau
 lomfundisi li hlala izincwadi zake zonke*, The private room of the
 missionary contains all his books; or, All the missionary's books are in
 his private room.
 
- <span id="page_346_note_95"></span>[95](#page_346_fr_95) That is,
+ <span id="page_346_note_95"></span>[95](#page_346_fr_95.md) That is,
 something belonging to the chief; by taking and churning that, he says
 he takes and churns the chief.
 
 <span id="footnotes_page_347">p. 347</span>
 
- <span id="page_347_note_96"></span>[96](#page_347_fr_96) The *ubulawo*
+ <span id="page_347_note_96"></span>[96](#page_347_fr_96.md) The *ubulawo*
 is hard, that is, does not give out readily the signs which indicate a
 favourable issue.
 
- <span id="page_347_note_97"></span>[97](#page_347_fr_97) That is, when
+ <span id="page_347_note_97"></span>[97](#page_347_fr_97.md) That is, when
 you fight with them, it will be like handing fire, and unless you light
 well you will get burnt by the enemy.
 
- <span id="page_347_note_98"></span>[98](#page_347_fr_98) They are soft,
+ <span id="page_347_note_98"></span>[98](#page_347_fr_98.md) They are soft,
 and easily overcome,—mere women.
 
 <span id="footnotes_page_348">p. 348</span>
 
- <span id="page_348_note_99"></span>[99](#page_348_fr_99) Not the man's
+ <span id="page_348_note_99"></span>[99](#page_348_fr_99.md) Not the man's
 own father, but his uncle, his father's brother, who on the death of the
 real father took possession of the wife and family of the deceased,
 becoming the husband of the wife and father of the children, and is
 therefore called father simply, in accordance with native custom.
 
- <span id="page_348_note_1"></span>[1](#page_348_fr_1) This, perhaps, is
+ <span id="page_348_note_1"></span>[1](#page_348_fr_1.md) This, perhaps, is
 the best rendering we can give to the words, *Inyanga yemilozi*. The
 *imilozi* are supposed to be *amatongo* or spirits of the dead, who wait
 on a particular diviner, and speak in a low whistling tone, so as to be
@@ -3531,25 +3531,25 @@ from the dead by incantations and magic; and who may also be called
 
 <span id="footnotes_page_349">p. 349</span>
 
- <span id="page_349_note_2"></span>[2](#page_349_fr_2)
+ <span id="page_349_note_2"></span>[2](#page_349_fr_2.md)
 *U-nkom’-i-dhl’-i-lale*, The-bullock-which-eats-and-lies-down. Implying
 that he lives in the midst of abundance.
 
 <span id="footnotes_page_350">p. 350</span>
 
- <span id="page_350_note_3"></span>[3](#page_350_fr_3) Almost precisely
+ <span id="page_350_note_3"></span>[3](#page_350_fr_3.md) Almost precisely
 the words with which Balaam answered Balak, [Numb. xxii.
-38](../../bib/kjv/num.htm#22:38).
+38](../../bib/kjv/num.htm#22:38.md).
 
- <span id="page_350_note_4"></span>[4](#page_350_fr_4) Masters,—the
+ <span id="page_350_note_4"></span>[4](#page_350_fr_4.md) Masters,—the
 *imilozi*.
 
 <span id="footnotes_page_351">p. 351</span>
 
- <span id="page_351_note_5"></span>[5](#page_351_fr_5) That is, for
+ <span id="page_351_note_5"></span>[5](#page_351_fr_5.md) That is, for
 burial. None lived.
 
- <span id="page_351_note_6"></span>[6](#page_351_fr_6) The natives
+ <span id="page_351_note_6"></span>[6](#page_351_fr_6.md) The natives
 believe that the wizard has power to place poisons in the path of a
 person he wishes to injure, and that by merely passing over it the
 victim will be affected with whatever disease the wizard desires; and
@@ -3557,10 +3557,10 @@ further, no one besides the devoted victim will suffer by passing over
 it. This is called *ukubeka ubuti*, to lay poison; and the person
 affected is said *ukwekqa ubuti*, to leap over or pass over poison.
 
- <span id="page_351_note_7"></span>[7](#page_351_fr_7) *Died*; her
+ <span id="page_351_note_7"></span>[7](#page_351_fr_7.md) *Died*; her
 disease is called death.
 
- <span id="page_351_note_8"></span>[8](#page_351_fr_8) *Imbozisa*, a
+ <span id="page_351_note_8"></span>[8](#page_351_fr_8.md) *Imbozisa*, a
 general term applied to certain medicines capable <span
 id="footnotes_page_352">p. 352</span> of causing a
 slough—escharotics—from *ukubozisa*, to cause to rot. But here they are
@@ -3571,7 +3571,7 @@ mentioned—*umdhlebe* and *imbuya*; not the common *imbuya*, generally
 called wild spinach, but a larger plant possessed of poisonous
 qualities.
 
- <span id="page_352_note_9"></span>[9](#page_352_fr_9) *Sa dhlula*, i.
+ <span id="page_352_note_9"></span>[9](#page_352_fr_9.md) *Sa dhlula*, i.
 e. *isisu*, the word *isisu* being applied to the abdomen, to the womb,
 and to that which is conceived. "The offspring passed away." The natives
 use the same form of a man dying,—"*U se dhlulile*," He has now passed
@@ -3579,65 +3579,65 @@ away—he is dead.
 
 <span id="footnotes_page_353">p. 353</span>
 
- <span id="page_353_note_10"></span>[10](#page_353_fr_10) Amadhlozi or
+ <span id="page_353_note_10"></span>[10](#page_353_fr_10.md) Amadhlozi or
 Amatongo.
 
- <span id="page_353_note_11"></span>[11](#page_353_fr_11) That is, to
+ <span id="page_353_note_11"></span>[11](#page_353_fr_11.md) That is, to
 kill you; and like a warrior return with the spoil—the dead body of the
 conquered.
 
 <span id="footnotes_page_354">p. 354</span>
 
- <span id="page_354_note_12"></span>[12](#page_354_fr_12) Viz., the
+ <span id="page_354_note_12"></span>[12](#page_354_fr_12.md) Viz., the
 dead,—the Amatongo.
 
- <span id="page_354_note_13"></span>[13](#page_354_fr_13) Compare this
+ <span id="page_354_note_13"></span>[13](#page_354_fr_13.md) Compare this
 contest between the contending factions of the Amatongo with the battle
 of the good people, given in "The Confessions of Tom Bourke," *Croker's
 Fairy Legends*.
 
 <span id="footnotes_page_355">p. 355</span>
 
- <span id="page_355_note_14"></span>[14](#page_355_fr_14) It is supposed
+ <span id="page_355_note_14"></span>[14](#page_355_fr_14.md) It is supposed
 that the Amatongo, or the dead, can die again. Here we have allusions to
 their being killed in battle, and of their being carried away by the
-river. See above, [p. 225, note 76](rsa06.htm#page_225_note_76).
+river. See above, [p. 225, note 76](rsa06.htm#page_225_note_76.md).
 
 <span id="footnotes_page_357">p. 357</span>
 
- <span id="page_357_note_15"></span>[15](#page_357_fr_15) There were
+ <span id="page_357_note_15"></span>[15](#page_357_fr_15.md) There were
 three villages situated near each other, and the inhabitants of all of
 them came together.
 
 <span id="footnotes_page_359">p. 359</span>
 
- <span id="page_358_note_16"></span>[16](#page_358_fr_16) The English
+ <span id="page_358_note_16"></span>[16](#page_358_fr_16.md) The English
 reader may require to be reminded that the native hut is made of
 wattles, covered with grass.
 
 <span id="footnotes_page_263">p. 263</span>
 
- <span id="page_363_note_17"></span>[17](#page_363_fr_17) The woman with
+ <span id="page_363_note_17"></span>[17](#page_363_fr_17.md) The woman with
 the familiar spirits. The divination of the spirits is spoken of as
 something done by the woman, without whom they do not divine.
 
 <span id="footnotes_page_370">p. 370</span>
 
- <span id="page_370_note_18"></span>[18](#page_370_fr_18) That is,
+ <span id="page_370_note_18"></span>[18](#page_370_fr_18.md) That is,
 divine. Those diviners who divine by means of the *imilozi* generally
 speak in a low muttering tone; and they sometimes have peculiar closed
 eyes. They "peep and mutter," reminding us of [Isaiah viii.
-19](../../bib/kjv/isa.htm#8:19).
+19](../../bib/kjv/isa.htm#8:19.md).
 
 <span id="footnotes_page_372">p. 372</span>
 
- <span id="page_372_note_19"></span>[19](#page_372_fr_19) It is a very
+ <span id="page_372_note_19"></span>[19](#page_372_fr_19.md) It is a very
 common practice with native doctors to destroy the vessel which has been
 used to administer medicines.
 
 <span id="footnotes_page_374">p. 374</span>
 
- <span id="page_374_note_20"></span>[20](#page_374_fr_20) The Hebrew
+ <span id="page_374_note_20"></span>[20](#page_374_fr_20.md) The Hebrew
 Ovoth, according to Gesenius, was "a soothsayer who evoked the manes of
 the dead by incantations and magical songs in order to give answers as
 to future and doubtful things." The demon or familiar spirit spoke in a

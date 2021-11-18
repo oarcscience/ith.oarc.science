@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ssm11)  [Next](ssm13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ssm11)  [Next](ssm13.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ Amen was the great god at Thebes, and was ad
 <span id="img_25300"></span>
 
 [![](tn/25300.jpg)  
-Click to enlarge](img/25300.jpg)
+Click to enlarge](img/25300.jpg.md)
 
  
 
@@ -102,7 +102,7 @@ color was warm, flesh colored red.
 <span id="img_25600"></span>
 
 [![](tn/25600.jpg)  
-Click to enlarge](img/25600.jpg)
+Click to enlarge](img/25600.jpg.md)
 
  
 
@@ -172,7 +172,7 @@ black.
 <span id="img_25900"></span>
 
 [![](tn/25900.jpg)  
-Click to enlarge](img/25900.jpg)
+Click to enlarge](img/25900.jpg.md)
 
  
 
@@ -215,7 +215,7 @@ Thoth is *supposed* to be the Egyptian Hermes.
 <span id="img_26100"></span>
 
 [![](tn/26100.jpg)  
-Click to enlarge](img/26100.jpg)
+Click to enlarge](img/26100.jpg.md)
 
  
 
@@ -263,7 +263,7 @@ continues\]
 <span id="img_26300"></span>
 
 [![&lt;I&gt;Osiris&lt;/I&gt;.](tn/26300.jpg)  
-Click to enlarge](img/26300.jpg)  
+Click to enlarge](img/26300.jpg.md)  
 *Osiris*.  
 
  
@@ -343,7 +343,7 @@ recorded when Menes took the throne.
 
 Manetho, the Egyptian priest historian, says that during the 11th
 Dynasty the priesthood began to teach the people to worship the Sacred
-Symbols instead of the [Deity](errata.htm#5) Himself as heretofore. This
+Symbols instead of the [Deity](errata.htm#5.md) Himself as heretofore. This
 was the first step to the debauchery of the Egyptian religion which
 reached its peak during the 18th Dynasty and ended in every conceivable
 extravagance coupled with idolatry. The advent of Mohammedanism wiped
@@ -757,4 +757,4 @@ the Glacial Period, are all one and the same thing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Twin Sisters--Religion and Science](ssm13)
+[Next: Chapter X. The Twin Sisters--Religion and Science](ssm13.md)

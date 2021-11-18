@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl33)  [Next](flhl35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl33)  [Next](flhl35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -250,7 +250,7 @@ Whenever King Solomon went abroad, the birds of the air, by his command,
 hovered in flocks over his head like a vast canopy. On the occasion of
 his marriage, he commanded his feathered slaves to pay the like honour
 to his bride. All obeyed but the Hoopoe, <span
-id="fr_146"></span>[1](#fn_145) who, rather than flatter a woman, went
+id="fr_146"></span>[1](#fn_145.md) who, rather than flatter a woman, went
 and hid himself.
 
 The king, on his wedding day, missing his favourite bird, ordered the
@@ -284,7 +284,7 @@ seven long years, subsisting upon scraps of broken meat thrown to him by
 the charitable. His clothes turned to rags; his hair and beard hung
 about him like the fronds of maiden hair; his nails grew as long as
 eagle's talons, and his body became as emaciated as that of the leaf
-insect. <span id="fr_147"></span>[1](#fn_146)
+insect. <span id="fr_147"></span>[1](#fn_146.md)
 
 At the end of the seven years El Khudr, being sent that way, saw the
 strange mourner, and inquired his story.
@@ -424,7 +424,7 @@ take a stick and give the mistress a sound thrashing to make her
 amiable." These words came as light to the merchant's gloom. Forthwith
 he called his wife into an inner room, and there chastised her within an
 inch of her life. And from that hour she gave him no more trouble. <span
-id="fr_148"></span>[1](#fn_147)
+id="fr_148"></span>[1](#fn_147.md)
 
  
 
@@ -444,27 +444,27 @@ returned
 
 to the king, who, when he had listened to the Hoopoe's three stories,
 took the crown off his head and placed it on that of the bird, whose
-descendants wear it to this day. <span id="fr_149"></span>[1](#fn_148)
+descendants wear it to this day. <span id="fr_149"></span>[1](#fn_148.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_145"></span>[254:1](flhl34.htm#fr_146) Upupa epops.
+<span id="fn_145"></span>[254:1](flhl34.htm#fr_146.md) Upupa epops.
 
-<span id="fn_146"></span>[255:1](flhl34.htm#fr_147) Mantis religiosa,
+<span id="fn_146"></span>[255:1](flhl34.htm#fr_147.md) Mantis religiosa,
 called by the natives of the Jerusalem district "St George's mare," or
 "The Jew's mare."
 
-<span id="fn_147"></span>[260:1](flhl34.htm#fr_148) This will he
+<span id="fn_147"></span>[260:1](flhl34.htm#fr_148.md) This will he
 recognised as the identical story in which the wazìr, her father,
 delicately conveyed a threat to Sheherezâd when she persisted in asking
 him to give her to the murderous Shahriâr (v. "Arabian Nights").--ED.
 
-<span id="fn_148"></span>[261:1](flhl34.htm#fr_149) For this reason the
+<span id="fn_148"></span>[261:1](flhl34.htm#fr_149.md) For this reason the
 hoopoe is called by the fellahìn "the wise man's bird," or "the bird of
 Suleymân el Hakìm."
 
 ------------------------------------------------------------------------
 
-[Next: X. About Animals](flhl35)
+[Next: X. About Animals](flhl35.md)

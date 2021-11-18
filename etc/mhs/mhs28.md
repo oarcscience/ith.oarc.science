@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs27)  [Next](mhs29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs27)  [Next](mhs29.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,4 +150,4 @@ him.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Temples Of Fortune](mhs29)
+[Next: IV. Temples Of Fortune](mhs29.md)

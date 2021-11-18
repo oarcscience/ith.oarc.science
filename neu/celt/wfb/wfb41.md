@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb40)  [Next](wfb42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb40)  [Next](wfb42.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ magic music have been called the Grove of Heaven.
 
 ------------------------------------------------------------------------
 
-[Next: Sili go Dwt](wfb42)
+[Next: Sili go Dwt](wfb42.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](boo06)  [Next](boo08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](boo06)  [Next](boo08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9P0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9P0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Odes*, by L. Cranmer-Byng, \[1908\], at Intangible Textual
 Heritage
 
@@ -49,4 +49,4 @@ While the deep lizard drums roll on till night.
 
 ------------------------------------------------------------------------
 
-[Next: Drifting](boo08)
+[Next: Drifting](boo08.md)

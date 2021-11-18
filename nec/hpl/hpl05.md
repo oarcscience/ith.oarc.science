@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl04)  [Next](hpl06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl04)  [Next](hpl06.md) 
 
 ------------------------------------------------------------------------
 
@@ -317,4 +317,4 @@ which alone saved my mind.
 
 ------------------------------------------------------------------------
 
-[Next: The White Ship (1919)](hpl06)
+[Next: The White Ship (1919)](hpl06.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml17)  [Next](iml19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml17)  [Next](iml19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ and they
 <span id="page_215">p. 215</span>
 
 saw also Krishna, the amorous and powerful one, and his brother, the
-wine-drinking Balarama <span id="fr_245"></span>[1](#fn_244), the Yádava
+wine-drinking Balarama <span id="fr_245"></span>[1](#fn_244.md), the Yádava
 princes, the Rajah of Sindhu and his sons, the Rajah of Chedi, the Rajah
 of Kosala, the Rajah of Madra, and many more. Now the Pandavas were
 still disguised as Brahmans, and stood among the holy men.
@@ -395,8 +395,8 @@ with the Rajah Drupada and his sons-in-law regarding this matter.
 
 ### Footnotes
 
-<span id="fn_244"></span>[215:1](iml18.htm#fr_245) *Pron*. bal-a-rah´ma.
+<span id="fn_244"></span>[215:1](iml18.htm#fr_245.md) *Pron*. bal-a-rah´ma.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Triumph of the Pandavas](iml19)
+[Next: Chapter XIV. Triumph of the Pandavas](iml19.md)

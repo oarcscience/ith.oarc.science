@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  
-[Previous](swac)  [Next](swkn)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index.md)  
+[Previous](swac)  [Next](swkn.md)
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ From the <a href="../pkt/pktswki">Pictorial Key to the Tarot</a>, 1911.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Knight of Swords](swkn)
+[Next: Knight of Swords](swkn.md)

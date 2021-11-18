@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow19)  [Next](wow21) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow19)  [Next](wow21.md) 
 
 ------------------------------------------------------------------------
 
@@ -184,4 +184,4 @@ that was all.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four: The Death Of The Curate](wow21)
+[Next: Chapter Four: The Death Of The Curate](wow21.md)

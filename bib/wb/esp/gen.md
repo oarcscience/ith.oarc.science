@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Next](exo) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Next](exo.md) 
 
 ------------------------------------------------------------------------
 
@@ -5632,4 +5632,4 @@ jaroj; kaj oni balzamis lin kaj metis lin en cxerkon en Egiptujo.
 
 ------------------------------------------------------------------------
 
-[Next: Exodus](exo)
+[Next: Exodus](exo.md)

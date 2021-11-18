@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,13 +22,13 @@ Introduction by Hamilton W. Mabie
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](boeb00)
+[Contents](#contents)    [Start Reading](boeb00.md)
 
 ------------------------------------------------------------------------
 
 This collection of ballads contains some of the best known English folk
 lyrics. It is nowhere near as comprehensive as other books, such as the
-massive [Child ballad collection](../child/index). However, the
+massive [Child ballad collection](../child/index.md). However, the
 illustrations are gorgeous, and the selection is excellent. It should be
 noted that 'Old English' in this case doesn't mean 'Anglo-Saxon';
 strictly speaking these are written in late Middle or early Modern
@@ -55,32 +55,32 @@ the whole story.
 
 ------------------------------------------------------------------------
 
-[Title Page](boeb00)  
-[Contents](boeb01)  
-[Introduction](boeb02)  
-[Chevy Chace](boeb03)  
-[King Cophetua and the Beggar-Maid](boeb04)  
-[King Leir and his Three Daughters](boeb05)  
-[Fair Rosamond](boeb06)  
-[Phillida and Corydon](boeb07)  
-[Fair Margaret and Sweet William](boeb08)  
-[Annan Water](boeb09)  
-[The Bailiff's Daughter of Islington](boeb10)  
-[Barbara Allen's Cruelty](boeb11)  
-[The Douglas Tragedy](boeb12)  
-[Young Waters](boeb13)  
-[Flodden Field](boeb14)  
-[Helen of Kirkconnell](boeb15)  
-[Robin Hood and Allen-a-Dale](boeb16)  
-[Robin Hood and Guy of Gisborne](boeb17)  
-[Robin Hood's Death and Burial](boeb18)  
-[The Twa Corbies](boeb19)  
-[Waly, Waly, Love be Bonny](boeb20)  
-[The Nut-brown Maid](boeb21)  
-[The Fause Lover](boeb22)  
-[The Mermaid](boeb23)  
-[The Battle of Otterburn](boeb24)  
-[The Lament of the Border Widow](boeb25)  
-[The Banks o' Yarrow](boeb26)  
-[Hugh of Lincoln](boeb27)  
-[Sir Patrick Spens](boeb28)  
+[Title Page](boeb00.md)  
+[Contents](boeb01.md)  
+[Introduction](boeb02.md)  
+[Chevy Chace](boeb03.md)  
+[King Cophetua and the Beggar-Maid](boeb04.md)  
+[King Leir and his Three Daughters](boeb05.md)  
+[Fair Rosamond](boeb06.md)  
+[Phillida and Corydon](boeb07.md)  
+[Fair Margaret and Sweet William](boeb08.md)  
+[Annan Water](boeb09.md)  
+[The Bailiff's Daughter of Islington](boeb10.md)  
+[Barbara Allen's Cruelty](boeb11.md)  
+[The Douglas Tragedy](boeb12.md)  
+[Young Waters](boeb13.md)  
+[Flodden Field](boeb14.md)  
+[Helen of Kirkconnell](boeb15.md)  
+[Robin Hood and Allen-a-Dale](boeb16.md)  
+[Robin Hood and Guy of Gisborne](boeb17.md)  
+[Robin Hood's Death and Burial](boeb18.md)  
+[The Twa Corbies](boeb19.md)  
+[Waly, Waly, Love be Bonny](boeb20.md)  
+[The Nut-brown Maid](boeb21.md)  
+[The Fause Lover](boeb22.md)  
+[The Mermaid](boeb23.md)  
+[The Battle of Otterburn](boeb24.md)  
+[The Lament of the Border Widow](boeb25.md)  
+[The Banks o' Yarrow](boeb26.md)  
+[Hugh of Lincoln](boeb27.md)  
+[Sir Patrick Spens](boeb28.md)  

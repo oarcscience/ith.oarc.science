@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](twp08)  [Next](twp10) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](twp08)  [Next](twp10.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ and there is no little search being made for it.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Methods of the Witch-Persecutions.](twp10)
+[Next: VIII. The Methods of the Witch-Persecutions.](twp10.md)

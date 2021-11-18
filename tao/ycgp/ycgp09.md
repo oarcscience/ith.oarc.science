@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp08) [Next](ycgp10)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp08) [Next](ycgp10.md)
 
 ------------------------------------------------------------------------
 
@@ -6,7 +6,7 @@
 
 T<span class="small">SE</span>-C<span class="small">HAN</span> was
 Minister in Cheng, and governed for three years, and governed well.<span
-id="page_45_fr_1"></span>[1](#page_45_note_1)
+id="page_45_fr_1"></span>[1](#page_45_note_1.md)
 
    The good people complied with his injunctions, and the bad were in
 awe of his prohibitory laws.
@@ -27,7 +27,7 @@ offended people's noses.
 feeling of remorse, was unconscious of the safe and dangerous parts of
 the path of life; what was present or wanting in his <span
 id="page_46">p. 46</span> house, the near or remote degrees of
-relationship,<span id="page_46_fr_1"></span>[1](#page_46_note_1) the
+relationship,<span id="page_46_fr_1"></span>[1](#page_46_note_1.md) the
 various degrees of relationship, the joy of living and the sadness of
 death.
 
@@ -132,7 +132,7 @@ merit of yours."
 
 ------------------------------------------------------------------------
 
-[Next](ycgp10)
+[Next](ycgp10.md)
 
 ------------------------------------------------------------------------
 
@@ -140,13 +140,13 @@ merit of yours."
 
 <span id="footnotes_page_45">p. 45</span>
 
-<span id="page_45_note_1"></span>[1](#page_45_fr_1) The famous minister
+<span id="page_45_note_1"></span>[1](#page_45_fr_1.md) The famous minister
 of Cheng, Kung-sun-chiao, who lived about <span
 class="small">B.C.</span> 550.
 
 <span id="footnotes_page_46">p. 46</span>
 
-<span id="page_46_note_1"></span>[1](#page_46_fr_1) The nine degrees of
+<span id="page_46_note_1"></span>[1](#page_46_fr_1.md) The nine degrees of
 relationship are counted from great-great-grandfather to the
 great-great-grandson.
 

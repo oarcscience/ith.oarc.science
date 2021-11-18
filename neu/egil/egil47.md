@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil46)  [Next](egil48) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil46)  [Next](egil48.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ the chance.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER XLVII. Of the further harrying of Thorolf and
-Egil.](egil48)
+Egil.](egil48.md)

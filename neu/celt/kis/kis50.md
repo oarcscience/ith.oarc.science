@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis49)  [Next](kis51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis49)  [Next](kis51.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ drove him before him with a long iron spike that he had for a staff.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](kis51)
+[Next: Part II](kis51.md)

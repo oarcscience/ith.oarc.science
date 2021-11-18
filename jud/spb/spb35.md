@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb34)  [Next](spb36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb34)  [Next](spb36.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -18,12 +18,12 @@ Intangible Textual Heritage
 
 *On the day previous to the Fast of Atonement, Afternoon Service is said
 as on Fridays, but earlier than usual, After "who makest peace," [p.
-65](spb05.htm#page_65), say "Our God . . . let our prayer come," to the
+65](spb05.htm#page_65.md), say "Our God . . . let our prayer come," to the
 end of the Amidah for the Day of Atonement; see pp.
-[383](spb36.htm#page_383)–[389](spb36.htm#page_389)*.
+[383](spb36.htm#page_383)–[389](spb36.htm#page_389.md)*.
 
-*"It is our duty," etc., [p. 93](spb05.htm#page_93). Kaddish, [p.
-94](spb05.htm#page_94)*.
+*"It is our duty," etc., [p. 93](spb05.htm#page_93.md). Kaddish, [p.
+94](spb05.htm#page_94.md)*.
 
 *Before going to Synagogue the lamp is lighted, and the following
 Blessing is said:—*
@@ -38,6 +38,6 @@ of the \[Sabbath and the\] Day of Atonement.
 
 ------------------------------------------------------------------------
 
-[Next: Service for the Day of Atonement](spb36)
+[Next: Service for the Day of Atonement](spb36.md)
 
 </div>

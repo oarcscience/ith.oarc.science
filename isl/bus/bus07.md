@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](bus06)  [Next](bus08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](bus06)  [Next](bus08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Bustan of Sadi*, tr. by A. Hart Edwards, \[1911\], at Intangible
 Textual Heritage
 
@@ -37,7 +37,7 @@ in their breasts,
 <span id="page_61">p. 61</span>
 
 yet do they seek Him; though near a fountain, their lips are parched.
-[18](bus15.htm#an_18)
+[18](bus15.htm#an_18.md)
 
 #### DISCOURSE CONCERNING CONSTANCY
 
@@ -85,7 +85,7 @@ to dance. Surrounded by distracted hearts, the flame of a candle caught
 her skirt. She was distressed and angered.
 
 One of her lovers said, "Why agitate thyself? The fire has burned thy
-skirts—it [19](bus15.htm#an_19) has entirely consumed the harvest of my
+skirts—it [19](bus15.htm#an_19.md) has entirely consumed the harvest of my
 life."
 
 <span id="page_63">p. 63</span>
@@ -137,7 +137,7 @@ day turn copper into gold. Gold is good with which to buy—and what
 <span id="page_65">p. 65</span>
 
 couldst thou wish to buy better than the face of thy Friend?
-[20](bus15.htm#an_20)
+[20](bus15.htm#an_20.md)
 
 #### STORY OF ONE WHO WAS ASSIDUOUS IN PRAYER
 
@@ -244,7 +244,7 @@ weep?"
 
 The candle replied: "O my poor friend! Love is not thy business. Thou
 fliest from before a flame; I stand erect until I am entirely consumed.
-If the fire of love has [burned](errata.htm#0) thy wings, regard me, who
+If the fire of love has [burned](errata.htm#0.md) thy wings, regard me, who
 from head to foot must be destroyed."
 
 Before the night had passed, some one put the candle out, exclaiming:
@@ -264,4 +264,4 @@ storm.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Concerning Humility](bus08)
+[Next: Chapter IV. Concerning Humility](bus08.md)

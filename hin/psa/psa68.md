@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa67)  [Next](psa69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa67)  [Next](psa69.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ returned, after having fired the city, and came, and told Krishnù.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXVIII](psa69)
+[Next: Chapter LXVIII](psa69.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Roma](../index)  [Index](index) 
-[Previous](egl06)  [Next](egl08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Roma](../index)  [Index](index.md) 
+[Previous](egl06)  [Next](egl08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ this root, and I have no doubt that the expression, “Yes, with a
 pal “Walker,” is decidedly of the streets—gipsy. In German Gipsy we find
 *chochavav* and *hochewawa*, and in Roumanian Gipsy *kokao*—a lie.
 Hanky-panky and Hocus-pocus are each one half almost pure Hindustani.
- [81](egl13.htm#xref_81)
+ [81](egl13.htm#xref_81.md)
 
 A SHINDY approaches so nearly in sound to the Gipsy word *chingaree*,
 which means precisely the same thing, that the suggestion is at least
@@ -157,7 +157,7 @@ evident that the word BONGO may have been the origin of it. A *bongo
 yakko* or *yak*, means a distorted, crooked, or, in fact, a bunged eye.
 It also means lame, crooked, or sinister, and by a very singular figure
 of speech, *Bongo Tem* or the Crooked Land is the name for hell.
- [83](egl13.htm#xref_83)
+ [83](egl13.htm#xref_83.md)
 
 SHAVERS, as a quaint nick-name for children, is possibly inexplicable,
 unless we resort to Gipsy, where we find it used as directly as
@@ -594,4 +594,4 @@ expresses all of their meanings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Proverbs and Chance Phrases](egl08)
+[Next: Chapter VII. Proverbs and Chance Phrases](egl08.md)

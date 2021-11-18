@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca67)  [Next](fsca69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca67)  [Next](fsca69.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ id="img_25500"></span>
 
 |                                |
 |--------------------------------|
-| ![The Dolphin.](img/25500.jpg) |
+| ![The Dolphin.](img/25500.jpg.md) |
 
 length is usually seven or eight feet, though some specimens have been
 found to measure ten feet. Its back is almost straight, or only slightly
@@ -181,7 +181,7 @@ id="img_25900"></span>
 
 |                                           |
 |-------------------------------------------|
-| ![Dolphin of classic art.](img/25900.jpg) |
+| ![Dolphin of classic art.](img/25900.jpg.md) |
 
 belong those rainbow flashes of colour in dying. The common dolphin
 (*Delphinus delphis*) is dark on the back and satiny white beneath but
@@ -268,7 +268,7 @@ heraldry of the<span id="img_26200"></span>
 
 |                                  |
 |----------------------------------|
-| ![Coin of Ægina.](img/26200.jpg) |
+| ![Coin of Ægina.](img/26200.jpg.md) |
 
 heavens. In botany it lives in larkspurs called delphiniums, from their
 curious petals and the slender segments of their leaves.
@@ -299,7 +299,7 @@ id="img_26300"></span>
 
 |                                      |
 |--------------------------------------|
-| ![Dolphin and Anchor](img/26300.jpg) |
+| ![Dolphin and Anchor](img/26300.jpg.md) |
 
 safely take hold of the ground; for dolphins have this peculiar property
 that they can, as it were, foretell storms. The anchor then signifies a
@@ -370,4 +370,4 @@ in the episcopal palace environed with the dolphins of Constantinople.
 
 ------------------------------------------------------------------------
 
-[Next: The Dauphin of France](fsca69)
+[Next: The Dauphin of France](fsca69.md)

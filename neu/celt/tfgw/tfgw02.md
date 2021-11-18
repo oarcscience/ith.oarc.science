@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw01)  [Next](tfgw03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw01)  [Next](tfgw03.md) 
 
 ------------------------------------------------------------------------
 
@@ -323,4 +323,4 @@ John Connors and the Fairies
 
 ------------------------------------------------------------------------
 
-[Next: Fitzgerald and Daniel O'Donohue](tfgw03)
+[Next: Fitzgerald and Daniel O'Donohue](tfgw03.md)

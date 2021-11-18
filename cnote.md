@@ -10,7 +10,7 @@ title: "Intangible Textual Heritage: Copyrights"
 
 This page is a 'plain English' explanation of the copyright issues at
 this site. This can be considered a continuation of the [Terms of
-Service](tos) file.
+Service](tos.md) file.
 
 #### Using public domain files at this site
 
@@ -70,7 +70,7 @@ additional etexts. These files are listed in the [. Some other public
 domain files at this site may have some trivial commercial-use
 restrictions, particularly files from Project Gutenberg. Most other
 public domain files at this site can be used in commercial projects
-without any payment.](stbib)
+without any payment.](stbib.md)
 
 .
 
@@ -94,7 +94,7 @@ will promptly remove it.
 
 Some texts which are copyrighted or have unknown copyright status have
 the following icon next to their index listing:
-[![](cnote.gif)](#cnote). When this icon is present on a page, or added
+[![](cnote.gif)](#cnote.md). When this icon is present on a page, or added
 after a given file, it indicates that the file has copyright issues
 which you need to consider before using it (particularly for commercial
 purposes). The absence of this icon indicates that we believe that the
@@ -114,7 +114,7 @@ notices.
 All copyrighted images at this site have explicit copyright notices,
 either directly underneath the graphic or at the bottom of the page. If
 you want to use any of these files, you **must** [to obtain copyright
-clearance.](https://ith.oarc.science/contact)
+clearance.](https://ith.oarc.science/contact.md)
 
 If an image does *not* have such a notice, it *may* be in the public
 domain.
@@ -169,8 +169,8 @@ trying to locate.
 
 If it's not there (or I don't see an early entry for it) I also check
 the Library of Congress (<https://catalog.loc.gov/>). If it's not there
-I check Alibris ([www.alibris.com](https://www.alibris.com/)) and
-ABEbooks ([www.abebooks.com](https://www.abebooks.com)) for information
+I check Alibris ([www.alibris.com](https://www.alibris.com/).md) and
+ABEbooks ([www.abebooks.com](https://www.abebooks.com).md) for information
 about used copies.
 
 If it was first published in the US in or before 1922, it's in the

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss38)  [Next](oss40) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss38)  [Next](oss40.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ was in the clang of steel. "I will find thee, king of Erin! in the
 gathering of thy thousands find thee. Why should that cloud escape, that
 quenched our early beam? Kindle your meteors on your hills, my fathers.
 Light my daring steps. I will consume in wrath.  <span
-id="fr_110"></span>[1](#fn_110)-------- But should not I return? The
+id="fr_110"></span>[1](#fn_110.md)-------- But should not I return? The
 king is without a son, gray-haired among his foes! His arm is not as in
 the days of old. His fame grows dim in Erin. Let me not behold him, laid
 low in his latter field--But can I return to the king? Will he not ask
@@ -241,7 +241,7 @@ Atha, like
 
 the awful memory of ghosts whose presence was terrible; but they blew
 the storm away. Now let the voices of Erin  <span
-id="fr_111"></span>[1](#fn_111) raise the soul of the king; he that
+id="fr_111"></span>[1](#fn_111.md) raise the soul of the king; he that
 shone when war was dark, and laid the mighty low. Fonar, from that
 gray-browed rock pour the tale of other times: pour it on wide-skirted
 Erin, as it settles round.
@@ -276,7 +276,7 @@ daughter of Conmor over the decaying flame. Thou wert alone in her soul,
 car-borne chief of Atha. She raised the voice of the song, and touched
 the harp between.
 
-"Clun-galo  <span id="fr_112"></span>[1](#fn_112) came; she missed the
+"Clun-galo  <span id="fr_112"></span>[1](#fn_112.md) came; she missed the
 maid. Where art thou, beam of light? Hunters from the mossy rock, saw ye
 the blue-eyed fair? Are her steps on grassy Lumon; near the bed of roes?
 Ah, me! I behold her bow in the hail. Where art thou, beam of light?
@@ -293,7 +293,7 @@ Sul-malla's soul!"
 
 ### Footnotes
 
-<span id="fn_110"></span>[455:1](oss39.htm#fr_110) Here the sentence is
+<span id="fn_110"></span>[455:1](oss39.htm#fr_110.md) Here the sentence is
 designedly left unfinished. The sense is, that he was resolved, like a
 destroying fire, to consume Cathmor, who had killed his brother. In the
 midst of this resolution, the situation of Fingal suggests itself to him
@@ -303,13 +303,13 @@ recurs to him. He is determined again to go and find out Cathmor. We may
 consider him as in the act of advancing towards the enemy, when the horn
 of Fingal sounded on Mora, and called back his people to his presence.
 
-<span id="fn_111"></span>[458:1](oss39.htm#fr_111) A poetical expression
+<span id="fn_111"></span>[458:1](oss39.htm#fr_111.md) A poetical expression
 for the bards of Ireland.
 
-<span id="fn_112"></span>[459:1](oss39.htm#fr_112) Clun-galo: the wife
+<span id="fn_112"></span>[459:1](oss39.htm#fr_112.md) Clun-galo: the wife
 of Conmor, king of Inis-huna, and the mother of Sul-malla. She is here
 represented as missing her daughter, after she had fled with Cathmor.
 
 ------------------------------------------------------------------------
 
-[Next: Book VII](oss40)
+[Next: Book VII](oss40.md)

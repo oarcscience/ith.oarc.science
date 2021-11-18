@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah01)  [Next](mah03) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah01)  [Next](mah03.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](mah03)
+[Next: Foreword](mah03.md)

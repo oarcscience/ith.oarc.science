@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tfc09)  [Next](tfc11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tfc09)  [Next](tfc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales from Chaucer*, by Charles Cowden Clarke, \[1833\], at Intangible
 Textual Heritage
 
@@ -228,7 +228,7 @@ of which is described in Chaucer's own simple and agreeable manner: "The
 
 <span id="img_11200"></span> <span align="CENTER"> [![The
 Squire](tn/11200.jpg)  
-Click to enlarge](img/11200.jpg)  
+Click to enlarge](img/11200.jpg.md)  
 The Squire  
 </span>
 
@@ -268,7 +268,7 @@ had won many a fair city; and afterward of Algarsife, how he gained
 Theodora as his bride, for whose sake he was oft in sharp perils and was
 redeemed by the horse of brass: and then of Camballo, who fought in
 lists with the two brethren for Canace before he could obtain her as his
-prize. <span id="fr_24"></span>[\*](#fn_24) So where I left off I will
+prize. <span id="fr_24"></span>[\*](#fn_24.md) So where I left off I will
 begin again the course of my tale." And this hopeful promise the poet
 never fulfilled. The tale of the young Squire remains to be told—and who
 will dare undertake the task, when even Milton himself would not
@@ -603,7 +603,7 @@ were beloved alike, and no such lovers have been found since their days.
 
 ### Footnotes
 
-<span id="fn_24"></span>[114:\*](tfc10.htm#fr_24) There appears here
+<span id="fn_24"></span>[114:\*](tfc10.htm#fr_24.md) There appears here
 some mistake either in the original MS. as to the name mentioned, or
 Chaucer forgot that he had already described Camballo as the *brother*
 of Canace. How then could he fight "the two brethren"? and which two, he
@@ -612,4 +612,4 @@ wife?
 
 ------------------------------------------------------------------------
 
-[Next: The Pardoner's Tale](tfc11)
+[Next: The Pardoner's Tale](tfc11.md)

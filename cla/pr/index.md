@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766180832/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766180832/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766180832/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pr00)    [Text
-\[Zipped\]](pr.txt.gz)
+[Contents](#contents)    [Start Reading](pr00.md)    [Text
+\[Zipped\]](pr.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -38,16 +38,16 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766180832/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pr00)  
-[Preface](pr01)  
-[Contents](pr02)  
-[Chapter I: Pagan Piety in the Graeco-Roman World](pr03)  
-[Chapter II: The Greater Mysteries At Eleusis](pr04)  
-[Chapter III: Dionysian Excesses](pr05)  
-[Chapter IV: Orphic Reform](pr06)  
-[Chapter V: The Regenerative Rites of the Great Mother](pr07)  
-[Chapter VI: Death and New Birth in Mithraism](pr08)  
-[Chapter VII: Isiac Initiation](pr09)  
-[Chapter VIII: The New Birth Experience in Hermeticism](pr10)  
-[Chapter IX: The Mysticism of Philo](pr11)  
-[Chapter X: The Social Significance of Mystery Initiation](pr12)  
+<span id="contents"></span> [Title Page](pr00.md)  
+[Preface](pr01.md)  
+[Contents](pr02.md)  
+[Chapter I: Pagan Piety in the Graeco-Roman World](pr03.md)  
+[Chapter II: The Greater Mysteries At Eleusis](pr04.md)  
+[Chapter III: Dionysian Excesses](pr05.md)  
+[Chapter IV: Orphic Reform](pr06.md)  
+[Chapter V: The Regenerative Rites of the Great Mother](pr07.md)  
+[Chapter VI: Death and New Birth in Mithraism](pr08.md)  
+[Chapter VII: Isiac Initiation](pr09.md)  
+[Chapter VIII: The New Birth Experience in Hermeticism](pr10.md)  
+[Chapter IX: The Mysticism of Philo](pr11.md)  
+[Chapter X: The Social Significance of Mystery Initiation](pr12.md)  

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip31)  [Next](fip33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip31)  [Next](fip33.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ was in Purgathory at the laste, not to mintion an uglier place," sez I,
 "only it's too cowld I find meself, an' not too hot," sez I. "Faix, an'
 maybe ye wor more nor half-ways there, on'y for me, shashee; "but what's
 come to you at all, at all? Is it your fetch ye seen, Mister Connolly?"
-"Aw, naboclish!" <span id="fr_14"></span>[1](#fn_14) sez I. "Never mind
+"Aw, naboclish!" <span id="fr_14"></span>[1](#fn_14.md) sez I. "Never mind
 what I seen," sez I. So be degrees I began to come to a little; an'
 that's the way I met the banshee, Misther Harry!
 
@@ -132,10 +132,10 @@ what else it could a' been."
 
 ### Footnotes
 
-<span id="fn_14"></span>[111:1](fip32.htm#fr_14) *Na bac leis*.--*i.e.*,
+<span id="fn_14"></span>[111:1](fip32.htm#fr_14.md) *Na bac leis*.--*i.e.*,
 don't mind it.
 
 ------------------------------------------------------------------------
 
 [Next: A Lamentation for the Death of Sir Maurice Fitzgerald, tr. by
-Clarence Mangan](fip33)
+Clarence Mangan](fip33.md)

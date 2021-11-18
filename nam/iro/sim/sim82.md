@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim81)  [Next](sim83) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim81)  [Next](sim83.md) 
 
 ------------------------------------------------------------------------
 
@@ -903,4 +903,4 @@ killed him."
 
 ------------------------------------------------------------------------
 
-[Next: Turkey's Brother goes in Search of a Wife](sim83)
+[Next: Turkey's Brother goes in Search of a Wife](sim83.md)

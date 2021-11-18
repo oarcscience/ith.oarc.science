@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio09)  [Next](dio11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio09)  [Next](dio11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ wisdom and understanding; and of It is every counsel, and from It every
 knowledge and understanding; and in It all the treasures of wisdom and
 knowledge are hidden. For, agreeably to the things already spoken, the
 super-wise, and all-wise Cause is a mainstay <span
-id="fr_47"></span>[48](#fn_47) even of the self-existing Wisdom, both
+id="fr_47"></span>[48](#fn_47.md) even of the self-existing Wisdom, both
 the universal and the individual.
 
 <span id="page_88">p. 88</span> <span id="ii.ii.ii.vii-Page_88"></span>
@@ -168,7 +168,7 @@ thence and there being illuminated by the unsearchable depth of wisdom.
 Yet, even from all things, as I said, we may know It, for It is,
 according to the sacred text, the Cause formative of all, and ever
 harmonizing all, and (Cause) of the indissoluble adaptation and order of
-all, and ever uniting <span id="fr_48"></span>[49](#fn_48) the ends of
+all, and ever uniting <span id="fr_48"></span>[49](#fn_48.md) the ends of
 the former to the beginnings of those that follow, and beautifying the
 one symphony and harmony of the whole.
 
@@ -198,7 +198,7 @@ from error to the truth, through the veritable faith. But, he truly
 knows himself, not, as they say, mad, but as liberated from the unstable
 and variable course around the manifold variety of error, through the
 simple, and ever the same, and similar truth. Thus then the early
-leaders <span id="fr_49"></span>[50](#fn_49) of our Divine Theosophy are
+leaders <span id="fr_49"></span>[50](#fn_49.md) of our Divine Theosophy are
 dying every day, on behalf of truth, testifying as is natural, both by
 every word and deed, to the one knowledge of the truth of the
 Christians, that it is of all, both more simple and more Divine, yea
@@ -208,15 +208,15 @@ rather, that it is the sole true and one and simple knowledge of God.
 
 ### Footnotes
 
-<span id="fn_47"></span>[87:48](dio10.htm#fr_47) <span
+<span id="fn_47"></span>[87:48](dio10.htm#fr_47.md) <span
 id="ii.ii.ii.vii-p3.1"></span>See Caput XI., Section VI.
 
-<span id="fn_48"></span>[92:49](dio10.htm#fr_48) <span
+<span id="fn_48"></span>[92:49](dio10.htm#fr_48.md) <span
 id="ii.ii.ii.vii-p7.2"></span>True theory of evolution.
 
-<span id="fn_49"></span>[93:50](dio10.htm#fr_49) <span
+<span id="fn_49"></span>[93:50](dio10.htm#fr_49.md) <span
 id="ii.ii.ii.vii-p9.1"></span>First persecution of Nero.
 
 ------------------------------------------------------------------------
 
-[Next: Caput VIII.](dio11)
+[Next: Caput VIII.](dio11.md)

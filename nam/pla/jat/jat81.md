@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat80)  [Next](jat82) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat80)  [Next](jat82.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ the way they do when they have the fiesta, the grizzly dance.
 
 ------------------------------------------------------------------------
 
-[Next: 80. The Adolescence Ceremony](jat82)
+[Next: 80. The Adolescence Ceremony](jat82.md)

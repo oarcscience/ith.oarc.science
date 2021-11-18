@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh00)  [Next](ehh02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh00)  [Next](ehh02.md) 
 
 ------------------------------------------------------------------------
 
@@ -224,4 +224,4 @@ LONDON,
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ehh02)
+[Next: Contents](ehh02.md)

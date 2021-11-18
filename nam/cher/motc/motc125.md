@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc124) 
-[Next](motc126) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc124.md) 
+[Next](motc126.md) 
 
 ------------------------------------------------------------------------
 
@@ -258,4 +258,4 @@ on record among the Cherokee.
 
 ------------------------------------------------------------------------
 
-[Next: 126. Plant Lore](motc126)
+[Next: 126. Plant Lore](motc126.md)

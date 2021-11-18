@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst047)  [Next](inst049) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst047)  [Next](inst049.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ united with the humanity, that the entire properties of each nature
 remain entire, and yet the two natures constitute only one Christ. If,
 in human affairs, any thing analogous to this great mystery can be
 found, the most apposite similitude24  <span
-id="fr_240"></span>[241](#fn_240) seems to be that of man, who obviously
+id="fr_240"></span>[241](#fn_240.md) seems to be that of man, who obviously
 consists of two substances, neither of which however is so intermingled
 with the other as that both do not retain their own properties. For
 neither is soul body, nor is body soul. Wherefore that is said
@@ -89,7 +89,7 @@ these statements, were it not proved by numerous passages throughout the
 sacred volume that none of them is of man’s devising. What Christ said
 of himself, “Before Abraham was I am,” (<span
 id="iv.ii.xv-p14.1"></span>[John
-8:58](../../../bib/kjv/joh008.htm#058)<span
+8:58](../../../bib/kjv/joh008.htm#058.md)<span
 id="iv.ii.xv-p14.1"></span>), was very foreign to his humanity. I am not
 unaware of the cavil by which erroneous spirits distort this
 passage—viz. that he was before all ages, inasmuch as he was foreknown
@@ -100,8 +100,8 @@ ancient government, to prove his precedence to Abraham, he undoubtedly
 claims for himself the peculiar attributes of divinity. Paul’s assertion
 that he is “the first-born of every creature,” that “he is before all
 things, and by him all things consist,” (<span
-id="iv.ii.xv-p14.2"></span>[Col. 1:15](../../../bib/kjv/col001.htm#015),
-[17](../../../bib/kjv/col001.htm#017)<span id="iv.ii.xv-p14.2"></span>);
+id="iv.ii.xv-p14.2"></span>[Col. 1:15](../../../bib/kjv/col001.htm#015.md),
+[17](../../../bib/kjv/col001.htm#017)<span id="iv.ii.xv-p14.2"></span>.md);
 his own declaration, that he had glory with the Father before the world
 was, and that he worketh together with the Father, are equally
 inapplicable to man. These and similar properties must be specially
@@ -109,7 +109,7 @@ assigned to his divinity. Again, his being called the servant of the
 Father, his being said to grow in stature, and wisdom, and favour with
 God and man, not to seek his own glory, not to know the last day, not to
 speak of himself, not to do his own will, his being seen and handled,24
- <span id="fr_241"></span>[242](#fn_241) apply entirely to his humanity;
+ <span id="fr_241"></span>[242](#fn_241.md) apply entirely to his humanity;
 since, as God, he cannot be in any respect said to grow, works always
 for himself, knows every thing, does all things after the counsel of his
 own will, and is incapable of being seen or handled. And yet he not
@@ -118,10 +118,10 @@ them to himself as suitable to his office of Mediator. There is a
 communication of ijdiwvmata, or properties, when Paul says, that God
 purchased the Church “with his own blood,” (<span
 id="iv.ii.xv-p15.7"></span>[Acts
-20:28](../../../bib/kjv/act020.htm#028)<span
+20:28](../../../bib/kjv/act020.htm#028.md)<span
 id="iv.ii.xv-p15.7"></span>), and that the Jews crucified the Lord of
 glory (<span id="iv.ii.xv-p15.8"></span>[1 Cor.
-2:8](../../../bib/kjv/co1002.htm#008)<span id="iv.ii.xv-p15.8"></span>).
+2:8](../../../bib/kjv/co1002.htm#008)<span id="iv.ii.xv-p15.8"></span>.md).
 In like manner, John says, that the Word of God was “handled.” God
 certainly has no blood, suffers not, cannot be touched with hands; but
 since that Christ, who was true God and true man, shed his blood on the
@@ -129,13 +129,13 @@ cross for us, the acts which were performed in his human nature are
 transferred improperly, but not ceaselessly, to his divinity. We have a
 similar example in the passage where John says that God laid down his
 life for us (<span id="iv.ii.xv-p15.9"></span>[1 John
-3:16](../../../bib/kjv/jo1003.htm#016)<span
+3:16](../../../bib/kjv/jo1003.htm#016.md)<span
 id="iv.ii.xv-p15.9"></span>). Here a property of his humanity is
 communicated with his other nature. On the other hand, when Christ,
 still living on the earth, said, “No man has ascended up to heaven but
 he that came down from heaven, even the Son of man, which is in heaven,”
 (<span id="iv.ii.xv-p15.10"></span>[John
-3:13](../../../bib/kjv/joh003.htm#013)<span
+3:13](../../../bib/kjv/joh003.htm#013.md)<span
 id="iv.ii.xv-p15.10"></span>), certainly regarded as man in the flesh
 which he had put on, he was not then in heaven, but inasmuch as he was
 both God and man, he, on account of the union of a twofold nature,
@@ -148,7 +148,7 @@ there read as to his having received power from the Father to forgive
 sins; as to his quickening whom he will; as to his bestowing
 righteousness, holiness, and salvation; as to his being appointed judge
 both of the quick and the dead; as to his being honoured even as the
-Father,24  <span id="fr_242"></span>[243](#fn_242) are not peculiar
+Father,24  <span id="fr_242"></span>[243](#fn_242.md) are not peculiar
 either to his Godhead or his humanity, but applicable to both. In the
 same way he is called the Light of the world, the good Shepherd, the
 only Door, the true Vine. With such prerogatives the Son of God was
@@ -158,24 +158,24 @@ the same manner or respect; neither could they be attributed to one who
 was a man and nothing more. In the same sense we ought to understand the
 saying of Paul, that at the end Christ shall deliver up “the kingdom to
 God, even the Father,” (<span id="iv.ii.xv-p17.2"></span>[1 Cor.
-15:24](../../../bib/kjv/co1015.htm#024)<span
+15:24](../../../bib/kjv/co1015.htm#024.md)<span
 id="iv.ii.xv-p17.2"></span>). The kingdom of God assuredly had no
 beginning, and will have no end: but because he was hid under a humble
 clothing of flesh, and took upon himself the form of a servant, and
 humbled himself (<span id="iv.ii.xv-p17.3"></span>[Phil.
-2:8](../../../bib/kjv/phi002.htm#008)<span id="iv.ii.xv-p17.3"></span>),
+2:8](../../../bib/kjv/phi002.htm#008)<span id="iv.ii.xv-p17.3"></span>.md),
 and, laying aside the insignia of majesty, became obedient to the
 Father; and after undergoing this subjection was at length crowned with
 glory and honour (<span id="iv.ii.xv-p17.4"></span>[Heb.
-2:7](../../../bib/kjv/heb002.htm#007)<span id="iv.ii.xv-p17.4"></span>),
+2:7](../../../bib/kjv/heb002.htm#007)<span id="iv.ii.xv-p17.4"></span>.md),
 and exalted to supreme authority, that at his name every knee should bow
 (<span id="iv.ii.xv-p17.5"></span>[Phil.
-2:10](../../../bib/kjv/phi002.htm#010)<span
+2:10](../../../bib/kjv/phi002.htm#010.md)<span
 id="iv.ii.xv-p17.5"></span>); so at the end he will subject to the
 Father both the name and the crown of glory, and whatever he received of
 the Father, that God may be all in all (<span
 id="iv.ii.xv-p17.6"></span>[1 Cor.
-15:28](../../../bib/kjv/co1015.htm#028)<span
+15:28](../../../bib/kjv/co1015.htm#028.md)<span
 id="iv.ii.xv-p17.6"></span>). For what end were that power and authority
 given to him, save that the Father might govern us by his hand? In the
 same sense, also, he is said to sit at the right hand of the Father. But
@@ -186,7 +186,7 @@ meaning of almost the whole doctrine which we read in the Gospel of
 John, and entangle themselves in many snares. Let us, therefore, regard
 it as the key of true interpretation, that those things which refer to
 the office of Mediator are not spoken of the divine or human nature
-simply.25  <span id="fr_243"></span>[244](#fn_243) Christ, therefore,
+simply.25  <span id="fr_243"></span>[244](#fn_243.md) Christ, therefore,
 shall reign until he appear to judge the world, inasmuch as, according
 to the measure of our feeble capacity, he now connects us with the
 Father. But when, as partakers of the heavenly glory, we shall see God
@@ -198,7 +198,7 @@ in so far as he holds a middle place between God and us. To this effect
 are the words of Paul, “To us there is but one God, the Father, of whom
 are all things, and we in him; and one Lord Jesus Christ, by whom are
 all things, and we by him,” (<span id="iv.ii.xv-p18.1"></span>[1 Cor.
-8:6](../../../bib/kjv/co1008.htm#006)<span id="iv.ii.xv-p18.1"></span>);
+8:6](../../../bib/kjv/co1008.htm#006)<span id="iv.ii.xv-p18.1"></span>.md);
 that is, to the latter a temporary authority has been committed by the
 Father until his divine majesty shall be beheld face to face. His giving
 up of the kingdom to the Father, so far from impairing his majesty, will
@@ -217,7 +217,7 @@ office of Mediator. It is very easy to see how beautifully they accord
 with each other, provided they have a sober interpreter, one who
 examines these great mysteries with the reverence which is meet. But
 there is nothing which furious and frantic spirits cannot throw into
-confusion.25  <span id="fr_244"></span>[245](#fn_244) They fasten on the
+confusion.25  <span id="fr_244"></span>[245](#fn_244.md) They fasten on the
 attributes of humanity to destroy his divinity; and, on the other hand,
 on those of his divinity to destroy his humanity: while those which,
 spoken conjointly of the two natures, apply to neither, they employ to
@@ -232,8 +232,8 @@ between the two natures, devised a double Christ. But we see the
 Scripture loudly protesting against this, when the name of the Son of
 God is given to him who is born of a Virgin, and the Virgin herself is
 called the mother of our Lord (<span id="iv.ii.xv-p20.1"></span>[Luke
-1:32](../../../bib/kjv/luk001.htm#032),
-[43](../../../bib/kjv/luk001.htm#043)<span id="iv.ii.xv-p20.1"></span>).
+1:32](../../../bib/kjv/luk001.htm#032.md),
+[43](../../../bib/kjv/luk001.htm#043)<span id="iv.ii.xv-p20.1"></span>.md).
 We must beware also of the insane fancy of Eutyches, lest, when we would
 demonstrate the unity of person, we destroy the two natures. The many
 passages we have already quoted, in which the divinity is distinguished
@@ -242,7 +242,7 @@ Scripture, may well stop the mouth of the most contentious. I will
 shortly add a few observations, which will still better dispose of this
 fiction. For the present, one passage will suffice—Christ would not have
 called his body a temple (<span id="iv.ii.xv-p20.2"></span>[John
-2:19](../../../bib/kjv/joh002.htm#019)<span
+2:19](../../../bib/kjv/joh002.htm#019.md)<span
 id="iv.ii.xv-p20.2"></span>), had not the Godhead distinctly dwelt in
 it. Wherefore, as Nestorius had been justly condemned in the Council of
 Ephesus, so afterwards was Eutyches in those of Constantinople and
@@ -281,14 +281,14 @@ generation ever had the property of being a Son, appeared in the flesh.
 This is intimated by the angel’s word to Mary: “That holy thing which
 shall be born of thee shall be called the Son of God,” (<span
 id="iv.ii.xv-p21.1"></span>[Luke
-1:35](../../../bib/kjv/luk001.htm#035)<span
+1:35](../../../bib/kjv/luk001.htm#035.md)<span
 id="iv.ii.xv-p21.1"></span>); as if he had said that the name of Son,
 which was more obscure under the law, would become celebrated and
 universally known. Corresponding to this is the passage of Paul, that
 being now the sons of God by Christ, we “have received the Spirit of
 adoption, whereby we cry, Abba, Father,” (<span
 id="iv.ii.xv-p21.2"></span>[Rom.
-8:15](../../../bib/kjv/rom008.htm#015)<span
+8:15](../../../bib/kjv/rom008.htm#015.md)<span
 id="iv.ii.xv-p21.2"></span>). Were not also the holy patriarchs of old
 reckoned among the sons of God? Yea, trusting to this privilege, they
 invoked God as their Father. But because ever since the only-begotten
@@ -313,8 +313,8 @@ at first created on the condition that God should be the common Father
 of both; if it is true, as Paul says, that Christ always was the head,
 “the first-born of every creature—that in all things he might have the
 pre-eminence,” (<span id="iv.ii.xv-p21.3"></span>[Col.
-1:15](../../../bib/kjv/col001.htm#015),
-[18](../../../bib/kjv/col001.htm#018)<span id="iv.ii.xv-p21.3"></span>),
+1:15](../../../bib/kjv/col001.htm#015.md),
+[18](../../../bib/kjv/col001.htm#018)<span id="iv.ii.xv-p21.3"></span>.md),
 I think I may legitimately infer, that he existed as the Son of God
 before the creation of the world.
 
@@ -342,7 +342,7 @@ afore by his prophets in the Holy Scriptures), concerning his Son Jesus
 Christ our Lord, which was made of the seed of David according to the
 flesh; and declared to be the Son of God with power,” (<span
 id="iv.ii.xv-p22.1"></span>[Rom.
-1:1-4](../../../bib/kjv/rom001.htm#001)<span
+1:1-4](../../../bib/kjv/rom001.htm#001.md)<span
 id="iv.ii.xv-p22.1"></span>). When distinctly calling him the Son of
 David according to the flesh, why should he also say that he was
 “declared to be the Son of God,” if he meant not to intimate, that this
@@ -350,7 +350,7 @@ depended on something else than his incarnation? For in the same sense
 in which he elsewhere says, that “though he was crucified through
 weakness, yet he liveth by the power of God,” (<span
 id="iv.ii.xv-p22.2"></span>[2 Cor.
-13:4](../../../bib/kjv/co2013.htm#004)<span
+13:4](../../../bib/kjv/co2013.htm#004.md)<span
 id="iv.ii.xv-p22.2"></span>), so he now draws a distinction between the
 two natures. They must certainly admit, that as on account of his mother
 he is called the Son of David, so, on account of his Father, he is the
@@ -368,7 +368,7 @@ flesh was begotten of the seed of David, was declared to be the Son of
 God in any other sense than he elsewhere teaches that Christ, who
 descended of the Jews according to the flesh, is “over all, God blessed
 for ever,” (<span id="iv.ii.xv-p22.3"></span>[Rom.
-9:5](../../../bib/kjv/rom009.htm#005)<span id="iv.ii.xv-p22.3"></span>).
+9:5](../../../bib/kjv/rom009.htm#005)<span id="iv.ii.xv-p22.3"></span>.md).
 But if in both passages the distinction of two natures is pointed out,
 how can it be denied, that he who according to the flesh is the Son of
 Man, is also in respect of his divine nature the Son of God?
@@ -378,9 +378,9 @@ of their heresy in its being said, that “God spared not his own Son,”
 and in the communication of the angel, that He who was to be born of the
 Virgin should be called the “Son of the Highest,” (<span
 id="iv.ii.xv-p23.1"></span>[Rom.
-8:32](../../../bib/kjv/rom008.htm#032)<span id="iv.ii.xv-p23.1"></span>;
+8:32](../../../bib/kjv/rom008.htm#032.md)<span id="iv.ii.xv-p23.1"></span>;
 <span id="iv.ii.xv-p23.2"></span>[Luke
-1:32](../../../bib/kjv/luk001.htm#032)<span
+1:32](../../../bib/kjv/luk001.htm#032.md)<span
 id="iv.ii.xv-p23.2"></span>). But before pluming themselves on this
 futile objection, let them for a little consider with us what weight
 there is in their argument. If it is legitimately concluded, that at
@@ -389,18 +389,18 @@ conceived is called a Son, it will follow, that he began to be the Word
 after his manifestation in the flesh, because John declares, that the
 Word of life of which he spoke was that which “our hands have handled,”
 (<span id="iv.ii.xv-p23.3"></span>[1 John
-1:1](../../../bib/kjv/jo1001.htm#001)<span id="iv.ii.xv-p23.3"></span>).
+1:1](../../../bib/kjv/jo1001.htm#001)<span id="iv.ii.xv-p23.3"></span>.md).
 In like manner we read in the prophet, “Thou, Bethlehem Ephratah, though
 thou be little among the thousands of Israel, yet out of thee shall he
 come forth that is to be a ruler in Israel; whose goings forth have been
 from of old, from everlasting,” (<span id="iv.ii.xv-p23.4"></span>[Mic.
-5:2](../../../bib/kjv/mic005.htm#002)<span id="iv.ii.xv-p23.4"></span>).
+5:2](../../../bib/kjv/mic005.htm#002)<span id="iv.ii.xv-p23.4"></span>.md).
 How will they be forced to interpret if they will follow such a method
 of arguing? I have declared that we by no means assent to Nestorius, who
 imagined a twofold Christ, when we maintain that Christ, by means of
 brotherly union, made us sons of God with himself, because in the flesh,
 which he took from us, he is the only-begotten Son of God. And Augustine
-wisely reminds us,25  <span id="fr_245"></span>[246](#fn_245) that he is
+wisely reminds us,25  <span id="fr_245"></span>[246](#fn_245.md) that he is
 a bright mirror of the wonderful and singular grace of God, because as
 man he obtained honour which he could not merit. With this distinction,
 therefore, according to the flesh, was Christ honoured even from the
@@ -420,7 +420,7 @@ except in that he was God manifest in the flesh. Nor would God have thus
 from the beginning been called a Father, had there not been even then a
 mutual relation to the Son, “of whom the whole family in heaven and
 earth is named,” (<span id="iv.ii.xv-p24.1"></span>[Eph.
-3:15](../../../bib/kjv/eph003.htm#015)<span
+3:15](../../../bib/kjv/eph003.htm#015.md)<span
 id="iv.ii.xv-p24.1"></span>). Hence it is easy to infer, that under the
 Law and the Prophets he was the Son of God before this name was
 celebrated in the Church. But if we are to dispute about the word
@@ -428,7 +428,7 @@ merely, Solomon, speaking of the incomprehensibility of God, affirms
 that his Son is like himself, incomprehensible: “What is his name, and
 what is his Son’s name, if thou canst tell?” (<span
 id="iv.ii.xv-p24.2"></span>[Prov.
-30:4](../../../bib/kjv/pro030.htm#004)<span
+30:4](../../../bib/kjv/pro030.htm#004.md)<span
 id="iv.ii.xv-p24.2"></span>). I am well aware that with the contentious
 this passage will not have sufficient weight; nor do I found much upon
 it, except as showing the malignant cavils of those who affirm that
@@ -437,7 +437,7 @@ that all the most ancient writers, with one mouth and consent, testified
 the same thing so plainly, that the effrontery is no less ridiculous
 than detestable, which dares to oppose us with Irenaeus and Tertullian,
 both of whom acknowledge that He who was afterwards visibly manifested
-was the invisible Son of God.25  <span id="fr_246"></span>[247](#fn_246)
+was the invisible Son of God.25  <span id="fr_246"></span>[247](#fn_246.md)
 
 <span id="iv.ii.xv-p26"></span>8. But although Servetus heaped together
 a number of horrid dogmas, to which, perhaps, others would not
@@ -448,20 +448,20 @@ the womb of the Virgin by the Holy Spirit; just like the absurdity of
 the ancient Manichees, that the soul of man was derived by transfusion
 from God, from its being said, that he breathed into Adam’s nostrils the
 breath of life (<span id="iv.ii.xv-p26.1"></span>[Gen.
-2:7](../../../bib/kjv/gen002.htm#007)<span id="iv.ii.xv-p26.1"></span>).
+2:7](../../../bib/kjv/gen002.htm#007)<span id="iv.ii.xv-p26.1"></span>.md).
 For they lay such stress on the name of Son that they leave no
 distinction between the natures, but babblingly maintain that the man
 Christ is the Son of God, because, according to his human nature, he was
 begotten of God. Thus, the eternal generation of Wisdom, celebrated by
 Solomon (<span id="iv.ii.xv-p26.2"></span>[Prov.
-8:22](../../../bib/kjv/pro008.htm#022)<span id="iv.ii.xv-p26.2"></span>,
+8:22](../../../bib/kjv/pro008.htm#022.md)<span id="iv.ii.xv-p26.2"></span>,
 seq). is destroyed, and no kind of Godhead exists in the Mediator: or a
 phantom is substituted instead of a man. The grosser delusions of
 Servetus, by which he imposed upon himself and some others, it were
 useful to refute, that pious readers might be warned by the example, to
 confine themselves within the bounds of soberness and modesty: however,
 I deem it superfluous here, as I have already done it in a special
-treatise.25  <span id="fr_247"></span>[248](#fn_247) The whole comes to
+treatise.25  <span id="fr_247"></span>[248](#fn_247.md) The whole comes to
 this, that the Son of God was from the beginning an idea, and was even
 then a preordained man, who was to be the essential image of God. nor
 does he acknowledge any other word of God except in external splendour.
@@ -506,59 +506,59 @@ in two natures.
 
 ### Footnotes
 
-<span id="fn_240"></span>[241](inst048.htm#fr_240) <span
+<span id="fn_240"></span>[241](inst048.htm#fr_240.md) <span
 id="iv.ii.xv-p12.1"></span>
 
 <span id="iv.ii.xv-p13"></span>47 247 Augustine employs the same
 similitude, Epist. 52.
 
-<span id="fn_241"></span>[242](inst048.htm#fr_241) <span
+<span id="fn_241"></span>[242](inst048.htm#fr_241.md) <span
 id="iv.ii.xv-p14.3"></span>
 
 <span id="iv.ii.xv-p15"></span>48 248 Isiah 41:1, &c.; <span
 id="iv.ii.xv-p15.1"></span>[John
-5:17](../../../bib/kjv/joh005.htm#017)<span id="iv.ii.xv-p15.1"></span>;
+5:17](../../../bib/kjv/joh005.htm#017.md)<span id="iv.ii.xv-p15.1"></span>;
 <span id="iv.ii.xv-p15.2"></span>[Luke
-2:52](../../../bib/kjv/luk002.htm#052)<span id="iv.ii.xv-p15.2"></span>;
+2:52](../../../bib/kjv/luk002.htm#052.md)<span id="iv.ii.xv-p15.2"></span>;
 <span id="iv.ii.xv-p15.3"></span>[John
-8:50](../../../bib/kjv/joh008.htm#050)<span id="iv.ii.xv-p15.3"></span>;
+8:50](../../../bib/kjv/joh008.htm#050.md)<span id="iv.ii.xv-p15.3"></span>;
 <span id="iv.ii.xv-p15.4"></span>[Mark
-13:32](../../../bib/kjv/mar013.htm#032)<span
+13:32](../../../bib/kjv/mar013.htm#032.md)<span
 id="iv.ii.xv-p15.4"></span>; <span id="iv.ii.xv-p15.5"></span>[John
-14:10](../../../bib/kjv/joh014.htm#010)<span
+14:10](../../../bib/kjv/joh014.htm#010.md)<span
 id="iv.ii.xv-p15.5"></span>; 6:38; <span
 id="iv.ii.xv-p15.6"></span>[Luke
-24:39](../../../bib/kjv/luk024.htm#039)<span
+24:39](../../../bib/kjv/luk024.htm#039.md)<span
 id="iv.ii.xv-p15.6"></span>.
 
-<span id="fn_242"></span>[243](inst048.htm#fr_242) <span
+<span id="fn_242"></span>[243](inst048.htm#fr_242.md) <span
 id="iv.ii.xv-p16.1"></span>
 
 <span id="iv.ii.xv-p17"></span>49 249 <span
 id="iv.ii.xv-p17.1"></span>[John
-1:29](../../../bib/kjv/joh001.htm#029)<span id="iv.ii.xv-p17.1"></span>;
+1:29](../../../bib/kjv/joh001.htm#029.md)<span id="iv.ii.xv-p17.1"></span>;
 5:21—23; 9:5; 10:9—11; 15:1.
 
-<span id="fn_243"></span>[244](inst048.htm#fr_243) <span
+<span id="fn_243"></span>[244](inst048.htm#fr_243.md) <span
 id="iv.ii.xv-p17.7"></span>
 
 <span id="iv.ii.xv-p18"></span>50 250 VideCalv. Epist. ad Polonos
 adversus Stancarum.
 
-<span id="fn_244"></span>[245](inst048.htm#fr_244) <span
+<span id="fn_244"></span>[245](inst048.htm#fr_244.md) <span
 id="iv.ii.xv-p19.1"></span>
 
 <span id="iv.ii.xv-p20"></span>51 251 See August. in Enchir. ad Laurent.
 c. 36.
 
-<span id="fn_245"></span>[246](inst048.htm#fr_245) <span
+<span id="fn_245"></span>[246](inst048.htm#fr_245.md) <span
 id="iv.ii.xv-p23.5"></span>
 
 <span id="iv.ii.xv-p24"></span>52 252 See August. De Corruptione et
 Gratia. cap. 11, et De Civitate Dei, lib. 10 cap 29, et alibi See also
 cap. 17 s. 1.
 
-<span id="fn_246"></span>[247](inst048.htm#fr_246) <span
+<span id="fn_246"></span>[247](inst048.htm#fr_246.md) <span
 id="iv.ii.xv-p24.3"></span>
 
 <span id="iv.ii.xv-p25"></span>53 253 See Irenæus, lib. 4 cap 14 et 37;
@@ -566,7 +566,7 @@ Tertullian adversus Praxeam. The above passages from The Proverbs is
 quoted by Augustine, <span id="iv.ii.xv-p25.1"></span>Ep 49<span
 id="iv.ii.xv-p25.1"></span>, Quæs. 5.
 
-<span id="fn_247"></span>[248](inst048.htm#fr_247) <span
+<span id="fn_247"></span>[248](inst048.htm#fr_247.md) <span
 id="iv.ii.xv-p26.3"></span>
 
 <span id="iv.ii.xv-p27"></span>54 254 Vide Calv. Defensio Orthodoxæ
@@ -576,4 +576,4 @@ Hispani.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 15. - THREE THINGS BRIEFLY TO BE REGARDED IN CHRISTVIZ.
-HIS OFFICES OF PROPHET, KING, AND PRIEST.](inst049)
+HIS OFFICES OF PROPHET, KING, AND PRIEST.](inst049.md)

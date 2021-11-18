@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kamaint) 
-[Next](kama102) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kamaint.md) 
+[Next](kama102.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,8 +31,8 @@ Salutation to Dharma, Artha and Kama
 IN the beginning, the Lord of Beings created men and women, and in the
 form of commandments in one hundred thousand chapters laid down rules
 for regulating their existence with regard to Dharma, <span
-id="fr_0"></span>[1](#fn_0) Artha, <span id="fr_1"></span>[2](#fn_1) and
-Kama. <span id="fr_2"></span>[3](#fn_2) Some of these commandments,
+id="fr_0"></span>[1](#fn_0) Artha, <span id="fr_1"></span>[2](#fn_1.md) and
+Kama. <span id="fr_2"></span>[3](#fn_2.md) Some of these commandments,
 namely those which treated of Dharma, were separately written by
 Swayambhu Manu; those that related to Artha were compiled by Brihaspati;
 and those that referred to Kama were expounded by Nandi, the follower of
@@ -197,14 +197,14 @@ Lingam. Miscellaneous Experiments and Receipts
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](kama701.htm#fr_74) Dharma is acquisition of
+<span id="fn_0"></span>[1](kama701.htm#fr_74.md) Dharma is acquisition of
 religious merit, and is fully described in Chapter 5, volume III, of
 Talboys Wheeler's History of India, and in the edicts of Asoka.
 
-<span id="fn_1"></span>[2](kama701.htm#fr_75) Artha is acquisition of
+<span id="fn_1"></span>[2](kama701.htm#fr_75.md) Artha is acquisition of
 wealth and property, etc.
 
-<span id="fn_2"></span>[3](kama506.htm#fr_69) Kama is love, pleasure and
+<span id="fn_2"></span>[3](kama506.htm#fr_69.md) Kama is love, pleasure and
 sensual gratification. These three words are retained throughout in
 their original, as technical terms. They may also be defined as virtue,
 wealth and pleasure, the three things repeatedly spoken of in the Laws
@@ -213,4 +213,4 @@ of Manu.
 ------------------------------------------------------------------------
 
 [Next: Chapter II. Observations on the Three Worldly Attainments of
-Virtue, Wealth, and Love](kama102)
+Virtue, Wealth, and Love](kama102.md)

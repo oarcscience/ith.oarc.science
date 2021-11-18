@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo81)  [Next](hoo83) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo81)  [Next](hoo83.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ Diffuse its radiance on thy mystic's mind.
 
 ------------------------------------------------------------------------
 
-[Next: LXXVIII: To Themis](hoo83)
+[Next: LXXVIII: To Themis](hoo83.md)

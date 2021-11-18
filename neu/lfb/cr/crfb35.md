@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb34)  [Next](crfb36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb34)  [Next](crfb36.md) 
 
 </div>
 
@@ -263,6 +263,6 @@ were present at the wedding.
 
 ------------------------------------------------------------------------
 
-[Next: How to Find Out a True Friend](crfb36)
+[Next: How to Find Out a True Friend](crfb36.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh11)  [Next](msh13) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh11)  [Next](msh13.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ just what they were. He has kept *this* secret well.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Anthropomorphism And Theomorphism In Al-Mishkat](msh13)
+[Next: IX. Anthropomorphism And Theomorphism In Al-Mishkat](msh13.md)

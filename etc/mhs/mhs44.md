@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs43)  [Next](mhs45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs43)  [Next](mhs45.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ health, but if she snese twyse, she shall dye.
 
 ------------------------------------------------------------------------
 
-[Next: III. Modern Superstitions About Sneezing](mhs45)
+[Next: III. Modern Superstitions About Sneezing](mhs45.md)

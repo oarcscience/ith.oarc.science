@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic012)  [Next](lfic014) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic012)  [Next](lfic014.md) 
 
 ------------------------------------------------------------------------
 
@@ -157,4 +157,4 @@ servants, and transacting other matters of business.
 
 ------------------------------------------------------------------------
 
-[Next: Legends of the 'Good People'](lfic014)
+[Next: Legends of the 'Good People'](lfic014.md)

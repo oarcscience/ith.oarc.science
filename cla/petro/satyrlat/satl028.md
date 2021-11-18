@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat06.htm#XXVIII) 
-[Previous](satl027)  [Next](satl029) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat06.htm#XXVIII.md) 
+[Previous](satl027)  [Next](satl029.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ pendebat aurea in qua pica varia intrantes salutabat.
 
 ------------------------------------------------------------------------
 
-[Next: XXIX](satl029)
+[Next: XXIX](satl029.md)

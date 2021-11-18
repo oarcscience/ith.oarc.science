@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](slaa04)  [Next](slaa06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](slaa04)  [Next](slaa06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sun Lore of All Ages*, by William Tyler Olcott, \[1914\], at Intangible
 Textual Heritage
 
@@ -70,7 +70,7 @@ sun, and finally we arrive at such personifications of the sun as Osiris
 in Egypt, Apollo in Greece, and Balder in Norse mythology. Indeed it
 might almost be said that all the great steps in the onward march of the
 human race could be found recorded in the various and multiple
-personifications of the sun." <span id="fr_13"></span>[1](#fn_13)
+personifications of the sun." <span id="fr_13"></span>[1](#fn_13.md)
 
 Our ideas concerning natural phenomena are
 
@@ -103,7 +103,7 @@ during the day and year.
 <span id="page_56">p. 56</span>
 
 There was simply no limit to the images suggested by these aspects, as
-Sir George Cox puts it <span id="fr_14"></span>[1](#fn_14):
+Sir George Cox puts it <span id="fr_14"></span>[1](#fn_14.md):
 
 "In the thought of these early ages the sun was the child of night or
 darkness, the dawn came before he was born, and died as he rose in the
@@ -138,7 +138,7 @@ eastern sky. The story of Jonah is thought to be of solar origin, his
 adventure with the whale bearing a striking analogy to the daily
 mythical fate of the sun.
 
-Goldhizer, <span id="fr_15"></span>[1](#fn_15) an eminent mythologist,
+Goldhizer, <span id="fr_15"></span>[1](#fn_15.md) an eminent mythologist,
 claims that the Biblical story of Isaac is a sun myth, and the first
 Enoch, the son of Cain, is of pure solar significance. He is a famous
 builder of cities, a distinct solar feature, but the fact that he lived
@@ -206,7 +206,7 @@ which has 354 ropes (the number of days of the lunar year).
 
 In Egypt we see on the monuments the figure of Ra, the Sun-God, in his
 boat sailing over the ocean of heaven. "The sun king Apollo is with the
-Greeks," says Goldhizer, <span id="fr_16"></span>[1](#fn_16) "the
+Greeks," says Goldhizer, <span id="fr_16"></span>[1](#fn_16.md) "the
 founder of navigation," and even the legendary Charon, the ferry-man
 
 <span id="page_60">p. 60</span>
@@ -407,7 +407,7 @@ a quoit which rebounded and struck Hyacinthus a fatal blow. Filled with
 remorse at the untimely death of his friend by his hand, he transformed
 Hyacinthus into a beautiful flower which ever after bore his name.
 
-According to Murray <span id="fr_17"></span>[1](#fn_17) "the object of
+According to Murray <span id="fr_17"></span>[1](#fn_17.md) "the object of
 this myth was to point to the alternating decay and return of life in
 nature, which in this instance is conceived
 
@@ -422,7 +422,7 @@ Cyclopes, the forgers of thunderbolts. This brought down upon him the
 wrath of the Supreme Being, and Apollo was banished from Olympus. During
 his period of exile he served Admetus as a herdsman.
 
-Keary <span id="fr_18"></span>[1](#fn_18) claims that Admetus is really
+Keary <span id="fr_18"></span>[1](#fn_18.md) claims that Admetus is really
 one of the names for Hades, and this reference to his service under him
 indicates his descent into the underworld for the sake of purification.
 Here again we find the belief current that the sun at nightfall descends
@@ -481,7 +481,7 @@ protector or as the destroyer of mice. Other names for Apollo were
 "Gold-haired," "Gold-sworded."
 
 "The likeness between Apollo and Achilles scarcely needs to be pointed
-out," says Keary. <span id="fr_19"></span>[1](#fn_19) "Each is the ideal
+out," says Keary. <span id="fr_19"></span>[1](#fn_19.md) "Each is the ideal
 youth, the representative of young Greece, that which was to become in
 after years Hellas."
 
@@ -513,7 +513,7 @@ is found in the idea of the sun's subservience to nature's immutable
 laws. The sun has a daily task which it must perform. It has a path to
 travel from which it must not deviate. It has ever before it a life of
 toil from which it cannot swerve. "Nowhere," says Cox, <span
-id="fr_20"></span>[1](#fn_20) "is the unutterable toil and scanty reward
+id="fr_20"></span>[1](#fn_20.md) "is the unutterable toil and scanty reward
 of the sun brought out so prominently as in the whole
 
 <span id="page_71">p. 71</span>
@@ -658,7 +658,7 @@ wheel. The name Ixîôn probably means "visitor," an appropriate name for
 the sun deity. The wheel revolves ceaselessly as the sun, and the
 condemned one is alternately raised into the high heavens, and lowered
 into the depths of the underworld. Cox <span
-id="fr_21"></span>[1](#fn_21) points out a curious but well-known
+id="fr_21"></span>[1](#fn_21.md) points out a curious but well-known
 characteristic of solar myths. "It is the identification of the sun both
 with the agent or patient, and with the thing or object by which the act
 is exercised. Ixîôn is the sun, and so is Ixîôn's wheel. Hercules is the
@@ -755,7 +755,7 @@ to yield up to Kephalos, who slays her as
 
 unwittingly as Phoibos causes the death of Daphne. The spot where she
 dies is a thicket in which the last dewdrops would linger before the
-approach of the mid-day heats." <span id="fr_22"></span>[1](#fn_22)
+approach of the mid-day heats." <span id="fr_22"></span>[1](#fn_22.md)
 
 In the legend of Phaeton we have a more familiar sun myth. Phaeton, the
 son of Apollo, obtains his father's reluctant consent to drive for one
@@ -840,7 +840,7 @@ merely attributes of the sun in his midday splendour."
 
 The very fact that the sun myths have been so prolific is significant,
 and this is probably due to the fact that, as Fiske <span
-id="fr_23"></span>[1](#fn_23) points out, "the dramatic types to which
+id="fr_23"></span>[1](#fn_23.md) points out, "the dramatic types to which
 they have given rise are of surpassing human interest." Thus they have
 endured through the ages, and in these myths and legends which adorn the
 rich pages of Grecian mythology we see man's effort to explain natural
@@ -894,7 +894,7 @@ into the western sea. At night, he reposed in a golden boat which was
 borne along the northern edge of the earth to the rising point in the
 east.
 
-"Antiquity," says the Abbé Banier, <span id="fr_24"></span>[1](#fn_24)
+"Antiquity," says the Abbé Banier, <span id="fr_24"></span>[1](#fn_24.md)
 "has transmitted to us the names of the four horses that drew the
 chariot of the sun. They were Erythous or the red, Acteon, the luminous,
 Lampos the resplendent, and Philogœus, the earth loving. The first
@@ -953,46 +953,46 @@ place.
 
 ### Footnotes
 
-<span id="fn_13"></span>[54:1](slaa05.htm#fr_13) *Ancient Myths in
+<span id="fn_13"></span>[54:1](slaa05.htm#fr_13.md) *Ancient Myths in
 Modern Poets*, Helen A. Clarke.
 
-<span id="fn_14"></span>[56:1](slaa05.htm#fr_14) *The Mythology of the
+<span id="fn_14"></span>[56:1](slaa05.htm#fr_14.md) *The Mythology of the
 Aryan Nations*, Sir George Cox.
 
-<span id="fn_15"></span>[57:1](slaa05.htm#fr_15) *Mythology Among the
+<span id="fn_15"></span>[57:1](slaa05.htm#fr_15.md) *Mythology Among the
 Hebrews*, Ignaz Goldhizer.
 
-<span id="fn_16"></span>[59:1](slaa05.htm#fr_16) *Mythology Among the
+<span id="fn_16"></span>[59:1](slaa05.htm#fr_16.md) *Mythology Among the
 Hebrews*, Ignaz Goldhizer.
 
-<span id="fn_17"></span>[66:1](slaa05.htm#fr_17) *Manual of Mythology*,
+<span id="fn_17"></span>[66:1](slaa05.htm#fr_17.md) *Manual of Mythology*,
 Alexander S. Murray.
 
-<span id="fn_18"></span>[67:1](slaa05.htm#fr_18) *Outlines of Primitive
+<span id="fn_18"></span>[67:1](slaa05.htm#fr_18.md) *Outlines of Primitive
 Belief*, Charles F. Keary.
 
-<span id="fn_19"></span>[69:1](slaa05.htm#fr_19) *Outlines of Primitive
+<span id="fn_19"></span>[69:1](slaa05.htm#fr_19.md) *Outlines of Primitive
 Belief*, C. F. Keary.
 
-<span id="fn_20"></span>[70:1](slaa05.htm#fr_20) *The Mythology of the
+<span id="fn_20"></span>[70:1](slaa05.htm#fr_20.md) *The Mythology of the
 Aryan Nations*, Sir George W. Cox.
 
-<span id="fn_21"></span>[76:1](slaa05.htm#fr_21) *The Mythology of the
+<span id="fn_21"></span>[76:1](slaa05.htm#fr_21.md) *The Mythology of the
 Aryan Nations*, Sir George W. Cox.
 
-<span id="fn_22"></span>[80:1](slaa05.htm#fr_22) *The Mythology of the
+<span id="fn_22"></span>[80:1](slaa05.htm#fr_22.md) *The Mythology of the
 Aryan Nations*, Sir George W. Cox.
 
-<span id="fn_23"></span>[83:1](slaa05.htm#fr_23) *Myths and Myth
+<span id="fn_23"></span>[83:1](slaa05.htm#fr_23.md) *Myths and Myth
 Makers*, John Fiske.
 
-<span id="fn_24"></span>[85:1](slaa05.htm#fr_24) *The Mythology and
+<span id="fn_24"></span>[85:1](slaa05.htm#fr_24.md) *The Mythology and
 Fables of the Ancients*, Abbé Banier.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Solar Mythology (*Continued*)](slaa06)
+[Next: Chapter IV. Solar Mythology (*Continued*)](slaa06.md)
 
 </div>

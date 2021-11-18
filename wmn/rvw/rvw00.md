@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Next](rvw01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Next](rvw01.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,7 +118,7 @@ argued the cause for appellee on the original argument. With them on the
 brief were Crawford C. Martin, Attorney General, Nola White, First
 Assistant Attorney General, Alfred Walker, Executive Assistant Attorney
 General, Henry Wade, and John B. Tolle. <span
-id="fr_0"></span>[1](#fn_0) \[410 U.S. 113, 116\]
+id="fr_0"></span>[1](#fn_0.md) \[410 U.S. 113, 116\]
 
 MR. JUSTICE BLACKMUN delivered the opinion of the Court.
 
@@ -162,7 +162,7 @@ Constitution of the United States."
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](#fr_0) Briefs of amici curiae were filed by
+<span id="fn_0"></span>[1](#fr_0.md) Briefs of amici curiae were filed by
 Gary K. Nelson, Attorney General of Arizona, Robert K. Killian, Attorney
 General of Connecticut, Ed W. Hancock, Attorney General of Kentucky,
 Clarence A. H. Meyer, Attorney General of Nebraska, and Vernon B.
@@ -186,4 +186,4 @@ and by Robert E. Dunne for Robert L. Sassone.
 
 ------------------------------------------------------------------------
 
-[Next: Section I](rvw01)
+[Next: Section I](rvw01.md)

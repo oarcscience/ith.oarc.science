@@ -1,5 +1,5 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [Previous](../aac/aac)  [Next](../aww/aww) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [Previous](../aac/aac)  [Next](../aww/aww.md) 
 
 ------------------------------------------------------------------------
 
@@ -391,4 +391,4 @@ Index](../index)  [Previous](../aac/aac)  [Next](../aww/aww) 
 
 ------------------------------------------------------------------------
 
-[Next: All's Well That Ends Well](../aww/aww) 
+[Next: All's Well That Ends Well](../aww/aww.md) 

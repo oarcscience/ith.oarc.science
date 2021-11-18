@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inuit](../index)  
-[Index](index) [Next](tte0-0)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inuit](../index.md)  
+[Index](index) [Next](tte0-0.md)
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ family.</span>*
 
 ------------------------------------------------------------------------
 
-[Next](tte0-0)
+[Next](tte0-0.md)
 
  
 

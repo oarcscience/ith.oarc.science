@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar09)  [Next](pktar11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar09)  [Next](pktar11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### Wheel of Fortune
 
 <span id="img_ar10"></span> <span align="CENTER"> [![](tn/ar10.jpg)  
-Click to enlarge](img/ar10.jpg)</span>
+Click to enlarge](img/ar10.jpg.md)</span>
 
 In this symbol I have again followed the reconstruction of Éliphas Lévi,
 who has furnished several variants. It is legitimate--as I have
@@ -51,4 +51,4 @@ their own plane.
 
 ------------------------------------------------------------------------
 
-[Next: XI. Justice](pktar11)
+[Next: XI. Justice](pktar11.md)

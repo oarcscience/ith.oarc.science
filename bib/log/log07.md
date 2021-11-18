@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](log06)  [Next](log08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](log06)  [Next](log08.md) 
 
 ------------------------------------------------------------------------
 
@@ -365,7 +365,7 @@ others derived from the
 
 legal sections of the following books. Finally there: is to be added to
 all these arguments the late origin of the style of P <span
-id="fr_9"></span>[1](#fn_9). And in accordance with this the fixing of
+id="fr_9"></span>[1](#fn_9.md). And in accordance with this the fixing of
 the date of P as coming from the time of the exile is one of the surest
 results of criticism.
 
@@ -468,11 +468,11 @@ tradition, must have been.
 
 ### Footnotes
 
-<span id="fn_9"></span>[157:1](log07.htm#fr_9) Wellhausen,
+<span id="fn_9"></span>[157:1](log07.htm#fr_9.md) Wellhausen,
 *Prologomena*, p. 393, ff. Ryssel, *De elohista pentateuchici sermone*,
 1878. Giesebrecht, *ZAW*, 1881, p. 177 ff. Driver, *Journal of
 Philology*, 1882, p. 201 ff.
 
 ------------------------------------------------------------------------
 
-[Next: Index](log08)
+[Next: Index](log08.md)

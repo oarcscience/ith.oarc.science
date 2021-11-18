@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes66)  [Next](tes68) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes66)  [Next](tes68.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ spotted, and its antlers stood upright. She tried to approach, but it
 ran away. At last she came within range of it and killed it. Then she
 opened it and extracted the liver. It was full of maggots. She destroyed
 these one by one. Soon there was heard a great lamentation from the camp
-of the invaders. "Arai, arai." <span id="fr_98"></span>[1](#fn_98) She
+of the invaders. "Arai, arai." <span id="fr_98"></span>[1](#fn_98.md) She
 came to the shaman's tent. He jumped up; but when she destroyed the
 largest maggot, he fell back dead. Then she went to her sisters. "Ah,
 sisters! I have killed them all."--"How is it possible?" said the
@@ -56,9 +56,9 @@ Markova. Recorded by Mrs. Sophie Bogoras, winter of 1900.
 
 ### Footnotes
 
-<span id="fn_98"></span>[127:1](tes67.htm#fr_98) In the Lamut language,
+<span id="fn_98"></span>[127:1](tes67.htm#fr_98.md) In the Lamut language,
 "Alas, alas!"--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Yukaghir Tale](tes68)
+[Next: 3. Yukaghir Tale](tes68.md)

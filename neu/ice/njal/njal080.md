@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal079)  [Next](njal081) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal079)  [Next](njal081.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: 81. Of Thrain: How He Slew Kol](njal081)
+[Next: 81. Of Thrain: How He Slew Kol](njal081.md)

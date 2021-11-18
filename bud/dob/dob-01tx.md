@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-01in) [Next](dob-02in)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-01in) [Next](dob-02in.md)
 
 ------------------------------------------------------------------------
 
@@ -164,7 +164,7 @@ to raise a quarrel
 
 {1. This refrain is repeated at the end of each clause. When the Sîlas
 recur below, in each Sutta, the only difference is in the refrain. See,
-for instance, the translation of [p. 100](dob-03tx.htm#text%20p.%20100)
+for instance, the translation of [p. 100](dob-03tx.htm#text%20p.%20100.md)
 in the text.
 
 2\. Neumann has 'waiting for a gift' which is a possible rendering: but
@@ -962,7 +962,7 @@ creatures.
 4\. Divining by the appearance and the cawings of crows,
 
 5\. Compare the Amba*tth*a-vi*gg*â at Sum. 255 and below, [p.
-96](dob-03tx.htm#text%20p.%2096) of the text, § 23.
+96](dob-03tx.htm#text%20p.%2096.md) of the text, § 23.
 
 6\. Miga-kakkam. Understanding the language of all creatures.
 
@@ -1958,7 +1958,7 @@ time as Buddhism. The exact derivation and history of the word Tathâgata
 may be doubtful, but its meaning is, on the whole, clear enough.
 
 2\. This is the identical answer put below ([p.
-57](dob-02tx.htm#text%20p.%2057) of the text) into the mouth of
+57](dob-02tx.htm#text%20p.%2057) of the text.md) into the mouth of
 Sa*ñg*aya Bela*tth*aputta.}
 
 <span id="p. 41">{p. 41}</span>
@@ -2086,7 +2086,7 @@ And on account of what, starting out from what, do they do so?
 id="text p. 31">\[31\]</span> hold the doctrine of a conscious existence
 after death{2}, and who maintain in sixteen ways that
 
-{1. See I, 1, 29 ([p. 12](#text%20p.%2012) of the text).
+{1. See I, 1, 29 ([p. 12](#text%20p.%2012) of the text.md).
 
 2\. Literally 'who are After-deathers, Conscious-maintainers.' These
 summary epithets are meant to be contemptuous, and the word chosen for
@@ -2612,5 +2612,5 @@ Here ends the Brahma-*g*âla Sutta.
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Introduction to the Sâma*ññ*a-phala
-Sutta](dob-02in)
+[Return to top](#top.md)   [Next: Introduction to the Sâma*ññ*a-phala
+Sutta](dob-02in.md)

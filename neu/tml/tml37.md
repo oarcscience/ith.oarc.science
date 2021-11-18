@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml36)  [Next](tml38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml36)  [Next](tml38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ invulnerable--Language of Birds--Mimer is slain--Prince journeys to
 Isenland--Queen Brunhild--Combat with Giants--The Dwarf Alberich--Cloak
 of Obscurity--The Nibelung Hoard--Quest of Kriemhild.
 
-SIEGFRIED <span id="fr_106"></span>[1](#fn_106) was a great and noble
+SIEGFRIED <span id="fr_106"></span>[1](#fn_106.md) was a great and noble
 prince whose fame, by reason of his mighty deeds, hath endurance through
 the Ages. His sire was King Siegmund of the Netherlands and his mother
 was named Sigelinde. Ere yet he had reached the years that are mellowed
@@ -45,7 +45,7 @@ sent unto
 <span id="img_35400"></span> <span align="CENTER"> [![THE
 NIBELUNGENLIED&lt;br&gt; &lt;i&gt;From the fresco by Professor E.
 Ille&lt;/i&gt;](tn/35400.jpg)  
-Click to enlarge](img/35400.jpg)  
+Click to enlarge](img/35400.jpg.md)  
 THE NIBELUNGENLIED  
 *From the fresco by Professor E. Ille*  
 </span>
@@ -107,7 +107,7 @@ swamp, so that all the loathsome reptiles were destroyed.
 Then came forth the great dragon, bellowing loud and spouting venom. The
 earth trembled as he came. But Siegfried was not afraid. Thrice he smote
 the monster with his club and thus slew it. <span
-id="fr_107"></span>[1](#fn_107)
+id="fr_107"></span>[1](#fn_107.md)
 
 Perceiving that the dragon was dead, the prince cut it up, and a deep
 stream of blood issued forth. He dipped his finger into it, and
@@ -195,7 +195,7 @@ I love not the battle maiden."
 
 Yet he departed not without display of prowess, for he seized a boulder
 and flung it so great a distance that all who saw the feat performed
-wondered greatly. <span id="fr_108"></span>[1](#fn_108)
+wondered greatly. <span id="fr_108"></span>[1](#fn_108.md)
 
 The prince then went on his way until he came to the land of the
 Nibelungs. It chanced that the king had died, and his two sons, Nibelung
@@ -218,7 +218,7 @@ But Siegfried feared not any foe. He fought bravely against the giants.
 Then spells were wrought, and a thick mist gathered in the place of
 conflict; but the sword Balmung was wielded by Siegfried to such good
 purpose that he prevailed. A thunderstorm raged; <span
-id="fr_109"></span>[1](#fn_109) the mountains resounded with dread
+id="fr_109"></span>[1](#fn_109.md) the mountains resounded with dread
 clamour and the earth trembled. Yet did the prince fight on, until he
 had slain giant after giant and none remained alive.
 
@@ -227,7 +227,7 @@ avenged. A cunning foeman was he, and not easy to combat against, for he
 had power to become invisible. He possessed a cloak of obscurity, and
 when he put it on Siegfried must needs combat with menacing nothingness.
 Long they fought, and in the end the prince had the dwarf in his
-power. <span id="fr_110"></span>[2](#fn_110)
+power. <span id="fr_110"></span>[2](#fn_110.md)
 
 Although Siegfried put to death the two sons of the
 
@@ -270,7 +270,7 @@ battle."
 <span id="img_36000"></span> <span align="CENTER">
 [![SIEGFRIED&lt;br&gt; &lt;i&gt;From the Painting by F. Leeke. By
 permission of Franz Hanfstaengl&lt;/i&gt;](tn/36000.jpg)  
-Click to enlarge](img/36000.jpg)  
+Click to enlarge](img/36000.jpg.md)  
 SIEGFRIED  
 *From the Painting by F. Leeke. By permission of Franz Hanfstaengl*  
 </span>
@@ -299,7 +299,7 @@ his doom.
 
 ### Footnotes
 
-<span id="fn_106"></span>[354:1](tml37.htm#fr_106) Siegfried is the hero
+<span id="fn_106"></span>[354:1](tml37.htm#fr_106.md) Siegfried is the hero
 of the Nibelungenlied, the great Upper German poetic romance (see
 Introduction). He is identical with the northern Sigurd of the Eddic
 poems and Volsunga saga. The various versions of the popular tale
@@ -311,17 +311,17 @@ narrative. The Nibelungenlied opens abruptly by introducing Kriemhild,
 who takes the place of the Norse Gudrun. Siegfried's early exploits are
 afterwards referred to briefly.
 
-<span id="fn_107"></span>[356:1](tml37.htm#fr_107) The necessity for
+<span id="fn_107"></span>[356:1](tml37.htm#fr_107.md) The necessity for
 more than one blow recalls Thor's conflicts with the Midgard serpent in
 Hymer's boat and at the Ragnarok battle.
 
-<span id="fn_108"></span>[358:1](tml37.htm#fr_108) He resembles the
+<span id="fn_108"></span>[358:1](tml37.htm#fr_108.md) He resembles the
 boulder-flinging mountain giants.
 
-<span id="fn_109"></span>[359:1](tml37.htm#fr_109) Thor is suggested
+<span id="fn_109"></span>[359:1](tml37.htm#fr_109.md) Thor is suggested
 here.
 
-<span id="fn_110"></span>[359:2](tml37.htm#fr_110) There is a curious
+<span id="fn_110"></span>[359:2](tml37.htm#fr_110.md) There is a curious
 Banffshire story of two mountain fairies who fought for the love of a
 fairy lady. One was dark and the other was white. The former had power
 to render himself invisible, but when he did so in the duel a red spot
@@ -334,4 +334,4 @@ common.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIII. The Promise of Kriemhild](tml38)
+[Next: Chapter XXXIII. The Promise of Kriemhild](tml38.md)

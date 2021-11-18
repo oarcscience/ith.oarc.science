@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku43)  [Next](tku45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku43)  [Next](tku45.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ this is the light of His Countenance."
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXVII: Concerning the Second Part of the Beard of
-Microprosopus](tku45)
+Microprosopus](tku45.md)

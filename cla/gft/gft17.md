@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft16)  [Next](gft18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft16)  [Next](gft18.md) 
 
 ------------------------------------------------------------------------
 
@@ -188,4 +188,4 @@ became Theseus' wife.
 
 ------------------------------------------------------------------------
 
-[Next: Part Four: How Theseus Fell By His Pride](gft18)
+[Next: Part Four: How Theseus Fell By His Pride](gft18.md)

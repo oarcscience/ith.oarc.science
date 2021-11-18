@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Next](kog01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Next](kog01.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,20 +27,20 @@
 <span id="img_front"></span>
 
 [![Frontispiece](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_girl"></span>
 
 [![](tn/girl.jpg)  
-Click to enlarge](img/girl.jpg)
+Click to enlarge](img/girl.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Preface](kog01)
+[Next: Preface](kog01.md)

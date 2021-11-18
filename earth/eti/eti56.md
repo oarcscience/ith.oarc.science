@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti55)  [Next](eti57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti55)  [Next](eti57.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
 
 ### CHAPTER XLIX.
 
-#### OSCILLATING THROUGH SPACE.—EARTH'S SHELL ABOVE ME. <span id="fr_13"></span>[\*](#fn_13)
+#### OSCILLATING THROUGH SPACE.—EARTH'S SHELL ABOVE ME. <span id="fr_13"></span>[\*](#fn_13.md)
 
 Continued my companion:
 
@@ -153,7 +153,7 @@ ATMOSPHERE.&lt;br&gt; The space between the inner and the outer lines
 represents the atmosphere upon the earth. The depth to which man has
 penetrated the earth is less than the thickness of either line, as
 compared with the diameter of the inner circle](tn/33600.jpg)  
-Click to enlarge](img/33600.jpg)  
+Click to enlarge](img/33600.jpg.md)  
 THE EARTH AND ITS ATMOSPHERE.  
 The space between the inner and the outer lines represents the
 atmosphere upon the earth. The depth to which man has penetrated the
@@ -238,7 +238,7 @@ rest in the stratum of greater gravity, we will then traverse this
 crevice in the sheet of energy until we reach the edge of the earth
 crust, after which we will ascend towards the interior of the earth,
 until we reach the inner crust, which is, as before explained, a surface
-of matter that lies [conformably](errata.htm#1) with the external crust
+of matter that lies [conformably](errata.htm#1.md) with the external crust
 of the earth, and which is the interior surface of the solid part of the
 earth. There is a concave world beneath the outer convex world."
 
@@ -285,11 +285,11 @@ the globe, but more than three thousand from the center.
 
 ### Footnotes
 
-<span id="fn_13"></span>[333:\*](eti56.htm#fr_13) For detail
+<span id="fn_13"></span>[333:\*](eti56.htm#fr_13.md) For detail
 illustration of the earth shell, as explained in this chapter, see the
-[plate](eti55.htm#img_33100).
+[plate](eti55.htm#img_33100.md).
 
 ------------------------------------------------------------------------
 
 [Next: Chapter L. My Weight Annihilated.—“Tell Me,” I Cried In Alarm,
-“Is This To Be a Living Tomb?”](eti57)
+“Is This To Be a Living Tomb?”](eti57.md)

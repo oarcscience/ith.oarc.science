@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](ecl01) 
-[Previous](ecll00)  [Next](ecll02) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](ecl01.md) 
+[Previous](ecll00)  [Next](ecll02.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ maioresque cadunt altis de montibus umbrae.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue II.--Alexis](ecll02)
+[Next: Eclogue II.--Alexis](ecll02.md)

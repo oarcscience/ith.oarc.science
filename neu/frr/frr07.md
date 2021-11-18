@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr06) 
-[Next](frr08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr06.md) 
+[Next](frr08.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ closer than it really is--to them the principle of life and fertility,
 whether animal or vegetable, was one and indivisible. Hence actions that
 induced fertility in the animal world were held to be equally
 efficacious in stimulating the reproductive energies of the
-vegetable <span id="fr_36"></span>[1](#fn_36)." How deeply this idea was
+vegetable <span id="fr_36"></span>[1](#fn_36.md)." How deeply this idea was
 rooted in the minds of our ancestors we, their descendants, may learn
 from its survival to our own day.
 
@@ -57,7 +57,7 @@ Recent research has provided us with abundant material for the study of
 the varying forms of this Nature Cult, the extraordinary importance of
 which as an evolutionary factor in what we may term the concrete
 expression of human thought and feeling is only gradually becoming
-realized <span id="fr_37"></span>[1](#fn_37).
+realized <span id="fr_37"></span>[1](#fn_37.md).
 
 Before turning our attention to this, the most important, section of our
 investigation, it may be well to consider one characteristic difference
@@ -85,7 +85,7 @@ theriomorphic--he might assume the form of a bull, a goat, or a snake
 (the latter, probably from the close connection of the reptile with the
 earth, being the more general form)--only gradually, and by distinctly
 traceable stages, assumed an anthropomorphic shape <span
-id="fr_38"></span>[1](#fn_38). This gives to the study of Greek
+id="fr_38"></span>[1](#fn_38.md). This gives to the study of Greek
 antiquity a special and peculiar value, since in regard to the body of
 religious belief and observance with which we are here immediately
 concerned, neither in what we may not improperly term its ultimate
@@ -104,7 +104,7 @@ We know now that the cult of the god Tammuz, who, if not the direct
 original of the Phoenician-Greek Adonis, is at least representative of a
 common parent deity, may be traced back to 3000 B.C., while it persisted
 among the Sabeans at Harran into the Middle Ages <span
-id="fr_39"></span>[1](#fn_39).
+id="fr_39"></span>[1](#fn_39.md).
 
 While much relating to the god and his precise position in the
 Sumerian-Babylonian Pantheon still remains obscure, fragmentary
@@ -142,11 +142,11 @@ of the Tigris and Euphrates in the late winter, and which ebbed away,
 and nearly disappeared, in the canals and rivers in the period of Summer
 drought. We find therefore that the theologians regarded this youthful
 divinity as belonging to the cult of Eridu, centre of the worship of Ea,
-lord of the nether sea <span id="fr_40"></span>[1](#fn_40)." In a note
+lord of the nether sea <span id="fr_40"></span>[1](#fn_40.md)." In a note
 to this passage Mr Langdon adds: "He appears in the great theological
 list as *Dami-zi, ab-zu*, 'Tammuz of the nether sea,' *i.e.*, 'the
 faithful son of the fresh waters which come from the earth <span
-id="fr_41"></span>[2](#fn_41).'"
+id="fr_41"></span>[2](#fn_41.md).'"
 
 This presents us with an interesting analogy to the citations given in
 the previous chapter from the *Rig-Veda*; the Tammuz cult is specially
@@ -159,7 +159,7 @@ manifestations of Life.
 
 This is very clearly brought out in the beautiful Lament for Tammuz,
 published by Mr Langdon in *Tammuz and Ishtar*, and also in *Sumerian
-and Babylonian Psalms* <span id="fr_42"></span>[1](#fn_42).
+and Babylonian Psalms* <span id="fr_42"></span>[1](#fn_42.md).
 
 "In Eanna, high and low, there is weeping,  
 Wailing for the house of the lord they raise.  
@@ -191,7 +191,7 @@ took place, for the effects are referred to:
 "Where grass was not, there grass is eaten,  
 Where water was not, water is drunk,  
 Where the cattle sheds were not, cattle sheds are built <span
-id="fr_43"></span>[2](#fn_43)."
+id="fr_43"></span>[2](#fn_43.md)."
 
  
 
@@ -201,7 +201,7 @@ While this distinctly implies the revival of vegetable and animal life,
 those features (*i.e.*, resurrection and sacred marriage), which made
 the Adonis ritual one of rejoicing as much as of lamentation, are absent
 from liturgical remains of the Tammuz cult <span
-id="fr_44"></span>[1](#fn_44).
+id="fr_44"></span>[1](#fn_44.md).
 
 A detail which has attracted the attention of scholars is the lack of
 any artistic representation of this ritual, a lack which is the more
@@ -214,7 +214,7 @@ mysteries may have been performed in a secret chamber, and consequently
 the scenes were forbidden in Art. This would account for the surprising
 dearth of archaeological evidence concerning a cult upon which the very
 life of mankind was supposed to depend <span
-id="fr_45"></span>[2](#fn_45)."
+id="fr_45"></span>[2](#fn_45.md)."
 
 In view of the fact that my suggestion as to the possible later
 development of these Life Cults as Mysteries has aroused considerable
@@ -229,7 +229,7 @@ escaped
 <span id="page_39">p. 39</span>
 
 the final penalty of sacrifice as representative of the Dying God <span
-id="fr_46"></span>[1](#fn_46).
+id="fr_46"></span>[1](#fn_46.md).
 
 The full importance of the evidence above set forth will become more
 clearly apparent as we proceed with our investigation; here I would
@@ -258,7 +258,7 @@ the details of the ritual been examined and discussed, and the surviving
 artistic evidence described and illustrated, but from the
 anthropological side attention has been forcibly directed to its
 importance as a factor in the elucidation of certain widespread
-Folk-beliefs and practices <span id="fr_47"></span>[2](#fn_47).
+Folk-beliefs and practices <span id="fr_47"></span>[2](#fn_47.md).
 
 <span id="page_40">p. 40</span>
 
@@ -298,7 +298,7 @@ whatever name he may be called, is the somewhat elusive and impersonal
 entity, who represents in anthropomorphic form the principle of animate
 Nature, upon whose preservation, and unimpaired energies, the life of
 man, directly, and indirectly, depends <span
-id="fr_48"></span>[1](#fn_48).
+id="fr_48"></span>[1](#fn_48.md).
 
 Before proceeding to examine these rites there is one point, to which I
 have alluded earlier, in another connection, upon which our minds must
@@ -310,7 +310,7 @@ place beyond any shadow of a doubt the fact that the true reason for
 this universal mourning was the cessation, or suspension, by injury or
 death, of the reproductive energy of the god upon whose virile activity
 vegetable life directly, and human life indirectly, depended <span
-id="fr_49"></span>[2](#fn_49).
+id="fr_49"></span>[2](#fn_49.md).
 
 <span id="page_42">p. 42</span>
 
@@ -321,12 +321,12 @@ primitive religions. Vellay puts this well when he says: "En réalité
 c'est sur la conception de la vie physique, considérée dans son origine,
 et dans son action, et dans le double principe qui l'anime, que repose
 tout le cycle religieux des peuples Orientaux de l'Antiquité <span
-id="fr_50"></span>[1](#fn_50)."
+id="fr_50"></span>[1](#fn_50.md)."
 
 Professor von Schroeder says even more precisely and emphatically: "In
 der Religion der Arischen Urzeit ist Alles auf Lebensbejahung gerichtet,
 Mann kann den Phallus als ihr Beherrschendes Symbol betrachten <span
-id="fr_51"></span>[2](#fn_51)." And in spite of the strong opposition to
+id="fr_51"></span>[2](#fn_51.md)." And in spite of the strong opposition to
 this cult manifested in Indian literature, beginning with the
 *Rig-Veda*, and ripening to fruition in the *Upanishads*, in spite of
 the rise of Buddhism, with its opposing dictum of renunciation, the
@@ -336,7 +336,7 @@ day.
 
 Each and all of the ritual dramas, reconstructed in the pages of
 *Mysterium und Mimus* bear, more or less distinctly, the stamp of their
-'Fertility' origin <span id="fr_52"></span>[3](#fn_52), while outside
+'Fertility' origin <span id="fr_52"></span>[3](#fn_52.md), while outside
 India the pages of Frazer and Mannhardt, and numerous other writers on
 Folk-lore and Ethnology, record the widespread, and persistent, survival
 of these rites, and their successful defiance of the spread of
@@ -355,7 +355,7 @@ religion of Greece probably failed to purify, the saner minds, bred in a
 religious atmosphere that was, on the whole, genial, and temperate,
 revolted from the din of cymbals and drums, the meaningless ecstasies of
 sorrow and joy, that marked the new religion <span
-id="fr_53"></span>[1](#fn_53)."
+id="fr_53"></span>[1](#fn_53.md)."
 
 It is, I submit, indispensable for the purposes of our investigation
 that the essential character and significance of the cults with which we
@@ -375,7 +375,7 @@ September, his resurrection on the 1st of October, the beginning of a
 New Year. This would seem to indicate that here Adonis was considered,
 as Vellay suggests, less as the god of Vegetation than as the superior
 and nameless Lord of Life (Adonis = Syriac *Adôn*, Lord), under whose
-protection the year was placed <span id="fr_54"></span>[2](#fn_54). He
+protection the year was placed <span id="fr_54"></span>[2](#fn_54.md). He
 is the *Eniautos Daimon*.
 
 <span id="page_44">p. 44</span>
@@ -390,14 +390,14 @@ papyrus, representing the god, was, with every show of mourning,
 committed to the waves, and borne within seven days by a current (always
 to be counted upon at that season of the year) to Byblos, where it was
 received and welcomed with popular rejoicing <span
-id="fr_55"></span>[1](#fn_55). The duration of the feast varied from two
+id="fr_55"></span>[1](#fn_55.md). The duration of the feast varied from two
 days, as at Alexandria, to seven or eight.
 
 Connected with the longer period of the feast were the so-called
 'Gardens of Adonis,' baskets, or pans, planted with quick growing seeds,
 which speedily come to fruition, and as speedily wither. In the modern
 survivals of the cult three days form the general term for the flowering
-of these gardens <span id="fr_56"></span>[2](#fn_56).
+of these gardens <span id="fr_56"></span>[2](#fn_56.md).
 
 The most noticeable feature of the ritual was the prominence assigned to
 women; "ce sont les femmes qui le pleurent, et qui l'accompagnent à sa
@@ -407,21 +407,21 @@ plus
 <span id="page_45">p. 45</span>
 
 que tout autre, et seules elles veulent pleurer sa mort, et chanter sa
-résurrection <span id="fr_57"></span>[1](#fn_57)."
+résurrection <span id="fr_57"></span>[1](#fn_57.md)."
 
 Thus in the tenth century the festival received the Arabic name of
 *El-Bûgat*, or 'The Festival of the Weeping Women <span
-id="fr_58"></span>[2](#fn_58).'
+id="fr_58"></span>[2](#fn_58.md).'
 
 One very curious practice during these celebrations was that of cutting
 off the hair in honour of the god; women who hesitated to make this
 sacrifice must offer themselves to strangers, either in the temple, or
 on the market-place, the gold received as the price of their favours
 being offered to the goddess. This obligation only lasted for one
-day <span id="fr_59"></span>[3](#fn_59). It was also customary for the
+day <span id="fr_59"></span>[3](#fn_59.md). It was also customary for the
 priests of Adonis to mutilate themselves in imitation of the god, a
 distinct proof, if one were needed, of the traditional cause of his
-death <span id="fr_60"></span>[4](#fn_60).
+death <span id="fr_60"></span>[4](#fn_60.md).
 
 Turning from a consideration of the Adonis ritual, its details, and
 significance, to an examination of the Grail romances, we find that
@@ -433,7 +433,7 @@ investigation, rather gain in force the more closely they are studied.
 Thus the central figure is either a dead knight on a bier (as in the
 *Gawain* versions), or a wounded king on a litter; when wounded the
 injury corresponds with that suffered by Adonis and Attis <span
-id="fr_61"></span>[5](#fn_61).
+id="fr_61"></span>[5](#fn_61.md).
 
 Closely connected with the wounding of the king is the destruction which
 has fallen on the land, which will be removed when the king is healed.
@@ -445,20 +445,20 @@ position is stated with so much
 clearness and precision that the conclusion cannot be evaded--we are
 face to face with the dreaded calamity which it was the aim of the
 Adonis ritual to avert, the temporary suspension of all the reproductive
-energies of Nature <span id="fr_62"></span>[1](#fn_62).
+energies of Nature <span id="fr_62"></span>[1](#fn_62.md).
 
 While the condition of the king is the cause of general and vociferous
 lamentation, a special feature, never satisfactorily accounted for, is
 the presence of a weeping woman, or several weeping women. Thus in the
 interpolated visit of Gawain to the Grail castle, found in the C group
 of *Perceval* MSS., the Grail-bearer weeps piteously, as she does also
-in *Diû Crône* <span id="fr_63"></span>[2](#fn_63).
+in *Diû Crône* <span id="fr_63"></span>[2](#fn_63.md).
 
 In the version of the prose *Lancelot* Gawain, during the night, sees
 twelve maidens come to the door of the chamber where the Grail is kept,
 kneel down, and weep bitterly, in fact behave precisely as did the
 classical mourners for Adonis--"Elles sanglotent éperdument pendant la
-nuit <span id="fr_64"></span>[3](#fn_64)." --
+nuit <span id="fr_64"></span>[3](#fn_64.md)." --
 
 <span id="page_47">p. 47</span>
 
@@ -504,7 +504,7 @@ but at the same time it is admissible to point out that the Adonis cults
 do provide us with a parallel in the enforced loss of hair by the women
 taking part in these rites, while no explanation of this curious feature
 has so far as I am aware been suggested by critics of the text <span
-id="fr_65"></span>[1](#fn_65).
+id="fr_65"></span>[1](#fn_65.md).
 
 We may also note the fact that the Grail castle is always situated in
 the close vicinity of water, either on or near the sea, or on the banks
@@ -512,7 +512,7 @@ of an important river. In two cases the final home of the Grail is in a
 monastery situated upon an island. The presence of water, either sea, or
 river, is an important feature in the Adonis cult, the effigy of the
 dead god being, not buried in the earth, but thrown into the water <span
-id="fr_66"></span>[2](#fn_66).
+id="fr_66"></span>[2](#fn_66.md).
 
 It will thus be seen that, in suggesting a form of Nature worship,
 analogous to this well-known cult, as the possible ultimate source from
@@ -528,10 +528,10 @@ manner.
 
 ### Footnotes
 
-<span id="fn_36"></span>[32:1](frr07.htm#fr_36) Cf. Frazer, *Adonis,
+<span id="fn_36"></span>[32:1](frr07.htm#fr_36.md) Cf. Frazer, *Adonis,
 Attis, Osiris*, p. 5.
 
-<span id="fn_37"></span>[33:1](frr07.htm#fr_37) In this connection not
+<span id="fn_37"></span>[33:1](frr07.htm#fr_37.md) In this connection not
 only the epoch-making works of Mannhardt and Frazer, which are more
 specifically devoted to an examination of Folk-belief and practice
 should be studied, but also works such as *The Mediaeval Stage*, E. K.
@@ -540,21 +540,21 @@ Cornford; and Sir Gilbert Murray's essay on the evolution of the Greek
 Drama, published in Miss Harrison's *Themis*. The cumulative evidence is
 most striking.
 
-<span id="fn_38"></span>[34:1](frr07.htm#fr_38) A full study of this
+<span id="fn_38"></span>[34:1](frr07.htm#fr_38.md) A full study of this
 evolutionary process will be found in Miss Harrison's *Themis, A Study
 of Greek Social Origins*, referred to above.
 
-<span id="fn_39"></span>[35:1](frr07.htm#fr_39) Baudissin, in his
+<span id="fn_39"></span>[35:1](frr07.htm#fr_39.md) Baudissin, in his
 exhaustive study of these cults, *Adonis und Esmun*, comes to the
 conclusion that Tammuz and Adonis are different gods, owing their origin
 to a common parent deity. Where the original conception arose is
 doubtful; whether in Babylon, in Canaan, or in a land where the common
 ancestors of Phoenicians and Babylonian Semites formed an original unit.
 
-<span id="fn_40"></span>[36:1](frr07.htm#fr_40) Cf. *Tammuz and Ishtar*,
+<span id="fn_40"></span>[36:1](frr07.htm#fr_40.md) Cf. *Tammuz and Ishtar*,
 S. Langdon, p. 5.
 
-<span id="fn_41"></span>[36:2](frr07.htm#fr_41) It may be well to note
+<span id="fn_41"></span>[36:2](frr07.htm#fr_41.md) It may be well to note
 here the 'Life' deity has no proper name; he is only known by an
 appellative; *Damu-zi, Damu*, 'faithful son,' or 'son and consort,' is
 only a general epithet, which designates the dying god in a theological
@@ -567,14 +567,14 @@ remarks on the evolution of the Tammuz cult should be carefully studied
 in view of the theory maintained by Sir W. Ridgeway--that the Vegetation
 deities were all of them originally men.
 
-<span id="fn_42"></span>[37:1](frr07.htm#fr_42) From a liturgy employed
+<span id="fn_42"></span>[37:1](frr07.htm#fr_42.md) From a liturgy employed
 at Nippur in the period of the Isin dynasty. Langdon, *op. cit.* p. 11.
 Also, *Sumerian and Babylonian Psalms*, p. 338.
 
-<span id="fn_43"></span>[37:2](frr07.htm#fr_43) Cf. Langdon, *Tammuz and
+<span id="fn_43"></span>[37:2](frr07.htm#fr_43.md) Cf. Langdon, *Tammuz and
 Ishtar*, p. 23.
 
-<span id="fn_44"></span>[38:1](frr07.htm#fr_44) What we have been able
+<span id="fn_44"></span>[38:1](frr07.htm#fr_44.md) What we have been able
 to ascertain of the Sumerian-Babylonian religion points to it rather as
 a religion of mourning and supplication, than of joy and thanksgiving.
 The people seem to have been in perpetual dread of their gods, who
@@ -583,13 +583,13 @@ require to be appeased by continual acts of humiliation. Thus the 9th,
 ashes, days of wailing; the 19th especially was 'the day of the wrath of
 Gulu.'
 
-<span id="fn_45"></span>[38:2](frr07.htm#fr_45) Cf. Langdon, *op. cit.*
+<span id="fn_45"></span>[38:2](frr07.htm#fr_45.md) Cf. Langdon, *op. cit.*
 p. 24.
 
-<span id="fn_46"></span>[39:1](frr07.htm#fr_46) Cf. Langdon, *op. cit.*
+<span id="fn_46"></span>[39:1](frr07.htm#fr_46.md) Cf. Langdon, *op. cit.*
 p. 26.
 
-<span id="fn_47"></span>[39:2](frr07.htm#fr_47) The most complete
+<span id="fn_47"></span>[39:2](frr07.htm#fr_47.md) The most complete
 enquiry into the nature of the god is to be found in <span
 id="page_40">p. 40</span> Baudissin, *Adonis und Esmun*. For the details
 of the cult cf. Farnell, *Cults of the Greek States*, Vol. II.; Vellay,
@@ -601,7 +601,7 @@ chain of evidence. The two cults are practically identical and scholars
 are frequently at a loss to which group surviving fragments of the
 ritual should be assigned.
 
-<span id="fn_48"></span>[41:1](frr07.htm#fr_48) In this connection note
+<span id="fn_48"></span>[41:1](frr07.htm#fr_48.md) In this connection note
 the extremely instructive remarks of Miss Harrison in the chapter on
 Herakles in the work referred to above. She points out that the
 *Eniautos Daimon* never becomes entirely and Olympian, but always
@@ -613,7 +613,7 @@ conclusion reached by Baudissin (*Adonis und Esmun*, p. 71) that Adonis
 belongs to "einer Klasse von Wesen sehr unbestimmter Art, die wohl über
 den Menschen aber unter den grossen Göttern stehen."
 
-<span id="fn_49"></span>[41:2](frr07.htm#fr_49) Cf. Vellay, *op. cit.*
+<span id="fn_49"></span>[41:2](frr07.htm#fr_49.md) Cf. Vellay, *op. cit.*
 p. 93. Dulaure, *Des Divinités Génératrices*. If Baudissin is correct,
 and the introduction of the Boar a later addition to the story, it would
 seem to indicate the intrusion of a phallic element into <span
@@ -622,21 +622,21 @@ dealt merely with the death of the god. The Attis form, on the contrary,
 appears to have been phallic from the first. Cf. Baudissin, *Adonis und
 Esmun*, p. 160.
 
-<span id="fn_50"></span>[42:1](frr07.htm#fr_50) *Op. cit.* p. 83.
+<span id="fn_50"></span>[42:1](frr07.htm#fr_50.md) *Op. cit.* p. 83.
 
-<span id="fn_51"></span>[42:2](frr07.htm#fr_51) Cf. L. von Schroeder,
+<span id="fn_51"></span>[42:2](frr07.htm#fr_51.md) Cf. L. von Schroeder,
 *Vollendung den Arischen Mysterium*, p. 14.
 
-<span id="fn_52"></span>[42:3](frr07.htm#fr_52) It may be well to
+<span id="fn_52"></span>[42:3](frr07.htm#fr_52.md) It may be well to
 explain the exact meaning attached to these terms by the author. In
 Professor von Schroeder's view *Mysterium* may be held to connote a
 drama in which the gods themselves are actors; *Mimus* on the contrary,
 is the term applied to a drama which treats of the doings of mortals.
 
-<span id="fn_53"></span>[43:1](frr07.htm#fr_53) *Op. cit.* Vol. II. p.
+<span id="fn_53"></span>[43:1](frr07.htm#fr_53.md) *Op. cit.* Vol. II. p.
 647.
 
-<span id="fn_54"></span>[43:2](frr07.htm#fr_54) *Op. cit.* p. 115. Much
+<span id="fn_54"></span>[43:2](frr07.htm#fr_54.md) *Op. cit.* p. 115. Much
 of the uncertainty as to date is doubtless due to the reflective
 influence of other forms of the cult; the Tammuz celebrations were held
 from June 20th, to July 20th, when the Dog-star Sirius was in the
@@ -646,39 +646,39 @@ however, the cult was an off-shoot of a Tammuz original (as might be the
 case through emigration) the tendency would be to retain the original
 date.
 
-<span id="fn_55"></span>[44:1](frr07.htm#fr_55) Cf. Vellay, *op. cit.*
+<span id="fn_55"></span>[44:1](frr07.htm#fr_55.md) Cf. Vellay, *op. cit.*
 p. 55; Mannhardt, Vol. II. pp. 277-78, for a description of the feast.
 With regard to the order and sequence of the celebration cf. Miss
 Harrison's remark, *Themis*, p. 415: "In the cyclic monotony of the
 *Eniautos Daimon* it matters little whether Death follows Resurrection,
 or Resurrection, Death."
 
-<span id="fn_56"></span>[44:2](frr07.htm#fr_56) Cf. Mannhardt, *supra*,
+<span id="fn_56"></span>[44:2](frr07.htm#fr_56.md) Cf. Mannhardt, *supra*,
 p. 279.
 
-<span id="fn_57"></span>[45:1](frr07.htm#fr_57) Cf. Vellay, *op. cit.*
+<span id="fn_57"></span>[45:1](frr07.htm#fr_57.md) Cf. Vellay, *op. cit.*
 p. 103. This seems also to have been the case with Tammuz, cf. Ezekiel,
 Chap. viii. v. 14.
 
-<span id="fn_58"></span>[45:2](frr07.htm#fr_58) Cf. Frazer, *The Golden
+<span id="fn_58"></span>[45:2](frr07.htm#fr_58.md) Cf. Frazer, *The Golden
 Bough*, under heading *Adonis*.
 
-<span id="fn_59"></span>[45:3](frr07.htm#fr_59) Vellay, p. 130,
+<span id="fn_59"></span>[45:3](frr07.htm#fr_59.md) Vellay, p. 130,
 Mannhardt, Vol. II. p. 287; note the writer's suggestion that the women
 here represent the goddess, the stranger, the risen Adonis.
 
-<span id="fn_60"></span>[45:4](frr07.htm#fr_60) Cf. Vellay, p. 93.
+<span id="fn_60"></span>[45:4](frr07.htm#fr_60.md) Cf. Vellay, p. 93.
 
-<span id="fn_61"></span>[45:5](frr07.htm#fr_61) *Vide supra*, pp.
-[20](frr05.htm#page_20). [21](frr05.htm#page_21).
+<span id="fn_61"></span>[45:5](frr07.htm#fr_61.md) *Vide supra*, pp.
+[20](frr05.htm#page_20). [21](frr05.htm#page_21.md).
 
-<span id="fn_62"></span>[46:1](frr07.htm#fr_62) *Supra*, [p.
-21](frr05.htm#page_21).
+<span id="fn_62"></span>[46:1](frr07.htm#fr_62.md) *Supra*, [p.
+21](frr05.htm#page_21.md).
 
-<span id="fn_63"></span>[46:2](frr07.htm#fr_63) Cf. Potvin, appendix to
+<span id="fn_63"></span>[46:2](frr07.htm#fr_63.md) Cf. Potvin, appendix to
 Vol. III.; *Sir Gawain and the Grail Castle*, pp. 41, 44, and note.
 
-<span id="fn_64"></span>[46:3](frr07.htm#fr_64) My use of this parallel
+<span id="fn_64"></span>[46:3](frr07.htm#fr_64.md) My use of this parallel
 has been objected to on the ground that the prose *Lancelot* is a late
 text, and therefore cannot be appealed to as evidence for original
 incidents. But the *Lancelot* in its original form was held by so
@@ -702,13 +702,13 @@ of popular belief and practice. If I be wrong in my conclusions my
 critics have only to suggest another origin for this particular feature
 of the romance--as a matter of fact, they have failed to do so.
 
-<span id="fn_65"></span>[48:1](frr07.htm#fr_65) Cf. *Perlesvaus*, Branch
+<span id="fn_65"></span>[48:1](frr07.htm#fr_65.md) Cf. *Perlesvaus*, Branch
 II. Chap. I.
 
-<span id="fn_66"></span>[48:2](frr07.htm#fr_66) Throwing into, or
+<span id="fn_66"></span>[48:2](frr07.htm#fr_66.md) Throwing into, or
 drenching with, water is a well known part of the 'Fertility' ritual; it
 is a case of sympathetic magic, acting as a rain charm.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Medieval and Modern Forms of Nature Ritual](frr08)
+[Next: Chapter V. Medieval and Modern Forms of Nature Ritual](frr08.md)

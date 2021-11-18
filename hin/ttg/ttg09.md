@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg08)  [Next](ttg10) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg08)  [Next](ttg10.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ before. And the king went back under the sissoo tree again to fetch him.
 ------------------------------------------------------------------------
 
 [Next: Ninth Goblin: The Four Scientific Suitors. To which should the
-girl be given?](ttg10)
+girl be given?](ttg10.md)

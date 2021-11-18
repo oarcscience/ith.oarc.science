@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat23)  [Next](sat25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat23)  [Next](sat25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -461,7 +461,7 @@ which, notwithstanding, the light may be manifested. And this darkness
 is the hell of that spirit wherein it is. For heaven and hell are nought
 else but a manifestation of the divine will either in light or darkness,
 according to the properties of the spiritual world. <span
-id="fr_306"></span>[1](#fn_305)
+id="fr_306"></span>[1](#fn_305.md)
 
 <span class="small">WHAT THE BODY OF MAN IS; AND WHY THE SOUL IS CAPABLE
 OF RECEIVING GOOD AND EVIL</span>
@@ -812,7 +812,7 @@ Amen."
 
 ### Footnotes
 
-<span id="fn_305"></span>[268:1](sat24.htm#fr_306) From the beginning of
+<span id="fn_305"></span>[268:1](sat24.htm#fr_306.md) From the beginning of
 the Supersensual Life to the reference of this note, was found among the
 papers of the later editor, in the handwriting of the truely pious and
 learned Mr. Law, who has so enlarged and elucidated it (as the reader
@@ -821,4 +821,4 @@ for a separate publication.
 
 ------------------------------------------------------------------------
 
-[Next: The Way from Darkness to True Illumination](sat25)
+[Next: The Way from Darkness to True Illumination](sat25.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml35)  [Next](yml37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml35)  [Next](yml37.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ common today. For a discussion of their distribution see: Espinosa
 
 ------------------------------------------------------------------------
 
-[Next: San Pedro and the Devil](yml37)
+[Next: San Pedro and the Devil](yml37.md)

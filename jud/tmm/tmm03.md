@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm02)  [Next](tmm04) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm02)  [Next](tmm04.md) 
 
 ------------------------------------------------------------------------
 
@@ -229,14 +229,14 @@ commence with October 1 of the year 312 before the Christian era. This
 suggestion met with Alexander's approval, and up to the eleventh century
 of the Christian era this method of reckoning the years was actually in
 force, and was known as the Era of Documents. <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 With Alexander's entry into Jerusalem began a very
 
 <span id="page_15">p. 15</span>
 
 considerable improvement in the condition of the Jews. <span
-id="fr_11"></span>[1](#fn_11) The Samaritans used every subterfuge in
+id="fr_11"></span>[1](#fn_11.md) The Samaritans used every subterfuge in
 order to be recognized as Jews by the Macedonian hero, so that they
 might enjoy the privileges and advantages bestowed on the latter, but
 they failed to convince Alexander, who remembered their efforts to
@@ -390,7 +390,7 @@ Rabbis told him to put a little earth over the eye, and its weight would
 vanish. They explained that the eye was a perfect type of the human eye,
 which, as the wise king tells us (Prov. 27.), is never satisfied, until
 a little earth is put over it (in death), and its everlasting hunger
-ceases. <span id="fr_12"></span>[1](#fn_12)
+ceases. <span id="fr_12"></span>[1](#fn_12.md)
 
 <span id="page_20">p. 20</span>
 
@@ -435,7 +435,7 @@ the Jewish arguments, within three days, if they did not wish to be
 punished for making fictitious claims.
 
 Nothing more was heard of the claims. <span
-id="fr_13"></span>[1](#fn_13) The Jews rose in Alexander's esteem daily,
+id="fr_13"></span>[1](#fn_13.md) The Jews rose in Alexander's esteem daily,
 and he gave them the most beautiful part of the city, on the banks of
 the river, as their quarter, and granted them the full rights of
 citizenship. The Jewish community increased greatly in wealth and
@@ -452,14 +452,14 @@ Rabba Gen. 33; Lev. 27. and Tanchuma Emmor, etc.
 
 ### Footnotes
 
-<span id="fn_10"></span>[14:1](tmm03.htm#fr_10) See Rapoport's *Erech
+<span id="fn_10"></span>[14:1](tmm03.htm#fr_10.md) See Rapoport's *Erech
 Millin*, page 73.
 
-<span id="fn_11"></span>[15:1](tmm03.htm#fr_11) There is a difference in
+<span id="fn_11"></span>[15:1](tmm03.htm#fr_11.md) There is a difference in
 the dates mentioned in the Talmud. In Taanis it is stated as the 21st
 Kislev, and in Yoma 69 as the 28th of Tebeth.
 
-<span id="fn_12"></span>[19:1](tmm03.htm#fr_12) This allegory was
+<span id="fn_12"></span>[19:1](tmm03.htm#fr_12.md) This allegory was
 conspicuously applicable to Alexander's career and character. However
 extensive were his conquests, he longed for more and was never
 satisfied, not ever after the <span id="page_20">p. 20</span> plundering
@@ -468,10 +468,10 @@ appellation of 'the great.' But with his death, his and his country's
 greatness ceased, the monstrous possessions were cut up, and none of his
 kin ascended the throne.
 
-<span id="fn_13"></span>[21:1](tmm03.htm#fr_13) Different dates are
+<span id="fn_13"></span>[21:1](tmm03.htm#fr_13.md) Different dates are
 given for the above event. In Sanhed 91. it is given as the 24th of
 Nisson, and in Taanis as the 25th of Sivon.
 
 ------------------------------------------------------------------------
 
-[Next: Demons](tmm04)
+[Next: Demons](tmm04.md)

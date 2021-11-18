@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat13.htm#XCII) 
-[Previous](satl091)  [Next](satl093) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat13.htm#XCII.md) 
+[Previous](satl091)  [Next](satl093.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ non agnoscerem fabulam, tacui et cenae ordinem explicui. &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: XCIII](satl093)
+[Next: XCIII](satl093.md)

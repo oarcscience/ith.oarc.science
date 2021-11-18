@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws61)  [Next](cws63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws61)  [Next](cws63.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### No. VI
 
-#### CONCERNING ORIGINAL BEING; OR, "BEFORE THE BEGINNING" <span id="fr_202"></span>[1](#fn_202)
+#### CONCERNING ORIGINAL BEING; OR, "BEFORE THE BEGINNING" <span id="fr_202"></span>[1](#fn_202.md)
 
 BEFORE the beginning of things, before the generation of the heavens,
 the great and invisible God alone subsisted.
@@ -80,10 +80,10 @@ insomuch it approaches negation, and is of negation.
 
 ### Footnotes
 
-<span id="fn_202"></span>[141:1](cws62.htm#fr_202) Paris, October 24,
+<span id="fn_202"></span>[141:1](cws62.htm#fr_202.md) Paris, October 24,
 1878. Referred to in *Life of Anna Kingsford*, vol. i, pp. 283, 284,
 289.
 
 ------------------------------------------------------------------------
 
-[Next: No. VII: Alpha, Or ''In The Beginning''](cws63)
+[Next: No. VII: Alpha, Or ''In The Beginning''](cws63.md)

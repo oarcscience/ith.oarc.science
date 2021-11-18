@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb42)  [Next](wfb44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb42)  [Next](wfb44.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ on the threshold.
 
 ------------------------------------------------------------------------
 
-[Next: A Fairy Borrowing](wfb44)
+[Next: A Fairy Borrowing](wfb44.md)

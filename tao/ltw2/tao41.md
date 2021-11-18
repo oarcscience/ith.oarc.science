@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao41)   
-[Previous](tao40)  [Next](tao42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao41.md)   
+[Previous](tao40)  [Next](tao42.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ that alone can give and accomplish.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 42](tao42)
+[Next: Chapter 42](tao42.md)

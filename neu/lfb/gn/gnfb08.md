@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb07)  [Next](gnfb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb07)  [Next](gnfb09.md) 
 
 </div>
 
@@ -240,6 +240,6 @@ By the Comte de Caylus.
 
 ------------------------------------------------------------------------
 
-[Next: Fairy Gifts](gnfb09)
+[Next: Fairy Gifts](gnfb09.md)
 
 </div>

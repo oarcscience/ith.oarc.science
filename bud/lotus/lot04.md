@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot03)  [Next](lot05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot03)  [Next](lot05.md) 
 
 ------------------------------------------------------------------------
 
@@ -481,4 +481,4 @@ superior enlightenment.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](lot05)
+[Next: Chapter 5](lot05.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](tha04)  [Next](tha06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](tha04)  [Next](tha06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -173,7 +173,7 @@ the other functions of the eyes. For this purpose a microscope was used,
 on which the fine adjustment lowered or raised the objective 1/100 of an
 inch for each revolution. The wheel was divided into ten parts, so that
 each division corresponded to 1/1000 of an inch. In [table
-3](tha05.htm#tab03) this unit is denoted by the letters mi
+3](tha05.htm#tab03.md) this unit is denoted by the letters mi
 (mille-inches). The lowest eyepiece and the inch and a half objective
 were employed. Screens were prepared by filling glass cells with weak
 aqueous solutions of different dyes—carmine, K yellow, methylene blue,
@@ -273,7 +273,7 @@ Some observers find it difficult to obtain a good definition when the
 violet screen is beneath the object. The trouble is due to the fact that
 the dye (gentian violet) used gives two bright bands with spectroscope,
 with one maximum between 4,000 λ and 4,500 λ, and the other between
-6,500 λ and 7,000 λ <span id="fr_2"></span>[\*](#fn_2). (*Vide* Mees’
+6,500 λ and 7,000 λ <span id="fr_2"></span>[\*](#fn_2.md). (*Vide* Mees’
 "Atlas of Absorption Spectra.") The colours being so far apart in the
 spectrum are antagonistic to one another. The violet screen has only
 been retained for convenience, as very little importance can be placed
@@ -337,7 +337,7 @@ at their early trials than younger people.
 The eleventh case is extremely interesting as the observer was a
 clairvoyant, and the writer was especially gratified at meeting her,
 because he had often wondered how far clairvoyant's eves differed from
-the normal in ordinary respect. [Fortunately](errata.htm#0) this lady
+the normal in ordinary respect. [Fortunately](errata.htm#0.md) this lady
 was quite expert with the microscope and was painstaking. Her husband
 was the possessor of a very fine instrument which she was in the habit
 of using. It will be noted that before looking through the dicyanin
@@ -345,7 +345,7 @@ screen, the coloured filters under the microscopic object only produced
 the average effect upon her eyes. The dicyanin had, however, a greater
 influence than in any other instance met with before or since. This was
 the lady previously referred to as being able to see better without her
-glasses than she had done for years. (Page [61](#page_61).)
+glasses than she had done for years. (Page [61](#page_61)..md)
 
 In order to appreciate these experiments to the full extent, it is
 necessary to recall a few details of elementary physics. Ordinary
@@ -391,7 +391,7 @@ positive. In the series fully described the observer A, after having
 peered through the dicyanin screen, found red, yellow and blue all
 negative, while the violet remained positive but only to a small extent.
 This becomes more evident if + 2.5 mi. <span
-id="fr_3"></span>[\*](#fn_3) be deducted from each of the figures,
+id="fr_3"></span>[\*](#fn_3.md) be deducted from each of the figures,
 making the corrected readings for red -1.5 mi., yellow -1.5 mi., blue
 -0.5 mi., and the violet -1 mi. These experiments prove that some
 alteration has taken place in the eye equivalent to a lengthening of the
@@ -530,7 +530,7 @@ daylight when viewed through coloured screens.
 The depth of shade required for these screens is dependent upon the
 brightness of the light. Advantage of this method has been taken for the
 examination of the inner aura through the red or carmine screen.
-([Chapter iii](tha04.htm#chap03).) Many screens of different colours
+([Chapter iii](tha04.htm#chap03)..md) Many screens of different colours
 have been experimented with in order to obviate, if possible, the
 necessity of a dark room, but none have been found to be sufficiently
 satisfactory. Taking all in all, a dark blue screen is most efficient
@@ -597,7 +597,7 @@ circumstances.
 
 According to a widely accepted theory, the eyes possess three sets of
 colour-sensitive nerves, that are excited by red, yellow, <span
-id="fr_4"></span>[\*](#fn_4) and blue respectively, and all other
+id="fr_4"></span>[\*](#fn_4.md) and blue respectively, and all other
 colours are perceived as a consequence of excitation of two or more of
 these nerves in varying degrees simultaneously.
 
@@ -681,7 +681,7 @@ When objects are examined through various coloured screens, should the
 colour of the object and the screen differ only in shade, the former
 will appear darker or lighter in hue as the latter is paler or darker.
 If the object and screen are of the same colour and shade, the object
-will remain unaltered in hue. (See page [38](tha03.htm#page_38).) Should
+will remain unaltered in hue. (See page [38](tha03.htm#page_38)..md) Should
 the screen and the object be of different colours, according to the
 depth of the former, the latter will become much darker, or may be
 changed in hue from the admixture of the two colours. For example take a
@@ -737,7 +737,7 @@ which was rather more pronounced. He next examined the aura through
 <span id="page_77">p. 77</span>
 
 coloured screens, and the results are tabulated in series 1 of [table
-4](tha05.htm#tab04). (pages [80](#page_80) and [81](#page_81)). The
+4](tha05.htm#tab04). (pages [80](#page_80) and [81](#page_81).md). The
 model was then asked if she could change the colour on the left side to
 red. She succeeded only in producing a red-grey colour. Afterwards in
 like manner a very good blue was produced on the right side. Through the
@@ -785,7 +785,7 @@ changed to blue or green.
 2\. The difficulty this subject experienced in producing a yellow, and
 the instability of the result.
 
-3\. The [bizarre](errata.htm#1) effects found on the examination of the
+3\. The [bizarre](errata.htm#1.md) effects found on the examination of the
 green aura with screens.
 
 During the examination of patients, several women, but no man, have been
@@ -798,7 +798,7 @@ purposes as none of them were artist's models.
 The explanation of the aura is full of difficulties, some of which
 vanish immediately auto-luminosity has been conceded.
 
-Elsewhere (page [51](tha04.htm#page_51)), it has been stated that the
+Elsewhere (page [51](tha04.htm#page_51).md), it has been stated that the
 aura cannot be seen in complete darkness, and consequently is not
 self-luminous in the ordinary acceptation of the word. This statement
 requires qualification, and a criticism of the meaning of the term
@@ -1053,7 +1053,7 @@ shorter wave lengths of the spectrum in the greatest abundance, with the
 least amount of the longer.
 
 In the search of a suitable dye he would suggest the use of a microscope
-in a manner similar to that described on page [62](#page_62), but the
+in a manner similar to that described on page [62](#page_62.md), but the
 process may be considerably curtailed. Suppose the same microscopic
 power and the same object be employed, it would only be necessary to
 accurately focus a bristle of the blowfly's proboscis in ordinary
@@ -1073,7 +1073,7 @@ it instead of dicyanin before looking at the aura. No further
 experiments should be carried out on the same day.
 
 N.B.—It is extremely necessary that the plan mentioned on page
-[62](#page_62) for obtaining the accuracy of the focus and eliminating
+[62](#page_62.md) for obtaining the accuracy of the focus and eliminating
 the effects of accommodation should be strictly adhered to. A little
 practice makes this quite easy to perform.
 
@@ -1081,19 +1081,19 @@ practice makes this quite easy to perform.
 
 ### Footnotes
 
-<span id="fn_2"></span>[64:\*](tha05.htm#fr_2) λ is the symbol for
+<span id="fn_2"></span>[64:\*](tha05.htm#fr_2.md) λ is the symbol for
 Angstrom's unit, viz., 10<sup>-16</sup> metre, or one-tenth millionth of
 a millimetre.
 
-<span id="fn_3"></span>[67:\*](tha05.htm#fr_3) +2.5 mi is the amount of
+<span id="fn_3"></span>[67:\*](tha05.htm#fr_3.md) +2.5 mi is the amount of
 adjustment required to bring the object into focus again in the white
 light after peering through the dicyanin screen.
 
-<span id="fn_4"></span>[73:\*](tha05.htm#fr_4) For the reason of
-choosing yellow instead of green see [chapter vi](tha07.htm#chap06).
-page [141](tha07.htm#page_141).
+<span id="fn_4"></span>[73:\*](tha05.htm#fr_4.md) For the reason of
+choosing yellow instead of green see [chapter vi](tha07.htm#chap06.md).
+page [141](tha07.htm#page_141.md).
 
 ------------------------------------------------------------------------
 
 [Next: Chapter V. The Effects of the Different Forces Upon the
-Aura](tha06)
+Aura](tha06.md)

@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@
 This is a very detailed review of what is known about the eastern
 religions which were absorbed into Roman Paganism during the late
 Republic and Imperial periods. Cumont, who also wrote [The Mysteries of
-Mithra](../mom/index) was a Belgian scholar who specialized in the study
+Mithra](../mom/index.md) was a Belgian scholar who specialized in the study
 of ancient religion. Topics include the cults of the *Magna Mater*,
 Cyblele, Isis, Astarte, Mithrism and Zoroastrianism, as well as a study
 of astrology and how it became part of Roman beliefs. Roman Paganism
@@ -38,29 +38,29 @@ of additional deities.
 
 ------------------------------------------------------------------------
 
-[Title Page](orrp00)  
-[Table of Contents](orrp01)  
-[Introduction: The Significance of Franz Cumont's Work](orrp02)  
-[Preface](orrp03)  
-[Preface to the Second Edition](orrp04)  
-[I. Rome and the Orient](orrp05)  
-[II. Why the Oriental Religions Spread](orrp06)  
-[III. Asia Minor](orrp07)  
-[IV. Egypt](orrp08)  
-[V. Syria](orrp09)  
-[VI. Persia](orrp10)  
-[VII. Astrology and Magic](orrp11)  
-[VIII. The Transformation of Roman Paganism](orrp12)  
+[Title Page](orrp00.md)  
+[Table of Contents](orrp01.md)  
+[Introduction: The Significance of Franz Cumont's Work](orrp02.md)  
+[Preface](orrp03.md)  
+[Preface to the Second Edition](orrp04.md)  
+[I. Rome and the Orient](orrp05.md)  
+[II. Why the Oriental Religions Spread](orrp06.md)  
+[III. Asia Minor](orrp07.md)  
+[IV. Egypt](orrp08.md)  
+[V. Syria](orrp09.md)  
+[VI. Persia](orrp10.md)  
+[VII. Astrology and Magic](orrp11.md)  
+[VIII. The Transformation of Roman Paganism](orrp12.md)  
 <span id="section_000"></span>
 
 ### Notes
 
-[Preface](orrp13)  
-[I. Rome and the Orient](orrp14)  
-[II. Why the Oriental Religions Spread](orrp15)  
-[III. Asia Minor](orrp16)  
-[IV. Egypt](orrp17)  
-[V. Syria](orrp18)  
-[VI. Persia](orrp19)  
-[VII. Astrology and Magic](orrp20)  
-[VIII. The Transformation of Paganism](orrp21)  
+[Preface](orrp13.md)  
+[I. Rome and the Orient](orrp14.md)  
+[II. Why the Oriental Religions Spread](orrp15.md)  
+[III. Asia Minor](orrp16.md)  
+[IV. Egypt](orrp17.md)  
+[V. Syria](orrp18.md)  
+[VI. Persia](orrp19.md)  
+[VII. Astrology and Magic](orrp20.md)  
+[VIII. The Transformation of Paganism](orrp21.md)  

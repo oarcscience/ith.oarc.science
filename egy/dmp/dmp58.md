@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp57)  [Next](dmp59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp57)  [Next](dmp59.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ times. (9) Iaho . Eiphe . On . Kindathour, Nephar . Aphoe.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XXVII](dmp59)
+[Next: Verso Col. XXVII](dmp59.md)

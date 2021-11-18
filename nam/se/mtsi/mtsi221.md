@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi220)  [Next](mtsi222) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi220)  [Next](mtsi222.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ game because he had beaten the others.
 
 ------------------------------------------------------------------------
 
-[Next: 22. The Giant Deer (Second Version)](mtsi222)
+[Next: 22. The Giant Deer (Second Version)](mtsi222.md)

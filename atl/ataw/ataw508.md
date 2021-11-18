@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw507)  [Next](ataw509) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw507)  [Next](ataw509.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -257,17 +257,17 @@ the pitchfork of Beelzebub!
 
 And when we cross the Atlantic, we find in America the horns of Baal
 reappearing in a singular manner. The first cut on page
-[429](#img_42900) represents an idol of the Moquis of New Mexico: the
-head is very bull-like. In the [next figure](#img_42901) we have a
+[429](#img_42900.md) represents an idol of the Moquis of New Mexico: the
+head is very bull-like. In the [next figure](#img_42901.md) we have a
 representation of the war-god of the Dakotas, with something like a
 
 <span id="page_429">p. 429</span>
 
-trident in his hand; while the [next illustration](#img_42902) is taken
+trident in his hand; while the [next illustration](#img_42902.md) is taken
 from Zarate's "Peru," and depicts "the god of a degrading worship." He
 is very much like the traditional conception of the European
 devil-horns, pointed ears, wings, and poker. Compare this last figure,
-from Peru, with the representation on page [430](#img_43000) of a Greek
+from Peru, with the representation on page [430](#img_43000.md) of a Greek
 siren, one of those cruel monsters who, according to Grecian mythology,
 sat in the midst of bones and blood, tempting men to ruin by their sweet
 music. Here we have the same bird-like legs and claws as in the Peruvian
@@ -735,4 +735,4 @@ then came the Hamitic race; then the Japhetic.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX: The Antiquity of Some of Our Great
-Inventions.](ataw509)
+Inventions.](ataw509.md)

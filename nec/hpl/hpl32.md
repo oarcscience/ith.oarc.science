@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl31)  [Next](hpl33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl31)  [Next](hpl33.md) 
 
 ------------------------------------------------------------------------
 
@@ -1681,4 +1681,4 @@ twin brother, but it looked more like the father than he did.'
 
 ------------------------------------------------------------------------
 
-[Next: The Silver Key (Weird Tales, 1929)](hpl33)
+[Next: The Silver Key (Weird Tales, 1929)](hpl33.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rio09)  [Next](rio11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rio09)  [Next](rio11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Krauskopf, \[1901\], at Intangible Textual Heritage
 Talmudic Parallels to New Testament Teachings
 
 <span id="img_18200"></span> ![Talmudic Parallels to New Testament
-Teachings: decorative header.](img/18200.jpg)
+Teachings: decorative header.](img/18200.jpg.md)
 
 TALMUDIC literature may be said to have commenced with Ezra's redaction
 of the Pentateuch, about five hundred years before the common era. Its
@@ -357,4 +357,4 @@ So the last shall be first and the first shall be last.</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Paul—The Founder and Spreader of Christology](rio11)
+[Next: Paul—The Founder and Spreader of Christology](rio11.md)

@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs15)  [Next](abs17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs15)  [Next](abs17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -52,7 +52,7 @@ Tibet, or even in the same continent. Further, the racial, national,
 political, cultural, and all other aspects of humanity pertaining in
 this area are extremely complex, most muddling, and very little
 understood. For once, national boundaries hereabouts serve some really
-useful purposes (see [Map IX](abs15.htm#img_map09)): also, some of them
+useful purposes (see [Map IX](abs15.htm#img_map09).md): also, some of them
 even have some actual physical validity and coincide with natural
 boundaries. Perhaps the single most interesting fact to emerge from this
 
@@ -60,7 +60,7 @@ boundaries. Perhaps the single most interesting fact to emerge from this
 
 <span id="img_map11"></span> <span align="CENTER"> [![MAP XI.
 ORIENTALIA](tn/map11.jpg)  
-Click to enlarge](img/map11.jpg)  
+Click to enlarge](img/map11.jpg.md)  
 MAP XI. ORIENTALIA  
 </span>
 
@@ -70,7 +70,7 @@ Geographically, Tibet is a part of Orientalia but, due to its extreme
 altitude, it is connected with Eurasia. Orientalia is divided into six
 parts—India, the Himalayas, Indochina, southern China, Malayo-Indonesia,
 and the Philippines. (For the last three subdivisions, (see [Map
-IX](abs15.htm#img_map09)). In this continent we have three major
+IX](abs15.htm#img_map09).md). In this continent we have three major
 levels—lowlands, mountains, and super-mountains. Most of the first are
 clothed in equatorial forests but there is a large desert area in
 western Pakistan, and most of southern China lies in the temperate
@@ -210,7 +210,7 @@ following inventory may make this a bit clearer. I take the famous year
 |     | 1887\. | Major Lawrence A. Waddell, LL.D., C.B., C.I.E., F.L.S., F.A.I., comes across large tracks in Sikkim.                                                                                                                                   |
 | S.  | 1906\. | Mr. H. J. Elwes, well-known botanist and explorer, sees an ABSM run over a ridge.                                                                                                                                                      |
 | NS. | 1915\. | J. R. O. Gent, British Forestry Officer in the Darjeeling Division reports tracks in the Phalut area, India, and ABSMs seen by local inhabitants.                                                                                      |
-| S.  | 1920\. | Stanley Snaith states in his book At Grips with Everest that one Hugh Knight, a British explorer, came face to face with an ABSM carrying a crude bow in this year. <span id="fr_33"></span>[\*](#fn_32)                               |
+| S.  | 1920\. | Stanley Snaith states in his book At Grips with Everest that one Hugh Knight, a British explorer, came face to face with an ABSM carrying a crude bow in this year. <span id="fr_33"></span>[\*](#fn_32.md)                               |
 | S.  | 1921\. | Lt. Col. C. K. Howard-Bury, on approaching Everest, watched a group of ABSMs on a snowfield at 20,000 feet, through binoculars. Later found their tracks on the spot.                                                                  |
 |     | 1922   | Tracks found on the Bireh Ganga Glacier by Englishman who signed his report "Foreign Sportsman."                                                                                                                                       |
 | S.  | 1923\. | Members of an Everest Expedition saw "great hairy, naked, man running across a snowfield below," at 17,000 feet.                                                                                                                       |
@@ -372,7 +372,7 @@ abnormally heavy snowfall and the appearance
 of *yeti* near human habitations on such occasions. No particular virtue
 is ascribed to the headdress of *yeti*-hide in Pangboche; it is freely
 handled and treated neither with reverence nor with any superstitious
-fear." <span id="fr_34"></span>[\*](#fn_33)
+fear." <span id="fr_34"></span>[\*](#fn_33.md)
 
 This is one of, if not the most, refreshing statements that I have come
 across in over a quarter of a century of investigation of the matter of
@@ -446,7 +446,7 @@ cloudy area periodically need such vitamin and so go up to grub under
 the rotting snow for it, led by their age-old knowledge, or what is
 sometimes called instinct—just as some humans have a mad craving to eat
 certain earths and know exactly which ones and where to dig for
-them. <span id="fr_35"></span>[\*](#fn_34)
+them. <span id="fr_35"></span>[\*](#fn_34.md)
 
 But what, you may still want to know, exactly did all these people say
 they found or saw. I could quote you their actual statements but am not
@@ -459,7 +459,7 @@ accessible books as listed in the bibliography. As a guide to them, you
 should read Bernard Heuvelmans' *On the Track of* *Unknown Animals*,
 which fully covers the issue. Second, I refrain from so doing because,
 frankly, even I find them somewhat boring, for they are all so
-absolutely alike. <span id="fr_36"></span>[\*](#fn_35)
+absolutely alike. <span id="fr_36"></span>[\*](#fn_35.md)
 
 The great majority of the reports are of a roughly mansized—though of a
 very large and sturdy man compared to the wiry little Sherpas—ABSM, with
@@ -811,7 +811,7 @@ sub-autonomous province of northwestern Nepal, killed an animal a few
 years ago that they did not know but which had been scaring villagers in
 their territory, it was declared to be a *yeti* (i.e. an ABSM). The
 beast was most adequately photographed (see [Fig.
-38](abs04.htm#img_pl38)) while still freshly killed, lying on a pristine
+38](abs04.htm#img_pl38).md) while still freshly killed, lying on a pristine
 white sheet. Later, it was carefully skinned with its extremities
 complete and was shipped with its boiled skull to Katmandu. It turned
 out to be a Sloth-Bear (*Melursus*). However, this is not the point.
@@ -974,7 +974,7 @@ from the shoulder skins of a Serow (*Capricornis*), but were the makers
 not imitating something else they knew? And these things are, in any
 case, only playthings, like Christmas hats. Further, even if they are
 not genuine yeti scalps, what made the fresh foot-tracks? <span
-id="fr_37"></span>[\*](#fn_36)
+id="fr_37"></span>[\*](#fn_36.md)
 
 Let us not forget that the Kraken, the giant squid, was regarded as a
 fable for centuries until Prof. A. E. Verrill took a
@@ -992,7 +992,7 @@ the Himalayas, or of anywhere else, for that matter.
 
 ### Footnotes
 
-<span id="fn_32"></span>[260:\*](abs16.htm#fr_33) The search for this
+<span id="fn_32"></span>[260:\*](abs16.htm#fr_33.md) The search for this
 Hugh Knight continues. It (or He) is proving every bit as elusive as any
 ABSMs. The latest comes from Prof. W. C. Osman Hill, since this was
 written, and states: "I find a book listed in the Royal Geographical
@@ -1000,22 +1000,22 @@ Society \[of London\] library catalogue by a Captain Knight (no initials
 given) entitled:—Diary of a Pedestrian in Cashmere and Thibet and dated
 1863. It may well be the one we are after and if so antedates Waddell."
 
-<span id="fn_33"></span>[265:\*](abs16.htm#fr_34) Tom Slick, seconded by
+<span id="fn_33"></span>[265:\*](abs16.htm#fr_34.md) Tom Slick, seconded by
 Peter Byrne, now tells me that the inhabitants of Pangboche never
 claimed that this was the scalp of an ABSM, but that it was made in
 imitation of one held in a monastery elsewhere, and made from a goat
 skin. Anent this, see Appendix E.
 
-<span id="fn_34"></span>[266:\*](abs16.htm#fr_35) Geophagy is widespread
+<span id="fn_34"></span>[266:\*](abs16.htm#fr_35.md) Geophagy is widespread
 and cropped up in New York City a few years ago.
 
-<span id="fn_35"></span>[267:\*](abs16.htm#fr_36) The appearance and
+<span id="fn_35"></span>[267:\*](abs16.htm#fr_36.md) The appearance and
 significance of the foot-tracks and prints is fully discussed in
 Appendix B; that of the creatures' possible relationships in Chapter 16.
 
-<span id="fn_36"></span>[279:\*](abs16.htm#fr_37) For a full account of
+<span id="fn_36"></span>[279:\*](abs16.htm#fr_37.md) For a full account of
 this, see Appendix E.
 
 ------------------------------------------------------------------------
 
-[Next: 13. The Western Approaches](abs17)
+[Next: 13. The Western Approaches](abs17.md)

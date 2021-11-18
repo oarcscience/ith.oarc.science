@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](trs06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](trs06.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,16 +19,16 @@ a cartouche in the original text--JBH.
 
 <span id="page_199">p. 199</span>
 
-#### TRANSLATION OF THE HIEROGLYPHIC TEXT OF THE DECREE OF THE PRIESTS OF MEMPHIS, AS FOUND ON THE ROSETTA STONE <span id="fr_71"></span>[1](#fn_71) AND ON THE STELE OF DAMANHÛR. THE DECREE WAS PROMULGATED IN THE 9TH YEAR OF THE REIGN OF PTOLEMY V. EPIPHANES.
+#### TRANSLATION OF THE HIEROGLYPHIC TEXT OF THE DECREE OF THE PRIESTS OF MEMPHIS, AS FOUND ON THE ROSETTA STONE <span id="fr_71"></span>[1](#fn_71.md) AND ON THE STELE OF DAMANHÛR. THE DECREE WAS PROMULGATED IN THE 9TH YEAR OF THE REIGN OF PTOLEMY V. EPIPHANES.
 
 1\. On the twenty-fourth day of the month GORPIAIOS <span
-id="fr_72"></span>[2](#fn_72), which correspondeth to the twenty-fourth
+id="fr_72"></span>[2](#fn_72.md), which correspondeth to the twenty-fourth
 day of the fourth month of the season PERT <span
-id="fr_73"></span>[3](#fn_73) of the inhabitants of TA-MERT (EGYPT), in
+id="fr_73"></span>[3](#fn_73) of the inhabitants of TA-MERT (EGYPT.md), in
 the twenty-third year of the reign of HORUS-RA the CHILD, who hath risen
 as King upon the throne of his father, the lord of the shrines of
-NEKHEBET <span id="fr_74"></span>[4](#fn_74) and UATCHET, <span
-id="fr_75"></span>[5](#fn_75) the mighty one of two-fold strength, the
+NEKHEBET <span id="fr_74"></span>[4](#fn_74.md) and UATCHET, <span
+id="fr_75"></span>[5](#fn_75.md) the mighty one of two-fold strength, the
 stablisher of the Two Lands, the beautifier of
 
 2\. Egypt, whose heart is perfect (or benevolent) towards the gods, the
@@ -36,7 +36,7 @@ HORUS of Gold, who maketh perfect the life of the *hamentet* beings, the
 lord of the thirty-year festivals like PTAḤ, the sovereign prince like
 RĀ, the King of the South and North,
 **Neterui-merui-ȧtui-ȧuā-setep-en-Ptaḥ-usr-ka-Rā-ānkh-sekhem-Ȧmen** <span
-id="fr_76"></span>[6](#fn_76), the Son of the Sun **Ptolemy, the
+id="fr_76"></span>[6](#fn_76.md), the Son of the Sun **Ptolemy, the
 ever-living,** 
 
 <span id="page_200">p. 200</span>
@@ -73,7 +73,7 @@ the lord of beauties, received the sovereignty from his father,
 <span id="page_201">p. 201</span>
 
 entered into the SEḤETCH-CHAMBER, wherein they were wont to assemble, in
-MAKHA-TAUI <span id="fr_77"></span>[1](#fn_77), and behold they declared
+MAKHA-TAUI <span id="fr_77"></span>[1](#fn_77.md), and behold they declared
 thus:—
 
 9\. “Inasmuch as the King who is beloved by the gods, the King of the
@@ -147,7 +147,7 @@ done in the sane way in which it was done
 
 19\. “in former \[days\]; similarly, he hath donc \[all things\] in a
 right and proper manner; and he hath taken care to administer
-justice <span id="fr_78"></span>[1](#fn_78) *to the people, even like
+justice <span id="fr_78"></span>[1](#fn_78.md) *to the people, even like
 Thoth, the great, great \[God\]; and he hath, more over, ordered in
 respect of those of the troops who come back, and the other people also,
 who during the* 
@@ -189,7 +189,7 @@ were unusually deep* 
 26\. “in this spot; and His Majesty captured the town by assault in a
 very short time, and he cut to pieces the rebels who were therein, and
 he made an exceedingly great slaughter among them, even like unto that
-which THOTH <span id="fr_79"></span>[1](#fn_79) and HORUS, the son of
+which THOTH <span id="fr_79"></span>[1](#fn_79.md) and HORUS, the son of
 Isis and \[the son of Osiris\], made among those who rebelled against
 them 
 
@@ -340,12 +340,12 @@ the upper corner\]; and
 NEKHEBET, and Lord of the shrine of UATCHET, who illumineth the land of
 the White Crown, and the land of the Red Crown." And inasmuch as the
 last day of the fourth month of the season SHEMU <span
-id="fr_80"></span>[1](#fn_80) (*i.e.*, MESORE), which is the birthday of
+id="fr_80"></span>[1](#fn_80) (*i.e.*, MESORE.md), which is the birthday of
 the beautiful ever-living god, is already established as a feast day,
 and it hath been observed as a day of festival in the lands of HORUS
 (*i.e.*, the temple lands) from the olden time; and moreover, the
 seventeenth day of the second month of the season SHAT <span
-id="fr_81"></span>[2](#fn_81) (i.e., PAOPI),
+id="fr_81"></span>[2](#fn_81) (i.e., PAOPI.md),
 
 47\. whereon \[His Majesty\] performed the ceremonies of royal
 accession, when he received the sovereignty from his father, \[is also
@@ -417,40 +417,40 @@ whose deeds are beautiful.
 
 ### Footnotes
 
-<span id="fn_71"></span>[199:1](trs07.htm#fr_71) The words in brackets
+<span id="fn_71"></span>[199:1](trs07.htm#fr_71.md) The words in brackets
 are added either from the Stele of Damanhûr or for the purpose of making
 sense.
 
-<span id="fn_72"></span>[199:2](trs07.htm#fr_72) A part of March and
+<span id="fn_72"></span>[199:2](trs07.htm#fr_72.md) A part of March and
 April.
 
-<span id="fn_73"></span>[199:3](trs07.htm#fr_73) Part of our Spring.
+<span id="fn_73"></span>[199:3](trs07.htm#fr_73.md) Part of our Spring.
 
-<span id="fn_74"></span>[199:4](trs07.htm#fr_74) The shrine of the
+<span id="fn_74"></span>[199:4](trs07.htm#fr_74.md) The shrine of the
 vulture goddess Nekhebet was in Upper Egypt.
 
-<span id="fn_75"></span>[199:5](trs07.htm#fr_75) More fully,
+<span id="fn_75"></span>[199:5](trs07.htm#fr_75.md) More fully,
 Per-Uatchet; the shrine of the snake goddess was in the Delta.
 
-<span id="fn_76"></span>[199:6](trs07.htm#fr_76) A name meaning "The two
+<span id="fn_76"></span>[199:6](trs07.htm#fr_76.md) A name meaning "The two
 Father-loving Gods, the heir, chosen of Ptaḥ, strength of the double of
 Rā, living power of Ȧmen."
 
-<span id="fn_77"></span>[201:1](trs07.htm#fr_77) Makha-taui <span
+<span id="fn_77"></span>[201:1](trs07.htm#fr_77.md) Makha-taui <span
 id="img_20100"></span> ![](img/20100.jpg), *i.e.*, "the balance or the
 two lands," was the name of the place where Lower Egypt ended, and Upper
 Egypt began, when travelling to the South.
 
-<span id="fn_78"></span>[203:1](trs07.htm#fr_78) The lines in italics
+<span id="fn_78"></span>[203:1](trs07.htm#fr_78.md) The lines in italics
 are taken from the Demotic version.
 
-<span id="fn_79"></span>[204:1](trs07.htm#fr_79) The Demotic Version has
+<span id="fn_79"></span>[204:1](trs07.htm#fr_79.md) The Demotic Version has
 Rā.
 
-<span id="fn_80"></span>[209:1](trs07.htm#fr_80) The season of the
+<span id="fn_80"></span>[209:1](trs07.htm#fr_80.md) The season of the
 Inundation, or, our summer.
 
-<span id="fn_81"></span>[209:2](trs07.htm#fr_81) Our autumn and early
+<span id="fn_81"></span>[209:2](trs07.htm#fr_81.md) Our autumn and early
 winter.
 
  

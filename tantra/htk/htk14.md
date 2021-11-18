@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk13)  [Next](htk15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk13)  [Next](htk15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -27,14 +27,14 @@ at Intangible Textual Heritage
 
 ### VERSE 10
 
-IF by night, <span id="fr_82"></span>[1](#fn_82) Thy devotee <span
-id="fr_83"></span>[2](#fn_83) unclothed, with dishevelled hair, recites
-whilst meditating on Thee, <span id="fr_84"></span>[3](#fn_84) Thy
-*mantra*, <span id="fr_85"></span>[4](#fn_85) when with his
-*Śakti* <span id="fr_86"></span>[5](#fn_86) youthful, full-breasted, and
+IF by night, <span id="fr_82"></span>[1](#fn_82.md) Thy devotee <span
+id="fr_83"></span>[2](#fn_83.md) unclothed, with dishevelled hair, recites
+whilst meditating on Thee, <span id="fr_84"></span>[3](#fn_84.md) Thy
+*mantra*, <span id="fr_85"></span>[4](#fn_85.md) when with his
+*Śakti* <span id="fr_86"></span>[5](#fn_86.md) youthful, full-breasted, and
 heavy-hipped, such an one makes all powers subject to him, and dwells on
-the earth ever <span id="fr_87"></span>[6](#fn_87) a seer. <span
-id="fr_88"></span>[7](#fn_88)
+the earth ever <span id="fr_87"></span>[6](#fn_87.md) a seer. <span
+id="fr_88"></span>[7](#fn_88.md)
 
 COMMENTARY
 
@@ -87,7 +87,7 @@ epithets 'heavy-hipped' and 'full-breasted.'
 
 ### Footnotes
 
-<span id="fn_82"></span>[68:1](htk14.htm#fr_82) <span id="page_69">p.
+<span id="fn_82"></span>[68:1](htk14.htm#fr_82.md) <span id="page_69">p.
 69</span> *Naktaṁ*. At dead of night. The Phetkāriṇī-Tantra says, 'By
 night, naked with dishevelled hair in union with *Śakti*, by him is all
 *Siddhi* gained'. The Kālikrama says, 'The *Paśu* devoted to his own
@@ -96,26 +96,26 @@ night, naked with dishevelled hair in union with *Śakti*, by him is all
 'Such as are in *Paśubhāva* are but *Paśus*. They should not touch a
 rosary nor recite *Mantra* by night.' (V)
 
-<span id="fn_83"></span>[68:2](htk14.htm#fr_83) *Bhaktah*. Here a
+<span id="fn_83"></span>[68:2](htk14.htm#fr_83.md) *Bhaktah*. Here a
 *Vira-Sādhaka*. Niruttara-Tantra says, 'The *Mantrin* who has received
 *Ābhiṣeka* should do *Kulapūjā*. Oh Devī the *Mantra* of *Kāli* does not
 become *Siddha* without *Kulācāra*.' (V)
 
-<span id="fn_84"></span>[68:3](htk14.htm#fr_84) *Tvāṁ dhyāyan*. Mentally
+<span id="fn_84"></span>[68:3](htk14.htm#fr_84.md) *Tvāṁ dhyāyan*. Mentally
 seeing Thee in his heart as ever in the Enjoyment of union with
 *Mahākāla*. (V)
 
-<span id="fn_85"></span>[68:4](htk14.htm#fr_85) Thy *Mantra* is the
+<span id="fn_85"></span>[68:4](htk14.htm#fr_85.md) Thy *Mantra* is the
 aforesaid great *Mantra*. (V)
 
-<span id="fn_86"></span>[68:5](htk14.htm#fr_86) He is *Ratāsakta*, the
+<span id="fn_86"></span>[68:5](htk14.htm#fr_86.md) He is *Ratāsakta*, the
 meaning of which is as follows: *Sa mantraṁ japati yadā sa
 śobhanāṅgapratyaṅgaśālinyā manohāriṇyāyuvatyā śaktyā saha maithunāsakto
 bhavati*. Whilst in union (*Maithuna*) the mind must be concentrated on
 *Devī Kāli* and *japā* must be done of Her *Mahāmantra*. The devotee
 should not think of aught else.
 
-<span id="fn_87"></span>[68:6](htk14.htm#fr_87) So also
+<span id="fn_87"></span>[68:6](htk14.htm#fr_87.md) So also
 Phetkāriṇī-Tantra (ch. x) says:
 
 '*Rātrau nagnah śyānas ca maithune ca vyavasthitah.  
@@ -125,13 +125,13 @@ Staṁbhanaṁ mohana-caiva vaśīkaraṇaṁ eva ca*.'
 Here *Athavā* means if the *Sādhaka* is without a *Śakti*; then
 recitation of *mantra* with dishevelled hair gives the same *siddhi*.
 
-<span id="fn_88"></span>[68:7](htk14.htm#fr_88) *Kavi* which has not
+<span id="fn_88"></span>[68:7](htk14.htm#fr_88.md) *Kavi* which has not
 here the limited sense of 'Poet.'
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Verse 11](htk15)
+[Next: Verse 11](htk15.md)
 
 </div>

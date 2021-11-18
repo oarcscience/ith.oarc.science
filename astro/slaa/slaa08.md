@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](slaa07)  [Next](slaa09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](slaa07)  [Next](slaa09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sun Lore of All Ages*, by William Tyler Olcott, \[1914\], at Intangible
 Textual Heritage
 
@@ -36,14 +36,14 @@ THE pre-eminence of the Sun, as the fountain-head of life and man's
 well-being, must have rendered it at a date almost contemporaneous with
 the birth of the race, the chief object of man's worship.
 
-"It was," says Karnes, <span id="fr_43"></span>[1](#fn_43) "of all the
+"It was," says Karnes, <span id="fr_43"></span>[1](#fn_43.md) "of all the
 different objects of idolatry the most excusable, for upon the sun
 depend health, vigour, and cheerfulness, and during its retirement all
 is dark and disconsolate." Hence, as we shall see, the chief masculine
 deity of every nation which was the chief object of their idolatrous
 worship, is in every case to be identified with the sun.
 
-The Abbé Banier wrote in like vein: <span id="fr_44"></span>[2](#fn_44)
+The Abbé Banier wrote in like vein: <span id="fr_44"></span>[2](#fn_44.md)
 "Nothing was more capable of seducing men than the Heavenly Bodies, and
 the sun especially. His beauty, the bright splendour of his beams, the
 rapidity of his course, *exultavit ut Gigus ad currendam viam*,
@@ -237,7 +237,7 @@ but that after they died their souls migrated into some one or other of
 the heavenly bodies. As Osiris was declared to be the Sun, it is evident
 that, according to this system, the soul of the man was thought to have
 been translated into the solar orb, so that "when" says Faber, <span
-id="fr_45"></span>[1](#fn_45) "the pagans worshipped the sun as their
+id="fr_45"></span>[1](#fn_45.md) "the pagans worshipped the sun as their
 principal divinity they did not worship him simply and absolutely as the
 mere chief of the heavenly luminaries, but they adored in conjunction
 with him and perpetually distinguished by his name the patriarch Noah,
@@ -256,7 +256,7 @@ attached great importance. To them the disappearance
 
 of the sun signified the end of a contest, the Sun-God vanquished by the
 demons of the darkness, descended to the realm of death. "In the *Book
-of the Dead*" says Tylor, <span id="fr_46"></span>[1](#fn_46) "it is
+of the Dead*" says Tylor, <span id="fr_46"></span>[1](#fn_46.md) "it is
 written that the departed souls descend with the Sun-God through the
 western gate and travel with him among the fields and rivers of the
 underworld."
@@ -287,12 +287,12 @@ resting-place.
 
 It is quite impossible in a work of this nature to adequately treat the
 subject of Egyptian Sun worship. Volumes have been written on
-[the](errata.htm#0) subject and space forbids more than a brief account
+[the](errata.htm#0.md) subject and space forbids more than a brief account
 of the worship of the more important of the Egyptian solar deities.
 
 The worship of the Sun-Gods Ra and Osiris was the most ancient religion
 mentioned on the oldest monuments of Egypt. "They are those," says
-Tiele, <span id="fr_47"></span>[1](#fn_47) "which in after times
+Tiele, <span id="fr_47"></span>[1](#fn_47.md) "which in after times
 prevailed most generally and may be said to have formed the foundation
 of the national religion."
 
@@ -309,9 +309,9 @@ throughout Egypt.
 Ra personified the physical sun, the glorious mid-day sun ruling the
 firmament, and symbolised to the ancient Egyptians the majesty and power
 of kings. He was worshipped as an omnipotent and all-powerful god under
-the names Ra and Amen-Ra. <span id="fr_48"></span>[1](#fn_48)
+the names Ra and Amen-Ra. <span id="fr_48"></span>[1](#fn_48.md)
 
-Wilkinson <span id="fr_49"></span>[2](#fn_49) tells us that the name of
+Wilkinson <span id="fr_49"></span>[2](#fn_49.md) tells us that the name of
 this deity was pronounced Rä, and with the definite article Pi prefixed
 it was the same as Phrah, or, as we erroneously call it, Pharaoh of the
 Scriptures. The Hebrew word Phrah is no other than the Memphitic name of
@@ -375,7 +375,7 @@ the other the emblem of life, his head surmounted with the double crown
 of Upper and Lower Egypt.
 
 "In the judgment scenes," says Keary, <span
-id="fr_50"></span>[1](#fn_50) "he appears seated on a throne at the end
+id="fr_50"></span>[1](#fn_50.md) "he appears seated on a throne at the end
 of a solemn hall of trial, to which the soul has been arraigned, and in
 the centre of which stands the fateful balance, where in the presence of
 the evil accusing spirit and of the friendly funeral gods and genii
@@ -454,7 +454,7 @@ underworld up the eastern sky at dawn, piercing the great python, born
 of night, as he advances.
 
 "The ultimate victory of life over death, of truth and goodness over
-falsehood and wrong," says Keary, <span id="fr_51"></span>[1](#fn_51)
+falsehood and wrong," says Keary, <span id="fr_51"></span>[1](#fn_51.md)
 "were the moral lessons which this parable of the sun's rising read to
 the ancient Egyptians."
 
@@ -526,37 +526,37 @@ sun's power.
 
 ### Footnotes
 
-<span id="fn_43"></span>[141:1](slaa08.htm#fr_43) *History of Man*, Hon.
+<span id="fn_43"></span>[141:1](slaa08.htm#fr_43.md) *History of Man*, Hon.
 Henry Home of Kames.
 
-<span id="fn_44"></span>[141:2](slaa08.htm#fr_44) *The Mythology and
+<span id="fn_44"></span>[141:2](slaa08.htm#fr_44.md) *The Mythology and
 Fables of the Ancients*, Abbé Banier.
 
-<span id="fn_45"></span>[149:1](slaa08.htm#fr_45) *The Origin of Pagan
+<span id="fn_45"></span>[149:1](slaa08.htm#fr_45.md) *The Origin of Pagan
 Idolatry*, George Stanley Faber.
 
-<span id="fn_46"></span>[150:1](slaa08.htm#fr_46) *Primitive Culture*,
+<span id="fn_46"></span>[150:1](slaa08.htm#fr_46.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_47"></span>[151:1](slaa08.htm#fr_47) *History of the
+<span id="fn_47"></span>[151:1](slaa08.htm#fr_47.md) *History of the
 Egyptian Religion*, Dr. C. P. Tiele.
 
-<span id="fn_48"></span>[152:1](slaa08.htm#fr_48) It is a singular fact
+<span id="fn_48"></span>[152:1](slaa08.htm#fr_48.md) It is a singular fact
 that the great Polynesian name for the Sun-God is also Ra.
 
-<span id="fn_49"></span>[152:2](slaa08.htm#fr_49) *Manners and Customs
+<span id="fn_49"></span>[152:2](slaa08.htm#fr_49.md) *Manners and Customs
 of the Ancient Egyptians*, Sir J. Gardner Wilkinson.
 
-<span id="fn_50"></span>[154:1](slaa08.htm#fr_50) *Dawn of History*, C.
+<span id="fn_50"></span>[154:1](slaa08.htm#fr_50.md) *Dawn of History*, C.
 F. Keary.
 
-<span id="fn_51"></span>[157:1](slaa08.htm#fr_51) *Dawn of History*, C.
+<span id="fn_51"></span>[157:1](slaa08.htm#fr_51.md) *Dawn of History*, C.
 F. Keary.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Sun Worship (*Continued*)](slaa09)
+[Next: Chapter VII. Sun Worship (*Continued*)](slaa09.md)
 
 </div>

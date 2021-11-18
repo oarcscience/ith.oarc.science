@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp47) 
-[Next](alp49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp47.md) 
+[Next](alp49.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ To God for all His love and care.
 
 ------------------------------------------------------------------------
 
-[Next: Artavasd](alp49)
+[Next: Artavasd](alp49.md)

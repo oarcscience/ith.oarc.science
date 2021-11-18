@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot24) 
-[Next](laot26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot24.md) 
+[Next](laot26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -169,7 +169,7 @@ comes from India." "And," he added, "I will roast a bull to ashes this
 very day, and you shall hold communion with us in the smoke it makes;
 for you cannot complain, if you only get the same portion which is
 thought enough of a repast for the gods." And as his image <span
-id="fr_13"></span>[1](#fn_13) was being melted in the fire he said:
+id="fr_13"></span>[1](#fn_13.md) was being melted in the fire he said:
 "Look at the sacrifice." "What sacrifice," said the Egyptian, "for I do
 not see anything there." And Apollonius said: "The Iamidae and the
 Telliadae and the Clytiadae and the oracle of the black-footed ones,
@@ -371,9 +371,9 @@ future was stable and assured to him by heaven.
 
 ### Footnotes
 
-<span id="fn_13"></span>[1:519:1](laot25.htm#fr_13) A frankincense model
+<span id="fn_13"></span>[1:519:1](laot25.htm#fr_13.md) A frankincense model
 of a bull.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 31-40](laot26)
+[Next: Chapters 31-40](laot26.md)

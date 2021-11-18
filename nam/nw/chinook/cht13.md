@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht12)  [Next](cht14) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht12)  [Next](cht14.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ all the abalone shells.
 
 ------------------------------------------------------------------------
 
-[Next: 11. Stikua'](cht14)
+[Next: 11. Stikua'](cht14.md)

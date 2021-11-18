@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod08)  [Next](fcod10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod08)  [Next](fcod10.md) 
 
 ------------------------------------------------------------------------
 
@@ -898,4 +898,4 @@ attendance on his royal master is ended by death.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Early Burial-Places](fcod10)
+[Next: Chapter VII: Early Burial-Places](fcod10.md)

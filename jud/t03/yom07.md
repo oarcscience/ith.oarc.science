@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](yom06)  [Next](yom08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](yom06)  [Next](yom08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -57,7 +57,7 @@ thus. Put out your fingers, that they be counted." Why did he not count
 the persons themselves? This can be a support to what R. Itz'hak has
 said: "Israel must not be counted, even for religious duties." As it is
 written \[1 Sam. xv. 4\]: "And Saul ordered the people to assemble, and
-he numbered them by means of lambs." <span id="fr_13"></span>[1](#fn_13)
+he numbered them by means of lambs." <span id="fr_13"></span>[1](#fn_13.md)
 Said R. Elazar: Whoever numbers Israel, trespasses a negative
 commandment, because it is written \[Hosea ii. 1\]: "Yet shall the
 number of the children of Israel be like the sand of the sea, which may
@@ -106,7 +106,7 @@ was heard, proclaiming that Rehoboam and Jeroboam should divide the
 kingdom.
 
 It is written \[1 Sam. xii. i\]: "One year old was Saul in his
-reign." <span id="fr_14"></span>[1](#fn_14) Said R. Huna: That means, he
+reign." <span id="fr_14"></span>[1](#fn_14.md) Said R. Huna: That means, he
 was innocent of sin as a child of one year. R. Jehudah said in the name
 of Samuel: Why did not Saul's dynasty last long? Because there was no
 stain on his whole family. And R. Johanan in the name of R. Simeon b.
@@ -323,7 +323,7 @@ MISHNA: \[The parts of\] the daily sacrifice are offered \[according to
 circumstances\] by nine, ten, eleven, twelve--no less and no more. How
 so? Itself by nine. During the Feast \[of Booths\] one carries a pitcher
 of water; thus it is ten. Toward evening by eleven, itself by nine, and
-two carrying two measures <span id="fr_15"></span>[1](#fn_15) of wood.
+two carrying two measures <span id="fr_15"></span>[1](#fn_15.md) of wood.
 On Sabbath by eleven, itself by nine, and two having in their hands two
 spoonfuls of frankincense for the showbread. On the Sabbath which occurs
 in the middle of the Feast \[of Booths\], one carrying a pitcher of
@@ -414,26 +414,26 @@ was yet night it would be invalid)? This is no difficulty.
 
 If the animal was slaughtered before the time, it was invalid, but if
 the wood was put on before the time, it could be removed and replaced by
-a priest after daybreak. <span id="fr_16"></span>[1](#fn_16)
+a priest after daybreak. <span id="fr_16"></span>[1](#fn_16.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_13"></span>[31:1](yom07.htm#fr_13) The Talmud translates
+<span id="fn_13"></span>[31:1](yom07.htm#fr_13.md) The Talmud translates
 *Telaim* lambs, but the ordinary versions regard it as a proper name.
 
-<span id="fn_14"></span>[32:1](yom07.htm#fr_14) Literally it is thus,
+<span id="fn_14"></span>[32:1](yom07.htm#fr_14.md) Literally it is thus,
 but translators have it, "When he had reigned one year."
 
-<span id="fn_15"></span>[37:1](yom07.htm#fr_15) The Hebrew term is
+<span id="fn_15"></span>[37:1](yom07.htm#fr_15.md) The Hebrew term is
 Gizrin--‏גזרין‎. After Jost, we have translated it in Shekalim, VI.,
 *f*., p. 28, "cords"; but as it is too heavy for two men to carry two
 cords of wood, we have here translated only "measures," and according to
 all commentators on the Mishna it is a certain measure of wood for the
 altar, unknown to us.
 
-<span id="fn_16"></span>[39:1](yom07.htm#fr_16) In the text there is
+<span id="fn_16"></span>[39:1](yom07.htm#fr_16.md) In the text there is
 still another interpretation, that R. Johanan means to say that the
 service in question is but the final service of the night and does not
 belong to the day; and again, questions and answers are raised and made,
@@ -446,4 +446,4 @@ our method, omitted it.
 
 [Next: Chapter III: Time of the Daily Offering; Entry of a Layman into
 the Temple Court; Order of High-Priests' Service on Day of
-Atonement](yom08)
+Atonement](yom08.md)

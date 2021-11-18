@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop25)  [Next](pop27) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop25)  [Next](pop27.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ clothe thine enemy, who will despise thee.'
 
 ------------------------------------------------------------------------
 
-[Next: The Twenty-Second Figure](pop27)
+[Next: The Twenty-Second Figure](pop27.md)

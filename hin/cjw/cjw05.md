@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw04)  [Next](cjw06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw04)  [Next](cjw06.md) 
 
 ------------------------------------------------------------------------
 
@@ -299,4 +299,4 @@ understanding it thou shalt be free from the bondage of the world."
 
 ------------------------------------------------------------------------
 
-[Next: Self, Potencies, Vestures](cjw06)
+[Next: Self, Potencies, Vestures](cjw06.md)

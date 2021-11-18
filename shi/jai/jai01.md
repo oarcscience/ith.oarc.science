@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai00)  [Next](jai02) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai00)  [Next](jai02.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ time of rigid and pervading discipline"--WALTER BAGEHOT.
 
 ------------------------------------------------------------------------
 
-[Next: Difficulties](jai02)
+[Next: Difficulties](jai02.md)

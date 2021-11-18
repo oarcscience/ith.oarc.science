@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBUI6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBUI6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBUI6/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](lasi00)    [Text
-\[Zipped\]](lasi.txt.gz)
+[Contents](#contents)    [Start Reading](lasi00.md)    [Text
+\[Zipped\]](lasi.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -45,27 +45,27 @@ please the Celtic lore fan.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](lasi00)  
-[Preface](lasi01)  
-[Glossary](lasi02)  
-[King O'Toole and St Kevin](lasi03)  
-[Lough Corrib](lasi04)  
-[A Legend of Lough Mask](lasi05)  
-[The White Trout](lasi06)  
-[The Battle of the Berrins; or, the Double Funeral](lasi07)  
-[Father Roach](lasi08)  
-[The Priest's Story](lasi09)  
-[The King and the Bishop](lasi10)  
-[Jimmy the Fool](lasi11)  
-[The Catastrophe](lasi12)  
-[The Devil's Mill](lasi13)  
-[The Gridiron; or Paddy Mullowney's Travels in France](lasi14)  
-[Paddy the Piper](lasi15)  
-[The Priest's Ghost](lasi16)  
-[New Potatoes](lasi17)  
-[Paddy the Sport](lasi18)  
-[The White Horse of the Peppers](lasi19)  
-[The Legend of the Little Weaver of Duleek Gate](lasi20)  
-[Conclusion of the White Horse of the Peppers](lasi21)  
-[The Curse of Kishogue](lasi22)  
-[The Fairy Finder](lasi23)  
+<span id="contents"></span> [Title Page](lasi00.md)  
+[Preface](lasi01.md)  
+[Glossary](lasi02.md)  
+[King O'Toole and St Kevin](lasi03.md)  
+[Lough Corrib](lasi04.md)  
+[A Legend of Lough Mask](lasi05.md)  
+[The White Trout](lasi06.md)  
+[The Battle of the Berrins; or, the Double Funeral](lasi07.md)  
+[Father Roach](lasi08.md)  
+[The Priest's Story](lasi09.md)  
+[The King and the Bishop](lasi10.md)  
+[Jimmy the Fool](lasi11.md)  
+[The Catastrophe](lasi12.md)  
+[The Devil's Mill](lasi13.md)  
+[The Gridiron; or Paddy Mullowney's Travels in France](lasi14.md)  
+[Paddy the Piper](lasi15.md)  
+[The Priest's Ghost](lasi16.md)  
+[New Potatoes](lasi17.md)  
+[Paddy the Sport](lasi18.md)  
+[The White Horse of the Peppers](lasi19.md)  
+[The Legend of the Little Weaver of Duleek Gate](lasi20.md)  
+[Conclusion of the White Horse of the Peppers](lasi21.md)  
+[The Curse of Kishogue](lasi22.md)  
+[The Fairy Finder](lasi23.md)  

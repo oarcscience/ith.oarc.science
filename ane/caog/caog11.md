@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog10)  [Next](caog12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog10)  [Next](caog12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -617,6 +617,6 @@ terrible deity of the scourge, that he might sheathe his sword of anger.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Babylonian Fables](caog12)
+[Next: Chapter IX. Babylonian Fables](caog12.md)
 
 </div>

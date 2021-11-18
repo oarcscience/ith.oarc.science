@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl000)  [Next](cohl002) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl000)  [Next](cohl002.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Handsome Lake's Religion](cohl002)
+[Next: Handsome Lake's Religion](cohl002.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms19)  [Next](jms21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms19)  [Next](jms21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -33,17 +33,17 @@ gems; and there are some interesting differences which illustrate the
 different environments (Spain and Germany) in which they were composed.
 
 <span id="img_26500"></span> <span align="CENTER"> [![](tn/26500.jpg)  
-Click to enlarge](img/26500.jpg)</span>
+Click to enlarge](img/26500.jpg.md)</span>
 
 <span id="page_266">p. 266</span>
 
 <span id="img_26600"></span> <span align="CENTER"> [![](tn/26600.jpg)  
-Click to enlarge](img/26600.jpg)</span>
+Click to enlarge](img/26600.jpg.md)</span>
 
 <span id="page_267">p. 267</span>
 
 <span id="img_26700"></span> <span align="CENTER"> [![](tn/26700.jpg)  
-Click to enlarge](img/26700.jpg)</span>
+Click to enlarge](img/26700.jpg.md)</span>
 
 #### NOTES TO APPENDIX II
 
@@ -54,7 +54,7 @@ which is lacking here.
 
 3\. Gen. 30:14.
 
-4\. See [p. 182](jms14.htm#page_182) above. From here to the end of the
+4\. See [p. 182](jms14.htm#page_182.md) above. From here to the end of the
 paragraph not in Baḥya.
 
 5\. *Fels*, mhd. *vels*, *velsch;* cf. Grimm, Deutsches Wörterbuch, s.
@@ -159,4 +159,4 @@ Baḥya: ‏אוניקלי‎.
 
 ------------------------------------------------------------------------
 
-[Next: Abbreviations and Hebrew Titles](jms21)
+[Next: Abbreviations and Hebrew Titles](jms21.md)

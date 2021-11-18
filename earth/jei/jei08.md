@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei07)  [Next](jei09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei07)  [Next](jei09.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ published in two volumes upon his return. An open polar sea was one of
 the subjects of search of the expedition.
 
 From the time the party reached the polar regions Dr. Kane was
-astonished by the unexpected [phenomena](errata.htm#34) met with. Where
+astonished by the unexpected [phenomena](errata.htm#34.md) met with. Where
 the climate was expected to grow colder--as they approached the pole--it
 grew warmer. At that same latitude of 80 degrees, of which we have seen
 Barrington's records, Kane found indications of "north water all the
@@ -101,7 +101,7 @@ parties, had shown that an unbroken surface of ice covered the entire
 sea to the east, west, and south. From the southernmost ice, seen by Dr.
 Hayes only a few weeks before, to the region of this mysterious water,
 was, as the crow flies, one hundred and six miles. But for the unusual
-sight of birds and the [unmistakable](errata.htm#35) giving way of the
+sight of birds and the [unmistakable](errata.htm#35.md) giving way of the
 ice beneath them, they would not have believed in the evidence of
 eyesight. Neither Hans nor Morton was prepared for it.
 
@@ -286,7 +286,7 @@ coast around Cape Isabell and that made by Captain Inglefield:
 coast and Captain Inglefield's refers itself naturally to the differing
 circumstances under which the two were framed. The sluggishness of the
 compass and the eccentricities of refraction in the Arctic seas, are
-well fitted to [embarrass](errata.htm#36) and mislead a navigator. . .
+well fitted to [embarrass](errata.htm#36.md) and mislead a navigator. . .
 ."
 
 It is interesting, too, to see that, in a note subsequently appended to
@@ -553,7 +553,7 @@ standing upon land far beyond the limits of previous observations, the
 reflections which crossed my mind respecting the vast ocean which lay
 spread out before me, the thought that these ice-girdled waters might
 lash the shores of distant islands where dwell human beings of an
-unknown race, were [circumstances](errata.htm#37) calculated to invest
+unknown race, were [circumstances](errata.htm#37.md) calculated to invest
 the very air with mystery, to deepen the curiosity, and to strengthen
 the resolution to persevere in my determination to sail upon this sea
 and to explore its furthest limits; and as I recalled the struggles
@@ -690,7 +690,7 @@ One of the most interesting of these closing observations of Hayes,
 however, deals with the Eskimo. An Eskimo to whom he spoke before his
 dash for the polar circle told him that he would find the tribesmen as
 far north as he could go. Dr. Hayes did find traces of them "up to the
-very face of Humboldt [glacier](errata.htm#38)" and as far north as
+very face of Humboldt [glacier](errata.htm#38.md)" and as far north as
 Cairn Point. Dr. Hayes goes on to say:
 
 <span id="page_135">p. 135</span>
@@ -716,7 +716,7 @@ That musk-ox is not the only animal to be found where we should hardly
 expect it is evident from another entry in Hayes' diary. When he was in
 latitude 78 degrees, 17 minutes, early in July, he says "I secured a
 yellow-winged butterfly, and--who would believe it--a mosquito. And
-these I add to an [entomological](errata.htm#39) collection which
+these I add to an [entomological](errata.htm#39.md) collection which
 already numbers
 
 <span id="page_137">p. 137</span>
@@ -731,4 +731,4 @@ that pole which does not exist.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Greely's Explorations](jei09)
+[Next: Chapter VI. Greely's Explorations](jei09.md)

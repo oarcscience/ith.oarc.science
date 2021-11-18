@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod08)  [Next](ebod10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod08)  [Next](ebod10.md) 
 
 ------------------------------------------------------------------------
 
@@ -1212,4 +1212,4 @@ applied to the construction of the Coptic Hell.
 ------------------------------------------------------------------------
 
 [Next: The Principal Geographical And Mythological Places In The Book Of
-The Dead.](ebod10)
+The Dead.](ebod10.md)

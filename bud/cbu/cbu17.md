@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu16)  [Next](cbu18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu16)  [Next](cbu18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -71,7 +71,7 @@ million one hundred and twenty thousand miles high, and whose depth in
 the sea is equally great. It is composed of gold on its east side, of
 "lapis-lazuli" (*lieu-li*, spelt in full, according to the old
 pronunciation, *be-lu-li* and *be-du-li;* in Sanscrit, *vaiduria* <span
-id="fr_104"></span>[1](#fn_104)) on the south, of "crystal" (*p‘o-li*,
+id="fr_104"></span>[1](#fn_104).md) on the south, of "crystal" (*p‘o-li*,
 "glass;" in Sanscrit, *sp‘atika*) on the north, and silver on the west.
 
 Travelling south from Jambudvipa across the Southern
@@ -79,7 +79,7 @@ Travelling south from Jambudvipa across the Southern
 <span id="page_223">p. 223</span>
 
 ocean, there are three hundred and sixty thousand six hundred and
-sixty-three "yojanas" <span id="fr_105"></span>[1](#fn_105) (*yeu-siün*)
+sixty-three "yojanas" <span id="fr_105"></span>[1](#fn_105) (*yeu-siün*.md)
 to the circular mountain mass of iron. This mountain's depth in the sea
 is three hundred and twelve yojanas, and its height about the same. Its
 circumference is three million six hundred and ten thousand three
@@ -255,7 +255,7 @@ more extensive cosmogony, which deserves a separate consideration.
 
 ### Footnotes
 
-<span id="fn_104"></span>[222:1](cbu17.htm#fr_104) The *d* and *t* in
+<span id="fn_104"></span>[222:1](cbu17.htm#fr_104.md) The *d* and *t* in
 these two Sanscrit words are the cerebral *d* and *t*, usually printed
 with a dot under them. They approach the sound of *l*. The Buddhist
 dictionary, *Yi-ts‘ie-king-yin-i*, says, that the word *p’o-li* is in
@@ -264,7 +264,7 @@ Roman empire has glass of five colours," *ta-ts‘in-yeu-wu-se-p‘o-li*. In
 Buddhist books it means "rock crystal." Why the aspirate is not
 preserved in the common colloquial term *po-li* "glass," is not clear.
 
-<span id="fn_105"></span>[223:1](cbu17.htm#fr_105) There are two kinds
+<span id="fn_105"></span>[223:1](cbu17.htm#fr_105.md) There are two kinds
 of *yojana*. One consists of four *goshalas*, the other of eight. A
 *goshala* is the distance at which the bellowing of a bull can be heard,
 or nearly two miles.
@@ -272,4 +272,4 @@ or nearly two miles.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. The Extended Universe of the Northern
-Buddhists](cbu18)
+Buddhists](cbu18.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm05)  [Next](rrm07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm05)  [Next](rrm07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -217,4 +217,4 @@ and fifty years (Second edition of N. Bailey's Φιλόλογος, 1731).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Ever-Burning Lamps](rrm07)
+[Next: Chapter III. Ever-Burning Lamps](rrm07.md)

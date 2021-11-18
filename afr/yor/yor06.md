@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](yor05)  [Next](yor07) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](yor05)  [Next](yor07.md) 
 
 ------------------------------------------------------------------------
 
@@ -385,4 +385,4 @@ the arts derived therefrom, would depart from him.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI: Egungun, Oro, Abiku, and Various
-Superstitions.](yor07)
+Superstitions.](yor07.md)

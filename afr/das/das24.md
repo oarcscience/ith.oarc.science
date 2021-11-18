@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das23)  [Next](das25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das23)  [Next](das25.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ beliefs of their forefathers. Once they had realized the object of our
 conversation, they talked freely and graciously, and several were
 outstanding for their keen comprehension.
 
-We went to see Catherine Wing, <span id="fr_149"></span>[1](#fn_149) who
+We went to see Catherine Wing, <span id="fr_149"></span>[1](#fn_149.md) who
 lives at the corner of the Harrington Road and the main Frederica
 Highway. Her comfortable frame house was set in the midst of a flower
 garden and her washtubs were conveniently placed under a
@@ -56,21 +56,21 @@ change, lak wen we hab a fewnul duh unduhtakuh come an git duh body an
 dey dohn lak yuh tuh hab no settin-up. In duh ole days we would sing an
 make prayuh all night an dey would come an measure duh body wid a string
 tuh make duh coffin tuh bury em in. Dey use tuh alluz sen yuh home tuh
-bury [1](das26.htm#xref_1) ef dey could git duh money but dey ain eben
+bury [1](das26.htm#xref_1.md) ef dey could git duh money but dey ain eben
 alluz do dat no mo. Dey nebuh use tuh bury no strainjuhs in duh
-buryin [3](das26.htm#xref_3) groun but heah dat am kep strick needuh."
+buryin [3](das26.htm#xref_3.md) groun but heah dat am kep strick needuh."
 
 We asked about the dances and festivals of her youth.
 
-"We use tuh hab big times duh fus hahves, [38](das26.htm#xref_38) an duh
+"We use tuh hab big times duh fus hahves, [38](das26.htm#xref_38.md) an duh
 fus ting wut growed we take tuh duh chuch so as ebrybody could hab a
 piece ub it. We pray obuh it an shout. Wen we hab a dance, we use tuh
 shout in a ring. We ain hab wut yuh call a propuh dance tuhday.
 
-"One uh duh dances wuz call duh Buzzud Lope. [17](das26.htm#xref_17) Its
+"One uh duh dances wuz call duh Buzzud Lope. [17](das26.htm#xref_17.md) Its
 a long time sence we done it, but I still membuh it. We ain hab much
 music in doze days but dey use a drum tuh call duh people tuhgedduh wen
-dey gonuh hab games aw meetin. [26](das26.htm#xref_26) It sho bin a long
+dey gonuh hab games aw meetin. [26](das26.htm#xref_26.md) It sho bin a long
 time sence I tought bout dem days."
 
 Catherine told us that Ryna Johnson, who lived about a mile down the
@@ -107,7 +107,7 @@ center and a lean-to in the back. The walls were papered with newspapers
 and, although there was a motley collection of objects and furniture,
 everything was scrupulously clean.
 
-Ryna <span id="fr_150"></span>[1](#fn_150) was blind from cataracts and
+Ryna <span id="fr_150"></span>[1](#fn_150.md) was blind from cataracts and
 had not been feeling very well; so she had just got up from bed.
 Although her body was bent and very feeble, her mind was still clear.
 
@@ -140,25 +140,25 @@ membuh. Ef uh study bout em, maybe I kin membuh some mo."
 We wanted a description of William, the African.
 
 "William a good size man, heaby set. He hab two leedle line mahk on he
-right cheek." [14](das26.htm#xref_14)
+right cheek." [14](das26.htm#xref_14.md)
 
 Ryna mused: "Tings is sho change. Wen we is young, we use tuh hab big
 frolic an dance in a ring an shout tuh drum. Sometime we hab rattle made
 out uh dry goad an we rattle em an make good
-music." [23](das26.htm#xref_23),  [25](das26.htm#xref_25)
+music." [23](das26.htm#xref_23),  [25](das26.htm#xref_25.md)
 
 We wondered if she, too, remembered the Buzzard Lope and she assured us,
-"Yes'm, sho I knows it. Ebrybody knows it." [17](das26.htm#xref_17)
+"Yes'm, sho I knows it. Ebrybody knows it." [17](das26.htm#xref_17.md)
 
 Shortly afterward the conversation turned to conjure and the old woman
 told us, "I sho heah plenty bout da ting. Way back we hab plenty
-discussion bout root makuhs. [22](das26.htm#xref_22),
- [48](das26.htm#xref_48) I membuh my huzbun Hillard Johnson speak bout a
+discussion bout root makuhs. [22](das26.htm#xref_22.md),
+ [48](das26.htm#xref_48.md) I membuh my huzbun Hillard Johnson speak bout a
 root makuh in Darien wut make duh pot bile widout fyuh. My huzbun he
 frum Sapelo. He could tell yuh bout sech tings ef he wuz libin."
 
 A short distance away lived Charles Hunter, <span
-id="fr_151"></span>[1](#fn_151) whose small board house was set well
+id="fr_151"></span>[1](#fn_151.md) whose small board house was set well
 back from the road. The front yard enclosed by a wire fence was planted
 with a profusion of brightly colored flowers along the sandy walk
 leading to the house. Across the road to the left was a field which had
@@ -169,7 +169,7 @@ small-featured, talked to us about his people.
 
 "Dey is long libin people," he began. "Muh fathuh lib until he a hundud
 an muh mothuh wuz ninety wen she die Muh gran, she name Louise an come
-from Bahama Ilun. <span id="fr_152"></span>[2](#fn_152) She lib tuh
+from Bahama Ilun. <span id="fr_152"></span>[2](#fn_152.md) She lib tuh
 hundud an fifteen. Das duh way dey do an I guess I'll do duh same."
 
 Did the people around Harrington believe in the old customs
@@ -186,20 +186,20 @@ In the course of our talk he told us that the river baptisms were held
 by members of the local churches. "Yes'm, we still baptize in duh
 ribbuh," Charles said. "We hab one not long ago. We hab tuh wait till a
 Sunday wen a ebb tide come at a good time, cuz; it duh ebb tide wut
-carry yuh sin away." [63](das26.htm#xref_63)
+carry yuh sin away." [63](das26.htm#xref_63.md)
 
 Charles confirmed what the other residents had told us regarding
 conjure.
 
 "Well, dey's some belieb in cunjuh an some wut dohn. Dey's lots wut say
 sickness ain natchul an somebody put sumpm down fuh
-yuh. [15](das26.htm#xref_15) I ain belieb in it much muhsef but dey's
+yuh. [15](das26.htm#xref_15.md) I ain belieb in it much muhsef but dey's
 curious tings happen. Now, wen I wuz a boy deah's a root makuh wut lib
 yuh name Alexanduh. He wuz African an he say he kin do any kine uh
 cunjuh wut kin be done an he kin cuo any kine uh
-disease. [48](das26.htm#xref_48) He wuz a small man, slim an bery black.
-Alexanduh say he could fly. [68b](das26.htm#xref_68b),
- [69c](das26.htm#xref_69c) He say all his fambly in Africa could fly. I
+disease. [48](das26.htm#xref_48.md) He wuz a small man, slim an bery black.
+Alexanduh say he could fly. [68b](das26.htm#xref_68b.md),
+ [69c](das26.htm#xref_69c.md) He say all his fambly in Africa could fly. I
 ain seen em fly muhsef but he say he could do it all right. We's sked ub
 im wen we's boys an use tuh run wen we see im come."
 
@@ -232,7 +232,7 @@ his mule and plow and came over to the car. He was tall, as straight as
 a soldier, with a lean agility that bespoke youthfulness. Over his long
 jaws and rather straight features his copper skin was smooth.
 
-"Ise Ben Sullivan," <span id="fr_153"></span>[1](#fn_153) he said, and
+"Ise Ben Sullivan," <span id="fr_153"></span>[1](#fn_153.md) he said, and
 we were puzzled.
 
 "But," we said, "the Ben Sullivan we are looking for is an old man."
@@ -282,7 +282,7 @@ Asked if he remembered any other Africans who tied their heads up, the
 old man told us, "I membuh a ole uhmun name Daphne. He didn tie he head
 up lak ole man Israel. He weah loose wite veil on he head. He waz
 shahp-feechuh too an fight uh complexion. He weah one ring in he eah fuh
-he eyes. [27](das26.htm#xref_27) I hab refrence to it bein some kine uh
+he eyes. [27](das26.htm#xref_27.md) I hab refrence to it bein some kine uh
 pruhtection tuh he eyes. Wen he pray, he bow two aw tree times in duh
 middle uh duh prayuh."
 
@@ -290,17 +290,17 @@ We asked about the music they used to have and what they used for
 dancing in the old days.
 
 "We ain dance den duh way dey dances now. We dance roun in a succle an
-den we dances fuh prayin. [19a](das26.htm#xref_19a) I membuhs we use tuh
+den we dances fuh prayin. [19a](das26.htm#xref_19a.md) I membuhs we use tuh
 hab drums fuh music an we beat duh drum fuh
-dances. [23](das26.htm#xref_23)
+dances. [23](das26.htm#xref_23.md)
 
 "Now, ole man Dembo he use tuh beat duh drum tuh duh
-fewnul, [24](das26.htm#xref_24) but Mr. Couper he stop dat. He say he
+fewnul, [24](das26.htm#xref_24.md) but Mr. Couper he stop dat. He say he
 dohn wahn drums beatin roun duh dead. But I watch em hab a fewnul. I
 gits behine duh bush an hide an watch an see wut dey does. Dey go in a
 long pruhcession tuh duh buryin groun an dey beat duh drums long duh way
 an dey submit duh body tuh duh groun. Den dey dance roun in a ring an
-dey motion wid duh hans. [18](das26.htm#xref_18) Dey sing duh body tuh
+dey motion wid duh hans. [18](das26.htm#xref_18.md) Dey sing duh body tuh
 duh grabe an den dey let it down an den dey succle roun in duh dance.
 
 "Dey ain hab no chuch in doze days an wen dey wannuh pray, dey git
@@ -314,9 +314,9 @@ ain do dat, dey git nine an tutty.
 
 dey hadduh remarry. Dey hab big baptizin in duh ribbuh lak dey do tuhday
 an dey dip em on duh ebb tuh wash duh sins away an duh preachuh he make
-a great prayuh tuh duh ribbuh. [63](das26.htm#xref_63)
+a great prayuh tuh duh ribbuh. [63](das26.htm#xref_63.md)
 
-"Ole man Okra he a great un fuh buil drum. [25](das26.htm#xref_25) He
+"Ole man Okra he a great un fuh buil drum. [25](das26.htm#xref_25.md) He
 take a calf skin an tan it and make duh side uh maple, Ise pretty sho it
 wuz maple. He stretch em obuh it good. It wuz bout eighteen inches wide
 an fifteen inches deep wen he finish it. He beat it wid a stick. Ole man
@@ -380,14 +380,14 @@ The flying story about old Alexander, the root maker, had interested us
 and we asked if Ben Sullivan had heard of it.
 
 "I ain heahd specially bout him but Ise heahd plenty Africans talk bout
-flyin. Deah's plenty ub em wut could fly. [68c](das26.htm#xref_68c),
- [69b](das26.htm#xref_69b) I sho heahd em talk bout great doins an Ise
+flyin. Deah's plenty ub em wut could fly. [68c](das26.htm#xref_68c.md),
+ [69b](das26.htm#xref_69b.md) I sho heahd em talk bout great doins an Ise
 heahd ole Israel say duh hoe could wuk by itsef ef yuh know wut tuh say
-tuh it. [39](das26.htm#xref_39) It bin a long time sence Ise tought bout
+tuh it. [39](das26.htm#xref_39.md) It bin a long time sence Ise tought bout
 tings lak dat, but ef uh studies bout em, dey comes back tuh me."
 
 On the way back from Harrington to St. Simons village we stopped at Nora
-Peterson's <span id="fr_154"></span>[1](#fn_154) small cabin to talk
+Peterson's <span id="fr_154"></span>[1](#fn_154.md) small cabin to talk
 with her. Nora, the daughter of Tom Floyd, an African who came to this
 country on the *Wanderer* in 1858, is a nice looking, middle-aged woman,
 pleasant and up to date. She told us about her father.
@@ -410,7 +410,7 @@ yeah ole wen he died. Muh mothuh wuz Charity Lewis an uh got one
 brothuh, Caesar Prince, but he's younguh dan me an dohn membuh nothin."
 
 From Nora's we went to the old tabby slave house of Floyd White <span
-id="fr_155"></span>[1](#fn_155) who was related to her. Floyd was of
+id="fr_155"></span>[1](#fn_155.md) who was related to her. Floyd was of
 middle height, black, and of a powerful build. When we were uncertain
 and groping as to the right questions to ask, Floyd was clear and
 helpful.
@@ -420,7 +420,7 @@ Nora an I membuh ole Tom Floyd well. I bout fifteen wen he die. He waz
 shawt an tick set. I tinks he wuz Ibo. He used tuh whoop an holluh. He
 say dey do da way in Africa. He wuz doctuh too an he could cut yuh wid a
 knife an cop yuh. I wish he wuz yuh right now tuh cop me. I sho needs it
-an it make yuh feel lots bettuh. [48](das26.htm#xref_48) I heah him talk
+an it make yuh feel lots bettuh. [48](das26.htm#xref_48.md) I heah him talk
 plenty bout Africa but I caahn membuh so much ub it cuz uh wuz young boy
 den. He say he lib in a hut on a ribbuh an dey eat coconut an bread wut
 grow on a tree. Dey plant yam ebry seben yeah an dey dohn hadduh wuk it.
@@ -431,7 +431,7 @@ trap em on a boat wid a red flag."
 
 Old Tom Floyd was not the only root doctor Floyd could remember. There
 were many others, he said, some still living and plying their
-trade. [48](das26.htm#xref_48)
+trade. [48](das26.htm#xref_48.md)
 
 "I knows a root makuh now," he told us. "Uncle Quawt, he root makuh.
 Does yuh know him?"
@@ -440,7 +440,7 @@ We replied that we had known Quarterman for some but that he had never
 told us he could work roots.
 
 "Maybe he ain tell yuh but he kin wuk em all
-right. [48](das26.htm#xref_48) He kin put a cunjuh on wid a goofa bag as
+right. [48](das26.htm#xref_48.md) He kin put a cunjuh on wid a goofa bag as
 good as anybody.
 
 <span id="page_175">p. 175</span>
@@ -463,14 +463,14 @@ Pleasant memories associated with the social activities of the past
 caused Floyd to ponder abstractedly for a time. Finally he roused
 himself and told us, "We use tuh dance roun tuh a drum an a rattle goad.
 Dey could make good drum frum hawg an bass drum frum
-cow. [25](das26.htm#xref_25) Doze days dey ain only beat duh drum fuh
+cow. [25](das26.htm#xref_25.md) Doze days dey ain only beat duh drum fuh
 dancin; dey beat it on duh way tuh duh grabe
-yahd. [24](das26.htm#xref_24) Dat wuz fuh duh det mahch wen dey use tuh
+yahd. [24](das26.htm#xref_24.md) Dat wuz fuh duh det mahch wen dey use tuh
 carry duh body in a wagon. Dey hab lot uh singin den too an dey hab
 singin at duh baptizin. Den dey baptize em in duh ribbuh jis lak dey
 does now. Dey sing wid all duh candidates walkin in wite robes tuh duh
 ribbuh an duh preachuh he dip em on duh ebb tide an he pray duh ribbuh
-tuh take duh sin away. [63](das26.htm#xref_63) Dey ain mine gittin wet
+tuh take duh sin away. [63](das26.htm#xref_63.md) Dey ain mine gittin wet
 in duh ribbuh.
 
 "Heahd bout duh Ibo's Landing? Das duh place weah dey bring duh Ibos
@@ -482,33 +482,33 @@ Africa, but dey ain able tuh git deah. Dey gits drown."
 
 ### Footnotes
 
-<span id="fn_149"></span>[165:1](das24.htm#fr_149) Catherine Wing, St.
+<span id="fn_149"></span>[165:1](das24.htm#fr_149.md) Catherine Wing, St.
 Simons Island.
 
-<span id="fn_150"></span>[167:1](das24.htm#fr_150) Ryna Johnson,
+<span id="fn_150"></span>[167:1](das24.htm#fr_150.md) Ryna Johnson,
 Harrington, St. Simons Island.
 
-<span id="fn_151"></span>[168:1](das24.htm#fr_151) Charles Hunter,
+<span id="fn_151"></span>[168:1](das24.htm#fr_151.md) Charles Hunter,
 Harrington, St. Simons Island.
 
-<span id="fn_152"></span>[168:2](das24.htm#fr_152) A number of slaves
+<span id="fn_152"></span>[168:2](das24.htm#fr_152.md) A number of slaves
 accompanied their masters from the West Indies to this country. It was
 also the custom for slave ships to stop at the Bahamas en route to
 America with a cargo.
 
-<span id="fn_153"></span>[170:1](das24.htm#fr_153) Ben Sullivan, St.
+<span id="fn_153"></span>[170:1](das24.htm#fr_153.md) Ben Sullivan, St.
 Simons Island.
 
-<span id="fn_154"></span>[173:1](das24.htm#fr_154) Nora Peterson, St.
+<span id="fn_154"></span>[173:1](das24.htm#fr_154.md) Nora Peterson, St.
 Simons Island.
 
-<span id="fn_155"></span>[174:1](das24.htm#fr_155) Floyd White, St.
+<span id="fn_155"></span>[174:1](das24.htm#fr_155.md) Floyd White, St.
 Simons Island.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: St. Marys](das25)
+[Next: St. Marys](das25.md)
 
 </div>

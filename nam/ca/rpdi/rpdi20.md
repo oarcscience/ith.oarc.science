@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi19)  [Next](rpdi21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi19)  [Next](rpdi21.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ becomes almost a religious observance.
 
 <span id="img_fig03"></span> <span align="CENTER"> [![Figure 3.Diegueño
 women's dice from Campo. Mus. No. 1-14483.](tn/fig03.jpg)  
-Click to enlarge](img/fig03.jpg)  
+Click to enlarge](img/fig03.jpg.md)  
 Figure 3.—Diegueño women's dice from Campo. Mus. No. 1-14483.  
 </span>
 
@@ -28,19 +28,19 @@ Figure 3.—Diegueño women's dice from Campo. Mus. No. 1-14483.
 <span class="contnote">\[paragraph continues\]</span> The Diegueño play
 at the present time several gambling games. Some of these have been
 introduced by the Mexicans and Americans. A four-dice game ([fig.
-3](#img_fig03)) is said to have been learned from the Mohave. The large,
+3](#img_fig03).md) is said to have been learned from the Mohave. The large,
 flat wooden "dice "with which it is played are found only among the
 southern Diegueño, who are nearest the influence of the Mohave and other
 eastern tribes of the Yuman family. A gambling game with stick and hoop,
 in which the player tries to throw the stick through the hoop while
 rolling, is mentioned in Diegueño mythology. <span
-id="fr_137"></span>[123](#fn_135) This game is no longer played. There
+id="fr_137"></span>[123](#fn_135.md) This game is no longer played. There
 is a game played by the Diegueño at the present day, however, which is
 believed by them to be of ancient origin. This game, called "peon," in
 Diegueño homa<span class="it">r</span>p, is mentioned in the Chaup
-myth. <span id="fr_138"></span>[124](#fn_136) It is the only game among
+myth. <span id="fr_138"></span>[124](#fn_136.md) It is the only game among
 the Diegueño which is played ceremonially. <span
-id="fr_139"></span>[124a](#fn_137)
+id="fr_139"></span>[124a](#fn_137.md)
 
 The game is played by two sides of four players each. Each individual is
 provided with two small cylindrical objects of bone or wood, similar
@@ -123,7 +123,7 @@ following:
 
 |     |                                                          |
 |-----|----------------------------------------------------------|
-| 1\. | tcītcīnai yūwinī <span id="fr_140"></span>[125](#fn_138) |
+| 1\. | tcītcīnai yūwinī <span id="fr_140"></span>[125](#fn_138.md) |
 |     | tcītcīnai yūwana                                         |
 |     | hya-a yūwinī                                             |
 |     | hya-a yūwana                                             |
@@ -131,7 +131,7 @@ following:
 | 2\. | hakē waiyūma                                             |
 |     | hat<span class="it">r</span>a lemē wiyōna                |
 |     |                                                          |
-| 3\. | haōko melume <span id="fr_141"></span>[126](#fn_139)     |
+| 3\. | haōko melume <span id="fr_141"></span>[126](#fn_139.md)     |
 |     | hakō melume                                              |
 |     | haēwila mēnēwila                                         |
 |     | melume                                                   |
@@ -151,21 +151,21 @@ little," making them "give up the peons" quickly. Black spiders
 
 ### Footnotes
 
-<span id="fn_135"></span>[330:123](rpdi20.htm#fr_137) Journ. Am.
+<span id="fn_135"></span>[330:123](rpdi20.htm#fr_137.md) Journ. Am.
 Folk-Lore, XIX, 157, 1906.
 
-<span id="fn_136"></span>[330:124](rpdi20.htm#fr_138) *Ibid*., XVII,
+<span id="fn_136"></span>[330:124](rpdi20.htm#fr_138.md) *Ibid*., XVII,
 239, 1904.
 
-<span id="fn_137"></span>[330:124a](rpdi20.htm#fr_139) For an account of
+<span id="fn_137"></span>[330:124a](rpdi20.htm#fr_139.md) For an account of
 this game, see Stewart Culin, "Games of the North American Indians,"
 Ann. Rep. Bur. Am. Ethn., XXIV, 323-325.
 
-<span id="fn_138"></span>[332:125](rpdi20.htm#fr_140) University of
+<span id="fn_138"></span>[332:125](rpdi20.htm#fr_140.md) University of
 California phonograph record 701.
 
-<span id="fn_139"></span>[332:126](rpdi20.htm#fr_141) *Ibid*., 702.
+<span id="fn_139"></span>[332:126](rpdi20.htm#fr_141.md) *Ibid*., 702.
 
 ------------------------------------------------------------------------
 
-[Next: Colors and Direction](rpdi21)
+[Next: Colors and Direction](rpdi21.md)

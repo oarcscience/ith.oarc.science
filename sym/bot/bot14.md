@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot13) 
-[Next](bot15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot13.md) 
+[Next](bot15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -39,14 +39,14 @@ Angels—The Agla—Dr. Dee.</span>
 class="smallcaps">Agnus Dei</span> came into use after the Christian
 religion had become general; and it is in use at the present day. It
 consists of a Lamb carrying a flag and cross, as in Illustration No.
-129, [Plate IX](bot13.htm#img_pl09), with the motto "Ecce Agnus Dei"
+129, [Plate IX](bot13.htm#img_pl09.md), with the motto "Ecce Agnus Dei"
 (Behold the Lamb of God). It was made not only in various metals, but in
 wax, and is believed to possess the virtue of preserving its wearers
 from the danger of accidents, tempests, and pestilence.
 
 <span class="smallcaps">The Coventry Ring</span> is another good example
 of a religious Talisman of the fifteenth century, and is illustrated by
-No. 128, [Plate IX](bot13.htm#img_pl09). The outside is engraved with a
+No. 128, [Plate IX](bot13.htm#img_pl09.md). The outside is engraved with a
 scene representing Our Lord rising from the tomb, with the five wounds
 arranged on either side, and the following inscriptions:
 
@@ -88,14 +88,14 @@ epilepsy,
 <span id="page_109">p. 109</span>
 
 and intoxication, particularly when associated with the Tau Cross, as in
-Illustration No. 133, [Plate X](bot15.htm#img_pl10).
+Illustration No. 133, [Plate X](bot15.htm#img_pl10.md).
 
 <span class="smallcaps">The Cross of St. Benedict</span> was another
 popular charm, worn as a protection against disease and dangers. Each
 letter stands for a word, the four letters in the angles of the Cross,
 making the first line, then the upright of the Cross, next the
 horizontal bar, finally the lettering round the outside, as in
-Illustration No. 130, [Plate IX](bot13.htm#img_pl09).
+Illustration No. 130, [Plate IX](bot13.htm#img_pl09.md).
 
 The following is the Latin text and its translation:
 
@@ -121,7 +121,7 @@ The following is the Latin text and its translation:
 
 <span id="page_110">p. 110</span>
 
-The Ring illustrated on [Plate X](bot15.htm#img_pl10), No. 132, is
+The Ring illustrated on [Plate X](bot15.htm#img_pl10.md), No. 132, is
 Byzantine, and was worn as an Amulet for protection against disease and
 accident, the grotesque head being against the Evil Eye; the seven
 radiating spirits symbolise the seven gifts of the Spirit—Power, Wisdom,
@@ -153,7 +153,7 @@ Moon of our Calendar would fall in Cancer, the Moon's own Zodiacal house
 in which she is exalted, or at her strongest, and when there marks a
 very auspicious time for pushing public affairs or undertaking new
 business enterprises (see Illustration No. 137, [Plate
-X](bot15.htm#img_pl10)).
+X](bot15.htm#img_pl10).md).
 
 The most famous Talisman, however, of the Middle Ages is the
 
@@ -183,7 +183,7 @@ diseases.
 
 </div>
 
-The Illustration No. 136, [Plate X](bot15.htm#img_pl10), is from an
+The Illustration No. 136, [Plate X](bot15.htm#img_pl10.md), is from an
 example in the British Museum, and the probable origin of this Talisman
 is that it is a composition of the Hebrew words
 *Ha*—*Brachab*—*Dabarah*—"Speak or pronounce the Blessing"; "Blessing"
@@ -247,7 +247,7 @@ to prove that the worshippers of old were deeply read in Occult lore.
 Eliphas Levi describes it "as the seal of the Microcosm through which
 Man can command the powers and beings of the Elements and restrain
 Elementals from evil." In Illustration No. 134, [Plate
-X](bot15.htm#img_pl10), it is shown with the symbols of the Planets and
+X](bot15.htm#img_pl10.md), it is shown with the symbols of the Planets and
 the Sacred Names of God which give it added power and efficacy.
 
 <span id="page_114">p. 114</span>
@@ -291,7 +291,7 @@ their triplicities and degrees.
 One form described as the
 
 <span class="smallcaps">Table of Jupiter</span>, which is illustrated on
-[Plate X](bot15.htm#img_pl10), Illustration No. 139, contains sixteen
+[Plate X](bot15.htm#img_pl10.md), Illustration No. 139, contains sixteen
 numbers which total up to thirty-four whichever way they are added.
 This, with the Divine names around it, is to be made in a plate of
 silver when Jupiter is strong, and was worn for riches, favour, peace,
@@ -373,12 +373,12 @@ formed from the initial letters of the words <span class="smallcaps">Ate
 Gebir Leilam Adonai</span>—"Thou art mighty for ever, O Lord"; a popular
 charm during the fourteenth century against Fever, frequently found on
 rings and brooches of this period. It was used by Dr. Dee, as
-illustrated on [Plate X](bot15.htm#img_pl10), Illustration No. 138.
+illustrated on [Plate X](bot15.htm#img_pl10.md), Illustration No. 138.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](bot15)
+[Next: Chapter XII](bot15.md)
 
 </div>

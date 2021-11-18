@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,8 +21,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](cc.txt.gz)
+[Contents](#contents)    [Start Reading](cc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](cc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -48,81 +48,81 @@ system.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cc00)  
-[Dedication from the first edition](cc01)  
-[Notice](cc02)  
+<span id="contents"></span> [Title Page](cc00.md)  
+[Dedication from the first edition](cc01.md)  
+[Notice](cc02.md)  
 [A List of Some of the Works Quoted and Referred to in This
-Volume](cc03)  
-[Table of Contents](cc04)  
+Volume](cc03.md)  
+[Table of Contents](cc04.md)  
 <span id="section_000"></span>
 
 ### Part I.
 
-[First Words](cc05)  
+[First Words](cc05.md)  
 <span id="section_001"></span>
 
 ### Part II. Evolution and Devolution
 
-[Chapter 1. To Self Consciousness](cc06)  
-[Chapter 2. On the Plane of Self Consciousness](cc07)  
-[Chapter 3. Devolution](cc08)  
-[Part III. From Self to Cosmic Consciousness](cc09)  
+[Chapter 1. To Self Consciousness](cc06.md)  
+[Chapter 2. On the Plane of Self Consciousness](cc07.md)  
+[Chapter 3. Devolution](cc08.md)  
+[Part III. From Self to Cosmic Consciousness](cc09.md)  
 <span id="section_002"></span>
 
 ### Part IV. Instances of Cosmic Consciousness
 
-[Chapter 1. Gautama the Buddha](cc10)  
-[Chapter 2. Jesus the Christ](cc11)  
-[Chapter 3. Paul](cc12)  
-[Chapter 4. Plotinus](cc13)  
-[Chapter 5. Mohammed](cc14)  
-[Chapter 6. Dante](cc15)  
-[Chapter 7. Bartolomé Las Casas](cc16)  
-[Chapter 8. John Yepes (Called St. John of the Cross)](cc17)  
-[Chapter 9. Francis Bacon](cc18)  
-[Chapter 10. Jacob Behmen](cc19)  
-[Chapter 11. William Blake](cc20)  
-[Chapter 12. Honoré de Balzac](cc21)  
-[Chapter 13. Walt Whitman](cc22)  
-[Chapter 14. Edward Carpenter](cc23)  
+[Chapter 1. Gautama the Buddha](cc10.md)  
+[Chapter 2. Jesus the Christ](cc11.md)  
+[Chapter 3. Paul](cc12.md)  
+[Chapter 4. Plotinus](cc13.md)  
+[Chapter 5. Mohammed](cc14.md)  
+[Chapter 6. Dante](cc15.md)  
+[Chapter 7. Bartolomé Las Casas](cc16.md)  
+[Chapter 8. John Yepes (Called St. John of the Cross)](cc17.md)  
+[Chapter 9. Francis Bacon](cc18.md)  
+[Chapter 10. Jacob Behmen](cc19.md)  
+[Chapter 11. William Blake](cc20.md)  
+[Chapter 12. Honoré de Balzac](cc21.md)  
+[Chapter 13. Walt Whitman](cc22.md)  
+[Chapter 14. Edward Carpenter](cc23.md)  
 <span id="section_003"></span>
 
 ### Part V. Additional
 
-[Chapter 1. The Twilight](cc24)  
-[Chapter 2. Moses](cc25)  
-[Chapter 3. Gideon, Surnamed Jerubbaal](cc26)  
-[Chapter 4. Isaiah](cc27)  
-[Chapter 5. The Case of Lî R](cc28)  
-[Chapter 6. Socrates](cc29)  
-[Chapter 7. Roger Bacon](cc30)  
-[Chapter 8. Blaise Pascal](cc31)  
-[Chapter 9. Benedict Spinoza](cc32)  
-[Chapter 10. Colonel James Gardiner](cc33)  
-[Chapter 11. Swedenborg](cc34)  
-[Chapter 12. William Wordsworth](cc35)  
-[Chapter 13. Charles G. Finney](cc36)  
-[Chapter 14. Alexander Pushkin](cc37)  
-[Chapter 15. Ralph Waldo Emerson](cc38)  
-[Chapter 16. Alfred Tennyson](cc39)  
-[Chapter 17. J. B. B.](cc40)  
-[Chapter 18. Henry David Thoreau](cc41)  
-[Chapter 19. J. B.](cc42)  
-[Chapter 20. C. P.](cc43)  
-[Chapter 21. The Case of H. B. in His Own Words](cc44)  
-[Chapter 22. R. P. S.](cc45)  
-[Chapter 23. E. T.](cc46)  
-[Chapter 24. Case of Ramakrishna Paramahansa](cc47)  
-[Chapter 25. Case of J. H. J.](cc48)  
-[Chapter 26. T. S. R.](cc49)  
-[Chapter 27. W. H. W.](cc50)  
-[Chapter 28. Richard Jefferies](cc51)  
-[Chapter 29. Case of C. M. C. in Her Own Words](cc52)  
-[Chapter 30. The Case of M. C. L. in His Own Words](cc53)  
-[Chapter 31. Case of J. W. W., Largely in His Own Words](cc54)  
-[Chapter 32. Case of J. William Lloyd, in His Own Words](cc55)  
-[Chapter 33. Horace Traubel](cc56)  
-[Chapter 34. The Case of Paul Tyner, in His Own Words](cc57)  
-[Chapter 35. The Case of C. Y. E., in Her Own Words](cc58)  
-[Chapter 36. Case of A. J. S.](cc59)  
-[Part VI. Last Words](cc60)  
+[Chapter 1. The Twilight](cc24.md)  
+[Chapter 2. Moses](cc25.md)  
+[Chapter 3. Gideon, Surnamed Jerubbaal](cc26.md)  
+[Chapter 4. Isaiah](cc27.md)  
+[Chapter 5. The Case of Lî R](cc28.md)  
+[Chapter 6. Socrates](cc29.md)  
+[Chapter 7. Roger Bacon](cc30.md)  
+[Chapter 8. Blaise Pascal](cc31.md)  
+[Chapter 9. Benedict Spinoza](cc32.md)  
+[Chapter 10. Colonel James Gardiner](cc33.md)  
+[Chapter 11. Swedenborg](cc34.md)  
+[Chapter 12. William Wordsworth](cc35.md)  
+[Chapter 13. Charles G. Finney](cc36.md)  
+[Chapter 14. Alexander Pushkin](cc37.md)  
+[Chapter 15. Ralph Waldo Emerson](cc38.md)  
+[Chapter 16. Alfred Tennyson](cc39.md)  
+[Chapter 17. J. B. B.](cc40.md)  
+[Chapter 18. Henry David Thoreau](cc41.md)  
+[Chapter 19. J. B.](cc42.md)  
+[Chapter 20. C. P.](cc43.md)  
+[Chapter 21. The Case of H. B. in His Own Words](cc44.md)  
+[Chapter 22. R. P. S.](cc45.md)  
+[Chapter 23. E. T.](cc46.md)  
+[Chapter 24. Case of Ramakrishna Paramahansa](cc47.md)  
+[Chapter 25. Case of J. H. J.](cc48.md)  
+[Chapter 26. T. S. R.](cc49.md)  
+[Chapter 27. W. H. W.](cc50.md)  
+[Chapter 28. Richard Jefferies](cc51.md)  
+[Chapter 29. Case of C. M. C. in Her Own Words](cc52.md)  
+[Chapter 30. The Case of M. C. L. in His Own Words](cc53.md)  
+[Chapter 31. Case of J. W. W., Largely in His Own Words](cc54.md)  
+[Chapter 32. Case of J. William Lloyd, in His Own Words](cc55.md)  
+[Chapter 33. Horace Traubel](cc56.md)  
+[Chapter 34. The Case of Paul Tyner, in His Own Words](cc57.md)  
+[Chapter 35. The Case of C. Y. E., in Her Own Words](cc58.md)  
+[Chapter 36. Case of A. J. S.](cc59.md)  
+[Part VI. Last Words](cc60.md)  

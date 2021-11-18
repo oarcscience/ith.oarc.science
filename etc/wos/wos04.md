@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](wos03)  [Next](wos05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](wos03)  [Next](wos05.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,11 +16,11 @@
 
 THE WORSHIP OF THE SERPENT is supposed by Bryant to have commenced in
 Chaldæa; and to have been the "first variation from the purer
-Zabaism <span id="fr_36"></span>[1](#fn_36)."
+Zabaism <span id="fr_36"></span>[1](#fn_36.md)."
 
 That it was intimately connected with Zabaism cannot be doubted; for the
 most prevailing emblem of the solar god was the SERPENT <span
-id="fr_37"></span>[2](#fn_37): and wherever the Zabæan idolatry was the
+id="fr_37"></span>[2](#fn_37.md): and wherever the Zabæan idolatry was the
 religion, the SERPENT was the sacred symbol. But the UNIVERSALITY of
 serpent-worship, and the strong traces which it has left in ASTRONOMICAL
 MYTHOLOGY, seem to attest an origin coëval with Zabaism itself.
@@ -44,7 +44,7 @@ serpent is the intention of the following treatise: and it is
 confidently expected that few ancient nations of any celebrity will be
 found which have not, at some time or other, admitted the serpent into
 their religion, either as a *symbol of divinity*, or *a charm*, or *an
-oracle*, or A GOD <span id="fr_38"></span>[1](#fn_38). Into the creed of
+oracle*, or A GOD <span id="fr_38"></span>[1](#fn_38.md). Into the creed of
 some he
 
 <span id="page_41">p. 41</span>
@@ -85,7 +85,7 @@ though it received a signal overthrow from its exposure by that prophet,
 yet the tumultuous conduct of the Babylonians on that occasion, as it
 evinces their attachment to the idolatry, warrants the inference that
 they would cling to it long after its abolition, even by a royal
-decree <span id="fr_39"></span>[1](#fn_39). But most probably Herodotus
+decree <span id="fr_39"></span>[1](#fn_39.md). But most probably Herodotus
 did not take the trouble to inquire into the superstitions of the common
 people, being content to describe what was the established religion; and
 even this he notices in a very cursory manner.
@@ -101,15 +101,15 @@ informs us, that in the temple of Bel, or Belus, was "an image of the
 goddess Rhea, sitting on a golden throne; at her knees stood two lions,
 and near her very large SERPENTS of silver, thirty talents each in
 weight." There was also an image of Juno, holding in her right hand the
-head of a SERPENT <span id="fr_40"></span>[1](#fn_40)."
+head of a SERPENT <span id="fr_40"></span>[1](#fn_40.md)."
 
 The name of the national god BEL is *supposed* to signify nothing more
 than "Lord;" and was also sometimes appropriated to deified heroes <span
-id="fr_41"></span>[2](#fn_41). It is more probably an abbreviation of
-OB-EL <span id="fr_42"></span>[3](#fn_42),--"*The Serpent-god*." The
+id="fr_41"></span>[2](#fn_41.md). It is more probably an abbreviation of
+OB-EL <span id="fr_42"></span>[3](#fn_42.md),--"*The Serpent-god*." The
 Greeks, remarks Bryant, called him BELIAR, which is singularly
 interpreted by Hesychius to signify a DRAGON, or GREAT SERPENT <span
-id="fr_43"></span>[4](#fn_43). From which we may conclude
+id="fr_43"></span>[4](#fn_43.md). From which we may conclude
 
 <span id="page_44">p. 44</span>
 
@@ -120,8 +120,8 @@ are synonymous,) was something more than a mere symbol: we must
 conclude, that LIVE SERPENTS were kept at Babylon as objects of
 adoration; or, *at least*, of veneration, as oracular or talismanic.
 This custom was observed at Thebes in Egypt <span
-id="fr_44"></span>[1](#fn_44), and at Athens <span
-id="fr_45"></span>[2](#fn_45); and therefore there is nothing incredible
+id="fr_44"></span>[1](#fn_44.md), and at Athens <span
+id="fr_45"></span>[2](#fn_45.md); and therefore there is nothing incredible
 in the fact at Babylon. However suspiciously then we may regard the
 apocryphal writings in general, we are constrained to admit that the
 author of "Bel and the Dragon," though he may have embellished the
@@ -137,7 +137,7 @@ thou canst not say he is no LIVING GOD: therefore WORSHIP HIM.'"
 
 From the Chaldæans, we are told, that the Hebrews obtained the word
 ABADON, as a title of the "Prince of Darkness." This word may signify
-THE SERPENT-LORD." Heinsius <span id="fr_46"></span>[1](#fn_46) (cited
+THE SERPENT-LORD." Heinsius <span id="fr_46"></span>[1](#fn_46.md) (cited
 by Bryant) makes Abadon to be the same as the Grecian Python. "It is not
 to be doubted that the Pythian Apollo is that evil spirit whom the
 Hebrews call OB and ABADON; the Hellenists, APOLLYON; and the other
@@ -145,14 +145,14 @@ Greeks, APOLLO. This is corroborated by the testimony of St. John, who
 says, "They had a king over them which is the angel of the bottomless
 pit, whose name in the Hebrew tongue is Abadon; but in the Greek
 (Hellenistic) tongue hath his name Apollyon <span
-id="fr_47"></span>[2](#fn_47)." This same angel of the bottomless pit,"
+id="fr_47"></span>[2](#fn_47.md)." This same angel of the bottomless pit,"
 is in another place called by the Evangelist, "*the dragon, that old
 serpent which is the Devil and Satan* <span
-id="fr_48"></span>[3](#fn_48)."
+id="fr_48"></span>[3](#fn_48.md)."
 
 Subject to the king of Babylon was Assyria; and the people of this
 country are said to have borne "a dragon" upon their standard <span
-id="fr_49"></span>[4](#fn_49). It is observed by Bryant, that in most
+id="fr_49"></span>[4](#fn_49.md). It is observed by Bryant, that in most
 countries the
 
 <span id="page_46">p. 46</span>
@@ -167,12 +167,12 @@ antiquity; for in matters of superstition it is astonishing how nearly
 people, geographically the most remote, approached each other.
 
 From the Assyrians, the emperors of Constantinople are said to have
-borrowed the dragon standard <span id="fr_50"></span>[1](#fn_50). The
+borrowed the dragon standard <span id="fr_50"></span>[1](#fn_50.md). The
 same standard was also borne by the Parthians <span
-id="fr_51"></span>[2](#fn_51), Scythians <span
-id="fr_52"></span>[3](#fn_52), Saxons <span
-id="fr_53"></span>[4](#fn_53), Chinese, Danes <span
-id="fr_54"></span>[5](#fn_54), and Egyptians,--people who were in a
+id="fr_51"></span>[2](#fn_51.md), Scythians <span
+id="fr_52"></span>[3](#fn_52.md), Saxons <span
+id="fr_53"></span>[4](#fn_53.md), Chinese, Danes <span
+id="fr_54"></span>[5](#fn_54.md), and Egyptians,--people who were in a
 greater or less degree addicted to serpent-worship. We may therefore
 infer, that the dragon ensign of the Assyrians denoted their devotion to
 the same idolatry.
@@ -183,7 +183,7 @@ II\. PERSIA.--The serpent-worship of Persia is more noticed by authors
 than that of Babylonia. The dracontic standard distinguished the
 Persians as well as the Assyrian; for among the spoils taken by Aurelian
 from Zenobia were "*Persici Dracones* <span
-id="fr_55"></span>[1](#fn_55);" which were doubtless military ensigns,
+id="fr_55"></span>[1](#fn_55.md);" which were doubtless military ensigns,
 for the Persians assisted the queen of Palmyra on that occasion. This,
 according to our hypothesis, would denote that the Persians venerated
 the serpent; an inference which is abundantly proved from their
@@ -203,7 +203,7 @@ festivals and orgies,
 <span id="page_48">p. 48</span>
 
 esteeming them THE GREATEST OF GODS, and GOVERNORS OF THE UNIVERSE <span
-id="fr_56"></span>[1](#fn_56)."
+id="fr_56"></span>[1](#fn_56.md)."
 
 "The first principles" were Ormuzd and Ahriman, the good and evil deity,
 whose contention for the universe was represented in Persian mythology,
@@ -215,10 +215,10 @@ be seen in Montfaucon. But the EVIL PRINCIPLE was more particularly
 represented by the serpent, as we may infer from a fable in the Zenda
 Vesta, in which that deity is described as having assumed a serpent's
 form to destroy *the first of the human species*, whom he accordingly
-*poisoned* <span id="fr_57"></span>[2](#fn_57).
+*poisoned* <span id="fr_57"></span>[2](#fn_57.md).
 
 A similar proof occurs in the Sadder <span
-id="fr_58"></span>[3](#fn_58), where we find the following
+id="fr_58"></span>[3](#fn_58.md), where we find the following
 precept:--"When you kill serpents, you shall repeat the Zenda Vesta, and
 thence you will obtain great merit: for it is the same as if you had
 killed *so many devils*." The *Zenda Vesta* to be here "repeated" might,
@@ -229,13 +229,13 @@ perhaps, be that portion of it above alluded to--the assumption of the
 serpent's form by Ahriman. Connected with which, doubtless, was the
 popular belief of the Persians, that in the place of torment in the
 other world, scorpions and *serpents* gnaw and sting the feet of the
-wicked <span id="fr_59"></span>[1](#fn_59).
+wicked <span id="fr_59"></span>[1](#fn_59.md).
 
 The God MITHRAS was represented encircled by a serpent: and in his rites
 a custom was observed similar to that practised in the Mysteries of
-Sebazius <span id="fr_60"></span>[2](#fn_60)--*a serpent* was thrown
+Sebazius <span id="fr_60"></span>[2](#fn_60.md)--*a serpent* was thrown
 into the bosom of the initiated, and taken out at the lower parts of his
-garments <span id="fr_61"></span>[3](#fn_61). In Montfaucon, vol. v. are
+garments <span id="fr_61"></span>[3](#fn_61.md). In Montfaucon, vol. v. are
 some plates of Mithras, with a lion's head and a human body; and round
 him is coiled *a large winged serpent*. In the Supplement to vol. i.
 Montfaucon gives us a representation of a stone found at Lyons. It is a
@@ -251,20 +251,20 @@ like that of Apollo.
 Mandelsoe, who visited an ancient temple at Mardasch, saw in one of the
 recesses, "a square pillar, with the figure of a king upon it,
 worshipping the SUN, FIRE, and A SERPENT <span
-id="fr_62"></span>[1](#fn_62)." "On the front of some ancient Persian
+id="fr_62"></span>[1](#fn_62.md)." "On the front of some ancient Persian
 grottoes, sacred to the solar deity, was figured a princely personage
 approaching an altar, on which the sacred fire is burning. Above all is
 the sun, and the figure of the deity in a cloud, with sometimes a sacred
 bandage, at other times a SERPENT entwined round his middle <span
-id="fr_63"></span>[2](#fn_63)."
+id="fr_63"></span>[2](#fn_63.md)."
 
 This is the God AZON, whose name, according to Bryant, signifies "the
 sun." The sacred girdle round his waist was esteemed an emblem of the
 orbit described by ZON, the sun. Hence *girdles* were called by the
-Greeks, *zones* <span id="fr_64"></span>[3](#fn_64).
+Greeks, *zones* <span id="fr_64"></span>[3](#fn_64.md).
 
 This deity is sometimes represented differently <span
-id="fr_65"></span>[4](#fn_65), as a young man in profile, round whose
+id="fr_65"></span>[4](#fn_65.md), as a young man in profile, round whose
 
 <span id="page_50">p. 50</span>
 
@@ -273,7 +273,7 @@ id="fr_65"></span>[4](#fn_65), as a young man in profile, round whose
 <span id="img_05100"></span>
 
 [![](tn/05100.jpg)  
-Click to enlarge](img/05100.jpg)
+Click to enlarge](img/05100.jpg.md)
 
  
 
@@ -335,16 +335,16 @@ perhaps the device from which Malachi borrowed his elegant metaphor of
 
 Selden remarks, that the figure <span id="img_05300"></span>
 ![](img/05300.jpg) in abbreviated writing among the Greeks, signified
-Δαιμων, *the deity* <span id="fr_66"></span>[1](#fn_66). The same
+Δαιμων, *the deity* <span id="fr_66"></span>[1](#fn_66.md). The same
 figure, according to Kircher, was in use among the Brahmins of
 Hindûstan, as the "*character mundi intelligibilis* <span
-id="fr_67"></span>[2](#fn_67)"--that is, of the Deity; for the universe
+id="fr_67"></span>[2](#fn_67.md)"--that is, of the Deity; for the universe
 and its Creator were often confounded by the ancient heathen. The emblem
 is evidently the globe and serpents of Egyptian mythology. In the same
 form was erected the celebrated temple of the Druids at Abury in
 Wiltshire. The upright stones which constituted the Adytum and its
 approaches, correctly delineated the circle, with the serpent passing
-through it <span id="fr_68"></span>[3](#fn_68).
+through it <span id="fr_68"></span>[3](#fn_68.md).
 
 In China, this sacred emblem assumed a form
 
@@ -355,7 +355,7 @@ annulus, being placed on each side of it, regarding each other. This was
 probably a representation of the two principles claiming the universe.
 This sacred ring between two serpents, is very common on the triumphal
 arches of Pekin. In Table XV. of Baron Vischer's Ancient
-Architecture <span id="fr_69"></span>[1](#fn_69), is an engraving of
+Architecture <span id="fr_69"></span>[1](#fn_69.md), is an engraving of
 such an arch, and on it is this hierogram twice depicted.
 
 But the most remarkable of all is the Mexican symbol. Here the two
@@ -407,17 +407,17 @@ The WINGS implied the MOVING or PENETRATIVE POWER of GOD, which pervaded
 all things. This he called LOVE.
 
 The *whole* emblem was interpreted to represent the SUPREME BEING in his
-character of CREATOR and PRESERVER <span id="fr_70"></span>[1](#fn_70).
+character of CREATOR and PRESERVER <span id="fr_70"></span>[1](#fn_70.md).
 
 The definition of the Deity by TRISMEGISTUS is poetically sublime: "GOD
 is a CIRCLE whose CENTRE is EVERYWHERE, and CIRCUMFERENCE NOWHERE. <span
-id="fr_71"></span>[2](#fn_71)"
+id="fr_71"></span>[2](#fn_71.md)"
 
 The above description of the ophite hierogram, as may well be imagined,
 has persuaded many an ardent friend of revelation to recognise in this
 symbol of the hieroglyphical learning of Egypt, the mystery of the HOLY
 TRINITY. Kircher, Cudworth, and Maurice have all embraced this opinion;
-but the more cautious FABER <span id="fr_72"></span>[3](#fn_72), with
+but the more cautious FABER <span id="fr_72"></span>[3](#fn_72.md), with
 the arguments of all before him, has come to the conclusion, that the
 doctrine of the Trinity,
 
@@ -450,9 +450,9 @@ the Israelites, rather than from any tradition of their ancestors. In
 this case, JOSEPH would be the Hermes Trismegistus, so lauded in
 Egyptian history, (*as Bryant, indeed, supposes he was*.) Joseph is said
 to have "taught" the Egyptian "senators *wisdom* <span
-id="fr_73"></span>[1](#fn_73):" but *not*, I apprehend, in a religious
+id="fr_73"></span>[1](#fn_73.md):" but *not*, I apprehend, in a religious
 sense. The edict of Pharaoh, to which this probably alludes, is of a
-political nature <span id="fr_74"></span>[2](#fn_74). It would have been
+political nature <span id="fr_74"></span>[2](#fn_74.md). It would have been
 the extreme of indiscretion for Joseph to have attempted, without a
 divine command, to instruct the Egyptians in the mysteries of religion:
 and had such a command been issued, it would have been recorded by
@@ -471,7 +471,7 @@ not only to have been ignorant of the doctrine of the
 \[paragraph continues\] TRINITY, but of every rational idea of the UNITY
 of God, when Moses was commissioned to lead them from Egypt. Of this we
 have abundant proof in the diffidence with which he accepted the
-commission <span id="fr_75"></span>[1](#fn_75).
+commission <span id="fr_75"></span>[1](#fn_75.md).
 
 So gross was their ignorance, and so deep-rooted their prejudices, that
 the doctrine of the Trinity was never, indeed, *fully* explained to
@@ -480,7 +480,7 @@ idolatrously inclined minds to bear, lest in their ardour for the
 Polytheism which it was his object to eradicate, they should separate
 the Unity, and dishonour the Trinity--lest in their proneness to worship
 the MANY, they should forget that "JEHOVAH their GOD is ONE
-JEHOVAH <span id="fr_76"></span>[2](#fn_76)."
+JEHOVAH <span id="fr_76"></span>[2](#fn_76.md)."
 
 I cannot therefore see that there is any conclusive testimony that the
 Egyptian hierogram of GLOBE, WINGS, and SERPENT, denoted the Trinity, in
@@ -510,7 +510,7 @@ of transmigration of souls. In Forbes's "Oriental Memoirs," we read of
 certain gardeners in Guzerat who would never suffer the snakes to be
 molested, calling them "father," "brother," and other endearing names,
 and looking upon them as something divine. The head-gardener, however,
-"*paid them religious honours* <span id="fr_77"></span>[1](#fn_77)."
+"*paid them religious honours* <span id="fr_77"></span>[1](#fn_77.md)."
 
 <span id="page_61">p. 61</span>
 
@@ -523,7 +523,7 @@ in Purchas's Pilgrims. A king of Calicut "built cottages" for *live
 serpents*, whom he tended with peculiar care, and made it a capital
 crime for any person in his dominions to destroy a snake. "*The natives
 looked upon serpents as endued with divine spirits* <span
-id="fr_78"></span>[1](#fn_78)."
+id="fr_78"></span>[1](#fn_78.md)."
 
 From some such a notion may have been derived a custom which prevails in
 certain parts of Hindûstan to this day. The natives have a festival
@@ -541,9 +541,9 @@ Salsette and Elephanta; where the deities either
 grasp serpents in their hands, or are enfolded by them. Serpents are
 also sculptured on the cornices surrounding the roofs of those caverns,
 and similarly delineated in the more modern pagodas <span
-id="fr_79"></span>[1](#fn_79). The god Sani, of the Hindûs, is
+id="fr_79"></span>[1](#fn_79.md). The god Sani, of the Hindûs, is
 represented on a raven, and encircled by two serpents, whose heads meet
-over that of the god <span id="fr_80"></span>[2](#fn_80).
+over that of the god <span id="fr_80"></span>[2](#fn_80.md).
 
 Maurice supposes that by the serpentine circle over Sani, who is the
 Saturn of the Hindûs, the *ring* of that planet is denoted. If so, the
@@ -551,7 +551,7 @@ discoveries of modern astronomy are little more than revivals of the
 ancient philosophy. But whether Sani be *Saturn* or the *Sun*, he is
 equally illustrative of our theory--that serpents were early emblems of
 divinity in Hindûstan. As such we find them employed in the religious
-festivals of the Hindûs <span id="fr_81"></span>[3](#fn_81), symbolizing
+festivals of the Hindûs <span id="fr_81"></span>[3](#fn_81.md), symbolizing
 some of their most awful deities.
 
 Boodh and Jeyne are both adorned with the same emblem. The statue of
@@ -561,25 +561,25 @@ seven-headed snake: the rim of the pedestal is
 <span id="page_63">p. 63</span>
 
 embossed with serpents' heads. The same serpent also symbolizes Parus
-Nauth <span id="fr_82"></span>[1](#fn_82).
+Nauth <span id="fr_82"></span>[1](#fn_82.md).
 
 On a rock in the Ganges, in the province of Bahar, is a sculpture of
 Veshnu reposing on a coiled serpent, whose numerous folds are made to
-form a canopy over the sleeping god <span id="fr_83"></span>[2](#fn_83).
+form a canopy over the sleeping god <span id="fr_83"></span>[2](#fn_83.md).
 This serpent is fabled to have been the goddess Devi or Isi, who assumed
 the figure to carry Veshnu over the waters of the Deluge <span
-id="fr_84"></span>[3](#fn_84). The sleep of Veshnu indicates the period
+id="fr_84"></span>[3](#fn_84.md). The sleep of Veshnu indicates the period
 between the two worlds. A similar sculpture is to be seen among the
 ruins of Mavalipuram, on the coast of Coromandel <span
-id="fr_85"></span>[4](#fn_85). Veshnu himself is sometimes represented
+id="fr_85"></span>[4](#fn_85.md). Veshnu himself is sometimes represented
 encompassed in the folds of a serpent; and Twashta, the great artificer
 of the universe, who corresponds in Hindû mythology with the Cneph or
 Ptha of the Egyptians, is supposed to have borne the form of a
-serpent <span id="fr_86"></span>[5](#fn_86). Jagan-Nath (Juggernaut) is
+serpent <span id="fr_86"></span>[5](#fn_86). Jagan-Nath (Juggernaut.md) is
 said to be sometimes worshipped under the form of a seven-headed
-dragon <span id="fr_87"></span>[6](#fn_87). The Hindû Deonaush (the
+dragon <span id="fr_87"></span>[6](#fn_87.md). The Hindû Deonaush (the
 *Dionusus* of the Greeks,) was metamorphosed into a snake <span
-id="fr_88"></span>[7](#fn_88): hence, probably
+id="fr_88"></span>[7](#fn_88.md): hence, probably
 
 <span id="page_64">p. 64</span>
 
@@ -587,18 +587,18 @@ the prominent figure which the serpent bore in the mysteries of Bacchus.
 
 Mahadeva (a name of Siva,) is sometimes represented with a snake
 entwined about his neck; one round his hair, and armlets of serpents
-upon both arms <span id="fr_89"></span>[1](#fn_89).
+upon both arms <span id="fr_89"></span>[1](#fn_89.md).
 
 Bhairava (an Avatar of Siva,) sits upon the coils of a serpent, whose
-head rises above that of the god <span id="fr_90"></span>[2](#fn_90).
+head rises above that of the god <span id="fr_90"></span>[2](#fn_90.md).
 
 Parvati, the consort of Siva, is represented with snakes about her neck
-and waist <span id="fr_91"></span>[3](#fn_91).
+and waist <span id="fr_91"></span>[3](#fn_91.md).
 
 Hence we perceive that the serpent was an emblem not confined to one
 god, but common to many. "The fifth day of the bright half of the month
 Sravana is also sacred to the demigods in the forms of serpents <span
-id="fr_92"></span>[4](#fn_92)."
+id="fr_92"></span>[4](#fn_92.md)."
 
 This reptile, though the attribute of many of the Hindû deities, both
 benevolent and malignant, belonged more properly to the EVIL SPIRIT, of
@@ -611,7 +611,7 @@ NAGA, and he is the prince of the Nagas, or
 \[paragraph continues\] Naigs. "In which Sanscrit appellation," observes
 Maurice, "we plainly trace the Hebrew *nachash*, which is the very word
 for the particular serpentine tempter, and, in general, for all serpents
-throughout the Old Testament <span id="fr_93"></span>[1](#fn_93)." The
+throughout the Old Testament <span id="fr_93"></span>[1](#fn_93.md)." The
 Hindû Naraka, or *hell*, is fabled to consist of poisonous "snakes
 folded together in horrible contortions."
 
@@ -619,7 +619,7 @@ The malignant serpent Caliya, who was slain by Veshnu, (in his
 incarnation of Crishna), because he poisoned the air, and destroyed the
 herds on the banks of the Yamuna, was deified and worshipped by the
 Hindûs "in the same manner as Python was adored at Delphi <span
-id="fr_94"></span>[2](#fn_94)."
+id="fr_94"></span>[2](#fn_94.md)."
 
 To the evil dæmon, in the form of a great serpent, the Hindûs attributed
 the guardianship of treasures. A remarkable instance of this
@@ -638,7 +638,7 @@ ever as the residence of the evil spirit.
 
 In Hindûstan prevailed, also, the general opinion which accompanied
 ophiolatreia in all its progress--that the serpent was of a *prophetic
-nature* <span id="fr_95"></span>[1](#fn_95).
+nature* <span id="fr_95"></span>[1](#fn_95.md).
 
 The decay of ophiolatreia in Hindûstan may be readily accounted for by
 the exterminating religious wars which so long raged between the
@@ -663,12 +663,12 @@ of a mountain in the range west of India, and *Hak* was the word which
 designated a *serpent*. Alexander's ally Taxiles was doubtless an Ophite
 chief of this country, for he took him to see an enormous dragon, the
 object of worship among his subjects <span
-id="fr_96"></span>[1](#fn_96). The name *Taxiles* was probably titular,
+id="fr_96"></span>[1](#fn_96.md). The name *Taxiles* was probably titular,
 since he was called *Onuphis* until his father's death. He was then the
 priest and king of the Ophites of Tak, and from that very circumstance
 called *Onuphis* by the Greeks, who had acquired the knowledge of this
 title from their intercourse with Egypt, and her priesthood of ON and
-OPH <span id="fr_97"></span>[2](#fn_97).
+OPH <span id="fr_97"></span>[2](#fn_97.md).
 
 Pursuing our inquiries, we find that ophiolatreia prevailed to an equal
 extent in Cachmere, where there were no less than *seven hundred*
@@ -676,16 +676,16 @@ extent in Cachmere, where there were no less than *seven hundred*
 <span id="page_68">p. 68</span>
 
 *places* in which carved images of serpents were worshipped <span
-id="fr_98"></span>[1](#fn_98). And even in Tibet may be often seen, the
+id="fr_98"></span>[1](#fn_98.md). And even in Tibet may be often seen, the
 great Chinese dragon ornamenting the temples of the Grand Lama <span
-id="fr_99"></span>[2](#fn_99). But the chief seats of ophiolatreia in
+id="fr_99"></span>[2](#fn_99.md). But the chief seats of ophiolatreia in
 this quarter of the modern world were in China and Japan.
 
  
 
 IV\. CEYLON.--The religion of the natives of Ceylon is the Boodh, which
 is a corruption of the ancient ophiolatreia. "The Singalese," says Dr.
-Davy <span id="fr_100"></span>[3](#fn_100), "in general rather venerate
+Davy <span id="fr_100"></span>[3](#fn_100.md), "in general rather venerate
 than dread the hooded snake. They conceive that *it belongs to another
 world*, and that when it appears in this is only a visitor. They imagine
 that it possesses great power, and is somewhat *akin to the gods, and
@@ -708,10 +708,10 @@ V. CHINA AND JAPAN.--The great Chinese DRAGON, so conspicuous in every
 public and private edifice, was the symbolical serpent of ancient
 mythology, under a more fanciful and poetic form. "It was the genial
 banner of the empire, and indicated every thing that was sacred in
-it <span id="fr_101"></span>[1](#fn_101)." "It was not only the stamp
+it <span id="fr_101"></span>[1](#fn_101.md)." "It was not only the stamp
 and symbol of royalty, but is sculptured in all the temples, blazoned on
 the furniture of the houses, and interwoven with the vestments <span
-id="fr_102"></span>[2](#fn_102)" of the chief nobility. The emperor
+id="fr_102"></span>[2](#fn_102.md)" of the chief nobility. The emperor
 bears a dragon as his armorial device; and the same figure is engraved
 on his sceptre and diadem, as well as on all the vases of the imperial
 palace.
@@ -719,7 +719,7 @@ palace.
 The DRAGON is also mixed up with many of their religious legends. The
 Chinese believe that "there is a dragon of extraordinary strength and
 sovereign power, *which is in heaven, in the air, on the waters, and on
-the mountains* <span id="fr_103"></span>[3](#fn_103)." A property so
+the mountains* <span id="fr_103"></span>[3](#fn_103.md)." A property so
 divine must have originated in the
 
 <span id="page_70">p. 70</span>
@@ -728,15 +728,15 @@ attribution of this sacred animal to the Creator of the universe. For
 though it might apply partly to the spiritual presence of the evil one,
 yet in China this religious emblem belonged rather to the Agathodæmon.
 At the sacred washing of Confucius, soon after his birth, two dragons
-were fabled to have attended <span id="fr_104"></span>[1](#fn_104), to
+were fabled to have attended <span id="fr_104"></span>[1](#fn_104.md), to
 intimate probably that the young philosopher was, in an especial manner,
-under the protection of the deity <span id="fr_105"></span>[2](#fn_105).
+under the protection of the deity <span id="fr_105"></span>[2](#fn_105.md).
 
 Father Martin, one of the Jesuits who obtained a settlement in China,
 says, that "the Chinese delight in mountains and high places, because
 there lives the dragon upon whom their good fortune depends. They call
 him 'the Father of happiness.' To this dragon they erect temples shaded
-with groves <span id="fr_106"></span>[3](#fn_106)."
+with groves <span id="fr_106"></span>[3](#fn_106.md)."
 
 Here we perceive the union of two primeval
 
@@ -750,7 +750,7 @@ terminating in the tail of a *snake*: which is not only a proof of the
 early existence of serpent-worship in China, but also shows that the
 *dragon* and the *snake* of Chinese mythology were cognate. Such a form,
 also, had the Athenian Cecrops and Erectheus, and the Egyptian
-Typhon <span id="fr_107"></span>[1](#fn_107).
+Typhon <span id="fr_107"></span>[1](#fn_107.md).
 
 There was a remarkable superstition in regard to *a serpent of enormous
 bulk which girded the world*, current in the mythology of almost every
@@ -770,7 +770,7 @@ instead of the ecliptic, *the solstitial colures* were described under
 these symbols. Thus, in Egyptian hieroglyphics, two serpents
 intersecting each other at right angles, upon a globe, denoted the
 earth. These rectangular intersections were at the solstitial
-points <span id="fr_108"></span>[1](#fn_108).
+points <span id="fr_108"></span>[1](#fn_108.md).
 
 The genius of superstition soon resolved the imaginary into real
 serpents; of which metamorphosis we have an instance in the fictions of
@@ -778,32 +778,32 @@ the Chinese, who are said to be "superstitious in choosing a plot of
 ground to erect a dwelling-house or sepulchre: conferring it with the
 *head, tail, and feet of divers dragons* which live under our earth,
 whence depends all good or bad fortunes <span
-id="fr_109"></span>[2](#fn_109)."
+id="fr_109"></span>[2](#fn_109.md)."
 
 The same poetical fiction was current in Hindûstan, where there is a
 tradition that the founder of Delhi, when about to lay the foundation of
 that city, was told by a Brahmin, that "provided he placed the seat of
 his government *on the head of the serpent that supports the world* his
 throne and kingdom would last for ever <span
-id="fr_110"></span>[3](#fn_110)."
+id="fr_110"></span>[3](#fn_110.md)."
 
 <span id="page_73">p. 73</span>
 
 In Hindû mythology, the serpent Asootee enfolds the globe <span
-id="fr_111"></span>[1](#fn_111); and on every eclipse the Hindûs believe
+id="fr_111"></span>[1](#fn_111.md); and on every eclipse the Hindûs believe
 that the sun or moon is seized by a large serpent or dragon. The same
-notion obtains in China <span id="fr_112"></span>[2](#fn_112). This is
+notion obtains in China <span id="fr_112"></span>[2](#fn_112.md). This is
 the imaginary serpent of the constellation Draco, and the superstition
 may be a remnant of the tradition of "the war in heaven, when Michael,
 and his angels fought against the dragon <span
-id="fr_113"></span>[3](#fn_113)." The *dragon* and the *serpent* are the
+id="fr_113"></span>[3](#fn_113.md)." The *dragon* and the *serpent* are the
 fifth and sixth signs of the Chinese Zodiac.
 
 The superstition of JAPAN was in every respect similar to that of China.
 The DRAGON was held in equal veneration in both countries. "The
 chronicles and histories of the gods and heroes of Japan are full of
 fabulous stories of this animal. They believe that it dwells at the
-bottom of the sea <span id="fr_114"></span>[4](#fn_114), as its proper
+bottom of the sea <span id="fr_114"></span>[4](#fn_114.md), as its proper
 element. They represent it in their books as a huge, long, four-footed
 snake Some of the Japanese emperor's cloth, his arms, scimetars, knives,
 and the like;
@@ -811,16 +811,16 @@ and the like;
 <span id="page_74">p. 74</span>
 
 as also the furniture and hangings of the imperial palace, are adorned
-with figures of this dragon <span id="fr_115"></span>[1](#fn_115)." The
+with figures of this dragon <span id="fr_115"></span>[1](#fn_115.md)." The
 Japanese soldiers eat the flesh of the serpent called Fitakutz,
 "believing firmly that it has the virtue of making them bold and
-courageous <span id="fr_116"></span>[2](#fn_116)."
+courageous <span id="fr_116"></span>[2](#fn_116.md)."
 
 There is reason to believe that temple-worship was formerly paid to the
 dragon in Japan. Kœmpfer being once on a journey, a temple was pointed
 out to him which, his guides said, had been erected in memory of a
 victory gained on the shores of the lake Oitz, by a famous dragon over a
-scolopendra <span id="fr_117"></span>[3](#fn_117).
+scolopendra <span id="fr_117"></span>[3](#fn_117.md).
 
  
 
@@ -865,13 +865,13 @@ the sacred serpent. Gigantic figures, placed at the portals, were armed
 with a club in one hand, and a writhing snake in the other. Small
 twisted snakes also formed their armlets; and one, passing diagonally
 across the body, represented a belt <span
-id="fr_118"></span>[1](#fn_118). In the temple of Kedal is an idol, on
+id="fr_118"></span>[1](#fn_118.md). In the temple of Kedal is an idol, on
 one side of which are three serpents of an enormous magnitude,
 intertwining over the head of the image. A female figure, with a serpent
-also, reclines over it <span id="fr_119"></span>[2](#fn_119):
+also, reclines over it <span id="fr_119"></span>[2](#fn_119.md):
 
 Over the portal of the great temple of Chandi Sewu is "a very large and
-terrible *gorgon visage* <span id="fr_120"></span>[3](#fn_120)." These
+terrible *gorgon visage* <span id="fr_120"></span>[3](#fn_120.md)." These
 gorgon visages are not uncommon, and are probably a form of the ophite
 hierogram, denoting *consecration*, such as we see over the portals of
 some of the Egyptian temples.
@@ -897,10 +897,10 @@ But in this place we may observe, that the language of the country
 retains an expression of its original religion, which is not a little
 remarkable. The same word is employed to denote both "*adoration*" and
 "*the serpent*;" from whence Dickinson infers, that "*the Arabians
-formerly worshipped serpents* <span id="fr_121"></span>[1](#fn_121)."
+formerly worshipped serpents* <span id="fr_121"></span>[1](#fn_121.md)."
 
 We may observe, also, that Philostratus <span
-id="fr_122"></span>[2](#fn_122) attributes the same superstitious
+id="fr_122"></span>[2](#fn_122.md) attributes the same superstitious
 practice, with the same views, to the natives of Arabia and Hindûstan:
 viz. *that* of "eating the heart and liver of serpents, for the purpose
 of acquiring a knowledge
@@ -923,12 +923,12 @@ whole of Phœnicia and Palestine, the territories of Damascus, and the
 possessions of Solomon.
 
 The Phœnicians, according to Sanchoniathon, cited by Eusebius <span
-id="fr_123"></span>[1](#fn_123), were among the earliest of the nations
+id="fr_123"></span>[1](#fn_123.md), were among the earliest of the nations
 that embraced ophiolatreia; and the author of this idolatry is said to
 have been TAAUTUS. Sanchoniathon calls him "a God <span
-id="fr_124"></span>[2](#fn_124)," and says, that he first made an image
+id="fr_124"></span>[2](#fn_124.md)," and says, that he first made an image
 of Cœlus, and afterwards of Saturn; and then invented
-hieroglyphics <span id="fr_125"></span>[3](#fn_125). He is supposed to
+hieroglyphics <span id="fr_125"></span>[3](#fn_125.md). He is supposed to
 be the same
 
 <span id="page_79">p. 79</span>
@@ -964,7 +964,7 @@ directly shown upon historical testimony: it is proved, collaterally, by
 the traditions of the country, and the remains of serpent-worship which
 was occasionally visible in the sacred and classical writings. The name
 of the sacred serpent, according to Bryant <span
-id="fr_126"></span>[1](#fn_126), (who has taken great pains to arrive at
+id="fr_126"></span>[1](#fn_126.md), (who has taken great pains to arrive at
 accuracy in this statement,) was in the ancient language of Canaan,
 variously pronounced AUB, AB; OUB, OB; OPH, OP; EPH, EV . . . . . all
 referrible to the original אוב, or אב; which being derived from אב
@@ -993,7 +993,7 @@ Jam propiore Dei.
 inflation* was taken up by the Greeks, from mistaking the word OB, (the
 *name* of the Deity,) for the word OB, that property of *inflation*,
 from whence the name was derived: OB signifying both the *serpent*, and
-his property of *inflation* <span id="fr_127"></span>[1](#fn_127).
+his property of *inflation* <span id="fr_127"></span>[1](#fn_127.md).
 
 The first mention of the God OB occurs in the Scriptures. Moses refers
 to his oracle, when he commands every AUB, AB, or OB, to be put to
@@ -1017,10 +1017,10 @@ was not an unusual custom of the Gentiles for the priest or priestess of
 any God to take the name of the deity they served. Thus Clemens
 Alexandrinus calls the priest of Cnuphis in Egypt, SECNUPHIS. This was
 the priest with whom Plato conversed <span
-id="fr_128"></span>[1](#fn_128), and his god was the same as the OB of
+id="fr_128"></span>[1](#fn_128.md), and his god was the same as the OB of
 Canaan; that is, the SERPENT-GOD of the country. We read also of
 OINUPHIS, a priest of Heliopolis, from whom Pythagoras is said to have
-learned astronomy <span id="fr_129"></span>[2](#fn_129). Heliopolis,
+learned astronomy <span id="fr_129"></span>[2](#fn_129.md). Heliopolis,
 "the city of the SUN," was called in Egypt ON, which was a title of the
 solar deity. OINUPHIS therefore, (or rather ONUPHIS,) was the solar
 deity ON, symbolized by the sacred serpent OPH. In this case therefore,
@@ -1030,7 +1030,7 @@ Eudoxus was taught astronomy by another priest
 <span id="page_83">p. 83</span>
 
 of Heliopolis, whose name was CONUPHIS, or C’NUPHIS <span
-id="fr_130"></span>[1](#fn_130).
+id="fr_130"></span>[1](#fn_130.md).
 
 For these examples I am indebted to Jablonski, who says that SECNUPHIS
 means literally SE-ICH-CNUPHIS, "*the servant of the god Cnuphis*."
@@ -1039,7 +1039,7 @@ In like manner we find that the priestess of DELPHI was called PYTHIA,
 from her deity PYTHON: and the Druid who was the minister of the British
 god HU, was called "an ADDER;" because *adders* were symbolical of the
 god whom he served, whose chief title was "HU, the DRAGON-RULER of the
-world <span id="fr_131"></span>[2](#fn_131)."
+world <span id="fr_131"></span>[2](#fn_131.md)."
 
 It is a curious coincidence, that as the witch of Endor is called *oub*,
 and the African sorceress *obi*, from the serpent deity OUB; so the old
@@ -1082,12 +1082,12 @@ GOOD DÆMON," as we learn from Eusebius, citing Sanchoniathon--"The
 \[paragraph continues\] Phœnicians called this animal (*the sacred
 serpent*) AGATHODÆMON: the Egyptians likewise called him CNEPH, and
 added to him the head of a hawk, because of its activity <span
-id="fr_132"></span>[1](#fn_132)."
+id="fr_132"></span>[1](#fn_132.md)."
 
 The title OB, or AB, was frequently compounded with ON, a name of the
 SUN, because the serpent was considered symbolical of that deity. This
 symbolical worship was of very ancient date in Phœnicia, as we learn
-from Sanchoniathon <span id="fr_133"></span>[2](#fn_133), who tells us,
+from Sanchoniathon <span id="fr_133"></span>[2](#fn_133.md), who tells us,
 "The son of THABION was *the first hierophant* of Phœnicia."
 
 Prophets and priests are frequently called in mythology the *sons* of
@@ -1096,7 +1096,7 @@ the God whom they worshipped. The *son* of Thabion, therefore, was the
 which the initial letters "TH’" signify "God." They are an abbreviation
 of the word "THEUTH," "from which the Greeks formed ΘΕΟΣ, which with
 that nation was the most general name of the Deity <span
-id="fr_134"></span>[3](#fn_134)." "THABION," therefore implies, THE GOD
+id="fr_134"></span>[3](#fn_134.md)." "THABION," therefore implies, THE GOD
 ABION,"--the SERPENT-SOLAR GOD.
 
 The primitive serpent-worshippers of Canaan
@@ -1104,15 +1104,15 @@ The primitive serpent-worshippers of Canaan
 <span id="page_86">p. 86</span>
 
 against whom Moses cautioned the children of Israel, were the HIVITES.
-This word, according to Bochart <span id="fr_135"></span>[1](#fn_135),
+This word, according to Bochart <span id="fr_135"></span>[1](#fn_135.md),
 is derived from *Hhivia*, a serpent: the root of which is *Eph* or
 *Ev*--one of the variations of the original *Aub*. EPHITES or EVITES,
 being aspirated, would become HEVITES or HIVITES--whence comes the word
 OPHITES, by which the Greek historians designated the worshippers of the
 serpent. The Greek word Οφις, *a serpent*, is derived from *Oph*, the
-Egyptian name for that reptile <span id="fr_136"></span>[2](#fn_136);
+Egyptian name for that reptile <span id="fr_136"></span>[2](#fn_136.md);
 the same as *Eph*. The Hivites who were left "to prove Israel <span
-id="fr_137"></span>[3](#fn_137)," inhabited Mount Lebanon, "from Mount
+id="fr_137"></span>[3](#fn_137.md)," inhabited Mount Lebanon, "from Mount
 Baalhermon unto the entering in of Hamath." The children of Israel
 intermarried with them, "and *served their gods*." These were called
 BAALIM, which being in the plural number, may mean the god BAAL or BEL,
@@ -1129,7 +1129,7 @@ relics, as a memorial of their deliverance from the serpents in the
 wilderness. Hezekiah "removed the high places, and cut down the groves,
 and brake in pieces the brazen serpent that Moses had made; for UNTO
 THOSE DAYS the children of Israel did burn incense to it: and he called
-it Nehustan <span id="fr_138"></span>[1](#fn_138),"--*i.e.* *a piece of
+it Nehustan <span id="fr_138"></span>[1](#fn_138.md),"--*i.e.* *a piece of
 brass*, by way of contempt.
 
 But the worship of the serpent was not so easily suppressed in Canaan.
@@ -1139,7 +1139,7 @@ Christian religion, by claiming an affinity of faith with the
 worshippers of JESUS.
 
 These Christian heretics were exposed by Epiphanius <span
-id="fr_139"></span>[2](#fn_139), under the name of Οφῖται. Clemens
+id="fr_139"></span>[2](#fn_139.md), under the name of Οφῖται. Clemens
 Alexandrinus also mentions them; and Tertullian describes their
 tenets--"Accesserunt his hæretici etiam qui ophitæ, nuncupantur: nam
 serpentem magnificant in tantum ut illum etiam ipsi Christo præferant.
@@ -1152,7 +1152,7 @@ Moyses æreum posuit serpentem, et quicunque in eum aspexerunt, sanitatem
 consecuti sunt. Ipse, aiunt, præterea, in Evangelio *imitatur* serpentis
 ipsius sacram potestatem dicendo, 'et sicut Moyses exaltavit serpentem
 in deserto, ita exaltari oportet Filium Hominis.' Ipsum introducunt ad
-benedicenda Eucharistia <span id="fr_140"></span>[1](#fn_140)."
+benedicenda Eucharistia <span id="fr_140"></span>[1](#fn_140.md)."
 
 A more ingenious perversion of Scripture than the foregoing, may
 scarcely be found in the annals of heresy.
@@ -1160,7 +1160,7 @@ scarcely be found in the annals of heresy.
 Epiphanius says, that "the Ophites sprung out of the Nicolaitans and
 Gnostics, and were so called from the *serpent* which they worshipped."
 The Gnostics, he informs us in another place <span
-id="fr_141"></span>[2](#fn_141), "taught that the ruler of this world
+id="fr_141"></span>[2](#fn_141.md), "taught that the ruler of this world
 was of *a dracontic form*." "The Ophites," he observes, "attribute all
 wisdom to the serpent of paradise, and say that he was the author of
 knowledge to men." "They keep a live serpent in a chest; and at the time
@@ -1172,9 +1172,9 @@ table. Opening his door he comes out,
 and having ascended the table, folds himself about the bread. This they
 call *a perfect sacrifice*. They not only break and distribute this
 among the votaries, but whosoever will, *may kiss the serpent* <span
-id="fr_142"></span>[1](#fn_142). This the wretched people call THE
+id="fr_142"></span>[1](#fn_142.md). This the wretched people call THE
 EUCHARIST. They conclude the mysteries by *singing an hymn* THROUGH HIM
-to the supreme Father <span id="fr_143"></span>[2](#fn_143).
+to the supreme Father <span id="fr_143"></span>[2](#fn_143.md).
 
 The above account of Epiphanius forcibly reminds us of the mysteries of
 Bacchus, in which serpents were carried in *covered baskets*; and in
@@ -1190,18 +1190,18 @@ leader" of the mysteries, and *chest-bearer*, that is, carrying the
 <span id="page_90">p. 90</span>
 
 extravagancies he receives his reward in "CAKES and NEW BREAD <span
-id="fr_144"></span>[1](#fn_144)."
+id="fr_144"></span>[1](#fn_144.md)."
 
 In the Bacchanalian Mysteries, also, there was a consecrated cup of
 wine, handed round after supper, called "the cup of the Agathodæmon:"
 which was received with much shouting <span
-id="fr_145"></span>[2](#fn_145). The Christian Ophites, therefore,
+id="fr_145"></span>[2](#fn_145.md). The Christian Ophites, therefore,
 preserving the memory of their Bacchanalian orgies, would naturally
 confound the observances of the Lord's Supper with the practices
 incident to their heathen festival. The hymn with which they concluded
 their idolatrous ceremonies, addressed *through the serpent* to the
 Supreme Father, is a memorial of *the hymn sung to Python* on every
-*seventh day* at Delphi <span id="fr_146"></span>[3](#fn_146).
+*seventh day* at Delphi <span id="fr_146"></span>[3](#fn_146.md).
 
 These opinions of the Gnostic Ophites were blended with the old Magian
 superstition of Persia by Manes, a celebrated heretic of the third
@@ -1212,11 +1212,11 @@ serpent, who glided over the cradle of
 <span id="page_91">p. 91</span>
 
 the Virgin Mary, when she was asleep, at the age of a year and a
-half <span id="fr_147"></span>[1](#fn_147)."
+half <span id="fr_147"></span>[1](#fn_147.md)."
 
 Traces of ophiolatreia are visible in the neighbourhood of Damascus,
 where there were two ophite temples, converted, with the usual licence
-of poets, into "*dragons* <span id="fr_148"></span>[2](#fn_148)."
+of poets, into "*dragons* <span id="fr_148"></span>[2](#fn_148.md)."
 
 The whole region of TRACHONITIS is supposed by Bryant to have received
 its name from the worship of the DRAGON, so common in those parts. The
@@ -1234,7 +1234,7 @@ the Macedonian kings of Syria first established the oracles,
 
 <span id="page_92">p. 92</span>
 
-and planted the grove of Daphne <span id="fr_149"></span>[1](#fn_149);
+and planted the grove of Daphne <span id="fr_149"></span>[1](#fn_149.md);
 but the legend in question would argue for that secluded and voluptuous
 sanctuary a much higher antiquity. The Macedonian kings, in all
 probability, patronized the ancient GROVE-WORSHIP mentioned in Judges
@@ -1244,7 +1244,7 @@ that the original name of the river Orontes was TYPHON; for there the
 serpent Typhon being struck by the lightning of Jupiter, in escaping
 *cut the earth with his body* as he writhed along; and springs of water
 issuing from the ground, formed the river, which, after him, was called
-Typhon <span id="fr_150"></span>[2](#fn_150).
+Typhon <span id="fr_150"></span>[2](#fn_150.md).
 
 Had ophiolatreia never existed in Daphne, such a legend as this would
 hardly have been recorded of the river which flowed by it. At Daphne
@@ -1259,17 +1259,17 @@ The serpent-worship of Syria is strongly
 marked in the religion of the people of Tyre. The Phœnicians of Tyre
 consecrated an image of the serpent, and suspended it in their temples,
 encircling in its folds the Mundane egg <span
-id="fr_151"></span>[1](#fn_151), the symbol of the universe. THE SERPENT
+id="fr_151"></span>[1](#fn_151.md), the symbol of the universe. THE SERPENT
 denoted the Supreme Being, in his character of the vivifying principle.
 Macrobius informs us, that the Phœnicians worshipped Janus under the
 figure of a serpent, forming a circle, with his tail in his mouth;
 typifying the self-existence and eternity of the world <span
-id="fr_152"></span>[2](#fn_152).
+id="fr_152"></span>[2](#fn_152.md).
 
 The serpent was deemed particularly sacred to Æsculapius; and in his
 temples live serpents were kept for the purposes of adoration. There was
 a grove of Æsculapius near Sidon, on the banks of the Tamyras <span
-id="fr_153"></span>[3](#fn_153). From which we may infer that here also
+id="fr_153"></span>[3](#fn_153.md). From which we may infer that here also
 were kept live serpents, and worshipped.
 
 The emperor Elagabalus was high priest of the god of that name, who had
@@ -1279,13 +1279,13 @@ he
 
 <span id="page_94">p. 94</span>
 
-worshipped <span id="fr_154"></span>[1](#fn_154). Hence we may infer
+worshipped <span id="fr_154"></span>[1](#fn_154.md). Hence we may infer
 that this young emperor had been educated in the mysteries of
 ophiolatreia; an inference which is strengthened by the decomposition of
 his name, or rather that of his god.
 
 Elagabal is perhaps EL-OG-OB-EL; that is, "the god OG, the
-serpent-god <span id="fr_155"></span>[2](#fn_155)." This was the deity
+serpent-god <span id="fr_155"></span>[2](#fn_155.md)." This was the deity
 whose worship was conveyed into western Europe, under the title of OGHAM
 or OGMIUS, by the Phœnician mariners, and established in Gaul and
 Ireland, as we shall see in the chapters which treat of serpent-worship
@@ -1296,7 +1296,7 @@ caduceus of the latter.
 The first mention of this name in history is in the Scriptures, where it
 appears as the cognomen of the celebrated king of Bashan, overthrown by
 Joshua. He reigned over the territory of Argob <span
-id="fr_156"></span>[3](#fn_156), which was afterwards called by the
+id="fr_156"></span>[3](#fn_156.md), which was afterwards called by the
 Greeks, Trachonitis. *Trachonitis* we have
 
 <span id="page_95">p. 95</span>
@@ -1317,7 +1317,7 @@ his tutelar god--
 
 Sandford, Dickinson, Vossius, and Gale, concur in identifying "OG, king
 of Bashan," with the Typhon or Python of mythology <span
-id="fr_157"></span>[1](#fn_157). I cannot say that the same arguments
+id="fr_157"></span>[1](#fn_157.md). I cannot say that the same arguments
 which weighed with these learned men have brought me to the same
 conclusion; but this much cannot, I think, be denied, that there is a
 *strong connexion* between
@@ -1402,7 +1402,7 @@ So accurately did the legend of Ophioneus coincide with the history of
 Satan, that CELSUS, the champion of Paganism, adduced it is a proof that
 the account of Moses was borrowed from the fables of the heathens. An
 accusation which is triumphantly answered by ORIGEN <span
-id="fr_158"></span>[1](#fn_158), who charges his opponent with gross
+id="fr_158"></span>[1](#fn_158.md), who charges his opponent with gross
 ignorance of antiquity, in supposing the fables of his own corrupt
 mythology to be more ancient than the writings of Moses.
 
@@ -1411,7 +1411,7 @@ mythology to be more ancient than the writings of Moses.
 X. ASIA MINOR.--So universal was ophiolatreia in this part of the Roman
 empire, that "a female figure, *holding a serpent in her right hand*,
 and in her left the rostrum of a ship," was the symbol of Asia <span
-id="fr_159"></span>[2](#fn_159). But the provinces of Asia Minor, which
+id="fr_159"></span>[2](#fn_159.md). But the provinces of Asia Minor, which
 exhibited the strongest and most unquestionable vestiges of
 serpent-worship, were Phrygia and Troas.
 
@@ -1421,7 +1421,7 @@ At Hierapolis, in Phrygia, a living serpent of
 
 great size was kept and worshipped, when Philip the Apostle converted
 the inhabitants to Christianity. The tradition is, that he destroyed
-this animal by his prayers <span id="fr_160"></span>[1](#fn_160); and
+this animal by his prayers <span id="fr_160"></span>[1](#fn_160.md); and
 the people overpowered by the miracle, embraced the Gospel.
 
 As a "genius loci," the serpent entered deeply into the religion of the
@@ -1450,7 +1450,7 @@ his piety with their sacrificial blood.
 
 That the Phrygians were Ophites is to be inferred from the device upon
 the shield of Hector, as represented on the Canino vases <span
-id="fr_161"></span>[1](#fn_161). The vase No. MCXII. discovers Hector
+id="fr_161"></span>[1](#fn_161.md). The vase No. MCXII. discovers Hector
 setting out to fight with Achilles. He bears a *serpent* upon his
 shield. He is again represented with the same device on another vase.
 
@@ -1460,7 +1460,7 @@ many towns of Asia Minor. *Cyzicum*, *Pergamus*, *Marcianopolis*, in
 Mysia; *Aboniteichos* and *Amastris* in Paphlagonia; *Nice* and
 *Nicomedia* in Bithynia; *Tomos* and *Dionysopolis* in Pontus; and
 *Mindus* in Caria, exhibit as their ensign the sacred serpent <span
-id="fr_162"></span>[2](#fn_162). On the medals of Troas, Nicomedia,
+id="fr_162"></span>[2](#fn_162.md). On the medals of Troas, Nicomedia,
 Amastris, and Mindus,
 
 <span id="page_102">p. 102</span>
@@ -1483,7 +1483,7 @@ seem to be corroborated by the fact, that on the opposite point of the
 Asiatic continent, there prevailed a tradition of a
 SERPENT-RACE--OPHIOGENÆ, who were said to be descendents of a father,
 who was formerly "changed from a serpent into a man <span
-id="fr_163"></span>[1](#fn_163)."
+id="fr_163"></span>[1](#fn_163.md)."
 
 <span id="page_103">p. 103</span>
 
@@ -1493,7 +1493,7 @@ was bestowed upon the serpents of the Bacchanalian mysteries. The usual
 interpretation of this word, from the *swelling cheeks* of the reptile
 when irritated, is less probable.
 
-Ælian <span id="fr_164"></span>[1](#fn_164) also speaks of a race of
+Ælian <span id="fr_164"></span>[1](#fn_164.md) also speaks of a race of
 Ophiogenæ in Phrygia, the offspring of a dragon sacred to Diana, and a
 woman who accidentally entered the grove.
 
@@ -1513,13 +1513,13 @@ Pythian worship; and that *live serpents* were
 always preserved in the sanctuaries of Æsculapius. There is, therefore,
 strong reason for believing, that wherever there was a temple to either
 of these deities, ophiolatreia, in some modification, existed. Pythian
-games <span id="fr_165"></span>[1](#fn_165) were held at *Tralles*,
+games <span id="fr_165"></span>[1](#fn_165.md) were held at *Tralles*,
 *Miletus*, *Magnesia*, *Side*, and *Perga*--all in Asia Minor.
 *Chalcedon*, *Chrysa*, and *Patara*, were celebrated for the temples
 which were dedicated in them to Apollo.
 
 The most celebrated temple of Æsculapius in Asia Minor was at
-*Pergamus* <span id="fr_166"></span>[2](#fn_166): and all the Pergamean
+*Pergamus* <span id="fr_166"></span>[2](#fn_166.md): and all the Pergamean
 coins, according to Spanheim, bore the figure of a serpent. The
 Æsculapian worship may be traced in several other places in this
 country: but to avoid prolixity, I relinquish the search to the more
@@ -1652,34 +1652,34 @@ which were adjacent to Asia Minor, if not in those which were nearer to
 Greece.
 
 1\. The island of CYPRUS was originally called *Ophiusa* <span
-id="fr_167"></span>[1](#fn_167)--that is, "the place of serpents:" a
+id="fr_167"></span>[1](#fn_167.md)--that is, "the place of serpents:" a
 name which was very generally given to the settlements of the
-worshippers of the serpent OPH <span id="fr_168"></span>[2](#fn_168).
+worshippers of the serpent OPH <span id="fr_168"></span>[2](#fn_168.md).
 The tradition was, that formerly these places *swarmed with serpents*:
 which, from the *insular* situation of most of them, is not very
 probable. At Paphos, in Cyprus, there was a tradition of serpents who
 had *two legs*. This, remarks Bryant, related to *men*, and not to
-*snakes* <span id="fr_169"></span>[3](#fn_169).
+*snakes* <span id="fr_169"></span>[3](#fn_169.md).
 
 2\. RHODES was also called *Ophiusa* <span
-id="fr_170"></span>[4](#fn_170): and, according
+id="fr_170"></span>[4](#fn_170.md): and, according
 
 <span id="page_111">p. 111</span>
 
-to Bochart <span id="fr_171"></span>[1](#fn_171), still retains its
+to Bochart <span id="fr_171"></span>[1](#fn_171.md), still retains its
 designation in the Syrian *Rhod* (a serpent.) At Rhodes there was a
 tradition of a number of serpents who desolated the country, and
 destroyed many of its inhabitants. The survivors sent to Delphi, to
 consult the oracle, and were desired to bring over PHORBAS, who, taking
 up his residence in the island, soon exterminated the reptiles. He was
 exalted after death into the constellation OPHIUCHUS <span
-id="fr_172"></span>[2](#fn_172), which is the same with the OPHIONEUS of
+id="fr_172"></span>[2](#fn_172.md), which is the same with the OPHIONEUS of
 Phœnicia. There are some curious coincidences with serpent-worship, in
 the history of this Phorbas. He was the grandson of Apollo, and father
 of Iphis, in which word we recognise the root *Eph* or *Oph*. APOLLO is
 the solar deity symbolized by the serpent OPH; and "Phorbas" may be
 decomposed into PHI-OR-AB; *i.e.* "*The oracle of the solar
-serpent* <span id="fr_173"></span>[3](#fn_173)." It appears, also, that
+serpent* <span id="fr_173"></span>[3](#fn_173.md)." It appears, also, that
 Phorbas married HERMYNE--which may mean "*a woman of Hermon*," where the
 Hivites resided.
 
@@ -1697,7 +1697,7 @@ connexion of this legend with ophiolatreia.
 
 3\. In the island of ICARIA was a temple of Diana, called *Tauropolium*;
 and a small town named *Draconum* stood upon a promontory of the same
-name <span id="fr_174"></span>[1](#fn_174). Tauropolium, according to
+name <span id="fr_174"></span>[1](#fn_174.md). Tauropolium, according to
 Bryant, is TOR-OP-EL--*the tower of the god Oph*. We may infer,
 therefore, from the connexion of Draconum (*the town of the dragon*)
 with Tauropolium, (*the temple of the serpent-god*,) that the Hivites of
@@ -1713,12 +1713,12 @@ prevailed at Samos.
 5\. At Chios, there was another settlement of Hivites, as the name of
 the island, and a tradition preserved in it, would import. "*Chios*" is
 derived from "*Hhivia*," the same root from whence comes "*Hivite* <span
-id="fr_175"></span>[1](#fn_175);" the meaning of which word is
+id="fr_175"></span>[1](#fn_175.md);" the meaning of which word is
 ascertained to be "*a serpent*." The Hivites who settled in this island
 were finally exterminated, according to the probable import of the
 following legend:--At Chios was a mountain called Pelineus; *i.e.*
 according to Bochart, *Peli-naas--the stupendous serpent*. "Under this
-mountain," says Ælian <span id="fr_176"></span>[2](#fn_176), "there
+mountain," says Ælian <span id="fr_176"></span>[2](#fn_176.md), "there
 lived an immense dragon, whose voice was so terrific that no one could
 ever approach his cave to see him. He was at length destroyed by setting
 fire to piles of wood placed at the mouth of the cavern." This relates,
@@ -1739,7 +1739,7 @@ mythology. But the name of "Cadmians" was rather general than
 particular--it was bestowed indiscriminately upon the authors of this
 superstition, whether proceeding from Lebanon or Egypt. "They were a
 two-fold colony which came both from Egypt and Syria <span
-id="fr_177"></span>[1](#fn_177)." The Syrian Cadmians colonized the
+id="fr_177"></span>[1](#fn_177.md)." The Syrian Cadmians colonized the
 islands above mentioned. The Egyptian adventurers settled first in
 Crete, and afterwards in the Cyclades, Peloponnesus, Greece, Samothrace,
 Macedonia, Illyrium, &c. as we shall hereafter find.
@@ -1755,27 +1755,27 @@ tribes, who
 <span id="page_115">p. 115</span>
 
 bore for their banner the sacred dragon <span
-id="fr_178"></span>[1](#fn_178): and was carried with them, probably, to
+id="fr_178"></span>[1](#fn_178.md): and was carried with them, probably, to
 the river OBI--a river, in whose name is preserved to the present day, a
 memorial of the sacred serpent OB. It might indeed have been called "the
 serpent river," from its winding course; but this is not a *peculiarity*
 of any river--it is common to all: and the recorded fact that the
 OSTIACKES, who inhabited the banks of the OBI, among their other idols,
 worshipped *the image* of A SERPENT <span
-id="fr_179"></span>[2](#fn_179), tends strongly to corroborate our
+id="fr_179"></span>[2](#fn_179.md), tends strongly to corroborate our
 hypothesis.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_36"></span>[39:1](wos04.htm#fr_36) Analysis of Anc. Myth.
+<span id="fn_36"></span>[39:1](wos04.htm#fr_36.md) Analysis of Anc. Myth.
 ii. 458.
 
-<span id="fn_37"></span>[39:2](wos04.htm#fr_37) Macrobius, *Saturnal*.
+<span id="fn_37"></span>[39:2](wos04.htm#fr_37.md) Macrobius, *Saturnal*.
 lib. i. c. 20.
 
-<span id="fn_38"></span>[40:1](wos04.htm#fr_38) The universality of
+<span id="fn_38"></span>[40:1](wos04.htm#fr_38.md) The universality of
 serpent-worship is alluded to by Lucan in these memorable lines:
 
 "Vos quoque, qui *cunctis* innoxia NUMINA terris  
@@ -1784,19 +1784,19 @@ Serpitis, aurato nitidi fulgore, DRACONES."
 
 *Draco* is the general term to signify all *large* serpents.
 
-<span id="fn_39"></span>[42:1](wos04.htm#fr_39) Bel and the Dragon, v.
+<span id="fn_39"></span>[42:1](wos04.htm#fr_39.md) Bel and the Dragon, v.
 28.
 
-<span id="fn_40"></span>[43:1](wos04.htm#fr_40) Diod. Sic. lib. ii. s.
+<span id="fn_40"></span>[43:1](wos04.htm#fr_40.md) Diod. Sic. lib. ii. s.
 70.
 
-<span id="fn_41"></span>[43:2](wos04.htm#fr_41) Kircher. Œdip. Ægyptiac.
+<span id="fn_41"></span>[43:2](wos04.htm#fr_41.md) Kircher. Œdip. Ægyptiac.
 i. 262.
 
-<span id="fn_42"></span>[43:3](wos04.htm#fr_42) See "Serpent-worship in
+<span id="fn_42"></span>[43:3](wos04.htm#fr_42.md) See "Serpent-worship in
 Syria."
 
-<span id="fn_43"></span>[43:4](wos04.htm#fr_43) Clemens Alexandrinus
+<span id="fn_43"></span>[43:4](wos04.htm#fr_43.md) Clemens Alexandrinus
 writes ΒΕΛΙΑΡ in the text. 2 Con vi. 15. There are several MSS. of this
 epistle, in which βελιαρ is found instead of βελιαλ--such as those of
 Lincoln, Magdalen, and New Colleges, in Oxford, and Emmanuel College in
@@ -1807,160 +1807,160 @@ id="page_44">p. 44</span> solar deity, from אור, light. BELIAL has a
 similar signification, being compounded of BEL and AL, *deus*. "*Iaul*,"
 in the Breton language, is the name of the solar deity.
 
-<span id="fn_44"></span>[44:1](wos04.htm#fr_44) Herod. ii. 74.
+<span id="fn_44"></span>[44:1](wos04.htm#fr_44.md) Herod. ii. 74.
 
-<span id="fn_45"></span>[44:2](wos04.htm#fr_45) Herod. viii. 41.
+<span id="fn_45"></span>[44:2](wos04.htm#fr_45.md) Herod. viii. 41.
 
-<span id="fn_46"></span>[45:1](wos04.htm#fr_46) Aristarchus, p. 11.
+<span id="fn_46"></span>[45:1](wos04.htm#fr_46.md) Aristarchus, p. 11.
 
-<span id="fn_47"></span>[45:2](wos04.htm#fr_47) Rev. ix. 11.
+<span id="fn_47"></span>[45:2](wos04.htm#fr_47.md) Rev. ix. 11.
 
-<span id="fn_48"></span>[45:3](wos04.htm#fr_48) Rev. xx. 1, 2.
+<span id="fn_48"></span>[45:3](wos04.htm#fr_48.md) Rev. xx. 1, 2.
 
-<span id="fn_49"></span>[45:4](wos04.htm#fr_49) Koch. de Cultu
+<span id="fn_49"></span>[45:4](wos04.htm#fr_49.md) Koch. de Cultu
 Serpentum, s. 7. p. 30.
 
-<span id="fn_50"></span>[46:1](wos04.htm#fr_50) Vossius de Idol. lib.
+<span id="fn_50"></span>[46:1](wos04.htm#fr_50.md) Vossius de Idol. lib.
 iv. c. 54, citing Codinus.
 
-<span id="fn_51"></span>[46:2](wos04.htm#fr_51) Salmasius Hist. Aug.
+<span id="fn_51"></span>[46:2](wos04.htm#fr_51.md) Salmasius Hist. Aug.
 Script. 96.
 
-<span id="fn_52"></span>[46:3](wos04.htm#fr_52) Koch. *ut
+<span id="fn_52"></span>[46:3](wos04.htm#fr_52.md) Koch. *ut
 supra.*--Suidas.
 
-<span id="fn_53"></span>[46:4](wos04.htm#fr_53) Stukely. Abury. 56.
+<span id="fn_53"></span>[46:4](wos04.htm#fr_53.md) Stukely. Abury. 56.
 
-<span id="fn_54"></span>[46:5](wos04.htm#fr_54) Koch.
+<span id="fn_54"></span>[46:5](wos04.htm#fr_54.md) Koch.
 
-<span id="fn_55"></span>[47:1](wos04.htm#fr_55) Vopiscus Hist. Aug.
+<span id="fn_55"></span>[47:1](wos04.htm#fr_55.md) Vopiscus Hist. Aug.
 Script. 218.
 
-<span id="fn_56"></span>[48:1](wos04.htm#fr_56) Præp. Evang. i. 42.
+<span id="fn_56"></span>[48:1](wos04.htm#fr_56.md) Præp. Evang. i. 42.
 
-<span id="fn_57"></span>[48:2](wos04.htm#fr_57) Faber, Hor. Mos. l. 72.
+<span id="fn_57"></span>[48:2](wos04.htm#fr_57.md) Faber, Hor. Mos. l. 72.
 
-<span id="fn_58"></span>[48:3](wos04.htm#fr_58) Porta 47. Apud Hyde.
+<span id="fn_58"></span>[48:3](wos04.htm#fr_58.md) Porta 47. Apud Hyde.
 Rel. Vet. Pers. 478.
 
-<span id="fn_59"></span>[49:1](wos04.htm#fr_59) This creed is inculcated
+<span id="fn_59"></span>[49:1](wos04.htm#fr_59.md) This creed is inculcated
 in the Ardivaraf Nameh, a work on the ancient religion of Persia.
 
-<span id="fn_60"></span>[49:2](wos04.htm#fr_60) Maurice Ind. Ant. iii.
+<span id="fn_60"></span>[49:2](wos04.htm#fr_60.md) Maurice Ind. Ant. iii.
 199.
 
-<span id="fn_61"></span>[49:3](wos04.htm#fr_61) Arnobius, lib. v. p.
+<span id="fn_61"></span>[49:3](wos04.htm#fr_61.md) Arnobius, lib. v. p.
 171. Jul. Firm. p. 23.
 
-<span id="fn_62"></span>[50:1](wos04.htm#fr_62) Mandelsoe, Travels,
+<span id="fn_62"></span>[50:1](wos04.htm#fr_62.md) Mandelsoe, Travels,
 chap. i.
 
-<span id="fn_63"></span>[50:2](wos04.htm#fr_63) Bryant. Anal. i. 276;
+<span id="fn_63"></span>[50:2](wos04.htm#fr_63.md) Bryant. Anal. i. 276;
 plate in vol. ii. 406.
 
-<span id="fn_64"></span>[50:3](wos04.htm#fr_64) Ibid. ii. 407.
+<span id="fn_64"></span>[50:3](wos04.htm#fr_64.md) Ibid. ii. 407.
 
-<span id="fn_65"></span>[50:4](wos04.htm#fr_65) Ibid. plate 406.
+<span id="fn_65"></span>[50:4](wos04.htm#fr_65.md) Ibid. plate 406.
 
-<span id="fn_66"></span>[53:1](wos04.htm#fr_66) Seld. on Arund. Marbles,
+<span id="fn_66"></span>[53:1](wos04.htm#fr_66.md) Seld. on Arund. Marbles,
 133, cited by Stukely, Abury, 56.
 
-<span id="fn_67"></span>[53:2](wos04.htm#fr_67) Œdip. Ægyp. vol. iii. p.
+<span id="fn_67"></span>[53:2](wos04.htm#fr_67.md) Œdip. Ægyp. vol. iii. p.
 23.
 
-<span id="fn_68"></span>[53:3](wos04.htm#fr_68) For an account of this
+<span id="fn_68"></span>[53:3](wos04.htm#fr_68.md) For an account of this
 temple, see the Chapter on Ophite Temples.
 
-<span id="fn_69"></span>[54:1](wos04.htm#fr_69) Stukely, Abury, 56.
+<span id="fn_69"></span>[54:1](wos04.htm#fr_69.md) Stukely, Abury, 56.
 
-<span id="fn_70"></span>[56:1](wos04.htm#fr_70) Kircher, Pamph. Obel.
+<span id="fn_70"></span>[56:1](wos04.htm#fr_70.md) Kircher, Pamph. Obel.
 399.
 
-<span id="fn_71"></span>[56:2](wos04.htm#fr_71) Ibid. 380.
+<span id="fn_71"></span>[56:2](wos04.htm#fr_71.md) Ibid. 380.
 
-<span id="fn_72"></span>[56:3](wos04.htm#fr_72) Dissert. on the Cabiri,
+<span id="fn_72"></span>[56:3](wos04.htm#fr_72.md) Dissert. on the Cabiri,
 1. 316.
 
-<span id="fn_73"></span>[58:1](wos04.htm#fr_73) Psalm cv.
+<span id="fn_73"></span>[58:1](wos04.htm#fr_73.md) Psalm cv.
 
-<span id="fn_74"></span>[58:2](wos04.htm#fr_74) Gen. xli.
+<span id="fn_74"></span>[58:2](wos04.htm#fr_74.md) Gen. xli.
 
-<span id="fn_75"></span>[59:1](wos04.htm#fr_75) See his conversation
+<span id="fn_75"></span>[59:1](wos04.htm#fr_75.md) See his conversation
 with God in Horeb, Exod. iii. 13.
 
-<span id="fn_76"></span>[59:2](wos04.htm#fr_76) Deut. vi. 4.
+<span id="fn_76"></span>[59:2](wos04.htm#fr_76.md) Deut. vi. 4.
 
-<span id="fn_77"></span>[60:1](wos04.htm#fr_77) This is one of numerous
+<span id="fn_77"></span>[60:1](wos04.htm#fr_77.md) This is one of numerous
 similar anecdotes recorded of the Hindûs by different writers.
 
-<span id="fn_78"></span>[61:1](wos04.htm#fr_78) Purch. Pilg. part i. p.
+<span id="fn_78"></span>[61:1](wos04.htm#fr_78.md) Purch. Pilg. part i. p.
 565.
 
-<span id="fn_79"></span>[62:1](wos04.htm#fr_79) Maurice, Ind. Ant. ii.
+<span id="fn_79"></span>[62:1](wos04.htm#fr_79.md) Maurice, Ind. Ant. ii.
 192.
 
-<span id="fn_80"></span>[62:2](wos04.htm#fr_80) Ibid. iii. 203.
+<span id="fn_80"></span>[62:2](wos04.htm#fr_80.md) Ibid. iii. 203.
 
-<span id="fn_81"></span>[62:3](wos04.htm#fr_81) Ibid. iii. 119.
+<span id="fn_81"></span>[62:3](wos04.htm#fr_81.md) Ibid. iii. 119.
 
-<span id="fn_82"></span>[63:1](wos04.htm#fr_82) Francklin on the tenets
+<span id="fn_82"></span>[63:1](wos04.htm#fr_82.md) Francklin on the tenets
 of the Jeynes and Boodhists.
 
-<span id="fn_83"></span>[63:2](wos04.htm#fr_83) Moor. Hindû Pantheon.
+<span id="fn_83"></span>[63:2](wos04.htm#fr_83.md) Moor. Hindû Pantheon.
 
-<span id="fn_84"></span>[63:3](wos04.htm#fr_84) Faber, Pug. Idol. i.
+<span id="fn_84"></span>[63:3](wos04.htm#fr_84.md) Faber, Pug. Idol. i.
 456.
 
-<span id="fn_85"></span>[63:4](wos04.htm#fr_85) Asiat. Res. i. 150.
+<span id="fn_85"></span>[63:4](wos04.htm#fr_85.md) Asiat. Res. i. 150.
 
-<span id="fn_86"></span>[63:5](wos04.htm#fr_86) Faber. P. I. i. 451.
+<span id="fn_86"></span>[63:5](wos04.htm#fr_86.md) Faber. P. I. i. 451.
 
-<span id="fn_87"></span>[63:6](wos04.htm#fr_87) Faber. P. I. i. 452.
+<span id="fn_87"></span>[63:6](wos04.htm#fr_87.md) Faber. P. I. i. 452.
 
-<span id="fn_88"></span>[63:7](wos04.htm#fr_88) Ibid. 453.
+<span id="fn_88"></span>[63:7](wos04.htm#fr_88.md) Ibid. 453.
 
-<span id="fn_89"></span>[64:1](wos04.htm#fr_89) Moor. Hind. Panth.
+<span id="fn_89"></span>[64:1](wos04.htm#fr_89.md) Moor. Hind. Panth.
 plates 17, 18, 20.
 
-<span id="fn_90"></span>[64:2](wos04.htm#fr_90) Ibid. pl. 47.
+<span id="fn_90"></span>[64:2](wos04.htm#fr_90.md) Ibid. pl. 47.
 
-<span id="fn_91"></span>[64:3](wos04.htm#fr_91) Ibid. pl. 27.
+<span id="fn_91"></span>[64:3](wos04.htm#fr_91.md) Ibid. pl. 27.
 
-<span id="fn_92"></span>[64:4](wos04.htm#fr_92) Ibid. p. 22.
+<span id="fn_92"></span>[64:4](wos04.htm#fr_92.md) Ibid. p. 22.
 
-<span id="fn_93"></span>[65:1](wos04.htm#fr_93) Maurice, Hist. of
+<span id="fn_93"></span>[65:1](wos04.htm#fr_93.md) Maurice, Hist. of
 Hindostan, i. 343.
 
-<span id="fn_94"></span>[65:2](wos04.htm#fr_94) Asiat. Res. viii. 65.
+<span id="fn_94"></span>[65:2](wos04.htm#fr_94.md) Asiat. Res. viii. 65.
 
-<span id="fn_95"></span>[66:1](wos04.htm#fr_95) Maurice, Hist. of
+<span id="fn_95"></span>[66:1](wos04.htm#fr_95.md) Maurice, Hist. of
 Hindostan, v. 343.
 
-<span id="fn_96"></span>[67:1](wos04.htm#fr_96) Quintus Curtius, lib.
+<span id="fn_96"></span>[67:1](wos04.htm#fr_96.md) Quintus Curtius, lib.
 viii. c. 12.
 
-<span id="fn_97"></span>[67:2](wos04.htm#fr_97) For the above valuable
+<span id="fn_97"></span>[67:2](wos04.htm#fr_97.md) For the above valuable
 facts, I am indebted to the elegant work of Col. Tod, on the Antiquities
 and Annals of Rajahstan.
 
-<span id="fn_98"></span>[68:1](wos04.htm#fr_98) Maur. Hist. Hind. i.
+<span id="fn_98"></span>[68:1](wos04.htm#fr_98.md) Maur. Hist. Hind. i.
 291.
 
-<span id="fn_99"></span>[68:2](wos04.htm#fr_99) Embassy to Tibet.
+<span id="fn_99"></span>[68:2](wos04.htm#fr_99.md) Embassy to Tibet.
 
-<span id="fn_100"></span>[68:3](wos04.htm#fr_100) Account of Ceylon, p.
+<span id="fn_100"></span>[68:3](wos04.htm#fr_100.md) Account of Ceylon, p.
 83.
 
-<span id="fn_101"></span>[69:1](wos04.htm#fr_101) Stukeley, Abury, 56.
+<span id="fn_101"></span>[69:1](wos04.htm#fr_101.md) Stukeley, Abury, 56.
 
-<span id="fn_102"></span>[69:2](wos04.htm#fr_102) Maur. Hist. Hind. i.
+<span id="fn_102"></span>[69:2](wos04.htm#fr_102.md) Maur. Hist. Hind. i.
 210.
 
-<span id="fn_103"></span>[69:3](wos04.htm#fr_103) Lecompte, China, 94.
+<span id="fn_103"></span>[69:3](wos04.htm#fr_103.md) Lecompte, China, 94.
 
-<span id="fn_104"></span>[70:1](wos04.htm#fr_104) Kœmpfer, Japan, 246.
+<span id="fn_104"></span>[70:1](wos04.htm#fr_104.md) Kœmpfer, Japan, 246.
 
-<span id="fn_105"></span>[70:2](wos04.htm#fr_105) A somewhat similar
+<span id="fn_105"></span>[70:2](wos04.htm#fr_105.md) A somewhat similar
 story is told by Pindar, *Olymp*. 6, of Iamus, the son of Apollo and
 Evadne: though in this case the two serpents, *sent by the gods*, fed
 the foundling with wild honey.
@@ -1969,203 +1969,203 @@ the foundling with wild honey.
 Δαιμόνων βουλαῖσιν ἐ-  
 θρέψαντο δράκοντες.
 
-<span id="fn_106"></span>[70:3](wos04.htm#fr_106) Cambry Monumens
+<span id="fn_106"></span>[70:3](wos04.htm#fr_106.md) Cambry Monumens
 Celtiques. 163.
 
-<span id="fn_107"></span>[71:1](wos04.htm#fr_107) Vide *infra*.
+<span id="fn_107"></span>[71:1](wos04.htm#fr_107.md) Vide *infra*.
 "Serpent-worship in Greece and Egypt."
 
-<span id="fn_108"></span>[72:1](wos04.htm#fr_108) Jablonski, Panth. Æg.
+<span id="fn_108"></span>[72:1](wos04.htm#fr_108.md) Jablonski, Panth. Æg.
 lib. i. c. 4.
 
-<span id="fn_109"></span>[72:2](wos04.htm#fr_109) Purchas. Pilg. part
+<span id="fn_109"></span>[72:2](wos04.htm#fr_109.md) Purchas. Pilg. part
 iii. p. 395.
 
-<span id="fn_110"></span>[72:3](wos04.htm#fr_110) "Tour through the
+<span id="fn_110"></span>[72:3](wos04.htm#fr_110.md) "Tour through the
 Upper Provinces," p. 166.
 
-<span id="fn_111"></span>[73:1](wos04.htm#fr_111) Maur. Ind. Ant. ii.
+<span id="fn_111"></span>[73:1](wos04.htm#fr_111.md) Maur. Ind. Ant. ii.
 192.
 
-<span id="fn_112"></span>[73:2](wos04.htm#fr_112) Maur. Ind. Ant. 194,
+<span id="fn_112"></span>[73:2](wos04.htm#fr_112.md) Maur. Ind. Ant. 194,
 195.
 
-<span id="fn_113"></span>[73:3](wos04.htm#fr_113) Rev. xii. 7.
+<span id="fn_113"></span>[73:3](wos04.htm#fr_113.md) Rev. xii. 7.
 
-<span id="fn_114"></span>[73:4](wos04.htm#fr_114) A similar notion
+<span id="fn_114"></span>[73:4](wos04.htm#fr_114.md) A similar notion
 prevailed in the Mythology of Scandinavia. See *infra*, c. 3.
 
-<span id="fn_115"></span>[74:1](wos04.htm#fr_115) Kœmpfer, Japan, 124.
+<span id="fn_115"></span>[74:1](wos04.htm#fr_115.md) Kœmpfer, Japan, 124.
 
-<span id="fn_116"></span>[74:2](wos04.htm#fr_116) Ibid. 128.
+<span id="fn_116"></span>[74:2](wos04.htm#fr_116.md) Ibid. 128.
 
-<span id="fn_117"></span>[74:3](wos04.htm#fr_117) Ibid. 191.
+<span id="fn_117"></span>[74:3](wos04.htm#fr_117.md) Ibid. 191.
 
-<span id="fn_118"></span>[76:1](wos04.htm#fr_118) Java, i. 9, 10. 15.
+<span id="fn_118"></span>[76:1](wos04.htm#fr_118.md) Java, i. 9, 10. 15.
 17.
 
-<span id="fn_119"></span>[76:2](wos04.htm#fr_119) Ibid. 47.
+<span id="fn_119"></span>[76:2](wos04.htm#fr_119.md) Ibid. 47.
 
-<span id="fn_120"></span>[76:3](wos04.htm#fr_120) Ibid. 21, 22.
+<span id="fn_120"></span>[76:3](wos04.htm#fr_120.md) Ibid. 21, 22.
 
-<span id="fn_121"></span>[77:1](wos04.htm#fr_121) Delph. Phœn. c. 2. p.
+<span id="fn_121"></span>[77:1](wos04.htm#fr_121.md) Delph. Phœn. c. 2. p.
 10.
 
-<span id="fn_122"></span>[77:2](wos04.htm#fr_122) De Vitâ Apollonii,
+<span id="fn_122"></span>[77:2](wos04.htm#fr_122.md) De Vitâ Apollonii,
 lib. i. c. 14, and lib. iii. c. 3.
 
-<span id="fn_123"></span>[78:1](wos04.htm#fr_123) Præp. Evang. 40.
+<span id="fn_123"></span>[78:1](wos04.htm#fr_123.md) Præp. Evang. 40.
 
-<span id="fn_124"></span>[78:2](wos04.htm#fr_124) Ibid. 39.
+<span id="fn_124"></span>[78:2](wos04.htm#fr_124.md) Ibid. 39.
 
-<span id="fn_125"></span>[78:3](wos04.htm#fr_125) Στοιχείων. See
+<span id="fn_125"></span>[78:3](wos04.htm#fr_125.md) Στοιχείων. See
 Warburton *Div. Leg. of Moses*, iii. 213.
 
-<span id="fn_126"></span>[80:1](wos04.htm#fr_126) Ant. Myth. i, 58 *et
+<span id="fn_126"></span>[80:1](wos04.htm#fr_126.md) Ant. Myth. i, 58 *et
 passim*.
 
-<span id="fn_127"></span>[81:1](wos04.htm#fr_127) OB is the same as AB,
+<span id="fn_127"></span>[81:1](wos04.htm#fr_127.md) OB is the same as AB,
 with a prolonged pronunciation.
 
-<span id="fn_128"></span>[82:1](wos04.htm#fr_128) Jablonski Pantheon.
+<span id="fn_128"></span>[82:1](wos04.htm#fr_128.md) Jablonski Pantheon.
 Ægypt. lib. i. c. 4. s. 11.
 
-<span id="fn_129"></span>[82:2](wos04.htm#fr_129) Plutarch. De Iside et
+<span id="fn_129"></span>[82:2](wos04.htm#fr_129.md) Plutarch. De Iside et
 Osiride 632. Edit. Steph.
 
-<span id="fn_130"></span>[83:1](wos04.htm#fr_130) Clem. Alex. Strom. 1.
+<span id="fn_130"></span>[83:1](wos04.htm#fr_130.md) Clem. Alex. Strom. 1.
 p. 303.
 
-<span id="fn_131"></span>[83:2](wos04.htm#fr_131) Davies. Myth. of
+<span id="fn_131"></span>[83:2](wos04.htm#fr_131.md) Davies. Myth. of
 Druids, 122.
 
-<span id="fn_132"></span>[85:1](wos04.htm#fr_132) Præp. Evang. lib. i.
+<span id="fn_132"></span>[85:1](wos04.htm#fr_132.md) Præp. Evang. lib. i.
 41
 
-<span id="fn_133"></span>[85:2](wos04.htm#fr_133) Ibid .iv. 39.
+<span id="fn_133"></span>[85:2](wos04.htm#fr_133.md) Ibid .iv. 39.
 
-<span id="fn_134"></span>[85:3](wos04.htm#fr_134) Bryant. Anal. l. 13.
+<span id="fn_134"></span>[85:3](wos04.htm#fr_134.md) Bryant. Anal. l. 13.
 
-<span id="fn_135"></span>[86:1](wos04.htm#fr_135) Geog. Sacr.
+<span id="fn_135"></span>[86:1](wos04.htm#fr_135.md) Geog. Sacr.
 
-<span id="fn_136"></span>[86:2](wos04.htm#fr_136) Bryant. Anal. ii. 199.
+<span id="fn_136"></span>[86:2](wos04.htm#fr_136.md) Bryant. Anal. ii. 199.
 
-<span id="fn_137"></span>[86:3](wos04.htm#fr_137) Judges iii, 3.
+<span id="fn_137"></span>[86:3](wos04.htm#fr_137.md) Judges iii, 3.
 
-<span id="fn_138"></span>[87:1](wos04.htm#fr_138) 2 Kings xviii. 4.
+<span id="fn_138"></span>[87:1](wos04.htm#fr_138.md) 2 Kings xviii. 4.
 
-<span id="fn_139"></span>[87:2](wos04.htm#fr_139) Hæres. xxxvii. p. 267.
+<span id="fn_139"></span>[87:2](wos04.htm#fr_139.md) Hæres. xxxvii. p. 267.
 
-<span id="fn_140"></span>[88:1](wos04.htm#fr_140) De Præscript. Hæret.
+<span id="fn_140"></span>[88:1](wos04.htm#fr_140.md) De Præscript. Hæret.
 c. xlvii. p. 221. Cited by Bryant, Anal. ii. 218.
 
-<span id="fn_141"></span>[88:2](wos04.htm#fr_141) P. 91
+<span id="fn_141"></span>[88:2](wos04.htm#fr_141.md) P. 91
 
-<span id="fn_142"></span>[89:1](wos04.htm#fr_142) It was a common
+<span id="fn_142"></span>[89:1](wos04.htm#fr_142.md) It was a common
 practice of the Heathen to kiss their idols.
 
-<span id="fn_143"></span>[89:2](wos04.htm#fr_143) Epiph. lib. i. tom. 3.
+<span id="fn_143"></span>[89:2](wos04.htm#fr_143.md) Epiph. lib. i. tom. 3.
 p. 268, &c.
 
-<span id="fn_144"></span>[90:1](wos04.htm#fr_144) Demosth. pro Corona,
+<span id="fn_144"></span>[90:1](wos04.htm#fr_144.md) Demosth. pro Corona,
 s. 79.
 
-<span id="fn_145"></span>[90:2](wos04.htm#fr_145) Nicola: de ritu Bacch.
+<span id="fn_145"></span>[90:2](wos04.htm#fr_145.md) Nicola: de ritu Bacch.
 apud Gronov. vii. 186.
 
-<span id="fn_146"></span>[90:3](wos04.htm#fr_146) Prolegomena to the
+<span id="fn_146"></span>[90:3](wos04.htm#fr_146.md) Prolegomena to the
 Pythia, of Pindar, cited by Bryant. Anal. ii. 147.
 
-<span id="fn_147"></span>[91:1](wos04.htm#fr_147) Faber. Pag. Idol. ii.
+<span id="fn_147"></span>[91:1](wos04.htm#fr_147.md) Faber. Pag. Idol. ii.
 433. citing Asiat. Res. vol. x.
 
-<span id="fn_148"></span>[91:2](wos04.htm#fr_148) Bryant, Anal. ii. 142.
+<span id="fn_148"></span>[91:2](wos04.htm#fr_148.md) Bryant, Anal. ii. 142.
 
-<span id="fn_149"></span>[92:1](wos04.htm#fr_149) Gibbon, Dec. and Fall
+<span id="fn_149"></span>[92:1](wos04.htm#fr_149.md) Gibbon, Dec. and Fall
 of Rom. Emp. iv. 113.
 
-<span id="fn_150"></span>[92:2](wos04.htm#fr_150) Strabo, lib. xvi. 750.
+<span id="fn_150"></span>[92:2](wos04.htm#fr_150.md) Strabo, lib. xvi. 750.
 
-<span id="fn_151"></span>[93:1](wos04.htm#fr_151) Plate in Maurice and
+<span id="fn_151"></span>[93:1](wos04.htm#fr_151.md) Plate in Maurice and
 Bryant.
 
-<span id="fn_152"></span>[93:2](wos04.htm#fr_152) Lib. i. c. 9.
+<span id="fn_152"></span>[93:2](wos04.htm#fr_152.md) Lib. i. c. 9.
 
-<span id="fn_153"></span>[93:3](wos04.htm#fr_153) Strabo, 756.
+<span id="fn_153"></span>[93:3](wos04.htm#fr_153.md) Strabo, 756.
 
-<span id="fn_154"></span>[94:1](wos04.htm#fr_154) Lampridius, cited by
+<span id="fn_154"></span>[94:1](wos04.htm#fr_154.md) Lampridius, cited by
 Jablonski Panth. Ægypt. 89.
 
-<span id="fn_155"></span>[94:2](wos04.htm#fr_155) OBEL is probably the
+<span id="fn_155"></span>[94:2](wos04.htm#fr_155.md) OBEL is probably the
 same as BEL--the great god of the Babylonians.
 
-<span id="fn_156"></span>[94:3](wos04.htm#fr_156) Deut. iii. 4.
+<span id="fn_156"></span>[94:3](wos04.htm#fr_156.md) Deut. iii. 4.
 
-<span id="fn_157"></span>[95:1](wos04.htm#fr_157) See Gale. *Court of
+<span id="fn_157"></span>[95:1](wos04.htm#fr_157.md) See Gale. *Court of
 Gentiles*, v. L b. ii. 58.
 
-<span id="fn_158"></span>[99:1](wos04.htm#fr_158) Cited by
+<span id="fn_158"></span>[99:1](wos04.htm#fr_158.md) Cited by
 Stillingfleet. Orig. Sac, book iii. c. 3. s. 18.
 
-<span id="fn_159"></span>[99:2](wos04.htm#fr_159) Beger *de Num. Creten.
+<span id="fn_159"></span>[99:2](wos04.htm#fr_159.md) Beger *de Num. Creten.
 Serpentif.* 8.
 
-<span id="fn_160"></span>[100:1](wos04.htm#fr_160) Nelson, Fasts and
+<span id="fn_160"></span>[100:1](wos04.htm#fr_160.md) Nelson, Fasts and
 Festivals.
 
-<span id="fn_161"></span>[101:1](wos04.htm#fr_161) Archæol. vol. xxiii.
+<span id="fn_161"></span>[101:1](wos04.htm#fr_161.md) Archæol. vol. xxiii.
 
-<span id="fn_162"></span>[101:2](wos04.htm#fr_162) See Spanheim, 212,
+<span id="fn_162"></span>[101:2](wos04.htm#fr_162.md) See Spanheim, 212,
 &c.
 
-<span id="fn_163"></span>[102:1](wos04.htm#fr_163) Strabo, lib. 13.
+<span id="fn_163"></span>[102:1](wos04.htm#fr_163.md) Strabo, lib. 13.
 
-<span id="fn_164"></span>[103:1](wos04.htm#fr_164) De Animal. lib. xii.
+<span id="fn_164"></span>[103:1](wos04.htm#fr_164.md) De Animal. lib. xii.
 c. 39.
 
-<span id="fn_165"></span>[104:1](wos04.htm#fr_165) Gronov. vii. 869, on
+<span id="fn_165"></span>[104:1](wos04.htm#fr_165.md) Gronov. vii. 869, on
 the *Arundelian Marbles and Stone found at Megara*.
 
-<span id="fn_166"></span>[104:2](wos04.htm#fr_166) It is remarkable that
+<span id="fn_166"></span>[104:2](wos04.htm#fr_166.md) It is remarkable that
 this city is particularly stigmatized in Scripture as "*Satan's
 seat*,"---"*where Satan dwelleth*."-Rev. ii. 13.
 
-<span id="fn_167"></span>[110:1](wos04.htm#fr_167) Pliny.
+<span id="fn_167"></span>[110:1](wos04.htm#fr_167.md) Pliny.
 
-<span id="fn_168"></span>[110:2](wos04.htm#fr_168) Bryant, *Anal*. ii.
+<span id="fn_168"></span>[110:2](wos04.htm#fr_168.md) Bryant, *Anal*. ii.
 207.
 
-<span id="fn_169"></span>[110:3](wos04.htm#fr_169) *Anal*. ii. 209.
+<span id="fn_169"></span>[110:3](wos04.htm#fr_169.md) *Anal*. ii. 209.
 
-<span id="fn_170"></span>[110:4](wos04.htm#fr_170) Strabo, 653.
+<span id="fn_170"></span>[110:4](wos04.htm#fr_170.md) Strabo, 653.
 
-<span id="fn_171"></span>[111:1](wos04.htm#fr_171) Geog. Sacr. Part 2.
+<span id="fn_171"></span>[111:1](wos04.htm#fr_171.md) Geog. Sacr. Part 2.
 lib. i. c. 7.
 
-<span id="fn_172"></span>[111:2](wos04.htm#fr_172) Geog. Sacr. Part 2.
+<span id="fn_172"></span>[111:2](wos04.htm#fr_172.md) Geog. Sacr. Part 2.
 lib. i. c. 7. citing Diod. and Hygin.
 
-<span id="fn_173"></span>[111:3](wos04.htm#fr_173) Faber derives
+<span id="fn_173"></span>[111:3](wos04.htm#fr_173.md) Faber derives
 *Phorbas* from Ph’-or-ob-as, "*the burning solar serpent*." (Cabiri. i.
 351.)
 
-<span id="fn_174"></span>[112:1](wos04.htm#fr_174) Strabo, 659.
+<span id="fn_174"></span>[112:1](wos04.htm#fr_174.md) Strabo, 659.
 
-<span id="fn_175"></span>[113:1](wos04.htm#fr_175) Bochart. Geog. Sac.
+<span id="fn_175"></span>[113:1](wos04.htm#fr_175.md) Bochart. Geog. Sac.
 Part. 2. lib. i. c. 9.
 
-<span id="fn_176"></span>[113:2](wos04.htm#fr_176) Cited by Bochart, *ut
+<span id="fn_176"></span>[113:2](wos04.htm#fr_176.md) Cited by Bochart, *ut
 supra*.
 
-<span id="fn_177"></span>[114:1](wos04.htm#fr_177) Bryant, Anal. ii.
+<span id="fn_177"></span>[114:1](wos04.htm#fr_177.md) Bryant, Anal. ii.
 460.
 
-<span id="fn_178"></span>[115:1](wos04.htm#fr_178) Koch de Cultu
+<span id="fn_178"></span>[115:1](wos04.htm#fr_178.md) Koch de Cultu
 Serpentum, p. 30; also *Suidas*.
 
-<span id="fn_179"></span>[115:2](wos04.htm#fr_179) *New Memoirs of
+<span id="fn_179"></span>[115:2](wos04.htm#fr_179.md) *New Memoirs of
 Literature*. Anno 1725, vol. i. 421.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Serpent-Worship In Africa](wos05)
+[Next: Chapter II. Serpent-Worship In Africa](wos05.md)

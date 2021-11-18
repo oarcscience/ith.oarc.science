@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar08)  [Next](gar10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar08)  [Next](gar10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 
 THE qualifications which are essential in those who apply for initiation
 into the mysteries of Freemasonry, are of two kinds, *Internal* and
-*External*, <span id="fr_4"></span>[\*](#fn_4)
+*External*, <span id="fr_4"></span>[\*](#fn_4.md)
 
 <span id="page_19">p. 19</span>
 
@@ -49,7 +49,7 @@ conformation, having his right limbs, as a man ought to have.
 
 ### Footnotes
 
-<span id="fn_4"></span>[18:\*](gar09.htm#fr_4) It is true that the
+<span id="fn_4"></span>[18:\*](gar09.htm#fr_4.md) It is true that the
 ritual of the first degree says, that "it is the internal and not the
 external qualifications which recommend a man to be made a Mason;" but
 the context of the sentence shows that the external qualifications there
@@ -59,4 +59,4 @@ here to he discussed.
 
 ------------------------------------------------------------------------
 
-[Next: Admission of Candidates](gar10)
+[Next: Admission of Candidates](gar10.md)

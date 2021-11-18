@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](xft21)  [Next](xft23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](xft21)  [Next](xft23.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kaffir (Xhosa) Folk-Lore*, by George McCall Theal, \[1886\], at
 Intangible Textual Heritage
 
@@ -69,6 +69,6 @@ came out, in which he lived with his wife.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The Glutton](xft23)
+[Next: The Story Of The Glutton](xft23.md)
 
 </div>

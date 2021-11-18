@@ -1,12 +1,12 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [List
-of Plates](bct01.htm#page_vii) [Previous Plate](bct_pl09) [Next
-Plate](bct_pl11)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md) [List
+of Plates](bct01.htm#page_vii) [Previous Plate](bct_pl09.md) [Next
+Plate](bct_pl11.md)
 
 ------------------------------------------------------------------------
 
 PLATE X
 
-<span class="small">{facing [page 192](bct09.htm#page_192)}</span>
+<span class="small">{facing [page 192](bct09.htm#page_192.md)}</span>
 
 |                                        |                                       |
 |----------------------------------------|---------------------------------------|
@@ -15,8 +15,8 @@ PLATE X
 
 <span class="small">Diorite statue of Bau, the goddess of fertility. She
 sits on a throne set upon water, and her supports and footstool are
-geese. (*See* [page 280](bct12.htm#pl10).)</span>
+geese. (*See* [page 280](bct12.htm#pl10)..md)</span>
 
 ------------------------------------------------------------------------
 
-[Next Plate](bct_pl11)
+[Next Plate](bct_pl11.md)

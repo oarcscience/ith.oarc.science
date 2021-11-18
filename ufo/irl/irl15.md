@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl14)  [Next](irl16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl14)  [Next](irl16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 #### Back on Mother Mu
 
 The great sensitive needles of the ionic-trail-indicator <span
-id="fr_42"></span>[6](#fn_42) became still and fell back against the pin
+id="fr_42"></span>[6](#fn_42.md) became still and fell back against the pin
 marked 'O'—no more trail.
 
 In the split second that the needle stopped, I leaped to my feet,
@@ -146,7 +146,7 @@ many, many times in these two thousand years.
 Having seen death in many forms, I like to fight death's burning face
 wherever I find it. Surely, death's face is burning brighter on Mother
 Mu than on any other globe these feet have trod, feet that sink further
-into the dis-softened stones <span id="fr_43"></span>[7](#fn_43) of this
+into the dis-softened stones <span id="fr_43"></span>[7](#fn_43.md) of this
 planet than any other I know. Many have been the globes trod since I
 last left old Mu to voyage through the dark voids where no light but the
 light of wisdom can be found. Dull it is, to one who has tasted war and
@@ -258,7 +258,7 @@ presence. We have great need of your wisdom, Mighty Ones."
 I finally assented to Tyr's importuning and the invitation of Odin
 himself over the great ray called Odin's Eye, and we entered the tender
 and took off for the palace of Gladsheim <span
-id="fr_44"></span>[8](#fn_44) dominating the shining, gilded-roofed city
+id="fr_44"></span>[8](#fn_44.md) dominating the shining, gilded-roofed city
 of Asgard in the distance.
 
 We spiralled down toward the great courtyard of the palace, reading a
@@ -326,7 +326,7 @@ do with stim augments of her thought. I still think of Arl as a girl,
 and she looks like a girl, too, except her size is as great as my own,
 and that is too much to think about. For soon we must leave our loved
 home on Nor and move on to the heavier planets <span
-id="fr_45"></span>[9](#fn_45) of the Elder cities, and that is a hard
+id="fr_45"></span>[9](#fn_45.md) of the Elder cities, and that is a hard
 time for adjustment, as it takes years to accustom oneself to the great
 gravity.
 
@@ -334,7 +334,7 @@ gravity.
 
 ### Footnotes
 
-<span id="fn_42"></span>[122:6](irl15.htm#fr_42) GAS IONS: While the
+<span id="fn_42"></span>[122:6](irl15.htm#fr_42.md) GAS IONS: While the
 driver flow is a kind of reverse gravity formed by the disintegration of
 a certain metalloy, during the expansion under the dis-current, much gas
 is formed exclusive of the integrative snapback flow of exd which is the
@@ -343,19 +343,19 @@ driver plates pass through a gaseous stage where they leave a trail that
 is detectable. This ionizing trail is an unavoidable product of this
 form of drive.—Author.
 
-<span id="fn_43"></span>[125:7](irl15.htm#fr_43) One of the most
+<span id="fn_43"></span>[125:7](irl15.htm#fr_43.md) One of the most
 repeated legends of the Gods coming again to Earth is the detail that
 their heavy feet sank ankle deep into solid rock—a very interesting
 legend—heavy-planet races denoted.—Author.
 
-<span id="fn_44"></span>[128:8](irl15.htm#fr_44) Note that this city of
+<span id="fn_44"></span>[128:8](irl15.htm#fr_44.md) Note that this city of
 Asgard and this Gladsheim are not the city or people mentioned in the
 story "Thought Records of Lemuria," but is a city which takes its name
 from the site of one of the first cities built by the Atlans. These
 Aesir are the latter gods who take many of their names from the elder
 gods; cities are named in the same manner.—Author.
 
-<span id="fn_45"></span>[130:9](irl15.htm#fr_45) HEAVIER PLANETS: At a
+<span id="fn_45"></span>[130:9](irl15.htm#fr_45.md) HEAVIER PLANETS: At a
 certain point in their development, the Normen must leave home and go to
 the heavier planets for development. They do not return from these heavy
 planets to the lighter ones except as rulers or teachers. The princess
@@ -365,4 +365,4 @@ Elders are of this class of returned people.—Author.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Pact with the Aesir](irl16)
+[Next: Chapter IV. Pact with the Aesir](irl16.md)

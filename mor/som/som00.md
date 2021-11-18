@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Next](som01) 
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Next](som01.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface](som01)
+[Next: Preface](som01.md)

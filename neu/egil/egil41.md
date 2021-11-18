@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil40)  [Next](egil42) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil40)  [Next](egil42.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ father of Serk, Sogn, and Svein.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XLI. Of Bjorn.](egil42)
+[Next: CHAPTER XLI. Of Bjorn.](egil42.md)

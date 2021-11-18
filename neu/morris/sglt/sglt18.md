@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sglt17)  [Next](sglt19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sglt17)  [Next](sglt19.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Story of the Glittering Plain*, by William Morris, \[1891\], at
 Intangible Textual Heritage
 
@@ -339,6 +339,6 @@ the thorn-bushes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. Hallblithe Dwelleth in the Wood Alone](sglt19)
+[Next: Chapter XVIII. Hallblithe Dwelleth in the Wood Alone](sglt19.md)
 
 </div>

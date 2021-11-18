@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](est)   
+[Contents](#contents)    [Start Reading](est.md)   
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ published prior to 1923.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Esther](est)  
-[Jonah](jon)  
-[Matthew](mat)  
-[Mark](mar)  
+<span id="contents"></span> [Esther](est.md)  
+[Jonah](jon.md)  
+[Matthew](mat.md)  
+[Mark](mar.md)  

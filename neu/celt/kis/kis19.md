@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis18)  [Next](kis20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis18)  [Next](kis20.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ house was in the wood.
 
 ------------------------------------------------------------------------
 
-[Next: Part V](kis20)
+[Next: Part V](kis20.md)

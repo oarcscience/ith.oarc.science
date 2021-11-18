@@ -20,21 +20,21 @@ esoteric.
 ------------------------------------------------------------------------
 
 <span class="c_e"> <span class="c_t">[The Hermetic
-Museum](hermmuse/index)</span>:  
-    [Volume I](hm1/index)  
-    [Volume II](hm2/index)  
+Museum](hermmuse/index.md)</span>:  
+    [Volume I](hm1/index.md)  
+    [Volume II](hm2/index.md)  
 tr. by <span class="c_a">Arthur Edward Waite</span> \[<span
 class="c_d">1893</span>\]   <span class="c_b">A completely new scan of
 this key collection of Alchemical tracts.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Alchemy Rediscovered and
-Restored](arr/index)</span> by <span class="c_a">A. Cockren</span>
+Restored](arr/index.md)</span> by <span class="c_a">A. Cockren</span>
 \[<span class="c_d">1941</span>\]   <span class="c_b">A modern alchemist
 who claims to have been able to reproduce the process of creation of the
 philosopher's stone.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Collectanea
-Chemica](cc/index)</span>  
+Chemica](cc/index.md)</span>  
 ed. by <span class="c_a">A. E. Waite</span> \[<span
 class="c_d">1893</span>\]   <span class="c_b">A sampling of curious
 Alchemical literature.</span> </span>
@@ -42,42 +42,42 @@ Alchemical literature.</span> </span>
 ------------------------------------------------------------------------
 
 <span class="c_e"><span class="c_t">[Triumphal Chariot of
-Antimony](antimony)</span> by <span class="c_a">Basil
+Antimony](antimony.md)</span> by <span class="c_a">Basil
 Valentine</span></span>  
 <span class="c_e"><span class="c_t">[Golden Chain of
-Homer](catena1)</span></span>  
+Homer](catena1.md)</span></span>  
 <span class="c_e"><span class="c_t">[Emerald Tablet of
-Hermes](emerald)</span></span>  
+Hermes](emerald.md)</span></span>  
 <span class="c_e"><span class="c_t">[Glory of the
-World](emerglor)</span></span>  
+World](emerglor.md)</span></span>  
 <span class="c_e"><span class="c_t">[The Six Keys of
-Eudoxus](eudoxus)</span></span>  
+Eudoxus](eudoxus.md)</span></span>  
 <span class="c_e"><span class="c_t">[Freher's Process in the
-Philosophical Work](freher)</span></span>  
+Philosophical Work](freher.md)</span></span>  
 <span class="c_e"><span class="c_t">[The Golden Tractate of Hermes
-Trismegistus](goldtrac)</span></span>  
+Trismegistus](goldtrac.md)</span></span>  
 <span class="c_e"><span class="c_t">[The Hermetic
-Arcanum](harcanum)</span></span>  
+Arcanum](harcanum.md)</span></span>  
 <span class="c_e"><span class="c_t">[Hortulanus' Commentary on the
-Emerald Tablet](hortulan)</span></span>  
+Emerald Tablet](hortulan.md)</span></span>  
 <span class="c_e"><span class="c_t">[The Stone of the
-Philosophers](kellystn)</span> by <span class="c_a">Edward
+Philosophers](kellystn.md)</span> by <span class="c_a">Edward
 Kelly</span></span>  
 <span class="c_e"><span class="c_t">[Mary the
-Prophetess](maryprof)</span></span>  
+Prophetess](maryprof.md)</span></span>  
 <span class="c_e"><span class="c_t">[An Alchemical
-Mass](mass)</span></span>  
+Mass](mass.md)</span></span>  
 <span class="c_e"><span class="c_t">[The Mirror of
-Alchemy](mirror)</span></span>  
+Alchemy](mirror.md)</span></span>  
 <span class="c_e"><span class="c_t">[On the Philadelphian
-Gold](philadel)</span></span>  
+Gold](philadel.md)</span></span>  
 <span class="c_e"><span class="c_t">[Tract on the Tincture and Oil of
-Antimony](rbacon2)</span> by <span class="c_a">Roger
+Antimony](rbacon2.md)</span> by <span class="c_a">Roger
 Bacon</span></span>  
 <span class="c_e"><span class="c_t">[Turba Philosophorum (part
-1)](turba)</span></span>  
+1)](turba.md)</span></span>  
 <span class="c_e"><span class="c_t">[Turba Philosophorum (part
-2)](turba2)</span></span>  
+2)](turba2.md)</span></span>  
 
 ------------------------------------------------------------------------
 
@@ -88,17 +88,17 @@ Bacon</span></span>
 #### \[1894\]
 
 <span class="c_e"><span class="c_t">[Coelum
-philosophorum](coelum)</span> by <span
+philosophorum](coelum.md)</span> by <span
 class="c_a">Paracelsus</span></span>  
 <span class="c_e"><span class="c_t">[The Book Concerning The Tincture Of
-The Philosophers](paracel2)</span> by <span
+The Philosophers](paracel2.md)</span> by <span
 class="c_a">Paracelsus</span></span>  
 <span class="c_e"><span class="c_t">[The Treasure of Treasures for
-Alchemists](paracel1)</span> by <span
+Alchemists](paracel1.md)</span> by <span
 class="c_a">Paracelsus</span></span>  
 <span class="c_e"><span class="c_t">[The Aurora of the
-Philosophers](paracel3)</span> by <span
+Philosophers](paracel3.md)</span> by <span
 class="c_a">Paracelsus</span></span>  
 <span class="c_e"><span class="c_t">[Alchemical
-Catechism](tschoudy)</span></span>  
+Catechism](tschoudy.md)</span></span>  
 <span class="c_da"></span>

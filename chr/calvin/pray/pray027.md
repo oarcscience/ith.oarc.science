@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray026)  [Next](pray028) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray026)  [Next](pray028.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ employ to defend their error are miserably wrested. Jacob (they say)
 asks for the sons of Joseph, "Let my name be named on them, and the name
 of my fathers, Abraham and Isaac" (<span
 id="iii.xxv-p1.1"></span>[Genesis
-48:16](../../../bib/kjv/gen048.htm#016)<span id="iii.xxv-p1.1"></span>).
+48:16](../../../bib/kjv/gen048.htm#016)<span id="iii.xxv-p1.1"></span>.md).
 First, let us see what the nature of this invocation was among the
 Israelites. They do not implore their fathers to bring succour to them,
 but they beseech God to remember his servants, Abraham, Isaac, and
@@ -31,7 +31,7 @@ childishly as to the mode of doing it. The expression repeatedly occurs
 in Scripture. Isaiah speaks of women being called by the name of men,
 when they have them for husbands and live under their protection (<span
 id="iii.xxv-p1.2"></span>[Isaiah
-4:1](../../../bib/kjv/isa004.htm#001)<span id="iii.xxv-p1.2"></span>).
+4:1](../../../bib/kjv/isa004.htm#001)<span id="iii.xxv-p1.2"></span>.md).
 The calling of the name of Abraham over the Israelites consists in
 referring the origin of their race to him, and holding him in
 distinguished remembrance as their author and parent. Jacob does not do
@@ -50,7 +50,7 @@ voice of the Church declares in the prophets "Doubtless thou art our
 Father, though Abraham be ignorant of us, and Israel acknowledge us not;
 thou, O Lord, art our Father, our Redeemer" (<span
 id="iii.xxv-p1.3"></span>[Isaiah
-63:16](../../../bib/kjv/isa063.htm#016)<span id="iii.xxv-p1.3"></span>).
+63:16](../../../bib/kjv/isa063.htm#016)<span id="iii.xxv-p1.3"></span>.md).
 And while the Church thus speaks, she at the same time adds, " Return
 for thy servants' sake," not thinking of anything like intercession, but
 adverting only to the benefit of the covenant. Now, indeed, when we have
@@ -58,10 +58,10 @@ the Lord Jesus, in whose hand the eternal covenant of mercy was not only
 made but confirmed, what better name can we bear before us in our
 prayers? And since those good Doctors would make out by these words that
 the Patriarchs are intercessors, I should like them to tell me why, in
-so great a multitude, <span id="fr_11"></span>[12](#fn_11) no place
+so great a multitude, <span id="fr_11"></span>[12](#fn_11.md) no place
 whatever is given to Abraham, the father of the Church? We know well
 from what a crew they select their intercessors. <span
-id="fr_12"></span>[13](#fn_12) Let them then tell me what consistency
+id="fr_12"></span>[13](#fn_12.md) Let them then tell me what consistency
 there is in neglecting and rejecting Abraham, whom God preferred to all
 others, and raised to the highest degree of honour. The only reason is,
 that as it was plain there was no such practice in the ancient Church,
@@ -70,7 +70,7 @@ nothing of the Patriarchs: as if by a mere diversity of names they could
 excuse a practice at once novel and impure. They sometimes, also, object
 that God is entreated to have mercy on his people "for David's sake"
 (<span id="iii.xxv-p1.8"></span>[Psalm
-132:10](../../../bib/kjv/psa132.htm#010)<span id="iii.xxv-p1.8"></span>;
+132:10](../../../bib/kjv/psa132.htm#010.md)<span id="iii.xxv-p1.8"></span>;
 see Calv. Com.). This is so far from supporting their error, that it is
 the strongest refutation of it. We must consider the character which
 David bore. He is set apart from the whole body of the faithful to
@@ -83,12 +83,12 @@ type of Christ is certainly inapplicable to others.
 
 ### Footnotes
 
-<span id="fn_11"></span>[12](pray027.htm#fr_11) <span
+<span id="fn_11"></span>[12](pray027.htm#fr_11.md) <span
 id="iii.xxv-p1.4"></span>The French adds, "<span
 id="iii.xxv-p1.5"></span>et quasi en une fourmiliere de saincts;"—and as
 it were a swarm of saints.
 
-<span id="fn_12"></span>[13](pray027.htm#fr_12) <span
+<span id="fn_12"></span>[13](pray027.htm#fr_12.md) <span
 id="iii.xxv-p1.6"></span>French, "<span id="iii.xxv-p1.7"></span>C’est
 chose trop notoire de quel bourbieu ou de quelle racaille ils tirent
 leur saincts."—It is too notorious out of what mire or rubbish they draw
@@ -96,4 +96,4 @@ their saints.
 
 ------------------------------------------------------------------------
 
-[Next: 26.](pray028)
+[Next: 26.](pray028.md)

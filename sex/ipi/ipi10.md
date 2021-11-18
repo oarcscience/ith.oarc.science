@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](ipi09)  [Next](ipi11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](ipi09)  [Next](ipi11.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ and was replaced by the dual notion of a great father and a great mother
 "the transmigrating Noah and the mundane Ark" of the universal deluge.
 Noah was, however, only a re-appearance of Adam, and the Ark floating on
 the waters of the deluge was an analogue of the earth swimming in the
-ocean of space. <span id="fr_116"></span>[117](ipi14.htm#fn_116) There
+ocean of space. <span id="fr_116"></span>[117](ipi14.htm#fn_116.md) There
 is undoubtedly a parallelism between the Adam and Noah of the Hebrew
 legends, as there is between the analogous personages of the other
 phases of these legends; yet it is evident that, if the deluge never
@@ -28,7 +28,7 @@ happened, a totally different origin from the one supposed by Dr. Faber
 must be assigned to the great phallic myth of antiquity. It is
 absolutely necessary, therefore, to any explanation (other than the
 phallic one) of the origin of this myth, to establish the truth of the
-Noachic deluge. <span id="fr_117"></span>[118](ipi14.htm#fn_117)
+Noachic deluge. <span id="fr_117"></span>[118](ipi14.htm#fn_117.md)
 Accordingly, a late American writer has formed an elaborate system of
 "Arkite Symbolism," founded on the supposed influence of the great
 deluge over the minds of the posterity of those who survived its
@@ -37,7 +37,7 @@ horrors. Mr. Lesley sees in this catastrophe the explanation of
 illustrations of its own philosophical conceptions of the mystery of
 generation, gave to the various parts and members of the human body
 those names which constitute the special vocabulary of obscenity of the
-present day." <span id="fr_118"></span>[119](ipi14.htm#fn_118)
+present day." <span id="fr_118"></span>[119](ipi14.htm#fn_118.md)
 
 But the priority of these symbols or conceptions is the question at
 issue. Did the development of "arkism" precede or follow the
@@ -56,8 +56,8 @@ the Hebrews looked back with regretful longing, has undoubtedly a
 recondite phallic meaning. It must be so if the explanation I have given
 of the myth of the fall be correct, since the two are intimately
 connected, and the garden <span
-id="fr_119"></span>[120](ipi14.htm#fn_119) is essential to the
-succeeding catastrophe. <span id="fr_120"></span>[121](ipi14.htm#fn_120)
+id="fr_119"></span>[120](ipi14.htm#fn_119.md) is essential to the
+succeeding catastrophe. <span id="fr_120"></span>[121](ipi14.htm#fn_120.md)
 
 The priority of the phallic superstition over "arkism," is proved,
 moreover, by the undoubted fact that, even in the traditions of the race
@@ -73,7 +73,7 @@ of the gods;" and so also "we read in a Phoenician inscription of Baal,
 i.e., beauty of Baal, which Movers ingeniously interprets
 AEsculapius-Asmun-Jubal." Here, then, adds Bunsen, "is another old
 Semitic name attached to a descendant of Lamekh, together with Adah,
-Zillah, and Naamah." <span id="fr_121"></span>[122](ipi14.htm#fn_121)
+Zillah, and Naamah." <span id="fr_121"></span>[122](ipi14.htm#fn_121.md)
 Hadah, the wife of Lamekh as well as of Esau, the Phoenician Usov, is
 identified with the goddess worshipped at BabyIon as Hera (Juno), and,
 notwithstanding Sir Gardner Wilkinson's dictum to the contrary, her
@@ -84,24 +84,24 @@ was worshipped by the Hebrews, and who in Syria was said to devour
 children, is connected with the root kun, to erect, and therefore
 doubtless with the antediluvian Kain or Kevan. Kon, derived from the
 same root, was, according to Bunsen, a Phoenician designation of
-Saturn. <span id="fr_122"></span>[123](ipi14.htm#fn_122) Even the great
+Saturn. <span id="fr_122"></span>[123](ipi14.htm#fn_122.md) Even the great
 Carthaginian god Melekh, who was also held in universal honor throughout
 all Phoenicia, appears, although Bunsen does not thus identify him, to
 be no other than Lamekh, the father of Noah. <span
-id="fr_123"></span>[124](ipi14.htm#fn_123) Ewald, indeed, says that both
+id="fr_123"></span>[124](ipi14.htm#fn_123.md) Ewald, indeed, says that both
 Lamekh and Enoch were gods or demi-gods, and that Methuselah was a sort
 of Mars, while Mahahal-el was a god of light, and Jareda a god of the
 lowland or of the water. <span
-id="fr_124"></span>[125](ipi14.htm#fn_124)
+id="fr_124"></span>[125](ipi14.htm#fn_124.md)
 
 The priority of the phallic superstition over Arkism, or rather the
 existence of that superstition before the formation of the
 deluge-legend, is proved, moreover, by the agreement of this legend with
 the myth of Osiris and Isis in its primitive form, while Typhon (Seth)
 was honored by the Egyptians as a great god. <span
-id="fr_125"></span>[126](ipi14.htm#fn_125) Bunsen fixes the origin of
+id="fr_125"></span>[126](ipi14.htm#fn_125.md) Bunsen fixes the origin of
 this myth in its amended form so late as the thirteenth or fourteenth
-century B.C. <span id="fr_126"></span>[127](ipi14.htm#fn_126) In the
+century B.C. <span id="fr_126"></span>[127](ipi14.htm#fn_126.md) In the
 face of this agreement we can only suppose the myth and the
 deluge-legend to have had the same basis--a basis which, from the very
 circumstances of the case, must be purely "phallic." This explanation is
@@ -132,25 +132,25 @@ male deity almost necessitates, however, that there should have been
 another origin for the sacred vessel of Osiris. This we have in the
 Hastoreth-karnaim, the cow-goddess, whose horns represent the lunar ark,
 and who, without doubt, was a more primitive deity than the moon-goddess
-herself. <span id="fr_127"></span>[128](ipi14.htm#fn_127) The most
+herself. <span id="fr_127"></span>[128](ipi14.htm#fn_127.md) The most
 primitive type of all, however, is that of the argha or yoni of the
 Indian Iswara, which, from its name, was supposed to have been turned
-into a dove. <span id="fr_128"></span>[129](ipi14.htm#fn_128) Thus, in
+into a dove. <span id="fr_128"></span>[129](ipi14.htm#fn_128.md) Thus, in
 Noah and the Ark, as in Osiris and the Moon, we see simply the
 combination of the male and female elements, as they are still
 represented in the Hindu lingam. The introduction of the dove into the
 myth is a curious confirmation of this view. For, this bird, which, as
 "the emblem of love and fruitfulness," was "consecrated to Venus under
 all her different names at Babylon, in Syria, Palestine, and
-Greece <span id="fr_129"></span>[130](ipi14.htm#fn_129) which was the
+Greece <span id="fr_129"></span>[130](ipi14.htm#fn_129.md) which was the
 national banner-sign of the Assyrians, as of the earlier Scythic empire,
 whose founders, according to Hindu tradition, took the name of Ionim or
 Yoniyas, and which attended on Janus, a diluvian "God of opening and
 shutting," was simply a type of "the Yoni or Jonah, <span
-id="fr_130"></span>[131](ipi14.htm#fn_130) or navicular feminine
+id="fr_130"></span>[131](ipi14.htm#fn_130.md) or navicular feminine
 principle," which was said to have assumed the form of a ship and a
-dove. <span id="fr_131"></span>[132](ipi14.htm#fn_131)
+dove. <span id="fr_131"></span>[132](ipi14.htm#fn_131.md)
 
 ------------------------------------------------------------------------
 
-[Next: Phallism in the Modern Religions](ipi11)
+[Next: Phallism in the Modern Religions](ipi11.md)

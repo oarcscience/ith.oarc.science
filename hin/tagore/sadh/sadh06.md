@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[Tagore](../index)  [Index](index)  [Previous](sadh05)  [Next](sadh07) 
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[Tagore](../index)  [Index](index)  [Previous](sadh05)  [Next](sadh07.md) 
 
 ------------------------------------------------------------------------
 
@@ -233,12 +233,12 @@ freedom *in* action, which can only be attained in the work of love.
 
 God's manifestation is in his work of creation and it is said in the
 Upanishad, *Knowledge, power, and action are of his nature*  <span
-id="fr_34"></span>[35](#fn_34) ; they are not imposed upon him from
+id="fr_34"></span>[35](#fn_34.md) ; they are not imposed upon him from
 outside. Therefore his work is his freedom, and in his creation he
 realises himself. The same thing is said elsewhere in other words: *From
 joy does spring all this creation, by joy is it maintained, towards joy
 does it progress, and into joy does it enter*.  <span
-id="fr_35"></span>[36](#fn_35) It means that God's creation has not its
+id="fr_35"></span>[36](#fn_35.md) It means that God's creation has not its
 source in any necessity; it comes from his fullness of joy; it is his
 love that creates, therefore in creation is his own revealment.
 
@@ -284,7 +284,7 @@ the separateness of our self like the paper of the banknote is precious
 in itself, and by acting on this belief our self is rendered valueless.
 It is only when the *avidyā* is removed that this very self comes to us
 with a wealth which is priceless. For *He manifests Himself in forms
-which His joy assumes*.  <span id="fr_36"></span>[37](#fn_36) These
+which His joy assumes*.  <span id="fr_36"></span>[37](#fn_36.md) These
 forms are separate from Him, and the value that these forms have is only
 what his joy has imparted to them. When we transfer back these forms
 into that original joy, which is love, then we cash them in the bank and
@@ -527,7 +527,7 @@ infinite source of strength, which is unity, and yet remain powerful.
 It has been said, *By unrighteousness men prosper, gain what they
 desire, and triumph over their enemies, but at the end they are cut off
 at the root and suffer extinction.*  <span
-id="fr_37"></span>[38](#fn_37) Our roots must go deep down into the
+id="fr_37"></span>[38](#fn_37.md) Our roots must go deep down into the
 universal if we would attain the greatness of personality.
 
 It is the end of our self to seek that union. It must bend its head low
@@ -543,18 +543,18 @@ meaning to our self.
 
 ### Footnotes
 
-<span id="fn_34"></span>[35](sadh06.htm#fr_34) "Svābhāvikī jnāna bala
+<span id="fn_34"></span>[35](sadh06.htm#fr_34.md) "Svābhāvikī jnāna bala
 kriyācha."
 
-<span id="fn_35"></span>[36](sadh06.htm#fr_35) Ānandādhyēva khalvimāni
+<span id="fn_35"></span>[36](sadh06.htm#fr_35.md) Ānandādhyēva khalvimāni
 bhūtāni jāyantē, ānandēna jātāni jīvanti, ānandamprayantyabhisamviçanti.
 
-<span id="fn_36"></span>[37](sadh06.htm#fr_36) Ānandarūpamamritam
+<span id="fn_36"></span>[37](sadh06.htm#fr_36.md) Ānandarūpamamritam
 yadvibhāti.
 
-<span id="fn_37"></span>[38](sadh06.htm#fr_37) Adharmēnaidhatē tāvat
+<span id="fn_37"></span>[38](sadh06.htm#fr_37.md) Adharmēnaidhatē tāvat
 tatō bahdrāņi paçyati tatah sapatnān jayati samūlastu vinaçyati.
 
 ------------------------------------------------------------------------
 
-[Next: V: Realisation in Love](sadh07)
+[Next: V: Realisation in Love](sadh07.md)

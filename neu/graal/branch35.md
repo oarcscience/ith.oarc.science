@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index) 
-[Previous](branch34) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index.md) 
+[Previous](branch34.md) </span>
 
 ------------------------------------------------------------------------
 

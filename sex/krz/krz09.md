@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz08)  [Next](krz10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz08)  [Next](krz10.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ All art demands the lover, and sex-art is the art of the lover.
 
 ------------------------------------------------------------------------
 
-[Next: Sex-Commerce and the Elixer of Life](krz10)
+[Next: Sex-Commerce and the Elixer of Life](krz10.md)

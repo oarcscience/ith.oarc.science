@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss19)  [Next](oss21) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss19)  [Next](oss21.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ rush forward, through ocean, to the woody dwelling of heroes. Let us
 contend, my son, like eagles from one rock, when they lift their broad
 wings against the stream of winds." We raised our sails in Carmona. From
 three ships they marked my shield on the wave, as I looked on nightly
-Ton-thena, <span id="fr_58"></span>[1](#fn_58) red traveller between the
+Ton-thena, <span id="fr_58"></span>[1](#fn_58.md) red traveller between the
 clouds. Four days came the breeze abroad. Lumon came forward in mist. In
 winds were its hundred groves. Sunbeams marked at times its brown side.
 White leapt the foamy streams from all its echoing rocks.
@@ -123,7 +123,7 @@ rose on Rath-col's wind. I did not rush, amidst his soul, with my words.
 I bade the song to rise.
 
 "Oscar of Lego," I said, "be thine the secret hill to-night.  <span
-id="fr_59"></span>[1](#fn_59) Strike the shield like Morven's kings.
+id="fr_59"></span>[1](#fn_59.md) Strike the shield like Morven's kings.
 With day thou shalt lead in war. From my rock I shall see thee, Oscar, a
 dreadful form ascending in fight, like the appearance of ghosts amidst
 the storms they raise. Why should mine eyes return to the dim times of
@@ -198,15 +198,15 @@ Come from the watching of night, Malvina, lonely beam!
 
 ### Footnotes
 
-<span id="fn_58"></span>[271:1](oss20.htm#fr_58) Ton-thena, "fire of the
+<span id="fn_58"></span>[271:1](oss20.htm#fr_58.md) Ton-thena, "fire of the
 wave," was the remarkable star mentioned in the seventh book of Temora,
 which directed the course of Larthon to Ireland.
 
-<span id="fn_59"></span>[272:1](oss20.htm#fr_59) This passage alludes to
+<span id="fn_59"></span>[272:1](oss20.htm#fr_59.md) This passage alludes to
 the well-known custom among the ancient kings of Scotland, to retire
 from their army on the night preceding a battle. The story which Ossian
 introduces in the next paragraph, concerns the fall of the Druids.
 
 ------------------------------------------------------------------------
 
-[Next: Sul-malla of Lumon](oss21)
+[Next: Sul-malla of Lumon](oss21.md)

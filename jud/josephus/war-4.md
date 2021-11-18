@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ breadth, and sixty in length; its marshes reach as far as the place
 Daphne, which in other respects is a delicious place, and hath such
 fountains as supply water to what is called Little Jordan, under the
 temple of the golden calf, <span
-id="EndNote War 4.1a"></span>[(1)](#EndNote%20War%204.1b) where it is
+id="EndNote War 4.1a"></span>[(1)](#EndNote%20War%204.1b.md) where it is
 sent into Great Jordan. Now Agrippa had united Sogana and Seleucia by
 leagues to himself, at the very beginning of the revolt from the Romans;
 yet did not Gamala accede to them, but relied upon the difficulty of the
@@ -232,7 +232,7 @@ in. But now Vespasian went about other work by the by, during this
 siege, and that was to subdue those that had seized upon Mount Tabor, a
 place that lies in the middle between the great plain and Scythopolis,
 whose top is elevated as high as thirty furlongs <span
-id="EndNote War 4.2a"></span>[(2)](#EndNote%20War%204.2b) and is hardly
+id="EndNote War 4.2a"></span>[(2)](#EndNote%20War%204.2b.md) and is hardly
 to be ascended on its north side; its top is a plain of twenty-six
 furlongs, and all encompassed with a wall. Now Josephus erected this so
 long a wall in forty days' time, and furnished it with other materials,
@@ -585,7 +585,7 @@ proceedings, as to rise in a body against them; it was therefore
 resolved to have them slain accordingly, they sent one John, who was the
 most bloody-minded of them all, to do that execution: this man was also
 called "the son of Dorcas," <span
-id="EndNote War 4.3a"></span>[(3)](#EndNote%20War%204.3b) in the
+id="EndNote War 4.3a"></span>[(3)](#EndNote%20War%204.3b.md) in the
 language of our country. Ten more men went along with him into the
 prison, with their swords drawn, and so they cut the throats of those
 that were in custody there. The grand lying pretence these men made for
@@ -598,7 +598,7 @@ as though they had been the benefactors and saviors of the city.
 6\. Now the people were come to that degree of meanness and fear, and
 these robbers to that degree of madness, that these last took upon them
 to appoint high priests. <span
-id="EndNote War 4.4a"></span>[(4)](#EndNote%20War%204.4b) So when they
+id="EndNote War 4.4a"></span>[(4)](#EndNote%20War%204.4b.md) So when they
 had disannulled the succession, according to those families out of which
 the high priests used to be made, they ordained certain unknown and
 ignoble persons for that office, that they might have their assistance
@@ -632,7 +632,7 @@ that presumed to appoint governors as they themselves pleased.
 
 8\. Hereupon they sent for one of the pontifical tribes, which is called
 Eniachim, <span
-id="EndNote War 4.5a"></span>[(5)](#EndNote%20War%204.5b) and cast lots
+id="EndNote War 4.5a"></span>[(5)](#EndNote%20War%204.5b.md) and cast lots
 which of it should be the high priest. By fortune the lot so fell as to
 demonstrate their iniquity after the plainest manner, for it fell upon
 one whose name was Phannias, the son of Samuel, of the village Aphtha.
@@ -650,7 +650,7 @@ and sorely lament the dissolution of such a sacred dignity.
 procedure, but did all together run zealously, in order to overthrow
 that tyranny; and indeed they were Gorion the son of Josephus, and
 Symeon the son of Gamaliel, <span
-id="EndNote War 4.6a"></span>[(6)](#EndNote%20War%204.6b) who encouraged
+id="EndNote War 4.6a"></span>[(6)](#EndNote%20War%204.6b.md) who encouraged
 them, by going up and down when they were assembled together in crowds,
 and as they saw them alone, to bear no longer, but to inflict punishment
 upon these pests and plagues of their freedom, and to purge the temple
@@ -829,7 +829,7 @@ they made their whole body to turn against their adversaries, and the
 robbers could no longer oppose them, but were forced gradually to retire
 into the temple; when Ananus and his party fell into it at the same time
 together with them. <span
-id="EndNote War 4.7a"></span>[(7)](#EndNote%20War%204.7b) This horribly
+id="EndNote War 4.7a"></span>[(7)](#EndNote%20War%204.7b.md) This horribly
 affrighted the robbers, because it deprived them of the first court; so
 they fled into the inner court immediately, and shut the gates. Now
 Ananus did not think fit to make any attack against the holy gates,
@@ -1118,7 +1118,7 @@ quieted the tumult of his own men, and stood so that the high priests
 might hear him, and said as follows: "I can no longer wonder that the
 patrons of liberty are under custody in the temple, since there are
 those that shut the gates of our common city <span
-id="EndNote War 4.8a"></span>[(8)](#EndNote%20War%204.8b) to their own
+id="EndNote War 4.8a"></span>[(8)](#EndNote%20War%204.8b.md) to their own
 nation, and at the same time are prepared to admit the Romans into it;
 nay, perhaps are disposed to crown the gates with garlands at their
 coming, while they speak to the Idumeans from their own towers, and
@@ -1357,7 +1357,7 @@ perished in this manner.
 killing men, so they had the impudence of setting up fictitious
 tribunals and judicatures for that purpose; and as they intended to have
 Zacharias <span
-id="EndNote War 4.9a"></span>[(9)](#EndNote%20War%204.9b) the son of
+id="EndNote War 4.9a"></span>[(9)](#EndNote%20War%204.9b.md) the son of
 Baruch, one of the most eminent of the citizens, slain, - so what
 provoked them against him was, that hatred of wickedness and love of
 liberty which were so eminent in him: he was also a rich man, so that by
@@ -1535,7 +1535,7 @@ the action, we ought by no means to meddle with those men, now they are
 afflicted with a distemper at home; for should we now conquer them, it
 would be said the conquest was not owing to our bravery, but to their
 sedition." <span
-id="EndNote War 4.10a"></span>[(10)](#EndNote%20War%204.10b)
+id="EndNote War 4.10a"></span>[(10)](#EndNote%20War%204.10b.md)
 
 3\. And now the commanders joined in their approbation of what Vespasian
 had said, and it was soon discovered how wise an opinion he had given.
@@ -1655,7 +1655,7 @@ plundered their own villages, they then retired into the desert; yet
 were these men that now got together, and joined in the conspiracy by
 parties, too small for an army, and too many for a gang of thieves: and
 thus did they fall upon the holy places <span
-id="EndNote War 4.11a"></span>[(11)](#EndNote%20War%204.11b) and the
+id="EndNote War 4.11a"></span>[(11)](#EndNote%20War%204.11b.md) and the
 cities; yet did it now so happen that they were sometimes very ill
 treated by those upon whom they fell with such violence, and were taken
 by them as men are taken in war: but still they prevented any further
@@ -1834,7 +1834,7 @@ reason of its barrenness: there is an opposite mountain that is situated
 over against it, on the other side of Jordan; this last begins at
 Julias, and the northern quarters, and extends itself southward as far
 as Somorrhon, <span
-id="EndNote War 4.13a"></span>[(13)](#EndNote%20War%204.13b) which is
+id="EndNote War 4.13a"></span>[(13)](#EndNote%20War%204.13b.md) which is
 the bounds of Petra, in Arabia. In this ridge of mountains there is one
 called the Iron Mountain, that runs in length as far as Moab. Now the
 region that lies in the middle between these ridges of mountains is
@@ -1872,7 +1872,7 @@ a more temperate and fertile air for the current, and would bestow upon
 the people of that country plenty of the fruits of the earth, and a
 succession of children; and that this prolific water might never fail
 them, while they continued to he righteous. To these prayers Elisha
-<span id="EndNote War 4.14a"></span>[(14)](#EndNote%20War%204.14b)
+<span id="EndNote War 4.14a"></span>[(14)](#EndNote%20War%204.14b.md)
 joined proper operations of his hands, after a skillful manner, and
 changed the fountain; and that water, which had been the occasion of
 barrenness and famine before, from that time did supply a numerous
@@ -1982,7 +1982,7 @@ away with four of his most trusty freed-men, and slew himself in the
 suburbs of Rome; and how those that occasioned his death were in no long
 time brought themselves to punishment; how also the war in Gall ended;
 and how Galba was made emperor <span
-id="EndNote War 4.16a"></span>[(16)](#EndNote%20War%204.16b) and
+id="EndNote War 4.16a"></span>[(16)](#EndNote%20War%204.16b.md) and
 returned out of Spain to Rome; and how he was accused by the soldiers as
 a pusillanimous person, and slain by treachery in the middle of the
 market-place at Rome, and Otho was made emperor; with his expedition
@@ -2111,7 +2111,7 @@ Egypt, whose monuments are to this very time showed in that small city;
 the fabric of which monuments are of the most excellent marble, and
 wrought after the most elegant manner. There is also there showed, at
 the distance of six furlongs from the city, a very large turpentine tree
-<span id="EndNote War 4.17a"></span>[(17)](#EndNote%20War%204.17b) and
+<span id="EndNote War 4.17a"></span>[(17)](#EndNote%20War%204.17b.md) and
 the report goes, that this tree has continued ever since the creation of
 the world. Thence did Simon make his progress over all Idumen, and did
 not only ravage the cities and villages, but lay waste the whole
@@ -2166,7 +2166,7 @@ day, but on the second day Vitellius's soldiers had the victory; and
 after much slaughter Otho slew himself, when he had heard of this defeat
 at Brixia, and after he had managed the public affairs three months and
 two days. <span
-id="EndNote War 4.18a"></span>[(18)](#EndNote%20War%204.18b) Otho's army
+id="EndNote War 4.18a"></span>[(18)](#EndNote%20War%204.18b.md) Otho's army
 also came over to Vitellius's generals, and he came himself down to Rome
 with his army. But in the mean time Vespasian removed from Cesarea, on
 the fifth day of the month Deasius, \[Sivan,\] and marched against those
@@ -2278,7 +2278,7 @@ corner of the court, one above the Xystus, the third at another corner
 over against the lower city, and the last was erected above the top of
 the Pastophoria, where one of the priests stood of course, and gave a
 signal beforehand, with a trumpet <span
-id="EndNote War 4.19a"></span>[(19)](#EndNote%20War%204.19b) at the
+id="EndNote War 4.19a"></span>[(19)](#EndNote%20War%204.19b.md) at the
 beginning of every seventh day, in the evening twilight, as also at the
 evening when that day was finished, as giving notice to the people when
 they were to leave off work, and when they were to go to work again.
@@ -2342,7 +2342,7 @@ for that neither will the Roman senate, nor people, bear such a
 lascivious emperor as Vitellius, if he be compared with their chaste
 Vespasian; nor will they endure a most barbarous tyrant, instead of a
 good governor, nor choose one that hath no child <span
-id="EndNote War 4.20a"></span>[(20)](#EndNote%20War%204.20b) to preside
+id="EndNote War 4.20a"></span>[(20)](#EndNote%20War%204.20b.md) to preside
 over them, instead of him that is a father; because the advancement of
 men's own children to dignities is certainly the greatest security kings
 can have for themselves. Whether, therefore, we estimate the capacity of
@@ -2355,7 +2355,7 @@ from the neighboring kings, and will have further all the armies in the
 east to support them, as also those in Europe, so they as they are out
 of the distance and dread of Vitellius, besides such auxiliaries as they
 may have in Italy itself; that is, Vespasian's brother, <span
-id="EndNote War 4.21a"></span>[(21)](#EndNote%20War%204.21b) and his
+id="EndNote War 4.21a"></span>[(21)](#EndNote%20War%204.21b.md) and his
 other son \[Domitian\]; the one of whom will bring in a great many of
 those young men that are of dignity, while the other is intrusted with
 the government of the city, which office of his will be no small means
@@ -2367,7 +2367,7 @@ in contempt."
 4\. These were the discourses the soldiers had in their several
 companies; after which they got together in a great body, and,
 encouraging one another, they declared Vespasian emperor, <span
-id="EndNote War 4.22a"></span>[(22)](#EndNote%20War%204.22b) and
+id="EndNote War 4.22a"></span>[(22)](#EndNote%20War%204.22b.md) and
 exhorted him to save the government, which was now in danger. Now
 Vespasian's concern had been for a considerable time about the public,
 yet did he not intend to set up for governor himself, though his actions
@@ -2394,7 +2394,7 @@ once be in want of food); and because he was desirous to join the two
 legions that were at Alexandria to the other legions that were with him.
 He also considered with himself, that he should then have that country
 for a defense to himself against the uncertainty of fortune; for Egypt
-<span id="EndNote War 4.23a"></span>[(23)](#EndNote%20War%204.23b) is
+<span id="EndNote War 4.23a"></span>[(23)](#EndNote%20War%204.23b.md) is
 hard to be entered by land, and hath no good havens by sea. It hath on
 the west the dry deserts of Libya; and on the south Siene, that divides
 it from Ethiopia, as well as the cataracts of the Nile, that cannot be
@@ -2463,7 +2463,7 @@ called for Mucianus, together with his other commanders and friends,
 and, in the first place, he informed them what a valiant man Josephus
 had been, and what great hardships he had made him undergo in the siege
 of Jotapata. After that he related those predictions of his <span
-id="EndNote War 4.24a"></span>[(24)](#EndNote%20War%204.24b) which he
+id="EndNote War 4.24a"></span>[(24)](#EndNote%20War%204.24b.md) which he
 had then suspected as fictions, suggested out of the fear he was in, but
 which had by time been demonstrated to be Divine. "It is a shameful
 thing (said he) that this man, who hath foretold my coming to the empire
@@ -2489,7 +2489,7 @@ HIS JOURNEY TO ROME; BUT TITUS HIS SON RETURNED TO JERUSALEM.**
 
 1\. AND now, when Vespasian had given answers to the embassages, and had
 disposed of the places of power justly, <span
-id="EndNote War 4.25a"></span>[(25)](#EndNote%20War%204.25b) and
+id="EndNote War 4.25a"></span>[(25)](#EndNote%20War%204.25b.md) and
 according to every one's deserts, he came to Antioch, and consulting
 which way he had best take, he preferred to go for Rome, rather than to
 march to Alexandria, because he saw that Alexandria was sure to him
@@ -2567,7 +2567,7 @@ and luxurious meal, as in the last extremity, and being drawn along
 through the multitude, and abused with all sorts of torments, had his
 head cut off in the midst of Rome, having retained the government eight
 months and five days <span
-id="EndNote War 4.26a"></span>[(26)](#EndNote%20War%204.26b) and had he
+id="EndNote War 4.26a"></span>[(26)](#EndNote%20War%204.26b.md) and had he
 lived much longer, I cannot but think the empire would not have been
 sufficient for his lust. Of the others that were slain, were numbered
 above fifty thousand. This battle was fought on the third day of the
@@ -2602,7 +2602,7 @@ station was Heracleopolis, and his third Pelusium; he then refreshed his
 army at that place for two days, and on the third passed over the mouths
 of the Nile at Pelusium; he then proceeded one station over the desert,
 and pitched his camp at the temple of the Casian Jupiter, <span
-id="EndNote War 4.27a"></span>[(27)](#EndNote%20War%204.27b) and on the
+id="EndNote War 4.27a"></span>[(27)](#EndNote%20War%204.27b.md) and on the
 next day at Ostracine. This station had no water, but the people of the
 country make use of water brought from other places. After this he
 rested at Rhinocolura, and from thence he went to Raphia, which was his
@@ -2614,14 +2614,14 @@ that place.
 
 ENDNOTE
 
-<span id="EndNote War 4.1b"></span>[(1)](#EndNote%20War%204.1a) Here we
+<span id="EndNote War 4.1b"></span>[(1)](#EndNote%20War%204.1a.md) Here we
 have the exact situation of of Jeroboam's "at the exit of Little Jordan
 into Great Jordan, near the place called Daphne, but of old Dan. See the
 note in Antiq. B. VIII. ch. 8. sect. 4. But Reland suspects flint here
 we should read Dan instead of there being no where else mention of a
 place called Daphne.
 
-<span id="EndNote War 4.2b"></span>[(2)](#EndNote%20War%204.2a) These
+<span id="EndNote War 4.2b"></span>[(2)](#EndNote%20War%204.2a.md) These
 numbers in Josephus of thirty furlongs' ascent to the top of Mount
 Tabor, whether we estimate it by winding and gradual, or by the
 perpendicular altitude, and of twenty-six furlongs' circumference upon
@@ -2642,14 +2642,14 @@ including a trench and other fortifications, (perhaps those still
 remaining, ibid.) in the small interval of forty days, as Josephus here
 says they were by himself.
 
-<span id="EndNote War 4.3b"></span>[(3)](#EndNote%20War%204.3a) This
+<span id="EndNote War 4.3b"></span>[(3)](#EndNote%20War%204.3a.md) This
 name Dorcas in Greek, was Tabitha in Hebrew or Syriac, as Acts 9:36.
 Accordingly, some of the manuscripts set it down here Tabetha or Tabeta.
 Nor can the context in Josephus be made out by supposing the reading to
 have been this: "The son of Tabitha; which, in the language of our
 country, denotes Dorcas" \[or a doe\].
 
-<span id="EndNote War 4.4b"></span>[(4)](#EndNote%20War%204.4a) Here we
+<span id="EndNote War 4.4b"></span>[(4)](#EndNote%20War%204.4a.md) Here we
 may discover the utter disgrace and ruin of the high priesthood among
 the Jews, when undeserving, ignoble, and vile persons were advanced to
 that holy office by the seditious; which sort of high priests, as
@@ -2662,14 +2662,14 @@ all whom we shall meet with in Josephus's future history of this war;
 nor do we meet with any other so much as pretended high priest after
 Phannias, till Jerusalem was taken and destroyed.
 
-<span id="EndNote War 4.5b"></span>[(5)](#EndNote%20War%204.5a) This
+<span id="EndNote War 4.5b"></span>[(5)](#EndNote%20War%204.5a.md) This
 tribe or course of the high priests, or priests, here called Eniachim,
 seems to the learned Mr. Lowth, one well versed in Josephus, to be that
 1 Chronicles 24:12, "the course of Jakim," where some copies have" the
 course of Eliakim;" and I think this to be by no means an improbable
 conjecture.
 
-<span id="EndNote War 4.6b"></span>[(6)](#EndNote%20War%204.6a) This
+<span id="EndNote War 4.6b"></span>[(6)](#EndNote%20War%204.6a.md) This
 Symeon, the son of Gamaliel, is mentioned as the president of the Jewish
 sanhedrim, and one that perished in the destruction of Jerusalem, by the
 Jewish Rabbins, as Reland observes on this place. He also tells us that
@@ -2678,7 +2678,7 @@ priest, but this long before the destruction of Jerusalem; so that if he
 were the same person with this Jesus the son of Gamala, Josephus, he
 must have lived to be very old, or they have been very bad chronologers.
 
-<span id="EndNote War 4.7b"></span>[(7)](#EndNote%20War%204.7a) It is
+<span id="EndNote War 4.7b"></span>[(7)](#EndNote%20War%204.7a.md) It is
 worth noting here, that this Ananus, the best of the Jews at this time,
 and the high priest, who was so very uneasy at the profanation of the
 Jewish courts of the temple by the zealots, did not however scruple the
@@ -2690,7 +2690,7 @@ calls them both hagia or holy places; but, so far as I remember, never
 gives that character of the court of the Gentiles. See B. V. ch. 9.
 sect. 2.
 
-<span id="EndNote War 4.8b"></span>[(8)](#EndNote%20War%204.8a) This
+<span id="EndNote War 4.8b"></span>[(8)](#EndNote%20War%204.8a.md) This
 appellation of Jerusalem given it here by Simon, the general of the
 Idumeans, "the common city" of the Idumeans, who were proselytes of
 justice, as well as of the original native Jews, greatly confirms that
@@ -2701,7 +2701,7 @@ several festivals\]." See a little before, ch. 3. sect. 3, or "worldly
 worship," as the author to the Hebrews calls the sanctuary, "a worldly
 sanctuary."
 
-<span id="EndNote War 4.9b"></span>[(9)](#EndNote%20War%204.9a) Some
+<span id="EndNote War 4.9b"></span>[(9)](#EndNote%20War%204.9a.md) Some
 commentators are ready to suppose that this" Zacharias, the son of
 Baruch," here most unjustly slain by the Jews in the temple, was the
 very same person with "Zacharias, the son of Barachias," whom our Savior
@@ -2725,7 +2725,7 @@ so material an aggravation of this barbarous murder, as perpetrated in.
 a place so very holy, had that been the true place of it. See Antiq. B.
 XI. ch. 7. sect. 1, and the note here on B. V. ch. 1. sect. 2.
 
-<span id="EndNote War 4.10b"></span>[(10)](#EndNote%20War%204.10a) This
+<span id="EndNote War 4.10b"></span>[(10)](#EndNote%20War%204.10a.md) This
 prediction, that the city (Jerusalem) should then "be taken, and the
 sanctuary burnt, by right of war, when a sedition should invade Jews,
 and their own hands should pollute that temple;" or, as it is B. VI. ch.
@@ -2741,7 +2741,7 @@ the Jewish prophets were preserved, not in writing, but by memory."
 Whereas, it seems to me so far from certain, that I think it has no
 evidence nor probability at all.
 
-<span id="EndNote War 4.11b"></span>[(11)](#EndNote%20War%204.11a) By
+<span id="EndNote War 4.11b"></span>[(11)](#EndNote%20War%204.11a.md) By
 these hiera, or "holy places," as distinct from cities, must be meant
 "proseuchae," or "houses of prayer," out of cities; of which we find
 mention made in the New Testament and other authors. See Luke 6:12; Acts
@@ -2752,44 +2752,44 @@ B. XIV. ch. 10. sect. 23. So did the seventy-two interpreters go to pray
 every morning by the sea-side before they went to their work, B. XII.
 ch. 2. sect. 12.
 
-<span id="EndNote War 4.12b"></span>[(12)](#EndNote%20War%204.12a) Gr.
+<span id="EndNote War 4.12b"></span>[(12)](#EndNote%20War%204.12a.md) Gr.
 Galatia, and so everywhere.
 
-<span id="EndNote War 4.13b"></span>[(13)](#EndNote%20War%204.13a)
+<span id="EndNote War 4.13b"></span>[(13)](#EndNote%20War%204.13a.md)
 Whether this Somorrhon, or Somorrha, ought not to be here written
 Gomorrha, as some MSS. in a manner have it, (for the place meant by
 Josephus seems to be near Segor, or Zoar, at the very south of the Dead
 Sea, hard by which stood Sodom and Gomorrha,) cannot now be certainly
 determined, but seems by no means improbable.
 
-<span id="EndNote War 4.14b"></span>[(14)](#EndNote%20War%204.14a) This
+<span id="EndNote War 4.14b"></span>[(14)](#EndNote%20War%204.14a.md) This
 excellent prayer of Elisha is wanting in our copies, 2 Kings 2:21, 22,
 though it be referred to also in the Apostolical Constitutions, B. VII.
 ch. 37., and the success of it is mentioned in them all.
 
-<span id="EndNote War 4.15b"></span>[(15)](#EndNote%20War%204.15a) See
+<span id="EndNote War 4.15b"></span>[(15)](#EndNote%20War%204.15a.md) See
 the note on B. V. ch. 13. sect. 6.
 
-<span id="EndNote War 4.16b"></span>[(16)](#EndNote%20War%204.16a) Of
+<span id="EndNote War 4.16b"></span>[(16)](#EndNote%20War%204.16a.md) Of
 these Roman affairs and tumults under Galba, Otho, and Vitellius, here
 only touched upon by Josephus, see Tacitus, Suelonius, and Dio, more
 largely. However, we may observe with Ottius, that Josephus writes the
 name of the second of them not Otto, with many others, but Otho, with
 the coins. See also the note on ch. 11. sect. 4.
 
-<span id="EndNote War 4.17b"></span>[(17)](#EndNote%20War%204.17a) Some
+<span id="EndNote War 4.17b"></span>[(17)](#EndNote%20War%204.17a.md) Some
 of the ancients call this famous tree, or grove, an oak others, a
 turpentine tree, or grove. It has been very famous in all the past ages,
 and is so, I suppose, at this day; and that particularly for an eminent
 mart or meeting of merchants there every year, as the travelers inform
 us.
 
-<span id="EndNote War 4.18b"></span>[(18)](#EndNote%20War%204.18a)
+<span id="EndNote War 4.18b"></span>[(18)](#EndNote%20War%204.18a.md)
 Puetonius differs hardly three days from Josephus, and says Otho
 perished on the ninety-fifth day of his reign. In Anthon. See the note
 on ch. 11. sect. 4.
 
-<span id="EndNote War 4.19b"></span>[(19)](#EndNote%20War%204.19a) This
+<span id="EndNote War 4.19b"></span>[(19)](#EndNote%20War%204.19a.md) This
 beginning and ending the observation of the Jewish seventh day, or
 sabbath, with a priest's blowing of a trumpet, is remarkable, and no
 where else mentioned, that I know of. Nor is Reland's conjecture here
@@ -2799,7 +2799,7 @@ Sabbath," if that be the true reading, 2 Kings 16:18, because here the
 proper priest stood dry, under a "covering," to proclaim the beginning
 and ending of every Jewish sabbath.
 
-<span id="EndNote War 4.20b"></span>[(20)](#EndNote%20War%204.20a) The
+<span id="EndNote War 4.20b"></span>[(20)](#EndNote%20War%204.20a.md) The
 Roman authors that now remain say Vitellius had children, whereas
 Josephus introduces here the Roman soldiers in Judea saying he had none.
 Which of these assertions was the truth I know not. Spanheim thinks he
@@ -2807,12 +2807,12 @@ hath given a peculiar reason for calling Vitellius "childless," though
 he really had children, Diss. de Num. p. 649, 650; to which it appears
 very difficult to give our assent.
 
-<span id="EndNote War 4.21b"></span>[(21)](#EndNote%20War%204.21a) This
+<span id="EndNote War 4.21b"></span>[(21)](#EndNote%20War%204.21a.md) This
 brother of Vespasian was Flavius Sabinus, as Suetonius informs us, in
 Vitell. sect. 15, and in Vespas. sect. 2. He is also named by Josephus
 presently ch. 11. sect; 4.
 
-<span id="EndNote War 4.22b"></span>[(22)](#EndNote%20War%204.22a) It is
+<span id="EndNote War 4.22b"></span>[(22)](#EndNote%20War%204.22a.md) It is
 plain by the nature of the thing, as well as by Josephus and Eutropius,
 that Vespasian was first of all saluted emperor in Judea, and not till
 some time afterward in Egypt. Whence Tacitus's and Suetonius's present
@@ -2823,11 +2823,11 @@ proclaimed in Judea. I suppose the month they there intended was June,
 and not July, as the copies now have it; nor does Tacitus's coherence
 imply less. See Essay on the Revelation, p. 136.
 
-<span id="EndNote War 4.23b"></span>[(23)](#EndNote%20War%204.23a) Here
+<span id="EndNote War 4.23b"></span>[(23)](#EndNote%20War%204.23a.md) Here
 we have an authentic description of the bounds and circumstances of
 Egypt, in the days of Vespasian and Titus.
 
-<span id="EndNote War 4.24b"></span>[(24)](#EndNote%20War%204.24a) As
+<span id="EndNote War 4.24b"></span>[(24)](#EndNote%20War%204.24a.md) As
 Daniel was preferred by Darius and Cyrus, on account of his having
 foretold the destruction of the Babylonian monarchy by their means, and
 the consequent exaltation of the Medes and Persians, Daniel 5:6 or
@@ -2843,7 +2843,7 @@ monarchies. Several such-like examples there are, both in the sacred and
 other histories, as in the case of Joseph in Egypt. and of Jaddua the
 high priest, in the days of Alexander the Great, etc.
 
-<span id="EndNote War 4.25b"></span>[(25)](#EndNote%20War%204.25a) This
+<span id="EndNote War 4.25b"></span>[(25)](#EndNote%20War%204.25a.md) This
 is well observed by Josephus, that Vespasian, in order to secure his
 success, and establish his government at first, distributed his offices
 and places upon the foot of justice, and bestowed them on such as best
@@ -2852,7 +2852,7 @@ heathen ought to put those rulers and ministers of state to shame, who,
 professing Christianity, act otherwise, and thereby expose themselves
 and their kingdoms to vice and destruction.
 
-<span id="EndNote War 4.26b"></span>[(26)](#EndNote%20War%204.26a) The
+<span id="EndNote War 4.26b"></span>[(26)](#EndNote%20War%204.26a.md) The
 numbers in Josephus, ch. 9. sect. 2, 9, for Galba seven months seven
 days, for Otho three months two days, and here for Vitellius eight
 months five days, do not agree with any Roman historians, who also
@@ -2866,7 +2866,7 @@ then fell upon August 6,) in their entire reigns. Dio also, who says
 that Vitellius reigned a year within ten days, does yet estimate all
 their reigns together at no more than one year, one month, and two days.
 
-<span id="EndNote War 4.27b"></span>[(27)](#EndNote%20War%204.27a) There
+<span id="EndNote War 4.27b"></span>[(27)](#EndNote%20War%204.27a.md) There
 are coins of this Casian Jupiter still extant.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

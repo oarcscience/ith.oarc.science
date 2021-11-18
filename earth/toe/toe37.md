@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe36)  [Next](toe38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe36)  [Next](toe38.md) 
 
 ------------------------------------------------------------------------
 
@@ -162,7 +162,7 @@ the manner in which this great mass of land was formed in the sea, that
 is concerned with the subject at present under our examination, but
 certain facts set forth in the Memoir, and a certain conclusion which is
 there endeavoured to be drawn from those interesting facts <span
-id="fr_77"></span>[28](#fn_77). This will be understood by considering;
+id="fr_77"></span>[28](#fn_77.md). This will be understood by considering;
 first, it is on all hands acknowledged, that the stratified matter of
 the globe was successively deposited in the bottom of the sea; secondly,
 it is also agreed, that this great mass of Sicily, formed originally
@@ -439,7 +439,7 @@ head of the Loire. There we find the plain of Mont Brison, 40,000 toises
 or 22 miles long and half as wide, surrounded by a ridge of granite
 mountains on every side. Here the river, which is a small branch of the
 Loire, enters at the upper end of the plain (as M. de Bournon has
-described) <span id="fr_78"></span>[29](#fn_78) «Par une gorge très
+described) <span id="fr_78"></span>[29](#fn_78.md) «Par une gorge très
 étroite et tortueuse,» and goes out in like manner at the under End.
 
 Those French philosophers, who have seen this plain, have little doubts
@@ -726,7 +726,7 @@ the sea.
 
 ### Footnotes
 
-<span id="fn_77"></span>[v2:28](toe37.htm#fr_77) In the first part of
+<span id="fn_77"></span>[v2:28](toe37.htm#fr_77.md) In the first part of
 this work, the distinction has been made of true volcanic productions,
 and those which are so frequently confounded with them; these last,
 though the creatures of subterranean fire, and bodies which have been
@@ -739,10 +739,10 @@ to flow among the strata of the earth, where other at the bottom of the
 sea, or during those operations by which this land was erected above the
 level of the ocean.
 
-<span id="fn_78"></span>[v2:29](toe37.htm#fr_78) Journal de Physique,
+<span id="fn_78"></span>[v2:29](toe37.htm#fr_78.md) Journal de Physique,
 Mai 1787.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV. Summary of the Doctrine which has been now
-Illustrated](toe38)
+Illustrated](toe38.md)

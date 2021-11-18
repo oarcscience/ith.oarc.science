@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](aot00)    [Page
-Index](pageidx)    [Text \[Zipped\]](aottxt.zip)
+[Contents](#contents)    [Start Reading](aot00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](aottxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -43,25 +43,25 @@ p. 137.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](aot00)  
-[Contents](aot01)  
-[Section I. Introductory](aot02)  
+<span id="contents"></span> [Title Page](aot00.md)  
+[Contents](aot01.md)  
+[Section I. Introductory](aot02.md)  
 [Section II. The Religious Associations and Communities of the First
-Century](aot03)  
-[Section III. India and Greece](aot04)  
-[Section IV. The Apollonius of Early Opinion](aot05)  
-[Section V. Texts, Translations, and Literature](aot06)  
-[Section VI. The Biographer of Apollonius](aot07)  
-[Section VII. Early Life](aot08)  
-[Section VIII. The Travels of Apollonius](aot09)  
+Century](aot03.md)  
+[Section III. India and Greece](aot04.md)  
+[Section IV. The Apollonius of Early Opinion](aot05.md)  
+[Section V. Texts, Translations, and Literature](aot06.md)  
+[Section VI. The Biographer of Apollonius](aot07.md)  
+[Section VII. Early Life](aot08.md)  
+[Section VIII. The Travels of Apollonius](aot09.md)  
 [Section IX. In the Shrines of the Temples and the Retreats of
-Religion](aot10)  
-[Section X. The Gymnosophists of Upper Egypt](aot11)  
-[Section XI. Apollonius and the Rulers of the Empire](aot12)  
-[Section XII. Apollonius the Prophet and Wonder-Worker](aot13)  
-[Section XIII. His Mode of Life](aot14)  
-[Section XIV. Himself and his Circle](aot15)  
-[Section XV. From his Sayings and Sermons](aot16)  
-[Section XVI. From His Letters](aot17)  
-[Section XVII. The Writings of Apollonius](aot18)  
-[Section XVIII. Bibliographical Notes](aot19)  
+Religion](aot10.md)  
+[Section X. The Gymnosophists of Upper Egypt](aot11.md)  
+[Section XI. Apollonius and the Rulers of the Empire](aot12.md)  
+[Section XII. Apollonius the Prophet and Wonder-Worker](aot13.md)  
+[Section XIII. His Mode of Life](aot14.md)  
+[Section XIV. Himself and his Circle](aot15.md)  
+[Section XV. From his Sayings and Sermons](aot16.md)  
+[Section XVI. From His Letters](aot17.md)  
+[Section XVII. The Writings of Apollonius](aot18.md)  
+[Section XVIII. Bibliographical Notes](aot19.md)  

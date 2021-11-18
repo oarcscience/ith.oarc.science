@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fim08)  [Next](fim10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fim08)  [Next](fim10.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N the Isle of Man, as elsewhere, many customs and superstitions, as well
 as much weather-lore, have attached themselves to the different seasons
@@ -37,7 +37,7 @@ in vain, as, even at the present day, it can scarcely be said to have
 altogether ceased.
 
 The various customs and superstitions will he considered in the order of
-the [Calendar](errata.htm#22):--
+the [Calendar](errata.htm#22.md):--
 
 January 1, New Year's Day, formerly called *Laa Nolick beg*, "Little
 Christmas Day," was the occasion for various superstitions. Among: these
@@ -86,9 +86,9 @@ Life, pleasantness and sprightliness to you together,
 Peace and love between men and women;  
 Goods and riches, stock and store.  
 Plenty of potatoes and herring enough;  
-Bread and cheese, butter and beef. <span id="fr_61"></span>[1](#fn_58)  
+Bread and cheese, butter and beef. <span id="fr_61"></span>[1](#fn_58.md)  
 Sleeping safely when you are in bed,  
-Undisturbed by <span id="fr_62"></span>[2](#fn_59) the flea's tooth,
+Undisturbed by <span id="fr_62"></span>[2](#fn_59.md) the flea's tooth,
 sleeping well."
 
 Nothing should he lent on this day, as anyone who does so will be
@@ -104,7 +104,7 @@ the Northern Calendar. It was one of the days on which no one might
 borrow fire, but had to purchase it. After the introduction of
 Christianity, it became a Church festival in commemoration of the
 Manifestation of Christ to the Gentiles. Bishop Phillips, in the Manx
-Prayer Book <span id="fr_63"></span>[1](#fn_60) written by him early in
+Prayer Book <span id="fr_63"></span>[1](#fn_60.md) written by him early in
 the seventeenth century, calls it *Shen lail chibbert ushtey*, 'old
 feast-day of the water-well,' the meaning of which is not clear. It was
 formerly a day of much festivity in the Isle of Man, being called *Laa
@@ -136,7 +136,7 @@ seem that these entertainments were usually held at a public-house,
 whose landlord would be elected as the *mainshter*. After the *legads*
 had all been appointed, the whole party sat down to supper, each man
 paying for his own legad, or valentine. During the supper the *laare
-vane*, or white mare, <span id="fr_64"></span>[2](#fn_61) was brought
+vane*, or white mare, <span id="fr_64"></span>[2](#fn_61.md) was brought
 in. This
 
 <span id="page_105">p. 105</span>
@@ -166,7 +166,7 @@ of their future husband.
 It was supposed that the weather on the twelve days after "Old Christmas
 Day," indicated the weather of each month in the following year.
 
-January 25, *Laa’l Noo Phaul*, <span id="fr_65"></span>[1](#fn_62) "St.
+January 25, *Laa’l Noo Phaul*, <span id="fr_65"></span>[1](#fn_62.md) "St.
 Paul's Feast-day," is a church festival in commemoration of the
 conversion of St. Paul. There seems to have been a very general
 superstition throughout Western Europe that, from the state of the
@@ -217,16 +217,16 @@ rushes were strewn on the floor by way of a carpet or bed for her. It is
 said also that straw was sometimes used, instead of rushes.
 
 A similar custom is described by Martin, <span
-id="fr_66"></span>[1](#fn_63) as practised in some of the other Sodor
+id="fr_66"></span>[1](#fn_63.md) as practised in some of the other Sodor
 Isles:--"The mistress and servants of each family take a sheaf of oats
 and dress it up in woman's apparel, put it in a large basket and lay a
 wooden club by it, and this they call Briid's bed, and then the mistress
 and servants cry three times, 'Briid is come, Briid is
-[welcome](errata.htm#23).' This they do just before going to bed, and
+[welcome](errata.htm#23.md).' This they do just before going to bed, and
 when they rise in the morning, they look among the ashes expecting to
 see the impression of Briid's club there, which, if they do, they reckon
 it a true presage of a good crop and a prosperous year, and the contrary
-they take as an ill omen." <span id="fr_67"></span>[2](#fn_64)
+they take as an ill omen." <span id="fr_67"></span>[2](#fn_64.md)
 
 There were various weather sayings with regard to this day, thus:--
 
@@ -337,7 +337,7 @@ Patrick," has long since disappeared as a separate property; the latter,
 which is part of the Barony of St. Bees, still survives under the name
 of The Staffland. This place is considered to be freehold, inasmuch as
 no rent or service is rendered in respect of it to the lord. <span
-id="fr_68"></span>[1](#fn_65) The service
+id="fr_68"></span>[1](#fn_65.md) The service
 
 <span id="page_109">p. 109</span>
 
@@ -368,7 +368,7 @@ into the fire, and even the tongs were laid aside, lest any person
 should unfortunately stir the fire with them, a stick of the
 mountain-ash (*cuirn*) being used as a substitute. To avoid placing the
 iron griddle on the fire, a large thick cake, called a *soddag*, <span
-id="fr_69"></span>[1](#fn_66) which is triangular in shape, was baked on
+id="fr_69"></span>[1](#fn_66.md) which is triangular in shape, was baked on
 the hearth. It was also a custom for people to go to the shore on this
 day to gather shell-fish.
 
@@ -410,7 +410,7 @@ threshold, and branches of the *cuirn*, or mountain-ash, were made into
 small crosses without the aid of a knife, which was on no account to be
 used, and stuck over the doors of the dwelling-houses and cow-houses.
 Cows were further protected from the same influences by having the
-*bollan-feaill-Eoin* <span id="fr_70"></span>[1](#fn_67) (John's-feast
+*bollan-feaill-Eoin* <span id="fr_70"></span>[1](#fn_67.md) (John's-feast
 wort) placed in their houses. This was also one of the occasions on
 which no one would give fire, and on which fires were and are lit on the
 hills to drive away the Fairies, Witches, &c., and also to purify the
@@ -436,7 +436,7 @@ damsel places a snail between two pewter dishes, and expects to find
 next morning the name of her future husband in visible characters on the
 dish; but the success of this depends on her watching till midnight, and
 having first purified her hands and face by washing them in the dew of
-the wheat." <span id="fr_71"></span>[2](#fn_68)
+the wheat." <span id="fr_71"></span>[2](#fn_68.md)
 
 <span id="page_111">p. 111</span>
 
@@ -462,7 +462,7 @@ past ages only if there was not evidence that lambs have been burnt on
 May-day Eve or May-day--son oural--for a sacrifice within living memory.
 Such sacrifices seem to have been distinct in their purpose from the
 burning of animals already mentioned (in Chapter V.) for discovering
-Witches or driving away disease. <span id="fr_72"></span>[1](#fn_69)
+Witches or driving away disease. <span id="fr_72"></span>[1](#fn_69.md)
 
 May 12--*May-Day*, or *Laa-Boaldyn*, the *Beltaine*, as it was called in
 Irish, was the fire of the great Celtic feasts, and was held at the
@@ -475,7 +475,7 @@ word, *Beal-tine* or *Beil-tine*, signifies Bel's fire; as composed of
 *Baal* or *Belis*, one of the names of the sun in Gaelic, and *tein*,
 signifying fire;" but, as a matter of fact, this is all pure guess-work,
 no one having given a satisfactory derivation of the name. <span
-id="fr_73"></span>[2](#fn_70)
+id="fr_73"></span>[2](#fn_70.md)
 
 At an early hour on this morning the maidens went forth to gather the
 dew, and wash their faces in it, as it was supposed to ensure a good
@@ -745,7 +745,7 @@ needful; In time of Death and Famine; In time of Warr; In the Litany,
 the last two petitions, viz., That it may please Thee to give and
 preserve to our use, &c.,' 'That it may please Thee to forgive us all
 our sins,' and the Prayer in Mr Nelson's book for Rogation Week." <span
-id="fr_74"></span>[1](#fn_71) These Perambulations have not yet fallen
+id="fr_74"></span>[1](#fn_71.md) These Perambulations have not yet fallen
 entirely into disuse.
 
 The festival on June 24th, *Midsummer-day*, and on its eve,
@@ -758,7 +758,7 @@ descent were naturally of greater importance than to people living
 further south. This festival was probably originally in honour of
 Balder, the northern Sun-God, who at Midsummer attained his greatest
 splendour and duration, and from thence began to decline. <span
-id="fr_75"></span>[2](#fn_72) The beginning
+id="fr_75"></span>[2](#fn_72.md) The beginning
 
 <span id="page_118">p. 118</span>
 
@@ -772,11 +772,11 @@ Eve in the summer as well as Yule-eve in winter." And with regard to its
 origin, he says:--"The origin of this feast is no doubt heathen, being a
 worship of light and the sun, which has since been adapted to a
 Christian name and a Christian Calendar." <span
-id="fr_76"></span>[1](#fn_73) Very similar are the observances of this
+id="fr_76"></span>[1](#fn_73.md) Very similar are the observances of this
 eve in Man. Bonfires were lit on the hills, and blazing wheels were
 formerly rolled from their tops, probably originally with the intention
 of typifying the beginning of the sun's declination. <span
-id="fr_77"></span>[2](#fn_74) Cattle were also driven between or over
+id="fr_77"></span>[2](#fn_74.md) Cattle were also driven between or over
 fires to keep them from disease, and men and boys leaped over the
 flames. Train says that "on the eve of St. John the Baptist, the natives
 lighted fires to the windward side of every field, so hat the smoke
@@ -787,7 +787,7 @@ These fire observances were in fact the same as on May-day Eve, and they
 seem to have been designed as Charms to secure as much sunshine as
 possible, which, considering our dull and cloudy climate, is not to be
 wondered at; and they were at one time connected with human
-sacrifices. <span id="fr_78"></span>[3](#fn_75) There was also a notion
+sacrifices. <span id="fr_78"></span>[3](#fn_75.md) There was also a notion
 that the corn would grow well as far as the bonfires were seen, and,
 therefore, numerous bonfires were lit on these occasions, and it was
 supposed that the height of the straw depended on the height that the
@@ -810,7 +810,7 @@ wort" (mugwort), which was made into wreaths to be worn on the heads of
 man and beast to protect them from witchcraft.
 
 The next morning the great *Tinwald Court*, <span
-id="fr_79"></span>[1](#fn_76) corresponding to the Icelandic *Althing*,
+id="fr_79"></span>[1](#fn_76.md) corresponding to the Icelandic *Althing*,
 was held, when the laws were promulgated, and the festival proper, all
 Witches and evil Spirits having been disposed of on the previous
 evening, began. At this festival, which probably lasted a fortnight in
@@ -849,8 +849,8 @@ of the grain: *Lane croie cabbyl dy ushtey L’aal Eoin feeu mayl Vannin*,
 Man."
 
 July 13 was dedicated to the Saint called German, after whom the
-[Cathedral](errata.htm#24) on Peel Island is supposed to be named. <span
-id="fr_80"></span>[2](#fn_77)
+[Cathedral](errata.htm#24.md) on Peel Island is supposed to be named. <span
+id="fr_80"></span>[2](#fn_77.md)
 
 <span id="page_120">p. 120</span>
 
@@ -859,7 +859,7 @@ called *Laa Luanys*, or *Laa Lunys*, "Luanys's Day." This name was
 probably originally associated with the Celtic god *Lug*, or *Lieu*, as
 he is called in Wales, who, as he was said to have been brought up at
 the court of Manannan, was closely connected with Man. <span
-id="fr_81"></span>[1](#fn_78) In Ireland, his festival, called the
+id="fr_81"></span>[1](#fn_78.md) In Ireland, his festival, called the
 *Lug-nassad*, or the wedding of Lug, was celebrated on this day by a
 fair, at which games and sports took place. In Man, too, there was,
 within living memory, a great fair in the parish of Santon, on the same
@@ -867,7 +867,7 @@ day. This festival was, according to Professor Rhys, "the great event of
 the summer half of the year, which extended from the calends of May to
 the calends of winter. The Celtic year was more thermometric than
 astronomical; and the *Lugnassad* was, so to say, its summer
-solstice," <span id="fr_82"></span>[2](#fn_79) The fair has disappeared;
+solstice," <span id="fr_82"></span>[2](#fn_79.md) The fair has disappeared;
 but the ancient custom of visiting the highest hills and the sacred
 wells on this day, cannot be said to be altogether extinct. These wells
 are usually found near old ecclesiastical sites, as the holy recluses
@@ -891,7 +891,7 @@ Noo*, "In the name of the Father, and of the Son, and of the Holy
 Ghost," and then applied the water to his or her eye. Many of these
 wells, however, together with the sacred tree which overshadowed them,
 were certainly objects of veneration long before the days of the
-recluses and their religion. <span id="fr_83"></span>[3](#fn_80)
+recluses and their religion. <span id="fr_83"></span>[3](#fn_80.md)
 
 The Church attempted to put an end to this custom, and failed, but
 contrived to give it a religious character by changing
@@ -899,7 +899,7 @@ contrived to give it a religious character by changing
 <span id="page_121">p. 121</span>
 
 the date of its observance from the first day of August to the first
-Sunday in that month. <span id="fr_84"></span>[1](#fn_81) The following
+Sunday in that month. <span id="fr_84"></span>[1](#fn_81.md) The following
 representation made to the Ecclesiastical Court by the curate and
 wardens of the parish of Lonan, in 1732, will show that this custom was
 prevalent at that time:--
@@ -932,7 +932,7 @@ and a few may be seen lurking in the vicinity of the wells. There is now
 an idea prevalent that this custom of ascending the hills is in
 commemoration of Jepthah's daughter going forth on the hills, with the
 daughters of Israel following her, an idea which has probably been
-[promulgated](errata.htm#25) by the preachers with a view of causing a
+[promulgated](errata.htm#25.md) by the preachers with a view of causing a
 heathen superstition to be superseded by a Christian ceremony.
 
 *Harvest*.--When the landlord, or farmer, entered for the first time the
@@ -942,7 +942,7 @@ forfeit.
 
 The harvest festival is called in Manx *yn mheillea*, or *yn meailley*,
 'the harvest home,' "though," says Gill, <span
-id="fr_85"></span>[2](#fn_82) "more
+id="fr_85"></span>[2](#fn_82.md) "more
 
 <span id="page_122">p. 122</span>
 
@@ -968,12 +968,12 @@ by a similar successor. This custom has not long died out, and indeed
 the small sheaf, though not dressed, may still be seen in many a farm
 house. The large sheaf previously referred to was taken from the field,
 when the last load of corn was carried and placed on top of it, together
-with the *moidyn*. <span id="fr_86"></span>[1](#fn_83) It was then
+with the *moidyn*. <span id="fr_86"></span>[1](#fn_83.md) It was then
 deposited in the barn with much clamour and rejoicing, and was kept
 there till the following harvest. After this they all adjourned to the
 supper, which it was usual for the farmer to provide on these occasions,
 and which was a scene of great joy and merriment, the *Laare-vane*, as
-on twelfth-day, being a conspicuous feature (see [p. 104](#page_104)).
+on twelfth-day, being a conspicuous feature (see [p. 104](#page_104).md).
 The carrying of the 'maiden' has now fallen into desuetude, so that the
 name is now associated with the harvest supper only.
 
@@ -1022,7 +1022,7 @@ associated with him on the first of August, succumbed to his enemies,
 the powers of darkness and winter. It was their first hour of triumph
 after an interval of subjection, and the popular imagination pictured
 them stalking abroad with more than ordinary insolence and
-aggressiveness." <span id="fr_87"></span>[1](#fn_84) It was, in fact,
+aggressiveness." <span id="fr_87"></span>[1](#fn_84.md) It was, in fact,
 the time when the result of the combat which took place in May was
 reversed; then the powers of light gained the ascendency, now the powers
 of darkness. Bonfires were lit on *Oie Houiney*, as on *Oie Voaldyn*,
@@ -1056,13 +1056,13 @@ Or we'll be away by the light of the moon--*Hog-annaa!* 
 Professor Rhys came across a different and seemingly more rational
 version of this Hollantide rhyme in the South of the Island last
 year:--*Oie Houna*--"Hollantide Eve." *Shibber ny gauin(a)* <span
-id="fr_88"></span>[1](#fn_85)--" Supper of the heifer." *Cre gauin marr
+id="fr_88"></span>[1](#fn_85.md)--" Supper of the heifer." *Cre gauin marr
 mayd?*--"Which heifer shall we kill?" *yn gauin veg vreac*--"The little
 spotted heifer." There were more lines, but his informant had forgotten
 them.
 
 The first line of this song was formerly "*Hog-annaa*--Tonight is New
-Year's Night," <span id="fr_89"></span>[2](#fn_86) which is another
+Year's Night," <span id="fr_89"></span>[2](#fn_86.md) which is another
 proof that this was the last night of the year; and it is significant,
 also, that the customs of raking out the ashes from the fire and placing
 ivy in water, now practised on the 31st of December, were practised on
@@ -1079,7 +1079,7 @@ jour en demandant l’aumosne, disent Hoguinanno*. "In Low Normandie, the
 poor, the last day (of the year), in demanding alms, say *Hoguinanno*."
 We may, therefore, conclude that this was undoubtedly the last night of
 the year. As to the meaning of this word, *Hog-annaa*, *Hogmanaye*, or
-*Hoguinanno*, we may [venture](errata.htm#26) to suggest that,.
+*Hoguinanno*, we may [venture](errata.htm#26.md) to suggest that,.
 supposing the Scotch form to be the most accurate, both it and trollalay
 are of Scandinavian origin, and refer to the Fairies and the Trolls. We
 know that on this night it was considered necessary
@@ -1106,7 +1106,7 @@ baked, they divide it, eat it up, and retire to their beds back-wards
 without speaking a word, from which silence the cake derives its name,
 and in the course of the night they expect to see the images of the men
 who are destined to be their husbands." <span
-id="fr_90"></span>[1](#fn_87) The following is another Hollantide recipe
+id="fr_90"></span>[1](#fn_87.md) The following is another Hollantide recipe
 for dreaming of a future husband:--Take a salt herring from a
 neighbour's house without the consent or knowledge of the owner. Be sure
 to capture it in the dark, and take the first that comes to hand. Then
@@ -1130,23 +1130,23 @@ place in Man:--
 <span id="page_126">p. 126</span>
 
 The auld guidwife's well hoordit nits <span
-id="fr_91"></span>[1](#fn_88)  
+id="fr_91"></span>[1](#fn_88.md)  
 Are round and round divided,  
 And mony lads' and mony lasses' fates  
   Are there that night decided:  
-Some kindle couthie <span id="fr_92"></span>[2](#fn_89) side by side,  
+Some kindle couthie <span id="fr_92"></span>[2](#fn_89.md) side by side,  
   An’ burn thegither trimly,  
 Some start awa’ wi’ saucy pride,  
   And grimp out owre the chimlie  
               Fu’ high that night.
 
-Jean slips in twa wi’ tentie e’e; <span id="fr_93"></span>[3](#fn_90)  
+Jean slips in twa wi’ tentie e’e; <span id="fr_93"></span>[3](#fn_90.md)  
   Wha ’twas she wadna tell;  
 But this is Jock, and this is me,  
   She says in to hersel;  
 He bleez’d owre her, an’ she owre him,  
   As they wad ne’er main part!  
-Till fuff! he started up the lum, <span id="fr_94"></span>[4](#fn_91)  
+Till fuff! he started up the lum, <span id="fr_94"></span>[4](#fn_91.md)  
   An Jean had e’en a sair heart  
               To see’t that night.
 
@@ -1214,7 +1214,7 @@ the fare for that feast. There is a weather saying with reference to
 this time of the year, that "if the frost will bear a goose before
 Christmas, it will not bear a duck after Christmas." *Ny nee yn rio
 gymmyrkey guiy roish yn Ollick cha nymmyrkey e thunnag lurg yn
-Ollick*. <span id="fr_95"></span>[1](#fn_92)
+Ollick*. <span id="fr_95"></span>[1](#fn_92.md)
 
 December 24.--Christmas-eve, in Manx *Oie’l Verrey*, a corruption of
 *Oie feaill Voirrey*, "Eve of Mary's Feast." it was the custom for the
@@ -1267,7 +1267,7 @@ The plot everywhere seems to be pretty nearly the same, though scarcely
 any two sets of performers render it alike, as they constantly mix up
 extraneous matter, often of a local nature, and frequently allude to the
 passing events of the day, making the confusion of character in all the
-versions very great. <span id="fr_96"></span>[1](#fn_93)
+versions very great. <span id="fr_96"></span>[1](#fn_93.md)
 
 In this Isle the *dramatis personæ*--St. George, Prince Valentine, King
 of Egypt, Sambo, and the Doctor--are attired in white dresses, showing
@@ -1287,7 +1287,7 @@ in the hands of a sprightly wag, causes some amusement to the audience,
 who, somehow or other, generally appear more frightened than pleased
 with the rest of the characters. The performance is often wound up by a
 song. The following was taken down by W. Harrison as it was recited in
-his house at Christmas, 1845. <span id="fr_97"></span>[1](#fn_94)
+his house at Christmas, 1845. <span id="fr_97"></span>[1](#fn_94.md)
 
 #### THE WHITE BOYS.
 
@@ -1443,7 +1443,7 @@ That sum this night from you I crave.
 
 KING OF Egypt--What medicine do you carry, Doctor?
 
-DOCTOR--I carry a [little](errata.htm#27) bottle in my pocket of
+DOCTOR--I carry a [little](errata.htm#27.md) bottle in my pocket of
 rixum-raxum, prixum-praxum, with I-cock-o'-lory--a little of this to his
 nostrils.
 
@@ -1458,7 +1458,7 @@ Oh horrible! terrible! the like was ne'er before.
 It was neither by a bull, nor yet by a bear,  
 But by a little devil of a rabbit there.
 
-\[*The Doctor performs the cure on [Valentine](errata.htm#28), who
+\[*The Doctor performs the cure on [Valentine](errata.htm#28.md), who
 rises*.
 
 VALENTINE--It is a kind of rough tough, coming up like a fly,  
@@ -1505,7 +1505,7 @@ was called the *Saturnalia* by the Romans, and Yule by the Scandinavian
 nations, with whom the Isle of Man was closely connected. The meaning of
 the word *Yule* has given rise to considerable controversy, the most
 probable interpretation being that of Ficke; <span
-id="fr_98"></span>[1](#fn_95) who explains it to mean "noise," or "cry,"
+id="fr_98"></span>[1](#fn_95.md) who explains it to mean "noise," or "cry,"
 especially the loud noise of revelry and rejoicing. The heathen *Yule*
 was certainly a great time of merrymaking, and lasted for thirteen days,
 inclusive of the 6th of January. This merrymaking was to express their
@@ -1552,7 +1552,7 @@ account of the origin of the hunting of the wren:
 
 "It has been a pastime in the Isle of Man from time immemorial to hunt
 the wren. It is founded on a tradition that in former times a fairy of
-uncommon beauty exerted such undue [influence](errata.htm#29) over the
+uncommon beauty exerted such undue [influence](errata.htm#29.md) over the
 male population, that she at various times seduced numbers to follow her
 footsteps, till, by degrees, she led them into the sea, where they
 perished. This barbarous exercise of power had continued for a great
@@ -1574,7 +1574,7 @@ at, and destroyed, without mercy, and their feathers preserved with
 religious care; it being an article of belief that every one of the
 relics gathered in this laudable pursuit is an effectual preservation
 from shipwreck for one year; and that fishermen would be considered as
-extremely foolhardy who would enter [upon](errata.htm#30) his occupation
+extremely foolhardy who would enter [upon](errata.htm#30.md) his occupation
 without such a safeguard."--(*Bullock*, *History of the Isle of Man*,
 1816.)
 
@@ -1585,7 +1585,7 @@ follows:--"It is the custom of the inhabitants of the several parishes
 to catch a wren, on this day, and parade with flags flying and music,
 with the wren fixen upon the point of a long pole; and they oblige every
 person they meet to purchase a feather, <span
-id="fr_99"></span>[1](#fn_96) and to wear it in their hats for the day;
+id="fr_99"></span>[1](#fn_96.md) and to wear it in their hats for the day;
 in the evening they inter the naked body, with great solemnity; and
 conclude the evening with wrestling and all manner of sports. This is
 supposed to be in memory of the first martyr."
@@ -1606,7 +1606,7 @@ feathers, are considered an effectual preservative against witchcraft.
 It was formerly the custom in the evening to inter the naked body with
 great solemnity in a secluded corner of the churchyard, and conclude the
 evening with wrestling and all manner of sports." <span
-id="fr_100"></span>[2](#fn_97)
+id="fr_100"></span>[2](#fn_97.md)
 
 Barrow gave the music of the song which follows in his *Mona Melodies*,
 published in 1820, and the words were taken down by William Harrison
@@ -1619,7 +1619,7 @@ from a company of "Wren boys," in 1843:
 <span id="img_13500"></span>
 
 [![HUNT THE WREN: MANX AIR.](tn/13500.jpg)  
-Click to enlarge](img/13500.jpg)  
+Click to enlarge](img/13500.jpg.md)  
 HUNT THE WREN: MANX AIR.  
 
  
@@ -1724,7 +1724,7 @@ He is eat, he is eat, says Robin to Bobbin.
 The eyes for the blind, says Robin to Bobbin.  
                                           Repeat, etc.
 
-The legs for the lame, say [Robin](errata.htm#31) to Bobbin.  
+The legs for the lame, say [Robin](errata.htm#31.md) to Bobbin.  
                                           Repeat, etc.
 
 The pluck for the poor, says Robin to Bobbin.  
@@ -1754,7 +1754,7 @@ men, women, and children, singing an Irish catch, importing him to be
 the king of all birds. In several European languages his name imports
 the same--as, Latin, *Regulus*; French, *Reytelet*; Welsh, *Bren*, king;
 Teutonic, *Konig-Vogel*, king-bird; Dutch, *Konije*, little king." <span
-id="fr_101"></span>[1](#fn_98)
+id="fr_101"></span>[1](#fn_98.md)
 
 <span id="page_138">p. 138</span>
 
@@ -1771,7 +1771,7 @@ however, the wren, who had secreted himself under the feathers of the
 eagle's crest, popped from his hiding-place, flew a few inches upwards,
 and chirped out as loudly as he could, 'Birds, look up and behold your
 king;' and was elected accordingly." The meaning of the Manx, *Dreain*,
-is uncertain, though Kelly <span id="fr_102"></span>[1](#fn_99) boldly
+is uncertain, though Kelly <span id="fr_102"></span>[1](#fn_99.md) boldly
 derives it from *druai-eean*, "the druid's bird."
 
 Aubray relates in his *Miscellanies* that, after a battle in the north
@@ -1823,7 +1823,7 @@ He's eat, he's eat, says every one.
 
 \[paragraph continues\] I have never met with a copy of dirges in the
 Manx language, said to have been sung over the body at the interment, as
-is recorded in Waldron's History. <span id="fr_103"></span>[1](#fn_100)
+is recorded in Waldron's History. <span id="fr_103"></span>[1](#fn_100.md)
 
 In Essex, the wren was killed and carried about in furze bushes, the
 boys asking a present in these words:--
@@ -1859,7 +1859,7 @@ Sunday in December. It is very remarkable that though in many counties
 it was reckoned unlucky to kill the wren, yet it was killed ceremonially
 once a year. This, taken into connection with the value set upon the
 possession of a feather from the slain bird, points to a sacrificial
-custom. <span id="fr_104"></span>[2](#fn_101)
+custom. <span id="fr_104"></span>[2](#fn_101.md)
 
 <span id="page_140">p. 140</span>
 
@@ -1907,31 +1907,31 @@ on Friday.
 
 ### Footnotes
 
-<span id="fn_58"></span>[103:1](fim09.htm#fr_61) The meaning of this is,
+<span id="fn_58"></span>[103:1](fim09.htm#fr_61.md) The meaning of this is,
 probably: may death, when it comes upon you, find you as happy and
 comfortable as a mouse in a well-stocked barn.
 
-<span id="fn_59"></span>[103:2](fim09.htm#fr_62) Literally "without."
+<span id="fn_59"></span>[103:2](fim09.htm#fr_62.md) Literally "without."
 
-<span id="fn_60"></span>[104:1](fim09.htm#fr_63) This, we hope, will
+<span id="fn_60"></span>[104:1](fim09.htm#fr_63.md) This, we hope, will
 shortly be published by the Manx Society.
 
-<span id="fn_61"></span>[104:2](fim09.htm#fr_64) This was probably a
-harvest custom, originally. See [p. 122](#page_122), also Chapter VII.,
+<span id="fn_61"></span>[104:2](fim09.htm#fr_64.md) This was probably a
+harvest custom, originally. See [p. 122](#page_122.md), also Chapter VII.,
 where an attempt is made to explain the origin of all customs connected
 with the animal or vegetable kingdom.
 
-<span id="fn_62"></span>[105:1](fim09.htm#fr_65) The word *laa’l*
+<span id="fn_62"></span>[105:1](fim09.htm#fr_65.md) The word *laa’l*
 appears to be a contraction of Laa-feaill 'feast-day.' F is a weak
 consonant in Manx, and when aspirated it loses all its force. Phillips,
 in his Prayer book of the early seventeenth century, spells this word
 *lail*, which shows its origin more distinctly.
 
-<span id="fn_63"></span>[106:1](fim09.htm#fr_66) Western Isles, p. 119.
+<span id="fn_63"></span>[106:1](fim09.htm#fr_66.md) Western Isles, p. 119.
 
-<span id="fn_64"></span>[106:2](fim09.htm#fr_67) See Chapter VII.
+<span id="fn_64"></span>[106:2](fim09.htm#fr_67.md) See Chapter VII.
 
-<span id="fn_65"></span>[108:1](fim09.htm#fr_68) It will be seen that
+<span id="fn_65"></span>[108:1](fim09.htm#fr_68.md) It will be seen that
 these tenures are not peculiar to the Isle of Man from the following:
 
 'Grant of lands in Free Alms in the Isle of Lismore, with the custody of
@@ -1951,108 +1951,108 @@ body lawfully begotten or to be begotten, all and singular our lands . .
 sd John had from our predecessors . . . in pure and free alms.' (Dated
 9th April, 1544).
 
-<span id="fn_66"></span>[109:1](fim09.htm#fr_69) See Chapter
+<span id="fn_66"></span>[109:1](fim09.htm#fr_69.md) See Chapter
 VII.--Similar cakes were made in the little island of St. Kilda, but on
 "All Soul's Day," November 2nd not Good Friday.
 
-<span id="fn_67"></span>[110:1](fim09.htm#fr_70) See Chapter VII.
+<span id="fn_67"></span>[110:1](fim09.htm#fr_70.md) See Chapter VII.
 
-<span id="fn_68"></span>[110:2](fim09.htm#fr_71) Kelly: Manx Dictionary,
+<span id="fn_68"></span>[110:2](fim09.htm#fr_71.md) Kelly: Manx Dictionary,
 p, 15. Manx Society: Vol. XIII.
 
-<span id="fn_69"></span>[111:1](fim09.htm#fr_72) See Chapter VII.
+<span id="fn_69"></span>[111:1](fim09.htm#fr_72.md) See Chapter VII.
 
-<span id="fn_70"></span>[111:2](fim09.htm#fr_73) Kelly's (see Manx
+<span id="fn_70"></span>[111:2](fim09.htm#fr_73.md) Kelly's (see Manx
 Dictionary) notion of a connection with the Phoenician God *Baal* is an
 evident absurdity.
 
-<span id="fn_71"></span>[117:1](fim09.htm#fr_74) These extracts about
+<span id="fn_71"></span>[117:1](fim09.htm#fr_74.md) These extracts about
 Perambulations were taken from the Ballaugh *Parochialia*, by the
 permission of its compiler, the late Rev. W. Kermode.
 
-<span id="fn_72"></span>[117:2](fim09.htm#fr_75) See Chapter VII.
+<span id="fn_72"></span>[117:2](fim09.htm#fr_75.md) See Chapter VII.
 
-<span id="fn_73"></span>[118:1](fim09.htm#fr_76) Cleasby and Vigfusson,
+<span id="fn_73"></span>[118:1](fim09.htm#fr_76.md) Cleasby and Vigfusson,
 Icelandic Dictionary.
 
-<span id="fn_74"></span>[118:2](fim09.htm#fr_77) See story of "Origin of
+<span id="fn_74"></span>[118:2](fim09.htm#fr_77.md) See story of "Origin of
 Arms of the Island." Chapter III. This custom of rolling down wheels was
 formerly practised in Bohemia and central France.
 
-<span id="fn_75"></span>[118:3](fim09.htm#fr_78) See Chapter VII.
+<span id="fn_75"></span>[118:3](fim09.htm#fr_78.md) See Chapter VII.
 
-<span id="fn_76"></span>[119:1](fim09.htm#fr_79) The date of this Court
+<span id="fn_76"></span>[119:1](fim09.htm#fr_79.md) The date of this Court
 has only been changed to the 5th of July since the alteration of the
 Calendar. For a full description of it see "Manx Names," pp. 261-66.
 
-<span id="fn_77"></span>[119:2](fim09.htm#fr_80) Manx Names, p. 210.
+<span id="fn_77"></span>[119:2](fim09.htm#fr_80.md) Manx Names, p. 210.
 
-<span id="fn_78"></span>[120:1](fim09.htm#fr_81) See Chapter I.
+<span id="fn_78"></span>[120:1](fim09.htm#fr_81.md) See Chapter I.
 
-<span id="fn_79"></span>[120:2](fim09.htm#fr_82) The Hibbert Lectures,
+<span id="fn_79"></span>[120:2](fim09.htm#fr_82.md) The Hibbert Lectures,
 1888, p. 149.
 
-<span id="fn_80"></span>[120:3](fim09.htm#fr_83) See Chapter VII.
+<span id="fn_80"></span>[120:3](fim09.htm#fr_83.md) See Chapter VII.
 
-<span id="fn_81"></span>[121:1](fim09.htm#fr_84) *i.e.*, after the
+<span id="fn_81"></span>[121:1](fim09.htm#fr_84.md) *i.e.*, after the
 change of the calendar to the first Sunday after the 12th of August.
 
-<span id="fn_82"></span>[121:2](fim09.htm#fr_85) Kelly's Manx
+<span id="fn_82"></span>[121:2](fim09.htm#fr_85.md) Kelly's Manx
 Dictionary, p. 129.
 
-<span id="fn_83"></span>[122:1](fim09.htm#fr_86) See Chapter VII.
+<span id="fn_83"></span>[122:1](fim09.htm#fr_86.md) See Chapter VII.
 
-<span id="fn_84"></span>[123:1](fim09.htm#fr_87) Rhys' Hibbert Lectures,
+<span id="fn_84"></span>[123:1](fim09.htm#fr_87.md) Rhys' Hibbert Lectures,
 1886; p. 516-17.
 
-<span id="fn_85"></span>[124:1](fim09.htm#fr_88) This looks like some
+<span id="fn_85"></span>[124:1](fim09.htm#fr_88.md) This looks like some
 reminiscence of sacrifice and feasting. See Chapter VII.
 
-<span id="fn_86"></span>[124:2](fim09.htm#fr_89) Kelly, Manx Dictionary,
+<span id="fn_86"></span>[124:2](fim09.htm#fr_89.md) Kelly, Manx Dictionary,
 p. 24.
 
-<span id="fn_87"></span>[125:1](fim09.htm#fr_90) Kelly, Manx Dictionary,
+<span id="fn_87"></span>[125:1](fim09.htm#fr_90.md) Kelly, Manx Dictionary,
 p. 14.
 
-<span id="fn_88"></span>[126:1](fim09.htm#fr_91) Nuts.
+<span id="fn_88"></span>[126:1](fim09.htm#fr_91.md) Nuts.
 
-<span id="fn_89"></span>[126:2](fim09.htm#fr_92) Lovingly.
+<span id="fn_89"></span>[126:2](fim09.htm#fr_92.md) Lovingly.
 
-<span id="fn_90"></span>[126:3](fim09.htm#fr_93) Watchful eye.
+<span id="fn_90"></span>[126:3](fim09.htm#fr_93.md) Watchful eye.
 
-<span id="fn_91"></span>[126:4](fim09.htm#fr_94) Chimney.
+<span id="fn_91"></span>[126:4](fim09.htm#fr_94.md) Chimney.
 
-<span id="fn_92"></span>[127:1](fim09.htm#fr_95) This is identical with
+<span id="fn_92"></span>[127:1](fim09.htm#fr_95.md) This is identical with
 an English proverb.
 
-<span id="fn_93"></span>[128:1](fim09.htm#fr_96) This play is mentioned
+<span id="fn_93"></span>[128:1](fim09.htm#fr_96.md) This play is mentioned
 by Davies Gilbert, F.R.S., as being popular in the West of England in
 his *Ancient Christmas Carols*, London, 1822.
 
-<span id="fn_94"></span>[129:1](fim09.htm#fr_97) Manx Society, Vol.
+<span id="fn_94"></span>[129:1](fim09.htm#fr_97.md) Manx Society, Vol.
 XVI., p. 166-171.
 
-<span id="fn_95"></span>[132:1](fim09.htm#fr_98) Indogermanischen
+<span id="fn_95"></span>[132:1](fim09.htm#fr_98.md) Indogermanischen
 Sprachen, Vol. III., p. 245.
 
-<span id="fn_96"></span>[134:1](fim09.htm#fr_99) See Chapter VII., and
+<span id="fn_96"></span>[134:1](fim09.htm#fr_99.md) See Chapter VII., and
 Manx Dictionary, p. 116.
 
-<span id="fn_97"></span>[134:2](fim09.htm#fr_100) Mona Miscellany Manx
+<span id="fn_97"></span>[134:2](fim09.htm#fr_100.md) Mona Miscellany Manx
 Society, vol. XXI.
 
-<span id="fn_98"></span>[137:1](fim09.htm#fr_101) Indeed the wren was
+<span id="fn_98"></span>[137:1](fim09.htm#fr_101.md) Indeed the wren was
 called "King of birds" by almost every European nation.
 
-<span id="fn_99"></span>[138:1](fim09.htm#fr_102) Manx Dictionary, p.
+<span id="fn_99"></span>[138:1](fim09.htm#fr_102.md) Manx Dictionary, p.
 67.
 
-<span id="fn_100"></span>[139:1](fim09.htm#fr_103) "Mona Miscellany,"
+<span id="fn_100"></span>[139:1](fim09.htm#fr_103.md) "Mona Miscellany,"
 Manx Society, Vol. XVI.
 
-<span id="fn_101"></span>[139:2](fim09.htm#fr_104) See Chapter VII.
+<span id="fn_101"></span>[139:2](fim09.htm#fr_104.md) See Chapter VII.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Superstitions Connected With the Sun, Animals,
-Trees, Plants, Sacred Edifices, &c.](fim10)
+Trees, Plants, Sacred Edifices, &c.](fim10.md)

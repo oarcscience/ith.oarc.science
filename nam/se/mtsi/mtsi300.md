@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi299)  [Next](mtsi301) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi299)  [Next](mtsi301.md) 
 
 ------------------------------------------------------------------------
 
-### 35. RABBIT AND MAN-EATER <span id="fr_88"></span>[1](#fn_87) (65)
+### 35. RABBIT AND MAN-EATER <span id="fr_88"></span>[1](#fn_87) (65.md)
 
 Rabbit was traveling westward when he met Man-eater coming toward him.
 Man-eater said, "Where are you going?" and Rabbit answered, "I am going
@@ -69,9 +69,9 @@ wandered about.
 
 ### Footnotes
 
-<span id="fn_87"></span>[259:1](mtsi300.htm#fr_88) Called "Lion" by my
+<span id="fn_87"></span>[259:1](mtsi300.htm#fr_88.md) Called "Lion" by my
 informant.
 
 ------------------------------------------------------------------------
 
-[Next: 36. Story of a Bison](mtsi301)
+[Next: 36. Story of a Bison](mtsi301.md)

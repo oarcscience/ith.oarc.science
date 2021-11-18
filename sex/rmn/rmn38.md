@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn37)  [Next](rmn39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn37)  [Next](rmn39.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ disturb the mysteries of the nuptial bed.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXXVIII: Spinthria](rmn39)
+[Next: Plate XXXVIII: Spinthria](rmn39.md)

@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tsoa38)  [Next](tsoa40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tsoa38)  [Next](tsoa40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Ages*, by Robert Collier, \[1926\], at Intangible
 Textual Heritage
 
@@ -295,7 +295,7 @@ me it was a tumorous growth and likely to become serious.
 remedies in the way of cure. I have been a believer in faith healing and
 member of the Unity Society, a branch of the New Thought organization,
 for a number of years, so I went to a New Thought
-[practitioner](errata.htm#12). While this seemed to help me, the
+[practitioner](errata.htm#12.md). While this seemed to help me, the
 tumorous growth remained. I guess my faith wasn't strong enough at the
 time. That was last fall.
 
@@ -665,7 +665,7 @@ mind tells it to, insofar as mind believes itself to be the Master. Your
 eyes, for instance, are merely lenses which transmit light from the
 outer world to the brain within. They contract or elongate, they open or
 close, just as mind directs. And mind, in its turn, keeps them
-constantly [nourished](errata.htm#13) with new, life-giving blood,
+constantly [nourished](errata.htm#13.md) with new, life-giving blood,
 replacing old tissue, old cells, as fast as they wear out, rebuilding
 ever, so that your eyes may continue to function perfectly as long as
 your conscious mind is dependent upon them for its impressions of outer
@@ -963,7 +963,7 @@ The exercise merely helps to impress that mental image on your
 subconscious mind.
 
 Electrical treatments, skin tonics, alcohol rubs, etc., all are useful
-only to [the](errata.htm#14) extent that they center the attention of
+only to [the](errata.htm#14.md) extent that they center the attention of
 the subconscious mind upon the parts affected. Exactly the same results,
 even to that pleasant little tingling of the skin, can be effected by
 mind alone, I
@@ -1178,7 +1178,7 @@ has fear stamped upon him before his en-trance into the outer world; he
 is reared in fear; all his life is passed in bondage of fear of disease
 and death and thus his whole mentality becomes cramped, limited, and
 depressed, and his body follows its shrunken pattern and specification.
-IS IT NOT [SURPRISING](errata.htm#15) THAT HEALTH EXISTS AT ALL? Nothing
+IS IT NOT [SURPRISING](errata.htm#15.md) THAT HEALTH EXISTS AT ALL? Nothing
 but the boundless Divine Love, exuberance, and vitality, constantly
 poured in, even though unconsciously to us, could in some degrees
 neutralize such an ocean of morbidity."
@@ -1215,7 +1215,7 @@ and work in the right way.
 As long as you do your part, the principle of mathematics will do the
 rest. It is the same in all of life. Don't worry. Don't fret. Go at your
 problem in the right way, no matter how difficult it may seem; follow
-the rules herein laid down, and you can [confidently](errata.htm#16)
+the rules herein laid down, and you can [confidently](errata.htm#16.md)
 look to the Principle of Being to bring you the answer.
 
 *L’Envoi*
@@ -1285,4 +1285,4 @@ thee in the Mount."
 
 ------------------------------------------------------------------------
 
-[Next: Index of Scriptural References and Quotations](tsoa40)
+[Next: Index of Scriptural References and Quotations](tsoa40.md)

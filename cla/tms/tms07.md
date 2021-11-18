@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](tms06)  [Next](tms08) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](tms06)  [Next](tms08.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,23 +21,23 @@ taboo, he may rid himself of the evil effects of the contagion in
 various ways. In highly developed religions, a sacrifice is often felt
 to be necessary. A concubine, for instance, might not touch the temple
 of Juno. An ancient law with regard to this prohibition, ascribed to
-Numa, reads as follows: <span id="fr_384"></span>[1](#fn_384) "Let no
+Numa, reads as follows: <span id="fr_384"></span>[1](#fn_384.md) "Let no
 kept mistress touch the temple of Juno. If she does so, let her, with
 streaming hair, kill and offer up a ewe lamb to Juno." Again, no graving
 tools were allowed in the sacred grove of the Arval Brothers; and so an
 atoning sacrifice of a pig and a lamb was made before the tools were
 taken into the grove and again after they had been removed. <span
-id="fr_385"></span>[2](#fn_385) Furthermore, rites must be repeated if a
+id="fr_385"></span>[2](#fn_385.md) Furthermore, rites must be repeated if a
 religiously dangerous person had polluted the place where they were to
 be celebrated. Thus, in 491 B.C., the Great Games had to be repeated
 because, after they had been given, it was discovered that, on the
 morning set for the celebration, a slave had been driven by his master
 through the circus where the games were to take place. <span
-id="fr_386"></span>[3](#fn_386)
+id="fr_386"></span>[3](#fn_386.md)
 
 Magic acts which are intended to avert evils resulting from contact with
 tabooed objects most commonly involve the use of purifying instruments
-called by the Romans februa, <span id="fr_387"></span>[4](#fn_387) such
+called by the Romans februa, <span id="fr_387"></span>[4](#fn_387.md) such
 as water, fire, wool, the skins of sacrificial animals, laurel, pine,
 spelt, salt, sulphur, and any object which they used to cleanse their
 bodies. Evils, physical and spiritual alike, may be washed or burned
@@ -79,8 +79,8 @@ the object is usually good.
 
 We are now ready to turn to a Roman festival in which many purificatory
 agents are used--the Festival of Pales (Palilia). <span
-id="fr_388"></span>[5](#fn_388) This festival unquestionably antedated
-the founding of the city, <span id="fr_389"></span>[6](#fn_389) which,
+id="fr_388"></span>[5](#fn_388.md) This festival unquestionably antedated
+the founding of the city, <span id="fr_389"></span>[6](#fn_389.md) which,
 according to tradition, occurred on the same day as the celebration of
 the festival. Pales, to whom the day was sacred, was an ancient Italian
 shepherd divinity, of uncertain sex, worshiped on April twenty-first, in
@@ -89,7 +89,7 @@ celebration: he had with his own hands carried the ashes of the calves
 and the bean stalks which were used in rites of purification; and he had
 jumped through the fumigating fires and had been sprinkled with water
 from a laurel spray. Although animal sacrifice was forbidden on this
-day, <span id="fr_390"></span>[7](#fn_390) the blood from the tail and
+day, <span id="fr_390"></span>[7](#fn_390.md) the blood from the tail and
 head of a horse, familiarly known as the October Horse, which had been
 sacrificed on October fifteenth, was mixed with sulphur and with bean
 stalks and with the ashes of the unborn calves which had been sacrificed
@@ -126,7 +126,7 @@ presently consider in detail.
 
 Rites similar to or almost identical with those of the Festival of Pales
 have survived to our day in various parts of the world. Frazer
-writes: <span id="fr_391"></span>[8](#fn_391)
+writes: <span id="fr_391"></span>[8](#fn_391.md)
 
 "In eastern Europe many analogous rites have been performed down to
 recent times, and probably still are performed, for the same purpose, by
@@ -156,23 +156,23 @@ power in Italy. The Roman priest, aware of the prophecy, insisted that
 the Sabine--a stranger and hence religiously dangerous--bathe in a
 running stream as the Roman ritual demanded. While the Sabine was thus
 occupied, the priest sacrificed the heifer to the goddess. <span
-id="fr_392"></span>[9](#fn_392) Again, corpses and death, in all ages,
+id="fr_392"></span>[9](#fn_392.md) Again, corpses and death, in all ages,
 have been considered dangerous, and the person who has come in contact
 with them needs purification. Thus persons who attended a Roman funeral
 must wash their hands in pure water before performing the last rites for
 the dead, and on returning must be sprinkled with water and walk over
 fire to remove the contagion of death. <span
-id="fr_393"></span>[10](#fn_393)
+id="fr_393"></span>[10](#fn_393.md)
 
 AEneas, we recall, refused to touch his home gods until he had removed
 the blood of battle from his hands. <span
-id="fr_394"></span>[11](#fn_394) Again, before Claudia Quinta laid hold
+id="fr_394"></span>[11](#fn_394.md) Again, before Claudia Quinta laid hold
 of the cable of the ship bearing the Great Mother and forced it to move,
 thus proving her chastity, she dipped her hands in the Tiber and three
 times sprinkled her head with holy water. <span
-id="fr_395"></span>[12](#fn_395) And at the Festival of Pales, the
+id="fr_395"></span>[12](#fn_395.md) And at the Festival of Pales, the
 farmer sprinkled the ground and, after prayer to the divinity, washed
-his hands in pure spring water. <span id="fr_396"></span>[13](#fn_396)
+his hands in pure spring water. <span id="fr_396"></span>[13](#fn_396.md)
 Sprinkling, in such cases as these, seems to be a survival of an earlier
 ceremony of washing, just as in Christian sects sprinkling at a
 christening ceremony is a survival of an earlier immersion.
@@ -181,24 +181,24 @@ Water was commonly used in magic rites also. The witch Sagana, in
 Horace's fifth Epode, sprinkled with water from Lake Avernus the house
 in which she and two other witches were making preparations to murder a
 boy to secure his marrow for magic purposes. <span
-id="fr_397"></span>[14](#fn_397) One recalls the rites in which Dido
+id="fr_397"></span>[14](#fn_397.md) One recalls the rites in which Dido
 (feigning thus to destroy AEneas by magic) sprinkled on the pyre
-pretended waters from Avernus. <span id="fr_398"></span>[15](#fn_398)
+pretended waters from Avernus. <span id="fr_398"></span>[15](#fn_398.md)
 Again, in certain rites described by Ovid which were believed to have
 the power to ward off evil influences from a baby, the witch sprinkled
 the entrance of the house with water containing a drug. <span
-id="fr_399"></span>[16](#fn_399)
+id="fr_399"></span>[16](#fn_399.md)
 
 Fire, like water, is regularly used to remove the harmful effects of
 contact with persons and things which are taboo and for driving away
 evils of all sorts, whether spiritual or physical. Thus, as we have
 seen, when a person returned from a funeral, he had to walk over fire to
 remove the contagion of death-a rite usually called "the fire
-walk." <span id="fr_400"></span>[17](#fn_400)
+walk." <span id="fr_400"></span>[17](#fn_400.md)
 
 A vigorous description of purificatory rites which later Romans used
 after contact with a foreigner is found in a late writer. <span
-id="fr_401"></span>[18](#fn_401) The rites are intended to rid a person
+id="fr_401"></span>[18](#fn_401.md) The rites are intended to rid a person
 of the evil influences of such dangerous contact. The priest whirls
 lustral torches of blazing pungent sulphur and bitumen about the person
 to be purified; he sprinkles sacred waters and grasses which have the
@@ -211,29 +211,29 @@ be no point to the figure.
 
 Not only sulphur but other combustible substances were used as purifying
 agents. A witch, for example, purified Tibullus from the harmful effects
-of magic by using pine torches. <span id="fr_402"></span>[19](#fn_402)
+of magic by using pine torches. <span id="fr_402"></span>[19](#fn_402.md)
 Such torches, we know, were carried in procession from the house of the
-bride to that of the bridegroom. <span id="fr_403"></span>[20](#fn_403)
+bride to that of the bridegroom. <span id="fr_403"></span>[20](#fn_403.md)
 Ovid once heard a flamen's wife asking for instruments of purification,
 and a spray of pine was handed to her. <span
-id="fr_404"></span>[21](#fn_404) In most magic rites pine torches are
+id="fr_404"></span>[21](#fn_404.md) In most magic rites pine torches are
 used along with sulphur and laurel and other purifying agents. <span
-id="fr_405"></span>[22](#fn_405) In the case of purification by laurel,
+id="fr_405"></span>[22](#fn_405.md) In the case of purification by laurel,
 the person to be purified was sprinkled with water from a laurel
-spray. <span id="fr_406"></span>[23](#fn_406) The soldiers who followed
+spray. <span id="fr_406"></span>[23](#fn_406.md) The soldiers who followed
 the general's car in a triumphal procession wore a laurel garland that
 they might enter the city with the stain of blood removed, and to ward
 off the ghosts of the slain enemies. <span
-id="fr_407"></span>[24](#fn_407) This is a talismanic use of laurel. The
+id="fr_407"></span>[24](#fn_407.md) This is a talismanic use of laurel. The
 war-herald who accompanied the Roman army took with him for purifying
 purposes certain sacred greens--in all likelihood the modern vervain
 which is commonly used in magic rites. <span
-id="fr_408"></span>[25](#fn_408) In the rite of treaty-making between
+id="fr_408"></span>[25](#fn_408.md) In the rite of treaty-making between
 the Romans and the Albans, prior to the contest between the Horatii and
 the Curiatii, the fetial took pure vervain and touched the head of the
 spokesman (pater patratus) of the Roman side. The words of the treaty,
 which Livy felt were not worth quoting, were in verse, in keeping with
-the magic character of the rite. <span id="fr_409"></span>[26](#fn_409)
+the magic character of the rite. <span id="fr_409"></span>[26](#fn_409.md)
 
 ### Removing Evils by Sweeping and Striking
 
@@ -243,13 +243,13 @@ spiritual. For this purpose the Romans used branches of certain trees,
 wands, lashes, brooms and besoms. To take an example: after a dead body
 had been carried out for burial at Rome, scruples demanded that the
 house be swept out ceremonially. Festus writes as follows  <span
-id="fr_410"></span>[27](#fn_410) about the person who performed the
+id="fr_410"></span>[27](#fn_410.md) about the person who performed the
 rite: "Everriator (the one who sweeps out) is the name given to the
 person who, having by law received an inheritance, is bound to perform
 due rites to the dead. If he fails to do so, or if there is any
 interference in this rite, he shall atone with his life. This name is
 derived from the process of sweeping out." Ovid mentions the rite: <span
-id="fr_411"></span>[28](#fn_411) "After houses have been swept out, the
+id="fr_411"></span>[28](#fn_411.md) "After houses have been swept out, the
 objects of purification which the lictor takes--parched spelt and
 salt--are called februa." Here, then, we have a magic ceremony
 performed, either by a State official--a lictor who customarily assisted
@@ -257,15 +257,15 @@ the Priest of Jupiter--or, as is implied in what Festus writes, by the
 heir of the deceased. It is our purpose here to note that there is a
 ceremonial sweeping of the house with a particular kind of broom, the
 purpose of which, as Frazer suggests  <span
-id="fr_412"></span>[29](#fn_412) (supporting his belief with parallels
+id="fr_412"></span>[29](#fn_412.md) (supporting his belief with parallels
 from many lands), was to sweep out the ghosts of the deceased, and also,
 we may add, to sweep out the evils which had caused his death. Spelt and
 salt were regularly used in magic rites of purification and as offerings
 to the spirits of the dead; hence the appropriateness of their use
-here. <span id="fr_413"></span>[30](#fn_413)
+here. <span id="fr_413"></span>[30](#fn_413.md)
 
 Our second illustration of magic sweeping comes from St. Augustine, who
-describes  <span id="fr_414"></span>[31](#fn_414) the danger surrounding
+describes  <span id="fr_414"></span>[31](#fn_414.md) the danger surrounding
 the mother and her new-born child--the superstition that they were
 liable to be tormented by evil spirits from the woodland (Silvanus, as
 the later Romans believed) until a curious ceremony was performed. We
@@ -295,7 +295,7 @@ the pestle and the ceremonial sweeping are familiar magic acts of
 aversion.
 
 We have already had occasion to describe the Festival of Pales. <span
-id="fr_415"></span>[32](#fn_415) We must notice here again, however,
+id="fr_415"></span>[32](#fn_415.md) We must notice here again, however,
 that the shepherds on the morning of the festival ceremonially swept
 their folds to drive away dangerous forces.
 
@@ -303,11 +303,11 @@ We conclude our description of ceremonial sweeping with an account of
 the cleansing of the temple of Vesta on the fifteenth of June. The muck
 (stercus) thus swept out was carried up the Capitoline Hill to an alley
 shut off by a gate called the Muck Gate (Porta Stercoria), where it was
-buried. <span id="fr_416"></span>[33](#fn_416) The other sweepings
+buried. <span id="fr_416"></span>[33](#fn_416.md) The other sweepings
 (purgamina) from the temple were thrown into the Tiber. <span
-id="fr_417"></span>[34](#fn_417) The day was a holiday until after the
+id="fr_417"></span>[34](#fn_417.md) The day was a holiday until after the
 ceremony was completed. Frazer (following Wissowa) has assumed  <span
-id="fr_418"></span>[35](#fn_418) that the sweepings mentioned by Ovid
+id="fr_418"></span>[35](#fn_418.md) that the sweepings mentioned by Ovid
 and the muck recorded in Festus and in Varro were one and the same
 thing; and he has conjectured that these were placed in a depository on
 the Capitoline Hill and were subsequently dumped into the Tiber. Now the
@@ -317,7 +317,7 @@ magic rites which are calculated to drive away evil spirits. Thus, in my
 opinion, stercus and purgamina were two different things. The sweeping
 of the temple of Vesta may be a survival of the primitive days when the
 daughters of the family actually swept out the rude hut. <span
-id="fr_419"></span>[36](#fn_419) The sweeping, then, in historical times
+id="fr_419"></span>[36](#fn_419.md) The sweeping, then, in historical times
 would be a ritualistic survival of this act.
 
 Whipping and striking are favorite ways of driving evils out of persons
@@ -325,14 +325,14 @@ and things, and thereby allowing good influences to take their place.
 For example, when a Vestal in Rome had committed an offense against the
 proprieties of her order, the chief Priest whipped her, not only to
 punish her, but to drive out the evil influences which caused her
-wrongdoing. <span id="fr_420"></span>[37](#fn_420)
+wrongdoing. <span id="fr_420"></span>[37](#fn_420.md)
 
 We shall conclude this part of our study with accounts of two festivals
 in which rites of magic whipping had a prominent place: the Lupercalia
 and the Festival of the Nones of the Goat (Nonae Caprotinae).
 
 To discuss the various interpretations of the Lupercalia would lead us
-too far afield. <span id="fr_421"></span>[38](#fn_421) We are concerned
+too far afield. <span id="fr_421"></span>[38](#fn_421.md) We are concerned
 here primarily with its magic elements and more especially with the rite
 of ceremonial whipping contained in it.
 
@@ -342,7 +342,7 @@ sacred fig tree hard by, under whose shadow, as the story went, a
 she-wolf suckled Remus and Romulus. Here, on February fifteenth, a goat
 and a dog, together with certain salt cakes baked by the Vestals, were
 sacrificed, whether to Lupercus, Faunus, Inuus, or Juno is problematic.
-Justin Martyr mentions  <span id="fr_422"></span>[39](#fn_422) an image
+Justin Martyr mentions  <span id="fr_422"></span>[39](#fn_422.md) an image
 of Lupercus which stood in the Lupercal, nude save for a girdle of
 goatskin. There seems to be no good reason for believing that this
 statue represented a god Lupercus: it may well have represented one of
@@ -366,7 +366,7 @@ wolf aversion if the actual sacrifice were a wolf. Perhaps wolves were
 originally sacrificed, and when these dangerous creatures became less
 available for sacrificial purposes, dogs were substituted for them. Such
 substitutions are easy for primitive peoples. Servius, for instance,
-writes: <span id="fr_423"></span>[40](#fn_423) "In sacrifice, likenesses
+writes: <span id="fr_423"></span>[40](#fn_423.md) "In sacrifice, likenesses
 are accepted for realities. Hence, when animals which are difficult to
 find must be sacrificed, they are made of bread or of wax and are
 accepted as the real victims." Certainly in the rites of the Lupercalia
@@ -390,10 +390,10 @@ fertility of the goat was by some mysterious force transferred to the
 women through this contact. Inasmuch, too, as primitive peoples closely
 associate fertility in women with fertility in crops, the rites may have
 been intended to promote productiveness of the soil as well. <span
-id="fr_424"></span>[41](#fn_424)
+id="fr_424"></span>[41](#fn_424.md)
 
 Our final festival--the Festival of the Nones of the Goat <span
-id="fr_425"></span>[42](#fn_425)--occurred on July seventh, the day on
+id="fr_425"></span>[42](#fn_425.md)--occurred on July seventh, the day on
 which, according to tradition, Romulus disappeared at the Goat's Marsh
 in the Plain of Mars (Campus Martius). On this day slave women, dressed
 in their mistresses' clothes, ran about in play, scoffing at passers-by
@@ -408,7 +408,7 @@ the sacrifice, in historical times, was made to the especial goddess of
 mothers, make the object of the rite fairly sure. The male fig
 communicates its richness to the divinity who, in turn, communicates it
 to the women. Moreover, we have the curious statement recorded in Varro
- <span id="fr_426"></span>[43](#fn_426) about this festival: "They use
+ <span id="fr_426"></span>[43](#fn_426.md) about this festival: "They use
 the switch from the (male) wild fig-tree." While we are not told exactly
 what use was made of it, it is reasonable to suppose that the women
 lashed one another with it and thus transferred by magic the fertility
@@ -416,14 +416,14 @@ of the fig to themselves, driving out at the same time any influences
 detrimental to reproduction. We have record of similar lashings with
 wild fig switches at the Thargelia in Athens in the curious rite of
 riddance by two scapegoats called pharmakoi. <span
-id="fr_427"></span>[44](#fn_427)
+id="fr_427"></span>[44](#fn_427.md)
 
 Originally these rites may have had some connection with the
 fertilization, by the aid of insects, of the female cultivated fig tree
 by the pollen of the male fig, a process which the ancients sought to
 further, about this season of the year, by placing strips of the fruit
 of the wild fig among the boughs of the cultivated variety. <span
-id="fr_428"></span>[45](#fn_428) The throwing of stones at one another
+id="fr_428"></span>[45](#fn_428.md) The throwing of stones at one another
 by the maidservants also shows this to be a fertility rite. There was a
 similar throwing of stones in the temple of Hippolytus at Troezen at the
 festival of the two divinities Damia and Auxesis, both fertility
@@ -432,13 +432,13 @@ deities.
 ### Keeping Away Evils by Drawing a Magic Circle
 
 The describing of a circle about the person or thing to be protected was
-usual in magic rites. <span id="fr_429"></span>[46](#fn_429) Thus magic
+usual in magic rites. <span id="fr_429"></span>[46](#fn_429.md) Thus magic
 circles could protect one against snakes. <span
-id="fr_430"></span>[47](#fn_430) The Roman ceremonial drawing of circles
+id="fr_430"></span>[47](#fn_430.md) The Roman ceremonial drawing of circles
 by processions about persons and things had its origin in such a belief.
 We have record of several magic processions among the Romans. Thus, in
 founding towns, they employed an Etruscan rite. <span
-id="fr_431"></span>[48](#fn_431) On an auspicious day, they yoked a
+id="fr_431"></span>[48](#fn_431.md) On an auspicious day, they yoked a
 white bull and a white cow to a plough with a bronze share. The
 ploughman, with his left side turned toward the proposed town, drove to
 the left, with the bull on the outside and the cow on the inside. Thus
@@ -458,13 +458,13 @@ constituted a magic line of demarcation between the sacred and the
 profane. Hence it was that the Romans would ordinarily not allow foreign
 gods within the sacred line, and generals and their armies had to be
 purified before entering the city. The use of bronze for the ploughshare
-has already been discussed. <span id="fr_432"></span>[49](#fn_432) The
+has already been discussed. <span id="fr_432"></span>[49](#fn_432.md) The
 Romans usually considered the left auspicious. Hence the ploughman
 turned up the clods of earth to the left and drove his plough to the
 left. There was a yearly dramatization of this original rite called the
 amburbium, but unfortunately we know no more about the rite than that
 there was a procession about the city and that there was a sacrificial
-victim. <span id="fr_433"></span>[50](#fn_433)
+victim. <span id="fr_433"></span>[50](#fn_433.md)
 
 The lustration of the farm, usually held in May, took the form of a
 procession around its bounds, consisting of a pig, a sheep, and a bull
@@ -473,7 +473,7 @@ and waving olive branches. The procession made a circuit of the farm
 three times, at the conclusion of which the sacrifice of the
 suovetaurilia was made to Mars, with an offering of wine, and prayer to
 Janus and Jupiter. We translate Cato's description of the rite: <span
-id="fr_434"></span>[51](#fn_434)
+id="fr_434"></span>[51](#fn_434.md)
 
 "The cultivated land should be purified as follows: Order the
 suovetaurilia to be driven around. . . . First pray to Janus and to
@@ -508,10 +508,10 @@ compelling.
 There are three elements in the prayer to Mars: first, a petition that
 Mars ward off evil influences, a power which he possesses by reason of
 the fact that he is the source of these influences; <span
-id="fr_435"></span>[52](#fn_435) second, a petition that he bring good
+id="fr_435"></span>[52](#fn_435.md) second, a petition that he bring good
 influences to bear upon the farm; and, third, in some mystic way the god
 is to receive strength to act by partaking of the sacrifice. <span
-id="fr_436"></span>[53](#fn_436) The god Mars addressed in these
+id="fr_436"></span>[53](#fn_436.md) The god Mars addressed in these
 formulae is, of course, a fully developed god, represented in the ritual
 of the State as the god of war; but the ritual and the prayers hark back
 to a more primitive period, when man made no distinction between himself
@@ -525,7 +525,7 @@ charm, the forerunner of these prayers in Cato. This was followed by a
 gradual accumulation of all the hostile spirits into one great hostile
 spirit, Mars, the spirit, powerful for ill, who dwelt in the regions
 beyond the bounds of the farm, and who must be induced to keep
-away. <span id="fr_437"></span>[54](#fn_437)
+away. <span id="fr_437"></span>[54](#fn_437.md)
 
 But the lustration, while it passed through this animistic stage before
 it became connected with Mars, Janus, and Jupiter, had its origin
@@ -551,8 +551,8 @@ important spots such as the Forum and the Capitol. They danced in solemn
 rhythm, chanting their ancient hymn and beating their shields with their
 staffs. On the fourteenth of the month, a man called Mamurius Veturius,
 clad in the skins of a goat, was beaten with the staffs and driven from
-the city. <span id="fr_438"></span>[55](#fn_438) Frazer has gathered
- <span id="fr_439"></span>[56](#fn_439) many parallels to these rites in
+the city. <span id="fr_438"></span>[55](#fn_438.md) Frazer has gathered
+ <span id="fr_439"></span>[56](#fn_439.md) many parallels to these rites in
 which savages, in warlike dances, brandish swords, fire off muskets, and
 beat drums in order to drive away spirits hostile to crops. It would
 seem that such rites and, by analogy, those of the Leapers of Mars,
@@ -567,11 +567,11 @@ driven out.
 In historical times, certain Leaping Maidens, dressed exactly like the
 Leapers, and performing some, if not all, of the functions of their male
 colleagues, were hired to take part in the rites. <span
-id="fr_440"></span>[57](#fn_440) It has been suggested that originally
+id="fr_440"></span>[57](#fn_440.md) It has been suggested that originally
 they may have been priestesses of Mars, with important functions. <span
-id="fr_441"></span>[58](#fn_441)
+id="fr_441"></span>[58](#fn_441.md)
 
-Servius records  <span id="fr_442"></span>[59](#fn_442) a curious
+Servius records  <span id="fr_442"></span>[59](#fn_442.md) a curious
 incident which illustrates the power of dancing to avert the evil
 effects of desecrating the sacred games. While the games of Apollo were
 in progress, news reached the city that Hannibal was making an attack
@@ -655,140 +655,140 @@ rites magic striking is also found.
 
 ### Footnotes
 
-<span id="fn_384"></span>[1](tms07.htm#fr_384) Gellius, Noctes Afficae
+<span id="fn_384"></span>[1](tms07.htm#fr_384.md) Gellius, Noctes Afficae
 IV. 3, 3.
 
-<span id="fn_385"></span>[2](tms07.htm#fr_385) G. Henzen, Acta Fratrum
+<span id="fn_385"></span>[2](tms07.htm#fr_385.md) G. Henzen, Acta Fratrum
 Arvalium, pp. 128-135.
 
-<span id="fn_386"></span>[3](tms07.htm#fr_386) Livy II. 36, 1.
+<span id="fn_386"></span>[3](tms07.htm#fr_386.md) Livy II. 36, 1.
 
-<span id="fn_387"></span>[4](tms07.htm#fr_387) See Varro, De Lingua
+<span id="fn_387"></span>[4](tms07.htm#fr_387.md) See Varro, De Lingua
 Latina VI. 13, 34; Ovid, Fasti II. 1936, and Frazer's notes on these
 lines. The word februum is of Sabine origin. See Varro. loc. cit.
 
-<span id="fn_388"></span>[5](tms07.htm#fr_388) For this festival see
+<span id="fn_388"></span>[5](tms07.htm#fr_388.md) For this festival see
 especially Tibullus II. 5, 87-106; Propertius V. 4, 73-78; Ovid, Fasti
 IV. 721-782; see also Frazer's notes on Ovid, Fasti IV. 721-782.
 
-<span id="fn_389"></span>[6](tms07.htm#fr_389) Ovid, Fasti IV. 807-820;
+<span id="fn_389"></span>[6](tms07.htm#fr_389.md) Ovid, Fasti IV. 807-820;
 Plutarch, Romulus XII. 1.
 
-<span id="fn_390"></span>[7](tms07.htm#fr_390) Plutarch, loc. cit.;
+<span id="fn_390"></span>[7](tms07.htm#fr_390.md) Plutarch, loc. cit.;
 Solinus I. 19.
 
-<span id="fn_391"></span>[8](tms07.htm#fr_391) J. G. Frazer, The Fasti
+<span id="fn_391"></span>[8](tms07.htm#fr_391.md) J. G. Frazer, The Fasti
 of Ovid, Vol. III, P. 339.
 
-<span id="fn_392"></span>[9](tms07.htm#fr_392) Livy I. 45, 4-7.
+<span id="fn_392"></span>[9](tms07.htm#fr_392.md) Livy I. 45, 4-7.
 
-<span id="fn_393"></span>[10](tms07.htm#fr_393) Festus: Aqua et igni
+<span id="fn_393"></span>[10](tms07.htm#fr_393.md) Festus: Aqua et igni
 (Mueller, pp. 2-3).
 
-<span id="fn_394"></span>[11](tms07.htm#fr_394) Aeneid II. 717-720.
+<span id="fn_394"></span>[11](tms07.htm#fr_394.md) Aeneid II. 717-720.
 
-<span id="fn_395"></span>[12](tms07.htm#fr_395) Ovid, Fasti IV. 314-315.
+<span id="fn_395"></span>[12](tms07.htm#fr_395.md) Ovid, Fasti IV. 314-315.
 
-<span id="fn_396"></span>[13](tms07.htm#fr_396) Ovid, Fasti IV. 736 and
+<span id="fn_396"></span>[13](tms07.htm#fr_396.md) Ovid, Fasti IV. 736 and
 778.
 
-<span id="fn_397"></span>[14](tms07.htm#fr_397) Epodi V. 25-26.
+<span id="fn_397"></span>[14](tms07.htm#fr_397.md) Epodi V. 25-26.
 
-<span id="fn_398"></span>[15](tms07.htm#fr_398) Aeneid IV. 512.
+<span id="fn_398"></span>[15](tms07.htm#fr_398.md) Aeneid IV. 512.
 
-<span id="fn_399"></span>[16](tms07.htm#fr_399) Fasti VI. 157. See a
+<span id="fn_399"></span>[16](tms07.htm#fr_399.md) Fasti VI. 157. See a
 paper entitled The House Door in Greek and Roman Religion and Folk Lore,
 by Professor M. B. Ogle, American Journal of Philology XXXII (1911), pp.
 251-271.
 
-<span id="fn_400"></span>[17](tms07.htm#fr_400) Festus: Aqua et igni
+<span id="fn_400"></span>[17](tms07.htm#fr_400.md) Festus: Aqua et igni
 (Mueller, pp. 2-3).
 
-<span id="fn_401"></span>[18](tms07.htm#fr_401) Claudianus, De Sexto
+<span id="fn_401"></span>[18](tms07.htm#fr_401.md) Claudianus, De Sexto
 Consulatu Honorii Augusti 324-330.
 
-<span id="fn_402"></span>[19](tms07.htm#fr_402) I. 2. 61.
+<span id="fn_402"></span>[19](tms07.htm#fr_402.md) I. 2. 61.
 
-<span id="fn_403"></span>[20](tms07.htm#fr_403) Catullus LXI. 15.
+<span id="fn_403"></span>[20](tms07.htm#fr_403.md) Catullus LXI. 15.
 
-<span id="fn_404"></span>[21](tms07.htm#fr_404) Fasti II. 27-28.
+<span id="fn_404"></span>[21](tms07.htm#fr_404.md) Fasti II. 27-28.
 
-<span id="fn_405"></span>[22](tms07.htm#fr_405) Nemesianus IV. 62.
+<span id="fn_405"></span>[22](tms07.htm#fr_405.md) Nemesianus IV. 62.
 
-<span id="fn_406"></span>[23](tms07.htm#fr_406) Ovid, Fasti IV. 728.
+<span id="fn_406"></span>[23](tms07.htm#fr_406.md) Ovid, Fasti IV. 728.
 
-<span id="fn_407"></span>[24](tms07.htm#fr_407) Festus: Laureati
+<span id="fn_407"></span>[24](tms07.htm#fr_407.md) Festus: Laureati
 (Mueller, p. 117).
 
-<span id="fn_408"></span>[25](tms07.htm#fr_408) Servius on Vergil's
+<span id="fn_408"></span>[25](tms07.htm#fr_408.md) Servius on Vergil's
 Aeneid XII. 120.
 
-<span id="fn_409"></span>[26](tms07.htm#fr_409) Livy I. 24, 4-9.
+<span id="fn_409"></span>[26](tms07.htm#fr_409.md) Livy I. 24, 4-9.
 
-<span id="fn_410"></span>[27](tms07.htm#fr_410) Everriator (Mueller, p.
+<span id="fn_410"></span>[27](tms07.htm#fr_410.md) Everriator (Mueller, p.
 77).
 
-<span id="fn_411"></span>[28](tms07.htm#fr_411) Fast; II. 2 3-24.
+<span id="fn_411"></span>[28](tms07.htm#fr_411.md) Fast; II. 2 3-24.
 
-<span id="fn_412"></span>[29](tms07.htm#fr_412) The Fasti of Ovid, Vol.
+<span id="fn_412"></span>[29](tms07.htm#fr_412.md) The Fasti of Ovid, Vol.
 II, p. 279.
 
-<span id="fn_413"></span>[30](tms07.htm#fr_413) See Thomas J. Marett, in
+<span id="fn_413"></span>[30](tms07.htm#fr_413.md) See Thomas J. Marett, in
 Folk Lore XXXVIII (1927), p. 181; Peter J. Hamilton, in Folk Lore
 XXXVIII (1927), p. 62.
 
-<span id="fn_414"></span>[31](tms07.htm#fr_414) De Civitate Dei VI. 9.
+<span id="fn_414"></span>[31](tms07.htm#fr_414.md) De Civitate Dei VI. 9.
 
-<span id="fn_415"></span>[32](tms07.htm#fr_415) See above, pp. 148-150.
+<span id="fn_415"></span>[32](tms07.htm#fr_415.md) See above, pp. 148-150.
 
-<span id="fn_416"></span>[33](tms07.htm#fr_416) Festus: Stercus
+<span id="fn_416"></span>[33](tms07.htm#fr_416.md) Festus: Stercus
 (Mueller, P. 344).
 
-<span id="fn_417"></span>[34](tms07.htm#fr_417) Ovid, Fasti VI. 713-714.
+<span id="fn_417"></span>[34](tms07.htm#fr_417.md) Ovid, Fasti VI. 713-714.
 
-<span id="fn_418"></span>[35](tms07.htm#fr_418) Frazer, The Fasti of
+<span id="fn_418"></span>[35](tms07.htm#fr_418.md) Frazer, The Fasti of
 Ovid, Vol. IV, pp. 314-315.
 
-<span id="fn_419"></span>[36](tms07.htm#fr_419) W. Warde Fowler, The
+<span id="fn_419"></span>[36](tms07.htm#fr_419.md) W. Warde Fowler, The
 Religious Experience of the Roman People, P. 136.
 
-<span id="fn_420"></span>[37](tms07.htm#fr_420) Plutarch, Numa X.
+<span id="fn_420"></span>[37](tms07.htm#fr_420.md) Plutarch, Numa X.
 
-<span id="fn_421"></span>[38](tms07.htm#fr_421) For an excellent account
+<span id="fn_421"></span>[38](tms07.htm#fr_421.md) For an excellent account
 of the Lupercalia see Frazer, The Fasti of Ovid, Vol. II, pp. 327-341,
 with the references there given.
 
-<span id="fn_422"></span>[39](tms07.htm#fr_422) Justin Martyr XLIII. 1,
+<span id="fn_422"></span>[39](tms07.htm#fr_422.md) Justin Martyr XLIII. 1,
 7.
 
-<span id="fn_423"></span>[40](tms07.htm#fr_423) On Vergil's Aeneid II.
+<span id="fn_423"></span>[40](tms07.htm#fr_423.md) On Vergil's Aeneid II.
 116.
 
-<span id="fn_424"></span>[41](tms07.htm#fr_424) See Apuleius, Apologia
+<span id="fn_424"></span>[41](tms07.htm#fr_424.md) See Apuleius, Apologia
 LXXXVIII.
 
-<span id="fn_425"></span>[42](tms07.htm#fr_425) For this rite see Varro,
+<span id="fn_425"></span>[42](tms07.htm#fr_425.md) For this rite see Varro,
 De Lingua Latina VI. 18; Plutarch, Romulus XXIX, Camillus XXXIII;
 Macrobius, Saturnalia I. 11, 36-42; Ausonius, De Feriis, 9-10; Frazer,
 op, cit., Vol. II, pp. 343-356.
 
-<span id="fn_426"></span>[43](tms07.htm#fr_426) Loc. cit.
+<span id="fn_426"></span>[43](tms07.htm#fr_426.md) Loc. cit.
 
-<span id="fn_427"></span>[44](tms07.htm#fr_427) Fragments of Hipponax
+<span id="fn_427"></span>[44](tms07.htm#fr_427.md) Fragments of Hipponax
 (in Tzetzes, Hist. XXIII. 726-756); see Servius on Vergil's Aeneid III.
 57.
 
-<span id="fn_428"></span>[45](tms07.htm#fr_428) L. Preller, Romische
+<span id="fn_428"></span>[45](tms07.htm#fr_428.md) L. Preller, Romische
 Mythologie, I. 287.
 
-<span id="fn_429"></span>[46](tms07.htm#fr_429) Pliny, Naturalis
+<span id="fn_429"></span>[46](tms07.htm#fr_429.md) Pliny, Naturalis
 Historia XXI. 42, XXV. 50.
 
-<span id="fn_430"></span>[47](tms07.htm#fr_430) Eugene Stock McCartney,
+<span id="fn_430"></span>[47](tms07.htm#fr_430.md) Eugene Stock McCartney,
 "Magic Circles as Barriers to Snakes," in The Classical Weekly, Vol.
 XXII (1929), pp. 175-176.
 
-<span id="fn_431"></span>[48](tms07.htm#fr_431) Ovid, Fasti IV. 825-826;
+<span id="fn_431"></span>[48](tms07.htm#fr_431.md) Ovid, Fasti IV. 825-826;
 Servius on Vergil's Aeneid IV. 212; Festus: Primigenius sulcus (Mueller,
 p. 237) ; Varro, De Lingua Latina V. 143, Res Ruslicae II. 1, 10;
 Plutarch, Romulus XI. 1-2, Quaestiones Romanae XXVII; Isidore, Originer
@@ -796,41 +796,41 @@ XV. 2, 3; Columella, De Re Rustica VI, Praefatio VII; see also Frazer,
 The Fasti of Ovid, Vol. III, pp. 379-384; Fowler, The Religious
 Experience of the Roman People, P. 214.
 
-<span id="fn_432"></span>[49](tms07.htm#fr_432) See Chapter III, p. 118.
+<span id="fn_432"></span>[49](tms07.htm#fr_432.md) See Chapter III, p. 118.
 
-<span id="fn_433"></span>[50](tms07.htm#fr_433) Servius on Vergil's
+<span id="fn_433"></span>[50](tms07.htm#fr_433.md) Servius on Vergil's
 Bucolica III. 77.
 
-<span id="fn_434"></span>[51](tms07.htm#fr_434) De Agricultura CXLI.
+<span id="fn_434"></span>[51](tms07.htm#fr_434.md) De Agricultura CXLI.
 1-3; see E. G. Sihler, Testimonium Animae, pp. 342-344.
 
-<span id="fn_435"></span>[52](tms07.htm#fr_435) See W. Warde Fowler. The
+<span id="fn_435"></span>[52](tms07.htm#fr_435.md) See W. Warde Fowler. The
 Roman Festivals, P. 89.
 
-<span id="fn_436"></span>[53](tms07.htm#fr_436) W. Warde Fowler. The
+<span id="fn_436"></span>[53](tms07.htm#fr_436.md) W. Warde Fowler. The
 Religious Experience of the Roman People, pp. 182-183.
 
-<span id="fn_437"></span>[54](tms07.htm#fr_437) Ibid., pp. 132-133.
+<span id="fn_437"></span>[54](tms07.htm#fr_437.md) Ibid., pp. 132-133.
 
-<span id="fn_438"></span>[55](tms07.htm#fr_438) For the Salian priests
+<span id="fn_438"></span>[55](tms07.htm#fr_438.md) For the Salian priests
 see Festus: Mamuri Veturi (Mueller, P. 131); Dionysius of Halicarnassus,
 Antiquitates Romanae II. 71; Plutarch, Numa XIII; Servius on Vergil's
 Aeneid VII. 188, VIII. 285. Ovid, Fasti III. 259-392; Livy I. 20, 4, 1.
 27, 7; Varro, De Lingua Latina VI. 14; joannes Lydus, De Mensibus IV.
 49.
 
-<span id="fn_439"></span>[56](tms07.htm#fr_439) The Golden Bough, Vol.
+<span id="fn_439"></span>[56](tms07.htm#fr_439.md) The Golden Bough, Vol.
 II. pp. 157-182.
 
-<span id="fn_440"></span>[57](tms07.htm#fr_440) Festus: Salias Virgines
+<span id="fn_440"></span>[57](tms07.htm#fr_440.md) Festus: Salias Virgines
 (Mueller, P. 329).
 
-<span id="fn_441"></span>[58](tms07.htm#fr_441) H. J. Rose, Primitive
+<span id="fn_441"></span>[58](tms07.htm#fr_441.md) H. J. Rose, Primitive
 Culture in Italy, p. 96.
 
-<span id="fn_442"></span>[59](tms07.htm#fr_442) Servius on Vergil's
+<span id="fn_442"></span>[59](tms07.htm#fr_442.md) Servius on Vergil's
 Aeneid VIII. 110.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Incantation and Prayer](tms08)
+[Next: Chapter VI: Incantation and Prayer](tms08.md)

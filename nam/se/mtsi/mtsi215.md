@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi214)  [Next](mtsi216) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi214)  [Next](mtsi216.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Looking down he walked on (or he walked heedlessly), and lay down upon a
 corncrib. Presently his foster father called to him, "Did you see what I
 told you about? That is your village." Then he took a little blood from
 some food that was cooking and hitting him with it, said, "Have monthly
-periods like women." <span id="fr_55"></span>[1](#fn_55) Then he said,
+periods like women." <span id="fr_55"></span>[1](#fn_55.md) Then he said,
 "Kill some birds and bring them here." He went out and killed some blue
 jays and some Carolina parrakeets. He also killed two rattlesnakes and
 brought them to him. Then he dressed the feathers, stringing them
@@ -76,7 +76,7 @@ bring him here," she said, and the girl went out and brought him in.
 When he got to the bed she said, "Sit down here." But he replied, "I am
 too dirty. I will sit here," and he moved the bed a little and sat down
 on the floor. He remained there until night, when they washed him and
-made him lie down. <span id="fr_56"></span>[1](#fn_56) So he remained
+made him lie down. <span id="fr_56"></span>[1](#fn_56.md) So he remained
 there and at the end of four days he said, "Let us go to bathe." They
 set out. They went down to a big creek near by and as soon as they got
 there he dived out of sight under water. After the
@@ -146,16 +146,16 @@ disappeared. He had whipped Crane very severely.
 
 ### Footnotes
 
-<span id="fn_55"></span>[178:1](mtsi215.htm#fr_55) Some element is
+<span id="fn_55"></span>[178:1](mtsi215.htm#fr_55.md) Some element is
 missing in this part of the story. The boy is made to visit the town of
 the white turkeys and is afterwards told that it was the one to which he
 belonged. Why a feminine organic function was afterwards bestowed upon
 him is not explained.
 
-<span id="fn_56"></span>[179:1](mtsi215.htm#fr_56) The story teller
+<span id="fn_56"></span>[179:1](mtsi215.htm#fr_56.md) The story teller
 forgot to mention the terrapins again, though they played a part in the
 hero's cordial reception.
 
 ------------------------------------------------------------------------
 
-[Next: 16. The Story of Crow](mtsi216)
+[Next: 16. The Story of Crow](mtsi216.md)

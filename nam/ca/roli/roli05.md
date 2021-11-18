@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli04)  [Next](roli06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli04)  [Next](roli06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -15,18 +15,18 @@ Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
 ### WANAWUT, THE SACRED NET.
 
-Wanawut, or Wanal Wanawut, <span id="fr_21"></span>[21](#fn_21) one of
-the First People born of the Earth-mother ([fig. 1](#img_fig01)), is
+Wanawut, or Wanal Wanawut, <span id="fr_21"></span>[21](#fn_21.md) one of
+the First People born of the Earth-mother ([fig. 1](#img_fig01).md), is
 made of milkweed twine in the woven meshes of which three round flat
 stones, brought from the seashore, are inserted at intervals in a
 straight line. This was fastened with stakes in place in the bottom of a
 trench, and the men who laid it down must stand facing the north, since
-those who laid the dead Ouiot <span id="fr_22"></span>[22](#fn_22) down
+those who laid the dead Ouiot <span id="fr_22"></span>[22](#fn_22.md) down
 did so facing in that direction.
 
 <span id="img_fig01"></span> <span align="CENTER"> [![Fig. 1.Wanawut as
 sketched by Salvador Cuevas.](tn/fig01.jpg)  
-Click to enlarge](img/fig01.jpg)  
+Click to enlarge](img/fig01.jpg.md)  
 Fig. 1.—Wanawut as sketched by Salvador Cuevas.  
 </span>
 
@@ -102,14 +102,14 @@ were entrusted with the complete knowledge of the sacred mysteries.
 
 ### Footnotes
 
-<span id="fn_21"></span>[85:21](roli05.htm#fr_21) Wanawut, object of
+<span id="fn_21"></span>[85:21](roli05.htm#fr_21.md) Wanawut, object of
 twine used at puberty ceremony. Three stones were employed with it, but
 wanawut means the twine only. Wanal, a long net for rabbit drives; a
 seine for sea-fishing.—S.
 
-<span id="fn_22"></span>[85:22](roli05.htm#fr_22) See the creation myths
+<span id="fn_22"></span>[85:22](roli05.htm#fr_22.md) See the creation myths
 given below.
 
 ------------------------------------------------------------------------
 
-[Next: The Sand Painting](roli06)
+[Next: The Sand Painting](roli06.md)

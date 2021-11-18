@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index) [Index](index) [Previous](nt6)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index) [Index](index) [Previous](nt6.md)
 
 ------------------------------------------------------------------------
 
@@ -189,7 +189,7 @@ phoebe, buzzard, dove, crane, all will come. She ground up white shell
 mixed with corn of all colors. She rubbed her breast in this manner. A
 piece so large (match stick) fell down. She rolled this up in a black
 cloud. She stepped over it four times (singing).<span
-id="page_168_fr_1"></span>[1](#page_168_note_1)
+id="page_168_fr_1"></span>[1](#page_168_note_1.md)
 
  The two got up looking just like persons. “Go toward the south,
 grandchildren,” she said. “I have some grandchildren living there.” She
@@ -812,8 +812,8 @@ there.”
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index) [Index](index)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -821,7 +821,7 @@ American](../../index) [Navajo](../index) [Index](index)
 
 <span id="footnotes_page_168">p. 168</span>
 
-<span id="page_168_note_1"></span>[1](#page_168_fr_1) The narrator said
+<span id="page_168_note_1"></span>[1](#page_168_fr_1.md) The narrator said
 to me. “Not this song, I live by means of it. I live with it.”
 
  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg09)  [Next](btg11) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg09)  [Next](btg11.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,4 +155,4 @@ sacrifice and the true worship." URUVELA
 
 ------------------------------------------------------------------------
 
-[Next: Uruvela, Place Of Mortification](btg11)
+[Next: Uruvela, Place Of Mortification](btg11.md)

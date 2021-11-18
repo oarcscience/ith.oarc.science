@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 </div>
 
@@ -24,23 +24,23 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](dlms00)    [Text
-\[Zipped\]](dlms.txt.gz)
+[Contents](#contents)    [Start Reading](dlms00.md)    [Text
+\[Zipped\]](dlms.txt.gz.md)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](dlms00)  
-[Contents](dlms01)  
-[Foreword](dlms02)  
-[Entering Into the Spirit of It](dlms03)  
-[Individuality](dlms04)  
-[The New Thought and the New Order](dlms05)  
-[The Life of the Spirit](dlms06)  
-[Alpha and Omega](dlms07)  
-[The Creative Power of Thought](dlms08)  
-[The Great Affirmative](dlms09)  
-[Christ the Fulfilling of the Law](dlms10)  
-[The Story of Eden](dlms11)  
-[The Worship of Ishi](dlms12)  
-[The Shepherd and the Stone](dlms13)  
-[Salvation is of the Jews](dlms14)  
+<span id="contents"></span> [Title Page](dlms00.md)  
+[Contents](dlms01.md)  
+[Foreword](dlms02.md)  
+[Entering Into the Spirit of It](dlms03.md)  
+[Individuality](dlms04.md)  
+[The New Thought and the New Order](dlms05.md)  
+[The Life of the Spirit](dlms06.md)  
+[Alpha and Omega](dlms07.md)  
+[The Creative Power of Thought](dlms08.md)  
+[The Great Affirmative](dlms09.md)  
+[Christ the Fulfilling of the Law](dlms10.md)  
+[The Story of Eden](dlms11.md)  
+[The Worship of Ishi](dlms12.md)  
+[The Shepherd and the Stone](dlms13.md)  
+[Salvation is of the Jews](dlms14.md)  

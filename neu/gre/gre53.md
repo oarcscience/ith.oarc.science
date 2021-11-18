@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre52)  [Next](gre54) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre52)  [Next](gre54.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ autumn.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLIX: The gathering to avenge Thorbiorn Oxmain](gre54)
+[Next: Chapter XLIX: The gathering to avenge Thorbiorn Oxmain](gre54.md)

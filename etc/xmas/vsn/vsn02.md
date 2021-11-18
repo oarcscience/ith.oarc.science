@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Miscellaneous](../../index)  [Christmas](../index)  [Index](index) 
-[Previous](vsn01)  [Next](vsn03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Miscellaneous](../../index)  [Christmas](../index)  [Index](index.md) 
+[Previous](vsn01)  [Next](vsn03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0811817121/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0811817121/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -17,11 +17,11 @@ Textual Heritage
 
 <span id="page_1">p. 1</span>
 
-<span id="img_00100"></span> ![SANTA CLAUS](img/00100.jpg)
+<span id="img_00100"></span> ![SANTA CLAUS](img/00100.jpg.md)
 
 <span id="page_2">p. 2</span>
 
-<span id="img_00200"></span> ![SANTA CLAUS'S VISIT.](img/00200.jpg)
+<span id="img_00200"></span> ![SANTA CLAUS'S VISIT.](img/00200.jpg.md)
 
 <span id="page_3">p. 3</span>
 
@@ -41,7 +41,7 @@ Henery Onderdonck,
 
 <span id="img_00300"></span> <span align="CENTER"> [![Title
 Page](tn/00300.jpg)  
-Click to enlarge](img/00300.jpg)  
+Click to enlarge](img/00300.jpg.md)  
 Title Page  
 </span>
 
@@ -49,7 +49,7 @@ Title Page
 
 <span id="img_00400"></span> <span align="CENTER">
 [![Verso](tn/00400.jpg)  
-Click to enlarge](img/00400.jpg)  
+Click to enlarge](img/00400.jpg.md)  
 Verso  
 </span>
 
@@ -60,16 +60,16 @@ District Court for the Southern District of New. York.
 <span id="page_5">p. 5</span>
 
 <span id="img_00500"></span> ![A PRESENT FOR GOOD LITTLE BOYS AND
-GIRLS.](img/00500.jpg)
+GIRLS.](img/00500.jpg.md)
 
 <span id="page_6">p. 6</span>
 
 <span id="img_00600"></span> ![Nestled all snug in their
-beds](img/00600.jpg)
+beds](img/00600.jpg.md)
 
 <span id="page_7">p. 7</span>
 
-<span id="img_00700"></span> ![VISIT FROM SANTA CLAUS](img/00700.jpg)
+<span id="img_00700"></span> ![VISIT FROM SANTA CLAUS](img/00700.jpg.md)
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Had just settled our brains for a long winter's nap;</td>
 
 <span id="page_8">p. 8</span>
 
-<span id="img_00800"></span> ![A little old driver](img/00800.jpg)
+<span id="img_00800"></span> ![A little old driver](img/00800.jpg.md)
 
 <span id="page_9">p. 9</span>
 
@@ -140,7 +140,7 @@ And he whistled, and shouted, and called them by name;</p></td>
 <span id="page_10">p. 10</span>
 
 <span id="img_01000"></span> ![Down the chimney St. Nicholas came with a
-bound](img/01000.jpg)
+bound](img/01000.jpg.md)
 
 <span id="page_11">p. 11</span>
 
@@ -171,7 +171,7 @@ The prancing and pawing of each little hoof—</p></td>
 <span id="page_12">p. 12</span>
 
 <span id="img_01200"></span> ![A bundle of Toys he had flung on his
-back](img/01200.jpg)
+back](img/01200.jpg.md)
 
 <span id="page_13">p. 13</span>
 
@@ -202,7 +202,7 @@ And the beard of his chin was as white as the snow;</p></td>
 <span id="page_14">p. 14</span>
 
 <span id="img_01400"></span> ![And fill'd all the
-stockings](img/01400.jpg)
+stockings](img/01400.jpg.md)
 
 <span id="page_15">p. 15</span>
 
@@ -252,11 +252,11 @@ But I heard him exclaim, ere he drove out of sight,</p></td>
 </div>
 
 <span id="img_01600"></span> ![HAPPY CHRISTMAS TO ALL, AND TO ALL A
-GOOD NIGHT](img/01600.jpg)  
+GOOD NIGHT](img/01600.jpg.md)  
 “HAPPY CHRISTMAS TO ALL, AND TO ALL A GOOD NIGHT”
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Comparison](vsn03)
+[Next: Comparison](vsn03.md)

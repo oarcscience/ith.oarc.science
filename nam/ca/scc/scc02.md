@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc01)  [Next](scc03) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc01)  [Next](scc03.md) 
 
 ------------------------------------------------------------------------
 
@@ -1247,4 +1247,4 @@ falcon and the typical form of the tale of the visit to the dead.
 
 ------------------------------------------------------------------------
 
-[Next: 1.--Rumsien Costanoan. The Beginning of the World.](scc03)
+[Next: 1.--Rumsien Costanoan. The Beginning of the World.](scc03.md)

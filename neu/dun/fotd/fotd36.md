@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lord Dunsany](../index)  [Index](index) 
-[Previous](fotd35)  [Next](fotd37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lord Dunsany](../index)  [Index](index.md) 
+[Previous](fotd35)  [Next](fotd37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SWBC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SWBC/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fifty-one Tales*, by Lord Dunsany, \[1915\], at Intangible Textual
 Heritage
 
@@ -59,6 +59,6 @@ nothing, even among the weeds, of what had been that city.
 
 ------------------------------------------------------------------------
 
-[Next: The Food of Death](fotd37)
+[Next: The Food of Death](fotd37.md)
 
 </div>

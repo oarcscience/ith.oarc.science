@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku25)  [Next](tku27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku25)  [Next](tku27.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ universe.
 apples, which ever shine, which ever are joyful!
 
 418\. "This is a tradition, given forth without the city. <span
-id="fr_64"></span>[1](#fn_63) 'When those two apples are disclosed,
+id="fr_64"></span>[1](#fn_63.md) 'When those two apples are disclosed,
 Microprosopus appeareth in joy; for all those inferior lights are
 joyful; and all those inferiors shine; and all the worlds rejoice, and
 are perfected in all perfection; and all things rejoice and shine, and
@@ -70,12 +70,12 @@ and are ever brilliant; and from them
 <span id="page_160">p. 160</span>
 
 proceed rays in three hundred and seventy <span
-id="fr_65"></span>[1](tku27.htm#fn_64) directions; and in them all the
+id="fr_65"></span>[1](tku27.htm#fn_64.md) directions; and in them all the
 six (*preceding*) conformations of the beard are included.'
 
 422\. "This is that which is said, Mic. vii. 18: 'May He return and have
 mercy upon us!' May He return, that is, again; <span
-id="fr_66"></span>[2](tku27.htm#fn_65) whence it is to be noticed that
+id="fr_66"></span>[2](tku27.htm#fn_65.md) whence it is to be noticed that
 sometimes they are concealed and sometimes uncovered; wherefore it is
 said: 'May He return and have mercy upon us!"
 
@@ -88,10 +88,10 @@ Ones."
 
 ### Footnotes
 
-<span id="fn_63"></span>[159:1](tku26.htm#fr_64) I suppose this means
+<span id="fn_63"></span>[159:1](tku26.htm#fr_64.md) I suppose this means
 later than the Captivity.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIX: Concerning the Eighth Part of the Beard of
-Macroprosopus](tku27)
+Macroprosopus](tku27.md)

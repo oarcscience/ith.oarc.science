@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma23)  [Next](oma25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma23)  [Next](oma25.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ The Twins did not get far from where they had buried the staves before a
 large cloud appeared that was followed by a cloudburst. Lightning tried
 to strike them, but they shielded themselves with the buckskin shirts
 their father had given them. The flints <span
-id="fr_171"></span>[72](#fn_171) stuck in the buckskin and the Twins
+id="fr_171"></span>[72](#fn_171.md) stuck in the buckskin and the Twins
 jerked them on through and breathed power from them, saying, "Thank you!
 With this I will be more manly." They traveled back toward the village
 and all the way it was raining. When they reached the village they found
@@ -65,7 +65,7 @@ cannot kill them." But they let the snake follow their instructions.
 It continued to rain. The people were completely driven from their homes
 and were able to take with them only the altars and the things they
 needed most. The people moved on south to a high mountain, All the
-chaianyi worked, <span id="fr_172"></span>[73](oma25.htm#fn_172) and
+chaianyi worked, <span id="fr_172"></span>[73](oma25.htm#fn_172.md) and
 Country Chief and Antelope Man prayed for it to stop raining. But no one
 listened to them There were many animals driven to this mountain and
 many different peoples (maybe the people who had separated at kashkach,
@@ -94,7 +94,7 @@ understand each other.
 
 ### Footnotes
 
-<span id="fn_171"></span>[77:72](oma24.htm#fr_171) Flint is a "form of
+<span id="fn_171"></span>[77:72](oma24.htm#fr_171.md) Flint is a "form of
 lightning," according to Keresan belief; one can strike lightning sparks
 from flint, therefore it *contains* lighting. The association of flint
 with lightning and thunder is, of course, a widespread idea not only in
@@ -102,4 +102,4 @@ the Now World but in the Old World also.
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part XVI](oma25)
+[Next: Wanderings, Part XVI](oma25.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas014n)  [Next](jas016n)   
- \[[15. Long-shirt.](jas015)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas014n)  [Next](jas016n.md)   
+ \[[15. Long-shirt.](jas015.md)\]
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ explanatory endings and got one in whenever he could.
 
 ------------------------------------------------------------------------
 
-[Next: Note 16. Shut up in the Pot.](jas016n)
+[Next: Note 16. Shut up in the Pot.](jas016n.md)

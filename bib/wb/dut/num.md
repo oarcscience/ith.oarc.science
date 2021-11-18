@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](lev)  [Next](deu) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](lev)  [Next](deu.md) 
 
 ------------------------------------------------------------------------
 
@@ -4986,4 +4986,4 @@ in de vlakke velden der Moabieten, aan de Jordaan van Jericho.
 
 ------------------------------------------------------------------------
 
-[Next: Deuteronomy](deu)
+[Next: Deuteronomy](deu.md)

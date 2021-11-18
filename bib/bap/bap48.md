@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap47) 
-[Next](bap49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap47.md) 
+[Next](bap49.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ fire, and chose him before all his brethren, and kept him from the fire
 and delivered him from the bricks of the building of the tower, and gave
 him a son in the latter days of his old age, and brought him out of the
 barren womb, and all the angels were jealous against him, and the
-orderers of the hosts envied him. <span id="fr_123"></span>[1](#fn_123)
+orderers of the hosts envied him. <span id="fr_123"></span>[1](#fn_123.md)
 2. And it came to pass, when they were jealous against him, God said
 unto him: Slay for me the fruit of thy belly and offer for my
 
@@ -87,7 +87,7 @@ the Most Mighty said, these hath he observed, having for witness Moses
 his beloved.
 
 9\. And when he was dying *God* appointed unto him the firmament, <span
-id="fr_124"></span>[1](#fn_124) and shewed him these witnesses whom now
+id="fr_124"></span>[1](#fn_124.md) and shewed him these witnesses whom now
 we have, saying: Let the heaven whereinto
 
 <span id="page_177">p. 177</span>
@@ -170,7 +170,7 @@ overcame our enemies.
 18\. And when Debbora made an end of her words she went up with the
 people together unto Silo, and they offered sacrifices and burnt
 offerings and sounded upon the broad trumpets. <span
-id="fr_125"></span>[1](#fn_125) And when they sounded and had offered
+id="fr_125"></span>[1](#fn_125.md) And when they sounded and had offered
 the sacrifices, Debbora said: This shall be for a testimony of the
 trumpets between the stars and the Lord of them.
 
@@ -178,20 +178,20 @@ trumpets between the stars and the Lord of them.
 
 ### Footnotes
 
-<span id="fn_123"></span>[174:1](bap48.htm#fr_123) XXXII. 1, 2. The
+<span id="fn_123"></span>[174:1](bap48.htm#fr_123.md) XXXII. 1, 2. The
 angels were jealous of Abraham. In *Jubilees* it is the adversary
 Mastema who suggests the sacrifice of Isaac: in *Pirke R. Eliezer* the
 ministering angels intercede for Isaac. I have not found the statement
 of our text elsewhere.
 
-<span id="fn_124"></span>[176:1](bap48.htm#fr_124) 9. *appointed unto
+<span id="fn_124"></span>[176:1](bap48.htm#fr_124.md) 9. *appointed unto
 him the firmament*: *Disposuit ei firmamentum*. Perhaps the meaning is
 "displayed the firmament arranged in its order."
 
-<span id="fn_125"></span>[179:1](bap48.htm#fr_125) 18. *on the broad
+<span id="fn_125"></span>[179:1](bap48.htm#fr_125.md) 18. *on the broad
 trumpets*: *de latis psalphingis*. Can this be meant to render ἐν
 σάλπιγξιν ἐλαταῖσ (Ps. 97:7)?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIII](bap49)
+[Next: Chapter XXXIII](bap49.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam02)  [Next](kam04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam02)  [Next](kam04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -17,7 +17,7 @@ Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 
 #### OF
 
-# TRACT BABA KAMA (THE FIRST GATE).  <span id="fr_0"></span>[1](#fn_0)
+# TRACT BABA KAMA (THE FIRST GATE).  <span id="fr_0"></span>[1](#fn_0.md)
 
 ### CHAPTER I.
 
@@ -26,7 +26,7 @@ common to all. They are all likely to do damage and must be guarded
 against. The case of doing damage by digging up gravel. The different
 explanations of the word "mabeh" by Rabh and Samuel (foot-note). There
 are thirteen principal tort-feasors. The depository, <span
-id="fr_1"></span>[2](#fn_1) etc. There are twenty-four principal
+id="fr_1"></span>[2](#fn_1.md) etc. There are twenty-four principal
 tort-feasors. What are the derivatives of all those principals? Why are
 the four principals, ox, excavation, mabeh, and fire, enumerated
 separately in the Scripture? From what and what kind of property must
@@ -37,7 +37,7 @@ paid out of the medium estates. If one conveys his estates to one or
 several persons, from whom and from what estates shall the creditors
 collect the money due them? In case one does a meritorious thing he
 shall do it up to one-third,
-[1](kam04.htm#page_1)-[16](kam04.htm#page_16)
+[1](kam04.htm#page_1)-[16](kam04.htm#page_16.md)
 
 MISHNAS *II*. TO *V*. In all that I am charged with taking care of I
 have prepared the damage. There is a more rigorous rule in case of the
@@ -56,7 +56,7 @@ considered non-vicious and
 five which are considered vicious. The tooth is considered vicious to
 consume, etc. What is a Bardalis? What is meant by "best estates"? The
 meaning of the verse Is. xxxii. 20,
-[16](kam04.htm#page_16)-[29](kam04.htm#page_29)
+[16](kam04.htm#page_16)-[29](kam04.htm#page_29.md)
 
 ### CHAPTER II.
 
@@ -90,7 +90,7 @@ case be found in the biblical law? The mouth of an animal (consuming
 something on the premises of the plaintiff), is it considered as if yet
 in the court of the plaintiff? There were certain goats belonging to the
 family of Tarbu that were doing damage to the property of R. Joseph,
-[30](kam05.htm#page_30)-[47](kam05.htm#page_47)
+[30](kam05.htm#page_30)-[47](kam05.htm#page_47.md)
 
 MISHNAS *IV*. TO *VI*. What ox is considered non-vicious and what
 vicious? One that has been warned for three days. The three days in
@@ -110,7 +110,7 @@ ground which has been covered with
 
 pillows, and if another person remove them before the dropping of the
 vessel, etc., what is the law? Is a slave considered one's body, and an
-ox one's property? [47](kam05.htm#page_47)-[56](kam05.htm#page_56)
+ox one's property? [47](kam05.htm#page_47)-[56](kam05.htm#page_56.md)
 
 ### CHAPTER III.
 
@@ -131,7 +131,7 @@ one carrying a barrel followed one carrying a beam, and the barrel was
 broken by the beam, what is the law? Potters and glaziers that walked
 one following the other, and one stumbled and fell, etc. If they all
 fell because of the first one, the first is liable for the damage of all
-of them, [57](kam06.htm#page_57)-[69](kam06.htm#page_69)
+of them, [57](kam06.htm#page_57)-[69](kam06.htm#page_69.md)
 
 MISHNAS *VI*. TO *XIII*. Two that walked on public ground, one running
 and the other one walking, etc., what is the law? One who chopped wood
@@ -149,7 +149,7 @@ of no value what ever. There are cases when one is liable for the acts
 of his ox and is free if they are his own acts, and *vice versa*. How
 so? The rule is that the burden of proof is upon the plaintiff. If one
 claims that he is positive, while the other one is not positive, what is
-the law? [69](kam06.htm#page_69)[81](kam06.htm#page_81)
+the law? [69](kam06.htm#page_69)[81](kam06.htm#page_81.md)
 
 ### CHAPTER IV.
 
@@ -170,7 +170,7 @@ whether a guardian is appointed in order to collect from the body of the
 ox. Guardians pay from the best estates, but do not pay the atonement
 money. About one who borrows an ox with the understanding that he was
 non-vicious and it was found out that he was vicious,
-[82](kam07.htm#page_82)-[93](kam07.htm#page_93)
+[82](kam07.htm#page_82)-[93](kam07.htm#page_93.md)
 
 MISHNAS *V*. TO *IX*. An ox that killed a man by goring him, if he was a
 vicious one, the atonement money is to be paid, but not when he was a
@@ -185,7 +185,7 @@ put to death and his owner consecrated him. About an ox delivered to a
 gratuitous bailee or a borrower, etc. About an ox which was properly
 locked up, but yet broke out and did damage. Whence is it deduced that
 one must not raise a noxious dog in his house, nor maintain a defective
-ladder? [93](kam07.htm#page_93)-[105](kam07.htm#page_105)
+ladder? [93](kam07.htm#page_93)-[105](kam07.htm#page_105.md)
 
 ### CHAPTER V.
 
@@ -210,7 +210,7 @@ and opens a well and delivers it over to the community is free. About
 one who digs a pit on public ground and an ox or an ass falls into it.
 Are the vapors therein contained, or is the shock received by the
 animal, the cause of death when falling into a pit?
-[106](kam08.htm#page_106)-[120](kam08.htm#page_120)
+[106](kam08.htm#page_106)-[120](kam08.htm#page_120.md)
 
 MISHNAS *VII*. TO *IX*. When a pit belongs to two partners, and one of
 them passes by and does not cover it, and so also does the second, the
@@ -237,7 +237,7 @@ property, unloading, muzzling, Kilayim, and Sabbath. Nor is there any
 difference between the above-mentioned and a beast or bird. Why in the
 first commandments is it not written "that it maybe well with thee,"
 while in the second commandments it is?
-[120](kam08.htm#page_120)-[130](kam08.htm#page_130)
+[120](kam08.htm#page_120)-[130](kam08.htm#page_130.md)
 
 ### CHAPTER VI.
 
@@ -269,7 +269,7 @@ therein which also are burned. If one allowed another to place a stack
 of wheat and he covered it with barley, or *vice versa*, what is the
 law? Is it customary with people to keep pearls in a money-pouch? The
 law about a spark that escapes from under a blacksmith's hammer and does
-damage, [142](kam09.htm#page_142)-[148](kam09.htm#page_148)
+damage, [142](kam09.htm#page_142)-[148](kam09.htm#page_148.md)
 
 <span id="page_xiv">p. xiv</span>
 
@@ -285,7 +285,7 @@ man used to place money in the vineyard on a Sabbatical year, declaring:
 "All that is plucked and gathered of this fruit shall be redeemed by
 this money." A writ of replevin which does not contain the following
 directions "Investigate, take possession, and retain it for yourself,"
-is invalid, [149](kam10.htm#page_149)-[159](kam10.htm#page_159)
+is invalid, [149](kam10.htm#page_149)-[159](kam10.htm#page_159.md)
 
 MISHNAS *II*. TO *VI*. About two witnesses who testify that the one
 stole an ox or a sheep, and either the same or other witnesses testify
@@ -307,7 +307,7 @@ partners that steal together are free. About one who steals an animal
 within the premises of the owner and slaughters or sells it outside of
 it, or *vice versa*. Why did the Scripture treat more rigorously with
 the thief than with the robber? Ponder over the greatness of labor,
-etc., [159](kam10.htm#page_159)-[174](kam10.htm#page_174)
+etc., [159](kam10.htm#page_159)-[174](kam10.htm#page_174.md)
 
 MISHNA *VII*. No tender cattle must be raised in Palestine but in its
 forests. A shepherd (who raises tender cattle) that repented, we do not
@@ -345,7 +345,7 @@ shame to a sleeping person who subsequently dies while asleep, what is
 the law? Is the reason because of the hurting of his own feelings, or
 because of the feelings of his family? Is a blind person required to per
 form all the commandments? and what R. Joseph, who was blind, said of
-that, [182](kam11.htm#page_182)-[193](kam11.htm#page_193)
+that, [182](kam11.htm#page_182)-[193](kam11.htm#page_193.md)
 
 MISHNAS *III*. TO *V*. The law is more rigorous in regard to a man than
 in regard to an ox, etc. One who assaults his father or mother, but does
@@ -372,18 +372,18 @@ by the rabbis as well as by ordinary people. If one says to another,
 to Pumbeditha, and R. Joseph deposited it with a certain man who did not
 take good care of it and it was stolen from him, and R. Joseph held him
 responsible. What Abayi said to him about it,
-[193](kam11.htm#page_193)-[210](kam11.htm#page_210)
+[193](kam11.htm#page_193)-[210](kam11.htm#page_210.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[ix:1](kam03.htm#fr_0) See introduction to
+<span id="fn_0"></span>[ix:1](kam03.htm#fr_0.md) See introduction to
 Synopsis in Tract Aboth, Vol. I. (IX.), p. xi.
 
-<span id="fn_1"></span>[ix:2](kam03.htm#fr_1) Farther on we use the term
+<span id="fn_1"></span>[ix:2](kam03.htm#fr_1.md) Farther on we use the term
 "gratuitous bailee," as being more comprehensive.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I.](kam04)
+[Next: Chapter I.](kam04.md)

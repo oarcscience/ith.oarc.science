@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb28)  [Next](refb30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb28)  [Next](refb30.md) 
 
 </div>
 
@@ -172,6 +172,6 @@ lived happily ever after.\[23\]
 
 ------------------------------------------------------------------------
 
-[Next: The Nettle Spinner](refb30)
+[Next: The Nettle Spinner](refb30.md)
 
 </div>

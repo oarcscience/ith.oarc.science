@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl111)  [Next](cohl113) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl111)  [Next](cohl113.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 "Now as they looked they saw a being walking about as if he were the
 master of the lodge. He seemed continually distorting himself. At times
 horns shot out from his forehead, at times a cloven foot appeared and at
-times a tail was visible. <span id="fr_86"></span>[2](#fn_86)
+times a tail was visible. <span id="fr_86"></span>[2](#fn_86.md)
 
 <span id="page_71">p. 71</span>
 
@@ -23,9 +23,9 @@ So they said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_86"></span>[70:2](cohl112.htm#fr_86) The prophet has very
+<span id="fn_86"></span>[70:2](cohl112.htm#fr_86.md) The prophet has very
 evidently borrowed his devil from transatlantic sources.
 
 ------------------------------------------------------------------------
 
-[Next: Section 102](cohl113)
+[Next: Section 102](cohl113.md)

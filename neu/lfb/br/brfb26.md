@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb25)  [Next](brfb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb25)  [Next](brfb27.md) 
 
 </div>
 
@@ -216,6 +216,6 @@ own.
 
 ------------------------------------------------------------------------
 
-[Next: The Lion and the Cat](brfb27)
+[Next: The Lion and the Cat](brfb27.md)
 
 </div>

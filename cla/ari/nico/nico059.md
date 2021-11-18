@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico058) 
-[Next](nico060) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico058.md) 
+[Next](nico060.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ forgotten but practical wisdom cannot.
 ------------------------------------------------------------------------
 
 [Next: Chapter 6. Intuitive reason--knowledge of the principles from
-which science proceeds](nico060)
+which science proceeds](nico060.md)

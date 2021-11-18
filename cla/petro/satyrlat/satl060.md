@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat10.htm#LX)  [Previous](satl059) 
-[Next](satl061) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat10.htm#LX)  [Previous](satl059.md) 
+[Next](satl061.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ erubuimus praeterire.
 
 ------------------------------------------------------------------------
 
-[Next: LXI](satl061)
+[Next: LXI](satl061.md)

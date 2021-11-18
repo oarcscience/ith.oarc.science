@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb02)  [Next](ptb04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb02)  [Next](ptb04.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Such contented ignorance, in persons, too, sufficiently informed in
 other respects, is the more extraordinary, since Astrology has sustained
 a most conspicuous part throughout the history of the world, even until
 days comparatively recent. In the East, where it first arose, at a
-period of very remote antiquity, <span id="fr_0"></span>[1](#fn_0) and
+period of very remote antiquity, <span id="fr_0"></span>[1](#fn_0.md) and
 whence it
 
 <span id="page_xii">p. xii</span>
@@ -98,7 +98,7 @@ undoubted sciences, with which it has been presumed to be
 
 incompatible, and which during the thousands of years of the reign of
 astrology were either unborn, or still slumbering in continued
-infancy. <span id="fr_4"></span>[1](#fn_4)
+infancy. <span id="fr_4"></span>[1](#fn_4.md)
 
 The words "professed adversaries," which have just now been used, are of
 course not intended to be applied to those mighty explorers of Nature's
@@ -161,7 +161,7 @@ celestial influences: it may be, therefore, fairly inferred, that the
 subtle spell which had strength to enthrall "stuff" so "stern," could
 have been of no weak or vulgar order, but that it was sufficiently
 potent and refined to interest and amuse even the present age <span
-id="fr_7"></span>[1](#fn_7).
+id="fr_7"></span>[1](#fn_7.md).
 
 <span id="page_xvii">p. xvii</span>
 
@@ -199,7 +199,7 @@ with, and, like the former, only at a very heavy price.
 
 The present Translation has been made from Proclus's Greek Paraphrase of
 Ptolemy's original text; the edition followed is that of the Elzevirs,
-dated in 1635. <span id="fr_8"></span>[1](#fn_8) But, in the course of
+dated in 1635. <span id="fr_8"></span>[1](#fn_8.md) But, in the course of
 translation, continual references have been also had to various editions
 of the original text, in order to ascertain the proper acceptation of
 doubtful passages. The editions thus inspected were that by Camerarius,
@@ -213,7 +213,7 @@ present translation has
 been collated with the Latin of Leo Allatius, and with two other Latin
 translations: one printed at Basle, together with a translation of the
 Almagest in 1541; the other by itself at Perugio, in 1646. <span
-id="fr_12"></span>[1](#fn_12) The Translator has devoted all this
+id="fr_12"></span>[1](#fn_12.md) The Translator has devoted all this
 extreme care and attention to his labours, in the wish to render
 Ptolemy's astro-judicial doctrine into English as
 
@@ -223,7 +223,7 @@ purely and perfectly as possible; and, with the same view, he has
 likewise added, in an Appendix, certain extracts from such parts of the
 Almagest as were found to be referred to in his present work. Further
 illustration is also given by notes gathered from the "Primum Mobile" of
-Placidus, <span id="fr_13"></span>[1](#fn_13) and from a variety of
+Placidus, <span id="fr_13"></span>[1](#fn_13.md) and from a variety of
 other sources whence any elucidation of the text might be derived. Even
 Whalley's "Annotations" (to use his own grandiloquent designation) have
 occasionally yielded information, not altogether unimportant, although
@@ -250,7 +250,7 @@ his birth would be more properly ascribed to some later period.
 Moreover, it is asserted by the Arabians, that he died in the 78th year
 of his age; and a similar statement is also made by Luca Gauricus, in
 the dedication of his version of the Almagest <span
-id="fr_14"></span>[1](#fn_14) to Dominico Palavicini: Gauricus has,
+id="fr_14"></span>[1](#fn_14.md) to Dominico Palavicini: Gauricus has,
 however, placed his death in the year 747, which does not accord with
 the fact of his having survived Antoninus.
 
@@ -263,7 +263,7 @@ follows, of course, that the supposition, entertained by some authors,
 of his identity with the Ptolemy who was always in attendance upon
 Galba, as his personal astrologer, and who promised Otho that he should
 survive Nero and obtain the empire, is entirely without foundation. To
-Gauricus's <span id="fr_15"></span>[2](#fn_15) version of the Almagest
+Gauricus's <span id="fr_15"></span>[2](#fn_15.md) version of the Almagest
 there is also another dedication, addressed to Pope Sixtus, and composed
 by George Trapezuntius, describing Ptolemy as "*regiâ stirpe oriundum*,"
 and explaining that he had, "with a truly regal mind," applied himself
@@ -306,25 +306,25 @@ situations, latitudes, longitudes, and motions: he treats also of
 eclipses, and the methods of computing them; and he discourses of the
 fixed stars, of which he furnishes a numerous catalogue, with their
 magnitudes, latitudes, and longitudes. <span
-id="fr_16"></span>[1](#fn_16)
+id="fr_16"></span>[1](#fn_16.md)
 
 It has been truly said, that "Ptolemy's order, false as it was, enabled
 observers to give a plausible account of the motions of the Sun and
 Moon, to foretell eclipses, and to improve geography <span
-id="fr_17"></span>[2](#fn_17);" or, in other words, that it represented
+id="fr_17"></span>[2](#fn_17.md);" or, in other words, that it represented
 the actual phenomena of the heavens as they really appear to a spectator
 on the earth. It is therefore clear that Ptolemy's astrology is just as
 applicable to modern and improved astronomy as it was to his own. <span
-id="fr_18"></span>[3](#fn_18)
+id="fr_18"></span>[3](#fn_18.md)
 
 <span id="page_xxii">p. xxii</span>
 
-In the year 827 <span id="fr_19"></span>[1](#fn_19) the "Great
+In the year 827 <span id="fr_19"></span>[1](#fn_19.md) the "Great
 Construction" was translated by the Arabians into their own language,
 and by them communicated to Europe. It is through them that it has been
 usually known by the name of the Almagest. In the 13th century, the
 Emperor Frederic II caused it to be translated from the Arabic into
-Latin, and Sacrobosco <span id="fr_20"></span>[2](#fn_20) was
+Latin, and Sacrobosco <span id="fr_20"></span>[2](#fn_20.md) was
 consequently enabled to write his famous work upon the sphere. It was
 not, however, until about the end of the 15th century that the "Great
 Construction" was translated into Latin from the *original* text; and
@@ -335,9 +335,9 @@ George Müller, surnamed Regiomontanus, a disciple of Purbach's, were
 first composed. The Greek text of the Almagest, or Great Construction,
 was first published at Basle, by Simon Grynæus, in 1538; and it was
 again printed at the same place in 1551, with certain other works of
-Ptolemy. <span id="fr_21"></span>[3](#fn_21) The rest of Ptolemy's works
+Ptolemy. <span id="fr_21"></span>[3](#fn_21.md) The rest of Ptolemy's works
 connected with astronomy, and now extant, are the Tetrabiblos, or Four
-Books of the Influence of the Stars <span id="fr_22"></span>[4](#fn_22)
+Books of the Influence of the Stars <span id="fr_22"></span>[4](#fn_22.md)
 (now translated); the Centiloquy, or Fruit of his Four Books, being a
 kind of supplement to the former; and the Significations of the Fixed
 Stars. The last is merely a daily calendar,
@@ -350,7 +350,7 @@ work (which has rendered important service to modern geographers), and
 also his celebrated book on Harmonics, or the Theory of Sound.
 
 Proclus, to whom the world is indebted for the improved text of the
-Tetrabiblos, <span id="fr_25"></span>[1](#fn_25) was born at
+Tetrabiblos, <span id="fr_25"></span>[1](#fn_25.md) was born at
 Constantinople, in the year 410. He studied
 
 <span id="page_xxiv">p. xxiv</span>
@@ -358,11 +358,11 @@ Constantinople, in the year 410. He studied
 at Alexandria and at Athens, and became very eminent among the later
 Platonists. He succeeded Syrianus, a celebrated philosopher, in the
 rectorship of the Platonic school at Athens, and died there in
-485. <span id="fr_27"></span>[1](#fn_27) He was a most voluminous
+485. <span id="fr_27"></span>[1](#fn_27.md) He was a most voluminous
 author, in poetry as well as in prose. Among his works there are Hymns
 to the Sun, to Venus, and to the Muses; Commentaries upon several pieces
 of Plato, and upon Ptolemy's Tetrabiblos <span
-id="fr_28"></span>[2](#fn_28); an Epitome or Commendium of all the
+id="fr_28"></span>[2](#fn_28.md); an Epitome or Commendium of all the
 Astronomical Precepts demonstrated in the Almagest; and elements of
 Theology and Natural Philosophy. He was in dispute with the Christians
 on the question of the eternity of the world, which he undertook to
@@ -395,7 +395,7 @@ with great brazen mirrors, or *specula*.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xi:1](ptb03.htm#fr_0) Sir Isaac Newton has the
+<span id="fn_0"></span>[xi:1](ptb03.htm#fr_0.md) Sir Isaac Newton has the
 following remarks in regard to the origin of Astrology:--"After the
 study of Astronomy was set on foot for the use of navigation, and the
 Ægyptians, by the heliacal risings and settings of the stars, had
@@ -408,7 +408,7 @@ after the names of their gods; and Nechepsos, or Nicepsos, King of
 Sais," \[772 B.C.\], "by the assistance of Petosiris, a priest of Ægypt,
 invented astrology, grounding it upon the aspects of the planets, and
 the qualities of the men and women to whom they were dedicated <span
-id="fr_1"></span>[\*1](#fn_1); and in the beginning of the reign of
+id="fr_1"></span>[\*1](#fn_1.md); and in the beginning of the reign of
 Nabonassar, King of Babylon, about which time the Æthiopians, under
 Sabacon, invaded Ægypt" \[751 B.C.\], "those Ægyptians who fled from him
 to Babylon, carried thither the Ægyptian year of 365 days, and the study
@@ -470,7 +470,7 @@ and on the Events produced by them. This version was made by Lali; the
 title he gave it in Arabic was Al Keranai, and he published it A.D.
 1280. In the preface of his version it is said that, after the times of
 Zoroaster, or Zerdusht, reigned Gushtasp, the son of Lohrasp, <span
-id="fr_2"></span>[\*2](#fn_2) a very <span id="page_xiii">p. xiii</span>
+id="fr_2"></span>[\*2](#fn_2.md) a very <span id="page_xiii">p. xiii</span>
 powerful prince; and that in his reign flourished in the city of Balch,
 on the borders of Chorassan, a most excellent philosopher, whose name
 was Gjamasp, author of this book; wherein is contained an account of all
@@ -494,7 +494,7 @@ Genabed, or one brought up there. Sir John Chardin affirms that the
 appointments in his time for these sages amounted to six millions of
 French livres per annum.--Albumazar of Balch (scholar of Alkendi, a Jew,
 who was professor of judicial astrology at Bagdad, in the Caliphate of
-Almamoum <span id="fr_3"></span>[\*3](#fn_3)) became wonderfully famous.
+Almamoum <span id="fr_3"></span>[\*3](#fn_3).md) became wonderfully famous.
 He wrote expressly from the Persian astrologers, and it may be from the
 works of Gjamasp, since he also reports a prediction of the coming of
 Christ in the following words: viz. 'In the sphere of Persia, saith Aben
@@ -513,48 +513,48 @@ land. \[Mr. John Gregory's Notes on various Passages of
 Scripture.\]"--*Ancient Universal History*, *vol*. 5, *pp*. 415 *to*
 419.
 
-<span id="fn_1"></span>[xi:\*1](ptb03.htm#fr_1) It is maintained by
+<span id="fn_1"></span>[xi:\*1](ptb03.htm#fr_1.md) It is maintained by
 astrologers, that the planets, *having been observed* to produce certain
 effects, were consequently dedicated to the several personages whose
 names they respectively bear.
 
-<span id="fn_2"></span>[xi:\*2](ptb03.htm#fr_2) This seems to be a
+<span id="fn_2"></span>[xi:\*2](ptb03.htm#fr_2.md) This seems to be a
 mistake of the Arabian author, for Gushtasp was identical with Darius
 Hystaspis, and Lohrasp \[otherwise Cyaxares\] was father of Darius the
 Mede, who was overcome by Cyrus, 536 B.C.--See Newton.
 
-<span id="fn_3"></span>[xi:\*3](ptb03.htm#fr_3) This caliph reigned in
+<span id="fn_3"></span>[xi:\*3](ptb03.htm#fr_3.md) This caliph reigned in
 the earlier part of the 9th century, and caused Ptolemy's Great
 Construction to be translated into Arabic, as hereafter mentioned.
 
-<span id="fn_4"></span>[xv:1](ptb03.htm#fr_4) To this view of the case,
+<span id="fn_4"></span>[xv:1](ptb03.htm#fr_4.md) To this view of the case,
 the following remarks seem not inapplicable: they are taken from a
 periodical work of deserved reputation:--
 
 "The study of astrology itself, as professing to discover, by celestial
 phenomena, future mutations in the elements and terrestrial bodies,
-ought, perhaps, not to be despised. <span id="fr_5"></span>[2](#fn_5)
+ought, perhaps, not to be despised. <span id="fr_5"></span>[2](#fn_5.md)
 The theory of the tides, for example, is altogether an astrological
 doctrine, and, long before the days of Sir Isaac Newton, was as well
 understood as it is at this moment. The correspondence alleged by the
 ancient physicians to exist between the positions of the Moon and the
 stages of various diseases, is so far from being rejected by the modern
 faculty, that it has been openly maintained." <span
-id="fr_6"></span>[3](#fn_6) The writer then recounts sundry incidents,
+id="fr_6"></span>[3](#fn_6.md) The writer then recounts sundry incidents,
 asserted by the astrologers to be dependent on the Moon, and he adds
 these words: "The fact of these allegations might be so easily
 ascertained, that it is surprising they should still be pronounced
 incredible, and *denied* rather than *contradicted*."
 
-<span id="fn_5"></span>[xv:2](ptb03.htm#fr_5) "Sir Christopher Heydon's
+<span id="fn_5"></span>[xv:2](ptb03.htm#fr_5.md) "Sir Christopher Heydon's
 Defence of Astrology, p. 2, edit. 1603."
 
-<span id="fn_6"></span>[xv:3](ptb03.htm#fr_6) "Dr. Mead on the Influence
+<span id="fn_6"></span>[xv:3](ptb03.htm#fr_6.md) "Dr. Mead on the Influence
 of the Sun and Moon upon Human Bodies. See also Edinb. Rev. vol. 12, p.
 36--Balfour on Sol-Lunar Influence." *Blackwood's Magazine for Dec*.,
 1821, *Part* 2, *No*. 59.
 
-<span id="fn_7"></span>[xvi:1](ptb03.htm#fr_7) In the 51st No. of the
+<span id="fn_7"></span>[xvi:1](ptb03.htm#fr_7.md) In the 51st No. of the
 Quarterly Review, Art. "*Astrology and Alchymy*," the following
 observations are made:
 
@@ -580,7 +580,7 @@ It may, perhaps, be difficult to assent to all of the propositions
 involved in these extracts; but there are among them some which are
 clearly unquestionable.
 
-<span id="fn_8"></span>[xvii:1](ptb03.htm#fr_8) This edition was printed
+<span id="fn_8"></span>[xvii:1](ptb03.htm#fr_8.md) This edition was printed
 in double columns, one containing Proclus's Greek Paraphrase, the other
 the Latin translation of Leo Allatius; and William Lilly (no light
 authority in these matters) thus wrote of it in the year 1647: "Indeed
@@ -593,7 +593,7 @@ address to the reader, in Latin, and to the following effect:--
 "I have reckoned it part of my duty to give you, benevolent reader, some
 short information as to the publication of this little work, which,
 having hitherto existed only in Greek, <span
-id="fr_9"></span>[\*1](#fn_9) is now, in its Latin dress, accessible to
+id="fr_9"></span>[\*1](#fn_9.md) is now, in its Latin dress, accessible to
 the curiosity of all persons. This Paraphrase of Proclus on the
 Tetrabiblos of Ptolemy was translated a few years ago by Leo Allatius, a
 Greek by birth, eminently skilled in the learning of his own nation, as
@@ -621,7 +621,7 @@ doctrine of the stars is not, however, here treated of, but only that
 distinct part of it which the Greeks call judicial and prognostic, and
 which, while confined within certain limits is as entertaining as it is
 useful, and is partly considered to be agreeable to nature.
-[But](errata.htm#0) should it pretend to subject to the skies such
+[But](errata.htm#0.md) should it pretend to subject to the skies such
 things as do not depend thereupon, and should it invite us to foresee by
 the stars such things as are above the weakness of our apprehension, it
 will assuredly deserve to be reprehended as a vain and empty art, which
@@ -636,11 +636,11 @@ forgiven; but it is hardly to be tolerated, that persons professing
 Christianity should be led away by such an empty study, in which there
 is no solid utility, and the whole pleasure of which is puerile.
 Finally, I warn you that some persons doubt whether this was really
-produced by Ptolemy <span id="fr_10"></span>[\*2](#fn_10): nevertheless,
+produced by Ptolemy <span id="fr_10"></span>[\*2](#fn_10.md): nevertheless,
 it has certainly appeared to Porphyry and Proclus (who were doubtless
 great philosophers, although hostile to the Christian faith) to be
 worthy of receiving elucidation by their Commentaries upon it. <span
-id="fr_11"></span>[\*3](#fn_11) Peruse it, however, friendly reader,
+id="fr_11"></span>[\*3](#fn_11.md) Peruse it, however, friendly reader,
 with caution, having first shaken off the weakness of credulity, for the
 sinew of wisdom is not to believe rashly. Farewell."
 
@@ -655,28 +655,28 @@ advanced in the church, and one day asked him why he had not done so:
 you not marry?"--"Because I would be free to take orders."--*Chalmer's
 Biographical Dictionary*.
 
-<span id="fn_9"></span>[xvii:\*1](ptb03.htm#fr_9) This assertion is
+<span id="fn_9"></span>[xvii:\*1](ptb03.htm#fr_9.md) This assertion is
 applicable only to Proclus's Paraphrase. There were several prior
 translations of the original Tetrabiblos in Latin and Arabic; and it
 appears by an extract from the Bibliotheca Græca of Fabricius \[which
 will be found in a subsequent page\], that a Latin version, done from
 the Arabic, was printed at Venice as early as the year 1493.
 
-<span id="fn_10"></span>[xvii:\*2](ptb03.htm#fr_10) The reader is again
+<span id="fn_10"></span>[xvii:\*2](ptb03.htm#fr_10.md) The reader is again
 referred to the extract from Fabricius (inserted in a subsequent page),
 containing that learned person's account of this book among the other
 works of Ptolemy.
 
-<span id="fn_11"></span>[xvii:\*3](ptb03.htm#fr_11) Their Commentaries
+<span id="fn_11"></span>[xvii:\*3](ptb03.htm#fr_11.md) Their Commentaries
 were printed at Basle, in 1559.
 
-<span id="fn_12"></span>[xviii:1](ptb03.htm#fr_12) This translation from
+<span id="fn_12"></span>[xviii:1](ptb03.htm#fr_12.md) This translation from
 the Perugio press has been serviceable in presenting certain various
 readings; but it does not seem to possess any other peculiar merit. It
 professes to be a translation from the original text of Ptolemy; and so
 likewise does the translation printed at Basle, as above quoted.
 
-<span id="fn_13"></span>[xix:1](ptb03.htm#fr_13) It appears by the
+<span id="fn_13"></span>[xix:1](ptb03.htm#fr_13.md) It appears by the
 printed works of this author, that he was named Didacus Placidus de
 Titis. He was a native of Bologna, by profession a monk, and was styled
 Mathematician to the Archduke Leopold William of Austria. He wrote in
@@ -686,12 +686,12 @@ astrological rules to practice. The original is extremely scarce; but a
 new English edition, by Cooper, may be had of the Publishers of this
 work.
 
-<span id="fn_14"></span>[xx:1](ptb03.htm#fr_14) Printed at Basle, 1541.
+<span id="fn_14"></span>[xx:1](ptb03.htm#fr_14.md) Printed at Basle, 1541.
 
-<span id="fn_15"></span>[xx:2](ptb03.htm#fr_15) Chalmer's Biographical
+<span id="fn_15"></span>[xx:2](ptb03.htm#fr_15.md) Chalmer's Biographical
 Dictionary.
 
-<span id="fn_16"></span>[xxi:1](ptb03.htm#fr_16) In France, about the
+<span id="fn_16"></span>[xxi:1](ptb03.htm#fr_16.md) In France, about the
 beginning of the 16th century, Oronce Finé, the Royal Reader, attempted,
 under the patronage of Francis I, to produce an astronomical clock, in
 which everything moved according to the principles of Ptolemy. It was
@@ -700,10 +700,10 @@ Paris. In Lilly's Catalogue of Astrological Authors, Orontius Finæus is
 mentioned as the writer of a work on the twelve houses of heaven,
 printed in Paris, 1553.
 
-<span id="fn_17"></span>[xxi:2](ptb03.htm#fr_17) *Spectacle de la
+<span id="fn_17"></span>[xxi:2](ptb03.htm#fr_17.md) *Spectacle de la
 Nature*.
 
-<span id="fn_18"></span>[xxi:3](ptb03.htm#fr_18) The objection which has
+<span id="fn_18"></span>[xxi:3](ptb03.htm#fr_18.md) The objection which has
 been urged against astrology, that the signs are continually moving from
 their positions, cannot invalidate this conclusion. That objection has,
 in fact, no real existence; for Ptolemy seems to have been aware of this
@@ -722,19 +722,19 @@ abundant proof throughout the Tetrabiblos, that Ptolemy considered the
 virtues of the *constellations* of the zodiac distinctly from those of
 the *spaces* they occupied.
 
-<span id="fn_19"></span>[xxii:1](ptb03.htm#fr_19) The French say 813,
+<span id="fn_19"></span>[xxii:1](ptb03.htm#fr_19.md) The French say 813,
 but 827 is the date given by English chronologists.
 
-<span id="fn_20"></span>[xxii:2](ptb03.htm#fr_20) This scientific man
+<span id="fn_20"></span>[xxii:2](ptb03.htm#fr_20.md) This scientific man
 was a Mathurine Friar, and a professor in the University of Paris: he
 died in 1256. It is pointed out in the Edinburgh Review, No. 68, that he
 was a native of Yorkshire, and his real name John Holywood, euphonized,
 in Paris, into Sacrobosco.
 
-<span id="fn_21"></span>[xxii:3](ptb03.htm#fr_21) Chalmers.--The
+<span id="fn_21"></span>[xxii:3](ptb03.htm#fr_21.md) Chalmers.--The
 Tetrabiblos was among these works.
 
-<span id="fn_22"></span>[xxii:4](ptb03.htm#fr_22) To such readers as may
+<span id="fn_22"></span>[xxii:4](ptb03.htm#fr_22.md) To such readers as may
 be curious to know in what manner this book was promulgated in Europe,
 after the revival of letters, the following extract from the Bibliotheca
 Græca of Fabricius will furnish information:--
@@ -762,10 +762,10 @@ Dorotheus allegatur, p. 48, Ito, et 139; Cleopatra, p. 88; Porphyrius
 Philosophus, p. 169. Meminit et auctor Petosiridis ac Necepso, p.
 112:--λεγει δε παλαιον τον Νεχεψω (ita leg. pro χεψω ut p. 112) και
 Πετοσιριν, ουτοι γαρ πρωτοι το δἰ ασρολογιας εχηπλωσαν προγνωσικον <span
-id="fr_23"></span>[\*1](#fn_23) Paraphrasin tetrabibli a *Proclo*
+id="fr_23"></span>[\*1](#fn_23.md) Paraphrasin tetrabibli a *Proclo*
 concinnatam Græce edidit Melancthon, Basil. 1554, 8vo. Grace et Latine
 cum versione suâ *Leo Allatius*, Lugd. Batav. 1654, <span
-id="fr_24"></span>[\*2](#fn_24) 8vo. Locum Ptolemæi e codice Græco MS.
+id="fr_24"></span>[\*2](#fn_24.md) 8vo. Locum Ptolemæi e codice Græco MS.
 in collegio Corporis Christi Oxon, feliciter restituit Seldenus, p. 35
 ad Marmora Arundeliana. Haly Heben Rodoan Arabis commentarium laudat
 Cardanus, cum Demophilo Latine editum."
@@ -785,17 +785,17 @@ Ptolemæi genio et subdititum. Equidem Jo. Pico judice, l. 1, contra
 Astrologos, p. 285, Ptolemæus *malorum* sive Apotelesmaticorum est
 *optimus*."
 
-<span id="fn_23"></span>[xxii:\*1](ptb03.htm#fr_23) "Nechepsos and
+<span id="fn_23"></span>[xxii:\*1](ptb03.htm#fr_23.md) "Nechepsos and
 Petosiris are anciently spoken of, for they first explained
 prognostication by Astrology."
 
-<span id="fn_24"></span>[xxii:\*2](ptb03.htm#fr_24) This was perhaps a
+<span id="fn_24"></span>[xxii:\*2](ptb03.htm#fr_24.md) This was perhaps a
 reprint of the edition of 1635, from which the present translation has
 been made; unless there may have been an error of the press in stating
 1654 instead of 1635, which seems probable, as the edition of 1635 is
 unnoticed by Fabricius.
 
-<span id="fn_25"></span>[xxiii:1](ptb03.htm#fr_25) It will be seen by
+<span id="fn_25"></span>[xxiii:1](ptb03.htm#fr_25.md) It will be seen by
 the preceding note, that Proclus's Paraphrase of the Tetrabiblos should
 properly be considered as superior to the other readings of that book;
 since it appears, on the authority of Fabricius, that Melancthon, after
@@ -804,21 +804,21 @@ his own emendations), the edition of Camerarius, containing the reputed
 original text, still deemed it advisible, in the following year, to edit
 Proclus's Paraphrase. This Paraphrase must, therefore, necessarily have
 had claims to his attention not found in the text he had previously
-edited <span id="fr_26"></span>[\*1](#fn_26).
+edited <span id="fr_26"></span>[\*1](#fn_26.md).
 
-<span id="fn_26"></span>[xxiii:\*1](ptb03.htm#fr_26) "Ptolemy addresses
+<span id="fn_26"></span>[xxiii:\*1](ptb03.htm#fr_26.md) "Ptolemy addresses
 the book to Syrus, to whom he has also addressed all his other
 treatises. Some say that this name of Syrus was feigned; others, that it
 was not feigned, but that he was a physician, and educated in these
 sciences."
 
-<span id="fn_27"></span>[xxiv:1](ptb03.htm#fr_27) Chalmer's Biographical
+<span id="fn_27"></span>[xxiv:1](ptb03.htm#fr_27.md) Chalmer's Biographical
 Dictionary.
 
-<span id="fn_28"></span>[xxiv:2](ptb03.htm#fr_28) It will, of course, be
+<span id="fn_28"></span>[xxiv:2](ptb03.htm#fr_28.md) It will, of course, be
 understood that this Commentary is distinct from his Paraphrase, now
 translated.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Proem](ptb04)
+[Next: Chapter I. Proem](ptb04.md)

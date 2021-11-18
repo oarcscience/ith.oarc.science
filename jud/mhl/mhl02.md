@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl01)  [Next](mhl03) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl01)  [Next](mhl03.md) 
 
 ------------------------------------------------------------------------
 
@@ -170,4 +170,4 @@ closing picture of medieval Hebrew literature and life.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](mhl03)
+[Next: Introduction](mhl03.md)

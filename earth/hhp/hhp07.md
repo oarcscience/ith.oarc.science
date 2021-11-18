@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](hhp06)  [Next](hhp08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](hhp06)  [Next](hhp08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Hidden Places*, by W. Marsham Adams, \[1895\], at
 Intangible Textual Heritage
 
@@ -62,7 +62,7 @@ stars are but a faint nebulous gleam," Light is everywhere the
 
 <span class="contnote">\[paragraph continues\]</span> Omnipotent
 Creator, the laws of Light the expression of infallible truth. <span
-id="fr_22"></span>[\*](#fn_22)
+id="fr_22"></span>[\*](#fn_22.md)
 
 But how to seize with material grasp the intellectual relations of the
 most ethereal element known to man? How imprison in stable form the
@@ -233,7 +233,7 @@ implies a knowledge of the measurement of the polar radius.
 Striking however as is the ratio which this stone bears to the cosmic
 standard, its relation to the Pyramidal Edge, of which it forms a part,
 is no less prolific of universal results. For, taking as the length of
-that base-line, <span id="fr_23"></span>[\*](#fn_23)
+that base-line, <span id="fr_23"></span>[\*](#fn_23.md)
 
 <span id="page_159">p. 159</span>
 
@@ -291,7 +291,7 @@ Creator, when revealing Himself to the new-born soul as the Measurer of
 space, employs this very ratio as standard. "'I who know the Depths' is
 my Name," so runs the text of this sublime chapter;" I make the cycles
 of the shining millions of years; and billions are My
-measurement." <span id="fr_24"></span>[\*](#fn_24)
+measurement." <span id="fr_24"></span>[\*](#fn_24.md)
 
 The mention of these cycles of the shining years suggests a principle of
 singular beauty, as the key to the architectural measures of ancient
@@ -305,7 +305,7 @@ IV<sup>th</sup> and XI<sup>th</sup> dynasties. These architectural units
 are very numerous, and, unless referred to cosmic principles, quite
 miscellaneous, having no apparent co-ordination either among themselves
 or with anything else. When however taking as our unit the polar
-inch, <span id="fr_25"></span>[\*](#fn_25) we compare them with the
+inch, <span id="fr_25"></span>[\*](#fn_25.md) we compare them with the
 measures of light, as expressed in the shining circuits and radii of the
 celestial periods—remembering always that the radii and semi-radii of
 the cycles of years are both consonant with the angular construction of
@@ -319,7 +319,7 @@ Take for example, the number of polar
 
 inches into which the casing-stone is divided, when considered as a
 measure of space, viz. twenty-five; a close approximation to which is
-found in two specimens <span id="fr_26"></span>[\*](#fn_26) belonging to
+found in two specimens <span id="fr_26"></span>[\*](#fn_26.md) belonging to
 the IV<sup>th</sup> dynasty, which were discovered at Ghizeh—that is to
 say, which were employed in the neighbourhood of the Grand Pyramid about
 the time of its erection. Again, taking as unit the semi-radius of the
@@ -457,7 +457,7 @@ defines the limiting position of the invariable plane to the plane of
 the orbit.
 
 Similarly in regard to the inconceivably slow variation <span
-id="fr_27"></span>[\*](#fn_27) in the inclination of the axis
+id="fr_27"></span>[\*](#fn_27.md) in the inclination of the axis
 
 <span id="page_172">p. 172</span>
 
@@ -535,7 +535,7 @@ the number of polar inches in the height
 <span id="page_176">p. 176</span>
 
 of the extreme point of the huge granite triangle <span
-id="fr_28"></span>[\*](#fn_28) which dominates the secret places of the
+id="fr_28"></span>[\*](#fn_28.md) which dominates the secret places of the
 interior. Descending thence to the King's Chamber, where the birth of
 the Eternal Day is celebrated in the open tomb of Osiris, we have
 recourse to the measure of light, not in its interior energy, but in its
@@ -718,7 +718,7 @@ that the elements of the Eastern calculations may have been obtained
 from that more central and far more ancient civilization, particularly
 if we consider, as many now admit, that the elements of religion and of
 science were first imported into China from the head of the Persian Gulf
-(the direct route from Egypt) <span id="fr_29"></span>[\*](#fn_29) by
+(the direct route from Egypt) <span id="fr_29"></span>[\*](#fn_29.md) by
 the famous tribe which bore the name of Bak; which in the hieroglyphic
 signifies the land of Egypt.
 
@@ -731,7 +731,7 @@ formerly enjoyed and irrecoverably lost. At the end of
 <span id="page_185">p. 185</span>
 
 the third Book the chiefs lament the loss of the "Standard Stone and the
-Equalizing Quarter, <span id="fr_30"></span>[\*](#fn_30) formerly
+Equalizing Quarter, <span id="fr_30"></span>[\*](#fn_30.md) formerly
 preserved in the treasury." A standard stone kept in the royal treasury
 as a reference for weights and measures is intelligible enough, and
 reminds us of the allusion in the Egyptian Ritual to "the Stone from the
@@ -858,7 +858,7 @@ for fifteen hundred years has been given up by the Chinese experts.
 
 ### Footnotes
 
-<span id="fn_22"></span>[149:\*](hhp07.htm#fr_22) In the same way Moses,
+<span id="fn_22"></span>[149:\*](hhp07.htm#fr_22.md) In the same way Moses,
 who never claims for himself direct revelation in regard to any matter
 contained in Genesis (though in subsequent books that claim is repeated
 again and again), and whose fame as an expert in Egyptian science was
@@ -868,7 +868,7 @@ by the initiation, of Light and Motion. "The Spirit of God moved upon
 the face of the deep. And God said, Let there be light: and there was
 Light."
 
-<span id="fn_23"></span>[158:\*](hhp07.htm#fr_23) These results are as
+<span id="fn_23"></span>[158:\*](hhp07.htm#fr_23.md) These results are as
 follows, expressed in our inches:—
 
 <span id="page_159">p. 159</span>
@@ -897,19 +897,19 @@ The average here taken, it will be observed, of the whole results
 coincide precisely with one of the measurements, and also with the mean
 of the greatest and least.
 
-<span id="fn_24"></span>[162:\*](hhp07.htm#fr_24) In the original: "Ari
+<span id="fn_24"></span>[162:\*](hhp07.htm#fr_24.md) In the original: "Ari
 Kherti Khuu aha pu tefnut pu krastuf." The translation above given
 differs slightly both from the version of Dr. Birch and that of M.
 Pierret.
 
-<span id="fn_25"></span>[163:\*](hhp07.htm#fr_25) This inch is of course
+<span id="fn_25"></span>[163:\*](hhp07.htm#fr_25.md) This inch is of course
 the same as that adopted by Professor Smyth, and called by him the
 "Pyramid Inch;" but he has so inextricably associated that name with
 views directly opposed to Egyptological research, that I prefer to use
 an expression which denotes an undoubted relation, first pointed out by
 Sir John Herschel.
 
-<span id="fn_26"></span>[164:\*](hhp07.htm#fr_26) Mr. Petrie maintains
+<span id="fn_26"></span>[164:\*](hhp07.htm#fr_26.md) Mr. Petrie maintains
 this cubit to be "evidently an Egyptian edition of the royal twenty-five
 inch cubit of Persia;" but why a Persian cubit should be employed at
 Ghizeh, or what we know of Persia some thousands of years before the
@@ -917,15 +917,15 @@ time of Darius, he does not tell us. It is difficult to see why he might
 not with equal reason pronounce the Capitol of Romulus to be "evidently
 an Italian edition of the Capitol at Washington."
 
-<span id="fn_27"></span>[171:\*](hhp07.htm#fr_27) See the table and
+<span id="fn_27"></span>[171:\*](hhp07.htm#fr_27.md) See the table and
 memoir published by the Smithsonian Institute of Washington.
 
-<span id="fn_28"></span>[176:\*](hhp07.htm#fr_28) This is the number
+<span id="fn_28"></span>[176:\*](hhp07.htm#fr_28.md) This is the number
 given of British inches; and the correction for their conversion into
 polar inches will about be counter-balanced by the thickness of the
 granite apex.
 
-<span id="fn_29"></span>[184:\*](hhp07.htm#fr_29) The late Professor De
+<span id="fn_29"></span>[184:\*](hhp07.htm#fr_29.md) The late Professor De
 Lacouperie, to whose labours is chiefly due the tracing of a connection
 between the civilization of China and the Bak tribe (proceeding, not
 from Babylonia itself, but from the country immediately to the Eastward
@@ -940,7 +940,7 @@ into China would be a natural continuation of an emigration to the head
 of the Persian Gulf; just as the latter course would be a natural
 continuation of the original migration from Poont.
 
-<span id="fn_30"></span>[185:\*](hhp07.htm#fr_30) Professor De
+<span id="fn_30"></span>[185:\*](hhp07.htm#fr_30.md) Professor De
 Lacouperie, who favoured me with a discussion on this subject, pointed
 out that Midleton translates this expression simply by the general word
 "measure." To this I have no reply to make, except that Professor Legge
@@ -954,6 +954,6 @@ fail to render it with precision.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Initiation of the Postulant](hhp08)
+[Next: Chapter VI. The Initiation of the Postulant](hhp08.md)
 
 </div>

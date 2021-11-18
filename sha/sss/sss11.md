@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sss10)  [Next](sss12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sss10)  [Next](sss12.md) 
 
 ------------------------------------------------------------------------
 
@@ -876,4 +876,4 @@ Muhammadan mystics to certain saints.
 
 ------------------------------------------------------------------------
 
-[Next: X. Magician and Muslim](sss12)
+[Next: X. Magician and Muslim](sss12.md)

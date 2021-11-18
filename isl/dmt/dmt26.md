@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt25)  [Next](dmt27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt25)  [Next](dmt27.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ India. London, 1832.
 ------------------------------------------------------------------------
 
 [Next: II. On Muslim History and on Present Condition of Muslim
-World](dmt27)
+World](dmt27.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](som03)  [Next](som05) 
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](som03)  [Next](som05.md) 
 
 ------------------------------------------------------------------------
 
@@ -411,4 +411,4 @@ immigration to these valleys has never ceased.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](som05)
+[Next: Chapter IV](som05.md)

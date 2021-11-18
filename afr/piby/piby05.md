@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby04)  [Next](piby06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby04)  [Next](piby06.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ the kingdom of heaven.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1. Heaven Grieved](piby06)
+[Next: Chapter 1. Heaven Grieved](piby06.md)

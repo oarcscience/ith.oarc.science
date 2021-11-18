@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms07)  [Next](jms09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms07)  [Next](jms09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -29,16 +29,16 @@ magical use of angels was of course predicated upon the assumption that
 the world is very thickly populated with them, and that they play a
 unique rôle in nature. The figures vary from a mere few hundred thousand
 all the way up to 496,000 myriads—and these are only partial
-estimates.[1](jms27.htm#an_6_1) We may readily believe this when we
+estimates.[1](jms27.htm#an_6_1.md) We may readily believe this when we
 learn that every single thing on earth, animate or inanimate, from man
 through all of creation, birds and beasts, trees and brooks, even to the
 last blade of grass, owns its angelic representative above. This is the
 heart of the angel-lore. Houses and cities, winds and seasons, months
 and hours and days, each star above, each speck of dust underfoot, no
 thing in nature or in fancy exists independently of its *memuneh*, its
-heavenly "deputy" ([literally](errata.htm#1), "appointed
-one").[2](jms27.htm#an_6_2) These "deputies" are the agents through whom
-the universe operates[3](jms27.htm#an_6_3)—in fact, the activities that
+heavenly "deputy" ([literally](errata.htm#1.md), "appointed
+one").[2](jms27.htm#an_6_2.md) These "deputies" are the agents through whom
+the universe operates[3](jms27.htm#an_6_3.md)—in fact, the activities that
 go on in the world are nothing more than reflections of their acts. "It
 is a well-known 'mystery' that no nation is destroyed until its
 celestial 'prince' has first fallen." This belief was coupled with the
@@ -47,7 +47,7 @@ governs his existence, so that we have sometimes the cumbersome
 duplication, the angel, or "deputy" of a man's star, both charged with
 guiding and guarding him, the ultimate responsibility residing with the
 angel. "Every affair in which a man is engaged here on earth is first
-indicated up above by the angel of his star."[4](jms27.htm#an_6_4)
+indicated up above by the angel of his star."[4](jms27.htm#an_6_4.md)
 
 These angels are both representatives and defenders of their earthly
 charges in the heavenly courts, as well as motivators of action below.
@@ -72,7 +72,7 @@ of both will descend upon his head. "This is one of those things which,
 though very similar to the forbidden 'ways of the Amorite,' is
 nevertheless permitted," we are assured by a thirteenth-century source.
 A later writer used this warning to account for the fear of inhabiting
-new homes.[5](jms27.htm#an_6_5)
+new homes.[5](jms27.htm#an_6_5.md)
 
 This idea constitutes the main theoretical basis of medieval Jewish
 magic. Ubiquitous and all-powerful, the "deputy angels" were the perfect
@@ -88,7 +88,7 @@ learn how to direct all the *memunim* of air, wind, date, time, place,
 etc., which control a situation at a given moment. Further, since a
 deputy's province is prescribed by his very nature, the sorcerer must
 know how to substitute another, better suited to his designs, and thus
-effect a change in nature itself.[6](jms27.htm#an_6_6)
+effect a change in nature itself.[6](jms27.htm#an_6_6.md)
 
 We have some detailed, if sometimes not too clear, explanations of just
 how this "deputy" magic worked. In the case of a man who by an
@@ -113,7 +113,7 @@ angel in charge of such dreams who had been invoked for this purpose.
 And so on through the entire repertoire of magic devices, all were
 consummated through the intermediacy of the angels, or "deputies," who
 were subjected to the sorcerer's will by his magic
-art.[7](jms27.htm#an_6_7)
+art.[7](jms27.htm#an_6_7.md)
 
 This system was a singular translation of Platonic idealism into the
 theosophical lingo of the early *Kabbalah*, though to call it a "system"
@@ -151,7 +151,7 @@ guardians to accompany him through his daily routine. The Essenes were
 said to have possessed an especially well-developed angel-lore, and the
 Enoch literature, reflecting Gnostic sources, had much to say concerning
 them, and implied their control of nature, man, and the
-future.[8](jms27.htm#an_6_8) These two founts of mystical doctrine,
+future.[8](jms27.htm#an_6_8.md) These two founts of mystical doctrine,
 while never formally admitted into Jewish thought and in fact frowned
 upon by rabbinic authorities, exercised a profound influence upon the
 extramural activities of the mystics. Their expanding doctrine was in no
@@ -168,7 +168,7 @@ angelic apparitions, knew nothing of the conjuration of angels as
 distinguished from the conjuration of demons. At most, there appears to
 have existed during the Talmudic period the practice of calling upon, or
 praying to the angels, as intermediaries before God, to intercede in a
-crisis.[9](jms27.htm#an_6_9) Even Geonic mysticism was reserved on this
+crisis.[9](jms27.htm#an_6_9.md) Even Geonic mysticism was reserved on this
 point, but evidently during this later period, which saw so marked a
 development of angelology, the Talmudic prayer had been transformed into
 a magical invocation, as the *Aramaic Incantation Texts*, published by
@@ -177,7 +177,7 @@ indicate. This was the foundation upon which thirteenth-century
 German-Jewish mysticism built an imposing structure of angel-magic. The
 earliest reference to angelic "deputies" that I have encountered in
 rabbinic sources occurs in the late *Midrash* to
-Psalms,[10](jms27.htm#an_6_10) composed probably during the tenth
+Psalms,[10](jms27.htm#an_6_10.md) composed probably during the tenth
 century in Southern Italy. This work undoubtedly embodied much older
 material, but the absence of this concept in the Talmudic literature,
 and the fact that eastern Jewish mysticism entered Europe through the
@@ -209,7 +209,7 @@ clustered about the throne of glory, or all about one on earth,
 performing their heaven-ordained tasks, and no questions asked. The
 furthest that Eleazar of Worms would go in describing them was to say
 that they are "tenuous substance, as unsubstantial as the wind, which
-cannot be seen."[11](jms27.htm#an_6_11)
+cannot be seen."[11](jms27.htm#an_6_11.md)
 
 This conception, however, created certain difficulties of a metaphysical
 and practical nature. If the angels are pure spirit, how can they be
@@ -237,7 +237,7 @@ answer is quite simple: "This is the great 'mystery' by which the holy
 angels appear on earth as men, or as other creatures, in accordance with
 God's will or by their own desire: they take some earth from beneath the
 heavenly pile, clothe themselves in a clod of this earth, and descend to
-eat and drink with men."[12](jms27.htm#an_6_12)
+eat and drink with men."[12](jms27.htm#an_6_12.md)
 
 One characteristic of the angels, in particular, merits attention both
 because of the frequency with which it was mentioned, and because of its
@@ -268,13 +268,13 @@ which was familiar in Northern Europe, envisaged a three-day period,
 immediately succeeding burial, of interrogations and beatings by the
 angel of death, during which the deceased must identify himself by his
 Hebrew name. Woe betide him if it had slipped his
-memory![13](jms27.htm#an_6_13)
+memory![13](jms27.htm#an_6_13.md)
 
 Of course, this idea met with frequent objections, and the retort of
 certain medieval commentators to the original statement in the Talmud
 should have permanently demolished it: "You say that even the thought
 hidden in a man's heart they know, and yet the Aramaic language is
-beyond their comprehension!"[14](jms27.htm#an_6_14) But the sarcasm
+beyond their comprehension!"[14](jms27.htm#an_6_14.md) But the sarcasm
 
 <span id="page_75">p. 75</span>
 
@@ -299,7 +299,7 @@ sort, entered intimately into the life of the medieval Jew. The ancient
 norms remained fixed, except that angels appeared much more frequently
 in the pages of medieval authors. Their prime function was still the
 adoration and service of God, but that service brought them into more
-frequent contact with men.[15](jms27.htm#an_6_15) "The angels are the
+frequent contact with men.[15](jms27.htm#an_6_15.md) "The angels are the
 messengers of God; He impresses His will upon them and sends them forth
 to do His bidding," wrote Eleazar of Worms, and he explained that this
 work keeps them constantly occupied, for so many new tasks continually
@@ -315,7 +315,7 @@ names spoken, to aid the angels in these matters." But when they are
 acting as messengers of the Lord, they carry out only one mandate at a
 time. Many of them have specific functions or fields of activity, and
 the orders which fall within their scope are of course assigned to
-them.[16](jms27.htm#an_6_16)
+them.[16](jms27.htm#an_6_16.md)
 
 God's will opens up to them His entire domain. Medieval Jews believed in
 an especially vigilant Providence which presided over
@@ -349,7 +349,7 @@ his intimacy with various angels; a few centuries later we learn of a
 Kabbalist, Samson of Ostropol by name, who "was visited daily by an
 angel who taught him the mysteries of the Torah." Many a great mystic
 was reputed to have sat at the feet of such celestial
-mentors.[18](jms27.htm#an_6_18)
+mentors.[18](jms27.htm#an_6_18.md)
 
 Yet we learn little more concerning individual angels than their names
 and their functions; our authors were not interested in the angel but in
@@ -360,7 +360,7 @@ important only because his name is the mathematical equivalent of
 *Shaddai*, one of God's names. Sandalfon is "taller than his comrades by
 a distance of five hundred years," it is true, but his significance lay
 in his intimate attendance upon the person of God
-Himself.[19](jms27.htm#an_6_19) Dumah, who presides over the realm of
+Himself.[19](jms27.htm#an_6_19.md) Dumah, who presides over the realm of
 the dead, the angels of destruction, others familiar from Talmudic times
 make their appearance. The Angel of Death retains his especial rôle in
 human affairs. The archangels still people the pages of
@@ -389,7 +389,7 @@ personality, so that in the end the name itself became the prime
 consideration. Already during the Geonic period, writes Montgomery, "The
 angels came to be but plays on roots, invocations of the attributes or
 activities of deity, so that finally angel was merely synonymous with
-charm."[20](jms27.htm#an_6_20) The angel was the theory which explained
+charm."[20](jms27.htm#an_6_20.md) The angel was the theory which explained
 the practice. The practice itself raises the question: when is an angel
 more than a mere name? It would be extravagant to assert that the
 endless procession of angelic names with which *Sefer Raziel*, for
@@ -406,4 +406,4 @@ the mystical powers inherent in the name itself.
 
 ------------------------------------------------------------------------
 
-[Next: 7. “In the Name of . . .”](jms09)
+[Next: 7. “In the Name of . . .”](jms09.md)

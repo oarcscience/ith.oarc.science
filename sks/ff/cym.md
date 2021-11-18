@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../cym/cym) 
-[Previous](aac) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../cym/cym.md) 
+[Previous](aac.md) 
 
 ------------------------------------------------------------------------
 

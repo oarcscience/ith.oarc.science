@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa14)  [Next](spa16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa14)  [Next](spa16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -89,7 +89,7 @@ and light.
 
 The covert polytheist, equally with the open, appeareth unto them;  
 For when do the sanctified, to the whole or the parts, cast their
-eyes? <span id="fr_323"></span>[\*](#fn_323)
+eyes? <span id="fr_323"></span>[\*](#fn_323.md)
 
 The rose-bud openeth from the effect of the dew's moisture;  
 But the humidity of wine rendereth still harder the niggard's heart.
@@ -122,7 +122,7 @@ But the excuse of fools is their own ignorance and foolishness.
 Thou wilt either give some one's dwelling to the flames, or shed his
 blood;  
 Seeing that thou hast donned garments of the Ar<u>gh</u>owān's red
-hue. <span id="fr_324"></span>[†](#fn_324)
+hue. <span id="fr_324"></span>[†](#fn_324.md)
 
 <span id="page_274">p. 274</span>
 
@@ -135,7 +135,7 @@ For therein is to be found safety from this, and the next world's ills.
 
 The universe lieth under the seal of content and resignation:  
 Shouldst thou draw it on thy finger, it is Sulīmān's magic ring. <span
-id="fr_325"></span>[\*](#fn_325)
+id="fr_325"></span>[\*](#fn_325.md)
 
 The red tears that course each other down thy cheeks, O <span
 class="smallcaps">Æabd-ul-Ḳādir</span>!  
@@ -157,7 +157,7 @@ Whenever, without thee with me, I enter the parterre.
 
 Through thy curls my heart hath become utterly deranged:  
 Let not then, O God, any Muslim be with Hind <span
-id="fr_326"></span>[†](#fn_326) connected!
+id="fr_326"></span>[†](#fn_326.md) connected!
 
 <span id="page_275">p. 275</span>
 
@@ -188,7 +188,7 @@ Let not the Almighty, then, cast any one from such a rock as this!
 Though men, in origin are one, yet their diversity is excessive;  
 Since one is equal to one, one to a hundred, one to a thousand others.
 
-For a single *dinār* <span id="fr_327"></span>[\*](#fn_327) a hundred
+For a single *dinār* <span id="fr_327"></span>[\*](#fn_327.md) a hundred
 pearls may be purchased;  
 And a single pearl is, likewise, for a hundred *dinārs* bought.
 
@@ -214,7 +214,7 @@ Why, O rose! turnest thou thy face away from the lovelorn nightingale?
 For even with these charms of thine, his wails have famous made thee.
 
 When thou castest the fragrant *æūd* <span
-id="fr_328"></span>[\*](#fn_328) into the fire, it yieldeth more
+id="fr_328"></span>[\*](#fn_328.md) into the fire, it yieldeth more
 perfume;  
 And I will constancy increase, if thou thy injustice shouldst augment.
 
@@ -250,14 +250,14 @@ For the ambrosial nectar of Paradise is indigenous to thy lips.
 
 When I look upon thy face, I am at the Almighty's works amazed,  
 Seeing that He preserveth thee safe and uninjured from its glow. <span
-id="fr_329"></span>[\*](#fn_329)
+id="fr_329"></span>[\*](#fn_329.md)
 
 I have well examined the display of the flowers of the universe;  
 But there is no flower like thee in any one of its parterres.
 
 In gratitude, that He hath bestowed such curls upon thee,  
 By them, draw out those immersed in the well of thy chin! <span
-id="fr_330"></span>[†](#fn_330)
+id="fr_330"></span>[†](#fn_330.md)
 
 <span id="page_278">p. 278</span>
 
@@ -289,7 +289,7 @@ The radiance of the lamp cannot be found within the tomb,
 Except thou shouldst the lamp of sighs carry with thee there.
 
 These are red tears thou seest, by unhappy Majnūn <span
-id="fr_331"></span>[\*](#fn_331) shed;  
+id="fr_331"></span>[\*](#fn_331.md) shed;  
 For the tulip hath not bloomed, either in upland or in mead.
 
 Set out, <span class="smallcaps">Æabd-ul-Ḳādir</span>! upon the path of
@@ -299,7 +299,7 @@ Haply thou mayest find therein trace of the dear one's door!
 #### X.
 
 Whereas the oyster with a single drop of rain-water is satisfied, <span
-id="fr_332"></span>[†](#fn_332)  
+id="fr_332"></span>[†](#fn_332.md)  
 Its priceless pearls go out into every country, and every clime.
 
 <span id="page_279">p. 279</span>
@@ -315,7 +315,7 @@ One amasseth wealth with great avarice; another wasteth it away.
 
 Since life itself is not perpetual, what then advantageth it,  
 Though one, in magnificence, a Sulīmān, or an Aṣaf <span
-id="fr_333"></span>[\*](#fn_333) be?
+id="fr_333"></span>[\*](#fn_333.md) be?
 
 A man's superiority, in wisdom and knowledge consisteth;  
 The beast's, in grazing; and on hay, and on grass, growing fat.
@@ -326,7 +326,7 @@ But make thine heart the target of the arrows of good and bad!
 O <span class="smallcaps">Æabd-ul-Ḳādir</span>! have the fear of God
 ever before thee;  
 For unto them that fear, He hath said, "Fear thou not!" <span
-id="fr_334"></span>[†](#fn_334)
+id="fr_334"></span>[†](#fn_334.md)
 
 #### XI.
 
@@ -358,7 +358,7 @@ Learn thou this from the merry gurgle of the flask of wine!
 
 There is, doubtless, a difference in the sight of the beholders;  
 And if not so, the parts are by no means distinct from the whole. <span
-id="fr_335"></span>[\*](#fn_335)
+id="fr_335"></span>[\*](#fn_335.md)
 
 Metaphorically, this world is like unto eternity's bridge;  
 Then, O <span class="smallcaps">Æabd-ul-Ḳādir</span>, do thou over it
@@ -394,7 +394,7 @@ Yet, ever joyful and gay, may the Almighty keep thee!"
 
 With much sorrow, many loving ones have been torn away—  
 May God never send unto us the <u>Gh</u>owās year <span
-id="fr_336"></span>[\*](#fn_336) again!
+id="fr_336"></span>[\*](#fn_336.md) again!
 
 The fragrance of musk and amber emanateth from every word,  
 When <span class="smallcaps">Æabd-ul-Ḳādir</span> praiseth that black
@@ -519,7 +519,7 @@ Their countenances are not worthy even to be looked upon!
 I would say, I should go and consort with the dogs at her door;  
 But she would not, even then, one day, say to me " Come here!"
 
-Since mine eyes became not blind, <span id="fr_337"></span>[\*](#fn_337)
+Since mine eyes became not blind, <span id="fr_337"></span>[\*](#fn_337.md)
 from the absence of my love,  
 With all my heart I am now willing they should go out of my head.
 
@@ -578,7 +578,7 @@ The fruit of its aims and desires, it shall then eat therefrom,
 When the grain, in the earth, shall itself to extinction give.
 
 Since it is filled with the conceptions of the faces of the fair,  
-The picture gallery of Mānī, <span id="fr_338"></span>[\*](#fn_338) this
+The picture gallery of Mānī, <span id="fr_338"></span>[\*](#fn_338.md) this
 mind of mine must be.
 
 My heart becometh, through envy and jealousy, to pieces torn,  
@@ -601,57 +601,57 @@ If, by parting with his head, he might his loved one obtain.
 
 ### Footnotes
 
-<span id="fn_323"></span>[273:\*](spa15.htm#fr_323) See Introduction,
-page [xi](spa03.htm#page_xi).
+<span id="fn_323"></span>[273:\*](spa15.htm#fr_323.md) See Introduction,
+page [xi](spa03.htm#page_xi.md).
 
-<span id="fn_324"></span>[273:†](spa15.htm#fr_324) See note at page
-[111](spa09.htm#page_111).
+<span id="fn_324"></span>[273:†](spa15.htm#fr_324.md) See note at page
+[111](spa09.htm#page_111.md).
 
-<span id="fn_325"></span>[274:\*](spa15.htm#fr_325) The magic ring of
+<span id="fn_325"></span>[274:\*](spa15.htm#fr_325.md) The magic ring of
 Solomon, which was supposed to reveal all things.
 
-<span id="fn_326"></span>[274:†](spa15.htm#fr_326) India, the country of
+<span id="fn_326"></span>[274:†](spa15.htm#fr_326.md) India, the country of
 dark people, is compared to the dark curls of the beloved.
 
-<span id="fn_327"></span>[275:\*](spa15.htm#fr_327) The name of a gold
+<span id="fn_327"></span>[275:\*](spa15.htm#fr_327.md) The name of a gold
 coin current in Persia and Arabia, a ducat.
 
-<span id="fn_328"></span>[276:\*](spa15.htm#fr_328) The æūd, or wood
+<span id="fn_328"></span>[276:\*](spa15.htm#fr_328.md) The æūd, or wood
 aloes, celebrated for its fragrance.
 
-<span id="fn_329"></span>[277:\*](spa15.htm#fr_329) Alluding to the rosy
+<span id="fn_329"></span>[277:\*](spa15.htm#fr_329.md) Alluding to the rosy
 colour of the cheeks.
 
-<span id="fn_330"></span>[277:†](spa15.htm#fr_330) The dimple of the
+<span id="fn_330"></span>[277:†](spa15.htm#fr_330.md) The dimple of the
 chin.
 
-<span id="fn_331"></span>[278:\*](spa15.htm#fr_331) See note at page
-[29](spa05.htm#page_29).
+<span id="fn_331"></span>[278:\*](spa15.htm#fr_331.md) See note at page
+[29](spa05.htm#page_29.md).
 
-<span id="fn_332"></span>[278:†](spa15.htm#fr_332) The pearl is supposed
+<span id="fn_332"></span>[278:†](spa15.htm#fr_332.md) The pearl is supposed
 to be produced from a single drop of rain-water.
 
-<span id="fn_333"></span>[279:\*](spa15.htm#fr_333) The name of a great
+<span id="fn_333"></span>[279:\*](spa15.htm#fr_333.md) The name of a great
 man, supposed to have been Solomon's prime minister.
 
-<span id="fn_334"></span>[279:†](spa15.htm#fr_334) And God said unto
+<span id="fn_334"></span>[279:†](spa15.htm#fr_334.md) And God said unto
 him, "O Moses! draw near and fear not, for thou art safe."—<span
 class="smallcaps">Al Ḳur’ān</span>.
 
-<span id="fn_335"></span>[280:\*](spa15.htm#fr_335) See Introductory
-Remarks, page [xi](spa03.htm#page_xi).
+<span id="fn_335"></span>[280:\*](spa15.htm#fr_335.md) See Introductory
+Remarks, page [xi](spa03.htm#page_xi.md).
 
-<span id="fn_336"></span>[281:\*](spa15.htm#fr_336) According to the
+<span id="fn_336"></span>[281:\*](spa15.htm#fr_336.md) According to the
 *Abjad*, or an arrangement of the letters of the Arabic alphabet for
 numbers in chronograms, the letters *gh*, *w*, *ā*, and *s*, signify the
 year 1097 of the Hijrah (<span class="smallcaps">a.d.</span> 1685), in
 which a terrible plague is said to have raged throughout
 Af<u>gh</u>ānistān and the adjacent countries.
 
-<span id="fn_337"></span>[284:\*](spa15.htm#fr_337) From excessive
+<span id="fn_337"></span>[284:\*](spa15.htm#fr_337.md) From excessive
 weeping.
 
-<span id="fn_338"></span>[286:\*](spa15.htm#fr_338) A celebrated Persian
+<span id="fn_338"></span>[286:\*](spa15.htm#fr_338.md) A celebrated Persian
 painter, who, about the middle of the third century of our era, gave out
 that he was the promised paraclete of our Lord; and soon established a
 numerous sect known as Mānīchæans. He fled into Tartary through fear of
@@ -662,4 +662,4 @@ in Heaven, where he pretended to have been during his retreat.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](spa16)
+[Next: Introduction](spa16.md)

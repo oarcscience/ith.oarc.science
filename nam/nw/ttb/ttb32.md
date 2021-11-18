@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb31)  [Next](ttb33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb31)  [Next](ttb33.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_45">p. 45</span>
 
-<span id="img_04500"></span> ![Mateeh, The Goat](img/04500.jpg)
+<span id="img_04500"></span> ![Mateeh, The Goat](img/04500.jpg.md)
 
 ### Mateeh, THE GOAT
 
@@ -63,4 +63,4 @@ themselves and future generations.
 
 ------------------------------------------------------------------------
 
-[Next: Skana, The Black Fish](ttb33)
+[Next: Skana, The Black Fish](ttb33.md)

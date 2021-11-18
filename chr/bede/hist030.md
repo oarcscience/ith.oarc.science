@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist029) 
-[Next](hist031) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist029.md) 
+[Next](hist031.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ year after the consulship of our said lord, and the fourth indiction."
 ------------------------------------------------------------------------
 
 [Next: XXIX. How the same Pope sent to Augustine the Pall and a letter,
-along with several ministers of the Word. \[601 A.D.\]](hist031)
+along with several ministers of the Word. \[601 A.D.\]](hist031.md)

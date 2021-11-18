@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr14)  [Next](rhr16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr14)  [Next](rhr16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ nethermost <span class="rmargnote">Hospites deponunt vestes
 lugubres.</span> vault, and habits intirely yellow were given us,
 together with our golden fleeces. At that time the Virgin declared o us
 that we were Knights of the <span id="img_18700"></span> ![Golden
-Stone](img/18700.jpg), of which <span class="margnote">Salutantur
+Stone](img/18700.jpg.md), of which <span class="margnote">Salutantur
 equites.</span> we were before ignorant. After we had made ourselves
 ready, and taken our breakfast, the old man presented each <span
 class="rmargnote">Donantur a sene.</span> of us with a medal of gold. On
@@ -173,7 +173,7 @@ the King prosperity and peace, and that his seed might be spread far and
 wide. Afterwards he remonstrated that the time was now come wherein,
 according to the royal promise, he ought to be released; because Yen us
 was already uncovered by one of his guests, for his observations could
-not lie [to](errata.htm#1) him, and that if his Majesty would please to
+not lie [to](errata.htm#1.md) him, and that if his Majesty would please to
 make strict and diligent enquiry, in case this should not prove to be,
 he would remain before the gate all the days of his life. Then he humbly
 sued that, upon peril of body and life, he might be present at this
@@ -355,4 +355,4 @@ returned home*.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. On The Connection of the Rosicrucian Claims With
-Those of Alchemy and Magic](rhr16)
+Those of Alchemy and Magic](rhr16.md)

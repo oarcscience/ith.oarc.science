@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar83)  [Next](gar85) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar83)  [Next](gar85.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="img_pl_m"></span> <span align="CENTER"> [![Plate
 M](tn/pl_m.jpg)  
-Click to enlarge](img/pl_m.jpg)  
+Click to enlarge](img/pl_m.jpg.md)  
 Plate M  
 </span>
 
@@ -87,4 +87,4 @@ the protective virtue of this gem, to which they give the name of
 
 ------------------------------------------------------------------------
 
-[Next: Plate N. General Talismans (continued)](gar85)
+[Next: Plate N. General Talismans (continued)](gar85.md)

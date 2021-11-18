@@ -1,28 +1,28 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk34)  [Next](brk36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk34)  [Next](brk36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
 ------------------------------------------------------------------------
 
-#### VII. <span class="smallcaps">The Soul in Sleep</span> <span id="fr_25"></span>[1](#fn_25)
+#### VII. <span class="smallcaps">The Soul in Sleep</span> <span id="fr_25"></span>[1](#fn_25.md)
 
 "What is the Self?"
 
-"It is the Spirit <span id="fr_26"></span>[2](#fn_26) made of
+"It is the Spirit <span id="fr_26"></span>[2](#fn_26.md) made of
 understanding among the Breaths, the inward light within the heart, that
 walks abroad, abiding the same, through both worlds. <span
-id="fr_27"></span>[3](#fn_27) He meditates, as it were; He hovers about,
+id="fr_27"></span>[3](#fn_27.md) He meditates, as it were; He hovers about,
 as it were. Turned to sleep, He passes beyond this world, the shapes of
 death.
 
@@ -33,7 +33,7 @@ This Spirit at birth enters into the body, and is
 blent with evils; at death He passes out, and leaves evils.
 
 Two seats has this Spirit, this and the seat in the world beyond <span
-id="fr_28"></span>[1](#fn_28); and midway is a third, the seat of
+id="fr_28"></span>[1](#fn_28.md); and midway is a third, the seat of
 dreams. Standing in this midway seat, He looks upon these two seats,
 this and the seat in the world beyond. Now as this is a step toward the
 seat in the world beyond, He makes this step and beholds both evils and
@@ -74,7 +74,7 @@ This is His shape wherein He is beyond desire, free from ill, fearless.
 As when a man embraced by his beloved knows naught of whatsoever is
 without or within, so this Spirit embraced by the Self of Intelligence
 knows naught of what is without or within. <span
-id="fr_29"></span>[1](#fn_29) This is His shape wherein desire is won,
+id="fr_29"></span>[1](#fn_29.md) This is His shape wherein desire is won,
 desire is of Self, desire is not, grief is gone. Herein the father is no
 father, the mother no mother, the worlds no worlds, the Gods no
 
@@ -83,7 +83,7 @@ father, the mother no mother, the worlds no worlds, the Gods no
 <span class="contnote">\[paragraph continues\]</span> Gods, the Vedas no
 Vedas; herein the thief is no thief, the murderer no murderer, the
 Chāṇḍāla no Chāṇḍāla, the Paulkasa no Paulkasa, <span
-id="fr_30"></span>[1](#fn_30) the beggar-monk no beggar-monk, the
+id="fr_30"></span>[1](#fn_30.md) the beggar-monk no beggar-monk, the
 ascetic no ascetic. Good attaches not, evil attaches not; for then has
 He overpast all griefs of the heart.
 
@@ -98,7 +98,7 @@ If there should be as it were another, one would see another, smell
 another, taste another, speak to another, hear another, think of
 another, feel another, understand another.
 
-The Seer is the Waters, <span id="fr_31"></span>[2](#fn_31) one with
+The Seer is the Waters, <span id="fr_31"></span>[2](#fn_31.md) one with
 naught beside. He is the Brahma-world, O king." Thus did Yājnavalkya
 teach him. "This is the highest way for Him, this the highest fortune
 for Him,
@@ -112,31 +112,31 @@ bliss other creatures live on but a morsel."
 
 ### Footnotes
 
-<span id="fn_25"></span>[68:1](brk35.htm#fr_25) Bṛihad-āraṇyaka
+<span id="fn_25"></span>[68:1](brk35.htm#fr_25.md) Bṛihad-āraṇyaka
 Upanishad, IV. iii. 7-33.
 
-<span id="fn_26"></span>[68:2](brk35.htm#fr_26) *Purusha;* see above p.
+<span id="fn_26"></span>[68:2](brk35.htm#fr_26.md) *Purusha;* see above p.
 56.
 
-<span id="fn_27"></span>[68:3](brk35.htm#fr_27) Namely, this world in
+<span id="fn_27"></span>[68:3](brk35.htm#fr_27.md) Namely, this world in
 waking and dreaming, and the world of Brahma in deep sleep or death.
 
-<span id="fn_28"></span>[69:1](brk35.htm#fr_28) The soul's seats are (1)
+<span id="fn_28"></span>[69:1](brk35.htm#fr_28) The soul's seats are (1.md)
 that in this world, and (2) that in the transcendental "Brahma-world,"
 which it visits on death. The former is the site of sorrows, the latter
 of pure joy. Between these is the condition of sleep; for dreaming sleep
 is still in touch with waking experience, and dreamless sleep is a
 temporary approach towards the "Brahma-world."
 
-<span id="fn_29"></span>[70:1](brk35.htm#fr_29) In dreamless sleep the
+<span id="fn_29"></span>[70:1](brk35.htm#fr_29.md) In dreamless sleep the
 individual consciousness is merged into universal consciousness, *prājna
 ātmā* or "Self of Intelligence," and thus arises absolute
 unconsciousness.
 
-<span id="fn_30"></span>[71:1](brk35.htm#fr_30) Two of the basest
+<span id="fn_30"></span>[71:1](brk35.htm#fr_30.md) Two of the basest
 castes.
 
-<span id="fn_31"></span>[71:2](brk35.htm#fr_31) This may refer to an
+<span id="fn_31"></span>[71:2](brk35.htm#fr_31.md) This may refer to an
 Indian theory according to which water is essentially tasteless, but
 derives its special flavour from its surroundings, as in a cocoanut or a
 lemon (see Sānkhya-kārikā, xvi.); or perhaps it is based upon the Vedic
@@ -145,4 +145,4 @@ doctrine of Thales of Miletus.
 
 ------------------------------------------------------------------------
 
-[Next: VII: Gargi and Yajnavalkya](brk36)
+[Next: VII: Gargi and Yajnavalkya](brk36.md)

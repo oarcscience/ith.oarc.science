@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa00)  [Next](fiwa02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa00)  [Next](fiwa02.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,4 +250,4 @@ PHILADELPHIA, *March* 24,1904
 
 ------------------------------------------------------------------------
 
-[Next: Contents](fiwa02)
+[Next: Contents](fiwa02.md)

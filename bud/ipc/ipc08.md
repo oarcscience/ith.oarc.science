@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc07)  [Next](ipc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc07)  [Next](ipc09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ Justice—Helps to expose a portentous fraud—Buddhaghos’a and the Ceylon
 records—King Wijaya—Date altered by Buddhaghos’a one hundred
 years—Fictitious "Second Convocation"—Mahindo, Asoka's son, visits
 Ceylon—Vast literature of S’iva-Buddhism palmed upon him—Brief of modern
-English [missionaries](errata.htm#12) in their attack on Buddha.</span>
+English [missionaries](errata.htm#12.md) in their attack on Buddha.</span>
 
 <span class="smallcaps">In</span> Buddha Gaya, in the year B.C. 520,
 Buddha sat under a pippala tree dreaming of a Dharma Râj. We have all
@@ -40,7 +40,7 @@ and fifty years after this appeared King Asoka and the Dharma Râj.
 
 Asoka, at the age of twenty-four, succeeded to the throne of Patna. His
 brothers raised troops, and sought to upset him. After a sharp struggle
-he overcame them, and treated them with the [usual](errata.htm#13) mercy
+he overcame them, and treated them with the [usual](errata.htm#13.md) mercy
 of Asiastics towards brothers near the throne. He was the grandson of
 Sandrocottus, who was placed on the throne by Brahmin intrigue. Asoka
 was at first a pious Brahmin, and 50,000 Brahmins were fed by him daily.
@@ -81,7 +81,7 @@ who would be a propitiator of heaven. Confess and believe in God
 (Is’ana), who is the worthy object of obedience. For equal to this
 (belief), I declare unto you, ye shall not find such a means of
 propitiating heaven. Oh strive ye to obtain this inestimable
-treasure." <span id="fr_58"></span>[\*](#fn_58)
+treasure." <span id="fr_58"></span>[\*](#fn_58.md)
 
 <span id="page_86">p. 86</span>
 
@@ -97,26 +97,26 @@ religion.
 caused religious discourses to be preached. I have appointed religious
 observances that mankind, having listened thereto, shall be brought to
 follow in the right path, and give glory to God." <span
-id="fr_59"></span>[\*](#fn_59)
+id="fr_59"></span>[\*](#fn_59.md)
 
 "It is well known, sirs, to what lengths have gone my respect for and
-faith in Buddha, Dharma, Sangha." <span id="fr_60"></span>[†](#fn_60)
+faith in Buddha, Dharma, Sangha." <span id="fr_60"></span>[†](#fn_60.md)
 
 "Whatever words have been spoken by the divine Buddha, they have all
-been well said." <span id="fr_61"></span>[‡](#fn_61)
+been well said." <span id="fr_61"></span>[‡](#fn_61.md)
 
 "And he who acts in conformity with this edict shall be united with
-Sugato." <span id="fr_62"></span>[§](#fn_62)
+Sugato." <span id="fr_62"></span>[§](#fn_62.md)
 
 "The white elephant whose name is The Bringer of Happiness to the Whole
-World." <span id="fr_63"></span>[+](#fn_63)
+World." <span id="fr_63"></span>[+](#fn_63.md)
 
 Is’ana is the name that has been selected by the Sanskrit scholars
 employed lately in translating "God save the Queen." Buddha, Dharma, and
 Sangha make up the Buddhist Trinity, which is precisely similar to that
 of Philo and the Gnostics. Buddha is spirit; Dharma, matter; Sangha,
 ideal humanity, the Christ. They figure together as three separate
-beings in the [sculptures](errata.htm#14) of Buddha Gaya, one of Asoka's
+beings in the [sculptures](errata.htm#14.md) of Buddha Gaya, one of Asoka's
 temples. Later on they got also to mean Buddha, his law and his monks.
 
 <span id="page_87">p. 87</span>
@@ -125,36 +125,36 @@ temples. Later on they got also to mean Buddha, his law and his monks.
 
 "On the many beings over whom I rule I confer happiness in this world;
 in the next they may obtain Swarga (paradise)." <span
-id="fr_64"></span>[\*](#fn_64)
+id="fr_64"></span>[\*](#fn_64.md)
 
 "This is good. With these means let a man seek Swarga. This is to be
 done. By these means it is to be done, as by them Swarga (paradise) is
-to be gained." <span id="fr_65"></span>[†](#fn_65)
+to be gained." <span id="fr_65"></span>[†](#fn_65.md)
 
 "I pray with every variety of prayer for those who differ with me in
 creed, that they, following after my example, may with me attain unto
-eternal salvation." <span id="fr_66"></span>[‡](#fn_66)
+eternal salvation." <span id="fr_66"></span>[‡](#fn_66.md)
 
 "And whoso doeth this is blessed of the inhabitants of this world; and
 in the next world endless moral merit resulteth from such religious
-charity." <span id="fr_67"></span>[§](#fn_67)
+charity." <span id="fr_67"></span>[§](#fn_67.md)
 
 "Unto no one can be repentance and peace of mind until he hath obtained
 supreme knowledge, perfect faith, which surmounteth all obstacles, and
-perpetual assent." <span id="fr_68"></span>[+](#fn_68)
+perpetual assent." <span id="fr_68"></span>[+](#fn_68.md)
 
 "In the tenth year of his anointment, the beloved King Piyadasi obtained
 the Sambodhi, or complete knowledge." <span
-id="fr_69"></span>[\*\*](#fn_69)
+id="fr_69"></span>[\*\*](#fn_69.md)
 
 "All the heroism that Piyadasi, the beloved of the gods, has exhibited
 is in view of another life. Earthly glory brings little profit, but, on
 the contrary, produces a loss of virtue. To toil for heaven is difficult
 to peasant and to prince, unless by a supreme effort he gives up
-all." <span id="fr_70"></span>[††](#fn_70)
+all." <span id="fr_70"></span>[††](#fn_70.md)
 
 "May they (my loving subjects) obtain happiness in this world and in the
-next." <span id="fr_71"></span>[‡‡](#fn_71)
+next." <span id="fr_71"></span>[‡‡](#fn_71.md)
 
 <span id="page_88">p. 88</span>
 
@@ -174,7 +174,7 @@ half.
 "This sermon has been preached by the departed."
 
 "Two hundred and fifty years have elapsed since the departure of the
-teacher." <span id="fr_72"></span>[\*](#fn_72)
+teacher." <span id="fr_72"></span>[\*](#fn_72.md)
 
 #### MYSTICISM.
 
@@ -184,11 +184,11 @@ Professor Rhys Davids has asserted?
 "There is no such charity as the charity which springeth from virtue
 (Dharma), which is the intimate knowledge of virtue (Dharma), the
 inheritance of virtue (Dharma), the close union with virtue
-(Dharma)." <span id="fr_73"></span>[†](#fn_73)
+(Dharma)." <span id="fr_73"></span>[†](#fn_73.md)
 
 "The beloved of the gods, King Piyadasi, honours all forms of religious
 faith, whether professed by ascetics (pavajitani) or householders
-(gahthani). <span id="fr_74"></span>[‡](#fn_74)
+(gahthani). <span id="fr_74"></span>[‡](#fn_74.md)
 
 "Whatever villages with their inhabitants may be given or maintained for
 the sake of the worship,
@@ -197,16 +197,16 @@ the sake of the worship,
 
 the devotees shall receive the same; and for an example unto my people,
 they shall exercise solitary austerities." <span
-id="fr_75"></span>[\*](#fn_75)
+id="fr_75"></span>[\*](#fn_75.md)
 
 "And he who acts in conformity with this edict shall be united with
-Sugato." <span id="fr_76"></span>[†](#fn_76)
+Sugato." <span id="fr_76"></span>[†](#fn_76.md)
 
 "Dharma" has been translated "the Law," "Virtue," "Thought,"
 "Righteousness," by various scholars. Let the Buddhists give their own
 translation in their ritual. "I salute that Dharma who is Prajna
 Paramita (the Wisdom of the Other Bank)." <span
-id="fr_77"></span>[‡](#fn_77)
+id="fr_77"></span>[‡](#fn_77.md)
 
 Now, it seems easy for bishops and Boden Professors of Sanskrit to
 explain away Buddha. Says Sir Monier Williams, "He was an atheist." He
@@ -237,12 +237,12 @@ in any modern State:—
 
 "Piyadasi, the friend of the Devas, attaches less importance to alms and
 outside rites than to his desire to witness the spread of interior
-religion." <span id="fr_78"></span>[\*](#fn_78)
+religion." <span id="fr_78"></span>[\*](#fn_78.md)
 
 "Progress in Dharma may be obtained in two manners—by formal rules, and
 by the feelings that they help to arouse in the heart. In this double
 influence the first has a very inferior value, the inner quickening is
-what is really important." <span id="fr_79"></span>[†](#fn_79)
+what is really important." <span id="fr_79"></span>[†](#fn_79.md)
 
 This is what he would have said at the Czar's Peace Congress:—
 
@@ -251,7 +251,7 @@ world. For this alone has this inscription been chiselled, that our sons
 and our grandsons should make no new conquests. Let them not think that
 conquests by the sword merit the name of conquests. Let them see there
 ruin, confusion, and violence. True conquests alone are the conquests of
-Dharma." <span id="fr_80"></span>[‡](#fn_80)
+Dharma." <span id="fr_80"></span>[‡](#fn_80.md)
 
 #### OTHER REFORMS.
 
@@ -259,7 +259,7 @@ Dharma." <span id="fr_80"></span>[‡](#fn_80)
 friend of the Devas, many hundred thousand animals were daily sacrificed
 for the sake of food meat, . . . but now the joyful chorus resounds
 again and again that henceforward not a single animal shall be put to
-death." <span id="fr_81"></span>[§](#fn_81)
+death." <span id="fr_81"></span>[§](#fn_81.md)
 
 "If a man is subject to slavery and ill-treatment, from this moment he
 shall be delivered by the King from this and other captivity. Many men
@@ -268,7 +268,7 @@ in this
 <span id="page_91">p. 91</span>
 
 country suffer in captivity, therefore the Stûpa containing the commands
-of the King has been a great want." <span id="fr_82"></span>[\*](#fn_82)
+of the King has been a great want." <span id="fr_82"></span>[\*](#fn_82.md)
 
 But King Asoka's Edicts throw a strong light upon one very important
 point indeed—the date of the rise of monks in the sense of housed
@@ -343,7 +343,7 @@ convert. The Buddhist Scriptures of
 
 <span class="contnote">\[paragraph continues\]</span> Ceylon, "if
 translated into English," says Dr. Rhys Davids, "would be about four
-times as long as our Bible." <span id="fr_83"></span>[\*](#fn_83) Yet
+times as long as our Bible." <span id="fr_83"></span>[\*](#fn_83.md) Yet
 when this colossal task was completed, the spirits (devas) conjured away
 the manuscript, and the painstaking convert went to work a second time.
 Again his completed work was spirited away, and again he finished it.
@@ -355,7 +355,7 @@ Ceylon, "this is the coming Buddha Maitreyo!"
 
 In the long and elaborate article in the "Journal of the Asiatic Society
 of Bengal," from which I have been quoting, <span
-id="fr_84"></span>[†](#fn_84) Turnour makes patent a wholesale
+id="fr_84"></span>[†](#fn_84.md) Turnour makes patent a wholesale
 falsification of the ancient Cingalese chronicles by Buddhaghosa.
 
 The main objects of this, in his view, were:—
@@ -369,7 +369,7 @@ lives of some of the kings who ruled in Ceylon prior to Asoka have to be
 spread out like niggard butter on abundant bread to make up these one
 hundred years. One dies over a hundred years of age. Another "commences
 a turbulent reign" at ninety. A third seems to have been 147 years of
-age. <span id="fr_85"></span>[‡](#fn_85) The two dates that can be
+age. <span id="fr_85"></span>[‡](#fn_85.md) The two dates that can be
 checked by Western chronology, the date of Alexander's expedition and
 that of Megasthenes to
 
@@ -380,7 +380,7 @@ at Patna, are both dislodged by these changed dates. Alexander,
 according to the Ceylon chronology, must have visited India in the days
 of Asoka, and not "during the commotions which preceded the usurpation
 of the Indian empire by his grandfather, Sandrocottus." <span
-id="fr_86"></span>[\*](#fn_86) And the embassy of Megasthenes to Patna
+id="fr_86"></span>[\*](#fn_86.md) And the embassy of Megasthenes to Patna
 would have to be set down in Asoka's reign likewise.
 
 \(2\) To fill up the same gap, preposterous ages have to be given also
@@ -393,7 +393,7 @@ and Buddhaghosa were strong partisans of the Mahayana teaching. The
 Chinese traveller, Fa Hian, visited this monastery fourteen years before
 Buddhaghosa came on the scene and he calls the monastery "the very lofty
 and very beautiful Great Vehicle Monastery." <span
-id="fr_87"></span>[†](#fn_87)
+id="fr_87"></span>[†](#fn_87.md)
 
 Another point is this, the India Office employed recently the eminent
 Chinese scholar, Bunyiu Nanjio, a Japanese, to officially classify the
@@ -416,7 +416,7 @@ Pitakattayan ('Baskets’ of
 was defined and authenticated with a degree of precision which fixed
 even the number of syllables of which it should consist. The
 'Commentaries' made or delivered on that occasion acquired the
-designation of Aṭṭhakathâ." <span id="fr_88"></span>[\*](#fn_88)
+designation of Aṭṭhakathâ." <span id="fr_88"></span>[\*](#fn_88.md)
 
 But Buddhaghosa plainly attached more significance to another point,
 hence his frantic falsification of the date of King Wijayo. He wanted to
@@ -431,7 +431,7 @@ upon the scene B.C. 260, and converts India. He holds a Convocation, the
 Council of Patna, which "reaffirmed" the "Baskets" and Commentaries, a
 literature that according to Professor Rhys Davids is in bulk four times
 as voluminous as the Christian's Bible. <span
-id="fr_89"></span>[†](#fn_89)
+id="fr_89"></span>[†](#fn_89.md)
 
 A son of Asoka, Mahindo, was to have started for Ceylon carrying this
 great mass of Buddhist teachings immediately after the Convocation. He
@@ -515,7 +515,7 @@ for the
 <span id="page_98">p. 98</span>
 
 advancement of their good name, shall uninterruptedly study and
-remember." <span id="fr_90"></span>[\*](#fn_90)
+remember." <span id="fr_90"></span>[\*](#fn_90.md)
 
 This is the inscription, and it is difficult to see how any Orientalist,
 or any non-Orientalist, can undervalue its importance. Would Asoka have
@@ -605,7 +605,7 @@ Nepal, called the Praise of the Seven Buddhas (p. 453) . Each Buddha is
 "adored" in a separate paragraph, and it is announced that he found
 emancipation under a special tree. Comparing a list of these trees with
 that of the Bharhut Stûpa, as given by General Cunningham, <span
-id="fr_91"></span>[\*](#fn_91) we find that five of the trees exactly
+id="fr_91"></span>[\*](#fn_91.md) we find that five of the trees exactly
 correspond. The sixth, that of Visvabhu, is obliterated. Sakya Muni's
 tree in one list is the asvattha, and in the other the pippala—synonyms
 for the *Ficus religiosa*. This seems to give great antiquity to the
@@ -650,7 +650,7 @@ Sickness and Old Age. Buddha, like Christ, proposes to find a remedy.
 What is that remedy? The Amrita.
 
 Professor Rhys Davids declares that this word does not mean Immortality,
-but its reverse. <span id="fr_92"></span>[\*](#fn_92) It seems to me
+but its reverse. <span id="fr_92"></span>[\*](#fn_92.md) It seems to me
 that he might as well say that the French word "immortalité," also
 differs completely in meaning from our word "immortality."
 
@@ -737,7 +737,7 @@ Advent." And Buddha certainly
 <span id="page_104">p. 104</span>
 
 sought to relieve the Indian mind of the cruel yoke of the
-[Metempsychosis](errata.htm#15), an idea which plunged him back a
+[Metempsychosis](errata.htm#15.md), an idea which plunged him back a
 thousand times into all the sufferings of old age, disease and death.
 All who joined his spiritual Sañgha were at once liberated from its
 woeful entanglements.
@@ -758,7 +758,7 @@ finding their way unto the uttermost limits of the barbarian countries,
 for the benefit and pleasure of all mankind . . . are they appointed.
 Intermingling equally among the dreaded and among the respected, both in
 Pataliputra and in foreign places, teaching better things shall they
-everywhere penetrate." <span id="fr_93"></span>[\*](#fn_93) Edict XII.
+everywhere penetrate." <span id="fr_93"></span>[\*](#fn_93.md) Edict XII.
 enjoins that these teachers are to be very gentle and conciliatory with
 the "unconverted heretics."
 
@@ -773,7 +773,7 @@ even such as desire the act, the
 
 hope of the beloved of the gods, that all unbelievers may be speedily
 purified and brought into contentment speedily." <span
-id="fr_94"></span>[\*](#fn_94)
+id="fr_94"></span>[\*](#fn_94.md)
 
 The imaginary descriptions of Buddhaghosa have the local colour of his
 day; he could not get beyond that. His account of the Convocation at
@@ -790,12 +790,12 @@ alleged fact which borders on the farcical. It is said that "eight pious
 priests" attended it who had beheld Buddha. As the Convocation was held
 exactly one hundred years after Buddha's death, each of these, as Mr.
 Turnour shows, must have been at least one hundred and seven years
-old. <span id="fr_95"></span>[†](#fn_95)
+old. <span id="fr_95"></span>[†](#fn_95.md)
 
 One hundred and fifty years after the alleged Convocation there came a
 Greek into the same part of the country, namely Megasthenes. Did he
 discover these splendid monasteries with "preaching halls" and "ivory
-fans?" <span id="fr_96"></span>[‡](#fn_96) On the contrary he describes
+fans?" <span id="fr_96"></span>[‡](#fn_96.md) On the contrary he describes
 certain Wanderers, Sarmanæ, Germanes (the Buddhist Sramanas),
 water-drinking Wanderers, sleeping under
 
@@ -817,110 +817,110 @@ Let us begin with the new gods.
 
 ### Footnotes
 
-<span id="fn_58"></span>[85:\*](ipc08.htm#fr_58) First Separate Edict.
+<span id="fn_58"></span>[85:\*](ipc08.htm#fr_58.md) First Separate Edict.
 Dhauli, Prinsep.
 
-<span id="fn_59"></span>[86:\*](ipc08.htm#fr_59) Edict No. VII.,
+<span id="fn_59"></span>[86:\*](ipc08.htm#fr_59.md) Edict No. VII.,
 Prinsep.
 
-<span id="fn_60"></span>[86:†](ipc08.htm#fr_60) Second Bairat Rock,
+<span id="fn_60"></span>[86:†](ipc08.htm#fr_60.md) Second Bairat Rock,
 Burnouf.
 
-<span id="fn_61"></span>[86:‡](ipc08.htm#fr_61) Second Bairat Rock,
+<span id="fn_61"></span>[86:‡](ipc08.htm#fr_61.md) Second Bairat Rock,
 Wilson.
 
-<span id="fn_62"></span>[86:§](ipc08.htm#fr_62) Delhi Pillar, Prinsep.
+<span id="fn_62"></span>[86:§](ipc08.htm#fr_62.md) Delhi Pillar, Prinsep.
 
-<span id="fn_63"></span>[86:+](ipc08.htm#fr_63) Final Sentence of the
+<span id="fn_63"></span>[86:+](ipc08.htm#fr_63.md) Final Sentence of the
 Rock Edicts, Kern.
 
-<span id="fn_64"></span>[87:\*](ipc08.htm#fr_64) Edict VI., Wilson.
+<span id="fn_64"></span>[87:\*](ipc08.htm#fr_64.md) Edict VI., Wilson.
 
-<span id="fn_65"></span>[87:†](ipc08.htm#fr_65) Edict IX., Wilson.
+<span id="fn_65"></span>[87:†](ipc08.htm#fr_65.md) Edict IX., Wilson.
 
-<span id="fn_66"></span>[87:‡](ipc08.htm#fr_66) Delhi Pillar, Edict VI.,
+<span id="fn_66"></span>[87:‡](ipc08.htm#fr_66.md) Delhi Pillar, Edict VI.,
 Prinsep.
 
-<span id="fn_67"></span>[87:§](ipc08.htm#fr_67) Edict XI., Prinsep.
+<span id="fn_67"></span>[87:§](ipc08.htm#fr_67.md) Edict XI., Prinsep.
 
-<span id="fn_68"></span>[87:+](ipc08.htm#fr_68) Rock Edict No. VII.
+<span id="fn_68"></span>[87:+](ipc08.htm#fr_68.md) Rock Edict No. VII.
 Prinsep.
 
-<span id="fn_69"></span>[87:\*\*](ipc08.htm#fr_69) Rock Edict No. VII.,
+<span id="fn_69"></span>[87:\*\*](ipc08.htm#fr_69.md) Rock Edict No. VII.,
 Burnouf.
 
-<span id="fn_70"></span>[87:††](ipc08.htm#fr_70) Rock Edict No. X.,
+<span id="fn_70"></span>[87:††](ipc08.htm#fr_70.md) Rock Edict No. X.,
 Burnouf.
 
-<span id="fn_71"></span>[87:‡‡](ipc08.htm#fr_71) Second Separate Edict,
+<span id="fn_71"></span>[87:‡‡](ipc08.htm#fr_71.md) Second Separate Edict,
 Burnouf.
 
-<span id="fn_72"></span>[88:\*](ipc08.htm#fr_72) Rupnâth Rock, Buhler.
+<span id="fn_72"></span>[88:\*](ipc08.htm#fr_72.md) Rupnâth Rock, Buhler.
 
-<span id="fn_73"></span>[88:†](ipc08.htm#fr_73) Edict XII., Prinsep.
+<span id="fn_73"></span>[88:†](ipc08.htm#fr_73.md) Edict XII., Prinsep.
 
-<span id="fn_74"></span>[88:‡](ipc08.htm#fr_74) Rock Edict, No. XII.,
+<span id="fn_74"></span>[88:‡](ipc08.htm#fr_74.md) Rock Edict, No. XII.,
 Wilson.
 
-<span id="fn_75"></span>[89:\*](ipc08.htm#fr_75) Delhi Pillar, Edict
+<span id="fn_75"></span>[89:\*](ipc08.htm#fr_75.md) Delhi Pillar, Edict
 IV., Prinsep.
 
-<span id="fn_76"></span>[89:†](ipc08.htm#fr_76) Delhi Pillar, Prinsep.
+<span id="fn_76"></span>[89:†](ipc08.htm#fr_76.md) Delhi Pillar, Prinsep.
 
-<span id="fn_77"></span>[89:‡](ipc08.htm#fr_77) "Buddhism," p. 28.
+<span id="fn_77"></span>[89:‡](ipc08.htm#fr_77.md) "Buddhism," p. 28.
 
-<span id="fn_78"></span>[90:\*](ipc08.htm#fr_78) Edict XIII., Senart.
+<span id="fn_78"></span>[90:\*](ipc08.htm#fr_78.md) Edict XIII., Senart.
 
-<span id="fn_79"></span>[90:†](ipc08.htm#fr_79) Delhi Pillar, Edict
+<span id="fn_79"></span>[90:†](ipc08.htm#fr_79.md) Delhi Pillar, Edict
 VIII., Senart, II. 96.
 
-<span id="fn_80"></span>[90:‡](ipc08.htm#fr_80) Edict No. XIV., Senart,
+<span id="fn_80"></span>[90:‡](ipc08.htm#fr_80.md) Edict No. XIV., Senart,
 I. 322.
 
-<span id="fn_81"></span>[90:§](ipc08.htm#fr_81) Rock Edict, No. I.,
+<span id="fn_81"></span>[90:§](ipc08.htm#fr_81.md) Rock Edict, No. I.,
 Prinsep.
 
-<span id="fn_82"></span>[91:\*](ipc08.htm#fr_82) Dhauli Edict, No I.,
+<span id="fn_82"></span>[91:\*](ipc08.htm#fr_82.md) Dhauli Edict, No I.,
 Prinsep.
 
-<span id="fn_83"></span>[93:\*](ipc08.htm#fr_83) "Buddhism," p. 20.
+<span id="fn_83"></span>[93:\*](ipc08.htm#fr_83.md) "Buddhism," p. 20.
 
-<span id="fn_84"></span>[93:†](ipc08.htm#fr_84) "Journ. Beng. As. Soc.,"
+<span id="fn_84"></span>[93:†](ipc08.htm#fr_84.md) "Journ. Beng. As. Soc.,"
 Vol. VI., p. 725.
 
-<span id="fn_85"></span>[93:‡](ipc08.htm#fr_85) "Journ. Beng. As. Soc.,"
+<span id="fn_85"></span>[93:‡](ipc08.htm#fr_85.md) "Journ. Beng. As. Soc.,"
 Vol. VI., p. 721.
 
-<span id="fn_86"></span>[94:\*](ipc08.htm#fr_86) "Journ. Beng. As.
+<span id="fn_86"></span>[94:\*](ipc08.htm#fr_86.md) "Journ. Beng. As.
 Soc.," Vol. VI., p. 716.
 
-<span id="fn_87"></span>[94:†](ipc08.htm#fr_87) Fa Hian, "Pilgrimage,"
+<span id="fn_87"></span>[94:†](ipc08.htm#fr_87.md) Fa Hian, "Pilgrimage,"
 p. 254. (Stanislaus Julien's Trans.).
 
-<span id="fn_88"></span>[95:\*](ipc08.htm#fr_88) Turnour "Journ. As.
+<span id="fn_88"></span>[95:\*](ipc08.htm#fr_88.md) Turnour "Journ. As.
 Soc. Bengal," Vol. VI., p. 505.
 
-<span id="fn_89"></span>[95:†](ipc08.htm#fr_89) Rhys Davids "Buddhism,"
+<span id="fn_89"></span>[95:†](ipc08.htm#fr_89.md) Rhys Davids "Buddhism,"
 p. 20.
 
-<span id="fn_90"></span>[98:\*](ipc08.htm#fr_90) Second Bairât Rock.
+<span id="fn_90"></span>[98:\*](ipc08.htm#fr_90.md) Second Bairât Rock.
 
-<span id="fn_91"></span>[100:\*](ipc08.htm#fr_91) "Stûpa of Bharhut," p.
+<span id="fn_91"></span>[100:\*](ipc08.htm#fr_91.md) "Stûpa of Bharhut," p.
 46.
 
-<span id="fn_92"></span>[101:\*](ipc08.htm#fr_92) "Hibbert Lectures,"
+<span id="fn_92"></span>[101:\*](ipc08.htm#fr_92.md) "Hibbert Lectures,"
 pp. 109 and 137.
 
-<span id="fn_93"></span>[104:\*](ipc08.htm#fr_93) Edict IV., Senart.
+<span id="fn_93"></span>[104:\*](ipc08.htm#fr_93.md) Edict IV., Senart.
 
-<span id="fn_94"></span>[105:\*](ipc08.htm#fr_94) Edict V., Prinsep.
+<span id="fn_94"></span>[105:\*](ipc08.htm#fr_94.md) Edict V., Prinsep.
 
-<span id="fn_95"></span>[105:†](ipc08.htm#fr_95) Turnour, Journ. Bengal
+<span id="fn_95"></span>[105:†](ipc08.htm#fr_95.md) Turnour, Journ. Bengal
 As. Soc., Vol. VI., p. 723.
 
-<span id="fn_96"></span>[105:‡](ipc08.htm#fr_96) The Aṭṭhakathâ is the
+<span id="fn_96"></span>[105:‡](ipc08.htm#fr_96.md) The Aṭṭhakathâ is the
 brief used by the missionaries against Buddha.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Mahâyâna](ipc09)
+[Next: Chapter VI. The Mahâyâna](ipc09.md)

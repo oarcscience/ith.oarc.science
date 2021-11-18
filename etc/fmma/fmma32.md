@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma31)  [Next](fmma33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma31)  [Next](fmma33.md) 
 
 ------------------------------------------------------------------------
 
@@ -213,4 +213,4 @@ been won by so many years of war except the single town of Calais.
 
 ------------------------------------------------------------------------
 
-[Next: Joan of Arc. Lived From 1412-1431](fmma33)
+[Next: Joan of Arc. Lived From 1412-1431](fmma33.md)

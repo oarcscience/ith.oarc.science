@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod33)  [Next](eod35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod33)  [Next](eod35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -28,7 +28,7 @@ changing and being elaborated to fit into a more complex scheme. The
 magical properties of the cowry came to be acquired by other Red Sea
 shells, such as *Pterocera*, the pearl oyster, conch shells, and others.
 Each of these became intimately associated with the moon. <span
-id="fr_269"></span>[3](#fn_269) The pearls found in the oysters were
+id="fr_269"></span>[3](#fn_269.md) The pearls found in the oysters were
 supposed to be little moons, drops of the moon-substance (or dew) which
 fell from the sky into the gaping oyster. Hence pearls acquired the
 reputation of "shining by night," like the moon from which they were
@@ -48,7 +48,7 @@ expression in the ancient Persian word *margan* (from *mar*, "giver" and
 languages (ranging from Hungary to Kamskatckha), but also in the
 non-Turanian speech of Western Asia, thence through Greek and Latin
 (*margarita*) to European languages. <span
-id="fr_270"></span>[1](#fn_270) The same life-giving attributes were
+id="fr_270"></span>[1](#fn_270.md) The same life-giving attributes were
 also acquired by the other pearl-bearing shells; and at some subsequent
 period, when it was discovered that some of these shells could be used
 as trumpets, the sound produced was also believed to be life-giving or
@@ -59,7 +59,7 @@ the noise woke up the god from his sleep. Hence the shell-trumpet
 attained an important significance in early religious ceremonials for
 the ritual purpose of summoning the deity, especially in Crete and
 India, and ultimately in widely distant parts of the world. <span
-id="fr_271"></span>[2](#fn_271) Long before these shells are known to
+id="fr_271"></span>[2](#fn_271.md) Long before these shells are known to
 have been used as trumpets, they were employed like the other Red Sea
 shells as "givers of life" to the dead in Egypt. Their use as trumpets
 was secondary.
@@ -78,12 +78,12 @@ development of the similar beliefs concerning purple.
 
 ### Footnotes
 
-<span id="fn_269"></span>[156:3](eod34.htm#fr_269) For the details see
+<span id="fn_269"></span>[156:3](eod34.htm#fr_269.md) For the details see
 Jackson, *op. cit.*, pp. 57-69. Both the shells and the moon were
 identified with the Great Mother. Hence they were homologized the one
 with the other.
 
-<span id="fn_270"></span>[157:1](eod34.htm#fr_270) Dr. Mingana has given
+<span id="fn_270"></span>[157:1](eod34.htm#fr_270.md) Dr. Mingana has given
 me the following note: "It is very probable that the Græco-Latin
 *margarita*, the Aramæo-Syriac *margarita*, the Arabic *margan*, and the
 Turanian *margan* are derived from the Persian *mar-gân*, meaning both
@@ -91,9 +91,9 @@ Turanian *margan* are derived from the Persian *mar-gân*, meaning both
 life'. The word *gān*, in Zend *yān*, is thoroughly Persian and is
 undoubtedly the original form of this expression."
 
-<span id="fn_271"></span>[157:2](eod34.htm#fr_271) See Chapter II of
+<span id="fn_271"></span>[157:2](eod34.htm#fr_271.md) See Chapter II of
 Jackson's book, *op. cit.*
 
 ------------------------------------------------------------------------
 
-[Next: Sharks and Dragons](eod35)
+[Next: Sharks and Dragons](eod35.md)

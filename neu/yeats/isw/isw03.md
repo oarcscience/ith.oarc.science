@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](isw02)  [Next](isw04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](isw02)  [Next](isw04.md) 
 
 ------------------------------------------------------------------------
 
@@ -236,4 +236,4 @@ Like them that are no more alive.
 
 ------------------------------------------------------------------------
 
-[Next: The Arrow](isw04)
+[Next: The Arrow](isw04.md)

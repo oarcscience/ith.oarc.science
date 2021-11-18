@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg09)  [Next](cdg11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg09)  [Next](cdg11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -15,24 +15,24 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
 
 <span id="page_161">p. 161</span>
 
-<span id="img_16100"></span> ![DISCOURSE V.](img/16100.jpg)
+<span id="img_16100"></span> ![DISCOURSE V.](img/16100.jpg.md)
 
 <span id="img_16101"></span>
 
 |                     |
 |---------------------|
-| ![W](img/16101.jpg) |
+| ![W](img/16101.jpg.md) |
 
 HEN the illustrious personage had taken his departure, on my return from
 accompanying him to the door, I found the Comte de Gabalis in my study.
 
 "It is a great pity," said he, "that the nobleman who has just left you
 is one day to become one of the seventy-two Princes of the Sanhedrin of
-the New Law <span id="fr_144"></span>[CXV](#fn_144), else he would be a
+the New Law <span id="fr_144"></span>[CXV](#fn_144.md), else he would be a
 great subject for our Holy Cabala. His mind is profound,
 
 pure, broad, lofty and fearless. Here is the geomantic <span
-id="fr_145"></span>[CXVI](#fn_145) figure which I cast for him while you
+id="fr_145"></span>[CXVI](#fn_145.md) figure which I cast for him while you
 were talking
 
 <span id="page_162">p. 162</span> <span id="page_163">p. 163</span>
@@ -91,7 +91,7 @@ poor Sylph would never dare show himself
 
 lest he be straightway mistaken for a hobgoblin; a Nymph cannot labour
 to become immortal without passing for an impure phantom; and a
-Salamander <span id="fr_147"></span>[CXVII](#fn_147) would not dare
+Salamander <span id="fr_147"></span>[CXVII](#fn_147.md) would not dare
 appear for fear of being taken for the Devil himself, while the pure
 flames of which he is composed would be thought the hell fire which ever
 attends upon the Prince of Darkness. To dissipate these Most injurious
@@ -141,9 +141,9 @@ matter, which can never fail in that generation which forever environs
 it, because .of the forms without number wherewith it is pregnant and
 wherewith Thou in the beginning didst fill it. From this Thy Spirit,
 likewise, are born those Holy Kings who stand about Thy Throne,
-and* <span id="fr_149"></span>[CXVIII](#fn_149) *who compose Thy court,
+and* <span id="fr_149"></span>[CXVIII](#fn_149.md) *who compose Thy court,
 O Universal Father! O Thou Unique God! O Father of mortal and immortal
-Saints!* <span id="fr_150"></span>[CXIX](#fn_150)
+Saints!* <span id="fr_150"></span>[CXIX](#fn_150.md)
 
 <span id="page_170">p. 170</span> <span id="page_171">p. 171</span>
 
@@ -227,7 +227,7 @@ these poor people who, were it not for him, would be too wretched and
 too weak to resist the Devil. But when a Sylph has learned from us
 
 to pronounce Cabalistically the potent Name NEHMAHMIHAH <span
-id="fr_153"></span>[CXX](#fn_153), and to combine it in mantric form
+id="fr_153"></span>[CXX](#fn_153.md), and to combine it in mantric form
 with the delicious name Eliael, all powers of darkness take flight and
 the Sylph peacefully enjoys the society of his loved one."
 
@@ -238,7 +238,7 @@ most piously that they may not lose their recently-acquired right to the
 possession of the Supreme Good. They therefore desire the person to whom
 they are allied to live with exemplary innocence, as is apparent in that
 celebrated adventure of a young Lord of Bavaria <span
-id="fr_154"></span>[CXXI](#fn_154). He was inconsolable at the death of
+id="fr_154"></span>[CXXI](#fn_154.md). He was inconsolable at the death of
 his wife, whom he loved passionately. A certain Sylphid was advised by
 one of our Sages to assume the likeness of the wife. She had confidence
 in the Sage and presented herself to the sorrowing young man, saying
@@ -275,7 +275,7 @@ for, will avert the dangers which might threaten his life during a given
 period, or will grant any other condition pleasing to him who makes this
 wretched covenant. Thus the Devil, wicked fellow that he is, through the
 mediation of a Gnome, causes the soul <span
-id="fr_155"></span>[CXXII](#fn_155) of such a man to become mortal and
+id="fr_155"></span>[CXXII](#fn_155.md) of such a man to become mortal and
 deprives it of the right to eternal life."
 
 "Then, Sir," cried I, "in your opinion those covenants, of which
@@ -286,7 +286,7 @@ demonographers cite so many examples,
 are not made with the Devil at all?"
 
 "No, assuredly not," replied the Comte, "Has not the Prince of the
-World <span id="fr_156"></span>[CXXIII](#fn_156) been driven out? Is he
+World <span id="fr_156"></span>[CXXIII](#fn_156.md) been driven out? Is he
 not confined? Is he not bound? Is he not the *terra damnata et
 maledicta* which is left at the bottom of the retort of the Supreme and
 Archetype Distiller? Can he ascend into the Region of Light and spread
@@ -317,7 +317,7 @@ the justice which God exercises towards
 
 the sinners in Hell: it is a great grace not to let them be consumed by
 the fire which burns them. Nonexistence <span
-id="fr_157"></span>[CXXIV](#fn_157) is a greater evil than Hell. This is
+id="fr_157"></span>[CXXIV](#fn_157.md) is a greater evil than Hell. This is
 what the Sages preach to the Gnomes when they assemble them to make them
 understand the wrong they do themselves in preferring death to
 immortality and nonexistence to the hope of a blessed eternity, which
@@ -344,7 +344,7 @@ will preach to them at midnight."
 <span id="page_184">p. 184</span> <span id="page_185">p. 185</span>
 
 "At midnight," I protested, "I have been told that that is the hour of
-the Sabbat." <span id="fr_158"></span>[CXXV](#fn_158)
+the Sabbat." <span id="fr_158"></span>[CXXV](#fn_158.md)
 
 The Comte began to laugh. "You remind me," he said, "of all the
 imbecilities related by the demonographers in that chapter on their
@@ -365,7 +365,7 @@ horrors of non-existence and consents to become immortalised, they
 bestow upon him one of our daughters; he is married and the nuptials are
 celebrated with all the rejoicing called for by the recent conquest.
 There are dances and those shouts of joy which Aristotle says were heard
-in certain isles <span id="fr_159"></span>[CXXVI](#fn_159) where,
+in certain isles <span id="fr_159"></span>[CXXVI](#fn_159.md) where,
 nevertheless, no living being was visible. The mighty Orpheus was the
 first to convoke these Subterranean Peoples. At his first lecture
 SABAZIUS, the most ancient of the Gnomes, was îm-
@@ -373,7 +373,7 @@ SABAZIUS, the most ancient of the Gnomes, was îm-
 <span id="page_186">p. 186</span> <span id="page_187">p. 187</span>
 
 mortalised; and from that SABAZIUS <span
-id="fr_160"></span>[CXXVII](#fn_161) was derived the name of this
+id="fr_160"></span>[CXXVII](#fn_161.md) was derived the name of this
 Assembly wherein the Sages were wont to address a speech to him as long
 as he lived, as is apparent in the Hymns of the divine Orpheus."
 
@@ -398,7 +398,7 @@ henceforward beyond the power of Truth to re-establish her empire.
 People would rather believe in a doctor's hood than in their own eyes.
 There has been in your native France a memorable proof of this popular
 mania. The famous. Cabalist Zedechias, <span
-id="fr_161"></span>[\*](#fn_160) in
+id="fr_161"></span>[\*](#fn_160.md) in
 
 <span id="page_188">p. 188</span> <span id="page_189">p. 189</span>
 
@@ -413,14 +413,14 @@ aerial ships, whose flying squadrons roved at the will of the Zephyrs.
 What happened? Do you suppose that ignorant age would so much as reason
 as to the nature of these I' marvellous spectacles? The people
 straightway believed that sorcerers had taken possession of the
-Air <span id="fr_162"></span>[CXXVIII](#fn_162) for the purpose of
+Air <span id="fr_162"></span>[CXXVIII](#fn_162.md) for the purpose of
 raising tempests and bringing hail upon their crops. The learned
 theologians and jurists were soon of the same opinion as the masses. The
 Emperors believed it as well; and this ridiculous, ;a; chimera went so
 far that the wise Charlemagne, and after him Louis the Débonnaire,
 imposed grievous penalties upon all these supposed Tyrants of the Air.
 You may see an account of this in the first chapter of the Capitularies
-of these two Emperors." <span id="fr_163"></span>[CXXIX](#fn_163)
+of these two Emperors." <span id="fr_163"></span>[CXXIX](#fn_163.md)
 
 "The Sylphs seeing the populace, the pedants and even the crowned heads
 thus alarmed against them, determined to dissipate the bad opinion
@@ -442,7 +442,7 @@ the kingdom is incredible."
 "One day, among other instances, it chanced at Lyons that three men and
 a woman were seen descending from these aerial ships. The entire city
 gathered about them, crying out that they were magicians <span
-id="fr_164"></span>[CXXX](#fn_164) and were sent by Grimaldus, Duke of
+id="fr_164"></span>[CXXX](#fn_164.md) and were sent by Grimaldus, Duke of
 Beneventum, Charlemagne's enemy, to destroy the French harvests. In vain
 the four innocents sought to vindicate themselves by saying that they
 were their own country-folk, and had been carried away a short time
@@ -450,7 +450,7 @@ since by miraculous men who had shown them unheard-of marvels, and had
 desired them to give an account of what they had seen. The frenzied
 populace paid no heed to their defence, and were on the point of casting
 them into the fire when the worthy Agobard, Bishop <span
-id="fr_165"></span>[CXXXI](#fn_165) of Lyons, who having been a monk in
+id="fr_165"></span>[CXXXI](#fn_165.md) of Lyons, who having been a monk in
 that city had
 
 <span id="page_192">p. 192</span> <span id="page_193">p. 193</span>
@@ -463,7 +463,7 @@ they said they had seen there was impossible."
 
 "The people believed what their good father Agobard said rather than
 their own eyes, were pacified, set at liberty the four Ambassadors of
-the Sylphs <span id="fr_166"></span>[CXXXII](#fn_166), and received with
+the Sylphs <span id="fr_166"></span>[CXXXII](#fn_166.md), and received with
 wonder the book which Agobard wrote to confirm the judgment which he had
 pronounced. Thus the testimony of these four witnesses was rendered
 vain."
@@ -494,7 +494,7 @@ voyages to terrestial paradise, those palaces and enchanted woods and
 all the charming adventures that happen in them, give but a faint idea
 of the life led by the Sages and of what the world will be when they
 shall have brought about the Reign of Wisdom <span
-id="fr_167"></span>[CXXXIII](#fn_167). Then we shall see only heroes
+id="fr_167"></span>[CXXXIII](#fn_167.md). Then we shall see only heroes
 born; the least of our children will have the strength of Zoroaster,
 Apollonius or Melchizedek; and most of them will be as accomplished as
 the children Adam would have had by Eve had he not sinned with her."
@@ -540,7 +540,7 @@ image of the uncreated, and that this unique understanding suffices for
 all men; that requires explanation. And as for the Chief Good, Averroes
 says that it consists in the conversation of Angels, which is not
 Cabalistic enough. For man, even in this life <span
-id="fr_168"></span>[CXXXIV](#fn_168) can, and is created to, enjoy God,
+id="fr_168"></span>[CXXXIV](#fn_168.md) can, and is created to, enjoy God,
 as you will one day understand and experience when you shall have
 reached the estate of the Sages."
 
@@ -562,7 +562,7 @@ Monsieur le Comte,
 and shall soon be  
 able to publish  
 another  
-volume  <span id="fr_170"></span>[\*](#fn_170)  
+volume  <span id="fr_170"></span>[\*](#fn_170.md)  
 <span id="img_20100"></span> ![](img/20100.jpg)  
 .  
   
@@ -571,7 +571,7 @@ volume  <span id="fr_170"></span>[\*](#fn_170)
 
 ### Footnotes
 
-<span id="fn_144"></span>[161:CXV](cdg10.htm#fr_144) <span
+<span id="fn_144"></span>[161:CXV](cdg10.htm#fr_144.md) <span
 id="page_162">p. 162</span> SANHEDRIN OF THE NEW LAW.--On February 9th,
 1807, one hundred and thirty-seven years after the publication of the
 first edition of these Discourses, the "Grand Sanhedrin " convened at
@@ -580,7 +580,7 @@ Emperor Napoleon I. for the purpose of giving legal sanction to those
 principles of government which he desired to establish as the basis of
 the future status of the Jews and of his New Law for them.
 
-<span id="fn_145"></span>[161:CXVI](cdg10.htm#fr_145) GEOMANCY.--"A
+<span id="fn_145"></span>[161:CXVI](cdg10.htm#fr_145.md) GEOMANCY.--"A
 forecast of the future by means of dots made in the sand. It is
 mentioned by many English writers--by Chaucer and Dryden--and is at
 present largely practised in China, in the Soudan and in Egypt, where
@@ -588,7 +588,7 @@ its practitioners may daily be seen making signs in the dust at the
 corners of the streets. Instead of making marks on the earth itself, it
 has been the habit in Europe--one may say for centuries--for the marks
 to be made by pen or pencil on a sheet of paper." "'Geomancy,' according
-to M. de Cattan, <span id="fr_146"></span>[\*](#fn_146) 'is a science
+to M. de Cattan, <span id="fr_146"></span>[\*](#fn_146.md) 'is a science
 and an art which consists of points and lines representing the four
 elements and the stars and planets of the sky.' The instruments of this
 art are a pen, ink and paper, or a small stick, and earth, dust or
@@ -612,13 +612,13 @@ verified by the event, are to be found in the book from which the
 quotations given above are made. "RAMBLING RECOLLECTIONS," BY SIR HENRY
 DRUMMOND WOLFF. VOL. I., PAGE 298 AND FOLLOWING.
 
-<span id="fn_146"></span>[161:\*](cdg10.htm#fr_146) *La Geomance do
+<span id="fn_146"></span>[161:\*](cdg10.htm#fr_146.md) *La Geomance do
 Seigneur Christofe de Cattan, Gentilhomme Genevois. Paris, 1567*.
 
-<span id="fn_147"></span>[167:CXVII](cdg10.htm#fr_147) ST. BENEDICT AND
+<span id="fn_147"></span>[167:CXVII](cdg10.htm#fr_147.md) ST. BENEDICT AND
 THE SALAMANDER.--The truth of this statement is verified by the
 following extract from "The Life of St. Benedict, by St. Gregory the
-Great." <span id="fr_148"></span>[\*](#fn_148) "The castle called
+Great." <span id="fr_148"></span>[\*](#fn_148.md) "The castle called
 Casaino is situated upon the side of a high mountain, which containeth
 as it were, in the lap thereof, the same castle, and riseth into the air
 three miles high so that the top seemeth to touch the very heavens: on
@@ -644,9 +644,9 @@ Benedict,' and he saw that he could get no answer, then he cried
 Maledict, not Benedict, what hast thou to do with me, and why dost thou
 persecute me?'"
 
-<span id="fn_148"></span>[167:\*](cdg10.htm#fr_148) *Chapter viii*.
+<span id="fn_148"></span>[167:\*](cdg10.htm#fr_148.md) *Chapter viii*.
 
-<span id="fn_149"></span>[169:CXVIII](cdg10.htm#fr_149) HOLY
+<span id="fn_149"></span>[169:CXVIII](cdg10.htm#fr_149.md) HOLY
 KINGS.--These Hierarchal Beings called Kings are in reality states of
 consciousness or energy within which are governing intelligences having
 jurisdiction over the seven planets.
@@ -661,12 +661,12 @@ TRISMEGISTUS. POEMANDRES I, §9.
 which is to come; and from the seven Spirits which are before His
 throne." THE APOCALYPSE OR REVELATION OF ST. JOHN. CHAPTER I., VERSE 4.
 
-<span id="fn_150"></span>[169:CXIX](cdg10.htm#fr_150) PRAYER.--There is
+<span id="fn_150"></span>[169:CXIX](cdg10.htm#fr_150.md) PRAYER.--There is
 a mansion above through which shines down the great central Light of the
 Paraclete or Holy Spirit, and through this descending column the prayers
 of those who seek the Light ascend to the higher spheres. The gateway of
 this mansion, known to Cabalists as the Sixth House or Hierarchy, is
-guarded by two Wonderful Beings. <span id="fr_151"></span>[†](#fn_151)
+guarded by two Wonderful Beings. <span id="fr_151"></span>[†](#fn_151.md)
 These Beings symbolise the union between the human and divine, for
 prayer is but the bringing together of these opposites. The divine
 mingles with the human so that it also may become divine: and man's
@@ -680,7 +680,7 @@ given wisdom according to Law. Be strong in purpose and firm in demand,
 for as you seek and demand power of a spiritual nature you will balance
 that power in self on the lower planes.. It is to penetrate beyond these
 lower planes or spheres of illusion that Jesus said, <span
-id="fr_152"></span>[\*](#fn_152) "When you pray, SAY" these things. You
+id="fr_152"></span>[\*](#fn_152.md) "When you pray, SAY" these things. You
 have by a direct and positive effort to reach the higher spheres of
 consciousness, therefore let your thought be clear . and concise, for a
 sincere, positive and well-defined prayer harmonises man with God. On
@@ -693,14 +693,14 @@ from the God within.
 Prayer or concentration on the Highest Source man is capable of
 imagining is a path to Wisdom Found.
 
-<span id="fn_151"></span>[169:†](cdg10.htm#fr_151) *Cherubim. [Note
-aaa](cdg63.htm#an_AAA), Commentary Continued*.
+<span id="fn_151"></span>[169:†](cdg10.htm#fr_151.md) *Cherubim. [Note
+aaa](cdg63.htm#an_AAA.md), Commentary Continued*.
 
-<span id="fn_152"></span>[169:\*](cdg10.htm#fr_152) *Luke xi., 2.
-Compare Proclus on Prayer. [Note bbb](cdg65.htm#an_BBB), Commentary
+<span id="fn_152"></span>[169:\*](cdg10.htm#fr_152.md) *Luke xi., 2.
+Compare Proclus on Prayer. [Note bbb](cdg65.htm#an_BBB.md), Commentary
 Continued*.
 
-<span id="fn_153"></span>[175:CXX](cdg10.htm#fr_153) NEHMAHMIHAH.--The
+<span id="fn_153"></span>[175:CXX](cdg10.htm#fr_153.md) NEHMAHMIHAH.--The
 three-syllabled word which is communicated to Master Masons as a
 substitute for the Master's word, "until wiser ages shall discover the
 true one," resembles Nehmahmihah: and one need not travel far to find
@@ -731,10 +731,10 @@ the great Architect of the universe."
 INSPECTORS-GENERAL OF THE THIRTY-THIRD AND LAST DEGREE, ETC., HELD AT
 THE CITY OF NEW YORK, AUGUST 15, 1876."
 
-<span id="fn_154"></span>[177:CXXI](cdg10.htm#fr_154) LORD OF BAVARIA.
-[NOTE CCC](cdg66.htm#an_CCC), COMMENTARY CONTINUED.
+<span id="fn_154"></span>[177:CXXI](cdg10.htm#fr_154.md) LORD OF BAVARIA.
+[NOTE CCC](cdg66.htm#an_CCC.md), COMMENTARY CONTINUED.
 
-<span id="fn_155"></span>[179:CXXII](cdg10.htm#fr_155) SOUL.--The word
+<span id="fn_155"></span>[179:CXXII](cdg10.htm#fr_155.md) SOUL.--The word
 Soul is used with the meaning of spiritual vesture throughout these
 Discourses, and in their terminology may be said to be the Air and Water
 bodies taken together, and in contradistinction to the Earth body and
@@ -743,7 +743,7 @@ thing nor doth it ever appear without another garment, which garment is
 the Soul." EIRENAEUS PHILALETHES, 44RIPLEY REVIV'D," LONDON, 1678. PAGE
 8.
 
-<span id="fn_156"></span>[181:CXXIII](cdg10.htm#fr_156) <span
+<span id="fn_156"></span>[181:CXXIII](cdg10.htm#fr_156.md) <span
 id="page_182">p. 182</span> PRINCE OF THE WORLD.--And God said to
 Raphael: "Go Raphael, and bind Azalzel; chain him Hand and Foot, and
 cast him into Darkness; open the Desart that is in the Wilderness of
@@ -755,7 +755,7 @@ OF THE ANGELS AND THEIR GALLANTRY WITH THE DAUGHTERS OF MEN. WRITTEN BY
 ENOCH THE PATRIARCH. PUBLISH'D IN GREEK, BY DR. GRABE, MADE ENGLISH,
 LONDON, 1715.
 
-<span id="fn_157"></span>[183:CXXIV](cdg10.htm#fr_157) <span
+<span id="fn_157"></span>[183:CXXIV](cdg10.htm#fr_157.md) <span
 id="page_184">p. 184</span> NON-EXISTENCE.--The inner meaning of these
 teachings is that man, by yielding to the temptations of his lower or
 Gnome nature, gradually weakens the link which the immortal or Solar
@@ -768,11 +768,11 @@ reverting to the great treasury of matter and becoming for a time an
 unconscious and therefore, from the standpoint of consciousness, a
 non-existent part of the Divine Plan.
 
-<span id="fn_158"></span>[185:CXXV](cdg10.htm#fr_158) <span
-id="page_186">p. 186</span> SABBAT. [NOTE DDD](cdg67.htm#an_DDD),
+<span id="fn_158"></span>[185:CXXV](cdg10.htm#fr_158.md) <span
+id="page_186">p. 186</span> SABBAT. [NOTE DDD](cdg67.htm#an_DDD.md),
 COMMENTARY CONTINUED.
 
-<span id="fn_159"></span>[185:CXXVI](cdg10.htm#fr_159) ENCHANTED
+<span id="fn_159"></span>[185:CXXVI](cdg10.htm#fr_159.md) ENCHANTED
 ISLES.--In one of the seven islands called the Islands of Aeolus, Lipara
 by name, there is, so they say, a tomb, concerning which many wonder-
 ful things are told; but in this more especially all are agreed, that it
@@ -781,10 +781,10 @@ cymbals is clearly heard proceding thence, together with laughter and
 clamour and the clapping of hands. TRANSLATED FROM ARISTOTELIS DE
 MIRABILIBUS AUSCULTATIONIBUS, §838b.
 
-<span id="fn_160"></span>[187:\*](cdg10.htm#fr_161) *Zedechias. [Note
-eee](cdg68.htm#an_EEE), Commentary Continued*.
+<span id="fn_160"></span>[187:\*](cdg10.htm#fr_161.md) *Zedechias. [Note
+eee](cdg68.htm#an_EEE.md), Commentary Continued*.
 
-<span id="fn_161"></span>[187:CXXVII](cdg10.htm#fr_160) <span
+<span id="fn_161"></span>[187:CXXVII](cdg10.htm#fr_160.md) <span
 id="page_188">p. 188</span>
 
 TO SABAZIUS.
@@ -815,7 +815,7 @@ MYSTERIES, BY THOMAS TAYLOR.
 all other religious services as the Gods are superior to heroes."
 PAUSANIAS, BOOK X., PHOCIS.
 
-<span id="fn_162"></span>[189:CXXVIII](cdg10.htm#fr_162) <span
+<span id="fn_162"></span>[189:CXXVIII](cdg10.htm#fr_162.md) <span
 id="page_190">p. 190</span> STORM WIZARDS.--In these regions nearly all
 men, noble and of low degree, town folk and country folk, old and young,
 think that hail and thunder can be produced at the will of man. For on
@@ -828,18 +828,18 @@ agrees with the facts is a matter to be proved by the authority of Holy
 Scripture. TRANSLATED FROM AGOBARD, LIBER DE GRANDINE ET TONITRUIS,
 CHAPTER i.
 
-<span id="fn_163"></span>[189:CXXIX](cdg10.htm#fr_163) CAPITULARIES,
+<span id="fn_163"></span>[189:CXXIX](cdg10.htm#fr_163.md) CAPITULARIES,
 "KAROLI MAGNI ET LUDOVICI PII CHRISTIONES CAPITULA." [NOTE
-FFF](cdg69.htm#an_FFF), COMMENTARY CONTINUED.
+FFF](cdg69.htm#an_FFF.md), COMMENTARY CONTINUED.
 
-<span id="fn_164"></span>[191:CXXX](cdg10.htm#fr_164) MAGICIANS SENT BY
-GRIMALDUS, DUKE OF BENEVENTUM. [NOTE GGG](cdg70.htm#an_GGG), COMMENTARY
+<span id="fn_164"></span>[191:CXXX](cdg10.htm#fr_164.md) MAGICIANS SENT BY
+GRIMALDUS, DUKE OF BENEVENTUM. [NOTE GGG](cdg70.htm#an_GGG.md), COMMENTARY
 CONTINUED.
 
-<span id="fn_165"></span>[191:CXXXI](cdg10.htm#fr_165) AGOBARD, BISHOP
-OF LYONS. [NOTE HHH](cdg71.htm#an_HHH), COMMENTARY CONTINUED.
+<span id="fn_165"></span>[191:CXXXI](cdg10.htm#fr_165.md) AGOBARD, BISHOP
+OF LYONS. [NOTE HHH](cdg71.htm#an_HHH.md), COMMENTARY CONTINUED.
 
-<span id="fn_166"></span>[193:CXXXII](cdg10.htm#fr_166) <span
+<span id="fn_166"></span>[193:CXXXII](cdg10.htm#fr_166.md) <span
 id="page_194">p. 194</span> THE FOUR AMBASSADORS OF THE SYLPHS.--We
 have, however, seen and heard many men plunged in such great stupidity,
 sunk in such depths of folly, as to believe and say that there is a
@@ -855,7 +855,7 @@ days in captivity, they had brought them before the assembled multitude,
 as we have said, -in our presence to be stoned. But truth prevailed.
 TRANSLATED FROM AGOBARD, LIBER DE GRANDINE ET TONITRUIS, CHAPTER ii.
 
-<span id="fn_167"></span>[195:CXXXIII](cdg10.htm#fr_167) <span
+<span id="fn_167"></span>[195:CXXXIII](cdg10.htm#fr_167.md) <span
 id="page_196">p. 196</span> MARRIAGE IN THE REIGN OF WISDOM.--There is
 an ancient Hermetic saying, "As above, so below," as in the universe so
 in man, as in the universal principle and finer bodies of man, so in the
@@ -920,22 +920,22 @@ loves with impure thought.
 Who hath created and balanced ALL THINGS."  
 THE KORAN, SURA lxxxvii.
 
-<span id="fn_168"></span>[199:CXXXIV](cdg10.htm#fr_168) FOR MAN, EVEN IN
+<span id="fn_168"></span>[199:CXXXIV](cdg10.htm#fr_168.md) FOR MAN, EVEN IN
 THIS LIFE CAN, AND IS CREATED TO, ENJOY GOD.--"He is known when realized
 by an acute intellect, purified by meditation and self-control. By a
 knowledge of Him assuredly man attains to bliss even in the flesh. By a
 proper and thorough cultivation and development of the powers of his
 soul he becomes vested with a SINGULAR ENERGY, <span
-id="fr_169"></span>[\*](#fn_169) and by a true realization of the nature
+id="fr_169"></span>[\*](#fn_169.md) and by a true realization of the nature
 of the Supreme Being by means of contemplation, he attains to beatitude
 on the dissolution of the physical body. If God is known and understood
 in this life, the supreme object of existence is attained; if missed in
 this life, the loss is indescribable." KAINOPNISHAT. TRANSLATED INTO
 ENGLISH BY CHHAJJU SINGH. PAGES 13-14.
 
-<span id="fn_169"></span>[199:\*](cdg10.htm#fr_169) Solar Force.
+<span id="fn_169"></span>[199:\*](cdg10.htm#fr_169.md) Solar Force.
 
-<span id="fn_170"></span>[201:\*](cdg10.htm#fr_170)
+<span id="fn_170"></span>[201:\*](cdg10.htm#fr_170.md)
 
 ANOTHER VOLUME.--Noel Argonne, in the second edition of his Mélanges
 Vigneul-Marville, published in 1725, about fifty years after the
@@ -965,4 +965,4 @@ out
 
 ------------------------------------------------------------------------
 
-[Next: A. Map of the Horoscope](cdg11)
+[Next: A. Map of the Horoscope](cdg11.md)

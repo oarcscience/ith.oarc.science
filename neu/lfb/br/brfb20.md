@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb19)  [Next](brfb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb19)  [Next](brfb21.md) 
 
 </div>
 
@@ -195,6 +195,6 @@ men to this very day.
 
 ------------------------------------------------------------------------
 
-[Next: Fortune and the Wood-Cutter](brfb21)
+[Next: Fortune and the Wood-Cutter](brfb21.md)
 
 </div>

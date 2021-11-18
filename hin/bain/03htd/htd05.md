@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd04)  [Next](htd06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd04)  [Next](htd06.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ and went out and stood on the steps of the pool, watching the images of
 the last stars paling in the mirror of its water before the advent of
 the day. And he looked and to! out of the trees again the *chétí* came
 towards him with twinkling feet, holding a trumpet-flower <span
-id="fr_16"></span>[c](#fn_16) in her hand. And she resembled the sky
+id="fr_16"></span>[c](#fn_16.md) in her hand. And she resembled the sky
 before the dawn, touched with the first streak of red. So she came up to
 the King, and stood near him, and said: O King, my mistress sends her
 lord, by these unworthy
@@ -55,7 +55,7 @@ and endure, for I shall know that he will return. So she did. Now that
 night there was a high wind, which blew furiously; and the waves of
 Ganges were like those of the sea. But notwithstanding, she lit her
 lamp, and pushed it out upon the river: for her faith <span
-id="fr_17"></span>[d](#fn_17) was very strong. And at that moment the
+id="fr_17"></span>[d](#fn_17.md) was very strong. And at that moment the
 Sky, with all
 
 <span id="page_20">p. 20</span>
@@ -64,7 +64,7 @@ its myriad stars for eyes, was looking down at her. And when it saw her
 little lamp, it laughed in scorn: and said: See what a miserable taper
 yonder poor mortal woman calls a lamp! But Maheshwara heard the brag.
 And suddenly, by his power, he created a calm. Then the waves of Ganges
-sank to sleep, and on her <span id="fr_18"></span>[e](#fn_18) still
+sank to sleep, and on her <span id="fr_18"></span>[e](#fn_18.md) still
 bosom floated the little lamp, with a flame that never wavered: and in
 the silent mirror of her waters appeared another sky and other stars, in
 mimicry of those above. Then said the kindly God: Sky, seest thou yonder
@@ -74,7 +74,7 @@ Thou foolish Sky, know, that thou art thyself, with all thy stars, no
 less an illusion than is that other sky below. The sole reality of all
 is yonder little lamp, that floats midway, poised between the infinity
 above and that below. For it embodies the good quality <span
-id="fr_19"></span>[f](#fn_19) of a faithful wife.
+id="fr_19"></span>[f](#fn_19.md) of a faithful wife.
 
 <span id="page_21">p. 21</span>
 
@@ -86,7 +86,7 @@ feet, and went away. And the King looked after her, as she went: and
 stood meditating, long after she was gone. And then he stooped, and
 picked up the trumpet-flower. And he said: *Pátalí*, exquisitely lovely
 is thy great crimson flower: and as for this strange maiden, surely
-Saraswati <span id="fr_20"></span>[g](#fn_20) dwells upon her tongue.
+Saraswati <span id="fr_20"></span>[g](#fn_20.md) dwells upon her tongue.
 But what of that? Is she not a woman? One of those who carry poison in
 their teeth under the honey in their lips. And he threw the flower, with
 his lips shut, into the pool, and went back to the temple with a sad
@@ -96,28 +96,28 @@ heart, to mourn through the day and await the coming of the night.
 
 ### Footnotes
 
-<span id="fn_16"></span>[17:c](htd05.htm#fr_16) *Pátalí*. Its colour is
+<span id="fn_16"></span>[17:c](htd05.htm#fr_16.md) *Pátalí*. Its colour is
 pale red.
 
-<span id="fn_17"></span>[19:d](htd05.htm#fr_17) The reader unacquainted
+<span id="fn_17"></span>[19:d](htd05.htm#fr_17.md) The reader unacquainted
 with Hindoo literature may possibly see in this a Christian idea; but it
 is not so: or rather it is far more Indian than Christian: and the
 original *bhakti* is stronger and far more intense in its meaning than
 our *faith*.
 
-<span id="fn_18"></span>[20:e](htd05.htm#fr_18) Because *Gangá* is a
+<span id="fn_18"></span>[20:e](htd05.htm#fr_18.md) Because *Gangá* is a
 woman.
 
-<span id="fn_19"></span>[20:f](htd05.htm#fr_19) Goodness, or *sattwa*
+<span id="fn_19"></span>[20:f](htd05.htm#fr_19.md) Goodness, or *sattwa*
 (the noun, of which *satí*, a word familiar to all English readers in
 connection with widow burning, is the adjective) is one of the three
 great Qualities: *Passion* and *Darkness* being the other two. *Sattwa*
 alone is real: that which is (*sat*). But the play on wife and goodness
 cannot be rendered in English.
 
-<span id="fn_20"></span>[21:g](htd05.htm#fr_20) The goddess of
+<span id="fn_20"></span>[21:g](htd05.htm#fr_20.md) The goddess of
 eloquence.
 
 ------------------------------------------------------------------------
 
-[Next: Jasmine](htd06)
+[Next: Jasmine](htd06.md)

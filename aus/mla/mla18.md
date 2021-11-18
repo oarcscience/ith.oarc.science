@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla17)  [Next](mla19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla17)  [Next](mla19.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,4 +150,4 @@ reminded of the work of Mirragan, the Relentless.
 
 ------------------------------------------------------------------------
 
-[Next: How Fire was Stolen from the Red-Crested Cockatoo](mla19)
+[Next: How Fire was Stolen from the Red-Crested Cockatoo](mla19.md)

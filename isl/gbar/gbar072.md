@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar071) [Next](gbar073)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar071) [Next](gbar073.md)
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ verily I say unto you the messenger of God shall be come.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar073)
+[Next](gbar073.md)

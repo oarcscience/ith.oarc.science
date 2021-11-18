@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce13)  [Next](sce15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce13)  [Next](sce15.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ begun, or feared to come hereafter
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](sce15)
+[Next: Chapter 5](sce15.md)

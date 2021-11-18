@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](boi01)  [Next](boi03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](boi01)  [Next](boi03.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ NORTHBROOK SOCIETY,
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](boi03)
+[Next: Introduction](boi03.md)

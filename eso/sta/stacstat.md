@@ -1,7 +1,7 @@
 <div class="Section1">
 
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index.md)
 
 ### THE SECRET TEACHINGS OF ALL AGES: COPYRIGHT STATUS.
 
@@ -27,7 +27,7 @@ this can be more than adequately demonstrated using online resources.
  
 
 Excerpt from
-[https://www.ibiblio.org/ccer/1928a8.htm](https://www.ibiblio.org/ccer/1928a8).
+[https://www.ibiblio.org/ccer/1928a8.htm](https://www.ibiblio.org/ccer/1928a8.md).
 This lists all works properly renewed at the US Copyright Office for the
 year 1928, collated by year of publication and sorted by title. This
 page relates to books whose titles begin with the letters S through T

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre34)  [Next](gre36) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre34)  [Next](gre36.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Of Thorbiorn Oxmain and Thorbiorn Tardy, and of Grettir's meeting with
 Kormak on Ramfirth-neck.
 
 THORBIORN was the name of a man who dwelt at Thorodstead in Ramfirth; he
-was the son of Arnor Hay-nose, <span id="fr_12"></span>[\*](#fn_12) the
+was the son of Arnor Hay-nose, <span id="fr_12"></span>[\*](#fn_12.md) the
 son of Thorod, who had settled Ramfirth on that side out as far as Bank
 was on the other. Thorbiorn was the strongest of all men; he was called
 Oxmain. Thorod was the name of his brother, he was called Drapa-stump;
@@ -29,7 +29,7 @@ Boardere. He farmed first at Meals in Ramfirth; his daughter was Helga,
 whom Sleita-Helgi had to wife, but after the man-slaying in Fairslope
 Thorir set up for himself his abode south in Hawkdale, and farmed at the
 Pass, and sold the land at Meals to Thorhall, son of Gamli the
-Vendlander. <span id="fr_13"></span>[\*](#fn_13) His son was Gamli, who
+Vendlander. <span id="fr_13"></span>[\*](#fn_13.md) His son was Gamli, who
 had to wife Ranveig, daughter of Asmund the Greyhaired, and Grettir's
 sister. They dwelt at that time at Meals, and had good hap. Thorir of
 the Pass had two sons, one hight Gunnar, the other Thorgeir; they were
@@ -91,7 +91,7 @@ much mocking at all this, therefore things began to worsen betwixt the
 men of Biarg and Thorbiorn Oxmain, so that therefrom fell much ill-will
 as came to be known after. No boot was bidden to Atli for his
 house-carle, but he made as if he knew it not. Grettir sat at home at
-Biarg until Twainmonth. <span id="fr_14"></span>[\*](gre36.htm#fn_14)
+Biarg until Twainmonth. <span id="fr_14"></span>[\*](gre36.htm#fn_14.md)
 Nor is it said in story that he and Kormak met ever again after these
 things betid.
 
@@ -99,15 +99,15 @@ things betid.
 
 ### Footnotes
 
-<span id="fn_12"></span>[89:\*](gre35.htm#fr_12) In the Landnáma he is
+<span id="fn_12"></span>[89:\*](gre35.htm#fr_12.md) In the Landnáma he is
 called 'Hy-nef;' the meaning is doubtful, but it seems that the author
 of this history means to call him Hay-nose.
 
-<span id="fn_13"></span>[90:\*](gre35.htm#fr_13) Ed. 1853 has the
+<span id="fn_13"></span>[90:\*](gre35.htm#fr_13.md) Ed. 1853 has the
 "Widelanded, Viðlendings," which here is altered agreeably to the
 collection in ch. 14, p. 29.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXI: How Grettir met Bardi, the Son of Gudmund, as he
-came back from the Heath-slayings](gre36)
+came back from the Heath-slayings](gre36.md)

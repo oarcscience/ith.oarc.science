@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo65)  [Next](hoo67) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo65)  [Next](hoo67.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 ###### The FUMIGATION from FRANKINCENSE.
 
 THE piercing eye of Justice bright, I sing,  <span
-id="fr_117"></span>[1](#fn_117)  
+id="fr_117"></span>[1](#fn_117.md)  
 Plac'd by the throne of heav'n's almighty king,
 
 <span id="page_194">p. 194</span>
@@ -34,7 +34,7 @@ When Fate's predestin'd, final hour draws near.
 
 ### Footnotes
 
-<span id="fn_117"></span>[193:1](hoo66.htm#fr_117) Ver. i.\] *The
+<span id="fn_117"></span>[193:1](hoo66.htm#fr_117.md) Ver. i.\] *The
 piercing eye*. &c. This Hymn is cited by Demosthenes in his first speech
 against Aristogiton, as follows: "Let us, says the orator overlooking
 all custom, judge righteous judgment; let us reverence Eunomia that
@@ -47,4 +47,4 @@ judge has his name."
 
 ------------------------------------------------------------------------
 
-[Next: LXII: To Equity](hoo67)
+[Next: LXII: To Equity](hoo67.md)

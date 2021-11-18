@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl56)  [Next](hpl58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl56)  [Next](hpl58.md) 
 
 ------------------------------------------------------------------------
 
@@ -1028,4 +1028,4 @@ Some dental work positively identified the skull as Asenath's.
 
 ------------------------------------------------------------------------
 
-[Next: Azathoth (1938)](hpl58)
+[Next: Azathoth (1938)](hpl58.md)

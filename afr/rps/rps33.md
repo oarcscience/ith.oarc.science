@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps32)  [Next](rps34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps32)  [Next](rps34.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ HEAVEN'S LAW BOOK
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 32. His and Her Monarch the African Potentate](rps34)
+[Next: Chapter 32. His and Her Monarch the African Potentate](rps34.md)

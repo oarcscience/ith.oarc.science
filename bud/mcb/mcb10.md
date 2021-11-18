@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mcb09)  [Next](mcb11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mcb09)  [Next](mcb11.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ in "the steadfastness of faith."
 *Nembutsu* literally means "to think of Buddha." *Nen* (*nien* in
 Chinese and *smṛiti* in Sanskrit) is "to keep in memory." In Shin
 however it is more than a mere remembering of Buddha, it is thinking his
-Name, <span id="fr_136"></span>[1](#fn_136) holding it in mind. The Name
+Name, <span id="fr_136"></span>[1](#fn_136.md) holding it in mind. The Name
 consists of six characters or syllables: *na-mu-a-mi-da-buts*(*u*) in
 Japanese pronunciation and *nan-wu-o-mi-to-fo* in Chinese. In actuality,
 the Name contains more than Buddha's name, for *Namu* is added to it.
@@ -93,7 +93,7 @@ O Saichi, where is your Land of Bliss?
 My Land of Bliss is right here.  
 Where is the line of division  
 Between this world and the Land of Bliss?  
-The eye <span id="fr_137"></span>[2](#fn_137) is the line of division.
+The eye <span id="fr_137"></span>[2](#fn_137.md) is the line of division.
 
 To Saichi "Oya-sama" or "Oya" not only means Amida himself but
 frequently personifies the "Namu-amida-butsu." To him, sometimes, these
@@ -143,7 +143,7 @@ How happy I am with the favor!
 "Namu-amida-butsu!"
 
 To see Saichi work in the company of Buddhas and Bodhisattvas who fill
-up the whole universe <span id="fr_138"></span>[8](#fn_138) must be a
+up the whole universe <span id="fr_138"></span>[8](#fn_138.md) must be a
 most wonderfully
 
 <span id="page_165">p. 165</span>
@@ -186,7 +186,7 @@ semantic impossibilities.
 
 #### 11
 
-O Saichi, <span id="fr_139"></span>[4](#fn_139) I am the most fortunate
+O Saichi, <span id="fr_139"></span>[4](#fn_139.md) I am the most fortunate
 person!  
 I am altogether free from woes of all kind,  
 Not at all troubled with anything of the world.  
@@ -212,13 +212,13 @@ My thoughts are filled with a return trip to Amida's country.
 
 ### Footnotes
 
-<span id="fn_136"></span>[161:1](mcb10.htm#fr_136) *Myōgō*, *ming-hao*
+<span id="fn_136"></span>[161:1](mcb10.htm#fr_136.md) *Myōgō*, *ming-hao*
 in Chinese, *nāmadheya* in Sanskrit.
 
-<span id="fn_137"></span>[163:2](mcb10.htm#fr_137) This reminds us of
+<span id="fn_137"></span>[163:2](mcb10.htm#fr_137.md) This reminds us of
 Eckhart.
 
-<span id="fn_138"></span>[164:8](mcb10.htm#fr_138) Saichi has this:
+<span id="fn_138"></span>[164:8](mcb10.htm#fr_138.md) Saichi has this:
 
 What a miracle!  
 The "Namu-amida-butsu" fills the whole world! <span id="page_165">p.
@@ -227,11 +227,11 @@ And this world is given me by Oya-sama!
 This is my joy!  
 "Namu-amida-butsu!"
 
-<span id="fn_139"></span>[166:4](mcb10.htm#fr_139) Saichi often begins
+<span id="fn_139"></span>[166:4](mcb10.htm#fr_139.md) Saichi often begins
 his utterances with the self-addressing "O Saichi" and after a while
 forgets the way he started. "You" and "I" thus become confused. Here the
 grammatical niceties are disregarded.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Rennyo's Letter](mcb11)
+[Next: IX. Rennyo's Letter](mcb11.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb08)  [Next](ttb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb08)  [Next](ttb10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_22">p. 22</span>
 
-<span id="img_02200"></span> ![Eena, the Beaver](img/02200.jpg)
+<span id="img_02200"></span> ![Eena, the Beaver](img/02200.jpg.md)
 
 ### Eena, THE BEAVER
 
@@ -53,4 +53,4 @@ acquired their crests by more honorable means than this story indicates.
 
 ------------------------------------------------------------------------
 
-[Next: Ol-Hiyo, The Seal](ttb10)
+[Next: Ol-Hiyo, The Seal](ttb10.md)

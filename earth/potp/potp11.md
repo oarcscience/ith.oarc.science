@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp10)  [Next](potp12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp10)  [Next](potp12.md) 
 
 ------------------------------------------------------------------------
 
@@ -301,7 +301,7 @@ a
 [![AURORA BOREALIS.&lt;br&gt; There is nothing about this aurora, as
 described by Hall, that a great fire in the interior of the earth would
 not furnish a solution.](tn/07900.jpg)  
-Click to enlarge](img/07900.jpg)  
+Click to enlarge](img/07900.jpg.md)  
 AURORA BOREALIS.  
 There is nothing about this aurora, as described by Hall, that a great
 fire in the interior of the earth would not furnish a solution.  
@@ -700,7 +700,7 @@ by D. L. Brainard, November 16, 1882, in Greely's Appendix. After
 observing the above engraving, read what an authority says about it;
 then determine its origin. Will you call it electricity? If not, what
 was it?](tn/10000.jpg)  
-Click to enlarge](img/10000.jpg)  
+Click to enlarge](img/10000.jpg.md)  
 AURORA BOREALIS.  
 The Aurora Borealis, as seen and described by D. L. Brainard, November
 16, 1882, in Greely's Appendix. After observing the above engraving,
@@ -874,4 +874,4 @@ Does that seem like electricity, or fire?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Meteors or Volcanic Disturbances](potp12)
+[Next: Chapter VIII. Meteors or Volcanic Disturbances](potp12.md)

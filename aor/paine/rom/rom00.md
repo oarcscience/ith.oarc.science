@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Thomas Paine](../index)  [Index](index) 
-[Next](rom01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Thomas Paine](../index)  [Index](index.md) 
+[Next](rom01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ the end of Part II. \]
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](rom01)
+[Next: Table of Contents](rom01.md)

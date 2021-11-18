@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](chc15)  [Next](chc17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](chc15)  [Next](chc17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Child Christopher and Goldilind the Fair*, by William Morris, \[1895\],
 at Intangible Textual Heritage
 
@@ -45,6 +45,6 @@ dreams.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. What Goldilind Found in the Wood](chc17)
+[Next: Chapter XVI. What Goldilind Found in the Wood](chc17.md)
 
 </div>

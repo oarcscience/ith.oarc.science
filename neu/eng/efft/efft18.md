@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft17)  [Next](efft19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft17)  [Next](efft19.md) 
 
 ------------------------------------------------------------------------
 
-# THE BLINDED GIANT.  <span id="fr_19"></span>[1](#fn_19)
+# THE BLINDED GIANT.  <span id="fr_19"></span>[1](#fn_19.md)
 
 AT Dalton, near Thirsk, in Yorkshire, is a mill. It has quite recently
 been rebuilt; but when I was at Dalton, six years ago, the old building
@@ -39,9 +39,9 @@ escaped.
 
 ### Footnotes
 
-<span id="fn_19"></span>[1](efft18.htm#fr_19) Henderson, *Notes on the
+<span id="fn_19"></span>[1](efft18.htm#fr_19.md) Henderson, *Notes on the
 Folk-Lore of the Northern Counties of England and the Borders*, p. 195.
 
 ------------------------------------------------------------------------
 
-[Next: Worcestershire Fairies](efft19)
+[Next: Worcestershire Fairies](efft19.md)

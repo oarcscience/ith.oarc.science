@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod45)  [Next](eod47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod45)  [Next](eod47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -36,7 +36,7 @@ assume the form of such man-destroyers as the lion and the cobra.
 Once the reason for such identifications grew dim, the uræus-form of the
 Great Mother became her symbol in either of her aspects, good or bad,
 although the legend of her poison-spitting, man-destroying powers
-persisted. <span id="fr_445"></span>[1](#fn_445) The identification of
+persisted. <span id="fr_445"></span>[1](#fn_445.md) The identification of
 the destroying-goddess with the moon, "the Eye of the Sun-god," prepared
 the way for the rationalization of her character as a uræus-serpent
 spitting venom and the sun's Eye spitting fire at the Sun-god's enemies.
@@ -65,7 +65,7 @@ of being the controller of water.
 
 The fashionable speculation of modern scholars that the movements of the
 snake naturally suggest rippling water <span
-id="fr_446"></span>[1](#fn_446) and provide "the obvious reason" which
+id="fr_446"></span>[1](#fn_446.md) and provide "the obvious reason" which
 led many people quite independently the one of the other to associate
 the snake with water, is thus shown to have no foundation in fact.
 
@@ -74,7 +74,7 @@ and water was the reason for this association, a water-snake would have
 been chosen to express the symbolism; or, if it was the mere rippling
 motion of the reptile, that all snakes or any snake would have been
 drawn into the analogy. But primarily only one kind of snake, a cobra,
-was selected; <span id="fr_447"></span>[2](#fn_447) and it is not a
+was selected; <span id="fr_447"></span>[2](#fn_447.md) and it is not a
 water snake, and cannot live in or under water. It was selected *because
 it was venomous* and the appropriate symbol of man-slaying.
 
@@ -101,7 +101,7 @@ identified with the cobra, and credited with the ability to control the
 waters, we can confidently assume that in some way the influence of
 these early Egyptian events made itself felt in India. As we compare the
 details of the Nâga worship in India <span
-id="fr_448"></span>[1](#fn_448) with early Egyptian beliefs, all doubt
+id="fr_448"></span>[1](#fn_448.md) with early Egyptian beliefs, all doubt
 as to their common origin disappears.
 
 The Nâga rulers were closely associated with springs, streams, and
@@ -115,7 +115,7 @@ until the introduction of Christianity, in Mexico and Peru". This is put
 forward in support of his argument that the Nâga kings’ "supposed
 ability to control the elements, and especially the waters," arose "from
 their connexion with the sun". But this is not so. <span
-id="fr_449"></span>[2](#fn_449) The belief in the Egyptian king's power
+id="fr_449"></span>[2](#fn_449.md) The belief in the Egyptian king's power
 over water was certainly older than sun-worship, which did not begin
 until Osirian beliefs and the personification of the moon as the Great
 Mother brought the sky-deities and the control of water into correlation
@@ -132,7 +132,7 @@ seems to have been a goddess who was also closely associated with the
 serpent. According to Langdon "the ophidian nature of the earliest
 Sumerian mother-goddess *Innini* is unmistakable. … She carries the
 caduceus in her hand, two serpents twining about a staff." <span
-id="fr_450"></span>[1](#fn_450)
+id="fr_450"></span>[1](#fn_450.md)
 
 The earliest Indian deities also were goddesses, and the first rulers of
 whom any record has been preserved were regarded as divine cobras, to
@@ -172,7 +172,7 @@ not surprising that the snake is the most primitive form of the evil
 <span id="page_232">p. 232</span>
 
 dragon. The Babylonian Tiamat was originally represented as a huge
-serpent, <span id="fr_451"></span>[1](#fn_451) and throughout the world
+serpent, <span id="fr_451"></span>[1](#fn_451.md) and throughout the world
 the serpent is pre-eminently a symbol of the evil dragon and the powers
 of evil.
 
@@ -201,7 +201,7 @@ her rôle as the Destroyer of Mankind. When Horus was differentiated from
 the Great Mother and became her *locum tenens*, his falcon (or eagle)
 was blended with Hathor's lioness to make the composite monster which is
 represented on Elamite and Babylonian monuments (see [p.
-79](eod21.htm#page_79)). But when the rôle of water as the instrument of
+79](eod21.htm#page_79).md). But when the rôle of water as the instrument of
 destruction became prominent, Ea's antelope and fish were blended to
 make a monster, usually known as the "goat-fish," which in India and
 elsewhere assumed a great variety of forms. Some of the varieties of
@@ -289,33 +289,33 @@ became the symbol of the powers of evil.
 
 ### Footnotes
 
-<span id="fn_445"></span>[228:1](eod46.htm#fr_445) Sethe, "Zur
+<span id="fn_445"></span>[228:1](eod46.htm#fr_445.md) Sethe, "Zur
 altägyptische Sage von Sonnenaugen das im Fremde war," *Untersuchungen
 zur Geschichte and Altertumskunde Ægyptens*, V, p. 23.
 
-<span id="fn_446"></span>[229:1](eod46.htm#fr_446) See especially the
+<span id="fn_446"></span>[229:1](eod46.htm#fr_446.md) See especially the
 claims put forward by Brinton, which have been accepted by Spinden,
 Joyce, and many other recent writers.
 
-<span id="fn_447"></span>[229:2](eod46.htm#fr_447) Possibly also the
+<span id="fn_447"></span>[229:2](eod46.htm#fr_447.md) Possibly also the
 Cerastes. At a relatively late period other snakes were adopted as
 surrogates of the cobra and Cerastes.
 
-<span id="fn_448"></span>[230:1](eod46.htm#fr_448) See Oldham, "Sun and
+<span id="fn_448"></span>[230:1](eod46.htm#fr_448.md) See Oldham, "Sun and
 Serpent," p. 51 *inter alia*.
 
-<span id="fn_449"></span>[230:2](eod46.htm#fr_449) Blackman, however,
+<span id="fn_449"></span>[230:2](eod46.htm#fr_449.md) Blackman, however,
 has recently advanced this claim in reference to Egypt (*op. cit.*,
 *Proc. Soc. Bibl. Archæology*, 1918, p. 57), as Breasted and others have
 done before.
 
-<span id="fn_450"></span>[231:1](eod46.htm#fr_450) S. Langdon, "A Seal
+<span id="fn_450"></span>[231:1](eod46.htm#fr_450.md) S. Langdon, "A Seal
 of Nidaba, the Goddess of Vegetation," *Proceedings of the Society of
 Biblical Archæology*, Vol. XXXVI, 1914, p. 281.
 
-<span id="fn_451"></span>[232:1](eod46.htm#fr_451) L. W. King,
+<span id="fn_451"></span>[232:1](eod46.htm#fr_451.md) L. W. King,
 "Babylonian Religion," p. 58.
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](eod47)
+[Next: Advertisements](eod47.md)

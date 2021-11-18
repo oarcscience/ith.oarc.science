@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog16)  [Next](hlog18) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog16)  [Next](hlog18.md) 
 
 ------------------------------------------------------------------------
 
@@ -157,4 +157,4 @@ they had done while living.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. A Visit to the King of Ghosts](hlog18)
+[Next: XIII. A Visit to the King of Ghosts](hlog18.md)

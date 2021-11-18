@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](tut03)  [Next](tut05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](tut03)  [Next](tut05.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 
 WHEN and where TUTANKHAMEN was born is unknown, and there is some doubt
 about the identity of his father. From a scarab which was found in the
-temple of Osiris at Abydos, <span id="fr_1"></span>[1](#fn_1) we learn
+temple of Osiris at Abydos, <span id="fr_1"></span>[1](#fn_1.md) we learn
 that his mother was called Merit-Ra. In the inscription on the red
 granite lion in the Southern Egyptian Gallery in the British Museum (No.
 431), he says that he "restored the monuments of his father, King of the
@@ -31,7 +31,7 @@ father is unknown. He became king of Egypt by
 <span id="page_2">p. 2</span>
 
 virtue of his marriage with princess ANKHSEN-PAATEN, the third daughter
-of Amenhetep IV <span id="fr_2"></span>[1](#fn_2), at least that is what
+of Amenhetep IV <span id="fr_2"></span>[1](#fn_2.md), at least that is what
 it is natural to suppose, but it is possible that he got rid of his
 immediate predecessor, Smenkhkara, or Seaakara, who married the princess
 MERITATEN, or ATENMERIT, the eldest daughter of Amenhetep IV, and
@@ -43,7 +43,7 @@ and to hold the religious views of his wife and his father-in-law. Proof
 of this is provided by the fragment of a calcareous stone stele
 preserved at Berlin (No. 14197), on which he is described as "Lord of
 the Two Lands, Rakheperuneb, Lord of the Crowns, Tutankhaten, to whom
-life is given for ever." <span id="fr_3"></span>[2](#fn_3)
+life is given for ever." <span id="fr_3"></span>[2](#fn_3.md)
 
 He did not at once sever his connection with the cult of Aten, for he
 started work on a temple, or some other building, of Aten at Thebes.
@@ -58,7 +58,7 @@ stele of Tutankhamen
 <span id="page_3">p. 3</span>
 
 that Legrain discovered at Karnak in 1905. <span
-id="fr_4"></span>[1](#fn_4) From this stele we learn that the "strong
+id="fr_4"></span>[1](#fn_4.md) From this stele we learn that the "strong
 names" and official titles which Tutankhamen adopted were as follows:--
 
 1\. Horus name. KA-NEKHT-TUT-MES
@@ -260,12 +260,12 @@ tomb of Hui in Western Thebes. This officer served in Nubia under
 Amenhetep IV, and as a reward for his fidelity and success the king made
 him Prince of Kesh (Nubia), and gave him full authority to rule from
 Nekhen, the modern Al-kab, about 50 miles south of Thebes, to
-Nest-Taui <span id="fr_5"></span>[1](#fn_5) or Napata (Jabal Barkal), at
+Nest-Taui <span id="fr_5"></span>[1](#fn_5) or Napata (Jabal Barkal.md), at
 the foot of the Fourth Cataract. During the reign of Tutankhamen Hui
 returned from Nubia to Thebes, bringing with him large quantities of
 gold, both in the form of rings and dust, vessels of gold and silver,
 bags full of precious stones, Sudani beds, couches, chairs of state,
-shields and a chariot. <span id="fr_6"></span>[2](#fn_6) With these
+shields and a chariot. <span id="fr_6"></span>[2](#fn_6.md) With these
 precious objects came the shekh of Maam, the shekh of Uait, the sons of
 all the principal chiefs on both sides of the river from Buhen (Wadi
 Halfah) to Elephantine, and a considerable number of slaves. Hui and his
@@ -282,7 +282,7 @@ the set
  
 
 <span id="img_pl01"></span> [![](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 *Plate I*.  
 Hui presenting tribute and gifts from vassal peoples to Tutankhamen.
 From Lepsius, *Denkmäler* III, 117.
@@ -290,7 +290,7 @@ From Lepsius, *Denkmäler* III, 117.
  
 
 <span id="img_pl02"></span> [![](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 *Plate II*.  
 Red granite lion with an inscription on the base stating that it was
 made by Tutankhamen. It was dedicate by him to the temple of Sulb, in
@@ -332,7 +332,7 @@ Mr. Theodore Davis found a tomb which he believed to be that of
 
 <span id="page_12">p. 12</span>
 
-Tutankhamen. <span id="fr_7"></span>[1](#fn_7) In it there was a broken
+Tutankhamen. <span id="fr_7"></span>[1](#fn_7.md) In it there was a broken
 box containing several pieces of gold leaf stamped with the names of
 Tutankhamen and his wife Ankhsenamen, etc. In a pit some distance from
 this tomb he discovered what he took to be the débris from a tomb, such
@@ -349,7 +349,7 @@ The objects in the British Museum that bear the name of Tutankhamen are
 few, the largest and most important being the granite lion which he
 placed in the temple built by Amenhetep III at Sulb (the "Soleb" of
 Lepsius), about half-way up the Third Cataract on the left or west bank.
-Several scarabs <span id="fr_8"></span>[2](#fn_8) and a bead bearing his
+Several scarabs <span id="fr_8"></span>[2](#fn_8.md) and a bead bearing his
 prenomen or nomen are exhibited in Table-Case B. (Fourth Egyptian Room),
 and also the fragment of a I model of a boomerang in blue glazed faience
 in Wall-Case 225 (Fifth Egyptian Room), No. 54822. Two fine porcelain
@@ -362,7 +362,7 @@ Neb-kheperu-Ra,
 
 giver of life for ever" and the other (No. 2573), which is white in
 colour, is inscribed with the names of his wife and himself. A writing
-palette bearing the king's prenomen <span id="fr_9"></span>[1](#fn_9)
+palette bearing the king's prenomen <span id="fr_9"></span>[1](#fn_9.md)
 was found at Kurnah during the time of the French Expedition, and this
 and the other objects mentioned above suggest that the royal tomb was
 being plundered during the early years of the XIXth century.
@@ -371,12 +371,12 @@ An interesting mention is made of Tutankhamen in one of the tablets from
 Boghaz Keui, and it suggests that communications passed more or less
 frequently between the kings of the Hittites at that period and the
 kings of Egypt. The document is written in cuneiform characters <span
-id="fr_10"></span>[2](#fn_10) in the Hittite language, and states that
+id="fr_10"></span>[2](#fn_10.md) in the Hittite language, and states that
 the Queen of Egypt, called Da-kha-mu-un wrote to the father of the
 reigning Hittite king to tell him that her husband Bi-ib-khu-ruri-ya-ash
 was dead, and that she had no son, and that she wanted one, and she
 asked him to send to her one of his many sons, and him she would make
-her husband. <span id="fr_11"></span>[3](#fn_11) Now Bibkhururiyaash is
+her husband. <span id="fr_11"></span>[3](#fn_11.md) Now Bibkhururiyaash is
 nothing more nor less than a transcription of NEB-KHEPERU-RA, the
 prenomen of king Tutankhamen.
 
@@ -384,43 +384,43 @@ prenomen of king Tutankhamen.
 
 ### Footnotes
 
-<span id="fn_1"></span>[1:1](tut04.htm#fr_1) See Mariette, *Abydos*,
+<span id="fn_1"></span>[1:1](tut04.htm#fr_1.md) See Mariette, *Abydos*,
 Paris, 1880, tom. II, pl. 40N.
 
-<span id="fn_2"></span>[2:1](tut04.htm#fr_2) This name means "Her life
+<span id="fn_2"></span>[2:1](tut04.htm#fr_2.md) This name means "Her life
 is of Aten" (*i.e.*, of the Solar Disk).
 
-<span id="fn_3"></span>[2:2](tut04.htm#fr_3) See *Aegyptische
+<span id="fn_3"></span>[2:2](tut04.htm#fr_3.md) See *Aegyptische
 Zeitschrift*, Bd. 38, 1900, pp. 112-114.
 
-<span id="fn_4"></span>[3:1](tut04.htm#fr_4) See *Annales du Service*,
+<span id="fn_4"></span>[3:1](tut04.htm#fr_4.md) See *Annales du Service*,
 Vol. V, 1905, p. 192; *Recueil de Travaux*, Vol. XXIX, 1907, pp.
 162-173.
 
-<span id="fn_5"></span>[10:1](tut04.htm#fr_5) This is a name of Thebes,
+<span id="fn_5"></span>[10:1](tut04.htm#fr_5.md) This is a name of Thebes,
 but it was also applied to the town of Napata, where the great temple of
 Amen-Ra of Nubia was situated.
 
-<span id="fn_6"></span>[10:2](tut04.htm#fr_6) See the drawing published
+<span id="fn_6"></span>[10:2](tut04.htm#fr_6.md) See the drawing published
 by Lepsius, *Denkmäler* III, pl. 116-118.
 
-<span id="fn_7"></span>[12:1](tut04.htm#fr_7) See Davis-Maspero-Daressy,
+<span id="fn_7"></span>[12:1](tut04.htm#fr_7.md) See Davis-Maspero-Daressy,
 *The Tombs of Harmhabi and Touat-ankhamanou*, London, 1912.
 
-<span id="fn_8"></span>[12:2](tut04.htm#fr_8) See Hall, H. R.,
+<span id="fn_8"></span>[12:2](tut04.htm#fr_8.md) See Hall, H. R.,
 *Catalogue of Egyptian Scarabs*, London, 1913, Nos. 1968-1972, pp. 197,
 198.
 
-<span id="fn_9"></span>[13:1](tut04.htm#fr_9) This is the legend as
+<span id="fn_9"></span>[13:1](tut04.htm#fr_9.md) This is the legend as
 printed in Champollion, *Monuments*, tom. II, pl. CXCI *bis* No. 2.
 
-<span id="fn_10"></span>[13:2](tut04.htm#fr_10) For the text see
+<span id="fn_10"></span>[13:2](tut04.htm#fr_10.md) For the text see
 *Keilschrift aus Boghazkoï*, Heft V, No. 6. Rev. III, 11. 7-13.
 
-<span id="fn_11"></span>[13:3](tut04.htm#fr_11) See Dr. F. Hrosny, *Die
+<span id="fn_11"></span>[13:3](tut04.htm#fr_11.md) See Dr. F. Hrosny, *Die
 Lösung des Hethitischen Problems*, in the *Mitteilungen der Deutschen
 Orient-Gesellschaft*, December, 1915, No. 56, p. 36.
 
 ------------------------------------------------------------------------
 
-[Next: Tutankhamen and the Cult of Amen](tut05)
+[Next: Tutankhamen and the Cult of Amen](tut05.md)

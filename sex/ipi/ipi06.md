@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](ipi05)  [Next](ipi07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](ipi05)  [Next](ipi07.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,18 +15,18 @@ this fact. The peculiar primitive form of Mercury, or Hermes, was "a
 large stone, frequently square, and without either hands or feet.
 Sometimes the triangular shape was preferred, sometimes an upright
 pillar, and sometimes a heap of rude stones." <span
-id="fr_53"></span>[54](ipi14.htm#fn_53) The pillars were called by the
+id="fr_53"></span>[54](ipi14.htm#fn_53.md) The pillars were called by the
 Greeks Hermae, and the heaps were known as Hermean heaps--the latter
 being accumulated "by the custom of each passenger throwing a stone to
 the daily increasing mass, in honor of the god. Sometimes the pillar was
 represented with the attributes of Priapus. <span
-id="fr_54"></span>[55](ipi14.htm#fn_54)
+id="fr_54"></span>[55](ipi14.htm#fn_54.md)
 
 The identification of Hermes or Mercury with Priapus is confirmed by the
 offices which the latter deity fulfilled. One of the most important was
 that of protector of gardens and orchards, and probably this was the
 original office performed by Hermes in his character of a "god of the
-country." <span id="fr_55"></span>[56](ipi14.htm#fn_55) Figures set up
+country." <span id="fr_55"></span>[56](ipi14.htm#fn_55.md) Figures set up
 as charms to protect the produce of the ground would, in course of time,
 be used not only for this purpose, but also to mark the boundaries of
 the land protected, and these offices being divided, two deities would
@@ -35,7 +35,7 @@ the Egyptian Khem, and no less, if we may judge from the symbols used in
 his worship, with the Hebrew EIoah. This, in the history of the Hebrew
 patriarchs, we are told that when Jacob entered into a covenant with his
 father-in-law Laban, a pillar was set up, and a heap of stones
-made, <span id="fr_56"></span>[57](ipi14.htm#fn_56) and Laban said to
+made, <span id="fr_56"></span>[57](ipi14.htm#fn_56.md) and Laban said to
 Jacob, "Behold this heap and behold this pillar, which I have cast
 betwixt me and thee; this heap be witness, and this pillar be witness,
 that I will not pass over this heap to thee, and that thou shall not
@@ -49,7 +49,7 @@ idea which it embodies--an idea which is more explicitly shown when the
 Linga and the Yoni are, as is usually the case among the worshippers of
 the Hindu Siva, combined to form the Lingam. The stone figure is not,
 however, itself a god, but only representative of a spirit <span
-id="fr_57"></span>[58](ipi14.htm#fn_57) who is thought to be able to
+id="fr_57"></span>[58](ipi14.htm#fn_57.md) who is thought to be able to
 satisfy the yearning for children so characteristic of many primitive
 peoples this probably having been its original object, and the source of
 its use as an amulet for the protection of children against the
@@ -65,16 +65,16 @@ The Hebrew patriarchs desired large flocks as well as numerous
 descendants, and hence the symbolical pillar was peculiarly fitted for
 their religious rites. It is related even of Abraham, the traditional
 founder of the Hebrew people, that he "planted a grove (eshel) <span
-id="fr_58"></span>[59](ipi14.htm#fn_58) in Beersheba, and called there
+id="fr_58"></span>[59](ipi14.htm#fn_58.md) in Beersheba, and called there
 on the name of Jehovah, the everlasting Elohim." <span
-id="fr_59"></span>[60](ipi14.htm#fn_59) From the phallic character of
+id="fr_59"></span>[60](ipi14.htm#fn_59.md) From the phallic character of
 the "grove" (ashera,) said to have been in the House of Jehovah, and
 from the evident connection between the two words, we must suppose that
 the eshel of Abraham also had a phallic reference. <span
-id="fr_60"></span>[61](ipi14.htm#fn_60) Most probably the so-called
+id="fr_60"></span>[61](ipi14.htm#fn_60.md) Most probably the so-called
 "grove " of the earlier patriarch, though it may have been of wood, and
 the stone "bethel" of Jacob, had the same form, and were simply the
-betylus, <span id="fr_61"></span>[62](ipi14.htm#fn_61) the primitive
+betylus, <span id="fr_61"></span>[62](ipi14.htm#fn_61.md) the primitive
 symbol of deity among all Semitic and many Hamitic peoples.
 
 The participation of the Hebrew patriarchs in the rites connected with
@@ -98,4 +98,4 @@ Arabia.
 
 ------------------------------------------------------------------------
 
-[Next: The Great Religious Movement of Archaic Time](ipi07)
+[Next: The Great Religious Movement of Archaic Time](ipi07.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq21)  [Next](sfq23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq21)  [Next](sfq23.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ On the morning of the third day he slew the dragon.
 
 ------------------------------------------------------------------------
 
-[Next: ''Ease after War''](sfq23)
+[Next: ''Ease after War''](sfq23.md)

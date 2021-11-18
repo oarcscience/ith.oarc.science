@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -67,7 +67,7 @@ The present societary forces are antagonistic to petty class spirit, and
 chivalry is, as Freeman severely criticises, a class spirit. Modem
 society, if it pretends to any unity, cannot admit "purely personal
 obligations devised in the interests of an exclusive class." <span
-id="fr_36"></span>[1](#fn_36) Add to this the progress of popular
+id="fr_36"></span>[1](#fn_36.md) Add to this the progress of popular
 instruction, of industrial arts and habits, of wealth and
 city-life,--then we can easily see that neither the keenest cuts of
 samurai sword nor the sharpest shafts shot from Bushido's boldest bows
@@ -240,7 +240,7 @@ gaze beyond";--then in the beautiful language of the Quaker poet,
 
 ### Footnotes
 
-<span id="fn_36"></span>[184:1](bsd22.htm#fr_36) *Norman Conquest*, vol.
+<span id="fn_36"></span>[184:1](bsd22.htm#fr_36.md) *Norman Conquest*, vol.
 v., p. 482.
 
 "The traveller owns the grateful sense  

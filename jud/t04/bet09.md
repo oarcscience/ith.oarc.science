@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](bet08)  [Next](bet10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](bet08)  [Next](bet10.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -135,7 +135,7 @@ it is yet day.
 "*But with a chopping-knife only*." Said R. Hinna bar Salmia in the name
 of Rabh: It is only with the side of the blade used for chopping wood,
 but with the broad side wherewith one can cleave beams, it is not
-allowed. <span id="fr_25"></span>[1](#fn_25)
+allowed. <span id="fr_25"></span>[1](#fn_25.md)
 
 <span id="page_63">p. 63</span>
 
@@ -174,7 +174,7 @@ so in Tract Kelim).
 The rabbis taught: One must not make a hole in a lump of clay to use it
 as a lamp, nor plates used by rustics (who are not particular about fine
 china, but use them as soon as made, before they have been hollowed out
-and *baked* in fire). <span id="fr_26"></span>[1](#fn_26) R. Simeon b.
+and *baked* in fire). <span id="fr_26"></span>[1](#fn_26.md) R. Simeon b.
 Gamaliel, however, allows it.
 
 "*Neither may charcoal be made*," etc. Is this not self-evident? What
@@ -416,7 +416,7 @@ not be done so, because the Sabbath fixes it for tithe. When Rabbin came
 from Palestine he said, however, in the name of R. Johanan, that
 Sabbath, Heave-offering, a Yard, and Price all do not fix for tithe,
 only in things on which all the labor belonging to them is already
-done. <span id="fr_27"></span>[1](#fn_27)
+done. <span id="fr_27"></span>[1](#fn_27.md)
 
 Sabbath--to state that the law is not after Hillel in the following
 Boraitha: If one transferred fruit from one place to another to cut it,
@@ -451,21 +451,21 @@ yet finished.
 
 ### Footnotes
 
-<span id="fn_25"></span>[62:1](bet09.htm#fr_25) It is difficult to
+<span id="fn_25"></span>[62:1](bet09.htm#fr_25.md) It is difficult to
 understand the argument, as it is not known to us how the chopping-knife
 was made. Even Tospheth remarks because we do not know what kind of a
 chopping-knife it was, therefore it is not allowed to cut wood with any
 knife, only with the hand.
 
-<span id="fn_26"></span>[63:1](bet09.htm#fr_26) The commentators, Rashi
+<span id="fn_26"></span>[63:1](bet09.htm#fr_26.md) The commentators, Rashi
 and Tospheth, also the dictionaries, try to explain this term, but it
 remains obscure.
 
-<span id="fn_27"></span>[69:1](bet09.htm#fr_27) The law of the tithe of
+<span id="fn_27"></span>[69:1](bet09.htm#fr_27.md) The law of the tithe of
 all these will be explained in Tract Maasroth. The meaning of "Price"
 is, that if the grain was sold before it became ripe, it does not fix it
 for tithe.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](bet10)
+[Next: Chapter V](bet10.md)

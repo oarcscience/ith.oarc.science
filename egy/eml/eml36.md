@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml35)  [Next](eml37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml35)  [Next](eml37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -260,7 +260,7 @@ subject king of Mitanni, writing to Amenhotep, declared, when he asked
 for gold "in great quantity" that "in the land of my brother gold is as
 plentiful as dust". The Pharaoh had added to his harem a sister of
 Tushratta's, his Asian cousin, named Gilu-khipa, <span
-id="fr_140"></span>[1](#fn_140) and she arrived with over three hundred
+id="fr_140"></span>[1](#fn_140.md) and she arrived with over three hundred
 ladies and attendants, but she did not displace Queen Tiy.
 
 Much light has been thrown on the relations between Egypt and other
@@ -285,7 +285,7 @@ The last half-dozen years of the life of Amenhotep III were clouded in
 gloom. He was laid aside by some disease--either paralysis or
 insanity--which Tushratta of Mitanni sought to cure by sending on two
 occasions images of the goddess Ishtar. <span
-id="fr_141"></span>[1](#fn_141) Queen Tiy appears to have governed the
+id="fr_141"></span>[1](#fn_141.md) Queen Tiy appears to have governed the
 kingdom in the interval, and it is possible that she inaugurated the
 religious revolt, which became so closely associated with the name of
 her son, to counteract not only the retrogressive tendencies of the
@@ -301,11 +301,11 @@ practical expression to by doctrinal teachings and open persecution.
 
 ### Footnotes
 
-<span id="fn_140"></span>[323:1](eml36.htm#fr_140) Her father was King
+<span id="fn_140"></span>[323:1](eml36.htm#fr_140.md) Her father was King
 Sutarna, whose sister was the wife of Thothmes IV. Sutarna's father was
 Artatama I, a contemporary of Thothmes III.
 
-<span id="fn_141"></span>[324:1](eml36.htm#fr_141) The goddess of
+<span id="fn_141"></span>[324:1](eml36.htm#fr_141.md) The goddess of
 Nineveh. Tushratta must therefore have held sway over part of Assyria.
 The Mitanni King Saushatar, great-grandfather of Tushratta, captured and
 plundered Ashur.
@@ -314,6 +314,6 @@ plundered Ashur.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI: The Religious Revolt of the Poet King](eml37)
+[Next: Chapter XXVI: The Religious Revolt of the Poet King](eml37.md)
 
 </div>

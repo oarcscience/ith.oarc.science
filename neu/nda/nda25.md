@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda24)  [Next](nda26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda24)  [Next](nda26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -29,9 +29,9 @@ was a great merchant, he had a merchant ship, but Thorolf Eyrar Loptson
 had another, that time they fought against Gyrd, son of Sigvald Jarl;
 then lost Gyrd his eye. It happened in the last years of the reign of
 King Olaf the Saint, that Gudleif undertook a trading voyage to
-Dublin; <span id="fr_46"></span>[1](#fn_46) but when he sailed from the
+Dublin; <span id="fr_46"></span>[1](#fn_46.md) but when he sailed from the
 west, intended he to sail to Iceland; he sailed then from the west of
-Ireland, <span id="fr_47"></span>[2](#fn_47) and met with north-east
+Ireland, <span id="fr_47"></span>[2](#fn_47.md) and met with north-east
 winds, and was driven far to the west, and south-west, in the sea, where
 no land was to be seen. But it was already far gone in the summer, and
 they
@@ -44,7 +44,7 @@ land it was. Then took they the resolve to sail to the land, for they
 were weary of contending longer with the violence of the sea. They found
 there a good harbour; and when they had been a short time on shore, came
 people to them: they knew none of the people, *but it rather appeared to
-them that they spoke Irish*. <span id="fr_48"></span>[1](#fn_48) Soon
+them that they spoke Irish*. <span id="fr_48"></span>[1](#fn_48.md) Soon
 came to them so great a number that it made up many hundreds. These men
 fell upon them and seized them all, and bound them, and drove them up
 the country. There were they brought before an assembly, to be judged.
@@ -446,7 +446,7 @@ memorable lines:--
 
 By him defended, when the neighbouring hosts  
 Of warlike nations spread along our coasts;  
-When Scots <span id="fr_49"></span>[1](#fn_49) came thundering from the
+When Scots <span id="fr_49"></span>[1](#fn_49.md) came thundering from the
 Irish shores,  
 And the wide ocean foamed from hostile oars.  
                                    De Laudab, Stil. Lib. 2.
@@ -504,7 +504,7 @@ Promontory, as they had done for centuries before."
 That Ireland must have been included amongst the Cassiterides which are
 known to have been visited by the Phœnicians, before the Gallic invasion
 of Britain, seems to be admitted by all unprejudiced writers upon this
-subject, <span id="fr_50"></span>[1](#fn_50) and that the mystery, in
+subject, <span id="fr_50"></span>[1](#fn_50.md) and that the mystery, in
 which these wily traders sought to conceal their commercial monopoly,
 has led to the obscurity in which the records of their voyages is
 involved. That the nautical knowledge and equipments of the Celtic
@@ -541,7 +541,7 @@ according to Ptolemy, was formerly called *Little Britain*, therefore
 when Caesar speaks of the Gauls repairing to Britain in order to become
 instructed in the mysteries of Druidism, the term may have been intended
 as a general expression for the British isles. <span
-id="fr_51"></span>[1](#fn_51)
+id="fr_51"></span>[1](#fn_51.md)
 
 <span id="page_290">p. 290</span>
 
@@ -627,7 +627,7 @@ the Picts, Columbanus to the French, Callus to the Swiss, and the
 brothers Ultan and Foilan to the Belgians,--when Virgilius, the Apostle
 of Carinthia, astounded the German bishops with his superior knowledge
 of cosmography and science--not one authentic written record now
-remains. <span id="fr_52"></span>[1](#fn_52)
+remains. <span id="fr_52"></span>[1](#fn_52.md)
 
 Invasion from without, and internal dissension from within, have swept
 away all written testimonies of a time, when the intellectual and
@@ -639,12 +639,12 @@ matter of surprise that the records of earlier history should
 <span id="page_293">p. 293</span>
 
 have been lost amid the ravages of such general devastation. <span
-id="fr_53"></span>[1](#fn_53)
+id="fr_53"></span>[1](#fn_53.md)
 
 But further examination of Icelandic Annals may possibly throw more
 light upon this interesting question, and tend to unravel the mystery in
 which the original inhabitants of America are involved. Lord
-Kingsborough's splendid publication <span id="fr_54"></span>[2](#fn_54)
+Kingsborough's splendid publication <span id="fr_54"></span>[2](#fn_54.md)
 in 1829 first brought to the notice of the British public the striking
 similitude between Mexican and Egyptian monuments; the ruins of
 Palenque, Guatemala and Yucatan, the former rivalling the pyramids of
@@ -664,7 +664,7 @@ nineteenth?--The
 name of Vinland was, doubtless, known to Torfæus; and Wormskiold, Malte
 Brun and others, following the erroneous calculation which he had made
 of its locality, fixed it in a latitude with which the physical features
-of the country did not correspond: <span id="fr_55"></span>[1](#fn_55)
+of the country did not correspond: <span id="fr_55"></span>[1](#fn_55.md)
 hence the whole statement in the Sagas was long looked upon as
 fictitious; but the more accurate recent investigations of Danish
 archaeologists have set the question at rest, and the discovery of
@@ -686,14 +686,14 @@ those sacred records which offer peace and immortality to man.
 
 ### Footnotes
 
-<span id="fn_46"></span>[272:1](nda25.htm#fr_46) Some of the MSS. add
+<span id="fn_46"></span>[272:1](nda25.htm#fr_46.md) Some of the MSS. add
 "*vestr*," shewing that Ireland was spoken of as lying westwards from
 Iceland.
 
-<span id="fn_47"></span>[272:2](nda25.htm#fr_47) Probably Limerick,
+<span id="fn_47"></span>[272:2](nda25.htm#fr_47.md) Probably Limerick,
 which was much frequented by the Northmen.
 
-<span id="fn_48"></span>[273:1](nda25.htm#fr_48) This is a very
+<span id="fn_48"></span>[273:1](nda25.htm#fr_48.md) This is a very
 remarkable passage, and affords the strongest grounds for believing that
 the country to which they were driven had been previously colonized from
 Ireland. The Northmen, from their intercourse with the Irish ports,
@@ -701,7 +701,7 @@ might be supposed to have had just sufficient knowledge of the language
 to detect its sounds (here probably corrupted), and understand the
 general meaning of the words.
 
-<span id="fn_49"></span>[286:1](nda25.htm#fr_49) The Irish are supposed
+<span id="fn_49"></span>[286:1](nda25.htm#fr_49.md) The Irish are supposed
 to have obtained the name of Scots or Scoti from the Scotic or Scythic
 origin of the Spanish settlers under the sons of Milesius, whose
 invasion Moore places "about a century or two" before the Christian era;
@@ -713,13 +713,13 @@ inventor of letters, and ancestor of Milesius, in proof of which is
 given a quotation from an Irish poem of the 9th century, entitled, Canam
 bunadhas na Nagaoidheal, or "Let us rehearse the origin of the Irish."
 
-<span id="fn_50"></span>[288:1](nda25.htm#fr_50) "We may therefore
+<span id="fn_50"></span>[288:1](nda25.htm#fr_50.md) "We may therefore
 admit, without much chance of error, that the Cassiterides visited by
 the Phœnicians, were the British *islands*, though the Romans understood
 by the name the islands of Scilly, with perhaps, part of the coast of
 Cornwall."
 
-<span id="fn_51"></span>[289:1](nda25.htm#fr_51) It should be
+<span id="fn_51"></span>[289:1](nda25.htm#fr_51.md) It should be
 recollected that Cæsar merely mentions the origin of the Druids as
 traditionary: "Disciplinam *existimatur* reperta esse in Britannia," &c.
 Ibid. Sharon Turner would appear to lean to the opinion of Druidism
@@ -735,14 +735,14 @@ parts of Druidism to the foreign visitors *who are known* to have
 cultivated such subjects, than to suppose them to have originated from
 the rude unassisted natives."
 
-<span id="fn_52"></span>[292:1](nda25.htm#fr_52) This point Is ably
+<span id="fn_52"></span>[292:1](nda25.htm#fr_52.md) This point Is ably
 handled by Mr. Moore, who shews that the arguments against ancient Irish
 history, founded upon the non-existence of any authentic MSS. prior to
 the 9th century (Psalter of Cashel), applies with much greater force to
 the comparatively modern periods above mentioned, the records of which
 are never questioned. Hist. Ir. Vol. I., p. 308.
 
-<span id="fn_53"></span>[293:1](nda25.htm#fr_53) O'Halloran charges the
+<span id="fn_53"></span>[293:1](nda25.htm#fr_53.md) O'Halloran charges the
 English Government with a wholesale destruction of Irish MSS. previous
 to the reign of James I,:--
 
@@ -765,19 +765,19 @@ in order the more fully to eradicate from their minds every trace of
 their ancient independence." Moore's Hist. of Ireland, V. I. p. 309,
 note.
 
-<span id="fn_54"></span>[293:2](nda25.htm#fr_54) "Mexican Antiquities,"
+<span id="fn_54"></span>[293:2](nda25.htm#fr_54.md) "Mexican Antiquities,"
 a work upon which this lamented nobleman expended (at least) £30,000 and
 the best years of his life, but the circulation of which, from the small
 number of copies printed, and the inaccessible price (£150) to the
 majority of the reading public, was necessarily very limited.
 
-<span id="fn_55"></span>[294:1](nda25.htm#fr_55) Torfæus, in consequence
+<span id="fn_55"></span>[294:1](nda25.htm#fr_55.md) Torfæus, in consequence
 of an erroneous interpretation of the passage, pp.
-[64](nda07.htm#page_64), [65](nda07.htm#page_65), in the Saga of Erik
+[64](nda07.htm#page_64), [65](nda07.htm#page_65.md), in the Saga of Erik
 the Red, relating to the length of the day, which he took to be eight
 hours instead of nine, fixed the latitude of Vinland at 49 degrees,
 being that of Newfoundland.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Norumbega](nda26)
+[Next: Chapter I. Norumbega](nda26.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc15)  [Next](ogc17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc15)  [Next](ogc17.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ mentioned are none of them corporeal.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7](ogc17)
+[Next: Chapter 7](ogc17.md)

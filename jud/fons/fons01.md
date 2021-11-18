@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](fons00)  [Next](fons02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](fons00)  [Next](fons02.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,4 +193,4 @@ Manhattan College
 
 ------------------------------------------------------------------------
 
-[Next: Part I](fons02)
+[Next: Part I](fons02.md)

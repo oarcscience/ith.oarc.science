@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis52)  [Next](kis54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis52)  [Next](kis54.md) 
 
 ------------------------------------------------------------------------
 
@@ -164,4 +164,4 @@ journey.
 
 ------------------------------------------------------------------------
 
-[Next: Part V](kis54)
+[Next: Part V](kis54.md)

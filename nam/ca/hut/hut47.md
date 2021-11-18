@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut46)  [Next](hut48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut46)  [Next](hut48.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XLIV.
 
-### Formula of Medicine for Making Baskets. <span id="fr_93"></span>[1](#fn_93)
+### Formula of Medicine for Making Baskets. <span id="fr_93"></span>[1](#fn_93.md)
 
  
 
@@ -23,7 +23,7 @@ A Kīxûnai maiden did this at Isdiname (the south head, at the entrance
 of Humboldt Bay). She used to go down to the water every morning and sit
 on the beach facing the west with her legs half under water. One time as
 she was sitting there making baskets the wind blew gently from the
-north. [She always sang](#img_32400) as she made baskets. The wind,
+north. [She always sang](#img_32400.md) as she made baskets. The wind,
 which blew gently at first, increased in violence until it blew very
 hard. Suddenly a gust came along and blew the basket from her hands. She
 saw where the wind had blown it into the water, far to the south. She
@@ -60,7 +60,7 @@ Isdiname. Loan me your medicine.
 
 ### Footnotes
 
-<span id="fn_93"></span>[324:1](hut47.htm#fr_93) Told at Hupa, October
+<span id="fn_93"></span>[324:1](hut47.htm#fr_93.md) Told at Hupa, October
 1902, by Emma Dusky (Tasentce), the wife of Henry Frank. She is about 40
 years of age and very conservative. She surpasses all other Hupa women
 in basket-making.
@@ -68,4 +68,4 @@ in basket-making.
 ------------------------------------------------------------------------
 
 [Next: XLV. Formula of Medicine for Wounds Made by Flint
-Arrowheads](hut48)
+Arrowheads](hut48.md)

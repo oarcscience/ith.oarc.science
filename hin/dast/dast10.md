@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](dast09)  [Next](dast11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](dast09)  [Next](dast11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dakshinamurti Stotra*, translated by Alladi Mahadeva Sastri, \[1920\],
 at Intangible Textual Heritage
 
@@ -60,7 +60,7 @@ Now, there is a school of Buddhists which maintains that the external
 world exists as well as the internal world: that the objective existence
 is as real as the subjective. They hold that the subjective existence is
 made up of five skandhas or "forms of mundane
-[consciousness](errata.htm#16)." Their doctrine is stated as follows:
+[consciousness](errata.htm#16.md)." Their doctrine is stated as follows:
 
 Earth, water, fire, and air are mere aggregates of paramânus or atoms.
 
@@ -99,7 +99,7 @@ a composite whole.
 
 <span class="small">The *name* of the cow is 'cow'; the specific
 attributes of a cow abiding in all cows constitutes the *species:*
-whiteness, etc., are the [*qualities*](errata.htm#17) of the cow; going,
+whiteness, etc., are the [*qualities*](errata.htm#17.md) of the cow; going,
 etc., are her *acts;* the horned animal, the four-footed animal, the
 tailed animal,—each of these is an idea of a *composite whole*. Thus
 five-fold is the Samjna-skandha said to be.</span>
@@ -110,7 +110,7 @@ comprise the *Samskára-skandha*, the bundle of tendencies.
 <span id="page_119">p. 119</span>
 
 <span class="contnote">\[paragraph continues\]</span> Pleasure, pain,
-and moksha [constitute](errata.htm#18) the *Vedanâ-skandha*.
+and moksha [constitute](errata.htm#18.md) the *Vedanâ-skandha*.
 
 <span class="small">*Moksha* is a continuous stream of pure states of
 consciousness, unmixed with alien ideas such as those of sense-objects.
@@ -223,7 +223,7 @@ elaborates the skandhas and paramânus.
 A pot, a cloth, and the like are inert.
 
 <span class="small">They are insentient and cannot, therefore, combine
-together by [themselves](errata.htm#19). Thread, for instance, cannot,
+together by [themselves](errata.htm#19.md). Thread, for instance, cannot,
 by itself, form a cloth without a weaver handling it. Further, the
 theory that the Ego is momentary leads to many absurdities.</span>
 
@@ -273,7 +273,7 @@ different moments.</span>
 voice. Being self-luminous, Atman knows Himself by Himself.
 
 <span class="small">The expression "Atman is recognised." is in the
-reflexive [passive](errata.htm#20) voice, and it is equivalent to "Atman
+reflexive [passive](errata.htm#20.md) voice, and it is equivalent to "Atman
 recognises Himself" in the active voice. Thus, the expression does not
 mean that Atman is perceived by another and so forms an object of
 consciousness like external objects. The use of the given expression
@@ -355,4 +355,4 @@ Dakshinâmûrti.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Atman, the Eternal Light](dast11)
+[Next: Chapter VII. Atman, the Eternal Light](dast11.md)

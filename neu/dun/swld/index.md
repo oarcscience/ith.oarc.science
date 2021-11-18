@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T2IE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T2IE/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T2IE/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](swld00)    [Text
-\[Zipped\]](swld.txt.gz)
+[Contents](#contents)    [Start Reading](swld00.md)    [Text
+\[Zipped\]](swld.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -39,22 +39,22 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T2IE/internetsacredte)
 |---------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
-<span id="contents"></span> [Title Page](swld00)  
-[Contents](swld01)  
-[Introduction](swld02)  
+<span id="contents"></span> [Title Page](swld00.md)  
+[Contents](swld01.md)  
+[Introduction](swld02.md)  
 <span id="section_000"></span>
 
 ### The Gods of the Mountain
 
-[Act I](swld03)  
-[Act II](swld04)  
-[Act III](swld05)  
+[Act I](swld03.md)  
+[Act II](swld04.md)  
+[Act III](swld05.md)  
 
  
 
-[The First Act of King Argimenes and the Unknown Warrior](swld06)  
-[The Fall of Babbulkund](swld07)  
-[The Sphinx at Gizeh](swld08)  
-[Idle Days on the Yann](swld09)  
-[A Miracle](swld10)  
-[The Castle of Time](swld11)  
+[The First Act of King Argimenes and the Unknown Warrior](swld06.md)  
+[The Fall of Babbulkund](swld07.md)  
+[The Sphinx at Gizeh](swld08.md)  
+[Idle Days on the Yann](swld09.md)  
+[A Miracle](swld10.md)  
+[The Castle of Time](swld11.md)  

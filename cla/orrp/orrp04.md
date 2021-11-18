@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp03)  [Next](orrp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp03)  [Next](orrp05.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ PARIS, FRANCE, February, 1909.
 
 ------------------------------------------------------------------------
 
-[Next: I. Rome and the Orient](orrp05)
+[Next: I. Rome and the Orient](orrp05.md)

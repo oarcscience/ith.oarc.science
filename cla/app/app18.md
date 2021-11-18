@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app17)  [Next](app19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app17)  [Next](app19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ our foremost need—it is no outrage to drink as much as will enable you
 to reach home without a guide, unless you are very old. But the man whom
 one must praise is he who after drinking expresses thoughts that are
 noble, as well as his memory (*and his endeavour*) <span
-id="fr_6"></span>[1](#fn_6) concerning virtue allows, not treating of
+id="fr_6"></span>[1](#fn_6.md) concerning virtue allows, not treating of
 the battles of the Titans or of the Giants, figments of our
 predecessors, nor of violent civil war, in which tales there is nothing
 useful; but always to have respect for the gods, that is good.
@@ -211,9 +211,9 @@ far sweeter.
 
 ### Footnotes
 
-<span id="fn_6"></span>[20:1](app18.htm#fr_6) τόνος (Diels), an unlikely
+<span id="fn_6"></span>[20:1](app18.htm#fr_6) τόνος (Diels.md), an unlikely
 emendation.
 
 ------------------------------------------------------------------------
 
-[Next: 22. Hêracleitus of Ephesus](app19)
+[Next: 22. Hêracleitus of Ephesus](app19.md)

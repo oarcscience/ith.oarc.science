@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo24)  [Next](lboo26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo24)  [Next](lboo26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ aptius ut fuerit precibus temptasse, rogamus,<br />
 ------------------------------------------------------------------------
 
 [Next: Elegy IV: He Confesses His Inclination For Love And His
-Admiration For All Manner Of Women.](lboo26)
+Admiration For All Manner Of Women.](lboo26.md)

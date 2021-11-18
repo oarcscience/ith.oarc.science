@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flo10)  [Next](flo12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flo10)  [Next](flo12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859581994/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859581994/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folklore and Legends: Oriental*, by Charles John Tibbitts, \[1889\], at
 Intangible Textual Heritage
 
@@ -155,7 +155,7 @@ asked, 'What are you two doing here? Whence come you?' The maiden
 answered, 'I come from an eastern country, and am the daughter of a
 Chan. This buffalo accompanies me.' At these words these others replied,
 'We are the seven brethren of a Chan, and have no wife. Wilt thou be our
-wife?' <span id="fr_0"></span>[1](#fn_0) The maiden answered, 'So be
+wife?' <span id="fr_0"></span>[1](#fn_0.md) The maiden answered, 'So be
 it.' But the maiden and the buffalo were two Mangusch (a species of evil
 spirit like the Schumnu), and were seeking out men whom they might
 devour. The male Mangusch was a buffalo, and the female, she who became
@@ -330,10 +330,10 @@ Swine.
 
 ### Footnotes
 
-<span id="fn_0"></span>[82:1](flo11.htm#fr_0) It is in accordance with
+<span id="fn_0"></span>[82:1](flo11.htm#fr_0.md) It is in accordance with
 the customs of Thibet for a woman of that country to have several
 husbands.
 
 ------------------------------------------------------------------------
 
-[Next: The History of Sunshine and His Brother](flo12)
+[Next: The History of Sunshine and His Brother](flo12.md)

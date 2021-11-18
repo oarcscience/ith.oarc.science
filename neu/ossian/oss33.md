@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss32)  [Next](oss34) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss32)  [Next](oss34.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ Aldo of the little soul has dishonored my name in Sora? Go to thy hills,
 thou feeble hand! Go: hide thee in thy caves. Mournful is the battle we
 must fight with Sora's gloomy king. Spirit of the noble Trenmor! when
 will Fingal cease to fight? I was born in the midst of battles,  <span
-id="fr_93"></span>[1](#fn_93) and my steps must move in blood to the
+id="fr_93"></span>[1](#fn_93.md) and my steps must move in blood to the
 tomb. But my hand did not injure the weak, my steel did not touch the
 feeble in arms. I behold thy tempests, O Morven! which will overturn my
 halls! when my children are dead in battle, and none remains to dwell in
@@ -141,12 +141,12 @@ distant lands; a hundred hawks with fluttering
 <span id="page_395">p. 395</span>
 
 wing, that fly across the sky. A hundred girdles  <span
-id="fr_94"></span>[1](#fn_94) shall also be thine, to bind high-bosomed
+id="fr_94"></span>[1](#fn_94.md) shall also be thine, to bind high-bosomed
 maids. The friends of the births of heroes. The cure of the sons of
 toil. Ten shells, studded with gems, shall shine in Sora's towers: the
 bright water trembles on their stars, and seems to be sparkling wine.
 They gladdened once the kings of the world,  <span
-id="fr_95"></span>[2](#fn_95) in the midst of their echoing halls.
+id="fr_95"></span>[2](#fn_95.md) in the midst of their echoing halls.
 These, O hero! shall be thine; or thy white bosomed spouse. Lorma shall
 roll her bright eyes in thy halls; though Fingal loves the generous
 Aldo: Fingal, who never injured a hero, though his arm is strong!"
@@ -258,12 +258,12 @@ thou see her lovely; but the tear is still on her cheek!
 
 ### Footnotes
 
-<span id="fn_93"></span>[393:1](oss33.htm#fr_93) Comhal, the Father of
+<span id="fn_93"></span>[393:1](oss33.htm#fr_93.md) Comhal, the Father of
 Fingal, was slain in battle, against the tribe of Morni, the very day
 that Fingal was born; so that he may with propriety, be said to have
 been "born in the midst of battles."
 
-<span id="fn_94"></span>[395:1](oss33.htm#fr_94) Sanctified girdles,
+<span id="fn_94"></span>[395:1](oss33.htm#fr_94.md) Sanctified girdles,
 till very lately were kept in many families in the north of Scotland;
 they were bound about women in labor, and were supposed to alleviate
 their pains, and to accelerate the birth. They were impressed with
@@ -271,9 +271,9 @@ several mystical figures, and the ceremony of binding them about the
 woman's waist, was accompanied with words and gestures, which showed the
 custom to have come originally from the Druids.
 
-<span id="fn_95"></span>[395:2](oss33.htm#fr_95) The kings of the world:
+<span id="fn_95"></span>[395:2](oss33.htm#fr_95.md) The kings of the world:
 the Roman emperors.
 
 ------------------------------------------------------------------------
 
-[Next: Book I](oss34)
+[Next: Book I](oss34.md)

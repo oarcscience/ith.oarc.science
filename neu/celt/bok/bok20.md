@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bok19)  [Next](bok21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bok19)  [Next](bok21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Kells*, by Edward Sullivan, \[1920\], at Intangible Textual
 Heritage
 
@@ -21,7 +21,7 @@ THE GENEALOGY—*continued*. FOL. 200 V.
 
 <span id="img_pl16"></span> <span align="CENTER"> [![Plate
 XVI](tn/pl16.jpg)  
-Click to enlarge](img/pl16.jpg)  
+Click to enlarge](img/pl16.jpg.md)  
 Plate XVI  
 </span>
 
@@ -55,6 +55,6 @@ second "QUI FUIT."
 
 ------------------------------------------------------------------------
 
-[Next: Plate XVII. The Genealogy—continued. Fol. 201 R](bok21)
+[Next: Plate XVII. The Genealogy—continued. Fol. 201 R](bok21.md)
 
 </div>

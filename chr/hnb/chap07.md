@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap06)  [Next](chap08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap06)  [Next](chap08.md) 
 
 ------------------------------------------------------------------------
 
@@ -779,4 +779,4 @@ element of contrast that belongs most particularly to great drama.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Prophet Elisha](chap08)
+[Next: VIII. The Prophet Elisha](chap08.md)

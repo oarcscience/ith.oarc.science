@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale24)  [Next](tale26) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale24)  [Next](tale26.md) 
 
 ------------------------------------------------------------------------
 
@@ -248,4 +248,4 @@ Consider, therefore, what a trick this woman played off upon the folk!
 
   And I have heard tell also a tale of  
 
-(*Next*) [KHALIFAH THE FISHERMAN OF BAGHDAD](tale26)  
+(*Next*) [KHALIFAH THE FISHERMAN OF BAGHDAD](tale26.md)  

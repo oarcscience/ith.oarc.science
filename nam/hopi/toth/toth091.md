@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth090)  [Next](toth092) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth090)  [Next](toth092.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 88. THE BADGER AND THE SMALL GRAY MICE. <span id="fr_167"></span>[1](#fn_165)
+## 88. THE BADGER AND THE SMALL GRAY MICE. <span id="fr_167"></span>[1](#fn_165.md)
 
 A long time ago a Badger lived north of the village of Oraíbi. He was a
 doctor and the people used to go to him seeking aid and cure for their
@@ -169,9 +169,9 @@ to take care of any sick.
 
 ### Footnotes
 
-<span id="fn_165"></span>[224:1](toth091.htm#fr_167) Told by Qöyáwaima
+<span id="fn_165"></span>[224:1](toth091.htm#fr_167.md) Told by Qöyáwaima
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 89. The Badger and the Small Gray Mice](toth092)
+[Next: 89. The Badger and the Small Gray Mice](toth092.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd11)  [Next](htd13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd11)  [Next](htd13.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,14 +62,14 @@ exclaiming: O King, protect her who comes
 
 <span id="page_48">p. 48</span>
 
-to thee for refuge <span id="fr_29"></span>[q](#fn_29). And in his
+to thee for refuge <span id="fr_29"></span>[q](#fn_29.md). And in his
 delight, the King exclaimed: O King of bees, come thou to me, and in
 return for the favour thou hast done me, I will serve thee with honey in
 lotus cups all day. But in the meanwhile the bee flew away. And
 Madhupamanjarí started back in confusion, and said: O King, my mistress
 is brave, and not afraid of bees. Then the King said, with emphasis: Out
 upon all women, that do not fear bees! But, O Bee Blossom <span
-id="fr_30"></span>[r](#fn_30), surely this bee is to be excused, if he
+id="fr_30"></span>[r](#fn_30.md), surely this bee is to be excused, if he
 mistook thy lips for a flower.
 
 Then she said: O King, this unmannerly bee has disgraced me in thine
@@ -92,13 +92,13 @@ flower, and intoxicated with delight.
 
 ### Footnotes
 
-<span id="fn_29"></span>[48:q](htd12.htm#fr_29) This is a formula. The
+<span id="fn_29"></span>[48:q](htd12.htm#fr_29.md) This is a formula. The
 special business of kings was like that of the knight in the Middle
 Ages, to protect the distressed (*sharanágata*).
 
-<span id="fn_30"></span>[48:r](htd12.htm#fr_30) He plays upon her name:
-see n. [p. 23](htd06.htm#page_23).
+<span id="fn_30"></span>[48:r](htd12.htm#fr_30.md) He plays upon her name:
+see n. [p. 23](htd06.htm#page_23.md).
 
 ------------------------------------------------------------------------
 
-[Next: Amaranth](htd13)
+[Next: Amaranth](htd13.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep08)  [Next](nep10) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep08)  [Next](nep10.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ I pray the Lord my soul to take.
 
 ------------------------------------------------------------------------
 
-[Next: Agur's Prayer](nep10)
+[Next: Agur's Prayer](nep10.md)

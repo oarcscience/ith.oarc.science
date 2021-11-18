@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg23)  [Next](btg25) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg23)  [Next](btg25.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ dwell in their minds."
 
 ------------------------------------------------------------------------
 
-[Next: The Sermon On Charity](btg25)
+[Next: The Sermon On Charity](btg25.md)

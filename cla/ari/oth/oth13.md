@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth12)  [Next](oth14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth12)  [Next](oth14.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ divine nature. But of this enough for the present.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](oth14)
+[Next: Chapter 2](oth14.md)

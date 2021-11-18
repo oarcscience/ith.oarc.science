@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip20)  [Next](fip22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip20)  [Next](fip22.md) 
 
 ------------------------------------------------------------------------
 
@@ -325,7 +325,7 @@ wall.
 
 "Well, Jack, how do you like my *curiosities*?" said old Coo.
 
-"Upon my *sowkins*, <span id="fr_7"></span>[1](#fn_7) sir," said Jack,
+"Upon my *sowkins*, <span id="fr_7"></span>[1](#fn_7.md) sir," said Jack,
 "they're mighty well worth the looking at; but might I make so bold as
 to ask what these things like lobster-pots are?"
 
@@ -362,7 +362,7 @@ getting late, and as Biddy might be uneasy, he stood up, and said he
 thought it was time for him to be on the road.
 
 "Just as you like, Jack," said Coo, "but take a *duc an durrus* <span
-id="fr_8"></span>[1](#fn_8) before you go; you've a cold journey before
+id="fr_8"></span>[1](#fn_8.md) before you go; you've a cold journey before
 you."
 
 Jack knew better manners than to refuse the parting glass.
@@ -511,7 +511,7 @@ But, meanwhile, there was fine work at home; for our
 friend Jack had hardly left the house on his soul-freeing expedition,
 when back came Biddy from her soul-saving one to the well. When she
 entered the house and saw the things lying *thrie-na-helah* <span
-id="fr_9"></span>[1](#fn_9) on the table before her--"Here's a pretty
+id="fr_9"></span>[1](#fn_9.md) on the table before her--"Here's a pretty
 job!" said she; "that blackguard of mine--what ill-luck I had ever to
 marry him! He has picked up some vagabond or other, while I was praying
 for the good of his soul, and they've been drinking all the *poteen*
@@ -563,15 +563,15 @@ died, or had removed from that part of the country.
 
 ### Footnotes
 
-<span id="fn_7"></span>[69:1](fip21.htm#fr_7) Sowkins, diminutive of
+<span id="fn_7"></span>[69:1](fip21.htm#fr_7.md) Sowkins, diminutive of
 soul.
 
-<span id="fn_8"></span>[70:1](fip21.htm#fr_8) *Recte, deoch án
+<span id="fn_8"></span>[70:1](fip21.htm#fr_8.md) *Recte, deoch án
 dorrus*--door-drink or stirrup-cup.
 
-<span id="fn_9"></span>[74:1](fip21.htm#fr_9) *Tri-na-cheile, literally
+<span id="fn_9"></span>[74:1](fip21.htm#fr_9.md) *Tri-na-cheile, literally
 through other*--*i.e.*, higgledy-piggledy.
 
 ------------------------------------------------------------------------
 
-[Next: Flory Cantillon's Funeral, by T. Crofton Croker](fip22)
+[Next: Flory Cantillon's Funeral, by T. Crofton Croker](fip22.md)

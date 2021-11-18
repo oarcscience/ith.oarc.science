@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv00)  [Next](rsv02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv00)  [Next](rsv02.md) 
 
 ------------------------------------------------------------------------
 
@@ -343,4 +343,4 @@ APPENDIX B: Guidelines For Understanding</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Letter of transmittal](rsv02)
+[Next: Letter of transmittal](rsv02.md)

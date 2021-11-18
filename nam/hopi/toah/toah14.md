@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah13)  [Next](toah15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah13)  [Next](toah15.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,14 +12,14 @@ American](../../index)  [Hopi](../index)  [Index](index) 
 ### HOW SOME HOPIS RESISTED SENDING THEIR CHILDREN TO SCHOOL AND THE TROUBLE THAT RESULTED
 
 OUT this time the agency was established at Keams
-Canyon [34](toah24.htm#xref_34) and of course the Hopis knew that this
+Canyon [34](toah24.htm#xref_34.md) and of course the Hopis knew that this
 meant peace. So all the chiefs from every village went there and told
 the white man that they were his friends and brothers and they told him
 that they would like to be protected by him from all their other
 enemies. For this reason they thought the agent ought to settle all
 their troubles which they had been having right along.
 
-Later, a school was established there [35](toah24.htm#xref_35) and all
+Later, a school was established there [35](toah24.htm#xref_35.md) and all
 the Hopis were willing to send their children to school. Everything was
 going all right until they had an initiation ceremony (*Wuwuchime*) at
 Shung-opovi and the young men at old Shung-opovi and Shipaulovi were to
@@ -36,7 +36,7 @@ But the chief just flatly refused.
 
 So the policeman said that they would take the chief instead. He said he
 would be willing to go with them after he had seen his friend, the
-missionary. [36](toah24.htm#xref_36) So he went off and as he was
+missionary. [36](toah24.htm#xref_36.md) So he went off and as he was
 leaving, he asked the policeman to stay on top of the mesa and wait for
 him until he came back.
 
@@ -47,7 +47,7 @@ hold of him and dragged him off the mesa, so he did not get to see the
 chief at Mishongnovi either. He intended that they would both go down to
 the mission to see what information they could get from the missionary.
 In both villages there was much excitement and all the people were on
-the [housetops](errata.htm#2) as they
+the [housetops](errata.htm#2.md) as they
 
 <span id="page_61">p. 61</span>
 
@@ -85,7 +85,7 @@ This was about 1888 or 1889. Every once in a while the agent would send
 out the policemen. If they were expecting them, the parents would have
 to go out early with their children to the hiding places under the
 cliffs. Not finding any children, the policemen would go
-back. [37](toah24.htm#xref_37)
+back. [37](toah24.htm#xref_37.md)
 
 Finally the policemen thought of the scheme of coming into the villages
 at night. In that way they got quite a few children and they took them
@@ -129,7 +129,7 @@ idea of being a hostile was just the idea of preventing the people from
 having these things. Finally it got so there were very few hostiles left
 at Shipaulovi and Mishongnovi, but there were quite a number at
 Shung-opovi, so the ones at Shipaulovi moved over to Shung-opovi. This
-move occurred in 1899. [38](toah24.htm#xref_38)
+move occurred in 1899. [38](toah24.htm#xref_38.md)
 
 <span id="img_06200"></span> ![](img/06200.jpg)
 
@@ -137,4 +137,4 @@ move occurred in 1899. [38](toah24.htm#xref_38)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. How Hotevilla And Bakabi Were Founded](toah15)
+[Next: Chapter XIII. How Hotevilla And Bakabi Were Founded](toah15.md)

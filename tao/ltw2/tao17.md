@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao17)   
-[Previous](tao16)  [Next](tao18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao17.md)   
+[Previous](tao16)  [Next](tao18.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ of his admiration.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 18](tao18)
+[Next: Chapter 18](tao18.md)

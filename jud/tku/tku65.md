@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku64)  [Next](tku66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku64)  [Next](tku66.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Brain, proceed long locks upon locks (*of hair*).
 <span id="page_307">p. 307</span>
 
 474\. And all adhere unto and are bound together with those locks <span
-id="fr_275"></span>[1](#fn_272) which have their connection with the
+id="fr_275"></span>[1](#fn_272.md) which have their connection with the
 Father.
 
 475\. And because (these locks are) mutually intermingled with each
@@ -49,7 +49,7 @@ Tetragrammaton, Thine ear, and hear!"
 
 480\. Hence is the meaning of this passage, which is elsewhere given:
 "If any man wisheth the King to incline His ear unto him, let him
-raise <span id="fr_276"></span>[2](#fn_273) the head of the King and
+raise <span id="fr_276"></span>[2](#fn_273.md) the head of the King and
 remove the hair from above the ears; then shall the King hear him in all
 things whatsoever he desireth."
 
@@ -116,11 +116,11 @@ of thy feet."
 
 ### Footnotes
 
-<span id="fn_272"></span>[307:1](tku65.htm#fr_275) That is, the locks
+<span id="fn_272"></span>[307:1](tku65.htm#fr_275.md) That is, the locks
 which have their origin in the influence of the Great Mother am
 interwoven mutually with those which originate from Chokmah.
 
-<span id="fn_273"></span>[307:2](tku65.htm#fr_276) Meaning, let him
+<span id="fn_273"></span>[307:2](tku65.htm#fr_276.md) Meaning, let him
 supplicate Macroprosopus, developed in the forms of Chokmah and Binah,
 which are summed up in Aima the Great Mother, to incline Microprosopus
 to be favourable. This is identical with the Catholic custom of invoking
@@ -129,4 +129,4 @@ the Great Sea is Binah.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: Concerning the Forehead of Microprosopus](tku66)
+[Next: Chapter XIII: Concerning the Forehead of Microprosopus](tku66.md)

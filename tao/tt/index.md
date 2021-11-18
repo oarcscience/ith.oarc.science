@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,14 +24,14 @@ solid rock, and levitate.
 
 ------------------------------------------------------------------------
 
-[Title Page](tt00)  
-[Contents](tt01)  
-[Editorial Note](tt02)  
-[Introduction](tt03)  
-[Book I: Cosmogony](tt04)  
-[Book II: The Yellow Emperor](tt05)  
-[Book III: Dreams](tt06)  
-[Book IV: Confucius](tt07)  
-[Book V: The Questions of Pang](tt08)  
-[Book VI: Effort and Destiny](tt09)  
-[Book VII: Causality](tt10)  
+[Title Page](tt00.md)  
+[Contents](tt01.md)  
+[Editorial Note](tt02.md)  
+[Introduction](tt03.md)  
+[Book I: Cosmogony](tt04.md)  
+[Book II: The Yellow Emperor](tt05.md)  
+[Book III: Dreams](tt06.md)  
+[Book IV: Confucius](tt07.md)  
+[Book V: The Questions of Pang](tt08.md)  
+[Book VI: Effort and Destiny](tt09.md)  
+[Book VII: Causality](tt10.md)  

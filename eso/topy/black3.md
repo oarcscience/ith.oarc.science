@@ -1,6 +1,6 @@
-[TOPY](https://www.topy.net/topy/) \[External Site\] 
-[Sacred-Texts](../../index)  [Esoteric](../index)  [Index](black) 
-[Previous](black2)  [Next](black4) 
+[TOPY](https://www.topy.net/topy/.md) \[External Site\] 
+[Sacred-Texts](../../index)  [Esoteric](../index)  [Index](black.md) 
+[Previous](black2)  [Next](black4.md) 
 
 ------------------------------------------------------------------------
 

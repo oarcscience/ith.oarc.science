@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa34)  [Next](soa36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa34)  [Next](soa36.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ above their heads, thrown there by some sort of lever.
 
 ------------------------------------------------------------------------
 
-[Next: Money](soa36)
+[Next: Money](soa36.md)

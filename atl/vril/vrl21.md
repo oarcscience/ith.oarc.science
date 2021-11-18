@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl20)  [Next](vrl22) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl20)  [Next](vrl22.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ chill the most ardent Gy. Here we are at my country-house."
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXIII](vrl22)
+[Next: CHAPTER XXIII](vrl22.md)

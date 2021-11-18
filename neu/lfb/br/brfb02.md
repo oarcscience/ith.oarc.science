@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb01)  [Next](brfb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb01)  [Next](brfb03.md) 
 
 </div>
 
@@ -74,6 +74,6 @@ Fairy Book was made up for your entertainment.
 
 ------------------------------------------------------------------------
 
-[Next: What the Rose did to the Cypress](brfb03)
+[Next: What the Rose did to the Cypress](brfb03.md)
 
 </div>

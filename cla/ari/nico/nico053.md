@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico052) 
-[Next](nico054) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico052.md) 
+[Next](nico054.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ state of character.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11. Can a man treat himself unjustly](nico054)
+[Next: Chapter 11. Can a man treat himself unjustly](nico054.md)

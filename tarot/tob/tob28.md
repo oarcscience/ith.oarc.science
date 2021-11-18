@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob27) 
-[Next](tob29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob27.md) 
+[Next](tob29.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ septenaries is established.
 
 ------------------------------------------------------------------------
 
-[Next: 13. Death](tob29)
+[Next: 13. Death](tob29.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](hpi00)
+[Contents](#contents)    [Start Reading](hpi00.md)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
 
 *Islam in the first four centuries, ... was inclined to take into its
 possession not only the outward advantages of the world, but also the
-intellectual acquisitions of Mankind.* ([p. 71](hpi11.htm#page_71)).
+intellectual acquisitions of Mankind.* ([p. 71](hpi11.htm#page_71).md).
 
 This is a well-written and authoritative review of the history of
 Islamic philosophy during the middle ages. Medieval Islamic civilization
@@ -46,8 +46,8 @@ well-known, such as Ibn Sina (Avicenna), Ibn Roshd (Averroes), the Sufi
 Gazali, and Kindi.
 
 These thinkers drew on many sources, including Indian philosophy (such
-as the [Upanishads](../../hin/upan/index)) and the ancient Greek
-philosophers, particularly [Aristotle](../../cla/ari/index), whose works
+as the [Upanishads](../../hin/upan/index).md) and the ancient Greek
+philosophers, particularly [Aristotle](../../cla/ari/index.md), whose works
 were considered the highest authority. In turn, Aristotelianism was
 picked up by by the Catholic Church and virtually enshrined as doctrine,
 particularly in the realm of natural science. This endured until the
@@ -58,62 +58,62 @@ his dominance was overthrown.
 
 ------------------------------------------------------------------------
 
-[Title Page](hpi00)  
-[Translator's Prefatory Note](hpi01)  
-[Preface](hpi02)  
-[Contents](hpi03)  
-[Corrigenda](hpi04)  
+[Title Page](hpi00.md)  
+[Translator's Prefatory Note](hpi01.md)  
+[Preface](hpi02.md)  
+[Contents](hpi03.md)  
+[Corrigenda](hpi04.md)  
 <span id="section_000"></span>
 
 ### Introduction
 
-[1. The Theatre](hpi05)  
-[2. Oriental Wisdom](hpi06)  
-[3. Greek Science](hpi07)  
+[1. The Theatre](hpi05.md)  
+[2. Oriental Wisdom](hpi06.md)  
+[3. Greek Science](hpi07.md)  
 <span id="section_001"></span>
 
 ### II. Philosophy and Arab Knowledge
 
-[1. Grammatical Science](hpi08)  
-[2. Ethical Teaching](hpi09)  
-[3. Doctrinal Systems](hpi10)  
-[4. Literature and History](hpi11)  
+[1. Grammatical Science](hpi08.md)  
+[2. Ethical Teaching](hpi09.md)  
+[3. Doctrinal Systems](hpi10.md)  
+[4. Literature and History](hpi11.md)  
 <span id="section_002"></span>
 
 ### III. The Pythagorean Philosophy
 
-[1. Natural Philosophy](hpi12)  
-[2. The Faithful Brethren of Basra](hpi13)  
+[1. Natural Philosophy](hpi12.md)  
+[2. The Faithful Brethren of Basra](hpi13.md)  
 <span id="section_003"></span>
 
 ### IV. The Neo-Platonic Aristotelians of the East
 
-[1. Kindi](hpi14)  
-[2. Farabi](hpi15)  
-[3. Ibn Maskawaih](hpi16)  
-[4. Ibn Sina](hpi17)  
-[5. Ibn al-Haitham](hpi18)  
+[1. Kindi](hpi14.md)  
+[2. Farabi](hpi15.md)  
+[3. Ibn Maskawaih](hpi16.md)  
+[4. Ibn Sina](hpi17.md)  
+[5. Ibn al-Haitham](hpi18.md)  
 <span id="section_004"></span>
 
 ### V. The Outcome of Philosophy in the East
 
-[1. Gazali](hpi19)  
-[2. The Epitomists](hpi20)  
+[1. Gazali](hpi19.md)  
+[2. The Epitomists](hpi20.md)  
 <span id="section_005"></span>
 
 ### VI. Philosophy in the West
 
-[1. Beginnings](hpi21)  
-[2. Ibn Baddja](hpi22)  
-[3. Ibn Tofail](hpi23)  
-[4. Ibn Roshd](hpi24)  
+[1. Beginnings](hpi21.md)  
+[2. Ibn Baddja](hpi22.md)  
+[3. Ibn Tofail](hpi23.md)  
+[4. Ibn Roshd](hpi24.md)  
 <span id="section_006"></span>
 
 ### VII. Conclusion
 
-[1. Ibn Khaldun](hpi25)  
-[2. The Arabs and Scholasticism](hpi26)  
+[1. Ibn Khaldun](hpi25.md)  
+[2. The Arabs and Scholasticism](hpi26.md)  
 
  
 
-[Index of Personal Names](hpi27)  
+[Index of Personal Names](hpi27.md)  

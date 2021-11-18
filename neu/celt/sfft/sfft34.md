@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft33)  [Next](sfft35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft33)  [Next](sfft35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE ISLE OF PABAIDH. <span id="fr_53"></span>[2](#fn_53)
+### THE ISLE OF PABAIDH. <span id="fr_53"></span>[2](#fn_53.md)
 
 THERE came a woman of peace (a fairy) the way of the house of a man in
 the island of Pabaidh, and
@@ -34,9 +34,9 @@ that time.
 
 ### Footnotes
 
-<span id="fn_53"></span>[121:2](sfft34.htm#fr_53) Campbell, *Popular
+<span id="fn_53"></span>[121:2](sfft34.htm#fr_53.md) Campbell, *Popular
 Tales of the West Highlands*.
 
 ------------------------------------------------------------------------
 
-[Next: Sanntraigh](sfft35)
+[Next: Sanntraigh](sfft35.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb28)  [Next](gyfb30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb28)  [Next](gyfb30.md) 
 
 </div>
 
@@ -333,6 +333,6 @@ princess continued their journey without any more adventures.
 
 ------------------------------------------------------------------------
 
-[Next: The Simpleton](gyfb30)
+[Next: The Simpleton](gyfb30.md)
 
 </div>

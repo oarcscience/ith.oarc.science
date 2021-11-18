@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas082n)  [Next](jas084n)   
- \[[83. Andrew and his Sisters.](jas083)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas082n)  [Next](jas084n.md)   
+ \[[83. Andrew and his Sisters.](jas083.md)\]
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ makes the story successful with an audience.
 
 ------------------------------------------------------------------------
 
-[Next: Note 84. The Hunter.](jas084n)
+[Next: Note 84. The Hunter.](jas084n.md)

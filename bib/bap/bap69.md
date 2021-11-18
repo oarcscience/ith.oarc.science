@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap68) 
-[Next](bap70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap68.md) 
+[Next](bap70.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ according to thy longsuffering, yet what shall we do which die now? And
 God said to him: Before thou diest thou shalt see the end which I will
 bring upon mine enemies, whereby the Philistines shall perish *and shall
 be slain* by scorpions and by all manner of noisome creeping
-things. <span id="fr_150"></span>[1](#fn_149)
+things. <span id="fr_150"></span>[1](#fn_149.md)
 
 3\. And when the Philistines had set the ark of
 
@@ -65,7 +65,7 @@ our god found fallen upon his face before the ark, and we have slain our
 priests to no purpose once and again. 5. And the wise men of the
 Philistines said: Lo, now by this may we know if the Lord have sent
 destruction upon us for his ark's sake or if a chance affliction <span
-id="fr_151"></span>[1](#fn_150) is come upon us for a season? 6. And
+id="fr_151"></span>[1](#fn_150.md) is come upon us for a season? 6. And
 now, whereas all that are with child and give suck die, and they that
 give suck are made childless, and they, that
 
@@ -81,7 +81,7 @@ ark's sake; but if they refuse to go, yearning after their young, we
 shall know that the time of our fall is come upon us. 7. And certain of
 the wise men and diviners answered: Assay ye not only this, but let us
 set the kine at the head of the three ways that are about Accaron. <span
-id="fr_152"></span>[2](#fn_151) For the middle way leadeth to Accaron,
+id="fr_152"></span>[2](#fn_151.md) For the middle way leadeth to Accaron,
 and the way on the right hand to
 
 <span id="page_227">p. 227</span>
@@ -91,7 +91,7 @@ that bear the ark in the middle way. And if they set forth by the
 right-hand way straight unto Judæa, we shall know that of a truth the
 God of the Jews hath laid us waste; but if they go by those other ways,
 we shall know that an evil (*lit*. mighty) time <span
-id="fr_153"></span>[1](#fn_152) hath befallen us, for now have we denied
+id="fr_153"></span>[1](#fn_152.md) hath befallen us, for now have we denied
 our gods. 8. And the Philistines took milch kine and yoked them to a new
 cart and set the ark thereon, and set them at the head of the three
 ways, and their young they shut up at home. And the kine, albeit they
@@ -109,7 +109,7 @@ the Philistines, the number was of them that died being with child
 
 ### Footnotes
 
-<span id="fn_149"></span>[225:1](bap69.htm#fr_150) LV. The plagues that
+<span id="fn_149"></span>[225:1](bap69.htm#fr_150.md) LV. The plagues that
 afflicted the Philistines are only obscurely indicated. They appear to
 have consisted of noxious reptiles which particularly attacked the
 children and the mothers. In 9 it is said that *sedilia aurea* (ἕδρασ
@@ -117,7 +117,7 @@ LXX) were offered *pro reptilibus pessimis quae exterminauerunt eos*,
 whereas in the Bible these objects represented the *bubones*
 characteristic of the plague--the "emerods" of A. V.
 
-<span id="fn_150"></span>[226:1](bap69.htm#fr_151) 5. The phrase *et*
+<span id="fn_150"></span>[226:1](bap69.htm#fr_151.md) 5. The phrase *et*
 (*aut* R) *conueniens* (+ *temporarie* R) *dominatio* is unusual.
 *temporarie*, which seems likely to be genuine, would represent
 πρόσκαιροσ. I adopt the *aut* of R, and take *conueniens* to be a
@@ -125,13 +125,13 @@ mistranslation of some word meaning fortuitous (from συμβαίνω or
 συντυγχάνω or the like): in 1 Sam. 6:7 LXX the word used is σύμπτωμα
 ("it was a chance that happened to us").
 
-<span id="fn_151"></span>[226:2](bap69.htm#fr_152) 7. The passage about
+<span id="fn_151"></span>[226:2](bap69.htm#fr_152.md) 7. The passage about
 the three roads in 7 is confused in the MSS. I have made a smooth
 conflate text which probably conveys the original writer's meaning.
 
-<span id="fn_152"></span>[227:1](bap69.htm#fr_153) 7. *an evil* (*lit*.
+<span id="fn_152"></span>[227:1](bap69.htm#fr_153.md) 7. *an evil* (*lit*.
 *mighty*) *time*: *ualidum tempus*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LVI](bap70)
+[Next: Chapter LVI](bap70.md)

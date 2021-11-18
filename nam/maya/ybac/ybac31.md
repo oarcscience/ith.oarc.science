@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac30)  [Next](ybac32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac30)  [Next](ybac32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -62,14 +62,14 @@ Even travelers on the roads carried incense with them, and a little
 plate on which to burn it; and then wherever they arrived at night they
 erected three small stones, putting a little incense on each, and three
 flat stones in front of these, on which they burned incense, praying to
-the god they called **Ekchuah** <span id="fr_27"></span>[\*](#fn_27)
+the god they called **Ekchuah** <span id="fr_27"></span>[\*](#fn_27.md)
 that he bring them safely back home; this ceremony they performed every
 night until their return, unless there were some other who could do
 this, or even more, on their account. <span id="img_04600"></span>
 
 |                                                    |
 |----------------------------------------------------|
-| ![Ekchuah&lt;br&gt; ON HIS TRAVELS](img/04600.jpg) |
+| ![Ekchuah&lt;br&gt; ON HIS TRAVELS](img/04600.jpg.md) |
 
 The Yucatecans had a great number of temples, sumptuous in their style;
 besides these temples in common the chiefs, priests and principal men
@@ -119,7 +119,7 @@ was held in great honor; he also presided at certain festivals.
 
 ### Footnotes
 
-<span id="fn_27"></span>[46:\*](ybac31.htm#fr_27) The figure in the
+<span id="fn_27"></span>[46:\*](ybac31.htm#fr_27.md) The figure in the
 text, from the Madrid codex, shows the North Star god (so called) in the
 usual habiliments of **Ekchuah**, the headbands, corded hamper and
 pouch, on his travels, also bearing a flint-tipped spear. **Ekchuah** is
@@ -138,4 +138,4 @@ affairs, and only once in the Dresden.
 
 [Next: XXVIII. Sacrifices and Self-Mortifications, Both Cruel and
 Obscene, Among the Yucatecans. Human Victims Slain By Arrows, and
-Others](ybac32)
+Others](ybac32.md)

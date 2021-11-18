@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd17)  [Next](bsd19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd17)  [Next](bsd19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -26,7 +26,7 @@ proclaimed that "the sword is the key of Heaven and of Hell," he only
 echoed a Japanese sentiment. Very early the samurai boy learned to wield
 it. It was a momentous occasion for him when at the age of five he was
 apparelled in the paraphernalia of samurai costume, placed upon a
-*go*-board <span id="fr_24"></span>[1](#fn_24) and initiated into the
+*go*-board <span id="fr_24"></span>[1](#fn_24.md) and initiated into the
 rights of the military profession, by having thrust into his girdle a
 real sword instead of the toy dirk with which he had been playing. After
 this first ceremony
@@ -142,7 +142,7 @@ woman.
 
 ### Footnotes
 
-<span id="fn_24"></span>[131:1](bsd18.htm#fr_24) The game of *go* is
+<span id="fn_24"></span>[131:1](bsd18.htm#fr_24.md) The game of *go* is
 sometimes called Japanese checkers, but is much more intricate than the
 English game. The go-board contains 361 squares and is supposed to
 represent a battle-field--the object of the game being to occupy as much
@@ -150,4 +150,4 @@ space as possible.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: The Training and Position of Woman](bsd19)
+[Next: Chapter XIV: The Training and Position of Woman](bsd19.md)

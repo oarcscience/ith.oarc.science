@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg20)  [Next](leg22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg20)  [Next](leg22.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,11 +10,11 @@
 
 XII 2. In the three hundred and sixty-third year of Ra-Heru-Khuti, who
 liveth for ever and forever, His Majesty was in TA-KENS, <span
-id="fr_75"></span>[1](#fn_74) and his soldiers were with him; \[the
+id="fr_75"></span>[1](#fn_74.md) and his soldiers were with him; \[the
 enemy\] did not conspire (*auu*) against their lord, and the land \[is
 called\] UAUATET unto this day. **3**. And Ra set out on an expedition
 in his boat, and his followers were with him, and he arrived at
-UTHES-HERU, <span id="fr_76"></span>[2](#fn_75) \[which lay to\] the
+UTHES-HERU, <span id="fr_76"></span>[2](#fn_75.md) \[which lay to\] the
 west of this nome, and to the east of the canal PAKHENNU, which is
 called \[ . . . . . . . . to this day\]. And Heru-Behutet was **4** in
 the boat of Ra, and he said unto his father Ra-Heru-Khuti (i.e.,
@@ -41,8 +41,8 @@ colours\] . . . . . . children;" **3** for this reason he is called
 Heru-Behutet unto this day. And Thoth said, "The city Teb shall be
 called the city of Heru-Behutet," and thus is it called unto this day.
 And Ra embraced the . . . . . of Ra, and said unto Heru-Behutet, "Thou
-didst put grapes <span id="fr_77"></span>[1](#fn_76) into the water
-which cometh forth from it, <span id="fr_78"></span>[2](#fn_77) and thy
+didst put grapes <span id="fr_77"></span>[1](#fn_76.md) into the water
+which cometh forth from it, <span id="fr_78"></span>[2](#fn_77.md) and thy
 heart rejoiced thereat;" and for this reason the water (or, canal) of
 Heru-Behutet is called "\[Grape-Water\]" unto this day, and the . . . .
 . . . . . . . unto this day. **4**. And Heru-Behutet said, "Advance, O
@@ -57,14 +57,14 @@ Heru-Behutet, **5** "There is sweet
 life in this place," and for this reason the abode of the palace of
 Heru-Behutet is called "Sweet Life" unto this day. And Ra, said unto
 Thoth, "\[Here was the slaughter\] of mine enemies; "and the place is
-called TEB <span id="fr_79"></span>[1](#fn_78) unto this day. And Thoth
+called TEB <span id="fr_79"></span>[1](#fn_78.md) unto this day. And Thoth
 said unto Heru-Behutet, "Thou art a great protector (*makaa*);" and
 **6** the Boat of Heru-Behutet is called MAKAA <span
-id="fr_80"></span>[2](#fn_79) unto this day. Then said Ra unto the gods
+id="fr_80"></span>[2](#fn_79.md) unto this day. Then said Ra unto the gods
 who were in his following, "Behold now, let us sail in our boat upon the
 water, for our hearts are glad because our enemies have been overthrown
 on the earth;" and the water where the great god sailed is **7** called
-P-KHEN-UR <span id="fr_81"></span>[3](#fn_80) unto this day. And behold
+P-KHEN-UR <span id="fr_81"></span>[3](#fn_80.md) unto this day. And behold
 the enemies \[of Ra\] rushed into the water, and they took the forms of
 \[crocodiles and\] hippopotami, but nevertheless Ra-Heru-Khuti sailed
 over the waters in his boat, and when the crocodiles and the hippopotami
@@ -91,8 +91,8 @@ Heru-Behutet in metal have existed.
 
 Then Heru-Behutet took upon himself the form of the Winged Disk, and he
 placed himself upon the front of the Boat of Ea. **2**. And he placed by
-his side the goddess Nekhebet <span id="fr_82"></span>[1](#fn_81) and
-the goddess Uatchet, <span id="fr_83"></span>[2](#fn_82) in the form of
+his side the goddess Nekhebet <span id="fr_82"></span>[1](#fn_81.md) and
+the goddess Uatchet, <span id="fr_83"></span>[2](#fn_82.md) in the form of
 two serpents, that they might make the enemies to quake in \[all\] their
 limbs when they were in the forms of crocodiles and hippopotami in every
 place wherein be came in the Land of the South and in the Land of the
@@ -102,7 +102,7 @@ stricken down through fear of him. And Heru-Behutet was at the back (or,
 side) of them in the Boat of Ra, and there were in his hands a metal
 lance and a metal chain; and the metal workers who were with their lord
 were equipped **3** for fighting with lances and chains. And
-Heru-Behutet saw them <span id="fr_84"></span>[3](#fn_83) to the
+Heru-Behutet saw them <span id="fr_84"></span>[3](#fn_83.md) to the
 south-east of the city of Uast (Thebes) some distance away. Then Ra said
 to Thoth, "Those enemies shall be smitten with blows that kill;" and
 Thoth
@@ -168,7 +168,7 @@ the east.
 
 XV\. 1. Then the enemies rose up before him by the Lake of the North,
 and their faces were set towards Uatch-ur <span
-id="fr_85"></span>[1](#fn_84) which they desired to reach by sailing;
+id="fr_85"></span>[1](#fn_84.md) which they desired to reach by sailing;
 but the god smote their hearts and they turned and fled in the water,
 and they directed their course to the water of the nome of Mertet-Ament,
 and they gathered themselves together in the water of Mertet in order to
@@ -269,7 +269,7 @@ hath taken upon himself the form of a hissing serpent. Let Horus, the
 son of Isis, in the form of a hawk-headed staff, set himself over the
 place where he is, so that the serpent may never more appear." **4**.
 And Thoth said, "Let this district be called HEMHEMET <span
-id="fr_86"></span>[1](#fn_85) by name;" and thus hath it been called
+id="fr_86"></span>[1](#fn_85.md) by name;" and thus hath it been called
 from that day to this. And Horus, the son of Isis, in the form of a
 hawk-headed staff, took up his abode there with his mother Isis; in this
 manner did these things happen.
@@ -296,35 +296,35 @@ Boat may pursue them into every place whithersoever they shall go, and I
 will do to them whatsoever pleaseth Ra." And everything was done
 according to what he had said. Then this Boat of Ra was brought by the
 winged Sun-disk upon the waters of the Lake of Meh, <span
-id="fr_87"></span>[1](#fn_86) \[and\] Heru-Behutet took in his hands his
+id="fr_87"></span>[1](#fn_86.md) \[and\] Heru-Behutet took in his hands his
 weapons, his darts, and his harpoon, and all the chains \[which he
 required\] for the fight.
 
 8\. And Heru-Behutet looked and saw one \[only\] of these Sebau <span
-id="fr_88"></span>[2](#fn_87) fiends there on the spot, and he was by
+id="fr_88"></span>[2](#fn_87.md) fiends there on the spot, and he was by
 himself. And he threw one metal dart, and brought (or, dragged) them
 along straightway, and he slaughtered them in the presence of Ra. And he
 made an end \[of them, and there were no more of the fiends\] of Set in
 this place at \[that\] moment.
 
 XVII 1. And Thoth said, "This place shall be called AST-AB-HERU," <span
-id="fr_89"></span>[3](#fn_88) because Heru-Behutet wrought his desire
+id="fr_89"></span>[3](#fn_88.md) because Heru-Behutet wrought his desire
 upon them (i.e., the enemy); and he passed six days and six nights
 coming into port on the waters thereof and did not see one of them. And
 he saw them fall down in the watery depths, and he made ready the place
 of Ast-ab-Heru there. It was situated on the bank of the water, and the
 face (i.e., direction) thereof was full-front towards the South. **2**.
 And all the rites and ceremonies of Heru-Behutet were performed on the
-first day of the first month <span id="fr_90"></span>[4](#fn_89) of the
+first day of the first month <span id="fr_90"></span>[4](#fn_89.md) of the
 
 <span id="page_80">p. 80</span> <span id="page_81">p. 81</span>
 
 season Akhet, and on the first day of the first month <span
-id="fr_91"></span>[1](#fn_90) of the season Pert, and on the
+id="fr_91"></span>[1](#fn_90.md) of the season Pert, and on the
 twenty-first and twenty-fourth days of the second month <span
-id="fr_92"></span>[2](#fn_91) of the season Pert. These are the
+id="fr_92"></span>[2](#fn_91.md) of the season Pert. These are the
 festivals in the town of Ast-ab, by the side of the South, in
-An-rut-f. <span id="fr_93"></span>[3](#fn_92) And he came into port and
+An-rut-f. <span id="fr_93"></span>[3](#fn_92.md) And he came into port and
 went against them, keeping watch as for a king over the Great God in
 An-rut-f, in this place, in order to drive away the Enemy and his Smaiu
 fiends at his coming by night from the region of Mertet, to the west of
@@ -332,11 +332,11 @@ this place. **3**.
 
 And Heru-Behutet was in the form of a man who possessed great strength,
 with the face of a hawk; and he was crowned with the White Crown, <span
-id="fr_94"></span>[4](#fn_93) and the Red Crown, <span
-id="fr_95"></span>[5](#fn_94) and the two plumes, and the Urerit Crown,
+id="fr_94"></span>[4](#fn_93.md) and the Red Crown, <span
+id="fr_95"></span>[5](#fn_94.md) and the two plumes, and the Urerit Crown,
 and there were two uraei upon his head. His hand grasped firmly his
 harpoon to slay the hippopotamus, which was \[as hard\] as the
-*khenem* <span id="fr_96"></span>[6](#fn_95) stone in its mountain bed.
+*khenem* <span id="fr_96"></span>[6](#fn_95.md) stone in its mountain bed.
 
 And Ra said unto Thoth, "Indeed \[Heru-\]Behutet is like a
 Master-fighter in the slaughter of his enemies . . . . . ."
@@ -354,10 +354,10 @@ of 'Nebt-Heka' for this reason."
 
 And Thoth said unto Ra, "Beautiful, beautiful is this place wherein thou
 hast taken up thy seat, keeping watch, as for a king, over the Great God
-who is in An-rut-f <span id="fr_97"></span>[1](#fn_96) in peace."
+who is in An-rut-f <span id="fr_97"></span>[1](#fn_96.md) in peace."
 
 5\. And Thoth said, "This Great House in this place shall. therefore be
-called 'Ast-Nefert' <span id="fr_98"></span>[2](#fn_97) from this day.
+called 'Ast-Nefert' <span id="fr_98"></span>[2](#fn_97.md) from this day.
 "It is situated to the south-west of the city of Nart, and \[covereth\]
 a space of four schoinoi." And Ra Heru-Behutet said unto Thoth, "Hast
 thou not searched through this water for the enemy?" And Thoth said,
@@ -373,7 +373,7 @@ is the name of the priestess, "Heh" is the name of the lake . . . . . .
 holy (?) acacia tree, "Neter het" is the name of the domain of the god,
 "Uru" is the name of the sacred boat, the gods therein are Heru-Behutet,
 the smiter of the lands, Horus, the son of Isis \[and\] Osiris . . . . .
-. . . **9** his blacksmiths <span id="fr_99"></span>[3](#fn_98) are to
+. . . **9** his blacksmiths <span id="fr_99"></span>[3](#fn_98.md) are to
 him, and those who are in his following are to him in his territory,
 with his metal lance, with his \[mace\], with
 
@@ -389,7 +389,7 @@ brought back one hundred and six of them. Now as for the blacksmiths of
 the West, they brought back one hundred and six of the enemy. Now as for
 the blacksmiths of the East, among whom was Heru-Behutet, **11** he slew
 them (i.e., the enemy) in the presence of Ra. in the Middle
-Domains. <span id="fr_100"></span>[1](#fn_99)
+Domains. <span id="fr_100"></span>[1](#fn_99.md)
 
 And Ra, said unto Thoth, "My heart \[is satisfied\] with the works of
 these blacksmiths of Heru-Behutet who are in his bodyguard. They shall
@@ -416,12 +416,12 @@ the work of these blacksmiths of the East, the face (or, front) thereof
 shall be towards the South, towards the city of Behutet, the
 hiding-place of Heru-Behutet. And there shall be performed therein all
 the rites and ceremonies of Heru-Behutet on the second day of the first
-month <span id="fr_101"></span>[1](#fn_100) of the season of Akhet, and
+month <span id="fr_101"></span>[1](#fn_100.md) of the season of Akhet, and
 on the twenty-fourth day of the fourth month <span
-id="fr_102"></span>[2](#fn_101) of the season of Akhet, and on the
-seventh day of the first month <span id="fr_103"></span>[3](#fn_102) of
+id="fr_102"></span>[2](#fn_101.md) of the season of Akhet, and on the
+seventh day of the first month <span id="fr_103"></span>[3](#fn_102.md) of
 the season Pert, and on the twenty-first day of the second month <span
-id="fr_104"></span>[4](#fn_103) of the season Pert, from this day
+id="fr_104"></span>[4](#fn_103.md) of the season Pert, from this day
 onwards. **15**. Their stream shall be called "Asti," the name of their
 Great House shall be called "Abet," the \[priest (?)\] shall be called
 "Qen-aha," and their domain shall be called "Kau-Mesent" from this day
@@ -430,7 +430,7 @@ onwards.
 XVIII\. 1. And Ra said unto Heru-Behutet, "These enemies have sailed up
 the river, to the country of Setet, to the end of the pillar-house of
 <u>H</u>at, and they have sailed up the river to the east, to the
-country or Tchalt (or, Tchart), <span id="fr_105"></span>[5](#fn_104)
+country or Tchalt (or, Tchart), <span id="fr_105"></span>[5](#fn_104.md)
 which is their region of swamps." And Heru-Behutet said, "Everything
 which thou hast commanded hath come to pass, Ra, Lord of the (gods; thou
 art the lord of commands." And they untied the Boat of Ra, and they
@@ -443,7 +443,7 @@ And Heru-Behutet transformed himself into a lion
 <span id="page_88">p. 88</span> <span id="page_89">p. 89</span>
 
 which had the face of a man, and which was crowned with the triple
-crown. <span id="fr_106"></span>[1](#fn_105) His paw was like unto a
+crown. <span id="fr_106"></span>[1](#fn_105.md) His paw was like unto a
 flint knife, and he went round and round by the side of them, and
 brought back one hundred and forty-two \[of the enemy\], and be rent
 them in pieces with his claws. He tore out their tongues, and their
@@ -483,15 +483,15 @@ And they sailed about over the water during the night, **6** and they
 did not see any of those enemies at all.
 
 Then they made a journey forth and arrived in the country of
-Ta-sti, <span id="fr_107"></span>[1](#fn_106) at the town of
+Ta-sti, <span id="fr_107"></span>[1](#fn_106.md) at the town of
 Shas-hertet, and he perceived the most able of their enemies in the
-country of Uaua, <span id="fr_108"></span>[2](#fn_107) and they were
+country of Uaua, <span id="fr_108"></span>[2](#fn_107.md) and they were
 uttering treason against Horus their Lord.
 
 7 And Heru-Behut changed his form into that of the Winged Disk, \[and
 took his place\] above the bow of the Boat of Ra. And he made the
-goddess Nekhebit <span id="fr_109"></span>[3](#fn_108) and the goddess
-Uatchit <span id="fr_110"></span>[4](#fn_109) to be with him in the form
+goddess Nekhebit <span id="fr_109"></span>[3](#fn_108.md) and the goddess
+Uatchit <span id="fr_110"></span>[4](#fn_109.md) to be with him in the form
 of serpents, so that they might make the Sebau fiends to quake in
 \[all\] their limbs (or, bodies). Their boldness (i.e., that of the
 fiends) subsided through the fear of him, they made no resistance
@@ -499,12 +499,12 @@ whatsoever, and they died straightway.
 
 8 Then the gods who were in the following of the Boat of Heru-khuti
 said, "Great, great is that which he hath done among them by means of
-the two Serpent Goddesses, <span id="fr_111"></span>[5](#fn_110) for he
+the two Serpent Goddesses, <span id="fr_111"></span>[5](#fn_110.md) for he
 hath overthrown the enemy by means of their fear of him."
 
 And Ra Heru-khuti said, "The great one of the two Serpent Goddesses of
 Heru-Behutet shall be called 'Ur-Uatchti' <span
-id="fr_112"></span>[6](#fn_111) from this day onwards."
+id="fr_112"></span>[6](#fn_111.md) from this day onwards."
 
 <span id="page_92">p. 92</span> <span id="page_93">p. 93</span>
 
@@ -513,7 +513,7 @@ of Thes-Heru (Apollinopolis Magna). And Thoth said, "The being of light
 who hath come forth from the horizon hath smitten the enemy in the form
 which he hath made, and he shall be called Being of light who hath come
 forth from the horizon from this day onwards." <span
-id="fr_113"></span>[1](#fn_112)
+id="fr_113"></span>[1](#fn_112.md)
 
 And Ra Heru-khuti (Ra Harmachis) said to Thoth, Thou shalt make this
 Winged Disk to be in every place wherein I seat myself (or, dwell), and
@@ -525,17 +525,17 @@ Then Thoth made the image of the Winged Disk to be in every sanctuary
 and in every temple, where they now are, wherein are all the gods and
 all the goddesses from this day onwards. Now through the Winged Disk
 which is on the temple-buildings of all the gods and all the goddesses
-of the Land of the Lily, <span id="fr_114"></span>[2](#fn_113) and the
-Land of the Papyrus, <span id="fr_115"></span>[3](#fn_114) \[these
+of the Land of the Lily, <span id="fr_114"></span>[2](#fn_113.md) and the
+Land of the Papyrus, <span id="fr_115"></span>[3](#fn_114.md) \[these
 buildings\] become shrines of Heru-Behutet.
 
 As concerning Heru-Behutet, the great god, the lord of heaven, the
 president of the Ater of the South, <span
-id="fr_116"></span>[4](#fn_115) he it is who is made to be on the right
+id="fr_116"></span>[4](#fn_115.md) he it is who is made to be on the right
 hand. This is Heru-Behutet **3** on whom the goddess Nekhebit is placed
 in the form of a serpent (or, uraeus). As concerning Heru-Behutet, the
 great god, the lord of heaven, the lord of Mesent, the president of the
-Ater of the North, <span id="fr_117"></span>[5](#fn_116)
+Ater of the North, <span id="fr_117"></span>[5](#fn_116.md)
 
 <span id="page_94">p. 94</span> <span id="page_95">p. 95</span>
 
@@ -547,84 +547,84 @@ of Mesent, the president of the two Aterti of the South and North, Ra
 Heru-khuti set it (i.e., the Winged Disk) in his every place, to
 overthrow the enemies in every place wherein they are. And he shall be
 called President of the two Aterti of the South and North because of
-this from this day onwards. <span id="fr_118"></span>[1](#fn_117)
+this from this day onwards. <span id="fr_118"></span>[1](#fn_117.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_74"></span>[57:1](leg21.htm#fr_75) I.e., in Nubia, probably
+<span id="fn_74"></span>[57:1](leg21.htm#fr_75.md) I.e., in Nubia, probably
 the portion of it which lies round about the modern Kalabsha. In ancient
 days Ta-kens appears to have included a portion of the Nile Valley to
 the north of Aswan.
 
-<span id="fn_75"></span>[57:2](leg21.htm#fr_76) I.e., Apollinopolis, the
+<span id="fn_75"></span>[57:2](leg21.htm#fr_76.md) I.e., Apollinopolis, the
 modern Edfu.
 
-<span id="fn_76"></span>[59:1](leg21.htm#fr_77) I.e. drops of blood.
+<span id="fn_76"></span>[59:1](leg21.htm#fr_77.md) I.e. drops of blood.
 
-<span id="fn_77"></span>[59:2](leg21.htm#fr_78) I.e., from the city.
+<span id="fn_77"></span>[59:2](leg21.htm#fr_78.md) I.e., from the city.
 
-<span id="fn_78"></span>[61:1](leg21.htm#fr_79) I.e., Edfu.
+<span id="fn_78"></span>[61:1](leg21.htm#fr_79.md) I.e., Edfu.
 
-<span id="fn_79"></span>[61:2](leg21.htm#fr_80) I.e., Great Protector.
+<span id="fn_79"></span>[61:2](leg21.htm#fr_80.md) I.e., Great Protector.
 
-<span id="fn_80"></span>[61:3](leg21.htm#fr_81) I.e., "Great Canal."
+<span id="fn_80"></span>[61:3](leg21.htm#fr_81.md) I.e., "Great Canal."
 
-<span id="fn_81"></span>[63:1](leg21.htm#fr_82) The goddess Nekhebet was
+<span id="fn_81"></span>[63:1](leg21.htm#fr_82.md) The goddess Nekhebet was
 incarnate in a special kind of serpent, and the centre of her worship
 was in the city of Nekheb, which the Greeks called Eileithyiaspolis, and
 the Arabs Al-Kab.
 
-<span id="fn_82"></span>[63:2](leg21.htm#fr_83) The centre of the
+<span id="fn_82"></span>[63:2](leg21.htm#fr_83.md) The centre of the
 worship of Uatchet, or Uatchit, was at Per-Uatchet, a city in the Delta.
 
-<span id="fn_83"></span>[63:3](leg21.htm#fr_84) I.e., the enemies.
+<span id="fn_83"></span>[63:3](leg21.htm#fr_84.md) I.e., the enemies.
 
-<span id="fn_84"></span>[69:1](leg21.htm#fr_85) I.e., the Mediterranean.
+<span id="fn_84"></span>[69:1](leg21.htm#fr_85.md) I.e., the Mediterranean.
 
-<span id="fn_85"></span>[77:1](leg21.htm#fr_86) This name means "the
+<span id="fn_85"></span>[77:1](leg21.htm#fr_86.md) This name means "the
 place of the Roarer," HEMHEMTI, being a well-known name of the Evil One.
 Some texts seem to indicate that peals of thunder were caused by the
 fiend Set.
 
-<span id="fn_86"></span>[79:1](leg21.htm#fr_87) It is probable that the
+<span id="fn_86"></span>[79:1](leg21.htm#fr_87.md) It is probable that the
 Lake of Meh, i.e., the Lake of the North, was situated in the north-east
 of the Delta, not far from Lake Manzalah.
 
-<span id="fn_87"></span>[79:2](leg21.htm#fr_88) "Sebiu" is a common name
+<span id="fn_87"></span>[79:2](leg21.htm#fr_88.md) "Sebiu" is a common name
 for the associates of Seti, and this fiend is himself called "Seba," a
 word which means something like "rebel."
 
-<span id="fn_88"></span>[79:3](leg21.htm#fr_89) I.e., place of the
+<span id="fn_88"></span>[79:3](leg21.htm#fr_89.md) I.e., place of the
 desire of Horus.
 
-<span id="fn_89"></span>[79:4](leg21.htm#fr_90) The month Thoth.
+<span id="fn_89"></span>[79:4](leg21.htm#fr_90.md) The month Thoth.
 
-<span id="fn_90"></span>[81:1](leg21.htm#fr_91) The month Tybi.
+<span id="fn_90"></span>[81:1](leg21.htm#fr_91.md) The month Tybi.
 
-<span id="fn_91"></span>[81:2](leg21.htm#fr_92) The month Mekhir.
+<span id="fn_91"></span>[81:2](leg21.htm#fr_92.md) The month Mekhir.
 
-<span id="fn_92"></span>[81:3](leg21.htm#fr_93) A mythological locality
+<span id="fn_92"></span>[81:3](leg21.htm#fr_93.md) A mythological locality
 originally placed near Herakleopolis. The name means "the place where
 nothing grows." Several forms of the name occur in the older literature,
 e.g. in the Theban  
 Recension of the Book of the Dead.
 
-<span id="fn_93"></span>[81:4](leg21.htm#fr_94) The Crown of the South.
+<span id="fn_93"></span>[81:4](leg21.htm#fr_94.md) The Crown of the South.
 
-<span id="fn_94"></span>[81:5](leg21.htm#fr_95) The Crown of the North.
+<span id="fn_94"></span>[81:5](leg21.htm#fr_95.md) The Crown of the North.
 
-<span id="fn_95"></span>[81:6](leg21.htm#fr_96) A kind of jasper (?).
+<span id="fn_95"></span>[81:6](leg21.htm#fr_96) A kind of jasper (?.md).
 
-<span id="fn_96"></span>[83:1](leg21.htm#fr_97) I.e., Osiris.
+<span id="fn_96"></span>[83:1](leg21.htm#fr_97.md) I.e., Osiris.
 
-<span id="fn_97"></span>[83:2](leg21.htm#fr_98) I.e., "Beautiful Place."
+<span id="fn_97"></span>[83:2](leg21.htm#fr_98.md) I.e., "Beautiful Place."
 
-<span id="fn_98"></span>[83:3](leg21.htm#fr_99) Or perhaps fighting men
+<span id="fn_98"></span>[83:3](leg21.htm#fr_99.md) Or perhaps fighting men
 who were armed with metal weapons.
 
-<span id="fn_99"></span>[85:1](leg21.htm#fr_100) In the sculptures
+<span id="fn_99"></span>[85:1](leg21.htm#fr_100.md) In the sculptures
 (Naville, *Mythe*, pl. 17) Heru-Behutet is seen standing in a boat
 spearing a crocodile, and immediately behind d him in the boat is
 Ra-Harmachis in his shrine. The Mesentiu of the West are represented by
@@ -632,58 +632,58 @@ an armed warrior in a boat, who is spearing a crocodile, and leads the
 way for Heru-Behutet. In a boat behind the great god is a representative
 of the Mesentiu of the East spearing a crocodile.
 
-<span id="fn_100"></span>[87:1](leg21.htm#fr_101) The month Thoth.
+<span id="fn_100"></span>[87:1](leg21.htm#fr_101.md) The month Thoth.
 
-<span id="fn_101"></span>[87:2](leg21.htm#fr_102) The month Choiak.
+<span id="fn_101"></span>[87:2](leg21.htm#fr_102.md) The month Choiak.
 
-<span id="fn_102"></span>[87:3](leg21.htm#fr_103) The month Tybi.
+<span id="fn_102"></span>[87:3](leg21.htm#fr_103.md) The month Tybi.
 
-<span id="fn_103"></span>[87:4](leg21.htm#fr_104) The mouth Mechir.
+<span id="fn_103"></span>[87:4](leg21.htm#fr_104.md) The mouth Mechir.
 
-<span id="fn_104"></span>[87:5](leg21.htm#fr_105) Zoan-Tanis.
+<span id="fn_104"></span>[87:5](leg21.htm#fr_105.md) Zoan-Tanis.
 
-<span id="fn_105"></span>[89:1](leg21.htm#fr_106) In the sculpture
+<span id="fn_105"></span>[89:1](leg21.htm#fr_106.md) In the sculpture
 (Naville, *Mythe*, pl. 18), we see a representation of this lion, which
 is standing over the bodies of slain enemies upon a rectangular
 pedestal, or block.
 
-<span id="fn_106"></span>[91:1](leg21.htm#fr_107) Northern Nubia; the
+<span id="fn_106"></span>[91:1](leg21.htm#fr_107.md) Northern Nubia; the
 name means "Land of the Bow."
 
-<span id="fn_107"></span>[91:2](leg21.htm#fr_108) A portion of Northern
+<span id="fn_107"></span>[91:2](leg21.htm#fr_108.md) A portion of Northern
 Nubia.
 
-<span id="fn_108"></span>[91:3](leg21.htm#fr_109) The goddess of the
+<span id="fn_108"></span>[91:3](leg21.htm#fr_109.md) The goddess of the
 South.
 
-<span id="fn_109"></span>[91:4](leg21.htm#fr_110) The goddess of the
+<span id="fn_109"></span>[91:4](leg21.htm#fr_110.md) The goddess of the
 North.
 
-<span id="fn_110"></span>[91:5](leg21.htm#fr_111) I.e., Nekhebit and
+<span id="fn_110"></span>[91:5](leg21.htm#fr_111.md) I.e., Nekhebit and
 Uatchit.
 
-<span id="fn_111"></span>[91:6](leg21.htm#fr_112) "Great one of the Two
+<span id="fn_111"></span>[91:6](leg21.htm#fr_112.md) "Great one of the Two
 Uraei-goddesses;" these goddesses had their places above the brow of the
 god, or at the right and left of the solar disk.
 
-<span id="fn_112"></span>[93:1](leg21.htm#fr_113) In the sculpture
+<span id="fn_112"></span>[93:1](leg21.htm#fr_113.md) In the sculpture
 (Naville, *Mythe*, pl. 19) we see the god, who is hawk-headed, and wears
 the crowns of the South and North, seated in a shrine set upon a
 pedestal. In the right hand he holds the sceptre and in the left the
 *ankh*.
 
-<span id="fn_113"></span>[93:2](leg21.htm#fr_114) I.e., the North,
+<span id="fn_113"></span>[93:2](leg21.htm#fr_114.md) I.e., the North,
 especially the Delta.
 
-<span id="fn_114"></span>[93:3](leg21.htm#fr_115) I.e., the South.
+<span id="fn_114"></span>[93:3](leg21.htm#fr_115.md) I.e., the South.
 
-<span id="fn_115"></span>[93:4](leg21.htm#fr_116) I.e., the southern
+<span id="fn_115"></span>[93:4](leg21.htm#fr_116.md) I.e., the southern
 half of heaven.
 
-<span id="fn_116"></span>[93:5](leg21.htm#fr_117) I.e., the northern
+<span id="fn_116"></span>[93:5](leg21.htm#fr_117.md) I.e., the northern
 half of heaven.
 
-<span id="fn_117"></span>[95:1](leg21.htm#fr_118) In the sculpture which
+<span id="fn_117"></span>[95:1](leg21.htm#fr_118.md) In the sculpture which
 illustrates this portion of the text at Edfu, two Winged Disks are
 represented. The first has <span id="img_09400"></span>
 ![](img/09400.jpg) on each side of it. The disk has an uraeus on each
@@ -693,4 +693,4 @@ between his hind legs the symbol of the orbit of the sun.
 
 ------------------------------------------------------------------------
 
-[Next: A Hymn To Osiris And A Legend Of The Origin Of Horus.](leg22)
+[Next: A Hymn To Osiris And A Legend Of The Origin Of Horus.](leg22.md)

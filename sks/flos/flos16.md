@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos15)  [Next](flos17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos15)  [Next](flos17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -209,7 +209,7 @@ the belief in what are popularly termed "death-warnings." Modern
 folk-lore holds either that a knocking or rumbling in the floor is an
 omen of a death about to happen, or that dying persons themselves
 announce their dissolution to their friends in such strange
-sounds. <span id="fr_733"></span>[1](#fn_731) Many families are supposed
+sounds. <span id="fr_733"></span>[1](#fn_731.md) Many families are supposed
 to have particular warnings, such as the appearance of a bird, the
 figure of a tall woman, etc. Such, moreover, are not confined to our own
 country, but in a variety of forms are found on the continent. According
@@ -235,7 +235,7 @@ symptoms
 <span id="page_344">p. 344</span>
 
 of despair at their impending discomfiture. Douce <span
-id="fr_734"></span>[1](#fn_732) quotes from an ancient manuscript book
+id="fr_734"></span>[1](#fn_732.md) quotes from an ancient manuscript book
 of devotion, written in the reign of Henry the Sixth, the following
 prayer to St George:—"Judge for me whan the moste hedyous and damnable
 dragons of helle shall be redy to take my poore soule and engloute it in
@@ -244,7 +244,7 @@ to theyr infernall belyes."
    Some think that the "passing bell," which was formerly tolled for a
 person who was dying, was intended to drive away the evil spirit that
 might be hovering about to seize the soul of the deceased. <span
-id="fr_735"></span>[2](#fn_733)\* Its object, however, was probably to
+id="fr_735"></span>[2](#fn_733.md)\* Its object, however, was probably to
 bespeak the prayers of the faithful, and to serve as a solemn warning to
 the living. Shakespeare has given several touching allusions to it.
 Thus, in his seventy-first sonnet he says—
@@ -283,7 +283,7 @@ We may quote a further allusion in "Venus and Adonis" (701)—
 nor less for an honest householder, and he be a citizen; nor for
 children, maydes, journeymen, apprentices, daylabourers, or any other
 poare person." In 1662, the Bishop of Worcester <span
-id="fr_736"></span>[3](#fn_734)\* asks in his visitation charge:—"Doth
+id="fr_736"></span>[3](#fn_734.md)\* asks in his visitation charge:—"Doth
 the parish clerk or sexton take care to admonish the living, by tolling
 of a passing-bell of any that are dying,
 
@@ -324,7 +324,7 @@ feathers in them." Indeed, in Lancashire, this practice is carried to
 such an extent that some will not allow dying persons to lie on a
 feather bed, because they hold that it very much increases their pain
 and suffering, and actually retards their departure. <span
-id="fr_737"></span>[1](#fn_735)
+id="fr_737"></span>[1](#fn_735.md)
 
    The departure of the human soul from this world, and its journey to
 its untried future, have become interwoven with an extensive net-work of
@@ -351,7 +351,7 @@ continues\]</span>  This sensible warm motion to become
  In thrilling region of thick-ribbed ice;  
  To be imprison’d in the viewless winds,  
  And blown with restless violence round about  
- The pendent world." <span id="fr_738"></span>[1](#fn_736)</span>
+ The pendent world." <span id="fr_738"></span>[1](#fn_736.md)</span>
 
 </div>
 
@@ -370,7 +370,7 @@ We may compare also the powerful language of Othello (v. 2):—
 
 </div>
 
-Douce <span id="fr_739"></span>[2](#fn_737) says that in the former
+Douce <span id="fr_739"></span>[2](#fn_737.md) says that in the former
 passage it is difficult to decide whether Shakespeare is alluding to the
 pains of hell or purgatory. Both passages are obscure, and have given
 rise to much criticism. It seems probable, however, that whilst partly
@@ -393,7 +393,7 @@ and of the description of hell, given in the "Shepherd's Calendar"
 
 We cannot here enter, however, into the mass of mystic details
 respecting "the soul's dread journey <span
-id="fr_740"></span>[3](#fn_738) by caverns and rocky paths and weary
+id="fr_740"></span>[3](#fn_738.md) by caverns and rocky paths and weary
 plains, over steep and slippery mountains, by frail bank or giddy
 bridge, across gulfs or
 
@@ -423,7 +423,7 @@ put for a prison; and again, in "Comedy of Errors" (iv. 2), "He's in
 Tartar limbo." "According to the schoolmen, *Limbus Patrum* was the
 place, bordering on hell, where the souls of the patriarchs and saints
 of the Old Testament remained till the death of Christ, who, descending
-into hell, let them free." <span id="fr_741"></span>[1](#fn_739)
+into hell, let them free." <span id="fr_741"></span>[1](#fn_739.md)
 
    One of the punishments invented of old for the covetous and
 avaricious in hell was to have melted gold poured down their throats, to
@@ -452,7 +452,7 @@ Song"—
 </div>
 
 Crassus was so punished by the Parthians. <span
-id="fr_742"></span>[2](#fn_740)
+id="fr_742"></span>[2](#fn_740.md)
 
 <span id="page_348">p. 348</span>
 
@@ -498,7 +498,7 @@ it's pretty nigh in—not properly born till flood. He's agoing out with
 the tide—he's agoing out with the tide. It's ebb at half-arter three,
 slack-water half-an-hour. If he lives till it turns he'll hold his own
 till past the flood, and go out with the next tide." Mr Henderson <span
-id="fr_743"></span>[1](#fn_741) quotes from the parish register of
+id="fr_743"></span>[1](#fn_741.md) quotes from the parish register of
 Heslidon, near Hartlepool, the subjoined extracts of old date, in which
 the state of the tide at the time of death is mentioned—
 
@@ -643,7 +643,7 @@ And further on (v. 3) the Page says—
 <div style="margin-left: 32px">
 
 <span class="small">"He came with flowers to strew his lady's
-grave." <span id="fr_744"></span>[1](#fn_742)</span>
+grave." <span id="fr_744"></span>[1](#fn_742.md)</span>
 
 </div>
 
@@ -705,7 +705,7 @@ priest in "Hamlet" (v. 1), says:
 
 </div>
 
-—crants <span id="fr_745"></span>[1](#fn_743) meaning garlands. It may
+—crants <span id="fr_745"></span>[1](#fn_743.md) meaning garlands. It may
 be noted that no other instance has been found of this word in English.
 These garlands are thus described by Gay:—
 
@@ -720,7 +720,7 @@ These garlands are thus described by Gay:—
 of Waltham in Framland Hundred, says: "In this Church, under every arch,
 a garland is suspended, one of which is customarily placed there
 whenever any young unmarried woman dies." Brand <span
-id="fr_746"></span>[2](#fn_744) tells us he saw in the churches of
+id="fr_746"></span>[2](#fn_744.md) tells us he saw in the churches of
 Wolsingham and Stanhope, in the County Durham, specimens of these
 garlands; the form of a woman's glove, cut in white paper, being hung in
 the centre of each of them.
@@ -774,8 +774,8 @@ England, but from all other nations whatever in Christendom. For they
 carry the corse to church with the face, hands, and feet all naked, and
 wearing the same apparel that the person wore lately before it died, or
 that which it craved to be buried in; which apparel is interred together
-with their bodies. <span id="fr_747"></span>[1](#fn_745) Singer <span
-id="fr_748"></span>[2](#fn_746) says that Shakespeare no doubt had seen
+with their bodies. <span id="fr_747"></span>[1](#fn_745.md) Singer <span
+id="fr_748"></span>[2](#fn_746.md) says that Shakespeare no doubt had seen
 this custom particularly described in the "Tragicall History of Romeus
 and Juliet,"—
 
@@ -894,7 +894,7 @@ continues\]</span>  Like Turkish mute, shall have a tongueless mouth,
 meaning, says Gifford, "I will either have my full history recorded with
 glory, or lie in an undisturbed grave; not merely without an inscription
 sculptured in stone, but un-worshipped, unhonoured, even by a waxen
-epitaph." <span id="fr_749"></span>[1](#fn_747)
+epitaph." <span id="fr_749"></span>[1](#fn_747.md)
 
    We may also compare what Lucius says in "Titus Andronicus" (i. 1):—
 
@@ -942,7 +942,7 @@ Did coldly furnish forth the marriage tables."</span>
 
 </div>
 
-   Mr Tylor, <span id="fr_750"></span>[2](#fn_748) in discussing the
+   Mr Tylor, <span id="fr_750"></span>[2](#fn_748.md) in discussing the
 origin of funeral feasts, and
 
 <span id="page_356">p. 356</span>
@@ -957,7 +957,7 @@ farmhouses with the traditional formula,—
 
 <span class="small">"Soul, soul, for a soul cake,  
  Pray you, mistress, a soul cake." <span
-id="fr_751"></span>[1](#fn_749)</span>
+id="fr_751"></span>[1](#fn_749.md)</span>
 
 </div>
 
@@ -980,7 +980,7 @@ water. Thus, in the "Winter's Tale," (iv. 4), the Shepherd says,—
 
 —implying, "I must be buried as a common malefactor, out of the pale of
 consecrated ground, and without the usual rites of the dead,"—a
-whimsical anachronism, as Mr Douce <span id="fr_752"></span>[2](#fn_750)
+whimsical anachronism, as Mr Douce <span id="fr_752"></span>[2](#fn_750.md)
 points out, when it is considered that the old Shepherd was a pagan, a
 worshipper of Jupiter and Apollo.
 
@@ -1092,7 +1092,7 @@ continues\]</span>  Ay, and their colours, often borne in France,
 music—a practice which existed in the primitive church—to denote that
 they have ended their spiritual warfare, and are become conquerors,
 formerly existed very generally in this country. <span
-id="fr_753"></span>[1](#fn_751) In "Cymbeline" (iv. 2), Arviragus says—
+id="fr_753"></span>[1](#fn_751) In "Cymbeline" (iv. 2.md), Arviragus says—
 
 <div style="margin-left: 32px">
 
@@ -1130,7 +1130,7 @@ ghosts out of their sepulchres ("Bucol." viii. 98):—
 </div>
 
 Indeed, the idea of the ghost remaining near the corpse is of world-wide
-prevalence; and as Mr Tylor <span id="fr_754"></span>[2](#fn_752) points
+prevalence; and as Mr Tylor <span id="fr_754"></span>[2](#fn_752.md) points
 out, "through all the changes of religious thought from first to last in
 the course of human history, the hovering ghosts of the dead make the
 midnight burial-ground a place where men's flesh creeps with terror." In
@@ -1194,7 +1194,7 @@ the apparently dead body of Imogen, disguised in man's apparel, says—
 matter that he left orders for his grave to be made straight by a
 compass, due east and west. This custom was practised by the ancient
 Greeks, and thus, as Mr Tylor points out, <span
-id="fr_755"></span>[1](#fn_753) it is not to late and isolated fancy,
+id="fr_755"></span>[1](#fn_753.md) it is not to late and isolated fancy,
 but to the carrying on of ancient and widespread solar ideas, that we
 trace the well-known legend that the body of Christ was laid with the
 head towards the west, thus looking eastward, and the Christian usage of
@@ -1205,11 +1205,11 @@ stated in the following passage from an ecclesiastical treatise
 
 <span id="page_360">p. 360</span>
 
-of the 16th century <span id="fr_756"></span>[1](#fn_754):—"Debet autem
+of the 16th century <span id="fr_756"></span>[1](#fn_754.md):—"Debet autem
 quis sic sepeliri ut capite ad occidentem posito, pedes dirigat ad
 Orientem, in quo quasi ipsa positione orat: et innuit quod promptus est,
 ut de occasu festinet ad ortum: de mundo ad seculum." <span
-id="fr_757"></span>[2](#fn_755)
+id="fr_757"></span>[2](#fn_755.md)
 
    Within old monuments and receptacles for the dead perpetual lamps
 were supposed to be lighted up, an allusion to which is made by Pericles
@@ -1287,7 +1287,7 @@ So in "Antony and Cleopatra" (ii. 5)—
 <span class="small">"*Mess*. First, madam, he is well.  
 *Cleo*. Why, there's more gold.  
 But, sirrah, mark, we use  
-To say the dead are well." <span id="fr_758"></span>[1](#fn_756)</span>
+To say the dead are well." <span id="fr_758"></span>[1](#fn_756.md)</span>
 
 </div>
 
@@ -1312,92 +1312,92 @@ difficulty, the reader may consult Dyce's "Glossary" (p. 277).
 
 ### Footnotes
 
-<span id="fn_731"></span>[343:1](flos16.htm#fr_733) Tylor's "Primitive
+<span id="fn_731"></span>[343:1](flos16.htm#fr_733.md) Tylor's "Primitive
 Culture," 1873, i. p. 145.
 
-<span id="fn_732"></span>[344:1](flos16.htm#fr_734) "Illustrations of
+<span id="fn_732"></span>[344:1](flos16.htm#fr_734.md) "Illustrations of
 Shakspeare," 1829, pp. 324–326.
 
-<span id="fn_733"></span>[344:2](flos16.htm#fr_735) See Brand's "Pop.
+<span id="fn_733"></span>[344:2](flos16.htm#fr_735.md) See Brand's "Pop.
 Antiq." 1849, ii. p. 202.
 
-<span id="fn_734"></span>[344:3](flos16.htm#fr_736) "Annals of
+<span id="fn_734"></span>[344:3](flos16.htm#fr_736.md) "Annals of
 Worcester," 1845.
 
-<span id="fn_735"></span>[345:1](flos16.htm#fr_737) Harland and
+<span id="fn_735"></span>[345:1](flos16.htm#fr_737.md) Harland and
 Wilkinson's "Lancashire Folk-Lore," 1869, p. 268; see "English
 Folk-Lore," 1878, pp. 99, 100; also "Notes and Queries," 1 s. iv. p.
 133.
 
-<span id="fn_736"></span>[346:1](flos16.htm#fr_738) Cf. Milton's
+<span id="fn_736"></span>[346:1](flos16.htm#fr_738.md) Cf. Milton's
 "Paradise Lost," v. 595–683.
 
-<span id="fn_737"></span>[346:2](flos16.htm#fr_739) See "Illustrations
+<span id="fn_737"></span>[346:2](flos16.htm#fr_739.md) See "Illustrations
 of Shakspeare," 1839, pp 82, 83.
 
-<span id="fn_738"></span>[346:3](flos16.htm#fr_740) Tylor's "Primitive
+<span id="fn_738"></span>[346:3](flos16.htm#fr_740.md) Tylor's "Primitive
 Culture," ii. p. 46.
 
-<span id="fn_739"></span>[347:1](flos16.htm#fr_741) Dyce's "Glossary,"
+<span id="fn_739"></span>[347:1](flos16.htm#fr_741.md) Dyce's "Glossary,"
 p. 246.
 
-<span id="fn_740"></span>[347:2](flos16.htm#fr_742) Singer's
+<span id="fn_740"></span>[347:2](flos16.htm#fr_742.md) Singer's
 "Shakespeare," 1875, viii. p. 291.
 
-<span id="fn_741"></span>[348:1](flos16.htm#fr_743) "Folk-Lore of
+<span id="fn_741"></span>[348:1](flos16.htm#fr_743.md) "Folk-Lore of
 Northern Counties," 1880, p. 58.
 
-<span id="fn_742"></span>[351:1](flos16.htm#fr_744) Cf. "Winter's Tale,"
+<span id="fn_742"></span>[351:1](flos16.htm#fr_744.md) Cf. "Winter's Tale,"
 iv. 4.
 
-<span id="fn_743"></span>[352:1](flos16.htm#fr_745) The word in German
+<span id="fn_743"></span>[352:1](flos16.htm#fr_745.md) The word in German
 is kranz, in other Teutonic dialects krants, krans, and crance,—the
 latter being Lowland Scotch,—and having cransies for plural. Clark and
 Wright's "Hamlet," 1876, 216.
 
-<span id="fn_744"></span>[352:2](flos16.htm#fr_746) "Popular
+<span id="fn_744"></span>[352:2](flos16.htm#fr_746.md) "Popular
 Antiquities," ii. p. 303
 
-<span id="fn_745"></span>[353:1](flos16.htm#fr_747) See Staunton's
+<span id="fn_745"></span>[353:1](flos16.htm#fr_747.md) See Staunton's
 "Shakespeare," 1864, i.. p. 305.
 
-<span id="fn_746"></span>[353:2](flos16.htm#fr_748) Singer's
+<span id="fn_746"></span>[353:2](flos16.htm#fr_748.md) Singer's
 "Shakespeare," 1895, ix. pp. 209, 210.
 
-<span id="fn_747"></span>[355:1](flos16.htm#fr_749) Notes on "Jonson's
+<span id="fn_747"></span>[355:1](flos16.htm#fr_749.md) Notes on "Jonson's
 Works," ix. p. 58.
 
-<span id="fn_748"></span>[355:2](flos16.htm#fr_750) "Primitive Culture,"
+<span id="fn_748"></span>[355:2](flos16.htm#fr_750.md) "Primitive Culture,"
 ii. p. 43.
 
-<span id="fn_749"></span>[356:1](flos16.htm#fr_751) See "British Popular
+<span id="fn_749"></span>[356:1](flos16.htm#fr_751.md) See "British Popular
 Customs," p. 404; "Brand's "Pop. Antiq.," 1849, ii. pp. 237, 246;
 Douce's "Illustrations of Shakspeare," 1839, p. 439.
 
-<span id="fn_750"></span>[356:2](flos16.htm#fr_752) See Douce's
+<span id="fn_750"></span>[356:2](flos16.htm#fr_752.md) See Douce's
 "Illustrations of Shakspeare," 1839, p. 222.
 
-<span id="fn_751"></span>[358:1](flos16.htm#fr_753) See Brand's "Pop.
+<span id="fn_751"></span>[358:1](flos16.htm#fr_753.md) See Brand's "Pop.
 Antiq.," 1849, ii. pp. 267–270.
 
-<span id="fn_752"></span>[358:2](flos16.htm#fr_754) "Primitive Culture,"
+<span id="fn_752"></span>[358:2](flos16.htm#fr_754.md) "Primitive Culture,"
 ii. p. 30.
 
-<span id="fn_753"></span>[359:1](flos16.htm#fr_755) "Primitive Culture,"
+<span id="fn_753"></span>[359:1](flos16.htm#fr_755.md) "Primitive Culture,"
 2873, ii. p. 423.
 
-<span id="fn_754"></span>[360:1](flos16.htm#fr_756) Durandus, "De
+<span id="fn_754"></span>[360:1](flos16.htm#fr_756.md) Durandus, "De
 Officio Mortuorum," lib. vii. chap. 35–39.
 
-<span id="fn_755"></span>[360:2](flos16.htm#fr_757) Dr Johnson thought
+<span id="fn_755"></span>[360:2](flos16.htm#fr_757.md) Dr Johnson thought
 the words of the clown in "Hamlet" (v. 1), "make her grave straight,"
 meant, "make her grave from east to west, in a direct line parallel to
 the church." This interpretation seems improbable, as the word straight
 in the sense of immediately occurs frequently in Shakespeare's plays.
 
-<span id="fn_756"></span>[361:1](flos16.htm#fr_758) See Malone's Note,
+<span id="fn_756"></span>[361:1](flos16.htm#fr_758.md) See Malone's Note,
 Variorum edition, xiv. 400.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Rings and Precious Stones](flos17)
+[Next: Chapter XV. Rings and Precious Stones](flos17.md)

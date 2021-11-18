@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb16)  [Next](orfb18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb16)  [Next](orfb18.md) 
 
 </div>
 
@@ -400,6 +400,6 @@ grumbled all day long.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventures of a Jackal](orfb18)
+[Next: The Adventures of a Jackal](orfb18.md)
 
 </div>

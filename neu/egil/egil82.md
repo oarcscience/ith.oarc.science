@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil81)  [Next](egil83) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil81)  [Next](egil83.md) 
 
 ------------------------------------------------------------------------
 
@@ -338,4 +338,4 @@ went home, Egil enriched her with good gifts.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER LXXXII. Hacon's wars and death. Poem on
-Arinbjorn.](egil83)
+Arinbjorn.](egil83.md)

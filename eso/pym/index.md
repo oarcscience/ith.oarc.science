@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE6GQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE6GQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE6GQ/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pym00)    [Text
-\[Zipped\]](pym.txt.gz)
+[Contents](#contents)    [Start Reading](pym00.md)    [Text
+\[Zipped\]](pym.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -41,26 +41,26 @@ canon, the Divine Pymander.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pym00)  
-[Preface](pym01)  
-[Hermes Trismegistus, His First Book](pym02)  
-[The Second Book, Called, Poemander](pym03)  
-[The Third Book, the Holy Sermon](pym04)  
-[The Fourth Book, Called the Key](pym05)  
+<span id="contents"></span> [Title Page](pym00.md)  
+[Preface](pym01.md)  
+[Hermes Trismegistus, His First Book](pym02.md)  
+[The Second Book, Called, Poemander](pym03.md)  
+[The Third Book, the Holy Sermon](pym04.md)  
+[The Fourth Book, Called the Key](pym05.md)  
 [The Fifth Book, That God is not Manifest, and Yet Most
-Manifest](pym06)  
-[The Sixth Book, That in God Alone is Good](pym07)  
+Manifest](pym06.md)  
+[The Sixth Book, That in God Alone is Good](pym07.md)  
 [The Seventh Book, His Secret Sermon in the Mount of Regeneration,
-Profession of Silence](pym08)  
+Profession of Silence](pym08.md)  
 [The Eighth Book, the Greatest Evil in Man is the not Knowing
-God](pym09)  
-[The Ninth Book, a Universal Sermon to Asclepius](pym10)  
-[The Tenth Book, the Mind to Hermes](pym11)  
-[The Eleventh Book of the Common Mind, to Tat](pym12)  
-[The Twelfth Book, His Crater or Monas](pym13)  
-[The Thirteenth Book, of Sense and Understanding](pym14)  
-[The Fourteenth Book, of Operation and Sense](pym15)  
-[The Fifteenth Book, of Truth to His Son Tat](pym16)  
+God](pym09.md)  
+[The Ninth Book, a Universal Sermon to Asclepius](pym10.md)  
+[The Tenth Book, the Mind to Hermes](pym11.md)  
+[The Eleventh Book of the Common Mind, to Tat](pym12.md)  
+[The Twelfth Book, His Crater or Monas](pym13.md)  
+[The Thirteenth Book, of Sense and Understanding](pym14.md)  
+[The Fourteenth Book, of Operation and Sense](pym15.md)  
+[The Fifteenth Book, of Truth to His Son Tat](pym16.md)  
 [The Sixteenth Book, that None of the Things that Are Can
-Perish](pym17)  
-[The Seventeenth Book, to Asclepius, to be Truly Wise](pym18)  
+Perish](pym17.md)  
+[The Seventeenth Book, to Asclepius, to be Truly Wise](pym18.md)  

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp18)  [Next](prp20) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp18)  [Next](prp20.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ but a mentule at full stretch makes *me* appalling.
 ------------------------------------------------------------------------
 
 [Next: 20. Wealth is my loss! Do thou vouchsafe lend aid to my
-prayer,](prp20)
+prayer,](prp20.md)

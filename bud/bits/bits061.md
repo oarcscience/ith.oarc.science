@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits060) [Next](bits062)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits060) [Next](bits062.md)
 
 ------------------------------------------------------------------------
 
@@ -171,7 +171,7 @@ the trances, and that when it is completely in them.
 
 ------------------------------------------------------------------------
 
-[Next: § 62. Beauty Is But Skin-Deep](bits062)
+[Next: § 62. Beauty Is But Skin-Deep](bits062.md)
 
  
 

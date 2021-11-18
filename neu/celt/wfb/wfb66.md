@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb65)  [Next](wfb67) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb65)  [Next](wfb67.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ the same defilement.
 
 ------------------------------------------------------------------------
 
-[Next: The Pwca of the Trwyn](wfb67)
+[Next: The Pwca of the Trwyn](wfb67.md)

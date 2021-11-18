@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe05) 
-[Next](ioe07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe05.md) 
+[Next](ioe07.md) 
 
 ------------------------------------------------------------------------
 
@@ -354,4 +354,4 @@ person may always be described as the Dragon-bodied or the Dragon-faced.
 
 ------------------------------------------------------------------------
 
-[Next: Buddhism and Indian Art](ioe07)
+[Next: Buddhism and Indian Art](ioe07.md)

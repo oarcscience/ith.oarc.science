@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf26)  [Next](fmf28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf26)  [Next](fmf28.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ MORAL: Never Arouse a sleeping Germ.
 ------------------------------------------------------------------------
 
 [Next: The Fable of Alexander from up the Road Whose Wife Took Him over
-the Jumps](fmf28)
+the Jumps](fmf28.md)

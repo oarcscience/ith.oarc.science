@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits094) [Next](bits096)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits094) [Next](bits096.md)
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ the priests the precept concerning vegetation.
 
 ------------------------------------------------------------------------
 
-[Next: § 96. The Young Stone-Thrower](bits096)
+[Next: § 96. The Young Stone-Thrower](bits096.md)
 
  
 

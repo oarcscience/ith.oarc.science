@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft08)  [Next](ftft10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft08)  [Next](ftft10.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_50">p. 50</span>
 
-<span id="img_05000"></span> ![Kara Mustafa the Hero](img/05000.jpg)
+<span id="img_05000"></span> ![Kara Mustafa the Hero](img/05000.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a woman who had a husband who was so timid that he never
 dared to go out alone. On one occasion the woman was invited to a party,
@@ -59,7 +59,7 @@ who went his way.<span id="img_05100"></span>
 
 |                                                  |
 |--------------------------------------------------|
-| ![The Dew was seized with terror](img/05100.jpg) |
+| ![The Dew was seized with terror](img/05100.jpg.md) |
 
 Presently he came to a wilderness, and when night fell he lay down and
 slept, sticking his knife into the earth. Now in this locality dwelt
@@ -123,7 +123,7 @@ whole forest. We would rather fetch the wood ourselves."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE Dews were now more afraid of Mustafa than ever, and they called a
 council to deliberate on the best means of getting rid of their
@@ -168,7 +168,7 @@ man was this, who thought heavy iron balls were mice?
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 FEW days afterwards the Dews said to Mustafa: "In the adjoining country
 we have a Dew-brother: will you fight a duel with him?" Mustafa inquired
@@ -200,7 +200,7 @@ Dew's back, to say nothing, and then began to run toward the house.
 <span id="img_05500"></span>
 
 [![''What are you staring at?'' demanded the Dew.](tn/05500.jpg)  
-Click to enlarge](img/05500.jpg)  
+Click to enlarge](img/05500.jpg.md)  
 ''What are you staring at?'' demanded the Dew.  
 
 <span id="page_56">p. 56</span>
@@ -220,7 +220,7 @@ id="img_05600"></span>
 
 |                                                        |
 |--------------------------------------------------------|
-| ![Where are you going in such a hurry?](img/05600.jpg) |
+| ![Where are you going in such a hurry?](img/05600.jpg.md) |
 
 The vali sent for Mustafa and informed him that it was unseemly that the
 people should be terrorized by a bear while the province held such a
@@ -237,7 +237,7 @@ So the cavalcade set out, and when presently they came to the bear's
 <span id="img_05601"></span>
 
 [![](tn/05601.jpg)  
-Click to enlarge](img/05601.jpg)
+Click to enlarge](img/05601.jpg.md)
 
 <span id="page_57">p. 57</span>
 
@@ -260,4 +260,4 @@ of his neighbours to his long life's end.
 
 ------------------------------------------------------------------------
 
-[Next: The Wizard-Dervish](ftft10)
+[Next: The Wizard-Dervish](ftft10.md)

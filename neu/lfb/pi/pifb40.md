@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb39)  [Next](pifb41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb39)  [Next](pifb41.md) 
 
 </div>
 
@@ -416,6 +416,6 @@ allowed ourselves to be swept away by a wretched creature like that!'
 
 ------------------------------------------------------------------------
 
-[Next: The Sparrow with the Slit Tongue](pifb41)
+[Next: The Sparrow with the Slit Tongue](pifb41.md)
 
 </div>

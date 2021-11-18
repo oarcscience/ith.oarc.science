@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm19)  [Next](rrm21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm19)  [Next](rrm21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -229,7 +229,7 @@ the East--*would*
 <span id="img_15400"></span>
 
 [![Fig. 23](tn/15400.jpg)  
-Click to enlarge](img/15400.jpg)  
+Click to enlarge](img/15400.jpg.md)  
 Fig. 23  
 
 *in itself be sufficient to fix the heathen appropriation of these
@@ -271,4 +271,4 @@ striking affinities with the Egyptian.'--Stephens and Catherwood's
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII: The Round Towers of Ireland](rrm21)
+[Next: Chapter XVII: The Round Towers of Ireland](rrm21.md)

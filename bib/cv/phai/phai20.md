@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai19) 
-[Next](phai21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai19.md) 
+[Next](phai21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -164,7 +164,7 @@ passing before them, became to them as it were the plot of a divine
 drama which they watched with an intelligence that anticipated the
 *dénouement*. Everywhere the same goal of the development, everywhere
 the same laws. The nations are the *dramatis personæ*, Israel the hero,
-Jehovah the poet of the tragedy. <span id="fr_259"></span>[1](#fn_259)
+Jehovah the poet of the tragedy. <span id="fr_259"></span>[1](#fn_259.md)
 
 The canonical prophets, the series of whom begins with Amos, were
 separated by an essential distinction from the class which had preceded
@@ -207,7 +207,7 @@ Zechariah ben Jeroboam was overthrown after a short reign, Shallum his
 murderer and successor was also unable to hold his own, and was followed
 after the horrors of a civil war by Menahem ben Gadi (745 B.C.). But
 Menahem, in the presence of domestic (and perhaps also foreign)
-assailants, <span id="fr_260"></span>[1](#fn_260) had no other resort
+assailants, <span id="fr_260"></span>[1](#fn_260.md) had no other resort
 than to purchase
 
 <span id="page_475">p. 475</span>
@@ -302,11 +302,11 @@ itself.
 
 ### Footnotes
 
-<span id="fn_259"></span>[473:1](phai20.htm#fr_259) In very much the
+<span id="fn_259"></span>[473:1](phai20.htm#fr_259.md) In very much the
 same way the threatened and actual political annihilation of Ionia led
 to the rise of Greek philosophy (Xenophanes, Heraclitus).
 
-<span id="fn_260"></span>[474:1](phai20.htm#fr_260) It is not
+<span id="fn_260"></span>[474:1](phai20.htm#fr_260.md) It is not
 inconceivable that the wars carried on by Tiglath-pileser II. against
 Hamath had some connection with his interventions in favour of Menahem.
 The kingdom of Hamath, which may have been threatened by Jeroboam II.,
@@ -327,4 +327,4 @@ Judah then.
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Deliverance of Judah.](phai21)
+[Next: 7. The Deliverance of Judah.](phai21.md)

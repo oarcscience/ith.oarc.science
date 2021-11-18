@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas122n)  [Next](jas124n)   
- \[[123. Three Brothers and the Life-tree.](jas123)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas122n)  [Next](jas124n.md)   
+ \[[123. Three Brothers and the Life-tree.](jas123.md)\]
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ compare Dayrell, 58-60; Espinosa, JAFL 27: 191-195.
 
 ------------------------------------------------------------------------
 
-[Next: Note 124. The Skillful Brothers.](jas124n)
+[Next: Note 124. The Skillful Brothers.](jas124n.md)

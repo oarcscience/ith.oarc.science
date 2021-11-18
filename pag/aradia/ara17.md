@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara16)  [Next](ara18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara16)  [Next](ara18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -160,7 +160,7 @@ reform, because her passions were so inveterate.
 
 "And if a man had got any woman with child or any maid found herself
 *enceinte*, and would hide it from the world and escape scandal, they
-would go <span id="fr_26"></span>[1](#fn_26) every day to invoke
+would go <span id="fr_26"></span>[1](#fn_26.md) every day to invoke
 *Laverna*.
 
 "Then when the time came for the suppliant to be delivered, *Laverna*
@@ -168,7 +168,7 @@ would bear her in sleep during the night to her temple, and after the
 birth cast her into slumber again, and bear her back to her bed at home,
 and when she awoke in the morning, she was ever in vigorous health and
 felt no weariness, and all seemed to her as a dream. <span
-id="fr_27"></span>[2](#fn_27)
+id="fr_27"></span>[2](#fn_27.md)
 
 "But to those who desired in time to reclaim their
 
@@ -202,7 +202,7 @@ Il mio figlio, e che possa
 Guardarmele da qualun pericolo.
 
 Bollo questa erba, man non bollo l'erba.  
-Bollo la *paura* <span id="fr_28"></span>[1](#fn_28) che possa tenere
+Bollo la *paura* <span id="fr_28"></span>[1](#fn_28.md) che possa tenere
 lontano  
 Qualunque persona e se le viene  
 L'idea a qualchuno di avvicinarsi,  
@@ -223,7 +223,7 @@ I boll the *fear*, that it may keep afar
 Any intruder, and if such should come  
 (To spy upon my rite), may he be struck  
 With fear and in his terror haste away! <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 Having said thus, put the boiled herbs in a bottle and spread the cards
 on the table one by one, saying:--
@@ -315,21 +315,21 @@ part in witchcraft, after verbena and rue.
 
 ### Footnotes
 
-<span id="fn_26"></span>[93:1](ara17.htm#fr_26) This was a very peculiar
+<span id="fn_26"></span>[93:1](ara17.htm#fr_26.md) This was a very peculiar
 characteristic of *Diana*, who was involved in a similar manner. I have
 here omitted much needless verbiage or repetition in the original MS.
 and also abbreviated what follows.
 
-<span id="fn_27"></span>[93:2](ara17.htm#fr_27) All of this indicates
+<span id="fn_27"></span>[93:2](ara17.htm#fr_27.md) All of this indicates
 unmistakably, in several respects, a genuine tradition. In the hands of
 crafty priests this would prove a great aid to popularity.
 
-<span id="fn_28"></span>[94:1](ara17.htm#fr_28) I conjecture that this
+<span id="fn_28"></span>[94:1](ara17.htm#fr_28.md) I conjecture that this
 is wild poppy. The poppy was specially sacred to Ceres, but also to the
 Night and its rites, and *Laverna* was a nocturnal deity--a play on the
 word *paura*, or fear.
 
-<span id="fn_29"></span>[95:1](ara17.htm#fr_29) This passage recalls
+<span id="fn_29"></span>[95:1](ara17.htm#fr_29.md) This passage recalls
 strangely enough the worship of the Græco-Roman goddess *Pavor* or Fear,
 the attendant on Mars. She was much invoked, as in the present instance,
 to terrify intruders or an enemy. *Æschylus* makes the seven chiefs
@@ -338,4 +338,4 @@ Inscriptions*, v. 9.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix: Comments on the Foregoing Texts](ara18)
+[Next: Appendix: Comments on the Foregoing Texts](ara18.md)

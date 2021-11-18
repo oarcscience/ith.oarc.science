@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly33)  [Next](lly35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly33)  [Next](lly35.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ seen since.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Creation](lly35)
+[Next: Chapter VI. Creation](lly35.md)

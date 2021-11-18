@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tic00)    [Page
-Index](pageidx)    [Text \[Zipped\]](tic.txt.gz)
+[Contents](#contents)    [Start Reading](tic00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](tic.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -44,69 +44,69 @@ seven stages, ending with union with God.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](tic00)  
-[Note](tic01)  
-[Contents](tic02)  
-[Introduction](tic03)  
-[Preface](tic04)  
+<span id="contents"></span> [Title Page and Front Matter](tic00.md)  
+[Note](tic01.md)  
+[Contents](tic02.md)  
+[Introduction](tic03.md)  
+[Preface](tic04.md)  
 <span id="section_000"></span>
 
 ### The First Mansions
 
-[Chapter I. Description of the Castle](tic05)  
-[Chapter II. The Human Soul.](tic06)  
+[Chapter I. Description of the Castle](tic05.md)  
+[Chapter II. The Human Soul.](tic06.md)  
 <span id="section_001"></span>
 
 ### The Second Mansions
 
-[Chapter I. War.](tic07)  
+[Chapter I. War.](tic07.md)  
 <span id="section_002"></span>
 
 ### The Third Mansions
 
-[Chapter I. Fear of God](tic08)  
-[Chapter II. Aridity in Prayer](tic09)  
+[Chapter I. Fear of God](tic08.md)  
+[Chapter II. Aridity in Prayer](tic09.md)  
 <span id="section_003"></span>
 
 ### The Fourth Mansions
 
-[Chapter I. Sweetness in Prayer.](tic10)  
-[Chapter II. Divine Consolations](tic11)  
-[Chapter III. Prayer of Quiet](tic12)  
+[Chapter I. Sweetness in Prayer.](tic10.md)  
+[Chapter II. Divine Consolations](tic11.md)  
+[Chapter III. Prayer of Quiet](tic12.md)  
 <span id="section_004"></span>
 
 ### The Fifth Mansions
 
-[Chapter I. Prayer of Union](tic13)  
-[Chapter II. Effects of Union](tic14)  
-[Chapter III. Cause of Union](tic15)  
-[Chapter IV. Spiritual Espousals](tic16)  
+[Chapter I. Prayer of Union](tic13.md)  
+[Chapter II. Effects of Union](tic14.md)  
+[Chapter III. Cause of Union](tic15.md)  
+[Chapter IV. Spiritual Espousals](tic16.md)  
 <span id="section_005"></span>
 
 ### The Sixth Mansions
 
-[Chapter I. Preparation for Spiritual Marriage](tic17)  
-[Chapter II. The Wound of Love](tic18)  
-[Introductory Note to Chapter III by the Editor](tic19)  
-[Chapter III. Locutions](tic20)  
-[Chapter IV. Raptures](tic21)  
-[Chapter V. The Flight of the Spirit](tic22)  
-[Chapter VI. Spiritual Jubilation](tic23)  
-[Chapter VII. The Humanity of Our Lord](tic24)  
-[Chapter VIII. Intellectual Visions](tic25)  
-[Chapter IX. Imaginary Visions](tic26)  
-[Chapter X. Intellectual Visions Continued](tic27)  
-[Chapter XI. The Dart of Love](tic28)  
+[Chapter I. Preparation for Spiritual Marriage](tic17.md)  
+[Chapter II. The Wound of Love](tic18.md)  
+[Introductory Note to Chapter III by the Editor](tic19.md)  
+[Chapter III. Locutions](tic20.md)  
+[Chapter IV. Raptures](tic21.md)  
+[Chapter V. The Flight of the Spirit](tic22.md)  
+[Chapter VI. Spiritual Jubilation](tic23.md)  
+[Chapter VII. The Humanity of Our Lord](tic24.md)  
+[Chapter VIII. Intellectual Visions](tic25.md)  
+[Chapter IX. Imaginary Visions](tic26.md)  
+[Chapter X. Intellectual Visions Continued](tic27.md)  
+[Chapter XI. The Dart of Love](tic28.md)  
 <span id="section_006"></span>
 
 ### The Seventh Mansions
 
-[Chapter I. God's Presence Chamber](tic29)  
-[Chapter II. Spiritual Marriage](tic30)  
-[Chapter III. Its Effects](tic31)  
-[Chapter IV. Martha and Mary](tic32)  
-[Epilogue](tic33)  
+[Chapter I. God's Presence Chamber](tic29.md)  
+[Chapter II. Spiritual Marriage](tic30.md)  
+[Chapter III. Its Effects](tic31.md)  
+[Chapter IV. Martha and Mary](tic32.md)  
+[Epilogue](tic33.md)  
 
  
 
-[Index](tic34)  
+[Index](tic34.md)  

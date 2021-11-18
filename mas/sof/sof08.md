@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof07)  [Next](sof09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof07)  [Next](sof09.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head06.png"></span> ![Header Chapter VI.](img/head06.png)
+<span id="img_head06.png"></span> ![Header Chapter VI.](img/head06.png.md)
 
 ## VI.
 
@@ -24,7 +24,7 @@ extensively diffused than those of the Grecian god Dionysus. They were
 established in Greece, Rome, Syria, and all Asia Minor. Among the
 Greeks, and still more among the Romans, the rites celebrated on the
 Dionysiac festival were, it must be confessed, of a dissolute and
-licentious character. [26](sof37.htm#xref_26) But in Asia they assumed a
+licentious character. [26](sof37.htm#xref_26.md) But in Asia they assumed a
 different form. There, as elsewhere, the legend (for it has already been
 said that each Mystery had its legend) recounted, and the ceremonies
 represented, the murder of Dionysus by the Titans. The secret doctrine,
@@ -39,7 +39,7 @@ occupied themselves as well in the construction of temples and public
 buildings as in the pursuit of divine truth.
 
 I can account for the greater purity of these Syrian rites only by
-adopting the ingenious theory of Thirwall, [27](sof37.htm#xref_27) that
+adopting the ingenious theory of Thirwall, [27](sof37.htm#xref_27.md) that
 all the Mysteries "were the remains of a worship which preceded the rise
 of the Hellenic mythology, and its attendant rites, grounded on a view
 of nature less fanciful, more earnest, and better fitted to awaken both
@@ -56,10 +56,10 @@ exclusive privilege of building temples, stadia, and theatres, under the
 mysterious tutelage of Bacchus, and were distinguished from the
 uninitiated or profane inhabitants by the science which they possessed,
 and by many private signs and tokens by which they recognized each
-other."  [28](sof37.htm#xref_28)
+other."  [28](sof37.htm#xref_28.md)
 
 This speculative and operative
-society [29](sof37.htm#xref_29)--speculative in the esoteric, theologic
+society [29](sof37.htm#xref_29.md)--speculative in the esoteric, theologic
 lessons which were taught in its initiations, and operative in the
 labors of its members as architects--was distinguished by many
 peculiarities that closely assimilate it to the institution of
@@ -72,7 +72,7 @@ observances, many of the implements of operative Masonry, and used, like
 the Masons, a universal language; and conventional modes of recognition,
 by which *one brother might know another in the dark as well as the
 light*, and which served to unite the whole body, wheresoever they might
-be dispersed, in one common brotherhood. [30](sof37.htm#xref_30)
+be dispersed, in one common brotherhood. [30](sof37.htm#xref_30.md)
 
 I have said that in the mysteries of Dionysus the legend recounted the
 death of that hero-god, and the subsequent discovery of his body. Some
@@ -94,7 +94,7 @@ last, the search having been successful, the mourning was turned into
 joy, light succeeded to darkness, and the candidate was invested with
 the knowledge of the secret doctrine of the Mysteries--the belief in the
 existence of one God, and a future state of rewards and
-punishments. [31](sof37.htm#xref_31)
+punishments. [31](sof37.htm#xref_31.md)
 
 Such were the mysteries that were practised by the architect,--the
 Freemasons, so to speak--of Asia Minor. At Tyre, the richest and most
@@ -118,7 +118,7 @@ Being joined by a number of the inhabitants of surrounding provinces,
 they sailed to Asia Minor, drove out the original inhabitants, and
 seized upon the most eligible situations, and united them under the name
 of Ionia, because the greatest number of the refugees were natives of
-that Grecian province."  [32](sof37.htm#xref_32) With their knowledge of
+that Grecian province."  [32](sof37.htm#xref_32.md) With their knowledge of
 the arts of sculpture and architecture, in which the Greeks had already
 made some progress, the emigrants brought over to their new settlements
 their religious customs also, and introduced into Asia the mysteries of
@@ -230,7 +230,7 @@ character assert that they do so on the following grounds:--
 
 First. Because the character of the legend is such as to meet all the
 requirements of the well-known axiom of Vincentius Lirinensis, as to
-what we are to believe in traditionary matters. [33](sof37.htm#xref_33)
+what we are to believe in traditionary matters. [33](sof37.htm#xref_33.md)
 
 > "*Quod semper, quod ubique, quod ab omnibus traditum est.*"
 
@@ -272,7 +272,7 @@ But if, on the other hand, it be admitted that the legend of the third
 degree is a fiction,--that the whole masonic and extra-scriptural
 account of Hiram Abif is simply a myth,--it could not, in the slightest
 degree, affect the theory which it is my object to establish. For since,
-in a mythic relation, as the learned Müller [34](sof37.htm#xref_34) has
+in a mythic relation, as the learned Müller [34](sof37.htm#xref_34.md) has
 observed, fact and imagination, the real and the ideal, are very closely
 united, and since the myth itself always arises, according to the same
 author, out of a necessity and unconsciousness on the part of its
@@ -301,6 +301,6 @@ Dionysiac Mysteries of the Tyrian workmen.
 ------------------------------------------------------------------------
 
 [Next: VII. The Union of Speculative and Operative Masonry at the Temple
-of Solomon](sof09)
+of Solomon](sof09.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe054)  [Next](prwe056) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe054)  [Next](prwe056.md) 
 
 ------------------------------------------------------------------------
 
@@ -152,4 +152,4 @@ And shrynkes at bys bugle's dread blaste."
 
 ------------------------------------------------------------------------
 
-[Next: The Wish Hounds](prwe056)
+[Next: The Wish Hounds](prwe056.md)

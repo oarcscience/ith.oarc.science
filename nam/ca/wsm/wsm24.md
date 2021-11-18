@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm23)  [Next](wsm25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm23)  [Next](wsm25.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ my power and will help me."
 
 She went close to him, and they walked along together. He sang,
 "Tuhukini nuwu pasai yani pasai yani," and repeated it again and
-again." <span id="fr_26"></span>[27](#fn_26) Snow Bird also sang her
+again." <span id="fr_26"></span>[27](#fn_26.md) Snow Bird also sang her
 song. They went along toward the home of the Gambler singing their
 songs.
 
@@ -61,7 +61,7 @@ said, "Grind them well, because we are going to have mush with Hawk meat
 for breakfast."
 
 Hawk and the Gambler began a kick-ball race. <span
-id="fr_27"></span>[28](#fn_27) They kicked their balls around a long
+id="fr_27"></span>[28](#fn_27.md) They kicked their balls around a long
 course. Gambler took the lead and remained ahead. The two old women,
 Gophers, were going to help Hawk. They made holes in the course, so that
 the Gambler stumbled and fell in them. Meanwhile, Hawk had made one of
@@ -94,14 +94,14 @@ anybody else." Hawk restored all the people.
 
 ### Footnotes
 
-<span id="fn_26"></span>[282:27](wsm24.htm#fr_26) The tune is nearly
+<span id="fn_26"></span>[282:27](wsm24.htm#fr_26.md) The tune is nearly
 identical with that In the Owens Valley Paiute versions. (See footnote
 2, Steward, J. H., Myths of the Owens Valley Paiute, p. 438, 1936.)
 
-<span id="fn_27"></span>[283:28](wsm24.htm#fr_27) This is the only
+<span id="fn_27"></span>[283:28](wsm24.htm#fr_27.md) This is the only
 record of this game. Informants denied that these Shoshoni had ever
 played it.
 
 ------------------------------------------------------------------------
 
-[Next: The Flood (Saline Valley, California. Shoshoni)](wsm25)
+[Next: The Flood (Saline Valley, California. Shoshoni)](wsm25.md)

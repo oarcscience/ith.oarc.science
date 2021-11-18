@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inuit](../index)  
-[Index](index) [Previous](tte1-4) [Next](tte1-6)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inuit](../index.md)  
+[Index](index) [Previous](tte1-4) [Next](tte1-6.md)
 
 ------------------------------------------------------------------------
 
@@ -194,7 +194,7 @@ ornaments principally on their weapons and tools.
 
 ------------------------------------------------------------------------
 
-[Next](tte1-6)
+[Next](tte1-6.md)
 
  
 

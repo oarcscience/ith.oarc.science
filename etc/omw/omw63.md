@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw62)  [Next](omw64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw62)  [Next](omw64.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_21500"></span>
 
 [![Agni](tn/21500.jpg)  
-Click to enlarge](img/21500.jpg)  
+Click to enlarge](img/21500.jpg.md)  
 Agni  
 
 # INDIAN
@@ -139,4 +139,4 @@ wife.
 
 ------------------------------------------------------------------------
 
-[Next: The Churning of the Ocean](omw64)
+[Next: The Churning of the Ocean](omw64.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits015) [Next](bits017)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits015) [Next](bits017.md)
 
 ------------------------------------------------------------------------
 
@@ -98,7 +98,7 @@ attachment and delivered from the depravities.
 
 ------------------------------------------------------------------------
 
-[Next: § 17. No Continuous Personal Identity](bits017)
+[Next: § 17. No Continuous Personal Identity](bits017.md)
 
  
 

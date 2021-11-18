@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe044)  [Next](prwe046) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe044)  [Next](prwe046.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ the wise women knew all along that they came of the spriggans.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Widower](prwe046)
+[Next: The Fairy Widower](prwe046.md)

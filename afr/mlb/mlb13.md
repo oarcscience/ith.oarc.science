@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb12)  [Next](mlb14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb12)  [Next](mlb14.md) 
 
 ------------------------------------------------------------------------
 
@@ -608,4 +608,4 @@ humorous sprite," the hero of innumerable popular jests.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: The Amazimu](mlb14)
+[Next: Chapter XII: The Amazimu](mlb14.md)

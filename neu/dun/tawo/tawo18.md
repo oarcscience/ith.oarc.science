@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](tawo17)  [Next](tawo19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](tawo17)  [Next](tawo19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T8B0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T8B0/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales of Wonder*, by Lord Dunsany, \[1916\], at Intangible Textual
 Heritage
 
@@ -90,6 +90,6 @@ So Plash-Goo came to the Land of None's Desire.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Sailors' Gambit](tawo19)
+[Next: The Three Sailors' Gambit](tawo19.md)
 
 </div>

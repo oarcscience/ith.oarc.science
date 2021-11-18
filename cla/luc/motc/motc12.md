@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc11)  [Next](motc13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc11)  [Next](motc13.md) 
 
 ------------------------------------------------------------------------
 
@@ -282,4 +282,4 @@ Yes, tell her I have lied--but not altogether.
 
 ------------------------------------------------------------------------
 
-[Next: At Night](motc13)
+[Next: At Night](motc13.md)

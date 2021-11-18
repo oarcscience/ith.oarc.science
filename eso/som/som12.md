@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som11) 
-[Next](som13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som11.md) 
+[Next](som13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,14 +26,14 @@ evolved from the Universe, and is a self-conscious, thinking center of
 Living Spirit, and, as such, he must, in his nature and being, reproduce
 the Universe. This is what Jesus meant when He said, "As the Father hath
 (Inherent) Life in Himself, so hath he given to the Son to have
-(Inherent) Life in Himself." <span id="fr_34"></span>[35](#fn_34)
+(Inherent) Life in Himself." <span id="fr_34"></span>[35](#fn_34.md)
 Inherent Life means real Life. The whole Cosmic Scheme must be
 reproduced on the plane of the individual, if there is an individual.
 
 We must expect to find in man, therefore, the same inherent attributes
 that we find in the universe from which he springs.
 
-[Chart No. II-A](som11.htm#img_chart02a) symbolizes, first, the
+[Chart No. II-A](som11.htm#img_chart02a.md) symbolizes, first, the
 Universal Spirit; next, the Universal Subjectivity, which is called the
 Soul of the Universe; and third, the particularization or manifestation
 of Universal Spirit. We have marked Unity on the descending line,
@@ -81,7 +81,7 @@ Subjective Mind; and our place in It is the use that we make of It.
 
 **SPIRIT**
 
-Turning to the chart of man, [Chart No. II-B](som11.htm#img_chart02b),
+Turning to the chart of man, [Chart No. II-B](som11.htm#img_chart02b.md),
 we find that the spirit of man is his conscious state of mental and
 spiritual being; that this mental state is equipped with decision, will,
 choice, volition, intellect and purpose. We find that it is
@@ -263,14 +263,14 @@ physical correspondence in the form of the Deluge or Flood.
 Psyche also means "sea," and it was into this psychic sea that Jonah
 fell. This is the meaning of the story of Jonah and the whale and is
 also why, in Revelation, it says: "There was no more sea." <span
-id="fr_35"></span>[36](#fn_35) It does not mean that Law shall be
+id="fr_35"></span>[36](#fn_35.md) It does not mean that Law shall be
 eliminated, but that the time will come when It will be used for
 constructive purposes only. The misuse of this Law to-day is called
 "Malpractice." We have no fear of malpractice, because it can be
 practiced only upon the person who believes in it. If we say to Mind:
 "There is no such thing as malpractice," there being only One Ultimate
 Reality, as far as we are concerned, we are free from it. "Against such
-there is no law." <span id="fr_36"></span>[37](#fn_36) We recognize
+there is no law." <span id="fr_36"></span>[37](#fn_36.md) We recognize
 Subconscious Mind as the Great Servant of our thought. It is the Medium
 through which all treatment operates. How do we contact this Universal
 Subjective Mind, which is the Medium through which healing and
@@ -306,7 +306,7 @@ produces as conditions.
 In treatment we turn entirely from the condition, because so long as we
 look at a condition we cannot overcome it. That is why the mystic said:
 "Behold my face forevermore." "Look unto me and be ye saved, all the
-ends of the earth." <span id="fr_37"></span>[38](#fn_37) That is, look
+ends of the earth." <span id="fr_37"></span>[38](#fn_37.md) That is, look
 up and not down. It is useless to treat one's business, because business
 is an immaterial thing. It is an unthinking, unknowing thing--a lot of
 stuff in form, a lot of forms in stuff. That which decides what the
@@ -318,7 +318,7 @@ new concept as true, or until we have neutralized the old concept.*
 
 Jesus had a great understanding and He gave a clew to that understanding
 when He said: "The Prince of this world cometh and findeth nothing in
-me." <span id="fr_38"></span>[39](#fn_38) He meant that race-suggestion
+me." <span id="fr_38"></span>[39](#fn_38.md) He meant that race-suggestion
 found no mental correspondence or equivalent in Him. His consciousness
 was so clear that it operated directly from the Spirit.
 
@@ -585,7 +585,7 @@ subjective state of thought tends to return again as some condition.
 **A LAW OF BELIEF**
 
 Jesus said, "As thou hast believed so be it done unto thee." <span
-id="fr_39"></span>[40](#fn_39) Knowing the nature of the law, He did not
+id="fr_39"></span>[40](#fn_39.md) Knowing the nature of the law, He did not
 say, "It is done unto you as you wish." He announced the universality of
 law when He said, "As thou hast believed so be it done unto thee."
 
@@ -603,13 +603,13 @@ through it. Consequently, no person who is enlightened would seek to use
 this law destructively; for he would know that, sooner or later, the
 very power set in motion by himself would ultimately destroy him. "All
 they that take the sword shall perish with the sword." <span
-id="fr_40"></span>[41](#fn_40) The Spirit of Christ is the spirit which
+id="fr_40"></span>[41](#fn_40.md) The Spirit of Christ is the spirit which
 constructively uses the law. The spirit of Antichrist is the destructive
 use of law. The Spirit of Christ, being in line with the Cosmic Life,
 will always transcend, neutralize, destroy, and utterly obliterate the
 spirit of Antichrist; and ultimately only the Spirit of Christ can
 succeed. "He that hath an ear, let him hear." <span
-id="fr_41"></span>[42](#fn_41)
+id="fr_41"></span>[42](#fn_41.md)
 
 <span id="page_118">p. 118</span>
 
@@ -620,12 +620,12 @@ in motion through the law must ultimately swing back to him again. This
 is the Karmic Law; "The law that binds the ignorant but frees the wise."
 This law has been announced by every great teacher who has ever lived.
 Jesus referred to this law when He said, "As thou hast believed so be it
-done unto thee"; <span id="fr_42"></span>[43](#fn_42) and when He said,
+done unto thee"; <span id="fr_42"></span>[43](#fn_42.md) and when He said,
 "Heaven and earth shall pass away: but my words shall not pass
-away." <span id="fr_43"></span>[44](#fn_43) It is the law to which
+away." <span id="fr_43"></span>[44](#fn_43.md) It is the law to which
 Isaiah referred when he said, "So shall my word be that goeth forth out
 of my mouth; it shall not return unto me void, but it shall accomplish
-that which I please." <span id="fr_44"></span>[45](#fn_44) This is the
+that which I please." <span id="fr_44"></span>[45](#fn_44.md) This is the
 law which to-day is called "Divine Principle," or the law of cause and
 effect; it means that once a tendency is set in motion through law, it
 is bound to objectify at the level of the subjective concept which
@@ -680,7 +680,7 @@ instance, when one sees a criminal, thinking of him as such helps to
 perpetuate the state in which he is manifesting. Malicious malpractice
 would be an act of centering thought for destructive purposes. When
 Jesus said, "The prince of this world cometh and hath nothing in
-me," <span id="fr_45"></span>[46](#fn_45) He
+me," <span id="fr_45"></span>[46](#fn_45.md) He
 
 <span id="page_120">p. 120</span>
 
@@ -727,7 +727,7 @@ are thinking into It; this
 is because of the Unity of all Mind. This is one of the great lessons to
 learn; we do not know anything outside ourselves. This is what Jesus
 meant when He said, "Ye shall know the Truth and the Truth shall make
-you free." <span id="fr_46"></span>[47](#fn_46) When we know within
+you free." <span id="fr_46"></span>[47](#fn_46.md) When we know within
 ourselves we are knowing at the point of that Individualized Spirit
 which we are; upon the very Heart of the Infinite, the Ever-Present
 Substance, which is ever responsive to Itself.
@@ -766,8 +766,8 @@ If we think of ourselves as being
 separated from the Universe we will be limited by this thought; for it
 is a belief in separation from Good which binds and limits; we are bound
 by nothing except belief. "They could not enter in because of
-unbelief," <span id="fr_47"></span>[48](#fn_47) and because they
-"limited the Holy One of Israel." <span id="fr_48"></span>[49](#fn_48)
+unbelief," <span id="fr_47"></span>[48](#fn_47.md) and because they
+"limited the Holy One of Israel." <span id="fr_48"></span>[49](#fn_48.md)
 
 There is but One Mind. Here is the point: everything we experience,
 touch, taste, handle and smell; environment, bodies, conditions, money,
@@ -855,7 +855,7 @@ could be run.
 We have a right to choose what we shall induce in Mind. The way that our
 thoughts are to become manifested we cannot always see; but we should
 not be disturbed if we do not see the way, because effect is potential
-in cause; "I am Alpha and Omega." <span id="fr_49"></span>[50](#fn_49)
+in cause; "I am Alpha and Omega." <span id="fr_49"></span>[50](#fn_49.md)
 and all that comes between cause and effect. Cause and effect are really
 One, and if we have a given cause set in motion the effect will have to
 equal this cause. One is the inside and the other the outside of a
@@ -981,38 +981,38 @@ Ingalese.
 
 ### Footnotes
 
-<span id="fn_34"></span>[103:35](som12.htm#fr_34) John 5:26.
+<span id="fn_34"></span>[103:35](som12.htm#fr_34.md) John 5:26.
 
-<span id="fn_35"></span>[109:36](som12.htm#fr_35) Rev. 21:1.
+<span id="fn_35"></span>[109:36](som12.htm#fr_35.md) Rev. 21:1.
 
-<span id="fn_36"></span>[109:37](som12.htm#fr_36) Rev. 5:23.
+<span id="fn_36"></span>[109:37](som12.htm#fr_36.md) Rev. 5:23.
 
-<span id="fn_37"></span>[110:38](som12.htm#fr_37) Isa. 45:22.
+<span id="fn_37"></span>[110:38](som12.htm#fr_37.md) Isa. 45:22.
 
-<span id="fn_38"></span>[110:39](som12.htm#fr_38) John 14:30.
+<span id="fn_38"></span>[110:39](som12.htm#fr_38.md) John 14:30.
 
-<span id="fn_39"></span>[117:40](som12.htm#fr_39) Matt. 8:13.
+<span id="fn_39"></span>[117:40](som12.htm#fr_39.md) Matt. 8:13.
 
-<span id="fn_40"></span>[117:41](som12.htm#fr_40) Matt. 26:52.
+<span id="fn_40"></span>[117:41](som12.htm#fr_40.md) Matt. 26:52.
 
-<span id="fn_41"></span>[117:42](som12.htm#fr_41) Rev. 3:6.
+<span id="fn_41"></span>[117:42](som12.htm#fr_41.md) Rev. 3:6.
 
-<span id="fn_42"></span>[118:43](som12.htm#fr_42) Matt. 8:13.
+<span id="fn_42"></span>[118:43](som12.htm#fr_42.md) Matt. 8:13.
 
-<span id="fn_43"></span>[118:44](som12.htm#fr_43) Luke 21:33.
+<span id="fn_43"></span>[118:44](som12.htm#fr_43.md) Luke 21:33.
 
-<span id="fn_44"></span>[118:45](som12.htm#fr_44) Isa. 55:11.
+<span id="fn_44"></span>[118:45](som12.htm#fr_44.md) Isa. 55:11.
 
-<span id="fn_45"></span>[119:46](som12.htm#fr_45) John 14:30.
+<span id="fn_45"></span>[119:46](som12.htm#fr_45.md) John 14:30.
 
-<span id="fn_46"></span>[121:47](som12.htm#fr_46) John 8:32.
+<span id="fn_46"></span>[121:47](som12.htm#fr_46.md) John 8:32.
 
-<span id="fn_47"></span>[122:48](som12.htm#fr_47) Heb. 3:19.
+<span id="fn_47"></span>[122:48](som12.htm#fr_47.md) Heb. 3:19.
 
-<span id="fn_48"></span>[122:49](som12.htm#fr_48) Ps. 78:41.
+<span id="fn_48"></span>[122:49](som12.htm#fr_48.md) Ps. 78:41.
 
-<span id="fn_49"></span>[124:50](som12.htm#fr_49) Rev. 1:8.
+<span id="fn_49"></span>[124:50](som12.htm#fr_49.md) Rev. 1:8.
 
 ------------------------------------------------------------------------
 
-[Next: Recapitulation](som13)
+[Next: Recapitulation](som13.md)

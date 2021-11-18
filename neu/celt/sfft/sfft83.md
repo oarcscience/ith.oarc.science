@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft82) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft82.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### RAT HALL <span id="fr_177"></span>[2](#fn_177)
+### RAT HALL <span id="fr_177"></span>[2](#fn_177.md)
 
 "RATS leaving, their usual haunts in your houses, barns, and stackyards,
 and going to the fields, is an unfortunate omen for the person whose
@@ -274,7 +274,7 @@ country-people of Roxburghshire.
 
 ### Footnotes
 
-<span id="fn_177"></span>[351:2](sfft83.htm#fr_177) The Editor, *The New
+<span id="fn_177"></span>[351:2](sfft83.htm#fr_177.md) The Editor, *The New
 Border Tales*.
 
 THE END.

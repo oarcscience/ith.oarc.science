@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp73) 
-[Next](alp75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp73.md) 
+[Next](alp75.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,10 +14,10 @@
 <span id="img_11400"></span>
 
 [![THE CASTLE OF ANOUSH](tn/11400.jpg)  
-Click to enlarge](img/11400.jpg)  
+Click to enlarge](img/11400.jpg.md)  
 THE CASTLE OF ANOUSH  
 
-### THE CASTLE OF ANOUSH <span id="fr_15"></span>[1](#fn_15)
+### THE CASTLE OF ANOUSH <span id="fr_15"></span>[1](#fn_15.md)
 
 #### BY RAFFI
 
@@ -185,8 +185,8 @@ Kings who fell captive into their hands.
 
 ### Footnotes
 
-<span id="fn_15"></span>[114:1](alp74.htm#fr_15) Anoush = sweet.
+<span id="fn_15"></span>[114:1](alp74.htm#fr_15.md) Anoush = sweet.
 
 ------------------------------------------------------------------------
 
-[Next: Happiness](alp75)
+[Next: Happiness](alp75.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc069) 
-[Next](motc071) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc069.md) 
+[Next](motc071.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ was warm and unfit for the North.
 
 ------------------------------------------------------------------------
 
-[Next: 71. The Ice Man](motc071)
+[Next: 71. The Ice Man](motc071.md)

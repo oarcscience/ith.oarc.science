@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat14)  [Next](aat16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat14)  [Next](aat16.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ lived with him at Fall River.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Kangaroo-Rat Races with Coyote and Others](aat16)
+[Next: 2. Kangaroo-Rat Races with Coyote and Others](aat16.md)

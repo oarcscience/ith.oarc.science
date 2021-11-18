@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](amm01)  [Next](amm03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](amm01)  [Next](amm03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -280,4 +280,4 @@ XII.</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Introductory](amm03)
+[Next: Introductory](amm03.md)

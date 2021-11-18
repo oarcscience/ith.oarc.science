@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar183) [Next](gbar185)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar183) [Next](gbar185.md)
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ Pharisees and left us the false!'
 
 ------------------------------------------------------------------------
 
-[Next](gbar185)
+[Next](gbar185.md)

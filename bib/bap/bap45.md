@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap44) 
-[Next](bap46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap44.md) 
+[Next](bap46.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ Zelpha. And Zebul gave to the firstborn all that was round about the
 land of the Phœnicians, and to the second he gave the olive yard of
 Accaron, and to the third all the tilled land that was about Azotus. And
 he gave them husbands, namely to the firstborn Elisephan, to the second
-Odiel, and to the third Doel. <span id="fr_120"></span>[1](#fn_120)
+Odiel, and to the third Doel. <span id="fr_120"></span>[1](#fn_120.md)
 
 |                 |
 |-----------------|
@@ -62,10 +62,10 @@ his fathers, and was buried in the sepulchre of his father.
 
 ### Footnotes
 
-<span id="fn_120"></span>[168:1](bap45.htm#fr_120) XXIX 2. The giving of
+<span id="fn_120"></span>[168:1](bap45.htm#fr_120.md) XXIX 2. The giving of
 an inheritance to the daughters of Kenaz is modelled on Num. 36: the
 sacred treasury, perhaps, was suggested by 2 Kings 12; 2 Chron. 24.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX](bap46)
+[Next: Chapter XXX](bap46.md)

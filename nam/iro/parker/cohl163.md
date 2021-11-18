@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl162)  [Next](cohl164) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl162)  [Next](cohl164.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ influence the entire body of the people, "pagans" and Christians alike.
 
 ------------------------------------------------------------------------
 
-[Next: Iroquois Sun Myths](cohl164)
+[Next: Iroquois Sun Myths](cohl164.md)

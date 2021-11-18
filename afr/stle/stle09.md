@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Egypt](../../egy/index)  [Index](index)  [Previous](stle08) 
-[Next](stle10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Egypt](../../egy/index)  [Index](index)  [Previous](stle08.md) 
+[Next](stle10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stolen Legacy*, by George G. M. James, \[1954\], at Intangible Textual
 Heritage
 
@@ -490,7 +490,7 @@ there spiritual life begins.
 opposites (a doctrine, later to be found in Plato and Socrates).
 
 Hence we observe that the union of male and female produces organic
-life; and that sharp [and](errata.htm#2) flat notes produce harmony.
+life; and that sharp [and](errata.htm#2.md) flat notes produce harmony.
 
 </div>
 
@@ -909,7 +909,7 @@ clear that Pythagoras obtained this doctrine directly from the Egyptian
 Mysteries. Hence it also follows that philosophers who have taught this
 doctrine, must have obtained it, either directly from the Egyptian
 Mysteries, or indirectly, through the teachings of Pythagoras.
-(According to [Sallust](errata.htm#3), Deification or becoming godlike
+(According to [Sallust](errata.htm#3.md), Deification or becoming godlike
 was the purpose of the Egyptian Mysteries,
 
 <span id="page_73">p. 73</span>
@@ -1303,6 +1303,6 @@ from the Egyptians. (Rosicrucian Digest, May 1952, p. 175).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: The Athenian Philosophers](stle10)
+[Next: Chapter VI: The Athenian Philosophers](stle10.md)
 
 </div>

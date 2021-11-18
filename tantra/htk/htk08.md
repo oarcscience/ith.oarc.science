@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk07)  [Next](htk09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk07)  [Next](htk09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -28,18 +28,18 @@ at Intangible Textual Heritage
 ### VERSE 4
 
 O DESTRUCTRESS of the sins of the three worlds, auspicious <span
-id="fr_34"></span>[1](#fn_34) Kālikā, who in Thy upper lotus-like left
-hand holdest a sword. <span id="fr_35"></span>[2](#fn_35) and in the
-lower left hand a severed head; <span id="fr_36"></span>[3](#fn_36) who
+id="fr_34"></span>[1](#fn_34.md) Kālikā, who in Thy upper lotus-like left
+hand holdest a sword. <span id="fr_35"></span>[2](#fn_35.md) and in the
+lower left hand a severed head; <span id="fr_36"></span>[3](#fn_36.md) who
 with Thy upper right hand maketh the gesture which dispels fear, <span
-id="fr_37"></span>[4](#fn_37) and with Thy lower right hand that which
+id="fr_37"></span>[4](#fn_37.md) and with Thy lower right hand that which
 grants boons; they, O Mother with gaping mouth, <span
-id="fr_38"></span>[5](#fn_38) who reciting Thy name, meditate in this
-way <span id="fr_39"></span>[6](#fn_39) upon the greatness of Thy
+id="fr_38"></span>[5](#fn_38.md) who reciting Thy name, meditate in this
+way <span id="fr_39"></span>[6](#fn_39.md) upon the greatness of Thy
 mantra, possess the eight great powers <span
-id="fr_40"></span>[7](#fn_40) of the Three-Eyed One <span
-id="fr_41"></span>[8](#fn_41) in the palm of their hands. <span
-id="fr_42"></span>[9](#fn_42)
+id="fr_40"></span>[7](#fn_40.md) of the Three-Eyed One <span
+id="fr_41"></span>[8](#fn_41.md) in the palm of their hands. <span
+id="fr_42"></span>[9](#fn_42.md)
 
 COMMENTARY
 
@@ -103,17 +103,17 @@ Tryaṁbaka. He is with Śakti and is worshipped in all Tantras.'\]
 
 ### Footnotes
 
-<span id="fn_34"></span>[53:1](htk08.htm#fr_34) <span id="page_54">p.
+<span id="fn_34"></span>[53:1](htk08.htm#fr_34.md) <span id="page_54">p.
 54</span> *Dakshiṇā*, the beneficent grantor of *Nirvāṇa*. (V)
 
-<span id="fn_35"></span>[53:2](htk08.htm#fr_35) *Khadga*, the peculiar
+<span id="fn_35"></span>[53:2](htk08.htm#fr_35.md) *Khadga*, the peculiar
 heavy sword with the blade curved at the tip so named, used to behead
 the sacrificial animals.
 
-<span id="fn_36"></span>[53:3](htk08.htm#fr_36) The Devī is the
+<span id="fn_36"></span>[53:3](htk08.htm#fr_36.md) The Devī is the
 destroyer of the wicked.
 
-<span id="fn_37"></span>[53:4](htk08.htm#fr_37) The Devī is the
+<span id="fn_37"></span>[53:4](htk08.htm#fr_37.md) The Devī is the
 dispeller of all fear, and makes with Her hand the *mudrā*. The right
 upper hand makes the gesture of dispelling fear, or the gesture of
 assurance of safety (*Abhayamudrā*) and the right lower hand makes the
@@ -126,7 +126,7 @@ with terror (Paśuloka-bhayaṁkarī) that is, those devoid of the knowledge
 of non-duality, for 'fear comes when there is duality' (Br. Up. 1-4-2,
 Lalitā, v. 99).
 
-<span id="fn_38"></span>[53:5](htk08.htm#fr_38) *Prakatita-vadane* (see
+<span id="fn_38"></span>[53:5](htk08.htm#fr_38.md) *Prakatita-vadane* (see
 '*Daśa-Mahāvidyā Upāsanārahasya*,' by Prasanna-Kumāra-Śāstrī).
 *Vimalānanda* reads *Prakatitaradane*, that is, with big protruding
 teeth. The *Yoginī-Tantra* says, 'Supreme eternal, large-toothed,
@@ -134,11 +134,11 @@ smeared with blood.' The *Tārākalpa* speaks of '*Syāmā* of the colour of
 a new (freshly formed) cloud, with large breasts, terrible with
 protruding teeth.' (V)
 
-<span id="fn_39"></span>[53:6](htk08.htm#fr_39) As stated—that is,
+<span id="fn_39"></span>[53:6](htk08.htm#fr_39.md) As stated—that is,
 *Krīṁ Krīṁ Krīṁ Hūṁ Hūṁ Hrīṁ Hrīṁ* which with *Dakṣiṇe* makes ten
 syllables.
 
-<span id="fn_40"></span>[53:7](htk08.htm#fr_40) *Siddhi*—that is,
+<span id="fn_40"></span>[53:7](htk08.htm#fr_40.md) *Siddhi*—that is,
 *Aṇimā*, *Laghimā*, *Garimā*, *Prāpti*, *Prākāṁya*, *Iśitva*, *Vaśitva*,
 *Kāmāvasāyitā* the power of becoming small, great, heavy, light, etc.,
 which are inherent in Īśvara, and are attainable by Yogis who become
@@ -146,7 +146,7 @@ which are inherent in Īśvara, and are attainable by Yogis who become
 state which is the universal Self is manifested, as also the eightfold
 manifestation of the Divine power.
 
-<span id="fn_41"></span>[53:8](htk08.htm#fr_41) *Tryaṁbaka* or *Śiva*.
+<span id="fn_41"></span>[53:8](htk08.htm#fr_41.md) *Tryaṁbaka* or *Śiva*.
 According to Tarkālaṁkāra's Commentary on Mahānirvāṇa-Tantra,
 *Tryaṁbaka* means the father of the three Devas, Brahmā, Viṣṇu, and
 Rudra. The *Ṛgvidhāna* uses it as an equivalent of Mahādeva. The
@@ -157,7 +157,7 @@ The Moon, Sun, and Fire are the *Icchā*, *Kriyā*, *Jñāna* and other
 *Śaktis* (see the Ṣatcakranirūpaṅa of Pūrnānaṇda-Śvāmī) and Serpent
 Power by A. Avalon.
 
-<span id="fn_42"></span>[53:9](htk08.htm#fr_42) 'By him who carries a
+<span id="fn_42"></span>[53:9](htk08.htm#fr_42.md) 'By him who carries a
 flower its odour is enjoyed without seeking. By him who looks upon
 himself as the universal Self the powers (of Brahmā, etc.) are enjoyed'
 (Commentary of Sureśvarācārya on tenth Sloka of *Dakṣināmūrti Stotra*).
@@ -166,6 +166,6 @@ himself as the universal Self the powers (of Brahmā, etc.) are enjoyed'
 
 ------------------------------------------------------------------------
 
-[Next: Verse 5](htk09)
+[Next: Verse 5](htk09.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes30)  [Next](mes32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes30)  [Next](mes32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -20,7 +20,7 @@ Textual Heritage
 
 ### XVI.
 
-<span id="img_m27000"></span> ![‘Alī's Forbearance.](img/m27000.jpg)
+<span id="img_m27000"></span> ![‘Alī's Forbearance.](img/m27000.jpg.md)
 
 FROM ‘Alī may we learn sincerity of meeds.  
 "God's Lion" we may hold free from all gross misdeeds.  
@@ -67,14 +67,14 @@ For forty years that daily bread—abounding grace—
 Failed not. Fond expectation's utmost stretch took place.  
 But satisfaction followed not. The thankless crew  
 Demanded "leeks and onions;" as of old they knew. <span
-id="fr_408"></span>[1](#fn_407)
+id="fr_408"></span>[1](#fn_407.md)
 
 Ye who are Ahmed's people, graced beyond compare,  
 Are promised spiritual blessings till last judgment's blare.  
 Whoever says, at heart: "My trust is in the Lord," <span
-id="fr_409"></span>[2](#fn_408)  
+id="fr_409"></span>[2](#fn_408.md)  
 God's promise: "Him I'll feed," will find a faithful word. <span
-id="fr_410"></span>[3](#fn_409) <span class="margnote"><span
+id="fr_410"></span>[3](#fn_409.md) <span class="margnote"><span
 id="an_20">20</span></span>  
 Without a twist accept this promise, as is meet;  
 You'll find it in your mouth as milk and honey sweet.  
@@ -118,7 +118,7 @@ a wolf; I'm Joseph to thee, sooth.
 Though worlds there may be, eighteen thousand globes, and more;  
 Not every eye has power to witness all their store.  
 Disclose thy secret, ‘Alī,—God's own 'Chosen One!' <span
-id="fr_411"></span>[1](#fn_410)  
+id="fr_411"></span>[1](#fn_410.md)  
 How many 'judges’ errors' work God's will alone!  
 Pray tell me what, just now, has been revealed to thee;  
 Or I'll disclose the vision I've been made to see.  
@@ -136,13 +136,13 @@ The mutely-teaching promptings of the silvery moon,
 If couched in words, would homewards guide us doubly soon."
 
 Thou art "the Gate;" the Prophet, "Science’ City" is, <span
-id="fr_412"></span>[1](#fn_411)  
+id="fr_412"></span>[1](#fn_411.md)  
 Thou art the ray that beams from lustrous sun of his.  
 Then open, Gate I Unfold thyself to those who seek!  
 Let rind of science overgrow their minds, all meek.  
 Stand open, Gate! Thou portal of God's mercy sure!  
 Thy court's the court of Him "who hath no peer," secure! <span
-id="fr_413"></span>[2](#fn_412) <span class="margnote"><span
+id="fr_413"></span>[2](#fn_412.md) <span class="margnote"><span
 id="an_45">45</span></span>  
 True, every breath and atom's watching to get in.  
 But if kept closed, who'd say there is a gate to win?  
@@ -163,7 +163,7 @@ Thou’lt follow thy own nose, but never meet thy love.
 Thus spake that new-converted warrior in surprise;  
 Expressing wonder, such as words may symbolise.  
 Then. added: "O! Command, of Faithful Church thou Prince. <span
-id="fr_414"></span>[3](#fn_413)  
+id="fr_414"></span>[3](#fn_413.md)  
 That as a babe a spirit new I may evince."
 
 <span id="page_m274">p. 274</span>
@@ -210,7 +210,7 @@ Smiter. I'm the weapon;—sword, bamboo.
 <span id="page_m275">p. 275</span>
 
 'Thou castedst not, when stones thou castedst in the fight.' <span
-id="fr_415"></span>[1](#fn_414)  
+id="fr_415"></span>[1](#fn_414.md)  
 God is the Warrior mighty. I'm dust in His sight.  
 Thought of myself I've banished, wholly, from my path.  
 Save God, all else as naught I hold;—a mower's swath.  
@@ -315,7 +315,7 @@ In twinkling of an eye heaven's bounds thou. mayest out-speed.
 "How blest is the transgression pardoned of the Lord!  
 The rose, from thorny stem, He calls forth at a word!  
 Remember ‘Umer's guilt,—his murderous design <span
-id="fr_416"></span>[1](#fn_415)  
+id="fr_416"></span>[1](#fn_415.md)  
 Against the Prophet! This brought him to faith benign.  
 Was’t not to practise magic Pharaoh called his priests?  
 The grace of God converted them to saints from beasts.  
@@ -332,7 +332,7 @@ Our sin can change to righteousness; foulness to fair.
 God can our worst offences purge away, make clean;  
 Imputing virtue to us, spite of vice's mien.  
 For this is Satan chased away with igneous bolts; <span
-id="fr_417"></span>[1](#fn_416)  
+id="fr_417"></span>[1](#fn_416.md)  
 His proud inflation bursts in twain, from envy's jolts.  
 He strives to multiply the direful load of sin,  
 <span class="margnote"><span id="an_120">120</span></span> That, under
@@ -343,7 +343,7 @@ His torment is redoubled, heartache twenty-fold.
 "Come in! A door I've opened for thy entrance, wide.  
 Thou spattest on me. I reply with favour's tide.  
 On him who injured me I benefits bestow; <span
-id="fr_418"></span>[2](#fn_417)  
+id="fr_418"></span>[2](#fn_417.md)  
 My head I lay before the feet of friends, below;  
 Thou mayest conceive what gifts I hold in store for them,  
 My faithful servants;—treasures, thrones, and diadem.  
@@ -387,9 +387,9 @@ If He see fit to break the weapon of His will,
 The broken tool still hastens His word to fulfil.
 
 "The mystery of His word: 'We abrogate, annul,' <span
-id="fr_419"></span>[1](#fn_418)  
+id="fr_419"></span>[1](#fn_418.md)  
 Remember, straight is followed by: 'We better cull." <span
-id="fr_420"></span>[2](#fn_419) <span class="margnote"><span
+id="fr_420"></span>[2](#fn_419.md) <span class="margnote"><span
 id="an_140">140</span></span>  
 Whatever law the Lord hath abrogated yet,  
 Is but a weed plucked up;—a rose blooms where ’twas set.  
@@ -424,7 +424,7 @@ To give relief front pain to his beloved maid.
 How much increase grows out of decrease here below.  
 The martyr gains eternal life by death in show.  
 Man, fed by bread, cuts down the harvest corn when ripe;  
-"Partakes the blessing joyfully," <span id="fr_421"></span>[1](#fn_420)
+"Partakes the blessing joyfully," <span id="fr_421"></span>[1](#fn_420.md)
 with drum and pipe.  
 When brutes are slaughtered with due sense of wisdom's law,  
 Man's life is nurtured;—learning, science, vigour draw.  
@@ -467,7 +467,7 @@ By thousands He creates, and brings again to light.
 
 Had He not set a punishment for each offence,  
 Or had not said: "*Lex talionis* is life's fence," <span
-id="fr_422"></span>[1](#fn_421)  
+id="fr_422"></span>[1](#fn_421.md)  
 Who'd had audacity, of his own will,  
 To put to death a man who should another kill? <span
 class="margnote"><span id="an_170">170</span></span>  
@@ -502,9 +502,9 @@ profess. Do Thou forego assault."
 O Answerer of prayer! In mercy guide us right!  
 Our knowledge, as our riches, null is in Thy sight!  
 Lead not astray a heart enlightened by Thy grace! <span
-id="fr_423"></span>[1](#fn_422)  
+id="fr_423"></span>[1](#fn_422.md)  
 Turn from us every evil threatening to take place! <span
-id="fr_424"></span>[2](#fn_423)  
+id="fr_424"></span>[2](#fn_423.md)  
 Reprieve our souls from judgment merited, severe!  
 Repel us not from out the fold of saints, sincere!  
 More bitter is there naught than severance from Thee.  
@@ -581,7 +581,7 @@ Within its mother's womb a child's lot is to roam.
 It has to blossom in the world, as ocean's foam.  
 I have a wish, a longing, towards the world of doom;  
 But God forbids: "Cast not your lives away," in gloom. <span
-id="fr_425"></span>[1](#fn_424)  
+id="fr_425"></span>[1](#fn_424.md)  
 All prohibition's but a bar from what is loved;  
 No prohibition's needed from a thing reproved.  
 A grain with bitter kernel, still more bitter rind,  
@@ -590,14 +590,14 @@ Full prohibition carries in itself, we find.
 The fruit of death is savoury, in my esteem.  
 <span class="margnote"><span id="an_215">215</span></span> Nay more.
 "The slain do live" a blessed text must seem. <span
-id="fr_426"></span>[2](#fn_425)  
+id="fr_426"></span>[2](#fn_425.md)  
 Then slay me, O my trusty friends, without reproach.  
 My death is life eternal. Let it, then, approach.  
 In death I'll find my love. My dearest friends, adieu!  
 How long shall I be barred from darling interview?  
 Unless our separation be from one we mourn,  
 Why should we say: "Forsooth, to Him we shall return?" <span
-id="fr_427"></span>[3](#fn_426)  
+id="fr_427"></span>[3](#fn_426.md)  
 ’Tis only he returns, who comes back to his home.  
 Our true return's from severance to union's dome.
 
@@ -620,7 +620,7 @@ From flesh when liberated shall my soul feel light. <span
 class="margnote"><span id="an_225">225</span></span>  
 The dagger and the sword may take root in my limbs.  
 Death's but a banquet; wounds, a flower that graceful climbs." <span
-id="fr_428"></span>[1](#fn_427)
+id="fr_428"></span>[1](#fn_427.md)
 
 Now, who can thus despise his body in his heart,  
 And yet feel greed for empire, or for pontiff's part?  
@@ -644,10 +644,10 @@ The angels, or the prophets, there could find no place.
 <span id="page_m286">p. 286</span>
 
 He said: "I'm he whose eyes swerved not; "no crow, I! See! <span
-id="fr_429"></span>[1](#fn_428)  
+id="fr_429"></span>[1](#fn_428.md)  
 <span class="margnote"><span id="an_235">235</span></span> "The Limner
 is my love; from juice of vine I'm free." <span
-id="fr_430"></span>[2](#fn_429)  
+id="fr_430"></span>[2](#fn_429.md)  
 The treasures of "the spheres," their "animating souls,"  
 As rubbish were accounted, driven by breeze that rolls.  
 What, then, would Mekka weigh,—the Persian, Syrian lands,  
@@ -683,7 +683,7 @@ To court grim death's a collar round the true man's neck.
 This was the text proposed, that wrought recusant's wreck.  
 God's word revealed hath said: "O men of human race!  
 Death to the faithful is a blessing, and a grace." <span
-id="fr_431"></span>[1](#fn_430)  
+id="fr_431"></span>[1](#fn_430.md)  
 A love of gain is innate in the human breast.  
 To court death's doubtless profit, is to wish the best. <span
 class="margnote"><span id="an_230">230</span></span>  
@@ -696,7 +696,7 @@ He knew that should they venture that ordeal to prove,
 In all the world no recusant would thenceforth move.  
 They all preferred to pay their tribute for their lives,  
 And begged: "O lamp of truth, destroy us not, our wives!" <span
-id="fr_432"></span>[2](#fn_431)
+id="fr_432"></span>[2](#fn_431.md)
 
 How many more examples could be pointed out!  
 But, if thou seest the truth, give me thy hand. Quit doubt. <span
@@ -749,74 +749,74 @@ Its words more efficacious than an army's wheel.
 
 ### Footnotes
 
-<span id="fn_407"></span>[m271:1](mes31.htm#fr_408) Qur’ān ii. 58.
+<span id="fn_407"></span>[m271:1](mes31.htm#fr_408.md) Qur’ān ii. 58.
 
-<span id="fn_408"></span>[m271:2](mes31.htm#fr_409) Qur’ān ix. 230, &c.
+<span id="fn_408"></span>[m271:2](mes31.htm#fr_409.md) Qur’ān ix. 230, &c.
 
-<span id="fn_409"></span>[m271:3](mes31.htm#fr_410) Qur’ān lxv. 2.
+<span id="fn_409"></span>[m271:3](mes31.htm#fr_410.md) Qur’ān lxv. 2.
 
-<span id="fn_410"></span>[m272:1](mes31.htm#fr_411)
+<span id="fn_410"></span>[m272:1](mes31.htm#fr_411.md)
 ‘Alīyyu-’l-Murtadzā—"*in whom* (God) *is well pleased*"—is the chiefest
 of the titles of ‘Alī, Prince of Princes, Captain-General of Saints.
 
-<span id="fn_411"></span>[m273:1](mes31.htm#fr_412) Mohammed is reported
+<span id="fn_411"></span>[m273:1](mes31.htm#fr_412.md) Mohammed is reported
 to have declared: "I am the City of Science, and ‘Alī is the Portal
 thereof;" alluding to the heavenly secrets he had intrusted to the
 latter, for communication to the worthy. See Anecdotes, chap. iii., No.
 79.
 
-<span id="fn_412"></span>[m273:2](mes31.htm#fr_413) Qur’ān cxii. 4.
+<span id="fn_412"></span>[m273:2](mes31.htm#fr_413.md) Qur’ān cxii. 4.
 
-<span id="fn_413"></span>[m273:3](mes31.htm#fr_414) "Commander of the
+<span id="fn_413"></span>[m273:3](mes31.htm#fr_414.md) "Commander of the
 Faithful;" but "Commander of the Believers" would be more correct.
 
-<span id="fn_414"></span>[m275:1](mes31.htm#fr_415) Qur’ān viii. 17.
+<span id="fn_414"></span>[m275:1](mes31.htm#fr_415.md) Qur’ān viii. 17.
 
-<span id="fn_415"></span>[m277:1](mes31.htm#fr_416) ‘Umer swore he would
+<span id="fn_415"></span>[m277:1](mes31.htm#fr_416.md) ‘Umer swore he would
 kill Muhammed, and went to execute his design. Arrived at the house of
 his own sister, who was already a secret Muslim, he heard chanted the
 twentieth chapter of the Qur’ān, and was immediately converted. He then
 went to Mohammed, and publicly professed the faith.
 
-<span id="fn_416"></span>[m278:1](mes31.htm#fr_417) The shooting stars.
+<span id="fn_416"></span>[m278:1](mes31.htm#fr_417.md) The shooting stars.
 
-<span id="fn_417"></span>[m278:2](mes31.htm#fr_418) Shanfarà says: "The
+<span id="fn_417"></span>[m278:2](mes31.htm#fr_418.md) Shanfarà says: "The
 most excellent is he who confers a favour."
 
-<span id="fn_418"></span>[m279:1](mes31.htm#fr_419) Qur’ān ii. 100.
+<span id="fn_418"></span>[m279:1](mes31.htm#fr_419.md) Qur’ān ii. 100.
 
-<span id="fn_419"></span>[m279:2](mes31.htm#fr_420) Idem.
+<span id="fn_419"></span>[m279:2](mes31.htm#fr_420.md) Idem.
 
-<span id="fn_420"></span>[m280:1](mes31.htm#fr_421) Qur’ān iii. 163,
+<span id="fn_420"></span>[m280:1](mes31.htm#fr_421.md) Qur’ān iii. 163,
 164.
 
-<span id="fn_421"></span>[m281:1](mes31.htm#fr_422) Qur’ān ii. 175.
+<span id="fn_421"></span>[m281:1](mes31.htm#fr_422.md) Qur’ān ii. 175.
 
-<span id="fn_422"></span>[m282:1](mes31.htm#fr_423) Qur’ān iii. 6.
+<span id="fn_422"></span>[m282:1](mes31.htm#fr_423.md) Qur’ān iii. 6.
 
-<span id="fn_423"></span>[m282:2](mes31.htm#fr_424) Qur’ān xxv. 66.
+<span id="fn_423"></span>[m282:2](mes31.htm#fr_424.md) Qur’ān xxv. 66.
 
-<span id="fn_424"></span>[m284:1](mes31.htm#fr_425) Qur’ān ii. 191.
+<span id="fn_424"></span>[m284:1](mes31.htm#fr_425.md) Qur’ān ii. 191.
 
-<span id="fn_425"></span>[m284:2](mes31.htm#fr_426) Qur’ān ii. 149.
+<span id="fn_425"></span>[m284:2](mes31.htm#fr_426.md) Qur’ān ii. 149.
 
-<span id="fn_426"></span>[m284:3](mes31.htm#fr_427) Qur’ān ii. 151.
+<span id="fn_426"></span>[m284:3](mes31.htm#fr_427.md) Qur’ān ii. 151.
 
-<span id="fn_427"></span>[m285:1](mes31.htm#fr_428) All Muslim poets
+<span id="fn_427"></span>[m285:1](mes31.htm#fr_428.md) All Muslim poets
 speak of wounds as "flowers."
 
-<span id="fn_428"></span>[m286:1](mes31.htm#fr_429) Qur’ān liii. 17.
+<span id="fn_428"></span>[m286:1](mes31.htm#fr_429.md) Qur’ān liii. 17.
 There is a pun here. The Arabic for "swerved" and the Persian for "a
 crow," are identical in orthography,—*zāg*. Muhammed has been called by
 other Persian poets: "The nightingale of the garden of *mà zāg;*" which
 really means "swerved not," but may be rendered: "we, the crows."
 
-<span id="fn_429"></span>[m286:2](mes31.htm#fr_430) The "Limner" is,
+<span id="fn_429"></span>[m286:2](mes31.htm#fr_430.md) The "Limner" is,
 here, God, of course. He was intoxicated with love, not wine.
 
-<span id="fn_430"></span>[m287:1](mes31.htm#fr_431) Qur’ān ii. 88.
+<span id="fn_430"></span>[m287:1](mes31.htm#fr_431.md) Qur’ān ii. 88.
 
-<span id="fn_431"></span>[m287:2](mes31.htm#fr_432) These were the
+<span id="fn_431"></span>[m287:2](mes31.htm#fr_432.md) These were the
 Christian Arabs of Nejrān. They sent an embassy to Muhammed at Medīna.
 He proposed to them a trial by invocation of God's curse on the liars,
 their wives, and children. He uttered it; they shrank, and accepted
@@ -824,4 +824,4 @@ submission to him, on condition of paying tribute.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Conclusion](mes32)
+[Next: XVII. Conclusion](mes32.md)

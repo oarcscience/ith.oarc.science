@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](bal07)  [Next](bal09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](bal07)  [Next](bal09.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,7 +134,7 @@ the grammatical subject of the sentence put into the plural, and we
 learn about the "natives believing so-and-so." This is what I call a
 "one-dimensional" account, as it ignores the social dimensions, along
 which belief must be studied, just as it ignores its essential
-complexity and multiplicity. [76](bal09.htm#xref_76)
+complexity and multiplicity. [76](bal09.htm#xref_76.md)
 
 Of course, very often, though by no means always, this multiplicity may
 be ignored, and the variations in detail overlooked as unessential, in
@@ -278,7 +278,7 @@ fixed items. They are believed and acted upon by all, and, as customary
 actions do not allow of any individual varieties, this class of belief
 is standardized by its social embodiments. They may be called the dogmas
 of native belief, or the social ideas of a community, as opposed to
-individual ideas. [77](bal09.htm#xref_77) One important addition has to
+individual ideas. [77](bal09.htm#xref_77.md) One important addition has to
 be made, however, to complete this statement: only such items of belief
 can be considered as "social ideas" as are not only embodied in native
 institutions, but are also explicitly formulated by the natives and
@@ -673,4 +673,4 @@ documentation, make information really complete, as far as it goes.
 
 ------------------------------------------------------------------------
 
-[Next: Endnotes](bal09)
+[Next: Endnotes](bal09.md)

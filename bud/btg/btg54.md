@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg53)  [Next](btg55) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg53)  [Next](btg55.md) 
 
 ------------------------------------------------------------------------
 
@@ -264,4 +264,4 @@ partake of the bliss of immortality."
 
 ------------------------------------------------------------------------
 
-[Next: The Buddha Omnipresent](btg55)
+[Next: The Buddha Omnipresent](btg55.md)

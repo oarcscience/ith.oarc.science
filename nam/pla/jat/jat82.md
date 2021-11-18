@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat81)  [Next](jat83) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat81)  [Next](jat83.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ the men and women present with red. Then it is over and they go home.
 
 ------------------------------------------------------------------------
 
-[Next: 81. Observances in Butchering Buffalo](jat83)
+[Next: 81. Observances in Butchering Buffalo](jat83.md)

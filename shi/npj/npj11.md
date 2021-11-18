@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj10) 
-[Next](npj12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj10.md) 
+[Next](npj12.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ great Danjūrō (1660-1703) and his successors.
 
 ------------------------------------------------------------------------
 
-[Next: Kumasaka](npj12)
+[Next: Kumasaka](npj12.md)

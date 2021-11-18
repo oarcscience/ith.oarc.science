@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj47)  [Next](atfj49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj47)  [Next](atfj49.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@
 <span id="img_52"></span> <span align="CENTER"> [![52. 'Aya Hime,' or
 Princess Aya, is Saved in her Fall by the 'Botan Spirit,' Peony
 Spirit](tn/52.jpg)  
-Click to enlarge](img/52.jpg)  
+Click to enlarge](img/52.jpg.md)  
 52. 'Aya Hime,' or Princess Aya, is Saved in her Fall by the 'Botan
 Spirit,' Peony Spirit  
 </span>
@@ -204,6 +204,6 @@ Peony Princess.
 
 ------------------------------------------------------------------------
 
-[Next: XLVII. The Memorial Cherry Tree](atfj49)
+[Next: XLVII. The Memorial Cherry Tree](atfj49.md)
 
 </div>

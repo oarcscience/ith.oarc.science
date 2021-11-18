@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre48)  [Next](gre50) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre48)  [Next](gre50.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ and was a great bonder.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLV: Of the Slaying of Atli Asmundson](gre50)
+[Next: Chapter XLV: Of the Slaying of Atli Asmundson](gre50.md)

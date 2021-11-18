@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh07) 
-[Next](iggh09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh07.md) 
+[Next](iggh09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -48,7 +48,7 @@ thyself offer insult to the deity by defending its offender.
 Then said Wanawallarí: I know no deity but my husband, and follow him
 without question or reason, as night follows day. And so far from being
 wrong, this is the duty of a woman, for it is *dharma* <span
-id="fr_24"></span>[p](#fn_24), established from the very beginning, and
+id="fr_24"></span>[p](#fn_24.md), established from the very beginning, and
 having its roots in her nature and his. For once there was a time, when
 there were neither men nor women, but the universe existed
 
@@ -94,9 +94,9 @@ mirror of illusion.
 
 ### Footnotes
 
-<span id="fn_24"></span>[33:p](iggh08.htm#fr_24) *Dharma* means law,
+<span id="fn_24"></span>[33:p](iggh08.htm#fr_24.md) *Dharma* means law,
 duty, custom and religion combined.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Wild Flowers](iggh09)
+[Next: VI. Wild Flowers](iggh09.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](eudoxus)  [Next](goldtrac) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](eudoxus)  [Next](goldtrac.md) 
 
 ------------------------------------------------------------------------
 
@@ -1060,6 +1060,6 @@ Philosophical Work.
 
 ------------------------------------------------------------------------
 
-[Next: The Golden Tractate of Hermes Trismegistus](goldtrac)
+[Next: The Golden Tractate of Hermes Trismegistus](goldtrac.md)
 
   

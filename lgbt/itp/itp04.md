@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](itp03)  [Next](itp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](itp03)  [Next](itp05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ Straits--the Kamchadales, the Chukchi, the Aleuts, Inoits, Kadiak
 islanders, and so forth, homosexuality is common, and its relation to
 shamanship or priesthood most marked and curious. Westermarck, in his
 well-known book, *The Origin and Development of the Moral Ideas*, <span
-id="fr_0"></span>[1](#fn_0) quoting from Dr. Bogoraz, says:--"It
+id="fr_0"></span>[1](#fn_0.md) quoting from Dr. Bogoraz, says:--"It
 frequently happens that, under the supernatural influence of one of
 their shamans, or priests, a Chukchi lad at sixteen years of age will
 suddenly relinquish his sex and imagine himself to be a woman. He adopts
@@ -90,7 +90,7 @@ and brings him up as a girl. Any stranger would
 <span id="page_18">p. 18</span>
 
 be deceived as to his sex, and when he is about fifteen he is sold for a
-good round sum to a wealthy personage. <span id="fr_1"></span>[1](#fn_1)
+good round sum to a wealthy personage. <span id="fr_1"></span>[1](#fn_1.md)
 'Choupans,' or youths of this kind are highly prized by the Konyagas. On
 the other hand, there are to be met with here and there among the
 Esquimaux or kindred populations, especially in Youkon, *girls* who
@@ -248,7 +248,7 @@ when the latter was ill.
 
 The Jesuit father Lafitau, who published in 1724, at Paris, an extremely
 interesting book on the manners and customs of the North American tribes
-among whom he had been a missionary, <span id="fr_2"></span>[1](#fn_2)
+among whom he had been a missionary, <span id="fr_2"></span>[1](#fn_2.md)
 after speaking of warlike women and Amazons, says (vol. I, p. 53):--"If
 some women are found possessing virile courage, and glorying in the
 profession of war, which seems only suitable to men; there exist also
@@ -275,7 +275,7 @@ excessive riding were often rendered impotent and effeminate, is very
 curiously paralleled in quite another part of the world by the so-called
 *mujerados* (or feminised men) among the Pueblo-Indians of Mexico. Dr.
 W. A. Hammond, who was stationed, in 1850, as military doctor, in New
-Mexico, reported <span id="fr_3"></span>[1](#fn_3) that in each village
+Mexico, reported <span id="fr_3"></span>[1](#fn_3.md) that in each village
 one of the strongest men, being chosen, was compelled by unintermitted
 riding to pass through this kind of metamorphosis." He then became
 indispensable for the religious orgies which were celebrated among the
@@ -286,19 +286,19 @@ Pueblo-Indians in the
 same way as they once were among the old Greeks, Egyptians, and other
 people. . . . These Saturnalia take place among the Pueblos in the
 Spring of every year, and are kept with the greatest secrecy from the
-observation of non-Indians." <span id="fr_4"></span>[1](#fn_4) And
+observation of non-Indians." <span id="fr_4"></span>[1](#fn_4.md) And
 again, "To be a *mujerado* is no disgrace to a Pueblo-Indian. On the
 contrary, he enjoys the protection of his tribes-people, and is accorded
 a certain amount of honour."
 
 Similar customs to those of the American Indians were found among the
 Pacific islanders. Captain James Wilson, <span
-id="fr_5"></span>[2](#fn_5) in visiting the South Sea Islands in 1796-8,
+id="fr_5"></span>[2](#fn_5.md) in visiting the South Sea Islands in 1796-8,
 found there men who were dressed like women and enjoyed a certain
 honour; and expresses his surprise at finding that "even their women do
 not despise these fellows, but form friendships with them." While
 William Ellis, also a Missionary, in his *Polynesian Researches*, <span
-id="fr_6"></span>[3](#fn_6) (vol. i., p. 340), says that they not only
+id="fr_6"></span>[3](#fn_6) (vol. i., p. 340.md), says that they not only
 enjoyed the sanction of the priests, but even the direct example of one
 of their divinities. He goes on to say that when he asked the natives
 why they made away with so many more female than male children, "they
@@ -318,10 +318,10 @@ frequently represented as being very feminine in form--especially in the
 more archaic statues. He was the patron of song and music. He was also,
 in some ways, the representative divinity of the Uranian love, for he
 was the special god of the Dorian Greeks, among whom comradeship became
-an institution. <span id="fr_7"></span>[1](#fn_7) It was said of him
+an institution. <span id="fr_7"></span>[1](#fn_7.md) It was said of him
 that to expiate his pollution by the blood of the Python (whom he slew),
 he became the slave and devoted favorite of Admetus; and Müller <span
-id="fr_8"></span>[2](#fn_8) describes a Dorian religious festival, in
+id="fr_8"></span>[2](#fn_8.md) describes a Dorian religious festival, in
 which a boy, taking the part of Apollo, "probably imitated the manner in
 which the god, as herdsman and slave of Alcestis, submitted to the most
 degrading service." Alcestis, in fact, the wife of Admetus, said of
@@ -332,14 +332,14 @@ Apollo (in a
 verse of Sophocles cited by Plutarch): οὑμὸς δ\`ἀλέκτωρ αὐτον ἦγε πρὸς
 "μύλην". When we consider that Apollo, as Sun god, corresponds in some
 points to the Syrian Baal (masculine), and that in his epithet Karneios,
-used among the Dorians, <span id="fr_9"></span>[1](#fn_9) he corresponds
+used among the Dorians, <span id="fr_9"></span>[1](#fn_9.md) he corresponds
 to the Syrian Ashtaroth *Karnaim* (feminine), we seem to see a possible
 clue connecting certain passages in the Bible--which refer to the rites
 of the Syrian tribes and their occasional adoption in the Jewish
 Temple--with some phases of the Dorian religious ritual.
 
 "The Hebrews entering Syria," says Richard Burton, <span
-id="fr_10"></span>[2](#fn_10) "found it religionised by Assyria and
+id="fr_10"></span>[2](#fn_10.md) "found it religionised by Assyria and
 Babylonia, when the Accadian Ishtar had passed West, and had become
 Ashtoreth, Ashtaroth, or Ashirah, the Anaitis of Armenia, the Phœnician
 Astarte, and the Greek Aphrodite, the great Moon-goddess who is queen of
@@ -366,13 +366,13 @@ xiv. 24; xv. 12; and xxii. 46. And the word translated "grove" is
 Asherah. There is some doubt, I believe, as to the exact function of
 these *Kedeshim* in the temple ritual, and some doubt as to whether the
 translation of the word given in our Authorised Version is
-justified. <span id="fr_11"></span>[1](#fn_11) It is clear, however,
+justified. <span id="fr_11"></span>[1](#fn_11.md) It is clear, however,
 that these men corresponded in some way to the *Kedeshoth* or sacred
 women, who were--like the *Devadasis* of the Hindu temples--a kind of
 courtesan or prostitute dedicated to the god, and strange as it may seem
 to the modern mind, it is probable that they united some kind of sexual
 service with prophetic functions. Dr. Frazer, speaking <span
-id="fr_12"></span>[2](#fn_12) of the sacred slaves or *Kedeshim* in
+id="fr_12"></span>[2](#fn_12.md) of the sacred slaves or *Kedeshim* in
 various parts of Syria, concludes
 
 <span id="page_30">p. 30</span>
@@ -391,12 +391,12 @@ As to the Asherah, or sometimes plural Asherim, translated "grove,"--for
 which the women wove hangings--the most generally accepted opinion is
 that it was a wooden post or tree stripped of its branches and planted
 in the ground beside an altar, whether of Jehovah or other gods. <span
-id="fr_13"></span>[1](#fn_13) Several biblical passages, like Jeremiah
+id="fr_13"></span>[1](#fn_13.md) Several biblical passages, like Jeremiah
 ii. 27, suggest that it was an emblem of Baal or of the male organ, and
 others (*e.g.*, Judges ii. 13, and iii. 7) connect it with Ashtoreth,
 the female partner of Baal; while the weaving of hangings or garments
 for the "grove" suggests the combination of female with male in one
-effigy. <span id="fr_14"></span>[2](#fn_14) At any rate we may conclude
+effigy. <span id="fr_14"></span>[2](#fn_14.md) At any rate we may conclude
 
 <span id="page_31">p. 31</span>
 
@@ -414,13 +414,13 @@ temple they were detested by the more zealous adherents of Jehovah,
 because--for one reason at any rate--they belonged to the rival cult of
 the Syrian Baal and Ashtoreth, the *Kedeshim* in fact being "consecrated
 to the Mother of the Gods, the famous Dea Syria." <span
-id="fr_15"></span>[1](#fn_15) And they were detestable, too, because
+id="fr_15"></span>[1](#fn_15.md) And they were detestable, too, because
 they went hand in hand with the cultivation of 'familiar spirits' and
 'wizards'--who of course knew nothing of Jehovah! Thus we see (2 Kings
 xxi.) that Manasseh followed the abominations of the heathen, building
 up the high places and the 'groves' and the altars for Baal. "And he
 made his son pass through the fire, and observed times, and used
-enchantments, <span id="fr_16"></span>[2](#fn_16) and dealt with
+enchantments, <span id="fr_16"></span>[2](#fn_16.md) and dealt with
 
 <span id="page_32">p. 32</span>
 
@@ -436,10 +436,10 @@ attached to the temples as wives, priestesses and temple prostitutes of
 the python-god. But besides these "there are male *Kosio* as well as
 female *Kosio*, that is there are dedicated men as well as dedicated
 women, priests as well as priestesses, and the ideas and customs in
-regard to them seem to be similar. <span id="fr_17"></span>[1](#fn_17)
+regard to them seem to be similar. <span id="fr_17"></span>[1](#fn_17.md)
 "Indeed," he says, "the points of resemblance between the prophets of
 Israel and of West Africa are close and curious." <span
-id="fr_18"></span>[2](#fn_18) It must be said, however, that Dr. Frazer
+id="fr_18"></span>[2](#fn_18.md) It must be said, however, that Dr. Frazer
 does not in either case insist on the inference of homosexuality. On the
 contrary, he rather endeavours to avoid it, and of course it would be
 unreasonable to suppose any *invariable* connection of these "sacred
@@ -457,7 +457,7 @@ this. He says that the Bonzes themselves allowed that this was so, but
 maintained that it was no sin. They said that intercourse with woman was
 for them a deadly sin, or even punishable with death; but that the other
 relation was, in their eyes, by no means execrable, but harmless and
-even commendable. <span id="fr_19"></span>[1](#fn_19) And, as it was
+even commendable. <span id="fr_19"></span>[1](#fn_19.md) And, as it was
 then, so on the whole it appears to be now, or to have been till very
 lately. In all the Buddhist sects in Japan (except Shinto) celibacy is
 imposed on the priests, but homosexual relations are not forbidden.
@@ -473,7 +473,7 @@ those referred to in the Hebrew
 temple or chief house of worship keeps one or two men, or more,
 according to the idol--who go about attired like women, even from their
 childhood, and talk like women, and imitate them in their manner,
-carriage, and all else." <span id="fr_20"></span>[1](#fn_20) These
+carriage, and all else." <span id="fr_20"></span>[1](#fn_20.md) These
 served in the temples, and were made use of "almost as if by way of
 sanctity and religion" (*casi come por via de santidad y religion*); and
 he concludes that "the Devil had gained such mastery in that land that,
@@ -483,7 +483,7 @@ religion, in order that by so doing he might render them all the more
 subject to him. And this (he says) Fray Domingo told me in his own
 writing--a man of whom everyone knows what a lover of truth he is."
 
-Thus, as Richard Burton remarks, <span id="fr_21"></span>[2](#fn_21)
+Thus, as Richard Burton remarks, <span id="fr_21"></span>[2](#fn_21.md)
 these same usages in connection with religion have spread nearly all
 over the world and "been adopted by the priestly castes from Mesopotamia
 to Peru."
@@ -518,75 +518,75 @@ connection between homosexuality and sorcery.
 
 ### Footnotes
 
-<span id="fn_0"></span>[16:1](itp04.htm#fr_0) 2 vols. (Macmillan, 1908),
+<span id="fn_0"></span>[16:1](itp04.htm#fr_0) 2 vols. (Macmillan, 1908.md),
 vol. ii., p. 458.
 
-<span id="fn_1"></span>[18:1](itp04.htm#fr_1) See also Bancroft's
+<span id="fn_1"></span>[18:1](itp04.htm#fr_1.md) See also Bancroft's
 *Native Races of the Pacific States*, vol. i., p. 82.
 
-<span id="fn_2"></span>[24:1](itp04.htm#fr_2) *Moeurs des Sauvages
+<span id="fn_2"></span>[24:1](itp04.htm#fr_2.md) *Moeurs des Sauvages
 Ameriquains, comparées aux moeurs des premiers temps*, par le p. Lafitau
 (Paris, 1724).
 
-<span id="fn_3"></span>[25:1](itp04.htm#fr_3) Wm. A. Hammond in
+<span id="fn_3"></span>[25:1](itp04.htm#fr_3.md) Wm. A. Hammond in
 *American Journal of Neurology and Psychiatry* (August, 1882), p. 339.
 
-<span id="fn_4"></span>[26:1](itp04.htm#fr_4) See Dr. Karsch, Jahrbuch
+<span id="fn_4"></span>[26:1](itp04.htm#fr_4.md) See Dr. Karsch, Jahrbuch
 Sex. Zwisch, vol. iii., p. 142.
 
-<span id="fn_5"></span>[26:2](itp04.htm#fr_5) First Missionary Voyage to
+<span id="fn_5"></span>[26:2](itp04.htm#fr_5.md) First Missionary Voyage to
 the South Sea Islands (London, 1799), p. 200.
 
-<span id="fn_6"></span>[26:3](itp04.htm#fr_6) 2 vols. (London, 1829).
+<span id="fn_6"></span>[26:3](itp04.htm#fr_6) 2 vols. (London, 1829.md).
 
-<span id="fn_7"></span>[27:1](itp04.htm#fr_7) See chapters v., vi., and
+<span id="fn_7"></span>[27:1](itp04.htm#fr_7.md) See chapters v., vi., and
 vii. in this vol.
 
-<span id="fn_8"></span>[27:2](itp04.htm#fr_8) *History and Antiquities
+<span id="fn_8"></span>[27:2](itp04.htm#fr_8.md) *History and Antiquities
 of the Doric Race*, vol. i., p. 338.
 
-<span id="fn_9"></span>[28:1](itp04.htm#fr_9) See *infra*, ch. viii.,
-[p. 12](itp03.htm#page_12).
+<span id="fn_9"></span>[28:1](itp04.htm#fr_9.md) See *infra*, ch. viii.,
+[p. 12](itp03.htm#page_12.md).
 
-<span id="fn_10"></span>[28:2](itp04.htm#fr_10) *The Thousand Nights and
+<span id="fn_10"></span>[28:2](itp04.htm#fr_10.md) *The Thousand Nights and
 a Night* (1886), vol. x., p. 229.
 
-<span id="fn_11"></span>[29:1](itp04.htm#fr_11) See Frazer's A*donis,
+<span id="fn_11"></span>[29:1](itp04.htm#fr_11.md) See Frazer's A*donis,
 Attis and Osiris* (2nd edition, 1907), pp. 14, 64 note, etc.
 
-<span id="fn_12"></span>[29:2](itp04.htm#fr_12) *Ibid*., p. 67.
+<span id="fn_12"></span>[29:2](itp04.htm#fr_12.md) *Ibid*., p. 67.
 
-<span id="fn_13"></span>[30:1](itp04.htm#fr_13) See Frazer's *Adonis*,
+<span id="fn_13"></span>[30:1](itp04.htm#fr_13.md) See Frazer's *Adonis*,
 p. 14, note, etc.
 
-<span id="fn_14"></span>[30:2](itp04.htm#fr_14) See a full consideration
+<span id="fn_14"></span>[30:2](itp04.htm#fr_14.md) See a full consideration
 of this subject in *Ancient Pagan and Modern Christian Symbolism*, by
 Thomas Inman (2nd edition, 1874), p. 120 *et seq*. Also a long article
 by A. E. Whatham in *The American Journal of Religious Psychology and
 Education*, for July, 1911, on "The Sign of the Mother-goddess."
 
-<span id="fn_15"></span>[31:1](itp04.htm#fr_15) See Westermarck's
+<span id="fn_15"></span>[31:1](itp04.htm#fr_15.md) See Westermarck's
 *Origin and Development of the Moral Ideas*, vol. ii., p. 488.
 
-<span id="fn_16"></span>[31:2](itp04.htm#fr_16) All this suggests the
+<span id="fn_16"></span>[31:2](itp04.htm#fr_16.md) All this suggests the
 practice of some early and primitive science, and much resembles the
 accusations made in the thirteenth century against our Roger Bacon,
 pioneer of modern science.
 
-<span id="fn_17"></span>[32:1](itp04.htm#fr_17) *Adonis*, etc. p. 60.
+<span id="fn_17"></span>[32:1](itp04.htm#fr_17.md) *Adonis*, etc. p. 60.
 
-<span id="fn_18"></span>[32:2](itp04.htm#fr_18) *Ibid*., p. 66.
+<span id="fn_18"></span>[32:2](itp04.htm#fr_18.md) *Ibid*., p. 66.
 
-<span id="fn_19"></span>[33:1](itp04.htm#fr_19) See T. Karsch-Haack,
+<span id="fn_19"></span>[33:1](itp04.htm#fr_19.md) See T. Karsch-Haack,
 *Forschungen über gleichgeschlechtliche Liebe* (Munich), Die Japaner, p.
 77. Also *The Letters of Fr. Xavier*, translated into German by Joseph
 Burg (3 vols., 1836-40).
 
-<span id="fn_20"></span>[34:1](itp04.htm#fr_20) See *la Chronica del
+<span id="fn_20"></span>[34:1](itp04.htm#fr_20.md) See *la Chronica del
 Peru*, by Cieza de Leon (Antwerp, 1554), ch. 64.
 
-<span id="fn_21"></span>[34:2](itp04.htm#fr_21) *Op. cit.*, p. 243. 34
+<span id="fn_21"></span>[34:2](itp04.htm#fr_21.md) *Op. cit.*, p. 243. 34
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. As Wizard or Witch](itp05)
+[Next: Chapter II. As Wizard or Witch](itp05.md)

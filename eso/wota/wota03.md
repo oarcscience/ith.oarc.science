@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](wota02)  [Next](wota04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](wota02)  [Next](wota04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0008BCE64/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0008BCE64/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Wisdom of the Ages*, by George A. Fuller, \[1916\], at Intangible
 Textual Heritage
 
@@ -97,4 +97,4 @@ Love the wings that bear thee onward amid circling spheres of light.
 
 ------------------------------------------------------------------------
 
-[Next: III](wota04)
+[Next: III](wota04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly39)  [Next](lly41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly39)  [Next](lly41.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ large quantities for winter use.
 
 ------------------------------------------------------------------------
 
-[Next: Fish](lly41)
+[Next: Fish](lly41.md)

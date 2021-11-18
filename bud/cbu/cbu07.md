@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu06)  [Next](cbu08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu06)  [Next](cbu08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -54,7 +54,7 @@ forced from the
 good flour by repeated revolutions of the wheel. The statement of facts,
 the urgent appeal, and the proof are repeated in the inculcation of each
 of the "four truths." The wheel of Buddhist preaching was thus made to
-perform twelve revolutions. <span id="fr_20"></span>[1](#fn_20)
+perform twelve revolutions. <span id="fr_20"></span>[1](#fn_20.md)
 
 Having once launched the subject under these four heads, it was natural
 that the Hindoo minds of the time, fond as they were of dialectical
@@ -90,7 +90,7 @@ This was the foundation of the spiritual communities of Buddhism. The
 *Sanga*, or assembly of believers, distinguished by common vows of
 abstinence from marriage, from animal food, and the occupations of
 social life, now commenced. The Sangarama and Vihara, <span
-id="fr_21"></span>[1](#fn_21) or *monastery*, was soon rendered
+id="fr_21"></span>[1](#fn_21.md) or *monastery*, was soon rendered
 necessary for the residence of the voluntary cœnobites, who daily grew
 in numbers, and the greatest social revolution that ever took place in
 India was fairly begun.
@@ -168,12 +168,12 @@ bodies. But while it had triumphed through Zoroaster's influence in
 Persia, it was destined to be expelled from India by Buddhism. With
 these new converts, Buddha went to the city of Rajagriha, and was
 received there with perfect confidence and admiration. The king
-Vimbasâra, Ajatashatru's father, <span id="fr_22"></span>[1](#fn_22) and
+Vimbasâra, Ajatashatru's father, <span id="fr_22"></span>[1](#fn_22.md) and
 all the principal persons in the city, Brahmans, officers, and people,
 became his disciples.
 
 The ruins of this city are still visited by the Jains, at a spot sixteen
-miles south-west of Bahar. <span id="fr_23"></span>[2](#fn_23) It was
+miles south-west of Bahar. <span id="fr_23"></span>[2](#fn_23.md) It was
 the metropolis of the Magadha princes till the era of Ashôka, the
 Buddhist monarch who ruled all India about two hundred years after the
 time of Shakyamuni. Here Buddha taught for many years, and received some
@@ -236,28 +236,28 @@ appearance. Yashodara then took a signet ring and gave it to the boy,
 saying to him, "This is your father's; give it to him." Rahula took it
 and gave it at once to Buddha. The king and all the courtiers said,
 "Good! this boy is truly the son of Buddha." <span
-id="fr_24"></span>[1](#fn_24)
+id="fr_24"></span>[1](#fn_24.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_20"></span>[28:1](cbu07.htm#fr_20) *Shï-er-hing-fa-lun*.
+<span id="fn_20"></span>[28:1](cbu07.htm#fr_20.md) *Shï-er-hing-fa-lun*.
 
-<span id="fn_21"></span>[29:1](cbu07.htm#fr_21) *Sanga*, "assembly;"
+<span id="fn_21"></span>[29:1](cbu07.htm#fr_21.md) *Sanga*, "assembly;"
 *arâma*, "garden;" *Vihâra*, "a place for walking about in."
 
-<span id="fn_22"></span>[31:1](cbu07.htm#fr_22) From *Vimba*, "shadow;"
+<span id="fn_22"></span>[31:1](cbu07.htm#fr_22.md) From *Vimba*, "shadow;"
 *sâra*, "strength." In old Chinese, *Bimbasala*.
 
-<span id="fn_23"></span>[31:2](cbu07.htm#fr_23) Eitel's *Handbook of
+<span id="fn_23"></span>[31:2](cbu07.htm#fr_23.md) Eitel's *Handbook of
 Chinese Buddhism*.
 
-<span id="fn_24"></span>[33:1](cbu07.htm#fr_24) Other stories take the
+<span id="fn_24"></span>[33:1](cbu07.htm#fr_24.md) Other stories take the
 place of this in Mr. Beal's translation of *The Romantic Legend of Sâkya
 Buddha*.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III. From the Commencement of Rahula's Religious Life
-Till the Near Approach of the Nirvana](cbu08)
+Till the Near Approach of the Nirvana](cbu08.md)

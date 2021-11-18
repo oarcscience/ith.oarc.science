@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr30)  [Next](wsgr32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr30)  [Next](wsgr32.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ men all dislike his smell, and so they leave him by himself.
 
 ------------------------------------------------------------------------
 
-[Next: How the Turkey Hid Her Eggs](wsgr32)
+[Next: How the Turkey Hid Her Eggs](wsgr32.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu04)  [Next](tmu06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu04)  [Next](tmu06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_18">p. 18</span>
 
-### NIRĀLAMBA <span id="fr_4"></span>[1](#fn_4)-UPANISHAḌ
+### NIRĀLAMBA <span id="fr_4"></span>[1](#fn_4.md)-UPANISHAḌ
 
 ### OF
 
@@ -46,7 +46,7 @@ Agrāhya? Who is Sannyāsi? Thus are the questions.
 
 It is the Chaiṭanya that appears, through the aspects of Karma and
 Jñāna, as this vast mundane egg composed of Mahaṭ, Ahaṅkāra and the five
-elements, earth, water, fire, Vāyu and [Ākāś](errata.htm#2)—that is
+elements, earth, water, fire, Vāyu and [Ākāś](errata.htm#2.md)—that is
 secondless—that is devoid of all Upāḍhis \[vehicles\], that is full of
 all Śakṭis \[potencies\], that is without beginning and end, that is
 described as pure, beneficial, peaceful, and Guṇa-less and that is
@@ -56,7 +56,7 @@ indescribable.
 
 2\. Who is Īśwara? and what are His characteristics?
 
-[Brahman](errata.htm#3) itself, having through His Śakṭi called Prakṛṭi
+[Brahman](errata.htm#3.md) itself, having through His Śakṭi called Prakṛṭi
 (matter) created the worlds and being latent in them, becomes the ruler
 of Buḍḍhi and Inḍriyas (organs of sense and action) as well as Brahma
 (the creator) and others. Hence he is named Īśwara.
@@ -178,12 +178,12 @@ gardens, lands, etc., forms bondage.
 The thoughts of I-ness as actor, etc., are bondage.
 
 The thought of the development in oneself of the eight Siḍḍhis (higher
-psychical powers) as Anima and others <span id="fr_5"></span>[1](#fn_5)
+psychical powers) as Anima and others <span id="fr_5"></span>[1](#fn_5.md)
 is bondage.
 
 The thought of propitiating the angels, men, etc., is bondage. The
 thought of going through the eight means of Yoga <span
-id="fr_6"></span>[2](#fn_6) practice, Yama, etc., is bondage.
+id="fr_6"></span>[2](#fn_6.md) practice, Yama, etc., is bondage.
 
 The thought of performing the duties of one's own caste and order of
 life is bondage.
@@ -281,18 +281,18 @@ Such is the Upanishaḍ.
 
 ### Footnotes
 
-<span id="fn_4"></span>[18:1](tmu05.htm#fr_4) Lit.—without support.
+<span id="fn_4"></span>[18:1](tmu05.htm#fr_4.md) Lit.—without support.
 
-<span id="fn_5"></span>[21:1](tmu05.htm#fr_5) There are 18 Siḍḍhis, 8
+<span id="fn_5"></span>[21:1](tmu05.htm#fr_5.md) There are 18 Siḍḍhis, 8
 higher and 10 lower.
 
-<span id="fn_6"></span>[21:2](tmu05.htm#fr_6) They are Yama, Niyama,
+<span id="fn_6"></span>[21:2](tmu05.htm#fr_6.md) They are Yama, Niyama,
 etc.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 4. Maiṭreya-Upanishaḍ of Sāmaveḍa](tmu06)
+[Next: 4. Maiṭreya-Upanishaḍ of Sāmaveḍa](tmu06.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl14)  [Next](hpl16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl14)  [Next](hpl16.md) 
 
 ------------------------------------------------------------------------
 
@@ -469,4 +469,4 @@ as Memnon hails it from the banks of the Nile.
 
 ------------------------------------------------------------------------
 
-[Next: The Terrible Old Man (1921)](hpl16)
+[Next: The Terrible Old Man (1921)](hpl16.md)

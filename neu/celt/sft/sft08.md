@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sft07)  [Next](sft09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sft07)  [Next](sft09.md) 
 
 ------------------------------------------------------------------------
 
@@ -1095,4 +1095,4 @@ The Supernatural Lapse of Time in Fairyland
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII: The Supernatural Lapse of Time in Fairyland
-contd](sft09)
+contd](sft09.md)

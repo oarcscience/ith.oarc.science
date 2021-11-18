@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](moj03)  [Next](moj05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](moj03)  [Next](moj05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Mysteries of John*, by Charles Fillmore, \[1946\], at Intangible
 Textual Heritage
 
@@ -348,6 +348,6 @@ spiritual consciousness.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](moj05)
+[Next: Chapter 3](moj05.md)
 
 </div>

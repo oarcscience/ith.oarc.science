@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ihas08)  [Next](ihas10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ihas08)  [Next](ihas10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Initiation, Human and Solar*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 <span id="img_04800"></span> <span align="CENTER"> [![Solar and
 Planetary Hierarchies](tn/04800.jpg)  
-Click to enlarge](img/04800.jpg)  
+Click to enlarge](img/04800.jpg.md)  
 Solar and Planetary Hierarchies  
 </span>
 
@@ -27,7 +27,7 @@ Solar and Planetary Hierarchies
 
 <span id="img_04900"></span> <span align="CENTER"> [![Key to Diagram of
 Solar and Planetary Hierarchies](tn/04900.jpg)  
-Click to enlarge](img/04900.jpg)  
+Click to enlarge](img/04900.jpg.md)  
 Key to Diagram of Solar and Planetary Hierarchies  
 </span>
 
@@ -445,4 +445,4 @@ through the portal of initiation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Probationary Path](ihas10)
+[Next: Chapter VII. The Probationary Path](ihas10.md)

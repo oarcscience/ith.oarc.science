@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl005)  [Next](cohl007) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl005)  [Next](cohl007.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,10 +15,10 @@ It commences now.
 
 ### A TIME OF TROUBLE
 
-The place is <span id="fr_5"></span>[1](#fn_5) Ohi'o\` \[on the Allegany
+The place is <span id="fr_5"></span>[1](#fn_5.md) Ohi'o\` \[on the Allegany
 river\], in Diono?sade'gî \[Cornplanter village\].
 
-Now it is the harvest time, so he <span id="fr_6"></span>[2](#fn_6)
+Now it is the harvest time, so he <span id="fr_6"></span>[2](#fn_6.md)
 said.
 
 Now a party of people move. They go down in canoes the Allegany river.
@@ -30,13 +30,13 @@ The weather changes and they move again. They go farther down the river.
 The ice melts opening up the stream and so they go still farther down.
 They land at Dione:gâ \[Pittsburgh\]. It is a little village of white
 people \[literally, "our younger brethren" <span
-id="fr_7"></span>[3](#fn_7)\]. Here they barter their skins, dried meat
+id="fr_7"></span>[3](#fn_7.md)\]. Here they barter their skins, dried meat
 and fresh game for strong drink. They put a barrel of it in their
 canoes. Now all the canoes are lashed together like a raft.
 
 Now all the men become filled with strong drink (gonigä'nongi). They
 yell and sing like demented people. Those who are in the middle canoes
-do this. <span id="fr_8"></span>[4](#fn_8)
+do this. <span id="fr_8"></span>[4](#fn_8.md)
 
 Now they are homeward bound.
 
@@ -65,28 +65,28 @@ footprints are in all the fireplaces.
 
 Now the dogs yelp and cry in all the houses for they are hungry.
 
-So this is what happens. <span id="fr_9"></span>[1](#fn_9)
+So this is what happens. <span id="fr_9"></span>[1](#fn_9.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_5"></span>[20:1](cohl006.htm#fr_5) The present tense is
+<span id="fn_5"></span>[20:1](cohl006.htm#fr_5.md) The present tense is
 always used by Chief Cornplanter.
 
-<span id="fn_6"></span>[20:2](cohl006.htm#fr_6) The narrator, Handsome
+<span id="fn_6"></span>[20:2](cohl006.htm#fr_6.md) The narrator, Handsome
 Lake.
 
-<span id="fn_7"></span>[20:3](cohl006.htm#fr_7) The Seneca term is
+<span id="fn_7"></span>[20:3](cohl006.htm#fr_7.md) The Seneca term is
 Honio?'o<sup>n\`</sup>, meaning "our younger brother."
 
-<span id="fn_8"></span>[20:4](cohl006.htm#fr_8) The intoxicated men were
+<span id="fn_8"></span>[20:4](cohl006.htm#fr_8.md) The intoxicated men were
 put in the middle canoes to prevent their jumping into the water. The
 more sober men paddled from the outer canoes. This debauchery was common
 among the Six Nations at the beginning of the 19th century.
 
-<span id="fn_9"></span>[21:1](cohl006.htm#fr_9) See plate 10.
+<span id="fn_9"></span>[21:1](cohl006.htm#fr_9.md) See plate 10.
 
 ------------------------------------------------------------------------
 
-[Next: The Sick Man](cohl007)
+[Next: The Sick Man](cohl007.md)

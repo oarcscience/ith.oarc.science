@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico045) 
-[Next](nico047) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico045.md) 
+[Next](nico047.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ This, then, is one species of the just.
 ------------------------------------------------------------------------
 
 [Next: Chapter 4. Rectificatory justice, in accordance with arithmetical
-progression](nico047)
+progression](nico047.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp88)  [Next](prp90) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp88)  [Next](prp90.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ midnight.'\]
 ------------------------------------------------------------------------
 
 [Next: 90. Thou who with prickle affrightest men and passives with
-sickle!](prp90)
+sickle!](prp90.md)

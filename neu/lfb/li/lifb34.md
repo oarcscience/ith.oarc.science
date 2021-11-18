@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb33)  [Next](lifb35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb33)  [Next](lifb35.md) 
 
 </div>
 
@@ -72,7 +72,7 @@ suspiciously.
 
 'Because of a service you did me last winter, which I have never
 forgotten,' answered the little fellow. 'You know, I am sure, that the
-korigans <span id="fr_2"></span>[3](#fn_2) who dwell in the White Corn
+korigans <span id="fr_2"></span>[3](#fn_2.md) who dwell in the White Corn
 country have declared war on my people, because they say that they are
 the friends of man. We were therefore obliged to take refuge in distant
 lands, and to hide ourselves at first under different animal shapes.
@@ -274,12 +274,12 @@ From 'Le Foyer Breton,' par E. Souvestre.
 
 ### Footnotes
 
-<span id="fn_2"></span>[3](lifb34.htm#fr_2) The spiteful fairies.
+<span id="fn_2"></span>[3](lifb34.htm#fr_2.md) The spiteful fairies.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Winning of Olwen](lifb35)
+[Next: The Winning of Olwen](lifb35.md)
 
 </div>

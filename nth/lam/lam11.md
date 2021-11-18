@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam10)  [Next](lam12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam10)  [Next](lam12.md) 
 
 ------------------------------------------------------------------------
 
@@ -211,4 +211,4 @@ those we love.
 
 ------------------------------------------------------------------------
 
-[Next: X. Individuality](lam12)
+[Next: X. Individuality](lam12.md)

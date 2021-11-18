@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp30)  [Next](dmp32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp30)  [Next](dmp32.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ Then the gods come in and tell thee answer to everything.
 
 ------------------------------------------------------------------------
 
-[Next: Col. XXIX](dmp32)
+[Next: Col. XXIX](dmp32.md)

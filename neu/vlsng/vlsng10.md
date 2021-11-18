@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng09)  [Next](vlsng11) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng09)  [Next](vlsng11.md) 
 
 ------------------------------------------------------------------------
 
@@ -215,4 +215,4 @@ with the water of the fountain.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX: How Helgi, the son of Sigmund, won King Hodbrod and
-his Realm, and wedded Sigurn.](vlsng11)
+his Realm, and wedded Sigurn.](vlsng11.md)

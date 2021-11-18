@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](lus02)  [Next](lus04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](lus02)  [Next](lus04.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ own sword. Camoëns was the first who wooed the modern Epic Muse, and she
 gave him the wreath of a first lover: a sort of epic poetry unheard of
 before; or, as Voltaire calls it, *une nouvelle espèce d’epopée*; and
 the grandest subject it is (of profane history) which the world has ever
-beheld. <span id="fr_13"></span>[\*](#fn_13) A voyage esteemed too great
+beheld. <span id="fr_13"></span>[\*](#fn_13.md) A voyage esteemed too great
 for man to dare; the adventures of this voyage through unknown oceans
 deemed unnavigable; the eastern world happily discovered, and for ever
 indissolubly joined and given to the western; the grand Portuguese
@@ -172,7 +172,7 @@ of pursuing his subject. He has not, like Tasso, given it a total
 appearance of fiction; nor has he, like Lucan, excluded allegory and
 poetical machinery. Whether he intended it or not (for his genius was
 sufficient to suggest its propriety), the judicious precept of
-Petronius <span id="fr_14"></span>[\*](#fn_14) is the model of the
+Petronius <span id="fr_14"></span>[\*](#fn_14.md) is the model of the
 Lusiad. That elegant writer proposes a poem on the civil war, and no
 poem, ancient or modern, merits the character there sketched out in any
 degree comparative to the Lusiad. A truth of history is preserved; yet,
@@ -191,10 +191,10 @@ bowers of love. And, never was the *furentis animi vaticinatio* more
 conspicuously displayed than in the prophetic song, the view of the
 spheres, and the globe of the earth. Tasso’s imitation of the Island of
 Venus is not equal to the original; and, though "Virgil’s myrtles <span
-id="fr_15"></span>[†](#fn_15) dropping blood are nothing to Tasso’s
+id="fr_15"></span>[†](#fn_15.md) dropping blood are nothing to Tasso’s
 enchanted forest," what are all Ismeno’s enchantments to the grandeur
 and horror of the appearance, prophecy, and vanishment of the spectre of
-Camoëns! <span id="fr_16"></span>[‡](#fn_16) It has long been agreed
+Camoëns! <span id="fr_16"></span>[‡](#fn_16.md) It has long been agreed
 among critics, that the solemnity of religious observances gives great
 dignity to the historical narrative of epic poetry. Camoëns, in the
 embarkation of the fleet, and in several other places, is peculiarly
@@ -245,7 +245,7 @@ is the epic poem of the birth of commerce,
 
 and, in a particular manner, the epic poem of whatever country has the
 control and possession of the commerce of India. <span
-id="fr_17"></span>[\*](#fn_17)
+id="fr_17"></span>[\*](#fn_17.md)
 
 An unexhausted fertility and variety of poetical description, an
 unexhausted elevation of sentiment, and a constant tenor of the grand
@@ -263,17 +263,17 @@ In contro al sol, the ne riporta il giorno."
 It only remains to give some account of the version of the Lusiad which
 is now offered to the public. Beside the translations mentioned in the
 life of Camoëns, M. Duperron De Castera, in 1735, gave, in French prose,
-a loose unpoetical paraphrase <span id="fr_18"></span>[†](#fn_18) of the
+a loose unpoetical paraphrase <span id="fr_18"></span>[†](#fn_18.md) of the
 Lusiad. Nor does Sir Richard Fanshaw’s English version, published during
 the usurpation of Cromwell, merit a better character. Though stanza be
 rendered for stanza, though at first view it has the appearance of being
 exceedingly literal, this version is nevertheless exceedingly
 unfaithful. Uncountenanced by his original, Fanshaw--
 
-"Teems with many a dead-born jest." <span id="fr_19"></span>[‡](#fn_19)
+"Teems with many a dead-born jest." <span id="fr_19"></span>[‡](#fn_19.md)
 
 Nor had he the least idea of the dignity of the epic style, <span
-id="fr_20"></span>[§](#fn_20) or of
+id="fr_20"></span>[§](#fn_20.md) or of
 
 <span id="page_xxxii">p. xxxii</span>
 
@@ -307,7 +307,7 @@ undertaking, and however he may have failed in it, the translator
 acknowledges, that in this spirit he has endeavoured to give the Lusiad
 in English. Even farther liberties, in one or two instances, seemed to
 him advantageous------But a minuteness <span
-id="fr_21"></span>[\*](#fn_21) in
+id="fr_21"></span>[\*](#fn_21.md) in
 
 <span id="page_xxxiii">p. xxxiii</span>
 
@@ -320,7 +320,7 @@ of his work; and besides, the original is in the hands of the world.
 
 ### Footnotes
 
-<span id="fn_13"></span>[xxviii:\*](lus03.htm#fr_13) The drama and the
+<span id="fn_13"></span>[xxviii:\*](lus03.htm#fr_13.md) The drama and the
 epopœia are in nothing so different as in this--the subjects of the
 drama are inexhaustible, those of the epopœia are perhaps exhausted. He
 who chooses war, and warlike characters, cannot appear as an original.
@@ -333,33 +333,33 @@ Columbus afford materials equal to that of Gama, the adventures of the
 hero, and the view of the extent of his discoveries must now appear as
 servile copies of the Lusiad.
 
-<span id="fn_14"></span>[xxix:\*](lus03.htm#fr_14) See his
+<span id="fn_14"></span>[xxix:\*](lus03.htm#fr_14.md) See his
 Satyricon.--*Ed*.
 
-<span id="fn_15"></span>[xxix:†](lus03.htm#fr_15) See letters on
+<span id="fn_15"></span>[xxix:†](lus03.htm#fr_15.md) See letters on
 Chivalry and Romance.
 
-<span id="fn_16"></span>[xxix:‡](lus03.htm#fr_16) The Lusiad is also
+<span id="fn_16"></span>[xxix:‡](lus03.htm#fr_16.md) The Lusiad is also
 rendered poetical by other fictions. The elegant satire on King
 Sebastian, under the name of Acteon; and the prosopopœia of the populace
 of Portugal venting their murmurs upon the beach when Gama sets sail,
 display the richness of our author’s poetical genius, and are not
 inferior to anything of the kind in the classics.
 
-<span id="fn_17"></span>[xxxi:\*](lus03.htm#fr_17) Hence the great
+<span id="fn_17"></span>[xxxi:\*](lus03.htm#fr_17.md) Hence the great
 interest which we as Britons either do, or ought to, feel in this noble
 epic. We are the successors of the Portuguese in the possession and
 government of India; and therefore what interested them must have for
 us, as the actual possessors, a double interest.--*Ed*.
 
-<span id="fn_18"></span>[xxxi:†](lus03.htm#fr_18) Castera was every way
+<span id="fn_18"></span>[xxxi:†](lus03.htm#fr_18.md) Castera was every way
 unequal to his task. He did not perceive his author’s beauties. He
 either suppresses or lowers the most poetical passages, and substitutes
 French tinsel and impertinence in their place.
 
-<span id="fn_19"></span>[xxxi:‡](lus03.htm#fr_19) Pope, Odyss. xx.
+<span id="fn_19"></span>[xxxi:‡](lus03.htm#fr_19.md) Pope, Odyss. xx.
 
-<span id="fn_20"></span>[xxxi:§](lus03.htm#fr_20) Richard Fanshaw, Esq.,
+<span id="fn_20"></span>[xxxi:§](lus03.htm#fr_20.md) Richard Fanshaw, Esq.,
 afterwards Sir Richard, was English Ambassador both at Madrid and
 Lisbon. He had a taste for literature, and translated from the Italian
 several pieces which were of service in the refinement of our poetry.
@@ -381,7 +381,7 @@ these have already appeared in the notes. It may be necessary to add,
 that the version of Fanshaw, though the Lusiad very particularly
 requires them, was given to the public without one note.
 
-<span id="fn_21"></span>[xxxii:\*](lus03.htm#fr_21) Some liberties of a
+<span id="fn_21"></span>[xxxii:\*](lus03.htm#fr_21.md) Some liberties of a
 less poetical kind, however, require to be mentioned. In Homer and
 Virgil’s lists of slain warriors, Dryden and Pope have omitted several
 names which would have rendered English versification <span
@@ -412,4 +412,4 @@ the more sonorous there can be no dispute.
 
 ------------------------------------------------------------------------
 
-[Next: Mickle’s Introduction to the Lusiad](lus04)
+[Next: Mickle’s Introduction to the Lusiad](lus04.md)

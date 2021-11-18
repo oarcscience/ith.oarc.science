@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar068) [Next](gbar070)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar068) [Next](gbar070.md)
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ of Israel, who was come to visit his people.
 
 ------------------------------------------------------------------------
 
-[Next](gbar070)
+[Next](gbar070.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](por54)  [Next](por56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](por54)  [Next](por56.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path on the Rainbow*, edited by George W. Cronyn, \[1918\], at
 Intangible Textual Heritage
 
@@ -93,4 +93,4 @@ Q’ oalahag’ i-h-e-e la-wo!
 
 ------------------------------------------------------------------------
 
-[Next: Song of the Full Catch](por56)
+[Next: Song of the Full Catch](por56.md)

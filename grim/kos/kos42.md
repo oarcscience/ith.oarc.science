@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos41)  [Next](kos43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos41)  [Next](kos43.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,11 +15,11 @@ to be of linen, as well as those which he weareth beneath them; and if
 he hath the means they should be of Silk. If they be of linen the thread
 of which they are made should have been spun by a young maiden.
 
-The characters shown in *[Figure 55](kos44.htm#img_kos13)* should be
+The characters shown in *[Figure 55](kos44.htm#img_kos13.md)* should be
 embroidered on the breast with the needle of Art in red silk.
 
 The shoes should also be White, upon the which the characters in
-*[Figure 56](kos44.htm#img_kos13)* should be traced in the same way.
+*[Figure 56](kos44.htm#img_kos13.md)* should be traced in the same way.
 
 The shoes or boots should be made of white leather, on the which should
 be marked the Signs and Characters of Art. These shoes should be made
@@ -30,11 +30,11 @@ instruments also should be prepared, polished, brightened, and cleaned.
 Besides this, the Master of the Art should have a Crown made of virgin
 paper, upon the which should be written these four Names: YOD, HE, VAU,
 HE, in front; ADONAI behind; EL on the right; and ELOHIM on the left.
-(*See [Figure 57](kos44.htm#img_kos13)*.) These Names should be written
+(*See [Figure 57](kos44.htm#img_kos13)*..md) These Names should be written
 with the ink and pen of the Art, whereof we shall speak in the proper
 Chapter. The Disciples should also each have a Crown of virgin paper
 whereon these Divine symbols should be marked in scarlet. (*See [Figure
-58](kos44.htm#img_kos13)*.)
+58](kos44.htm#img_kos13)*..md)
 
 Take heed also that in clothing thyself with these aforesaid
 habiliments, that thou recite these Psalms:--Psalms xv.; cxxxi.;
@@ -62,4 +62,4 @@ all the better.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Of Places Wherein We May Conveniently Execute the
-Experiments And Operations of the Art](kos43)
+Experiments And Operations of the Art](kos43.md)

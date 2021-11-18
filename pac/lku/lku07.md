@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku06)  [Next](lku08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku06)  [Next](lku08.md) 
 
 ------------------------------------------------------------------------
 
 ### THE SIXTH ERA.
 
-A sacred emblem <span id="fr_1"></span>[1](#fn_1) is the kahili of
+A sacred emblem <span id="fr_1"></span>[1](#fn_1.md) is the kahili of
 Kuakamano  
 That sends out its stiff branches as a sacred frill,  
 Which fills the faint-hearted with awe,  
@@ -41,8 +41,8 @@ The child of Uli-a-kama last night.
 
 ### Footnotes
 
-<span id="fn_1"></span>[20:1](lku07.htm#fr_1) The royal plume.
+<span id="fn_1"></span>[20:1](lku07.htm#fr_1.md) The royal plume.
 
 ------------------------------------------------------------------------
 
-[Next: The Seventh Era](lku08)
+[Next: The Seventh Era](lku08.md)

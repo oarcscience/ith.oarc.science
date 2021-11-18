@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb11)  [Next](gyfb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb11)  [Next](gyfb13.md) 
 
 </div>
 
@@ -321,6 +321,6 @@ days over the marriage of Bensurdatu and the youngest princess.
 
 ------------------------------------------------------------------------
 
-[Next: The Magician's Horse](gyfb13)
+[Next: The Magician's Horse](gyfb13.md)
 
 </div>

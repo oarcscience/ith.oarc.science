@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](fsgr04)  [Next](fsgr06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](fsgr04)  [Next](fsgr06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Five Stages of Greek Religion*, by Gilbert Murray, \[1925\], at
 Intangible Textual Heritage
 
@@ -163,7 +163,7 @@ life can offer weigh at all in the balance. Indeed there is no balance.
 The man who makes terms with his conscience is essentially
 non-religious; the religious man knows that it will profit him nothing
 if he gain all this finite world and lose his stake in the infinite and
-eternal.<span id="an_fr_6_1"></span>[6\_1](fsgr05.htm#an_fn_6_1)
+eternal.<span id="an_fr_6_1"></span>[6\_1](fsgr05.htm#an_fn_6_1.md)
 
 <span id="page_7">p. 7</span>
 
@@ -195,7 +195,7 @@ define, which lies at the heart not only of religion, but of art and
 poetry and all the higher strivings of human emotion. I believe that at
 times we actually gain practical guidance in some questions where
 experience and argument fail.<span
-id="an_fr_8_1"></span>[8\_1](fsgr05.htm#an_fn_8_1) That is a great work
+id="an_fr_8_1"></span>[8\_1](fsgr05.htm#an_fn_8_1.md) That is a great work
 left for religion, but we must always remember two things about it:
 first, that the liability to error is enormous, indeed almost infinite;
 and second, that the results of confident error are very terrible.
@@ -224,7 +224,7 @@ widespread and almost ineradicable error of treating Homer as primitive,
 and more generally our unconscious insistence on starting with the
 notion of 'Gods'. Mr. Hartland, in his address as president of one of
 the sections of the International Congress of Religions at Oxford,<span
-id="an_fr_9_1"></span>[9\_1](fsgr05.htm#an_fn_9_1) dwelt on the
+id="an_fr_9_1"></span>[9\_1](fsgr05.htm#an_fn_9_1.md) dwelt on the
 significant fact about savage religions that wherever the word 'God' is
 used our trustiest witnesses tend to contradict one another. Among the
 best observers of the Arunta tribes, for instance, some hold that they
@@ -238,7 +238,7 @@ speculation. And we must always remember that one of the chief religions
 of the world, Buddhism, has risen to great moral and intellectual
 heights without using the conception of God at all; in his stead it has
 Dharma, the Eternal Law.<span
-id="an_fr_10_1"></span>[10\_1](fsgr05.htm#an_fn_10_1)
+id="an_fr_10_1"></span>[10\_1](fsgr05.htm#an_fn_10_1.md)
 
 Apart from some few philosophers, both Christian and Moslem, the gods of
 the ordinary man have as a rule been as a matter of course
@@ -250,7 +250,7 @@ most of us even now something of a shock to be told by a medieval Arab
 philosopher that to call God benevolent or righteous or to predicate of
 him any other human quality is just as Pagan and degraded as to say that
 he has a beard.<span
-id="an_fr_10_2"></span>[10\_2](fsgr05.htm#an_fn_10_2) Now the Greek gods
+id="an_fr_10_2"></span>[10\_2](fsgr05.htm#an_fn_10_2.md) Now the Greek gods
 seem at first sight quite particularly solid and anthropomorphic. The
 statues and vases speak clearly, and they are mostly borne out by the
 literature. Of course we must discount the kind of evidence that misled
@@ -265,7 +265,7 @@ like a statue, a habit of mind obviously wrong and indeed absurd, as if
 one thought of 'Labour' and 'Grief' as statues because Rodin or St.
 Gaudens has so represented them. And yet it was a habit into which the
 late Greeks themselves sometimes fell;<span
-id="an_fr_11_1"></span>[11\_1](fsgr05.htm#an_fn_11_1) their arts of
+id="an_fr_11_1"></span>[11\_1](fsgr05.htm#an_fn_11_1.md) their arts of
 sculpture and painting as applied to religion had been so dangerously
 successful: they sharpened and made vivid an anthropomorphism which in
 its origin had been mostly the result of normal human laziness. The
@@ -293,13 +293,13 @@ romance-maker's imagination, and see if the religious thinkers of the
 great period use, or imply, the same highly human conceptions. We shall
 find Parmenides telling us that God coincides with the universe, which
 is a sphere and immovable;<span
-id="an_fr_12_1"></span>[12\_1](fsgr05.htm#an_fn_12_1) Heraclitus, that
+id="an_fr_12_1"></span>[12\_1](fsgr05.htm#an_fn_12_1.md) Heraclitus, that
 God is 'day night, summer winter, war peace, satiety hunger'.
 Xenophanes, that God is all-seeing, all-hearing, and all mind;<span
-id="an_fr_12_2"></span>[12\_2](fsgr05.htm#an_fn_12_2) and as for his
+id="an_fr_12_2"></span>[12\_2](fsgr05.htm#an_fn_12_2.md) and as for his
 supposed human shape, why, if bulls and lions were to speak about God
 they would doubtless tell us that he was a bull or a lion.<span
-id="an_fr_12_3"></span>[12\_3](fsgr05.htm#an_fn_12_3) We must notice the
+id="an_fr_12_3"></span>[12\_3](fsgr05.htm#an_fn_12_3.md) We must notice the
 instinctive language of the poets, using the word <u>θεός</u> in many
 subtle senses for which our word 'God' is too stiff, too personal, and
 too anthropomorphic. <u>Τό εὐτυχεῖν</u>, 'the fact of success', is 'a
@@ -307,7 +307,7 @@ god and more than a god'; <u>τὸ γιγνώσκειν φίλους</u>, 'the
 recognizing a friend' after long absence, is a 'god'; wine is a 'god'
 whose body is poured out in libation to gods; and in the unwritten law
 of the human conscience 'a great god liveth and groweth not old'.<span
-id="an_fr_12_4"></span>[12\_4](fsgr05.htm#an_fn_12_4) You will <span
+id="an_fr_12_4"></span>[12\_4](fsgr05.htm#an_fn_12_4.md) You will <span
 id="page_13">p. 13</span> say that is mere poetry or philosophy: it
 represents a particular theory or a particular metaphor. I think not.
 Language of this sort is used widely and without any explanation or
@@ -333,7 +333,7 @@ question is the evidence of actual cult. Miss Harrison has <span
 id="page_14">p. 14</span> here shown us the right method, and following
 her we will begin with the three great festivals of Athens, the Diasia,
 the Thesmophoria, and the Anthesteria.<span
-id="an_fr_14_1"></span>[14\_1](fsgr05.htm#an_fn_14_1)
+id="an_fr_14_1"></span>[14\_1](fsgr05.htm#an_fn_14_1.md)
 
 The Diasia was said to be the chief festival of Zeus, the central figure
 of the Olympians, though our authorities generally add an epithet to
@@ -355,13 +355,13 @@ Zeus. To Zeus and all the heavenly gods men gave sacrifice in the form
 of a feast, in which the god had his portion and the worshippers theirs.
 The two parties cemented their friendship and feasted happily together.
 But the sacrifice at the Diasia was a holocaust:<span
-id="an_fr_14_2"></span>[14\_2](fsgr05.htm#an_fn_14_2) every shred of the
+id="an_fr_14_2"></span>[14\_2](fsgr05.htm#an_fn_14_2.md) every shred of the
 victim was burnt to ashes, that no man might partake of it. We know
 <span id="page_15">p. 15</span> quite well the meaning of that form of
 sacrifice: it is a sacrifice to placate or appease the powers below, the
 Chthonioi, the dead and the lords of death. It was performed, as our
 authorities tell us, <u>μετὰ στυγνότητος</u>, with shuddering or
-repulsion.<span id="an_fr_15_1"></span>[15\_1](fsgr05.htm#an_fn_15_1)
+repulsion.<span id="an_fr_15_1"></span>[15\_1](fsgr05.htm#an_fn_15_1.md)
 
 The Diasia was a ritual of placation, that is, of casting away various
 elements of pollution or danger and appeasing the unknown wraths of the
@@ -388,7 +388,7 @@ and a rising again of life above it; but it is hard to find definite
 traces of any personal <span id="page_16">p. 16</span> goddess. The
 Olympian Demeter and Persephone dwindle away as we look closer, and we
 are left with the shadow Thesmophoros, '*She who carries Thesmoi*',<span
-id="an_fr_16_1"></span>[16\_1](fsgr05.htm#an_fn_16_1) not a substantive
+id="an_fr_16_1"></span>[16\_1](fsgr05.htm#an_fn_16_1.md) not a substantive
 personal goddess, but merely a personification of the ritual itself: an
 imaginary Charm-bearer generated by so much charm-bearing, just as
 Meilichios in the Diasia was generated from the ritual of appeasement.
@@ -400,7 +400,7 @@ regularly find the most lovely of all goddesses, Demeter and Persephone,
 habitually—I will not say represented by, but dangerously associated
 with, a sacred Sow. A Pig is the one animal in Greek religion that
 actually had sacrifice made to it.<span
-id="an_fr_16_2"></span>[16\_2](fsgr05.htm#an_fn_16_2)
+id="an_fr_16_2"></span>[16\_2](fsgr05.htm#an_fn_16_2.md)
 
 ------------------------------------------------------------------------
 
@@ -414,7 +414,7 @@ appeasing the dead. All the days of the Feast were *nefasti*, of ill
 omen; the first day especially was <u>ἐς τὸ πᾶν ἀποφράς</u>. On it the
 Wine Jars which were also Seed and Funeral Jars were opened and the
 spirits of the Dead let loose in the world.<span
-id="an_fr_17_1"></span>[17\_1](fsgr05.htm#an_fn_17_1) Nameless and
+id="an_fr_17_1"></span>[17\_1](fsgr05.htm#an_fn_17_1.md) Nameless and
 innumerable, the ghosts are summoned out of their tombs, and are duly
 feasted, each man summoning his own ghosts to his own house, and
 carefully abstaining from any act that would affect his neighbours. And
@@ -428,14 +428,14 @@ is the presence of all these dead ancestors? They have come, I suspect,
 to be born again, to begin a new life at the great Spring festival. For
 the new births of the tribe, the new crops, the new kids, the new human
 beings, are of course really only the old ones returned to earth.<span
-id="an_fr_17_2"></span>[17\_2](fsgr05.htm#an_fn_17_2) The important
+id="an_fr_17_2"></span>[17\_2](fsgr05.htm#an_fn_17_2.md) The important
 thing is to get them properly placated and purified, free from the
 contagion of ancient sin or underworld anger. For nothing is so
 dangerous as the presence of what I may call raw ghosts. The Anthesteria
 <span id="page_18">p. 18</span> contained, like other feasts of the
 kind, a <u>ἱερὸς γάμος</u>, or Holy Marriage, between the wife of the
 Basileus or Sacred King, and the imaginary god.<span
-id="an_fr_18_1"></span>[18\_1](fsgr05.htm#an_fn_18_1) Whatever reality
+id="an_fr_18_1"></span>[18\_1](fsgr05.htm#an_fn_18_1.md) Whatever reality
 there ever was in the ceremony has apparently by classical times faded
 away. But the place where the god received his bride is curious. It was
 called the Boukolion, or Bull's Shed. It was not originally the home of
@@ -447,7 +447,7 @@ Thus in each of these great festivals we find that the Olympian gods
 vanish away, and we are left with three things only: first, with an
 atmosphere of religious dread; second, with a whole sequence of magical
 ceremonies which, in two at least of the three cases,<span
-id="an_fr_18_2"></span>[18\_2](fsgr05.htm#an_fn_18_2) produce a kind of
+id="an_fr_18_2"></span>[18\_2](fsgr05.htm#an_fn_18_2.md) produce a kind of
 strange personal emanation of <span id="page_19">p. 19</span>
 themselves, the Appeasements producing Meilichios, the Charm-bearings
 Thesmophoros; and thirdly, with a divine or sacred animal. In the Diasia
@@ -484,27 +484,27 @@ the lizard, the bull, to Apollo. Dionysus, always like a wilder and less
 middle-aged Zeus, appears freely as a snake, bull, he-goat, and lion.
 Allowing for some isolated exceptions, the safest rule in all these
 cases is that the attribute is original and the god is added.<span
-id="an_fr_20_1"></span>[20\_1](fsgr05.htm#an_fn_20_1) It comes out very
+id="an_fr_20_1"></span>[20\_1](fsgr05.htm#an_fn_20_1.md) It comes out very
 clearly in the case of the snake and the bull. The tremendous *mana* of
 the wild bull indeed occupies almost half the stage of pre-Olympian
 ritual. The religion unearthed by Dr. Evans in Crete is permeated by the
 bull of Minos. The heads and horns are in almost every sacred room and
 on every altar. The great religious scene depicted on the sarcophagus of
-Hagia Triada<span id="an_fr_20_2"></span>[20\_2](fsgr05.htm#an_fn_20_2)
+Hagia Triada<span id="an_fr_20_2"></span>[20\_2](fsgr05.htm#an_fn_20_2.md)
 centres in the holy blood that flows from the neck of a captive and
 dying bull. Down into classical times bull's blood was a sacred thing
 which it was dangerous to touch and death to taste: to drink a cup of it
 was the most heroic form of suicide.<span
-id="an_fr_20_3"></span>[20\_3](fsgr05.htm#an_fn_20_3) The sacrificial
+id="an_fr_20_3"></span>[20\_3](fsgr05.htm#an_fn_20_3.md) The sacrificial
 bull at Delphi was called *Hosiôtêr*: he was not merely *hosios*, holy;
 he <span id="page_21">p. 21</span> was *Hosiôtêr*, the Sanctifier, He
 who maketh Holy. It was by contact with him that holiness was spread to
 others. On a coin and a vase, cited by Miss Harrison,<span
-id="an_fr_21_1"></span>[21\_1](fsgr05.htm#an_fn_21_1) we have a bull
+id="an_fr_21_1"></span>[21\_1](fsgr05.htm#an_fn_21_1.md) we have a bull
 entering a holy cave and a bull standing in a shrine. We have holy
 pillars whose holiness consists in the fact that they have been touched
 with the blood of a bull. We have a long record of a bull-ritual at
-Magnesia,<span id="an_fr_21_2"></span>[21\_2](fsgr05.htm#an_fn_21_2) in
+Magnesia,<span id="an_fr_21_2"></span>[21\_2](fsgr05.htm#an_fn_21_2.md) in
 which Zeus, though he makes a kind of external claim to be lord of the
 feast, dare not claim that the bull is sacrificed to him. Zeus has a ram
 to himself and stands apart, showing but a weak and shadowy figure
@@ -516,13 +516,13 @@ divine bull.
 Now what is the origin of this conception of the sacred animal? It was
 first discovered and explained with almost prophetic insight by Dr.
 Robertson Smith.<span
-id="an_fr_21_3"></span>[21\_3](fsgr05.htm#an_fn_21_3) The origin is what
+id="an_fr_21_3"></span>[21\_3](fsgr05.htm#an_fn_21_3.md) The origin is what
 he calls a sacramental feast: you eat the flesh and drink the blood of
 the divine animal in order—here I diverge from Robertson Smith's
 language—to get into you his *mana*, his vital power. The classical
 instance is the sacramental eating of a camel by an Arab tribe, recorded
 in the works of St. Nilus.<span
-id="an_fr_21_4"></span>[21\_4](fsgr05.htm#an_fn_21_4) The camel was
+id="an_fr_21_4"></span>[21\_4](fsgr05.htm#an_fn_21_4.md) The camel was
 devoured on a particular day at the rising of the morning star. He was
 cut to pieces alive, and every fragment of him had <span id="page_22">p.
 22</span> to be consumed before the sun rose. If the life had once gone
@@ -543,7 +543,7 @@ man as having some uncanny vitality which he longed for, or at least
 some uncanny power over the weather or the crops. Yet to him it no doubt
 appeared obvious. Frogs, for instance, could always bring rain by
 croaking for it, and who can limit the powers and the knowledge of
-birds?<span id="an_fr_22_1"></span>[22\_1](fsgr05.htm#an_fn_22_1)
+birds?<span id="an_fr_22_1"></span>[22\_1](fsgr05.htm#an_fn_22_1.md)
 
 Here comes a difficulty. If the Olympian god was not there to start
 with, how did he originate? We can understand—at least after a course of
@@ -562,7 +562,7 @@ St. Paul, we may remember, passionately summoned the heathen to refrain
 from worshipping <u>τὴν κτίσιν</u>, the creation, and go back to <u>τὸν
 κτίσαντα</u>, the creator, human and masculine. It was as a rule a road
 that they were only too ready to travel.<span
-id="an_fr_23_1"></span>[23\_1](fsgr05.htm#an_fn_23_1)
+id="an_fr_23_1"></span>[23\_1](fsgr05.htm#an_fn_23_1.md)
 
 But this tendency was helped by a second factor. Research has shown us
 the existence in early Mediterranean religion of a peculiar transitional
@@ -570,7 +570,7 @@ step, a man wearing the head or skin of a holy beast. The Egyptian gods
 are depicted as men with beasts' heads: that is, the best authorities
 tell us, their shapes are derived from the kings and priests who on
 great occasions of sacrifice covered their heads with a beast-mask.<span
-id="an_fr_23_2"></span>[23\_2](fsgr05.htm#an_fn_23_2) Minos, with his
+id="an_fr_23_2"></span>[23\_2](fsgr05.htm#an_fn_23_2.md) Minos, with his
 projection the Minotaur, was a bull-god and wore a bull-mask. From early
 Island gems, from a fresco at Mycenae, from Assyrian reliefs, Mr. A. B.
 Cook has collected many examples of this mixed figure—a man wearing the
@@ -579,7 +579,7 @@ him <span id="page_24">p. 24</span> offering libations. Sometimes the
 worshipper has become so closely identified with his divine beast that
 he is represented not as a mere man wearing the *protomê* of a lion or
 bull, but actually as a lion or bull wearing the *protomê* of
-another.<span id="an_fr_24_1"></span>[24\_1](fsgr05.htm#an_fn_24_1)
+another.<span id="an_fr_24_1"></span>[24\_1](fsgr05.htm#an_fn_24_1.md)
 Hera, <u>βοῶπις</u>, with a cow's head; Athena, <u>γλαυκῶπις</u>, with
 an owl's head, or bearing on her breast the head of the Gorgon; Heracles
 clad in a lion's skin and covering his brow <u>δεινῷ χάσματι θηρός</u>,
@@ -588,7 +588,7 @@ class. So does the Dadouchos at Eleusis and other initiators who let
 candidates for purification set one foot—one only and that the left—on
 the skin of a sacrificial ram, and called the skin <u>Διὸς κῶας</u>, the
 fleece not of a ram, but of Zeus.<span
-id="an_fr_24_2"></span>[24\_2](fsgr05.htm#an_fn_24_2)
+id="an_fr_24_2"></span>[24\_2](fsgr05.htm#an_fn_24_2.md)
 
 The *mana* of the slain beast is in the hide and head and blood and fur,
 and the man who wants to be in thorough contact with the divinity gets
@@ -600,7 +600,7 @@ But *par excellence* he who has the right is the priest, the
 medicine-man, the divine king. If an old suggestion of my own is right,
 he is the original <u>θεός</u> or <u>θεσός</u>, the incarnate medicine
 or spell or magic power.<span
-id="an_fr_24_3"></span>[24\_3](fsgr05.htm#an_fn_24_3) He at <span
+id="an_fr_24_3"></span>[24\_3](fsgr05.htm#an_fn_24_3.md) He at <span
 id="page_25">p. 25</span> first, I suspect, is the only <u>θεός</u> or
 'God' that his society knows. We commonly speak of ancient kings being
 'deified'; we regard the process as due to an outburst of superstition
@@ -614,11 +614,11 @@ the autumn floods; his knowledge of what was lawful and what was not,
 and his innate power to curse or to 'make dead'. Recent researches have
 shown us in abundance the early Greek medicine-chiefs making thunder and
 lightning and rain.<span
-id="an_fr_25_1"></span>[25\_1](fsgr05.htm#an_fn_25_1) We have long known
+id="an_fr_25_1"></span>[25\_1](fsgr05.htm#an_fn_25_1.md) We have long known
 the king as possessor of Dike and Themis, of justice and tribal custom;
 we have known his effect on the fertility of the fields and the tribes,
 and the terrible results of a king's sin or a king's sickness.<span
-id="an_fr_25_2"></span>[25\_2](fsgr05.htm#an_fn_25_2)
+id="an_fr_25_2"></span>[25\_2](fsgr05.htm#an_fn_25_2.md)
 
 What is the subsequent history of this medicine-chief or <u>θεός</u>? He
 is differentiated, as it were: the visible part of him becomes merely
@@ -646,22 +646,22 @@ anthropomorphic; they only lack the concreteness, the lucid shape and
 the detailed personal history of the Olympians. In this connexion we
 must not forget the power of hallucination, still fairly strong, as the
 history of religious revivals in America will bear witness,<span
-id="an_fr_26_1"></span>[26\_1](fsgr05.htm#an_fn_26_1) but far stronger,
+id="an_fr_26_1"></span>[26\_1](fsgr05.htm#an_fn_26_1.md) but far stronger,
 of course, among the impressionable hordes of early men. 'The god', says
 M. Doutté in his profound study of Algerian magic, 'c'est le désir
 collectif personnifié', the collective desire projected, <span
 id="page_27">p. 27</span> as it were, or personified.<span
-id="an_fr_27_1"></span>[27\_1](fsgr05.htm#an_fn_27_1) Think of the gods
+id="an_fr_27_1"></span>[27\_1](fsgr05.htm#an_fn_27_1.md) Think of the gods
 who have appeared in great crises of battle, created sometimes by the
 desperate desire of men who have for years prayed to them, and who are
 now at the last extremity for lack of their aid, sometimes by the
 confused and excited remembrances of the survivors after the victory.
 The gods who led the Roman charge at Lake Regillus,<span
-id="an_fr_27_2"></span>[27\_2](fsgr05.htm#an_fn_27_2) the gigantic
+id="an_fr_27_2"></span>[27\_2](fsgr05.htm#an_fn_27_2.md) the gigantic
 figures that were seen fighting before the Greeks at Marathon,<span
-id="an_fr_27_3"></span>[27\_3](fsgr05.htm#an_fn_27_3) even the celestial
+id="an_fr_27_3"></span>[27\_3](fsgr05.htm#an_fn_27_3.md) even the celestial
 signs that promised Constantine victory for the cross:<span
-id="an_fr_27_4"></span>[27\_4](fsgr05.htm#an_fn_27_4)—these are the
+id="an_fr_27_4"></span>[27\_4](fsgr05.htm#an_fn_27_4.md)—these are the
 effects of great emotion: we can all understand them. But even in daily
 life primitive men seem to have dealt more freely than we generally do
 with apparitions and voices and daemons of every kind. One of the most
@@ -685,7 +685,7 @@ passionate prayer for pity. The highest of all gods, Zeus, was the
 special patron of the suppliant; and it is strange and instructive to
 find that Zeus the all-powerful is actually identified with this
 Aphiktor: <u>Ζεὺς μὲν Ἀφίκτωρ ἐπίδοι προφρόνως</u>.<span
-id="an_fr_28_1"></span>[28\_1](fsgr05.htm#an_fn_28_1) The assembled
+id="an_fr_28_1"></span>[28\_1](fsgr05.htm#an_fn_28_1.md) The assembled
 prayer, the united cry that rises from the oppressed of the world, is
 itself grown to be a god, and the greatest god. A similar projection
 arose from the dance of the *Kouroi*, or initiate youths, in the
@@ -697,7 +697,7 @@ most gracious shapes of the classical pantheon. The Kouros appears as
 Dionysus, as Apollo, as Hermes, as Ares: in our clearest and most
 detailed piece of evidence he actually appears with the characteristic
 history and attributes of Zeus.<span
-id="an_fr_28_2"></span>[28\_2](fsgr05.htm#an_fn_28_2)
+id="an_fr_28_2"></span>[28\_2](fsgr05.htm#an_fn_28_2.md)
 
 This spirit of the dance, who leads it or personifies its emotion,
 stands more clearly perhaps than any <span id="page_29">p. 29</span>
@@ -715,14 +715,14 @@ two things, the food-supply and the tribe-supply, the desire not to die
 of famine and not to be harried or conquered by the neighbouring tribe.
 The fertility of the earth and the fertility of the tribe, these two are
 felt in early religion as one.<span
-id="an_fr_29_1"></span>[29\_1](fsgr05.htm#an_fn_29_1) The earth is a
+id="an_fr_29_1"></span>[29\_1](fsgr05.htm#an_fn_29_1.md) The earth is a
 mother: the human mother is an <u>ἄρουρα</u>, or ploughed field. This
 earth-mother is the characteristic and central feature of the early
 Aegean religions. The introduction of agriculture made her a mother of
 fruits and corn, and it is in that form that we best know her. But in
 earlier days she had been a mother of the spontaneous growth of the
 soil, of wild beasts and trees and all the life of the mountain.<span
-id="an_fr_29_2"></span>[29\_2](fsgr05.htm#an_fn_29_2) In early Crete she
+id="an_fr_29_2"></span>[29\_2](fsgr05.htm#an_fn_29_2.md) In early Crete she
 stands with lions erect on either side of her or with snakes held in her
 hands and coiled about her body. And as the earth is mother <span
 id="page_30">p. 30</span> when the harvest comes, so in spring she is
@@ -741,11 +741,11 @@ of crops. When men learn to calculate in longer units, the Sun appears:
 they turn to the Sun for their calendar, and at all times of course the
 Sun has been a power in agriculture. He is not called Kourotrophos, but
 the Young Sun returning after winter is himself a Kouros,<span
-id="an_fr_30_1"></span>[30\_1](fsgr05.htm#an_fn_30_1) and all the Kouroi
+id="an_fr_30_1"></span>[30\_1](fsgr05.htm#an_fn_30_1.md) and all the Kouroi
 have some touch of the Sun in them. The Cretan Spring-song of the
 Kouretes prays for <u>νέοι πολῖται</u>, young citizens, quite simply
 among the other gifts of the spring.<span
-id="an_fr_30_2"></span>[30\_2](fsgr05.htm#an_fn_30_2)
+id="an_fr_30_2"></span>[30\_2](fsgr05.htm#an_fn_30_2.md)
 
 This is best shown by the rites of tribal initiation, which seem
 normally to have formed part of the spring <span id="page_31">p.
@@ -753,7 +753,7 @@ normally to have formed part of the spring <span id="page_31">p.
 are the initiated young men. They pass through their initiation; they
 become no longer <u>παῖδες</u>, boys, but <u>ἄνδρες</u>, men. The actual
 name Kouros is possibly connected with <u>κείρειν</u>, to shave,<span
-id="an_fr_31_1"></span>[31\_1](fsgr05.htm#an_fn_31_1) and may mean that
+id="an_fr_31_1"></span>[31\_1](fsgr05.htm#an_fn_31_1.md) and may mean that
 after this ceremony they first cut their long hair. Till then the
 <u>κοῦρος</u> is <u>ἀκερσεκόμης</u>—with hair unshorn. They have now
 open to them the two roads that belong to <u>ἄνδρες</u> alone: they have
@@ -766,15 +766,15 @@ as a kind of man, and an old woman as a kind of woman; but in primitive
 peoples as soon as a man and woman cease to be able to perform his and
 her due tribal functions they cease to be men and women, <u>ἄνδρες</u>
 and <u>γυναῖκες</u>: the ex-man becomes a <u>γέρων</u>; the ex-woman a
-<u>γραῦς</u>.<span id="an_fr_31_2"></span>[31\_2](fsgr05.htm#an_fn_31_2)
+<u>γραῦς</u>.<span id="an_fr_31_2"></span>[31\_2](fsgr05.htm#an_fn_31_2.md)
 We distinguish between 'boy' and 'man', between 'girl' and 'woman'; but
 apart from the various words for baby, Attic Greek would have four sharp
 divisions, <u>παῖς</u>, <u>ἔφηβος</u>, <u>ἀνήρ</u>, <u>γέρων</u>.<span
-id="an_fr_31_3"></span>[31\_3](fsgr05.htm#an_fn_31_3) In Sparta the
+id="an_fr_31_3"></span>[31\_3](fsgr05.htm#an_fn_31_3.md) In Sparta the
 <span id="page_32">p. 32</span> divisions are still sharper and more
 numerous, centring in the great initiation ceremonies of the Iranes, or
 full-grown youths, to the goddess called Orthia or Bortheia.<span
-id="an_fr_32_1"></span>[32\_1](fsgr05.htm#an_fn_32_1) These initiation
+id="an_fr_32_1"></span>[32\_1](fsgr05.htm#an_fn_32_1.md) These initiation
 ceremonies are called Teletai, 'completions': they mark the great 'rite
 of transition' from the immature, charming, but half useless thing which
 we call boy or girl, to the <u>τέλειος ἀνήρ</u>, the full member of the
@@ -785,7 +785,7 @@ we have obtained the material for understanding them, and the whole mass
 of the evidence needs re-treatment. For one instance, it is clear that a
 great number of rites which were formerly explained as remnants of human
 sacrifice are simply ceremonies of initiation.<span
-id="an_fr_32_2"></span>[32\_2](fsgr05.htm#an_fn_32_2)
+id="an_fr_32_2"></span>[32\_2](fsgr05.htm#an_fn_32_2.md)
 
 At the great spring Drômenon the tribe and the growing earth were
 renovated together: the earth arises afresh from her dead seeds, the
@@ -806,12 +806,12 @@ great, commits the sin of Hubris, and then is slain. The death is
 deserved; but the slaying is a sin: hence comes the next Year as
 Avenger, or as the Wronged One re-risen. 'All things pay retribution for
 their injustice one to another according to the ordinance of time.'<span
-id="an_fr_33_1"></span>[33\_1](fsgr05.htm#an_fn_33_1) It is this range
+id="an_fr_33_1"></span>[33\_1](fsgr05.htm#an_fn_33_1.md) It is this range
 of ideas, half suppressed during the classical period, but evidently
 still current among the ruder and less Hellenized peoples, which
 supplied St. Paul with some of his most famous and deep-reaching
 metaphors. 'Thou fool, that which thou sowest is not quickened except it
-die.'<span id="an_fr_33_2"></span>[33\_2](fsgr05.htm#an_fn_33_2) 'As He
+die.'<span id="an_fr_33_2"></span>[33\_2](fsgr05.htm#an_fn_33_2.md) 'As He
 was raised from the dead we may walk with Him in newness of life.' And
 this renovation must be preceded by a casting out and killing of the old
 polluted life—'the old man in us must first be crucified'.
@@ -834,10 +834,10 @@ below by Kêres, or Spirits, winged influences, shapeless or of unknown
 shape, sometimes the spirits of death, sometimes of disease, madness,
 calamity; thousands and thousands of them, as Sarpedon says, from whom
 man can never escape nor hide;<span
-id="an_fr_34_1"></span>[34\_1](fsgr05.htm#an_fn_34_1) 'all the air so
+id="an_fr_34_1"></span>[34\_1](fsgr05.htm#an_fn_34_1.md) 'all the air so
 crowded with them', says an unknown ancient poet, 'that there is not one
 empty chink into which you could push the spike of a blade of
-corn.'<span id="an_fr_34_2"></span>[34\_2](fsgr05.htm#an_fn_34_2)
+corn.'<span id="an_fr_34_2"></span>[34\_2](fsgr05.htm#an_fn_34_2.md)
 
 The extraordinary security of our modern life in times of peace makes it
 hard for us to realize, except by a definite effort of the imagination,
@@ -868,7 +868,7 @@ curious case attested of the Roman armies on the Danube, they were men
 of strong desires and weak imagination ready to die at the end of a
 short period, if in the meantime they might glut all their senses with
 unlimited indulgence.<span
-id="an_fr_35_1"></span>[35\_1](fsgr05.htm#an_fn_35_1)
+id="an_fr_35_1"></span>[35\_1](fsgr05.htm#an_fn_35_1.md)
 
 <span id="page_36">p. 36</span>
 
@@ -959,7 +959,7 @@ Hellenism wrought for mankind.
 
 <div class="footnote">
 
-<span id="an_fn_6_1"></span>[6\_1](fsgr05.htm#an_fr_6_1) Professor Émile
+<span id="an_fn_6_1"></span>[6\_1](fsgr05.htm#an_fr_6_1.md) Professor Émile
 Durkheim in his famous analysis of the religious emotions argues that
 when a man feels the belief and the command as something coming from
 without, superior, authoritative, of infinite import, it is because
@@ -994,7 +994,7 @@ M. Durkheim', in *Rev. Philosophique*, xxxvi, pp. 42-71 and 160-85.
 
 <div class="footnote">
 
-<span id="an_fn_8_1"></span>[8\_1](fsgr05.htm#an_fr_8_1) I suspect that
+<span id="an_fn_8_1"></span>[8\_1](fsgr05.htm#an_fr_8_1.md) I suspect that
 most reforms pass through this stage. A man somehow feels clear that
 some new course is, for him, right, though he cannot marshal the
 arguments convincingly in favour of it, and may even admit that the
@@ -1016,7 +1016,7 @@ come to them are really any more consistent.
 
 <div class="footnote">
 
-<span id="an_fn_9_1"></span>[9\_1](fsgr05.htm#an_fr_9_1) *Transactions
+<span id="an_fn_9_1"></span>[9\_1](fsgr05.htm#an_fr_9_1.md) *Transactions
 of the Third International Congress of Religions*, Oxford, 1908, pp.
 26-7.
 
@@ -1024,14 +1024,14 @@ of the Third International Congress of Religions*, Oxford, 1908, pp.
 
 <div class="footnote">
 
-<span id="an_fn_10_1"></span>[10\_1](fsgr05.htm#an_fr_10_1) *The
+<span id="an_fn_10_1"></span>[10\_1](fsgr05.htm#an_fr_10_1.md) *The
 Buddhist Dharma*, by Mrs. Rhys Davids.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_10_2"></span>[10\_2](fsgr05.htm#an_fr_10_2) See *Die
+<span id="an_fn_10_2"></span>[10\_2](fsgr05.htm#an_fr_10_2.md) See *Die
 Mutaziliten, oder die Freidenker im Islam*, von H. Steiner, 1865. This
 Arab was clearly under the influence of Plotinus or some other
 Neo-Platonist.
@@ -1040,7 +1040,7 @@ Neo-Platonist.
 
 <div class="footnote">
 
-<span id="an_fn_11_1"></span>[11\_1](fsgr05.htm#an_fr_11_1) Cf. E.
+<span id="an_fn_11_1"></span>[11\_1](fsgr05.htm#an_fr_11_1.md) Cf. E.
 Reisch, *Entstehung und Wandel griechischer Göttergestalten*. Vienna,
 1909.
 
@@ -1048,27 +1048,27 @@ Reisch, *Entstehung und Wandel griechischer Göttergestalten*. Vienna,
 
 <div class="footnote">
 
-<span id="an_fn_12_1"></span>[12\_1](fsgr05.htm#an_fr_12_1) Parm. Fr. 8,
+<span id="an_fn_12_1"></span>[12\_1](fsgr05.htm#an_fr_12_1.md) Parm. Fr. 8,
 3-7 (Diels<sup>2</sup>).
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_12_2"></span>[12\_2](fsgr05.htm#an_fr_12_2) Xen. Fr. 24
+<span id="an_fn_12_2"></span>[12\_2](fsgr05.htm#an_fr_12_2.md) Xen. Fr. 24
 (Diels<sup>2</sup>).
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_12_3"></span>[12\_3](fsgr05.htm#an_fr_12_3) Xen. Fr. 15.
+<span id="an_fn_12_3"></span>[12\_3](fsgr05.htm#an_fr_12_3.md) Xen. Fr. 15.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_12_4"></span>[12\_4](fsgr05.htm#an_fr_12_4) Aesch.
+<span id="an_fn_12_4"></span>[12\_4](fsgr05.htm#an_fr_12_4.md) Aesch.
 *Cho.* 60; Eur. *Hel.* 560; Bac. 284; Soph. *O.T.* 871. Cf. also <u>ἡ
 φρόνησις ἁγαθὴ θεὸς μέγας</u>. Soph. Fr. 836, 2 (Nauck).
 
@@ -1097,7 +1097,7 @@ A certain moment of time: <u>ἀρχὴ καὶ θεὸς ἐν ἀνθρώπο
 
 <div class="footnote">
 
-<span id="an_fn_14_1"></span>[14\_1](fsgr05.htm#an_fr_14_1) See J. E.
+<span id="an_fn_14_1"></span>[14\_1](fsgr05.htm#an_fr_14_1.md) See J. E.
 Harrison, *Prolegomena*, i, ii, iv; Mommsen, *Feste der Stadt Athen*,
 1898, pp. 308-22 (Thesmophoria), 384-404 (Anthesteria); 421-6 (Diasia).
 See also Pauly Wissowa, s.v.
@@ -1106,21 +1106,21 @@ See also Pauly Wissowa, s.v.
 
 <div class="footnote">
 
-<span id="an_fn_14_2"></span>[14\_2](fsgr05.htm#an_fr_14_2)
+<span id="an_fn_14_2"></span>[14\_2](fsgr05.htm#an_fr_14_2.md)
 *Prolegomena*, p. 15 f.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_15_1"></span>[15\_1](fsgr05.htm#an_fr_15_1) Luc.
+<span id="an_fn_15_1"></span>[15\_1](fsgr05.htm#an_fr_15_1.md) Luc.
 *Icaro-Menippos* 24 schol. ad loc.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_16_1"></span>[16\_1](fsgr05.htm#an_fr_16_1) Frequently
+<span id="an_fn_16_1"></span>[16\_1](fsgr05.htm#an_fr_16_1.md) Frequently
 dual, <u>τὼ Θεσμοφόρω</u>, under the influence of the 'Mother and
 Maiden' idea; Dittenberger *Inscr. Sylloge* 628, Ar. *Thesm.* 84, 296
 *et passim*. The plural <u>αἱ Θεσμοφόροι</u> used in late Greek is not,
@@ -1136,7 +1136,7 @@ Thesmoi were the objects carried.
 
 <div class="footnote">
 
-<span id="an_fn_16_2"></span>[16\_2](fsgr05.htm#an_fr_16_2) Frazer,
+<span id="an_fn_16_2"></span>[16\_2](fsgr05.htm#an_fr_16_2.md) Frazer,
 *Golden Bough*, ii. 44 ff.; A. B. Cook, *J. H. S.* xiv, pp. 153-4; J. E.
 Harrison, *Themis*, p. 5. See also A. Lang, *Homeric Hymns*, 1899, p.
 63.
@@ -1145,23 +1145,23 @@ Harrison, *Themis*, p. 5. See also A. Lang, *Homeric Hymns*, 1899, p.
 
 <div class="footnote">
 
-<span id="an_fn_17_1"></span>[17\_1](fsgr05.htm#an_fr_17_1) *Feste der
+<span id="an_fn_17_1"></span>[17\_1](fsgr05.htm#an_fr_17_1.md) *Feste der
 Stadt Athen*, p. 390 f. On Seed Jars, Wine Jars and Funeral Jars, see
 *Themis*, pp. 276-88, and Warde Fowler, 'Mundus Patet,' in *Journ. Roman
-Studies*, ii, pp. 25 ff. Cf. below, p. [28](#page_28) f.
+Studies*, ii, pp. 25 ff. Cf. below, p. [28](#page_28.md) f.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_17_2"></span>[17\_2](fsgr05.htm#an_fr_17_2) Dieterich,
+<span id="an_fn_17_2"></span>[17\_2](fsgr05.htm#an_fr_17_2.md) Dieterich,
 *Muttererde*, 1905, p. 48 f.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_18_1"></span>[18\_1](fsgr05.htm#an_fr_18_1) Dr. Frazer,
+<span id="an_fn_18_1"></span>[18\_1](fsgr05.htm#an_fr_18_1.md) Dr. Frazer,
 *The Magic Art*, ii. 137, thinks it not certain that the <u>γάμος</u>
 took place during the Anthesteria, at the same time as the oath of the
 <u>γεραιραί</u>. Without the <u>γάμος</u>, however, it is hard to see
@@ -1174,7 +1174,7 @@ Farnell, *Cults*, v. 217.
 
 <div class="footnote">
 
-<span id="an_fn_18_2"></span>[18\_2](fsgr05.htm#an_fr_18_2) One might
+<span id="an_fn_18_2"></span>[18\_2](fsgr05.htm#an_fr_18_2.md) One might
 perhaps say, in all three. <u>Ἀνθίστηρος τοῦ Πυθοχρηστοῦ κοινόν</u> is
 the name of a society of worshippers in the island of Thera, *I. G. I.*
 iii. 329. This gives a god Anthister, who is clearly identified with
@@ -1196,7 +1196,7 @@ See Hiller von Gaertringen in the *Festschrift für O. Benndorff*, p.
 
 <div class="footnote">
 
-<span id="an_fn_20_1"></span>[20\_1](fsgr05.htm#an_fr_20_1) Miss
+<span id="an_fn_20_1"></span>[20\_1](fsgr05.htm#an_fr_20_1.md) Miss
 Harrison, 'Bird and Pillar Worship in relation to Ouranian Divinities',
 *Transactions of the Third International Congress for the History of
 Religion*, Oxford, 1908, vol. ii, p. 154; Farnell, *Greece and Babylon*,
@@ -1206,7 +1206,7 @@ Religion*, Oxford, 1908, vol. ii, p. 154; Farnell, *Greece and Babylon*,
 
 <div class="footnote">
 
-<span id="an_fn_20_2"></span>[20\_2](fsgr05.htm#an_fr_20_2) First
+<span id="an_fn_20_2"></span>[20\_2](fsgr05.htm#an_fr_20_2.md) First
 published by R. Paribeni, 'Il Sarcofago dipinto di Hagia Triada', in
 *Monumenti antichi della R. Accademia dei Lincei*, xix, 1908, p. 6, T.
 i-iii. See also *Themis*, pp. 158 ff.
@@ -1215,21 +1215,21 @@ i-iii. See also *Themis*, pp. 158 ff.
 
 <div class="footnote">
 
-<span id="an_fn_20_3"></span>[20\_3](fsgr05.htm#an_fr_20_3) Ar.
+<span id="an_fn_20_3"></span>[20\_3](fsgr05.htm#an_fr_20_3.md) Ar.
 *Equites*, 82-4—or possibly of apotheosis. See *Themis*, p. 154, n. 2.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_21_1"></span>[21\_1](fsgr05.htm#an_fr_21_1) *Themis*, p.
+<span id="an_fn_21_1"></span>[21\_1](fsgr05.htm#an_fr_21_1.md) *Themis*, p.
 145, fig. 25; and p. 152, fig. 28 b.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_21_2"></span>[21\_2](fsgr05.htm#an_fr_21_2) O. Kern,
+<span id="an_fn_21_2"></span>[21\_2](fsgr05.htm#an_fr_21_2.md) O. Kern,
 *Inschriften v. Magnesia*, No. 98, discussed by O. Kern, *Arch. Anz.*
 1894, p. 78, and Nilsson, *Griechische Feste*, p. 23.
 
@@ -1237,7 +1237,7 @@ i-iii. See also *Themis*, pp. 158 ff.
 
 <div class="footnote">
 
-<span id="an_fn_21_3"></span>[21\_3](fsgr05.htm#an_fr_21_3) *Religion of
+<span id="an_fn_21_3"></span>[21\_3](fsgr05.htm#an_fr_21_3.md) *Religion of
 the Semites*, 1901, p. 338; Reuterskiold, in *Archiv f. Relig.* xv.
 1-23.
 
@@ -1245,14 +1245,14 @@ the Semites*, 1901, p. 338; Reuterskiold, in *Archiv f. Relig.* xv.
 
 <div class="footnote">
 
-<span id="an_fn_21_4"></span>[21\_4](fsgr05.htm#an_fr_21_4) *Nili
+<span id="an_fn_21_4"></span>[21\_4](fsgr05.htm#an_fr_21_4.md) *Nili
 Opera*, *Narrat.* iii. 28.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_22_1"></span>[22\_1](fsgr05.htm#an_fr_22_1) See
+<span id="an_fn_22_1"></span>[22\_1](fsgr05.htm#an_fr_22_1.md) See
 Aristophanes' *Birds*, e. g. 685-736: cf. the practice of augury from
 birds, and the art-types of Winged Kêres, Victories and Angels.
 
@@ -1260,14 +1260,14 @@ birds, and the art-types of Winged Kêres, Victories and Angels.
 
 <div class="footnote">
 
-<span id="an_fn_23_1"></span>[23\_1](fsgr05.htm#an_fr_23_1) Romans, i.
+<span id="an_fn_23_1"></span>[23\_1](fsgr05.htm#an_fr_23_1.md) Romans, i.
 25; viii. 20-3.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_23_2"></span>[23\_2](fsgr05.htm#an_fr_23_2) Lang, *Myth,
+<span id="an_fn_23_2"></span>[23\_2](fsgr05.htm#an_fr_23_2.md) Lang, *Myth,
 Ritual, and Religion*, 1906, ii. 284; ibid., 130; Moret, *Caractère
 religieux de la Monarchie Égyptienne*; Dieterich, *Mithrasliturgie*,
 1903.
@@ -1276,7 +1276,7 @@ religieux de la Monarchie Égyptienne*; Dieterich, *Mithrasliturgie*,
 
 <div class="footnote">
 
-<span id="an_fn_24_1"></span>[24\_1](fsgr05.htm#an_fr_24_1) A. B. Cook
+<span id="an_fn_24_1"></span>[24\_1](fsgr05.htm#an_fr_24_1.md) A. B. Cook
 in *J. H. S.* 1894, 'Animal Worship in the Mycenaean Age'. See also
 Hogarth on the 'Zakro Sealings', *J. H. S.* 1902; these seals show a
 riot of fancy in the way of mixed monsters, starting in all probability
@@ -1287,21 +1287,21 @@ Hogarth, p. 91.
 
 <div class="footnote">
 
-<span id="an_fn_24_2"></span>[24\_2](fsgr05.htm#an_fr_24_2) *Feste der
+<span id="an_fn_24_2"></span>[24\_2](fsgr05.htm#an_fr_24_2.md) *Feste der
 Stadt Athen*, p. 416.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_24_3"></span>[24\_3](fsgr05.htm#an_fr_24_3)
+<span id="an_fn_24_3"></span>[24\_3](fsgr05.htm#an_fr_24_3.md)
 *Anthropology and the Classics*, 1908, pp. 77, 78.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_25_1"></span>[25\_1](fsgr05.htm#an_fr_25_1) A. B. Cook,
+<span id="an_fn_25_1"></span>[25\_1](fsgr05.htm#an_fr_25_1.md) A. B. Cook,
 *Class. Rev.* xvii, pp. 275 ff.; A. J. Reinach, *Rev. de l'Hist. des
 Religions*, lx, p. 178; S. Reinach, *Cultes, Mythes, &c.*, ii. 160-6.
 
@@ -1309,7 +1309,7 @@ Religions*, lx, p. 178; S. Reinach, *Cultes, Mythes, &c.*, ii. 160-6.
 
 <div class="footnote">
 
-<span id="an_fn_25_2"></span>[25\_2](fsgr05.htm#an_fr_25_2) One may
+<span id="an_fn_25_2"></span>[25\_2](fsgr05.htm#an_fr_25_2.md) One may
 suggest in passing that this explains the enormous families attributed
 to many sacred kings of Greek legend: why Priam or Danaus have their
 fifty children, and Heracles, most prolific of all, his several hundred.
@@ -1320,7 +1320,7 @@ causes, e. g. the fifty moon-months of the Penteteris.
 
 <div class="footnote">
 
-<span id="an_fn_26_1"></span>[26\_1](fsgr05.htm#an_fr_26_1) See
+<span id="an_fn_26_1"></span>[26\_1](fsgr05.htm#an_fr_26_1.md) See
 *Primitive Traits in Religious Revivals*, by F. M. Davenport. New York,
 1906.
 
@@ -1328,21 +1328,21 @@ causes, e. g. the fifty moon-months of the Penteteris.
 
 <div class="footnote">
 
-<span id="an_fn_27_1"></span>[27\_1](fsgr05.htm#an_fr_27_1) E. Doutté,
+<span id="an_fn_27_1"></span>[27\_1](fsgr05.htm#an_fr_27_1.md) E. Doutté,
 *Magie et religion dans l'Afrique du Nord*, 1909, p. 601.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_27_2"></span>[27\_2](fsgr05.htm#an_fr_27_2) Cicero, *de
+<span id="an_fn_27_2"></span>[27\_2](fsgr05.htm#an_fr_27_2.md) Cicero, *de
 Nat. Deorum*, ii. 2; iii. 5, 6; Florus, ii. 12.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_27_3"></span>[27\_3](fsgr05.htm#an_fr_27_3) Plut.
+<span id="an_fn_27_3"></span>[27\_3](fsgr05.htm#an_fr_27_3.md) Plut.
 *Theseus*, 35; Paus. i. 32. 5. Herodotus only mentions a bearded and
 gigantic figure who struck Epizelos blind (vi. 117).
 
@@ -1350,7 +1350,7 @@ gigantic figure who struck Epizelos blind (vi. 117).
 
 <div class="footnote">
 
-<span id="an_fn_27_4"></span>[27\_4](fsgr05.htm#an_fr_27_4) Eusebius,
+<span id="an_fn_27_4"></span>[27\_4](fsgr05.htm#an_fr_27_4.md) Eusebius,
 *Vit. Constant.*, l. i, cc. 28, 29, 30; *Nazarius inter Panegyr. Vet.*
 x. 14. 15.
 
@@ -1358,7 +1358,7 @@ x. 14. 15.
 
 <div class="footnote">
 
-<span id="an_fn_28_1"></span>[28\_1](fsgr05.htm#an_fr_28_1) Aesch.
+<span id="an_fn_28_1"></span>[28\_1](fsgr05.htm#an_fr_28_1.md) Aesch.
 *Suppl.* 1, cf. 478 <u>Ζεὺς ἱκτήρ</u>. *Rise of the Greek
 Epic*<sup>3</sup>, p. 275 n. Adjectival phrases like <u>Ζεὺς
 Ἱκεσιος</u>, <u>Ἱκετήςιος</u>, <u>Ἱκταῖος</u> are common and call for no
@@ -1368,14 +1368,14 @@ remark.
 
 <div class="footnote">
 
-<span id="an_fn_28_2"></span>[28\_2](fsgr05.htm#an_fr_28_2) Hymn of the
+<span id="an_fn_28_2"></span>[28\_2](fsgr05.htm#an_fr_28_2.md) Hymn of the
 Kouretes, *Themis*, passim.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_29_1"></span>[29\_1](fsgr05.htm#an_fr_29_1) See in
+<span id="an_fn_29_1"></span>[29\_1](fsgr05.htm#an_fr_29_1.md) See in
 general I. King, *The Development of Religion*, 1910; E. J. Payne,
 *History of the New World*, 1892, p. 414. Also Dieterich, *Muttererde*,
 esp. pp. 37-58.
@@ -1384,7 +1384,7 @@ esp. pp. 37-58.
 
 <div class="footnote">
 
-<span id="an_fn_29_2"></span>[29\_2](fsgr05.htm#an_fr_29_2) See
+<span id="an_fn_29_2"></span>[29\_2](fsgr05.htm#an_fr_29_2.md) See
 Dieterich, *Muttererde*, J. E. Harrison, *Prolegomena*, chap. vi, 'The
 Making of a Goddess'; *Themis*, chap. vi, 'The Spring Drômenon'. As to
 the prehistoric art-type of this goddess technically called
@@ -1396,14 +1396,14 @@ figure-8 type came from two round shields. See p. 52.
 
 <div class="footnote">
 
-<span id="an_fn_30_1"></span>[30\_1](fsgr05.htm#an_fr_30_1) *Hymn Orph.*
+<span id="an_fn_30_1"></span>[30\_1](fsgr05.htm#an_fr_30_1.md) *Hymn Orph.*
 8, 10 <u>ὡροτρόφε κοῦρε</u>.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_30_2"></span>[30\_2](fsgr05.htm#an_fr_30_2) For the
+<span id="an_fn_30_2"></span>[30\_2](fsgr05.htm#an_fr_30_2.md) For the
 order in which men generally proceed in worship, turning their attention
 to (1) the momentary incidents of weather, rain, sunshine, thunder, &c.;
 (2) the Moon; (3) the Sun and stars, see Payne, *History of the New
@@ -1414,7 +1414,7 @@ p. 390.
 
 <div class="footnote">
 
-<span id="an_fn_31_1"></span>[31\_1](fsgr05.htm#an_fr_31_1) On the
+<span id="an_fn_31_1"></span>[31\_1](fsgr05.htm#an_fr_31_1.md) On the
 subject of Initiations see Webster, *Primitive Secret Societies*, New
 York, 1908; Schurtz, *Altersklassen und Männerbunde*, Berlin, 1902; Van
 Gennep, *Rites de Passage*, Paris, 1909; Nilsson, *Grundlage des
@@ -1425,7 +1425,7 @@ Spartanischen Lebens* in Klio xii (1912), pp. 308-40; Themis, p. 337, n.
 
 <div class="footnote">
 
-<span id="an_fn_31_2"></span>[31\_2](fsgr05.htm#an_fr_31_2) Cf. Dr.
+<span id="an_fn_31_2"></span>[31\_2](fsgr05.htm#an_fr_31_2.md) Cf. Dr.
 Rivers on *mate*, 'Primitive Conception of Death', *Hibbert Journal*,
 January 1912, p. 393.
 
@@ -1433,7 +1433,7 @@ January 1912, p. 393.
 
 <div class="footnote">
 
-<span id="an_fn_31_3"></span>[31\_3](fsgr05.htm#an_fr_31_3) Cf. Cardinal
+<span id="an_fn_31_3"></span>[31\_3](fsgr05.htm#an_fr_31_3.md) Cf. Cardinal
 Virtues, Pindar, *Nem.* iii. 72:
 
 <div class="poem">
@@ -1458,7 +1458,7 @@ also Pindar, *Pyth.* iv. 281.
 
 <div class="footnote">
 
-<span id="an_fn_32_1"></span>[32\_1](fsgr05.htm#an_fr_32_1) See Woodward
+<span id="an_fn_32_1"></span>[32\_1](fsgr05.htm#an_fr_32_1.md) See Woodward
 in *B. S. A.* xiv, 83. Nikagoras won four (successive?) victories as
 <u>μικκιχιζόμενος</u>, <u>πρόπαις</u>, <u>παῖς</u>, and
 <u>μελλείρην</u>, i. e. from his tenth to fifteenth year. He would then
@@ -1472,16 +1472,16 @@ common.
 
 <div class="footnote">
 
-<span id="an_fn_32_2"></span>[32\_2](fsgr05.htm#an_fr_32_2) See *Rise of
+<span id="an_fn_32_2"></span>[32\_2](fsgr05.htm#an_fr_32_2.md) See *Rise of
 the Greek Epic*, Appendix on Hym. Dem.; and W. R. Halliday, *C. R.* xxv,
 8. Nilsson's valuable article has appeared since the above was written
-(see [31\_1](fsgr05.htm#an_fn_31_1), p. 31).
+(see [31\_1](fsgr05.htm#an_fn_31_1), p. 31.md).
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_33_1"></span>[33\_1](fsgr05.htm#an_fr_33_1) Anaximander
+<span id="an_fn_33_1"></span>[33\_1](fsgr05.htm#an_fr_33_1.md) Anaximander
 apud Simplic. phys. 24, 13; Diels, *Fragmente der Vorsokratiker*, i. 13.
 See especially F. M. Cornford, *From Religion to Philosophy* (Cambridge,
 1912), i; also my article on English and Greek Tragedy in *Essays of the
@@ -1492,21 +1492,21 @@ Oxford English School*, 1912. This explanation of the <u>τρίτος
 
 <div class="footnote">
 
-<span id="an_fn_33_2"></span>[33\_2](fsgr05.htm#an_fr_33_2) 1 Cor. xv.
+<span id="an_fn_33_2"></span>[33\_2](fsgr05.htm#an_fr_33_2.md) 1 Cor. xv.
 36; Rom. vi. generally, 3-11.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_34_1"></span>[34\_1](fsgr05.htm#an_fr_34_1) *Il.* M. 326
+<span id="an_fn_34_1"></span>[34\_1](fsgr05.htm#an_fr_34_1.md) *Il.* M. 326
 f. <u>μυρίαι, ἃς οὐκ ἔστι φυγεῖν, βροτὸν οὐδ' ὑπαλύξαι</u>.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_34_2"></span>[34\_2](fsgr05.htm#an_fr_34_2) Frg. Ap.
+<span id="an_fn_34_2"></span>[34\_2](fsgr05.htm#an_fr_34_2.md) Frg. Ap.
 Plut. *Consol. ad Apoll.* xxvi . . . <u>ὅτι</u> "<u>πλείη μὲν γαῖα κακῶν
 πλείη δὲ θάλασσα</u>" <u>καὶ</u> "<u>τοιάδε θνητοῖσι κακὰ κακῶν</u>
 <u>ἀμφί τε κῆρες εἰλεῦνται,</u> <u>κενεὴ δ' εἴσδυσις οὐδ' ἀθέρι</u>"
@@ -1516,7 +1516,7 @@ Plut. *Consol. ad Apoll.* xxvi . . . <u>ὅτι</u> "<u>πλείη μὲν γ
 
 <div class="footnote">
 
-<span id="an_fn_35_1"></span>[35\_1](fsgr05.htm#an_fr_35_1) Frazer,
+<span id="an_fn_35_1"></span>[35\_1](fsgr05.htm#an_fr_35_1.md) Frazer,
 *Lectures on the Early History of the Kingship*, 267; F. Cumont, 'Les
 Actes de S. Dasius', in *Analecta Bollandiana*, xvi. 5-16: cf.
 especially what St. Augustine says about the disreputable hordes of
@@ -1530,6 +1530,6 @@ antiken Welt*, vol. iii, Anhang, pp. 503 ff.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Olympian Conquest](fsgr06)
+[Next: II. The Olympian Conquest](fsgr06.md)
 
 </div>

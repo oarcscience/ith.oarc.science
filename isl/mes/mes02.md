@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes01)  [Next](mes03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes01)  [Next](mes03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_vii">p. vii</span>
 
-### TRANSLATOR'S PREFACE <span id="fr_0"></span>[1](#fn_0)
+### TRANSLATOR'S PREFACE <span id="fr_0"></span>[1](#fn_0.md)
 
 THE historian El Eflākī was a disciple of Chelebī Emīr ‘Ārif, a grandson
 of the author of the Mesnevī. ‘Ārif died in <span
@@ -83,7 +83,7 @@ Armenia; thence to Larenda, in Asia Minor. Jelāl's mother was still with
 the party. He was now eighteen years old; and was married, at Larenda,
 to a lady named Gevher (Pearl), daughter of a certain Lala
 Sherefu-’d-Dīn of Samarqand, in <span class="smallcaps">a.d.</span>
-1226. <span id="fr_1"></span>[1](#fn_1) She bore him two sons there,
+1226. <span id="fr_1"></span>[1](#fn_1.md) She bore him two sons there,
 ‘Alā’u-’d-Dīn (afterwards killed in a tumult at Qonya) and Bahā’u-’d-Dīn
 Sultān Veled, through whom the succession of the house was continued.
 She appears to have died rather young; for Jelāl afterwards married
@@ -218,7 +218,7 @@ lengths, thus:
 | 4\.  | Acts of Shemsu-’d-Dīn, Tebrīzī                              | 23          | „       |
 | 5\.  | Acts of Sheykh Salāhu-’d-Dīn, Zer-Kūb                       | 11          | „       |
 | 6\.  | Acts of Husāmu-’d-Dīn, Khalīfa of God                       | 14          | „       |
-| 7\.  | Acts of Mevlānā [Bahā’u-’d-Dīn](errata.htm#0), Sultan Veled | 13          | „       |
+| 7\.  | Acts of Mevlānā [Bahā’u-’d-Dīn](errata.htm#0.md), Sultan Veled | 13          | „       |
 | 8\.  | Acts of Chelebī Emīr ‘Ārif                                  | 45          | „       |
 | 9\.  | Acts of Chelebī Emīr ‘Ābīd, &c.                             | 6           | „       |
 | 10\. | Genealogical                                                | <u>   2</u> | „       |
@@ -256,7 +256,7 @@ to go far beyond the credible; and one or two, unless totally
 misunderstood by the translator, are simply and grossly blasphemous.
 These last are here given as specimens of the exaggerated dervish
 doctrines which cause the orthodox among the ‘Ulemā <span
-id="fr_2"></span>[1](#fn_2) of Islām to hold all such quasi-religious
+id="fr_2"></span>[1](#fn_2.md) of Islām to hold all such quasi-religious
 associations to be more or less heterodox.
 
 The dervishes of Islām appear to be a kind of Gnostics. They style
@@ -309,17 +309,17 @@ offer an acceptable pearl of price to those for whom he has worked
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](mes02.htm#fr_0) For the incidents and
+<span id="fn_0"></span>[vii:1](mes02.htm#fr_0.md) For the incidents and
 dates mentioned in this preface, see the various chapters of the
 Anecdotes.
 
-<span id="fn_1"></span>[ix:1](mes02.htm#fr_1) He must have been born in
+<span id="fn_1"></span>[ix:1](mes02.htm#fr_1.md) He must have been born in
 about <span class="smallcaps">a.d.</span> 1204 or 2205, to have been
 five years old when the family left Balkh. In 1226 he would, therefore,
 be twenty-one or twenty-two years of  age. But see Anecdotes, Chap. i.,
 No. 2, &c.
 
-<span id="fn_2"></span>[xiv:1](mes02.htm#fr_2) The "*‘Ulemā of Islām*"
+<span id="fn_2"></span>[xiv:1](mes02.htm#fr_2.md) The "*‘Ulemā of Islām*"
 are *the Learned* Doctors of Law and Divinity; their chief is the Lord
 Chancellor. They are ignorantly spoken of as "*priests*" and "*clergy*"
 by Europeans. There are no "*priests*" in Islām. The ‘Ulemā may be
@@ -328,4 +328,4 @@ all kinds of trades.
 
 ------------------------------------------------------------------------
 
-[Next: Title Page](mes03)
+[Next: Title Page](mes03.md)

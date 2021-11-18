@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc15)  [Next](mlc17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc15)  [Next](mlc17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ Intangible Textual Heritage
 
 In dealing with the gods of China we noticed the monkey among them. Why
 and in what manner he attained to that exalted rank is set forth in
-detail in the *Hsi yu chi*  <span id="fr_32"></span>[1](#fn_32)—a work
+detail in the *Hsi yu chi*  <span id="fr_32"></span>[1](#fn_32.md)—a work
 the contents of which have become woven into the fabric of Chinese
 legendary lore and are known and loved by every intelligent native. Its
 pages are filled with ghosts, demons, and fairies, good and bad, but “it
@@ -82,11 +82,11 @@ Other names by which Sun Hou-tzŭ is referred to are: Sun Hsing-chê, Sun
 Wu-k’ung, Mei Hou-wang, Ch’i-t’ien Ta Shêng, and Pi-ma Wên, the
 last-mentioned being a title which caused him annoyance by recalling the
 derisive dignity conferred upon him by Yü Huang.  <span
-id="fr_33"></span>[2](#fn_33) Throughout the remainder of this chapter
+id="fr_33"></span>[2](#fn_33.md) Throughout the remainder of this chapter
 Sun Hou-tzŭ will be shortly referred to as ‘Sun.’
 
 <span id="img_p326"></span> <span align="CENTER"> [![](tn/p326.jpg)  
-Click to enlarge](img/p326.jpg)</span>  
+Click to enlarge](img/p326.jpg.md)</span>  
 The Birth of the Monkey
 
 Beyond the seas, in the Eastern continent, in the kingdom of Ao-lai, is
@@ -658,7 +658,7 @@ yellow gourd and a jade vase, and try to bottle the Monkey. They
 arranged to carry them upside down and call out the Monkey’s name. If he
 replied, then he would be inside, and they could seal him up, using the
 seal of the great Ancient of Days, the dweller in the mansion of T’ai
-Sui.  <span id="fr_34"></span>[3](#fn_34)
+Sui.  <span id="fr_34"></span>[3](#fn_34.md)
 
 ## The Monkey under the Mountain
 
@@ -853,7 +853,7 @@ midstream, and the Master would have been slain had not Sun and the
 Western Dragon come to the rescue.
 
 <span id="img_p352"></span> <span align="CENTER"> [![](tn/p352.jpg)  
-Click to enlarge](img/p352.jpg)</span>  
+Click to enlarge](img/p352.jpg.md)</span>  
 The Demons of Blackwater River Carry Away the Master
 
 ## The Slow-carts Country
@@ -906,7 +906,7 @@ The proclamation is signed by the King. So you see we are helpless.” Sun
 then said: “You might as well die and end it all.”
 
 <span id="img_p354"></span> <span align="CENTER"> [![](tn/p354.jpg)  
-Click to enlarge](img/p354.jpg)</span>  
+Click to enlarge](img/p354.jpg.md)</span>  
 Buddhists As Slaves in Slow-cart Country
 
 ## Immortal for Suffering
@@ -1204,7 +1204,7 @@ were able to spin ropes instead of webs with which to bind their
 enemies. But Sun attacked and killed them all.
 
 <span id="img_p364"></span> <span align="CENTER"> [![](tn/p364.jpg)  
-Click to enlarge](img/p364.jpg)</span>  
+Click to enlarge](img/p364.jpg.md)</span>  
 Sun Steals Clothing for His Master
 
 The Taoist abbot then showed himself in his true form, a demon with a
@@ -1337,7 +1337,7 @@ complete. From this time he became the chief of the celestial dragon
 tribe.
 
 <span id="img_p368"></span> <span align="CENTER"> [![](tn/p368.jpg)  
-Click to enlarge](img/p368.jpg)</span>  
+Click to enlarge](img/p368.jpg.md)</span>  
 The Return to China
 
 Sun’s first thought upon receiving his promotion was to get rid of the
@@ -1357,21 +1357,21 @@ returned in peace to his own celestial abode. <span id="page_370">p.
 
 ### Footnotes
 
-<span id="fn_32"></span>[370:1](mlc16.htm#fr_32) A record of a journey
+<span id="fn_32"></span>[370:1](mlc16.htm#fr_32.md) A record of a journey
 to the Western Paradise to procure the Buddhist scriptures for the
 Emperor of China. The work is a dramatization of the introduction of
 Buddhism into China.
 
-<span id="fn_33"></span>[370:2](mlc16.htm#fr_33) See [p.
-329](#page_329).
+<span id="fn_33"></span>[370:2](mlc16.htm#fr_33.md) See [p.
+329](#page_329.md).
 
-<span id="fn_34"></span>[370:3](mlc16.htm#fr_34) See [p.
-195](mlc07.htm#page_195).
+<span id="fn_34"></span>[370:3](mlc16.htm#fr_34.md) See [p.
+195](mlc07.htm#page_195.md).
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Fox Legends](mlc17)
+[Next: Chapter XV. Fox Legends](mlc17.md)
 
 </div>

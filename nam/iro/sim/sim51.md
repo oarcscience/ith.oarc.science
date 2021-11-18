@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim50)  [Next](sim52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim50)  [Next](sim52.md) 
 
 ------------------------------------------------------------------------
 
@@ -233,4 +233,4 @@ people became what they are now.
 
 ------------------------------------------------------------------------
 
-[Next: Thousand-Legs and Bright Body his Son](sim52)
+[Next: Thousand-Legs and Bright Body his Son](sim52.md)

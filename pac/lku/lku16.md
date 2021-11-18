@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku15)  [Next](lku17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku15)  [Next](lku17.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ The wonder of the land,
 
 ------------------------------------------------------------------------
 
-[Next: The Sixteenth Era](lku17)
+[Next: The Sixteenth Era](lku17.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac17)  [Next](sac19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac17)  [Next](sac19.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ miles from beyond Hameldon nearly to
 
 [![FIG. 42.—The Southern Avenue at Merrivale, looking East.&lt;br&gt;
 &lt;i&gt;Photo. by Lady Lockyer&lt;/i&gt;.](tn/fig42.jpg)  
-Click to enlarge](img/fig42.jpg)  
+Click to enlarge](img/fig42.jpg.md)  
 FIG. 42.—The Southern Avenue at Merrivale, looking East.  
 *Photo. by Lady Lockyer*.  
 
@@ -106,7 +106,7 @@ avenues, rows, alignments or parallelithons. Their study dates from
 1827, when Rowe and Colonel Hamilton Smith examined those at Merrivale
 (Rowe, *op. cit.*, p. 31). Their number has increased with every careful
 study of any part of the moor, and doubtless many are still
-unmapped. <span id="fr_21"></span>[1](#fn_21) The late Mr. R. N. Worth,
+unmapped. <span id="fr_21"></span>[1](#fn_21.md) The late Mr. R. N. Worth,
 of Plymouth, and his son, Mr. H. Worth, have given great attention to
 these monuments, and the former communicated a paper on them to the
 Devonshire Association for the Advancement of Science in 1892 (*Trans*.,
@@ -259,7 +259,7 @@ row has a distinct "kink" or change of direction in it at about the
 centre. The stones are mostly 2 or 3 feet high, and in each row they are
 about 3 feet apart; the distance between the rows is about 80 feet.
 
-I have before pointed out ([p. 149](#page_149)) that an avenue directed
+I have before pointed out ([p. 149](#page_149).md) that an avenue directed
 to the rising place of a star, if it is erected over undulating ground,
 cannot be straight. I may now mention another apparent paradox. If two
 avenues are directed to the rising place of the same star *at different
@@ -302,7 +302,7 @@ Now this is not the first time I have referred to
 
 [![FIG. 43.—Plan, from the Ordnance Map, showing the avenues, circle and
 stones at Merrivale, with their azimuths.](tn/fig43.jpg)  
-Click to enlarge](img/fig43.jpg)  
+Click to enlarge](img/fig43.jpg.md)  
 FIG. 43.—Plan, from the Ordnance Map, showing the avenues, circle and
 stones at Merrivale, with their azimuths.  
 
@@ -329,7 +329,7 @@ use before those at
 [![FIG. 44.—Reprint of Ordnance Map showing that the Cursus at
 Stonehenge is: nearly parallel to the Merrivale Avenue. The azimuth is
 82° and not 84° as. shown m the figure.](tn/fig44.jpg)  
-Click to enlarge](img/fig44.jpg)  
+Click to enlarge](img/fig44.jpg.md)  
 FIG. 44.—Reprint of Ordnance Map showing that the Cursus at Stonehenge
 is: nearly parallel to the Merrivale Avenue. The azimuth is 82° and not
 84° as. shown m the figure.  
@@ -370,11 +370,11 @@ with others.
 
 ### Footnotes
 
-<span id="fn_21"></span>[148:1](sac18.htm#fr_21) On June 15, 1905, that
+<span id="fn_21"></span>[148:1](sac18.htm#fr_21.md) On June 15, 1905, that
 excellent guide of the Chagford part of the moor, Mr. S. Perrott, showed
 me an avenue (Azimuth N. 20° E. true) near Hurston Ridge which is not
 given in the 1-inch map.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. The Dartmoor Avenues (continued)](sac19)
+[Next: Chapter XVI. The Dartmoor Avenues (continued)](sac19.md)

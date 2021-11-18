@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg02)  [Next](adg04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg02)  [Next](adg04.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ Ahmad Ali Dakheel
 
 ------------------------------------------------------------------------
 
-[Next: Adages of imam Ali (puh) in noble manners](adg04)
+[Next: Adages of imam Ali (puh) in noble manners](adg04.md)

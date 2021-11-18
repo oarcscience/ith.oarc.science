@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft21)  [Next](efft23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft21)  [Next](efft23.md) 
 
 ------------------------------------------------------------------------
 
-# THE FAIRY FUNERAL  <span id="fr_26"></span>[1](#fn_26)
+# THE FAIRY FUNERAL  <span id="fr_26"></span>[1](#fn_26.md)
 
 THE parish church of Lelant is curiously situated amidst hills of blown
 sand, near the entrance of the creek of Hayle. The sandy waste around
@@ -55,9 +55,9 @@ flight*.
 
 ### Footnotes
 
-<span id="fn_26"></span>[1](efft22.htm#fr_26) Robert Hunt, *Popular
+<span id="fn_26"></span>[1](efft22.htm#fr_26.md) Robert Hunt, *Popular
 Romances of the West of England*. 1st series, p. 93.
 
 ------------------------------------------------------------------------
 
-[Next: The Piskies in the Cellar](efft23)
+[Next: The Piskies in the Cellar](efft23.md)

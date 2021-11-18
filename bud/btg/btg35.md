@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg34)  [Next](btg36) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg34)  [Next](btg36.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ As well to many others as to thee."
 
 ------------------------------------------------------------------------
 
-[Next: The Uposatha And Patimokkha](btg36)
+[Next: The Uposatha And Patimokkha](btg36.md)

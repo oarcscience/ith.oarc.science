@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps42)  [Next](rps44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps42)  [Next](rps44.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ NEW BIBLE LAND (APRIL 27,1926) A.D. 2000.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 42. The Head Biblical Interpreter, of Creation](rps44)
+[Next: Chapter 42. The Head Biblical Interpreter, of Creation](rps44.md)

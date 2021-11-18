@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh15)  [Next](hloh17) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh15)  [Next](hloh17.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ with the mysterious cloud-forms among which he died.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. The Cannibal Dog-Man](hloh17)
+[Next: XIII. The Cannibal Dog-Man](hloh17.md)

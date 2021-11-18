@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](ros02)  [Next](ros04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](ros02)  [Next](ros04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -22,16 +22,16 @@ YEAR THE WORLD IS DIVINELY JUDGED.
 
 MISHNA *I*.: There are four New Year days, viz.: The first of Nissan is
 New Year for (the ascension of) Kings and for (the regular rotation of)
-festivals; <span id="fr_2"></span>[1](#fn_2) the first of Elul is New
-Year for the cattle-tithe, <span id="fr_3"></span>[2](#fn_3) but
+festivals; <span id="fr_2"></span>[1](#fn_2.md) the first of Elul is New
+Year for the cattle-tithe, <span id="fr_3"></span>[2](#fn_3.md) but
 according to R. Eliezer and R. Simeon, it is on the first of Tishri. The
 first of Tishri is New Year's day, for ordinary years, and for sabbatic
-years <span id="fr_4"></span>[3](#fn_4) and jubilees; and also for the
-planting of trees <span id="fr_5"></span>[4](#fn_5) and for herbs. <span
-id="fr_6"></span>[5](#fn_6) On the first day of Shebhat is the New Year
-for trees, <span id="fr_7"></span>[6](#fn_7) according to the school of
+years <span id="fr_4"></span>[3](#fn_4.md) and jubilees; and also for the
+planting of trees <span id="fr_5"></span>[4](#fn_5.md) and for herbs. <span
+id="fr_6"></span>[5](#fn_6.md) On the first day of Shebhat is the New Year
+for trees, <span id="fr_7"></span>[6](#fn_7.md) according to the school of
 Shammai; but the school of Hillel says it is on the fifteenth of the
-same month. <span id="fr_8"></span>[7](#fn_8)
+same month. <span id="fr_8"></span>[7](#fn_8.md)
 
 GEMARA: "*For kings*." Why is it necessary to appoint such a day? (Let
 every king count the day of his ascension to the throne as the beginning
@@ -62,7 +62,7 @@ Nissan, and his successor ascend the throne in Nissan, the same is the
 case. But if a king die in Adar, and his successor does not ascend the
 throne until Nissan, then the year ending with Adar should be referred
 to as the year of the dead king, and from Nissan it should be referred
-to as that of his successor. <span id="fr_9"></span>[1](#fn_9) Is this
+to as that of his successor. <span id="fr_9"></span>[1](#fn_9.md) Is this
 not self-evident? The case here mentioned refers to an instance where
 the new king was a son of the deceased, and, while ascending the throne
 in Nissan, had been elected in the month of Adar, and being the king's
@@ -102,7 +102,7 @@ Tabernacle in the wilderness. From the fact that R. Papa stated further
 on, that the twentieth year is mentioned twice for the sake of a
 comparison by analogy, we must assume that the analogy of expression
 "the fortieth year" (mentioned in connection with both Aaron and Moses)
-signifies also; <span id="fr_10"></span>[1](#fn_10) as in the former
+signifies also; <span id="fr_10"></span>[1](#fn_10.md) as in the former
 case it means forty years from the time of the Exodus, so also in the
 latter case. But whence do we know that the incident that took place in
 Abh (the death of Aaron) happened before (the speech of Moses) which is
@@ -113,7 +113,7 @@ Aaron died Sihon was still living. Thus it is written \[Numb. xxi. 1\]:
 "And the Canaanite, the king of Arad, heard." What did he hear? He heard
 that Aaron was dead, and that the clouds of glory had departed (and he
 thought that a sign that permission was given from heaven to fight
-against Israel). <span id="fr_11"></span>[2](#fn_11) How can we make any
+against Israel). <span id="fr_11"></span>[2](#fn_11.md) How can we make any
 such comparison? In the one place it speaks of the Canaanite,
 
 <span id="page_4">p. 4</span>
@@ -160,7 +160,7 @@ month, in the one-and-twentieth
 
 <span id="page_5">p. 5</span>
 
-day of the month." <span id="fr_12"></span>[1](#fn_12) If the rule is
+day of the month." <span id="fr_12"></span>[1](#fn_12.md) If the rule is
 that Tishri (the seventh month) is the beginning of years for non-Jewish
 kings, should not the Text read "in the third year of Darius" instead of
 the second year? R. Abbahu answered: Cyrus was a most upright king, and
@@ -189,7 +189,7 @@ festival which is called the New Year for festivals (viz., Passover).
 What difference does it make (in practice)? It makes a difference to one
 who has made a vow, because through this festival he becomes culpable of
 breaking the law, "Thou shalt not slack to pay." <span
-id="fr_13"></span>[2](#fn_13) And this is according to the opinion of R.
+id="fr_13"></span>[2](#fn_13.md) And this is according to the opinion of R.
 Simeon, who says: That (before one is guilty of delay) the three
 festivals must have passed by in their regular order, with Passover as
 the first (of the three). Thus was also the dictum of R. Simeon ben
@@ -214,7 +214,7 @@ consecrated (to the sanctuary), or sin-offerings, guilt-offerings,
 burnt-offerings, peace-offerings, charity, tithes, the firstlings, the
 paschal offerings, the gleanings of the field, that which is forgotten
 to be gathered in the field, the produce of the corner of the
-field. <span id="fr_14"></span>[1](#fn_14) R. Simeon says: The festivals
+field. <span id="fr_14"></span>[1](#fn_14.md) R. Simeon says: The festivals
 must pass by in their regular order, with Passover as the first. And R.
 Meir says: As soon as even one festival has elapsed and the vow has not
 been kept the law is infringed. R. Eliezer ben Jacob says: As soon as
@@ -254,7 +254,7 @@ What do R. Meir and R. Eliezer ben Jacob deduce from the superfluous
 passage "on the Feast of Unleavened Bread, on the Feast of Weeks, and on
 the Feast of Tabernacles"? They use this verse, according to R. Elazar,
 who says in the name of R. Oshiya, who said: Whence do we know that the
-law of compensation <span id="fr_15"></span>[1](#fn_15) applies to the
+law of compensation <span id="fr_15"></span>[1](#fn_15.md) applies to the
 Feast of Weeks (although the feast is only one day)? For this very
 reason the Bible repeats the three festivals, and he institutes a
 comparison between Pentecost and Passover; and as the law of
@@ -281,7 +281,7 @@ also the former; "unto the Lord thy God," *i.e.*, offerings expressed by
 "I will give the value of myself," etc., and other objects mentioned
 above; "thou shalt not slack to pay it"; *i.e.*, the object promised
 must be given and not anything in exchange for it; <span
-id="fr_16"></span>[1](#fn_16) "for he will surely require it," *i.e.*,
+id="fr_16"></span>[1](#fn_16.md) "for he will surely require it," *i.e.*,
 the sin, guilt, burnt, and peace-offerings; "the Lord thy God," these
 words refer to offerings of charity, tithes, and firstlings; "of thee,"
 this refers to the gleanings, that which is forgotten in the field and
@@ -324,7 +324,7 @@ those who say (that the three festivals must elapse) in their regular
 order, but according to those who do not say (that the three festivals
 must go by) in their regular order, how can such a case occur? This
 would be correct according to Rabbi (who holds that the intercalary
-month <span id="fr_17"></span>[1](#fn_17) is not a part of the year),
+month <span id="fr_17"></span>[1](#fn_17) is not a part of the year.md),
 and it occurs in a leap year, when one consecrates anything (to the
 Temple) after the Feast of Passover; for when the end of the second Adar
 has arrived, a year (of twelve months) has elapsed, yet the three
@@ -388,7 +388,7 @@ is, the month Nissan."
 "*For leap years*." Do we, then, count leap years from Nissan? Does not
 a Boraitha teach us that Adar only is the intercalary month? Answered R.
 Na'hman b. Itz'hak: The words "FOR LEAP YEARS" mean here the termination
-of leap years, <span id="fr_18"></span>[1](#fn_18) and our Tana speaks
+of leap years, <span id="fr_18"></span>[1](#fn_18.md) and our Tana speaks
 of the beginning of the leap year and not the end.
 
 "*For giving the half shekels*." Whence do we deduce this? Said R.
@@ -405,7 +405,7 @@ first month of the year to you," and deduce that they both refer to
 Nissan.
 
 R. Jehudah says in the name of Samuel: It is required that the
-congregational sacrifices <span id="fr_19"></span>[1](#fn_19) brought on
+congregational sacrifices <span id="fr_19"></span>[1](#fn_19.md) brought on
 the first of Nissan should be purchased with the shekels collected for
 the new year; but if the sacrifice was bought with the funds obtained
 from the former year's funds, it is acceptable, yet the law was but
@@ -492,7 +492,7 @@ the end of the year," *i.e.*, at the beginning of the year it is
 determined what shall be at the end of the year. But whence do we know
 that this means Tishri? It is written \[Psalms, lxxxi. 3\]: "Blow on the
 new moon the cornet at the time when it (the new moon) is hidden <span
-id="fr_20"></span>[1](#fn_20) on our solemn feast day." What feast is it
+id="fr_20"></span>[1](#fn_20.md) on our solemn feast day." What feast is it
 on which the moon is hidden? We can only say Rosh Hashana (New Year's
 Day), and of this day it is written \[ibid. v. 4\]: "For it is a statute
 unto Israel, a judgment (day) for the God of Jacob."
@@ -555,7 +555,7 @@ rabbis, whence do they derive the regulation that the fifty-first year
 is not sanctified? Because it is plainly written the fiftieth year and
 not the fifty-first. This excludes the opinion of R. Jehudah who holds
 that the jubilee year is added at the beginning and end. <span
-id="fr_21"></span>[1](#fn_21) The rabbis taught "Jobhel hi (it is a
+id="fr_21"></span>[1](#fn_21.md) The rabbis taught "Jobhel hi (it is a
 jubilee)," even if the people have not relinquished (their debts), even
 if the cornet is not sounded; shall we also say even if slaves are not
 released? Hence the word "hi" is used (to indicate that only when the
@@ -701,7 +701,7 @@ only at the end of the required time), still a seven months' child can
 be born before the seventh month is complete, as it is said \[I Sam. i.
 20\]: "And it came to pass, *li-tequphath ha-yamim* (when the time was
 come about)"; the minimum of *tequphoth* <span
-id="fr_22"></span>[1](#fn_22) is two and of *yamim* is also two (*i.e.*,
+id="fr_22"></span>[1](#fn_22.md) is two and of *yamim* is also two (*i.e.*,
 after six months and two days' gestation, childbirth is possible).
 
 Whence do we know that Sarah, Rachel, and Hannah were visited on New
@@ -769,7 +769,7 @@ prohibited to give the heave-offering or tithe from the product of the
 past year for that of the present, of *vice versa*. If the second year
 from the last sabbatic year was just ending and the third year was just
 beginning, then for the second year he must give the first and second
-tithes, <span id="fr_23"></span>[1](#fn_23) and for the third year he
+tithes, <span id="fr_23"></span>[1](#fn_23.md) and for the third year he
 must give the first and the poor tithes. Whence do we deduce that (in
 the third year no second tithe was to be
 
@@ -869,7 +869,7 @@ R. Aqiba picked the fruit of a citron tree on the first of Shebhat, and
 gave two tithes of them, one according to the school of Shammai and one
 in accordance with the school of Hillel. Says R. Jose b. Jehudah: Nay,
 Aqiba did not do this because of the school of Shammai or the school of
-Hillel, but because R. Gamaliel <span id="fr_24"></span>[1](#fn_24) and
+Hillel, but because R. Gamaliel <span id="fr_24"></span>[1](#fn_24.md) and
 R. Eliezer were accustomed to do so. Did he not follow the practice of
 Beth Shammai because it was the first of Shebhat? Said R. Hanina, and
 some say R. Hanania: The case here cited was one of a citron tree, the
@@ -896,7 +896,7 @@ Rabhin came (from Palestine) he said, in the name of R. Johanan: A
 citron that was as small as an olive in the sixth year, but grew to the
 size of a (small) loaf of bread during the sabbatic year, if one used it
 without separating the tithe he is culpable because of *Tebhel*. <span
-id="fr_25"></span>[2](#fn_25)
+id="fr_25"></span>[2](#fn_25.md)
 
 <span id="page_23">p. 23</span>
 
@@ -921,7 +921,7 @@ in respect to the growth of grain; on Pentecost, in respect to the fruit
 of trees; on New Year's Day all human beings pass before Him (God) as
 sheep before a shepherd, as it is written \[Psalms, xxx. 9\]: "He who
 hath fashioned all their hearts understandeth all their works"; <span
-id="fr_26"></span>[1](#fn_26) and on Tabernacles judgment is given in
+id="fr_26"></span>[1](#fn_26.md) and on Tabernacles judgment is given in
 regard to water (rain).
 
 GEMARA: What grain (does the divine judgment affect on the Passover)?
@@ -994,7 +994,7 @@ performed on the Feast of Tabernacles? Because He said: "Perform the
 rite of 'the outpouring of waters,' that the rains shall fall in due
 season." And He also said: "Recite before Me on New Year's Day the
 Malkhioth, Zikhronoth, and Shophroth; <span
-id="fr_27"></span>[1](#fn_27) the Malkhioth, that you proclaim Me King;
+id="fr_27"></span>[1](#fn_27.md) the Malkhioth, that you proclaim Me King;
 the Zikhronoth, that your remembrance for good may come before Me." And
 how (shall this be done)? By the sounding of the cornet.
 
@@ -1018,7 +1018,7 @@ thee." And shortly after we read (that she died): "And Abraham came to
 mourn for Sarah and to weep for her" \[Gen. xxiii. 2\]. (Naturally this
 only applies to cases where appeal could have been made to a civil
 court, and the invocation of divine judgment was not necessary. <span
-id="fr_28"></span>[2](#fn_28)) R. Itz'hak
+id="fr_28"></span>[2](#fn_28).md) R. Itz'hak
 
 <span id="page_26">p. 26</span>
 
@@ -1099,7 +1099,7 @@ Me'huzza will yet be called the children of Gehenna."
 
 What is meant by Jews who transgress with their *body*? Says Rabh: The
 *Qarqaphtha* (frontal bone) on which the phylacteries are not
-placed. <span id="fr_29"></span>[1](#fn_29) And who are meant by
+placed. <span id="fr_29"></span>[1](#fn_29.md) And who are meant by
 non-Jews who
 
 <span id="page_28">p. 28</span>
@@ -1290,14 +1290,14 @@ Mishna: "He that fashioned all their hearts alike" \[Psalms, xxxiii.
 15\], *i.e.*, the Creator, sees all their hearts (at a glance) and (at
 once) understands all their works.
 
-MISHNA: Messengers were sent out <span id="fr_30"></span>[1](#fn_30) for
+MISHNA: Messengers were sent out <span id="fr_30"></span>[1](#fn_30.md) for
 the following six months: for Nissan, on account of the Passover; for
 Abh, on account of the fast; for Elul, on account of the New Year; for
 Tishri, on account of appointing the order of the (remaining)
-festivals; <span id="fr_31"></span>[2](#fn_31) for Kislev, on account of
+festivals; <span id="fr_31"></span>[2](#fn_31.md) for Kislev, on account of
 the Feast of Dedication; for Adar, on account of the Feast of Passover;
 also for Iyar, when the Temple was in existence, on account of the minor
-(or second) Passover. <span id="fr_32"></span>[3](#fn_32)
+(or second) Passover. <span id="fr_32"></span>[3](#fn_32.md)
 
 GEMARA: Why were they not, also sent out for Tamuz and Tebheth (in which
 months there are also fasts)? Did not R. Hana bar Bizna say in the name
@@ -1428,9 +1428,9 @@ Esther.''
 When Ula came (from Palestine) he said: They have made Elul an
 intercalary month, and he also said: "Do my Babylonian comrades know the
 benefit we have gained through it?" Because of what is this a benefit?"
-Because of herbs," <span id="fr_33"></span>[1](#fn_33) said Ula. R. A'ha
+Because of herbs," <span id="fr_33"></span>[1](#fn_33.md) said Ula. R. A'ha
 bar Hanina, however, said: "Because of dead bodies." <span
-id="fr_34"></span>[2](#fn_34) What difference is there between them?
+id="fr_34"></span>[2](#fn_34.md) What difference is there between them?
 They
 
 <span id="page_36">p. 36</span>
@@ -1480,7 +1480,7 @@ R. Ashi, "to refute witnesses."
 
 R. Zera said in the name of R. Na'hman, in every case of doubt (about
 the holidays), we post-date, but never ante-date. <span
-id="fr_35"></span>[1](#fn_35) Does this mean to say that (in a case of
+id="fr_35"></span>[1](#fn_35.md) Does this mean to say that (in a case of
 doubt concerning the exact day on which Tabernacles begins) we observe
 the fifteenth and sixteenth, but not the fourteenth. Let us keep the
 fourteenth also. Perhaps Abh and Elul have each only twenty-nine days?
@@ -1497,8 +1497,8 @@ R. Johanan proclaimed: In every place that the messengers sent in Nissan
 reached, but that the messengers sent in Tishri cannot reach, they must
 observe two days for the holidays; and they make this restriction for
 Nissan lest people would do in Tishri as in Nissan. <span
-id="fr_36"></span>[2](#fn_36) Rabha used to fast two days for the Day of
-Atonement. <span id="fr_37"></span>[3](#fn_37) Once it happened that he
+id="fr_36"></span>[2](#fn_36.md) Rabha used to fast two days for the Day of
+Atonement. <span id="fr_37"></span>[3](#fn_37.md) Once it happened that he
 was right (because the Day of Atonement fell one day later in Palestine
 than in Babylon). R. Na'hman was once fasting on the Day of Atonement,
 and in the evening a certain man came and said to him, "To-morrow will
@@ -1513,10 +1513,10 @@ then the fourteenth day)."
 <span id="page_38">p. 38</span>
 
 MISHNA: For the sake of (the new moon) of the two months, Nissan and
-Tishri, witnesses may profane <span id="fr_38"></span>[1](#fn_38) the
+Tishri, witnesses may profane <span id="fr_38"></span>[1](#fn_38.md) the
 Sabbath, because in these months the messengers went to Syria, and the
 order of the festivals was arranged; when, however, the Temple <span
-id="fr_39"></span>[2](#fn_39) was in existence, they might profane the
+id="fr_39"></span>[2](#fn_39.md) was in existence, they might profane the
 Sabbath in any month, in order to offer the (new moon) sacrifice in its
 proper time.
 
@@ -1547,7 +1547,7 @@ might profane the Sabbath only on account of Nissan and Tishri.
 MISHNA: Whether the new moon had appeared clear to all or not (the
 witnesses) were permitted to profane the Sabbath on its account. R. Jose
 says: If it appeared clear to every, one, <span
-id="fr_40"></span>[3](#fn_40) the Sabbath should not be profaned (by
+id="fr_40"></span>[3](#fn_40.md) the Sabbath should not be profaned (by
 witnesses). it once happened that more than forty pair (of witnesses)
 were on the highway (to the Beth Din) on the Sabbath, when R. Aqiba
 
@@ -1598,15 +1598,15 @@ Samuel, the Halakha prevails according to R. Simeon.
 
 MISHNA: The following are considered incompetent to be witnesses:
 gamblers with dice, usurers, pigeon breeders, <span
-id="fr_41"></span>[1](#fn_41) those who deal with the produce of the
+id="fr_41"></span>[1](#fn_41.md) those who deal with the produce of the
 sabbatic year, and slaves. This is the rule: All evidence that cannot be
 received from a woman cannot be received from any of the above. One who
 has seen the new moon, but is unable to go (to give evidence), must be
 brought (if unable to walk) mounted on an ass, or even in a bed. <span
-id="fr_42"></span>[2](#fn_42) Persons afraid of an attack by robbers may
-take sticks with them; <span id="fr_43"></span>[2](#fn_42) and if they
+id="fr_42"></span>[2](#fn_42.md) Persons afraid of an attack by robbers may
+take sticks with them; <span id="fr_43"></span>[2](#fn_42.md) and if they
 have a long way to go, it will be lawful for them to provide themselves
-with and carry their food. <span id="fr_44"></span>[2](#fn_42) Whenever
+with and carry their food. <span id="fr_44"></span>[2](#fn_42.md) Whenever
 (witnesses) must be on the road a day and a night, it will be lawful to
 violate the Sabbath to travel thereon, to give their evidence as to the
 appearance of the moon. For thus it is written \[Lev. xxiii. 4\]: "These
@@ -1617,90 +1617,90 @@ proclaim in *their appointed seasons*.
 
 ### Footnotes
 
-<span id="fn_2"></span>[1:1](ros03.htm#fr_2) This refers to the law
+<span id="fn_2"></span>[1:1](ros03.htm#fr_2.md) This refers to the law
 concerning vows. If one made a vow it had to be fulfilled before the
 three festivals elapsed in the order of Passover, Pentecost, and
 Tabernacles, as will be explained further on.
 
-<span id="fn_3"></span>[1:2](ros03.htm#fr_3) A date had to be appointed
+<span id="fn_3"></span>[1:2](ros03.htm#fr_3.md) A date had to be appointed
 in order to keep the tithes of animals born and products of the earth,
 distinct from year to year.
 
-<span id="fn_4"></span>[1:3](ros03.htm#fr_4) Vide Lev. xxv. and Deut.
+<span id="fn_4"></span>[1:3](ros03.htm#fr_4.md) Vide Lev. xxv. and Deut.
 xv.
 
-<span id="fn_5"></span>[1:4](ros03.htm#fr_5) With regard to the
+<span id="fn_5"></span>[1:4](ros03.htm#fr_5.md) With regard to the
 prohibition of eating fruit of newly planted trees \[Lev. xix. 23-25\].
 
-<span id="fn_6"></span>[1:5](ros03.htm#fr_6) So as not to mix the tithe
+<span id="fn_6"></span>[1:5](ros03.htm#fr_6.md) So as not to mix the tithe
 of herbs from year to year.
 
-<span id="fn_7"></span>[1:6](ros03.htm#fr_7) With regard to the tithe
+<span id="fn_7"></span>[1:6](ros03.htm#fr_7.md) With regard to the tithe
 due on fruit trees.
 
-<span id="fn_8"></span>[1:7](ros03.htm#fr_8) The Gemara fully discusses
+<span id="fn_8"></span>[1:7](ros03.htm#fr_8.md) The Gemara fully discusses
 the reasons for these institutions, but we deem it wise to anticipate,
 for the sake of clearness.
 
-<span id="fn_9"></span>[2:1](ros03.htm#fr_9) No reference should be made
+<span id="fn_9"></span>[2:1](ros03.htm#fr_9.md) No reference should be made
 after the first of Nissan to the reign of the king just deceased. For
 instance: it was not permitted to speak of the year beginning with
 Nissan, as the second year after the death of the king.
 
-<span id="fn_10"></span>[3:1](ros03.htm#fr_10) The statement of R. Papa
+<span id="fn_10"></span>[3:1](ros03.htm#fr_10.md) The statement of R. Papa
 is quoted here, because it is a rule of the Talmud that no comparisons
 by analogy may be cited unless they emanate from a tradition or teaching
 known to the master making such a comparison, and this rule applies
 throughout the Talmud.
 
-<span id="fn_11"></span>[3:2](ros03.htm#fr_11) Because the life of the
+<span id="fn_11"></span>[3:2](ros03.htm#fr_11.md) Because the life of the
 righteous is a protection for the whole people.
 
-<span id="fn_12"></span>[5:1](ros03.htm#fr_12) The Rabbis of the Talmud
+<span id="fn_12"></span>[5:1](ros03.htm#fr_12.md) The Rabbis of the Talmud
 must have had a different version of the book of Haggai from that
 existing at present. In the second passage quoted, namely Haggai ii. 1,
 the words "in the second year" cannot be found. There is, therefore, a
 great difficulty in understanding the discussion. Even Rashi is unable
 to enlighten us on this point.
 
-<span id="fn_13"></span>[5:2](ros03.htm#fr_13) This law of "Thou shalt
+<span id="fn_13"></span>[5:2](ros03.htm#fr_13.md) This law of "Thou shalt
 not slack to pay," is known as "BAL TE'AHER"; *i.e.*, the law against
 procrastination or delay.
 
-<span id="fn_14"></span>[6:1](ros03.htm#fr_14) Lev. xxiii, 22.
+<span id="fn_14"></span>[6:1](ros03.htm#fr_14.md) Lev. xxiii, 22.
 
-<span id="fn_15"></span>[7:1](ros03.htm#fr_15) The privilege of bringing
+<span id="fn_15"></span>[7:1](ros03.htm#fr_15.md) The privilege of bringing
 on one of the later days of a festival a sacrifice that should have been
 offered on the first day.
 
-<span id="fn_16"></span>[8:1](ros03.htm#fr_16) Lev. xxvii. 32.
+<span id="fn_16"></span>[8:1](ros03.htm#fr_16.md) Lev. xxvii. 32.
 
-<span id="fn_17"></span>[9:1](ros03.htm#fr_17) Leap year occurs seven
+<span id="fn_17"></span>[9:1](ros03.htm#fr_17.md) Leap year occurs seven
 times in a cycle of nineteen years. On such occasions one month, the
 second Adar, is added to the twelve lunar months.
 
-<span id="fn_18"></span>[10:1](ros03.htm#fr_18) As soon as Nissan had
+<span id="fn_18"></span>[10:1](ros03.htm#fr_18.md) As soon as Nissan had
 been consecrated, there could be no further debate about making the past
 year intercalary, for once the new month had been called Nissan, it was
 forbidden to call it by any other name.
 
-<span id="fn_19"></span>[11:1](ros03.htm#fr_19) The TAMID or daily
+<span id="fn_19"></span>[11:1](ros03.htm#fr_19.md) The TAMID or daily
 offering could not be presented to the Temple by an individual.
 
-<span id="fn_20"></span>[13:1](ros03.htm#fr_20) This is the literal
+<span id="fn_20"></span>[13:1](ros03.htm#fr_20.md) This is the literal
 translation of the verse in Psalms; the free translation is "at the
 appointed time," according to Isaac Leeser.
 
-<span id="fn_21"></span>[14:1](ros03.htm#fr_21) *i.e.*, the jubilee year
+<span id="fn_21"></span>[14:1](ros03.htm#fr_21.md) *i.e.*, the jubilee year
 is, at the same time, the fiftieth year of the last and the first of the
 coming series.
 
-<span id="fn_22"></span>[18:1](ros03.htm#fr_22) TEQUPHA--Solstice or
+<span id="fn_22"></span>[18:1](ros03.htm#fr_22.md) TEQUPHA--Solstice or
 equinox; hence, the period of three months, which elapses between a
 solstice and the next equinox, is also called TEQUPHA. Mar Zutra reads
 the biblical term Tequphoit in the plural.
 
-<span id="fn_23"></span>[19:1](ros03.htm#fr_23) Tithes must be given
+<span id="fn_23"></span>[19:1](ros03.htm#fr_23.md) Tithes must be given
 even to-day, according to the Rabbinical law, throughout Palestine and
 Syria.
 
@@ -1712,16 +1712,16 @@ SHENI, or second tithe, was to be taken in the second year to Jerusalem
 and eaten there, or to be converted into money, which was to be spent
 there; (4) MAÄSER ANI, or the poor tithe, to be given in the third year.
 
-<span id="fn_24"></span>[22:1](ros03.htm#fr_24) The opinion of R.
+<span id="fn_24"></span>[22:1](ros03.htm#fr_24.md) The opinion of R.
 Gamaliel is stated a little further on.
 
-<span id="fn_25"></span>[22:2](ros03.htm#fr_25) Produce of which the
+<span id="fn_25"></span>[22:2](ros03.htm#fr_25.md) Produce of which the
 levitical and priestly tithe has not been yet separated, and which must
 not be used.
 
-<span id="fn_26"></span>[23:1](ros03.htm#fr_26) Vide Introduction.
+<span id="fn_26"></span>[23:1](ros03.htm#fr_26.md) Vide Introduction.
 
-<span id="fn_27"></span>[25:1](ros03.htm#fr_27) These are the divisions
+<span id="fn_27"></span>[25:1](ros03.htm#fr_27.md) These are the divisions
 of the Additional Service for the New Year's Day. The Malkhioth consist
 of ten scriptural passages in which God is proclaimed King. The
 Zikhronoth consist of an equal number of scriptural passages in which
@@ -1731,10 +1731,10 @@ of this tract there is a discussion as to the composition of these
 selections. We retain the Hebrew names, because we feel that no
 translation or paraphrase will adequately express what they mean.
 
-<span id="fn_28"></span>[25:2](ros03.htm#fr_28) This is taken from Tract
+<span id="fn_28"></span>[25:2](ros03.htm#fr_28.md) This is taken from Tract
 Baba Kama.
 
-<span id="fn_29"></span>[27:1](ros03.htm#fr_29) There were sects at that
+<span id="fn_29"></span>[27:1](ros03.htm#fr_29.md) There were sects at that
 time who did not wear the phylacteries on the frontal bone, but on other
 places. The people here referred to are those mentioned in Mishna
 Megillah III. 5. Those who do not wear phylacteries at all are, under no
@@ -1742,34 +1742,34 @@ circumstances, included under the head of these transgressors. (*Vide*
 Tosaphoth, ad loc.) For fuller information the reader is referred to our
 "The History of Amulets, Charms, and Talismans" (New York, 1893).
 
-<span id="fn_30"></span>[32:1](ros03.htm#fr_30) See Slekalim I. i.
+<span id="fn_30"></span>[32:1](ros03.htm#fr_30.md) See Slekalim I. i.
 
-<span id="fn_31"></span>[32:2](ros03.htm#fr_31) *e.g.* Tabernacles. This
+<span id="fn_31"></span>[32:2](ros03.htm#fr_31.md) *e.g.* Tabernacles. This
 was necessary since the Beth Din might have made the month intercalary.
 
-<span id="fn_32"></span>[32:3](ros03.htm#fr_32) *Vide*, Numb. ix. 10,
+<span id="fn_32"></span>[32:3](ros03.htm#fr_32.md) *Vide*, Numb. ix. 10,
 11.
 
-<span id="fn_33"></span>[35:1](ros03.htm#fr_33) By adding an intercalary
+<span id="fn_33"></span>[35:1](ros03.htm#fr_33.md) By adding an intercalary
 day to Elul, the holiday (New Year or Atonement Day) was prevented from
 falling on Friday or Sunday, the intention being to separate the holiday
 by an intervening day from the Sabbath. Thus, herbs that were to be
 eaten fresh, and other foods, would not spoil, as they might, if kept
 from Thursday till after the Sabbath.
 
-<span id="fn_34"></span>[35:2](ros03.htm#fr_34) A similar practice was
+<span id="fn_34"></span>[35:2](ros03.htm#fr_34.md) A similar practice was
 followed with regard to the keeping of a dead body over the Day of
 Atonement and a Sabbath. Since it was impossible to keep the dead body
 two days, the Sabbath and the Atonement Day were separated by the means
 of the intercalated day.
 
-<span id="fn_35"></span>[37:1](ros03.htm#fr_35) *i.e.* if there be a
+<span id="fn_35"></span>[37:1](ros03.htm#fr_35.md) *i.e.* if there be a
 doubt about which day is the Passover or the feast of Tabernacles, the
 festival should be kept for two days; not, however, by *ante-dating* and
 keeping the *fourteenth* and fifteenth (of Nissan or Tishri) but by
 *post-dating* and keeping the fifteenth and *sixteenth* of either month.
 
-<span id="fn_36"></span>[37:2](ros03.htm#fr_36) In Tishri, messengers
+<span id="fn_36"></span>[37:2](ros03.htm#fr_36.md) In Tishri, messengers
 might be delayed reaching distant places, to which they were sent to
 announce the date of the festival (Tabernacles), on account of New
 Year's Day and the Day of Atonement, on which they could not travel more
@@ -1781,27 +1781,27 @@ keep one day, even when in doubt about the date), the Rabbis instituted
 that both Tabernacles and Passover should have two days hallowed instead
 of one.
 
-<span id="fn_37"></span>[37:3](ros03.htm#fr_37) He was in doubt whether
+<span id="fn_37"></span>[37:3](ros03.htm#fr_37.md) He was in doubt whether
 the Beth Din in Palestine had made Elul intercalary or not, and as the
 messengers did not arrive until after the Day of Atonement, he fasted
 two days.
 
-<span id="fn_38"></span>[38:1](ros03.htm#fr_38) To travel to Palestine
+<span id="fn_38"></span>[38:1](ros03.htm#fr_38.md) To travel to Palestine
 in order to inform the Beth Din might have necessitated walking more
 than the distance permitted on the Sabbath.
 
-<span id="fn_39"></span>[38:2](ros03.htm#fr_39) The Temple in Jerusalem.
+<span id="fn_39"></span>[38:2](ros03.htm#fr_39.md) The Temple in Jerusalem.
 
-<span id="fn_40"></span>[38:3](ros03.htm#fr_40) It might then be
+<span id="fn_40"></span>[38:3](ros03.htm#fr_40.md) It might then be
 presumed that every one had seen it, and it was therefore unnecessary
 for any one to go to Palestine to announce it to the Beth Din.
 
-<span id="fn_41"></span>[40:1](ros03.htm#fr_41) Those who breed and
+<span id="fn_41"></span>[40:1](ros03.htm#fr_41.md) Those who breed and
 train pigeons for racing.
 
-<span id="fn_42"></span>[40:2](ros03.htm#fr_44) Even on the Sabbath,
+<span id="fn_42"></span>[40:2](ros03.htm#fr_44.md) Even on the Sabbath,
 when under ordinary circumstances this might not be done.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II.](ros04)
+[Next: Chapter II.](ros04.md)

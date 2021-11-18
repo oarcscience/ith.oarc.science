@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod17)  [Next](ebod19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod17)  [Next](ebod19.md) 
 
 ------------------------------------------------------------------------
 
@@ -755,4 +755,4 @@ Ra.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Plates XI. and XII.](ebod19)
+[Next: Plates XI. and XII.](ebod19.md)

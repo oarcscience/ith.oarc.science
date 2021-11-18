@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Shinto](../../shi)  [Index](index)  [Next](gbf01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Shinto](../../shi)  [Index](index)  [Next](gbf01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F2GHE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F2GHE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gleaings in Buddha-Fields*, by Lafcadio Hearn, \[1897\], at Intangible
 Textual Heritage
 
@@ -45,10 +45,10 @@ because it was published prior to 1923.
 
 <span id="img_cover"></span> <span align="CENTER"> [![Front
 Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Contents](gbf01)
+[Next: Contents](gbf01.md)

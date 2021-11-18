@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](pbd08)  [Next](pbd10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](pbd08)  [Next](pbd10.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,7 +77,7 @@ particular supernatural beings under whose patronage the bear doctor was
 supposed to be and with whom he came into direct contact. According to
 one informant, these were, in order, brush-man, rock-man, shade-man,
 spring-man, pond-man, mountain-man, and sun-man, though a large number
-of others are also included. <span id="fr_16"></span>[17](#fn_16) In
+of others are also included. <span id="fr_16"></span>[17](#fn_16.md) In
 fact, it seems probable that all the spirits of the Pomo world are
 supposed to be directly concerned. The following were specifically
 mentioned by the informants:
@@ -174,11 +174,11 @@ of beads and laid each away separately until the suit was again needed.
 
 ### Footnotes
 
-<span id="fn_16"></span>[459:17](pbd09.htm#fr_16) Another informant gave
+<span id="fn_16"></span>[459:17](pbd09.htm#fr_16.md) Another informant gave
 as these chief spirits sun-man, mountain-man, wind-man, night-man,
 water-man, and valley-man, though not stating that they were considered
 in this order.
 
 ------------------------------------------------------------------------
 
-[Next: Communication Between Bear Doctors](pbd10)
+[Next: Communication Between Bear Doctors](pbd10.md)

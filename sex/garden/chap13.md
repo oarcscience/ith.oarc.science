@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap12) 
-[Next](chap14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap12.md) 
+[Next](chap14.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ amorous passion and strength in coitus.
 ------------------------------------------------------------------------
 
 [Next: Chapter 14: Description of the Uterus of Sterile Women, and
-Treatment of the Same](chap14)
+Treatment of the Same](chap14.md)

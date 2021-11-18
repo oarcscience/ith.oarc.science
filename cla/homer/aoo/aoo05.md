@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo04)  [Next](aoo06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo04)  [Next](aoo06.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ heroes who had waged war against it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](aoo06)
+[Next: Chapter VI](aoo06.md)

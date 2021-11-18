@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits086) [Next](bits088)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits086) [Next](bits088.md)
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ self-same day he either retires from the world or passes into Nirvana."
 
 ------------------------------------------------------------------------
 
-[Next: § 88. The Colorless Life](bits088)
+[Next: § 88. The Colorless Life](bits088.md)
 
  
 

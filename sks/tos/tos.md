@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/tos)  [Previous](../toa/toa) 
-[Next](../twn/twn) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/tos)  [Previous](../toa/toa.md) 
+[Next](../twn/twn.md) 
 
 ------------------------------------------------------------------------
 
@@ -4159,4 +4159,4 @@ Index](../index)  [First Folio](../ff/tos)  [Previous](../toa/toa) 
 
 ------------------------------------------------------------------------
 
-[Next: Twelfth Night](../twn/twn) 
+[Next: Twelfth Night](../twn/twn.md) 

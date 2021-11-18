@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo06)  [Next](beo08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo06)  [Next](beo08.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ here the general force of "Destiny."
 
 ------------------------------------------------------------------------
 
-[Next: Part VII](beo08)
+[Next: Part VII](beo08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq05)  [Next](sfq07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq05)  [Next](sfq07.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ Now we shall see how he succeeded in his wicked endeavour.
 
 ------------------------------------------------------------------------
 
-[Next: The Knight forsakes Una](sfq07)
+[Next: The Knight forsakes Una](sfq07.md)

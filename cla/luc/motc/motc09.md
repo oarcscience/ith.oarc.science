@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc08)  [Next](motc10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc08)  [Next](motc10.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ And I saw her
 <span id="img_07400"></span>
 
 [![](tn/07400.jpg)  
-Click to enlarge](img/07400.jpg)
+Click to enlarge](img/07400.jpg.md)
 
 <span id="page_75">p. 75</span>
 
@@ -194,4 +194,4 @@ Mistress of Heaven, I will never, never, tell you that!
 
 ------------------------------------------------------------------------
 
-[Next: The Return of the Soldier](motc10)
+[Next: The Return of the Soldier](motc10.md)

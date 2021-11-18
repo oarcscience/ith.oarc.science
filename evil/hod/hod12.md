@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod11)  [Next](hod13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod11)  [Next](hod13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -43,13 +43,13 @@ He speaks of the reward of "the good and faithful"
 
 <span id="img_15800"></span> <span align="CENTER"> [![JESUS CASTING OUT
 DEVILS. (After Schnorr von Carolsfeld.)](tn/generic.jpg)  
-Click to view](img/15800.jpg)  
+Click to view](img/15800.jpg.md)  
 JESUS CASTING OUT DEVILS. (After Schnorr von Carolsfeld.)  
 </span>
 
 <span id="img_15801"></span> <span align="CENTER"> [![THE FIEND, SOWING
 TARES AMONG THE WHEAT. (From a German Picture-Bible.)](tn/generic.jpg)  
-Click to view](img/15801.jpg)  
+Click to view](img/15801.jpg.md)  
 THE FIEND, SOWING TARES AMONG THE WHEAT. (From a German
 Picture-Bible.)  
 </span>
@@ -93,14 +93,14 @@ lifetime</span>
 <span id="img_16000"></span> <span align="CENTER"> [![DIVES, ENJOYING
 LIFE, AND LAZARUS SUFFERING. (From a German
 Picture-Bible.)](tn/generic.jpg)  
-Click to view](img/16000.jpg)  
+Click to view](img/16000.jpg.md)  
 DIVES, ENJOYING LIFE, AND LAZARUS SUFFERING. (From a German
 Picture-Bible.)  
 </span>
 
 <span id="img_16001"></span> <span align="CENTER"> [![DIVES TORMENTED IN
 HELL. (From a German Picture-Bible.)](tn/generic.jpg)  
-Click to view](img/16001.jpg)  
+Click to view](img/16001.jpg.md)  
 DIVES TORMENTED IN HELL. (From a German Picture-Bible.)  
 </span>
 
@@ -116,7 +116,7 @@ pains of Dives.
 <span id="img_16100"></span> <span align="CENTER"> [![CAST INTO OUTER
 DARKNESS WHERE THERE SHALL BE WEEPING AND GNASHING OF TEETH.&lt;br&gt;
 (From a German Picture-Bible.)](tn/generic.jpg)  
-Click to view](img/16100.jpg)  
+Click to view](img/16100.jpg.md)  
 CAST INTO OUTER DARKNESS WHERE THERE SHALL BE WEEPING AND GNASHING OF
 TEETH.  
 (From a German Picture-Bible.)  
@@ -139,7 +139,7 @@ Christ's own utterances. We read in Mark ix. 1:
 
 <span id="img_16200"></span> <span align="CENTER"> [![THE DAY OF THE
 LORD. (After Michelangelo.)](tn/generic.jpg)  
-Click to view](img/16200.jpg)  
+Click to view](img/16200.jpg.md)  
 THE DAY OF THE LORD. (After Michelangelo.)  
 </span>
 
@@ -164,7 +164,7 @@ sinners, he adds:
 
 <span class="small">"Now all these things happened unto them for
 ensamples, and they are written for our admonition upon whom the ends of
-the world are come." <span id="fr_66"></span>[1](#fn_65) (I Cor. x.
+the world are come." <span id="fr_66"></span>[1](#fn_65.md) (I Cor. x.
 ii.)</span>
 
 When some of the Thessalonian Christians died, St. Paul comforted them
@@ -184,7 +184,7 @@ JUDGEMENT: Fresco in Campo Santo, Pisa.&lt;br&gt; Illustrating St.
 Paul's prophecy: “The Lord himself shall descend from heaven with a
 shout, with the voice of an archangel and with the trump of God; and the
 dead in Christ shall rise first.”](tn/generic.jpg)  
-Click to view](img/16400.jpg)  
+Click to view](img/16400.jpg.md)  
 THE LAST JUDGEMENT: Fresco in Campo Santo, Pisa.  
 Illustrating St. Paul's prophecy: “The Lord himself shall descend from
 heaven with a shout, with the voice of an archangel and with the trump
@@ -272,7 +272,7 @@ powerful than Christ and his angels. He is conquered and doomed through
 Christ, but he is still unfettered.
 
 The newly discovered fourth book of Daniel <span
-id="fr_67"></span>[1](#fn_66) contains a story which characterises the
+id="fr_67"></span>[1](#fn_66.md) contains a story which characterises the
 expectations of the
 
 <span id="page_167">p. 167</span>
@@ -328,7 +328,7 @@ say that they are Apostles and are not" seems to be directed against St.
 Paul, who, like the Nicolaitanes, is also known for his strong
 antinomistic principles and finding no sin in eating with pagans, even
 though the meat might have been offered as a sacrifice to idols. <span
-id="fr_68"></span>[1](#fn_67)
+id="fr_68"></span>[1](#fn_67.md)
 
 An unpleasant denunciation of a follower of antinomistic, i. e., Pauline
 Christianity in the city of Thyatira, is mentioned in chapter ii.,
@@ -350,7 +350,7 @@ nations;</span>
 <span id="img_16900"></span> <span align="CENTER"> [![THE CHRISTIAN
 WORLD DISPENSATION ACCORDING TO ST. JOHN THE DIVINE.&lt;br&gt; (After
 Schnorr von Carolsfeld.)](tn/generic.jpg)  
-Click to view](img/16900.jpg)  
+Click to view](img/16900.jpg.md)  
 THE CHRISTIAN WORLD DISPENSATION ACCORDING TO ST. JOHN THE DIVINE.  
 (After Schnorr von Carolsfeld.)  
 </span>
@@ -367,7 +367,7 @@ Lamb opens the seven seals, and four
 <span id="img_17000"></span> <span align="CENTER"> [![THE FOUR RIDERS OF
 THE APOCALYPSE. Wall-painting on the Campo Santo, Berlin (By P. Von
 Cornelius.)](tn/generic.jpg)  
-Click to view](img/17000.jpg)  
+Click to view](img/17000.jpg.md)  
 THE FOUR RIDERS OF THE APOCALYPSE. Wall-painting on the Campo Santo,
 Berlin (By P. Von Cornelius.)  
 </span>
@@ -409,7 +409,7 @@ Such is briefly the contents of the Revelation of St.
 <span id="img_17200"></span> <span align="CENTER"> [![THE WOMAN OF
 ABOMINATION. After the Revelation of St. John, (By Albrecht
 Dürer.)](tn/generic.jpg)  
-Click to view](img/17200.jpg)  
+Click to view](img/17200.jpg.md)  
 THE WOMAN OF ABOMINATION. After the Revelation of St. John, (By Albrecht
 Dürer.)  
 </span>
@@ -450,7 +450,7 @@ descent into Hell, which in Chapters xv-xvi reads as follows:
 "Satan, the prince and captain of death, said to the prince of hell,
 Prepare to receive Jesus of Nazareth himself, who boasted that he was
 the Son of God, and yet was a man afraid of death, and said, My soul is
-exceeding sorrowful even unto death. <span id="fr_69"></span>[1](#fn_68)
+exceeding sorrowful even unto death. <span id="fr_69"></span>[1](#fn_68.md)
 Besides he did many injuries to me and to many others; for those whom I
 made blind and lame and those also whom I tormented with several devils,
 he cured by his word; yea, and those whom I brought dead to thee, he by
@@ -527,7 +527,7 @@ broken the gates of brass, and cut the
 
 <span id="img_17600"></span> <span align="CENTER"> [![CHRIST'S DESCENT
 INTO HELL (By Sasha Schneider.)](tn/generic.jpg)  
-Click to view](img/17600.jpg)  
+Click to view](img/17600.jpg.md)  
 CHRIST'S DESCENT INTO HELL (By Sasha Schneider.)  
 </span>
 
@@ -629,7 +629,7 @@ Catholic Epistles, while the Muratorian Fragment mentions it as,!. book
 of the New Testament. According to the testimony of Sozomenos it was
 read in some of the churches of Palestine annually, as a preparation for
 the celebration of Easter in about 440 A. D. <span
-id="fr_70"></span>[1](#fn_69) It was used in Rome and Alexandria at the
+id="fr_70"></span>[1](#fn_69.md) It was used in Rome and Alexandria at the
 end of the second century, together with the revelation of St. John,
 where, according to Eusebius, both writings belonged to the contested
 canonical books, that is to say, they were received as canonical but not
@@ -637,7 +637,7 @@ without protest in some quarters.
 
 According to the revelation of St. Peter, Heaven and Hell are places.
 Heaven is described by St. Peter as follows: <span
-id="fr_71"></span>[2](#fn_70)
+id="fr_71"></span>[2](#fn_70.md)
 
 <span class="small">"And I spake to him (the Lord): 'And where are the
 just, and what is their æon in which, they that possess this glory
@@ -663,7 +663,7 @@ REPRESENTATION OF THE LAST JUDGMENT.&lt;br&gt; Sculptures on the main
 entrance of the Cathedral at Bourges, France. Fourteenth century.
 (Reproduced from &lt;i&gt;Klassischer
 Skulpturenschatz&lt;/i&gt;.)](tn/generic.jpg)  
-Click to view](img/18000.jpg)  
+Click to view](img/18000.jpg.md)  
 CHRISTIAN REPRESENTATION OF THE LAST JUDGMENT.  
 Sculptures on the main entrance of the Cathedral at Bourges, France.
 Fourteenth century. (Reproduced from *Klassischer Skulpturenschatz*.)  
@@ -693,7 +693,7 @@ that I should enter into this place.' I saw murderers</span>
 REPRESENTATION OF HELL.&lt;br&gt; Sculptures on the main entrance of the
 Cathedral at Bourges, France. Fourteenth century. (Reproduced from
 Klassischer Skulpturenschatz.)](tn/generic.jpg)  
-Click to view](img/18100.jpg)  
+Click to view](img/18100.jpg.md)  
 CHRISTIAN REPRESENTATION OF HELL.  
 Sculptures on the main entrance of the Cathedral at Bourges, France.
 Fourteenth century. (Reproduced from Klassischer Skulpturenschatz.)  
@@ -733,7 +733,7 @@ thrown from a high precipice, and having reached the bottom were urged
 up again by their assaulters to climb the precipice, and were then again
 thrown down, and they were given no respite from this torment. They were
 those who had polluted their own bodies. <span
-id="fr_72"></span>[1](#fn_71)... And by the side of this precipice was a
+id="fr_72"></span>[1](#fn_71.md)... And by the side of this precipice was a
 place which was filled entirely with fire, and there stood the people
 who had made with their own hands carved images and worshipped them
 instead of God, and near them were men and women with switches who beat
@@ -747,17 +747,17 @@ Another description of Hell according to the views of the Christian
 Gnostics of the third century is contained in the *Pistis Sophia*, where
 all the places of torment are described at considerable length in all
 details. "It is remarkable," says Professor Harnack, <span
-id="fr_73"></span>[1](#fn_72) "that the *Pistis Sophia* anticipates on
+id="fr_73"></span>[1](#fn_72.md) "that the *Pistis Sophia* anticipates on
 this subject as well as in many other respects the development of the
 Catholic Church . It insists on the power of salvation of the
 sacraments, of the mysteries, of penance, and ascetic practices. At the
 same time it recognises Apostolic authority, and attempts in every
 respect to base its doctrines on the canon of the Old and New
 Testament." Its date has been fixed with great accuracy on the second
-part of the third century. <span id="fr_74"></span>[2](#fn_73) This
+part of the third century. <span id="fr_74"></span>[2](#fn_73.md) This
 strange book contains questions of Mary and of some of the apostles,
 which Christ after his resurrection answers on the Mount of Olives, and
-it is probably identical with a gnostic book [mentioned](errata.htm#0)
+it is probably identical with a gnostic book [mentioned](errata.htm#0.md)
 by Epiphanius under the title The Minor Questions of Mary. Harnack calls
 attention to the fact that the book is an evidence of the astonishing
 agreement of this later Gnosticism with later Catholic Christianity. The
@@ -766,7 +766,7 @@ Syrian Gnosticism or Ophitism; but he wrote in Egypt where the Syrian
 Gnostics exercised quite a powerful influence. The revelation of
 mysteries culminates in the doctrine of Christ's identity with his
 disciples, which is uttered repeatedly and with emphasis. <span
-id="fr_75"></span>[3](#fn_74) The peculiarly
+id="fr_75"></span>[3](#fn_74.md) The peculiarly
 
 <span id="page_184">p. 184</span>
 
@@ -786,7 +786,7 @@ therein?'
 
 "And Jesus answered and said unto Mary: 'The outer darkness is a huge
 dragon, with its tall in its mouth; it is outside the world and
-surroundeth it completely. <span id="fr_76"></span>[1](#fn_75) There are
+surroundeth it completely. <span id="fr_76"></span>[1](#fn_75.md) There are
 many regions of punishment therein, for there are in it twelve \[main\]
 dungeons of horrible torment.
 
@@ -812,7 +812,7 @@ serpent's: it is called, in its region, Achrôchar.
 <span id="img_18500"></span> <span align="CENTER"> [![THE TYPICAL
 CONCEPTION OF HELL.&lt;br&gt; German Woodcut of the age of the
 Reformation.](tn/generic.jpg)  
-Click to view](img/18500.jpg)  
+Click to view](img/18500.jpg.md)  
 THE TYPICAL CONCEPTION OF HELL.  
 German Woodcut of the age of the Reformation.  
 </span>
@@ -856,7 +856,7 @@ that the dragon of outer darkness containeth twelve dungeons of
 darkness, each of which hath a door that openeth to the height; and an
 angel of the height watched at each of the doors of the dungeons.
 
-"'These Ieou, <span id="fr_77"></span>[1](#fn_76) the first man, the
+"'These Ieou, <span id="fr_77"></span>[1](#fn_76.md) the first man, the
 overseer of the light, the ancient of the first statute, hath set to
 watch over the dragon, lest
 
@@ -886,7 +886,7 @@ outer darkness. And when they have finished bringing those souls into
 the outer darkness by the opening in its tail, it putteth back its tail
 again into its mouth and shutteth them in. This is the way in which
 souls are brought into the outer darkness. <span
-id="fr_78"></span>[1](#fn_77)
+id="fr_78"></span>[1](#fn_77.md)
 
 "And the dragon of the outer darkness hath twelve authentic names which
 are written on its doors, a name for the door of every dungeon; and
@@ -906,7 +906,7 @@ terrible beyond the punishment of all the judgments?'
 "The saviour answered and said unto Mary: 'Not only are they more
 painful than all the chastisements of the judgments, but every soul that
 shall be carried into that region shall be imprisoned in relentless
-ice, <span id="fr_79"></span>[1](#fn_78) in the hail and scorching fire
+ice, <span id="fr_79"></span>[1](#fn_78.md) in the hail and scorching fire
 which are therein. And in the dissolution of the world, that is to say,
 in the ascension of the pleroma, these souls shall perish in the
 relentless ice and scorching fire, and shall be non-existent for the
@@ -924,7 +924,7 @@ more.
 AND THE GOOD OF THE SOUL&lt;br&gt; Reminding one of similar notions
 prevalent in ancient Egypt. (About 1150. From the cathedral in Auntun,
 France.)](tn/generic.jpg)  
-Click to view](img/18800.jpg)  
+Click to view](img/18800.jpg.md)  
 WEIGHING THE EVIL AND THE GOOD OF THE SOUL  
 Reminding one of similar notions prevalent in ancient Egypt. (About
 1150. From the cathedral in Auntun, France.)  
@@ -951,7 +951,7 @@ cried out aloud, with tears, and all the disciples with her, saying:
 
 <span id="img_18900"></span> <span align="CENTER"> [![THE DOOM OF THE
 DAMNED. (After Luca Signorelli.)](tn/generic.jpg)  
-Click to view](img/18900.jpg)  
+Click to view](img/18900.jpg.md)  
 THE DOOM OF THE DAMNED. (After Luca Signorelli.)  
 </span>
 
@@ -969,7 +969,7 @@ OF MEDIÆVAL CHRISTIANITY. (Old German.)&lt;br&gt; Representing God as
 Emperor, Christ as King, and the Holy Ghost as the principle of light,
 of order and good government. (Reproduced from
 Muther.)](tn/generic.jpg)  
-Click to view](img/19000.jpg)  
+Click to view](img/19000.jpg.md)  
 THE TRINITY IDEAL OF MEDIÆVAL CHRISTIANITY. (Old German.)  
 Representing God as Emperor, Christ as King, and the Holy Ghost as the
 principle of light, of order and good government. (Reproduced from
@@ -1025,32 +1025,32 @@ Tests David cum Sibylla."</span>
 
 ### Footnotes
 
-<span id="fn_65"></span>[163:1](hod12.htm#fr_66) τὰ τέλη τῶν αἰώνων. See
+<span id="fn_65"></span>[163:1](hod12.htm#fr_66.md) τὰ τέλη τῶν αἰώνων. See
 also Hebr. ix. 26, where the appearance of Christ is said to have taken
 place at the consummation of the time (ἐπὶ συντελείᾳ τῶν αἰώνων).
 
-<span id="fn_66"></span>[166:1](hod12.htm#fr_67) Edited by Dr. Ed.
+<span id="fn_66"></span>[166:1](hod12.htm#fr_67.md) Edited by Dr. Ed.
 Bratke, Bonn, 1891.
 
-<span id="fn_67"></span>[168:1](hod12.htm#fr_68) Rom. 14 and I Cor. 8.
+<span id="fn_67"></span>[168:1](hod12.htm#fr_68.md) Rom. 14 and I Cor. 8.
 
-<span id="fn_68"></span>[174:1](hod12.htm#fr_69) See Matth., xxvi. 38.
+<span id="fn_68"></span>[174:1](hod12.htm#fr_69.md) See Matth., xxvi. 38.
 
-<span id="fn_69"></span>[179:1](hod12.htm#fr_70) See Harnack,
+<span id="fn_69"></span>[179:1](hod12.htm#fr_70.md) See Harnack,
 *Bruchstücke des Evangeliums und der Apokalypse des Petrus*, p. 5-6.
 
-<span id="fn_70"></span>[179:2](hod12.htm#fr_71) Translated into English
+<span id="fn_70"></span>[179:2](hod12.htm#fr_71.md) Translated into English
 from Harnack's edition.
 
-<span id="fn_71"></span>[182:1](hod12.htm#fr_72) We prefer to omit
+<span id="fn_71"></span>[182:1](hod12.htm#fr_72.md) We prefer to omit
 further details.
 
-<span id="fn_72"></span>[183:1](hod12.htm#fr_73) See Harnack, *Texte und
+<span id="fn_72"></span>[183:1](hod12.htm#fr_73.md) See Harnack, *Texte und
 Untersuchungen*, etc., p. 98.
 
-<span id="fn_73"></span>[183:2](hod12.htm#fr_74) Ibid., pp. 94 et seq.
+<span id="fn_73"></span>[183:2](hod12.htm#fr_74.md) Ibid., pp. 94 et seq.
 
-<span id="fn_74"></span>[183:3](hod12.htm#fr_75) "Qui acceperit
+<span id="fn_74"></span>[183:3](hod12.htm#fr_75.md) "Qui acceperit
 μυστήριον Ineffabilis, ille est ego."--"Ego sum isti, isti sum
 ego."--"Ego sum mysterium illud."--"Vis quae est in vobis, e me est."
 Harnack says (p. 30): "These brief significant sentences are not
@@ -1058,24 +1058,24 @@ invented by the author who <span id="page_184">p. 184</span> makes his
 Christ express himself in quite different sermons: they point, in my
 opinion, to an older gnostic book, or a gnostic gospel."
 
-<span id="fn_75"></span>[184:1](hod12.htm#fr_76) This reminds us of the
+<span id="fn_75"></span>[184:1](hod12.htm#fr_76.md) This reminds us of the
 myths of the Midgard-serpent and anticipates the innumerable mediaeval
 representations of Hell as a big-mouthed dragon.
 
-<span id="fn_76"></span>[186:1](hod12.htm#fr_77) The idea of "Ieou, the
+<span id="fn_76"></span>[186:1](hod12.htm#fr_77.md) The idea of "Ieou, the
 first man, the overseer of the light, the ancient of the first statue,"
 reminds us of the archetypal man of Simon Magus and other Gnostics and
 also of the Adam of the Cabala.
 
-<span id="fn_77"></span>[187:1](hod12.htm#fr_78) In mediæval
+<span id="fn_77"></span>[187:1](hod12.htm#fr_78.md) In mediæval
 Hell-representations, which rarely are lacking in coarse humor, the
 souls are thrown with pitchforks into the open jaws of the dragon. The
 coarseness of the description of Hell in the *Pistis Sophia* is
 apparently serious.
 
-<span id="fn_78"></span>[188:1](hod12.htm#fr_79) An anticipation of
+<span id="fn_78"></span>[188:1](hod12.htm#fr_79.md) An anticipation of
 Dante's ice hell.
 
 ------------------------------------------------------------------------
 
-[Next: The Idea of Salvation in Greece and Italy.](hod13)
+[Next: The Idea of Salvation in Greece and Italy.](hod13.md)

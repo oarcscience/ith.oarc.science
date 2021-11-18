@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps31)  [Next](rps33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps31)  [Next](rps33.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ and, SKIN FOR SKIN.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 31. Black Supremacy's Infant's Diploma](rps33)
+[Next: Chapter 31. Black Supremacy's Infant's Diploma](rps33.md)

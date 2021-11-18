@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc03)  [Next](lcc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc03)  [Next](lcc05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ at Intangible Textual Heritage
 #### I. THE AUTHOR AND THE PLAY
 
 CONCERNING the life, the date, and the very identity <span
-id="fr_1"></span>[1](#fn_1) of King Shūdraka, the reputed author of The
+id="fr_1"></span>[1](#fn_1.md) of King Shūdraka, the reputed author of The
 Little Clay Cart, we are curiously ignorant. No other work is ascribed
 to him, and we have no direct information about him, beyond the somewhat
 fanciful statements of the Prologue to this play. There are, to be sure,
@@ -60,13 +60,13 @@ lack of humor, his insistent grandeur, are qualities which prevent his
 being a truly popular poet. With reference to Kālidāsa, he holds a
 position such as Aeschylus holds with reference to Euripides. He will
 always seem to minds that sympathize with his grandeur <span
-id="fr_2"></span>[1](#fn_2) the greatest of Indian poets; while by other
+id="fr_2"></span>[1](#fn_2.md) the greatest of Indian poets; while by other
 equally discerning minds of another order he will be admired, but not
 passionately loved.
 
 Yet however great the difference between Kālidāsa, "the grace of
-poetry," <span id="fr_3"></span>[2](#fn_3) and Bhavabhūti, "the master
-of eloquence," <span id="fr_4"></span>[3](#fn_4) these two authors are
+poetry," <span id="fr_3"></span>[2](#fn_3.md) and Bhavabhūti, "the master
+of eloquence," <span id="fr_4"></span>[3](#fn_4.md) these two authors are
 far more intimately allied in spirit than is either of them with the
 author of The Little Clay Cart. Kālidāsa and Bhavabhūti are Hindus of
 the Hindus; the Shakuntalā and the Latter Acts of Rāma could have been
@@ -81,10 +81,10 @@ style, its love of epigram—Kālidāsa and Bhavabhūti are far truer
 
 to their native land than is Shūdraka. In Shūdraka we find few of those
 splendid phrases in which, as the Chinese <span
-id="fr_5"></span>[1](#fn_5) say, it is only the words which stop, the
+id="fr_5"></span>[1](#fn_5.md) say, it is only the words which stop, the
 sense goes on,"—phrases like Kālidāsa's <span
-id="fr_6"></span>[2](#fn_6) "there are doors of the inevitable
-everywhere," or Bhavabhūti's <span id="fr_7"></span>[3](#fn_7) "for
+id="fr_6"></span>[2](#fn_6.md) "there are doors of the inevitable
+everywhere," or Bhavabhūti's <span id="fr_7"></span>[3](#fn_7.md) "for
 causeless love there is no remedy." As regards the predominance of
 swift-moving action over the poetical expression of great truths, The
 Little Clay Cart stands related to the Latter Acts of Rāma as Macbeth
@@ -175,22 +175,22 @@ author's creative power. This type is the so-called
 
 <span id="page_xix">p. xix</span>
 
-"drama of invention," <span id="fr_8"></span>[1](#fn_8) a category
+"drama of invention," <span id="fr_8"></span>[1](#fn_8.md) a category
 curiously subordinated in India to the heroic drama, the plot of which
 is drawn from history or mythology. Indeed, The Little Clay Cart is the
 only extant drama which fulfils the spirit of the drama of invention, as
 defined by the Sanskrit canons of dramaturgy. The plot of the "Mālatī
 and Mādhava," or of the "Mallikā and Māruta," is in no true sense the
 invention of the author; and The Little Clay Cart is the only drama of
-invention which is "full of rascals." <span id="fr_9"></span>[2](#fn_9)
+invention which is "full of rascals." <span id="fr_9"></span>[2](#fn_9.md)
 
 But a spirit so powerful as that of King Shūdraka could not be confined
 within the strait jacket of the minute, and sometimes puerile, rules of
 the technical works. In the very title of the drama, he has disregarded
-the rule <span id="fr_10"></span>[3](#fn_10) that the name of a drama of
+the rule <span id="fr_10"></span>[3](#fn_10.md) that the name of a drama of
 invention should be formed by compounding the names of heroine and
-hero. <span id="fr_11"></span>[4](#fn_11) Again, the books
-prescribe <span id="fr_12"></span>[5](#fn_12) that the hero shall appear
+hero. <span id="fr_11"></span>[4](#fn_11.md) Again, the books
+prescribe <span id="fr_12"></span>[5](#fn_12.md) that the hero shall appear
 in every act; yet Chārudatta does not appear in acts ii., iv., vi., and
 viii. And further, various characters, Vasantasenā, Maitreya, the
 courtier, and others, have vastly gained because they do not conform too
@@ -199,8 +199,8 @@ closely to the technical definitions.
 The characters of The Little Clay Cart are living men and women. Even
 when the type makes no strong appeal to Western minds, as in the case of
 Chārudatta, the character lives, in a sense in which Dushyanta <span
-id="fr_13"></span>[6](#fn_13) or even Rāma <span
-id="fr_14"></span>[7](#fn_14) can hardly be said to live. Shūdraka's men
+id="fr_13"></span>[6](#fn_13.md) or even Rāma <span
+id="fr_14"></span>[7](#fn_14.md) can hardly be said to live. Shūdraka's men
 are better individualized than his women; this fact alone differentiates
 him sharply from other Indian dramatists. He draws on every class of
 society, from the high-souled Brahman to the executioner and the
@@ -212,9 +212,9 @@ His greatest character is unquestionably Sansthānaka, this combination
 
 of ignorant conceit, brutal lust, and cunning, this greater than Cloten,
 who, after strangling an innocent woman, can say: <span
-id="fr_15"></span>[1](#fn_15) "Oh, come! Let's go and play in the pond."
+id="fr_15"></span>[1](#fn_15.md) "Oh, come! Let's go and play in the pond."
 Most attractive characters are the five <span
-id="fr_16"></span>[2](#fn_16) conspirators, men whose home is "east of
+id="fr_16"></span>[2](#fn_16.md) conspirators, men whose home is "east of
 Suez and the ten commandments." They live from hand to mouth, ready at
 any moment to steal a gem-casket or to take part in a revolution, and
 preserving through it all their character as gentlemen and their
@@ -229,16 +229,16 @@ Beneath its fruit of virtue bending low*. (*i. 48*)
 </div>
 
 To him, life itself is not dear, but only honor. <span
-id="fr_17"></span>[3](#fn_17) He values wealth only as it supplies him
+id="fr_17"></span>[3](#fn_17.md) He values wealth only as it supplies him
 with the means of serving others. We may, with some justice, compare him
 with Antonio in The Merchant of Venice. There is some inconsistency,
 from our point of view, in making such a character the hero of a
 love-drama; and indeed, it is Vasantasenā who does most of the
-love-making. <span id="fr_18"></span>[4](#fn_18)
+love-making. <span id="fr_18"></span>[4](#fn_18.md)
 
 Vasantasenā is a character with neither the girlish charm of
-Shakuntalā <span id="fr_19"></span>[5](#fn_19) nor the mature womanly
-dignity of Sītā. <span id="fr_20"></span>[6](#fn_20) She is more
+Shakuntalā <span id="fr_19"></span>[5](#fn_19.md) nor the mature womanly
+dignity of Sītā. <span id="fr_20"></span>[6](#fn_20.md) She is more
 admirable than lovable. Witty and wise she is, and in her love as true
 as steel; this too, in a social position which makes such constancy
 difficult. Yet she cannot be called a great character; she does not seem
@@ -252,9 +252,9 @@ roughly to the hetæræ of
 
 ancient Greece or the geishas of Japan; it was possible to be a
 courtezan and retain one's self-respect. Yet the inherited <span
-id="fr_21"></span>[1](#fn_21) way of life proves distasteful to
+id="fr_21"></span>[1](#fn_21.md) way of life proves distasteful to
 Vasantasenā; her one desire is to escape its limitations and its dangers
-by becoming a legal wife. <span id="fr_22"></span>[2](#fn_22)
+by becoming a legal wife. <span id="fr_22"></span>[2](#fn_22.md)
 
 In Maitreya, the Vidūshaka, we find an instance of our author's masterly
 skill in giving life to the dry bones of a rhetorical definition. The
@@ -275,8 +275,8 @@ risks life, and all that makes life attractive, by backing Aryaka. Of
 all the conspirators, it is he who runs the greatest risk. To his
 protection of Vasantasenā is added a touch of infinite pathos when we
 remember that he was himself in love with her. <span
-id="fr_23"></span>[3](#fn_23) Only when Vasantasenā leaves him <span
-id="fr_24"></span>[4](#fn_24) without a thought, to enter Chārudatta's
+id="fr_23"></span>[3](#fn_23.md) Only when Vasantasenā leaves him <span
+id="fr_24"></span>[4](#fn_24.md) without a thought, to enter Chārudatta's
 house, does he realize how much he loves her; then, indeed, he breaks
 forth in words of the most passionate jealousy. We need not linger over
 the other characters, except to observe that each has his marked
@@ -338,7 +338,7 @@ translation of the stanzas of a Sanskrit drama. It is true that we
 occasionally find stanzas which might fitly be rendered in English blank
 verse, and, more frequently, stanzas which are so prosaic as not to
 deserve a rendering in English verse at all. <span
-id="fr_25"></span>[1](#fn_25) But, as the present translation may be
+id="fr_25"></span>[1](#fn_25.md) But, as the present translation may be
 regarded as in some sort an experiment, I have preferred to hold rigidly
 to the distinction found in the original between simple prose and types
 of stanza which seem to me to correspond to English rhymed verse.
@@ -362,7 +362,7 @@ closely akin to it. The inferior personages of an Indian play, and, with
 rare exceptions, all the women, speak one or another of these Prākrits.
 Of the thirty characters of this play, for example, only five
 (Chārudatta, the courtier, Aryaka, Sharvilaka, and the judge) speak
-Sanskrit; <span id="fr_26"></span>[1](#fn_26) the others speak various
+Sanskrit; <span id="fr_26"></span>[1](#fn_26.md) the others speak various
 Prākrit dialects. Only in the case of Sansthānaka have I made a rude
 attempt to suggest the dialect by substituting *sh* for *s* as he does.
 And the grandiloquence of Sharvilaka's Sanskrit in the satirical portion
@@ -389,7 +389,7 @@ indicated the repetition after the manner of the original.
 
 The reader will notice that there was little effort to attain realism in
 the presentation of an Indian play. He need not be surprised therefore
-to find (page [145](lcc15.htm#page_145)) that Vīraka leaves the
+to find (page [145](lcc15.htm#page_145).md) that Vīraka leaves the
 courtroom, mounts a horse, rides to the suburbs, makes an investigation
 and returns—all within the limits of a stage-direction. The simplicity
 of presentation also makes possible sudden shifts of scene. In the first
@@ -402,9 +402,9 @@ realism is wise.
 The system of transliteration which I have adopted is intended to render
 the pronunciation of proper names as simple as may be to the English
 reader. The consonants are to be pronounced as in English, <span
-id="fr_27"></span>[1](#fn_27) the vowels as in Italian. Diacritical
+id="fr_27"></span>[1](#fn_27.md) the vowels as in Italian. Diacritical
 marks have been avoided, with the exception of the macron. This sign has
-been used consistently <span id="fr_28"></span>[2](#fn_28) to mark long
+been used consistently <span id="fr_28"></span>[2](#fn_28.md) to mark long
 vowels except e and o, which are always long. Three rules suffice for
 the placing of the accent. A long penult is accented: Maitréya,
 Chārudátta. If the penult is short, the antepenult is accented provided
@@ -543,91 +543,91 @@ grievously injured. The play ends with the usual Epilogue.
 
 ### Footnotes
 
-<span id="fn_1"></span>[xv:1](lcc04.htm#fr_1) For an illuminating
+<span id="fn_1"></span>[xv:1](lcc04.htm#fr_1.md) For an illuminating
 discussion of these matters, the reader is referred to Sylvain Lévi's
 admirable work, Le Théâtre Indien, Paris, 1890, pages 196-211.
 
-<span id="fn_2"></span>[xvi:1](lcc04.htm#fr_2) In his Mālatīmādhava, i.
+<span id="fn_2"></span>[xvi:1](lcc04.htm#fr_2.md) In his Mālatīmādhava, i.
 8, he says: "Whoever they may be who now proclaim their contempt for
 me,—they know something, but *this* work was not for them. Yet there
 will arise a man of nature like mine own; for time is endless, and the
 world is wide." This seems prophetic of John Milton.
 
-<span id="fn_3"></span>[xvi:2](lcc04.htm#fr_3) Prasannarāghava, i. 22.
+<span id="fn_3"></span>[xvi:2](lcc04.htm#fr_3.md) Prasannarāghava, i. 22.
 
-<span id="fn_4"></span>[xvi:3](lcc04.htm#fr_4) Mahāvīracarita, i. 4.
+<span id="fn_4"></span>[xvi:3](lcc04.htm#fr_4.md) Mahāvīracarita, i. 4.
 
-<span id="fn_5"></span>[xvii:1](lcc04.htm#fr_5) History of Chinese
+<span id="fn_5"></span>[xvii:1](lcc04.htm#fr_5.md) History of Chinese
 Literature, by H. A. Giles, pages 145-146.
 
-<span id="fn_6"></span>[xvii:2](lcc04.htm#fr_6) Shakuntalā, i. 15.
+<span id="fn_6"></span>[xvii:2](lcc04.htm#fr_6.md) Shakuntalā, i. 15.
 
-<span id="fn_7"></span>[xvii:3](lcc04.htm#fr_7) Latter Acts of Rāma, v.
+<span id="fn_7"></span>[xvii:3](lcc04.htm#fr_7.md) Latter Acts of Rāma, v.
 17.
 
-<span id="fn_8"></span>[xix:1](lcc04.htm#fr_8) *Prakaraṇa*.
+<span id="fn_8"></span>[xix:1](lcc04.htm#fr_8.md) *Prakaraṇa*.
 
-<span id="fn_9"></span>[xix:2](lcc04.htm#fr_9) *Dhūrtasaṁkula:*
+<span id="fn_9"></span>[xix:2](lcc04.htm#fr_9.md) *Dhūrtasaṁkula:*
 Daçarūpa, iii. 38.
 
-<span id="fn_10"></span>[xix:3](lcc04.htm#fr_10) *Sāhityadarpaṇa*, 428.
+<span id="fn_10"></span>[xix:3](lcc04.htm#fr_10.md) *Sāhityadarpaṇa*, 428.
 
-<span id="fn_11"></span>[xix:4](lcc04.htm#fr_11) As in Mālatī-mādhava.
+<span id="fn_11"></span>[xix:4](lcc04.htm#fr_11.md) As in Mālatī-mādhava.
 
-<span id="fn_12"></span>[xix:5](lcc04.htm#fr_12) Daçarūpa, iii. 33.
+<span id="fn_12"></span>[xix:5](lcc04.htm#fr_12.md) Daçarūpa, iii. 33.
 
-<span id="fn_13"></span>[xix:6](lcc04.htm#fr_13) In Kālidāsa's
+<span id="fn_13"></span>[xix:6](lcc04.htm#fr_13.md) In Kālidāsa's
 Shakuntalā.
 
-<span id="fn_14"></span>[xix:7](lcc04.htm#fr_14) In Bhavabhūti's Latter
+<span id="fn_14"></span>[xix:7](lcc04.htm#fr_14.md) In Bhavabhūti's Latter
 Acts of Rāma.
 
-<span id="fn_15"></span>[xx:1](lcc04.htm#fr_15) See page
-[128](lcc14.htm#page_128).
+<span id="fn_15"></span>[xx:1](lcc04.htm#fr_15.md) See page
+[128](lcc14.htm#page_128.md).
 
-<span id="fn_16"></span>[xx:2](lcc04.htm#fr_16) Aryaka, Darduraka,
+<span id="fn_16"></span>[xx:2](lcc04.htm#fr_16.md) Aryaka, Darduraka,
 Chandanaka, Sharvilaka, and the courtier.
 
-<span id="fn_17"></span>[xx:3](lcc04.htm#fr_17) See x. 27.
+<span id="fn_17"></span>[xx:3](lcc04.htm#fr_17.md) See x. 27.
 
-<span id="fn_18"></span>[xx:4](lcc04.htm#fr_18) See v. 46 and the
+<span id="fn_18"></span>[xx:4](lcc04.htm#fr_18.md) See v. 46 and the
 following stage-direction.
 
-<span id="fn_19"></span>[xx:5](lcc04.htm#fr_19) In Kālidāsa's play of
+<span id="fn_19"></span>[xx:5](lcc04.htm#fr_19.md) In Kālidāsa's play of
 that name.
 
-<span id="fn_20"></span>[xx:6](lcc04.htm#fr_20) In Bhavabhūti's Latter
+<span id="fn_20"></span>[xx:6](lcc04.htm#fr_20.md) In Bhavabhūti's Latter
 Acts of Rāma.
 
-<span id="fn_21"></span>[xxi:1](lcc04.htm#fr_21) See viii. 43.
+<span id="fn_21"></span>[xxi:1](lcc04.htm#fr_21.md) See viii. 43.
 
-<span id="fn_22"></span>[xxi:2](lcc04.htm#fr_22) See pages
-[65](lcc10.htm#page_65)-[66](lcc10.htm#page_66) and page
-[174](lcc16.htm#page_174).
+<span id="fn_22"></span>[xxi:2](lcc04.htm#fr_22.md) See pages
+[65](lcc10.htm#page_65)-[66](lcc10.htm#page_66.md) and page
+[174](lcc16.htm#page_174.md).
 
-<span id="fn_23"></span>[xxi:3](lcc04.htm#fr_23) See viii. 38; and
+<span id="fn_23"></span>[xxi:3](lcc04.htm#fr_23.md) See viii. 38; and
 compare the words, "Yet love bids me prattle," on page
-[86](lcc11.htm#page_86).
+[86](lcc11.htm#page_86.md).
 
-<span id="fn_24"></span>[xxi:4](lcc04.htm#fr_24) Page
-[87](lcc11.htm#page_87).
+<span id="fn_24"></span>[xxi:4](lcc04.htm#fr_24.md) Page
+[87](lcc11.htm#page_87.md).
 
-<span id="fn_25"></span>[xxiii:1](lcc04.htm#fr_25) Stanzas of the latter
+<span id="fn_25"></span>[xxiii:1](lcc04.htm#fr_25.md) Stanzas of the latter
 sort in The Little Clay Cart are vii. 2 and viii. 5.
 
-<span id="fn_26"></span>[xxiv:1](lcc04.htm#fr_26) This statement
+<span id="fn_26"></span>[xxiv:1](lcc04.htm#fr_26.md) This statement
 requires a slight limitation; compare, for example, the footnote to page
-[82](lcc11.htm#page_82).
+[82](lcc11.htm#page_82.md).
 
-<span id="fn_27"></span>[xxv:1](lcc04.htm#fr_27) But the combination
+<span id="fn_27"></span>[xxv:1](lcc04.htm#fr_27.md) But the combination
 *th* should be pronounced as in *ant-hill*, not as in *thin* or *this;*
 similarly *dh* as in madhouse; *bh* as in *abhor*.
 
-<span id="fn_28"></span>[xxv:2](lcc04.htm#fr_28) Except in the names
+<span id="fn_28"></span>[xxv:2](lcc04.htm#fr_28.md) Except in the names
 Aryaka and Āhīnta, where typographical considerations have led to the
 omission of the macron over the initial letter; and except also in
 head-lines.
 
 ------------------------------------------------------------------------
 
-[Next: Dramatis Personae](lcc05)
+[Next: Dramatis Personae](lcc05.md)

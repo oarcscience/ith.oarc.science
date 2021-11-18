@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fotc27)  [Next](fotc29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fotc27)  [Next](fotc29.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Feuds of the Clans*, by Alexander MacGregor, \[1907\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ daily impaired their own strength with their own slaughters, and, in
 end, wrought their own harm by pressing to strive against the Gordons.
 These two surnames did live together at this time, rather in secret
 emulation than open envy; because they had (in way of reconciliation) by
-marriage intermingled their families [together](errata.htm#1); but their
+marriage intermingled their families [together](errata.htm#1.md); but their
 hid and long-rooted rancour did now burst forth, not only by following
 contrary factions during these civil wars betwixt the King's party and
 the Queen's, but chiefly because that John, Master of Forbes (eldest son
@@ -189,4 +189,4 @@ all the parts of the kingdom were highly encouraged at that time.
 
 ------------------------------------------------------------------------
 
-[Next: The Brig of Dee](fotc29)
+[Next: The Brig of Dee](fotc29.md)

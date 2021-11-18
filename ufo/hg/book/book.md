@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Heaven's Gate](../index)
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Heaven's Gate](../index.md)
 
 ------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
-### **How and When** ![Farewell\_Legacy\_and\_Departure\_Announcement\_of\_"Ti\_and\_Do"\_and\_Their\_Students/Disciples](../img/bkpg.jpg) ** May Be Entered**
+### **How and When** ![Farewell\_Legacy\_and\_Departure\_Announcement\_of\_"Ti\_and\_Do"\_and\_Their\_Students/Disciples](../img/bkpg.jpg.md) ** May Be Entered**
 
 ***An Anthology of Our Materials***
 
@@ -262,7 +262,7 @@ Bible Quotes Substantiating Our Position
 
 ------------------------------------------------------------------------
 
-\| [Top of Table of Contents](#top) \|  
+\| [Top of Table of Contents](#top.md) \|  
 
 ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo space alien space alien
 space alien space alien space alien space alien space alien space alien

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre62)  [Next](gre64) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre62)  [Next](gre64.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ friend to those nighest to him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LIX: Gisli's meeting with Grettir](gre64)
+[Next: Chapter LIX: Gisli's meeting with Grettir](gre64.md)

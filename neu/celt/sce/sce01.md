@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce00)  [Next](sce02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce00)  [Next](sce02.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ By moonlit loch or mountain's brow
 
 ------------------------------------------------------------------------
 
-[Next: 1. The History of the Book and Author](sce02)
+[Next: 1. The History of the Book and Author](sce02.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ssm04)  [Next](ssm06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ssm04)  [Next](ssm06.md) 
 
 ------------------------------------------------------------------------
 
@@ -229,7 +229,7 @@ Ra Mu is quoted as saying:
 "Did I not predict all this?"
 
 It was the priesthood of Egypt that caused the cataclysmic wave of false
-gods, idolatry and spiritual [degradation](errata.htm#0) to sweep over
+gods, idolatry and spiritual [degradation](errata.htm#0.md) to sweep over
 the land. So well did they effect their nefarious designs that priestly
 orders throughout the world were drawn into the vortex contributing to
 religion's spiritual downfall. This started over 5,000 years ago, and
@@ -433,7 +433,7 @@ THE CONSTRUCTION OF THE DIAGRAM.--In the center
 <span id="img_04100"></span>
 
 [![&lt;I&gt;Mu's Cosmogonic Diagram&lt;/I&gt;](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)  
+Click to enlarge](img/04100.jpg.md)  
 *Mu's Cosmogonic Diagram*  
 
  
@@ -478,7 +478,7 @@ The ribbon with the eight divisions symbolizes the
 <span id="img_04300"></span>
 
 [![&lt;I&gt;The Babylonian Cosmogonic Diagram&lt;/I&gt;](tn/04300.jpg)  
-Click to enlarge](img/04300.jpg)  
+Click to enlarge](img/04300.jpg.md)  
 *The Babylonian Cosmogonic Diagram*  
 
  
@@ -520,7 +520,7 @@ Religion as it is written in the Sacred and Inspired Writings of Mu.
 
 [![&lt;I&gt;The Chaldean Cosmogonic Diagram&lt;BR&gt; The Sri
 Santara&lt;/I&gt;](tn/04500.jpg)  
-Click to enlarge](img/04500.jpg)  
+Click to enlarge](img/04500.jpg.md)  
 *The Chaldean Cosmogonic Diagram  
 The Sri Santara*  
 
@@ -560,7 +560,7 @@ continues\]
 <span id="img_04700"></span>
 
 [![&lt;I&gt;The Hindu Cosmogonic Diagram&lt;/I&gt;](tn/04700.jpg)  
-Click to enlarge](img/04700.jpg)  
+Click to enlarge](img/04700.jpg.md)  
 *The Hindu Cosmogonic Diagram*  
 
  
@@ -804,4 +804,4 @@ of the earth, agree in all material points.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Symbols of the Deity and his Attributes](ssm06)
+[Next: Chapter III. Symbols of the Deity and his Attributes](ssm06.md)

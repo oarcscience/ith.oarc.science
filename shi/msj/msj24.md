@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](msj23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](msj23.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master-Singers of Japan*, by Clara A. Walsh, \[1914\], at
 Intangible Textual Heritage
 
@@ -123,7 +123,7 @@ what seemed a bit of towelling wound round his head. It proved to be the
 Sun-Flag of Japan, which he had thus preserved from capture in the
 Russian trenches. When it was unwound, the following lines, stained with
 blood, were found written by the hand of the dead hero. <span
-id="fr_8"></span>[\*](#fn_8)</span>
+id="fr_8"></span>[\*](#fn_8.md)</span>
 
 Though our life vanish with the morrow's dew,  
 O Sovereign Prince! yet loyally and true  
@@ -223,7 +223,7 @@ Still may our Lord's Dominion last,
 Till by each streamlet, water-worn,  
 The tiny pebbles that each morn  
 Scarce in the sunlight shadows cast,  
-Grow into boulders, mossy, vast! <span id="fr_9"></span>[\*](#fn_9)
+Grow into boulders, mossy, vast! <span id="fr_9"></span>[\*](#fn_9.md)
 
 or, <span class="smallcaps">Literal Translation</span>:
 
@@ -285,10 +285,10 @@ England*.
 
 ### Footnotes
 
-<span id="fn_8"></span>[115:\*](msj24.htm#fr_8) From Bennet-Burleigh's
+<span id="fn_8"></span>[115:\*](msj24.htm#fr_8.md) From Bennet-Burleigh's
 "Empire of the East "
 
-<span id="fn_9"></span>[119:\*](msj24.htm#fr_9) The words of the Anthem
+<span id="fn_9"></span>[119:\*](msj24.htm#fr_9.md) The words of the Anthem
 are part of a very ancient Uta, alluded to in the preface to the
 "Kokinshiu." The author is unknown. It was put to the present music, I
 understand, by a French (?) musician attached to the Imperial Court,

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb09)  [Next](wfb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb09)  [Next](wfb11.md) 
 
 ------------------------------------------------------------------------
 
@@ -216,4 +216,4 @@ lived happily ever afterwards.
 
 ------------------------------------------------------------------------
 
-[Next: Why the Red Dragon is the Emblem of Wales](wfb11)
+[Next: Why the Red Dragon is the Emblem of Wales](wfb11.md)

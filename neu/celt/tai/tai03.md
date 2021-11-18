@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tai02)  [Next](tai04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tai02)  [Next](tai04.md) 
 
 ------------------------------------------------------------------------
 
@@ -2352,4 +2352,4 @@ Legends](../../index)  [Celtic](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Part II](tai04)
+[Next: Part II](tai04.md)

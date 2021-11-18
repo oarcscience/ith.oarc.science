@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm30)  [Next](tgm32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm30)  [Next](tgm32.md) 
 
 ------------------------------------------------------------------------
 
@@ -160,7 +160,7 @@ His wife, seeing that Judah had no intention of
 <span id="img_16500"></span>
 
 [![](tn/16500.jpg)  
-Click to enlarge](img/16500.jpg)
+Click to enlarge](img/16500.jpg.md)
 
  
 
@@ -252,4 +252,4 @@ And happily the two of them continued to travel.
 
 ------------------------------------------------------------------------
 
-[Next: 29. The Doctor Arrives](tgm32)
+[Next: 29. The Doctor Arrives](tgm32.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ere00)
+[Contents](#contents)    [Start Reading](ere00.md)
 
 ------------------------------------------------------------------------
 
@@ -42,38 +42,38 @@ of his own dystopia, Brave New World.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ere00)  
-[Preface to the First Edition](ere01)  
-[Preface To Second Edition](ere02)  
-[Preface To The Revised Edition](ere03)  
-[Chapter I: Waste Lands](ere04)  
-[Chapter II: In The Wool-shed](ere05)  
-[Chapter III: Up The River](ere06)  
-[Chapter IV: The Saddle](ere07)  
-[Chapter V: The River And The Range](ere08)  
-[Chapter VI: Into Erewhon](ere09)  
-[Chapter VII: First Impressions](ere10)  
-[Chapter VIII: In Prison](ere11)  
-[Chapter IX: To The Metropolis](ere12)  
-[Chapter X: Current Opinions](ere13)  
-[Chapter XI: Some Erewhonian Trials](ere14)  
-[Chapter XII: Malcontents](ere15)  
-[Chapter XIII: The Views Of The Erewhonians Concerning Death](ere16)  
-[Chapter XIV: Mahaina](ere17)  
-[Chapter XV: The Musical Banks](ere18)  
-[Chapter XVI: Arowhena](ere19)  
-[Chapter XVII: Ydgrun And The Ydgrunites](ere20)  
-[Chapter XVIII: Birth Formulae](ere21)  
-[Chapter XIX: The World Of The Unborn](ere22)  
-[Chapter XX: What They Mean By It](ere23)  
-[Chapter XXI: The Colleges Of Unreason](ere24)  
-[Chapter XXII: The Colleges Of Unreason—continued](ere25)  
-[Chapter XXIII: The Book Of The Machines](ere26)  
-[Chapter XXIV: The Machines—continued](ere27)  
-[Chapter XXV: The Machines—concluded](ere28)  
+<span id="contents"></span> [Title Page](ere00.md)  
+[Preface to the First Edition](ere01.md)  
+[Preface To Second Edition](ere02.md)  
+[Preface To The Revised Edition](ere03.md)  
+[Chapter I: Waste Lands](ere04.md)  
+[Chapter II: In The Wool-shed](ere05.md)  
+[Chapter III: Up The River](ere06.md)  
+[Chapter IV: The Saddle](ere07.md)  
+[Chapter V: The River And The Range](ere08.md)  
+[Chapter VI: Into Erewhon](ere09.md)  
+[Chapter VII: First Impressions](ere10.md)  
+[Chapter VIII: In Prison](ere11.md)  
+[Chapter IX: To The Metropolis](ere12.md)  
+[Chapter X: Current Opinions](ere13.md)  
+[Chapter XI: Some Erewhonian Trials](ere14.md)  
+[Chapter XII: Malcontents](ere15.md)  
+[Chapter XIII: The Views Of The Erewhonians Concerning Death](ere16.md)  
+[Chapter XIV: Mahaina](ere17.md)  
+[Chapter XV: The Musical Banks](ere18.md)  
+[Chapter XVI: Arowhena](ere19.md)  
+[Chapter XVII: Ydgrun And The Ydgrunites](ere20.md)  
+[Chapter XVIII: Birth Formulae](ere21.md)  
+[Chapter XIX: The World Of The Unborn](ere22.md)  
+[Chapter XX: What They Mean By It](ere23.md)  
+[Chapter XXI: The Colleges Of Unreason](ere24.md)  
+[Chapter XXII: The Colleges Of Unreason—continued](ere25.md)  
+[Chapter XXIII: The Book Of The Machines](ere26.md)  
+[Chapter XXIV: The Machines—continued](ere27.md)  
+[Chapter XXV: The Machines—concluded](ere28.md)  
 [Chapter XXVI: The Views Of An Erewhonian Prophet Concerning The Rights
-of Animals](ere29)  
+of Animals](ere29.md)  
 [Chapter XXVII: The Views Of An Erewhonian Philosopher Concerning the
-Rights of Vegetables](ere30)  
-[Chapter XXVIII: Escape](ere31)  
-[Chapter XXIX: Conclusion](ere32)  
+Rights of Vegetables](ere30.md)  
+[Chapter XXVIII: Escape](ere31.md)  
+[Chapter XXIX: Conclusion](ere32.md)  

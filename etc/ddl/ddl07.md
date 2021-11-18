@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Legendary Creatures](../../lcr/index)  [Index](index) 
-[Previous](ddl06)  [Next](ddl08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Legendary Creatures](../../lcr/index)  [Index](index.md) 
+[Previous](ddl06)  [Next](ddl08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPL5U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPL5U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dragons and Dragon Lore*, by Ernest Ingersoll, \[1928\], at Intangible
 Textual Heritage
 
@@ -200,4 +200,4 @@ same name and frequently a similar story.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Six: The Dragon as a Rain-God](ddl08)
+[Next: Chapter Six: The Dragon as a Rain-God](ddl08.md)

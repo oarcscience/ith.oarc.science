@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691015147/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691015147/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691015147/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pgr00)    [Page Index](pageidx)
+[Contents](#contents)    [Start Reading](pgr00)    [Page Index](pageidx.md)
 
 ------------------------------------------------------------------------
 
@@ -38,15 +38,15 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691015147/internetsacredte)
 This is an in-progress etext of this book. So far I have finished the
 first two chapters, up to page 76 of 682. Long passages in Greek have
 been omitted (marked by ...), but incidental words and shorter passage
-are transcribed in [Unicode](../../unicode). I hope to finish this
+are transcribed in [Unicode](../../unicode.md). I hope to finish this
 extraordinarily difficult proof job at some point but have no specific
 schedule for its completion.--*J.B. Hare, May 7th, 2008*.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](pgr00)  
-[Introduction](pgr01)  
-[Table of Contents](pgr02)  
-[Chapter I. Olympian and Chthonic Ritual](pgr03)  
-[Chapter II. The Anthesteria](pgr04)  
-[Chapter III. Harvest Festivals](pgr05)  
+<span id="contents"></span> [Title Page and Front Matter](pgr00.md)  
+[Introduction](pgr01.md)  
+[Table of Contents](pgr02.md)  
+[Chapter I. Olympian and Chthonic Ritual](pgr03.md)  
+[Chapter II. The Anthesteria](pgr04.md)  
+[Chapter III. Harvest Festivals](pgr05.md)  

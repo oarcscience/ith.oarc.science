@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai13)  [Next](kwai15) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai13)  [Next](kwai15.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ in the season of snow.
 
 ------------------------------------------------------------------------
 
-[Next: The Dream Of Akinosuke](kwai15)
+[Next: The Dream Of Akinosuke](kwai15.md)

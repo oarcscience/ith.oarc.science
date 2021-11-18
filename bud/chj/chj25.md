@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj24)  [Next](chj26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj24)  [Next](chj26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -124,8 +124,8 @@ It was in India a period of religious strife and confusion. The Hindus
 were protesting, vigorously and successfully, against Mahāyāna and
 Hīnayāna alike, and were gradually absorbing into their own systems all
 that was good in the Buddhist religion. <span
-id="fr_386"></span>[1](#fn_384) A great opposition (we might better call
-it a persecution <span id="fr_387"></span>[2](#fn_385)) was being raised
+id="fr_386"></span>[1](#fn_384.md) A great opposition (we might better call
+it a persecution <span id="fr_387"></span>[2](#fn_385).md) was being raised
 against the "sons of S’akyamuni," and many Buddhist priests found it
 convenient to leave India and seek refuge abroad. Many of them found
 their way to China, which was then divided into two rival kingdoms, of
@@ -175,13 +175,13 @@ He was a man of strong will and character. He did
 not stoop to flatter kings. When he first met the Emperor Wu of the Sung
 Dynasty, the Emperor began to speak of the good works that he had done.
 "I have built many temples," he said, "and endowed thousands of priests.
-What merit have I acquired?" <span id="fr_388"></span>[1](#fn_386) "None
+What merit have I acquired?" <span id="fr_388"></span>[1](#fn_386.md) "None
 at all," was the priest's blunt reply. The man who would thus address an
 Emperor was not likely to spare his own religious household. He sat in
 the Chair once occupied by As’vaghosha, Nāgārjuna, Vasubandhu, and the
 great Doctors whose names have come before us so often in the course of
 this history, but he would not recognize as genuine the many works that
-claimed to come from their pens. <span id="fr_389"></span>[2](#fn_387)
+claimed to come from their pens. <span id="fr_389"></span>[2](#fn_387.md)
 "You cannot get Buddhism from books," was his contention. "If you want
 Enlightenment you must get it as S’akyamuni did, as the great Kaśyapa
 did, as Nāgārjuna and Vasubandhu did—by meditation. Books will only tell
@@ -212,7 +212,7 @@ invited to establish himself, first in Kyōto at the Kenninji, and
 afterwards at Kenkōji in Kamakura. A few years later, between 1222 and
 1232, Shōyō Daishi, or Dōgen, as he was known to his contemporaries,
 founded the sister sect of the Sōtō which has its headquarters in the
-province of Echizen. <span id="fr_390"></span>[1](#fn_388)
+province of Echizen. <span id="fr_390"></span>[1](#fn_388.md)
 
 The *Rinzai* and the *Sōtō*, both of which came to Japan from the south
 of China, differ in this, that the former depends wholly and entirely on
@@ -242,7 +242,7 @@ Buddhist—au obvious exaggeration of facts. But the Zen monks sat loose
 to the teachings of the Sūtras, which their: first Founder had taught
 them to look on with suspicion, and in their office as teachers they
 required some mental food to take the place of the discredited
-books. <span id="fr_391"></span>[1](#fn_389) Confucianism had never been
+books. <span id="fr_391"></span>[1](#fn_389.md) Confucianism had never been
 looked upon in Japan as being antagonistic to Buddhism, and Kōbō Daishi
 (even if it was not Shōtoku) had spoken of Buddhism, Taoism (Shinto),
 and Confucianism as the three legs of the tripod on which rested the
@@ -274,7 +274,7 @@ see just what the local authorities wanted him to see. And the times
 made it imperative for the men at the helm of State to have accurate and
 trustworthy knowledge. Tokiyori accordingly resigned his Regency in
 favour of his young son Tokimune, whom he left in the care of
-trustworthy ministers, <span id="fr_392"></span>[1](#fn_390) donned
+trustworthy ministers, <span id="fr_392"></span>[1](#fn_390.md) donned
 
 <span id="page_284">p. 284</span>
 
@@ -360,30 +360,30 @@ Shingon Buddhology, Japanese poetry drew it from the solid quietude of
 the Zen monasteries, where it was taught to look "within," into the
 heart and into the innermost shrine of Nature, and there to be comforted
 by the One, Omnipresent, Heart of Buddha, whom man can feel but not
-know. <span id="fr_393"></span>[1](#fn_391)
+know. <span id="fr_393"></span>[1](#fn_391.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_384"></span>[278:1](chj25.htm#fr_386) It was this
+<span id="fn_384"></span>[278:1](chj25.htm#fr_386.md) It was this
 absorption into Hinduism of Buddhistic elements which enabled it to
 overcome the Faith of S’akyamuni. To the present day a great deal of
 Buddhism may be found lurking in the popular cults of India, and the
 Japanese Buddhist finds himself more in sympathy with the Hindu than he
 does with his brother Buddhist in Ceylon.
 
-<span id="fn_385"></span>[278:2](chj25.htm#fr_387) *E.g.* the one
+<span id="fn_385"></span>[278:2](chj25.htm#fr_387.md) *E.g.* the one
 instituted by Mihirakula.
 
-<span id="fn_386"></span>[280:1](chj25.htm#fr_388) "Tsūzoku Bukkyo gimon
+<span id="fn_386"></span>[280:1](chj25.htm#fr_388.md) "Tsūzoku Bukkyo gimon
 Kaitoshu," vol. iii. p. 254. It is a book containing a vast amount of
 information, from which I hope in some subsequent volume to give many
 illustrative extracts. I have never seen but one copy of it, and I have
 only succeeded in getting vols. i. and iii. It was published in fairly
 simple Japanese some twenty years ago.
 
-<span id="fn_387"></span>[280:2](chj25.htm#fr_389) It is evident that
+<span id="fn_387"></span>[280:2](chj25.htm#fr_389.md) It is evident that
 this action on the part of Bodhidharma materially strengthens the view
 constantly brought forward in this work, viz. that the Mahāyāna books of
 China must be considered as of late origin, none of them being much
@@ -398,11 +398,11 @@ discourse based on a Sūtra.
 My authority is a long article on "Kenshō-jōbutsu, by Maruyama, in vol.
 iii. of "Tsūzoku Bukkyo gimon Kaitōshū," p. 498.
 
-<span id="fn_388"></span>[281:1](chj25.htm#fr_390) There is in Japan a
+<span id="fn_388"></span>[281:1](chj25.htm#fr_390.md) There is in Japan a
 third Zen sect, known as the *Obaku*, which was founded by refugees from
 China in 1659. It will be mentioned in its proper place (Chapter XXIX.).
 
-<span id="fn_389"></span>[282:1](chj25.htm#fr_391) The relations between
+<span id="fn_389"></span>[282:1](chj25.htm#fr_391.md) The relations between
 the Zen sects and the other bodies of Japanese Buddhists is well
 illustrated by a phrase which I have often heard Zen priests use when
 speaking of other sects. They call them *hōben no shūha*, "The sects
@@ -414,14 +414,14 @@ the Amida or Vairoc’ana sects is such an "accommodation of Truth." They
 profess not to use such accommodations themselves, but they do not blame
 those that do.
 
-<span id="fn_390"></span>[283:1](chj25.htm#fr_392) *Hōjō Nagatoki* had
+<span id="fn_390"></span>[283:1](chj25.htm#fr_392.md) *Hōjō Nagatoki* had
 been the governor of the northern portion (*rokuhara*) of Kyōtō, but
 came to Kamakura to assist his young cousin.
 
-<span id="fn_391"></span>[286:1](chj25.htm#fr_393) I have drawn the
+<span id="fn_391"></span>[286:1](chj25.htm#fr_393.md) I have drawn the
 thoughts contained in this description of the Zen from a treatise on
 *Zengaku*, "The Zen Philosophy," by Mr. K. Nukariya.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV. Nichiren and the Earlier Sects](chj26)
+[Next: Chapter XXIV. Nichiren and the Earlier Sects](chj26.md)

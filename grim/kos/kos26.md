@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos25)  [Next](kos27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos25)  [Next](kos27.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ the hills also moved and were shaken, because He was wroth.'
 
 ------------------------------------------------------------------------
 
-[Next: Plate IV](kos27)
+[Next: Plate IV](kos27.md)

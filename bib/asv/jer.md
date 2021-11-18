@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](isa)  [Next](lam) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](isa)  [Next](lam.md) 
 
 ------------------------------------------------------------------------
 
@@ -5807,4 +5807,4 @@ portion until the day of his death, all the days of his life.
 
 ------------------------------------------------------------------------
 
-[Next: Lamentations](lam)
+[Next: Lamentations](lam.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](moj20)  [Next](moj22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](moj20)  [Next](moj22.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Mysteries of John*, by Charles Fillmore, \[1946\], at Intangible
 Textual Heritage
 
@@ -252,4 +252,4 @@ great demonstration over death to follow.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 20](moj22)
+[Next: Chapter 20](moj22.md)

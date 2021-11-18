@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar74)  [Next](gar76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar74)  [Next](gar76.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="img_pl_c"></span> <span align="CENTER"> [![Plate
 C](tn/pl_c.jpg)  
-Click to enlarge](img/pl_c.jpg)  
+Click to enlarge](img/pl_c.jpg.md)  
 Plate C  
 </span>
 
@@ -37,7 +37,7 @@ pronounced" in the course of the service; hence we may suspect the
 form so important an element in the construction of our talismans.
 
 2\. Father Nile, reclining and holding forth a cornucopia, emblematic of
-amity. <span id="fr_263"></span>[\*](#fn_261) As the "number of his
+amity. <span id="fr_263"></span>[\*](#fn_261.md) As the "number of his
 Greek name," 365, is equivalent to that of Abraxas, it is probable that,
 according to Kabbalistic rules, he here represents that god. This
 explanation is supported by the type of the reverse, Horus, seated on
@@ -67,9 +67,9 @@ the most antagonistic creeds which is the very foundation of Gnosticism.
 
 ### Footnotes
 
-<span id="fn_261"></span>[436:\*](gar75.htm#fr_263) The type also of an
+<span id="fn_261"></span>[436:\*](gar75.htm#fr_263.md) The type also of an
 Alexandrian coin of Hadrian.
 
 ------------------------------------------------------------------------
 
-[Next: Plate D. Sigils of the Cnuphis Serpent](gar76)
+[Next: Plate D. Sigils of the Cnuphis Serpent](gar76.md)

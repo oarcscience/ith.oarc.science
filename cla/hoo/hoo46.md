@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo45)  [Next](hoo47) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo45)  [Next](hoo47.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,14 +9,14 @@
 
 ###### The FUMIGATION from STORAX.
 
-Call Thesmophorus <span id="fr_103"></span>[\*](#fn_103), spermatic
+Call Thesmophorus <span id="fr_103"></span>[\*](#fn_103.md), spermatic
 God,  
 Of various names, who bears the leafy rod:  
 Mises, ineffable, pure, sacred queen,  
 Two-fold Iacchus, male and female seen:  
 Illustr'ous, whether to rejoice is thine  
 In incense offer'd, in the fane divine <span
-id="fr_104"></span>[+](#fn_104);  
+id="fr_104"></span>[+](#fn_104.md);  
 Or if in Phrygia most thy soul delights,  
 Performing with thy mother sacred rites;  
 Or if the land of Cyprus is thy care,  
@@ -25,8 +25,8 @@ Well pleas'd to dwell with Cytherea fair; 10
 <span id="page_174">p. 174</span>
 
 Or if exulting in the fertile plains  
-With thy dark mother Isis, [where](errata.htm#10) she reigns, <span
-id="fr_105"></span>[12](#fn_105)
+With thy dark mother Isis, [where](errata.htm#10.md) she reigns, <span
+id="fr_105"></span>[12](#fn_105.md)
 
 <span id="page_175">p. 175</span>
 
@@ -42,11 +42,11 @@ And with benignant mind these labours end.
 
 ### Footnotes
 
-<span id="fn_103"></span>[173:\*](hoo46.htm#fr_103) Or the legislator.
+<span id="fn_103"></span>[173:\*](hoo46.htm#fr_103.md) Or the legislator.
 
-<span id="fn_104"></span>[173:+](hoo46.htm#fr_104) Or Eleusina.
+<span id="fn_104"></span>[173:+](hoo46.htm#fr_104.md) Or Eleusina.
 
-<span id="fn_105"></span>[174:12](hoo46.htm#fr_105) *My dark mother
+<span id="fn_105"></span>[174:12](hoo46.htm#fr_105.md) *My dark mother
 Isis*. According to Plutarch, in his treatise of Isis and Osiris, Isis
 is the mother of Orus, who is called by the Greeks Apollo; and Iacchus
 it is well known is a mythic sirname of Bacchus. Now Apollo is
@@ -122,4 +122,4 @@ are unawares, dashed themselves upon the rock of *atheism*."
 
 ------------------------------------------------------------------------
 
-[Next: XLII: To the Seasons](hoo47)
+[Next: XLII: To the Seasons](hoo47.md)

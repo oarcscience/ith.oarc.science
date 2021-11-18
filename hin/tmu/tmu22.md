@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu21)  [Next](tmu23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu21)  [Next](tmu23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_132">p. 132</span>
 
-### BHIKSHUKA <span id="fr_101"></span>[1](#fn_100)-UPANISHAḌ
+### BHIKSHUKA <span id="fr_101"></span>[1](#fn_100.md)-UPANISHAḌ
 
 ### OF
 
@@ -29,7 +29,7 @@ Intangible Textual Heritage
 
 <span class="smallcaps">Among</span> bhikshus (religious mendicants) who
 long for moksha (salvation), there are four <span
-id="fr_102"></span>[2](#fn_101) kinds, *viz*., Kutīchaka, Bahūḍaka,
+id="fr_102"></span>[2](#fn_101.md) kinds, *viz*., Kutīchaka, Bahūḍaka,
 Hamsa, and Paramahamsa. Gauṭama, Bhāraḍvāja, Yājñavalkya, Vasishtha and
 others belong to the first kind. They take eight mouthfuls (of food
 daily) and strive after moksha alone through the path of yoga. The
@@ -40,7 +40,7 @@ Brahmaṛshis, abstain from flesh and alcohol and strive after
 emancipation alone through the path of yoga. Then the Hamsas should live
 not more than a night in a village, five nights in a town, and seven
 nights in a sacred place, partaking daily of cow's urine and cow's dung,
-observing Chānḍrāyaṇa <span id="fr_103"></span>[3](#fn_102) and striving
+observing Chānḍrāyaṇa <span id="fr_103"></span>[3](#fn_102.md) and striving
 after moksha alone through the path of yoga. Paramahamsas like
 Samvarṭaka, Āruṇī, Śweṭakeṭu, Jadabharaṭa, Ḍaṭṭāṭreya, Śuka, Vāmaḍeva,
 Hārīṭaka and others take eight mouthfuls and strive after moksha alone
@@ -69,13 +69,13 @@ is the Upanishaḍ.
 
 ### Footnotes
 
-<span id="fn_100"></span>[132:1](tmu22.htm#fr_101) One who lives on
+<span id="fn_100"></span>[132:1](tmu22.htm#fr_101.md) One who lives on
 bhikshā or alms. Hence a religious mendicant.
 
-<span id="fn_101"></span>[132:2](tmu22.htm#fr_102) In Nāraḍaparivrājaka
+<span id="fn_101"></span>[132:2](tmu22.htm#fr_102.md) In Nāraḍaparivrājaka
 Upanishaḍ there are stated to be six kinds.
 
-<span id="fn_102"></span>[132:3](tmu22.htm#fr_103) A religious expiatory
+<span id="fn_102"></span>[132:3](tmu22.htm#fr_103.md) A religious expiatory
 ceremony regulated by the moon's age diminishing the daily consumption
 of food daily by one mouthful for the dark half of the month beginning
 with fifteen at the full moon until it is reduced to one at the new moon
@@ -86,6 +86,6 @@ increase.—<span class="smallcaps">Wilson</span>.
 
 ------------------------------------------------------------------------
 
-[Next: 21. Naraḍaparivrājaka-Upanishaḍ of Aṭharvaṇaveḍa](tmu23)
+[Next: 21. Naraḍaparivrājaka-Upanishaḍ of Aṭharvaṇaveḍa](tmu23.md)
 
 </div>

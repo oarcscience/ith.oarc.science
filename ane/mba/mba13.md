@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba12)  [Next](mba14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba12)  [Next](mba14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -52,7 +52,7 @@ also Enki, "lord of earth", and
 TABLETS OF CREATION''&lt;br&gt; &lt;i&gt;From the Library of
 Ashur-bani-pal at Kouyunjik (Nineveh): now in the British
 Museum&lt;/i&gt;.](tn/13800.jpg)  
-Click to enlarge](img/13800.jpg)  
+Click to enlarge](img/13800.jpg.md)  
 ''THE SEVEN TABLETS OF CREATION''  
 *From the Library of Ashur-bani-pal at Kouyunjik (Nineveh): now in the
 British Museum*.  
@@ -64,13 +64,13 @@ British Museum*.
 
 his eternal spouse, Damkina, was Gashan-ki, "lady of earth". The son of
 Ea and Damkina was Bel, the lord, who in time created mankind. <span
-id="fr_152"></span>[1](#fn_151) Thus were the high gods established in
+id="fr_152"></span>[1](#fn_151.md) Thus were the high gods established in
 power and in glory.
 
 Now Apsu and Tiamat remained amidst confusion in the deeps of chaos.
 They were troubled because their offspring, the high gods, aspired to
 control the universe and set it in order. <span
-id="fr_153"></span>[2](#fn_152) Apsu was still powerful and fierce, and
+id="fr_153"></span>[2](#fn_152.md) Apsu was still powerful and fierce, and
 Tiamat snarled and raised tempests, smiting herself. Their purpose was
 to work evil amidst eternal confusion.
 
@@ -109,7 +109,7 @@ sorrowed and spake with Mummu, plotting evil.
 Then Ea, who knoweth all, drew near; he beheld the evil ones conspiring
 and muttering together. He uttered a pure incantation and accomplished
 the downfall of Apsu and Mummu, who were taken captive. <span
-id="fr_154"></span>[1](#fn_153)
+id="fr_154"></span>[1](#fn_153.md)
 
 Kingu, who shared the desires of Tiamat, spake unto her words of
 counsel, saying, "Apsu and Mummu have been overcome and we cannot
@@ -122,7 +122,7 @@ Then were the hosts of chaos and the deep gathered together. By day and
 by night they plotted against the high gods, raging furiously, making
 ready for battle, fuming and storming and taking no rest.
 
-Mother Chuber, <span id="fr_155"></span>[2](#fn_154) the creator of all,
+Mother Chuber, <span id="fr_155"></span>[2](#fn_154.md) the creator of all,
 provided irresistible weapons. She also brought into being eleven kinds
 of fierce monsters--giant serpents, sharp of tooth with unsparing fangs,
 whose bodies were filled with poison instead of blood; snarling dragons,
@@ -170,7 +170,7 @@ aforetime
 
 to battle; thou didst bind Mummu and smite Apsu. Now Kingu is exalted,
 and there is none who can oppose Tiamat." <span
-id="fr_156"></span>[1](#fn_155)
+id="fr_156"></span>[1](#fn_155.md)
 
 Anshar called his son, Anu, before him, and spoke, saying: "O mighty one
 without fear, whose attack is irresistible, go now before Tiamat and
@@ -183,7 +183,7 @@ by the path of Tiamat until he beheld her fuming and snarling, but he
 feared to approach her, and turned back.
 
 Then Ea was sent forth, but he was stricken with terror and turned back
-also. <span id="fr_157"></span>[2](#fn_156)
+also. <span id="fr_157"></span>[2](#fn_156.md)
 
 Anshar then called upon Merodach, son of Ea, and addressed him, saying,
 "My son, who softeneth my heart, thou shalt go forth to battle and none
@@ -259,7 +259,7 @@ All the gods rejoiced, and they prostrated themselves and cried out,
 
 Thereafter they gave him the sceptre and the throne and the insignia of
 royalty, and also an irresistible weapon <span
-id="fr_158"></span>[1](#fn_157) with which to overcome his enemies,
+id="fr_158"></span>[1](#fn_157.md) with which to overcome his enemies,
 saying: "Now, O Merodach, hasten and slay Tiamat. Let the winds carry
 her blood to hidden places."
 
@@ -274,7 +274,7 @@ and with flaming fire he filled his body. Anu gave unto him
 <span id="img_14400"></span> <span align="CENTER"> [![MERODACH SETS
 FORTH TO ATTACK TIAMAT&lt;br&gt; &lt;i&gt;From the Painting by E.
 Wallcousins&lt;/i&gt;.](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 MERODACH SETS FORTH TO ATTACK TIAMAT  
 *From the Painting by E. Wallcousins*.  
 </span>
@@ -357,14 +357,14 @@ clustered around; they raised shouts of triumph and made merry. Then
 they brought gifts and offerings to the great Avenger.
 
 Merodach rested a while, gazing upon the dead body of the dragon. He
-divided the flesh of Ku-pu, <span id="fr_159"></span>[1](#fn_158) and
+divided the flesh of Ku-pu, <span id="fr_159"></span>[1](#fn_158.md) and
 devised a cunning plan.
 
 Then the lord of the high gods split the body of the dragon like that of
 a mashde fish into two halves. With one half he enveloped the firmament;
 he fixed it there and set a watchman to prevent the waters falling
-down. <span id="fr_160"></span>[2](#fn_159) With the other half he made
-the earth. <span id="fr_161"></span>[3](#fn_160) Then he made the abode
+down. <span id="fr_160"></span>[2](#fn_159.md) With the other half he made
+the earth. <span id="fr_161"></span>[3](#fn_160.md) Then he made the abode
 of Ea in the deep, and the abode of Anu in high heaven. The abode of
 Enlil was in the air.
 
@@ -386,7 +386,7 @@ Merodach decreed that the moon god should rule the night and measure the
 days, and each month he was given a crown. Its various phases the great
 lord determined, and he commanded that on the evening of its fullest
 brilliancy it should stand opposite the sun. <span
-id="fr_162"></span>[1](#fn_161)
+id="fr_162"></span>[1](#fn_161.md)
 
 He placed his bow in heaven (as a constellation) and his net also.
 
@@ -416,7 +416,7 @@ formed."
 <span class="contnote">\[paragraph continues\]</span> He also created
 the Tigris and Euphrates rivers, grass, reeds, herbs and trees, lands,
 marshes and swamps, cows, goats, &c. <span
-id="fr_163"></span>[1](#fn_162)
+id="fr_163"></span>[1](#fn_162.md)
 
 In the seventh tablet Merodach is praised by the gods--the Igigi
 (spirits of heaven). As he has absorbed all their attributes, he is
@@ -448,7 +448,7 @@ enemies,
 May his word be established, and not forgotten,  
 In the mouth of the black-headed ones whom his hands have made.  
                                              *Pinches'
-Translation*. <span id="fr_164"></span>[2](#fn_163)</span>
+Translation*. <span id="fr_164"></span>[2](#fn_163.md)</span>
 
 </div>
 
@@ -465,7 +465,7 @@ Translation*. <span id="fr_164"></span>[2](#fn_163)</span>
 May his deeds endure, may they never be forgotten  
 In the mouth of mankind whom his hands have made.  
                                               *King's
-Translation*. <span id="fr_165"></span>[1](#fn_164)</span>
+Translation*. <span id="fr_165"></span>[1](#fn_164.md)</span>
 
 </div>
 
@@ -480,7 +480,7 @@ return;
 He stopped their service; He removed them unto the gods (*ili*) who were
 His enemies.  
 In their room he created mankind. <span
-id="fr_166"></span>[2](#fn_165)</span>
+id="fr_166"></span>[2](#fn_165.md)</span>
 
 </div>
 
@@ -490,7 +490,7 @@ form survived as the Sumerian goddess Bau, who was obviously identical
 with the Phœnician Baau, mother of the first man. Another name of Bau
 was Ma, and Nintu, "a form of the goddess Ma", was half a woman and half
 a serpent, and was depicted with "a babe suckling her breast" ([Chapter
-IV](mba10.htm#an_ch-04)). The Egyptian goddesses Neheb-kau and Uazit
+IV](mba10.htm#an_ch-04).md). The Egyptian goddesses Neheb-kau and Uazit
 were serpents, and the goddesses Isis and Nepthys had also serpent
 forms. The serpent was a symbol of fertility, and as a mother was a
 protector. Vishnu, the Preserver of the Hindu Trinity, sleeps on the
@@ -508,7 +508,7 @@ world.
 <span class="small">                                I have seen  
 The ambitious ocean swell and rage and foam  
 To be exalted with the threatening clouds. <span
-id="fr_167"></span>[1](#fn_166)</span>
+id="fr_167"></span>[1](#fn_166.md)</span>
 
 </div>
 
@@ -520,7 +520,7 @@ identical with the "flying dragon".
 
 In various countries the serpent or worm is a destroyer which swallows
 the dead. "The worm shall eat them like wool", exclaimed Isaiah in
-symbolic language. <span id="fr_168"></span>[2](#fn_167) It lies in the
+symbolic language. <span id="fr_168"></span>[2](#fn_167.md) It lies in the
 ocean which surrounds the world in Egyptian, Babylonian, Greek,
 Teutonic, Indian, and other mythologies. The Irish call it "morúach",
 and give it a mermaid form like the Babylonian Nintu. In a Scottish
@@ -533,7 +533,7 @@ Finn-mac-Coul, assisted by his warrior band.
 The crooked, clamouring, shivering brave . . .  
 Her face was blue black of the lustre of coal,  
 And her bone-tufted tooth was like rusted bone. <span
-id="fr_169"></span>[3](#fn_168)</span>
+id="fr_169"></span>[3](#fn_168.md)</span>
 
 </div>
 
@@ -541,7 +541,7 @@ The serpent figures in folk tales. When Alexander the Great, according
 to Ethiopic legend, was lowered in a glass cage to the depths of the
 ocean, he saw a great monster going past, and sat for two days "watching
 for its tail and hinder parts to appear". <span
-id="fr_170"></span>[4](#fn_169) An
+id="fr_170"></span>[4](#fn_169.md) An
 
 <span id="page_152">p. 152</span>
 
@@ -551,13 +551,13 @@ rock. "He was not long there when he saw the head of an eel pass. He
 continued fishing for an hour and the eel was still passing. He went
 home, worked in the field all day, and having returned to the same rock
 in the evening, the eel was still passing, and about dusk he saw her
-tail disappearing." <span id="fr_171"></span>[1](#fn_170) Tiamat's
+tail disappearing." <span id="fr_171"></span>[1](#fn_170.md) Tiamat's
 sea-brood is referred to in the Anglo-Saxon epic *Beowulf* as "pickers".
 The hero "slew by night sea monsters on the waves" (line 422).
 
 The well dragon--the French "draco"--also recalls the Babylonian water
 monsters. There was a "dragon well" near Jerusalem. <span
-id="fr_172"></span>[2](#fn_171) From China to Ireland rivers are
+id="fr_172"></span>[2](#fn_171.md) From China to Ireland rivers are
 dragons, or goddesses who flee from the well dragons. The demon of the
 Rhone is called the "drac". Floods are also referred to as dragons, and
 the Hydra, or water serpent, slain by Hercules, belongs to this
@@ -565,7 +565,7 @@ category. Water was the source of evil as well as good. To the
 Sumerians, the ocean especially was the abode of monsters. They looked
 upon it as did Shakespeare's Ferdinand, when, leaping into the sea, he
 cried: "Hell is empty and all the devils are here". <span
-id="fr_173"></span>[3](#fn_172)
+id="fr_173"></span>[3](#fn_172.md)
 
 There can be little doubt but that in this Babylonian story of Creation
 we have a glorified variation of the wide-spread Dragon myth.
@@ -617,7 +617,7 @@ ashore, and the tooth in the front of her mouth would make a distaff.
 'You killed my husband and son,' she said." Finn acknowledged that he
 did, and they began to fight. After a prolonged struggle, in which Finn
 was almost overcome, the Hag fell and her head was cut off. <span
-id="fr_174"></span>[1](#fn_173)
+id="fr_174"></span>[1](#fn_173.md)
 
 The story of "Finlay the Changeling" has similar features. The hero slew
 first a giant and then the giant's father. Thereafter the Hag came
@@ -627,12 +627,12 @@ shall certainly kill you to-night." A fierce wrestling match ensued on
 the bare rock. The Hag was ultimately thrown down. She then offered
 various treasures to ransom her life, including "a gold sword in my
 cave", regarding which she says, "never was it drawn to man or to beast
-whom it did not overcome". <span id="fr_175"></span>[2](#fn_174) In
+whom it did not overcome". <span id="fr_175"></span>[2](#fn_174.md) In
 other Scottish stories of like character the hero climbs a tree, and
 says something to induce the hag to open her mouth, so that he may
 plunge his weapon down her throat.
 
-The Grendel story in *Beowulf*, <span id="fr_176"></span>[3](#fn_175)
+The Grendel story in *Beowulf*, <span id="fr_176"></span>[3](#fn_175.md)
 the Anglo-Saxon epic, is of like character. A male water monster preys
 nightly upon the warriors who sleep in the great hall of King Hrothgar.
 Beowulf comes over the sea, as did Finn to the "Kingdom of Big Men", to
@@ -664,7 +664,7 @@ Sigurd and Siegfried, appears to be doubtful about the mother monster's
 greatness, as if dealing with unfamiliar material, for he says: "The
 terror (caused by Grendel's mother) was less by just so much as woman's
 strength, woman's war terror, is (measured) by fighting men". <span
-id="fr_177"></span>[1](#fn_176) Yet, in the narrative which follows the
+id="fr_177"></span>[1](#fn_176.md) Yet, in the narrative which follows the
 Amazon is proved to be the stronger monster of the two. Traces of the
 mother monster survive in English folklore, especially in the traditions
 about the mythical "Long Meg of Westminster", referred to by Ben Jonson
@@ -716,12 +716,12 @@ early tribal struggles in pre-dynastic times. Being an old and
 discredited god, he became by a familiar process the demon of the
 conquerors. In the eighteenth dynasty, however, his ancient glory was
 revived, for the Sutekh of Rameses II figures as the "dragon
-slayer". <span id="fr_178"></span>[1](#fn_177) It is in accordance with
+slayer". <span id="fr_178"></span>[1](#fn_177.md) It is in accordance with
 Mediterranean modes of thought, however, to find that in Egypt there is
 a great celestial battle heroine. This is the goddess Hathor-Sekhet, the
-"Eye of Ra". <span id="fr_179"></span>[2](#fn_178) Similarly in India,
+"Eye of Ra". <span id="fr_179"></span>[2](#fn_178.md) Similarly in India,
 the post-Vedic goddess Kali is a destroyer, while as Durga she is a
-guardian of heroes. <span id="fr_180"></span>[3](#fn_179) Kali, Durga,
+guardian of heroes. <span id="fr_180"></span>[3](#fn_179.md) Kali, Durga,
 and Hathor-Sekhet link with the classical goddesses of war, and also
 with the Babylonian Ishtar, who, as has been shown, retained the
 outstanding characteristics of Tiamat, the fierce old "Great Mother" of
@@ -730,23 +730,23 @@ primitive Sumerian folk religion.
 It is possible that in the Babylonian dragon myth the original hero was
 Ea. As much may be inferred from the symbolic references in the Bible to
 Jah's victory over the monster of the deep: "Art thou not it that hath
-cut Rahab and wounded the dragon?" <span id="fr_181"></span>[4](#fn_180)
+cut Rahab and wounded the dragon?" <span id="fr_181"></span>[4](#fn_180.md)
 "Thou brakest the heads of the dragons in the waters; thou brakest the
 heads of leviathan in pieces, and gayest him to be meat to the people
-inhabiting the wilderness"; <span id="fr_182"></span>[5](#fn_181) "He
+inhabiting the wilderness"; <span id="fr_182"></span>[5](#fn_181.md) "He
 divideth the sea with his power, and by his understanding he smiteth
 through the proud (Rahab). By his spirit he hath garnished the heavens:
 his hand hath formed (or pierced) the crooked serpent"; <span
-id="fr_183"></span>[6](#fn_182) "Thou hast broken Rahab in pieces as one
+id="fr_183"></span>[6](#fn_182.md) "Thou hast broken Rahab in pieces as one
 that is slain: thou hast scattered thine enemies with thy strong
-arm"; <span id="fr_184"></span>[7](#fn_183) "In that day the
+arm"; <span id="fr_184"></span>[7](#fn_183.md) "In that day the
 
 <span id="page_158">p. 158</span>
 
 <span class="contnote">\[paragraph continues\]</span> Lord with his sore
 and great and strong sword shall punish leviathan the piercing (or
 stiff) serpent, even leviathan that crooked serpent; and he shall slay
-the dragon that is in the sea". <span id="fr_185"></span>[1](#fn_184)
+the dragon that is in the sea". <span id="fr_185"></span>[1](#fn_184.md)
 
 In the Babylonian Creation legend Ea is supplanted as dragon slayer by
 his son Merodach. Similarly Ninip took the place of his father, Enlil,
@@ -759,10 +759,10 @@ conclave on the mountain. The gods offer him the Tablets of Fate; the
 right to utter decrees is given unto him." This development is "of
 extreme importance for studying the growth of the idea of father and
 son, as creative and active principles of the world". <span
-id="fr_186"></span>[2](#fn_185) In Indian mythology Indra similarly
+id="fr_186"></span>[2](#fn_185.md) In Indian mythology Indra similarly
 takes the place of his bolt-throwing father Dyaus, the sky god, who so
 closely resembles Zeus. Andrew Lang has shown that this myth is of
-widespread character. <span id="fr_187"></span>[3](#fn_186) Were the
+widespread character. <span id="fr_187"></span>[3](#fn_186.md) Were the
 Babylonian theorists guided by the folk-lore clue?
 
 Now Merodach, as the son of Ea whom he consulted and received spells
@@ -803,7 +803,7 @@ With thee who ventureth to make war?</span>
 
 <span class="contnote">\[paragraph continues\]</span> He was also "the
 bull of goring horns . . . Enlil the bull", the god of fertility as well
-as of battle. <span id="fr_188"></span>[1](#fn_187)
+as of battle. <span id="fr_188"></span>[1](#fn_187.md)
 
 Asari, one of Merodach's names, links him with Osiris, the Egyptian
 Tammuz, who was supplanted by his son Horus. As the dragon slayer, he
@@ -849,7 +849,7 @@ the period at which the name *Yau<sup>m</sup>-ilu*, 'Jah is god', is
 found, together with references to *ilu* as the name for the one great
 god, and is also, roughly, the date of Abraham, who, it may be noted,
 was a Babylonian of Ur of the Chaldees." <span
-id="fr_189"></span>[1](#fn_188)
+id="fr_189"></span>[1](#fn_188.md)
 
 In one of the hymns Merodach is addressed as follows:
 
@@ -904,30 +904,30 @@ with female breasts.
 
 ### Footnotes
 
-<span id="fn_151"></span>[139:1](mba13.htm#fr_152) The elder Bel was
+<span id="fn_151"></span>[139:1](mba13.htm#fr_152.md) The elder Bel was
 Enlil of Nippur and the younger Merodach of Babylon. According to
 Damascius the elder Bel came into existence before Ea, who as Enki
 shared his attributes.
 
-<span id="fn_152"></span>[139:2](mba13.htm#fr_153) This is the inference
+<span id="fn_152"></span>[139:2](mba13.htm#fr_153.md) This is the inference
 drawn from fragmentary texts.
 
-<span id="fn_153"></span>[140:1](mba13.htm#fr_154) A large portion of
+<span id="fn_153"></span>[140:1](mba13.htm#fr_154.md) A large portion of
 the narrative is awanting here.
 
-<span id="fn_154"></span>[140:2](mba13.htm#fr_155) A title of Tiamat;
+<span id="fn_154"></span>[140:2](mba13.htm#fr_155.md) A title of Tiamat;
 pron. *ch* guttural,
 
-<span id="fn_155"></span>[142:1](mba13.htm#fr_156) There is another gap
+<span id="fn_155"></span>[142:1](mba13.htm#fr_156.md) There is another gap
 here which interrupts the narrative.
 
-<span id="fn_156"></span>[142:2](mba13.htm#fr_157) This may refer to
+<span id="fn_156"></span>[142:2](mba13.htm#fr_157.md) This may refer to
 Ea's first visit when he overcame Kingu, but did not attack Tiamat.
 
-<span id="fn_157"></span>[144:1](mba13.htm#fr_158) The lightning trident
+<span id="fn_157"></span>[144:1](mba13.htm#fr_158.md) The lightning trident
 or thunderstone.
 
-<span id="fn_158"></span>[147:1](mba13.htm#fr_159) The authorities are
+<span id="fn_158"></span>[147:1](mba13.htm#fr_159.md) The authorities are
 not agreed as to the meaning of "Ku-pu". Jensen suggests "trunk, body".
 In European dragon stories the heroes of the Siegfried order roast and
 eat the dragon's heart. Then they are inspired with the dragon's wisdom
@@ -936,92 +936,92 @@ birds. The birds are the "Fates", and direct the heroes what next they
 should do. Apparently Merodach's "cunning plan" was inspired after he
 had eaten a part of the body of Tiamat.
 
-<span id="fn_159"></span>[147:2](mba13.htm#fr_160) The waters above the
+<span id="fn_159"></span>[147:2](mba13.htm#fr_160.md) The waters above the
 firmament.
 
-<span id="fn_160"></span>[147:3](mba13.htm#fr_161) According to Berosus.
+<span id="fn_160"></span>[147:3](mba13.htm#fr_161.md) According to Berosus.
 
-<span id="fn_161"></span>[148:1](mba13.htm#fr_162) This portion is
+<span id="fn_161"></span>[148:1](mba13.htm#fr_162.md) This portion is
 fragmentary and seems to indicate that the Babylonians had made
 considerable progress in the science of astronomy. It is suggested that
 they knew that the moon derived its light from the sun.
 
-<span id="fn_162"></span>[149:1](mba13.htm#fr_163) *The Seven Tablets of
+<span id="fn_162"></span>[149:1](mba13.htm#fr_163.md) *The Seven Tablets of
 Creation*, L. W. King, pp. 134, 135.
 
-<span id="fn_163"></span>[149:2](mba13.htm#fr_164) *The Religion of
+<span id="fn_163"></span>[149:2](mba13.htm#fr_164.md) *The Religion of
 Babylonia and Assyria*, T. G. Pinches, p. 43.
 
-<span id="fn_164"></span>[150:1](mba13.htm#fr_165) *The Seven Tablets of
+<span id="fn_164"></span>[150:1](mba13.htm#fr_165.md) *The Seven Tablets of
 Creation*, L. W. King, vol. i, pp. 98, 99.
 
-<span id="fn_165"></span>[150:2](mba13.htm#fr_166) *Trans. Soc. Bib.
+<span id="fn_165"></span>[150:2](mba13.htm#fr_166.md) *Trans. Soc. Bib.
 Arch.*, iv, 251-2.
 
-<span id="fn_166"></span>[151:1](mba13.htm#fr_167) Shakespeare's *Julius
+<span id="fn_166"></span>[151:1](mba13.htm#fr_167.md) Shakespeare's *Julius
 Cæsar*, i, 3, 8.
 
-<span id="fn_167"></span>[151:2](mba13.htm#fr_168) *Isaiah*, li, 8.
+<span id="fn_167"></span>[151:2](mba13.htm#fr_168.md) *Isaiah*, li, 8.
 
-<span id="fn_168"></span>[151:3](mba13.htm#fr_169) Campbell's *West
+<span id="fn_168"></span>[151:3](mba13.htm#fr_169.md) Campbell's *West
 Highland Tales*, pp. 136 *et seq*.
 
-<span id="fn_169"></span>[151:4](mba13.htm#fr_170) *The Life and
+<span id="fn_169"></span>[151:4](mba13.htm#fr_170.md) *The Life and
 Exploits of Alexander the Great*, E. A. Wallis Budge, pp. 284, 285.
 
-<span id="fn_170"></span>[152:1](mba13.htm#fr_171) Campbell's *West
+<span id="fn_170"></span>[152:1](mba13.htm#fr_171.md) Campbell's *West
 Highland Tales*.
 
-<span id="fn_171"></span>[152:2](mba13.htm#fr_172) *Nehemiah*, ii, 13.
+<span id="fn_171"></span>[152:2](mba13.htm#fr_172.md) *Nehemiah*, ii, 13.
 
-<span id="fn_172"></span>[152:3](mba13.htm#fr_173) *The Tempest*, i, 2,
+<span id="fn_172"></span>[152:3](mba13.htm#fr_173.md) *The Tempest*, i, 2,
 212,
 
-<span id="fn_173"></span>[154:1](mba13.htm#fr_174) *Waifs and Strays of
+<span id="fn_173"></span>[154:1](mba13.htm#fr_174.md) *Waifs and Strays of
 Celtic Tradition*, vol. iv, p. 176 *et seq*.
 
-<span id="fn_174"></span>[154:2](mba13.htm#fr_175) From unpublished folk
+<span id="fn_174"></span>[154:2](mba13.htm#fr_175.md) From unpublished folk
 tale.
 
-<span id="fn_175"></span>[154:3](mba13.htm#fr_176) *Beowulf*, translated
+<span id="fn_175"></span>[154:3](mba13.htm#fr_176.md) *Beowulf*, translated
 by Clark Hall, London, 1911, p. 18 *et seq*.
 
-<span id="fn_176"></span>[155:1](mba13.htm#fr_177) Beowulf; translated
+<span id="fn_176"></span>[155:1](mba13.htm#fr_177.md) Beowulf; translated
 by Clark Hall, London, 1911, p. 69, lines 1280-1287.
 
-<span id="fn_177"></span>[157:1](mba13.htm#fr_178) *Egyptian Myth and
+<span id="fn_177"></span>[157:1](mba13.htm#fr_178.md) *Egyptian Myth and
 Legend*, pp. 260, 261.
 
-<span id="fn_178"></span>[157:2](mba13.htm#fr_179) *Egyptian Myth and
+<span id="fn_178"></span>[157:2](mba13.htm#fr_179.md) *Egyptian Myth and
 Legend*, pp. 8, 9.
 
-<span id="fn_179"></span>[157:3](mba13.htm#fr_180) *Indian Myth and
+<span id="fn_179"></span>[157:3](mba13.htm#fr_180.md) *Indian Myth and
 Legend*, pp. xli, 149, 150.
 
-<span id="fn_180"></span>[157:4](mba13.htm#fr_181) *Isaiah*, li, 9.
+<span id="fn_180"></span>[157:4](mba13.htm#fr_181.md) *Isaiah*, li, 9.
 
-<span id="fn_181"></span>[157:5](mba13.htm#fr_182) *Psalms*, lxxiv, 13,
+<span id="fn_181"></span>[157:5](mba13.htm#fr_182.md) *Psalms*, lxxiv, 13,
 14. It will be noted that the Semitic dragon, like the Egyptian, is a
 male.
 
-<span id="fn_182"></span>[157:6](mba13.htm#fr_183) *Job*, xxvi, 12, 13.
+<span id="fn_182"></span>[157:6](mba13.htm#fr_183.md) *Job*, xxvi, 12, 13.
 
-<span id="fn_183"></span>[157:7](mba13.htm#fr_184) *Psalms*, lxxxix, 10.
+<span id="fn_183"></span>[157:7](mba13.htm#fr_184.md) *Psalms*, lxxxix, 10.
 
-<span id="fn_184"></span>[158:1](mba13.htm#fr_185) *Isaiah*, xxvii, 1.
+<span id="fn_184"></span>[158:1](mba13.htm#fr_185.md) *Isaiah*, xxvii, 1.
 
-<span id="fn_185"></span>[158:2](mba13.htm#fr_186) *Sumerian and
+<span id="fn_185"></span>[158:2](mba13.htm#fr_186.md) *Sumerian and
 Babylonian Psalms*, p. 204.
 
-<span id="fn_186"></span>[158:3](mba13.htm#fr_187) *Custom and Myth*,
+<span id="fn_186"></span>[158:3](mba13.htm#fr_187.md) *Custom and Myth*,
 pp. 45 *et seq*.
 
-<span id="fn_187"></span>[159:1](mba13.htm#fr_188) Translation by Dr.
+<span id="fn_187"></span>[159:1](mba13.htm#fr_188.md) Translation by Dr.
 Langdon, pp. 199 *et seq*.
 
-<span id="fn_188"></span>[160:1](mba13.htm#fr_189) *The Religion of
+<span id="fn_188"></span>[160:1](mba13.htm#fr_189.md) *The Religion of
 Babylonia and Assyria*, T. G. Pinches, pp. 118, 119.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Deified Heroes: Etana and Gilgamesh](mba14)
+[Next: Chapter VIII. Deified Heroes: Etana and Gilgamesh](mba14.md)

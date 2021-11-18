@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](bow15)  [Next](bow17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](bow15)  [Next](bow17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B54F2G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B54F2G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Were-Wolves*, by Sabine Baring-Gould, \[1865\], at
 Intangible Textual Heritage
 
@@ -271,4 +271,4 @@ imprisonment.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. A Sermon on Were-Wolves](bow17)
+[Next: Chapter XVI. A Sermon on Were-Wolves](bow17.md)

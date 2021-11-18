@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../index)  [Native American](index) 
-[Northwestern](nw/index) 
+[Intangible Textual Heritage](../index)  [Native American](index.md) 
+[Northwestern](nw/index.md) 
 
 ------------------------------------------------------------------------
 

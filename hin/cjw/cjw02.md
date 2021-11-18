@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw01)  [Next](cjw03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw01)  [Next](cjw03.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ JUDITH TYBERG
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](cjw03)
+[Next: Table of Contents](cjw03.md)

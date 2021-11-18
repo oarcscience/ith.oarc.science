@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](tge01)  [Next](tge03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](tge01)  [Next](tge03.md) 
 
 ------------------------------------------------------------------------
 
@@ -184,4 +184,4 @@ way of the tree of life.
 
 ------------------------------------------------------------------------
 
-[Next: The Garden of Eden](tge03)
+[Next: The Garden of Eden](tge03.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc095) 
-[Next](motc097) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc095.md) 
+[Next](motc097.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ Schoolcraft, Notes on Iroquois, p. 258.
 
 ------------------------------------------------------------------------
 
-[Next: 97. Origin Of The Yontoñwisas Dance](motc097)
+[Next: 97. Origin Of The Yontoñwisas Dance](motc097.md)

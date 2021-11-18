@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb32)  [Next](vifb34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb32)  [Next](vifb34.md) 
 
 </div>
 
@@ -778,6 +778,6 @@ cock who sings and not the hen!'
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Halfman](vifb34)
+[Next: The Story of Halfman](vifb34.md)
 
 </div>

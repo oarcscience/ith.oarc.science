@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw308)  [Next](ataw401) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw308)  [Next](ataw401.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 ### ARTIFICIAL DEFORMATION OF THE SKULL.
 
 AN examination of the American monuments shows ([see figure on page
-269](#img_26900)) that the people represented were in the habit of
+269](#img_26900).md) that the people represented were in the habit of
 flattening the skull by artificial means. The Greek and Roman writers
 had mentioned this practice, but it was long totally forgotten by the
 civilized world, until it was discovered, as an unheard-of wonder, to be
@@ -109,7 +109,7 @@ some common centre?
 
 The annexed out represents an ancient Swiss skull, from a cemetery near
 Lausanne, from a drawing of Frederick Troyon. Compare this with [the
-illustration given on page 271](#img_27100), which represents a Peruvian
+illustration given on page 271](#img_27100.md), which represents a Peruvian
 flat-head, copied from Morton's "Ethnography and Archæology of the
 American Aborigines," 1846. This skull is shockingly distorted. The
 dotted lines indicate the course of the bandages by which the skull was
@@ -254,7 +254,7 @@ EGYPTIAN HEAD.</td>
 found in a temple at Palenque, Central America. The second is from an
 Egyptian monument of the time of Rameses IV.
 
-The [outline drawing on the following page](#img_27500) shows the form
+The [outline drawing on the following page](#img_27500.md) shows the form
 of the skull
 
 <span id="page_275">p. 275</span>
@@ -290,4 +290,4 @@ proofs of prehistoric identity of race.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Traditions of Atlantis.](ataw401)
+[Next: Chapter I: Traditions of Atlantis.](ataw401.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio26)  [Next](dio28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio26)  [Next](dio28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ id="ii.iv.ii.iii-Page_143"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Letter IV. To the same Gaius Therapeutes.](dio28)
+[Next: Letter IV. To the same Gaius Therapeutes.](dio28.md)

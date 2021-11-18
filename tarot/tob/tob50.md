@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob49) 
-[Next](tob51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob49.md) 
+[Next](tob51.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ that imagination and intuition reign over this charming domain.
 ------------------------------------------------------------------------
 
 [Next: First Lesson: Simplification of the Rules of Fortune-Telling by
-the Tarot](tob51)
+the Tarot](tob51.md)

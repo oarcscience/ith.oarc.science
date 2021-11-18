@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt07)  [Next](egt09) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt07)  [Next](egt09.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ intoxication, and this intoxication the essence of sobriety."
 
 Prof. Browne, however, places the *<u>H</u>adîqa* on a far lower level
 than the Eastern authors quoted above. He says <span
-id="fr_1"></span>[1](#fn_1):--"The poem is written in a halting and
+id="fr_1"></span>[1](#fn_1.md):--"The poem is written in a halting and
 unattractive metre, and is in my opinion one of the dullest books in
 Persian, seldom rising to the level of Martin Tupper's *Proverbial
 Philosophy*, filled with fatuous truisms and pointless anecdotes, and as
@@ -247,9 +247,9 @@ addresses to God contained in pp. 74-77.
 
 ### Footnotes
 
-<span id="fn_1"></span>[xxvii:1](egt08.htm#fr_1) A Literary History of
+<span id="fn_1"></span>[xxvii:1](egt08.htm#fr_1.md) A Literary History of
 Persia, Vol. II., p. 319.
 
 ------------------------------------------------------------------------
 
-[Next: VI.--Sanâ'î's Preface.](egt09)
+[Next: VI.--Sanâ'î's Preface.](egt09.md)

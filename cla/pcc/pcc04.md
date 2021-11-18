@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc03)  [Next](pcc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc03)  [Next](pcc05.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,7 +125,7 @@ and its supposed institution by Moses is related in Exodus, ch. xii. In
 every house a he-lamb was to be slain, and its blood to be sprinkled on
 the doorposts of the house. Then the Lord would pass over and not smite
 that house. The Hebrew word is *pasach*, to pass. <span
-id="fr_28"></span>[1](#fn_28) The lamb slain was called the Paschal
+id="fr_28"></span>[1](#fn_28.md) The lamb slain was called the Paschal
 Lamb. But what was that lamb? Evidently not an earthly lamb--(though
 certainly the earthly lambs on the hillsides *were* just then ready to
 be killed and eaten)--but the heavenly Lamb, which was slain or
@@ -133,10 +133,10 @@ sacrificed when the Lord "passed over" the equator and obliterated the
 constellation *Aries*. This was the Lamb of God which was slain each
 year, and "Slain since the foundation of the world." This period of the
 Passover (about the 25th March) was to be <span
-id="fr_29"></span>[2](#fn_29) the beginning of a new year. The sacrifice
+id="fr_29"></span>[2](#fn_29.md) the beginning of a new year. The sacrifice
 of the Lamb, and its blood, were to be the promise of redemption. The
 door-frames of the houses--symbols of the entrance into a new life--were
-to be sprinkled with blood. <span id="fr_30"></span>[3](#fn_30) Later,
+to be sprinkled with blood. <span id="fr_30"></span>[3](#fn_30.md) Later,
 the imagery of the saving power of the blood of the Lamb became more
 popular, more highly colored. (See St. Paul's epistles, and the early
 Fathers.) And we have the expression "washed in the blood of the Lamb"
@@ -168,7 +168,7 @@ of Mithra-worship from what it was in the Christian period; and the Sun
 instead of standing in the He-lamb, or *Aries*, at the Vernal Equinox
 stood, about two thousand years earlier (as indicated by the dotted line
 in the diagram), in this very constellation of the Bull. <span
-id="fr_31"></span>[1](#fn_31) The bull therefore became the symbol of
+id="fr_31"></span>[1](#fn_31.md) The bull therefore became the symbol of
 the triumphant God, and the sacrifice of the bull a holy mystery. (Nor
 must we
 
@@ -200,7 +200,7 @@ first drew blood from his own arms; and then the others gashed and
 slashed themselves, and spattered the altar and the sacred tree with
 blood; while novices made themselves eunuchs "for the kingdom of
 heaven's sake." The effigy was afterwards laid in a tomb. But when night
-fell, says Dr. Frazer, <span id="fr_32"></span>[1](#fn_32) sorrow was
+fell, says Dr. Frazer, <span id="fr_32"></span>[1](#fn_32.md) sorrow was
 turned to joy. A light was brought, and the tomb was found to be empty.
 The next day, the 25th, was the festival of the Resurrection; and ended
 in carnival and license (the *Hilaria*). Further, says Dr. Frazer, these
@@ -220,21 +220,21 @@ eagerness by the worshiper on every part of his person and garments,
 till he emerged from the pit, drenched, dripping, and scarlet from head
 to foot, to receive the homage, nay the adoration, of his fellows--as
 one who had been born again to eternal life and had washed away his sins
-in the blood of the bull." <span id="fr_33"></span>[1](#fn_33) And
+in the blood of the bull." <span id="fr_33"></span>[1](#fn_33.md) And
 Frazer continuing says: "That the bath of blood derived from slaughter
 of the bull (*tauro-bolium*) was believed to regenerate the devotee for
 eternity is proved by an inscription found at Rome, which records that a
 certain Sextilius Agesilaus Aedesius, who dedicated an altar to Attis
 and the mother of the gods (Cybele) was *taurobolio criobolio que in
-aeternum renatus*." <span id="fr_34"></span>[2](#fn_34) "In the
+aeternum renatus*." <span id="fr_34"></span>[2](#fn_34.md) "In the
 procedure of the Taurobolia and Criobolia," says Mr. J. M.
-Robertson, <span id="fr_35"></span>[3](#fn_35) "which grew very popular
+Robertson, <span id="fr_35"></span>[3](#fn_35.md) "which grew very popular
 in the Roman world, we have the literal and original meaning of the
 phrase 'washed in the blood of the lamb'; the doctrine being that
 resurrection and eternal life were secured by drenching or sprinkling
 with the actual blood of a sacrificial bull or ram." For the
 *popularity* of the rite we may quote Franz Cumont, who says <span
-id="fr_36"></span>[4](#fn_36):--"Cette douche sacrée (*taurobolium*)
+id="fr_36"></span>[4](#fn_36):--"Cette douche sacrée (*taurobolium*.md)
 paraît avoir été administrée en Cappadoce dans un grand nombre de
 sanctuaires,
 
@@ -259,7 +259,7 @@ the Bull or the Ram," and the corresponding texts in our graveyards
 to-day. F. Cumont in his elaborate work, *Textes et Monuments relatifs
 aux Mystères de Mithra* (2 vols., Brussels, 1899) gives a great number
 of texts and epitaphs of the same character as that above-quoted, <span
-id="fr_37"></span>[1](#fn_37) and they are well worth studying by those
+id="fr_37"></span>[1](#fn_37.md) and they are well worth studying by those
 interested in the subject. Cumont, it may be noted (vol. i, p. 305),
 thinks that the story of Mithra and the slaying of the Bull must have
 originated among some pastoral people to whom the bull was the source of
@@ -275,7 +275,7 @@ a real regeneration of the devotee, Frazer
 
 <span id="page_45">p. 45</span>
 
-quotes an ancient writer <span id="fr_38"></span>[1](#fn_38) who says
+quotes an ancient writer <span id="fr_38"></span>[1](#fn_38.md) who says
 that for some time after the ceremony the fiction of a new birth was
 kept up by dieting the devotee on *milk*, like a new-born babe. And it
 is interesting in that connection to find that even in the present day a
@@ -303,9 +303,9 @@ persecuted and despised as they were, found it hard to make any headway
 against them--the more so perhaps because the Christian doctrines
 appeared in many respects to be merely faint *replicas* and copies of
 the older creeds. Robertson maintains <span
-id="fr_39"></span>[2](#fn_39) that a he-lamb was sacrificed in the
+id="fr_39"></span>[2](#fn_39.md) that a he-lamb was sacrificed in the
 Mithraic mysteries, and he quotes Porphyry as saying <span
-id="fr_40"></span>[3](#fn_40) that "a place near the equinoctial circle
+id="fr_40"></span>[3](#fn_40.md) that "a place near the equinoctial circle
 was assigned to Mithra as an appropriate seat; and on this account he
 
 <span id="page_46">p. 46</span>
@@ -317,10 +317,10 @@ sacrificed in the Paschal mystery.
 Many people think that the association of the Lamb-god with the Cross
 arose from the fact that the constellation *Aries* at that time *was* on
 the heavenly cross (the crossways of the Ecliptic and Equator--see
-diagram, ch. iii, [p. 39](#page_39) *supra*), and in the very place
+diagram, ch. iii, [p. 39](#page_39) *supra*.md), and in the very place
 through which the Sungod had to pass just before his final triumph. And
 it is curious to find that Justin Martyr in his *Dialogue with
-Trypho* <span id="fr_41"></span>[1](#fn_41) (a Jew) alludes to an old
+Trypho* <span id="fr_41"></span>[1](#fn_41) (a Jew.md) alludes to an old
 Jewish practice of roasting a Lamb on spits arranged in the form of a
 Cross. "The lamb," he says, meaning apparently the Paschal lamb, "is
 roasted and dressed up in the form of a cross. For one spit is
@@ -375,7 +375,7 @@ rebellious people were returning to the earlier cult of Apis which they
 ought to have left behind them in Egypt. In Egypt itself, too, we find
 the worship of Apis, as time went on, yielding place to that of the
 Ram-headed god Amun, or Jupiter Ammon. <span
-id="fr_42"></span>[1](#fn_42) So that both
+id="fr_42"></span>[1](#fn_42.md) So that both
 
 <span id="page_48">p. 48</span>
 
@@ -437,7 +437,7 @@ strife with the forces of winter; and the cleansing of the stables of
 Augeas (5) has the same signification. It appears in fact that the
 *stables of Augeas* was another name for the sign of *Capricorn* through
 which the Sun passes at the Winter solstice <span
-id="fr_43"></span>[1](#fn_43)--the stable of course being an underground
+id="fr_43"></span>[1](#fn_43.md)--the stable of course being an underground
 chamber--and the myth was that there, in this lowest tract and backwater
 of the Ecliptic all the malarious and evil influences of the sky were
 collected, and the Sungod came to wash them away (December was the
@@ -452,10 +452,10 @@ Sungod--to which
 <span id="page_50">p. 50</span>
 
 may be compared the power given to his disciples by Jesus <span
-id="fr_44"></span>[1](#fn_44) "to tread on serpents and scorpions."
+id="fr_44"></span>[1](#fn_44.md) "to tread on serpents and scorpions."
 Hercules also as a Sungod compares curiously with Samson (mentioned
 above, ii), but we need not dwell on all the elaborate analogies that
-have been traced <span id="fr_45"></span>[2](#fn_45) between these two
+have been traced <span id="fr_45"></span>[2](#fn_45.md) between these two
 heroes.
 
  
@@ -499,7 +499,7 @@ But they are sufficient, I think, to prove--even allowing for possible
 margins of error--the truth of our general contention. To go into the
 parallelism of the careers of Krishna, the Indian Sungod, and Jesus
 would take too long; because indeed the correspondence is so
-extraordinarily close and elaborate. <span id="fr_46"></span>[1](#fn_46)
+extraordinarily close and elaborate. <span id="fr_46"></span>[1](#fn_46.md)
 I propose, however, at the close of this chapter, to dwell now for a
 moment on the Christian festival of the Eucharist, partly on account of
 its connection with the derivation from the astronomical rites and
@@ -508,13 +508,13 @@ light which the festival generally, whether Christian or Pagan, throws
 on the origins of Religious Magic--a subject I shall have to deal with
 in the next chapter.
 
-I have already (Ch. II, [p. 25](pcc03.htm#page_25)) mentioned the
+I have already (Ch. II, [p. 25](pcc03.htm#page_25).md) mentioned the
 Eucharistic rite held in commemoration of Mithra, and the indignant
 ascription of this by Justin Martyr to the wiles of the Devil. Justin
 Martyr clearly had no doubt about the resemblance of the Mithraic to the
 Christian ceremony. A Sacramental meal, as mentioned a few pages back,
 seems to have been held by the worshipers of Attis <span
-id="fr_47"></span>[2](#fn_47) in commemoration of their god; and the
+id="fr_47"></span>[2](#fn_47.md) in commemoration of their god; and the
 'mysteries' of the
 
 <span id="page_52">p. 52</span>
@@ -530,9 +530,9 @@ or Demeter) untainted by any earthly husband; and born on the 25th.
 December. He was nurtured in a Cave, and even at that early age was
 identified with the Ram or Lamb, into whose form he was for the time
 being changed. At times also he was worshiped in the form of a
-Bull. <span id="fr_48"></span>[1](#fn_48) He travelled far and wide; and
+Bull. <span id="fr_48"></span>[1](#fn_48.md) He travelled far and wide; and
 brought the great gift of wine to mankind. <span
-id="fr_49"></span>[2](#fn_49) He was called Liberator, and Saviour. His
+id="fr_49"></span>[2](#fn_49.md) He was called Liberator, and Saviour. His
 grave "was shown at Delphi in the inmost shrine of the temple of Apollo.
 Secret offerings were brought thither, while the women who were
 celebrating the feast woke up the new-born god. . . . Festivals of this
@@ -551,27 +551,27 @@ insane cries and jubilation. The victims of the sacrifice,
 
 oxen, goats, even fawns and roes from the forest were killed, torn to
 pieces, and eaten raw. This in imitation of the treatment of Dionysus by
-the Titans" <span id="fr_50"></span>[1](#fn_50)--who it was supposed had
+the Titans" <span id="fr_50"></span>[1](#fn_50.md)--who it was supposed had
 torn the god in pieces when a child.
 
 Dupuis, one of the earliest writers (at the beginning of last century)
 on this subject, says, describing the mystic rites of Dionysus: <span
-id="fr_51"></span>[2](#fn_51) "The sacred doors of the Temple in which
+id="fr_51"></span>[2](#fn_51.md) "The sacred doors of the Temple in which
 the initiation took place were opened only once a year, and no stranger
 might ever enter. Night lent to these august mysteries a veil which was
 forbidden to be drawn aside--for whoever it might be. <span
-id="fr_52"></span>[3](#fn_52) It was the sole occasion for the
+id="fr_52"></span>[3](#fn_52.md) It was the sole occasion for the
 representation of the passion of Bacchus \[Dionysus\] dead, descended
 into hell, and rearisen--in imitation of the representation of the
 sufferings of Osiris which, according to Herodotus, were commemorated at
 Sais in Egypt. It was in that place that the partition took place of
-*the body of the god*, <span id="fr_53"></span>[4](#fn_53) which was
+*the body of the god*, <span id="fr_53"></span>[4](#fn_53.md) which was
 then eaten--the ceremony, in fact, of which our Eucharist is only a
 reflection; whereas in the mysteries of Bacchus actual raw flesh was
 distributed, which each of those present had to consume in commemoration
 of the death of Bacchus dismembered by the Titans, and whose passion, in
 Chios and Tenedos, was renewed each year by the sacrifice of a man who
-represented the god. <span id="fr_54"></span>[5](#fn_54) Possibly it is
+represented the god. <span id="fr_54"></span>[5](#fn_54.md) Possibly it is
 this last fact which made people believe that the Christians (whose hoc
 est corpus meum and sharing of an Eucharistic meal were no more than a
 shadow of a more ancient rite) did really sacrifice a child and devour
@@ -586,13 +586,13 @@ Totem-sacraments of savages; and to this subject we shall now turn.
 
 ### Footnotes
 
-<span id="fn_28"></span>[40:1](pcc04.htm#fr_28) It is said that *pasach*
+<span id="fn_28"></span>[40:1](pcc04.htm#fr_28.md) It is said that *pasach*
 sometimes means not so much to pass over, as to hover over and so
 protect. Possibly both meanings enter in here. See Isaiah xxxi. 5.
 
-<span id="fn_29"></span>[40:2](pcc04.htm#fr_29) See Exodus xii. 1.
+<span id="fn_29"></span>[40:2](pcc04.htm#fr_29.md) See Exodus xii. 1.
 
-<span id="fn_30"></span>[40:3](pcc04.htm#fr_30) It is even said (see
+<span id="fn_30"></span>[40:3](pcc04.htm#fr_30.md) It is even said (see
 *The Golden Bough*, vol. iii, 185) that the doorways of houses and
 temples in Peru were at the Spring festival daubed with blood of the
 first-born children--commuted afterwards to the blood of the sacred
@@ -602,7 +602,7 @@ the outside of their houses and doors with blood drawn from their own
 ears and ankles, in order to propitiate the god of Harvest"
 (Kingsborough's *Mexican Antiquities*, vol. vi, p. 235).
 
-<span id="fn_31"></span>[41:1](pcc04.htm#fr_31) With regard to this
+<span id="fn_31"></span>[41:1](pcc04.htm#fr_31.md) With regard to this
 point, see an article in the *Nineteenth Century* for September 1900, by
 E. W. Maunder of the Greenwich Observatory on "The Oldest Picture Book"
 (the Zodiac). Mr. Maunder calculates that the Vernal Equinox was in the
@@ -615,77 +615,77 @@ of Aquarius--corresponding roughly, Mr. Maunder points out, to the
 positions of the four "Royal Stars," Aldebaran, Regulus, Antares and
 Fomalhaut.
 
-<span id="fn_32"></span>[42:1](pcc04.htm#fr_32) See *Adonis, Attis and
+<span id="fn_32"></span>[42:1](pcc04.htm#fr_32.md) See *Adonis, Attis and
 Osiris*, Part IV of *The Golden Bough*, by J. G. Frazer, p. 229.
 
-<span id="fn_33"></span>[43:1](pcc04.htm#fr_33) Adonis, *Attis and
+<span id="fn_33"></span>[43:1](pcc04.htm#fr_33.md) Adonis, *Attis and
 Osiris*, p. 229. References to Prudentius, and to Firmicus Maternus, *De
 errore* 28. 8.
 
-<span id="fn_34"></span>[43:2](pcc04.htm#fr_34) That is, "*By the
+<span id="fn_34"></span>[43:2](pcc04.htm#fr_34.md) That is, "*By the
 slaughter of the bull and the slaughter of the ram born again into
 eternity*."
 
-<span id="fn_35"></span>[43:3](pcc04.htm#fr_35) *Pagan Christs*, p. 315.
+<span id="fn_35"></span>[43:3](pcc04.htm#fr_35.md) *Pagan Christs*, p. 315.
 
-<span id="fn_36"></span>[43:4](pcc04.htm#fr_36) *Mystères de Mithra,
+<span id="fn_36"></span>[43:4](pcc04.htm#fr_36.md) *Mystères de Mithra,
 Bruxelles*, 1902, p. 153.
 
-<span id="fn_37"></span>[44:1](pcc04.htm#fr_37) See vol. i, pp. 334 ff.
+<span id="fn_37"></span>[44:1](pcc04.htm#fr_37.md) See vol. i, pp. 334 ff.
 
-<span id="fn_38"></span>[45:1](pcc04.htm#fr_38) Sallustius philosophus.
+<span id="fn_38"></span>[45:1](pcc04.htm#fr_38.md) Sallustius philosophus.
 See *Adonis, Attis and Osiris*, note, p. 229.
 
-<span id="fn_39"></span>[45:2](pcc04.htm#fr_39) *Pagan Christs*, p. 336.
+<span id="fn_39"></span>[45:2](pcc04.htm#fr_39.md) *Pagan Christs*, p. 336.
 
-<span id="fn_40"></span>[45:3](pcc04.htm#fr_40) *De Antro*, xxiv.
+<span id="fn_40"></span>[45:3](pcc04.htm#fr_40.md) *De Antro*, xxiv.
 
-<span id="fn_41"></span>[46:1](pcc04.htm#fr_41) Ch. xl.
+<span id="fn_41"></span>[46:1](pcc04.htm#fr_41.md) Ch. xl.
 
-<span id="fn_42"></span>[47:1](pcc04.htm#fr_42) Tacitus (*Hist*. v. 4)
+<span id="fn_42"></span>[47:1](pcc04.htm#fr_42) Tacitus (*Hist*. v. 4.md)
 speaks of ram-sacrifice by the Jews in honor of Jupiter Ammon. See also
 Herodotus (ii. 42) on the same in Egypt.
 
-<span id="fn_43"></span>[49:1](pcc04.htm#fr_43) See diagram of Zodiac,
-*supra*, [p. 37](#page_37).
+<span id="fn_43"></span>[49:1](pcc04.htm#fr_43.md) See diagram of Zodiac,
+*supra*, [p. 37](#page_37.md).
 
-<span id="fn_44"></span>[50:1](pcc04.htm#fr_44) Luke x. 19.
+<span id="fn_44"></span>[50:1](pcc04.htm#fr_44.md) Luke x. 19.
 
-<span id="fn_45"></span>[50:2](pcc04.htm#fr_45) See Doane's *Bible
+<span id="fn_45"></span>[50:2](pcc04.htm#fr_45.md) See Doane's *Bible
 Myths*, ch. viii, (New York, 1882.)
 
-<span id="fn_46"></span>[51:1](pcc04.htm#fr_46) See Robertson's
+<span id="fn_46"></span>[51:1](pcc04.htm#fr_46.md) See Robertson's
 *Christianity and Mythology*, Part II, pp. 129-302; also Doane's *Bible
 Myths*, ch. xxviii, p. 278.
 
-<span id="fn_47"></span>[51:2](pcc04.htm#fr_47) See Frazer's *Golden
+<span id="fn_47"></span>[51:2](pcc04.htm#fr_47.md) See Frazer's *Golden
 Bough*, Part IV, p. 229.
 
-<span id="fn_48"></span>[52:1](pcc04.htm#fr_48) *The Golden Bough*, Part
+<span id="fn_48"></span>[52:1](pcc04.htm#fr_48.md) *The Golden Bough*, Part
 II, Book II, p. 164.
 
-<span id="fn_49"></span>[52:2](pcc04.htm#fr_49) "I am the *true* Vine,"
+<span id="fn_49"></span>[52:2](pcc04.htm#fr_49.md) "I am the *true* Vine,"
 says the Jesus of the fourth gospel, perhaps with an implicit and
 hostile reference to the cult of Dionysus--in which Robertson suggests
 (*Christianity and Mythology*, p. 357) there was a ritual miracle of
 turning water into wine.)
 
-<span id="fn_50"></span>[53:1](pcc04.htm#fr_50) See art. Dionysus.
+<span id="fn_50"></span>[53:1](pcc04.htm#fr_50.md) See art. Dionysus.
 *Dictionary of Classical Antiquities*, Nettleship and Sandys 3rd edn.,
 London, 1898).
 
-<span id="fn_51"></span>[53:2](pcc04.htm#fr_51) See Charles F. Dupuis,
+<span id="fn_51"></span>[53:2](pcc04.htm#fr_51.md) See Charles F. Dupuis,
 "Traité des Mystères," ch. i.
 
-<span id="fn_52"></span>[53:3](pcc04.htm#fr_52) Pausan, *Corinth*, ch.
+<span id="fn_52"></span>[53:3](pcc04.htm#fr_52.md) Pausan, *Corinth*, ch.
 37.
 
-<span id="fn_53"></span>[53:4](pcc04.htm#fr_53) Clem, Prot. *Eur.
+<span id="fn_53"></span>[53:4](pcc04.htm#fr_53.md) Clem, Prot. *Eur.
 Bacch*.
 
-<span id="fn_54"></span>[53:5](pcc04.htm#fr_54) See Porphyry, *De
+<span id="fn_54"></span>[53:5](pcc04.htm#fr_54.md) See Porphyry, *De
 Abstinentia*, lii, § 56.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Totem-sacraments And Eucharists](pcc05)
+[Next: IV. Totem-sacraments And Eucharists](pcc05.md)

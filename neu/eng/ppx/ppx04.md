@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](ppx03)  [Next](ppx05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](ppx03)  [Next](ppx05.md) 
 
 ------------------------------------------------------------------------
 
 # Pixy Gathon; or, The Tailor's Needle
 
 <span id="img_01"></span> [![](tn/01.jpg)  
-Click to enlarge](img/01.jpg)  
+Click to enlarge](img/01.jpg.md)  
 PIXY GATHON
 
 "BAD times! Master Trickett," said Betsy Humming, as she turned her
@@ -574,4 +574,4 @@ tailor's needle.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Trials, or, the Story of Crabby Cross](ppx05)
+[Next: The Three Trials, or, the Story of Crabby Cross](ppx05.md)

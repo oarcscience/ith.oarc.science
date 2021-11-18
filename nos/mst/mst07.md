@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst06)  [Next](mst08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst06)  [Next](mst08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 <span id="img_10900"></span> <span align="CENTER"> [![Through this old
 gate traveled Nostradamus on errands of mercy and
 friendship.](tn/10900.jpg)  
-Click to enlarge](img/10900.jpg)  
+Click to enlarge](img/10900.jpg.md)  
 Through this old gate traveled Nostradamus on errands of mercy and
 friendship.  
 </span>
@@ -121,7 +121,7 @@ he threw away his crutches and sang loudly for joy. That may have no
 foundation. Nostradamus disliked Sixtus for his compromising complacence
 in dealing with Henry of Navarre, who in the prophet's uncompromising
 opinion was a turn-coat and a heretic. The prophet had little
-[sympathy](errata.htm#5) with what he thought was the Pope's weakness.
+[sympathy](errata.htm#5.md) with what he thought was the Pope's weakness.
 In another verse he speaks of Sixtus as being "afraid to take off his
 shirt at night for fear of its being stolen." Which was a sarcastic
 reference to the despoiling of the Church at the hands of the
@@ -860,4 +860,4 @@ A potent argument in the sixteenth century.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Six: A Prophet's Eyry](mst08)
+[Next: Chapter Six: A Prophet's Eyry](mst08.md)

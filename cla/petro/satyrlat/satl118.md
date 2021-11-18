@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat15.htm#CXVIII) 
-[Previous](satl117)  [Next](satl119) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat15.htm#CXVIII.md) 
+[Previous](satl117)  [Next](satl119.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ nondum recepit ultimam manum:
 
 ------------------------------------------------------------------------
 
-[Next: CXIX](satl119)
+[Next: CXIX](satl119.md)

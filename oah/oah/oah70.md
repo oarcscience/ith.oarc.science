@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah69)  [Next](oah71) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah69)  [Next](oah71.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ reporting of evils; and SA'TAN, to be a leader, and especially to the
 delight of the other six entities.
 
 11\. These are the members of the Beast <span
-id="fr_14"></span>[\*](#fn_14) of all men and women under the sun; nor
+id="fr_14"></span>[\*](#fn_14.md) of all men and women under the sun; nor
 is any one without them in some manner or degree. Go ye, therefore, to
 the Lords and say to them: Jehovih hath set the beginning of the
 resurrection through Aph, His Son, Chief of the arc of Noe, to lay the
@@ -94,8 +94,8 @@ languages, to be synonymous, till the coming of the kosmon era.
 
 ### Footnotes
 
-<span id="fn_14"></span>[91:\*](oah70.htm#fr_14) Person-self.
+<span id="fn_14"></span>[91:\*](oah70.htm#fr_14.md) Person-self.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](oah71)
+[Next: Chapter XIV](oah71.md)

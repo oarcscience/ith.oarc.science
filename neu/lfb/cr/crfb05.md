@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb04)  [Next](crfb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb04)  [Next](crfb06.md) 
 
 </div>
 
@@ -170,6 +170,6 @@ still, but I don't know.
 
 ------------------------------------------------------------------------
 
-[Next: To Your Good Health!](crfb06)
+[Next: To Your Good Health!](crfb06.md)
 
 </div>

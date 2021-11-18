@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth088)  [Next](toth090) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth088)  [Next](toth090.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 86. A BET BETWEEN THE COOYOKO AND THE FOX. <span id="fr_164"></span>[1](#fn_162)
+## 86. A BET BETWEEN THE COOYOKO AND THE FOX. <span id="fr_164"></span>[1](#fn_162.md)
 
 Alíksai! In Shupaúlavi, north of the village, is a bluff where there is
 a place called Cóoyoko House (Cóoyok-ki). Here the Cóoyoko lived. One
@@ -37,7 +37,7 @@ said, "be it so. You sing first." So the Cóoyoko sang the following
 little song:
 
 To -- ishkakolitai to -- ishkakolitai  
-Aaaha, iiihi-- <span id="fr_165"></span>[1](toth090.htm#fn_163)
+Aaaha, iiihi-- <span id="fr_165"></span>[1](toth090.htm#fn_163.md)
 
 and then said to the Fox: "Now, you sing, too," whereupon the Fox sang
 the following song:
@@ -57,9 +57,9 @@ bet.
 
 ### Footnotes
 
-<span id="fn_162"></span>[222:1](toth089.htm#fr_164) Told by
+<span id="fn_162"></span>[222:1](toth089.htm#fr_164.md) Told by
 Sik'áletsiwa (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
-[Next: 87. The Little Gray Mice and the Little Brown Mice](toth090)
+[Next: 87. The Little Gray Mice and the Little Brown Mice](toth090.md)

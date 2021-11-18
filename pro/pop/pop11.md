@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop10)  [Next](pop12) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop10)  [Next](pop12.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ known thyself.'
 
 ------------------------------------------------------------------------
 
-[Next: The Seventh Figure](pop12)
+[Next: The Seventh Figure](pop12.md)

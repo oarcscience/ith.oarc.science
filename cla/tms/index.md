@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,13 +12,13 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](tms00)  
-[Preface](tms01)  
-[Contents](tms02)  
-[Chapter I: Mana, Magic and Animism](tms03)  
-[Chapter II: Positive and Negative Mana (Taboo)](tms04)  
-[Chapter III: Miscellaneous Taboos](tms05)  
-[Chapter IV: Magic Acts: The General Principles](tms06)  
-[Chapter V: Removing Evils by Magic Acts](tms07)  
-[Chapter VI: Incantation and Prayer](tms08)  
-[Chapter VII: Naturalism and Animism](tms09)  
+[Title Page](tms00.md)  
+[Preface](tms01.md)  
+[Contents](tms02.md)  
+[Chapter I: Mana, Magic and Animism](tms03.md)  
+[Chapter II: Positive and Negative Mana (Taboo)](tms04.md)  
+[Chapter III: Miscellaneous Taboos](tms05.md)  
+[Chapter IV: Magic Acts: The General Principles](tms06.md)  
+[Chapter V: Removing Evils by Magic Acts](tms07.md)  
+[Chapter VI: Incantation and Prayer](tms08.md)  
+[Chapter VII: Naturalism and Animism](tms09.md)  

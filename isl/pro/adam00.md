@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](i2e)  [Next](adam01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](i2e)  [Next](adam01.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ let it reach there.
 ------------------------------------------------------------------------
 
 [Next: Subjects from different sources with agreement in
-contents](adam01)
+contents](adam01.md)

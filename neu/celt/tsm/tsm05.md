@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm04)  [Next](tsm06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm04)  [Next](tsm06.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,7 +172,7 @@ He bath awaked the violet,
 Or the soft primrose on the steep,  
 While buds are laid in lidded sleep,  
 And white snows wrap the hills serene,  
-Ere glows the larch's <span id="fr_5"></span>[1](#fn_5) vivid green  
+Ere glows the larch's <span id="fr_5"></span>[1](#fn_5.md) vivid green  
 Through the brown woods and bare. All hail!  
 Angus, and may thy will prevail. . . .  
 He comes . . . he goes. . . . And far and wide  
@@ -216,7 +216,7 @@ Said Angus: "It will be a day of great joy to all mankind ever after
 this."
 
 That is why the first day of spring--the day on which Angus found the
-princess--is called "Bride's Day". <span id="fr_6"></span>[1](#fn_6)
+princess--is called "Bride's Day". <span id="fr_6"></span>[1](#fn_6.md)
 
 Through the forest came a fair company of fairy ladies, who hailed Bride
 as queen and bade welcome to Angus. Then the Fairy Queen waved her wand,
@@ -471,12 +471,12 @@ light and darkness, and warmth and cold.
 
 ### Footnotes
 
-<span id="fn_5"></span>[38:1](tsm05.htm#fr_5) The larch is the first
+<span id="fn_5"></span>[38:1](tsm05.htm#fr_5.md) The larch is the first
 tree in Scotland which turns a bright green in springtime.
 
-<span id="fn_6"></span>[40:1](tsm05.htm#fr_6) February 1st old style,
+<span id="fn_6"></span>[40:1](tsm05.htm#fr_6.md) February 1st old style,
 February 13th new style.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Combats that Never End](tsm06)
+[Next: Chapter III. Combats that Never End](tsm06.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda09)  [Next](nda11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda09)  [Next](nda11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -53,7 +53,7 @@ aid of one skilled in the black art to raise a storm, which should
 overwhelm the object of his enmity. The hero, however, after three days
 of exposure to the preternaturally-agitated elements, returned
 exhausted, but in safety, to his home. The husband then prevailed upon
-his powerful brother-in-law, the godi ( [72](nda12.htm#xref_72)) Snorri,
+his powerful brother-in-law, the godi ( [72](nda12.htm#xref_72).md) Snorri,
 to come to his assistance, and as a result of Snorri's intervention,
 Biorn agreed to leave the country. He accordingly rode "south, to a ship
 in Laga-haven, in which he took passage that same summer, but they were
@@ -111,7 +111,7 @@ particularly after every one of the leading men of Borgarfirth and
 Breidafirth, and in the course of the conversation he asked after Snorri
 Godi and Thurid, of Froda, his sister, and he enquired especially after
 all details concerning Froda, and particularly regarding the boy
-Kiartan, <span id="fr_3"></span>[1](#fn_3) who was then the master at
+Kiartan, <span id="fr_3"></span>[1](#fn_3.md) who was then the master at
 Froda. The people of the country, on the other hand, demanded that some
 judgment should be reached concerning the ship's crew. After this the
 tall man left them, and called about him twelve of his men, and they sat
@@ -216,7 +216,7 @@ follows: "Wise men
 
 have said that you must sail to the southwest from Krisuvik mountain to
 Newland." Krisuvik mountain is situated on the
-[promontory](errata.htm#2) of Reykianess, the southwestern extremity of
+[promontory](errata.htm#2.md) of Reykianess, the southwestern extremity of
 Iceland, and, as has been recently pointed out, to sail the course
 suggested by Bishop Gizur would in all probability land the adventurous
 mariner in southeastern Greenland. The record of the Annals, however, is
@@ -330,9 +330,9 @@ trackless wastes of northern Greenland.
 
 ### Footnotes
 
-<span id="fn_3"></span>[111:1](nda10.htm#fr_3) This Kiartan was Thurid's
+<span id="fn_3"></span>[111:1](nda10.htm#fr_3.md) This Kiartan was Thurid's
 son.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Publication of the Discovery](nda11)
+[Next: Chapter VII. The Publication of the Discovery](nda11.md)

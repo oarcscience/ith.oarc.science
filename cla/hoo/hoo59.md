@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo58)  [Next](hoo60) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo58)  [Next](hoo60.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Sea-born, night-loving, of an awful mien;
 Crafty, from whom necessity first came,  
 Producing, nightly, all-connecting dame:  
 'Tis thine the world with harmony to join, 5  <span
-id="fr_114"></span>[5](#fn_114)  
+id="fr_114"></span>[5](#fn_114.md)  
 For all things spring from thee, O pow'r divine.  
 The triple Fates are rul'd by thy decree,  
 And all productions yield alike to thee:  
@@ -61,7 +61,7 @@ For thee, I call, with holy, reverent mind. 40
 
 ### Footnotes
 
-<span id="fn_114"></span>[186:5](hoo59.htm#fr_114) Ver, 5.\] *'Tis thine
+<span id="fn_114"></span>[186:5](hoo59.htm#fr_114.md) Ver, 5.\] *'Tis thine
 the world with harmony to join*. According to the Orphic theology as
 related by Proclus, and from him by Eschenbach, in Epig. p. 52. Venus is
 the cause of all the harmony and analogy in the universe, and of the
@@ -73,4 +73,4 @@ mundane concerns.
 
 ------------------------------------------------------------------------
 
-[Next: LV: To Adonis](hoo60)
+[Next: LV: To Adonis](hoo60.md)

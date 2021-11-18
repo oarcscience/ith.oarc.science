@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes61)  [Next](tes63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes61)  [Next](tes63.md) 
 
 ------------------------------------------------------------------------
 
-### 8. STORY OF THE TOM-CAT AND THE COCK <span id="fr_92"></span>[1](#fn_92)
+### 8. STORY OF THE TOM-CAT AND THE COCK <span id="fr_92"></span>[1](#fn_92.md)
 
 There lived a Tom-Cat and a Cock. The Tom-Cat went to fetch fuel, and
 ordered the Cock to bake pancakes. Meanwhile there came a She-Fox and
@@ -61,8 +61,8 @@ My golden one, my sonorous one!
 Are you at home, O my red fox!  
 In your warm nest?  
 The first daughter of yours is the Small-Stuffed-One,  
-The second daughter is Palachelka. <span id="fr_93"></span>[1](#fn_93)  
-The son is Valorous. <span id="fr_94"></span>[2](#fn_94)  
+The second daughter is Palachelka. <span id="fr_93"></span>[1](#fn_93.md)  
+The son is Valorous. <span id="fr_94"></span>[2](#fn_94.md)  
 He went up the sky  
 Clap my little staff  
 At the oaken door-sill.  
@@ -142,7 +142,7 @@ An oven-baked-cake."
 cake!"
 
 The Cock went with the cake, but the Tom-Cat caught the Cock and hurried
-back to his home. <span id="fr_95"></span>[1](#fn_95) He gave the cock a
+back to his home. <span id="fr_95"></span>[1](#fn_95.md) He gave the cock a
 sound thrashing. "Another
 
 <span id="page_121">p. 121</span>
@@ -157,23 +157,23 @@ village of Pokhotsk, the Kolyma country, summer of 1895.
 
 ### Footnotes
 
-<span id="fn_92"></span>[118:1](tes62.htm#fr_92) This is the Kolyma
+<span id="fn_92"></span>[118:1](tes62.htm#fr_92.md) This is the Kolyma
 version of the well-known Old World story. Among the Russians of Europe
 several versions of it are known, mostly in rhymed prose. The Kolyma
 version is also in rhymed prose; but its form seems to be more ancient,
 and some of its details are not without interest--W. B.
 
-<span id="fn_93"></span>[119:1](tes62.htm#fr_93) The meaning of this
+<span id="fn_93"></span>[119:1](tes62.htm#fr_93.md) The meaning of this
 name is unknown. Both names are of local, probably Yukaghir,
 provenience--W. B.
 
-<span id="fn_94"></span>[119:2](tes62.htm#fr_94) This and the following
+<span id="fn_94"></span>[119:2](tes62.htm#fr_94.md) This and the following
 line are probably inserted from an ancient conundrum. "The mother is
 thick, the daughter is red, the son is valorous, went up the sky.--Oven,
 fire, smoke." (Мать толста, дочь красна, сынъ хороберъ, подъ небеса
 ушелъ).--W.B.
 
-<span id="fn_95"></span>[120:1](tes62.htm#fr_95) According to another
+<span id="fn_95"></span>[120:1](tes62.htm#fr_95.md) According to another
 version, likewise from the Kolyma, the Tom-Cat killed also the mother
 Fox. He found the Cock firmly frozen in a block of ice, lying in the
 corner. He broke the ice, and thawed the Cock's body before the fire.
@@ -181,4 +181,4 @@ The Cock came to life, and crowed lustily--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Story Of Elk's Head](tes63)
+[Next: 9. Story Of Elk's Head](tes63.md)

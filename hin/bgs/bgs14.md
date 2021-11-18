@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg14)   
-[Previous](bgs13)  [Next](bgs15) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg14.md)   
+[Previous](bgs13)  [Next](bgs15.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ brahmaṇo hi pratiṣṭhāham amṛtasyāvyayasya ca
 
 ------------------------------------------------------------------------
 
-[Next: XV. atha pañcadaśodhyāyaḥ. (puruṣottamayogaḥ)](bgs15)
+[Next: XV. atha pañcadaśodhyāyaḥ. (puruṣottamayogaḥ)](bgs15.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste54)  [Next](ste56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste54)  [Next](ste56.md) 
 
 ------------------------------------------------------------------------
 
@@ -444,4 +444,4 @@ art and order of the composition.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](ste56)
+[Next: Chapter X](ste56.md)

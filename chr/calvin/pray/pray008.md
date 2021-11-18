@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray007)  [Next](pray009) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray007)  [Next](pray009.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ so to speak, be earnestly hungered and thirsted after.
 
 ------------------------------------------------------------------------
 
-[Next: 7.](pray009)
+[Next: 7.](pray009.md)

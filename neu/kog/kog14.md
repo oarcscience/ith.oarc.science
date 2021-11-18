@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog13)  [Next](kog15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog13)  [Next](kog15.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 <span id="img_12400"></span>
 
 [![](tn/12400.jpg)  
-Click to enlarge](img/12400.jpg)
+Click to enlarge](img/12400.jpg.md)
 
  
 
@@ -357,4 +357,4 @@ old crone was a witch.
 
 ------------------------------------------------------------------------
 
-[Next: 12. The Twin Brothers](kog15)
+[Next: 12. The Twin Brothers](kog15.md)

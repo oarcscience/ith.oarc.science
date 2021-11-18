@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb16)  [Next](lifb18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb16)  [Next](lifb18.md) 
 
 </div>
 
@@ -330,6 +330,6 @@ From 'Popular Tales of the West Highlands.'
 
 ------------------------------------------------------------------------
 
-[Next: A Fish Story](lifb18)
+[Next: A Fish Story](lifb18.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia14)  [Next](aia16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia14)  [Next](aia16.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 *The Head of the Dragon*.--THE head of the Dragon is masculine, of the
 nature of ♃ and ♀, and of himself a fortune. <span
-id="fr_37"></span>[2](#fn_37)
+id="fr_37"></span>[2](#fn_37.md)
 
 *The Tail of the Dragon*.--The Tail of the Dragon by nature is quite
 contrary to the Head, for he is evil. I ever found the ☊ equivalent to
@@ -35,7 +35,7 @@ to nothing.
 
 ### Footnotes
 
-<span id="fn_37"></span>[52:2](aia15.htm#fr_37) These points are of no
+<span id="fn_37"></span>[52:2](aia15.htm#fr_37.md) These points are of no
 consequence in nativities, except as regards the Moon, who brings
 benefits when she reaches the ☊ in the zodiac by directional motion, and
 evil when she reaches the ☋.
@@ -43,4 +43,4 @@ evil when she reaches the ☋.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. Another Brief Description of the Shapes and Forms
-of the Planets](aia16)
+of the Planets](aia16.md)

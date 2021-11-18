@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](tbow14)  [Next](tbow16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](tbow14)  [Next](tbow16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3TLAI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3TLAI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Wonder*, by Lord Dunsany, \[1912\], at Intangible Textual
 Heritage
 
@@ -182,6 +182,6 @@ that for me. But I do not tell this to Chu-bu.
 
 ------------------------------------------------------------------------
 
-[Next: The Wonderful Window](tbow16)
+[Next: The Wonderful Window](tbow16.md)
 
 </div>

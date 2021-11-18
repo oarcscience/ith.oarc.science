@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico097) 
-[Next](nico099) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico097.md) 
+[Next](nico099.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ excess of wickedness.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4. Friendship is based on self-love](nico099)
+[Next: Chapter 4. Friendship is based on self-love](nico099.md)

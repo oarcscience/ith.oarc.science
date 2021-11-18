@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah83)  [Next](oah85) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah83)  [Next](oah85.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ END OF BOOK OF SUE, SON OF JEHOVIH.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](oah85)
+[Next: Chapter I](oah85.md)

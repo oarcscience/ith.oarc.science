@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb12)  [Next](wfb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb12)  [Next](wfb14.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ clump of rushes as his pillow and the blue sky as his coverlet.
 
 ------------------------------------------------------------------------
 
-[Next: Cadwaladr and his Goat](wfb14)
+[Next: Cadwaladr and his Goat](wfb14.md)

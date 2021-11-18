@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod44)  [Next](eod46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod44)  [Next](eod46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -27,21 +27,21 @@ was also identified with any of her varied manifestations.
 
 The thunderbolt is one of the manifestations of the life-giving and
 death-dealing Divine Cow, and therefore is able specially to protect
-mundane cows. <span id="fr_439"></span>[2](#fn_439)
+mundane cows. <span id="fr_439"></span>[2](#fn_439.md)
 
 There are numerous hints in the ancient literature of other countries in
 confirmation of the association of the Great Mother with "falling
 stars". "In a fragment of Sanchoniathon, Astarte, travelling about the
 habitable world, is said to have found a star falling through the air,
 which she took up and consecrated." <span
-id="fr_440"></span>[3](#fn_440)
+id="fr_440"></span>[3](#fn_440.md)
 
 Aphrodite also was looked upon as a meteoric stone that fell from
 
 <span id="page_226">p. 226</span>
 
 the moon. In the "Iliad," Zeus is said to have sent Athena as a
-meteorite from heaven to earth. <span id="fr_441"></span>[1](#fn_441)
+meteorite from heaven to earth. <span id="fr_441"></span>[1](#fn_441.md)
 
 The association of Aphrodite with meteoric stones and the ancient belief
 that they fell from the moon serve to confirm the identification of
@@ -63,7 +63,7 @@ The idea that the cowry was the giver of life and the parent of men was
 also transferred to crude stone imitations of the shell. Perhaps the
 belief in such stones as creators of human beings may have been
 reinforced by finding actual fossilized shells within pebbles. <span
-id="fr_442"></span>[2](#fn_442)
+id="fr_442"></span>[2](#fn_442.md)
 
 A further corroboration of this theory was provided when the pearl came
 to be regarded as the quintessence of the life-giving substance of
@@ -86,7 +86,7 @@ cleft in the cowry.
 
 Then there are the Egyptian beliefs concerning stone statues, obelisks,
 or even unshaped blocks of stone which could be animated by human beings
-or gods. <span id="fr_443"></span>[1](#fn_443)
+or gods. <span id="fr_443"></span>[1](#fn_443.md)
 
 The cycle of these stories was completed when the "Eye of Re"
 slaughtered the enemies of the god and they became identified with the
@@ -112,7 +112,7 @@ their sacred animals, or to imitate privileged customs permitted to
 their deities, but not to ordinary mortals, merited the same sort of
 punishments as were meted out to those other rebels against the ruling
 class and the gods in the home of these beliefs. <span
-id="fr_444"></span>[2](#fn_444)
+id="fr_444"></span>[2](#fn_444.md)
 
 <span id="page_228">p. 228</span>
 
@@ -127,16 +127,16 @@ his own eyes to forestall the traditional wrath of the gods.
 
 ### Footnotes
 
-<span id="fn_439"></span>[225:2](eod45.htm#fr_439) Blinckenberg, op.
+<span id="fn_439"></span>[225:2](eod45.htm#fr_439.md) Blinckenberg, op.
 ca., p. 70 *et seq*.
 
-<span id="fn_440"></span>[225:3](eod45.htm#fr_440) Quoted by Layard,
+<span id="fn_440"></span>[225:3](eod45.htm#fr_440.md) Quoted by Layard,
 "Nineveh and its Remains," Vol. II, p. 457.
 
-<span id="fn_441"></span>[226:1](eod45.htm#fr_441) Cook, "Zeus," I, p.
+<span id="fn_441"></span>[226:1](eod45.htm#fr_441.md) Cook, "Zeus," I, p.
 760.
 
-<span id="fn_442"></span>[226:2](eod45.htm#fr_442) Striking examples of
+<span id="fn_442"></span>[226:2](eod45.htm#fr_442.md) Striking examples of
 these stories about birth from split stones have been given by Perry,
 "Megalithic Culture of Indonesia," Chapter X, and de Groot's "Religious
 System of China". It is possible that the double meaning of the Egyptian
@@ -148,10 +148,10 @@ having taken place from a split "stone". The fact that the Great Mother
 was identified with a "mountain" (*set*) may also have facilitated the
 homology with the of the other meaning of *set*, *i.e.* "a stone".
 
-<span id="fn_443"></span>[227:1](eod45.htm#fr_443) "Incense and
+<span id="fn_443"></span>[227:1](eod45.htm#fr_443.md) "Incense and
 Libations".
 
-<span id="fn_444"></span>[227:2](eod45.htm#fr_444) As the character and
+<span id="fn_444"></span>[227:2](eod45.htm#fr_444.md) As the character and
 attributes of the early goddesses became more complex, and contradictory
 traits were more sharply contrasted, the inevitable tendency developed
 to differentiate the goddesses themselves, and provide distinctive names
@@ -179,4 +179,4 @@ to mere mortals and regarded as a peculiarly detestable sin.
 
 ------------------------------------------------------------------------
 
-[Next: The Serpent and the Lioness](eod46)
+[Next: The Serpent and the Lioness](eod46.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt26)  [Next](pyt28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt26)  [Next](pyt28.md) 
 
 ------------------------------------------------------------------------
 
@@ -1205,4 +1205,4 @@ wrestlers.
 ------------------------------------------------------------------------
 
 [Next: 25. Miscellaneous Texts Chiefly About the Deceased King's
-Reception and Life in Heaven, Utterances 523-533](pyt28)
+Reception and Life in Heaven, Utterances 523-533](pyt28.md)

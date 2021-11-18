@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl36)  [Next](flhl38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl36)  [Next](flhl38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -112,7 +112,7 @@ the eldest and most honoured guest, and then a second cup, and so on to
 all others in turn. To offer a full cup is considered a studied insult,
 and so also is the offer of a third cup. The saying is, "The first cup
 for the guest; the second for enjoyment; and the third for the
-sword." <span id="fr_167"></span>[1](#fn_166)
+sword." <span id="fr_167"></span>[1](#fn_166.md)
 
 Wherever a party of coffee-drinkers assemble, there the spirit of esh
 Shadhilly is present to keep them from harm, and in like manner when a
@@ -169,7 +169,7 @@ doorway, but her husband rebuked her fears and asked the stranger what
 he wanted. The sheykh replied that he had thought the place was a
 guest-house but, since he was mistaken, would go away again. The Memlûk,
 however, insisted on his remaining, and gave him a cup of
-[coffee](errata.htm#9). When he had drunk this his host offered him a
+[coffee](errata.htm#9.md). When he had drunk this his host offered him a
 second cup, which he accepted. A third cup he declined, although pressed
 to take it. Finding his solicitations useless, the Memlûk drew his sword
 and threatened to kill the Bedawi unless he took the third cup. The man
@@ -212,10 +212,10 @@ by permission of the P.E.F. Committee.</span>
 
 ### Footnotes
 
-<span id="fn_166"></span>[293:1](flhl37.htm#fr_167) Who the mysterious
+<span id="fn_166"></span>[293:1](flhl37.htm#fr_167.md) Who the mysterious
 ‘Sheykh esh Shadhilly is I cannot tell, but must refer the reader to
 page 121 of the *Palestine Exploration Quarterly* for April 1906.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Some Magic Cures](flhl38)
+[Next: XIII. Some Magic Cures](flhl38.md)

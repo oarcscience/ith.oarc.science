@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgl7) [Next](tgln1)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgl7) [Next](tgln1.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ difficult, or smooth and easy."
 DISSERTATION ON  
 ENDEAVOUR AND DUTY.
 
-{[notes](tgln1.htm#8)\|[elucidations and analyses](tgln2.htm#8)}
+{[notes](tgln1.htm#8)\|[elucidations and analyses](tgln2.htm#8.md)}
 
 An interpretation of Wu Wei.
 
@@ -41,7 +41,7 @@ the Cosmic Spirit. Such an interpretation of *Wu Wei* I cannot admit. I
 never heard such an explanation from any sage.
 
    Now if it be granted that Shen Nung, Yao, Shun, Yü and T‛ang<span
-id="fr_1"></span>[1](tgln1.htm#8_note_1) were sages, authors and writers
+id="fr_1"></span>[1](tgln1.htm#8_note_1.md) were sages, authors and writers
 cannot
 
 |                             |
@@ -73,20 +73,20 @@ discriminated.
    Yao founded the doctrines of filial piety, mercy, benevolence and
 love, which established the people in brothrerhood. Thus he instructed
 the Wo people, to the west; he went to the black-teeth people,<span
-id="fr_2a"></span>[2a](tgln1.htm#8_note_2a) on the east; he looked after
+id="fr_2a"></span>[2a](tgln1.htm#8_note_2a.md) on the east; he looked after
 the people of the gloomy regions in the north and taught the
 cloven-footed people of the south. Yao banished his minister, Huan Tou,
 to the Ch‛un mountain; he drove out the (prince of the) Three Aborigines
 to the outer San Wei; he exiled the Superintendent of works to Yu Chou;
 he transported Chi Kun to the mountain Yu.<span
-id="fr_2"></span>[2](tgln1.htm#8_note_2) Shun taught the art of building
+id="fr_2"></span>[2](tgln1.htm#8_note_2.md) Shun taught the art of building
 houses, by erecting walls and thatching roofs; of breaking-up fallow
 land and planting cereals and trees, thus helping the people to do away
 with the rough life of caves, by each having a house of his own. He died
 at Tsang Wu (Hunan), as he was making a tour of inspection in the south
 and instructing the Three Aborigines.
 
-   Yü<span id="fr_3"></span>[3](tgln1.htm#8_note_3) toiled through rough
+   Yü<span id="fr_3"></span>[3](tgln1.htm#8_note_3.md) toiled through rough
 and stormy weather: the wind combed his hair and the rain drenched his
 person. He brought the mighty Chiang within banks and led the yellow
 river into channels. He bore a way through the mountains, hewing the
@@ -175,7 +175,7 @@ fed; the aged and feeble were nourished and tired toilers were rested.
 
    Let us consider those sages who (started life as common people) were
 the people of the cotton clothes, and the foot travellers. There was
-Yi-yun<span id="fr_4"></span>[4](tgln1.htm#8_note_4) who had his first
+Yi-yun<span id="fr_4"></span>[4](tgln1.htm#8_note_4.md) who had his first
 acquaintance with T‛ang, the emperor, when he was cook
 
 |                        |
@@ -183,17 +183,17 @@ acquaintance with T‛ang, the emperor, when he was cook
 | **Sages are toilers.** |
 
 and carried the saucepan: there was Yü-wang<span
-id="fr_5"></span>[5](tgln1.htm#8_note_5) who made the acquaintance of
+id="fr_5"></span>[5](tgln1.htm#8_note_5.md) who made the acquaintance of
 the future emperor of Chou when he was a butcher: Peh-li-hsi,<span
-id="fr_6"></span>[6](tgln1.htm#8_note_6) a man of Yu, who sold himself
+id="fr_6"></span>[6](tgln1.htm#8_note_6.md) a man of Yu, who sold himself
 for five pieces of hide to the Duke Mu of Ts‛in and became Prime
 Minister: there was Kuan Chung<span
-id="fr_7"></span>[7](tgln1.htm#8_note_7) who became a captive and later
+id="fr_7"></span>[7](tgln1.htm#8_note_7.md) who became a captive and later
 rose to great power: there was Confucius <span id="page_224">p.
 224</span> whose cooking stove was never warm for he was always out
 travelling: and there was Mei Tzû but who seldom warmed his domestic bed
 in his zeal for the public good. These Sages<span
-id="fr_8"></span>[8](tgln1.htm#8_note_8) thought no mountain too high,
+id="fr_8"></span>[8](tgln1.htm#8_note_8.md) thought no mountain too high,
 no river too broad to traverse in the pursuit of their work: they bore
 every buffeting, by waiting on kings. It wasn't because they lusted
 after emoluments or sought positions of power that they did so; but they
@@ -218,8 +218,8 @@ in spring; but it is necessary to add human labour, in order to induce
 it to grow and mature. If everything were left to nature and birth and
 growth were waited for without human labour, then there would be no
 accruing merits to Kun and Yü,<span
-id="fr_9"></span>[9](tgln1.htm#8_note_9) and the knowledge of Hou
-Chi<span id="fr_9a"></span>[9a](tgln1.htm#8_note_9a) could not be put to
+id="fr_9"></span>[9](tgln1.htm#8_note_9.md) and the knowledge of Hou
+Chi<span id="fr_9a"></span>[9a](tgln1.htm#8_note_9a.md) could not be put to
 use. What is meant, therefore, in my view, by Wu Wei, is that no selfish
 idea or personal will can enter and interfere with natural justice: no
 personal lust or desire may twist and wrench the true course of action.
@@ -348,7 +348,7 @@ in the leaping
 of fishes or the spotted colouring of the cranes. Such difference
 pertains to natural qualities and are unalterable. Even learning will
 not alter natural qualities.<span
-id="fr_12"></span>[12](tgln1.htm#8_note_12) I do not agree with this
+id="fr_12"></span>[12](tgln1.htm#8_note_12.md) I do not agree with this
 explanation. The leaping of fishes, the colours of the cranes are
 similar in nature to that which makes man a man and horse a horse. For
 the qualities of bone, tissues and form which each has received from
@@ -382,7 +382,7 @@ nature good, whose every movement breathes
 humanity and whose every action overflows with justice—a nature that all
 praise—such a man needs no instuction to make him good. Every action is
 consonant with truth. Such were Yao, Shun and Wen Wang.<span
-id="fr_13"></span>[13](tgln1.htm#8_note_13) Granted again that the other
+id="fr_13"></span>[13](tgln1.htm#8_note_13.md) Granted again that the other
 extreme class, such as the drunken and sensual, are incorrigible, whom
 no instruction can enlighten nor command bring to reason: such
 incorrigibles a disciplinarian father can never correct by moral
@@ -432,13 +432,13 @@ used! The majority of horses are of the mediocre class.
 person or stab him with it. But a person of courage would roll up his
 sleeves and sway it and run it into the bone and marrow. But it wouldn't
 be at all logical to give up the use of all famous swords, the Kan
-Chiang and Mo Yeh,<span id="fr_14"></span>[14](tgln1.htm#8_note_14) and
+Chiang and Mo Yeh,<span id="fr_14"></span>[14](tgln1.htm#8_note_14.md) and
 fight only with fists for these reasons!
 
    What we mean to say applies to things generally, common to all and
 current in society: we don't refer to the rare and exceptional, to
 anything at either extreme.<span
-id="fr_14a"></span>[14a](tgln1.htm#8_note_14a) The extremes of anything
+id="fr_14a"></span>[14a](tgln1.htm#8_note_14a.md) The extremes of anything
 cannot be taken as a general standard in an argument.
 
    Some oranges and pumeloes grow in winter; but people say that, in
@@ -458,7 +458,7 @@ consider the race sluggish. The southern
 |----------------------|
 | **Unusual talents.** |
 
-tribes<span id="fr_15"></span>[15](tgln1.htm#8_note_15) have people that
+tribes<span id="fr_15"></span>[15](tgln1.htm#8_note_15.md) have people that
 are slow-witted; yet we generally think of them as quick and fiery. The
 common designation springs from the general tenour.
 
@@ -474,13 +474,13 @@ them, such as the dredging of rivers and the clearing of obstructions
 from streams. Wen Wang is said to have had four teats and so was
 prolific in his methods of social economy, resulting in the adhesion of
 the empire and the affection of the people. Kao Yao<span
-id="fr_16"></span>[16](tgln1.htm#8_note_16) had equine, long lips and so
+id="fr_16"></span>[16](tgln1.htm#8_note_16.md) had equine, long lips and so
 was called "the perfectly faithful" and spoke no nonsense: hence he
 judged criminals with perspicacity and his knowledge of men was
 penetrative. Yü was born as a result of the influence of the stone on
 his mother: Hsieh as the result of his mother's pregnancy through eating
 a swallow's egg. Shih Huang<span
-id="fr_17"></span>[17](tgln1.htm#8_note_17) could write as soon as he
+id="fr_17"></span>[17](tgln1.htm#8_note_17.md) could write as soon as he
 was born. All these nine noted men embrace a period of a thousand years;
 but they are thought of as each one, following on the heels of the other
 (Sages are rare). At the present time there are no five Sages inspired
@@ -490,7 +490,7 @@ learning on this account and simply follow instinct, would be similar to
 abandoning the ferry boat and walking through the river.
 
    When the two famous swords, Ch‛un Kou and Yu Chang,<span
-id="fr_18"></span>[18](tgln1.htm#8_note_18) were first put in the
+id="fr_18"></span>[18](tgln1.htm#8_note_18.md) were first put in the
 furnace, they could neither
 
 |                            |
@@ -575,7 +575,7 @@ to the world, he, though not stupid by nature, yet could never have much
 knowledge.
 
    In ancient times Tsang Hsieh invented the written character. Yung
-Ch‛eng,<span id="fr_19"></span>[19](tgln1.htm#8_note_19) made charts of
+Ch‛eng,<span id="fr_19"></span>[19](tgln1.htm#8_note_19.md) made charts of
 the heavenly
 
 |                                    |
@@ -583,10 +583,10 @@ the heavenly
 | **Progress depends on education.** |
 
 bodies and almanacs; Hu Ts‛ao<span
-id="fr_20"></span>[20](tgln1.htm#8_note_20) was the creator of clothes;
+id="fr_20"></span>[20](tgln1.htm#8_note_20.md) was the creator of clothes;
 Hou Chi invented the System of agriculture; I Ti<span
-id="fr_21"></span>[21](tgln1.htm#8_note_21) made wine; Hsi Chung<span
-id="fr_22"></span>[22](tgln1.htm#8_note_22) was the creator of
+id="fr_21"></span>[21](tgln1.htm#8_note_21.md) made wine; Hsi Chung<span
+id="fr_22"></span>[22](tgln1.htm#8_note_22.md) was the creator of
 carriages. These six men in their inventions were divinely gifted, and
 possessed the <span id="page_233">p. 233</span> traditions of the wise.
 The inventions which men have transmitted to posterity could not all
@@ -617,7 +617,7 @@ single mistake. Now,
 | **The trained mind is best.** |
 
 if a person with the penetrating eyes of Li Chu<span
-id="fr_23"></span>[23](tgln1.htm#8_note_23) were to beat the drum or run
+id="fr_23"></span>[23](tgln1.htm#8_note_23.md) were to beat the drum or run
 his fingers over the strings of the harp without any previous practice,
 he would surely fail: his fingers could never run up and down the
 strings correctly. And the secret is that such a proficiency can only be
@@ -686,7 +686,7 @@ and selects capable guides. He animates his life by purity of purpose
 and lofty aims, and breaks off connection with ordinary conventionalism.
 
    How may we know this is true? In olden time Nan Yung Chou<span
-id="fr_24"></span>[24](tgln1.htm#8_note_24) who, being ashamed of
+id="fr_24"></span>[24](tgln1.htm#8_note_24.md) who, being ashamed of
 failure in carrying out the teaching of the Sages, braved the
 inclemencies of weather, travelled over wilds and mountains, pushed his
 
@@ -707,7 +707,7 @@ reputation grew from one age to another, and is not forgotten even
 today. This illustrates the saying: "Merit is gained by exertion."
 
    Wu had a war with Ts‛u. Ta Hsin,<span
-id="fr_25"></span>[25](tgln1.htm#8_note_25) the captain of the hosts, on
+id="fr_25"></span>[25](tgln1.htm#8_note_25.md) the captain of the hosts, on
 going into battle, touched the arm of his aide-de-camp saying, "Today we
 are facing the force of the enemies' naked swords and hurtling darts.
 What if we die,
@@ -722,7 +722,7 @@ That is the great thing! Is it not?" Whereupon he went into battle,
 never hesitating. He was disembowelled and his head struck off. Never
 once did he turn his foot round nor falter in his charge; and so died.
 
-   Shen Pao Hsü,<span id="fr_26"></span>[26](tgln1.htm#8_note_26) on the
+   Shen Pao Hsü,<span id="fr_26"></span>[26](tgln1.htm#8_note_26.md) on the
 other hand, felt that were he to use his bodily strength in facing a
 terrible enemy, and by shedding his blood fall a corpse, it would be no
 more than what an ordinary infantryman could do. So he adopted a most
@@ -763,7 +763,7 @@ carefully: he never avoids any trouble: he always confronts every
 crisis.
 
    I have heard that Wen Tzŭ Fa<span
-id="fr_27"></span>[27](tgln1.htm#8_note_27) (General of Ts‛u) went to
+id="fr_27"></span>[27](tgln1.htm#8_note_27) (General of Ts‛u.md) went to
 the war forthright, straight as an arrow. His strategy was superb. His
 convergence of troops was like the roar of thunder: his deployment of
 them like the wind and rain. He wheeled troops into circles
@@ -817,29 +817,29 @@ in principles are not to be moved by any unusual portent. Persons who
 can weigh words are not moved by mere names. Persons who see into the
 heart of things are not to be deceived by appearances. Many men of the
 world esteem what is ancient and despise the modern, hence, plausible
-speakers<span id="fr_29"></span>[29](tgln1.htm#8_note_29) make use of
+speakers<span id="fr_29"></span>[29](tgln1.htm#8_note_29.md) make use of
 the authority of the God of Agriculture, or Huang Ti, to gain an
 entrance into men's minds. Ignorant rulers of an anarchical age magnify
 these sources of antiquity and honour the speakers by giving them
 office. Scholars, confused by traditional hearing, captivated by the
 authority of distinguished names, reverently sit down, and, adjusting
 their dress, (parrot like) repeat (traditional truisms)—and chant
-them.<span id="fr_30"></span>[30](tgln1.htm#8_note_30) It is clear that
+them.<span id="fr_30"></span>[30](tgln1.htm#8_note_30.md) It is clear that
 they lack the power of clear discrimination to judge a work on its
 merits. A person with the genius of Hsi Chung<span
-id="fr_31"></span>[31](tgln1.htm#8_note_31) could not shape things into
+id="fr_31"></span>[31](tgln1.htm#8_note_31.md) could not shape things into
 round and square without rule and compass: though he were a Luh
-Pan,<span id="fr_32"></span>[32](tgln1.htm#8_note_32) he could never
+Pan,<span id="fr_32"></span>[32](tgln1.htm#8_note_32.md) he could never
 shape things into straight and angular, without line and square. It was
 because there was no one left to appreciate his music, after the death
-of Chung Tzu Ch‛i,<span id="fr_33"></span>[33](tgln1.htm#8_note_33) that
-Pei Ya<span id="fr_34"></span>[34](tgln1.htm#8_note_34) snapped the
+of Chung Tzu Ch‛i,<span id="fr_33"></span>[33](tgln1.htm#8_note_33.md) that
+Pei Ya<span id="fr_34"></span>[34](tgln1.htm#8_note_34.md) snapped the
 string and smashed his violin and played no longer. Chuang Tzŭ<span
-id="fr_35"></span>[35](tgln1.htm#8_note_35) uttered no more oracles
+id="fr_35"></span>[35](tgln1.htm#8_note_35.md) uttered no more oracles
 after the death of Hui Shih,<span
-id="fr_36"></span>[36](tgln1.htm#8_note_36) because there was no
+id="fr_36"></span>[36](tgln1.htm#8_note_36.md) because there was no
 appreciative hearer left to him in the world. Hsiang T‛o,<span
-id="fr_37"></span>[37](tgln1.htm#8_note_37) a child of seven years, was
+id="fr_37"></span>[37](tgln1.htm#8_note_37.md) a child of seven years, was
 a teacher of Confucius who paid heed to his words. A youth speaking to
 an elder generally gets his face slapped; but this boy was saved a
 castigation by the wisdom of his words.
@@ -859,9 +859,9 @@ they enjoyed it. But hearing later it was monkey's broth, they vomited
 it all up. The symptom was governed by mental conditions.
 
    The musician, Han Tan,<span
-id="fr_38"></span>[38](tgln1.htm#8_note_38) composed a new tune, giving
+id="fr_38"></span>[38](tgln1.htm#8_note_38.md) composed a new tune, giving
 out it was the creation of Li Ch‛i.<span
-id="fr_39"></span>[39](tgln1.htm#8_note_39) Everybody strove to learn
+id="fr_39"></span>[39](tgln1.htm#8_note_39.md) Everybody strove to learn
 it. But on hearing later that it was not his creation, they gave it up.
 They really didn't judge from its merit as music. They hadn't the taste
 for that. They were enamoured of a name. A rustic found a rough jade and
@@ -897,7 +897,7 @@ in his instrument rather than merely a celebrated name such as Lan
 Hsieh, Hao Chung. What a rider wants is a horse that can do a 1,000 *li*
 a day, not mere famous names. A poet or scholar wants reason and solid
 matter in his books and not merely names such as Hung Fan and Shang
-Sung.<span id="fr_40"></span>[40](tgln1.htm#8_note_40) The Sage
+Sung.<span id="fr_40"></span>[40](tgln1.htm#8_note_40.md) The Sage
 discriminates between the true and false in literature, just as his eye
 distinguishes light and dark, or as the ear discriminates bass from
 tenor. But not so the multitude. It is not governed by any real standard
@@ -1020,7 +1020,7 @@ This, then, is the lesson.
 
 ------------------------------------------------------------------------
 
-[Next](tgln1)
+[Next](tgln1.md)
 
  
 

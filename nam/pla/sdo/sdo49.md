@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo48)  [Next](sdo50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo48)  [Next](sdo50.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ things he may pray to the evil *Wakan*.
 
 ------------------------------------------------------------------------
 
-[Next: Wakan Tanka](sdo50)
+[Next: Wakan Tanka](sdo50.md)

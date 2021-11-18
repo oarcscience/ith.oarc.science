@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp08)  [Next](ptp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp08)  [Next](ptp10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -285,12 +285,12 @@ fervent
 
 <span id="img_07200"></span> <span align="CENTER"> [![Pope St. Leo
 IV.](tn/07200.jpg)  
-Click to enlarge](img/07200.jpg)  
+Click to enlarge](img/07200.jpg.md)  
 Pope St. Leo IV.  
 </span>
 
 <span class="small">He crowned Alfred the Great. See pages
-[74](#page_74) to [76](#page_76).</span>
+[74](#page_74) to [76](#page_76.md).</span>
 
 <span id="page_73">p. 73</span>
 
@@ -695,7 +695,7 @@ terrible passions, and with the consent of the new Pope, there was
 enacted a dreadful drama of revenge. The decaying body of Formosus was
 disinterred and once again dressed in the gorgeous robes of a presiding
 Pontiff. Before the gloating eyes of Agiltrude the corpse was propped
-upon a throne around which a conscienceless [assemblage](errata.htm#2)
+upon a throne around which a conscienceless [assemblage](errata.htm#2.md)
 of clergy took their places and went through the motions of a trial. A
 defender and prosecutor played their parts in the awful farce and a
 judgment was pronounced which declared the pontificate of Formosus to
@@ -766,4 +766,4 @@ had lasted two years.
 
 ------------------------------------------------------------------------
 
-[Next: Tenth Century](ptp10)
+[Next: Tenth Century](ptp10.md)

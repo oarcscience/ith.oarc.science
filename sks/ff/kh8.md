@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../kh8/kh8) 
-[Previous](kr3)  [Next](cor) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../kh8/kh8.md) 
+[Previous](kr3)  [Next](cor.md) 
 
 ------------------------------------------------------------------------
 
@@ -4234,4 +4234,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Tragedie of Coriolanus](cor) 
+[Next: The Tragedie of Coriolanus](cor.md) 

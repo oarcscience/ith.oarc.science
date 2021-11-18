@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Next](laot01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Next](laot01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -50,11 +50,11 @@ intact in all copies.
 <span id="img_front"></span> <span align="CENTER"> [![Frontispiece to
 Vol. I: APOLLONIUS OF TYANA (?).&lt;br&gt; &lt;i&gt;BUST IN THE
 CAPITOLINE MUSEUM, ROME&lt;/i&gt;.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece to Vol. I: APOLLONIUS OF TYANA (?).  
 *BUST IN THE CAPITOLINE MUSEUM, ROME*.  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Contents](laot01)
+[Next: Contents](laot01.md)

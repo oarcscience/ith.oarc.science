@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-03in) [Next](dob-04in)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-03in) [Next](dob-04in.md)
 
 ------------------------------------------------------------------------
 
@@ -24,9 +24,9 @@ with power over it as if he were the king{1}.
 
 {1. So Buddhaghosa; but he gives no further details as to the terms; of
 the grant, or of the tenancy. The whole string of adjectives recurs
-below, pp. [111](dob-04tx.htm#text%20p.%20111),
-[114](dob-04tx.htm#text%20p.%20114),
-[127](dob-05tx.htm#text%20p.%20127), [131](dob-05tx.htm#text%20p.%20134)
+below, pp. [111](dob-04tx.htm#text%20p.%20111.md),
+[114](dob-04tx.htm#text%20p.%20114.md),
+[127](dob-05tx.htm#text%20p.%20127), [131](dob-05tx.htm#text%20p.%20134.md)
 {see note 1 for the last ref.} of the text, and râ*g*a-bhogga*m* at Vin.
 III, 222. Compare Divyâvadâna, p. 620.
 
@@ -46,7 +46,7 @@ means literally 'a full gift.'
 
 2\. His full name was Pokkharasâdi Opama*ññ*o Subhagavaniko (M. II,
 200); where the second is the gotta (*gens*) name and the third a local
-name. See the [Introduction to the Mahâli Sutta](dob-06in).}
+name. See the [Introduction to the Mahâli Sutta](dob-06in.md).}
 
 <span id="p. 109">{p. 109}</span>
 
@@ -119,8 +119,8 @@ has--the Wheel, the Elephant, the Horse, the Gem, the Woman, the
 Treasurer, and the
 
 {1. This is the standing description in the Suttas of a learned Brahman.
-See below, pp. [114](dob-04tx.htm#text%20p.%20114),
-[120](dob-04tx.htm#text%20p.%20120) (of the text); A. I, 163; Mil. 10;
+See below, pp. [114](dob-04tx.htm#text%20p.%20114.md),
+[120](dob-04tx.htm#text%20p.%20120) (of the text.md); A. I, 163; Mil. 10;
 Divyâvadâna 620, &c. One or two of the details are not quite certain, as
 yet.
 
@@ -131,7 +131,7 @@ such list has been found, so far as I know, in those portions of the
 pre-Buddhistic priestly literature that have survived. And the inference
 from both our passages is that the knowledge is scattered through the
 Brahman texts. Many of the details of the Buddhist list (see the note
-below on [p. 106](#text%20p.%20106) of the text) are very obscure; and a
+below on [p. 106](#text%20p.%20106) of the text.md) are very obscure; and a
 collection of the older Brahman passages would probably throw light upon
 them, and upon a curious chapter in mythological superstition. Who will
 write us a monograph (historical of course) on the Mahâ-purusha theory
@@ -257,7 +257,7 @@ the context and by the derivation.
 where a clan mote was held, and is used exclusively of places for the
 assemblies of the householders in the free republics of Northern Kosala.
 It never means a royal rest house, which is râ*g*âgâraka, as we had
-above ([p. 1](dob-01tx.htm#p.%202), § 2 of the Pâli text). Thus at M. I,
+above ([p. 1](dob-01tx.htm#p.%202), § 2 of the Pâli text.md). Thus at M. I,
 353, 4 and *G*ât. IV, 147 we have this identical hall of the Sâkyas at
 Kapilavatthu, and at M. I, 457 a similar one of the Sâkyas at
 *K*âtumâya; at M. P. V, 56 (VI, 23 of the translation in my 'Buddhist
@@ -728,13 +728,13 @@ wisdom and in conduct,'
 
    *The introductory paragraphs* (§§ 40-42 *of the Sâma*ññ
 
-a-phala, [pp. 62, 63](dob-02tx.htm#text%20p.%2062) *of the text*) *on
+a-phala, [pp. 62, 63](dob-02tx.htm#text%20p.%2062) *of the text*.md) *on
 the appearance of a Buddha, his preaching, the conversion of a hearer,
 and his renunciation of the world: then come*
 
    1.
 
-The Sîlas, above, [pp. 4-12](dob-01tx.htm#text%20p.%204) (§§ 8-27) *of
+The Sîlas, above, [pp. 4-12](dob-01tx.htm#text%20p.%204) (§§ 8-27.md) *of
 the text, Only the refrain differs, It runs here, at the end of each
 clause, through the whole of this repeated passage: 'This is reckoned in
 him as morality.'*
@@ -750,38 +750,38 @@ the word bhikkhu.}</span>
 
    2.
 
-The paragraph on Confidence, above, [p. 69](dob-02tx.htm#text%20p.%2069)
+The paragraph on Confidence, above, [p. 69](dob-02tx.htm#text%20p.%2069.md)
 *of the text,* § 63. *The refrain from here onwards is: 'This is
 reckoned to him as conduct.'*
 
    3.
 
 The paragraph on 'Guarded is the door of his senses,' above, [p.
-70](dob-02tx.htm#text%20p.%2070) *of the text,* § 64.
+70](dob-02tx.htm#text%20p.%2070.md) *of the text,* § 64.
 
    4.
 
 The paragraph on 'Mindful and self-possessed,' above, [p.
-70](dob-02tx.htm#text%20p.%2070) *of the text,* § 65.
+70](dob-02tx.htm#text%20p.%2070.md) *of the text,* § 65.
 
    5.
 
-The paragraph on Content, above, [p. 71](dob-02tx.htm#text%20p.%2071)
+The paragraph on Content, above, [p. 71](dob-02tx.htm#text%20p.%2071.md)
 *of the text,* § 66.
 
    6.
 
-The paragraph on Solitude, above, [p. 71](dob-02tx.htm#text%20p.%2071)
+The paragraph on Solitude, above, [p. 71](dob-02tx.htm#text%20p.%2071.md)
 *of the text,* § 67.
 
    7.
 
 The paragraphs on the Five Hindrances, above, [pp.
-71-2](dob-02tx.htm#text%20p.%2071) *of the text,* §§ 68-74.
+71-2](dob-02tx.htm#text%20p.%2071.md) *of the text,* §§ 68-74.
 
    8. *The paragraphs on the Four Rapt Contemplations*{1}
 
-, above, [pp. 73-76](dob-02tx.htm#text%20p.%2073), §§ 75-82. *The
+, above, [pp. 73-76](dob-02tx.htm#text%20p.%2073.md), §§ 75-82. *The
 refrain at the end of each of them ('higher and better than the last')
 is here, of course, to be read not as higher fruit of the life of a
 recluse, but as higher conduct.*
@@ -793,25 +793,25 @@ recluse, but as higher conduct.*
    9. *The paragraphs on Insight arising from Knowledge*
 (*N*â*n*a-dassana*m*)
 
-, above, [p. 76](dob-02tx.htm#text%20p.%2076) *of the text,* §§ 83, 84.
+, above, [p. 76](dob-02tx.htm#text%20p.%2076.md) *of the text,* §§ 83, 84.
 *The refrain from here onwards is: 'This is reckoned in him as wisdom,
 and it is higher and sweeter than the last.'*
 
    10.
 
 The paragraphs on the Mental Image, above, [p.
-77](dob-02tx.htm#text%20p.%2077) *of the text,* §§ 85, 86.
+77](dob-02tx.htm#text%20p.%2077.md) *of the text,* §§ 85, 86.
 
    11. *The paragraphs on Mystic Gifts* (Iddhi)
 
-, above, [p. 77](dob-02tx.htm#text%20p.%2077) *of the text,* § 87, 88.
+, above, [p. 77](dob-02tx.htm#text%20p.%2077.md) *of the text,* § 87, 88.
 
    12. *The paragraphs on the Heavenly Ear* (Dibbasota). *above,* [p.
-79](dob-02tx.htm#text%20p.%2079) *of the text,* §§ 89, 90.
+79](dob-02tx.htm#text%20p.%2079.md) *of the text,* §§ 89, 90.
 
    13. *The paragraphs on Knowledge of the hearts of others*
 (*K*eto-pariya-*ñ*â*n*a*m*)*, above,* [p.
-79](dob-02tx.htm#text%20p.%2079) *of the text,* §§ 91, 92.
+79](dob-02tx.htm#text%20p.%2079.md) *of the text,* §§ 91, 92.
 
    14. *The paragraphs on Memory of one's own previous*
 
@@ -821,14 +821,14 @@ not under wisdom, but under conduct.}</span>
 <span id="p. 125">{p. 125}</span>
 
 *births (Pubbe-nivâsa-anussati-*ñ*â*n*a), above, [p.
-81](dob-02tx.htm#text%20p.%2081) of the text,* §§ 93, 94.
+81](dob-02tx.htm#text%20p.%2081.md) of the text,* §§ 93, 94.
 
    15. *The paragraph on the Divine Eye* (Dibba*k*akkhu), *above,* [p.
-82](dob-02tx.htm#text%20p.%2082) *of the text,* § 95, 96.
+82](dob-02tx.htm#text%20p.%2082.md) *of the text,* § 95, 96.
 
    16. *The paragraphs on the Destruction of the Deadly Floods*
 (Âsavâna*m* khaya-*ñ*â*n*a*m*)*, above,* [p.
-83](dob-02tx.htm#text%20p.%2083) *of the text,* §§ 97, 98{1}.\]
+83](dob-02tx.htm#text%20p.%2083.md) *of the text,* §§ 97, 98{1}.\]
 
 ------------------------------------------------------------------------
 
@@ -1028,7 +1028,7 @@ teacher too, do now?'
    'Or were they waited upon by women with fringes
 
 <span class="small">{1. On these names see Tevi*gg*a Sutta [I,
-13](dob-13tx.htm#p.%20304) (p. 172 of my 'Buddhist Suttas') and 'Vinaya
+13](dob-13tx.htm#p.%20304) (p. 172 of my 'Buddhist Suttas'.md) and 'Vinaya
 Texts,' II, 130.}</span>
 
 <span id="p. 130">{p. 130}</span>
@@ -1115,7 +1115,7 @@ what is inferred.
 
 2\. These are two of the thirty-two bodily marks of a Great Being
 (Mahâ-purisa), as handed down among the Brahmans (see note above, [p.
-88](#text%20p.%2088) of the text, § 5) and adopted by the Buddhists.
+88](#text%20p.%2088) of the text, § 5.md) and adopted by the Buddhists.
 They are in part adaptations to a man of poetical epithets applied to
 the sun, or to the personification of the mystic human sacrifice; partly
 characteristics of personal beauty such as any man might have; and one
@@ -1256,7 +1256,7 @@ him.
    21. Then to him thus seated <span id="text p. 110">\[110\]</span> the
 Blessed One
 
-{1. Above, [p. 106](#text%20p.%20106) of the text, § 12 repeated.
+{1. Above, [p. 106](#text%20p.%20106.md) of the text, § 12 repeated.
 
 2\. Onîta-patta-pâ*n*i*m*. See the note at 'Vinaya Texts,' I, 83.}
 
@@ -1310,5 +1310,5 @@ Here ends the Amba*tth*a Sutta.
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Introduction to the So*n*ada*nd*a
-Sutta](dob-04in)
+[Return to top](#top.md)   [Next: Introduction to the So*n*ada*nd*a
+Sutta](dob-04in.md)

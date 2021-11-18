@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](lmbg5a)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](lmbg5a.md)
 
 ------------------------------------------------------------------------
 
@@ -1939,8 +1939,8 @@ And think kindly of those whose old tales we have heard.<br />
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Native American](../../index) [South
-American](../index)
+[Sacred-Texts](../../index) [Native American](../../index.md) [South
+American](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -1948,16 +1948,16 @@ American](../index)
 
 <span id="footnotes_page_171">p. 171</span>
 
-<span id="page_171_note_1"></span>[1](#page_171_fr_1) The frog chorus in
+<span id="page_171_note_1"></span>[1](#page_171_fr_1.md) The frog chorus in
 this legend, when taken up by the native audience, all admirable mimics,
 has a most amusing effect.
 
 <span id="footnotes_page_175">p. 175</span>
 
-<span id="page_175_note_1"></span>[1](#page_175_fr_1) "Bernau's
+<span id="page_175_note_1"></span>[1](#page_175_fr_1.md) "Bernau's
 Missionary Labours," p. 167.
 
-<span id="page_175_note_2"></span>[2](#page_175_fr_2) The tiger slayer,
+<span id="page_175_note_2"></span>[2](#page_175_fr_2.md) The tiger slayer,
 a Carib, and the snake-catcher, an Arawâk, are not mythical personages.
 They belonged to the last generation, and both became Christian
 converts. The former would attack any jaguar, and cleave his skull with
@@ -1967,14 +1967,14 @@ writer was an eye-witness.
 
 <span id="footnotes_page_176">p. 176</span>
 
-<span id="page_176_note_1"></span>[1](#page_176_fr_1) An Araidai, or
+<span id="page_176_note_1"></span>[1](#page_176_fr_1.md) An Araidai, or
 goblin of the woods, who had become dissatisfied with his coarse and
 matted locks, and wished them to be made like those of human beings.
 Pahndun, a captive, undertook to gratify him, with the above result.
 
 <span id="footnotes_page_178">p. 178</span>
 
-<span id="page_178_note_1"></span>[1](#page_178_fr_1) From the "Ebesōtu"
+<span id="page_178_note_1"></span>[1](#page_178_fr_1.md) From the "Ebesōtu"
 (*changed* or *transformed*), heroine of the above legend, the Ebesoana
 (Arawâk family) take their name.
 
@@ -1983,7 +1983,7 @@ individual was permitted to marry another of the same family name.
 
 <span id="footnotes_page_179">p. 179</span>
 
-<span id="page_179_note_1"></span>[1](#page_179_fr_1) From the above
+<span id="page_179_note_1"></span>[1](#page_179_fr_1.md) From the above
 union, the existing Demaréna (Arawâk family) are supposed to have
 sprung. They bear, of course, their mother's family name; and in ancient
 days considered it "the correct thing," in accordance with the legend,
@@ -2005,7 +2005,7 @@ universal amongst the aboriginal races of Guiana: of a *descent* from a
 
 <span id="footnotes_page_181">p. 181</span>
 
-<span id="page_181_note_1"></span>[1](#page_181_fr_1) "Walyarima" is the
+<span id="page_181_note_1"></span>[1](#page_181_fr_1.md) "Walyarima" is the
 name of the animal whose appearance was assumed by the lover while
 swimming the river. "To-eyborōri" and "To-eyza" are titles, denoting
 authority, masculine and feminine respectively. The *proper names* seem
@@ -2013,7 +2013,7 @@ to have been lost in the lapse of years.
 
 <span id="footnotes_page_186">p. 186</span>
 
-<span id="page_186_note_1"></span>[1](#page_186_fr_1) This agrees with
+<span id="page_186_note_1"></span>[1](#page_186_fr_1.md) This agrees with
 the old legends, told to Raleigh and others. But many Indians now say
 that the male infants were *always* destroyed, and their fathers warned
 *not to return*, on pain of death.
@@ -2039,22 +2039,22 @@ and the writer has, in his researches, come upon various legends (both
 tragical and comical) founded on the *scarcity of wives*, after their
 (supposed) terrible Exodus.
 
-<span id="page_187_note_1"></span>[1](#page_187_fr_1) The spotted "arua"
+<span id="page_187_note_1"></span>[1](#page_187_fr_1.md) The spotted "arua"
 (or harua) of the Arawâks, spelt *jaguar* by the Spanish discoverers, is
 commonly called "tiger" by the colonists who frequent the bush. It is
 called "tobi" by the Waraus, and "kaikusi" by the Caribs and Acawoios.
 
 <span id="footnotes_page_189">p. 189</span>
 
-<span id="page_189_note_1"></span>[1](#page_189_fr_1) The great comet of
+<span id="page_189_note_1"></span>[1](#page_189_fr_1.md) The great comet of
 1843.
 
-<span id="page_189_note_2"></span>[2](#page_189_fr_2) The great demon of
+<span id="page_189_note_2"></span>[2](#page_189_fr_2.md) The great demon of
 darkness, who causes eclipses.
 
 <span id="footnotes_page_190">p. 190</span>
 
-<span id="page_190_note_1"></span>[1](#page_190_fr_1) The native ideas
+<span id="page_190_note_1"></span>[1](#page_190_fr_1.md) The native ideas
 respecting the constellations differ widely from ours. For instance, the
 Southern Cross is supposed, by many clans, to represent a "paui" bird
 resting on a tree. The star, *Beta Centauri*, is a hunter stealthily
@@ -2066,19 +2066,19 @@ here, is the most interesting specimen.
 
 <span id="footnotes_page_199">p. 199</span>
 
-<span id="page_199_note_1"></span>[1](#page_199_fr_1) The Pleiades.
+<span id="page_199_note_1"></span>[1](#page_199_fr_1.md) The Pleiades.
 
-<span id="page_199_note_2"></span>[2](#page_199_fr_2) The Hyades
+<span id="page_199_note_2"></span>[2](#page_199_fr_2.md) The Hyades
 represent the tapir's head. The red eye is Aldebaran.
 
 <span id="footnotes_page_200">p. 200</span>
 
-<span id="page_200_note_1"></span>[1](#page_200_fr_1) The constellation
+<span id="page_200_note_1"></span>[1](#page_200_fr_1.md) The constellation
 Orion: Rigel indicating the upper part of the sound limb.
 
 <span id="footnotes_page_201">p. 201</span>
 
-<span id="page_201_note_1"></span>[1](#page_201_fr_1) This great fall is
+<span id="page_201_note_1"></span>[1](#page_201_fr_1.md) This great fall is
 822 feet in total height, by 369 feet in width. Its upper part is 741
 feet perpendicular.
 

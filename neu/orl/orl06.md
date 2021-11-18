@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl05)  [Next](orl07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl05)  [Next](orl07.md) 
 
 ------------------------------------------------------------------------
 
@@ -917,4 +917,4 @@ Till other strain the issue of the fray.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 7](orl07)
+[Next: Canto 7](orl07.md)

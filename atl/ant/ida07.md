@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida06)  [Next](ida08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida06)  [Next](ida08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -96,7 +96,7 @@ which is almost impermeable, rain will roll like a pail of water thrown
 on a bituminous pavement. No depth, all height. Look at this."
 
 And I showed him, a dozen meters high, long hollow gouges, marks of
-former [erosions](errata.htm#3) on the rocky wall.
+former [erosions](errata.htm#3.md) on the rocky wall.
 
 "In an hour the waters will reach that height. Those are the marks of
 the last inundation. Let us get started. There is not an instant to
@@ -139,7 +139,7 @@ I have never better appreciated the incomparable surefootedness of
 camels in the most precipitate places. Bracing themselves, stretching
 out their great legs, balancing themselves among the rocks that were
 beginning to be swept loose, our camels accomplished at that moment what
-the mules of the [Pyrenees](errata.htm#4) might have failed in.
+the mules of the [Pyrenees](errata.htm#4.md) might have failed in.
 
 After several moments of superhuman effort we found ourselves at last
 out of danger, on a kind of basaltic terrace, elevated some fifty meters
@@ -230,7 +230,7 @@ The characters of the inscription were arranged in the form of a cross.
 It plays such an important part in this adventure that I cannot forego
 retracing it for you.
 
-<span id="img_07600"></span> ![inscription](img/07600.jpg)
+<span id="img_07600"></span> ![inscription](img/07600.jpg.md)
 
 <span id="page_77">p. 77</span>
 
@@ -439,7 +439,7 @@ that such precise questions on the affairs of Ahygar were not to his
 liking.
 
 "The Kel-Tahats, if I am not mistaken, are established on the southwest
-flank of Atakor.' <span id="fr_4"></span>[1](#fn_4) What
+flank of Atakor.' <span id="fr_4"></span>[1](#fn_4.md) What
 
 <span id="page_83">p. 83</span>
 
@@ -483,9 +483,9 @@ hour of vain pursuit, Bou-Djema had returned to us.
 
 ### Footnotes
 
-<span id="fn_4"></span>[82:1](ida07.htm#fr_4) Another name, in the
+<span id="fn_4"></span>[82:1](ida07.htm#fr_4.md) Another name, in the
 Temahaq language, for Ahaggar. (Note by M. Leroux.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Disaster of the Lettuce](ida08)
+[Next: Chapter VI. The Disaster of the Lettuce](ida08.md)

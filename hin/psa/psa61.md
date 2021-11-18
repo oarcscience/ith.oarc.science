@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa60)  [Next](psa62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa60)  [Next](psa62.md) 
 
 ------------------------------------------------------------------------
 
@@ -272,7 +272,7 @@ I will form my plans after receipt of his reply."
 Narud Jee, O great king! having heard this request of Shree Krishnù
 Chund, went to the lord of the gods, and said, "Sutbhama, your brother's
 wife, solicits from you the tree Kulpù. Tell me what answer I am to take
-back from you to this [request](errata.htm#14)." When Indrù had heard
+back from you to this [request](errata.htm#14.md)." When Indrù had heard
 what Narud said, he was at first confused and thoughtful; and afterwards
 went and mentioned to Indranee all that Narud, the sage, had said.
 Indranee, on hearing the account, was angry, and said, Your dulness of
@@ -345,4 +345,4 @@ and diversions.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXI](psa62)
+[Next: Chapter LXI](psa62.md)

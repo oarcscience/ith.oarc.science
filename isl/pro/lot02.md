@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](lot01)  [Next](lot03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](lot01)  [Next](lot03.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ oppressor of (His) bondmen.
 ------------------------------------------------------------------------
 
 [Next: Presenting His Daughters to The People of His Village and His
-Wife Conditions](lot03)
+Wife Conditions](lot03.md)
 
 </div>
 

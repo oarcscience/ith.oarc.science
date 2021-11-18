@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst105)  [Next](inst107) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst105)  [Next](inst107.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ Beveridge \[1845\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Index of Scripture References](inst107)
+[Next: Index of Scripture References](inst107.md)

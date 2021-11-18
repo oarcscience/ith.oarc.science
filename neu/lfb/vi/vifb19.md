@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb18)  [Next](vifb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb18)  [Next](vifb20.md) 
 
 </div>
 
@@ -295,7 +295,7 @@ horse.
 'Why should it do that?'
 
 'These flowers are under a curse. Whoever plucks them must fight the
-Welwa <span id="fr_0"></span>[1](#fn_0) of the woods.'
+Welwa <span id="fr_0"></span>[1](#fn_0.md) of the woods.'
 
 'What kind of a goblin is the Welwa?'
 
@@ -517,7 +517,7 @@ At the same instant the horse stood still of itself.
 'But why should it?'
 
 'We are going to enter the kingdom of the goddess Mittwoch, <span
-id="fr_1"></span>[2](#fn_1) and the further we ride into it the colder
+id="fr_1"></span>[2](#fn_1.md) and the further we ride into it the colder
 we shall get. But all along the road there are huge fires, and I dread
 lest you should stop and warm yourself at them.'
 
@@ -1033,15 +1033,15 @@ brothers, they never returned again.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](vifb19.htm#fr_0) A goblin.
+<span id="fn_0"></span>[1](vifb19.htm#fr_0.md) A goblin.
 
-<span id="fn_1"></span>[2](vifb19.htm#fr_1) In German 'Mittwoch,' the
+<span id="fn_1"></span>[2](vifb19.htm#fr_1.md) In German 'Mittwoch,' the
 feminine form of Mercury.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Enchanted Knife](vifb20)
+[Next: The Enchanted Knife](vifb20.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](yvhf14)  [Next](yvhf16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](yvhf14)  [Next](yvhf16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Vashisht or Heaven Found*, by Rishi Singh Gherwal, \[1930\], at
 Intangible Textual Heritage
 
@@ -17,8 +17,8 @@ Intangible Textual Heritage
 
 #### ASOKA'S MESSAGE TO HIS PEOPLE
 
-Asoka, the Great, ruled [India](errata.htm#27) from 222 to 260 B. C.,
-embraced the [Buddhist](errata.htm#28) religion, and spread it over
+Asoka, the Great, ruled [India](errata.htm#27.md) from 222 to 260 B. C.,
+embraced the [Buddhist](errata.htm#28.md) religion, and spread it over
 India and far beyond the limits of India. "If a man's fame," says Kopen,
 "can be measured, by the number of lips that have mentioned and still
 mention him with honor, Asoka is more famous than Charlemagne or
@@ -86,7 +86,7 @@ Gentle teaching, soft persuasion,
      Touch the people's heart.  
 Hence, I carve this loving edict,  
      Speak these maxims, pure,—  
-Future [kings](errata.htm#29) shall work as long as  
+Future [kings](errata.htm#29.md) shall work as long as  
      Sun and moon endure!
 
 Since I won my father's empire,—  
@@ -97,7 +97,7 @@ Where ’tis writ on stony pillar,
      In this empire, vast,  
 Unto far and distant ages  
      May this Edict last!"  
-                       Pillar Edict, [viii](errata.htm#30).
+                       Pillar Edict, [viii](errata.htm#30.md).
 
 </div>
 
@@ -203,4 +203,4 @@ Om! Om! Om!
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](yvhf16)
+[Next: Advertisements](yvhf16.md)

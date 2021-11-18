@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc14)  [Next](bosc16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc14)  [Next](bosc16.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ in life, thus making public demonstration of their sorrow.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. The Immortality of the Soul](bosc16)
+[Next: Chapter XIV. The Immortality of the Soul](bosc16.md)

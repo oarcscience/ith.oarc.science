@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb15)  [Next](blfb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb15)  [Next](blfb17.md) 
 
 </div>
 
@@ -358,6 +358,6 @@ happily ever after.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: The White Cat](blfb17)
+[Next: The White Cat](blfb17.md)
 
 </div>

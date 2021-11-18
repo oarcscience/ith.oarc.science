@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai20)  [Next](kwai22) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai20)  [Next](kwai22.md) 
 
 ------------------------------------------------------------------------
 
@@ -512,4 +512,4 @@ system of ethics fundamentally opposed to human egoism.
 
 ------------------------------------------------------------------------
 
-[Next: Notes](kwai22)
+[Next: Notes](kwai22.md)

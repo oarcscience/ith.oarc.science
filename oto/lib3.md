@@ -1,5 +1,5 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Sacred texts](../index)  [Thelema](index) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Sacred texts](../index)  [Thelema](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ obedient to the Man.
 
 3\. Nothing shall be said here of Cerberus, the great Beast of Hell that
 is every one of these and all of these, even as Athanasius hath
-foreshadowed. For this matter [**1**](#1) is not of Tiphereth without,
+foreshadowed. For this matter [**1**](#1.md) is not of Tiphereth without,
 but Tiphereth within.
 
 **I.**
@@ -97,7 +97,7 @@ others.
 \(b\) By some device, such as the changing of thy ring from one finger
 to another, create in thyself two personalities, the thoughts of one
 being within entirely different limits from that of the other, the
-common ground being the necessities of life.[**2**](#2)
+common ground being the necessities of life.[**2**](#2.md)
 
 Of thine own Ingenium devise others.
 

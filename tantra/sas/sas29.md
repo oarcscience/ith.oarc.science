@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas28)  [Next](sas30)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas28)  [Next](sas30.md)  
 
 ------------------------------------------------------------------------
 
@@ -815,4 +815,4 @@ received.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Thirty: Conclusions](sas30)
+Next: [Chapter Thirty: Conclusions](sas30.md)

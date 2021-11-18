@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll23.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ It was, of course, for the sake of those who, while endowed with the
 stupendous powers of transferring their consciousness from the planet
 Venus to this our earth, and of providing for their use and their work
 while here appropriate vehicles in which to function, were yet pursuing
-the course of their own evolution. <span id="fr_22"></span>[1](#fn_22)
+the course of their own evolution. <span id="fr_22"></span>[1](#fn_22.md)
 For their sake it was--for the sake of those who, having entered the
 Path, had only reached the lower grades, that this Lodge of Initiation
 was founded.
@@ -54,7 +54,7 @@ God.
 
 ### Footnotes
 
-<span id="fn_22"></span>[43:1](tll24.htm#fr_22) The heights reached by
+<span id="fn_22"></span>[43:1](tll24.htm#fr_22.md) The heights reached by
 them will find their parallel when our humanity will, countless aeons
 hence, have reached the Sixth Round of our chain of worlds, and the same
 transcendent powers will be the possession of ordinary mankind in those

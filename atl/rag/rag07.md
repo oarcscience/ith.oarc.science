@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag06)  [Next](rag08) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag06)  [Next](rag08.md) 
 
 ------------------------------------------------------------------------
 
@@ -205,4 +205,4 @@ of square miles of drift-*débris* which we find enfolding the world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Was It Caused By Continental Ice-Sheets?](rag08)
+[Next: Chapter VI. Was It Caused By Continental Ice-Sheets?](rag08.md)

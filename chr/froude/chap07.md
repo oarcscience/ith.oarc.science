@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index) [Christianity](../index)
-[Pilgrim's Progress](../bunyan/index)  
-[Index](index) [Previous](chap06) [Next](chap08)
+[Intangible Textual Heritage](../../index) [Christianity](../index.md)
+[Pilgrim's Progress](../bunyan/index.md)  
+[Index](index) [Previous](chap06) [Next](chap08.md)
 
 ------------------------------------------------------------------------
 
@@ -682,4 +682,4 @@ Christian.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Holy War](chap08)
+[Next: Chapter VIII. The Holy War](chap08.md)

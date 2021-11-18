@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](sgr01)  [Next](sgr03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](sgr01)  [Next](sgr03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585426016/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585426016/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62XWC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62XWC/internetsacredte.md)
 
 </div>
 
@@ -127,6 +127,6 @@ the most of yourself.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. There is A Science of Getting Rich](sgr03)
+[Next: Chapter 2. There is A Science of Getting Rich](sgr03.md)
 
 </div>

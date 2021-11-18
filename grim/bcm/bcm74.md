@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm73)  [Next](bcm75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm73)  [Next](bcm75.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ prejudice to its companion, which might be serviceable in a number of
 emergencies not, at least technically, illegal.
 
 <span id="img_31100"></span> [![](tn/generic.jpg)  
-Click to view](img/31100.jpg)
+Click to view](img/31100.jpg.md)
 
 According to the *Albertus Parvus Lucii Libellus*, the Hand of Glory is
 indifferently the right or left hand of a criminal who has been
@@ -104,4 +104,4 @@ is also more cleanly.
 
 ------------------------------------------------------------------------
 
-[Next: Section 5: Concerning the Vision of Spirits in the Air](bcm75)
+[Next: Section 5: Concerning the Vision of Spirits in the Air](bcm75.md)

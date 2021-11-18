@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt51)  [Next](pyt53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt51)  [Next](pyt53.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ is over (i.e. protects) the (southern) *’itr.t*-palace;
 
 ------------------------------------------------------------------------
 
-[Next: 50. Texts of Miscellaneous Contents, Utterances 660-669](pyt53)
+[Next: 50. Texts of Miscellaneous Contents, Utterances 660-669](pyt53.md)

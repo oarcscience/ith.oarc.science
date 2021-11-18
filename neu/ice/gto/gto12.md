@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto11)  [Next](gto13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto11)  [Next](gto13.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ rode along the firth.
 <span id="img_03600"></span>
 
 [![FORGING THE SPEAR-HEAD.](tn/03600.jpg)  
-Click to enlarge](img/03600.jpg)  
+Click to enlarge](img/03600.jpg.md)  
 FORGING THE SPEAR-HEAD.  
 
  
@@ -215,4 +215,4 @@ thought that things all went in one and the same way.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Vestein's Slaying](gto13)
+[Next: Chapter VIII. Vestein's Slaying](gto13.md)

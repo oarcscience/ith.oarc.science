@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama606) 
-[Next](kama702) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama606.md) 
+[Next](kama702.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ this purpose should meet them at the time of learning to sing, and in
 places where music is played, and at the houses of other people, and
 then request her mother, through a female friend, or servant, to be
 allowed to unite herself to the man who is most agreeable to her. <span
-id="fr_74"></span>[1](kama101.htm#fn_0)
+id="fr_74"></span>[1](kama101.htm#fn_0.md)
 
 When the daughter of a courtesan is thus given to a man, the ties of
 marriage should be observed for one year, and after that she may do what
@@ -214,7 +214,7 @@ effect as the preceding recipe.
 
 There are also verses on the subject as follows:
 
-'The means <span id="fr_75"></span>[2](kama101.htm#fn_1) of producing
+'The means <span id="fr_75"></span>[2](kama101.htm#fn_1.md) of producing
 love and sexual vigour should be learnt from the science of medicine,
 from the Vedas, from those who are learned in the arts of magic, and
 from confidential relatives. No means should be tried which are doubtful
@@ -227,14 +227,14 @@ good, and approved of by Brahmans, and friends.'
 
 ### Footnotes
 
-<span id="fn_74"></span>[1](#fr_-1) It is a custom of the courtesans of
+<span id="fn_74"></span>[1](#fr_-1.md) It is a custom of the courtesans of
 Oriental countries to give their daughters temporarily in marriage when
 they come of age, and after they have received a education in the Kama
 Sutra ad other arts. Full details are given of this in *Early Ideas*, a
 group of Hindoo stories, collected and collated by Anarya, W. H. Allen
 and Co., London, 1881.
 
-<span id="fn_75"></span>[2](#fr_-1) 'From the earliest times Oriental
+<span id="fn_75"></span>[2](#fr_-1.md) 'From the earliest times Oriental
 authors have occupied themselves about aphrodisiacs. The following note
 on the subject is taken from a translation of the *Hindoo Art of Love*,
 otherwise the *Anunga Runga*, alluded to in the preface of this work,
@@ -249,4 +249,4 @@ wasp.'
 ------------------------------------------------------------------------
 
 [Next: Chapter II. Of The Means of Exciting Desire, and of the Ways of
-Enlarging the Lingam. Miscellaneous Experiments and Receipts](kama702)
+Enlarging the Lingam. Miscellaneous Experiments and Receipts](kama702.md)

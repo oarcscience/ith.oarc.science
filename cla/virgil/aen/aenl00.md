@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](aen00)  [Next](aenl01) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](aen00)  [Next](aenl01.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,4 +7,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Book I](aenl01)
+[Next: Book I](aenl01.md)

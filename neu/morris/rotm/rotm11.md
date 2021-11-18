@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm10)  [Next](rotm12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm10)  [Next](rotm12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -225,6 +225,6 @@ Mountain; but he held his peace, abiding till the winter should be over.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Men Make Oath at Burgstead on the Holy Boar](rotm12)
+[Next: Chapter XI. Men Make Oath at Burgstead on the Holy Boar](rotm12.md)
 
 </div>

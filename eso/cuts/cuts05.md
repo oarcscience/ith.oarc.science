@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cuts04)  [Next](cuts06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cuts04)  [Next](cuts06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIYAY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIYAY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cloud Upon the Sanctuary*, by Karl Eckartshausen, \[1909\], at
 Intangible Textual Heritage
 
@@ -334,4 +334,4 @@ May Peace and the light of the Spirit be with you!
 
 ------------------------------------------------------------------------
 
-[Next: Letter IV](cuts06)
+[Next: Letter IV](cuts06.md)

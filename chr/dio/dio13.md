@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio12)  [Next](dio14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio12)  [Next](dio14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 
 <span id="ii.ii.ii.x-p2"></span>Concerning Sovereign Lord, "Ancient of
 days" in which also, concerning Age and Time <span
-id="fr_53"></span>[54](#fn_53) .
+id="fr_53"></span>[54](#fn_53.md) .
 
 <span id="ii.ii.ii.x-p3"></span>SECTION I.
 
@@ -80,7 +80,7 @@ bounded here by time, shall partake of Eternity, when we have reached
 the Eternity which is imperishable and ever the same. But sometimes
 eternity is celebrated in the Oracles, even as temporal, and time as
 eternal. But if we know them better and more accurately, things
-spiritual <span id="fr_54"></span>[55](#fn_54) are spoken of and denoted
+spiritual <span id="fr_54"></span>[55](#fn_54.md) are spoken of and denoted
 by Eternity, and things subject to generation by time. It is necessary
 then to suppose that things called eternal are not absolutely co-eternal
 with God, Who is before Eternity, but that following unswervingly the
@@ -99,13 +99,13 @@ kingdom of all the Ages. Amen.
 
 ### Footnotes
 
-<span id="fn_53"></span>[109:54](dio13.htm#fr_53) <span
+<span id="fn_53"></span>[109:54](dio13.htm#fr_53.md) <span
 id="ii.ii.ii.x-p2.1"></span>Dulac, p. 226.
 
-<span id="fn_54"></span>[111:55](dio13.htm#fr_54) <span
+<span id="fn_54"></span>[111:55](dio13.htm#fr_54.md) <span
 id="ii.ii.ii.x-p8.1"></span><span id="ii.ii.ii.x-p8.2"></span>τὰ
 ὄντα--actual.
 
 ------------------------------------------------------------------------
 
-[Next: Caput XI.](dio14)
+[Next: Caput XI.](dio14.md)

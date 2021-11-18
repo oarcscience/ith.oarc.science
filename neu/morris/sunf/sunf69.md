@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf68)  [Next](sunf70) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf68)  [Next](sunf70.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -75,6 +75,6 @@ the stead and were joyful together.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXVIII. The Knight of Longshaw Gathereth Force](sunf70)
+[Next: Chapter LXVIII. The Knight of Longshaw Gathereth Force](sunf70.md)
 
 </div>

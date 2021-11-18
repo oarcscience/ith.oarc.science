@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe312)  [Next](prwe314) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe312)  [Next](prwe314.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ rearing of London Bridge upon woolsacks?"
 
 ------------------------------------------------------------------------
 
-[Next: The Last Wolf in England](prwe314)
+[Next: The Last Wolf in England](prwe314.md)

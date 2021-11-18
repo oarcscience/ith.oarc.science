@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm11)  [Next](tsm13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm11)  [Next](tsm13.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ was taken away from her eyes by this fairy to whom she had spoken.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Story of Michael Scott](tsm13)
+[Next: Chapter X. The Story of Michael Scott](tsm13.md)

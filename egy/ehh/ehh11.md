@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh10)  [Next](ehh12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh10)  [Next](ehh12.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ Earth," but there is no doubt that it originally represented
  
 
 <span id="img_12600"></span> [![](tn/generic.jpg)  
-Click to view](img/12600.jpg)  
+Click to view](img/12600.jpg.md)  
 The Boat of the Earth.
 
  
@@ -162,4 +162,4 @@ human beings is nowhere described in the texts.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. Fourth Division of the Tuat. I. The Kingdom of
-Seker According to the Book Am-Tuat](ehh12)
+Seker According to the Book Am-Tuat](ehh12.md)

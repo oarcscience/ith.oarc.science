@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge16) 
-[Next](pge18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge16.md) 
+[Next](pge18.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Aristotle, for instance, paiderastia is almost conspicuous by its
 absence It is true that he speculates upon the Cretan customs in the
 *Politics*, mentions the prevalence of boy-love among the Kelts, and
 incidentally notices the legends of Diocles and Cleomachus; <span
-id="fr_150"></span>[3](#fn_150) but he never discusses the matter as
+id="fr_150"></span>[3](#fn_150.md) but he never discusses the matter as
 fully as might have been expected from a philosopher whose speculations
 covered the whole field of Greek experience. The chapters on *Philia* in
 the *Ethics* might indeed have been written by a modern moralist for
@@ -65,7 +65,7 @@ and gymnasia are excellent institutions in their way, but they have a
 tendency to degrade natural love in man below the level of the beasts.
 Pleasure is only natural when it arises out of the intercourse between
 men and women, but the intercourse between men and men, or women and
-women, is contrary to nature. <span id="fr_151"></span>[1](#fn_151) The
+women, is contrary to nature. <span id="fr_151"></span>[1](#fn_151.md) The
 bold attempt at overleaping Nature's laws was due originally to
 unbridled lust.
 
@@ -87,25 +87,25 @@ the rule which he proposes to the world.
 
 There are three distinct things, Plato argues, which, owing to the
 inadequacy of language to represent states of thought, have been
-confounded. <span id="fr_152"></span>[1](#fn_152) These are friendship,
+confounded. <span id="fr_152"></span>[1](#fn_152.md) These are friendship,
 desire, and a third mixed species. Friendship is further described as
 the virtuous affection of equals in taste, age and station. Desire is
 always founded on a sense of contrast. While friendship is "gentle and
 mutual through life," desire is "fierce and wild." <span
-id="fr_153"></span>[2](#fn_153) The true friend seeks to live chastely
+id="fr_153"></span>[2](#fn_153.md) The true friend seeks to live chastely
 with the chaste object of his attachment, whose soul he loves. The
 lustful lover longs to enjoy the flower of his youth and cares only for
 the body. The third sort is mixed of these; and a lover of this
 composite kind is torn asunder by two impulses, "the one commanding him
 to enjoy the youth's person, the other forbidding him to do so." <span
-id="fr_154"></span>[3](#fn_154) The description of the lover of the
+id="fr_154"></span>[3](#fn_154.md) The description of the lover of the
 third species so exactly suits the paiderast of nobler
 
 <span id="page_50">p. 50</span>
 
 quality in Greece, as I conceive him to have actually existed, that I
 shall give a full quotation of this passage: <span
-id="fr_155"></span>[1](#fn_155)--
+id="fr_155"></span>[1](#fn_155.md)--
 
 "As to the mixed sort, which is made up of them both, there is, first of
 all, a difficulty in determining what he who is possessed by this third
@@ -152,7 +152,7 @@ from
 <span id="page_51">p. 51</span>
 
 \[paragraph continues\] Maximus Tyrius, <span
-id="fr_156"></span>[1](#fn_156) sufficiently expresses the attitude
+id="fr_156"></span>[1](#fn_156.md) sufficiently expresses the attitude
 assumed by Socrates in the Platonic dialogue. He sympathises with Greek
 lovers, and avows a fervent admiration for beauty in the persons of
 young men. At the same time he declares himself upon the side of
@@ -203,13 +203,13 @@ winged splendour, capable of soaring to the contemplation of eternal
 verities. How strange will it be, when once those heights of
 intellectual intuition have been scaled, to look down again to earth and
 view the *Meirakidia* in whom the soul first recognised the form of
-beauty! <span id="fr_157"></span>[1](#fn_157) There is a deeply rooted
+beauty! <span id="fr_157"></span>[1](#fn_157.md) There is a deeply rooted
 mysticism, an impenetrable soofyism, in the Socratic doctrine of Erôs.
 
 In the *Phædrus*, the *Symposium*, the *Charmides*, the *Lysis*, and the
 *Republic*, Plato dramatised the real Socrates, while he gave liberal
 scope to his own personal sympathy for paiderastia. <span
-id="fr_158"></span>[2](#fn_158) In the *Laws*, if we accept this
+id="fr_158"></span>[2](#fn_158.md) In the *Laws*, if we accept this
 treatise as the work of his old age, he discarded the Socratic mask, and
 wrote a kind of palinode, which indicates more moral growth than pure
 disapprobation of the paiderastic passion. I have already tried to show
@@ -234,7 +234,7 @@ amorists. Nor would it be unprofitable
 
 to trace the points of contact between the love described by Dante in
 the *Vita Nuova* and the paiderastia exalted to the heavens by
-Plato. <span id="fr_159"></span>[1](#fn_159) The spiritual passion for
+Plato. <span id="fr_159"></span>[1](#fn_159.md) The spiritual passion for
 Beatrice which raised the Florentine poet above vile things, and led him
 by the philosophic paths of the *Convito* to the beatific vision of the
 *Paradiso*, bears no slight resemblance to the *Erôs* of the
@@ -330,27 +330,27 @@ The philosophical ideal of paiderastia in Greece which bore the names of
 Socrates and Plato met with little but contempt. Cicero, in a passage
 which has been echoed by Gibbon, remarked upon "the thin device of
 virtue and friendship which amused the philosophers of Athens." <span
-id="fr_160"></span>[1](pge18.htm#fn_160) Epicurus criticised the Stoic
+id="fr_160"></span>[1](pge18.htm#fn_160.md) Epicurus criticised the Stoic
 doctrine of paiderastia by sententiously observing that philosophers
 only differed from the common race of men in so far as they could better
 cloak their vice with sophistries. This severe remark seems justified by
 the opinions ascribed to Zeno by Plutarch, Sextus Empiricus, and
-Stobæus. <span id="fr_161"></span>[2](pge18.htm#fn_161) But it may be
+Stobæus. <span id="fr_161"></span>[2](pge18.htm#fn_161.md) But it may be
 doubted whether the real drift of the Stoic theory of love, founded on
 *Adiaphopha*, was understood. Lucian, in the *Amores*, <span
-id="fr_162"></span>[3](pge18.htm#fn_162) makes Charicles, the advocate
+id="fr_162"></span>[3](pge18.htm#fn_162.md) makes Charicles, the advocate
 of love for women, deride the Socratic ideal as vain nonsense, while
 Theomnestus, the man of pleasure, to whom the dispute is finally
 referred, decides that the philosophers are either fools or
-humbugs. <span id="fr_163"></span>[4](pge18.htm#fn_163) Daphnæus, in the
+humbugs. <span id="fr_163"></span>[4](pge18.htm#fn_163.md) Daphnæus, in the
 erotic dialogue of Plutarch, arrives at a similar conclusion; and, in an
 essay on education, the same author contends that no prudent father
 would allow the sages to enter into intimacy with his sons. <span
-id="fr_164"></span>[5](pge18.htm#fn_164) The discredit incurred by
+id="fr_164"></span>[5](pge18.htm#fn_164.md) The discredit incurred by
 philosophers in the later age of Greek culture is confirmed by more than
 one passage in Petronius and Juvenal, while Athenæus especially inveighs
 against philosophic lovers as acting against nature. <span
-id="fr_165"></span>[6](pge18.htm#fn_165) The attempt of the Platonic
+id="fr_165"></span>[6](pge18.htm#fn_165.md) The attempt of the Platonic
 Socrates to elevate without altering the morals of his race may
 therefore be said fairly to have failed. Like his republic, his love
 existed only in heaven.
@@ -359,10 +359,10 @@ existed only in heaven.
 
 ### Footnotes
 
-<span id="fn_150"></span>[47:3](pge17.htm#fr_150) See *Pol*., ii. 7, 5;
+<span id="fn_150"></span>[47:3](pge17.htm#fr_150.md) See *Pol*., ii. 7, 5;
 ii. 6, 5; ii. 9, 6.
 
-<span id="fn_151"></span>[48:1](pge17.htm#fr_151) The advocates of
+<span id="fn_151"></span>[48:1](pge17.htm#fr_151.md) The advocates of
 paiderastia in Greece tried to refute the argument from animals (*Laws*,
 p. 636 B: cp. *Daphnis and Chloe*, lib. 4, what Daphnis says to Gnathon)
 by, the following considerations: Man is not a lion or a bear. Social
@@ -374,46 +374,46 @@ the invention and privilege of rational beings. See Lucian, *Amores*,
 Paidiké*, 245. The curious thing is that many animals are addicted to
 all sorts of so-called unnatural vices.
 
-<span id="fn_152"></span>[49:1](pge17.htm#fr_152) Maximus Tyrius, who,
+<span id="fn_152"></span>[49:1](pge17.htm#fr_152.md) Maximus Tyrius, who,
 in the rhetorical analysis of love alluded to before (p. 172), has
 closely followed Plato, insists upon the confusion introduced by
 language, *Dissert*., xxiv. 3. Again, *Dissert*., xxvi. 4; and compare
 *Dissert*., xxv. 4.
 
-<span id="fn_153"></span>[49:2](pge17.htm#fr_153) This is the
+<span id="fn_153"></span>[49:2](pge17.htm#fr_153.md) This is the
 development of the argument in the Phædrus, where Socrates, improvising
 an improvement on the speech of Lysias, compares lovers to wolves and
 boys to lambs. See the passage in Max. Tyr., where Socrates is compared
 to a shepherd, the Athenian lovers to butchers, and the boys to lambs
 upon the mountains.
 
-<span id="fn_154"></span>[49:3](pge17.htm#fr_154) This again is the
+<span id="fn_154"></span>[49:3](pge17.htm#fr_154.md) This again is the
 development of the whole eloquent analysis of love, as it attacks the
 uninitiated and unphilosophic nature, in the *Phædrus*.
 
-<span id="fn_155"></span>[50:1](pge17.htm#fr_155) Jowett's trans., p.
+<span id="fn_155"></span>[50:1](pge17.htm#fr_155.md) Jowett's trans., p.
 837.
 
-<span id="fn_156"></span>[51:1](pge17.htm#fr_156) *Dissert*., xxv. r.
+<span id="fn_156"></span>[51:1](pge17.htm#fr_156.md) *Dissert*., xxv. r.
 The same author pertinently remarks that, though the teaching of
 Socrates on love might well have been considered perilous, it formed no
 part of the accusations of either Anvtus or Aristophanes. *Dissert*.,
 xxiv. 5-7.
 
-<span id="fn_157"></span>[52:1](pge17.htm#fr_157) This is a remark of
+<span id="fn_157"></span>[52:1](pge17.htm#fr_157.md) This is a remark of
 Diotima's. Maximus Tyrius (*Dissert*., xxvi. 8) gives it a very rational
 interpretation. Nowhere else, he says, but in the human form, does the
 light of the divine beauty shine so clear. This is the word of classic
 art, the word of the humanities, to use a phrase of the Renaissance. it
 finds an echo in many beautiful sonnets of Michelangelo.
 
-<span id="fn_158"></span>[52:2](pge17.htm#fr_158) See Bergk., vol. ii.
+<span id="fn_158"></span>[52:2](pge17.htm#fr_158.md) See Bergk., vol. ii.
 pp. 616-629, for a critique of the canon of the highly paiderastic
 epigrams which bear Plato's name and for their text.
 
-<span id="fn_159"></span>[53:1](pge17.htm#fr_159) I select the *Vita
+<span id="fn_159"></span>[53:1](pge17.htm#fr_159.md) I select the *Vita
 Nuova* as the most eminent example of mediaeval erotic mysticism.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. Greek liberty and Greek love extinguished](pge18)
+[Next: XVI. Greek liberty and Greek love extinguished](pge18.md)

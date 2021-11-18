@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](rft02)  [Next](rft04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](rft02)  [Next](rft04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI4I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI4I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Roumanian Fairy Tales and Legends*, by E.B. Mawr, \[1881\], at
 Intangible Textual Heritage
 
@@ -551,4 +551,4 @@ good old age.
 
 ------------------------------------------------------------------------
 
-[Next: The Ungrateful Wood-Cutter](rft04)
+[Next: The Ungrateful Wood-Cutter](rft04.md)

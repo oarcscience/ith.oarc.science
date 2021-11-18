@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor23)  [Next](sor25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor23)  [Next](sor25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -84,7 +84,7 @@ squalid look about him,
 <span id="page_231">p. 231</span>
 
 and was for ever spitting (pp. 50, 69, 254). <span
-id="fr_81"></span>[1](#fn_81) He had been a teacher up to the age of
+id="fr_81"></span>[1](#fn_81.md) He had been a teacher up to the age of
 thirty-seven, and still retained some of the tastes he had learned among
 schoolboys. For the last ten years—since the Great Plague, that is to
 say—he had been a confessor in nunneries. He had been highly successful,
@@ -120,11 +120,11 @@ and outrageously, in such sort as to drive the injured husband to
 despair. His chief wish was that the latter should before all things
 realise his shame and feel all the pangs of marital jealousy. Eventually
 things were pushed so far that the poor man died of chagrin. <span
-id="fr_82"></span>[2](#fn_82)
+id="fr_82"></span>[2](#fn_82.md)
 
 However, the rivals of the Jesuits afforded even greater cause for
 scandal. The Observantine Fathers, who acted as spiritual directors to
-the nuns of Saint Claire of [Ollioules](errata.htm#8), lived in open
+the nuns of Saint Claire of [Ollioules](errata.htm#8.md), lived in open
 concubinage with their penitents; nay! they were not satisfied with this
 iniquity, but even failed to respect the little girls who were pupils at
 the nunnery. The Father Superintendent, one Aubany, had violated one, a
@@ -140,7 +140,7 @@ education and of a very common stamp.
 In this land where men are rough and hasty, often harsh in speech and
 rugged in appearance, women appreciate highly the gentle gravity of men
 of the North, liking and admiring them for speaking the aristocratic,
-the official language, French. <span id="fr_83"></span>[3](#fn_83)
+the official language, French. <span id="fr_83"></span>[3](#fn_83.md)
 
 Girard on his arrival at Toulon must have known the ground thoroughly
 well already. He already possessed a devoted ally there, a certain
@@ -183,7 +183,7 @@ surely not far from the confines of ecstasy. And indeed, Mlle. Reboul,
 in order to gratify her kinswoman, was already in the habit occasionally
 of producing strange phenomena in herself by the familiar device of
 quietly holding her breath and pinching her nose with her fingers. <span
-id="fr_84"></span>[1](#fn_84)
+id="fr_84"></span>[1](#fn_84.md)
 
 <span id="page_234">p. 234</span>
 
@@ -254,7 +254,7 @@ But all this came to an abrupt conclusion, and an activity artificially
 fostered came to a dead stop. There was not money enough even to pay the
 Arsenal artificers’ wages, while the ships of war under repair were left
 indefinitely on the stocks, and the hulls eventually sold for what they
-would fetch. <span id="fr_85"></span>[5](#fn_85) Toulon suffered
+would fetch. <span id="fr_85"></span>[5](#fn_85.md) Toulon suffered
 severely under the effects of all this. During the siege of 1707 the
 place seemed only half alive. But how much worse the dreadful year of
 1709, the ’93 of Louis
@@ -329,7 +329,7 @@ flight; they were for scattering over the country, when the chief of the
 Consuls, M. d’Antrechaus, a brave-hearted hero, stopped them, sternly
 asking, "And the people, gentlemen, what is to become of them, if, in
 this poverty-stricken town, the rich desert the place and take their
-purses with them?" <span id="fr_86"></span>[6](#fn_86) He succeeded in
+purses with them?" <span id="fr_86"></span>[6](#fn_86.md) He succeeded in
 staying the panic and forced everybody to remain. The horrors of
 Marseilles
 
@@ -666,7 +666,7 @@ God! how I have suffered!"
 
 <span class="contnote">\[paragraph continues\]</span> Henceforth she
 complained less, but was never able to account to herself for what she
-felt in her sleep. <span id="fr_87"></span>[7](#fn_87)
+felt in her sleep. <span id="fr_87"></span>[7](#fn_87.md)
 
 Girard understood better, but not without terror, what he had done. In
 January or February an only too significant sign warned him she was with
@@ -682,7 +682,7 @@ real. She exhibited in her little room at home veritable excesses of
 delirium and swooning fits, particularly when Father Girard came to see
 her. Her pregnancy began a little after that of Charlotte Cadière, no
 doubt about the time of the Twelfth Night celebrations. <span
-id="fr_88"></span>[8](#fn_88)
+id="fr_88"></span>[8](#fn_88.md)
 
 The danger was imminent. The girls did not live in a desert; they were
 not buried in a convent, where everybody was concerned to hush the
@@ -733,7 +733,7 @@ constitute him the brother of a saint.
 
 "But surely," it will be objected, "the thing may be explained on
 natural grounds. Countless examples, perfectly well authenticated, are
-known of genuine stigmata." <span id="fr_89"></span>[9](#fn_89)
+known of genuine stigmata." <span id="fr_89"></span>[9](#fn_89.md)
 
 <span id="page_249">p. 249</span>
 
@@ -1025,7 +1025,7 @@ those naïve records of mediæval manners and customs, how the priest,
 after confessing husband and wife, would proceed without more ado on the
 spot, behind the confessional box, to lay the lash across their backs.
 Schoolboys, monks, nuns, all were chastised in the same homely
-fashion. <span id="fr_90"></span>[10](#fn_90)
+fashion. <span id="fr_90"></span>[10](#fn_90.md)
 
 <span id="page_257">p. 257</span>
 
@@ -1074,7 +1074,7 @@ which tell so crushingly against the man he favours.
 
 With monstrous inconsistency, Girard first terrorised the unhappy child,
 then with a brusque change of front, shamefully and barbarously took
-foul advantage of her panic fear. <span id="fr_91"></span>[11](#fn_91)
+foul advantage of her panic fear. <span id="fr_91"></span>[11](#fn_91.md)
 
 There is no question here of love as an extenuating circumstance. Far
 from it; he did not love her, which adds to the horror of it all. We
@@ -1118,38 +1118,38 @@ very long!"
 
 ### Footnotes
 
-<span id="fn_81"></span>[231:1](sor24.htm#fr_81) Dealing with a matter
+<span id="fn_81"></span>[231:1](sor24.htm#fr_81.md) Dealing with a matter
 which has been the subject of so much controversy, I shall quote
 freely,—especially from a folio volume entitled, *Procédure du P. Girard
 et de la Cadière*, Aix, 1733. To avoid a multiplicity of footnotes, I
 merely give in my text the page of the book in question.
 
-<span id="fn_82"></span>[232:2](sor24.htm#fr_82) Bibliothèque de la
+<span id="fn_82"></span>[232:2](sor24.htm#fr_82.md) Bibliothèque de la
 ville de Toulon, *Pièces et Chansons manuscrites*, 1 vol. folio,—an
 extremely curious collection.
 
-<span id="fn_83"></span>[232:3](sor24.htm#fr_83) That is the tongue of
+<span id="fn_83"></span>[232:3](sor24.htm#fr_83.md) That is the tongue of
 Northern and Central France, descended from the old Langue d’Oïl, as
 contrasted with the Langue d’Oc, still spoken in the South. The latter
 is often called a *patois*, but it is really a distinct language.
 
-<span id="fn_84"></span>[233:1](sor24.htm#fr_84) See the *Trial;* also
+<span id="fn_84"></span>[233:1](sor24.htm#fr_84.md) See the *Trial;* also
 Swift, *Mechanical Operations of the Spirit*.
 
-<span id="fn_85"></span>[235:5](sor24.htm#fr_85) See an excellent MS.
+<span id="fn_85"></span>[235:5](sor24.htm#fr_85.md) See an excellent MS.
 dissertation by M. Brun.
 
-<span id="fn_86"></span>[237:6](sor24.htm#fr_86) See M. d’Antrechaus’
+<span id="fn_86"></span>[237:6](sor24.htm#fr_86.md) See M. d’Antrechaus’
 book, and the excellent little pamphlet by M. Gustave Lambert.
 
-<span id="fn_87"></span>[247:7](sor24.htm#fr_87) pp. 5, 12, etc.
+<span id="fn_87"></span>[247:7](sor24.htm#fr_87.md) pp. 5, 12, etc.
 
-<span id="fn_88"></span>[247:8](sor24.htm#fr_88) pp. 37, 113.
+<span id="fn_88"></span>[247:8](sor24.htm#fr_88.md) pp. 37, 113.
 
-<span id="fn_89"></span>[248:9](sor24.htm#fr_89) See in particular A.
+<span id="fn_89"></span>[248:9](sor24.htm#fr_89.md) See in particular A.
 Maury, *Magie*.
 
-<span id="fn_90"></span>[256:10](sor24.htm#fr_90) The Dauphin himself
+<span id="fn_90"></span>[256:10](sor24.htm#fr_90.md) The Dauphin himself
 was whipped cruelly. The young Boufflers (a boy of fifteen) died of
 chagrin at having suffered the same indignity (Saint-Simon). The
 prioress of the Abbaye-aux-Bois, threatened by her superior "*with
@@ -1164,7 +1164,7 @@ Emperor Joseph revealed the secret places of the Jesuit colleges, the
 report of which trial was reprinted later under Joseph II., and again in
 our own day.
 
-<span id="fn_91"></span>[258:11](sor24.htm#fr_91) This is put in Greek
+<span id="fn_91"></span>[258:11](sor24.htm#fr_91.md) This is put in Greek
 in the book of Depositions, and falsified twice over, on p. 6 and again
 on p. 389, in order to extenuate Girard's guilt. The most exact version
 here is that of her deposition before the "Lieutenant-Criminal" of
@@ -1172,4 +1172,4 @@ Toulon, pp. 12 *sqq*.
 
 ------------------------------------------------------------------------
 
-[Next: 23. Charlotte Cadière at the Convent of Ollioules](sor25)
+[Next: 23. Charlotte Cadière at the Convent of Ollioules](sor25.md)

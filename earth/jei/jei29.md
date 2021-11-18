@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei28.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ Richmond, Va., B. F. Johnson & Co.
 EDWARDS, DELTUS. M., *The Toll of the Arctic Seas*. New York, Henry Holt
 & Company. 1910.
 
-[FLAMMARION](errata.htm#121), CAMILLE, translated from the French and
+[FLAMMARION](errata.htm#121.md), CAMILLE, translated from the French and
 edited by James Glaisher, F. R. S., *The Atmosphere*. New York, Harper &
 Brothers. 1873.
 
@@ -56,7 +56,7 @@ GIBSON, CHARLES, F. R. S. E., *The Romance of Scientific Discovery*.
 London, Seeley Service & Co. 1914.
 
 GIBSON, CHARLES, F. R. S. E., *The Great Ball on Which We Live*. London,
-[Seeley](errata.htm#122) Service & Co. 1915.
+[Seeley](errata.htm#122.md) Service & Co. 1915.
 
 <span id="page_454">p. 454</span>
 
@@ -71,7 +71,7 @@ GREW, EDWIN SHARPE, M. A., *The Growth of a Planet*. New York. The
 Macmillan Company. 1911.
 
 GREW, E. S., M. A., editor of "Knowledge." *The Romance of Geology*.
-London. [Seeley](errata.htm#123) & Co. 1911.
+London. [Seeley](errata.htm#123.md) & Co. 1911.
 
 HAYES, DR. I.I., *The Open Polar Sea: a Narrative of a Voyage of
 Discovery Towards the North Pole in the Schooner United States*. New
@@ -141,7 +141,7 @@ Fate of Sir John Franklin and His Companions*. New York. J. T. Lloyd.
 1860.
 
 MACPHERSON, HECTOR, JR. *The Romance of Modern Astronomy*. London.
-[Seeley](errata.htm#124), Service & Co. 1913.
+[Seeley](errata.htm#124.md), Service & Co. 1913.
 
 MAUNDER, E. WALTER. F. R. A. S., Superintendent of the Solar Department,
 Royal Greenwich Observatory. *Are the Planets Inhabited?* London and New
@@ -178,7 +178,7 @@ Arctic Exploration in Early Times*. 2 vols. London. William Heinemann.
 1911.
 
 NANSEN, FRIDTJOF, *The First Crossing of Greenland*. 2 vols. London.
-[Longmans](errata.htm#125), Green & Co. 1890.
+[Longmans](errata.htm#125.md), Green & Co. 1890.
 
 NANSEN, DR. FRIDTJOF, *Farthest North: Being the Record of a Voyage of
 Exploration of the Ship Fram 1893-1896 and of a Fifteen Months Sleigh

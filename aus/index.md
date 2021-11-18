@@ -36,21 +36,21 @@ In short, we encourage you to 'read between the lines'.
 ### Ethnographic descriptions
 
 <span class="c_e"> <span class="c_t">[Oceanic
-Mythology](../pac/om/index)</span>   by <span class="c_a">Roland B.
+Mythology](../pac/om/index.md)</span>   by <span class="c_a">Roland B.
 Dixon</span>. \[<span class="c_d">1916</span>\]   <span
-class="c_b">[Part five of this book](../pac/om/om24) contains an
+class="c_b">[Part five of this book](../pac/om/om24.md) contains an
 overview of Australian mythology, as well as comparative material on
 other Pacific cultures.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Native Tribes of the Northern
-Territory of Australia](ntna/index)</span>   by <span
+Territory of Australia](ntna/index.md)</span>   by <span
 class="c_a">Baldwin Spencer</span>. \[<span class="c_d">1914</span>\]  
 <span class="c_b">This massive ethnography is one of the few books in
 the public domain which details pre-20th Century Aboriginal culture and
 traditions in a non-ethnocentric perspective.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Native Tribes of Central
-Australia](ntca/index)</span>   by <span class="c_a">Baldwin
+Australia](ntca/index.md)</span>   by <span class="c_a">Baldwin
 Spencer</span> and <span class="c_a">F. J. Gillen</span> \[<span
 class="c_d">1899</span>\]   <span class="c_b">A primary source for
 ethnographic information on the Aboriginal culture of central Australia
@@ -62,14 +62,14 @@ including details of kinship, ceremonies and everyday life.</span>
 ### Works of K. Langloh Parker
 
 <span class="c_e"> <span class="c_t">[Australian Legendary
-Tales](alt/index)</span>  
+Tales](alt/index.md)</span>  
 collected by <span class="c_a">K. Langloh Parker</span>, Introduction by
 <span class="c_a">Andrew Lang</span>. \[<span class="c_d">1897</span>\]
   <span class="c_b">This is a turn of the century collection of folklore
 of the Euahlayi (Noongahburrah).</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Euahlayi
-Tribe](tet/index)</span>   by <span class="c_a">K. Langloh
+Tribe](tet/index.md)</span>   by <span class="c_a">K. Langloh
 Parker</span>. Introduction by <span class="c_a">Andrew Lang</span>.
 \[<span class="c_d">1905</span>\]   <span class="c_b">An amateur
 ethnography of the Eulayhi. This book includes more depth on the
@@ -83,23 +83,23 @@ culture, spiritual beliefs and ceremonies of the Euahlayi.</span>
 The following texts are of historical interest.
 
 <span class="c_e"> <span class="c_t">[The Customs and Traditions of the
-Aboriginal Natives of North Western Australia](cat/cat)</span>   by
+Aboriginal Natives of North Western Australia](cat/cat.md)</span>   by
 <span class="c_a">John G. Withnell</span> *42,061 bytes* \[<span
 class="c_d">1901</span>\]   <span class="c_b">A short amateur
 ethnography of the Northwestern Aborigines, primarily of historical
 interest.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Aborigines of Western
-Australia](awa/index)</span>   by <span class="c_a">Albert F.
+Australia](awa/index.md)</span>   by <span class="c_a">Albert F.
 Calvert</span> \[<span class="c_d">1894</span>\]   <span class="c_b">A
 short amateur ethnography, one of the few to discuss the Western
 Australian Aborigines, including music notation for several short
 songs.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Some Myths and Legends of the
-Australian Aborigines](mla/index)</span>   by <span class="c_a">William
+Australian Aborigines](mla/index.md)</span>   by <span class="c_a">William
 Jenkyn Thomas</span> \[<span class="c_d">1923</span>\] </span>
 
 <span class="c_e"> <span class="c_t">[Australian
-Legends](peck/index)</span>   by <span class="c_a">C.W Peck</span>
+Legends](peck/index.md)</span>   by <span class="c_a">C.W Peck</span>
 \[<span class="c_d">1925</span>\] </span>

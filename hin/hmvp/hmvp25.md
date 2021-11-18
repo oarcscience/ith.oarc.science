@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp24)  [Next](hmvp26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp24)  [Next](hmvp26.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ waged with the giant Rāvan, the fierce and mighty King of Lanka or
 Ceylon, and the dread oppressor of gods and nymphs, and saints and men."
 "The army," to borrow the words of Gorresio, "which Rāma led on this
 expedition was, as appears from the poem, gathered in great part from
-the region of the Vindhya hills; <span id="fr_165"></span>[\*](#fn_165)
+the region of the Vindhya hills; <span id="fr_165"></span>[\*](#fn_165.md)
 but the races which he
 
 <span id="page_171">p. 171</span>
@@ -38,7 +38,7 @@ the Sanskrit-speaking Hindus. The poet calls the people whom
 
 <span id="img_17100"></span> <span align="CENTER"> [![THE RĀMA CHANDRA
 AVATĀRA.](tn/17100.jpg)  
-Click to enlarge](img/17100.jpg)  
+Click to enlarge](img/17100.jpg.md)  
 THE RĀMA CHANDRA AVATĀRA.  
 </span>
 
@@ -72,13 +72,13 @@ Brāhman addressing Dasaratha said:—
 <div style="margin-left: 32px">
 
 <span class="small">"Four sons. O monarch, shall be thine,  
- Upholders of the royal line. <span id="fr_166"></span>[\*](#fn_166)  
+ Upholders of the royal line. <span id="fr_166"></span>[\*](#fn_166.md)  
    \*         \*         \*         \*  
  Another rite will I begin,  
  Which shall the sons thou cravest win,  
  When all things shall be duly sped  
  And first Atharva texts be read." <span
-id="fr_167"></span>[†](#fn_167)</span>
+id="fr_167"></span>[†](#fn_167.md)</span>
 
 </div>
 
@@ -97,7 +97,7 @@ thus addressed them:—
  A second rite would now prepare.  
  But, O ye gods, consent to grant  
  The longing of your suppliant." <span
-id="fr_168"></span>[\*](#fn_168)</span>
+id="fr_168"></span>[\*](#fn_168.md)</span>
 
 </div>
 
@@ -141,7 +141,7 @@ perform:
 
 <span class="small">To thee, O lord, thy suppliants pray  
 To find some cure this plague to stay." <span
-id="fr_169"></span>[\*](#fn_169)</span>
+id="fr_169"></span>[\*](#fn_169.md)</span>
 
 </div>
 
@@ -159,7 +159,7 @@ To this request Brahmā makes answer—
  Reeked not of man of woman born.  
  None else may take his life away,  
  But only man the fiend may slay." <span
-id="fr_170"></span>[†](#fn_170)</span>
+id="fr_170"></span>[†](#fn_170.md)</span>
 
 </div>
 
@@ -182,7 +182,7 @@ asks what request they have to make:
  Rāvan, who laughs at heavenly might:  
  This common scourge, this rankling thorn,  
  Whom the three worlds too long have borne." <span
-id="fr_171"></span>[‡](#fn_171)</span>
+id="fr_171"></span>[‡](#fn_171.md)</span>
 
 </div>
 
@@ -200,7 +200,7 @@ it to his queens, assuring them that
 
 <span class="small">"They the princely sons shall bear,  
  Long sought by sacrifice and prayer." <span
-id="fr_172"></span>[\*](#fn_172)</span>
+id="fr_172"></span>[\*](#fn_172.md)</span>
 
 </div>
 
@@ -218,7 +218,7 @@ various ways, chiefly by begetting powerful sons to enter his army.
 <span class="small">"Each god, each sage became a sire,  
  Each minstrel of the heavenly quire,  
  Each faun, of children strong and good." <span
-id="fr_173"></span>[†](#fn_173)</span>
+id="fr_173"></span>[†](#fn_173.md)</span>
 
 </div>
 
@@ -264,7 +264,7 @@ continues\]</span>  Who in his splendour, might, and worth,
  Endowed with might which none could mate,  
  In monkey forms that changed at will,  
  So strong their wish the fiend to kill." <span
-id="fr_174"></span>[\*](#fn_174)</span>
+id="fr_174"></span>[\*](#fn_174.md)</span>
 
 </div>
 
@@ -297,7 +297,7 @@ affect him that he should have no equal in heaven or hell:
 <span class="small"><span class="contnote">\[paragraph
 continues\]</span>  In knowledge, fortune, wit, and tact,  
  Wisdom to plan, and skill to act." <span
-id="fr_175"></span>[\*](#fn_175)</span>
+id="fr_175"></span>[\*](#fn_175.md)</span>
 
 </div>
 
@@ -315,12 +315,12 @@ Lakshman. The saint, addressing Rāma, says—
  Thou hast obeyed my will;  
  Perfect before, this calm retreat  
  Is now more perfect still." <span
-id="fr_176"></span>[†](#fn_176)</span>
+id="fr_176"></span>[†](#fn_176.md)</span>
 
 </div>
 
 Next morning the hermits tell Rāma that King Janaka of Mithila <span
-id="fr_177"></span>[‡](#fn_177) had arranged for a sacrifice to which
+id="fr_177"></span>[‡](#fn_177.md) had arranged for a sacrifice to which
 they are invited. Rāma is asked to accompany them, and is induced to do
 so by the mention of a wonderful bow in possession of the king, which no
 one was able to bend. The bow was a gift from Siva, as a reward for
@@ -349,13 +349,13 @@ against their foes.
  That freed the God of gods from woes,  
  Stored by our great forefathers, lay  
  A treasure and a pride for aye." <span
-id="fr_178"></span>[\*](#fn_178)</span>
+id="fr_178"></span>[\*](#fn_178.md)</span>
 
 </div>
 
 One day, as Janaka was ploughing, an infant sprang from the ground, whom
 he named Sitā (a furrow), on account of her secret birth. In the "Uttara
-Kānda," <span id="fr_179"></span>[†](#fn_179) is a legend, the object of
+Kānda," <span id="fr_179"></span>[†](#fn_179.md) is a legend, the object of
 which is to show that Sitā is another form of Lakshmi, and that it was
 she who wished to accomplish the death of Rāvana. "Rāvana in the course
 of his wanderings comes to the Himalayas, where he meets with a young
@@ -388,7 +388,7 @@ birth, to all suitors for her hand Janaka gave one reply—
 
 <span class="small">"I give not this my daughter; she  
  Prize of heroic worth shall be." <span
-id="fr_180"></span>[\*](#fn_180)</span>
+id="fr_180"></span>[\*](#fn_180.md)</span>
 
 </div>
 
@@ -404,7 +404,7 @@ says—
  The bow that baffled lord and king,  
  To him I give, as I have sworn,  
  My Sitā, not of woman born." <span
-id="fr_181"></span>[†](#fn_181)</span>
+id="fr_181"></span>[†](#fn_181.md)</span>
 
 </div>
 
@@ -434,7 +434,7 @@ palace. The king visits her, when she says to him—
 
 <span class="small">"Now pledge thy word, if thou incline  
  To listen to this prayer of mine." <span
-id="fr_182"></span>[\*](#fn_182)</span>
+id="fr_182"></span>[\*](#fn_182.md)</span>
 
 </div>
 
@@ -448,7 +448,7 @@ now requested the fulfilment of that vow; or,
 
 <span class="small">"If thou refuse thy promise sworn,  
  I die despised before the morn," <span
-id="fr_183"></span>[†](#fn_183)</span>
+id="fr_183"></span>[†](#fn_183.md)</span>
 
 </div>
 
@@ -475,7 +475,7 @@ separation. Lakshman's entreaty to accompany them is very touching too:
  I need not life that cannot die;  
  Nor would I wish, with thee away,  
  O’er the three worlds to stretch my sway." <span
-id="fr_184"></span>[\*](#fn_184)</span>
+id="fr_184"></span>[\*](#fn_184.md)</span>
 
 </div>
 
@@ -502,7 +502,7 @@ an immense giant, named Viradha, clothed in a tiger's skin, and
 
 <span class="small">"Three lions, tigers four, ten deer,  
  He carried on his iron spear." <span
-id="fr_185"></span>[\*](#fn_185)</span>
+id="fr_185"></span>[\*](#fn_185.md)</span>
 
 </div>
 
@@ -533,7 +533,7 @@ madly in love with Rāma.
  Of stately form and shapely limb;  
  She whose dim locks disordered hung,  
  Him whose bright hair on high brows clung." <span
-id="fr_186"></span>[†](#fn_186)</span>
+id="fr_186"></span>[†](#fn_186.md)</span>
 
 </div>
 
@@ -555,7 +555,7 @@ and openly avows her love:
  Thy brother, too, her fate shall share.  
  But come, beloved, thou shalt roam  
  With me through all our woodland home." <span
-id="fr_187"></span>[\*](#fn_187)</span>
+id="fr_187"></span>[\*](#fn_187.md)</span>
 
 </div>
 
@@ -584,7 +584,7 @@ catastrophe. Rāvana, intensely angry, asks—
  Can brave my will, and live at ease. . . .  
  With unresisted influence, I  
  Can force e’en Death himself to die." <span
-id="fr_188"></span>[†](#fn_188)</span>
+id="fr_188"></span>[†](#fn_188.md)</span>
 
 </div>
 
@@ -598,7 +598,7 @@ to conquer Rāma by force, and advises him rather to carry off Sitā; for,
 
 <span class="small">"Reft of his darling wife, be sure  
  Brief days the mourner will endure." <span
-id="fr_189"></span>[\*](#fn_189)</span>
+id="fr_189"></span>[\*](#fn_189.md)</span>
 
 </div>
 
@@ -619,7 +619,7 @@ is thus described:—
  On dire austerities intent;  
  And of his heads an offering, laid  
  Before the Self-existent, made." <span
-id="fr_190"></span>[†](#fn_190)</span>
+id="fr_190"></span>[†](#fn_190.md)</span>
 
 </div>
 
@@ -652,13 +652,13 @@ Rāvana declares—
    In jeopardy may stand;  
  Oppose me, and this very day  
    Thou diest by this hand." <span
-id="fr_191"></span>[\*](#fn_191)</span>
+id="fr_191"></span>[\*](#fn_191.md)</span>
 
 </div>
 
 <span id="img_18500"></span> <span align="CENTER">
 [![RĀVANA.](tn/18500.jpg)  
-Click to enlarge](img/18500.jpg)  
+Click to enlarge](img/18500.jpg.md)  
 RĀVANA.  
 </span>
 
@@ -705,7 +705,7 @@ asked them, as a favour, to burn his body in order that he might regain
 his proper form, and ascend to heaven. As the flames encircled him, he
 assumed a heavenly shape, and when in mid-air, told them where Sitā was
 taken, and advised them to seek the help of Sugriva, the King of the
-Vānar <span id="fr_192"></span>[\*](#fn_192) (Monkey) tribes, as only
+Vānar <span id="fr_192"></span>[\*](#fn_192) (Monkey.md) tribes, as only
 through his aid could they recover her. Acting upon this advice, they
 proceed to Pampa, Sugriva's home; where the sight of the beauty of the
 lake causes Rāma's lamentations to burst forth afresh:
@@ -714,7 +714,7 @@ lake causes Rāma's lamentations to burst forth afresh:
 
 <span class="small">"By sights like these of joy and peace,  
  My pangs of hopeless love increase." <span
-id="fr_193"></span>[†](#fn_193)</span>
+id="fr_193"></span>[†](#fn_193.md)</span>
 
 </div>
 
@@ -737,7 +737,7 @@ Bāli should fall that day, Sugriva says of Sitā—
  Or prisoned in the depths of hell,  
  My friendly care her way shall track,  
  And bring thy ransomed darling back." <span
-id="fr_194"></span>[\*](#fn_194)</span>
+id="fr_194"></span>[\*](#fn_194.md)</span>
 
 </div>
 
@@ -772,7 +772,7 @@ been regained. Hanumān, ever faithful to Rāma's cause, reminds him—
  The glory of thy house enhanced;  
  And now thy foremost care should be  
  To aid the friends who succoured thee." <span
-id="fr_195"></span>[\*](#fn_195)</span>
+id="fr_195"></span>[\*](#fn_195.md)</span>
 
 </div>
 
@@ -791,7 +791,7 @@ it is said—
  And apes of every varied kind,  
  Terrific in their forms, who dwell  
  In grove and wood and bosky dell." <span
-id="fr_196"></span>[†](#fn_196)</span>
+id="fr_196"></span>[†](#fn_196.md)</span>
 
 </div>
 
@@ -819,7 +819,7 @@ assistance he could. He informs the seekers that Sitā is at Lanka.
  Beyond this margin of the sea;  
  Still to the south your way pursue,  
  And there the giant Rāvan view." <span
-id="fr_197"></span>[\*](#fn_197)</span>
+id="fr_197"></span>[\*](#fn_197.md)</span>
 
 </div>
 
@@ -831,7 +831,7 @@ and declares—
 
 <span class="small">"Swift as a shaft from Rāma's bow,  
  To Rāvan's city I will go." <span
-id="fr_198"></span>[†](#fn_198)</span>
+id="fr_198"></span>[†](#fn_198.md)</span>
 
 </div>
 
@@ -849,7 +849,7 @@ she consented to become his bride,
 
 <span class="small">"My cooks shall mince thy limbs with steel,  
  And serve thee for my morning meal." <span
-id="fr_199"></span>[‡](#fn_199)</span>
+id="fr_199"></span>[‡](#fn_199.md)</span>
 
 </div>
 
@@ -866,7 +866,7 @@ delighted to hear all he has to tell:
  'A mingled draught of bliss and pain:  
  Bliss that he wears me in his heart,  
  Pain that he wakes and weeps apart.'" <span
-id="fr_200"></span>[\*](#fn_200)</span>
+id="fr_200"></span>[\*](#fn_200.md)</span>
 
 </div>
 
@@ -908,7 +908,7 @@ Sugriva, more practical and fuller of resource, says—
  That crowns the mountain by the beach;  
  And when our feet that isle shall tread,  
  Rejoice and deem thy foeman dead." <span
-id="fr_201"></span>[\*](#fn_201)</span>
+id="fr_201"></span>[\*](#fn_201.md)</span>
 
 </div>
 
@@ -946,7 +946,7 @@ have met with a foe as wonderful as themselves:
  The severed head adorned with gold.  
  But when all eyes were bent to view,  
  Swift in its stead another grew." <span
-id="fr_202"></span>[\*](#fn_202)</span>
+id="fr_202"></span>[\*](#fn_202.md)</span>
 
 </div>
 
@@ -964,7 +964,7 @@ monkeys may see his wife's face, as he says—
  The lofty wall, the fenced tower:  
  Her conduct is her best defence,  
  And not a king's magnificence." <span
-id="fr_203"></span>[†](#fn_203)</span>
+id="fr_203"></span>[†](#fn_203.md)</span>
 
 </div>
 
@@ -1007,7 +1007,7 @@ welcome she had anticipated, he coolly tells her—
  Close to his breast his captive drew;  
  And kept thee, vassal of his power,  
  An inmate of his ladies’ bower." <span
-id="fr_204"></span>[\*](#fn_204)</span>
+id="fr_204"></span>[\*](#fn_204.md)</span>
 
 </div>
 
@@ -1023,7 +1023,7 @@ pile:
  Of shame, forlorn and desolate.  
  The kindled fire my woes shall end,  
  And be my best and surest friend." <span
-id="fr_205"></span>[†](#fn_205)</span>
+id="fr_205"></span>[†](#fn_205.md)</span>
 
 </div>
 
@@ -1040,7 +1040,7 @@ round it, and, before entering the fire, addresses Agni:
  Protect my body on the pyre.  
  As Raghu's son has idly laid  
  This charge on Sitā, hear and aid." <span
-id="fr_206"></span>[\*](#fn_206)</span>
+id="fr_206"></span>[\*](#fn_206.md)</span>
 
 </div>
 
@@ -1056,7 +1056,7 @@ saying:
  And give her body to the pyre?  
  Dost thou not yet, Supremely Wise,  
  Thy heavenly nature recognize?" <span
-id="fr_207"></span>[†](#fn_207)</span>
+id="fr_207"></span>[†](#fn_207.md)</span>
 
 </div>
 
@@ -1099,7 +1099,7 @@ as king and the people enjoy unexampled prosperity:
  No harvest failed, no children died.  
  Unknown were want, disease, and crime,  
  So calm, so happy was the time." <span
-id="fr_208"></span>[\*](#fn_208)</span>
+id="fr_208"></span>[\*](#fn_208.md)</span>
 
 </div>
 
@@ -1140,7 +1140,7 @@ through whose unkindness Rāma had been exiled.
 
 ### Footnotes
 
-<span id="fn_165"></span>[170:\*](hmvp25.htm#fr_165) It is a strange
+<span id="fn_165"></span>[170:\*](hmvp25.htm#fr_165.md) It is a strange
 though real confirmation of the truth of the underlying history of the
 hero that to this day the aboriginal tribes inhabiting the Vindhya hills
 have many legends relating to the life of Rāma and Sita, although they
@@ -1149,74 +1149,74 @@ Hinduism. These people are not at all like the Hindus in appearance.
 They are black, have curly hair and thick lips, not very unlike some
 African races.
 
-<span id="fn_166"></span>[172:\*](hmvp25.htm#fr_166) Griffiths's
+<span id="fn_166"></span>[172:\*](hmvp25.htm#fr_166.md) Griffiths's
 "Rāmāyana," i. 81.
 
-<span id="fn_167"></span>[172:†](hmvp25.htm#fr_167) Ibid. i. 82.
+<span id="fn_167"></span>[172:†](hmvp25.htm#fr_167.md) Ibid. i. 82.
 
-<span id="fn_168"></span>[173:\*](hmvp25.htm#fr_168) Griffiths's
+<span id="fn_168"></span>[173:\*](hmvp25.htm#fr_168.md) Griffiths's
 "Rāmāyana," i. 83.
 
-<span id="fn_169"></span>[174:\*](hmvp25.htm#fr_169) Griffiths's
+<span id="fn_169"></span>[174:\*](hmvp25.htm#fr_169.md) Griffiths's
 "Rāmāyana," i. 83.
 
-<span id="fn_170"></span>[174:†](hmvp25.htm#fr_170) Ibid. i. 84.
+<span id="fn_170"></span>[174:†](hmvp25.htm#fr_170.md) Ibid. i. 84.
 
-<span id="fn_171"></span>[174:‡](hmvp25.htm#fr_171) Ibid. i. 85.
+<span id="fn_171"></span>[174:‡](hmvp25.htm#fr_171.md) Ibid. i. 85.
 
-<span id="fn_172"></span>[175:\*](hmvp25.htm#fr_172) Griffiths's
+<span id="fn_172"></span>[175:\*](hmvp25.htm#fr_172.md) Griffiths's
 "Rāmāyana," i. 89.
 
-<span id="fn_173"></span>[175:†](hmvp25.htm#fr_173) Ibid. i. 93.
+<span id="fn_173"></span>[175:†](hmvp25.htm#fr_173.md) Ibid. i. 93.
 
-<span id="fn_174"></span>[176:\*](hmvp25.htm#fr_174) Griffiths's
+<span id="fn_174"></span>[176:\*](hmvp25.htm#fr_174.md) Griffiths's
 "Rāmāyana," i. 93.
 
-<span id="fn_175"></span>[177:\*](hmvp25.htm#fr_175) Griffiths's
+<span id="fn_175"></span>[177:\*](hmvp25.htm#fr_175.md) Griffiths's
 "Rāmāyana," i. 125.
 
-<span id="fn_176"></span>[177:†](hmvp25.htm#fr_176) Ibid. i. 156.
+<span id="fn_176"></span>[177:†](hmvp25.htm#fr_176.md) Ibid. i. 156.
 
-<span id="fn_177"></span>[177:‡](hmvp25.htm#fr_177) Tirhoot.
+<span id="fn_177"></span>[177:‡](hmvp25.htm#fr_177.md) Tirhoot.
 
-<span id="fn_178"></span>[178:\*](hmvp25.htm#fr_178) Griffiths's
+<span id="fn_178"></span>[178:\*](hmvp25.htm#fr_178.md) Griffiths's
 "Rāmāyana," i. 278.
 
-<span id="fn_179"></span>[178:†](hmvp25.htm#fr_179) Muir, O. S. T., iv.
+<span id="fn_179"></span>[178:†](hmvp25.htm#fr_179.md) Muir, O. S. T., iv.
 458.
 
-<span id="fn_180"></span>[179:\*](hmvp25.htm#fr_180) Griffiths's
+<span id="fn_180"></span>[179:\*](hmvp25.htm#fr_180.md) Griffiths's
 "Rāmāyana," i. 279.
 
-<span id="fn_181"></span>[179:†](hmvp25.htm#fr_181) Ibid. i. 280.
+<span id="fn_181"></span>[179:†](hmvp25.htm#fr_181.md) Ibid. i. 280.
 
-<span id="fn_182"></span>[180:\*](hmvp25.htm#fr_182) "Griffiths's
+<span id="fn_182"></span>[180:\*](hmvp25.htm#fr_182.md) "Griffiths's
 "Rāmāyana," i. 373.
 
-<span id="fn_183"></span>[180:†](hmvp25.htm#fr_183) Ibid.
+<span id="fn_183"></span>[180:†](hmvp25.htm#fr_183.md) Ibid.
 
-<span id="fn_184"></span>[181:\*](hmvp25.htm#fr_184) Griffiths's
+<span id="fn_184"></span>[181:\*](hmvp25.htm#fr_184.md) Griffiths's
 "Rāmāyana," ii. 94.
 
-<span id="fn_185"></span>[182:\*](hmvp25.htm#fr_185) Griffiths's
+<span id="fn_185"></span>[182:\*](hmvp25.htm#fr_185.md) Griffiths's
 "Rāmāyana," iii. 5.
 
-<span id="fn_186"></span>[182:†](hmvp25.htm#fr_186) Ibid. iii. 80.
+<span id="fn_186"></span>[182:†](hmvp25.htm#fr_186.md) Ibid. iii. 80.
 
-<span id="fn_187"></span>[183:\*](hmvp25.htm#fr_187) Griffiths's
+<span id="fn_187"></span>[183:\*](hmvp25.htm#fr_187.md) Griffiths's
 "Rāmāyana," iii. 82.
 
-<span id="fn_188"></span>[183:†](hmvp25.htm#fr_188) Ibid. iii. 143.
+<span id="fn_188"></span>[183:†](hmvp25.htm#fr_188.md) Ibid. iii. 143.
 
-<span id="fn_189"></span>[184:\*](hmvp25.htm#fr_189) Griffiths's
+<span id="fn_189"></span>[184:\*](hmvp25.htm#fr_189.md) Griffiths's
 "Rāmāyana," iii. 143.
 
-<span id="fn_190"></span>[184:†](hmvp25.htm#fr_190) Ibid. iii. 148.
+<span id="fn_190"></span>[184:†](hmvp25.htm#fr_190.md) Ibid. iii. 148.
 
-<span id="fn_191"></span>[185:\*](hmvp25.htm#fr_191) Griffiths's
+<span id="fn_191"></span>[185:\*](hmvp25.htm#fr_191.md) Griffiths's
 "Rāmāyana," iii. 185.
 
-<span id="fn_192"></span>[187:\*](hmvp25.htm#fr_192) Siva had foretold
+<span id="fn_192"></span>[187:\*](hmvp25.htm#fr_192.md) Siva had foretold
 that Rāma would obtain the aid of the monkeys for the destruction of
 Rāvana, when the demon was travelling in the Himālayas. Siva appeared to
 him as a dwarf, and tried to prevent him from going along a certain
@@ -1231,48 +1231,48 @@ he had propitiated Siva for a thousand years did he release him. When he
 released him, he said that his name should be Rāvana, from the cry
 (Rāva) which he uttered.
 
-<span id="fn_193"></span>[187:†](hmvp25.htm#fr_193) Griffiths's
+<span id="fn_193"></span>[187:†](hmvp25.htm#fr_193.md) Griffiths's
 "Rāmāyana," iv. 6.
 
-<span id="fn_194"></span>[188:\*](hmvp25.htm#fr_194) Griffiths's
+<span id="fn_194"></span>[188:\*](hmvp25.htm#fr_194.md) Griffiths's
 "Rāmāyana," iv. 37.
 
-<span id="fn_195"></span>[189:\*](hmvp25.htm#fr_195) Griffiths's
+<span id="fn_195"></span>[189:\*](hmvp25.htm#fr_195.md) Griffiths's
 "Rāmāyana," iv. 149.
 
-<span id="fn_196"></span>[189:†](hmvp25.htm#fr_196) Ibid. iv. 188.
+<span id="fn_196"></span>[189:†](hmvp25.htm#fr_196.md) Ibid. iv. 188.
 
-<span id="fn_197"></span>[190:\*](hmvp25.htm#fr_197) Griffiths's
+<span id="fn_197"></span>[190:\*](hmvp25.htm#fr_197.md) Griffiths's
 "Rāmāyana," iv. 254.
 
-<span id="fn_198"></span>[190:†](hmvp25.htm#fr_198) Ibid. iv. 280.
+<span id="fn_198"></span>[190:†](hmvp25.htm#fr_198.md) Ibid. iv. 280.
 
-<span id="fn_199"></span>[190:‡](hmvp25.htm#fr_199) Ibid. iv. 334.
+<span id="fn_199"></span>[190:‡](hmvp25.htm#fr_199.md) Ibid. iv. 334.
 
-<span id="fn_200"></span>[191:\*](hmvp25.htm#fr_200) Griffiths's
+<span id="fn_200"></span>[191:\*](hmvp25.htm#fr_200.md) Griffiths's
 "Rāmāyana," iv. 365.
 
-<span id="fn_201"></span>[192:\*](hmvp25.htm#fr_201) Griffiths's
+<span id="fn_201"></span>[192:\*](hmvp25.htm#fr_201.md) Griffiths's
 "Rāmāyana," v. 3.
 
-<span id="fn_202"></span>[193:\*](hmvp25.htm#fr_202) Griffiths's
+<span id="fn_202"></span>[193:\*](hmvp25.htm#fr_202.md) Griffiths's
 "Rāmāyana," v. 254.
 
-<span id="fn_203"></span>[193:†](hmvp25.htm#fr_203) Ibid. v. 271.
+<span id="fn_203"></span>[193:†](hmvp25.htm#fr_203.md) Ibid. v. 271.
 
-<span id="fn_204"></span>[194:\*](hmvp25.htm#fr_204) Griffiths's
+<span id="fn_204"></span>[194:\*](hmvp25.htm#fr_204.md) Griffiths's
 "Rāmāyana," v. 273.
 
-<span id="fn_205"></span>[194:†](hmvp25.htm#fr_205) Ibid. v. 276.
+<span id="fn_205"></span>[194:†](hmvp25.htm#fr_205.md) Ibid. v. 276.
 
-<span id="fn_206"></span>[195:\*](hmvp25.htm#fr_206) Griffiths's
+<span id="fn_206"></span>[195:\*](hmvp25.htm#fr_206.md) Griffiths's
 "Rāmāyana," v. 277.
 
-<span id="fn_207"></span>[195:†](hmvp25.htm#fr_207) Ibid. v. 278.
+<span id="fn_207"></span>[195:†](hmvp25.htm#fr_207.md) Ibid. v. 278.
 
-<span id="fn_208"></span>[196:\*](hmvp25.htm#fr_208) Griffiths's
+<span id="fn_208"></span>[196:\*](hmvp25.htm#fr_208.md) Griffiths's
 "Rāmāyana," v. 314.
 
 ------------------------------------------------------------------------
 
-[Next: 8. The Krishna Avatāra](hmvp26)
+[Next: 8. The Krishna Avatāra](hmvp26.md)

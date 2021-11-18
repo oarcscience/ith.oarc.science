@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod15)  [Next](hod17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod15)  [Next](hod17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@ wickedness as this is among you."
 Relying on this passage, St. Jerome (340-420 A. D.) did not hesitate to
 advise the infliction of capital punishment upon heretics; and Leo the
 Great (Pope, 440-461 A. D.) takes the same view. <span
-id="fr_170"></span>[1](#fn_169)
+id="fr_170"></span>[1](#fn_169.md)
 
 Priscillian, a bishop of Spain, a man of learning and pure morals, was
 the first heretic who was put to torture and together with some of his
@@ -176,7 +176,7 @@ in order to save their lives,</span>
 <span id="img_31100"></span> <span align="CENTER"> [![POPE URBAN V.
 PROCLAIMING THE BULL. &lt;i&gt;In Cæna Domini&lt;/i&gt;, 1362,
 CONDEMNING HERETICS.](tn/generic.jpg)  
-Click to view](img/31100.jpg)  
+Click to view](img/31100.jpg.md)  
 POPE URBAN V. PROCLAIMING THE BULL. *In Cæna Domini*, 1362, CONDEMNING
 HERETICS.  
 </span>
@@ -189,7 +189,7 @@ Thus brothers accused their brothers, wives their husbands, servants
 their masters. Many gave money to the clergy for good advice as to how
 to protect themselves, and the greatest confusion originated." (Alberici
 Monachi chron. ad. a. 1233.) <span
-id="fr_171"></span>[1](#fn_170)</span>
+id="fr_171"></span>[1](#fn_170.md)</span>
 
 The Archbishop's letter failed to impress his Holiness and did not in
 the least change the course of things.
@@ -238,14 +238,14 @@ Bent on vengeance for the
 
 <span id="img_31300"></span> <span align="CENTER"> [![THE CHAMBER OF THE
 INQUISITION. LISTENING TO AN INFORMER.](tn/generic.jpg)  
-Click to view](img/31300.jpg)  
+Click to view](img/31300.jpg.md)  
 THE CHAMBER OF THE INQUISITION. LISTENING TO AN INFORMER.  
 </span>
 
 insult received, the Inquisitor left for Paderborn, but before he could
 do further mischief he was overtaken by several noblemen on the 30th of
 July, 1233, near Marburg, on the Lahn, and slain. <span
-id="fr_173"></span>[1](#fn_172) Thus he fell a martyr
+id="fr_173"></span>[1](#fn_172.md) Thus he fell a martyr
 
 <span id="page_314">p. 314</span>
 
@@ -258,7 +258,7 @@ difficulties, the inquisitors were
 
 <span id="img_31400"></span> <span align="CENTER"> [![VARIOUS MANNERS OF
 CROSS-EXAMINING THE DEFENDANTS.](tn/generic.jpg)  
-Click to view](img/31400.jpg)  
+Click to view](img/31400.jpg.md)  
 VARIOUS MANNERS OF CROSS-EXAMINING THE DEFENDANTS.  
 </span>
 
@@ -281,7 +281,7 @@ The reign of Charles VI. is distinguished by a temporary
 <span id="img_31500"></span> <span align="CENTER"> [![A MAN AND A WOMAN
 CONVICTED OF HERESY WHO HAVE PLEADED GUILTY BEFORE BEING CONDEMNED TO
 DEATH.](tn/generic.jpg)  
-Click to view](img/31500.jpg)  
+Click to view](img/31500.jpg.md)  
 A MAN AND A WOMAN CONVICTED OF HERESY WHO HAVE PLEADED GUILTY BEFORE
 BEING CONDEMNED TO DEATH.  
 </span>
@@ -299,13 +299,13 @@ tribunal of Toulouse (1606) enacted no other punishments upon thirteen
 persons than fines, fasts, pilgrimages, and almsgiving, while the
 Inquisitor was tried and convicted for the misappropriation of
 confiscated property. King Charles VI. ordered that he be deprived of
-his salary. <span id="fr_174"></span>[1](#fn_173)
+his salary. <span id="fr_174"></span>[1](#fn_173.md)
 
 In Spain the Inquisition prospered best. The *Directorium*
 
 <span id="img_31600"></span> <span align="CENTER"> [![HERETICS CONDEMNED
 TO BE BURNED.](tn/generic.jpg)  
-Click to view](img/31600.jpg)  
+Click to view](img/31600.jpg.md)  
 HERETICS CONDEMNED TO BE BURNED.  
 </span>
 
@@ -314,7 +314,7 @@ Castile, affords us a complete insight into the proceedings of the Holy
 Office, its spy-system, its modes of cross-examination and torture, and
 its spoils. Torquemada and Ximenes were the most determined and
 unrelenting successors of Eymerich. <span
-id="fr_175"></span>[2](#fn_174) The
+id="fr_175"></span>[2](#fn_174.md) The
 
 <span id="page_317">p. 317</span>
 
@@ -324,19 +324,19 @@ not escape the prosecution of the inquisitors.
 
 In the beginning of the fifteenth century, Johannes Nider, a German and
 a Dominican monk, published a book on *Witches and Their
-Deceptions*. <span id="fr_176"></span>[1](#fn_175) At the same
+Deceptions*. <span id="fr_176"></span>[1](#fn_175.md) At the same
 
 <span id="img_31700"></span> <span align="CENTER"> [![A MAN AND A WOMAN
 CONDEMNED TO BE BURNED BUT PARDONED ON ACCOUNT OF THEIR
 CONFESSION.](tn/generic.jpg)  
-Click to view](img/31700.jpg)  
+Click to view](img/31700.jpg.md)  
 A MAN AND A WOMAN CONDEMNED TO BE BURNED BUT PARDONED ON ACCOUNT OF
 THEIR CONFESSION.  
 </span>
 
 time Pope Eugene IV. (1431-1447) encouraged the inquisitors in a
 circular letter to proceed with severity, "summarily, without ado, and
-without any judiciary form." <span id="fr_177"></span>[2](#fn_176)
+without any judiciary form." <span id="fr_177"></span>[2](#fn_176.md)
 
 <span id="page_318">p. 318</span>
 
@@ -349,7 +349,7 @@ the propagation of the Satanic
 
 <span id="img_31800"></span> <span align="CENTER"> [![THE INQUISITION IN
 SESSION ON THE MARKET SQUARE AT MADRID](tn/generic.jpg)  
-Click to view](img/31800.jpg)  
+Click to view](img/31800.jpg.md)  
 THE INQUISITION IN SESSION ON THE MARKET SQUARE AT MADRID  
 </span>
 
@@ -378,7 +378,7 @@ THE INQUISITION IN SESSION ON THE MARKET SQUARE AT MADRID
 
 </div>
 
-dominion. <span id="fr_178"></span>[1](#fn_177) Edelin remained
+dominion. <span id="fr_178"></span>[1](#fn_177.md) Edelin remained
 incarcerated and was soon released from further persecution by death.
 
 In 1458 J. Nicolaus Jaquerius appeared in the field with another
@@ -388,7 +388,7 @@ publication called the heretics' scourge or
 
 <span id="img_31900"></span> <span align="CENTER"> [![PROCESSION OF THE
 INQUISITION OF GOA.](tn/generic.jpg)  
-Click to view](img/31900.jpg)  
+Click to view](img/31900.jpg.md)  
 PROCESSION OF THE INQUISITION OF GOA.  
 </span>
 
@@ -416,16 +416,16 @@ PROCESSION OF THE INQUISITION OF GOA.
 
 <span id="img_31901"></span> <span align="CENTER"> [![THE LAST SERMON
 PREACHED TO THE CONDEMNED.](tn/generic.jpg)  
-Click to view](img/31901.jpg)  
+Click to view](img/31901.jpg.md)  
 THE LAST SERMON PREACHED TO THE CONDEMNED.  
 </span>
 
 <span id="page_320">p. 320</span>
 
 <span class="contnote">\[paragraph continues\]</span> Flagellum
-heriticorum fascinariorum <span id="fr_179"></span>[1](#fn_178)
+heriticorum fascinariorum <span id="fr_179"></span>[1](#fn_178.md)
 (Frankfort, 1581) in which Edelin's case is reported <span
-id="fr_180"></span>[2](#fn_179) as one argument among many others for
+id="fr_180"></span>[2](#fn_179.md) as one argument among many others for
 the reality of witchcraft. And now at last all opposition to the
 practices of witch-prosecutors were put down.
 
@@ -434,7 +434,7 @@ during the absence of the Bishop
 
 <span id="img_32000"></span> <span align="CENTER"> [![THE HERETICS’
 DEATH ON THE FAGOTS.](tn/generic.jpg)  
-Click to view](img/32000.jpg)  
+Click to view](img/32000.jpg.md)  
 THE HERETICS’ DEATH ON THE FAGOTS.  
 </span>
 
@@ -465,12 +465,12 @@ desiderantes affectibus*. The inquisitors of Germany, Heinrich
 Institoris (whose German name was Krämer) and Jacob Sprenger, complained
 of having met with resistance while attending to their duties, and the
 Pope afforded them the desired assistance for the sake of strengthening
-the Catholic faith <span id="fr_181"></span>[1](#fn_180)
+the Catholic faith <span id="fr_181"></span>[1](#fn_180.md)
 
 <span id="page_322">p. 322</span>
 
 and of preventing the horrible crimes and excesses of witchcraft. <span
-id="fr_182"></span>[1](#fn_181)
+id="fr_182"></span>[1](#fn_181.md)
 
 The bull of Pope Innocent VIII. had reference to Germany only; but other
 popes, Alexander VI., Julius II., Leo X., and Hadrian IV., issued bulls
@@ -498,7 +498,7 @@ the Emperor's patent and the approbation
 
 of the theological faculty; but it is noteworthy that the Emperor's
 patent is not literally reproduced; nor has it (according to
-Soldan's <span id="fr_183"></span>[1](#fn_182) opinion) ever been
+Soldan's <span id="fr_183"></span>[1](#fn_182) opinion.md) ever been
 published. The notary declares merely that the Emperor promises to
 protect the papal bull and to assist both inquisitors.
 
@@ -506,7 +506,7 @@ Such is the first introduction of the *Witch-Hammer* in Germany, and the
 book was at once recognised by zealots as the main source of information
 on witchcraft. Damhouder, the great criminalist of the sixteenth
 century, esteemed its authority as almost equal to the law; <span
-id="fr_184"></span>[2](#fn_183) and its baneful influence extends over a
+id="fr_184"></span>[2](#fn_183.md) and its baneful influence extends over a
 period of three centuries.
 
 The *Malleus Maleficarum*, or *Witch-Hammer*, is one of the most famous
@@ -544,7 +544,7 @@ though he might be released. Acquittals, however, were rare and the
 temporarily to stop proceedings. A *nolle pros* was recommended as the
 safer way. The culprit should be handed over to the secular authorities
 for capital punishment, especially if the sentence of being burned alive
-was mitigated to decapitation, <span id="fr_185"></span>[1](#fn_184) a
+was mitigated to decapitation, <span id="fr_185"></span>[1](#fn_184.md) a
 penalty which the Church avoided inflicting; for "the Church thirsts not
 for blood" (*ecclesia non sitit sanguinem*). A confessor and even the
 judge himself is advised to speak in private with the prisoner
@@ -563,7 +563,7 @@ procedure were not binding. It belonged before the secular and also the
 ecclesiastical tribunal (*crimen fori mixti*). The culprit must be dealt
 with according to the maxim of Pope Boniface VIII. (1294-1303), "simply
 and squarely, without the noise and form of lawyers and judges." <span
-id="fr_186"></span>[1](#fn_185)
+id="fr_186"></span>[1](#fn_185.md)
 
 To us who live in an age of calmer thought and more exact investigation,
 it is difficult to understand how the *Witch-Hammer* could ever have
@@ -621,7 +621,7 @@ we read in König's work on the subject:
 
 <span id="img_32700"></span> <span align="CENTER"> [![THE WATER
 ORDEAL.](tn/generic.jpg)  
-Click to view](img/32700.jpg)  
+Click to view](img/32700.jpg.md)  
 THE WATER ORDEAL.  
 </span>
 
@@ -679,7 +679,7 @@ exhibits
 <span id="img_32900"></span> <span align="CENTER"> [![THE TORTURE ROOM
 AT NUREMBERG. (After C. Rau. Reproduced from B. E.
 König.)](tn/generic.jpg)  
-Click to view](img/32900.jpg)  
+Click to view](img/32900.jpg.md)  
 THE TORTURE ROOM AT NUREMBERG. (After C. Rau. Reproduced from B. E.
 König.)  
 </span>
@@ -687,7 +687,7 @@ König.)
 <span id="page_330">p. 330</span>
 
 in bad Latin the blasphemous inscription, "*Solo Deo Gloria*!" <span
-id="fr_187"></span>[1](#fn_186)
+id="fr_187"></span>[1](#fn_186.md)
 
 The hangmen took pride in their profession and regarded themselves as
 disgraced if they could not make their victims confess whatever the
@@ -700,7 +700,7 @@ imagination can depict.
 Before the torture began, the accused were forced to drink the
 witch-broth, a disgusting concoction mixed with the ashes of burnt
 witches, and supposed to protect the torturers against the evil
-influence of witchcraft. The filth <span id="fr_188"></span>[2](#fn_187)
+influence of witchcraft. The filth <span id="fr_188"></span>[2](#fn_187.md)
 of the dungeons was a very effective means of making the prisoner
 despondent and preparing him for any confession upon which he could be
 condemned. He was frequently secured by iron manacles fixed in the wall
@@ -709,7 +709,7 @@ rendering him a helpless prey to rats, mice, and vermin of all sorts.
 
 Consider only the fiendish details of the torture applied to a woman in
 the year 1631 on the first day of her trial:  <span
-id="fr_189"></span>[3](#fn_188)
+id="fr_189"></span>[3](#fn_188.md)
 
 <span class="small">"(1) The hangman binds the woman, who was pregnant,
 and places her on the rack. Then he racked her till her heart would
@@ -757,7 +757,7 @@ instance only, which, however, is neither typical nor extraordinary in
 its horrors.
 
 We read in Konig's popular exposition of human superstitions, <span
-id="fr_190"></span>[1](#fn_189) p. 240:
+id="fr_190"></span>[1](#fn_189.md) p. 240:
 
 "There was a farmer by the name of Veit, living in a village of Southern
 Bohemia. He was famous for his wit and unusual humor. At the same time
@@ -775,7 +775,7 @@ appointed came, the inn was overcrowded, and farmer Veit appeared with a
 big bag under his arm, into which he requested the company to throw
 twenty pebbles. They did so without noticing that the bag was double.
 And while one part was empty the other contained twenty mice. When the
-pebbles were put in the bag, [Veit](errata.htm#3) murmured a magic
+pebbles were put in the bag, [Veit](errata.htm#3.md) murmured a magic
 formula and let the mice loose in the presence of his frightened
 audience.
 
@@ -867,7 +867,7 @@ DROWNED AS A WITCH AT THE REQUEST OF ERNEST, DUKE OF BAVARIA.&lt;br&gt;
 Shows how the unscrupulous availed themselves of the extraordinary power
 of witch tribunals. (Woodcut by G. Dietrich. Reproduced from B. E.
 König.)](tn/generic.jpg)  
-Click to view](img/33500.jpg)  
+Click to view](img/33500.jpg.md)  
 AGNES BERNAUER DROWNED AS A WITCH AT THE REQUEST OF ERNEST, DUKE OF
 BAVARIA.  
 Shows how the unscrupulous availed themselves of the extraordinary power
@@ -907,7 +907,7 @@ of her in full figure with the simple inscription:
 "Obiit Agnes Bernauerin. Requiescat in pace."
 
 Poets who have immortalised her name, <span
-id="fr_191"></span>[1](#fn_190) and the
+id="fr_191"></span>[1](#fn_190.md) and the
 
 <span id="page_337">p. 337</span>
 
@@ -935,16 +935,16 @@ among the so-called civilised races of mankind.
 
 ### Footnotes
 
-<span id="fn_169"></span>[308:1](hod16.htm#fr_170) See Epist. xv., *ad
+<span id="fn_169"></span>[308:1](hod16.htm#fr_170.md) See Epist. xv., *ad
 Turribium*.
 
-<span id="fn_170"></span>[312:1](hod16.htm#fr_171) Roskoff, Geschichte
+<span id="fn_170"></span>[312:1](hod16.htm#fr_171.md) Roskoff, Geschichte
 des Teufels, II., pp. 215-216.
 
-<span id="fn_171"></span>[312:2](hod16.htm#fr_172) The illustrations on
+<span id="fn_171"></span>[312:2](hod16.htm#fr_172.md) The illustrations on
 pages 312-320 are reproduced from Picart.
 
-<span id="fn_172"></span>[313:1](hod16.htm#fr_173) See *Konrad von
+<span id="fn_172"></span>[313:1](hod16.htm#fr_173.md) See *Konrad von
 Marburg*, by Henke (Marburg, 1861), and another work of the same title
 by Beck (Breslau, 1861).
 
@@ -958,31 +958,31 @@ that a, book appeared in defense of Conrad as an inquisitor and of his
 fiendish deeds by Kaltner under the title *Konrad von Marburg und die
 Inquisition in Deutschland*. Prague, 1882.
 
-<span id="fn_173"></span>[316:1](hod16.htm#fr_174) Lamothe-Langon, III.,
+<span id="fn_173"></span>[316:1](hod16.htm#fr_174.md) Lamothe-Langon, III.,
 p. 299, and Soldan, p. 193.
 
-<span id="fn_174"></span>[316:2](hod16.htm#fr_175) F. Hoffmann,
+<span id="fn_174"></span>[316:2](hod16.htm#fr_175.md) F. Hoffmann,
 *Geschichte der Inquisition*, Bonn, 1878. Llorente, *Geschichte der
 spanischen Inquisition*. German, from the Spanish.
 
-<span id="fn_175"></span>[317:1](hod16.htm#fr_176) Fr. Joannes Nider,
+<span id="fn_175"></span>[317:1](hod16.htm#fr_176.md) Fr. Joannes Nider,
 *Suevi ordin. praedicat. s. theolog. profess. et hereticae pestis
 inquisitoris, liber insignis de maleficiis et eorum deceptionibus*.
 
-<span id="fn_176"></span>[317:2](hod16.htm#fr_177) "Summarie simpliciter
+<span id="fn_176"></span>[317:2](hod16.htm#fr_177.md) "Summarie simpliciter
 et de plano, ac sine strepitu et figura judicii."--Pope Eugene in his
 circular letter to the Inquisitors of 1437.
 
-<span id="fn_177"></span>[318:1](hod16.htm#fr_178) See Raynald ad. ann.
+<span id="fn_177"></span>[318:1](hod16.htm#fr_178.md) See Raynald ad. ann.
 1451.
 
-<span id="fn_178"></span>[320:1](hod16.htm#fr_179) The book is
+<span id="fn_178"></span>[320:1](hod16.htm#fr_179.md) The book is
 frequently appended to the *Malleus Maleficarum*.
 
-<span id="fn_179"></span>[320:2](hod16.htm#fr_180) f Chapter IV.
+<span id="fn_179"></span>[320:2](hod16.htm#fr_180.md) f Chapter IV.
 contains the abjuration formula.
 
-<span id="fn_180"></span>[321:1](hod16.htm#fr_181) ". . . . ut fides
+<span id="fn_180"></span>[321:1](hod16.htm#fr_181.md) ". . . . ut fides
 catholica nostris potissime temporibus ubique augeatur et floreat, ac
 omnis heretica pravitas de finibus fidelium procul pellatur. . . . Sane
 nuper ad nostrum non sine ingenti molestia pervenit auditum quod . . . .
@@ -992,7 +992,7 @@ animatium fœtus, terræ fruges .... periri, suffocari et extingui facere
 . . . ." (See Soldan, *Hexenprocesse*, p. 222. Roskoff, I., pp.
 226-292.)
 
-<span id="fn_181"></span>[322:1](hod16.htm#fr_182) Giovanno Ballista
+<span id="fn_181"></span>[322:1](hod16.htm#fr_182.md) Giovanno Ballista
 Cibo, when elected pope in 1484, chose the name Innocent, probably in
 commemoration of Innocent VII. The people of his time, thinking that he
 did not deserve the name, called him *Nocens*. He had seven natural
@@ -1005,36 +1005,36 @@ Hunc merito poterit dicere Roma patrem."</span>
 
 </div>
 
-<span id="fn_182"></span>[323:1](hod16.htm#fr_183) *Hexenprocesse*, p.
+<span id="fn_182"></span>[323:1](hod16.htm#fr_183.md) *Hexenprocesse*, p.
 222.
 
-<span id="fn_183"></span>[323:2](hod16.htm#fr_184) "Ita recepta est in
+<span id="fn_183"></span>[323:2](hod16.htm#fr_184.md) "Ita recepta est in
 hoc scribendi genere eorum authoritas ut pro lege apud omnes
 habeatur."--Damhouder's *Praxis rerum criminalium*.
 
-<span id="fn_184"></span>[324:1](hod16.htm#fr_185) "Saecularem curiam
+<span id="fn_184"></span>[324:1](hod16.htm#fr_185.md) "Saecularem curiam
 affectuose deprecamur quatenus citra sanguinis effusionem et mortis
 periculum suam sententiam moderatur," was the usual clause when the
 inquisition handed their victims over to the secular authorities.
 
-<span id="fn_185"></span>[325:1](hod16.htm#fr_186) "Simpliciter et de
+<span id="fn_185"></span>[325:1](hod16.htm#fr_186.md) "Simpliciter et de
 plano, absque advocatorum et judiciorum strepitu et figura,"--a phrase,
 which, as we saw, was almost literally repeated by Pope Eugenius IV.
 
-<span id="fn_186"></span>[330:1](hod16.htm#fr_187) It ought to be *Soli
+<span id="fn_186"></span>[330:1](hod16.htm#fr_187.md) It ought to be *Soli
 Deo Gloria*.
 
-<span id="fn_187"></span>[330:2](hod16.htm#fr_188) *Carceris squalores*
+<span id="fn_187"></span>[330:2](hod16.htm#fr_188.md) *Carceris squalores*
 is the expression used by the author of the *Witch-Hammer*.
 
-<span id="fn_188"></span>[330:3](hod16.htm#fr_189) Translated from
+<span id="fn_188"></span>[330:3](hod16.htm#fr_189.md) Translated from
 König, *Ausgeburten des Menschenwahns*, p. 130 See also Soldan,
 *Hexenprocesse*, pp. 269-270.
 
-<span id="fn_189"></span>[332:1](hod16.htm#fr_190) *Ausgeburten des
+<span id="fn_189"></span>[332:1](hod16.htm#fr_190.md) *Ausgeburten des
 Menschenwahns*, ein Volksbuch, Rudolstadt.
 
-<span id="fn_190"></span>[336:1](hod16.htm#fr_191) Folksong on Agnes die
+<span id="fn_190"></span>[336:1](hod16.htm#fr_191.md) Folksong on Agnes die
 Pernawerin. Count Törring (1780), Böttger (1846), Melchior Meyr (1862),
 Friedrich Hebbel (1855), Otto Ludwig (a posthumous fragmentary design of
 a drama begun in 1852). König, *Ausgeburten des Menschenwahns*
@@ -1044,4 +1044,4 @@ on Agnes Bernauer in *Die Gartenlaube*, 1873, p. 454.
 
 ------------------------------------------------------------------------
 
-[Next: The Age of the Reformation](hod17)
+[Next: The Age of the Reformation](hod17.md)

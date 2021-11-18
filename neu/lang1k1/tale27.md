@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale26)  [Next](tale28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale26)  [Next](tale28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ king; she plays every musical instrument,
 <span id="img_26900"></span>
 
 [![THE BEAUTIFUL PERSIAN IS BROUGHT TO KHACAN](tn/26900.jpg)  
-Click to enlarge](img/26900.jpg)  
+Click to enlarge](img/26900.jpg.md)  
 THE BEAUTIFUL PERSIAN IS BROUGHT TO KHACAN  
 
 she sings, she dances, she makes verses, in fact there is no
@@ -224,7 +224,7 @@ knew no bounds. Wringing his hands and rending his beard, he exclaimed:
 <span id="img_27300"></span>
 
 [![NOUREDDIN GETS RID OF THE TWO LITTLE SLAVES](tn/27300.jpg)  
-Click to enlarge](img/27300.jpg)  
+Click to enlarge](img/27300.jpg.md)  
 NOUREDDIN GETS RID OF THE TWO LITTLE SLAVES  
 
 "Wretched son! thou destroyest not only thyself but thy father. The king
@@ -444,7 +444,7 @@ request was granted.
 
 [![SAOUY TRIES TO TAKE THE BEAUTIFUL PERSIAN FROM
 NOUREDDEN](tn/27900.jpg)  
-Click to enlarge](img/27900.jpg)  
+Click to enlarge](img/27900.jpg.md)  
 SAOUY TRIES TO TAKE THE BEAUTIFUL PERSIAN FROM NOUREDDEN  
 
 As soon as Saouy saw the Persian he was so struck by her beauty, that he
@@ -647,7 +647,7 @@ the ministers of
 <span id="img_28500"></span>
 
 [![THE FAIR PERSIAN LIGHTS THE CANDLES](tn/28500.jpg)  
-Click to enlarge](img/28500.jpg)  
+Click to enlarge](img/28500.jpg.md)  
 THE FAIR PERSIAN LIGHTS THE CANDLES  
 
 <span id="page_286">p. 286</span>
@@ -776,7 +776,7 @@ Farewell."
 
 [![NOUREDDIN OFFERS THE BEAUTIFUL PERSIAN TO THE
 FISHERMAN](tn/28900.jpg)  
-Click to enlarge](img/28900.jpg)  
+Click to enlarge](img/28900.jpg.md)  
 NOUREDDIN OFFERS THE BEAUTIFUL PERSIAN TO THE FISHERMAN  
 
 The Caliph then gave this letter to Noureddin, who immediately set off,
@@ -902,7 +902,7 @@ and suddenly calling to mind the patent,
 <span id="img_29300"></span>
 
 [![NOUREDDIN LED TO EXECUTION](tn/29300.jpg)  
-Click to enlarge](img/29300.jpg)  
+Click to enlarge](img/29300.jpg.md)  
 NOUREDDIN LED TO EXECUTION  
 
 he sent for Giafar, and ordered him to make for Balsora with the utmost
@@ -935,4 +935,4 @@ more careful in future in the choice of his vizir.
 
 ------------------------------------------------------------------------
 
-[Next: Aladdin and the Wonderful Lamp](tale28)
+[Next: Aladdin and the Wonderful Lamp](tale28.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi32)  [Next](osi34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi32)  [Next](osi34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -153,7 +153,7 @@ the Egyptians, the Hebrew Cabalists, and the Christians, is identical
 with that of the Hindu Brahmins, who believed in the Pitris.
 
 There is one argument in favor of this opinion which is
-[absolutely](errata.htm#6) conclusive, and that is this: Among all
+[absolutely](errata.htm#6.md) conclusive, and that is this: Among all
 ancient countries, India is the only one that possesses the whole of
 this philosophy, so much so, indeed, that if it were desired to
 reconstruct it from materials obtained from other sources than the
@@ -259,4 +259,4 @@ the laws of history and of the evolution of the human mind.
 
 ------------------------------------------------------------------------
 
-[Next: To the Reader](osi34)
+[Next: To the Reader](osi34.md)

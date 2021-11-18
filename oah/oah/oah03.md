@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah02)  [Next](oah04) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah02)  [Next](oah04.md) 
 
 ------------------------------------------------------------------------
 
@@ -240,4 +240,4 @@ Vocent. Perpetual roaring of the atmospherean elements.
 
 ------------------------------------------------------------------------
 
-[Next: List Of Plates](oah04)
+[Next: List Of Plates](oah04.md)

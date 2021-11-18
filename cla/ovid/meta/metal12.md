@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)   
-[English](meta12)   
-[Previous](metal11)  [Next](metal13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index.md)   
+[English](meta12.md)   
+[Previous](metal11)  [Next](metal13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -649,4 +649,4 @@ iussit et arbitrium litis traiecit in omnes.
 
 ------------------------------------------------------------------------
 
-[Next: Liber Tertius Decimus](metal13)
+[Next: Liber Tertius Decimus](metal13.md)

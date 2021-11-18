@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg81)  [Next](hchg83) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg81)  [Next](hchg83.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -322,4 +322,4 @@ interpretation reduce nothing in the literal word.
 ------------------------------------------------------------------------
 
 [Next: IX. The Hallows of the Graal Mystery Rediscovered in the
-Talismans of the Tarot](hchg83)
+Talismans of the Tarot](hchg83.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng20)  [Next](nblng22) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng20)  [Next](nblng22.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,4 +175,4 @@ province.
 ------------------------------------------------------------------------
 
 [Next: Adventure XX: How King Etzel Sent To Burgundy For
-Kriemhild.](nblng22)
+Kriemhild.](nblng22.md)

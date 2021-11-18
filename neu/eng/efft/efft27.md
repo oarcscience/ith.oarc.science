@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft26)  [Next](efft28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft26)  [Next](efft28.md) 
 
 ------------------------------------------------------------------------
 
-# THE FISHERMAN AND THE PISKIES  <span id="fr_33"></span>[1](#fn_33)
+# THE FISHERMAN AND THE PISKIES  <span id="fr_33"></span>[1](#fn_33.md)
 
 JOHN TAPRAIL, long since dead, moored his boat one evening beside a
 barge of much larger size, in which his neighbour John Rendle traded
@@ -44,9 +44,9 @@ pocket inside out.
 
 ### Footnotes
 
-<span id="fn_33"></span>[1](efft27.htm#fr_33) *Choice Notes: Folk-Lore*,
+<span id="fn_33"></span>[1](efft27.htm#fr_33.md) *Choice Notes: Folk-Lore*,
 p. 76.
 
 ------------------------------------------------------------------------
 
-[Next: A Fairy Caught](efft28)
+[Next: A Fairy Caught](efft28.md)

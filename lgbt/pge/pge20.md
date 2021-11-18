@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge19) 
-[Next](pge21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge19.md) 
+[Next](pge21.md) 
 
 ------------------------------------------------------------------------
 
@@ -142,7 +142,7 @@ to this charm of youthfulness, the Greeks admitted, as true artists are
 obliged to do, that the male body displays harmonies of proportion and
 melodies of outline more comprehensive, more indicative of strength
 expressed in terms of grace, than that of women. <span
-id="fr_183"></span>[1](#fn_183) I guard myself against saying--more
+id="fr_183"></span>[1](#fn_183.md) I guard myself against saying--more
 seductive to the senses, more soft, more delicate, more undulating. The
 superiority of male beauty does not consist in these attractions, but in
 the symmetrical development of all the qualities of the human frame, the
@@ -218,7 +218,7 @@ earth with heroes. Do not our wives stay at home and breed our children?
 
 ### Footnotes
 
-<span id="fn_183"></span>[68:1](pge20.htm#fr_183) The following passage
+<span id="fn_183"></span>[68:1](pge20.htm#fr_183.md) The following passage
 may be extracted from a letter of Winckelmann (see Pater's *Studies in
 the History of the Renaissance*, p. 162): "As it is confessedly the
 beauty of man which is to be conceived under one general idea, so I have
@@ -234,4 +234,4 @@ of the human form than the female.
 
 ------------------------------------------------------------------------
 
-[Next: XIX. Homosexuality among Greek women](pge21)
+[Next: XIX. Homosexuality among Greek women](pge21.md)

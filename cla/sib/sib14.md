@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib13)  [Next](sib15) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib13)  [Next](sib15.md) 
 
 ------------------------------------------------------------------------
 
@@ -720,4 +720,4 @@ Unto all ages with their mighty sons.
 
 ------------------------------------------------------------------------
 
-[Next: Appendices](sib15)
+[Next: Appendices](sib15.md)

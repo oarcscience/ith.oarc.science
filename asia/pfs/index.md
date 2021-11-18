@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/141914135X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/141914135X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/141914135X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pfs00)
+[Contents](#contents)    [Start Reading](pfs00.md)
 
 ------------------------------------------------------------------------
 
@@ -33,20 +33,20 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/141914135X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pfs00)  
-[Preface](pfs01)  
-[Contents](pfs02)  
-[The Tobacco of Harisaboqued](pfs03)  
-[The Pericos](pfs04)  
-[Quicoy and the Ongloc](pfs05)  
-[The Passing of Loku](pfs06)  
-[The Light of the Fly](pfs07)  
-[Mangita and Larina](pfs08)  
-[How the World Was Made](pfs09)  
-[The Silver Shower](pfs10)  
-[The Faithlessness of Sinogo](pfs11)  
-[Catalina of Dumaguete](pfs12)  
-[The Fall of Polobulac](pfs13)  
-[The Escape of Juanita](pfs14)  
-[The Anting-Anting of Manuelito](pfs15)  
-[Glossary](pfs16)  
+<span id="contents"></span> [Title Page](pfs00.md)  
+[Preface](pfs01.md)  
+[Contents](pfs02.md)  
+[The Tobacco of Harisaboqued](pfs03.md)  
+[The Pericos](pfs04.md)  
+[Quicoy and the Ongloc](pfs05.md)  
+[The Passing of Loku](pfs06.md)  
+[The Light of the Fly](pfs07.md)  
+[Mangita and Larina](pfs08.md)  
+[How the World Was Made](pfs09.md)  
+[The Silver Shower](pfs10.md)  
+[The Faithlessness of Sinogo](pfs11.md)  
+[Catalina of Dumaguete](pfs12.md)  
+[The Fall of Polobulac](pfs13.md)  
+[The Escape of Juanita](pfs14.md)  
+[The Anting-Anting of Manuelito](pfs15.md)  
+[Glossary](pfs16.md)  

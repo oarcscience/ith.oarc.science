@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb30)  [Next](vifb32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb30)  [Next](vifb32.md) 
 
 </div>
 
@@ -169,6 +169,6 @@ and they lived happily ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The Princess who was Hidden Underground](vifb32)
+[Next: The Princess who was Hidden Underground](vifb32.md)
 
 </div>

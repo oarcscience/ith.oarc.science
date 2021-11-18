@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe163)  [Next](prwe165) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe163)  [Next](prwe165.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ enchantment."--Tonkin.
 
 ------------------------------------------------------------------------
 
-[Next: Camelford and King Arthur](prwe165)
+[Next: Camelford and King Arthur](prwe165.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/coe)  [Previous](../ayl/ayl) 
-[Next](../cor/cor) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/coe)  [Previous](../ayl/ayl.md) 
+[Next](../cor/cor.md) 
 
 ------------------------------------------------------------------------
 
@@ -2948,4 +2948,4 @@ Index](../index)  [First Folio](../ff/coe)  [Previous](../ayl/ayl) 
 
 ------------------------------------------------------------------------
 
-[Next: Coriolanus](../cor/cor) 
+[Next: Coriolanus](../cor/cor.md) 

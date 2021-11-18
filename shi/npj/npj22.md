@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj21) 
-[Next](npj23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj21.md) 
+[Next](npj23.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,7 +178,7 @@ I must rehearse the sin that binds me.
 PRIEST.
 
 I have read in tales of a foreign land <span
-id="fr_111"></span>[1](#fn_109)  
+id="fr_111"></span>[1](#fn_109.md)  
 How sin-laden the souls of the dead  
 Have toiled at bitter tasks;  
 But strange, before my eyes  
@@ -213,7 +213,7 @@ CHORUS.
 
 See them, see them clear in the torches' light  
 Hither and thither darting,  
-Those frightened fishes. <span id="fr_112"></span>[1](#fn_110)  
+Those frightened fishes. <span id="fr_112"></span>[1](#fn_110.md)  
 Swift pounce the diving birds,  
 Plunging, scooping,  
 Ceaselessly clutch their prey:  
@@ -223,7 +223,7 @@ Of the life hereafter!
 Oh if these boiling waters would be still,  
 Then would the carp rise thick  
 As goldfinch in a bowl.  
-Look how the little *ayu* leap <span id="fr_113"></span>[2](#fn_111)  
+Look how the little *ayu* leap <span id="fr_113"></span>[2](#fn_111.md)  
 Playing in the shallow stream.  
 Hem them in: give them no rest!  
 Oh strange!  
@@ -234,7 +234,7 @@ It is the hated moon!
 (*He throws down the torch*.)
 
 The lights of the fishing-boat are quenched;  
-Homeward on the Way of Darkness <span id="fr_114"></span>[3](#fn_112)  
+Homeward on the Way of Darkness <span id="fr_114"></span>[3](#fn_112.md)  
 In anguish I depart.
 
 (*He leaves the stage*.)
@@ -262,15 +262,15 @@ Is the Fiend's home.
 I am come to proclaim that the sins of this man, who from the days of
 his boyhood long ago has fished in rivers and streams, were grown so
 many that they filled the pages of the Iron Book; <span
-id="fr_115"></span>[1](#fn_113) while on the Golden Leaves there was not
+id="fr_115"></span>[1](#fn_113.md) while on the Golden Leaves there was not
 a mark to his name. And he was like to have been thrown down into the
 Deepest Pit; but now, because he once gave lodging to a priest, I am
 commanded to carry him quickly to Buddha's Place.
 
 The Demon's rage is stilled,  
 The fisher's boat is changed  
-To the ship of Buddha's Vow, <span id="fr_116"></span>[2](#fn_114)  
-Lifeboat of the Lotus Law. <span id="fr_117"></span>[3](#fn_115)
+To the ship of Buddha's Vow, <span id="fr_116"></span>[2](#fn_114.md)  
+Lifeboat of the Lotus Law. <span id="fr_117"></span>[3](#fn_115.md)
 
  
 
@@ -278,29 +278,29 @@ Lifeboat of the Lotus Law. <span id="fr_117"></span>[3](#fn_115)
 
 ### Footnotes
 
-<span id="fn_109"></span>[131:1](npj22.htm#fr_111) Or, according to
+<span id="fn_109"></span>[131:1](npj22.htm#fr_111.md) Or, according to
 another reading, "tales of Hell."
 
-<span id="fn_110"></span>[132:1](npj22.htm#fr_112) The Fisher holds up
+<span id="fn_110"></span>[132:1](npj22.htm#fr_112.md) The Fisher holds up
 his torch and looks down as though peering into the water.
 
-<span id="fn_111"></span>[132:2](npj22.htm#fr_113) I have omitted the
+<span id="fn_111"></span>[132:2](npj22.htm#fr_113.md) I have omitted the
 line "Though this be not the river of Tamashima," a reference to the
 Empress Jingō, who caught an *ayu* at Tamashima when on her way to fight
 the Coreans.
 
-<span id="fn_112"></span>[132:3](npj22.htm#fr_114) A name for Hades.
+<span id="fn_112"></span>[132:3](npj22.htm#fr_114.md) A name for Hades.
 
-<span id="fn_113"></span>[133:1](npj22.htm#fr_115) Good deeds were
+<span id="fn_113"></span>[133:1](npj22.htm#fr_115.md) Good deeds were
 recorded in a golden book, evil deeds in an iron one.
 
-<span id="fn_114"></span>[133:2](npj22.htm#fr_116) He vowed that he
+<span id="fn_114"></span>[133:2](npj22.htm#fr_116.md) He vowed that he
 would come as a ship to those drowning in the Sea of Delusion.
 
-<span id="fn_115"></span>[133:3](npj22.htm#fr_117) Here follow the
+<span id="fn_115"></span>[133:3](npj22.htm#fr_117.md) Here follow the
 twelve concluding lines, too full of Buddhist technicalities to interest
 a general reader.
 
 ------------------------------------------------------------------------
 
-[Next: Aya no Tsuzumi (The Damask Drum)](npj23)
+[Next: Aya no Tsuzumi (The Damask Drum)](npj23.md)

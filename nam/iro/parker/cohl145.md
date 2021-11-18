@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl144)  [Next](cohl146) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl144)  [Next](cohl146.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ So it is done."
 
 ------------------------------------------------------------------------
 
-[Next: Special Annual Ceremonies](cohl146)
+[Next: Special Annual Ceremonies](cohl146.md)

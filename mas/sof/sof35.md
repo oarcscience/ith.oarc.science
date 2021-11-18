@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof34)  [Next](sof36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof34)  [Next](sof36.md) 
 
 ------------------------------------------------------------------------
 
@@ -623,4 +623,4 @@ enunciating and illustrating a particular thought or dogma.
 
 ------------------------------------------------------------------------
 
-[Next: N-Z](sof36)
+[Next: N-Z](sof36.md)

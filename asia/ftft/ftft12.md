@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft11)  [Next](ftft13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft11)  [Next](ftft13.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_70">p. 70</span>
 
 <span id="img_07000"></span> ![The Horse-Dew and the
-Witch](img/07000.jpg)
+Witch](img/07000.jpg.md)
 
 <span id="img_07002"></span> ![](img/07002.jpg)
 
@@ -19,7 +19,7 @@ Witch](img/07000.jpg)
 
 |                     |
 |---------------------|
-| ![O](img/oinit.jpg) |
+| ![O](img/oinit.jpg.md) |
 
 NCE a Padishah had three daughters. Before setting out on a journey he
 called his daughters before him and instructed them to feed his
@@ -57,7 +57,7 @@ into a rose garden and the horse into a handsome youth. Thus they lived
 in the utmost felicity, no one except themselves knowing their secret.
 
 <span id="img_07100"></span> ![He unhorsed his
-brother-in-law](img/07100.jpg)
+brother-in-law](img/07100.jpg.md)
 
 It came to pass that the Padishah arranged a tournament in the court
 yard of the palace, and the bravest of all the knights who took part
@@ -81,7 +81,7 @@ struck down all his opponents, and vanished as before.
 
 |                     |
 |---------------------|
-| ![O](img/oinit.jpg) |
+| ![O](img/oinit.jpg.md) |
 
 N the third day the horse-knight said to his wife: "If at any time I am
 in danger, or you are in need of help, burn these three hairs, and
@@ -193,7 +193,7 @@ bowl, made a whip out of snakes, and was off
 <span id="img_07401"></span>
 
 [![](tn/07401.jpg)  
-Click to enlarge](img/07401.jpg)
+Click to enlarge](img/07401.jpg.md)
 
 <span id="page_75">p. 75</span>
 
@@ -254,4 +254,4 @@ reigned in his stead.
 
 ------------------------------------------------------------------------
 
-[Next: The Simpleton](ftft13)
+[Next: The Simpleton](ftft13.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct04) [Next](bct06)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct04) [Next](bct06.md)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ beloved by God, there they were held in honour by the angels, and were
 called "sons of God," even as the blessed David saith in the psalm, "I
 have said \[<span id="fol_12b1"></span>Fol. 12*b*, col. 1\], Ye are
 gods, and all of you sons of the Most High." ([Ps. lxxxii.
-6](../../bib/kjv/psa.htm#82:6).)
+6](../../bib/kjv/psa.htm#82:6)..md)
 
    Meanwhile fornication reigned among the daughters of Cain, and
 without shame \[several\] women would run after one man. And one man
@@ -125,7 +125,7 @@ conceived, and a tradition in the *Kebra Nagast* says that the children
 were so large that they could not be born in the ordinary way, but had
 to be removed from their mothers by the umbilicus.<span
 id="page_92_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_92_note_1) These children grew up
+class="small">1</span></sup>](#page_92_note_1.md) These children grew up
 and became giants 3,000 cubits in height, and when they had devoured all
 the provisions which their neighbours had collected, they began to fight
 against men and to eat them, and at length they ate the flesh and drank
@@ -287,7 +287,7 @@ I will make a Flood."
    **\[**NOTES.--The *Book of Adam* says that Haykêl was the daughter of
 Abaraz, who was one of the children of the family of Enos, who went into
 perdition. If this be so, Noah married a woman who was akin to the
-children of Cain. The *Book of the Bee* ([chapter xx](../bb/bb20))
+children of Cain. The *Book of the Bee* ([chapter xx](../bb/bb20).md)
 merely states that Noah's wife was of the children of Seth.**\]**
 
  
@@ -455,8 +455,8 @@ because he is the priest of God, the Most High."
 
    **\[**NOTES.--According to the *Book of Adam*, (iii. 5), Shem was to
 appoint Melchisedek (*see* [Gen. xiv.
-18](../../bib/kjv/gen.htm#14:18)-24; [Heb., chapter
-vii.](../../bib/kjv/heb.htm#7:1)), the son of <u>K</u>ainân, and
+18](../../bib/kjv/gen.htm#14:18.md)-24; [Heb., chapter
+vii.](../../bib/kjv/heb.htm#7:1).md), the son of <u>K</u>ainân, and
 grandson of Arphaxad, to be the priest of the Most High; and he was to
 stand and minister on the mountain which is in the middle of the earth.
 He was to wear a garment of skin, and have a leather girdle about his
@@ -552,7 +552,7 @@ them, so that they might never dwell therein again.**\]**
 
 ------------------------------------------------------------------------
 
-[Next](bct06)
+[Next](bct06.md)
 
 ------------------------------------------------------------------------
 
@@ -560,7 +560,7 @@ them, so that they might never dwell therein again.**\]**
 
 <span id="footnotes_page_92"></span>p. 92
 
-<span id="page_92_note_1"></span>[1](#page_92_fr_1) See *Kebra Nagast*
+<span id="page_92_note_1"></span>[1](#page_92_fr_1.md) See *Kebra Nagast*
 (Budge's translation), chapter c. *Concerning the Angels who rebelled*.
 
  

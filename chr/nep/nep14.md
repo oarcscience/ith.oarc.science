@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep13)  [Next](nep15) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep13)  [Next](nep15.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ Amen.
 
 ------------------------------------------------------------------------
 
-[Next: The Sum of the Ten Commandments](nep15)
+[Next: The Sum of the Ten Commandments](nep15.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma32)  [Next](oma34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma32)  [Next](oma34.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ explanations.)
 
 ------------------------------------------------------------------------
 
-[Next: Plate 1](oma34)
+[Next: Plate 1](oma34.md)

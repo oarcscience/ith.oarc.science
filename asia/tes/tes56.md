@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes55)  [Next](tes57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes55)  [Next](tes57.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 ### 2. STORY OF KUNDARIK.
 
 There lived an old man and an old woman. They had a little son, whose
-name was Kundarik. <span id="fr_87"></span>[1](tes57.htm#fn_87) One
+name was Kundarik. <span id="fr_87"></span>[1](tes57.htm#fn_87.md) One
 evening they made a fire in the house and noticed that somebody was
 sitting on the roof, close to the chimney-opening. It was Yaghishna.
 They were much frightened, but Yaghishna said, "Give me your boy,
@@ -43,4 +43,4 @@ Pokhotsk, the Kolyma country, summer of 1895.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Story About Yaghishna](tes57)
+[Next: 3. Story About Yaghishna](tes57.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim73)  [Next](sim75) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim73)  [Next](sim75.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,7 +118,7 @@ When DZOGÉO<sup>n</sup> heard these words he motioned to the walls and
 roof of the cabin, and said, "I want your roof and walls to become
 stone."
 
-The old woman and the Flying Heads, <span id="fr_11"></span>[1](#fn_11)
+The old woman and the Flying Heads, <span id="fr_11"></span>[1](#fn_11.md)
 finding that they were in a stone house and couldn't get out, flew
 around in every direction. The mother-in-law begged for mercy.
 
@@ -148,9 +148,9 @@ on their way till they came to the uncle's cabin.
 
 ### Footnotes
 
-<span id="fn_11"></span>[429:1](sim74.htm#fr_11) Whirlwind is always
+<span id="fn_11"></span>[429:1](sim74.htm#fr_11.md) Whirlwind is always
 represented as a Flying Head.
 
 ------------------------------------------------------------------------
 
-[Next: Thunder Destroys Horned Snake](sim75)
+[Next: Thunder Destroys Horned Snake](sim75.md)

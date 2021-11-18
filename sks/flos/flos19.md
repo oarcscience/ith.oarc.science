@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos18)  [Next](flos20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos18)  [Next](flos20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -72,7 +72,7 @@ of their company.
    *Brawl*.—This was a kind of dance. It appears that several persons
 united hands in a circle, and gave one another continual shakes, the
 steps changing with the tune. With this dance balls were usually
-opened. <span id="fr_829"></span>[1](#fn_827) Kissing was occasionally
+opened. <span id="fr_829"></span>[1](#fn_827.md) Kissing was occasionally
 introduced. In "Love's Labour's Lost" (iii. 1), Moth asks his master,—
 
 <div style="margin-left: 32px">
@@ -98,7 +98,7 @@ that he has seen a medicine,—
 
 This dance is said to have originated in the Canary Islands, an opinion,
 however, which has, says Dyce, been disputed. <span
-id="fr_830"></span>[2](#fn_828)
+id="fr_830"></span>[2](#fn_828.md)
 
    *Cinque-Pace*.—This was so named from its steps being regulated by
 the number five—
@@ -107,7 +107,7 @@ the number five—
 
 <span class="small">"Five was the number of the music's feet,  
  Which still the dance did with five paces meet." <span
-id="fr_831"></span>[3](#fn_829)</span>
+id="fr_831"></span>[3](#fn_829.md)</span>
 
 </div>
 
@@ -181,10 +181,10 @@ train."</span>
 dance where he makes the servant speaking of the pedlar say—"He has the
 prettiest love songs for maids; so without bawdry, which is strange;
 with such delicate burthens of *dildos* and fadings, &c." Some
-commentators, <span id="fr_832"></span>[1](#fn_830) however, consider
+commentators, <span id="fr_832"></span>[1](#fn_830.md) however, consider
 that only the song is meant.
 
-   *Hay*.—Douce, <span id="fr_833"></span>[2](#fn_831) says, this dance
+   *Hay*.—Douce, <span id="fr_833"></span>[2](#fn_831.md) says, this dance
 was borrowed by us from the French, and is classed among the "brawls" in
 Thoinot Arbeau's "Orchesographie (1588.) In "Love's Labour's Lost" (v.
 1), Dull says:—
@@ -199,10 +199,10 @@ On the tabor to the Worthies, and let them dance the hay."</span>
    *Jig*.—Besides meaning a merry sprightly dance, a jig also implied a
 coarse sort of comic entertainment, in which sense it is probably used
 by Hamlet (ii. 2); "He's for a jig or a tale of bawdry." "It seems,"
-says Mr Collier, <span id="fr_834"></span>[3](#fn_832) "to have been a
+says Mr Collier, <span id="fr_834"></span>[3](#fn_832.md) "to have been a
 ludicrous composition in rhyme, sung, or said, by the clown, and
 accompanied by dancing and playing upon the pipe and tabor," <span
-id="fr_835"></span>[4](#fn_833) an instance of which perhaps occurs in
+id="fr_835"></span>[4](#fn_833.md) an instance of which perhaps occurs in
 the clown's song at the close of "Twelfth Night"—
 
 <div style="margin-left: 32px">
@@ -245,7 +245,7 @@ described by Sir John Davies:—
 
 </div>
 
-Douce, <span id="fr_836"></span>[1](#fn_834) however, considers it to be
+Douce, <span id="fr_836"></span>[1](#fn_834.md) however, considers it to be
 of Italian origin, and says, "it passed from Italy into Provence and the
 rest of France, and thence into England." Scot, too, in his "Discovery
 of Witchcraft," thus speaks of it:—"He saith, that these night walking
@@ -271,7 +271,7 @@ Nor heel the high lavolt."</span>
 
    *Light o’ Love*.—This was an old tune of a dance, and was a
 proverbial expression for levity especially in love matters. <span
-id="fr_837"></span>[2](#fn_835) In "Much Ado About Nothing" (iii. 4),
+id="fr_837"></span>[2](#fn_835) In "Much Ado About Nothing" (iii. 4.md),
 Margaret says: "Clap's into 'light o’ love'; that goes without a burden;
 do you sing it, and I'll dance it," to which Beatrice answers, "Ye light
 o’ love, with your heels."
@@ -312,12 +312,12 @@ although the reading of this passage is uncertain, the editors of the
    It has been conjectured that the "passy measure galliard," and the
 "passy measure pavan" were only two different measures of the same
 dance, from the Italian *passarezzo*. <span
-id="fr_838"></span>[1](#fn_836)
+id="fr_838"></span>[1](#fn_836.md)
 
    *Roundel*.—This also called the "round," a dance of a circular kind,
 and is probably referred to by Titania in the "Midsummer Night's Dream"
 (ii. 3), where she says to her twain:— <span
-id="fr_839"></span>[2](#fn_837)
+id="fr_839"></span>[2](#fn_837.md)
 
 <div style="margin-left: 32px">
 
@@ -326,7 +326,7 @@ id="fr_839"></span>[2](#fn_837)
 </div>
 
 Ben Jonson, in the "Tale of a Tub," <span
-id="fr_840"></span>[3](#fn_838) seems to call the rings, which such
+id="fr_840"></span>[3](#fn_838.md) seems to call the rings, which such
 fairy dances are supposed to make in the dance, *roundels*.
 
 <div style="margin-left: 32px">
@@ -338,7 +338,7 @@ paths."</span>
 
    *Satyr's Dance*.—A dance of Satyrs was a not uncommon entertainment
 in Shakespeare's day, or even at an earlier period. <span
-id="fr_841"></span>[4](#fn_839) It was not confined to England, and has
+id="fr_841"></span>[4](#fn_839.md) It was not confined to England, and has
 been rendered memorable by the fearful accident with which it was
 accompanied at the Court of France in 1392, a graphic description of
 which has been recorded by Froissart. In the "Winter's Tale" (iv. 4),
@@ -352,7 +352,7 @@ neat-herds, three swine-herds, that have made themselves all men of
 hair; they call themselves Saltiers: and they have a dance which the
 wenches say is a gallimaufry of gambols, because they are not in’t." In
 a book of songs, composed by Thomas Ravenscroft and others, in the time
-of Shakespeare, we find one <span id="fr_842"></span>[1](#fn_840) called
+of Shakespeare, we find one <span id="fr_842"></span>[1](#fn_840.md) called
 the "Satyres’ daunce." It is for four voices, and as follows:—
 
 <div style="margin-left: 32px">
@@ -375,7 +375,7 @@ the "Satyres’ daunce." It is for four voices, and as follows:—
 sword-dances, most of which afforded opportunities for the display of
 skill. In "Antony and Cleopatra" (iii. 4), there seems to be an allusion
 to this custom, where Antony, speaking of Cæsar, says:— <span
-id="fr_843"></span>[2](#fn_841)
+id="fr_843"></span>[2](#fn_841.md)
 
 <div style="margin-left: 32px">
 
@@ -421,7 +421,7 @@ To tread a measure with her on this grass,"</span>
 
 was a grave solemn dance, with slow and measured steps like the minuet.
 As it was of so solemn a nature it was performed <span
-id="fr_844"></span>[1](#fn_842) at public entertainments in the Inns of
+id="fr_844"></span>[1](#fn_842.md) at public entertainments in the Inns of
 Court, and it was "not unusual, nor thought inconsistent, for the first
 characters in the law to bear a part in treading a measure."
 
@@ -440,7 +440,7 @@ Emperor of Germany," it would seem that this was a German dance:—
 
 </div>
 
-Karl Elze, <span id="fr_845"></span>[2](#fn_843) who, a few years ago,
+Karl Elze, <span id="fr_845"></span>[2](#fn_843.md) who, a few years ago,
 reprinted Chapman's "Alphonsus" at Leipzig, says that the word
 "up-spring" "is the 'Hüpfauf,' the last and wildest dance at the old
 German merry-makings. No epithet could there be more appropriate to this
@@ -457,65 +457,65 @@ drunken dance than Shakespeare's *swaggering*" in "Hamlet" (i. 4):—
 
 ### Footnotes
 
-<span id="fn_827"></span>[399:1](flos19.htm#fr_829) Douce's
+<span id="fn_827"></span>[399:1](flos19.htm#fr_829.md) Douce's
 "Illustrations of Shakspeare," p. 134.
 
-<span id="fn_828"></span>[399:2](flos19.htm#fr_830) See Chappell's
+<span id="fn_828"></span>[399:2](flos19.htm#fr_830.md) See Chappell's
 "Popular Music of the Olden Time," 2d edition, i. p. 368; Dyce's
 "Glossary," i. 63.
 
-<span id="fn_829"></span>[399:3](flos19.htm#fr_831) Quoted by Nares from
+<span id="fn_829"></span>[399:3](flos19.htm#fr_831.md) Quoted by Nares from
 Sir John Davies on "Dancing." Mr Dyce, "Glossary," p. 81, says that
 Nares wrongly confounded this with the "gallard."
 
-<span id="fn_830"></span>[401:1](flos19.htm#fr_832) See Knight's
+<span id="fn_830"></span>[401:1](flos19.htm#fr_832.md) See Knight's
 "Pictorial Shakespeare," ii. 383; Dyce's "Glossary," 1836, p. 152;
 "British Popular Customs," 1876, pp. 276–7. See also Chappell's "Popular
 Music of the Olden Time," 2nd edit., i. p. 235 Nares’ "Glossary," i. p.
 292.
 
-<span id="fn_831"></span>[401:2](flos19.htm#fr_833) "Illustrations of
+<span id="fn_831"></span>[401:2](flos19.htm#fr_833.md) "Illustrations of
 Shakspeare," p. 146.
 
-<span id="fn_832"></span>[401:3](flos19.htm#fr_834) "History of English
+<span id="fn_832"></span>[401:3](flos19.htm#fr_834.md) "History of English
 Dramatic Poetry," iii. p. 380; see Dyce's "Glossary," p. 229, and Nares’
 "Glossary," i. p. 450. \[Singer's "Shakespeare," ix. pp. 198, 219.
 
-<span id="fn_833"></span>[401:4](flos19.htm#fr_835) "Hamlet" (iii. 2),
+<span id="fn_833"></span>[401:4](flos19.htm#fr_835) "Hamlet" (iii. 2.md),
 "Your only jig-maker."
 
-<span id="fn_834"></span>[402:1](flos19.htm#fr_836) "Illustrations of
+<span id="fn_834"></span>[402:1](flos19.htm#fr_836.md) "Illustrations of
 Shakspeare," p. 301; see Nares’ "Glossary," ii. p. 498.
 
-<span id="fn_835"></span>[402:2](flos19.htm#fr_837) Nares’ "Glossary,"
+<span id="fn_835"></span>[402:2](flos19.htm#fr_837.md) Nares’ "Glossary,"
 ii. p. 510.
 
-<span id="fn_836"></span>[403:1](flos19.htm#fr_838) See Dyce, iii. p.
+<span id="fn_836"></span>[403:1](flos19.htm#fr_838.md) See Dyce, iii. p.
 412.—*Note* 121.
 
-<span id="fn_837"></span>[403:2](flos19.htm#fr_839) Roundel also meant a
+<span id="fn_837"></span>[403:2](flos19.htm#fr_839.md) Roundel also meant a
 song. Mr Dyce considers the dance is here meant.
 
-<span id="fn_838"></span>[403:3](flos19.htm#fr_840) See Singer's
+<span id="fn_838"></span>[403:3](flos19.htm#fr_840.md) See Singer's
 "Shakespeare," ii. p. 333.
 
-<span id="fn_839"></span>[403:4](flos19.htm#fr_841) See Knight's
+<span id="fn_839"></span>[403:4](flos19.htm#fr_841.md) See Knight's
 "Pictorial Shakespeare," ii. p. 384; Singer's "Shakespeare," iv. p. 85;
 Boswell's "Shakespeare," xiv. p. 371.
 
-<span id="fn_840"></span>[404:1](flos19.htm#fr_842) See Douce's
+<span id="fn_840"></span>[404:1](flos19.htm#fr_842.md) See Douce's
 "Illustrations of Shakspeare," p. 222.
 
-<span id="fn_841"></span>[404:2](flos19.htm#fr_843) See Strutt's "Sports
+<span id="fn_841"></span>[404:2](flos19.htm#fr_843.md) See Strutt's "Sports
 and Pastimes," 1876, pp. 300–1; Douce's "Illustrations of Shakspeare,"
 p. 193.
 
-<span id="fn_842"></span>[405:1](flos19.htm#fr_844) Singer's
+<span id="fn_842"></span>[405:1](flos19.htm#fr_844.md) Singer's
 "Shakespeare," ii. p. 269; Sir Christopher Hatton was famous for it.
 
-<span id="fn_843"></span>[405:2](flos19.htm#fr_845) Quoted in Dyce's
+<span id="fn_843"></span>[405:2](flos19.htm#fr_845.md) Quoted in Dyce's
 "Glossary," p. 476.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. Punishments](flos20)
+[Next: Chapter XVIII. Punishments](flos20.md)

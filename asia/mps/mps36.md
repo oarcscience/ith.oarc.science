@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps35) 
-[Next](mps37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps35.md) 
+[Next](mps37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -59,11 +59,11 @@ hast had this youth.
 shamed me, O wicked woman, and made me to be despised, but to-morrow
 thou shalt know the answer to be paid for this deed; I shall make thee
 to devour thy children with thy teeth; if I fail to do this, spit upon
-my beard <span id="fr_30"></span>[1](#fn_30), let me run mad in the
+my beard <span id="fr_30"></span>[1](#fn_30.md), let me run mad in the
 fields!"
 
 <span class="margnote"><span id="1080">1080</span></span>Thus he spake,
-and the man touched his beard <span id="fr_31"></span>[1](#fn_30) and
+and the man touched his beard <span id="fr_31"></span>[1](#fn_30.md) and
 went out of the door. P’hatman began to beat her head, her cheeks were
 scratched, the gurgling of her tears flowing like a fountain was heard.
 She said: "Come, stone me with stone, let the throwers approach!"
@@ -147,11 +147,11 @@ hair were mingled.
 
 ### Footnotes
 
-<span id="fn_30"></span>[175:1](mps36.htm#fr_31) . . . When a Georgian
+<span id="fn_30"></span>[175:1](mps36.htm#fr_31.md) . . . When a Georgian
 is angry, he puts his hand to his beard as an invitation to his opponent
 to insult him if he fail to do what he promises.
 
 ------------------------------------------------------------------------
 
 [Next: XXXIV. Here is the Slaying of the Chachnagir and His Two Guards
-by Avt’handil](mps37)
+by Avt’handil](mps37.md)

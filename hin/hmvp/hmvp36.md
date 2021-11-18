@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp35)  [Next](hmvp37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp35)  [Next](hmvp37.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ having any authority, each writer has written what seemed good to
 himself. As in the accounts of the deities, the germs are found in the
 older books of what is told at considerable length in the more recent.
 The following hymn from the Rig-Veda <span
-id="fr_298"></span>[\*](#fn_298) describes the primal condition of
+id="fr_298"></span>[\*](#fn_298.md) describes the primal condition of
 things before the creative power of the Deity was exercised:—
 
 <div style="margin-left: 32px">
@@ -93,7 +93,7 @@ from his feet. The morn sprang from his soul (manas), the sun from his
 eye, Indra and Agni from his mouth, and Vāya from his breath. From his
 navel arose the air, from his head the sky, from his feet the earth,
 from his ear the (four) quarters; in this manner (the gods) formed the
-worlds." <span id="fr_299"></span>[\*](#fn_299)
+worlds." <span id="fr_299"></span>[\*](#fn_299.md)
 
 Now follows an extract from the "Sātapatha Brāhmana," which gives the
 words used at the creation. "(Uttering) 'bhūh,' Prajāpati generated this
@@ -104,7 +104,7 @@ generated the Kshattra; (and saying) 'svah,' he generated the Vis. All
 this world is as much as the Brāhman, Kshattra and Vis. (Saying) 'bhūh,'
 Prajāpati generated himself; (saying) 'bhuvah,' he generated offspring;
 (saying) 'svah,' he generated animals. This world is so much as self,
-offspring, and animals." <span id="fr_300"></span>[†](#fn_300)
+offspring, and animals." <span id="fr_300"></span>[†](#fn_300.md)
 
 The "Taittiriya Brāhmana" says, "This entire (universe) has been created
 by Brahmā," and gives an account of the creation of the asuras, pitris
@@ -119,7 +119,7 @@ fatherhood of the fathers. Having created the fathers,
 he reflected. After that he created men. That constitutes the manhood of
 men. He who knows the manhood of men becomes intelligent. To him, when
 he was creating men, day appeared in the heavens. After that he created
-the gods." <span id="fr_301"></span>[\*](#fn_301)
+the gods." <span id="fr_301"></span>[\*](#fn_301.md)
 
 The "Sātapatha Brāhmana" relates the creation of men and animals.
 "Prajāpati was formerly this (universe) only. He desired, 'Let me create
@@ -131,7 +131,7 @@ breaths. Since he formed a man from his soul, therefore they say, 'Man
 is the first of the animals and the strongest.' The soul is all the
 breaths; for all the breaths depend upon the soul. Since he formed man
 from his soul, therefore they say, 'Man is all the animals;' for all
-these are man's." <span id="fr_302"></span>[†](#fn_302)
+these are man's." <span id="fr_302"></span>[†](#fn_302.md)
 
 In another passage this Brāhmana gives quite a different account.
 Purusha, as the soul of the universe, was alone. Hence "he did not enjoy
@@ -148,11 +148,11 @@ them goats and sheep were
 <span id="page_346">p. 346</span>
 
 produced. In this manner pairs of all creatures whatsoever, down to
-ants, were created." <span id="fr_303"></span>[\*](#fn_303)
+ants, were created." <span id="fr_303"></span>[\*](#fn_303.md)
 
 Again, this Brāhmana says, "Prajāpati created living beings. From his
 upper vital airs he created the gods; from his lower vital airs, mortal
-creatures." <span id="fr_304"></span>[†](#fn_304)
+creatures." <span id="fr_304"></span>[†](#fn_304.md)
 
 Manu's account of the creation most probably follows the preceding one
 in order of time; and it will be noticed that he has developed some
@@ -174,7 +174,7 @@ whom that male Viraj himself created, am the creator of all this world."
 The Purānas enter very minutely into the details of the creation. It is
 one of the specified topics of which a Purāna ought to treat. The first
 book of the "Vishnu Purāna" is largely filled with the accounts of this
-work. In his preface <span id="fr_305"></span>[‡](#fn_305) to the
+work. In his preface <span id="fr_305"></span>[‡](#fn_305.md) to the
 translation of the "Vishnu Purāna," Wilson says: "The first book of the
 six into
 
@@ -198,7 +198,7 @@ The account in the "Vishnu Purāna" was, according to that authority,
 "originally imparted by the great father of all (Brahmā) in answer to
 the questions of Daksha and other venerable sages, and repeated by them
 to Purukutsa, a king who reigned on the banks of the Narmadā." <span
-id="fr_306"></span>[\*](#fn_306) " Who can describe him who is not to be
+id="fr_306"></span>[\*](#fn_306.md) " Who can describe him who is not to be
 apprehended by the senses? He is Brahma, supreme, lord, eternal, unborn,
 imperishable. He then existed in the form of Purusha and of Kāla.
 Purusha (Spirit) is the first form of the supreme; next proceeded two
@@ -216,10 +216,10 @@ own will having entered into matter and spirit, agitated the mutable and
 immutable principles, the season of creation having arrived, in the same
 manner as fragrance affects the mind from its proximity merely, and not
 from any immediate operation upon mind itself; so the supreme influenced
-the elements of creation." <span id="fr_307"></span>[\*](#fn_307)
+the elements of creation." <span id="fr_307"></span>[\*](#fn_307.md)
 
 After giving an account of the creation, or rather the evolution of the
-elements, the "Vishnu Purāna" <span id="fr_308"></span>[†](#fn_308) goes
+elements, the "Vishnu Purāna" <span id="fr_308"></span>[†](#fn_308.md) goes
 on to say: Then (the elements) ether, air, light, water and earth,
 severally united with the properties of sound, and the rest existed as
 distinguishable according to their qualities as soothing, terrific, or
@@ -258,11 +258,11 @@ age. This is a secondary creation, for water and the earth also are
 already in existence; it is not creation properly speaking, but the
 change of pre-existing matter into their present forms. Vishnu knew that
 the earth lay hidden in the waters; he, therefore, assuming the form of
-a boar, <span id="fr_309"></span>[\*](#fn_309) raised it upon his tusks.
+a boar, <span id="fr_309"></span>[\*](#fn_309.md) raised it upon his tusks.
 
 In answer to a request for a full account of the creation of gods and
 other beings, the following passages <span
-id="fr_310"></span>[†](#fn_310) occur:—"Created beings, although they
+id="fr_310"></span>[†](#fn_310.md) occur:—"Created beings, although they
 are destroyed (in their original forms) at the periods of dissolution,
 yet, being affected by the good or evil acts of former existence, are
 never exempted from their consequences; and when Brahmā creates the
@@ -325,7 +325,7 @@ Purāna, in similar terms to those in Manu.
 
 Following this is the account of the mind-born sons of Brahmā—Bhrigu,
 Daksha, and others—nine in number, who became the progenitors of
-men. <span id="fr_311"></span>[\*](#fn_311) Next "Brahmā created himself
+men. <span id="fr_311"></span>[\*](#fn_311.md) Next "Brahmā created himself
 as Manu Swāyambhu, born of, and identical with, his original self, for
 the protection of created beings: and the female portion of himself he
 constituted Satarūpā, whom austerity purified from the sin (forbidden
@@ -348,44 +348,44 @@ fully described here than in the other Purānas.
 
 ### Footnotes
 
-<span id="fn_298"></span>[342:\*](hmvp36.htm#fr_298) Muir, O. S. T., v.
+<span id="fn_298"></span>[342:\*](hmvp36.htm#fr_298.md) Muir, O. S. T., v.
 356.
 
-<span id="fn_299"></span>[344:\*](hmvp36.htm#fr_299) Muir, O. S. T., i.
+<span id="fn_299"></span>[344:\*](hmvp36.htm#fr_299.md) Muir, O. S. T., i.
 9.
 
-<span id="fn_300"></span>[344:†](hmvp36.htm#fr_300) Ibid., i. 17.
+<span id="fn_300"></span>[344:†](hmvp36.htm#fr_300.md) Ibid., i. 17.
 
-<span id="fn_301"></span>[345:\*](hmvp36.htm#fr_301) Muir, O. S. T., i.
+<span id="fn_301"></span>[345:\*](hmvp36.htm#fr_301.md) Muir, O. S. T., i.
 23.
 
-<span id="fn_302"></span>[345:†](hmvp36.htm#fr_302) Ibid., i. 24.
+<span id="fn_302"></span>[345:†](hmvp36.htm#fr_302.md) Ibid., i. 24.
 
-<span id="fn_303"></span>[346:\*](hmvp36.htm#fr_303) Muir, O. S. T., i.
+<span id="fn_303"></span>[346:\*](hmvp36.htm#fr_303.md) Muir, O. S. T., i.
 26.
 
-<span id="fn_304"></span>[346:†](hmvp36.htm#fr_304) "Vishnu Purāna," p.
+<span id="fn_304"></span>[346:†](hmvp36.htm#fr_304.md) "Vishnu Purāna," p.
 31.
 
-<span id="fn_305"></span>[346:‡](hmvp36.htm#fr_305) Ibid., p. 39.
+<span id="fn_305"></span>[346:‡](hmvp36.htm#fr_305.md) Ibid., p. 39.
 
-<span id="fn_306"></span>[347:\*](hmvp36.htm#fr_306) "Vishnu Purāna," p.
+<span id="fn_306"></span>[347:\*](hmvp36.htm#fr_306.md) "Vishnu Purāna," p.
 9.
 
-<span id="fn_307"></span>[348:\*](hmvp36.htm#fr_307) "Vishnu Purāna," p.
+<span id="fn_307"></span>[348:\*](hmvp36.htm#fr_307.md) "Vishnu Purāna," p.
 13.
 
-<span id="fn_308"></span>[348:†](hmvp36.htm#fr_308) Page 18.
+<span id="fn_308"></span>[348:†](hmvp36.htm#fr_308.md) Page 18.
 
-<span id="fn_309"></span>[349:\*](hmvp36.htm#fr_309) See ante, [p.
-144](hmvp20.htm#page_144).
+<span id="fn_309"></span>[349:\*](hmvp36.htm#fr_309.md) See ante, [p.
+144](hmvp20.htm#page_144.md).
 
-<span id="fn_310"></span>[349:†](hmvp36.htm#fr_310) "Vishnu Purāna," p.
+<span id="fn_310"></span>[349:†](hmvp36.htm#fr_310.md) "Vishnu Purāna," p.
 39.
 
-<span id="fn_311"></span>[351:\*](hmvp36.htm#fr_311) See part iii. chap.
+<span id="fn_311"></span>[351:\*](hmvp36.htm#fr_311.md) See part iii. chap.
 i.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Purānic Divisions of Time](hmvp37)
+[Next: Chapter X. The Purānic Divisions of Time](hmvp37.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa39)  [Next](tsa41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa39)  [Next](tsa41.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Heritage
 ### (1) Who strikes his Father or Mother.
 
 He who strikes his father or mother <span
-id="fr_480"></span>[6](#fn_473) is not guilty till he bruise them.
+id="fr_480"></span>[6](#fn_473.md) is not guilty till he bruise them.
 Cursing is more serious
 
 <span id="page_137">p. 137</span>
@@ -25,8 +25,8 @@ penalty.
 
 ### Footnotes
 
-<span id="fn_473"></span>[136:6](tsa40.htm#fr_480) Exod. 21. 15.
+<span id="fn_473"></span>[136:6](tsa40.htm#fr_480.md) Exod. 21. 15.
 
 ------------------------------------------------------------------------
 
-[Next: (2) Who steals a Soul from Israel](tsa41)
+[Next: (2) Who steals a Soul from Israel](tsa41.md)

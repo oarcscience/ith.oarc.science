@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap06)  [Next](appendix) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap06)  [Next](appendix.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ made of Reuter.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](appendix)
+[Next: Appendix](appendix.md)

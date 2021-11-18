@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr23)  [Next](arr25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr23)  [Next](arr25.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ as the gift of God."
 
 ------------------------------------------------------------------------
 
-[Next: Section VI](arr25)
+[Next: Section VI](arr25.md)

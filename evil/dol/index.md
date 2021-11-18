@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](dol00)    [Page
-Index](pageidx)    [Text \[Zipped\]](dol.txt.gz)
+[Contents](#contents)    [Start Reading](dol00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](dol.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -45,14 +45,14 @@ Niau in 1634.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](dol00)  
-[Introduction](dol01)  
-[Part I](dol02)  
-[Part II](dol03)  
-[Part III](dol04)  
+<span id="contents"></span> [Title Page](dol00.md)  
+[Introduction](dol01.md)  
+[Part I](dol02.md)  
+[Part II](dol03.md)  
+[Part III](dol04.md)  
 <span id="section_000"></span>
 
 ### Appendices
 
-[Appendix I](dol05)  
-[Appendix II](dol06)  
+[Appendix I](dol05.md)  
+[Appendix II](dol06.md)  

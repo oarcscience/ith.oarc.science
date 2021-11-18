@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@
 
 ------------------------------------------------------------------------
 
-[Start Reading](wos00)    [Contents](#contents)
+[Start Reading](wos00)    [Contents](#contents.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ play in religion and mythology.
 Modern writers from Carl Sagan to David Icke have taken the same themes
 and derived interesting, if controversial theses of their own. Sagan (in
 [The Dragons of
-Eden](https://www.amazon.com/exec/obidos/ASIN/0345346297/internetsacredte))
+Eden](https://www.amazon.com/exec/obidos/ASIN/0345346297/internetsacredte).md)
 wrote about the ancient relationship between mammals and reptiles which
 goes back to the time of the dinosaurs. Sagan pointed out that there is
 a section of our brain, which is morphologically and functionally
@@ -56,23 +56,23 @@ similar to a reptile brain, embedded in our brain stem, called the
 be hard-wired into our brains, and inferred that it began in the
 primordial struggle for survival between reptiles and mammals. At the
 other end of the spectrum,
-[Icke](https://www.amazon.com/exec/obidos/ASIN/0953881016/internetsacredte)
+[Icke](https://www.amazon.com/exec/obidos/ASIN/0953881016/internetsacredte.md)
 believes that a shapeshifting race of reptilians have dominated history
 and even today are the secret rulers of our planet. Certainly, the full
 account of this topic has yet to be written.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](wos00)  
-[Preface](wos01)  
-[Table of Contents](wos02)  
-[Preliminary Observations on the Fall of Man](wos03)  
-[Chapter I. Serpent-Worship in Asia](wos04)  
-[Chapter II. Serpent-Worship In Africa](wos05)  
-[Chapter III. Serpent-Worship in Europe](wos06)  
-[Chapter IV. Serpent-Worship in America](wos07)  
-[Chapter V. Heathen Fables Illustrative of the Fall of Man](wos08)  
-[Chapter VI. Serpent Temples](wos09)  
-[Chapter VII. The Decline of Serpent Worship](wos10)  
-[Chapter VIII. Summary.](wos11)  
-[Chapter IX. Concluding Remarks on the Redemption of Man.](wos12)  
+<span id="contents"></span> [Title Page](wos00.md)  
+[Preface](wos01.md)  
+[Table of Contents](wos02.md)  
+[Preliminary Observations on the Fall of Man](wos03.md)  
+[Chapter I. Serpent-Worship in Asia](wos04.md)  
+[Chapter II. Serpent-Worship In Africa](wos05.md)  
+[Chapter III. Serpent-Worship in Europe](wos06.md)  
+[Chapter IV. Serpent-Worship in America](wos07.md)  
+[Chapter V. Heathen Fables Illustrative of the Fall of Man](wos08.md)  
+[Chapter VI. Serpent Temples](wos09.md)  
+[Chapter VII. The Decline of Serpent Worship](wos10.md)  
+[Chapter VIII. Summary.](wos11.md)  
+[Chapter IX. Concluding Remarks on the Redemption of Man.](wos12.md)  

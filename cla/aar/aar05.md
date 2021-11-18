@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aar04)  [Next](aar06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aar04)  [Next](aar06.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ are the very foundation-stones of that ritual from which art, if we are
 right, took its rise. From this need for food sprang seasonal, periodic
 festivals. The fact that festivals are seasonal, constantly recurrent,
 solidifies, makes permanent, and as already explained ([p.
-42](aar04.htm#page_42)), in a sense intellectualizes and abstracts the
+42](aar04.htm#page_42).md), in a sense intellectualizes and abstracts the
 emotion that prompts them.
 
 The seasons are indeed only of value to primitive man because they are
@@ -73,7 +73,7 @@ the calendar of Egypt depends on the Nile, of the South Pacific islands
 on the monsoon.
 
 In his recent *Introduction to Mathematics* <span
-id="fr_6"></span>[1](#fn_6) Dr. Whitehead has pointed out how the "whole
+id="fr_6"></span>[1](#fn_6.md) Dr. Whitehead has pointed out how the "whole
 life of Nature is dominated by the existence of periodic events." The
 rotation of the earth produces successive days; the path of the earth
 round the sun leads to the yearly recurrence of the seasons; the phases
@@ -81,7 +81,7 @@ of the moon are recurrent, and though artificial light has made these
 phases pass almost unnoticed to-day, in climates where the skies are
 clear, human life was largely influenced by moonlight. Even our own
 bodily life, with its recurrent heart-beats and breathings, is
-essentially periodic. <span id="fr_7"></span>[2](#fn_7) The
+essentially periodic. <span id="fr_7"></span>[2](#fn_7.md) The
 presupposition of periodicity is indeed fundamental to our very
 conception of life, and but for periodicity the very means of measuring
 time as a quantity would be absent.
@@ -114,7 +114,7 @@ in the
 
 <span id="page_54">p. 54</span>
 
-cycle of activity. It will later ([p. 70](#page_70)) be seen that these
+cycle of activity. It will later ([p. 70](#page_70).md) be seen that these
 periodic festivals are the stuff of which those faded, unaccomplished
 actions and desires which we call gods--Attis, Osiris, Dionysos--are
 made.
@@ -153,7 +153,7 @@ swift decay.
  
 
 "What waste would it be," says Plutarch, <span
-id="fr_8"></span>[1](#fn_8)"what inconceivable waste, for God to create
+id="fr_8"></span>[1](#fn_8.md)"what inconceivable waste, for God to create
 man, had he not an immortal soul. He would be like the women who make
 little gardens, not less pleasant than the gardens of Adonis in earthen
 pots and pans; so would our souls blossom and flourish but for a day in
@@ -166,10 +166,10 @@ Celebrated at midsummer as they were, and as the "gardens" were thrown
 into water, it is probable that the rites of Adonis may have been, at
 least in part, a rain-charm. In the long summer droughts of Palestine
 and Babylonia the longing for rain must often have been intense enough
-to provoke expression, and we remember ([p. 19](aar03.htm#page_19)) that
+to provoke expression, and we remember ([p. 19](aar03.htm#page_19).md) that
 the Sumerian Tammuz was originally *Dumuzi-absu*, "True Son of the
 Waters." Water is the first need for vegetation. Gardens of Adonis are
-still in use in the Madras Presidency. <span id="fr_9"></span>[1](#fn_9)
+still in use in the Madras Presidency. <span id="fr_9"></span>[1](#fn_9.md)
 At the marriage of a Brahman "seeds of five or nine sorts are mixed and
 sown in earthen pots which are made specially for the purpose, and are
 filled with earth. Bride and bridegroom water the seeds both morning and
@@ -208,7 +208,7 @@ resuscitated by enthusiasts about folk-dances.
 
 \[paragraph continues\] But in the days of "Good Queen Bess" merry
 England, it would seem, was lustier. The Puritan Stubbs, in his
-*Anatomie of Abuses*, <span id="fr_10"></span>[1](#fn_10) thus describes
+*Anatomie of Abuses*, <span id="fr_10"></span>[1](#fn_10.md) thus describes
 the festival:
 
 "They have twentie or fortie yoke of oxen, every oxe havyng a sweete
@@ -232,7 +232,7 @@ a heathen
 \[paragraph continues\] "idoll, or rather the thyng itself." He would
 have exterminated it root and branch, but other and perhaps wiser
 divines took the maypole into the service of the Christian Church, and
-still <span id="fr_11"></span>[1](#fn_11) on May Day in Saffron Walden
+still <span id="fr_11"></span>[1](#fn_11.md) on May Day in Saffron Walden
 the spring song is heard with its Christian moral--
 
 "A branch of May we have brought you,  
@@ -246,7 +246,7 @@ carrying in the May was to bring the very spirit of life and greenery
 into the village. When this was forgotten, idleness or economy would
 prompt the villagers to use the same tree or branch year after year. In
 the villages of Upper Bavaria Dr. Frazer <span
-id="fr_12"></span>[2](#fn_12) tells us the maypole is renewed once every
+id="fr_12"></span>[2](#fn_12.md) tells us the maypole is renewed once every
 three, four, or five years. It is a fir-tree fetched from the forest,
 and amid all the wreaths, flags, and inscriptions with which it is
 bedecked, an
@@ -262,7 +262,7 @@ carried into the village, but with it came a girl or a boy, the Queen or
 King of the May. Sometimes the tree itself, as in Russia, is dressed up
 in woman's clothes; more often a real man or maid, covered with flowers
 and greenery, walks with the tree or carries the bough. Thus in
-Thuringia, <span id="fr_13"></span>[1](#fn_13) as soon as the trees
+Thuringia, <span id="fr_13"></span>[1](#fn_13.md) as soon as the trees
 begin to be green in spring, the children assemble on a Sunday and go
 out into the woods, where they choose one of their playmates to be
 Little Leaf Man. They break branches from the trees and twine them about
@@ -294,7 +294,7 @@ pay the expenses of the feast.
 
 In the Isle of Man the real gist of the ceremony is quite forgotten, it
 has become a mere play. But among the Esquimaux <span
-id="fr_14"></span>[1](#fn_14)
+id="fr_14"></span>[1](#fn_14.md)
 
 <span id="page_62">p. 62</span>
 
@@ -400,9 +400,9 @@ centred, but probably only when its supposed influence on vegetation was
 first surmised. The moon, as it were, practises magic herself; she waxes
 and wanes, and with her, man thinks, all the vegetable kingdom waxes and
 wanes too, all but the lawless onion. The moon, Plutarch <span
-id="fr_15"></span>[1](#fn_15) tells us, is fertile in its light and
+id="fr_15"></span>[1](#fn_15.md) tells us, is fertile in its light and
 contains moisture, it is kindly to the young of animals and to the new
-shoots of plants. Even Bacon <span id="fr_16"></span>[2](#fn_16) held
+shoots of plants. Even Bacon <span id="fr_16"></span>[2](#fn_16.md) held
 that observations of the moon with a view to planting and sowing and the
 grafting of trees were "not altogether frivolous." It cannot too often
 be remembered that primitive man has but little, if any, interest in sun
@@ -526,7 +526,7 @@ There is nothing mysterious about the process; the leader does not
 personality springs the personification. The abstract idea arises from
 the only thing it possibly can arise from, the concrete fact. Without
 *per*ception there is no *con*ception. We noted in speaking of dances
-([p. 43](aar04.htm#page_43)) how the dance got generalized; how from
+([p. 43](aar04.htm#page_43).md) how the dance got generalized; how from
 many commemorations of actual hunts and battles there arose the hunt
 dance and the war dance. So, from
 
@@ -566,7 +566,7 @@ though she delights in picture-images, *eikons*. But at her great spring
 festival of Easter she makes, in the remote villages, concession to a
 strong, perhaps imperative, popular need; she allows an image, an actual
 idol, of the dead Christ to be laid in the tomb that it may rise again.
-A traveller in Eubœa <span id="fr_17"></span>[1](#fn_17) during Holy
+A traveller in Eubœa <span id="fr_17"></span>[1](#fn_17.md) during Holy
 Week had been struck by the genuine grief shown at the Good Friday
 services. On Easter Eve there was the same general gloom and
 despondency, and he asked an old woman why it was. She answered: "Of
@@ -601,39 +601,39 @@ great form of Art, the Greek drama.
 
 ### Footnotes
 
-<span id="fn_6"></span>[52:1](aar05.htm#fr_6) Chapter XII: "Periodicity
+<span id="fn_6"></span>[52:1](aar05.htm#fr_6.md) Chapter XII: "Periodicity
 in Nature."
 
-<span id="fn_7"></span>[52:2](aar05.htm#fr_7) Ibid.
+<span id="fn_7"></span>[52:2](aar05.htm#fr_7.md) Ibid.
 
-<span id="fn_8"></span>[55:1](aar05.htm#fr_8) *De Ser. Num.* 17.
+<span id="fn_8"></span>[55:1](aar05.htm#fr_8.md) *De Ser. Num.* 17.
 
-<span id="fn_9"></span>[56:1](aar05.htm#fr_9) Frazer, *Adonis, Attis,
+<span id="fn_9"></span>[56:1](aar05.htm#fr_9.md) Frazer, *Adonis, Attis,
 and Osiris*,<sup>3</sup> p. 200.
 
-<span id="fn_10"></span>[58:1](aar05.htm#fr_10) Quoted by Dr. Frazer,
+<span id="fn_10"></span>[58:1](aar05.htm#fr_10.md) Quoted by Dr. Frazer,
 *The Golden Bough*,<sup>2</sup> p. 203.
 
-<span id="fn_11"></span>[59:1](aar05.htm#fr_11) E. K. Chambers, *The
+<span id="fn_11"></span>[59:1](aar05.htm#fr_11.md) E. K. Chambers, *The
 Mediæval Stage*, I, p. 169.
 
-<span id="fn_12"></span>[59:2](aar05.htm#fr_12) *The Golden
+<span id="fn_12"></span>[59:2](aar05.htm#fr_12.md) *The Golden
 Bough*,<sup>2</sup> p. 205.
 
-<span id="fn_13"></span>[60:1](aar05.htm#fr_13) *The Golden
+<span id="fn_13"></span>[60:1](aar05.htm#fr_13.md) *The Golden
 Bough*,<sup>2</sup> p. 213.
 
-<span id="fn_14"></span>[61:1](aar05.htm#fr_14) Resumed from Dr. Frazer,
+<span id="fn_14"></span>[61:1](aar05.htm#fr_14.md) Resumed from Dr. Frazer,
 *Golden Bough*,<sup>2</sup> II, p. 104.
 
-<span id="fn_15"></span>[66:1](aar05.htm#fr_15) *De Is. et Os.*, p. 367.
+<span id="fn_15"></span>[66:1](aar05.htm#fr_15.md) *De Is. et Os.*, p. 367.
 
-<span id="fn_16"></span>[66:2](aar05.htm#fr_16) *De Aug. Scient.*, III,
+<span id="fn_16"></span>[66:2](aar05.htm#fr_16.md) *De Aug. Scient.*, III,
 4.
 
-<span id="fn_17"></span>[73:1](aar05.htm#fr_17) J. C. Lawson, *Modern
+<span id="fn_17"></span>[73:1](aar05.htm#fr_17.md) J. C. Lawson, *Modern
 Greek Folk-lore and Ancient Religion*, p. 573.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Spring Festival in Greece](aar06)
+[Next: Chapter IV. The Spring Festival in Greece](aar06.md)

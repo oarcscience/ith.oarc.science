@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Next](nsd01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Next](nsd01.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Notes on the Shoshonean Dialects of Southern California*, by A. L.
 Kroeber, \[1909\], at Intangible Textual Heritage
 
@@ -43,4 +43,4 @@ because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](nsd01)
+[Next: Contents](nsd01.md)

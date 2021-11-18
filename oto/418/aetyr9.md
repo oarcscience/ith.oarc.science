@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 9th Aethyr,  
-Which is Called ZIP**[**1**](#1)
+Which is Called ZIP**[**1**](#1.md)
 
 (The terrible Curse that is the Call of the Thirty Aethyrs sounds like a
 song of ecstasy and triumph; every phrase in it has a secret meaning of
@@ -34,14 +34,14 @@ upon the edge of the Aethyr by the wings of Maut? Who is this that
 seeketh the House of the Virgin? *Refrain*
 
 (v. III.) This is he that hath given up his name. This is he whose blood
-hath been gathered into the cup of BABALON[**2**](#2).This is he that
+hath been gathered into the cup of BABALON[**2**](#2.md).This is he that
 sitteth, a little pile of dry dust, in the city of the Pyramids.
 *Refrain*
 
 (v. IV.) Until the light of the Father of all kindle that death.
 
 Until the breath touch that dry dust. Until the Ibis be revealed unto
-the Crab, and the sixfold Star become the radiant Triangle[**3**](#3).
+the Crab, and the sixfold Star become the radiant Triangle[**3**](#3.md).
 *Refrain*
 
 (v. V.) Blessed is not I, not thou, not he, Blessed without name or
@@ -144,9 +144,9 @@ of fine filaments of light that has been "interfered" with, and he
 taketh me aside into a little chamber in one of the nine towers. This
 chamber is furnished with maps of many mystical cities. There is a
 table, and a strange lamp, that gives light by jetting four columns of
-vortex rings of luminous smoke[**4**](#4). And he points to the map of
+vortex rings of luminous smoke[**4**](#4.md). And he points to the map of
 the Aethyrs, that are arranged as a flaming Sword, so that the thirty
-Aethyrs go into the ten Sephiroth[**5**](#5). And the first nine are
+Aethyrs go into the ten Sephiroth[**5**](#5.md). And the first nine are
 infinitely holy. And he says, It is written in *The Book of the Law*,
 "If thou drink, drink by the eight and ninety rules of art:" And this
 shall signify unto thee that thou must undergo great discipline; else
@@ -155,7 +155,7 @@ thy grade. Therefore must thou invoke the Highest before thou unveil the
 shrines thereof.
 
 And this shall be thy rule: A thousand and one times shalt thou affirm
-the unity[**6**](#6), and bow thyself a thousand and one times. And thou
+the unity[**6**](#6.md), and bow thyself a thousand and one times. And thou
 shalt recite thrice the call of the Aethyr. And all day and all night,
 awake or asleep, shall thy heart be turned as a lotus-flower unto the
 light. And thy body shall be the temple of the Rosy Cross. Thus shall

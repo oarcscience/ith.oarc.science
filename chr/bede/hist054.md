@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist053) 
-[Next](hist055) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist053.md) 
+[Next](hist055.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ Heraclius, the seventh indiction; that is, in the year of our Lord,
 
 [Next: XIX. How the aforesaid Honorius first, and afterwards John, wrote
 letters to the nation of the Scots, concerning the observance of Easter,
-and the Pelagian heresy. \[640 A.D.\]](hist055)
+and the Pelagian heresy. \[640 A.D.\]](hist055.md)

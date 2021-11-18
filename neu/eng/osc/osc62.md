@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc61)  [Next](osc63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc61)  [Next](osc63.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ in the material!
 
 ------------------------------------------------------------------------
 
-[Next: (22) Sharks Following Ships a Sign of Death](osc63)
+[Next: (22) Sharks Following Ships a Sign of Death](osc63.md)

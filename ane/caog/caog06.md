@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog05)  [Next](caog07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog05)  [Next](caog07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -93,7 +93,7 @@ Oannes,
 
 <span id="img_03900"></span> <span align="CENTER"> [![OANNES AND OTHER
 BABYLONIAN MYTHOLOGICAL FIGURES FROM CYLINDER.](tn/03900.jpg)  
-Click to enlarge](img/03900.jpg)  
+Click to enlarge](img/03900.jpg.md)  
 OANNES AND OTHER BABYLONIAN MYTHOLOGICAL FIGURES FROM CYLINDER.  
 </span>
 
@@ -144,7 +144,7 @@ animals, which assumed each other's shape and countenance.
 
 <span id="img_04100"></span> <span align="CENTER"> [![COMPOSITE ANIMALS
 FROM CYLINDER.](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)  
+Click to enlarge](img/04100.jpg.md)  
 COMPOSITE ANIMALS FROM CYLINDER.  
 </span>
 
@@ -395,6 +395,6 @@ is the fabricator of the world, the Demiurgus.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Babylonian Mythology](caog07)
+[Next: Chapter IV. Babylonian Mythology](caog07.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg18)  [Next](ttg20) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg18)  [Next](ttg20.md) 
 
 ------------------------------------------------------------------------
 
@@ -257,4 +257,4 @@ is like the heart of the ocean. It cannot be shaken.
 ------------------------------------------------------------------------
 
 [Next: Nineteenth Goblin: The Man, his Wife, and her Lover, who all died
-for Love. Which was the most foolish?](ttg20)
+for Love. Which was the most foolish?](ttg20.md)

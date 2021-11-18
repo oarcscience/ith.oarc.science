@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos09)  [Next](gbos11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos09)  [Next](gbos11.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ then stay to\] feast and dance.
 
 ------------------------------------------------------------------------
 
-[Next: On Chants](gbos11)
+[Next: On Chants](gbos11.md)

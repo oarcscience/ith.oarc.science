@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp14)  [Next](lbp16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp14)  [Next](lbp16.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Legends](../../index)  [Basque](../index)  [Index](index) 
 
 <span id="img_23300"></span> ![](img/23300.jpg)
 
-# THE PROPHECY OF LARA. <span id="fr_57"></span>[1](#fn_57)
+# THE PROPHECY OF LARA. <span id="fr_57"></span>[1](#fn_57.md)
 
 ### BALLAD.
 
@@ -19,7 +19,7 @@ Legends](../../index)  [Basque](../index)  [Index](index) 
 |--------------------|
 | ![](img/23301.jpg) |
 
-N the height of the Aloña, <span id="fr_58"></span>[2](#fn_58) in the
+N the height of the Aloña, <span id="fr_58"></span>[2](#fn_58.md) in the
 district of Oñate, rose up a noble edifice of marvellous construction.
 In that rugged land, far from all human habitation, one day appeared
 before the astonished gaze of Rodrigo de Balzétegui a beautiful maiden
@@ -28,7 +28,7 @@ amid the thorny bushes,
 <span id="page_234">p. 234</span>
 
 to whom the shepherd in surprise asked, "Aránzan, zu?" <span
-id="fr_59"></span>[1](#fn_59) The first shelter erected for this maiden
+id="fr_59"></span>[1](#fn_59.md) The first shelter erected for this maiden
 was a rustic thatch made of leaves. Towards the end of the sixteenth
 century this rude hut was converted into the building which forms the
 subject of this ballad.
@@ -36,7 +36,7 @@ subject of this ballad.
 The convent, as well as the river which has its rise in the
 neighbourhood, bears for its appellation the simple question of the
 shepherd to the maiden Aránzanzu. Any one on beholding that
-convent <span id="fr_60"></span>[2](#fn_60) would say that
+convent <span id="fr_60"></span>[2](#fn_60.md) would say that
 
 <span id="page_235">p. 235</span>
 
@@ -101,7 +101,7 @@ of those precipices and chasms, I saw, rising up slowly, masses of snow,
 white and transparent, which by degrees were acquiring vague forms,
 ending by appearing to my astonished eyes like human forms. Venerable
 old men with long white beards, and clothed in the rich dalmatics <span
-id="fr_61"></span>[1](#fn_61) of the primitive Basques, silently passed
+id="fr_61"></span>[1](#fn_61.md) of the primitive Basques, silently passed
 before me in an orderly procession, and directed towards me sad looks,
 then continued their aerial march in the direction of the solitary
 convent of Aránzanzu. Behind these, and in the same order, followed
@@ -363,9 +363,9 @@ Should any one attain to behold the grand scene which I have roughly
 depicted, he will most certainly see, in the luminous centre of the
 dense cloud which closed up the march of the procession of shadows,
 surrounded by a brilliant aureole, and with hands
-joined--Jáuregui, <span id="fr_62"></span>[1](#fn_62) the shepherd-hero
+joined--Jáuregui, <span id="fr_62"></span>[1](#fn_62.md) the shepherd-hero
 of the war against Napoleon, and Zumalacarregui, <span
-id="fr_63"></span>[2](#fn_63) the hero of the seven years' war. In the
+id="fr_63"></span>[2](#fn_63.md) the hero of the seven years' war. In the
 temple of glory there is no entrance for political passions. Beyond the
 camp there is bliss and peace for the good alone.
 
@@ -373,21 +373,21 @@ camp there is bliss and peace for the good alone.
 
 ### Footnotes
 
-<span id="fn_57"></span>[233:1](lbp15.htm#fr_57) *Lara*. A young bard
+<span id="fn_57"></span>[233:1](lbp15.htm#fr_57.md) *Lara*. A young bard
 and Basque chief of the period when the wars were raging against the
 Empire of Rome. The poet, Silio Italico, in the sixteenth book of his
 Epic Poem, assigned a whole page to describe the personal combat of Lara
 against Scipio, in which the Basque chief lost his right hand.
 
-<span id="fn_58"></span>[233:2](lbp15.htm#fr_58) *Aloña*. A mountain of
+<span id="fn_58"></span>[233:2](lbp15.htm#fr_58.md) *Aloña*. A mountain of
 Guipuzcoa, at whose southerly base is situated the magnificent town of
 Oñate, where, for a long period during the seven years' civil war, the
 Infante Don Carlos de Bourbon, uncle of Isabella II., held his court.
 
-<span id="fn_59"></span>[234:1](lbp15.htm#fr_59) *Aránzan, zu*.
+<span id="fn_59"></span>[234:1](lbp15.htm#fr_59.md) *Aránzan, zu*.
 Literally, "You, in a thorn?"
 
-<span id="fn_60"></span>[234:2](lbp15.htm#fr_60) Convent of Aránzanzu.
+<span id="fn_60"></span>[234:2](lbp15.htm#fr_60.md) Convent of Aránzanzu.
 Situated on the south-west skirt of the Monte Aloña. The convent was
 under the invocation of Our Lady of Aránzanzu, and was inhabited by the
 friars of the Order of St. Francis. The situation of this convent was
@@ -409,7 +409,7 @@ this singular construction was set fire to by orders of General Rodil
 during the civil war against Don Carlos--a deed of barbarism which will
 always merit reprehension and condemnation.
 
-<span id="fn_61"></span>[237:1](lbp15.htm#fr_61) *Dalmatic*. A very rich
+<span id="fn_61"></span>[237:1](lbp15.htm#fr_61.md) *Dalmatic*. A very rich
 robe embroidered with gold spangles, worn over tunics of white wool on
 great festivals by the ancient Euscaros in olden times. This dalmatic
 was used as a sign of authority. The shape of this robe is exactly as
@@ -418,12 +418,12 @@ sub-deacon, with the sole difference that the dalmatic has a hood. The
 "capusay" of the shepherds and country people of our time, worn in the
 Basque country, is an exact copy of that very ancient robe.
 
-<span id="fn_62"></span>[246:1](lbp15.htm#fr_62) *Jáuregui* (*Gaspar*).
+<span id="fn_62"></span>[246:1](lbp15.htm#fr_62) *Jáuregui* (*Gaspar*.md).
 Field-marshal in the service of the Queen D. Isabella II. He was a
 native of Villa-real, of Guipuzcoa. He had been a shepherd, and during
 the war against Napoleon was an untiring guerilla chief.
 
-<span id="fn_63"></span>[246:2](lbp15.htm#fr_63) *Zumalacarregui*
+<span id="fn_63"></span>[246:2](lbp15.htm#fr_63.md) *Zumalacarregui*
 (*Thomas*). A native of Ormaiztegui, in Guipuzcoa. He was
 general-in-chief of the army of Don Carlos. He died from the effects of
 a wound received in the first siege of Bilbao, in 1835. He was one of
@@ -431,4 +431,4 @@ the best Spanish generals of this century.
 
 ------------------------------------------------------------------------
 
-[Next: Hurca-Mendi](lbp16)
+[Next: Hurca-Mendi](lbp16.md)

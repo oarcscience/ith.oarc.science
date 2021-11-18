@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Next](bulf01) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Next](bulf01.md) 
 
 # CHAPTER I.
 
@@ -423,4 +423,4 @@ words.
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER II. Prometheus And Pandora.](bulf01)
+Next: [CHAPTER II. Prometheus And Pandora.](bulf01.md)

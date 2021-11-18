@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](por59)  [Next](por61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](por59)  [Next](por61.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path on the Rainbow*, edited by George W. Cronyn, \[1918\], at
 Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ Tall winds, with hunters' feet, swift and trackless,
 <div style="margin-left: 32px">
 
 Scattering the light from Kunaë's <span
-id="fr_7"></span>[\*](por61.htm#fn_7) eyes  
+id="fr_7"></span>[\*](por61.htm#fn_7.md) eyes  
 And the laughter from his mouth—  
 Red is love's glory on the forest  
 As a slain moose.  
@@ -71,4 +71,4 @@ And Drums of the Dawn!
 
 ------------------------------------------------------------------------
 
-[Next: The Song of the Hills (Yokut)](por61)
+[Next: The Song of the Hills (Yokut)](por61.md)

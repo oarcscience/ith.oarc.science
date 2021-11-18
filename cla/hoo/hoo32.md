@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo31)  [Next](hoo33) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo31)  [Next](hoo33.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ Give graceful speech, and me memory's increase. 20
 
 ------------------------------------------------------------------------
 
-[Next: XXVIII: To Proserpine](hoo33)
+[Next: XXVIII: To Proserpine](hoo33.md)

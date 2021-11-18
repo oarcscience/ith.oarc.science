@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip13)  [Next](fip15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip13)  [Next](fip15.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ we'll say nothing, but if she had scalded you, we'd ha' made her pay."
 
 ------------------------------------------------------------------------
 
-[Next: Changelings](fip15)
+[Next: Changelings](fip15.md)

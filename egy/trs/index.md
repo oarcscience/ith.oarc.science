@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](trs00)
+[Contents](#contents)    [Start Reading](trs00.md)
 
 ------------------------------------------------------------------------
 
@@ -37,16 +37,16 @@ turns out to be a fairly unremarkable Ptolemaic era decree.
 
 This makes extensive use of polytonic Greek Unicode, so if you have
 trouble viewing it, you should refer to [the sacred-texts Unicode
-page](../../unicode). Longer passages in Greek were made into
+page](../../unicode.md). Longer passages in Greek were made into
 thumbnailed image files.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](trs00)  
-[The Rosetta Stone](trs01)  
-[Ancient writings about Hieroglyphics](trs02)  
-[Post-Antiquity writings on Hieroglyphics](trs03)  
-[Young and Champollion](trs04)  
-[How Champollion deciphered the Egyptian Alphabet](trs05)  
-[Opinions of Egyptologists on Young and Champollion](trs06)  
-[Translation of the Rosetta Stone](trs07)  
+<span id="contents"></span> [Title Page](trs00.md)  
+[The Rosetta Stone](trs01.md)  
+[Ancient writings about Hieroglyphics](trs02.md)  
+[Post-Antiquity writings on Hieroglyphics](trs03.md)  
+[Young and Champollion](trs04.md)  
+[How Champollion deciphered the Egyptian Alphabet](trs05.md)  
+[Opinions of Egyptologists on Young and Champollion](trs06.md)  
+[Translation of the Rosetta Stone](trs07.md)  

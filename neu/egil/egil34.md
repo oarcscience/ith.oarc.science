@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil33)  [Next](egil35) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil33)  [Next](egil35.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ Skallagrim, who never had about him fewer than sixty stout fellows.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXXIV. Of Skallagrim and Bjorn.](egil35)
+[Next: CHAPTER XXXIV. Of Skallagrim and Bjorn.](egil35.md)

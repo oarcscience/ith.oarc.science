@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe249)  [Next](prwe251) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe249)  [Next](prwe251.md) 
 
 ------------------------------------------------------------------------
 
@@ -152,4 +152,4 @@ accompanies every form of charm.
 
 ------------------------------------------------------------------------
 
-[Next: The Club Moss](prwe251)
+[Next: The Club Moss](prwe251.md)

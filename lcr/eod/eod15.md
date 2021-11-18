@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod14)  [Next](eod16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod14)  [Next](eod16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -64,7 +64,7 @@ were the result of the divination of the cow. The custom of placing
 butter in the mouths of the dead, in Egypt, Uganda, and India, the
 various ritual uses of milk, the employment of a cow's hide as a
 wrapping for the dead in the grave, and also in certain mysterious
-ceremonies, <span id="fr_102"></span>[1](#fn_102) all indicate the
+ceremonies, <span id="fr_102"></span>[1](#fn_102.md) all indicate the
 intimate connexion between the cow and the means of attaining a rebirth
 in the life to come.
 
@@ -92,39 +92,39 @@ A whole volume might be written upon the almost world-wide diffusion of
 these beliefs regarding the cow, as far as Scotland and Ireland in the
 west, and in their easterly migration probably as far as America, to the
 confusion alike of its ancient artists and its modern
-ethnologists. <span id="fr_103"></span>[1](#fn_103)
+ethnologists. <span id="fr_103"></span>[1](#fn_103.md)
 
 As an illustration of the identification of the cow's attributes with
 those of the life-giving Great Mother, I might refer to the late
-Professor Moulton's commentary <span id="fr_104"></span>[2](#fn_104) on
+Professor Moulton's commentary <span id="fr_104"></span>[2](#fn_104.md) on
 the ancient Iranian Gâthâs, where cow's flesh is given to mortals by
 Yima to make them immortal. "May we connect it with another legend
 whereby at the Regeneration Mithra is to make men immortal by giving
 them to eat the fat of the … primeval Cow from whose slain body,
 according to the Aryan legends adopted by Mithraism, mankind was first
-created?" <span id="fr_105"></span>[3](#fn_105)
+created?" <span id="fr_105"></span>[3](#fn_105.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_102"></span>[60:1](eod15.htm#fr_102) See A. Moret, *op.
+<span id="fn_102"></span>[60:1](eod15.htm#fr_102.md) See A. Moret, *op.
 cit.* p. 81, *inter alia*.
 
-<span id="fn_103"></span>[61:1](eod15.htm#fr_103) See the Copan
+<span id="fn_103"></span>[61:1](eod15.htm#fr_103.md) See the Copan
 sculptured monuments described by Maudslay in Godman and Salvin's
 "Biologia Centrali-Americana," Archæology, Plate 46, representing "Stela
 D," with two serpents in the places occupied by the Indian elephants in
 Stela B—concerning which see *Nature*, November 25, 1915. To one of
 these intertwined serpents is attached a cow-headed human dæmon. Compare
-also the Chiriqui figure depicted [by](errata.htm#2) MacCurdy, "A Study
+also the Chiriqui figure depicted [by](errata.htm#2.md) MacCurdy, "A Study
 of Chiriquian Antiquities," Yale University Press, 1911, fig. 361, p.
 209.
 
-<span id="fn_104"></span>[61:2](eod15.htm#fr_104) "Early Religious
+<span id="fn_104"></span>[61:2](eod15.htm#fr_104.md) "Early Religious
 Poetry of Persia," pp. 42 and 43.
 
-<span id="fn_105"></span>[61:3](eod15.htm#fr_105) *Op. cit.* p. 43. But
+<span id="fn_105"></span>[61:3](eod15.htm#fr_105.md) *Op. cit.* p. 43. But
 I think these legends accredited to the Aryans owe their parentage to
 the same source as the Egyptian beliefs concerning the cow, and
 especially the remarkable mysteries upon which Moret has been
@@ -132,4 +132,4 @@ endeavouring to throw some light—"Mystères Égyptiens," p. 43.
 
 ------------------------------------------------------------------------
 
-[Next: The Diffusion of Culture](eod16)
+[Next: The Diffusion of Culture](eod16.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Return
-to text](bct12.htm#p283)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md) [Return
+to text](bct12.htm#p283.md)
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ class="small">B.C.</span></span>
 
 ------------------------------------------------------------------------
 
-[Return to text](bct12.htm#p283)
+[Return to text](bct12.htm#p283.md)

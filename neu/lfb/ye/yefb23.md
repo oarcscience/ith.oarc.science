@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb22)  [Next](yefb24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb22)  [Next](yefb24.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_134">p. 134</span>
 
-THE THREE BROTHERS <span id="fr_16"></span>[1](#fn_16)
+THE THREE BROTHERS <span id="fr_16"></span>[1](#fn_16.md)
 
 There was once upon a time a witch, who in the shape of a hawk used
 every night to break the windows of a certain village church.  In the
@@ -158,13 +158,13 @@ lives.
 
 ### Footnotes
 
-<span id="fn_16"></span>[134:1](yefb23.htm#fr_16) From the Polish.
+<span id="fn_16"></span>[134:1](yefb23.htm#fr_16.md) From the Polish.
 Kletke.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Boy and the Wolves, or the Broken Promise](yefb24)
+[Next: The Boy and the Wolves, or the Broken Promise](yefb24.md)
 
 </div>

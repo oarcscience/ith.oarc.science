@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh12)  [Next](lsbh14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh12)  [Next](lsbh14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -228,12 +228,12 @@ people, and lusts are the diseases thereof. If a physician hath not the
 power to remove sickness from himself he is a fool to imagine that he
 can heal other folk." It seems as if this saying had been stolen from
 the Holy Gospel wherein it saith, Physician, heal thyself. <span
-id="fr_85"></span>[1](#fn_85)
+id="fr_85"></span>[1](#fn_85.md)
 
 CCCX\. When certain folk went to the abode of another ascetic they did
 not find in his house even a mat whereon to sit, and while they were
 marvelling that it was thus he said to them, "If we had been going to
-remain here <span id="fr_86"></span>[2](#fn_86) we should have spread
+remain here <span id="fr_86"></span>[2](#fn_86.md) we should have spread
 the place with the finest carpets."
 
 CCCXI\. Another ascetic said, "Paradise was our first abode, and since
@@ -244,7 +244,7 @@ not to an alien country."
 CCCXII\. Another ascetic said, "He that renounceth the world is not
 worthy to be praised overmuch, because, although for a short time he
 doth not voluntarily renounce it, after a little he is made
-[to](errata.htm#0) do so involuntarily."
+[to](errata.htm#0.md) do so involuntarily."
 
 CCCXIII\. Another ascetic wrote to a fellow ascetic and asked him to
 shew him what this world resembled, and what that which is to come will
@@ -336,10 +336,10 @@ their glory and triumph are everlasting."
 
 ### Footnotes
 
-<span id="fn_85"></span>[76:1](lsbh13.htm#fr_85) This remark may be that
+<span id="fn_85"></span>[76:1](lsbh13.htm#fr_85.md) This remark may be that
 of a scribe. Compare St. Luke iv. 23.
 
-<span id="fn_86"></span>[76:2](lsbh13.htm#fr_86) *I.e.*, "If we were not
+<span id="fn_86"></span>[76:2](lsbh13.htm#fr_86.md) *I.e.*, "If we were not
 going to die."
 
 <div class="filenav">
@@ -347,6 +347,6 @@ going to die."
 ------------------------------------------------------------------------
 
 [Next: The Ninth Chapter: Profitable Sayings of Physicians and Legends
-Attributed to Them](lsbh14)
+Attributed to Them](lsbh14.md)
 
 </div>

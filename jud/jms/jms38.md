@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms37)  [Next](jms39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms37)  [Next](jms39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 #### THE FORMATION OF MAGICAL NAMES
 
-<span id="an_a1_1">1</span>. P. [21](jms04.htm#page_21).
+<span id="an_a1_1">1</span>. P. [21](jms04.htm#page_21.md).
 
 <span id="an_a1_2">2</span>. *Raziel*, 21h; *Pa‘aneaḥ Raza*, 37b, note.
 
@@ -64,4 +64,4 @@ referred to in *Nu. R.* ch. 18, ch. 13; b. in *Shab.* 104a, *Nu. R.* ch.
 
 ------------------------------------------------------------------------
 
-[Next: A. A Note About The Sources](jms39)
+[Next: A. A Note About The Sources](jms39.md)

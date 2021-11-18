@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh01)  [Next](boh03) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh01)  [Next](boh03.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ Index.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Sun-Worship. The Sources of Hallowe'en](boh03)
+[Next: Chapter I: Sun-Worship. The Sources of Hallowe'en](boh03.md)

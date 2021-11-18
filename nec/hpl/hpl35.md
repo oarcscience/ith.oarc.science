@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl34)  [Next](hpl36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl34)  [Next](hpl36.md) 
 
 ------------------------------------------------------------------------
 
@@ -248,4 +248,4 @@ people" made popular by the magnificent horror-fiction of Arthur Machen.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](hpl36)
+[Next: Chapter 2](hpl36.md)

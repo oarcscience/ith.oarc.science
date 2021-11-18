@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb74)  [Next](wfb76) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb74)  [Next](wfb76.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ Cerrig y Drudion, bellowing horribly, and disappeared under its waters.
 
 ------------------------------------------------------------------------
 
-[Next: Striking a Corpse Candle](wfb76)
+[Next: Striking a Corpse Candle](wfb76.md)

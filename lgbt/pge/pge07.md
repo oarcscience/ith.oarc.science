@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge06) 
-[Next](pge08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge06.md) 
+[Next](pge08.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Greeks, and whether it was introduced or indigenous.
 The Greeks themselves speculated on this subject, but they arrived at no
 one definite conclusion. Herodotus asserts that the Persians learned the
 habit, in its vicious form, from the Greeks; <span
-id="fr_1"></span>[1](#fn_1) but, even supposing this assertion to be
+id="fr_1"></span>[1](#fn_1.md) but, even supposing this assertion to be
 correct, we are not justified in assuming the same of all barbarians who
 were neighbours of the Greeks; since we know from the Jewish records and
 from Assyrian inscriptions that the Oriental nations were addicted to
@@ -31,8 +31,8 @@ characterise.
 
 A prevalent opinion among the Greeks ascribed the origin of paiderastia
 to Crete; and it was here that the legend of Zeus and Ganymede was
-localised. <span id="fr_2"></span>[2](#fn_2) "The Cretans," says
-Plato; <span id="fr_3"></span>[3](#fn_3)
+localised. <span id="fr_2"></span>[2](#fn_2.md) "The Cretans," says
+Plato; <span id="fr_3"></span>[3](#fn_3.md)
 
 <span id="page_5">p. 5</span>
 
@@ -41,14 +41,14 @@ of Ganymede and Zeus, which is designed to justify themselves in the
 enjoyment of such pleasures by the practice of the god whom they believe
 to have been their lawgiver."
 
-In another passage, <span id="fr_4"></span>[1](#fn_4) Plato speaks of
+In another passage, <span id="fr_4"></span>[1](#fn_4.md) Plato speaks of
 the custom that prevailed before the time of Laius--in terms which show
 his detestation of a vice that had gone far toward corrupting Greek
 society. This sentence indicates the second theory of the later Greeks
 upon this topic. They thought that Laius, the father of Œdipus, was the
 first to practise *Hybris*, or lawless lust, in this form; by the rape
 committed on Chrysippus, the son of Pelops. <span
-id="fr_5"></span>[2](#fn_5) To this crime of Laius the Scholiast to the
+id="fr_5"></span>[2](#fn_5.md) To this crime of Laius the Scholiast to the
 *Seven against Thebes* attributes all the evils which afterwards befell
 the royal house of Thebes, and Euripides made it the subject of a
 tragedy. In another but less prevalent Saga the introduction of
@@ -64,7 +64,7 @@ Greeks from the East. Its prevalence in Crete, which, together with
 Cyprus, formed one of the principal links between Phœnicia and Hellas
 proper, favours this view. Paiderastia would, on this hypothesis like
 the worship of the Paphian and Corinthian Aphrodite, have to be regarded
-as in part an Oriental importation. <span id="fr_6"></span>[3](#fn_6)
+as in part an Oriental importation. <span id="fr_6"></span>[3](#fn_6.md)
 Yet, if we adopt any such solution of the problem, we must not forget
 that in this, as in all similar cases, whatever the Greeks received from
 adjacent nations, they distinguished with the qualities of their own
@@ -105,28 +105,28 @@ he became eventually the eponym.
 
 ### Footnotes
 
-<span id="fn_1"></span>[4:1](pge07.htm#fr_1) i. 135.
+<span id="fn_1"></span>[4:1](pge07.htm#fr_1.md) i. 135.
 
-<span id="fn_2"></span>[4:2](pge07.htm#fr_2) Numerous localities,
+<span id="fn_2"></span>[4:2](pge07.htm#fr_2.md) Numerous localities,
 however, claimed this distinction. See Ath., xiii. 601. Chalkis in
 Eubœa, as well as Crete, could show the sacred spot where the mystical
 assumption of Ganymede was reported to have happened.
 
-<span id="fn_3"></span>[4:3](pge07.htm#fr_3) *Laws*, i. 636. Cp.
+<span id="fn_3"></span>[4:3](pge07.htm#fr_3.md) *Laws*, i. 636. Cp.
 *Timæus*, quoted by Ath., p. 602. Servius, *ad Aen*. x. 325, says that
 boy-love spread from Crete to Sparta, and thence through Hellas, and
 Strabo mentions its prevalence among the Cretans (x. 483). Plato (Rep.
 v. 452) speaks of the Cretans as introducing naked athletic sports.
 
-<span id="fn_4"></span>[5:1](pge07.htm#fr_4) *Laws*, viii. 863.
+<span id="fn_4"></span>[5:1](pge07.htm#fr_4.md) *Laws*, viii. 863.
 
-<span id="fn_5"></span>[5:2](pge07.htm#fr_5) See Ath., xiii. 602.
+<span id="fn_5"></span>[5:2](pge07.htm#fr_5.md) See Ath., xiii. 602.
 Plutarch, in the Life of Pelopidas (Clough, vol. ii, p. 219), argues
 against this view.
 
-<span id="fn_6"></span>[5:3](pge07.htm#fr_6) See Rosenbaum, *Lustseuche
+<span id="fn_6"></span>[5:3](pge07.htm#fr_6.md) See Rosenbaum, *Lustseuche
 im Alterthume*, p. 118.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Discrimination of two loves, heroic and vulgar.](pge08)
+[Next: VI. Discrimination of two loves, heroic and vulgar.](pge08.md)

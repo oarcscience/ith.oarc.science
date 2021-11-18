@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas020n)  [Next](jas022n)   
- \[[21. Anansi and the Tar-baby.](jas021)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas020n)  [Next](jas022n.md)   
+ \[[21. Anansi and the Tar-baby.](jas021.md)\]
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ Cunnie-more-than-father, number 23.
 
 ------------------------------------------------------------------------
 
-[Next: Note 22. Inside the Cow.](jas022n)
+[Next: Note 22. Inside the Cow.](jas022n.md)

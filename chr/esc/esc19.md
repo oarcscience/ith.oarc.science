@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc18)  [Next](esc20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc18)  [Next](esc20.md) 
 
 ------------------------------------------------------------------------
 
@@ -460,7 +460,7 @@ every Christian heart.
             "But," says another, "it is all visionary.  I do not believe
 it.  And if I had any idea that it would be so, I could not take another
 moment's comfort of my life.  What, the judgment day within seven
-years? <span id="fr_1"></span>[2](#fn_1)  I cannot bear the thought?  I
+years? <span id="fr_1"></span>[2](#fn_1.md)  I cannot bear the thought?  I
 will drive such thoughts from my mind.  To you, whoever you are, whether
 professor or non-professor, who in your heart think such thoughts as
 these, I have one word to say.  Your standing is desperate indeed.  I am
@@ -481,10 +481,10 @@ or everlasting punishment will be their doom.
 
 ### Footnotes
 
-<span id="fn_1"></span>[2](esc19.htm#fr_1) These Lectures were first
+<span id="fn_1"></span>[2](esc19.htm#fr_1.md) These Lectures were first
 published in 1836.
 
 ------------------------------------------------------------------------
 
 [Next: Lecture XVIII. Who is this that cometh up from the wilderness,
-leaning upon her beloved?](esc20)
+leaning upon her beloved?](esc20.md)

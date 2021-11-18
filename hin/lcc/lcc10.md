@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc09)  [Next](lcc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc09)  [Next](lcc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -141,11 +141,11 @@ Sharvilaka discovers her*.\] Ah, it is Madanikā.
 
 <div style="margin-left: 32px">
 
-Surpassing Madana <span id="fr_49"></span>[1](#fn_49) himself in
+Surpassing Madana <span id="fr_49"></span>[1](#fn_49.md) himself in
 charm,  
   She seems the bride of Love, in human guise;  
 Even while my heart the flames of passion harm,  
-  She brings a sandal <span id="fr_50"></span>[2](#fn_50) coolness to my
+  She brings a sandal <span id="fr_50"></span>[2](#fn_50.md) coolness to my
 eyes.<span class="margnote">4</span>
 
 </div>
@@ -563,7 +563,7 @@ her feet*.\]
 
 <span id="page_66">p. 66</span>
 
-paid. <span id="fr_51"></span>[1](#fn_51) Go then, enter the cart. But
+paid. <span id="fr_51"></span>[1](#fn_51.md) Go then, enter the cart. But
 do not forget me.
 
 *Sharvilaka*. Heaven bless you! and you, Madanikā,
@@ -702,7 +702,7 @@ the cart-bullocks are tied. They grow fat on mouthfuls of grass and
 pulse-stalks which are brought them, right and left, by everybody. Their
 horns are smeared with oil. And here is another, a buffalo, snorting
 like a gentleman insulted. And here is a ram <span
-id="fr_52"></span>[1](#fn_52) having his neck rubbed, like a
+id="fr_52"></span>[1](#fn_52.md) having his neck rubbed, like a
 prize-fighter after the fight. And here are others, horses having their
 manes put in shape. And here in a stall is another, a monkey, tied fast
 like a thief. \[*He looks in another direction*.\] And here is an
@@ -727,7 +727,7 @@ colors. Show me the way, madam.
 *Maitreya*. \[*Enters and looks about*.\] Well! Here in the fourth court
 the drums that maiden fingers beat are booming like the thunder; the
 cymbals are falling, as the stars fall from heaven when their merit is
-exhausted; <span id="fr_53"></span>[1](#fn_53) the pipe is discoursing
+exhausted; <span id="fr_53"></span>[1](#fn_53.md) the pipe is discoursing
 music as sweet as the humming of bees. And here, again, is a lute that
 somebody is holding on his lap like a girl who is excited by jealousy
 and love, and he is stroking it with his fingers. And here, again, are
@@ -754,8 +754,8 @@ bastard pages,
 <span id="page_70">p. 70</span>
 
 adorned with any number of jewels, just like Gandharvas <span
-id="fr_54"></span>[1](#fn_54) and Apsarases. <span
-id="fr_55"></span>[2](#fn_55) Really, this house is heaven. Tell me, who
+id="fr_54"></span>[1](#fn_54.md) and Apsarases. <span
+id="fr_55"></span>[2](#fn_55.md) Really, this house is heaven. Tell me, who
 are you bastards anyway?
 
 Pages. Why, we are bastard pages—
@@ -873,7 +873,7 @@ If mother now should peak and pine,
 Well, I have seen Vasantasenā's palace with its many incidents and its
 eight courts, and really, it seems as if I had seen the triple heaven in
 a nut-shell. I haven't the eloquence to praise it. Is this the house of
-a courtezan, or a piece of Kubera's <span id="fr_56"></span>[1](#fn_56)
+a courtezan, or a piece of Kubera's <span id="fr_56"></span>[1](#fn_56.md)
 palace? Where's your mistress?
 
 *Maid*. She is here in the orchard. Enter, sir.
@@ -909,7 +909,7 @@ Good! Now where's your mistress?
 you!
 
 *Vasantasenā*. \[*Speaking in Sanskrit*. <span
-id="fr_57"></span>[1](#fn_57)\] Ah, Maitreya! \[*Rising*.\] You are very
+id="fr_57"></span>[1](#fn_57.md)\] Ah, Maitreya! \[*Rising*.\] You are very
 welcome. Here is a seat. Pray be seated.
 
 *Maitreya*. When you are seated, madam. \[*They both seat themselves*.\]
@@ -936,7 +936,7 @@ class="margnote">32</span>
 *Vasantasenā*. Tell me, what is the purpose of your coming?
 
 *Maitreya*. Listen, madam. The excellent Chārudatta folds his
-hands <span id="fr_58"></span>[2](#fn_58) and requests—
+hands <span id="fr_58"></span>[2](#fn_58.md) and requests—
 
 *Vasantasenā*. \[*Folding her hands*.\] And commands—
 
@@ -995,35 +995,35 @@ Take the necklace, girl, and come quickly.
 
 ### Footnotes
 
-<span id="fn_49"></span>[59:1](lcc10.htm#fr_49) A name of Kāma, the god
+<span id="fn_49"></span>[59:1](lcc10.htm#fr_49.md) A name of Kāma, the god
 of love.
 
-<span id="fn_50"></span>[59:2](lcc10.htm#fr_50) Used as a refrigerant.
+<span id="fn_50"></span>[59:2](lcc10.htm#fr_50.md) Used as a refrigerant.
 
-<span id="fn_51"></span>[66:1](lcc10.htm#fr_51) That is to say, You are
+<span id="fn_51"></span>[66:1](lcc10.htm#fr_51.md) That is to say, You are
 now a legal wife, while I am still a courtezan.
 
-<span id="fn_52"></span>[68:1](lcc10.htm#fr_52) "Rams in India are
+<span id="fn_52"></span>[68:1](lcc10.htm#fr_52.md) "Rams in India are
 commonly trained to fight." <span class="smallcaps">Wilson</span>.
 
-<span id="fn_53"></span>[69:1](lcc10.htm#fr_53) Virtuous souls after
+<span id="fn_53"></span>[69:1](lcc10.htm#fr_53.md) Virtuous souls after
 death may become stars; but when their stellar happiness equals the sum
 of their acquired merit, they fall to earth again.
 
-<span id="fn_54"></span>[70:1](lcc10.htm#fr_54) The choristers of
+<span id="fn_54"></span>[70:1](lcc10.htm#fr_54.md) The choristers of
 heaven.
 
-<span id="fn_55"></span>[70:2](lcc10.htm#fr_55) The nymphs of heaven.
+<span id="fn_55"></span>[70:2](lcc10.htm#fr_55.md) The nymphs of heaven.
 
-<span id="fn_56"></span>[72:1](lcc10.htm#fr_56) The god of wealth.
+<span id="fn_56"></span>[72:1](lcc10.htm#fr_56.md) The god of wealth.
 
-<span id="fn_57"></span>[73:1](lcc10.htm#fr_57) This shows the
+<span id="fn_57"></span>[73:1](lcc10.htm#fr_57.md) This shows the
 excellence of Vasantasenā's education. Women, as an almost invariable
 rule, speak Prākrit.
 
-<span id="fn_58"></span>[73:2](lcc10.htm#fr_58) A gesture of respectful
+<span id="fn_58"></span>[73:2](lcc10.htm#fr_58.md) A gesture of respectful
 entreaty.
 
 ------------------------------------------------------------------------
 
-[Next: Act the Fifth: The Storm](lcc11)
+[Next: Act the Fifth: The Storm](lcc11.md)

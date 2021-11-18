@@ -1,5 +1,5 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [Previous](../rol/rol)  [Next](../ta/ta) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [Previous](../rol/rol)  [Next](../ta/ta.md) 
 
 ------------------------------------------------------------------------
 
@@ -2643,4 +2643,4 @@ Index](../index)  [Previous](../rol/rol)  [Next](../ta/ta) 
 
 ------------------------------------------------------------------------
 
-[Next: Titus Andronicus](../ta/ta) 
+[Next: Titus Andronicus](../ta/ta.md) 

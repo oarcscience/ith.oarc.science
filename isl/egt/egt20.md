@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt19)  [Next](egt21) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt19)  [Next](egt21.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ opens ten.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE CAUSE OF OUR MAINTENANCE.](egt21)
+[Next: ON THE CAUSE OF OUR MAINTENANCE.](egt21.md)

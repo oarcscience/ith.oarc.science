@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft57)  [Next](efft59) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft57)  [Next](efft59.md) 
 
 ------------------------------------------------------------------------
 
-# THE HAUNTED HOUSE  <span id="fr_66"></span>[1](#fn_66)
+# THE HAUNTED HOUSE  <span id="fr_66"></span>[1](#fn_66.md)
 
 ABOUT half a mile from Tavistock there is a farm called Down House; the
 dwelling itself was rebuilt about eleven or twelve years ago. It was
@@ -43,9 +43,9 @@ became a small bright cloud.
 
 ### Footnotes
 
-<span id="fn_66"></span>[1](efft58.htm#fr_66) Mrs. Bray, *The Borders of
+<span id="fn_66"></span>[1](efft58.htm#fr_66.md) Mrs. Bray, *The Borders of
 the Tamar and the Tavy*, vol. II p. 129.
 
 ------------------------------------------------------------------------
 
-[Next: Ghost-Laying Stories](efft59)
+[Next: Ghost-Laying Stories](efft59.md)

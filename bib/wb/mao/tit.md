@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](ti2)  [Next](plm) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](ti2)  [Next](plm.md) 
 
 ------------------------------------------------------------------------
 
@@ -184,4 +184,4 @@ whakapono. Kia tau te aroha noa ki a koutou katoa. Amine.
 
 ------------------------------------------------------------------------
 
-[Next: Philemon](plm)
+[Next: Philemon](plm.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,26 +19,26 @@ Thought](../../index)  [Unity](../index) 
 
 ------------------------------------------------------------------------
 
-[Start Reading](tot00)    [Page Index](pageidx)    [Text
-\[Zipped\]](tottxt.zip)
+[Start Reading](tot00)    [Page Index](pageidx.md)    [Text
+\[Zipped\]](tottxt.zip.md)
 
 ------------------------------------------------------------------------
 
-[Title Page](tot00)  
-[Contents](tot01)  
-[Lesson 1](tot02)  
-[Lesson 2](tot03)  
-[Lesson 3](tot04)  
-[Lesson 4](tot05)  
-[Lesson 5](tot06)  
-[Lesson 6](tot07)  
-[Lesson 7](tot08)  
-[Lesson 8](tot09)  
-[Lesson 9](tot10)  
-[Lesson 10](tot11)  
-[Lesson 11](tot12)  
-[Lesson 12](tot13)  
-[Lesson 13](tot14)  
-[Lesson 14](tot15)  
-[Question Helps](tot16)  
-[Index](tot17)  
+[Title Page](tot00.md)  
+[Contents](tot01.md)  
+[Lesson 1](tot02.md)  
+[Lesson 2](tot03.md)  
+[Lesson 3](tot04.md)  
+[Lesson 4](tot05.md)  
+[Lesson 5](tot06.md)  
+[Lesson 6](tot07.md)  
+[Lesson 7](tot08.md)  
+[Lesson 8](tot09.md)  
+[Lesson 9](tot10.md)  
+[Lesson 10](tot11.md)  
+[Lesson 11](tot12.md)  
+[Lesson 12](tot13.md)  
+[Lesson 13](tot14.md)  
+[Lesson 14](tot15.md)  
+[Question Helps](tot16.md)  
+[Index](tot17.md)  

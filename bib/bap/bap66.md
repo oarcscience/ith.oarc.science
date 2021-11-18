@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap65) 
-[Next](bap67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap65.md) 
+[Next](bap67.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ for the
 Lord had given sentence concerning them that they should die, because
 they had sinned: for when *their father* said to them: Repent you of
 your evil way, they said: When we grow old, then will we repent. <span
-id="fr_148"></span>[1](#fn_147) And for this cause it was not
+id="fr_148"></span>[1](#fn_147.md) And for this cause it was not
 
 <span id="page_220">p. 220</span>
 
@@ -71,10 +71,10 @@ unjustly in despoiling Israel. But the Lord was angry with Heli.
 
 ### Footnotes
 
-<span id="fn_147"></span>[219:1](bap66.htm#fr_148) LII. 4. *When we grow
+<span id="fn_147"></span>[219:1](bap66.htm#fr_148.md) LII. 4. *When we grow
 old we will repent*. Cf. Amon in *Apostolic Constitutions*, (See
-Introd., [p. 61](bap12.htm#page_61).)
+Introd., [p. 61](bap12.htm#page_61)..md)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LIII](bap67)
+[Next: Chapter LIII](bap67.md)

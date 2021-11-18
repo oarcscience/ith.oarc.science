@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida01)  [Next](ida03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida01)  [Next](ida03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -24,7 +24,7 @@ Textual Heritage
 If the following pages are ever to see the light of day it will be
 because they have been stolen from me. The delay that I exact before
 they shall be disclosed assures me of that. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 As to this disclosure, let no one distrust my aim when I prepare for it,
 when I insist upon it. You may believe me when I maintain that no pride
@@ -69,7 +69,7 @@ Delirious dreams. Mad imaginings. But these
 
 dreams, these imaginings, are dear to me. "Captain de Saint-Avit and
 Lieutenant Ferrières," reads the official dispatch, "will proceed to
-Tassili to determine the [stratigraphic](errata.htm#0) relation of
+Tassili to determine the [stratigraphic](errata.htm#0.md) relation of
 Albien sandstone and carboniferous limestone. They will, in addition,
 profit by any opportunities of determining the possible change of
 attitude of the Axdjers towards our penetration, etc." If the journey
@@ -102,7 +102,7 @@ pale sand.
 Cegheir-ben-Cheikh! He is the man. There recurs to my mind Duveyrier's
 tragic phrase, "At the very moment the Colonel was putting his foot in
 the stirrup he was felled by a sabre blow." <span
-id="fr_1"></span>[1](#fn_1) Cegheir-ben-Cheikh! There he is, peacefully
+id="fr_1"></span>[1](#fn_1.md) Cegheir-ben-Cheikh! There he is, peacefully
 smoking his cigarette, a cigarette from the package that I gave him. . .
 . May the Lord forgive me for it.
 
@@ -159,7 +159,7 @@ Lt. 3rd Spahis.    
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](ida02.htm#fr_0) This letter, together with
+<span id="fn_0"></span>[3:1](ida02.htm#fr_0.md) This letter, together with
 the manuscript which accompanies it, the latter in a separate sealed
 envelope, was entrusted by Lieutenant Ferrières, of the 3rd Spahis, the
 day of the departure of that officer for the Tassili of the Tuareg
@@ -171,9 +171,9 @@ ten years set for the publication of the manuscript here presented,
 difficulties arose which have delayed its publication up to the present
 date.
 
-<span id="fn_1"></span>[6:1](ida02.htm#fr_1) H. Duveyrier, "The Disaster
+<span id="fn_1"></span>[6:1](ida02.htm#fr_1.md) H. Duveyrier, "The Disaster
 of the Flatters Mission." Bull. Geol. Soc., 1881.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. A Southern Assignment](ida03)
+[Next: Chapter I. A Southern Assignment](ida03.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna05)  [Next](ntna07) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna05)  [Next](ntna07.md) 
 
 ------------------------------------------------------------------------
 
@@ -685,7 +685,7 @@ both sides of the tribe. A man must not marry a woman of his own totem.
 The following examples of individuals in our camp will serve to
 illustrate the matter. M. stands for male and f for female.
 
-![Genealogical Chart](img/19500.jpg)
+![Genealogical Chart](img/19500.jpg.md)
 
 \[1. This is often pronounced as if it were spelt Bulinara.\]
 
@@ -693,7 +693,7 @@ illustrate the matter. M. stands for male and f for female.
 
  
 
-![Genealogical Chart](img/19600.jpg)
+![Genealogical Chart](img/19600.jpg.md)
 
 In addition to the main totem each individual has one or more, usually
 two, accessory totems. The main one Is that associated with the totemic
@@ -782,7 +782,7 @@ Malugurni. The descent of the totem, as in the Waduman tribe, is counted
 in the female line. The following table of one family in camp will
 illustrate this:--
 
-![Genealogical Chart](img/19900.jpg)
+![Genealogical Chart](img/19900.jpg.md)
 
 The Mudburra natives also perform the Tjutju ceremonies to increase the
 totemic animal or plant. After securing the latter the men who do not
@@ -948,7 +948,7 @@ mother was cockatoo and his father a wood man.
 
 The descent and marriage may be indicated as in the following table:--
 
-![Genealogical Chart](img/20300.jpg)
+![Genealogical Chart](img/20300.jpg.md)
 
 The Munbulkitj woman of the crocodile totem is the proper wife of the
 Manjerowuli man of the cockatoo totem.
@@ -1165,4 +1165,4 @@ head man, who is called *Kujungowangeri*.
 ------------------------------------------------------------------------
 
 [Next: Chapter V: Sacred Sticks, Bull-Roarers, and Ceremonial
-Objects](ntna07)
+Objects](ntna07.md)

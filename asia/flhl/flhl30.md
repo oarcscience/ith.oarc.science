@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl29)  [Next](flhl31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl29)  [Next](flhl31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ the souls of men and women when their time has come; the souls of saints
 and sinners, of beggars and of princes, of the old or young, whate’er
 befall; and even though friends weep, and hearts of loved ones ache with
 sorrow and with anguish, when bereft of those they love." So Azrael
-became the messenger of Death. <span id="fr_97"></span>[1](#fn_96)
+became the messenger of Death. <span id="fr_97"></span>[1](#fn_96.md)
 
 <span id="page_178">p. 178</span>
 
@@ -107,7 +107,7 @@ ceased to appear to his son, who made so many mistakes in his practice
 that his reputation fast declined.
 
 One day he had been at the funeral of a Jew, his victim, and was
-strolling down Wady-en-Nâr, <span id="fr_98"></span>[1](#fn_97) in sad
+strolling down Wady-en-Nâr, <span id="fr_98"></span>[1](#fn_97.md) in sad
 thought of his father, when he saw Azrael standing at the door of a
 cave. "In a few minutes you
 
@@ -132,7 +132,7 @@ eggs are laid while on the wing and hatched before they reach the
 ground. The shells only fall to the earth, for the young are able to fly
 as soon as they leave the egg. These shells are often found and devoured
 by the greedy and blood-thirsty shibeh, <span
-id="fr_99"></span>[1](#fn_98) which goes mad in consequence and bites
+id="fr_99"></span>[1](#fn_98.md) which goes mad in consequence and bites
 every creature that comes in its way, thus spreading hydrophobia and
 giving me plenty of work."
 
@@ -345,19 +345,19 @@ entered Paradise.
 
 ### Footnotes
 
-<span id="fn_96"></span>[177:1](flhl30.htm#fr_97) This account of the
+<span id="fn_96"></span>[177:1](flhl30.htm#fr_97.md) This account of the
 appointment of Azrael was given by a Moslem lady of rank to a Christian
 woman, who passed it on to my wife.
 
-<span id="fn_97"></span>[179:1](flhl30.htm#fr_98) Hell has seven gates,
+<span id="fn_97"></span>[179:1](flhl30.htm#fr_98.md) Hell has seven gates,
 one of which is in Wady-en-Nâr; and the Angel of Death has his workshop
 in one of the caves in that gloomy valley, as appears in this story.
 
-<span id="fn_98"></span>[180:1](flhl30.htm#fr_99) Shibeh (lit. "the
+<span id="fn_98"></span>[180:1](flhl30.htm#fr_99.md) Shibeh (lit. "the
 leaper") is one of the names of the leopard. But in folk-lore it is
 described as a creature combining the characteristics of the badger and
 the hyæna.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Underground Folk](flhl31)
+[Next: VI. The Underground Folk](flhl31.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi242)  [Next](mtsi244) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi242)  [Next](mtsi244.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ American](../../index)  [Southeast](../index)  [Index](index) 
 
 ### (SECOND VERSION)
 
-Tcukbilabila <span id="fr_61"></span>[1](#fn_61) carried off Opossum's
+Tcukbilabila <span id="fr_61"></span>[1](#fn_61.md) carried off Opossum's
 children and kept them in a hole. Tcukbilabila sat upon them. Opossum
 went to the place and asked for them, but he would not give them to her.
 Opossum stayed there begging for them but could not get them. Then
@@ -26,10 +26,10 @@ she has carried them ever since.
 
 ### Footnotes
 
-<span id="fn_61"></span>[200:1](mtsi243.htm#fr_61) Described as "a
+<span id="fn_61"></span>[200:1](mtsi243.htm#fr_61.md) Described as "a
 brownish woodbird, which is named from its note and is heard before day
 in the spring." Perhaps the whippoorwill.
 
 ------------------------------------------------------------------------
 
-[Next: 44. Opossum and Panther in Partnership](mtsi244)
+[Next: 44. Opossum and Panther in Partnership](mtsi244.md)

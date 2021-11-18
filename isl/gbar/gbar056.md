@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar055) [Next](gbar057)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar055) [Next](gbar057.md)
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ to judgment.
 
 ------------------------------------------------------------------------
 
-[Next](gbar057)
+[Next](gbar057.md)

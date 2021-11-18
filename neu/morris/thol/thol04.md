@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](thol03)  [Next](thol05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](thol03)  [Next](thol05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Hollow Land*, by William Morris, \[1856\], at Intangible Textual
 Heritage
 
@@ -362,6 +362,6 @@ bushes and strange trailing flowers, and there lay down and fell asleep.
 
 ------------------------------------------------------------------------
 
-[Next: Fytte the Third](thol05)
+[Next: Fytte the Third](thol05.md)
 
 </div>

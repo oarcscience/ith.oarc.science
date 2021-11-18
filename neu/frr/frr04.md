@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr03) 
-[Next](frr05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr03.md) 
+[Next](frr05.md) 
 
 ------------------------------------------------------------------------
 
@@ -357,4 +357,4 @@ achievement.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Task of the Hero](frr05)
+[Next: Chapter II. The Task of the Hero](frr05.md)

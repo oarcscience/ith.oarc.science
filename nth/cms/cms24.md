@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cms23)  [Next](cms25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cms23)  [Next](cms25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ make themselves and have no intelligence to contradict you.
 Be quiet until you realize the presence of absolute Intelligence all
 around you, of the Mind that knows. Now get a perfect picture of just
 what you desire. You cannot get a picture unless you
-[know](errata.htm#1) what it is you want. Put your mind in touch with
+[know](errata.htm#1.md) what it is you want. Put your mind in touch with
 Universal Mind, saying just what you are waiting for. Ask for it,
 believe that you are receiving it, and wait. After a few minutes declare
 that you now know, even though you may not seem to know, yet in the
@@ -83,4 +83,4 @@ wisdom and understanding.
 
 ------------------------------------------------------------------------
 
-[Next: Don't Be A Leaner](cms25)
+[Next: Don't Be A Leaner](cms25.md)

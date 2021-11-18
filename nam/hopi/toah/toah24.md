@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah23)  [Next](toah25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah23)  [Next](toah25.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ Chapter VIII. Crow Clan
 Chapter IX. Crane Clan.
 
 Chapter X. Hopi star and rainbow symbol. (Appears on [p.
-120](toah22.htm#page_120).)
+120](toah22.htm#page_120)..md)
 
 Chapter XI. The Tobacco, Cloud or Water, Badger, Rabbit and Coyote
 clans.
@@ -53,9 +53,9 @@ Crow or Kachina Clan symbols.
 
 PALOTQUOPI:
 
-The Corn, [Cloud](errata.htm#10) or Water, Eagle, Sun Forehead, Tobacco,
-[Bamboo](errata.htm#11) or Reed, Badger, Rabbit, Sand or Lizard, and Sun
-Clans. (Appears on [p. 123](toah23.htm#page_123).)
+The Corn, [Cloud](errata.htm#10.md) or Water, Eagle, Sun Forehead, Tobacco,
+[Bamboo](errata.htm#11.md) or Reed, Badger, Rabbit, Sand or Lizard, and Sun
+Clans. (Appears on [p. 123](toah23.htm#page_123)..md)
 
 <span id="page_125">p. 125</span>
 
@@ -180,7 +180,7 @@ trouble. *E.N*.
 
 <span id="xref_11">11</span>. Masauwu, God of the earth and guardian of
 the dead, is very terrible and very sacred. In form he is a great giant.
-The Hopis say [he](errata.htm#12) is really a very handsome man with
+The Hopis say [he](errata.htm#12.md) is really a very handsome man with
 dark complexion, but he always wears a terrible bloody mask and an old
 rabbit skin robe. He walks at night and carries a fiery torch. He is the
 controller of fire.
@@ -589,7 +589,7 @@ Government to do what they could to move their people off the mesas.
 When they returned to their homes they told their people what the "Great
 White Father" in Washington had said and urged them to move out off the
 mesas. But, of course, no one wished to be the first
-[ones](errata.htm#13) to start, so nothing was done about this. Some of
+[ones](errata.htm#13.md) to start, so nothing was done about this. Some of
 the people were afraid, for the Navajo were already settling around them
 and had reached Coma-a Springs by this time.
 
@@ -733,9 +733,9 @@ Mexico. *Ed*.
 literature and is used to account for the beginning of trouble in a
 pueblo. *Ed*.
 
-<span id="xref_57">57</span>. See Note  [4](toah24.htm#xref_4).
+<span id="xref_57">57</span>. See Note  [4](toah24.htm#xref_4.md).
 
-<span id="xref_58">58</span>. See Note  [31](toah24.htm#xref_31).
+<span id="xref_58">58</span>. See Note  [31](toah24.htm#xref_31.md).
 
 <span id="xref_59">59</span>. To the Hopi all life is one--it is the
 same. This world where he lives is the human world and in it all the
@@ -754,7 +754,7 @@ soul of this creature may return to its own world which it may never
 leave again, but the descendants of this creature will take its place in
 the human world, generation after generation.
 
-The Hopi hunter always prepares pahos, or [prayer](errata.htm#14)
+The Hopi hunter always prepares pahos, or [prayer](errata.htm#14.md)
 offerings, for the particular kind of game animal he is going to hunt,
 or for the plant clan for which he is searching. He prays, begging the
 animal or plant to forgive him, and explains that it is only his
@@ -764,10 +764,10 @@ life to the Hopi. *Jim Kewanwytewa*.
 <span id="xref_60">60</span>. In Hopi literature the "ghost" figures
 prominently. They usually come bringing warning of some impending
 catastrophe. The Ghost people must return each morning to their home in
-the underworld (now thought of as the Grand [Canyon](errata.htm#15).)
+the underworld (now thought of as the Grand [Canyon](errata.htm#15)..md)
 *Ed*.
 
-<span id="xref_61">61</span>. See Note  [7](toah24.htm#xref_7).
+<span id="xref_61">61</span>. See Note  [7](toah24.htm#xref_7.md).
 
 <span id="xref_62">62</span>. The Hopi say that the Spider Woman would
 always make a paho that would be a little different from those made by
@@ -781,7 +781,7 @@ end. It is used for planting, to make the holes in the earth in which
 the seeds are deposited. *Ed*.
 
 <span id="xref_64">64</span>. Masauwu, God of the Earth (the Upper
-World). See Note  [11](toah24.htm#xref_11).
+World). See Note  [11](toah24.htm#xref_11.md).
 
 <span id="xref_65">65</span>. The Water Serpent is generally referred to
 as Balulukong, but this particular serpent is always known as
@@ -789,7 +789,7 @@ Siwiyistiwa. Balulukkong appears in many Hopi legends. (*See various
 stories in Voth, and Stephen, 1929, No. 163*.)
 
 <span id="xref_66">66</span>. Tiponi. See Note
- [40](toah24.htm#xref_40).
+ [40](toah24.htm#xref_40.md).
 
 <span id="xref_67">67</span>. The participants in a sacred ceremony are
 supposed to be in a "charmed" state. After the ceremony is over they
@@ -798,13 +798,13 @@ Honani, or Badger Clan. *Ed*.
 
 <span id="xref_68">68</span>. Sotukeunangwi, the Heavenly God. He is
 all-powerful and it seems that he stands above all others. Even
-Muiaingwa, the Germ God, cannot [succeed](errata.htm#16) without his
-help. (*See Stephen, p. 5d*.) See Note  [7](toah24.htm#xref_7).
+Muiaingwa, the Germ God, cannot [succeed](errata.htm#16.md) without his
+help. (*See Stephen, p. 5d*.) See Note  [7](toah24.htm#xref_7.md).
 
 <span id="xref_69">69</span>. The brother and sister are always spoken
 of as Nasiwum. They are inseparable. *Ed*.
 
-<span id="xref_70">70</span>. See Note  [18](toah24.htm#xref_18).
+<span id="xref_70">70</span>. See Note  [18](toah24.htm#xref_18.md).
 
 <span id="xref_71">71</span>. The Nasiwum, discouraged, decide to return
 to Sotukeunangwi, and they disappeared forever. *Ed*.
@@ -879,4 +879,4 @@ X.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](toah25)
+[Next: Bibliography](toah25.md)

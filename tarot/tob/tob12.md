@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob11) 
-[Next](tob13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob11.md) 
+[Next](tob13.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,9 +48,9 @@ d'Olivet are our authorities in this work.
 letter, we shall search for the application of these ideas in the
 symbolic figure of the Tarot.
 
-Eliphas Levi, <span id="fr_44"></span>[1](#fn_44) Christian <span
-id="fr_45"></span>[2](#fn_45) and Barrois <span
-id="fr_46"></span>[3](#fn_46) will aid us in our inquiries.
+Eliphas Levi, <span id="fr_44"></span>[1](#fn_44.md) Christian <span
+id="fr_45"></span>[2](#fn_45.md) and Barrois <span
+id="fr_46"></span>[3](#fn_46.md) will aid us in our inquiries.
 
 (4th) Lastly, we shall determine the meaning which must be attributed to
 the card of the Tarot, according to its numerical and symbolical
@@ -70,10 +70,10 @@ which we have established the astronomical relations of each card of the
 Tarot.
 
 One of the most ancient books of the Kabbalah which we possess, the
-*Sepher Yetzirah*, <span id="fr_47"></span>[4](#fn_47) says that the
+*Sepher Yetzirah*, <span id="fr_47"></span>[4](#fn_47.md) says that the
 three mother letters of the Hebrew alphabet correspond with the three
 worlds, the seven doubles with the seven planets, and the twelve simple
-with the twelve signs of the zodiac. <span id="fr_48"></span>[5](#fn_48)
+with the twelve signs of the zodiac. <span id="fr_48"></span>[5](#fn_48.md)
 
 <span id="page_98">p. 98</span>
 
@@ -107,21 +107,21 @@ CHARACTER OF THE FIGURES.
 
 ### Footnotes
 
-<span id="fn_44"></span>[97:1](tob12.htm#fr_44) *Rituel de la Haute
+<span id="fn_44"></span>[97:1](tob12.htm#fr_44.md) *Rituel de la Haute
 Magie*.
 
-<span id="fn_45"></span>[97:2](tob12.htm#fr_45) *Histoire de la Magie*.
+<span id="fn_45"></span>[97:2](tob12.htm#fr_45.md) *Histoire de la Magie*.
 
-<span id="fn_46"></span>[97:3](tob12.htm#fr_46) *Dactylologie ou Langage
+<span id="fn_46"></span>[97:3](tob12.htm#fr_46.md) *Dactylologie ou Langage
 Primitif*.
 
-<span id="fn_47"></span>[97:4](tob12.htm#fr_47) Translated into French
+<span id="fn_47"></span>[97:4](tob12.htm#fr_47.md) Translated into French
 by Papus.
 
-<span id="fn_48"></span>[97:5](tob12.htm#fr_48) See Franck, *The
+<span id="fn_48"></span>[97:5](tob12.htm#fr_48.md) See Franck, *The
 Kabbala*, Paris, 8vo.
 
 ------------------------------------------------------------------------
 
 [Next: The First Card of the Tarot: Origin of the Signification of All
-the Others](tob13)
+the Others](tob13.md)

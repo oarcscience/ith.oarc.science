@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](twp03)  [Next](twp05) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](twp03)  [Next](twp05.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,13 +29,13 @@ learned many things of this sort--a man with whom I have often discussed
 this subject broadly and deeply--to wit, Peter, a citizen of Bern, in
 the diocese of Lausanne, who has burned many Witches of both sexes, and
 has driven others out of the territory of the Bernese. <span
-id="fr_3"></span>[1](#fn_3) I have moreover conferred with one Benedict,
+id="fr_3"></span>[1](#fn_3.md) I have moreover conferred with one Benedict,
 a monk of the Benedictine order, who, although now a very devout cleric
 in a reformed monastery at Vienna, was a decade ago, while still in the
 world, a necromancer, juggler, buffoon, and strolling player, well-known
 as an expert among the secular nobility. I have likewise beard certain
 of the following things from the Inquisitor of Heretical Pravity <span
-id="fr_4"></span>[2](#fn_4) at Autun, who was a devoted reformer of our
+id="fr_4"></span>[2](#fn_4.md) at Autun, who was a devoted reformer of our
 order in the convent at Lyons, and has convicted many of witchcraft in
 the diocese of Autun.
 
@@ -48,7 +48,7 @@ arrested and burned as a witch, although, as I believe, truly, penitent,
 <span id="page_7">p. 7</span>
 
 who had earlier, together with his wife, a witch invincible to
-persuasion, <span id="fr_5"></span>[1](#fn_5) escaped the clutches of
+persuasion, <span id="fr_5"></span>[1](#fn_5.md) escaped the clutches of
 the aforesaid judge, Peter. The aforesaid youth, being again indicted at
 Bern, with his wife, and placed in a different prison from hers,
 declared: "If I can obtain absolution for my sins, I will freely lay
@@ -64,7 +64,7 @@ his masters must go into the church, and there in their presence must
 renounce Christ and his faith, baptism, and the church universal. Then
 he must do homage to the *magisterulus*, that is, to the little master
 (for so, and not otherwise, they call the Devil). Afterward he drinks
-from the aforesaid flask; <span id="fr_6"></span>[2](#fn_6) and, this
+from the aforesaid flask; <span id="fr_6"></span>[2](#fn_6.md) and, this
 done, he forthwith feels himself to conceive and hold within himself an
 image of our art and the chief rites of this sect. After this fashion
 was I seduced; and my wife also, whom I believe of so great pertinacity
@@ -216,7 +216,7 @@ Let no man, therefore, dare to infringe this page of our declaration,
 extension, grant, and mandate, or with rash hardihood to contradict it.
 If any presume to attempt this, let him know that he incurs the wrath of
 almighty God and of the blessed apostles Peter and Paul. <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
 Given in Rome, at St. Peter's, in the year of Our Lord's incarnation
 1484, on the nones of December, in the first year of our pontificate.
@@ -240,7 +240,7 @@ Malleus Maleficarum, pars iii, quæstio 14. Latin. Editions are many.
 The method of beginning an examination by torture is as follows: First,
 the jailers prepare the implements of torture, then they strip the
 prisoner (if it be a woman, she has already been stripped by other
-women, upright and of good report). <span id="fr_8"></span>[1](#fn_8)
+women, upright and of good report). <span id="fr_8"></span>[1](#fn_8.md)
 This stripping is lest some means of witchcraft may have been sewed into
 the clothing--such as often, taught by the Devil, they prepare from the
 bodies of unbaptized infants, \[murdered\] that they may forfeit
@@ -305,7 +305,7 @@ sorts of tortures must be placed before him, with the statement that,
 unless he will confess the truth, he must endure these also. But, if not
 even thus be can be brought into terror and to the truth, then the next
 day or the next but one is to be set for a *continuation* of the
-torture--not a repetition, <span id="fr_9"></span>[1](#fn_9) for they
+torture--not a repetition, <span id="fr_9"></span>[1](#fn_9.md) for they
 must not be repeated unless new evidences be produced.
 
 The judge must then address to the prisoners the following sentence: We,
@@ -316,7 +316,7 @@ heard, and that the whole may be recorded by the notary.
 And during the interval, before the day assigned, the judge, in person
 or through approved men, must in the manner above described try to
 persuade the prisoner to confess, promising her <span
-id="fr_10"></span>[2](#fn_10) (if there is aught to be gained by this
+id="fr_10"></span>[2](#fn_10.md) (if there is aught to be gained by this
 promise) that her life shall be spared.
 
 The judge shall see to it, morever, that throughout this interval
@@ -331,32 +331,32 @@ suicide.
 
 ### Footnotes
 
-<span id="fn_3"></span>[6:1](twp04.htm#fr_3) This Peter has been shown
+<span id="fn_3"></span>[6:1](twp04.htm#fr_3.md) This Peter has been shown
 to be Peter of Gruyères, Bernese castellan in the Simmenthal, 1392-1406.
 
-<span id="fn_4"></span>[6:2](twp04.htm#fr_4) Such was the official title
+<span id="fn_4"></span>[6:2](twp04.htm#fr_4.md) Such was the official title
 of a representative of the Holy inquisition.
 
-<span id="fn_5"></span>[7:1](twp04.htm#fr_5) This means, of course, only
+<span id="fn_5"></span>[7:1](twp04.htm#fr_5.md) This means, of course, only
 that she could not be persuaded to confess.
 
-<span id="fn_6"></span>[7:2](twp04.htm#fr_6) A flask described in a
+<span id="fn_6"></span>[7:2](twp04.htm#fr_6.md) A flask described in a
 preceding anecdote as filled with a liquid made from murdered infants.
 
-<span id="fn_7"></span>[10:1](twp04.htm#fr_7) These "final clauses" are
+<span id="fn_7"></span>[10:1](twp04.htm#fr_7.md) These "final clauses" are
 those found at this period in all bulls of the class known as *tituli*.
 
-<span id="fn_8"></span>[11:1](twp04.htm#fr_8) Sometimes, in place of the
+<span id="fn_8"></span>[11:1](twp04.htm#fr_8.md) Sometimes, in place of the
 prisoner's clothing, a garment furnished by the court was now supplied,
 to be worn during the torture.
 
-<span id="fn_9"></span>[12:1](twp04.htm#fr_9) This was, of course, a
+<span id="fn_9"></span>[12:1](twp04.htm#fr_9.md) This was, of course, a
 legal fiction, to avoid the merciful restriction put by law upon the
 repetition of torture.
 
-<span id="fn_10"></span>[12:2](twp04.htm#fr_10) This change in the
+<span id="fn_10"></span>[12:2](twp04.htm#fr_10.md) This change in the
 gender of the pronoun is a faithful following of the original.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Witch-Persecution at Trier.](twp05)
+[Next: III. The Witch-Persecution at Trier.](twp05.md)

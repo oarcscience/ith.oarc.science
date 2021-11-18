@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio27)  [Next](dio29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio27)  [Next](dio29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 <span id="ii.iv.ii.iv"></span>
 
 <span id="ii.iv.ii.iv-p1"></span>**LETTER IV.** <span
-id="fr_63"></span>[64](#fn_63) *To the same Gaius Therapeutes.*
+id="fr_63"></span>[64](#fn_63.md) *To the same Gaius Therapeutes.*
 
 <span id="ii.iv.ii.iv-p2"></span>How, you ask, is Jesus, Who is beyond
 all, ranked essentially with all men? For, not as Author of men is He
@@ -27,7 +27,7 @@ we do not define the Lord Jesus, humanly, for He is not man only,
 pre-eminently a lover of man, the Super-essential, taking substance,
 above men and after men, from the substance of men. And it is nothing
 less, the ever Superessential, super-full of super-essentiality,
-disregards the excess <span id="fr_64"></span>[65](#fn_64) of this, and
+disregards the excess <span id="fr_64"></span>[65](#fn_64.md) of this, and
 having come truly into substance, took substance above substance, and
 above man works things of man. And a virgin supernaturally conceiving,
 and unstable water, holding up weight of material and earthly feet, and
@@ -48,13 +48,13 @@ become man.
 
 ### Footnotes
 
-<span id="fn_63"></span>[143:64](dio28.htm#fr_63) <span
+<span id="fn_63"></span>[143:64](dio28.htm#fr_63.md) <span
 id="ii.iv.ii.iv-p1.1"></span>C. II. § 6.
 
-<span id="fn_64"></span>[143:65](dio28.htm#fr_64) <span
+<span id="fn_64"></span>[143:65](dio28.htm#fr_64.md) <span
 id="ii.iv.ii.iv-p2.1"></span><span id="ii.iv.ii.iv-p2.2"></span>τῇ
 ταύτης περιουσίᾳ.
 
 ------------------------------------------------------------------------
 
-[Next: Letter V. To Dorotheus, Leitourgos.](dio29)
+[Next: Letter V. To Dorotheus, Leitourgos.](dio29.md)

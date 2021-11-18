@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat03)  [Next](jat05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat03)  [Next](jat05.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Raven divined to see whether people would die. First, he threw in the
 stick over which the skins are stretched in dressing. When this came to
 the top of the water he tried again by throwing the stone muller. It did
 not come to the surface and the people began to die. <span
-id="fr_5"></span>[2](#fn_5)
+id="fr_5"></span>[2](#fn_5.md)
 
 The people moved away in four directions but they could not sleep.
 
@@ -21,7 +21,7 @@ The people moved away in four directions but they could not sleep.
 came back gave them four lice, two of which were placed in their hair,
 and two in their clothes., When they lay down they were all very sleepy.
 It was the biting of the lice that made them sleep. <span
-id="fr_6"></span>[1](#fn_6)
+id="fr_6"></span>[1](#fn_6.md)
 
 Some of the people occupied the country near the head of the Arkansas
 River; others, were living along the Sangro de Cristo Range; and the
@@ -82,13 +82,13 @@ been killed, I will mourn for him properly."
 
 ### Footnotes
 
-<span id="fn_5"></span>[194:2](jat04.htm#fr_5) Russell has this incident
+<span id="fn_5"></span>[194:2](jat04.htm#fr_5.md) Russell has this incident
 as a variant, (a), p. 255. The Navajo account has Coyote instead of
 Raven as the diviner, Matthews, p. 77. Compare also, Wissler and Duvall,
 p. 20; Dorsey and Kroeber, p. 17.
 
-<span id="fn_6"></span>[195:1](jat04.htm#fr_6) Russell, (a), p. 255.
+<span id="fn_6"></span>[195:1](jat04.htm#fr_6) Russell, (a.md), p. 255.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Culture Heroes and Owl](jat05)
+[Next: 3. The Culture Heroes and Owl](jat05.md)

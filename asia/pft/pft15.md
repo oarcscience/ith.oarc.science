@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft14)  [Next](pft16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft14)  [Next](pft16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ the Abra River, with the dead deer at his feet.
 
 When he examined the twig which he still held in his hand, he saw to his
 great surprise that the berries were agate beads of great value.  <span
-id="fr_80"></span>[81](pft68.htm#fn_80) And packing the deer on his
+id="fr_80"></span>[81](pft68.htm#fn_80.md) And packing the deer on his
 back, he hastened home where he told his wonderful story.
 
 The sight of the beautiful beads convinced the people that he told the
@@ -61,4 +61,4 @@ had made strange carvings which even to this day can be seen.
 
 ------------------------------------------------------------------------
 
-[Next: The Striped Blanket](pft16)
+[Next: The Striped Blanket](pft16.md)

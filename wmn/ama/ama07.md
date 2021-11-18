@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](ama06)  [Next](ama08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](ama06)  [Next](ama08.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ between Europe and Asia, and has been identified
 
 [![SECTION OF PHIGALEIAN FRIEZE, COMBAT OF GREEKS AND AMAZONS. BRITISH
 MUSEUM.](tn/09700.jpg)  
-Click to enlarge](img/09700.jpg)  
+Click to enlarge](img/09700.jpg.md)  
 SECTION OF PHIGALEIAN FRIEZE, COMBAT OF GREEKS AND AMAZONS. BRITISH
 MUSEUM.  
 
@@ -358,7 +358,7 @@ other similarly attired women, went about Paris endeavouring to
 <span id="page_107">p. 107</span>
 
 compel every maid and matron to follow suit. <span
-id="fr_1"></span>[1](#fn_1) All these women came to grief. Theroigne,
+id="fr_1"></span>[1](#fn_1.md) All these women came to grief. Theroigne,
 suspected of being a Girondist by the Amazons, was seized on the Terrace
 of the Tuileries, stripped naked, and whipped like a naughty child by
 her erstwhile companions in arms, amidst the hilarious jeers of the
@@ -393,7 +393,7 @@ and responsibilities, not to usurp independent power.
 
 ### Footnotes
 
-<span id="fn_1"></span>[107:1](ama07.htm#fr_1) Similar sartorial
+<span id="fn_1"></span>[107:1](ama07.htm#fr_1.md) Similar sartorial
 eccentricities have shown themselves in our days. There are followers of
 la Maillard and also of Theroigne, for the colour manifestation is
 showing itself among the "advanced" women of Finland. Mr. Paul Waineman
@@ -403,4 +403,4 @@ wear bright scarlet gowns when sitting in the House."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Amazons of Africa](ama08)
+[Next: Chapter VII: Amazons of Africa](ama08.md)

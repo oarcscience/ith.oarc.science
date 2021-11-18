@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh05)  [Next](ehh07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh05)  [Next](ehh07.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ gods, and, of course, all pictures are omitted.
 
 The oldest copies of the BOOK AM-TUAT are found in the tombs of Thothmes
 III., Amen-hetep II., and Amen-hetep III., at Thebes. <span
-id="fr_27"></span>[1](#fn_27) The most complete and best illustrated
+id="fr_27"></span>[1](#fn_27.md) The most complete and best illustrated
 copy is that which is found on the walls of
 
 <span id="page_82">p. 82</span>
@@ -53,11 +53,11 @@ the tomb of Seti I. at Thebes; here we have eleven out of the twelve
 sections of the BOOK AM-TUAT, and the first six divisions of the SUMMARY
 of the work. The texts and pictures of this fine copy have been
 completely published by M. Lefébure, assisted by MM. Bouriant,
-Loret, <span id="fr_28"></span>[1](#fn_28) and Naville, and M. Maspero
+Loret, <span id="fr_28"></span>[1](#fn_28.md) and Naville, and M. Maspero
 has translated and discussed the work at length in one of the most
 important of his luminous dissertations on Egyptian mythology. <span
-id="fr_29"></span>[2](#fn_29) The next fullest copy is found in the tomb
-of Rameses VI., <span id="fr_30"></span>[3](#fn_30) and provides us with
+id="fr_29"></span>[2](#fn_29.md) The next fullest copy is found in the tomb
+of Rameses VI., <span id="fr_30"></span>[3](#fn_30.md) and provides us with
 eleven divisions, but the drawings are less careful, and the texts are
 less accurate, and contain numerous additions which appear to represent
 beliefs of a later period. The history of the Book AM-TUAT shows us that
@@ -67,7 +67,7 @@ sarcophagi and wooden coffins, and next on rolls of papyrus. We have
 seen how the kings of the XVIIIth and XIXth Dynasties had it copied on
 the walls of their tombs, and it must now be noted that Rameses III.
 decorated his red granite sarcophagus with scenes relating to the course
-of the sun in the Other World. <span id="fr_31"></span>[4](#fn_31) This
+of the sun in the Other World. <span id="fr_31"></span>[4](#fn_31.md) This
 sarcophagus is preserved in the Museum
 
 <span id="page_83">p. 83</span>
@@ -75,19 +75,19 @@ sarcophagus is preserved in the Museum
 of the Louvre in Paris, and its cover is in the Fitzwilliam Museum,
 Cambridge. Among other sarcophagi inscribed with text and pictures from
 the BOOK AM-TUAT may be mentioned those of: 1. Horus, son of
-Tarut-en-Sekhet; <span id="fr_32"></span>[1](#fn_32) 2. Tchet-hra, a
-priest of Ptah;  <span id="fr_33"></span>[2](#fn_33) 3. Qem-Hap, <span
-id="fr_34"></span>[3](#fn_34) the son of Takhaau; and Nekht-neb-f. Now,
+Tarut-en-Sekhet; <span id="fr_32"></span>[1](#fn_32.md) 2. Tchet-hra, a
+priest of Ptah;  <span id="fr_33"></span>[2](#fn_33.md) 3. Qem-Hap, <span
+id="fr_34"></span>[3](#fn_34.md) the son of Takhaau; and Nekht-neb-f. Now,
 whilst on the walls of tombs, and on the side of sarcophagi, divisions
 Nos. I.-XI. are found, the only divisions which are met with on papyrus
 are Nos. IX.-XII. Thus the Louvre Papyrus, No. 3071, which formed the
 subject of a special study by Devéria <span
-id="fr_35"></span>[4](#fn_35) and Pierret, <span
-id="fr_36"></span>[5](#fn_36) and the Turin Papyrus, published by
-Lanzone <span id="fr_37"></span>[6](#fn_37) and the Leyden Papyrus T.
-71, <span id="fr_38"></span>[7](#fn_38) contain each the last four
+id="fr_35"></span>[4](#fn_35.md) and Pierret, <span
+id="fr_36"></span>[5](#fn_36.md) and the Turin Papyrus, published by
+Lanzone <span id="fr_37"></span>[6](#fn_37.md) and the Leyden Papyrus T.
+71, <span id="fr_38"></span>[7](#fn_38.md) contain each the last four
 divisions only. The Leyden Papyrus T. 72 <span
-id="fr_39"></span>[8](#fn_39) contains divisions X., XL, and XII., the
+id="fr_39"></span>[8](#fn_39.md) contains divisions X., XL, and XII., the
 Berlin Papyrus No. 3001 contains divisions IX., X. and XII., and the
 Berlin Papyrus No. 3005 contains divisions X. and XI. only. There are
 several papyri in the British Museum inscribed with similar selections.
@@ -101,7 +101,7 @@ No. 3071, the Papyrus of Turin, published by Lanzone, and, of course,
 the tomb of Seti I., which gives the text of the first six divisions.
 The most valuable of all these is the Leyden Papyrus T. 71, of which an
 excellent fac-simile, with a complete translation, was published by Drs.
-Pleyte and Boeser in 1894; <span id="fr_40"></span>[1](#fn_40) in this
+Pleyte and Boeser in 1894; <span id="fr_40"></span>[1](#fn_40.md) in this
 papyrus the text of the SUMMARY only fills 119 short columns, and the
 great popularity of the work is attested by the fact that the priests of
 Amen were induced to compress all the most important portions of Am-Tuat
@@ -110,7 +110,7 @@ into so small a compass.
 Similar in many details, but widely different from the BOOK AM-TUAT in
 point of fundamental doctrine, is the great funeral work to which the
 names "Book of the Lower Hemisphere," <span
-id="fr_41"></span>[2](#fn_41) "Book of Hades," "Livre de l'Enfer," have
+id="fr_41"></span>[2](#fn_41.md) "Book of Hades," "Livre de l'Enfer," have
 been given. A glance at the pictures which accompany the texts of this
 Book is sufficient to show that it deals with the passage of the Sun-god
 through the Other World during the hours of the night, but, as M.
@@ -139,7 +139,7 @@ for thousands of years.
 
 The most complete copy of the BOOK OF GATES known to us is found
 inscribed on the alabaster sarcophagus of Seti I, <span
-id="fr_42"></span>[1](#fn_42) king of Egypt about B.C. 1375,
+id="fr_42"></span>[1](#fn_42.md) king of Egypt about B.C. 1375,
 
 <span id="page_86">p. 86</span>
 
@@ -195,14 +195,14 @@ in it wherein the damned, i.e., the enemies of Osiris and Ra, were
 consumed, and certain parts of it were the homes of monsters in various
 shapes and forms which lived upon the unfortunate creatures whom they
 were able to destroy. On the whole, the word Tuat may be best rendered
-by "The Other World," <span id="fr_43"></span>[1](#fn_43) or
+by "The Other World," <span id="fr_43"></span>[1](#fn_43.md) or
 "Underworld," always provided that it be clearly understood that the
 Egyptians never believed it to be under the earth.
 
 In inventing a situation for the Tuat the Egyptians appear to have
 believed that the whole of the habitable world, that is to say, Egypt,
 was surrounded by a chain of mountains lofty and impassable, just like
-the Jebel Kaf <span id="fr_44"></span>[2](#fn_44) of Muhammadan writers;
+the Jebel Kaf <span id="fr_44"></span>[2](#fn_44.md) of Muhammadan writers;
 from one hole in this mountain the sun rose, and in another he set.
 Outside this chain of mountains, but presumably quite close to them, was
 the region of the Tuat; it ran parallel with
@@ -226,7 +226,7 @@ effect that the Tuat was the place comprised between the arms of the god
 Shu and the body of the sky-goddess Nut, whom, according to the old
 legend, he raised up from the embrace of her husband the Earth-god Seb,
 so forming the earth and the sky, thus appears to be untenable. <span
-id="fr_45"></span>[1](#fn_45)
+id="fr_45"></span>[1](#fn_45.md)
 
 Now as the Tuat was situated on the other side of the mountains which
 separated it from Egypt, and from the sun, moon, and stars which lighted
@@ -455,7 +455,7 @@ Hour-goddess--NEBT-USHA.
 
 Division IX. *Name*--BEST-ARU-ANKHET-KHEPERU.
 
-Name of the Gate--SA-EM-KEB. <span id="fr_46"></span>[1](#fn_46)
+Name of the Gate--SA-EM-KEB. <span id="fr_46"></span>[1](#fn_46.md)
 
 <span id="page_99">p. 99</span>
 
@@ -552,7 +552,7 @@ appointed by Osiris, was obviated.
 
 ### Footnotes
 
-<span id="fn_27"></span>[81:1](ehh06.htm#fr_27) The tombs of Amen-hetep
+<span id="fn_27"></span>[81:1](ehh06.htm#fr_27.md) The tombs of Amen-hetep
 II. and Thothmes III. were discovered by M. Loret in 1898, and,
 according to the description of them published in the French journals,
 the copies of Am-Tuat on their walls were in a good state of
@@ -565,56 +565,56 @@ de l'Égypte*, Antiq. tom. iii. 193, tom. x., 218, and plates, tom. ii.,
 80, 81; and Lefébure in *Mémoires Mission Arch. Française*, tom. iii.,
 p. 172.
 
-<span id="fn_28"></span>[82:1](ehh06.htm#fr_28) See *Mémoires publiés
+<span id="fn_28"></span>[82:1](ehh06.htm#fr_28.md) See *Mémoires publiés
 par les membres de la Miss. Arch. Française*, tom. ii., Paris, 1886.
 
-<span id="fn_29"></span>[82:2](ehh06.htm#fr_29) See *Études de
+<span id="fn_29"></span>[82:2](ehh06.htm#fr_29.md) See *Études de
 Mythologie et d'Archéologie Egyptiennes*, in *Bibliothèque
 Égyptologique*, tom. ii., p. 1 ff., Paris, 1893.
 
-<span id="fn_30"></span>[82:3](ehh06.htm#fr_30) See Lefébure, *op.
+<span id="fn_30"></span>[82:3](ehh06.htm#fr_30.md) See Lefébure, *op.
 cit.*, tom. iii., fasc. 1, p. 48 ff.
 
-<span id="fn_31"></span>[82:4](ehh06.htm#fr_31) See E. de Rougé, *Notice
+<span id="fn_31"></span>[82:4](ehh06.htm#fr_31.md) See E. de Rougé, *Notice
 Sommaire des Monuments Égyptiens exposés dans les Galeries du Musée du
 Louvre*, Paris, 1876, p. 51.
 
-<span id="fn_32"></span>[83:1](ehh06.htm#fr_32) See E. de Rougé, *Notice
+<span id="fn_32"></span>[83:1](ehh06.htm#fr_32.md) See E. de Rougé, *Notice
 Sommaire*, p. 52. It contains the figures of the eleven divisions, with
 very few inscriptions; see Jéquier, *Le Livre de ce qu'il y a dans
 l'Hades*, p. 25.
 
-<span id="fn_33"></span>[83:2](ehh06.htm#fr_33) See E. de Rougé, *Notice
+<span id="fn_33"></span>[83:2](ehh06.htm#fr_33.md) See E. de Rougé, *Notice
 Sommaire*, p. 52. This sarcophagus is made of basalt, is beautifully
 cut, and was brought to France by Champollion. See also Sharpe,
 *Egyptian Inscriptions*, vol. ii., plates 1-24.
 
-<span id="fn_34"></span>[83:3](ehh06.htm#fr_34) See Schäfer in Jéquier,
+<span id="fn_34"></span>[83:3](ehh06.htm#fr_34.md) See Schäfer in Jéquier,
 *op. cit.*, p. 26, notes 3 and 4.
 
-<span id="fn_35"></span>[83:4](ehh06.htm#fr_35) See *Catalogue des
+<span id="fn_35"></span>[83:4](ehh06.htm#fr_35.md) See *Catalogue des
 Manuscrits Égyptiens*, Paris, 1881, p. 15.
 
-<span id="fn_36"></span>[83:5](ehh06.htm#fr_36) See Pierret, *Études
+<span id="fn_36"></span>[83:5](ehh06.htm#fr_36.md) See Pierret, *Études
 Égyptologiques*, tom. ii., p. 103-148.
 
-<span id="fn_37"></span>[83:6](ehh06.htm#fr_37) See Lanzone, *Le
+<span id="fn_37"></span>[83:6](ehh06.htm#fr_37.md) See Lanzone, *Le
 Domicile des Esprits*, Paris, 1879, folio.
 
-<span id="fn_38"></span>[83:7](ehh06.htm#fr_38) See *Catalogue du Musée
+<span id="fn_38"></span>[83:7](ehh06.htm#fr_38.md) See *Catalogue du Musée
 Égyptien de Leyde*, pp. 253-255.
 
-<span id="fn_39"></span>[83:8](ehh06.htm#fr_39) See Jéquier, *op. cit.*,
+<span id="fn_39"></span>[83:8](ehh06.htm#fr_39.md) See Jéquier, *op. cit.*,
 p. 27.
 
-<span id="fn_40"></span>[84:1](ehh06.htm#fr_40) *Papyrus Funéraire
+<span id="fn_40"></span>[84:1](ehh06.htm#fr_40.md) *Papyrus Funéraire
 Hiéroglyphique, Sha-am-Tua* (T. 71). Publié dans la 32ième Livraison des
 *Monuments Égyptiens du Musée*, Leyden, 1894.
 
-<span id="fn_41"></span>[84:2](ehh06.htm#fr_41) See Devéria, Catalogue,
+<span id="fn_41"></span>[84:2](ehh06.htm#fr_41.md) See Devéria, Catalogue,
 Sect. ii., *Le Livre de L'Hémisphère Inférieur*.
 
-<span id="fn_42"></span>[85:1](ehh06.htm#fr_42) See *The Alabaster
+<span id="fn_42"></span>[85:1](ehh06.htm#fr_42.md) See *The Alabaster
 Sarcophagus of Oimenepthah I., King of Egypt, now in Sir John Soane's
 Museum, Lincoln's Inn Fields, drawn* <span id="page_86">p. 86</span> *by
 Joseph Bonomi, and described by Samuel Sharpe*, London, 1864. A
@@ -625,18 +625,18 @@ p. 101; and an English rendering of the whole text was given by E.
 Lefébure, in the *Records of the Past*, vol. x., p. 79 ff., vol. xii.,
 p. 1 ff.
 
-<span id="fn_43"></span>[88:1](ehh06.htm#fr_43) See Maspero, *Études de
+<span id="fn_43"></span>[88:1](ehh06.htm#fr_43.md) See Maspero, *Études de
 Mythologie*, tom. ii. p. 27.
 
-<span id="fn_44"></span>[88:2](ehh06.htm#fr_44) See Yakut's Geographical
+<span id="fn_44"></span>[88:2](ehh06.htm#fr_44.md) See Yakut's Geographical
 Dictionary, ed. Wüstenfeld, tom. iv., page 18.
 
-<span id="fn_45"></span>[89:1](ehh06.htm#fr_45) See Lanzone, *Le
+<span id="fn_45"></span>[89:1](ehh06.htm#fr_45.md) See Lanzone, *Le
 domicile des Esprits*, p. 1.
 
-<span id="fn_46"></span>[98:1](ehh06.htm#fr_46) Or, SA-AKEB.
+<span id="fn_46"></span>[98:1](ehh06.htm#fr_46.md) Or, SA-AKEB.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter V. The Contents of the Book Am-Tuat and the Book of Gates
-Compared. The Western Vestibule or Antechamber of the Tuat](ehh07)
+Compared. The Western Vestibule or Antechamber of the Tuat](ehh07.md)

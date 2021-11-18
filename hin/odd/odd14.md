@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd13)  [Next](odd15) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd13)  [Next](odd15.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ any of it to take home to their mother--but the gentle Moon did not
 forget her. Of every dainty dish that was brought round she placed a
 small portion under one of her beautiful long finger-nails, that the
 Star might also have a share in the treat.  <span
-id="fr_57"></span>[1](#fn_57)
+id="fr_57"></span>[1](#fn_57.md)
 
 On their return, their Mother, who had kept watch for them all night
 long with her little bright eye, said, 'Well, children, what have you
@@ -63,8 +63,8 @@ even to this day.)
 
 ### Footnotes
 
-<span id="fn_57"></span>[1](odd14.htm#fr_57) See Notes.
+<span id="fn_57"></span>[1](odd14.htm#fr_57.md) See Notes.
 
 ------------------------------------------------------------------------
 
-[Next: XI. Singh Rajah and the Cunning Little Jackals](odd15)
+[Next: XI. Singh Rajah and the Cunning Little Jackals](odd15.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](suc02)  [Next](suc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](suc02)  [Next](suc04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ TABERNACLES, ITS WALLS, AND ROOFING.
 MISHNA: A booth which is higher than twenty ells is not valid. R.
 Jehudah, however, says it is. One which is not ten spans high, one which
 has not three walls, or which has more sun than shade, is not
-valid. <span id="fr_1"></span>[1](#fn_1)
+valid. <span id="fr_1"></span>[1](#fn_1.md)
 
 GEMARA: Whence do we deduce this? Said Rabha: It is written \[Lev.
 xxiii. 43\]: "In order that your generations may know that I caused the
@@ -129,7 +129,7 @@ Shammai; but Beth Hillel say it is.
 
 Who is the Tana of the following teaching of the rabbis: In a house
 which is not four ells square, it is not obligatory to have a Mezuzah (a
-battlement), <span id="fr_2"></span>[1](#fn_2) and it is not subject to
+battlement), <span id="fr_2"></span>[1](#fn_2.md) and it is not subject to
 being defiled
 
 <span id="page_4">p. 4</span>
@@ -231,7 +231,7 @@ Moses and Elijah never ascended the heaven. As it is written \[Psalms,
 cxv. 16\]: "The heavens are the heavens of the Lord, but the earth hath
 he given to the children of man"; but is it not written \[Ex. xix. 20\]:
 "And the Lord came down upon Mount Sinai"? And the answer is, that He
-did not come down lower than ten spans <span id="fr_3"></span>[1](#fn_3)
+did not come down lower than ten spans <span id="fr_3"></span>[1](#fn_3.md)
 from the ground. (Now, when He says, "I will speak to thee from above
 the cover," that means ten spans higher. From this we see that ten spans
 are counted as separate premises; hence ten spans is the minimum height
@@ -291,7 +291,7 @@ what point do they differ? The rabbis hold, the bases are the Massorah
 (*i.e.*, if we came to draw something from Scripture the basis must be
 the Massorah) and as \[in Lev. xxiii.\] "in booths" is mentioned three
 times, and the Hebrew term for this is ‏בסכת‎, ‏בסכת‎, ‏בסוכות‎; <span
-id="fr_4"></span>[1](#fn_4) that is, two of them are written in the
+id="fr_4"></span>[1](#fn_4.md) that is, two of them are written in the
 singular and one in plural, and from each term in the singular we infer
 the necessity of one wall, and from the term in the plural two, which
 make four: take off one expression intended as a commandment to make
@@ -354,7 +354,7 @@ for a legal private ground three walls are needed), because as the two
 walls are considered a Succah, it is considered also private ground for
 this Sabbath. Rabha said again: If one has made a roof above an entry
 which has a side-beam, it is valid for a booth. <span
-id="fr_5"></span>[1](#fn_5) And the same said again: If one has roofed
+id="fr_5"></span>[1](#fn_5.md) And the same said again: If one has roofed
 the enclosure of a w ell (see illustration in Erubin, p. 18), it may be
 used as a booth.
 
@@ -393,7 +393,7 @@ if its circumference is large enough that twenty-four
 <span id="page_10">p. 10</span>
 
 persons may sit at the walls, it is valid; but if not, it is;
-invalid. <span id="fr_6"></span>[1](#fn_6) And this teaching is
+invalid. <span id="fr_6"></span>[1](#fn_6.md) And this teaching is
 according to Rabbi, who said that a booth which is not four ells square
 is not considered a booth at all.
 
@@ -841,7 +841,7 @@ defilement, and may not be used.
 
 "*If one should hollow*," etc. R. Huna said: The case is, when there is
 no hole of the size of one span in length by seven in width; but if
-there was, it is a Succah. <span id="fr_7"></span>[1](#fn_7) We have
+there was, it is a Succah. <span id="fr_7"></span>[1](#fn_7.md) We have
 learned so also in a Boraitha: If one hollows out a space in a stack to
 use it as a Succah, it is a Succah. And this Boraitha must be explained
 as the decree of R. Huna to prevent the contradiction to our Mishna.
@@ -1047,7 +1047,7 @@ used to cover, and the same said R. Dosa.
 <span id="page_25">p. 25</span>
 
 We have learned (Edioth, III. 4): "All hutzlahs <span
-id="fr_8"></span>[1](#fn_8) are liable to become unclean from a corpse,
+id="fr_8"></span>[1](#fn_8.md) are liable to become unclean from a corpse,
 so is the decree of R. Dosa; but the sages said: They are liable to
 become unclean only by pressing." What are *hutzlahs*? Said R. Simeon
 bar Lakish: It means ordinary mats, and the same is according to his
@@ -1076,35 +1076,35 @@ Boraitha: Mats may be used for covering, provided they have no seams.
 
 ### Footnotes
 
-<span id="fn_1"></span>[1:1](suc03.htm#fr_1) See Vol. III., p. i,
+<span id="fn_1"></span>[1:1](suc03.htm#fr_1.md) See Vol. III., p. i,
 Gemara, which also belongs to our Mishna.
 
-<span id="fn_2"></span>[3:1](suc03.htm#fr_2) Deut. xxii. 8.
+<span id="fn_2"></span>[3:1](suc03.htm#fr_2.md) Deut. xxii. 8.
 
-<span id="fn_3"></span>[6:1](suc03.htm#fr_3) See the article, "What is
+<span id="fn_3"></span>[6:1](suc03.htm#fr_3.md) See the article, "What is
 the Talmud?" in our pamphlet, "The Pentateuch, its Languages and
 Characters," for an explanation of this saying.
 
-<span id="fn_4"></span>[7:1](suc03.htm#fr_4) In our Scripture we do not
+<span id="fn_4"></span>[7:1](suc03.htm#fr_4.md) In our Scripture we do not
 find so, but see the Massorah.
 
-<span id="fn_5"></span>[9:1](suc03.htm#fr_5) The law of an entry with a
+<span id="fn_5"></span>[9:1](suc03.htm#fr_5.md) The law of an entry with a
 side-beam is explained in Tract Erubin, Chap. I.
 
-<span id="fn_6"></span>[10:1](suc03.htm#fr_6) The Gemara interprets this
+<span id="fn_6"></span>[10:1](suc03.htm#fr_6.md) The Gemara interprets this
 law by a geometric calculation how much space a person needs, and the
 relation of a circle and a square, with illustrations, which do not
 belong here, and therefore we omit.
 
-<span id="fn_7"></span>[20:1](suc03.htm#fr_7) The reason is because a
+<span id="fn_7"></span>[20:1](suc03.htm#fr_7.md) The reason is because a
 hole of a span constitutes a legal tent in the law of defilement, and
 the covering above it is called roofing. Now, if one enlarged this hole
 to the size prescribed for a Succah, from the base upwards, so that he
 diminished the covering, he is considered to have made a new roofing and
 thus a new tent for this purpose, and it is a valid Succah. (Rashi.)
 
-<span id="fn_8"></span>[25:1](suc03.htm#fr_8) See Levi's Dictionary.
+<span id="fn_8"></span>[25:1](suc03.htm#fr_8.md) See Levi's Dictionary.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](suc04)
+[Next: Chapter II](suc04.md)

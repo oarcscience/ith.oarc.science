@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Age of Reason](../index) 
-[Thomas Paine](index)
+[Intangible Textual Heritage](../../index)  [Age of Reason](../index.md) 
+[Thomas Paine](index.md)
 
 ------------------------------------------------------------------------
 

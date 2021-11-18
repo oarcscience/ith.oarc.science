@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt17)  [Next](egt19) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt17)  [Next](egt19.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ one; the lover makes but one out of all three abodes.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE PROTECTION AND GUARDIANSHIP OF GOD.](egt19)
+[Next: ON THE PROTECTION AND GUARDIANSHIP OF GOD.](egt19.md)

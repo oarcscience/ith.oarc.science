@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Next](sft01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Next](sft01.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ intact.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](sft01)
+[Next: Preface](sft01.md)

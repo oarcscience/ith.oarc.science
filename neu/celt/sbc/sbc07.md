@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sbc06)  [Next](sbc08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sbc06)  [Next](sbc08.md) 
 
 ------------------------------------------------------------------------
 
@@ -190,7 +190,7 @@ have heard of these lines having been repeated on St. Brigit's Day, the
 woman doing so having placed a burning peat in one of her stockings, and
 pounding at it the while on the threshold of the outer door (a specially
 sacred place) as a precaution against the entrance of evil spirits. The
-Clan Iver are of Norse origin, <span id="fr_197"></span>[1](#fn_196) but
+Clan Iver are of Norse origin, <span id="fr_197"></span>[1](#fn_196.md) but
 whatever the origin of this belief I am satisfied it is a phase of
 manism in the wide sense. MacIver-Campbell was in his day Principal of
 Aberdeen University, and related to Campbell, the poet of *The Pleasures
@@ -216,7 +216,7 @@ It is proper to add, however, that another variant of the serpent rhyme
 typifies the serpent as queen: *Là fhéille Brìghde thig an rìghinn as an
 tom*, *i.e.* 'On St. Bride's (Brigit's) Day the queen will come from the
 knoll,' and its association with the act of pounding a burning peat on
-the threshold <span id="fr_198"></span>[1](#fn_197) involuntarily
+the threshold <span id="fr_198"></span>[1](#fn_197.md) involuntarily
 reminds one of the Siberian 'Fiery Snake' or *zagovor* (invoked for
 kindling amorous longing), with which has been compared the folk-belief
 that with the beginning of every January—*i.e.* at the end of the
@@ -231,7 +231,7 @@ turned in the myth into the bride of the Fiery Snake. But the wedder of
 nature became looked upon at a later period as the patron of weddings
 among the children of men, and so the inducing of love-pangs naturally
 became ascribed to the Fiery Snake." <span
-id="fr_199"></span>[2](#fn_198) This explanation is founded upon
+id="fr_199"></span>[2](#fn_198.md) This explanation is founded upon
 nature-myth,
 
 <span id="page_169">p. 169</span>
@@ -243,9 +243,9 @@ there are serpents figured on some stones; and a folk-cure for serpent
 bite is to wash the parts with water in which a serpent's head has been
 boiled. On a Gaulish altar of the first century of our era there is
 sculptured a serpent with a ram's head. We may perhaps infer a
-serpent-totem among the Gauls. <span id="fr_200"></span>[1](#fn_199)
+serpent-totem among the Gauls. <span id="fr_200"></span>[1](#fn_199.md)
 Greek vase-paintings portray the occupants of graves in the form of
-snakes. <span id="fr_201"></span>[2](#fn_200) In Virgil we meet Aeneas
+snakes. <span id="fr_201"></span>[2](#fn_200.md) In Virgil we meet Aeneas
 pouring libations on his father's tomb, when a gorgeous serpent
 appeared, either the genius of the place or an attendant on his father
 in the other world:
@@ -272,7 +272,7 @@ will glide over
 articles of food and explore the interior of cooking utensils. For this
 persistent persecution there is but one remedy, and that is to kill the
 serpent, when there is nothing left but 'pure spirit,' which cannot
-appear in material form any more." <span id="fr_202"></span>[1](#fn_201)
+appear in material form any more." <span id="fr_202"></span>[1](#fn_201.md)
 
 (*i*) *The Soul in Wolf-form*.—The existence of this belief in animal
 parentage is seen from the *Leabhar Breathnach*. Here we read: "The
@@ -285,7 +285,7 @@ not to remove their bodies, for if they are moved they will not be able
 to come again into them (their bodies); and if they are wounded while
 abroad, the same wounds will be on their bodies in their houses; and the
 raw flesh devoured while abroad will be in their teeth." <span
-id="fr_203"></span>[2](#fn_202) This belief was current in the days of
+id="fr_203"></span>[2](#fn_202.md) This belief was current in the days of
 Fynes Moryson, who mentions the report that in Upper Ossory and Ormond
 men are yearly turned. into wolves. And long before then Gerald, the
 Welshman, had heard a story of two wolves who had been a man and woman
@@ -314,7 +314,7 @@ wolf-shapes. He and his offspring after him used to go whenever they
 pleased, into the shapes of the wolves, and, after the custom of wolves,
 kill the herds. Wherefore he was called Laignech *Fáelad*, for he was
 the first of them to go into a wolf-shape." <span
-id="fr_204"></span>[1](#fn_203)
+id="fr_204"></span>[1](#fn_203.md)
 
 The Celtic god *Dis Pater*, from whom, according to Caesar's account,
 the Gauls were descended, is represented as clad in wolf-skin, and
@@ -334,7 +334,7 @@ Reinach favours, at least a section of the Gauls had a national legend
 identical with that of the Romans: like Romulus they were the children
 of the wolf, and M. Reinach suggests that perhaps it was on this account
 that the Arverni called themselves brethren of the Latins. <span
-id="fr_205"></span>[1](#fn_204) If so, we have a close parallel to
+id="fr_205"></span>[1](#fn_204.md) If so, we have a close parallel to
 Gadhelic tradition.
 
 Spenser says that "some of the Irish doe use to make the wolf their
@@ -344,11 +344,11 @@ professed to have no fear from their four-footed allies." Fynes Moryson
 expressly mentions the popular dislike to killing wolves. Aubrey adds
 that "in Ireland they value the fang-tooth of an wolfe, which they set
 in silver and gold as we doe ye Coralls." <span
-id="fr_206"></span>[2](#fn_205)
+id="fr_206"></span>[2](#fn_205.md)
 
 At Claddagh there is a local saint, Mac Dara, whose real name according
 to folk-belief was Sinach, 'a fox,' <span
-id="fr_207"></span>[3](#fn_206) a probably non-Aryan name. The Irish
+id="fr_207"></span>[3](#fn_206.md) a probably non-Aryan name. The Irish
 
 <span id="page_173">p. 173</span>
 
@@ -383,7 +383,7 @@ black dog (Manx: *Moddey Doo*, *Manthe Doo*) that was seen at Peel
 Castle, Isle of Man, was believed to be an evil spirit, which only
 waited permission to do the soldiers hurt, and for that reason they
 forbore swearing and all profane discourse while in its company. <span
-id="fr_208"></span>[1](#fn_207) None of them liked to be left alone with
+id="fr_208"></span>[1](#fn_207.md) None of them liked to be left alone with
 such a companion. Now as the Manthe Doog used to come out and return by
 the passage through the church, by which one of the men had to go to
 deliver the keys every night to the captain on duty, the men used to do
@@ -468,14 +468,14 @@ Aberlaure and Abernethie, to enquire into the truth of Maag Moulach's
 appearing. But they could make no discovery, only that one or two men
 declared they once saw in the evening a young girl whose left hand was
 all hairy, and who instantly disappeared." <span
-id="fr_209"></span>[1](#fn_208) This famous apparition is referred to
+id="fr_209"></span>[1](#fn_208.md) This famous apparition is referred to
 also in the Laird of Macfarlane's *Geographical Collections*. Hairy Hand
 was supposed to come down the chimney and to take children away. The
 nearest parallel I find in the Russian Domovy, an hirsute creature the
 whole of whose body save the eyes and nose is covered with hair. The
 tracks of his shaggy feet may be seen in winter time in the snow; his
 hairy hand is felt by night gliding over the faces of sleepers. <span
-id="fr_210"></span>[2](#fn_209) The Domovy is the house-spirit, and
+id="fr_210"></span>[2](#fn_209.md) The Domovy is the house-spirit, and
 specially haunts the stove; the cultus was connected with the burning
 fire on the domestic hearth. In the Highlands too the hearth-fire is
 held in awe, as witness the fact that it is forbidden to pass between an
@@ -501,7 +501,7 @@ and with help in mowing the meadow grass; some think of him as a fairy
 expelled the Fairy Bower for having loved a nymph as she sat beneath a
 tree in Glen Aldyn; "the scythe he had was cutting everything, skinning
 the meadow to the sods, and if a leaf were left standing he stamped it
-down with his heels." <span id="fr_211"></span>[1](#fn_210)
+down with his heels." <span id="fr_211"></span>[1](#fn_210.md)
 
 His was the wizard hand that toiled  
 At midnight's witching hour;  
@@ -550,7 +550,7 @@ Duchess was a keen Roman Catholic, owned the property.
 "It was thought there was not another tree of the kind in the world. My
 father, however, had one in front of the manse close by, and I have now
 more than one here, grown from slips cut off Mr. Lachlan's the year I
-left Lochcarron." <span id="fr_212"></span>[1](#fn_211) Folk-belief ever
+left Lochcarron." <span id="fr_212"></span>[1](#fn_211.md) Folk-belief ever
 reflects the shadows of its own fears and fancies, and likewise of its
 hopes. Iseult, in Cornish legend, after the loss of her lover, died
 broken-hearted and was buried in the same church with Tristram. Ivy, or
@@ -562,7 +562,7 @@ rowan tree. Everywhere in Celtdom it is semi-sacred. In Wales "it was
 considered lucky to have a mountain ash growing near your premises. The
 berries brought into the house were followed by prosperity and success.
 A bunch of the berries worn in girdle or bodice kept women from being
-bewitched." <span id="fr_213"></span>[2](#fn_212) In the Highlands
+bewitched." <span id="fr_213"></span>[2](#fn_212.md) In the Highlands
 crosses of rowan twigs are placed under the milk-pans, and one has
 sometimes seen them tied with red thread to a cow's tail. Pieces of
 rowan wood are stuck in the turf from the inside above the byre door,
@@ -592,7 +592,7 @@ feigned sickness and said:
 That ne’er would she be whole  
 Till her soft palm were full  
 Of berries from the island on the lake— <span
-id="fr_214"></span>[1](#fn_213)
+id="fr_214"></span>[1](#fn_213.md)
 
 <span class="contnote">\[paragraph continues\]</span> And of old, in the
 case of the oak, when stripped of its leaves, its spirit was held to
@@ -602,7 +602,7 @@ fertility.
 The Teutons and the Celts, and other peoples, seem, with regard to the
 tree-soul, to think alike. When the innocent are put to death, white
 lilies grow out of the graves, three lilies on that of a maiden, <span
-id="fr_215"></span>[2](#fn_214) which no one but her lover may pluck.
+id="fr_215"></span>[2](#fn_214.md) which no one but her lover may pluck.
 From the mounds of buried lovers flowering shrubs spring up, whose
 branches intertwine,—a belief illustrated in the Barra version of the
 story of Deirdire: "The wicked king ordered her body to be lifted out of
@@ -616,7 +616,7 @@ branch from the grave of Naoise, and the two branches twined together
 over the lake. Then the king commanded that the two young pine branches
 should be cut down, and this was done twice, till the wife whom the king
 married made him to cease from the bad work and his persecution of the
-way of the dead! <span id="fr_216"></span>[1](#fn_215) With this I would
+way of the dead! <span id="fr_216"></span>[1](#fn_215.md) With this I would
 compare the lilies and limes said to grow out of graves in Swedish
 songs; also Percy's ballad of Fair Margaret and Sweet William:
 
@@ -633,9 +633,9 @@ reed.
 
 Virgil makes the cornel and myrtle which grew on the grave of Polydorus
 at once bleed and speak when torn up by the hand of Aeneas. <span
-id="fr_217"></span>[2](#fn_216) And Ovid speaks of an ancient oak,
+id="fr_217"></span>[2](#fn_216.md) And Ovid speaks of an ancient oak,
 itself a grove, with votive tablets hung and grateful gifts for vows
-accomplished. <span id="fr_218"></span>[3](#fn_217) Underneath its shade
+accomplished. <span id="fr_218"></span>[3](#fn_217.md) Underneath its shade
 the dryads wove their festal dance. Theocritus tells how at the
 consecration of Helen's plane tree at Sparta the choir of maidens hung
 consecrated wreaths of lotus flowers upon the tree, with costly
@@ -644,7 +644,7 @@ spikenard
 <span id="page_183">p. 183</span>
 
 anointed it, and attached to it the dedicatory placard: <span
-id="fr_219"></span>[1](#fn_218) "Honour me all ye that pass by for I am
+id="fr_219"></span>[1](#fn_218.md) "Honour me all ye that pass by for I am
 Helen's tree."
 
 We may compare the fortune of the Hays of Errol, bound up with an
@@ -669,7 +669,7 @@ red-breast of Servanus, his teacher at Culross, he restored to life; the
 signet ring of Queen Langweneth he found in the belly of a salmon.
 Kentigern's oak had a sanctity of its own, apart from its use as a
 Christian belfry. Compare the oaks of Brigit and of Colum Cille. <span
-id="fr_220"></span>[2](#fn_219)
+id="fr_220"></span>[2](#fn_219.md)
 
 Let me give in few words an instance of tree-lore from living tradition,
 not far from the capital of old Pictland. Pīreig, it says, was a woman
@@ -681,12 +681,12 @@ Cononbank, in the parish of Kirkhill,
 <span class="contnote">\[paragraph continues\]</span> Inverness-shire.
 It was an uncanny place. A grey beast used at times to be seen there; it
 was cat-like in appearance, and thought by some to be a *tannasg* or
-*tāsg*, 'apparition, ghost.' <span id="fr_221"></span>[1](#fn_220) Such
+*tāsg*, 'apparition, ghost.' <span id="fr_221"></span>[1](#fn_220.md) Such
 a creature followed in the track of a cart which was going to town at an
 early hour. My informants said it followed them until dawn, when, on
 coming to a bridge, it gave an unearthly yell, it being a property of
 the ghost or apparition to give a loud cry as it passes over running
-water. <span id="fr_222"></span>[2](#fn_221) An intelligent
+water. <span id="fr_222"></span>[2](#fn_221.md) An intelligent
 correspondent, whose memory goes back to the first quarter of the
 nineteenth century, writes me: "Your enquiry about Craobh Pīreig put me
 in mind of old times. I knew the tree well. It was considered an unlucky
@@ -750,7 +750,7 @@ Loch Caolisport, Knapdale, "situated about mid-way down the western side
 of Loch Caolisport, at the height of over 200 ft. above the sea-level,
 and nearly in the centre of the steep hill slopes immediately abutting
 upon this portion of the loch, between Eilean-na-Bruachain at Ellary,
-and Rudha-an-Tubhaidh." <span id="fr_223"></span>[1](#fn_222) There is
+and Rudha-an-Tubhaidh." <span id="fr_223"></span>[1](#fn_222.md) There is
 an absence of recumbent stones, everything upon the ground that can in
 any way be ranked as memorials of the dead being exclusively
 pillar-stones, intended
@@ -771,7 +771,7 @@ pretty common in past times; some of them remain to this day, and are
 often called *Bell* trees, or *Bellow* trees, an echo of the old word
 *bile*. In most cases, however, they have long since disappeared, but
 their names remain on many places to attest their former
-existence." <span id="fr_224"></span>[1](#fn_223) Magh-Bile, modernised
+existence." <span id="fr_224"></span>[1](#fn_223.md) Magh-Bile, modernised
 Movile, is 'the plain of the \[sacred\] tree,' where St. Finian founded
 his monastery in Co. Down, in the sixth century; *Domnach-Bile*, on the
 banks of Loch Foyle, where was a monastery said to have been founded by
@@ -798,7 +798,7 @@ Fāil or Stone of Destiny, pertaining to the tribe, was placed,—to break
 it up or carry it away being a necessary complement to the destruction
 of the tree. Dr. Stuart suggests that Edward I. may have been actuated
 by analogous motives in carrying off the Scottish Stone of Destiny from
-Scone. <span id="fr_225"></span>[1](#fn_224)
+Scone. <span id="fr_225"></span>[1](#fn_224.md)
 
 There was another tree that I know of which was regarded with awe, viz.
 an old ash tree (*A’ Chraobh Uinnsinn*), now no longer standing, on the
@@ -826,18 +826,18 @@ Which blossoms at Xmas, mindful of our Lord.
 <span class="contnote">\[paragraph continues\]</span> In Ireland there
 were specially celebrated trees such as the oak of Mugna, the ash of
 Usnech, the ash of Tortu, mentioned as having fallen in the days of Aed
-Slane. <span id="fr_226"></span>[1](#fn_225)
+Slane. <span id="fr_226"></span>[1](#fn_225.md)
 
 An unpublished Gadhelic tale, *Cailleach Na Riobaig*, which is the same
 story as that of the witch in the *Lady of the Lake*, shows the
 tree-soul associated with the element of water. <span
-id="fr_227"></span>[2](#fn_226)
+id="fr_227"></span>[2](#fn_226.md)
 
 "The Bile Tortan stood in Magh Tortan in Meath, near Ardbreacan, and was
 blown down in the reign of the sons of Aedh Slaine, about the middle of
 the seventh century. This tree was one of the three wonderful trees of
 Eirinn, and had stood at the time of the Milesian conquest, more than a
-thousand years." <span id="fr_228"></span>[3](#fn_227) "Bile Tortan, Eo
+thousand years." <span id="fr_228"></span>[3](#fn_227.md) "Bile Tortan, Eo
 Rossa, Craebh Mughna, Craebh Dathi, Bile Uisnigh were five ancient trees
 which sprang up in Erin in the reign of Conaing Begeglach (Anno Mundi
 4388). Conaing held a certain assembly at Tara . . . and they
@@ -863,7 +863,7 @@ the Craebh Mughna was oak, and stood near Bealach Mughna in Magh Ailbhe,
 in the southern part of Co. Kildare. The Craebh Dathi was ash, and stood
 in the district of Fir Bile (now Ferbil), to which it gave name, in Co.
 Westmeath. The Craebh Uisnigh was ash, and stood on the hill of Uisnech,
-in Co. Westmeath." <span id="fr_229"></span>[1](#fn_228)
+in Co. Westmeath." <span id="fr_229"></span>[1](#fn_228.md)
 
 In passing one may query whether the Sanskrit *bilva* in *uru-bilva*,
 the wide-spreading Bel- or wood-apple tree, be cognate with G. *bile*.
@@ -879,7 +879,7 @@ Téte Brec, and the Craebh Derg \[that is, the 'Royal Branch' or Court,
 and the Speckled Branch, and the Red Branch\]. In the Red Court were
 kept the skulls \[of the enemies\], and their spoils and trophies. In
 the Royal Court sat the kings; that is, it was Ruadh \[or royal\]
-because of the kings. <span id="fr_230"></span>[1](#fn_229) In the
+because of the kings. <span id="fr_230"></span>[1](#fn_229.md) In the
 Speckled Court were kept the spears and the shields and the swords; that
 is, it was speckled from the hilts of golden-hilted swords, and from the
 glistening of the green spears, with their rings or collars and their
@@ -906,7 +906,7 @@ Oll-athair. Certain it is that a sacred tree figures in Irish legend,
 *e.g*. 'the apple tree of Emain.' When Bran, the son of Febal, awoke
 from his entranced sleep, he saw beside him a branch of silver with
 white blossoms; thereafter the woman in strange raiment sang and
-said: <span id="fr_231"></span>[1](#fn_230)
+said: <span id="fr_231"></span>[1](#fn_230.md)
 
 A branch of the apple-tree from Emain  
 I bring, like those one knows;  
@@ -919,7 +919,7 @@ On which birds call to the Hours.
 <span class="contnote">\[paragraph continues\]</span> The passage occurs
 in a context which undoubtedly describes a vision of the Happy Land.
 Again, in the Sickbed of Cuchulainn, <span
-id="fr_232"></span>[2](#fn_231) three trees of bright purple (*tri bile
+id="fr_232"></span>[2](#fn_231.md) three trees of bright purple (*tri bile
 do chorcoir glain*) are described as a feature in the Other-World
 landscape.
 
@@ -938,7 +938,7 @@ From a tree in the fore-court <span id="page_193">p. 193</span>
 It stands silver yet sunlit  
   With gold's glitter gleams.
 
-The silver bough <span id="fr_233"></span>[1](#fn_232) is a feature of
+The silver bough <span id="fr_233"></span>[1](#fn_232.md) is a feature of
 Gadhelic legend, as the golden bough is of Italic. Just as Jupiter was
 originally worshipped in the form of a lofty oak tree which grew on the
 Capitol, and as Dodona was the haunt of deity among the Greeks, so the
@@ -970,7 +970,7 @@ The Australians took these for the voices of the spirits communing with
 one another, and some of their tribes held that it was through
 understanding these voices that their medicine-men got supernatural
 knowledge by communicating with the world of spirits. <span
-id="fr_234"></span>[1](#fn_233) Similarly, the Greeks spoke of the
+id="fr_234"></span>[1](#fn_233.md) Similarly, the Greeks spoke of the
 oracular oak of Zeus and the Semites of a tree of knowledge. And sundry
 Persian families traced their descent from a tree. Primitive man, it has
 been said, was arboreal. A hollow tree was his home, its branches his
@@ -989,7 +989,7 @@ The step was easily taken to extend this to all germs, animal as
 <span id="page_195">p. 195</span>
 
 well as vegetable. Thus the tree came to symbolise the source of
-life. <span id="fr_235"></span>[1](#fn_234)
+life. <span id="fr_235"></span>[1](#fn_234.md)
 
 Tacitus describes the Germans as building no temples, but worshipping
 their mysterious divinity, *secretum* *illud*, in the gloom of the
@@ -1011,7 +1011,7 @@ country, *i.e.* 'a hill,' *temair in tige*, the *temair* of a house,
 hills in Ireland; it is defined in the *Dinnsenchas*: "omnis locus
 conspicuus et eminens sive in campo sive in domu, sive in quocumque loco
 sit, hoc vocabulo quod dicitur Temair nominari potest." <span
-id="fr_236"></span>[2](#fn_235) Dr. Joyce observes that every Temhair in
+id="fr_236"></span>[2](#fn_235.md) Dr. Joyce observes that every Temhair in
 Ireland is conspicuously situated; the great Tara in Meath is a most
 characteristic example. It is the genitive form, *teamhrach*, that is
 the origin of the name Tara. The other names given to the great Tara by
@@ -1052,7 +1052,7 @@ came upon this very willow, and when the harp was made of it, as often
 as it was played its burden of song was: 'Two horse's ears on Labhraidh
 Lorc.' The king then repented of having put so many people to death,
 showed his ears ever afterwards openly. It is clearly an instance of the
-tree-soul. <span id="fr_237"></span>[1](#fn_236)
+tree-soul. <span id="fr_237"></span>[1](#fn_236.md)
 
 I may add that parallels to the idea of the tree-soul are abundant. In
 the Malay Peninsula the name of every child is taken "from some tree
@@ -1062,7 +1062,7 @@ attendance, who then hands over the child to another woman, and buries
 the after-birth underneath the birth-tree or name-tree of the child; as
 soon as this has been done, the father cuts a series of notches in the
 tree, starting from the ground and terminating at the height of the
-breast." <span id="fr_238"></span>[2](#fn_237)
+breast." <span id="fr_238"></span>[2](#fn_237.md)
 
 This tree, or any of its species, the child must not in after life
 injure or eat the fruit of. This points to an early theory of
@@ -1077,13 +1077,13 @@ or die shortly after being born. Such ideas should be remembered
 
 when one reads of the flock of birds into which Dechtere and her maidens
 are transformed in the Cuchulainn Saga. <span
-id="fr_239"></span>[1](#fn_238)
+id="fr_239"></span>[1](#fn_238.md)
 
 In Greece, where Zeus and Dionysos are conceived as dwelling in
 trees—ἔνδενδροι—the transition was made from the tree to the tree-column
 or pillar as the depository of divine life, and rites of invocation took
 place at the shrines. In Gaul inscriptions <span
-id="fr_240"></span>[2](#fn_239) such as **SEX ARBORIBUS ET FATIS
+id="fr_240"></span>[2](#fn_239.md) such as **SEX ARBORIBUS ET FATIS
 DERVONIBUS**, dedicated to the genii of the oaks, point to tree worship:
 **DEA ABNOBA** and **DEA ARDVINNA**, the Black Forest and the Ardennes
 respectively, confirm this, and are parallel to the *nigra dea*, 'black
@@ -1112,16 +1112,16 @@ innseadh dha na clachan*), and proceed with her narrative with much
 dignity and solemnity. The use of this phrase is supposed to avert any
 harm arising either to the speaker or the listener.
 
-For Ireland I find that Keating <span id="fr_241"></span>[1](#fn_240)
+For Ireland I find that Keating <span id="fr_241"></span>[1](#fn_240.md)
 mentions the striking of the head against a stone as a ceremony boding
 success. Stones such as the Līa Fāil, known as 'the stone of destiny,'
 possibly 'the stone of light' if Welsh *gwawl* be cognate, would know
 their rightful owner. This involves animistic belief, which would
 explain the late form of the tradition in Keating <span
-id="fr_242"></span>[2](#fn_241) that on the Līa Fāil 'were enchantments,
+id="fr_242"></span>[2](#fn_241.md) that on the Līa Fāil 'were enchantments,
 for it used to roar under the person who had the best right to obtain
 the sovereignty of Ireland.' Among the four jewels of the Tuatha De
-Danann a certain poem <span id="fr_243"></span>[3](#fn_242) mentions the
+Danann a certain poem <span id="fr_243"></span>[3](#fn_242.md) mentions the
 Līa Fāil, 'which used to roar under a king of Ireland.' The stone is
 said to
 
@@ -1158,7 +1158,7 @@ a small piece of
 
 flint stone, 3 or 4 in. long, found on the shore and highly polished by
 the action of the waves. . . . Mr. Matheson broke it in their presence,
-and yet no dire results followed." <span id="fr_244"></span>[1](#fn_243)
+and yet no dire results followed." <span id="fr_244"></span>[1](#fn_243.md)
 
 Pennant mentions the belief as current in the Highlands of the
 eighteenth century. He writes:
@@ -1202,7 +1202,7 @@ All over the Celtic area the stone-cult is met with. In parts of France
 newly-born children are placed on or passed over certain stones in the
 vicinity of or in certain churches. I need only refer to the innumerable
 instances given by M. Salomon Reinach <span
-id="fr_245"></span>[1](#fn_244) of the respect and awe inspired still by
+id="fr_245"></span>[1](#fn_244.md) of the respect and awe inspired still by
 menhirs, dolmens and other sacred stones from which we may form some
 idea of the reverence in which they were held of old in Gaul. In parts
 of Brittany it is believed that certain stones go once a year, or once
@@ -1224,13 +1224,13 @@ the same.
 'Telling it to the stones' then is a phrase implying that certain sacred
 stones have souls. Elsewhere a stone may represent the image of earth as
 the common Great Mother: such, by the testimony of Arnobius, <span
-id="fr_246"></span>[1](#fn_245) was the image brought from Phrygia to
+id="fr_246"></span>[1](#fn_245.md) was the image brought from Phrygia to
 Rome, merely a small black stone rough and unhewn. Some races (the
 Mexicans, the Indians of Colomba) think that all men were once stones;
 in Guatamela they placed polished stones in the mouth of the dying to
 supply a permanent abode for the soul; in New South Wales the blacks
 gave each novitiate at manhood ceremonials a white stone or quartz
-crystal <span id="fr_247"></span>[2](#fn_246) as an accompaniment to his
+crystal <span id="fr_247"></span>[2](#fn_246.md) as an accompaniment to his
 new name, the women being forbidden to look at it on pain of death
 (Angas's *Savage Life*, ii. 21). In many quarters of the globe the
 decrees of fate are held to be revealed to the seer gazing into his
@@ -1272,7 +1272,7 @@ pillar, a chimney piece' (as it is given in O’Reilly). Crom,
 it is said, levied tribute on his people according to their means: any
 one who refused was brought into his presence as he sat at the fireside
 to pass judgement, and thereafter the recusant was cast into the
-fire. <span id="fr_248"></span>[1](#fn_247) This seems a reminiscence of
+fire. <span id="fr_248"></span>[1](#fn_247.md) This seems a reminiscence of
 the sacrifices and holocausts offered formerly to the god-idol. At his
 death, says legend, he was devoured by gnats and worms, and multitudes
 of people congregated in honour of St. Patrick's achievement over Crom,
@@ -1284,7 +1284,7 @@ with in the lines
 Di-Domhnaich Slat-Pailm ’s ann ris tha mo stoirm,  
 Di-Domhnaich Crom-Dubh, plaoisgidh mi’n t-ubh,
 
-which Nicolson <span id="fr_249"></span>[2](#fn_248) renders: 'On Palm
+which Nicolson <span id="fr_249"></span>[2](#fn_248.md) renders: 'On Palm
 Sunday is my stir; on crooked black Sunday I'll peel the egg.' He writes
 the word with the *u* vowel, Crum-dubh, "apparently for 'Crom-dubh,' and
 is known in Ireland as the title of the first Sunday of August, but in
@@ -1303,98 +1303,98 @@ the Rev. Mr. Mackenzie, Kenmore. There had been one near his own door
 which was very much in the way, but he had with great labour dug a hole
 into which he had let it drop and covered it up, for it would never do
 to incur the anger of the spiritual beings by breaking it up. This was
-more than 30 years ago. <span id="fr_250"></span>[1](#fn_249)
+more than 30 years ago. <span id="fr_250"></span>[1](#fn_249.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_196"></span>[167:1](sbc07.htm#fr_197) v. a chapter in my
+<span id="fn_196"></span>[167:1](sbc07.htm#fr_197.md) v. a chapter in my
 *Memoirs of a Highland Gentleman*, E. MacIver of Scourie.
 
-<span id="fn_197"></span>[168:1](sbc07.htm#fr_198) Cf. Irish phrase: *ní
+<span id="fn_197"></span>[168:1](sbc07.htm#fr_198.md) Cf. Irish phrase: *ní
 bhéidh fios an rúin ag an fhár-doras*, implying that a secret is well
 kept when even the lintel stone of the doorway is. unaware of it.
 
-<span id="fn_198"></span>[168:2](sbc07.htm#fr_199) Ralston, *Songs of
+<span id="fn_198"></span>[168:2](sbc07.htm#fr_199.md) Ralston, *Songs of
 the Russian People*, p. 370.
 
-<span id="fn_199"></span>[169:1](sbc07.htm#fr_200) Reinach, Cultes.
+<span id="fn_199"></span>[169:1](sbc07.htm#fr_200.md) Reinach, Cultes.
 
-<span id="fn_200"></span>[169:2](sbc07.htm#fr_201) Cf. Harrison, p. 325.
+<span id="fn_200"></span>[169:2](sbc07.htm#fr_201.md) Cf. Harrison, p. 325.
 
 For Hebraic belief, *v*. *Exod*. 7:9-12; *Numb*. 21:9; 2 *Ki*. 18:4,
 etc.
 
-<span id="fn_201"></span>[170:1](sbc07.htm#fr_202) Macdonald's 'East
+<span id="fn_201"></span>[170:1](sbc07.htm#fr_202.md) Macdonald's 'East
 Central African Customs' in *Journ. Anth. Inst*. 22, p. 114.
 
-<span id="fn_202"></span>[170:2](sbc07.htm#fr_203) Todd's *Irish Version
+<span id="fn_202"></span>[170:2](sbc07.htm#fr_203.md) Todd's *Irish Version
 of Nennius*, p. 204.
 
-<span id="fn_203"></span>[171:1](sbc07.htm#fr_204) *Cóir Anmann*, ed.
+<span id="fn_203"></span>[171:1](sbc07.htm#fr_204.md) *Cóir Anmann*, ed.
 Stokes, p. 399. For further references to the man-wolf compare *Eriu*,
 iv. p. 11.
 
-<span id="fn_204"></span>[172:1](sbc07.htm#fr_205) S. Reinach's
+<span id="fn_204"></span>[172:1](sbc07.htm#fr_205.md) S. Reinach's
 *Orpheus*, 5th French ed., Paris (Alcide Picard), 1909, p. 172.
 
-<span id="fn_205"></span>[172:2](sbc07.htm#fr_206) *v*. references in
+<span id="fn_205"></span>[172:2](sbc07.htm#fr_206.md) *v*. references in
 Gomme, *ib*. p. 277. He also gives Geraldus Cambrensis *re* St. Natalis.
 
-<span id="fn_206"></span>[172:3](sbc07.htm#fr_207) Cf. Crimthann,
+<span id="fn_206"></span>[172:3](sbc07.htm#fr_207.md) Cf. Crimthann,
 'wolf,' a name of Columba.
 
-<span id="fn_207"></span>[174:1](sbc07.htm#fr_208) Moore, *Folk-Lore of
+<span id="fn_207"></span>[174:1](sbc07.htm#fr_208.md) Moore, *Folk-Lore of
 the Isle of Man*, p. 62, where the account in Waldron is quoted. If dog
 names be non-Celtic, even then a parallel is got on non-Aryan ground in
 the Sacred Dog of China, the Pekeingese. The aunt of the reigning
 Chinese Emperor in 1860-61 committed suicide on being unable to keep her
 canine pets out of reach of the foreigner.
 
-<span id="fn_208"></span>[177:1](sbc07.htm#fr_209) Shaw's *Province of
+<span id="fn_208"></span>[177:1](sbc07.htm#fr_209.md) Shaw's *Province of
 Moray*, ed. 1775, pp. 306-307.
 
-<span id="fn_209"></span>[177:2](sbc07.htm#fr_210) Ralston's *Songs of
+<span id="fn_209"></span>[177:2](sbc07.htm#fr_210.md) Ralston's *Songs of
 Russian People*, p. 120.
 
-<span id="fn_210"></span>[178:1](sbc07.htm#fr_211) Moore, *Folklore of
+<span id="fn_210"></span>[178:1](sbc07.htm#fr_211.md) Moore, *Folklore of
 the Isle of Man*, pp. 54, 57.
 
-<span id="fn_211"></span>[180:1](sbc07.htm#fr_212) Letter from Rev. Dr.
+<span id="fn_211"></span>[180:1](sbc07.htm#fr_212.md) Letter from Rev. Dr.
 K. A. Mackenzie, minister of Kingussie, dated 5th July, 1900. His father
 was minister of Lochcarron after Mr. Lachlan Mackenzie's death.
 
-<span id="fn_212"></span>[180:2](sbc07.htm#fr_213) Trevelyan, 103.
+<span id="fn_212"></span>[180:2](sbc07.htm#fr_213.md) Trevelyan, 103.
 
-<span id="fn_213"></span>[181:1](sbc07.htm#fr_214) See the writer's
+<span id="fn_213"></span>[181:1](sbc07.htm#fr_214.md) See the writer's
 rendering of the Lay in the *Celtic Dragon Myth*, pp. 20-22 (Edinburgh:
 J. Grant). For another tale wherein the quicken tree figures, see
 Joyce's *Old Gaelic Romances*.
 
-<span id="fn_214"></span>[181:2](sbc07.htm#fr_215) Uhland's
+<span id="fn_214"></span>[181:2](sbc07.htm#fr_215.md) Uhland's
 *Volkslieder*, 241.
 
-<span id="fn_215"></span>[182:1](sbc07.htm#fr_216) *Deirdire and the Lay
+<span id="fn_215"></span>[182:1](sbc07.htm#fr_216.md) *Deirdire and the Lay
 of the Children of Uisne*, ed. A. Carmichael, p.111.
 
-<span id="fn_216"></span>[182:2](sbc07.htm#fr_217) *Aeneid*, iii. 27-34.
+<span id="fn_216"></span>[182:2](sbc07.htm#fr_217.md) *Aeneid*, iii. 27-34.
 
-<span id="fn_217"></span>[182:3](sbc07.htm#fr_218) *Metamorph*. viii.
+<span id="fn_217"></span>[182:3](sbc07.htm#fr_218.md) *Metamorph*. viii.
 741.
 
-<span id="fn_218"></span>[183:1](sbc07.htm#fr_219) *Idyll*, Xviii. 48.
+<span id="fn_218"></span>[183:1](sbc07.htm#fr_219.md) *Idyll*, Xviii. 48.
 
-<span id="fn_219"></span>[183:2](sbc07.htm#fr_220) For a curious custom
+<span id="fn_219"></span>[183:2](sbc07.htm#fr_220.md) For a curious custom
 of telling the trees of certain things in Cornwall, see Couch, *History
 of Polperro*, p. 168.
 
-<span id="fn_220"></span>[184:1](sbc07.htm#fr_221) A celebrated one was
+<span id="fn_220"></span>[184:1](sbc07.htm#fr_221.md) A celebrated one was
 Tāsg Sheumais Mhóir. The shepherd and the farmer and the miller heard
 it. All agreed it was Tāsg Sheumais Mhóir. And they were right (they
 thought).
 
-<span id="fn_221"></span>[184:2](sbc07.htm#fr_222) Cha chreid mi gur h-e
+<span id="fn_221"></span>[184:2](sbc07.htm#fr_222.md) Cha chreid mi gur h-e
 beathach ceart th’ann; aig an drochaid thug e sgal chruaidh thug fuaim
 air na creagan aig Meile-fitheach. Cha'n urrainn tāsg dhol seachad air
 uisg gun sgrìamhail. Theid an tāsg a réir pearsa an duine: sgread
@@ -1406,59 +1406,59 @@ screeching. The ghost bears a proportion to the human personality; a
 hard piercing yell (in this instance, of Big James's ghost); it would
 make every hair on thee stand on end.
 
-<span id="fn_222"></span>[186:1](sbc07.htm#fr_223) *Proceed. Soc. Antiq.
+<span id="fn_222"></span>[186:1](sbc07.htm#fr_223.md) *Proceed. Soc. Antiq.
 Scotland*, vol. xii., year 1876-1877, by Mr. William Galloway,
 architect.
 
-<span id="fn_223"></span>[187:1](sbc07.htm#fr_224) Joyce's Irish Names
+<span id="fn_223"></span>[187:1](sbc07.htm#fr_224.md) Joyce's Irish Names
 of Places.
 
-<span id="fn_224"></span>[188:1](sbc07.htm#fr_225) *Proceed. Soc. Antiq.
+<span id="fn_224"></span>[188:1](sbc07.htm#fr_225.md) *Proceed. Soc. Antiq.
 Scot*. viii. 104
 
-<span id="fn_225"></span>[189:1](sbc07.htm#fr_226) Cf. poem on three
+<span id="fn_225"></span>[189:1](sbc07.htm#fr_226.md) Cf. poem on three
 celebrated trees of Ireland in *Celtische Zeitschrift*, v. 21.
 
-<span id="fn_226"></span>[189:2](sbc07.htm#fr_227) Campbell of Islay,
+<span id="fn_226"></span>[189:2](sbc07.htm#fr_227.md) Campbell of Islay,
 *MS. Collection*, Advocates' Library, vol. x., last tale.
 
-<span id="fn_227"></span>[189:3](sbc07.htm#fr_228) *Leabhar na g-Ceart*,
+<span id="fn_227"></span>[189:3](sbc07.htm#fr_228.md) *Leabhar na g-Ceart*,
 151<sup>n</sup>, and *v*. *Battle of Magh Leana and Tochmarc Momera*,
 ed. O’Curry, p. 67<sup>n</sup>.
 
-<span id="fn_228"></span>[190:1](sbc07.htm#fr_229) O’Curry's *Magh
+<span id="fn_228"></span>[190:1](sbc07.htm#fr_229.md) O’Curry's *Magh
 Leana*, 95<sup>n</sup>, after MS. H. 2, 16 (Roy. Ir. Acad.).
 
-<span id="fn_229"></span>[191:1](sbc07.htm#fr_230) Issin Chroeb-ruaid,
+<span id="fn_229"></span>[191:1](sbc07.htm#fr_230.md) Issin Chroeb-ruaid,
 imorro, no bitis narríg, edhon ba ruad do na rigaib. See O’Curry's
 trans., *Manners and Customs*, ii. p. 332, from *Bk. of Leinster* = H.
 2, 16, fol. 69 b.b.
 
-<span id="fn_230"></span>[192:1](sbc07.htm#fr_231) *Voyage of Bran*, ed.
+<span id="fn_230"></span>[192:1](sbc07.htm#fr_231.md) *Voyage of Bran*, ed.
 Meyer, pp. 4 and 6.
 
-<span id="fn_231"></span>[192:2](sbc07.htm#fr_232) *S.C.* § 33 and
+<span id="fn_231"></span>[192:2](sbc07.htm#fr_232.md) *S.C.* § 33 and
 Leahy's translation.
 
-<span id="fn_232"></span>[193:1](sbc07.htm#fr_233) Cf. E. Hull, 'The
+<span id="fn_232"></span>[193:1](sbc07.htm#fr_233.md) Cf. E. Hull, 'The
 Silver Bough', in *Folk-Lore*.
 
-<span id="fn_233"></span>[194:1](sbc07.htm#fr_234) Curr, *The Australian
+<span id="fn_233"></span>[194:1](sbc07.htm#fr_234.md) Curr, *The Australian
 Race*, ii. 199; and Palmer in *Journ. Anthr. Inst*. xiii. 292.
 
-<span id="fn_234"></span>[195:1](sbc07.htm#fr_235) Brinton's *Religion
+<span id="fn_234"></span>[195:1](sbc07.htm#fr_235.md) Brinton's *Religion
 of Primitive Peoples*, p. 150.
 
-<span id="fn_235"></span>[195:2](sbc07.htm#fr_236) Cormac's *Glossary*,
+<span id="fn_235"></span>[195:2](sbc07.htm#fr_236.md) Cormac's *Glossary*,
 ed. Stokes, p. 155.
 
-<span id="fn_236"></span>[197:1](sbc07.htm#fr_237) Keating's *History of
+<span id="fn_236"></span>[197:1](sbc07.htm#fr_237.md) Keating's *History of
 Ireland*, ed. Irish Texts Society, vol. ii. 173-175.
 
-<span id="fn_237"></span>[197:2](sbc07.htm#fr_238) Skeat and Blagden's
+<span id="fn_237"></span>[197:2](sbc07.htm#fr_238.md) Skeat and Blagden's
 *Pagan Races of Malay Peninsula*, i. 13.
 
-<span id="fn_238"></span>[198:1](sbc07.htm#fr_239) Such concepts fit in
+<span id="fn_238"></span>[198:1](sbc07.htm#fr_239.md) Such concepts fit in
 with the matriarchal stage of society. Mr. Gomme remarks: "The soul-bird
 belief and the tree-naming custom are different phases of one conception
 of social life, a conception definitely excluding recognition of
@@ -1472,41 +1472,41 @@ There is sympathetic association with the object or external soul.
 Totemism is really no product of any conceptual theory, as Dr. Frazer
 argues for; it falls under the wider category of Manism.
 
-<span id="fn_239"></span>[198:2](sbc07.htm#fr_240) H. Gaidoz, *Esquisse
+<span id="fn_239"></span>[198:2](sbc07.htm#fr_240.md) H. Gaidoz, *Esquisse
 de la Religion des Gaulois*, p. 12.
 
-<span id="fn_240"></span>[199:1](sbc07.htm#fr_241) Bk. ii. 53 (ed.
+<span id="fn_240"></span>[199:1](sbc07.htm#fr_241.md) Bk. ii. 53 (ed.
 Dinneen).
 
-<span id="fn_241"></span>[199:2](sbc07.htm#fr_242) *Ib*. i. 101.
+<span id="fn_241"></span>[199:2](sbc07.htm#fr_242.md) *Ib*. i. 101.
 
-<span id="fn_242"></span>[199:3](sbc07.htm#fr_243) *Ib*. 209; cf.
+<span id="fn_242"></span>[199:3](sbc07.htm#fr_243.md) *Ib*. 209; cf.
 O’Grady's *Silva Gadelica*, ii. 264; Meyer and Nutt's *Bran*, i. 187,
 and the tale of 'Baile an Scāil' in the same work.
 
-<span id="fn_243"></span>[201:1](sbc07.htm#fr_244) Rev. K. Macdonald of
+<span id="fn_243"></span>[201:1](sbc07.htm#fr_244.md) Rev. K. Macdonald of
 Applecross, *Social and Religious Life in the Highlands*, p. 34
 (Edinburgh, 1902). Mr. Lang (*Hist. of Scotland*, ii. 560) speaks of a
 seat with a stone in it as still existing in Glasgow, and of a black
 capping-stone at St. Andrews, and asks: Is this a relic of fetichism?'
 
-<span id="fn_244"></span>[202:1](sbc07.htm#fr_245) *Cultes*, iii.
+<span id="fn_244"></span>[202:1](sbc07.htm#fr_245.md) *Cultes*, iii.
 365-433.
 
-<span id="fn_245"></span>[203:1](sbc07.htm#fr_246) *Contra Gentes*, vii.
+<span id="fn_245"></span>[203:1](sbc07.htm#fr_246.md) *Contra Gentes*, vii.
 49.
 
-<span id="fn_246"></span>[203:2](sbc07.htm#fr_247) For association of a
+<span id="fn_246"></span>[203:2](sbc07.htm#fr_247.md) For association of a
 white stone with a new name, cf. *Rev*. 2:17.
 
-<span id="fn_247"></span>[205:1](sbc07.htm#fr_248) *Lúb na Caillighe*
+<span id="fn_247"></span>[205:1](sbc07.htm#fr_248.md) *Lúb na Caillighe*
 (ed. Lloyd), Connradh na Gaedhilge, 1910, p. 34.
 
-<span id="fn_248"></span>[205:2](sbc07.htm#fr_249) *Proverbs*, p. 167.
+<span id="fn_248"></span>[205:2](sbc07.htm#fr_249.md) *Proverbs*, p. 167.
 
-<span id="fn_249"></span>[206:1](sbc07.htm#fr_250) *Proc. Soc. Antiq.
+<span id="fn_249"></span>[206:1](sbc07.htm#fr_250.md) *Proc. Soc. Antiq.
 Scot*. for 1900.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Earthly Journey](sbc08)
+[Next: III. The Earthly Journey](sbc08.md)

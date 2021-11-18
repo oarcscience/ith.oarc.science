@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort27)  [Next](kort29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort27)  [Next](kort29.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ that is all.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix I. Songs](kort29)
+[Next: Appendix I. Songs](kort29.md)

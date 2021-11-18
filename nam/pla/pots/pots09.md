@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pots08)  [Next](pots10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pots08)  [Next](pots10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -169,7 +169,7 @@ the ear
 <span id="page_72">p. 72</span>
 
 of corn out of the bundle and rub the piece of fat over it. <span
-id="fr_1"></span>[\*](#fn_1) Thus they would have good crops and plenty
+id="fr_1"></span>[\*](#fn_1.md) Thus they would have good crops and plenty
 of food.
 
 All these things the people did, and it was a help to them in their
@@ -179,9 +179,9 @@ living.
 
 ### Footnotes
 
-<span id="fn_1"></span>[72:\*](pots09.htm#fr_1) Cf. *The Story of the
+<span id="fn_1"></span>[72:\*](pots09.htm#fr_1.md) Cf. *The Story of the
 Indian*, p. 194, and *The Indians of To-day*, p. 43.
 
 ------------------------------------------------------------------------
 
-[Next: The Star Boy](pots10)
+[Next: The Star Boy](pots10.md)

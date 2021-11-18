@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,18 +21,18 @@ Legends](../../index)  [English Folklore](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](tdp00)  
-[Preface](tdp01)  
-[Chapter I: The Moorland Haunts of the Pixies](tdp02)  
-[Chapter II: The Pixies' Trysting Place](tdp03)  
-[Chapter III: By the Peat Filled Hearth](tdp04)  
-[Chapter IV: Lough Tor Hole. The Huccaby Courting](tdp05)  
+[Title Page](tdp00.md)  
+[Preface](tdp01.md)  
+[Chapter I: The Moorland Haunts of the Pixies](tdp02.md)  
+[Chapter II: The Pixies' Trysting Place](tdp03.md)  
+[Chapter III: By the Peat Filled Hearth](tdp04.md)  
+[Chapter IV: Lough Tor Hole. The Huccaby Courting](tdp05.md)  
 [Chapter V: The Pixie at the Ockerry. Jimmy Townsend and his Sister
-Race](tdp06)  
+Race](tdp06.md)  
 [Chapter VI: The Ungrateful Farmer.--The Pixy Threshers.--Rewarding a
-Pixy](tdp07)  
+Pixy](tdp07.md)  
 [Chapter VII: Nanny Norrish and the Pixies.--The Ploughman's
-Breakfast.--The Pixy Riders.--Jan Coo](tdp08)  
+Breakfast.--The Pixy Riders.--Jan Coo](tdp08.md)  
 [Chapter VIII: The Borrowed Colts.--The Boulder in the
-Room.--Vickeytoad.--Modilla and Podilla](tdp09)  
-[Chapter IX: The Lost Path.--The Pixies' Revel.--Conclusion](tdp10)  
+Room.--Vickeytoad.--Modilla and Podilla](tdp09.md)  
+[Chapter IX: The Lost Path.--The Pixies' Revel.--Conclusion](tdp10.md)  

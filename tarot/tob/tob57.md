@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob56) 
-[Next](tob58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob56.md) 
+[Next](tob58.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ The works of Etteila we have already quoted.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Application of the Tarot to Games](tob58)
+[Next: Chapter XII. Application of the Tarot to Games](tob58.md)

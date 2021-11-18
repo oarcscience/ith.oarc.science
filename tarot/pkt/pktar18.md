@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar17)  [Next](pktar19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar17)  [Next](pktar19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Moon
 
 <span id="img_ar18"></span> <span align="CENTER"> [![](tn/ar18.jpg)  
-Click to enlarge](img/ar18.jpg)</span>
+Click to enlarge](img/ar18.jpg.md)</span>
 
 The distinction between this card and some of the conventional types is
 that the moon is increasing on what is called the side of mercy, to the
@@ -44,4 +44,4 @@ the abyss beneath shall cease from giving up a form.
 
 ------------------------------------------------------------------------
 
-[Next: XIX. The Sun](pktar19)
+[Next: XIX. The Sun](pktar19.md)

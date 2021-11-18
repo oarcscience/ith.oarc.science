@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor06)  [Next](sor08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor06)  [Next](sor08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -54,7 +54,7 @@ But gold! alas! where to find gold? . . . We have no army to
 
 raid it from the rich cities of Flanders. Where are we to dig the earth
 to win its treasure? Ah! if only we had the Spirit of hidden
-treasures <span id="fr_26"></span>[1](#fn_26) to be our guide!
+treasures <span id="fr_26"></span>[1](#fn_26.md) to be our guide!
 
 While all are in despair, the peasant wife with the elfin ally is
 already seated on her sacks of wheat in the neighbouring little market
@@ -381,11 +381,11 @@ half smothered in the
 ashes. "Good sir, I must have a hundred silver pounds!" "Why! lady, how
 should I lend such a sum? The Prince Bishop of this city, to force me
 tell where my gold lies hid, has had my teeth drawn one by one. <span
-id="fr_27"></span>[2](#fn_27) . . . Look, see my bleeding gums." "I
+id="fr_27"></span>[2](#fn_27.md) . . . Look, see my bleeding gums." "I
 know, I know; but it is just the means to destroy your Prince Bishop I
 come to you for. When the Pope is buffeted, the Bishop will scarce stand
 firm. Who says so? It is the word of Toledo." <span
-id="fr_28"></span>[3](#fn_28)
+id="fr_28"></span>[3](#fn_28.md)
 
 The Jew hung his head. She stooped over him and breathed softly in his
 ear. . . . She was in deadly earnest, and the Devil to back her to boot.
@@ -443,7 +443,7 @@ bray insult at horses!"
 
 Coming out, the bold-faced page, the favourite, draws a poniard from his
 girdle, and dextrously, with a single slash of the keen blade, slits the
-fine green robe from waist to feet. <span id="fr_29"></span>[4](#fn_29)
+fine green robe from waist to feet. <span id="fr_29"></span>[4](#fn_29.md)
 She came
 
 <span id="page_53">p. 53</span>
@@ -502,7 +502,7 @@ into the hands of Mother Church."
 
 ### Footnotes
 
-<span id="fn_26"></span>[42:1](sor07.htm#fr_26) Demons afflict the world
+<span id="fn_26"></span>[42:1](sor07.htm#fr_26.md) Demons afflict the world
 throughout the whole period of the Middle Ages. But Satan does not
 assume his definitive character before the thirteenth century. "*Pacts
 with the Evil One*," M. A. Maury observes, "are very rarely found before
@@ -536,11 +536,11 @@ of an age of iron, the irresistible constraint of grim
 necessities,—required that Hell itself should appear a shelter, an
 asylum, a relief, as contrasted with the Hell of this world.
 
-<span id="fn_27"></span>[51:2](sor07.htm#fr_27) This was a method in
+<span id="fn_27"></span>[51:2](sor07.htm#fr_27.md) This was a method in
 high favour for compelling the Jews to disgorge. John Lackland, King of
 England, had frequent recourse to it.
 
-<span id="fn_28"></span>[51:3](sor07.htm#fr_28) Toledo would seem to
+<span id="fn_28"></span>[51:3](sor07.htm#fr_28.md) Toledo would seem to
 have been the Holy City of the Sorcerers and Sorceresses, a countless
 host in Spain. Their relations with the Moors, highly civilised as was
 this people, and with the Jews, a wise folk and in those days masters of
@@ -552,7 +552,7 @@ Achard, sieur de Beaumont, médecin en Poitou* (Evidence of the Wizard
 Achard, Sieur de Beaumont, a leech in Poitou), in Lancre, *Incrédulité*,
 p. 781.
 
-<span id="fn_29"></span>[52:4](sor07.htm#fr_29) Such is the monstrous
+<span id="fn_29"></span>[52:4](sor07.htm#fr_29.md) Such is the monstrous
 and cruel outrage we find quite commonly employed in those rough times.
 In the Gallic and Anglo-Saxon laws it is laid down as the <span
 id="page_54">p. 54</span> penalty for immodesty (Grimm, 679, 711;
@@ -560,7 +560,7 @@ Sternhook, 19, 325; Ducange, iii. 52; Michelet, *Origines*, 386, 389).
 Later on, the same affront is shamefully and unjustly inflicted on
 honest women, tradesmen's wives beginning to show overmuch spirit, whom
 the nobles wish to humiliate. The snare is familiar into which the
-[tyrant](errata.htm#3) Hagenbach enticed the honourable dames of the
+[tyrant](errata.htm#3.md) Hagenbach enticed the honourable dames of the
 superior bourgeoisie of Alsace, probably in mockery of their rich and
 royal costume, all of silk and cloth of gold. Again, I have mentioned in
 my *Origines* (p. 250), the extraordinary right which the Sire de Pacé,
@@ -574,4 +574,4 @@ Baron's arms on their naked flesh.
 
 ------------------------------------------------------------------------
 
-[Next: 6. The Pact With Satan](sor08)
+[Next: 6. The Pact With Satan](sor08.md)

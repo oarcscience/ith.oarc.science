@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb23)  [Next](gyfb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb23)  [Next](gyfb25.md) 
 
 </div>
 
@@ -151,6 +151,6 @@ Jacottet. Paris: Leroux, editeur.\]
 
 ------------------------------------------------------------------------
 
-[Next: The Bear](gyfb25)
+[Next: The Bear](gyfb25.md)
 
 </div>

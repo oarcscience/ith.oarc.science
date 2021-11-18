@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis35)  [Next](kis37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis35)  [Next](kis37.md) 
 
 ------------------------------------------------------------------------
 
@@ -665,4 +665,4 @@ to the lake.
 
 ------------------------------------------------------------------------
 
-[Next: Part XVI](kis37)
+[Next: Part XVI](kis37.md)

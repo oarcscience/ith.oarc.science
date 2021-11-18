@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](lus01)  [Next](lus03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](lus01)  [Next](lus03.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Portugal, born.
 
 Different cities have claimed the honour of his birth. But according to
 N. Antonio, and Manuel Correa, his intimate friend, this event happened
-at Lisbon in 1517. <span id="fr_5"></span>[\*](#fn_5) His family was of
+at Lisbon in 1517. <span id="fr_5"></span>[\*](#fn_5.md) His family was of
 considerable note, and originally Spanish. In 1370 Vasco Perez de
 Caamans, disgusted at the court of Castile, fled to that of Lisbon,
 where King Ferdinand immediately admitted him into his council, and gave
@@ -57,7 +57,7 @@ acquired there his works discover; an intimacy with the classics, equal
 to that of a Scaliger, but directed by the taste of a Milton or a Pope.
 
 When he left the university he appeared at court. He was a polished
-scholar and very handsome, <span id="fr_6"></span>[\*](#fn_6) possessing
+scholar and very handsome, <span id="fr_6"></span>[\*](#fn_6.md) possessing
 a most engaging mien and address, with the finest complexion, which,
 added to the natural ardour and gay vivacity of his disposition,
 rendered him an accomplished gentleman. Courts are the scenes of
@@ -138,7 +138,7 @@ whatever esteem the prudence of Camoëns may lose in our idea, the
 nobleness of his disposition will doubly gain. And, so conscious was he
 of his real integrity and innocence, that in one of his sonnets he
 wishes no other revenge on Barreto than that the cruelty of his exile
-should ever be remembered. <span id="fr_7"></span>[\*](#fn_7)
+should ever be remembered. <span id="fr_7"></span>[\*](#fn_7.md)
 
 The accomplishments and manners of Camoëns soon found him friends,
 though under the disgrace of banishment. He was appointed Commissary of
@@ -157,7 +157,7 @@ the natives gave him a most humane reception; this he has immortalized
 <span id="page_xix">p. xix</span>
 
 in the prophetic song in the tenth Lusiad; <span
-id="fr_8"></span>[\*](#fn_8) and in the
+id="fr_8"></span>[\*](#fn_8.md) and in the
 
 seventh he tells us that here he lost the wealth which satisfied his
 wishes.
@@ -205,7 +205,7 @@ his least care to render the life of his guest . agreeable. Chagrined
 with his treatment, and a considerable time having elapsed in vain
 dependence upon Barreto, Camoëns resolved to return to his native
 country. A ship, on the homeward voyage, at this time touched at Sofála,
-and several gentlemen <span id="fr_9"></span>[\*](#fn_9) who were on
+and several gentlemen <span id="fr_9"></span>[\*](#fn_9.md) who were on
 board were desirous that Camoëns should accompany them. But this the
 governor ungenerously endeavoured to prevent, and charged him with a
 debt for board. Anthony de Cabral, however, and Hector de Sylveyra, paid
@@ -244,7 +244,7 @@ was annexed to that of Spain. Such was the degeneracy of the Portuguese,
 a degeneracy lamented in vain by Camoëns, whose observation of it was
 imputed to him as a crime.
 
-Though the great <span id="fr_10"></span>[\*](#fn_10) patron of
+Though the great <span id="fr_10"></span>[\*](#fn_10.md) patron of
 theological literature--a species the reverse of that of
 Camoëns--certain it is, that the author of the Lusiad was utterly
 neglected by Henry, under whose inglorious reign he died in all the
@@ -286,7 +286,7 @@ and spirit of honour nothing inferior to her greatest heroes. And in a
 manner suitable to the poverty in which he died was he buried. Soon
 after, however, many epitaphs honoured his memory; the greatness of his
 merit was universally confessed, and his Lusiad was translated into
-various languages. <span id="fr_11"></span>[\*](#fn_11) Nor ought it to
+various languages. <span id="fr_11"></span>[\*](#fn_11.md) Nor ought it to
 be omitted, that the man so
 
 <span id="page_xxiii">p. xxiii</span>
@@ -363,17 +363,17 @@ virtue which has its origin in what is really their disgrace.--Let such,
 if such dare approach the shrine of Camoëns, withdraw to a respectful
 distance; and should they behold the ruins of genius, or the weakness of
 an exalted mind, let them be taught to lament that nature has left the
-noblest of her works imperfect." <span id="fr_12"></span>[\*](#fn_12)
+noblest of her works imperfect." <span id="fr_12"></span>[\*](#fn_12.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_5"></span>[xiv:\*](lus02.htm#fr_5) A document in the
+<span id="fn_5"></span>[xiv:\*](lus02.htm#fr_5.md) A document in the
 archives of the Portuguese India House, on which Lord Strangford relies,
 places it in 1524, or the following year.--*Ed*.
 
-<span id="fn_6"></span>[xvi:\*](lus02.htm#fr_6) The French translator
+<span id="fn_6"></span>[xvi:\*](lus02.htm#fr_6.md) The French translator
 gives us so fine a description of the person of Camoëns, that it seems
 borrowed from the Fairy Tales. It is universally agreed, however, that
 he was handsome, and had a most engaging mien and address. He is thus
@@ -382,7 +382,7 @@ capillis usque ad croci colorem flavescentibus, maxime in juventute.
 Eminebat ei frons, et medius nasus, cætera longus, et in fine
 crassiusculus*."
 
-<span id="fn_7"></span>[xviii:\*](lus02.htm#fr_7) Castera tells us,
+<span id="fn_7"></span>[xviii:\*](lus02.htm#fr_7.md) Castera tells us,
 "that posterity by no means enters into the resentment of our poet, and
 that the Portuguese historians make glorious mention of Barreto, who was
 a man of true merit." The Portuguese historians, however, knew not what
@@ -390,7 +390,7 @@ true merit was. The brutal, uncommercial wars of Sampayo are by them
 mentioned as much more glorious than the less bloody campaigns of a
 Nunio, which established commerce and empire.
 
-<span id="fn_8"></span>[xix:\*](lus02.htm#fr_8) Having named the Mecon,
+<span id="fn_8"></span>[xix:\*](lus02.htm#fr_8.md) Having named the Mecon,
 or Meekhaun, a river of Cochin China, he says
 
 *Este recebera placido, e brando,  
@@ -404,13 +404,13 @@ sentence upon him, whose lyre shall be more renowned than enriched."
 When Camoëns was commissary, he visited the islands of Ternate, Timor,
 etc., described in the Lusiad.
 
-<span id="fn_9"></span>[xx:\*](lus02.htm#fr_9) According to the
+<span id="fn_9"></span>[xx:\*](lus02.htm#fr_9.md) According to the
 Portuguese Life of Camoëns, prefixed to Gedron’s, the best edition of
 his works, Diogo de Couto, the historian, one of the company in this
 homeward voyage, wrote annotations upon the Lusiad, under the eye of its
 author. But these, unhappily, have never appeared in public.
 
-<span id="fn_10"></span>[xxi:\*](lus02.htm#fr_10) Cardinal Henry’s
+<span id="fn_10"></span>[xxi:\*](lus02.htm#fr_10.md) Cardinal Henry’s
 patronage of learning and learned men is mentioned with cordial esteem
 by the Portuguese writers. Happily they also tell us what that learning
 was. It was to him the Romish Friars of the East transmitted their
@@ -445,7 +445,7 @@ characterized by their pupil Buchanan,--*nec inhumanis, nec malis, sed
 omnis religions ignaris:* "Not uncivilized, not flagitious, but ignorant
 of every religion."
 
-<span id="fn_11"></span>[xxii:\*](lus02.htm#fr_11) According to Gedron,
+<span id="fn_11"></span>[xxii:\*](lus02.htm#fr_11.md) According to Gedron,
 a second edition of the Lusiad appeared in the same year with the first.
 There are two Italian and four Spanish translations <span
 id="page_xxiii">p. xxiii</span> of it. A hundred years before Castera’s
@@ -455,10 +455,10 @@ translations. It is translated, also, into Hebrew, with great elegance
 and spirit, by one Luzzatto, a learned and ingenious Jew, author of
 several poems in that language, who died in the Holy Land.
 
-<span id="fn_12"></span>[xxiv:\*](lus02.htm#fr_12) This passage in
+<span id="fn_12"></span>[xxiv:\*](lus02.htm#fr_12.md) This passage in
 inverted commas is cited, with the alteration of the name only, from
 Langhorne’s account of the life of William Collins.
 
 ------------------------------------------------------------------------
 
-[Next: Dissertation on the Lusiad, and on Epic Poetry](lus03)
+[Next: Dissertation on the Lusiad, and on Epic Poetry](lus03.md)

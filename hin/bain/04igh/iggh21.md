@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh20) 
-[Next](iggh22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh20.md) 
+[Next](iggh22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -57,7 +57,7 @@ incomprehensible. For I thought thee another Sitá: and lo! thou hast
 leaped from thy window into the arms of a wandering Rajpoot! Who can
 fathom the nature of women or the bottomless abyss of their frivolity?
 They talk to one man, and look at another, and think of a third <span
-id="fr_37"></span>[e](#fn_37). They are but deceit incarnate in a form
+id="fr_37"></span>[e](#fn_37.md). They are but deceit incarnate in a form
 of illusion. For four things are insatiable
 
 <span id="page_71">p. 71</span>
@@ -164,10 +164,10 @@ wife.
 
 ### Footnotes
 
-<span id="fn_37"></span>[70:e](iggh21.htm#fr_37) This is the ungallant
+<span id="fn_37"></span>[70:e](iggh21.htm#fr_37.md) This is the ungallant
 opinion of Bhartrihari, based it may be on some fierce fiery pang of a
 jealous heart, long since gone to dust and ashes.
 
 ------------------------------------------------------------------------
 
-[Next: XIX. The Triumph of Beauty](iggh22)
+[Next: XIX. The Triumph of Beauty](iggh22.md)

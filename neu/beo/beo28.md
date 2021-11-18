@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo27)  [Next](beo29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo27)  [Next](beo29.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ Thryth, just as Beowulf was praised by contrast with Heremod.
 
 ------------------------------------------------------------------------
 
-[Next: Part XXVIII](beo29)
+[Next: Part XXVIII](beo29.md)

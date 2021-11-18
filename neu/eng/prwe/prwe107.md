@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe106)  [Next](prwe108) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe106)  [Next](prwe108.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ living one.
 
 ------------------------------------------------------------------------
 
-[Next: The Spectre Bridegroom](prwe108)
+[Next: The Spectre Bridegroom](prwe108.md)

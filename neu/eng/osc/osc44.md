@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc43)  [Next](osc45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc43)  [Next](osc45.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ for certain books arising out of their wisdom and reputation.
 
 ------------------------------------------------------------------------
 
-[Next: (4) Divining Rod (Dowsing Rod)](osc45)
+[Next: (4) Divining Rod (Dowsing Rod)](osc45.md)

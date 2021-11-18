@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar035) [Next](gbar037)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar035) [Next](gbar037.md)
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ think on fresh sins.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar037)
+[Next](gbar037.md)

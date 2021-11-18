@@ -27,22 +27,22 @@ US.
 
 ------------------------------------------------------------------------
 
-<span class="c_e"> <span class="c_t">[Later Poems](lpy/index)</span>  
+<span class="c_e"> <span class="c_t">[Later Poems](lpy/index.md)</span>  
 by <span class="c_a">W. B. Yeats</span> \[<span
 class="c_d">1922</span>\] </span>
 
 <span class="c_e"> <span class="c_t">[Fairy and Folk Tales of the Irish
-Peasantry](fip/index)</span>  
+Peasantry](fip/index.md)</span>  
 Edited and Selected by <span class="c_a">W. B. Yeats</span> \[<span
 class="c_d">1888</span>\] </span>
 
-<span class="c_e"> <span class="c_t">[Celtic Twilight](twi/index)</span>
+<span class="c_e"> <span class="c_t">[Celtic Twilight](twi/index.md)</span>
   by <span class="c_a">W. B. Yeats</span> \[<span
 class="c_d">1902</span> edition\]   <span class="c_b">A collection of
 essays by Yeats on supernatural Celtic themes.</span> </span>
 
 <span class="c_e"> <span class="c_t">[In The Seven
-Woods](isw/index)</span>   by <span class="c_a">W. B. Yeats</span>
+Woods](isw/index.md)</span>   by <span class="c_a">W. B. Yeats</span>
 \[<span class="c_d">1903</span>\]   <span class="c_b">A short book of
 poetry and a play by Yeats on Irish mythological themes.</span> </span>
 
@@ -52,34 +52,34 @@ poetry and a play by Yeats on Irish mythological themes.</span> </span>
 
 <span class="c_da"></span>
 
-<span class="c_e"> <span class="c_t">[Preface](../celt/cuch/lgc02)  
+<span class="c_e"> <span class="c_t">[Preface](../celt/cuch/lgc02.md)  
 to *Cuchulain of Muirthemne*</span>  
 by Lady <span class="c_a">Augusta Gregory</span> \[<span
 class="c_d">1902</span>\] </span>
 
-<span class="c_t">[Preface](../celt/gafm/gafm02)  
+<span class="c_t">[Preface](../celt/gafm/gafm02.md)  
 to *Gods and Fighting Men*</span>  
 by Lady <span class="c_a">Augusta Gregory</span> \[<span
 class="c_d">1904</span>\]
 
 <span class="c_e"> <span
-class="c_t">[Introduction](../../hin/tagore/gitnjali)  
+class="c_t">[Introduction](../../hin/tagore/gitnjali.md)  
 to *Gitanjali*</span>   by <span class="c_a">Rabindranath Tagore</span>
 \[<span class="c_d">1913</span>\] </span>
 
-<span class="c_e"> <span class="c_t">[Notes](../celt/vbwi/vbwi19)  
+<span class="c_e"> <span class="c_t">[Notes](../celt/vbwi/vbwi19.md)  
 to *Visions and Beliefs in the West of Ireland*</span>  
 by Lady <span class="c_a">Augusta Gregory</span> \[<span
 class="c_d">1920</span>\] </span>
 
 <span class="c_e"> <span class="c_t">[Witches and Wizards and Irish
-Folk-Lore](../celt/vbwi/vbwi20)  
+Folk-Lore](../celt/vbwi/vbwi20.md)  
 in *Visions and Beliefs in the West of Ireland*</span>  
 by Lady <span class="c_a">Augusta Gregory</span> \[<span
 class="c_d">1920</span>\] </span>
 
 <span class="c_e"> <span class="c_t">[Swedenborg, Mediums and the
-Desolate Places](../celt/vbwi/vbwi21)  
+Desolate Places](../celt/vbwi/vbwi21.md)  
 in *Visions and Beliefs in the West of Ireland*</span>  
 by Lady <span class="c_a">Augusta Gregory</span> \[<span
 class="c_d">1920</span>\] </span>

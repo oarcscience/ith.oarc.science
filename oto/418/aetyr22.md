@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 22nd Aethyr,  
-Which is Called LIN**[**1**](#1)
+Which is Called LIN**[**1**](#1.md)
 
 There comes first into the stone the mysterious table of forty-nine
-squares[**2**](#2). It is surrounded by an innumerable company of
+squares[**2**](#2.md). It is surrounded by an innumerable company of
 angels; these angels are of all kinds, --- some brilliant and flashing
 as gods, down to elemental creatures. The light comes and goes on the
 tablet; and now it is steady, and I perceive that each letter of the
@@ -19,13 +19,13 @@ And now there comes an Angel, to hide the tablet with his mighty wing.
 This Angel has all the colours mingled in his dress; his head is proud
 and beautiful; his headdress is of silver and red and blue and gold and
 black, like cascades of water, and in his left hand he has a pan-pipe of
-the seven holy metals, upon which he plays[**3**](#3). I cannot tell you
+the seven holy metals, upon which he plays[**3**](#3.md). I cannot tell you
 how wonderful the music is, but it is so wonderful that one only lives
 in one's ears; one cannot see anything any more.
 
 Now he stops playing and moves with his finger in the air. His finger
 leaves a trail of fire of every colour, so that the whole Aire is become
-like a web of mingled lights. But through it all drops dew[**4**](#4).
+like a web of mingled lights. But through it all drops dew[**4**](#4.md).
 
 (I can't describe these things at all. Dew doesn't represent what I mean
 in the least. For instance, these drops of dew are enormous globes,
@@ -36,30 +36,30 @@ And now he shows the tablet again, and he says: As there are 49 letters
 in the tablet, so are there 49 kinds of cosmos in every thought of God.
 And there are 49 interpretations of every cosmos, and each
 interpretation is manifested in 49 ways. Thus also are the calls
-49[**5**](#5), but to each call there are 49 visions. And each vision is
+49[**5**](#5.md), but to each call there are 49 visions. And each vision is
 composed of 49 elements, except in the 10th Aethyr, that is accursed,
-and that hath 42[**6**](#6).
+and that hath 42[**6**](#6.md).
 
 All this while the dewdrops have turned into cascades of gold finer than
-the eyelashes of a little child[**7**](#7). And though the extent of the
+the eyelashes of a little child[**7**](#7.md). And though the extent of the
 Aethyr is so enormous, one perceives each hair separately, as well as
-the whole thing at once[**8**](#8). And now there is a mighty concourse
+the whole thing at once[**8**](#8.md). And now there is a mighty concourse
 of angels rushing toward me from every side, and they melt upon the
 surface of the egg in which I am standing in the form of the god
-Kneph[**9**](#9), so that the surface of the egg is all one dazzling
+Kneph[**9**](#9.md), so that the surface of the egg is all one dazzling
 blaze of liquid light.
 
 Now I move up against the tablet, --- I cannot tell you with what
 rapture. And all the names of God, that are not known even to the
-angels[**10**](#10), clothe me about.
+angels[**10**](#10.md), clothe me about.
 
 All the seven senses are transmuted into one sense, and that sense is
-dissolved in itself ...[**11**](#11) (Here occurs Samadhi.) ... Let me
+dissolved in itself ...[**11**](#11) (Here occurs Samadhi..md) ... Let me
 speak, O God; let me declare it ... all. It is useless; my heart faints,
-my breath stops. There is no link between me and P . . .[**12**](#12) I
+my breath stops. There is no link between me and P . . .[**12**](#12.md) I
 withdraw myself. I see the table again.
 
-(He was behind the table for a very long time[**13**](#13). O.V.)
+(He was behind the table for a very long time[**13**](#13). O.V..md)
 
 And all the table burns with intolerable light; there has been no such
 light in any of the Aethyrs until now. And now the table draws me back
@@ -67,37 +67,37 @@ into itself; I am no more.
 
 My arms were out in the form of a cross, and that Cross was extended,
 blazing with light into infinity. I myself am the minutest point in it.
-This is *the birth of form*[**14**](#14).
+This is *the birth of form*[**14**](#14.md).
 
 I am encircled by an immense sphere of many-coloured bands; it seems it
 is the sphere of the Sephiroth projected in the three dimensions. This
-is *the birth of death*[**15**](#15).
+is *the birth of death*[**15**](#15.md).
 
 Now in the centre within me is a glowing sun. That is *the birth of
-hell*[**16**](#16).
+hell*[**16**](#16.md).
 
 Now all that is swept away, washed away by the table. It is the virtue
 of the table to sweep everything away. It is the letter
 
 I in this Aethyr that gives this vision, and L is its purity, and N is
-its energy[**17**](#17). Now everything is confused, for I invoked the
-Mind, that is disruption[**18**](#18). Every Adept who beholds this
+its energy[**17**](#17.md). Now everything is confused, for I invoked the
+Mind, that is disruption[**18**](#18.md). Every Adept who beholds this
 vision is corrupted by mind. Yet it is by virtue of mind that he endures
 it, and passes on, if so be that he pass on. Yet there is nothing higher
 than this, for it is perfectly balanced in itself. I cannot read a word
 of the holy Table, for the letters of the Table are all wrong. They are
 only the shadows of shadows. And whoso beholdeth this Table with this
 rapture, is light. The true word for light hath seven letters. They are
-the same as ARARITA, transmuted[**19**](#19).
+the same as ARARITA, transmuted[**19**](#19.md).
 
 There is a voice in this Aethyr, but it cannot be spoken. The only way
 one can represent it is as a ceaseless thundering of the word Amen. It
 is not a repetition of Amen, because there is no time. It is one Amen
-continuous[**20**](#20).
+continuous[**20**](#20.md).
 
 Shall mine eye fade before thy glory? I am the eye. That is why the eye
-is seventy[**21**](#21). You can never understand why, except in this
-vision[**22**](#22).
+is seventy[**21**](#21.md). You can never understand why, except in this
+vision[**22**](#22.md).
 
 And now the table recedes from me. Far, far it goes, streaming with
 light. And there are two black angels bending over me, covering me with
@@ -106,7 +106,7 @@ Pastos of our Father Christian Rosenkreutz, beneath the Table in the
 Vault of seven sides. And I hear these words:
 
 The voice of the Crowned Child, the Speech of the Babe that is hidden in
-the egg of blue[**23**](#23). (Before me is the flaming Rosy Cross.) I
+the egg of blue[**23**](#23). (Before me is the flaming Rosy Cross..md) I
 have opened mine eye, and the universe is dissolved before me, for force
 is mine upper eye-lid and matter is my lower eye- lid**24**. I gaze into
 the seven spaces, and there is naught**25**.

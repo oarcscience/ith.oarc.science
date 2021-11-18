@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](tha09)  [Next](tha11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](tha09)  [Next](tha11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -123,9 +123,9 @@ Subsequently the transverse band should be employed to verify all
 minutiæ. This latter band has the advantage over the vertical, that
 during the greater part of the inspection the central portion only need
 be used, making it easier to watch and freer from errors of observation
-than when the ends have to be used. [Cases 49](tha08.htm#case49) and
-[71](tha10.htm#case71), figs. [43](tha08.htm#img_fig43) and
-[56](#img_fig56), are instructive and will serve as examples. In the
+than when the ends have to be used. [Cases 49](tha08.htm#case49.md) and
+[71](tha10.htm#case71), figs. [43](tha08.htm#img_fig43.md) and
+[56](#img_fig56.md), are instructive and will serve as examples. In the
 first case when the c.c. band was employed vertically down the middle of
 the thorax and abdomen, the left side of the former was seen to be
 lighter than the right for a considerable distance and the upper margin
@@ -169,7 +169,7 @@ spinal column, while the aura over the spine itself remains natural.
 Such spots are invariably attended with pain or tenderness, not
 necessarily just at the time of inspection, as even weeks may elapse
 before pain-marks disappear finally. Of this occurrence a good example
-has been mentioned on page [240](tha09.htm#page_240). A patch on or near
+has been mentioned on page [240](tha09.htm#page_240.md). A patch on or near
 the spine of a light yellow colour, or of a lighter tint than the rest
 of the band, is a sign that there is no organic mischief, and almost
 always that the cause is only temporary, not seldom having a nervous
@@ -179,7 +179,7 @@ seem to point to more important or prolonged disorders.
 The next case is of interest as an illustration of the remarks just made
 and also showing a hysterical type of aura.
 
-<span id="case70">Case 70</span>. ([Fig. 55](#img_fig55).) S., a married
+<span id="case70">Case 70</span>. ([Fig. 55](#img_fig55)..md) S., a married
 woman twenty-eight years of age, childless, complained of vomiting
 during the previous six weeks, which was increased by any worry, was
 first examined in 1910.
@@ -265,8 +265,8 @@ It will be interesting to compare this patient with
 another woman who had been afflicted with Graves' disease for some
 years, and had been under treatment at different hospitals.
 
-<span id="case71">Case 71</span>. (Figs. [56](#img_fig56) to
-[58](#img_fig58).) K., a woman thirty-seven years of age, the mother of
+<span id="case71">Case 71</span>. (Figs. [56](#img_fig56.md) to
+[58](#img_fig58)..md) K., a woman thirty-seven years of age, the mother of
 two children, was
 
 <div align="center">
@@ -397,8 +397,8 @@ over a portion, also to determine whether it is situated, in toto, on
 one side of the median line, or crosses it, or whether again it is only
 a small spot surrounded by the unaltered c.c. band. A large area
 chronically affected has usually a deep hue, but exceptions are by no
-means rare. For examples see cases [49](tha08.htm#case49) and
-[69](tha09.htm#case69). Although large patches may be discovered on any
+means rare. For examples see cases [49](tha08.htm#case49.md) and
+[69](tha09.htm#case69.md). Although large patches may be discovered on any
 part of the body, yet they occur more frequently in some positions than
 in others. A common situation is over tie hypochondriac and epigastric
 regions. The following is a good illustration and demonstrates the
@@ -468,7 +468,7 @@ of a dark spot turning paler, and the change was exceedingly interesting
 as being probably the first step towards complete disappearance.
 
 Another example in regard to which it would be superfluous to enter into
-details as it is so like the [preceeding](errata.htm#12) one, is that of
+details as it is so like the [preceeding](errata.htm#12.md) one, is that of
 an unmarried woman twenty-nine years of age, who was brought by Dr.
 Merrick. Examination with the c.c. band showed that the abdominal area
 affected was almost identical with that of the last case, but there was
@@ -493,13 +493,13 @@ very likely the derangement was entirely functional. In the former case
 the woman was suffering from chronic gastritis with the corresponding
 tissue alterations.
 
-[Analogous](errata.htm#13) changes may occur over the right
+[Analogous](errata.htm#13.md) changes may occur over the right
 hypochondrium and are generally also bounded by the middle line of the
 body. The upper edge is usually somewhere about the level of the
 sterno-xiphoid plane, while the lower boundary is about the level of the
 costal plane. These limits are only approximate, and variations
 constantly occur. When a patch is seen in this position an
-[invarible](errata.htm#14) accompaniment is tenderness of the liver,
+[invarible](errata.htm#14.md) accompaniment is tenderness of the liver,
 with or without superficial hyperæsthesia. Persons addicted to imbibing
 too much alcohol almost without exception show this patch, which in such
 cases is dark, and generally associated with another discoloured spot
@@ -513,7 +513,7 @@ unfortunately for the patient, turning out to be only too correct.
 
 <span id="page_260">p. 260</span>
 
-<span id="case73">Case 73</span>. ([Fig. 59](#img_fig59)). I., a married
+<span id="case73">Case 73</span>. ([Fig. 59](#img_fig59).md). I., a married
 woman sixty-four years of age, who had always been delicate, had her
 breast removed in 1901. She was gouty and for five years had been a
 martyr to neuralgia of the face and neck, the sequel of herpes zoster.
@@ -617,7 +617,7 @@ in a few cases there have been found dark bands stretching right across
 the lowest part of the abdomen. The upper margins rarely reach as high
 as the anterior superior spines of the ilium.
 
-The colour of these [patches](errata.htm#15) may be either darker,
+The colour of these [patches](errata.htm#15.md) may be either darker,
 lighter, or of a different hue, to the remainder of the c.c. band, and
 if there be two patches, one in
 
@@ -765,8 +765,8 @@ the aura may be only
 slightly involved. As an illustration the following example has been
 selected.
 
-<span id="case77">Case 77</span>. (Figs. [60](#img_fig60) and
-[61](#img_fig61).) S., a bright sturdy woman, twenty-seven years of age,
+<span id="case77">Case 77</span>. (Figs. [60](#img_fig60.md) and
+[61](#img_fig61)..md) S., a bright sturdy woman, twenty-seven years of age,
 was inspected at the end of 1913. Twelve months previously she had
 
 <div align="center">
@@ -806,8 +806,8 @@ very deep crimson, and below this
 region in front to the level of the inferior borders of the mammæ, and
 not quite as low down at the hack, the red tinge was well marked but not
 to the same extent. The deeper colour had an irregular outline, and the
-limits and comparative depths are shown in figs. [60](#img_fig60) and
-[61](#img_fig61). A phenomenon corresponding to tache cerebrale could be
+limits and comparative depths are shown in figs. [60](#img_fig60.md) and
+[61](#img_fig61.md). A phenomenon corresponding to tache cerebrale could be
 obtained over the whole of that part of the body which was affected. The
 attacks occurred at any time, whether the woman was alone or with
 company. A slight change of temperature was sufficient to excite an
@@ -988,7 +988,7 @@ which were dry, and in the worst places, even scaly. The urticarial
 reaction could always be produced over, and was wholly confined to, the
 abnormal areas. The colour changes, too, never attained the same depth
 as in the last instance, and only at the very darkest portion in the
-[case 77](tha10.htm#case77) did they approach those usually induced by
+[case 77](tha10.htm#case77.md) did they approach those usually induced by
 the slightest friction at any point in the affected area in the woman
 P.B.
 
@@ -1006,14 +1006,14 @@ mother through a long illness, and immediately afterwards her father
 required great attention on account of his health. As a result she
 became greatly depressed and run down. For some months at intervals, her
 lips, both hands, and to a variable extent her
-[forearms](errata.htm#16), became deeply cyanosed.
+[forearms](errata.htm#16.md), became deeply cyanosed.
 
 <span id="page_274">p. 274</span>
 
 <span class="contnote">\[paragraph continues\]</span> The attacks were
 sudden in onset, and often continued a considerable time. She
 experienced no pain but her hands were always cold. Although there was
-no heart [disease](errata.htm#17), she suffered constantly from
+no heart [disease](errata.htm#17.md), she suffered constantly from
 palpitations. Tache cerebrale could always be obtained on the chest and
 the back, almost as far down as the waist.
 
@@ -1050,7 +1050,7 @@ was missing. The upper one had grown faint, and the lowest continued
 quite plain. In front there was a pale yellow patch over the
 epigastrium, smaller and less conspicuous than it had been at the former
 examination, while the dark patch in the groin remained unaltered. The
-fading spots will probably soon disappear. (See page [257](#page_257).)
+fading spots will probably soon disappear. (See page [257](#page_257)..md)
 
 When considering the shape of the aura in ill-health, it was remarked
 that in cases of hysteria, the outer aura takes a very characteristic
@@ -1065,8 +1065,8 @@ other diseases.
 The following is an exceptional case which is almost phenomenal as
 regards the number of spots.
 
-<span id="case81">Case 81</span>. (Figs. [62](#img_fig62) and
-[63](#img_fig63).) S., an unmarried largely built woman, thirty-six
+<span id="case81">Case 81</span>. (Figs. [62](#img_fig62.md) and
+[63](#img_fig63)..md) S., an unmarried largely built woman, thirty-six
 years of age, was, from her appearance, one of the last persons likely
 to be hysterical. She, however, had always been nervous, and a few years
 before had a breakdown after the death of her mother, but had recovered
@@ -1143,8 +1143,8 @@ Lastly there was a dark yellow area over the sacrum. Wherever the c.c.
 band exhibited discolouration the patient had either pain or tenderness
 at the time of inspection or shortly before.
 
-The patient referred to in [chapter vii](tha08.htm#chap07) ([case
-47](tha08.htm#case47)) exhibited a good many patches, and this was only
+The patient referred to in [chapter vii](tha08.htm#chap07.md) ([case
+47](tha08.htm#case47).md) exhibited a good many patches, and this was only
 what might have been expected after the severe illness she had suffered
 from a few years previously. In front there was a light yellow spot a
 short distance beneath the right clavicle, another on the epigastrium,
@@ -1192,8 +1192,8 @@ he has been the victim of a grave malady, which would among women have
 produced far more numerous patches. The following cases of locomotor
 ataxy exemplify this statement.
 
-<span id="case82">Case 82</span>. (Figs. [64](#img_fig64) and
-[65](#img_fig65).) H., a man of fifty-four
+<span id="case82">Case 82</span>. (Figs. [64](#img_fig64.md) and
+[65](#img_fig65)..md) H., a man of fifty-four
 
 <span id="page_279">p. 279</span>
 
@@ -1223,8 +1223,8 @@ a third over the sacrum, which was a dark yellow. In front there was a
 dark patch over the thorax, and a second dark yellow, on the right
 hypochondrium.
 
-<span id="case83">Case 83</span>. (Figs. [66](#img_fig66) and
-[67](#img_fig67).) X., an inmate of St. Joseph's Home, sixty-two years
+<span id="case83">Case 83</span>. (Figs. [66](#img_fig66.md) and
+[67](#img_fig67)..md) X., an inmate of St. Joseph's Home, sixty-two years
 of age, developed tabes dorsalis several years ago. At various times she
 had been an in-patient of four London hospitals, of most of them more
 than once. She was a thin miserable-looking woman, who from her worn
@@ -1318,7 +1318,7 @@ shape for a woman of her age, and showed no abnormality until the c.c.
 band was employed across her chest. A light spot about the size of a
 florin, on the left side in the intercostal space, about an inch from
 the sternum, was immediately noticed. As soon as a
-[stethoscope](errata.htm#18) was placed over this spot, fine
+[stethoscope](errata.htm#18.md) was placed over this spot, fine
 crepidations could be heard deep down, and the writer believes, rightly
 or wrongly, this to be the part of the lung from which the blood exuded.
 Even if he had not seen the pale patch in the c.c. band, he hardly
@@ -1383,7 +1383,7 @@ not even the most imaginative person would be likely to invent them.
 Who, for example, could have devised the hysterical aura? The more one
 contemplates this prodigy the more inexplicable it seems.
 
-Among women the ovoid shape ([fig. 11](tha02.htm#img_fig11)) of the aura
+Among women the ovoid shape ([fig. 11](tha02.htm#img_fig11).md) of the aura
 is evidently the highest form, and the nearer it approximates to this
 figure the more perfect it is. As before mentioned, the main peculiarity
 of the hysterical aura lies in its being disproportionately wide by the
@@ -1400,7 +1400,7 @@ occasionally seen round children, and even more often round adult males.
 Another view which seems to embrace all known cases and therefore is
 more likely to be correct, is that a true increase of the outer aura by
 the sides of the trunk with little or no augmentation by the thighs and
-legs is present. This idea is supported by [case 55](tha08.htm#case55),
+legs is present. This idea is supported by [case 55](tha08.htm#case55.md),
 and also by the fact that all hysterical auras seen in males have been
 far wider than any ever met with round healthy men. The theory receives
 additional proof from the accompanying bulge of the aura at the back,
@@ -1466,7 +1466,7 @@ than the outer aura, but when the latter is affected the former rarely
 if ever escapes.
 
 Neuralgia may be taken as an example of the manner in which the nervous
-system operates upon the aura. [Case 49](tha08.htm#case49) is a very
+system operates upon the aura. [Case 49](tha08.htm#case49.md) is a very
 good instance. When seen in 1909, it was noticed that the whole of the
 inner aura adjacent to the painful spot was altered, as all striation
 had disappeared and it had become granular in aspect. The outer, too,
@@ -1480,7 +1480,7 @@ reduced, the haze would have contracted.
 
 <span class="contnote">\[paragraph continues\]</span> This was the
 condition of the aura when seen in 1908 (*vide* page
-[200](tha08.htm#page_200)), and it is evident that at the latter date
+[200](tha08.htm#page_200).md), and it is evident that at the latter date
 the auric force was regaining its natural energy.
 
 In an acute case of neuralgia, a girl thirteen years of age, had a spot
@@ -1509,7 +1509,7 @@ to the diseased tissue, but it is next to impossible to decide the
 proportion associated with each factor. Herpes Zoster is a very good
 example of the combined causes, but so much has been said about these
 alterations that the reader is referred to the cases
-[57](tha09.htm#case57) and [62](tha09.htm#case62).
+[57](tha09.htm#case57) and [62](tha09.htm#case62.md).
 
 As these cases demonstrate that the nervous system
 
@@ -1559,7 +1559,7 @@ From the above remarks it may be taken for granted, that although the
 nervous system has a very great, perhaps a predominant control over the
 auras, yet other tissues when in an unhealthy state do influence them as
 well. In this connection it will be interesting to compare [case
-72](tha10.htm#case72) with [case 76](tha10.htm#case76). In the former
+72](tha10.htm#case72) with [case 76](tha10.htm#case76.md). In the former
 the patient had an ulcer of the stomach which caused the c.c. band in
 front to be lighter than the natural hue of the band. The inner was also
 granular in the gastric region. It must be noticed that there was no
@@ -1597,4 +1597,4 @@ auras, and consequently in the c.c. bands.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Aura During Pregnancy](tha11)
+[Next: Chapter X. The Aura During Pregnancy](tha11.md)

@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen12)  [Next](gen14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen12)  [Next](gen14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ past times until late in the evening. The waning moon threw her faint
 light over the tall trees standing in the garden, which spread their
 dark shadows over the ground. From among them an orange-tree in full
 blossom poured forth its sweet perfume, and a Hototo-gisu <span
-id="fr_105"></span>[1](#fn_104) flew over it singing most enchantingly.
+id="fr_105"></span>[1](#fn_104.md) flew over it singing most enchantingly.
 
 "Ah! how he recollects his own friend!" said Genji, and continued:—
 
@@ -87,7 +87,7 @@ estranged the hearts of those whom he liked.
 
 ### Footnotes
 
-<span id="fn_104"></span>[170:1](gen13.htm#fr_105) The name of a small
+<span id="fn_104"></span>[170:1](gen13.htm#fr_105.md) The name of a small
 bird which appears about the time when the orange trees are in blossom.
 It sings, and is most active in the evening. In poetry, therefore, the
 orange blossom and this bird are associated, and they are both, the
@@ -97,6 +97,6 @@ blossom and the bird, emblems of old memories.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: Exile at Suma](gen14)
+[Next: Chapter XII: Exile at Suma](gen14.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos04)  [Next](dos06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos04)  [Next](dos06.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ even so much as heard?
 
 ------------------------------------------------------------------------
 
-[Next: III. An Eclipse of the Sun](dos06)
+[Next: III. An Eclipse of the Sun](dos06.md)

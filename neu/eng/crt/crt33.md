@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt32)  [Next](crt34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt32)  [Next](crt34.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_26000"></span>
 
 [![Sir Percival of Gales](tn/26000.jpg)  
-Click to enlarge](img/26000.jpg)  
+Click to enlarge](img/26000.jpg.md)  
 Sir Percival of Gales  
 
 <span id="page_261">p. 261</span>
@@ -327,4 +327,4 @@ to become a famous knight.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter First](crt34)
+[Next: Chapter First](crt34.md)

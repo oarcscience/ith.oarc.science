@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](asw00)  [Next](asw02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](asw00)  [Next](asw02.md) 
 
 ------------------------------------------------------------------------
 
@@ -196,7 +196,7 @@ parent of the other. In Sanskrit it can be traced to *phal*, "to burst,"
 \[paragraph continues\] "to be fruitful;" then, again, phal is "a
 plowshare," and is also the name of Siva and Mahadeva, who are Hindu
 Deities. Phallus, then, was the ancient emblem of creation: a Divinity
-who was companion to Bacchus. [Figure 1](#img_fig01) is a copy of a
+who was companion to Bacchus. [Figure 1](#img_fig01.md) is a copy of a
 statuette of this Hindu Devi. The figure holds a phallus, or lingham, in
 the left hand, formed after an imaginary lotus bud. The coarsely carved
 unit of the feminine figure completes ale dogma of masculine and
@@ -310,8 +310,8 @@ the less offensive; from the plain and self-evident, to the mixed,
 disguised and mystified; from the unclothed privy member to the letter
 **T**, or the cross; for these became the phallic analogues. The linga
 is the symbol of the male organ and Creator in Hindostan. It is always
-represented standing in the yoni, as in Figs. [4](asw02.htm#img_fig04)
-and [23](asw03.htm#img_fig23). Obelisks, pillars of any shape, stumps,
+represented standing in the yoni, as in Figs. [4](asw02.htm#img_fig04.md)
+and [23](asw03.htm#img_fig23.md). Obelisks, pillars of any shape, stumps,
 trees denuded of boughs, upright stones, are some of the means by which
 the male element was symbolized. Siva is represented as a stone standing
 alone.
@@ -375,7 +375,7 @@ individual bas origin in a pond of water. The fruit of man is both solid
 and fluid. It was natural to imagine that the two male appendages had a
 distinct duty: that one formed the infant, the other the water in which
 it lived; that one generated the male and the other the female
-offspring; <span id="fr_0"></span>[1](#fn_0) and the inference was then
+offspring; <span id="fr_0"></span>[1](#fn_0.md) and the inference was then
 drawn that water must be feminine, the emblem of the passive powers of
 creation. The use of water would then become the emblem of it new
 birth--"born of water;" and it would represent the phenomenon which
@@ -552,7 +552,7 @@ Gaza, "strong," "the trunk of a tree," "a phallic emblem."
 Gilboa, "the sun is Baal."
 
 Gilgal, "a wheel," a "circle, "the sun's heap of stones," "a phallus";
-see [Fig. 2](#img_fig02).<span id="img_fig02"></span>
+see [Fig. 2](#img_fig02.md).<span id="img_fig02"></span>
 
 <table data-align="RIGHT">
 <colgroup>
@@ -690,11 +690,11 @@ two rocks, a club between two pine cones, a trident, a thyrsus tied
 round with two ribbons With the two ends pendant, a thumb and two
 fingers, the caduceus. Again, the conspicuous part of the sacred triad
 Asher is symbolized by a single stone placed upright--as in Gilgal in
-"Vocabulary," [Fig. 2](#img_fig02)--the stump of a tree, a block, a
+"Vocabulary," [Fig. 2](#img_fig02.md)--the stump of a tree, a block, a
 tower, spire, minaret, pole, pine, poplar, or palm tree. While eggs,
 apples, or citrons, plums, grapes, and the like, represented the
 remaining two portions; altogether called phallic emblems. [Fig.
-3](#img_fig03) <span id="img_fig03"></span>
+3](#img_fig03.md) <span id="img_fig03"></span>
 
 <table data-align="LEFT">
 <colgroup>
@@ -746,7 +746,7 @@ denominated the Yoni.
 
 ### Footnotes
 
-<span id="fn_0"></span>[16:1](asw01.htm#fr_0) Somewhat recent
+<span id="fn_0"></span>[16:1](asw01.htm#fr_0.md) Somewhat recent
 information on this point teaches that sex is governed by the health and
 maturity of the ovum. Female offspring will follow when conception
 occurs at the earliest period of the maturing ovum, and mile offspring
@@ -754,4 +754,4 @@ at the concluding period of heat.
 
 ------------------------------------------------------------------------
 
-[Next: II. Yoni](asw02)
+[Next: II. Yoni](asw02.md)

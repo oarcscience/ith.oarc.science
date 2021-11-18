@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf30)  [Next](fmf32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf30)  [Next](fmf32.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ MORAL: For a proper Shake-Down take the Small Town.
 
 ------------------------------------------------------------------------
 
-[Next: The Fable of The Foozie and The Successful Approach](fmf32)
+[Next: The Fable of The Foozie and The Successful Approach](fmf32.md)

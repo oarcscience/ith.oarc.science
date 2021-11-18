@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft23)  [Next](tft25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft23)  [Next](tft25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -45,4 +45,4 @@ Moral: Don't be sure you know more than you do.
 ------------------------------------------------------------------------
 
 [Next: Twenty-Two: The Decision of the Official as to Who Owned the One
-Hundred Ounces of Silver](tft25)
+Hundred Ounces of Silver](tft25.md)

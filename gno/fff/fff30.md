@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff29)  [Next](fff31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff29)  [Next](fff31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ schools. The outline of their tenets given by Hippolytus is as follows.
 seed of a fig-tree, the mathematical point, which is everywhere, smaller
 than small, yet greater than great, containing in itself infinite
 potentialities. He is the "refuge of the
-[terror-stricken](errata.htm#27), the covering of the naked," and much
+[terror-stricken](errata.htm#27.md), the covering of the naked," and much
 else as allegorically set forth in the Scriptures. The manner of the
 infinite generation of things is also figured by the fig-tree, for from
 the seed comes the stem, then branches, and then leaves, and then fruit,
@@ -66,7 +66,7 @@ of self-generable æons uniting together produce from the One Virgin
 (ideal cosmic substance), the Alone-begotten (-generated) one, the
 Saviour of the universe, the perfect anon; containing in Himself all the
 powers of the ideal world of the æons, equal in power in all things to
-the [original](errata.htm#28) seed of the universe, the ingenerable.
+the [original](errata.htm#28.md) seed of the universe, the ingenerable.
 Thus was the Saviour of the ideal universe produced, the perfect æon.
 And thus all in that spiritual world was perfected, all being of the
 nature of That which transcends intellect, free from all deficiency.
@@ -159,4 +159,4 @@ yet no one has previously remarked them.
 
 ------------------------------------------------------------------------
 
-[Next: Monoïmus](fff31)
+[Next: Monoïmus](fff31.md)

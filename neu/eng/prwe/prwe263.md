@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe262)  [Next](prwe264) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe262)  [Next](prwe264.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ round the angel appearing to St Peter, in fayther's Bible."
 
 ------------------------------------------------------------------------
 
-[Next: The Migratory Birds](prwe264)
+[Next: The Migratory Birds](prwe264.md)

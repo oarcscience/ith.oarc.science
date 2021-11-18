@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft03)  [Next](eft05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft03)  [Next](eft05.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ said to her, 'I cannot part your hair on my knee, fetch a billet of
 wood.' So she fetched it. Then said the
 
 <span id="img_004"></span> [![](tn/004.jpg)  
-Click to enlarge](img/004.jpg)
+Click to enlarge](img/004.jpg.md)
 
 stepmother, 'I cannot part your hair with a comb, fetch me an axe.' So
 she fetched it.
@@ -123,4 +123,4 @@ millstone on her head; and so she died.
 
 ------------------------------------------------------------------------
 
-[Next: The Old Woman and Her Pig](eft05)
+[Next: The Old Woman and Her Pig](eft05.md)

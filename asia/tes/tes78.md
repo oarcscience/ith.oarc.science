@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes77)  [Next](tes79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes77)  [Next](tes79.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ Sophie Bogoras, in the village of Markova, the Anadyr country, winter of
 
 ------------------------------------------------------------------------
 
-[Next: 14. Story of a Stepmother and her Stepdaughters](tes79)
+[Next: 14. Story of a Stepmother and her Stepdaughters](tes79.md)

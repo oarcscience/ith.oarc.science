@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](yor08)  [Next](yor10) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](yor08)  [Next](yor10.md) 
 
 ------------------------------------------------------------------------
 
@@ -270,4 +270,4 @@ rains, and *aro-kuro*, last rains, or little rainy season.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Ceremonies at Birth, Marriage, and Death.](yor10)
+[Next: Chapter IX: Ceremonies at Birth, Marriage, and Death.](yor10.md)

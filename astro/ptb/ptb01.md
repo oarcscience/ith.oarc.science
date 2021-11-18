@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb00)  [Next](ptb02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb00)  [Next](ptb02.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ credit.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](ptb02)
+[Next: Table of Contents](ptb02.md)

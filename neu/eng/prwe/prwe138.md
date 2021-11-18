@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe137)  [Next](prwe139) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe137)  [Next](prwe139.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ charmed life, safe from the shafts of the hunters.
 
 ------------------------------------------------------------------------
 
-[Next: St Neot and the Fishes](prwe139)
+[Next: St Neot and the Fishes](prwe139.md)

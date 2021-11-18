@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao44)   
-[Previous](tao43)  [Next](tao45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao44.md)   
+[Previous](tao43)  [Next](tao45.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ enough is free from danger; he will therefore endure.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 45](tao45)
+[Next: Chapter 45](tao45.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](ecl06) 
-[Previous](ecll05)  [Next](ecll07) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](ecl06.md) 
+[Previous](ecll05)  [Next](ecll07.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ iussit et invito processit Vesper Olympo.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue VII.--Meliboeus](ecll07)
+[Next: Eclogue VII.--Meliboeus](ecll07.md)

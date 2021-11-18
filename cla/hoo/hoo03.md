@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo02)  [Next](hoo04) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo02)  [Next](hoo04.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ of fable for the delightful though solitary paths of truth.
 And here I must acquaint the reader, that I shall every where deduce my
 information from the writings of the latter Platonists; as the only
 sources of genuine knowledge, on this sublime and obsolete enquiry
- <span id="fr_4"></span>[e](#fn_4). The vulgar systems of mythology are
+ <span id="fr_4"></span>[e](#fn_4.md). The vulgar systems of mythology are
 here entirely useless; and he who should attempt to elucidate the
 theology, or hymns of Orpheus, by any modern hypothesis, would be as
 ridiculously employed, as he who should expect to find the origin of a
@@ -62,7 +62,7 @@ life and intelligence.
 But let us rise a little higher, and contemplate the arguments by which
 the Platonists, establish the Orphic doctrine of the existence and
 agency of subordinate intelligences. Thus then they reason  <span
-id="fr_5"></span>[f](#fn_5), Of all beings it is necessary that some
+id="fr_5"></span>[f](#fn_5.md), Of all beings it is necessary that some
 should move only, that others should be entirely moved; and that the
 beings situated between these two, should participate of the extremes,
 and both move and be moved. Among the first in dignity and order are
@@ -231,7 +231,7 @@ intelligible and the sensible. Hence too his three demiurgic principles:
 Jovial, Dionysiacal, and Adonical, Δΐι\#, (<span id="img_02600"></span>
 ![](img/02600.jpg)) Διονυσιακὴ, Αδωναϊκὴ, from whence many orders and
 differences of Gods proceed, intelligible  <span
-id="fr_6"></span>[e](#fn_6), intellectual, super-mundane, mundane,
+id="fr_6"></span>[e](#fn_6.md), intellectual, super-mundane, mundane,
 celestial, authors of generation. And among these some in the order of
 guardian, demiurgic, elevating and comprehending Gods; perfecters of
 works, vivific, immutable, absolute, judicial, purgative, &c. and
@@ -242,12 +242,12 @@ relating the
 <span id="page_27">p. 27</span>
 
 opinion of Orpheus, and the theologists:  <span
-id="fr_7"></span>[f](#fn_7) "About every God there is a kindred
+id="fr_7"></span>[f](#fn_7.md) "About every God there is a kindred
 multitude of angels, heroes, and dæmons. For every God presides over the
 form of that multitude which receives the divinity." He likewise
 considered a difference of sex in these deifies, calling some male, and
 others female; the reason of which distinction  <span
-id="fr_8"></span>[g](#fn_8) Proclus, with his usual elegance and
+id="fr_8"></span>[g](#fn_8.md) Proclus, with his usual elegance and
 subtilty, thus explains.
 
 "The division of male and female comprehends in itself, all the
@@ -286,7 +286,7 @@ universe." Thus far Proclus.
 But that Orpheus was a monarchist, as well as a polytheist, is not only
 evident from the preceding arguments, originally derived from his
 Theology, but from the following verses quoted by Proclus  <span
-id="fr_9"></span>[h](#fn_9).
+id="fr_9"></span>[h](#fn_9.md).
 
 Hence with the universe great Jove contains  
 The æther bright, and heav'ns exalted plains  
@@ -296,7 +296,7 @@ Fountains and rivers, and the boundless main,
 With all that nature's ample realms contain,  
 And Gods and Goddesses of each degree  
 All that is past, and all that e'er shall be,  
-Occultly, and in fair connection  <span id="fr_10"></span>[i](#fn_10),
+Occultly, and in fair connection  <span id="fr_10"></span>[i](#fn_10.md),
 lies  
 In Jove's wide womb, the ruler of the skies.
 
@@ -362,7 +362,7 @@ And into beauteous light from thence reveal'd.
 These verses contain what Dr. Cudworth calls the grand arcanum of the
 Orphic theology, that God is all things; which is likewise an Egyptian
 doctrine, from whence it was derived through Orpheus into Greece: and
-this sublime truth Plotinus  <span id="fr_12"></span>[l](#fn_12) himself
+this sublime truth Plotinus  <span id="fr_12"></span>[l](#fn_12.md) himself
 proves with his usual sagacity and depth. But here it is necessary to
 observe, that Orpheus and the Platonists do not conceive the Deity to be
 all things, as if he were a divisible, corporeal nature; but that he is
@@ -376,7 +376,7 @@ as containing
 all things, and yet as separate and apart from all; as the source of all
 multitude, yet himself perfect unity; and as immensly prolific, yet
 divinely solitary and ineffably good. Thus, according to Porphyry  <span
-id="fr_13"></span>[m](#fn_13), explaining the properties of incorporeal
+id="fr_13"></span>[m](#fn_13.md), explaining the properties of incorporeal
 natures, God, intellect, and soul are each of them every where, because
 .no where. But God is every where, and at the same time, in no place of
 any being posterior to his nature; but he is only such as he is, and
@@ -404,7 +404,7 @@ universe, extends as far as to
 
 <span id="page_36">p. 36</span>
 
-that nature  <span id="fr_14"></span>[n](#fn_14), which is incapable of
+that nature  <span id="fr_14"></span>[n](#fn_14.md), which is incapable of
 being at the same time every where and no where, but which partially
 participates of each, And in another place of the same excellent
 fragment, he tells us that the ancients explaining the property of an
@@ -414,14 +414,14 @@ all things; that it is every where, and no where, and that it is totally
 present in every whole. He adds, they express its nature entirely by
 contrary properties, that they may remove from it the fictitious and
 delusive conceptions of bodies which obscure those properties by which
-true being is known  <span id="fr_15"></span>[o](#fn_15).
+true being is known  <span id="fr_15"></span>[o](#fn_15.md).
 
 <span id="page_37">p. 37</span>
 
 We have before observed, that the Platonic philosophers, agreeable to
 the doctrine of Orpheus, considered fecundity as, in an eminent degree,
 the propery of a divine nature; and from this principle filled the
-universe with Gods  <span id="fr_16"></span>[p](#fn_16). This opinion a
+universe with Gods  <span id="fr_16"></span>[p](#fn_16.md). This opinion a
 modern philosopher, or a modern writer on mythology, will doubtless
 consider as too ridiculous to need a serious refutation the one, because
 he believes the phenomena may be solved by mechanical causes; and the
@@ -432,7 +432,7 @@ supported without proof. However, prejudice apart,
 
 let us hear what the philosophers can urge in defence of this doctrine,
 in addition to what we have already advanced. To begin then with Onatus
- <span id="fr_17"></span>[q](#fn_17) the Pythagorean: "Those," says he,
+ <span id="fr_17"></span>[q](#fn_17.md) the Pythagorean: "Those," says he,
 "who assert that there is but one God, and not many Gods, are deceived,
 as not considering that the supreme dignity of the divine transcendency
 consists in governing beings similar to itself, and in surpassing
@@ -447,7 +447,7 @@ together in one occupation; as the concord of the fingers and
 
 dancers, and the expedition of the army, must fail, if the one is
 deprived of the Coryphæus and the other of the captain or commander." To
-the same purpose Plotinus  <span id="fr_18"></span>[r](#fn_18) shews
+the same purpose Plotinus  <span id="fr_18"></span>[r](#fn_18.md) shews
 that it is perfectly philosophical to suppose a multitude of Gods
 subordinate to the One supreme. "It is necessary," says he, "that every
 man should endeavour to be as good as possible, but at the same time, he
@@ -471,7 +471,7 @@ Should it be objected, that if such Gods (or exalted beings) really
 existed, we should be able to demonstrate the reality of their
 existence, in the same manner as that of one supreme God; we cannot
 frame a better reply than in the words of Proclus  <span
-id="fr_19"></span>[s](#fn_19). "And perhaps," says
+id="fr_19"></span>[s](#fn_19.md). "And perhaps," says
 
 <span id="page_41">p. 41</span>
 
@@ -499,7 +499,7 @@ the soul, it is not strange that we should know so little of those
 divine and exalted beings above us; since from our union with generation
 and material concerns, we are imbued with oblivion, ignorance, and
 error. "We are similar," as Porphyry  <span
-id="fr_20"></span>[t](#fn_20) well observes, "to those who enter or
+id="fr_20"></span>[t](#fn_20.md) well observes, "to those who enter or
 depart from a foreign region, not only in casting aside our native
 manners and customs; but from the long use of a strange country we are
 imbued with affections, manners, and laws foreign from our natural and
@@ -730,7 +730,7 @@ real salvation.
 
 "The Pythagoreans indeed who were very studious of numbers and lines,
 for the most part sacrificed of these to the Gods; denominating this
-number Minerva  <span id="fr_21"></span>[e](#fn_21), another Apollo; and
+number Minerva  <span id="fr_21"></span>[e](#fn_21.md), another Apollo; and
 again, this justice, and another Temperance. They proceeded also
 
 <span id="page_57">p. 57</span>
@@ -1018,7 +1018,7 @@ itself, and to its kindred natures.
 But it is time to return from this digression to the business of
 sacrifice and prayer. That we may therefore have a clearer view of the
 nature and efficacy of each, let us hear the elegant and subtle Proclus
- <span id="fr_22"></span>[x](#fn_22), upon sacrifice and magic, of which
+ <span id="fr_22"></span>[x](#fn_22.md), upon sacrifice and magic, of which
 the following is a paraphrase.
 
 "In the same manner as lovers gradually advance from that beauty which
@@ -1180,68 +1180,68 @@ streams into the ocean from which they originally flowed.
 
 ### Footnotes
 
-<span id="fn_4"></span>[13:e](hoo03.htm#fr_4) In the latter part of this
+<span id="fn_4"></span>[13:e](hoo03.htm#fr_4.md) In the latter part of this
 Dissertation, we shall discourse on the agreement between the doctrine
 of Orpheus and the Platonists.
 
-<span id="fn_5"></span>[16:f](hoo03.htm#fr_5) Procl. lib. i. Theol.
+<span id="fn_5"></span>[16:f](hoo03.htm#fr_5.md) Procl. lib. i. Theol.
 Plat.
 
-<span id="fn_6"></span>[26:e](hoo03.htm#fr_6) Θεοι Νοεροὶ, Ὑπερκόσμιοι,
+<span id="fn_6"></span>[26:e](hoo03.htm#fr_6.md) Θεοι Νοεροὶ, Ὑπερκόσμιοι,
 Ἐγκὸσμιοι Et inter hos, aliæ τάξεις Φρυρητιχῶι ϑεῶν, Δημιυργικῶν,
 Ἁναγωγῶν, Συνεκλιχῶν Τελεσιυρῶν· Ζωογόνων, Ἀλρεπλων, Ἀπολϋὶων, Κριτικῶν,
 Καθαρλικῶν, &c. Eschenb. Epig, p. 58.
 
-<span id="fn_7"></span>[27:f](hoo03.htm#fr_7) In Timæum. p. 67.
+<span id="fn_7"></span>[27:f](hoo03.htm#fr_7.md) In Timæum. p. 67.
 
-<span id="fn_8"></span>[27:g](hoo03.htm#fr_8) In Tim. p. 290.
+<span id="fn_8"></span>[27:g](hoo03.htm#fr_8.md) In Tim. p. 290.
 
-<span id="fn_9"></span>[29:h](hoo03.htm#fr_9) In Tim. p, 95.
+<span id="fn_9"></span>[29:h](hoo03.htm#fr_9.md) In Tim. p, 95.
 
-<span id="fn_10"></span>[30:i](hoo03.htm#fr_10) I have here followed the
+<span id="fn_10"></span>[30:i](hoo03.htm#fr_10.md) I have here followed the
 correction of Eschenbach, who reads σείρα instead of συῥῥα which is I
 think more expressive and philosophical.
 
-<span id="fn_11"></span>[32:k](hoo03.htm#fr_11) His mind is truth, and a
+<span id="fn_11"></span>[32:k](hoo03.htm#fr_11.md) His mind is truth, and a
 little after, His; body full of light; or, Νοῦσ δέ ἀψευδὴς and Σωμα δέ
 ϖεριψεγγὲς, perfectly agree with what Pythagoras affirmed, concerning
 God; that in his soul he resembled truth, and in his body light.
 
-<span id="fn_12"></span>[33:l](hoo03.htm#fr_12) Enn. 5, lib, vi.
+<span id="fn_12"></span>[33:l](hoo03.htm#fr_12.md) Enn. 5, lib, vi.
 
-<span id="fn_13"></span>[34:m](hoo03.htm#fr_13) Vide Ἀφορμαὶ ϖρὸς τα
+<span id="fn_13"></span>[34:m](hoo03.htm#fr_13.md) Vide Ἀφορμαὶ ϖρὸς τα
 Νοητά. p. 233.
 
-<span id="fn_14"></span>[36:n](hoo03.htm#fr_14) Meaning material forms
+<span id="fn_14"></span>[36:n](hoo03.htm#fr_14.md) Meaning material forms
 and qualities.
 
-<span id="fn_15"></span>[36:o](hoo03.htm#fr_15) It is remarkable that in
+<span id="fn_15"></span>[36:o](hoo03.htm#fr_15.md) It is remarkable that in
 the Hymn to Nature, among the following, the Deity is celebrated as all
 things, yet the poet adds that he is <span id="page_37">p. 37</span>
 alone incommunicable; which perfectly agrees with the preceding account
 of his subsisting in all things, and at the same time being separate and
 apart from all.
 
-<span id="fn_16"></span>[37:p](hoo03.htm#fr_16) If the word Gods offends
+<span id="fn_16"></span>[37:p](hoo03.htm#fr_16.md) If the word Gods offends
 the ear of the reader, he may substitute in its stead, thrones,
 dominions; &c. for I do not discourse concerning words.
 
-<span id="fn_17"></span>[38:q](hoo03.htm#fr_17) Stob. Ecl. Phys. p. 5.
+<span id="fn_17"></span>[38:q](hoo03.htm#fr_17.md) Stob. Ecl. Phys. p. 5.
 
-<span id="fn_18"></span>[38:r](hoo03.htm#fr_18) En. 2. lib. ix. cap. 9.
+<span id="fn_18"></span>[38:r](hoo03.htm#fr_18.md) En. 2. lib. ix. cap. 9.
 
-<span id="fn_19"></span>[40:s](hoo03.htm#fr_19) In Tim. p. 286.
+<span id="fn_19"></span>[40:s](hoo03.htm#fr_19.md) In Tim. p. 286.
 
-<span id="fn_20"></span>[42:t](hoo03.htm#fr_20) De Abstinentia, lib. i.
+<span id="fn_20"></span>[42:t](hoo03.htm#fr_20.md) De Abstinentia, lib. i.
 
-<span id="fn_21"></span>[56:e](hoo03.htm#fr_21) In the latter part of
+<span id="fn_21"></span>[56:e](hoo03.htm#fr_21.md) In the latter part of
 this Dissertation, we shall shew the wonderful agreement of the
 following Hymns, with the names given by Pythagoras to numbers.
 
-<span id="fn_22"></span>[74:x](hoo03.htm#fr_22) As a Latin version only
+<span id="fn_22"></span>[74:x](hoo03.htm#fr_22.md) As a Latin version only
 of this valuable work is published, the reader will please to make
 allowances for the Paraphrase, where it may be requisite.
 
 ------------------------------------------------------------------------
 
-[Next: Section III](hoo04)
+[Next: Section III](hoo04.md)

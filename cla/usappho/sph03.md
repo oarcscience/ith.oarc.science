@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph02)  [Next](sph04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph02)  [Next](sph04.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@
 ἔμμι, τεθνάκην δ᾽ ὀλιγω ᾽πιδεύϝην  
      φαίνομαι \[ἄλλα\].
 
-πᾶν τόλματον \[......\] [\[transcription\]](xlatall.htm#1)
+πᾶν τόλματον \[......\] [\[transcription\]](xlatall.htm#1.md)
 
 That one seems to me the equal of the gods, who sits in thy presence and
 hears near him thy sweet voice and lovely laughter; that indeed makes my
@@ -70,4 +70,4 @@ Than dried grass in autumn, and in my madness
 ------------------------------------------------------------------------
 
 [Next: 3: Some say that the fairest thing upon the dark earth is a host
-of horsemen...](sph04)
+of horsemen...](sph04.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aar10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aar10.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,282 +8,282 @@
 
 # INDEX
 
-ABSTRACTION, [224](aar09.htm#page_224)
+ABSTRACTION, [224](aar09.htm#page_224.md)
 
-Adonis, rites of, [19](aar03.htm#page_19), [20](aar03.htm#page_20),
-[54](aar05.htm#page_54)-56
+Adonis, rites of, [19](aar03.htm#page_19), [20](aar03.htm#page_20.md),
+[54](aar05.htm#page_54.md)-56
 
-------, gardens of, [149](aar07.htm#page_149)
+------, gardens of, [149](aar07.htm#page_149.md)
 
-------, as tree spirit, [149](aar07.htm#page_149) Æschylus,
-[47](aar04.htm#page_47)
+------, as tree spirit, [149](aar07.htm#page_149.md) Æschylus,
+[47](aar04.htm#page_47.md)
 
-Aesthete, not artist, [214](aar09.htm#page_214)-215
+Aesthete, not artist, [214](aar09.htm#page_214.md)-215
 
-Agon, [15](aar03.htm#page_15)
+Agon, [15](aar03.htm#page_15.md)
 
-Anagnorisis, or recognition, [15](aar03.htm#page_15)
+Anagnorisis, or recognition, [15](aar03.htm#page_15.md)
 
-Anthesteria, spring festival of, [147](aar07.htm#page_147)-149
+Anthesteria, spring festival of, [147](aar07.htm#page_147.md)-149
 
-Apollo Belvedere, [171](aar08.htm#page_171)
+Apollo Belvedere, [171](aar08.htm#page_171.md)
 
-Aristotle on art, [198](aar08.htm#page_198)
+Aristotle on art, [198](aar08.htm#page_198.md)
 
-Art and beauty, [213](aar09.htm#page_213)
+Art and beauty, [213](aar09.htm#page_213.md)
 
-------, and imitation, [230](aar09.htm#page_230)
+------, and imitation, [230](aar09.htm#page_230.md)
 
-------, and morality, [215](aar09.htm#page_215)
+------, and morality, [215](aar09.htm#page_215.md)
 
-------, and religion, [225](aar09.htm#page_225)
+------, and religion, [225](aar09.htm#page_225.md)
 
-------, emotional factor in, [26](aar03.htm#page_26)
+------, emotional factor in, [26](aar03.htm#page_26.md)
 
-------, social elements in, [241](aar09.htm#page_241)-248
+------, social elements in, [241](aar09.htm#page_241.md)-248
 
-Ascension festival, [69](aar05.htm#page_69)
-
- 
-
-Bear, Aino festival, [92](aar06.htm#page_92)-99
-
-Boast dances, [45](aar04.htm#page_45), 46
-
-Beauty and art, [211](aar09.htm#page_211)
-
-Bergson on art, [134](aar07.htm#page_134)
-
-Birth, rites of new, [104](aar06.htm#page_104)-113
-
-Bouphonia, [91](aar06.htm#page_91)-92
-
-Bull-driving in spring, [85](aar06.htm#page_85)
-
-------, festival at Magnesia, [87](aar06.htm#page_87)
+Ascension festival, [69](aar05.htm#page_69.md)
 
  
 
-Cat's-cradle, as magical charm, [66](aar05.htm#page_66)
+Bear, Aino festival, [92](aar06.htm#page_92.md)-99
 
-Censor, function of, [216](aar09.htm#page_216)
+Boast dances, [45](aar04.htm#page_45.md), 46
 
-Charila, spring festival, [80](aar06.htm#page_80)
+Beauty and art, [211](aar09.htm#page_211.md)
 
-Chorus in Greek drama, [121](aar07.htm#page_121)-123
+Bergson on art, [134](aar07.htm#page_134.md)
 
- 
+Birth, rites of new, [104](aar06.htm#page_104.md)-113
 
-Dancing, a work, [30](aar04.htm#page_30)-31
+Bouphonia, [91](aar06.htm#page_91.md)-92
 
-------, magical, [31](aar04.htm#page_31)-35
+Bull-driving in spring, [85](aar06.htm#page_85.md)
 
-------, commemorative, [44](aar04.htm#page_44)
-
-Daphnephoros, [186](aar08.htm#page_186)
-
-Death and winter, [67](aar05.htm#page_67)-72
-
-Dikè as *way of life*, [116](aar06.htm#page_116)
-
-Dionysia, [12](aar03.htm#page_12), [150](aar07.htm#page_150)
-
-Dionysos as Holy Child, [103](aar06.htm#page_103)
-
-------, as tree god, [102](aar06.htm#page_102)
-
-------, as young man, [113](aar06.htm#page_113)-115
-
-Dithyramb, [75](aar06.htm#page_75)-89
-
-Drama and Dromenon, [35](aar04.htm#page_35)-38
+------, festival at Magnesia, [87](aar06.htm#page_87.md)
 
  
 
-Easter, in Modern Greece, [73](aar05.htm#page_73)
+Cat's-cradle, as magical charm, [66](aar05.htm#page_66.md)
 
-Eiresione, [114](aar06.htm#page_114)
+Censor, function of, [216](aar09.htm#page_216.md)
 
-Epheboi, Athenian, [12](aar03.htm#page_12)
+Charila, spring festival, [80](aar06.htm#page_80.md)
 
-Euchè, meaning of, [25](aar03.htm#page_25)
-
-Expressionists, [232](aar09.htm#page_232)
+Chorus in Greek drama, [121](aar07.htm#page_121.md)-123
 
  
 
-Futurists, [232](aar09.htm#page_232)
+Dancing, a work, [30](aar04.htm#page_30.md)-31
+
+------, magical, [31](aar04.htm#page_31.md)-35
+
+------, commemorative, [44](aar04.htm#page_44.md)
+
+Daphnephoros, [186](aar08.htm#page_186.md)
+
+Death and winter, [67](aar05.htm#page_67.md)-72
+
+Dikè as *way of life*, [116](aar06.htm#page_116.md)
+
+Dionysia, [12](aar03.htm#page_12), [150](aar07.htm#page_150.md)
+
+Dionysos as Holy Child, [103](aar06.htm#page_103.md)
+
+------, as tree god, [102](aar06.htm#page_102.md)
+
+------, as young man, [113](aar06.htm#page_113.md)-115
+
+Dithyramb, [75](aar06.htm#page_75.md)-89
+
+Drama and Dromenon, [35](aar04.htm#page_35.md)-38
 
  
 
-Ghosts as fertilizers, [149](aar07.htm#page_149)
+Easter, in Modern Greece, [73](aar05.htm#page_73.md)
+
+Eiresione, [114](aar06.htm#page_114.md)
+
+Epheboi, Athenian, [12](aar03.htm#page_12.md)
+
+Euchè, meaning of, [25](aar03.htm#page_25.md)
+
+Expressionists, [232](aar09.htm#page_232.md)
 
  
 
-Homer, influence on drama, [115](aar06.htm#page_115)-166
-
-Horse or seasons, [116](aar06.htm#page_116)
+Futurists, [232](aar09.htm#page_232.md)
 
  
 
-Idol and ideal, [227](aar09.htm#page_227)
-
-Impressionism, [231](aar09.htm#page_231)
-
-Imitation, [21](aar03.htm#page_21)-23
-
-------, ceremonies in Australia, [64](aar05.htm#page_64)
-
-Individualism, [241](aar09.htm#page_241)
-
-Initiation ceremonies, [64](aar05.htm#page_64),
-[106](aar06.htm#page_106)-113
+Ghosts as fertilizers, [149](aar07.htm#page_149.md)
 
  
 
-Jack-in-the-Green, [60](aar05.htm#page_60), [187](aar08.htm#page_187),
-[150](aar07.htm#page_150)
+Homer, influence on drama, [115](aar06.htm#page_115.md)-166
+
+Horse or seasons, [116](aar06.htm#page_116.md)
 
  
 
-Kangaroos, dance of, [46](aar04.htm#page_46)
+Idol and ideal, [227](aar09.htm#page_227.md)
+
+Impressionism, [231](aar09.htm#page_231.md)
+
+Imitation, [21](aar03.htm#page_21.md)-23
+
+------, ceremonies in Australia, [64](aar05.htm#page_64.md)
+
+Individualism, [241](aar09.htm#page_241.md)
+
+Initiation ceremonies, [64](aar05.htm#page_64.md),
+[106](aar06.htm#page_106.md)-113
 
  
 
-Landscape, art of, [199](aar08.htm#page_199)-201
+Jack-in-the-Green, [60](aar05.htm#page_60), [187](aar08.htm#page_187.md),
+[150](aar07.htm#page_150.md)
 
  
 
-Maeterlinck, [200](aar08.htm#page_200)
+Kangaroos, dance of, [46](aar04.htm#page_46.md)
 
-May-day at Cambridge, [67](aar05.htm#page_67)
+ 
+
+Landscape, art of, [199](aar08.htm#page_199.md)-201
+
+ 
+
+Maeterlinck, [200](aar08.htm#page_200.md)
+
+May-day at Cambridge, [67](aar05.htm#page_67.md)
 
 <span id="page_256">p. 256</span>
 
-May, queen of the, [57](aar05.htm#page_57)-61
+May, queen of the, [57](aar05.htm#page_57.md)-61
 
-------, king of the, [193](aar08.htm#page_193)
+------, king of the, [193](aar08.htm#page_193.md)
 
-Mime, meaning of, [47](aar04.htm#page_47)
+Mime, meaning of, [47](aar04.htm#page_47.md)
 
-Mimesis, [43](aar04.htm#page_43)-47
+Mimesis, [43](aar04.htm#page_43.md)-47
 
-Music, function of, [233](aar09.htm#page_233)
-
- 
-
-New birth, [106](aar06.htm#page_106)-113
+Music, function of, [233](aar09.htm#page_233.md)
 
  
 
-Olympian gods, [202](aar08.htm#page_202)
-
-Orchestra, meaning of, [123](aar07.htm#page_123)-127
-
-Osiris, rites of, [15](aar03.htm#page_15)-23, [51](aar05.htm#page_51)
-
-Ox-hunger, [81](aar06.htm#page_81)
+New birth, [106](aar06.htm#page_106.md)-113
 
  
 
-Panathenaia, [178](aar08.htm#page_178)
+Olympian gods, [202](aar08.htm#page_202.md)
 
-Panspermia, [148](aar07.htm#page_148)
+Orchestra, meaning of, [123](aar07.htm#page_123.md)-127
 
-Parthenon frieze, [176](aar08.htm#page_176)
+Osiris, rites of, [15](aar03.htm#page_15)-23, [51](aar05.htm#page_51.md)
 
-Peisistratos, [146](aar07.htm#page_146)
-
-Peplos of Athena, [180](aar08.htm#page_180)
-
-Pericles on religion, [178](aar08.htm#page_178)
-
-Personification and conception, [70](aar05.htm#page_70)-73
-
-Plato on art, [21](aar03.htm#page_21)-23
-
-Pleasure not joy, [213](aar09.htm#page_213)
-
-Post-impressionists, [238](aar09.htm#page_238)
-
-Prayer discs, [24](aar03.htm#page_24)
-
-Presentation, meaning of, [53](aar05.htm#page_53)
-
-Psychical distance, [129](aar07.htm#page_129)-134
+Ox-hunger, [81](aar06.htm#page_81.md)
 
  
 
-Representation, [34](aar04.htm#page_34)-41
+Panathenaia, [178](aar08.htm#page_178.md)
 
-Resurrection, rites of, [100](aar06.htm#page_100)
+Panspermia, [148](aar07.htm#page_148.md)
 
-Rites, periodicity of, [52](aar05.htm#page_52)
+Parthenon frieze, [176](aar08.htm#page_176.md)
 
-Ritual forms in drama, [138](aar07.htm#page_138)-139
+Peisistratos, [146](aar07.htm#page_146.md)
 
- 
+Peplos of Athena, [180](aar08.htm#page_180.md)
 
-Santayana on art, [220](aar09.htm#page_220)
+Pericles on religion, [178](aar08.htm#page_178.md)
 
-Semelè, bringing up of, [81](aar06.htm#page_81)
+Personification and conception, [70](aar05.htm#page_70.md)-73
 
-Spring song at Saffron Walden, [59](aar05.htm#page_59)
+Plato on art, [21](aar03.htm#page_21.md)-23
 
-------, at Athens, [77](aar06.htm#page_77)
+Pleasure not joy, [213](aar09.htm#page_213.md)
 
-Stage or scene, [142](aar07.htm#page_142)-145
+Post-impressionists, [238](aar09.htm#page_238.md)
 
-Summer, bringing in of, [67](aar05.htm#page_67)-71
+Prayer discs, [24](aar03.htm#page_24.md)
 
- 
+Presentation, meaning of, [53](aar05.htm#page_53.md)
 
-Tammuz, rites of, [18](aar03.htm#page_18)-20
-
-Tĕlĕtē, *rite of growing u*p, [112](aar06.htm#page_112)
-
-Theatre, [10](aar03.htm#page_10)-13, [136](aar07.htm#page_136)
-
-Mends, as ritual custom, [117](aar06.htm#page_117)
-
-Theoria and theory, [248](aar09.htm#page_248)
-
-Threshing-floor as dancing-place, [124](aar07.htm#page_124)
-
-Tolstoy on art, [132](aar07.htm#page_132), [238](aar09.htm#page_238)-241
-
-Totemism and beast dances, [46](aar04.htm#page_46),
-[47](aar04.htm#page_47)
-
-Tragedy, ritual forms in, [119](aar07.htm#page_119)-122
-
-------, origin of, [76](aar06.htm#page_76)
-
-Tug of war, among Esquimaux, [62](aar05.htm#page_62)
+Psychical distance, [129](aar07.htm#page_129.md)-134
 
  
 
-Unanimism, [249](aar09.htm#page_249)-252
+Representation, [34](aar04.htm#page_34.md)-41
+
+Resurrection, rites of, [100](aar06.htm#page_100.md)
+
+Rites, periodicity of, [52](aar05.htm#page_52.md)
+
+Ritual forms in drama, [138](aar07.htm#page_138.md)-139
 
  
 
-Vegetation spirit, [72](aar05.htm#page_72)
+Santayana on art, [220](aar09.htm#page_220.md)
+
+Semelè, bringing up of, [81](aar06.htm#page_81.md)
+
+Spring song at Saffron Walden, [59](aar05.htm#page_59.md)
+
+------, at Athens, [77](aar06.htm#page_77.md)
+
+Stage or scene, [142](aar07.htm#page_142.md)-145
+
+Summer, bringing in of, [67](aar05.htm#page_67.md)-71
 
  
 
-Winter, carrying out of, [68](aar05.htm#page_68)-72
+Tammuz, rites of, [18](aar03.htm#page_18.md)-20
 
-Wool, sacred, [12](aar03.htm#page_12)
+Tĕlĕtē, *rite of growing u*p, [112](aar06.htm#page_112.md)
 
-World-soul, [246](aar09.htm#page_246)
+Theatre, [10](aar03.htm#page_10)-13, [136](aar07.htm#page_136.md)
 
-Wreaths, festival of, [189](aar08.htm#page_189)
+Mends, as ritual custom, [117](aar06.htm#page_117.md)
 
-------, at Greek weddings, [190](aar08.htm#page_190)
+Theoria and theory, [248](aar09.htm#page_248.md)
+
+Threshing-floor as dancing-place, [124](aar07.htm#page_124.md)
+
+Tolstoy on art, [132](aar07.htm#page_132), [238](aar09.htm#page_238.md)-241
+
+Totemism and beast dances, [46](aar04.htm#page_46.md),
+[47](aar04.htm#page_47.md)
+
+Tragedy, ritual forms in, [119](aar07.htm#page_119.md)-122
+
+------, origin of, [76](aar06.htm#page_76.md)
+
+Tug of war, among Esquimaux, [62](aar05.htm#page_62.md)
 
  
 
-Zola on art, [212](aar09.htm#page_212)
+Unanimism, [249](aar09.htm#page_249.md)-252
+
+ 
+
+Vegetation spirit, [72](aar05.htm#page_72.md)
+
+ 
+
+Winter, carrying out of, [68](aar05.htm#page_68.md)-72
+
+Wool, sacred, [12](aar03.htm#page_12.md)
+
+World-soul, [246](aar09.htm#page_246.md)
+
+Wreaths, festival of, [189](aar08.htm#page_189.md)
+
+------, at Greek weddings, [190](aar08.htm#page_190.md)
+
+ 
+
+Zola on art, [212](aar09.htm#page_212.md)
 
  
 

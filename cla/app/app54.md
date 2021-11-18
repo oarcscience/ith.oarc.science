@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app53)  [Next](app55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app53)  [Next](app55.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ end of the fifth century.
 <span id="page_83">p. 83</span>
 
 1\. (*Opening sentences from his book 'On Natural Science'*): All
-Things <span id="fr_75"></span>[1](#fn_70). were together, infinite in
+Things <span id="fr_75"></span>[1](#fn_70.md). were together, infinite in
 number and in smallness. For the Small also was infinite. And since all
 were together, nothing was distinguishable because of its smallness. For
 Air and Aether dominated all things, both of them being infinite. For
@@ -37,7 +37,7 @@ number and in size.
 and that which surrounds is infinite in number.
 
 3\. For in Small there is no Least, but only a Lesser: for it is
-impossible that Being should Not-Be; <span id="fr_76"></span>[2](#fn_71)
+impossible that Being should Not-Be; <span id="fr_76"></span>[2](#fn_71.md)
 and in Great there is always a Greater. And it is equal in number to the
 small, but each thing is to itself both great and small.
 
@@ -122,7 +122,7 @@ nothing else is like anything else, but each individual thing is and was
 most obviously that of which it contains the most.
 
 13\. And when Mind began the motion, there was a separating-off <span
-id="fr_77"></span>[1](#fn_72) from all that was being moved; and all
+id="fr_77"></span>[1](#fn_72.md) from all that was being moved; and all
 that Mind set in motion was separated (internally); and as things were
 moving and separating off (*internally*), the revolution greatly
 increased this (*internal*) separation.
@@ -182,14 +182,14 @@ can collect their products*).
 
 ### Footnotes
 
-<span id="fn_70"></span>[83:1](app54.htm#fr_75) Where χρήματα is used,
+<span id="fn_70"></span>[83:1](app54.htm#fr_75.md) Where χρήματα is used,
 'Things' is spelt with a capital. See *Companion*, pp. 266-7.
 
-<span id="fn_71"></span>[83:2](app54.htm#fr_76) τὸ μή was emended by
+<span id="fn_71"></span>[83:2](app54.htm#fr_76.md) τὸ μή was emended by
 Zeller to τομῇ), which Burnet accepts: 'it cannot be that what is should
 cease to be by being cut'.
 
-<span id="fn_72"></span>[85:1](app54.htm#fr_77) I follow Burnet in
+<span id="fn_72"></span>[85:1](app54.htm#fr_77.md) I follow Burnet in
 taking ἀπεκρίνετο as impersonal; Diels-Kranz make Nous the subject, and
 translate: 'Mind severed itself from the moving Whole.' But the
 reference is to three events: the starting of the revolution by Mind;
@@ -198,4 +198,4 @@ under the revolution.
 
 ------------------------------------------------------------------------
 
-[Next: 60. Archelâus of Athens](app55)
+[Next: 60. Archelâus of Athens](app55.md)

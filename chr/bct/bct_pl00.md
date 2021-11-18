@@ -1,6 +1,6 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [List
-of Plates](bct01.htm#page_vii) [Title Page](bct00) [Next
-Plate](bct_pl01)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md) [List
+of Plates](bct01.htm#page_vii) [Title Page](bct00.md) [Next
+Plate](bct_pl01.md)
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ Babylonia. It is now in the British Museum (No. 114308).</span>
 
 ------------------------------------------------------------------------
 
-[Next Plate](bct_pl01)
+[Next Plate](bct_pl01.md)

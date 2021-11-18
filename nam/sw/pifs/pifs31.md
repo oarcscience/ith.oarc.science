@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs30)  [Next](pifs32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs30)  [Next](pifs32.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ Twins, who were assuredly Children of the Moon.
 
 ------------------------------------------------------------------------
 
-[Next: XXIX. The Hero Twins](pifs32)
+[Next: XXIX. The Hero Twins](pifs32.md)

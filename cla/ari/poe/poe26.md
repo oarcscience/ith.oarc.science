@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe25)  [Next](poe27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe25)  [Next](poe27.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ answers should be sought under the twelve heads above mentioned.
 ------------------------------------------------------------------------
 
 [Next: XXVI. A general estimate of the comparative worth of Epic Poetry
-and Tragedy.](poe27)
+and Tragedy.](poe27.md)

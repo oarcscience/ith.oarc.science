@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](eom00)  [Next](eom02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](eom00)  [Next](eom02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ the Sex - A Wife's Testimony
 
 ------------------------------------------------------------------------
 
-[Next: Greeting](eom02)
+[Next: Greeting](eom02.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits046) [Next](bits048)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits046) [Next](bits048.md)
 
 ------------------------------------------------------------------------
 
@@ -438,7 +438,7 @@ They're like the jewel shattered by the diamond."<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 48. Reflections on Existence](bits048)
+[Next: § 48. Reflections on Existence](bits048.md)
 
  
 

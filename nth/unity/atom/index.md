@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,32 +19,32 @@ Thought](../../index)  [Unity](../index) 
 
 ------------------------------------------------------------------------
 
-[Start Reading](atom00)    [Page Index](pageidx)    [Text
-\[Zipped\]](atomtxt.zip)
+[Start Reading](atom00)    [Page Index](pageidx.md)    [Text
+\[Zipped\]](atomtxt.zip.md)
 
 ------------------------------------------------------------------------
 
-[Title Page](atom00)  
-[Foreword](atom01)  
-[Contents](atom02)  
-[Chapter 1](atom03)  
-[Chapter 2](atom04)  
-[Chapter 3](atom05)  
-[Chapter 4](atom06)  
-[Chapter 5](atom07)  
-[Chapter 6](atom08)  
-[Chapter 7](atom09)  
-[Chapter 8](atom10)  
-[Chapter 9](atom11)  
-[Chapter 10](atom12)  
-[Chapter 11](atom13)  
-[Chapter 12](atom14)  
-[Chapter 13](atom15)  
-[Chapter 14](atom16)  
-[Chapter 15](atom17)  
-[Chapter 16](atom18)  
-[Chapter 17](atom19)  
-[Chapter 18](atom20)  
-[Chapter 19](atom21)  
-[Question Helps](atom22)  
-[Index](atom23)  
+[Title Page](atom00.md)  
+[Foreword](atom01.md)  
+[Contents](atom02.md)  
+[Chapter 1](atom03.md)  
+[Chapter 2](atom04.md)  
+[Chapter 3](atom05.md)  
+[Chapter 4](atom06.md)  
+[Chapter 5](atom07.md)  
+[Chapter 6](atom08.md)  
+[Chapter 7](atom09.md)  
+[Chapter 8](atom10.md)  
+[Chapter 9](atom11.md)  
+[Chapter 10](atom12.md)  
+[Chapter 11](atom13.md)  
+[Chapter 12](atom14.md)  
+[Chapter 13](atom15.md)  
+[Chapter 14](atom16.md)  
+[Chapter 15](atom17.md)  
+[Chapter 16](atom18.md)  
+[Chapter 17](atom19.md)  
+[Chapter 18](atom20.md)  
+[Chapter 19](atom21.md)  
+[Question Helps](atom22.md)  
+[Index](atom23.md)  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre76)  [Next](gre78) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre76)  [Next](gre78.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ is the beginning thereof.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXIII: The Handselling of Peace](gre78)
+[Next: Chapter LXXIII: The Handselling of Peace](gre78.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cms20)  [Next](cms22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cms20)  [Next](cms22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ believe
 that a great Divine Love flows through you and your affairs. You will be
 grateful for this Love.
 
-It fills your [life](errata.htm#0). It satisfies your soul. You are a
+It fills your [life](errata.htm#0.md). It satisfies your soul. You are a
 different man. You are so filled with activity and courage that when you
 meet people they will wonder at your energy. They will begin to wish
 simply to come in contact with you. They will feel uplifted.
@@ -125,4 +125,4 @@ wishes, and becomes what he wills. Life, God, the Universe, is his.
 
 ------------------------------------------------------------------------
 
-[Next: Money A Spiritual Idea](cms22)
+[Next: Money A Spiritual Idea](cms22.md)

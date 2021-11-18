@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei14)  [Next](jei16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei14)  [Next](jei16.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 In describing the voyages of different explorers we have spoken more
 than once of their observations of living creatures in the Arctic and
-[Antarctic](errata.htm#69) regions--creatures which could find no
+[Antarctic](errata.htm#69.md) regions--creatures which could find no
 sustenance if there were not warmth and fertility in those regions.
 Perhaps the reader was inclined to think that the first few instances we
 adduced were exceptional, but as he found explorer after explorer making
@@ -189,7 +189,7 @@ stranger things than trees with green buds on them are found in the
 Arctic seas. Seeds of unknown species as well as of tropical species
 have been found, drifted down in northern currents. One very interesting
 find of this nature was the seed of the entada bean, a tropical seed
-measuring two [and](errata.htm#70) a quarter inches across. This
+measuring two [and](errata.htm#70.md) a quarter inches across. This
 remarkable find was made by a Swedish expedition under Otto Torell near
 Trurenberg Bay, and it is obvious that this seed must have come from the
 interior of the earth for it is of a tree that only grows under tropical
@@ -496,4 +496,4 @@ practically a whole century and over.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Other Interesting Animals of the Interior](jei16)
+[Next: Chapter XIII. Other Interesting Animals of the Interior](jei16.md)

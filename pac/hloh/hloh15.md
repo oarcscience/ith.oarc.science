@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh14)  [Next](hloh16) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh14)  [Next](hloh16.md) 
 
 ------------------------------------------------------------------------
 
@@ -182,4 +182,4 @@ and lived royally in that beautiful land of the gods.
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Great Dog Ku](hloh16)
+[Next: XII. The Great Dog Ku](hloh16.md)

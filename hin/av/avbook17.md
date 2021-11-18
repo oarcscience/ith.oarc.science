@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[Book 16](avbook16)  [Book 18](avbook18)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[Book 16](avbook16)  [Book 18](avbook18.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P417U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P417U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P417U/internetsacredte)
 
 [Hymn 1: A prayer to Indra, Identified with Vishnu and the Sun, for the
 love of Gods, men, and beasts, general protection and prosperity, and
-all earthly and heavenly blessings](av17001)  
+all earthly and heavenly blessings](av17001.md)  

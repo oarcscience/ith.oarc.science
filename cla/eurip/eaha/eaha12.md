@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Euripides](../index)  [Index](index)  [Previous](eaha11) 
-[Next](eaha13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Euripides](../index)  [Index](index)  [Previous](eaha11.md) 
+[Next](eaha13.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Euripides and His Age*, by Gilbert Murray, \[1913\], at Intangible
 Textual Heritage
 
@@ -50,4 +50,4 @@ denotes a stressed long vowel as in *câke*, *creêper*, *spîteful*,
 
 ------------------------------------------------------------------------
 
-[Next: Index](eaha13)
+[Next: Index](eaha13.md)

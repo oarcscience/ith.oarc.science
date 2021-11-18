@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml09)  [Next](eml11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml09)  [Next](eml11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -124,7 +124,7 @@ of the Ka, but it was the
 
 "double" of the intellect. will, and intentions, rather than the
 "double" of the physical body. The Khu was depicted as a bird, <span
-id="fr_80"></span>[1](#fn_80) and was called "the bright one" or "the
+id="fr_80"></span>[1](#fn_80.md) and was called "the bright one" or "the
 glorious one".
 
 The Ba of the second triad was a conception uniting both the Ka and the
@@ -154,7 +154,7 @@ conjured up when their names were spoken
 <span id="page_91">p. 91</span>
 
 in invocations; evil spirits were cast out by those who knew their
-names. <span id="fr_81"></span>[1](#fn_81) To guard himself against
+names. <span id="fr_81"></span>[1](#fn_81.md) To guard himself against
 wizards who uttered "words of power", or verbal spells, the Egyptian
 therefore considered it necessary to have two names--the big name and
 the little name, or the true name and the good name. He kept his "big,
@@ -189,7 +189,7 @@ prevailed in different ages.
 
 As we have seen, the early people buried their dead crouched up in
 shallow graves with due provision of nourishment and implements. <span
-id="fr_82"></span>[1](#fn_82) They appear to have believed that the Ka
+id="fr_82"></span>[1](#fn_82.md) They appear to have believed that the Ka
 remained beside the body until the flesh decayed. Then it either ceased
 to be, or it haunted the cemetery. Among primitive peoples at the
 present day much concern is evinced regarding the ghosts of the newly
@@ -530,15 +530,15 @@ Judgment.
 
 ### Footnotes
 
-<span id="fn_80"></span>[90:1](eml10.htm#fr_80) According to Celtic folk
+<span id="fn_80"></span>[90:1](eml10.htm#fr_80.md) According to Celtic folk
 belief the dead sometimes appear as birds. This idea may be a survival
 of the transmigration-of-souls conception; the soul passed through many
 animals before re-entering a human body.
 
-<span id="fn_81"></span>[91:1](eml10.htm#fr_81) The "ceremony of
+<span id="fn_81"></span>[91:1](eml10.htm#fr_81.md) The "ceremony of
 riddance" referred to by Isocrates.
 
-<span id="fn_82"></span>[92:1](eml10.htm#fr_82) This burial custom
+<span id="fn_82"></span>[92:1](eml10.htm#fr_82.md) This burial custom
 survived at least as late as the Fifth Dynasty, when mummification was
 well established.
 
@@ -546,6 +546,6 @@ well established.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: The Religion of the Stone Workers](eml11)
+[Next: Chapter VIII: The Religion of the Stone Workers](eml11.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj10)  [Next](igj12) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj10)  [Next](igj12.md) 
 
 ------------------------------------------------------------------------
 
@@ -407,7 +407,7 @@ The other curiosity is a recent impromptu effort to portray, in one
 verse of seventeen syllables, the last degree of
 devil-may-care-poverty,--perhaps
 
-![Square and Triangle](img/16400.jpg)
+![Square and Triangle](img/16400.jpg.md)
 
 the brave misery of the wandering student;--and I very much doubt
 whether the effort could be improved upon:--
@@ -424,4 +424,4 @@ Kagashi no kasa ni
 
 ------------------------------------------------------------------------
 
-[Next: Japanese Buddhist Proverbs](igj12)
+[Next: Japanese Buddhist Proverbs](igj12.md)

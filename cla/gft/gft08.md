@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft07)  [Next](gft09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft07)  [Next](gft09.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,7 +131,7 @@ man, yet he need not be ashamed of his grandson."
 <span id="img_04800"></span>
 
 [![The death of King Acrisius](tn/04800.jpg)  
-Click to enlarge](img/04800.jpg)  
+Click to enlarge](img/04800.jpg.md)  
 The death of King Acrisius  
 
  
@@ -186,4 +186,4 @@ the still blue peaks of Olympus.
 
 ------------------------------------------------------------------------
 
-[Next: Part One: How the Centaur Trained the Heroes on Pelion](gft09)
+[Next: Part One: How the Centaur Trained the Heroes on Pelion](gft09.md)

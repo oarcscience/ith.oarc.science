@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb06)  [Next](mlb08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb06)  [Next](mlb08.md) 
 
 ------------------------------------------------------------------------
 
@@ -545,4 +545,4 @@ the evening drove them indoors. But they never saw him more.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: The Ghosts and the Ghost Country](mlb08)
+[Next: Chapter VI: The Ghosts and the Ghost Country](mlb08.md)

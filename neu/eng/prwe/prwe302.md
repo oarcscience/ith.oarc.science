@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe301)  [Next](prwe303) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe301)  [Next](prwe303.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ The next will be a rainy day."
 
 ------------------------------------------------------------------------
 
-[Next: The First Butterfly](prwe303)
+[Next: The First Butterfly](prwe303.md)

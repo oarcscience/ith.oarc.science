@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](eci03)  [Next](eci05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](eci03)  [Next](eci05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ethnography of the Cahuilla Indians*, by A. L. Kroeber, \[1908\], at
 Intangible Textual Heritage
 
@@ -15,7 +15,7 @@ Intangible Textual Heritage
 
 The basketry of the Mission Indians is well known, and that of the
 Cahuilla has been described in detail. <span
-id="fr_12"></span>[11](#fn_11) Considering its importance in the life of
+id="fr_12"></span>[11](#fn_11.md) Considering its importance in the life of
 the people, it is remarkable for the small number of weaves, forms, and
 materials to which it is confined. The ordinary materials are not more
 than three: a grass, *Epicampes rigens*, for the warp; and for the woof
@@ -36,12 +36,12 @@ is occasionally substituted.
 
 Twined weaves are used only in rude openwork baskets, so far as known.
 The Chemehuevi make conical carrying baskets ([Pl.
-1](eci12.htm#img_pl01)) and caps, in the diagonal-twined or double-warp
+1](eci12.htm#img_pl01).md) and caps, in the diagonal-twined or double-warp
 weave so characteristic of the Shoshoneans of the Plateau. A basket made
 in this way may occasionally be found in the possession of the Cahuilla;
 but they appear not to have practiced the weave themselves.
 
-The Cahuilla openwork baskets ([Pl. 1](eci12.htm#img_pl01)) may
+The Cahuilla openwork baskets ([Pl. 1](eci12.htm#img_pl01).md) may
 appropriately be described as irregular in technique, rather than as
 strictly in the simple single-warp twined weave. The simplest form of
 twining predominates, but in all specimens examined is more or less
@@ -63,7 +63,7 @@ Mission Indians.
 
 Large granaries for storing mesquite are a conspicuous feature of the
 surroundings of a desert Cahuilla settlement. ([Pl.
-2](eci12.htm#img_pl02).) They are from three to six feet across, without
+2](eci12.htm#img_pl02)..md) They are from three to six feet across, without
 top or bottom, placed on a layer of brush, and covered with the same.
 They are sometimes set on the ground, but more usually raised on a rude
 scaffold of poles. These granaries can be called baskets only by
@@ -95,14 +95,14 @@ calls for no particular description, being identical with a common form
 of Cahuilla basket except for lacking a bottom. Believing that it might
 be possible that these baskets were made from such complete baskets by
 cutting out the center, the Indians were questioned, but stated that
-this was not the case, the mortar [baskets](errata.htm#0) being begun
+this was not the case, the mortar [baskets](errata.htm#0.md) being begun
 around a hoop. This is obviously the easier as well as the quicker
 method of manufacture in coiled basketry. Among the Yurok of
 Northwestern California, whose mortar baskets are twined, the basket is
 begun as if it were to have a rude bottom, and only when ready for use
 is the central portion cut out.
 
-The basketry cap of the Cahuilla ([Pl. 7](eci12.htm#img_pl07)), is like
+The basketry cap of the Cahuilla ([Pl. 7](eci12.htm#img_pl07).md), is like
 that of the other Mission Indians, and of a type extending at least as
 far north as the Yokuts of central California. It is rather large,
 flat-topped, and of coiled weave. Its general appearance is that of the
@@ -121,7 +121,7 @@ use, to the oval shape of the head. Most of the caps seem unnecessarily
 large for the head. The pattern ornamentation is simple, and sometimes
 wanting. One or two of those obtained show signs of having been used for
 other purposes, such as parching or holding liquids. <span
-id="fr_13"></span>[12](#fn_12)
+id="fr_13"></span>[12](#fn_12.md)
 
 The Chemehuevi cap is of a different type, being twined instead of
 coiled, somewhat peaked or conical instead of flat-topped, and lighter
@@ -129,7 +129,7 @@ and more flexible than the thick coiled Cahuilla cap. One of these
 Chemehuevi hats, which the owner was unable to part with, was ornamented
 with a red and black design resembling a basketry pattern, but painted
 on. A similar cap, also in diagonal-twined weave, was obtained from a
-Cahuilla family at Alamo. ([Pl. 7](eci12.htm#img_pl07), on right.) This
+Cahuilla family at Alamo. ([Pl. 7](eci12.htm#img_pl07), on right..md) This
 piece, however, had the design worked into the basketry. This Chemehuevi
 form of cap is of the type found among the Shoshonean tribes of the
 Great Basin, and the piece here mentioned could be practically
@@ -147,7 +147,7 @@ rounded, but all the better made ones are flat-topped. South of this
 belt across northernmost California, beginning with the region in which
 coiled basketry first appears, and extending to beyond the latitude of
 San Francisco, basketry caps are not made. The Pomo, Wintun, and
-Maidu <span id="fr_14"></span>[13](#fn_13) of the coast and Sacramento
+Maidu <span id="fr_14"></span>[13](#fn_13.md) of the coast and Sacramento
 
 <span id="page_45">p. 45</span>
 
@@ -164,7 +164,7 @@ parts of the state.
 A twined water-basket of jug shape, coated with pitch or asphalt, of the
 type used by the Paiutes and other Shoshoneans, and on Santa Barbara
 Channel, is said to have been made by the Cahuilla in former
-times. <span id="fr_15"></span>[14](#fn_14) Such water-baskets have
+times. <span id="fr_15"></span>[14](#fn_14.md) Such water-baskets have
 entirely disappeared. In fact there seems some reason to doubt their
 ever having been made by the Cahuilla, who had pottery which was fully
 as suitable and much more readily manufactured.
@@ -173,7 +173,7 @@ A leaching basket is mentioned by Dr. Barrows, but none was seen, and no
 definite description could be obtained. Possibly the twined openwork
 baskets of juncus answered this purpose.
 
-The seed-beater ([Pl. 3](eci12.htm#img_pl03)) may appropriately be
+The seed-beater ([Pl. 3](eci12.htm#img_pl03).md) may appropriately be
 included under the consideration of forms of basketry, although the
 Cahuilla seed-beater, which is nothing but a frame of a few sticks,
 presents but little appearance of basket work. The specimens obtained
@@ -213,13 +213,13 @@ the largest specimens of the same class. Among other California tribes
 baskets of the same shape range from a few inches to nearly as many
 feet.
 
-The flat basket, or chipatmal ([Pl. 4](eci12.htm#img_pl04)), is most
+The flat basket, or chipatmal ([Pl. 4](eci12.htm#img_pl04).md), is most
 commonly something over a foot in diameter. Its curvature is very
 slight. It is employed as a plate or tray, and for winnowing, and has
 also been described as used to gather the seeds struck down on it by the
 seed-beater.
 
-The shallow basket ([Pl. 5](eci12.htm#img_pl05)) is deeper than the
+The shallow basket ([Pl. 5](eci12.htm#img_pl05).md) is deeper than the
 preceding, but flatter than the large deep basket. It is called
 sewhalal, according to Dr. Barrows; or kaputmal, the same as the deep
 basket. It has about the same diameter as the flat basket, is some three
@@ -233,7 +233,7 @@ the interior is entirely charred.
 
 <span id="page_47">p. 47</span>
 
-The deep basket ([Pl. 6](eci12.htm#img_pl06)) is much like the shallow
+The deep basket ([Pl. 6](eci12.htm#img_pl06).md) is much like the shallow
 one except that its sides rise more steeply and to a greater height. Its
 usual shape is that of an inverted truncated cone, of which the altitude
 is equal to the smaller diameter and about half that of the greater
@@ -252,7 +252,7 @@ there that the shape of the burden basket makes it a practical
 necessity. In central California the net is rather a convenience, and
 the basket is often used without it.
 
-The small globular basket ([Pl. 7](eci12.htm#img_pl07)) is the least
+The small globular basket ([Pl. 7](eci12.htm#img_pl07).md) is the least
 common of the four types. It serves to keep small utensils and trinkets.
 The diameter is usually somewhat greater than the height. The mouth is
 of the same size as the bottom, or sometimes smaller. No attempt is made
@@ -310,7 +310,7 @@ vertical or horizontal; the rectangle, either standing alone as a bar or
 combined into a series of steps; triangles, usually in series; the
 diamond or hexagon repeated into a horizontal band; and the simple
 zigzag, constitute the great majority of patterns. A striking but
-uncommon design is the fret. ([Pl. 6](eci12.htm#img_pl06).) Occasionally
+uncommon design is the fret. ([Pl. 6](eci12.htm#img_pl06)..md) Occasionally
 a design is in two colors, most often black combined with reddish or
 brownish yellow. At other times the two colors occur on different parts
 of the same basket.
@@ -334,7 +334,7 @@ In the prevalence of horizontal patterns, especially of the band type,
 with a secondary tendency towards vertical designs, the Cahuilla agree
 with the other Mission Indians, and in fact with the tribes of all that
 part of California south of the latitude of San Francisco. <span
-id="fr_16"></span>[15](#fn_15)
+id="fr_16"></span>[15](#fn_15.md)
 
 The small globular baskets are exceptional in another respect than their
 pattern arrangement. In all flat, shallow, and deep baskets, as well as
@@ -342,7 +342,7 @@ in caps and mortar baskets, the direction of the coil, as one looks into
 the basket, is from left to right, or clock-wise; in all globular
 baskets it is from right to left. A somewhat similar difference has been
 noticed by Dr. Dixon among the Maidu, <span
-id="fr_17"></span>[16](#fn_16) except that among these Indians flat
+id="fr_17"></span>[16](#fn_16.md) except that among these Indians flat
 baskets run from right to left. Mr. S. A. Barrett has noted that among
 the Porno the coil is always clockwise, whatever the shape of the
 basket. These striking differences, which evidently are typical of
@@ -373,7 +373,7 @@ baskets. Among the Chemehuevi flat and bowl-shaped baskets usually run
 clockwise, though a number of exceptions have been observed. The
 Chemehuevi also make urn-shaped baskets approximating bottle-necks, but
 the direction of the coil in these is not known. <span
-id="fr_18"></span>[16a](#fn_17)
+id="fr_18"></span>[16a](#fn_17.md)
 
 It thus appears that other than among the Wailaki and Yuki the normal
 direction of the coil in California basketry is clockwise, except that
@@ -407,29 +407,29 @@ anti-clockwise direction also prevails.
 
 ### Footnotes
 
-<span id="fn_11"></span>[41:11](eci04.htm#fr_12) Barrows, Ethno-botany
+<span id="fn_11"></span>[41:11](eci04.htm#fr_12.md) Barrows, Ethno-botany
 of the Coahuilla Indians of Southern California, 1900, 40; Schumacher,
 in Putnam, Wheeler Survey, VII, 247.
 
-<span id="fn_12"></span>[44:12](eci04.htm#fr_13) Barrows, p. 44.
+<span id="fn_12"></span>[44:12](eci04.htm#fr_13.md) Barrows, p. 44.
 
-<span id="fn_13"></span>[44:13](eci04.htm#fr_14) Professor Dixon Bull.
+<span id="fn_13"></span>[44:13](eci04.htm#fr_14.md) Professor Dixon Bull.
 Am. Mus. Nat. Hist. XVII, 162, 1905, states that the northern Maidu
 women formerly wore basket hats; but no specimens have been seen by him
 or by the author and none appear ever to have been collected.
 
-<span id="fn_14"></span>[45:14](eci04.htm#fr_15) Barrows, 41: called
+<span id="fn_14"></span>[45:14](eci04.htm#fr_15.md) Barrows, 41: called
 kaputil. The stem of this word appears, with the diminutive suffix -mal,
 in kaput-mal, obtained as the name of ordinary bowl-shaped baskets, as
 given below.
 
-<span id="fn_15"></span>[49:15](eci04.htm#fr_16) Present series, II,
+<span id="fn_15"></span>[49:15](eci04.htm#fr_16.md) Present series, II,
 150, 1905.
 
-<span id="fn_16"></span>[49:16](eci04.htm#fr_17) The Northern Maidu,
+<span id="fn_16"></span>[49:16](eci04.htm#fr_17.md) The Northern Maidu,
 Bull. Am. Mus. Nat. Hist., XVII, 146, 1905.
 
-<span id="fn_17"></span>[50:16a](eci04.htm#fr_18) Since this paper was
+<span id="fn_17"></span>[50:16a](eci04.htm#fr_18.md) Since this paper was
 put in type, Dr. C. V. Hartman, Curator of Ethnology and Archaeology in
 the Carnegie Museum, Pittsburg, writes as follows regarding a collection
 of Chemehuevi baskets in that museum: "Of the flat baskets, ten have the
@@ -441,4 +441,4 @@ among them are the same as the rule of the Yokuts and Mono.
 
 ------------------------------------------------------------------------
 
-[Next: Stone Implements](eci05)
+[Next: Stone Implements](eci05.md)

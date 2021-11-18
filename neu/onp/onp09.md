@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp08) [Next](onp10)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp08) [Next](onp10.md)
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ saga,* a typical *fornaldarsaga,* or “tale of the olden times,”
 consisting of narrative with interspersed poems, which in this instance
 preponderate. The prose is largely commentary, or furnishes connecting
 links, for the many *lausavísur* (“single stanzas”) and other poems that
-make up the bulk of the saga.<span id="fr_1"></span>[1](#note_1) Indeed,
+make up the bulk of the saga.<span id="fr_1"></span>[1](#note_1.md) Indeed,
 in our lay it might be dispensed with altogether, for the action is
 admirably brought out in the dialogue and ensuing monologue. Though
 pleasing in invention and smooth in diction and versification
@@ -33,7 +33,7 @@ themselves and break out of the hall. In the struggle outside they fall
 to a man, not wishing to survive their beloved leader; at least, this is
 clearly the intention of the lay. A later poet, to be sure, allowed
 several of Hálf’s men to escape and avenge him in time. About them, we
-have in the saga the lays of Útstein<span id="fr_2"></span>[2](#note_2)
+have in the saga the lays of Útstein<span id="fr_2"></span>[2](#note_2.md)
 and of Hrók, in a somewhat similar vein.
 
 <table data-cellpadding="10">
@@ -349,7 +349,7 @@ that laughing died this lord of men.”<br />
 
 ------------------------------------------------------------------------
 
-[Next](onp10)
+[Next](onp10.md)
 
 ------------------------------------------------------------------------
 
@@ -357,40 +357,40 @@ that laughing died this lord of men.”<br />
 
 <span id="footnotes_page_46">p. 46</span>
 
-<span id="note_1"></span>[1](#fr_1) As, e.g., in the
+<span id="note_1"></span>[1](#fr_1.md) As, e.g., in the
 *Reginsmól-Fáfnismól* of the Edda.
 
-<span id="note_2"></span>[2](#fr_2) As to the names of Innstein and his
+<span id="note_2"></span>[2](#fr_2.md) As to the names of Innstein and his
 brother, Útstein, they seem to be connected with the royal estate of
 Útstein in Horthaland; cf. *Haraldskvæthi* 9 and note.
 
 <span id="footnotes_page_48">p. 48</span>
 
-<span id="note_3"></span>[3](#fr_3) Cf. the dreams of Kostbera,
+<span id="note_3"></span>[3](#fr_3.md) Cf. the dreams of Kostbera,
 *Atlamól,* 4 ff.
 
-<span id="note_4"></span>[4](#fr_4) Kenning for “head.”
+<span id="note_4"></span>[4](#fr_4.md) Kenning for “head.”
 
-<span id="note_5"></span>[5](#fr_5) Reference is here made to the wedge
+<span id="note_5"></span>[5](#fr_5.md) Reference is here made to the wedge
 formation favored by many Germanic tribes in battle.
 
 <span id="footnotes_page_49">p. 49</span>
 
-<span id="note_6"></span>[6](#fr_6) *I.e.,* “warriors.”
+<span id="note_6"></span>[6](#fr_6.md) *I.e.,* “warriors.”
 
-<span id="note_7"></span>[7](#fr_7) Swords were dipped in wax to protect
+<span id="note_7"></span>[7](#fr_7.md) Swords were dipped in wax to protect
 them against rust (and witchcraft).
 
-<span id="note_8"></span>[8](#fr_8) Ironic allusion to fires kindled for
+<span id="note_8"></span>[8](#fr_8.md) Ironic allusion to fires kindled for
 the welcome, and presents given at the departure, of guests.
 
 <span id="footnotes_page_50">p. 50</span>
 
-<span id="note_9"></span>[9](#fr_9) Ásmund’s men.
+<span id="note_9"></span>[9](#fr_9.md) Ásmund’s men.
 
-<span id="note_10"></span>[10](#fr_10) *I.e.,* after death, in Valholl.
+<span id="note_10"></span>[10](#fr_10.md) *I.e.,* after death, in Valholl.
 
-<span id="note_11"></span>[11](#fr_11) The Viking expeditions took place
+<span id="note_11"></span>[11](#fr_11.md) The Viking expeditions took place
 only in summer.
 
  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl34)  [Next](isl36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl34)  [Next](isl36.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ also in error.
 
 Desire is only profitable if it is the desire to serve God according to
 the Law He laid down, not with heretical innovation. <span
-id="fr_148"></span>[13](#fn_148)
+id="fr_148"></span>[13](#fn_148.md)
 
  
 
@@ -134,7 +134,7 @@ there is anything abrogated in the Qur’ān, the abrogation is written
 there. . . . If an answer is not found in the Qur’ān, one should look in
 the Sunna, and . . . there is nothing there which is abrogated, by
 Consensus or anything else . . . for true Consensus cannot contradict
-the Qur’ān and the Sunna. <span id="fr_149"></span>[14](#fn_149)
+the Qur’ān and the Sunna. <span id="fr_149"></span>[14](#fn_149.md)
 
  
 
@@ -152,7 +152,7 @@ have mercy on God's creatures by deterring men from
 <span id="page_209">p. 209</span>
 
 things rejected by God, and not to discharge his wrath or gratify his
-desire for power. <span id="fr_150"></span>[15](#fn_150)
+desire for power. <span id="fr_150"></span>[15](#fn_150.md)
 
  
 
@@ -168,7 +168,7 @@ unable to do that, in his heart."
 So if it is thus, it is known that the bidding to good and the rejection
 of the reprehended, together with its completion, the Holy War, is one
 of the most important things we are ordered to perform. <span
-id="fr_151"></span>[16](#fn_151)
+id="fr_151"></span>[16](#fn_151.md)
 
  
 
@@ -183,7 +183,7 @@ Often have I thought that the appearance of such as these \[pantheist
 Ṡūfīs\] is the chief cause for the appearance of the Mongol Tatars and
 the disappearance of the Law of Islam, and that they are the vanguard of
 Antichrist the One-eyed, the Great Liar who shall assert that he is
-God. <span id="fr_152"></span>[17](#fn_152)
+God. <span id="fr_152"></span>[17](#fn_152.md)
 
  
 
@@ -213,31 +213,31 @@ into three stages. . . . What he has made the goal of human life, viz.
 the knowledge of God, His attributes, His actions, and angels, in his
 *Al-Maḍnūn*--which is pure philosophy--is worse than the beliefs of the
 (old) idolatrous Arabs, let alone of Jews and Christians. <span
-id="fr_153"></span>[18](#fn_153)
+id="fr_153"></span>[18](#fn_153.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_148"></span>[210:13](isl35.htm#fr_148) *Ma‘ārij al-Wusūl*,
+<span id="fn_148"></span>[210:13](isl35.htm#fr_148.md) *Ma‘ārij al-Wusūl*,
 in *Majmū‘ al-Rasā‘il al-Kubra* (Cairo, 1905), Vol. I, p. 193. Also in
 French translation by H. Laoust (Cairo, 1939).
 
-<span id="fn_149"></span>[210:14](isl35.htm#fr_149) *Ibid*., pp.
+<span id="fn_149"></span>[210:14](isl35.htm#fr_149.md) *Ibid*., pp.
 215-216.
 
-<span id="fn_150"></span>[210:15](isl35.htm#fr_150) *Al-Siyāsa
+<span id="fn_150"></span>[210:15](isl35.htm#fr_150.md) *Al-Siyāsa
 al-Shar‘īya* (Cairo, 1955), p. 98.
 
-<span id="fn_151"></span>[210:16](isl35.htm#fr_151) *Al-Ḥisba*, in
+<span id="fn_151"></span>[210:16](isl35.htm#fr_151.md) *Al-Ḥisba*, in
 *Majmū‘ al-Rasā’il al-Kubra*, *op. cit.*, p. 66.
 
-<span id="fn_152"></span>[210:17](isl35.htm#fr_152) *Majmū’ al-Rasā’il
+<span id="fn_152"></span>[210:17](isl35.htm#fr_152.md) *Majmū’ al-Rasā’il
 wa al-Masā’il* (Cairo, 1922), Vol. I, pp. 179-180.
 
-<span id="fn_153"></span>[210:18](isl35.htm#fr_153) F. Rahman, *Prophecy
+<span id="fn_153"></span>[210:18](isl35.htm#fr_153.md) F. Rahman, *Prophecy
 in Islam* (London, 1958), pp. 101-102.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](isl36)
+[Next: Introduction](isl36.md)

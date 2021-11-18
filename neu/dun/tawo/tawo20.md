@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](tawo19)  [Next](tawo21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](tawo19)  [Next](tawo21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T8B0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T8B0/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales of Wonder*, by Lord Dunsany, \[1916\], at Intangible Textual
 Heritage
 
@@ -213,6 +213,6 @@ lightning streamed from it and killed a dog.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Infernal Jokes](tawo21)
+[Next: The Three Infernal Jokes](tawo21.md)
 
 </div>

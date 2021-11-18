@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0460879545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0460879545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0460879545/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](bp00)
+[Contents](#contents)    [Start Reading](bp00.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ In spite of its significance for world literature and the study of
 religion, Attar's poem was not translated in its entirety until the
 mid-twentieth century, and the standard English translations are hence
 not in the public domain. However Edward FitzGerald, best known as the
-translator of [The Rubayyat of Omar Khayyam](../khayyam.txt) worked on
+translator of [The Rubayyat of Omar Khayyam](../khayyam.txt.md) worked on
 this abridged translation of the Bird Parliament through 1857. It is
 little known today, primarily because it was only published posthumously
 (FitzGerald died in 1883), in Letters and Literary Remains, edited by
@@ -55,5 +55,5 @@ FitzGerald's translation of this work has been posted on the Internet.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](bp00)  
-[Bird Parliament](bp01)  
+<span id="contents"></span> [Title Page](bp00.md)  
+[Bird Parliament](bp01.md)  

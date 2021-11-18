@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](bep04)  [Next](bep06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](bep04)  [Next](bep06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Enoch the Prophet*, tr. by Richard Laurence, \[1883\], at
 Intangible Textual Heritage
 
@@ -53,7 +53,7 @@ woman sitting upon the throne of his glory.
 10\. Then shall the kings, the princes, and all who possess the earth,
 glorify him who has dominion over all things, him who was concealed; for
 from the beginning the Son of man existed in secret, <span
-id="fr_131"></span>[1](#fn_129) whom the Most High preserved in the
+id="fr_131"></span>[1](#fn_129.md) whom the Most High preserved in the
 presence of his power, and revealed to the elect.
 
 11\. He shall sow the congregation of the saints, and of the elect; and
@@ -68,7 +68,7 @@ and petition him for mercy.
 
 14\. Then shall the Lord of spirits hasten to expel them from his
 presence. Their faces shall be full of confusion, and their faces shall
-darkness cover. <span id="fr_132"></span>[2](#fn_130)
+darkness cover. <span id="fr_132"></span>[2](#fn_130.md)
 
 <span id="page_75">p. 75</span>
 
@@ -79,7 +79,7 @@ example to the saints and to his elect. Through them shall these be made
 joyful; for the anger of the Lord of spirits shall rest upon them.
 
 15\. Then the sword of the Lord of spirits shall be drunk with their
-blood; <span id="fr_133"></span>[1](#fn_131) but the saints and elect
+blood; <span id="fr_133"></span>[1](#fn_131.md) but the saints and elect
 shall be safe in that day; nor the face of the sinners and the ungodly
 shall they thenceforwards behold.
 
@@ -98,7 +98,7 @@ presence your garment shall not wax old, nor shall your glory diminish.
 ### CHAP. LXII.
 
 1\. In those days the kings who possess the earth shall be punished by
-the angels of his wrath, <span id="fr_134"></span>[2](#fn_132)
+the angels of his wrath, <span id="fr_134"></span>[2](#fn_132.md)
 wheresoever they shall be delivered up, that he may give rest for a
 short period; and that they
 
@@ -173,7 +173,7 @@ seduced the sons of men to the commission of sin.
 
 <span class="margnote"><span id="an_LXIV">LXIV</span></span>
 
-### CHAP. LXIV. \[SECT. XI. <span id="fr_135"></span>[1](#fn_133)\]
+### CHAP. LXIV. \[SECT. XI. <span id="fr_135"></span>[1](#fn_133.md)\]
 
 1\. In those days Noah saw that the earth became inclined, and that
 destruction approached.
@@ -194,9 +194,9 @@ lamentation?
 
 6\. A commandment has gone forth from the Lord against those who dwell
 on the earth, that they may be destroyed; <span
-id="fr_136"></span>[2](#fn_134) for they know every secret of the
+id="fr_136"></span>[2](#fn_134.md) for they know every secret of the
 angels, every oppressive and secret power of the devils, <span
-id="fr_137"></span>[3](#fn_135) and every power of those who commit
+id="fr_137"></span>[3](#fn_135.md) and every power of those who commit
 sorcery, as well as of those who make molten images in the whole earth.
 
 <span id="page_79">p. 79</span>
@@ -223,8 +223,8 @@ pure and good, *free* from the reproach of *discovering* secrets.
 11\. He, the holy One, will establish thy name in the midst of the
 saints, and will preserve thee from those who dwell upon the earth. He
 will establish thy seed in righteousness, with dominion and great
-glory; <span id="fr_138"></span>[1](#fn_136) and from thy seed shall
-spring forth <span id="fr_139"></span>[2](#fn_137) righteous and holy
+glory; <span id="fr_138"></span>[1](#fn_136.md) and from thy seed shall
+spring forth <span id="fr_139"></span>[2](#fn_137.md) righteous and holy
 men without number for ever.
 
 <span id="page_80">p. 80</span>
@@ -235,7 +235,7 @@ men without number for ever.
 
 1\. After this he showed me the angels of punishment, who were prepared
 to come, and to open all the mighty waters <span
-id="fr_140"></span>[1](#fn_138) under the earth:
+id="fr_140"></span>[1](#fn_138.md) under the earth:
 
 2\. That they may be for judgment, and for the destruction of all those
 who remain and dwell upon the earth.
@@ -251,17 +251,17 @@ out from the presence of Enoch.
 ### CHAP. LXVI.
 
 1\. In those days the word of God came to me, <span
-id="fr_141"></span>[2](#fn_139) and said, Noah, behold, thy lot <span
-id="fr_142"></span>[3](#fn_140) has ascended up to me, a lot void of
-crime, <span id="fr_143"></span>[4](#fn_141) a lot beloved <span
-id="fr_144"></span>[5](#fn_142) and upright.
+id="fr_141"></span>[2](#fn_139.md) and said, Noah, behold, thy lot <span
+id="fr_142"></span>[3](#fn_140.md) has ascended up to me, a lot void of
+crime, <span id="fr_143"></span>[4](#fn_141.md) a lot beloved <span
+id="fr_144"></span>[5](#fn_142.md) and upright.
 
 2\. Now then shall the angels labour at the trees; but when they proceed
 to this, I will put my hand upon it, and preserve it.
 
-3\. The seed of life shall arise <span id="fr_145"></span>[6](#fn_143)
+3\. The seed of life shall arise <span id="fr_145"></span>[6](#fn_143.md)
 from it, and a change shall take place, <span
-id="fr_146"></span>[7](#fn_144) that the dry land may not be left empty.
+id="fr_146"></span>[7](#fn_144.md) that the dry land may not be left empty.
 I will establish thy seed before me
 
 <span id="page_81">p. 81</span>
@@ -279,13 +279,13 @@ mountains of gold and silver, of iron, of fluid metal, and of tin.
 *where* the waters were troubled.
 
 6\. And when all this was effected, from the fluid mass of fire, and the
-perturbation which prevailed <span id="fr_147"></span>[1](#fn_145) in
+perturbation which prevailed <span id="fr_147"></span>[1](#fn_145.md) in
 that place, there arose a strong smell of sulphur, which became mixed
 with the waters; and the valley of the angels, who had been guilty of
 seduction, burned underneath its soil.
 
 7\. Through that valley also rivers of fire were flowing, <span
-id="fr_148"></span>[2](#fn_146) to which those angels shall be
+id="fr_148"></span>[2](#fn_146.md) to which those angels shall be
 condemned, who seduced the inhabitants of the earth.
 
 8\. And in those days shall these waters be to kings, to princes, to the
@@ -293,7 +293,7 @@ exalted, and to the inhabitants of the earth, for the healing of the
 soul and body, and for the judgment of the spirit.
 
 9\. Their spirits shall be full of revelry, <span
-id="fr_149"></span>[3](#fn_147) that they may be judged in their bodies;
+id="fr_149"></span>[3](#fn_147.md) that they may be judged in their bodies;
 because they
 
 <span id="page_82">p. 82</span>
@@ -308,11 +308,11 @@ their spirits undergo a change for ever.
 vain.
 
 12\. Judgment has come upon them, because they trusted in their carnal
-revelry, <span id="fr_150"></span>[1](#fn_148) and denied the Lord of
+revelry, <span id="fr_150"></span>[1](#fn_148.md) and denied the Lord of
 spirits.
 
 13\. In those days shall the waters of that valley <span
-id="fr_151"></span>[2](#fn_149) be changed; for when the angels shall be
+id="fr_151"></span>[2](#fn_149.md) be changed; for when the angels shall be
 judged, then shall the heat of those springs of water experience an
 alteration.
 
@@ -334,17 +334,17 @@ ever.
 ### CHAP. LXVII.
 
 1\. After this he gave me the characteristical marks <span
-id="fr_152"></span>[1](#fn_150) of all the secret things in the book of
+id="fr_152"></span>[1](#fn_150.md) of all the secret things in the book of
 my great-grandfather Enoch, and in the parables which had been given to
 him; inserting them for me among the words of the book of parables.
 
 2\. At that time holy Michael answered and said to Raphael, The power of
 the spirit hurries me away, and impels me on. <span
-id="fr_153"></span>[2](#fn_151) The severity of the judgment, of the
+id="fr_153"></span>[2](#fn_151.md) The severity of the judgment, of the
 secret judgment of the angels, who is capable *of beholding*—the
 endurance of that severe judgment which has taken place and been made
 permanent—without being melted at the sight of it? <span
-id="fr_154"></span>[3](#fn_152) Again holy Michael answered and said to
+id="fr_154"></span>[3](#fn_152.md) Again holy Michael answered and said to
 holy Raphael, Who is there whose heart is not softened by it, and whose
 reins are not troubled at this thing?
 
@@ -357,7 +357,7 @@ before the eye of the Lord; since the Lord of spirits has been offended
 
 <span id="page_84">p. 84</span>
 
-with them; for like Lords <span id="fr_155"></span>[1](#fn_153) have
+with them; for like Lords <span id="fr_155"></span>[1](#fn_153.md) have
 they conducted themselves. Therefore will he bring upon them a secret
 judgment for ever and ever.
 
@@ -427,7 +427,7 @@ might remain righteous and pure.
 15\. Nor would death, which destroys everything, have affected them;
 
 16\. But by this their knowledge they perish, and by this also *its*
-power consumes <span id="fr_156"></span>[1](#fn_154) *them*.
+power consumes <span id="fr_156"></span>[1](#fn_154.md) *them*.
 
 17\. The name of the fifth is Kasyade: he discovered to the children of
 men every wicked stroke of spirits and of demons:
@@ -435,7 +435,7 @@ men every wicked stroke of spirits and of demons:
 18\. The stroke of the embryo in the womb, to diminish *it;* the stroke
 of the spirit *by* the bite of the serpent, and the stroke which is
 *given* in the mid-day *by* the offspring of the serpent, the name of
-which is Tabaet. <span id="fr_157"></span>[2](#fn_155)
+which is Tabaet. <span id="fr_157"></span>[2](#fn_155.md)
 
 19\. This is the number of the Kesbel; the principal part of the oath
 which the Most High, dwelling in glory, revealed to the holy ones.
@@ -448,7 +448,7 @@ the children of men might tremble at that name and oath.
 21\. This is the power of that oath; for powerful it is, and strong.
 
 22\. And he established this oath of Akae by the instrumentality <span
-id="fr_158"></span>[3](#fn_156) of the holy Michael.
+id="fr_158"></span>[3](#fn_156.md) of the holy Michael.
 
 <span id="page_87">p. 87</span>
 
@@ -476,7 +476,7 @@ swerving from the command *given* to them for ever and ever.
 and ever.
 
 31\. Thus *in* the heavens *take place* the blowings of the winds: all
-of them have breathings, <span id="fr_159"></span>[1](#fn_157) and
+of them have breathings, <span id="fr_159"></span>[1](#fn_157.md) and
 *effect* a complete combination of breathings.
 
 32\. There the treasures of thunder are kept, and the splendour of the
@@ -522,10 +522,10 @@ of man shall become powerful in the presence of the Lord of spirits.
 
 <span class="margnote"><span id="an_LXIX">LXIX</span></span>
 
-### CHAP. LXIX. \[SECT. XII. <span id="fr_160"></span>[1](#fn_158)\]
+### CHAP. LXIX. \[SECT. XII. <span id="fr_160"></span>[1](#fn_158.md)\]
 
 1\. After this the name of the Son of man, living with the Lord of
-spirits, <span id="fr_161"></span>[2](#fn_159) was exalted by the
+spirits, <span id="fr_161"></span>[2](#fn_159.md) was exalted by the
 inhabitants of the earth.
 
 2\. It was exalted in the chariots of the Spirit; and the name went
@@ -534,7 +534,7 @@ forth in the midst of them.
 3\. From that time I was not drawn in the midst of them; but he seated
 me between two spirits, between the north and the west, where the angels
 received their ropes, to measure out a place <span
-id="fr_162"></span>[3](#fn_160) for the elect and the righteous.
+id="fr_162"></span>[3](#fn_160.md) for the elect and the righteous.
 
 4\. There I beheld the fathers of the first men, and the saints, who
 dwell in that place for ever.
@@ -565,11 +565,11 @@ they went forth before the face of the holy.
 6\. And he concealed the spirit of Enoch in the heaven of heavens.
 
 7\. There I beheld, in the midst of that light, a building raised with
-stones of ice; <span id="fr_163"></span>[1](#fn_161)
+stones of ice; <span id="fr_163"></span>[1](#fn_161.md)
 
 8\. And in the midst of these stones vibrations <span
-id="fr_164"></span>[2](#fn_162) of living fire. My spirit saw around the
-circle of <span id="fr_165"></span>[3](#fn_163) this flaming habitation,
+id="fr_164"></span>[2](#fn_162.md) of living fire. My spirit saw around the
+circle of <span id="fr_165"></span>[3](#fn_163.md) this flaming habitation,
 on one of its extremities, *that there were* rivers full of living fire,
 which encompassed it.
 
@@ -608,7 +608,7 @@ righteousness has rested on thee.
 18\. The righteousness of the Ancient of days shall not forsake thee.
 
 19\. He said, On thee shall he confer peace <span
-id="fr_166"></span>[1](#fn_164) in the name of the existing world; for
+id="fr_166"></span>[1](#fn_164.md) in the name of the existing world; for
 from thence has peace gone forth since the world was created.
 
 <span id="page_92">p. 92</span>
@@ -624,17 +624,17 @@ thee shall they be separated for ever and ever.
 23\. And thus shall length of days be with the offspring of man.
 
 24\. Peace shall be to the righteous; and the path of integrity shall
-the righteous pursue, <span id="fr_167"></span>[1](#fn_165) in the name
+the righteous pursue, <span id="fr_167"></span>[1](#fn_165.md) in the name
 of the Lord of spirits, for ever and ever.
 
 <span class="margnote"><span id="an_LXXI">LXXI</span></span>
 
-### CHAP. LXXI. \[SECT. XIII. <span id="fr_168"></span>[2](#fn_166)\]
+### CHAP. LXXI. \[SECT. XIII. <span id="fr_168"></span>[2](#fn_166.md)\]
 
 1\. The book of the revolutions of the luminaries of heaven, according
 to their respective classes, their respective powers, their respective
 periods, their respective names, the places where they commence their
-progress, <span id="fr_169"></span>[3](#fn_167) and their respective
+progress, <span id="fr_169"></span>[3](#fn_167.md) and their respective
 months, which Uriel, the holy angel who was with me, explained to me; he
 who conducts them. The whole account of them, according to every year of
 the world for ever, until a new work shall be effected, which will be
@@ -689,7 +689,7 @@ longer by two parts than the night.
 
 14\. The day is precisely ten parts, and the night is eight.
 
-15\. The sun <span id="fr_170"></span>[1](#fn_168) goes forth through
+15\. The sun <span id="fr_170"></span>[1](#fn_168.md) goes forth through
 this fourth gate, and sets in it, and turns to the fifth gate during
 thirty days; after which it proceeds from, and sets in, the fifth gate.
 
@@ -757,11 +757,11 @@ the second gate in the west; but returns to the east, *proceeding* by
 the first gate, for thirty-one days.
 
 32\. And sets in the west in the first <span
-id="fr_171"></span>[1](#fn_169) gate.
+id="fr_171"></span>[1](#fn_169.md) gate.
 
 33\. At that period the night is lengthened as much again as the day.
 
-34\. It is twelve <span id="fr_172"></span>[2](#fn_170) parts precisely,
+34\. It is twelve <span id="fr_172"></span>[2](#fn_170.md) parts precisely,
 while the day is six parts.
 
 35\. The sun has *thus* completed its beginnings, and a second time goes
@@ -783,7 +783,7 @@ length a fourth part, that is, one portion, and becomes eleven parts.
 40\. It returns by these beginnings thirty days, rising and setting.
 
 41\. At that period the night is contracted in its length. It becomes
-ten <span id="fr_173"></span>[1](#fn_171) parts, and the day eight
+ten <span id="fr_173"></span>[1](#fn_171.md) parts, and the day eight
 parts. Then the sun goes from that second gate, and sets in the west;
 but returns to the east, and rises in the east, in the third gate,
 thirty-one days, setting in the west of heaven.
@@ -797,11 +797,11 @@ day and night, are made to differ from each other by the progress of the
 sun.
 
 44\. By means of this progress the day is daily lengthened, and the
-night greatly shortened. <span id="fr_174"></span>[2](#fn_172)
+night greatly shortened. <span id="fr_174"></span>[2](#fn_172.md)
 
 45\. This is the law and progress of the sun, and its turning when it
 turns back, turning during sixty days, <span
-id="fr_175"></span>[3](#fn_173) and going forth. This is the great
+id="fr_175"></span>[3](#fn_173.md) and going forth. This is the great
 everlasting
 
 <span id="page_98">p. 98</span>
@@ -817,7 +817,7 @@ portion of light from the moon; but the dimensions of both are equal.
 
 <span class="margnote"><span id="an_LXXII">LXXII</span></span>
 
-### CHAP. LXXII. \[SECT. XIV. <span id="fr_176"></span>[1](#fn_174)\]
+### CHAP. LXXII. \[SECT. XIV. <span id="fr_176"></span>[1](#fn_174.md)\]
 
 1\. After this law I beheld another law of an inferior luminary, the
 name of which is the moon, and the orb of which is as the orb of heaven.
@@ -848,7 +848,7 @@ portion, and by the half *of a portion*. It sets with the sun.
 portion of light.
 
 8\. On that night, when it commences its period, <span
-id="fr_177"></span>[1](#fn_175) previously to the day of the month, the
+id="fr_177"></span>[1](#fn_175.md) previously to the day of the month, the
 moon sets with the sun.
 
 9\. And on that night it is dark *in* its fourteen portions, that is,
@@ -856,7 +856,7 @@ moon sets with the sun.
 precisely, and in its progress declines from the rising of the sun.
 
 10\. During the remainder of its period <span
-id="fr_178"></span>[2](#fn_176) its light increases to fourteen
+id="fr_178"></span>[2](#fn_176.md) its light increases to fourteen
 portions.
 
 <span class="margnote"><span id="an_LXXIII">LXXIII</span></span>
@@ -864,7 +864,7 @@ portions.
 ### CHAP. LXXIII.
 
 1\. Then I saw another progress and regulation which He effected in the
-law of the moon. <span id="fr_179"></span>[3](#fn_177) The progress of
+law of the moon. <span id="fr_179"></span>[3](#fn_177.md) The progress of
 the moons, and everything *relating to them*, Uriel showed me, the holy
 angel who conducted them all.
 
@@ -999,7 +999,7 @@ set. One of these is greater than all, which goes round the whole world.
 
 <span class="margnote"><span id="an_LXXV">LXXV</span></span>
 
-### CHAP. LXXV. \[SECT. XV. <span id="fr_180"></span>[1](#fn_178)\]
+### CHAP. LXXV. \[SECT. XV. <span id="fr_180"></span>[1](#fn_178.md)\]
 
 1\. And at the extremities of the earth I beheld twelve gates open for
 all the winds, from which they proceed and blow over the earth.
@@ -1037,11 +1037,11 @@ and destruction.
 
 9\. After these are the winds to the north, which is called the sea.
 *They proceed* from three gates. The first <span
-id="fr_181"></span>[1](#fn_179) gate *is that* which is on the east,
+id="fr_181"></span>[1](#fn_179.md) gate *is that* which is on the east,
 inclining southwards; from this proceed dew, rain, blight, and
 destruction. From the middle direct gate proceed rain, dew, life, and
 health. And from the third gate, which is westwards, inclining towards
-the south, <span id="fr_182"></span>[2](#fn_180) proceed mist, frost,
+the south, <span id="fr_182"></span>[2](#fn_180.md) proceed mist, frost,
 snow, rain, dew, and blight.
 
 10\. After these *in the* fourth *quarter* are the winds to the west.
@@ -1200,12 +1200,12 @@ the sixth gate; for in that sixth gate is its light consumed.
 3\. From this is the beginning of the month; and its decrease is
 effected in the sixth gate in its period, until a hundred and
 seventy-seven days are completed; according to the mode of computation
-by weeks, <span id="fr_183"></span>[1](#fn_181) twenty-five *weeks* and
+by weeks, <span id="fr_183"></span>[1](#fn_181.md) twenty-five *weeks* and
 two days.
 
 4\. *Its period* is less than that of the sun, according to the
 ordinance of the stars, by five days in one half year <span
-id="fr_184"></span>[2](#fn_182) precisely.
+id="fr_184"></span>[2](#fn_182.md) precisely.
 
 5\. When that *their* visible situation is completed. Such is the
 appearance and likeness of every luminary, which Thiel, the great angel
@@ -1260,7 +1260,7 @@ destroyed.
 ### CHAP. LXXX.
 
 1\. He said, O Enoch, look on the book which heaven has gradually
-dropped down; <span id="fr_185"></span>[1](#fn_183) and, reading that
+dropped down; <span id="fr_185"></span>[1](#fn_183.md) and, reading that
 which is written in it, understand every part of it.
 
 2\. Then I looked on all which was written, and understood all, reading
@@ -1311,143 +1311,143 @@ the wicked.
 
 ### Footnotes
 
-<span id="fn_129"></span>[74:1](bep05.htm#fr_131) *was concealed*.
+<span id="fn_129"></span>[74:1](bep05.htm#fr_131.md) *was concealed*.
 
-<span id="fn_130"></span>[74:2](bep05.htm#fr_132) *be added to their
+<span id="fn_130"></span>[74:2](bep05.htm#fr_132.md) *be added to their
 faces*.
 
-<span id="fn_131"></span>[75:1](bep05.htm#fr_133) *be drunk from them*.
+<span id="fn_131"></span>[75:1](bep05.htm#fr_133.md) *be drunk from them*.
 
-<span id="fn_132"></span>[75:2](bep05.htm#fr_134) *punishment*.
+<span id="fn_132"></span>[75:2](bep05.htm#fr_134.md) *punishment*.
 
-<span id="fn_133"></span>[78:1](bep05.htm#fr_135) Chapters
-[lxiv](bep05.htm#an_LXIV). [lxv](bep05.htm#an_LXV).
-[lxvi](bep05.htm#an_LXVI). and the first verse of
-[lxvii](bep05.htm#an_LXVII). evidently contain a vision of Noah, and not
+<span id="fn_133"></span>[78:1](bep05.htm#fr_135.md) Chapters
+[lxiv](bep05.htm#an_LXIV). [lxv](bep05.htm#an_LXV.md).
+[lxvi](bep05.htm#an_LXVI.md). and the first verse of
+[lxvii](bep05.htm#an_LXVII.md). evidently contain a vision of Noah, and not
 of Enoch.
 
-<span id="fn_134"></span>[78:2](bep05.htm#fr_136) *their end may be*.
+<span id="fn_134"></span>[78:2](bep05.htm#fr_136.md) *their end may be*.
 
-<span id="fn_135"></span>[78:3](bep05.htm#fr_137) *the Satans*.
+<span id="fn_135"></span>[78:3](bep05.htm#fr_137.md) *the Satans*.
 
-<span id="fn_136"></span>[79:1](bep05.htm#fr_138) *for kings, and for
+<span id="fn_136"></span>[79:1](bep05.htm#fr_138.md) *for kings, and for
 great glory*.
 
-<span id="fn_137"></span>[79:2](bep05.htm#fr_139) *shall go forth a
+<span id="fn_137"></span>[79:2](bep05.htm#fr_139.md) *shall go forth a
 spring of*.
 
-<span id="fn_138"></span>[80:1](bep05.htm#fr_140) *the power of water*.
+<span id="fn_138"></span>[80:1](bep05.htm#fr_140.md) *the power of water*.
 
-<span id="fn_139"></span>[80:2](bep05.htm#fr_141) *was with me*.
+<span id="fn_139"></span>[80:2](bep05.htm#fr_141.md) *was with me*.
 
-<span id="fn_140"></span>[80:3](bep05.htm#fr_142) *portion*.
+<span id="fn_140"></span>[80:3](bep05.htm#fr_142.md) *portion*.
 
-<span id="fn_141"></span>[80:4](bep05.htm#fr_143) *fault*.
+<span id="fn_141"></span>[80:4](bep05.htm#fr_143.md) *fault*.
 
-<span id="fn_142"></span>[80:5](bep05.htm#fr_144) *of love*.
+<span id="fn_142"></span>[80:5](bep05.htm#fr_144.md) *of love*.
 
-<span id="fn_143"></span>[80:6](bep05.htm#fr_145) *be*.
+<span id="fn_143"></span>[80:6](bep05.htm#fr_145.md) *be*.
 
-<span id="fn_144"></span>[80:7](bep05.htm#fr_146) *shall enter*.
+<span id="fn_144"></span>[80:7](bep05.htm#fr_146.md) *shall enter*.
 
-<span id="fn_145"></span>[81:1](bep05.htm#fr_147) *troubled them*.
+<span id="fn_145"></span>[81:1](bep05.htm#fr_147.md) *troubled them*.
 
-<span id="fn_146"></span>[81:2](bep05.htm#fr_148) *went*.
+<span id="fn_146"></span>[81:2](bep05.htm#fr_148.md) *went*.
 
-<span id="fn_147"></span>[81:3](bep05.htm#fr_149) *sport*.
+<span id="fn_147"></span>[81:3](bep05.htm#fr_149.md) *sport*.
 
-<span id="fn_148"></span>[82:1](bep05.htm#fr_150) *sport of their
+<span id="fn_148"></span>[82:1](bep05.htm#fr_150.md) *sport of their
 bodies*.
 
-<span id="fn_149"></span>[82:2](bep05.htm#fr_151) *its waters*.
+<span id="fn_149"></span>[82:2](bep05.htm#fr_151.md) *its waters*.
 
-<span id="fn_150"></span>[83:1](bep05.htm#fr_152) *the signs*.
+<span id="fn_150"></span>[83:1](bep05.htm#fr_152.md) *the signs*.
 
-<span id="fn_151"></span>[83:2](bep05.htm#fr_153) *irritates* or
+<span id="fn_151"></span>[83:2](bep05.htm#fr_153.md) *irritates* or
 *excites me*.
 
-<span id="fn_152"></span>[83:3](bep05.htm#fr_154) *and not be melted in
+<span id="fn_152"></span>[83:3](bep05.htm#fr_154.md) *and not be melted in
 the presence of it*.
 
-<span id="fn_153"></span>[84:1](bep05.htm#fr_155) *in the similitude of,
+<span id="fn_153"></span>[84:1](bep05.htm#fr_155.md) *in the similitude of,
 or, as the Lord*.
 
-<span id="fn_154"></span>[86:1](bep05.htm#fr_156) *eats*, *feeds upon*,
+<span id="fn_154"></span>[86:1](bep05.htm#fr_156.md) *eats*, *feeds upon*,
 *devours*.
 
-<span id="fn_155"></span>[86:2](bep05.htm#fr_157) *male*.
+<span id="fn_155"></span>[86:2](bep05.htm#fr_157.md) *male*.
 
-<span id="fn_156"></span>[86:3](bep05.htm#fr_158) *by the hands*.
+<span id="fn_156"></span>[86:3](bep05.htm#fr_158.md) *by the hands*.
 
-<span id="fn_157"></span>[87:1](bep05.htm#fr_159) or *spirits*.
+<span id="fn_157"></span>[87:1](bep05.htm#fr_159.md) or *spirits*.
 
-<span id="fn_158"></span>[89:1](bep05.htm#fr_160) Paris MS.
+<span id="fn_158"></span>[89:1](bep05.htm#fr_160.md) Paris MS.
 
-<span id="fn_159"></span>[89:2](bep05.htm#fr_161) *the name of him
+<span id="fn_159"></span>[89:2](bep05.htm#fr_161.md) *the name of him
 living with him, of this Son of man, living with the Lord of spirits*.
 
-<span id="fn_160"></span>[89:3](bep05.htm#fr_162) *to measure me a
+<span id="fn_160"></span>[89:3](bep05.htm#fr_162.md) *to measure me a
 place*.
 
-<span id="fn_161"></span>[90:1](bep05.htm#fr_163) *that in it* there was
+<span id="fn_161"></span>[90:1](bep05.htm#fr_163.md) *that in it* there was
 *that which was built with stones of ice*.
 
-<span id="fn_162"></span>[90:2](bep05.htm#fr_164) *tongues*.
+<span id="fn_162"></span>[90:2](bep05.htm#fr_164.md) *tongues*.
 
-<span id="fn_163"></span>[90:3](bep05.htm#fr_165) *around that which
+<span id="fn_163"></span>[90:3](bep05.htm#fr_165.md) *around that which
 encompassed*.
 
-<span id="fn_164"></span>[91:1](bep05.htm#fr_166) *he shall call to thee
+<span id="fn_164"></span>[91:1](bep05.htm#fr_166.md) *he shall call to thee
 peace*.
 
-<span id="fn_165"></span>[92:1](bep05.htm#fr_167) *his upright path
+<span id="fn_165"></span>[92:1](bep05.htm#fr_167.md) *his upright path
 shall be to the righteous*.
 
-<span id="fn_166"></span>[92:2](bep05.htm#fr_168) Paris MS.
+<span id="fn_166"></span>[92:2](bep05.htm#fr_168.md) Paris MS.
 
-<span id="fn_167"></span>[92:3](bep05.htm#fr_169) *the places of their
+<span id="fn_167"></span>[92:3](bep05.htm#fr_169.md) *the places of their
 nativity*.
 
-<span id="fn_168"></span>[94:1](bep05.htm#fr_170) *And he*.
+<span id="fn_168"></span>[94:1](bep05.htm#fr_170.md) *And he*.
 
-<span id="fn_169"></span>[96:1](bep05.htm#fr_171) *second*. A manifest
+<span id="fn_169"></span>[96:1](bep05.htm#fr_171.md) *second*. A manifest
 error. The Paris MS. is correct.
 
-<span id="fn_170"></span>[96:2](bep05.htm#fr_172) *eleven*. A mistake of
+<span id="fn_170"></span>[96:2](bep05.htm#fr_172.md) *eleven*. A mistake of
 the transcriber. In the Paris MS. it is *twelve*.
 
-<span id="fn_171"></span>[97:1](bep05.htm#fr_173) *seven*. Another
+<span id="fn_171"></span>[97:1](bep05.htm#fr_173.md) *seven*. Another
 error.
 
-<span id="fn_172"></span>[97:2](bep05.htm#fr_174) *approaches*.
+<span id="fn_172"></span>[97:2](bep05.htm#fr_174.md) *approaches*.
 
-<span id="fn_173"></span>[97:3](bep05.htm#fr_175) That is, it is sixty
+<span id="fn_173"></span>[97:3](bep05.htm#fr_175.md) That is, it is sixty
 days in the same gates, viz. thirty days twice every year.
 
-<span id="fn_174"></span>[98:1](bep05.htm#fr_176) Paris MS.
+<span id="fn_174"></span>[98:1](bep05.htm#fr_176.md) Paris MS.
 
-<span id="fn_175"></span>[99:1](bep05.htm#fr_177) *at the beginning of
+<span id="fn_175"></span>[99:1](bep05.htm#fr_177.md) *at the beginning of
 its morning, or day*.
 
-<span id="fn_176"></span>[99:2](bep05.htm#fr_178) *of its day*.
+<span id="fn_176"></span>[99:2](bep05.htm#fr_178.md) *of its day*.
 
-<span id="fn_177"></span>[99:3](bep05.htm#fr_179) *in that law*.
+<span id="fn_177"></span>[99:3](bep05.htm#fr_179.md) *in that law*.
 
-<span id="fn_178"></span>[104:1](bep05.htm#fr_180) Paris MS.
+<span id="fn_178"></span>[104:1](bep05.htm#fr_180.md) Paris MS.
 
-<span id="fn_179"></span>[105:1](bep05.htm#fr_181) *seventh*. Perhaps
+<span id="fn_179"></span>[105:1](bep05.htm#fr_181.md) *seventh*. Perhaps
 the seventh which had been enumerated.
 
-<span id="fn_180"></span>[105:2](bep05.htm#fr_182) *the north*. An error
+<span id="fn_180"></span>[105:2](bep05.htm#fr_182.md) *the north*. An error
 in both MSS.
 
-<span id="fn_181"></span>[110:1](bep05.htm#fr_183) *according to the
+<span id="fn_181"></span>[110:1](bep05.htm#fr_183.md) *according to the
 ordinance of the week*.
 
-<span id="fn_182"></span>[110:2](bep05.htm#fr_184) *in one time*.
+<span id="fn_182"></span>[110:2](bep05.htm#fr_184.md) *in one time*.
 
-<span id="fn_183"></span>[112:1](bep05.htm#fr_185) *has distilled*.
+<span id="fn_183"></span>[112:1](bep05.htm#fr_185.md) *has distilled*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters LXXXI-C](bep06)
+[Next: Chapters LXXXI-C](bep06.md)

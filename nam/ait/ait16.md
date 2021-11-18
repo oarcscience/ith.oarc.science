@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait15)  [Next](ait17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait15)  [Next](ait17.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![T](img/13500.jpg) |
+| ![T](img/13500.jpg.md) |
 
 URTLE-DOVE was a widow with two children—Yellow-bird, a girl eleven
 years of age, and Sage-cock, a baby boy. The girl was big, awkward and
@@ -145,4 +145,4 @@ succeeding his uncle, the Eagle, as a warrior and magician.
 
 ------------------------------------------------------------------------
 
-[Next: The Island of Skeletons](ait17)
+[Next: The Island of Skeletons](ait17.md)

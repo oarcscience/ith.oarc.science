@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr74) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr74.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 ### LETTER LXXV. (LXIX.)
 
-### SPINOZA TO LAMBERT VAN VELTHUYSEN (*Doctor of Medicine at Utrecht*.) <span id="fr_88"></span>[1](#fn_87)
+### SPINOZA TO LAMBERT VAN VELTHUYSEN (*Doctor of Medicine at Utrecht*.) <span id="fr_88"></span>[1](#fn_87.md)
 
 \[*Of the proposed annotation of the* "*Tractatus
 Theologico-Politicus*."\]
@@ -29,7 +29,7 @@ refutation of the various writings circulated against my
 
 <span id="page_420">p. 420</span>
 
-book, <span id="fr_89"></span>[1](#fn_88) and that among the works for
+book, <span id="fr_89"></span>[1](#fn_88.md) and that among the works for
 me to refute he places your MS. For I certainly have never entertained
 the intention of refuting any of my adversaries: they all seem to me
 utterly unworthy of being answered. I do not remember to have said to
@@ -75,10 +75,10 @@ CHISWICK PRESS: C. WHITTINGHAM AND CO., TOOKS COURT, CHANCERY LANE.
 
 ### Footnotes
 
-<span id="fn_87"></span>[419:1](corr75.htm#fr_88) See Letters XLVIII.,
+<span id="fn_87"></span>[419:1](corr75.htm#fr_88.md) See Letters XLVIII.,
 XLIX.
 
-<span id="fn_88"></span>[420:1](corr75.htm#fr_89) The "Tractatus
+<span id="fn_88"></span>[420:1](corr75.htm#fr_89.md) The "Tractatus
 Theologico-Politicus."
 
  

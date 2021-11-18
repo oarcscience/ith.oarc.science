@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc09)  [Next](moc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc09)  [Next](moc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -73,7 +73,7 @@ as the mysterious island referred to by Plato.
 
 NOTE: Schliemann's Atlantis bequest was a hoax, created for a Hearst
 newspaper. For more information, refer to [How I Found the Lost
-Atlantis, by Dr. Paul Schliemann](../../atl/hif/index).--*John Bruno
+Atlantis, by Dr. Paul Schliemann](../../atl/hif/index.md).--*John Bruno
 Hare*
 
 The Atlantis theory appealed as strongly to the great pioneer's
@@ -107,7 +107,7 @@ pre-Hellenic civilization, vowed to devote his life to the researches
 referred to in the sealed envelopes, and made himself acquainted with
 their contents. A few years later he contributed to certain newspapers
 in New York and London a signed statement, <span
-id="fr_120"></span>[1](#fn_120) in which he made a revelation of his
+id="fr_120"></span>[1](#fn_120.md) in which he made a revelation of his
 grandfather's last bequest.
 
 The first paper said:
@@ -168,7 +168,7 @@ Old World and the New. There can be little doubt, indeed, that such a
 land connection did obtain between Asia and Europe at a geologically
 recent date, and it is quite possible that there may have been a land
 bridge also between Europe and North America by way of the Faröe
-Islands. <span id="fr_121"></span>[1](#fn_121) Others have suggested the
+Islands. <span id="fr_121"></span>[1](#fn_121.md) Others have suggested the
 former existence of a land bridge further south. They suppose that the
 North Atlantic may have been dry land--traversed from west to east by a
 Mediterranean Sea--of which the existing Mediterranean and the Gulf of
@@ -180,7 +180,7 @@ But I know of no geological evidence that puts it beyond doubt that the
 Atlantic basin is the site of a drowned continent. On the contrary, such
 evidence as we have leads rather to the belief that the Atlantic basin,
 like that of the Pacific, is of primeval origin." <span
-id="fr_122"></span>[2](#fn_122)
+id="fr_122"></span>[2](#fn_122.md)
 
 That veteran geologist, Professor Edward Hull, takes a different view of
 the problem, and has written:
@@ -200,8 +200,8 @@ charts, would have reduced the depth of the ocean by so much and have
 extended the land areas to an extent which would have brought Atlantis
 within navigable distance of both continents for early inhabitants using
 canoes. We know from our investigations <span
-id="fr_123"></span>[1](#fn_123) that this elevation occurred during the
-post-tertiary period, <span id="fr_124"></span>[2](#fn_124) and at a
+id="fr_123"></span>[1](#fn_123.md) that this elevation occurred during the
+post-tertiary period, <span id="fr_124"></span>[2](#fn_124.md) and at a
 presumed date 9000 or 10,000 B.C. If we add 1000 years of our era, the
 question arises: Would not this lapse of time have been sufficient to
 account for the subsidence which the region in question underwent in
@@ -216,14 +216,14 @@ presumably the age of Atlantis."
 Dr. Scharff, Director of the Natural History Museum, Dublin, is also a
 believer in the "Lost Atlantis". He has been led to the conclusion, in
 his studies of the migrations of animals between the continents of
-America and Europe, <span id="fr_125"></span>[3](#fn_125) that a land
+America and Europe, <span id="fr_125"></span>[3](#fn_125.md) that a land
 bridge once crossed the Atlantic Ocean between Southern Europe and the
 West Indies. "It probably became disconnected". he says, "in Miocene
 times. Since then this land once more became united with our continent,
 and may not have been finally severed until the Pleistocene period.
 United with the West Indies and Central America in early Tertiary times,
 it probably subsided partly during the Oligocene period <span
-id="fr_126"></span>[4](#fn_126) and later, leaving only a few isolated
+id="fr_126"></span>[4](#fn_126.md) and later, leaving only a few isolated
 peaks as islands in the midst of the vast ocean which has since replaced
 it."
 
@@ -272,14 +272,14 @@ utilize metal until a considerable period after bronze had been
 supplanted by iron in Europe. "Most students of American archaeology are
 agreed that the Mexican and Peruvian bronzes are not of any great
 antiquity, and that the Bronze Age must have been over in China long
-before it began in the New World." <span id="fr_127"></span>[1](#fn_127)
+before it began in the New World." <span id="fr_127"></span>[1](#fn_127.md)
 
 In Dr. Heinrich Schliemann's day the antiquity of Central American
 civilization was greatly exaggerated. We now know that the Maya did not
 develop their culture on the Mexican plateau much before the eighth
 century of the Christian era, and that the Aztecs arrived about 1200
 A.D.; the later Mexican confederacy had flourished for only a century
-before it was shattered by Cortez. <span id="fr_128"></span>[2](#fn_128)
+before it was shattered by Cortez. <span id="fr_128"></span>[2](#fn_128.md)
 Most of the resemblances which have been noted between the Egyptian and
 Central American civilizations are of a superficial character.
 
@@ -327,12 +327,12 @@ race was at once merged under the earth; and the Atlantic island itself
 was plunged beneath the sea and entirely disappeared; whence even now
 that sea is neither navigable nor to be traced out, being blocked up by
 the great depth of mud which the subsiding island produced." <span
-id="fr_129"></span>[1](#fn_129)
+id="fr_129"></span>[1](#fn_129.md)
 
 <span id="page_106">p. 106</span>
 
 An anonymous contributor to the *Times* <span
-id="fr_130"></span>[1](#fn_130) was the first to draw attention to the
+id="fr_130"></span>[1](#fn_130.md) was the first to draw attention to the
 remarkable resemblance between Plato's Atlantis and the island of Crete.
 His theory that the Egyptian priest's legend was based on traditions
 regarding Cretan sea-power and the raids of piratical bands on the
@@ -355,7 +355,7 @@ Crete, as of Atlantis, that "there was a passage hence for travellers of
 that day to the rest of the islands, as well as from those islands to
 the whole opposite continent".
 
-In the Critias <span id="fr_131"></span>[2](#fn_131) Plato says of
+In the Critias <span id="fr_131"></span>[2](#fn_131.md) Plato says of
 Atlantis:
 
 "The whole region was said to be exceedingly lofty and precipitous
@@ -415,7 +415,7 @@ without the aid of weapons. Plato says of Atlantis in this connection:
 men only of the whole number, after invoking the god to receive their
 sacrifice propitiously, went out to hunt swordless, with staves and
 chains, and whichever of the bulls they took, they brought it to the
-column and slaughtered it." <span id="fr_132"></span>[1](#fn_132)
+column and slaughtered it." <span id="fr_132"></span>[1](#fn_132.md)
 
 Plato's legend used to be regarded by European scholars as "wholly
 mythical". It would now appear, however, that it had a genuine
@@ -451,7 +451,7 @@ to the mythical", as Thucydides says in another connection.
 Plato had no idea that Crete was so "old in story and that its ancient
 inhabitants were the pioneers of civilization in Europe, although he may
 have believed, like Herodotus, that the island was at one time "wholly
-peopled with barbarians" <span id="fr_133"></span>[1](#fn_133)
+peopled with barbarians" <span id="fr_133"></span>[1](#fn_133.md)
 (non-Hellenic folk). He had even less knowledge of the Atlantic Ocean,
 otherwise he could not have believed that navigation beyond the Pillars
 of Hercules was hampered by the mud-banks which marked the site of the
@@ -460,7 +460,7 @@ of Hercules was hampered by the mud-banks which marked the site of the
 It is possible that the Egyptian legend was influenced by the ancient
 folk-tale, "The Shipwrecked Sailor". This hero sojourned on an island
 which afterwards vanished in the midst of the sea. <span
-id="fr_134"></span>[2](#fn_134)Or, perhaps, some Egyptian navigator, who
+id="fr_134"></span>[2](#fn_134.md)Or, perhaps, some Egyptian navigator, who
 set out on a voyage to Crete, at a period subsequent to the fall of
 Knossos, went off his course and got into trouble with sand-banks. On
 his return home he may have told as marvellous a story as the
@@ -471,7 +471,7 @@ The priest of Sais appears also to have mingled with his legend of
 Atlantis information derived from traditions and records regarding the
 settlement of Europeans on the North African coast, and the sea-raids
 during the reigns of Meneptah and Rameses III, <span
-id="fr_135"></span>[3](#fn_135) when, as one Egyptian
+id="fr_135"></span>[3](#fn_135.md) when, as one Egyptian
 
 <span id="page_110">p. 110</span>
 
@@ -479,7 +479,7 @@ record sets forth, "the isles were restless, disturbed among
 themselves". Certain tribes from these isles, who had established
 themselves in Libya, actually provided mercenaries for the army and
 fleet of Rameses III to drive back the "late comers". <span
-id="fr_136"></span>[1](#fn_136) As Plato says of the conquerors from
+id="fr_136"></span>[1](#fn_136.md) As Plato says of the conquerors from
 Atlantis, they had "subjected to their rule the inland parts of Libya,
 as far as Egypt".
 
@@ -491,9 +491,9 @@ his mind regarding the real significance of the Græco-Egyptian myth.
 The poets and historians of ancient Greece had preserved several
 suggestive legends regarding Crete. They had much to say regarding its
 King Minos, who flourished before the Trojan war. According to
-Strabo <span id="fr_137"></span>[2](#fn_137) he resided at Knossos, and
+Strabo <span id="fr_137"></span>[2](#fn_137.md) he resided at Knossos, and
 made just laws which were afterwards borrowed by the Greeks.
-Thucydides <span id="fr_138"></span>[3](#fn_138) states that he was the
+Thucydides <span id="fr_138"></span>[3](#fn_138.md) states that he was the
 first to have a navy, and that he cleared the Ægean of pirates. The poet
 of the Odyssey says:
 
@@ -503,7 +503,7 @@ She boasts unnumbered men and ninety towns . . .
 One city in extent the rest exceeds,  
 Knossos; the city in which Minos reigned--  
 The King who 'gan to reign in his ninth year  
-And converse held with Zeus. <span id="fr_139"></span>[4](#fn_139)
+And converse held with Zeus. <span id="fr_139"></span>[4](#fn_139.md)
 
 Minos was fabled to be the son of Zeus by a human mother, the beautiful
 Europé, daughter of Agenor, King of Phœnicia. The legend sets forth that
@@ -525,13 +525,13 @@ loch. Sometimes the "water-horse" makes love in human form.
 
 Herodotus states that "certain Greeks, who would probably be Cretans,
 made a landing at Tyre, on the Phœnician coast, and bore off the King's
-daughter, Europé" <span id="fr_140"></span>[1](#fn_140) He suggested
+daughter, Europé" <span id="fr_140"></span>[1](#fn_140.md) He suggested
 that Europe may have been so called after the Tyrian princess, and had
-been nameless before her time. <span id="fr_141"></span>[2](#fn_141)
+been nameless before her time. <span id="fr_141"></span>[2](#fn_141.md)
 
 Minos was supposed to have received his code of laws from his father
 Zeus, whom he visited in his cave on Mount Ida while the people were
-assembled round its base. <span id="fr_142"></span>[3](#fn_142) When he
+assembled round its base. <span id="fr_142"></span>[3](#fn_142.md) When he
 died he became, like the Egyptian Osiris, a judge in Hades. Ulysses
 related in the Odyssey, in the account of his visit to the land of
 shades:
@@ -541,7 +541,7 @@ His golden sceptre in his hand, he sat
 Judge of the dead; they pleading, each in turn,  
 His cause, some stood, some sat, filling the house,  
 Whose spacious folding gates were never closed. <span
-id="fr_143"></span>[4](#fn_143)
+id="fr_143"></span>[4](#fn_143.md)
 
 It was related of Minos--the later king of that name--that his
 succession to the Cretan throne was disputed.
@@ -559,7 +559,7 @@ bull and half man, called the Minotaur.
 
 It was necessary to build a special residence for the Minotaur, to whom
 sacrificial offerings had to be made. Minos accordingly employed
-Dædalus, <span id="fr_144"></span>[1](#fn_144) a skilled Athenian
+Dædalus, <span id="fr_144"></span>[1](#fn_144.md) a skilled Athenian
 artificer, on his return from Egypt, to construct a labyrinth at
 Knossos, similar to the one situated near Lake Mœris. When the work was
 accomplished Minos had Dædalus confined in the Labyrinth, but he was
@@ -569,13 +569,13 @@ so near the sun that the wax with which his wings were fastened to his
 body melted, and he fell into the Icarian Sea, to which his name was
 given. Dædalus alighted without mishap at Cumæ in Italy, where he
 erected a temple to Apollo, to whom he dedicated his wings. <span
-id="fr_145"></span>[2](#fn_145)
+id="fr_145"></span>[2](#fn_145.md)
 
 Icarus thus met a similar fate to Etana, of Babylonian fame, Nimrod in
 the Koran legend, and the son of the eagle giant Garuda, in the Indian
 epic *Ramayana*. Etana and Nimrod ascended on the backs of eagles, whose
 pinions were burnt by the sun. The Indian eagle was similarly punished
-for its presumption. <span id="fr_146"></span>[3](#fn_146)
+for its presumption. <span id="fr_146"></span>[3](#fn_146.md)
 
 Dædalus afterwards took refuge in Sicani (Sicily), where Cocalus was
 king. Minos fitted out a great
@@ -584,7 +584,7 @@ king. Minos fitted out a great
 
 <span id="img_11200"></span> ![](img/11200.jpg)
 
-THE THRONE OF MINOS, KNOSSOS (See description, page [p. 112](#page_112))
+THE THRONE OF MINOS, KNOSSOS (See description, page [p. 112](#page_112).md)
 
  
 
@@ -608,12 +608,12 @@ But at length the hero, Theseus,
 For his dear Athens, which he loved so well,  
 So that funereal ship might sail no more  
 Freighted with living death to Creta's shore. <span
-id="fr_147"></span>[1](#fn_147)
+id="fr_147"></span>[1](#fn_147.md)
 
 In the third year he sailed with the sons and daughters of the noblest
 families in Athens. On his arrival in Crete he was informed that he must
 enter the Labyrinth naked and alone, and there be devoured by the
-Minotaur. <span id="fr_148"></span>[2](#fn_148) He invoked the goddess
+Minotaur. <span id="fr_148"></span>[2](#fn_148.md) He invoked the goddess
 Aphrodite, who caused a beautiful Cretan maiden to fall in love with
 him. This was Ariadne, daughter of Minos. She secretly gave Theseus a
 magic sword to slay the Minotaur, and a clue: of thread, with the aid of
@@ -634,8 +634,8 @@ being the course followed by the moon.
 
 Hesiod, Homer, Thucydides, and Herodotus make reference to only one
 Minos, the son of Zeus, the great lawgiver. But Diodorus <span
-id="fr_149"></span>[1](#fn_149) and Plutarch <span
-id="fr_150"></span>[2](#fn_150) tell of a second Minos, who was the
+id="fr_149"></span>[1](#fn_149.md) and Plutarch <span
+id="fr_150"></span>[2](#fn_150.md) tell of a second Minos, who was the
 oppressor of the Athenians and the king who obtained the bull from
 Poseidon. Certain archæologists are of opinion that Minos was not a
 personal name, but a royal title which was used as is Pharaoh n the
@@ -653,91 +653,91 @@ regard the results obtained exceeded the most sanguine expectations.
 
 ### Footnotes
 
-<span id="fn_120"></span>[99:1](moc10.htm#fr_120) It appeared in the
+<span id="fn_120"></span>[99:1](moc10.htm#fr_120.md) It appeared in the
 London Budget (which has since ceased to exist) on 17th November, 1912.
 
-<span id="fn_121"></span>[101:1](moc10.htm#fr_121) See Chapter I.
+<span id="fn_121"></span>[101:1](moc10.htm#fr_121.md) See Chapter I.
 
-<span id="fn_122"></span>[101:2](moc10.htm#fr_122) *London Budget*, 8th
+<span id="fn_122"></span>[101:2](moc10.htm#fr_122.md) *London Budget*, 8th
 December, 1912. See also Geikie's *The Deeps of the Pacific Ocean and
 their Origin*, *The Great Sea Age*, *Prehistoric Europe*, and *The
 Antiquity of Man in Europe*.
 
-<span id="fn_123"></span>[102:1](moc10.htm#fr_123) Professor Hull and
+<span id="fn_123"></span>[102:1](moc10.htm#fr_123.md) Professor Hull and
 Professor J. W. Spencer in *Sub-Oceanic Physiography of the North
 Atlantic Ocean* (London, 1912), and Professor Hull in *London Budget*,
 1st December, 1912.
 
-<span id="fn_124"></span>[102:2](moc10.htm#fr_124) *During the
+<span id="fn_124"></span>[102:2](moc10.htm#fr_124.md) *During the
 Pleistocene Age*.
 
-<span id="fn_125"></span>[102:3](moc10.htm#fr_125) *Distribution and
+<span id="fn_125"></span>[102:3](moc10.htm#fr_125.md) *Distribution and
 Origin of Life in America*.
 
-<span id="fn_126"></span>[102:4](moc10.htm#fr_126) A vast
+<span id="fn_126"></span>[102:4](moc10.htm#fr_126.md) A vast
 interval--perhaps millions of years--separated the Oligocene period from
 even the earliest culture stages of Pleistocene times.
 
-<span id="fn_127"></span>[104:1](moc10.htm#fr_127) *British Museum Guide
+<span id="fn_127"></span>[104:1](moc10.htm#fr_127.md) *British Museum Guide
 to the Antiquities of the Bronze Age*, pp. 110, 111.
 
-<span id="fn_128"></span>[104:2](moc10.htm#fr_128) *Through Southern
+<span id="fn_128"></span>[104:2](moc10.htm#fr_128.md) *Through Southern
 Mexico*, H. Gadow (1908), and *Bureau of American Ethnology*, E.
 Forstemann, Bull. 28 (1904).
 
-<span id="fn_129"></span>[105:1](moc10.htm#fr_129) The *Timæus*, Section
+<span id="fn_129"></span>[105:1](moc10.htm#fr_129.md) The *Timæus*, Section
 VI.
 
-<span id="fn_130"></span>[106:1](moc10.htm#fr_130) 19th February, 1909.
+<span id="fn_130"></span>[106:1](moc10.htm#fr_130.md) 19th February, 1909.
 
-<span id="fn_131"></span>[106:2](moc10.htm#fr_131) Section XIII.
+<span id="fn_131"></span>[106:2](moc10.htm#fr_131.md) Section XIII.
 
-<span id="fn_132"></span>[108:1](moc10.htm#fr_132) *The Critias*,
+<span id="fn_132"></span>[108:1](moc10.htm#fr_132.md) *The Critias*,
 Section XV.
 
-<span id="fn_133"></span>[109:1](moc10.htm#fr_133) *Herod*., I, 173.
+<span id="fn_133"></span>[109:1](moc10.htm#fr_133.md) *Herod*., I, 173.
 
-<span id="fn_134"></span>[109:2](moc10.htm#fr_134) *Egyptian Myth and
+<span id="fn_134"></span>[109:2](moc10.htm#fr_134.md) *Egyptian Myth and
 Legend*, pp. 248-251.
 
-<span id="fn_135"></span>[109:3](moc10.htm#fr_135) *Ibid*., pp. 349-350.
+<span id="fn_135"></span>[109:3](moc10.htm#fr_135.md) *Ibid*., pp. 349-350.
 
-<span id="fn_136"></span>[110:1](moc10.htm#fr_136) Between 1200 and 1190
+<span id="fn_136"></span>[110:1](moc10.htm#fr_136.md) Between 1200 and 1190
 B.C.
 
-<span id="fn_137"></span>[110:2](moc10.htm#fr_137) *Strabo*, X.
+<span id="fn_137"></span>[110:2](moc10.htm#fr_137.md) *Strabo*, X.
 
-<span id="fn_138"></span>[110:3](moc10.htm#fr_138) *Thucydides*, I, 4.
+<span id="fn_138"></span>[110:3](moc10.htm#fr_138.md) *Thucydides*, I, 4.
 
-<span id="fn_139"></span>[110:4](moc10.htm#fr_139) *Odyssey*, XIX, 170
+<span id="fn_139"></span>[110:4](moc10.htm#fr_139.md) *Odyssey*, XIX, 170
 *et seq*.
 
-<span id="fn_140"></span>[111:1](moc10.htm#fr_140) *Herodotus*, I, 2.
+<span id="fn_140"></span>[111:1](moc10.htm#fr_140.md) *Herodotus*, I, 2.
 
-<span id="fn_141"></span>[111:2](moc10.htm#fr_141) *Ibid*., IV, 45.
+<span id="fn_141"></span>[111:2](moc10.htm#fr_141.md) *Ibid*., IV, 45.
 
-<span id="fn_142"></span>[111:3](moc10.htm#fr_142) *Strabo*, 476.
+<span id="fn_142"></span>[111:3](moc10.htm#fr_142.md) *Strabo*, 476.
 
-<span id="fn_143"></span>[111:4](moc10.htm#fr_143) *Odyssey*, Cowper's
+<span id="fn_143"></span>[111:4](moc10.htm#fr_143.md) *Odyssey*, Cowper's
 trans., XI, 696-700.
 
-<span id="fn_144"></span>[112:1](moc10.htm#fr_144) *Thucydides*, I, 4.
+<span id="fn_144"></span>[112:1](moc10.htm#fr_144.md) *Thucydides*, I, 4.
 
-<span id="fn_145"></span>[112:2](moc10.htm#fr_145) *Virgil*, Book VI.
+<span id="fn_145"></span>[112:2](moc10.htm#fr_145.md) *Virgil*, Book VI.
 
-<span id="fn_146"></span>[112:3](moc10.htm#fr_146) *Babylonian Myth and
+<span id="fn_146"></span>[112:3](moc10.htm#fr_146.md) *Babylonian Myth and
 Legend*, pp. 165 *et seq*.
 
-<span id="fn_147"></span>[113:1](moc10.htm#fr_147) *Catullus*, 64
+<span id="fn_147"></span>[113:1](moc10.htm#fr_147.md) *Catullus*, 64
 (Martin's translation).
 
-<span id="fn_148"></span>[113:2](moc10.htm#fr_148) *Classic Myth and
+<span id="fn_148"></span>[113:2](moc10.htm#fr_148.md) *Classic Myth and
 Legend*, pp. 182 *et seq*.
 
-<span id="fn_149"></span>[114:1](moc10.htm#fr_149) IV. 60.
+<span id="fn_149"></span>[114:1](moc10.htm#fr_149.md) IV. 60.
 
-<span id="fn_150"></span>[114:2](moc10.htm#fr_150) Theseus, 20.
+<span id="fn_150"></span>[114:2](moc10.htm#fr_150.md) Theseus, 20.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Great Palace of Knossos](moc11)
+[Next: Chapter VI. The Great Palace of Knossos](moc11.md)

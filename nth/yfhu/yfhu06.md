@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](yfhu05)  [Next](yfhu07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](yfhu05)  [Next](yfhu07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -339,4 +339,4 @@ act always as if every expectation were coming true*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Training the Subconscious For Special Results](yfhu07)
+[Next: Chapter V. Training the Subconscious For Special Results](yfhu07.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dav04)  [Next](zjo00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dav04)  [Next](zjo00.md) 
 
 ------------------------------------------------------------------------
 
@@ -268,4 +268,4 @@ God the Lord of the worlds.
 
 ------------------------------------------------------------------------
 
-[Next: Zacharias and John (PUT)](zjo00)
+[Next: Zacharias and John (PUT)](zjo00.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt49)  [Next](pyt51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt49)  [Next](pyt51.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ which he who passes by it fears;
 
 ------------------------------------------------------------------------
 
-[Next: 48. Texts of Miscellaneous Contents, Utterances 628-658](pyt51)
+[Next: 48. Texts of Miscellaneous Contents, Utterances 628-658](pyt51.md)

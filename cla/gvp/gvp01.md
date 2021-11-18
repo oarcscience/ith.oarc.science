@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gvp00)  [Next](gvp02) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gvp00)  [Next](gvp02.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ F. M. F.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](gvp02)
+[Next: Introduction](gvp02.md)

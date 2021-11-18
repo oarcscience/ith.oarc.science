@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil87)  [Next](egil89) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil87)  [Next](egil89.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ themselves into this cause, they have reaped therefrom due honour.'
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXXVIII. Of Thorgeir.](egil89)
+[Next: CHAPTER LXXXVIII. Of Thorgeir.](egil89.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](wott04)  [Next](wott06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](wott04)  [Next](wott06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of the Talmud*, by Ben Zion Bokser, \[1951\], at Intangible
 Textual Heritage
 
@@ -99,7 +99,7 @@ was not like other slaves," he explained; "he was a worthy man." "Let
 this be a token unto thee," he once exclaimed, "so long as thou art
 compassionate, God will show thee mercy; but if thou hast no compassion,
 God will show thee no mercy."<span
-id="an_r_03_1"></span>[1](wott11.htm#an_n_03_1)
+id="an_r_03_1"></span>[1](wott11.htm#an_n_03_1.md)
 
 We do not know the date of his death. Before his passing he left a will
 which was to convert even his burial into an important lesson for his
@@ -129,7 +129,7 @@ blood. Rabbi Joshua argued with those who were avoiding meat and wine in
 mourning for the destruction of the altar, by explaining that to be
 consistent they would have to renounce fruit, bread, and water as well,
 since they were also used upon the altar.<span
-id="an_r_03_2"></span>[2](wott11.htm#an_n_03_2)
+id="an_r_03_2"></span>[2](wott11.htm#an_n_03_2.md)
 
 The destruction of the Temple was a tragic blow to Judaism, but it was
 not to interfere with an active religious life. Pending the Temple's
@@ -175,7 +175,7 @@ prophets of old, they blamed their people's tragedies upon their own
 mistakes and failures. Jerusalem was destroyed because men hated one
 another, because her people were not united in the national crisis,
 because they permitted grave injustices to prevail in their midst.<span
-id="an_r_03_3"></span>[3](wott11.htm#an_n_03_3) Rome, like Assyria and
+id="an_r_03_3"></span>[3](wott11.htm#an_n_03_3.md) Rome, like Assyria and
 Babylonia of old, was only the rod of God's indignation, smiting and
 healing a sinful people. And the disaster itself pointed to the way of
 redemption. It was for them to repent. to purge themselves of their
@@ -200,7 +200,7 @@ exercise their
 
 own discretion and follow the particular school of thought that best
 expressed their own conception of right and wrong. "Although," the
-Mishnah relates<span id="an_r_03_4"></span>[4](wott11.htm#an_n_03_4),
+Mishnah relates<span id="an_r_03_4"></span>[4](wott11.htm#an_n_03_4.md),
 "one group permitted marriages which the other prohibited, and declared
 pure what the other considered impure, they freely intermarried and did
 not scruple to use each other's food." To signalize this tolerance, the
@@ -276,7 +276,7 @@ decision to him. Seated in mourning dress, at some distance from him,
 Akiba spoke: "My master, it appears to me that thy colleagues keep aloof
 from thee." Rabbi Eliezer understood the message, but remained
 unyielding to the end.<span
-id="an_r_03_5"></span>[5](wott11.htm#an_n_03_5)
+id="an_r_03_5"></span>[5](wott11.htm#an_n_03_5.md)
 
 Rabbi Eliezer felt his isolation most keenly. The terms of his
 excommunication apparently left him free to continue teaching in his
@@ -294,7 +294,7 @@ due to your colleagues as about the respect due to yourselves—and do not
 permit yourselves to become easily provoked to anger"; "Warm yourselves
 before the hearths of scholars, but see that you are not burnt, for when
 they bite, it is the bite of a fox, and when they sting, it is the sting
-of a scorpion."<span id="an_r_03_6"></span>[6](wott11.htm#an_n_03_6)
+of a scorpion."<span id="an_r_03_6"></span>[6](wott11.htm#an_n_03_6.md)
 
 Rabbi Eliezer was not reconciled with his colleagues until his dying
 moments. Rabbi Joshua, Rabbi Akiba, and a number of other scholars,
@@ -318,7 +318,7 @@ been between them. Rabbi Akiba applied the verse spoken by Elisha at the
 passing of Elijah (II Kings 2:12): "My father, my father, the chariots
 of Israel and the horsemen thereof." A great but turbulent personality
 had passed from Israel.<span
-id="an_r_03_7"></span>[7](wott11.htm#an_n_03_7)
+id="an_r_03_7"></span>[7](wott11.htm#an_n_03_7.md)
 
 There were similar rifts between Rabbi Joshua and the patriarch Rabban
 Gamaliel II. Exercising his prerogatives as *nasi* to arrange the
@@ -354,7 +354,7 @@ Joshua finally obeyed. The patriarch was overjoyed at this recognition
 of his authority, and exultantly greeted him: "Peace on thee, my master
 and my disciple; my master in learning, and my disciple in acknowledging
 the authority of my office."<span
-id="an_r_03_8"></span>[8](wott11.htm#an_n_03_8)
+id="an_r_03_8"></span>[8](wott11.htm#an_n_03_8.md)
 
 On another occasion, Rabbi Joshua and the patriarch clashed over a
 question of ritual procedure. Rabban Gamaliel ruled religious worship in
@@ -393,7 +393,7 @@ discourtesy. A reconciliation followed and Rabban Gamaliel was finally
 reinstated, but since Rabbi Eleazar had held the high office, he was to
 share some of the prerogatives of the office with Rabban Gamaliel. Thus
 he was to deliver the public lecture on the Sabbath every third
-week.<span id="an_r_03_9"></span>[9](wott11.htm#an_n_03_9)
+week.<span id="an_r_03_9"></span>[9](wott11.htm#an_n_03_9.md)
 
 #### REBELLION RENEWED
 
@@ -495,14 +495,14 @@ precious metals in the world were offered me, I would not live but in an
 atmosphere of Torah," saw in the repeated successes of Rome the evidence
 of divine favor. Rome was apparently invincible and it was folly to
 resist the sweep of the future.<span
-id="an_r_03_10"></span>[10](wott11.htm#an_n_03_10)
+id="an_r_03_10"></span>[10](wott11.htm#an_n_03_10.md)
 
 But there were others, of sterner stuff, who did not lose themselves in
 the crisis. Rabbis Akiba, Tarfon, and Jose the Galilean held a secret
 conclave and issued a joint statement to their people, urging them
 generally to comply with Roman edicts but to resist unto death any
 orders involving the commission of idolatry, murder, or unchastity.<span
-id="an_r_03_11"></span>[11](wott11.htm#an_n_03_11) And a company of
+id="an_r_03_11"></span>[11](wott11.htm#an_n_03_11.md) And a company of
 distinguished teachers openly defied the Roman police by continuing to
 meet with their students for the study of Torah. Their attitude was best
 summarized in Akiba's famous parable of the fishes and the fox. Warned
@@ -513,7 +513,7 @@ which is our normal habitat hold out no safety, what will happen to us
 on the dry land which is not our habitat?" "So, too," expounded Akiba,
 "if our existence is precarious when we persist in the study of Torah,
 how shall we survive if we abandon it?"<span
-id="an_r_03_12"></span>[12](wott11.htm#an_n_03_12)
+id="an_r_03_12"></span>[12](wott11.htm#an_n_03_12.md)
 
 The forebodings came true soon enough. The Romans unleashed a reign of
 terror against the obdurate Jews; many were imprisoned, banished or sold
@@ -537,7 +537,7 @@ death. According to tradition, they executed him by tearing the flesh
 from his living body. Rabbi Akiba remained steadfast to the very last,
 expiring with a resolute confession of his outlawed faith: "Hear, O
 Israel, the Lord our God, the Lord is One."<span
-id="an_r_03_13"></span>[13](wott11.htm#an_n_03_13)
+id="an_r_03_13"></span>[13](wott11.htm#an_n_03_13.md)
 
 Akiba's work was immediately taken up by Rabbi Judah ben Baba. Gathering
 Akiba's five most gifted disciples, Meir, Judah ben Ilai, Simeon ben
@@ -547,7 +547,7 @@ continuing the tradition of a courageous and devoted leadership amidst
 confusion and terror. The meeting was raided by the Romans before its
 conclusion. The five younger men were able to escape, but Rabbi Judah
 ben Baba was stabbed to death.<span
-id="an_r_03_14"></span>[14](wott11.htm#an_n_03_14)
+id="an_r_03_14"></span>[14](wott11.htm#an_n_03_14.md)
 
 #### THE RABBIS AT THE HELM
 
@@ -564,7 +564,7 @@ who have already
 
 learnt, come and teach; those who have not yet learnt, come and be
 taught.' They met and arranged everything that was necessary."<span
-id="an_r_03_15"></span>[15](wott11.htm#an_n_03_15)
+id="an_r_03_15"></span>[15](wott11.htm#an_n_03_15.md)
 
 One of the things which they finally arranged was the selection of
 another scion of the Hillel family as their leader, Simeon, the son of
@@ -614,7 +614,7 @@ their property to their children, they must be supported from the
 estate; a person was to contribute a fifth of his income to charity; a
 father must be patient in teaching his children till the age of twelve,
 but thereafter he may take severe measures with them.<span
-id="an_r_03_16"></span>[16](wott11.htm#an_n_03_16) Perhaps the most
+id="an_r_03_16"></span>[16](wott11.htm#an_n_03_16.md) Perhaps the most
 important reform was the declaration of immunity for members of the
 Sanhedrin who could not be excommunicated for their views, regardless of
 circumstances.
@@ -700,7 +700,7 @@ custom, yielding to the influence of Roman manners to which he was
 freely exposed. He was openly criticized for this, but the rabbis
 rationalized that as representative of Jewry he was obliged to mingle
 with Roman officials which made such accommodations inevitable.<span
-id="an_r_03_17"></span>[17](wott11.htm#an_n_03_17)
+id="an_r_03_17"></span>[17](wott11.htm#an_n_03_17.md)
 
 The rabbis who functioned after the compilation of the Mishnah were
 called *amoraim*, expositors, to distinguish them from their
@@ -752,7 +752,7 @@ sometimes been asserted. Johanan died in 279, and the Palestinian Gemara
 quotes scholars who lived in the fourth and early fifth centuries. But
 Johanan's work was the most important contribution to the making of this
 Palestinian supplement to the Mishnah.<span
-id="an_r_03_18"></span>[18](wott11.htm#an_n_03_18)
+id="an_r_03_18"></span>[18](wott11.htm#an_n_03_18.md)
 
 After the passing of Johanan, there set in a continuous decline in
 Palestinian scholarship. The conversion of the Roman Empire to
@@ -925,7 +925,7 @@ replied similarly: "In Palestine we may read as written, but judging by
 your conduct the amended reading appears justified." Public pressure
 finally forced Hananiah to yield; and Jewish life was once again under a
 unified centralized leadership, the Palestinian Sanhedrin.<span
-id="an_r_03_19"></span>[19](wott11.htm#an_n_03_19)
+id="an_r_03_19"></span>[19](wott11.htm#an_n_03_19.md)
 
 The Jews in Babylonia continued to heed the Palestinian Jewish
 leadership until the fifth century when the Sanhedrin was abolished. But
@@ -1026,7 +1026,7 @@ at the loss of a member of the family. He had made himself immortal by
 raising the religious and cultural life of Babylonian Jewry and by
 establishing a great institution of high learning which was destined to
 endure, with minor interruptions, for seven centuries.<span
-id="an_r_03_20"></span>[20](wott11.htm#an_n_03_20)
+id="an_r_03_20"></span>[20](wott11.htm#an_n_03_20.md)
 
 The academy at Nehardea which had invited Rab to its leadership after
 the passing of Shila was presided over by the local scholar, Samuel, or
@@ -1050,7 +1050,7 @@ system of any country where Jews are residing is binding upon them, even
 when it is in conflict with their own system of law. And though the
 Babylonian Jews enjoyed an autonomous court system, he demanded that
 Jewish judges reckon with the prevailing Babylonian law in reaching
-their decisions.<span id="an_r_03_21"></span>[21](wott11.htm#an_n_03_21)
+their decisions.<span id="an_r_03_21"></span>[21](wott11.htm#an_n_03_21.md)
 
 Between Rab and Samuel there was constant intellectual commerce, and the
 two men frequently disagreed. Samuel's leadership was followed to the
@@ -1082,7 +1082,7 @@ month. 12,000 students are reported to have
 <span id="page_82">p. 82</span>
 
 been enrolled in one such Kalla session.<span
-id="an_r_03_22"></span>[22](wott11.htm#an_n_03_22) This institution
+id="an_r_03_22"></span>[22](wott11.htm#an_n_03_22.md) This institution
 brought the academies into close contact with life, and closed the gap
 between the professional scholar and the layman. And more than anything
 else, it helped raise the cultural level of Babylonian Jewry.
@@ -1135,4 +1135,4 @@ of the future.
 
 ------------------------------------------------------------------------
 
-[Next: The Theological Elements in the Talmud](wott06)
+[Next: The Theological Elements in the Talmud](wott06.md)

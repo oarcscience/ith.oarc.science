@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof18)  [Next](otof20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof18)  [Next](otof20.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ no "end", there will only be a "beginning". Terrestrial Man seems
 incapable at this moment of making "One World", but he will soon face
 the more profound challenge to create "One City of the Universe".
 
-Man will go on into ever expanding [grandeur](errata.htm#55); for even
+Man will go on into ever expanding [grandeur](errata.htm#55.md); for even
 when the whole celestial Universe has been mapped, studied and charted,
 there will be Universes beyond to tempt human imagination.
 
@@ -38,4 +38,4 @@ you I say unto all, *Watch!*"
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](otof20)
+[Next: Bibliography](otof20.md)

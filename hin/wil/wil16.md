@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil15)  [Next](wil17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil15)  [Next](wil17.md) 
 
 ------------------------------------------------------------------------
 
@@ -255,7 +255,7 @@ all conquests, not a stain on the Arab faith.
 II
 
 No one can stand and face the ruins behind the Kutb-Minar <span
-id="fr_37"></span>[\*](#fn_37) at Delhi, no one can realise, even dimly,
+id="fr_37"></span>[\*](#fn_37.md) at Delhi, no one can realise, even dimly,
 the beauty of Persian poetry, without understanding that Arab, Slav,
 Afghan, and Mogul came to India as the emissaries of a culture different
 
@@ -530,9 +530,9 @@ to the Truth that is in God.
 
 ### Footnotes
 
-<span id="fn_37"></span>[228:\*](wil16.htm#fr_37) Kutb-Minar, a famous
+<span id="fn_37"></span>[228:\*](wil16.htm#fr_37.md) Kutb-Minar, a famous
 tower or minaret, about eleven miles from Delhi.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. An Indian Pilgrimage](wil17)
+[Next: Chapter XV. An Indian Pilgrimage](wil17.md)

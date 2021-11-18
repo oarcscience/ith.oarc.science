@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp15)  [Next](hmvp17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp15)  [Next](hmvp17.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 
 ### CHAPTER II.
 
-#### BRAHMA. <span id="fr_91"></span>[\*](#fn_91)
+#### BRAHMA. <span id="fr_91"></span>[\*](#fn_91.md)
 
 <span class="smallcaps">Brahma</span> is regarded as the Supreme Being,
 the God of gods; of whom Brahmā, Vishnu, and Siva are manifestations. It
@@ -24,7 +24,7 @@ gods are said to be identical with the supreme Brahma; nevertheless
 Brahma is regarded by the Hindus (for which opinion there is abundant
 authority in their scriptures) as the Supreme God—the origin of all the
 others, and of whom they are manifestations. Thus we read in the
-"Atharva-Veda":— <span id="fr_92"></span>[†](#fn_92) "All the gods are
+"Atharva-Veda":— <span id="fr_92"></span>[†](#fn_92.md) "All the gods are
 in (Brahma) as cows in a cow-house. In the beginning Brahma was this
 \[universe\]. He created gods. Having created gods, he placed them in
 these worlds, viz. Agni in this world, Vāyu in the atmosphere, and Surya
@@ -44,7 +44,7 @@ greatest of beings. Who can vie with him? In Brahma, the thirty-three
 gods; in Brahma, Indra and Prajāpati; in Brahma all things are contained
 as in a ship."
 
-Prof. Monier Williams <span id="fr_93"></span>[\*](#fn_93) says:—"Only a
+Prof. Monier Williams <span id="fr_93"></span>[\*](#fn_93.md) says:—"Only a
 few hymns of the Vedas appear to contain the simple conception of one
 divine self, existent, omnipresent being; and even in these, the idea of
 one god present in all nature is somewhat nebulous and undefined."
@@ -60,9 +60,9 @@ dissolves itself into simple being, is called Siva; all the other
 innumerable gods and demi-gods being also mere manifestations of the
 neuter Brāhman, who is eternal."
 
-In the "Vishnu Purāna" <span id="fr_94"></span>[†](#fn_94) Brahma is
+In the "Vishnu Purāna" <span id="fr_94"></span>[†](#fn_94.md) Brahma is
 translated as "abstract supreme spirit." Later on <span
-id="fr_95"></span>[‡](#fn_95) the question is asked, "How can creative
+id="fr_95"></span>[‡](#fn_95.md) the question is asked, "How can creative
 agency be attributed to Brahma, who \[as abstract spirit\] is without
 qualities, illimitable, and free from imperfection?" The answer is, that
 "the essential properties of existent things are objects of observation,
@@ -76,7 +76,7 @@ inherent in fire." The Purāna goes on to say that creation is effected
 through the agency of Brahmā, the first manifestation of Brahma; and
 then declares that Vishnu is one with Brahmā.
 
-Again, the same Purāna <span id="fr_96"></span>[\*](#fn_96) says: "There
+Again, the same Purāna <span id="fr_96"></span>[\*](#fn_96.md) says: "There
 are two states of this Brahma—one with, and one without shape; one
 perishable, one imperishable; which are inherent in all beings. The
 imperishable is the supreme being; the perishable is all the world. The
@@ -90,12 +90,12 @@ next to them are the inferior deities; then the attendant spirits; then
 men; then animals, birds, insects, vegetables; each becoming more and
 more feeble as they are farther from their primitive source."
 
-The "Vishnu Purāna" <span id="fr_97"></span>[†](#fn_97) gives the
+The "Vishnu Purāna" <span id="fr_97"></span>[†](#fn_97.md) gives the
 following derivation of the word Brahma:—It "is derived from the root
 *vriha* (to increase), because it is infinite (spirit), and because it
 is the cause by which the Vedas (and all things) are developed." Then
 follows this hymn to Brahma:—"Glory to Brahma, who is addressed by that
-mystic word (*Om*), <span id="fr_98"></span>[‡](#fn_98) associated
+mystic word (*Om*), <span id="fr_98"></span>[‡](#fn_98.md) associated
 eternally with the triple universe (earth, sky, and heaven), and who is
 one with
 
@@ -117,7 +117,7 @@ without a second." The word used by them for God as distinguished from
 his manifestations, is Brahma; and when charged with Polytheism, and of
 violating the primary law respecting the unity of God, they reply that
 Brahmā, Vishnu, Siva, etc., are only manifestations of the supreme
-Brahma. <span id="fr_99"></span>[\*](#fn_99)
+Brahma. <span id="fr_99"></span>[\*](#fn_99.md)
 
 In the earliest writings Brahma signified a hymn or mantra, whilst
 Brahmā was the term used to denote a priest or worshipper. It is in the
@@ -151,35 +151,35 @@ identical with the older one composed of Agni, Indra-Vāyu, and Surya.
 
 ### Footnotes
 
-<span id="fn_91"></span>[93:\*](hmvp16.htm#fr_91) It will be noticed
+<span id="fn_91"></span>[93:\*](hmvp16.htm#fr_91.md) It will be noticed
 that the final vowel in the name of this deity is *short*, whilst in
 that of the first incarnation it is *long*.
 
-<span id="fn_92"></span>[93:†](hmvp16.htm#fr_92) Muir, O. S. T., v. 387
+<span id="fn_92"></span>[93:†](hmvp16.htm#fr_92.md) Muir, O. S. T., v. 387
 ff.
 
-<span id="fn_93"></span>[94:\*](hmvp16.htm#fr_93) "Indian Wisdom," p.
+<span id="fn_93"></span>[94:\*](hmvp16.htm#fr_93.md) "Indian Wisdom," p.
 12.
 
-<span id="fn_94"></span>[94:†](hmvp16.htm#fr_94) Page 2.
+<span id="fn_94"></span>[94:†](hmvp16.htm#fr_94.md) Page 2.
 
-<span id="fn_95"></span>[94:‡](hmvp16.htm#fr_95) Book i. chap. iii.
+<span id="fn_95"></span>[94:‡](hmvp16.htm#fr_95.md) Book i. chap. iii.
 
-<span id="fn_96"></span>[95:\*](hmvp16.htm#fr_96) Page 157.
+<span id="fn_96"></span>[95:\*](hmvp16.htm#fr_96.md) Page 157.
 
-<span id="fn_97"></span>[95:†](hmvp16.htm#fr_97) Page 273.
+<span id="fn_97"></span>[95:†](hmvp16.htm#fr_97.md) Page 273.
 
-<span id="fn_98"></span>[95:‡](hmvp16.htm#fr_98) This word occurs at the
+<span id="fn_98"></span>[95:‡](hmvp16.htm#fr_98.md) This word occurs at the
 commencement of prayers and religious ceremonies. It is so sacred that
 none must hear it pronounced. Originally the three letters (*a u m*) of
 which it is formed typified the three Vedas; afterwards it became a
 mystical symbol of the three deities—Brahmā, Vishnu, Siva.
 
-<span id="fn_99"></span>[96:\*](hmvp16.htm#fr_99) The Theistic sect that
+<span id="fn_99"></span>[96:\*](hmvp16.htm#fr_99.md) The Theistic sect that
 arose in Bengal during the present century, for a long time gloried in
 the name Brahmo Somaj; *i.e.* the Society that worshipped the supreme
 Brahma or God.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Brahmā and Sarasvati](hmvp17)
+[Next: Chapter III. Brahmā and Sarasvati](hmvp17.md)

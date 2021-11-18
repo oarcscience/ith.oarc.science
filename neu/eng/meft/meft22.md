@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft21)  [Next](meft23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft21)  [Next](meft23.md) 
 
 ------------------------------------------------------------------------
 
 # The Old Witch
 
 <span id="img_022"></span> [![](tn/022.jpg)  
-Click to enlarge](img/022.jpg)
+Click to enlarge](img/022.jpg.md)
 
 ONCE upon a time there were two girls who lived with their mother and
 father. Their father had no work, and the girls wanted to go away and
@@ -145,4 +145,4 @@ away from her, beat her, and sent her off home just as she was.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Wishes](meft23)
+[Next: The Three Wishes](meft23.md)

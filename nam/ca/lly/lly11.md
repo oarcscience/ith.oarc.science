@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly10)  [Next](lly12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly10)  [Next](lly12.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ proximity to the overshadowing hulk of El Capitan.
 
 ------------------------------------------------------------------------
 
-[Next: Cathedral Spires](lly12)
+[Next: Cathedral Spires](lly12.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil71)  [Next](egil73) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil71)  [Next](egil73.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ cheerful.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXII. Of Arinbjorn's harrying.](egil73)
+[Next: CHAPTER LXXII. Of Arinbjorn's harrying.](egil73.md)

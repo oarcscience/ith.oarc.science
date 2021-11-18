@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](zan63)  [Next](zan65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](zan63)  [Next](zan65.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Zanoni*, by Edward Bulwer Lytton, \[1842\], at Intangible Textual
 Heritage
 
@@ -141,4 +141,4 @@ He said, and departed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](zan65)
+[Next: Chapter VI](zan65.md)

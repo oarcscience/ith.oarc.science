@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc033) 
-[Next](motc035) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc033.md) 
+[Next](motc035.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ wolf.
 
 ------------------------------------------------------------------------
 
-[Next: 35. The Bird Tribes](motc035)
+[Next: 35. The Bird Tribes](motc035.md)

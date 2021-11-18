@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha03)  [Next](maha05) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha03)  [Next](maha05.md) 
 
 ------------------------------------------------------------------------
 
@@ -294,6 +294,6 @@ Supreme Prakriti."
 ------------------------------------------------------------------------
 
 [Next: Chapter 5 - The Formation of the Mantras, Placing of the Jar, and
-Purification of the Elements of Worship](maha05)
+Purification of the Elements of Worship](maha05.md)
 
   

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb17)  [Next](ttb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb17)  [Next](ttb19.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_31">p. 31</span>
 
-<span id="img_03100"></span> ![Le-Loo, The Wolf](img/03100.jpg)
+<span id="img_03100"></span> ![Le-Loo, The Wolf](img/03100.jpg.md)
 
 ### Le-Loo, THE WOLF
 
@@ -50,4 +50,4 @@ who steps upon the high places of the Earth."
 
 ------------------------------------------------------------------------
 
-[Next: Wolalee, The Salmon](ttb19)
+[Next: Wolalee, The Salmon](ttb19.md)

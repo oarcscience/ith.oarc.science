@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar10)  [Next](pktar12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar10)  [Next](pktar12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### Justice
 
 <span id="img_ar11"></span> <span align="CENTER"> [![](tn/ar11.jpg)  
-Click to enlarge](img/ar11.jpg)</span>
+Click to enlarge](img/ar11.jpg.md)</span>
 
 As this card follows the traditional symbolism and carries above all its
 obvious meanings, there is little to say regarding it outside the few
@@ -46,4 +46,4 @@ into another.
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Hanged Man](pktar12)
+[Next: XII. The Hanged Man](pktar12.md)

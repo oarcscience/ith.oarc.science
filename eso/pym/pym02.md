@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pym01)  [Next](pym03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pym01)  [Next](pym03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE6GQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE6GQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Divine Pymander*, by Hermes Mercurius Trismegistus, tr. by John
 Everard, \[1650\], at Intangible Textual Heritage
 
@@ -269,4 +269,4 @@ The End of THE FIRST BOOK OF HERMES....
 
 ------------------------------------------------------------------------
 
-[Next: The Second Book, Called, Poemander](pym03)
+[Next: The Second Book, Called, Poemander](pym03.md)

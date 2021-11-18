@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](psa)  [Next](ecc) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](psa)  [Next](ecc.md) 
 
 ------------------------------------------------------------------------
 
@@ -2807,4 +2807,4 @@ Früchten ihrer Hände; und ihre Werke werden sie loben in den Toren.
 
 ------------------------------------------------------------------------
 
-[Next: Ecclesiastes](ecc)
+[Next: Ecclesiastes](ecc.md)

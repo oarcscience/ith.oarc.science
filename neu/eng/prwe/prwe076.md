@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe075)  [Next](prwe077) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe075)  [Next](prwe077.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Man and woman will have cause to greet."
 
 ------------------------------------------------------------------------
 
-[Next: The Armed Knight](prwe077)
+[Next: The Armed Knight](prwe077.md)

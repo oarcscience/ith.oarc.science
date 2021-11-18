@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag09)  [Next](rag11) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag09)  [Next](rag11.md) 
 
 ------------------------------------------------------------------------
 
@@ -177,4 +177,4 @@ cold.
 
 ------------------------------------------------------------------------
 
-[Next: Part II. The Comet.--Chapter I. A Comet Caused the Drift](rag11)
+[Next: Part II. The Comet.--Chapter I. A Comet Caused the Drift](rag11.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](psc04)  [Next](psc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](psc04)  [Next](psc06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -114,7 +114,7 @@ the use of one ill-sounding word, as it is written \[Gen. vii.\]: "Of
 the clean beasts, and of the beasts that are not clean." Thus instead of
 using the word unclean (Hatmeah), it is written "that are not clean,"
 which makes a difference of eight letters. <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 Now if the question concerning the word "Or" has been finally decided
 and "Or" is supposed to mean "twilight," let us see why leaven must be
@@ -131,7 +131,7 @@ at that time is the best means by which to search for leavened bread."
 Said Abayi: Therefore a young scholar should not commence his study at
 twilight on the thirteenth of Nissan, as he might become engrossed in
 the ordinances and forget to search for leaven. <span
-id="fr_3"></span>[2](#fn_3)
+id="fr_3"></span>[2](#fn_3.md)
 
 <span id="page_4">p. 4</span>
 
@@ -367,7 +367,7 @@ sits before his master (and cannot leave without his consent) and having
 been reminded that there is some dough still in his house, which would
 shortly become leaven, he may renounce its use before it becomes leaven.
 This can be inferred from the Boraitha itself, which distinctly states
-"if a man sate *in the house of* [*learning*](errata.htm#6)" (and if he
+"if a man sate *in the house of* [*learning*](errata.htm#6.md)" (and if he
 had leavened bread in the house, what difference would it otherwise
 make, whether he sat in the house of learning or elsewhere)? Hence the
 inference.
@@ -530,7 +530,7 @@ leaven as it might be dangerous.
 
 <span id="page_13">p. 13</span>
 
-R. Hyya taught: "The beer <span id="fr_4"></span>[1](#fn_4) cellars of
+R. Hyya taught: "The beer <span id="fr_4"></span>[1](#fn_4.md) cellars of
 Babylon were put on a par with the wine cellars of Palestine if they
 were frequently used."
 
@@ -577,7 +577,7 @@ also face the door\] hence he explains the Mishna as above.
 
 R. Hyya taught in accordance with Rabh's opinion and all the other sages
 taught in accordance with Samuel's opinion. The Halakha prevails
-according to Samuel. <span id="fr_5"></span>[1](#fn_5)
+according to Samuel. <span id="fr_5"></span>[1](#fn_5.md)
 
 MISHNA: (And) it need not be suspected, that a weasel have dragged any
 leavened bread from (one corner that had not been searched to one that
@@ -769,9 +769,9 @@ evening ('Or') before the 14th (of Nissan), early on the morning of that
 day and at the time (when all Chometz must be removed);" but the sages
 said: "If search had not been made on the evening preceding the 14th (of
 Nissan), it may be made on that day; if neglected on that day, it may be
-made on the festival, <span id="fr_6"></span>[1](#fn_6) and if omitted
+made on the festival, <span id="fr_6"></span>[1](#fn_6.md) and if omitted
 even then, it must be done after the festival, <span
-id="fr_7"></span>[2](#fn_7) and whatever Chometz is left over, must be
+id="fr_7"></span>[2](#fn_7.md) and whatever Chometz is left over, must be
 kept in a well-guarded place, in order that no further search may become
 necessary.
 
@@ -813,7 +813,7 @@ four hours; but heave-offering may still be eaten during the fifth hour;
 both, however, must be burned at the commencement of the sixth hour.
 
 GEMARA: We see thus, that at the commencement of the sixth hour, all
-agree, Chometz must be burned. <span id="fr_8"></span>[1](#fn_8) Whence
+agree, Chometz must be burned. <span id="fr_8"></span>[1](#fn_8.md) Whence
 do we adduce this? Said Abayi: From two passages, viz. \[Exod. xii.
 19\]: "Seven days no leaven shall be found in your houses," and \[ibid.
 15\]: "But on the first day ye shall have put away leaven out of your
@@ -879,7 +879,7 @@ and they are: Firstly, that R. Aqiba holds according to the opinion of
 R. Jehudah, that Chometz can be removed only by burning it; secondly
 that he holds with the opinion of R. Nathan, that the additional
 commandment not to kindle a fire: on a Sabbath was taught for the sake
-of separation (of other acts) <span id="fr_9"></span>[1](#fn_9); and
+of separation (of other acts) <span id="fr_9"></span>[1](#fn_9.md); and
 thirdly, that he does not hold that, because
 
 <span id="page_21">p. 21</span>
@@ -989,7 +989,7 @@ fact that the exact hour could not be ascertained on account of a cloudy
 day: and hence a man might mistake the sixth hour for the fifth." If
 that be so, then it should not be allowed to eat leaven even in the
 fourth hour? The fourth hour is a general time for eating, <span
-id="fr_10"></span>[1](#fn_10) hence no mistake can be made.
+id="fr_10"></span>[1](#fn_10.md) hence no mistake can be made.
 
 R. Na'hman in the name of Rabh said: "The Halakha prevails according to
 R. Jehudah." Said Rabha to him: "Why does not the master say that the
@@ -1098,7 +1098,7 @@ the other was also taken away, it was commenced to burn the leaven.
 
 MISHNA: R. Hanina, the Sagan of the priests, said: The priests never
 objected to burn flesh which had become unclean through a child of
-uncleanness <span id="fr_11"></span>[1](#fn_11) (*i.e.*, had become an
+uncleanness <span id="fr_11"></span>[1](#fn_11.md) (*i.e.*, had become an
 uncleanness of the second degree) together with such as had become
 unclean with a parent of uncleanness (*i.e.*, had become an uncleanness
 of the first degree), although the (legal) uncleanness of the first
@@ -1258,44 +1258,44 @@ considered a beverage.
 
 ### Footnotes
 
-<span id="fn_2"></span>[3:1](psc05.htm#fr_2) There is a difference of
+<span id="fn_2"></span>[3:1](psc05.htm#fr_2.md) There is a difference of
 eight letters in the Hebrew original, and by a strange coincidence there
 is the same difference in English.
 
-<span id="fn_3"></span>[3:2](psc05.htm#fr_3) These last two paragraphs
+<span id="fn_3"></span>[3:2](psc05.htm#fr_3.md) These last two paragraphs
 are in the old edition, contained on page 4 *a*.
 
-<span id="fn_4"></span>[13:1](psc05.htm#fr_4) The beer of the
+<span id="fn_4"></span>[13:1](psc05.htm#fr_4.md) The beer of the
 Babylonians was made from dates.
 
-<span id="fn_5"></span>[14:1](psc05.htm#fr_5) This last sentence is
+<span id="fn_5"></span>[14:1](psc05.htm#fr_5.md) This last sentence is
 according to others not contained in the earlier editions, and hence the
 questions on this point are decided according to Rabh.
 
-<span id="fn_6"></span>[18:1](psc05.htm#fr_6) The term used in the
+<span id="fn_6"></span>[18:1](psc05.htm#fr_6.md) The term used in the
 Mishna, which we render with "festival," is Moëd, and Rashi explains
 this to mean "at the appointed time"; but we render it according to the
 explanation of Tosphath, which is more reasonable.
 
-<span id="fn_7"></span>[18:2](psc05.htm#fr_7) The reason that search
+<span id="fn_7"></span>[18:2](psc05.htm#fr_7.md) The reason that search
 must be made even after the festival is because the Chometz situated in
 the house during the festival must not at any time be used.
 
-<span id="fn_8"></span>[19:1](psc05.htm#fr_8) The GEMARA in the original
+<span id="fn_8"></span>[19:1](psc05.htm#fr_8.md) The GEMARA in the original
 old edition is on Pages 4*a* to 6*b*. The proper place for it, however,
 is here.
 
-<span id="fn_9"></span>[20:1](psc05.htm#fr_9) Vide Tract Sabbath, Vol.
+<span id="fn_9"></span>[20:1](psc05.htm#fr_9.md) Vide Tract Sabbath, Vol.
 I., page 136.
 
-<span id="fn_10"></span>[23:1](psc05.htm#fr_10) *Vide* Tract Sabbath,
+<span id="fn_10"></span>[23:1](psc05.htm#fr_10.md) *Vide* Tract Sabbath,
 page 17.
 
-<span id="fn_11"></span>[26:1](psc05.htm#fr_11) For definition of the
+<span id="fn_11"></span>[26:1](psc05.htm#fr_11.md) For definition of the
 terms "parent of uncleanness," "child of uncleanness," etc., see Tract
 Shekalim, Ch. VIII., Mishna *d*.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II: Time for Eating Unleavened Bread and Material Used
-for Making Unleavened Bread and Bitter Herbs](psc06)
+for Making Unleavened Bread and Bitter Herbs](psc06.md)

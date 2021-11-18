@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil80)  [Next](egil82) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil80)  [Next](egil82.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ daughter Bera.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXXI. Death of Bodvar: Egil's poem thereon.](egil82)
+[Next: CHAPTER LXXXI. Death of Bodvar: Egil's poem thereon.](egil82.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](aen10) 
-[Previous](aenl09)  [Next](aenl11) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](aen10.md) 
+[Previous](aenl09)  [Next](aenl11.md) 
 
 ------------------------------------------------------------------------
 
@@ -951,4 +951,4 @@ undantique animam diffundit in arma cruore.
 
 ------------------------------------------------------------------------
 
-[Next: Book XI](aenl11)
+[Next: Book XI](aenl11.md)

@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,15 +12,15 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](oph00)  
-[Chapter 1](oph01)  
-[Chapter 2](oph02)  
-[Chapter 3](oph03)  
-[Chapter 4](oph04)  
-[Chapter 5](oph05)  
-[Chapter 6](oph06)  
-[Chapter 7](oph07)  
-[Chapter 8](oph08)  
-[Chapter 9](oph09)  
-[Chapter 10](oph10)  
-[Chapter 11](oph11)  
+[Title Page](oph00.md)  
+[Chapter 1](oph01.md)  
+[Chapter 2](oph02.md)  
+[Chapter 3](oph03.md)  
+[Chapter 4](oph04.md)  
+[Chapter 5](oph05.md)  
+[Chapter 6](oph06.md)  
+[Chapter 7](oph07.md)  
+[Chapter 8](oph08.md)  
+[Chapter 9](oph09.md)  
+[Chapter 10](oph10.md)  
+[Chapter 11](oph11.md)  

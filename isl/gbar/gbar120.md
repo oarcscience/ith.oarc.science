@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar119) [Next](gbar121)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar119) [Next](gbar121.md)
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ body, so let him not talk of a thing that may cause hurt to his soul.
 
 ------------------------------------------------------------------------
 
-[Next](gbar121)
+[Next](gbar121.md)

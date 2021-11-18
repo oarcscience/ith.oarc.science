@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi072)  [Next](mtsi074) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi072)  [Next](mtsi074.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ then Rabbit had to run to cover.
 
 ------------------------------------------------------------------------
 
-[Next: 72. Rabbit Rides Wolf](mtsi074)
+[Next: 72. Rabbit Rides Wolf](mtsi074.md)

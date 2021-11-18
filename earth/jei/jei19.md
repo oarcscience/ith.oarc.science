@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei18)  [Next](jei20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei18)  [Next](jei20.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ fact, will doubtless be admitted by the reader to be almost as distinct
 a proof of our theory as was the occurrence of the mammoth in Siberia in
 a perfectly fresh condition.
 
-### A [GAP](errata.htm#81) IN SCIENTIFIC KNOWLEDGE
+### A [GAP](errata.htm#81.md) IN SCIENTIFIC KNOWLEDGE
 
 Before coming to this startling direct evidence, however, let us briefly
 show how scientists themselves, in their effort to explain the evolution
@@ -29,7 +29,7 @@ the interior surface of the earth they were driven to suppose that
 during certain stages in the evolution of life this continent moved
 about on the earth's surface by the tilting up of one coast line above
 the waves while the other coast line was gradually submerging. This
-[ingenious](errata.htm#82) idea was put forward by Huxley. Other
+[ingenious](errata.htm#82.md) idea was put forward by Huxley. Other
 scientists thought that there was a vast Antarctic continent,
 
 <span id="page_313">p. 313</span>
@@ -162,7 +162,7 @@ taken from the nautical magazine for 1893. The statements occur in the
 course of an article devoted to reports of icebergs in the Antarctic
 seas:
 
-"The Gladys, [Captain](errata.htm#83) E. B. Hatfield, . . . was
+"The Gladys, [Captain](errata.htm#83.md) E. B. Hatfield, . . . was
 completely embayed by icebergs (43 degrees S., 33 West) and did not get
 clear of fog and ice until July 4 in 40 degrees South, 30 West. At four
 p. m. of the latter date, signs of human beings having lived for some
@@ -257,4 +257,4 @@ shelter or food to any human beings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. The Journey to the Earth's Interior](jei20)
+[Next: Chapter XVII. The Journey to the Earth's Interior](jei20.md)

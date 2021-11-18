@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl26)  [Next](jftl28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl26)  [Next](jftl28.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -15,7 +15,7 @@
 <span id="img_25800"></span> <span align="CENTER"> [![The giant bird did
 not seem to notice its burden at all.&lt;br&gt; (&lt;i&gt;Page
 274&lt;/i&gt;).](tn/25800.jpg)  
-Click to enlarge](img/25800.jpg)  
+Click to enlarge](img/25800.jpg.md)  
 The giant bird did not seem to notice its burden at all.  
 (*Page 274*).  
 </span>
@@ -87,7 +87,7 @@ become popular and fashionable as the world grows older and more people
 amass riches. She is sick of being waited on hand and foot and bowed
 down to and all that sort of thing. She has never been allowed to romp
 as a child, to choose her own companions and the rest of it. Therefore,
-she is bored with all the [etceteras](errata.htm#8). The case is
+she is bored with all the [etceteras](errata.htm#8.md). The case is
 comprehensible and comprehensive: it needs the exercise of imagination
 stimulated by prescience, conscience, patience . . . ."
 
@@ -473,4 +473,4 @@ to make everybody thoroughly happy, contented and prosperous.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Vision of Victory](jftl28)
+[Next: I. The Vision of Victory](jftl28.md)

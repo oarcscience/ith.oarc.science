@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar23)  [Next](gar25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar23)  [Next](gar25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ his attributes suggest him to have been of *Indian* origin, and no other
 than *Yama*, "Lord of Hell," attended by his dog "Çarbara," *the
 spotted*, who has the epithet "Triçira," *three-headed*, and by his
 serpent "Çesha," called "Regent of Hades;" in fact, some have discovered
-in the name Serapis <span id="fr_79"></span>[\*](#fn_78) but the Grecian
+in the name Serapis <span id="fr_79"></span>[\*](#fn_78.md) but the Grecian
 form of Yama's epithet, "Sraddha-deva," *Lord of the obsequies*, that
 is, of the funeral sacrifices offered to the *Pitris* or *Manes*. Yama
 also is styled "Lord of souls," and "Judge of the dead;" another office
@@ -58,7 +58,7 @@ for (as Servius explains it) the *red* colour of the flower
 <span id="page_166">p. 166</span>
 
 represented *blood*, and thereby served as a substitute for the living
-victim. <span id="fr_80"></span>[\*](#fn_79)
+victim. <span id="fr_80"></span>[\*](#fn_79.md)
 
 This analogy between Yama and Serapis may be further extended by the
 consideration of certain other points connected with the office of the
@@ -90,7 +90,7 @@ plumes.
 <span id="page_167">p. 167</span>
 
 "Kali-Bhavani," the Destructive Female Principle is represented <span
-id="fr_81"></span>[\*](#fn_80) in this character with a visage exactly
+id="fr_81"></span>[\*](#fn_80.md) in this character with a visage exactly
 identical with the most ancient type of the Grecian Gorgon--such as we
 still behold it guarding the Etruscan sepulchres, and lowering
 horrifically upon the sacrilegious intruder; as in that notable example
@@ -137,7 +137,7 @@ synonym at first for the remotest East--it being only in Roman times
 that "Ethiopia" was restricted to a single province of Africa. The
 *harpe* too, the weapon lent to the hero by Hermes, is from its form no
 other than the ankuşa, elephant-hook, which is carried for attribute by
-so many of the Hindoo Deities. <span id="fr_82"></span>[\*](#fn_81)
+so many of the Hindoo Deities. <span id="fr_82"></span>[\*](#fn_81.md)
 Sufficient explanation this why Persephone (*Destroying-slayer*) was
 assigned by the earliest Greeks as Consort to Aidoneus; and also why
 Ulysses, on his visit to her realms, should have been alarmed,
@@ -191,7 +191,7 @@ yet the general effect still remains grandiose and awe-inspiring.
 Having thus traced Bhavani in her progress from Archaic Greek to
 Byzantine times, let us observe the part she plays in the superstitions
 of Imperial Rome. The idea, full of novel horrors, was gladly seized by
-the extravagant genius of Lucan <span id="fr_83"></span>[\*](#fn_82)
+the extravagant genius of Lucan <span id="fr_83"></span>[\*](#fn_82.md)
 
 <span id="page_170">p. 170</span>
 
@@ -237,7 +237,7 @@ vi. 695).
  And marks the sanction of the Stygian lake?"
 
 All these personifications are in a spirit quite foreign to that of
-Grecian mythology, but [thoroughly](errata.htm#7) imbued with that of
+Grecian mythology, but [thoroughly](errata.htm#7.md) imbued with that of
 India. Lucan's Chaos is the Hindoo Destroyer, the Negro giant,
 "Maha-Pralaya," swallowing up the gods themselves in his wide-gaping
 jaws. His "Rector terrae" pining for the promised annihilation that is
@@ -245,7 +245,7 @@ so long in coming, finds no parallel in classical
 
 <span id="page_171">p. 171</span>
 
-religions, <span id="fr_84"></span>[\*](#fn_83) and his character
+religions, <span id="fr_84"></span>[\*](#fn_83.md) and his character
 remains to me utterly inexplicable. His Furies "hunting souls to make
 them fly," instead of being like the old awful Eumenides, the impartial
 avengers of guilt, are mere demons, or churchyard ghouls. But his Hecate
@@ -267,7 +267,7 @@ theogony. The Gnostics did not invent--they merely borrowed and applied.
 Bhavani, in her character of "Kali," is sculptured as a terminal figure,
 the exact counterpart in outline of the Ephesian Diana. Even the stags,
 those remarkable adjuncts to the *shoulders* of the latter, are seen in
-a similar position [springing](errata.htm#8) from Kali's *hands*. The
+a similar position [springing](errata.htm#8.md) from Kali's *hands*. The
 multiplied breasts of the Ephesian statue were also given to the
 Alexandrian Isis, who is allowed by Creuzer and the rest to be the
 Hindoo goddess in her character of "Parvati." Now this remark applies
@@ -287,12 +287,12 @@ means, had come from some very remote and unknown source.
 
 ### Footnotes
 
-<span id="fn_78"></span>[165:\*](gar24.htm#fr_79) It is not improbable
+<span id="fn_78"></span>[165:\*](gar24.htm#fr_79.md) It is not improbable
 that the name under which the god was worshipped at *Sinope* had
 something of this sound; and which suggested to Manetho the idea of
 identifying him with his own Oser-Api.
 
-<span id="fn_79"></span>[166:\*](gar24.htm#fr_80) One of the most
+<span id="fn_79"></span>[166:\*](gar24.htm#fr_80.md) One of the most
 frequented places of pilgrimage at Benares is the "Gyan Bapi," "Well of
 Knowledge," in the depths whereof Siva himself resides. It was dug by
 the genius Rishi, with that god's own trident, to relieve the world
@@ -303,11 +303,11 @@ called from the earring of Mahadeva, which fell into it. Vishnu had dug
 this well with his *changra*, quoit, and filled it with the luminous
 sweat of his body.
 
-<span id="fn_80"></span>[167:\*](gar24.htm#fr_81) Roth. 'Zeitschrift der
+<span id="fn_80"></span>[167:\*](gar24.htm#fr_81.md) Roth. 'Zeitschrift der
 Morgenländischen Gesellschaft,' iv. p. 425, and Mure in Royal Asiatic
 Society's Journal, i. p. 287.
 
-<span id="fn_81"></span>[168:\*](gar24.htm#fr_82) The Gorgon of the gems
+<span id="fn_81"></span>[168:\*](gar24.htm#fr_82.md) The Gorgon of the gems
 ('Ant. Gems,' Pl. XX., 4), and of the coin of Neapolis is regularly to
 be seen, to this day, sculptured in relief upon the pillar set up on
 each side of the gates of Hindoo temples, as I am informed by our great
@@ -317,12 +317,12 @@ Greece and Rome, and formed the keystone of triumphal arches even in the
 time of Constantine, as the lately-discovered entrance to his "Forum of
 Taurus" convincingly attests.
 
-<span id="fn_82"></span>[169:\*](gar24.htm#fr_83) Who had in all
+<span id="fn_82"></span>[169:\*](gar24.htm#fr_83.md) Who had in all
 probability learnt them at some of the Mysteries, all of Asiatic origin,
 so popular in his times with all persons making pretensions to the title
 of philosophers.
 
-<span id="fn_83"></span>[171:\*](gar24.htm#fr_84) Unless, perhaps,
+<span id="fn_83"></span>[171:\*](gar24.htm#fr_84.md) Unless, perhaps,
 obscurely shadowed forth by Hesiod, from whom Milton drew his grand
 picture of Chaos, on whom wait--
 
@@ -331,4 +331,4 @@ Of Demogorgon."
 
 ------------------------------------------------------------------------
 
-[Next: III. Monuments of the Serapis Worship](gar25)
+[Next: III. Monuments of the Serapis Worship](gar25.md)

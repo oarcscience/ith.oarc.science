@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil00)  [Next](egil02) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil00)  [Next](egil02.md) 
 
 ------------------------------------------------------------------------
 
@@ -535,4 +535,4 @@ eighty.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER I. Of Kveldulf and his sons.](egil02)
+[Next: CHAPTER I. Of Kveldulf and his sons.](egil02.md)

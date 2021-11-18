@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca07) 
-[Next](lca09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca07.md) 
+[Next](lca09.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ sweet, an irresistible, trust over their relation to each other, which
 consecrates as it were the double life, making both feel that nothing
 can now divide; and robbing each of all desire to remain, when death has
 indeed (or at least in outer semblance) removed the other. <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 So perfect and gracious a union--even if not always realised--is still,
 I say, the *bonâ fide* desire of most of those who have ever thought
@@ -128,7 +128,7 @@ pressure, of social opinion, or even actual
 law, may be helpful for the supplementing or reinforcement of the weak
 personal self-control of those concerned.
 
-The modern Monogamic Marriage [96](lca15.htm#xref_96) however, certified
+The modern Monogamic Marriage [96](lca15.htm#xref_96.md) however, certified
 and sanctioned by Church and State, though apparently directed to this
 ideal, has for the most part fallen short of it. For in constituting--as
 in a vast number of cases--a union resting on nothing but the outside
@@ -142,7 +142,7 @@ it might of course be contended--and probably with some truth--that the
 human male is, by his nature and needs, polygamous. Nor is it necessary
 to suppose that polygamy in certain countries and races is by any means
 so degrading or unsuccessful an institution as some folk would have it
-to be. <span id="fr_16"></span>[1](#fn_16) But, as Letourneau in his
+to be. <span id="fr_16"></span>[1](#fn_16.md) But, as Letourneau in his
 "Evolution of Marriage" points out,
 
 <span id="page_97">p. 97</span>
@@ -270,7 +270,7 @@ sex-glamor--the true nature of which would be exposed
 <span id="page_102">p. 102</span>
 
 by a little experience--should, perhaps for two people, decide the
-destinies of a life-time [102](lca15.htm#xref_102). Yet the more the
+destinies of a life-time [102](lca15.htm#xref_102.md). Yet the more the
 sexes are kept apart, the more overwhelming does this glamor become, and
 the more ignorance is there, on either side, as to its nature. No doubt
 it is one of the great advantages of co-education of the sexes, that it
@@ -409,7 +409,7 @@ bad at any time, and when the heart is full silence befits it best.
 Practically, however, since a love of this kind is slow to be realised,
 since social custom is slow to change, and since the partial dependence
 and slavery of Woman must yet for a while continue, it is likely for
-such period that formal contracts of some kind [107](lca15.htm#xref_107)
+such period that formal contracts of some kind [107](lca15.htm#xref_107.md)
 will still be made; only these (it may be hoped) will lose
 
 <span id="page_108">p. 108</span>
@@ -420,7 +420,7 @@ to the needs of the contracting parties.
 Such contracts might of course, if adopted, be very various in respect
 to conjugal rights, conditions of termination, division of property,
 responsibility for and rights over children, etc. In some cases <span
-id="fr_17"></span>[1](#fn_17) [108](lca15.htm#xref_108) possibly they
+id="fr_17"></span>[1](#fn_17) [108](lca15.htm#xref_108.md) possibly they
 might be looked upon as preliminary to a later and more permanent
 alliance; in others they would provide, for disastrous marriages, a
 remedy free from the inordinate scandals of the present Divorce Courts.
@@ -520,7 +520,7 @@ of loving surrender to another; and, as long as the human heart is what
 it is, there will be natural tragedies arising from the willingness or
 unwillingness of one person to release another when the former finds
 that his or her love is not returned. <span
-id="fr_18"></span>[1](#fn_18) While it is quite necessary that these
+id="fr_18"></span>[1](#fn_18.md) While it is quite necessary that these
 natural tragedies should not be complicated and multiplied by needless
 legal interference--complicated into the numberless artificial tragedies
 which are so exasperating when represented on the stage or in romance,
@@ -548,20 +548,20 @@ learn it.
 
 ### Footnotes
 
-<span id="fn_15"></span>[95:1](lca08.htm#fr_15) It is curious that the
+<span id="fn_15"></span>[95:1](lca08.htm#fr_15.md) It is curious that the
 early Church Service had "Till death us depart," but in 1661 this was
 altered to "Till death us do part."
 
-<span id="fn_16"></span>[96:1](lca08.htm#fr_16) See R. F. Burton's
+<span id="fn_16"></span>[96:1](lca08.htm#fr_16.md) See R. F. Burton's
 *Pilgrimage to El-Medinah and Meccah*, chap. xxiv. He says however, " As
 far as my limited observations go *polyandry* is the only state of
 society in which jealousy and quarrels about the sex are the exception
 and not the rule of life!"
 
-<span id="fn_17"></span>[108:1](lca08.htm#fr_17) *See*
-Appendix. [108](lca15.htm#xref_108)
+<span id="fn_17"></span>[108:1](lca08.htm#fr_17.md) *See*
+Appendix. [108](lca15.htm#xref_108.md)
 
-<span id="fn_18"></span>[112:1](lca08.htm#fr_18) Perhaps one of the most
+<span id="fn_18"></span>[112:1](lca08.htm#fr_18.md) Perhaps one of the most
 sombre and inscrutable of these natural tragedies lies, for Woman, in
 the fact that the man to whom she first surrenders her body often
 acquires for her (whatever his character may be) so profound and
@@ -575,4 +575,4 @@ yet which she cannot do other than accept.
 
 ------------------------------------------------------------------------
 
-[Next: The Intermediate Sex](lca09)
+[Next: The Intermediate Sex](lca09.md)

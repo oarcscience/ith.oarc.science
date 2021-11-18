@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma03)  [Next](sma05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma03)  [Next](sma05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -72,7 +72,7 @@ and he was slain, holding the Koran in his lap, by a band of murderers,
 headed by the brother of Ayesha, who, the firebrand of Islam, it is
 probable had been secretly active in exciting the rebellion.
 
-The popular choice now fell upon Ali, but the [implacable](errata.htm#0)
+The popular choice now fell upon Ali, but the [implacable](errata.htm#0.md)
 Ayesha stimulated to revolt against his authority
 
 <span id="page_26">p. 26</span>
@@ -94,7 +94,7 @@ to resign his claims and retire to the city of Medina; but his more
 high-spirited brother, Hussein, took arms against the khalif Yezid, the
 son of Moawiya; and the narrative of his death is one of the most
 pathetic and best related incidents of Oriental history <span
-id="fr_9"></span>[\*](#fn_9). The sisters and children of Hussein were
+id="fr_9"></span>[\*](#fn_9.md). The sisters and children of Hussein were
 spared by the clemency of the victorious Yezid, and from them descend a
 numerous race, glorying in the blood of Ali and the Prophet.
 
@@ -158,13 +158,13 @@ of the family of Ali were the Keissanee, so named from Keissan, one of
 his freedmen. These, who were subdivided into several branches, held
 that Ali's rights descended, not to Hassan or Hussein, but to their
 brother, Mohammed-ben-Hanfee. One of these branch-sects maintained that
-the imamat remained <span id="fr_10"></span>[\*](#fn_10) in the person
+the imamat remained <span id="fr_10"></span>[\*](#fn_10.md) in the person
 of this Mohammed, who had never died, but had since appeared, from time
 to time, on earth, under various names. Another branch, named the
 Hashemites, held that the imamat descended from Mohammed-ben-Hanfee to
 his son Aboo-Hashem, who transmitted it to Mohammed, of the family of
 Abbas, from whom it descended to Saffah, the founder of the Abbasside
-dynasty of khalifa <span id="fr_11"></span>[†](#fn_11). It is quite
+dynasty of khalifa <span id="fr_11"></span>[†](#fn_11.md). It is quite
 evident
 
 <span id="page_29">p. 29</span>
@@ -203,7 +203,7 @@ to do till the end of all things; others that the transmission stopped
 with Mohammed Bakir, the son of Zein-al-Ahedeen, who still abode on
 earth, but unseen, like Khizer, the Guardian of the Well of Life,
 according to the beautiful eastern legend <span
-id="fr_12"></span>[\*](#fn_12). Others, still more bold, denied the
+id="fr_12"></span>[\*](#fn_12.md). Others, still more bold, denied the
 transmission, and asserted that the divine Ali sat enthroned in the
 clouds, where the thunder was the voice and the lightning the scourge
 wherewith he terrified and chastised the wicked. This sect presents the
@@ -258,7 +258,7 @@ opportune death of Ali Riza (by poison, as was said) relieved the son of
 Haroon Er-Rasheed from embarrassment. Ali Riza was interred at Meshed,
 in the province of Khorasan; and his tomb is, to the present day, a
 place of pilgrimage for devout Persians <span
-id="fr_13"></span>[\*](#fn_13).
+id="fr_13"></span>[\*](#fn_13.md).
 
 The Ismaïlites were more successful in their attempts at obtaining
 temporal power; and, as we shall presently see, a considerable portion
@@ -286,7 +286,7 @@ placed the Suffavee family on the throne of Persia in the fifteenth
 century; and it was this also which, at a much earlier period,
 established the dominion of the Fatimite khalifs of Egypt. The progress
 of this last event is thus traced by oriental historians <span
-id="fr_14"></span>[\*](#fn_14):--
+id="fr_14"></span>[\*](#fn_14.md):--
 
 The encouragement given to literature and science by the enlightened
 Al-Mamoon had diffused a degree of boldness of speculation and inquiry
@@ -339,7 +339,7 @@ Syria, where he died. His son and
 
 grandsons followed up his plans, and in their time a convert was made
 who speedily brought the system into active operation <span
-id="fr_15"></span>[\*](#fn_15).
+id="fr_15"></span>[\*](#fn_15.md).
 
 The name of this person was Carmath, a native of the district of Koofa,
 and from him the sect was called Carmathites. He made great alterations
@@ -382,7 +382,7 @@ During this period of contest between the house of Abbas and the
 Carmathites, a dai (*missionary*) of the latter, named Abdallah,
 contrived to liberate from the prison into which he had been thrown by
 the khalif Motadhad a real or pretended descendant of Fatima, named
-Obeid-Allah <span id="fr_16"></span>[\*](#fn_16), whom he conveyed to
+Obeid-Allah <span id="fr_16"></span>[\*](#fn_16.md), whom he conveyed to
 Africa, and, proclaiming him to be the promised Mehdi (*guide*),
 succeeded in establishing for him a dominion on the north coast of that
 country. The gratitude of Obeid-Allah was shown by his putting to death
@@ -417,9 +417,9 @@ may be allowed to hesitate as to the correctness of some of the details.
 This society, we are told, comprised both men and women, who met in
 separate assemblies, for the common supposition of the insignificance of
 the latter sex in the east is erroneous. It was presided over by the
-chief missionary (*Dai-al-Doat* <span id="fr_17"></span>[\*](#fn_17)),
+chief missionary (*Dai-al-Doat* <span id="fr_17"></span>[\*](#fn_17).md),
 who was always a person of importance in the state, and not unfrequently
-supreme judge (*Kadhi-al-kodhat* <span id="fr_18"></span>[†](#fn_18)).
+supreme judge (*Kadhi-al-kodhat* <span id="fr_18"></span>[†](#fn_18).md).
 Their assemblies, called Societies of Wisdom (*Mejalis-al-hicmet*), were
 held twice a-week, on Mondays and Wednesdays. All the members appeared
 clad in white. The president, having first waited on the khalif, and
@@ -476,7 +476,7 @@ Adam, Noah, Abraham, Moses, Jesus, Mohammed, and Ismaïl, the son of
 Jaaffer; the seven principal helpers, called Seats (*soos*), were Seth,
 Shem, Ishmael (the son of Abraham), Aaron, Simon, Ali, and Mohammed, the
 son of Ismaïl. It is justly observed <span
-id="fr_19"></span>[\*](#fn_19) that, as this last personage was not more
+id="fr_19"></span>[\*](#fn_19.md) that, as this last personage was not more
 than a century dead, the teacher had it in his power to fix on whom he
 would as the mute prophet of the present time, and inculcate the belief
 in, and obedience to, him of all who had not got beyond this degree. 5.
@@ -503,7 +503,7 @@ to be flung down. Prophets and teachers, heaven and hell, all were
 nothing; future bliss and misery were idle dreams; all actions were
 permitted. 9. The ninth degree had only to inculcate that nought was to
 be believed, everything might be done <span
-id="fr_20"></span>[\*](#fn_20).
+id="fr_20"></span>[\*](#fn_20.md).
 
 In perusing the accounts of secret societies, their rules, regulations,
 degrees, and the quantity or nature of the knowledge communicated in
@@ -573,13 +573,13 @@ we now proceed.
 
 ### Footnotes
 
-<span id="fn_9"></span>[26:\*](sma04.htm#fr_9) See Ockley's History of
+<span id="fn_9"></span>[26:\*](sma04.htm#fr_9.md) See Ockley's History of
 the Saracens.
 
-<span id="fn_10"></span>[28:\*](sma04.htm#fr_10) Hence they were named
+<span id="fn_10"></span>[28:\*](sma04.htm#fr_10.md) Hence they were named
 the Standing (*Wakfiyah*).
 
-<span id="fn_11"></span>[28:†](sma04.htm#fr_11) Abbas, the ancestor of
+<span id="fn_11"></span>[28:†](sma04.htm#fr_11.md) Abbas, the ancestor of
 this family, was one of the uncles <span id="page_29">p. 29</span> of
 the Prophet. They obtained possession of the khalifat A.D. 750, and
 retained it through an hereditary succession of princes for 500 years.
@@ -591,7 +591,7 @@ any other town can claim, a degree of romantic celebrity by means of the
 inimitable Thousand and One Nights. Such is the ennobling power of
 genius!
 
-<span id="fn_12"></span>[30:\*](sma04.htm#fr_12) Khizer, by some
+<span id="fn_12"></span>[30:\*](sma04.htm#fr_12.md) Khizer, by some
 supposed, but perhaps erroneously, to be the prophet Elias, is regarded
 by the Mohammedans in the light of a beneficent genius. He is the giver
 of youth to the animal and the vegetable world. He is clad in garments
@@ -610,28 +610,28 @@ of fate did not permit the guardian of the fount to fill it for him
 again. The moral of this tale is evident. Its historic foundation is the
 journey of the Macedonian to the temple of Ammon.
 
-<span id="fn_13"></span>[32:\*](sma04.htm#fr_13) See Frazer's Khorasān.
+<span id="fn_13"></span>[32:\*](sma04.htm#fr_13.md) See Frazer's Khorasān.
 
-<span id="fn_14"></span>[33:\*](sma04.htm#fr_14) Lari and Macrisi,
+<span id="fn_14"></span>[33:\*](sma04.htm#fr_14.md) Lari and Macrisi,
 quoted by Hammer.
 
-<span id="fn_15"></span>[35:\*](sma04.htm#fr_15) Macrisi is Hammer's
+<span id="fn_15"></span>[35:\*](sma04.htm#fr_15.md) Macrisi is Hammer's
 authority for the preceding account of Abdallah. It is to be observed
 that this Abdallah is unnoticed by Herbelot.
 
-<span id="fn_16"></span>[36:\*](sma04.htm#fr_16) The genuineness of the
+<span id="fn_16"></span>[36:\*](sma04.htm#fr_16.md) The genuineness of the
 descent of Obeid-Allah has been a great subject of dispute among the
 eastern historians and jurists. Those in the interests of the house of
-Abbas strained [every](errata.htm#1) nerve to make him out an impostor.
+Abbas strained [every](errata.htm#1.md) nerve to make him out an impostor.
 
-<span id="fn_17"></span>[37:\*](sma04.htm#fr_17) That is, *Missionary of
+<span id="fn_17"></span>[37:\*](sma04.htm#fr_17.md) That is, *Missionary of
 Missionaries*.
 
-<span id="fn_18"></span>[37:†](sma04.htm#fr_18) *Cadhi of Cadhis*.
+<span id="fn_18"></span>[37:†](sma04.htm#fr_18.md) *Cadhi of Cadhis*.
 
-<span id="fn_19"></span>[39:\*](sma04.htm#fr_19) Hammer, p. 54.
+<span id="fn_19"></span>[39:\*](sma04.htm#fr_19.md) Hammer, p. 54.
 
-<span id="fn_20"></span>[40:\*](sma04.htm#fr_20) Mr. De Sacy (*Journal
+<span id="fn_20"></span>[40:\*](sma04.htm#fr_20.md) Mr. De Sacy (*Journal
 des Savans*, an 1818) is of opinion that the Arabic words *Taleel* and
 *Ibahat* will not hear the strong sense which Hammer gives them. The
 former, he says, only signifies that Deism which regards the Deity as
@@ -642,4 +642,4 @@ moral obligations.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](sma05)
+[Next: Chapter III](sma05.md)

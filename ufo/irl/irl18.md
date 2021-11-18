@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl17)  [Next](irl19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl17)  [Next](irl19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -169,13 +169,13 @@ merely mental reaction to outside stimulation. They served others’
 purposes with the products of their minds as well as the motions of
 their bodies. The shape of their lips, the seductive sleekness of their
 bodies, the looks of longing and desire in their eyes. <span
-id="fr_53"></span>[17](#fn_53)
+id="fr_53"></span>[17](#fn_53.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_53"></span>[160:17](irl18.htm#fr_53) SIRENS: The authors
+<span id="fn_53"></span>[160:17](irl18.htm#fr_53.md) SIRENS: The authors
 are of the opinion that the alterations done upon the slave women of the
 Nor vice rings, carried on less efficiently here on Earth in the past,
 may be the factual origin of worldwide legends of sirens and goddesses
@@ -203,4 +203,4 @@ closer to these infinitely desirable voices.—Author.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. A Valuable Chunk of Meat](irl19)
+[Next: Chapter VII. A Valuable Chunk of Meat](irl19.md)

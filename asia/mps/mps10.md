@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps09) 
-[Next](mps11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps09.md) 
+[Next](mps11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ sun do to thee! Behold, I have turned thy darkness to dawn.'
 
 ------------------------------------------------------------------------
 
-[Next: VIII. First Letter Written by Tariel to His Beloved](mps11)
+[Next: VIII. First Letter Written by Tariel to His Beloved](mps11.md)

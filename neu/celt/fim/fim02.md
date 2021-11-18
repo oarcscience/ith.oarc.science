@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fim01)  [Next](fim03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fim01)  [Next](fim03.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ and Visitor Folk, but that it may be accepted as a contribution--though
 an insignificant one--to the science of Folk-Lore.
 
 Thanks are due to the many kind friends <span
-id="fr_8"></span>[1](#fn_8) who have contributed scraps of Folk-Lore,
+id="fr_8"></span>[1](#fn_8.md) who have contributed scraps of Folk-Lore,
 and to Professor Rhys and Mr. Alfred Nutt, for assistance in Chapter 1.
 
 A. W. MOORE.
@@ -32,7 +32,7 @@ Cronkbourne, June, 1891.
 
 ### Footnotes
 
-<span id="fn_8"></span>[vii:1](fim02.htm#fr_8) In some cases the name of
+<span id="fn_8"></span>[vii:1](fim02.htm#fr_8.md) In some cases the name of
 the contributor has been attached; but in others, as similar information
 has been given by so many different persons, this has not been
 practicable. Stories told to the writer, which have not been committed
@@ -40,4 +40,4 @@ to writing by the teller, are marked *Oral*.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](fim03)
+[Next: Table of Contents](fim03.md)

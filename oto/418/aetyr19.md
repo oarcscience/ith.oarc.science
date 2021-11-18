@@ -1,27 +1,27 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 19th Aethyr,  
-Which is Called POP**[**1**](#1)
+Which is Called POP**[**1**](#1.md)
 
 At first there is a black web over the face of the stone. A ray of light
-pierces it from behind and above. Then cometh a black cross[**2**](#2),
+pierces it from behind and above. Then cometh a black cross[**2**](#2.md),
 reaching across the whole stone; then a golden cross, not so large. And
 there is a writing in an arch that spans the cross, in an alphabet in
-which the letters are all formed of little daggers[**3**](#3),
+which the letters are all formed of little daggers[**3**](#3.md),
 cross-hilted, differently arranged. And the writing is: Worship in the
 body the things of the body; worship in the mind the things of the mind;
-worship in the spirit the things of the spirit[**4**](#4).
+worship in the spirit the things of the spirit[**4**](#4.md).
 
 (This holy alphabet must be written by sinners, that is, by those who
-are impure.)[**5**](#5)
+are impure.)[**5**](#5.md)
 
 "Impure" means those whose every thought is followed by another thought,
 or who confuse the higher with the lower, the substance with the shadow.
 Every Aethyr is truth, though it be but a shadow, for the shadow of a
-man is not the shadow of an ape[**6**](#6).
+man is not the shadow of an ape[**6**](#6.md).
 
 (*Note*. --- All this has come to me without voice, without vision,
 without thought.)
@@ -31,10 +31,10 @@ I go on from Aethyr to Aethyr, it seems more difficult to open the
 Aethyr.
 
 The golden cross has become a little narrow door, and an old man like
-the Hermit[**7**](#7) of the Taro has opened it and come out. I ask him
+the Hermit[**7**](#7.md) of the Taro has opened it and come out. I ask him
 for admission: and he shakes his head kindly, and says: It is not given
 to flesh and blood to unveil the mysteries of the Aethyr, for therein
-are the chariots of fire[**8**](#8). and the tumult of the horsemen;
+are the chariots of fire[**8**](#8.md). and the tumult of the horsemen;
 whoso entereth here may never look on life again with equal eyes. I
 insist.
 
@@ -49,42 +49,42 @@ No; that is all wrong, for this is not a battle between two forces, but
 a mle in which each warrior fights for himself against all the others. I
 cannot see one who has even one ally. And the least fortunate, who fall
 soonest, are those in the chariots. For as soon as they are engaged in
-fighting, their own charioteers stab them in the back[**9**](#9).
+fighting, their own charioteers stab them in the back[**9**](#9.md).
 
 And in the midst of the battlefield there is a great tree, like a
-chinar-tree[**10**](#10). Yet it bears fruits. And now all the warriors
+chinar-tree[**10**](#10.md). Yet it bears fruits. And now all the warriors
 are dead, and they are the ripe fruits that are fallen -- the ground is
 covered with them.
 
 There is a laugh in my right ear: "This is the tree of
-life[**11**](#11)."
+life[**11**](#11.md)."
 
-And now there is a mighty god, Sebek[**12**](#12), with the head of a
+And now there is a mighty god, Sebek[**12**](#12.md), with the head of a
 crocodile. His head is gray, like river mud, and his jaws fill the whole
 Aire. And he crunches up the whole tree and the ground and everything.
 
 Now then at last cometh forth the Angel of the Aethyr, who is like the
-Angel of the fourteenth key of Rota[**13**](#13), with beautiful blue
+Angel of the fourteenth key of Rota[**13**](#13.md), with beautiful blue
 wings, blue robes, the sun in her girdle like a brooch, and the two
 crescents of the moon shapen into sandals for her feet. Her hair is of
 flowing gold, each sparkle as a star. In her hands are the torch of
-Penelope and the cup of Circe[**14**](#14).
+Penelope and the cup of Circe[**14**](#14.md).
 
-She comes and kisses me on the mouth[**15**](#15), and says: Blessed art
+She comes and kisses me on the mouth[**15**](#15.md), and says: Blessed art
 thou who hast beheld Sebek my Lord in his glory. Many are the champions
 of life, but all are unhorsed by the lance of death. Many are the
 children of the light, but their eyes shall all be put out by the Mother
 Darkness. Many are the servants of love, but love (that is not quenched
 by aught but love) shall be put out, as the child taketh the wick of a
 taper between his thumb and finger, by the god that sitteth
-alone[**16**](#16).
+alone[**16**](#16.md).
 
 And on her mouth, like a chrysanthemum of radiant light, is a kiss, and
 on it is the monogram I.H.S. The letters I.H.S. mean In Homini Salus and
 Instar Hominis Summus, and Imago Hominis deuS. And there are many, many
 other meanings, but they all imply this one thing; that nothing is of
 any importance but man; there is no hope or help but in
-man[**17**](#17).
+man[**17**](#17.md).
 
 And she says: Sweet are my kisses, O wayfarer that wanderest from star
 to star. Sweet are my kisses, O householder that weariest within four
@@ -95,7 +95,7 @@ up. See how all around thee gather my warriors, strong knights in goodly
 armour ready for war. Look upon my crown; it is above the stars. Behold
 the glow and the blush thereof! Upon thy cheek is the breeze that stirs
 those plumes of truth. For though I am the Angel of the fourteenth key,
-I am also the Angel of the eighth key[**18**](#18). And from the love of
+I am also the Angel of the eighth key[**18**](#18.md). And from the love of
 these two have I come, who am the warden of Pop and the servant of them
 that dwell therein. Though all crowns fall, mine shall not fall; for my
 plumes reach up unto the Knees of Him that sitteth upon the holy throne,
@@ -103,24 +103,24 @@ and liveth and reigneth for ever and ever as the balance of
 righteousness and truth. I am the Angel of the moon. I am the veiled one
 that sitteth between the pillars veiled with a shining veil, and on my
 lap is the open Book of the mysteries of the ineffable
-light[**19**](#19). I am the aspiration unto the higher; I am the love
+light[**19**](#19.md). I am the aspiration unto the higher; I am the love
 of the unknown. I am the blind ache within the heart of man. I am the
 minister of the sacrament of pain. I swing the censer of worship, and I
 sprinkle the waters of purification. I am the daughter of the house of
-the invisible. I am the Priestess of the Silver Star[**20**](#20).
+the invisible. I am the Priestess of the Silver Star[**20**](#20.md).
 
 And she catches me up to her as a mother catches her babe, and holds me
-up in her left arm, and sets my lips to her breast[**21**](#21). And
-upon her breast is written: *Rosa Mundi est Lilium Coeli*[**22**](#22)
+up in her left arm, and sets my lips to her breast[**21**](#21.md). And
+upon her breast is written: *Rosa Mundi est Lilium Coeli*[**22**](#22.md)
 squares in the midst. It radiates a blaze of light, too dazzling to make
 out the characters, and a voice says: *Non haec piscis
-omnium*[**23**](#23).
+omnium*[**23**](#23.md).
 
 (To interpret that, we must think of '{GRK:Iota}{GRK:chi}{GRK:theta}
 {GRK:upsilon} '{GRK:sigma}, which does not conceal *Iesous Christos
 Theon Uios Soter* as traditionally asserted, but is a mystery of the
 letter Nun and the letter Qoph, as may be seen by adding it
-up[**24**](#24).)
+up[**24**](#24)..md)
 
 ('{GRK:Iota}{GRK:chi}{GRK:theta}{GRK:upsilon}'{GRK:sigma} is only
 connected with Christianity because it was a hieroglyph of syphilis,
@@ -131,7 +131,7 @@ by fish- eating.)
 (One important meaning of '{GRK:Iota}{GRK:chi}{GRK:theta}
 {GRK:upsilon}'{GRK:sigma}: it is formed of the initials of five Egyptian
 deities and also of five Greek deities: in both cases a magic formula of
-tremendous power is concealed[**25**](#25).
+tremendous power is concealed[**25**](#25.md).
 
 As to the Holy Table itself, I cannot see it for the blaze of light; but
 I am given to understand that it appears in another Aethyr, of which it
@@ -143,9 +143,9 @@ I have grown greater, so that I am as great as the Angel. And we are
 standing, as if crucified, face to face, our hands and lips and breasts
 and knees and feet together, and her eyes pierce into my eyes like
 whirling shafts of steel, so that I fall backwards headlong through the
-Aethyr[**26**](#26) ---and there is a sudden and tremendous shout,
+Aethyr[**26**](#26.md) ---and there is a sudden and tremendous shout,
 absolutely stunning, cold and brutal: Osiris was a black
-god[**27**](#27)! And the Aethyr claps its hands, greater than the peal
+god[**27**](#27.md)! And the Aethyr claps its hands, greater than the peal
 of a thousand mighty thunders.
 
 I am back.
@@ -275,4 +275,4 @@ November 30, 1909 10-11:45 p.m.
 
 ------------------------------------------------------------------------
 
-> [**Back to Liber 418**](418)
+> [**Back to Liber 418**](418.md)

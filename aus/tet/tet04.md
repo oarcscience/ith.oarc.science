@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet03)  [Next](tet05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet03)  [Next](tet05.md) 
 
 ------------------------------------------------------------------------
 
@@ -260,4 +260,4 @@ reckon descent in the male line.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Relationships And Totems](tet05)
+[Next: Chapter III. Relationships And Totems](tet05.md)

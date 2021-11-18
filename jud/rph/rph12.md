@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph11)  [Next](rph13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph11)  [Next](rph13.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,8 +39,8 @@ the formation and of the antiquity of the Zohar, is
 
 summed up impartially by two authors whom we have already cited several
 times. "The Zohar," says Abraham ben Solomon Zacuto, in his "Book of
-Genealogies," <span id="fr_124"></span>[1](#fn_124)--"the Zohar, whose
-rays illumine the world, <span id="fr_125"></span>[2](#fn_125) and which
+Genealogies," <span id="fr_124"></span>[1](#fn_124.md)--"the Zohar, whose
+rays illumine the world, <span id="fr_125"></span>[2](#fn_125.md) and which
 contains the most profound mysteries of the Law and of the Kabbalah, is
 not the work of Simeon ben Yohai, although it has been published under
 his name. But it was edited by his disciples according to his words, and
@@ -50,10 +50,10 @@ who had lived long enough to know the Mishnah and all the opinions and
 precepts of the oral law, they are, for that reason, all the more in
 harmony with the truth. This book was not discovered until after the
 death of Rabbi Moses ben Nahman and of Rabbi Asher, who knew of
-it." <span id="fr_126"></span>[3](#fn_126)
+it." <span id="fr_126"></span>[3](#fn_126.md)
 
 Rabbi Gedaliah, author of the famous chronicle "The Chain of
-Tradition," <span id="fr_127"></span>[4](#fn_127) expresses his opinion
+Tradition," <span id="fr_127"></span>[4](#fn_127.md) expresses his opinion
 on the same subject in the following words: "Toward the year five
 thousand and fifty of the Creation (1290 Christian era) there were
 different persons who claimed that all the parts of the Zohar written in
@@ -70,7 +70,7 @@ ben Yohai and his friends, in order to derive great benefit therefrom
 <span id="page_89">p. 89</span>
 
 from the learned quarters. It is added that he acted thus because he was
-poor and crushed by burdens." <span id="fr_128"></span>[5](#fn_128) "As
+poor and crushed by burdens." <span id="fr_128"></span>[5](#fn_128.md) "As
 far as I am concerned," adds the same author, "I hold that all these
 opinions are baseless, and I believe, to the contrary, that Rabbi Simeon
 ben Yohai and his pious association did really say all these things and
@@ -86,7 +86,7 @@ We see by these words, to which modern criticism has not added much of a
 decisive character, that the question we are now considering has already
 been solved in three different ways. Some maintain, that, barring a few
 passages written in Hebrew--which do not exist nowadays in any edition
-or in any known manuscript-- <span id="fr_129"></span>[6](#fn_129) the
+or in any known manuscript-- <span id="fr_129"></span>[6](#fn_129.md) the
 Zohar pertains entirely to Simeon ben Yohai; others, just as exclusive
 in their view, attribute it to an impostor called Moses de Leon, and do
 not date it earlier than the end of the thirteenth or the beginning of
@@ -105,11 +105,11 @@ literally, the first of the two opinions is hardly worthy
 
 of serious refutation. Let us first look at the fact which was to serve
 as its basis and which we shall borrow from the Talmud: <span
-id="fr_130"></span>[7](#fn_130)
+id="fr_130"></span>[7](#fn_130.md)
 
 Rabbi Judah, Rabbi Jose and Rabbi Simeon were together one day, and near
 them was a certain Judah ben Gerim. <span
-id="fr_131"></span>[8](#fn_131) Rabbi Judah opened (the conversation)
+id="fr_131"></span>[8](#fn_131) Rabbi Judah opened (the conversation.md)
 and said: "How beautiful are the works of this nation (the Romans). They
 let bridges, markets and public baths be erected!" Rabbi Jose kept
 silence; but Rabbi Simeon ben Yohai answered: "Whatever they erected is
@@ -118,12 +118,12 @@ built baths for their own pleasure; and they built bridges to levy taxes
 on." Judah ben Gerim went out and told what he heard, and caused it to
 reach the ears of Caesar (the Roman government); and the latter rendered
 the following judgment: "Judah, who exalted shall be raised in
-dignity; <span id="fr_132"></span>[9](#fn_132) Jose, who kept silence,
-shall be exiled to Cyprus; <span id="fr_133"></span>[10](#fn_133)
+dignity; <span id="fr_132"></span>[9](#fn_132.md) Jose, who kept silence,
+shall be exiled to Cyprus; <span id="fr_133"></span>[10](#fn_133.md)
 Simeon, who spoke ill of me, shall be put to death." Accompanied by his
 son, he (Rabbi Yohai) immediately repaired to the house of study,
 whither his wife brought him daily a loaf of bread and a bowl of
-water. <span id="fr_134"></span>[11](#fn_134) But as the proscriptive
+water. <span id="fr_134"></span>[11](#fn_134.md) But as the proscriptive
 decree became too oppressive, he said to his son: "Woman is
 light-minded, and when tortured perhaps, may betray us." They,
 therefore, left this place to hide in a deep cave.
@@ -138,7 +138,7 @@ passed all day meditating upon the Law. Twelve years they thus spent in
 the cave, until the prophet Elijah came, placed himself at the entrance
 of the cave and exclaimed: "Who will announce to the son of Yohai that
 Caesar is dead, and that the proscription has been revoked?" They went
-forth, <span id="fr_135"></span>[12](#fn_135) and saw people sow and
+forth, <span id="fr_135"></span>[12](#fn_135.md) and saw people sow and
 plow.
 
 It is said (although not vouched for any longer by the Talmud) that
@@ -154,17 +154,17 @@ the destruction of Jerusalem, in the second century of the Christian
 era, could certainly not have known. For instance, how could he have
 spoken of the six portions into which the Mishnah is divided, when the
 latter was written nearly sixty years after his death? <span
-id="fr_136"></span>[13](#fn_136) How could he have mentioned the authors
+id="fr_136"></span>[13](#fn_136.md) How could he have mentioned the authors
 and the procedure of the Gemara which commences at the death of Judah
 the Saint, and ends only five hundred years after the birth of
-Christ? <span id="fr_137"></span>[14](#fn_137) How could he have learned
+Christ? <span id="fr_137"></span>[14](#fn_137.md) How could he have learned
 the names of vowel
 
 <span id="page_92">p. 92</span>
 
 signs and other inventions of the school of Tiberias which, at most, can
 not reach back earlier than the beginning of the sixth century? <span
-id="fr_138"></span>[15](#fn_138)
+id="fr_138"></span>[15](#fn_138.md)
 
 Several critics have suggested that under the name of the Ishmaelites
 the Zohar refers to the Mohammedan Arabs who are so designated in all
@@ -175,7 +175,7 @@ makes it difficult to deny that interpretation:
 full moon signifies the good, the new moon signifies the evil; as it
 holds equally the good and the evil, the children of Israel and the
 children of Ishmael have alike taken it as the rule of their
-calculations. <span id="fr_139"></span>[16](#fn_139) If an eclipse takes
+calculations. <span id="fr_139"></span>[16](#fn_139.md) If an eclipse takes
 place during the full moon, it is not a good omen for Israel; if, on the
 contrary, the eclipse takes place during the new moon (an eclipse of the
 sun), it is a bad omen for Ishmael. Thus are verified the words of the
@@ -216,7 +216,7 @@ even of the crusades before the fall of Jerusalem. As to the prediction
 of Simeon ben Yohai, I need not tell what place it is to hold in our
 judgment. But I shall not dwell any longer upon the demonstration of
 these facts, generally known now and vyingly repeated by all modern
-critics. <span id="fr_140"></span>[17](#fn_140) We shall add only one
+critics. <span id="fr_140"></span>[17](#fn_140.md) We shall add only one
 last observation which, I hope, will not be without merit for the
 conclusion which we are desirous to reach at last. In order to gain the
 conviction that Simeon ben Yohai cannot possibly be the author of the
@@ -236,14 +236,14 @@ them his last instructions.
 
 "Thou," he said to Eleazer, "will teach; Rabbi Abba will write, and my
 other friends will meditate in silence." <span
-id="fr_142"></span>[18](#fn_142) The master Yohai is seldom introduced
+id="fr_142"></span>[18](#fn_142.md) The master Yohai is seldom introduced
 as speaking. His doctrines are delivered orally by his son or his
 friends, who again come together after his death to communicate to one
 another what each one remembered of his teachings, and to enlighten
 themselves mutually on the common faith. The words of the Scriptures:
 "How good and how pleasant it is for brethren to dwell together in
 unity," were thought by them applicable to themselves. <span
-id="fr_143"></span>[19](#fn_143) When some of them meet on the highway,
+id="fr_143"></span>[19](#fn_143.md) When some of them meet on the highway,
 their conversation immediately turns upon the habitual subject of their
 meditations, and some passage of the Old Testament is then explained in
 a purely spiritual sense. Here is an example taken at random from
@@ -251,7 +251,7 @@ thousands: "Rabbi Judah and Rabbi Jose were together on a journey. Rabbi
 Judah then said to his travelling companion: 'Tell me something from the
 Law, and the divine spirit will descend to us; for as often as man
 meditates upon the words of the Law, the spirit of God either joins him
-or goes before him to lead him'." <span id="fr_144"></span>[20](#fn_144)
+or goes before him to lead him'." <span id="fr_144"></span>[20](#fn_144.md)
 
 Finally, as has been said before, books are also cited, of which only
 widely scattered fragments have come down to us and which necessarily
@@ -269,7 +269,7 @@ change their appearance to the climate of each place, although keeping
 always the same position; that certain places on earth are light, while
 others are in darkness; that some have day while others have night; and
 that there are countries where it is always day, or where night lasts
-but a few moments at least." <span id="fr_145"></span>[21](#fn_145)
+but a few moments at least." <span id="fr_145"></span>[21](#fn_145.md)
 
 It is quite evident, accordingly, that the author of the Zohar, whoever
 he may have been, had not even intended to attribute the book to Simeon
@@ -286,7 +286,7 @@ one. But we have still more positive arguments to combat it. The Zohar
 is written in an Aramean language belonging to no particular dialect.
 What scheme could de Leon have had in mind by making use of this idiom
 which was not in use in his time? Did he, as is maintained by a modern
-critic already quoted, <span id="fr_146"></span>[22](#fn_146) desire to
+critic already quoted, <span id="fr_146"></span>[22](#fn_146.md) desire to
 impart a semblance of truth to his fictions by making the various
 persons under whose names he wished to pass off his own ideas, speak the
 language of their epoch? But since he was in possession of such
@@ -303,14 +303,14 @@ would have been more natural to make them write in Hebrew.
 Some maintain that he really did make use of this last language, that he
 did not invent the Zohar, but only falsified it by admixing his own
 thoughts, and that his imposture was soon discovered. <span
-id="fr_147"></span>[23](#fn_147) As nothing of the kind has come down to
+id="fr_147"></span>[23](#fn_147.md) As nothing of the kind has come down to
 us, this assertion need not occupy us any longer. Whether true or false,
 it confirms our observations. Besides, we are quite sure that Moses de
 Leon wrote a Kabbalistic book in Hebrew which bears the title "The Name
 of God," or, simply, "The Name,"--Sefer ha-Sham (‏ספר השם‎).
 
 The work is still in manuscript, and was seen by Moses Cordovero. <span
-id="fr_148"></span>[24](#fn_148) From the few passages that he quotes,
+id="fr_148"></span>[24](#fn_148.md) From the few passages that he quotes,
 it is evident that it was a very detailed and, frequently, a very subtle
 commentary on some of the most obscure points of the doctrine taught in
 the Zohar. The following is an example: "What are the different
@@ -338,7 +338,7 @@ Another reason which compels us to consider the Zohar as a work much
 earlier than the time of Moses de Leon, and foreign to Europe, is that
 we do not find therein the least vestige of the philosophy of Aristotle,
 and that we do not meet there, even once, the name of Christianity or of
-its founder. <span id="fr_149"></span>[25](#fn_149) It is known, though,
+its founder. <span id="fr_149"></span>[25](#fn_149.md) It is known, though,
 that Christianity and Aristotle exercised absolute authority in Europe
 in the thirteenth and fourteenth centuries. How, then, can we admit that
 a poor Spanish rabbi would have written in those fanatical days on
@@ -351,7 +351,7 @@ the commentaries on the Book of Formation which we possess nowadays,
 were we to glance at all the philosophic and religious monuments of that
 epoch and of several centuries previous, we shall find everywhere the
 language of the "Organum" and the influence of the Stagirite. <span
-id="fr_150"></span>[26](#fn_150)
+id="fr_150"></span>[26](#fn_150.md)
 
 The absence of this character is a fact of incontestible importance. We
 ought not to look in the Sefiroth, of which we shall speak at greater
@@ -376,11 +376,11 @@ understood by the Kabbalists, was known to Saadia; for he (Moses Botril)
 cites from him the following words which, he says, are quoted literally
 from the work entitled "The Philosopher's Stone" which, it is true, is
 wrongly attributed to him: "Oh! thou man who drawest from the cisterns
-at the source, <span id="fr_151"></span>[27](#fn_151) guard thyself,
+at the source, <span id="fr_151"></span>[27](#fn_151.md) guard thyself,
 when tempted, to reveal something of the belief of the emanation, which
 is a great mystery in the mouth of all the Kabbalists; and this mystery
 is hidden in the words of the Law: Thou shalt not tempt the Lord." <span
-id="fr_152"></span>[28](#fn_152)
+id="fr_152"></span>[28](#fn_152.md)
 
 Nevertheless, Saadia, in his work on "Beliefs and Opinions" attacks very
 forcibly the doctrine which is the basis of the system expounded in the
@@ -394,37 +394,37 @@ our mind can not conceive that a thing could be made from nothing. Now,
 as the Creator is the only Being who was in existence at first, they
 maintain that he drew everything from his own substance. Those men (may
 God keep you from their opinion!) have still less sense than all those
-of whom we have spoken." <span id="fr_153"></span>[29](#fn_153) The
+of whom we have spoken." <span id="fr_153"></span>[29](#fn_153.md) The
 meaning we give to these words becomes still more evident when we read
 in the same chapter that the belief to which they allude is especially
-justified in the book of Job: <span id="fr_154"></span>[30](#fn_154)
+justified in the book of Job: <span id="fr_154"></span>[30](#fn_154.md)
 "Whence then cometh wisdom, and where is the place of understanding? . .
 . God understandeth the way thereof, and He knoweth the place thereof."
 (Job, XXVII, 20 and 23.)
 
 We find here, in fact, the names consecrated by the Zohar to the first
-three highest <span id="fr_155"></span>[31](#fn_155) Sefiroth which
+three highest <span id="fr_155"></span>[31](#fn_155.md) Sefiroth which
 comprise all the others, and which are: Wisdom, Intelligence, and above
 them the Place, or the No-Thing (non-ens), <span
-id="fr_156"></span>[32](#fn_156) so called because it represents the
+id="fr_156"></span>[32](#fn_156.md) so called because it represents the
 Infinite, without attribute, without form, without any qualification, a
 state devoid of all reality, and therefore incomprehensible to us. <span
-id="fr_157"></span>[33](#fn_157) It is in this sense, say the
+id="fr_157"></span>[33](#fn_157.md) It is in this sense, say the
 Kabbalists, that all that is was drawn from No-Thing. The same author
 gives us also a psychological theory identical with that attributed to
-the school of Simeon ben Yohai; <span id="fr_158"></span>[34](#fn_158)
-and he tells us <span id="fr_159"></span>[35](#fn_159) that the dogma of
+the school of Simeon ben Yohai; <span id="fr_158"></span>[34](#fn_158.md)
+and he tells us <span id="fr_159"></span>[35](#fn_159.md) that the dogma of
 pre-existence and of transmigration of the soul, which is distinctly
 taught in the
 
 <span id="page_100">p. 100</span>
 
 <span class="contnote">\[paragraph continues\]</span> Zohar, <span
-id="fr_160"></span>[36](#fn_160) was accepted in his days by several men
+id="fr_160"></span>[36](#fn_160.md) was accepted in his days by several men
 who, nevertheless, called themselves Jews, and who, he adds, confirmed
 their extravagant opinion by the testimony of the Scriptures. Nor is
 this all. St. Jerome, in one of his letters, <span
-id="fr_161"></span>[37](#fn_161) speaks of ten mystical names, decem
+id="fr_161"></span>[37](#fn_161.md) speaks of ten mystical names, decem
 nomina mystica, by which the sacred books designated the Divinity. Now,
 these ten names which St. Jerome not only mentions, but of which he
 gives the full enumeration, are precisely the same which represent in
@@ -440,11 +440,11 @@ Crown, Wisdom, Intelligence, Beauty, Grace, Justice, etc." All
 Kabbalists agree on the principle that the ten names of God and the ten
 Sefiroth are one and the same. For, they say, the spiritual part of the
 names of God is the very essence of the divine numbers. <span
-id="fr_162"></span>[38](#fn_162) In several of his writings, St. James
+id="fr_162"></span>[38](#fn_162.md) In several of his writings, St. James
 speaks also of "certain Hebrew traditions on Genesis" which attribute to
 Paradise, or, as is always called in Hebrew, Gan Eden (‏גן עדן‎), a
 greater antiquity than that of the world. <span
-id="fr_163"></span>[39](#fn_163)
+id="fr_163"></span>[39](#fn_163.md)
 
 Let us note first, that among the Jews there were no other traditions of
 an analogous title known, than those contained in the mysterious science
@@ -456,7 +456,7 @@ As to the belief of those traditions, it is in perfect harmony with the
 Zohar, where the Supreme Wisdom, the Divine word by which creation was
 begun and accomplished, the principle of all intelligence and of all
 life, is designated as the true Eden, otherwise called the Higher Eden
-(Eden E-to-oh; ‏עדן עלאה‎). <span id="fr_164"></span>[40](#fn_164)
+(Eden E-to-oh; ‏עדן עלאה‎). <span id="fr_164"></span>[40](#fn_164.md)
 
 But a fact more important than all the facts hitherto noted, is the
 intimate resemblance offered by the Kabbalah, in language as well as in
@@ -483,17 +483,17 @@ which presents to us the Kabbalah as an imitation of the mystic
 philosophy of the Arabs, and dates its birth some time during the reign
 of the caliphs, at the earliest, near the beginning of the eleventh
 century, at the epoch when the philosophy of the Mussulmans first showed
-traces of mysticism. <span id="fr_165"></span>[41](#fn_165) This
+traces of mysticism. <span id="fr_165"></span>[41](#fn_165.md) This
 
 <span id="page_102">p. 102</span>
 
 opinion, long ago expressed as a mere conjecture in the Mémoires de
 l’Academie des Inscriptions (Memoirs of the Academy of
-Inscriptions), <span id="fr_166"></span>[42](#fn_166) has recently been
-[resuscitated](errata.htm#7) by Mr. Tholuck, who lent to it the support
+Inscriptions), <span id="fr_166"></span>[42](#fn_166.md) has recently been
+[resuscitated](errata.htm#7.md) by Mr. Tholuck, who lent to it the support
 of his rich erudition. In a preliminary memoir in which he investigated
 the influence the Greek philosophy may have exercised over the
-philosophy of the Mahommedans, <span id="fr_167"></span>[43](#fn_167)
+philosophy of the Mahommedans, <span id="fr_167"></span>[43](#fn_167.md)
 the learned orientalist comes to the conclusion that the doctrine of the
 emanation was known to the Arabs simultaneously with Aristotle's system;
 for the latter reached them through the commentaries of Themistius,
@@ -507,11 +507,11 @@ with it through ecstasy and annihilation of self.
 
 It is this, half Arabic, half Greek mysticism, that Tholuck would have
 us admit as the true and only source of the Kabbalah. <span
-id="fr_168"></span>[44](#fn_168) To that end he begins by attacking the
+id="fr_168"></span>[44](#fn_168.md) To that end he begins by attacking the
 authenticity of the Kabbalistic books, above all, that of the Zohar,
 which he regards as a compilation dating from the end of the thirteenth
 century, although he accords greater antiquity to the Kabbalah
-itself. <span id="fr_169"></span>[45](#fn_169) After having established
+itself. <span id="fr_169"></span>[45](#fn_169.md) After having established
 this point beyond doubt, as he believes, he undertakes to demonstrate
 the close resemblance of the ideas contained in those books to those
 which form the substance of Arabian mysticism. Mr. Tholuck has advanced
@@ -538,31 +538,31 @@ all from its real sources. The works of Plotinus, of Jamblicus and of
 Proclus never reached them, and none of these had ever been translated
 either into Arabic or Syrian; and of the works of Porphyrius, they
 possessed only a purely logical commentary: the introduction to the
-treaties of the Categories. <span id="fr_170"></span>[46](#fn_170)
+treaties of the Categories. <span id="fr_170"></span>[46](#fn_170.md)
 
 On the other hand, is it probable that at the time of the Mussulman
 invasion no trace was left of the ideas of ancient Persia and of the
 philosophy of the Magi, so famous throughout antiquity under the name of
 the "Wisdom of the Orient;" and that they took no part in the
 intellectual movement which made the reign of the Abbassides so
-famous? <span id="fr_171"></span>[47](#fn_171) We know that Avicenna
+famous? <span id="fr_171"></span>[47](#fn_171.md) We know that Avicenna
 wrote a book on the "Oriental Wisdom." By what right, then, dare some
 affirm, upon the strength of a few rare citations of a more modern
 author, that this book was but a collection of Neoplatonic
-thoughts? <span id="fr_172"></span>[48](#fn_172)
+thoughts? <span id="fr_172"></span>[48](#fn_172.md)
 
 When Mr. Tholuck directs our attention to the following
 
 <span id="page_104">p. 104</span>
 
-passage of Al Gazzali: <span id="fr_173"></span>[a](#fn_173) "Know, that
+passage of Al Gazzali: <span id="fr_173"></span>[a](#fn_173.md) "Know, that
 between the physical world and the one of which we just spoke, there
 exists the same relation as between our shadow and our body," <span
-id="fr_174"></span>[49](#fn_174) how is it that he does not remember
+id="fr_174"></span>[49](#fn_174.md) how is it that he does not remember
 that the Zerdustians, members of one of the religious sects of ancient
 Persia, used those same terms and the same comparison to formulate the
 fundamental principle of their belief? <span
-id="fr_175"></span>[50](#fn_175)
+id="fr_175"></span>[50](#fn_175.md)
 
 As to the Jews, the whole world knows that from the time of their
 captivity until the time of their dispersion they continued their
@@ -570,7 +570,7 @@ relations with what they called the land of Babylon. We will not dwell
 upon this point which is to be considered at length later. We will only
 say that the Zohar positively quotes the Oriental Wisdom: "That wisdom,"
 it says, "known to the children of the East since the first days," <span
-id="fr_176"></span>[51](#fn_176) and from which it cites an example in
+id="fr_176"></span>[51](#fn_176.md) and from which it cites an example in
 perfect accord with its own doctrines. It is evident that the reference
 here made has no bearing upon the Arabians whom the Hebrew writers
 invariably call "the children of Ishmael," or "the children of Arabia."
@@ -579,7 +579,7 @@ of Aristotle and his Alexandrian commentators, could not have been
 spoken of in such terms; the Zohar would not have dated it from the
 first ages of the world, nor would it have presented it as a legacy
 transmitted by Abraham to the children of his concubine, and by those to
-the nations of the Orient. <span id="fr_177"></span>[52](#fn_177)
+the nations of the Orient. <span id="fr_177"></span>[52](#fn_177.md)
 
 But we need not make use even of this argument, for the truth is that
 Arabic mysticism and the principles taught in the Zohar strike us by
@@ -601,7 +601,7 @@ absolute being, in the heart of which there rests as yet no distinction;
 begin to differentiate themselves in their essence and in intelligible
 forms, and to show themselves as present before the divine intelligence.
 The third divine manifestation is the universe itself, it is the true
-world, God become visible. <span id="fr_178"></span>[53](#fn_178)
+world, God become visible. <span id="fr_178"></span>[53](#fn_178.md)
 
 The Kabbalistic system is far from showing such simplicity. True, it
 also presents to us the divine substance as the unique substance, the
@@ -616,7 +616,7 @@ be found, each apart and offering an infinite variety--the world of Pure
 Spirit, or the world of Creation; the world of Spheres or of the
 intelligences directing them, called the world of Formation, and
 finally, that lowest degree called the world of Work, or the world of
-Action. <span id="fr_179"></span>[54](#fn_179)
+Action. <span id="fr_179"></span>[54](#fn_179.md)
 
 The Arabian mystics recognize also a collective soul, from
 
@@ -625,7 +625,7 @@ The Arabian mystics recognize also a collective soul, from
 which all the world animating souls emanate, a generating spirit whom
 they call the Father of Spirits, the Spirit of Mohammed, the source,
 model and substance of all the other spirits. <span
-id="fr_180"></span>[55](#fn_180)
+id="fr_180"></span>[55](#fn_180.md)
 
 An attempt has been made to find the pattern of the Adam Kadmon, the
 Celestial Man of the Kabbalists in this thought. But what the Kabbalists
@@ -640,7 +640,7 @@ system, can be found in the beliefs of the Arabians. In vain do we also
 search in their works for those allegories met with in the Zohar; for
 that constant appeal to tradition, for those bold personifications which
 multiply by endless genealogies--genealogiis interminatis--as St. Paul
-says, <span id="fr_181"></span>[56](#fn_181) and for those gigantic and
+says, <span id="fr_181"></span>[56](#fn_181.md) and for those gigantic and
 fantastic metaphors which are so well compatible with the spirit of the
 ancient Orient.
 
@@ -665,7 +665,7 @@ would be necessary, first of all, to find the Sefiroth among them. But
 not the least trace of the Sefiroth can be found among the Arabians; for
 they knew only one mode under which God revealed Himself. On this point,
 the Kabbalah comes much nearer to the doctrine of the Sabeans and to
-Gnosticism." <span id="fr_182"></span>[57](#fn_182) . . . The Arabic
+Gnosticism." <span id="fr_182"></span>[57](#fn_182.md) . . . The Arabic
 origin of the Kabbalah once proved inadmissible, the other theory, which
 makes of the Zohar a work. of the thirteenth century, loses the last
 support. I shall speak of a certain air of probability of which this
@@ -703,18 +703,18 @@ together by a common principle. It agrees no less with a belief which,
 according to the historian just cited, must be quite old. "I have
 learned from tradition," says the author, "that this work was so
 voluminous, that when complete, it would have made up a camel's
-load." <span id="fr_183"></span>[58](#fn_183) Now, it can not be
+load." <span id="fr_183"></span>[58](#fn_183.md) Now, it can not be
 supposed that one man, had he even spent his whole life in writing on
 such matters, could have left such deferring proof of his
 productiveness. Finally, we read in the Supplements of the Zohar, (Tikun
 ha-Zohar--‏תקוני הזהר‎), which are written in the same language, and
 known just as long as the Zohar itself, that the latter will never be
 entirely published, or, to translate more faithfully, that it will be
-disclosed at the end of the days. <span id="fr_184"></span>[59](#fn_184)
+disclosed at the end of the days. <span id="fr_184"></span>[59](#fn_184.md)
 
 If we now examine the book itself for the purpose of searching therein,
 without prejudice, for some light on its origin, we must soon notice, by
-the inequality of style <span id="fr_185"></span>[60](#fn_185) and lack
+the inequality of style <span id="fr_185"></span>[60](#fn_185.md) and lack
 of unity, not in the system, it is true, but in the exposition, method,
 application of general principles and, finally, in the consideration of
 details, that it is utterly impossible to ascribe it to one person. Not
@@ -754,7 +754,7 @@ does not explain, he does not repeat what others have taught him; but he
 affirms, and every word spoken by him is received as an article of
 faith. That character is especially noticeable in the "Book of Mystery,"
 which is a substantial, though very obscure, summary of the entire
-work. <span id="fr_186"></span>[61](#fn_186) It may be
+work. <span id="fr_186"></span>[61](#fn_186.md) It may be
 
 <span id="page_110">p. 110</span>
 
@@ -835,7 +835,7 @@ Simeon!' . . . Such was Rabbi Simeon, son of Yohai, for whom the Lord
 gave glory to Himself each day. In this world and in the world to come
 his part is lovely. Of him it was written: 'But thou go thy way toward
 the end, and thou shalt rest in peace, and arise again for thy lot at
-the end of the days'." <span id="fr_187"></span>[62](#fn_187)
+the end of the days'." <span id="fr_187"></span>[62](#fn_187.md)
 
 We do not want to exaggerate the value which these words may add to the
 observations that precede them; but they give us at least an idea of the
@@ -858,8 +858,8 @@ which is called the Book of Brightness, which, like the ark of
 of a city and seven of a kingdom; but sometimes there is but one of the
 same city, and two of the same family. It is in them that the words are
 fulfilled: Every male shall be cast into the river. Now, the river <span
-id="fr_188"></span>[63](#fn_188) is none other than the light of this
-book." <span id="fr_189"></span>[64](#fn_189) These words form a part of
+id="fr_188"></span>[63](#fn_188.md) is none other than the light of this
+book." <span id="fr_189"></span>[64](#fn_189.md) These words form a part of
 the Zohar, and yet it is evident that the Zohar was already in existence
 at the time when they were written; it was even known under the name it
 now bears. We are, therefore, forced to the conclusion that it developed
@@ -875,14 +875,14 @@ his words. One day when Rabbi Jose and Rabbi Hezekiah were travelling
 together, the conversation turned upon the verse of Ecclesiastes: "For
 that which befalleth the sons of men befalleth beasts; even one thing
 befalleth them; as the one dieth, so dieth the other; yea, they have all
-one kind of spirit." <span id="fr_190"></span>[65](#fn_190) The two
+one kind of spirit." <span id="fr_190"></span>[65](#fn_190.md) The two
 doctors could not comprehend that king Solomon, the wisest of men, had
 written those words which, if I may use the original expression, are an
 open door for those who have no faith. <span
-id="fr_191"></span>[66](#fn_191) While reasoning thus, they were
+id="fr_191"></span>[66](#fn_191.md) While reasoning thus, they were
 accosted by a man who, fatigued by a long voyage and a hot sun, asked
 them for water to drink. They gave him wine, <span
-id="fr_192"></span>[67](#fn_192) and led him to a spring
+id="fr_192"></span>[67](#fn_192.md) and led him to a spring
 
 <span id="page_114">p. 114</span>
 
@@ -890,7 +890,7 @@ of water. As soon as he felt refreshed, the stranger told them that he
 was one of their co-religionists, and that through the mediation of his
 son, who devoted his entire time to the study of the Law, he was
 initiated into this science. The question which occupied them before his
-[arrival](errata.htm#8) was then submitted to him.
+[arrival](errata.htm#8.md) was then submitted to him.
 
 For the aim we wish to reach here it is useless to tell how the stranger
 solved the question; we only want to say that he was actively applauded
@@ -901,12 +901,12 @@ entire work); that, because of humility he, one of the most renowned of
 the doctors of his time, gave his son the honor of knowledge admired in
 him; and that he came to Palestine, accompanied by the Friends, to
 collect some of the sayings of Simeon ben Yohai and his disciples. <span
-id="fr_193"></span>[68](#fn_193)
+id="fr_193"></span>[68](#fn_193.md)
 
 All the other facts recorded in this book are of the same color and take
 place on the same stage. When we add, that frequent mention is made
 there of the religious beliefs of the Orient, like Sabeism <span
-id="fr_194"></span>[69](#fn_194) and even of Islamism; that to the
+id="fr_194"></span>[69](#fn_194.md) and even of Islamism; that to the
 contrary, nothing is found there which can have any reference to the
 Christian religion, we shall understand how the Zohar, in its present
 condition, could not have been introduced into our countries until some
@@ -927,7 +927,7 @@ Jeba the Elder and Hamuna the Elder; and at the moment when he is about
 to reveal the greatest secrets of the Kabbalah, he expresses the hope
 that the shade of Hamunah will come to listen to him, followed by a
 procession of seventy of the Just. <span
-id="fr_195"></span>[70](#fn_195) I am far from pretending that either
+id="fr_195"></span>[70](#fn_195.md) I am far from pretending that either
 these personages, or these books of so remote an antiquity, really
 existed; I only wish to establish the fact that the authors of the Zohar
 never thought of representing Simeon ben Yohai as the inventor of the
@@ -938,11 +938,11 @@ attention. More than a century after the Zohar was published in Spain,
 there were still some men who knew, and who transmitted most of the
 ideas which form the substance of the Zohar, by tradition only. Of such
 was Moses Botril, who, in 1409, as he himself tells us, <span
-id="fr_196"></span>[71](#fn_196) expresses himself on the Kabbalah and
+id="fr_196"></span>[71](#fn_196.md) expresses himself on the Kabbalah and
 on the precautions to be taken in teaching it: "The Kabbalah is nothing
 other than a more pure and a more holy philosophy; only that the
 language of philosophy is not the same as that of the Kabbalah. . .
-. <span id="fr_197"></span>[72](#fn_197) It is so named because it
+. <span id="fr_197"></span>[72](#fn_197.md) It is so named because it
 proceeds, not by reasoning, but by tradition. And when the master has
 developed these matters for his disciple, that disciple must not have
 too much confidence in his wisdom; he is not permitted to speak of this
@@ -1005,17 +1005,17 @@ but the philosophers of the Italian school, otherwise called
 Pythagoreans, teach the contrary. In their opinion, the centre is
 occupied by fire, and the earth is only a star, the circular movement of
 which around that centre produces light and day." <span
-id="fr_198"></span>[73](#fn_198)
+id="fr_198"></span>[73](#fn_198.md)
 
 In their attack against philosophy, the first fathers of the church did
 not regard it as a duty to spare that opinion which is, in fact,
 irreconcilable with the cosmological system taught in Genesis. "It is,"
-said Lactantius, <span id="fr_199"></span>[74](#fn_199) "an absurdity to
+said Lactantius, <span id="fr_199"></span>[74](#fn_199.md) "an absurdity to
 believe that there are men who have the feet above their heads, and that
 there are countries where everything is upside down, where the trees and
 the plants grow from above down. . . We find the germ of this error
 among the philosophers who claimed that the earth is round." <span
-id="fr_200"></span>[75](#fn_200) St. Augustine expresses himself on the
+id="fr_200"></span>[75](#fn_200.md) St. Augustine expresses himself on the
 same subject in very similar terms. (De Civitat. Dei, lib. 16, ch. 9.)
 
 Finally, even the most ancient authors of the Gemara had knowledge of
@@ -1030,7 +1030,7 @@ represented with a globe in his hand. But even the fact which was
 thought to hold an objection against us, serves as proof; for during the
 entire duration of the Middle Ages, the true system of the world was
 barely known and the system of Ptolemy <span
-id="fr_201"></span>[76](#fn_201) reigned undivided.
+id="fr_201"></span>[76](#fn_201.md) reigned undivided.
 
 It is also astonishing to find precisely in that part of the Zohar which
 is to be considered the most ancient, medical knowledge which seems to
@@ -1043,7 +1043,7 @@ It is covered, besides, with a very thin veil, and then with another,
 tougher, veil. By means of thirty-two channels, these three parts of the
 brain ramify into the entire body along on either side. They thus
 embrace the body from all sides and spread out in all it parts." <span
-id="fr_202"></span>[77](#fn_202)
+id="fr_202"></span>[77](#fn_202.md)
 
 We can not fail to recognize in these words the three principal organs
 of which the brain and its principal coverings are composed, and the
@@ -1066,10 +1066,10 @@ But there is a condition upon which opinions are divided. According to
 some, the prohibition is only valid when both coverings are perforated;
 according to others, it is sufficient when the perforation is found in
 the tough covering (dura mater) only. <span
-id="fr_203"></span>[78](#fn_203) Others, finally, are content with a
+id="fr_203"></span>[78](#fn_203.md) Others, finally, are content with a
 dissolution of the continuity in the two interior cerebral
-coverings. <span id="fr_204"></span>[79](#fn_205) In the same treatise
-the spinal marrow, ‏חוט השדרה‎, <span id="fr_205"></span>[80](#fn_206)
+coverings. <span id="fr_204"></span>[79](#fn_205.md) In the same treatise
+the spinal marrow, ‏חוט השדרה‎, <span id="fr_205"></span>[80](#fn_206.md)
 is also spoken of, and the diseases peculiar to it. We wish to add, that
 since the middle of the second century there were professional
 physicians among the Hebrews; for it is told in the Talmud (Baba Meziah,
@@ -1079,7 +1079,7 @@ Rabbi Samuel, one of the most zealous defenders of the Tradition, a man
 who, besides medicine, occupied himself with astronomy and mathematics.
 It was said of him that "the paths of the heavens were as well known to
 him as the streets of his native city." <span
-id="fr_206"></span>[81](#fn_207)
+id="fr_206"></span>[81](#fn_207.md)
 
 Here we close--and, no doubt, it is time to end--these purely
 bibliographical observations and, what we would call, the external
@@ -1106,51 +1106,51 @@ exercised, a very important factor in the history of human thought.
 
 ### Footnotes
 
-<span id="fn_124"></span>[88:1](rph12.htm#fr_124) ‏יוחסין‎, pgs. 42 and
+<span id="fn_124"></span>[88:1](rph12.htm#fr_124.md) ‏יוחסין‎, pgs. 42 and
 45. The author of that book flourished in 1492.
 
-<span id="fn_125"></span>[88:2](rph12.htm#fr_125) It must be remembered
+<span id="fn_125"></span>[88:2](rph12.htm#fr_125.md) It must be remembered
 that the word Zohar signifies Brightness.
 
-<span id="fn_126"></span>[88:3](rph12.htm#fr_126) The first mentioned of
-the two [renowned](errata.htm#4) rabbis, after passing the greater part
+<span id="fn_126"></span>[88:3](rph12.htm#fr_126.md) The first mentioned of
+the two [renowned](errata.htm#4.md) rabbis, after passing the greater part
 of his life in Spain, died in Jerusalem in 1300. Rabbi Asher flourished
 in 1320.
 
-<span id="fn_127"></span>[88:4](rph12.htm#fr_127) ‏שלשלת הקבלה‎
+<span id="fn_127"></span>[88:4](rph12.htm#fr_127.md) ‏שלשלת הקבלה‎
 (Shalsheleth ha-Kabbalah), Amsterdam edition, fol. 23, a and b.
 
-<span id="fn_128"></span>[89:5](rph12.htm#fr_128) This is also found in
+<span id="fn_128"></span>[89:5](rph12.htm#fr_128.md) This is also found in
 the very rare Constantin edition of the "Book of Genealogies." This
 passage, which is missing in the other editions, is quoted in Ari Nohem
 (ed. Fuerst) p. 58 ff. and in Hasagoth (‏ספר ראבי״ה‎--Sefer Raviah) by
 Milsahagi, p. 29a.--Jellinek
 
-<span id="fn_129"></span>[89:6](rph12.htm#fr_129) There are two ancient
+<span id="fn_129"></span>[89:6](rph12.htm#fr_129.md) There are two ancient
 editions of the Zohar which served as models for all others: the Cremona
 edition and the Mantua edition, both published in the year 1559.
 
-<span id="fn_130"></span>[90:7](rph12.htm#fr_130) Babylonian Talmud,
+<span id="fn_130"></span>[90:7](rph12.htm#fr_130.md) Babylonian Talmud,
 Tract. Sabbath, fol. 3b.
 
-<span id="fn_131"></span>[90:8](rph12.htm#fr_131) ‏בן גרים‎. The literal
+<span id="fn_131"></span>[90:8](rph12.htm#fr_131.md) ‏בן גרים‎. The literal
 meaning of this name is "descendant of proselytes." The inference is
 that, according to a sentiment very common among the ancients, his
 foreign blood was the cause of his treason.
 
-<span id="fn_132"></span>[90:9](rph12.htm#fr_132) There is a play upon
+<span id="fn_132"></span>[90:9](rph12.htm#fr_132.md) There is a play upon
 words in that text: ‏שיעלה‎ (sh’yaleh), ‏יתעלה‎ (yith-aleh), the one
 *who raised* (sc. laudibus), shall *be raised* (sc.
 dignitate).--Jellinek
 
-<span id="fn_133"></span>[90:10](rph12.htm#fr_133) Josephus, d. b. j. I,
+<span id="fn_133"></span>[90:10](rph12.htm#fr_133.md) Josephus, d. b. j. I,
 3, ch. 3. Ζέπφωρις μεγίστη τῆς Γαλιλαίας πόλις.--Jellinek
 
-<span id="fn_134"></span>[90:11](rph12.htm#fr_134) The original has
+<span id="fn_134"></span>[90:11](rph12.htm#fr_134.md) The original has
 "gardienne" (overseer); but the word ‏דביתהו‎ usually means
 "wife."--Jellinek.
 
-<span id="fn_135"></span>[91:12](rph12.htm#fr_135) The story of the
+<span id="fn_135"></span>[91:12](rph12.htm#fr_135.md) The story of the
 flight and sojourn of ben Yohai in the cave is represented more fully in
 the Jerusalem Talmud, Tractat Shebuoth, ch. 9. Midrash Rabba to Genesis
 Sec. Vayishlah; to Koheleth, par. ‏חופר גומץ.‎; to Esther, par. ‏גם
@@ -1159,68 +1159,68 @@ famous Jewish archaeologist Rapaport had attempted to bring in accord
 the chronological part of this story with the Roman history. (See the
 Hebrew Year Book "Kerem Hemed," Vol. 7, p. 182-185.)--Jellinek
 
-<span id="fn_136"></span>[91:13](rph12.htm#fr_136) Zohar, Mantua
+<span id="fn_136"></span>[91:13](rph12.htm#fr_136.md) Zohar, Mantua
 edition, 3rd part, fol. 26.--ib. fol. 29b. We prefer to cite the last
 passage in which the six treatises of the Mishnah are compared to the
 six steps of the supreme throne: ‏שית סדרי משני איהו שש מעלות לשסא‎.
 
-<span id="fn_137"></span>[91:14](rph12.htm#fr_137) All the terms of the
+<span id="fn_137"></span>[91:14](rph12.htm#fr_137.md) All the terms of the
 Talmudic discussion are enumerated in the following passages: ‏וימררו את
 הייהם זן קושיא בחמר דא ק״ו ובלבנים דא לבון הלכה זבכל עבודה בשדה דא
 ברייתא אשר עבדו בפרך דא תיקו‎ <span id="page_92">p. 92</span>, Vol. III,
 fol. 153a. Mantua ed.
 
-<span id="fn_138"></span>[92:15](rph12.htm#fr_138) Genesis, col. 152 and
+<span id="fn_138"></span>[92:15](rph12.htm#fr_138.md) Genesis, col. 152 and
 153:--Lev. 57b,--Mantua ed. Vol. I, fol. 24b.
 
-<span id="fn_139"></span>[92:16](rph12.htm#fr_139) ‏ומיהדא איהן טוב ורע
+<span id="fn_139"></span>[92:16](rph12.htm#fr_139.md) ‏ומיהדא איהן טוב ורע
 מונין בה ישראל זמונין בה בני ישמעזל.‎
 
-<span id="fn_140"></span>[93:17](rph12.htm#fr_140) ‏מטפחת הספרים‎, 3rd
-part, fol. 281b, Mantua ed. <span id="fr_141"></span>[\*](#fn_141) See
+<span id="fn_140"></span>[93:17](rph12.htm#fr_140.md) ‏מטפחת הספרים‎, 3rd
+part, fol. 281b, Mantua ed. <span id="fr_141"></span>[\*](#fn_141.md) See
 Peter Beer, "History of the sects in Judaism," 2nd part, p. 50
 ff.--Morinus, Exercitat. biblic. liber II, exercit. 9.--Wolf, Biblioth.
 hebr.
 
-<span id="fn_141"></span>[93:\*](rph12.htm#fr_141) The place of printing
+<span id="fn_141"></span>[93:\*](rph12.htm#fr_141.md) The place of printing
 and number of volumes are given wrongly. This book was printed in Altona
 in 1768 in two volumes.--Jellinek.
 
-<span id="fn_142"></span>[94:18](rph12.htm#fr_142) ‏וכר אסדרנא לכו ר׳
+<span id="fn_142"></span>[94:18](rph12.htm#fr_142.md) ‏וכר אסדרנא לכו ר׳
 אבא יכתוב ור׳ אלעזר ברי ילעי ושאר הברייא ירחשון בלבייהן‎ Part III, p.
 287b.
 
-<span id="fn_143"></span>[94:19](rph12.htm#fr_143) Part III, fol. 59b.
+<span id="fn_143"></span>[94:19](rph12.htm#fr_143.md) Part III, fol. 59b.
 
-<span id="fn_144"></span>[94:20](rph12.htm#fr_144) Part I, fol. 115b.
+<span id="fn_144"></span>[94:20](rph12.htm#fr_144.md) Part I, fol. 115b.
 
-<span id="fn_145"></span>[95:21](rph12.htm#fr_145) ‏ובספרא דרב הטנונא
+<span id="fn_145"></span>[95:21](rph12.htm#fr_145.md) ‏ובספרא דרב הטנונא
 סבא פריש יתיך דהא סל ישובא מתגלגלא בעיגילא ככדור אלין לתתא ואלין לעילא‎
 Part III, fol. 10a.
 
-<span id="fn_146"></span>[95:22](rph12.htm#fr_146) Cum auctor esset
+<span id="fn_146"></span>[95:22](rph12.htm#fr_146.md) Cum auctor esset
 recentissimus, linguaque chaldaica sua actate prorsus esset extincta,
 eamque Judaei doctiores raro intelligerent, consulto chaldaice scripsit,
 ut antiquitatem apud popularium vulgus libris suis
 conciliaret.--Morinus, Exercitatt. bibl. 1, 2, exercit. 9, ch. 5.
 
-<span id="fn_147"></span>[96:23](rph12.htm#fr_147) Besides the two
+<span id="fn_147"></span>[96:23](rph12.htm#fr_147.md) Besides the two
 historians cited above, see Bartalocci, Magna Bibliotheca rabbinica,
 Vol. 4, p. 82.
 
-<span id="fn_148"></span>[96:24](rph12.htm#fr_148) Pardes Rimonim (‏פרדס
+<span id="fn_148"></span>[96:24](rph12.htm#fr_148.md) Pardes Rimonim (‏פרדס
 רמונים‎), fol. 110a, 1st col. ‏שער השמית‎ and ‏שער הצנורות‎.
 
-<span id="fn_149"></span>[97:25](rph12.htm#fr_149) Adde quod etiam
+<span id="fn_149"></span>[97:25](rph12.htm#fr_149.md) Adde quod etiam
 contra christum in toto libro ne minimum quidem effutiatur, prout in
 recentioribus Judaeorum scriptis pierumque fieri solet.--(Kabb. denud.,
 Praef., p. 7.)
 
-<span id="fn_150"></span>[97:26](rph12.htm#fr_150)
-[Synonym](errata.htm#5) for Aristotle from the name of his birthplace
+<span id="fn_150"></span>[97:26](rph12.htm#fr_150.md)
+[Synonym](errata.htm#5.md) for Aristotle from the name of his birthplace
 Stagira, an ancient town in Macedonia.--Transl.
 
-<span id="fn_151"></span>[98:27](rph12.htm#fr_151) I have translated
+<span id="fn_151"></span>[98:27](rph12.htm#fr_151.md) I have translated
 literally the French text, but it does not render as yet the correct
 meaning of the Hebrew original, although the author had taken notice of
 Dr. Jellinek's remark to this phrase in the German translation. The
@@ -1230,119 +1230,119 @@ translate the word ‏בריכות‎ (Brihoth) in the first edition, he omitted
 the translation of the word ‏במקור‎ (B’moker) in the second edition.
 ‏בריכות‎ (Brihoth) is the plural of ‏בריכה‎ (Briho), and means "pool" or
 "pond," and ‏מקור‎ (Moker) means "source." So also further on in the
-same sentence the author [erroneously](errata.htm#6) translates ‏וזהו
+same sentence the author [erroneously](errata.htm#6.md) translates ‏וזהו
 סוד‎ with "un autre mystère" (another mystery), while it should be
 rendered with "and this mystery . . "--Transl.
 
-<span id="fn_152"></span>[98:28](rph12.htm#fr_152) Here is the Hebrew
+<span id="fn_152"></span>[98:28](rph12.htm#fr_152.md) Here is the Hebrew
 text: ‏אתה הוא האדם איא לךּ הבריכות במקור אל תאציל שום דבר אל האדם שיבוא
 לך בנסיזן מאמונת האצילות וזהו סוד גהול בפי כל המקובלים וזהו בוד כמום
 בתזחה לא תנסו את ײ‎ Mantua ed. fol. 31.
 
-<span id="fn_153"></span>[99:29](rph12.htm#fr_153) ‏ומצאתי אלה האנשים לא
+<span id="fn_153"></span>[99:29](rph12.htm#fr_153.md) ‏ומצאתי אלה האנשים לא
 נתין להם לכחש כעושה וע״ז כא קבל שבלם כפי מתשבותם היות דבר לא מדבר וכיון
 שאין דבר כי אם הבורא האמינו כי ברא הרברים מן עצמו ואלה ירהמד האל יותר
 ססלים מן הראשונים‎ Beliefs and Opinions, Part I, ch. 4.
 
-<span id="fn_154"></span>[99:30](rph12.htm#fr_154) Here too I must
+<span id="fn_154"></span>[99:30](rph12.htm#fr_154.md) Here too I must
 contradict the author. These passages from Job are not expounded by the
 adherents of the doctrine of emanation, but by the Atomists, who are
 quoted by Saadia *before* the others.--Jellinek.
 
-<span id="fn_155"></span>[99:31](rph12.htm#fr_155) See my previous
+<span id="fn_155"></span>[99:31](rph12.htm#fr_155.md) See my previous
 remark.--Jellinek
 
-<span id="fn_156"></span>[99:32](rph12.htm#fr_156) In the Hegelian
+<span id="fn_156"></span>[99:32](rph12.htm#fr_156.md) In the Hegelian
 terminology, the Absolute-Negative which, when conceived in its
 abstract, is identical with the No-Thing.--Jellinek
 
-<span id="fn_157"></span>[99:33](rph12.htm#fr_157) Zohar, 2nd part, fol.
+<span id="fn_157"></span>[99:33](rph12.htm#fr_157.md) Zohar, 2nd part, fol.
 42 and 43. This first Sefiroh is sometimes called the Infinite, ‏אין
 סוף‎ (Ayn Sof), sometimes the Supreme Crown, ‏כתר עליון‎ (Kether Elyon),
 and sometimes the No-Thing, <u>‏אין‎</u> (Ay-yin), or the Place, ‏מקום‎
 (Mokom).
 
-<span id="fn_158"></span>[99:34](rph12.htm#fr_158) Beliefs and Opinions,
+<span id="fn_158"></span>[99:34](rph12.htm#fr_158.md) Beliefs and Opinions,
 Part VI, ch. 2.
 
-<span id="fn_159"></span>[99:35](rph12.htm#fr_159) Ibid., ch. II.
+<span id="fn_159"></span>[99:35](rph12.htm#fr_159.md) Ibid., ch. II.
 
-<span id="fn_160"></span>[100:36](rph12.htm#fr_160) Part II, fol. 99,
+<span id="fn_160"></span>[100:36](rph12.htm#fr_160.md) Part II, fol. 99,
 sec. Mishpatim.
 
-<span id="fn_161"></span>[100:37](rph12.htm#fr_161) Hieron, ad Marcell.,
+<span id="fn_161"></span>[100:37](rph12.htm#fr_161.md) Hieron, ad Marcell.,
 epist. 136, Vol. III, in his collected works.
 
-<span id="fn_162"></span>[100:38](rph12.htm#fr_162) ‏והשמות והספירות הכל
+<span id="fn_162"></span>[100:38](rph12.htm#fr_162.md) ‏והשמות והספירות הכל
 דבר אחד כי רותניות האמות הם ממא הספירות.‎ Pardes Rimonim, fol. 10, I.
 
-<span id="fn_163"></span>[100:39](rph12.htm#fr_163) Hieron., last volume
+<span id="fn_163"></span>[100:39](rph12.htm#fr_163.md) Hieron., last volume
 of the Paris edition; see also the little work entitled "Questiones
 hebraeicae in Genesim." The traditions of Genesis are the Hebrew book of
 Little Genesis, or the Book of Jubilees which, no doubt, states the
 opinion of the Talmud that among things created before the world was
 also the Eden.
 
-<span id="fn_164"></span>[101:40](rph12.htm#fr_164) Zohar, Idra Zutah.
+<span id="fn_164"></span>[101:40](rph12.htm#fr_164.md) Zohar, Idra Zutah.
 ‏חכמה עלאה סתימאה כללא דכל שאר והאי אקרי.‎
 
-<span id="fn_165"></span>[101:41](rph12.htm#fr_165) Avicenna is
+<span id="fn_165"></span>[101:41](rph12.htm#fr_165.md) Avicenna is
 generally considered the first expositor of mysticism among the Arabs.
 He was born in 992 and died in 1036.
 
-<span id="fn_166"></span>[102:42](rph12.htm#fr_166) "Remarks on the
+<span id="fn_166"></span>[102:42](rph12.htm#fr_166.md) "Remarks on the
 antiquity and origin of the Kabbalah," by de la Nauze, vol. IX of the
 memoirs of the Academy of Inscriptions.
 
-<span id="fn_167"></span>[102:43](rph12.htm#fr_167) Commentatio de vi
+<span id="fn_167"></span>[102:43](rph12.htm#fr_167.md) Commentatio de vi
 quam graeca philosophia in theologian tum Muhammedanorum, tum Judaeorum,
 exercuerit. Particula I, Hamb., 1835, 4to.
 
-<span id="fn_168"></span>[102:44](rph12.htm#fr_168) Particula II, de
+<span id="fn_168"></span>[102:44](rph12.htm#fr_168.md) Particula II, de
 Ortu Cabbalae, Hamb., 1837.
 
-<span id="fn_169"></span>[102:45](rph12.htm#fr_169) Work cited, part II.
+<span id="fn_169"></span>[102:45](rph12.htm#fr_169.md) Work cited, part II.
 
-<span id="fn_170"></span>[103:46](rph12.htm#fr_170) Ib. supr., Part II,
+<span id="fn_170"></span>[103:46](rph12.htm#fr_170.md) Ib. supr., Part II,
 p. 7-11.
 
-<span id="fn_171"></span>[103:47](rph12.htm#fr_171) Califs of Bagdad,
+<span id="fn_171"></span>[103:47](rph12.htm#fr_171.md) Califs of Bagdad,
 members of the dynasty of the Abbassides, founded by Abbas, an uncle of
 Mohammet, and which lasted from 750 until 1258, when it was overthrown
 by the Mongolians.--Transl.
 
-<span id="fn_172"></span>[103:48](rph12.htm#fr_172) Work cited, part I,
+<span id="fn_172"></span>[103:48](rph12.htm#fr_172.md) Work cited, part I,
 p. 11.
 
-<span id="fn_173"></span>[104:a](rph12.htm#fr_173) Al-Ghazzali (Ghazzali
+<span id="fn_173"></span>[104:a](rph12.htm#fr_173.md) Al-Ghazzali (Ghazzali
 Abu Hamid Mohammed ibn Mohammed Al.--); Arabian theologian and moralist.
 1058-1111.--Transl.
 
-<span id="fn_174"></span>[104:49](rph12.htm#fr_174) "Jam vero mundi
+<span id="fn_174"></span>[104:49](rph12.htm#fr_174.md) "Jam vero mundi
 corporalis ad eum mundum de quo modo diximus, rationem talem, qualis
 umbrae ad corpus hominis, esse scito . . . ." Ib. supr., p. 17.
 
-<span id="fn_175"></span>[104:50](rph12.htm#fr_175) See Thom. Hyde, de
+<span id="fn_175"></span>[104:50](rph12.htm#fr_175.md) See Thom. Hyde, de
 Relig. vet. Pers., ch. XXII, p. 296, et seq.
 
-<span id="fn_176"></span>[104:51](rph12.htm#fr_176) ‏אמר ר׳ אבא יומא הד
+<span id="fn_176"></span>[104:51](rph12.htm#fr_176.md) ‏אמר ר׳ אבא יומא הד
 אעדענא בהד מחא מאינון דהוו מן בני קדם ואמדו לי מההיא חכמתא דהוז ידעין
 מיומי קדמאי.‎ 1st part, sect. Vayero, fol. 99b.
 
-<span id="fn_177"></span>[104:52](rph12.htm#fr_177) Ib. supr., fol. 100
+<span id="fn_177"></span>[104:52](rph12.htm#fr_177.md) Ib. supr., fol. 100
 a and b.
 
-<span id="fn_178"></span>[105:53](rph12.htm#fr_178) Tholuck, work cited,
+<span id="fn_178"></span>[105:53](rph12.htm#fr_178.md) Tholuck, work cited,
 part II, p. 28, 29.
 
-<span id="fn_179"></span>[105:54](rph12.htm#fr_179) I trust to render
+<span id="fn_179"></span>[105:54](rph12.htm#fr_179.md) I trust to render
 welcome service to some reader by giving here the names of the four
 worlds in the original language. They are: Azilah (‏אצילה‎), Bre-ah
 (‏בריאה‎), Yetzirah (‏יצירה‎), Assiyah (‏עשיה‎) .--Jellinek
 
-<span id="fn_180"></span>[106:55](rph12.htm#fr_180) Ib., p. 30.
+<span id="fn_180"></span>[106:55](rph12.htm#fr_180.md) Ib., p. 30.
 
-<span id="fn_181"></span>[106:56](rph12.htm#fr_181) It is quite
+<span id="fn_181"></span>[106:56](rph12.htm#fr_181.md) It is quite
 difficult not to refer to the Kabbalah the following passage of the
 first epistle of St. Paul to Timothy: "Neque intenderint fabulis at
 genealogiis interminatis, quae quaestiones praestant magis quam
@@ -1350,26 +1350,26 @@ aedificationem Dei." (Neither give heed to fable and endless
 genealogies, which minister questions, rather than godly edifying which
 is in faith.) Epist. ad Timoth. I, 4.
 
-<span id="fn_182"></span>[107:57](rph12.htm#fr_182) "Jam vero ex
+<span id="fn_182"></span>[107:57](rph12.htm#fr_182.md) "Jam vero ex
 analogiis istis quid censes colligi posse? Equidem non multa arbitror.
 Nam similii etiam et in aliis antiquoribus quidem disciplinis monstrari
 licet, in scriptis Sabaeis et Persicis, nec non apud neoplatonicus,
 Contra singularis ilia forma quam ideae istae in Cabbala prae se ferunt,
 ab Arabicis mysticis abest," etc.
 
-<span id="fn_183"></span>[108:58](rph12.htm#fr_183) ‏וקבלתי על פה שזה
+<span id="fn_183"></span>[108:58](rph12.htm#fr_183.md) ‏וקבלתי על פה שזה
 החבור כל כד נדול חכמות שאם היה נמצא כלו אחד היח משאת נמל.‎ Shalsheleth
 ha-Kabbalah, fol. 25b.
 
-<span id="fn_184"></span>[108:59](rph12.htm#fr_184) ‏וראיתי בסוף תקון
+<span id="fn_184"></span>[108:59](rph12.htm#fr_184.md) ‏וראיתי בסוף תקון
 ששי מהזהר שלא יתנלה כל חבור הזהר אלא בסוף המים.‎ Ib. supr.
 
-<span id="fn_185"></span>[108:60](rph12.htm#fr_185) In that work we find
+<span id="fn_185"></span>[108:60](rph12.htm#fr_185.md) In that work we find
 some passages written almost entirely in Aramean; and other passages
 where only the terminations of that language are used with words
 belonging entirely to rabbinical Hebrew.
 
-<span id="fn_186"></span>[109:61](rph12.htm#fr_186) With reference to
+<span id="fn_186"></span>[109:61](rph12.htm#fr_186.md) With reference to
 this book, which forms a complete treatise in five chapters, the Zohar
 gives the following graceful allegory: Let us <span id="page_110">p.
 110</span> picture to ourselves a man who lives alone in the mountains
@@ -1389,72 +1389,72 @@ that men find in eating, and those delights are lost to him. It is the
 same with the one who halts at the general principles of science; for he
 is ignorant of all the delights that are drawn from those principles.
 
-<span id="fn_187"></span>[112:62](rph12.htm#fr_187) Zohar, part III,
+<span id="fn_187"></span>[112:62](rph12.htm#fr_187.md) Zohar, part III,
 fol. 296b, Mantua edition.
 
-<span id="fn_188"></span>[113:63](rph12.htm#fr_188) Notice should be
+<span id="fn_188"></span>[113:63](rph12.htm#fr_188.md) Notice should be
 taken here of the phonetic similarity of these two words: ‏יאורה‎
 (Y’oroh)--into the river, and ‏אורה‎ (Oroh)--her light.--Jellinek
 
-<span id="fn_189"></span>[113:64](rph12.htm#fr_189) ‏אלין אינון רקא
+<span id="fn_189"></span>[113:64](rph12.htm#fr_189.md) ‏אלין אינון רקא
 משתדלין בזוהר דא דאקרי ספר הזוהר דאיהו כתיבת נת דמתכושין בה שנים מעיר
 ושבא ממלכותא ולזמנין אחר מעיר ושנים ממשפחה דבהוז יתקים כל הבן הילוד
 היארת תשליכהו ודא אורה רספרא רא‎ Part III, fol. 153b.
 
-<span id="fn_190"></span>[113:65](rph12.htm#fr_190) ‏דהא פתחא לאינון
+<span id="fn_190"></span>[113:65](rph12.htm#fr_190.md) ‏דהא פתחא לאינון
 דלאו בני מהימנת אשתכח ביה‎ Eccles., III, 19.
 
-<span id="fn_191"></span>[113:66](rph12.htm#fr_191) Part III, fol. 57b.
+<span id="fn_191"></span>[113:66](rph12.htm#fr_191.md) Part III, fol. 57b.
 ‏דהא פתחא לאינון דלאו בני מהימנת אשתכח ביה‎
 
-<span id="fn_192"></span>[113:67](rph12.htm#fr_192) The text reads
+<span id="fn_192"></span>[113:67](rph12.htm#fr_192.md) The text reads
 "L’eau" (the water) which is wrong. The first edition reads "vin" (wine)
 which is the correct translation of the original.--Transl.
 
-<span id="fn_193"></span>[114:68](rph12.htm#fr_193) ‏חברא דבין חברייא
+<span id="fn_193"></span>[114:68](rph12.htm#fr_193.md) ‏חברא דבין חברייא
 הוא ושדרו ליה חבריא דבבל למנדע מלין מר׳ שמעון בן יוחאי ושאר חברייא‎
 Compare Zohar, Part III, fol. 157, 158.
 
-<span id="fn_194"></span>[114:69](rph12.htm#fr_194) See, in particular,
+<span id="fn_194"></span>[114:69](rph12.htm#fr_194.md) See, in particular,
 the first part of the Zohar, fol. 99, 100.
 
-<span id="fn_195"></span>[115:70](rph12.htm#fr_195) Idra Rabba, ad init.
+<span id="fn_195"></span>[115:70](rph12.htm#fr_195.md) Idra Rabba, ad init.
 
-<span id="fn_196"></span>[115:71](rph12.htm#fr_196) See his commentary
+<span id="fn_196"></span>[115:71](rph12.htm#fr_196.md) See his commentary
 on the Sefer Yetzirah, edition Mantua, fol. 46-
 
-<span id="fn_197"></span>[115:72](rph12.htm#fr_197) Ib. supr., fol. 31.
+<span id="fn_197"></span>[115:72](rph12.htm#fr_197.md) Ib. supr., fol. 31.
 
-<span id="fn_198"></span>[117:73](rph12.htm#fr_198) Τῶν πλείστων ἐπὶ τοῦ
+<span id="fn_198"></span>[117:73](rph12.htm#fr_198.md) Τῶν πλείστων ἐπὶ τοῦ
 μέσου λεγόντων ὅστι τὸν ὅλον ουρανὸν πεπερασμένον εἷναι φάσιν. Ἑνανατίως
 οἱ περὶ τὴν Ἰταλίαν, καλούμενοι δὲ πυθαγόρειοι λέγουστιν· ἐπὶ μὲν γὰρ
 τοῦ μέσου πῦρ εἷναι φάσι, τὴν δὲ γῆν ἕν τῶν ἄστρων οὖσαν, κύκλῳ
 φερομένην περὶ τὸ μέσου νύκτα τε καὶ ἡμέραν ποιεῖν. De Coelo, Vol. II,
 ch. 13.
 
-<span id="fn_199"></span>[117:74](rph12.htm#fr_199) A christian
+<span id="fn_199"></span>[117:74](rph12.htm#fr_199.md) A christian
 apologist of the fourth century.--Transl.
 
-<span id="fn_200"></span>[117:75](rph12.htm#fr_200) Ineptum credere esse
+<span id="fn_200"></span>[117:75](rph12.htm#fr_200.md) Ineptum credere esse
 homines quorum vestigia sint superiora quam capita, aut ibi quae apud
 nos jacent inversa pendere; fruges et arbores deorsum versus crescere .
 . . Cujus eroris originem philosophis fuisse quod existimarint rotundum
 esse mundum.--Lib. 3, ch. 24.
 
-<span id="fn_201"></span>[118:76](rph12.htm#fr_201) An Alexandrian
+<span id="fn_201"></span>[118:76](rph12.htm#fr_201.md) An Alexandrian
 astronomer of the second century. He founded a system in which he
 expounded that the earth is round, that it occupies a fixed center, and
 that the heavens and all stars revolve around it once in twenty-four
 hours.--Transl.
 
-<span id="fn_202"></span>[118:77](rph12.htm#fr_202) ‏בנולגלתא ג׳ חללין
+<span id="fn_202"></span>[118:77](rph12.htm#fr_202.md) ‏בנולגלתא ג׳ חללין
 אשתכחו דשרייא מוהא בהו וקרומא דקיק הפייא עלייהו. וקרומא קשישע האי מוחא
 אתפשט ונפיק לתלתין ותרין שבילין . . . . ואלין ג׳ מהפשטין ככל גופא להאי
 סמרא ולהאי סמרא ובאינין אהיד כל פופא מהל סטרוי וכל גופא אתפוטז ואשתכהן.‎
 Part III, fol. 136a.
 
-<span id="fn_203"></span>[119:78](rph12.htm#fr_203) There is also the
-following in the original: <span id="fr_207"></span>[a](#fn_204)
+<span id="fn_203"></span>[119:78](rph12.htm#fr_203.md) There is also the
+following in the original: <span id="fr_207"></span>[a](#fn_204.md)
 "Finally, some are content with a dissolution of the continuity of the
 two inferior brain coverings," which I omitted because the passage
 quoted by the author (Tract. Hulin, 45a) speaks only of the superior and
@@ -1462,21 +1462,21 @@ inferior brain covering (dura mater and arachnoid--‏קרמא תתאה‎ and �
 עילאה‎) and only of two differing opinions.--On the other hand, this
 does not impair the remarks of the author.--Jellinek.
 
-<span id="fn_204"></span>[119:a](rph12.htm#fr_207) Not omitted in this
+<span id="fn_204"></span>[119:a](rph12.htm#fr_207.md) Not omitted in this
 translation.--Transl.
 
-<span id="fn_205"></span>[119:79](rph12.htm#fr_204) Babylonian Talmud,
+<span id="fn_205"></span>[119:79](rph12.htm#fr_204.md) Babylonian Talmud,
 tract. Hulin, ch. 3.
 
-<span id="fn_206"></span>[119:80](rph12.htm#fr_205) Literally: Filum
+<span id="fn_206"></span>[119:80](rph12.htm#fr_205.md) Literally: Filum
 spinae dorsi (the thread of the spine of the back, which I note because
 in that passage it is spoken not only of the medulla spinalis (the
 marrow of the spine), but also of the membranous tube.--Jellinek.
 
-<span id="fn_207"></span>[119:81](rph12.htm#fr_206) ‏נהרין ליה שבליי
+<span id="fn_207"></span>[119:81](rph12.htm#fr_206.md) ‏נהרין ליה שבליי
 גשמיא כשבילי דנהרדעי‎: Berahoth, 58b.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter I. The Doctrine Contained in the Kabbalistic Books.
-Analysis of the Sefer Yetzirah](rph13)
+Analysis of the Sefer Yetzirah](rph13.md)

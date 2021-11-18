@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](rom)  [Next](co2) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](rom)  [Next](co2.md) 
 
 ------------------------------------------------------------------------
 
@@ -1618,4 +1618,4 @@ Lmasiḥ.
 
 ------------------------------------------------------------------------
 
-[Next: 2 Corinthians](co2)
+[Next: 2 Corinthians](co2.md)

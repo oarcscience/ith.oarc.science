@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf21)  [Next](taf23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf21)  [Next](taf23.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,10 +13,10 @@ immortal \[i.e., such-ness\]
 <span id="page_61">p. 61</span>
 
 and the mortal \[i.e., birth-and-death\] coincide with each other. <span
-id="fr_84"></span>[1](#fn_84) Though they are not identical, they are
+id="fr_84"></span>[1](#fn_84.md) Though they are not identical, they are
 not a duality. \[Thus when the absolute soul assumes a relative aspect
 by its self-affirmation\] it is called the all-conserving mind
-(*âlaya-vijñâna*). <span id="fr_85"></span>[2](#fn_85)
+(*âlaya-vijñâna*). <span id="fr_85"></span>[2](#fn_85.md)
 
 The same mind has a twofold significance as the organiser and the
 producer of all things.
@@ -32,7 +32,7 @@ from all \[limiting\] attributes
 
 of subjectivity, it is like unto space (*âkâça*), penetrating
 everywhere, as the unity of all (*dharmadhâtu*). That is to say, it is
-the universal Dharmakâya <span id="fr_86"></span>[1](#fn_86) of all
+the universal Dharmakâya <span id="fr_86"></span>[1](#fn_86.md) of all
 Tathâgatas.
 
 On account of this Dharmakâya, all Tathâgatas are spoken of as abiding
@@ -54,22 +54,22 @@ Again, when the mind is enlightened as to its own ultimate nature, it is
 called perfect enlightenment; when it is not enlightened as to its
 ultimate nature, it is not perfect enlightenment.
 
-Common people <span id="fr_87"></span>[1](#fn_87) (*prthagjana*), who,
+Common people <span id="fr_87"></span>[1](#fn_87) (*prthagjana*.md), who,
 becoming conscious of errors that occur in a succession of their mental
 states, abstain from making conclusions, may be spoken of as
 enlightened; but in reality theirs is non-enlightenment.
 
-Çrâvakas, <span id="fr_88"></span>[2](#fn_88) Pratyekabuddhas, and those
+Çrâvakas, <span id="fr_88"></span>[2](#fn_88.md) Pratyekabuddhas, and those
 Bodhisattvas
 
 <span id="page_64">p. 64</span>
 
 who have just entered their course, recognising the difference between
-subjectivity and the [transcending](errata.htm#7) of subjectivity both
+subjectivity and the [transcending](errata.htm#7.md) of subjectivity both
 in essence and attributes, have become emancipated from the coarse form
 of particularisation. This is called enlightenment in appearance.
 
-Bodhisattvas of the Dharmakâya, <span id="fr_89"></span>[1](#fn_89)
+Bodhisattvas of the Dharmakâya, <span id="fr_89"></span>[1](#fn_89.md)
 having recognised that subjectivity and the transcending of subjectivity
 have no reality of their own \[i.e., are relative\], have become
 emancipated from the intermediate form of particularisation. This is
@@ -82,16 +82,16 @@ harmonious;
 <span id="page_65">p. 65</span>
 
 they have recognised the origin from which consciousness \[or
-mentation\] starts. <span id="fr_90"></span>[1](#fn_90) This will truly
+mentation\] starts. <span id="fr_90"></span>[1](#fn_90.md) This will truly
 be called enlightenment.
 
 Having transcended the attributes of enlightenment and the subtlest form
 of particularisation, they \[i.e., Buddhas\] have gained a perfect and
 eternal insight into the very nature of the soul \[i.e., suchness\],
 because the latter now presents itself to them in its absolute and
-immutable form. <span id="fr_91"></span>[2](#fn_91) Therefore they are
+immutable form. <span id="fr_91"></span>[2](#fn_91.md) Therefore they are
 called Tathâgatas, and theirs is perfect enlightenment; and therefore it
-is said in the Sûtra <span id="fr_92"></span>[3](#fn_92) that those who
+is said in the Sûtra <span id="fr_92"></span>[3](#fn_92.md) that those who
 have an insight into the non-reality of all subjectivity, attain to the
 wisdom of the Tathâgata.
 
@@ -113,43 +113,43 @@ subjective states (*smrti*) from which they have never been emancipated.
 But when they transcend their subjectivity, they can then recognise that
 all states of mentation, viz., their appearance, presence, change, and
 disappearance \[in the field of consciousness\] have no \[genuine\]
-reality. <span id="fr_93"></span>[1](#fn_93) They are neither in a
+reality. <span id="fr_93"></span>[1](#fn_93.md) They are neither in a
 temporal nor in a spatial relation with the one soul, <span
-id="fr_94"></span>[2](#fn_94) for they are not self-existent.
+id="fr_94"></span>[2](#fn_94.md) for they are not self-existent.
 
 When you understand this, you also understand that enlightenment *a
 posteriori* cannot be manufactured, for it is no other thing than
 enlightenment *a priori* \[which is uncreate and must be
-discovered\]. <span id="fr_95"></span>[3](#fn_95)
+discovered\]. <span id="fr_95"></span>[3](#fn_95.md)
 
 And again enlightenment *a priori*, when implicated in the domain of
 defilement \[i.e., relativity\], is differentiated into two kinds of
 attributes:
 
 \(1\) Pure wisdom (*prajñâ*?); (2) Incomprehensible activity
-(*karma*?). <span id="fr_96"></span>[4](#fn_96)
+(*karma*?). <span id="fr_96"></span>[4](#fn_96.md)
 
 <span id="page_67">p. 67</span>
 
 By pure wisdom we understand that when one, by virtue of the
-perfuming <span id="fr_97"></span>[1](#fn_97) power of the Dharma,
+perfuming <span id="fr_97"></span>[1](#fn_97.md) power of the Dharma,
 disciplines himself truthfully \[i.e., according to the Dharma\], and
 accomplishes meritorious deeds, the mind \[i.e., *âlaya-vijñâna*\] which
 implicates itself with birth-and-death will be broken down, and the
-modes of the evolving-consciousness <span id="fr_98"></span>[2](#fn_98)
+modes of the evolving-consciousness <span id="fr_98"></span>[2](#fn_98.md)
 will be annulled; while the pure and genuine wisdom of the Dharmakâya
-manifests itself. <span id="fr_99"></span>[3](#fn_99)
+manifests itself. <span id="fr_99"></span>[3](#fn_99.md)
 
 Though all modes of consciousness and mentation are mere products of
 ignorance, ignorance in its ultimate nature is identical and
-not-identical <span id="fr_100"></span>[4](#fn_100) with enlightenment
+not-identical <span id="fr_100"></span>[4](#fn_100.md) with enlightenment
 *a priori*; and therefore ignorance in one sense is destructible, while
 in the other sense it is indestructible.
 
 This may be illustrated by \[the simile of\] the water and the waves
 which are stirred up in the ocean. Here the water can be said to be
 identical \[in one sense\] and not-identical \[in the other
-sense\] <span id="fr_101"></span>[5](#fn_101) with the waves. The waves
+sense\] <span id="fr_101"></span>[5](#fn_101.md) with the waves. The waves
 are stirred up by the wind, but the water remains the same. When the
 wind ceases, the motion of the waves subsides; but the water remains the
 same.
@@ -161,17 +161,17 @@ pure and clean, is stirred up by the wind of ignorance (*avidya*), the
 waves of mentality (*vijñâna*) make their appearance. These three
 \[i.e., the mind, ignorance, and mentality\], however, have no
 \[absolute\] existence, and they are neither unity nor plurality. <span
-id="fr_102"></span>[1](#fn_102)
+id="fr_102"></span>[1](#fn_102.md)
 
 But the mind though pure in its essence is the source of the awakened
 \[or disturbed\] mentality. When ignorance is annihilated, the awakened
 mentality is tranquilised, whilst the essence of the wisdom remains
-unmolested. <span id="fr_103"></span>[2](#fn_103)
+unmolested. <span id="fr_103"></span>[2](#fn_103.md)
 
 Incomprehensible activity which we know proceeds from pure wisdom,
 uninterruptedly produces all excellent spiritual states. That is to say,
 the personality (*kâya*) of the Tathâgata, <span
-id="fr_104"></span>[3](#fn_104) which in exuberance contains
+id="fr_104"></span>[3](#fn_104.md) which in exuberance contains
 immeasurable and ever-growing merits, reveals itself to all beings
 according to their various predispositions \[or characters\], and
 accomplishes for them innumerable \[spiritual\] benefits.
@@ -215,8 +215,8 @@ on account of a liberation from the hindrances, it transforms and
 unfolds itself, wherever conditions are favorable, in the form of a
 Tathâgata or in some other forms' in order that all beings might be
 induced thereby to bring their root <span
-id="fr_105"></span>[1](#fn_105) of merit (*kuçalamûla*) to
-maturity. <span id="fr_106"></span>[2](#fn_106)
+id="fr_105"></span>[1](#fn_105) of merit (*kuçalamûla*.md) to
+maturity. <span id="fr_106"></span>[2](#fn_106.md)
 
 By the so-called non-enlightenment, we mean that as the true Dharma
 \[i.e., suchness\] is from all eternity not truthfully recognised in its
@@ -240,13 +240,13 @@ non-enlightenment, and as non-enlightenment is a non-entity, true
 enlightenment in turn loses its significance too. \[That is to say, they
 are simply relative.\]
 
-In blindness <span id="fr_107"></span>[1](#fn_107) there arose
+In blindness <span id="fr_107"></span>[1](#fn_107.md) there arose
 non-enlightenment of which three aspects are to be noted. These three
 are not independent.
 
 The first aspect is ignorant action (*avidyakarma*?). <span
-id="fr_108"></span>[2](#fn_108) A disturbance <span
-id="fr_109"></span>[3](#fn_109) of the mind \[i.e., âlaya-vijñâna\]
+id="fr_108"></span>[2](#fn_108.md) A disturbance <span
+id="fr_109"></span>[3](#fn_109.md) of the mind \[i.e., âlaya-vijñâna\]
 caused by non-enlightenment characterises the beginning of karma. When
 enlightened, the mind is no more disturbed.
 
@@ -263,7 +263,7 @@ perception does not take place.
 The third aspect is the external world. Through perception an unreal
 external world originates. Independent of that which perceives \[i.e.,
 the ego or subject\], there is no surrounding world \[or the
-object\]. <span id="fr_110"></span>[1](#fn_110)
+object\]. <span id="fr_110"></span>[1](#fn_110.md)
 
 Conditioned by the unreal external world, six kinds of phenomena arise
 in succession.
@@ -285,7 +285,7 @@ The fourth phenomenon is an attachment to names
 <span id="page_73">p. 73</span>
 
 \[paragraph continues\] \[or ideas, *samjñâ*\], etc. <span
-id="fr_111"></span>[1](#fn_111) By clinging the mind hypostasises all
+id="fr_111"></span>[1](#fn_111.md) By clinging the mind hypostasises all
 names whereby to give definitions to all things.
 
 The fifth phenomenon is the performance of deeds (*karma*). On account
@@ -308,16 +308,16 @@ The relation of identity may be illustrated by the
 
 simile of all kinds of pottery which though different are all made of
 the same clay. Likewise the undefiled (*anâçrava*) <span
-id="fr_112"></span>[1](#fn_112) and ignorance (avidya) and their various
-[transient](errata.htm#8) forms come all from one and the same entity.
-Therefore Buddha teaches <span id="fr_113"></span>[2](#fn_113) that all
+id="fr_112"></span>[1](#fn_112) and ignorance (avidya.md) and their various
+[transient](errata.htm#8.md) forms come all from one and the same entity.
+Therefore Buddha teaches <span id="fr_113"></span>[2](#fn_113.md) that all
 beings are from all eternity ever abiding in Nirvâna. <span
-id="fr_114"></span>[3](#fn_114) In truth enlightenment cannot be
+id="fr_114"></span>[3](#fn_114.md) In truth enlightenment cannot be
 manufactured, nor can it be created; it is absolutely intangible; it is
 no material existence that is an object of sensation.
 
 The reason why enlightenment nevertheless assumes tangible material form
-is that it suffers defilement <span id="fr_115"></span>[4](#fn_115)
+is that it suffers defilement <span id="fr_115"></span>[4](#fn_115.md)
 which is the source of all transient forms of manifestation. Wisdom
 itself has nothing to do with material phenomena whose characteristic
 feature is
@@ -336,7 +336,7 @@ manifestation is similar to it.
 And again, by the law of causation (*hetupratyaya*) in the domain of
 birth-and-death (*samsâra*) we mean that depending on the mind \[i.e.,
 *âlaya-vijñâna*\] an evolution of the ego (*manas*) and consciousness
-(*vijñâna*) <span id="fr_116"></span>[1](#fn_116) takes place in all
+(*vijñâna*) <span id="fr_116"></span>[1](#fn_116.md) takes place in all
 beings.
 
 What is meant by this?
@@ -382,10 +382,10 @@ future; and also in the
 sense that it unconsciously recollects things gone by, and in
 imagination anticipates things to come.
 
-Therefore the three domains <span id="fr_117"></span>[1](#fn_117)
+Therefore the three domains <span id="fr_117"></span>[1](#fn_117.md)
 (*triloka*) are nothing but the self-manifestation of the mind \[i.e.,
 *âlaya-vijñâna* which is practically identical with suchness,
-*bhûtatathatâ*\]. <span id="fr_118"></span>[2](#fn_118) Separated from
+*bhûtatathatâ*\]. <span id="fr_118"></span>[2](#fn_118.md) Separated from
 the mind, there would be no such things as the six objects of sense.
 
 Why?
@@ -398,7 +398,7 @@ is not differentiated. Therefore we come to the conclusion that all
 things and conditions in the phenomenal world, hypostasised and
 established only through ignorance (*avidya*) and subjectivity (*smrti*)
 on the part of all beings, have no more reality than the images in a
-mirror <span id="fr_119"></span>[3](#fn_119) They evolve simply from
+mirror <span id="fr_119"></span>[3](#fn_119.md) They evolve simply from
 
 <span id="page_78">p. 78</span>
 
@@ -412,7 +412,7 @@ not-I \[i.e., a separate objective world\] and misapprehend the nature
 of the six objects of sense. The ego-consciousness is also called
 separation-consciousness, or phenomena-particularising-consciousness,
 because it is nourished by the perfuming <span
-id="fr_120"></span>[1](#fn_120) influence of the prejudices (*âçrava*),
+id="fr_120"></span>[1](#fn_120) influence of the prejudices (*âçrava*.md),
 intellectual as well as affectional.
 
 The mind \[or consciousness, *vijñâna*\] that starts from the perfuming
@@ -427,7 +427,7 @@ those who have reached the highest stage of Bodhisattvahood cannot
 thoroughly comprehend it.
 
 The only one who can have a clear and consummate knowledge of it is the
-Tathâgata. <span id="fr_121"></span>[2](#fn_121)
+Tathâgata. <span id="fr_121"></span>[2](#fn_121.md)
 
 <span id="page_79">p. 79</span>
 
@@ -451,7 +451,7 @@ this doctrine is so extremely deep and unfathomable that
 
 it can be fully comprehended by Buddhas and by no others. Now there are
 six different phases of the defiled <span
-id="fr_122"></span>[1](#fn_122) mind thus developed:
+id="fr_122"></span>[1](#fn_122.md) mind thus developed:
 
 1\. Interrelated \[or secondary\] defilement by attachment, from which
 Çrâvakas, Pratyekabuddhas and those Bodhisattvas at the stage of
@@ -533,7 +533,7 @@ or
 <span id="page_83">p. 83</span>
 
 the cruder of the refined is the subjective state of a
-Bodhisattva. <span id="fr_123"></span>[1](#fn_123) These two phases \[of
+Bodhisattva. <span id="fr_123"></span>[1](#fn_123.md) These two phases \[of
 the *âlaya-vijñâna* as the principle of birth-and-death\] originate
 through the perfuming power of ignorance.
 
@@ -611,7 +611,7 @@ done, and we suffer as the result miseries, mentally as well as bodily.
 
 There are two senses in what we call the perfuming power of the external
 world of subjectivity": (1) that which strengthens
-particularisation; <span id="fr_124"></span>[1](#fn_124) (2) that which
+particularisation; <span id="fr_124"></span>[1](#fn_124) (2.md) that which
 strengthens attachment.
 
 There are again two senses in what we call-the perfuming power of the
@@ -636,7 +636,7 @@ How are pure things constantly produced by perfuming?
 
 Suchness perfumes ignorance, and in consequence of this perfuming the
 mind involved in subjectivity is caused to loathe the misery of birth
-and death <span id="fr_125"></span>[1](#fn_125) and to seek after the
+and death <span id="fr_125"></span>[1](#fn_125.md) and to seek after the
 blessing of Nirvâna. This longing and loathing on the part of the
 subjective mind in turn perfumes suchness. On account of this perfuming
 influence we are enabled to believe that we are in possession within
@@ -651,7 +651,7 @@ thus rightly understand the truth, we can practise the means of
 liberation, can perform those actions which are in accordance \[with the
 Dharma\]. Neither do we particularise, nor cling to. By virtue of this
 discipline and habituation during the lapse of innumerable
-asamkhyeyakalpas, <span id="fr_126"></span>[1](#fn_126) we have
+asamkhyeyakalpas, <span id="fr_126"></span>[1](#fn_126.md) we have
 ignorance annihilated.
 
 As ignorance is thus annihilated, the mind \[i.e., *âlaya-vijñâna*\] is
@@ -661,7 +661,7 @@ annihilated. When in this wise the principle and the condition of
 defilement, their products, and the mental disturbances are all
 annihilated, it is said that we attain to Nirvâna and that various
 spontaneous displays of activity are accomplished. <span
-id="fr_127"></span>[2](#fn_127)
+id="fr_127"></span>[2](#fn_127.md)
 
 <span id="page_88">p. 88</span>
 
@@ -681,7 +681,7 @@ There are also two senses in what we call "the perfuming of suchness":
 spotless virtues (*anâçrava*) and incomprehensibly excellent spiritual
 states that can efficiently exercise an eternal and incessant influence
 upon all beings, suchness thereby perfumes the minds of all
-beings. <span id="fr_128"></span>[1](#fn_128)
+beings. <span id="fr_128"></span>[1](#fn_128.md)
 
 In consequence of this perfuming power, they are caused to loathe the
 misery of birth and death, and to long for the blessing of Nirvâna, and
@@ -690,7 +690,7 @@ believing that they are in possession within themselves of the true,
 <span id="page_89">p. 89</span>
 
 valid Dharma, to call forth their aspiration (*cittotpâda*) <span
-id="fr_129"></span>[1](#fn_129) and to discipline themselves.
+id="fr_129"></span>[1](#fn_129.md) and to discipline themselves.
 
 Here a question arises: If all beings are uniformly in possession of
 suchness and are therefore equally perfumed by it, how is it that there
@@ -709,7 +709,7 @@ intellectual and affectional prejudices, etc. \[whose perfuming
 efficiency varies according to the karma previously accumulated by each
 individual\],--all these things being comprehended only by the
 Tathâgata. Hence such immeasurable degrees of difference as regards
-belief, etc. <span id="fr_130"></span>[2](#fn_130)
+belief, etc. <span id="fr_130"></span>[2](#fn_130.md)
 
 <span id="page_90">p. 90</span>
 
@@ -778,8 +778,8 @@ sometimes their enemies, sometimes reveal themselves as devas or in some
 other forms.
 
 Again Buddhas and Bodhisattvas treat all beings sometimes with the four
-methods of entertainment, <span id="fr_131"></span>[1](#fn_131)
-sometimes with the six pâramitâs, <span id="fr_132"></span>[2](#fn_132)
+methods of entertainment, <span id="fr_131"></span>[1](#fn_131.md)
+sometimes with the six pâramitâs, <span id="fr_132"></span>[2](#fn_132.md)
 or with some other deeds, all of which are the inducement for them to
 make their knowledge (*bodhi*) perfect.
 
@@ -811,10 +811,10 @@ sometimes hearing them, sometimes seeing them, all beings thereby
 acquire \[spiritual\] benefits (*hitatâ*). That is, entering into the
 samâdhi of purity, they destroy hindrances wherever they are met with,
 and obtain all-penetrating insight, <span
-id="fr_133"></span>[1](#fn_133) that enables one to become conscious of
+id="fr_133"></span>[1](#fn_133.md) that enables one to become conscious of
 the absolute oneness (*samatâ*) of the universe (*sarvaloka*) and to see
 innumerable Buddhas and Bodhisattvas. <span
-id="fr_134"></span>[2](#fn_134)
+id="fr_134"></span>[2](#fn_134.md)
 
 Again, this perfuming of the essence and the activity may be divided
 into two categories: (1) that which is not yet in unison \[with
@@ -832,7 +832,7 @@ to continue their religious discipline, they have not yet attained to
 the state of non-particularisation, because their discipline is not yet
 in unison with the essence of suchness; nor have they yet attained to
 the spontaneity of action (*svayamkarma*?) <span
-id="fr_135"></span>[1](#fn_135), because their discipline is not yet in
+id="fr_135"></span>[1](#fn_135.md), because their discipline is not yet in
 unison with the activity of suchness.
 
 By that perfuming which is already in unison \[with suchness\], we
@@ -864,12 +864,12 @@ forever goes on.
 
 ### Footnotes
 
-<span id="fn_84"></span>[61:1](taf22.htm#fr_84) Cf. the *Bhagavadgîtâ*,
+<span id="fn_84"></span>[61:1](taf22.htm#fr_84.md) Cf. the *Bhagavadgîtâ*,
 Chap. IX., p. 84: "I am immortality and also death; and I, O Arjuna! am
 that which is and that which is not," See also Chap. X., [p.
-90](#page_90).
+90](#page_90.md).
 
-<span id="fn_85"></span>[61:2](taf22.htm#fr_85) Âlaya or Alaya comes
+<span id="fn_85"></span>[61:2](taf22.htm#fr_85.md) Âlaya or Alaya comes
 from the root *lî*, which means: adhere; melt, dissolve; sit upon, dwell
 in, stay in, etc.; while its nominal form *laya* means: act of clinging;
 melting, fusion, solution, dissolution; rest, repose; place of rest,
@@ -889,7 +889,7 @@ intelligible to the general reader. Some other names given to the
 *âlaya-vijñâna* are *citta*, mind; *âdâna*, the supporting; *âçraya*,
 foundation or seeds.
 
-<span id="fn_86"></span>[62:1](taf22.htm#fr_86) There seems to be a
+<span id="fn_86"></span>[62:1](taf22.htm#fr_86.md) There seems to be a
 general misconception about the exact significance of the term
 *Dharmakâya* which constitutes the central point of the Mahâyâna system.
 Most Western Buddhist scholars render it the Body or Personality of the
@@ -913,13 +913,13 @@ is known, because they say that the essence of existence is nothing but
 intelligence pure, perfect, and free from all possible worries and
 evils.
 
-<span id="fn_87"></span>[63:1](taf22.htm#fr_87) *Prthagjana* has a
+<span id="fn_87"></span>[63:1](taf22.htm#fr_87.md) *Prthagjana* has a
 technical sense in Buddhism, for any one that is ignorant of the
 doctrine of non-Atman and commits all those actions which lead one to a
 constant transmigration, is counted among the *profanum vulgus*, to
 distinguish him from the Çrâvaka, Pratyekabuddha, and Bodhisattva.
 
-<span id="fn_88"></span>[63:2](taf22.htm#fr_88) The
+<span id="fn_88"></span>[63:2](taf22.htm#fr_88.md) The
 *Saddharmapundarîka-Sûtra* contains an explanation of these terms
 generally adopted by Mahâyânists, which read as follows (see Kern's
 English translation of the same, Chap. III., p. 80): "Now, Çâriputra,
@@ -953,63 +953,63 @@ coveting the great vehicle (mahâyâna), fly from the triple world.
 Therefore they are called Bodhisattva Mahâsattva." (The italics are
 mine.)
 
-<span id="fn_89"></span>[64:1](taf22.htm#fr_89) Those who have
+<span id="fn_89"></span>[64:1](taf22.htm#fr_89.md) Those who have
 recognised the all-prevailing Dharmakâya, but who have not as yet been
 able to perfectly identify themselves with it.
 
-<span id="fn_90"></span>[65:1](taf22.htm#fr_90) Consciousness, i.e.,
+<span id="fn_90"></span>[65:1](taf22.htm#fr_90.md) Consciousness, i.e.,
 mentation or mental activity, is transient, it takes place in time, and
 must not be confused with soul, or suchness, or eternal wisdom.
 
-<span id="fn_91"></span>[65:2](taf22.htm#fr_91) In the older translation
+<span id="fn_91"></span>[65:2](taf22.htm#fr_91.md) In the older translation
 these passages are somewhat simplified.
 
-<span id="fn_92"></span>[65:3](taf22.htm#fr_92) The *Lankâvatâra Sûtra*.
+<span id="fn_92"></span>[65:3](taf22.htm#fr_92.md) The *Lankâvatâra Sûtra*.
 There are three Chinese translations of the same still extant among the
 Japanese Tripitaka collection: (1) by Guṇabhadra, A. D. 443, four
 fasciculi; (2) by Bodhiruci, A. D. 513, ten fasciculi; (3) by
 Çikshânanda, A. D. 700-704, seven fasciculi.
 
-<span id="fn_93"></span>[66:1](taf22.htm#fr_93) The older translation
+<span id="fn_93"></span>[66:1](taf22.htm#fr_93.md) The older translation
 differs a little, but agrees in the main.
 
-<span id="fn_94"></span>[66:2](taf22.htm#fr_94) The older translation
+<span id="fn_94"></span>[66:2](taf22.htm#fr_94.md) The older translation
 reads: "The four states of mentation are simultaneous \[they belong
 together in time, i.e., they are in uninterrupted succession\], but have
 no self-existence, because enlightenment *a priori* always remains in
 its sameness."
 
-<span id="fn_95"></span>[66:3](taf22.htm#fr_95) This passage is wanting
+<span id="fn_95"></span>[66:3](taf22.htm#fr_95.md) This passage is wanting
 in the older translation.
 
-<span id="fn_96"></span>[66:4](taf22.htm#fr_96) The differentiation of
+<span id="fn_96"></span>[66:4](taf22.htm#fr_96.md) The differentiation of
 enlightenment into two distinct qualities, wisdom and action, or,
 according to the terminology of later Mahâyânists, wisdom and love,
 constitutes one of the principal thoughts of the Mahâyâna Buddhism and
 shows a striking similarity to the Christian conception of God who is
 considered to be full of infinite love and wisdom.
 
-<span id="fn_97"></span>[67:1](taf22.htm#fr_97) This term will be
+<span id="fn_97"></span>[67:1](taf22.htm#fr_97.md) This term will be
 explained later on. See p. 84.
 
-<span id="fn_98"></span>[67:2](taf22.htm#fr_98) For the explanation see
+<span id="fn_98"></span>[67:2](taf22.htm#fr_98.md) For the explanation see
 below, p. 76.
 
-<span id="fn_99"></span>[67:3](taf22.htm#fr_99) Note that the Dharmakâya
+<span id="fn_99"></span>[67:3](taf22.htm#fr_99.md) Note that the Dharmakâya
 is not the "Body of the Law," but suchness (*bhûtatathatâ*) itself,
 which transcends the limits of time and space as well as the law of
 causation.
 
-<span id="fn_100"></span>[67:4](taf22.htm#fr_100) Literally, "neither
+<span id="fn_100"></span>[67:4](taf22.htm#fr_100.md) Literally, "neither
 identical nor not-identical."
 
-<span id="fn_101"></span>[67:5](taf22.htm#fr_101) Literally, "neither
+<span id="fn_101"></span>[67:5](taf22.htm#fr_101.md) Literally, "neither
 identical nor not-identical."
 
-<span id="fn_102"></span>[68:1](taf22.htm#fr_102) That is, they are one
+<span id="fn_102"></span>[68:1](taf22.htm#fr_102.md) That is, they are one
 in one sense, but different in the other sense.
 
-<span id="fn_103"></span>[68:2](taf22.htm#fr_103) In the older
+<span id="fn_103"></span>[68:2](taf22.htm#fr_103.md) In the older
 translation the last two paragraphs read:
 
 "Likewise the mind of all beings though clean and pure in its own nature
@@ -1019,10 +1019,10 @@ condition each other. But the mind itself not being the principle of
 disturbance its movability will cease when ignorance is gone, though its
 essence, wisdom, remains unmolested."
 
-<span id="fn_104"></span>[68:3](taf22.htm#fr_104) Or the
+<span id="fn_104"></span>[68:3](taf22.htm#fr_104.md) Or the
 *Tathâgatagarbha*.
 
-<span id="fn_105"></span>[70:1](taf22.htm#fr_105) Max Müller renders the
+<span id="fn_105"></span>[70:1](taf22.htm#fr_105.md) Max Müller renders the
 term by "stock of merit," but I think "stock" is not very fitly adopted
 to denote the sense usually attached to it by Buddhists. According to
 them, karma, be it meritorious or not-meritorious, has an efficient
@@ -1031,16 +1031,16 @@ a plant has a regenerative force potentially reserved within itself, and
 does not, like a stock of things which are not necessarily alive, remain
 dormant lacking productive powers in it.
 
-<span id="fn_106"></span>[70:2](taf22.htm#fr_106) According to the older
+<span id="fn_106"></span>[70:2](taf22.htm#fr_106.md) According to the older
 translation, the first significance is called the "mirror of
 transcendental (or empty) trueness"; the second, the "mirror of the
 perfuming principle"; the third, the "mirror of the dharma of
 liberation"; and the fourth, the "mirror of the perfuming cause."
 
-<span id="fn_107"></span>[71:1](taf22.htm#fr_107) Rather "carelessness."
+<span id="fn_107"></span>[71:1](taf22.htm#fr_107.md) Rather "carelessness."
 This is missing in the older translation.
 
-<span id="fn_108"></span>[71:2](taf22.htm#fr_108) The term "ignorant
+<span id="fn_108"></span>[71:2](taf22.htm#fr_108.md) The term "ignorant
 action" reminds us of Schopenhauer's "blind will" and we might translate
 the Chinese terms *pu chiao* <span id="img_07100"></span>
 ![](img/07100.jpg) ignorant or unconscious, by "blind." On the other
@@ -1051,7 +1051,7 @@ yet unconscious of its goal which is the attainment of the eternal
 truth, the discovery of enlightenment *a priori*. Cf. also the
 *Chândogya Upanisad*, VI, 2.
 
-<span id="fn_109"></span>[71:3](taf22.htm#fr_109) By "disturbance" is
+<span id="fn_109"></span>[71:3](taf22.htm#fr_109.md) By "disturbance" is
 meant that the mind or soul, awaking from a state of perfect sameness
 and tranquillity, discriminates the subject and the object, me and
 not-me. The "disturbance" itself, however, is neither good nor bad; the
@@ -1059,11 +1059,11 @@ fault lies in clinging to this dual aspect of existence as absolute,
 utterly ignoring their fundamental identity. Efface the clinging from
 your mind, and you are purified and saved.
 
-<span id="fn_110"></span>[72:1](taf22.htm#fr_110) This is the idealistic
+<span id="fn_110"></span>[72:1](taf22.htm#fr_110.md) This is the idealistic
 phase of the Mahâyâna Buddhism. Berkeley says: "Take away the perceiving
 mind and you take away the objective world."
 
-<span id="fn_111"></span>[73:1](taf22.htm#fr_111) Here is again a
+<span id="fn_111"></span>[73:1](taf22.htm#fr_111.md) Here is again a
 strange agreement with Western philosophy. The nominalists speak of
 names as mere *flatus vocis* and the things-in-themselves (i.e., what is
 conceived by names) are declared to be unknowable by Kant. Dr. Paul
@@ -1079,24 +1079,24 @@ literally in the younger translation "firmly builds a basis for," in the
 older one we read literally "one sets separately forth what is unreal,
 i.e., names and words."
 
-<span id="fn_112"></span>[74:1](taf22.htm#fr_112) A dharma not subject
+<span id="fn_112"></span>[74:1](taf22.htm#fr_112.md) A dharma not subject
 to the transformation of birth and death is called <span
 id="img_07400"></span> ![](img/07400.jpg) *wu lou* in Chinese and
 *anâçrava* in Sanskrit. It is commonly used in contrast to <span
 id="img_07401"></span> ![](img/07401.jpg) *yu lou* and *sâçrava*, which
 means "defiled" or "conditional."
 
-<span id="fn_113"></span>[74:2](taf22.htm#fr_113) This teaching is set
+<span id="fn_113"></span>[74:2](taf22.htm#fr_113.md) This teaching is set
 forth in the fourth chapter of the *Vimalakîrtinirdeça Sûtra*, one of
 the most popular Mahâyâna texts in China as well as in Japan. There are
 several Chinese translations still extant, the earliest of which was
 produced during the first half of the third century of the Christian
 era.
 
-<span id="fn_114"></span>[74:3](taf22.htm#fr_114) Observe that Nirvâna
+<span id="fn_114"></span>[74:3](taf22.htm#fr_114.md) Observe that Nirvâna
 is here used as a synonym of suchness (*bhûtatathatâ*).
 
-<span id="fn_115"></span>[74:4](taf22.htm#fr_115) That is to say, being
+<span id="fn_115"></span>[74:4](taf22.htm#fr_115.md) That is to say, being
 mixed up in the material world. "Defilement" does not necessarily mean
 evil or immorality. Anything that does not come directly from the
 fountain-head of suchness, but is in some way or other "perfumed" by
@@ -1105,7 +1105,7 @@ From the ethical point of view it may be good or bad, according to our
 subjective attitude towards it. All that should be avoided is a clinging
 to the phenomenal existence.
 
-<span id="fn_116"></span>[75:1](taf22.htm#fr_116) *Manovijñâna* in the
+<span id="fn_116"></span>[75:1](taf22.htm#fr_116.md) *Manovijñâna* in the
 older translation. Now *vijñâna* (or *manovijñâna*), *manas* and *citta*
 are to a certain extent synonymous and interchangeable, as all
 designating that which feels, thinks and wills, or what is commonly
@@ -1120,11 +1120,11 @@ on itself and to unconsciously assert the existence of the ego; the
 perceiving, discriminating, judging, etc., in short, general mental
 activity or consciousness.
 
-<span id="fn_117"></span>[77:1](taf22.htm#fr_117) They are: (1) Domain
+<span id="fn_117"></span>[77:1](taf22.htm#fr_117) They are: (1.md) Domain
 of feeling (*kâmaloka*); (2) Domain of bodily existence (*rûpaloka*);
 (3) Domain of incorporeality (*arûpaloka*).
 
-<span id="fn_118"></span>[77:2](taf22.htm#fr_118) The mind or
+<span id="fn_118"></span>[77:2](taf22.htm#fr_118.md) The mind or
 *âlaya-vijñâna* is suchness (or, as Dr. Carus would say, "purely formal
 thought,") in its operation, where it may be called the rational
 principle in nature or the *Gesetzmässigkeit* of the cosmos. It
@@ -1132,13 +1132,13 @@ manifests itself not only in human reason, but appears also as the
 principle of individuation, determining all particular forms of
 existence, as will be explained in the following lines.
 
-<span id="fn_119"></span>[77:3](taf22.htm#fr_119) Compare Schopenhauer's
+<span id="fn_119"></span>[77:3](taf22.htm#fr_119.md) Compare Schopenhauer's
 conception of the world as *Vorstellung*.
 
-<span id="fn_120"></span>[78:1](taf22.htm#fr_120) The term will be
+<span id="fn_120"></span>[78:1](taf22.htm#fr_120.md) The term will be
 explained later.
 
-<span id="fn_121"></span>[78:2](taf22.htm#fr_121) The same idea is
+<span id="fn_121"></span>[78:2](taf22.htm#fr_121.md) The same idea is
 expressed in the *Crîmâlâ Sûtra* as well as in the *Lankâvatara Sûtra*
 where Buddha preaches the unfathomableness <span id="page_79">p.
 79</span> of the nature of suchness which, though pure in its essence,
@@ -1159,7 +1159,7 @@ not the relation of suchness and ignorance the very mystery to which
 Spencer makes the allusion here? Açvaghosha's solution is that only
 Buddha can grasp it.
 
-<span id="fn_122"></span>[80:1](taf22.htm#fr_122) The defilement which
+<span id="fn_122"></span>[80:1](taf22.htm#fr_122.md) The defilement which
 is the product of the evolution of the *âlaya-vijñâna*, is of two kinds,
 primary and secondary. The primary defilement is *a priori*, originating
 with the birth of the mind. There is as yet no distinct consciousness in
@@ -1174,20 +1174,20 @@ being more fundamental than the latter is completely effaced from the
 mind only after going through all different stages of religious
 discipline.
 
-<span id="fn_123"></span>[83:1](taf22.htm#fr_123) The older translation
+<span id="fn_123"></span>[83:1](taf22.htm#fr_123.md) The older translation
 adds: The most refined of the refined is the spiritual state of a
 Buddha.
 
-<span id="fn_124"></span>[85:1](taf22.htm#fr_124) The older translation
+<span id="fn_124"></span>[85:1](taf22.htm#fr_124.md) The older translation
 has "subjectivity" instead of "particularisation." These two terms are
 synonymous and frequently interchanged in the later translation as well
 as in the older one.
 
-<span id="fn_125"></span>[86:1](taf22.htm#fr_125) Birth and death do not
+<span id="fn_125"></span>[86:1](taf22.htm#fr_125.md) Birth and death do not
 necessarily refer to our life only, but in their widest sense to the
 phenomenal world.
 
-<span id="fn_126"></span>[87:1](taf22.htm#fr_126) Literally, countless
+<span id="fn_126"></span>[87:1](taf22.htm#fr_126.md) Literally, countless
 ages, but it has a technical meaning. Childer's Pali Dictionary, *sub
 voce*: "The term *kalpa* is given to certain vast periods or cycles of
 time, of which there are three, *Mahâkalpa*, *Asamkhyeyakalpa* and
@@ -1202,22 +1202,22 @@ decreases again to ten years; this period is of immense duration." See
 also the third *Koçathâna* (chapter) of the *Abhidharmakoça* by
 Vasubandhu.
 
-<span id="fn_127"></span>[87:2](taf22.htm#fr_127) Notice that Nirvâna is
+<span id="fn_127"></span>[87:2](taf22.htm#fr_127.md) Notice that Nirvâna is
 not inactivity or nothingness as commonly supposed. It is, according to
 Açvaghosha, the annihilation <span id="page_88">p. 88</span> of the
 ego-conception, freedom from subjectivity, insight into the essence of
 suchness, or the recognition of the oneness of existence.
 
-<span id="fn_128"></span>[88:1](taf22.htm#fr_128) The older translation:
+<span id="fn_128"></span>[88:1](taf22.htm#fr_128.md) The older translation:
 "(1) Embracing from all eternity things spotless and possessing in full
 some inconceivable activity and (2) being capable to objectify itself,
 suchness through these two attributes constantly and eternally exercises
 its perfuming power."
 
-<span id="fn_129"></span>[89:1](taf22.htm#fr_129) This has a technical
+<span id="fn_129"></span>[89:1](taf22.htm#fr_129.md) This has a technical
 sense and is explained below.
 
-<span id="fn_130"></span>[89:2](taf22.htm#fr_130) The view here set
+<span id="fn_130"></span>[89:2](taf22.htm#fr_130.md) The view here set
 forth is illustrated in the fifth chapter of the *Saddharma-pundarîka
 Sûtra* by the relation of the rain and plants. "Then, Kâçyapa, the
 grasses, shrubs, herbs, and wild trees in this universe, such as have
@@ -1236,21 +1236,21 @@ Rooted in *one and the same* soil, *all those* \[*different*\]
 one essence throughout*." (Kern's English Translation, p. 119. The
 italics and words in brackets are by the present translator.)
 
-<span id="fn_131"></span>[92:1](taf22.htm#fr_131)
+<span id="fn_131"></span>[92:1](taf22.htm#fr_131.md)
 *Catvâri-sangrahavastûni* in Sanskrit. They are (1) *dâna*, charity; (2)
 *priyavacana*, endearing speech; (3) *arthacaryâ*, beneficial action;
 (4) *samânârthâ*, co-operation.
 
-<span id="fn_132"></span>[92:2](taf22.htm#fr_132) This is explained
+<span id="fn_132"></span>[92:2](taf22.htm#fr_132.md) This is explained
 below.
 
-<span id="fn_133"></span>[93:1](taf22.htm#fr_133) Literally, an
+<span id="fn_133"></span>[93:1](taf22.htm#fr_133.md) Literally, an
 unimpeded eye.
 
-<span id="fn_134"></span>[93:2](taf22.htm#fr_134) The older translation
+<span id="fn_134"></span>[93:2](taf22.htm#fr_134.md) The older translation
 differs a little, but without any considerable change in the meaning.
 
-<span id="fn_135"></span>[94:1](taf22.htm#fr_135) The spontaneity of
+<span id="fn_135"></span>[94:1](taf22.htm#fr_135.md) The spontaneity of
 action means action without attachment or free from the ego-conception.
 It is somewhat similar to Lao-Tze's idea of *wu wei*, non-assertion. Cf.
 also the following passages from the *Bhagavadgîtâ*, Chap. IV., p. 59:
@@ -1266,4 +1266,4 @@ coincides with the practical side of Açvaghosha's doctrine of suchness
 
 ------------------------------------------------------------------------
 
-[Next: C. The Threefold Significance of the Mahâyâna Explained](taf23)
+[Next: C. The Threefold Significance of the Mahâyâna Explained](taf23.md)

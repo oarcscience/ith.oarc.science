@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb01)  [Next](vifb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb01)  [Next](vifb03.md) 
 
 </div>
 
@@ -75,6 +75,6 @@ been abridged and simplified for children.
 
 ------------------------------------------------------------------------
 
-[Next: A Tale of the Tontlawald](vifb03)
+[Next: A Tale of the Tontlawald](vifb03.md)
 
 </div>

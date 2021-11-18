@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ftmg12)  [Next](ftmg14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ftmg12)  [Next](ftmg14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fairy Tales of Modern Greece*, by Theodore P. Gianakoulis and Georgia
 H. MacPherson, \[1930\], at Intangible Textual Heritage
 
@@ -132,7 +132,7 @@ the mountain.
 
 <span id="img_10500"></span> <span align="CENTER"> [![Nikolas became a
 shepherd at the age of fifteen.](tn/10500.jpg)  
-Click to enlarge](img/10500.jpg)  
+Click to enlarge](img/10500.jpg.md)  
 Nikolas became a shepherd at the age of fifteen.  
 </span>
 
@@ -148,4 +148,4 @@ None of them had seen Nikolas on that day and no one ever saw him again.
 
 ------------------------------------------------------------------------
 
-[Next: XI. The First of May](ftmg14)
+[Next: XI. The First of May](ftmg14.md)

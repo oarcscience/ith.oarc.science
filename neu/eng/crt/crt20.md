@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt19)  [Next](crt21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt19)  [Next](crt21.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_14600"></span>
 
 [![Sir Tristram harpeth before King Mark](tn/14600.jpg)  
-Click to enlarge](img/14600.jpg)  
+Click to enlarge](img/14600.jpg.md)  
 Sir Tristram harpeth before King Mark  
 
 <span id="page_147">p. 147</span>
@@ -655,4 +655,4 @@ the brotherhood of good knights at King Arthur's court.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Sixth](crt21)
+[Next: Chapter Sixth](crt21.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai19)  [Next](kwai21) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai19)  [Next](kwai21.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ some people that I know.
 
 ------------------------------------------------------------------------
 
-[Next: Ants](kwai21)
+[Next: Ants](kwai21.md)

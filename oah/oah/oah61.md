@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah60)  [Next](oah62) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah60)  [Next](oah62.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ rejoice the souls of them that are to be cut off from corpor?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](oah62)
+[Next: Chapter V](oah62.md)

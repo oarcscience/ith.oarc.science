@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft75)  [Next](sfft77) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft75)  [Next](sfft77.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="page_275">p. 275</span>
 
-### THE TALE OF THE SHIFTY LAD, THE WIDOW'S SON. <span id="fr_149"></span>[1](#fn_149)
+### THE TALE OF THE SHIFTY LAD, THE WIDOW'S SON. <span id="fr_149"></span>[1](#fn_149.md)
 
 #### I.
 
@@ -29,7 +29,7 @@ that he would be a thief.
 
 His mother said to him: "If that is the art that thou art going to
 choose for thine ownself, thine end is to be hanged at the bridge of
-Baile Cliabh, <span id="fr_150"></span>[2](#fn_150) in Eirinn."
+Baile Cliabh, <span id="fr_150"></span>[2](#fn_150.md) in Eirinn."
 
 But it was no matter, he would not go to any art, but to be a thief; and
 his mother was always making a prophecy to him that the end of him would
@@ -100,7 +100,7 @@ again."
 
 The Shifty Lad was as willing as himself; they went away to the house,
 they got in at the coming on of the night, and they went up upon the
-loft, <span id="fr_151"></span>[1](#fn_151) and they went in hiding up
+loft, <span id="fr_151"></span>[1](#fn_151.md) and they went in hiding up
 there; and it was the night of
 
 <span id="page_278">p. 278</span>
@@ -440,7 +440,7 @@ the wright's widow where the Shifty Lad was. The wright's widow gave
 their supper to the soldiers, and some of the pig's flesh was made ready
 for them; and the soldiers were eating the pig's flesh, and praising it
 exceedingly. The Shifty Lad understood what was the matter, but he did
-not let on. <span id="fr_152"></span>[1](#fn_152) The soldiers were
+not let on. <span id="fr_152"></span>[1](#fn_152.md) The soldiers were
 
 <span id="page_289">p. 289</span>
 
@@ -565,17 +565,17 @@ widow.
 
 ### Footnotes
 
-<span id="fn_149"></span>[275:1](sfft76.htm#fr_149) Campbell, *Popular
+<span id="fn_149"></span>[275:1](sfft76.htm#fr_149.md) Campbell, *Popular
 Tales of the West Highlands*.
 
-<span id="fn_150"></span>[275:2](sfft76.htm#fr_150) Dublin.
+<span id="fn_150"></span>[275:2](sfft76.htm#fr_150.md) Dublin.
 
-<span id="fn_151"></span>[277:1](sfft76.htm#fr_151) The loft meant is
+<span id="fn_151"></span>[277:1](sfft76.htm#fr_151.md) The loft meant is
 the space in the roof of a cottage which is above the rafters, and is
 used as a kind of store.
 
-<span id="fn_152"></span>[288:1](sfft76.htm#fr_152) Divulge.
+<span id="fn_152"></span>[288:1](sfft76.htm#fr_152.md) Divulge.
 
 ------------------------------------------------------------------------
 
-[Next: Lothian Tom](sfft77)
+[Next: Lothian Tom](sfft77.md)

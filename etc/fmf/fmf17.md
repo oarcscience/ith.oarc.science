@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf16)  [Next](fmf18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf16)  [Next](fmf18.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ with a quiet Home Life and an every-day Salary.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Household Comedian and The Lady Shopper's
-Unexpected Come Back](fmf18)
+Unexpected Come Back](fmf18.md)

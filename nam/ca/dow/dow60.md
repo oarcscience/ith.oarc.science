@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow59)  [Next](dow61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow59)  [Next](dow61.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -28,7 +28,7 @@ of his leg twitch, as if some one were poking it with his finger, it is
 a sure sign that within three days somebody is going to die, and he must
 take care that he is not the one. The twitching is done by the person's
 totem or guardian spirit, who comes and pokes his leg to warn him, of
-the danger. <span id="fr_25"></span>[27](#fn_25)
+the danger. <span id="fr_25"></span>[27](#fn_25.md)
 
 \[My informant, the chief of a small rancheria, told me that he had been
 thus warned several times by *Mā'-wā* the Gray Squirrel, who was his
@@ -45,11 +45,11 @@ alive, while some one else, in a neighboring rancheria, had died.\]
 
 ### Footnotes
 
-<span id="fn_25"></span>[222:27](dow60.htm#fr_25) For remarks on the
+<span id="fn_25"></span>[222:27](dow60.htm#fr_25.md) For remarks on the
 prevalence and Significance of totemism among the Mewan tribes, see my
 article entitled "Totemism in California," *American Anthropologist*,
 vol. x, 558-561, 1908.
 
 ------------------------------------------------------------------------
 
-[Next: Thunder](dow61)
+[Next: Thunder](dow61.md)

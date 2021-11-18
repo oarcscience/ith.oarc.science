@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](job01)  [Next](jet00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](job01)  [Next](jet00.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ prophet (PUH) and his Household (PUT).
 
 ------------------------------------------------------------------------
 
-[Next: Shu\`ayb (Jethro) The Prophet (PUH)](jet00)
+[Next: Shu\`ayb (Jethro) The Prophet (PUH)](jet00.md)

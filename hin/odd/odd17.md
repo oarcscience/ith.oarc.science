@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd16)  [Next](odd18) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd16)  [Next](odd18.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ was drowned, but the Camel swam safely ashore.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. The Brahman, the Tiger, and the Six Judges](odd18)
+[Next: XIV. The Brahman, the Tiger, and the Six Judges](odd18.md)

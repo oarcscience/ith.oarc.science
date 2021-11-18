@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub59) 
-[Next](jub61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub59.md) 
+[Next](jub61.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ place whither thou goest we will go with thee." 4. And Jacob blessed the
 God of Isaac his father, and the God of Abraham his father's father, and
 he arose and mounted his wives and his children, and took all his
 possessions and crossed the river, and came to the land of Gilead, and
-Jacob hid <span id="fr_692"></span>[1](#fn_690) his intention from
+Jacob hid <span id="fr_692"></span>[1](#fn_690.md) his intention from
 
 |           |
 |-----------|
@@ -38,24 +38,24 @@ him, and Jacob sware to Laban that day, and Laban also to Jacob, that
 neither should cross the mountain of Gilead to the other with evil
 purpose. 8. And he made there a heap for a witness; wherefore the name
 of that place is called: "The Heap of Witness," after this heap. <span
-id="fr_693"></span>[2](#fn_691) 9. But before they used to call the land
-of Gilead the land of the Rephaim; <span id="fr_694"></span>[3](#fn_692)
+id="fr_693"></span>[2](#fn_691.md) 9. But before they used to call the land
+of Gilead the land of the Rephaim; <span id="fr_694"></span>[3](#fn_692.md)
 for it was the land of the Rephaim, and the Rephaim were born (there),
 giants whose height was ten, nine, eight down to seven cubits. 10. <span
-id="fr_695"></span>[4](#fn_693) And their habitation was from the land
+id="fr_695"></span>[4](#fn_693.md) And their habitation was from the land
 of the children of Ammon to Mount Hermon, and the seats of their kingdom
 were Karnaim and
 
 <span id="page_152">p. 152</span>
 
-\[paragraph continues\] Ashtaroth, <span id="fr_696"></span>[1](#fn_694)
-and Edrei, and Mîsûr, <span id="fr_697"></span>[2](#fn_695) and
-Beon. <span id="fr_698"></span>[3](#fn_696) 11. And the Lord destroyed
+\[paragraph continues\] Ashtaroth, <span id="fr_696"></span>[1](#fn_694.md)
+and Edrei, and Mîsûr, <span id="fr_697"></span>[2](#fn_695.md) and
+Beon. <span id="fr_698"></span>[3](#fn_696.md) 11. And the Lord destroyed
 them because of the evil of their deeds; for they were very malignant,
 and the Amorites dwelt in their stead, wicked and sinful, and there is
 no people to-day which hath wrought to the full all their sins, and they
 have no longer length of life on the earth. <span
-id="fr_699"></span>[4](#fn_697) 12. And Jacob sent away Laban, and he
+id="fr_699"></span>[4](#fn_697.md) 12. And Jacob sent away Laban, and he
 departed into Mesopotamia, the land of the East, and Jacob returned to
 the land of Gilead.
 
@@ -63,46 +63,46 @@ the land of Gilead.
 
 ### Footnotes
 
-<span id="fn_686"></span>[150:1](jub59.htm#fr_688) Gen. XXX. 28 has
+<span id="fn_686"></span>[150:1](jub59.htm#fr_688.md) Gen. XXX. 28 has
 "appoint me thy wages."
 
-<span id="fn_687"></span>[150:2](jub59.htm#fr_689) A wrong rendering of
+<span id="fn_687"></span>[150:2](jub59.htm#fr_689.md) A wrong rendering of
 the Hebrew (Gen. xxx. 32), which means "speckled" (*nāḳōd*).
 
-<span id="fn_688"></span>[150:3](jub59.htm#fr_690) Speckled and black,
+<span id="fn_688"></span>[150:3](jub59.htm#fr_690.md) Speckled and black,
 variously marked LXX ποικίλα καὶ σποδοιεδῆ ῥαντά does not represent
 σποδοειδῆ.
 
-<span id="fn_689"></span>[150:4](jub59.htm#fr_691) And sheep so LXX
+<span id="fn_689"></span>[150:4](jub59.htm#fr_691.md) And sheep so LXX
 (Gen. xxx. 43); but MT and other versions omit.
 
-<span id="fn_690"></span>[151:1](jub60.htm#fr_692) So LXX (Gen. xxxi.
+<span id="fn_690"></span>[151:1](jub60.htm#fr_692.md) So LXX (Gen. xxxi.
 20) and Targ. Onkelos; but MT Sam., Vulg., ''stole" (the heart of
 Laban).
 
-<span id="fn_691"></span>[151:2](jub60.htm#fr_693) Cf. Gen. xxxi. 47
+<span id="fn_691"></span>[151:2](jub60.htm#fr_693.md) Cf. Gen. xxxi. 47
 ("Galeed" = "Heap of Witness").
 
-<span id="fn_692"></span>[151:3](jub60.htm#fr_694) Cf. Gen. xiv. 5.
+<span id="fn_692"></span>[151:3](jub60.htm#fr_694.md) Cf. Gen. xiv. 5.
 
-<span id="fn_693"></span>[151:4](jub60.htm#fr_695) The places here
+<span id="fn_693"></span>[151:4](jub60.htm#fr_695.md) The places here
 mentioned were, perhaps, associated with Maccabean victories in the mind
 of our author (Charles).
 
-<span id="fn_694"></span>[152:1](jub60.htm#fr_696) In MT of Gen. xiv. 5,
+<span id="fn_694"></span>[152:1](jub60.htm#fr_696.md) In MT of Gen. xiv. 5,
 Asheroth-karnaim is one place; but Syr. and some MSS. of LXX support our
 text. Karnaim was captured by. Judas Maccabæus (1 Macc. 43 f.).
 
-<span id="fn_695"></span>[152:2](jub60.htm#fr_697) In Deut. iii. 10
+<span id="fn_695"></span>[152:2](jub60.htm#fr_697.md) In Deut. iii. 10
 "plain" = *mîshôr*.
 
-<span id="fn_696"></span>[152:3](jub60.htm#fr_698) = probably the *Bæan*
+<span id="fn_696"></span>[152:3](jub60.htm#fr_698.md) = probably the *Bæan*
 of 1 Macc. v. 4 f., which was destroyed by Judas.
 
-<span id="fn_697"></span>[152:4](jub60.htm#fr_699) Judas "must have
+<span id="fn_697"></span>[152:4](jub60.htm#fr_699.md) Judas "must have
 nearly annihilated" the Amorites (Charles).
 
 ------------------------------------------------------------------------
 
 [Next: Jacob, reconciled with Esau, dwells in Canaan and supports his
-Parents (xxix. 13-20)](jub61)
+Parents (xxix. 13-20)](jub61.md)

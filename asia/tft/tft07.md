@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft06)  [Next](tft08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft06)  [Next](tft08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -74,7 +74,7 @@ early next day everybody in the city was at the courtyard to see
 <span id="img_03100"></span> <span align="CENTER"> [![THE DONKEY, ALMOST
 COVERED WITH THE LOAD OF WOOD, DID NOT SEE THE JAR, AND BROKE IT,
 SPILLING ALL THE OIL.](tn/03100.jpg)  
-Click to enlarge](img/03100.jpg)  
+Click to enlarge](img/03100.jpg.md)  
 THE DONKEY, ALMOST COVERED WITH THE LOAD OF WOOD, DID NOT SEE THE JAR,
 AND BROKE IT, SPILLING ALL THE OIL.  
 </span>
@@ -98,4 +98,4 @@ paid, and the court closed.
 
 ------------------------------------------------------------------------
 
-[Next: Five: Story of the Foolish Head-Man](tft08)
+[Next: Five: Story of the Foolish Head-Man](tft08.md)

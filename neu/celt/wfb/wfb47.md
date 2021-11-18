@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb46)  [Next](wfb48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb46)  [Next](wfb48.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ eggs.
 
 ------------------------------------------------------------------------
 
-[Next: The Cat Witches](wfb48)
+[Next: The Cat Witches](wfb48.md)

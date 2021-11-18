@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat12.htm#XC)  [Previous](satl089) 
-[Next](satl091) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat12.htm#XC)  [Previous](satl089.md) 
+[Next](satl091.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ Mando aedicularum custodi cenulae officium. &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: XCI](satl091)
+[Next: XCI](satl091.md)

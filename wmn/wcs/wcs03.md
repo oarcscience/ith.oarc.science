@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wcs02)  [Next](wcs04) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wcs02)  [Next](wcs04.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,15 +78,15 @@ no place either in the social, political or religious scheme; woman was
 ruler in each. The primal priest on earth, she was also supreme as
 goddess in heaven. The earliest semblance of the family is traceable to
 the relationship of mother and child alone. Here the primal idea of the
-family had birth.<span id="fr_1"></span>[1](#fn_1) The child bore its
+family had birth.<span id="fr_1"></span>[1](#fn_1.md) The child bore its
 mother's name, tracing its descent from her; her authority over it was
 regarded as in accord with nature; the father having no part in the
 family remained a wanderer. Long years elapsed before man, as husband
 and father, was held in esteem. The son, as child of his mother, ranked
 the father, the mother taking precedence over both the father and the
-son.<span id="fr_2"></span>[2](#fn_2) Blood relationship through a
+son.<span id="fr_2"></span>[2](#fn_2.md) Blood relationship through a
 common mother preceded that of descent through the father in the
-development of society.<span id="fr_3"></span>[3](#fn_3)
+development of society.<span id="fr_3"></span>[3](#fn_3.md)
 
 <span id="page_14">p. 14</span>
 
@@ -99,15 +99,15 @@ tribe was united through the mother; social, political and religious
 life: were all in harmony with the idea of woman as the first and
 highest power. The earliest phase of life being dependent upon her, she
 was recognized as the primal factor in every relation,<span
-id="fr_4"></span>[4](#fn_4) man holding no place but that of dependant.
+id="fr_4"></span>[4](#fn_4.md) man holding no place but that of dependant.
 
     Every part of the world to-day gives evidence of the system;
 reminiscences Of the Matriarchate everywhere abound. Livingstone found
 African tribes swearing by the mother and tracing descent through her.
 Marco Polo discovered similar customs in his Asiatic voyages, and the
 same customs are extant among the Indians of our own continent.
-Bachofen<span id="fr_5"></span>[5](#fn_5) and numerous
-investigators<span id="fr_6"></span>[6](#fn_6) agree in the statement
+Bachofen<span id="fr_5"></span>[5](#fn_5.md) and numerous
+investigators<span id="fr_6"></span>[6](#fn_6.md) agree in the statement
 that in the earliest forms of society, the family, government, and
 religion, were all under woman's control; that in fact society started
 under woman's absolute authority and power.
@@ -119,7 +119,7 @@ Java, Australia and Madagascar are among those still
 
 <span id="page_15">p. 15</span>
 
-continuing its practice.<span id="fr_7"></span>[7](#fn_7) By this step
+continuing its practice.<span id="fr_7"></span>[7](#fn_7.md) By this step
 the father allied himself to both mother and child, although still
 holding an inferior position to both. The Matriarchal family was now
 fully established, descent still running in the female line. Thus, as
@@ -127,7 +127,7 @@ has been expressed, we find that woman's liberty did not begin to-day
 nor under modern religions or forms or government, but that she was in
 reality the founder of civilization, and that in the most remote times
 woman enjoyed superiority of rights in all the institutions of
-life.<span id="fr_8"></span>[8](#fn_8) And yet so difficult is it to
+life.<span id="fr_8"></span>[8](#fn_8.md) And yet so difficult is it to
 break away from educated thought, so slight a hold have historical facts
 upon the mind when contrary to pre-conceived ideas, that we find people
 still expressing the opinion that man's place has always been first in
@@ -155,11 +155,11 @@ and was deified after death. In Egypt, Neith the Victorious, was
 worshiped as mother of the gods, and in the yearly festival held in her,
 honor, every family took part for the time holding a priestly office. To
 neglect this duty was deemed an omission of great irreverence.<span
-id="fr_9"></span>[9](#fn_9) The most ancient occultism recognized the
+id="fr_9"></span>[9](#fn_9.md) The most ancient occultism recognized the
 creative power as feminine and preceding both gods and men.
 
     Under the Matriarchate, monogamy was the rule; neither polyandry or
-promiscuity existed.<span id="fr_10"></span>[10](#fn_10)
+promiscuity existed.<span id="fr_10"></span>[10](#fn_10.md)
 
     For long years after the decline of the Matriarchate we still
 discover that among many of the most refined nations, woman still
@@ -206,7 +206,7 @@ sale of lands was valid without consent of the squaws and among
 
 the State Archives at Albany, New York, treaties are preserved signed by
 the "Sachems and Principal Women of the Six Nations."<span
-id="fr_11"></span>[11](#fn_11) The women also possessed the veto power
+id="fr_11"></span>[11](#fn_11.md) The women also possessed the veto power
 on questions of war. Sir William Johnston mentions an instance of Mohawk
 squaws forbidding the war-path to young braves. The family relation
 among the Iroquois demonstrated woman's superiority in power. When an
@@ -234,14 +234,14 @@ the Iroquois but most Indians of North America trace descent in the
 
 female line; among some tribes woman enjoys almost the whole legislative
 authority and in others a prominent share.<span
-id="fr_12"></span>[12](#fn_12) Lafitte and other Jesuit missionary
+id="fr_12"></span>[12](#fn_12.md) Lafitte and other Jesuit missionary
 writers are corroborated in this statement by Schoolcraft, Catlin,
 Clark, Hubert Bancroft of the Pacific coast, and many students of Indian
 life and customs. But the most notable fact connected with woman's
 participation in governmental affairs among the Iroquois is the
 statement of Hon. George Bancroft that the form of government of the
 United States, was borrowed from that of the Six Nations.<span
-id="fr_13"></span>[13](#fn_13) Thus to the Matriarchate or Mother-rule
+id="fr_13"></span>[13](#fn_13.md) Thus to the Matriarchate or Mother-rule
 is the modern world indebted for its first conception of inherent
 rights, natural equality of condition, and the establishment of a
 civilized government upon this basis. Although the reputation of the
@@ -255,7 +255,7 @@ their women the science of government reached the highest form known to
 the world. Among the Zunis of New Mexico, woman still preserves supreme
 religious and political authority; the Paramount Council consisting of
 six priests under control of a supreme priestess who is the most
-important functionary of the tribe.<span id="fr_14"></span>[14](#fn_14)
+important functionary of the tribe.<span id="fr_14"></span>[14](#fn_14.md)
 This form of government is traceable to their earliest civilization at
 which period their cities were grouped in sevens, six of
 
@@ -267,8 +267,8 @@ priests ruled over the six primal cities the central and superior
 seventh was presided over by a priestess who not alone officiated at the
 central temple, but to whom the male priests of the six cities and six
 inferior temples were subservient. The ancient Lycians, the Sclavs, the
-Basques of Spain,<span id="fr_15"></span>[15](#fn_15) the Veddas of
-Ceylon,<span id="fr_16"></span>[16](#fn_16) the inhabitants of Malabar,
+Basques of Spain,<span id="fr_15"></span>[15](#fn_15.md) the Veddas of
+Ceylon,<span id="fr_16"></span>[16](#fn_16.md) the inhabitants of Malabar,
 the aborigines of widely separated lands, all show convincing proof of
 woman's early superiority in religion, in the state, and in the family.
 Monogamy was a marked feature of the Matriarchate; Backofen, who has
@@ -280,7 +280,7 @@ family and tribal system even long after its partial supersedence by the
 incoming Patriarachate, the marriage relation was less oppressive to
 woman than it has been under most centuries of christian civilization.
 Daughters were free in their choice of husbands, no form of a force or
-sale existing.<span id="fr_17"></span>[17](#fn_17)
+sale existing.<span id="fr_17"></span>[17](#fn_17.md)
 
 <span id="page_21">p. 21</span>
 
@@ -318,7 +318,7 @@ to nothing; we cannot define him and say that he is this or that; he is
 neither Man or Woman; neither Heaven or Earth, and yet he is all;
 subject to no corruption, no mortality and with neither sleep nor rest,
 he is Almighty and Omnipotent without Beginning and without End.<span
-id="fr_18"></span>[18](#fn_18)
+id="fr_18"></span>[18](#fn_18.md)
 
     Under the Missionaries sent by England to introduce her own barbaric
 ideas of God and man, this beautiful Matriarchal civilization of Malabar
@@ -332,11 +332,11 @@ mundane egg, which is but an elongated circle, contains everything in
 itself and is the true microcosm. It is eternity, it is feminine, the
 creative force, representing spirit. Through its union with matter in
 the form of the nine digits it is likewise capable of representing all
-natural things.<span id="fr_19"></span>[19](#fn_19) The perfect circle
+natural things.<span id="fr_19"></span>[19](#fn_19.md) The perfect circle
 of Giotto was an emblem of divine motherhood in its completeness. It is
 a remarkable fact--its significance not recognized,--that the roughly
 sketched diameter within the circle, found wherever boys congregate, is
-an ancient mystic sign<span id="fr_20"></span>[20](#fn_20) signifying
+an ancient mystic sign<span id="fr_20"></span>[20](#fn_20.md) signifying
 the male and female, or the double-sexed deity. It is the union of all
 numbers, the one within the
 
@@ -353,11 +353,11 @@ most ancient Aryans were under the Matriarchate, the feminine recognized
 as the creative power. The word "ma" from which all descendants of those
 peoples derive their names for mother, was synonymous with 'Creator.'
 Renouf, the great antiquarian authority upon the Aryan's,<span
-id="fr_21"></span>[21](#fn_21) gives the songs and ceremonies of the
+id="fr_21"></span>[21](#fn_21.md) gives the songs and ceremonies of the
 wedding. In these, the woman is represented as having descended to man
 from association with divine beings in whose custody and care she has
 been, and who give her up with reluctance. In Sanscrit mythology,<span
-id="fr_22"></span>[22](#fn_22) the feminine is represented by Swrya, the
+id="fr_22"></span>[22](#fn_22.md) the feminine is represented by Swrya, the
 Sun, the source of life, while the masculine is described as Soma, a
 body. Soma, a beverage of the gods especially sacred to Indra, was the
 price paid by him for the assistance of Vâyu, the swiftest of the gods,
@@ -385,7 +385,7 @@ part of both teacher and student.
     The word "Veda" signifies *to-know*; the latter from "Vidya" meaning
 *wise*. The English term widow is tracable to both forms of the word,
 meaning a wise woman-one who knows man. Many ages passed before the
-Vedas were committed to writing.<span id="fr_23"></span>[23](#fn_23) At
+Vedas were committed to writing.<span id="fr_23"></span>[23](#fn_23.md) At
 that early day the ancestral worship of women--departed mothers-was as
 frequent as that of departed fathers, women conducting such services
 which took place three times a day. In the old Aryan Scriptures the
@@ -417,7 +417,7 @@ the widow shall take his wealth; this is primeval law.
 
     Though a woman be dependent, the alienation of female property, or
 of the mother's right over her son by the gift of a husband alone<span
-id="fr_24"></span>[24](#fn_24) is not valid in law or reason;
+id="fr_24"></span>[24](#fn_24.md) is not valid in law or reason;
 
     The female property of wives like the property of a stranger, may
 not be given, for there is want of ownership.
@@ -612,7 +612,7 @@ were upon death admitted to the assembly of the gods. Such deification
 common in ancient times, is still customary in some parts of the earth.
 Within the past few years a countryman of our own was thus apotheosized
 by the Chinese to whom he had rendered valuable service at the time of
-the Tae-ping rebellion.<span id="fr_25"></span>[25](#fn_25) Ancient
+the Tae-ping rebellion.<span id="fr_25"></span>[25](#fn_25.md) Ancient
 Egyptians recognized a masculine and feminine principle entering in all
 things both material and spiritual. Isis, the best beloved and most
 worshiped of the secondary gods, was believed by them to have been a
@@ -623,7 +623,7 @@ civilization. She taught
 
 <span id="page_31">p. 31</span>
 
-them the art of making bread<span id="fr_26"></span>[26](#fn_26) from
+them the art of making bread<span id="fr_26"></span>[26](#fn_26.md) from
 the cereals theretofore growing wild and unused, the inhabitants at an
 early day living upon roots and herbs. Egypt soon became the grain
 growing portion of the globe, her enormous crops of wheat not alone
@@ -633,7 +633,7 @@ Isis; she was also said to have invented the art of embalming,
 established their literature, founded their religion. The whole Egyptian
 civilization was ascribed to the woman-goddess, Isis, whose name
 primarily Ish-Ish, signified Light, Life.<span
-id="fr_27"></span>[27](#fn_27) Isis, and Nepthys--the Lady of the
+id="fr_27"></span>[27](#fn_27.md) Isis, and Nepthys--the Lady of the
 House--were worshiped as the Beginning and the End. They were the Alpha
 and Omega of the most ancient Egyptian religion. The statues of Isis
 bore this inscription:
@@ -643,7 +643,7 @@ has hitherto taken off my veil."
 
     Isis was believed to contain germs within herself for the
 reproduction of all living things. The most universal of her 10,000
-names was, "Potent Mother Goddess."<span id="fr_28"></span>[28](#fn_28)
+names was, "Potent Mother Goddess."<span id="fr_28"></span>[28](#fn_28.md)
 This Egyptian regard for Isis is an extremely curious and interesting
 reminiscence of the Matriarchal period. Her worship was universal
 throughout Egypt. Her temples were magnificent. Her priests, consecrated
@@ -653,10 +653,10 @@ with animal fibre, to abstain from animal food, and also
 <span id="page_32">p. 32</span>
 
 from those vegetables regarded as impure.<span
-id="fr_29"></span>[29](#fn_29) Two magnificent festivals were yearly
+id="fr_29"></span>[29](#fn_29.md) Two magnificent festivals were yearly
 celebrated in her honor, the whole people taking part. During one of
 these festivals her priests bore a golden ship in the procession. The
-ship, or ark,<span id="fr_30"></span>[30](#fn_30) is peculiarly
+ship, or ark,<span id="fr_30"></span>[30](#fn_30.md) is peculiarly
 significative of the feminine principle, and wherever found is a
 reminiscence of the Matriarchate. The most sacred mysteries of the
 Egyptian religion, whose secrets even Pythagorus could not penetrate, to
@@ -678,7 +678,7 @@ conspicuously taught as a part of Egyptian religion. The Sacred Songs of
 Isis were an important part of the literature of Egypt. Plato, who
 burned his own poems after reading Homer, declared them worthy of the
 divinity, believing them to be literally 10,000 years old.<span
-id="fr_31"></span>[31](#fn_31) All orders of the priesthood were open to
+id="fr_31"></span>[31](#fn_31.md) All orders of the priesthood were open to
 women in Egypt; sacred colleges existed for
 
 <span id="page_33">p. 33</span>
@@ -716,7 +716,7 @@ upon the monuments as preceding
 
 in acts of worship the great Thotmes III, her brother, whom she had
 associated with herself upon the throne, but who did not acquire supreme
-power until after her death.<span id="fr_32"></span>[32](#fn_32) The
+power until after her death.<span id="fr_32"></span>[32](#fn_32.md) The
 reign of Hatasu was pre-eminent as the great architectural period of
 Egypt, the engraving upon monuments during her reign closely resembling
 the finest Greek intaglio. Egypt, so famous for her gardens and her art
@@ -747,9 +747,9 @@ Egypt was indebted
 <span id="page_35">p. 35</span>
 
 to priestesses for some of its most important literature. To Penthelia,
-a priestess of Phtha<span id="fr_33"></span>[33](#fn_33) the God of
+a priestess of Phtha<span id="fr_33"></span>[33](#fn_33.md) the God of
 Fire, in Memphis, Bryant ascribes the authorship of the Iliad and the
-Odyssey, Homer<span id="fr_34"></span>[34](#fn_34) in his travels
+Odyssey, Homer<span id="fr_34"></span>[34](#fn_34.md) in his travels
 through that country, by aid of a suborned priest, having stolen these
 poems from the archives of the temples of Phtha where they had been
 deposited for safe keeping.
@@ -759,7 +759,7 @@ predictions not infrequently changing the course of that country's
 history. To his daughter, the prophet-priestess Athryte, was the great
 Rameses II indebted for the prophecy which led him into his conquering
 and victorious career. Known as one of the four great conquerors of
-antiquity,<span id="fr_35"></span>[35](#fn_35) reigning sixty years, he
+antiquity,<span id="fr_35"></span>[35](#fn_35.md) reigning sixty years, he
 greatly added to the wealth and renown of Egypt.
 
     The class of priestesses called Sibyls were early. known in Egypt,
@@ -786,7 +786,7 @@ people of this country, shows no less favorably for the latter. Women
 were traders, buying and selling in the markets while the men engaged in
 the more laborious work of weaving at home. Woman's medical and hygienic
 knowledge is proven by the small number of infantile deaths.<span
-id="fr_36"></span>[36](#fn_36) At the marriage ceremony the husband
+id="fr_36"></span>[36](#fn_36.md) At the marriage ceremony the husband
 promised obedience to the wife in all things, took her name, and his
 property passed into her control; according to Wilkinson great harmony
 existed in the marriage relation, the husband and wife sitting upon the
@@ -805,7 +805,7 @@ Semiramis. It has been said of the Romans that they ruled all nations
 but obeyed their wives.
 
     Crimes against women were rare in Egypt and when occurring were most
-severely punished.<span id="fr_37"></span>[37](#fn_37) "Rameses III.
+severely punished.<span id="fr_37"></span>[37](#fn_37.md) "Rameses III.
 caused this inscription to be engraved upon his monuments:
 
     To unprotected woman there is freedom to wander through the whole
@@ -869,7 +869,7 @@ as unknown as when in their charge. The order was destroyed in the
 fourth century, but the ruins of their temple recently discovered prove
 that when obliged to flee from the sacred enclosure they first
 demolished the most holy portion where the secrets of Rome were
-hidden.<span id="fr_36"></span>[36](#fn_36) Recent important
+hidden.<span id="fr_36"></span>[36](#fn_36.md) Recent important
 archæological discoveries at the Atrium Vertæ in the Forum, corroborate
 history in regard to the high position and extraordinary privileges of
 the Vestals. Several statues have been found representing the sacred
@@ -881,7 +881,7 @@ of war reached all but a few favored individuals.
 
     The names by which Imperial Rome was known were all feminine; Roma,
 Flora, Valentia; nearly its first and greatest goddess was Vesta.<span
-id="fr_39"></span>[39](#fn_39)
+id="fr_39"></span>[39](#fn_39.md)
 
     Sacred and secret were originally synonymous terms. All learning was
 sacred, consequently secret, and as only those possessed of learning
@@ -902,12 +902,12 @@ as well as religious importance regulating their dates and chronology.
 To the present day in China woman assists at the altar in ancestral
 worship, the prevailing form of religious adoration. The mother of a
 family is treated with the greatest respect<span
-id="fr_40"></span>[40](#fn_40) and the combined male and female
+id="fr_40"></span>[40](#fn_40.md) and the combined male and female
 principle is represented in god under the name Fou-Fou, that is,
-Father-Mother.<span id="fr_41"></span>[41](#fn_41) When the Emperor
+Father-Mother.<span id="fr_41"></span>[41](#fn_41.md) When the Emperor
 acting as high priest performs certain rites he is called Father-Mother
 of the people. Woman is endowed with the same political powers as
-man.<span id="fr_42"></span>[42](#fn_42) The wife presides like her
+man.<span id="fr_42"></span>[42](#fn_42.md) The wife presides like her
 husband at family councils, trials, etc. As Regent, she governs the
 Empire with wisdom, dignity, power, as was shown during the co-regency
 of the Empresses of the East and of the West, their power continuing
@@ -918,7 +918,7 @@ even after the promotion of a boy-heir to the throne.
     A Thibetan woman empire extant between the VI and VII centuries A.
 D. is spoken of by Chinese writers. An English author, Cooper, seems to
 have visited this region, meeting with an amusing venture while
-there.<span id="fr_43"></span>[43](#fn_43)
+there.<span id="fr_43"></span>[43](#fn_43.md)
 
     Under the law of the Twelve Tables, founded A. U. C. 300, woman
 possessed the right of repudiation in marriage. The code itself was
@@ -949,7 +949,7 @@ husband.
 breach of marriage promise was classed with perjury; its penalty was
 outlawry. Marriage was regarded as sacred and in many instances the
 husband was obliged to submit to the wife.<span
-id="fr_44"></span>[44](#fn_44) Those old Berserkers reverenced their
+id="fr_44"></span>[44](#fn_44.md) Those old Berserkers reverenced their
 Alruna, or Holy Women, on earth and worshiped goddesses in heaven,
 where, according to Scandinavian belief, gods and goddesses sat together
 in a hall without distinction of sex.
@@ -961,10 +961,10 @@ priestly office, reverencing goddesses as superior to gods; still other
 as the Scandinavians, making no distinction in equality between gods and
 goddesses; others governing the nation's course through oracles which
 fell from feminine lips; still others looking to the Sibylline Books for
-like decision.<span id="fr_45"></span>[45](#fn_45) Those historians
+like decision.<span id="fr_45"></span>[45](#fn_45.md) Those historians
 anxious to give most credit to the humanizing effect of Christianity
 upon woman are compelled to admit her superiority among pagan nations
-before the advent of this religion.<span id="fr_46"></span>[46](#fn_46)
+before the advent of this religion.<span id="fr_46"></span>[46](#fn_46.md)
 
 <span id="page_43">p. 43</span>
 
@@ -992,7 +992,7 @@ of her virginity, are but typical of the low regard of woman under the
 Patriarchate. During this period the destruction of girl children became
 a widely extended practice, and infantile girl murder the custom of many
 nations. During the Matriarchate all life was regarded as holy; even the
-sacrifice of animals was unknown.<span id="fr_47"></span>[47](#fn_47)
+sacrifice of animals was unknown.<span id="fr_47"></span>[47](#fn_47.md)
 The most ancient and
 
 <span id="page_44">p. 44</span>
@@ -1021,17 +1021,17 @@ interior meaning or spiritual significance of its own most holy words.
     Jehovah signifies not alone the masculine and the feminine
 principles but also the spirit or vivifying intelligence. It is a
 compound word indicative of the three divine principles.<span
-id="fr_48"></span>[48](#fn_48) Holy Ghost, although in Hebrew a noun of
+id="fr_48"></span>[48](#fn_48.md) Holy Ghost, although in Hebrew a noun of
 either gender, masculine, feminine, neuter, is invariably rendered
 masculine by Christian translators of the Bible.<span
-id="fr_49"></span>[49](#fn_49) In the Greek, from whence we obtain
+id="fr_49"></span>[49](#fn_49.md) In the Greek, from whence we obtain
 
 <span id="page_45">p. 45</span>
 
 the New Testament, spirit is of the feminine gender, although invariably
 translated masculine. The double-sexed word, Jehovah, too sacred to be
 spoken by the Jews, signified the masculine-feminine God.<span
-id="fr_50"></span>[50](#fn_50) The proof of the double meaning of
+id="fr_50"></span>[50](#fn_50.md) The proof of the double meaning of
 Jehovah, the masculine and feminine signification, Father-Mother, is
 undeniable. Lanci, one of the great orientalists, says:
 
@@ -1039,7 +1039,7 @@ undeniable. Lanci, one of the great orientalists, says:
 that is to say He-She (Hi pronounced He,) Ho in Hebrew being the
 masculine pronoun and Hi the feminine. Ho-Hi therefore denotes the male
 and female principles, the *vis genatrix*.<span
-id="fr_51"></span>[51](#fn_51)
+id="fr_51"></span>[51](#fn_51.md)
 
     Kingsford says:
 
@@ -1049,13 +1049,13 @@ feminine element either in His name or in His nature, or to any failure
 on the part of the inspired leaders of Israel to recognize their
 equality, but to the rudimentary condition of the people at large, and
 their consequent amenability to the delineation of the stern side only
-of the Divine Character.<span id="fr_52"></span>[52](#fn_52)
+of the Divine Character.<span id="fr_52"></span>[52](#fn_52.md)
 
     The Hebrew word 'El Shaddai,' translated, 'The Almighty' is still
 more distinctively feminine than Iah, as it means 'The Breasted God,'
 and is made use of in the Old Testament whenever the especially feminine
 characteristics of God are meant to be indicated.<span
-id="fr_53"></span>[53](#fn_53)
+id="fr_53"></span>[53](#fn_53.md)
 
 <span id="page_46">p. 46</span>
 
@@ -1064,7 +1064,7 @@ confusion of language possesses deep interior significance; the word
 (Babel) meaning 'God the Father' as distinct and separate from the
 feminine principle. The confusion which has come upon humanity because
 of this separation has been far more lamentable in its results than a
-mere confounding of tongues.<span id="fr_54"></span>[54](#fn_54) In the
+mere confounding of tongues.<span id="fr_54"></span>[54](#fn_54.md) In the
 earliest religions the recognition of the feminine principle in the
 divinity is everywhere found. "I am the Father and Mother of the
 Universe" said Krishna in the Bhagavad Gita.
@@ -1091,7 +1091,7 @@ Jews as most ancient peoples and it was so with the early Christians;
 Sophia of the Gnostics and the third Sephiroth, Binah (the female
 Jehovah of the Cabalists,) are feminine principles "Divine Spirit" or
 *Ruach*, "One is She the spirit of the Elohim of Life," is said in
-Sepher Yetzirah.<span id="fr_55"></span>[55](#fn_55)
+Sepher Yetzirah.<span id="fr_55"></span>[55](#fn_55.md)
 
 An early canonical book of the New Testament known as "The Everlasting
 Gospel" also as "The Gospel of the Holy Ghost" represents Jesus as
@@ -1127,7 +1127,7 @@ so it is below."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Celibacy.](wcs04)
+[Next: Chapter II. Celibacy.](wcs04.md)
 
 ------------------------------------------------------------------------
 
@@ -1135,12 +1135,12 @@ so it is below."
 
 <span id="fn_page_13">p. 13</span>  
 
-<span id="fn_1"></span>[1.](#fr_1)  The first state of primitive man
+<span id="fn_1"></span>[1.](#fr_1.md)  The first state of primitive man
 must have been the mere aggregation. The right of the mother was
 therefore most natural; upon the relationship of mother and child the
 remotest conception of the family was based.--Wilkin, p. 869.
 
-<span id="fn_2"></span>[2.](#fr_2)  Where a god and goddess are
+<span id="fn_2"></span>[2.](#fr_2.md)  Where a god and goddess are
 worshiped together they are not husband and wife, but mother and son.
 Neither does the god take pre-eminence, but the mother or goddess. This
 condition dates from the earliest days of society, when marriage in our
@@ -1148,29 +1148,29 @@ sense of the word was unknown, and when kinship and Inheritance were in
 the female line. The Babylonian Ishtur of the Izdobar legend is a deity
 of this type.--W. Robertson Smith: *Kinship in Ancient Arabia*.
 
-<span id="fn_3"></span>[3.](#fr_3)  Dr. Th. Achelis.--Article on
+<span id="fn_3"></span>[3.](#fr_3.md)  Dr. Th. Achelis.--Article on
 Ethnology: (*The Open Court*.)
 
 <span id="fn_page_14">p. 14</span>  
 
-<span id="fn_4"></span>[4.](#fr_4)  In a country where she is the head
+<span id="fn_4"></span>[4.](#fr_4.md)  In a country where she is the head
 of the family, where she decides the descent and inheritance of her
 children, both in regard to property and place in society in such a
 community, she certainly cannot be the servant of her husband, but at
 least must be his equal if not in many respects his superior.--*Wilkin*.
 
-<span id="fn_5"></span>[5.](#fr_5)  *Motherright*.
+<span id="fn_5"></span>[5.](#fr_5.md)  *Motherright*.
 
-<span id="fn_6"></span>[6.](#fr_6)  Lubbuck.--*Prehistoric Times and
+<span id="fn_6"></span>[6.](#fr_6.md)  Lubbuck.--*Prehistoric Times and
 Origin of Civilization. Wilkin*.
 
 <span id="fn_page_15">p. 15</span>  
 
-<span id="fn_7"></span>[7.](#fr_7)  Among many people the father at
+<span id="fn_7"></span>[7.](#fr_7.md)  Among many people the father at
 birth of a child, especially a son, loses his name and takes the one his
 child gets. Tylor--*Primitive Culture*. Also see *Wilkin*.
 
-<span id="fn_8"></span>[8.](#fr_8)  "Thus we see that woman's liberty
+<span id="fn_8"></span>[8.](#fr_8.md)  "Thus we see that woman's liberty
 did not begin at the upper, but at the lower end of civilization. Woman
 in those remote times, was endowed with and enjoyed rights that are
 denied to her but too completely in the higher phase of civilization
@@ -1180,40 +1180,40 @@ private and public (political) rights."
 
 <span id="fn_page_16">p. 16</span>  
 
-<span id="fn_9"></span>[9.](#fr_9)  "Among the monogamous classic
+<span id="fn_9"></span>[9.](#fr_9.md)  "Among the monogamous classic
 nations of antiquity, the maternal deity was worshiped with religious
 ceremonies."
 
-<span id="fn_10"></span>[10.](#fr_10)  We find the mother's right
+<span id="fn_10"></span>[10.](#fr_10.md)  We find the mother's right
 exclusively together with a well-established monogamy.--*Bachofen*
 
 <span id="fn_page_18">p. 18</span>  
 
-<span id="fn_11"></span>[11.](#fr_11)  Documentary History of New York.
+<span id="fn_11"></span>[11.](#fr_11.md)  Documentary History of New York.
 
 <span id="fn_page_19">p. 19</span>  
 
-<span id="fn_12"></span>[12.](#fr_12)  Alexander: *History of Women*.
+<span id="fn_12"></span>[12.](#fr_12.md)  Alexander: *History of Women*.
 
-<span id="fn_13"></span>[13.](#fr_13)  *History of the United States*,
+<span id="fn_13"></span>[13.](#fr_13.md)  *History of the United States*,
 Vol. I.
 
-<span id="fn_14"></span>[14.](#fr_14)  *Cushing*.
+<span id="fn_14"></span>[14.](#fr_14.md)  *Cushing*.
 
 <span id="fn_page_20">p. 20</span>  
 
-<span id="fn_15"></span>[15.](#fr_15)  "What is most to be considered in
+<span id="fn_15"></span>[15.](#fr_15.md)  "What is most to be considered in
 this respect are the political rights which women in time of the
 Matriarchate shared with the men. They had indeed the right to vote in
 public assemblies still exercised not very long ago among the Basques in
 the Spanish provinces."
 
-<span id="fn_16"></span>[16.](#fr_16)  That the Veddas are the
+<span id="fn_16"></span>[16.](#fr_16.md)  That the Veddas are the
 aborigines of Ceylon may be assumed from the fact that the highly
 civilized Singalese admit them to be of noble rank. *Prehistoric
 Times*.--Lubbuck.
 
-<span id="fn_17"></span>[17.](#fr_17)  "We find in some instances this
+<span id="fn_17"></span>[17.](#fr_17.md)  "We find in some instances this
 independence of the maiden in regard to disposing of her hand, or
 selecting a husband as a memento of the time of the Matriarchate. \* \*
 The most remarkable instance of the self-disposition of woman we find
@@ -1223,32 +1223,32 @@ marriage within three years after her maturity."
 
 <span id="fn_page_22">p. 22</span>  
 
-<span id="fn_18"></span>[18.](#fr_18)  *Account of the Religion,
+<span id="fn_18"></span>[18.](#fr_18.md)  *Account of the Religion,
 Manners, etc., of the People of Malabar, etc.*, translated by Mr.
 Phillips, 1718.
 
-<span id="fn_19"></span>[19.](#fr_19)  Among the illustrative types of
+<span id="fn_19"></span>[19.](#fr_19.md)  Among the illustrative types of
 interior realities and the elementary geometric forms, point, direct
 line and deflected line, the last of which is a true arc produces the
 circle when carried to its ultimate, this circle representing the triune
 order of movement; the point in the line, the line in the curve, and the
 curve in the circle--*The Path*.
 
-<span id="fn_20"></span>[20.](#fr_20)  The phallus and lingum (or lingum
+<span id="fn_20"></span>[20.](#fr_20.md)  The phallus and lingum (or lingum
 and yoni), the point within the circle or diameter within the
 circle.--*Volney's Ruins*.
 
 <span id="fn_page_23">p. 23</span>  
 
-<span id="fn_21"></span>[21.](#fr_21)  *Chips from a German
+<span id="fn_21"></span>[21.](#fr_21.md)  *Chips from a German
 Work-Shop*.--Max Muller.
 
-<span id="fn_22"></span>[22.](#fr_22)  All mythology has pertinently
+<span id="fn_22"></span>[22.](#fr_22.md)  All mythology has pertinently
 been characterized as ill-remembered history.
 
 <span id="fn_page_24">p. 24</span>  
 
-<span id="fn_23"></span>[23.](#fr_23)  In the Rig-Veda, a work not
+<span id="fn_23"></span>[23.](#fr_23.md)  In the Rig-Veda, a work not
 committed to writing until after that movement of the Aryans, which
 resulted in the establishment of Persia and India. \* \* there is
 nothing more striking than the status of woman at that early age. Then
@@ -1260,14 +1260,14 @@ poetry.--*Elizabeth Peabody on the Aryans*.
 
 <span id="fn_page_25">p. 25</span>  
 
-<span id="fn_24"></span>[24.](#fr_24)  There are but few of the United
+<span id="fn_24"></span>[24.](#fr_24.md)  There are but few of the United
 States in which the authority of the father to bind out a living child
 or to will away an unborn one, is not recognized as valid without the
 mother's consent.
 
 <span id="fn_page_30">p. 30</span>  
 
-<span id="fn_25"></span>[25.](#fr_25)  Ward, the American who rendered
+<span id="fn_25"></span>[25.](#fr_25.md)  Ward, the American who rendered
 such service to the Chinese Emperor, has been deified. The Emperor, in a
 recent edict, has placed him among the major gods of China, commanding
 shrines to be built and worship to be paid to the memory of this
@@ -1278,15 +1278,15 @@ and temple, his name will be thus commemorated.--*Newspaper Report*.
 
 <span id="fn_page_31">p. 31</span>  
 
-<span id="fn_26"></span>[26.](#fr_26)  *Diodorus Siculus*.
+<span id="fn_26"></span>[26.](#fr_26.md)  *Diodorus Siculus*.
 
-<span id="fn_27"></span>[27.](#fr_27)  "I am nature, the parent of all
+<span id="fn_27"></span>[27.](#fr_27.md)  "I am nature, the parent of all
 things, the sovereign of the elements, the primary progeny of time, the
 most exalted of the deities, the first of the heavenly gods and
 goddesses, the queen of the shades, the uniform countenance who dispose
 with my rod the innumerable lights of heaven."
 
-<span id="fn_28"></span>[28.](#fr_28)  The salubrious breezes of the
+<span id="fn_28"></span>[28.](#fr_28.md)  The salubrious breezes of the
 sea, and the mournful silence of the dead whose single deity the whole
 world venerates in *many forms* with various rites and many names. The
 Egyptians, skilled in ancient lore, worship me with proper ceremonies
@@ -1294,31 +1294,31 @@ and call me by my true name--Queen Isis.
 
 <span id="fn_page_32">p. 32</span>  
 
-<span id="fn_29"></span>[29.](#fr_29)  Leeks, garlic, onions and beans.
+<span id="fn_29"></span>[29.](#fr_29.md)  Leeks, garlic, onions and beans.
 
-<span id="fn_30"></span>[30.](#fr_30)  All the ancient nations appear to
+<span id="fn_30"></span>[30.](#fr_30.md)  All the ancient nations appear to
 have had an ark or archa, in which to conceal something sacred.--Godfrey
 Higgins, *Anacalypsis I*, 347.
 
-<span id="fn_31"></span>[31.](#fr_31)  The Sacred Song of Moses and
+<span id="fn_31"></span>[31.](#fr_31.md)  The Sacred Song of Moses and
 Miriam was an early part of Jewish literature; the idea was borrowed
 like the ark from the religion of Isis.
 
 <span id="fn_page_34">p. 34</span>  
 
-<span id="fn_32"></span>[32.](#fr_32)  The throne of this brilliant
+<span id="fn_32"></span>[32.](#fr_32.md)  The throne of this brilliant
 queen who reigned 1600 years B. C. has recently been deposited in the
 British Museum. Her portrait, also brought to light, shows Caucasian
 features with a dimpled chin.
 
 <span id="fn_page_35">p. 35</span>  
 
-<span id="fn_33"></span>[33.](#fr_33)  Bryant was an English writer of
+<span id="fn_33"></span>[33.](#fr_33.md)  Bryant was an English writer of
 the last century, a graduate of Cambridge who looked into many abstruse
 questions relating to ancient history. In 1796, eight years before his
 death, he published "*A Dissertation Concerning the War of Troy*."
 
-<span id="fn_34"></span>[34.](#fr_34)  That Homer came into Egypt,
+<span id="fn_34"></span>[34.](#fr_34.md)  That Homer came into Egypt,
 amongst other arguments they endeavor to prove it especially by the
 potion Helen gave Telemachus--in the story of Menelaus--to cause him to
 forget all his sorrows past, for the poet seems to have made an exact
@@ -1330,7 +1330,7 @@ the cure of anger and sorrow was only to be found among the
 Diospolitans, Thebes and Diospolis being affirmed by them to be one and
 the same city.--*Diodorus Siculus*, Vol. I, Chap. VII.
 
-<span id="fn_35"></span>[35.](#fr_35)  The remaining three were Cyrus,
+<span id="fn_35"></span>[35.](#fr_35.md)  The remaining three were Cyrus,
 Nebuchadnezzar and Alexander. Cyrus met defeat and death at the hands of
 Tomyris, queen of the Scythians, who caused him to be crucified, a
 punishment deemed so ignominious by the Romans that it was not inflicted
@@ -1340,12 +1340,12 @@ Tomyris caused the head of Cyrus to be plunged into a sack of blood
 
 <span id="fn_page_36">p. 36</span>  
 
-<span id="fn_36"></span>[36.](#fr_36)  Very few mummies of children have
+<span id="fn_36"></span>[36.](#fr_36.md)  Very few mummies of children have
 been found.--Wilkinson, *Ancient Egyptians*.
 
 <span id="fn_page_37">p. 37</span>  
 
-<span id="fn_37"></span>[37.](#fr_37)  In relation to women the laws
+<span id="fn_37"></span>[37.](#fr_37.md)  In relation to women the laws
 were very severe; for one that committed a rape upon a free woman was
 condemned to have his privy member cut off; for they judged that the
 three most heinous offenses were included in that one vile act, that is
@@ -1353,14 +1353,14 @@ wrong, defilement and bastardy.--*Diodorus*, Vol. I, Chap. VII.
 
 <span id="fn_page_39">p. 39</span>  
 
-<span id="fn_38"></span>[38.](#fr_38)  *Ancient Rome in the Light of
+<span id="fn_38"></span>[38.](#fr_38.md)  *Ancient Rome in the Light of
 Recent Discoveries*. Chapter on the Vestals.--Lanciani.
 
-<span id="fn_39"></span>[39.](#fr_39)  *The Anacalypsis* II, 241
+<span id="fn_39"></span>[39.](#fr_39.md)  *The Anacalypsis* II, 241
 
 <span id="fn_page_40">p. 40</span>  
 
-<span id="fn_40"></span>[40.](#fr_40)  According to Commissioner of
+<span id="fn_40"></span>[40.](#fr_40.md)  According to Commissioner of
 Education, Chang Lai Sin, Chinese women can read and write, and when a
 husband wishes to do anything he consults with his wife, and when the
 son comes home, although he may be prime minister, he shows his respect
@@ -1372,7 +1372,7 @@ after having been defeated by so many reverses in her arms, has turned
 to a foreign country--to the United States--for example and
 instruction."
 
-<span id="fn_41"></span>[41.](#fr_41)  The Shakers hold that the
+<span id="fn_41"></span>[41.](#fr_41.md)  The Shakers hold that the
 revelation of God is progressive. That in the first or antediluvian
 period of human nature God was known only as a Great Spirit; that in the
 second or Jewish period he was revealed as the Jehovah. He, she or a
@@ -1382,7 +1382,7 @@ commencing with 1770, A. D., "God is revealed in the character of
 Mother, an eternal Mother, the bearing spirit of all the creation of
 God."--*W. A. Parcelle*.
 
-<span id="fn_42"></span>[42.](#fr_42)  In China the family acting
+<span id="fn_42"></span>[42.](#fr_42.md)  In China the family acting
 through its natural representative is the political unit. This
 representative may be a woman. The only body in China that may be said
 to correspond with our law-making assemblies is the Academy of Science
@@ -1391,14 +1391,14 @@ conclave. *La Cité Chinoise*.--G. Eugene Simon.
 
 <span id="fn_page_41">p. 41</span>  
 
-<span id="fn_43"></span>[43.](#fr_43)  *Art Letters*, p. 322.--Bachofen.
+<span id="fn_43"></span>[43.](#fr_43.md)  *Art Letters*, p. 322.--Bachofen.
 
 <span id="fn_page_42">p. 42</span>  
 
-<span id="fn_44"></span>[44.](#fr_44)  *Journal of Jurisprudence*, Vol.
+<span id="fn_44"></span>[44.](#fr_44.md)  *Journal of Jurisprudence*, Vol.
 XVI, Edinburgh, 1872.
 
-<span id="fn_45"></span>[45.](#fr_45)  The divine element, according to
+<span id="fn_45"></span>[45.](#fr_45.md)  The divine element, according to
 the idea of the ancient world, was composed of two sexes. There were
 *dei femma*, and hence temples sacred to goddesses; holy sanctuaries
 where were celebrated mysteries in which men could not be permitted to
@@ -1408,7 +1408,7 @@ the Roman Consuls even offered public sacrifices at certain festivals.
 The more property the wife had, the more rights she had.--*M.
 Derraimes*.
 
-<span id="fn_46"></span>[46.](#fr_46)  The superiority of woman's
+<span id="fn_46"></span>[46.](#fr_46.md)  The superiority of woman's
 condition in Europe and America is generally attributed to Christianity.
 We are anxious to give some credit to that influence, but it must not be
 forgotten that the nations of Northern Europe treated women with
@@ -1419,7 +1419,7 @@ of Christianity. Nichols.--*Women of all Nations*.
 
 <span id="fn_page_43">p. 43</span>  
 
-<span id="fn_47"></span>[47.](#fr_47)  When I go back to the most remote
+<span id="fn_47"></span>[47.](#fr_47.md)  When I go back to the most remote
 periods of antiquity into which it is possible to penetrate, I find
 clear and positive evidence of several important facts: First, no animal
 food was eaten; no animals were sacrificed. *Higgins.--Anacalypsis* p.
@@ -1427,27 +1427,27 @@ food was eaten; no animals were sacrificed. *Higgins.--Anacalypsis* p.
 
 <span id="fn_page_44">p. 44</span>  
 
-<span id="fn_48"></span>[48.](#fr_48)  Observe that I. H. U. is Jod,
+<span id="fn_48"></span>[48.](#fr_48.md)  Observe that I. H. U. is Jod,
 male, father; "He" is female, Binah, and U is male, Van, Son.--*Sepher
 Yetzirah*.
 
-<span id="fn_49"></span>[49.](#fr_49)  *The Perfect Way*.--Kingsford.
+<span id="fn_49"></span>[49.](#fr_49.md)  *The Perfect Way*.--Kingsford.
 
 <span id="fn_page_45">p. 45</span>  
 
-<span id="fn_50"></span>[50.](#fr_50)  I. A. H. according to the
+<span id="fn_50"></span>[50.](#fr_50.md)  I. A. H. according to the
 Kabbalists, is I. (Father) and A. H. (Mother); composed of I. the male,
 and H. the mother. Nork.--*Bibl. Mythol. I*, 164-65 (note to *Sod* 166,
 2, 354.)
 
-<span id="fn_51"></span>[51.](#fr_51)  Nork says the "Women clothed with
+<span id="fn_51"></span>[51.](#fr_51.md)  Nork says the "Women clothed with
 the sign of the Sun and the Moon is the bi-sexed or male-female deity;
 hence her name is Iah, composed of the masculine I and the feminine *Ah.
 Sod.*--Appendix 123.
 
-<span id="fn_52"></span>[52.](#fr_52)  *The Perfect Way*, p. 78.
+<span id="fn_52"></span>[52.](#fr_52.md)  *The Perfect Way*, p. 78.
 
-<span id="fn_53"></span>[53.](#fr_53)  That name of Deity, which
+<span id="fn_53"></span>[53.](#fr_53.md)  That name of Deity, which
 occurring in the Old Testament is translated the Almighty, namely El
 Shaddai, signified the Breasted God, and is used when the mode of the
 divine nature implied is of a feminine character. Kingsford.--*The
@@ -1455,7 +1455,7 @@ Perfect Way*, p. 68.
 
 <span id="fn_page_46">p. 46</span>  
 
-<span id="fn_54"></span>[54.](#fr_54)  A chief signification of the word
+<span id="fn_54"></span>[54.](#fr_54.md)  A chief signification of the word
 Babel among Orientals was "God the Father." The Tower of Babel therefore
 signifies the Tower of God the Father--a remarkable indication of the
 confusion, not alone of tongues, but of religious ideas arising from
@@ -1467,7 +1467,7 @@ daughterless.--Dr. *William Henry Channing*.
 
 <span id="fn_page_47">p. 47</span>  
 
-<span id="fn_55"></span>[55.](#fr_55)  Those who have studied the
+<span id="fn_55"></span>[55.](#fr_55.md)  Those who have studied the
 ancient lore of Cabalistic books, know that in the ineffable name
 Yod-he-vau (or Jehovah), the first letter *yod* signifies the masculine,
 the second letter *hu* or *ha* the feminine, while the last letter *vau*

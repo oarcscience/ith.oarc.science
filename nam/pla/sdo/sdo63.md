@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo62)  [Next](sdo64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo62)  [Next](sdo64.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ first in all things. Then Yata hid his face and wept.
 
 ------------------------------------------------------------------------
 
-[Next: The Old Woman](sdo64)
+[Next: The Old Woman](sdo64.md)

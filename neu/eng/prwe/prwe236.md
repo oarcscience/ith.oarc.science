@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe235)  [Next](prwe237) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe235)  [Next](prwe237.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ broken by that or by any other game.
 
 ------------------------------------------------------------------------
 
-[Next: The Mayor of Mylor](prwe237)
+[Next: The Mayor of Mylor](prwe237.md)

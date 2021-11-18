@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wcs10)  [Next](wcs12) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wcs10)  [Next](wcs12.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ fundamental principle among the pastors of early Protestant churches
 than in the Catholic priesthood. The doctrine of "Once in grace, always
 in grace," carries with it a plea for vice, and the early experience of
 strict Calvinistic Scotland was much that of mediæval Catholic Europe.
-The Presbyterian Conventicles<span id="fr_1"></span>[1](#fn_1) early
+The Presbyterian Conventicles<span id="fr_1"></span>[1](#fn_1.md) early
 bore an extremely evil reputation. The fact that ministers of the
 reformed church were permitted marriage did not change priestly teaching
 that woman was created solely for man, and
@@ -50,7 +50,7 @@ the like of you." The present century, with all its enlightenment does
 not cease to give us glimpses of that favorite mediæval doctrine that
 "sin can be killed with sin as the best way of becoming innocent again,"
 and its concomitant, that it is impossible for a person in grace to
-commit sin.<span id="fr_2"></span>[2](#fn_2)The doctrines of holiness
+commit sin.<span id="fr_2"></span>[2](#fn_2.md)The doctrines of holiness
 
 <span id="page_468">p. 468</span>
 
@@ -66,7 +66,7 @@ order that he may grow again and live by its return. God thereby
 acquires new vital force, provided by all the transformation that the
 soul-atom has undergone. Its return is its final reward. Such is the
 secret of the evolution of the Great Being and of the Supreme Soul.<span
-id="fr_3"></span>[3](#fn_3)
+id="fr_3"></span>[3](#fn_3.md)
 
     Directions for seeking out the way:
 
@@ -87,7 +87,7 @@ and meaning of individuality
 
 and the beauty and obscurity of those other divine fragments which are
 struggling side by side with you, and form the race to which you
-belong.<span id="fr_4"></span>[4](#fn_4)
+belong.<span id="fr_4"></span>[4](#fn_4.md)
 
 <span id="page_469">p. 469</span>
 
@@ -106,7 +106,7 @@ read aloud the account of the creation, Genesis I. 27-28, woman and man
 equals, both having been given dominion over nature. The thirtieth
 anniversary of the first public demand of woman for the recognition of
 her equality of right with man, held in Rochester, N. Y., July 18, 1878,
-passed a series of resolutions<span id="fr_5"></span>[5](#fn_5)
+passed a series of resolutions<span id="fr_5"></span>[5](#fn_5.md)
 asserting woman's equality and religious rights with man. Three of these
 proved especially obnoxious to the clergy of the country, in declaring
 the first duty of every individual to be self development; the duty of
@@ -183,7 +183,7 @@ in 1837 the General Association of Massachusetts issued a pastoral
 letter calling upon all "churches under their care" to defend themselves
 by closing their doors against the abolitionists, who had set aside the
 laws of God by welcoming women to their platforms and allowing them to
-speak in public;<span id="fr_6"></span>[6](#fn_6) section third was the
+speak in public;<span id="fr_6"></span>[6](#fn_6.md) section third was the
 
 <span id="page_472">p. 472</span>
 
@@ -248,7 +248,7 @@ rights in the meetings, lest the ministers who had joined them should
 withdraw, taking others with them. Thus priestly intolerance and the
 timidity of anti-slavery men, had the effect of silencing the
 philanthropic and eloquent Grimke sisters<span
-id="fr_7"></span>[7](#fn_7), in their efforts; for the freedom
+id="fr_7"></span>[7](#fn_7.md), in their efforts; for the freedom
 
 <span id="page_474">p. 474</span>
 
@@ -260,7 +260,7 @@ from home, and informed that should they return despite this, they would
 not be able to escape personal violence from a mob. With one noble
 exception, this mandate of the church and clergy had effect for a time
 in silencing woman's plea for the slave. For seven long years the voice
-of but one woman, that of Abby Kelly,<span id="fr_8"></span>[8](#fn_8)
+of but one woman, that of Abby Kelly,<span id="fr_8"></span>[8](#fn_8.md)
 was heard upon the anti-slavery platform, and the persecutions of the
 church made her life one long martyrdom; her appeals for the slave were
 met by mob violence, furious howls, cries, and the vilest language being
@@ -268,7 +268,7 @@ supplemented by more material efforts for silencing her voice. Were
 these proceedings not so thoroughly substantiated, the time so shortly
 past, credence could not be given as to the means used against this
 noble woman to prevent her pleading for those so greatly wronged.<span
-id="fr_9"></span>[9](#fn_9) Ministers of high standing assailed her from
+id="fr_9"></span>[9](#fn_9.md) Ministers of high standing assailed her from
 the pulpit, a favorite text being, "Revelations" 2-20. I "have a few
 things against thee, because thou suffereth that woman, Jezebel, which
 calleth herself a prophetess, to teach and seduce my servants to commit
@@ -287,7 +287,7 @@ that woman's voice had been heard in public contrary to the teaching of
 the church. It was perhaps foreseen that she might, as really at a later
 period was done, draw a vivid illustration of the similitude between the
 condition of the white wife and the black slave.<span
-id="fr_10"></span>[10](#fn_10) The unity and peace of the World's
+id="fr_10"></span>[10](#fn_10.md) The unity and peace of the World's
 Antislavery Convention, London, 1840, was disturbed by the hostility of
 several clergymen, and a few bigoted laymen of the same spirit, who
 objected to the recognition of the women delegates sent by several
@@ -295,7 +295,7 @@ American societies, among whom were Lucretia Mott and Esther Moore,
 members of the parent organization. After a spirited discussion their
 admission was decided to be a violation of the ordinances of Almighty
 God, and their credentials were rejected.<span
-id="fr_11"></span>[11](#fn_11)
+id="fr_11"></span>[11](#fn_11.md)
 
 <span id="page_476">p. 476</span>
 
@@ -365,7 +365,7 @@ lips of women on discussion of church questions,
 <span id="page_478">p. 478</span>
 
 the convention introduced a resolution on divorce<span
-id="fr_12"></span>[12](#fn_12) followed by a speech declaring that but
+id="fr_12"></span>[12](#fn_12.md) followed by a speech declaring that but
 one cause could exist. The convention having shut off all chance for
 woman's opinion upon this question of equal and even of more vital
 interest to her, "applaudingly and overwhelmingly adopted the
@@ -414,7 +414,7 @@ said, could preach, but they are under the general rule of
 subordination. It is not allowed woman to speak in the church. Man's
 place is on the platform. It is positively base for a woman to speak in
 the pulpit; it is base in the sight of Jehovah. The whole question is
-one of subordination.<span id="fr_13"></span>[13](#fn_13)
+one of subordination.<span id="fr_13"></span>[13](#fn_13.md)
 
     Thus before a vast audience largely composed of women, Dr. Craven
 stood and with denunciatory manner, frequently bringing his fists or his
@@ -472,7 +472,7 @@ Patten, D. D., president of Howard University, Washington, D. C., in a
 sermon preached at the Congregational church, upon "Woman and
 Skepticism," January, 1885, advanced the proposition that as soon as
 they (women), depart from their natural sphere, they become atheistical
-and immoral.<span id="fr_14"></span>[14](#fn_14) In March, 1891, a half
+and immoral.<span id="fr_14"></span>[14](#fn_14.md) In March, 1891, a half
 column editorial in the "Presbyterian" discussed the ethics and
 aesthetics of woman's dress at communions, not precisely in line with
 Dr. Coxe, yet of the same general character as to regulating woman's
@@ -505,7 +505,7 @@ ages, and sermons in opposition to her equality of rights are as
 frequently preached, The entrance of woman into **remunerative**
 industries is as energetically opposed as is her demand for governmental
 and religious freedom. Rev. Morgan Director of Trinity church, New York,
-in a series of "Lenten Lectures,"<span id="fr_15"></span>[15](#fn_15) a
+in a series of "Lenten Lectures,"<span id="fr_15"></span>[15](#fn_15.md) a
 few years since, made woman the subject of violent attacks as an
 inferior and subordinate
 
@@ -535,7 +535,7 @@ spiritual supremacy even in the household.
 
     The father is by Gods' law, priest over his household; to him should
 they look as a witness for that God who gave him his rank and
-title.<span id="fr_16"></span>[16](#fn_16)
+title.<span id="fr_16"></span>[16](#fn_16.md)
 
     The sects agree in their teachings regarding woman; Rev. A. Sherman,
 at one time president of Bacon College, Kentucky, declaring that woman
@@ -726,7 +726,7 @@ to her, but have become to her as strangers. He said:
 
     The wife becomes a member of his family, while he does not become
 one of her own. The equilateral idea is a physiological<span
-id="fr_18"></span>[18](#fn_18) and psychological impossibility. The
+id="fr_18"></span>[18](#fn_18.md) and psychological impossibility. The
 unity is in the man. The woman by marriage becomes a member of the man,
 therefore she cannot put him away; for a member cannot put away the
 head; the impurity of the wife imperils the family, renders pedigree and
@@ -762,10 +762,10 @@ far as any real principle involved in matrimony is concerned.
 work, although itself a recognized organ of the Unitarian church, vet in
 a spirit more in accord with modern thought, carefully corrected the
 size of type in the word "wife" upon the title-page and outside of the
-book, thus: HUSBAND AND WIFE:<span id="fr_19"></span>[19](#fn_19) also
+book, thus: HUSBAND AND WIFE:<span id="fr_19"></span>[19](#fn_19.md) also
 facetiously referring to the late Artemus Ward, who at time of the late
 civil war was ready to sacrifice all his wife's relations.<span
-id="fr_20"></span>[20](#fn_20) These two works of
+id="fr_20"></span>[20](#fn_20.md) These two works of
 
 <span id="page_492">p. 492</span>
 
@@ -907,7 +907,7 @@ nor has she been wronged. But to the contrary, under the same teaching,
 should the wife prove thus unfaithful she should immediately be cast
 out. Colored pastors unite with their white brethren in denying woman's
 moral, spiritual or personal equality with man. Rev. Alexander
-Crummel,<span id="fr_21"></span>[21](#fn_21) a colored clergyman of
+Crummel,<span id="fr_21"></span>[21](#fn_21.md) a colored clergyman of
 Washington, rector of St. Lukes (Episcopal) church, in 1881, preached a
 sermon upon the biblical position of woman, which was published in tract
 form for circulation. He referred to her as having been created inferior
@@ -1008,7 +1008,7 @@ from the beginning." Man, and not woman, is commanded to leave father
 and mother; man is to cleave unto his wife, hot woman unto her husband.
 It was the men of Corinth whom Paul addressed concerning lewdness, "Such
 fornication was never known among the heathen as that a man should take
-his father's wife."<span id="fr_22"></span>[22](#fn_22)
+his father's wife."<span id="fr_22"></span>[22](#fn_22.md)
 
 <span id="page_500">p. 500</span>
 
@@ -1104,13 +1104,13 @@ were her ministrations that she brought more converts to the church than
 a dozen of its most influential bishops during the same time. To such
 bitter lengths has opposition to woman's ordination been carried in that
 church that Rev. Mr. Buckley, editor of "The Christian Advocate,"<span
-id="fr_23"></span>[23](#fn_23) when debating
+id="fr_23"></span>[23](#fn_23.md) when debating
 
 {p.503}
 
 the subject, declared that he would oppose the admission of the mother
 of our Lord into the ministry, the debate taking on most unseemly
-form.<span id="fr_24"></span>[24](#fn_24) Miss Oliver who had long been
+form.<span id="fr_24"></span>[24](#fn_24.md) Miss Oliver who had long been
 pastor of the Willoughby Street church, in Brooklyn, appealed to the
 General Conference of the Methodist Episcopal Church, at its session in
 Cincinnati, May, 1880, for full installment and ordination, saying:
@@ -1367,7 +1367,7 @@ present General Conference would be illegal and unconstitutional."
 law to sustain their rejection, and wished the question to be submitted
 to a vote of the church. The 'vote of the church,' as shown by the
 adoption of Rev. F. B. Neely's amendment, signifying the ministers
-present at annual conferences.<span id="fr_25"></span>[25](#fn_25) The
+present at annual conferences.<span id="fr_25"></span>[25](#fn_25.md) The
 
 <span id="page_511">p. 511</span>
 
@@ -1377,7 +1377,7 @@ the annual conferences, was adopted 237 to 198. It thus requires
 three-fourths vote of the members present and voting at the: annual
 conferences, this vote to be ratified by a two-thirds vote of the
 General Conference in order to woman's acceptance as lay delegate to
-such General Conference<span id="fr_26"></span>[26](#fn_26). Aside from
+such General Conference<span id="fr_26"></span>[26](#fn_26.md). Aside from
 the fact of an appeal to the civil law for the exclusion of woman, thus
 showing the close union of church and state, one other important point
 must be noticed. In the declaration that the church should be consulted
@@ -1411,11 +1411,11 @@ Reform Association, recognizing the sectarian idea of God; another
 placing marriage and divorce under control of the general government by
 uniform laws; while priestly views upon the political freedom of woman
 are thrust into the very faces of our law makers.<span
-id="fr_27"></span>[27](#fn_27) The following portions of a sermon
+id="fr_27"></span>[27](#fn_27.md) The following portions of a sermon
 preached at the Cathedral of the Holy Cross, Boston, February 21, 1886,
 by the Rev. Father J. P. Bodfish, were printed and distributed among the
 members of the Massachusetts Legislature that spring by the opponents of
-woman suffrage:<span id="fr_28"></span>[28](#fn_28)
+woman suffrage:<span id="fr_28"></span>[28](#fn_28.md)
 
     Not that I would have woman step out of her sphere; the man is the
 natural protector, the father, the lawgiver, of his; family; nor would I
@@ -1483,7 +1483,7 @@ responsibility is most essential in order to free her from church bonds,
 and is therefore most energetically opposed by the church. In 1890, a
 number of Catholic ladies of Paris formed a union for the emancipation
 of woman from different kinds of social thraldom.<span
-id="fr_29"></span>[29](#fn_29) Their first attack
+id="fr_29"></span>[29](#fn_29.md) Their first attack
 
 <span id="page_515">p. 515</span>
 
@@ -1506,7 +1506,7 @@ our only surety for continued freedom, saying:
     They will be found as in Italy, the foes of mankind, and if the
 United States expects to retain even its political liberties, it must
 get rid of the priesthood as Italy intends to do.<span
-id="fr_30"></span>[30](#fn_30)
+id="fr_30"></span>[30](#fn_30.md)
 
     Frances Wright, that clear-seeing, liberty-loving, Scotch
 free-thought woman, noted the dangerous purpose and character of the
@@ -1573,7 +1573,7 @@ in progress upon the St. Croix reservation. This council first assembled
 at the chapel, where the Revised Statutes-the whole basis of government
 of the Passamaquodies are pasted. These statutes having been approved by
 Bishop Healy, of Portland, are also looked upon as canons of the
-church.<span id="fr_31"></span>[31](#fn_31)
+church.<span id="fr_31"></span>[31](#fn_31.md)
 
     The statutes principally affecting women, are:
 
@@ -1598,7 +1598,7 @@ otherwise permits. Also the woman not rendering obedience to her
 husband, is denied permission to enter the church except under priestly
 permit The Christian theory of woman's inferiority and subordination to
 man, is as fully endorsed by these statutes as in the mediæval priestly
-instruction to husbands.<span id="fr_32"></span>[32](#fn_32)
+instruction to husbands.<span id="fr_32"></span>[32](#fn_32.md)
 
     No profession as constantly appeals to the lower nature as the
 priestly, the emotions rather than reason, are constantly invoked;
@@ -1653,7 +1653,7 @@ opposition to woman's education through the ages, has literally killed
 off the inhabitants of the world with much greater rapidity than war,
 pestilence, or famine; more than one-half the children born into the
 world have soon died because of the tyranny and ignorance of the
-priesthood.<span id="fr_34"></span>[34](#fn_34) The potential physical
+priesthood.<span id="fr_34"></span>[34](#fn_34.md) The potential physical
 energy of mankind thus destroyed can in a measure be estimated, but no
 one can fathom the infinitely greater loss of mental and moral force
 brought about through condemnation of knowledge to woman; only by
@@ -1782,7 +1782,7 @@ Danish; Adam, Swedish; and the serpent, French. Eve doubtless was
 conceded to have spoken all three languages, as she conversed with God,
 with Adam, and with the serpent, Hieronymus, a Father of the Church,
 credited Eve with possessing a much finer constitution than Adam, and in
-that respect as superior to him.<span id="fr_35"></span>[35](#fn_35)
+that respect as superior to him.<span id="fr_35"></span>[35](#fn_35.md)
 Thus, during the ages, the church through its "Fathers" and its priests
 has devoted itself to a discussion of the most trivial questions
 concerning woman, as well as to the formation of most oppressive canons
@@ -1793,7 +1793,7 @@ the church has presented her, as one accursed of God and man.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Past, Present, Future.](wcs12)
+[Next: Chapter X. Past, Present, Future.](wcs12.md)
 
 ------------------------------------------------------------------------
 
@@ -1801,7 +1801,7 @@ the church has presented her, as one accursed of God and man.
 
 <span id="fn_page_466">p. 466</span>  
 
-<span id="fn_1"></span>[1.](#fr_1)  Generally these conventicles
+<span id="fn_1"></span>[1.](#fr_1.md)  Generally these conventicles
 produced very many bastards, and the excuse they (the ministers) made
 for that was, "where sin abounds the Grace of God super-abounds; there
 is no condemnation in those that are in Christ." Sometimes this: 'The
@@ -1813,7 +1813,7 @@ II--and since the Revolution. p. 12.
 
 <span id="fn_page_467">p. 467</span>  
 
-<span id="fn_2"></span>[2.](#fr_2)  Mr. Mott a member of the Salvation
+<span id="fn_2"></span>[2.](#fr_2.md)  Mr. Mott a member of the Salvation
 army in Syracuse, having led astray another member, a young girl of
 seventeen and being requested to do her the justice of marrying her,
 replies that he has a great mission in converting the world and has no
@@ -1826,18 +1826,18 @@ Mott's impudence in praying. and speaking.--*Syracuse Daily Standard*.
 
 <span id="fn_page_468">p. 468</span>  
 
-<span id="fn_3"></span>[3.](#fr_3)  *The Book of Pitris*.
+<span id="fn_3"></span>[3.](#fr_3.md)  *The Book of Pitris*.
 
-<span id="fn_4"></span>[4.](#fr_4)  *Light on the Path*. 3-80.
+<span id="fn_4"></span>[4.](#fr_4.md)  *Light on the Path*. 3-80.
 
 <span id="fn_page_469">p. 469</span>  
 
-<span id="fn_5"></span>[5.](#fr_5)  Mrs. Gage, *Chairman of the
+<span id="fn_5"></span>[5.](#fr_5.md)  Mrs. Gage, *Chairman of the
 Resolution Committee*.
 
 <span id="fn_page_471">p. 471</span>  
 
-<span id="fn_6"></span>[6.](#fr_6)  Both Marie Weston Chapman, and
+<span id="fn_6"></span>[6.](#fr_6.md)  Both Marie Weston Chapman, and
 Whittier, immortalized this letter in verse, Mrs. Chapman by a spirited
 poem entitled: "The Times that try Men's souls," and Whittier in one
 called "A Pastoral Letter."<span id="fn_page_472">p. 472</span>
@@ -1850,7 +1850,7 @@ Adams, of Boston, author of "A South-side View of Slavery.
 
 <span id="fn_page_473">p. 473</span>  
 
-<span id="fn_7"></span>[7.](#fr_7)  No man who remembers 1837 and its
+<span id="fn_7"></span>[7.](#fr_7.md)  No man who remembers 1837 and its
 lowering clouds will deny that there was hardly any contribution to the
 anti-slavery movement greater or more impressive than the crusade of
 these Grimke sisters from South Carolina through the New England
@@ -1858,16 +1858,16 @@ States.--*Wendell Phillips*.
 
 <span id="fn_page_474">p. 474</span>  
 
-<span id="fn_8"></span>[8.](#fr_8)  Who afterwards married Stephen
+<span id="fn_8"></span>[8.](#fr_8.md)  Who afterwards married Stephen
 Foster, one of the apostles of the antislavery cause.
 
-<span id="fn_9"></span>[9.](#fr_9)  Decomposed eggs, the contents of
+<span id="fn_9"></span>[9.](#fr_9.md)  Decomposed eggs, the contents of
 stables, and even of outhouses, were hurled at the speaker and those
 assembled to listen.
 
 <span id="fn_page_475">p. 475</span>  
 
-<span id="fn_10"></span>[10.](#fr_10)  Rev. Samuel J. May first had his
+<span id="fn_10"></span>[10.](#fr_10.md)  Rev. Samuel J. May first had his
 attention called to the wrongs of women under Church and State by a
 striking comparison of the two from the lips of a woman.
 
@@ -1892,7 +1892,7 @@ hundred children, was instructed to pray against such demoralizing
 ideas; and beyond this, letters passing between influential women fell
 under United States supervision, and were opened in transit.
 
-<span id="fn_11"></span>[11.](#fr_11)  Lucretia Mott foremost among
+<span id="fn_11"></span>[11.](#fr_11.md)  Lucretia Mott foremost among
 these delegates, after this rejection decided <span id="fn_page_476">p.
 476</span> upon holding a Woman's Rights Convention, upon her return to
 America, which should present the wrongs under which women suffered,
@@ -1900,12 +1900,12 @@ This was done, 1848, at Seneca Falls, N. Y.
 
 <span id="fn_page_478">p. 478</span>  
 
-<span id="fn_12"></span>[12.](#fr_12)  Through *Senator Joseph E.
+<span id="fn_12"></span>[12.](#fr_12.md)  Through *Senator Joseph E.
 Brown*.
 
 <span id="fn_page_479">p. 479</span>  
 
-<span id="fn_13"></span>[13.](#fr_13)  Several ladies well known for
+<span id="fn_13"></span>[13.](#fr_13.md)  Several ladies well known for
 their work in the enfranchisement of their sex, attended this trial, the
 *New York Sun* facetiously referring to the presence of "those eminent
 Presbyterians, Lillie Devereux Blake. Matilda Joslyn Gage and Susan A.
@@ -1913,21 +1913,21 @@ King."
 
 <span id="fn_page_483">p. 483</span>  
 
-<span id="fn_14"></span>[14.](#fr_14)  Report of the Washington D. C.
+<span id="fn_14"></span>[14.](#fr_14.md)  Report of the Washington D. C.
 "*Republican*."
 
 <span id="fn_page_482">p. 482</span>  
 
-<span id="fn_15"></span>[15.](#fr_15)  Ably reviewed each week as they
+<span id="fn_15"></span>[15.](#fr_15.md)  Ably reviewed each week as they
 appeared, by Mrs. Lillie Devereux Blake.
 
 <span id="fn_page_483">p. 483</span>  
 
-<span id="fn_16"></span>[16.](#fr_16)  *Lenten Lectures*, p. 56-7-114.
+<span id="fn_16"></span>[16.](#fr_16.md)  *Lenten Lectures*, p. 56-7-114.
 
 <span id="fn_page_486">p. 486</span>  
 
-<span id="fn_17"></span>[17.](#fr_17) 
+<span id="fn_17"></span>[17.](#fr_17.md) 
 
 WOMEN AND THEIR SPHERE!
 
@@ -1995,13 +1995,13 @@ Sentinel*, May 13, 1883.
 
 <span id="fn_page_490">p. 490</span>  
 
-<span id="fn_18"></span>[18.](#fr_18)  It is not a physiological cause
+<span id="fn_18"></span>[18.](#fr_18.md)  It is not a physiological cause
 which produced our present family with the father as ruler and owner of
 all property.--*Kemptsky*.
 
 <span id="fn_page_491">p. 491</span>  
 
-<span id="fn_19"></span>[19.](#fr_19)  By a singular lack of oversight
+<span id="fn_19"></span>[19.](#fr_19.md)  By a singular lack of oversight
 in making up the title-page and lettering the cover, the words "Husband
 and Wife" have been printed as though they referred to objects of equal
 importance. Even the carefully trained eye of a former editor of the
@@ -2028,7 +2028,7 @@ new at least in its present dress--as new as Adam would seem to be, if
 he put on a modern costume, dyed his gray hairs, and appeared in Boston
 as a social lecturer.--*The Christian Register*, Boston.
 
-<span id="fn_20"></span>[20.](#fr_20)  Who has forgotten the sublime
+<span id="fn_20"></span>[20.](#fr_20.md)  Who has forgotten the sublime
 magnanimity of Artemus Ward, when he proposed on a certain occasion to
 sacrifice all his wife's relatives? This is exactly what Dean Gray
 theoretically achieves. He not only abolishes his own wife's relatives,
@@ -2047,7 +2047,7 @@ to forego this delightful form of conjugal perquisite.--*Ibid*.
 
 <span id="fn_page_496">p. 496</span>  
 
-<span id="fn_21"></span>[21.](#fr_21)  One of the most learned colored
+<span id="fn_21"></span>[21.](#fr_21.md)  One of the most learned colored
 men in the country is Alexander Crummell, Rector of St. Luke's
 Protestant Episcopal Church, Washington, D. C. When he desired to study
 for holy orders he applied at Kenyon College, Gambier, O., but was
@@ -2058,20 +2058,20 @@ large number of prominent colored citizens."
 
 <span id="fn_page_499">p. 499</span>  
 
-<span id="fn_22"></span>[22.](#fr_22)  I Corinthians, V: 1
+<span id="fn_22"></span>[22.](#fr_22.md)  I Corinthians, V: 1
 
 <span id="fn_page_502">p. 502</span>  
 
-<span id="fn_23"></span>[23.](#fr_23)  And one of the most bitter
+<span id="fn_23"></span>[23.](#fr_23.md)  And one of the most bitter
 opponents to the admission of the women lay delegates to the Methodist
 General Conference.
 
-<span id="fn_24"></span>[24.](#fr_24)  As reported in Syracuse, New York
+<span id="fn_24"></span>[24.](#fr_24.md)  As reported in Syracuse, New York
 "Sunday Morning Courier," March 4th, 1877.
 
 <span id="fn_page_510">p. 510</span>  
 
-<span id="fn_25"></span>[25.](#fr_25)  Rev. F. B. Neely, of
+<span id="fn_25"></span>[25.](#fr_25.md)  Rev. F. B. Neely, of
 Philadelphia, said that he was in favor of submitting the question to
 the annual conferences. He offered the following amendment to the report
 of the committee:
@@ -2107,7 +2107,7 @@ May 13.
 
 <span id="fn_page_511">p. 511</span>  
 
-<span id="fn_26"></span>[26.](#fr_26)  The final vote, excluding women
+<span id="fn_26"></span>[26.](#fr_26.md)  The final vote, excluding women
 from this conference and submitting the question of their eligibility to
 the annual conferences, stood: To exclude and submit, 237; against,
 198--making a majority of 39 only of the total vote, while the laymen
@@ -2126,7 +2126,7 @@ instance.--*Sunday Herald* Syracuse, N. Y. May 13.
 
 <span id="fn_page_512">p. 512</span>  
 
-<span id="fn_27"></span>[27.](#fr_27) 
+<span id="fn_27"></span>[27.](#fr_27.md) 
 
 THE PRIESTHOOD.
 
@@ -2136,28 +2136,28 @@ Waiting for the beck and nod
 Of its power as law and God.--From Whittier's "Curse of the Charter
 Brothers.
 
-<span id="fn_28"></span>[28.](#fr_28)  From "The Woman's Journal."
+<span id="fn_28"></span>[28.](#fr_28.md)  From "The Woman's Journal."
 Boston.
 
 <span id="fn_page_514">p. 514</span>  
 
-<span id="fn_29"></span>[29.](#fr_29)  Headed by Mme. Artie de Valsayre.
+<span id="fn_29"></span>[29.](#fr_29.md)  Headed by Mme. Artie de Valsayre.
 
 <span id="fn_page_515">p. 515</span>  
 
-<span id="fn_30"></span>[30.](#fr_30)  When the temporal kingdom took
+<span id="fn_30"></span>[30.](#fr_30.md)  When the temporal kingdom took
 possession of Italy, the rate of ignorance {(*i.e., illiteracy?--jbh*)}
 was 90 per cent. It has now been reduced to 45 per cent.
 
 <span id="fn_page_517">p. 517</span>  
 
-<span id="fn_31"></span>[31.](#fr_31)  The "*Boston Herald*," Aug. 17,
+<span id="fn_31"></span>[31.](#fr_31.md)  The "*Boston Herald*," Aug. 17,
 1886, heading an article upon these statutes, "*Copper Colored Blue
 Laws*."
 
 <span id="fn_page_518">p. 518</span>  
 
-<span id="fn_32"></span>[32.](#fr_32)  A husband is entitled to punish
+<span id="fn_32"></span>[32.](#fr_32.md)  A husband is entitled to punish
 his wife when he sees fit. At first he is to use remonstrances; if these
 do not avail, he is to have recourse to more severe punishment.
 
@@ -2167,7 +2167,7 @@ lie.
 
 <span id="fn_page_519">p. 519</span>  
 
-<span id="fn_33"></span>[33.](#fr_33)  The scene in the convocation was
+<span id="fn_33"></span>[33.](#fr_33.md)  The scene in the convocation was
 animated, the public at large favoring the women. The senior Proctor
 being slow in his figuring, one of the "Gods in the Gallery" becoming
 impatient for the announcement of the numbers, shouted "Call in one of
@@ -2175,13 +2175,13 @@ the ladies to help you, sir."
 
 <span id="fn_page_520">p. 520</span>  
 
-<span id="fn_34"></span>[34.](#fr_34)  In Egypt, where women received
+<span id="fn_34"></span>[34.](#fr_34.md)  In Egypt, where women received
 the same education as men, very few children died--a fact noted in the
 absence of child mummies.
 
 <span id="fn_page_524">p. 524</span>  
 
-<span id="fn_35"></span>[35.](#fr_35)  "Eve lived 940 years, giving
+<span id="fn_35"></span>[35.](#fr_35.md)  "Eve lived 940 years, giving
 birth to a boy and a girl every year. Eve lived ten years longer than
 Adam. They must give this first woman the best constitution in the world
 for while her husband lived 930 years and communicated to his sons for

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi279)  [Next](mtsi281) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi279)  [Next](mtsi281.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ came to the place where he was lying and talked to him, saying, "Your
 wife and the one who stole her when you were lying in bed are at a house
 standing in the field and I think we will go and kill them, if you
 agree. Your first wife was a good woman but you sent her away, though
-she was not of the whipping kind. <span id="fr_80"></span>[1](#fn_79) We
+she was not of the whipping kind. <span id="fr_80"></span>[1](#fn_79.md) We
 will all go there. This other one who is of the whipping kind we want to
 kill tonight," he said, "and if you agree we will do so." So they yelped
 and started off.
@@ -108,9 +108,9 @@ After he had told it, and as they had warned him, he died.
 
 ### Footnotes
 
-<span id="fn_79"></span>[244:1](mtsi280.htm#fr_80) That is, she was not
-in [the](errata.htm#2) habit of whipping the dogs.
+<span id="fn_79"></span>[244:1](mtsi280.htm#fr_80.md) That is, she was not
+in [the](errata.htm#2.md) habit of whipping the dogs.
 
 ------------------------------------------------------------------------
 
-[Next: 16. Adventure With a Tie-Snake](mtsi281)
+[Next: 16. Adventure With a Tie-Snake](mtsi281.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt12)  [Next](hkt14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt12)  [Next](hkt14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -45,7 +45,7 @@ our Catholic ancestors are being gradually restored to somewhat of their
 original appearance, and buildings, which, but a few years since, were
 considered as unsightly and barbarous erections of ignorant times, are
 now become the theme of general eulogy and models for imitation." <span
-id="fr_458"></span>[\*](#fn_458)
+id="fr_458"></span>[\*](#fn_458.md)
 
 It has happily been reserved for the present generation, after a lapse
 of two centuries, to see the venerable Temple Church, the
@@ -149,7 +149,7 @@ by the old writers "THE ROUND," was consecrated in the year 1185 by
 Heraclius, the Patriarch of Jerusalem, on his arrival in England from
 Palestine, as before mentioned, to obtain succour from king Henry the
 Second against the formidable power of the famous Saladin. <span
-id="fr_459"></span>[\*](#fn_459) The old inscription which formerly
+id="fr_459"></span>[\*](#fn_459.md) The old inscription which formerly
 stood over the small door of the Round leading into the cloisters, and
 which was broken and destroyed by the workmen whilst
 
@@ -161,7 +161,7 @@ repairing the church, in the year 1695, was to the following effect:--
 1185, this church was consecrated in honour of the blessed Mary by our
 lord Heraclius, by the grace of God patriarch of the church of the
 Resurrection, who hath granted an indulgence of fifty days to those
-yearly seeking it." <span id="fr_460"></span>[\*](#fn_460)
+yearly seeking it." <span id="fr_460"></span>[\*](#fn_460.md)
 
 The oblong portion of the church, which extendeth eastwards from the
 Round, was consecrated on Ascension-day, A.D. 1240, as appears from the
@@ -174,7 +174,7 @@ the king and much of the nobility of the kingdom, who, on the same day,
 that is to say, the day of the Ascension, after the solemnities of the
 consecration had been completed, royally feasted at a most magnificent
 banquet, prepared at the expense of the Hospitallers." <span
-id="fr_461"></span>[†](#fn_461)
+id="fr_461"></span>[†](#fn_461.md)
 
 It was after the promulgation, A.D. 1162 and 1172, of the famous bull
 *omne datum optimum*, exempting the Templars from the ordinary
@@ -404,14 +404,14 @@ that they might be purified from all stain before he ventured to touch
 the body of our Lord. One of these channels was intended to receive the
 water in which the priest washed his hands, and the other that in which
 he had rinsed the chalice. The piscina, consequently, served the
-purposes of a sink. <span id="fr_462"></span>[\*](#fn_462)
+purposes of a sink. <span id="fr_462"></span>[\*](#fn_462.md)
 
 Adjoining the piscina, towards the eastern end of the church, is a small
 elegant niche, in which the ewer, basin, and towels were placed; and
 immediately opposite, in the north wall of the edifice, is another
 niche, which appears to have been a *sacrarium* or tabernacle for
 holding the eucharist preserved for the use of the sick brethren. <span
-id="fr_463"></span>[†](#fn_463)
+id="fr_463"></span>[†](#fn_463.md)
 
 In the centre of the northern aisle of the church, a large recess has
 been erected for the reception of the organ, as no convenient place
@@ -457,14 +457,14 @@ Temple at morning's
 
 dawn, and was buried by Brother John de Stoke and Brother Radulph de
 Barton, in the midst of the court, between the church and the
-hall. <span id="fr_464"></span>[\*](#fn_464)
+hall. <span id="fr_464"></span>[\*](#fn_464.md)
 
 The discipline of the Temple was strict and austere to an extreme. An
 eye-witness tells us that disobedient brethren were confined in chains
 and dungeons for a longer or a shorter period, or perpetually, according
 as it might seem expedient, in order that their souls might be saved at
 the last from the eternal prison of hell. <span
-id="fr_465"></span>[†](#fn_465) In addition to imprisonment, the
+id="fr_465"></span>[†](#fn_465.md) In addition to imprisonment, the
 Templars were scourged on their bare backs, by the hand of the Master
 himself, in the Temple Hall, and were frequently whipped on Sundays in
 the church, in the presence of the whole congregation.
@@ -477,7 +477,7 @@ the ground with the dogs; to fast four days in the week on bread and
 water, and every Sunday to present himself naked in the church before
 the high altar, and receive the discipline at the hands of the
 officiating priest, in the presence of the whole congregation. <span
-id="fr_466"></span>[‡](#fn_466)
+id="fr_466"></span>[‡](#fn_466.md)
 
 On the opposite side of the church, corresponding with the doorway and
 staircase leading to the penitential cell, there was formerly another
@@ -493,7 +493,7 @@ story communicated with the body of the church by the before-mentioned
 doorway and staircase, which have been recently stopped up. The roofs of
 these apartments were vaulted, and traversed by cross-ribs of stone,
 ornamented with bosses at the point of intersection. <span
-id="fr_467"></span>[\*](#fn_467) This chapel antiently opened upon the
+id="fr_467"></span>[\*](#fn_467.md) This chapel antiently opened upon the
 cloisters, and formed a private medium of communication between the
 convent of the Temple and the church. It was here that the papal legate
 and the English bishops frequently had conferences respecting the
@@ -504,11 +504,11 @@ of the archbishop of Canterbury, and the Bishops of London, Lincoln,
 Bath, Worcester, Norwich, Oxford, and several other prelates, and of
 many distinguished laymen; the said Almeric having previously taken an
 oath that he would forthwith leave the kingdom, never more to return
-without express permission. <span id="fr_468"></span>[†](#fn_468) In
+without express permission. <span id="fr_468"></span>[†](#fn_468.md) In
 times past, this chapel of St. Anne, situate on the south of "the round
 about walles," was widely celebrated for its productive powers. It was
 resorted to by barren women, and was of great repute for making them
-"joyful mothers of children!" <span id="fr_469"></span>[‡](#fn_469)
+"joyful mothers of children!" <span id="fr_469"></span>[‡](#fn_469.md)
 
 There were formerly numerous priests attached to the Temple church, the
 chief of whom was styled *custos* or guardian of the sacred edifice.
@@ -521,11 +521,11 @@ to be paid out of the exchequer,
 for the maintenance of three chaplains in the Temple to say mass daily
 for ever; one was to pray in the church for the king himself, another
 for all christian people, and the third for the faithful departed. <span
-id="fr_470"></span>[\*](#fn_470) Idonea de Veteri Ponte also gave
+id="fr_470"></span>[\*](#fn_470.md) Idonea de Veteri Ponte also gave
 thirteen bovates of her land, at Ostrefeld, for the support of a
 chaplain in the house of the Temple at London, to pray for her own soul
 and that of her deceased husband, Robert de Veteri Ponte. <span
-id="fr_471"></span>[†](#fn_471)
+id="fr_471"></span>[†](#fn_471.md)
 
 The *custos* or guardian of the Temple church was appointed by the
 Master and Chapter of the Temple, and entered upon his spiritual duties,
@@ -573,7 +573,7 @@ come il pardona a la glorieuse Magdaléyne, quant ele plura ses pechez. E
 al larron en la croiz mis pardona il ses pechez, e a vous face les vos a
 pardone a moy les miens. Et pry vous que se ieo ouges meffis oudis a mil
 de vous que vous depleise que vous le me pardonez.'" <span
-id="fr_472"></span>[\*](#fn_472)
+id="fr_472"></span>[\*](#fn_472.md)
 
 At the close of the chapter, the Master or the President of the chapter
 shall say, "Good and noble brethren, the pardon of our chapter is such,
@@ -604,7 +604,7 @@ Temple Church, to the honour and praise of God, and his glorious mother
 the Virgin Mary, the resplendent Queen of Heaven, and also to all such
 as should contribute, out of their goods and possessions, to the
 maintenance and support of the lights which were kept eternally upon the
-altars. <span id="fr_473"></span>[\*](#fn_473)
+altars. <span id="fr_473"></span>[\*](#fn_473.md)
 
 The circular form of the oldest portion of the Temple Church imparts an
 additional interest to the venerable fabric, as there are only three
@@ -642,7 +642,7 @@ the feet of the bishop.
 Nichols, the antiquary, tells us that Brown Willis ascribed the above
 monument to Silvester de Everdon, bishop of Carlisle, who was killed in
 the year 1255 by a fall from a mettlesome horse, and was buried in the
-Temple Church. <span id="fr_474"></span>[\*](#fn_474)
+Temple Church. <span id="fr_474"></span>[\*](#fn_474.md)
 
 All the monumental remains of the ancient Knights Templars, formerly
 existing in the Temple Church, have unfortunately long since been
@@ -655,7 +655,7 @@ marble inlaid with brasse,"
 
 with this circumscription--"Hic requiescit Constantius de Houerio,
 quondam visitator generalis ordinis militiæ Templi in Angliâ, Franciâ,
-et Italia." <span id="fr_475"></span>[\*](#fn_475) 'Here lies Constance
+et Italia." <span id="fr_475"></span>[\*](#fn_475.md) 'Here lies Constance
 de Hover, formerly visitor-general of the order of the Temple, in
 England, France, and Italy." Not a vestige of this interesting monument
 now remains. During the recent excavation in the churchyard for the
@@ -676,16 +676,16 @@ chapter must be devoted to the consideration of them.
 
 ### Footnotes
 
-<span id="fn_458"></span>[289:\*](hkt13.htm#fr_458) *Dublin Review* for
+<span id="fn_458"></span>[289:\*](hkt13.htm#fr_458.md) *Dublin Review* for
 May, 1841, p. 301.
 
-<span id="fn_459"></span>[292:\*](hkt13.htm#fr_459) See ante, [p.
-80](hkt06.htm#page_80). On the 10th of March, before his departure from
+<span id="fn_459"></span>[292:\*](hkt13.htm#fr_459.md) See ante, [p.
+80](hkt06.htm#page_80.md). On the 10th of March, before his departure from
 this country, Heraclius consecrated the church of the Hospitallers at
 Clerkenwell, and the altars of St. John and St. Mary. Ex registr. S.
 John Jerus. in Bib. Cotton, fol. 1.
 
-<span id="fn_460"></span>[293:\*](hkt13.htm#fr_460) A fac-simile of this
+<span id="fn_460"></span>[293:\*](hkt13.htm#fr_460.md) A fac-simile of this
 inscription was faithfully delineated by Mr. Geo. Holmes, the antiquary,
 and was published by Strype, A.D. 1670. The earliest copy I have been
 able to find of it is in a manuscript history of the Temple, in the
@@ -693,64 +693,64 @@ Inner Temple library, supposed to have been written at the commencement
 of the reign of Charles the First by John Wilde, Esq., a bencher of the
 society, and Lent reader in the year 1630.
 
-<span id="fn_461"></span>[293:†](hkt13.htm#fr_461) Tempore quoque sub
+<span id="fn_461"></span>[293:†](hkt13.htm#fr_461.md) Tempore quoque sub
 eodem (A.D. 1240) dedicate est nobilis ecclesia, structuræ aspectabilis
 Novi Templi *Londinensis*, præsente Rege et multis regni Magnatibus; qui
 eodem die, scilicet die Ascensionis, completis dedicationis solemniis,
 convivium in mensâ nimis laute celebrarunt, sumptibus
 Hospitaliorum.--*Matt. Par.* ad ann. 1240, p. 526, ed. 1640.
 
-<span id="fn_462"></span>[300:\*](hkt13.htm#fr_462) A large piscina,
+<span id="fn_462"></span>[300:\*](hkt13.htm#fr_462.md) A large piscina,
 similar to the one in the Temple Church, may be seen in Cowling church,
 Kent. *Archæologia*, vol. xi. pl. xiv. p. 320.
 
-<span id="fn_463"></span>[300:†](hkt13.htm#fr_463) Ib. p. 347 to 359.
+<span id="fn_463"></span>[300:†](hkt13.htm#fr_463.md) Ib. p. 347 to 359.
 
-<span id="fn_464"></span>[302:\*](hkt13.htm#fr_464) *Acta contra
+<span id="fn_464"></span>[302:\*](hkt13.htm#fr_464.md) *Acta contra
 Templarios*. *Concil. Mag. Brit.* tom. ii. p. 336, 350, 351.
 
-<span id="fn_465"></span>[302:†](hkt13.htm#fr_465) *Jac. de Vitr.* *De*
+<span id="fn_465"></span>[302:†](hkt13.htm#fr_465.md) *Jac. de Vitr.* *De*
 Religione fratrum militiæ Templi, cap. 65.
 
-<span id="fn_466"></span>[302:‡](hkt13.htm#fr_466) *Processus contra
+<span id="fn_466"></span>[302:‡](hkt13.htm#fr_466.md) *Processus contra
 Templarios*, apud Dupuy, p. 65; ed. 1700.
 
-<span id="fn_467"></span>[303:\*](hkt13.htm#fr_467) See the plan of this
+<span id="fn_467"></span>[303:\*](hkt13.htm#fr_467.md) See the plan of this
 chapel and of the Temple Church, in the vetusta monuments of the Society
 of Antiquaries.
 
-<span id="fn_468"></span>[303:†](hkt13.htm#fr_468) Acta fuerunt hæc in
+<span id="fn_468"></span>[303:†](hkt13.htm#fr_468.md) Acta fuerunt hæc in
 capellâ juxta ecclesiam, apud Novum Templum London, ex parte Australi
 ipsius ecclesiæ sitâ, coram reverendis patribus domino archiepiscopo et
 episcopis, &c. &. Acta *Rymeri*, tom. ii. p. 193, ad ann. 1282.
 
-<span id="fn_469"></span>[303:‡](hkt13.htm#fr_469) Anecdotes and
+<span id="fn_469"></span>[303:‡](hkt13.htm#fr_469.md) Anecdotes and
 Traditions published by the Camden Society. No. clxxxi. p. 110.
 
-<span id="fn_470"></span>[304:\*](hkt13.htm#fr_470) De tribus Capellanis
+<span id="fn_470"></span>[304:\*](hkt13.htm#fr_470.md) De tribus Capellanis
 inveniendis, apud Novum Templum, Londoniarum, pro animâ Regis Henrici
 Tertii. Ex regist Hosp. S. Johannis Jerus. in Anglia. Bib. Cotton, f.
 25. a.
 
-<span id="fn_471"></span>[304:†](hkt13.htm#fr_471) Ibid., 30. b.
+<span id="fn_471"></span>[304:†](hkt13.htm#fr_471.md) Ibid., 30. b.
 
-<span id="fn_472"></span>[305:\*](hkt13.htm#fr_472) *Acta contra
+<span id="fn_472"></span>[305:\*](hkt13.htm#fr_472.md) *Acta contra
 Templarios*. Concil. Mag. Brit., tom. ii. p. 383.
 
-<span id="fn_473"></span>[306:\*](hkt13.htm#fr_473) E registro mun.
+<span id="fn_473"></span>[306:\*](hkt13.htm#fr_473.md) E registro mun.
 eviden. Prior. Hosp. Sanc. Joh. fol. 23, b.; fo. 24, a.
 
-<span id="fn_474"></span>[307:\*](hkt13.htm#fr_474) *Nicholls’* Hist.
+<span id="fn_474"></span>[307:\*](hkt13.htm#fr_474.md) *Nicholls’* Hist.
 Leicestershire, vol. iii. p. 960, note. *Malcolm*, Londinium Redivivum,
 vol. ii. p. 294.
 
-<span id="fn_475"></span>[308:\*](hkt13.htm#fr_475) *Burton's*
+<span id="fn_475"></span>[308:\*](hkt13.htm#fr_475.md) *Burton's*
 Leicestershire, p. 235, 236.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](hkt14)
+[Next: Chapter XII](hkt14.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma02)  [Next](oma04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma02)  [Next](oma04.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 ### PLATES
 
 NOTE: All plates are thumbnailed along with the 'Explanation of Plates'
-section, starting on page [118](oma33.htm#page_118).--JBH
+section, starting on page [118](oma33.htm#page_118.md).--JBH
 
 |                                                                                                                                               |      |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -37,4 +37,4 @@ section, starting on page [118](oma33.htm#page_118).--JBH
 
 ------------------------------------------------------------------------
 
-[Next: Text Figures](oma04)
+[Next: Text Figures](oma04.md)

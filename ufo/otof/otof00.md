@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Next](otof01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Next](otof01.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ copies.
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <div align="center">
@@ -177,4 +177,4 @@ JACKET DESIGN BY RAY PALMER
 
 ------------------------------------------------------------------------
 
-[Next: Contents](otof01)
+[Next: Contents](otof01.md)

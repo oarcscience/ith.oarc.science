@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby10)  [Next](sby12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby10)  [Next](sby12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ Wednesday he created Melek Miḫâel, and he is Šeiḫ Abû Bakr. Thursday he
 created Melek Azrâel, and he is Sajad-ad-Dîn. Friday he created Melek
 Šemnâel, and he is Naṣir-ad-Dîn. Saturday he created Melek Nurâel, and
 he is Yadin (Faḫr-ad-Dîn). And he made Melek Ṭâ’ûs ruler over all. <span
-id="fr_37"></span>[8](#fn_37)
+id="fr_37"></span>[8](#fn_37.md)
 
 After this God made the form of the seven heavens, the earth, the sun,
 and the moon. But Faḫr-ad-Dîn created man and the animals, and birds and
@@ -43,13 +43,13 @@ sent Gabriel to set the four corners. He also made a vessel and
 descended in it for thirty thousand years. After this he came and dwelt
 in Mount Lališ. Then he cried out at the world, and the sea became
 solidified and the land appeared, but it began to shake. At this time he
-[commanded](errata.htm#1) Gabriel to bring two pieces of the White
+[commanded](errata.htm#1.md) Gabriel to bring two pieces of the White
 Pearl; one he placed beneath the earth, the other stayed at the gate of
 heaven. He then placed in them the sun and the moon; and from the
 scattered pieces of the White Pearl he created the stars which he hung
 in heaven as ornaments. He also created fruit-bearing trees and plants
 and mountains for ornaments to the earth. He created the throne over the
-carpet. <span id="fr_38"></span>[9](#fn_38) Then the Great God said: "O
+carpet. <span id="fr_38"></span>[9](#fn_38.md) Then the Great God said: "O
 Angels, I will
 
 <span id="page_38">p. 38</span>
@@ -69,7 +69,7 @@ power, and called it Adam.
 
 Then he commanded Gabriel to escort Adam into Paradise, and to tell him
 that he could eat from all the trees but not of wheat. <span
-id="fr_39"></span>[10](#fn_39) Here Adam remained for a hundred years.
+id="fr_39"></span>[10](#fn_39.md) Here Adam remained for a hundred years.
 Thereupon, Melek Ṭâ’ûs asked God how Adam could multiply and have
 descendants if he were forbidden to eat of the grain. God answered, "I
 have put the whole matter into thy hands." Thereupon Melek Ṭâ’ûs visited
@@ -142,7 +142,7 @@ one of his teachings is:
 
 Before heaven and earth existed, God was on the sea, as we formerly
 wrote you. He made himself a vessel and traveled in it in
-*kunsiniyat* <span id="fr_40"></span>[11](#fn_40) of the seas, thus
+*kunsiniyat* <span id="fr_40"></span>[11](#fn_40.md) of the seas, thus
 enjoying himself in himself. He then created the White Pearl and ruled
 over it for forty years. Afterward, growing angry at the Pearl, he
 kicked it; and it was a great surprise to see the mountains formed out
@@ -164,7 +164,7 @@ And know that besides the flood of Noah, there was another flood in this
 world. Now our sect, the Yezidis, are descended from Na‘umi, an honored
 person, king of peace. We call him Melek Miran. The other sects are
 descended from Ham, who despised his father. The ship rested at a
-village called ‘Ain Sifni, <span id="fr_41"></span>[12](#fn_41) distant
+village called ‘Ain Sifni, <span id="fr_41"></span>[12](#fn_41.md) distant
 
 <span id="page_42">p. 42</span>
 
@@ -173,7 +173,7 @@ mockery of those who were without, Jews, Christians, Moslems, and others
 descended from Adam and Eve. We, on the other hand, are descended from
 Adam only, as already indicated: This second flood came upon our sect,
 the Yezidis. As the water rose and the ship floated, it came above Mount
-Sinjar, <span id="fr_42"></span>[13](#fn_42) where it ran aground and
+Sinjar, <span id="fr_42"></span>[13](#fn_42.md) where it ran aground and
 was pierced by a rock. The serpent twisted itself like a cake and
 stopped the hole. Then the ship moved on and rested on Mount Judie.
 
@@ -208,7 +208,7 @@ him an old woman, eighty years of age. in order that no child might be
 born. Mu‘âwiya knew his wife, and in the morning she appeared a woman of
 twenty-five, by the power of the great God. And she conceived and bore
 our god Yezid. But the foreign sects, ignorant of this fact, say that
-our god came from heaven, [despised](errata.htm#3) and driven out by the
+our god came from heaven, [despised](errata.htm#3.md) and driven out by the
 great God. For this reason they blaspheme him. In this they have erred.
 But we, the Yezidi sect, believe this not, for we know that he is one of
 the above-mentioned seven gods. We know the form of his person and his
@@ -216,7 +216,7 @@ image. It is the form of a cock which we possess. None of us is allowed
 to utter his name, nor anything that resembles it, such as *šeitân*
 (Satan), *ḳaitân* (cord), *šar* (evil), *šat* (river), and the like. Nor
 do we pronounce *mal‘ûn* (accursed), or *la‘anat* (curse), or
-*na‘al* <span id="fr_43"></span>[14](#fn_43) (horseshoe), or any word
+*na‘al* <span id="fr_43"></span>[14](#fn_43) (horseshoe.md), or any word
 that has a similar sound. All these are forbidden us out of respect
 
 <span id="page_44">p. 44</span>
@@ -228,7 +228,7 @@ of our prophets. The peacock is forbidden to our Šeiḫ and his disciples,
 for the sake of our Ṭâ’ûs. Squash also is debarred. It is forbidden to
 pass water while standing, or to dress up while sitting down, or to go
 to the toilet room, or to take a bath according to the custom of the
-people. <span id="fr_44"></span>[15](#fn_44) Whosoever does contrary to
+people. <span id="fr_44"></span>[15](#fn_44.md) Whosoever does contrary to
 this is an infidel. Now the other sects, Jews, Christians, Moslems, and
 others, know not these things, because they dislike Melek Ṭâ’ûs. He,
 therefore, does not teach them, nor does he visit them. But he dwelt
@@ -237,7 +237,7 @@ traditions, all of which have become an inheritance, handed down from
 father to son. After this, Melek Ṭâ’ûs returned to heaven.
 
 One of the seven gods made the *sanjaḳs* <span
-id="fr_45"></span>[16](#fn_45) (standards) and gave them to Solomon the
+id="fr_45"></span>[16](#fn_45) (standards.md) and gave them to Solomon the
 wise. After his death our kings received them. And when our god, the
 barbarian Yezîd, was born, he received these *sanjaḳs* with great
 reverence, and bestowed them upon our sect. Moreover, he composed two
@@ -255,7 +255,7 @@ remain with our emir, who sits on the throne of Yezid. When these are
 sent away, the *ḳawwâls* assemble with the emir, and the great general,
 the šeiḫ, who is the representative of Šeiḫ Nasir-ad-Dîn, *i.e.*,
 Nisroch, god of the ancient Assyrians. <span
-id="fr_46"></span>[17](#fn_46) They visit the *sanjaḳs*. Then they send
+id="fr_46"></span>[17](#fn_46.md) They visit the *sanjaḳs*. Then they send
 each *sanjaḳ* in care of a *ḳawwâl* to its own place; one to Ḥalataneye,
 one to Aleppo, one to Russia, and one to Sinjar. These *sanjaḳs* are
 given to four *ḳawwâls* by contract. Before they are sent, the; are
@@ -287,7 +287,7 @@ each idol that has a chamber. This is the law that pertains to the
 
 The first day of our new year is called the *Serṣâlie*, *i.e.*, the
 beginning of a year. It falls on the Wednesday of the first week in
-April <span id="fr_47"></span>[18](#fn_47). On that day there must be
+April <span id="fr_47"></span>[18](#fn_47.md). On that day there must be
 meat in every family. The wealthy must slaughter a lamb or an ox; the
 poor must kill a chicken or something else. These should be cooked on
 the night, the morning of which is Wednesday, New Year's day. With the
@@ -297,7 +297,7 @@ alms should be given at tombs where the souls of the dead lie.
 Now the girls, large and small, are to gather from the fields flowers of
 every kind that have a reddish color. They are to make them into
 bundles, and, after keeping them three days, they are to hang them on
-the doors <span id="fr_48"></span>[19](#fn_48) as a sign of the baptism
+the doors <span id="fr_48"></span>[19](#fn_48.md) as a sign of the baptism
 of the people living in the houses. In the morning all doors will be
 seen well decorated with red lilies. But women are to feed the poor and
 needy who pass by and have no food; this is to be done at the graves.
@@ -310,7 +310,7 @@ are to be played, because
 
 <span class="contnote">\[paragraph continues\]</span> God is sitting on
 the throne (arranging decrees for the year), <span
-id="fr_49"></span>[20](#fn_49) and commanding all the wise and the
+id="fr_49"></span>[20](#fn_49.md) and commanding all the wise and the
 neighbors to come to him, And when he tells them that he will come down
 to earth with song and praise, all arise and rejoice before him and
 throw upon each the squash of the feast. Then God seals them with his
@@ -373,49 +373,49 @@ are told secretly, some openly.
 
 ### Footnotes
 
-<span id="fn_37"></span>[37:8](sby11.htm#fr_37) In Menant's
-[*Yezidis*](errata.htm#2), 48, the names of these seven angels are
+<span id="fn_37"></span>[37:8](sby11.htm#fr_37.md) In Menant's
+[*Yezidis*](errata.htm#2.md), 48, the names of these seven angels are
 somewhat differently given. According to Mohammedan tradition Zazil or
 Azazil was the original name of the devil.
 
-<span id="fn_38"></span>[37:9](sby11.htm#fr_38) By the "throne" here is
+<span id="fn_38"></span>[37:9](sby11.htm#fr_38.md) By the "throne" here is
 meant the throne of God, and by the "carpet" the earth; cf. Sura 60:
 131.
 
-<span id="fn_39"></span>[38:10](sby11.htm#fr_39) According to Moslem
+<span id="fn_39"></span>[38:10](sby11.htm#fr_39.md) According to Moslem
 belief, wheat was the forbidden fruit; see Baiḍâwi on Sura, ii, 33.
 
-<span id="fn_40"></span>[41:11](sby11.htm#fr_40) <span id="page_84">p.
+<span id="fn_40"></span>[41:11](sby11.htm#fr_40.md) <span id="page_84">p.
 84</span> Kunsiniyat is an obscure term.
 
-<span id="fn_41"></span>[41:12](sby11.htm#fr_41) ‘Ain Sifni is about
+<span id="fn_41"></span>[41:12](sby11.htm#fr_41.md) ‘Ain Sifni is about
 five miles from Ba‘adrie; cf. Layard, *Nineveh*, I, 272.
 
-<span id="fn_42"></span>[42:13](sby11.htm#fr_42) Yaḳût (III, 158)
+<span id="fn_42"></span>[42:13](sby11.htm#fr_42) Yaḳût (III, 158.md)
 mentions a similar tradition.
 
-<span id="fn_43"></span>[43:14](sby11.htm#fr_43) These are indications
+<span id="fn_43"></span>[43:14](sby11.htm#fr_43.md) These are indications
 of Mohammedan influence and censorship, for no Yezidi will ever write in
 his sacred book such words as Šeitân, Šar, etc.
 
-<span id="fn_44"></span>[44:15](sby11.htm#fr_44) That is, those of other
+<span id="fn_44"></span>[44:15](sby11.htm#fr_44.md) That is, those of other
 religions.
 
-<span id="fn_45"></span>[44:16](sby11.htm#fr_45) Sanjaḳ is a Turkish
+<span id="fn_45"></span>[44:16](sby11.htm#fr_45.md) Sanjaḳ is a Turkish
 word, meaning banner; it is the name by which the Yezidis generally
 designate the sacred image of Melek Ṭâ’ûs.
 
-<span id="fn_46"></span>[45:17](sby11.htm#fr_46) See note 27.
+<span id="fn_46"></span>[45:17](sby11.htm#fr_46.md) See note 27.
 
-<span id="fn_47"></span>[46:18](sby11.htm#fr_47) The Harranian New Year
+<span id="fn_47"></span>[46:18](sby11.htm#fr_47.md) The Harranian New Year
 fell on the first day of April, and on the sixth day they slaughtered an
 ox and ate it; cf. Fihrist, 322.
 
-<span id="fn_48"></span>[46:19](sby11.htm#fr_48) A similar practice is
+<span id="fn_48"></span>[46:19](sby11.htm#fr_48.md) A similar practice is
 found among the Parsees of India, who hang a string of leaves across the
 entrances to their houses at the beginning of every New Year.
 
-<span id="fn_49"></span>[47:20](sby11.htm#fr_49) According to Babylonian
+<span id="fn_49"></span>[47:20](sby11.htm#fr_49.md) According to Babylonian
 mythology, human destiny was decreed on the New Year's day and sealed on
 the tenth day; cf. the *Hibbert Journal*, V, January, 1907. And
 according to Talmud (Mišna, Roš hašana, 1:2), New Year's is the most
@@ -426,8 +426,8 @@ Hence prayer and works of repentance are performed at the New Year from
 the first to the tenth days, that an unfavorable decision might be
 averted; cf. *Jewish Encyclopedia*, "Penitential Day." R. Akiba says:
 "On New Year day all men are judged; and the decree is sealed on the Day
-of Atonement;" cf. ibid., "Day of [Judgment](errata.htm#4)."
+of Atonement;" cf. ibid., "Day of [Judgment](errata.htm#4.md)."
 
 ------------------------------------------------------------------------
 
-[Next: Appendix to Part I](sby12)
+[Next: Appendix to Part I](sby12.md)

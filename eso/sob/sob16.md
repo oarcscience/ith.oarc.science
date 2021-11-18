@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob15) 
-[Next](sob17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob15.md) 
+[Next](sob17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Science of Breath*, by Yogi Ramacharaka, pseud. William Atkinson,
 \[1904\], at Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ Thoughts may be projected by following the last mentioned method
 forth, it being remembered always that no evil thought can ever injure
 another person whose thoughts are good. Good thoughts are always
 positive to bad ones, and bad ones always negative to good ones. One
-can, however, [excite](errata.htm#27) the interest and attention of
+can, however, [excite](errata.htm#27.md) the interest and attention of
 another by sending him thought waves in this way, charging the prana
 with the message he wishes to convey. If you desire another's love and
 sympathy, and possess love and sympathy for him, you can send him
@@ -53,10 +53,10 @@ power. Keep yourself pure and nothing can hurt you.
 
 If you are ever in the company of persons of a low order of mind, and
 you feel the depressing influence of their thought, breathe
-[rhythmically](errata.htm#28) a few times, thus generating an additional
+[rhythmically](errata.htm#28.md) a few times, thus generating an additional
 supply of prana, and then by means of the mental image method surround
 yourself with an egg-shape thought aura, which will protect you from the
-gross thought and [disturbing](errata.htm#29) influences of others.
+gross thought and [disturbing](errata.htm#29.md) influences of others.
 
 \(3\) RECHARGING YOURSELF
 
@@ -83,7 +83,7 @@ mentioned)
 
 <span id="page_75">p. 75</span>
 
-and breathing a few rhythmic breaths, [closing](errata.htm#30) with the
+and breathing a few rhythmic breaths, [closing](errata.htm#30.md) with the
 Cleansing Breath.
 
 \(5\) CHARGING WATER
@@ -129,7 +129,7 @@ ideal you have set up in your mind. You will find yourself gradually
 growing up to your ideal. The rhythm of the breathing assists the mind
 in forming new combinations, and the student who has followed the
 Western system will find the Yogi Rhythmic (Breath) a wonderful ally in
-his "Mental [Science](errata.htm#31)" works.
+his "Mental [Science](errata.htm#31.md)" works.
 
 \(7\) ACQUIRING PHYSICAL QUALITIES
 
@@ -314,7 +314,7 @@ itself.
 
 \(2\) Breathe rhythmically until the rhythm is perfectly established.
 
-\(3\) Then, inhaling and exhaling, [form](errata.htm#32) the mental
+\(3\) Then, inhaling and exhaling, [form](errata.htm#32.md) the mental
 image of the breath being drawn upon through the bones of the legs, and
 then forced out through them; then through the bones of the arms; then
 through the top of the skull; then through the stomach; then through the
@@ -348,4 +348,4 @@ several times.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Yogi Spiritual Breathing](sob17)
+[Next: Chapter XVI. Yogi Spiritual Breathing](sob17.md)

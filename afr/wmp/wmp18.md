@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](wmp17)  [Next](wmp19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](wmp17)  [Next](wmp19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Woman's Mysteries of a Primitive People*, by D. Amaury Talbot,
 \[1915\], at Intangible Textual Heritage
 
@@ -184,7 +184,7 @@ and some a kind dyed a lighter shade of blue called "Utan Okpo."
 
 From the day when the widows "took oath before the juju" and returned to
 their fathers' homes they were free to marry again. <span
-id="fr_45"></span>[1](#fn_45)
+id="fr_45"></span>[1](#fn_45.md)
 
 On the occasion of the funeral rites of the head chief of Ikotobo, the
 cattle offered to the "Manes" of the dead were laid out to the left of
@@ -192,7 +192,7 @@ the throne upon which the corpse sat in state; while on the right, as if
 to balance the slaughtered sheep, which in this case were twenty in
 number, crouched the deceased's twenty wives with their children, all
 wailing and wringing their hands. But for the presence of the "white
-man," <span id="fr_46"></span>[2](#fn_46) most, if not all, of these
+man," <span id="fr_46"></span>[2](#fn_46.md) most, if not all, of these
 unfortunate women would have been sacrificed also and buried with their
 lord. Even as
 
@@ -217,7 +217,7 @@ out among the heirs of the dead man.
 The wives of even poor Ibibios must remain secluded for a week after
 their husband's burial. During this time they may wear no garment save a
 small loin cloth and a piece of goat's skin tied over the right
-hand. <span id="fr_47"></span>[1](#fn_47) Before coming forth they are
+hand. <span id="fr_47"></span>[1](#fn_47.md) Before coming forth they are
 allowed to dress their hair, bathe and resume their customary garments.
 The first use they make of freedom is usually to go and pluck themselves
 boughs of *ntung* leaves, which they wave to and fro "to drive away the
@@ -414,21 +414,21 @@ Court.
 
 ### Footnotes
 
-<span id="fn_45"></span>[230:1](wmp18.htm#fr_45) A full description of
+<span id="fn_45"></span>[230:1](wmp18.htm#fr_45.md) A full description of
 the obsequies of Iboibo chiefs will be found in my husband's book, "By
 Haunted Waters." Only so much as directly concerns the women is
 attempted here.
 
-<span id="fn_46"></span>[230:2](wmp18.htm#fr_46) Mr. W. W. Eakin, of the
+<span id="fn_46"></span>[230:2](wmp18.htm#fr_46.md) Mr. W. W. Eakin, of the
 Kwa Ibo Mission.
 
-<span id="fn_47"></span>[231:1](wmp18.htm#fr_47) We could learn no
+<span id="fn_47"></span>[231:1](wmp18.htm#fr_47.md) We could learn no
 reason for this last, seemingly inconsequent, tabu.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: L'Envoi](wmp19)
+[Next: L'Envoi](wmp19.md)
 
 </div>

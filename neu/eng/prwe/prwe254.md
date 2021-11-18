@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe253)  [Next](prwe255) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe253)  [Next](prwe255.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ reasoning as that.
 
 ------------------------------------------------------------------------
 
-[Next: The Convalescent's Walk](prwe255)
+[Next: The Convalescent's Walk](prwe255.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre22)  [Next](gre24) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre22)  [Next](gre24.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ strife was, that the barrow-dweller fell over on his back with huge din.
 Then ran Audun from the holding of the rope, and deemed Grettir dead.
 But Grettir drew the sword, 'Jokul's gift,' and drave it at the neck of
 the barrow-bider so that it took off his head, and Grettir laid it at
-the thigh of him. <span id="fr_8"></span>[\*](#fn_8) Then he went to the
+the thigh of him. <span id="fr_8"></span>[\*](#fn_8.md) Then he went to the
 rope with the treasure, and lo, Audun was clean gone, so he had to get
 up the rope by his hands; he had tied a line to the treasure, and
 therewith he now haled it up.
@@ -166,10 +166,10 @@ of.
 
 ### Footnotes
 
-<span id="fn_8"></span>[48:\*](gre23.htm#fr_8) The old belief was that
+<span id="fn_8"></span>[48:\*](gre23.htm#fr_8.md) The old belief was that
 by this means, only could a ghost be laid.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIX: Of Yule at Haramsey, and how Grettir dealt with the
-Bearserks](gre24)
+Bearserks](gre24.md)

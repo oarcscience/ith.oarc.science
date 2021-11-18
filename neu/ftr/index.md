@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XSSI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XSSI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XSSI/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ftftr)    [Page
-Index](pageidx)    [Text \[Zipped\]](ftr.txt.gz)
+[Contents](#contents)    [Start Reading](ftftr.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ftr.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -41,17 +41,17 @@ with hen's feet.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Contents](ftftr)  
-[Foreword](foreword)  
-[A List of Illustrations](listill)  
-[Dedication](dedicati)  
-[Notes](notes)  
-[The Tsarevna Frog](chap01)  
-[Seven Simeons](chap02)  
-[The Language of the Birds](chap03)  
-[Ivanoushka the Simpleton](chap04)  
-[Woe Bogotir](chap05)  
-[Baba Yaga](chap06)  
-[Dimian the Peasant](chap07)  
-[The Golden Mountain](chap08)  
-[Father Frost](chap09)  
+<span id="contents"></span> [Title Page and Contents](ftftr.md)  
+[Foreword](foreword.md)  
+[A List of Illustrations](listill.md)  
+[Dedication](dedicati.md)  
+[Notes](notes.md)  
+[The Tsarevna Frog](chap01.md)  
+[Seven Simeons](chap02.md)  
+[The Language of the Birds](chap03.md)  
+[Ivanoushka the Simpleton](chap04.md)  
+[Woe Bogotir](chap05.md)  
+[Baba Yaga](chap06.md)  
+[Dimian the Peasant](chap07.md)  
+[The Golden Mountain](chap08.md)  
+[Father Frost](chap09.md)  

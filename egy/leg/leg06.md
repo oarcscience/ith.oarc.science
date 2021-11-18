@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg05)  [Next](leg07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg05)  [Next](leg07.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,14 +13,14 @@
 THE original text of this very interesting legend is written in the
 hieratic character on a papyrus preserved at Turin, and was published by
 Pleyte and Rossi in their *Corpus* of Turin Papyri. <span
-id="fr_15"></span>[1](#fn_15) French and German translations of it were
-published by Lefébure, <span id="fr_16"></span>[2](#fn_16) and
-Wiedemann <span id="fr_17"></span>[3](#fn_17) respectively, and
+id="fr_15"></span>[1](#fn_15.md) French and German translations of it were
+published by Lefébure, <span id="fr_16"></span>[2](#fn_16.md) and
+Wiedemann <span id="fr_17"></span>[3](#fn_17.md) respectively, and
 summaries of its contents were given by Erman <span
-id="fr_18"></span>[4](#fn_18) and Maspero. <span
-id="fr_19"></span>[5](#fn_19) A transcript of the hieratic text into
+id="fr_18"></span>[4](#fn_18.md) and Maspero. <span
+id="fr_19"></span>[5](#fn_19.md) A transcript of the hieratic text into
 hieroglyphics, with transliteration and translation, was published by me
-in 1895. <span id="fr_20"></span>[6](#fn_20)
+in 1895. <span id="fr_20"></span>[6](#fn_20.md)
 
 It has already been seen that the god Ra, when retiring from the
 government of this world, took steps through Thoth to supply mankind
@@ -72,7 +72,7 @@ does what it is expected to do, and then the puff-adder strikes at it,
 injects its poison, and the animal dies soon after. As many as ten
 buffaloes have been killed in a day by one puff-adder. The body of the
 first buffalo is not eaten, for it is regarded as poisoned meat, but all
-the others are used as food. <span id="fr_21"></span>[1](#fn_21)
+the others are used as food. <span id="fr_21"></span>[1](#fn_21.md)
 
 Soon after Isis had placed the serpent on the Path, Ra passed by, and
 the reptile bit him, thus injecting poison into his body. Its effect was
@@ -148,29 +148,29 @@ gods.
 
 ### Footnotes
 
-<span id="fn_15"></span>[xxxiii:1](leg06.htm#fr_15) *Papyrus de Turin*,
+<span id="fn_15"></span>[xxxiii:1](leg06.htm#fr_15.md) *Papyrus de Turin*,
 pll. 31, 77, 131-138.
 
-<span id="fn_16"></span>[xxxiii:2](leg06.htm#fr_16) *Ä. Z.*, 1883, p. 27
+<span id="fn_16"></span>[xxxiii:2](leg06.htm#fr_16.md) *Ä. Z.*, 1883, p. 27
 ff.
 
-<span id="fn_17"></span>[xxxiii:3](leg06.htm#fr_17) *Die Religion*, p.
+<span id="fn_17"></span>[xxxiii:3](leg06.htm#fr_17.md) *Die Religion*, p.
 29.
 
-<span id="fn_18"></span>[xxxiii:4](leg06.htm#fr_18) *Aegypten*, p. 359
+<span id="fn_18"></span>[xxxiii:4](leg06.htm#fr_18.md) *Aegypten*, p. 359
 ff.
 
-<span id="fn_19"></span>[xxxiii:5](leg06.htm#fr_19) *Les Origines*, V.
+<span id="fn_19"></span>[xxxiii:5](leg06.htm#fr_19.md) *Les Origines*, V.
 162-4.
 
-<span id="fn_20"></span>[xxxiii:6](leg06.htm#fr_20) *First Steps in
+<span id="fn_20"></span>[xxxiii:6](leg06.htm#fr_20.md) *First Steps in
 Egyptian*, p. 241 ff.
 
-<span id="fn_21"></span>[xxxv:1](leg06.htm#fr_21) Johnston, *Uganda*,
+<span id="fn_21"></span>[xxxv:1](leg06.htm#fr_21.md) Johnston, *Uganda*,
 vol. ii., p. 584. The authority for this statement is Mr. George Wilson,
 formerly Collector in Unyoro.
 
 ------------------------------------------------------------------------
 
 [Next: Summary: IV: The Legend of Heru-Behutet and the Winged
-Disk](leg07)
+Disk](leg07.md)

@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll00)  [Next](oll02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll00)  [Next](oll02.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -34,7 +34,7 @@ But complete Inca dramas were also preserved in the memories of members
 of the Amauta caste and, until the rebellion of 1781, they were acted.
 The drama of Ollantay was first reduced to writing and arranged for
 acting by Dr. Don Antonio Valdez, the Cura of Tinto. It was acted before
-his friend José Gabriel Condorcanqui <span id="fr_0"></span>[1](#fn_0)1
+his friend José Gabriel Condorcanqui <span id="fr_0"></span>[1](#fn_0.md)1
 
 <span id="page_326">p. 326</span>
 
@@ -43,7 +43,7 @@ Amaru, the ill-fated Condorcanqui rose in rebellion, was defeated,
 taken, and put to death under torture, in the great square of Cuzco. In
 the monstrous sentence 'the representation of dramas as well as all
 other festivals which the Indians celebrate in memory of their Incas'
-was prohibited. <span id="fr_1"></span>[1](#fn_1) This is a clear proof
+was prohibited. <span id="fr_1"></span>[1](#fn_1.md) This is a clear proof
 that before 1781 these Quichua dramas were acted.
 
 The original manuscript of Valdez was copied by his friend Don Justo
@@ -60,7 +60,7 @@ a descendant of
 
 <span id="page_327">p. 327</span>
 
-the Incas. <span id="fr_2"></span>[1](#fn_2) In April 1853 I went to
+the Incas. <span id="fr_2"></span>[1](#fn_2.md) In April 1853 I went to
 Laris, a secluded valley of the Andes, and made a careful copy of the
 drama of *Ollantay*. From this Justiniani text my first very faulty
 line-for-line translation was made in 1871, as well as the present free
@@ -138,7 +138,7 @@ love of a great chief, but not of the blood-royal, with a daughter of
 the Inca. This would not have been prohibited in former reigns, for the
 marriage of a sister by the sovereign or his heir, and the marriage of
 princesses only with princes of the blood-royal, were rules first
-introduced by Pachacuti. <span id="fr_3"></span>[1](#fn_3) His imperial
+introduced by Pachacuti. <span id="fr_3"></span>[1](#fn_3.md) His imperial
 power and greatness led
 
 <span id="page_330">p. 330</span>
@@ -221,7 +221,7 @@ Ollantay-tampu ready to rush in, when a signal was made. Rumi-ñaui then
 cut and slashed his face, covered himself with mud, and appeared at the
 gates of Ollantay-tampu, declaring that he had received this treatment
 from the new Inca, and imploring protection. <span
-id="fr_4"></span>[1](#fn_4) Ollantay received him with the greatest
+id="fr_4"></span>[1](#fn_4.md) Ollantay received him with the greatest
 kindness and hospitality. In a few days Ollantay and his people
 celebrated the *Raymi* or great festival of the sun with
 
@@ -340,7 +340,7 @@ transgression of his rule by his daughter is thus explained.
 
 ### Footnotes
 
-<span id="fn_0"></span>[325:1](oll01.htm#fr_0)
+<span id="fn_0"></span>[325:1](oll01.htm#fr_0.md)
 
 INCA-PACHACUTI  
 \|  
@@ -365,12 +365,12 @@ MIGUEL CONDORCANQUI
 JOSÉ GABRIEL CONDORCANQUI  
 (TUPAC AMARU)
 
-<span id="fn_1"></span>[326:1](oll01.htm#fr_1) '*Sentencia pronunciada
+<span id="fn_1"></span>[326:1](oll01.htm#fr_1.md) '*Sentencia pronunciada
 en el Cuzco por el Visitador Don José Antonio de Areche, contra José
 Gabriel Tupac Amaru*.' In *Coleccion de obras y documentos* de Don Pedro
 de Angelis, vol. V. (Buenos Ayres, 1836-7).
 
-<span id="fn_2"></span>[327:1](oll01.htm#fr_2)
+<span id="fn_2"></span>[327:1](oll01.htm#fr_2.md)
 
 INCA PACHACUTI.  
 \|  
@@ -397,7 +397,7 @@ JUSTO PASTOR JUSTINIANI
 Dr. PABLO POLICARPO JUSTINIANI  
 (Cura of Laris)
 
-<span id="fn_3"></span>[329:1](oll01.htm#fr_3) The wives of the Incas
+<span id="fn_3"></span>[329:1](oll01.htm#fr_3.md) The wives of the Incas
 were called *ccoya*. The ccoya of the second Inca was a daughter of the
 chief of *Sanoc*. The third Inca married a daughter of the chief of
 *Oma*, the fourth married a girl of *Tacucaray*, the wife of the fifth
@@ -411,7 +411,7 @@ Tupac Yupanqui marry his daughter Mama Ocllo, but this was quite
 unprecedented. The transgression of a rule which he had just made may
 account for his extreme severity.
 
-<span id="fn_4"></span>[332:1](oll01.htm#fr_4) A bust, on an earthen
+<span id="fn_4"></span>[332:1](oll01.htm#fr_4.md) A bust, on an earthen
 vase, was presented to Don Antonio Maria Alvarez, the political chief of
 Cuzco, in 1837, by an Indian who declared that it had been handed down
 in his family from time immemorial, as a likeness of the general,
@@ -424,6 +424,6 @@ face.--Museo Erudito, No. B.
 
 ------------------------------------------------------------------------
 
-[Next: Acts and Scenes](oll02)
+[Next: Acts and Scenes](oll02.md)
 
 </div>

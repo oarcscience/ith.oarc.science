@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr02)  [Next](ibr04) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr02)  [Next](ibr04.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ There is no exact chronology by which the date of this important
 <span id="page_19">p. 19</span>
 
 event can be ascertained; but the weight of evidence fixes it at about
-the middle of the fifteenth century. <span id="fr_7"></span>[1](#fn_7)
+the middle of the fifteenth century. <span id="fr_7"></span>[1](#fn_7.md)
 
 At this time two great dangers, the one from without, the other from
 within, pressed upon these tribes. The Mohegans, or Mohicans, a powerful
@@ -82,7 +82,7 @@ preterhuman nature, whose head, in lieu of hair, is adorned with living
 snakes. A rude pictorial representation shows him seated and giving
 audience, in horrible state, with the upper part of his person enveloped
 by these writhing and entangled reptiles. <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
 <span id="page_21">p. 21</span>
 
@@ -131,7 +131,7 @@ summoned a meeting of the chiefs and people of the Onondaga towns. The
 summons, proceeding from a chief of his rank and reputation, attracted a
 large concourse. "They came together," said the narrator, "along the
 creeks, from all parts, to the general council-fire." <span
-id="fr_9"></span>[1](#fn_9) But what effect the grand projects of the
+id="fr_9"></span>[1](#fn_9.md) But what effect the grand projects of the
 chief, enforced by the eloquence for which he was noted, might have had
 upon his auditors, could not be known. For there appeared among them a
 well-known figure, grim, silent and forbidding, whose terrible aspect
@@ -382,7 +382,7 @@ remarkable fact is affirmed by the Jesuit missionary
 <span id="page_30">p. 30</span>
 
 Lafitau, and the usage remains in full vigor among the Canadian Iroquois
-to this day. <span id="fr_10"></span>[1](#fn_10) If there are two or
+to this day. <span id="fr_10"></span>[1](#fn_10.md) If there are two or
 more members of the family who seem to have equal claims, the nominating
 matron sometimes declines to decide between them, and names them both or
 all, leaving the ultimate choice to the nation or the federal council.
@@ -413,7 +413,7 @@ his great colleague, Dekanawidah, nowhere appears. He was a member of
 the first council but he forbade his people to appoint a successor to
 him. Let the others. have successors," he said proudly, "for others can
 advise you like them. But I aim the founder of your league, and no one
-else can do what I have done." <span id="fr_11"></span>[1](#fn_11)
+else can do what I have done." <span id="fr_11"></span>[1](#fn_11.md)
 
 The boast was not unwarranted. Though planned by another, the structure
 had been reared mainly by his labors. But the Five Nations, while
@@ -587,7 +587,7 @@ religion of the western nations, had confounded King Alfred with King
 Arthur, and both with Odin, he would not have, made a more preposterous
 confusion of names and characters than that which has hitherto disguised
 the genuine personality of the great Onondaga reformer. <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 About the main events of his history, and about his character and
 purposes, there can be no reasonable doubt. We have the wampum belts
@@ -642,7 +642,7 @@ followers.
 
 ### Footnotes
 
-<span id="fn_7"></span>[19:1](ibr03.htm#fr_7) The evidence on this point
+<span id="fn_7"></span>[19:1](ibr03.htm#fr_7.md) The evidence on this point
 is given in the Appendix, note C. It should be mentioned that some
 portion of the following narrative formed part of a paper entitled "A
 Lawgiver of the Stone Age," which was read at the Cincinnati meeting of
@@ -669,7 +669,7 @@ narratives varied, as they sometimes did in minor particulars, I have
 followed that which seemed most in accordancc with the general tenor of
 the history and with the evidence furnished by the Book of Rites.
 
-<span id="fn_8"></span>[20:1](ibr03.htm#fr_8) This picture and some
+<span id="fn_8"></span>[20:1](ibr03.htm#fr_8.md) This picture and some
 other equally grotesque illustrations, produced in a primitive style of
 wood engraving, are prefixed to David Cusick's History of the Six
 Nations. The artist to whom we owe them was probably the historian
@@ -679,7 +679,7 @@ thrown much light upon the mythology and language <span id="page_21">p.
 fortunate enough to obtain either the originals or early copies of these
 extraordinary efforts of native art.
 
-<span id="fn_9"></span>[22:1](ibr03.htm#fr_9) The narrator here referred
+<span id="fn_9"></span>[22:1](ibr03.htm#fr_9.md) The narrator here referred
 to was the Onondaga chief, Philip Jones, known in the council as
 Hanesehen (in Canienga, Enneserarenh), who, in October, 1875, with two
 other chiefs of high rank, and the interpreter, Daniel La Fort, spent an
@@ -688,7 +688,7 @@ Castle," and repeating the history of the formation of the confederacy.
 The later portions of the narrative were obtained principally from the
 chiefs of the Canadian Iroquois, as will be hereafter explained.
 
-<span id="fn_10"></span>[30:1](ibr03.htm#fr_10) La dignité de chef est
+<span id="fn_10"></span>[30:1](ibr03.htm#fr_10.md) La dignité de chef est
 perpetuelle et héréditaire dans sa Cabane, passant toujours aux enfans
 de ses tantes, de ses sœurs, ou de ses nièces du côté maternel. Dès que
 l'arbre est tombé, il fault, disent ils, le relever. La matrone, qui a
@@ -699,7 +699,7 @@ Elle n'a pas toujours égard au droit d'ainesse, et d'ordinaire, elle
 prend celui qui paroit le plus propre A soûtenir ce rang par ses bonnes
 qualités."--Lafitau: *Mœurs des Sauvages Ameriquains*, p. 471.
 
-<span id="fn_11"></span>[31:1](ibr03.htm#fr_11) In Mr. Morgan's
+<span id="fn_11"></span>[31:1](ibr03.htm#fr_11.md) In Mr. Morgan's
 admirable work, "*The League of the Iroquois*," the list of Councillors
 (whom he styles sachems), comprises the name of Dekanawidah--in his
 orthography, Dagänowedä. During my last visit to my lamented friend (in
@@ -721,9 +721,9 @@ meaning to the English "nobleman" or "lord," as applied to a member of
 the House of Peers. It is the word by which the missionaries have
 rendered the title "Lord" in the New Testament.
 
-<span id="fn_12"></span>[36:1](ibr03.htm#fr_12) This subject is further
+<span id="fn_12"></span>[36:1](ibr03.htm#fr_12.md) This subject is further
 discussed in the Appendix, Note D.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: The Book of Rites](ibr04)
+[Next: Chapter III: The Book of Rites](ibr04.md)

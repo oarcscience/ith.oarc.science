@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas076n)  [Next](jas078n)   
- \[[77. Alimoty and Aliminty.](jas077)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas076n)  [Next](jas078n.md)   
+ \[[77. Alimoty and Aliminty.](jas077.md)\]
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ troublesome child.
 
 ------------------------------------------------------------------------
 
-[Next: Note 78. The Fish Lover.](jas078n)
+[Next: Note 78. The Fish Lover.](jas078n.md)

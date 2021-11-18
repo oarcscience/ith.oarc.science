@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mlcr05)  [Next](mlcr07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mlcr05)  [Next](mlcr07.md) 
 
 ------------------------------------------------------------------------
 
@@ -2021,4 +2021,4 @@ their land from tyranny and wrong.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: The Voyage of Maldun](mlcr07)
+[Next: Chapter VII: The Voyage of Maldun](mlcr07.md)

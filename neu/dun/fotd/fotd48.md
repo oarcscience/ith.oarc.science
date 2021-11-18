@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lord Dunsany](../index)  [Index](index) 
-[Previous](fotd47)  [Next](fotd49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lord Dunsany](../index)  [Index](index.md) 
+[Previous](fotd47)  [Next](fotd49.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SWBC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SWBC/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fifty-one Tales*, by Lord Dunsany, \[1915\], at Intangible Textual
 Heritage
 
@@ -129,6 +129,6 @@ They do not understand. How should they know?
 
 ------------------------------------------------------------------------
 
-[Next: The Three Tall Sons](fotd49)
+[Next: The Three Tall Sons](fotd49.md)
 
 </div>

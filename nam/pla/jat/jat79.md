@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat78)  [Next](jat80) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat78)  [Next](jat80.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ the ground also.
 
 ------------------------------------------------------------------------
 
-[Next: 78. The Medicine Ceremony](jat80)
+[Next: 78. The Medicine Ceremony](jat80.md)

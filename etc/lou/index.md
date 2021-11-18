@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Legendary Creatures](../../lcr/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Legendary Creatures](../../lcr/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4WSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4WSI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4WSI/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](lou00)    [Text
-\[Zipped\]](lou.txt.gz)
+[Contents](#contents)    [Start Reading](lou00.md)    [Text
+\[Zipped\]](lou.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -52,16 +52,16 @@ Odell Shepard died on July 19, 1967, in New London, Connecticut.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](lou00)  
-[Contents](lou01)  
-[Introduction](lou02)  
-[Chapter I. The Gorgeous East](lou03)  
-[Chapter II. The Holy Hunt](lou04)  
-[Chapter III. Shaping Fantasies](lou05)  
-[Chapter IV. East And West](lou06)  
-[Chapter V. The Treasure of His Brow](lou07)  
-[Chapter VI. The Battle of Books](lou08)  
-[Chapter VII. Rumours](lou09)  
-[Chapter VIII. Conjectures](lou10)  
-[Chapter IX. Certainties](lou11)  
-[Chapter X. Reflections](lou12)  
+<span id="contents"></span> [Title Page](lou00.md)  
+[Contents](lou01.md)  
+[Introduction](lou02.md)  
+[Chapter I. The Gorgeous East](lou03.md)  
+[Chapter II. The Holy Hunt](lou04.md)  
+[Chapter III. Shaping Fantasies](lou05.md)  
+[Chapter IV. East And West](lou06.md)  
+[Chapter V. The Treasure of His Brow](lou07.md)  
+[Chapter VI. The Battle of Books](lou08.md)  
+[Chapter VII. Rumours](lou09.md)  
+[Chapter VIII. Conjectures](lou10.md)  
+[Chapter IX. Certainties](lou11.md)  
+[Chapter X. Reflections](lou12.md)  

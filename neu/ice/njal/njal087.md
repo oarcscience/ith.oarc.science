@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal086)  [Next](njal088) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal086)  [Next](njal088.md) 
 
 ------------------------------------------------------------------------
 
@@ -286,4 +286,4 @@ All Thrain's kinsmen looked on him as a chief.
 
 ------------------------------------------------------------------------
 
-[Next: 88. Earl Hacon Fights With Njal's Sons.](njal088)
+[Next: 88. Earl Hacon Fights With Njal's Sons.](njal088.md)

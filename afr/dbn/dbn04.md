@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](dbn03)  [Next](dbn05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](dbn03)  [Next](dbn05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Negro*, by W.E.B. Du Bois, \[1915\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ Other and older theories and legends of the origin and spread of mankind
 are of interest now only because so many human beings have believed them
 in the past. The biblical story of Shem, Ham, and Japheth retains the
 interest of a primitive myth with its measure of allegorical
-truth, <span id="fr_2"></span>[1](#fn_2) but has, of course, no historic
+truth, <span id="fr_2"></span>[1](#fn_2.md) but has, of course, no historic
 basis.
 
 <span id="page_12">p. 12</span>
@@ -266,7 +266,7 @@ and self-assertion there.
 
 ### Footnotes
 
-<span id="fn_2"></span>[11:1](dbn04.htm#fr_2) Ham is probably the
+<span id="fn_2"></span>[11:1](dbn04.htm#fr_2.md) Ham is probably the
 Egyptian word "Khem" (black), the native name of Egypt. In the original
 myth Canaan and not Ham was Noah's third son.
 
@@ -282,6 +282,6 @@ Hopkins: *Bible Views of Slavery*, p. 7.
 
 ------------------------------------------------------------------------
 
-[Next: III. Ethiopia and Egypt](dbn05)
+[Next: III. Ethiopia and Egypt](dbn05.md)
 
 </div>

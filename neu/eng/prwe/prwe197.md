@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe196)  [Next](prwe198) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe196)  [Next](prwe198.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ been met with in several districts.
 
 ------------------------------------------------------------------------
 
-[Next: Dorcas, the Spirit of Polbreen Mine](prwe198)
+[Next: Dorcas, the Spirit of Polbreen Mine](prwe198.md)

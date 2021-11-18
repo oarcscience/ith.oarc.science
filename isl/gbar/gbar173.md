@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar172) [Next](gbar174)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar172) [Next](gbar174.md)
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ thou condemnest the soul to hell.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar174)
+[Next](gbar174.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](ttg01) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](ttg01.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](ttg01)
+[Next: Introduction](ttg01.md)

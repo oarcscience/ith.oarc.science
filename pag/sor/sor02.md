@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor01)  [Next](sor03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor01)  [Next](sor03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -212,7 +212,7 @@ Master of the Sacred Palace, formulates the
 doctrine in precise words: "Why does God permit the death of the
 innocent? He does so justly. For if they do not die by reason of the
 sins they have committed, yet they are guilty of death by reason of
-original sin" <span id="fr_0"></span>[1](#fn_0)
+original sin" <span id="fr_0"></span>[1](#fn_0.md)
 
 From this monstrous theory two consequences follow, in justice and in
 logic. The judge is always sure of doing justice; anyone brought before
@@ -313,7 +313,7 @@ the countryside; she has, as it were, a ring of fire round her haunts.
 has its spring of womanhood, its feminine electricity, in virtue of
 which she is dowered with two gifts
 
-*The* [*half-sane*](errata.htm#0)*, half-insane madness, illuminism*, of
+*The* [*half-sane*](errata.htm#0.md)*, half-insane madness, illuminism*, of
 the seer, which according to its degree is poetry, second sight,
 preternatural vision, a faculty of speech at once simple and astute,
 above all else the power of believing in her own falsehoods. This gift
@@ -339,7 +339,7 @@ living sacrifice.
 
 We shall often and often find her telling the judge: "There is only one
 thing I am afraid of,—not to suffer enough for him." <span
-id="fr_1"></span>[2](#fn_1)
+id="fr_1"></span>[2](#fn_1.md)
 
 Do you know how the newborn infant salutes the new world he enters? With
 a horrid scream of laughter. And has he not good cause to be glad, there
@@ -524,10 +524,10 @@ rate, he is not the only time-hallowed institution that is a-dying.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xiii:1](sor02.htm#fr_0) *De Strigibus*, ch. 9.
+<span id="fn_0"></span>[xiii:1](sor02.htm#fr_0.md) *De Strigibus*, ch. 9.
 
-<span id="fn_1"></span>[xvi:2](sor02.htm#fr_1) Lancre.
+<span id="fn_1"></span>[xvi:2](sor02.htm#fr_1.md) Lancre.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Death of the Gods](sor03)
+[Next: 1. Death of the Gods](sor03.md)

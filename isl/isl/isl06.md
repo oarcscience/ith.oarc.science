@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl05)  [Next](isl07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl05)  [Next](isl07.md) 
 
 ------------------------------------------------------------------------
 
@@ -339,7 +339,7 @@ And when Jesus perceived their unbelief, he said,
 "who will be my helpers unto God?"  
 The Apostles said: "We will be helpers of God,  
 We believe in God; witness thou that we \[are Muslims\]. <span
-id="fr_2"></span>[3](#fn_2)  
+id="fr_2"></span>[3](#fn_2.md)  
 Lord, we believe in what Thou hast sent down,  
 And we follow thy Messenger.  
 Inscribe us with those who witness to the truth." (3:52-53)
@@ -542,7 +542,7 @@ of righteousness forgiveness and
 
 ### Footnotes
 
-<span id="fn_2"></span>[39:3](isl06.htm#fr_2) Since all who submit
+<span id="fn_2"></span>[39:3](isl06.htm#fr_2.md) Since all who submit
 themselves to God's will are Muslims, Abraham and the twelve apostles
 are Muslims. It would appear preferable to call those Muslims who have
 followed Muhammad by the earlier term "Muhammadans," were it not that
@@ -551,4 +551,4 @@ with their prophet.
 
 ------------------------------------------------------------------------
 
-[Next: 3. He Reveals Himself](isl07)
+[Next: 3. He Reveals Himself](isl07.md)

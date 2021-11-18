@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som32) 
-[Next](som34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som32.md) 
+[Next](som34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -49,14 +49,14 @@ perfection and cause me to see only the Good."
 By this practice, the soul will become illumined and will acquaint
 itself with God and be at peace. "Be ye therefore perfect, even as your
 Father Which is in heaven is Perfect." <span
-id="fr_103"></span>[104](#fn_103)
+id="fr_103"></span>[104](#fn_103.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_103"></span>[286:104](som33.htm#fr_103) Matt 5:48.
+<span id="fn_103"></span>[286:104](som33.htm#fr_103.md) Matt 5:48.
 
 ------------------------------------------------------------------------
 
-[Next: Imagination and Will](som34)
+[Next: Imagination and Will](som34.md)

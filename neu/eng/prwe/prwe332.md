@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe331)  [Next](prwe333) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe331)  [Next](prwe333.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ hill still repeating her melancholy lamentation."
 
 ------------------------------------------------------------------------
 
-[Next: The Hag's Bed near Fermoy](prwe333)
+[Next: The Hag's Bed near Fermoy](prwe333.md)

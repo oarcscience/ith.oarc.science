@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil65)  [Next](egil67) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil65)  [Next](egil67.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ provisions were in plenty.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXVI. Egil and Thorstein go before the king.](egil67)
+[Next: CHAPTER LXVI. Egil and Thorstein go before the king.](egil67.md)

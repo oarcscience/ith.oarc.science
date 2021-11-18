@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had09)  [Next](had11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had09)  [Next](had11.md) 
 
 ------------------------------------------------------------------------
 
@@ -245,4 +245,4 @@ church gatherings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: The Imām](had11)
+[Next: Chapter VIII: The Imām](had11.md)

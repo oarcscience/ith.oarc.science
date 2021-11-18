@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](bep01)  [Next](bep03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](bep01)  [Next](bep03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Enoch the Prophet*, tr. by Richard Laurence, \[1883\], at
 Intangible Textual Heritage
 
@@ -25,10 +25,10 @@ Intangible Textual Heritage
 
 1\. <span class="smallcaps">THE</span> word of the blessing of Enoch,
 how he blessed the elect and the righteous, who were to exist in the
-time of trouble; rejecting <span id="fr_21"></span>[1](#fn_20) all the
+time of trouble; rejecting <span id="fr_21"></span>[1](#fn_20.md) all the
 wicked and ungodly. Enoch, a righteous man, who was with God, answered
 and spoke, *while* his eyes were open, and while he saw a holy vision in
-the heavens. <span id="fr_22"></span>[2](#fn_21) This the angels showed
+the heavens. <span id="fr_22"></span>[2](#fn_21.md) This the angels showed
 me.
 
 2\. From them I heard all things, and understood what I saw; that which
@@ -63,9 +63,9 @@ splendour of the Godhead shall illuminate them.
 
 Behold, he comes with ten thousands of his saints, to execute judgment
 upon them, and destroy the wicked, and reprove all the carnal <span
-id="fr_23"></span>[1](#fn_22) for everything which the sinful and
+id="fr_23"></span>[1](#fn_22.md) for everything which the sinful and
 ungodly have done, and committed against him. <span
-id="fr_24"></span>[2](#fn_23)
+id="fr_24"></span>[2](#fn_23.md)
 
 <span id="page_3">p. 3</span>
 
@@ -74,7 +74,7 @@ id="fr_24"></span>[2](#fn_23)
 ### CHAP. III.
 
 1\. All who are in the heavens know what is transacted <span
-id="fr_25"></span>[1](#fn_24) there.
+id="fr_25"></span>[1](#fn_24.md) there.
 
 2\. They know that the heavenly luminaries change not their paths; that
 each rises and sets regularly, every one at its proper period, without
@@ -155,16 +155,16 @@ themselves, possessing prudence, and shall not repeat transgression.
 
 12\. They shall not be condemned the whole period of their lives, nor
 die in torment and indignation; but the sum of their days <span
-id="fr_26"></span>[1](#fn_25) shall be completed, and they shall grow
+id="fr_26"></span>[1](#fn_25.md) shall be completed, and they shall grow
 old in peace; while the years of their happiness shall be multiplied
 with joy, and with peace, for ever, the whole duration of their
 existence.
 
 <span class="margnote"><span id="an_VII">VII</span></span>
 
-### CHAP. VII. \[SECT. II. <span id="fr_27"></span>[2](#fn_26)\]
+### CHAP. VII. \[SECT. II. <span id="fr_27"></span>[2](#fn_26.md)\]
 
-1\.  <span id="fr_28"></span>[3](#fn_27) It happened after the sons of
+1\.  <span id="fr_28"></span>[3](#fn_27.md) It happened after the sons of
 men had multiplied
 
 <span id="page_6">p. 6</span>
@@ -190,7 +190,7 @@ execrations. Their whole number was two hundred, who descended upon
 Ardis, which is the top of mount Armon.
 
 8\. That mountain therefore was called <span
-id="fr_29"></span>[1](#fn_28) Armon, because they had sworn upon it, and
+id="fr_29"></span>[1](#fn_28.md) Armon, because they had sworn upon it, and
 bound themselves by mutual execrations.
 
 9\. These are the names of their chiefs: Samyaza, who was their leader,
@@ -207,8 +207,8 @@ them.
 approach, and with whom they cohabited; teaching them sorcery,
 incantations, and the dividing of roots and trees.
 
-11\.  <span id="fr_30"></span>[1](#fn_29) And the women <span
-id="fr_31"></span>[2](#fn_30) conceiving brought forth giants,
+11\.  <span id="fr_30"></span>[1](#fn_29.md) And the women <span
+id="fr_31"></span>[2](#fn_30.md) conceiving brought forth giants,
 
 12\. Whose stature was each three hundred cubits. These devoured all
 which the labour of men produced; until it became impossible to feed
@@ -230,7 +230,7 @@ breastplates, the fabrication of
 
 <span id="page_8">p. 8</span>
 
-mirrors, <span id="fr_32"></span>[1](#fn_31) and the workmanship of
+mirrors, <span id="fr_32"></span>[1](#fn_31.md) and the workmanship of
 bracelets and ornaments, the use of paint, the beautifying of the
 eyebrows, *the use of* stones of every valuable and select kind, and of
 all sorts of dyes, so that the world became altered.
@@ -268,7 +268,7 @@ heaven.
 <span id="page_9">p. 9</span>
 
 3\. And now to you, O ye holy ones of heaven, the souls of men complain,
-saying, Obtain Justice for us with <span id="fr_33"></span>[1](#fn_32)
+saying, Obtain Justice for us with <span id="fr_33"></span>[1](#fn_32.md)
 the Most High. Then they said to their Lord, the King, *Thou art* Lord
 of lords, God of gods, King of kings. The throne of thy glory is for
 ever and ever, and for ever and ever is thy name sanctified and
@@ -346,13 +346,13 @@ secret, by *which* the Watchers have destroyed, and which they have
 taught, their offspring.
 
 12\. All the earth has been corrupted by the effects of the
-teaching <span id="fr_34"></span>[1](#fn_33) of Azazyel. To him
+teaching <span id="fr_34"></span>[1](#fn_33.md) of Azazyel. To him
 therefore ascribe the whole crime.
 
 13\. To Gabriel also the Lord said, Go to the biters, to the reprobates,
 to the children of fornication; and destroy the children of fornication,
 the offspring of the Watchers, from among men; bring them forth, and
-excite <span id="fr_35"></span>[2](#fn_34) them one against another. Let
+excite <span id="fr_35"></span>[2](#fn_34.md) them one against another. Let
 them perish by *mutual* slaughter; for length of days shall not be
 theirs.
 
@@ -370,7 +370,7 @@ be polluted with all their impurity. And when all their sons shall be
 slain, when they shall see the perdition of their beloved, bind them for
 seventy generations underneath the earth, even to the day of judgment,
 and of consummation, until the judgment, *the effect of* which will last
-for ever, be completed. <span id="fr_36"></span>[1](#fn_35)
+for ever, be completed. <span id="fr_36"></span>[1](#fn_35.md)
 
 16\. Then shall they be taken away into the lowest depths of the fire in
 torments; and in confinement shall they be shut up for ever.
@@ -386,7 +386,7 @@ the Watchers, for they have tyrannized over mankind.
 20\. Let every evil work be destroyed;
 
 21\. The plant of righteousness and of rectitude appear, and its
-produce <span id="fr_37"></span>[2](#fn_36) become a blessing.
+produce <span id="fr_37"></span>[2](#fn_36.md) become a blessing.
 
 22\. Righteousness and rectitude shall be for ever planted with delight.
 
@@ -427,11 +427,11 @@ of the world, in every generation of it.
 
 <span class="margnote"><span id="an_XI">XI</span></span>
 
-### (No CHAP. XI. <span id="fr_38"></span>[1](#fn_37))
+### (No CHAP. XI. <span id="fr_38"></span>[1](#fn_37).md)
 
 <span class="margnote"><span id="an_XII">XII</span></span>
 
-### CHAP. XII. \[SECT. III. <span id="fr_39"></span>[2](#fn_38)\]
+### CHAP. XII. \[SECT. III. <span id="fr_39"></span>[2](#fn_38.md)\]
 
 1\. Before all these things Enoch was concealed; nor did any one of the
 sons of men know where he was concealed, where he had been, and what had
@@ -525,7 +525,7 @@ created and given to me *the power of* reproving the Watchers,
 
 the offspring of heaven. I have written your petition; and in my vision
 it has been shown me, that what you request will not be granted you as
-long as the world endures. <span id="fr_40"></span>[1](#fn_39)
+long as the world endures. <span id="fr_40"></span>[1](#fn_39.md)
 
 3\. Judgment has been passed upon you: *your request* will not be
 granted you.
@@ -535,7 +535,7 @@ said, that on the earth He will bind you, as long as the world endures.
 
 5\. But before these things you shall behold the destruction of your
 beloved sons; you shall not possess them, but they shall fall before you
-by [the](errata.htm#1) sword.
+by [the](errata.htm#1.md) sword.
 
 6\. Neither shall you entreat for them, nor for yourselves;
 
@@ -545,18 +545,18 @@ which I wrote.
 8\. A vision thus appeared to me.
 
 9\. Behold, in *that* vision clouds and a mist invited me; <span
-id="fr_41"></span>[2](#fn_40) agitated stars <span
-id="fr_42"></span>[3](#fn_41) and flashes of lightning impelled and
+id="fr_41"></span>[2](#fn_40.md) agitated stars <span
+id="fr_42"></span>[3](#fn_41.md) and flashes of lightning impelled and
 pressed me forwards, while winds in the vision assisted my flight,
-accelerating my progress. <span id="fr_43"></span>[4](#fn_42)
+accelerating my progress. <span id="fr_43"></span>[4](#fn_42.md)
 
 10\. They elevated me aloft to heaven. I proceeded, until I arrived at a
 wall built with stones of
 
 <span id="page_18">p. 18</span>
 
-crystal. <span id="fr_44"></span>[1](#fn_43) A vibrating flame <span
-id="fr_45"></span>[2](#fn_44) surrounded it, which began to strike me
+crystal. <span id="fr_44"></span>[1](#fn_43.md) A vibrating flame <span
+id="fr_45"></span>[2](#fn_44.md) surrounded it, which began to strike me
 with terror.
 
 11\. Into this vibrating flame I entered;
@@ -564,9 +564,9 @@ with terror.
 12\. And drew nigh to a spacious habitation built also with stones of
 crystal. Its walls too, as well as pavement, were *formed* with stones
 of crystal, and crystal likewise was the ground. Its roof had the
-appearance of agitated <span id="fr_46"></span>[3](#fn_45) stars and
+appearance of agitated <span id="fr_46"></span>[3](#fn_45.md) stars and
 flashes of lightning; and among them were cherubim of fire in a stormy
-sky. <span id="fr_47"></span>[4](#fn_46) A flame burned around its
+sky. <span id="fr_47"></span>[4](#fn_46.md) A flame burned around its
 walls; and its portal blazed with fire. When I entered into this
 dwelling, it was hot as fire and cold as ice. No *trace* of delight or
 of life was there. Terror overwhelmed me, and a fearful shaking seized
@@ -606,12 +606,12 @@ the voice of the cherubim.
 
 23\. No angel was capable of penetrating to view the face of Him, the
 Glorious and the Effulgent; nor could any mortal behold Him. A fire was
-flaming <span id="fr_48"></span>[1](#fn_47) around Him.
+flaming <span id="fr_48"></span>[1](#fn_47.md) around Him.
 
 24\. A fire also of great extent continued to rise up before Him; so
 that not one of those who surrounded Him was capable of approaching Him,
 among the myriads of 'myriads who were before Him. To Him holy
-consultation was needless. <span id="fr_49"></span>[2](#fn_48) Yet did
+consultation was needless. <span id="fr_49"></span>[2](#fn_48.md) Yet did
 not the sanctified, who were near Him, depart far from Him either by
 night or by day; nor were they removed from Him. I also was so far
 advanced, with a veil on my face, and trembling.
@@ -630,8 +630,8 @@ eye was directed to the ground.
 ### CHAP. XV.
 
 1\. Then addressing me, He spoke and said, <span
-id="fr_50"></span>[1](#fn_49) Hear, neither be afraid, O righteous
-Enoch, thou scribe of righteousness: <span id="fr_51"></span>[2](#fn_50)
+id="fr_50"></span>[1](#fn_49.md) Hear, neither be afraid, O righteous
+Enoch, thou scribe of righteousness: <span id="fr_51"></span>[2](#fn_50.md)
 approach hither, and hear my voice. Go, say to the Watchers of heaven,
 who have sent thee to pray for them, You ought to pray for men, and not
 men for you.
@@ -640,10 +640,10 @@ men for you.
 for ever, and have lain with women; have defiled yourselves with the
 daughters of men; have taken to yourselves wives; have acted like the
 sons of the earth, and have begotten an impious offspring? <span
-id="fr_52"></span>[3](#fn_51)
+id="fr_52"></span>[3](#fn_51.md)
 
 3\. You being spiritual, holy, and possessing a life <span
-id="fr_53"></span>[4](#fn_52) which is eternal, have polluted yourselves
+id="fr_53"></span>[4](#fn_52.md) which is eternal, have polluted yourselves
 with women; have begotten in carnal blood; have lusted in the blood of
 men; and have done as those who are flesh and blood do.
 
@@ -657,12 +657,12 @@ upon earth.
 
 6\. But you from the beginning were made spiritual, possessing a life
 which is eternal, and not subject to death for ever. <span
-id="fr_54"></span>[1](#fn_53)
+id="fr_54"></span>[1](#fn_53.md)
 
 7\. Therefore I made not wives for you, because, being spiritual, your
 dwelling is in heaven.
 
-8\.  <span id="fr_55"></span>[2](#fn_54) Now the giants, who lave been
+8\.  <span id="fr_55"></span>[2](#fn_54.md) Now the giants, who lave been
 born of spirit and of flesh, shall be called upon earth evil spirits,
 and on earth shall be their habitation. Evil spirits shall proceed from
 their flesh, because they were created from above; from the holy
@@ -680,7 +680,7 @@ shall be thirsty; they shall be
 
 <span id="page_22">p. 22</span>
 
-concealed, and shall not <span id="fr_56"></span>[1](#fn_55) rise up
+concealed, and shall not <span id="fr_56"></span>[1](#fn_55.md) rise up
 against the sons of men, and against women; for they come forth during
 the days of slaughter and destruction.
 
@@ -692,7 +692,7 @@ the days of slaughter and destruction.
 from their bodies, let their flesh, that which is perishable, be without
 judgment. Thus shall they perish, until the day of the great
 consummation of the great world. A destruction shall take place of <span
-id="fr_57"></span>[2](#fn_56) the Watchers and the impious.
+id="fr_57"></span>[2](#fn_56.md) the Watchers and the impious.
 
 2\. And now to the Watchers, who have sent thee to pray for them, who in
 the beginning were in heaven,
@@ -710,10 +710,10 @@ earth.
 
 <span class="margnote"><span id="an_XVII">XVII</span></span>
 
-### CHAP. XVII. \[SECT. IV. <span id="fr_58"></span>[1](#fn_57)\]
+### CHAP. XVII. \[SECT. IV. <span id="fr_58"></span>[1](#fn_57.md)\]
 
 1\. They raised me up into a certain place, <span
-id="fr_59"></span>[2](#fn_58) where there was the appearance of a
+id="fr_59"></span>[2](#fn_58.md) where there was the appearance of a
 burning fire; and when they pleased they assumed the likeness of men.
 
 2\. They carried me to a lofty spot, to a mountain, the top of which
@@ -725,7 +725,7 @@ and arrows in their quiver, a sword of fire, and every species of
 lightning.
 
 4\. Then they elevated me to a babbling stream, <span
-id="fr_60"></span>[3](#fn_59) and to a fire in the west, which received
+id="fr_60"></span>[3](#fn_59.md) and to a fire in the west, which received
 all the setting of the sun. I came to a river of fire, which flowed like
 water, and emptied itself into the great sea westwards.
 
@@ -744,7 +744,7 @@ of the deep.
 ### CHAP. XVIII.
 
 1\. I then surveyed the receptacles of all the winds, perceiving that
-they contributed to adorn <span id="fr_61"></span>[1](#fn_60) the whole
+they contributed to adorn <span id="fr_61"></span>[1](#fn_60.md) the whole
 creation, and to preserve the foundation of the earth.
 
 2\. I surveyed the stone which supports the corners of the earth.
@@ -753,7 +753,7 @@ creation, and to preserve the foundation of the earth.
 firmament of heaven.
 
 4\. And I beheld the winds occupying the exalted sky. <span
-id="fr_62"></span>[2](#fn_61)
+id="fr_62"></span>[2](#fn_61.md)
 
 5\. Arising in the midst of heaven and of earth, and constituting the
 pillars of heaven.
@@ -778,7 +778,7 @@ of which was of margarite,
 and another of antimony. Those towards the south were of a red stone.
 The middle one reached to heaven like the throne of God; *a throne
 composed* of alabaster, the top of which was of sapphire. I saw, too, a
-blazing fire hanging over <span id="fr_63"></span>[1](#fn_62) all the
+blazing fire hanging over <span id="fr_63"></span>[1](#fn_62.md) all the
 mountains.
 
 11\. And there I saw a place on the other side of an extended territory,
@@ -829,7 +829,7 @@ did any human being see it, as I saw it.
 1\. These are the names of the angels who watch.
 
 2\. Uriel, one of the holy angels, who *presides* over <span
-id="fr_64"></span>[1](#fn_63) clamour and terror.
+id="fr_64"></span>[1](#fn_63.md) clamour and terror.
 
 3\. Raphael, one of the holy angels, who *presides* over the spirits of
 men.
@@ -846,139 +846,139 @@ the children of men that transgress.
 <span id="page_27">p. 27</span>
 
 7\. Gabriel, one of the holy angels, who *presides* over Ikisat, <span
-id="fr_65"></span>[1](#fn_64) over paradise, and over the cherubim.
+id="fr_65"></span>[1](#fn_64.md) over paradise, and over the cherubim.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_20"></span>[1:1](bep02.htm#fr_21) *to the rejection of*.
+<span id="fn_20"></span>[1:1](bep02.htm#fr_21.md) *to the rejection of*.
 N.B. The Italic words in the text supply an ellipsis. In the notes they
 are used to mark the literal sense.
 
-<span id="fn_21"></span>[1:2](bep02.htm#fr_22) *which* was *in the
+<span id="fn_21"></span>[1:2](bep02.htm#fr_22.md) *which* was *in the
 heavens*.
 
-<span id="fn_22"></span>[2:1](bep02.htm#fr_23) of flesh.
+<span id="fn_22"></span>[2:1](bep02.htm#fr_23.md) of flesh.
 
-<span id="fn_23"></span>[2:2](bep02.htm#fr_24) Quoted by St. Jude ver.
+<span id="fn_23"></span>[2:2](bep02.htm#fr_24.md) Quoted by St. Jude ver.
 14, 15.
 
-<span id="fn_24"></span>[3:1](bep02.htm#fr_25) *the work*.
+<span id="fn_24"></span>[3:1](bep02.htm#fr_25.md) *the work*.
 
-<span id="fn_25"></span>[5:1](bep02.htm#fr_26) *the days of their life*.
+<span id="fn_25"></span>[5:1](bep02.htm#fr_26.md) *the days of their life*.
 
-<span id="fn_26"></span>[5:2](bep02.htm#fr_27) Section II. Paris MS.
+<span id="fn_26"></span>[5:2](bep02.htm#fr_27.md) Section II. Paris MS.
 transcribed by Woide.
 
-<span id="fn_27"></span>[5:3](bep02.htm#fr_28) The first two extracts
+<span id="fn_27"></span>[5:3](bep02.htm#fr_28.md) The first two extracts
 made by Syncellus from the Greek commence here, and end with the 15th
 verse of chap. x.
 
-<span id="fn_28"></span>[6:1](bep02.htm#fr_29) *they called*.
+<span id="fn_28"></span>[6:1](bep02.htm#fr_29.md) *they called*.
 
-<span id="fn_29"></span>[7:1](bep02.htm#fr_30) This and the following
+<span id="fn_29"></span>[7:1](bep02.htm#fr_30.md) This and the following
 verses of this chapter, viz. 11, 12, 13, 14, 15, seem to belong to the
 next chapter, and should perhaps be inserted between the 8th and 9th
 verses of that chapter. Such appears to be their situation in the Greek
 fragment, quoted by Syncellus.
 
-<span id="fn_30"></span>[7:2](bep02.htm#fr_31) *They*.
+<span id="fn_30"></span>[7:2](bep02.htm#fr_31.md) *They*.
 
-<span id="fn_31"></span>[8:1](bep02.htm#fr_32) *made them see that which
+<span id="fn_31"></span>[8:1](bep02.htm#fr_32.md) *made them see that which
 was behind them*.
 
-<span id="fn_32"></span>[9:1](bep02.htm#fr_33) *Bring judgment to us
+<span id="fn_32"></span>[9:1](bep02.htm#fr_33.md) *Bring judgment to us
 from*.
 
-<span id="fn_33"></span>[11:1](bep02.htm#fr_34) *by the teaching of the
+<span id="fn_33"></span>[11:1](bep02.htm#fr_34.md) *by the teaching of the
 work of Azazyel*.
 
-<span id="fn_34"></span>[11:2](bep02.htm#fr_35) *send*.
+<span id="fn_34"></span>[11:2](bep02.htm#fr_35.md) *send*.
 
-<span id="fn_35"></span>[12:1](bep02.htm#fr_36) Here end the first two
+<span id="fn_35"></span>[12:1](bep02.htm#fr_36.md) Here end the first two
 extracts made by Syncellus.
 
-<span id="fn_36"></span>[12:2](bep02.htm#fr_37) and the work of
+<span id="fn_36"></span>[12:2](bep02.htm#fr_37.md) and the work of
 righteousness and rectitude.
 
-<span id="fn_37"></span>[14:1](bep02.htm#fr_38) The Paris MS. makes the
+<span id="fn_37"></span>[14:1](bep02.htm#fr_38.md) The Paris MS. makes the
 last two verses of the preceding chapter, the xi. chapter.
 
-<span id="fn_38"></span>[14:2](bep02.htm#fr_39) Paris MS.
+<span id="fn_38"></span>[14:2](bep02.htm#fr_39.md) Paris MS.
 
-<span id="fn_39"></span>[17:1](bep02.htm#fr_40) *in all the days of the
+<span id="fn_39"></span>[17:1](bep02.htm#fr_40.md) *in all the days of the
 world*.
 
-<span id="fn_40"></span>[17:2](bep02.htm#fr_41) *clouds invited me, and
+<span id="fn_40"></span>[17:2](bep02.htm#fr_41.md) *clouds invited me, and
 a mist invited me*.
 
-<span id="fn_41"></span>[17:3](bep02.htm#fr_42) *the running of the
+<span id="fn_41"></span>[17:3](bep02.htm#fr_42.md) *the running of the
 stars*.
 
-<span id="fn_42"></span>[17:4](bep02.htm#fr_43) *hastening me*.
+<span id="fn_42"></span>[17:4](bep02.htm#fr_43.md) *hastening me*.
 
-<span id="fn_43"></span>[18:1](bep02.htm#fr_44) *hail*, *crystal*.
+<span id="fn_43"></span>[18:1](bep02.htm#fr_44.md) *hail*, *crystal*.
 
-<span id="fn_44"></span>[18:2](bep02.htm#fr_45) *a tongue of fire*.
+<span id="fn_44"></span>[18:2](bep02.htm#fr_45.md) *a tongue of fire*.
 
-<span id="fn_45"></span>[18:3](bep02.htm#fr_46) *the course of the*.
+<span id="fn_45"></span>[18:3](bep02.htm#fr_46.md) *the course of the*.
 
-<span id="fn_46"></span>[18:4](bep02.htm#fr_47) *and their heaven* (i.e.
+<span id="fn_46"></span>[18:4](bep02.htm#fr_47.md) *and their heaven* (i.e.
 *whose heaven*) was *water*.
 
-<span id="fn_47"></span>[19:1](bep02.htm#fr_48) *A fire of flaming
+<span id="fn_47"></span>[19:1](bep02.htm#fr_48.md) *A fire of flaming
 fire*.
 
-<span id="fn_48"></span>[19:2](bep02.htm#fr_49) *And he required not
+<span id="fn_48"></span>[19:2](bep02.htm#fr_49.md) *And he required not
 holy counsel*.
 
-<span id="fn_49"></span>[20:1](bep02.htm#fr_50) *he said with his
+<span id="fn_49"></span>[20:1](bep02.htm#fr_50.md) *he said with his
 voice*.
 
-<span id="fn_50"></span>[20:2](bep02.htm#fr_51) *O Enoch, O righteous
+<span id="fn_50"></span>[20:2](bep02.htm#fr_51.md) *O Enoch, O righteous
 man, and scribe of righteousness*.
 
-<span id="fn_51"></span>[20:3](bep02.htm#fr_52) *giants*.
+<span id="fn_51"></span>[20:3](bep02.htm#fr_52.md) *giants*.
 
-<span id="fn_52"></span>[20:4](bep02.htm#fr_53) *living a life*.
+<span id="fn_52"></span>[20:4](bep02.htm#fr_53.md) *living a life*.
 
-<span id="fn_53"></span>[21:1](bep02.htm#fr_54) *in all the generations
+<span id="fn_53"></span>[21:1](bep02.htm#fr_54.md) *in all the generations
 of the world*.
 
-<span id="fn_54"></span>[21:2](bep02.htm#fr_55) The third extract made
+<span id="fn_54"></span>[21:2](bep02.htm#fr_55.md) The third extract made
 by Syncellus begins here, and ends with the first verse of the next
 chapter.
 
-<span id="fn_55"></span>[22:1](bep02.htm#fr_56) *and those spirits shall
+<span id="fn_55"></span>[22:1](bep02.htm#fr_56.md) *and those spirits shall
 not*. M. De Sacy here remarks, that the sense seems to require an
 affirmative, instead of a negative, clause.
 
-<span id="fn_56"></span>[22:2](bep02.htm#fr_57) *It shall be consummated
+<span id="fn_56"></span>[22:2](bep02.htm#fr_57.md) *It shall be consummated
 respecting*.
 
-<span id="fn_57"></span>[23:1](bep02.htm#fr_58) Paris MS., in which
+<span id="fn_57"></span>[23:1](bep02.htm#fr_58.md) Paris MS., in which
 however the title of chap. xvii. is omitted, although the section is
 noticed.
 
-<span id="fn_58"></span>[23:2](bep02.htm#fr_59) *one place*.
+<span id="fn_58"></span>[23:2](bep02.htm#fr_59.md) *one place*.
 
-<span id="fn_59"></span>[23:3](bep02.htm#fr_60) *to water of life, which
+<span id="fn_59"></span>[23:3](bep02.htm#fr_60.md) *to water of life, which
 spoke*.
 
-<span id="fn_60"></span>[24:1](bep02.htm#fr_61) *that in them were the
+<span id="fn_60"></span>[24:1](bep02.htm#fr_61.md) *that in them were the
 ornaments of*.
 
-<span id="fn_61"></span>[24:2](bep02.htm#fr_62) *the height of heaven*.
+<span id="fn_61"></span>[24:2](bep02.htm#fr_62.md) *the height of heaven*.
 
-<span id="fn_62"></span>[25:1](bep02.htm#fr_63) *which was over*.
+<span id="fn_62"></span>[25:1](bep02.htm#fr_63.md) *which was over*.
 
-<span id="fn_63"></span>[26:1](bep02.htm#fr_64) *for* he it is *who* is
+<span id="fn_63"></span>[26:1](bep02.htm#fr_64.md) *for* he it is *who* is
 over.
 
-<span id="fn_64"></span>[27:1](bep02.htm#fr_65) *Ikisat*. This appears
+<span id="fn_64"></span>[27:1](bep02.htm#fr_65.md) *Ikisat*. This appears
 to be a proper name.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters XXI-XL](bep03)
+[Next: Chapters XXI-XL](bep03.md)

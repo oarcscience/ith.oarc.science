@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah24)  [Next](oah26) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah24)  [Next](oah26.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ Jehovih, forever and ever!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](oah26)
+[Next: Chapter X](oah26.md)

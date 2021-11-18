@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp40)  [Next](dmp42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp40)  [Next](dmp42.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ into a poultice; apply to the part (10) which is painful of the man.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. X](dmp42)
+[Next: Verso Col. X](dmp42.md)

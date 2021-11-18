@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe14) 
-[Next](ioe16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe14.md) 
+[Next](ioe16.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,4 +199,4 @@ hung.
 
 ------------------------------------------------------------------------
 
-[Next: The Meiji Period: 1850 to the Present Day](ioe16)
+[Next: The Meiji Period: 1850 to the Present Day](ioe16.md)

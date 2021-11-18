@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby30)  [Next](sby32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby30)  [Next](sby32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ cannot be brought to the shrine. The mode of baptism is as follows: A
 immerses him three times. After the second time, putting his hand on the
 child's head, he mutters, "Hol hola soultanie Azid, tou bouia berḫe
 Aizd, saraka rea Azid." ("Hol hola! <span
-id="fr_160"></span>[1](#fn_159) Yezid is a sultan. Thou hast become a
+id="fr_160"></span>[1](#fn_159.md) Yezid is a sultan. Thou hast become a
 lamb of Yezid; thou mayest be a martyr for the religion of Yezid.") The
 parents are not admitted to the domed shack of the spring; they remain
 outside.
@@ -62,7 +62,7 @@ to an end, the two šeiḫs are presented with gifts. Then every one
 returns home. The reason why they observe the two rites, they say, is
 that if one does not work the other may, and neither is harmful.
 
-As to the Eucharist, <span id="fr_161"></span>[2](#fn_160) its
+As to the Eucharist, <span id="fr_161"></span>[2](#fn_160.md) its
 observance is local. It is usually administered by the Yezidis of a
 place called Ḫalitiyeh, a dependency of Diarbeker. It is observed in the
 following manner: They sit around a table. The chief among them holding
@@ -86,22 +86,22 @@ person, whoever he may be, must undergo again the same exercises. When
 peace is established, the penitent one slaughters a sheep and offers
 wine to the reconciled one and the clerical body. This rite of
 repentance, however, is not obligatory. <span
-id="fr_162"></span>[3](#fn_161)
+id="fr_162"></span>[3](#fn_161.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_159"></span>[178:1](sby31.htm#fr_160) <span
+<span id="fn_159"></span>[178:1](sby31.htm#fr_160.md) <span
 id="page_185">p. 185</span> Hol Hola is an interjection, or exclamation,
 expressing sudden emotion, excitement, or feeling. as "Oh!" "Alas!"
 "Hurrah!" "Hark!" in English.
 
-<span id="fn_160"></span>[179:2](sby31.htm#fr_161) P. Anastase:
+<span id="fn_160"></span>[179:2](sby31.htm#fr_161.md) P. Anastase:
 *Al-Mašrik*, vol. II, p. 309.
 
-<span id="fn_161"></span>[180:3](sby31.htm#fr_162) Ibid, p. 311.
+<span id="fn_161"></span>[180:3](sby31.htm#fr_162.md) Ibid, p. 311.
 
 ------------------------------------------------------------------------
 
-[Next: II. Some Other Religious Practices](sby32)
+[Next: II. Some Other Religious Practices](sby32.md)

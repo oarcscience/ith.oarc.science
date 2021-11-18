@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt13)  [Next](egt15) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt13)  [Next](egt15.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ others', he was favoured by a special manifestation.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE BLIND MEN AND THE AFFAIR OF THE ELEPHANT.](egt15)
+[Next: ON THE BLIND MEN AND THE AFFAIR OF THE ELEPHANT.](egt15.md)

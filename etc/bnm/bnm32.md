@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm31)  [Next](bnm33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm31)  [Next](bnm33.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ and clearest of all the stones on the earth.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The First Pearls.](bnm33)
+[Next: The Story Of The First Pearls.](bnm33.md)

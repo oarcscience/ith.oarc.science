@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp02)  [Next](esp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp02)  [Next](esp04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -89,7 +89,7 @@ misgiving; for it appeared that I was in some measure unwittingly
 responsible. The Rhines, in pondering the question—What is most worth
 doing? To what cause can we give ourselves?—had come upon my *Body and
 Mind* and upon others of my writings, especially my plea for *Psychical
-Research as a University Study;* <span id="fr_0"></span>[\*](#fn_0) and
+Research as a University Study;* <span id="fr_0"></span>[\*](#fn_0.md) and
 had determined to join forces with me at Harvard. Accordingly, Dr. Rhine
 arrived on my doorstep in Cambridge, Mass. one morning in June 1926, at
 the moment when I had completed the bestowal of my family and worldly
@@ -116,7 +116,7 @@ greatly the province of science may be extended. When he comes into my
 room and finds me reading a book on metaphysics or religion, he
 scratches his head and (though he is too polite to utter his misgivings)
 wonders whether, after all, I, in my latter years, am becoming a
-[renegade](errata.htm#0).
+[renegade](errata.htm#0.md).
 
 He has devoted much thought and study to the history of science and to
 the problem of scientific method. And he manifests in every relation the
@@ -177,11 +177,11 @@ lack of good faith or any serious flaw in the procedures followed.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vi:\*](esp03.htm#fr_0) A lecture included in the
+<span id="fn_0"></span>[vi:\*](esp03.htm#fr_0.md) A lecture included in the
 Symposium published by the Clark University Press in 1926, *The Case for
 and Against Psychical Research*, and reprinted in the recently published
 volume, *Religion and the Science of Life*.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction by Dr. Walter Franklin Prince](esp04)
+[Next: Introduction by Dr. Walter Franklin Prince](esp04.md)

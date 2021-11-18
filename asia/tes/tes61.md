@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes60)  [Next](tes62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes60)  [Next](tes62.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ Pokhotsk, the Kolyma country, summer of 1895.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Story of the Tom-Cat and the Cock](tes62)
+[Next: 8. Story of the Tom-Cat and the Cock](tes62.md)

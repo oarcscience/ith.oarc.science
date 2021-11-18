@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow13)  [Next](fow15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow13)  [Next](fow15.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ Beaumont and Fletcher's "The Nice Valour"--
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: Woman's Fickleness](fow15)
+[Next: Chapter XIII: Woman's Fickleness](fow15.md)

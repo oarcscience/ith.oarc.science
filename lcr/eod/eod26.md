@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod25)  [Next](eod27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod25)  [Next](eod27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -32,16 +32,16 @@ characteristic manifestation of either god. In Egypt both Osiris and
 Horus are at times brought into relationship with the gazelle or
 antelope, but more often it represents their enemy Set. Hence, in some
 parts of Africa, especially in the west, the antelope plays the part of
-the dragon in Asiatic stories. <span id="fr_223"></span>[1](#fn_223) The
-cow <span id="fr_224"></span>[2](#fn_224) of Hathor (Tiamat) may
+the dragon in Asiatic stories. <span id="fr_223"></span>[1](#fn_223.md) The
+cow <span id="fr_224"></span>[2](#fn_224) of Hathor (Tiamat.md) may
 represent the dragon also. In East Africa the antelope assumes the rôle
-of the hero, <span id="fr_225"></span>[3](#fn_225) and is the
+of the hero, <span id="fr_225"></span>[3](#fn_225.md) and is the
 representative of Horus. In the Ægean area, Asia Minor
 
 <span id="page_131">p. 131</span>
 
 and Europe the antelope, gazelle or the deer, may be associated with the
-Great Mother. <span id="fr_226"></span>[1](#fn_226)
+Great Mother. <span id="fr_226"></span>[1](#fn_226.md)
 
 In India the god Soma's chariot is drawn by an antelope. I have already
 suggested that Soma is only a specialized form of the Babylonian Ea,
@@ -104,9 +104,9 @@ can be no doubt concerning the correctness of his statement that Ea was
 represented both by fish and antelope, for in the course of his
 excavations at Susa M. J. de Morgan brought to light representations of
 Ea's animal consisting of an antelope's head on the body of a
-fish. <span id="fr_227"></span>[1](#fn_227) He also makes the statement
+fish. <span id="fr_227"></span>[1](#fn_227.md) He also makes the statement
 that the ideogram of Ea, *turahu-apsu*, means "antelope of the sea". I
-have already ([p. 88](eod22.htm#page_88)) referred to the fact that this
+have already ([p. 88](eod22.htm#page_88).md) referred to the fact that this
 "antelope of the sea," the so-called "goat-fish," is identical with the
 prototype of the dragon.
 
@@ -151,7 +151,7 @@ In view of the close resemblance between the Indian god Soma and the
 Phrygian Dionysus, which has been demonstrated by Miss Gladys Davis, it
 is of interest to note that in the service of the Greek god a man was
 disguised as a stag, slain and eaten. <span
-id="fr_228"></span>[1](#fn_228)
+id="fr_228"></span>[1](#fn_228.md)
 
 Artemis also, one of the many *avatars* of the Great Mother, who was
 also related to the moon, was closely associated with the deer.
@@ -177,17 +177,17 @@ as Northern Europe.
 
 ### Footnotes
 
-<span id="fn_223"></span>[130:1](eod26.htm#fr_223) Frobenius, "The Voice
+<span id="fn_223"></span>[130:1](eod26.htm#fr_223.md) Frobenius, "The Voice
 of Africa," vol. ii., p. 467 *inter alia*.
 
-<span id="fn_224"></span>[130:2](eod26.htm#fr_224) *Op. cit.*, p. 468.
+<span id="fn_224"></span>[130:2](eod26.htm#fr_224.md) *Op. cit.*, p. 468.
 
-<span id="fn_225"></span>[130:3](eod26.htm#fr_225) J. F. Campbell, "The
+<span id="fn_225"></span>[130:3](eod26.htm#fr_225.md) J. F. Campbell, "The
 Celtic Dragon Myth," with the "Geste of Fraoch and the Dragon,"
 translated with Introduction by George Henderson, Edinburgh, 1911, p.
 136.
 
-<span id="fn_226"></span>[131:1](eod26.htm#fr_226) For example the red
+<span id="fn_226"></span>[131:1](eod26.htm#fr_226.md) For example the red
 deer occupies the place usually taken by the goddess's lions upon a
 Cretan gem (Evans, "Mycenæan Tree and Pillar Cult," Fig. 32, p. 56): on
 the bronze plate from Heddemheim (A. B. Cook, "Zeus," vol. i., pl.
@@ -195,14 +195,14 @@ xxxiv., and p. 620) Isis is represented standing on a hind: Artemis,
 another *avatar* of the same Great Mother, was intimately associated
 with deer.
 
-<span id="fn_227"></span>[132:1](eod26.htm#fr_227) J. de Morgan, article
+<span id="fn_227"></span>[132:1](eod26.htm#fr_227.md) J. de Morgan, article
 on "Koudourrous," *Mem. Del. en Perse*, t. 7, 1905. Figures on p. 143
 and p. 148: see also an earlier article on the same subject in tome i.
 of the same series.
 
-<span id="fn_228"></span>[133:1](eod26.htm#fr_228) A. B. Cook, "Zeus,"
+<span id="fn_228"></span>[133:1](eod26.htm#fr_228.md) A. B. Cook, "Zeus,"
 vol. i., p. 674.
 
 ------------------------------------------------------------------------
 
-[Next: The Ram, The Pig](eod27)
+[Next: The Ram, The Pig](eod27.md)

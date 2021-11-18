@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch27) 
-[Next](branch29) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch27.md) 
+[Next](branch29.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -219,5 +219,5 @@ goeth forth a great pace, and prayeth God guide him into safety.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XXIX](branch29)  
+XXIX](branch29.md)  
 </span>

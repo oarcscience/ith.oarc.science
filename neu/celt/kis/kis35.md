@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis34)  [Next](kis36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis34)  [Next](kis36.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ Goatskin told it follows this.--
 
 ------------------------------------------------------------------------
 
-[Next: Part XV: A Unique Tale](kis36)
+[Next: Part XV: A Unique Tale](kis36.md)

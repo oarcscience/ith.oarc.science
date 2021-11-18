@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](boo07)  [Next](boo09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](boo07)  [Next](boo09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9P0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9P0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Odes*, by L. Cranmer-Byng, \[1908\], at Intangible Textual
 Heritage
 
@@ -31,4 +31,4 @@ Death lurking at the river's bend.
 
 ------------------------------------------------------------------------
 
-[Next: The Slanderers](boo09)
+[Next: The Slanderers](boo09.md)

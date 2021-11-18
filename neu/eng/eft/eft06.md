@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft05)  [Next](eft07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft05)  [Next](eft07.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ They went a little further and they met a goat.
 So on they went, jiggelty-jolt, jiggelty-jolt.
 
 <span id="img_007"></span> [![](tn/007.jpg)  
-Click to enlarge](img/007.jpg)
+Click to enlarge](img/007.jpg.md)
 
 They went a little further and they met a bull.
 
@@ -118,4 +118,4 @@ Chuck him up to me-e!" Of course, that was the cock-a-doodle-do.
 
 ------------------------------------------------------------------------
 
-[Next: Mr Vinegar](eft07)
+[Next: Mr Vinegar](eft07.md)

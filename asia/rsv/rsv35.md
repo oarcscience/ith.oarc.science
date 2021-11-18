@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv34)  [Next](rsv36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv34)  [Next](rsv36.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ living who perpetuate it".
 
 <span id="page_82">p. 82</span>
 
-The [ancestral](errata.htm#41) veneration of Chinese culture is a link
+The [ancestral](errata.htm#41.md) veneration of Chinese culture is a link
 uniting the dead and the living members of the family. The social virtue
 of filial piety, as taught by Confucianism, is greatly esteemed and is a
 cohesive element in binding the family and clan into a unit. The living
@@ -61,4 +61,4 @@ human beings wherever found.
 
 ------------------------------------------------------------------------
 
-[Next: Ancestor Worship--Worship of Nham-Dien](rsv36)
+[Next: Ancestor Worship--Worship of Nham-Dien](rsv36.md)

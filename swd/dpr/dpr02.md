@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dpr01)  [Next](dpr03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dpr01)  [Next](dpr03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ and placed with both in view" (n. 193 (1)).
 
 ------------------------------------------------------------------------
 
-[Next: THE TRANSLATION](dpr03)
+[Next: THE TRANSLATION](dpr03.md)

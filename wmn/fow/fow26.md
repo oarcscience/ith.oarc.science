@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow25)  [Next](fow27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow25)  [Next](fow27.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ a pretty woman laughs it is certain that a purse complains."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV: Woman's Blushes](fow27)
+[Next: Chapter XXV: Woman's Blushes](fow27.md)

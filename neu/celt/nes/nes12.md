@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes11)  [Next](nes13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes11)  [Next](nes13.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE house was built of various kinds of materials, according to the
 means, and rank, and taste of the owner, and according to the supply of
@@ -158,4 +158,4 @@ been left on it, the cat in no long time sickened and died.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Evenings at the Fireside](nes13)
+[Next: Chapter X. Evenings at the Fireside](nes13.md)

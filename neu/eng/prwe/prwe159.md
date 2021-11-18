@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe158)  [Next](prwe160) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe158)  [Next](prwe160.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ Expect the dreadful day of doom."
 
 ------------------------------------------------------------------------
 
-[Next: Arthur at the Land's End](prwe160)
+[Next: Arthur at the Land's End](prwe160.md)

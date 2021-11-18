@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt24)  [Next](dmt26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt24)  [Next](dmt26.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ IV\. ON MUSLIM THEOLOGY, PHILOSOPHY AND MYSTICISM.
 ------------------------------------------------------------------------
 
 [Next: I. Books and Articles, General and Fundamental, for the Study of
-Islam](dmt26)
+Islam](dmt26.md)

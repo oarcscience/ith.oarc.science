@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp14)  [Next](esp16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp14)  [Next](esp16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -133,7 +133,7 @@ results are quite as
 
 good when witnessed as when not. The P.T. data are all witnessed,
 sometimes by the agent, when she was authorized as an assistant. [Table
-XXVII](esp15.htm#an_tab27) will give the results on these points.
+XXVII](esp15.htm#an_tab27.md) will give the results on these points.
 
 TABLE XXVII<span id="an_tab27"></span>
 
@@ -289,7 +289,7 @@ present. Her later work has, however, shown that she is getting over
 this effect; her witnessed D.T. score has shown a value for X of 3.2,
 with the best results latest. This is evidently an exaggerated case of
 the phenomenon shown regularly by Pearce with visitors and reported in
-[Table XIX](esp14.htm#an_tab19), Chapter 7. Miss Weckesser also had the
+[Table XIX](esp14.htm#an_tab19.md), Chapter 7. Miss Weckesser also had the
 same effect of witnessing on her B.T.
 
 The P.T. results bring the "witnessed" up above the "unwitnessed", if we
@@ -303,7 +303,7 @@ witness engaged cooperatively has his own attention engaged by his task,
 and consequently does not contribute so much to the percipient's
 self-consciousness and consequent inability to attend extra-sensorially.
 
-Other points of interest in [Table XXVII](esp15.htm#an_tab27) are the
+Other points of interest in [Table XXVII](esp15.htm#an_tab27.md) are the
 relatively similar averages-per-25 of the B.T. and P.T. data, in spite
 of the fact that the phenomenal scoring of Zirkle in P.T. raised that
 average considerably.
@@ -335,7 +335,7 @@ adjacent 5's. Not only is this true of the totals but, when divided into
 the two main periods in which they were run, they show the same curve in
 the relation of the serial 5's in the pack. The details can be better
 presented in the later chapters (chapters 10, 12 and 14; for these data
-see Graphs [1](esp17.htm#img_gr01) and ) summarizing the "curve data"
+see Graphs [1](esp17.htm#img_gr01) and .md) summarizing the "curve data"
 but the gross results of totals by order of 5's in the pack are as
 follows: 210, 226, 248, 230, 211. Suffice it here merely to point out
 this reversal of the thought that was already taking shape in our minds,
@@ -367,7 +367,7 @@ would not likely have so regularly differed from what she would
 naturally suppose we might be expecting.
 
 To provide a basis for further discussion and comparison, [Table
-XXVIII](esp15.htm#an_tab28) offers all the data for each subject, under
+XXVIII](esp15.htm#an_tab28.md) offers all the data for each subject, under
 the different conditions, P.T., B.T. or D.T., and witnessed or not
 witnessed, merely stating number of trials and average per 25. I exclude
 again here the 2,625 practise trials on B.T. and D.T. by Zirkle, who has
@@ -521,7 +521,7 @@ her other work has been neglected.
 
 Zirkle is the best P.T. man by far, but he has not been able to develop
 B.T. or D.T., though he has tried a great deal. Cooper has not tried
-D.T. work as yet. <span id="fr_78"></span>[1](#fn_78) He was kept
+D.T. work as yet. <span id="fr_78"></span>[1](#fn_78.md) He was kept
 concentrated on B.T. and P.T. comparison work, to be reported later.
 
 The other two subjects, Misses Bailey and Turner, are pretty well
@@ -537,14 +537,14 @@ see if,
 <span id="page_92">p. 92</span>
 
 in the future, Zirkle can qualify on B.T. <span
-id="fr_79"></span>[1](#fn_79) Such results suggest some general level, a
+id="fr_79"></span>[1](#fn_79.md) Such results suggest some general level, a
 sort of *species level* for E.S.P., which level ranges from 8 to 11
 approximately, under normally good conditions.
 
 The B.T. and P.T. comparisons justify, I think, another rearrangement of
-these data in [Table XXIX](esp15.htm#an_tab29) for the first four
+these data in [Table XXIX](esp15.htm#an_tab29.md) for the first four
 subjects, totalling and averaging the witnessed and unwitnessed data for
-the purpose. Note, however, back in [Table XXVIII](esp15.htm#an_tab28)
+the purpose. Note, however, back in [Table XXVIII](esp15.htm#an_tab28.md)
 that the witnessed B.T., which are among the latest performed and should
 be the more comparable to P.T. because made during the period of P.T.
 experiments, are, in the main, strikingly similar to them. The widest
@@ -654,7 +654,7 @@ subjects, Mr. Cooper, on both B.T. and P.T. They show, as did Mr.
 Pearce's results under similar conditions, a very general agreement as
 to direction of change from day to day. With but two exceptions, both
 B.T. and P.T. rise and fall together. See [Table
-XXX](esp15.htm#an_tab30). In one of these cases, the P.T. dropped to
+XXX](esp15.htm#an_tab30.md). In one of these cases, the P.T. dropped to
 chance because the laboratory was very hot
 
 <span id="page_93">p. 93</span>
@@ -860,7 +860,7 @@ I have noted the disturbance to scoring of sleepiness and general
 fatigue on Linzmayer and Pearce on clairvoyance, and on telepathy
 between Miss Ownbey and Zirkle. Selecting only the data from the two
 last named where I am certain, myself, of the correctness of the
-judgment, I will make a small table, [XXXI](esp15.htm#an_tab31), showing
+judgment, I will make a small table, [XXXI](esp15.htm#an_tab31.md), showing
 the results taken before and after the period of sleepiness and fatigue
 in P.T. work, with Zirkle as percipient. On the first day reported on
 here, I myself saw Zirkle, and he told me, before beginning to work,
@@ -1015,7 +1015,7 @@ average for 3,825 trials is 9.0. These fragments agree with Pearce's
 B.T. data on the point of illness. We have, too, some illness data with
 a similar bearing on the P.T. phase, obtained with Zirkle and with Miss
 Ownbey as agent. We can best state them, along with Miss Turner's few
-data, as a small table, [XXXII](esp15.htm#an_tab32). In this period of
+data, as a small table, [XXXII](esp15.htm#an_tab32.md). In this period of
 illness we have the complicating circumstance that both agent and
 percipient were indisposed. Further data, of course, will be required to
 discriminate between the relative effect upon the two. We offer these
@@ -1198,7 +1198,7 @@ going (for comfort and "covering noise" combined). The percipient sat or
 lay with eyes closed, back toward the agent's room. A distance of about
 8 to 12 feet separated the two. The key tapping was monotonously uniform
 to my ear and judgment. All the data of the table,
-[XXXIII](esp15.htm#an_tab33), are from these conditions. In brief
+[XXXIII](esp15.htm#an_tab33.md), are from these conditions. In brief
 summary, the score average per 25 dropped from 13.6 for the preceding
 runs down to 7.8 for the series of 12 runs (300 trials); this is a drop
 of 5.8 and is very significant mathematically. Like Pearce (and his B.T.
@@ -1252,13 +1252,13 @@ run 950 trials in one day and was leaving the next morning; and human
 endurance and patience ought not to be asked for more than this. Also,
 Miss Ownbey's work on this day alone deserves the highest comment. The
 agent's duty is often the more exhausting by far, as Lodge early pointed
-out. <span id="fr_80"></span>[1](#fn_80) And these data alone are highly
+out. <span id="fr_80"></span>[1](#fn_80.md) And these data alone are highly
 significant, the conditions good and suggestion ruled out by the
 disguise of the drugs. On these points of physiological changes, too,
 then, the P.T. phase of E.S.P. responds in about the same degree and in
 the same way as the B.T., and falls and rises with the degree of
 disintegration of the nervous system. The summary of the drug
-experiments with Zirkle appears in [Table XXXIII](esp15.htm#an_tab33).
+experiments with Zirkle appears in [Table XXXIII](esp15.htm#an_tab33.md).
 The percentage of drop that followed taking the amytal is computed in
 the text from the general average of 14.8 and in the table from the
 average of the preceding interval 13.6, based on 250 trials. There are
@@ -1402,7 +1402,7 @@ the other; or more interesting or more suggestive and impressive; or
 perhaps there may be many different features involved. We know that even
 in B.T. work subjects have preferences as to whom they wish present and
 that scoring is much affected by such attitudes. (See [Table
-XIX](esp14.htm#an_tab19) on effect of visitors, B.T., Pearce.) We would
+XIX](esp14.htm#an_tab19) on effect of visitors, B.T., Pearce..md) We would
 expect some such effect on P.T. also from the presence of different
 agents. One point of fact, however, in this connection is that most
 subjects do better with certain agents than with others. For example,
@@ -1412,7 +1412,7 @@ with a very much smaller positive deviation from chance average. Pearce,
 it will be remembered, did his best P.T. with young lady agents. But we
 come, in the P.T. work of Cooper, to a sharper comparison between the
 agency of two young ladies, Miss Margaret Parsons <span
-id="fr_81"></span>[1](#fn_81) and Miss Ownbey, in whom the factor of the
+id="fr_81"></span>[1](#fn_81.md) and Miss Ownbey, in whom the factor of the
 social interest of the percipient is fairly equalized but who differ in
 a very important way. Miss Ownbey has well demonstrated her E.S.P.
 ability in both the P.C. and P.T. phases. Miss Parsons has tried
@@ -1434,7 +1434,7 @@ This is only suggested, however. The fact that Stuart, with his fair
 E.S.P. ability, did better in his early trance-telepathy work than I,
 with almost no significant E.S.P. ability, did, is also in line. For a
 summary of the data on comparison of agents in the P.T. work of this
-chapter, see [Table XXXIV](esp15.htm#an_tab34).
+chapter, see [Table XXXIV](esp15.htm#an_tab34.md).
 
 <span id="page_101">p. 101</span>
 
@@ -1577,7 +1577,7 @@ by 2.1, but the number of trials are too
 <span id="page_102">p. 102</span>
 
 small for significance. These interesting but inadequate results are
-summarized in [Table XXXV](esp15.htm#an_tab35).
+summarized in [Table XXXV](esp15.htm#an_tab35.md).
 
 TABLE XXXV<span id="an_tab35"></span>
 
@@ -1699,7 +1699,7 @@ per 25</p></td>
 
 </div>
 
-Of the data in [Table XXXV](esp15.htm#an_tab35), those of Miss Ownbey
+Of the data in [Table XXXV](esp15.htm#an_tab35.md), those of Miss Ownbey
 and Mr. Zirkle alone are significant and they are clearly so. Those of
 Cooper are somewhat impressive because of the supporting fact that Miss
 Parsons shows as yet no clear E.S.P. ability. While it is dangerous to
@@ -1732,7 +1732,7 @@ one helping,
 <span id="img_10200"></span> <span align="CENTER"> [![Mr. Zirkle (left)
 doing pure telepathy seated two rooms away, 30 feet from, his back
 toward, Miss Ownbey (right), the agent, who signalled ](tn/10200.jpg)  
-Click to enlarge](img/10200.jpg)  
+Click to enlarge](img/10200.jpg.md)  
 Mr. Zirkle (left) doing pure telepathy seated two rooms away, 30 feet
 from, his back toward, Miss Ownbey (right), the agent, who signalled  
 </span>
@@ -1758,7 +1758,7 @@ not work, it probably will not. If he suggests it and believes in it, it
 has then a much better chance. Such is the general impression I have
 received and for observations that support this I refer to the effect of
 new techniques as summed up on one subject, Mr. Pearce, [Table
-XX](esp14.htm#an_tab20). Therefore, when we came to the drug experiments
+XX](esp14.htm#an_tab20.md). Therefore, when we came to the drug experiments
 with Zirkle, it was decided to keep him ignorant of the drug taken and
 of its probable effect on his record. And when we were trying first to
 separate out a possible telepathic factor by looking at the cards for
@@ -1771,7 +1771,7 @@ And it is hard for anyone to expect as good chances for success at a
 distance as in the same room. Most of our first "distance P.T." was
 handicapped, then, with an "inhibiting idea" that it would not work as
 well. It certainly did not. As will be recalled from Pearce's data
-([Table XXIV](esp14.htm#an_tab24)), significant results were had with
+([Table XXIV](esp14.htm#an_tab24).md), significant results were had with
 short distances of from 8 to 12 feet between agent and percipient; but
 with greater separation (20-30 feet) the score fell off and ran about
 chance average.
@@ -1887,7 +1887,7 @@ uselessness and ceases to obstruct the E.S.P. function; the result is
 better abstraction and "concentration".
 
 The "distance" work on P.T. is summarized in [Table
-XXXVI](esp15.htm#an_tab36), in which will be given the records of the
+XXXVI](esp15.htm#an_tab36.md), in which will be given the records of the
 four out of the five subjects of this chapter who have worked under this
 condition. First will be given their regular score average made with
 agent and percipient in the same room. Next will come separation by 8 to
@@ -1913,7 +1913,7 @@ presented under the heading "Same Room" are restricted to those obtained
 with the agents who worked on the distance tests also. This is done in
 order to afford a better basis of comparison, since results vary so much
 with different agents. We omit also the data of Zirkle during the period
-of illness. For these see [Table XXXII](esp15.htm#an_tab32).
+of illness. For these see [Table XXXII](esp15.htm#an_tab32.md).
 
 TABLE XXXVI<span id="an_tab36"></span>
 
@@ -2042,7 +2042,7 @@ per<br />
 
 The table shows the general increase in scores with distance, and this
 is more emphatically shown by totalling the distance P.T. data, as will
-be done in [Table XXXVII](esp15.htm#an_tab37) showing that in large
+be done in [Table XXXVII](esp15.htm#an_tab37.md) showing that in large
 numbers of trials distance makes a significant advance in scores. The
 difference of 1.2 in the
 
@@ -2060,7 +2060,7 @@ rapidly with the square of the distance, as all radiation intensity is
 thought to do, it actually significantly increases with distance.
 
 The P.T. totals of these five subjects have been given already in [Table
-XXVII](esp15.htm#an_tab37) but are more fully presented here as a
+XXVII](esp15.htm#an_tab37.md) but are more fully presented here as a
 background for completeness.
 
 TABLE XXXVII<span id="an_tab37"></span>
@@ -2210,24 +2210,24 @@ failures.
 
 ### Footnotes
 
-<span id="fn_78"></span>[91:1](esp15.htm#fr_78) Since the above was
+<span id="fn_78"></span>[91:1](esp15.htm#fr_78.md) Since the above was
 written Cooper has begun D.T., with some success.
 
-<span id="fn_79"></span>[92:1](esp15.htm#fr_79) Later on he did in fact
+<span id="fn_79"></span>[92:1](esp15.htm#fr_79.md) Later on he did in fact
 qualify very successfully, getting, in the 1,150 trials of the later
 series, a deviation of over 15 times the p.e., and an average of 8 per
 25, which is only .8 below his P.T. average for the same period.
 
-<span id="fn_80"></span>[98:1](esp15.htm#fr_80) Lodge, Oliver, J. D. Sc.
+<span id="fn_80"></span>[98:1](esp15.htm#fr_80.md) Lodge, Oliver, J. D. Sc.
 "An account of some experiments in thought-transference". *Proc*.
 S.P.R., 2: pp. 189-200, 1884.
 
-<span id="fn_81"></span>[100:1](esp15.htm#fr_81) Miss Parsons has since
+<span id="fn_81"></span>[100:1](esp15.htm#fr_81.md) Miss Parsons has since
 become Mrs. L. C. Apgar.
 
-<span id="fn_82"></span>[107:1](esp15.htm#fr_82) Zirkle's period of
+<span id="fn_82"></span>[107:1](esp15.htm#fr_82.md) Zirkle's period of
 illness, of course, excepted. It is included in item No. 1.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9. Elimination of Negative Hypotheses](esp16)
+[Next: Chapter 9. Elimination of Negative Hypotheses](esp16.md)

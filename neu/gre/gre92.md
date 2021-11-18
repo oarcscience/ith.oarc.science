@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre91)  [Next](gre93) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre91)  [Next](gre93.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ from him.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXXXVIII: Thorbiorn Angle goes to Norway, and thence to
-Micklegarth](gre93)
+Micklegarth](gre93.md)

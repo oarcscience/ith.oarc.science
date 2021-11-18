@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt34)  [Next](egt36) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt34)  [Next](egt36.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ that thou losest memory of all else but of Him.
 
 ------------------------------------------------------------------------
 
-[Next: ON CELEBRATING THE PRAISE OF GOD.](egt36)
+[Next: ON CELEBRATING THE PRAISE OF GOD.](egt36.md)

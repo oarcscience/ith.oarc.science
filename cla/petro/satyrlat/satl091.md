@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat13.htm#XCI)  [Previous](satl090) 
-[Next](satl092) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat13.htm#XCI)  [Previous](satl090.md) 
+[Next](satl092.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ optima fide reviviscentem amicitiam, toto pectore adstrinxi.
 
 ------------------------------------------------------------------------
 
-[Next: XCII](satl092)
+[Next: XCII](satl092.md)

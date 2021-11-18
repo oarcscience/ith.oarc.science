@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm03) 
-[Next](cdm05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm03.md) 
+[Next](cdm05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Dragon Myth*, by J.F. Campbell, \[1911\], at Intangible
 Textual Heritage
 
@@ -19,9 +19,9 @@ Textual Heritage
 
 <span id="page_18">p. 18</span>
 
-### THE DEATH OF FRAOCH <span id="fr_53"></span>[1](#fn_53)
+### THE DEATH OF FRAOCH <span id="fr_53"></span>[1](#fn_53.md)
 
-On Cluan Fraoich <span id="fr_54"></span>[2](#fn_54) a friend doth
+On Cluan Fraoich <span id="fr_54"></span>[2](#fn_54.md) a friend doth
 sigh  
 Where doth lie a warrior low  
 On his bier;  
@@ -48,7 +48,7 @@ Of Queen Mève proud heroes sought.
 
 <span id="page_19">p. 19</span>
 
-### FRAOCH <span id="fr_55"></span>[1](#fn_55)
+### FRAOCH <span id="fr_55"></span>[1](#fn_55.md)
 
 *Auctor hujus an Caoch O Cluain*
 
@@ -57,7 +57,7 @@ Of Queen Mève proud heroes sought.
    H-osnadh dheanann tuirseach fear,  
    Agus da’n guileann bean óg.
 
-2\. Aig so shear <span id="fr_56"></span>[2](#fn_56) an carp fa’n
+2\. Aig so shear <span id="fr_56"></span>[2](#fn_56.md) an carp fa’n
 bh-feil  
    Fraoch mac Fhiodhaich an fhuilt mhaoith,  
    Fear a rinn buidheachas baoibh  
@@ -71,7 +71,7 @@ bh-feil
 4\. ’Si ’n aon bhean do nidh an gul  
    Ag dol d’a fhios gu Cluan Fraoich,  
    Fionnabhair an fhuilt chais ail  
-   Inghean Mhaoidhbh <span id="fr_57"></span>[3](#fn_57) g’am biaid
+   Inghean Mhaoidhbh <span id="fr_57"></span>[3](#fn_57.md) g’am biaid
 laoich.
 
 <span id="page_20">p. 20</span>
@@ -110,7 +110,7 @@ Hunger they staved off long.
 
 <span id="page_21">p. 21</span>
 
-5\. Inghean Orla <span id="fr_58"></span>[1](#fn_58) as úr folt  
+5\. Inghean Orla <span id="fr_58"></span>[1](#fn_58.md) as úr folt  
    Is Fraoch an nochd taobh air thaobh  
    Ge mór fear dha’ dtairgeadh i  
    Nior ghrádhaich si fear ach Fraoch.
@@ -180,9 +180,9 @@ He found asleep the dragon-snake
    Gum bu fhóirinn do luchd cneidh  
    Fromhadh a mheas is e dearg.
 
-11\. Do bhi anshástacht <span id="fr_59"></span>[1](#fn_59) ’na dhéigh  
+11\. Do bhi anshástacht <span id="fr_59"></span>[1](#fn_59.md) ’na dhéigh  
    Ge ba leigh a chobhar an t-sluaigh,  
-   Péist nimh do bhi ’na bhun <span id="fr_60"></span>[2](#fn_60)  
+   Péist nimh do bhi ’na bhun <span id="fr_60"></span>[2](#fn_60.md)  
    Bhacadh dha cách dhul d’a bhuain.
 
 12\. Léan easlainte throm throm  
@@ -251,7 +251,7 @@ Fraoch seized the monster by the jaw,
 
 18\. Togras Fraoch, ’s nior ghille tiom,  
    Shnámh a rís air an linn bhuig  
-   Is nior fheud \[ne\]ach <span id="fr_61"></span>[1](#fn_61) ge mór
+   Is nior fheud \[ne\]ach <span id="fr_61"></span>[1](#fn_61.md) ge mór
 ágh  
    Theachd o’n bhás an robh a chuid.
 
@@ -313,7 +313,7 @@ For ever is it hight Loch Mève,
 
 24\. Éir’eas an nighean o’n tamh,  
    Gabhas an lamh, ba lamh bhog;  
-   Ge ta so ’na cuid nan eun <span id="fr_62"></span>[1](#fn_62)  
+   Ge ta so ’na cuid nan eun <span id="fr_62"></span>[1](#fn_62.md)  
    Is mór an t-euchd a rinn a bhos.
 
 25\. O’n bhás sin do fhuair am fear  
@@ -376,7 +376,7 @@ Than rowans ripe his lips more red,
    Gile na an sneachd cneas Fhraoich.
 
 30\. Caise na an caisean ’fholt  
-   Guirme a rosg na eidhr’-leac <span id="fr_63"></span>[1](#fn_63)  
+   Guirme a rosg na eidhr’-leac <span id="fr_63"></span>[1](#fn_63.md)  
    Deirge na partan a bheul  
    Gile a dheud na bláith feith.
 
@@ -420,7 +420,7 @@ Alas and alas! through a monster's hold
 
 ### Footnotes
 
-<span id="fn_53"></span>[18:1](cdm04.htm#fr_53) Retold after the Book of
+<span id="fn_53"></span>[18:1](cdm04.htm#fr_53.md) Retold after the Book of
 the Dean of Lismore, a sixteenth century text. The tale might be
 entitled: The Tree of Life in Gadhelic Legend. Its teaching might be
 summarised: Thou shalt not break off the branches from the Tree of Life,
@@ -428,37 +428,37 @@ nor attempt to uproot it; in the day that thou disturbest it thou shalt
 surely die. Its guardian is the serpent, the Dragon-Snake (the Mother of
 Mankind possibly thus typified).
 
-<span id="fn_54"></span>[18:2](cdm04.htm#fr_54) Fraoch's mead, *i.e.*
+<span id="fn_54"></span>[18:2](cdm04.htm#fr_54.md) Fraoch's mead, *i.e.*
 
-<span id="fn_55"></span>[19:1](cdm04.htm#fr_55) From the Book of the
+<span id="fn_55"></span>[19:1](cdm04.htm#fr_55.md) From the Book of the
 Dean of Lismore after Dr Cameron's transcription and transliteration in
 *Reliquiæ Celticæ* (i. 63). His transliteration is in several places
 corrected; mac Fhiodhaich is dialectal for mac Fhiodhaidh, mac Idhaidh,
 old nominative Idad.
 
-<span id="fn_56"></span>[19:2](cdm04.htm#fr_56) Shiar?
+<span id="fn_56"></span>[19:2](cdm04.htm#fr_56.md) Shiar?
 
-<span id="fn_57"></span>[19:3](cdm04.htm#fr_57) *Recte* Maoidhbh.
+<span id="fn_57"></span>[19:3](cdm04.htm#fr_57.md) *Recte* Maoidhbh.
 
-<span id="fn_58"></span>[21:1](cdm04.htm#fr_58) *Recte* Ailell’.
+<span id="fn_58"></span>[21:1](cdm04.htm#fr_58.md) *Recte* Ailell’.
 
-<span id="fn_59"></span>[23:1](cdm04.htm#fr_59) Amsy = aimiseachd;
+<span id="fn_59"></span>[23:1](cdm04.htm#fr_59.md) Amsy = aimiseachd;
 aimsiughadh, "temptation": fascination? ’N aimcheist mhór a bha na
 dhiaidh (*Gillies; MacLagan*).
 
-<span id="fn_60"></span>[23:2](cdm04.htm#fr_60) A’ Bheithir gharg is
+<span id="fn_60"></span>[23:2](cdm04.htm#fr_60.md) A’ Bheithir gharg is
 miosa nimh (Cameron's *Reliq. Celt.*, i., p. 225).
 
-<span id="fn_61"></span>[25:1](cdm04.htm#fr_61) or, ach = howsoever.
+<span id="fn_61"></span>[25:1](cdm04.htm#fr_61.md) or, ach = howsoever.
 
-<span id="fn_62"></span>[27:1](cdm04.htm#fr_62) na chodaibh éun
+<span id="fn_62"></span>[27:1](cdm04.htm#fr_62.md) na chodaibh éun
 (traditional variant).
 
-<span id="fn_63"></span>[29:1](cdm04.htm#fr_63) Yr’ lak (Dean of
+<span id="fn_63"></span>[29:1](cdm04.htm#fr_63.md) Yr’ lak (Dean of
 Lismore’s spelling). A plant is apparently meant as in the other lines:
 *feith* "woodbine, honeysuckle (Hogan’s Luibhleabhrán): *partan*, "berry
 of the mountain ash" (*ib*., p. 60).
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](cdm05)
+[Next: Introduction](cdm05.md)

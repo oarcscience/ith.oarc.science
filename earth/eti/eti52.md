@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti51)  [Next](eti53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti51)  [Next](eti53.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -162,7 +162,7 @@ remember the history of Hiram Abiff?"
 <span id="img_31300"></span> <span align="CENTER"> [![I DREW BACK THE
 BAR OF IRON TO SMITE THE APPARENTLY DEFENSELESS BEING IN THE
 FOREHEAD.](tn/31300.jpg)  
-Click to enlarge](img/31300.jpg)  
+Click to enlarge](img/31300.jpg.md)  
 “I DREW BACK THE BAR OF IRON TO SMITE THE APPARENTLY DEFENSELESS BEING
 IN THE FOREHEAD.”  
 </span>
@@ -288,4 +288,4 @@ into its depths.
 ------------------------------------------------------------------------
 
 [Next: Chapter XLVI. The Inner Circle, or the End of Gravitation.—In the
-Bottomless Gulf](eti53)
+Bottomless Gulf](eti53.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv35)  [Next](ogv37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv35)  [Next](ogv37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Drawn on by my subject, I have forgotten to say that, according to
 Porphyry, there is lacking in the Golden Verses as given by Hierocles,
 two lines which ought to be placed immediately before those which open
 the unitive part of the doctrine of Pythagoras called *perfection;*
-these are <span id="fr_551"></span>[a](#fn_550):
+these are <span id="fr_551"></span>[a](#fn_550.md):
 
 Πρῶτα μὲν ἐξ ὔπνοιο μελίφρονος ἐξ ὑπανίσας,  
 Ἐν μάλα ποιπνευέιν ὅσ᾽ ἐν ἥμαγι ἕργα τελέσσεις.
@@ -111,14 +111,14 @@ spirit. The unknown principles of this first Ternary are what Plato
 calls the *same*, and the *other*, the *indivisible* and the
 *divisible*. The indivisible principle gives the spirit; the divisible
 the body; and the soul has birth from this last principle elaborated by
-the first. <span id="fr_552"></span>[a](#fn_551) Such was the doctrine
+the first. <span id="fr_552"></span>[a](#fn_551.md) Such was the doctrine
 of Pythagoras which was borrowed by Plato. It had been that of the
 Egyptians, as can be seen in the works which remain to us under the name
 of Hermes. Synesius, who had been initiated into their mysteries, said
 particularly, that human souls emanated from two sources: the one
 luminous, which flows from heaven on high; the other tenebrous, which
 springs from the earth in the abysmal depths of which it finds its
-origin. <span id="fr_553"></span>[b](#fn_552) The early Christians,
+origin. <span id="fr_553"></span>[b](#fn_552.md) The early Christians,
 faithful to theosophical tradition, followed the same teaching; they
 established a great difference between the spirit and the soul. They
 considered the soul as an issue of the material principle,
@@ -128,10 +128,10 @@ considered the soul as an issue of the material principle,
 and in consequence being neither enlightened nor virtuous in itself. The
 spirit, said Basil, is a gift of God: it is the soul of the soul, as it
 were; it is united to the soul; it enlightens it, it rescues it from
-earth and raises it to heaven. <span id="fr_554"></span>[a](#fn_553)
+earth and raises it to heaven. <span id="fr_554"></span>[a](#fn_553.md)
 Beausobre, who relates these words, observes that this sentiment was
 common to several Fathers of the primitive church, particularly to
-Tatian. <span id="fr_555"></span>[b](#fn_554)
+Tatian. <span id="fr_555"></span>[b](#fn_554.md)
 
 I have spoken often of this first Ternary, and even of the triple
 faculties which are attached to each of its modifications; but as I have
@@ -206,7 +206,7 @@ creates intellectual men. Its perfect harmony in the primordial Ternary,
 and its action more or less energetic in the uniformity of their
 faculties, equally developed, constitute the extraordinary men endowed
 with sublime genius; but the men of this fourth class which represents
-the autopsy of the mysteries, <span id="fr_556"></span>[a](#fn_555) are
+the autopsy of the mysteries, <span id="fr_556"></span>[a](#fn_555.md) are
 extremely rare. Often it suffices for a powerful will, acting either in
 the understanding or in the intelligence and concentrating wholly there,
 to astonish men by the strength of reasoning and outbursts of wisdom,
@@ -245,24 +245,24 @@ the motive which has put the pen in my hand.
 
 ### Footnotes
 
-<span id="fn_550"></span>[227:a](ogv36.htm#fr_551) Porphyr., *Vitâ
+<span id="fn_550"></span>[227:a](ogv36.htm#fr_551.md) Porphyr., *Vitâ
 Pythag.*
 
-<span id="fn_551"></span>[229:a](ogv36.htm#fr_552) Plato, *ut suprà*.
+<span id="fn_551"></span>[229:a](ogv36.htm#fr_552.md) Plato, *ut suprà*.
 
-<span id="fn_552"></span>[229:b](ogv36.htm#fr_553) Synes., *De
+<span id="fn_552"></span>[229:b](ogv36.htm#fr_553.md) Synes., *De
 Provident.*, c. 5.
 
-<span id="fn_553"></span>[230:a](ogv36.htm#fr_554) Beausobre, *Hist. du
+<span id="fn_553"></span>[230:a](ogv36.htm#fr_554.md) Beausobre, *Hist. du
 Manich.*, t. ii., p. 33.
 
-<span id="fn_554"></span>[230:b](ogv36.htm#fr_555) Tatian, *Orat. contr.
+<span id="fn_554"></span>[230:b](ogv36.htm#fr_555.md) Tatian, *Orat. contr.
 Cræc.*, p. 152.
 
-<span id="fn_555"></span>[232:a](ogv36.htm#fr_556) Plato, *In Gorgia;*
+<span id="fn_555"></span>[232:a](ogv36.htm#fr_556.md) Plato, *In Gorgia;*
 ibid., *In Phæd.*; ibid., *De Rep.*, l. vii.; August., *De Civit. Dei*,
 l. iii., c. 1, et l. x., c. 29.
 
 ------------------------------------------------------------------------
 
-[Next: 26. Invoke these Gods with fervour](ogv37)
+[Next: 26. Invoke these Gods with fervour](ogv37.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Esoteric](../../index) 
-[Eliphas Levi](../index)  [Index](index)  [Previous](phs04) 
-[Next](phs06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Esoteric](../../index.md) 
+[Eliphas Levi](../index)  [Index](index)  [Previous](phs04.md) 
+[Next](phs06.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ Scriptures.
 *Ye shall know the truth, and the truth shall make you free*, said Jesus
 Christ. We should escape from the bondage of the letter to the liberty
 of the spirit, said the great Apostle. <span
-id="fr_13"></span>[1](#fn_13) Also he says, you have been
+id="fr_13"></span>[1](#fn_13.md) Also he says, you have been
 
 <span id="page_17">p. 17</span>
 
@@ -37,7 +37,7 @@ It is a question of being or not being. The free man is alone a man;
 slaves are but animals or children.
 
 St. Augustine sums up the whole law in this fine saying: "Love, and do
-what you like." <span id="fr_14"></span>[1](#fn_14)
+what you like." <span id="fr_14"></span>[1](#fn_14.md)
 
 The free man can wish nothing but what is good, for all wicked men are
 slaves.
@@ -119,7 +119,7 @@ obligations which society and nature emulate each other in imposing on
 him. Truth and justice are austere mistresses, and Love is a despot,
 often cruel. For him who is not rich come the necessities of existence;
 there is no alternative between the yoke of labour and the work
-pillar <span id="fr_15"></span>[1](#fn_15) of misery. Those who are
+pillar <span id="fr_15"></span>[1](#fn_15.md) of misery. Those who are
 called the masters and the happy ones of the world have other enemies
 and other chains; so true is this that Alexander the Great almost envied
 the cynical half madness and indifference of Diogenes; but Diogenes and
@@ -148,9 +148,9 @@ madness, is not merely a right, but a duty.
 It is true that the Church, whose decisions in matters of Faith ought to
 be respected by all Catholics, approves perpetual vows; but this is
 solely when they are the result of a supernatural grace. <span
-id="fr_16"></span>[1](#fn_16) Such vows are void before nature, but in
+id="fr_16"></span>[1](#fn_16.md) Such vows are void before nature, but in
 the supernatural order they are sacred and inviolable. <span
-id="fr_17"></span>[2](#fn_17)
+id="fr_17"></span>[2](#fn_17.md)
 
 Marriage also is a perpetual engagement that nature does not always
 ratify. Thence follow alike the just but useless severities of morality
@@ -158,7 +158,7 @@ and the deterioration of manners. Thence follow in perpetual contrast
 the tears and blood of the conjugal tragedy, and the inexhaustible
 merriment of tales and comedy. Moses is terrible when he descends from
 Mount Sinai with horns; but why had be horns? Because he was a married
-man, <span id="fr_18"></span>[3](#fn_18) will perhaps reply some
+man, <span id="fr_18"></span>[3](#fn_18.md) will perhaps reply some
 unblushing
 
 <span id="page_23">p. 23</span>
@@ -168,7 +168,7 @@ forty nights from the conjugal couch! The old joke spares nothing.
 
 The two greatest free-thinkers the world has known were Rabelais and
 Lafontaine, those two past Masters in wit and humour. <span
-id="fr_19"></span>[1](#fn_19) Both of them, moreover, good Catholics and
+id="fr_19"></span>[1](#fn_19.md) Both of them, moreover, good Catholics and
 free from any suspicion of heresy. Rabelais had taken religious vows and
 had the cleverness to make himself tolerated by the Pope. Lafontaine was
 married, and did not live with his wife; but what magicians of. style!
@@ -186,12 +186,12 @@ the Decalogue.
 <span id="page_24">p. 24</span>
 
 Thou shalt worship one God only, and him only shalt thou obey. <span
-id="fr_20"></span>[1](#fn_20)
+id="fr_20"></span>[1](#fn_20.md)
 
 And Jesus amplifying this precept, to the point of giving his
 explanation a paradoxical character, did not hesitate to add: You shall
 call no one in this world master or father; one only is your father,
-your master, and that is God. <span id="fr_21"></span>[2](#fn_21)
+your master, and that is God. <span id="fr_21"></span>[2](#fn_21.md)
 
 And St. John, the intimate confidant of the thoughts of Jesus, tells us
 that God is the Word, or Reason, "and the Word was God."
@@ -203,7 +203,7 @@ For the Word, adds St. John, "was the true Light which lighteth every
 man that cometh into the world."
 
 Jesus Christ said of himself: I am the principle that speaks. <span
-id="fr_22"></span>[3](#fn_22)
+id="fr_22"></span>[3](#fn_22.md)
 
 And every man who speaks in accordance with Reason can say, "I am
 Reason." And one ought to do and avoid what it prescribes, for the Will
@@ -219,8 +219,8 @@ Duty crushes him who seeks to avoid it, but bears onward with love him
 who accomplishes it.
 
 To will what we ought, that is to will what God <span
-id="fr_23"></span>[1](#fn_23) wills. And when the will of man is the
-same as the divine will, <span id="fr_24"></span>[2](#fn_24) it becomes
+id="fr_23"></span>[1](#fn_23.md) wills. And when the will of man is the
+same as the divine will, <span id="fr_24"></span>[2](#fn_24.md) it becomes
 omnipotent.
 
 Then it is that the miracles of Faith are accomplished; then may we
@@ -308,7 +308,7 @@ seized one, saying to him, "Worship my slipper, or I burn you!"
 
 If the man who fell into their claws was cunning, he made believe to
 worship the slipper, and perhaps in so doing was neither a hypocrite nor
-an idolater, <span id="fr_25"></span>[1](#fn_25) but *their* victim is a
+an idolater, <span id="fr_25"></span>[1](#fn_25.md) but *their* victim is a
 guileless fellow, who takes the thing, in sad earnest, resists them, and
 becomes a Martyr!
 
@@ -349,7 +349,7 @@ Temple, and the sellers deserve to be driven thence with blows of
 scourges; their shops should be overthrown, their money trampled under
 foot. This is all that the Legend (or if you will the Holy Evangel) of
 the sellers driven from the Temple signifies; here I bow and hold my
-peace. <span id="fr_26"></span>[1](#fn_26)
+peace. <span id="fr_26"></span>[1](#fn_26.md)
 
 All is beautiful in our Religion when one knows how to understand it.
 All our Religion is true, and I would even dare to say that every
@@ -366,7 +366,7 @@ in order to conquer and to reign by it.
 Voltaire did not desire to destroy Religion, but he wished to reduce it
 to a pure Deism. His motto was: "*God and Liberty*." He, who fancied
 himself a Poet, and yet understood nothing of the great Epic Poem of the
-Symbols, which starts from blind <span id="fr_27"></span>[2](#fn_27)
+Symbols, which starts from blind <span id="fr_27"></span>[2](#fn_27.md)
 Forces to
 
 <span id="page_30">p. 30</span>
@@ -406,7 +406,7 @@ gratitude the help and care of an infidel? What must his judgment be on
 those Inquisitors who have imprisoned, tortured, and burnt God alive?
 But the God of these men was the Devil, and their Religion was that of
 Anti-Christ. Man has no right to kill man, except in self-defence. <span
-id="fr_28"></span>[1](#fn_28) The execution of a criminal is a
+id="fr_28"></span>[1](#fn_28.md) The execution of a criminal is a
 misfortune of war in a Society which is
 
 <span id="page_32">p. 32</span>
@@ -421,7 +421,7 @@ the Christian Revelation.
 
 *Let its seek God in Nature, let us worship Him in Spirit and in Truth,
 let us love and serve Him in Humanity. That is Religion, eternal and
-definitive*. <span id="fr_29"></span>[1](#fn_29)
+definitive*. <span id="fr_29"></span>[1](#fn_29.md)
 
 And when the chief of the Human Family have entered on this path, we
 shall be able to say with Voltaire: "God is Liberty," *for man will
@@ -431,7 +431,7 @@ understand God, and will deserve to be free*.
 
 ### Footnotes
 
-<span id="fn_13"></span>[16:1](phs05.htm#fr_13) The Deity is semi-male
+<span id="fn_13"></span>[16:1](phs05.htm#fr_13.md) The Deity is semi-male
 (? Hermaphrodite.--*Trans*.) in the Hebrew philosophy. The body of man
 is the vehicle of the three pairs of spouses, viz., the 2nd and 3rd, the
 4th and 5th, and the 6th and 7th principles.
@@ -484,63 +484,63 @@ Day."--Sophocles, *Antigone*.--E. O.
 \(a\) Alexander Jannæus is generally reckoned as reigning from 106 or
 104 B.C. to 79 B.C.--*Trans*.
 
-<span id="fn_14"></span>[18:1](phs05.htm#fr_14) But adds in so many
+<span id="fn_14"></span>[18:1](phs05.htm#fr_14.md) But adds in so many
 words: "Provided that you do nothing contrary to the commandments of the
 Church."--E. O.
 
-<span id="fn_15"></span>[21:1](phs05.htm#fr_15) "*Ergastule*." I never
+<span id="fn_15"></span>[21:1](phs05.htm#fr_15.md) "*Ergastule*." I never
 before met the word in French, but I take it to be derived from
 *ergastylos*, the pillar to which a recusant slave was chained to work;
 also the beams to which slaves in galleys were chained to row.--*Trans*.
 
-<span id="fn_16"></span>[22:1](phs05.htm#fr_16) Or of a determined
+<span id="fn_16"></span>[22:1](phs05.htm#fr_16.md) Or of a determined
 desire to obtain a supernatural power. To command nature it is necessary
 to be positive. She has no obedience for mixed magnetisms.--E. O.
 
-<span id="fn_17"></span>[22:2](phs05.htm#fr_17) True.--E. O.
+<span id="fn_17"></span>[22:2](phs05.htm#fr_17.md) True.--E. O.
 
-<span id="fn_18"></span>[22:3](phs05.htm#fr_18) Behold a Frenchman!
+<span id="fn_18"></span>[22:3](phs05.htm#fr_18.md) Behold a Frenchman!
 cynical and witty, even in the midst of the arduous discussion of
 esoteric <span id="page_23">p. 23</span> philosophy. France has had
 several renowned Alchemists, she never had *one true Adept*.--E. O.
 
-<span id="fn_19"></span>[23:1](phs05.htm#fr_19) It is impossible to
+<span id="fn_19"></span>[23:1](phs05.htm#fr_19.md) It is impossible to
 translate adequately the original word "gauloiserie," with its double
 meaning and wide reaching significations. It is what Humpty Dumpty would
 have called a "portmanteau word".--*Trans*.
 
-<span id="fn_20"></span>[24:1](phs05.htm#fr_20) In the Massoretic
+<span id="fn_20"></span>[24:1](phs05.htm#fr_20.md) In the Massoretic
 Kabala, the *points* read: "One God, only--the TRUTH,--and her only
 shalt thou obey." Having so much of the Jesuit in him. E. L. could never
 become an adept.--E. O.
 
-<span id="fn_21"></span>[24:2](phs05.htm#fr_21) God, or *Good*.--E. O.
+<span id="fn_21"></span>[24:2](phs05.htm#fr_21.md) God, or *Good*.--E. O.
 
-<span id="fn_22"></span>[24:3](phs05.htm#fr_22) In this and many other
+<span id="fn_22"></span>[24:3](phs05.htm#fr_22.md) In this and many other
 cases, the wording of the authorised English version differs. But the
 sense is generally the same.--*Trans*.
 
-<span id="fn_23"></span>[25:1](phs05.htm#fr_23) Or what Truth and Duty
+<span id="fn_23"></span>[25:1](phs05.htm#fr_23.md) Or what Truth and Duty
 will.--E. O.
 
-<span id="fn_24"></span>[25:2](phs05.htm#fr_24) Will--the Ākāsic
+<span id="fn_24"></span>[25:2](phs05.htm#fr_24.md) Will--the Ākāsic
 Force.--E. O.
 
-<span id="fn_25"></span>[27:1](phs05.htm#fr_25) Only a worthy son of
+<span id="fn_25"></span>[27:1](phs05.htm#fr_25.md) Only a worthy son of
 Loyola!--E. O.
 
-<span id="fn_26"></span>[29:1](phs05.htm#fr_26) Instead of canonising,
+<span id="fn_26"></span>[29:1](phs05.htm#fr_26.md) Instead of canonising,
 the Church of Rome unfrocked and persecuted to his death poor Éliphas,
 the Abbé Louis Constant. "It is dangerous to leave things half undone,"
 confessed the man when dying.--E. O.
 
-<span id="fn_27"></span>[29:2](phs05.htm#fr_27) In the original "*forces
+<span id="fn_27"></span>[29:2](phs05.htm#fr_27.md) In the original "*forces
 fatales*," by which I take it he means not merely "fatal forces," but
 the blind, <span id="page_30">p. 30</span> unintelligent forces of the
 universe, that work on, slaves to the inherent laws of their being, and
 irresistible tyrants to all who have not pierced their secret.--*Trans*.
 
-<span id="fn_28"></span>[31:1](phs05.htm#fr_28) And not even then, for
+<span id="fn_28"></span>[31:1](phs05.htm#fr_28.md) And not even then, for
 where would be the difference between the two?--E. O.
 
 The difference would be that the one seeks to kill, in violation of his
@@ -555,9 +555,9 @@ suicide unconditionally, and rightly so, but to allow a man to kill you,
 when you can prevent this by killing him, is, it seems to me, suicide to
 all intents and purposes.--*Trans*.
 
-<span id="fn_29"></span>[32:1](phs05.htm#fr_29) Only whatever we do let
+<span id="fn_29"></span>[32:1](phs05.htm#fr_29.md) Only whatever we do let
 us call things by their right names, "*Pas de demi-inconnues*."--E. O.
 
 ------------------------------------------------------------------------
 
-[Next: Paradox III.--Love is the Realisation of the Impossible](phs06)
+[Next: Paradox III.--Love is the Realisation of the Impossible](phs06.md)

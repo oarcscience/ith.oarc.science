@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov02)  [Next](hlov04) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov02)  [Next](hlov04.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ Pacific" over which the Hawaiian Islands are situated.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction: The Hawaiian Islands](hlov04)
+[Next: Introduction: The Hawaiian Islands](hlov04.md)

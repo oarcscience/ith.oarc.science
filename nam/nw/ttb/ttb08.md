@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb07)  [Next](ttb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb07)  [Next](ttb09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_20">p. 20</span>
 
-<span id="img_02000"></span> ![The Thunder Bird](img/02000.jpg)
+<span id="img_02000"></span> ![The Thunder Bird](img/02000.jpg.md)
 
 ### THE THUNDER BIRD
 
@@ -24,7 +24,7 @@ believe that the Thunder Bird is a powerful god, under whose protection
 come brotherhood, peace plenty and goodwill. He is the **Sagalie Tyee**
 (Creator God), and when he flaps his wings and blinks his eyes it rains
 and the storm rages; thus the evil spirits are driven to the
-[lonely](errata.htm#13), high, mountain ranges.
+[lonely](errata.htm#13.md), high, mountain ranges.
 
 Keep this emblem always and you will be under the protection of the
 Thunder Bird wherever you may be. It will bring you the best that life
@@ -71,8 +71,8 @@ conduct at all times.
 
 Follow the rules and spread glory and reputation of the Raven Clan.
 
-<span id="img_02100"></span> ![The Raven](img/02100.jpg)
+<span id="img_02100"></span> ![The Raven](img/02100.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Eena, The Beaver](ttb09)
+[Next: Eena, The Beaver](ttb09.md)

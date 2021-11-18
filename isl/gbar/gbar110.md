@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar109) [Next](gbar111)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar109) [Next](gbar111.md)
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ another.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar111)
+[Next](gbar111.md)

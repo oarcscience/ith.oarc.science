@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat10)  [Next](flat12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat10)  [Next](flat12.md) 
 
 ------------------------------------------------------------------------
 
@@ -182,4 +182,4 @@ Are melted into air - into thin air."
 
 ------------------------------------------------------------------------
 
-[Next: The Haunted Cellar](flat12)
+[Next: The Haunted Cellar](flat12.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](itb02) [Next](itb04)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](itb02) [Next](itb04.md)
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ mists, molded them together and made the earth. That is why the earth
 has various colored streaks running through it. Here is a song the gods
 sang when they were thinking of making the world and all of its parts:
 
-### *Good Way Song<span id="page_11_fr_1"></span>[1](#page_11_note_1)*
+### *Good Way Song<span id="page_11_fr_1"></span>[1](#page_11_note_1.md)*
 
 <table data-align="center">
 <colgroup>
@@ -3233,7 +3233,7 @@ everything from him.
 
 ------------------------------------------------------------------------
 
-[Next](itb04)
+[Next](itb04.md)
 
 ------------------------------------------------------------------------
 
@@ -3241,7 +3241,7 @@ everything from him.
 
 <span id="footnotes_page_11">p. 11</span>
 
-<span id="page_11_note_1"></span>[1](#page_11_fr_1) In the field I
+<span id="page_11_note_1"></span>[1](#page_11_fr_1.md) In the field I
 recorded some thirteen songs which described the creation and actions
 that took place afterwards. The above song and the Second Good Way Song,
 The Sweat House Song, the Pre-Natal Song, the Post-Natal Song, and the
@@ -3250,7 +3250,7 @@ Goldtooth. The others were translated by Keith and Herbert Goldtooth.
 
 <span id="footnotes_page_12">p. 12</span>
 
-<span id="page_12_note_2"></span>[2](#page_12_fr_2) The final important
+<span id="page_12_note_2"></span>[2](#page_12_fr_2.md) The final important
 explanation of two seemingly contradictory and conflicting definitions
 of są’ah na·γái and bik’exózó·n took place at four a.m. on the western
 part of the reservation in May of 1952. Four Navaho and I were crowded
@@ -3276,7 +3276,7 @@ good forever and that all goodness comes from it. The Sun, Sun Rays,
 He-Who-Raises, and Pollen Boy all stand together for they could not
 exist individually without the others.
 
-<span id="page_12_note_3"></span>[3](#page_12_fr_3) This line is
+<span id="page_12_note_3"></span>[3](#page_12_fr_3.md) This line is
 supposed to be used after each Immortal and Happiness. This, however,
 depends upon the length of time you have to sing the song. If you wanted
 to get through the song in a hurry, you could use the one verse at the
@@ -3285,7 +3285,7 @@ all can be added.
 
 <span id="footnotes_page_44">p. 44</span>
 
-<span id="page_44_note_1"></span>[1](#page_44_fr_1) This word, są’ah
+<span id="page_44_note_1"></span>[1](#page_44_fr_1.md) This word, są’ah
 na·γoa bénaxózí·d, is closely akin to the word for immortal. This one,
 however, has fear attached to its meaning for this is a fear that a
 witch can kill you. In immortal there is the meaning that you will live

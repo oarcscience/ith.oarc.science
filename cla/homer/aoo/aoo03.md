@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo02)  [Next](aoo04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo02)  [Next](aoo04.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ Sparta.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](aoo04)
+[Next: Chapter IV](aoo04.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](daa00)  [Next](daa02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](daa00)  [Next](daa02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766106071/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766106071/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Diwan of Abu'l-Ala*, by Henry Baerlein, \[1909\], at Intangible
 Textual Heritage
 
@@ -98,4 +98,4 @@ H. B.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](daa02)
+[Next: Table of Contents](daa02.md)

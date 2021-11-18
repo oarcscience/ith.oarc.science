@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks11)  [Next](lks13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks11)  [Next](lks13.md) 
 
 ------------------------------------------------------------------------
 
 ### THE MAGIC RING OR DISC OF SOLOMON
 
-<span id="img_fig157"></span> [![](tn/generic.jpg)](img/fig157.jpg)
+<span id="img_fig157"></span> [![](tn/generic.jpg)](img/fig157.jpg.md)
 
 THIS is the Form of the Magic Ring, or rather Disc, of Solomon, the
 figure whereof is to be made in gold or silver. It is to be held before
@@ -17,4 +17,4 @@ fumes and flaming breath of the Evil Spirits.
 
 ------------------------------------------------------------------------
 
-[Next: The Vessel Of Brass](lks13)
+[Next: The Vessel Of Brass](lks13.md)

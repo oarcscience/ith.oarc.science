@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](gope18)  [Next](gope20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](gope18)  [Next](gope20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SXVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SXVG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gods of Pegana*, by Lord Dunsany, \[1905\], at Intangible Textual
 Heritage
 
@@ -131,6 +131,6 @@ be no more.
 
 ------------------------------------------------------------------------
 
-[Next: Yonath the Prophet](gope20)
+[Next: Yonath the Prophet](gope20.md)
 
 </div>

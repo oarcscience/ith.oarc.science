@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw28)  [Next](tfgw30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw28)  [Next](tfgw30.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ Legends](../../index)  [Celtic](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: John Cokeley and the Fairy](tfgw30)
+[Next: John Cokeley and the Fairy](tfgw30.md)

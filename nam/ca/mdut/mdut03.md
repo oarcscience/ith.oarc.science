@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut02)  [Next](mdut04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut02)  [Next](mdut04.md) 
 
 ------------------------------------------------------------------------
 
@@ -305,4 +305,4 @@ as he went. That is all, they say.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Creation Myth.--Part II](mdut04)
+[Next: 2. Creation Myth.--Part II](mdut04.md)

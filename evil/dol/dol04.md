@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](dol03)  [Next](dol05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](dol03)  [Next](dol05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Devils of Loudun*, by Edmund Goldsmid, \[1887\], at Intangible
 Textual Heritage
 
@@ -192,7 +192,7 @@ tears except the prisoner. M. de Laubardemont also spoke to him,
 together with the Lieutenant Criminel of Orleans, but, notwithstanding
 their efforts, they made no impression. This determined M. de
 Laubardemont to try the effects of torture. The boots <span
-id="fr_25"></span>[\*](#fn_25) were applied, and the judge
+id="fr_25"></span>[\*](#fn_25.md) were applied, and the judge
 
 <span id="page_v3_13">p. 13</span>
 
@@ -269,7 +269,7 @@ lighted, either because he expected not to feel it, or because he feared
 he might be weak enough to name his accomplices; or perhaps, as is
 believed, in fear lest pain should extract from him a renunciation of
 his master Lucifer. For the devil, to whom magicians give themselves
-body and soul, so [thoroughly](errata.htm#14) masters their mind that
+body and soul, so [thoroughly](errata.htm#14.md) masters their mind that
 they fear him only, and expect and hope for nothing save from him.
 Therefore did Grandier protest, placing his hand on his heart that he
 would say no more than he had already said. At last, seeing them set
@@ -309,7 +309,7 @@ of those who had been connected with the affair should be more or less
 vexed by demons. The Civil Lieutenant, Louis Chauvet, was seized with
 such fear-that his mind gave way, and he never recovered. The Sieur
 Mannouri, the Surgeon who had sounded the marks <span
-id="fr_26"></span>[\*](#fn_26) which the devil had
+id="fr_26"></span>[\*](#fn_26.md) which the devil had
 
 <span id="page_v3_19">p. 19</span>
 
@@ -497,7 +497,7 @@ such a series of feigned possessions.
 
 ### Footnotes
 
-<span id="fn_25"></span>[v3\_12:\*](dol04.htm#fr_25) Boot or Bootikin,
+<span id="fn_25"></span>[v3\_12:\*](dol04.htm#fr_25.md) Boot or Bootikin,
 an instrument of judicial torture <span id="page_13">p. 13</span>
 formerly used as a means of extorting confessions or evidence. It was
 originally brought from Russia, and consisted of a narrow wooden box
@@ -517,7 +517,7 @@ severity. It is believed that all judicial torture had been given up in
 England about fifty years previous to this, and it was finally abolished
 by 7 Anne, c. 20.
 
-<span id="fn_26"></span>[v3\_18:\*](dol04.htm#fr_26) "There have been
+<span id="fn_26"></span>[v3\_18:\*](dol04.htm#fr_26.md) "There have been
 many found in whom such characters have concurred, as by the observation
 of all ages and nations, are symptoms of a witch; particularly the
 witch's marks, mala fame, inability to shed tears, etc., all of them
@@ -564,4 +564,4 @@ eyes only being covered.")
 
 ------------------------------------------------------------------------
 
-[Next: Appendix I](dol05)
+[Next: Appendix I](dol05.md)

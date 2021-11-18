@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](bus05)  [Next](bus07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](bus05)  [Next](bus07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Bustan of Sadi*, tr. by A. Hart Edwards, \[1911\], at Intangible
 Textual Heritage
 
@@ -48,7 +48,7 @@ that supplicate thee.
 
 A woman said to her husband: "Do not again buy bread from the baker in
 this street. Make thy purchases in the market, for this man shows wheat
-and sells barley, [12](bus15.htm#an_12) and he has no customers but a
+and sells barley, [12](bus15.htm#an_12.md) and he has no customers but a
 swarm of flies."
 
 "O light of my life," the husband answered, "pay no heed to his
@@ -136,7 +136,7 @@ He who shows kindness to a dog will not do less towards the good among
 his fellows.
 
 Be generous to the extent of thy power. If thou hast not dug a well in
-the desert, at least place a lamp in a shrine. [13](bus15.htm#an_13)
+the desert, at least place a lamp in a shrine. [13](bus15.htm#an_13.md)
 
 <span id="page_49">p. 49</span>
 
@@ -170,7 +170,7 @@ his ingratitude
 for the blessings that he enjoyed, Fortune forsook him, and lie lost all
 that he possessed. His slave passed into the hands of a generous man of
 enlightened mind, who was as gladdened at the sight of a beggar as the
-latter is at the sight of riches.[14](bus15.htm#an_14)
+latter is at the sight of riches.[14](bus15.htm#an_14.md)
 
 One night a beggar asked alms of the latter, and he commanded his slave
 to give the man to eat. When the slave took food to the supplicant he
@@ -200,7 +200,7 @@ Some one saw a fox that was bereft of the use of its legs. He was
 wondering how the animal managed to live in this condition when a tiger
 drew near with a jackal in its claws. The tiger ate the jackal, and the
 fox finished the remains. The next day also did the Omnipotent Provider
-send the fox its daily meal. [9](bus15.htm#an_9)
+send the fox its daily meal. [9](bus15.htm#an_9.md)
 
 The eyes of the man were thus opened to the light of true knowledge.
 "After this," he reflected, "I will sit in a corner like an ant, for the
@@ -236,7 +236,7 @@ politeness of the previous night.
 <span id="page_53">p. 53</span>
 
 One of our party was of merry wit and temper. "Come, give us food in
-change for a kiss," [15](bus15.htm#an_15) he said, "for that is better
+change for a kiss," [15](bus15.htm#an_15.md) he said, "for that is better
 to a hungry man. In serving me, place not thy hand upon my shoe, but
 give me bread and strike thy shoe upon my head."
 
@@ -245,7 +245,7 @@ Excellence is attained by generosity, not by vigils in the night.
 Idle words are a hollow drum; invocations without merit are a weak
 support.
 
-#### STORY OF HATIM TAI [16](bus15.htm#an_16)
+#### STORY OF HATIM TAI [16](bus15.htm#an_16.md)
 
 Hatim Tai possessed a horse whose fleetness was as that of the morning
 breeze. Of this was the Sultan of Turkey informed.
@@ -262,7 +262,7 @@ not, that it is but the sound of a hollow drum."
 
 So he despatched a messenger with ten followers to Hatim. They alighted
 at the house of the Arab chief, who prepared a feast and killed a horse
-[17](bus15.htm#an_17) in their honour.
+[17](bus15.htm#an_17.md) in their honour.
 
 On the following day, when the messenger explained the object of his
 mission, Hatim became as one mad with grief. "Why," he cried, "didst
@@ -398,4 +398,4 @@ departed in my childhood.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Concerning Love](bus07)
+[Next: Chapter III. Concerning Love](bus07.md)

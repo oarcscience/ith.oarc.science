@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](amm14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](amm14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -184,7 +184,7 @@ Winchester. In the
 <span id="img_fig28"></span>
 
 [![Figure 28. Italian Canopy, from a Tile](tn/fig28.jpg)  
-Click to enlarge](img/fig28.jpg)  
+Click to enlarge](img/fig28.jpg.md)  
   
 
 <span class="contnote">\[paragraph continues\]</span> Cluny Museum are
@@ -256,7 +256,7 @@ was observed at Gray's Inn in the reign of Elizabeth. In France, the
 pasch egg is eaten before any other nourishment on Easter day. Paul II.
 issued a form of benediction of eggs for England, Scotland, and Ireland;
 Henry VIII. received a paschal egg in a case of silver
-[filigree](errata.htm#5) from the Pope.' And an interesting point
+[filigree](errata.htm#5.md) from the Pope.' And an interesting point
 follows: 'De Moleon says that at Angers, on Easter day, two chaplains,
 standing behind the altar, addressed two cubiculars or corbeliers, as
 they advanced, "Whom seek ye?" and to the reply, "Jesus of Nazareth, the
@@ -488,7 +488,7 @@ the surface of which is decorated with swimming dolphins of blue
 vitreous material probably of Egyptian origin. This was found in a tomb
 at Mycenæ, and would seem to be earlier than the sixth century; it is
 pierced for a cord, and is an object of singular beauty (see [next
-page](#img_fig30)). In the South Kensington Museum there are two or
+page](#img_fig30).md). In the South Kensington Museum there are two or
 three ostrich eggs for hanging, elaborately carved, of Persian work; and
 many of porcelain, from the churches of Anatolia, painted with cherubim.
 

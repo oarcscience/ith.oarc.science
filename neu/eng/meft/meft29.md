@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft28)  [Next](meft30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft28)  [Next](meft30.md) 
 
 ------------------------------------------------------------------------
 
 # The King of England and his Three Sons
 
 <span id="img_044"></span> [![](tn/044.jpg)  
-Click to enlarge](img/044.jpg)
+Click to enlarge](img/044.jpg.md)
 
 ONCE upon a time there was an old king who had three sons; and the old
 king fell very sick one time and there was nothing at all could make him
@@ -410,4 +410,4 @@ very merry time of it. And there we will leave them.
 
 ------------------------------------------------------------------------
 
-[Next: King John and the Abbot of Canterbury](meft30)
+[Next: King John and the Abbot of Canterbury](meft30.md)

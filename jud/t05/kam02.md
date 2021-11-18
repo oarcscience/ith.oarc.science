@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam01)  [Next](kam03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam01)  [Next](kam03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -209,7 +209,7 @@ cannot be sold is because they considered speculative transactions as
 robbery, so that they prohibited all kinds of gaming existing at that
 time; and the one who participated in such games was disqualified as a
 witness, because he was considered a robber. We find, however, in this
-volume, p. [198](kam11.htm#page_198), that a woman may sell the benefit
+volume, p. [198](kam11.htm#page_198.md), that a woman may sell the benefit
 of her marriage contract, although it looks like speculation; for she
 may die during the life-time of her husband, and her husband will
 inherit from her. But even this is discussed, and seems to be an
@@ -217,4 +217,4 @@ enactment of some sages for the benefit of the woman. (See text.)
 
 ------------------------------------------------------------------------
 
-[Next: Synopsis of Subjects of Tract Baba Kama (The First Gate)](kam03)
+[Next: Synopsis of Subjects of Tract Baba Kama (The First Gate)](kam03.md)

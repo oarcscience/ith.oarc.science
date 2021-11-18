@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc04)  [Next](moc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc04)  [Next](moc06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -144,7 +144,7 @@ have a very slender waist, with the body shaped like an hour-glass." He
 <span id="page_xxi">p. xxi</span>
 
 also comments in another instance on the skirts, which were also
-characteristic of Crete. <span id="fr_0"></span>[1](#fn_0)Comparisons
+characteristic of Crete. <span id="fr_0"></span>[1](#fn_0.md)Comparisons
 between the Cretan frescoes and the Palæolithic cave-paintings of Spain
 and France have likewise been made by the Abbé Breuil, Don Juan Cabre
 Aguila, and other Continental archæologists.
@@ -153,7 +153,7 @@ One of the racial types which existed during the Aurignacian and
 Magdalenian periods, or stages of culture, was the Cro-Magnon. It can
 still be traced in Europe, especially in the French Dordogne valley, and
 among the Berbers in North Africa, as Dr. Collignon has shown. <span
-id="fr_1"></span>[2](#fn_1) Evidence of Cro-Magnon migration in Late
+id="fr_1"></span>[2](#fn_1.md) Evidence of Cro-Magnon migration in Late
 Pleistocene times has also been forthcoming from Belgium, while traces
 of their burial customs have been found in Moravia and elsewhere. How
 and by what route Aurignacian influence reached Crete, after the lapse
@@ -178,7 +178,7 @@ pursuer? The late Mr. Andrew Lang has shown that it is found in Zulu,
 Gaelic, Norse. Malagasy, Russian, Italian, and Japanese
 folk-literatures. The author "will never", he wrote, "be known to fame",
 although, among storytellers, he has achieved "the widest circulation in
-the world". <span id="fr_2"></span>[1](#fn_2)
+the world". <span id="fr_2"></span>[1](#fn_2.md)
 
 A now popular hypothesis, first urged by Hugh Miller, is usually held to
 offer a conclusive explanation for the wonderful resemblances between
@@ -197,7 +197,7 @@ everywhere, and his constructive powers, whether employed in the
 formation of a legendary story or of a battle-axe, seem to expatiate
 almost everywhere in the same ragged track of invention. For even the
 traditions of this first stage may be identified., like his weapons of
-war, all the world over." <span id="fr_3"></span>[2](#fn_3)
+war, all the world over." <span id="fr_3"></span>[2](#fn_3.md)
 
 Since Miller's day experts have become so familiar with the stone
 implements and weapons of primitive men that they experience no
@@ -215,7 +215,7 @@ differences. If it were to be urged in every instance, the work of
 research would be stultified and rendered somewhat barren. "There is a
 well-known tendency", as Mr. Hogarth reminds us, "to find one formula to
 explain all things, and an equally notorious one to overwork the latest
-formula." <span id="fr_4"></span>[1](#fn_4)
+formula." <span id="fr_4"></span>[1](#fn_4.md)
 
 The intensive study of the mythology of a particular civilization, like
 that of Crete or Egypt, for instance, reveals marked local divergencies
@@ -303,7 +303,7 @@ still recognizable were already fixed; mankind at the dawn of
 <span id="page_xxvi">p. xxvi</span>
 
 the Neolithic or Late Stone Age had attained full mental <span
-id="fr_5"></span>[1](#fn_5) and physical development. Races were
+id="fr_5"></span>[1](#fn_5.md) and physical development. Races were
 distributed far and wide, and settlers favoured those areas which were
 suitable for their habits of life. The barriers of ice and snow which
 had separated peoples for thousands of years vanished before the warm
@@ -417,7 +417,7 @@ that the small rodent had been eaten after being skinned, is", writes
 Professor Elliot Smith, "a discovery of very great interest, for Dr.
 Netolitzky informs me that the body of a mouse was the last resort of
 medical practitioners in the East several millennia later as the remedy
-for children *in extremis*." <span id="fr_6"></span>[1](#fn_6) Until
+for children *in extremis*." <span id="fr_6"></span>[1](#fn_6.md) Until
 comparatively recently the liver of a mouse was in the Scottish
 Highlands the "old wife's cure" for children dangerously ill. The writer
 was informed regarding it in more than one locality, long before the
@@ -427,7 +427,7 @@ experience of the efficacy of the mouse cure.
 The ashes of a mouse baked alive used to be a cure for rheumatism in
 Suffolk. In Lincolnshire fried mice were given to children suffering
 from whooping-cough and quinsy. According to Henderson <span
-id="fr_7"></span>[2](#fn_7) a whooping-cough
+id="fr_7"></span>[2](#fn_7.md) a whooping-cough
 
 <span id="page_xxx">p. xxx</span>
 
@@ -435,9 +435,9 @@ patient in the northern counties had to be seated on a donkey, with face
 towards the tail, when the mouse was being eaten. The custom of
 entombing a live mouse in an ash-tree, to cure children or charm cattle
 against attack, prevailed in Leicestershire. <span
-id="fr_8"></span>[1](#fn_8) A similar custom obtained in Scotland, where
+id="fr_8"></span>[1](#fn_8.md) A similar custom obtained in Scotland, where
 the shrew-mouse was believed to paralyse a limb it chanced to creep
-over. <span id="fr_9"></span>[2](#fn_9) The traditional fear of mice
+over. <span id="fr_9"></span>[2](#fn_9.md) The traditional fear of mice
 among women is of interest in this connection. Roasted mouse was, in the
 north-eastern counties of Scotland, a cure for cold or sore throat.
 
@@ -446,18 +446,18 @@ Horus when he was bitten by the scorpion, restored the sight of his eye
 which was blinded by the black Set pig, and assisted in uniting the
 fragments of the body of Osiris. The mouse crouches at the base of his
 rod of destiny, on which he measured out the lives of men. <span
-id="fr_10"></span>[3](#fn_10) In Greece the mouse was associated with
+id="fr_10"></span>[3](#fn_10.md) In Greece the mouse was associated with
 Apollo. This god was identified by the Romans with the sun, but Homer
 knew him as Smintheus Apollo, "Mouse Apollo", who struck down the Greeks
-with his arrows of pestilence. <span id="fr_11"></span>[4](#fn_11)
+with his arrows of pestilence. <span id="fr_11"></span>[4](#fn_11.md)
 According to Strabo, there were many places which bore the Apollo mouse
-name. <span id="fr_12"></span>[5](#fn_12) Mouse feasts were held at
+name. <span id="fr_12"></span>[5](#fn_12.md) Mouse feasts were held at
 Rhodes, Gela, Lesbos, and Crete. According to a Trojan story, the
 settlement took place in Anatolia of Cretans who were advised by an
 oracle to select the first place where they were attacked by the
 children of the soil. At Hamaxitus, in the Troad, a swarm of mice ate
 their bow-strings and the leather of their armour, and they decided to
-make that place their home. <span id="fr_13"></span>[6](#fn_13) In India
+make that place their home. <span id="fr_13"></span>[6](#fn_13.md) In India
 
 <span id="page_xxxi">p. xxxi</span>
 
@@ -465,7 +465,7 @@ the mouse was associated with Rudra, to whom the poet prayed:
 
 Give unto me of thy medicines, Rudra,  
 So that my years may reach to a hundred. <span
-id="fr_14"></span>[1](#fn_14)
+id="fr_14"></span>[1](#fn_14.md)
 
 Rudra, like Apollo, sent diseases, and was therefore able to prevent and
 cure them.
@@ -480,10 +480,10 @@ Pharaoh Amenhotep III was ill. Isaiah refers to the mouse-eating
 practice: "They that sanctify themselves and purify themselves in the
 gardens behind one tree in the midst, eating swine's flesh, and the
 abomination, and the mouse, shall be consumed together, saith the
-Lord." <span id="fr_15"></span>[2](#fn_15) When the Philistines, who
+Lord." <span id="fr_15"></span>[2](#fn_15.md) When the Philistines, who
 came from Crete, were stricken by a pestilence, they placed five golden
 mice in the ark and sent it back to the Israelites. <span
-id="fr_16"></span>[3](#fn_16) Thus we find the Highland mouse-cure
+id="fr_16"></span>[3](#fn_16.md) Thus we find the Highland mouse-cure
 belief going back for 6000 years and reaching to the remotest areas
 settled by representatives of the Mediterranean race. Other
 superstitions may be as old, or older. The ancient Egyptians, like our
@@ -547,7 +547,7 @@ signs that the elaborate characters of the Chinese writing were
 ultimately evolved." Similar pictographs are found in Scandinavia,
 Ireland, Brittany, Portugal, Spain, North-West Africa, the Canaries, in
 the Maritime Alps, the Vosges, Dalmatia, in Transylvania, and on early
-Trojan artifacts. <span id="fr_17"></span>[1](#fn_17)
+Trojan artifacts. <span id="fr_17"></span>[1](#fn_17.md)
 
 In addition to the pictographs there also passed from the Palæolithic
 into the Neolithic and Bronze Ages certain burial customs, decorative
@@ -638,7 +638,7 @@ have not yet been clothed with individual attributes;
 <span id="page_xxxvi">p. xxxvi</span>
 
 they linger on as survivals of the impersonal stage of religion." <span
-id="fr_18"></span>[1](#fn_18) The Australian natives, on the other hand,
+id="fr_18"></span>[1](#fn_18.md) The Australian natives, on the other hand,
 and even those who are more primitive than the Chota Nagpur
 jungle-dwellers, have a god whose voice is imitated by the "bull
 roarer". Palæolithic man of the Reindeer Age, as has been said, had
@@ -658,7 +658,7 @@ patriarchal conditions were preceded by matriarchal and that goddesses
 preceded gods everywhere. In India the gods were prominent in the Vedic
 period; during the post-Vedic period goddesses ceased to be vague and
 became outstanding personalities as "Great Mothers". <span
-id="fr_19"></span>[2](#fn_19)
+id="fr_19"></span>[2](#fn_19.md)
 
 This brings us to an interesting phase of Cretan religious and social
 life. From the evidence afforded by idols, pictorial art, symbols, and
@@ -678,7 +678,7 @@ certain they must have lived on a footing of greater equality with the
 men than in any other ancient civilization, and we see in the frescoes
 of Knossos conclusive indications of an open and easy association of men
 and women, corresponding to our idea of 'Society', at the Minoan Court
-unparalleled till our own day." <span id="fr_20"></span>[1](#fn_20)
+unparalleled till our own day." <span id="fr_20"></span>[1](#fn_20.md)
 Among the goddess worshippers of Sumeria women enjoyed a high social
 status also. But among the Semites of the god cult this was not the
 case. Women were not depicted in Assyria as in Crete. It was when
@@ -725,7 +725,7 @@ because they believed that the soul could not continue to exist in the
 Otherworld unless the body were preserved intact in the tomb. On the
 other hand, the Homeric Achæans burned their dead, so that the soul
 might be transferred by fire to Hades, from which it would never again
-return. <span id="fr_21"></span>[1](#fn_21) In pre-Dynastic Egypt the
+return. <span id="fr_21"></span>[1](#fn_21.md) In pre-Dynastic Egypt the
 
 <span id="page_xxxix">p. xxxix</span>
 
@@ -765,7 +765,7 @@ fairies, and to the woods of Caledonia where shades wander about as did
 the ancestors of the people who migrated from Caledonia to Wales. In one
 Welsh poem the Otherworld is referred to as "the cruel prison of the
 earth, the abode of death, the loveless land". <span
-id="fr_22"></span>[1](#fn_22) The Babylonian Hades was similarly gloomy
+id="fr_22"></span>[1](#fn_22.md) The Babylonian Hades was similarly gloomy
 and was similarly dreaded. Ishtar descends to--
 
 The house out of which there is no exit . . .  
@@ -784,7 +784,7 @@ one. The fairy woman moistens the right eye of the midwife with this
 fluid, and bids her look. "She looked", the narrative proceeds, and saw
 several of her friends and acquaintances at work, reaping the corn and
 gathering the fruit. 'This', said the fairy, 'is the punishment of evil
-deeds.'" <span id="fr_23"></span>[2](#fn_23) In ancient Egypt the fairy
+deeds.'" <span id="fr_23"></span>[2](#fn_23.md) In ancient Egypt the fairy
 would have said it was "the reward of good deeds".
 
 Burial customs afford us no exact evidence regarding these varying
@@ -804,7 +804,7 @@ Similarly, it does not follow that the cremation custom had the same
 significance at all periods. In the *Iliad* the ghost of Patroklos
 declares that he will never again return from Hades when he has received
 his meed of fire. Modern Hindus burn their dead, <span
-id="fr_24"></span>[1](#fn_24) but the soul may either depart to Paradise
+id="fr_24"></span>[1](#fn_24.md) but the soul may either depart to Paradise
 or continue its round through other existences on this earth. In
 Sanskrit literature the fire-god, Agni, "the corpse devourer", conducts
 souls to the "land of the fathers". The Persian fire-worshippers do not
@@ -814,12 +814,12 @@ practice of the Mongolian Buriats. The bodies of those who die in autumn
 and winter are piled up in a log-house in the midst of a forest. When
 the cuckoo begins to call, in May, this house is set on fire and the
 accumulated bodies are cremated together. Persons who die during the
-summer are burned immediately. <span id="fr_25"></span>[2](#fn_25) That
+summer are burned immediately. <span id="fr_25"></span>[2](#fn_25.md) That
 the Aryo-Indians had knowledge at one time of the belief involved is
 suggested by a reference in the *Mahabharata*. Describing the heaven of
 Yama, the sage Narada says that he saw there "all sinners among human
 beings as also (those) that have died during the winter solstice". <span
-id="fr_26"></span>[3](#fn_26) The explanation may be that there were
+id="fr_26"></span>[3](#fn_26.md) The explanation may be that there were
 lucky and unlucky hours, days, and months for death as for birth. The
 
 <span id="page_xlii">p. xlii</span>
@@ -830,7 +830,7 @@ prophecies runs:
 
 Full moon, full sea,  
 Great man shalt thou be,  
-But ill deith shalt thou dee. <span id="fr_27"></span>[1](#fn_27)
+But ill deith shalt thou dee. <span id="fr_27"></span>[1](#fn_27.md)
 
 Omens at death threw light on his fate in the after life. The Buriat
 custom has evidently a long history behind it. Perhaps it was originally
@@ -844,10 +844,10 @@ Among certain peoples who did not believe, like the Achæans, the
 Aryo-Indians, and others, that the soul was transferred to Paradise
 through the medium of fire, burning was a punishment. Erring wives in
 ancient Egyptian and Scottish folk-tales are burned at the stake. <span
-id="fr_28"></span>[2](#fn_28) Similarly, witches were burned alive. Sir
+id="fr_28"></span>[2](#fn_28.md) Similarly, witches were burned alive. Sir
 Arthur Evans has brought together interesting evidence regarding "the
 revival of cremation in Europe in mediæval and modern times to get rid
-of vampires". <span id="fr_29"></span>[3](#fn_29) Bodies of persons
+of vampires". <span id="fr_29"></span>[3](#fn_29.md) Bodies of persons
 whose ghosts had become vampires, which attacked sleepers and sucked the
 life-blood from their veins, were taken from tombs and publicly burned.
 The vampires were thus prevented from doing further harm. Herodotus
@@ -866,7 +866,7 @@ can seize, and then, glutted with the food, dies with the matter which
 it feeds upon. Now, to give a man's body to be devoured by beasts is in
 no wise agreeable to their customs, and, indeed, this is the very reason
 why they embalm their dead, namely, to prevent them from being eaten in
-the grave by worms." <span id="fr_30"></span>[1](#fn_30)
+the grave by worms." <span id="fr_30"></span>[1](#fn_30.md)
 
 The evidence afforded by the Cretan burial customs is of special
 significance. From the earliest times until the close of the Bronze Age
@@ -891,7 +891,7 @@ which all men have; this
 <span id="page_xliv">p. xliv</span>
 
 is our life and manner of dwelling in the darkness of our tombs.'" <span
-id="fr_31"></span>[1](#fn_31) This conversation can never have taken
+id="fr_31"></span>[1](#fn_31.md) This conversation can never have taken
 place in. India, but it is of interest in so far as it reflects a belief
 with which the author was familiar.
 
@@ -928,7 +928,7 @@ LIMESTONE SARCOPHAGUS, SHAPED LIKE A CHEST, FOUND AT AGHIA TRIADHA
 
 The thin plaster covering is painted with scenes connected with the cult
 of the dead. (See pages
-[289](moc17.htm#page_289)-[290](moc17.htm#page_290))
+[289](moc17.htm#page_289)-[290](moc17.htm#page_290).md)
 
  
 
@@ -948,7 +948,7 @@ the Cretan Great Mother, was also associated with stone circles.
 Pausanias, writing of the town of Hermione in the Peloponnese, says that
 near it "there is a circle of huge unhewn stones, and inside this circle
 they perform the sacred rites of Demeter". <span
-id="fr_32"></span>[1](#fn_32)
+id="fr_32"></span>[1](#fn_32.md)
 
 Stone circles, single standing-stones, and groups of stones like those
 at Carnac in Brittany were erected at burial-places. Offerings were made
@@ -961,7 +961,7 @@ Round he rode to a door on the eastward
 Where he knew was a witch's grave,  
 He sang there spells of the dead to the Vala,  
 Needs she must rise-a corpse-and answer. <span
-id="fr_33"></span>[2](#fn_33)
+id="fr_33"></span>[2](#fn_33.md)
 
 Folk-memories of the ancient custom of summoning the spirit of the dead
 still survive in rural districts. An archæologist who recently conducted
@@ -1045,7 +1045,7 @@ The archæological evidence of Crete and Greece shows clearly that the
 cremation custom had an ethnic significance. Whence then came the
 Achæans of Homer who were the cremating people, or at any rate were
 identified with them in tradition? Professor Ridgeway <span
-id="fr_34"></span>[1](#fn_34) has summarized a mass of important
+id="fr_34"></span>[1](#fn_34.md) has summarized a mass of important
 archæological data regarding prehistoric burial customs, and writes:
 "From this rapid survey it is now clear to the reader that cremation was
 not developed in the countries lying around the Mediterranean, whilst on
@@ -1111,7 +1111,7 @@ the fire to make any very extensive examination of their ethnological
 character possible. All we can say is that we have to deal with a
 non-Semitic race, of low stature, with thick skulls, and showing
 evidence of the great muscular strength that is essential to savage
-life." <span id="fr_35"></span>[1](#fn_35) We have no knowledge of the
+life." <span id="fr_35"></span>[1](#fn_35.md) We have no knowledge of the
 beliefs connected with the Neolithic cremation custom in Palestine.
 
 Among the Australian natives the body of the dead is sometimes cremated.
@@ -1137,7 +1137,7 @@ customs emphasizes that they had a religious significance.
 
 <span id="page_li">p. li</span>
 
-Dr. Dörpfeld <span id="fr_36"></span>[1](#fn_36) has urged the
+Dr. Dörpfeld <span id="fr_36"></span>[1](#fn_36.md) has urged the
 hypothesis that the Achæans burned their dead only when engaged in
 distant wars, and practised inhumation in the homeland. He thinks that
 cremation arose from the custom of scorching bodies prior to burial for
@@ -1160,7 +1160,7 @@ very considerable. That fires were associated with early burials is
 suggested by the folk-belief about "death lights" which are seen before
 a sudden death takes place travelling along a highway, entering a
 churchyard, and passing over the spot where a grave is to be opened.
-Early burials took place at night, <span id="fr_37"></span>[2](#fn_37)
+Early burials took place at night, <span id="fr_37"></span>[2](#fn_37.md)
 and the leader may have cast his torch into the open grave so that it
 might be used by the dead on the journey to the Otherworld. Hermes, the
 guide of souls, was at one time a god of night and dispensed sleep and
@@ -1199,7 +1199,7 @@ also *karsnayasa*, "black ayas", while copper or bronze was
 
 <span id="page_liii">p. liii</span>
 
-known as *lohayasa*, "red ayas". <span id="fr_38"></span>[1](#fn_38) The
+known as *lohayasa*, "red ayas". <span id="fr_38"></span>[1](#fn_38.md) The
 Homeric Achæans used bronze and iron, but the earlier bands of Achæans
 who drifted into southern Greece and reached Crete used bronze only,
 and, it is of significance to note, did not cremate their dead.
@@ -1236,7 +1236,7 @@ that "later Greek speech may have been fundamentally mid-European,
 largely contaminated with Ægean survivals; or it may have been
 fundamentally Ægean with mid-European intrusions, as our own language is
 fundamentally Anglo-Saxon largely contaminated by the speech of Norman
-conquerors". <span id="fr_39"></span>[1](#fn_39)
+conquerors". <span id="fr_39"></span>[1](#fn_39.md)
 
 The chapters which follow begin with the Palæolithic Age in Pleistocene
 times, and the reader is afterwards presented with a popular account of
@@ -1261,124 +1261,124 @@ of the present day in Central and Western Europe.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xxi:1](moc05.htm#fr_0) *Dawn of Mediterranean
+<span id="fn_0"></span>[xxi:1](moc05.htm#fr_0.md) *Dawn of Mediterranean
 Civilization*, Angelo Masso, pp. 175 et sq.
 
-<span id="fn_1"></span>[xxi:2](moc05.htm#fr_1) Quoted in Ripley's *The
+<span id="fn_1"></span>[xxi:2](moc05.htm#fr_1.md) Quoted in Ripley's *The
 Races of Europe*, pp. 172 *et seq*.
 
-<span id="fn_2"></span>[xxii:1](moc05.htm#fr_2) *Custom and Myth*, pp.
+<span id="fn_2"></span>[xxii:1](moc05.htm#fr_2.md) *Custom and Myth*, pp.
 87 *et seq*.
 
-<span id="fn_3"></span>[xxii:2](moc05.htm#fr_3) *Scenes and Legends*,
+<span id="fn_3"></span>[xxii:2](moc05.htm#fr_3.md) *Scenes and Legends*,
 pp. 31-32 (1835).
 
-<span id="fn_4"></span>[xxiii:1](moc05.htm#fr_4) *Ionia and the East*,
+<span id="fn_4"></span>[xxiii:1](moc05.htm#fr_4.md) *Ionia and the East*,
 p. 107
 
-<span id="fn_5"></span>[xxvi:1](moc05.htm#fr_5) That is, so far as can
+<span id="fn_5"></span>[xxvi:1](moc05.htm#fr_5.md) That is, so far as can
 be indicated by skull capacity.
 
-<span id="fn_6"></span>[xxix:1](moc05.htm#fr_6) *The Ancient Egyptians*,
+<span id="fn_6"></span>[xxix:1](moc05.htm#fr_6.md) *The Ancient Egyptians*,
 p. 43.
 
-<span id="fn_7"></span>[xxix:2](moc05.htm#fr_7) *Folk-lore of Northern
+<span id="fn_7"></span>[xxix:2](moc05.htm#fr_7.md) *Folk-lore of Northern
 Counties*, p. 144.
 
-<span id="fn_8"></span>[xxx:1](moc05.htm#fr_8) *Leicester County
+<span id="fn_8"></span>[xxx:1](moc05.htm#fr_8.md) *Leicester County
 Folk-lore Series*, p. 29. In White's *Selborne* reference is made to the
 "shrew ash" in Hampshire.
 
-<span id="fn_9"></span>[xxx:2](moc05.htm#fr_9) Dalzell's *Darker
+<span id="fn_9"></span>[xxx:2](moc05.htm#fr_9.md) Dalzell's *Darker
 Superstitions of Scotland*, pp. 191-2.
 
-<span id="fn_10"></span>[xxx:3](moc05.htm#fr_10) *Religion of the
+<span id="fn_10"></span>[xxx:3](moc05.htm#fr_10.md) *Religion of the
 Ancient Egyptians*, A. Wiedemann, p. 226.
 
-<span id="fn_11"></span>[xxx:4](moc05.htm#fr_11) *The Iliad*, I, 1 *et
+<span id="fn_11"></span>[xxx:4](moc05.htm#fr_11.md) *The Iliad*, I, 1 *et
 seq*.
 
-<span id="fn_12"></span>[xxx:5](moc05.htm#fr_12) *Strabo*, XIII, 604.
+<span id="fn_12"></span>[xxx:5](moc05.htm#fr_12.md) *Strabo*, XIII, 604.
 
-<span id="fn_13"></span>[xxx:6](moc05.htm#fr_13) *Strabo*, XIII, 604,
+<span id="fn_13"></span>[xxx:6](moc05.htm#fr_13.md) *Strabo*, XIII, 604,
 and also *Ælian*, H. A., XII, 5.
 
-<span id="fn_14"></span>[xxxi:1](moc05.htm#fr_14) *Rigveda*, II, 33.
+<span id="fn_14"></span>[xxxi:1](moc05.htm#fr_14.md) *Rigveda*, II, 33.
 
-<span id="fn_15"></span>[xxxi:2](moc05.htm#fr_15) *Isaiah*, lxvi, 17.
+<span id="fn_15"></span>[xxxi:2](moc05.htm#fr_15.md) *Isaiah*, lxvi, 17.
 
-<span id="fn_16"></span>[xxxi:3](moc05.htm#fr_16) *Samuel*, i, 5-6.
+<span id="fn_16"></span>[xxxi:3](moc05.htm#fr_16.md) *Samuel*, i, 5-6.
 
-<span id="fn_17"></span>[xxxiii:1](moc05.htm#fr_17) *Scripta Minoa*, pp.
+<span id="fn_17"></span>[xxxiii:1](moc05.htm#fr_17.md) *Scripta Minoa*, pp.
 3, 4, 6.
 
-<span id="fn_18"></span>[xxxvi:1](moc05.htm#fr_18) *Census of India*
+<span id="fn_18"></span>[xxxvi:1](moc05.htm#fr_18.md) *Census of India*
 (1901), Vol. I, Part I, pp. 352 *et seq*.
 
-<span id="fn_19"></span>[xxxvi:2](moc05.htm#fr_19) *Indian Myth and
+<span id="fn_19"></span>[xxxvi:2](moc05.htm#fr_19.md) *Indian Myth and
 Legend*, pp. 148 *et seq*.
 
-<span id="fn_20"></span>[xxxvii:1](moc05.htm#fr_20) *The Ancient History
+<span id="fn_20"></span>[xxxvii:1](moc05.htm#fr_20.md) *The Ancient History
 of the Near East* p. 48
 
-<span id="fn_21"></span>[xxxviii:1](moc05.htm#fr_21) *Iliad*, XXIII, 75.
+<span id="fn_21"></span>[xxxviii:1](moc05.htm#fr_21.md) *Iliad*, XXIII, 75.
 
-<span id="fn_22"></span>[xl:1](moc05.htm#fr_22) *Celtic Religion*, E.
+<span id="fn_22"></span>[xl:1](moc05.htm#fr_22.md) *Celtic Religion*, E.
 Anwyl, pp. 60 *et seq*.
 
-<span id="fn_23"></span>[xl:2](moc05.htm#fr_23) *Graham's Picturesque
+<span id="fn_23"></span>[xl:2](moc05.htm#fr_23.md) *Graham's Picturesque
 Sketches of Perthshire*.
 
-<span id="fn_24"></span>[xli:1](moc05.htm#fr_24) Except, as was the case
+<span id="fn_24"></span>[xli:1](moc05.htm#fr_24.md) Except, as was the case
 in Rome (*Juvenal*, XV, 140), the bodies of infants. Those under
 eighteen months are in India buried head downwards in jars. Mothers who
 die in childbed are not cremated either, but buried.
 
-<span id="fn_25"></span>[xli:2](moc05.htm#fr_25) *A Journey in Southern
+<span id="fn_25"></span>[xli:2](moc05.htm#fr_25.md) *A Journey in Southern
 Siberia*, Jeremiah Curtin, p. 101.
 
-<span id="fn_26"></span>[xli:3](moc05.htm#fr_26) *Sabha Parva*, Section
+<span id="fn_26"></span>[xli:3](moc05.htm#fr_26.md) *Sabha Parva*, Section
 VIII (Roy's translation, p. 27).
 
-<span id="fn_27"></span>[xlii:1](moc05.htm#fr_27) Lamont's *Chronicle of
+<span id="fn_27"></span>[xlii:1](moc05.htm#fr_27.md) Lamont's *Chronicle of
 Fife*, p. 206.
 
-<span id="fn_28"></span>[xlii:2](moc05.htm#fr_28) *Indian Myth and
+<span id="fn_28"></span>[xlii:2](moc05.htm#fr_28.md) *Indian Myth and
 Legend*, p. xxxvii, and *Egyptian Myth and Legend*, p. 143
 
-<span id="fn_29"></span>[xlii:3](moc05.htm#fr_29) *Comptes Rendus du
+<span id="fn_29"></span>[xlii:3](moc05.htm#fr_29.md) *Comptes Rendus du
 Congrès International d'Archéologie*, 1905, Athens, p. 166.
 
-<span id="fn_30"></span>[xliii:1](moc05.htm#fr_30) *Herodotus*, III, 16.
+<span id="fn_30"></span>[xliii:1](moc05.htm#fr_30.md) *Herodotus*, III, 16.
 
-<span id="fn_31"></span>[xliv:1](moc05.htm#fr_31) *The Life and Exploits
+<span id="fn_31"></span>[xliv:1](moc05.htm#fr_31.md) *The Life and Exploits
 of Alexander the Great*, E. Wallis Budge, pp. 133-4.
 
-<span id="fn_32"></span>[xlv:1](moc05.htm#fr_32) Pausanias, II, 34.
+<span id="fn_32"></span>[xlv:1](moc05.htm#fr_32.md) Pausanias, II, 34.
 
-<span id="fn_33"></span>[xlv:2](moc05.htm#fr_33) *The Elder Edda*, O.
+<span id="fn_33"></span>[xlv:2](moc05.htm#fr_33.md) *The Elder Edda*, O.
 Bray, p. 241.
 
-<span id="fn_34"></span>[xlviii:1](moc05.htm#fr_34) *Early Age of
+<span id="fn_34"></span>[xlviii:1](moc05.htm#fr_34.md) *Early Age of
 Greece*, Vol. I, pp. 481 *et seq*.
 
-<span id="fn_35"></span>[l:1](moc05.htm#fr_35) *A History of
+<span id="fn_35"></span>[l:1](moc05.htm#fr_35.md) *A History of
 Civilization in Palestine*, pp. 15, 16.
 
-<span id="fn_36"></span>[li:1](moc05.htm#fr_36) *Melanges Nicole* (in
+<span id="fn_36"></span>[li:1](moc05.htm#fr_36.md) *Melanges Nicole* (in
 honour of Jules Nicole), 1905, Geneva, pp. 95 *et seq*.
 
-<span id="fn_37"></span>[li:2](moc05.htm#fr_37) For particulars of the
+<span id="fn_37"></span>[li:2](moc05.htm#fr_37.md) For particulars of the
 custom of using torches and lights at funerals, see Brand's *Popular
 Antiquities*, Vol. II, pp. 776 *et seq*. (1899 ed.).
 
-<span id="fn_38"></span>[liii:1](moc05.htm#fr_38) *Vedic Index of Names
+<span id="fn_38"></span>[liii:1](moc05.htm#fr_38.md) *Vedic Index of Names
 and Subjects*, Macdonald and Keith, Vol. I, pp. 3 11 32, and 151.
 
-<span id="fn_39"></span>[liv:1](moc05.htm#fr_39) Ionia and the East, pp.
+<span id="fn_39"></span>[liv:1](moc05.htm#fr_39.md) Ionia and the East, pp.
 105-7.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter I. Primitive Europeans of the Glacial and Inter-glacial
-Periods](moc06)
+Periods](moc06.md)

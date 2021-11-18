@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa15)  [Next](soa17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa15)  [Next](soa17.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ part of the American continent.
 
 ------------------------------------------------------------------------
 
-[Next: The Toltec Race](soa17)
+[Next: The Toltec Race](soa17.md)

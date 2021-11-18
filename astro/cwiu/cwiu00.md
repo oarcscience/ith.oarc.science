@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Next](cwiu01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Next](cwiu01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -58,4 +58,4 @@ Copyright Office as required by law at the time.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](cwiu01)
+[Next: Preface](cwiu01.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](tah01)  [Next](tah03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](tah01)  [Next](tah03.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ NORTHBROOK SOCIETY,
 
 ------------------------------------------------------------------------
 
-[Next: Preface](tah03)
+[Next: Preface](tah03.md)

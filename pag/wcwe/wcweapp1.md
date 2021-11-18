@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](wcwe08)  [Next](wcweapp2) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](wcwe08)  [Next](wcweapp2.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISAIM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISAIM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Witch-Cult in Western Europe*, by Margaret Alice Murray, \[1921\],
 at Intangible Textual Heritage
 
@@ -498,4 +498,4 @@ Barfloshan, as rank a witch as ever rode on ragwort.\[3\]
 ------------------------------------------------------------------------
 
 [Next: Appendix II. Trial of Silvain Nevillon and Gentien le
-Clerc](wcweapp2)
+Clerc](wcweapp2.md)

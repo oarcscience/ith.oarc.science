@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth064)  [Next](toth066) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth064)  [Next](toth066.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_189">p. 189</span>
 
-## 62. THE COYOTE AND THE FROG. <span id="fr_131"></span>[1](toth066.htm#fn_129)
+## 62. THE COYOTE AND THE FROG. <span id="fr_131"></span>[1](toth066.htm#fn_129.md)
 
 Alíksai! Along time ago the people were living in Wálpi. North of the
 village lived the Coyote. In the spring called Sun Spring (Tawába) lived
@@ -51,4 +51,4 @@ but the hail stones were so heavy that he was finally killed by them.
 
 ------------------------------------------------------------------------
 
-[Next: 63. The Coyote, the Bat, and the Humming-bird](toth066)
+[Next: 63. The Coyote, the Bat, and the Humming-bird](toth066.md)

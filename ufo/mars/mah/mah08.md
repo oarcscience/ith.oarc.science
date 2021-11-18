@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah07)  [Next](mah09) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah07)  [Next](mah09.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ necessary in order to utilize the frozen Polar moisture.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Distribution Of Commodities](mah09)
+[Next: Chapter VI: Distribution Of Commodities](mah09.md)

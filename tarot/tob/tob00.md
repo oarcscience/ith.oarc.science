@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Next](tob01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Next](tob01.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Reading](../pkt/tarot0)  [Index](index)  [Next](tob01) 
 
 <span id="img_front"></span> [![ABSOLUTE KEY TO OCCULT
 SCIENCE.&lt;BR&gt; &lt;I&gt;Frontispiece&lt;/I&gt;.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 ABSOLUTE KEY TO OCCULT SCIENCE.  
 *Frontispiece*.  
 
@@ -44,4 +44,4 @@ TO ALL ITS DISCIPLES.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](tob01)
+[Next: Preface](tob01.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa08)  [Next](awa10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa08)  [Next](awa10.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ circumcision--is observed by the men.
 
 ------------------------------------------------------------------------
 
-[Next: Hunting and Gathering](awa10)
+[Next: Hunting and Gathering](awa10.md)

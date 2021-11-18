@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop03)  [Next](pop05) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop03)  [Next](pop05.md) 
 
 ------------------------------------------------------------------------
 
@@ -221,4 +221,4 @@ following section.
 ------------------------------------------------------------------------
 
 [Next: Introductory: IV. Strassburg Edition of the Preface to the
-Prognostications](pop05)
+Prognostications](pop05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Next](tpk01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Next](tpk01.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Mystery Country](tpk01)
+[Next: The Mystery Country](tpk01.md)

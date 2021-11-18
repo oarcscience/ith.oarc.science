@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic101)  [Next](lfic103) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic101)  [Next](lfic103.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ cloak's India-rubber qualities to bring him to reason.
 
 ------------------------------------------------------------------------
 
-[Next: St Brigid and the Harps](lfic103)
+[Next: St Brigid and the Harps](lfic103.md)

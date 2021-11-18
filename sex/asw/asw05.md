@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](asw04)  [Next](asw06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](asw04)  [Next](asw06.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Sexuality](../index)  [Index](index)  [Previous](asw04)  [Next](asw06) 
 
 SEX worship being the most natural, the most personal or self-relating,
 and ever associated with physical maturity, we may safely conclude it to
-have had spontaneous origin in widely [separated](errata.htm#2)
+have had spontaneous origin in widely [separated](errata.htm#2.md)
 localities. As it arose in India it may have likewise arisen elsewhere.
 At all events, we believe India and the East are not the only places
 where the vestiges of it are found. There is reason to think the
@@ -38,7 +38,7 @@ Fig 25.</td>
 inspect was a stone phallus I obtained on the Big Solado Creek in the
 foot-hills of Stanislaus County, California. It is cylindrical in shape,
 nearly sixteen inches long, and two and a quarter inches in diameter.
-The second one is represented in the cut, [Fig. 25](#img_fig25). It is
+The second one is represented in the cut, [Fig. 25](#img_fig25.md). It is
 formed of basaltic rock, is eighteen inches in length, and two and one
 fourth inches in diameter at the largest part. These are commonly called
 "Indian pestles." But this appears to be a swift and too easy
@@ -48,8 +48,8 @@ elevates the autochthon's constructive above his applied skill. These
 phalli show no marks of wear, the larger ends having the same appearance
 of disuse as the smaller. A specific feature denoting weighty proof that
 our specimens are sexual emblems of the male organ cannot be overlooked.
-Near the summit of the lesser end of [Fig. 25](#img_fig25) is a
-well-defined depressed line which typifies [the](errata.htm#3) adult
+Near the summit of the lesser end of [Fig. 25](#img_fig25.md) is a
+well-defined depressed line which typifies [the](errata.htm#3.md) adult
 uncircumcised prepuce, in semi-recession upon the glands.
 
 C. C. Jones ("Antiquities of Southern Indians") says: "The worship of
@@ -91,15 +91,15 @@ Fig. 26.</td>
 </tbody>
 </table>
 
-[Fig. 26](#img_fig26) is a unique specimen, the original of which
-accompanied [Fig. 25](#img_fig25). They are both in the collection of
+[Fig. 26](#img_fig26.md) is a unique specimen, the original of which
+accompanied [Fig. 25](#img_fig25.md). They are both in the collection of
 the Academy of Sciences in San Francisco, Cal., but without history
 except such as may be read from each as an individual fact. This
 oval-shaped relic has been denominated a "mortar." But that term seems a
 misnomer. The object departs from the type of the mortar. Other vessels
 in the collection that are unquestioned mortars have a less elaborate
 finish, and all strictly conform to the one idea of rough utility. This
-specimen ([Fig. 26](#img_fig26)) is fourteen inches long, nine inches
+specimen ([Fig. 26](#img_fig26).md) is fourteen inches long, nine inches
 broad, and six inches high. It is not polished, but it has all even
 smoothness on the outer surface. The oblong cavity, which is nearly
 three inches deep, allows quite sharp pits
@@ -121,4 +121,4 @@ answering to the yoni of India, and a companion to the phallus.
 
 ------------------------------------------------------------------------
 
-[Next: Author's Afterword](asw06)
+[Next: Author's Afterword](asw06.md)

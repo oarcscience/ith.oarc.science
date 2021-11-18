@@ -1412,6 +1412,6 @@ The Occultist may remain satisfied, and care for no more.
 
 ------------------------------------------------------------------------
 
-[Next Section](sd1-0-pr)
+[Next Section](sd1-0-pr.md)
 
-[Contents](sd1-0-co.htm#contents)
+[Contents](sd1-0-co.htm#contents.md)

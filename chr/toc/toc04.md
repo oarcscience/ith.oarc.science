@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](toc03)  [Next](toc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](toc03)  [Next](toc05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Trial of Christ*, by David K. Breed, \[1948\], at Intangible
 Textual Heritage
 
@@ -23,7 +23,7 @@ Textual Heritage
 
 "For God so loved the world, that he gave his only begotten Son, that
 whosoever believeth in him should not perish, but have everlasting
-life." <span id="fr_0"></span>[1](#fn_0) The death of Christ as the
+life." <span id="fr_0"></span>[1](#fn_0.md) The death of Christ as the
 sacrifice of God for man is the greatest fact in the story of salvation,
 except His glorious resurrection. No legalistic study of The Trial of
 Christ can take the place of the Evangelistic message of The Christ. To
@@ -90,8 +90,8 @@ which a key is found in an Appendix.
 
 ### Footnotes
 
-<span id="fn_0"></span>[9:1](toc04.htm#fr_0) John 3:16.
+<span id="fn_0"></span>[9:1](toc04.htm#fr_0.md) John 3:16.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Legal Background and Sources of the Record](toc05)
+[Next: Chapter II. Legal Background and Sources of the Record](toc05.md)

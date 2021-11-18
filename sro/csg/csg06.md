@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](csg05)  [Next](csg07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](csg05)  [Next](csg07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 
 THE earliest definite hint of any political work on the part of the
 Comte de St. Germain is from the pen of Madame d’Adhémar. <span
-id="fr_42"></span>[1](#fn_42)
+id="fr_42"></span>[1](#fn_42.md)
 
 When sketching the portraits of those who were received into intimacy by
 Louis XV. at Versailles, she says: "The King was also much attached to
@@ -81,7 +81,7 @@ tell me their secret. It is said to be only known by a M. de St.
 Germain, who supped formerly at Trent with the Council Fathers, and who
 will probably have the honour of seeing your Majesty in the course of
 fifty years. He is a man who never dies, and who knows
-everything." <span id="fr_43"></span>[1](#fn_43)
+everything." <span id="fr_43"></span>[1](#fn_43.md)
 
 The allusion "supped at Trent" is a reference to the gossip which
 originated from Lord Gower's impersonation and misrepresentation of M.
@@ -102,13 +102,13 @@ France and Austria, on which rested the credit of the Duc de Choiseul.
 Louis XV. and Madame de Pompadour wished for this special treaty of
 peace. . . . The Marshal drew up the instructions; the King delivered
 them himself with a cipher to M. de St. Germain." <span
-id="fr_44"></span>[1](#fn_44)
+id="fr_44"></span>[1](#fn_44.md)
 
 Thus, then, is the mission duly signed and sealed by the King himself,
 but, as we shall see, even the royal protection could not avert the
 suspicion and distrust which so unpleasant a position naturally
 incurred, and when M. de St. Germain arrived at the Hague he came into
-collision with M. d’Affry, <span id="fr_45"></span>[2](#fn_45) the
+collision with M. d’Affry, <span id="fr_45"></span>[2](#fn_45.md) the
 accredited Ambassador from France.
 
 <span id="page_98">p. 98</span>
@@ -128,7 +128,7 @@ Hague, evidently on a private mission, where the Comte d’Affry was
 French Ambassador, but the two had no relations with each other.
 Voltaire, who is generally a good reporter, ascribes the Comte's
 appearance to the Secret Treaty of Peace." <span
-id="fr_46"></span>[1](#fn_46) The date mentioned by this author is not
+id="fr_46"></span>[1](#fn_46.md) The date mentioned by this author is not
 quite accurate, as we shall see.
 
 That the Duc de Choiseul was profoundly
@@ -163,7 +163,7 @@ action was approved; but M. de St. Germain escaped him. Their
 Highnesses, having made good their assent, despatched a large body of
 guards to arrest M. de St. Germain, who, having been privately warned,
 fled to England. I have some grounds for believing that he soon left it
-again to go to St. Petersburg." <span id="fr_47"></span>[1](#fn_47)
+again to go to St. Petersburg." <span id="fr_47"></span>[1](#fn_47.md)
 
 No better account could be given than this, by one present at the French
 Cabinet Council, of the way in which Louis XV., weak and irresolute,
@@ -182,7 +182,7 @@ it, and he is surrounded only by
 <span id="page_101">p. 101</span>
 
 creatures placed by the Brothers Pâris, <span
-id="fr_48"></span>[1](#fn_48) who alone cause all the trouble of France.
+id="fr_48"></span>[1](#fn_48.md) who alone cause all the trouble of France.
 It is they who corrupt everything, and thwarted the plans of the best
 citizen in France, the Marshal de Belle-Isle. Hence the disunion and
 jealousy amongst the Ministers, who seem all to serve a different
@@ -205,7 +205,7 @@ with his knowledge of physics,
 <span id="page_102">p. 102</span>
 
 did I not fear to weary you with tales which must seem rather romantic
-than real." <span id="fr_49"></span>[1](#fn_49)
+than real." <span id="fr_49"></span>[1](#fn_49.md)
 
 The Saxon diplomatist, from whose despatches these extracts are
 gathered, very shortly changed his friendly tone, on finding that the
@@ -247,7 +247,7 @@ France in order to promote the success of her negotiations with England.
 These letters were sent back to M. d’Affry, with a command to forbid St.
 Germain to meddle with any transactions, on pain of expiating his
 rashness for the rest of his days in a dungeon on his return to
-France." <span id="fr_50"></span>[1](#fn_50)
+France." <span id="fr_50"></span>[1](#fn_50.md)
 
 Truly ludicrous is the difference in the tone of these documents; M. de
 St. Germain was endeavouring
@@ -284,13 +284,13 @@ political phenomenon appeared there, a man whom no one has been able to
 understand. He was known under the name of the Comte de St. Germain. He
 had been employed by France, and was even so high in favour with Louis
 XV., that this Prince had thought of giving him the Palace of Chambord"
-(De l’hiver de 1759 à 1760). <span id="fr_51"></span>[1](#fn_51)
+(De l’hiver de 1759 à 1760). <span id="fr_51"></span>[1](#fn_51.md)
 
 The mission of M. d’Edelsheim is not clearly stated, but we find that
 not only did M. de St. Germain have to leave London, failing to bring
 about the peace so sorely desired, but that the Prussian agent fared
 even worse; the details are given by Herr Barthold <span
-id="fr_52"></span>[2](#fn_52): "The Prussian negotiator . . . returning
+id="fr_52"></span>[2](#fn_52.md): "The Prussian negotiator . . . returning
 from London *viâ* Holland to fetch his luggage from Paris, was induced
 to remain a few days with the Bailly de Froulay, and then, receiving a
 *Lettre de Cachet*, he was put into the Bastille. Choiseul assured the
@@ -313,7 +313,7 @@ find the truth, for in the work just cited we hear that St. Germain was
 seen in the Bois de Boulogne in May, 1761. When the Marquise d’Urfé
 informed the Duc de Choiseul of his presence in Paris that Prime
 Minister replied: "Je n’en suis pas surpris, puisqu’il a passé la nuit
-dans mon cabinet." <span id="fr_53"></span>[1](#fn_53) This informant
+dans mon cabinet." <span id="fr_53"></span>[1](#fn_53.md) This informant
 proceeds: "Casanova is therefore satisfied that de Choiseul had only
 pretended to be annoyed with M. de St. Germain, so as to make it easier
 for him to be sent to London as agent; Lord Halifax however saw through
@@ -377,7 +377,7 @@ point the envoy made me no
 
 <span id="page_109">p. 109</span>
 
-reply." <span id="fr_54"></span>[1](#fn_54) This passage implies other
+reply." <span id="fr_54"></span>[1](#fn_54.md) This passage implies other
 diplomatic missions, of which no details are to be found.
 
 Another writer, who has also been quoted, makes an important statement
@@ -389,7 +389,7 @@ says: "The Lord High Chamberlain, Graf Marcolini, came from Dresden to
 Leipzig and made to the Comte--in the name of the Court--certain
 promises; M. de St. Germain refused them, but he came in 1777 to
 Dresden, where he had much intercourse with the Prussian Ambassador, von
-Alvensleben." <span id="fr_55"></span>[2](#fn_55) This statement can be
+Alvensleben." <span id="fr_55"></span>[2](#fn_55.md) This statement can be
 corroborated by the writer of the life of Graf Marcolini, which has been
 carefully compiled from the secret archives of the Saxon Court (with
 especial permission) by the Freiherr O'Byrn.
@@ -407,7 +407,7 @@ of interviewing St. Germain on hearing of his arrival under the name of
 Welldoun, October 1776 . . . the meeting resulted in the Graf offering
 St. Germain an important post in Dresden if he would render a great
 service to the State; the 'Wonder Man' however refused these
-offers." <span id="fr_56"></span>[1](#fn_56)
+offers." <span id="fr_56"></span>[1](#fn_56.md)
 
 Nowhere are to be found the details of any of these diplomatic missions;
 we can only gather the fragments and, piecing them together, the fact
@@ -419,55 +419,55 @@ trusted as friend, and by none feared as enemy.
 
 ### Footnotes
 
-<span id="fn_42"></span>[94:1](csg06.htm#fr_42) *Souvenirs sur
+<span id="fn_42"></span>[94:1](csg06.htm#fr_42.md) *Souvenirs sur
 Marie-Antoinette*, i., p. 8
 
-<span id="fn_43"></span>[96:1](csg06.htm#fr_43) VOLTAIRE, *Œuvres*.
+<span id="fn_43"></span>[96:1](csg06.htm#fr_43.md) VOLTAIRE, *Œuvres*.
 Lettre cxviii., ed. Beuchot, lviii., p. 360.
 
-<span id="fn_44"></span>[97:1](csg06.htm#fr_44) GLEICHEN (C. H. Baron
+<span id="fn_44"></span>[97:1](csg06.htm#fr_44.md) GLEICHEN (C. H. Baron
 de) *Mémoires*. Paris, 1868, xi., p. 130.
 
-<span id="fn_45"></span>[97:2](csg06.htm#fr_45) Ludwig Augustin d’Affry,
+<span id="fn_45"></span>[97:2](csg06.htm#fr_45.md) Ludwig Augustin d’Affry,
 a Swiss, born 1715 at Versailles, <span id="page_98">p. 98</span>
 Ambassador at the Hague in 1755, became in 1780 Colonel of the Swiss
 Guard, died in 1793 at his castle Barthelemy in Waadt.
 
-<span id="fn_46"></span>[98:1](csg06.htm#fr_46) BARTHOLD, *Die
+<span id="fn_46"></span>[98:1](csg06.htm#fr_46.md) BARTHOLD, *Die
 Geschichtlichen Persönlichkeiten*. Berlin, 1846, ii., p. 81.
 
-<span id="fn_47"></span>[100:1](csg06.htm#fr_47) GLEICHEN (C. H. Baron
+<span id="fn_47"></span>[100:1](csg06.htm#fr_47.md) GLEICHEN (C. H. Baron
 de) *Mémoires*, xi., pp. 131, 132.
 
-<span id="fn_48"></span>[101:1](csg06.htm#fr_48) The Brothers
+<span id="fn_48"></span>[101:1](csg06.htm#fr_48.md) The Brothers
 Pâris-Duverney were the great financiers, the bank monarchs, in the time
 of Louis XV.
 
-<span id="fn_49"></span>[102:1](csg06.htm#fr_49) TAILLANDIER,
+<span id="fn_49"></span>[102:1](csg06.htm#fr_49.md) TAILLANDIER,
 SAINT-RENÉ, *Un Prince Allemand du XVIII. Siècle. Revue des deux
 Mondes*, lxi., pp. 896, 897.
 
-<span id="fn_50"></span>[103:1](csg06.htm#fr_50) TAILLANDIER, *op.
+<span id="fn_50"></span>[103:1](csg06.htm#fr_50.md) TAILLANDIER, *op.
 cit.*, p. 897.
 
-<span id="fn_51"></span>[105:1](csg06.htm#fr_51) FREDERIC II., Roi de
+<span id="fn_51"></span>[105:1](csg06.htm#fr_51.md) FREDERIC II., Roi de
 Prusse, *Œuvres Posthumes*. Berlin, 1788, iii., p. 73.
 
-<span id="fn_52"></span>[105:2](csg06.htm#fr_52) BARTHOLD, *op. cit.*,
+<span id="fn_52"></span>[105:2](csg06.htm#fr_52.md) BARTHOLD, *op. cit.*,
 pp. 93. 94.
 
-<span id="fn_53"></span>[106:1](csg06.htm#fr_53) BARTHOLD, *Op. cit.*,
+<span id="fn_53"></span>[106:1](csg06.htm#fr_53.md) BARTHOLD, *Op. cit.*,
 p. 94.
 
-<span id="fn_54"></span>[109:1](csg06.htm#fr_54) THIÉBAULT, D., *op.
+<span id="fn_54"></span>[109:1](csg06.htm#fr_54.md) THIÉBAULT, D., *op.
 cit.*, iv., p. 84; 3rd ed.
 
-<span id="fn_55"></span>[109:2](csg06.htm#fr_55) HEZEKIEL, G.,
+<span id="fn_55"></span>[109:2](csg06.htm#fr_55.md) HEZEKIEL, G.,
 Abenteuerliche Gesellen, i., p. 46. Berlin, 1862.
 
-<span id="fn_56"></span>[110:1](csg06.htm#fr_56) O'BYRN, F. A., Camillo,
+<span id="fn_56"></span>[110:1](csg06.htm#fr_56.md) O'BYRN, F. A., Camillo,
 *Graf Marcolini: Eine Biographische Skizze*. Dresden, 1877.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. In The ''Mitchell Papers''](csg07)
+[Next: Chapter VI. In The ''Mitchell Papers''](csg07.md)

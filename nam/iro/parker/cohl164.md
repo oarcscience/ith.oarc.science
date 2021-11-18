@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl163)  [Next](cohl165) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl163)  [Next](cohl165.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_131">p. 131</span>
 
-### IROQUOIS SUN MYTHS <span id="fr_115"></span>[1](#fn_115)
+### IROQUOIS SUN MYTHS <span id="fr_115"></span>[1](#fn_115.md)
 
 The Iroquois of New York and Canada still retain vestiges of their
 former adoration of the sun, and observe certain rites, very likely
@@ -261,9 +261,9 @@ critically sifting and comparing Iroquois myths is a delicate task'
 
 ### Footnotes
 
-<span id="fn_115"></span>[131:1](cohl164.htm#fr_115) A. C. Parker in the
+<span id="fn_115"></span>[131:1](cohl164.htm#fr_115.md) A. C. Parker in the
 journal of American Folk Lore, October-December 1910.
 
 ------------------------------------------------------------------------
 
-[Next: Anecdotes of Cornplanter](cohl165)
+[Next: Anecdotes of Cornplanter](cohl165.md)

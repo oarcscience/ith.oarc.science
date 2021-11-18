@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh06)  [Next](hloh08) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh06)  [Next](hloh08.md) 
 
 ------------------------------------------------------------------------
 
@@ -142,4 +142,4 @@ became the god of the chiefs of Oahu.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Legend of the Bread-Fruit Tree](hloh08)
+[Next: IV. Legend of the Bread-Fruit Tree](hloh08.md)

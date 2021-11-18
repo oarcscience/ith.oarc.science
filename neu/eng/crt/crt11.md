@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt10)  [Next](crt12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt10)  [Next](crt12.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_06400"></span>
 
 [![Sir Launcelot and Elouise the Fair](tn/06400.jpg)  
-Click to enlarge](img/06400.jpg)  
+Click to enlarge](img/06400.jpg.md)  
 Sir Launcelot and Elouise the Fair  
 
 <span id="page_65">p. 65</span>
@@ -341,7 +341,7 @@ Sir
 Launcelot ran against him, and they struck together so fiercely that it
 was terrible to behold. But the spear of Sir Mador de la Porte burst
 into pieces, whilst the spear of Sir Launcelot held, so that both Sir
-Mador and his horse were [overthrown](errata.htm#1), the horse rolling
+Mador and his horse were [overthrown](errata.htm#1.md), the horse rolling
 upon the man. And in that encounter Sir Mador's shoulder went out of
 place, and he also had to be borne away by his attendants.
 
@@ -440,4 +440,4 @@ and the King of North Wales.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seventh](crt12)
+[Next: Chapter Seventh](crt12.md)

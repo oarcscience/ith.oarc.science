@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip38)  [Next](fip40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip38)  [Next](fip40.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_134">p. 134</span>
 
-### THE BLACK LAMB. <span id="fr_17"></span>[1](#fn_17)
+### THE BLACK LAMB. <span id="fr_17"></span>[1](#fn_17.md)
 
 LADY WILDE.
 
@@ -36,9 +36,9 @@ clay.
 
 ### Footnotes
 
-<span id="fn_17"></span>[134:1](fip39.htm#fr_17) *Ancient Legends of
+<span id="fn_17"></span>[134:1](fip39.htm#fr_17.md) *Ancient Legends of
 Ireland*.
 
 ------------------------------------------------------------------------
 
-[Next: Song of the Ghost, by Alfred Percival Graves](fip40)
+[Next: Song of the Ghost, by Alfred Percival Graves](fip40.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi185)  [Next](mtsi187) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi185)  [Next](mtsi187.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,15 +17,15 @@ Crane flew along slowly behind him. He went all night and all day
 without stopping and stood upon a white sandy beach. Afterwards Humming
 Bird came flying to the spot. "I have beaten you," said Crane. Crane
 sang, "He wants to beat him. Hayoya' hīya hayuya' hī'ya hikāmō'ca
-hikamō'~~l~~åpī'tcai'i wå wa." <span id="fr_48"></span>[1](#fn_48)
+hikamō'~~l~~åpī'tcai'i wå wa." <span id="fr_48"></span>[1](#fn_48.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_48"></span>[157:1](mtsi186.htm#fr_48) The last words are
+<span id="fn_48"></span>[157:1](mtsi186.htm#fr_48.md) The last words are
 said to be in the Muskogee language, but I can not identify them.
 
 ------------------------------------------------------------------------
 
-[Next: 51. Terrapin Races](mtsi187)
+[Next: 51. Terrapin Races](mtsi187.md)

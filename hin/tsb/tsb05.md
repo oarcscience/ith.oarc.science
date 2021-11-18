@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tsb04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tsb04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte)
 
 <span id="page_2">p. 2</span> <span id="page_3">p. 3</span>
 
-### THE WORLD IS FOUNDED UPON THE SRADDHA <span id="fr_0"></span>[\*](#fn_0) RITES IN HONOR OF ANCESTORS
+### THE WORLD IS FOUNDED UPON THE SRADDHA <span id="fr_0"></span>[\*](#fn_0.md) RITES IN HONOR OF ANCESTORS
 
 # THE TRANSMIGRATION OF THE SEVEN BRAHMANS
 
@@ -34,7 +34,7 @@ hunger impelled them, their reason was blinded; they conceived the cruel
 and mad project of slaying her. Cavi and Swasrima endeavored to prevent
 them from it. What could they against the others? But Pitrivarttin, that
 one among them who was always occupied with the *sraddha*, <span
-id="fr_1"></span>[\*](#fn_0) having his mind then on the duty the
+id="fr_1"></span>[\*](#fn_0.md) having his mind then on the duty the
 thought of which possessed him, said to his wondering brothers with
 anger: "Since we have a sacrifice to make to the Pitris, let this cow be
 sacrificed by us with devotion, and her death will profit us. Let us
@@ -58,7 +58,7 @@ existence the remembrance of the past: they showed themselves attached
 to their duties, performing their functions with zeal, and abstaining
 from every act of cupidity and injustice: now holding in their breath as
 long a time as endured the recitation of a *mantra*, <span
-id="fr_2"></span>[\*](#fn_1) now plunging themselves into profound
+id="fr_2"></span>[\*](#fn_1.md) now plunging themselves into profound
 meditations on their destiny. These were the names of these pious
 hunters: *Nirvera*, *Nirvriti*, *Kchanta*, *Nirmanyou*, *Criti*,
 *Veghasa*, and *Matrivarttin*. Thus these same men who had formerly
@@ -79,7 +79,7 @@ horns, by turns experiencing and inspiring fear. Their names were then
 they wandered in the woods, detached from every sentiment, from every
 affection, submitting with resignation to the duties which they had to
 fulfill, and in their solitude delivering themselves to the exercises of
-the *Yoga*. <span id="fr_3"></span>[\*](#fn_2) Extenuated by fasting and
+the *Yoga*. <span id="fr_3"></span>[\*](#fn_2.md) Extenuated by fasting and
 penitence, they died in the course of pious practices, by which the
 earth was worn bare and one sees yet, O son of Bharata, upon the
 mountain Calandyara the mark of their feet.
@@ -155,7 +155,7 @@ nourishing themselves only on air and water, suffered
 
 their bodies to waste away, the king Vibhradja betook himself to these
 woods, surrounded by all his court, and shining like Indra in the midst
-of his celestial garden of Nandana. <span id="fr_4"></span>[\*](#fn_3)
+of his celestial garden of Nandana. <span id="fr_4"></span>[\*](#fn_3.md)
 He saw there these seven birds occupied with their pious practices:
 humbled by the comparison which he made of them and himself, he came
 back all pensive into his city. He had a son extremely religious who was
@@ -195,7 +195,7 @@ Brahmadatta, as they had been in their preceding births. One was named
 *Pantchala:* it was he who, in the various transmigrations, had been the
 fifth; the sixth was called then *Candarica*. Brahmadatta had been the
 seventh. Pantchala, learned in the Rig-veda, was a great Atcharya; <span
-id="fr_5"></span>[\*](#fn_4) Candarica possessed two Vedas, the Sama and
+id="fr_5"></span>[\*](#fn_4.md) Candarica possessed two Vedas, the Sama and
 the Yadjour. The king, son of Anouha, had the privilege of knowing the
 language of all beings. He cultivated the friendship of Pantchala and of
 Candarica. Delivered, like common men, to the empire of the senses and
@@ -232,7 +232,7 @@ Happy at hearing you, he will give you lands and riches, he will crown
 at last all your desires. Go, and be satisfied." Then they told him
 certain words, and after having honored him as their spiritual master,
 they gave themselves only to the practice of the Yoga, and obtained the
-final emancipation. <span id="fr_6"></span>[\*](#fn_5)
+final emancipation. <span id="fr_6"></span>[\*](#fn_5.md)
 
 <span id="page_11">p. 11</span>
 
@@ -276,12 +276,12 @@ had rendered his oracle; the king, satisfied with his answer, had
 performed the ablution of his head, and mounted upon a chariot all
 shining with gold, was reentering into the city. The chief of the
 Brahmans, Candarica, was holding the reins of the horses, and the son of
-Babhravya was bearing the chowri <span id="fr_7"></span>[\*](#fn_6) and
+Babhravya was bearing the chowri <span id="fr_7"></span>[\*](#fn_6.md) and
 the royal fan. "This is the moment," said the Brahman to himself, and
 immediately he addressed these words to the king and to his two
 companions: "The seven hunters of the country of Dasarna, the stags of
 mount Calandjara, the geese of Sarodwipa, the swans of Manassa were
-anciently in Couroukchetra <span id="fr_8"></span>[\*\*](#fn_7) Brahmans
+anciently in Couroukchetra <span id="fr_8"></span>[\*\*](#fn_7.md) Brahmans
 instructed in the Vedas: in this long voyage why then do you remain
 behind?" At these words Brahmadatta remained speechless, as well as his
 two friends Pantchala and Candarica. Seeing the one let fall the reins
@@ -325,26 +325,26 @@ glory.
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:\*](tsb05.htm#fr_1) Worship offered to the
+<span id="fn_0"></span>[3:\*](tsb05.htm#fr_1.md) Worship offered to the
 Pitris or fathers.
 
-<span id="fn_1"></span>[4:\*](tsb05.htm#fr_2) An act of piety in which
+<span id="fn_1"></span>[4:\*](tsb05.htm#fr_2.md) An act of piety in which
 the penitent collects himself, and holds his breath, until the prayer
 which he repeats mentally is ended.
 
-<span id="fn_2"></span>[5:\*](tsb05.htm#fr_3) An exercise of penance or
+<span id="fn_2"></span>[5:\*](tsb05.htm#fr_3.md) An exercise of penance or
 extreme devotion.
 
-<span id="fn_3"></span>[8:\*](tsb05.htm#fr_4) The Elysium of Indra.
+<span id="fn_3"></span>[8:\*](tsb05.htm#fr_4.md) The Elysium of Indra.
 
-<span id="fn_4"></span>[9:\*](tsb05.htm#fr_5) A spiritual teacher.
+<span id="fn_4"></span>[9:\*](tsb05.htm#fr_5.md) A spiritual teacher.
 
-<span id="fn_5"></span>[10:\*](tsb05.htm#fr_6) That is, they died to be
+<span id="fn_5"></span>[10:\*](tsb05.htm#fr_6.md) That is, they died to be
 born no more on earth.
 
-<span id="fn_6"></span>[12:\*](tsb05.htm#fr_7) A fly-flap made of the
+<span id="fn_6"></span>[12:\*](tsb05.htm#fr_7.md) A fly-flap made of the
 tail of a Tartary cow.
 
-<span id="fn_7"></span>[12:\*\*](tsb05.htm#fr_8) A part of India.
+<span id="fn_7"></span>[12:\*\*](tsb05.htm#fr_8.md) A part of India.
 
  

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml32)  [Next](tml34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml32)  [Next](tml34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -156,7 +156,7 @@ dosed his eyes in death, and wept over him.
 A CHURCH AT HILLESTAD, NORWAY&lt;br&gt; Carved with scenes from the
 Volsung Saga. Sigurd is shown with his thumb in his mouth at the bottom
 of the left portal](tn/31200.jpg)  
-Click to enlarge](img/31200.jpg)  
+Click to enlarge](img/31200.jpg.md)  
 WOOD PORTALS FROM A CHURCH AT HILLESTAD, NORWAY  
 Carved with scenes from the Volsung Saga. Sigurd is shown with his thumb
 in his mouth at the bottom of the left portal  
@@ -225,7 +225,7 @@ the one he desired.
 An old, grey-bearded man, with one eye, came to Sigurd, who knew not
 that he was Odin, and he chose for the lad a steed which was of
 Sleipner's race. Sigurd called it Grane because it was grey, nor was its
-equal [to](errata.htm#3) be found in the world.
+equal [to](errata.htm#3.md) be found in the world.
 
 Now Alv took Hjordis for wife, and they lived happily together.
 
@@ -253,7 +253,7 @@ equal, for fain would I do mighty deeds."
 
 Then Regin went to his smithy and made a sword; but the lad smote it on
 the anvil and it flew in pieces. A second sword he splintered
-also. <span id="fr_92"></span>[1](#fn_92)
+also. <span id="fr_92"></span>[1](#fn_92.md)
 
 Thereafter Sigurd went to his mother and asked for the broken pieces of
 his sire's great sword Gram. Then he bade Regin forge it anew, and the
@@ -266,7 +266,7 @@ promised thee, so shall I do, but first I must set forth to avenge the
 death of my sire."
 
 Stronger grew the lad, and he was of great stature <span
-id="fr_93"></span>[2](#fn_93) and skilled in feats of arms. Ere he set
+id="fr_93"></span>[2](#fn_93.md) and skilled in feats of arms. Ere he set
 forth to do deeds of valour he paid visit to Griper, his mother's
 brother, who had power to foretell what would come to pass. Sigurd
 desired to know what the norns had decreed regarding him, and although
@@ -281,7 +281,7 @@ King Lynge the death of Sigmund. Hjaalprek gave him according to his
 desire. A great storm broke forth as he crossed the seas, and as the
 ships came nigh a headland a man beckoned to Sigurd and desired to be
 taken aboard. The young hero commanded that this should be done. His
-name was Fjorner <span id="fr_94"></span>[1](#fn_94), and he carried out
+name was Fjorner <span id="fr_94"></span>[1](#fn_94.md), and he carried out
 the behests of Urd. He sang strange runes regarding the battle that was
 to be. As he did so the storm passed away, and they drew nigh to the
 kingdom of King Lynge. Then Fjorner vanished.
@@ -314,7 +314,7 @@ Sigurd went towards the dragon's dwelling, but Regin waited at a
 distance. Then to the young hero came an old and grey-bearded man with
 one eye, and he gave counsel that he should dig many pits, so that the
 blood of the dragon might not drown him. <span
-id="fr_95"></span>[1](#fn_95) Sigurd knew not that the man was Odin, but
+id="fr_95"></span>[1](#fn_95.md) Sigurd knew not that the man was Odin, but
 he did as he was advised: he dug many pits, and in one of them he
 concealed himself and waited for the dragon to come forth.
 
@@ -334,7 +334,7 @@ thy name, and what is thy sire's name?"
 
 Sigurd answered: "My folk are strangers among men. My name is Lordly
 Beast. I have nor sire nor mother, and hither came I alone." <span
-id="fr_96"></span>[2](#fn_96)
+id="fr_96"></span>[2](#fn_96.md)
 
 Fafner said: "Wilt thou lie to me in my hour of death) by saying that
 thou hast nor sire nor mother or other name than Lordly Beast?"
@@ -378,7 +378,7 @@ down to sleep. The lad thrust a rod through it and roasted it over a
 fire. When the heart frizzled he laid his finger on the spot, lest the
 blood should come forth, and then he thrust his finger in his mouth.
 When he did that he at once understood the language of birds. <span
-id="fr_97"></span>[1](#fn_97)
+id="fr_97"></span>[1](#fn_97.md)
 
 <span id="page_319">p. 319</span>
 
@@ -402,7 +402,7 @@ Sigurd leapt up. "The day hath not come when Regin shall slay me," he
 said, and at once cut off the head of the wonder smith.
 
 Then the young hero ate a portion of Fafner's heart, <span
-id="fr_98"></span>[1](#fn_98) and took the rest with him. Thereafter he
+id="fr_98"></span>[1](#fn_98.md) and took the rest with him. Thereafter he
 went to the dragon's lair and took forth the treasure--the rings, the
 awesome helmet, the sword Hrotte, gold armour, and many ornaments. In
 two chests he placed the treasure, and these he put upon the back of his
@@ -435,7 +435,7 @@ Brynhild lay wrapped in a magic sleep.
 
 <span id="img_32000"></span> <span align="CENTER"> [![SIGURD THE DRAGON
 SLAYER&lt;br&gt; From the painting by E. Nielsen](tn/32000.jpg)  
-Click to enlarge](img/32000.jpg)  
+Click to enlarge](img/32000.jpg.md)  
 SIGURD THE DRAGON SLAYER  
 From the painting by E. Nielsen  
 </span>
@@ -489,14 +489,14 @@ With words of promise in his walk,
 
 ### Footnotes
 
-<span id="fn_92"></span>[315:1](tml33.htm#fr_92) A similar story is told
+<span id="fn_92"></span>[315:1](tml33.htm#fr_92.md) A similar story is told
 in the Highlands of Finn (Fingal), who shook sword after sword to pieces
 until the smith forged a matchless blade Which had to be tempered with
 the blood of the first living thing that entered the smithy in the
 morning. Finn slew the smith. Both stories are probably of common
 origin.
 
-<span id="fn_93"></span>[315:2](tml33.htm#fr_93) The Highland Finn was
+<span id="fn_93"></span>[315:2](tml33.htm#fr_93.md) The Highland Finn was
 60 feet high, and Garry was a dwarf because he was but 40 feet in
 height. Sigurd did not attain such godlike stature, but he was,
 according to Saga statistics, nearly 20 feet high; for when his sword
@@ -505,20 +505,20 @@ was seven spans in length. Finn also avenged his father's death, but he
 never slew a dragon nor sought great treasure. His ambitions were those
 of a huntsman.
 
-<span id="fn_94"></span>[316:1](tml33.htm#fr_94) One of Odin's names.
+<span id="fn_94"></span>[316:1](tml33.htm#fr_94.md) One of Odin's names.
 
-<span id="fn_95"></span>[317:1](tml33.htm#fr_95) It would appear that in
+<span id="fn_95"></span>[317:1](tml33.htm#fr_95.md) It would appear that in
 making imperfect swords and advising the construction of only one pit,
 Regin desired to be rid of Sigurd when he had served his purpose.
 
-<span id="fn_96"></span>[317:2](tml33.htm#fr_96) The reluctance shown by
+<span id="fn_96"></span>[317:2](tml33.htm#fr_96.md) The reluctance shown by
 Sigurd is evidence of his belief in the magical power of names. He
 feared that the dragon could, by using his name, exercise an evil
 influence over him. Even at the present day certain peoples in these
 islands are charged with lack of courtesy because they refuse to give
 their names to strangers.
 
-<span id="fn_97"></span>[318:1](tml33.htm#fr_97) Here again we have
+<span id="fn_97"></span>[318:1](tml33.htm#fr_97.md) Here again we have
 strong resemblance to the story of Finn. Black Arky, who slew Finn's
 father, Coul, caught a certain salmon and asked the lad to roast it
 without <span id="page_319">p. 319</span> raising a blister. Then he
@@ -528,10 +528,10 @@ became his "Tooth of Knowledge". He then knew who Arky was and slew him.
 In some Gaelic stories Finn bites his thumb when he desires to know
 anything. There are no birds in the Finn story.
 
-<span id="fn_98"></span>[319:1](tml33.htm#fr_98) Because of the
+<span id="fn_98"></span>[319:1](tml33.htm#fr_98.md) Because of the
 cannibalistic belief that by eating an enemy he would obtain from flesh
 and blood whatever strength or wisdom the other possessed in life.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX Brynhild and Gudrun](tml34)
+[Next: Chapter XXIX Brynhild and Gudrun](tml34.md)

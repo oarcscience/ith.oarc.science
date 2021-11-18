@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Procopius](../index)  [Index](index)  [Previous](shp17)  [Next](shp19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Procopius](../index)  [Index](index)  [Previous](shp17)  [Next](shp19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -162,4 +162,4 @@ long as they could share the licenses of her court.
 ------------------------------------------------------------------------
 
 [Next: XVI. What Happened to Those Who Fell Out of Favor With
-Theodora](shp19)
+Theodora](shp19.md)

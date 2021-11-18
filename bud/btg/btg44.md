@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg43)  [Next](btg45) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg43)  [Next](btg45.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ But all is in vain unless you attain the peace of Nirvana."
 
 ------------------------------------------------------------------------
 
-[Next: Secrecy And Publicity](btg45)
+[Next: Secrecy And Publicity](btg45.md)

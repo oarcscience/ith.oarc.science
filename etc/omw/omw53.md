@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw52)  [Next](omw54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw52)  [Next](omw54.md) 
 
 ------------------------------------------------------------------------
 
@@ -142,4 +142,4 @@ succeed again, and Lleu, thy son, shall have a wife."
 ------------------------------------------------------------------------
 
 [Next: Math, the Son of Mathonwy: Part IV. The Maiden Made of
-Flowers](omw54)
+Flowers](omw54.md)

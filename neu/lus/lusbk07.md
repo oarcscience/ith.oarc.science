@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](lusbk06)  [Next](lusbk08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](lusbk06)  [Next](lusbk08.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ The catual, or prime minister, with his officers, visits the ships, and
 embraces the opportunity of asking Gama to relate to him the history of
 Portugal.
 
-HAIL glorious chief! <span id="fr_443"></span>[1](#fn_439) where never
+HAIL glorious chief! <span id="fr_443"></span>[1](#fn_439.md) where never
 chief before  
 Forc’d his bold way, all hail on India’s shore!  
 And hail, ye Lusian heroes, fair and wide  
@@ -37,15 +37,15 @@ Proud, with their leaves, to twine the Lusian spear!
 What self-consuming discord fires their souls!  
 ’Gainst her own breast her sword Germania turns,  
 Through all her states fraternal rancour burns; <span
-id="fr_444"></span>[2](#fn_440)
+id="fr_444"></span>[2](#fn_440.md)
 
 <span id="page_194">p. 194</span>
 
 Some, blindly wand’ring, holy faith disclaim, <span
-id="fr_445"></span>[1](#fn_441)  
+id="fr_445"></span>[1](#fn_441.md)  
 And, fierce through all, wild rages civil flame.  
 High sound the titles of the English crown,  
-"King of Jerusalem," <span id="fr_446"></span>[2](#fn_442) his old
+"King of Jerusalem," <span id="fr_446"></span>[2](#fn_442.md) his old
 renown!  
 Alas, delighted with an airy name,  
 The thin, dim shadow of departed fame,  
@@ -56,16 +56,16 @@ His brethren are his foes, and Christians bleed;
 While Hagar’s brutal race his titles stain,  
 In weeping Salem unmolested reign,  
 And with their rites impure her holy shrines profane.  
-And thou, O Gaul, <span id="fr_447"></span>[3](#fn_443) with gaudy
+And thou, O Gaul, <span id="fr_447"></span>[3](#fn_443.md) with gaudy
 trophies plum’d.  
 "Most Christian" nam’d; alas, in vain assum’d!  
 What impious lust of empire steels thy breast <span
-id="fr_448"></span>[4](#fn_444)  
+id="fr_448"></span>[4](#fn_444.md)  
 From their just lords the Christian lands to wrest!  
 While holy faith’s hereditary foes <span
-id="fr_449"></span>[5](#fn_445)  
+id="fr_449"></span>[5](#fn_445.md)  
 Possess the treasures where Cynifio flows; <span
-id="fr_450"></span>[6](#fn_446)  
+id="fr_450"></span>[6](#fn_446.md)  
 And all secure, behold their harvests smile  
 In waving gold along the banks of Nile.  
 And thou, O lost to glory, lost to fame,  
@@ -77,12 +77,12 @@ By every vicious luxury debas’d,
 Each noble passion from thy breast eras’d,  
 Nerveless in sloth, enfeebling arts thy boast,  
 O Italy, how fall’n, how low, how lost! <span
-id="fr_451"></span>[1](#fn_447)  
+id="fr_451"></span>[1](#fn_447.md)  
 In vain, to thee, the call of glory sounds,  
 Thy sword alone thy own soft bosom wounds.
 
   Ah, Europe’s sons, ye brother-powers, in you  
-The fables old of Cadmus <span id="fr_452"></span>[2](#fn_448) now are
+The fables old of Cadmus <span id="fr_452"></span>[2](#fn_448.md) now are
 true;
 
 <span id="page_196">p. 196</span>
@@ -90,8 +90,8 @@ true;
 Fierce rose the brothers from the dragon teeth,  
 And each fell, crimson’d with a brother’s death.  
 So, fall the bravest of the Christian name, <span
-id="fr_453"></span>[1](#fn_449)  
-While dogs unclean <span id="fr_454"></span>[2](#fn_450) Messiah’s lore
+id="fr_453"></span>[1](#fn_449.md)  
+While dogs unclean <span id="fr_454"></span>[2](#fn_450.md) Messiah’s lore
 blaspheme,  
 And howl their curses o’er the holy tomb,  
 While to the sword the Christian race they doom.  
@@ -114,12 +114,12 @@ To throw the mimic bolt of Jove is yours,
 Yours all the art to wield the arms of fire,  
 Then, bid the thunders of the dreadful tire  
 Against the walls of dread Byzantium <span
-id="fr_455"></span>[3](#fn_451) roar,  
+id="fr_455"></span>[3](#fn_451.md) roar,  
 Till, headlong driven from Europe’s ravish’d shore  
 To their cold Scythian wilds, and dreary dens,  
 By Caspian mountains, and uncultur’d fens,  
 (Their fathers’ seats beyond the Wolgian Lake, <span
-id="fr_456"></span>[4](#fn_452))  
+id="fr_456"></span>[4](#fn_452).md)  
 The barb’rous race of Saracen betake.  
 And hark, to you the woful Greek exclaims;  
 The Georgian fathers and th’ Armenian dames,
@@ -127,10 +127,10 @@ The Georgian fathers and th’ Armenian dames,
 <span id="page_197">p. 197</span>
 
 Their fairest offspring from their bosoms torn,  
-(A dreadful tribute!) <span id="fr_457"></span>[1](#fn_453) loud
+(A dreadful tribute!) <span id="fr_457"></span>[1](#fn_453.md) loud
 imploring mourn.  
 Alas, in vain! their offspring captive led,  
-In Hagar’s <span id="fr_458"></span>[2](#fn_454) sons’ unhallow’d
+In Hagar’s <span id="fr_458"></span>[2](#fn_454.md) sons’ unhallow’d
 temples bred,  
 To rapine train’d, arise a brutal host,  
 The Christian terror, and the Turkish boast.
@@ -145,17 +145,17 @@ When Heav’n decreed to crush the Moorish foe
 Heav’n gave the Lusian spear to strike the blow.  
 When Heav’n’s own laws o’er Afric’s shores were heard,  
 The sacred shrines the Lusian heroes rear’d; <span
-id="fr_459"></span>[3](#fn_455)  
+id="fr_459"></span>[3](#fn_455.md)  
 Nor shall their zeal in Asia’s bounds expire,  
 Asia, subdu’d, shall fume with hallow’d fire.  
 When the red sun the Lusian shore forsakes,  
-And on the lap of deepest west <span id="fr_460"></span>[4](#fn_456)
+And on the lap of deepest west <span id="fr_460"></span>[4](#fn_456.md)
 awakes,  
 O’er the wild plains, beneath unincens’d skies  
 The sun shall view the Lusian altars rise.  
 And, could new worlds by human step be trod,  
 Those worlds should tremble at the Lusian nod. <span
-id="fr_461"></span>[5](#fn_457)
+id="fr_461"></span>[5](#fn_457.md)
 
 <span id="page_198">p. 198</span>
 
@@ -163,7 +163,7 @@ id="fr_461"></span>[5](#fn_457)
 On India’s shore the Lusian heroes ride.  
 High to the fleecy clouds resplendent far  
 Appear the regal towers of Malabar,  
-Imperial Calicut, <span id="fr_462"></span>[1](#fn_458) the lordly
+Imperial Calicut, <span id="fr_462"></span>[1](#fn_458.md) the lordly
 seat  
 Of the first monarch of the Indian state.  
 Right to the port the valiant GAMA bends,  
@@ -187,7 +187,7 @@ When, speeding through the crowd, with eager haste,
 And honest smiles, a son of Afric press’d:  
 Enrapt with joy the wond’ring herald hears  
 Castilia’s manly tongue salute his ears. <span
-id="fr_463"></span>[1](#fn_459)  
+id="fr_463"></span>[1](#fn_459.md)  
 "What friendly angel from thy Tago’s shore  
 Has led thee hither?" cries the joyful Moor.  
 Then, hand in hand (the pledge of faith) conjoin’d--  
@@ -213,7 +213,7 @@ The social feast the guest and master share:
 
 <span id="page_200">p. 200</span>
 
-The sacred pledge of eastern faith <span id="fr_464"></span>[1](#fn_460)
+The sacred pledge of eastern faith <span id="fr_464"></span>[1](#fn_460.md)
 approv’d,  
 By wrath unalter’d, and by wrong unmov’d.  
 Now, to the fleet the joyful herald bends,  
@@ -226,7 +226,7 @@ The bending bowsprit, and the mast so tall,
 The sides black, frowning as a castle wall,  
 The high-tower’d stern, the lordly nodding prore,  
 And the broad standard slowly waving o’er  
-The anchor’s moony <span id="fr_465"></span>[2](#fn_461) fangs. The
+The anchor’s moony <span id="fr_465"></span>[2](#fn_461.md) fangs. The
 skiff he leaves,  
 Brave GAMA’S deck his bounding step receives;  
 And, "Hail!" he cries: in transport GAMA sprung,  
@@ -246,7 +246,7 @@ As erst the bending forests stoop’d to hear
 
 <span id="page_201">p. 201</span>
 
-In Rhodope, <span id="fr_466"></span>[1](#fn_462) when Orpheus’ heavenly
+In Rhodope, <span id="fr_466"></span>[1](#fn_462.md) when Orpheus’ heavenly
 strain,  
 Deplor’d his lost Eurydice in vain;  
 While, with a mien that gen’rous friendship won  
@@ -271,7 +271,7 @@ For honest deeds (but time shall speak) approv’d.
 When India’s monarch greets his court again,  
 (For now the banquet on the tented plain:  
 And sylvan chase his careless hours employ), <span
-id="fr_467"></span>[2](#fn_463)  
+id="fr_467"></span>[2](#fn_463.md)  
 When India’s mighty lord, with wond’ring joy,  
 Shall hail you welcome on his spacious shore  
 Through oceans never plough’d by keel before,  
@@ -294,10 +294,10 @@ And Heav’n inspires my breast your sacred toils to join.
   "Vast are the shores of India’s wealthful soil;  
 Southward sea-girt she forms a demi-isle:  
 His cavern’d cliffs with dark-brow’d forests crown’d,  
-Hemodian Taurus <span id="fr_468"></span>[1](#fn_464) frowns her
+Hemodian Taurus <span id="fr_468"></span>[1](#fn_464.md) frowns her
 northern bound:  
 From Caspia’s lake th’ enormous mountain <span
-id="fr_469"></span>[1](#fn_464) spreads,  
+id="fr_469"></span>[1](#fn_464.md) spreads,  
 And, bending eastward, rears a thousand heads:  
 Far to extremest sea the ridges thrown,  
 By various names, through various tribes are known:  
@@ -327,7 +327,7 @@ Some the dread monsters of the wild adore;
 Some bend to wood and stone the prostrate head,  
 And rear unhallow’d altars to the dead.  
 By Ganges’ banks, as wild traditions tell, <span
-id="fr_470"></span>[1](#fn_465)  
+id="fr_470"></span>[1](#fn_465.md)  
 Of old the tribes liv’d healthful by the smell;  
 No food they knew, such fragrant vapours rose  
 Rich from the flow’ry lawns where Ganges flows:  
@@ -337,18 +337,18 @@ Stern Dekhan’s sons the fertile valleys till,
 A clan, whose hope to shun eternal ill,  
 Whose trust from ev’ry stain of guilt to save,  
 Is fondly plac’d in Ganges’ holy wave; <span
-id="fr_471"></span>[2](#fn_466)  
+id="fr_471"></span>[2](#fn_466.md)  
 If to the stream the breathless corpse be giv’n  
 They deem the spirit wings her way to heav’n.  
 Here by the mouths, where hallow’d Ganges ends,  
 Bengala’s beauteous Eden wide extends,  
 Unrivall’d smile her fair luxurious vales:  
-And here Cambaya <span id="fr_472"></span>[3](#fn_467) spreads her palmy
+And here Cambaya <span id="fr_472"></span>[3](#fn_467.md) spreads her palmy
 dales;  
 A warlike realm, where still the martial race  
-From Porus, <span id="fr_473"></span>[4](#fn_468) fam’d of yore, their
+From Porus, <span id="fr_473"></span>[4](#fn_468.md) fam’d of yore, their
 lineage trace.  
-Narsinga <span id="fr_474"></span>[5](#fn_469) here displays her
+Narsinga <span id="fr_474"></span>[5](#fn_469.md) here displays her
 spacious line,  
 In native gold her sons and ruby shine:  
 Alas, how vain! these gaudy sons of fear,  
@@ -361,7 +361,7 @@ Now, with extended arm, the prospect shows,--
 "Behold these mountain tops of various size  
 Blend their dim ridges with the fleecy skies:  
 Nature’s rude wall, against the fierce Canar <span
-id="fr_475"></span>[1](#fn_470)  
+id="fr_475"></span>[1](#fn_470.md)  
 They guard the fertile lawns of Malabar.  
 Here, from the mountain to the surgy main,  
 Fair as a garden, spreads the smiling plain:  
@@ -381,7 +381,7 @@ From blest Arabia’s groves to India came;
 Life were their words, their eloquence a flame  
 Of holy zeal: fir’d by the powerful strain,  
 The lofty monarch joins the faithful train,  
-And vows, at fair Medina’s <span id="fr_476"></span>[2](#fn_471) shrine,
+And vows, at fair Medina’s <span id="fr_476"></span>[2](#fn_471.md) shrine,
 to close  
 His life’s mild eve in prayer, and sweet repose.  
 Gifts he prepares to deck the prophet’s tomb,  
@@ -407,7 +407,7 @@ Griev’d to behold such merit thus repaid,
 The sapient youth the ‘king of kings’ he made,  
 And, honour’d with the name, great Zamoreem,  
 The lordly, titled boast of power supreme.  
-And now, great Perimal <span id="fr_477"></span>[1](#fn_472) resigns his
+And now, great Perimal <span id="fr_477"></span>[1](#fn_472.md) resigns his
 reign,  
 The blissful bowers of Paradise to gain:  
 Before the gale his gaudy navy flies,  
@@ -442,7 +442,7 @@ Can scarce his tainted purity restore.
 
 <span id="page_206">p. 206</span>
 
-Poleas <span id="fr_478"></span>[1](#fn_473) the lab’ring lower clans
+Poleas <span id="fr_478"></span>[1](#fn_473.md) the lab’ring lower clans
 are nam’d:  
 By the proud Nayres the noble rank is claim’d;  
 The toils of culture, and of art they scorn,  
@@ -454,8 +454,8 @@ Around the king, a stern barbarian band.
 Whate’er in India holds the sacred name  
 Of piety or lore, the Brahmins claim:  
 In wildest rituals, vain and painful, lost,  
-Brahma, <span id="fr_479"></span>[2](#fn_474) their founder, as a god
-they boast. <span id="fr_480"></span>[3](#fn_475)
+Brahma, <span id="fr_479"></span>[2](#fn_474.md) their founder, as a god
+they boast. <span id="fr_480"></span>[3](#fn_475.md)
 
 <span id="page_207">p. 207</span>
 
@@ -513,7 +513,7 @@ Pleas’d with the splendour of the Lusian band,
 On every bank the crowded thousands stand.  
 Begirt with high-plum’d nobles, by the flood  
 The first great minister of India stood,  
-The Catual <span id="fr_482"></span>[1](#fn_477) his name in India’s
+The Catual <span id="fr_482"></span>[1](#fn_477.md) his name in India’s
 tongue:  
 To GAMA swift the lordly regent sprung;  
 His open arms the valiant chief enfold,  
@@ -547,19 +547,19 @@ Fair imag’d in the human face divine,
 
 With sacred horror thrill’d, the Lusians view’d  
 The monster forms, Chimera-like, and rude. <span
-id="fr_483"></span>[1](#fn_478)  
+id="fr_483"></span>[1](#fn_478.md)  
 Here, spreading horns a human visage bore ,  
 So, frown’d stern Jove in Lybia’s fane of yore.  
 One body here two various faces rear’d;  
 So, ancient Janus o’er his shrine appear’d.  
 A hundred arms another brandish’d wide;  
-So, Titan’s son <span id="fr_484"></span>[2](#fn_479) the race of heaven
+So, Titan’s son <span id="fr_484"></span>[2](#fn_479.md) the race of heaven
 defied.  
 And here, a dog his snarling tusks display’d;  
 Anubis, thus in Memphis’ hallow’d shade  
 Grinn’d horrible. With vile prostrations low  
 Before these shrines the blinded Indians bow. <span
-id="fr_485"></span>[3](#fn_480)  
+id="fr_485"></span>[3](#fn_480.md)  
 And now, again the splendid pomp proceeds;  
 To India’s lord the haughty regent leads.  
 To view the glorious leader of the fleet  
@@ -581,7 +581,7 @@ The citron groves around the windows glow’d,
 And branching palms their grateful shade bestow’d;  
 The mellow light a pleasing radiance cast;  
 The marble walls Dædalian sculpture grac’d  
-Here India’s fate, <span id="fr_486"></span>[1](#fn_481) from darkest
+Here India’s fate, <span id="fr_486"></span>[1](#fn_481.md) from darkest
 times of old,  
 The wondrous artist on the stone enroll’d;
 
@@ -594,15 +594,15 @@ Smooth was his cheek, and glow’d with purest red:
 Around his spear the curling vine-leaves wav’d;  
 And, by a streamlet of the river lav’d,  
 Behind her founder, Nysa’s walls were rear’d; <span
-id="fr_487"></span>[1](#fn_482)  
+id="fr_487"></span>[1](#fn_482.md)  
 So breathing life the ruddy god appear’d,  
 Had Semele beheld the smiling boy, <span
-id="fr_488"></span>[2](#fn_483)  
+id="fr_488"></span>[2](#fn_483.md)  
 The mother’s heart had proudly heav’d with soy.  
 Unnumber’d here, were seen th’ Assyrian throng,  
 That drank whole rivers as they march’d along:  
 Each eye seem’d earnest on their warrior queen, <span
-id="fr_489"></span>[3](#fn_484)  
+id="fr_489"></span>[3](#fn_484.md)  
 High was her port, and furious was her mien;  
 Her valour only equall’d by her lust;  
 Fast by her side her courser paw’d the dust,  
@@ -617,7 +617,7 @@ Here, from the cuirass shoots the golden beam.
 A proud-eyed youth, with palms unnumber’d gay,  
 Of the bold veterans led the brown array;  
 Scornful of mortal birth enshrin’d he rode,  
-Call’d Jove his father, <span id="fr_490"></span>[4](#fn_485) and
+Call’d Jove his father, <span id="fr_490"></span>[4](#fn_485.md) and
 assum’d the god.
 
 <span id="page_213">p. 213</span>
@@ -655,7 +655,7 @@ The visions rose, that never rose in vain."
 The chiefs approach the regal hall of grace.  
 The tap’stried walls with gold were pictur’d o’er,  
 And flow’ry velvet spread the marble floor. <span
-id="fr_491"></span>[1](#fn_486)  
+id="fr_491"></span>[1](#fn_486.md)  
 In all the grandeur of the Indian state,  
 High on a blazing couch, the monarch sat,  
 With starry gems the purple curtains shin’d,  
@@ -671,7 +671,7 @@ Sublime and awful was his sapient mien,
 Lordly his posture, and his brow serene.  
 A hoary sire, submiss on bended knee,  
 (Low bow’d his head), in India’s luxury,  
-A leaf, <span id="fr_492"></span>[1](#fn_487) all fragrance to the
+A leaf, <span id="fr_492"></span>[1](#fn_487.md) all fragrance to the
 glowing taste,  
 Before the king each little while replac’d.  
 The. patriarch Brahmin (soft and slow he rose),  
@@ -733,7 +733,7 @@ The night now darkens; on the friendly shore
 Let soft repose your wearied strength restore,  
 Assur’d an answer from our lips to bear,  
 Which, not displeas’d, your sov’reign lord shall hear.  
-More now we add not." <span id="fr_493"></span>[1](#fn_488) From the
+More now we add not." <span id="fr_493"></span>[1](#fn_488.md) From the
 hall of state  
 Withdrawn, they now approach the regent’s gate;  
 The sumptuous banquet glows; all India’s pride  
@@ -762,7 +762,7 @@ Th’ Eternal Spirit on the human race
 (So be they taught) bestow’d such awful grace.  
 In war unmatch’d, they rear the trophied crest:  
 What terrors oft have thrill’d my infant breast <span
-id="fr_494"></span>[1](#fn_489)  
+id="fr_494"></span>[1](#fn_489.md)  
 When their brave deeds my wond’ring fathers told;  
 How from the lawns, where, crystalline and cold,  
 The Guadiana rolls his murm’ring tide,  
@@ -812,13 +812,13 @@ And the black blood seems smoking on the dust.
 With earnest eyes the wond’ring regent views  
 The pictur’d warriors, and their history sues.  
 But now the ruddy juice, by Noah found, <span
-id="fr_495"></span>[1](#fn_490)  
+id="fr_495"></span>[1](#fn_490.md)  
 In foaming goblets circled swiftly round,  
 And o’er the deck swift rose the festive board;  
 Yet, smiling oft, refrains the Indian lord:  
 His faith forbade with other tribe to join  
 The sacred meal, esteem’d a rite divine. <span
-id="fr_496"></span>[2](#fn_491)
+id="fr_496"></span>[2](#fn_491.md)
 
 <span id="page_218">p. 218</span>
 
@@ -859,23 +859,23 @@ Ah! see how long what perilous days, what woes
 On many a foreign coast around me rose,  
 As, dragg’d by Fortune’s chariot-wheels along,  
 I sooth’d my sorrows with the warlike song: <span
-id="fr_497"></span>[1](#fn_492)  
+id="fr_497"></span>[1](#fn_492.md)  
 Wide ocean’s horrors length’ning now around,  
 And, now my footsteps trod the hostile ground;  
 Yet, mid each danger of tumultuous war  
 Your Lusian heroes ever claim’d my care:  
-As Canace <span id="fr_498"></span>[2](#fn_493) of old, ere
+As Canace <span id="fr_498"></span>[2](#fn_493.md) of old, ere
 self-destroy’d,  
 One hand the pen, and one the sword employ’d,  
 Degraded now, by poverty abhorr’d,  
 The guest dependent at the lordling’s board:  
 Now blest with all the wealth fond hope could crave,  
 Soon I beheld that wealth beneath the wave  
-For ever lost; <span id="fr_499"></span>[3](#fn_494) myself escap’d
+For ever lost; <span id="fr_499"></span>[3](#fn_494.md) myself escap’d
 alone,  
 On the wild shore all friendless, hopeless, thrown;  
 My life, like Judah’s heaven-doom’d king of yore, <span
-id="fr_500"></span>[4](#fn_495)  
+id="fr_500"></span>[4](#fn_495.md)  
 By miracle prolong’d; yet not the more  
 To end my sorrows: woes succeeding woes  
 Belied my earnest hopes of sweet repose:  
@@ -883,7 +883,7 @@ In place of bays around my brows to shed
 Their sacred honours, o’er my destin’d head  
 Foul Calumny proclaim’d the fraudful tale,  
 And left me mourning in a dreary jail. <span
-id="fr_501"></span>[5](#fn_496)
+id="fr_501"></span>[5](#fn_496.md)
 
 <span id="page_220">p. 220</span>
 
@@ -913,7 +913,7 @@ Nor he whose honest mien secures applause,
 Grave though he seem, and father of the laws,  
 Who, but half-patriot, niggardly denies  
 Each other’s merit, and withholds the prize:  
-Who spurns the muse, <span id="fr_502"></span>[1](#fn_497) nor feels the
+Who spurns the muse, <span id="fr_502"></span>[1](#fn_497.md) nor feels the
 raptur’d strain,  
 Useless by him esteem’d, and idly vain:
 
@@ -940,21 +940,21 @@ END OF THE SEVENTH BOOK.
 
 ### Footnotes
 
-<span id="fn_439"></span>[193:1](lusbk07.htm#fr_443) Vasco de Gama.
+<span id="fn_439"></span>[193:1](lusbk07.htm#fr_443.md) Vasco de Gama.
 
-<span id="fn_440"></span>[193:2](lusbk07.htm#fr_444) This refers to the
+<span id="fn_440"></span>[193:2](lusbk07.htm#fr_444.md) This refers to the
 Catholic persecutions of Protestants whom they had previously condemned
 at the Diet of Spires. War was declared against the Protestants in 1546.
 It lasted for six years, when a treaty of peace was signed at Passau on
 the Danube, in 1552.--*Ed*.
 
-<span id="fn_441"></span>[194:1](lusbk07.htm#fr_445) *Some blindly
+<span id="fn_441"></span>[194:1](lusbk07.htm#fr_445.md) *Some blindly
 wand’ring, holy faith disclaim*.--At the time when Camoëns wrote, the
 German empire was plunged into all the miseries of a religious war, the
 Catholics using every endeavour to rivet the chains of Popery, the
 adherents of Luther as strenuously endeavouring to shake them off.
 
-<span id="fn_442"></span>[194:2](lusbk07.htm#fr_446)
+<span id="fn_442"></span>[194:2](lusbk07.htm#fr_446.md)
 
 *High sound the titles of the English crown,  
 King of Jerusalem*.--
@@ -967,20 +967,20 @@ England. Henry VIII. filled the throne of England when our author wrote:
 his luxury and conjugal brutality amply deserved the censure of the
 honest poet.
 
-<span id="fn_443"></span>[194:3](lusbk07.htm#fr_447) France.
+<span id="fn_443"></span>[194:3](lusbk07.htm#fr_447.md) France.
 
-<span id="fn_444"></span>[194:4](lusbk07.htm#fr_448) *What impious lust
+<span id="fn_444"></span>[194:4](lusbk07.htm#fr_448.md) *What impious lust
 of empire steels thy breast*.--The French translator very cordially
 agrees with the Portuguese poet in the strictures upon Germany, England,
 and Italy.
 
-<span id="fn_445"></span>[194:5](lusbk07.htm#fr_449) The Mohammedans.
+<span id="fn_445"></span>[194:5](lusbk07.htm#fr_449.md) The Mohammedans.
 
-<span id="fn_446"></span>[194:6](lusbk07.htm#fr_450) *Where Cynifio
+<span id="fn_446"></span>[194:6](lusbk07.htm#fr_450.md) *Where Cynifio
 flows*.--A river in Africa, near Tripoli.--VIRGIL, Georg. iii.
 311.--*Ed*.
 
-<span id="fn_447"></span>[195:1](lusbk07.htm#fr_451) *O Italy! how
+<span id="fn_447"></span>[195:1](lusbk07.htm#fr_451.md) *O Italy! how
 fall’n, how low, how lost!*--However these severe reflections on modern
 Italy may displease the admirers of Italian manners, the picture on the
 whole is too just to admit of confutation. Never did the history of any
@@ -1020,7 +1020,7 @@ Babylon (the Papal Court) from whence all shame and all good are fled,
 the inn of dolour, the mother of errors, have I hastened away to prolong
 my life."
 
-<span id="fn_448"></span>[195:2](lusbk07.htm#fr_452) The fables old of
+<span id="fn_448"></span>[195:2](lusbk07.htm#fr_452.md) The fables old of
 Cadmus.--Cadmus having slain the dragon which guarded the fountain of
 Dirce, in Bœotia, sowed the teeth of the monster. A number of armed men
 immediately sprang up, and surrounded Cadmus, in order to kill him. By
@@ -1030,7 +1030,7 @@ assisted him to build the city of Thebes.--Vid. Ovid. Met. iv.
 
 *Terrigenæ pereunt per mutua vulnera fratre*s.
 
-<span id="fn_449"></span>[196:1](lusbk07.htm#fr_453)
+<span id="fn_449"></span>[196:1](lusbk07.htm#fr_453.md)
 
 *So fall the bravest of the Christian name,  
 While dogs unclean*.
@@ -1041,15 +1041,15 @@ fine passage in Lucan, beginning--
 *Quis furor, O Cives! quæ tanta licentia ferri,  
 Gentibus invisis Latium præbere cruorem?*
 
-<span id="fn_450"></span>[196:2](lusbk07.htm#fr_454) The Mohammedans.
+<span id="fn_450"></span>[196:2](lusbk07.htm#fr_454.md) The Mohammedans.
 
-<span id="fn_451"></span>[196:3](lusbk07.htm#fr_455) Constantinople.
+<span id="fn_451"></span>[196:3](lusbk07.htm#fr_455.md) Constantinople.
 
-<span id="fn_452"></span>[196:4](lusbk07.htm#fr_456) *Beyond the Wolgian
+<span id="fn_452"></span>[196:4](lusbk07.htm#fr_456.md) *Beyond the Wolgian
 Lake*.--The Caspian Sea, so called from the large river Volga, or Wolga,
 which empties itself into it.
 
-<span id="fn_453"></span>[197:1](lusbk07.htm#fr_457)
+<span id="fn_453"></span>[197:1](lusbk07.htm#fr_457.md)
 
 *Their fairest offspring from their bosoms torn,  
 (A dreadful tribute!)--*
@@ -1062,21 +1062,21 @@ completely furnished by nature--were taken in their childhood from their
 parents by a levy made every five years, or oftener, as occasion
 required."--SANDYS.
 
-<span id="fn_454"></span>[197:2](lusbk07.htm#fr_458) Mohammedans.
+<span id="fn_454"></span>[197:2](lusbk07.htm#fr_458.md) Mohammedans.
 
-<span id="fn_455"></span>[197:3](lusbk07.htm#fr_459)
+<span id="fn_455"></span>[197:3](lusbk07.htm#fr_459.md)
 
                    *O’er Afric’s shores  
 The sacred shrines the Lusian heroes rear’d*.--
 
 <span class="contnote">\[paragraph continues\]</span> See the note on
-book v. [p. 137](lusbk05.htm#page_137).
+book v. [p. 137](lusbk05.htm#page_137.md).
 
-<span id="fn_456"></span>[197:4](lusbk07.htm#fr_460) *Of deepest
+<span id="fn_456"></span>[197:4](lusbk07.htm#fr_460.md) *Of deepest
 west*.--Alludes to the discovery and conquest of the Brazils by the
 Portuguese.
 
-<span id="fn_457"></span>[197:5](lusbk07.htm#fr_461) The poet, having
+<span id="fn_457"></span>[197:5](lusbk07.htm#fr_461.md) The poet, having
 brought his heroes to the shore of India, indulges himself with a review
 of the state of the western and eastern worlds; the latter of which is
 now, by the labour of his heroes, <span id="page_198">p. 198</span>
@@ -1111,10 +1111,10 @@ dignity to the poem, and an importance to the hero, similar to that
 which Voltaire, on the same supposition, allows to the subject of the
 Jerusalem of Tasso.
 
-<span id="fn_458"></span>[198:1](lusbk07.htm#fr_462) Calicut is the name
+<span id="fn_458"></span>[198:1](lusbk07.htm#fr_462.md) Calicut is the name
 of a famous sea-port town in the province of Malabar.
 
-<span id="fn_459"></span>[199:1](lusbk07.htm#fr_463)
+<span id="fn_459"></span>[199:1](lusbk07.htm#fr_463.md)
 
              *The herald hears  
 Castilia’s manly tongue salute his ears*.
@@ -1129,7 +1129,7 @@ military stores. He proved himself an honest agent, and of infinite
 service to GAMA; he returned to Portugal, where, according to Faria, he
 died in the Christian communion. He was named Monzaida.
 
-<span id="fn_460"></span>[200:1](lusbk07.htm#fr_464) *The sacred pledge
+<span id="fn_460"></span>[200:1](lusbk07.htm#fr_464.md) *The sacred pledge
 of eastern faith*.--To eat together was, and still is, in the east
 looked upon as the inviolable pledge of protection. As a Persian
 nobleman was one day walking in his garden, a wretch in the utmost
@@ -1144,15 +1144,15 @@ anger, replied, "We have eaten together, and I will not betray him." He
 protected the murderer of his son from the fury of his domestics and
 neighbours, and in the night facilitated his escape.
 
-<span id="fn_461"></span>[200:2](lusbk07.htm#fr_465) *i.e*.
+<span id="fn_461"></span>[200:2](lusbk07.htm#fr_465.md) *i.e*.
 crescent-shaped.--*Ed*.
 
-<span id="fn_462"></span>[201:1](lusbk07.htm#fr_466) *In Rhodope*.--The
+<span id="fn_462"></span>[201:1](lusbk07.htm#fr_466.md) *In Rhodope*.--The
 beautiful fable of the descent of Orpheus to hell, for the recovery of
 his beloved wife, Eurydice, will be found in Virgil’s Georgics, bk. iv.,
 lines 460-80.--*Ed*.
 
-<span id="fn_463"></span>[201:2](lusbk07.htm#fr_467)
+<span id="fn_463"></span>[201:2](lusbk07.htm#fr_467.md)
 
 (*For now the banquet on the tented plain,  
 And sylvan chase his careless hours employ*).--
@@ -1162,53 +1162,53 @@ and other eastern sovereigns, attended by their courtiers, spend
 annually some months of the finest season in encampments in the field,
 in hunting parties, and military amusements.
 
-<span id="fn_464"></span>[202:1](lusbk07.htm#fr_469) *Th’ enormous
+<span id="fn_464"></span>[202:1](lusbk07.htm#fr_469.md) *Th’ enormous
 mountain*.--The Himalaya range, which is a continuation of an immense
 chain of mountains girdling the northern regions of the earth and known
 by various names, as Caucasus, Hemodus, Paropamissus, Imaus, etc., and
 from Imaus extended through Tartary to the sea of Kamschatka. Not the
 range of mountains so called in Asia Minor.--*Ed*.
 
-<span id="fn_465"></span>[203:1](lusbk07.htm#fr_470) *As wild traditions
+<span id="fn_465"></span>[203:1](lusbk07.htm#fr_470.md) *As wild traditions
 tell*.--Pliny, imposed upon by some Greeks, who pretended to have been
 in India, relates this fable.--Vide Nat. Hist. lib. 12.
 
-<span id="fn_466"></span>[203:2](lusbk07.htm#fr_471) *Is fondly plac’d
+<span id="fn_466"></span>[203:2](lusbk07.htm#fr_471.md) *Is fondly plac’d
 in Ganges’ holy wave*.--Almost all the Indian nations attribute to the
 Ganges the virtue of cleansing the soul from the stains of sin. They
 have such veneration for this river, that if any one in their presence
 were to throw any filth into the stream, an instant death would punish
 his audacity.
 
-<span id="fn_467"></span>[203:3](lusbk07.htm#fr_472) Cambaya, the
+<span id="fn_467"></span>[203:3](lusbk07.htm#fr_472.md) Cambaya, the
 ancient Camanes of Ptolemy, gives name to the gulf of that name at the
 head of which it is situated. It is the principal seaport of
 Guzerat.--*Ed*.
 
-<span id="fn_468"></span>[203:4](lusbk07.htm#fr_473) Porus was king of
+<span id="fn_468"></span>[203:4](lusbk07.htm#fr_473.md) Porus was king of
 part of the Punjaub, and was conquered by Alexander the Great.--*Ed*.
 
-<span id="fn_469"></span>[203:5](lusbk07.htm#fr_474) *Narsinga*.--The
+<span id="fn_469"></span>[203:5](lusbk07.htm#fr_474.md) *Narsinga*.--The
 laws of Narsinga oblige the women to throw themselves into the funeral
 pile, to be burnt with their deceased husbands. An infallible secret to
 prevent the desire of widowhood.--CASTERA from Barros, Dec. 4.
 
-<span id="fn_470"></span>[204:1](lusbk07.htm#fr_475) The Canarese, who
+<span id="fn_470"></span>[204:1](lusbk07.htm#fr_475.md) The Canarese, who
 inhabit Canara, on the west coast of India.--*Ed*.
 
-<span id="fn_471"></span>[204:2](lusbk07.htm#fr_476) Medina, a city of
+<span id="fn_471"></span>[204:2](lusbk07.htm#fr_476.md) Medina, a city of
 Arabia, famous as being the burial-place of Mohammed, and hence esteemed
 sacred.--*Ed*.
 
-<span id="fn_472"></span>[205:1](lusbk07.htm#fr_477) According to
+<span id="fn_472"></span>[205:1](lusbk07.htm#fr_477.md) According to
 tradition, Perimal, a sovereign of India, embraced Islamism about 800
 years before GAMA’S voyage, divided his dominions into different
 kingdoms, and ended his days as a hermit at Mecca.--*Ed*.
 
-<span id="fn_473"></span>[206:1](lusbk07.htm#fr_478) *i.e*. pariahs,
+<span id="fn_473"></span>[206:1](lusbk07.htm#fr_478.md) *i.e*. pariahs,
 outcasts.
 
-<span id="fn_474"></span>[206:2](lusbk07.htm#fr_479) *Brahma their
+<span id="fn_474"></span>[206:2](lusbk07.htm#fr_479.md) *Brahma their
 founder as a god they boast*.--Antiquity has talked much, but knew
 little with certainty of the Brahmins, and their philosophy. Porphyry
 and others esteem them the same as the Gymnosophists of the Greeks, and
@@ -1216,7 +1216,7 @@ divide them into several sects, the Samanæi, the Germanes, the Pramnæ,
 the Gymnetæ, etc. Brahma is the head of the Hindu triad which consists
 of Brahma, Vishnu and Siva.--*Ed*.
 
-<span id="fn_475"></span>[206:3](lusbk07.htm#fr_480) Almost innumerable,
+<span id="fn_475"></span>[206:3](lusbk07.htm#fr_480.md) Almost innumerable,
 and sometimes as whimsically absurd as the "Arabian Nights’
 Entertainments," are the holy legends of India. The accounts of the god
 Brahma, or Brimha, are more various than those of any fable in the
@@ -1259,7 +1259,7 @@ a worthy field for speculation.
 Almost as innumerable as their legends are the dreadful penances to
 which the Hindus submit themselves for the expiation of sins. Some hold
 the transmigration of souls, and of consequence abstain from all animal
-food. <span id="fr_481"></span>[\*](#fn_476) Yet, however austere in
+food. <span id="fr_481"></span>[\*](#fn_476.md) Yet, however austere in
 other respects, they freely abandon themselves to every species of
 debauchery, some of them esteeming the most unnatural abominations as
 the privilege of their sanctity. The cow they venerate as sacred. If a
@@ -1294,7 +1294,7 @@ knowledge of their hidden religion. But the fraud being discovered, he
 was laid under the restraint of an oath, and it does not appear that he
 ever communicated the knowledge thus acquired.
 
-<span id="fn_476"></span>[206:\*](lusbk07.htm#fr_481) Though from the
+<span id="fn_476"></span>[206:\*](lusbk07.htm#fr_481.md) Though from the
 extracts given by Mr. Dow, the philosopher Goutam appears to have been a
 very Duns Scotus or Aquinas in metaphysics, the Pythagorean reason why
 the Brahmins abstain from animal food, is a convincing proof of their
@@ -1305,10 +1305,10 @@ tread upon it, lest they dislodge the soul of an insect. And yet they do
 not know that in the water they drink, and in every salad they eat, they
 cause the death of innumerable living creatures.
 
-<span id="fn_477"></span>[209:1](lusbk07.htm#fr_482) Kotwâl, the chief
+<span id="fn_477"></span>[209:1](lusbk07.htm#fr_482.md) Kotwâl, the chief
 officer of police in a town: FORBES’ Hindustani Dictionary.
 
-<span id="fn_478"></span>[210:1](lusbk07.htm#fr_483) *The monster forms,
+<span id="fn_478"></span>[210:1](lusbk07.htm#fr_483.md) *The monster forms,
 Chimera-like, and rude*.--Chimera, a monster slain by Bellerophon.
 
 "First, dire Chimera’s conquest was enjoin’d,  
@@ -1319,10 +1319,10 @@ Her pitchy nostrils flaky flames expire,
 Her gaping throat emits infernal fire."  
                                             POPE’S Il. vi.
 
-<span id="fn_479"></span>[210:2](lusbk07.htm#fr_484) *So Titan’s
+<span id="fn_479"></span>[210:2](lusbk07.htm#fr_484.md) *So Titan’s
 son*.--Briareus.
 
-<span id="fn_480"></span>[210:3](lusbk07.htm#fr_485) *Before these
+<span id="fn_480"></span>[210:3](lusbk07.htm#fr_485.md) *Before these
 shrines the blinded Indians bow*.--In this instance, Camoëns has, with
 great art, deviated from the truth of history. As it was the great
 purpose of his hero to propagate the law of heaven in the East, it would
@@ -1342,7 +1342,7 @@ virgin." Thus Osorius. Another writer says, that a Portuguese, having
 some doubt, exclaimed, If this be the devil’s image, I however worship
 God."
 
-<span id="fn_481"></span>[211:1](lusbk07.htm#fr_486) *Here India’s
+<span id="fn_481"></span>[211:1](lusbk07.htm#fr_486.md) *Here India’s
 fate*.--The description of the palace of the zamorim, situated among
 aromatic groves, is according to history; the embellishment of the walls
 is in imitation of Virgil’s description of the palace of King Latinus:--
@@ -1375,7 +1375,7 @@ His other wav’d a long divining wand.
 Girt in his Gabin gown the hero sate------"  
                                         DRYDEN, An. vii.
 
-<span id="fn_482"></span>[212:1](lusbk07.htm#fr_487)
+<span id="fn_482"></span>[212:1](lusbk07.htm#fr_487.md)
 
 *Behind her founder Nysa’s walls were rear’d-----  
 --------------------at distance far  
@@ -1385,19 +1385,19 @@ The Ganges lav’d the wide-extended war*.
 perspective manner of the beautiful descriptions of the figures on the
 shield of Achilles.--IL. xviii.
 
-<span id="fn_483"></span>[212:2](lusbk07.htm#fr_488) *Had Semele beheld
+<span id="fn_483"></span>[212:2](lusbk07.htm#fr_488.md) *Had Semele beheld
 the smiling boy*.--The Theban Bacchus, to whom the Greek fabulists
 ascribed the Indian expedition of Sesostris, king of Egypt.
 
-<span id="fn_484"></span>[212:3](lusbk07.htm#fr_489) Semiramis.
+<span id="fn_484"></span>[212:3](lusbk07.htm#fr_489.md) Semiramis.
 
-<span id="fn_485"></span>[212:4](lusbk07.htm#fr_490) *Call’d Jove his
+<span id="fn_485"></span>[212:4](lusbk07.htm#fr_490.md) *Call’d Jove his
 father*.--The bon-mot of Olympias on this pretension of her son
 Alexander, was admired by the ancients. "This hot-headed youth,
 forsooth, cannot be at rest unless he embroil me in a quarrel with
 Juno."--QUINT. CURT.
 
-<span id="fn_486"></span>[213:1](lusbk07.htm#fr_491)
+<span id="fn_486"></span>[213:1](lusbk07.htm#fr_491.md)
 
 *The tap’stried walls with gold were pictur’d o’er,  
 And flow’ry velvet spread the marble floor*.--
@@ -1405,14 +1405,14 @@ And flow’ry velvet spread the marble floor*.--
 <span class="contnote">\[paragraph continues\]</span> According to
 Osorius.
 
-<span id="fn_487"></span>[214:1](lusbk07.htm#fr_492) *A leaf*.--The
+<span id="fn_487"></span>[214:1](lusbk07.htm#fr_492.md) *A leaf*.--The
 Betel.
 
-<span id="fn_488"></span>[215:1](lusbk07.htm#fr_493) *More now we add
+<span id="fn_488"></span>[215:1](lusbk07.htm#fr_493.md) *More now we add
 not*.--The tenor of this first conversation between the zamorim and
 GAMA, is according to the truth of history.
 
-<span id="fn_489"></span>[216:1](lusbk07.htm#fr_494) *What terrors oft
+<span id="fn_489"></span>[216:1](lusbk07.htm#fr_494.md) *What terrors oft
 have thrill’d my infant breast*.--The enthusiasm with which Monzaida, a
 Moor, talks of the Portuguese, may perhaps to some appear unnatural.
 Camoëns seems to be aware of this by giving a reason for that enthusiasm
@@ -1426,11 +1426,11 @@ Moor did conceive a great affection to GAMA, whose religion he embraced,
 and to whom he proved of the utmost service, is according to the truth
 of history.
 
-<span id="fn_490"></span>[217:1](lusbk07.htm#fr_495) *The ruddy juice by
+<span id="fn_490"></span>[217:1](lusbk07.htm#fr_495.md) *The ruddy juice by
 Noah found*.--Gen. ix. 20. "And Noah began to be an husbandman, and he
 planted a vineyard, and he drank of the wine," etc.
 
-<span id="fn_491"></span>[217:2](lusbk07.htm#fr_496)
+<span id="fn_491"></span>[217:2](lusbk07.htm#fr_496.md)
 
 *His faith forbade with other tribe to join  
 The sacred meal, esteem’d a rite divine*.---
@@ -1457,12 +1457,12 @@ illustrious actions. The noblemen, says the same writer, adopt the
 children of their sisters, esteeming there can be no other certainty of
 the relationship of their heirs.
 
-<span id="fn_492"></span>[219:1](lusbk07.htm#fr_497) *The warlike
+<span id="fn_492"></span>[219:1](lusbk07.htm#fr_497.md) *The warlike
 song*.--Though Camoëns began his Lusiad in Portugal, almost the whole of
 it was written while on the ocean, while in Africa, and in India.--See
 his Life.
 
-<span id="fn_493"></span>[219:2](lusbk07.htm#fr_498) *As
+<span id="fn_493"></span>[219:2](lusbk07.htm#fr_498.md) *As
 Canace*.--Daughter of Eolus. Her father, having thrown her incestuous
 child to the dogs, sent her a sword, with which she slew herself. In
 Ovid she writes an epistle to her husband-brother, where she thus
@@ -1470,18 +1470,18 @@ describes herself:--
 
 *Dextra tenet calamum, strictum tenet altera ferrum*.
 
-<span id="fn_494"></span>[219:3](lusbk07.htm#fr_499)
+<span id="fn_494"></span>[219:3](lusbk07.htm#fr_499.md)
 
 *Soon I beheld that wealth beneath the wave  
 For ever lost*.--
 
 <span class="contnote">\[paragraph continues\]</span> See the Life of
-[Camoëns](errata.htm#5).
+[Camoëns](errata.htm#5.md).
 
-<span id="fn_495"></span>[219:4](lusbk07.htm#fr_500) *My life, like
+<span id="fn_495"></span>[219:4](lusbk07.htm#fr_500.md) *My life, like
 Judah’s Heaven-doom’d king of yore*.--Hezekiah.--See Isaiah xxxviii.
 
-<span id="fn_496"></span>[219:5](lusbk07.htm#fr_501) *And left me
+<span id="fn_496"></span>[219:5](lusbk07.htm#fr_501.md) *And left me
 mourning in a dreary jail*.--This, and the whole paragraph from--
 
 *Degraded now, by poverty abhorr’d*,
@@ -1490,7 +1490,7 @@ alludes to his fortunes in India. The latter circumstance relates
 particularly to the base and inhuman treatment he received on his return
 to Goa, after his unhappy shipwreck.--See his Life.
 
-<span id="fn_497"></span>[220:1](lusbk07.htm#fr_502) *Who spurns the
+<span id="fn_497"></span>[220:1](lusbk07.htm#fr_502.md) *Who spurns the
 muse*.--Similarity of condition has produced similarity of sentiment in
 Camoëns and Spenser. Each was the ornament of his country and his age,
 and each was cruelly neglected by the men of power, who, in truth, were
@@ -1512,7 +1512,7 @@ Alive or dead be by the muse adorn’d."
 It is thought Lord Burleigh, who withheld the bounty intended by Queen
 Elizabeth, is here meant. But he is more clearly stigmatized in these
 remarkable lines, where the misery of dependence on court favour is
-painted in colours which must [recall](errata.htm#6) several strokes of
+painted in colours which must [recall](errata.htm#6.md) several strokes of
 the Lusiad to the mind of the reader:--
 
 "Full little knowest thou that hast not tried,  
@@ -1536,4 +1536,4 @@ occasion of them."
 
 ------------------------------------------------------------------------
 
-[Next: Book VIII](lusbk08)
+[Next: Book VIII](lusbk08.md)

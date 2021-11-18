@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre15)  [Next](vre17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre15)  [Next](vre17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -83,7 +83,7 @@ it need to be restrained by other elements, to give the proper balance?
 
 But this question suggests another one which I will answer immediately
 and get it out of the way, for it has more than once already vexed
-us. <span id="fr_326"></span>[1](#fn_326) Ought it to be assumed that in
+us. <span id="fr_326"></span>[1](#fn_326.md) Ought it to be assumed that in
 all men the mixture of religion with other elements should be identical?
 Ought it, indeed, to be assumed that
 
@@ -116,7 +116,7 @@ in the spiritual life. If we are peevish and jealous, destruction of the
 self must be an element of our religion; why need it be one if we are
 good and sympathetic from the outset? If we are sick souls, we require a
 religion of deliverance; but why think so much of deliverance, if we are
-healthy-minded? <span id="fr_327"></span>[1](#fn_327) Unquestionably,
+healthy-minded? <span id="fr_327"></span>[1](#fn_327.md) Unquestionably,
 some men have the completer
 
 <span id="page_478">p. 478</span>
@@ -147,7 +147,7 @@ devout. *Tout savoir c’est tout pardonner*. The name of Renan would
 doubtless occur to many persons as an example of the way in which
 breadth of knowledge may make one only a dilettante in possibilities,
 and blunt the acuteness of one's living faith. <span
-id="fr_328"></span>[1](#fn_328) If religion be a function by which
+id="fr_328"></span>[1](#fn_328.md) If religion be a function by which
 either God's cause or man's cause is to be really advanced, then he who
 lives the life of it, however narrowly, is a better servant than he who
 merely knows about it, however much. Knowledge about life is one thing;
@@ -164,7 +164,7 @@ assimilated all the necessary historical material and distilled out of
 it as its essence the same conclusions which I myself a few moments ago
 pronounced. Suppose that she agrees that religion, wherever it is an
 active thing, involves a belief in ideal presences, and a belief that in
-our prayerful communion with them, <span id="fr_329"></span>[2](#fn_329)
+our prayerful communion with them, <span id="fr_329"></span>[2](#fn_329.md)
 work is done, and something real comes to pass. She has now to exert her
 critical activity, and to decide how far, in the light of other sciences
 and in that of general philosophy, such beliefs can be considered
@@ -243,7 +243,7 @@ satisfied the intellects of our grandfathers
 
 <span id="page_482">p. 482</span>
 
-seem to us quite grotesque, <span id="fr_330"></span>[1](#fn_330)
+seem to us quite grotesque, <span id="fr_330"></span>[1](#fn_330.md)
 representing, as they did, a
 
 <span id="page_483">p. 483</span>
@@ -281,7 +281,7 @@ confidently; and whatever you affirmed, your comrades believed. Truth
 was what had not yet been contradicted, most things were taken into the
 mind from the point of view of their human suggestiveness, and the
 attention confined itself exclusively to the æsthetic and dramatic
-aspects of events. <span id="fr_331"></span>[1](#fn_331)
+aspects of events. <span id="fr_331"></span>[1](#fn_331.md)
 
 <span id="page_486">p. 486</span>
 
@@ -361,7 +361,7 @@ measure of our concrete actuality, and any would-be
 
 existent that should lack such a feeling, or its analogue, would be a
 piece of reality only half made up. <span
-id="fr_332"></span>[1](#fn_332)
+id="fr_332"></span>[1](#fn_332.md)
 
 If this be true, it is absurd for science to say that the egotistic
 elements of experience should be suppressed. The axis of reality runs
@@ -394,7 +394,7 @@ egregious mistake. It does not follow, because our ancestors
 
 made so many errors of fact and mixed them with their religion, that we
 should therefore leave off being religious at all. <span
-id="fr_333"></span>[1](#fn_333) By being religious we establish
+id="fr_333"></span>[1](#fn_333.md) By being religious we establish
 ourselves in possession of ultimate reality at the only points at which
 reality
 
@@ -410,14 +410,14 @@ Individuality is founded in feeling; and the recesses of feeling, the
 darker, blinder strata of character, are the only places in the world in
 which we catch real fact in the making, and directly perceive how events
 happen, and how work is actually done. <span
-id="fr_334"></span>[1](#fn_334) Compared with this world of living
+id="fr_334"></span>[1](#fn_334.md) Compared with this world of living
 individualized feelings, the world of generalized objects which the
 intellect contemplates is without solidity or life. As in stereoscopic
 or kinetoscopic pictures seen outside the instrument, the third
 dimension, the movement, the vital element, are not there. We get a
 beautiful picture of an express train supposed to be moving, but where
 in the picture, as I have heard a friend say, is the energy or the fifty
-miles an hour? <span id="fr_335"></span>[2](#fn_335)
+miles an hour? <span id="fr_335"></span>[2](#fn_335.md)
 
 <span id="page_493">p. 493</span>
 
@@ -487,26 +487,26 @@ lecture, but especially in the lectures on Conversion and on
 Saintliness, we have seen how this emotion overcomes temperamental
 melancholy and imparts endurance to the Subject, or a zest, or a
 meaning, or an enchantment and glory to the common objects of
-life. <span id="fr_336"></span>[1](#fn_336) The name of "faith-state,"
+life. <span id="fr_336"></span>[1](#fn_336.md) The name of "faith-state,"
 by which Professor Leuba designates it, is a good one. <span
-id="fr_337"></span>[2](#fn_337) It is a biological as well as a
+id="fr_337"></span>[2](#fn_337.md) It is a biological as well as a
 psychological condition, and Tolstoy is absolutely accurate in classing
 faith among the forces *by which men live*. <span
-id="fr_338"></span>[3](#fn_338) The total absence of it,
-anhedonia, <span id="fr_339"></span>[4](#fn_339) means collapse.
+id="fr_338"></span>[3](#fn_338.md) The total absence of it,
+anhedonia, <span id="fr_339"></span>[4](#fn_339.md) means collapse.
 
 The faith-state may hold a very minimum of intellectual content. We saw
 examples of this in those sudden raptures of the divine presence, or in
 such mystical seizures as Dr. Bucke described. <span
-id="fr_340"></span>[5](#fn_340) It may be a mere vague enthusiasm, half
+id="fr_340"></span>[5](#fn_340.md) It may be a mere vague enthusiasm, half
 spiritual, half vital, a courage, and a feeling that great and wondrous
-things are in the air. <span id="fr_341"></span>[6](#fn_341)
+things are in the air. <span id="fr_341"></span>[6](#fn_341.md)
 
 <span id="page_496">p. 496</span>
 
 When, however, a positive intellectual content is associated with a
 faith-state, it gets invincibly stamped in upon belief, <span
-id="fr_342"></span>[1](#fn_342) and this explains the passionate loyalty
+id="fr_342"></span>[1](#fn_342.md) and this explains the passionate loyalty
 of religious persons everywhere to the minutest details of their so
 widely differing creeds. Taking creeds and faith-state together, as
 forming "religions," and treating these as purely subjective phenomena,
@@ -514,7 +514,7 @@ without regard to the question of their "truth," we are obliged, on
 account of their extraordinary influence upon action and endurance, to
 class them amongst the most important biological functions of mankind.
 Their stimulant and anæsthetic effect is so great that Professor Leuba,
-in a recent article, <span id="fr_343"></span>[2](#fn_343) goes so far
+in a recent article, <span id="fr_343"></span>[2](#fn_343.md) goes so far
 as to say
 
 <span id="page_497">p. 497</span>
@@ -529,7 +529,7 @@ exist? How does he exist? What is he? are so many irrelevant questions.
 Not God, but life, more life, a larger, richer, more satisfying life,
 is, in the last analysis, the end of religion. The love of life, at any
 and every level of development, is the religious impulse." <span
-id="fr_344"></span>[1](#fn_344)
+id="fr_344"></span>[1](#fn_344.md)
 
 At this purely subjective rating, therefore, Religion must be considered
 vindicated in a certain way from the attacks of her critics. It would
@@ -579,7 +579,7 @@ touch with something higher, if anything higher exist. Along with the
 wrong part there is thus a better part of him, even though it may be but
 a most helpless germ. With which part he should identify his real being
 is by no means obvious at this stage; but when stage 2 (the stage of
-solution or salvation) arrives, <span id="fr_345"></span>[1](#fn_345)
+solution or salvation) arrives, <span id="fr_345"></span>[1](#fn_345.md)
 the man identifies his real being with the germinal higher part of
 himself; and does so in the following way. *He becomes conscious* 
 
@@ -592,12 +592,12 @@ with, and in a fashion get on board of and save himself when all his
 lower being has gone to pieces in the wreck*.
 
 It seems to me that all the phenomena are accurately describable in
-these very simple general terms. <span id="fr_346"></span>[1](#fn_346)
+these very simple general terms. <span id="fr_346"></span>[1](#fn_346.md)
 They allow for the divided self and the struggle; they involve the
 change of personal centre and the surrender of the lower self; they
 express the appearance of exteriority of the helping power and yet
 account for our sense of union with it; <span
-id="fr_347"></span>[2](#fn_347) and they fully justify our feelings of
+id="fr_347"></span>[2](#fn_347.md) and they fully justify our feelings of
 security and joy. There is probably no autobiographic document, among
 all those which I have quoted, to which the description will not well
 apply. One need only add such specific details as will adapt it to
@@ -615,7 +615,7 @@ of the effects produced. I now turn to my
 <span id="page_500">p. 500</span>
 
 second question: What is the objective "truth" of their content? <span
-id="fr_348"></span>[1](#fn_348)
+id="fr_348"></span>[1](#fn_348.md)
 
 The part of the content concerning which the question of truth most
 pertinently arises is that "<span class="smallcaps">more</span> of the
@@ -639,7 +639,7 @@ birth, works and grace and karma, immortality and reincarnation,
 rationalism and mysticism, carry on inveterate disputes.
 
 At the end of my lecture on Philosophy <span
-id="fr_349"></span>[2](#fn_349) I held out the notion that an impartial
+id="fr_349"></span>[2](#fn_349.md) I held out the notion that an impartial
 science of religions might sift out from the midst of their
 discrepancies a common body of doctrine which she might also formulate
 in terms to which
@@ -684,14 +684,14 @@ Subliminal
 <span id="page_502">p. 502</span>
 
 <span class="contnote">\[paragraph continues\]</span>
-Consciousness <span id="fr_350"></span>[1](#fn_350) is as true as when
+Consciousness <span id="fr_350"></span>[1](#fn_350.md) is as true as when
 it was first written: "Each of us is in reality an abiding psychical
 entity far more extensive than he knows—an individuality which can never
 express itself completely through any corporeal manifestation. The Self
 manifests through the organism; but there is always some part of the
 Self unmanifested; and always, as it seems, some power of organic
 expression in abeyance or reserve." <span
-id="fr_351"></span>[355](#fn_351) Much of the content of this larger
+id="fr_351"></span>[355](#fn_351.md) Much of the content of this larger
 background against which our conscious being stands out in relief is
 insignificant. Imperfect memories, silly jingles, inhibitive timidities,
 "dissolutive" phenomena of various sorts, as Myers calls them, enters
@@ -726,9 +726,9 @@ we step through it, and ask how far our transmarginal consciousness
 carries us if we follow it on its remoter side. Here the over-beliefs
 begin: here mysticism and the conversion-rapture and Vedantism and
 transcendental idealism bring in their monistic interpretations <span
-id="fr_352"></span>[1](#fn_352) and tell us that the finite self rejoins
+id="fr_352"></span>[1](#fn_352.md) and tell us that the finite self rejoins
 the absolute self, for it was always one with God and identical with the
-soul of the world. <span id="fr_353"></span>[2](#fn_353) Here the
+soul of the world. <span id="fr_353"></span>[2](#fn_353.md) Here the
 prophets of all the
 
 <span id="page_504">p. 504</span>
@@ -750,7 +750,7 @@ living in the higher union which opens itself to us as a gift, yet the
 spiritual excitement in which the gift appears a real one will often
 fail to be aroused in an individual until certain particular
 intellectual beliefs or ideas which, as we say, come home to him, are
-touched. <span id="fr_354"></span>[1](#fn_354) These ideas will thus be
+touched. <span id="fr_354"></span>[1](#fn_354.md) These ideas will thus be
 essential
 
 <span id="page_505">p. 505</span>
@@ -765,7 +765,7 @@ over-beliefs.
 Disregarding the over beliefs, and confining ourselves to what is common
 and generic, we have in *the fact that the conscious person is
 continuous with a wider self through which saving experiences
-come*, <span id="fr_355"></span>[1](#fn_355) a positive content of
+come*, <span id="fr_355"></span>[1](#fn_355.md) a positive content of
 religious experience which, it seems to me, *is literally and
 objectively true as far as it goes*. If I now proceed to state my own
 hypothesis about the farther limits of this extension of our
@@ -788,7 +788,7 @@ ideals belong. Yet the unseen region in question is not merely ideal,
 for it produces effects in this world. When we commune with it, work is
 actually done upon our finite personality, for we are turned into new
 men, and consequences in the way of conduct follow in the natural world
-upon our regenerative change. <span id="fr_356"></span>[1](#fn_356) But
+upon our regenerative change. <span id="fr_356"></span>[1](#fn_356.md) But
 that which produces effects within another reality must be termed a
 reality itself, so I feel as if we had
 
@@ -798,7 +798,7 @@ no philosophic excuse for calling the unseen or mystical world unreal.
 
 God is the natural appellation, for us Christians at least, for the
 supreme reality, so I will call this higher part of the universe by the
-name of God. <span id="fr_357"></span>[1](#fn_357) We and God have
+name of God. <span id="fr_357"></span>[1](#fn_357.md) We and God have
 business with each other; and in opening ourselves to his influence our
 deepest destiny is fulfilled. The universe, at those parts of it which
 our personal being constitutes, takes a turn genuinely for the worse or
@@ -894,11 +894,11 @@ tasks?
 
 ### Footnotes
 
-<span id="fn_326"></span>[476:1](vre16.htm#fr_326) For example, on pages
-[135](vre07.htm#page_135), [160](vre07.htm#page_160),
-[326](vre12.htm#page_326) above.
+<span id="fn_326"></span>[476:1](vre16.htm#fr_326.md) For example, on pages
+[135](vre07.htm#page_135), [160](vre07.htm#page_160.md),
+[326](vre12.htm#page_326.md) above.
 
-<span id="fn_327"></span>[477:1](vre16.htm#fr_327) From this point of
+<span id="fn_327"></span>[477:1](vre16.htm#fr_327.md) From this point of
 view, the contrasts between the healthy and the morbid mind, and between
 the once-born and the twice-born types, of which I spoke in earlier
 lectures (see pp. 159-164), cease to be the radical antagonisms which
@@ -912,8 +912,8 @@ element of evil in solution—is the wider and completer. The "heroic" or
 "solemn" way in which life comes to them is a "higher synthesis" into
 which healthy-mindedness and morbidness both enter and combine. Evil is
 not evaded, but sublated in the higher religious cheer of these persons
-(see pp. [47](vre04.htm#page_47)-[52](vre04.htm#page_52),
-[354](vre12.htm#page_354)-[357](vre12.htm#page_357)). But the final
+(see pp. [47](vre04.htm#page_47)-[52](vre04.htm#page_52.md),
+[354](vre12.htm#page_354)-[357](vre12.htm#page_357).md). But the final
 consciousness which each type reaches of union with the divine has the
 same practical significance for the individual; and individuals may well
 be allowed to get to it by the channels which lie most open to their
@@ -926,13 +926,13 @@ are also matters of amount and degree, so that in many instances it is
 quite arbitrary whether we class the individual as a once-born or a
 twice-born subject.
 
-<span id="fn_328"></span>[479:1](vre16.htm#fr_328) Compare, e.g., the
-quotation from Renan on [p. 37](vre04.htm#page_37), above.
+<span id="fn_328"></span>[479:1](vre16.htm#fr_328.md) Compare, e.g., the
+quotation from Renan on [p. 37](vre04.htm#page_37.md), above.
 
-<span id="fn_329"></span>[479:2](vre16.htm#fr_329) "Prayerful" taken in
-the broader sense explained above on pp. [453](vre15.htm#page_453) ff.
+<span id="fn_329"></span>[479:2](vre16.htm#fr_329.md) "Prayerful" taken in
+the broader sense explained above on pp. [453](vre15.htm#page_453.md) ff.
 
-<span id="fn_330"></span>[482:1](vre16.htm#fr_330) How was it ever
+<span id="fn_330"></span>[482:1](vre16.htm#fr_330.md) How was it ever
 conceivable, we ask, that a man like Christian Wolff, in whose
 dry-as-dust head all the learning of the early eighteenth century was
 concentrated, should have preserved such a baby-like faith in the
@@ -1069,7 +1069,7 @@ they may seem incommodious and troublesome, yet are a noble work of the
 great Creator, and wisely appointed by him for the good of our sublunary
 world."
 
-<span id="fn_331"></span>[485:1](vre16.htm#fr_331) Until the seventeenth
+<span id="fn_331"></span>[485:1](vre16.htm#fr_331.md) Until the seventeenth
 century this mode of thought prevailed. One need only recall the
 dramatic treatment even of mechanical <span id="page_486">p. 486</span>
 questions by Aristotle, as, for example, his explanation of the power of
@@ -1162,13 +1162,13 @@ of superstition or of exalted imagination?"
 Modern mind-cure literature—the works of Prentice Mulford, for
 example—is full of sympathetic magic.
 
-<span id="fn_332"></span>[490:1](vre16.htm#fr_332) Compare Lotze's
+<span id="fn_332"></span>[490:1](vre16.htm#fr_332.md) Compare Lotze's
 doctrine that the only meaning we can attach to the notion of a thing as
 it is "in itself" is by conceiving it as it is *for* itself, i.e., as a
 piece of full experience with a private sense of "pinch" or inner
 activity of some sort going with it.
 
-<span id="fn_333"></span>[491:1](vre16.htm#fr_333) Even the errors of
+<span id="fn_333"></span>[491:1](vre16.htm#fr_333.md) Even the errors of
 fact may possibly turn out not to be as wholesale as the scientist
 assumes. We saw in Lecture IV how the religious conception of the
 universe seems to many mind-curers "verified" from day to day by their
@@ -1206,14 +1206,14 @@ view of science might one day appear as having been a temporarily useful
 eccentricity rather than the definitively triumphant position which the
 sectarian scientist at present so confidently announces it to be.
 
-<span id="fn_334"></span>[492:1](vre16.htm#fr_334) Hume's criticism has
+<span id="fn_334"></span>[492:1](vre16.htm#fr_334.md) Hume's criticism has
 banished causation from the world of physical objects, and "Science" is
 absolutely satisfied to define cause in terms of concomitant change-read
 Mach, Pearson, Ostwald. The "original" of the notion of causation is in
 our inner personal experience, and only there can causes in the
 old-fashioned sense be directly observed and described.
 
-<span id="fn_335"></span>[492:2](vre16.htm#fr_335) When I read in a
+<span id="fn_335"></span>[492:2](vre16.htm#fr_335.md) When I read in a
 religious paper words like these: "Perhaps the best thing we can say of
 God is that he is *the Inevitable Inference*," I recognize the tendency
 to let religion evaporate in intellectual terms. Would martyrs have sung
@@ -1257,25 +1257,25 @@ lies in individuality in attempts like those of Professor Baldwin
 H. R. Marshall (Instinct and Reason, chaps. viii. to xii.) to make it a
 purely "conservative social force."
 
-<span id="fn_336"></span>[495:1](vre16.htm#fr_336) Compare, for
-instance, pages [200](vre09.htm#page_200), [215](vre10.htm#page_215),
-[219](vre10.htm#page_219), [222](vre10.htm#page_222),
-[244](vre10.htm#page_244)-[250](vre10.htm#page_250),
-[270](vre11.htm#page_270)-[273](vre11.htm#page_273).
+<span id="fn_336"></span>[495:1](vre16.htm#fr_336.md) Compare, for
+instance, pages [200](vre09.htm#page_200), [215](vre10.htm#page_215.md),
+[219](vre10.htm#page_219), [222](vre10.htm#page_222.md),
+[244](vre10.htm#page_244)-[250](vre10.htm#page_250.md),
+[270](vre11.htm#page_270)-[273](vre11.htm#page_273.md).
 
-<span id="fn_337"></span>[495:2](vre16.htm#fr_337) American Journal of
+<span id="fn_337"></span>[495:2](vre16.htm#fr_337.md) American Journal of
 Psychology, vii. 345.
 
-<span id="fn_338"></span>[495:3](vre16.htm#fr_338) Above, p.
-[181](vre08.htm#page_181).
+<span id="fn_338"></span>[495:3](vre16.htm#fr_338.md) Above, p.
+[181](vre08.htm#page_181.md).
 
-<span id="fn_339"></span>[495:4](vre16.htm#fr_339) Above, p.
-[143](vre07.htm#page_143).
+<span id="fn_339"></span>[495:4](vre16.htm#fr_339.md) Above, p.
+[143](vre07.htm#page_143.md).
 
-<span id="fn_340"></span>[495:5](vre16.htm#fr_340) Above, p.
-[391](vre13.htm#page_391).
+<span id="fn_340"></span>[495:5](vre16.htm#fr_340.md) Above, p.
+[391](vre13.htm#page_391.md).
 
-<span id="fn_341"></span>[495:6](vre16.htm#fr_341) Example: Henri
+<span id="fn_341"></span>[495:6](vre16.htm#fr_341.md) Example: Henri
 Perreyve writes to Gratry: "I do not know how to deal with the happiness
 which you aroused in me this morning. It overwhelms me; I want to *do*
 something, yet I can do nothing and <span id="page_496">p. 496</span> am
@@ -1311,13 +1311,13 @@ faith in the providence of God, all have their source in that onrush of
 our sanguine impulses, and in that sense of the exceedingness of the
 possible over the real.
 
-<span id="fn_342"></span>[496:1](vre16.htm#fr_342) Compare <span
+<span id="fn_342"></span>[496:1](vre16.htm#fr_342.md) Compare <span
 class="smallcaps">Leuba</span>: Loc. cit., pp. 346-349.
 
-<span id="fn_343"></span>[496:2](vre16.htm#fr_343) The Contents of
+<span id="fn_343"></span>[496:2](vre16.htm#fr_343.md) The Contents of
 Religious Consciousness, in The Monist, xi. 536, July 1901.
 
-<span id="fn_344"></span>[497:1](vre16.htm#fr_344) Loc. cit., pp. 571,
+<span id="fn_344"></span>[497:1](vre16.htm#fr_344.md) Loc. cit., pp. 571,
 572, abridged. See, also, this writer's extraordinarily true criticism
 of the notion that religion primarily seeks to solve the intellectual
 mystery of the world. Compare what <span class="smallcaps">W.
@@ -1332,16 +1332,16 @@ ordering and governing powers when the limits of his own strength are
 reached." The whole book is little more than a development of these
 words.
 
-<span id="fn_345"></span>[498:1](vre16.htm#fr_345) Remember that for
+<span id="fn_345"></span>[498:1](vre16.htm#fr_345.md) Remember that for
 some men it arrives suddenly, for others gradually, whilst others again
 practically enjoy it all their life.
 
-<span id="fn_346"></span>[499:1](vre16.htm#fr_346) The practical
+<span id="fn_346"></span>[499:1](vre16.htm#fr_346.md) The practical
 difficulties are: 1, to "realize the reality" of one's higher part; 2,
 to identify one's self with it exclusively; and 3, to identify it with
 all the rest of ideal being.
 
-<span id="fn_347"></span>[499:2](vre16.htm#fr_347) "When mystical
+<span id="fn_347"></span>[499:2](vre16.htm#fr_347.md) "When mystical
 activity is at its height, we find consciousness possessed by the sense
 of a being at once *excessive* and *identical* with the self: great
 enough to be God; interior enough to be *me*. The "objectivity" of it
@@ -1349,15 +1349,15 @@ ought in that case to be called *excessivity*, rather, or
 exceedingness." <span class="smallcaps">Récéjac</span>: Essai sur les
 fondements de la conscience mystique, 1897, p. 46.
 
-<span id="fn_348"></span>[500:1](vre16.htm#fr_348) The word "truth" is
+<span id="fn_348"></span>[500:1](vre16.htm#fr_348.md) The word "truth" is
 here taken to mean something additional to bare value for life, although
 the natural propensity of man is to believe that whatever has great
 value for life is thereby certified as true.
 
-<span id="fn_349"></span>[500:2](vre16.htm#fr_349) Above, [p.
-445](vre14.htm#page_445).
+<span id="fn_349"></span>[500:2](vre16.htm#fr_349.md) Above, [p.
+445](vre14.htm#page_445.md).
 
-<span id="fn_350"></span>[502:1](vre16.htm#fr_350) Proceedings of the
+<span id="fn_350"></span>[502:1](vre16.htm#fr_350.md) Proceedings of the
 Society for Psychical Research, vol. vii. p. 305. For a full statement
 of Mr. Myers's views, I may refer to his posthumous work, "Human
 Personality in the Light of Recent Research," which is already announced
@@ -1372,17 +1372,17 @@ upon the path which Myers has opened can alone show. compare my paper:
 "Frederic Myers's services to Psychology," in the said Proceedings, part
 xlii., May, 1901.
 
-<span id="fn_351"></span>[502:355](vre16.htm#fr_351) Compare the
+<span id="fn_351"></span>[502:355](vre16.htm#fr_351.md) Compare the
 inventory given above on pp.
-[472](vre15.htm#page_472)-[4](vre03.htm#page_4), and also what is said
+[472](vre15.htm#page_472)-[4](vre03.htm#page_4.md), and also what is said
 of the subconscious self on pp.
-[228](vre10.htm#page_228)-[231](vre10.htm#page_231),
-[235](vre10.htm#page_235)-[236](vre10.htm#page_236).
+[228](vre10.htm#page_228)-[231](vre10.htm#page_231.md),
+[235](vre10.htm#page_235)-[236](vre10.htm#page_236.md).
 
-<span id="fn_352"></span>[503:1](vre16.htm#fr_352) Compare above, pp.
-[410](vre13.htm#page_410) ff.
+<span id="fn_352"></span>[503:1](vre16.htm#fr_352.md) Compare above, pp.
+[410](vre13.htm#page_410.md) ff.
 
-<span id="fn_353"></span>[503:2](vre16.htm#fr_353) One more expression
+<span id="fn_353"></span>[503:2](vre16.htm#fr_353.md) One more expression
 of this belief, to increase the reader's familiarity with the notion of
 it:—
 
@@ -1415,7 +1415,7 @@ Vivekananda</span>: Addresses, No. XII., Practical Vedanta, part iv. pp.
 172, 174, London, 1897; and Lectures, The Real and the Apparent Man, p.
 24, abridged.
 
-<span id="fn_354"></span>[504:1](vre16.htm#fr_354) For instance, here is
+<span id="fn_354"></span>[504:1](vre16.htm#fr_354.md) For instance, here is
 a case where a person exposed from her birth to Christian ideas had to
 wait till they came to her clad in spiritistic <span id="page_505">p.
 505</span> formulas before the saving experience set in:—
@@ -1436,13 +1436,13 @@ will come when all my efforts shall be rewarded. So Spiritualism has a
 great place in my life, indeed it holds the first place there." Flournoy
 Collection.
 
-<span id="fn_355"></span>[505:1](vre16.htm#fr_355) "The influence of the
+<span id="fn_355"></span>[505:1](vre16.htm#fr_355.md) "The influence of the
 Holy Spirit, exquisitely called the Comforter, is a matter of actual
 experience, as solid a reality as that of electro magnetism." <span
 class="smallcaps">W. C. Brownell</span>, Scribner's Magazine, vol. xxx.
 p. 112.
 
-<span id="fn_356"></span>[506:1](vre16.htm#fr_356) That the transaction
+<span id="fn_356"></span>[506:1](vre16.htm#fr_356.md) That the transaction
 of opening ourselves, otherwise called prayer, is a perfectly definite
 one for certain persons, appears abundantly in the preceding lectures. I
 append another concrete example to rein force the impression on the
@@ -1465,7 +1465,7 @@ summer day. The power can be as surely used as the sun s rays can be
 focused and made to do work, to set fire to wood." The Higher Law, vol.
 iv. pp. 4, 6, Boston, August, 1901.
 
-<span id="fn_357"></span>[507:1](vre16.htm#fr_357) Transcendentalists
+<span id="fn_357"></span>[507:1](vre16.htm#fr_357.md) Transcendentalists
 are fond of the term "Over-soul," but as a rule they use it in an
 intellectualist sense, as meaning only a medium of communion. "God" is a
 causal agent as well as a medium of communion, and that is the aspect
@@ -1473,4 +1473,4 @@ which I wish to emphasize.
 
 ------------------------------------------------------------------------
 
-[Next: Postscript](vre17)
+[Next: Postscript](vre17.md)

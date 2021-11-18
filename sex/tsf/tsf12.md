@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf11)  [Next](tsf13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf11)  [Next](tsf13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ go down into the
 <span id="img_19000"></span>
 
 [![The eternal Sakti](tn/19000.jpg)  
-Click to enlarge](img/19000.jpg)  
+Click to enlarge](img/19000.jpg.md)  
 The eternal Sakti  
 
 cavern to fetch whatever remained of the pigs and the cakes of dough
@@ -128,7 +128,7 @@ Throughout the time of the festival, the
 <span id="img_19200"></span>
 
 [![A female demon in ancient India](tn/19200.jpg)  
-Click to enlarge](img/19200.jpg)  
+Click to enlarge](img/19200.jpg.md)  
 A female demon in ancient India  
 
 maidens’ chief prayer was that the goddess might bless them with good
@@ -153,7 +153,7 @@ danced and sang in honor of the Sakti.
 
 [![Devaki seated on a lotus flower and holding a lotus bud, symbols of
 the two creative forces](tn/19300.jpg)  
-Click to enlarge](img/19300.jpg)  
+Click to enlarge](img/19300.jpg.md)  
 Devaki seated on a lotus flower and holding a lotus bud, symbols of the
 two creative forces  
 
@@ -180,4 +180,4 @@ woman will, in a world of absolute womanhood.
 
 ------------------------------------------------------------------------
 
-[Next: Prologue](tsf13)
+[Next: Prologue](tsf13.md)

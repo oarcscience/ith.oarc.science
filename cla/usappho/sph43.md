@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph42)  [Next](sph44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph42)  [Next](sph44.md) 
 
 ------------------------------------------------------------------------
 
 # <span id="BM42">42</span>
 
-Ἄγε δὴ χέλυ δῖά μοι φωνάεσσα γένοιο. [\[transcription\]](xlatall.htm#63)
+Ἄγε δὴ χέλυ δῖά μοι φωνάεσσα γένοιο. [\[transcription\]](xlatall.htm#63.md)
 
 Come, O divine shell, yield thy resonances to me.
 
@@ -21,4 +21,4 @@ by stretching the strings across the cavity of a tortise's shell.
 
 ------------------------------------------------------------------------
 
-[Next: 43: And delicately woven garlands round tender neck.](sph44)
+[Next: 43: And delicately woven garlands round tender neck.](sph44.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml05)  [Next](tml07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml05)  [Next](tml07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -204,7 +204,7 @@ beneath.
 Then the gods set Mani, the handsome youth, to drive the chariot of the
 moon. With him are two fair children whom he carried away from earth--a
 boy who was called Hyuki, and a girl whose name is Bil. <span
-id="fr_15"></span>[1](#fn_15) They had been sent out in the darkness of
+id="fr_15"></span>[1](#fn_15.md) They had been sent out in the darkness of
 night by Vidfinner, their father, to draw song-mead from the mountain
 spring Byrger, "the hidden", which broke forth from
 
@@ -278,7 +278,7 @@ and beneficent Svasud was the sire of fair Summer, beloved by all.
 <span id="img_00800"></span> <span align="CENTER"> [![ODIN&lt;br&gt;
 From the design by Sir E. Burne-Jones.&lt;br&gt; Photograph by Frederich
 Hollyer](tn/00800.jpg)  
-Click to enlarge](img/00800.jpg)  
+Click to enlarge](img/00800.jpg.md)  
 ODIN  
 From the design by Sir E. Burne-Jones.  
 Photograph by Frederich Hollyer  
@@ -352,9 +352,9 @@ A queen, and empire over all the dead.
 
 ### Footnotes
 
-<span id="fn_15"></span>[6:1](tml06.htm#fr_15) The Jack and Jill of the
+<span id="fn_15"></span>[6:1](tml06.htm#fr_15.md) The Jack and Jill of the
 nursery rhyme.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Nine Worlds](tml07)
+[Next: Chapter II. The Nine Worlds](tml07.md)

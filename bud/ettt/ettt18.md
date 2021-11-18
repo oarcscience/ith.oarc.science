@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt17)  [Next](ettt19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt17)  [Next](ettt19.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -45,7 +45,7 @@ The merit of this practice is stated in the *Tantra of Vajra Dakini:*
 "If one has committed the sin of killing a kinsman,  
  Of slaughtering the Brahmins;  
  Or has committed the Five Paramount
-Crimes[100](ettt22.htm#an_n_nar:100)<span id="an_r_nar:100"></span>,  
+Crimes[100](ettt22.htm#an_n_nar:100.md)<span id="an_r_nar:100"></span>,  
  Or has stolen or robbed from others for pleasure  
  All these sins can be cleansed  
  By practicing this superb teaching.  
@@ -76,7 +76,7 @@ Buddha-like self body. If he has taken the precepts of Tantra, he is
 then violating the eighth rule of the basic precepts of Tantra, and he
 is exposed to the danger of falling into hell. Therefore, he should
 clearly understand the time factor, and industriously study the signs of
-death to [foresee](errata.htm#60) the coming of death. When the signs
+death to [foresee](errata.htm#60.md) the coming of death. When the signs
 appear, he should try to prevent it by all possible means. If everything
 is done but to no avail, he should know that it is the right time to
 apply this teaching. According to the commentary on Gdan-bzhi, *Bhaba
@@ -104,7 +104,7 @@ Transformation Yoga before the time of death comes, it is still
 forbidden. It is also forbidden in the case of one who suffers from an
 unbearable sickness. Some ignorant people say that in the former case,
 the old man is allowed to use the Transformation Yoga (before his time
-comes). <span id="fr_18"></span>[\*](#fn_18)
+comes). <span id="fr_18"></span>[\*](#fn_18.md)
 
 The main instruction on the Transformation Yoga consists of two
 practices. The *Tantra of Vajra* says:
@@ -139,9 +139,9 @@ qualified to perform the Transformation Yoga. This shows their ignorance
 of the teaching of Tantra.
 
 In performing the Transformation Yoga, all the nine gates of the
-body[101](ettt22.htm#an_n_nar:101)<span id="an_r_nar:101"></span> except
+body[101](ettt22.htm#an_n_nar:101.md)<span id="an_r_nar:101"></span> except
 the Golden Gate on \[top of the\] the head should first be closed to
-prevent the [escape](errata.htm#61) of the consciousness through these
+prevent the [escape](errata.htm#61.md) of the consciousness through these
 gates. The consciousness should be allowed to exit only from the Golden
 Gate. According to Tantras, these conditions are required to meet the
 qualifications of a perfect ground upon which the qualified Tantric
@@ -170,7 +170,7 @@ introduce them here; for it would take excessive space to explain them.
 First, the yogi visualizes the self-body become the body of the patron
 Buddha; then visualizes a red *Ah* word at the reproductive center or at
 the navel center, a dark blue *Hūṃ* word at the Heart Center, a white
-*Kha* word at the Gate of Purity[102](ettt22.htm#an_n_nar:102)<span
+*Kha* word at the Gate of Purity[102](ettt22.htm#an_n_nar:102.md)<span
 id="an_r_nar:102"></span>. Then he should pull up the lower prana (from
 the reproductive center) to the navel center; thus the *Ah* word is
 pushed up to the place of the *Hūṃ* word (in the Heart Center); again
@@ -255,7 +255,7 @@ not-yet-decomposed corpse of another is called Grong-hjug—
 <span class="contnote">\[paragraph continues\]</span> Entering into
 Another's House." This teaching is the unique teaching of the
 Unparalleled Tantra. It frequently appears in the Mother Tantra, and
-sometimes in the Father Tantra. <span id="fr_19"></span>[\*](#fn_19)
+sometimes in the Father Tantra. <span id="fr_19"></span>[\*](#fn_19.md)
 
 What is the purpose of practicing this yoga, or what is this teaching
 for? Who is qualified to practice it? How is the teaching of this Yoga
@@ -286,7 +286,7 @@ G’a-sbyor* and its commentary, the Fruit-Bearing Pith-Instruction.
 I believe that in both cases, whether the self-consciousness enters into
 the corpse or into another's living body, a special prana performance is
 required in addition to the requirements and qualifications mentioned
-before[103](ettt22.htm#an_n_nar:103)<span id="an_r_nar:103"></span>. The
+before[103](ettt22.htm#an_n_nar:103.md)<span id="an_r_nar:103"></span>. The
 details may be found in some other sources.
 
 It would be difficult to benefit sentient beings on a great scale with a
@@ -306,7 +306,7 @@ proceed to a very secluded, sheltered place. He should dispense with all
 distracted thoughts, keep away from all wordly activities, prepare the
 offerings, and establish the altar for the patron Buddha. With all these
 arrangements made, he should then engage himself in meditation under
-strict Confinement of Contemplation[104](ettt22.htm#an_n_nar:104)<span
+strict Confinement of Contemplation[104](ettt22.htm#an_n_nar:104.md)<span
 id="an_r_nar:104"></span>.
 
 Then he should prepare a Mandala painted black as the
@@ -382,7 +382,7 @@ this yoga will naturally arise in people's
 
 <span id="page_261">p. 261</span>
 
-minds);[105](ettt22.htm#an_n_nar:105)<span id="an_r_nar:105"></span> if
+minds);[105](ettt22.htm#an_n_nar:105.md)<span id="an_r_nar:105"></span> if
 it is sinful to transform one's consciousness to some other
 consciousness to some other place before the coming of death as
 admonished in the Instruction on Transformation Yoga, is it not also
@@ -409,20 +409,20 @@ not given to gurus; therefore, it is not explained here.
 
 ### Footnotes
 
-<span id="fn_18"></span>[252:\*](ettt18.htm#fr_18) To use Transformation
+<span id="fn_18"></span>[252:\*](ettt18.htm#fr_18.md) To use Transformation
 yoga to try to circumvent karma is forbidden; it would be absurd to try
 to do so, for the "escaped" karma would only return in aggravated form
 later. *Ed*.
 
-<span id="fn_19"></span>[257:\*](ettt18.htm#fr_19) Comparable to the
-Kali and Siva [Āgamas](errata.htm#62) respectively of Hindu Tantra. See
-note [60](ettt22.htm#an_n_nar:60) and also the discussion of śakta-śakti
-vs. upāya-[prajñā](errata.htm#63) in the editorial introduction.—*Ed*.
+<span id="fn_19"></span>[257:\*](ettt18.htm#fr_19.md) Comparable to the
+Kali and Siva [Āgamas](errata.htm#62.md) respectively of Hindu Tantra. See
+note [60](ettt22.htm#an_n_nar:60.md) and also the discussion of śakta-śakti
+vs. upāya-[prajñā](errata.htm#63.md) in the editorial introduction.—*Ed*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Ten: How to Improve the Practice in the Path](ettt19)
+[Next: Chapter Ten: How to Improve the Practice in the Path](ettt19.md)
 
 </div>

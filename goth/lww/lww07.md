@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww06)  [Next](lww08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww06)  [Next](lww08.md) 
 
 ------------------------------------------------------------------------
 
@@ -179,4 +179,4 @@ hurried on to Lesser Hill.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII--Survivals](lww08)
+[Next: Chapter VIII--Survivals](lww08.md)

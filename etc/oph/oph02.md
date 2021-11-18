@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](oph01)  [Next](oph03) 
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](oph01)  [Next](oph03.md) 
 
 ------------------------------------------------------------------------
 
@@ -255,4 +255,4 @@ Agathos Daimon is connected with the altar of Baal.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](oph03)
+[Next: Chapter 3](oph03.md)

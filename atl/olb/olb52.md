@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb51.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -109,7 +109,7 @@ they built a strong town with walls and citadels named Rome, that is,
 this was done, the people by craft and force made themselves masters of
 the whole. land. The people who live on the south side of the
 Mediterranean Sea, come for the most part from Phœnicia. The
-Phœnicians <span id="fr_87"></span>[\*](#fn_87) (Puniers or
+Phœnicians <span id="fr_87"></span>[\*](#fn_87.md) (Puniers or
 Carthaginians) are a bastard race of the blood of Frya, Finda, and Lyda.
 The Lyda people were there as slaves, but by the unchastity of the women
 these black people have degenerated the other people and dyed them
@@ -160,7 +160,7 @@ Burgtmaagd, with a few maidens. Her name was Reintja, and she was famed
 fur her wisdom. This maid offered her assistance to Askar, on condition
 that he should afterwards rebuild the citadel of Stavin. When he had
 bound himself to do this, Reintja went with three maidens to Hals <span
-id="fr_88"></span>[\*](#fn_88) (Holstein). She travelled by night, and
+id="fr_88"></span>[\*](#fn_88) (Holstein.md). She travelled by night, and
 by day she made speeches in all the markets and in all the assemblies.
 Wr-alda, she said, had told her by his thunder that all the Frya's
 people must become friends, and united as brothers and sisters,
@@ -333,9 +333,9 @@ abominable doctrines. Were there people who
 
 ### Footnotes
 
-<span id="fn_87"></span>[241:\*](olb52.htm#fr_87) *Phonsiar* are
+<span id="fn_87"></span>[241:\*](olb52.htm#fr_87.md) *Phonsiar* are
 Carthaginians.
 
-<span id="fn_88"></span>[243:\*](olb52.htm#fr_88) *Hals* is Holstein.
+<span id="fn_88"></span>[243:\*](olb52.htm#fr_88.md) *Hals* is Holstein.
 
  

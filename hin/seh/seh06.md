@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh05)  [Next](seh07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh05)  [Next](seh07.md) 
 
 ------------------------------------------------------------------------
 
@@ -231,4 +231,4 @@ And royal Feudal Europe sails with thee."
 
 ------------------------------------------------------------------------
 
-[Next: Our Zenana Terrace](seh07)
+[Next: Our Zenana Terrace](seh07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg25)  [Next](leg27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg25)  [Next](leg27.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Recite \[the following formula\]:--
 lonely road. Her cry hath penetrated the heights of heaven, and is heard
 along the paths. **11**. The poison hath entered into her body, and
 circulateth through her flesh. She hath set her mouth against it; <span
-id="fr_201"></span>[1](#fn_199) verily the poison is in her members.
+id="fr_201"></span>[1](#fn_199.md) verily the poison is in her members.
 
 <span id="page_146">p. 146</span> <span id="page_147">p. 147</span>
 
@@ -24,7 +24,7 @@ splendour, \[for\] I have set myself near (or, behind) thee. I have
 overthrown the poison **15** which is in all the limbs of this Cat. O
 thou Cat, thy head is the head of Ra, the Lord of the Two Lands, the
 smiter of the rebellious peoples. **16**. Thy <span
-id="fr_202"></span>[1](#fn_200) fear is in all lands, O Lord of the
+id="fr_202"></span>[1](#fn_200.md) fear is in all lands, O Lord of the
 living, Lord of eternity. O thou Cat, thy two eyes are the Eye of the
 Lord of the Khut uraeus, who illumineth **17** the Two Lands with his
 Eye, and illumineth the face on the path of darkness. O thou Cat, thy
@@ -53,7 +53,7 @@ the belly of Osiris, Lord of Busiris, the poison shall not work any of
 its wishes in thy belly. O thou Cat, **27** thy thighs are the thighs of
 the god Menthu, who shall make thy thighs to stand up, and shall bring
 the **28** poison to the ground. O thou Cat, thy leg-bones are the
-leg-bones of Khensu, <span id="fr_203"></span>[1](#fn_201) **29** who
+leg-bones of Khensu, <span id="fr_203"></span>[1](#fn_201.md) **29** who
 travelleth over all the Two Lands by day and by night, and shall lead
 the poison to the ground. O thou Cat, thy legs (or, feet) **30** are the
 legs of Amen the Great, Horus, Lord of Thebes, who shall stablish thy
@@ -85,15 +85,15 @@ earth.'"
 
 ### Footnotes
 
-<span id="fn_199"></span>[145:1](leg26.htm#fr_201) I.e., she hath
+<span id="fn_199"></span>[145:1](leg26.htm#fr_201.md) I.e., she hath
 directed her words against it.
 
-<span id="fn_200"></span>[147:1](leg26.htm#fr_202) Literally "his."
+<span id="fn_200"></span>[147:1](leg26.htm#fr_202.md) Literally "his."
 
-<span id="fn_201"></span>[149:1](leg26.htm#fr_203) He was the messenger
+<span id="fn_201"></span>[149:1](leg26.htm#fr_203.md) He was the messenger
 of the gods, and travelled across the sky under the form of the Moon; he
 sometimes appears as a form of Thoth.
 
 ------------------------------------------------------------------------
 
-[Next: Another Chapter](leg27)
+[Next: Another Chapter](leg27.md)

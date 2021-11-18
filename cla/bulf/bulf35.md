@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf34) [Next](bulf36) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf34) [Next](bulf36.md) 
 
 # CHAPTER XXXVI.
 
@@ -286,4 +286,4 @@ of the starry heavens to a salamander unwarmed in the fire:
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XXXVII. Eastern Mythology- Zoroaster- Hindu Mythology-
-Castes- Buddha- Grand Lama.](bulf36)
+Castes- Buddha- Grand Lama.](bulf36.md)

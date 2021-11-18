@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb19)  [Next](vifb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb19)  [Next](vifb21.md) 
 
 </div>
 
@@ -100,6 +100,6 @@ of your enchanted knife.'
 
 ------------------------------------------------------------------------
 
-[Next: Jesper who Herded the Hares](vifb21)
+[Next: Jesper who Herded the Hares](vifb21.md)
 
 </div>

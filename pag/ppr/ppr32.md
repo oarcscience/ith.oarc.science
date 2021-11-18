@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr31)  [Next](ppr33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr31)  [Next](ppr33.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ wicked ones of hell.
 
 ------------------------------------------------------------------------
 
-[Next: Mohammedan Prayer of Adoration (Persian)](ppr33)
+[Next: Mohammedan Prayer of Adoration (Persian)](ppr33.md)

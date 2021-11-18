@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb14)  [Next](yefb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb14)  [Next](yefb16.md) 
 
 </div>
 
@@ -541,6 +541,6 @@ any more.
 
 ------------------------------------------------------------------------
 
-[Next: The Crow](yefb16)
+[Next: The Crow](yefb16.md)
 
 </div>

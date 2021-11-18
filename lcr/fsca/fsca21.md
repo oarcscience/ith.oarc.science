@@ -1,23 +1,23 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca20)  [Next](fsca22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca20)  [Next](fsca22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
 <span id="img_09800"></span> ![A Wyvern holding a
-fleur-de-lis.](img/09800.jpg)
+fleur-de-lis.](img/09800.jpg.md)
 
 ### The Wyvern
 
@@ -33,10 +33,10 @@ id="img_09900"></span>
 
 |                                                         |
 |---------------------------------------------------------|
-| ![A Wyvern, wings endorsed, tail nowed.](img/09900.jpg) |
+| ![A Wyvern, wings endorsed, tail nowed.](img/09900.jpg.md) |
 
 standards in the Bayeux tapestry (*see* Dragon, [p.
-86](fsca17.htm#page_86)). It is erroneously termed a dragon by some
+86](fsca17.htm#page_86).md). It is erroneously termed a dragon by some
 writers, though perhaps they may both be classed together. Old heralds
 say of these imaginary monsters that they are emblems of pestilence, and
 are represented as strong and fierce animals covered with invulnerable
@@ -44,7 +44,7 @@ mail, and fitly typify viciousness and<span id="img_09901"></span>
 
 |                                                                            |
 |----------------------------------------------------------------------------|
-| ![Wyvern from the Garter plate of Sir John Gray, 1436 A.D.](img/09901.jpg) |
+| ![Wyvern from the Garter plate of Sir John Gray, 1436 A.D.](img/09901.jpg.md) |
 
 envy. In armory they are properly applied to tyranny or the overthrow of
 a vicious enemy.
@@ -57,14 +57,14 @@ legs," but *sans wings* or *sans legs*, as the
 <span id="page_100">p. 100</span>
 
 case may be. A dragon or wyvern sans wings is termed a lindworm. (*See*
-page [80](fsca16.htm#page_80).)
+page [80](fsca16.htm#page_80)..md)
 
 *Argent, a wyvern, wings endorsed gules*, are the arms<span
 id="img_10000"></span>
 
 |                                                          |
 |----------------------------------------------------------|
-| ![Wyvern, or Lindworm. (German version.)](img/10000.jpg) |
+| ![Wyvern, or Lindworm. (German version.)](img/10000.jpg.md) |
 
 of *Drake*, of Ashe, Devon (Bart.), 1600.
 
@@ -95,7 +95,7 @@ possible," says Miss Millington, "not to think that the story of the
 dragon as well as its adoption in the coat-of-arms
 
 <span id="img_10100"></span> ![(left) Wyvern, wings displayed. (Early
-example.) (right) Wyvern, wings depressed.](img/10100.jpg)
+example.) (right) Wyvern, wings depressed.](img/10100.jpg.md)
 
 bears allusion rather to the dragon of paganism, expelled from the city,
 as it might seem, by the church built upon the site of the cave, in
@@ -103,8 +103,8 @@ which too, by the rite of Holy Baptism, children especially were
 delivered from the power of Satan. Indeed, the innumerable legends of
 saints who have fought and overcome dragons sufficiently prove the
 symbolic light in which that creature was anciently viewed." (*See* also
-Serpent Biscia, [p. 117](fsca27.htm#page_117).)
+Serpent Biscia, [p. 117](fsca27.htm#page_117)..md)
 
 ------------------------------------------------------------------------
 
-[Next: The Chimera](fsca22)
+[Next: The Chimera](fsca22.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat17.htm#CXXXVII) 
-[Previous](satl136)  [Next](satl138) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat17.htm#CXXXVII.md) 
+[Previous](satl136)  [Next](satl138.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ inter haec potiones meracae.
 
 ------------------------------------------------------------------------
 
-[Next: CXXXVIII](satl138)
+[Next: CXXXVIII](satl138.md)

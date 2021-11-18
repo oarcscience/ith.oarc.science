@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb26)  [Next](yefb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb26)  [Next](yefb28.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_152">p. 152</span>
 
-IN THE LAND OF SOULS <span id="fr_20"></span>[1](#fn_20)
+IN THE LAND OF SOULS <span id="fr_20"></span>[1](#fn_20.md)
 
 Far away, in North America, where the Red Indians dwell, there lived a
 long time ago a beautiful maiden, who was lovelier than any other girl
@@ -129,12 +129,12 @@ beautiful, as when I called her hence from the Land of Snows.'
 
 ### Footnotes
 
-<span id="fn_20"></span>[152:1](yefb27.htm#fr_20) From the Red Indian.
+<span id="fn_20"></span>[152:1](yefb27.htm#fr_20.md) From the Red Indian.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The White Duck](yefb28)
+[Next: The White Duck](yefb28.md)
 
 </div>

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb06)  [Next](spb08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb06)  [Next](spb08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -186,8 +186,8 @@ is the Lord on high. Thy testimonies are very
 
 faithful: holiness becometh thine house, O Lord, for evermore.
 
-*On the days when Tachanun ([p. 76](spb05.htm#page_76) to [p.
-80](spb05.htm#page_80)) is said, the following is added after the Psalm
+*On the days when Tachanun ([p. 76](spb05.htm#page_76.md) to [p.
+80](spb05.htm#page_80).md) is said, the following is added after the Psalm
 of the day:—*
 
 Psalm lxxxiii.
@@ -219,7 +219,7 @@ be ashamed and confounded tor ever; yea, let them be abashed and perish.
 That they may know that thou, of whom alone the name is the Lord, art
 Most High over all the earth
 
-*On New Moon, Psalm civ. is read, [p. 264](spb22.htm#page_264)*.
+*On New Moon, Psalm civ. is read, [p. 264](spb22.htm#page_264.md)*.
 
 *From the beginning of the Month of Elul until Hoshana Rabba, the
 following Psalm is read every Morning and Evening:—*
@@ -256,7 +256,7 @@ goodness of the Lord in the land of the living. Wait for the Lord; be
 strong and let thine heart take courage; yea, wait thou for the Lord.
 
 *In some Congregations the following Psalm is said daily before "Blessed
-be he," etc., [p. 19](spb05.htm#page_19)*.
+be he," etc., [p. 19](spb05.htm#page_19.md)*.
 
 Psalm xxx.
 
@@ -283,6 +283,6 @@ thanks unto thee for ever.</span>
 
 ------------------------------------------------------------------------
 
-[Next: Kaddish d’Rabbonon](spb08)
+[Next: Kaddish d’Rabbonon](spb08.md)
 
 </div>

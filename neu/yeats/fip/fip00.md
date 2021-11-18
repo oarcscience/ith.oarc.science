@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Next](fip01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Next](fip01.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ G. R
 
 ------------------------------------------------------------------------
 
-[Next: Contents](fip01)
+[Next: Contents](fip01.md)

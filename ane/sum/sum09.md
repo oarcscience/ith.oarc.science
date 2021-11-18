@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](sum08)  [Next](sum10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](sum08)  [Next](sum10.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,10 +20,10 @@ itself, however, is of Sumerian origin. For in 1914 Arno Poebel
 published and carefully translated a fragment consisting of the lower
 third of a six-column Sumerian tablet in the Nippur collection of the
 University Museum, the larger part of whose contents is devoted to the
-deluge myth. [88](sum10.htm#xref_88) Unfortunately this fragment still
+deluge myth. [88](sum10.htm#xref_88.md) Unfortunately this fragment still
 remains unique and unduplicated; neither in Istanbul nor in Philadelphia
 have I succeeded in uncovering any material that might help to restore
-the broken part of its contents. [v](sum11.htm#xref_v)
+the broken part of its contents. [v](sum11.htm#xref_v.md)
 
 The first part of the poem deals with the creation of man and animals
 and with the founding of the five antediluvian cities: Eridu, Badtibira,
@@ -65,7 +65,7 @@ They (An and Enlil) caused to dwell.
 
 The remainder of the poem is destroyed.
 
-### THE MARRIAGE OF MARTU [w](sum11.htm#xref_w)
+### THE MARRIAGE OF MARTU [w](sum11.htm#xref_w.md)
 
 As yet we have but one tablet inscribed with the text of this poem; it
 is in the Nippur collection of the University Museum and has been copied
@@ -76,7 +76,7 @@ and translated in part by
 ### FIG. 2. THE DELUGE
 
 This figure gives the obverse and the reverse of the deluge tablet as
-published by Poebel in 1914. [88](sum10.htm#xref_88) The marked passage
+published by Poebel in 1914. [88](sum10.htm#xref_88.md) The marked passage
 contains the lines describing the flood and reads as follows:
 
 1\.
@@ -89,7 +89,7 @@ dù-a-bi ur-bi ì-súg-gi-eš*
 tu<sub>15</sub>-ḫul-bul-bul-a-ta*  
 6. *<sup>d</sup>utu im-ma-ra-è an-ki-a u<sub>4</sub>-gá-gá*
 
-For the translation, see pages [97](#page_97)-98.
+For the translation, see pages [97](#page_97.md)-98.
 
 <span id="page_99">p. 99</span>
 
@@ -97,7 +97,7 @@ For the translation, see pages [97](#page_97)-98.
 
 [![FIG. 2.&lt;br&gt; THE DELUGE&lt;br&gt; (For description, see opposite
 page.)](tn/fig02.jpg)  
-Click to enlarge](img/fig02.jpg)  
+Click to enlarge](img/fig02.jpg.md)  
 FIG. 2.  
 THE DELUGE  
 (For description, see opposite page.)  
@@ -107,7 +107,7 @@ THE DELUGE
 <span id="page_100">p. 100</span>
 
 \[paragraph continues\] Edward Chiera some twenty years
-ago. [89](sum10.htm#xref_89) The action of the story takes place in the
+ago. [89](sum10.htm#xref_89.md) The action of the story takes place in the
 city of Ninab, "the city of cities, the land of princeship," a still
 unidentified locality in Mesopotamia. Its tutelary deity seems to have
 been Martu, a west-Semitic god adopted by the Sumerians into their
@@ -161,9 +161,9 @@ O my . . .. why wouldst thou marry Martu?"
 To this argument Numushda's daughter answers simply: "Martu I shall
 marry," and our poem ends.
 
-### INANNA PREFERS THE FARMER [x](sum11.htm#xref_x)
+### INANNA PREFERS THE FARMER [x](sum11.htm#xref_x.md)
 
-This charming agricultural myth, [90](sum10.htm#xref_90) which I have
+This charming agricultural myth, [90](sum10.htm#xref_90.md) which I have
 entitled "Inanna Prefers the Farmer," is another example of the
 Cain-Abel motif. The characters of our poem are four in number: the
 seemingly ubiquitous Inanna; her brother, the sun-god Utu; the
@@ -259,4 +259,4 @@ Dumuzi over the farmer-god Enkimdu.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. References and Notes](sum10)
+[Next: Chapter V. References and Notes](sum10.md)

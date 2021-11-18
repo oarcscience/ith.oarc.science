@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap05) [Next](chap07)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap05) [Next](chap07.md)
 
 ------------------------------------------------------------------------
 
@@ -163,4 +163,4 @@ wildcat.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: A Long Ride Through Utah Valley](chap07)
+[Next: Chapter VII: A Long Ride Through Utah Valley](chap07.md)

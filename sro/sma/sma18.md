@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma17)  [Next](sma19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma17)  [Next](sma19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ the son of Saladin, was returning from an expedition into the Holy Land,
 which he had undertaken with the consent of the Count of Tripolis,
 regent of the kingdom, the Masters of the Temple and of the Hospital,
 having collected about 140 knights and 500 footmen, met the
-[Moslems](errata.htm#14), who were
+[Moslems](errata.htm#14.md), who were
 
 <span id="page_211">p. 211</span>
 
@@ -99,7 +99,7 @@ was unhappily an English knight, named Robert of St. Albans. From some
 unassigned cause, he flung away the dress of his order, broke his vows,
 went over to Saladin, and became a Musselman. The sultan gave him one of
 his female relatives in marriage, and the recreant knight appeared
-before [Jerusalem](errata.htm#15) at the head of an army of the
+before [Jerusalem](errata.htm#15.md) at the head of an army of the
 infidels. He had promised to Saladin to reduce the Holy City; but her
 hour was not yet come; and after wasting all the country from Mont-
 royal to Jericho with fire and sword, he was forced to retreat before
@@ -351,17 +351,17 @@ possessions. This will, we trust, prove no slight contribution to our
 knowledge of one of the most curious portions of the history of the
 world--that of the middle ages--and gratify the reader by the display of
 manners and institutions which have long since passed away <span
-id="fr_77"></span>[\*](#fn_77).
+id="fr_77"></span>[\*](#fn_77.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_77"></span>[220:\*](sma18.htm#fr_77) The organisation and
+<span id="fn_77"></span>[220:\*](sma18.htm#fr_77.md) The organisation and
 the rules of the Hospitaliers were similar to those of the Templars; but
 as that order existed down to modern times, the rules, &c., given by
 Vertot, contain a great number of modern additions.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](sma19)
+[Next: Chapter V](sma19.md)

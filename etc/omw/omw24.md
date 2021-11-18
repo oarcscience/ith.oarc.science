@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw23)  [Next](omw25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw23)  [Next](omw25.md) 
 
 ------------------------------------------------------------------------
 
@@ -354,4 +354,4 @@ the Remote, thine ancestor."
 ------------------------------------------------------------------------
 
 [Next: The Story of Uta-Napishtim and of the Deluge that Destroyed All
-that was on the Earth](omw25)
+that was on the Earth](omw25.md)

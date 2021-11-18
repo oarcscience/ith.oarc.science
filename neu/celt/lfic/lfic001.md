@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic000)  [Next](lfic002) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic000)  [Next](lfic002.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ in the perusal of a mere FOLK'S BOOK.
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](lfic002)
+[Next: Dedication](lfic002.md)

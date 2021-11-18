@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](oprt12)  [Next](oprt14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](oprt12)  [Next](oprt14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Old Peter's Russian Tales*, by Arthur Ransome, \[1916\], at Intangible
 Textual Heritage
 
@@ -836,4 +836,4 @@ the pine trees and played with the little queer children.
 
 ------------------------------------------------------------------------
 
-[Next: Little Master Misery](oprt14)
+[Next: Little Master Misery](oprt14.md)

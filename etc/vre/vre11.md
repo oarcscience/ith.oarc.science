@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre10)  [Next](vre12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre10)  [Next](vre12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -73,7 +73,7 @@ of love and humility, of infinite confidence in God, and of severity for
 one's self, accompanied with tenderness for others. The fruits peculiar
 to this condition of the soul have the same savor in all, under distant
 suns and in different surroundings, in Saint Teresa of Avila just as in
-any Moravian brother of Herrnhut." <span id="fr_140"></span>[1](#fn_140)
+any Moravian brother of Herrnhut." <span id="fr_140"></span>[1](#fn_140.md)
 
 Sainte-Beuve has here only the more eminent instances of regeneration in
 mind, and these are of course the instructive ones for us also to
@@ -163,7 +163,7 @@ dam they make. "Lass sie betteln gehn wenn sie hungrig sind!" cries the
 grenadier, frantic over his Emperor's capture, when his wife and babes
 are suggested; and men pent into a burning theatre have been known to
 cut their way through the crowd with knives. <span
-id="fr_141"></span>[1](#fn_141)
+id="fr_141"></span>[1](#fn_141.md)
 
 One mode of emotional excitability is exceedingly important in the
 composition of the energetic character, from its peculiarly destructive
@@ -188,7 +188,7 @@ break with social ties. Rather do we take a stern joy in the astringency
 and desolation; and what is called weakness of character seems in most
 cases to consist in the inaptitude for these sacrificial moods, of which
 one's own inferior self and its pet softnesses must often be the targets
-and the victims. <span id="fr_142"></span>[1](#fn_142)
+and the victims. <span id="fr_142"></span>[1](#fn_142.md)
 
 So far I have spoken of temporary alterations produced by shifting
 excitements in the same person. But the relatively fixed differences of
@@ -212,7 +212,7 @@ omnipotent over those around them are as if non-existent. Should the
 rest of us so disregard them, there might be many such heroes, for many
 have the wish to live for similar ideals, and only the adequate degree
 of inhibition-quenching fury is lacking. <span
-id="fr_143"></span>[1](#fn_143)
+id="fr_143"></span>[1](#fn_143.md)
 
 The difference between willing and merely wishing, between having ideals
 that are creative and ideals that are but
@@ -226,7 +226,7 @@ certain amount of love, indignation, generosity, magnanimity,
 admiration, loyalty, or enthusiasm of self-surrender, the result is
 always the same. That whole raft of cowardly obstructions, which in tame
 persons and dull moods are sovereign impediments to action, sinks away
-at once. Our conventionality, <span id="fr_144"></span>[1](#fn_144) our
+at once. Our conventionality, <span id="fr_144"></span>[1](#fn_144.md) our
 shyness, laziness, and stinginess, our demands for precedent and
 permission, for guarantee and surety, our small suspicions, timidities,
 despairs, where are they now? Severed like cobwebs, broken like bubbles
@@ -295,7 +295,7 @@ Jerry
 
 <span class="contnote">\[paragraph continues\]</span> McAuley Water
 Street Mission abounds in similar instances. <span
-id="fr_145"></span>[1](#fn_145) You also remember the graduate of
+id="fr_145"></span>[1](#fn_145.md) You also remember the graduate of
 Oxford, converted at three in the afternoon, and getting drunk in the
 hay-field the next day, but after that permanently cured of his
 appetite. "From that hour drink has had no terrors for me: I never touch
@@ -337,13 +337,13 @@ frequently say, that he was much addicted to impurity before his
 acquaintance with religion; but that, so soon as he was enlightened from
 above, he felt the power of the Holy Ghost changing his nature so
 wonderfully that his sanctification in this respect seemed more
-remarkable than in any other." <span id="fr_146"></span>[1](#fn_146)
+remarkable than in any other." <span id="fr_146"></span>[1](#fn_146.md)
 
 Such rapid abolition of ancient impulses and propensities reminds us so
 strongly of what has been observed as the result of hypnotic suggestion
 that it is difficult not to believe that subliminal influences play the
 decisive part in these abrupt changes of heart, just as they do in
-hypnotism. <span id="fr_147"></span>[2](#fn_147) Suggestive therapeutics
+hypnotism. <span id="fr_147"></span>[2](#fn_147.md) Suggestive therapeutics
 abound in records of cure, after a few sittings, of inveterate bad
 habits with which the patient, left to ordinary moral and physical
 influences, had struggled in
@@ -359,16 +359,16 @@ unexplained, and we shall do well now to say good-by to the *process* of
 transformation altogether—leaving it, if you like, a good deal of a
 psychological or theological mystery—and to turn our attention to the
 fruits of the religious condition, no matter in what way they may have
-been produced. <span id="fr_148"></span>[1](#fn_148)
+been produced. <span id="fr_148"></span>[1](#fn_148.md)
 
 <span id="page_266">p. 266</span>
 
 The collective name for the ripe fruits of religion in a character is
-Saintliness. <span id="fr_149"></span>[1](#fn_149) The saintly character
+Saintliness. <span id="fr_149"></span>[1](#fn_149.md) The saintly character
 is the character for which spiritual emotions are the habitual centre of
 the personal energy; and there is a certain composite photograph of
 universal saintliness, the same in all religions, of which the features
-can easily be traced. <span id="fr_150"></span>[2](#fn_150)
+can easily be traced. <span id="fr_150"></span>[2](#fn_150.md)
 
 They are these:—
 
@@ -383,7 +383,7 @@ personified as God; but abstract moral ideals, civic or patriotic
 utopias, or inner versions of holiness or right may also be felt as the
 true lords and enlargers of our life, in ways which I described in the
 lecture on the Reality of the Unseen. <span
-id="fr_151"></span>[1](#fn_151)
+id="fr_151"></span>[1](#fn_151.md)
 
 2\. A sense of the friendly continuity of the ideal power with our own
 life, and a willing self-surrender to its control.
@@ -458,7 +458,7 @@ Since the sense of Presence of a higher and friendly power seems to be
 the fundamental feature in the spiritual life, I will begin with that.
 
 In our narratives of conversion we saw how the world might look shining
-and transfigured to the convert, <span id="fr_152"></span>[1](#fn_152)
+and transfigured to the convert, <span id="fr_152"></span>[1](#fn_152.md)
 and, apart from anything acutely religious, we all have moments when the
 universal life seems to wrap us round with friendliness. In youth and
 health, in summer, in the woods or on the mountains, there come days
@@ -483,7 +483,7 @@ insignificant, and I have never thought of them since. Every little
 pine-needle expanded and swelled with sympathy and befriended me. I was
 so distinctly made aware of the presence of something kindred to me,
 that I thought no place could ever be strange to me again."</span> <span
-id="fr_153"></span>[1](#fn_153)
+id="fr_153"></span>[1](#fn_153.md)
 
 In the Christian consciousness this sense of the enveloping friendliness
 becomes most personal and definite. "The compensation," writes a German
@@ -492,7 +492,7 @@ so unwillingly gives up, is the disappearance of all *fear* from one's
 life, the quite indescribable and inexplicable feeling of an inner
 *security*, which one can only experience, but which, once it has been
 experienced, one can never forget." <span
-id="fr_154"></span>[2](#fn_154)
+id="fr_154"></span>[2](#fn_154.md)
 
 I find an excellent description of this state of mind in a sermon by Mr.
 Voysey:—
@@ -519,7 +519,7 @@ and catastrophe. Quite as sensitive to pain as the most highly strung
 organism, I yet feel that the worst of it is conquered, and the sting
 taken out of it altogether, by the thought that God is our loving and
 sleepless keeper, and that nothing can hurt us without his will." <span
-id="fr_155"></span>[1](#fn_155)</span>
+id="fr_155"></span>[1](#fn_155.md)</span>
 
 More excited expressions of this condition are abundant in religious
 literature. I could easily weary you with their monotony. Here is an
@@ -551,7 +551,7 @@ asleep or awake, but if there was any difference,</span>
 <span id="page_272">p. 272</span>
 
 <span class="small">the sweetness was greatest while I was asleep. <span
-id="fr_156"></span>[1](#fn_156) As I awoke early the next morning, it
+id="fr_156"></span>[1](#fn_156.md) As I awoke early the next morning, it
 seemed to me that I had entirely done with myself. I felt that the
 opinions of the world concerning me were nothing, and that I had no more
 to do with any outward interest of my own than with that of a person
@@ -584,7 +584,7 @@ everything that was terrible to my nature, seemed to shrink to nothing
 before it. This resignation continued in its clearness and brightness
 the rest of the night, and all the next day, and the night following,
 and on Monday in the forenoon, without interruption or abatement." <span
-id="fr_157"></span>[1](#fn_157)</span>
+id="fr_157"></span>[1](#fn_157.md)</span>
 
 The annals of Catholic saintship abound in records as ecstatic or more
 ecstatic than this. "Often the assaults of the divine love," it is said
@@ -592,7 +592,7 @@ of the Sister Séraphique de la Martinière, "reduced her almost to the
 point of death. She used tenderly to complain of this to God. 'I cannot
 support it,' she used to say. 'Bear gently with my weakness, or I shall
 expire under the violence of your love.'" <span
-id="fr_158"></span>[2](#fn_158)
+id="fr_158"></span>[2](#fn_158.md)
 
 Let me pass next to the Charity and Brotherly Love which are a usual
 fruit of saintliness, and have always been reckoned essential
@@ -632,7 +632,7 @@ affections are self-forgetful and kindly so long as they endure.
 
 We find this the case even when they are pathological in origin. In his
 instructive work, la Tristesse et la Joie, <span
-id="fr_159"></span>[1](#fn_159) M. Georges Dumas compares together the
+id="fr_159"></span>[1](#fn_159.md) M. Georges Dumas compares together the
 melancholy and the joyous phase of circular insanity, and shows that,
 while selfishness characterizes the one, the other is marked by
 altruistic impulses. No human being so stingy and useless as was Marie
@@ -646,12 +646,12 @@ them. Never since she has been under my observation have I heard her in
 <span id="page_275">p. 275</span>
 
 her joyous period utter any but charitable opinions." <span
-id="fr_160"></span>[1](#fn_160) And later, Dr. Dumas says of all such
+id="fr_160"></span>[1](#fn_160.md) And later, Dr. Dumas says of all such
 joyous conditions that "unselfish sentiments and tender emotions are the
 only affective states to be found in them. The subject's mind is closed
 against envy, hatred, and vindictiveness, and wholly transformed into
 benevolence, indulgence, and mercy." <span
-id="fr_161"></span>[2](#fn_161)
+id="fr_161"></span>[2](#fn_161.md)
 
 There is thus an organic affinity between joyousness and tenderness, and
 their companionship in the saintly life need in no way occasion
@@ -661,7 +661,7 @@ more tender feeling for my family and friends";—"I spoke at once to a
 person with whom I had been angry";—"I felt for every one, and loved my
 friends better";—"I felt every one to be my friend";—these are so many
 expressions from the records collected by Professor Starbuck. <span
-id="fr_162"></span>[3](#fn_162)
+id="fr_162"></span>[3](#fn_162.md)
 
 <span class="small">"When," says Mrs. Edwards, continuing the narrative
 from which I made quotation a moment ago, "I arose on the morning of the
@@ -681,7 +681,7 @@ all mankind."</span>
 <span id="page_276">p. 276</span>
 
 Whatever be the explanation of the charity, it may efface all usual
-human barriers. <span id="fr_163"></span>[1](#fn_163)
+human barriers. <span id="fr_163"></span>[1](#fn_163.md)
 
 Here, for instance, is an example of Christian non-resistance from
 Richard Weaver's autobiography. Weaver was a collier, a
@@ -755,7 +755,7 @@ and said: 'Richard, will you forgive me for striking you?'
 
 <span class="contnote">\[paragraph continues\]</span> <span
 class="small">The Lord bless thee.' I gave him my hand, and we went each
-to his work." <span id="fr_164"></span>[1](#fn_164)</span>
+to his work." <span id="fr_164"></span>[1](#fn_164.md)</span>
 
 "Love your enemies!" Mark you, not simply those who happen not to be
 your friends, but your *enemies*, your positive and active enemies.
@@ -772,7 +772,7 @@ seem superhuman beings. Their life would be morally discrete from the
 life of other men, and there is no saying, in the absence of positive
 experience of an authentic kind—for there are few active examples in our
 scriptures, and the Buddhistic examples are legendary, <span
-id="fr_165"></span>[2](#fn_165)—what the effects might be: they might
+id="fr_165"></span>[2](#fn_165.md)—what the effects might be: they might
 conceivably transform the world.
 
 Psychologically and in principle, the precept "Love your enemies" is not
@@ -848,7 +848,7 @@ strength and my sole foundation. May it preserve for me, even in these
 last trials to which I am coming, the courage to do without the desire
 of deliverance. I ask nothing more from the Source whence all strength
 cometh, and if that is granted, your wishes will have been
-accomplished." <span id="fr_166"></span>[1](#fn_166)</span>
+accomplished." <span id="fr_166"></span>[1](#fn_166.md)</span>
 
 There is something pathetic and fatalistic about this, but the power of
 such a tone as a protection against outward shocks is manifest. Pascal
@@ -875,7 +875,7 @@ anything. I know not which is most profitable to me, health or sickness,
 wealth or poverty, nor anything else in the world. That discernment is
 beyond the power of men or angels, and is hidden among the secrets of
 your Providence, which I adore, but do not seek to fathom." <span
-id="fr_167"></span>[1](#fn_167)</span>
+id="fr_167"></span>[1](#fn_167.md)</span>
 
 When we reach more optimistic temperaments, the resignation grows less
 passive. Examples are sown so broadcast throughout history that I might
@@ -909,7 +909,7 @@ command of Him who does all things rightly, might probably furnish me
 with a watery grave. Perhaps I carried the point too far, in the
 pleasure which I took in thus seeing myself beaten and bandied by the
 swelling waters. Those who were with me took notice of my
-intrepidity." <span id="fr_168"></span>[1](#fn_168)</span>
+intrepidity." <span id="fr_168"></span>[1](#fn_168.md)</span>
 
 The contempt of danger which religious enthusiasm produces may be even
 more buoyant still. I take an example from that charming recent
@@ -935,7 +935,7 @@ five seconds, but in that time I lived a whole age of delight. But my
 body asserted itself, and with a desperate gymnastic effort I regained
 the boom. How I furled the sail I don't know, but I sang at the utmost
 pitch of my voice praises to God that went pealing out over the dark
-waste of waters." <span id="fr_169"></span>[1](#fn_169)</span>
+waste of waters." <span id="fr_169"></span>[1](#fn_169.md)</span>
 
 The annals of martyrdom are of course the signal field of triumph for
 religious imperturbability. Let me cite as an example the statement of a
@@ -961,7 +961,7 @@ ravished, for there where afflictions abound grace is given
 superabundantly. In vain the women cried, 'We must double our blows; she
 does not feel them, for she neither speaks nor cries.' And how should I
 have cried, since I was swooning with happiness within?" <span
-id="fr_170"></span>[2](#fn_170)</span>
+id="fr_170"></span>[2](#fn_170.md)</span>
 
 <span id="page_284">p. 284</span>
 
@@ -976,7 +976,7 @@ from moral practice. It antedates theologies and is independent of
 philosophies. Mind-cure, theosophy, stoicism, ordinary neurological
 hygiene, insist on it as emphatically as Christianity does, and it is
 capable of entering into closest marriage with every speculative
-creed. <span id="fr_171"></span>[1](#fn_171) Christians who have it
+creed. <span id="fr_171"></span>[1](#fn_171.md) Christians who have it
 strongly live in what is called "recollection," and are never anxious
 about the future, nor worry over the outcome of the day. Of Saint
 Catharine of Genoa it is said that "she took cognizance of things, only
@@ -986,7 +986,7 @@ present moment was estimated in itself and in its relations, and when
 the duty that was involved in it was accomplished, it was permitted to
 pass away as if it had never been, and to give way to the facts and
 duties of the moment which came after." <span
-id="fr_172"></span>[2](#fn_172) Hinduism, mind-cure, and theosophy all
+id="fr_172"></span>[2](#fn_172.md) Hinduism, mind-cure, and theosophy all
 lay great emphasis upon this concentration of the consciousness upon the
 moment at hand.
 
@@ -1161,7 +1161,7 @@ as others, and this I was now called out of and required to cease from.
 darkness and general apostasy from the truth and true religion were now,
 by the inshining of this pure ray of divine light in my conscience,
 gradually discovered to me to be what I ought to cease from, shun, and
-stand a witness against." <span id="fr_173"></span>[1](#fn_173)
+stand a witness against." <span id="fr_173"></span>[1](#fn_173.md)
 
 These early Quakers were Puritans indeed. The slightest inconsistency
 between profession and deed jarred some of them to active protest. John
@@ -1399,7 +1399,7 @@ apartment and accept a few comforts. The dress too that he habitually
 adopted was of most inferior quality; and garments were constantly worn
 which the world would call mean, though an almost feminine neatness
 preserved him from the least appearance of neglect." <span
-id="fr_174"></span>[1](#fn_174)</span>
+id="fr_174"></span>[1](#fn_174.md)</span>
 
 Channing's asceticism, such as it was, was evidently a compound of
 hardihood and love of purity. The democracy which is an offshoot of the
@@ -1424,7 +1424,7 @@ bread too great an indulgence for so great a sinner as himself, he began
 to feed on potatoes, acorns, crabs, and grass; and often wished that he
 could live on roots and herbs. At length, in 1737, he found peace with
 God, and went on his way rejoicing." <span
-id="fr_175"></span>[1](#fn_175)</span>
+id="fr_175"></span>[1](#fn_175.md)</span>
 
 In this poor man we have morbid melancholy and fear, and the sacrifices
 made are to purge out sin, and to buy safety. The hopelessness of
@@ -1461,7 +1461,7 @@ very severe winter, one of his missionaries contrived a false floor to
 his confessional and placed a metal case of hot water beneath. The trick
 succeeded, and the Saint was deceived: 'God is very good,' he said with
 emotion. 'This year, through all the cold, my feet have always been
-warm.' " <span id="fr_176"></span>[1](#fn_176)</span>
+warm.' " <span id="fr_176"></span>[1](#fn_176.md)</span>
 
 In this case the spontaneous impulse to make sacrifices for the pure
 love of God was probably the uppermost conscious motive. We may class
@@ -1488,7 +1488,7 @@ most lovely hand, resolving that I would never touch it more. This was
 the hardest, and perhaps the bravest action that ever I did. She . . .
 told me that she signed and sealed my act of resignation. And though
 before that she called for me continually, she after this never asked
-for me any more." <span id="fr_177"></span>[1](#fn_177)</span>
+for me any more." <span id="fr_177"></span>[1](#fn_177.md)</span>
 
 Father Vianney's asceticism taken in its totality was simply the result
 of a permanent flood of high spiritual enthusiasm, longing to make proof
@@ -1496,7 +1496,7 @@ of itself. The Roman Church has, in its incomparable fashion, collected
 all the motives towards asceticism together, and so codified them that
 any one wishing to pursue Christian perfection may find a practical
 system mapped out for him in any one of a number of ready-made
-manuals. <span id="fr_178"></span>[2](#fn_178) The dominant Church
+manuals. <span id="fr_178"></span>[2](#fn_178.md) The dominant Church
 notion of perfection is of course the negative one of avoidance of sin.
 Sin proceeds from concupiscence, and concupiscence from our carnal
 passions and temptations, chief of which are pride, sensuality in all
@@ -1606,7 +1606,7 @@ Nothing.
 Profoundly established in the centre of its own nothingness, it can be
 assailed by naught that comes from below; and since it no longer desires
 anything, what comes from above cannot depress it; for its desires alone
-are the causes of its woes." <span id="fr_179"></span>[1](#fn_179)
+are the causes of its woes." <span id="fr_179"></span>[1](#fn_179.md)
 
 <span id="page_301">p. 301</span>
 
@@ -1639,7 +1639,7 @@ agony, as a worm does when run through with a pointed needle. It often
 seemed to him as if he were lying upon an ant-hill, from the torture
 caused by the insects; for if he wished to sleep, or when he had fallen
 asleep, they vied with one another. <span
-id="fr_180"></span>[1](#fn_180) Sometimes he</span>
+id="fr_180"></span>[1](#fn_180.md) Sometimes he</span>
 
 <span id="page_302">p. 302</span>
 
@@ -1725,7 +1725,7 @@ time such rigid poverty that he would neither receive nor touch a penny,
 either with leave or without it. For a considerable time he strove to
 attain such a high degree of purity that he would neither scratch nor
 touch any part of his body, save only his hands and feet." <span
-id="fr_181"></span>[1](#fn_181)</span>
+id="fr_181"></span>[1](#fn_181.md)</span>
 
 I spare you the recital of poor Suso's self-inflicted tortures from
 thirst. It is pleasant to know that after his fortieth year, God showed
@@ -1744,7 +1744,7 @@ live a single day without suffering would be intolerable. She said again
 that she was devoured with two unassuageable fevers, one for the holy
 communion, the other for suffering, humiliation, and annihilation.
 'Nothing but pain,' she continually said in her letters, 'makes my life
-supportable.'" <span id="fr_182"></span>[2](#fn_182)</span>
+supportable.'" <span id="fr_182"></span>[2](#fn_182.md)</span>
 
 So much for the phenomena to which the ascetic impulse will in certain
 persons give rise. In the ecclesiastically consecrated character three
@@ -1797,7 +1797,7 @@ immolates his body; by obedience he completes the sacrifice, and gives
 to God all that he yet holds as his own, his two most precious goods,
 his intellect and his will. The sacrifice is then complete and
 unreserved, a genuine holocaust, for the entire victim is now consumed
-for the honor of God." <span id="fr_183"></span>[1](#fn_183)
+for the honor of God." <span id="fr_183"></span>[1](#fn_183.md)
 Accordingly, in Catholic discipline, we obey our superior not as mere
 man, but as the representative of Christ. Obeying God in him by our
 intention, obedience is easy. But when the text-book theologians marshal
@@ -1841,11 +1841,11 @@ obedience, than by his own responsible choice busy himself with the
 loftiest works of charity, because one is certain of following the will
 of God in whatever one may do from obedience, but never certain in the
 same degree of anything which we may do of our own proper
-movement." <span id="fr_184"></span>[1](#fn_184)</span>
+movement." <span id="fr_184"></span>[1](#fn_184.md)</span>
 
 One should read the letters in which Ignatius Loyola recommends
 obedience as the backbone of his order, if one would gain insight into
-the full spirit of its cult. <span id="fr_185"></span>[2](#fn_185) They
+the full spirit of its cult. <span id="fr_185"></span>[2](#fn_185.md) They
 are too long to quote; but Ignatius's belief is so vividly expressed in
 a couple of sayings reported by companions that, though they have been
 so often cited, I will ask your permission to copy them once more:—
@@ -1876,7 +1876,7 @@ it in the way it judges most useful.
 be employed in a particular duty. . . . I must consider nothing as
 belonging to me personally, and as regards the things I use, be like a
 statue which lets itself be stripped and never opposes
-resistance." <span id="fr_186"></span>[1](#fn_186)
+resistance." <span id="fr_186"></span>[1](#fn_186.md)
 
 The other saying is reported by Rodriguez in the chapter from which I a
 moment ago made quotations. When speaking of the Pope's authority,
@@ -1889,7 +1889,7 @@ himself to the sea, without a mast, without sails, without oars or
 rudder or any of the things that are needful for navigation or
 subsistence, he would obey not only with alacrity, but without anxiety
 or repugnance, and even with a great internal satisfaction." <span
-id="fr_187"></span>[2](#fn_187)</span>
+id="fr_187"></span>[2](#fn_187.md)</span>
 
 With a solitary concrete example of the extravagance to which the virtue
 we are considering has been carried, I will pass to the topic next in
@@ -1906,7 +1906,7 @@ her</span>
 would perhaps be better not to speak to her again. Marie Claire, greedy
 of obedience, took this inconsiderate word for an oracle of God, and
 from that day forward remained for several years without once speaking
-to her sister." <span id="fr_188"></span>[1](#fn_188)</span>
+to her sister." <span id="fr_188"></span>[1](#fn_188.md)</span>
 
 Our next topic shall be Poverty, felt at all times and under all creeds
 as one adornment of a saintly life. Since the instinct of ownership is
@@ -1996,7 +1996,7 @@ men, and if we were to receive people of the world into our rooms, we
 should not have the strength to remain within the bounds prescribed, but
 should at least wish to adorn them with some books to give the visitors
 a better opinion of our scholarship." <span
-id="fr_189"></span>[1](#fn_189)</span>
+id="fr_189"></span>[1](#fn_189.md)</span>
 
 Since Hindu fakirs, Buddhist monks, and Mohammedan dervishes unite with
 Jesuits and Franciscans in idealizing poverty as the loftiest individual
@@ -2040,7 +2040,7 @@ to carry this voice with it—'Go thou and preach the Gospel; be a pilgrim
 on earth; have no party or certain dwelling place.' My heart echoes
 back, 'Lord Jesus, help me to do or suffer thy will. When thou seest me
 in danger of *nestling*—in pity—in tender pity—put a *thorn* in my nest
-to prevent me from it.'" <span id="fr_190"></span>[1](#fn_190)</span>
+to prevent me from it.'" <span id="fr_190"></span>[1](#fn_190.md)</span>
 
 The loathing of "capital" with which our laboring classes today are
 growing more and more infected seems largely composed of this sound
@@ -2063,7 +2063,7 @@ but rather by discarding them . . .
 furniture he can carry on his back, but rather what he can leave behind;
 
 "Knowing well that every additional thing which he cannot freely use and
-handle is an impediment." <span id="fr_191"></span>[1](#fn_191)
+handle is an impediment." <span id="fr_191"></span>[1](#fn_191.md)
 
 In short, lives based on having are less free than lives based either on
 doing or on being, and in the interest of action people subject to
@@ -2088,7 +2088,7 @@ action, and a monk is a good preacher only so far as
 <span id="page_314">p. 314</span>
 
 his deeds proclaim him such, for every tree is known by its
-fruits." <span id="fr_192"></span>[1](#fn_192)
+fruits." <span id="fr_192"></span>[1](#fn_192.md)
 
 But beyond this more worthily athletic attitude involved in doing and
 being, there is, in the desire of not having, something profounder
@@ -2192,7 +2192,7 @@ for anything upon earth, resting entirely upon God, with this only fear
 lest she should be discovered and be obliged to return home; for she
 felt already more content in this poverty than she had done for all her
 life in all the delights of the world." <span
-id="fr_193"></span>[1](#fn_193)
+id="fr_193"></span>[1](#fn_193.md)
 
 <span id="page_317">p. 317</span>
 
@@ -2238,7 +2238,7 @@ done gradually, incidentally, imperceptibly. Thus the whole question of
 the abandonment of luxury is no question at all, but a mere incident to
 another question, namely, the degree to which we abandon ourselves to
 the remorseless logic of our love for others." <span
-id="fr_194"></span>[1](#fn_194)</span>
+id="fr_194"></span>[1](#fn_194.md)</span>
 
 But in all these matters of sentiment one must have "been there" one's
 self in order to understand them. No American can ever attain to
@@ -2273,11 +2273,11 @@ needs.
 
 ### Footnotes
 
-<span id="fn_140"></span>[255:1](vre11.htm#fr_140) <span
+<span id="fn_140"></span>[255:1](vre11.htm#fr_140.md) <span
 class="smallcaps">Sainte-Beuve</span>: Port-Royal, vol. i. pp. 95 and
 106, abridged.
 
-<span id="fn_141"></span>[258:1](vre11.htm#fr_141) "'Love would not be
+<span id="fn_141"></span>[258:1](vre11.htm#fr_141.md) "'Love would not be
 love,' says Bourget, 'unless it could carry one to crime.' And so one
 may say that no passion would be a veritable passion unless it could
 carry one to crime." (<span class="smallcaps">Sighele</span>:
@@ -2297,7 +2297,7 @@ hell-fire Christianity well knew how to extract from fear its full
 equivalent in the way of fruits for repentance, and its full conversion
 value.
 
-<span id="fn_142"></span>[259:1](vre11.htm#fr_142) Example: Benjamin
+<span id="fn_142"></span>[259:1](vre11.htm#fr_142.md) Example: Benjamin
 Constant was often marveled at as an extraordinary instance of superior
 intelligence with inferior character. He writes (Journal, Paris, 1895,
 p. 56), "I am tossed and dragged about by my miserable weakness. Never
@@ -2307,7 +2307,7 @@ bottom I am *unable to give up anything*." He can't "get mad" at any of
 his alternatives; and the career of a man beset by such an all-round
 amiability is hopeless.
 
-<span id="fn_143"></span>[260:1](vre11.htm#fr_143) The great thing which
+<span id="fn_143"></span>[260:1](vre11.htm#fr_143.md) The great thing which
 the higher excitabilities give is *courage;* and the addition or
 subtraction of a certain amount of this quality makes a different man, a
 different life. Various excitements let the courage loose. Trustful hope
@@ -2334,20 +2334,20 @@ Revue, 1886, abridged.) Skobeleff seems to have been a cruel egoist; but
 the disinterested Garibaldi, if one may judge by his "Memorie," lived in
 an unflagging emotion of similar danger-seeking excitement.
 
-<span id="fn_144"></span>[261:1](vre11.htm#fr_144) See the case on [p.
-69](vre05.htm#page_69), above, where the writer describes his
+<span id="fn_144"></span>[261:1](vre11.htm#fr_144.md) See the case on [p.
+69](vre05.htm#page_69.md), above, where the writer describes his
 experiences of communion with the Divine as consisting "merely in the
 *temporary obliteration of the conventionalities* which usually cover my
 life."
 
-<span id="fn_145"></span>[263:1](vre11.htm#fr_145) Above, [p.
-200](vre09.htm#page_200). "The only radical remedy I know for dipsomania
+<span id="fn_145"></span>[263:1](vre11.htm#fr_145.md) Above, [p.
+200](vre09.htm#page_200.md). "The only radical remedy I know for dipsomania
 is religiomania," is a saying I have heard quoted from some medical man.
 
-<span id="fn_146"></span>[264:1](vre11.htm#fr_146) Doddridge's Life of
+<span id="fn_146"></span>[264:1](vre11.htm#fr_146.md) Doddridge's Life of
 Colonel James Gardiner, London Religious Tract Society, pp. 23-32.
 
-<span id="fn_147"></span>[264:2](vre11.htm#fr_147) Here, for example, is
+<span id="fn_147"></span>[264:2](vre11.htm#fr_147.md) Here, for example, is
 a case, from Starbuck's book, in which a "sensory automatism" brought
 about quickly what prayers and resolves had been unable to effect. The
 subject is a woman. She writes:—
@@ -2365,7 +2365,7 @@ never known it or touched tobacco. The sight of others smoking and the
 smell of smoke never gave me the least wish to touch it again." The
 Psychology of Religion, p. 142.
 
-<span id="fn_148"></span>[265:1](vre11.htm#fr_148) Professor Starbuck
+<span id="fn_148"></span>[265:1](vre11.htm#fr_148.md) Professor Starbuck
 expresses the radical destruction of old influences physiologically, as
 a cutting off of the connection between higher and lower cerebral
 centres. "This condition," he says, "in which the association-centres
@@ -2408,12 +2408,12 @@ certain intensity is attained by the new emotion, a critical point is
 passed, and there then ensues an irreversible revolution, equivalent to
 the production of a new nature.
 
-<span id="fn_149"></span>[266:1](vre11.htm#fr_149) I use this word in
+<span id="fn_149"></span>[266:1](vre11.htm#fr_149.md) I use this word in
 spite of a certain flavor of "sanctimoniousness" which sometimes clings
 to it, because no other word suggests as well the exact combination of
 affections which the text goes on to describe.
 
-<span id="fn_150"></span>[266:2](vre11.htm#fr_150) "It will be found,"
+<span id="fn_150"></span>[266:2](vre11.htm#fr_150.md) "It will be found,"
 says Dr. <span class="smallcaps">W. R. Inge</span> (in his lectures on
 Christian Mysticism, London, 1899, p. 326), "that men of preeminent
 saintliness agree very closely in what they tell us. They tell us that
@@ -2429,7 +2429,7 @@ all its forms; that these are the ways of darkness and death, which hide
 from us the face of God; while the path of the just is like a shining
 light, which shineth more and more unto the perfect day."
 
-<span id="fn_151"></span>[267:1](vre11.htm#fr_151) The "enthusiasm of
+<span id="fn_151"></span>[267:1](vre11.htm#fr_151.md) The "enthusiasm of
 humanity" may lead to a life which coalesces in many respects with that
 of Christian saintliness. Take the following rules proposed to members
 of the Union pour l’Action morale, in the Bulletin de l’Union, April
@@ -2458,20 +2458,20 @@ duties towards others or towards the public.
 our vices, gazed upon, envied, and imitated; and if they come back with
 all their weight upon us, it is but just.
 
-<span id="fn_152"></span>[269:1](vre11.htm#fr_152) Above, pp.
-[243](vre10.htm#page_243) ff.
+<span id="fn_152"></span>[269:1](vre11.htm#fr_152.md) Above, pp.
+[243](vre10.htm#page_243.md) ff.
 
-<span id="fn_153"></span>[270:1](vre11.htm#fr_153) <span
+<span id="fn_153"></span>[270:1](vre11.htm#fr_153.md) <span
 class="smallcaps">H. Thoreau</span>: Walden, Riverside edition, p. 206,
 abridged.
 
-<span id="fn_154"></span>[270:2](vre11.htm#fr_154) <span
+<span id="fn_154"></span>[270:2](vre11.htm#fr_154.md) <span
 class="smallcaps">C. H. Hilty</span>: Glück, vol. i. p. 85.
 
-<span id="fn_155"></span>[271:1](vre11.htm#fr_155) The Mystery of Pain
+<span id="fn_155"></span>[271:1](vre11.htm#fr_155.md) The Mystery of Pain
 and Death, London, 1892, p. 258.
 
-<span id="fn_156"></span>[272:1](vre11.htm#fr_156) Compare Madame Guyon:
+<span id="fn_156"></span>[272:1](vre11.htm#fr_156.md) Compare Madame Guyon:
 "It was my practice to arise at midnight for purposes of devotion. . . .
 It seemed to me that God came at the precise time and woke me from sleep
 in order that I might enjoy him. When I was out of health or greatly
@@ -2484,24 +2484,24 @@ hardly capable of knowing anything else." <span class="smallcaps">T. C.
 Upham</span>: The Life and Religious Experiences of Madame de la Mothe
 Guyon, New York, 1877, vol. i. p. 260.
 
-<span id="fn_157"></span>[273:1](vre11.htm#fr_157) I have considerably
+<span id="fn_157"></span>[273:1](vre11.htm#fr_157.md) I have considerably
 abridged the words of the original, which is given in <span
 class="smallcaps">Edwards's</span> Narrative of the Revival in New
 England.
 
-<span id="fn_158"></span>[273:2](vre11.htm#fr_158) <span
+<span id="fn_158"></span>[273:2](vre11.htm#fr_158.md) <span
 class="smallcaps">Bougaud</span>: Hist. de la Bienheureuse Marguerite
 Marie, 1894, p. 125.
 
-<span id="fn_159"></span>[274:1](vre11.htm#fr_159) Paris, 1900.
+<span id="fn_159"></span>[274:1](vre11.htm#fr_159.md) Paris, 1900.
 
-<span id="fn_160"></span>[275:1](vre11.htm#fr_160) Page 130.
+<span id="fn_160"></span>[275:1](vre11.htm#fr_160.md) Page 130.
 
-<span id="fn_161"></span>[275:2](vre11.htm#fr_161) Page 167.
+<span id="fn_161"></span>[275:2](vre11.htm#fr_161.md) Page 167.
 
-<span id="fn_162"></span>[275:3](vre11.htm#fr_162) Op. cit., p. 127.
+<span id="fn_162"></span>[275:3](vre11.htm#fr_162.md) Op. cit., p. 127.
 
-<span id="fn_163"></span>[276:1](vre11.htm#fr_163) The barrier between
+<span id="fn_163"></span>[276:1](vre11.htm#fr_163.md) The barrier between
 men and animals also. We read of Towianski, an eminent Polish patriot
 and mystic, that "one day one of his friends met him in the rain,
 caressing a big dog which was jumping upon him and covering him horribly
@@ -2522,35 +2522,35 @@ Turin, 1897 (privately printed). I owe my knowledge of this book and of
 Towianski to my friend Professor W. Lutoslawski, author of "Plato's
 Logic."
 
-<span id="fn_164"></span>[278:1](vre11.htm#fr_164) <span
+<span id="fn_164"></span>[278:1](vre11.htm#fr_164.md) <span
 class="smallcaps">J. Patterson's</span> Life of Richard Weaver, pp.
 66-68, abridged.
 
-<span id="fn_165"></span>[278:2](vre11.htm#fr_165) As where the future
+<span id="fn_165"></span>[278:2](vre11.htm#fr_165.md) As where the future
 Buddha, incarnated as a hare, jumps into the fire to cook himself for a
 meal for a beggar—having previously shaken himself three times, so that
 none of the insects in his fur should perish with him.
 
-<span id="fn_166"></span>[280:1](vre11.htm#fr_166) Bulletin de l’Union
+<span id="fn_166"></span>[280:1](vre11.htm#fr_166.md) Bulletin de l’Union
 pour l’Action Morale, September, 1894.
 
-<span id="fn_167"></span>[281:1](vre11.htm#fr_167) <span
+<span id="fn_167"></span>[281:1](vre11.htm#fr_167.md) <span
 class="smallcaps">B. Pascal</span>: Prières pour les Maladies, §§ xiii.,
 xiv., abridged.
 
-<span id="fn_168"></span>[282:1](vre11.htm#fr_168) From <span
+<span id="fn_168"></span>[282:1](vre11.htm#fr_168.md) From <span
 class="smallcaps">Thomas C. Upham's</span> Life and Religious Opinions
 and Experiences of Madame de la Mothe Guyon, New York, 1877, ii. 48, i.
 141, 413, abridged.
 
-<span id="fn_169"></span>[283:1](vre11.htm#fr_169) Op. cit., London,
+<span id="fn_169"></span>[283:1](vre11.htm#fr_169.md) Op. cit., London,
 1901, p. 230.
 
-<span id="fn_170"></span>[283:2](vre11.htm#fr_170) <span
+<span id="fn_170"></span>[283:2](vre11.htm#fr_170.md) <span
 class="smallcaps">Claparède</span> et Goty: Deux Héroines de la Foi,
 Paris, 1880, p. 112.
 
-<span id="fn_171"></span>[284:1](vre11.htm#fr_171) Compare these three
+<span id="fn_171"></span>[284:1](vre11.htm#fr_171.md) Compare these three
 different statements of it: <span class="smallcaps">A. P. Call</span>:
 As a Matter of Course, Boston, 1894; <span class="smallcaps">H. W.
 Dresser</span>: Living by the Spirit, New York and London, 1900; <span
@@ -2558,40 +2558,40 @@ class="smallcaps">H. W. Smith</span>: The Christian's Secret of a Happy
 Life, published by the Willard Tract Repository, and now in thousands of
 hands.
 
-<span id="fn_172"></span>[284:2](vre11.htm#fr_172) <span
+<span id="fn_172"></span>[284:2](vre11.htm#fr_172.md) <span
 class="smallcaps">T. C. Upham</span>: Life of Madame Catharine Adorna,
 3d ed., New York, 1864, pp. 158, 172-74.
 
-<span id="fn_173"></span>[289:1](vre11.htm#fr_173) The History of <span
+<span id="fn_173"></span>[289:1](vre11.htm#fr_173.md) The History of <span
 class="smallcaps">Thomas Elwood</span>, written by Himself, London,
 1885, pp. 32-34.
 
-<span id="fn_174"></span>[295:1](vre11.htm#fr_174) Memoirs of W. E.
+<span id="fn_174"></span>[295:1](vre11.htm#fr_174.md) Memoirs of W. E.
 Channing, Boston, 1840, i. 196.
 
-<span id="fn_175"></span>[296:1](vre11.htm#fr_175) <span
+<span id="fn_175"></span>[296:1](vre11.htm#fr_175.md) <span
 class="smallcaps">L. Tyerman</span>: The Life and Times of the Rev. John
 Wesley, i. 274.
 
-<span id="fn_176"></span>[297:1](vre11.htm#fr_176) <span
+<span id="fn_176"></span>[297:1](vre11.htm#fr_176.md) <span
 class="smallcaps">A. Mounin</span>: Le Curé d’Ars, Vie de M. J. B. M.
 Vianney, 1864, p. 545, abridged.
 
-<span id="fn_177"></span>[298:1](vre11.htm#fr_177) <span
+<span id="fn_177"></span>[298:1](vre11.htm#fr_177.md) <span
 class="smallcaps">B. Wendell</span>: Cotton Mather, New York, no date,
 p. 198.
 
-<span id="fn_178"></span>[298:2](vre11.htm#fr_178) That of the earlier
+<span id="fn_178"></span>[298:2](vre11.htm#fr_178.md) That of the earlier
 Jesuit, Rodriguez, which has been translated into all languages, is one
 of the best known. A convenient modern manual, very well put together,
 is L’Ascetique Chrétienne, by <span class="smallcaps">M. J.
 Ribet</span>, Paris, Poussielgue, nouvelle édition, 1898.
 
-<span id="fn_179"></span>[300:1](vre11.htm#fr_179) <span
+<span id="fn_179"></span>[300:1](vre11.htm#fr_179.md) <span
 class="smallcaps">Saint Jean de la Croix</span>, Vie et Œuvres, Paris,
 1893, ii. 94, 99, abridged.
 
-<span id="fn_180"></span>[301:1](vre11.htm#fr_180) "Insects," i.e. lice,
+<span id="fn_180"></span>[301:1](vre11.htm#fr_180.md) "Insects," i.e. lice,
 were an unfailing token of mediaeval sainthood. We read of Francis of
 Assisi's sheepskin that "often a companion of the saint would take it to
 the fire to clean and *dispediculate* it, doing so, as he said, because
@@ -2601,56 +2601,56 @@ and a glory to wear these celestial pearls in <span id="page_302">p.
 302</span> his habit. Quoted by <span class="smallcaps">P.
 Sabatier</span>: Speculum Perfectionis, etc., Paris, 1898, p. 231, note.
 
-<span id="fn_181"></span>[304:1](vre11.htm#fr_181) The Life of the
+<span id="fn_181"></span>[304:1](vre11.htm#fr_181.md) The Life of the
 Blessed <span class="smallcaps">Henry Suso</span>, by Himself,
 translated by <span class="smallcaps">T. F. Knox</span>, London, 1865,
 pp. 56-80, abridged.
 
-<span id="fn_182"></span>[304:2](vre11.htm#fr_182) <span
+<span id="fn_182"></span>[304:2](vre11.htm#fr_182.md) <span
 class="smallcaps">Bougaud</span>: Hist. de la bienheureuse Marguerite
 Marie, Paris, 1894, pp. 265, 171. Compare, also, pp.
-[386](vre13.htm#page_386), [387](vre13.htm#page_387).
+[386](vre13.htm#page_386), [387](vre13.htm#page_387.md).
 
-<span id="fn_183"></span>[306:1](vre11.htm#fr_183) <span
+<span id="fn_183"></span>[306:1](vre11.htm#fr_183.md) <span
 class="smallcaps">Lejuene</span>: Introduction à la Vie Mystique, 1899,
 p. 277. The holocaust simile goes back at least as far as Ignatius
 Loyola.
 
-<span id="fn_184"></span>[307:1](vre11.htm#fr_184) <span
+<span id="fn_184"></span>[307:1](vre11.htm#fr_184.md) <span
 class="smallcaps">Alfonso Rodriguez</span>, S. J.: Pratique de la
 Perfection Chrétienne, Part iii., Treatise v., ch. x.
 
-<span id="fn_185"></span>[307:2](vre11.htm#fr_185) Letters li. and cxx.
+<span id="fn_185"></span>[307:2](vre11.htm#fr_185.md) Letters li. and cxx.
 of the collection translated into French by <span
 class="smallcaps">Bouix</span>, Paris, 1870.
 
-<span id="fn_186"></span>[308:1](vre11.htm#fr_186) <span
+<span id="fn_186"></span>[308:1](vre11.htm#fr_186.md) <span
 class="smallcaps">Bartoli-Michel</span>, ii. 13.
 
-<span id="fn_187"></span>[308:2](vre11.htm#fr_187) <span
+<span id="fn_187"></span>[308:2](vre11.htm#fr_187.md) <span
 class="smallcaps">Rodriguez</span>: Op. cit., Part iii., Treatise v.,
 ch. vi.
 
-<span id="fn_188"></span>[309:1](vre11.htm#fr_188) <span
+<span id="fn_188"></span>[309:1](vre11.htm#fr_188.md) <span
 class="smallcaps">Sainte-Beuve</span>: Histoire de Port Royal, i. 346.
 
-<span id="fn_189"></span>[311:1](vre11.htm#fr_189) <span
+<span id="fn_189"></span>[311:1](vre11.htm#fr_189.md) <span
 class="smallcaps">Rodriguez</span>: Op. cit., Part iii, Treatise iii.,
 chaps. vi., vii.
 
-<span id="fn_190"></span>[312:1](vre11.htm#fr_190) <span
+<span id="fn_190"></span>[312:1](vre11.htm#fr_190.md) <span
 class="smallcaps">R. Philip</span>: The Life and Times of George
 Whitefield, London, 1842, p. 366.
 
-<span id="fn_191"></span>[313:1](vre11.htm#fr_191) <span
+<span id="fn_191"></span>[313:1](vre11.htm#fr_191.md) <span
 class="smallcaps">Edward Carpenter</span>: Towards Democracy, p. 362,
 abridged.
 
-<span id="fn_192"></span>[314:1](vre11.htm#fr_192) Speculum
+<span id="fn_192"></span>[314:1](vre11.htm#fr_192.md) Speculum
 Perfectionis, ed. <span class="smallcaps">P. Sabatier</span>, Paris,
 1898, pp. 10, 13.
 
-<span id="fn_193"></span>[316:1](vre11.htm#fr_193) An Apology for M.
+<span id="fn_193"></span>[316:1](vre11.htm#fr_193.md) An Apology for M.
 Antonia Bourignon, London, 1699, pp. 269, 270, abridged.
 
 Another example from Starbuck's MS. collection:—
@@ -2675,10 +2675,10 @@ opposed the experience and said it was fanaticism, and one told the
 members of his church to shun those that professed it, and I soon found
 that my foes were those of my own household."
 
-<span id="fn_194"></span>[318:1](vre11.htm#fr_194) <span
+<span id="fn_194"></span>[318:1](vre11.htm#fr_194.md) <span
 class="smallcaps">J. J. Chapman</span>, in the Political Nursery, vol.
 iv. p. 4, April, 1900, abridged.
 
 ------------------------------------------------------------------------
 
-[Next: Lectures XIV and XV. The Value of Saintliness](vre12)
+[Next: Lectures XIV and XV. The Value of Saintliness](vre12.md)

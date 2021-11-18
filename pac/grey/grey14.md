@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey13)  [Next](grey15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey13)  [Next](grey15.md) 
 
 ------------------------------------------------------------------------
 
@@ -319,7 +319,7 @@ dog-skin formed his cloak; and
 
 <span id="page_145">p. 145</span>
 
-the weapon in his hand was a *mere* <span id="fr_18"></span>[1](#fn_18)
+the weapon in his hand was a *mere* <span id="fr_18"></span>[1](#fn_18.md)
 made of white whalebone: thus he ended his speeches to his party. When
 the people of the place they had come to attack saw how numerous were
 the chiefs in the column of Hatupatu, and what clothes and weapons they
@@ -428,9 +428,9 @@ third was Taporahitaua.
 
 ### Footnotes
 
-<span id="fn_18"></span>[145:1](grey14.htm#fr_18) A sharp instrument of
+<span id="fn_18"></span>[145:1](grey14.htm#fr_18.md) A sharp instrument of
 war made of stone.
 
 ------------------------------------------------------------------------
 
-[Next: Legend of the Emigration of Turi](grey15)
+[Next: Legend of the Emigration of Turi](grey15.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo15)  [Next](sdo17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo15)  [Next](sdo17.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ those they mourn.
 
 ------------------------------------------------------------------------
 
-[Next: The Second Four Day Period](sdo17)
+[Next: The Second Four Day Period](sdo17.md)

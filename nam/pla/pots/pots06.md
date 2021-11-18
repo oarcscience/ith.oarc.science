@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pots05)  [Next](pots07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pots05)  [Next](pots07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -303,4 +303,4 @@ visiting enough."
 
 ------------------------------------------------------------------------
 
-[Next: Bluejay Visits the Ghosts](pots07)
+[Next: Bluejay Visits the Ghosts](pots07.md)

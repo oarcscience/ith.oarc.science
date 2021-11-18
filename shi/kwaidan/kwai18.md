@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai17)  [Next](kwai19) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai17)  [Next](kwai19.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ again to appear save in pictures and poems and dreams...
 
 ------------------------------------------------------------------------
 
-[Next: Insect Studies](kwai19)
+[Next: Insect Studies](kwai19.md)

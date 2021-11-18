@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc07)  [Next](scc09) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc07)  [Next](scc09.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ Meneya doñ kac op ka yapunnin, you ( ?) me pull-out my thorn!
 
 ------------------------------------------------------------------------
 
-[Next: 7.--Pohonichi Miwok. The Beginning Of The World.](scc09)
+[Next: 7.--Pohonichi Miwok. The Beginning Of The World.](scc09.md)

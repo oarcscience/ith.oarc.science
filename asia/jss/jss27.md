@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss26)  [Next](jss28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss26)  [Next](jss28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -552,22 +552,22 @@ entered. Three splendid young men had entered before her.
 <span id="img_28200"></span> <span align="CENTER"> [![BURIATS—HUSBAND
 AND WIFE IN THE HAYFIELD, OLKHON ISLAND.&lt;br&gt; Their implements for
 turning and raking grass](tn/28200.jpg)  
-Click to enlarge](img/28200.jpg)  
+Click to enlarge](img/28200.jpg.md)  
 BURIATS—HUSBAND AND WIFE IN THE HAYFIELD, OLKHON ISLAND.  
 Their implements for turning and raking grass  
 </span>
 
-*Page* [116](jss13.htm#page_116)
+*Page* [116](jss13.htm#page_116.md)
 
 <span id="img_28201"></span> <span align="CENTER"> [![REPRESENTATIONS OF
 BURIAT GODS.&lt;br&gt; These are held sacred in each Buriat
 household](tn/28201.jpg)  
-Click to enlarge](img/28201.jpg)  
+Click to enlarge](img/28201.jpg.md)  
 REPRESENTATIONS OF BURIAT GODS.  
 These are held sacred in each Buriat household  
 </span>
 
-*Page* [121](jss14.htm#page_121)
+*Page* [121](jss14.htm#page_121.md)
 
  
 
@@ -895,7 +895,7 @@ she waved her kerchief thrice, saying each time before she waved it,
 
 <span id="page_290">p. 290</span>
 
-time that [Nalhan](errata.htm#6) Taiji waved the kerchief Alamaldjin
+time that [Nalhan](errata.htm#6.md) Taiji waved the kerchief Alamaldjin
 sprang up.
 
 "Somehow I have slept long," said he. Immediately he commanded the
@@ -953,4 +953,4 @@ built for her.
 
 ------------------------------------------------------------------------
 
-[Next: The Twin Boys, Altin Shagoy and Mungun Shagoy](jss28)
+[Next: The Twin Boys, Altin Shagoy and Mungun Shagoy](jss28.md)

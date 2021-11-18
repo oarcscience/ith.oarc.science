@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai04) 
-[Next](phai06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai04.md) 
+[Next](phai06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -122,7 +122,7 @@ permitted. The offering of a sacrifice of sheep and oxen as the occasion
 of the exodus is omitted, and in place of the sacrifice of the
 firstlings we have the paschal lamb, which is slaughtered and eaten
 without altar, without priest, and not in the presence of Jehovah. <span
-id="fr_30"></span>[1](#fn_30)
+id="fr_30"></span>[1](#fn_30.md)
 
 The belief that the cultus goes back to pre-Mosaic usage is
 unquestionably more natural than the belief that it is the main element
@@ -326,7 +326,7 @@ matter in favour of the Jehovistic tradition. According to the universal
 opinion of the pre-exilic period, the cultus is indeed of very old and
 (to the people) very sacred usage, but not a Mosaic institution; the
 ritual is not the main thing in it, and is in no sense the subject with
-which the Torah deals. <span id="fr_31"></span>[1](#fn_31) In other
+which the Torah deals. <span id="fr_31"></span>[1](#fn_31.md) In other
 words, no trace can be found of acquaintance with the Priestly Code,
 but, on the other hand, very clear indications of ignorance of its
 contents.
@@ -408,7 +408,7 @@ described, but nowhere in the Old Testament is its significance formally
 explained; this is treated as on the whole self-evident and familiar to
 every one. The general notion of a sacrifice is in the Priestly Code
 that of *ḳorban*, in the rest of the Old Testament that of
-*minḥa*, <span id="fr_32"></span>[1](#fn_32) *i.e.*, "gift;" the
+*minḥa*, <span id="fr_32"></span>[1](#fn_32.md) *i.e.*, "gift;" the
 corresponding verbs are *haḳrib* and *haggish*, *i.e.*, "to bring near."
 Both nouns and both verbs are used originally for the offering of a
 present to the king (or the nobles) to do him homage, to make him
@@ -527,7 +527,7 @@ disappears, and ‏סלת‎ invariably take its place; on the other hand, from
 this that the LXX (or the Hebrew text from which that version was taken)
 is offended by the illegality of the material in 1 Sam. i. 24, and
 alters the reading so as to bring it to conformity with the Law. <span
-id="fr_33"></span>[1](#fn_33)
+id="fr_33"></span>[1](#fn_33.md)
 
 So also a striking preference is shown for incense. With every
 meal-offering incense is offered upon the altar; in the inner sanctuary
@@ -548,7 +548,7 @@ exclusively of the *burning* of fat or meal, and thereby making to God a
 sweet-smelling savour; it is never used to denote the *offering of
 incense*, and the substantive ‏קטרת‎ as a sacrificial term has the quite
 general signification of that which is burnt on the altar. <span
-id="fr_34"></span>[2](#fn_34)
+id="fr_34"></span>[2](#fn_34.md)
 
 In enumerations where the prophets
 
@@ -591,7 +591,7 @@ The reason why the author of chaps. xxv.-xxix. is thus silent about the
 altar of incense in the passage in which the furniture of the
 tabernacle, consisting of ark, table, and candlestick, is described, is,
 that he does not know of it. There is no other possibility; for he
-cannot have forgotten it. <span id="fr_35"></span>[1](#fn_35) And the
+cannot have forgotten it. <span id="fr_35"></span>[1](#fn_35.md) And the
 phenomenon is repeated; the altar of incense occurs only in certain
 portions of the Priestly Code, and is absent from others where it could
 not possibly have been omitted, had it been known. The rite of the most
@@ -630,7 +630,7 @@ projecting corners, and its frame and its walls were of wood; this is
 the table which is before the Lord." In like manner he designates the
 service of the priests in the inner sanctuary as table-service (xliv.
 16); table is the name, altar the function. <span
-id="fr_36"></span>[1](#fn_36) In 1 Kings vii. 48, it is true that the
+id="fr_36"></span>[1](#fn_36.md) In 1 Kings vii. 48, it is true that the
 golden altar and the golden table are mentioned together. It seems
 strange, however, that in this case the concluding summary mentions one
 piece of furniture more—and that piece one of so great importance—than
@@ -678,7 +678,7 @@ in general use among the people, at a later period also, was by boiling.
 The word ‏בשל‎ (to seethe in water) occurs with extreme frequency; ‏אלה‎
 (to roast), on the other hand, only in Exod. xii. 8, and Isa. xliv. 16,
 19. All sacrificial flesh (‏בשלה‎) was boiled, and there was no other
-kind. <span id="fr_37"></span>[1](#fn_37) But among persons of the upper
+kind. <span id="fr_37"></span>[1](#fn_37.md) But among persons of the upper
 class roasting must also have come into use at an early period. "Give
 flesh to roast for the priest; for he will not take sodden flesh of
 thee, but raw," says the servant of the sons of Eli in 1 Sam. ii. 15.
@@ -688,7 +688,7 @@ about the abandonment of the old usage of offering the sacrificial
 portions boiled. In any case this is the explanation of the circumstance
 that the paschal lamb, which originally was boiled like all other
 offerings, could, according to the express appointment of the Priestly
-Code, be eaten roasted only. <span id="fr_38"></span>[2](#fn_38)
+Code, be eaten roasted only. <span id="fr_38"></span>[2](#fn_38.md)
 
 The phenomenon that in the Law meal is by preference offered raw, while
 in the earlier period, even as an adjunct of the burnt-offering, it was
@@ -709,11 +709,11 @@ to the priests. According, to Amos iv. 5, leavened bread was made use of
 precisely at a particularly solemn sacrifice, and a reminiscence of this
 usage has been preserved even in Lev. vii. 13, although of course
 without any practical weight being attached to it. <span
-id="fr_39"></span>[1](#fn_39) Moreover, *maççah* also means, properly
+id="fr_39"></span>[1](#fn_39.md) Moreover, *maççah* also means, properly
 speaking, only the bread that is prepared in haste and in the most
 primitive manner for immediate use, and originally implies no contrast
 with leaven, but simply with the more artificial and tedious manners of
-producing ordinary bread <span id="fr_40"></span>[2](#fn_40) In the
+producing ordinary bread <span id="fr_40"></span>[2](#fn_40.md) In the
 Priestly Code the materials are finer, but they are as much as possible
 left in their raw condition; both are steps in advance.
 
@@ -727,21 +727,21 @@ the blood, only an honorary portion, while the rest of the flesh is
 eaten by the sacrificial guests. Now it is worth noticing how seldom the
 burnt-offering occurs alone. It is necessarily so in the case of human
 sacrifice (Gen. xxii. 2 seq.; Judges xi. 31; <span
-id="fr_41"></span>[3](#fn_41) 2 Kings iii. 27; Jer. xix. 5); otherwise
+id="fr_41"></span>[3](#fn_41) 2 Kings iii. 27; Jer. xix. 5.md); otherwise
 it is not usual (Gen. viii. 20; Num. xxiii. 1 seq.; Judges vi. 20, 26,
 xiii. 16, 23; 1 Sam. vii. 9 seq.;
 
 <span id="page_70">p. 70</span>
 
 <span class="contnote">\[paragraph continues\]</span> 1 Kings iii. 4,
-xviii. 34, 38); <span id="fr_42"></span>[1](#fn_42) moreover, all the
+xviii. 34, 38); <span id="fr_42"></span>[1](#fn_42.md) moreover, all the
 examples just cited are extraordinary or mythical in their character, a
 circumstance that may not affect the evidence of the existence of the
 custom in itself, but is important as regards the statistics of its
 frequency. As a rule, the ‘Olah occurs only in conjunction with Zebaḥim,
 and when this is the case the latter are in the majority and are always
 in the plural, while on the other hand the first is frequently in the
-singular. <span id="fr_43"></span>[2](#fn_43)
+singular. <span id="fr_43"></span>[2](#fn_43.md)
 
 They supplement each other like two corresponding halves; the ‘Olah is,
 as the name implies, properly speaking, nothing more than the part of a
@@ -793,7 +793,7 @@ house is His; His also is the gift, which must be brought to Him entire
 by the offerer before the altar, and the greater portion of which He
 gives up to His guests only after that. Thus in a certain sense they eat
 at God's table, and must accordingly prepare or sanctify themselves for
-it. <span id="fr_44"></span>[1](#fn_44) Even on occasions that, to our
+it. <span id="fr_44"></span>[1](#fn_44.md) Even on occasions that, to our
 way of
 
 <span id="page_72">p. 72</span>
@@ -819,7 +819,7 @@ become quite independent and comes everywhere into the foreground, the
 sacrifices which are unconnected with a meal altogether predominate,—so
 much that, as is well known, Theophrastus could declare there were no
 others among the Jews, who in this way were differentiated from all
-other nations. <span id="fr_45"></span>[1](#fn_45) Where formerly a
+other nations. <span id="fr_45"></span>[1](#fn_45.md) Where formerly a
 thank-offering which was eaten before Jehovah, and which might with
 greater clearness be called a sacrificial meal, was prescribed, the
 Priestly Code, as we shall afterwards see, has made out of it simple
@@ -848,7 +848,7 @@ reaches the altar, it all goes as a fine to the priest. Now, of this
 kind of sacrifice, which has an enormous importance in the Priestly
 Code, not a single trace occurs in the rest of the Old Testament before
 Ezekiel, neither in the Jehovist and Deuteronomist, nor in the
-historical and prophetical books. <span id="fr_46"></span>[1](#fn_46)
+historical and prophetical books. <span id="fr_46"></span>[1](#fn_46.md)
 ‘Olah and Zebaḥ comprehend all animal sacrifices, ‘Olah and Minḥah, or
 Zebaḥ and Minḥah, all sacrifices whatsoever; nowhere is a special kind
 of sacrifice for atonement met with (1 Sam. iii. 14). Hos. iv. 8 does
@@ -857,7 +857,7 @@ guilts," but the interpretation which will have it that the priests are
 here reproached with in the first instance themselves inducing the
 people to falsification of the sacred dues, in order to make these up
 again with the produce of the sin and trespass offerings, is either too
-subtle or too dull. <span id="fr_47"></span>[2](#fn_47) It would be less
+subtle or too dull. <span id="fr_47"></span>[2](#fn_47.md) It would be less
 unreasonable to co-ordinate with the similarly named sin and trespass
 offering of the Pentateuch the five golden mice, and the five golden
 emerods with which the Philistines send back the ark, and which in 1
@@ -891,7 +891,7 @@ earlier pecuniary fines (2 Kings xii. 17 \[16\]), which perhaps already
 also admitted of being paid in kind; probably in the seventh century,
 which seems to have been very open to the mystery of atonement and
 bloodshedding, and very fertile in the introduction of new religious
-usages. <span id="fr_48"></span>[1](#fn_48) The sin and trespass
+usages. <span id="fr_48"></span>[1](#fn_48.md) The sin and trespass
 offerings of the Pentateuch still bear traces of their origin in fines
 and penalties; they are not gifts to God, they are not even symbolical,
 they are simply mulcts payable to the priests, partly of fixed
@@ -925,7 +925,7 @@ xvii.-xxvi.) which has been taken into that document, all sacrifices are
 still embraced under one or other of the two heads ‏זבח‎ and ‏עלה‎
 (xvii. 8, xxii. 18, 21); there are no others. The *asham* indeed occurs
 in xix. 21 seq., but, as is recognised, only in a later addition; on the
-other hand, it is not demanded <span id="fr_49"></span>[1](#fn_49) in
+other hand, it is not demanded <span id="fr_49"></span>[1](#fn_49.md) in
 xxii. 14, where it must have been according to Lev. v. and Num. v. And
 even apart from Lev. xvii.-xxvi there is on this point no sort of
 agreement between the kernel of the Priestly Code and the later
@@ -938,7 +938,7 @@ Num. v. 7, 8, vi. 1, xviii. 9. In the latter, moreover, the distinction
 between *asham* and *ḥaṭṭath* is not very clear, but only the intention
 to make it, perhaps because in the old praxis there actually was a
 distinction between ‏כסף חטאות‎ and ‏כסף אשם‎, and in Ezekiel between
-‏חטאת‎ and ‏אשם‎. <span id="fr_50"></span>[2](#fn_50)
+‏חטאת‎ and ‏אשם‎. <span id="fr_50"></span>[2](#fn_50.md)
 
 <span id="page_76">p. 76</span>
 
@@ -968,7 +968,7 @@ and besides these there were less regularly recurring events which were
 celebrated in one circle after another. There was no warlike expedition
 which was not inaugurated in this fashion, no agreement that was not
 thus ratified, no important undertaking of any kind was gone about
-without a sacrifice. <span id="fr_51"></span>[1](#fn_51)
+without a sacrifice. <span id="fr_51"></span>[1](#fn_51.md)
 
 When an honoured guest arrives, there is slaughtered for him a calf, not
 without an offering of the blood and fat to the Deity. The occasion
@@ -1076,7 +1076,7 @@ virtue of its own efficacy in being performed by the priest, even though
 no one was present. Hence later the necessity for a special sacrificial
 deputation, the *anshe ma‘amad*. The connection of all this with the
 Judaising tendency to remove God to a distance from man, it may be
-added, is clear. <span id="fr_52"></span>[1](#fn_52)
+added, is clear. <span id="fr_52"></span>[1](#fn_52.md)
 
 Two details still deserve special prominence here. In the Priestly Code
 the most important sacrifice is the burnt-offering; that is to say, in
@@ -1084,7 +1084,7 @@ point of fact, the *tamid*, the *holocaustum juge*, consisting of two
 yearling lambs which are daily consumed upon the "altar of
 burnt-offering," one in the morning, another in the evening. The custom
 of daily offering a fixed sacrifice at a definite time existed indeed,
-in a simpler form, <span id="fr_53"></span>[2](#fn_53) even in the
+in a simpler form, <span id="fr_53"></span>[2](#fn_53.md) even in the
 pre-exilian period, but alongside of it at that
 
 <span id="page_80">p. 80</span>
@@ -1107,7 +1107,7 @@ shekel for the service of the tabernacle in Exod. xxx. 11 seq. Prior to
 the exile, the regular sacrifice was paid for by the Kings of Judah, and
 in Ezekiel the monarch still continues to defray the expenses not only
 of the Sabbath day and festival sacrifices (xiv. 17 seq.), but also of
-the *tamid* (xlvi. 13-15). <span id="fr_54"></span>[1](#fn_54) It is
+the *tamid* (xlvi. 13-15). <span id="fr_54"></span>[1](#fn_54.md) It is
 also a mark of the date that, according to Exod. xxx., the expenses of
 the temple worship are met directly out of the poll-tax levied from the
 community, which can only be explained by the fact that at that time
@@ -1142,7 +1142,7 @@ relentlessly are visited with wrath, it makes a distinction very remote
 from the antique; to Hebrew antiquity the wrath of God was something
 quite incalculable, its causes were never known, much less was it
 possible to enumerate beforehand those sins which kindled it and those
-which did not. <span id="fr_55"></span>[1](#fn_55) An underlying
+which did not. <span id="fr_55"></span>[1](#fn_55.md) An underlying
 reference of sacrifice to sin, speaking generally, was entirely absent.
 The ancient offerings were wholly of a joyous nature,—a merrymaking
 before Jehovah with music and song, timbrels, flutes, and stringed
@@ -1184,10 +1184,10 @@ scrupulously followed by the post-exilian time.
 
 ### Footnotes
 
-<span id="fn_30"></span>[54:1](phai05.htm#fr_30) With regard to
+<span id="fn_30"></span>[54:1](phai05.htm#fr_30.md) With regard to
 sacrifice, Deuteronomy still occupies the same standpoint as JE.
 
-<span id="fn_31"></span>[59:1](phai05.htm#fr_31) That the priests were
+<span id="fn_31"></span>[59:1](phai05.htm#fr_31.md) That the priests were
 not mere teachers of law and morals, but also gave ritual instruction
 (*e.g.*, regarding cleanness and uncleanness), is of course not denied
 by this. All that is asserted is that in pre-exilian antiquity the
@@ -1196,7 +1196,7 @@ Torah, but that their Torah always consisted of instructions to the
 laity. The distinction is easily intelligible to those who choose to
 understand it.
 
-<span id="fn_32"></span>[61:1](phai05.htm#fr_32) Gen. iv. 3-5, Num. xvi.
+<span id="fn_32"></span>[61:1](phai05.htm#fr_32.md) Gen. iv. 3-5, Num. xvi.
 15; 1 Sam. ii. 17, 29, xxvi. 19; Isa. i. 13; Mal. i. 10-13, ii. 12, 13,
 iii. 3, 4. In the Priestly Code *minḥa* is exclusively a terminus
 technicus for the meal-offering. The general name in the LXX and in the
@@ -1205,12 +1205,12 @@ Compare Spencer, "De ratione et origine sacrificiorum" (*De Legibus
 Hebræorum ritualibus*, iii. 2), by far the best thing that has ever been
 written on the subject.
 
-<span id="fn_33"></span>[64:1](phai05.htm#fr_33) Ezekiel xvi. 13, 19,
+<span id="fn_33"></span>[64:1](phai05.htm#fr_33.md) Ezekiel xvi. 13, 19,
 xlvi. 14; 1 Chron. ix. 29, xxiii. 22; Ecclus. xxxv. 2, xxxviii. 11,
 xxxix. 32; Isaiah i. 13 (LXX); lxvi. 3 (LXX). In the Priestly Code ‏סלת‎
 occurs more than forty times.
 
-<span id="fn_34"></span>[64:2](phai05.htm#fr_34) The verb is used in
+<span id="fn_34"></span>[64:2](phai05.htm#fr_34.md) The verb is used in
 *piel* by the older writers, in *hiphil* by the Priestly Code
 (Chronicles), and promiscuously in both forms during the transition
 period by the author of the Books of Kings. This is the case, at least,
@@ -1240,7 +1240,7 @@ xvii. 26, xli. 5); elsewhere only in the Priestly Code (nine times), in
 Isa. xl.-lxvi. (three times), in Chronicles and Nehemiah (three times),
 and in Canticles (three times). Compare Zeph. iii. 10; 1 Kings ix. 25.
 
-<span id="fn_35"></span>[66:1](phai05.htm#fr_35) There is a peculiar
+<span id="fn_35"></span>[66:1](phai05.htm#fr_35.md) There is a peculiar
 perversity in meeting the objection by alleging other singularities in
 the ordinance as for example, that the vessels of the tabernacle are
 appointed (chap. xxv.) before the tabernacle itself (chap. xxvi.). This
@@ -1253,18 +1253,18 @@ or merely brought in as an appendix. The case is not at all parallel
 with the omission of the most important utensil of the sanctuary from
 the very passage to which it necessarily belongs.
 
-<span id="fn_36"></span>[67:1](phai05.htm#fr_36) Malachi, on the other
+<span id="fn_36"></span>[67:1](phai05.htm#fr_36.md) Malachi, on the other
 hand, designates the so-called altar of burnt-offering as a table.
 
-<span id="fn_37"></span>[68:1](phai05.htm#fr_37) Accordingly one must
+<span id="fn_37"></span>[68:1](phai05.htm#fr_37.md) Accordingly one must
 understand ‏עשה‎ also of boiling (Judges vi. 19). Compare the
 boiling-houses of the temple still found in Ezek. xlvi. 20-24. In 1 Sam.
 i. 9 pronounce *beshéla* instead of *beshilo*, and delete ‏ואהרי שתה‎.
 
-<span id="fn_38"></span>[68:2](phai05.htm#fr_38) Compare the polemical
+<span id="fn_38"></span>[68:2](phai05.htm#fr_38.md) Compare the polemical
 ordinance of Exod. xii. 9 with Deut. xvi. 7.
 
-<span id="fn_39"></span>[69:1](phai05.htm#fr_39) The loaves are passed
+<span id="fn_39"></span>[69:1](phai05.htm#fr_39.md) The loaves are passed
 over in silence in Leviticus vii. 29 seq., although it is in this very
 place that the matter of presenting on the part of the offerer is most
 fully described. And when it is said (vii. 12), "If he offer it for a
@@ -1279,14 +1279,14 @@ correction, which does not harmonise well by any means with the second.
 Verse 13 connects itself better with verse 11 than with verse 12.—Exod.
 xxxiv. 25.
 
-<span id="fn_40"></span>[69:2](phai05.htm#fr_40) Compare Gen. xviii. 6
+<span id="fn_40"></span>[69:2](phai05.htm#fr_40.md) Compare Gen. xviii. 6
 with xix. 3.
 
-<span id="fn_41"></span>[69:3](phai05.htm#fr_41) It is probable that
+<span id="fn_41"></span>[69:3](phai05.htm#fr_41.md) It is probable that
 Jephthah expected a human creature and not an animal to meet him from
 his house.
 
-<span id="fn_42"></span>[70:1](phai05.htm#fr_42) In the above list of
+<span id="fn_42"></span>[70:1](phai05.htm#fr_42.md) In the above list of
 passages no notice is taken of the *sacrificium juge* of 2 Kings xvi.
 15. The statement in 1 Kings iii. 4 is perhaps to be taken along with
 iii. 15, but does not become at all more credible on that account. Of
@@ -1296,7 +1296,7 @@ statements about one or more kinds of offering. The latter could very
 well fix attention upon the ‘Olah alone without thereby throwing any
 light upon the question as to the actual practice.
 
-<span id="fn_43"></span>[70:2](phai05.htm#fr_43) Exod. x. 25, xviii. 12,
+<span id="fn_43"></span>[70:2](phai05.htm#fr_43.md) Exod. x. 25, xviii. 12,
 xxiv. 5, xxxii. 6; Joshua viii. 31; Judges xx. 26, xxi. 4; 1 Sam. vi. 14
 seq., x. 8, xiii. 9-12; 2 Sam. vi. 17 seq., xxiv. 23-25, 1 Kings iii.
 15, viii. 63 seq.; 2 Kings v. 17, x. 24, 25. The zeugma in Judges xx.
@@ -1310,7 +1310,7 @@ xxiii. 18 in a very general sense. It is not quite clear what is meant
 by the blessing of the *Zebaḥ* in 1 Sam. ix. 13; perhaps a kind of grace
 before meat.
 
-<span id="fn_44"></span>[71:1](phai05.htm#fr_44) In order to appear
+<span id="fn_44"></span>[71:1](phai05.htm#fr_44.md) In order to appear
 before Jehovah the guest adorns himself with clothes and ornaments
 (Exod. iii. 22, xi. 2 seq.; Hos. ii. 15 \[A.V. 13\]; Ezek. xvi. 13;
 compare Koran, Sur. xx. 61), sanctifies himself (Num. xi. 18) and is
@@ -1324,14 +1324,14 @@ delivers over to them some other nation, and calls the Medes, to whom He
 gives Babylon over, His sanctified ones, that is, His guests (Zeph. i. 7
 seq.; Jer. xlvi. 10; Ezek. xxxix 17; Isa. xiii. 3).
 
-<span id="fn_45"></span>[72:1](phai05.htm#fr_45) Porphyry, *De Abstin.*
+<span id="fn_45"></span>[72:1](phai05.htm#fr_45.md) Porphyry, *De Abstin.*
 ii. 26. Compare Joseph., *C. Ap.*, ii. 13: ὀ͂υτοι εὔχονται ύειν ἐκατόμβας
 τοῖς θεοῖς καὶ χρῶνται τοῖς ἰερείος πρὸς εὐωχίαν.
 
-<span id="fn_46"></span>[73:1](phai05.htm#fr_46) How great is the
+<span id="fn_46"></span>[73:1](phai05.htm#fr_46.md) How great is the
 difference in Deut. xxi. 1-9; how very remote the sacrificial idea!
 
-<span id="fn_47"></span>[73:2](phai05.htm#fr_47) The sin and guilt are
+<span id="fn_47"></span>[73:2](phai05.htm#fr_47.md) The sin and guilt are
 the sacrificial worship generally as carried on by the people (viii. 11;
 Amos iv. 4); in the entire section the prophet is preparing the way for
 the here sharply accentuated reproach against the priests that they
@@ -1340,20 +1340,20 @@ and impure religious service. Besides, where is there any reproach at
 all, according to the Pentateuch, in the first section of iv. 8? And the
 second speaks of ‏עונם‎, not of ‏אשמם‎.
 
-<span id="fn_48"></span>[74:1](phai05.htm#fr_48) Consider for example
+<span id="fn_48"></span>[74:1](phai05.htm#fr_48.md) Consider for example
 the prevalence of child sacrifice precisely at this time, the
 introduction of incense, the new fashions which King Manasseh brought
 in, and of which certainly much survived that suited the temper of the
 period, and admitted of being conjoined with the worship of Jehovah, or
 even seemed to enhance its dignity and solemnity.
 
-<span id="fn_49"></span>[75:1](phai05.htm#fr_49) Perhaps it would be
+<span id="fn_49"></span>[75:1](phai05.htm#fr_49.md) Perhaps it would be
 more accurate to say that the *asham* here, in the case of property
 unlawfully held, is simply the impost of a fifth part of the value, and
 not the sacrifice of a ram, which in Lev. v. is required in addition. In
 Num. v. also, precisely this fifth part is called *asham*.
 
-<span id="fn_50"></span>[75:2](phai05.htm#fr_50) The three sections,
+<span id="fn_50"></span>[75:2](phai05.htm#fr_50.md) The three sections,
 Lev. iv. 1-35 (*ḥaṭṭath*), v. 1-13 (*ḥaṭṭath-asham*), and v. 14-26
 (*asham*), are essentially not co-ordinate parts of one whole, but
 independent pieces proceeding from the same school. For v. 1-13 is no
@@ -1380,11 +1380,11 @@ the language employed is different, for in this passage it is the
 restored property that is called *asham*, and the ram is called ‏איל
 הכפרים‎. Comp. Lev. xxii. 14.
 
-<span id="fn_51"></span>[76:1](phai05.htm#fr_51) Sacrifice is used as a
+<span id="fn_51"></span>[76:1](phai05.htm#fr_51.md) Sacrifice is used as a
 pretext in 1 Sam. xvi. 1 seq.; 1 Kings i. 9 seq. Compare Proverbs vii.
 14.
 
-<span id="fn_52"></span>[79:1](phai05.htm#fr_52) It is not asserted that
+<span id="fn_52"></span>[79:1](phai05.htm#fr_52.md) It is not asserted that
 the cultus before the law (of which the darker sides are known from Amos
 and Hosea) was better than the legal, but merely that it was more
 original; the standard of judgment being, not the moral element, but
@@ -1405,7 +1405,7 @@ and the whole cultus is nothing more than an exercise in piety which has
 simply been enjoined so once for all without any one being in any way
 the better for it.
 
-<span id="fn_53"></span>[79:2](phai05.htm#fr_53) See Kuenen, *Godsdienst
+<span id="fn_53"></span>[79:2](phai05.htm#fr_53.md) See Kuenen, *Godsdienst
 van Israel*, ii. 271. According to 2 Kings xvi. 15, an ‏עלה‎ in the
 morning and a ‏מנחה‎ in the evening were daily offered in the temple of
 Jerusalem, in the time of Ahaz. Ezekiel also (xlvi. 13-15) speaks only
@@ -1425,12 +1425,12 @@ of all, however, was doubtless not the daily *minḥah*, but the offering
 of the shewbread, which served the same purpose, but was not laid out
 fresh every day.
 
-<span id="fn_54"></span>[80:1](phai05.htm#fr_54) Compare LXX. The
+<span id="fn_54"></span>[80:1](phai05.htm#fr_54.md) Compare LXX. The
 Massoretic text has corrected the third person (referring to the
 princes) into the second, making it an address to the priests, which,
 however, is quite impossible in Ezekiel.
 
-<span id="fn_55"></span>[81:1](phai05.htm#fr_55) When the wrath is
+<span id="fn_55"></span>[81:1](phai05.htm#fr_55.md) When the wrath is
 regulated by the conditions of the "covenant," the original notion
 (which scorns the thought of adjustment) is completely changed. What
 gave the thing its mysterious awfulness was precisely this: that in no
@@ -1441,4 +1441,4 @@ to avoid attracting His attention (Hos. iii. 4, ix. 4; Amos vi. 10).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Sacred Feasts.](phai06)
+[Next: Chapter III. The Sacred Feasts.](phai06.md)

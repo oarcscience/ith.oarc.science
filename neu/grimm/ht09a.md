@@ -1,8 +1,8 @@
 # The Fisherman And His Wife
 
-<span class="small">[Intangible Textual Heritage](../../index) 
-[Household Tales Index](index)  [Previous: Hansel And Grethel](ht09) 
-[Next: The Valiant Little Tailor](ht10) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md) 
+[Household Tales Index](index)  [Previous: Hansel And Grethel](ht09.md) 
+[Next: The Valiant Little Tailor](ht10.md) </span>
 
 ------------------------------------------------------------------------
 

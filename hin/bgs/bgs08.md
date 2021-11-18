@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg08)   
-[Previous](bgs07)  [Next](bgs09) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg08.md)   
+[Previous](bgs07)  [Next](bgs09.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ yogī paraṃ sthānam upaiti cādyam 8.28
 
 ------------------------------------------------------------------------
 
-[Next: IX. atha navamodhyāyaḥ. (rājavidyārājaguhyayogaḥ)](bgs09)
+[Next: IX. atha navamodhyāyaḥ. (rājavidyārājaguhyayogaḥ)](bgs09.md)

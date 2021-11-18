@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Legendary Creatures](../../lcr/index)  [Index](index) 
-[Previous](ddl11)  [Next](ddl13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Legendary Creatures](../../lcr/index)  [Index](index.md) 
+[Previous](ddl11)  [Next](ddl13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPL5U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPL5U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dragons and Dragon Lore*, by Ernest Ingersoll, \[1928\], at Intangible
 Textual Heritage
 
@@ -242,4 +242,4 @@ placed under the protection of shark-dragons."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eleven: The Dragon Invades the West](ddl13)
+[Next: Chapter Eleven: The Dragon Invades the West](ddl13.md)

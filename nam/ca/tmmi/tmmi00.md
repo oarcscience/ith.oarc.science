@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Next](tmmi01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Next](tmmi01.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ American](../../index)  [California](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Two Myths of the Mission Indians of California](tmmi01)
+[Next: Two Myths of the Mission Indians of California](tmmi01.md)

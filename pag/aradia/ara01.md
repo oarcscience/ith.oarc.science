@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara00)  [Next](ara02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara00)  [Next](ara02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 If the reader has ever met with the works of the learned folk-lorist G.
 Pitré, or the articles contributed by "Lady Vere De Vere" to the
 *Italian Rivista*, or that of J. H. Andrews to *Folk-Lore*, <span
-id="fr_0"></span>[1](#fn_0) he will be aware that there are in Italy
+id="fr_0"></span>[1](#fn_0.md) he will be aware that there are in Italy
 great numbers of *strege*, fortune-tellers or witches, who divine by
 cards, perform strange ceremonies in which spirits are supposed to be
 invoked, make and sell amulets, and, in fact, comport themselves
@@ -41,7 +41,7 @@ by scholars, there has never existed the least interest as regarded the
 strange lore of the witches, nor any suspicion that it embraced an
 incredible quantity of old Roman minor myths and legends, such as Ovid
 has recorded, but of which much escaped him and all other Latin
-writers. <span id="fr_1"></span>[1](#fn_1)
+writers. <span id="fr_1"></span>[1](#fn_1.md)
 
 This ignorance was greatly aided by the wizards themselves, in making a
 profound secret of all their traditions, urged thereto by fear of the
@@ -189,10 +189,10 @@ remarkable.
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:1](ara01.htm#fr_0) March, 1897: "Neapolitan
+<span id="fn_0"></span>[v:1](ara01.htm#fr_0.md) March, 1897: "Neapolitan
 Witchcraft."
 
-<span id="fn_1"></span>[vi:1](ara01.htm#fr_1) Thus we may imagine what
+<span id="fn_1"></span>[vi:1](ara01.htm#fr_1.md) Thus we may imagine what
 the case would have been as regards German fairy-tales if nothing had
 survived to a future day except the collections of Grimm and Musæus. The
 world would fall into the belief that these constituted all the works of
@@ -205,4 +205,4 @@ of the same sort" of literati.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ara02)
+[Next: Contents](ara02.md)

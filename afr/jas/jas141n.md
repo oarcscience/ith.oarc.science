@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas139n)  [Next](jas142n)   
- \[[141. Tacoomah makes a Dance.](jas141)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas139n)  [Next](jas142n.md)   
+ \[[141. Tacoomah makes a Dance.](jas141.md)\]
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ And knock his eye, upon his hog-sty, and cry out 'hi!
 
 ------------------------------------------------------------------------
 
-[Next: Note 142. Anansi makes a Dance.](jas142n)
+[Next: Note 142. Anansi makes a Dance.](jas142n.md)

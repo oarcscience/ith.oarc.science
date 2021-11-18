@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml31)  [Next](yml33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml31)  [Next](yml33.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ story.
 
 ------------------------------------------------------------------------
 
-[Next: The Flood and the Prophets](yml33)
+[Next: The Flood and the Prophets](yml33.md)

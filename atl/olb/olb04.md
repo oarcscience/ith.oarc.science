@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb03)  [Next](olb05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb03)  [Next](olb05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -33,7 +33,7 @@ I have constantly travelled about, observing what was going on. By that
 means I have become acquainted with many things that others do not know.
 You said yesterday that our relatives on the other side of the Weser
 were dull and cowardly; but I may tell you that the Magy <span
-id="fr_3"></span>[†](#fn_3) has not won a single village from them by
+id="fr_3"></span>[†](#fn_3.md) has not won a single village from them by
 force of arms; but only by detestable deceit, and still more by the
 rapacity of their dukes and nobles.
 
@@ -161,7 +161,7 @@ children, and our earliest history began.
 
 This is our earliest history.
 
-Wr-alda <span id="fr_4"></span>[\*](#fn_4), who alone is eternal and
+Wr-alda <span id="fr_4"></span>[\*](#fn_4.md), who alone is eternal and
 good, made the beginning. Then commenced time. Time wrought all things,
 even the earth. The earth bore grass, herbs, and trees, all useful and
 all noxious animals. All that is good and useful she brought forth by
@@ -303,12 +303,12 @@ shall be the earth.
 
 ### Footnotes
 
-<span id="fn_3"></span>[5:†](olb04.htm#fr_3) Magy, King of the Magyars
+<span id="fn_3"></span>[5:†](olb04.htm#fr_3.md) Magy, King of the Magyars
 or Finns.
 
-<span id="fn_4"></span>[13:\*](olb04.htm#fr_4) *Wr-alda*, always written
+<span id="fn_4"></span>[13:\*](olb04.htm#fr_4.md) *Wr-alda*, always written
 as a compound word, meaning the *Old Ancient*, or the *Oldest Being*.
 
 ------------------------------------------------------------------------
 
-[Next: Frya's Tex](olb05)
+[Next: Frya's Tex](olb05.md)

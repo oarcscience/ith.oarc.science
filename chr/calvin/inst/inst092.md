@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst091)  [Next](inst093) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst091)  [Next](inst093.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ spiritual jurisdiction. That this may be more easily understood, let us
 divide the Church into two principal classes—viz. clergy and people. The
 term clergy I use in the common acceptation for those who perform a
 public ministry in the Church.57  <span
-id="fr_586"></span>[587](#fn_586) We shall speak first of the common
+id="fr_586"></span>[587](#fn_586.md) We shall speak first of the common
 discipline to which all ought to be subject, and then proceed to the
 clergy, who have besides that common discipline one peculiar to
 themselves. But as some, from hatred of discipline, are averse to the
@@ -177,9 +177,9 @@ he relates that he taught “publicly, and from house to house,” and
 testifies that he is “pure from the blood of all men,” because he had
 not shunned to declare “all the counsel of God” (<span
 id="iv.iv.xiii-p34.1"></span>[Acts
-20:20](../../../bib/kjv/act020.htm#020),
-[26](../../../bib/kjv/act020.htm#026),
-[27](../../../bib/kjv/act020.htm#027)<span
+20:20](../../../bib/kjv/act020.htm#020.md),
+[26](../../../bib/kjv/act020.htm#026.md),
+[27](../../../bib/kjv/act020.htm#027.md)<span
 id="iv.iv.xiii-p34.1"></span>) Then does doctrine obtain force and
 authority, not only when the minister publicly expounds to all what they
 owe to Christ, but has the right and means of exacting this from those
@@ -191,8 +191,8 @@ witnesses, he is to be summoned to the bar of the Church, which is the
 consistory of elders, and there admonished more sharply, as by public
 authority, that if he reverence the Church he may submit and obey (<span
 id="iv.iv.xiii-p34.2"></span>[Matt.
-18:15](../../../bib/kjv/mat018.htm#015),
-[17](../../../bib/kjv/mat018.htm#017)<span
+18:15](../../../bib/kjv/mat018.htm#015.md),
+[17](../../../bib/kjv/mat018.htm#017.md)<span
 id="iv.iv.xiii-p34.2"></span>). If even in this way he is not subdued,
 but persists in his iniquity, he is then, as a despiser of the Church,
 to be debarred from the society of believers.
@@ -202,11 +202,11 @@ speaking of secret faults merely, we must attend to the distinction that
 some sins are private, others public or openly manifest. Of the former,
 Christ says to every private individual, “go and tell him his fault
 between thee and him alone” (<span id="iv.iv.xiii-p35.1"></span>[Mt.
-18:15](../../../bib/kjv/mat018.htm#015)<span
+18:15](../../../bib/kjv/mat018.htm#015.md)<span
 id="iv.iv.xiii-p35.1"></span>). Of open sins Paul says to Timothy,
 “Those that sin rebuke before all, that others also may fear” (<span
 id="iv.iv.xiii-p35.2"></span>[1 Tim.
-5:20](../../../bib/kjv/ti1005.htm#020)<span
+5:20](../../../bib/kjv/ti1005.htm#020.md)<span
 id="iv.iv.xiii-p35.2"></span>). Our Saviour had previously used the
 words, “If thy brother shall trespass against thee” This clause, unless
 you would be captious, you cannot understand otherwise than, If this
@@ -214,7 +214,7 @@ happens *in a manner known to yourself*, others not being privy to it.
 The injunction which Paul gave to Timothy to rebuke those openly who sin
 openly, he himself followed with Peter (<span
 id="iv.iv.xiii-p35.3"></span>[Gal.
-2:14](../../../bib/kjv/gal002.htm#014)<span
+2:14](../../../bib/kjv/gal002.htm#014.md)<span
 id="iv.iv.xiii-p35.3"></span>). For when Peter sinned so as to give
 public offence, he did not admonish him apart, but brought him forward
 in face of the Church. The legitimate course, therefore, will be to
@@ -229,7 +229,7 @@ admonition or rebuke, but a sharper remedy, as Paul shows when he not
 only verbally rebukes the incestuous Corinthian, but punishes him with
 excommunication, as soon as he was informed of his crime (<span
 id="iv.iv.xiii-p36.1"></span>[1 Cor.
-5:4](../../../bib/kjv/co1005.htm#004)<span
+5:4](../../../bib/kjv/co1005.htm#004.md)<span
 id="iv.iv.xiii-p36.1"></span>). Now then we begin better to perceive how
 the spiritual jurisdiction of the Church, which animadverts on sins
 according to the word of the Lord, is at once the best help to sound
@@ -247,7 +247,7 @@ promulgation of his own sentence, and that that which they do on earth
 is ratified in heaven. For they act by the word of the Lord in
 condemning the perverse, and by the word of the Lord in taking the
 penitent back into favour (<span id="iv.iv.xiii-p36.2"></span>[John
-20:23](../../../bib/kjv/joh020.htm#023)<span
+20:23](../../../bib/kjv/joh020.htm#023.md)<span
 id="iv.iv.xiii-p36.2"></span>). Those, I say, who trust that churches
 can long stand without this bond of discipline are mistaken, unless,
 indeed, we can with impunity dispense with a help which the Lord foresaw
@@ -265,7 +265,7 @@ there may be nothing in the Church to bring disgrace on his sacred name,
 those whose turpitude might throw infamy on the name must be expelled
 from his family. And here, also, regard must be had to the Lord’s
 Supper, which might he profaned by a promiscuous admission.57  <span
-id="fr_587"></span>[588](#fn_587) For it is most true, that he who is
+id="fr_587"></span>[588](#fn_587.md) For it is most true, that he who is
 intrusted with the dispensation of it, if he knowingly and willingly
 admits any unworthy person whom he ought and is able to repel, is as
 guilty of sacrilege as if he had cast the Lord’s body to dogs.
@@ -285,13 +285,13 @@ seduce us from the right course by bad example. To this use of
 discipline the apostle referred when he commanded the Corinthians to
 discard the incestuous man from their society. “A little leaven
 leaveneth the whole lump” (<span id="iv.iv.xiii-p38.1"></span>[1 Cor.
-5:6](../../../bib/kjv/co1005.htm#006)<span
+5:6](../../../bib/kjv/co1005.htm#006.md)<span
 id="iv.iv.xiii-p38.1"></span>) And so much danger did he foresee here,
 that he prohibited them from keeping company with such persons. “If any
 man that is called a brother be a fornicator, or covetous, or an
 idolater, or a railer, or a drunkard, or an extortioner; with such an
 one, no not to eat” (<span id="iv.iv.xiii-p38.2"></span>[1 Cor.
-5:11](../../../bib/kjv/co1005.htm#011)<span
+5:11](../../../bib/kjv/co1005.htm#011.md)<span
 id="iv.iv.xiii-p38.2"></span>). A third end of discipline is, that the
 sinner may be ashamed, and begin to repent of his turpitude. Hence it is
 for their interest also that their iniquity should be chastised, that
@@ -300,11 +300,11 @@ aroused by the rod. This the apostle intimates when he thus writes —“If
 any man obey not our word by this epistle, note that man, and have no
 company with him, that he may be ashamed” (<span
 id="iv.iv.xiii-p38.3"></span>[2 Thess.
-3:14](../../../bib/kjv/th2003.htm#014)<span
+3:14](../../../bib/kjv/th2003.htm#014.md)<span
 id="iv.iv.xiii-p38.3"></span>). Again, when he says that he had
 delivered the Corinthian to Satan, “that the spirit may be saved in the
 day of the Lord Jesus” (<span id="iv.iv.xiii-p38.4"></span>[1 Cor.
-5:5](../../../bib/kjv/co1005.htm#005)<span
+5:5](../../../bib/kjv/co1005.htm#005.md)<span
 id="iv.iv.xiii-p38.4"></span>); that is, as I interpret it, he gave him
 over to temporal condemnation, that he might be made safe for eternity.
 And he says that he gave him over to Satan because the devil is without
@@ -339,7 +339,7 @@ the communion of the Supper, until he gives proof of repentance. Paul
 does not merely administer a verbal rebuke to the Corinthian, but
 discards him from the Church, and reprimands the Corinthians for having
 borne with him so long (<span id="iv.iv.xiii-p39.1"></span>[1 Cor.
-5:5](../../../bib/kjv/co1005.htm#005)<span
+5:5](../../../bib/kjv/co1005.htm#005.md)<span
 id="iv.iv.xiii-p39.1"></span>). This was the method observed by the
 ancient and purer Church, when legitimate government was in vigour. When
 any one was guilty of some flagrant iniquity, and thereby caused
@@ -350,7 +350,7 @@ which, as indications of repentance, were wont to be prescribed to those
 who had lapsed. When the penitent had thus made satisfaction to the
 Church, he was received into favour by the laying on of hands. This
 admission often receives the name of *peace* from Cyprian, who briefly
-describes the form.57  <span id="fr_588"></span>[589](#fn_588) “They act
+describes the form.57  <span id="fr_588"></span>[589](#fn_588.md) “They act
 as penitents for a certain time, next they come to confession, and
 receive the right of communion by the laying on of hands of the bishop
 and clergy.” Although the bishop with the clergy thus superintended the
@@ -361,7 +361,7 @@ time required, as he elsewhere explains.
 exempted from this discipline, that even princes submitted to it in
 common with their subjects; and justly, since it is the discipline of
 Christ, to whom all sceptres and diadems should be subject. Thus
-Theodosius,57  <span id="fr_589"></span>[590](#fn_589) when
+Theodosius,57  <span id="fr_589"></span>[590](#fn_589.md) when
 excommunicated by Ambrose, because of the slaughter perpetrated at
 Thessalonica, laid aside all the royal insignia with which he was
 surrounded, and publicly in the Church bewailed the sin into which he
@@ -389,7 +389,7 @@ omitted, that the Church, in exercising severity, ought to accompany it
 with the spirit of meekness. For, as Paul enjoins, we must always take
 care that he on whom discipline is exercised be not “swallowed up with
 overmuch sorrow” (<span id="iv.iv.xiii-p43.1"></span>[2 Cor.
-2:7](../../../bib/kjv/co2002.htm#007)<span
+2:7](../../../bib/kjv/co2002.htm#007.md)<span
 id="iv.iv.xiii-p43.1"></span>): for in this way, instead of cure there
 would be destruction. The rule of moderation will be best obtained from
 the end contemplated. For the object of excommunication being to bring
@@ -460,7 +460,7 @@ judging to which it has no title.
 <span id="iv.iv.xiii-p45"></span>10. For when our Saviour promises that
 what his servants bound on earth should be bound in heaven (<span
 id="iv.iv.xiii-p45.1"></span>[Mt.
-18:18](../../../bib/kjv/mat018.htm#018)<span
+18:18](../../../bib/kjv/mat018.htm#018.md)<span
 id="iv.iv.xiii-p45.1"></span>), he confines the power of binding to the
 censure of the Church, which does not consign those who are
 excommunicated to perpetual ruin and damnation, but assures them, when
@@ -478,10 +478,10 @@ all possible means to bring them to a better mind, and recover them to
 the fellowship and unity of the Church: as the apostle also says, “Yet
 count him not as an enemy, but admonish him as a brother” (<span
 id="iv.iv.xiii-p45.2"></span>[2 Thess.
-3:15](../../../bib/kjv/th2003.htm#015)<span
+3:15](../../../bib/kjv/th2003.htm#015.md)<span
 id="iv.iv.xiii-p45.2"></span>). If this humanity be not observed in
 private as well as public, the danger is, that our discipline shall
-degenerate into destruction.57  <span id="fr_590"></span>[591](#fn_590)
+degenerate into destruction.57  <span id="fr_590"></span>[591](#fn_590.md)
 
 <span id="iv.iv.xiii-p47"></span>11. Another special requisite to
 moderation of discipline is, as Augustine discourses against the
@@ -514,7 +514,7 @@ he does it not, then the sin is no longer that of other men, but his
 own. Only he would have that prudence used which our Lord also requires,
 “lest while ye gather up the tares, ye root up also the wheat with them”
 (<span id="iv.iv.xiii-p47.1"></span>[Mt.
-13:29](../../../bib/kjv/mat013.htm#029)<span
+13:29](../../../bib/kjv/mat013.htm#029.md)<span
 id="iv.iv.xiii-p47.1"></span>). Hence he infers from Cyprian, “Let a man
 then mercifully correct what he can; what he cannot correct, let him
 bear patiently, and in love bewail and lament.”
@@ -529,7 +529,7 @@ flock of Christ. Similar, in the present day, is the conduct of the
 Anabaptists, who, acknowledging no assembly of Christ unless conspicuous
 in all respects for angelic perfection, under pretence of zeal overthrow
 everything which tends to edification.57  <span
-id="fr_591"></span>[592](#fn_591) “Such (says Augustin. contra Parmen.
+id="fr_591"></span>[592](#fn_591.md) “Such (says Augustin. contra Parmen.
 Lib. 3 c. 4), not from hatred of other men’s iniquity, but zeal for
 their own disputes, ensnaring the weak by the credit of their name,
 attempt to draw them entirely away, or at least to separate them;
@@ -541,7 +541,7 @@ enjoined to be done with moderation, without impairing the sincerity of
 love or breaking the bond of peace, they pervert to sacrilegious schism
 and purposes of excision. Thus Satan transforms himself into an angel of
 light (<span id="iv.iv.xiii-p49.1"></span>[2 Cor.
-11:14](../../../bib/kjv/co2011.htm#014)<span
+11:14](../../../bib/kjv/co2011.htm#014.md)<span
 id="iv.iv.xiii-p49.1"></span>) when, under pretext of a just severity,
 he persuades to savage cruelty, desiring nothing more than to violate
 and burst the bond of unity and peace; because, when it is maintained,
@@ -573,11 +573,11 @@ body rather than cause destruction. And, accordingly, he thus concludes:
 to separate from the wicked, when it can be done without the risk of
 violating peace, because he did not wish it to be done otherwise (<span
 id="iv.iv.xiii-p50.3"></span>[1 Cor.
-5:13](../../../bib/kjv/co1005.htm#013)<span
+5:13](../../../bib/kjv/co1005.htm#013.md)<span
 id="iv.iv.xiii-p50.3"></span>); we must also endeavour, by bearing with
 each other, to keep the unity of the Spirit in the bond of peace” (<span
 id="iv.iv.xiii-p50.4"></span>[Eph.
-4:2](../../../bib/kjv/eph004.htm#002)<span
+4:2](../../../bib/kjv/eph004.htm#002.md)<span
 id="iv.iv.xiii-p50.4"></span>).
 
 <span id="iv.iv.xiii-p51"></span>14. The remaining part of discipline,
@@ -590,7 +590,7 @@ Church. As the observance of this part of discipline is useful, so it
 was always used in the Church, even from the days of the apostles.
 Indeed, the apostles themselves were not its first authors, but borrowed
 the example from the Law and Prophets. For we there see,57  <span
-id="fr_592"></span>[593](#fn_592) that as often as any weighty matter
+id="fr_592"></span>[593](#fn_592.md) that as often as any weighty matter
 occurred the people were assembled, and supplication and fasting
 appointed. In this, therefore, the apostles followed a course which was
 not new to the people of God, and which they foresaw would be useful. A
@@ -599,7 +599,7 @@ people may either be aroused to duty, or kept in duty and obedience. We
 everywhere meet with examples in Sacred History, and it is unnecessary
 to collect them. In general, we must hold that whenever any religious
 controversy arises, which either a council or ecclesiastical tribunal
-behoves to decide;57  <span id="fr_593"></span>[594](#fn_593) whenever a
+behoves to decide;57  <span id="fr_593"></span>[594](#fn_593.md) whenever a
 minister is to be chosen; whenever, in short, any matter of difficulty
 and great importance is under consideration: on the other hand, when
 manifestations of the divine anger appear, as pestilence, war, and
@@ -644,11 +644,11 @@ a period for fasting and prayer. Thus when the Christians of Antioch
 laid hands on Barnabas and Paul, that they might the better recommend
 their ministry, which was of so great importance, they joined fasting
 and prayer (<span id="iv.iv.xiii-p55.1"></span>[Acts
-13:3](../../../bib/kjv/act013.htm#003)<span
+13:3](../../../bib/kjv/act013.htm#003.md)<span
 id="iv.iv.xiii-p55.1"></span>). Thus these two apostles afterwards, when
 they appointed ministers to churches, were wont to use prayer and
 fasting (<span id="iv.iv.xiii-p55.2"></span>[Acts
-14:23](../../../bib/kjv/act014.htm#023)<span
+14:23](../../../bib/kjv/act014.htm#023.md)<span
 id="iv.iv.xiii-p55.2"></span>). In general, the only object which they
 had in fasting was to render themselves more alert and disencumbered for
 prayer. We certainly experience that after a full meal the mind does not
@@ -657,17 +657,17 @@ longing for prayer, and perseverance in prayer. In this sense is to be
 understood the saying of Luke concerning Anna, that she “served God with
 fastings and prayers, night and day” (<span
 id="iv.iv.xiii-p55.3"></span>[Luke
-2:37](../../../bib/kjv/luk002.htm#037)<span
+2:37](../../../bib/kjv/luk002.htm#037.md)<span
 id="iv.iv.xiii-p55.3"></span>). For he does not place the worship of God
 in fasting, but intimates that in this way the holy woman trained
 herself to assiduity in prayer. Such was the fast of Nehemiah, when with
 more intense zeal he prayed to God for the deliverance of his people
 (<span id="iv.iv.xiii-p55.4"></span>[Neh.
-1:4](../../../bib/kjv/neh001.htm#004)<span
+1:4](../../../bib/kjv/neh001.htm#004.md)<span
 id="iv.iv.xiii-p55.4"></span>). For this reason Paul says, that married
 believers do well to abstain for a season (<span
 id="iv.iv.xiii-p55.5"></span>[1 Cor.
-7:5](../../../bib/kjv/co1007.htm#005)<span
+7:5](../../../bib/kjv/co1007.htm#005.md)<span
 id="iv.iv.xiii-p55.5"></span>), that they may have greater freedom for
 prayer and fasting, when by joining prayer to fasting, by way of help,
 he reminds us it is of no importance in itself, save in so far as it
@@ -680,7 +680,7 @@ attention.
 begins to stalk abroad, or famine or war, or when any other disaster
 seems to impend over a province and people (<span
 id="iv.iv.xiii-p56.1"></span>[Esther
-4:16](../../../bib/kjv/est004.htm#016)<span
+4:16](../../../bib/kjv/est004.htm#016.md)<span
 id="iv.iv.xiii-p56.1"></span>), then also it is the duty of pastors to
 exhort the Church to fasting, that she may suppliantly deprecate the
 Lord’s anger. For when he makes danger appear, he declares that he is
@@ -694,7 +694,7 @@ salutary to ourselves. And that this was common among the Israelites we
 may infer from the words of Joel. For when he says, “Blow the trumpet in
 Zion, sanctify a fast, call a solemn assembly,” &c. (<span
 id="iv.iv.xiii-p56.2"></span>[Joel
-2:15](../../../bib/kjv/joe002.htm#015)<span
+2:15](../../../bib/kjv/joe002.htm#015.md)<span
 id="iv.iv.xiii-p56.2"></span>), he speaks as of things received by
 common custom. A little before he had said that the people were to be
 tried for their wickedness, and that the day of judgment was at hand,
@@ -710,7 +710,7 @@ why should we in similar necessity use this less than did those of old?
 We read not only that the Israelitish Church, formed and constituted by
 the word of God, fasted in token of sadness, but the Ninevites also,
 whose only teaching had been the preaching of Jonah.58  <span
-id="fr_594"></span>[595](#fn_594) Why, therefore, should not we do the
+id="fr_594"></span>[595](#fn_594.md) Why, therefore, should not we do the
 same? But it is an external ceremony, which, like other ceremonies,
 terminated in Christ. Nay, in the present day it is an admirable help to
 believers, as it always was, and a useful admonition to arouse them,
@@ -720,9 +720,9 @@ excuses his apostles for not fasting, he does not say that fasting was
 abrogated, but reserves it for calamitous times, and conjoins it with
 mourning. “The days will come when the bridegroom shall be taken from
 them” (<span id="iv.iv.xiii-p57.4"></span>[Mt.
-9:35](../../../bib/kjv/mat009.htm#035)<span
+9:35](../../../bib/kjv/mat009.htm#035.md)<span
 id="iv.iv.xiii-p57.4"></span>; <span id="iv.iv.xiii-p57.5"></span>[Luke
-5:34](../../../bib/kjv/luk005.htm#034)<span
+5:34](../../../bib/kjv/luk005.htm#034.md)<span
 id="iv.iv.xiii-p57.5"></span>).
 
 <span id="iv.iv.xiii-p58"></span>18. But that there maybe no error in
@@ -752,7 +752,7 @@ ever and anon falling, unless pastors obviate them by the greatest
 fidelity and prudence. The first thing is constantly to urge the
 injunction of Joel, “Rend your heart, and not your garments” (<span
 id="iv.iv.xiii-p59.1"></span>[Joel
-2:13](../../../bib/kjv/joe002.htm#013)<span
+2:13](../../../bib/kjv/joe002.htm#013.md)<span
 id="iv.iv.xiii-p59.1"></span>); that is, to remind the people that
 fasting in itself is not of great value in the sight of God, unless
 accompanied with internal affection of the heart, true dissatisfaction
@@ -766,7 +766,7 @@ Jews, in thinking that they had satisfied God when they had merely
 fasted, whatever might be the impiety and impure thoughts which they
 cherished in their hearts. “Is it such a fast that I have chosen?”
 (<span id="iv.iv.xiii-p59.2"></span>[Isa.
-58:5](../../../bib/kjv/isa058.htm#005)<span
+58:5](../../../bib/kjv/isa058.htm#005.md)<span
 id="iv.iv.xiii-p59.2"></span>) See also what follows. The fast of
 hypocrites is, therefore, not only useless and superfluous fatigue, but
 the greatest abomination. Another evil akin to this, and greatly to be
@@ -777,7 +777,7 @@ to have respect, it is a most pernicious superstition to confound it
 with the works enjoined by God, and which are necessary in themselves
 without reference to anything else. Such was anciently the dream of the
 Manichees, in refuting whom Augustine clearly shows,58  <span
-id="fr_595"></span>[596](#fn_595) that fasting is to be estimated
+id="fr_595"></span>[596](#fn_595.md) that fasting is to be estimated
 entirely by those ends which I have mentioned, and cannot be approved by
 God, unless in so far as it refers to them. Another error, not indeed so
 impious, but perilous, is to exact it with greater strictness and
@@ -785,7 +785,7 @@ severity as one of the principal duties, and extol it with such
 extravagant encomiums as to make men imagine that they have done
 something admirable when they have fasted. In this respect I dare not
 entirely excuse ancient writers58  <span
-id="fr_596"></span>[597](#fn_596) from having sown some seeds of
+id="fr_596"></span>[597](#fn_596.md) from having sown some seeds of
 superstition, and given occasion to the tyranny which afterwards arose.
 We sometimes meet with sound and prudent sentiments on fasting, but we
 also ever and anon meet with extravagant praises, lauding it as one of
@@ -807,7 +807,7 @@ rather gives an example, by which he may raise all to admire rather than
 study to imitate him. In short, the nature of his fast is not different
 from that which Moses observed when he received the law at the hand of
 the Lord (<span id="iv.iv.xiii-p62.1"></span>[Exod.
-24:18](../../../bib/kjv/exo024.htm#018)<span
+24:18](../../../bib/kjv/exo024.htm#018.md)<span
 id="iv.iv.xiii-p62.1"></span>; 34:28). For, seeing that that miracle was
 performed in Moses to establish the law, it behoved not to be omitted in
 Christ, lest the gospel should seem inferior to the law. But from that
@@ -817,7 +817,7 @@ holy prophets and fathers follow it, though they had inclination and
 zeal enough for all pious exercises; for though it is said of Elijah
 that he passed forty days without meat and drink (<span
 id="iv.iv.xiii-p62.2"></span>[1 Kings
-19:8](../../../bib/kjv/kg1019.htm#008)<span
+19:8](../../../bib/kjv/kg1019.htm#008.md)<span
 id="iv.iv.xiii-p62.2"></span>), this was merely in order that the people
 might recognise that he was raised up to maintain the law, from which
 almost the whole of Israel had revolted. It was therefore merely false
@@ -841,8 +841,8 @@ if a man were contaminated by it. Sacrilegious opinions were added, one
 after another, until all became an abyss of error. And that no kind of
 depravity might be omitted, they began, under a most absurd pretence of
 abstinence, to make a mock of God;58  <span
-id="fr_597"></span>[598](#fn_597)  <span
-id="fr_598"></span>[599](#fn_598) for in the most exquisite delicacies
+id="fr_597"></span>[598](#fn_597.md)  <span
+id="fr_598"></span>[599](#fn_598.md) for in the most exquisite delicacies
 they seek the praise of fasting: no dainties now suffice; never was
 there greater abundance or variety or savouriness of food. In this
 splendid display they think that they serve God. I do not mention that
@@ -940,7 +940,7 @@ passages, that a bishop be the husband of one wife; but what could be
 stronger than his declaration, that in the latter days there would be
 impious men “forbidding to marry”? (<span
 id="iv.iv.xiii-p67.1"></span>[1 Tim.
-4:3](../../../bib/kjv/ti1004.htm#003)<span
+4:3](../../../bib/kjv/ti1004.htm#003.md)<span
 id="iv.iv.xiii-p67.1"></span>) Such persons he calls not only impostors,
 but devils. We have therefore a prophecy, a sacred oracle of the Holy
 Spirit, intended to warn the Church from the outset against perils, and
@@ -999,13 +999,13 @@ present day, the comparison is made in vain. Wherefore the apostle
 declares distinctly, without reservation, “Marriage is honourable in
 all, and the bed undefiled; but whoremongers and adulterers God will
 judge” (<span id="iv.iv.xiii-p69.1"></span>[Heb.
-13:4](../../../bib/kjv/heb013.htm#004)<span
+13:4](../../../bib/kjv/heb013.htm#004.md)<span
 id="iv.iv.xiii-p69.1"></span>). And the apostles showed, by their own
 example, that marriage is not unbefitting the holiness of any function,
 however excellent; for Paul declares, that they not only retained their
 wives, but led them about with them (<span
 id="iv.iv.xiii-p69.2"></span>[1 Cor.
-9:5](../../../bib/kjv/co1009.htm#005)<span
+9:5](../../../bib/kjv/co1009.htm#005.md)<span
 id="iv.iv.xiii-p69.2"></span>).
 
 <span id="iv.iv.xiii-p70"></span>26. Then how great the effrontery when,
@@ -1084,7 +1084,7 @@ Hom. de Invent. Crucis.).
 
 ### Footnotes
 
-<span id="fn_586"></span>[587](inst092.htm#fr_586) <span
+<span id="fn_586"></span>[587](inst092.htm#fr_586.md) <span
 id="iv.iv.xiii-p32.1"></span>
 
 <span id="iv.iv.xiii-p33"></span>72 572 French, “J’use de ce mot de
@@ -1093,25 +1093,25 @@ j’entens ceux qui ont office et ministere en l’Eglise.”—I use this word
 Clergy because it is common, though it is improper; by it I mean those
 who have an office and ministry in the Church.
 
-<span id="fn_587"></span>[588](inst092.htm#fr_587) <span
+<span id="fn_587"></span>[588](inst092.htm#fr_587.md) <span
 id="iv.iv.xiii-p37.1"></span>
 
 <span id="iv.iv.xiii-p38"></span>73 573 Vide Cyril in Joann. cap. 50, et
 Luther, de Commun. Populi, tom. 2
 
-<span id="fn_588"></span>[589](inst092.htm#fr_588) <span
+<span id="fn_588"></span>[589](inst092.htm#fr_588.md) <span
 id="iv.iv.xiii-p39.2"></span>
 
 <span id="iv.iv.xiii-p40"></span>74 574 Cyprian, Lib. 1 Ep. 2; Lib. 3
 Ep. 14, 26.
 
-<span id="fn_589"></span>[590](inst092.htm#fr_589) <span
+<span id="fn_589"></span>[590](inst092.htm#fr_589.md) <span
 id="iv.iv.xiii-p41.1"></span>
 
 <span id="iv.iv.xiii-p42"></span>75 575 Ambros. Lib. 1 Ep. 3; et Oratio
 habita in Funere Theodosii.
 
-<span id="fn_590"></span>[591](inst092.htm#fr_590) <span
+<span id="fn_590"></span>[591](inst092.htm#fr_590.md) <span
 id="iv.iv.xiii-p45.3"></span>
 
 <span id="iv.iv.xiii-p46"></span>76 576 French, “Il y a danger, que de
@@ -1120,55 +1120,55 @@ correcteurs nous ne devenions bourreaux.”—There is a danger, lest
 instead of discipline we fall into a kind of gehenna, and instead of
 correctors become executioners.
 
-<span id="fn_591"></span>[592](inst092.htm#fr_591) <span
+<span id="fn_591"></span>[592](inst092.htm#fr_591.md) <span
 id="iv.iv.xiii-p48.1"></span>
 
 <span id="iv.iv.xiii-p49"></span>77 577 See a lengthened refutation in
 Calv. Instructio adv. Anabap. Art. 2. See also Calv. de Cœna Domini.
 
-<span id="fn_592"></span>[593](inst092.htm#fr_592) <span
+<span id="fn_592"></span>[593](inst092.htm#fr_592.md) <span
 id="iv.iv.xiii-p51.1"></span>
 
 <span id="iv.iv.xiii-p52"></span>78 578 See a striking instance in <span
 id="iv.iv.xiii-p52.1"></span>[Ezra
-8:21](../../../bib/kjv/ezr008.htm#021)<span
+8:21](../../../bib/kjv/ezr008.htm#021.md)<span
 id="iv.iv.xiii-p52.1"></span>, on the appointment of a fast at the river
 Ahava, on the return of the people from the Babylonish captivity.
 
-<span id="fn_593"></span>[594](inst092.htm#fr_593) <span
+<span id="fn_593"></span>[594](inst092.htm#fr_593.md) <span
 id="iv.iv.xiii-p52.2"></span>
 
 <span id="iv.iv.xiii-p53"></span>79 579 French “Quand il advient quelque
 different en Chretienté, qui tire grande consequence.”—When some
 difference on a matter of great consequence takes place in Christendom.
 
-<span id="fn_594"></span>[595](inst092.htm#fr_594) <span
+<span id="fn_594"></span>[595](inst092.htm#fr_594.md) <span
 id="iv.iv.xiii-p56.3"></span>
 
 <span id="iv.iv.xiii-p57"></span>80 580 <span
 id="iv.iv.xiii-p57.1"></span>[1 Sam.
-7:6](../../../bib/kjv/sa1007.htm#006)<span
+7:6](../../../bib/kjv/sa1007.htm#006.md)<span
 id="iv.iv.xiii-p57.1"></span>; 31:13; <span
 id="iv.iv.xiii-p57.2"></span>[2 Kings
-1:12](../../../bib/kjv/kg2001.htm#012)<span
+1:12](../../../bib/kjv/kg2001.htm#012.md)<span
 id="iv.iv.xiii-p57.2"></span>; <span id="iv.iv.xiii-p57.3"></span>[Jonah
-3:5](../../../bib/kjv/jon003.htm#005)<span
+3:5](../../../bib/kjv/jon003.htm#005.md)<span
 id="iv.iv.xiii-p57.3"></span>.
 
-<span id="fn_595"></span>[596](inst092.htm#fr_595) <span
+<span id="fn_595"></span>[596](inst092.htm#fr_595.md) <span
 id="iv.iv.xiii-p59.3"></span>
 
 <span id="iv.iv.xiii-p60"></span>81 581 August de Morib. Manich. Lib. 2
 c. 13; et cont. Faustum, Lib. 30
 
-<span id="fn_596"></span>[597](inst092.htm#fr_596) <span
+<span id="fn_596"></span>[597](inst092.htm#fr_596.md) <span
 id="iv.iv.xiii-p60.1"></span>
 
 <span id="iv.iv.xiii-p61"></span>82 582 See Chrysostom. Homil. sub.
 initium Quadragesimæ, where he terms fasting a cure of souls and
 ablution for sins.
 
-<span id="fn_597"></span>[598](inst092.htm#fr_597) <span
+<span id="fn_597"></span>[598](inst092.htm#fr_597.md) <span
 id="iv.iv.xiii-p63.1"></span>
 
 <span id="iv.iv.xiii-p64"></span>83 583 Bernard in Serm. 1 in die
@@ -1176,7 +1176,7 @@ Paschæ, censures, among others, princes also, for longing, during the
 season of Lent, for the approaching festival of our Lord’s resurrection,
 that they might indulge more freely.
 
-<span id="fn_598"></span>[599](inst092.htm#fr_598) <span
+<span id="fn_598"></span>[599](inst092.htm#fr_598.md) <span
 id="iv.iv.xiii-p64.1"></span>
 
 <span id="iv.iv.xiii-p65"></span>121 D121 Bernard censures, among
@@ -1187,4 +1187,4 @@ more freely.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 13. - OF VOWS. THE MISERABLE ENTANGLEMENTS CAUSED BY
-VOWING RASHLY.](inst093)
+VOWING RASHLY.](inst093.md)

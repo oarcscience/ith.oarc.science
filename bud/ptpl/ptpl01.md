@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ptpl00)  [Next](ptpl02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ptpl00)  [Next](ptpl02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Principal Teachings of The True Sect of Pure Land*, by Yejitsu Okusa,
 \[1915\], at Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte)
 
 The doctrine of Amida represents the practical phase of Buddhism, and in
 the True Sect of Pure Land we see the deep meaning of salvation by faith
-most [thoroughly](errata.htm#0) revealed; and it is in this that the
+most [thoroughly](errata.htm#0.md) revealed; and it is in this that the
 essence of Buddhism as religion, apart from its philosophical and
 ethical aspects, consists.
 
@@ -61,4 +61,4 @@ was necessarily made in the narration.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ptpl02)
+[Next: Contents](ptpl02.md)

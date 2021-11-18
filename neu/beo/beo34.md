@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo33)  [Next](beo35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo33)  [Next](beo35.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ detailed description below.
 
 ------------------------------------------------------------------------
 
-[Next: Part XXXVI](beo35)
+[Next: Part XXXVI](beo35.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr20)  [Next](rhr22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr20)  [Next](rhr22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ the narrower sense of that now much abused term.
 <span id="page_284">p. 284</span>
 
 Robert Fludd was born at Milgate House, <span
-id="fr_91"></span>[1](#fn_91) in the parish of Bersted, Kent, during the
+id="fr_91"></span>[1](#fn_91.md) in the parish of Bersted, Kent, during the
 year 1574. By his mother's side he was descended from the ancient family
 of Andros of Taunton in Somerset. His father, Thomas Fludd, was a
 representative of a Shropshire stock, and successively occupied several
@@ -53,12 +53,12 @@ France; afterwards he was made Receiver of Kent, Sussex, and Surrey, and
 being appointed treasurer of the army sent under Lord Willoughby to
 Henry IV. of France, "he behaved so honourably that he was knighted, and
 on his return to England was made treasurer of all her Majesty's forces
-in the Low Countries." <span id="fr_92"></span>[2](#fn_92) This was in
+in the Low Countries." <span id="fr_92"></span>[2](#fn_92.md) This was in
 the reign of Queen Elizabeth; he was constantly a justice of the peace
 where he resided, and was also treasurer of the Cinque ports. "He bore
 for his arms--vert, a chevron between three wolves’ heads erased,
 argent, which coat, with his quarterings, was confirmed to him by Robert
-Cook, Clar., Nov. 10, 1572." <span id="fr_93"></span>[3](#fn_93)
+Cook, Clar., Nov. 10, 1572." <span id="fr_93"></span>[3](#fn_93.md)
 
 I have succeeded in compiling from various sources the following scanty
 genealogy of the Fludd family:--
@@ -69,7 +69,7 @@ genealogy of the Fludd family:--
 
 <span id="img_28500"></span> <span align="CENTER"> [![Robert Flood
 Genealogical Tree](tn/28500.jpg)  
-Click to enlarge](img/28500.jpg)  
+Click to enlarge](img/28500.jpg.md)  
 Robert Flood Genealogical Tree  
 </span>
 
@@ -89,7 +89,7 @@ probably acquainted with the Rosicrucian controversy, and with whom he
 corresponded after the renowned German alchemist had returned to his own
 country. Fludd appears to have resided chiefly in London, then as now
 the great intellectual centre of England. He had a house in Fenchurch
-Street, according to Fuller, <span id="fr_94"></span>[1](#fn_94) and
+Street, according to Fuller, <span id="fr_94"></span>[1](#fn_94.md) and
 another in Coleman Street, where he died in the year 1637, on the 8th
 day of September. He was buried in the chancel of Bersted Church, under
 a tomb which he had previously erected--"An oblong square of dark,
@@ -111,11 +111,11 @@ hic monumenta tui nam tibi qui similis scribit moriturque sepulchrum pro
 tota eternum posteritate facit. Hoc monumentum Thomas Flood Gore Court
 in oram apud Cantianos armiger infoelissimam in charissimi patrin sui
 memoriam nexit, die Mensis Augusti M.D.C.XXXVII.'" <span
-id="fr_95"></span>[1](#fn_95)
+id="fr_95"></span>[1](#fn_95.md)
 
 Bersted Church is situated on high ground, at a small distance south of
 Bersted Green. It is dedicated to the Holy Cross, and, according to
-Hasted, <span id="fr_96"></span>[2](#fn_96) is a handsome building,
+Hasted, <span id="fr_96"></span>[2](#fn_96.md) is a handsome building,
 consisting of two aisles and two chancels, with a square beacon tower at
 the west end of it. This is in the Perpendicular style, and at three
 angles of the summit are three rude figures, said to be three dogs or
@@ -624,7 +624,7 @@ Fludd's theory of the Macrocosmus is enunciated in the following manner.
 
 <span id="img_30300"></span> <span align="CENTER"> [![DE MACROCOSMI
 PRINCIPIIS.](tn/30300.jpg)  
-Click to enlarge](img/30300.jpg)  
+Click to enlarge](img/30300.jpg.md)  
 DE MACROCOSMI PRINCIPIIS.  
 </span>
 
@@ -636,7 +636,7 @@ DE MACROCOSMI PRINCIPIIS.
 
 <span id="img_30400"></span> <span align="CENTER"> [![DE MACROCOSMI
 FABRICA.](tn/30400.jpg)  
-Click to enlarge](img/30400.jpg)  
+Click to enlarge](img/30400.jpg.md)  
 DE MACROCOSMI FABRICA.  
 </span>
 
@@ -712,7 +712,7 @@ more rational views as "terrene, animal, and diabolical."
 
 ### Footnotes
 
-<span id="fn_91"></span>[284:1](rhr21.htm#fr_91) The seat of Milgat was
+<span id="fn_91"></span>[284:1](rhr21.htm#fr_91.md) The seat of Milgat was
 formerly esteemed a manor. It was anciently possessed by the family of
 Coloigne, one of whom, Robert de Coloigne, died feifed of it in the 35th
 year of Edward III. In process of time his descendants came to be called
@@ -728,21 +728,21 @@ One corner of this edifice is still said to remain built in the
 manor-house erected on its site when the old house fell into
 ruins.--Hasted, "History of Kent," vol. ii., pp. 486, 487.
 
-<span id="fn_92"></span>[284:2](rhr21.htm#fr_92) Hasted's "History of
+<span id="fn_92"></span>[284:2](rhr21.htm#fr_92.md) Hasted's "History of
 Kent," vol. ii., p. 486.
 
-<span id="fn_93"></span>[284:3](rhr21.htm#fr_93) "Visitation of County
+<span id="fn_93"></span>[284:3](rhr21.htm#fr_93.md) "Visitation of County
 of Kent, 1574 and 1619."
 
-<span id="fn_94"></span>[286:1](rhr21.htm#fr_94) "Worthies of Great
+<span id="fn_94"></span>[286:1](rhr21.htm#fr_94.md) "Worthies of Great
 Britain," p. 78 of the second part.
 
-<span id="fn_95"></span>[287:1](rhr21.htm#fr_95) Hargrave Jennings, "The
+<span id="fn_95"></span>[287:1](rhr21.htm#fr_95.md) Hargrave Jennings, "The
 Rosicrucians, &c.," p. 364.
 
-<span id="fn_96"></span>[287:2](rhr21.htm#fr_96) "History of Kent," vol.
+<span id="fn_96"></span>[287:2](rhr21.htm#fr_96.md) "History of Kent," vol.
 ii., p. 489.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Rosicrucian Apologists: Thomas Vaughan](rhr22)
+[Next: Chapter XII. Rosicrucian Apologists: Thomas Vaughan](rhr22.md)

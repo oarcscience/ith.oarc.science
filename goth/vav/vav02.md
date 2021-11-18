@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav01)  [Next](vav03) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav01)  [Next](vav03.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ August 18th, 1893.
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the First (1870) Edition.](vav03)
+[Next: Preface to the First (1870) Edition.](vav03.md)

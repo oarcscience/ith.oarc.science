@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar050) [Next](gbar052)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar050) [Next](gbar052.md)
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ of the judgment of God.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar052)
+[Next](gbar052.md)

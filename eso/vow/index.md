@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,8 +28,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](vow00)    [Page
-Index](pageidx)    [Text \[Zipped\]](vow.txt.gz)
+[Contents](#contents)    [Start Reading](vow00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](vow.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,82 +43,82 @@ Trismegistus.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](vow00)  
-[Contents](vow01)  
+<span id="contents"></span> [Title Page](vow00.md)  
+[Contents](vow01.md)  
 <span id="section_000"></span>
 
 ### Introductory Essays and Preface
 
-[Note](vow02)  
-[The Hermetic Books](vow03)  
+[Note](vow02.md)  
+[The Hermetic Books](vow03.md)  
 [The Hermetic System and the Significance of its Present
-Revival](vow04)  
-[An Introduction to The Virgin of the World](vow05)  
+Revival](vow04.md)  
+[An Introduction to The Virgin of the World](vow05.md)  
 <span id="section_001"></span>
 
 ### The Virgin of the World
 
-[Part I](vow06)  
-[Part II](vow07)  
-[Part III](vow08)  
+[Part I](vow06.md)  
+[Part II](vow07.md)  
+[Part III](vow08.md)  
 <span id="section_002"></span>
 
 ### A Treatise on Initiations; or, Asclepios
 
-[Part I.](vow09)  
-[Part II](vow10)  
-[Part III](vow11)  
-[Part IV](vow12)  
-[Part V](vow13)  
-[Part VI](vow14)  
-[Part VII](vow15)  
-[Part VIII](vow16)  
-[Part IX](vow17)  
-[Part X](vow18)  
-[Part XI](vow19)  
-[Part XII](vow20)  
-[Part XIII](vow21)  
-[Part XIV](vow22)  
-[Part XV](vow23)  
+[Part I.](vow09.md)  
+[Part II](vow10.md)  
+[Part III](vow11.md)  
+[Part IV](vow12.md)  
+[Part V](vow13.md)  
+[Part VI](vow14.md)  
+[Part VII](vow15.md)  
+[Part VIII](vow16.md)  
+[Part IX](vow17.md)  
+[Part X](vow18.md)  
+[Part XI](vow19.md)  
+[Part XII](vow20.md)  
+[Part XIII](vow21.md)  
+[Part XIV](vow22.md)  
+[Part XV](vow23.md)  
 <span id="section_003"></span>
 
 ### The Definitions of Asclepios
 
-[Part I](vow24)  
-[Part II](vow25)  
-[Part III](vow26)  
-[Part IV](vow27)  
+[Part I](vow24.md)  
+[Part II](vow25.md)  
+[Part III](vow26.md)  
+[Part IV](vow27.md)  
 <span id="section_004"></span>
 
 ### Fragments of the Book of Hermes to his Son Tatios
 
-[Part I](vow28)  
-[Part II](vow29)  
-[Part III](vow30)  
-[Part IV](vow31)  
-[Part V](vow32)  
-[Part VI](vow33)  
-[Part VII](vow34)  
-[Part VIII](vow35)  
+[Part I](vow28.md)  
+[Part II](vow29.md)  
+[Part III](vow30.md)  
+[Part IV](vow31.md)  
+[Part V](vow32.md)  
+[Part VI](vow33.md)  
+[Part VII](vow34.md)  
+[Part VIII](vow35.md)  
 <span id="section_005"></span>
 
 ### Fragments of the Writings of Hermes to Ammon
 
-[Part I](vow36)  
-[Part II](vow37)  
-[Part III](vow38)  
-[Part IV](vow39)  
-[Part V](vow40)  
-[Part VI](vow41)  
+[Part I](vow36.md)  
+[Part II](vow37.md)  
+[Part III](vow38.md)  
+[Part IV](vow39.md)  
+[Part V](vow40.md)  
+[Part VI](vow41.md)  
 <span id="section_006"></span>
 
 ### Various Hermetic Fragments
 
-[Part I](vow42)  
-[Part II](vow43)  
-[Part III](vow44)  
-[Part IV](vow45)  
-[Part V](vow46)  
-[Part VI](vow47)  
-[Part VII](vow48)  
-[Part VIII](vow49)  
+[Part I](vow42.md)  
+[Part II](vow43.md)  
+[Part III](vow44.md)  
+[Part IV](vow45.md)  
+[Part V](vow46.md)  
+[Part VI](vow47.md)  
+[Part VII](vow48.md)  
+[Part VIII](vow49.md)  

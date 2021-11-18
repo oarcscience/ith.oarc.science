@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc12)  [Next](lcc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc12)  [Next](lcc14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -132,7 +132,7 @@ then is this?
 As trunk of elephant his arms are long,  
 His chest is full, his shoulders broad and strong, <span
 id="page_107">p. 107</span>  
-  His great eyes restless-red; <span id="fr_70"></span>[1](#fn_70)  
+  His great eyes restless-red; <span id="fr_70"></span>[1](#fn_70.md)  
 Why should this man be thus enforced to fight—  
 So noble he—with such ignoble plight,  
   His foot to fetters wed?<span class="margnote">5</span>
@@ -249,9 +249,9 @@ while we depart by this.
 
 ### Footnotes
 
-<span id="fn_70"></span>[107:1](lcc13.htm#fr_70) Lallādīkshita says that
+<span id="fn_70"></span>[107:1](lcc13.htm#fr_70.md) Lallādīkshita says that
 these are signs of royalty.
 
 ------------------------------------------------------------------------
 
-[Next: Act the Eighth: The Strangling of Vasantasenā](lcc14)
+[Next: Act the Eighth: The Strangling of Vasantasenā](lcc14.md)

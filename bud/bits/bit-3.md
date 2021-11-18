@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-2) [Next](bit-4)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-2) [Next](bit-4.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ represented in this transcription}
 
 ------------------------------------------------------------------------
 
-[Next: The Three Characteristics](bit-4)
+[Next: The Three Characteristics](bit-4.md)
 
  
 

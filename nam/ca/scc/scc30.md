@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc29)  [Next](scc31) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc29)  [Next](scc31.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ them." Then those people all fled and scattered over the country.
 
 ------------------------------------------------------------------------
 
-[Next: 29.--Yaudanchi Yokuts. The Prairie Falcon Fights.](scc31)
+[Next: 29.--Yaudanchi Yokuts. The Prairie Falcon Fights.](scc31.md)

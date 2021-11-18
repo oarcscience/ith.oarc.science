@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife7) [Next](ife9)
+[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife7) [Next](ife9.md)
 
 ------------------------------------------------------------------------
 
@@ -226,7 +226,7 @@ Old Ógun from the land.</td>
 
 ------------------------------------------------------------------------
 
-[Next](ife9)
+[Next](ife9.md)
 
 ------------------------------------------------------------------------
 
@@ -234,32 +234,32 @@ Old Ógun from the land.</td>
 
 <span id="footnotes_page_46">p. 46</span>
 
-<span id="page_46_note_1"></span>[1](#page_46_fr_1) The River which
+<span id="page_46_note_1"></span>[1](#page_46_fr_1.md) The River which
 separates this World from the next.
 
 <span id="footnotes_page_47">p. 47</span>
 
-<span id="page_47_note_1"></span>[1](#page_47_fr_1) Markets are often
+<span id="page_47_note_1"></span>[1](#page_47_fr_1.md) Markets are often
 found at crossroads in the forest.
 
-<span id="page_47_note_2"></span>[2](#page_47_fr_2) [See Note
-X](ife9.htm#X). on Ógun and Orányan.
+<span id="page_47_note_2"></span>[2](#page_47_fr_2.md) [See Note
+X](ife9.htm#X.md). on Ógun and Orányan.
 
 <span id="footnotes_page_48">p. 48</span>
 
-<span id="page_48_note_1"></span>[1](#page_48_fr_1) The theft of
+<span id="page_48_note_1"></span>[1](#page_48_fr_1.md) The theft of
 Orísha's bag.
 
 <span id="footnotes_page_49">p. 49</span>
 
-<span id="page_49_note_1"></span>[1](#page_49_fr_1) Yoruba saying.
+<span id="page_49_note_1"></span>[1](#page_49_fr_1.md) Yoruba saying.
 
-<span id="page_49_note_2"></span>[2](#page_49_fr_2) Osányi made the
+<span id="page_49_note_2"></span>[2](#page_49_fr_2.md) Osányi made the
 charms which enabled the Gods to transform.
 
 <span id="footnotes_page_52">p. 52</span>
 
-<span id="page_52_note_1"></span>[1](#page_52_fr_1) A gift of parrot's
+<span id="page_52_note_1"></span>[1](#page_52_fr_1.md) A gift of parrot's
 eggs to a Yoruba chief is an intimation that he has reigned long enough
 and that, should he die by his own hand, trouble would be saved.
 

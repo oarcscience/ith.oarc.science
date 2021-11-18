@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe064)  [Next](prwe066) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe064)  [Next](prwe066.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ DANIEL WILSON. See Appendix N, 'in, Celts.
 
 ------------------------------------------------------------------------
 
-[Next: The Logan or Loging Rock](prwe066)
+[Next: The Logan or Loging Rock](prwe066.md)

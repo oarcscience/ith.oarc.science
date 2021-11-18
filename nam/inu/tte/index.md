@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inuit](../index)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inuit](../index.md)
 
 ------------------------------------------------------------------------
 

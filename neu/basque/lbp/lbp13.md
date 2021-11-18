@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp12)  [Next](lbp14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp12)  [Next](lbp14.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,19 +38,19 @@ army feast*.")
 
 ING, bard, sing! you who are as old as the world, and whose head began
 to whiten on the very day when the great beech of Berderiz <span
-id="fr_35"></span>[1](#fn_35) was planted. Sing, bard, sing! Eldest of
+id="fr_35"></span>[1](#fn_35.md) was planted. Sing, bard, sing! Eldest of
 our improvisatores; singer of our feasts, of our warlike deeds, of our
 loves! Sing a welcome to our
 
 <span id="page_221">p. 221</span>
 
 brothers of the valley of Bertizarana, of Baztan, Of Aezcoa, of Erro,
-and of Roncal. <span id="fr_36"></span>[1](#fn_36) Salute with your most
+and of Roncal. <span id="fr_36"></span>[1](#fn_36.md) Salute with your most
 penetrative and sonorous "lecayo" our brothers of Elzupel, of Otsobide,
-Hernio, and Aitzgorri. <span id="fr_37"></span>[2](#fn_37)
+Hernio, and Aitzgorri. <span id="fr_37"></span>[2](#fn_37.md)
 
 The night is dark, and the wind whistles across the trees of
-Irati, <span id="fr_38"></span>[3](#fn_38) compelling the wolf of the
+Irati, <span id="fr_38"></span>[3](#fn_38.md) compelling the wolf of the
 mountains to hide its brown head. The night is darksome, and a whirlwind
 of snow is drifting the flakes in heaps. It is a pleasant night for us,
 children of the mountains and of the tempests. It is a night which
@@ -85,22 +85,22 @@ mastiffs. The raid will last eight suns.
 
  
 
-Thus spoke the chieftain of Izalzu, <span id="fr_39"></span>[1](#fn_39)
+Thus spoke the chieftain of Izalzu, <span id="fr_39"></span>[1](#fn_39.md)
 and great acclamations resounded among the rocks of Orbara, <span
-id="fr_40"></span>[2](#fn_40) and the
+id="fr_40"></span>[2](#fn_40.md) and the
 
 <span id="page_223">p. 223</span>
 
 torrent, which later on took the name of Irati, stayed its rapid course.
 
 An hour later, and the mountaineers traversed the deserted parts of
-Montlig and Astarac. <span id="fr_41"></span>[1](#fn_41) To the right
+Montlig and Astarac. <span id="fr_41"></span>[1](#fn_41.md) To the right
 appear, like so many skeletons of gigantic elephants amid the shades of
 night, the Druidical altars of Asté, Sem, Nestos, and Heas. <span
-id="fr_42"></span>[2](#fn_42) From thence they descend and sally out of
+id="fr_42"></span>[2](#fn_42.md) From thence they descend and sally out of
 the darksome defiles of Zulogaraya, Izotzce, and Asarosta, <span
-id="fr_43"></span>[3](#fn_43) into the fertile plains of
-Novempopulania. <span id="fr_44"></span>[4](#fn_44) They descend
+id="fr_43"></span>[3](#fn_43.md) into the fertile plains of
+Novempopulania. <span id="fr_44"></span>[4](#fn_44.md) They descend
 silently and sinister, like the black, immense wave, the first breath of
 the hurricane which at night surprises the heedless ship.
 
@@ -117,7 +117,7 @@ are showing their bare heads and, flinging aside their lances, sleep at
 will; because the mountain is far distant--because no noise comes from
 thence--because the storm increases, and the night continues fearful and
 darksome. The waters of the Adour and of the Nive <span
-id="fr_45"></span>[1](#fn_45) are filled with the multitude that are
+id="fr_45"></span>[1](#fn_45.md) are filled with the multitude that are
 swimming across silently, The neigh of the war-horse is not heard; nor
 is the red standard of the *Three Hands* waving in the air; nor is the
 echo awakened by the "irrinzi" of war.
@@ -146,7 +146,7 @@ Sing, bards, sing! Sing the incursions of the sons of the mountains and
 of the tempest! The lances are dripping with blood; the men come loaded
 with spoils. Sing, bard, sing! May your sonorous voice be echoed across
 the woods and forests of Cahella, of Belaya, and of Ahaide, <span
-id="fr_46"></span>[1](#fn_46) singing the victory of the sons of Aitor.
+id="fr_46"></span>[1](#fn_46.md) singing the victory of the sons of Aitor.
 Sing, bard of the silvery beard! Our children will have white bread and
 red wine until they are satiated, and our chieftains crucified in
 Kuruceta and Izascun smile from within their sepulchres.
@@ -162,55 +162,55 @@ across the Ebro, and our war-cry will reach even to Moncayo.
 
 ### Footnotes
 
-<span id="fn_35"></span>[220:1](lbp13.htm#fr_35) *Berderiz*. A mountain
+<span id="fn_35"></span>[220:1](lbp13.htm#fr_35.md) *Berderiz*. A mountain
 situated at two kilometres from the town of Irurita, in the valley of
 Baztan.
 
-<span id="fn_36"></span>[221:1](lbp13.htm#fr_36) *Bertizarana*, &c.
+<span id="fn_36"></span>[221:1](lbp13.htm#fr_36.md) *Bertizarana*, &c.
 Valleys of Navarre, on the frontiers of France. The three first are
 narrow and surrounded by very high mountains.
 
-<span id="fn_37"></span>[221:2](lbp13.htm#fr_37) *Elzupel*, &c.
+<span id="fn_37"></span>[221:2](lbp13.htm#fr_37.md) *Elzupel*, &c.
 Mountains. The two first belong to Navarre and the third to Guipuzcoa.
 
-<span id="fn_38"></span>[221:3](lbp13.htm#fr_38) *Irati*. One of the
+<span id="fn_38"></span>[221:3](lbp13.htm#fr_38.md) *Irati*. One of the
 principal mountains of Navarre. It is covered by dense woods, in which
 are found lynx, bears, wolves, and all kinds of large game. The
 circumference of the base of this mountain is about fifty kilometres.
 One part belongs to France, and the rest to Navarre.
 
-<span id="fn_39"></span>[222:1](lbp13.htm#fr_39) *Izalzu*. A village
+<span id="fn_39"></span>[222:1](lbp13.htm#fr_39.md) *Izalzu*. A village
 situated five kilometres from Ochagabia, in the valley of Aezcoa, in
 Navarre.
 
-<span id="fn_40"></span>[222:2](lbp13.htm#fr_40) *Orbara*. A precipitous
+<span id="fn_40"></span>[222:2](lbp13.htm#fr_40.md) *Orbara*. A precipitous
 defile of the valley of Aezcoa, in Navarre.
 
-<span id="fn_41"></span>[223:1](lbp13.htm#fr_41) *Montlig* and
+<span id="fn_41"></span>[223:1](lbp13.htm#fr_41.md) *Montlig* and
 *Astarac*. Deserted places of the French Pyrenees.
 
-<span id="fn_42"></span>[223:2](lbp13.htm#fr_42) *Asté*, *Sem*,
+<span id="fn_42"></span>[223:2](lbp13.htm#fr_42.md) *Asté*, *Sem*,
 *Nestos*, and *Heas*. Mountainous and deserted places in the centre of
 the Pyrenees.
 
-<span id="fn_43"></span>[223:3](lbp13.htm#fr_43) *Zulogaraya*, &c.
+<span id="fn_43"></span>[223:3](lbp13.htm#fr_43.md) *Zulogaraya*, &c.
 Defiles or passes of the French Pyrenees, which have their commencement
 in Spanish territory.
 
-<span id="fn_44"></span>[223:4](lbp13.htm#fr_44) Novempopulania. During
+<span id="fn_44"></span>[223:4](lbp13.htm#fr_44.md) Novempopulania. During
 the epoch of the domination of the Romans this district extended from
 the Cantabrian Ocean to the margin of the river Garona, and from the
 first slope of the French Pyrenees to the margin of the above-said river
 and its mouth into the sea, forming an acute angle.
 
-<span id="fn_45"></span>[224:1](lbp13.htm#fr_45) *Nive*, &c. A French
+<span id="fn_45"></span>[224:1](lbp13.htm#fr_45.md) *Nive*, &c. A French
 river, which springs on the declivity to the north of the Western
 Pyrenees, and joins the river Adour in Bayonne, and jointly flows into
 the Cantabrian Ocean.
 
-<span id="fn_46"></span>[225:1](lbp13.htm#fr_46) *Cahella*, &c. High and
+<span id="fn_46"></span>[225:1](lbp13.htm#fr_46.md) *Cahella*, &c. High and
 very luxuriant mountains, close to the valley of Roncal, in Navarre.
 
 ------------------------------------------------------------------------
 
-[Next: The Holy War--Ballad](lbp14)
+[Next: The Holy War--Ballad](lbp14.md)

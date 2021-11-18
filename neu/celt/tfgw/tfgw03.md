@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw02)  [Next](tfgw04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw02)  [Next](tfgw04.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ Fitzgerald and Daniel O' Donohue
 
 ------------------------------------------------------------------------
 
-[Next: The Fairies of Rahonain and Elizabeth Shea](tfgw04)
+[Next: The Fairies of Rahonain and Elizabeth Shea](tfgw04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc72)  [Next](osc74) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc72)  [Next](osc74.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ Both properly are said to be in drink."
 
 ------------------------------------------------------------------------
 
-[Next: (8) Yew Trees In Churchyards](osc74)
+[Next: (8) Yew Trees In Churchyards](osc74.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](psc11)  [Next](psc13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](psc11)  [Next](psc13.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -176,7 +176,7 @@ R. Elazar said: Even when the Lord is angered, he also remembers His
 mercy, as it is written \[Hosea i. 6\]: "I will not farther have any
 more mercy upon the house of Israel; but I will give them their full
 recompense," reads: "I will not (go) farther; I will have mercy upon
-them," <span id="fr_74"></span>[1](#fn_74) etc.
+them," <span id="fr_74"></span>[1](#fn_74.md) etc.
 
 <span id="page_177">p. 177</span>
 
@@ -559,7 +559,7 @@ Nissan fall) on the third day after the menstruation had subsided; but
 for a woman whose flow of menses continued three days beyond her regular
 period, the sacrifice maybe slaughtered only if the 14th (of Nissan)
 fall on the eighth day after the flow had stopped. <span
-id="fr_75"></span>[1](#fn_75)
+id="fr_75"></span>[1](#fn_75.md)
 
 GEMARA: R.. Jehudah said in the name of Rabh: "For a person who had a
 running issue the paschal sacrifice may be slaughtered on the day on
@@ -767,7 +767,7 @@ on the day before the Passover festival may, according to Beth Shammai,
 bathe himself, and eat in the evening of the paschal sacrifice. Beth
 Hillel, however, say: "One who has parted from the uncircumcised must be
 considered as one who has just parted from the grave." <span
-id="fr_76"></span>[1](#fn_76)
+id="fr_76"></span>[1](#fn_76.md)
 
 GEMARA: Why may a mourner eat of the paschal sacrifice? Because, while
 on the day of the decease of the relative the mourner is, according to
@@ -806,19 +806,19 @@ Elazar.
 
 ### Footnotes
 
-<span id="fn_74"></span>[176:1](psc12.htm#fr_74) This version of the
+<span id="fn_74"></span>[176:1](psc12.htm#fr_74.md) This version of the
 verse R. Elazar bases upon the fact that the Hebrew term "Ara'hem" means
 "I will have mercy upon them," and if it were as translated in the first
 version of the passage the term used would be "Lera'hem."
 
-<span id="fn_75"></span>[185:1](psc12.htm#fr_75) The detailed laws
+<span id="fn_75"></span>[185:1](psc12.htm#fr_75.md) The detailed laws
 concerning the cases under discussion in the Mishna will be brought
 forward in Tract Niddah.
 
-<span id="fn_76"></span>[190:1](psc12.htm#fr_76) And is therefore
+<span id="fn_76"></span>[190:1](psc12.htm#fr_76.md) And is therefore
 unclean for seven days; hence he must not eat the paschal sacrifice.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IX: The Second Passover; Passover during Exodus; Mixed
-Paschal Sacrifices](psc13)
+Paschal Sacrifices](psc13.md)

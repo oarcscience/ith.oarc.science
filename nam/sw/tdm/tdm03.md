@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm02)  [Next](tdm04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm02)  [Next](tdm04.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,7 +153,7 @@ human activity does not reach there from the cliffs. Still, on the day
 of which we are now speaking, a voice arose from the thicket, calling
 aloud,--
 
-"Umo,--'grandfather!'" <span id="fr_0"></span>[1](#fn_0)
+"Umo,--'grandfather!'" <span id="fr_0"></span>[1](#fn_0.md)
 
 "To ima satyumishe,--'come hither, my brother,'" another voice replied
 in the same dialect, adding, "See what a big fish I have caught."
@@ -649,7 +649,7 @@ extended into the bowels of the earth. This edifice, half
 <span id="page_19">p. 19</span>
 
 underground, half above the soil, was what to-day is called in New
-Mexico an *estufa*. <span id="fr_1"></span>[1](#fn_1) This Spanish word
+Mexico an *estufa*. <span id="fr_1"></span>[1](#fn_1.md) This Spanish word
 has become a technical term, and we shall hereafter use it in the course
 of the story as well as the designations *tshikia* and *kaaptsh* of the
 Queres Indians.
@@ -667,7 +667,7 @@ There the young men became acquainted with the affairs of their
 individual connections, and little by little also with the business of
 the tribe. There, during the long evenings of winter, old men taught
 them the songs and prayers embodying traditions and myths, first of
-their own clan, then of the tribe. <span id="fr_2"></span>[2](#fn_2) The
+their own clan, then of the tribe. <span id="fr_2"></span>[2](#fn_2.md) The
 estufa was school, club-house, nay, armory to a certain extent. It was
 more. Many of the prominent religious exercises took place in it. The
 estufa on special occasions became transformed into a temple for the
@@ -878,17 +878,17 @@ and deceit. This woman was his mother.
 
 ### Footnotes
 
-<span id="fn_0"></span>[5:1](tdm03.htm#fr_0) The word "umo" properly
+<span id="fn_0"></span>[5:1](tdm03.htm#fr_0.md) The word "umo" properly
 signifies "grandfather;" but it is used indiscriminately for all ages
 and sexes in calling. An old man, for instance, will call his grandchild
 "umo;" so will a wife her husband, a brother his sister, etc.
 
-<span id="fn_1"></span>[19:1](tdm03.htm#fr_1) *Estufa* properly means a
+<span id="fn_1"></span>[19:1](tdm03.htm#fr_1.md) *Estufa* properly means a
 stove, and the name was applied to those semi-subterranean places by the
 Spaniards on account of their comfortable temperature in winter. They
 recalled to them the *temascalli*, or sweat-houses, of Mexico.
 
-<span id="fn_2"></span>[19:2](tdm03.htm#fr_2) The preservation of
+<span id="fn_2"></span>[19:2](tdm03.htm#fr_2.md) The preservation of
 traditions is much systematized among the Pueblo Indians. Certain
 societies know hardly any other but the folk-tales relating to their own
 particular origin. To obtain correct tradition it is necessary to gain
@@ -896,4 +896,4 @@ the confidence of men high in degree. That is mostly very difficult.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](tdm04)
+[Next: Chapter II](tdm04.md)
